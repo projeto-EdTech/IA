@@ -1,14 +1,3 @@
-FUVEST:
-Fuvest 2025 (ERRO, rodar novamente):
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2025_1fase/fuvest2025_1fase_prova_V1.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2025_1fase/fuvest2025_1fase_gabarito.pdf
-
-Fuvest 2016 (ERRO, rodar novamente):
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2016_1fase/fuvest2016_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2016_1fase/fuvest2016_gabarito.pdf
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 UNICAMP:
 Unicamp 2020 (ERRO, rodar novamente):
 prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2020_1fase/unicamp2020_1fase_prova_QX.pdf
@@ -189,61 +178,10 @@ gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-ITA:
-ITA 2018:
-prova fisica - https://www.vestibular.ita.br/provas/fisica_2018.pdf
-prova matematica - https://www.vestibular.ita.br/provas/matematica_2018.pdf
-prova quimica - https://www.vestibular.ita.br/provas/quimica_2018.pdf
-prova portugues - https://www.vestibular.ita.br/provas/portugues_2018.pdf
-prova ingles - https://www.vestibular.ita.br/provas/ingles_2018.pdf
-gabarito - https://www.vestibular.ita.br/provas/gabarito_2018.pdf
-
-ITA 2017:
-prova fisica - https://www.vestibular.ita.br/provas/fisica_2017.pdf
-prova matematica - https://www.vestibular.ita.br/provas/matematica_2017.pdf
-prova quimica - https://www.vestibular.ita.br/provas/quimica_2017.pdf
-prova portugues - https://www.vestibular.ita.br/provas/portugues_2017.pdf
-prova ingles - https://www.vestibular.ita.br/provas/ingles_2017.pdf
-gabarito - https://www.vestibular.ita.br/provas/gabarito_2017.pdf
-
-ITA 2016:
-prova fisica - https://www.vestibular.ita.br/provas/fisica_2016.pdf
-prova matematica - https://www.vestibular.ita.br/provas/matematica_2016.pdf
-prova quimica - https://www.vestibular.ita.br/provas/quimica_2016.pdf
-prova portugues - https://www.vestibular.ita.br/provas/portugues_2016.pdf
-prova ingles - https://www.vestibular.ita.br/provas/ingles_2016.pdf
-gabarito - https://www.vestibular.ita.br/provas/gabarito_2016.pdf
-
-ITA 2015:
-prova fisica - https://www.vestibular.ita.br/provas/fisica_2015.pdf
-prova matematica - https://www.vestibular.ita.br/provas/matematica_2015.pdf
-prova quimica - https://www.vestibular.ita.br/provas/quimica_2015.pdf
-prova portugues - https://www.vestibular.ita.br/provas/portugues_2015.pdf
-prova ingles - https://www.vestibular.ita.br/provas/ingles_2015.pdf
-gabarito - https://www.vestibular.ita.br/provas/gabarito_2015.pdf
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 MACKENZIE:
-Mackenzie 2025:
-prova - 
-gabarito - 
-
 Mackenzie 2024:
 prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2024/1dia/mackenzie2024_prova_1dia.pdf
 gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2024/1dia/mackenzie2024_gabarito_1dia.pdf
-
-Mackenzie 2023:
-prova - 
-gabarito - 
-
-Mackenzie 2022:
-prova - 
-gabarito - 
-
-Mackenzie 2021:
-prova - 
-gabarito - 
 
 Mackenzie 2020:
 prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2020/manha/mackenzie2020_manha_prova.pdf

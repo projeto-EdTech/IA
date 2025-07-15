@@ -1,1360 +1,2531 @@
 {
-  "analise_geral": {
-    "universidade_prova": "FUVEST",
+  "prova": {
+    "nomeUniversidade": "Universidade de São Paulo",
+    "siglaUniversidade": "FUVEST",
+    "nomeProva": "FUVEST",
     "ano": 2021,
-    "total_questoes": 90
+    "qtdeQuestoes": null
   },
   "questoes": [
     {
-      "numero_questao": 1,
+      "numeroEnunciado": 1,
       "enunciado": "A figura ilustra graficamente uma região de um bairro, com ruas ortogonais entre si. O ponto X indica um condomínio residencial, e o ponto Y indica a entrada de um parque. Três moradores realizam caminhos diferentes para chegar ao ponto Y, partindo do ponto X, ilustrados com cores diferentes. Se a, b e c representam as distâncias percorridas por esses moradores nesses caminhos, é correto afirmar que",
-      "alternativas": {
-        "A": "a = b = c.",
-        "B": "b = c < a.",
-        "C": "c < b < a.",
-        "D": "b < c = a.",
-        "E": "c < a = b."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Matemática – Geometria Plana"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a = b = c."
+        },
+        {
+          "letra": "B",
+          "texto": "b = c < a."
+        },
+        {
+          "letra": "C",
+          "texto": "c < b < a."
+        },
+        {
+          "letra": "D",
+          "texto": "b < c = a."
+        },
+        {
+          "letra": "E",
+          "texto": "c < a = b."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 2,
+      "numeroEnunciado": 2,
       "enunciado": "Qual dos gráficos representa uma relação entre as grandezas x e y em que y sempre diminui na medida em que x aumenta?",
-      "alternativas": {
-        "A": "y (gráfico mostrando y diminuindo e depois aumentando)",
-        "B": "y (gráfico mostrando y aumentando)",
-        "C": "y (gráfico mostrando y sempre diminuindo)",
-        "D": "y (gráfico mostrando y diminuindo e depois aumentando)",
-        "E": "y (gráfico mostrando y aumentando)"
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Matemática – Funções"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "y (gráfico mostrando y diminuindo e depois aumentando)"
+        },
+        {
+          "letra": "B",
+          "texto": "y (gráfico mostrando y aumentando)"
+        },
+        {
+          "letra": "C",
+          "texto": "y (gráfico mostrando y sempre diminuindo)"
+        },
+        {
+          "letra": "D",
+          "texto": "y (gráfico mostrando y diminuindo e depois aumentando)"
+        },
+        {
+          "letra": "E",
+          "texto": "y (gráfico mostrando y aumentando)"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 3,
+      "numeroEnunciado": 3,
       "enunciado": "O quadrinho aborda o tema de números primos, sobre os quais é correto afirmar:",
-      "alternativas": {
-        "A": "Todos os números primos são ímpares.",
-        "B": "Existem, no máximo, 7 trilhões de números primos.",
-        "C": "Todo número da forma 2n + 1, n ∈ N, é primo.",
-        "D": "Entre 24 e 36, existem somente 2 números primos.",
-        "E": "O número do quadrinho, 143, é um número primo."
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "Matemática – Teoria dos Números"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todos os números primos são ímpares."
+        },
+        {
+          "letra": "B",
+          "texto": "Existem, no máximo, 7 trilhões de números primos."
+        },
+        {
+          "letra": "C",
+          "texto": "Todo número da forma 2n + 1, n ∈ N, é primo."
+        },
+        {
+          "letra": "D",
+          "texto": "Entre 24 e 36, existem somente 2 números primos."
+        },
+        {
+          "letra": "E",
+          "texto": "O número do quadrinho, 143, é um número primo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 4,
+      "numeroEnunciado": 4,
       "enunciado": "Três triângulos equiláteros e dois quadrados formam uma figura plana, como ilustrado. Seus centros são os vértices de um pentágono irregular, que está destacado na figura. Se T é a área de cada um dos triângulos e Q a área de cada um dos quadrados, a área desse pentágono é",
-      "alternativas": {
-        "A": "T + Q.",
-        "B": "T + Q/2.",
-        "C": "T + Q/3.",
-        "D": "T/2 + Q.",
-        "E": "T/3 + Q."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Matemática – Geometria Plana"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "T + Q."
+        },
+        {
+          "letra": "B",
+          "texto": "T + Q/2."
+        },
+        {
+          "letra": "C",
+          "texto": "T + Q/3."
+        },
+        {
+          "letra": "D",
+          "texto": "T/2 + Q."
+        },
+        {
+          "letra": "E",
+          "texto": "T/3 + Q."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 5,
+      "numeroEnunciado": 5,
       "enunciado": "Um comerciante adotou como forma de pagamento uma máquina de cartões, cuja operadora cobra uma taxa de 6% em cada venda. Para continuar recebendo exatamente o mesmo valor por cada produto, ele resolveu aplicar um reajuste nos preços de todos os produtos da loja. Se P era o valor de uma mercadoria antes da adoção da máquina, o novo valor V deve ser calculado por",
-      "alternativas": {
-        "A": "V = P + 0,06",
-        "B": "V = 0,94 × 1,06 × P",
-        "C": "V = 1,6 × P",
-        "D": "V = P / 0,94",
-        "E": "V = 0,94 × P"
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "Matemática – Porcentagem"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V = P + 0,06"
+        },
+        {
+          "letra": "B",
+          "texto": "V = 0,94 × 1,06 × P"
+        },
+        {
+          "letra": "C",
+          "texto": "V = 1,6 × P"
+        },
+        {
+          "letra": "D",
+          "texto": "V = P / 0,94"
+        },
+        {
+          "letra": "E",
+          "texto": "V = 0,94 × P"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 6,
+      "numeroEnunciado": 6,
       "enunciado": "Uma treinadora de basquete aplica o seguinte sistema de pontuação em seus treinos de arremesso à cesta: cada jogadora recebe 5 pontos por arremesso acertado e perde 2 pontos por arremesso errado. Ao fim de 50 arremessos, uma das jogadoras contabilizou 124 pontos. Qual é a diferença entre as quantidades de arremessos acertados e errados dessa jogadora?",
-      "alternativas": {
-        "A": "12",
-        "B": "14",
-        "C": "16",
-        "D": "18",
-        "E": "20"
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Matemática – Sistemas Lineares"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "14"
+        },
+        {
+          "letra": "C",
+          "texto": "16"
+        },
+        {
+          "letra": "D",
+          "texto": "18"
+        },
+        {
+          "letra": "E",
+          "texto": "20"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 7,
+      "numeroEnunciado": 7,
       "enunciado": "Alice quer construir um paralelepipedo reto retângulo de dimensões 60 cm x 24 cm x 18 cm, com a menor quantidade possível de cubos idênticos cujas medidas das arestas são números naturais. Quantos cubos serão necessários para construir esse paralelepipedo?",
-      "alternativas": {
-        "A": "60",
-        "B": "72",
-        "C": "80",
-        "D": "96",
-        "E": "120"
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Matemática – Geometria Espacial"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60"
+        },
+        {
+          "letra": "B",
+          "texto": "72"
+        },
+        {
+          "letra": "C",
+          "texto": "80"
+        },
+        {
+          "letra": "D",
+          "texto": "96"
+        },
+        {
+          "letra": "E",
+          "texto": "120"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 8,
+      "numeroEnunciado": 8,
       "enunciado": "Um aplicativo de videoconferências estabelece, para cada reunião, um código de 10 letras, usando um alfabeto completo de 26 letras. A quantidade de códigos distintos possíveis está entre",
-      "alternativas": {
-        "A": "10 bilhões e 100 bilhões.",
-        "B": "100 bilhões e 1 trilhão.",
-        "C": "1 trilhão e 10 trilhões.",
-        "D": "10 trilhões e 100 trilhões.",
-        "E": "100 trilhões e 1 quatrilhão."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Matemática – Análise Combinatória"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 bilhões e 100 bilhões."
+        },
+        {
+          "letra": "B",
+          "texto": "100 bilhões e 1 trilhão."
+        },
+        {
+          "letra": "C",
+          "texto": "1 trilhão e 10 trilhões."
+        },
+        {
+          "letra": "D",
+          "texto": "10 trilhões e 100 trilhões."
+        },
+        {
+          "letra": "E",
+          "texto": "100 trilhões e 1 quatrilhão."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 9,
+      "numeroEnunciado": 9,
       "enunciado": "Na figura, os segmentos AC e DE são paralelos entre si e perpendiculares ao segmento CD; o ponto B pertence ao segmento AC; F é o ponto médio do segmento AB; e ABE é um triângulo equilátero. Além disso, o segmento BC mede 10 unidades de comprimento e o segmento AE mede 6 unidades de comprimento. A medida do segmento DF, em unidades de comprimento, é igual a",
-      "alternativas": {
-        "A": "14.",
-        "B": "15.",
-        "C": "16.",
-        "D": "17.",
-        "E": "18."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Matemática – Geometria Plana"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14."
+        },
+        {
+          "letra": "B",
+          "texto": "15."
+        },
+        {
+          "letra": "C",
+          "texto": "16."
+        },
+        {
+          "letra": "D",
+          "texto": "17."
+        },
+        {
+          "letra": "E",
+          "texto": "18."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 10,
+      "numeroEnunciado": 10,
       "enunciado": "A região hachurada do plano cartesiano x0y contida no círculo de centro na origem O e raio 1, mostrada na figura, pode ser descrita por",
-      "alternativas": {
-        "A": "{(x, y); x² + y² ≤ 1 e y - x ≤ 1}.",
-        "B": "{(x, y); x² + y² ≥ 1 e y + x ≥ 1}.",
-        "C": "{(x, y); x² + y² ≤ 1 e y - x ≥ 1}.",
-        "D": "{(x, y); x² + y² ≤ 1 e y + x ≥ 1}.",
-        "E": "{(x, y); x² + y² ≥ 1 e y + x ≤ 1}."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Matemática – Geometria Analítica"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "{(x, y); x² + y² ≤ 1 e y - x ≤ 1}."
+        },
+        {
+          "letra": "B",
+          "texto": "{(x, y); x² + y² ≥ 1 e y + x ≥ 1}."
+        },
+        {
+          "letra": "C",
+          "texto": "{(x, y); x² + y² ≤ 1 e y - x ≥ 1}."
+        },
+        {
+          "letra": "D",
+          "texto": "{(x, y); x² + y² ≤ 1 e y + x ≥ 1}."
+        },
+        {
+          "letra": "E",
+          "texto": "{(x, y); x² + y² ≥ 1 e y + x ≤ 1}."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 11,
+      "numeroEnunciado": 11,
       "enunciado": "Se f: R → R e g: R → R são funções dadas por f (x) = c + x², onde c ∈ R, e g(x) = x, seus gráficos se intersectam quando, e somente quando,",
-      "alternativas": {
-        "A": "c ≤ 1/4.",
-        "B": "c ≥ 1/4.",
-        "C": "c ≤ 1/2.",
-        "D": "c ≥ 1/2.",
-        "E": "c ≤ 1."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Matemática – Funções"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "c ≤ 1/4."
+        },
+        {
+          "letra": "B",
+          "texto": "c ≥ 1/4."
+        },
+        {
+          "letra": "C",
+          "texto": "c ≤ 1/2."
+        },
+        {
+          "letra": "D",
+          "texto": "c ≥ 1/2."
+        },
+        {
+          "letra": "E",
+          "texto": "c ≤ 1."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 12,
+      "numeroEnunciado": 12,
       "enunciado": "Um marceneiro possui um pedaço de madeira no formato de um triângulo retângulo, cujos catetos medem 12 cm e 35 cm. A partir desta peça, ele precisa extrair o maior quadrado possível, de tal forma que um dos ângulos retos do quadrado coincida com o ângulo reto do triângulo. A medida do lado do quadrado desejado pelo marceneiro está mais próxima de",
-      "alternativas": {
-        "A": "8,0 cm.",
-        "B": "8,5 cm.",
-        "C": "9,0 cm.",
-        "D": "9,5 cm.",
-        "E": "10,0 cm."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Matemática – Geometria Plana"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8,0 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "8,5 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "9,0 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "9,5 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "10,0 cm."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 13,
+      "numeroEnunciado": 13,
       "enunciado": "Suponha, para simplificar, que a Terra é perfeitamente esférica e que a linha do Equador mede 40.000 km. O trajeto que sai do Polo Norte, segue até a linha do Equador pelo meridiano de Greenwich, depois se desloca ao longo da linha do Equador até o meridiano 45°L e então retorna ao Polo Norte por esse meridiano tem comprimento total de",
-      "alternativas": {
-        "A": "15.000 km.",
-        "B": "20.000 km.",
-        "C": "25.000 km.",
-        "D": "30.000 km.",
-        "E": "35.000 km."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Geografia – Cartografia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15.000 km."
+        },
+        {
+          "letra": "B",
+          "texto": "20.000 km."
+        },
+        {
+          "letra": "C",
+          "texto": "25.000 km."
+        },
+        {
+          "letra": "D",
+          "texto": "30.000 km."
+        },
+        {
+          "letra": "E",
+          "texto": "35.000 km."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 14,
+      "numeroEnunciado": 14,
       "enunciado": "Sobre as projeções cartográficas apresentadas, suas formas e dimensões, é correto afirmar:",
-      "alternativas": {
-        "A": "Interesses geopolíticos e comerciais forçaram distorções na projeção de Mercator, para fazer parecer mais curto o caminho ao novo continente, elemento corrigido a partir do século XIX, na projeção de Gall-Peters.",
-        "B": "As três projeções apresentam distorções, uma vez que a Terra tem forma aproximada de um geoide e sua projeção num plano ficará distorcida.",
-        "C": "As projeções de Mercator e Gall-Peters apresentam distorções pela falta de recursos técnicos no período em que foram feitas, mas o avanço computacional do século XX permitiu o fim das distorções na projeção de Robinson.",
-        "D": "A projeção de Gall-Peters não apresentava distorções no momento de sua elaboração, mas a descoberta da Antártica e da Oceania, logo após sua proposição, forçou a adaptação e induziu distorções.",
-        "E": "Todas as projeções apresentam distorções, uma vez que o formato da Terra não era conhecido até o século XX, o que gerou dúvidas sobre como essa projeção deveria ser executada."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Geografia – Cartografia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Interesses geopolíticos e comerciais forçaram distorções na projeção de Mercator, para fazer parecer mais curto o caminho ao novo continente, elemento corrigido a partir do século XIX, na projeção de Gall-Peters."
+        },
+        {
+          "letra": "B",
+          "texto": "As três projeções apresentam distorções, uma vez que a Terra tem forma aproximada de um geoide e sua projeção num plano ficará distorcida."
+        },
+        {
+          "letra": "C",
+          "texto": "As projeções de Mercator e Gall-Peters apresentam distorções pela falta de recursos técnicos no período em que foram feitas, mas o avanço computacional do século XX permitiu o fim das distorções na projeção de Robinson."
+        },
+        {
+          "letra": "D",
+          "texto": "A projeção de Gall-Peters não apresentava distorções no momento de sua elaboração, mas a descoberta da Antártica e da Oceania, logo após sua proposição, forçou a adaptação e induziu distorções."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as projeções apresentam distorções, uma vez que o formato da Terra não era conhecido até o século XX, o que gerou dúvidas sobre como essa projeção deveria ser executada."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 15,
+      "numeroEnunciado": 15,
       "enunciado": "A criação do Banco da Amazônia e da Superintendência do Desenvolvimento da Amazônia (SUDAM) preconizou uma política de concessão de incentivos fiscais aos empresários, especialmente das regiões mais ricas do país, para que deixassem de pagar 50% do imposto de renda, desde que o dinheiro fosse depositado naquele banco para financiar projetos de desenvolvimento no estado do Amazonas. Os investimentos orientaram-se de preferência para a agropecuária, de modo que um grande número de empresários e de empresas, especialmente do Sudeste do Brasil, sem tradição no ramo, tornaram-se proprietários de terras e empresários rurais. Em princípio a aquisição de terras pelos grandes capitalistas do Sudeste animou o mercado imobiliário. José de Sousa Martins. O Poder do Atraso. Adaptado. Assinale a alternativa que apresenta a combinação correta entre o período a que se refere o texto e as implicações, territoriais e sociais, observadas nas áreas onde a política de incentivos fiscais entrou em operação.",
-      "alternativas": {
-        "A": "Brasil Império - Expansão dos sistemas agroflorestais e preservação da vegetação nativa - Aprovação do direito de sindicalização do trabalhador rural",
-        "B": "Primeira República - Expansão da área voltada à pecuária e redução da Mata Atlântica - Aumento do número de assalariados no campo",
-        "C": "Estado Novo - Expansão da economia extrativista e concentração fundiária - Eliminação dos direitos trabalhistas na cidade e no campo",
-        "D": "Ditadura Militar - Aumento da grilagem e avanço do desmatamento - Aumento dos conflitos violentos no campo",
-        "E": "Nova República - Aumento da área de vegetação nativa e reforma agrária massiva - Melhora na distribuição fundiária e dos níveis de consumo interno"
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "História – História do Brasil"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Brasil Império - Expansão dos sistemas agroflorestais e preservação da vegetação nativa - Aprovação do direito de sindicalização do trabalhador rural"
+        },
+        {
+          "letra": "B",
+          "texto": "Primeira República - Expansão da área voltada à pecuária e redução da Mata Atlântica - Aumento do número de assalariados no campo"
+        },
+        {
+          "letra": "C",
+          "texto": "Estado Novo - Expansão da economia extrativista e concentração fundiária - Eliminação dos direitos trabalhistas na cidade e no campo"
+        },
+        {
+          "letra": "D",
+          "texto": "Ditadura Militar - Aumento da grilagem e avanço do desmatamento - Aumento dos conflitos violentos no campo"
+        },
+        {
+          "letra": "E",
+          "texto": "Nova República - Aumento da área de vegetação nativa e reforma agrária massiva - Melhora na distribuição fundiária e dos níveis de consumo interno"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 16,
+      "numeroEnunciado": 16,
       "enunciado": "Observe o mapa com dados de 2020: Os países destacados em amarelo no mapa referem-se:",
-      "alternativas": {
-        "A": "Ao bloco dos BRICS.",
-        "B": "Aos novos integrantes da OCDE.",
-        "C": "A países excluídos da OMC.",
-        "D": "A países da OPEP.",
-        "E": "A países membros da OTAN."
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "Geografia – Geopolítica"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ao bloco dos BRICS."
+        },
+        {
+          "letra": "B",
+          "texto": "Aos novos integrantes da OCDE."
+        },
+        {
+          "letra": "C",
+          "texto": "A países excluídos da OMC."
+        },
+        {
+          "letra": "D",
+          "texto": "A países da OPEP."
+        },
+        {
+          "letra": "E",
+          "texto": "A países membros da OTAN."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 17,
+      "numeroEnunciado": 17,
       "enunciado": "O terremoto indicado na figura ocorreu no estado da Bahia no dia 30/08/2020, com magnitude 4,6 na escala Richter, atingindo cidades do Vale do Jiquiriçá e do Recôncavo Baiano. Sobre terremotos em geral, e sobre este especificamente, é correto afirmar:",
-      "alternativas": {
-        "A": "São gerados por intrusões e maremotos, cuja violência durante as movimentações provoca fissuras na superfície.",
-        "B": "São gerados em razão da presença de falhas geológicas e seu estudo traz conhecimento da geologia do território brasileiro.",
-        "C": "Têm início pelo soerguimento da crosta, e o do dia 30/08/2020 teve sua origem na Bacia Amazônica.",
-        "D": "Têm início com a divergência da crosta continental, e o do Recôncavo Baiano provocou impactos até na Serra Gaúcha.",
-        "E": "São gerados pela abertura de falhas, importante para o conhecimento do núcleo do planeta Terra explorado na região."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Geografia – Geomorfologia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "São gerados por intrusões e maremotos, cuja violência durante as movimentações provoca fissuras na superfície."
+        },
+        {
+          "letra": "B",
+          "texto": "São gerados em razão da presença de falhas geológicas e seu estudo traz conhecimento da geologia do território brasileiro."
+        },
+        {
+          "letra": "C",
+          "texto": "Têm início pelo soerguimento da crosta, e o do dia 30/08/2020 teve sua origem na Bacia Amazônica."
+        },
+        {
+          "letra": "D",
+          "texto": "Têm início com a divergência da crosta continental, e o do Recôncavo Baiano provocou impactos até na Serra Gaúcha."
+        },
+        {
+          "letra": "E",
+          "texto": "São gerados pela abertura de falhas, importante para o conhecimento do núcleo do planeta Terra explorado na região."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 18,
+      "numeroEnunciado": 18,
       "enunciado": "A linha de fronteira hoje possui uma definição essencialmente econômica – como a fronteira da lucratividade mas adquire uma expressão geográfica bastante acentuada em diferentes escalas espaciais. Isto é, basicamente, o que a fronteira do século XIX e a assim chamada fronteira urbana têm em comum. Na realidade, ambas estão associadas à acumulação e expansão do capital. Mas enquanto a fronteira do século XIX representou a realização de uma expansão geográfica absoluta na escala do território como a principal expressão espacial da acumulação de capital, a renovação urbana representa o exemplo mais desenvolvido da rediferenciação do espaço geográfico com vista ao mesmo resultado. Neil Smith. Gentrificação, a fronteira e a reestruturação do espaço urbano, 1986. Adaptado. O excerto relaciona a dinâmica geográfica dos Estados Unidos no século XIX à do final do século XX. As imagens correspondentes a cada um dos momentos apresentados pelo excerto são identificadas em:",
-      "alternativas": {
-        "A": "Marcha para o Oeste / Revitalização de áreas centrais",
-        "B": "Independência dos EUA / Suburbanização",
-        "C": "Festa do chá de Boston / Vale do Silício",
-        "D": "Guerra de Secessão / Construção do muro que separa EUA e México",
-        "E": "Descobrimento dos EUA / O gueto e a segregação urbana"
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Geografia – Geografia Urbana e Regional"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Marcha para o Oeste / Revitalização de áreas centrais"
+        },
+        {
+          "letra": "B",
+          "texto": "Independência dos EUA / Suburbanização"
+        },
+        {
+          "letra": "C",
+          "texto": "Festa do chá de Boston / Vale do Silício"
+        },
+        {
+          "letra": "D",
+          "texto": "Guerra de Secessão / Construção do muro que separa EUA e México"
+        },
+        {
+          "letra": "E",
+          "texto": "Descobrimento dos EUA / O gueto e a segregação urbana"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 19,
+      "numeroEnunciado": 19,
       "enunciado": "O esquema apresenta a linha de urbanização da sociedade, que vai do 0 ao 100%. Considerando os referenciais trazidos no esquema, fazem parte do contexto identificado na chamada “zona crítica”:",
-      "alternativas": {
-        "A": "Monetarismo; Revolução Industrial; lei Bill Aberdeen.",
-        "B": "Comunismo; centralização do poder; New Deal.",
-        "C": "Neoliberalismo; elevada urbanização; crise hipotecária de 2008.",
-        "D": "Neocolonialismo; Revolução Agrária; quebra da Bolsa de Nova Iorque.",
-        "E": "Mercantilismo; financeirização da economia; Acordo de Vestfália."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Sociologia – Urbanização e Globalização"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Monetarismo; Revolução Industrial; lei Bill Aberdeen."
+        },
+        {
+          "letra": "B",
+          "texto": "Comunismo; centralização do poder; New Deal."
+        },
+        {
+          "letra": "C",
+          "texto": "Neoliberalismo; elevada urbanização; crise hipotecária de 2008."
+        },
+        {
+          "letra": "D",
+          "texto": "Neocolonialismo; Revolução Agrária; quebra da Bolsa de Nova Iorque."
+        },
+        {
+          "letra": "E",
+          "texto": "Mercantilismo; financeirização da economia; Acordo de Vestfália."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 20,
+      "numeroEnunciado": 20,
       "enunciado": "O acordo entre o Mercosul e a União Europeia está sendo discutido há cerca de 20 anos e prevê, entre outros elementos, a redução progressiva das tarifas de exportação entre os blocos. O Brasil, que é um grande exportador de produtos de origem agrícola para o mercado europeu, teria redução tarifária para a exportação de produtos como carnes, açúcar e etanol, dentre outros. Para a ratificação do acordo, o parlamento europeu aprovou uma resolução que manifesta a importância do compromisso dos países do Mercosul com a implementação do Acordo de Paris. A relutância em ratificar o acordo entre Mercosul e União Europeia, por parte de alguns países da UE em 2020, deveu-se, entre outros fatores,",
-      "alternativas": {
-        "A": "à desigual condição climática para produção de vinhos nos dois continentes.",
-        "B": "às políticas de incentivo à agricultura familiar na América Latina e especialmente ao PRONAF no Brasil.",
-        "C": "à difusão de SAFs, criados com o propósito de produção para consumo humano no Cone Sul.",
-        "D": "às declarações que cogitaram a retirada do Brasil da OMC meses antes da aprovação da resolução.",
-        "E": "aos graves problemas ambientais no Brasil, tais como desmatamento e queimadas."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Geografia – Relações Internacionais"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à desigual condição climática para produção de vinhos nos dois continentes."
+        },
+        {
+          "letra": "B",
+          "texto": "às políticas de incentivo à agricultura familiar na América Latina e especialmente ao PRONAF no Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "à difusão de SAFs, criados com o propósito de produção para consumo humano no Cone Sul."
+        },
+        {
+          "letra": "D",
+          "texto": "às declarações que cogitaram a retirada do Brasil da OMC meses antes da aprovação da resolução."
+        },
+        {
+          "letra": "E",
+          "texto": "aos graves problemas ambientais no Brasil, tais como desmatamento e queimadas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 21,
+      "numeroEnunciado": 21,
       "enunciado": "O Sistema Aquífero Guarani abrange parte dos territórios da Argentina, do Brasil, do Paraguai e do Uruguai. Possui um volume acumulado de 37.000 km³ e área estimada de 1.087.000 km². Na parte brasileira estende-se por oito Estados: Goiás, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraná, Rio Grande do Sul, Santa Catarina e São Paulo. Sobre os aquíferos e seus usos para atividades humanas, é correto afirmar:",
-      "alternativas": {
-        "A": "Ocorrem em formações geológicas que contêm água em quantidades significativas que se movimentam no seu interior em condições naturais, permitindo seu uso para abastecimento público e estâncias turísticas de águas minerais e termais.",
-        "B": "Consistem em reservatórios de águas superficiais formados a partir de processos de vulcanismo e tectonismo em áreas de intensa atividade sísmica; seus fluxos são passíveis de uso na produção de energia geotérmica obtida por meio do calor proveniente do interior do planeta Terra.",
-        "C": "Os aquíferos apresentam volume de águas de grandes proporções, contudo, os custos de bombeamento e tratamento inviabilizam sua utilização e seus usos para atividades humanas, limitando-se atualmente à dessedentação animal.",
-        "D": "Os aquíferos são formados pela ação dos ventos que acumulam areia na superfície, facilitando a infiltração e acúmulo de água nas camadas mais profundas; seus usos para atividades humanas dependem da escavação de poços muito profundos com uso de tecnologia indisponível no país.",
-        "E": "Os aquíferos estão em profundidades que impossibilitam seu uso para atividades humanas, incluindo aqueles usos destinados a fins menos nobres, como lavagem de calçadas e praças."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Geografia – Hidrografia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ocorrem em formações geológicas que contêm água em quantidades significativas que se movimentam no seu interior em condições naturais, permitindo seu uso para abastecimento público e estâncias turísticas de águas minerais e termais."
+        },
+        {
+          "letra": "B",
+          "texto": "Consistem em reservatórios de águas superficiais formados a partir de processos de vulcanismo e tectonismo em áreas de intensa atividade sísmica; seus fluxos são passíveis de uso na produção de energia geotérmica obtida por meio do calor proveniente do interior do planeta Terra."
+        },
+        {
+          "letra": "C",
+          "texto": "Os aquíferos apresentam volume de águas de grandes proporções, contudo, os custos de bombeamento e tratamento inviabilizam sua utilização e seus usos para atividades humanas, limitando-se atualmente à dessedentação animal."
+        },
+        {
+          "letra": "D",
+          "texto": "Os aquíferos são formados pela ação dos ventos que acumulam areia na superfície, facilitando a infiltração e acúmulo de água nas camadas mais profundas; seus usos para atividades humanas dependem da escavação de poços muito profundos com uso de tecnologia indisponível no país."
+        },
+        {
+          "letra": "E",
+          "texto": "Os aquíferos estão em profundidades que impossibilitam seu uso para atividades humanas, incluindo aqueles usos destinados a fins menos nobres, como lavagem de calçadas e praças."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 22,
+      "numeroEnunciado": 22,
       "enunciado": "O Monte Everest é o pico mais elevado do planeta, localizado na cordilheira do Himalaia, na fronteira da China e Nepal, com 8.848 metros de altitude. Possui cinco estações meteorológicas em diferentes altitudes funcionando desde 2019, entre elas a estação mais elevada do planeta (8.430 m), que registra dados valiosos para a climatologia. Esse projeto foi liderado pelo Dr. Paul Andrew Mayewski, geógrafo e climatologista, cuja equipe projetou e treinou por meses para instalar a estação meteorológica em tal condição adversa em menos de 90 minutos. A dificuldade de instalação da estação na altitude citada deve-se",
-      "alternativas": {
-        "A": "às elevadas condições de umidade provenientes do derretimento de neve.",
-        "B": "à ocorrência de chuvas intensas, que aumentam os riscos de avalanches.",
-        "C": "às temperaturas reduzidas e à baixa concentração de oxigênio nessa altitude.",
-        "D": "aos dias mais curtos nessa altitude, o que reduz o brilho solar.",
-        "E": "à elevada pressão atmosférica, que produz ventos intensos nessa altitude."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Geografia – Climatologia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "às elevadas condições de umidade provenientes do derretimento de neve."
+        },
+        {
+          "letra": "B",
+          "texto": "à ocorrência de chuvas intensas, que aumentam os riscos de avalanches."
+        },
+        {
+          "letra": "C",
+          "texto": "às temperaturas reduzidas e à baixa concentração de oxigênio nessa altitude."
+        },
+        {
+          "letra": "D",
+          "texto": "aos dias mais curtos nessa altitude, o que reduz o brilho solar."
+        },
+        {
+          "letra": "E",
+          "texto": "à elevada pressão atmosférica, que produz ventos intensos nessa altitude."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 23,
+      "numeroEnunciado": 23,
       "enunciado": "Segundo o Atlas de Serpentes Brasileiras, a jararaca (nome científico Bothrops jararaca) encontra-se com as ocorrências registradas em uma extensa faixa do Brasil relativa a diferentes Biomas, onde se alimenta de anfíbios, roedores e outros animais. A espécie ocorre nas áreas apontadas, sendo encontrada em zonas florestadas ou modificadas pela ação humana. Brasil: Distribuição da Bothrops jararaca. Sobre as serpentes Bothrops jararaca e os principais biomas de ocorrência, é correto afirmar:",
-      "alternativas": {
-        "A": "São típicas das áreas que alcançam até 500 m de altitude, nos Biomas do Pantanal, Pampa, Cerrado e Caatinga; as áreas do Pampa são as mais degradadas do país em função da urbanização crescente, ameaçando a ocorrência da jararaca.",
-        "B": "São generalizadas nos mais diversos biomas, concentrando-se na Caatinga; esse bioma encontra-se atualmente como o mais ameaçado pela expansão das fronteiras agrícolas na produção para exportação.",
-        "C": "São típicas das áreas mais planas da faixa leste do Brasil, cujos terrenos são recobertos pelo Bioma do Cerrado; a ocorrência desta espécie deve-se às áreas com ocupação humana, o que atrai ratos que fazem parte da alimentação da jararaca.",
-        "D": "Possuem área de ocorrência restrita ao Bioma da Amazônia, caracterizado pela ocorrência de sapos; nesse bioma, as planícies fluviais favorecem a proliferação da jararaca.",
-        "E": "São típicas da Mata Atlântica, podendo ocorrer também em áreas de Pampa, Cerrado e Caatinga e ocupar terrenos que alcançam até 1000 m de altitude; o Bioma da Mata Atlântica encontra-se atualmente ameaçado pela ocupação humana."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Biologia – Ecologia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "São típicas das áreas que alcançam até 500 m de altitude, nos Biomas do Pantanal, Pampa, Cerrado e Caatinga; as áreas do Pampa são as mais degradadas do país em função da urbanização crescente, ameaçando a ocorrência da jararaca."
+        },
+        {
+          "letra": "B",
+          "texto": "São generalizadas nos mais diversos biomas, concentrando-se na Caatinga; esse bioma encontra-se atualmente como o mais ameaçado pela expansão das fronteiras agrícolas na produção para exportação."
+        },
+        {
+          "letra": "C",
+          "texto": "São típicas das áreas mais planas da faixa leste do Brasil, cujos terrenos são recobertos pelo Bioma do Cerrado; a ocorrência desta espécie deve-se às áreas com ocupação humana, o que atrai ratos que fazem parte da alimentação da jararaca."
+        },
+        {
+          "letra": "D",
+          "texto": "Possuem área de ocorrência restrita ao Bioma da Amazônia, caracterizado pela ocorrência de sapos; nesse bioma, as planícies fluviais favorecem a proliferação da jararaca."
+        },
+        {
+          "letra": "E",
+          "texto": "São típicas da Mata Atlântica, podendo ocorrer também em áreas de Pampa, Cerrado e Caatinga e ocupar terrenos que alcançam até 1000 m de altitude; o Bioma da Mata Atlântica encontra-se atualmente ameaçado pela ocupação humana."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 24,
+      "numeroEnunciado": 24,
       "enunciado": "Na transição do Cerrado para a Mata Atlântica, ocorre uma substituição da vegetação, que resulta em mudanças na frequência de certas características das plantas. Identifique duas mudanças decorrentes dessa transição.",
-      "alternativas": {
-        "A": "Aumento da frequência de caules e galhos tortuosos; aumento da frequência de plantas que apresentam folhas largas.",
-        "B": "Aumento da frequência de plantas que germinam e crescem melhor sob a luz direta do sol; diminuição da frequência de plantas que apresentam folhas largas.",
-        "C": "Diminuição da frequência de caules e galhos tortuosos; aumento da frequência de plantas que apresentam folhas largas.",
-        "D": "Diminuição da frequência de plantas epífitas; diminuição da frequência de plantas com adaptações a queimadas.",
-        "E": "Diminuição da frequência de plantas que germinam e crescem melhor sob a luz direta do sol; aumento da frequência de plantas com adaptações a queimadas."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Biologia – Ecologia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aumento da frequência de caules e galhos tortuosos; aumento da frequência de plantas que apresentam folhas largas."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumento da frequência de plantas que germinam e crescem melhor sob a luz direta do sol; diminuição da frequência de plantas que apresentam folhas largas."
+        },
+        {
+          "letra": "C",
+          "texto": "Diminuição da frequência de caules e galhos tortuosos; aumento da frequência de plantas que apresentam folhas largas."
+        },
+        {
+          "letra": "D",
+          "texto": "Diminuição da frequência de plantas epífitas; diminuição da frequência de plantas com adaptações a queimadas."
+        },
+        {
+          "letra": "E",
+          "texto": "Diminuição da frequência de plantas que germinam e crescem melhor sob a luz direta do sol; aumento da frequência de plantas com adaptações a queimadas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 25,
+      "numeroEnunciado": 25,
       "enunciado": "O tempo de decomposição dos diferentes resíduos sólidos condiciona a destinação de cada tipo, visando a diminuir os impactos ambientais causados por seu descarte. O gráfico mostra dois grupos de resíduos sólidos (X e Y) produzidos pela população humana, com diferentes tempos de decomposição. Com base nessas informações e nos seus conhecimentos, é correto afirmar que as",
-      "alternativas": {
-        "A": "garrafas PET fazem parte do grupo Y, e sua destinação recomendada é o reuso e a reciclagem.",
-        "B": "embalagens de papel fazem parte do grupo Y, e sua destinação recomendada é a incineração.",
-        "C": "garrafas PET fazem parte do grupo X, e sua destinação recomendada é o aterro sanitário.",
-        "D": "embalagens de papel fazem parte do grupo Y, e sua destinação recomendada é o reuso e a reciclagem.",
-        "E": "garrafas de vidro fazem parte do grupo X, e sua destinação recomendada é a incineração."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Biologia – Ecologia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "garrafas PET fazem parte do grupo Y, e sua destinação recomendada é o reuso e a reciclagem."
+        },
+        {
+          "letra": "B",
+          "texto": "embalagens de papel fazem parte do grupo Y, e sua destinação recomendada é a incineração."
+        },
+        {
+          "letra": "C",
+          "texto": "garrafas PET fazem parte do grupo X, e sua destinação recomendada é o aterro sanitário."
+        },
+        {
+          "letra": "D",
+          "texto": "embalagens de papel fazem parte do grupo Y, e sua destinação recomendada é o reuso e a reciclagem."
+        },
+        {
+          "letra": "E",
+          "texto": "garrafas de vidro fazem parte do grupo X, e sua destinação recomendada é a incineração."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 26,
+      "numeroEnunciado": 26,
       "enunciado": "Os gráficos mostram a variação nas taxas de emigração, imigração, mortalidade e natalidade de uma dada população de mamíferos ao longo de 20 anos. Com base nesses gráficos, o tamanho dessa população deve",
-      "alternativas": {
-        "A": "diminuir nos 5 primeiros anos e manter-se constante no restante do período considerado.",
-        "B": "manter-se constante nos 5 primeiros anos e diminuir no restante do período considerado.",
-        "C": "diminuir continuamente ao longo do período considerado.",
-        "D": "manter-se constante ao longo do período considerado.",
-        "E": "aumentar nos 5 primeiros anos e diminuir no restante do período considerado."
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "Biologia – Ecologia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diminuir nos 5 primeiros anos e manter-se constante no restante do período considerado."
+        },
+        {
+          "letra": "B",
+          "texto": "manter-se constante nos 5 primeiros anos e diminuir no restante do período considerado."
+        },
+        {
+          "letra": "C",
+          "texto": "diminuir continuamente ao longo do período considerado."
+        },
+        {
+          "letra": "D",
+          "texto": "manter-se constante ao longo do período considerado."
+        },
+        {
+          "letra": "E",
+          "texto": "aumentar nos 5 primeiros anos e diminuir no restante do período considerado."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 27,
+      "numeroEnunciado": 27,
       "enunciado": "Uma variedade de milho (Milho Bt) foi modificada com a inserção de genes da bactéria Bacillus thuringiensis, que produzem proteínas Cry, tóxicas para insetos como as lagartas que atacam suas lavouras. Essas proteínas bloqueiam o trato digestório dos insetos, levando-os à morte. Em aves e mamíferos que também se alimentam de milho, as proteínas Cry são inativadas durante a digestão ácida, perdendo sua ação sobre esses animais. A alternativa que indica corretamente um aspecto positivo e um negativo dos efeitos desta modificação genética do milho para o ser humano é:",
-      "alternativas": {
-        "A": "Aumento do valor nutricional do milho. / Possibilidade de desenvolvimento de alergia à proteína Cry em pessoas vulneráveis.",
-        "B": "Menor tempo de maturação dos grãos. / Possibilidade de invasão da vegetação nativa pela planta transgênica.",
-        "C": "Facilitação da polinização das plantas. / Risco de extinção local de aves e mamíferos insetívoros.",
-        "D": "Economia de água pela redução da irrigação. / Maior exposição dos agricultores a agrotóxicos.",
-        "E": "Maior produtividade das lavouras de milho. / Possibilidade de surgimento de lagartas resistentes à proteína Cry."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Biologia – Biotecnologia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aumento do valor nutricional do milho. / Possibilidade de desenvolvimento de alergia à proteína Cry em pessoas vulneráveis."
+        },
+        {
+          "letra": "B",
+          "texto": "Menor tempo de maturação dos grãos. / Possibilidade de invasão da vegetação nativa pela planta transgênica."
+        },
+        {
+          "letra": "C",
+          "texto": "Facilitação da polinização das plantas. / Risco de extinção local de aves e mamíferos insetívoros."
+        },
+        {
+          "letra": "D",
+          "texto": "Economia de água pela redução da irrigação. / Maior exposição dos agricultores a agrotóxicos."
+        },
+        {
+          "letra": "E",
+          "texto": "Maior produtividade das lavouras de milho. / Possibilidade de surgimento de lagartas resistentes à proteína Cry."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 28,
+      "numeroEnunciado": 28,
       "enunciado": "A genealogia a seguir representa uma família em que aparecem pessoas afetadas por adrenoleucodistrofia. A mulher III.2 está grávida e ainda não sabe o sexo do bebê. A relação correta entre o padrão de herança desta forma de adrenoleucodistrofia e a probabilidade de que a criança seja afetada é:",
-      "alternativas": {
-        "A": "Ligado ao X recessivo / 50% caso seja menino",
-        "B": "Ligado ao X recessivo / 25% caso seja menino",
-        "C": "Ligado ao Y / 100% caso seja menino",
-        "D": "Autossômico recessivo / 75% em qualquer caso",
-        "E": "Autossômico recessivo / 12,5% em qualquer caso"
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Biologia – Genética"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ligado ao X recessivo / 50% caso seja menino"
+        },
+        {
+          "letra": "B",
+          "texto": "Ligado ao X recessivo / 25% caso seja menino"
+        },
+        {
+          "letra": "C",
+          "texto": "Ligado ao Y / 100% caso seja menino"
+        },
+        {
+          "letra": "D",
+          "texto": "Autossômico recessivo / 75% em qualquer caso"
+        },
+        {
+          "letra": "E",
+          "texto": "Autossômico recessivo / 12,5% em qualquer caso"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 29,
+      "numeroEnunciado": 29,
       "enunciado": "Considere dois genes (A e B) localizados em cromossomos diferentes e seus respectivos alelos (A, a, B, b). Uma representação possível desses alelos durante a mitose, imediatamente antes da metáfase, é:",
-      "alternativas": {
-        "A": "Diagrama com dois cromossomos homólogos duplicados, um com alelos A e A (ligados) e outro com alelos a e a (ligados), e em outro par de cromossomos homólogos duplicados, um com alelos B e B (ligados) e outro com alelos b e b (ligados).",
-        "B": "Diagrama com dois cromossomos homólogos duplicados, um com alelos A e a (ligados) e outro com alelos A e a (ligados), e em outro par de cromossomos homólogos duplicados, um com alelos B e b (ligados) e outro com alelos B e b (ligados).",
-        "C": "Diagrama com dois cromossomos homólogos duplicados, um com alelos A e a (ligados) e outro com alelos a e a (ligados), e em outro par de cromossomos homólogos duplicados, um com alelos B e B (ligados) e outro com alelos b e b (ligados).",
-        "D": "Diagrama com um cromossomo não duplicado com alelos A e b, e outro cromossomo não duplicado com alelos A e B.",
-        "E": "Diagrama com um cromossomo duplicado com alelos A e a, e outro cromossomo duplicado com alelos B e b."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Biologia – Citologia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Diagrama com dois cromossomos homólogos duplicados, um com alelos A e A (ligados) e outro com alelos a e a (ligados), e em outro par de cromossomos homólogos duplicados, um com alelos B e B (ligados) e outro com alelos b e b (ligados)."
+        },
+        {
+          "letra": "B",
+          "texto": "Diagrama com dois cromossomos homólogos duplicados, um com alelos A e a (ligados) e outro com alelos A e a (ligados), e em outro par de cromossomos homólogos duplicados, um com alelos B e b (ligados) e outro com alelos B e b (ligados)."
+        },
+        {
+          "letra": "C",
+          "texto": "Diagrama com dois cromossomos homólogos duplicados, um com alelos A e a (ligados) e outro com alelos a e a (ligados), e em outro par de cromossomos homólogos duplicados, um com alelos B e B (ligados) e outro com alelos b e b (ligados)."
+        },
+        {
+          "letra": "D",
+          "texto": "Diagrama com um cromossomo não duplicado com alelos A e b, e outro cromossomo não duplicado com alelos A e B."
+        },
+        {
+          "letra": "E",
+          "texto": "Diagrama com um cromossomo duplicado com alelos A e a, e outro cromossomo duplicado com alelos B e b."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 30,
+      "numeroEnunciado": 30,
       "enunciado": "O gás carbônico atmosférico reage com a água do mar conforme detalhado em (I): (I) CO2 + H2O ⇌ H2CO3 ⇌ HCO3- + H+ As condições ambientais causadas pelo aumento de gás carbônico na atmosfera influenciam em processos caracterizados pela reação (II) durante o desenvolvimento de diversos organismos marinhos: (II) Ca2+ + CO32- ⇌ CaCO3 Tendo por base essas afirmações, assinale a alternativa correta:",
-      "alternativas": {
-        "A": "O processo (I) resulta em diminuição da alcalinidade da água do mar, comprometendo a estruturação de recifes por interferir na formação dos esqueletos calcários dos corais, conforme a reação (II).",
-        "B": "O processo (I) resulta em aumento da alcalinidade da água do mar, comprometendo processos de contração muscular de vertebrados marinhos por diminuir o cálcio livre disponível, como demonstrado em (II).",
-        "C": "O processo (I) não altera a alcalinidade da água do mar, mas compromete o processo de formação de conchas de moluscos marinhos, nos quais a estrutura básica é o carbonato de cálcio, produto da reação (II).",
-        "D": "O processo (I) resulta em diminuição da alcalinidade da água do mar, aumentando o pH e beneficiando o processo demonstrado em (II), o que favorece o crescimento de recifes de algas calcárias.",
-        "E": "O processo (I) resulta em aumento da alcalinidade da água do mar, beneficiando os processos de fermentação por bactérias marinhas em regiões de recifes de coral, que são formados pelo processo (II)."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Química – Química Ambiental"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O processo (I) resulta em diminuição da alcalinidade da água do mar, comprometendo a estruturação de recifes por interferir na formação dos esqueletos calcários dos corais, conforme a reação (II)."
+        },
+        {
+          "letra": "B",
+          "texto": "O processo (I) resulta em aumento da alcalinidade da água do mar, comprometendo processos de contração muscular de vertebrados marinhos por diminuir o cálcio livre disponível, como demonstrado em (II)."
+        },
+        {
+          "letra": "C",
+          "texto": "O processo (I) não altera a alcalinidade da água do mar, mas compromete o processo de formação de conchas de moluscos marinhos, nos quais a estrutura básica é o carbonato de cálcio, produto da reação (II)."
+        },
+        {
+          "letra": "D",
+          "texto": "O processo (I) resulta em diminuição da alcalinidade da água do mar, aumentando o pH e beneficiando o processo demonstrado em (II), o que favorece o crescimento de recifes de algas calcárias."
+        },
+        {
+          "letra": "E",
+          "texto": "O processo (I) resulta em aumento da alcalinidade da água do mar, beneficiando os processos de fermentação por bactérias marinhas em regiões de recifes de coral, que são formados pelo processo (II)."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 31,
+      "numeroEnunciado": 31,
       "enunciado": "Considere três espécies de plantas (X, Y e Z) e suas características: - A planta X não possui flores, mas é polinizada pelo vento. Além disso, não possui frutos, mas suas sementes são dispersas por aves. - A planta Y não possui flores, nem sementes, nem frutos. - A planta Z possui flores e é polinizada por aves. Além disso, possui frutos e suas sementes são dispersas por aves. A que grupos pertencem as plantas X, Y e Z, respectivamente?",
-      "alternativas": {
-        "A": "Pteridófitas, angiospermas e gimnospermas.",
-        "B": "Gimnospermas, pteridófitas e angiospermas.",
-        "C": "Pteridófitas, gimnospermas e angiospermas.",
-        "D": "Angiospermas, gimnospermas e pteridófitas.",
-        "E": "Gimnospermas, angiospermas e pteridófitas."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Biologia – Botânica"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Pteridófitas, angiospermas e gimnospermas."
+        },
+        {
+          "letra": "B",
+          "texto": "Gimnospermas, pteridófitas e angiospermas."
+        },
+        {
+          "letra": "C",
+          "texto": "Pteridófitas, gimnospermas e angiospermas."
+        },
+        {
+          "letra": "D",
+          "texto": "Angiospermas, gimnospermas e pteridófitas."
+        },
+        {
+          "letra": "E",
+          "texto": "Gimnospermas, angiospermas e pteridófitas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 32,
+      "numeroEnunciado": 32,
       "enunciado": "A determinação do sexo em embriões de tartaruga-de-couro depende da temperatura a que o ovo foi exposto. Isso está relacionado à ação da enzima aromatase, que converte a testosterona em estradiol. A expressão gênica e a atividade dessa enzima nas gônadas são dependentes da temperatura, conforme indicado na figura. Sobre a determinação do sexo em tartarugas-de-couro, é correto afirmar:",
-      "alternativas": {
-        "A": "A atividade máxima da aromatase determina diferenciação sexual masculina.",
-        "B": "O maior nível de transcrição do gene da aromatase coincide com a menor atividade da enzima.",
-        "C": "Em temperaturas entre 28 e 30 °C, a maioria dos embriões diferenciam-se em fêmeas.",
-        "D": "Há equilíbrio no nascimento de machos e fêmeas a 26 °C.",
-        "E": "A atividade da aromatase depende da quantidade de estradiol disponível."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Biologia – Fisiologia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A atividade máxima da aromatase determina diferenciação sexual masculina."
+        },
+        {
+          "letra": "B",
+          "texto": "O maior nível de transcrição do gene da aromatase coincide com a menor atividade da enzima."
+        },
+        {
+          "letra": "C",
+          "texto": "Em temperaturas entre 28 e 30 °C, a maioria dos embriões diferenciam-se em fêmeas."
+        },
+        {
+          "letra": "D",
+          "texto": "Há equilíbrio no nascimento de machos e fêmeas a 26 °C."
+        },
+        {
+          "letra": "E",
+          "texto": "A atividade da aromatase depende da quantidade de estradiol disponível."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 33,
+      "numeroEnunciado": 33,
       "enunciado": "No que diz respeito a infecções sexualmente transmissíveis (ISTs), identifique a relação correta entre grupo causador, um dos seus sintomas e se possui ou não vacina preventiva.",
-      "alternativas": {
-        "A": "Gonorreia / Neisseria gonorrhoeae (bactéria) / Ardor na uretra e secreção purulenta / Sim",
-        "B": "Hepatite C / HCV (bactéria) / Comprometimento da função do fígado / Não",
-        "C": "AIDS / HIV (vírus) / Erupção cutânea / Sim",
-        "D": "Sífilis / Treponema pallidum (verme) / Ferida na genitália externa (cancro) / Não",
-        "E": "Condiloma acuminado (crista de galo) / HPV (vírus) / Verrugas na região genital / Sim"
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Biologia – Saúde"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Gonorreia / Neisseria gonorrhoeae (bactéria) / Ardor na uretra e secreção purulenta / Sim"
+        },
+        {
+          "letra": "B",
+          "texto": "Hepatite C / HCV (bactéria) / Comprometimento da função do fígado / Não"
+        },
+        {
+          "letra": "C",
+          "texto": "AIDS / HIV (vírus) / Erupção cutânea / Sim"
+        },
+        {
+          "letra": "D",
+          "texto": "Sífilis / Treponema pallidum (verme) / Ferida na genitália externa (cancro) / Não"
+        },
+        {
+          "letra": "E",
+          "texto": "Condiloma acuminado (crista de galo) / HPV (vírus) / Verrugas na região genital / Sim"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 34,
+      "numeroEnunciado": 34,
       "enunciado": "Canto V Estância 81 E foi que, de doença crua e feia, A mais que eu nunca vi, desampararam Muitos a vida, e em terra estranha e alheia Os ossos para sempre sepultaram. Quem haverá que, sem ver, o creia? Que tão disformemente ali lhe incharam As gengivas na boca, que crescia A carne e juntamente apodrecia? Luís Vaz de Camões, Os Lusíadas. É correto afirmar que Camões, neste trecho, descreveu sintomas de",
-      "alternativas": {
-        "A": "peste bubônica, zoonose transmitida por ratos que assolou populações europeias e asiáticas no século XIV, propagada pelas viagens comerciais.",
-        "B": "escorbuto, deficiência em vitamina C, doença comum nas viagens ultramarinas europeias dos séculos XV e XVI, como a de Vasco da Gama em busca das Índias.",
-        "C": "malária, doença de ampla ocorrência nas viagens de exploradores para a África e Américas nos séculos XV e XVI.",
-        "D": "varíola, doença viral disseminada no Velho Mundo e trazida pelos navegantes dos séculos XV e XVI às colônias, onde dizimou populações nativas.",
-        "E": "leishmaniose, parasitose transmitida por mosquitos e contraída pelos primeiros exploradores da Amazônia e dos Andes durante o século XVI."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "História – História de Portugal"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "peste bubônica, zoonose transmitida por ratos que assolou populações europeias e asiáticas no século XIV, propagada pelas viagens comerciais."
+        },
+        {
+          "letra": "B",
+          "texto": "escorbuto, deficiência em vitamina C, doença comum nas viagens ultramarinas europeias dos séculos XV e XVI, como a de Vasco da Gama em busca das Índias."
+        },
+        {
+          "letra": "C",
+          "texto": "malária, doença de ampla ocorrência nas viagens de exploradores para a África e Américas nos séculos XV e XVI."
+        },
+        {
+          "letra": "D",
+          "texto": "varíola, doença viral disseminada no Velho Mundo e trazida pelos navegantes dos séculos XV e XVI às colônias, onde dizimou populações nativas."
+        },
+        {
+          "letra": "E",
+          "texto": "leishmaniose, parasitose transmitida por mosquitos e contraída pelos primeiros exploradores da Amazônia e dos Andes durante o século XVI."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 35,
+      "numeroEnunciado": 35,
       "enunciado": "A exploração da prata americana pelos espanhóis no século XVI teve grande importância na história mundial porque",
-      "alternativas": {
-        "A": "incentivou a exploração metálica em outras regiões do globo, como Austrália e Ásia, além de facilitar a Revolução Industrial inglesa.",
-        "B": "contribuiu para o declínio do império asteca, além de causar impacto ambiental no litoral da América com a formação de cidades em áreas até então despovoadas.",
-        "C": "acelerou a extinção de formas de acúmulo de capital mercantil em escala global, substituindo-o pelo capital industrial e financeiro.",
-        "D": "conectou o continente americano com partes do extremo oriente, onde a prata também era explorada, além de atrair grandes contingentes de africanos escravizados ao Caribe.",
-        "E": "aumentou a circulação de moeda nas redes mundiais da economia europeia, além de impactar as estruturas sociais indígenas pelo crescimento da exploração de seu trabalho."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "História – História Moderna"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "incentivou a exploração metálica em outras regiões do globo, como Austrália e Ásia, além de facilitar a Revolução Industrial inglesa."
+        },
+        {
+          "letra": "B",
+          "texto": "contribuiu para o declínio do império asteca, além de causar impacto ambiental no litoral da América com a formação de cidades em áreas até então despovoadas."
+        },
+        {
+          "letra": "C",
+          "texto": "acelerou a extinção de formas de acúmulo de capital mercantil em escala global, substituindo-o pelo capital industrial e financeiro."
+        },
+        {
+          "letra": "D",
+          "texto": "conectou o continente americano com partes do extremo oriente, onde a prata também era explorada, além de atrair grandes contingentes de africanos escravizados ao Caribe."
+        },
+        {
+          "letra": "E",
+          "texto": "aumentou a circulação de moeda nas redes mundiais da economia europeia, além de impactar as estruturas sociais indígenas pelo crescimento da exploração de seu trabalho."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 36,
+      "numeroEnunciado": 36,
       "enunciado": "A base física do Brasil, ao principiar o século XVIII, era profundamente diversa daquela que, mesmo numa interpretação liberal do Tratado de Tordesilhas, fora assentada no diploma de 1494. A expansão ao longo do litoral levara ao Oiapoc, no norte, e ao Prata, no sul. O rush do ouro estava determinando a ampliação da área oeste do mesmo modo por que a \"droga do sertão\" explicava a façanha da incorporação do mundo amazônico. Toda uma geografia nova, política, social e econômica se estava escrevendo na América portuguesa [...]. Arthur F. Reis. \"Os tratados de limites\". História geral da civilização brasileira, t.l, v.1, p.396. A partir da leitura do trecho e de seus conhecimentos, é correto afirmar:",
-      "alternativas": {
-        "A": "O Tratado de Tordesilhas representou uma permanente barreira à exploração econômica dos sertões portugueses da América, e só foi ultrapassada no século XVIII por sertanistas que passaram a agir junto à coroa portuguesa.",
-        "B": "A ocupação da Amazônia foi determinante na formação do território português da América porque as drogas do sertão puderam ser exploradas por longos períodos, ao contrário do efêmero ouro de Minas Gerais, Goiás e Mato Grosso.",
-        "C": "Embora a mineração tenha interiorizado a presença portuguesa no continente, a definição das fronteiras territoriais do Brasil só se completaria definitivamente muito depois, no começo do século XX.",
-        "D": "Mesmo com o rush minerador, a economia colonial portuguesa continuou isolada em relação aos principais circuitos econômicos europeus de sua época, situação que só se alteraria na primeira década do século XIX.",
-        "E": "A realidade econômica de Portugal e Espanha nos séculos XVII e XVIII tornou o Tratado de Tordesilhas obsoleto, uma vez que, nesse período, importava menos o comércio extrativista e mais a produção industrial."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "História – História do Brasil"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Tratado de Tordesilhas representou uma permanente barreira à exploração econômica dos sertões portugueses da América, e só foi ultrapassada no século XVIII por sertanistas que passaram a agir junto à coroa portuguesa."
+        },
+        {
+          "letra": "B",
+          "texto": "A ocupação da Amazônia foi determinante na formação do território português da América porque as drogas do sertão puderam ser exploradas por longos períodos, ao contrário do efêmero ouro de Minas Gerais, Goiás e Mato Grosso."
+        },
+        {
+          "letra": "C",
+          "texto": "Embora a mineração tenha interiorizado a presença portuguesa no continente, a definição das fronteiras territoriais do Brasil só se completaria definitivamente muito depois, no começo do século XX."
+        },
+        {
+          "letra": "D",
+          "texto": "Mesmo com o rush minerador, a economia colonial portuguesa continuou isolada em relação aos principais circuitos econômicos europeus de sua época, situação que só se alteraria na primeira década do século XIX."
+        },
+        {
+          "letra": "E",
+          "texto": "A realidade econômica de Portugal e Espanha nos séculos XVII e XVIII tornou o Tratado de Tordesilhas obsoleto, uma vez que, nesse período, importava menos o comércio extrativista e mais a produção industrial."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 37,
+      "numeroEnunciado": 37,
       "enunciado": "A economia do Império do Brasil foi caracterizada por:",
-      "alternativas": {
-        "A": "Prevalecimento do trabalho assalariado imigrante e investimentos estatais na indústria primária.",
-        "B": "Desenvolvimento de relações comerciais e diplomáticas com países americanos, em detrimento das relações com os países europeus.",
-        "C": "Conjugação entre desenvolvimento agrícola e industrial, responsável por tornar o Brasil a 4ª maior economia do mundo.",
-        "D": "Crescimento progressivo da dívida externa e preponderância de uma economia agroexportadora.",
-        "E": "Redução contínua do tráfico de escravos e políticas públicas voltadas à alfabetização e capacitação profissional de trabalhadores pobres."
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "História – História do Brasil"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Prevalecimento do trabalho assalariado imigrante e investimentos estatais na indústria primária."
+        },
+        {
+          "letra": "B",
+          "texto": "Desenvolvimento de relações comerciais e diplomáticas com países americanos, em detrimento das relações com os países europeus."
+        },
+        {
+          "letra": "C",
+          "texto": "Conjugação entre desenvolvimento agrícola e industrial, responsável por tornar o Brasil a 4ª maior economia do mundo."
+        },
+        {
+          "letra": "D",
+          "texto": "Crescimento progressivo da dívida externa e preponderância de uma economia agroexportadora."
+        },
+        {
+          "letra": "E",
+          "texto": "Redução contínua do tráfico de escravos e políticas públicas voltadas à alfabetização e capacitação profissional de trabalhadores pobres."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 38,
+      "numeroEnunciado": 38,
       "enunciado": "A Cabanagem foi uma revolta social ocorrida no norte do Brasil entre 1835 e 1840 e se insere em um contexto frequentemente chamado de \"Período Regencial\". Trata-se de uma revolta que, junto a outras do mesmo período, tipifica",
-      "alternativas": {
-        "A": "o impacto, no Brasil, de conflitos de fronteira com os países hispânicos recém-formados na América.",
-        "B": "a expansão de interesses imperialistas franceses e alemães em meio à geopolítica da Segunda Revolução Industrial.",
-        "C": "a capacidade negociadora das elites imperiais em evitar que questões regionais desembocassem em conflitos armados.",
-        "D": "a persistência, no contexto nacional brasileiro, de disputas entre jesuítas e governantes em torno da exploração do trabalho escravo.",
-        "E": "o caráter violento e socialmente excludente do processo de formação do Estado nacional brasileiro."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "História – História do Brasil"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o impacto, no Brasil, de conflitos de fronteira com os países hispânicos recém-formados na América."
+        },
+        {
+          "letra": "B",
+          "texto": "a expansão de interesses imperialistas franceses e alemães em meio à geopolítica da Segunda Revolução Industrial."
+        },
+        {
+          "letra": "C",
+          "texto": "a capacidade negociadora das elites imperiais em evitar que questões regionais desembocassem em conflitos armados."
+        },
+        {
+          "letra": "D",
+          "texto": "a persistência, no contexto nacional brasileiro, de disputas entre jesuítas e governantes em torno da exploração do trabalho escravo."
+        },
+        {
+          "letra": "E",
+          "texto": "o caráter violento e socialmente excludente do processo de formação do Estado nacional brasileiro."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 39,
+      "numeroEnunciado": 39,
       "enunciado": "Uma das folhas de ontem estampou (...) o programa da recepção presidencial em que, diante do corpo diplomático, da mais fina sociedade do Rio de Janeiro, aqueles que deviam dar ao país o exemplo das maneiras mais distintas e dos costumes mais reservados elevaram o Corta-jaca à altura de uma instituição social. Mas o Corta-jaca de que eu ouvira falar há muito tempo, que vem a ser ele, Sr. Presidente? A mais baixa, a mais chula, a mais grosseira de todas as danças selvagens, a irmã gêmea do batuque, do cateretê e do samba. Mas nas recepções presidenciais o “Corta-jaca” é executado com todas as honras da música de Wagner, e não se quer que a consciência deste país se revolte, que as nossas faces se enrubesçam e que a mocidade se ria! Discurso do senador Rui Barbosa, Diário do Congresso Nacional, 8/11/1914, p. 2789. A partir do texto, identifique a alternativa correta:",
-      "alternativas": {
-        "A": "A crítica permite compreender que, apesar da mudança de regime político, as elites republicanas permaneceram adeptas da cultura cosmopolita e europeia.",
-        "B": "O discurso elogia os esforços para compatibilizar a cultura republicana com as práticas e tradições dos grupos populares.",
-        "C": "A eclosão da Primeira Guerra Mundial contribuiu para a difusão de uma política cultural de caráter nacionalista e excludente.",
-        "D": "O programa musical adotado na recepção revelava tendências modernistas ao conferir status de arte às danças populares.",
-        "E": "A apresentação do maxixe Corta-jaca indicava uma resposta para contornar a xenofobia e eugenia presentes na cultura oficial."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "História – História do Brasil"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A crítica permite compreender que, apesar da mudança de regime político, as elites republicanas permaneceram adeptas da cultura cosmopolita e europeia."
+        },
+        {
+          "letra": "B",
+          "texto": "O discurso elogia os esforços para compatibilizar a cultura republicana com as práticas e tradições dos grupos populares."
+        },
+        {
+          "letra": "C",
+          "texto": "A eclosão da Primeira Guerra Mundial contribuiu para a difusão de uma política cultural de caráter nacionalista e excludente."
+        },
+        {
+          "letra": "D",
+          "texto": "O programa musical adotado na recepção revelava tendências modernistas ao conferir status de arte às danças populares."
+        },
+        {
+          "letra": "E",
+          "texto": "A apresentação do maxixe Corta-jaca indicava uma resposta para contornar a xenofobia e eugenia presentes na cultura oficial."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 40,
+      "numeroEnunciado": 40,
       "enunciado": "A ascensão de regimes autoritários na Europa nas primeiras décadas do século XX teve o amparo de milícias que arregimentaram uma legião de indivíduos de origem social heterogênea. Dentre estes grupos, destaca(m)-se:",
-      "alternativas": {
-        "A": "A Tropa de Proteção (SS), que foi uma organização paramilitar incumbida de organizar as manifestações de massa em apoio ao nazismo.",
-        "B": "Os Camisas Negras, que usaram ações violentas, intimidação e assassinatos contra opositores políticos de Mussolini.",
-        "C": "A Seção de Assalto (SA), que foi uma organização paramilitar responsável por assegurar os interesses nazistas nos territórios ocupados.",
-        "D": "As Falanges espanholas, que foram empregadas na realização de atentados contra monarquistas e membros da comunidade judaica.",
-        "E": "As milícias salazaristas, que atuaram para garantir a resistência contra os interesses portugueses na Ásia."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "História – História Contemporânea"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Tropa de Proteção (SS), que foi uma organização paramilitar incumbida de organizar as manifestações de massa em apoio ao nazismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Os Camisas Negras, que usaram ações violentas, intimidação e assassinatos contra opositores políticos de Mussolini."
+        },
+        {
+          "letra": "C",
+          "texto": "A Seção de Assalto (SA), que foi uma organização paramilitar responsável por assegurar os interesses nazistas nos territórios ocupados."
+        },
+        {
+          "letra": "D",
+          "texto": "As Falanges espanholas, que foram empregadas na realização de atentados contra monarquistas e membros da comunidade judaica."
+        },
+        {
+          "letra": "E",
+          "texto": "As milícias salazaristas, que atuaram para garantir a resistência contra os interesses portugueses na Ásia."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 41,
+      "numeroEnunciado": 41,
       "enunciado": "A imagem é considerada uma das referências do movimento artístico e cultural denominado Renascimento. Analise-a atentamente. Essa imagem pode ser considerada renascentista porque",
-      "alternativas": {
-        "A": "representa as personagens de forma simbólica e recorre a temas da doutrina cristã.",
-        "B": "reforça a perspectiva teocêntrica, ao representar a Virgem Maria no centro da composição pictórica.",
-        "C": "retoma o tema da pureza da alma feminina estabelecendo uma releitura da narrativa sobre o pecado original.",
-        "D": "adota o contraste dramático entre tons claros e escuros em sintonia com as tensões religiosas do período.",
-        "E": "utiliza a técnica da perspectiva tridimensional, que provoca a ilusão de profundidade e de espaço."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Arte – História da Arte"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "representa as personagens de forma simbólica e recorre a temas da doutrina cristã."
+        },
+        {
+          "letra": "B",
+          "texto": "reforça a perspectiva teocêntrica, ao representar a Virgem Maria no centro da composição pictórica."
+        },
+        {
+          "letra": "C",
+          "texto": "retoma o tema da pureza da alma feminina estabelecendo uma releitura da narrativa sobre o pecado original."
+        },
+        {
+          "letra": "D",
+          "texto": "adota o contraste dramático entre tons claros e escuros em sintonia com as tensões religiosas do período."
+        },
+        {
+          "letra": "E",
+          "texto": "utiliza a técnica da perspectiva tridimensional, que provoca a ilusão de profundidade e de espaço."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 42,
+      "numeroEnunciado": 42,
       "enunciado": "Leia com atenção os dados do quadro e da tabela, relativos à epidemia de gripe espanhola na cidade de São Paulo, em 1918. Quadro: Município de São Paulo: Características distritais por volta de 1918. Tabela: Mortalidade Gripal no Município de São Paulo por distrito (15/10 a 19/12/1918). Considerando as informações apresentadas, é correto afirmar:",
-      "alternativas": {
-        "A": "A mortalidade gripal verificada nos distritos do Belenzinho e da Mooca foi resultado da alta concentração demográfica associada às condições de habitação e de serviços.",
-        "B": "Os mais elevados índices de óbitos foram verificados entre os distritos que concentravam o maior contingente demográfico, independentemente do tipo de moradia e dos benefícios existentes.",
-        "C": "O número de óbitos gripais colhido no Bom Retiro atesta que não há correlação entre a topografia, o tipo de moradia e as origens sociais dos infectados.",
-        "D": "Apesar da semelhança entre as condições sanitárias e residenciais nos distritos da Sé e da Liberdade, o índice de mortalidade verificado é significativamente distinto.",
-        "E": "Os dados indicam que a epidemia alastrou-se por toda a cidade, com igual impacto sobre a população, não importando a classe, a profissão ou a topografia do distrito."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "História – História do Brasil",
-        "Sociologia – Desigualdades Sociais"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A mortalidade gripal verificada nos distritos do Belenzinho e da Mooca foi resultado da alta concentração demográfica associada às condições de habitação e de serviços."
+        },
+        {
+          "letra": "B",
+          "texto": "Os mais elevados índices de óbitos foram verificados entre os distritos que concentravam o maior contingente demográfico, independentemente do tipo de moradia e dos benefícios existentes."
+        },
+        {
+          "letra": "C",
+          "texto": "O número de óbitos gripais colhido no Bom Retiro atesta que não há correlação entre a topografia, o tipo de moradia e as origens sociais dos infectados."
+        },
+        {
+          "letra": "D",
+          "texto": "Apesar da semelhança entre as condições sanitárias e residenciais nos distritos da Sé e da Liberdade, o índice de mortalidade verificado é significativamente distinto."
+        },
+        {
+          "letra": "E",
+          "texto": "Os dados indicam que a epidemia alastrou-se por toda a cidade, com igual impacto sobre a população, não importando a classe, a profissão ou a topografia do distrito."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 43,
+      "numeroEnunciado": 43,
       "enunciado": "Leia o texto: A corrupção nos costumes das mulheres é ainda uma coisa prejudicial ao fim que se propõe o governo, e à boa conservação das leis do Estado (...). É o que aconteceu em Esparta (...). Tais são as observações feitas entre os lacedemônios: no tempo da sua dominação as mulheres resolviam quase todas as questões. De resto, que diferença existe em que as mulheres governem, ou que os magistrados sejam governados por mulheres? (...) as mulheres dos lacedemônios, mesmo no caso de perigo, fizeram-lhes o maior mal possível. Aristóteles, A política. Rio de Janeiro: Ediouro, s./d., p. 79-80. É correto afirmar sobre as mulheres na Grécia Antiga:",
-      "alternativas": {
-        "A": "Obtiveram o direito à educação e acesso às escolas filosóficas da cidade-Estado de Atenas durante o período clássico.",
-        "B": "Em Esparta, recebiam educação física na infância, tinham direito à herança e administravam as propriedades na ausência dos maridos.",
-        "C": "Adquiriram poderes políticos como cidadãs apenas com o estabelecimento do Império Macedônico, sob a liderança de Alexandre Magno.",
-        "D": "Em Atenas, podiam participar de algumas discussões na Eclésia e possuíam direitos políticos durante o período da democracia.",
-        "E": "Tornaram-se legisladoras e integrantes do conselho dos mais velhos na cidade-Estado de Tebas."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "História – História Antiga"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Obtiveram o direito à educação e acesso às escolas filosóficas da cidade-Estado de Atenas durante o período clássico."
+        },
+        {
+          "letra": "B",
+          "texto": "Em Esparta, recebiam educação física na infância, tinham direito à herança e administravam as propriedades na ausência dos maridos."
+        },
+        {
+          "letra": "C",
+          "texto": "Adquiriram poderes políticos como cidadãs apenas com o estabelecimento do Império Macedônico, sob a liderança de Alexandre Magno."
+        },
+        {
+          "letra": "D",
+          "texto": "Em Atenas, podiam participar de algumas discussões na Eclésia e possuíam direitos políticos durante o período da democracia."
+        },
+        {
+          "letra": "E",
+          "texto": "Tornaram-se legisladoras e integrantes do conselho dos mais velhos na cidade-Estado de Tebas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 44,
+      "numeroEnunciado": 44,
       "enunciado": "[No Brasil], a transição da predominância indígena para a africana na composição da força de trabalho escrava ocorreu aos poucos ao longo de aproximadamente meio século. Quando os senhores de engenho, individualmente, acumulavam recursos financeiros suficientes, compravam alguns cativos africanos, e iam acrescentando outros à medida que capital e crédito tornavam-se disponíveis. Em fins do século XVI, a mão de obra dos engenhos era mista do ponto de vista racial, e a proporção foi mudando crescentemente em favor dos africanos importados e sua prole. Stuart Schwartz, Segredos internos. São Paulo: Companhia das Letras, 1988, p.68. Com base na leitura do trecho e em seus conhecimentos, pode-se afirmar corretamente que, no Brasil,",
-      "alternativas": {
-        "A": "a implementação da escravidão de origem africana não fez desaparecer a escravidão indígena, pois o emprego de ambas podia variar segundo épocas e regiões específicas.",
-        "B": "do ponto de vista senhorial, valia a pena pagar mais caro por escravos africanos porque estes viviam mais do que os escravos indígenas, que eram mais baratos.",
-        "C": "o comércio de escravos africanos foi incompatível com o comércio de indígenas porque eram exercidos por diferentes traficantes, que concorriam entre si.",
-        "D": "havia créditos disponíveis para a compra de escravos africanos, mas não de escravos indígenas, pois a Igreja estava interessada na manutenção de boas relações com os nativos.",
-        "E": "a escravização dos indígenas pelos portugueses foi inviabilizada pelo fato de que os povos nativos americanos eram contrários ao aprisionamento de seres humanos."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "História – História do Brasil"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a implementação da escravidão de origem africana não fez desaparecer a escravidão indígena, pois o emprego de ambas podia variar segundo épocas e regiões específicas."
+        },
+        {
+          "letra": "B",
+          "texto": "do ponto de vista senhorial, valia a pena pagar mais caro por escravos africanos porque estes viviam mais do que os escravos indígenas, que eram mais baratos."
+        },
+        {
+          "letra": "C",
+          "texto": "o comércio de escravos africanos foi incompatível com o comércio de indígenas porque eram exercidos por diferentes traficantes, que concorriam entre si."
+        },
+        {
+          "letra": "D",
+          "texto": "havia créditos disponíveis para a compra de escravos africanos, mas não de escravos indígenas, pois a Igreja estava interessada na manutenção de boas relações com os nativos."
+        },
+        {
+          "letra": "E",
+          "texto": "a escravização dos indígenas pelos portugueses foi inviabilizada pelo fato de que os povos nativos americanos eram contrários ao aprisionamento de seres humanos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 45,
+      "numeroEnunciado": 45,
       "enunciado": "Considere as seguintes afirmações: I. Uma pessoa em um trampolim é lançada para o alto. No ponto mais alto de sua trajetória, sua aceleração será nula, o que dá a sensação de \"gravidade zero\". II. A resultante das forças agindo sobre um carro andando em uma estrada em linha reta a uma velocidade constante tem módulo diferente de zero. III. As forças peso e normal atuando sobre um livro em repouso em cima de uma mesa horizontal formam um par ação-reação. De acordo com as Leis de Newton:",
-      "alternativas": {
-        "A": "Somente as afirmações I e II são corretas.",
-        "B": "Somente as afirmações I e III são corretas.",
-        "C": "Somente as afirmações II e III são corretas.",
-        "D": "Todas as afirmações são corretas.",
-        "E": "Nenhuma das afirmações é correta."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Física – Leis de Newton"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmações I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmações I e III são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmações II e III são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das afirmações é correta."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 46,
+      "numeroEnunciado": 46,
       "enunciado": "Um vídeo bastante popular na Internet mostra um curioso experimento em que uma garrafa de água pendurada por uma corda é mantida suspensa por um palito de dente apoiado em uma mesa. O \"truque” só é possível pelo uso de outros palitos, formando um tipo de treliça. A figura à direita da foto mostra uma visão lateral do conjunto, destacando duas das forças que atuam sobre o palito 1. Nesta figura, F é a força que o palito 2 exerce sobre o palito 1 (aplicada a uma distância L do ponto A na borda da mesa), P é a componente vertical da força que a corda exerce sobre o palito 1 (aplicada a uma distância d do ponto A) e θ é o ângulo entre a direção da força F e a vertical. Para que o conjunto se mantenha estático, porém na iminência de rotacionar, a relação entre os módulos de F e P deve ser:",
-      "alternativas": {
-        "A": "|F| = Pd / (L cos(θ))",
-        "B": "|F| = Pd / (L sen(θ))",
-        "C": "|F| = |P| cos(θ)",
-        "D": "|F| = PL cos(θ) / d",
-        "E": "|F| = PL sen(θ) / d"
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Física – Estática"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "|F| = Pd / (L cos(θ))"
+        },
+        {
+          "letra": "B",
+          "texto": "|F| = Pd / (L sen(θ))"
+        },
+        {
+          "letra": "C",
+          "texto": "|F| = |P| cos(θ)"
+        },
+        {
+          "letra": "D",
+          "texto": "|F| = PL cos(θ) / d"
+        },
+        {
+          "letra": "E",
+          "texto": "|F| = PL sen(θ) / d"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 47,
+      "numeroEnunciado": 47,
       "enunciado": "Os smartphones modernos vêm equipados com um acelerômetro, dispositivo que mede acelerações a que o aparelho é submetido. O gráfico foi gerado a partir de dados extraídos por um aplicativo do acelerômetro de um smartphone pendurado por um fio e colocado para oscilar sob a ação da gravidade. O gráfico mostra os dados de uma das componentes da aceleração (corrigidos por um valor de referência constante) em função do tempo. Com base nos dados do gráfico e considerando que o movimento do smartphone seja o de um pêndulo simples a ângulos pequenos, o comprimento do fio é de aproximadamente:",
-      "alternativas": {
-        "A": "5 cm",
-        "B": "10 cm",
-        "C": "50 cm",
-        "D": "100 cm",
-        "E": "150 cm"
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Física – Ondas"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "50 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "100 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "150 cm"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 48,
+      "numeroEnunciado": 48,
       "enunciado": "Uma comunidade rural tem um consumo de energia elétrica de 2 MWh por mês. Para suprir parte dessa demanda, os moradores têm interesse em instalar uma miniusina hidrelétrica em uma queda d'água de 15 m de altura com vazão de 10 litros por segundo. O restante do consumo seria complementado com painéis de energia solar que produzem 40 kWh de energia por mês cada um. Considerando que a miniusina hidrelétrica opere 24h por dia com 100% de eficiência, o número mínimo de painéis solares necessários para suprir a demanda da comunidade seria de:",
-      "alternativas": {
-        "A": "12",
-        "B": "23",
-        "C": "30",
-        "D": "45",
-        "E": "50"
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Física – Energia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "23"
+        },
+        {
+          "letra": "C",
+          "texto": "30"
+        },
+        {
+          "letra": "D",
+          "texto": "45"
+        },
+        {
+          "letra": "E",
+          "texto": "50"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 49,
+      "numeroEnunciado": 49,
       "enunciado": "Ondas estacionárias podem ser produzidas de diferentes formas, dentre elas esticando-se uma corda homogênea, fixa em dois pontos separados por uma distância L, e pondo-a a vibrar. A extremidade à direita é acoplada a um gerador de frequências, enquanto a outra extremidade está sujeita a uma força tensional produzida ao se pendurar à corda um objeto de massa mo mantido em repouso. O arranjo experimental é ilustrado na figura. Ajustando a frequência do gerador para f₁, obtém-se na corda uma onda estacionária que vibra em seu primeiro harmônico. Ao trocarmos o objeto pendurado por outro de massa M, observa-se que a frequência do gerador para que a corda continue a vibrar no primeiro harmônico deve ser ajustada para 2f₁. Com isso, é correto concluir que a razão M/mo deve ser:",
-      "alternativas": {
-        "A": "1/4",
-        "B": "1/2",
-        "C": "1",
-        "D": "2",
-        "E": "4"
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Física – Ondas"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/4"
+        },
+        {
+          "letra": "B",
+          "texto": "1/2"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "4"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 50,
+      "numeroEnunciado": 50,
       "enunciado": "Um mol de um gás ideal percorre o processo cíclico ABCA em um diagrama P-V, conforme mostrado na figura, sendo que a etapa AB é isobárica, a etapa BC é isocórica e a etapa CA é isotérmica. Considere as seguintes afirmações: I. O gás libera calor tanto na etapa BC quanto na etapa CA. II. O módulo do trabalho realizado pelo gás é não nulo tanto na etapa AB quanto na etapa BC. III. O gás tem sua temperatura aumentada tanto na etapa AB quanto na etapa CA. É correto o que se afirma em:",
-      "alternativas": {
-        "A": "Nenhuma delas.",
-        "B": "Apenas I.",
-        "C": "Apenas II.",
-        "D": "Apenas III.",
-        "E": "Apenas I e II."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Física – Termodinâmica"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nenhuma delas."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas I e II."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 51,
+      "numeroEnunciado": 51,
       "enunciado": "O olho humano constitui uma complexa estrutura capaz de controlar a luz recebida e produzir imagens nítidas. Em pessoas com visão normal, o olho é capaz de acomodar o cristalino para focalizar sobre a retina a luz que vem dos objetos, desde que não estejam muito próximos. Pessoas míopes, por outro lado, apresentam dificuldades em enxergar de longe. Ao focalizar objetos situados além do chamado ponto remoto (PR), a imagem forma-se à frente da retina, conforme ilustrado na figura. Neste caso, lentes corretivas são necessárias a fim de que o indivíduo observe o objeto de forma nítida. Qual arranjo esquemático melhor descreve a correção realizada por uma lente receitada por um oftalmologista no caso de um indivíduo míope?",
-      "alternativas": {
-        "A": "Diagrama mostrando objeto, PR, lente divergente e retina com imagem à frente da retina.",
-        "B": "Diagrama mostrando objeto, PR, lente divergente e retina com imagem na retina.",
-        "C": "Diagrama mostrando objeto, PR, lente convergente e retina com imagem na retina.",
-        "D": "Diagrama mostrando objeto, PR, lente convergente e retina com imagem atrás da retina.",
-        "E": "Diagrama mostrando objeto, PR, lente divergente e retina com imagem atrás da retina."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Física – Óptica"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Diagrama mostrando objeto, PR, lente divergente e retina com imagem à frente da retina."
+        },
+        {
+          "letra": "B",
+          "texto": "Diagrama mostrando objeto, PR, lente divergente e retina com imagem na retina."
+        },
+        {
+          "letra": "C",
+          "texto": "Diagrama mostrando objeto, PR, lente convergente e retina com imagem na retina."
+        },
+        {
+          "letra": "D",
+          "texto": "Diagrama mostrando objeto, PR, lente convergente e retina com imagem atrás da retina."
+        },
+        {
+          "letra": "E",
+          "texto": "Diagrama mostrando objeto, PR, lente divergente e retina com imagem atrás da retina."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 52,
+      "numeroEnunciado": 52,
       "enunciado": "Dois balões negativamente carregados são utilizados para induzir cargas em latas metálicas, alinhadas e em contato, que, inicialmente, estavam eletricamente neutras. Conforme mostrado na figura, os balões estão próximos, mas jamais chegam a tocar as latas. Nessa configuração, as latas 1, 2 e 3 terão, respectivamente, carga total:",
-      "alternativas": {
-        "A": "1: zero; 2: negativa; 3: zero.",
-        "B": "1: positiva; 2: zero; 3: positiva.",
-        "C": "1: zero; 2: positiva; 3: zero.",
-        "D": "1: positiva; 2: negativa; 3: positiva.",
-        "E": "1: zero; 2: zero; 3: zero."
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "Física – Eletrostática"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1: zero; 2: negativa; 3: zero."
+        },
+        {
+          "letra": "B",
+          "texto": "1: positiva; 2: zero; 3: positiva."
+        },
+        {
+          "letra": "C",
+          "texto": "1: zero; 2: positiva; 3: zero."
+        },
+        {
+          "letra": "D",
+          "texto": "1: positiva; 2: negativa; 3: positiva."
+        },
+        {
+          "letra": "E",
+          "texto": "1: zero; 2: zero; 3: zero."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 53,
+      "numeroEnunciado": 53,
       "enunciado": "Em uma luminária de mesa, há duas lâmpadas que podem ser acesas individualmente ou ambas ao mesmo tempo, com cada uma funcionando sob a tensão nominal determinada pelo fabricante, de modo que a intensidade luminosa de cada lâmpada seja sempre a mesma. Entre os circuitos apresentados, indique aquele que corresponde a um arranjo que permite o funcionamento conforme essa descrição.",
-      "alternativas": {
-        "A": "Circuito (1)",
-        "B": "Circuito (2)",
-        "C": "Circuito (3)",
-        "D": "Circuito (4)",
-        "E": "Circuito (5)"
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Física – Eletrodinâmica"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Circuito (1)"
+        },
+        {
+          "letra": "B",
+          "texto": "Circuito (2)"
+        },
+        {
+          "letra": "C",
+          "texto": "Circuito (3)"
+        },
+        {
+          "letra": "D",
+          "texto": "Circuito (4)"
+        },
+        {
+          "letra": "E",
+          "texto": "Circuito (5)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 54,
+      "numeroEnunciado": 54,
       "enunciado": "Uma esfera metálica de massa m e carga elétrica +q descansa sobre um piso horizontal isolante, em uma região em que há um campo elétrico uniforme E também horizontal, de intensidade E, conforme mostrado na figura. Em certo instante, com auxílio de uma barra isolante, a esfera é erguida ao longo de uma linha vertical, com velocidade constante e contra a ação da gravidade, a uma altura total h, sem nunca abandonar a região de campo elétrico uniforme. Ao longo do movimento descrito, os trabalhos realizados pela força gravitacional e pela força elétrica sobre a esfera são, respectivamente:",
-      "alternativas": {
-        "A": "mgh e qEh",
-        "B": "-mgh e 0",
-        "C": "0 e -qEh",
-        "D": "-mgh e -qEh",
-        "E": "mgh e 0"
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Física – Eletricidade e Magnetismo"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mgh e qEh"
+        },
+        {
+          "letra": "B",
+          "texto": "-mgh e 0"
+        },
+        {
+          "letra": "C",
+          "texto": "0 e -qEh"
+        },
+        {
+          "letra": "D",
+          "texto": "-mgh e -qEh"
+        },
+        {
+          "letra": "E",
+          "texto": "mgh e 0"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 55,
+      "numeroEnunciado": 55,
       "enunciado": "A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente 4 × 10^26 W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de 5 × 10^9 anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de",
-      "alternativas": {
-        "A": "10^7 kg.",
-        "B": "10^17 kg.",
-        "C": "10^27 kg.",
-        "D": "10^37 kg.",
-        "E": "10^47 kg."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Física – Física Moderna"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10^7 kg."
+        },
+        {
+          "letra": "B",
+          "texto": "10^17 kg."
+        },
+        {
+          "letra": "C",
+          "texto": "10^27 kg."
+        },
+        {
+          "letra": "D",
+          "texto": "10^37 kg."
+        },
+        {
+          "letra": "E",
+          "texto": "10^47 kg."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 56,
+      "numeroEnunciado": 56,
       "enunciado": "As astronomers gaze into the depths of space, they do so with unease: They don't know precisely what the universe is made of. Surprisingly, no one knows the stars' exact chemical composition: how many carbon, nitrogen and oxygen atoms they have relative to hydrogen, the most common element. These numbers are crucial, because they affect how stars live and die, what types of planets form and even how readily life might arise on other worlds. Twenty years ago, astronomers expressed confidence in the numbers they had been working with. Now, not so much. The problem lies not in the far corners of the cosmos, but much closer to home. Astonishingly, scientists don't know exactly what the sun is made of. As a result, they don't know what the other stars are made of, either. \"The sun is a fundamental yardstick,\" says Martin Asplund, an astrophysicist at the Max Planck Institute for Astrophysics, in Germany. \"When we determine the abundance of a certain element in a star or a galaxy or a gas cloud anywhere in the universe, we use the sun as a reference point.\" The sun's location in the Milky Way also makes it a good representative of the entire galaxy. Most stars reside in giant galaxies like the Milky Way, which makes the sun a touchstone for the entire cosmos. For nearly a century, astronomers have judged stars normal or not by seeing whether their chemical compositions match the sun's. Most stars near us do; some don't. Scientific American. 1 July 2020. Adaptado. Segundo o texto, conhecer a composição de elementos químicos que constituem as estrelas é fundamental, pois ela, entre outros aspectos,",
-      "alternativas": {
-        "A": "fornece evidências da ligação entre as idades das estrelas.",
-        "B": "sugere a existência de planetas rochosos formados por elementos pesados.",
-        "C": "influencia na possibilidade de presença de vida em outros locais do universo.",
-        "D": "determina condições cosmológicas da evolução de aglomerados estelares.",
-        "E": "possibilita a síntese de moléculas em nuvens de gás e poeira cósmica."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Inglês – Compreensão de Texto"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fornece evidências da ligação entre as idades das estrelas."
+        },
+        {
+          "letra": "B",
+          "texto": "sugere a existência de planetas rochosos formados por elementos pesados."
+        },
+        {
+          "letra": "C",
+          "texto": "influencia na possibilidade de presença de vida em outros locais do universo."
+        },
+        {
+          "letra": "D",
+          "texto": "determina condições cosmológicas da evolução de aglomerados estelares."
+        },
+        {
+          "letra": "E",
+          "texto": "possibilita a síntese de moléculas em nuvens de gás e poeira cósmica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 57,
+      "numeroEnunciado": 57,
       "enunciado": "No texto, o astrofísico Martin Asplund emprega a frase \"The sun is a fundamental yardstick\" (L. 15), por considerar o Sol",
-      "alternativas": {
-        "A": "um mistério.",
-        "B": "uma estrutura.",
-        "C": "um processo.",
-        "D": "um sistema.",
-        "E": "um parâmetro."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Inglês – Vocabulário"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um mistério."
+        },
+        {
+          "letra": "B",
+          "texto": "uma estrutura."
+        },
+        {
+          "letra": "C",
+          "texto": "um processo."
+        },
+        {
+          "letra": "D",
+          "texto": "um sistema."
+        },
+        {
+          "letra": "E",
+          "texto": "um parâmetro."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 58,
+      "numeroEnunciado": 58,
       "enunciado": "Conforme o texto, um critério tradicionalmente utilizado por astrônomos para avaliar estrelas envolve",
-      "alternativas": {
-        "A": "verificar se sua composição se assemelha à do Sol.",
-        "B": "selecionar galáxias compostas por estrelas padrão.",
-        "C": "calcular níveis de radiação estelar e de energia gravitacional.",
-        "D": "medir a densidade e grau de opacidade de nêutrons.",
-        "E": "testar a circulação atmosférica em torno dos astros."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Inglês – Compreensão de Texto"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "verificar se sua composição se assemelha à do Sol."
+        },
+        {
+          "letra": "B",
+          "texto": "selecionar galáxias compostas por estrelas padrão."
+        },
+        {
+          "letra": "C",
+          "texto": "calcular níveis de radiação estelar e de energia gravitacional."
+        },
+        {
+          "letra": "D",
+          "texto": "medir a densidade e grau de opacidade de nêutrons."
+        },
+        {
+          "letra": "E",
+          "texto": "testar a circulação atmosférica em torno dos astros."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 59,
+      "numeroEnunciado": 59,
       "enunciado": "I knew TikTok existed, but I didn't fully understand what it was until a few months ago. I also realized that something radical, yet largely invisible, is happening on the internet - with implications we still don't understand. When I was growing up, I took it for granted that the people who became famous enough to be listened to by a crowd had worked hard for that accolade and generally operated with the support of an institution or an established industry. The idea that I, as a teenager in my bedroom, might suddenly communicate with 100,000 people or more, would have seemed bizarre. Today's kids no longer see life in these hierarchical and institutional terms. Yes, their physical worlds are often constrained by parental controls, a lack of access to the outdoors and insane over-scheduling. But despite that (or, more accurately, in reaction to that), they see the internet as a constantly evolving frontier, where it is still possible for a bold and lucky pioneer to grab some land or find a voice. Most voices on the internet never travel beyond a relatively small network, and much of the content that goes viral on platforms such as TikTok, YouTube or Instagram does so because of unseen institutions at work (for example, a public relations team aiming to boost a celebrity's profile). Fame can suddenly appear - and then just as suddenly be taken away again, because the audience gets bored, the platform's algorithms change or the cultural trend that a breakout video has tapped into goes out of fashion. For a teenager, social media can seem like a summer garden at dusk filled with fireflies: spots of lights suddenly flare up and then die down, moving in an unpredictable, capricious display. Is this a bad thing? We will not know for several years. Financial Times. 5 February 2020. Adaptado. Conforme o texto, um aspecto associado ao caráter efêmero da popularidade de um usuário da internet, relativo ao uso de plataformas como TikTok, é",
-      "alternativas": {
-        "A": "a falta de conhecimento técnico dos adolescentes para o manejo de hardware.",
-        "B": "a perda de interesse do público pelas publicações até então atrativas.",
-        "C": "a competição entre usuários com atitudes pouco éticas.",
-        "D": "a variedade limitada dos vídeos postados, em razão do tratamento precário das imagens.",
-        "E": "a alta capacidade dos vídeos para viralizar entre grupos com interesses conflitantes."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Inglês – Compreensão de Texto"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a falta de conhecimento técnico dos adolescentes para o manejo de hardware."
+        },
+        {
+          "letra": "B",
+          "texto": "a perda de interesse do público pelas publicações até então atrativas."
+        },
+        {
+          "letra": "C",
+          "texto": "a competição entre usuários com atitudes pouco éticas."
+        },
+        {
+          "letra": "D",
+          "texto": "a variedade limitada dos vídeos postados, em razão do tratamento precário das imagens."
+        },
+        {
+          "letra": "E",
+          "texto": "a alta capacidade dos vídeos para viralizar entre grupos com interesses conflitantes."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 60,
+      "numeroEnunciado": 60,
       "enunciado": "No texto, a referência a um jardim de verão ao entardecer, repleto de vagalumes, sugere que, para os adolescentes, as mídias sociais",
-      "alternativas": {
-        "A": "são fonte de pressão e tensão na família.",
-        "B": "favorecem a comunicação dos mais tímidos.",
-        "C": "são pautadas por certa imprevisibilidade.",
-        "D": "garantem a funcionalidade de grupos.",
-        "E": "promovem igualdade de expressão."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Inglês – Vocabulário"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são fonte de pressão e tensão na família."
+        },
+        {
+          "letra": "B",
+          "texto": "favorecem a comunicação dos mais tímidos."
+        },
+        {
+          "letra": "C",
+          "texto": "são pautadas por certa imprevisibilidade."
+        },
+        {
+          "letra": "D",
+          "texto": "garantem a funcionalidade de grupos."
+        },
+        {
+          "letra": "E",
+          "texto": "promovem igualdade de expressão."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 61,
+      "numeroEnunciado": 61,
       "enunciado": "I ain't gonna work on Maggie's farm no more I ain't gonna work on Maggie's farm no more Well, I wake up in the morning Fold my hands and pray for rain I got a head full of ideas That are drivin' me insane It's a shame the way she makes me scrub the floor I ain't gonna work on Maggie's farm no more I ain't gonna work for Maggie's brother no more I ain't gonna work for Maggie's brother no more Well, he hands you a nickel He hands you a dime He asks you with a grin If you're havin' a good time Then he fines you every time you slam the door I ain't gonna work for Maggie's brother no more I ain't gonna work for Maggie's pa no more No, I ain't gonna work for Maggie's pa no more Well, he puts his cigar out in your face just for kicks His bedroom window it is made out of bricks The National Guard stands around his door Ah, I ain't gonna work for Maggie's pa no more, alright Bob Dylan, \"Maggie's Farm\", do álbum Bringing it all back home, 1965. Nestas estrofes, o conjunto de cenas descritas mostra que a principal dificuldade experimentada pela pessoa cuja história é contada na letra da música refere-se",
-      "alternativas": {
-        "A": "ao relacionamento difícil com familiares e amigos.",
-        "B": "à falta de criatividade diante das exigências do trabalho.",
-        "C": "às restrições impostas a sua liberdade e expressão pessoal.",
-        "D": "à competição por salários mais altos com colegas de trabalho.",
-        "E": "às dificuldades de viver fora de um grande centro urbano."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Inglês – Análise de Letra de Música"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao relacionamento difícil com familiares e amigos."
+        },
+        {
+          "letra": "B",
+          "texto": "à falta de criatividade diante das exigências do trabalho."
+        },
+        {
+          "letra": "C",
+          "texto": "às restrições impostas a sua liberdade e expressão pessoal."
+        },
+        {
+          "letra": "D",
+          "texto": "à competição por salários mais altos com colegas de trabalho."
+        },
+        {
+          "letra": "E",
+          "texto": "às dificuldades de viver fora de um grande centro urbano."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 62,
+      "numeroEnunciado": 62,
       "enunciado": "Leia os provérbios: 1. Don't count your chickens before they lay eggs. 2. Don't bite the hand that feeds you. 3. Every cloud has a silver lining. A alternativa que melhor expressa a ideia contida em cada um dos três provérbios, na ordem em que aparecem, é:",
-      "alternativas": {
-        "A": "Esperteza; desconfiança; foco.",
-        "B": "Precipitação; ingratidão; esperança.",
-        "C": "Observação; certeza; experiência.",
-        "D": "Exagero; harmonia; desaprovação.",
-        "E": "Orgulho; desprezo; teimosia."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Inglês – Vocabulário"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Esperteza; desconfiança; foco."
+        },
+        {
+          "letra": "B",
+          "texto": "Precipitação; ingratidão; esperança."
+        },
+        {
+          "letra": "C",
+          "texto": "Observação; certeza; experiência."
+        },
+        {
+          "letra": "D",
+          "texto": "Exagero; harmonia; desaprovação."
+        },
+        {
+          "letra": "E",
+          "texto": "Orgulho; desprezo; teimosia."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 63,
+      "numeroEnunciado": 63,
       "enunciado": "No fragmento \"ao tropeçar, cravava sua própria adaga no peito.\" (L. 8-9), a oração em negrito abrange, simultaneamente, as noções de",
-      "alternativas": {
-        "A": "proporção e explicação.",
-        "B": "causa e proporção.",
-        "C": "tempo e consequência.",
-        "D": "explicação e consequência.",
-        "E": "tempo e causa."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Língua Portuguesa – Sintaxe"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "proporção e explicação."
+        },
+        {
+          "letra": "B",
+          "texto": "causa e proporção."
+        },
+        {
+          "letra": "C",
+          "texto": "tempo e consequência."
+        },
+        {
+          "letra": "D",
+          "texto": "explicação e consequência."
+        },
+        {
+          "letra": "E",
+          "texto": "tempo e causa."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 64,
+      "numeroEnunciado": 64,
       "enunciado": "As vírgulas em \"E depois, o silêncio.\" (L. 1) e em \"Mas seu rosto continua sorrindo, para sempre.\" (L. 2-3) são usadas, respectivamente, com a mesma finalidade que as vírgulas em",
-      "alternativas": {
-        "A": "\"Após a queda, tomaram mais cuidado.\" e \"Quanto mais espaço, mais liberdade.\".",
-        "B": "\"Aos estrangeiros, ofereceram iguarias.\" e \"Limpavam a casa, e preparávamos as refeições.\".",
-        "C": "\"Colheram trigo e nós, algodão.\" e \"Eles se encontraram nas férias, mas não viajaram.\".",
-        "D": "\"Para meus amigos, o melhor.\" e \"Organizava tudo, cautelosamente.\".",
-        "E": "\"Viu o espetáculo, considerado o maior fenômeno de bilheteria.\" e \"'Conheço muito bem', afirmou o rapaz.\"."
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "Língua Portuguesa – Pontuação"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Após a queda, tomaram mais cuidado.\" e \"Quanto mais espaço, mais liberdade.\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Aos estrangeiros, ofereceram iguarias.\" e \"Limpavam a casa, e preparávamos as refeições.\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Colheram trigo e nós, algodão.\" e \"Eles se encontraram nas férias, mas não viajaram.\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Para meus amigos, o melhor.\" e \"Organizava tudo, cautelosamente.\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Viu o espetáculo, considerado o maior fenômeno de bilheteria.\" e \"'Conheço muito bem', afirmou o rapaz.\"."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 65,
+      "numeroEnunciado": 65,
       "enunciado": "Em \"Seu carisma seduziu a editora DC Comics, que impôs o acréscimo de um quadrinho.” (L. 12-13), o vocábulo \"que\" possui a mesma função sintática desempenhada no texto por",
-      "alternativas": {
-        "A": "\"imóvel” (L. 2).",
-        "B": "\"Robin\" (L. 5).",
-        "C": "\"seus pais\" (L. 9).",
-        "D": "\"se\" (L. 12).",
-        "E": "“vivo” (L. 15)."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Língua Portuguesa – Sintaxe"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"imóvel” (L. 2)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Robin\" (L. 5)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"seus pais\" (L. 9)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"se\" (L. 12)."
+        },
+        {
+          "letra": "E",
+          "texto": "“vivo” (L. 15)."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 66,
+      "numeroEnunciado": 66,
       "enunciado": "Posso furar os olhos do povo? Esta frase besta foi repetida muitas vezes e, em falta de coisa melhor, aceitei-a. Sem dúvida. As mulheres hoje não vivem como antigamente, escondidas, evitando os homens. Tudo é descoberto, cara a cara. Uma pessoa topa outra. Se gostou, gostou; se não gostou, até logo. E eu de fato não tinha visto nada. As aparências mentem. A terra não é redonda? Esta prova da inocência de Marina me pareceu considerável. Tantos indivíduos condenados injustamente neste mundo ruim! O retirante que fora encontrado violando a filha de quatro anos - estava aí um exemplo. As vizinhas tinham visto o homem afastando as pernas da menina, todo o mundo pensava que ele era um monstro. Engano. Quem pode lá jurar que isto é assim ou assado? Procurei mesmo capacitar-me de que Julião Tavares não existia. Julião Tavares era uma sensação. Uma sensação desagradável, que eu pretendia afastar de minha casa quando me juntasse àquela sensação agradável que ali estava a choramingar. Graciliano Ramos, Angústia. Em termos críticos, esse fragmento permite observar que, no plano maior do romance Angústia, o ponto de vista",
-      "alternativas": {
-        "A": "se acomoda nos limites da vulgaridade.",
-        "B": "tenta imitar a retórica dos dominantes.",
-        "C": "reproduz a lógica do determinismo social.",
-        "D": "atinge a neutralidade do espírito maduro.",
-        "E": "revira os lados contrários da opinião."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Língua Portuguesa – Literatura"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se acomoda nos limites da vulgaridade."
+        },
+        {
+          "letra": "B",
+          "texto": "tenta imitar a retórica dos dominantes."
+        },
+        {
+          "letra": "C",
+          "texto": "reproduz a lógica do determinismo social."
+        },
+        {
+          "letra": "D",
+          "texto": "atinge a neutralidade do espírito maduro."
+        },
+        {
+          "letra": "E",
+          "texto": "revira os lados contrários da opinião."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 67,
+      "numeroEnunciado": 67,
       "enunciado": "Terça é dia de Veneza revelar as atrações de seu festival anual, cuja 77ª edição começa no dia 2 de setembro, com a dramédia \"Lacci\", do romano Daniele Luchetti, seguindo até 12/9, com 50 produções internacionais e uma expectativa (extraoficial) de colocar \"West Side Story\", de Steven Spielberg, na ribalta. Rodrigo Fonseca. \"À espera dos rugidos de Ven eza\". O Estado de S. Paulo. Julho/2020. Adaptado. Um processo de formação de palavras em língua portuguesa é o cruzamento vocabular, em que são misturadas pelo menos duas palavras na formação de uma terceira. A força expressiva dessa nova palavra resulta da síntese de significados e do inesperado da combinação, como é o caso de \"dramédia\" no texto. Ocorre esse mesmo tipo de formação em",
-      "alternativas": {
-        "A": "\"deleitura\" e \"namorido\".",
-        "B": "\"passatempo\" e \"microvestido\".",
-        "C": "\"hidrelétrica\" e \"sabiamente\".",
-        "D": "\"arenista\" e \"girassol\".",
-        "E": "\"planalto\" e \"multicor\"."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Língua Portuguesa – Morfologia"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"deleitura\" e \"namorido\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"passatempo\" e \"microvestido\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"hidrelétrica\" e \"sabiamente\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"arenista\" e \"girassol\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"planalto\" e \"multicor\"."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 68,
+      "numeroEnunciado": 68,
       "enunciado": "Ao substituir a pessoa verbal utilizada para se referir ao substantivo \"palavras\" pela 3ª pessoa do plural, os verbos dos versos \"sois de vento, ides no vento,\" (v. 4) / \"Perdão podíeis ter sido!\" (v. 12) / “Éreis um sopro na aragem...\" (v. 20) seriam conjugados conforme apresentado na alternativa:",
-      "alternativas": {
-        "A": "são, vão, podiam, eram.",
-        "B": "seriam, iriam, podiam, serão.",
-        "C": "eram, foram, poderiam, seriam.",
-        "D": "são, vão, poderiam, eram.",
-        "E": "eram, iriam, podiam, seriam."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Língua Portuguesa – Gramática"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são, vão, podiam, eram."
+        },
+        {
+          "letra": "B",
+          "texto": "seriam, iriam, podiam, serão."
+        },
+        {
+          "letra": "C",
+          "texto": "eram, foram, poderiam, seriam."
+        },
+        {
+          "letra": "D",
+          "texto": "são, vão, poderiam, eram."
+        },
+        {
+          "letra": "E",
+          "texto": "eram, iriam, podiam, seriam."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 69,
+      "numeroEnunciado": 69,
       "enunciado": "A \"estranha potência\" que a voz lírica ressalta nas palavras decorre de uma combinação entre",
-      "alternativas": {
-        "A": "fluidez nos ventos do presente e conteúdo fixo no passado.",
-        "B": "forma abstrata no espaço e presença concreta na história.",
-        "C": "leveza impalpável na arte e vigor nos documentos antigos.",
-        "D": "sonoridade ruidosa nos ares e significado estável no papel.",
-        "E": "lirismo irrefletido da poesia e peso justo dos acontecimentos."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Língua Portuguesa – Interpretação de Texto"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fluidez nos ventos do presente e conteúdo fixo no passado."
+        },
+        {
+          "letra": "B",
+          "texto": "forma abstrata no espaço e presença concreta na história."
+        },
+        {
+          "letra": "C",
+          "texto": "leveza impalpável na arte e vigor nos documentos antigos."
+        },
+        {
+          "letra": "D",
+          "texto": "sonoridade ruidosa nos ares e significado estável no papel."
+        },
+        {
+          "letra": "E",
+          "texto": "lirismo irrefletido da poesia e peso justo dos acontecimentos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 70,
+      "numeroEnunciado": 70,
       "enunciado": "Alferes, Ouro Preto em sombras Espera pelo batizado, Ainda que tarde sobre a morte do sonhador Ainda que tarde sobre as bocas do traidor. Raios de sol brilharão nos sinos: Dez vias dar. Ai Marília, as liras e o amor Não posso mais sufocar E a minha voz irá Pra muito além do desterro e do sal, Maior que a voz do rei. Aldir Blanc e João Bosco, trecho da canção \"Alferes\", de 1973. A imagem de Tiradentes - a quem Cecília Meireles qualificou \"o Alferes imortal, radiosa expressão dos mais altos sonhos desta cidade, do Brasil e do próprio mundo\", em palestra feita em Ouro Preto - torna a aparecer como símbolo da luta pela liberdade em vários momentos da cultura nacional. Os versos do letrista Aldir Blanc evocam, em novo contexto, o mártir sonhador para resistir ao discurso",
-      "alternativas": {
-        "A": "da doutrina revolucionária de ligas politicamente engajadas.",
-        "B": "da historiografia, que minimizou a importância de Tiradentes.",
-        "C": "de autoritarismo e opressão, próprio da ditadura militar.",
-        "D": "dos poetas árcades, que se dedicavam às suas liras amorosas.",
-        "E": "da tirania portuguesa sobre os mineradores no ciclo do ouro."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Língua Portuguesa – Literatura"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da doutrina revolucionária de ligas politicamente engajadas."
+        },
+        {
+          "letra": "B",
+          "texto": "da historiografia, que minimizou a importância de Tiradentes."
+        },
+        {
+          "letra": "C",
+          "texto": "de autoritarismo e opressão, próprio da ditadura militar."
+        },
+        {
+          "letra": "D",
+          "texto": "dos poetas árcades, que se dedicavam às suas liras amorosas."
+        },
+        {
+          "letra": "E",
+          "texto": "da tirania portuguesa sobre os mineradores no ciclo do ouro."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 71,
+      "numeroEnunciado": 71,
       "enunciado": "- Traiste-me, Sem Medo. Tu traíste-me. (...) Sabes o que tu és afinal, Sem Medo? És um ciumento. Chego a pensar se não és homossexual. Tu querias-me só, como tu. Um solitário do Mayombe. (...) Desprezo-te. (...) Nunca me verás atrás de uma garrafa vazia. (...) Cada sucesso que eu tiver, será a paga da tua bofetada, pois não serei um falhado como tu. || Peço-te perdão, Sem Medo. Não te compreendi, fui um imbecil. E quis igualar o inigualável. Pepetela, Mayombe. Esses excertos de Mayombe referem-se a conversas entre as personagens Comissário e Sem Medo em momentos distintos do romance. Em I e II, as falas do Comissário revelam, respectivamente,",
-      "alternativas": {
-        "A": "incompatibilidade étnica entre ele e Sem Medo, por pertencerem a linhagens diferentes, e superação de sua hostilidade tribal.",
-        "B": "decepção, por Sem Medo não ter intercedido a seu favor na conversa com Ondina, e desespero diante do companheiro baleado.",
-        "C": "suspeita de traição de Ondina e tomada de consciência de que isso não passara de uma crise de ciúme dele.",
-        "D": "forte tensão homoafetiva entre ele e Sem Medo, e aceitação da verdadeira orientação sexual do companheiro.",
-        "E": "ira, diante do anticatolicismo de Sem Medo, e culpa que o atinge ao perceber que sua demonstração de coragem colocara o companheiro em risco."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Língua Portuguesa – Literatura"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "incompatibilidade étnica entre ele e Sem Medo, por pertencerem a linhagens diferentes, e superação de sua hostilidade tribal."
+        },
+        {
+          "letra": "B",
+          "texto": "decepção, por Sem Medo não ter intercedido a seu favor na conversa com Ondina, e desespero diante do companheiro baleado."
+        },
+        {
+          "letra": "C",
+          "texto": "suspeita de traição de Ondina e tomada de consciência de que isso não passara de uma crise de ciúme dele."
+        },
+        {
+          "letra": "D",
+          "texto": "forte tensão homoafetiva entre ele e Sem Medo, e aceitação da verdadeira orientação sexual do companheiro."
+        },
+        {
+          "letra": "E",
+          "texto": "ira, diante do anticatolicismo de Sem Medo, e culpa que o atinge ao perceber que sua demonstração de coragem colocara o companheiro em risco."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 72,
+      "numeroEnunciado": 72,
       "enunciado": "Leusipo perguntou o que eu tinha ido fazer na aldeia. Preferi achar que o tom era amistoso e, no meu paternalismo ingênuo, comecei a lhe explicar o que era um romance. Eu tentava convencê-lo de que não havia motivo para preocupação. Tudo o que eu queria saber já era conhecido. E ele me perguntava: \"Então, por que você quer saber, se já sabe?\" Tentei lhe explicar que pretendia escrever um livro e mais uma vez o que era um romance, o que era um livro de ficção (e mostrava o que tinha nas mãos), que seria tudo historinha, sem nenhuma consequência na realidade. Ele seguia incrédulo. Fazia-se de desentendido, mas na verdade só queria me intimidar. As minhas explicações sobre o romance eram inúteis. Eu tentava dizer que, para os brancos que não acreditam em deuses, a ficção servia de mitologia, era o equivalente dos mitos dos índios, e antes mesmo de terminar a frase, já não sabia se o idiota era ele ou eu. Ele não dizia nada a não ser: \"O que você quer com o passado?\". Repetia. E, diante da sua insistência bovina, tive de me render à evidência de que eu não sabia responder à sua pergunta. Bernardo Carvalho, Nove noites. Adaptado. Sem prejuízo de sentido e fazendo as adaptações necessárias, é possível substituir as expressões em destaque no texto, respectivamente, por",
-      "alternativas": {
-        "A": "incompreensão; armação; inofensivo; irredutível.",
-        "B": "altivez; brincadeira; ofendido; mansa.",
-        "C": "ignorância; mentira; prejudicado; alienada.",
-        "D": "complacência; invenção; bobo; cega.",
-        "E": "arrogância; entretenimento; incapaz; animalesca."
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "Língua Portuguesa – Vocabulário"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "incompreensão; armação; inofensivo; irredutível."
+        },
+        {
+          "letra": "B",
+          "texto": "altivez; brincadeira; ofendido; mansa."
+        },
+        {
+          "letra": "C",
+          "texto": "ignorância; mentira; prejudicado; alienada."
+        },
+        {
+          "letra": "D",
+          "texto": "complacência; invenção; bobo; cega."
+        },
+        {
+          "letra": "E",
+          "texto": "arrogância; entretenimento; incapaz; animalesca."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 73,
+      "numeroEnunciado": 73,
       "enunciado": "As respostas do narrador às perguntas de Leusipo são uma tentativa de disfarçar o caráter",
-      "alternativas": {
-        "A": "fabular do romance, inspirado nas lendas e tradições dos Krahô.",
-        "B": "investigativo do romance, embasado em testemunhos dos Krahô.",
-        "C": "político do romance, a respeito das condições de vida dos Krahô.",
-        "D": "etnográfico do romance, através do registro da cultura dos Krahô.",
-        "E": "biográfico do romance, relatando sua vivência junto aos Krahô."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Língua Portuguesa – Interpretação de Texto"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fabular do romance, inspirado nas lendas e tradições dos Krahô."
+        },
+        {
+          "letra": "B",
+          "texto": "investigativo do romance, embasado em testemunhos dos Krahô."
+        },
+        {
+          "letra": "C",
+          "texto": "político do romance, a respeito das condições de vida dos Krahô."
+        },
+        {
+          "letra": "D",
+          "texto": "etnográfico do romance, através do registro da cultura dos Krahô."
+        },
+        {
+          "letra": "E",
+          "texto": "biográfico do romance, relatando sua vivência junto aos Krahô."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 74,
+      "numeroEnunciado": 74,
       "enunciado": "Na cena apresentada, que explora o desconforto gerado pela difícil interlocução com o indígena, o narrador",
-      "alternativas": {
-        "A": "abandona a ideia de investigar o passado, ao se ver encurralado por Leusipo.",
-        "B": "explora a sua posição ameaçadora de homem branco, ao insistir em permanecer na aldeia.",
-        "C": "age com ousadia, ao procurar subjugar Leusipo a contribuir com o seu projeto.",
-        "D": "identifica-se com a sabedoria de Leusipo, ao preterir do papel interrogativo e se deixar questionar.",
-        "E": "sente-se frustrado com a reação de Leusipo, que não se deixa levar por sua diplomacia."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Língua Portuguesa – Interpretação de Texto"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "abandona a ideia de investigar o passado, ao se ver encurralado por Leusipo."
+        },
+        {
+          "letra": "B",
+          "texto": "explora a sua posição ameaçadora de homem branco, ao insistir em permanecer na aldeia."
+        },
+        {
+          "letra": "C",
+          "texto": "age com ousadia, ao procurar subjugar Leusipo a contribuir com o seu projeto."
+        },
+        {
+          "letra": "D",
+          "texto": "identifica-se com a sabedoria de Leusipo, ao preterir do papel interrogativo e se deixar questionar."
+        },
+        {
+          "letra": "E",
+          "texto": "sente-se frustrado com a reação de Leusipo, que não se deixa levar por sua diplomacia."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 75,
+      "numeroEnunciado": 75,
       "enunciado": "Rubião fitava a enseada, eram oito horas da manhã. Quem o visse, com os polegares metidos no cordão do chambre, à janela de uma grande casa de Botafogo, cuidaria que ele admirava aquele pedaço de água quieta; mas em verdade vos digo que pensava em outra coisa. Cotejava o passado com o presente. Que era, há um ano? Professor. Que é agora! Capitalista. Olha para si, para as chinelas (umas chinelas de Túnis, que lhe deu recente amigo, Cristiano Palha), para a casa, para o jardim, para a enseada, para os morros e para o céu; e tudo, desde as chinelas até o céu, tudo entra na mesma sensação de propriedade. Vejam como Deus escreve direito por linhas tortas, pensa ele. Se mana Piedade tem casado com Quincas Borba, apenas me daria uma esperança colateral. Não casou; ambos morreram, e aqui está tudo comigo; de modo que o que parecia uma desgraça... Machado de Assis, Quincas Borba. O primeiro capítulo de Quincas Borba já apresenta ao leitor um elemento que será fundamental na construção do romance:",
-      "alternativas": {
-        "A": "a contemplação das paisagens naturais, como se lê em \"ele admirava aquele pedaço de água quieta\".",
-        "B": "a presença de um narrador-personagem, como se lê em \"em verdade vos digo que pensava em outra coisa\".",
-        "C": "a sobriedade do protagonista ao avaliar o seu percurso, como se lê em \"Cotejava o passado com o presente\".",
-        "D": "o sentido místico e fatalista que rege os destinos, como se lê em \"Deus escreve direito por linhas tortas\".",
-        "E": "a reversibilidade entre o cômico e o trágico, como se lê em \"de modo que o que parecia uma desgraça...\"."
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Língua Portuguesa – Literatura"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a contemplação das paisagens naturais, como se lê em \"ele admirava aquele pedaço de água quieta\"."
+        },
+        {
+          "letra": "B",
+          "texto": "a presença de um narrador-personagem, como se lê em \"em verdade vos digo que pensava em outra coisa\"."
+        },
+        {
+          "letra": "C",
+          "texto": "a sobriedade do protagonista ao avaliar o seu percurso, como se lê em \"Cotejava o passado com o presente\"."
+        },
+        {
+          "letra": "D",
+          "texto": "o sentido místico e fatalista que rege os destinos, como se lê em \"Deus escreve direito por linhas tortas\"."
+        },
+        {
+          "letra": "E",
+          "texto": "a reversibilidade entre o cômico e o trágico, como se lê em \"de modo que o que parecia uma desgraça...\"."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 76,
+      "numeroEnunciado": 76,
       "enunciado": "Remissão Tua memória, pasto de poesia, tua poesia, pasto dos vulgares, vão se engastando numa coisa fria a que tu chamas: vida, e seus pesares. Mas, pesares de quê? perguntaria, se esse travo de angústia nos cantares, se o que dorme na base da elegia vai correndo e secando pelos ares, e nada resta, mesmo, do que escreves e te forçou ao exílio das palavras, senão contentamento de escrever, enquanto o tempo, e suas formas breves ou longas, que sutil interpretavas, se evapora no fundo do teu ser? Carlos Drummond de Andrade, Claro enigma. Claro enigma apresenta, por meio do lirismo reflexivo, o posicionamento do escritor perante a sua condição no mundo. Considerando-o como representativo desse seu aspecto, o poema \"Remissão\"",
-      "alternativas": {
-        "A": "traduz a melancolia e o recolhimento do eu lírico em face da sensação de incomunicabilidade com uma realidade indiferente à sua poesia.",
-        "B": "revela uma perspectiva inconformada, mesclando-a, livre da indulgência dos anos anteriores, a um novo formalismo estético.",
-        "C": "propõe, como reação do poeta à vulgaridade do mundo, uma poética capaz de interferir na realidade pelo viés nostálgico.",
-        "D": "reflete a visão idealizada do trabalho do poeta e a consciência da perenidade da poesia, resistente à passagem do tempo.",
-        "E": "realiza a transição do lirismo social para o lirismo metafísico, caracterizado pela adesão ao conforto espiritual e ao escapismo imaginativo."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Língua Portuguesa – Literatura"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "traduz a melancolia e o recolhimento do eu lírico em face da sensação de incomunicabilidade com uma realidade indiferente à sua poesia."
+        },
+        {
+          "letra": "B",
+          "texto": "revela uma perspectiva inconformada, mesclando-a, livre da indulgência dos anos anteriores, a um novo formalismo estético."
+        },
+        {
+          "letra": "C",
+          "texto": "propõe, como reação do poeta à vulgaridade do mundo, uma poética capaz de interferir na realidade pelo viés nostálgico."
+        },
+        {
+          "letra": "D",
+          "texto": "reflete a visão idealizada do trabalho do poeta e a consciência da perenidade da poesia, resistente à passagem do tempo."
+        },
+        {
+          "letra": "E",
+          "texto": "realiza a transição do lirismo social para o lirismo metafísico, caracterizado pela adesão ao conforto espiritual e ao escapismo imaginativo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 77,
+      "numeroEnunciado": 77,
       "enunciado": "O efeito de humor presente nas falas das personagens decorre",
-      "alternativas": {
-        "A": "da quebra de expectativa gerada pela polissemia.",
-        "B": "da ambiguidade causada pela antonímia.",
-        "C": "do contraste provocado pela fonética.",
-        "D": "do contraste introduzido pela neologia.",
-        "E": "do estranhamento devido à morfologia."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Língua Portuguesa – Interpretação de Texto"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da quebra de expectativa gerada pela polissemia."
+        },
+        {
+          "letra": "B",
+          "texto": "da ambiguidade causada pela antonímia."
+        },
+        {
+          "letra": "C",
+          "texto": "do contraste provocado pela fonética."
+        },
+        {
+          "letra": "D",
+          "texto": "do contraste introduzido pela neologia."
+        },
+        {
+          "letra": "E",
+          "texto": "do estranhamento devido à morfologia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 78,
+      "numeroEnunciado": 78,
       "enunciado": "Psicanálise do açúcar O açúcar cristal, ou açúcar de usina, mostra a mais instável das brancuras: quem do Recife sabe direito o quanto, e o pouco desse quanto, que ela dura. Sabe o mínimo do pouco que o cristal se estabiliza cristal sobre o açúcar, por cima do fundo antigo, de mascavo, do mascavo barrento que se incuba; e sabe que tudo pode romper o mínimo em que o cristal é capaz de censura: pois o tal fundo mascavo logo aflora quer inverno ou verão mele o açúcar. Só os banguês* que-ainda purgam ainda o açúcar bruto com barro, de mistura; a usina já não o purga: da infância, não de depois de adulto, ela o educa; em enfermarias, com vácuos e turbinas, em mãos de metal de gente indústria, a usina o leva a sublimar em cristal o pardo do xarope: não o purga, cura. Mas como a cana se cria ainda hoje, em mãos de barro de gente agricultura, o barrento da pré-infância logo aflora quer inverno ou verão mele o açúcar. João Cabral de Melo Neto, A Educação pela Pedra. *banguê: engenho de açúcar primitivo movido a força animal. Os últimos quatro versos do poema rompem com a série de contrapontos entre a usina e o banguê, pois",
-      "alternativas": {
-        "A": "negam haver diferença química entre o açúcar cristal e o açúcar mascavo.",
-        "B": "esclarecem que a aparência do açúcar varia com a espécie de cana cultivada.",
-        "C": "revelam que na base de toda empresa açucareira está o trabalhador rural.",
-        "D": "denunciam a exploração do trabalho infantil nos canaviais nordestinos.",
-        "E": "explicam que a estação do ano define em qualquer processo o tipo de açúcar."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Língua Portuguesa – Literatura"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "negam haver diferença química entre o açúcar cristal e o açúcar mascavo."
+        },
+        {
+          "letra": "B",
+          "texto": "esclarecem que a aparência do açúcar varia com a espécie de cana cultivada."
+        },
+        {
+          "letra": "C",
+          "texto": "revelam que na base de toda empresa açucareira está o trabalhador rural."
+        },
+        {
+          "letra": "D",
+          "texto": "denunciam a exploração do trabalho infantil nos canaviais nordestinos."
+        },
+        {
+          "letra": "E",
+          "texto": "explicam que a estação do ano define em qualquer processo o tipo de açúcar."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 79,
+      "numeroEnunciado": 79,
       "enunciado": "Na oração \"que ela dura\" (v. 4), o pronome sublinhado",
-      "alternativas": {
-        "A": "não tem referente.",
-        "B": "retoma a palavra \"usina\" (v. 1).",
-        "C": "pode ser substituído por \"ele\", referindo-se a \"açúcar\" (v. 1).",
-        "D": "refere-se à \"mais instável das brancuras\" (v. 2).",
-        "E": "equivale à palavra \"censura\" (v. 10)."
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "Língua Portuguesa – Sintaxe"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "não tem referente."
+        },
+        {
+          "letra": "B",
+          "texto": "retoma a palavra \"usina\" (v. 1)."
+        },
+        {
+          "letra": "C",
+          "texto": "pode ser substituído por \"ele\", referindo-se a \"açúcar\" (v. 1)."
+        },
+        {
+          "letra": "D",
+          "texto": "refere-se à \"mais instável das brancuras\" (v. 2)."
+        },
+        {
+          "letra": "E",
+          "texto": "equivale à palavra \"censura\" (v. 10)."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 80,
+      "numeroEnunciado": 80,
       "enunciado": "Observe o diagrama que mostra, de forma simplificada, o processo de fabricação do açúcar. Considerando essas informações e seu conhecimento sobre separação de misturas e transformações químicas e físicas, no trecho grifado no poema, o termo sublimar é usado",
-      "alternativas": {
-        "A": "corretamente para mostrar como do líquido (xarope) é extraído o cristal de açúcar através do processo de evaporação do sólido e secagem.",
-        "B": "em um sentido amplo do processo, já que não corresponde ao que ocorre com o cristal de açúcar, e sim com o melaço, que se separa do xarope.",
-        "C": "metaforicamente, já que ocorre a precipitação do açúcar com o cozimento do xarope, que é separado por centrifugação.",
-        "D": "incorretamente, já que a obtenção do açúcar a partir do xarope é uma reação química direta que não necessita de processo de separação.",
-        "E": "em seu sentido literal, já que o açúcar está na fase sólida, no xarope, e passa à fase vapor com o cozimento, formando então cristais de açúcar puro."
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Química – Físico-Química"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "corretamente para mostrar como do líquido (xarope) é extraído o cristal de açúcar através do processo de evaporação do sólido e secagem."
+        },
+        {
+          "letra": "B",
+          "texto": "em um sentido amplo do processo, já que não corresponde ao que ocorre com o cristal de açúcar, e sim com o melaço, que se separa do xarope."
+        },
+        {
+          "letra": "C",
+          "texto": "metaforicamente, já que ocorre a precipitação do açúcar com o cozimento do xarope, que é separado por centrifugação."
+        },
+        {
+          "letra": "D",
+          "texto": "incorretamente, já que a obtenção do açúcar a partir do xarope é uma reação química direta que não necessita de processo de separação."
+        },
+        {
+          "letra": "E",
+          "texto": "em seu sentido literal, já que o açúcar está na fase sólida, no xarope, e passa à fase vapor com o cozimento, formando então cristais de açúcar puro."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 81,
+      "numeroEnunciado": 81,
       "enunciado": "O meme ao lado brinca com conceitos de química em um jogo popular, cujo objetivo é que os jogadores descubram o impostor entre os tripulantes de naves e estações espaciais. Nele um dos elementos é considerado o impostor por sua característica química diferente. Nesse contexto, é correto afirmar que o impostor seria o elemento:",
-      "alternativas": {
-        "A": "H, por ser um elemento com grande tendência a fazer ligação covalente em uma família com tendência a fazer ligação iônica.",
-        "B": "Na, por ser o único que pode ser obtido em sua forma metálica, ao contrário dos demais membros da família, que formam apenas óxidos.",
-        "C": "K, por ter raio atômico atipicamente grande, sendo maior do que os elementos abaixo dele na tabela periódica.",
-        "D": "Cs, por pertencer à família 2 da tabela periódica, enquanto os demais pertencem à 1, formando cátions +2.",
-        "E": "Fr, por reagir violentamente com a água, devido ao seu pequeno raio atômico, liberando muito calor, diferentemente dos demais elementos da família."
-      },
-      "alternativa_correta": "A",
-      "conteudos": [
-        "Química – Tabela Periódica"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "H, por ser um elemento com grande tendência a fazer ligação covalente em uma família com tendência a fazer ligação iônica."
+        },
+        {
+          "letra": "B",
+          "texto": "Na, por ser o único que pode ser obtido em sua forma metálica, ao contrário dos demais membros da família, que formam apenas óxidos."
+        },
+        {
+          "letra": "C",
+          "texto": "K, por ter raio atômico atipicamente grande, sendo maior do que os elementos abaixo dele na tabela periódica."
+        },
+        {
+          "letra": "D",
+          "texto": "Cs, por pertencer à família 2 da tabela periódica, enquanto os demais pertencem à 1, formando cátions +2."
+        },
+        {
+          "letra": "E",
+          "texto": "Fr, por reagir violentamente com a água, devido ao seu pequeno raio atômico, liberando muito calor, diferentemente dos demais elementos da família."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": []
     },
     {
-      "numero_questao": 82,
+      "numeroEnunciado": 82,
       "enunciado": "Para estudar equilíbrio químico de íons Co2+ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação: [Co(H2O)6]2+(aq) + 4Cl-(aq) ⇌ [CoCl4]2-(aq) + 6H2O(l) Vermelho Azul Nesse equilíbrio, o composto de cobalto com água, [Co(H2O)6]2+(aq), apresenta coloração vermelha, enquanto o composto com cloretos, [CoCl4]2-(aq), possui coloração azul. Para verificar o efeito de ânions de diferentes sais nessa mudança de cor, 7 ensaios diferentes foram realizados. Aos tubos contendo apenas alguns mL de uma solução de nitrato de cobalto II, de coloração vermelha, foram adicionadas pequenas quantidades de diferentes sais em cada tubo, como apresentado na tabela, com exceção do ensaio 1, no qual nenhum sal foi adicionado. Após agitação, os tubos foram deixados em repouso por um tempo, e a cor final foi observada. A alternativa que representa a cor final observada nos ensaios 5, 6 e 7, respectivamente, é:",
-      "alternativas": {
-        "A": "Ensaio 5: Azul; Ensaio 6: Azul; Ensaio 7: Vermelha",
-        "B": "Ensaio 5: Azul; Ensaio 6: Vermelha; Ensaio 7: Azul",
-        "C": "Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Azul",
-        "D": "Ensaio 5: Vermelha; Ensaio 6: Vermelha; Ensaio 7: Azul",
-        "E": "Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Vermelha"
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "Química – Equilíbrio Químico"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ensaio 5: Azul; Ensaio 6: Azul; Ensaio 7: Vermelha"
+        },
+        {
+          "letra": "B",
+          "texto": "Ensaio 5: Azul; Ensaio 6: Vermelha; Ensaio 7: Azul"
+        },
+        {
+          "letra": "C",
+          "texto": "Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Azul"
+        },
+        {
+          "letra": "D",
+          "texto": "Ensaio 5: Vermelha; Ensaio 6: Vermelha; Ensaio 7: Azul"
+        },
+        {
+          "letra": "E",
+          "texto": "Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Vermelha"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 83,
+      "numeroEnunciado": 83,
       "enunciado": "Um dos indicadores de qualidade de mel é a presença do composto orgânico hidroximetilfurfural (HMF), formado a partir de certos açúcares, como a frutose (C6H12O6). A tabela resume os teores de HMF permitidos de acordo com a legislação brasileira e recomendações internacionais. Uma das possíveis rotas para a formação do HMF a partir da frutose é mostrada, de forma simplificada, no esquema: Nas setas, são mostradas as perdas de moléculas ou grupos químicos em cada etapa. Por exemplo, entre as espécies 1 e 2, ocorrem a saída de uma molécula de água e a formação de uma ligação dupla entre carbonos. De acordo com o esquema mostrado, as perdas indicadas como I e II correspondem a:",
-      "alternativas": {
-        "A": "1 x H2O e 1 × -CH2",
-        "B": "2 × OH",
-        "C": "2 x H2O",
-        "D": "1 x -CH2 e 1 x OH",
-        "E": "1 x H2O e 1 × OH"
-      },
-      "alternativa_correta": "C",
-      "conteudos": [
-        "Química – Química Orgânica"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 x H2O e 1 × -CH2"
+        },
+        {
+          "letra": "B",
+          "texto": "2 × OH"
+        },
+        {
+          "letra": "C",
+          "texto": "2 x H2O"
+        },
+        {
+          "letra": "D",
+          "texto": "1 x -CH2 e 1 x OH"
+        },
+        {
+          "letra": "E",
+          "texto": "1 x H2O e 1 × OH"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": []
     },
     {
-      "numero_questao": 84,
+      "numeroEnunciado": 84,
       "enunciado": "Um frasco contendo 500 g de mel produzido no Brasil foi analisado e concluiu-se que 0,2 milimol de frutose foi convertido em HMF. Considerando apenas esse parâmetro de qualidade e tendo como referência os teores recomendados por órgãos nacionais e internacionais, mostrados na tabela, é correto afirmar que esse mel",
-      "alternativas": {
-        "A": "é recomendado como mel de mesa, assim como para outros usos que se façam necessários, segundo a legislação brasileira.",
-        "B": "não pode ser usado como mel de mesa, mas pode ser usado para fins industriais, segundo a legislação brasileira.",
-        "C": "pode ser usado para fins industriais, segundo a legislação brasileira, mas não deveria ser usado para nenhum fim, segundo a recomendação internacional.",
-        "D": "não pode ser usado nem como mel de mesa nem para fins industriais, segundo a legislação brasileira, mas poderia ser utilizado segundo a recomendação internacional.",
-        "E": "não pode ser usado para qualquer aplicação, tanto segundo a legislação brasileira quanto segundo a recomendação internacional."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Química – Estequiometria"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é recomendado como mel de mesa, assim como para outros usos que se façam necessários, segundo a legislação brasileira."
+        },
+        {
+          "letra": "B",
+          "texto": "não pode ser usado como mel de mesa, mas pode ser usado para fins industriais, segundo a legislação brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "pode ser usado para fins industriais, segundo a legislação brasileira, mas não deveria ser usado para nenhum fim, segundo a recomendação internacional."
+        },
+        {
+          "letra": "D",
+          "texto": "não pode ser usado nem como mel de mesa nem para fins industriais, segundo a legislação brasileira, mas poderia ser utilizado segundo a recomendação internacional."
+        },
+        {
+          "letra": "E",
+          "texto": "não pode ser usado para qualquer aplicação, tanto segundo a legislação brasileira quanto segundo a recomendação internacional."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 85,
+      "numeroEnunciado": 85,
       "enunciado": "Observe a representação a seguir, em que os círculos brancos representam uma espécie química (molécula ou íon molecular) e os círculos coloridos, outra. Essa representação pode ser corretamente associada à",
-      "alternativas": {
-        "A": "combustão de um hidrocarboneto com oxigênio em fase gasosa.",
-        "B": "formação de um polímero a partir de duas espécies de monômeros.",
-        "C": "fusão de uma mistura de dois sais com aumento da temperatura.",
-        "D": "solidificação da água pura com diminuição da temperatura.",
-        "E": "produção de anéis aromáticos em solvente orgânico."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Química – Química Orgânica"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "combustão de um hidrocarboneto com oxigênio em fase gasosa."
+        },
+        {
+          "letra": "B",
+          "texto": "formação de um polímero a partir de duas espécies de monômeros."
+        },
+        {
+          "letra": "C",
+          "texto": "fusão de uma mistura de dois sais com aumento da temperatura."
+        },
+        {
+          "letra": "D",
+          "texto": "solidificação da água pura com diminuição da temperatura."
+        },
+        {
+          "letra": "E",
+          "texto": "produção de anéis aromáticos em solvente orgânico."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 86,
+      "numeroEnunciado": 86,
       "enunciado": "No fragmento a seguir, o autor explora conceitos químicos na forma de poesia: Químico apaixonado 1 Sua presença é \"C2H5OH(l)+3O2(g) → 2CO2(g)+3H2O(g) \" de sentimento 2 É explosão de \"C6H12O6(aq)+6O2(g) → 6CO2(g)+6H2O(l)+ ATP \" 3 É de pensamento 4 Sinergia 5 Sua ausência, meu desalento 6 \"4Fe(s)+3O2(g) → 2Fe2O3(s)\" o meu ser 7 Um modelo incompleto, 8 Impede-me de viver 9 Morte em pleno deserto. Wilmo Ernesto Francisco Junior, Ciência em prosa e verso - Acepipes para quem ousa gostar (ou ensinar), 2018 (adaptado), apud Lopes, M.J.M. Dissertação de Mestrado, 2019. Disponível em http://www.repositorio.ufal.br/. Sobre os conceitos mencionados, foram feitas as seguintes afirmações: I. A equação química mostrada na linha 2 pode ser associada à liberação de energia, pois corresponde à reação de fotossíntese com consumo de gás carbônico. II. A equação química apresentada na linha 6 representa uma reação na qual o número de oxidação das espécies é alterado, sendo associada a corrosão. III. O modelo incompleto referido na linha 7 refere-se ao proposto por Thomson, que identificava a presença de partículas com carga negativa dentro de uma esfera. Está correto o que se afirma no(s) item(ns):",
-      "alternativas": {
-        "A": "I, apenas.",
-        "B": "II, apenas.",
-        "C": "I e III, apenas.",
-        "D": "II e III, apenas.",
-        "E": "I, II e III."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Química – Química Geral"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 87,
+      "numeroEnunciado": 87,
       "enunciado": "Para estudar equilíbrio químico de íons Co2+ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação: [Co(H2O)6]2+(aq) + 4Cl-(aq) ⇌ [CoCl4]2-(aq) + 6H2O(l) Vermelho Azul Nesse equilíbrio, o composto de cobalto com água, [Co(H2O)6]2+(aq), apresenta coloração vermelha, enquanto o composto com cloretos, [CoCl4]2-(aq), possui coloração azul. Para verificar o efeito de ânions de diferentes sais nessa mudança de cor, 7 ensaios diferentes foram realizados. Aos tubos contendo apenas alguns mL de uma solução de nitrato de cobalto II, de coloração vermelha, foram adicionadas pequenas quantidades de diferentes sais em cada tubo, como apresentado na tabela, com exceção do ensaio 1, no qual nenhum sal foi adicionado. Após agitação, os tubos foram deixados em repouso por um tempo, e a cor final foi observada. A alternativa que representa a cor final observada nos ensaios 5, 6 e 7, respectivamente, é:",
-      "alternativas": {
-        "A": "Ensaio 5: Azul; Ensaio 6: Azul; Ensaio 7: Vermelha",
-        "B": "Ensaio 5: Azul; Ensaio 6: Vermelha; Ensaio 7: Azul",
-        "C": "Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Azul",
-        "D": "Ensaio 5: Vermelha; Ensaio 6: Vermelha; Ensaio 7: Azul",
-        "E": "Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Vermelha"
-      },
-      "alternativa_correta": "D",
-      "conteudos": [
-        "Química – Equilíbrio Químico"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ensaio 5: Azul; Ensaio 6: Azul; Ensaio 7: Vermelha"
+        },
+        {
+          "letra": "B",
+          "texto": "Ensaio 5: Azul; Ensaio 6: Vermelha; Ensaio 7: Azul"
+        },
+        {
+          "letra": "C",
+          "texto": "Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Azul"
+        },
+        {
+          "letra": "D",
+          "texto": "Ensaio 5: Vermelha; Ensaio 6: Vermelha; Ensaio 7: Azul"
+        },
+        {
+          "letra": "E",
+          "texto": "Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Vermelha"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": []
     },
     {
-      "numero_questao": 88,
+      "numeroEnunciado": 88,
       "enunciado": "A reação de Maillard, que ocorre entre aminoácidos e carboidratos redutores, é a responsável por formar espécies que geram compostos coloridos que conferem o sabor característico de diversos alimentos assados. Um exemplo é a reação entre a glicina e um carboidrato redutor mostrada na equação em que R representa uma cadeia genérica: Um aminoácido específico (Composto 1), ao reagir com o carboidrato redutor, pode gerar o Composto 2, levando à formação de acrilamida, uma espécie potencialmente carcinogênica, conforme mostrado na equação: A estrutura do aminoácido marcado como Composto 1 e que é capaz de gerar esse intermediário de espécies carcinogênicas é:",
-      "alternativas": {
-        "A": "Estrutura Molecular A",
-        "B": "Estrutura Molecular B",
-        "C": "Estrutura Molecular C",
-        "D": "Estrutura Molecular D",
-        "E": "Estrutura Molecular E"
-      },
-      "alternativa_correta": "E",
-      "conteudos": [
-        "Química – Química Orgânica"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Estrutura Molecular A"
+        },
+        {
+          "letra": "B",
+          "texto": "Estrutura Molecular B"
+        },
+        {
+          "letra": "C",
+          "texto": "Estrutura Molecular C"
+        },
+        {
+          "letra": "D",
+          "texto": "Estrutura Molecular D"
+        },
+        {
+          "letra": "E",
+          "texto": "Estrutura Molecular E"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": []
     },
     {
-      "numero_questao": 89,
+      "numeroEnunciado": 89,
       "enunciado": "Em aquários de água marinha, é comum o uso do equipamento chamado \"Skimmer\", aparato em que a água recebe uma torrente de bolhas de ar, como representado na figura, levando a matéria orgânica até a superfície, onde pode ser removida. Essa matéria orgânica eliminada é composta por moléculas orgânicas com parte apolar e parte polar, enquanto as bolhas formadas têm caráter apolar. Esse aparelho, no entanto, tem rendimento muito menor em aquários de água doce (retira menos quantidade de material orgânico por período de uso). Considerando que todas as outras condições são mantidas, o menor rendimento desse aparato em água doce do que em água salgada pode ser explicado porque",
-      "alternativas": {
-        "A": "a polaridade da molécula de água na água doce é maior do que na água salgada, tornando as partes apolares das moléculas orgânicas mais solúveis.",
-        "B": "a menor concentração de sais na água doce torna as regiões apolares das moléculas orgânicas mais solúveis do que na água salgada, prejudicando a interação com as bolhas de ar.",
-        "C": "a água doce é mais polar do que água salgada por ser mais concentrada em moléculas polares como a do açúcar, levando as partes polares das moléculas orgânicas a interagir mais com a água doce.",
-        "D": "a reatividade de matéria orgânica em água salgada é maior do que em água doce, fazendo com que exista uma menor quantidade de material dissolvido para interação com as bolhas de ar.",
-        "E": "a concentração de sais na água marinha é maior, o que torna as partes apolares das moléculas orgânicas mais propensas a interagir com os sais dissolvidos, promovendo menor interação com as bolhas de ar."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Química – Físico-Química"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a polaridade da molécula de água na água doce é maior do que na água salgada, tornando as partes apolares das moléculas orgânicas mais solúveis."
+        },
+        {
+          "letra": "B",
+          "texto": "a menor concentração de sais na água doce torna as regiões apolares das moléculas orgânicas mais solúveis do que na água salgada, prejudicando a interação com as bolhas de ar."
+        },
+        {
+          "letra": "C",
+          "texto": "a água doce é mais polar do que água salgada por ser mais concentrada em moléculas polares como a do açúcar, levando as partes polares das moléculas orgânicas a interagir mais com a água doce."
+        },
+        {
+          "letra": "D",
+          "texto": "a reatividade de matéria orgânica em água salgada é maior do que em água doce, fazendo com que exista uma menor quantidade de material dissolvido para interação com as bolhas de ar."
+        },
+        {
+          "letra": "E",
+          "texto": "a concentração de sais na água marinha é maior, o que torna as partes apolares das moléculas orgânicas mais propensas a interagir com os sais dissolvidos, promovendo menor interação com as bolhas de ar."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     },
     {
-      "numero_questao": 90,
+      "numeroEnunciado": 90,
       "enunciado": "A destilação é um processo utilizado para separar compostos presentes em uma mistura com base nas suas propriedades físicas como, por exemplo, a diferença de temperatura de ebulição, a uma dada pressão, entre os componentes da mistura. Recentemente esse termo passou a figurar em estudos de poluição ambiental, nos quais o termo \"destilação global\" é utilizado para explicar a presença de compostos voláteis, como os pesticidas organoclorados, em águas e gelos de regiões polares, ainda que estes compostos nunca tenham sido produzidos ou utilizados nessas regiões. Com base no princípio da técnica da destilação, como pode ser explicada a presença desses pesticidas na Antártica e no Ártico?",
-      "alternativas": {
-        "A": "Eles são destilados nas águas aquecidas dos oceanos e levados pelas correntes marinhas para as regiões polares, onde se precipitam devido às águas frias dessas regiões.",
-        "B": "Eles evaporam nas regiões mais quentes e são levados pelas correntes atmosféricas para regiões mais frias como os polos, onde se condensam e voltam para a superfície.",
-        "C": "Após destilados, eles se tornam resistentes à degradação, de forma que alcançam todo o planeta, pela ação de correntes marinhas, inclusive as regiões polares.",
-        "D": "Os pesticidas organoclorados destilados, por conta da eletronegatividade dos átomos de cloro, têm afinidade com o gelo, o que faz com que eles se acumulem na Antártica ou no Ártico.",
-        "E": "Por serem hidrofílicos, eles são condensados juntamente com a água nas regiões quentes do planeta e se precipitam nos polos juntamente com o gelo."
-      },
-      "alternativa_correta": "B",
-      "conteudos": [
-        "Química – Química Ambiental"
-      ]
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Eles são destilados nas águas aquecidas dos oceanos e levados pelas correntes marinhas para as regiões polares, onde se precipitam devido às águas frias dessas regiões."
+        },
+        {
+          "letra": "B",
+          "texto": "Eles evaporam nas regiões mais quentes e são levados pelas correntes atmosféricas para regiões mais frias como os polos, onde se condensam e voltam para a superfície."
+        },
+        {
+          "letra": "C",
+          "texto": "Após destilados, eles se tornam resistentes à degradação, de forma que alcançam todo o planeta, pela ação de correntes marinhas, inclusive as regiões polares."
+        },
+        {
+          "letra": "D",
+          "texto": "Os pesticidas organoclorados destilados, por conta da eletronegatividade dos átomos de cloro, têm afinidade com o gelo, o que faz com que eles se acumulem na Antártica ou no Ártico."
+        },
+        {
+          "letra": "E",
+          "texto": "Por serem hidrofílicos, eles são condensados juntamente com a água nas regiões quentes do planeta e se precipitam nos polos juntamente com o gelo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": []
     }
   ]
 }

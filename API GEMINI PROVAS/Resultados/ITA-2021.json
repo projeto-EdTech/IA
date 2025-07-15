@@ -1,884 +1,1726 @@
 {
-  "analise_geral_prova": {
-    "universidade_prova": "ITA",
+  "prova": {
+    "nomeUniversidade": "Instituto Tecnológico de Aeronáutica",
+    "siglaUniversidade": "ITA",
+    "nomeProva": "ITA",
     "ano": 2021,
-    "total_questoes": 70
+    "qtdeQuestoes": 70
   },
   "questoes": [
     {
-      "numero_questao": 1,
+      "numeroEnunciado": 1,
       "enunciado": "O sistema de unidades atômicas de Hartree é bastante útil para a descrição de sistemas quânticos microscópicos. Nele, faz-se com que a carga fundamental e, a massa do elétron mo, a constante eletrostática do vácuo Ko e a constante de Planck reduzida ħ sejam todas numericamente iguais à unidade. Assinale a alternativa que contém a ordem de grandeza do valor numérico da velocidade da luz no vácuo c, nesse sistema de unidades.",
-      "alternativas": {
-        "A": "100",
-        "B": "102",
-        "C": "104",
-        "D": "106",
-        "E": "108"
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100"
+        },
+        {
+          "letra": "B",
+          "texto": "102"
+        },
+        {
+          "letra": "C",
+          "texto": "104"
+        },
+        {
+          "letra": "D",
+          "texto": "106"
+        },
+        {
+          "letra": "E",
+          "texto": "108"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Física – Unidades e Medidas",
         "Física – Física Moderna"
       ]
     },
     {
-      "numero_questao": 2,
+      "numeroEnunciado": 2,
       "enunciado": "Um trem parte do repouso sobre uma linha horizontal e deve alcançar a velocidade de 72 km/h. Até atingir essa velocidade, o movimento do trem tem aceleração constante de 0,50 m/s², sendo que resistências passivas absorvem 5,0% da energia fornecida pela locomotiva. O esforço médio, em N, fornecido pela locomotiva para transportar uma carga de 1,0 ton é",
-      "alternativas": {
-        "A": "2,5 ×102.",
-        "B": "4,8 ×102.",
-        "C": "5,0×102.",
-        "D": "5,3 ×102.",
-        "E": "1,0 ×103."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,5 ×102."
+        },
+        {
+          "letra": "B",
+          "texto": "4,8 ×102."
+        },
+        {
+          "letra": "C",
+          "texto": "5,0×102."
+        },
+        {
+          "letra": "D",
+          "texto": "5,3 ×102."
+        },
+        {
+          "letra": "E",
+          "texto": "1,0 ×103."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Física – Cinemática",
         "Física – Dinâmica",
         "Física – Trabalho e Energia"
       ]
     },
     {
-      "numero_questao": 3,
+      "numeroEnunciado": 3,
       "enunciado": "Uma bola de gude de raio r e uma bola de basquete de raio R são lançadas contra uma parede com velocidade horizontal v e com seus centros a uma altura h. A bola de gude e a bola de basquete estão na iminência de contato entre si, assim como ambas contra a parede. Desprezando a duração de todas as colisões e quaisquer perdas de energia, calcule o deslocamento horizontal ΔS da bolinha de gude ao atingir o solo.\n(Imagem de uma bola sendo lançada contra uma parede e quicando para o solo, com variáveis R, r, h, v e ΔS indicadas.)",
-      "alternativas": {
-        "A": "3v√(2(h – 2r)/g)",
-        "B": "3v√(2(h – r)/g)",
-        "C": "v√(2(h – r)/g)",
-        "D": "v√(2(h – 2r)/g)",
-        "E": "3v√(2(h-R-r)/g)"
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3v√(2(h – 2r)/g)"
+        },
+        {
+          "letra": "B",
+          "texto": "3v√(2(h – r)/g)"
+        },
+        {
+          "letra": "C",
+          "texto": "v√(2(h – r)/g)"
+        },
+        {
+          "letra": "D",
+          "texto": "v√(2(h – 2r)/g)"
+        },
+        {
+          "letra": "E",
+          "texto": "3v√(2(h-R-r)/g)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Física – Cinemática",
         "Física – Conservação de Energia",
         "Física – Colisões"
       ]
     },
     {
-      "numero_questao": 4,
+      "numeroEnunciado": 4,
       "enunciado": "Considere um sistema de três satélites idênticos de massa m dispostos nos vértices de um triângulo equilátero de lado d. Considerando somente o efeito gravitacional que cada um exerce sobre os demais, calcule a velocidade orbital dos satélites com respeito ao centro de massa do sistema para que a distância entre eles permaneça inalterada.",
-      "alternativas": {
-        "A": "√(3Gm/(2d))",
-        "B": "√(Gm/d)",
-        "C": "√(Gm/(2d))",
-        "D": "√(Gm/(3d))",
-        "E": "√(3Gm/d)"
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "√(3Gm/(2d))"
+        },
+        {
+          "letra": "B",
+          "texto": "√(Gm/d)"
+        },
+        {
+          "letra": "C",
+          "texto": "√(Gm/(2d))"
+        },
+        {
+          "letra": "D",
+          "texto": "√(Gm/(3d))"
+        },
+        {
+          "letra": "E",
+          "texto": "√(3Gm/d)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Física – Gravitação",
         "Física – Leis de Newton"
       ]
     },
     {
-      "numero_questao": 5,
+      "numeroEnunciado": 5,
       "enunciado": "Um recipiente, de secção de área constante e igual a A, é preenchido por uma coluna de líquido de densidade ρ e altura H. Sobre o líquido encontra-se um pistão de massa M, que pode se deslocar verticalmente livre de atrito. Um furo no recipiente é feito a uma altura h, de tal forma que um filete de água é expelido conforme mostra a figura. Assinale a alternativa que contém o alcance horizontal D do jato de água.\n(Imagem de um recipiente com líquido, pistão M, furo a altura h, e alcance D.)",
-      "alternativas": {
-        "A": "2√(H-h)(h+M/(ρA))",
-        "B": "2h√(H-h+M/(ρA))",
-        "C": "2√(H-h+M/(ρA))",
-        "D": "2√(H-h+2M/(ρA))",
-        "E": "h√(H - h + M/(ρA))"
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2√(H-h)(h+M/(ρA))"
+        },
+        {
+          "letra": "B",
+          "texto": "2h√(H-h+M/(ρA))"
+        },
+        {
+          "letra": "C",
+          "texto": "2√(H-h+M/(ρA))"
+        },
+        {
+          "letra": "D",
+          "texto": "2√(H-h+2M/(ρA))"
+        },
+        {
+          "letra": "E",
+          "texto": "h√(H - h + M/(ρA))"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Física – Hidrodinâmica",
         "Física – Cinemática (Lançamento de Projéteis)"
       ]
     },
     {
-      "numero_questao": 6,
+      "numeroEnunciado": 6,
       "enunciado": "Um recipiente isolado é dividido em duas partes. A região A, com volume VA, contém um gás ideal a uma temperatura TA. Na região B, com volume VB = 2VA, faz-se vácuo. Ao abrir um pequeno orifício entre as regiões, o gás da região A começa a ocupar a região B. Considerando que não há troca de calor entre o gás e o recipiente, a temperatura de equilíbrio final do sistema é",
-      "alternativas": {
-        "A": "TA/3.",
-        "B": "TA/2.",
-        "C": "TA.",
-        "D": "2TA.",
-        "E": "3TA."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "TA/3."
+        },
+        {
+          "letra": "B",
+          "texto": "TA/2."
+        },
+        {
+          "letra": "C",
+          "texto": "TA."
+        },
+        {
+          "letra": "D",
+          "texto": "2TA."
+        },
+        {
+          "letra": "E",
+          "texto": "3TA."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Física – Termodinâmica (Gases Ideais)"
       ]
     },
     {
-      "numero_questao": 7,
+      "numeroEnunciado": 7,
       "enunciado": "Um objeto de massa M, preso a uma mola ideal, realiza uma oscilação livre de frequência f. Em um determinado instante, um segundo objeto de massa m é fixado ao primeiro. Verifica-se que o sistema tem sua frequência de oscilação reduzida de Δf, muito menor que f. Sabendo que (1 + x)n ≈ 1 + nx, para |x| ≪ 1, pode-se afirmar que f é dada por",
-      "alternativas": {
-        "A": "MAf/(2m)",
-        "B": "√(2MAf)/(2m)",
-        "C": "MAf/m",
-        "D": "√(2MAf)/m",
-        "E": "√(MAf)/m"
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "MAf/(2m)"
+        },
+        {
+          "letra": "B",
+          "texto": "√(2MAf)/(2m)"
+        },
+        {
+          "letra": "C",
+          "texto": "MAf/m"
+        },
+        {
+          "letra": "D",
+          "texto": "√(2MAf)/m"
+        },
+        {
+          "letra": "E",
+          "texto": "√(MAf)/m"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Física – Oscilações (MHS)"
       ]
     },
     {
-      "numero_questao": 8,
+      "numeroEnunciado": 8,
       "enunciado": "Um violão é um instrumento sonoro de seis cordas de diferentes propriedades, fixas em ambas as extremidades, acompanhadas de uma caixa de ressonância. Diferentes notas musicais são produzidas tangendo uma das cordas, podendo-se ou não alterar o seu comprimento efetivo, pressionando-a com os dedos em diferentes pontos do braço do violão. A respeito da geração de sons por esse instrumento são feitas quatro afirmações:\nI. Cordas mais finas, mantidas as demais propriedades constantes, são capazes de produzir notas mais agudas.\nII. O aumento de 1,00% na tensão aplicada sobre uma corda acarreta um aumento de 1,00% na frequência fundamental gerada.\nIII. Uma corda de nylon e uma de aço, afinadas na mesma frequência fundamental, geram sons de timbres distintos.\nIV. Ao pressionar uma corda do violão, o musicista gera um som de frequência maior e comprimento de onda menor em comparação ao som produzido pela corda tocada livremente.\nConsiderando V como verdadeira e F como falsa, as afirmações I, II, III e IV são, respectivamente,",
-      "alternativas": {
-        "A": "V V V V.",
-        "B": "F V V V.",
-        "C": "V F V V.",
-        "D": "V V F V.",
-        "E": "V V V F."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V V V V."
+        },
+        {
+          "letra": "B",
+          "texto": "F V V V."
+        },
+        {
+          "letra": "C",
+          "texto": "V F V V."
+        },
+        {
+          "letra": "D",
+          "texto": "V V F V."
+        },
+        {
+          "letra": "E",
+          "texto": "V V V F."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Física – Ondulatória (Ondas Sonoras)"
       ]
     },
     {
-      "numero_questao": 9,
+      "numeroEnunciado": 9,
       "enunciado": "Considere uma lente biconvexa feita de um material com índice de refração 1,2 e raios de curvatura de 5,0 cm e 2,0 cm. Ela é imersa dentro de uma piscina e utilizada para observar um objeto de 80 cm de altura, também submerso, que se encontra afastado a 1,0 m de distância. Sendo o índice de refração da água igual a 1,3, considere as seguintes afirmativas:\nI. A lente é convergente e a imagem é real.\nII. A lente é divergente e a imagem é virtual.\nIII. A imagem está a 31 cm da lente e tem 25 cm de altura.\nConsiderando V como verdadeira e F como falsa, as afirmações I, II e III são, respectivamente,",
-      "alternativas": {
-        "A": "V F F.",
-        "B": "F V F.",
-        "C": "F F V.",
-        "D": "V V F.",
-        "E": "F V V."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V F F."
+        },
+        {
+          "letra": "B",
+          "texto": "F V F."
+        },
+        {
+          "letra": "C",
+          "texto": "F F V."
+        },
+        {
+          "letra": "D",
+          "texto": "V V F."
+        },
+        {
+          "letra": "E",
+          "texto": "F V V."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Física – Óptica Geométrica (Lentes Esféricas)"
       ]
     },
     {
-      "numero_questao": 10,
+      "numeroEnunciado": 10,
       "enunciado": "No experimento de dupla fenda de Young, suponha que a separação entre as fendas seja de 16 µm. Um feixe de luz de comprimento de onda 500 nm atinge as fendas e produz um padrão de interferência. Quantos máximos haverá na faixa angular dada por -30° ≤ θ ≤ 30°?",
-      "alternativas": {
-        "A": "8",
-        "B": "16",
-        "C": "17",
-        "D": "32",
-        "E": "33"
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "16"
+        },
+        {
+          "letra": "C",
+          "texto": "17"
+        },
+        {
+          "letra": "D",
+          "texto": "32"
+        },
+        {
+          "letra": "E",
+          "texto": "33"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Física – Óptica Física (Interferência de Ondas)"
       ]
     },
     {
-      "numero_questao": 11,
+      "numeroEnunciado": 11,
       "enunciado": "Três esferas metálicas maciças E1, E2 e E3, feitas de um mesmo material e de raios R1, R2 e R3, respectivamente, podem trocar cargas elétricas entre si a partir do acionamento de contatos elétricos. Inicialmente apenas E1 encontra-se eletricamente carregada. Em um primeiro momento estabelece-se contato elétrico entre E1 e E2, que é cortado quando o sistema atinge o equilíbrio elétrico. A seguir, estabelece-se contato entre E2 e E3. Ao final do processo, observa-se que a carga elétrica líquida das três esferas é igual. Desprezando a capacitância mútua entre as esferas, assinale a proporção entre as massas de E1, E2 e E3, respectivamente.",
-      "alternativas": {
-        "A": "1:1:1",
-        "B": "1:2:2",
-        "C": "2:1:1",
-        "D": "8:1:1",
-        "E": "1:8:8"
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1:1:1"
+        },
+        {
+          "letra": "B",
+          "texto": "1:2:2"
+        },
+        {
+          "letra": "C",
+          "texto": "2:1:1"
+        },
+        {
+          "letra": "D",
+          "texto": "8:1:1"
+        },
+        {
+          "letra": "E",
+          "texto": "1:8:8"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Física – Eletrostática (Distribuição de Cargas)"
       ]
     },
     {
-      "numero_questao": 13,
+      "numeroEnunciado": 13,
       "enunciado": "Deseja-se capturar uma foto que ilustre um projétil, viajando a 500 m/s, atravessando uma maçã. Para isso, é necessário usar um flash de luz com duração compatível com o intervalo de tempo necessário para que o projétil atravesse a fruta. A intensidade do flash de luz está associada à descarga de um capacitor eletricamente carregado, de capacitância C, através de um tubo de resistência elétrica dada por 10 Ω. Assinale a alternativa com o valor de capacitância mais adequado para a aplicação descrita.",
-      "alternativas": {
-        "A": "800 pF",
-        "B": "15 nF",
-        "C": "800 nF",
-        "D": "15 μF",
-        "E": "800 μF"
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "800 pF"
+        },
+        {
+          "letra": "B",
+          "texto": "15 nF"
+        },
+        {
+          "letra": "C",
+          "texto": "800 nF"
+        },
+        {
+          "letra": "D",
+          "texto": "15 μF"
+        },
+        {
+          "letra": "E",
+          "texto": "800 μF"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Física – Eletromagnetismo (Circuitos RC)",
         "Física – Cinemática"
       ]
     },
     {
-      "numero_questao": 14,
+      "numeroEnunciado": 14,
       "enunciado": "Um cilindro condutor oco de comprimento muito longo, cuja secção transversal tem raio interno R/2 e raio externo R, é atravessado por uma densidade de corrente elétrica uniforme e paralela ao eixo do cilindro. Qual representação gráfica abaixo melhor descreve a intensidade do campo magnético |B| como função da coordenada radial r a partir do eixo de simetria do sistema?\n(Gráficos de intensidade do campo magnético B em função da coordenada radial r)",
-      "alternativas": {
-        "A": "Gráfico com B=0 para r<R/2, B crescendo para R/2 < r < R, e B decrescendo para r > R",
-        "B": "Gráfico com B=0 para r<R/2, B crescendo linearmente para R/2 < r < R, e B decrescendo para r > R",
-        "C": "Gráfico com B=0 para r<R/2, B constante para R/2 < r < R, e B decrescendo para r > R",
-        "D": "Gráfico com B=0 para r<R/2, B constante em um valor máximo para R/2 < r < R, e B decrescendo para r > R",
-        "E": "Gráfico com B=0 para r<R/2, B decrescendo para R/2 < r < R, e B constante para r > R"
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Gráfico com B=0 para r<R/2, B crescendo para R/2 < r < R, e B decrescendo para r > R"
+        },
+        {
+          "letra": "B",
+          "texto": "Gráfico com B=0 para r<R/2, B crescendo linearmente para R/2 < r < R, e B decrescendo para r > R"
+        },
+        {
+          "letra": "C",
+          "texto": "Gráfico com B=0 para r<R/2, B constante para R/2 < r < R, e B decrescendo para r > R"
+        },
+        {
+          "letra": "D",
+          "texto": "Gráfico com B=0 para r<R/2, B constante em um valor máximo para R/2 < r < R, e B decrescendo para r > R"
+        },
+        {
+          "letra": "E",
+          "texto": "Gráfico com B=0 para r<R/2, B decrescendo para R/2 < r < R, e B constante para r > R"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Física – Eletromagnetismo (Campo Magnético - Lei de Ampere)"
       ]
     },
     {
-      "numero_questao": 15,
+      "numeroEnunciado": 15,
       "enunciado": "Considere uma bobina circular de 200 voltas e 5,0 cm de raio, localizada em uma região onde existe um campo magnético uniforme de 1,25 T. A espira encontra-se inicialmente paralela ao campo magnético e é girada em um quarto de volta em 15 ms. Assinale a alternativa que contém o valor que melhor representa a força eletromotriz média induzida na espira durante o movimento de giro descrito.\n(Imagem ilustrando a bobina circular e o campo magnético, com indicação da direção do movimento)",
-      "alternativas": {
-        "A": "5,0 V",
-        "B": "15 V",
-        "C": "30 V",
-        "D": "60 V",
-        "E": "130 V"
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,0 V"
+        },
+        {
+          "letra": "B",
+          "texto": "15 V"
+        },
+        {
+          "letra": "C",
+          "texto": "30 V"
+        },
+        {
+          "letra": "D",
+          "texto": "60 V"
+        },
+        {
+          "letra": "E",
+          "texto": "130 V"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Física – Eletromagnetismo (Indução Eletromagnética - Lei de Faraday-Lenz)"
       ]
     },
     {
-      "numero_questao": 16,
+      "numeroEnunciado": 16,
       "enunciado": "Em relação ao narrador de Memórias de um sargento de milícias, é possível afirmar que:",
-      "alternativas": {
-        "A": "é um narrador personagem que não se identifica ao leitor e não dá informações sobre as demais personagens.",
-        "B": "é um narrador personagem que apenas se identifica ao leitor.",
-        "C": "é um narrador protagonista que se identifica ao leitor para fornecer detalhes sobre as demais personagens.",
-        "D": "é um narrador que não se identifica ao leitor, mas fornece detalhes sobre as demais personagens.",
-        "E": "é um narrador personagem que jamais se identifica ao leitor."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é um narrador personagem que não se identifica ao leitor e não dá informações sobre as demais personagens."
+        },
+        {
+          "letra": "B",
+          "texto": "é um narrador personagem que apenas se identifica ao leitor."
+        },
+        {
+          "letra": "C",
+          "texto": "é um narrador protagonista que se identifica ao leitor para fornecer detalhes sobre as demais personagens."
+        },
+        {
+          "letra": "D",
+          "texto": "é um narrador que não se identifica ao leitor, mas fornece detalhes sobre as demais personagens."
+        },
+        {
+          "letra": "E",
+          "texto": "é um narrador personagem que jamais se identifica ao leitor."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Romantismo - Características da Narrativa)"
       ]
     },
     {
-      "numero_questao": 17,
+      "numeroEnunciado": 17,
       "enunciado": "Embora declare que \"qualquer que seja a profissão da tua escolha, o meu desejo é que te faças grande e ilustre, ou pelo menos notável, que te levantes acima da obscuridade comum\", o pai de Janjão também ordena ao filho: “proíbo-te que chegues a outras conclusões que não sejam as já achadas por outros.\" Por que o pai não considera essas orientações como mutuamente contraditórias? Assinale a alternativa correta.",
-      "alternativas": {
-        "A": "porque, para um medalhão, o homem que se vende sempre vale menos do que recebe.",
-        "B": "porque, para um medalhão, a mediocridade é a medida do sucesso.",
-        "C": "porque, para um medalhão, mais vale a honradez do que a fama.",
-        "D": "porque, para um medalhão, a verdade jamais pode ser negociada.",
-        "E": "porque, para um medalhão, ter princípios é mais importante do que a conveniência."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "porque, para um medalhão, o homem que se vende sempre vale menos do que recebe."
+        },
+        {
+          "letra": "B",
+          "texto": "porque, para um medalhão, a mediocridade é a medida do sucesso."
+        },
+        {
+          "letra": "C",
+          "texto": "porque, para um medalhão, mais vale a honradez do que a fama."
+        },
+        {
+          "letra": "D",
+          "texto": "porque, para um medalhão, a verdade jamais pode ser negociada."
+        },
+        {
+          "letra": "E",
+          "texto": "porque, para um medalhão, ter princípios é mais importante do que a conveniência."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Machado de Assis - Caracterização de Personagens)",
         "Língua Portuguesa – Literatura (Machado de Assis - Crítica Social)"
       ]
     },
     {
-      "numero_questao": 18,
+      "numeroEnunciado": 18,
       "enunciado": "Acerca de Memórias de um sargento de milícias, é correto afirmar que:",
-      "alternativas": {
-        "A": "todas as personagens são íntegras e moralmente ilibadas.",
-        "B": "todas as personagens são íntegras, moralmente ilibadas, mas o narrador as julga como se não fossem.",
-        "C": "todas as personagens são moralmente ambíguas, mas o narrador jamais as julga por isso.",
-        "D": "a maioria das personagens, em algum momento e em alguma medida, comete alguma infração ou ato moralmente ilícito.",
-        "E": "independentemente da natureza de seus atos, as personagens nunca são julgadas pelo narrador."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "todas as personagens são íntegras e moralmente ilibadas."
+        },
+        {
+          "letra": "B",
+          "texto": "todas as personagens são íntegras, moralmente ilibadas, mas o narrador as julga como se não fossem."
+        },
+        {
+          "letra": "C",
+          "texto": "todas as personagens são moralmente ambíguas, mas o narrador jamais as julga por isso."
+        },
+        {
+          "letra": "D",
+          "texto": "a maioria das personagens, em algum momento e em alguma medida, comete alguma infração ou ato moralmente ilícito."
+        },
+        {
+          "letra": "E",
+          "texto": "independentemente da natureza de seus atos, as personagens nunca são julgadas pelo narrador."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Romantismo - Crítica Social)",
         "Língua Portuguesa – Literatura (Memórias de um Sargento de Milícias - Análise de Personagens)"
       ]
     },
     {
-      "numero_questao": 19,
+      "numeroEnunciado": 19,
       "enunciado": "Acerca da vida social brasileira no período joanino, é possível afirmar que o livro de Manuel Antônio de Almeida:",
-      "alternativas": {
-        "A": "representa os valores da honestidade e da solidariedade dominantes entre as classes populares.",
-        "B": "representa irônica, porém fielmente, o patriotismo e a retidão de caráter das classes populares.",
-        "C": "ironiza as relações de compadrio e interesse das classes populares.",
-        "D": "retrata com honradez a dissimulação moral das classes populares.",
-        "E": "exalta a perseverança e a dedicação ao trabalho características das classes populares desse período."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "representa os valores da honestidade e da solidariedade dominantes entre as classes populares."
+        },
+        {
+          "letra": "B",
+          "texto": "representa irônica, porém fielmente, o patriotismo e a retidão de caráter das classes populares."
+        },
+        {
+          "letra": "C",
+          "texto": "ironiza as relações de compadrio e interesse das classes populares."
+        },
+        {
+          "letra": "D",
+          "texto": "retrata com honradez a dissimulação moral das classes populares."
+        },
+        {
+          "letra": "E",
+          "texto": "exalta a perseverança e a dedicação ao trabalho características das classes populares desse período."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Romantismo - Contexto Histórico-social)",
         "Língua Portuguesa – Literatura (Memórias de um Sargento de Milícias - Crítica Social)"
       ]
     },
     {
-      "numero_questao": 20,
+      "numeroEnunciado": 20,
       "enunciado": "Assinale a alternativa que caracteriza corretamente a narradora protagonista de \"Senhor Diretor\".",
-      "alternativas": {
-        "A": "exagerada compulsividade por limpeza, como no trecho: “E se fosse tranquilamente ler na praça? Mas a praça devia estar tão suja, que prazer podia se encontrar numa praça assim?”.",
-        "B": "sincera dedicação à família, como no trecho: \"Agradeço muito, meus queridos, mas hoje já tenho um compromisso com um grupo de amigas, vão me oferecer um chá, vocês não se importam se marcarmos um outro dia?\"",
-        "C": "fiel dedicação às amigas, como no trecho: \"Eleonora, de bacia quebrada, a coitadinha. Mariana, se embaralhando em alguma mesa, a cabeça já não dava nem para um sete e meio e inventou de aprender bridge, não estava na moda? Beatriz, pajeando o bando de netos enquanto a nora adernava o oitavo mês. E Elza estava morta.\"",
-        "D": "senso de dever cívico, como no trecho: “Compete à professora, Senhor Diretor, estudar urgentemente um projeto de educação desse povo que tem a idade mental daquelas meninas que eu ia fiscalizar quando saíam do reservado, Puxou a descarga? eu perguntava. E a cara inocente de susto, Ai! Esqueci. Mas será que só eu no meio dessa multidão se importa?”",
-        "E": "recalque sexual, como no trecho: “Ela foi afundando na poltrona enquanto a loura emergia do fundo na direção do homem, Meus Céus, também aqui?! Fixou o olhar no casal todo enrolado na fileira da frente. Beijavam-se com tanta fúria que o som pegajoso era ainda mais nítido do que o barulho dos dois corpos amassando a folhagem na tela.\""
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exagerada compulsividade por limpeza, como no trecho: “E se fosse tranquilamente ler na praça? Mas a praça devia estar tão suja, que prazer podia se encontrar numa praça assim?”."
+        },
+        {
+          "letra": "B",
+          "texto": "sincera dedicação à família, como no trecho: \"Agradeço muito, meus queridos, mas hoje já tenho um compromisso com um grupo de amigas, vão me oferecer um chá, vocês não se importam se marcarmos um outro dia?\""
+        },
+        {
+          "letra": "C",
+          "texto": "fiel dedicação às amigas, como no trecho: \"Eleonora, de bacia quebrada, a coitadinha. Mariana, se embaralhando em alguma mesa, a cabeça já não dava nem para um sete e meio e inventou de aprender bridge, não estava na moda? Beatriz, pajeando o bando de netos enquanto a nora adernava o oitavo mês. E Elza estava morta.\""
+        },
+        {
+          "letra": "D",
+          "texto": "senso de dever cívico, como no trecho: “Compete à professora, Senhor Diretor, estudar urgentemente um projeto de educação desse povo que tem a idade mental daquelas meninas que eu ia fiscalizar quando saíam do reservado, Puxou a descarga? eu perguntava. E a cara inocente de susto, Ai! Esqueci. Mas será que só eu no meio dessa multidão se importa?”"
+        },
+        {
+          "letra": "E",
+          "texto": "recalque sexual, como no trecho: “Ela foi afundando na poltrona enquanto a loura emergia do fundo na direção do homem, Meus Céus, também aqui?! Fixou o olhar no casal todo enrolado na fileira da frente. Beijavam-se com tanta fúria que o som pegajoso era ainda mais nítido do que o barulho dos dois corpos amassando a folhagem na tela.\""
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Análise de Personagem)",
         "Língua Portuguesa – Literatura (Interpretação de Texto)"
       ]
     },
     {
-      "numero_questao": 21,
+      "numeroEnunciado": 21,
       "enunciado": "Assinale a alternativa que não apresenta um trecho que contribui para o entendimento do desfecho de \"As Formigas\".",
-      "alternativas": {
-        "A": "\"Ficamos imóveis diante do velho sobrado de janelas ovaladas, iguais a dois olhos tristes, um deles vazado por uma pedrada. Descansei a mala no chão e apertei o braço da prima.\"",
-        "B": "“O quarto ficou mais alegre. Em compensação, agora a gente podia ver que a roupa de cama não era tão alva assim, alva era a pequena tíbia que ela tirou de dentro do caixotinho.\"",
-        "C": "\"- Eu ia jogar tudo no lixo, mas se você se interessa pode ficar com ele. O banheiro é aqui ao lado, só vocês é que vão usar, tenho o meu lá embaixo. Banho quente, extra. Telefone, também.\"",
-        "D": "“No céu, as últimas estrelas já empalideciam. Quando encarei a casa, só a janela vazada nos via, o outro olho era penumbra.\"",
-        "E": "“Acordei pra fazer pipi, devia ser umas três horas. Na volta, senti que no quarto tinha algo mais, está me entendendo?\""
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Ficamos imóveis diante do velho sobrado de janelas ovaladas, iguais a dois olhos tristes, um deles vazado por uma pedrada. Descansei a mala no chão e apertei o braço da prima.\""
+        },
+        {
+          "letra": "B",
+          "texto": "“O quarto ficou mais alegre. Em compensação, agora a gente podia ver que a roupa de cama não era tão alva assim, alva era a pequena tíbia que ela tirou de dentro do caixotinho.\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"- Eu ia jogar tudo no lixo, mas se você se interessa pode ficar com ele. O banheiro é aqui ao lado, só vocês é que vão usar, tenho o meu lá embaixo. Banho quente, extra. Telefone, também.\""
+        },
+        {
+          "letra": "D",
+          "texto": "“No céu, as últimas estrelas já empalideciam. Quando encarei a casa, só a janela vazada nos via, o outro olho era penumbra.\""
+        },
+        {
+          "letra": "E",
+          "texto": "“Acordei pra fazer pipi, devia ser umas três horas. Na volta, senti que no quarto tinha algo mais, está me entendendo?\""
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Análise de Enredo)",
         "Língua Portuguesa – Literatura (Interpretação de Texto)"
       ]
     },
     {
-      "numero_questao": 22,
+      "numeroEnunciado": 22,
       "enunciado": "Em \"Teoria do medalhão\", por que o pai recomenda ao filho que use a chalaça e despreze a ironia?\nAssinale a alternativa correta.",
-      "alternativas": {
-        "A": "porque a ironia exige reflexão e originalidade.",
-        "B": "porque a chalaça é mais filosófica e inventiva do que a ironia.",
-        "C": "porque a ironia garante uma publicidade constante, barata e fácil.",
-        "D": "porque a ironia faz descansar o cérebro, restituindo-lhe as forças e a atividade perdida.",
-        "E": "porque a chalaça exercita o cérebro."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "porque a ironia exige reflexão e originalidade."
+        },
+        {
+          "letra": "B",
+          "texto": "porque a chalaça é mais filosófica e inventiva do que a ironia."
+        },
+        {
+          "letra": "C",
+          "texto": "porque a ironia garante uma publicidade constante, barata e fácil."
+        },
+        {
+          "letra": "D",
+          "texto": "porque a ironia faz descansar o cérebro, restituindo-lhe as forças e a atividade perdida."
+        },
+        {
+          "letra": "E",
+          "texto": "porque a chalaça exercita o cérebro."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Machado de Assis - Linguagem)",
         "Língua Portuguesa – Literatura (Machado de Assis - Ironia)"
       ]
     },
     {
-      "numero_questao": 23,
+      "numeroEnunciado": 23,
       "enunciado": "Assinale a alternativa que não contribui para a compreensão do desfecho do conto \"Tigrela\".",
-      "alternativas": {
-        "A": "\"Só eu sei que cresceu, só eu notei que está ocupando mais lugar embora continue do mesmo tamanho, ultimamente mal cabemos as duas, uma de nós teria mesmo que... Interrompeu para acender a cigarrilha, a chama vacilante na mão trêmula.\"",
-        "B": "\"No fim, quis se atirar do parapeito do terraço, que nem gente, igual. Igual, repetiu Romana procurando o relógio no meu pulso.\"",
-        "C": "\"Uma noite dessas, quando eu voltar para casa o porteiro pode vir correndo me dizer. A senhora sabe? De algum desses terraços...\"",
-        "D": "\"Finge que não liga mas a pupila se dilata e transborda como tinta preta derramando no olho inteiro, eu já falei nesse olho? É nele que vejo a emoção. O ciúme. Fica intratável.”",
-        "E": "“Fiquei olhando para o pequeno círculo de água que seu copo deixou na mesa. Mas, Romana, não seria mais humano se a mandasse para o zoológico?”"
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Só eu sei que cresceu, só eu notei que está ocupando mais lugar embora continue do mesmo tamanho, ultimamente mal cabemos as duas, uma de nós teria mesmo que... Interrompeu para acender a cigarrilha, a chama vacilante na mão trêmula.\""
+        },
+        {
+          "letra": "B",
+          "texto": "\"No fim, quis se atirar do parapeito do terraço, que nem gente, igual. Igual, repetiu Romana procurando o relógio no meu pulso.\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"Uma noite dessas, quando eu voltar para casa o porteiro pode vir correndo me dizer. A senhora sabe? De algum desses terraços...\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"Finge que não liga mas a pupila se dilata e transborda como tinta preta derramando no olho inteiro, eu já falei nesse olho? É nele que vejo a emoção. O ciúme. Fica intratável.”"
+        },
+        {
+          "letra": "E",
+          "texto": "“Fiquei olhando para o pequeno círculo de água que seu copo deixou na mesa. Mas, Romana, não seria mais humano se a mandasse para o zoológico?”"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Análise de Enredo)",
         "Língua Portuguesa – Literatura (Interpretação de Texto)"
       ]
     },
     {
-      "numero_questao": 24,
+      "numeroEnunciado": 24,
       "enunciado": "No capítulo \"Caldo entornado\", de Memórias de um sargento de milícias, lê-se: \"Entretanto o zelo da comadre pôs-se em atividade, e poucos dias depois entrou ela muito contente, e veio participar ao Leonardo que lhe tinha achado um excelente arranjo que o habilitava, segundo pensava, a um grande futuro, e o punha perfeitamente a coberto das iras do Vidigal; era o arranjo de servidor na ucharia* real. Deixando de parte o substantivo ucharia, e atendendo só ao adjetivo real, todos os interessados e o próprio Leonardo regalaram os olhos com o achado da comadre.\" Sobre essa passagem, é correto afirmar:\n*ucharia: espécie de dispensa ou almoxarifado nas antigas casas senhoriais e reais.",
-      "alternativas": {
-        "A": "a passagem revela os nobres e reais valores das personagens.",
-        "B": "a passagem revela a sincera devoção de Leonardo ao monarca.",
-        "C": "a passagem revela a preocupação do monarca para com os súditos.",
-        "D": "a passagem revela o verniz de respeitabilidade de um emprego no Paço Real, independentemente da função.",
-        "E": "a passagem confirma a grande influência da comadre nos assuntos reais."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a passagem revela os nobres e reais valores das personagens."
+        },
+        {
+          "letra": "B",
+          "texto": "a passagem revela a sincera devoção de Leonardo ao monarca."
+        },
+        {
+          "letra": "C",
+          "texto": "a passagem revela a preocupação do monarca para com os súditos."
+        },
+        {
+          "letra": "D",
+          "texto": "a passagem revela o verniz de respeitabilidade de um emprego no Paço Real, independentemente da função."
+        },
+        {
+          "letra": "E",
+          "texto": "a passagem confirma a grande influência da comadre nos assuntos reais."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Romantismo - Contexto Histórico-social)",
         "Língua Portuguesa – Interpretação de Texto"
       ]
     },
     {
-      "numero_questao": 25,
+      "numeroEnunciado": 25,
       "enunciado": "Em \"A Sauna\", os diferentes epítetos de Rosa usados pelo narrador protagonista revelam:",
-      "alternativas": {
-        "A": "a sua genuína opinião a respeito da ex-companheira.",
-        "B": "o que ele gostaria que a ex-companheira fosse.",
-        "C": "a maneira como ele gostaria que as outras pessoas a enxergassem.",
-        "D": "a verdadeira natureza de Rosa.",
-        "E": "a maneira como ele gostaria que Marina enxergasse Rosa."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a sua genuína opinião a respeito da ex-companheira."
+        },
+        {
+          "letra": "B",
+          "texto": "o que ele gostaria que a ex-companheira fosse."
+        },
+        {
+          "letra": "C",
+          "texto": "a maneira como ele gostaria que as outras pessoas a enxergassem."
+        },
+        {
+          "letra": "D",
+          "texto": "a verdadeira natureza de Rosa."
+        },
+        {
+          "letra": "E",
+          "texto": "a maneira como ele gostaria que Marina enxergasse Rosa."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Análise de Personagem)",
         "Língua Portuguesa – Literatura (Recurso Estilístico)"
       ]
     },
     {
-      "numero_questao": 26,
+      "numeroEnunciado": 26,
       "enunciado": "Leia as asserções destacadas acerca de \"As Formigas\" e, em seguida, assinale a alternativa correta.\nI. A descrição da pensão, a caracterização da sua dona, o cheiro, a janela quebrada, os pesadelos e o desaparecimento das formigas são elementos que contribuem para a construção de uma atmosfera de suspense.\nII. O trecho a seguir exemplifica a dubiedade da narrativa: \"- Um anão. Raríssimo, entende? E acho que não falta nenhum ossinho, vou trazer as ligaduras, quero ver se no fim da semana começo a montar ele.\"\nIII. A vulnerabilidade das protagonistas pode ser constatada em seus atos corriqueiros, como ter um ursinho de pelúcia e o cuidado recíproco que têm uma pela outra.",
-      "alternativas": {
-        "A": "são verdadeiras apenas I e II.",
-        "B": "são falsas apenas II e III.",
-        "C": "são verdadeiras apenas I e III.",
-        "D": "são todas asserções falsas.",
-        "E": "nenhuma das asserções é falsa."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são verdadeiras apenas I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "são falsas apenas II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "são verdadeiras apenas I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "são todas asserções falsas."
+        },
+        {
+          "letra": "E",
+          "texto": "nenhuma das asserções é falsa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Análise de Narrativa)",
         "Língua Portuguesa – Literatura (Elementos de Gênero Literário)"
       ]
     },
     {
-      "numero_questao": 27,
+      "numeroEnunciado": 27,
       "enunciado": "Leia o trecho destacado de “Teoria do medalhão”: “Melhor do que tudo isso, porém, que afinal não passa de mero adorno, são as frases feitas, as locuções convencionais, as fórmulas consagradas pelos anos, incrustadas na memória individual e pública. Essas fórmulas têm a vantagem de não obrigar a outros a um esforço inútil.\" Assinale a alternativa que explicita corretamente o significado de \"esforço inútil\" no contexto.",
-      "alternativas": {
-        "A": "decorar frases feitas.",
-        "B": "pensar.",
-        "C": "estudar retórica.",
-        "D": "estudar gramática.",
-        "E": "saber outras línguas."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "decorar frases feitas."
+        },
+        {
+          "letra": "B",
+          "texto": "pensar."
+        },
+        {
+          "letra": "C",
+          "texto": "estudar retórica."
+        },
+        {
+          "letra": "D",
+          "texto": "estudar gramática."
+        },
+        {
+          "letra": "E",
+          "texto": "saber outras línguas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Língua Portuguesa – Interpretação de Texto",
         "Língua Portuguesa – Vocabulário"
       ]
     },
     {
-      "numero_questao": 28,
+      "numeroEnunciado": 28,
       "enunciado": "Leia atentamente o trecho destacado de \"Presença\": \"Ele pousou a mala no chão e pediu um apartamento. Por quanto tempo? Não estava bem certo, talvez uns vinte dias. Ou mais. O porteiro examinou-o da cabeça aos pés. Forçou o sorriso paternal, disfarçando o espanto com uma cordialidade exagerada, Mas o jovem queria um apartamento? Ali, naquele hotel?!\" Assinale a alternativa correta relativamente ao grifo do pronome demonstrativo e o uso da pontuação.",
-      "alternativas": {
-        "A": "indicam a enorme distância entre as personagens e o hotel.",
-        "B": "sugerem que havia outros hotéis à disposição.",
-        "C": "cumprem a função de destacar o absurdo da escolha do jovem.",
-        "D": "enfatizam o momento oportuno para as férias do rapaz.",
-        "E": "indicam que o porteiro desejava enfaticamente que o jovem se hospedasse naquele hotel."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "indicam a enorme distância entre as personagens e o hotel."
+        },
+        {
+          "letra": "B",
+          "texto": "sugerem que havia outros hotéis à disposição."
+        },
+        {
+          "letra": "C",
+          "texto": "cumprem a função de destacar o absurdo da escolha do jovem."
+        },
+        {
+          "letra": "D",
+          "texto": "enfatizam o momento oportuno para as férias do rapaz."
+        },
+        {
+          "letra": "E",
+          "texto": "indicam que o porteiro desejava enfaticamente que o jovem se hospedasse naquele hotel."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Língua Portuguesa – Gramática (Pronomes Demonstrativos)",
         "Língua Portuguesa – Gramática (Pontuação)",
         "Língua Portuguesa – Interpretação de Texto"
       ]
     },
     {
-      "numero_questao": 29,
+      "numeroEnunciado": 29,
       "enunciado": "Leia as asserções destacadas e, em seguida, assinale a alternativa correta:\nI. Em \"Senhor Diretor\", Maria Emília é uma mulher marcada por uma rígida repressão sexual.\nII. Em \"A Sauna\", após repassar sua vida a limpo, o narrador protagonista se arrepende de seus atos egoístas e mesquinhos.\nIII. Em \"WM\", os fatos da vida de Wlado não são revelados ao leitor.\nIV. Em \"Seminário dos ratos\", a invasão dos ratos simboliza uma aterrorizante ameaça ao poder representado pelo Secretário do Bem-Estar Público e Privado e pelo Chefe de Relações Públicas.",
-      "alternativas": {
-        "A": "são todas asserções verdadeiras.",
-        "B": "I, III e IV são falsas.",
-        "C": "I e II são verdadeiras.",
-        "D": "I e IV são verdadeiras.",
-        "E": "são todas asserções falsas."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são todas asserções verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "I, III e IV são falsas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "I e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "são todas asserções falsas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Análise Comparativa de Obras)",
         "Língua Portuguesa – Literatura (Interpretação de Texto)"
       ]
     },
     {
-      "numero_questao": 30,
+      "numeroEnunciado": 30,
       "enunciado": "Sobre \"WM\", é correto afirmar que:",
-      "alternativas": {
-        "A": "é uma narrativa sobre uma família dilacerada por um filho que resolve se relacionar com uma prostituta para se vingar da mãe.",
-        "B": "é a narrativa de um filho caçula, cuja família foi dilacerada pela morte precoce de sua irmã mais velha.",
-        "C": "é uma história narrada em primeira pessoa, por um garoto que se sacrifica para cuidar da família após o pai abandoná-los.",
-        "D": "é a narrativa em primeira pessoa de uma jovem obrigada a cuidar do irmão caçula uma vez que seus pais, cada um à sua maneira, abandonaram os filhos.",
-        "E": "é a narrativa em primeira pessoa de uma garota cuja mãe, envaidecida pela própria beleza e talento, abandona os filhos à própria sorte."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é uma narrativa sobre uma família dilacerada por um filho que resolve se relacionar com uma prostituta para se vingar da mãe."
+        },
+        {
+          "letra": "B",
+          "texto": "é a narrativa de um filho caçula, cuja família foi dilacerada pela morte precoce de sua irmã mais velha."
+        },
+        {
+          "letra": "C",
+          "texto": "é uma história narrada em primeira pessoa, por um garoto que se sacrifica para cuidar da família após o pai abandoná-los."
+        },
+        {
+          "letra": "D",
+          "texto": "é a narrativa em primeira pessoa de uma jovem obrigada a cuidar do irmão caçula uma vez que seus pais, cada um à sua maneira, abandonaram os filhos."
+        },
+        {
+          "letra": "E",
+          "texto": "é a narrativa em primeira pessoa de uma garota cuja mãe, envaidecida pela própria beleza e talento, abandona os filhos à própria sorte."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Língua Portuguesa – Literatura (Análise de Enredo)",
         "Língua Portuguesa – Literatura (Tema)"
       ]
     },
     {
-      "numero_questao": 31,
+      "numeroEnunciado": 31,
       "enunciado": "A diferença existente entre os anos de 1914 a 1918 e o momento em que o texto foi escrito é que:",
-      "alternativas": {
-        "A": "quando o ensaio foi escrito, após o período de 1914 a 1918, questionadores poderiam ser presos.",
-        "B": "antes do texto ser escrito, entre 1914 a 1918, certos questionamentos eram passíveis de punição.",
-        "C": "antes do período de 1914 a 1918, certas perguntas não eram consideradas legais.",
-        "D": "o conceito de civilização, como o entendemos, foi definido após 1918, quando o texto foi escrito.",
-        "E": "antes do texto ser escrito, o autor foi preso em 1914 e ficou quatro anos encarcerado."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "quando o ensaio foi escrito, após o período de 1914 a 1918, questionadores poderiam ser presos."
+        },
+        {
+          "letra": "B",
+          "texto": "antes do texto ser escrito, entre 1914 a 1918, certos questionamentos eram passíveis de punição."
+        },
+        {
+          "letra": "C",
+          "texto": "antes do período de 1914 a 1918, certas perguntas não eram consideradas legais."
+        },
+        {
+          "letra": "D",
+          "texto": "o conceito de civilização, como o entendemos, foi definido após 1918, quando o texto foi escrito."
+        },
+        {
+          "letra": "E",
+          "texto": "antes do texto ser escrito, o autor foi preso em 1914 e ficou quatro anos encarcerado."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Inglês – Compreensão de Texto",
         "Inglês – Vocabulário (Inferência)"
       ]
     },
     {
-      "numero_questao": 32,
+      "numeroEnunciado": 32,
       "enunciado": "O termo startled, destacado no trecho do segundo parágrafo, \"Startled by this sudden enthusiasm [...]\", pode ser entendido como:",
-      "alternativas": {
-        "A": "destroçado.",
-        "B": "empolgado.",
-        "C": "atônito.",
-        "D": "instigado.",
-        "E": "desanimado."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "destroçado."
+        },
+        {
+          "letra": "B",
+          "texto": "empolgado."
+        },
+        {
+          "letra": "C",
+          "texto": "atônito."
+        },
+        {
+          "letra": "D",
+          "texto": "instigado."
+        },
+        {
+          "letra": "E",
+          "texto": "desanimado."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Inglês – Vocabulário (Sinônimos)"
       ]
     },
     {
-      "numero_questao": 34,
+      "numeroEnunciado": 34,
       "enunciado": "Leia atentamente as declarações destacadas. Em seguida, assinale a alternativa correta.\nI. Quanto menos inteligente for um homem, mais chances ele terá de ser presidente dos Estados Unidos.\nII. Quando um homem é infeliz a ponto de exibir habilidades incomuns, ele se torna inelegível para distinções políticas.\nIII. A declaração de que o sistema educacional deve ser abandonado se produz mais pessoas ruins que boas é irônica.\nDe acordo com o texto, é correto afirmar que:",
-      "alternativas": {
-        "A": "apenas I é verdadeira.",
-        "B": "apenas II é falsa.",
-        "C": "apenas III é verdadeira",
-        "D": "ambas I e II são falsas.",
-        "E": "ambas II e III são verdadeiras."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas II é falsa."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas III é verdadeira"
+        },
+        {
+          "letra": "D",
+          "texto": "ambas I e II são falsas."
+        },
+        {
+          "letra": "E",
+          "texto": "ambas II e III são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Inglês – Compreensão de Texto (Análise de Afirmativas)"
       ]
     },
     {
-      "numero_questao": 35,
+      "numeroEnunciado": 35,
       "enunciado": "No trecho destacado, extraído do segundo parágrafo, \"It is found to perfection in the speeches of demagogues, who feel certain they are never so successful as when their audience is satisfied that the intellect of the speaker is of no higher an order than that of the lowest intelligence among them.\", a ideia principal é a de que:",
-      "alternativas": {
-        "A": "o palestrante é superior à audiência, indicada por no higher an order than.",
-        "B": "palestrantes enfrentam adversidades diante das massas, indicada por never.",
-        "C": "o povo é necessariamente inferior a seus líderes, indicada por the lowest intelligence among them.",
-        "D": "as massas e os políticos estão em oposição, indicada por their audience is satisfied.",
-        "E": "há uma igualdade sentida entre demagogos e sua audiência, indicada por so successful as."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o palestrante é superior à audiência, indicada por no higher an order than."
+        },
+        {
+          "letra": "B",
+          "texto": "palestrantes enfrentam adversidades diante das massas, indicada por never."
+        },
+        {
+          "letra": "C",
+          "texto": "o povo é necessariamente inferior a seus líderes, indicada por the lowest intelligence among them."
+        },
+        {
+          "letra": "D",
+          "texto": "as massas e os políticos estão em oposição, indicada por their audience is satisfied."
+        },
+        {
+          "letra": "E",
+          "texto": "há uma igualdade sentida entre demagogos e sua audiência, indicada por so successful as."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Inglês – Compreensão de Texto (Ideia Central)"
       ]
     },
     {
-      "numero_questao": 36,
+      "numeroEnunciado": 36,
       "enunciado": "De acordo com o terceiro parágrafo, é correto afirmar que:",
-      "alternativas": {
-        "A": "não resta dúvida para o cidadão comum de que talentos brilhantes são os mais desejáveis para ocupar o poder executivo.",
-        "B": "mentalidades medianas desaprovam tudo o que está além do seu alcance.",
-        "C": "é incorreto afirmar que ter habilidade é útil tanto no âmbito público-político quanto em qualquer outro.",
-        "D": "a ampliação da inteligência é um valor inquestionável para alguém subir na vida.",
-        "E": "todas as asserções estão corretas."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "não resta dúvida para o cidadão comum de que talentos brilhantes são os mais desejáveis para ocupar o poder executivo."
+        },
+        {
+          "letra": "B",
+          "texto": "mentalidades medianas desaprovam tudo o que está além do seu alcance."
+        },
+        {
+          "letra": "C",
+          "texto": "é incorreto afirmar que ter habilidade é útil tanto no âmbito público-político quanto em qualquer outro."
+        },
+        {
+          "letra": "D",
+          "texto": "a ampliação da inteligência é um valor inquestionável para alguém subir na vida."
+        },
+        {
+          "letra": "E",
+          "texto": "todas as asserções estão corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Inglês – Compreensão de Texto (Detalhes Específicos)"
       ]
     },
     {
-      "numero_questao": 37,
+      "numeroEnunciado": 37,
       "enunciado": "De acordo com o texto:",
-      "alternativas": {
-        "A": "o narrador não tinha muitas amizades porque sempre foi antissocial.",
-        "B": "a mãe do narrador fazia muitas amizades com pessoas que acreditavam no que viam na TV.",
-        "C": "os vizinhos do narrador geralmente não gostavam de quem acreditasse no que a TV mostrava.",
-        "D": "é perigoso criar amizades com pessoas desconhecidas sem saber o que gostam de ver na TV.",
-        "E": "acreditar na TV é algo diferente de não se importar com a TV."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o narrador não tinha muitas amizades porque sempre foi antissocial."
+        },
+        {
+          "letra": "B",
+          "texto": "a mãe do narrador fazia muitas amizades com pessoas que acreditavam no que viam na TV."
+        },
+        {
+          "letra": "C",
+          "texto": "os vizinhos do narrador geralmente não gostavam de quem acreditasse no que a TV mostrava."
+        },
+        {
+          "letra": "D",
+          "texto": "é perigoso criar amizades com pessoas desconhecidas sem saber o que gostam de ver na TV."
+        },
+        {
+          "letra": "E",
+          "texto": "acreditar na TV é algo diferente de não se importar com a TV."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Inglês – Compreensão de Texto (Informações Explícitas)"
       ]
     },
     {
-      "numero_questao": 38,
+      "numeroEnunciado": 38,
       "enunciado": "Os fatos apresentados pelo narrador no terceiro e no quarto parágrafos expressam:",
-      "alternativas": {
-        "A": "ironia, sarcasmo.",
-        "B": "eufemismo, floreio.",
-        "C": "hipérbole, exagero.",
-        "D": "sinestesia, perífrase.",
-        "E": "personificação, simbologia."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ironia, sarcasmo."
+        },
+        {
+          "letra": "B",
+          "texto": "eufemismo, floreio."
+        },
+        {
+          "letra": "C",
+          "texto": "hipérbole, exagero."
+        },
+        {
+          "letra": "D",
+          "texto": "sinestesia, perífrase."
+        },
+        {
+          "letra": "E",
+          "texto": "personificação, simbologia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Inglês – Interpretação de Texto (Figuras de Linguagem)"
       ]
     },
     {
-      "numero_questao": 39,
+      "numeroEnunciado": 39,
       "enunciado": "O trecho destacado do segundo parágrafo, “I hoped that in walking around after dark I might witness a murder, but for the most part our neighbors just sat in their living rooms, watching TV.\", poderia ser mais bem traduzido sem perda de sentido como:",
-      "alternativas": {
-        "A": "\"Eu esperava que ao dar uma volta depois de escurecer ainda pudesse assassinar uma testemunha, porém sem que a maioria dos meus vizinhos saíssem da frente da TV, sentados nas salas de estar.”",
-        "B": "\"Eu esperava que dando uma voltinha ao escurecer eu pudesse presenciar um assassinato, porém, na maior parte do tempo, meus vizinhos ficavam sentados nas suas salas de estar, vendo TV.\"",
-        "C": "\"Eu esperava que ao escurecer pudesse dar uma volta e presenciar um assassinato, embora a maioria dos meus vizinhos visse TV, sentados mesmo, na sala de estar.\"",
-        "D": "\"Eu esperava que ao dar uma volta depois de escurecer eu pudesse testemunhar um assassinato, mas meus vizinhos, na sua maioria, só ficavam sentados nas suas salas de estar, vendo TV.\"",
-        "E": "\"Eu esperava que ao dar uma volta depois de assassinar alguém eu não pudesse ver o dia escurecer, mas sim, sentado na sala de TV com a maioria de meus vizinhos, ainda que sem a assistirmos.\""
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Eu esperava que ao dar uma volta depois de escurecer ainda pudesse assassinar uma testemunha, porém sem que a maioria dos meus vizinhos saíssem da frente da TV, sentados nas salas de estar.”"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Eu esperava que dando uma voltinha ao escurecer eu pudesse presenciar um assassinato, porém, na maior parte do tempo, meus vizinhos ficavam sentados nas suas salas de estar, vendo TV.\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"Eu esperava que ao escurecer pudesse dar uma volta e presenciar um assassinato, embora a maioria dos meus vizinhos visse TV, sentados mesmo, na sala de estar.\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"Eu esperava que ao dar uma volta depois de escurecer eu pudesse testemunhar um assassinato, mas meus vizinhos, na sua maioria, só ficavam sentados nas suas salas de estar, vendo TV.\""
+        },
+        {
+          "letra": "E",
+          "texto": "\"Eu esperava que ao dar uma volta depois de assassinar alguém eu não pudesse ver o dia escurecer, mas sim, sentado na sala de TV com a maioria de meus vizinhos, ainda que sem a assistirmos.\""
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Inglês – Tradução",
         "Inglês – Vocabulário"
       ]
     },
     {
-      "numero_questao": 40,
+      "numeroEnunciado": 40,
       "enunciado": "O termo still, destacado no trecho do primeiro parágrafo, “It was more of a ‘see you later’ situation, but still I adopted my mother's attitude [...]”, transmite a ideia de:",
-      "alternativas": {
-        "A": "ação coordenada da família.",
-        "B": "período de tempo até a próxima mudança.",
-        "C": "concessão por parte do narrador.",
-        "D": "período de tempo após a última mudança até o momento da narrativa.",
-        "E": "imposição por parte da mãe após a mudança."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ação coordenada da família."
+        },
+        {
+          "letra": "B",
+          "texto": "período de tempo até a próxima mudança."
+        },
+        {
+          "letra": "C",
+          "texto": "concessão por parte do narrador."
+        },
+        {
+          "letra": "D",
+          "texto": "período de tempo após a última mudança até o momento da narrativa."
+        },
+        {
+          "letra": "E",
+          "texto": "imposição por parte da mãe após a mudança."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Inglês – Vocabulário (Conectivos)",
         "Inglês – Semântica"
       ]
     },
     {
-      "numero_questao": 41,
+      "numeroEnunciado": 41,
       "enunciado": "Sejam A e B matrizes quadradas de ordem ímpar. Suponha que A é simétrica e que B é antissimétrica. Considere as seguintes afirmações:\nI. (A + B)² = A² + 2AB + B².\nII. A comuta com qualquer matriz simétrica.\nIII. B comuta com qualquer matriz antissimétrica.\nIV. det (AB) = 0.\nÉ(são) VERDADEIRA(S):",
-      "alternativas": {
-        "A": "nenhuma.",
-        "B": "apenas I.",
-        "C": "apenas III.",
-        "D": "apenas IV.",
-        "E": "apenas II e IV."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nenhuma."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas IV."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas II e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Matemática – Álgebra Linear (Matrizes)"
       ]
     },
     {
-      "numero_questao": 42,
+      "numeroEnunciado": 42,
       "enunciado": "Seja S ⊂ R o conjunto solução da inequação (x² + x + 1)^(2x²-x-1) < 1. Podemos afirmar que:",
-      "alternativas": {
-        "A": "S = [-1,1].",
-        "B": "S = [-1, -½].",
-        "C": "S = [0, 1].",
-        "D": "S = [-1,-½] ∪ [0, 1].",
-        "E": "S é o conjunto vazio."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "S = [-1,1]."
+        },
+        {
+          "letra": "B",
+          "texto": "S = [-1, -½]."
+        },
+        {
+          "letra": "C",
+          "texto": "S = [0, 1]."
+        },
+        {
+          "letra": "D",
+          "texto": "S = [-1,-½] ∪ [0, 1]."
+        },
+        {
+          "letra": "E",
+          "texto": "S é o conjunto vazio."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Matemática – Álgebra (Inequações Exponenciais)"
       ]
     },
     {
-      "numero_questao": 43,
+      "numeroEnunciado": 43,
       "enunciado": "Os vértices da base de um triângulo isósceles PQR, inscrito numa circunferência de centro O = (5,0), são P = (4,2√2) e Q = (8,0). Se o vértice R pertence ao primeiro quadrante, então a área do triângulo PQR é igual a:",
-      "alternativas": {
-        "A": "√2 (3 - √3).",
-        "B": "√3 (3+√3).",
-        "C": "√3 (3 - √3).",
-        "D": "√6 (3 + √3).",
-        "E": "√6 (3 - √3)."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "√2 (3 - √3)."
+        },
+        {
+          "letra": "B",
+          "texto": "√3 (3+√3)."
+        },
+        {
+          "letra": "C",
+          "texto": "√3 (3 - √3)."
+        },
+        {
+          "letra": "D",
+          "texto": "√6 (3 + √3)."
+        },
+        {
+          "letra": "E",
+          "texto": "√6 (3 - √3)."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Matemática – Geometria Analítica (Circunferência)",
         "Matemática – Geometria Analítica (Triângulos)"
       ]
     },
     {
-      "numero_questao": 44,
+      "numeroEnunciado": 44,
       "enunciado": "Considere a curva plana definida pela equação 9x² + 4y² + 36x + 24y + 36 = 0. O ponto P = (0,0) é vértice de um retângulo circunscrito à curva. Então a equação da circunferência circunscrita ao retângulo é:",
-      "alternativas": {
-        "A": "(x + 2)² + (y + 3)² = 9.",
-        "B": "(x + 3)² + (y + 2)² = 9.",
-        "C": "(x - 2)² + (y - 3)² = 13.",
-        "D": "(x + 2)² + (y + 3)² = 13.",
-        "E": "(x + 3)² + (y + 2)² = 13."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(x + 2)² + (y + 3)² = 9."
+        },
+        {
+          "letra": "B",
+          "texto": "(x + 3)² + (y + 2)² = 9."
+        },
+        {
+          "letra": "C",
+          "texto": "(x - 2)² + (y - 3)² = 13."
+        },
+        {
+          "letra": "D",
+          "texto": "(x + 2)² + (y + 3)² = 13."
+        },
+        {
+          "letra": "E",
+          "texto": "(x + 3)² + (y + 2)² = 13."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Matemática – Geometria Analítica (Cônicas - Elipse)",
         "Matemática – Geometria Analítica (Circunferência)"
       ]
     },
     {
-      "numero_questao": 45,
+      "numeroEnunciado": 45,
       "enunciado": "Considere um triângulo ABC tal que m(AB) = 14, cos (BAC) = 5/13 e cos (ABC) = 5/13. Então, o raio da circunferência inscrita ao triângulo é igual a:",
-      "alternativas": {
-        "A": "2.",
-        "B": "2√2.",
-        "C": "3.",
-        "D": "4.",
-        "E": "4√2."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2."
+        },
+        {
+          "letra": "B",
+          "texto": "2√2."
+        },
+        {
+          "letra": "C",
+          "texto": "3."
+        },
+        {
+          "letra": "D",
+          "texto": "4."
+        },
+        {
+          "letra": "E",
+          "texto": "4√2."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Matemática – Geometria Plana (Triângulos)",
         "Matemática – Geometria Plana (Circunferência)",
         "Matemática – Trigonometria"
       ]
     },
     {
-      "numero_questao": 46,
+      "numeroEnunciado": 46,
       "enunciado": "Seja S o subconjunto do plano cartesiano constituído pela união dos gráficos das funções f(x) = 2^x, g(x) = 2^-x e h(x) = log₂ x, com x > 0. Para cada k > 0 seja n o número de interseções da reta y = kx com S. Podemos afirmar que:",
-      "alternativas": {
-        "A": "n ≠ 1 para todo k > 0.",
-        "B": "n = 2 para pelo menos três valores distintos de k.",
-        "C": "n = 2 para exatamente dois valores distintos de k.",
-        "D": "n ≠ 3 para todo k > 0.",
-        "E": "O conjunto dos k > 0 para os quais n = 3 é a união de dois intervalos disjuntos."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "n ≠ 1 para todo k > 0."
+        },
+        {
+          "letra": "B",
+          "texto": "n = 2 para pelo menos três valores distintos de k."
+        },
+        {
+          "letra": "C",
+          "texto": "n = 2 para exatamente dois valores distintos de k."
+        },
+        {
+          "letra": "D",
+          "texto": "n ≠ 3 para todo k > 0."
+        },
+        {
+          "letra": "E",
+          "texto": "O conjunto dos k > 0 para os quais n = 3 é a união de dois intervalos disjuntos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Matemática – Funções (Análise de Gráficos)",
         "Matemática – Funções (Interseções)"
       ]
     },
     {
-      "numero_questao": 47,
+      "numeroEnunciado": 47,
       "enunciado": "A única solução real da equação 7^x = 59^(x-1) pertence ao intervalo:",
-      "alternativas": {
-        "A": "(0, ½].",
-        "B": "(½, ¾].",
-        "C": "(¾, ⁵⁄₄].",
-        "D": "(⁵⁄₄, ¹⁰⁄₃].",
-        "E": "(¹⁰⁄₃, 4]."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(0, ½]."
+        },
+        {
+          "letra": "B",
+          "texto": "(½, ¾]."
+        },
+        {
+          "letra": "C",
+          "texto": "(¾, ⁵⁄₄]."
+        },
+        {
+          "letra": "D",
+          "texto": "(⁵⁄₄, ¹⁰⁄₃]."
+        },
+        {
+          "letra": "E",
+          "texto": "(¹⁰⁄₃, 4]."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Matemática – Álgebra (Equações Exponenciais)"
       ]
     },
     {
-      "numero_questao": 48,
+      "numeroEnunciado": 48,
       "enunciado": "Seja A uma matriz real quadrada de ordem 2 tal que (1 2 / 3 4) A (x / y 0) = (2 3 / 4 5) (x / y+1 1). Então, o traço da matriz A é igual a:",
-      "alternativas": {
-        "A": "0.",
-        "B": "1.",
-        "C": "2.",
-        "D": "3.",
-        "E": "4."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0."
+        },
+        {
+          "letra": "B",
+          "texto": "1."
+        },
+        {
+          "letra": "C",
+          "texto": "2."
+        },
+        {
+          "letra": "D",
+          "texto": "3."
+        },
+        {
+          "letra": "E",
+          "texto": "4."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Matemática – Álgebra Linear (Matrizes)"
       ]
     },
     {
-      "numero_questao": 49,
+      "numeroEnunciado": 49,
       "enunciado": "O número de triângulos, dois a dois não congruentes, de perímetro 87, cujos lados, dispostos em ordem crescente de comprimento, são números inteiros em progressão aritmética de razão não nula, é igual a:",
-      "alternativas": {
-        "A": "12.",
-        "B": "14.",
-        "C": "16.",
-        "D": "18.",
-        "E": "20."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12."
+        },
+        {
+          "letra": "B",
+          "texto": "14."
+        },
+        {
+          "letra": "C",
+          "texto": "16."
+        },
+        {
+          "letra": "D",
+          "texto": "18."
+        },
+        {
+          "letra": "E",
+          "texto": "20."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Matemática – Geometria Plana (Triângulos)",
         "Matemática – Aritmética (Progressão Aritmética)"
       ]
     },
     {
-      "numero_questao": 50,
+      "numeroEnunciado": 50,
       "enunciado": "Seja ABCD um quadrilátero convexo com diagonais AC e BD. Considere as afirmações:\nI. Se as diagonais AC e BD têm mesmo comprimento e se intersectam ortogonalmente, então ABCD é um losango.\nII. Se as diagonais AC e BD dividem o quadrilátero ABCD em quatro triângulos de mesma área, então ABCD é um paralelogramo.\nIII. Se o ponto de interseção das diagonais AC e BD é o centro do círculo que circunscreve o quadrilátero ABCD, então ABCD é um retângulo.\nÉ(são) VERDADEIRA(S):",
-      "alternativas": {
-        "A": "apenas I.",
-        "B": "apenas II.",
-        "C": "apenas III.",
-        "D": "apenas I e II.",
-        "E": "apenas II e III."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Matemática – Geometria Plana (Quadriláteros)"
       ]
     },
     {
-      "numero_questao": 51,
+      "numeroEnunciado": 51,
       "enunciado": "Considere as seguintes afirmações:\nI. Se a medida do ângulo agudo entre uma reta r e um plano α é 45°, então existe uma reta s contida em α tal que a medida do ângulo agudo entre r e s é 30°.\nII. Se uma reta r é perpendicular a duas retas distintas s e t contidas em um plano α, então r é perpendicular a α.\nIII. Sejam r, s e t as três retas distintas determinadas por três pontos não colineares. Então, existe um único ponto equidistante de r, s e t.\nIV. Se P e Q são pontos à mesma distância de um plano α, então o ponto médio do segmento PQ pertence a α.\nÉ(são) VERDADEIRA(S):",
-      "alternativas": {
-        "A": "nenhuma.",
-        "B": "apenas I e II.",
-        "C": "apenas I e III.",
-        "D": "apenas III e IV.",
-        "E": "apenas II, III e IV."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nenhuma."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Matemática – Geometria Espacial (Posições Relativas)",
         "Matemática – Geometria Espacial (Distâncias)"
       ]
     },
     {
-      "numero_questao": 52,
+      "numeroEnunciado": 52,
       "enunciado": "Um dodecaedro regular tem 12 faces que são pentágonos regulares. Escolhendo-se 2 vértices distintos desse dodecaedro, a probabilidade de eles pertencerem a uma mesma aresta é igual a:",
-      "alternativas": {
-        "A": "3/100.",
-        "B": "3/95.",
-        "C": "3/190.",
-        "D": "1/2.",
-        "E": "2/3."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3/100."
+        },
+        {
+          "letra": "B",
+          "texto": "3/95."
+        },
+        {
+          "letra": "C",
+          "texto": "3/190."
+        },
+        {
+          "letra": "D",
+          "texto": "1/2."
+        },
+        {
+          "letra": "E",
+          "texto": "2/3."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Matemática – Geometria Espacial (Poliedros)",
         "Matemática – Probabilidade"
       ]
     },
     {
-      "numero_questao": 53,
+      "numeroEnunciado": 53,
       "enunciado": "Pretende-se distribuir 48 balas em 4 tigelas designadas pelas letras A, B, C e D. De quantas maneiras pode-se fazer essa distribuição de forma que todas as tigelas contenham ao menos 3 balas e a tigela B contenha a mesma quantidade que a tigela D.",
-      "alternativas": {
-        "A": "190.",
-        "B": "361.",
-        "C": "722.",
-        "D": "1083.",
-        "E": "1444."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "190."
+        },
+        {
+          "letra": "B",
+          "texto": "361."
+        },
+        {
+          "letra": "C",
+          "texto": "722."
+        },
+        {
+          "letra": "D",
+          "texto": "1083."
+        },
+        {
+          "letra": "E",
+          "texto": "1444."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Matemática – Análise Combinatória"
       ]
     },
     {
-      "numero_questao": 54,
+      "numeroEnunciado": 54,
       "enunciado": "Seja z ∈ C. Se a representação dos números 4, z + 2 e z² no plano complexo são vértices de um triângulo equilátero, então o comprimento do seu lado é igual a:",
-      "alternativas": {
-        "A": "3.",
-        "B": "√10.",
-        "C": "√11.",
-        "D": "2√3.",
-        "E": "√13."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3."
+        },
+        {
+          "letra": "B",
+          "texto": "√10."
+        },
+        {
+          "letra": "C",
+          "texto": "√11."
+        },
+        {
+          "letra": "D",
+          "texto": "2√3."
+        },
+        {
+          "letra": "E",
+          "texto": "√13."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Matemática – Números Complexos (Geometria no Plano Complexo)"
       ]
     },
     {
-      "numero_questao": 55,
+      "numeroEnunciado": 55,
       "enunciado": "Seja p(x) um polinômio com coeficientes inteiros tal que p(51) = 391 e 0 ≤ p(3) < 12. Então, p(3) é igual a:",
-      "alternativas": {
-        "A": "5.",
-        "B": "6.",
-        "C": "7.",
-        "D": "8.",
-        "E": "9."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5."
+        },
+        {
+          "letra": "B",
+          "texto": "6."
+        },
+        {
+          "letra": "C",
+          "texto": "7."
+        },
+        {
+          "letra": "D",
+          "texto": "8."
+        },
+        {
+          "letra": "E",
+          "texto": "9."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Matemática – Polinômios (Teorema do Resto)",
         "Matemática – Polinômios (Divisibilidade)"
       ]
     },
     {
-      "numero_questao": 56,
+      "numeroEnunciado": 56,
       "enunciado": "Considerando substâncias comparadas nas mesmas condições de pressão e temperatura, assinale a opção que apresenta a afirmação ERRADA sobre interações intermoleculares na fase líquida.",
-      "alternativas": {
-        "A": "Cis-1,2-dicloroeteno tem maior tensão superficial que trans-1,2-dicloroeteno.",
-        "B": "Benzeno tem maior tensão superficial que hexano.",
-        "C": "Propanona tem maior viscosidade que butano.",
-        "D": "Tiofenol tem maior viscosidade que fenol.",
-        "E": "A capilaridade da água em um tubo de vidro é maior que a do etanol."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cis-1,2-dicloroeteno tem maior tensão superficial que trans-1,2-dicloroeteno."
+        },
+        {
+          "letra": "B",
+          "texto": "Benzeno tem maior tensão superficial que hexano."
+        },
+        {
+          "letra": "C",
+          "texto": "Propanona tem maior viscosidade que butano."
+        },
+        {
+          "letra": "D",
+          "texto": "Tiofenol tem maior viscosidade que fenol."
+        },
+        {
+          "letra": "E",
+          "texto": "A capilaridade da água em um tubo de vidro é maior que a do etanol."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Química – Físico-Química (Forças Intermoleculares)",
         "Química – Físico-Química (Propriedades da Matéria)"
       ]
     },
     {
-      "numero_questao": 57,
+      "numeroEnunciado": 57,
       "enunciado": "Sejam dadas as reações no equilíbrio envolvidas nos processos de carga e descarga de uma bateria chumbo-ácido e seus respectivos potenciais padrão de eletrodo versus EPH (E°) ou constantes de dissociação ácidas (Ka), todos a 25 °C.\nSemirreações principais:\ni. PbSO4(s) + 2e⁻ = Pb(s) + SO4²⁻(aq) E°(V) = -0,36\nii. PbSO4(s) + H⁺(aq) + 2e⁻ = Pb(s) + HSO4⁻(aq) E°(V) = -0,30\niii. PbO2(s) + HSO4⁻(aq) + 3H⁺(aq) + 2e⁻ = PbSO4(s) + 2H2O(l) E°(V) = 1,63\niv. PbO2(s) + SO4²⁻(aq) + 4H⁺(aq) + 2e⁻ = PbSO4(s) + 2H2O(l) E°(V) = 1,69\nSemirreações secundárias:\nv. 2H⁺(aq) + 2e⁻ = H2(g) E°(V) = 0,00\nvi. O2(g) + 4H⁺(aq) + 4e⁻ = 2H2O(l) E°(V) = 1,23\nReações de equilíbrio ácido-base:\nvii. H2SO4(aq) = H⁺(aq) + HSO4⁻(aq) Ka = grande\nviii. HSO4⁻(aq) = H⁺(aq) + SO4²⁻(aq) Ka = 1×10⁻²\nSabe-se que a bateria converte Pb e PbO2 em PbSO4 na descarga e que, em condições normais, o pH da solução eletrolítica é menor que 1.\nA respeito dessa bateria, foram feitas as seguintes afirmações:\nI. Em condições normais, durante a descarga, a semirreação principal que ocorre no ânodo é a i e, no cátodo, é a iv.\nII. Em condições normais, o potencial da bateria no equilíbrio pode ser representado por E = 1,93 - 0,06pH + 0,06log[HSO4⁻].\nIII. Em condições padrão, a eletrólise da água sempre acontece.\nIV. Em pH ~ 2, os potenciais das semirreações secundárias igualam-se aos potenciais das semirreações principais do ânodo e do cátodo, respectivamente, portanto a eletrólise da água não ocorre quando o eletrólito tem pH > 2.\nConsiderando apenas argumentos baseados no equilíbrio termodinâmico a 25 °C, está(ão) ERRADA(S) apenas a(s) afirmação(ões)",
-      "alternativas": {
-        "A": "I.",
-        "B": "I e IV.",
-        "C": "II.",
-        "D": "II e III.",
-        "E": "III e IV."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "III e IV."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Química – Físico-Química (Eletroquímica)",
         "Química – Físico-Química (Equilíbrio Iônico)"
       ]
     },
     {
-      "numero_questao": 58,
+      "numeroEnunciado": 58,
       "enunciado": "Considere as seguintes proposições a respeito da química de compostos de carbono:\nI. Penteno e ciclopentano não são isômeros estruturais, enquanto butano e ciclobutano são.\nII. Cloroeteno pode sofrer polimerização por adição, enquanto o tetrafluoretano não.\nIII. 2-Bromopropano é opticamente ativo, enquanto 1,2-dicloropentano não é.\nIV. Sob exposição à luz, a reação entre cloro e metano ocorre por substituição. Por outro lado, na ausência de luz, a reação entre bromo e eteno ocorre por adição.\nV. A desidratação intramolecular de álcoois orgânicos forma alcenos.\nDas afirmações acima, está(ão) CORRETA(S) apenas",
-      "alternativas": {
-        "A": "I, II, III e V.",
-        "B": "I e IV.",
-        "C": "II, III e V.",
-        "D": "II, IV e V.",
-        "E": "III e IV."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II, III e V."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e V."
+        },
+        {
+          "letra": "D",
+          "texto": "II, IV e V."
+        },
+        {
+          "letra": "E",
+          "texto": "III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Química – Química Orgânica (Isomeria)",
         "Química – Química Orgânica (Reações Orgânicas)",
         "Química – Química Orgânica (Atividade Óptica)",
@@ -886,191 +1728,371 @@
       ]
     },
     {
-      "numero_questao": 59,
+      "numeroEnunciado": 59,
       "enunciado": "Considere a reação genérica A + 2B → C, cuja lei de velocidade é dada por v = k[A]α[B]β. Em um estudo cinético, foram obtidas as velocidades da reação em cinco experimentos distintos, em que as concentrações das espécies A e B variaram conforme a tabela abaixo.\nExperimento | [A] (mol·L⁻¹) | [B] (mol·L⁻¹) | v (mol·L⁻¹ min⁻¹)\n1           | 0,025         | 0,010         | 2,5 x 10⁻⁶\n2           | X             | 0,020         | 2,0 × 10⁻⁵\n3           | 0,025         | 0,005         | 1,25 x 10⁻⁶\n4           | 0,100         | 0,005         | Y\n5           | 0,050         | 0,010         | 1,0 × 10⁻⁵\nCom base nesses experimentos, assinale a opção que apresenta os valores corretos de α, β, k, X e Y, respectivamente.",
-      "alternativas": {
-        "A": "1; 1; 1×10⁻²; 1,0×10⁻¹ e 5,0×10⁻⁶",
-        "B": "1; 2; 1,0; 1,0×10⁻³ e 5,0×10⁻⁴",
-        "C": "1; 2; 1,0; 5,0×10⁻² e 2,5×10⁻⁴",
-        "D": "2; 1; 0,4; 2,5×10⁻³ e 2,0×10⁻³",
-        "E": "2; 1; 0,4; 5,0×10⁻² e 2,0×10⁻⁵"
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1; 1; 1×10⁻²; 1,0×10⁻¹ e 5,0×10⁻⁶"
+        },
+        {
+          "letra": "B",
+          "texto": "1; 2; 1,0; 1,0×10⁻³ e 5,0×10⁻⁴"
+        },
+        {
+          "letra": "C",
+          "texto": "1; 2; 1,0; 5,0×10⁻² e 2,5×10⁻⁴"
+        },
+        {
+          "letra": "D",
+          "texto": "2; 1; 0,4; 2,5×10⁻³ e 2,0×10⁻³"
+        },
+        {
+          "letra": "E",
+          "texto": "2; 1; 0,4; 5,0×10⁻² e 2,0×10⁻⁵"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Química – Físico-Química (Cinética Química)"
       ]
     },
     {
-      "numero_questao": 60,
+      "numeroEnunciado": 60,
       "enunciado": "Considere as seguintes proposições sobre ligações químicas:\nI. O comprimento de ligação e a energia de ligação são influenciados pela multiplicidade da ligação, pela ressonância e pelo raio atômico.\nII. Cargas formais consideram ligações químicas perfeitamente covalentes ao assumir que os elétrons são igualmente compartilhados.\nIII. O poder de polarização de um cátion é maior quanto maiores forem o seu volume e a sua carga. A interação deste cátion com um ânion altamente polarizável tende a apresentar um maior caráter covalente.\nIV. Na ressonância há uma diminuição da energia em função da contribuição de estruturas que possuem a mesma geometria, porém com diferentes arranjos dos elétrons.\nDas afirmações acima, está(ão) ERRADA(S) apenas",
-      "alternativas": {
-        "A": "I.",
-        "B": "I e II.",
-        "C": "II e IV.",
-        "D": "III.",
-        "E": "III e IV."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "III."
+        },
+        {
+          "letra": "E",
+          "texto": "III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Química – Química Geral (Ligações Químicas)",
         "Química – Química Geral (Ressonância)"
       ]
     },
     {
-      "numero_questao": 61,
+      "numeroEnunciado": 61,
       "enunciado": "Sabe-se que a condutividade molar (Λ) de uma solução iônica é dada pela razão entre a condutividade dessa solução (κ) e sua concentração molar. Considere soluções diluídas de CaCl2, NaCl e KCl com iguais concentrações em massa, para as quais são observadas as seguintes razões entre condutividades molares e entre massas molares (MM):\nΛCaCl₂/ΛNaCl = 1,9; ΛCaCl₂/ΛKCl = 1,8; MMCaCl₂/MMNaCl = 1,9; MMCaCl₂/MMKCl = 1,5.\nCom base nessas informações, assinale a opção CORRETA entre as condutividades das soluções.",
-      "alternativas": {
-        "A": "κCaCl₂ = κNaCl = κKCl",
-        "B": "κCaCl₂ = κNaCl > κKCl",
-        "C": "κCaCl₂ > κNaCl > κKCl",
-        "D": "κCaCl₂ < κNaCl < κKCl",
-        "E": "κCaCl₂ < κNaCl = κKCl"
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "κCaCl₂ = κNaCl = κKCl"
+        },
+        {
+          "letra": "B",
+          "texto": "κCaCl₂ = κNaCl > κKCl"
+        },
+        {
+          "letra": "C",
+          "texto": "κCaCl₂ > κNaCl > κKCl"
+        },
+        {
+          "letra": "D",
+          "texto": "κCaCl₂ < κNaCl < κKCl"
+        },
+        {
+          "letra": "E",
+          "texto": "κCaCl₂ < κNaCl = κKCl"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Química – Físico-Química (Soluções)",
         "Química – Físico-Química (Condutividade Elétrica)"
       ]
     },
     {
-      "numero_questao": 62,
+      "numeroEnunciado": 62,
       "enunciado": "A Análise Termogravimétrica (TGA) é uma técnica empregada para avaliar o comportamento térmico de amostras mensurando a variação de massa. A figura mostra a curva de TGA típica para o oxalato de cálcio monohidratado, submetido a uma taxa constante de aquecimento, sob fluxo de um gás inerte. Com base nessa figura e sabendo que a massa inicial corresponde a 100%, é ERRADO afirmar que\n(Gráfico de Massa % vs Temperatura (°C))",
-      "alternativas": {
-        "A": "a decomposição térmica do oxalato de cálcio ocorre em três etapas.",
-        "B": "água de hidratação é eliminada da estrutura cristalina do oxalato de cálcio a temperatura maior que 100 °C.",
-        "C": "a decomposição do oxalato de cálcio ocorre com formação de monóxido e de dióxido de carbono.",
-        "D": "o evento térmico que ocorre a 800 °C leva à formação de cal virgem.",
-        "E": "na decomposição do oxalato de cálcio, praticamente 40% da amostra é perdida na forma de gases."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a decomposição térmica do oxalato de cálcio ocorre em três etapas."
+        },
+        {
+          "letra": "B",
+          "texto": "água de hidratação é eliminada da estrutura cristalina do oxalato de cálcio a temperatura maior que 100 °C."
+        },
+        {
+          "letra": "C",
+          "texto": "a decomposição do oxalato de cálcio ocorre com formação de monóxido e de dióxido de carbono."
+        },
+        {
+          "letra": "D",
+          "texto": "o evento térmico que ocorre a 800 °C leva à formação de cal virgem."
+        },
+        {
+          "letra": "E",
+          "texto": "na decomposição do oxalato de cálcio, praticamente 40% da amostra é perdida na forma de gases."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Química – Físico-Química (Termoquímica)",
         "Química – Físico-Química (Análise Térmica)"
       ]
     },
     {
-      "numero_questao": 63,
+      "numeroEnunciado": 63,
       "enunciado": "Considere as seguintes proposições sobre processos termodinâmicos:\nI. A entropia permanece constante em um sistema fechado que sofre a ação de um processo reversível.\nII. A variação de entropia é nula dentro do sistema quando ele opera em um ciclo de Carnot.\nIII. O valor absoluto da variação da energia interna de um gás ideal numa expansão reversível adiabática é maior que numa expansão reversível isotérmica.\nIV. Energia interna é uma propriedade cuja variação pode ser medida pelo trabalho adiabático realizado entre dois estados.\nDas afirmações acima, está(ão) ERRADA(S) apenas",
-      "alternativas": {
-        "A": "I.",
-        "B": "I, II e IV.",
-        "C": "II e III.",
-        "D": "III.",
-        "E": "IV."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "III."
+        },
+        {
+          "letra": "E",
+          "texto": "IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Química – Físico-Química (Termodinâmica)"
       ]
     },
     {
-      "numero_questao": 64,
+      "numeroEnunciado": 64,
       "enunciado": "As fases condensadas da matéria são consequências da ação de forças que atuam entre os átomos, íons e moléculas. Com base em seus conhecimentos sobre o tema, considere as proposições abaixo:\n(1) O ponto de fusão do argônio é menor que o do xenônio em uma mesma pressão.\n(2) A pressão de vapor do dimetilpropano é maior que a do pentano.\n(3) O valor absoluto da energia potencial de interação entre a molécula de água e o Ca²⁺ é menor do que entre a molécula de água e o Al³⁺.\n(4) O valor absoluto da energia potencial de interação entre a molécula de água e o Ga³⁺ é maior do que entre a molécula de água e o Al³⁺.\nA soma dos números associados às proposições ERRADAS é igual a",
-      "alternativas": {
-        "A": "0.",
-        "B": "2.",
-        "C": "4.",
-        "D": "5.",
-        "E": "6."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0."
+        },
+        {
+          "letra": "B",
+          "texto": "2."
+        },
+        {
+          "letra": "C",
+          "texto": "4."
+        },
+        {
+          "letra": "D",
+          "texto": "5."
+        },
+        {
+          "letra": "E",
+          "texto": "6."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Química – Físico-Química (Estados da Matéria)",
         "Química – Físico-Química (Forças Intermoleculares)"
       ]
     },
     {
-      "numero_questao": 65,
+      "numeroEnunciado": 65,
       "enunciado": "Considere as proposições abaixo:\n(1) A intensidade da luz depende da frequência ou do comprimento de onda da radiação empregada.\n(2) Dentre as cores do espectro visível, a azul é a que possui maior intensidade devido ao seu menor comprimento de onda.\n(3) Dentro do espectro visível, a luz vermelha é a radiação que possui o menor comprimento de onda.\n(4) O estado do elétron em um átomo é completamente definido pelos números quânticos n, l, mᵢ, mₛ.\n(5) A configuração eletrônica dos átomos é determinada pelo princípio da construção, pelo princípio da exclusão de Pauli e pela regra de Hund.\n(6) Na tabela periódica, os pares de elementos com relação diagonal geralmente exibem propriedades químicas semelhantes.\nA soma dos números associados às sentenças ERRADAS é igual a",
-      "alternativas": {
-        "A": "3.",
-        "B": "6.",
-        "C": "9.",
-        "D": "10.",
-        "E": "12."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3."
+        },
+        {
+          "letra": "B",
+          "texto": "6."
+        },
+        {
+          "letra": "C",
+          "texto": "9."
+        },
+        {
+          "letra": "D",
+          "texto": "10."
+        },
+        {
+          "letra": "E",
+          "texto": "12."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Química – Química Geral (Estrutura Atômica)",
         "Química – Química Geral (Tabela Periódica)"
       ]
     },
     {
-      "numero_questao": 66,
+      "numeroEnunciado": 66,
       "enunciado": "Numa titulação de oxirredução, 50,00 mL de uma solução ácida de Fe(NO3)2 a 0,38 mol·L⁻¹ foi titulada com uma solução padronizada de permanganato de potássio a 4,2 × 10⁻² mol·L⁻¹, até que a solução resultante adquirisse leve coloração rósea. Sobre esta titulação, são feitas as seguintes afirmações:\n(1) O volume da solução de permanganato de potássio gasto na titulação foi de 100 mL.\n(2) O menor coeficiente estequiométrico inteiro para Fe²⁺ na reação redox balanceada é 7.\n(3) No ponto final, o volume total da solução será de 120 mL.\n(4) Um precipitado sólido de cor esverdeada será observado como produto dessa reação.\n(5) O número total de elétrons envolvidos na reação redox é 22 milimols.\n(6) A razão entre os volumes do titulante e do titulado no ponto final é 2,1.\nA soma dos números associados às afirmações CORRETAS é igual a",
-      "alternativas": {
-        "A": "0.",
-        "B": "1.",
-        "C": "3.",
-        "D": "6.",
-        "E": "11."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0."
+        },
+        {
+          "letra": "B",
+          "texto": "1."
+        },
+        {
+          "letra": "C",
+          "texto": "3."
+        },
+        {
+          "letra": "D",
+          "texto": "6."
+        },
+        {
+          "letra": "E",
+          "texto": "11."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Química – Físico-Química (Eletroquímica - Titulação Redox)",
         "Química – Estequiometria"
       ]
     },
     {
-      "numero_questao": 67,
+      "numeroEnunciado": 67,
       "enunciado": "Assinale a opção que apresenta a afirmação ERRADA sobre processos de oxidação e redução.",
-      "alternativas": {
-        "A": "Certas pilhas apresentam ânodo e cátodo constituídos de materiais metálicos de mesma natureza.",
-        "B": "Processos corrosivos são benéficos em muitas aplicações, como na oxidação de peças metálicas, com formação de película protetora.",
-        "C": "Uma forma de diminuir a velocidade da corrosão eletroquímica é diminuir a velocidade da reação catódica associada ao processo de corrosão.",
-        "D": "Na proteção catódica, a estrutura a ser protegida torna-se o cátodo de uma célula eletroquímica, não sendo necessária a utilização de uma fonte externa de corrente elétrica contínua caso a proteção ocorra com o uso de ânodo de sacrifício.",
-        "E": "Os valores de potenciais padrão de eletrodo indicam maior ou menor tendência termodinâmica para o processo de corrosão, além de fornecerem informações sobre a velocidade da reação."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Certas pilhas apresentam ânodo e cátodo constituídos de materiais metálicos de mesma natureza."
+        },
+        {
+          "letra": "B",
+          "texto": "Processos corrosivos são benéficos em muitas aplicações, como na oxidação de peças metálicas, com formação de película protetora."
+        },
+        {
+          "letra": "C",
+          "texto": "Uma forma de diminuir a velocidade da corrosão eletroquímica é diminuir a velocidade da reação catódica associada ao processo de corrosão."
+        },
+        {
+          "letra": "D",
+          "texto": "Na proteção catódica, a estrutura a ser protegida torna-se o cátodo de uma célula eletroquímica, não sendo necessária a utilização de uma fonte externa de corrente elétrica contínua caso a proteção ocorra com o uso de ânodo de sacrifício."
+        },
+        {
+          "letra": "E",
+          "texto": "Os valores de potenciais padrão de eletrodo indicam maior ou menor tendência termodinâmica para o processo de corrosão, além de fornecerem informações sobre a velocidade da reação."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Química – Físico-Química (Eletroquímica - Corrosão)",
         "Química – Físico-Química (Eletroquímica - Pilhas)"
       ]
     },
     {
-      "numero_questao": 68,
+      "numeroEnunciado": 68,
       "enunciado": "A respeito de basicidade, assinale a opção ERRADA.",
-      "alternativas": {
-        "A": "F⁻ é mais básico que Br⁻",
-        "B": "(éter) é mais básico que (tioéter)",
-        "C": "(amina alifática) é mais básico que (amina cíclica)",
-        "D": "(anilina) é mais básico que (metanol)",
-        "E": "(nitroanilina) é mais básico que (metilanilina)"
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "F⁻ é mais básico que Br⁻"
+        },
+        {
+          "letra": "B",
+          "texto": "(éter) é mais básico que (tioéter)"
+        },
+        {
+          "letra": "C",
+          "texto": "(amina alifática) é mais básico que (amina cíclica)"
+        },
+        {
+          "letra": "D",
+          "texto": "(anilina) é mais básico que (metanol)"
+        },
+        {
+          "letra": "E",
+          "texto": "(nitroanilina) é mais básico que (metilanilina)"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Química – Química Orgânica (Propriedades de Compostos Orgânicos - Basicidade)",
         "Química – Química Geral (Teoria Ácido-Base)"
       ]
     },
     {
-      "numero_questao": 69,
+      "numeroEnunciado": 69,
       "enunciado": "Considerando os átomos de F mais afastados um do outro, assinale a opção que apresenta as moléculas na ordem de maior para menor ângulo da ligação F-Y-F (Y = S, Cl ou Xe).",
-      "alternativas": {
-        "A": "ClF₃, SF₄, XeF₂",
-        "B": "ClF₃, XeF₂, SF₄",
-        "C": "SF₄, ClF₃, XeF₂",
-        "D": "SF₄, XeF₂, ClF₃",
-        "E": "XeF₂, SF₄, ClF₃"
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ClF₃, SF₄, XeF₂"
+        },
+        {
+          "letra": "B",
+          "texto": "ClF₃, XeF₂, SF₄"
+        },
+        {
+          "letra": "C",
+          "texto": "SF₄, ClF₃, XeF₂"
+        },
+        {
+          "letra": "D",
+          "texto": "SF₄, XeF₂, ClF₃"
+        },
+        {
+          "letra": "E",
+          "texto": "XeF₂, SF₄, ClF₃"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Química – Química Geral (Geometria Molecular)",
         "Química – Química Geral (Teoria VSEPR)"
       ]
     },
     {
-      "numero_questao": 70,
+      "numeroEnunciado": 70,
       "enunciado": "Considere as curvas de solubilidade de sais inorgânicos mostradas na figura. A respeito de alguns destes sais são feitas as seguintes afirmações:\nI. Dissolvendo-se 130 g de KNO₃ em 200 g de água, a 40 °C, obteremos uma solução saturada com depósito de 70 g desta substância que não será dissolvida.\nII. Se dissolvermos 20 g de Ce₂(SO₄)₃ em 300 g de água a 10 °C e, posteriormente, aquecermos esta solução a 90 °C, haverá gradativa precipitação da substância.\nIII. A menor quantidade de água necessária para dissolver completamente 140 g de K₂Cr₂O₇ a 90 °C é, aproximadamente, 150 g.\nIV. NaNO₃ é a substância mais solúvel a 30 °C.\nDas afirmações acima, está(ão) CORRETA(S)",
-      "alternativas": {
-        "A": "apenas I, II e IV.",
-        "B": "apenas I e III.",
-        "C": "apenas II.",
-        "D": "apenas III e IV.",
-        "E": "nenhuma."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I, II e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "nenhuma."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Química – Físico-Química (Soluções)",
         "Química – Físico-Química (Solubilidade)"
       ]

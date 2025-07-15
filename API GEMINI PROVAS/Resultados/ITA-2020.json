@@ -1,829 +1,1593 @@
 {
-  "analise_geral_da_prova": {
-    "universidade_prova": "ITA",
+  "prova": {
+    "nomeUniversidade": "Instituto Tecnológico de Aeronáutica",
+    "siglaUniversidade": "ITA",
+    "nomeProva": "ITA",
     "ano": 2020,
-    "quantidade_total_questoes": 70
+    "qtdeQuestoes": 70
   },
   "questoes": [
     {
-      "numero_questao": 1,
+      "numeroEnunciado": 1,
       "enunciado": "Considere uma teoria na qual a força de interação entre duas “cargas generalizadas” q1 e q2 em universos N-dimensionais é expressa por Fe = 9192/(krN-1), em que é uma constante característica do meio. A teoria também prevê uma força entre dois “polos generalizados\" p1 e p2 expressa por Fm = P1P2/(µrN-1), na qual é outra constante característica do meio. Sabe-se ainda que um polo p pode interagir com uma corrente de carga, i, gerando uma força F = ip/(rN-2). Em todos os casos, r representa a distância entre os entes interagentes. Considerando as grandezas fundamentais massa, comprimento, tempo e corrente de carga, assinale a alternativa que corresponde à fórmula dimensional de κμ.",
-      "alternativas": {
-        "A": "L2T-2",
-        "B": "L-2T2",
-        "C": "L-2T-2",
-        "D": "L1-NT2",
-        "E": "L-2TN-1"
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "L2T-2"
+        },
+        {
+          "letra": "B",
+          "texto": "L-2T2"
+        },
+        {
+          "letra": "C",
+          "texto": "L-2T-2"
+        },
+        {
+          "letra": "D",
+          "texto": "L1-NT2"
+        },
+        {
+          "letra": "E",
+          "texto": "L-2TN-1"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Física – Análise Dimensional"
       ]
     },
     {
-      "numero_questao": 2,
+      "numeroEnunciado": 2,
       "enunciado": "Um sistema de defesa aérea testa separadamente dois mísseis contra alvos móveis que se deslocam com velocidade va constante ao longo de uma reta distante de d do ponto de lançamento dos mísseis. Para atingir o alvo, o míssil 1 executa uma trajetória retilínea, enquanto o míssil 2, uma trajetória com velocidade sempre orientada para o alvo. A figura ilustra o instante de disparo de cada míssil, com o alvo passando pela origem do sistema de coordenadas xy. Sendo os módulos das velocidades dos mísseis iguais entre si, maiores que va e mantidos constantes, considere as seguintes afirmações: I. Os intervalos de tempo entre o disparo e a colisão podem ser iguais para ambos os mísseis. II. Para que o míssil 1 acerte o alvo é necessário que o módulo da componente y de sua velocidade seja igual a va. III. Desde o disparo até a colisão, o míssil 2 executa uma trajetória curva de concavidade positiva com relação ao sistema xy. Considerando V como verdadeira e F como falsa, as afirmações I, II e III são, respectivamente,",
-      "alternativas": {
-        "A": "V, Ve V.",
-        "B": "F, FeF.",
-        "C": "V, Fe V.",
-        "D": "F, VeF.",
-        "E": "F, Ve V."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, Ve V."
+        },
+        {
+          "letra": "B",
+          "texto": "F, FeF."
+        },
+        {
+          "letra": "C",
+          "texto": "V, Fe V."
+        },
+        {
+          "letra": "D",
+          "texto": "F, VeF."
+        },
+        {
+          "letra": "E",
+          "texto": "F, Ve V."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Física – Cinemática Vetorial"
       ]
     },
     {
-      "numero_questao": 3,
+      "numeroEnunciado": 3,
       "enunciado": "Um bloco de massa m sustentado por um par de molas idênticas, paralelas e de constante elástica k, desce verticalmente com velocidade constante e de módulo v controlada por um motor, conforme ilustra a figura. Se o motor travar repentinamente, ocorrerá uma força de tração máxima no cabo com módulo igual a",
-      "alternativas": {
-        "A": "mg + √(mg)2 + 2kmv2.",
-        "B": "mg + √(mg)2 + kmv2.",
-        "C": "mg+√2kmv2.",
-        "D": "mg + √4kmv2.",
-        "E": "mg + √kmv2."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mg + √(mg)2 + 2kmv2."
+        },
+        {
+          "letra": "B",
+          "texto": "mg + √(mg)2 + kmv2."
+        },
+        {
+          "letra": "C",
+          "texto": "mg+√2kmv2."
+        },
+        {
+          "letra": "D",
+          "texto": "mg + √4kmv2."
+        },
+        {
+          "letra": "E",
+          "texto": "mg + √kmv2."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Física – Dinâmica",
         "Física – Trabalho e Energia",
         "Física – Oscilações"
       ]
     },
     {
-      "numero_questao": 4,
+      "numeroEnunciado": 4,
       "enunciado": "Por uma mangueira de diâmetro D₁ flui água a uma velocidade de 360 m/min, conectando-se na sua extremidade a 30 outras mangueiras iguais entre si, de diâmetro D2 < D1. Assinale a relação D2/D1 para que os jatos de água na saída das mangueiras tenham alcance horizontal máximo de 40 m.",
-      "alternativas": {
-        "A": "1/10.",
-        "B": "√3/10.",
-        "C": "4/5.",
-        "D": "1/2.",
-        "E": "√2/3."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/10."
+        },
+        {
+          "letra": "B",
+          "texto": "√3/10."
+        },
+        {
+          "letra": "C",
+          "texto": "4/5."
+        },
+        {
+          "letra": "D",
+          "texto": "1/2."
+        },
+        {
+          "letra": "E",
+          "texto": "√2/3."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Física – Hidrodinâmica",
         "Física – Lançamento de Projéteis"
       ]
     },
     {
-      "numero_questao": 5,
+      "numeroEnunciado": 5,
       "enunciado": "Um satélite artificial viaja em direção a um planeta ao longo de uma trajetória parabólica. A uma distância d desse corpo celeste, propulsores são acionados de modo a, a partir daquele instante, mudar o módulo da velocidade do satélite de vp para ve e também a sua trajetória, que passa a ser elíptica em torno do planeta, com semieixo maior a. Sendo a massa do satélite desproporcionalmente menor que a do planeta, a razão ve/vp é dada por",
-      "alternativas": {
-        "A": "1-d/2a",
-        "B": "2d/a",
-        "C": "1-d/2a",
-        "D": "1 + d/2α",
-        "E": "1-d/a"
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1-d/2a"
+        },
+        {
+          "letra": "B",
+          "texto": "2d/a"
+        },
+        {
+          "letra": "C",
+          "texto": "1-d/2a"
+        },
+        {
+          "letra": "D",
+          "texto": "1 + d/2α"
+        },
+        {
+          "letra": "E",
+          "texto": "1-d/a"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Física – Gravitação Universal",
         "Física – Órbitas"
       ]
     },
     {
-      "numero_questao": 6,
+      "numeroEnunciado": 6,
       "enunciado": "Uma pequena esfera com peso de módulo Pé arremessada verticalmente para cima com velocidade de módulo Vo a partir do solo. Durante todo o percurso, atua sobre a esfera uma força de resistência do ar de módulo F constante. A distância total percorrida pela esfera após muitas reflexões elásticas com o solo é dada aproximadamente por",
-      "alternativas": {
-        "A": "V(P-F) / 2gF",
-        "B": "V3(P+F) / 2gF",
-        "C": "2VP / gF",
-        "D": "VP / 2gF",
-        "E": "VP / gF"
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V(P-F) / 2gF"
+        },
+        {
+          "letra": "B",
+          "texto": "V3(P+F) / 2gF"
+        },
+        {
+          "letra": "C",
+          "texto": "2VP / gF"
+        },
+        {
+          "letra": "D",
+          "texto": "VP / 2gF"
+        },
+        {
+          "letra": "E",
+          "texto": "VP / gF"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Física – Trabalho e Energia",
         "Física – Forças Dissipativas"
       ]
     },
     {
-      "numero_questao": 7,
+      "numeroEnunciado": 7,
       "enunciado": "A figura ilustra um experimento numa plataforma que, no referencial de um observador externo, se move com velocidade v constante de módulo comparável ao da velocidade da luz. No instante to, a fonte F emite um pulso de luz de comprimento de onda λ que incide sobre a placa metálica A, sendo por ela absorvido e, em consequência, emitindo elétrons, que são desacelerados pela diferença de potencial VAB. Considerando que os elétrons atingem a placa B a partir do instante t, assinale a alternativa que referencia apenas variações independentes que diminuem o intervalo de tempo ∆t = t - to medido pelo observador.",
-      "alternativas": {
-        "A": "Aumento de λ, aumento de VAB, diminuição de v.",
-        "B": "Diminuição de λ, diminuição de VAB, diminuição de v.",
-        "C": "Diminuição de λ, aumento de VAB, diminuição de v.",
-        "D": "Diminuição de λ, diminuição de VAB, aumento de v.",
-        "E": "Aumento de λ, aumento de VAB, aumento de v."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aumento de λ, aumento de VAB, diminuição de v."
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuição de λ, diminuição de VAB, diminuição de v."
+        },
+        {
+          "letra": "C",
+          "texto": "Diminuição de λ, aumento de VAB, diminuição de v."
+        },
+        {
+          "letra": "D",
+          "texto": "Diminuição de λ, diminuição de VAB, aumento de v."
+        },
+        {
+          "letra": "E",
+          "texto": "Aumento de λ, aumento de VAB, aumento de v."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Física – Relatividade Especial",
         "Física – Efeito Fotoelétrico"
       ]
     },
     {
-      "numero_questao": 8,
+      "numeroEnunciado": 8,
       "enunciado": "Num ambiente controlado, o período de um pêndulo simples é medido a uma temperatura T. Sendo α = 2 × 10−4 °C−1 o coeficiente de dilatação linear do fio do pêndulo, e considerando a aproximação binomial (1 + x)n ≈ 1 + nx, para |x| ≪ 1, pode-se dizer que, com aumento de 10°C, o período do pêndulo",
-      "alternativas": {
-        "A": "aumenta de 0,1%.",
-        "B": "aumenta de 0,05%.",
-        "C": "diminui de 0,1%.",
-        "D": "diminui de 0,05%.",
-        "E": "permanece inalterado."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumenta de 0,1%."
+        },
+        {
+          "letra": "B",
+          "texto": "aumenta de 0,05%."
+        },
+        {
+          "letra": "C",
+          "texto": "diminui de 0,1%."
+        },
+        {
+          "letra": "D",
+          "texto": "diminui de 0,05%."
+        },
+        {
+          "letra": "E",
+          "texto": "permanece inalterado."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Física – Termodinâmica",
         "Física – Dilatação Térmica",
         "Física – Pêndulo Simples"
       ]
     },
     {
-      "numero_questao": 9,
+      "numeroEnunciado": 9,
       "enunciado": "Uma certa quantidade de gás com temperatura inicial To, pressão Po e volume Vo, é aquecida por uma corrente elétrica que flui por um fio de platina num intervalo de tempo At. Esse procedimento é feito duas vezes: primeiro, com volume constante Vo e pressão variando de Po para P₁ e, a seguir, com pressão constante Po e volume variando de Vo para V₁. Assinale a alternativa que explicita a relação Cp/Cv do gás.",
-      "alternativas": {
-        "A": "(Po/V1 - 1) / (P1/Vo - 1)",
-        "B": "(P1/Po - 1) / (V1/Vo - 1)",
-        "C": "(2Po/P1 - 1) / (Vo/V1 - 1)",
-        "D": "(2P1/Po - 1) / (2V1/Vo - 1)",
-        "E": "(P1/Po - 1) / (2V1/Vo - 1)"
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(Po/V1 - 1) / (P1/Vo - 1)"
+        },
+        {
+          "letra": "B",
+          "texto": "(P1/Po - 1) / (V1/Vo - 1)"
+        },
+        {
+          "letra": "C",
+          "texto": "(2Po/P1 - 1) / (Vo/V1 - 1)"
+        },
+        {
+          "letra": "D",
+          "texto": "(2P1/Po - 1) / (2V1/Vo - 1)"
+        },
+        {
+          "letra": "E",
+          "texto": "(P1/Po - 1) / (2V1/Vo - 1)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Física – Termodinâmica",
         "Física – Calorimetria"
       ]
     },
     {
-      "numero_questao": 10,
+      "numeroEnunciado": 10,
       "enunciado": "Ao redor de um cilindro de massa m, raio a e comprimento b, são enroladas simétrica e longitudinalmente N espiras. Estas são dispostas paralelamente a um plano inclinado onde se encontra um cilindro, que não desliza devido ao atrito com a superfície do plano. Considerando a existência de um campo magnético uniforme e vertical B na região, assinale a intensidade da corrente i que deve circular nas espiras para que o conjunto permaneça em repouso na posição indicada pela figura.",
-      "alternativas": {
-        "A": "mg / 26B",
-        "B": "Nmg / 2aB",
-        "C": "Nmg / bB",
-        "D": "mg / 2aBN",
-        "E": "mg / 2bBN"
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mg / 26B"
+        },
+        {
+          "letra": "B",
+          "texto": "Nmg / 2aB"
+        },
+        {
+          "letra": "C",
+          "texto": "Nmg / bB"
+        },
+        {
+          "letra": "D",
+          "texto": "mg / 2aBN"
+        },
+        {
+          "letra": "E",
+          "texto": "mg / 2bBN"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Física – Eletromagnetismo",
         "Física – Força Magnética",
         "Física – Equilíbrio de Corpos Rígidos"
       ]
     },
     {
-      "numero_questao": 11,
+      "numeroEnunciado": 11,
       "enunciado": "O som produzido pelo alto-falante F (fonte) ilustrado na figura tem frequência de 10 kHz e chega a um microfone M através de dois caminhos diferentes. As ondas sonoras viajam simultaneamente pelo tubo esquerdo FXM, de comprimento fixo, e pelo tubo direito FYM, cujo comprimento pode ser alterado movendo-se a seção deslizante (tal qual um trombone). As ondas que viajam pelos dois caminhos interferem-se em M. Quando a seção deslizante do caminho FYM é puxada para fora por 0,025 m, a intensidade sonora detectada pelo microfone passa de um máximo para um mínimo. Assinale o módulo da velocidade do som no interior do tubo.",
-      "alternativas": {
-        "A": "5,0×102 m/s",
-        "B": "2,5×102 m/s",
-        "C": "1,0×103 m/s",
-        "D": "2,0×103 m/s",
-        "E": "3,4×102 m/s"
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,0×102 m/s"
+        },
+        {
+          "letra": "B",
+          "texto": "2,5×102 m/s"
+        },
+        {
+          "letra": "C",
+          "texto": "1,0×103 m/s"
+        },
+        {
+          "letra": "D",
+          "texto": "2,0×103 m/s"
+        },
+        {
+          "letra": "E",
+          "texto": "3,4×102 m/s"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Física – Ondas Sonoras",
         "Física – Interferência de Ondas"
       ]
     },
     {
-      "numero_questao": 12,
+      "numeroEnunciado": 12,
       "enunciado": "Considere o circuito da figura no qual há uma chave elétrica, um reostato linear de comprimento total de 20 cm, uma fonte de tensão V = 1,5 V e um capacitor de capacitância C = 10 µF conectado a um ponto intermediário do reostato, de modo a manter contato elétrico e permitir seu carregamento. A resistência R entre uma das extremidades do reostato e o ponto de contato elétrico, a uma distância x, varia segundo o gráfico ao lado. Com a chave fechada e no regime estacionário, a carga no capacitor é igual a",
-      "alternativas": {
-        "A": "1,5 mC.",
-        "B": "75 μC.",
-        "C": "75x µC/cm.",
-        "D": "15x µC/cm.",
-        "E": "7,5 μC."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,5 mC."
+        },
+        {
+          "letra": "B",
+          "texto": "75 μC."
+        },
+        {
+          "letra": "C",
+          "texto": "75x µC/cm."
+        },
+        {
+          "letra": "D",
+          "texto": "15x µC/cm."
+        },
+        {
+          "letra": "E",
+          "texto": "7,5 μC."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Física – Eletrodinâmica",
         "Física – Capacitores"
       ]
     },
     {
-      "numero_questao": 13,
+      "numeroEnunciado": 13,
       "enunciado": "Três esferas idênticas de massa m, carga elétrica Q e dimensões desprezíveis, são presas a extremidades de fios isolantes e inextensíveis de comprimento l. As demais pontas dos fios são fixadas a um ponto P, que sustenta as massas. Na condição de equilíbrio do sistema, verifica-se que o ângulo entre um dos fios e a direção vertical é θ, conforme mostra a figura. Sendo ε0 a permissividade elétrica do meio, o valor da carga elétrica Q é dada por",
-      "alternativas": {
-        "A": "l√(12πεοmg senθ cos θ).",
-        "B": "l√(4περmg tg0√3).",
-        "C": "l senθ√ 4περmg tg0√3.",
-        "D": "l senθ √(4πε0mg tg 0 / √3)",
-        "E": "lsen θ√ 4περmg tg0."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "l√(12πεοmg senθ cos θ)."
+        },
+        {
+          "letra": "B",
+          "texto": "l√(4περmg tg0√3)."
+        },
+        {
+          "letra": "C",
+          "texto": "l senθ√ 4περmg tg0√3."
+        },
+        {
+          "letra": "D",
+          "texto": "l senθ √(4πε0mg tg 0 / √3)"
+        },
+        {
+          "letra": "E",
+          "texto": "lsen θ√ 4περmg tg0."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Física – Eletrostática",
         "Física – Equilíbrio de Forças"
       ]
     },
     {
-      "numero_questao": 14,
+      "numeroEnunciado": 14,
       "enunciado": "Dois raios luminosos paralelos e simétricos em relação ao eixo óptico, interdistantes de 2 mm, devem ser focados em um ponto P no interior de um bloco transparente, a 1 mm de sua superfície, conforme mostra a figura. Para tal, utiliza-se uma lente delgada convergente com distância focal de 1 mm. Considerando que o bloco tem índice de refração n = √2, a distância L entre o vértice V da lente e a superfície do bloco deve ser ajustada para",
-      "alternativas": {
-        "A": "1 mm.",
-        "B": "√2/2 mm.",
-        "C": "(1-√2/2) mm.",
-        "D": "√3/3 mm.",
-        "E": "(1 - √3/3) mm."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 mm."
+        },
+        {
+          "letra": "B",
+          "texto": "√2/2 mm."
+        },
+        {
+          "letra": "C",
+          "texto": "(1-√2/2) mm."
+        },
+        {
+          "letra": "D",
+          "texto": "√3/3 mm."
+        },
+        {
+          "letra": "E",
+          "texto": "(1 - √3/3) mm."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Física – Óptica Geométrica",
         "Física – Lentes Esféricas",
         "Física – Refração"
       ]
     },
     {
-      "numero_questao": 15,
+      "numeroEnunciado": 15,
       "enunciado": "Considere um sistema de três máquinas térmicas M1, M2 e M3 acopladas, tal que o rejeito energético de uma é aproveitado pela seguinte. Sabe-se que a cada ciclo, M₁ recebe 800 kJ de calor de uma fonte quente a 300 K e rejeita 600 kJ, dos quais 150 kJ são aproveitados por M2 para realização de trabalho. Por fim, M3 aproveita o rejeito de M2 e descarta 360 kJ em uma fonte fria a 6 K. São feitas as seguintes afirmações: I. É inferior a 225 K a temperatura da fonte fria de M₁. II. O rendimento do sistema é de 55%. III. O rendimento do sistema corresponde a 80% do rendimento de uma máquina de Carnot operando entre as mesmas temperaturas. Conclui-se então que",
-      "alternativas": {
-        "A": "somente a afirmação I está incorreta.",
-        "B": "somente a afirmação II está incorreta.",
-        "C": "somente a afirmação III está incorreta.",
-        "D": "todas as afirmações estão corretas.",
-        "E": "as afirmações I e III estão incorretas."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "somente a afirmação I está incorreta."
+        },
+        {
+          "letra": "B",
+          "texto": "somente a afirmação II está incorreta."
+        },
+        {
+          "letra": "C",
+          "texto": "somente a afirmação III está incorreta."
+        },
+        {
+          "letra": "D",
+          "texto": "todas as afirmações estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "as afirmações I e III estão incorretas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Física – Termodinâmica",
         "Física – Máquinas Térmicas",
         "Física – Rendimento de Carnot"
       ]
     },
     {
-      "numero_questao": 16,
+      "numeroEnunciado": 16,
       "enunciado": "Leia atentamente o trecho destacado e assinale a alternativa que apresenta apenas a(s) afirmação(ões) correta(s). O assombro de Itaguaí. E agora prepare-se o leitor para o mesmo assombro em que ficou a vila, ao saber um dia que os loucos da Casa Verde iam todos ser postos na rua. -Todos? -Todos. -É impossível; alguns, sim, mas todos... -Todos. Assim o disse ele no ofício que mandou hoje de manhã à câmara. [Contos, p. 315]. I. O narrador combina diferentes gêneros — crônica histórica, poesia etc. — para registrar a linguagem popular. II. O diálogo com o leitor tem o objetivo de envolvê-lo na narrativa. III. O título e o diálogo com o leitor evidenciam a ironia do narrador.",
-      "alternativas": {
-        "A": "I e II são corretas.",
-        "B": "Apenas II é correta.",
-        "C": "II e III são corretas.",
-        "D": "Apenas I é correta.",
-        "E": "Todas as anteriores são incorretas."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II é correta."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I é correta."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as anteriores são incorretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Língua Portuguesa – Análise Literária",
         "Língua Portuguesa – Machado de Assis (\"O Alienista\")"
       ]
     },
     {
-      "numero_questao": 17,
+      "numeroEnunciado": 17,
       "enunciado": "Leia atentamente e assinale a alternativa correta. A verdade é que nunca soube quais foram os meus atos bons e quais foram os maus. Fiz coisas boas que me trouxeram prejuízo; fiz coisas ruins que deram lucro. E como sempre tive a intenção de possuir as terras de S. Bernardo, considerei legítimas as ações que me levaram a obtê-las. [S. Bernardo, p. 48]. Com base no trecho destacado, é possível dizer que, para o protagonista",
-      "alternativas": {
-        "A": "qualquer fim justifica qualquer meio e não há nem bem em si nem mal em si.",
-        "B": "há bem e mal, mas qualquer meio para possuir as terras de S. Bernardo é legítimo.",
-        "C": "todos os meios são bons em si, mas não todos os fins.",
-        "D": "nenhum meio é ruim tendo em vista um fim legítimo.",
-        "E": "nenhuma finalidade é legítima, mas há meios bons e meios ruins."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "qualquer fim justifica qualquer meio e não há nem bem em si nem mal em si."
+        },
+        {
+          "letra": "B",
+          "texto": "há bem e mal, mas qualquer meio para possuir as terras de S. Bernardo é legítimo."
+        },
+        {
+          "letra": "C",
+          "texto": "todos os meios são bons em si, mas não todos os fins."
+        },
+        {
+          "letra": "D",
+          "texto": "nenhum meio é ruim tendo em vista um fim legítimo."
+        },
+        {
+          "letra": "E",
+          "texto": "nenhuma finalidade é legítima, mas há meios bons e meios ruins."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Língua Portuguesa – Análise Literária",
         "Língua Portuguesa – Graciliano Ramos (\"São Bernardo\")"
       ]
     },
     {
-      "numero_questao": 18,
+      "numeroEnunciado": 18,
       "enunciado": "Leia atentamente e assinale a alternativa correta. -Escola! Que me importava que os outros soubessem ler ou fossem analfabetos? Esses homens de governo têm um parafuso frouxo. Metam pessoal letrado na apanha da mamona. Hão de ver a colheita. [S. Bernardo, p. 50]. Conforme ficamos sabendo logo adiante no enredo, Paulo Honório decide, apesar do que afirma no trecho destacado, construir uma escola em S. Bernardo porque",
-      "alternativas": {
-        "A": "teme as retaliações do governo.",
-        "B": "tem interesse em conseguir as benevolências do governador.",
-        "C": "está preocupado com as ocupações de Madalena.",
-        "D": "está preocupado em dar um emprego a Padilha.",
-        "E": "não crê na educação como um direito universal."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "teme as retaliações do governo."
+        },
+        {
+          "letra": "B",
+          "texto": "tem interesse em conseguir as benevolências do governador."
+        },
+        {
+          "letra": "C",
+          "texto": "está preocupado com as ocupações de Madalena."
+        },
+        {
+          "letra": "D",
+          "texto": "está preocupado em dar um emprego a Padilha."
+        },
+        {
+          "letra": "E",
+          "texto": "não crê na educação como um direito universal."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Língua Portuguesa – Análise Literária",
         "Língua Portuguesa – Graciliano Ramos (\"São Bernardo\")"
       ]
     },
     {
-      "numero_questao": 19,
+      "numeroEnunciado": 19,
       "enunciado": "Leia atentamente e assinale a alternativa correta. E ela conhecia e temia os repentes de Nhô Augusto. Duro, doido e sem detença, cото um bicho grande do mato. E, em casa, sempre fechado em si. Nem com a menina se importava. Dela, Dionóra, gostavα, ὰς vezes; da sua boca, das suas carnes. Só. No mais, sempre com OS capangas, com mulheres perdidas, com o que houvesse de Quando procuramos entender-nos, já pior. [...] E sem efeito eram sempre as orações e promessas, com que ela 0 pretendera trazer, pelo menos, até a meio caminho direito. [Sagarana, p. 297]. Pareceu-me que havia ali um equívoco e que, se Madalena quisesse, tudo se esclareceria. O coração dava-me coices desesperados, desejei doidamente convencer-me da inocência dela. -Para quê? murmurou Madalena. Há três anos vivemos uma vida horrível. temos a certeza de que acabamos brigando. [S. Bernardo, p. 189]. A ( ) Dionóra e Madalena são apaixonadas por seus maridos e não ousam enfrentá-los, como confirmam, respectivamente, os testemunhos de Tião da Thereza e D. Glória. B ( ) Dionóra e Madalena inicialmente têm afeto por seus maridos, mas, aconselhadas pelos padres em cada narrativa, acabam por se desiludir e resolvem se separar. C() Dionóra e Madalena nunca amaram seus maridos, mas mantiveram seus respectivos casamentos por conveniência, como elas mesmas afirmam. D() Dionóra e Madalena são mulheres que, em algum momento, amaram seus maridos, mas não conseguiram suportar as condições de seus respectivos casamentos, conforme seus desfechos evidenciam. E () Dionóra e Madalena nunca amaram seus maridos e conseguiram se libertar de seus casamentos infelizes, conforme seus desfechos evidenciam.",
-      "alternativas": {
-        "A": "Dionóra e Madalena são apaixonadas por seus maridos e não ousam enfrentá-los, como confirmam, respectivamente, os testemunhos de Tião da Thereza e D. Glória.",
-        "B": "Dionóra e Madalena inicialmente têm afeto por seus maridos, mas, aconselhadas pelos padres em cada narrativa, acabam por se desiludir e resolvem se separar.",
-        "C": "Dionóra e Madalena nunca amaram seus maridos, mas mantiveram seus respectivos casamentos por conveniência, como elas mesmas afirmam.",
-        "D": "Dionóra e Madalena são mulheres que, em algum momento, amaram seus maridos, mas não conseguiram suportar as condições de seus respectivos casamentos, conforme seus desfechos evidenciam.",
-        "E": "Dionóra e Madalena nunca amaram seus maridos e conseguiram se libertar de seus casamentos infelizes, conforme seus desfechos evidenciam."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dionóra e Madalena são apaixonadas por seus maridos e não ousam enfrentá-los, como confirmam, respectivamente, os testemunhos de Tião da Thereza e D. Glória."
+        },
+        {
+          "letra": "B",
+          "texto": "Dionóra e Madalena inicialmente têm afeto por seus maridos, mas, aconselhadas pelos padres em cada narrativa, acabam por se desiludir e resolvem se separar."
+        },
+        {
+          "letra": "C",
+          "texto": "Dionóra e Madalena nunca amaram seus maridos, mas mantiveram seus respectivos casamentos por conveniência, como elas mesmas afirmam."
+        },
+        {
+          "letra": "D",
+          "texto": "Dionóra e Madalena são mulheres que, em algum momento, amaram seus maridos, mas não conseguiram suportar as condições de seus respectivos casamentos, conforme seus desfechos evidenciam."
+        },
+        {
+          "letra": "E",
+          "texto": "Dionóra e Madalena nunca amaram seus maridos e conseguiram se libertar de seus casamentos infelizes, conforme seus desfechos evidenciam."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Língua Portuguesa – Análise Literária",
         "Língua Portuguesa – Graciliano Ramos (\"São Bernardo\")",
         "Língua Portuguesa – Guimarães Rosa (\"Sagarana\")"
       ]
     },
     {
-      "numero_questao": 20,
+      "numeroEnunciado": 20,
       "enunciado": "Leia o trecho destacado para responder às questões 20 e 21. Mas, apesar de montado, o chefe ainda chamou Nhô Augusto, para dizer: —Mano velho, o senhor gosta de briga, e entende. Está-se vendo que não viveu sempre aqui nesta grota, capinando roça e cortando lenha... Não quero especular coisa de sua vida p'ra trás, nem se está se escondendo de algum crime. Mas, comigo é que o senhor havia de dar sorte! Quer se amadrinhar com meu povo? Quer vir junto? —Ah, não posso! Não me tenta, que eu não posso, seu Joãozinho Bem-Bem... —Pois então, mano velho, paciência. —Mas nunca que eu hei de me esquecer dessa sua bizarria, meu amigo, meu parente, seu Joãozinho Bem-Bem! [Sagarana, p. 319]. Questão 20. No contexto da narrativa, a resposta de Augusto Matraga é sinal de sua",
-      "alternativas": {
-        "A": "regeneração, pois ele não quer voltar a ser injusto.",
-        "B": "falta de caráter, pois significa uma traição para seu Joãozinho Bem-Bem.",
-        "C": "amizade com seu Joãozinho Bem-Bem, pois ele o chama de amigo.",
-        "D": "covardia, pois ele recusa unir-se ao bando de jagunços por medo.",
-        "E": "altivez, pois ele não cede à tentação."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "regeneração, pois ele não quer voltar a ser injusto."
+        },
+        {
+          "letra": "B",
+          "texto": "falta de caráter, pois significa uma traição para seu Joãozinho Bem-Bem."
+        },
+        {
+          "letra": "C",
+          "texto": "amizade com seu Joãozinho Bem-Bem, pois ele o chama de amigo."
+        },
+        {
+          "letra": "D",
+          "texto": "covardia, pois ele recusa unir-se ao bando de jagunços por medo."
+        },
+        {
+          "letra": "E",
+          "texto": "altivez, pois ele não cede à tentação."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Língua Portuguesa – Análise Literária",
         "Língua Portuguesa – Guimarães Rosa (\"A Hora e Vez de Augusto Matraga\")"
       ]
     },
     {
-      "numero_questao": 21,
+      "numeroEnunciado": 21,
       "enunciado": "Assinale a alternativa que apresenta corretamente o sentido de BIZARRIA no trecho destacado.",
-      "alternativas": {
-        "A": "Excentricidade.",
-        "B": "Nobreza de caráter ou brio.",
-        "C": "Esquisitice.",
-        "D": "Elegância, garbo.",
-        "E": "Arrogância ou insolência."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Excentricidade."
+        },
+        {
+          "letra": "B",
+          "texto": "Nobreza de caráter ou brio."
+        },
+        {
+          "letra": "C",
+          "texto": "Esquisitice."
+        },
+        {
+          "letra": "D",
+          "texto": "Elegância, garbo."
+        },
+        {
+          "letra": "E",
+          "texto": "Arrogância ou insolência."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Língua Portuguesa – Vocabulário",
         "Língua Portuguesa – Análise Semântica"
       ]
     },
     {
-      "numero_questao": 22,
+      "numeroEnunciado": 22,
       "enunciado": "Leia o trecho destacado para responder às questões 22 e 23. O vereador fez esta reflexão: —Nada tenho que ver com a ciência; mas se tantos homens em quem supomos juízo são reclusos por dementes, quem nos afirma que o alienado não é o alienista? [Contos, p. 299]. Questão 22. Assinale a alternativa correta:",
-      "alternativas": {
-        "A": "A dificuldade de diferenciar claramente entre razão e loucura mostra que Simão Bacamarte sempre foi plenamente razoável.",
-        "B": "Simão Bacamarte nunca desejou distinguir entre razão e loucura, como ele mesmo afirma e o vereador concorda.",
-        "C": "O trecho, em discurso direto, revela as influências românticas no estilo realista do autor.",
-        "D": "A intenção satírica da narrativa é ofuscada pelo discurso direto.",
-        "E": "A suspeita levantada pelo vereador evidencia a comédia de erros e as contradições do protagonista."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A dificuldade de diferenciar claramente entre razão e loucura mostra que Simão Bacamarte sempre foi plenamente razoável."
+        },
+        {
+          "letra": "B",
+          "texto": "Simão Bacamarte nunca desejou distinguir entre razão e loucura, como ele mesmo afirma e o vereador concorda."
+        },
+        {
+          "letra": "C",
+          "texto": "O trecho, em discurso direto, revela as influências românticas no estilo realista do autor."
+        },
+        {
+          "letra": "D",
+          "texto": "A intenção satírica da narrativa é ofuscada pelo discurso direto."
+        },
+        {
+          "letra": "E",
+          "texto": "A suspeita levantada pelo vereador evidencia a comédia de erros e as contradições do protagonista."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Língua Portuguesa – Análise Literária",
         "Língua Portuguesa – Machado de Assis (\"O Alienista\")"
       ]
     },
     {
-      "numero_questao": 23,
+      "numeroEnunciado": 23,
       "enunciado": "Acerca do sentido da narrativa, o trecho destacado permite afirmar que",
-      "alternativas": {
-        "A": "conforme afirma Padre Lopes, apenas a teologia distingue nitidamente entre razão e loucura.",
-        "B": "apenas quem for cientista, como Simão Bacamarte, e não louco, tem condições de distinguir nitidamente entre razão e loucura.",
-        "C": "só é louco quem, como D. Evarista, não consegue estabelecer normas para a própria vida.",
-        "D": "a tentativa de distinguir clara e distintamente entre razão e loucura é uma presunção absurda, própria de pessoas desequilibradas, como se revela o protagonista.",
-        "E": "como exemplifica a prisão da esposa do boticário, saber como e quando tolerar infrações e desvios da norma dominante não basta para assegurar que alguém é perfeitamente razoável."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conforme afirma Padre Lopes, apenas a teologia distingue nitidamente entre razão e loucura."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas quem for cientista, como Simão Bacamarte, e não louco, tem condições de distinguir nitidamente entre razão e loucura."
+        },
+        {
+          "letra": "C",
+          "texto": "só é louco quem, como D. Evarista, não consegue estabelecer normas para a própria vida."
+        },
+        {
+          "letra": "D",
+          "texto": "a tentativa de distinguir clara e distintamente entre razão e loucura é uma presunção absurda, própria de pessoas desequilibradas, como se revela o protagonista."
+        },
+        {
+          "letra": "E",
+          "texto": "como exemplifica a prisão da esposa do boticário, saber como e quando tolerar infrações e desvios da norma dominante não basta para assegurar que alguém é perfeitamente razoável."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Língua Portuguesa – Análise Literária",
         "Língua Portuguesa – Machado de Assis (\"O Alienista\")"
       ]
     },
     {
-      "numero_questao": 24,
+      "numeroEnunciado": 24,
       "enunciado": "Assinale a alternativa que relaciona corretamente um trecho em discurso indireto livre e sua função.",
-      "alternativas": {
-        "A": "Dar a conhecer os pensamentos da personagem, como em: “Dionóra amara- o três anos, dois anos dera-os às dúvidas, e o suportara os demais. Agora, porém, tinha aparecido outro. Não, só de por aquilo na ideia, já sentia medo... Por si e pela filha... Um medo imenso. Se fosse, se aceitasse de ir com o outro, Nhô Augusto era capaz de matá-la. Para isso, sim, ele prestava muito. Matava, mesmo, como dera conta do homem da foice, pago por vingança de algum ofendido.” [Sagarana, p. 298].",
-        "B": "Caracterizar a personagem principal, como em: “[...] finalmente o Padre Lopes explicou tudo com este conceito digno de um observador: -Sabe a razão por que não vê as suas elevadas qualidades, que aliás todos nós admiramos? É porque tem ainda uma qualidade que realça as outras: - a modéstia.\" [Contos, p. 326].",
-        "C": "Analisar psicologicamente o narrador, como em: “Fui indo sempre de mal a pior. Tive a impressão de que me achava doente, muito doente. Fastio, inquietação constante e raiva. Madalena, Padilha, D. Glória, que trempe!” [S. Bernardo, p. 163].",
-        "D": "Registrar na escrita a linguagem falada popular, como em: “E, pois, foi aí por aí, dias depois, que aconteceu uma coisa até então jamais vista, e té hoje mui lembrada pelo povinho do Tombador.” [Sagarana, p. 313].",
-        "E": "Conversar com o leitor para aguçar a sua imaginação, como em: “—O que é que me está dizendo? perguntou o alienista quando um agente secreto lhe contou a conversação do barbeiro com os principais da vila.” [Contos, p. 321]."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dar a conhecer os pensamentos da personagem, como em: “Dionóra amara- o três anos, dois anos dera-os às dúvidas, e o suportara os demais. Agora, porém, tinha aparecido outro. Não, só de por aquilo na ideia, já sentia medo... Por si e pela filha... Um medo imenso. Se fosse, se aceitasse de ir com o outro, Nhô Augusto era capaz de matá-la. Para isso, sim, ele prestava muito. Matava, mesmo, como dera conta do homem da foice, pago por vingança de algum ofendido.” [Sagarana, p. 298]."
+        },
+        {
+          "letra": "B",
+          "texto": "Caracterizar a personagem principal, como em: “[...] finalmente o Padre Lopes explicou tudo com este conceito digno de um observador: -Sabe a razão por que não vê as suas elevadas qualidades, que aliás todos nós admiramos? É porque tem ainda uma qualidade que realça as outras: - a modéstia.\" [Contos, p. 326]."
+        },
+        {
+          "letra": "C",
+          "texto": "Analisar psicologicamente o narrador, como em: “Fui indo sempre de mal a pior. Tive a impressão de que me achava doente, muito doente. Fastio, inquietação constante e raiva. Madalena, Padilha, D. Glória, que trempe!” [S. Bernardo, p. 163]."
+        },
+        {
+          "letra": "D",
+          "texto": "Registrar na escrita a linguagem falada popular, como em: “E, pois, foi aí por aí, dias depois, que aconteceu uma coisa até então jamais vista, e té hoje mui lembrada pelo povinho do Tombador.” [Sagarana, p. 313]."
+        },
+        {
+          "letra": "E",
+          "texto": "Conversar com o leitor para aguçar a sua imaginação, como em: “—O que é que me está dizendo? perguntou o alienista quando um agente secreto lhe contou a conversação do barbeiro com os principais da vila.” [Contos, p. 321]."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Língua Portuguesa – Discurso Indireto Livre",
         "Língua Portuguesa – Análise Narrativa"
       ]
     },
     {
-      "numero_questao": 25,
+      "numeroEnunciado": 25,
       "enunciado": "Leia atentamente o trecho destacado e assinale a alternativa incorreta. Seu Ribeiro lia as cartas, conhecia os segredos, era considerado e major. [...] Todos acreditavam na sabedoria do major. Com efeito, seu Ribeiro não era inocente. [...] Os outros homens, sim, eram inocentes. [...] O major decidia, ninguém apelava. A decisão do major era um prego. Não havia soldados no lugar, nem havia juiz. E como o vigário residia longe, a mulher de seu Ribeiro rezavα ο terço e contava histórias de santos às crianças. É possível que nem todas as histórias fossem verdadeiras, mas as crianças daquele tempo não se preocupavam com a verdade. [S. Bernardo, pp. 43-44].",
-      "alternativas": {
-        "A": "A metáfora do prego sugere que as decisões do major eram inquestionáveis.",
-        "B": "\"Seu Ribeiro era considerado” pode ser substituído sem perda de sentido por \"seu Ribeiro era respeitado\".",
-        "C": "O major e sua família eram, no local, a autoridade em questões legais, morais e religiosas.",
-        "D": "A verdade tinha mais importância no local do que a autoridade do major.",
-        "E": "A palavra “inocente” tem o mesmo sentido nas duas vezes em que ocorre no trecho."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A metáfora do prego sugere que as decisões do major eram inquestionáveis."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Seu Ribeiro era considerado” pode ser substituído sem perda de sentido por \"seu Ribeiro era respeitado\"."
+        },
+        {
+          "letra": "C",
+          "texto": "O major e sua família eram, no local, a autoridade em questões legais, morais e religiosas."
+        },
+        {
+          "letra": "D",
+          "texto": "A verdade tinha mais importância no local do que a autoridade do major."
+        },
+        {
+          "letra": "E",
+          "texto": "A palavra “inocente” tem o mesmo sentido nas duas vezes em que ocorre no trecho."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Língua Portuguesa – Interpretação Textual",
         "Língua Portuguesa – Análise Semântica"
       ]
     },
     {
-      "numero_questao": 26,
+      "numeroEnunciado": 26,
       "enunciado": "Com base no texto destacado, assinale a alternativa que apresenta corretamente duas características do protagonista. E, ao sair, Nhô Augusto se ajoelhou, no meio da estrada, abriu os braços em cruz, e jurou: -Eu vou p'ra o céu, e vou mesmo, por bem ou por mal! E a minha vez há de chegar ... P’ra o céu eu vou, nem que seja a porrete! ... [Sagarana, p. 307].",
-      "alternativas": {
-        "A": "Ironia e brutalidade.",
-        "B": "Hipocrisia e falta de caráter.",
-        "C": "Competitividade e prudência.",
-        "D": "Determinação e generosidade.",
-        "E": "Obstinação e agressividade."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ironia e brutalidade."
+        },
+        {
+          "letra": "B",
+          "texto": "Hipocrisia e falta de caráter."
+        },
+        {
+          "letra": "C",
+          "texto": "Competitividade e prudência."
+        },
+        {
+          "letra": "D",
+          "texto": "Determinação e generosidade."
+        },
+        {
+          "letra": "E",
+          "texto": "Obstinação e agressividade."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Língua Portuguesa – Análise Literária",
         "Língua Portuguesa – Guimarães Rosa (\"Sagarana\")"
       ]
     },
     {
-      "numero_questao": 27,
+      "numeroEnunciado": 27,
       "enunciado": "Leia atentamente o trecho destacado e assinale a alternativa correta. Levantei-me, encostei-me à balaustrada* e comecei a encher o cachimbo, voltando- me para fora, que no interior da minha casa tudo era desagradável. [S. Bernardo, p. 142]. * balaustrada: parapeito, grade de proteção ou apoio. No trecho destacado, a palavra \"que” não transmite a ideia de",
-      "alternativas": {
-        "A": "causa.",
-        "B": "consequência.",
-        "C": "razão.",
-        "D": "fundamento.",
-        "E": "motivo."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "causa."
+        },
+        {
+          "letra": "B",
+          "texto": "consequência."
+        },
+        {
+          "letra": "C",
+          "texto": "razão."
+        },
+        {
+          "letra": "D",
+          "texto": "fundamento."
+        },
+        {
+          "letra": "E",
+          "texto": "motivo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Língua Portuguesa – Morfossintaxe",
         "Língua Portuguesa – Conectivos"
       ]
     },
     {
-      "numero_questao": 28,
+      "numeroEnunciado": 28,
       "enunciado": "Leia atentamente o trecho destacado e assinale a alternativa que apresenta corretamente dois sinônimos possíveis para DESINTELIGÊNCIA, sem perda de sentido. Pois, apesar das precauções que tomamos, do asbesto* que usamos para amortecer os atritos, veio nova desinteligência. Depois vieram muitas. [S. Bernardo, p. 125]. *asbesto: amianto.",
-      "alternativas": {
-        "A": "Desavença e desentendimento.",
-        "B": "Conflito e competição.",
-        "C": "Litígio e carência.",
-        "D": "Solidariedade e carência.",
-        "E": "Reconciliação e confraternização."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Desavença e desentendimento."
+        },
+        {
+          "letra": "B",
+          "texto": "Conflito e competição."
+        },
+        {
+          "letra": "C",
+          "texto": "Litígio e carência."
+        },
+        {
+          "letra": "D",
+          "texto": "Solidariedade e carência."
+        },
+        {
+          "letra": "E",
+          "texto": "Reconciliação e confraternização."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Língua Portuguesa – Vocabulário",
         "Língua Portuguesa – Sinônimos"
       ]
     },
     {
-      "numero_questao": 29,
+      "numeroEnunciado": 29,
       "enunciado": "No momento da morte de seu Joãozinho Bem-Bem, o narrador conta que \"a turba começou a querer desfeitar o cadáver”, isto é, fazer desfeita, insultar e ofender o corpo, ao que Nhô Augusto responde energicamente: “—Para com essa matinada, cambada de gente herege! [...] E depois enterrem direitinho o corpo, com muito respeito e em chão sagrado, que esse aí é o meu parente seu Joãozinho Bem-Bem!” [Sagarana, p. 332]. Por essa fala, é possível entender que o título do conto alude",
-      "alternativas": {
-        "A": "à perversidade ligada à afabilidade do protagonista.",
-        "B": "à incapacidade e à falta de iniciativa de seu Joãozinho Bem-Bem.",
-        "C": "ao momento da morte que revela o acovardamento do protagonista.",
-        "D": "à hora da morte e à oportunidade de regeneração do protagonista.",
-        "E": "à hora da vingança da família do protagonista."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à perversidade ligada à afabilidade do protagonista."
+        },
+        {
+          "letra": "B",
+          "texto": "à incapacidade e à falta de iniciativa de seu Joãozinho Bem-Bem."
+        },
+        {
+          "letra": "C",
+          "texto": "ao momento da morte que revela o acovardamento do protagonista."
+        },
+        {
+          "letra": "D",
+          "texto": "à hora da morte e à oportunidade de regeneração do protagonista."
+        },
+        {
+          "letra": "E",
+          "texto": "à hora da vingança da família do protagonista."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Língua Portuguesa – Análise Literária",
         "Língua Portuguesa – Guimarães Rosa (\"A Hora e Vez de Augusto Matraga\")"
       ]
     },
     {
-      "numero_questao": 30,
+      "numeroEnunciado": 30,
       "enunciado": "Os protagonistas de “O alienista”, S. Bernardo e “A hora e vez de Augusto Matraga\" têm em comum as seguintes características:",
-      "alternativas": {
-        "A": "dissimulação e vileza.",
-        "B": "benevolência e autocrítica.",
-        "C": "religiosidade e obstinação.",
-        "D": "excessiva ganância e vaidade.",
-        "E": "obstinação e capacidade de ação."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dissimulação e vileza."
+        },
+        {
+          "letra": "B",
+          "texto": "benevolência e autocrítica."
+        },
+        {
+          "letra": "C",
+          "texto": "religiosidade e obstinação."
+        },
+        {
+          "letra": "D",
+          "texto": "excessiva ganância e vaidade."
+        },
+        {
+          "letra": "E",
+          "texto": "obstinação e capacidade de ação."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Língua Portuguesa – Análise Literária",
         "Língua Portuguesa – Comparação de Obras"
       ]
     },
     {
-      "numero_questao": 31,
+      "numeroEnunciado": 31,
       "enunciado": "As questões 31 e 32 referem-se ao texto destacado a seguir. Experts warn that “the substitution of machinery for human labour” may “render the population redundant\". They worry that \"the discovery of this mighty power\" has come \"before we knew how to employ it rightly\". Such fears are expressed today by those who worry that advances in artificial intelligence (AI) could destroy millions of jobs and pose a \"Terminator\"-style threat to humanity. But these are in fact the words of commentators discussing mechanisation and steam power two centuries ago. Back then the controversy over the dangers posed by machines was known as the \"machinery question\". Now a very similar debate is under way. After many false dawns, AI has made extraordinary progress in the past few years, thanks to a versatile technique called \"deep learning\". Given enough data, large (or \"deep\") neural networks, modelled on the brain's architecture, can be trained to do all kinds of things. They power Google's search engine, Facebook's automatic photo tagging, Apple's voice assistant, Amazon's shopping recommendations and Tesla's self-driving cars. But this rapid progress has also led to concerns about safety and job losses. Stephen Hawking, Elon Musk and others wonder whether AI could get out of control, precipitating a sci-fi conflict between people and machines. Others worry that AI will cause widespread unemployment, by automating cognitive tasks that could previously be done only by people. After 200 years, the machinery question is back. It needs to be answered. Fonte: https://www.economist.com/leaders/2016/06/25/march-of-the-machines. Adaptado. Acesso em agosto de 2019. Questão 31. Leia as afirmações a seguir para responder à questão. I. Redes neurais alimentam o mecanismo de busca do Google, o assistente de voz da Apple, a identificação de fotografias no Facebook, as sugestões de compras da Amazon, os carros autônomos da Tesla. II. O temor de que as máquinas substituiriam o trabalho humano era real há duzentos anos, mas superado na atualidade. III. Steven Hawkings e Elon Musk especulam se a I.A. pode sair do controle, levando pessoas e máquinas a um conflito somente visto em obras de ficção científica. IV. Duzentos anos atrás, a controvérsia sobre os perigos impostos pelas máquinas era conhecida como \"a questão das máquinas\". De acordo com as informações do texto, estão corretas as afirmações",
-      "alternativas": {
-        "A": "I e II.",
-        "B": "I, II e III.",
-        "C": "II, III e IV.",
-        "D": "I, III e IV.",
-        "E": "III e IV."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Inglês – Compreensão Textual",
         "Inglês – Tecnologia (Inteligência Artificial)"
       ]
     },
     {
-      "numero_questao": 32,
+      "numeroEnunciado": 32,
       "enunciado": "A palavra sublinhada nos trechos retirados do texto pode ser substituída, sem alteração de significado, pela palavra ou expressão da segunda coluna, exceto em: A () render the population redundant → unnecessary. B() pose a “Terminator\"-style threat to humanity → intimidation. C() After many false dawns → break of days. D() this rapid progress has also led to concerns → disregards. E( ) AI will cause widespread unemployment → far-reaching.",
-      "alternativas": {
-        "A": "render the population redundant -> unnecessary.",
-        "B": "pose a “Terminator\"-style threat to humanity -> intimidation.",
-        "C": "After many false dawns -> break of days.",
-        "D": "this rapid progress has also led to concerns -> disregards.",
-        "E": "AI will cause widespread unemployment -> far-reaching."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "render the population redundant -> unnecessary."
+        },
+        {
+          "letra": "B",
+          "texto": "pose a “Terminator\"-style threat to humanity -> intimidation."
+        },
+        {
+          "letra": "C",
+          "texto": "After many false dawns -> break of days."
+        },
+        {
+          "letra": "D",
+          "texto": "this rapid progress has also led to concerns -> disregards."
+        },
+        {
+          "letra": "E",
+          "texto": "AI will cause widespread unemployment -> far-reaching."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Inglês – Vocabulário",
         "Inglês – Sinônimos"
       ]
     },
     {
-      "numero_questao": 33,
+      "numeroEnunciado": 33,
       "enunciado": "As questões de 33 a 35 referem-se ao texto destacado a seguir. If there is any doubt about the persistent power of literature in the face of digital culture, it should be banished by the recent climb of George Orwell's 1984 up the Amazon \"Movers and Shakers\" list. There is much that's resonant for us in Orwell's dystopia in the face of Edward Snowden's revelations about the NSA [...]. We look to 1984 as a clear cautionary tale, even a prophecy, of systematic abuse of power taken to the end of the line. [...] However, after “THE END\" of his dystopian novel 1984, George Orwell includes another chapter, an appendix, called “The Principles of Newspeak.\" Since it has the trappings of a tedious scholarly treatise, readers often skip the appendix. But it changes our whole understanding of the novel. Written from some unspecified point in the future, it suggests that Big Brother was eventually defeated. The victory is attributed not to individual rebels or to The Brotherhood, an anonymous resistance group, but rather to language itself. The appendix details Oceania's attempt to replace Oldspeak, or English, with Newspeak, a linguistic shorthand that reduces the world of ideas to a set of simple, stark words. \"The whole aim of Newspeak is to narrow the range of thought.” It will render dissent “literally impossible, because there will be no words in which to express it.\" Fonte: Frost, Laura. http://qz.com/95696. Adaptado. Acesso em agosto de 2019. Questão 33. De acordo com o texto, em geral, os leitores do clássico 1984, de George Orwell, dispensam a leitura do apêndice da obra porque",
-      "alternativas": {
-        "A": "não foi escrito pelo próprio autor.",
-        "B": "acreditam se tratar de mais um longo texto acadêmico.",
-        "C": "sua leitura não altera a compreensão da obra.",
-        "D": "foi escrito após a publicação do romance.",
-        "E": "sua autoria é desconhecida."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "não foi escrito pelo próprio autor."
+        },
+        {
+          "letra": "B",
+          "texto": "acreditam se tratar de mais um longo texto acadêmico."
+        },
+        {
+          "letra": "C",
+          "texto": "sua leitura não altera a compreensão da obra."
+        },
+        {
+          "letra": "D",
+          "texto": "foi escrito após a publicação do romance."
+        },
+        {
+          "letra": "E",
+          "texto": "sua autoria é desconhecida."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Inglês – Compreensão Textual",
         "Inglês – Literatura"
       ]
     },
     {
-      "numero_questao": 34,
+      "numeroEnunciado": 34,
       "enunciado": "No trecho “but rather, to language itself”, o termo rather pode ser substituído, sem alteração de sentido, por",
-      "alternativas": {
-        "A": "to some extent.",
-        "B": "on behalf of.",
-        "C": "instead of.",
-        "D": "in support of.",
-        "E": "more exactly."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "to some extent."
+        },
+        {
+          "letra": "B",
+          "texto": "on behalf of."
+        },
+        {
+          "letra": "C",
+          "texto": "instead of."
+        },
+        {
+          "letra": "D",
+          "texto": "in support of."
+        },
+        {
+          "letra": "E",
+          "texto": "more exactly."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Inglês – Vocabulário",
         "Inglês – Sinônimos"
       ]
     },
     {
-      "numero_questao": 35,
+      "numeroEnunciado": 35,
       "enunciado": "De acordo com o texto, é incorreto afirmar que",
-      "alternativas": {
-        "A": "na obra 1984, Orwell retrata um mundo distópico que ainda possui relevância nos tempos atuais.",
-        "B": "a obra 1984 é considerada como um alerta para o uso abusivo do poder levado às últimas consequências.",
-        "C": "no apêndice, há o relato da tentativa de substituição da Oldspeak por uma língua mais abreviada (simplificada).",
-        "D": "o vocabulário da Newspeak é tão complexo que se torna difícil usá-lo para expressar discordância.",
-        "E": "Newspeak é uma língua que impossibilita externalizar um pensamento mais complexo."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na obra 1984, Orwell retrata um mundo distópico que ainda possui relevância nos tempos atuais."
+        },
+        {
+          "letra": "B",
+          "texto": "a obra 1984 é considerada como um alerta para o uso abusivo do poder levado às últimas consequências."
+        },
+        {
+          "letra": "C",
+          "texto": "no apêndice, há o relato da tentativa de substituição da Oldspeak por uma língua mais abreviada (simplificada)."
+        },
+        {
+          "letra": "D",
+          "texto": "o vocabulário da Newspeak é tão complexo que se torna difícil usá-lo para expressar discordância."
+        },
+        {
+          "letra": "E",
+          "texto": "Newspeak é uma língua que impossibilita externalizar um pensamento mais complexo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Inglês – Compreensão Textual",
         "Inglês – Literatura"
       ]
     },
     {
-      "numero_questao": 36,
+      "numeroEnunciado": 36,
       "enunciado": "As questões de 36 a 38 referem-se ao texto destacado: \"Of course they're fake videos, everyone can see they're not real. All the same, they really did say those things, didn't they?\" These are the words of Vivienne Rook, the fictional politician played by Emma Thompson in the brilliant dystopian BBC TV drama Years and Years. The episode in question, set in 2027, tackles the subject of \"deepfakes\" videos in which a living person's face and voice are digitally manipulated to say anything the programmer wants. Rook perfectly sums up the problem with these videos - even if you know they are fake, they leave a lingering impression. And her words are all the more compelling because deepfakes are real and among us already. Last year, several deepfake porn videos emerged online, appearing to show celebrities such as Emma Watson, Gal Gadot and Taylor Swift in explicit situations. [...] In some cases, the deepfakes are almost indistinguishable from the real thing - which is particularly worrying for politicians and other people in the public eye. Videos that may initially been created for laughs could easily be misinterpreted by viewers. Earlier this year, for example, a digitally altered video appeared to show Nancy Pelosi, the speaker of the US House of Representatives, slurring drunkenly through a speech. The video was widely shared on Facebook and YouTube, before being tweeted by President Donald Trump with the caption: “PELOSI STAMMERS THROUGH NEWS CONFERENCE\". The video was debunked, but not before it had been viewed millions of times. Trump has still not deleted the tweet, which has been retweeted over 30,000 times. The current approach of social media companies is to filter out and reduce the distribution of deepfake videos, rather than outright removing them - unless they are pornographic. This can result in victims suffering severe reputational damage, not to mention ongoing humiliation and ridicule from viewers. \"Deepfakes are one of the most alarming trends I have witnessed as a Congresswoman to date,\" said US Congresswoman Yvette Clarke in a recent article for Quartz. \"If the American public can be made to believe and trust altered videos of presidential candidates, our democracy is in grave danger. We need to work together to stop deepfakes from becoming the defining feature of the 2020 elections.\" Of course, it's not just democracy that is at risk, but also the economy, the legal system and even individuals themselves. Clarke warns that, if deepfake technology continues to evolve without a check, video evidence could lose its credibility during trials. It is not hard to imagine it being used by disgruntled ex-lovers, employees and random people on the internet to exact revenge and ruin people's reputations. The software for creating these videos is already widely available. Fonte: Curtis, Sophie. https://www.mirror.co.uk/tech/deepfake-videos-creepy-new-internet-18289900. Adaptado. Acessado em Agosto/2019. Questão 36. De acordo com o texto, é correto afirmar que",
-      "alternativas": {
-        "A": "mesmo que se saiba que são falsos, os vídeos deepfake deixam uma impressão duradoura.",
-        "B": "os vídeos deepfake surgiram na mini série distópica da BBC TV intitulada Years and Years.",
-        "C": "apesar de serem falsos, os vídeos deepfake reproduzem falas reais das pessoas retratadas.",
-        "D": "os vídeos deepfake somente retratam figuras notórias, como Obama, Trump, Zuckerberg, fazendo discursos inflamados.",
-        "E": "o criador da tecnologia dos vídeos deepfake possui controle total sobre dados pessoais de bilhões de indivíduos."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mesmo que se saiba que são falsos, os vídeos deepfake deixam uma impressão duradoura."
+        },
+        {
+          "letra": "B",
+          "texto": "os vídeos deepfake surgiram na mini série distópica da BBC TV intitulada Years and Years."
+        },
+        {
+          "letra": "C",
+          "texto": "apesar de serem falsos, os vídeos deepfake reproduzem falas reais das pessoas retratadas."
+        },
+        {
+          "letra": "D",
+          "texto": "os vídeos deepfake somente retratam figuras notórias, como Obama, Trump, Zuckerberg, fazendo discursos inflamados."
+        },
+        {
+          "letra": "E",
+          "texto": "o criador da tecnologia dos vídeos deepfake possui controle total sobre dados pessoais de bilhões de indivíduos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Inglês – Compreensão Textual",
         "Inglês – Tecnologia (Deepfakes)"
       ]
     },
     {
-      "numero_questao": 37,
+      "numeroEnunciado": 37,
       "enunciado": "No trecho: “it's not just democracy that is at risk, but also the economy”, a expressão sublinhada expressa uma ideia de",
-      "alternativas": {
-        "A": "oposição.",
-        "B": "concessão.",
-        "C": "concordância. E( ) contraste.",
-        "D": "adição."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "oposição."
+        },
+        {
+          "letra": "B",
+          "texto": "concessão."
+        },
+        {
+          "letra": "C",
+          "texto": "concordância. E( ) contraste."
+        },
+        {
+          "letra": "D",
+          "texto": "adição."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Inglês – Gramática",
         "Inglês – Conectivos"
       ]
     },
     {
-      "numero_questao": 38,
+      "numeroEnunciado": 38,
       "enunciado": "De acordo com a congressista Yvette Clarke, pelos diversos riscos representados pelos vídeos deepfake, é necessário",
-      "alternativas": {
-        "A": "bani-los totalmente da Internet.",
-        "B": "proibir e criminalizar seu compartilhamento.",
-        "C": "impedir sua presença nas eleições futuras.",
-        "D": "filtrar e diminuir sua presença nas redes digitais.",
-        "E": "fiscalizar e controlar essa tecnologia."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "bani-los totalmente da Internet."
+        },
+        {
+          "letra": "B",
+          "texto": "proibir e criminalizar seu compartilhamento."
+        },
+        {
+          "letra": "C",
+          "texto": "impedir sua presença nas eleições futuras."
+        },
+        {
+          "letra": "D",
+          "texto": "filtrar e diminuir sua presença nas redes digitais."
+        },
+        {
+          "letra": "E",
+          "texto": "fiscalizar e controlar essa tecnologia."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Inglês – Compreensão Textual",
         "Inglês – Tecnologia (Deepfakes)"
       ]
     },
     {
-      "numero_questao": 39,
+      "numeroEnunciado": 39,
       "enunciado": "As questões 39 e 40 referem-se ao texto destacado: About seven years ago, three researchers at the University of Toronto built a system that could analyze thousands of photos and teach itself to recognize everyday objects, like dogs, cars and flowers. The system was so effective that Google bought the tiny start-up these researchers were only just getting off the ground. And soon, their system sparked a technological revolution. Suddenly, machines could \"see\" in a way that was not possible in the past. This made it easier for a smartphone app to search your personal photos and find the images you were looking for. It accelerated the progress of driverless cars and other robotics. And it improved the accuracy of facial recognition services, for social networks like Facebook and for the country's law enforcement agencies. But soon, researchers noticed that these facial recognition services were less accurate when used with women and people of color. Activists raised concerns over how companies were collecting the huge amounts of data needed to train these kinds of systems. Others worried these systems would eventually lead to mass surveillance or autonomous weapons. Fonte: Matz, Cade. Seeking Ground Rules for A. I. www.nytimes.com, 01/03/2019. Adaptado. Acessado em Agosto/2019.) Questão 39. De acordo com as informações do texto, selecione a alternativa que melhor complete a afirmação: The new system proved to be less precise when",
-      "alternativas": {
-        "A": "applied to driverless cars.",
-        "B": "adjusted to users' face recognition in social networks.",
-        "C": "identifying inanimate objects like cars and plants.",
-        "D": "used to identify Africans and African descendants.",
-        "E": "tested by American law enforcement agencies."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "applied to driverless cars."
+        },
+        {
+          "letra": "B",
+          "texto": "adjusted to users' face recognition in social networks."
+        },
+        {
+          "letra": "C",
+          "texto": "identifying inanimate objects like cars and plants."
+        },
+        {
+          "letra": "D",
+          "texto": "used to identify Africans and African descendants."
+        },
+        {
+          "letra": "E",
+          "texto": "tested by American law enforcement agencies."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Inglês – Compreensão Textual",
         "Inglês – Tecnologia (Inteligência Artificial)"
       ]
     },
     {
-      "numero_questao": 40,
+      "numeroEnunciado": 40,
       "enunciado": "Analise as afirmações de I a IV em destaque. I. Ativistas manifestaram preocupação em relação à forma como as empresas estavam coletando enormes quantidades de dados para treinar sistemas de reconhecimento. II. A Universidade de Toronto construiu um sistema ético de Inteligência Artificial para reconhecimento de imagens. III. Uma das preocupações de ativistas era a possibilidade de tais sistemas conduzirem a vigilância em massa ou armamento autônomo. IV. Empresas privadas de tecnologia, como Google, e redes digitais, como Facebook, junto com algumas agências governamentais, chegaram a um consenso quanto a uma ética da Inteligência Artificial. V. Algumas leis foram desenvolvidas por alguns grupos específicos de pessoas para decidir sobre o futuro da Inteligência Artificial. De acordo com o texto, estão corretas apenas:",
-      "alternativas": {
-        "A": "I e II.",
-        "B": "II, III e V.",
-        "C": "I e III.",
-        "D": "II, IV e V.",
-        "E": "I, III e IV."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "II, III e V."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II, IV e V."
+        },
+        {
+          "letra": "E",
+          "texto": "I, III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Inglês – Compreensão Textual",
         "Inglês – Tecnologia (Inteligência Artificial)"
       ]
     },
     {
-      "numero_questao": 41,
+      "numeroEnunciado": 41,
       "enunciado": "Sejam X1, X2, X3, X4, X5 e Xx6 números reais tais que 2x1 4; 3x2 = 5; 4x3 6; 5x4 7; 6x5 = 8 e 7x6 9. Então, o produto X1 X2 X3 X4 X5 X6 é igual a",
-      "alternativas": {
-        "A": "6.",
-        "B": "8.",
-        "C": "10.",
-        "D": "12.",
-        "E": "14."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6."
+        },
+        {
+          "letra": "B",
+          "texto": "8."
+        },
+        {
+          "letra": "C",
+          "texto": "10."
+        },
+        {
+          "letra": "D",
+          "texto": "12."
+        },
+        {
+          "letra": "E",
+          "texto": "14."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Matemática – Álgebra",
         "Matemática – Logaritmos"
       ]
     },
     {
-      "numero_questao": 42,
+      "numeroEnunciado": 42,
       "enunciado": "Sejam a, b e c números reais, a ≠ 0, tais que a² + b² = c². Se a, b e c formam, nessa ordem, uma progressão geométrica de razão k, então o produto Pe a soma S de todos os possíveis valores para k são iguais a",
-      "alternativas": {
-        "A": "P=1 e S = 0.",
-        "B": "P = -1 e S = 1.",
-        "C": "P=-1 e S = −1.",
-        "D": "P=-(1 + √5)/2 e S = 0.",
-        "E": "P = (1 + √5)²/4 e S = 0."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "P=1 e S = 0."
+        },
+        {
+          "letra": "B",
+          "texto": "P = -1 e S = 1."
+        },
+        {
+          "letra": "C",
+          "texto": "P=-1 e S = −1."
+        },
+        {
+          "letra": "D",
+          "texto": "P=-(1 + √5)/2 e S = 0."
+        },
+        {
+          "letra": "E",
+          "texto": "P = (1 + √5)²/4 e S = 0."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Matemática – Progressões Geométricas",
         "Matemática – Equações"
       ]
     },
     {
-      "numero_questao": 43,
+      "numeroEnunciado": 43,
       "enunciado": "A parte real da soma infinita da progressão geométrica cujo termo geral an é dado por an = (cos n + i sen n) / 2n, n = 1, 2, 3, ... é igual a",
-      "alternativas": {
-        "A": "(-1 + 2 cos 1) / (5 - 4 cos 1)",
-        "B": "(-2 + 4 cos 1) / (5 - 4 cos 1)",
-        "C": "(4 - 2 cos 1) / (5 - 4 cos 1)",
-        "D": "(1 + 2 cos 1) / (5 - 4 cos 1)",
-        "E": "(2 + 4 cos 1) / (5 - 4 cos 1)"
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(-1 + 2 cos 1) / (5 - 4 cos 1)"
+        },
+        {
+          "letra": "B",
+          "texto": "(-2 + 4 cos 1) / (5 - 4 cos 1)"
+        },
+        {
+          "letra": "C",
+          "texto": "(4 - 2 cos 1) / (5 - 4 cos 1)"
+        },
+        {
+          "letra": "D",
+          "texto": "(1 + 2 cos 1) / (5 - 4 cos 1)"
+        },
+        {
+          "letra": "E",
+          "texto": "(2 + 4 cos 1) / (5 - 4 cos 1)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Matemática – Números Complexos",
         "Matemática – Progressão Geométrica"
       ]
     },
     {
-      "numero_questao": 44,
+      "numeroEnunciado": 44,
       "enunciado": "Duas curvas planas c₁ e c2 são definidas pelas equações c1 : 16x² + 9y² – 224x – 72y + 640 = 0, c2 : x² + y² + 4x - 10y + 13 = 0. Sejam P e Q os pontos de interseção de c₁ com o eixo x e R e S os pontos de interseção de c2 com o eixo y. A área do quadrilátero convexo de vértices P, Q, R e S é igual a",
-      "alternativas": {
-        "A": "15 + 7√3.",
-        "B": "15-7√3.",
-        "C": "15 + 14√3.",
-        "D": "15 – 14√3.",
-        "E": "25 + 10√3."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 + 7√3."
+        },
+        {
+          "letra": "B",
+          "texto": "15-7√3."
+        },
+        {
+          "letra": "C",
+          "texto": "15 + 14√3."
+        },
+        {
+          "letra": "D",
+          "texto": "15 – 14√3."
+        },
+        {
+          "letra": "E",
+          "texto": "25 + 10√3."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Matemática – Geometria Analítica",
         "Matemática – Cônicas",
         "Matemática – Área de Polígonos"
       ]
     },
     {
-      "numero_questao": 45,
+      "numeroEnunciado": 45,
       "enunciado": "A cada aniversário, seu bolo tem uma quantidade de velas igual à sua idade. As velas são vendidas em pacotes com 12 unidades e todo ano é comprado apenas um novo pacote. As velas remanescentes são guardadas para os anos seguintes, desde o seu primeiro aniversário. Qual a sua idade, em anos, no primeiro ano em que as velas serão insuficientes?",
-      "alternativas": {
-        "A": "12.",
-        "B": "23.",
-        "C": "24.",
-        "D": "36.",
-        "E": "38."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12."
+        },
+        {
+          "letra": "B",
+          "texto": "23."
+        },
+        {
+          "letra": "C",
+          "texto": "24."
+        },
+        {
+          "letra": "D",
+          "texto": "36."
+        },
+        {
+          "letra": "E",
+          "texto": "38."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Matemática – Aritmética",
         "Matemática – Sequências Numéricas"
       ]
     },
     {
-      "numero_questao": 46,
+      "numeroEnunciado": 46,
       "enunciado": "Seja A um ponto externo a uma circunferência A de centro O e raio r. Considere uma reta passando por A e secante a A nos pontos C e D tal que o segmento AC é externo a de tem comprimento igual a r. Seja B o ponto de A tal que O pertence ao segmento AB. Se o ângulo BÂD mede 10°, então a medida do ângulo BÔD é igual a",
-      "alternativas": {
-        "A": "25°.",
-        "B": "30°.",
-        "C": "35°.",
-        "D": "40°.",
-        "E": "45°."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25°."
+        },
+        {
+          "letra": "B",
+          "texto": "30°."
+        },
+        {
+          "letra": "C",
+          "texto": "35°."
+        },
+        {
+          "letra": "D",
+          "texto": "40°."
+        },
+        {
+          "letra": "E",
+          "texto": "45°."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Matemática – Geometria Plana",
         "Matemática – Circunferência",
         "Matemática – Ângulos na Circunferência"
       ]
     },
     {
-      "numero_questao": 47,
+      "numeroEnunciado": 47,
       "enunciado": "Seja a um número real satisfazendo 0 < a < π/2. Então, a soma de todos os valores de x ∈ [0, 2π] que satisfazem a equação cos x sen(a + x) = sen a é igual a",
-      "alternativas": {
-        "A": "5π + 2a.",
-        "B": "5π + α.",
-        "C": "5π.",
-        "D": "5π α.",
-        "E": "5π – 2α."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5π + 2a."
+        },
+        {
+          "letra": "B",
+          "texto": "5π + α."
+        },
+        {
+          "letra": "C",
+          "texto": "5π."
+        },
+        {
+          "letra": "D",
+          "texto": "5π α."
+        },
+        {
+          "letra": "E",
+          "texto": "5π – 2α."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Matemática – Trigonometria",
         "Matemática – Equações Trigonométricas"
       ]
     },
     {
-      "numero_questao": 48,
+      "numeroEnunciado": 48,
       "enunciado": "Considere o polinômio p(x) = x³ – mx² + x + 5 + n, sendo m, n números reais fixados. Sabe-se que toda raiz z = a + bi, com a, b ∈ R, da equação p(z) = 0 satisfaz a igualdade a = mb² + nb – 1. Então, a soma dos quadrados das raízes de p(z) = 0 é igual a",
-      "alternativas": {
-        "A": "6.",
-        "B": "7.",
-        "C": "8.",
-        "D": "9.",
-        "E": "10."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6."
+        },
+        {
+          "letra": "B",
+          "texto": "7."
+        },
+        {
+          "letra": "C",
+          "texto": "8."
+        },
+        {
+          "letra": "D",
+          "texto": "9."
+        },
+        {
+          "letra": "E",
+          "texto": "10."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Matemática – Polinômios",
         "Matemática – Raízes de Polinômios"
       ]
     },
     {
-      "numero_questao": 49,
+      "numeroEnunciado": 49,
       "enunciado": "A expansão decimal do número 100! = 100.99.2.1 possui muitos algarismos iguais a zero. Contando da direita para a esquerda, a partir do dígito das unidades, o número de zeros, que esse número possui antes de um dígito não nulo aparecer, é igual a",
-      "alternativas": {
-        "A": "20.",
-        "B": "21.",
-        "C": "22.",
-        "D": "23.",
-        "E": "24."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20."
+        },
+        {
+          "letra": "B",
+          "texto": "21."
+        },
+        {
+          "letra": "C",
+          "texto": "22."
+        },
+        {
+          "letra": "D",
+          "texto": "23."
+        },
+        {
+          "letra": "E",
+          "texto": "24."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Matemática – Aritmética",
         "Matemática – Fatoriais",
         "Matemática – Teoria dos Números"
       ]
     },
     {
-      "numero_questao": 50,
+      "numeroEnunciado": 50,
       "enunciado": "Seja p(x) = ax⁴ + bx³ + cx² + dx + e um polinômio com coeficientes reais. Sabendo que: I. p(x) é divisível por x² – 4; III. o produto das raízes de p(x) é igual a 3; II. a soma das raízes de p(x) é igual a 1; IV. p(-1) = -15/4; então, p(1) é igual a",
-      "alternativas": {
-        "A": "17/2",
-        "B": "-19/4",
-        "C": "-3/2",
-        "D": "-9/4",
-        "E": "9/2"
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "17/2"
+        },
+        {
+          "letra": "B",
+          "texto": "-19/4"
+        },
+        {
+          "letra": "C",
+          "texto": "-3/2"
+        },
+        {
+          "letra": "D",
+          "texto": "-9/4"
+        },
+        {
+          "letra": "E",
+          "texto": "9/2"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Matemática – Polinômios",
         "Matemática – Relações de Girard",
         "Matemática – Divisibilidade de Polinômios"
       ]
     },
     {
-      "numero_questao": 51,
+      "numeroEnunciado": 51,
       "enunciado": "Os pontos B = (1,1 + 6√2) e C = (1 + 6√2, 1) são vértices do triângulo isósceles ABC de base BC, contido no primeiro quadrante. Se o raio da circunferência inscrita no triângulo mede 3, então as coordenadas do vértice A são",
-      "alternativas": {
-        "A": "(7√2,7√2).",
-        "B": "(√2, √√2).",
-        "C": "(1+7√2,1 +7√2).",
-        "D": "(1 + √√2,1 + √2).",
-        "E": "(1 + 6√2,1 + 6√2)."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(7√2,7√2)."
+        },
+        {
+          "letra": "B",
+          "texto": "(√2, √√2)."
+        },
+        {
+          "letra": "C",
+          "texto": "(1+7√2,1 +7√2)."
+        },
+        {
+          "letra": "D",
+          "texto": "(1 + √√2,1 + √2)."
+        },
+        {
+          "letra": "E",
+          "texto": "(1 + 6√2,1 + 6√2)."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Matemática – Geometria Analítica",
         "Matemática – Geometria Plana",
         "Matemática – Triângulos",
@@ -831,202 +1595,382 @@
       ]
     },
     {
-      "numero_questao": 52,
+      "numeroEnunciado": 52,
       "enunciado": "Dado a ∈ R, defina p = a + a² e q = a + a³ e considere as seguintes afirmações: I. se p ou q é irracional, então a é irracional. II. se p e q são racionais, então a é racional. III. se q é irracional, então p é irracional. É(são) VERDADEIRA(S)",
-      "alternativas": {
-        "A": "apenas I.",
-        "B": "apenas II.",
-        "C": "apenas I e II.",
-        "D": "apenas I e III.",
-        "E": "todas."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "todas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Matemática – Números Reais",
         "Matemática – Números Racionais e Irracionais"
       ]
     },
     {
-      "numero_questao": 53,
+      "numeroEnunciado": 53,
       "enunciado": "Considere as seguintes afirmações: I. Todo poliedro formado por 16 faces quadrangulares possui exatamente 18 vértices e 32 arestas. II. Em todo poliedro convexo que possui 10 faces e 16 arestas, a soma dos ângulos de todas as faces é igual a 2160°. III. Existe um poliedro com 15 faces, 22 arestas e 9 vértices. É(são) VERDADEIRA(S)",
-      "alternativas": {
-        "A": "apenas I.",
-        "B": "apenas II.",
-        "C": "apenas III.",
-        "D": "apenas I e II.",
-        "E": "apenas II e III."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Matemática – Geometria Espacial",
         "Matemática – Poliedros",
         "Matemática – Relação de Euler"
       ]
     },
     {
-      "numero_questao": 54,
+      "numeroEnunciado": 54,
       "enunciado": "Considere as seguintes afirmações: I. Sejam π1, π₂ e π3 três planos distintos, e secantes dois a dois segundo as retas distintas r, s e t. Se r ∩ s ≠ Ø então r ∩ s ∩ t ≠ Ø. II. As projeções ortogonais de duas retas paralelas r e s sobre um plano π são duas retas paralelas. III. Para quaisquer retas r, s e t reversas duas a duas, existe uma reta u paralela à r e concorrente com s e com t. É(são) VERDADEIRA(S)",
-      "alternativas": {
-        "A": "apenas I.",
-        "B": "apenas II.",
-        "C": "apenas I e II.",
-        "D": "apenas I e III.",
-        "E": "nenhuma."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "nenhuma."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Matemática – Geometria Espacial",
         "Matemática – Posições Relativas de Retas e Planos"
       ]
     },
     {
-      "numero_questao": 55,
+      "numeroEnunciado": 55,
       "enunciado": "Considere o conjunto M(n, k) de todas as matrizes quadradas de ordem n×n, com exatamente k elementos iguais a 1, e os demais iguais a 0 (zero). Escolhendo aleatoriamente matrizes L ∈ M(3,1) e R∈ M(4,2), a probabilidade de que L² = 0 e R² = 0 é igual a",
-      "alternativas": {
-        "A": "1/3.",
-        "B": "1/5.",
-        "C": "4/15.",
-        "D": "13/30.",
-        "E": "29/30."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/3."
+        },
+        {
+          "letra": "B",
+          "texto": "1/5."
+        },
+        {
+          "letra": "C",
+          "texto": "4/15."
+        },
+        {
+          "letra": "D",
+          "texto": "13/30."
+        },
+        {
+          "letra": "E",
+          "texto": "29/30."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Matemática – Álgebra Linear",
         "Matemática – Matrizes",
         "Matemática – Probabilidade"
       ]
     },
     {
-      "numero_questao": 56,
+      "numeroEnunciado": 56,
       "enunciado": "Considere as afirmações a seguir: I. O ácido tricloroacético é um ácido mais fraco que o ácido propanóico. II. O 2,4,6-tricloro-fenol possui um caráter ácido maior que o 2,4,6-trinitro-fenol. III. Reações de hidratação de alcinos geram produtos tautoméricos. IV. Anéis benzênicos sofrem reações de substituição pela interação com reagentes eletrófilos, enquanto haletos orgânicos sofrem substituição pela interação com reagentes nucleófilos. Das afirmações acima, está(ão) CORRETA(S)",
-      "alternativas": {
-        "A": "apenas I.",
-        "B": "apenas I e II.",
-        "C": "apenas II e III.",
-        "D": "apenas III e IV.",
-        "E": "apenas IV."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Química – Química Orgânica",
         "Química – Acidez de Compostos Orgânicos",
         "Química – Reações Orgânicas"
       ]
     },
     {
-      "numero_questao": 57,
+      "numeroEnunciado": 57,
       "enunciado": "Considere uma bateria de fluxo de hidrogênio gasoso (H₂) e bromo líquido (Br2) operando nas condições padrão. Durante a descarga, a bateria converte H2 e Br2 em ácido bromídrico (HBr). As reações de meia célula e os respectivos potenciais-padrão de eletrodo, a 298 K, são: Anodo, H2 → 2H+ + 2e¯ (Eº = 0 V) Catodo, Br2 + 2e → 2Br (Eº = 1,087 V) A dissociação da água pode ser observada pelo efeito da seguinte semirreação: O2 + 4e + 4H⁺→ 2H2O Eº = 1,229 V A formação de complexos iônicos de polibrometo ocorre segundo as reações e suas respectivas constantes de equilíbrio: Br2 + Br Br3 K3 = 16,7 2Br2 + Br⇌ Br5 K5 = 37,7 Sejam feitas as seguintes afirmações a respeito dessa bateria: I. O potencial da célula pode ser aproximado pela equação: Ecatodo - Eanodo = 1,087 + 0,06 pH. II. O solvente (água) é termodinamicamente estável somente a pH < 2,4. III. Recarregar a bateria com um potencial catódico inferior a 1,229 V garante a estabilidade do solvente. IV. Durante a descarga da bateria, a concentração do HBr aumenta e podem formar complexos iônicos de Br3 e Br5¯. Das afirmações acima, estão CORRETAS",
-      "alternativas": {
-        "A": "apenas I, II e IV.",
-        "B": "apenas I e III.",
-        "C": "apenas II e IV.",
-        "D": "apenas III e IV.",
-        "E": "todas."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I, II e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "todas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Química – Eletroquímica",
         "Química – Equilíbrio Químico",
         "Química – Baterias"
       ]
     },
     {
-      "numero_questao": 58,
+      "numeroEnunciado": 58,
       "enunciado": "A amônia, uma das principais matérias-primas da indústria de fertilizantes, é produzida em escala industrial pelo processo conhecido como Haber-Bosch. Neste, uma reação entre H2(g) e N2(g) é catalisada com ferro em um reator mantido a 200 atm e 450 ºC. Sobre essa reação exotérmica, sejam feitas as seguintes proposições: I. O aumento da pressão no reator, mediante adição de um gás inerte, aumenta o rendimento do processo. II. O uso de um catalisador mais efetivo aumenta o rendimento do processo. III. Uma vez atingido o equilíbrio, não ocorrem mais colisões efetivas entre moléculas de H2(g) e N2(g). IV. Considerando que ainda exista superação da energia de ativação, a redução da temperatura no reator diminui a velocidade da reação, mas favorece a formação de amônia. Assinale a opção que apresenta a(s) afirmação(ões) CORRETA(S) sobre a reação de formação da amônia.",
-      "alternativas": {
-        "A": "apenas I",
-        "B": "apenas I e II",
-        "C": "apenas II e III",
-        "D": "apenas III e IV",
-        "E": "apenas IV"
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I"
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e II"
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II e III"
+        },
+        {
+          "letra": "D",
+          "texto": "apenas III e IV"
+        },
+        {
+          "letra": "E",
+          "texto": "apenas IV"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Química – Físico-Química",
         "Química – Equilíbrio Químico",
         "Química – Cinética Química"
       ]
     },
     {
-      "numero_questao": 59,
+      "numeroEnunciado": 59,
       "enunciado": "A chama de uma vela é o exemplo mais comum de chama difusiva, na qual o oxigênio difunde-se em direção à parafina. Essa parafina pode apresentar diferentes tamanhos de cadeia carbônica. Com essas informações, considere as seguintes proposições: I. A parafina da vela é constituída por moléculas de fórmula molecular CxHy, em que x ≤ 8. II. A combustão da parafina na vela tem como principais produtos: negro de fumo, monóxido de carbono, dióxido de carbono e água. III. A cor amarela da parte superior da chama indica um processo de combustão que depende da difusão do oxigênio presente no ar. IV. Na região inferior da chama há coloração levemente azulada por conta da maior quantidade de oxigênio difundido pelas zonas de recirculação. Das afirmações acima, está(ão) CORRETA(S)",
-      "alternativas": {
-        "A": "apenas I e II.",
-        "B": "apenas I, II e III.",
-        "C": "apenas I e IV.",
-        "D": "apenas II, III e IV.",
-        "E": "apenas III e IV."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas I e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas II, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Química – Química Orgânica",
         "Química – Combustão",
         "Química – Estequiometria"
       ]
     },
     {
-      "numero_questao": 60,
+      "numeroEnunciado": 60,
       "enunciado": "O tiocianato de cobre é um condutor sólido do tipo p com aplicações optoeletrônicas e fotovoltaicas, como células solares. O CuSCN reage com o iodato de potássio na presença de ácido clorídrico para formar sulfato de cobre, ácido cianídrico, cloreto de potássio e monocloreto de iodo. O valor da soma dos menores coeficientes estequiométricos inteiros da reação líquida é igual a",
-      "alternativas": {
-        "A": "32.",
-        "B": "36.",
-        "C": "49.",
-        "D": "50.",
-        "E": "54."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32."
+        },
+        {
+          "letra": "B",
+          "texto": "36."
+        },
+        {
+          "letra": "C",
+          "texto": "49."
+        },
+        {
+          "letra": "D",
+          "texto": "50."
+        },
+        {
+          "letra": "E",
+          "texto": "54."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Química – Química Inorgânica",
         "Química – Reações Redox",
         "Química – Balanceamento de Equações"
       ]
     },
     {
-      "numero_questao": 61,
+      "numeroEnunciado": 61,
       "enunciado": "Em um experimento realizado a 298 K foram adicionados 20,0 mL de HCl 1,5.10⁴ mol L⁻¹ a 0,48 L de uma solução de limpeza contendo 3,01.10⁻⁶ mol de uma base forte hipotética XOH. O valor da concentração de H3O⁺, em mol L⁻¹, na solução resultante é igual a",
-      "alternativas": {
-        "A": "1,0.10⁻⁸.",
-        "B": "8,3.10⁻⁸.",
-        "C": "1,0. 10⁻⁷.",
-        "D": "1,2 . 10⁻⁷.",
-        "E": "8,2. 10⁻⁷."
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,0.10⁻⁸."
+        },
+        {
+          "letra": "B",
+          "texto": "8,3.10⁻⁸."
+        },
+        {
+          "letra": "C",
+          "texto": "1,0. 10⁻⁷."
+        },
+        {
+          "letra": "D",
+          "texto": "1,2 . 10⁻⁷."
+        },
+        {
+          "letra": "E",
+          "texto": "8,2. 10⁻⁷."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Química – Físico-Química",
         "Química – Equilíbrio Iônico",
         "Química – pH"
       ]
     },
     {
-      "numero_questao": 62,
+      "numeroEnunciado": 62,
       "enunciado": "Um reator com 200 L de capacidade, possui uma mistura de dióxido de nitrogênio e monóxido de carbono a 400 K, cujo comportamento pode ser considerado ideal. Os gases reagem entre si para formar dióxido de carbono e monóxido de nitrogênio. A pressão total no reator é igual a 32,8 atm e, no início da reação, a pressão parcial do monóxido de carbono é três vezes maior que a do dióxido de nitrogênio. As massas iniciais de dióxido de nitrogênio e de monóxido de carbono são, respectivamente,",
-      "alternativas": {
-        "A": "1,5 kg e 4,2 kg.",
-        "B": "1,5 kg e 4,5 kg.",
-        "C": "1,5 kg e 6,6 kg.",
-        "D": "2,3 kg e 4,2 kg.",
-        "E": "2,3 kg e 6,6 kg."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,5 kg e 4,2 kg."
+        },
+        {
+          "letra": "B",
+          "texto": "1,5 kg e 4,5 kg."
+        },
+        {
+          "letra": "C",
+          "texto": "1,5 kg e 6,6 kg."
+        },
+        {
+          "letra": "D",
+          "texto": "2,3 kg e 4,2 kg."
+        },
+        {
+          "letra": "E",
+          "texto": "2,3 kg e 6,6 kg."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Química – Físico-Química",
         "Química – Gases Ideais",
         "Química – Estequiometria"
       ]
     },
     {
-      "numero_questao": 63,
+      "numeroEnunciado": 63,
       "enunciado": "Polímeros são moléculas muito grandes constituídas por milhares de átomos. Tais macromoléculas são classificadas em duas categorias: naturais e sintéticas. Os naturais têm como exemplos as proteínas, ácidos nucleicos e borrachas, enquanto os sintéticos são compostos orgânicos tais como a polihexametilenoadipamida (Nylon) e o poli(metacrilato de metila). Nesse contexto, considere as seguintes afirmações: (1) A glicose é um álcool-aldeído que polimeriza para formar o amido e a celulose. (2) A estrutura primária de um polipeptídeo é a sequência de resíduos de aminoácidos. (3) Os polímeros formados por cadeias longas tendem a ter alta viscosidade. (4) Os álcoois condensam com ácidos carboxílicos para formar ésteres. (5) As amidas resultam da condensação de aminas e ácidos carboxílicos. A soma dos números associados às afirmativas CORRETAS é igual a:",
-      "alternativas": {
-        "A": "8.",
-        "B": "10.",
-        "C": "12.",
-        "D": "13.",
-        "E": "15."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8."
+        },
+        {
+          "letra": "B",
+          "texto": "10."
+        },
+        {
+          "letra": "C",
+          "texto": "12."
+        },
+        {
+          "letra": "D",
+          "texto": "13."
+        },
+        {
+          "letra": "E",
+          "texto": "15."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Química – Química Orgânica",
         "Química – Polímeros",
         "Química – Biomoléculas",
@@ -1034,99 +1978,189 @@
       ]
     },
     {
-      "numero_questao": 64,
+      "numeroEnunciado": 64,
       "enunciado": "Quando dissolvidos em água para formar soluções com concentração 0,1 mol L⁻¹, os sais Na2S, NaCH3CO2, NaHSO4 e Na2HPO4 deixam o meio respectivamente",
-      "alternativas": {
-        "A": "ácido, básico, neutro, básico.",
-        "B": "básico, neutro, ácido, neutro.",
-        "C": "ácido, básico, ácido, ácido.",
-        "D": "básico, básico, ácido, básico.",
-        "E": "neutro, neutro, básico, neutro."
-      },
-      "alternativa_correta": "D",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ácido, básico, neutro, básico."
+        },
+        {
+          "letra": "B",
+          "texto": "básico, neutro, ácido, neutro."
+        },
+        {
+          "letra": "C",
+          "texto": "ácido, básico, ácido, ácido."
+        },
+        {
+          "letra": "D",
+          "texto": "básico, básico, ácido, básico."
+        },
+        {
+          "letra": "E",
+          "texto": "neutro, neutro, básico, neutro."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
         "Química – Físico-Química",
         "Química – Hidrólise de Sais",
         "Química – pH de Soluções"
       ]
     },
     {
-      "numero_questao": 65,
+      "numeroEnunciado": 65,
       "enunciado": "Turbinas a gás podem operar com diversos tipos de combustível. Alguns dos mais comuns são metano, etanol e querosene (C12H26). Considerando combustão completa, a razão mássica de mistura entre cada um desses combustíveis e o oxigênio é, respectivamente,",
-      "alternativas": {
-        "A": "0,25; 0,48 е 0,29.",
-        "B": "0,25; 0,48 е 0,57.",
-        "C": "0,25; 0,96 е 0,57.",
-        "D": "0,50; 0,48 е 0,29.",
-        "E": "0,50; 0,96 е 0,57."
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,25; 0,48 е 0,29."
+        },
+        {
+          "letra": "B",
+          "texto": "0,25; 0,48 е 0,57."
+        },
+        {
+          "letra": "C",
+          "texto": "0,25; 0,96 е 0,57."
+        },
+        {
+          "letra": "D",
+          "texto": "0,50; 0,48 е 0,29."
+        },
+        {
+          "letra": "E",
+          "texto": "0,50; 0,96 е 0,57."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Química – Estequiometria",
         "Química – Combustão"
       ]
     },
     {
-      "numero_questao": 66,
+      "numeroEnunciado": 66,
       "enunciado": "Líquidos iônicos, ou sais que fundem à temperatura ambiente, são compostos iônicos que apresentam temperatura de fusão abaixo de 100 °C e que consistem de íons e pares iônicos não dissociados. Com base nessa definição, assinale a opção CORRETA sobre líquidos iônicos.",
-      "alternativas": {
-        "A": "NaCl fundido pode ser definido como um líquido iônico.",
-        "B": "CH3COOH anidro pode ser definido como um líquido iônico.",
-        "C": "A condutividade específica de líquidos iônicos é equivalente à da água.",
-        "D": "A pressão de vapor de líquidos iônicos é equivalente à de solventes orgânicos voláteis.",
-        "E": "Sais que apresentam cátions ou ânions relativamente grandes devem se comportar como líquidos iônicos."
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "NaCl fundido pode ser definido como um líquido iônico."
+        },
+        {
+          "letra": "B",
+          "texto": "CH3COOH anidro pode ser definido como um líquido iônico."
+        },
+        {
+          "letra": "C",
+          "texto": "A condutividade específica de líquidos iônicos é equivalente à da água."
+        },
+        {
+          "letra": "D",
+          "texto": "A pressão de vapor de líquidos iônicos é equivalente à de solventes orgânicos voláteis."
+        },
+        {
+          "letra": "E",
+          "texto": "Sais que apresentam cátions ou ânions relativamente grandes devem se comportar como líquidos iônicos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Química – Físico-Química",
         "Química – Ligações Químicas",
         "Química – Propriedades da Matéria"
       ]
     },
     {
-      "numero_questao": 67,
+      "numeroEnunciado": 67,
       "enunciado": "Considere as seguintes transformações: I. Conversão de propanol em propanal; II. Conversão de bromometano em metanol; III. Conversão de etino em eteno; IV. Reação de propanal em presença de íons prata; V. Conversão de metano em bromometano. As reações envolvidas em cada uma das transformações de I a V podem ser classificadas como de oxidação, redução, ou outra. Assinale a opção que contém corretamente o tipo de reação envolvida, do ponto de vista da molécula orgânica, em cada uma das transformações de I a V, respectivamente.",
-      "alternativas": {
-        "A": "Oxidação, redução, oxidação, oxidação, outra.",
-        "B": "Redução, outra, redução, outra, outra.",
-        "C": "Oxidação, outra, redução, oxidação, oxidação.",
-        "D": "Redução, oxidação, outra, outra, oxidação.",
-        "E": "Oxidação, oxidação, redução, oxidação, outra."
-      },
-      "alternativa_correta": "C",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Oxidação, redução, oxidação, oxidação, outra."
+        },
+        {
+          "letra": "B",
+          "texto": "Redução, outra, redução, outra, outra."
+        },
+        {
+          "letra": "C",
+          "texto": "Oxidação, outra, redução, oxidação, oxidação."
+        },
+        {
+          "letra": "D",
+          "texto": "Redução, oxidação, outra, outra, oxidação."
+        },
+        {
+          "letra": "E",
+          "texto": "Oxidação, oxidação, redução, oxidação, outra."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
         "Química – Química Orgânica",
         "Química – Reações Orgânicas (Oxidação, Redução, Substituição, Adição)"
       ]
     },
     {
-      "numero_questao": 68,
+      "numeroEnunciado": 68,
       "enunciado": "Considerando que o aré composto aproximadamente de 21% de O2 e 79% de N2 em volume, tem-se que a razão molar ar/combustível da combustão completa de um determinado alcano é igual a 59,5. A partir desse dado, assinale a alternativa que corresponde à soma dos coeficientes estequiométricos de todas as substâncias presentes nessa reação.",
-      "alternativas": {
-        "A": "30,5",
-        "B": "55,5",
-        "C": "82,0",
-        "D": "112,0",
-        "E": "124,5"
-      },
-      "alternativa_correta": "E",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30,5"
+        },
+        {
+          "letra": "B",
+          "texto": "55,5"
+        },
+        {
+          "letra": "C",
+          "texto": "82,0"
+        },
+        {
+          "letra": "D",
+          "texto": "112,0"
+        },
+        {
+          "letra": "E",
+          "texto": "124,5"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
         "Química – Estequiometria",
         "Química – Combustão"
       ]
     },
     {
-      "numero_questao": 69,
+      "numeroEnunciado": 69,
       "enunciado": "Considere que o ar seco ao nível do mar é composto de 4.10⁻²% (em volume) de CO2. Sejam dadas a constante da lei de Henry para o CO2 e a constante da primeira dissociação do ácido carbônico, respectivamente, KH = 2,5·10⁻² mol L⁻¹ atm⁻¹ e Ka = 1·10⁻⁶,⁴. Assinale a opção que apresenta a concentração em mol L⁻¹ de CO2 dissolvido e o pH de uma amostra de água desionizada, após a mesma entrar em equilíbrio com o ar atmosférico.",
-      "alternativas": {
-        "A": "10⁻² e 6,4",
-        "B": "10⁻⁵ e 5,7",
-        "C": "10⁻⁵ e 6,4",
-        "D": "10⁻⁷ e 5,7",
-        "E": "10⁻⁷ e 6,4"
-      },
-      "alternativa_correta": "B",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10⁻² e 6,4"
+        },
+        {
+          "letra": "B",
+          "texto": "10⁻⁵ e 5,7"
+        },
+        {
+          "letra": "C",
+          "texto": "10⁻⁵ e 6,4"
+        },
+        {
+          "letra": "D",
+          "texto": "10⁻⁷ e 5,7"
+        },
+        {
+          "letra": "E",
+          "texto": "10⁻⁷ e 6,4"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
         "Química – Físico-Química",
         "Química – Equilíbrio Iônico",
         "Química – Leis dos Gases",
@@ -1135,17 +2169,32 @@
       ]
     },
     {
-      "numero_questao": 70,
+      "numeroEnunciado": 70,
       "enunciado": "Considere os seguintes experimentos e suas respectivas observações: I. A uma solução de nitrato de prata é adicionada uma solução de cloreto de sódio, com a formação de um precipitado. II. O precipitado obtido em (I) é filtrado e misturado a hidróxido de sódio sólido, com um pouco de água. A mistura é aquecida, produzindo um sólido marrom escuro. III. O sólido preparado em (II) é aquecido junto a uma solução concentrada de glicose, formando um sólido cinzento. Assinale a alternativa que apresenta corretamente os sólidos produzidos em I, II e III, respectivamente.",
-      "alternativas": {
-        "A": "AgCl, Ag2O, Ag",
-        "B": "Ag, AgOH, Ag",
-        "C": "AgCl, AgOH, AgO",
-        "D": "AgCl, Ag2O, Ag2C2",
-        "E": "AgCl, AgO, Ag2C2"
-      },
-      "alternativa_correta": "A",
-      "conteudos_abordados": [
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "AgCl, Ag2O, Ag"
+        },
+        {
+          "letra": "B",
+          "texto": "Ag, AgOH, Ag"
+        },
+        {
+          "letra": "C",
+          "texto": "AgCl, AgOH, AgO"
+        },
+        {
+          "letra": "D",
+          "texto": "AgCl, Ag2O, Ag2C2"
+        },
+        {
+          "letra": "E",
+          "texto": "AgCl, AgO, Ag2C2"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
         "Química – Química Inorgânica",
         "Química – Reações de Precipitação",
         "Química – Óxido-Redução (Reação de Tollens)"

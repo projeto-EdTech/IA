@@ -100,18 +100,32 @@ Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes in
   - O(s) conteúdo(s) abordados na questão no formato: "Disciplina – Tópico Específico" (exemplo: "Matemática – Funções do 1º grau").
 
 Importante: A disciplina deve ser exclusivamente uma das seguintes: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia" ou "Sociologia". Não utilize nenhuma outra. Caso a questão não pertença a uma dessas três disciplinas, ignore-a e não a inclua no resultado.
-A saída final deve ser estritamente um único objeto JSON puro, sem explicações, comentários, ou formatações extras como blocos de código. Siga o schema da função fornecida com exatidão, não altere nenhum nome dos campos do jsonschema apresentado.`,
-  ];
+A saída final deve ser estritamente um único objeto JSON puro, sem explicações, comentários, ou formatações extras como blocos de código. Siga o schema da função fornecida com exatidão, não altere nenhum nome dos campos do jsonschema apresentado.
+Além disto você é ABSOLUTAMENTE CRÍTICO que os argumentos que você fornecer à função 'extrair_dados_prova' sigam EXATAMENTE o JSON Schema que lhe foi dado, sem quaisquer variações nos nomes dos campos ou nos tipos de dados.
+
+Especificamente, garanta que:
+- O objeto principal seja 'prova'.
+- Dentro de 'prova', os campos sejam 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
+- O array de questões seja 'questoes'.
+- Cada objeto dentro do array 'questoes' tenha os campos:
+    - 'numeroEnunciado' (NÃO 'numeroQuestao').
+    - 'enunciado'.
+    - 'alternativas' seja um ARRAY de objetos (NÃO um objeto simples), onde cada objeto tem 'letra' e 'texto'.
+    - 'opcaoCorreta'.
+    - 'conteudo' (NÃO 'conteudoAbordado') seja um ARRAY de strings (NÃO uma string simples).
+
+Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
+ `];
 
   console.log("Iniciando upload e processamento dos arquivos...");
 
     console.time("Processando Arquivo da Prova");
-    let file1 = await uploadRemotePDF("https://www.vestibular.ita.br/provas/2019_fase1.pdf", "PDF Da Prova");
-    console.timeEnd("Processando Arquivo da Prova");                  // Termina o cronômetro do upload da prova
+    let file1 = await uploadRemotePDF("https://www.vestibular.ita.br/provas/ingles_2015.pdf", "PDF Da Prova");
+    console.timeEnd("Processando Arquivo da Prova"); // Termina o cronômetro do upload da prova
 
     console.time("Processando Arquivo do Gabarito");
-    let file2 = await uploadRemotePDF("https://www.vestibular.ita.br/provas/gabarito_2019.pdf", "PDF Do Gabarito");
-    console.timeEnd("Processando Arquivo do Gabarito");               // Termina o cronômetro do upload do Gabarito
+    let file2 = await uploadRemotePDF("https://www.vestibular.ita.br/provas/gabarito_2015.pdf", "PDF Do Gabarito");
+    console.timeEnd("Processando Arquivo do Gabarito"); // Termina o cronômetro do upload do Gabarito
 
     console.log("Uploads e processamento dos PDF's concluídos.");
 
@@ -126,15 +140,13 @@ A saída final deve ser estritamente um único objeto JSON puro, sem explicaçõ
     console.log("Enviando requisição para a IA...");
     console.time("Processamento de Conteúdo Gemini");
     const response = await ai.models.generateContent({
-        model: 'gemini-2.5-flash',                                    // Modelo Gemini 2.5 Flash
+        model: 'gemini-2.5-flash',
         contents: contents,
         generationConfig: {
-            temperature: 0.2,                                         // Temperatura de 0.2 para respostas mais objetivas
-            maxOutputTokens: 8192,                                    // Limite de tokens de saída para evitar respostas muito longas
-            responseMimeType: "application/json",
+            temperature: 0.2,
+            maxOutputTokens: 8192,
+            // responseMimeType: "application/json", // <-- Esta linha foi removida na correção anterior, o que é correto
         },
-        // Configuração de ferramentas para a IA
-        // Declaração da função com o schema JSON
         tools: [{
             functionDeclarations: [{
                 name: "extrair_dados_prova",
@@ -143,77 +155,79 @@ A saída final deve ser estritamente um único objeto JSON puro, sem explicaçõ
             }, ],
         }, ],
 
-        safetySettings: [                                             // Ajuste de segurança para não bloquear nenhum conteúdo
+        safetySettings: [
         {
-            category: 'HARM_CATEGORY_HARASSMENT',                     // Categoria de assédio
-            threshold: 'BLOCK_NONE',                                  // Nenhum bloqueio
+            category: 'HARM_CATEGORY_HARASSMENT',
+            threshold: 'BLOCK_NONE',
         },
         {
-            category: 'HARM_CATEGORY_HATE_SPEECH',                    // Categoria de discurso de ódio 
-            threshold: 'BLOCK_NONE',                                  // Nenhum bloqueio    
+            category: 'HARM_CATEGORY_HATE_SPEECH',
+            threshold: 'BLOCK_NONE',
         },
         {
-            category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT',              // Categoria de conteúdo sexualmente explícito      
-            threshold: 'BLOCK_NONE',                                  // Nenhum bloqueio     
+            category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT',
+            threshold: 'BLOCK_NONE',
         },
         {
-            category: 'HARM_CATEGORY_DANGEROUS_CONTENT',              // Categoria de conteúdo perigoso 
-            threshold: 'BLOCK_NONE',                                  // Nenhum bloqueio
+            category: 'HARM_CATEGORY_DANGEROUS_CONTENT',
+            threshold: 'BLOCK_NONE',
         },
     ],
     });
-    console.timeEnd("Processamento de Conteúdo Gemini"); // Termina o cronômetro da IA
+    console.timeEnd("Processamento de Conteúdo Gemini");
 
     console.log("Resposta recebida. Processando JSON...");
-    const responseText = response.candidates[0].content.parts[0].text;
+    // AQUI ESTAVA O PROBLEMA DE NOME DE VARIÁVEL
+    const responseContentParts = response.candidates[0].content.parts; // Renomeado de 'responseText' para 'responseContentParts'
 
     let jsonData;
 
+    if (responseContentParts && responseContentParts[0] && responseContentParts[0].functionCall) {
+        jsonData = responseContentParts[0].functionCall.args;
+        console.log("JSON extraído do functionCall.");
+    } else {
+        // Agora, 'responseContentParts' é a variável correta para o array de partes
+        // E 'responseTextContent' é uma nova variável para o texto dentro da primeira parte
+        const responseTextContent = responseContentParts[0].text;
+        try {
+            const match = responseTextContent.match(/\{[\s\S]*\}/);
+            if (match && match[0]) {
+                jsonData = JSON.parse(match[0]);
+                console.log("JSON extraído diretamente do texto (fallback).");
+            } else {
+                throw new Error("Nenhum objeto JSON ou functionCall encontrado na resposta.");
+            }
+        } catch (e) {
+            console.error("Falha ao processar o JSON:", e.message);
 
-  try {
-        // Tenta encontrar o JSON dentro da string de resposta
-        const match = responseText.match(/\{[\s\S]*\}/);
-        if (match && match[0]) {
-            // Se encontrou, tenta fazer o parse apenas da parte correspondente ao JSON
-            jsonData = JSON.parse(match[0]);
-        } else {
-            // Se não encontrou nenhum padrão de JSON, lança um erro
-            throw new Error("Nenhum objeto JSON encontrado na resposta.");
+            const logsDir = path.join(process.cwd(), "Erros");
+            if (!fs.existsSync(logsDir)) {
+                fs.mkdirSync(logsDir, { recursive: true });
+            }
+
+            const now = new Date();
+            const timestamp = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}_${String(now.getHours()).padStart(2, '0')}-${String(now.getMinutes()).padStart(2, '0')}-${String(now.getSeconds()).padStart(2, '0')}`;
+            const logFileName = `erro_json_parse_${timestamp}.txt`;
+            const logFilePath = path.join(logsDir, logFileName);
+
+            const logContent = `Ocorreu uma falha ao processar o JSON recebido da API.
+
+            Mensagem de Erro:
+            ${e.message}
+
+            ---
+
+            Resposta Bruta Recebida (que causou o erro):
+            ${JSON.stringify(response.candidates[0].content.parts, null, 2)}
+            `;
+
+            fs.writeFileSync(logFilePath, logContent, "utf-8");
+
+            console.error(`>>> A resposta bruta que causou o erro foi salva no arquivo: ${logFilePath}`);
+
+            return;
         }
-    } catch (e) {
-    console.error("Falha ao processar o JSON:", e.message);
-
-    // Garante que o diretório de logs exista
-    const logsDir = path.join(process.cwd(), "Erros");
-    if (!fs.existsSync(logsDir)) {
-        fs.mkdirSync(logsDir, { recursive: true });
     }
-
-    // Cria um nome de arquivo único com data e hora
-    const now = new Date();
-    const timestamp = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}_${String(now.getHours()).padStart(2, '0')}-${String(now.getMinutes()).padStart(2, '0')}-${String(now.getSeconds()).padStart(2, '0')}`;
-    const logFileName = `erro_json_parse_${timestamp}.txt`;
-    const logFilePath = path.join(logsDir, logFileName);
-
-    // Cria o conteúdo do arquivo de log, incluindo a mensagem de erro e a resposta bruta
-    const logContent = `Ocorreu uma falha ao processar o JSON recebido da API.
-
-      Mensagem de Erro:
-      ${e.message}
-
-      ---
-
-      Resposta Bruta Recebida (que causou o erro):
-      ${responseText}
-      `;
-
-    // Salva o conteúdo no arquivo de texto
-    fs.writeFileSync(logFilePath, logContent, "utf-8");
-
-    console.error(`>>> A resposta bruta que causou o erro foi salva no arquivo: ${logFilePath}`);
-    
-    return; // Encerra se não conseguir processar
-  }
 
     const resultadosDir = path.join(process.cwd(), "Resultados");
     if (!fs.existsSync(resultadosDir)) {

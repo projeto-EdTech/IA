@@ -1,0 +1,2711 @@
+{
+  "prova": {
+    "nomeUniversidade": "Universidade de São Paulo",
+    "siglaUniversidade": "FUVEST",
+    "nomeProva": "FUVEST",
+    "ano": 2025,
+    "qtdeQuestoes": 90
+  },
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Texto 1\n\"Afinal, depois de ver todas as coisas daquele museu, acabei\nme perguntando se os brancos já não teriam começado a\nadquirir também tantas de nossas coisas só porque nós,\nYanomami, já estamos começando também a desaparecer.\nPor que ficam nos pedindo nossos cestos, nossos arcos e\nnossos adornos de penas, enquanto garimpeiros e fazendeiros\ninvadem nossa terra?\"\nKOPENAWA, Davi; ALBERT, Bruce. Queda do céu: palavras de um xamã\nyanomami. São Paulo: Companhia das Letras, 2015. p.429.\nTexto 2\n\"Em seu trabalho, Glicéria debruça-se sobre a artesania do\nmanto tupinambá, símbolo das tradições ancestrais de seu\npovo. A artista chama de cosmo-técnica a feitura do manto, e\nhoje busca compreender qual era sua função cultural e social\nem sua comunidade. Recentemente, a artista esteve na\nEuropa e encontrou mantos datados do século XVII, que foram\nlevados do Brasil ao longo da colonização, na Dinamarca.\nSegundo Glicéria, 'hoje, as pessoas entendem o manto como\narte, arte contemporânea, mas eu vejo muito além. É um\nancestral nosso'.\"\nInstituto Pipa. Ocupação dos artistas premiados do Pipa 2023: Glicéria\nTupinambá. Disponível em: https://www.premiopipa.com/2023/10/\n(Adaptado).\nGlicéria Tupinambá, Assojaba Tupinambá, 2021. Disponível em:\nhttps://dasartes.com.br/de-arte-a-z/.\nA reflexão de Davi Kopenawa sobre a apropriação de objetos\nindígenas por museus e a pesquisa de Glicéria Tupinambá\nsobre o manto tupinambá em contextos europeus permitem\nexplorar diversas dimensões da arte indígena.\nCom base nos textos e na imagem, assinale a alternativa que relaciona corretamente as reflexões apresentadas à importância da\narte e dos artefatos culturais na discussão sobre questões indígenas no Brasil.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) A arte indígena, ao ser exposta em museus europeus, perde seu significado original e se transforma apenas em objeto de\ndecoração, desvinculando-se completamente de suas raízes culturais e simbólicas, de acordo com David Kopenawa."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Glicéria Tupinambá, ao retomar elementos tradicionais em suas obras, busca uma representação autêntica que resiste à\ndomesticação cultural imposta pelos colonizadores, valorizando o aspecto utilitário desses objetos."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) O trabalho de Glicéria Tupinambá, ao redescobrir os mantos tupinambá na Europa, revela como a arte indígena pode servir\ncomo uma ponte para o entendimento e a valorização das culturas indígenas por sociedades que historicamente as\nmarginalizaram."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Para David Kopenawa, a guarda de artefatos indígenas em museus da Europa é uma forma eficaz de preservação e valorização\nda cultura indígena, pois demonstra reconhecimento da sua importância e esforço, por parte da sociedade, para proteger os\ndireitos territoriais desses povos."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) A arte, como mostrado por Glicéria Tupinambá, atua como um meio de resistência cultural, em que elementos tradicionais são\nrecontextualizados para contestar narrativas coloniais e reafirmar identidades indígenas em face de processos de\ndesapropriação e desaparecimento."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Arte – Arte Indígena e Contextos Culturais"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Analise, na figura a seguir, os dados referentes a áreas de\ngarimpo ilegal localizadas em terras indígenas na Amazônia\nbrasileira e sua distância em relação a corpos d'água.\nDISTÂNCIA DE CORPOS D'ÁGUA\nGarimpo até 500m d'água\nGarimpo a partir de 500m d'água\nÁREA DE GARIMPO\nKAYAPÓ\n70%\n30%\nMUNDURUKU\n39%\n61%\nYANOMAMI\n64%\n36%\nMapBiomas. 2024. Proximidade de Garimpos, Rios e Lagos na Amazônia\n(Adaptado).\nA partir dos dados apresentados e da realidade\nsocioambiental da Amazônia, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Os territórios indígenas encontram-se nas áreas mais\ndesmatadas da Amazônia; como o garimpo ilegal produz\nforte impacto ambiental pelo intenso uso da água em seus\nprocessos, tal atividade colabora com a desertificação do\nbioma."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) O garimpo ilegal representa alto risco a populações\nhumanas e animais em geral, pela contaminação das águas\ne dos alimentos por substâncias usadas na garimpagem e\nporque tal atividade ocorre em áreas ainda muito\npreservadas, aumentando o impacto ambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) O garimpo ilegal na Amazônia não produz tanto impacto\npara os corpos d'água, uma vez que as atividades\nencontram-se distantes do rio Amazonas e de seus\nafluentes, os maiores rios da região; seu maior impacto\nocorre devido ao desmatamento de extensas áreas de\nfloresta nativa."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) A proximidade dos corpos d'água deve-se a questões\nestratégicas, e não ao garimpo ilegal propriamente, pois\neste é de baixo impacto; porém traz conflitos territoriais\ncom as comunidades indígenas, e os rios constituem rotas\nde fuga rápidas e eficientes para os garimpeiros."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) A relação entre garimpos e corpos d'água ocorre de forma\nindireta, pois o garimpo amazônico não depende da água\nem seus processos; os garimpeiros buscam esses\nterritórios porque as populações indígenas sabem onde\nexiste ouro e se desenvolvem próximas a rios e lagos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Impactos Socioambientais e Conflitos Territoriais na Amazônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "GARIMPO ILEGAL\nO mercúrio a\ngente descarta\nna agua.\njeangalvão\nJean Galvão. Disponível em https://cartum.folha.uol.com.br/.\nConsiderando a charge, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Há uma incoerência entre a imagem do segundo quadro e\no enunciado verbal do primeiro quadro, uma vez que a\nposposição do adjunto adverbial \"na água\" anula qualquer\nambiguidade."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Ao antecipar o objeto direto “o mercúrio\" para o começo\nda oração, o chargista chama a atenção para esse\nelemento, estimulando o leitor a buscá-lo visualmente no\nsegundo quadro."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Por meio da escolha do verbo \"descartar\", mostra-se, de\nforma crítica, a necessidade da criação de um local correto\npara o depósito dos rejeitos provenientes do garimpo\nilegal."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) O uso da forma pronominal informal \"a gente\", em\ndetrimento do pronome \"nós\", empregado em situações\nmais formais e sérias, atenua o teor crítico, o que colabora\npara gerar efeito humorístico."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) O significado negativo do prefixo que aparece na palavra\n\"ilegal\" reforça a precariedade do atendimento à saúde\nnas comunidades indígenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto e Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "\"E assim como o branco e os mamelucos se aproveitaram não\nraro das veredas dos índios, há motivo para pensar que estes,\npor sua vez, foram, em muitos casos, simples sucessores dos\nanimais selvagens, do tapir especialmente, cujos carreiros ao\nlongo dos rios e riachos, ou em direção a nascentes de águas,\nse adaptavam perfeitamente às necessidades e hábitos\ndaquelas populações.\"\nHOLANDA, Sergio Buarque de. Caminhos e fronteiras. Rio de Janeiro: José\nOlympio, 1975. p.35.\nDe acordo com o excerto, a ocupação territorial da América\nportuguesa pelos colonizadores foi inicialmente marcada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) pela construção de caminhos que os afastassem dos\ncursos dos rios."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) pela desconsideração das rotas de deslocamento abertas\npelos animais."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) pela utilização de picadas abertas pelas comunidades\nindígenas."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) pelo emprego de tropas de muares, responsáveis por abrir\ntrilhas nas matas."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) pela exploração do transporte fluvial e marítimo por meio\nde pirogas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Ocupação Territorial e Colonização no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Os quadrinhos a seguir são parte da obra Dois irmãos, de\nFábio Moon e Gabriel Bá (2015), uma adaptação do romance\nDois irmãos, de Milton Hatoum, para o universo das novelas\ngráficas (graphic novels).\n\"EM BRIMEIRO\nLUGAR, BABAI.\"\nCresci vendo as fotos\ndo Yaqub e ouvindo a\nmãe dele ler suas\ncartas.\nA cicatriz começava a crescer no\ncorpo de Yaqub. A cicatriz, a dor e\num sentimento que não revelava e\ntalvez desconhecesse. Remoía\ncalado, matutava.\nNão tornaram a\nfalar um com o\noutro.\nOs pais temiam a\nreação de Yaqub,\ntemiam o pior.\nA violência dentro\nde casa.\n\"Fui observador desse jogo e\npresenciei muitas cartadas,\naté o lance final.\nConsiderando as características visuais dos quadrinhos e os\ntraços narrativos do romance Dois irmãos, de Milton Hatoum,\né correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) O uso dos contrastes claro x escuro na novela gráfica\nconfere ênfase visual ao conflito entre diferentes formas\nde privilégio e marginalização presentes no romance de\nHatoum, explicitadas pelo ponto de vista do narrador."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Ao trabalhar com os contrastes claro x escuro em suas\nimagens, a novela gráfica enfatiza a diferença étnica e\nsocial que fundamenta a rivalidade fraterna entre Yaqub e\nOmar, um dos eixos estruturais do romance."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Ao utilizar procedimentos como a aproximação (zoom-in)\ne a fragmentação das imagens, a novela gráfica recria o\nfluxo de consciência e a atmosfera onírica da narrativa de\nHatoum."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) A novela gráfica demonstra, por meio de imagens, que o\nromance Dois irmãos reinventa a tradição da literatura\nregionalista do Brasil, retratando a opulência da cidade de\nManaus ao longo do século XX."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Por meio de recursos estéticos como a fragmentação das\nimagens, a novela gráfica recupera o ponto de vista\nfraturado do romance de Hatoum, composto por vários\nnarradores ao longo da história."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Análise de Graphic Novel e Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o texto e analise a charge a seguir.\n\"Se, compreendendo um outro ser humano, penetro\nprofundamente no horizonte do que lhe é próprio, então logo\nme depararei com o fato de que, assim como o seu corpo se\nencontra no meu campo de percepção, também o meu corpo\nse encontra no dele, e que, em geral, ele me experiencia sem\nmais como um outro para ele, tal como eu o experiencio como\noutro para mim.\"\nHUSSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária,\n2013.\nIMIGRANTES\nILEGAIS TRAZEM\nCRIME, DROGAS\nE VIOLÊNCIA!\nNOS\nSABEMOS!\nGENIO\nZADKOVIC\n& BIRA\nDANCAS\nBira Dantas. Disponível em https://facebook.com/.\nO filósofo Edmund Husserl propõe uma reflexão sobre como\ncada pessoa estabelece relações com as outras. Ocorre uma\nequiparação dos pontos de vista, de modo que cada uma\naparecerá às demais não como uma consciência\nincomparável, mas justamente como uma outra pessoa. Essa\nideia ajuda a entender a perspectiva crítica contida na charge:\ncertas condições ou características que percebemos como\ndepreciativas em outras pessoas também podem ser\npercebidas da mesma maneira pelos outros em nós.\nQual situação reproduz essa estrutura de equiparação exibida\nna charge?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Torcedores de diversos times de futebol se reúnem\ndesanimados para assistir a um jogo da seleção."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Religiosos conservadores sugerem banir livros eróticos\ndoados por desconhecidos para a sua comunidade."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Com medo da violência, um homem passa a andar armado\nna rua e assusta os transeuntes."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Um homem acusa uma mulher de racismo e algumas\ntestemunhas confirmam a versão dele para a polícia."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Um trabalhador denuncia ao chefe um colega por assédio\nmoral, mas esse último não é punido."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Fenomenologia e Intersubjetividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "PSYCHIATRIC\nHELP\nTHE DOCTOR\nIS IN\nWELL, I\nAPPRECIATE\nTHE HELP\nYOU'VE\nGIVEN ME\nI WAS WONDERING,\nTHOUGH, IF I\nSHOULD GET A\nSECOND OPINION..\nONLY IF YOU DON'T MIND\nMY BEATING YOU OVER\nTHE HEAD WITH THAT STOOL\nYOU'RE SITTING ON!\nTHE DOCTOR\nIS IN\nDisponível em https://screenrant.com/funniest-peanuts-comics-charlie-\nbrown-vs-lucy/.\nFalácias são argumentos que podem até parecer à primeira\nvista bem construídos logicamente, mas são falhos, seja em\ntermos do uso da linguagem, de pertinência temática ou de\ncorreção formal. Os primeiros estudos sistemáticos das\nfalácias foram feitos pelo filósofo Aristóteles, que classificou\nalguns dos argumentos falaciosos mais comuns.\nNo terceiro quadrinho da história, uma personagem se serve\nde um argumento falacioso bastante conhecido a fim de\npersuadir o outro. Esse argumento pode ser classificado como\num caso de qual tipo de falácia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Ataque à pessoa."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Apelo à piedade."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Apelo à força."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Ambiguidade."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Apelo à ignorância."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Lógica e Falácias Argumentativas"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "\"Eu não venero a criação mais do que o Criador, mas venero a\ncriatura criada como eu sou, adotando a criação de maneira\nlivre e espontânea, de modo que Ele possa elevar nossa\nnatureza e nos tornar partícipes de Sua natureza divina. Sendo\nassim, eu me atrevo a fazer uma imagem do Deus invisível não\ncomo invisível, mas como tendo se tornado visível por nossa\ncausa, tornando-se carne e sangue. Eu não faço uma imagem\nda divindade imortal. Eu pinto a carne visível de Deus, pois é\nimpossível representar o espírito e ainda mais Deus, que dá\nvida ao espírito.\"\nJohn Damascene. On holy images. Disponível em\nhttps://www.gutenberg.org/files/49917/ (Adaptado).\nNessa citação, João Damasceno (675-749), monge e teólogo\ncristão do período medieval, dirige-se contra o movimento\niconoclasta ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) colocar a criatura no mesmo nível do Criador."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) reduzir a divindade a seus elementos materiais."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) identificar a imagem visível com a natureza divina."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) negar o dogma da divindade de Jesus Cristo."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) justificar a veneração de imagens sagradas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Idade Média: Iconoclastia e Teologia Cristã"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "\"A mídia digital é uma mídia da presença. A sua\ntemporalidade é o presente imediato. A comunicação digital\nse caracteriza pelo fato de que informações são produzidas,\nenviadas e recebidas sem mediação por meio de\nintermediários. Mediação e representação são interpretadas\ncomo não transparência e ineficiência, como\ncongestionamento de tempo e de informação.\nUma mídia eletrônica de massa clássica como o rádio só\npermite uma comunicação unilateral. O destinatário da\nmensagem é condenado à passividade.\nHoje não somos mais destinatários e consumidores\npassivos de informação, mas sim remetentes e produtores\nativos. Não nos contentamos mais em consumir informações\npassivamente, mas sim queremos produzi-las e comunicá-las\nativamente nós mesmos. Somos simultaneamente\nconsumidores e produtores.\"\nHAN, Byung-Chul. No enxame: Perspectivas do digital. São Paulo: Editora\nVozes, 2018. p.35-36 (Adaptado).\nSegundo o texto, a mídia digital distingue-se da mídia de\nmassa tradicional por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) reforçar a separação entre consumidor e produtor,\nresultante da ampliação da comunicação unilateral na\ninternet."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) apostar na passividade do público, que precisa de um\nmediador para poder comunicar informações ativamente."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) gerar excesso de informação, que consolida estrutura\ncapaz de condenar todos os consumidores à passividade."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) provocar presentificação, decorrente da dissolução dos\nintermediários e da combinação dos papéis de\nconsumidor e produtor."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) dissolver a distinção entre produtor e consumidor,\ncausadora de congestionamento de tempo e de\ninformação."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Mídia Digital e Transformações Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "TEXTO PARA AS QUESTÕES 10 E 11\n\"O que torna possível o surgimento de uma 'cultura do\ncancelamento' é um cenário em que os detentores de poder\neconômico e/ou político vislumbram a utilização de valores\nmorais como valores de mercado, seja no campo da\npublicidade, seja no campo da responsabilidade social da\nempresa.\nO conjunto de valores defendidos pelos movimentos sociais\nque lutam por reconhecimento e respeito à diversidade\ntornam-se atributos exigidos por diversas empresas como\nelemento fundamental nas suas escolhas de investimento.\nSendo assim, a sanção específica realizada pelos agentes do\n'cancelamento' procura atingir não a liberdade do sujeito que\nsupostamente ofende valores morais relevantes, que seria o\ninstrumento coercitivo tradicionalmente previsto no direito\npenal, ou mesmo buscar reparações indenizatórias,\ninstrumento de resposta a atos ilícitos no direito civil, mas sim\nimpedir, restringir ou infligir danos na trajetória econômica\ne/ou profissional do sujeito 'cancelado'.\nNesse contexto, a 'cultura do cancelamento' representa um\nmecanismo de eliminação do mercado, em casos considerados\ngraves, ou, em outros casos, de mera diminuição relativa do\ncapital, de sujeitos ineficientes em fator competitivo específico,\ncomo inadequação de valores morais ostentados, por atos e/ou\npalavras, em determinados ambientes sociais.\"\nMARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do\ncancelamento: contribuições de um olhar sociológico. Extraprensa, v.15,\nn. esp., p.39, mai.2022 (Adaptado).\nSegundo o texto, a cultura do \"cancelamento\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) busca punir transgressões a valores morais caros aos\ncanceladores com danos à vida econômica do cancelado."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) aplica os instrumentos coercitivos do direito penal ao\ncontexto da internet para impedir o crescimento\nprofissional do cancelado."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) é uma resposta natural à emergência de movimentos\nsociais que lutam por respeito à diversidade e por mais\npoder econômico."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) elimina profissionais do mercado com o objetivo de\ndesmoralizar as empresas contratantes, causando-lhes\nprejuízos."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) visa a aumentar a competição entre as empresas, que se\nvalem do cancelamento para eliminar valores morais que\nconsideram irresponsáveis."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Cultura do Cancelamento e Relações de Poder"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "TEXTO PARA AS QUESTÕES 10 E 11\n\"O que torna possível o surgimento de uma 'cultura do\ncancelamento' é um cenário em que os detentores de poder\neconômico e/ou político vislumbram a utilização de valores\nmorais como valores de mercado, seja no campo da\npublicidade, seja no campo da responsabilidade social da\nempresa.\nO conjunto de valores defendidos pelos movimentos sociais\nque lutam por reconhecimento e respeito à diversidade\ntornam-se atributos exigidos por diversas empresas como\nelemento fundamental nas suas escolhas de investimento.\nSendo assim, a sanção específica realizada pelos agentes do\n'cancelamento' procura atingir não a liberdade do sujeito que\nsupostamente ofende valores morais relevantes, que seria o\ninstrumento coercitivo tradicionalmente previsto no direito\npenal, ou mesmo buscar reparações indenizatórias,\ninstrumento de resposta a atos ilícitos no direito civil, mas sim\nimpedir, restringir ou infligir danos na trajetória econômica\ne/ou profissional do sujeito 'cancelado'.\nNesse contexto, a 'cultura do cancelamento' representa um\nmecanismo de eliminação do mercado, em casos considerados\ngraves, ou, em outros casos, de mera diminuição relativa do\ncapital, de sujeitos ineficientes em fator competitivo específico,\ncomo inadequação de valores morais ostentados, por atos e/ou\npalavras, em determinados ambientes sociais.\"\nMARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do\ncancelamento: contribuições de um olhar sociológico. Extraprensa, v.15,\nn. esp., p.39, mai.2022 (Adaptado).\nEm relação aos conectivos sublinhados no texto, é correto\nafirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) seja...seja evidencia a dúvida das autoras quanto aos\ncampos afetados pelo cancelamento."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) que é utilizado para intensificar o valor dos movimentos\nsociais na luta pela diversidade."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) sendo assim indica adesão autoral diante das formas de\nsanção aplicadas pelos agentes do cancelamento."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) mas sim ressalta a diferença entre como se pune na\ncultura do cancelamento e no direito penal."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) como introduz uma comparação entre distintas ações\npassíveis de gerar cancelamento."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Texto 1\n\"Em Big Tech: a ascensão dos dados e a morte da política,\nMorozov estabelece 'um paralelo com os setores extrativistas\nde recursos naturais, como o petróleo', colocando 'no centro\nda discussão o modo de produção dessa economia, que ele\nchama de 'extrativismo de dados'. Apesar de a frase 'os dados\nsão o novo petróleo' ser um chavão fraco em termos\nconceituais, Morozov acha o modismo útil para debatermos a\nmatriz extrativista desse modo de produção, em especial a\nforma como as grandes empresas de tecnologia 'continuam\nescavando a nossa psique tal como as empresas de petróleo\nescavam o solo'.\"\nZANATTA, Rafael. \"Extrativismo Digital\". Quatro Cinco Um, 01/04/2019.\nDisponível em: https://quatrocincoum.com.br/resenhas/ (Adaptado).\nTexto 2\n\"Colonialismo de dados é um modo de configurar o mundo\ninteiro, de tal forma que um recurso novo possa ser extraído\ne esse recurso é a vida humana a partir da qual se pode\nextrair um valor econômico. Sustentamos que os modos nos\nquais este novo colonialismo opera, as escalas nas quais opera\ndiferem do colonialismo histórico que tão bem entendemos.\nMas a função, a finalidade subjacente, o núcleo deste novo\ncolonialismo é exatamente o mesmo do colonialismo\nhistórico. É o de despossuir, apropriar-se dos recursos do\nmundo para o bem de uns poucos, de uma parte do mundo.\"\nCOULDRY, Nick. Colonialismo de Dados e Esvaziamento da Vida Social Antes\ne Pós Pandemia de Covid-19. In: Homo Digitalis. A Escalada da\nAlgoritmização da Vida em Tempos de Pandemia. Anais do XIX Simpósio\nInternacional Instituto Humanitas Unisinos (Adaptado).\nConsiderando os excertos apresentados, é correto afirmar\nque extrativismo de dados e colonialismo de dados são\nconceitos desenvolvidos por Morozov e Couldry para nomear\ne descrever fenômenos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) baseados em mecanismos inéditos de acumulação de\ndados na história, de amplo alcance, complementares e\ncentrais para diferenciar a atual fase do modo de\nprodução capitalista."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) essencialmente diferentes, pois, enquanto o extrativismo\ntrata de uma relação das empresas de tecnologia com a\npsique, o colonialismo trata de uma relação dessas\nempresas com a vida humana."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) cuja lógica de apropriação é diferente daquela verificada\nem relação ao petróleo, o que explica os limites da\ncomparação entre os dados produzidos por usuários da\ninternet e o petróleo."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) correspondentes a duas formas análogas de apreender\ntransformações do capitalismo contemporâneo,\nreferindo-se a práticas que surgiram no passado,\ncolonização e extrativismo, e com os quais compartilham\nfinalidades."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) que abrem possibilidades para que alguns países\ndesprovidos de recursos naturais valiosos se apropriem de\ndados produzidos por usuários, sem autorização prévia\ndestes, para extrair lucros."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Capitalismo Digital e Colonialismo de Dados"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "As formas de colonização ibérica e inglesa na América foram,\ndurante muito tempo, consideradas processos isolados,\nestruturados em dois modelos opostos: as colônias de\nexploração e as de povoamento, respectivamente. No\nentanto, elas constituíram um emaranhado de experiências\ncompartilhadas pelos impérios atlânticos. Os aspectos\ncomuns a essas formas de colonização foram a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) partida dos colonizadores da metrópole, da qual saíram\npor fatores religiosos, e a adoção do trabalho livre como\nbase da produção."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) dominação e a exploração dos povos originários e o\nemprego sistemático do trabalho forçado dessas\npopulações."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) introdução de colonos sem interesse na ocupação\ndemográfica e o objetivo exclusivo da extração de riquezas\nminerais."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) produção local organizada em pequenas propriedades e a\nutilização primordial da força de trabalho familiar."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) falta de interesse metropolitano pela exploração comercial\ne a inexistência de benefícios financeiros para a metrópole."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Colonização da América"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "\"Brasileiros! (...) está conhecida nossa ilusão ou engano em\nadotarmos um sistema de governo defeituoso em sua origem,\ne mais defeituoso em suas partes componentes. As\nconstituições, as leis e todas as instituições humanas são\nfeitas para os povos e não os povos para elas. Eia, pois,\nbrasileiros, tratemos de constituirmos de um modo análogo\nàs luzes do século em que vivemos; o sistema americano deve\nser idêntico; desprezemos instituições oligárquicas, só cabidas\nna encanecida Europa.\"\nANDRADE, Manoel de Carvalho Paes de. Manifesto de proclamação da\nConfederação do Equador. Apud TORRES, João Camillo de Oliveira. A\ndemocracia coroada: Teoria política do Império do Brasil. Petrópolis: Vozes,\n1964. p.522 (Adaptado).\nO excerto apresenta trecho do manifesto divulgado pelos\nrebeldes da Confederação do Equador (1824) e reage\nexplicitamente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) à dissolução da Assembleia Constituinte e à outorga de\numa constituição elaborada pelo Conselho de Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) ao distanciamento do governo brasileiro em relação à\nCoroa Portuguesa e à política europeia do período."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) ao caráter descentralizador do regime monárquico e ao\naumento da autonomia das províncias."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) ao poder exercido pelos produtores nordestinos de\nalgodão e pelos cafeicultores paulistas."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) à adoção de regime republicano pela Constituição e ao\nfechamento do parlamento nacional."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Período Imperial Brasileiro: Confederação do Equador"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "\"justice, each getting what he or she is due. Formal justice is\nthe impartial and consistent application of principles, whether\nor not the principles themselves are just. Substantive justice\nis closely associated with rights, i.e., with what individuals can\nlegitimately demand of one another or what they can\nlegitimately demand of their government (e.g., with respect\nto the protection of liberty or the promotion of equality).\nRetributive justice concerns when and why punishment is\njustified. Debate continues over whether punishment is\njustified as retribution for past wrongdoing or because it\ndeters future wrongdoing. Those who stress retribution as the\njustification for punishment usually believe human beings\nhave libertarian free will, while those who stress deterrence\nusually accept determinism.\nAt least since Aristotle, justice has commonly been identified\nboth with obeying law and with treating everyone with\nfairness. But if law is, and justice is not, entirely a matter of\nconvention, then justice cannot be identified with obeying\nlaw.\"\nThe Cambridge Dictionary of Philosophy. General Editor Robert Audi,\nCambridge, U.K.: C.U.P., 1999. p.456.\nConforme o verbete, a justiça substantiva pode ser definida\ncomo a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) aplicação imparcial e consistente de princípios éticos e\nmorais."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) promoção de punições rigorosas para qualquer tipo de\ncrime."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) distribuição de recursos econômicos de maneira\nequitativa, com ênfase no coletivo."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) garantia de que todos recebam o que lhes é devido,\ncontemplando direitos individuais."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) proteção exclusiva dos direitos das minorias, aumentando\nsua visibilidade social."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Ética e Justiça"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A construção de uma rampa que seja acessível a usuários de\ncadeira de rodas deve seguir a norma ABNT NBR 9050. Esse\ndocumento regulamenta a inclinação que a rampa deve ter a\ndepender do desnível máximo de cada segmento de rampa,\nconforme o seguinte quadro:\nInclinação e desnível máximo de cada segmento de rampa\nDesnível h (em m)\n1 < h < 1,5\n0,8 < h≤ 1\n0 < h ≤ 0,8\nInclinação i admissível (em %)\n5\n5 < i < 6,25\n6,25 < i < 8,33\nAcessibilidade a edificações, mobiliário, espaços e equipamentos urbanos.\nDisponível em https://www.prefeitura.sp.gov.br/cidade/ (Adaptado).\nA inclinação i da rampa em porcentagem (%) é calculada\ndividindo a altura h do desnível do segmento da rampa, em\nmetros, pelo comprimento da projeção horizontal c, em\nmetros, e multiplicando o resultado por 100. A figura a seguir\nmostra uma rampa de dois segmentos.\nC\nh\nDeterminada rampa de dois segmentos foi construída da\nseguinte maneira:\n- o primeiro segmento possui projeção horizontal de 10 m e\ninclinação de 6%;\no segundo segmento possui projeção horizontal de 7 m e\ndesnível de 0,5 m.\nCom base no que foi apresentado sobre a normativa, o que é\ncorreto afirmar sobre a adequação dessa rampa à norma de\nacessibilidade?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) A rampa não está adequada, pois os dois segmentos não\nestão de acordo com a norma."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) A rampa está adequada, pois os dois segmentos estão de\nacordo com a norma."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) A rampa não está adequada, pois o primeiro segmento\nnão está de acordo com a norma."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) A rampa não está adequada, pois o segundo segmento não\nestá de acordo com a norma."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) A rampa está adequada, pois, apesar de o segundo\nsegmento não estar de acordo com a norma, o primeiro\nestá."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria e Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "A imagem a seguir mostra um cruzamento da Rua da\nConsolação, na região central da cidade de São Paulo, em que\nhá faixas de pedestre em diferentes direções. Essas faixas\nagilizam a travessia das ruas. Uma pessoa parte do ponto O e\ndeseja chegar ao ponto C. Para tanto, percorre o trajeto pela\nfaixa que liga O a B e, em seguida, utiliza a faixa que liga B a C.\nConsidere que as coordenadas dos pontos indicados na figura,\nem metros, são: O(0,0), B(13,-15) e C(29,-8).\n0\nB\nRua da Consolação\nC\nSeja d a distância, em metros, que essa pessoa deixaria de\npercorrer se tivesse optado por fazer a travessia pela faixa de\npedestre que liga O a C. Nesse contexto, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) d < 2"
+        },
+        {
+          "letra": "B",
+          "texto": "(B) 2 ≤ d ≤ 5"
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 5 ≤ d ≤ 8"
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 8 < d ≤ 11"
+        },
+        {
+          "letra": "E",
+          "texto": "(E) 11 < d"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica: Distância entre Pontos"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "No dia 26 de março de 2024, à 1h29min, aproximadamente, o\nnavio cargueiro MV Dali colidiu com a ponte Francis Scott Key\nem Baltimore, EUA. O impacto causou o colapso da ponte,\ntornando-se um dos maiores acidentes marítimos da história\nnorte-americana.\nA figura a seguir mostra os dados da velocidade do navio em\nfunção da hora local. A colisão ocorreu no intervalo de 38\nsegundos, marcado por linhas pontilhadas no gráfico.\n10\n8\n6\n4\n2\nmilhas por hora\nO navio começa a diminuir a velocidade\nVelocidades de acordo com as fontes:\n• Marine Traffic\n• My Ship Tracking\n38s\n7,82 m.p.h.\nNeste intervalo, o\nnavio entra em\ncontato com a ponte\n-2,5 m.p.h.\n1:18 a.m. 1:20 a.m. 1:22 a.m. 1:24 a.m. 1:26 a.m. 1:28 a.m. 1:30 a.m. 1:32 a.m. 1:34 a.m.\nNota: Os pontos de dados são representados como círculos. As linhas são apenas\norientativas, ou seja, não são conhecidas as velocidades reais entre os pontos de\ndados.\nDisponível em https://www.nytimes.com/ (Adaptado).\nAssumindo que a massa do navio no momento do impacto\nseja de 100 mil toneladas e, tendo por base os dados do\ngráfico, a magnitude da força média atuando sobre o navio\ndurante a colisão é de, aproximadamente,\nNote e adote:\nConsidere que a força atuando sobre o navio durante a colisão seja\nconstante e igual à força média.\nUtilize 1 m.p.h. = 0,5 m/s.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) 7 × 10-2 Ν."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) 7 × 10° Ν."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 7 × 102 Ν."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 7 × 104 Ν."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) 7 × 106 Ν."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Dinâmica: Impulso e Quantidade de Movimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O efeito Compton, descoberto na década de 1920, é hoje\namplamente utilizado durante tratamentos radioterápicos. O\nefeito relaciona-se à mudança no comprimento de onda de\nfótons de raios X quando interagem com partículas como\nelétrons ou prótons, conforme ilustrado na figura a seguir.\ny\nλο\npartícula\nfóton\nλ'\ny\nfóton\nemergente\nθ\nx\npartícula\nemergente\nQuando um fóton com comprimento de onda λο incide sobre\numa partícula, ele emerge dessa interação formando um\nângulo e com sua direção inicial de movimento, e seu novo\ncomprimento de onda λ' é dado pela relação\nα\nλ' = λο += (1 − cos θ),\nm\nem que a é uma constante positiva e m é a massa da partícula.\nCom base nessas informações e em seus conhecimentos\nsobre a propagação das ondas eletromagnéticas, assinale a\nalternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) A maior variação no comprimento de onda do fóton ocorre\nquando o ângulo e é igual a 90°."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Se o ângulo é igual a 30°, o fóton emergente tem\nfrequência menor do que a frequência inicial."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Quando 0 = 0, a velocidade do fóton emergente é menor\ndo que a do fóton incidente, devido à conservação da\nquantidade de movimento."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Se o ângulo e é igual a 60°, a variação no comprimento de\nonda do fóton é menor se a partícula for um elétron do\nque se a partícula for um próton."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Um fóton que emergiu perpendicularmente à sua direção\ninicial não sofreu mudança em sua frequência."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Física Moderna: Efeito Compton"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "A figura a seguir apresenta a evolução dos modelos atômicos,\ndesde o primeiro, proposto por Dalton em 1803, até o de\nBohr, proposto em 1913.\nDalton (1803)\n+\n+\n+\n+\nBohr (1913)\n(Níveis de energia)\nThomson (1904)\n(Cargas positivas e negativas)\nRutherford (1911)\n(Núcleo e eletrosfera)\nSobre os quatro modelos atômicos apresentados, é correto\nafirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Todos os modelos previram a presença de cargas positivas\nno núcleo atômico."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) O modelo proposto por Thomson, por prever a existência\nde nêutrons, não poderia explicar a radiação alfa (a)."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Diferentemente do modelo de Dalton, o modelo de\nRutherford não explica a estrutura de cátions e ânions."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Apenas o modelo de Bohr, com o advento de balanças de\nprecisão, considerou a diferença de massa entre os\nelementos."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Elementos radioativos não poderiam ser explicados pelo\nmodelo proposto por Dalton."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Modelos Atômicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um\nprocesso de intercalação iônica, no qual íons Lit penetram e\nse acomodam entre camadas de grafite no ânodo da bateria.\nA quantidade de energia armazenada é diretamente\nproporcional ao número de íons Lit intercalados no ânodo,\nque, entre outros aspectos, é limitado pelo espaço disponível\npara a sua alocação. Uma recente inovação tecnológica em\nbaterias é a substituição de Li por Na, formando baterias íon-\nsódio (íon-Na). O mecanismo de funcionamento se baseia no\nprocesso de intercalação, com a vantagem de que o Na é mais\nabundante do que o Li no planeta.\nConsiderando que a única diferença entre baterias de mesma\nmassa e volume seja o íon utilizado (Na⁺ ou Li⁺) e que a\ndensidade de energia é a quantidade de energia armazenada\nna bateria por unidade de massa e volume, é correto afirmar\nque a densidade de energia de uma bateria íon-Na é\nNote e adote:\nDistribuição eletrônica: Li = 1s², 2s²; Na = 1s², 2s², 2p6, 3s¹.\nMassa atômica (u): Li = 7; Na = 23.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) maior do que de uma bateria íon-Li, pois o Na+ tem maior\nmassa e menor raio iônico do que o Li⁺."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) menor do que de uma bateria íon-Li, pois o Na+ tem maior\nmassa e maior raio iônico do que o Li⁺."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) maior do que de uma bateria íon-Li, pois o Na⁺ tem menor\nmassa e maior raio iônico do que o Li⁺."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) menor do que de uma bateria íon-Li, pois o Na+ tem menor\nmassa e menor raio iônico do que o Lit."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) igual à de uma bateria íon-Li, pois ambos os íons são\nmonovalentes."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Eletroquímica: Baterias e Propriedades Atômicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "reflexão\ntotal\nF\nn2\nn1\nθ > θι\nθ < θι\nθι\nluz espalhada\nUma das possíveis tecnologias para a produção de telas\nsensíveis ao toque aproveita a reflexão interna total da luz.\nEsse tipo de reflexão ocorre quando um raio luminoso viaja do\ninterior de um meio 1, com índice de refração n₁, em direção\na um meio 2, com índice de refração n₂, formando com a\ndireção perpendicular à interface entre os meios um ângulo 0\nmaior do que um certo valor limite L, tal que sen 0₁ = n2/n1.\nQuando um objeto (como um dedo) se aproxima da interface\nentre os meios, a reflexão total não ocorre, o que é captado\npor sensores, revelando a posição do objeto. Suponha que se\ndeseje projetar uma tela sensível ao toque que, conforme\nmostra a figura, funcione com uma fonte luminosa F fixa na\nborda. A tabela a seguir indica os índices de refração de alguns\nmateriais candidatos à utilização no meio 1.\nMaterial\nA\nB\nC\nD\nE\nÍndice de refração n₁\n1,0002\n1,0003\n1,1503\n1,3204\n1,4889\nTratando o meio 2 sempre como tendo índice de refração\nn2 = 1,0003, o material que permite o maior intervalo de\nângulos de incidência que produzem reflexão total é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Material A."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Material B."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Material C."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Material D."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Material E."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Óptica: Reflexão Interna Total"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Considere o texto a seguir.\nThe Event Horizon Telescope Collaboration.\n\"Com observações feitas pela primeira vez em luz\npolarizada, a nova imagem do buraco negro que se esconde\nno coração da Via Láctea revelou um campo magnético com\numa estrutura muito semelhante à de outro buraco negro\nsituado no centro da galáxia M87, sugerindo que campos\nmagnéticos intensos podem ser comuns a todos os buracos\nnegros.\nA luz é uma onda eletromagnética que nos permite ver\nobjetos. Por vezes, os campos elétrico e magnético associados\nà onda oscilam em direções preferenciais, definindo o que\nchamamos de luz polarizada. Apesar de estarmos rodeados\npor luz polarizada, aos olhos humanos essa luz é indistinguível\nda luz dita 'normal'. No plasma que rodeia estes buracos\nnegros, as partículas que giram em torno das linhas de campo\nmagnético conferem-lhe um padrão de polarização com\norientação na direção perpendicular ao campo magnético do\nburaco negro, o que permite aos astrônomos ver com muitos\ndetalhes o que se passa nas regiões dos buracos negros e\nmapear as suas linhas de campo magnético.\"\n\"Astrônomos descobrem campos magnéticos em espiral nas bordas de\nburaco negro da Via Láctea\", Jornal da USP 29/03/2024. Disponível em\nhttps://jornal.usp.br/ciencias/ (Adaptado).\nCom base no texto e em seus conhecimentos, é correto\nafirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) A medida do padrão de polarização da luz mencionada no\ntexto permite somente o mapeamento das linhas de\ncampos magnéticos na direção paralela à direção da\npolarização."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) O olho humano pode discriminar as diferentes direções da\nluz polarizada dos buracos negros, mapeando suas linhas\nde campo."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Campos magnéticos como os mencionados no texto são\ncriados apenas por cargas elétricas em repouso no plasma\nque rodeia os buracos negros."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) O plasma é formado por partículas eletricamente\ncarregadas, dado que essas partículas exibem um\nmovimento circular perpendicular à direção do campo\nmagnético."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) O processo de mapeamento das linhas de campo\nmagnético mencionado no texto pode ser realizado por\nmeio da detecção de qualquer tipo de onda\neletromagnética gerada em buracos negros."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletromagnetismo e Astrofísica"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Na zona sul da cidade de São Paulo, há uma esquina formada\npelas ruas Cloreto de Sódio e Relíquia do Oceano.\nR. Relíquia do Oceano\nR. Cloreto de Sódio\nA coincidência do encontro dessas ruas chama a atenção, pois\no cloreto de sódio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) praticamente não está presente no oceano, apesar de este\nser salgado."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) é insolúvel na água do oceano por apresentar ligação\niônica."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) utilizado no Brasil é quase todo proveniente do oceano."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) obtido do oceano apresenta ligação covalente, enquanto\no extraído do sal-gema, ligação iônica."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) retirado do oceano tem mais átomos de cloro ligados ao\nsódio do que o oriundo de outras fontes."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Funções Inorgânicas: Sais e Propriedades"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "\"Historiadores encontraram um mapa antigo onde não era\npossível identificar a escala do mapa. Com algum esforço e\napoio de Geógrafos, foi possível avaliar a distância no mapa\nentre duas localidades como sendo de 20 centímetros.\nBuscando elementos na paisagem, foi possível quantificar a\ndistância entre elas como equivalente a 40 quilômetros.\"\nFITZ, Paulo Roberto. Cartografia Básica. São Paulo: Oficina de Textos, 2008\n(Adaptado).\nCom base nessas medidas, a escala numérica do mapa\ncorresponde a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) 1:20.000."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) 1:200.000."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 1:2.000.000."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 1:2.200.000."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) 1:20.000.000."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia: Escala Geográfica"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Atualmente 80% do comércio mundial transita pelos mares, principalmente em rotas que passam pelos Canais do Panamá e de\nSuez. Com a redução das calotas polares, novas rotas estão surgindo no Ártico. Mesmo com sua fragilidade ambiental, a região\npassou a ser uma nova fronteira para o comércio mundial.\nVia Canal\ndo Panamá\n25.588 km\nRota\nNoroeste.\n16.100 km\nVia Canal\nde Suez\n19.550 km\nShangai\nRota\nNordeste\n15.793 km\nRoterda\nRotas\nentre China, Europa, EUA e Canadá\nAklavik\nMar de\nBering\nAmérica\nEstados\nUnidos\nAlasca\nFairbanks\nÁsia\nAnadyr\nNome streito de\nBering\nCanadá\nChurchill\nBaía de\nHudson\nKuujjuaq\nKugluktuk\nChesterfield\nInlet\nNanivisk\nAmérica\n500 km\nLegenda:\nThulé\nBaía de\nBaffin\nIqaluit\nZona turística\nNuuk\nGroenlândia\n(Dinamarca)\nOceano\nGlacial\nArtico\nΠ\nChina-\nSibéria\nCírculo Polar Artico\nPevek\nPolo\nNorte\nTiksi\nlakoutsk\nRússia\nNordvik\nKhatanga\nVoloshanka\nΠ\nDikson\nSabetta\nRusskaya\nMar de\nBarents\nX\nMurmansk\nNoruega\nJan Mayen\nNarvik\nVarandey\nNarian\nMar\nΠ\nDoudi\nArkhangelsk\nReykjavik\nFinlândia\nSuécia\nIslândia\nEuropa\nBases Militares\nPortos\nComerciais\nCidades o\ne Produção Gás\nLimite da Zona Econômica Exclusiva\nCobertura do gelo marinho no Ártico em setembro: 2019\nRota Noroeste\nRotas marítimas do Ártico:\nPonte Ártica da Passagem Noroeste\n(aberta 4 meses por ano)\nExploração Petróleo X\nPrincipais zonas de\nexploração mineral\nProjeção para 2030\nRota Nordeste\nTráfego marítimo intenso\nCarto Le monde en cartes, n.59, maio-junho 2020 (Adaptado).\nCom base no texto, na leitura do mapa e em seus conhecimentos sobre as rotas marítimas, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) A rota que liga os portos de Murmansk a Churchill é vantajosa em razão da facilidade de acesso e de não interferir na Zona\nEconômica Exclusiva, evitando conflitos territoriais."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Os percursos advindos das rotas Noroeste e Nordeste possibilitam maior estratégia geopolítica dos países pertencentes à\nregião, que utilizam, para isso, todas as zonas turísticas como sítios para bases militares."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) A rota Nordeste, que liga Roterdã a Shangai, aumenta a distância percorrida pelas frotas marítimas e ainda pode ser ameaçada\npela ampliação da cobertura de gelo no futuro."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) A rota Noroeste, que liga Ásia a América, é percurso já consagrado pelo tráfego marítimo intenso, por sua menor distância e\npor percorrer muitos portos comerciais e bases militares."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) O fluxo comercial possibilitado pelas rotas Noroeste e Nordeste tende a se concentrar no Estreito de Bering, reduzindo a\ndistância a ser percorrida em relação aos trajetos via Canais do Panamá e de Suez."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geopolítica e Rotas Marítimas do Ártico"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "TEXTO PARA AS QUESTÕES DE 27 A 29\nClimate change is messing with time\n\"The melting of polar ice due to global warming is affecting\nEarth's rotation and could impact on precision timekeeping,\naccording to a recent study.\nThe planet is not about to jerk to a halt, nor speed up so\nrapidly that everyone gets flung into space. But timekeeping\nis an exact science in a highly technological society, which is\nwhy global authorities more than half a century ago felt\ncompelled by the slight changes in Earth's rotation to invent\nthe concept of the 'leap second'.\nClimate change makes these calculations even more\ncomplicated: Soon it may be necessary to insert a 'negative\nleap second' into the calendar to get the planet's rotation in\nsync with Coordinated Universal Time.\nTimekeeping is based on an astronomical basis. Earth is a\ntype of a clock. In simpler times, the planet would spin one full\nrevolution on its axis, and everyone would call it a day.\nBut Earth doesn't spin at a perfectly constant speed. Our\nplanet is in a complicated gravitational dance with the moon,\nthe sun, the oceanic tides, Earth's own atmosphere and the\nmotion of the planet's solid inner core.\nThe planet's fluctuating spin rate is carefully tracked by the\nInternational Earth Rotation and Reference Systems Service.\nIn the early 1970s, Earth was clearly slowing down in its\nrotation, and a gap was forming between atomic time and\nastronomical time. Thus, was born the 'leap second' to adjust\nfor the fact that the 'day' was getting a bit longer.\nThe melting of the ice caps in Antarctica and Greenland\nshifts mass meltwater - toward the equator. That process\nincreases the equatorial bulge of the planet. Meanwhile, at\nthe poles, the land has been pressed down by ice rises,\nand Earth becomes more spherical.\nAccording to the study, although the core is causing the\nplanet to spin faster, the planetary shape changes caused by\na warming climate are slowing that process. Absent this\neffect, the overall acceleration of the planet's rotation might\nrequire timekeepers to insert a 'negative leap second' at the\nend of 2026. Because of climate change, that might not be\nnecessary until 2029.\"\nDisponível em https://www.washingtonpost.com/science/2024/03/27/\n(Adaptado).\nSegundo o texto, o processo de derretimento das calotas\npolares",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) põe em dúvida a necessidade do conceito de segundo\nbissexto."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) desloca o fluxo de água para regiões afastadas da linha do\nEquador."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) deve antecipar em três anos o ajuste dos relógios\natômicos."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) ultrapassa o alcance do sistema do Tempo Universal\nCoordenado."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) tende a reduzir a velocidade de rotação da Terra."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Climatologia: Efeitos do Derretimento das Calotas Polares"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "TEXTO PARA AS QUESTÕES DE 27 A 29\nClimate change is messing with time\n\"The melting of polar ice due to global warming is affecting\nEarth's rotation and could impact on precision timekeeping,\naccording to a recent study.\nThe planet is not about to jerk to a halt, nor speed up so\nrapidly that everyone gets flung into space. But timekeeping\nis an exact science in a highly technological society, which is\nwhy global authorities more than half a century ago felt\ncompelled by the slight changes in Earth's rotation to invent\nthe concept of the 'leap second'.\nClimate change makes these calculations even more\ncomplicated: Soon it may be necessary to insert a 'negative\nleap second' into the calendar to get the planet's rotation in\nsync with Coordinated Universal Time.\nTimekeeping is based on an astronomical basis. Earth is a\ntype of a clock. In simpler times, the planet would spin one full\nrevolution on its axis, and everyone would call it a day.\nBut Earth doesn't spin at a perfectly constant speed. Our\nplanet is in a complicated gravitational dance with the moon,\nthe sun, the oceanic tides, Earth's own atmosphere and the\nmotion of the planet's solid inner core.\nThe planet's fluctuating spin rate is carefully tracked by the\nInternational Earth Rotation and Reference Systems Service.\nIn the early 1970s, Earth was clearly slowing down in its\nrotation, and a gap was forming between atomic time and\nastronomical time. Thus, was born the 'leap second' to adjust\nfor the fact that the 'day' was getting a bit longer.\nThe melting of the ice caps in Antarctica and Greenland\nshifts mass meltwater - toward the equator. That process\nincreases the equatorial bulge of the planet. Meanwhile, at\nthe poles, the land has been pressed down by ice rises,\nand Earth becomes more spherical.\nAccording to the study, although the core is causing the\nplanet to spin faster, the planetary shape changes caused by\na warming climate are slowing that process. Absent this\neffect, the overall acceleration of the planet's rotation might\nrequire timekeepers to insert a 'negative leap second' at the\nend of 2026. Because of climate change, that might not be\nnecessary until 2029.\"\nDisponível em https://www.washingtonpost.com/science/2024/03/27/\n(Adaptado).\nConforme o texto, os fenômenos naturais que desempenham\npapel significativo na complexa interação gravitacional que\nafeta a rotação da Terra são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) terremotos."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) vulcões."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) avalanches."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) marés dos oceanos."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) ciclones."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geofísica: Rotação da Terra e Influências Naturais"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "TEXTO PARA AS QUESTÕES DE 27 A 29\nClimate change is messing with time\n\"The melting of polar ice due to global warming is affecting\nEarth's rotation and could impact on precision timekeeping,\naccording to a recent study.\nThe planet is not about to jerk to a halt, nor speed up so\nrapidly that everyone gets flung into space. But timekeeping\nis an exact science in a highly technological society, which is\nwhy global authorities more than half a century ago felt\ncompelled by the slight changes in Earth's rotation to invent\nthe concept of the 'leap second'.\nClimate change makes these calculations even more\ncomplicated: Soon it may be necessary to insert a 'negative\nleap second' into the calendar to get the planet's rotation in\nsync with Coordinated Universal Time.\nTimekeeping is based on an astronomical basis. Earth is a\ntype of a clock. In simpler times, the planet would spin one full\nrevolution on its axis, and everyone would call it a day.\nBut Earth doesn't spin at a perfectly constant speed. Our\nplanet is in a complicated gravitational dance with the moon,\nthe sun, the oceanic tides, Earth's own atmosphere and the\nmotion of the planet's solid inner core.\nThe planet's fluctuating spin rate is carefully tracked by the\nInternational Earth Rotation and Reference Systems Service.\nIn the early 1970s, Earth was clearly slowing down in its\nrotation, and a gap was forming between atomic time and\nastronomical time. Thus, was born the 'leap second' to adjust\nfor the fact that the 'day' was getting a bit longer.\nThe melting of the ice caps in Antarctica and Greenland\nshifts mass meltwater - toward the equator. That process\nincreases the equatorial bulge of the planet. Meanwhile, at\nthe poles, the land has been pressed down by ice rises,\nand Earth becomes more spherical.\nAccording to the study, although the core is causing the\nplanet to spin faster, the planetary shape changes caused by\na warming climate are slowing that process. Absent this\neffect, the overall acceleration of the planet's rotation might\nrequire timekeepers to insert a 'negative leap second' at the\nend of 2026. Because of climate change, that might not be\nnecessary until 2029.\"\nDisponível em https://www.washingtonpost.com/science/2024/03/27/\n(Adaptado).\nConsiderando os seres vivos atuais, as informações trazidas\npelo texto e os princípios da Teoria Sintética da Evolução, é\ncorreto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) as espécies necessariamente se adaptarão às novas\nmudanças do planeta."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) somente espécies de dias longos, ou seja, aquelas que\nprecisam de mais horas de luz, sobreviverão às mudanças\nprevistas."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) é difícil prever como se dará a evolução das espécies,\nporque esse é um processo mediado pelo acaso."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) nenhuma espécie sobreviverá às mudanças na Terra e\nnovas espécies surgirão em seu lugar."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) espécies aquáticas terão vantagem adaptativa sobre\nespécies terrestres, uma vez que todos os continentes\nsubmergirão com o derretimento das geleiras."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Evolução e Adaptação"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "A imagem a seguir ilustra o aparecimento de uma barreira que\npromoveu separação de uma população de rinocerontes e\nconsequente redução no tamanho das populações resultantes.\nRedução no tamanho da população\napós a fragmentação do habitat\nTempo\nDisponível em https://kids.frontiersin.org/articles/10.3389/ (Adaptado).\nÉ correto afirmar que, nas populações fragmentadas, ocorre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) maior variabilidade genética."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) maior risco de aparecimento de doenças genéticas\nrecessivas."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) menor frequência de mutações."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) seleção natural dos indivíduos com características\ngenéticas dominantes."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) favorecimento da mistura entre elas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia: Fragmentação de Habitat e Populações"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Alguns corais contêm, em sua estrutura, algas fornecedoras\nde carboidratos que auxiliam no crescimento e na construção\ndo esqueleto do coral. Os corais, por sua vez, fornecem um\nambiente de proteção e importantes nutrientes às algas. As\nmudanças climáticas globais têm provocado a morte dessas\nalgas e, em muitos casos, a morte dos corais.\nAssinale a alternativa que representa a relação ecológica\nentre os corais e as algas, assim como o impacto imediato\ncausado pela morte dos corais.\nRelação ecológica\n(A) Predação\nImpacto imediato\nFormação das marés vermelhas\ne desoxigenação das águas\noceânicas.\n(B) Mutualismo\nPerda de habitat para diversas\nespécies marinhas, assim como\ndiminuição de suas fontes de\nproteção e alimento.\n(C) Colônia\nAumento de habitats e nichos\necológicos para espécies que\npassam a viver no local antes\nocupado pelos corais.\n(D) Competição\nInvasão biológica por espécies\nque ocupam o nicho deixado\nvago pelos corais.\n(E) Comensalismo\nEnriquecimento das águas\noceânicas por cálcio e nitrogênio,\nfavorecendo o desenvolvimento\nde algas marinhas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Predação - Formação das marés vermelhas e desoxigenação das águas oceânicas."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Mutualismo - Perda de habitat para diversas espécies marinhas, assim como diminuição de suas fontes de proteção e alimento."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Colônia - Aumento de habitats e nichos ecológicos para espécies que passam a viver no local antes ocupado pelos corais."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Competição - Invasão biológica por espécies que ocupam o nicho deixado vago pelos corais."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Comensalismo - Enriquecimento das águas oceânicas por cálcio e nitrogênio, favorecendo o desenvolvimento de algas marinhas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia: Relações Ecológicas e Mudanças Climáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "O fenômeno físico conhecido como iridescência ocorre nas\nasas de certas espécies de borboletas e caracteriza-se pela\nvariação das cores de acordo com o ângulo de observação. A\nexistência de faixas coloridas na superfície das asas das\nborboletas ocorre devido a diferentes formas de superposição\nentre raios luminosos refletidos por uma fina camada de\nsubstância transparente existente na superfície das asas.\nDisponível em https://www.pbs.org/wgbh/.\nOs fenômenos físicos diretamente relacionados com a\niridescência são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) dilatação e reflexão."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) interferência e dilatação."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) dissipação e difração."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) convecção e dispersão."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) reflexão e interferência."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Óptica: Iridescência e Fenômenos Ondulatórios"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "a\n3\n1\nb\n3\n4\n2\n4\n200-\n1\n2\n150-\n3\n1\n100-\na\n50-\n4\nFOS\n3\n1\n4\n9\nDesaceleração (g)\n0\n0.01s\nWASSENBERGH, Sam Van; MIELKE, Maia. Physics Today, vol. 77 (2024)\n(Adaptado).\nEm um estudo relatado no periódico Physics Today, cientistas\nbelgas mostraram que os pica-paus não dispõem de\nmecanismos de absorção de choques em seus ossos do crânio,\nao contrário do que se acreditava anteriormente. Nos\nexperimentos realizados, verificou-se que o cérebro de um\npica-pau pode experimentar desacelerações instantâneas de\naté 400 g, sendo go módulo da aceleração da gravidade.\nSuponha que, durante uma batida em um tronco de árvore, o\ncrânio do pica-pau, suposto perfeitamente rígido, sofra uma\ndesaceleração constante de 200 g ao longo de um tempo de\n2,0 milissegundos. Qual é a distância percorrida pelo crânio do\npica-pau durante esse tempo, até atingir momentaneamente\no repouso?\nNote e adote:\nAceleração da gravidade: g = 10 m/s².",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) 2,0 mm"
+        },
+        {
+          "letra": "B",
+          "texto": "(B) 4,0 mm"
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 8,0 mm"
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 16 mm"
+        },
+        {
+          "letra": "E",
+          "texto": "(E) 32 mm"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática: Movimento Uniformemente Variado"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "\"São os ratos!... Vai escutar com atenção, a respiração\nmeio parada. Hão de ser muitos: há várias fontes daquele\nguinchinho, e de quando em quando, no forro, em vários\npontos, o rufar...\nA casa está cheia de ratos...\"\nDyonélio Machado. Os ratos.\nA obra Os ratos (1935), de Dyonélio Machado, narra o dia em\nque Naziazeno saiu pela cidade de Porto Alegre no intuito de\nconseguir dinheiro para pagar a conta do leiteiro. Os animais\nque dão título à narrativa apenas aparecem em seus últimos\ncapítulos e ocupam o tempo reservado para o descanso do\nprotagonista. É possível, então, afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Naziazeno, inconformado com sua condição de devedor,\nperambula pela cidade, encontrando refúgio junto aos\nratos que o acolhem."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Os ratos são os credores de Naziazeno zoomorfizados, que\nse encontram à espreita para a cobrança de outras dívidas."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Os \"guinchinhos\", que ressoam nos ouvidos de Naziazeno,\nsão o eco de seu dia de perambulação, como se\nlembrassem os obstáculos que venceu."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Os ruídos dos roedores mostram que Naziazeno, ao pagar\na sua dívida, esquece os obstáculos que venceu."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) O contraste entre o repouso de Naziazeno e o\naparecimento dos roedores denuncia a permanência da\nsua situação de penúria social e financeira."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Modernismo e Análise de Obra"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "\"Ele vê o gesto do advogado Dr. Otávio Conti, no café,\nmetendo a mão no bolso, tirando uma cédula de cem mil-\nréis e entregando-a ao Duque: '- Vá levantar esta letra. Você\nme devolve depois.' Não é bem caridade... Ele não sabe\nexplicar... Há nisso um certo tom de versatilidade... de\nfacilidade... de um tal ou qual afrouxamento do caráter... Ele\nvê o Andrade tirando, com o gesto do Dr. Otávio Conti, a\n'mesma' cédula do bolso e entregando-lha... A casa\naristocrática acha-se perto. A numeração já está em quase\ntrezentos. Uma pequena aragem que sopra levemente nesta\nparte alta da rua passa-lhe pelas mãos e esfria-as... O seu\ncorpo suado fica como que um bloco gelado e dá-lhe a\nsensação de que se encolhe, se retrai dentro da sua roupa\nquente e assoleada, que dela se despega como duma\ncarapaça. Ao mesmo tempo o coração, que batia lá no fundo\ndo peito, veio palpitar bem à superfície, quase à flor da pele,\nmeio engasgando-o.\"\nDyonélio Machado. Os ratos.\nDentre as frases em destaque, a que caracteriza os efeitos\nfisiológicos em Naziazeno da reação de luta ou fuga pela\nativação do sistema nervoso simpático é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Ele vê o gesto do advogado Dr. Otávio Conti, no café,\nmetendo a mão no bolso, tirando uma cédula de cem mil-\nréis e entregando-a ao Duque."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Ele não sabe explicar... Há nisso um certo tom de\nversatilidade... de facilidade... de um tal ou qual\nafrouxamento do caráter..."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti,\na \"mesma\" cédula do bolso e entregando-lha..."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Uma pequena aragem que sopra levemente nesta parte\nalta da rua passa-lhe pelas mãos e esfria-as."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Ao mesmo tempo o coração, que batia lá no fundo do\npeito, veio palpitar bem à superfície, quase à flor da pele,\nmeio engasgando-o."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Interpretação de Texto e Personagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "\"Madala pensou que devia dizer qualquer coisa ao Djimo,\nmas não se lembrou de repetir a pergunta para si mesmo e\npor isso não soube o que dizer.\nO capataz fazia sinais à Maria, mas esta parecia não\nentender.\nA planta que Madala segurava na mão oferecia ao seu\nesforço uma resistência exagerada. Por isso, o punho de\nMadala tremia.\n(...)\nO tom da voz de Djimo revelava certo nervosismo:\nMadala...\nMas o nervosismo desapareceu logo. Djimo deu uma\nordem:\n- Madala, não olhes para lá!\nDentro de Madala, qualquer coisa se crispou. Mas não\neram os fios da sua doença.\"\nLuís Bernardo Honwana. \"Dina\". In: Nós matamos o cão tinhoso!.\nConsiderando o papel da antologia Nós matamos o cão\ntinhoso! na literatura moçambicana e como a sociedade de\nMoçambique dos anos 1950 e 1960 se configura\nliterariamente no conto \"Dina\", é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) O conto apresenta, de modo documental e objetivo, a\ncondição econômico-social de uma família, mediante a\nenumeração de objetos que conotam a vida difícil dos\nmoçambicanos em busca de um lugar na hierarquia\npreestabelecida pelo colonizador europeu."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) O conto demonstra como Luís Bernardo Honwana recria\nconsistentemente a estrutura do português do\ncolonizador a partir das línguas originárias de\nMoçambique, fazendo da linguagem um instrumento de\nluta anticolonial."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) O conto retrata as primeiras reações dos trabalhadores do\ncampo, como Madala e Djimbo, que se levantam em\narmas contra os aparelhos repressivos do Estado\nportuguês e a violência nas relações de trabalho,\nrepresentados no texto pelo capataz."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) No conto, a sociedade moçambicana vai sendo\napresentada sob o ponto de vista do colonizador, de modo\na comprovar o ideal civilizatório da colonização\nportuguesa na África e a convivência equilibrada entre\ncolonizadores e colonizados."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) No conto, embora perceba ter ultrapassado um limite\nmoral ao descobrir o parentesco entre Maria e Madala, o\ncapataz personifica a imposição da violência e do\npatriarcalismo metropolitanos aos homens e mulheres de\nMoçambique."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Africana: Moçambique"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Bem-vinda!\n\"Eram faíscas suas palavras que me queimavam em\ndoses homeopáticas\ndurante todas as noites...\nForam longos anos, dia após dia perdendo um pouco\nmais minha autoestima,\nabrindo mão das roupas que gostava, dos estudos, do\ntrabalho e das amigas\nfazendo de tudo pra evitar brigas,\nmas ele sempre dizia que a culpa era minha.\nAté que um dia, me empurrou, me acuou\ncomo se eu pudesse caber em qualquer fresta,\nencurralada,\nme mandou ficar calada e, com medo, obedeci.\nEu pedia desculpa toda vez depois de falar\ncomo se fosse um defeito de nascença querer me\ncolocar.\nA minha casa se tornou um ambiente tão hostil e eu,\nprisioneira das minhas próprias ideias,\nacreditando que o amor era isso, esse abismo, onde só\num fala e o outro, fica omisso.\nPrecisei tirar forças de lugares sagrados\npra me afastar e reagir, recolher meus pedaços.\nMeus olhos encheram de mar, eu desaguei,\ndecidi não mais me calar, denunciei!\nE depois do silêncio quebrado, meus pensamentos em\nguerra cessaram,\nrecuperei o fôlego e ouvi meu coração sendo grato.\nEncontrei em mim um porto seguro, entendi que meu\ncorpo é meu lar\ne, no caminho até ele, escolho quem anda comigo e\nquem convido pra entrar.\nHoje, quando olho pra dentro, vejo uma nova mulher\nrenascendo,\neu celebro sua chegada e contemplo essa nova vida.\nSem medo, abro a janela de casa\ne, com olhar de quem há tanto tempo esperava,\nte pego pela mão e digo:\nSeja bem-vinda!\"\nMel Duarte. Colmeia - Poemas Reunidos.\nA expressão bem-vinda usada no título e repetida no último\nverso faz alusão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) ao aprisionamento da mulher que não consegue se\nlibertar do poderio masculino."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) à guerra interior e à falta de forças da mulher oprimida,\nque aceita sua condição."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) ao renascimento da mulher que alcança, após a opressão,\ncoragem para encontrar-se a si mesma."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) ao rebaixamento da mulher que se cala e se desculpa,\nperdendo aos poucos sua autoestima."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) à força da mulher que, mesmo hostilizada, tem poder para\nfazer entrar em sua casa quem a encurralava."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Poesia: Análise de Texto Poético"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Bem-vinda!\n\"Eram faíscas suas palavras que me queimavam em\ndoses homeopáticas\ndurante todas as noites...\nForam longos anos, dia após dia perdendo um pouco\nmais minha autoestima,\nabrindo mão das roupas que gostava, dos estudos, do\ntrabalho e das amigas\nfazendo de tudo pra evitar brigas,\nmas ele sempre dizia que a culpa era minha.\nAté que um dia, me empurrou, me acuou\ncomo se eu pudesse caber em qualquer fresta,\nencurralada,\nme mandou ficar calada e, com medo, obedeci.\nEu pedia desculpa toda vez depois de falar\ncomo se fosse um defeito de nascença querer me\ncolocar.\nA minha casa se tornou um ambiente tão hostil e eu,\nprisioneira das minhas próprias ideias,\nacreditando que o amor era isso, esse abismo, onde só\num fala e o outro, fica omisso.\nPrecisei tirar forças de lugares sagrados\npra me afastar e reagir, recolher meus pedaços.\nMeus olhos encheram de mar, eu desaguei,\ndecidi não mais me calar, denunciei!\nE depois do silêncio quebrado, meus pensamentos em\nguerra cessaram,\nrecuperei o fôlego e ouvi meu coração sendo grato.\nEncontrei em mim um porto seguro, entendi que meu\ncorpo é meu lar\ne, no caminho até ele, escolho quem anda comigo e\nquem convido pra entrar.\nHoje, quando olho pra dentro, vejo uma nova mulher\nrenascendo,\neu celebro sua chegada e contemplo essa nova vida.\nSem medo, abro a janela de casa\ne, com olhar de quem há tanto tempo esperava,\nte pego pela mão e digo:\nSeja bem-vinda!\"\nMel Duarte. Colmeia - Poemas Reunidos.\nAssinale a alternativa que apresenta uma correspondência\ncorreta entre os versos destacados e os recursos utilizados\npara evidenciar a dor expressa no poema.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) \"Eram faíscas suas palavras que me queimavam em/ doses\nhomeopáticas/ durante todas as noites...\" — conotação: o\npredicativo \"faíscas\" e a forma verbal \"queimavam\" estão\nsendo usados em sentido figurado, enfatizando seu\nsofrimento."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) \"Até que um dia, me empurrou, me acuou/como se eu\npudesse caber em qualquer fresta, /encurralada\"\nantítese: OS elementos \"empurrou\", \"acuou\" e\n\"encurralada\" potencializam de forma contraditória seu\nsofrimento."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) \"acreditando que o amor era isso, esse abismo, onde só/\num fala e o outro, fica omisso\" - metonímia: o uso do\naposto \"esse abismo\", referindo-se a \"amor\", expressa\nliteralmente seu sofrimento."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) \"Precisei tirar forças de lugares sagrados/ pra me afastar e\nreagir, recolher meus pedaços\" pleonasmo: 0\ncomplemento “meus pedaços\" reforça o significado do\nverbo \"recolher\", acentuando seu sofrimento."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) \"Meus olhos encheram de mar, eu desaguei, /decidi não\nmais me calar, denunciei!” paronímia: os verbos\n\"encher\" e \"desaguar” são elementos de significação\npróxima que dão ênfase a seu sofrimento."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem e Recursos Estilísticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "mi mamá\nmi ma má\nm\nSara y\nm\nveo a\nmamá\nme ve\nmamá y Ema\nY\ny\nmamá\ny Ema\ny Y\nmi mamá\nEva amo a mamá.\nEva me amo\nPerón\nPerón\nPe rón\nPerón\nrr\nsu esposo\nSon peronistas.\nPerón\nPerón y Eva Perón\nVotaron a Perón.\nPALACIO, Ángela. Privilegiados. Libro de lectura inicial. Buenos Aires:\nKapelusz, 1954. Apud CAPELATO, Maria Helena. Multidões em cena.\nPropaganda política no varguismo e no peronismo. Campinas: Papirus, 1998.\np.88-91.\nAs imagens mostram páginas de uma cartilha de alfabetização\nproduzida durante o governo de Juan Domingo Perón na\nArgentina (1946-1955). As ilustrações",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) atribuem valor idêntico à presença de homens e de\nmulheres nas esferas pública e privada."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) revelam a neutralidade do material no que diz respeito às\nposições políticas e às relações entre gêneros."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) ressaltam a importância da formação intelectual das\nmulheres oriundas dos setores populares."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) fazem propaganda do regime político e demarcam as\nfunções da mulher como mãe e esposa."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) desenvolvem crítica político-partidária à estrutura\npatriarcal e à política popular."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – América Latina: Peronismo e Propaganda Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Atingir a igualdade de gênero é uma das\nmetas do Objetivo de Desenvolvimento\nSustentável (ODS) de número 5 da Agenda\n2030, adotada pela ONU em 2015.\nNo cenário esportivo, é possível\nidentificar alguns avanços em relação ao\nalcance dessa meta, conforme reconheceu a jogadora\nbrasileira de futebol Marta:\n\"Quando as atletas do sexo feminino têm a chance de se\ndestacar, os resultados são enormes. E para isso, a Copa do\nMundo Feminina de 2019 foi realmente uma virada no jogo. A\naudiência global do torneio ultrapassou 1 bilhão de pessoas.\"\nDisponível em https://brasil.un.org/.\nA Olimpíada de Paris 2024, por sua vez, estabeleceu, pela\nprimeira vez na história, a paridade de gênero em todos os\nesportes olímpicos, com 5.250 vagas destinadas a cada sexo.\nApesar das conquistas, o caminho rumo à igualdade de gênero\ncontinua.\nCom base no exposto, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) As práticas esportivas devem ser consideradas como\npráticas sociais, pois claramente refletem em sua\nrealidade as potencialidades e os retrocessos da\nsociedade. Sendo assim, as mulheres já atingiram o\nmesmo nível de destaque que os homens na sociedade\ncontemporânea, haja vista a ascensão e visibilidade\nfeminina no cenário esportivo."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Os grandes eventos esportivos conferem às mulheres uma\nvisibilidade muitas vezes camuflada na sociedade. A\nvisibilidade gerada para as atletas em cenário esportivo, a\npartir dos grandes eventos, demonstra o quanto elas já\natingiram em totalidade seu status social e caminham no\nsentido de alcançar a agenda dos ODS."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) As mulheres atletas têm, vagarosamente, alcançado mais\npossibilidades de inclusão e participação junto ao mundo\nesportivo, porém a igualdade de gênero ainda se mostra\numa meta distante de ser alcançada quando se observa a\nbaixa proporção de mulheres ocupando cargos de gestão\ne liderança no cenário esportivo."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) O mundo esportivo não tem implicação direta junto ao\nalcance das metas dos ODS, uma vez que possui\norganização e regramento específicos, além de uma\nconstituição social própria. Dessa maneira, a instituição\nesportiva não deve ser padrão de referência para revelar\navanços ou retrocessos da sociedade como um todo."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) O esporte tem sido importante fenômeno de promoção\ndas mulheres, mas sua influência é limitada à prática\nprofissional de modalidades esportivas mais populares,\nsem potencial de contribuir para a igualdade de\noportunidades para as mulheres em todos os níveis de\ntomada de decisão na vida política, econômica e pública."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Gênero e Esporte"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "TEXTO PARA AS QUESTÕES 41 E 42\n\"Quick, quick, tell me something awful\nLike you are a poet trapped inside the body of a finance guy\nTell me all your secrets, all you'll ever be is\nMy eternal consolation prize\nYou see, I was a debutante in another life, but\nNow I seem to be scared to go outside\nIf comfort is a construct, I don't believe in good luck\nNow that I know what's what\nI hate it here so I will go to secret gardens in my mind\nPeople need a key to get to, the only one is mine\nI read about it in a book when I was a precocious child\nNo mid-sized city hopes and small-town fears\nI'm there most of the year 'cause I hate it here\nI hate it here\nMy friends used to play a game where\nWe would pick a decade\nWe wished we could live in instead of this\nI'd say the 1830s but without all the racists\nAnd getting married off for the highest bid\nEveryone would look down 'cause it wasn't fun now\nSeems like it was never even fun back then\nNostalgia is a mind's trick\nIf I'd been there, I'd hate it\nIt was freezing in the palace\"\n\"I hate it here\", Taylor Swift, do álbum The Tortured Poets Department,\n2024 (Adaptado).\nNa letra da música, o verso \"Like you are a poet trapped inside\nthe body of a finance guy\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) enaltece a romantização e idealização de épocas passadas."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) destaca o papel de contextos externos no manejo de\nfrustrações."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) expressa o sentimento de insatisfação ou inadequação em\nrelação às expectativas sociais."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) critica a revelação de segredos e o rompimento de\nfronteiras pessoais."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) enfatiza a importância da sorte e de elementos culturais\ncomo mitos e rituais."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto: Poesia e Expressões Idiomáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "TEXTO PARA AS QUESTÕES 41 E 42\n\"Quick, quick, tell me something awful\nLike you are a poet trapped inside the body of a finance guy\nTell me all your secrets, all you'll ever be is\nMy eternal consolation prize\nYou see, I was a debutante in another life, but\nNow I seem to be scared to go outside\nIf comfort is a construct, I don't believe in good luck\nNow that I know what's what\nI hate it here so I will go to secret gardens in my mind\nPeople need a key to get to, the only one is mine\nI read about it in a book when I was a precocious child\nNo mid-sized city hopes and small-town fears\nI'm there most of the year 'cause I hate it here\nI hate it here\nMy friends used to play a game where\nWe would pick a decade\nWe wished we could live in instead of this\nI'd say the 1830s but without all the racists\nAnd getting married off for the highest bid\nEveryone would look down 'cause it wasn't fun now\nSeems like it was never even fun back then\nNostalgia is a mind's trick\nIf I'd been there, I'd hate it\nIt was freezing in the palace\"\n\"I hate it here\", Taylor Swift, do álbum The Tortured Poets Department,\n2024 (Adaptado).\nNo texto, a percepção de \"conforto como construto\" indica\nque o eu lírico vê o conforto como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) refúgio mental para apaziguar as pressões e o\ndescontentamento da vida."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) concepção ligada às experiências infantis em mecanismos\nde enfrentamento."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) conceito pressuposto, dependente da realidade concreta\ndas pessoas."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) dificuldade de ter autoafirmação, por conta de questões\ninternas pendentes."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) algo criado pela sociedade, produzindo falsa sensação de\nsegurança."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Compreensão Textual: Análise Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Carlos Drummond de Andrade foi o criador de uma obra lírica\nque, ao mesmo tempo, se aproxima e se afasta do\nModernismo de 1922, propondo, a partir de traços desse\nmovimento, uma poética original. Com base no exposto, em\nAlguma poesia (1930),",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) os aspectos prosaicos da linguagem modernista ganham\nexpressão lírica a partir de um sujeito poético que\nrepropõe, em versos livres, a nostalgia romântica da\ninfância idealizada."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) o sujeito poético incorpora, sob a perspectiva de uma lírica\nde raiz subjetiva, vários procedimentos estilísticos das\nvanguardas modernistas, em especial a escrita automática\ne o surrealismo."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) a tópica literária do desconcerto do mundo ganha uma\nreconfiguração moderna, a partir de um sujeito poético\nque, mais do que revelar um mundo às avessas, focaliza o\nseu desajuste frente à realidade."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) o nacionalismo literário, tão típico da revisão\nempreendida pela primeira geração modernista sobre a\nrealidade brasileira, apresenta-se como eixo temático de\ncunho ufanista."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) a paisagem mineira, no espaço literário, é configurada\npelo sujeito poético como ambiente bucólico e refúgio\nprivilegiado para os seus desajustes frente ao \"vasto\nmundo\"."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Modernismo e Carlos Drummond de Andrade"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "SABE O QUE É ESTRANHO?\nNADA PARECE MUDAR DE\nUM DIA PARA O OUTRO,\nMAS DE REPENTE TUDO\nFICA DIFERENTE.\nDisponível em https://br.pinterest.com/.\n\"Quem negaria que os futuros ainda não são? Mas já está na\nmente a espera dos futuros. E quem negaria que os passados\njá não são? Todavia, ainda está na mente a memória dos\npassados. E quem negaria que o tempo presente não tem\nextensão temporal, porque passa em um instante? Todavia,\nperdura a atenção, pela qual o que está presente se\nencaminha para a ausência.\"\nAgostinho de Hipona. Confissões.\nAo propor uma aproximação entre a fala da personagem\nCalvin no quadrinho e o trecho citado das Confissões de\nAgostinho, é possível encontrar semelhanças com relação à\ndescrição do tempo e sua compreensão filosófica. Dentre as\nafirmativas a seguir, qual delas pode ser considerada\nverdadeira para ambos os casos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) A passagem do tempo é ilusória."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) O tempo desfaz a mudança."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Há um paradoxo na compreensão do tempo."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Os momentos do tempo identificam-se entre si."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Há ruptura completa entre o tempo presente e o futuro."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Filosofia do Tempo: Agostinho"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Considere que a expectativa de vida no Brasil à idade de 19\nanos pode ser calculada, de forma aproximada, como a média\naritmética simples entre a expectativa de vida estimada à\nmesma idade dos homens e das mulheres. O mesmo pode ser\nfeito à idade de 20 anos.\nSegundo dados do IBGE, em 2022, a expectativa de vida\nestimada no Brasil à idade de 19 anos era 58, e a expectativa\nde vida estimada dos homens à mesma idade era 54,7.\nSabe-se que a diferença entre a expectativa de vida estimada\ndos homens e a das mulheres se manteve à idade de 20 anos\ne que a expectativa de vida estimada dos homens a essa idade\n(EVH20) era 53,8.\nCom base nos dados apresentados, assinale a alternativa que\napresenta a expectativa de vida estimada das mulheres à\nidade de 19 anos (EVM19) e a expectativa de vida estimada à\nidade de 20 anos no Brasil (EVB20) em 2022.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) 54,7\n54,7"
+        },
+        {
+          "letra": "B",
+          "texto": "(B) 54,7\n58"
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 60\n54"
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 61,3\n56"
+        },
+        {
+          "letra": "E",
+          "texto": "(E) 61,3\n57,1"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Estatística: Média Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A maior parte da alimentação humana é constituída por grãos\ne cereais, que, em sua maioria, correspondem às sementes, em\ntermos botânicos. Esse consumo é adequado, uma vez que as\nsementes",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) constituem o único órgão de reserva de amido das plantas,\nsubstância altamente energética para os seres vivos em\ngeral."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) armazenam todas as vitaminas e nutrientes necessários\npara a planta e, portanto, também ao ser humano."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) possuem DNA da planta-mãe e do embrião, que constituem\nnutrientes sem os quais a espécie humana não sobrevive."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) contêm substâncias de reserva provedoras de energia para\no desenvolvimento do embrião vegetal, que também\nservem de fonte energética aos seres humanos."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) possuem enzimas digestivas de amido e de proteínas, que\ndisponibilizam energia ao embrião vegetal e também são\nusadas para promover a digestão em seres humanos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Botânica e Nutrição"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "A figura a seguir representa os níveis médios de consumo de\ngordura saturada na dieta para adultos com idade ≥20 anos.\nIngestão de gordura saturada (% energia/dia)\npara adultos ≥ 20 anos\n<4,0\n4,0-5,4\n5,5-6,9\n7,0-8,4\n8,5-9,9\n10,0-11,4\n11,5-12,9\n13,0-14,4\n14,5-15,9\n≥16,0\nMICHA, R. et al., (2014). British Medical Journal, v. 348. g2272. DOI:\n10.1136/bmj.g2272.\nConsiderando apenas os dados da figura, os habitantes da\nAustrália e da Rússia apresentam maiores riscos de\ndesenvolver doenças",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) renais."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) respiratórias."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) cardiovasculares."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) cerebrais."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) neuromusculares."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Saúde Humana: Nutrição e Doenças"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Os gráficos a seguir apresentam a evolução do abate de\nbovinos e da participação de machos e fêmeas, por trimestre\n(indicado por algarismo romano), segundo informações\nobtidas pelo IBGE.\nEvolução do abate de bovinos no Brasil por trimestre (2019-2024)\nMilhões\nde cabeças\n10\n9,30\n9\n7,93\n8\n7,34\n7,44\n7,01\n6,60\n7-\n6-\n5-\n4-\n3-\n2-\n1-\n0\nTAAAAA\n2019\n2020\n2021\n2022\n2023\n2024\nEvolução da participação de machos e fêmeas no abate de bovinos\nno Brasil por trimestre (2019-2024)\n%\n80\n70-\n63,2\n57,3\n60,5\n60-53,4\n55,2\n53,8\n50\n40-45,6\n46,2\n42,7\n44,8\n30-36,8\n39,5\n20-\n10-\nFêmeas\nMachos\n0\nTAAAAA\n2019\n2020\n2021\n2022\n2023\n2024\nIBGE: Diretoria de Pesquisas. Coordenação de Estatísticas Agropecuárias.\nPesquisa Trimestral do Abate de Animais 2019-2024 (Adaptado).\nA partir dos dados observados nos gráficos, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) No primeiro trimestre de 2023, a diferença entre as\nquantidades de machos e fêmeas abatidos foi menor que\na do primeiro trimestre de 2019."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) No primeiro trimestre de 2023, a quantidade de fêmeas\nabatidas foi de, aproximadamente, 2 milhões."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) No primeiro trimestre de 2021 e de 2022, a diferença entre\nas quantidades de machos e fêmeas abatidos foi igual."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) No primeiro trimestre de 2024, a quantidade de fêmeas\nabatidas foi de, aproximadamente, 4,3 milhões."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) No primeiro trimestre de 2024, a quantidade de fêmeas\nabatidas foi igual à do primeiro trimestre de 2019."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Análise de Gráficos e Tabelas"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Observe as imagens de satélite que indicam o desmatamento\nde 12.272 hectares no município de Formosa do Rio Preto\n(BA), região do MATOPIBA, composta pelos estados do\nMaranhão, Tocantins, Piauí e Bahia, no período 2019-2022.\nLegenda:\nLimites da Área de Proteção Ambiental do Rio Preto\nMapBiomas. 2023. Relatório de desmatamento no Brasil (Adaptado).\nCom base na análise temporal das imagens, assinale a\nalternativa que apresenta, respectivamente, o bioma\ncorrespondente à região do MATOРІВА, а atividade\neconômica desenvolvida nesse local e o possível impacto\nambiental negativo decorrente de tal atividade.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Cerrado, agropecuária e processos erosivos."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Cerrado, silvicultura e contaminação do solo."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Amazônia, mineração e poluição das águas."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Caatinga, pastagem e impermeabilização da superfície."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Caatinga, extrativismo e perda de biodiversidade."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Meio Ambiente: Biomas Brasileiros e Desmatamento"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Neste bioma, a vegetação nativa apresenta-se intercalada por\nextensas monoculturas de soja e de arroz. Em alguns lugares,\na vegetação campestre original tem sido substituída por\nvegetação florestal, formada por árvores de eucaliptos. Em\nvários locais, observa-se a expansão de grandes areais, em\nque os solos arenosos ficam expostos e suscetíveis a uma\nintensa erosão. Este é o bioma brasileiro menos protegido por\nUnidades de Conservação, embora esteja entre aqueles que\nmais perderam vegetação nativa nas últimas três décadas.\nA descrição da paisagem impactada por ações humanas\nrefere-se ao bioma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Caatinga."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Cerrado."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Mata Atlântica."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Pampas."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Pantanal."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Biomas Brasileiros: Cerrado e Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "A figura a seguir representa a variação espacial da\ntemperatura do ar por tipo de área, considerando diferentes\npadrões de uso e ocupação do solo de um município.\nTemperatura °C -\n33,3\n32,8\n32,2\n31,7\n31,1\n30,6\n30,0\n29,4\nTipo de Rural Periferia Comercial Centro Residencial Verde\nArea\nRevista Pesquisa FAPESP - Setembro/2023 (Adaptado).\nA explicação para as características desse perfil de\ntemperatura do ar deve-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) à maior ocorrência de áreas verdes nas periferias, que\nabsorvem mais radiação solar e aquecem o ambiente,\nultrapassando os 32 °C."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) à maior absorção de radiação solar nas áreas centrais das\ncidades, compostas em sua maioria por asfalto, vidro e\nconcreto."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) ao efeito de sombreamento dos edifícios nas áreas\ncentrais, com maior disponibilidade de radiação solar e\ntemperaturas inferiores a 30 °C."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) à presença de áreas comerciais e residenciais ao longo de\ntodo perfil, que elevam a temperatura acima dos 32 °Ce\nreduzem a umidade."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) à maior reflexão da radiação solar nas áreas centrais pelo\nasfalto, por apresentarem albedo menor que as\nsuperfícies vegetadas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia Urbana: Ilhas de Calor"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "As enchentes ocorridas no Rio Grande do Sul, em maio de\n2024, prejudicaram a infraestrutura de comunicação. A\npopulação afetada era informada sobre as notícias relativas às\nenchentes ao sintonizar, por rádio de pilhas, frequências de\nonda AM, cujo alcance é maior.\nUma onda AM é modelada matematicamente por equações\nque envolvem a função cosseno, cuja variável independente é\no tempo t, que aparece multiplicado pela frequência ƒ da\nonda.\nComo exemplo, pode-se considerar a equação referente ao\nprocesso de modulação de uma onda AM:\ns(t) = A [1 + km(t)]cos(2n f t),\nem que A é a amplitude, f a frequência, k a constante da\nsensibilidade à amplitude e m(t) o sinal que contém a\ninformação.\nQuando a frequência ƒ é multiplicada por 3, o comprimento\nda onda sofre alteração. Por causa dessa multiplicação, qual\ntransformação ocorre no gráfico da função cosseno original?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Expansão vertical."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Translação horizontal."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Expansão horizontal."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Contração horizontal."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Contração vertical."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções Trigonométricas: Transformações Gráficas"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "A Estação Meteorológica Mirante de Santana é a principal\nreferência do Instituto Nacional de Meteorologia (INMET) no\nmunicípio de São Paulo - SP. O climograma a seguir apresenta\ndados referentes ao mês de fevereiro de 2023. Neste mesmo\nmês, o Centro de Gerenciamento de Emergências Climáticas\ndetectou 11 pontos de alagamentos no dia 19 e 14 pontos no\ndia 21.\nTemperaturas e Precipitações: Fevereiro de 2023\nMirante de Santana, São Paulo - SP\n32 31,5\n31\n30 20\n29\n28\n27\n26\n25242322\n22 21 20 19 18\n18\n17\n16\nTemperatura (°C)\n450\n428,9\n400\n350\n230 230 20\n21,5-\n150\n21,6\n100\n17,8\n50\n0\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28\nChuva Dia\nChuva acumulada\nT.Max\nT.Min\nPrecipitação (mm)\nDisponível em https://portal.inmet.gov.br/noticias/ (Adaptado).\nCom base no texto e no gráfico, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) A menor amplitude térmica ocorreu no dia 19, quando foi\nobservado um dos maiores volumes de chuva do mês."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Os quatro dias mais chuvosos apresentaram as menores\ntemperaturas mínimas."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) A temperatura máxima no período variou entre 21,5 °Ce\n17,8 °C."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Os cinco dias mais quentes correspondem às maiores\nprecipitações."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Os pontos de alagamento nos dias 19 e 21 foram\nprovocados pela chuva acumulada de 428,9 mm."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Climatologia: Climogramas e Fenômenos Climáticos Urbanos"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "\"A distribuição dos mosquitos, a frequência de suas picadas e\no tempo de eclosão de seus ovos são afetados pela\ntemperatura, pluviosidade e velocidade do vento, além de\noutros fatores, como deslocamento e densidade\npopulacionais. Por exemplo, com uma temperatura de 27 °C,\no período de incubação dos ovos é de dez dias; no entanto, a\n37 °C, esse período passa a ser de sete dias. Além disso, a\nintermitência das chuvas no final da estação do verão e os\nventos calmos acentuam a proliferação e a atuação do vetor.”\nMENDONÇA, Francisco de Assis. Aquecimento Global e Saúde: uma\nperspectiva geográfica - notas introdutórias. Terra Livre, 2003 (Adaptado).\nCom base no texto, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) A elevação da temperatura e o aumento da pluviosidade,\nsomados ao desmatamento, à urbanização e à circulação\nde pessoas em várias áreas, potencializam a expansão da\ndengue."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) A dengue é um problema nacional e está relacionada ao\nfato de o Brasil ser um país tropical com áreas de florestas,\naspectos que, combinados à dispersão da população,\ncontribuem para minimizar a epidemia."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) A proliferação do mosquito Aedes aegypti ocorre em\náreas pouco povoadas nos centros urbanos, associada às\nbaixas temperaturas que intensificam a transmissão da\ndoença."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) No território brasileiro, as áreas com baixas temperaturas\nreduzem o tempo necessário para eclosão dos ovos,\naumentando a proliferação do mosquito Aedes aegypti e\na frequência de picadas."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) A dengue é um problema de saúde pública em escala\nmundial e sua disseminação está associada à diminuição\nde temperatura, aumento da velocidade do vento e\nredução da precipitação."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Saúde Pública: Dengue e Fatores Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Dentre os animais invertebrados, alguns grupos apresentam o\nsistema circulatório fechado, enquanto outros apresentam o\nsistema circulatório aberto, o que leva a diferenças em\nprocessos fisiológicos.\nNos invertebrados, o sistema circulatório",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) fechado apresenta uma menor pressão do sangue /\nhemolinfa em relação ao sistema circulatório aberto."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) aberto apresenta o coração dividido em quatro cavidades:\ndois átrios e dois ventrículos."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) fechado permite maior eficiência no transporte de\noxigênio em relação ao sistema circulatório aberto."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) aberto facilita a distribuição dos nutrientes aos tecidos em\nrelação ao sistema circulatório fechado."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) fechado mistura mais facilmente os gases respiratórios:\noxigênio e dióxido de carbono."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Fisiologia Animal: Sistemas Circulatórios"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "O processo de mumificação usado pelos egípcios começava\ncom a retirada dos órgãos e desidratação do corpo utilizando\numa mistura natural, obtida em leito de lagos, de sais solúveis\nde sódio, como carbonato, hidrogenocarbonato, cloreto e\nsulfato. Após a desidratação, o corpo era preenchido com uma\nmistura de serragem e ervas aromáticas como canela, cássia,\nmirra e até mesmo cebola, que, por conterem álcoois e\naldeídos com propriedades antimicrobianas, dificultavam a\ndecomposição do corpo. Por fim, o corpo era envolvido em\ntecido embebido em resinas insolúveis em água, como\nbetume ou óleo de cedro, que, após seco, formava uma\ncamada impermeabilizante.\nA partir dessas informações, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Os sais de sódio mencionados, por serem hidrofílicos,\nrepelem a água."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Propanona e hexano são exemplos de álcoois e aldeídos\nantimicrobianos."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Assim como o betume e óleo de cedro, qualquer outro\ncomposto orgânico serviria como impermeabilizante."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Todo sal iônico poderia ser utilizado em substituição aos\nsais de sódio mencionados."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) A impermeabilidade conferida pelas resinas se deve às\nsuas características apolares ou muito pouco polares."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Química Orgânica: Propriedades de Compostos e Múmias"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Em países frios, é comum o uso de pequenos aquecedores de\nmãos, normalmente descartáveis, que podem ser colocados\ndentro de luvas. Uma alternativa mais sustentável é o\naquecedor de mão reutilizável, que é constituído por uma\nsolução aquosa supersaturada de acetato de sódio\narmazenada em um reservatório maleável, conforme\nmostrado na figura a seguir.\nAtivação por\nchoque mecânico\nUm choque mecânico nesse reservatório perturba a solução\nsupersaturada e leva à precipitação do sal, resultando no seu\naquecimento. Após o uso, o aquecedor pode ser regenerado\npor imersão em água quente, que dissolve o sal, deixando-o\npronto para ser reutilizado.\nEm relação à operação desse aquecedor, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) A precipitação do acetato de sódio é exotérmica e sua\nsolubilização é endotérmica."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) A diminuição da temperatura aumenta a solubilidade do\nacetato de sódio."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) A solubilização do acetato de sódio para a regeneração do\naquecedor libera energia, aquecendo o banho de água."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Quando o aquecedor é regenerado, a solução interna\npassa de supersaturada para uma solução diluída."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) A concentração de acetato de sódio na solução dentro do\nreservatório não muda durante a regeneração do aquecedor."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Físico-Química: Termoquímica e Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "A toxicidade do Pb e o risco de sua ingestão ganharam\nnotoriedade na mídia devido à presença desse elemento em\ncopos térmicos amplamente comercializados. A exposição ao\nPb, no entanto, pode ocorrer também por fontes naturais,\ncomo a ingestão de água em contato prolongado com\nminérios como a anglesita, rico em PbSO4 (Kps = 1,0 × 10-8).\nSabendo que a legislação estabelece a concentração máxima\nde Pb de 0,01 mg/L para água potável, assinale a alternativa\ncorreta em relação à ingestão de água que tenha contato\nprolongado com a anglesita.\nNote e adote:\nMassa molar (g/mol): Pb = 207",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Não é segura, pois a concentração de Pb na água será de\n2,07×10¹ mg/L, maior que o valor permitido."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) É segura, pois a concentração de Pb na água será de\n1×10-4 mg/L, menor que o valor permitido."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Não é segura, pois a concentração de Pb na água será de\n1×10-8 mg/L, menor que o valor permitido."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) É segura, pois a concentração de Pb na água será de\n1×10-2 mg/L, igual ao valor permitido."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) É segura, pois a concentração de Pb na água será de\n2,07×10-6 mg/L, maior que o valor permitido."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Solubilidade e Produto de Solubilidade (Kps)"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Quando uma barra de um certo material é aquecida até\numa temperatura T a partir de uma temperatura inicial To,\nseu comprimento inicial Lo sofre um aumento AL dado por\n∆L = a Lo (T - To), sendo α ο coeficiente de expansão\nlinear, que depende do material. O gráfico a seguir mostra\ncurvas de expansão linear para barras feitas de três\nmateriais distintos.\nComprimento (m)\n10,5\n10,4\n10,3\n10,1\n10,0\n9,9\n10,2\nPolietileno\nCobre\nAlumínio\n0\n50\n100\n150\n200\nTemperatura (°C)\nCom base no gráfico e nas informações apresentadas, é\ncorreto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) O gráfico mostra curvas para três barras que possuem o\nmesmo comprimento à temperatura de 30°C."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Em um processo de aquecimento entre 100°C e 200°C, ο\ncomprimento da barra de cobre aumenta em 0,1 m."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) O coeficiente de expansão linear do alumínio é maior do\nque o do cobre."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Partindo de 0°C, aumentar em 10 cm o comprimento da\nbarra de polietileno requer elevar sua temperatura até\n50°C."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Duas barras de comprimentos 5 m e 10 m a 0°C, feitas do\nmesmo material, sofrem iguais incrementos de\ncomprimento quando levadas de 0°C a 100°C."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termologia: Dilatação Térmica Linear"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "As massas de duas barras, uma de ferro e outra de aço\ninoxidável, armazenadas em um mesmo ambiente úmido e na\npresença de oxigênio, foram monitoradas ao longo do tempo.\nAssinale a alternativa que representa a variação das massas\nde ambas as barras ao longo do tempo.\nFerro\nMassa (mg)\nAço inoxidável\nMassa (mg)\n0\nTempo (meses)\n0\nTempo (meses)\nMassa (mg)\nMassa (mg)\n0\nTempo (meses)\n0\nTempo (meses)\nMassa (mg)\nMassa (mg)\n0\nTempo (meses)\n0\nTempo (meses)\nMassa (mg)\nMassa (mg)\n0\nTempo (meses)\n0\nTempo (meses)\nMassa (mg)\nMassa (mg)\n0\nTempo (meses)\n0\nTempo (meses)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Ferro: massa decresce, depois estabiliza; Aço inoxidável: massa constante"
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Ferro: massa constante; Aço inoxidável: massa decresce, depois estabiliza"
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Ferro: massa constante; Aço inoxidável: massa decresce linearmente"
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Ferro: massa decresce, depois estabiliza; Aço inoxidável: massa decresce linearmente"
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Ferro: massa decresce, depois aumenta; Aço inoxidável: massa constante"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Reações Químicas: Corrosão e Ferrugem"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "Os versos a seguir pertencem à canção Fall on Me, da banda\nnorte-americana R.E.M., lançada em 1986.\n\"There's a problem, feathers, iron\nBargain buildings, weights and pulleys\nFeathers hit the ground before the weight can leave the air\"\nBill Berry, Peter Buck, Mike Mills e Michael Stipe.\nA qual episódio (real ou hipotético) da história da física o\ntrecho da música faz alusão?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) À queda de uma maçã, que teria inspirado Newton à\ndescoberta da gravitação universal."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) À observação de um pássaro em voo, que teria levado\nEinstein a formular a teoria da relatividade."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Aos experimentos com objetos de massas diferentes, que\nteriam indicado a Galileu os princípios da queda livre."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Ao transbordamento da água em uma banheira, que teria\nsugerido a Arquimedes o conceito de empuxo."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) À queda de um bloco de ferro ligado a uma hélice, que\nteria levado Joule à equivalência entre calor e energia."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – História da Física: Queda Livre"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Um brinquedo bastante comum em parques de diversões, a\nmontanha-russa, utiliza-se da transformação parcial de\nenergia potencial em energia cinética (e vice-versa) como\nprincípio de funcionamento. Uma das montanhas-russas mais\nfamosas do mundo, a Takabisha, cuja pista possui mais de\n1 km de extensão, localiza-se no Japão e tem vista para o\nMonte Fuji. Nela, a subida inicial até o ponto mais alto, situado\na uma altura aproximada de 50 m do solo, é feita sob ângulo\nde aproximadamente 90 graus, seguida de uma descida\nvertiginosa, cuja velocidade, no ponto mais baixo desse\ntrecho, atinge cerca de 30 m/s em poucos segundos.\nMontanha-russa Takabisha.\nConsiderando um carrinho ocupado com massa total de 300 kg\nem repouso na posição de altura máxima, a energia mecânica\nperdida durante a descida inicial é, aproximadamente,\nNote e adote:\nAceleração da gravidade: g = 10 m/s².",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) 1200 J."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) 2500 J."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 5000 J."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 15000 J."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) 20000 J."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Mecânica: Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "A utilização de matrizes energéticas limpas, tais como aquelas\nque não aumentam a concentração de CO2(g) na atmosfera, é\nessencial para evitar a escalada das alterações climáticas\ncausadas pela emissão de gases de efeito estufa. Considere a\nproposta apresentada na figura a seguir para a produção de\numa matriz energética limpa.\n(I) CO2(g) + 2NaOH(aq) → Na2CO3(aq) + H2O(l)\nCO2\nNaOH\nCaptura\nNa2CO3\nFixação\nH2\nCH4\n(II) Na2CO3(aq) + 4H2(g) → CH₄(g) + 2NaOH (aq) + H2O(l)\n(I) Capturar o CO2(g) atmosférico utilizando NaOH(aq) para formar\nNa2CO3(aq). (II) Tratar essa solução, na presença de um catalisador,\ncom H2(g) oriundo de fontes renováveis, para gerar CH4(g), um gás\ncombustível.\nCom base nessas informações e em seus conhecimentos,\nassinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) O catalisador participa da reação de produção de metano\ne se decompõe em NaOH."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) A combustão do CH4 não emite CO2, motivo pelo qual a\nproposta se configura como uma matriz energética limpa."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) A proposta não representa uma matriz energética limpa,\npois a combustão completa de 1 mol de CH4 emite mais\nCO2 do que o que é utilizado para a sua síntese."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) A retirada de CO2 da atmosfera seria maior se a proposta\nde usar uma matriz energética limpa se resumisse\nunicamente em utilizar o H₂ como combustível."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Em relação ao ciclo do carbono, a proposta é semelhante\nao uso do etanol como combustível veicular."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Química Ambiental: Captura de Carbono e Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Alguns motores de foguetes espaciais usam metano como\ncombustível e oxigênio como comburente. Ambos os\ncompostos são armazenados em estado líquido no próprio\nfoguete, o que permite o seu armazenamento em maior\nquantidade do que se estivessem no estado gasoso. Sabe-se\nque o foguete armazena um volume de oxigênio líquido\n1,5 vez maior do que de metano líquido e que ambos são\ncompletamente consumidos na combustão, conforme a\nequação CH4(e) + 2 O2(e) → CO2(g) + 2 H2O(g).\nNessas condições, é correto afirmar que a razão entre a\ndensidade do metano líquido e a densidade do oxigênio\nlíquido é igual a\nNote e adote:\nMassa molar (g/mol): H = 1; C = 12; O = 16",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) 0,186."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) 0,375."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 0,75."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 1,5."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) 3."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estequiometria e Propriedades da Matéria"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "TEXTO PARA AS QUESTÕES 65 E 66\nDa moenda para a célula a combustível: caldo de cana é\nusado para produzir energia elétrica\n\"Pesquisadores do Instituto de Pesquisas Energéticas e\nNucleares (Ipen), órgão associado à USP, testaram o uso de\ncaldo de cana para gerar energia elétrica em células a\ncombustível. O processo dispensa a transformação do caldo in\nnatura em etanol, feita nas usinas de álcool, impedindo a\nformação de resíduos nocivos ao meio ambiente. Após o êxito\ndos experimentos em laboratório, os cientistas vão\ndesenvolver a aplicação da técnica em escala industrial.\n'A célula a combustível tem o mesmo princípio de\nfuncionamento de uma pilha. A diferença é que o combustível\nserve como reagente para ser consumido e gerar\neletricidade', explica o pesquisador do Ipen, Almir Oliveira\nNeto, que coordenou a pesquisa. 'No dispositivo que foi\ndesenvolvido na pesquisa, a oxidação do caldo de cana\nacontece no ânodo e a redução de oxigênio no cátodo. O\nobjetivo do experimento era obter energia da biomassa com\no mínimo impacto ambiental possível. Para isso, utilizou-se o\ncaldo de cana em uma célula a combustível para gerar energia\nelétrica', diz o pesquisador. 'O uso do caldo de cana direto\nevita a formação de vinhaça, um resíduo ambientalmente\nperigoso decorrente da produção de etanol, contribuindo,\nassim, para a preservação do meio ambiente'.\"\nDisponível em https://jornal.usp.br/ciencias/ (Adaptado).\nDe acordo com o texto, a pesquisa com caldo de cana\napresentou resultados promissores em relação à\nsustentabilidade ambiental, porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) o caldo in natura é obtido com facilidade, demandando\nsomente a utilização das moendas, o que barateia os\ncustos do processo."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) a energia elétrica proveniente da célula a combustível é\nconsiderada limpa, já que esse dispositivo dispensa o uso de\npilhas, cujo descarte constitui um problema ambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) a vinhaça, resíduo danoso ao meio ambiente, deixa de ser\nproduzida ao se evitar a transformação do caldo de cana\nem álcool."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) a célula a combustível se destaca pela economia energética\ngerada ao funcionar como uma pilha, reduzindo a\nquantidade de caldo de cana utilizada."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) o Ipen não produz o caldo de cana em escala industrial, o\nque diminui a produção da vinhaça poluidora do meio\nambiente."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Ambiental: Biocombustíveis e Sustentabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "TEXTO PARA AS QUESTÕES 65 E 66\nDa moenda para a célula a combustível: caldo de cana é\nusado para produzir energia elétrica\n\"Pesquisadores do Instituto de Pesquisas Energéticas e\nNucleares (Ipen), órgão associado à USP, testaram o uso de\ncaldo de cana para gerar energia elétrica em células a\ncombustível. O processo dispensa a transformação do caldo in\nnatura em etanol, feita nas usinas de álcool, impedindo a\nformação de resíduos nocivos ao meio ambiente. Após o êxito\ndos experimentos em laboratório, os cientistas vão\ndesenvolver a aplicação da técnica em escala industrial.\n'A célula a combustível tem o mesmo princípio de\nfuncionamento de uma pilha. A diferença é que o combustível\nserve como reagente para ser consumido e gerar\neletricidade', explica o pesquisador do Ipen, Almir Oliveira\nNeto, que coordenou a pesquisa. 'No dispositivo que foi\ndesenvolvido na pesquisa, a oxidação do caldo de cana\nacontece no ânodo e a redução de oxigênio no cátodo. O\nobjetivo do experimento era obter energia da biomassa com\no mínimo impacto ambiental possível. Para isso, utilizou-se o\ncaldo de cana em uma célula a combustível para gerar energia\nelétrica', diz o pesquisador. 'O uso do caldo de cana direto\nevita a formação de vinhaça, um resíduo ambientalmente\nperigoso decorrente da produção de etanol, contribuindo,\nassim, para a preservação do meio ambiente'.\"\nDisponível em https://jornal.usp.br/ciencias/ (Adaptado).\nAo empregar o pronome se em \"utilizou-se o caldo de cana\nem uma célula a combustível para gerar energia elétrica\", o\npesquisador",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) indetermina o sujeito, tentando mostrar que desconhece\na real autoria do experimento."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) valoriza o objeto \"caldo de cana\", enfatizando a\nimportância desse produto para o experimento."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) chama a atenção para o verbo transitivo \"utilizar\",\nvalorizando a importância de se experimentar\ndiretamente o caldo de cana."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) faz uso da voz passiva, construção em que \"caldo de cana\"\natua como sujeito, deixando de haver menção a quem\nrealizou o experimento."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) escolhe uma construção reflexiva em que \"caldo de cana\"\né, ao mesmo tempo, o agente e o objeto do experimento\nrealizado."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Gramática: Voz Passiva Sintética"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Pesquisas e terapias com células-tronco têm se mostrado cada\nvez mais promissoras pela possibilidade de seu uso no\ntratamento de diferentes tipos de doenças, como câncer e\ndoenças degenerativas. As células-tronco podem se diferenciar\nem células especializadas, conforme exemplificado a seguir.\ncélula muscular\ncélula adiposa\ncélula epitelial\ncélula-tronco\ncélula óssea\ncélula nervosa\nDisponível em https://upload.wikimedia.org/wikipedia/ (Adaptado).\nAs células especializadas que derivam de uma mesma célula-\ntronco possuem os(as) mesmos(as)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) genes."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) RNAs."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) proteínas."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) lipídeos."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) organelas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Biologia Celular: Células-Tronco e Diferenciação Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "O gráfico a seguir apresenta dados do Produto Interno Bruto\n(PIB) por pessoa e dados de publicações científicas por milhão\nde habitantes para um grupo selecionado de países, além de\ndestacar o estado de São Paulo.\nPublicações científicas e PIB por pessoa - 2020\nÁrea dos discos proporcional ao número absoluto de publicações\n6.400\n! Finlândia\nAustrália Suécia\nReino Unido\nNoruega Singapura\nHolanda\nIrlanda\nEspanha\nCanadá Bélgica\nAlemanha\nItália\nEstados Unidos\n1.600\nPublicações científicas por milhão de habitantes\nCoreia do Sul\nJapão Arábia Saudita\nSÃO PAUL Malásia\nIrã\nTunisia\nChina\n400\nMédia mundial\nレ\nRomênia\nTurquia\nRússia\nBRASIL Argentina\nEgito\nTailândia\nVietnā\n100\nIndia\nIndonésia\nMédia mundial\nMéxico\n25\n5.000\n10.000\n20.000\n80.000\nPIB por pessoa em dólares\nRevista Pesquisa FAPESP - Agosto/2022 (Adaptado).\nA partir da análise do gráfico e do texto, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Irã, Tunísia e África do Sul possuem um PIB por pessoa\nabaixo da média mundial e apresentam um número de\npublicações científicas por milhão de habitantes superior\nao da média mundial."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) O estado de São Paulo possui uma quantidade de publicações\npor milhão de habitantes abaixo da média mundial, enquanto\no Brasil, com um PIB por pessoa maior que o do estado\npaulista, tem uma quantidade de publicações maior."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Índia e Indonésia possuem um PIB por pessoa acima da\nmédia mundial, no entanto, o número de publicações por\nmilhão de habitantes desses países é superior ao da média\nmundial."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Os países do Norte Global, embora tenham um PIB por\npessoa maior que a média mundial, possuem uma\nquantidade menor de publicações por milhão de\nhabitantes, se comparados com a média mundial."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Argentina, Tailândia e México, apesar de possuírem um\nPIB por pessoa abaixo da média mundial, apresentam\nprodução científica por milhão de habitantes acima da\nmédia mundial."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia Econômica: PIB e Produção Científica"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "No plano cartesiano Oxy, o gráfico que melhor representa a\nfunção f(x) = x² + 5x - 6| - 5x + 6 é dado por\n(A) 401 у\n35\n30\n25\n20\n15\n10\n5\n-15-10-5 0\n5\n10 15\nx\n-5\n(B) 401 у\n35\n30\n25\n20\n15\n10\n-15 -10 -5 0\n5\n10 15\nx\n-5\n(C) y\n5\n-15-10-5 0\n5\n10 15\nX\n-5\n-10\n-15\n-20\n-25\n-30\n-35\n-40\n(D) 401 У\n35\n30\n25\n20\n15\n10\n5\n-15-10-5 0\n5 10 15\nx\n-5\n(E) 401 У\n35\n30\n25\n20\n15\n10\n5\n-15-10-5 0\n5\n10 15\nx\n-5",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A)"
+        },
+        {
+          "letra": "B",
+          "texto": "(B)"
+        },
+        {
+          "letra": "C",
+          "texto": "(C)"
+        },
+        {
+          "letra": "D",
+          "texto": "(D)"
+        },
+        {
+          "letra": "E",
+          "texto": "(E)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções: Módulo e Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "Seja (an) uma progressão aritmética cujo primeiro termo é a₁\ne a razão r, ambos números reais. É possível construir uma\noutra sequência (bn), em que o primeiro termo é um número\nreal b₁ e com a seguinte lei de formação\nbn+1 = bn + an,\nsendo n > 0 um número natural.\nPor exemplo, se b₁ = 0 e\n(an) = (1,3,5,7,9,11, ...),\ntem-se\n(bn) = (0,1,4,9,16,25, ...).\nCom base em tais informações, os valores de a₁ er foram\nescolhidos de forma que (bn) também seja uma progressão\naritmética de razão r'. Nessas condições, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) r' = a₁"
+        },
+        {
+          "letra": "B",
+          "texto": "(B) r' = 2a1"
+        },
+        {
+          "letra": "C",
+          "texto": "(C) r' = r"
+        },
+        {
+          "letra": "D",
+          "texto": "(D) r' = 2r"
+        },
+        {
+          "letra": "E",
+          "texto": "(E) r' = b₁ - а₁"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Progressões Aritméticas e Sequências"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Aumenta nos hospitais brasileiros a presença de bactérias\nresistentes a antibióticos\n\"A disseminação de bactérias resistentes a antibióticos é\num pesadelo mundial. Ela avança rapidamente e representa\numa ameaça a uma das maiores conquistas da medicina\nmoderna: a capacidade de eliminar infecções. Sem\nantibióticos eficientes, fica quase impossível realizar cirurgias,\ntransplantes e outros tratamentos em segurança.\nExpostas à concentração adequada dos antibióticos e por\ntempo suficiente, as bactérias facilmente morrem. Se a\ndosagem e duração do tratamento forem inferiores ao\nnecessário para aniquilá-las, uma parte pode sobreviver e se\nmultiplicar, acumulando alterações no material genético que\nlhes permitem escapar à ação dos fármacos.\nAs bactérias estão em todos os lugares: na água, no solo,\nno ar e nas superfícies, inclusive no nosso corpo. Com o uso\nintensivo de antibióticos na saúde humana e na produção de\nalimentos, as bactérias são continuamente expostas a esses\nfármacos. Esse contato favorece a seleção das variedades\nresistentes.\"\nRevista Pesquisa FAPESP - Janeiro/2024 (Adaptado).\nO gráfico a seguir ilustra o crescimento de uma espécie de\nbactéria em meio de cultura, com e sem antibiótico. Foram\ntestados três antibióticos diferentes (1, 2 e 3).\n140\n120\n100\n80\n60\n40\nNúmero de bactérias (milhões)\n20\n0\n0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17\nTempo em cultura (dias)\n......\nsem antibiótico\nantibiótico 1\nantibiótico 2\nantibiótico 3\nConsiderando o texto e o gráfico, sobre a resistência de\nbactérias a antibióticos, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) A combinação de mais de um antibiótico durante um\ntratamento reduz a quantidade de antibióticos lançada na\nrede de esgoto e as chances de surgirem bactérias\nmutantes na natureza."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) Para reduzir as chances de seleção de bactérias\nresistentes, é necessário aumentar a concentração de\nantibióticos presentes na natureza e matar as bactérias\npatogênicas livres."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Mutações aleatórias que acontecem nas bactérias,\nassociadas à exposição prolongada a antibióticos,\ncontribuem para a seleção de bactérias resistentes a\nantibióticos."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) O antibiótico 3 será eficiente, nas mesmas concentrações\nutilizadas no experimento, para tratar infecções causadas\npelas linhagens de bactérias presentes no dia 16 de cultivo."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Dentre todos os antibióticos testados, o 2 é o mais\neficiente para combater a bactéria do experimento\nrelatado, enquanto o 1 é o menos eficiente."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Microbiologia: Resistência a Antibióticos e Seleção Natural"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "A reação do antibiótico sulfanilamida com halogênios leva à\nreação de substituição com o halogênio em duas posições\ndistintas do anel aromático, como representado na equação\nnão balanceada a seguir.\nNH2\nSO2NH2\nNH2\nBr\nBr\n+ Br2\n+ subproduto\nSO2NH2\nEm um experimento, 1 L de uma solução de sulfanilamida de\npH 5 reagiu com Br2 em excesso, obtendo-se pH 4 após reação\ntotal. Considerando que o volume se manteve inalterado após\na adição do halogênio, quantos mols de sulfanilamida\nreagiram com bromo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) 4,5 × 10-5"
+        },
+        {
+          "letra": "B",
+          "texto": "(B) 9,0 × 10-5"
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 1,0 × 10-4"
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 5,0 × 10-2"
+        },
+        {
+          "letra": "E",
+          "texto": "(E) 1,0 × 10-1"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica: Reações de Substituição e pH"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino\nde Física, reporta um curioso estudo sobre a pressão interna\nde \"foguetes de garrafa PET\", propulsionados a partir da\nreação química entre ácido acético e bicarbonato de sódio. [1]\nUma mistura de vinagre (que contém ácido\nacético, CH3COOH) com bicarbonato de sódio (NaHCO3)\nproduz gás carbônico (CO2) por meio da reação química\nrepresentada pela seguinte equação:\nCH3COOH + NaHCO3 → CH3COONa + CO2 + H2O\nVCO2\nVvin\nA reação ocorre no interior de uma\ngarrafa PET de 2 L de volume útil total,\nda qual foi retirado todo o ar. Insere-se\nna garrafa um volume inicial Vvin de\nvinagre líquido e bicarbonato de sódio,\nsendo a garrafa posteriormente selada\ncom uma tampa acoplada a um\nmanômetro. A reação produzirá gás\ncarbônico que ocupará um volume Vco2\ne exercerá uma pressão Pco₂ sobre a\ntampa da garrafa, medida pelo\nmanômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504\n(2018). Disponível em\nhttp://dx.doi.org/10.1590/1806-9126-RBEF-\n2017-0340.\nSuponha que a reação produza 2 mols de CO2 para cada 3\nlitros de vinagre. Nas condições do experimento, em que o\nvolume de líquido é 1/3 de litro à temperatura T = 300 K, a\npressão Pco₂ medida pelo manômetro será por volta de\nNote e adote:\nConsidere o CO2 como um gás ideal.\nConstante dos gases ideais: R = 0,08 atm.L/(K.mol).\nAssuma que todo o ácido acético do vinagre reagiu com o bicarbonato de\nsódio e que o líquido resultante da reação ocupa aproximadamente o\nmesmo volume do vinagre antes da reação (Vvin).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) 3,2 atm."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) 4,1 atm."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 6,2 atm."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 9,0 atm."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) 12 atm."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Termodinâmica: Gás Ideal"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino\nde Física, reporta um curioso estudo sobre a pressão interna\nde \"foguetes de garrafa PET\", propulsionados a partir da\nreação química entre ácido acético e bicarbonato de sódio. [1]\nUma mistura de vinagre (que contém ácido\nacético, CH3COOH) com bicarbonato de sódio (NaHCO3)\nproduz gás carbônico (CO2) por meio da reação química\nrepresentada pela seguinte equação:\nCH3COOH + NaHCO3 → CH3COONa + CO2 + H2O\nVCO2\nVvin\nA reação ocorre no interior de uma\ngarrafa PET de 2 L de volume útil total,\nda qual foi retirado todo o ar. Insere-se\nna garrafa um volume inicial Vvin de\nvinagre líquido e bicarbonato de sódio,\nsendo a garrafa posteriormente selada\ncom uma tampa acoplada a um\nmanômetro. A reação produzirá gás\ncarbônico que ocupará um volume Vco2\ne exercerá uma pressão Pco₂ sobre a\ntampa da garrafa, medida pelo\nmanômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504\n(2018). Disponível em\nhttp://dx.doi.org/10.1590/1806-9126-RBEF-\n2017-0340.\nConsidere agora um outro experimento feito em condições\nsemelhantes, em que o manômetro indica uma pressão de\n5 atm e, sem que a pressão no interior da garrafa se altere, ele\né cuidadosamente substituído por uma rolha de 10 g de massa\ne 2 cm de diâmetro (igual ao diâmetro interno do bocal da\ngarrafa). Logo após a rolha ser encaixada no local, ela é\nexpelida devido à pressão interna da garrafa ser maior que a\npressão atmosférica.\nA aceleração da rolha no momento em que ela é expelida é\nde, aproximadamente,\nNote e adote:\nAssuma que a pressão atmosférica seja de 1 atm = 105 Pa.\nUtilize π = 3.\nConsidere que as forças relevantes atuando sobre a rolha no momento\nem que é expelida são apenas aquelas relativas à diferença de pressão\nentre os seus lados interno e externo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) 12 m/s²."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) 120 m/s²."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 1200 m/s²."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 12000 m/s²."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) 120000 m/s²."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Dinâmica: Pressão e Força"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Um designer de produtos deseja fabricar um vaso para flores\nconforme a figura a seguir.\nh\nR\nR\nh\nSabe-se que a base e o topo do vaso são uma circunferência\nde raio R que mede 10 cm, a parte central é uma\ncircunferência de raior de 5 cm e a medida h mede 12 cm.\nQual é a capacidade volumétrica desse vaso em cm³?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(Α) 1400π"
+        },
+        {
+          "letra": "B",
+          "texto": "(Β) 2100π"
+        },
+        {
+          "letra": "C",
+          "texto": "(C) 2400π"
+        },
+        {
+          "letra": "D",
+          "texto": "(D) 2600π"
+        },
+        {
+          "letra": "E",
+          "texto": "(Ε) 2800π"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial: Volume de Sólidos"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "Considere um cilindro C de altura h > 0 e cujo raio das\ncircunferências, do topo e da base, ér > 0; um cilindro C₁\ncujo raio é igual ao de C e altura igual a; e um cilindro C2\ncom altura h e raio igual a\nh\nSendo V, V₁ e V₂ os volumes e A, A₁ e A₂ as áreas laterais dos\ncilindros C, C₁ e C2, respectivamente, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) V = V1 + V2 e A = A1 + A2"
+        },
+        {
+          "letra": "B",
+          "texto": "(B) V = V1 + V2 e A = A1 + 2A2"
+        },
+        {
+          "letra": "C",
+          "texto": "(C) V = V1 + 2V2 e A = A₁ + 2A2"
+        },
+        {
+          "letra": "D",
+          "texto": "(D) V = V1 + 2V2 e A = A1 + A2"
+        },
+        {
+          "letra": "E",
+          "texto": "(E) V = 2V1 + 2V2 e_A = 2A₁ + 2A2"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Espacial: Cilindros"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "Em relação ao plano cartesiano Oxy, é correto afirmar que as\nequações x² + y² – 4x = -3 e x² + y² – 4y = -3\nrepresentam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) duas circunferências com raios de mesma medida e que se\ninterceptam em dois pontos."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) duas circunferências com raios de medidas diferentes e\nque se interceptam em dois pontos."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) duas circunferências que se interceptam em um único\nponto."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) duas circunferências concêntricas e que não se\ninterceptam."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) duas circunferências com centros distintos e que não se\ninterceptam."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica: Equação da Circunferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "MARK ANDERSON\n4+x=10\nx = 10-4\nx=6\nWWW.ANDERTOONS.COM\nANDERSON\n\"Hold on. When we learned Roman numerals,\nX was 10. Now it's 6. What's going on\naround here?!\"\nDisponível em https://andertoons.com/math/cartoon/7359/.\nContribui para o efeito de comicidade do cartum a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) atitude do docente diante da apatia do grupo, incapaz de\nproduzir uma resposta."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) certeza do aluno em seu argumento, desafiando a\nautoridade do professor."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) interpretação por parte do discente de símbolos\nmatemáticos ligados à teoria dos conjuntos."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) adoção pelo professor de duas formas semelhantes e\neficazes de resolver a mesma equação."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) rivalidade entre os colegas para determinar quem possui\nmais conhecimento."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto: Humor"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "Anglos\nImpério\nRomano\ndo Ocidente\nJutos\nSaxões\n0\nFrancos\nX Châlons\nVisigodos\nGodos\nVândalos\nHunos\nOstrogodos\nAdrianópolis Constantinopla\nRoma\nVândalos\nCartago\nImpério\nRomano\ndo Oriente\nAnglos, Saxões\nFrancos\nGodos\nVisigodos\nOstrogodos\nHunos\nVândalos\nMigrações e invasões no Império Romano, séculos IV e V.\nDisponível em https://www.britannica.com/ (Adaptado).\nA análise do mapa permite identificar deslocamentos de\npovos não romanos caracterizados",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) pela concentração de rotas migratórias em território\nbizantino."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) pela inexistência de invasões direcionadas para o norte da\nÁfrica."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) pela inexpressiva diversidade de povos das correntes\nmigratórias."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) pela proeminência de migrações na porção ocidental do\nImpério Romano."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) pelo predomínio de invasões por rotas marítimas em\ndetrimento das rotas terrestres."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Roma Antiga: Invasões Bárbaras"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "Leia o excerto a seguir de A Ética Protestante e o Espírito do\nCapitalismo, de Max Weber.\n\"Temos de nos emancipar da seguinte visão: que se pode\ndeduzir a Reforma das transformações econômicas como algo\n'necessário em termos de desenvolvimento histórico'. Por\noutro lado, não se deve de forma alguma defender uma tese\ntão disparatadamente doutrinária que afirmasse que o\n'espírito capitalista' pôde surgir somente como resultado de\ndeterminados influxos da Reforma.\nEm face da enorme barafunda de influxos recíprocos entre\nas bases materiais, as formas de organização social e política\ne o conteúdo espiritual das épocas culturais da Reforma,\nprocederemos tão-só de modo a examinar de perto se, e em\nquais pontos, podemos reconhecer determinadas 'afinidades\neletivas' entre certas formas da fé religiosa e certas formas da\nética profissional. Por esse meio serão elucidados o efeito\nque, em virtude de tais afinidades eletivas, o movimento\nreligioso exerceu sobre o desenvolvimento da cultura\nmaterial.\"\nWEBER, Max. A Ética Protestante e o Espírito do Capitalismo. São Paulo:\nCompanhia das Letras, 2004, p.82-83 (Adaptado).\nA partir da ideia expressa no excerto acerca da relação entre\no desenvolvimento do capitalismo e alguns elementos da\ndoutrina calvinista, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) as ideias calvinistas impulsionaram o capitalismo e\nlevaram os comerciantes germânicos a buscar a\nacumulação irrestrita de capitais."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) o crescimento acelerado dos mercados consumidores\nfacilitou, no século XVI, a aceitação das ideias calvinistas\npelos banqueiros e negociantes europeus."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) as condições materiais, sociais e políticas da Europa\nCentral contribuíram, no século XVI, para a expansão do\ncapitalismo e para a repressão do calvinismo."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) a união entre os comerciantes contra o Sacro Império\nRomano Germânico e contra o Papado determinou a\nadoção de práticas capitalistas e calvinistas na Europa\nmedieval."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) a defesa calvinista do trabalho árduo e o estímulo ao\ncomportamento austero do crente tiveram impactos\npositivos na formação de condutas adequadas ao\ndesenvolvimento do capitalismo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Sociologia – Sociologia Clássica: Max Weber e o Capitalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 81,
+      "enunciado": "\"O eixo econômico do país, que já havia se deslocado para a\nzona de mineração, caminhou mais uma vez, deslocando-se\nem direção às ondulações do planalto paulista, que foram se\nrecobrindo pelo verde escuro dos cafezais. Enquanto outras\nregiões brasileiras vegetavam ou iniciavam mesmo um\nprocesso de decadência econômica, a Província, logo depois\nestado de São Paulo, apresentava uma ascensão esplêndida e\nvigorosa.\"\nPETRONE, Pasquale. As indústrias paulistanas e os fatores de sua expansão.\nTerra Livre. 1953, p. 27 (Adaptado).\nSobre a industrialização no território brasileiro, é correto\nafirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Tal como São Paulo, a Zona Franca de Manaus teve a\nexpansão de suas indústrias dada pelo potencial do\nmercado consumidor local dos produtos resultantes da\nindustrialização."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) O Nordeste teve sua expansão industrial durante o Estado\nNovo, em razão da alta concentração de capitais dos\nestados da região, permitindo conexões dos seus polos\nindustriais já consolidados."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) O boom industrial que aconteceu na região Sul, a partir da\ndécada de 1980, foi similar ao desenvolvimento ocorrido\nno Sudeste, onde a mão de obra especializada aumentou\na produção."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) A concentração industrial no Sudeste ocorreu devido à\nexistência de mercado consumidor, de capitais, de mão de\nobra disponível e de maior capacidade dos meios de\ntransporte."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) A região Centro-Oeste contou com a facilidade de\nobtenção de energia, por meio de hidrelétricas e\ntermoelétricas, além da densa malha viária para o seu\ndesenvolvimento industrial."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil: Industrialização"
+      ]
+    },
+    {
+      "numeroEnunciado": 82,
+      "enunciado": "Mais de uma vez, o brasileiro Machado de Assis e o português\nEça de Queirós foram aproximados porque traçaram linhas de\ncompreensão das suas respectivas sociedades, em um mesmo\ntempo historicamente situado. Os protagonistas Rubião, de\nQuincas Borba (1891), e Gonçalo, de A Ilustre Casa de Ramires\n(1900),\nOs protagonistas Rubião, de Quincas Borba (1891), e Gonçalo, de A Ilustre Casa de Ramires (1900),",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) representam, respectivamente, a ascensão política da\nburguesia brasileira durante a segunda metade do século\nXIX e a decadência da aristocracia portuguesa no mesmo\nperíodo."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) têm suas aspirações de grandeza e reconhecimento social\nfrustradas diretamente pelo envolvimento de ambos com\nas políticas partidárias nacionais, introduzindo reformas\nsubstanciais que alteram a situação periférica de cada país."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) buscam reconhecimento social, continuamente frustrados\nnesse propósito por se inserirem em meios sociais que\nprivilegiam a grandeza moral e as virtudes humanas."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) comprometem-se com a superação dos atrasos civilizacionais\nde seus países. Apesar de terem destinos diferentes,\nconfrontam-se com o descompromisso de suas respectivas\nsociedades quanto às transformações sociais e econômicas."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) são vítimas de suas ideias ambiciosas de modernização\nnacional, seja por Rubião promover ideias políticas\n\"modernas\", seja por Gonçalo insistir na restauração da\ngrandeza de sua família. Ao final, atingem seus objetivos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura: Realismo/Naturalismo Luso-Brasileiro"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "O funcionário público como personagem literário ganha\ndestaque na literatura brasileira a partir dos anos 1930. Uma\nexplicação para esse fenômeno está na tematização, por parte\ndos escritores, das mudanças do papel do Estado brasileiro na\nconstituição do mercado de trabalho assalariado e como\nagente da modernização do país:\n\"De 1930 em diante, foram criadas dezenas de comissões,\ninstituições e órgãos de planejamento e/ou de promoção das\natividades econômicas, notadamente as ligadas às atividades\nagrícolas e àquelas voltadas para a industrialização.”\nMATTOS, Fernando Augusto Mansor de. A trajetória do emprego público no\nBrasil desde o início do século XX. Ensaios FEE, v.36, n.1, p.95, jun.2015.\nNo romance Os ratos, de Dyonélio Machado, o funcionalismo\npúblico configura-se como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) solução final para o conflito básico da narrativa, uma vez\nque é a partir de seu emprego público que o protagonista\ndo romance obtém recursos para superar as limitações\nfinanceiras que, inicialmente, impulsionam sua\nperambulação pela cidade."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) principal opção de sobrevivência para os homens livres da\nsociedade brasileira recém-saída da escravidão, em\nespecial para os personagens negros, a quem era\nimpossível, de outro modo, alçar posições nos estratos\nsociais mais elevados."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) retrato da constituição de uma cultura organizacional\nligada ao Estado, cuja dinâmica conduz, ao longo do século\nXX, ao desenvolvimento econômico do país e à vertiginosa\nascensão social das classes médias, apontada pelo\ndesfecho positivo do romance."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) opção de ocupação para as camadas médias da sociedade\nbrasileira, que, embora constitua meio legítimo de\nsobrevivência, acaba por marginalizá-las pela precarização\ndos ganhos e a desvalorização do trabalho, como retrata a\ntrajetória do protagonista."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) estrutura de trabalho de cunho patrimonialista, cujas\nposições de autoridade são ocupadas pelas camadas\nproprietárias e na qual a distribuição de cargos públicos,\nentre os quais o do protagonista, objetivava a garantia de\napoio político e social."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Modernismo e Questões Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "Leia os trechos das obras Marília de Dirceu e Romanceiro da\nInconfidência:\nLira VII (Parte II)\n\"Meu prezado Glauceste,\nSe fazes o conceito\nQue, bem que réu, abrigo\nA cândida Virtude no meu peito;\nSe julgas, digo, que mereço ainda\nDa tua mão socorro;\nAh! Vem dar-mo agora,\nAgora, sim, que morro!\nNão quero que, montado\nNo Pégaso fogoso,\nVenhas com dura lança\nAo monstro infame traspassar, raivoso.\nDeixa que viva a pérfida calúnia,\nE forje o meu tormento:\nCom menos, meu Glauceste,\nCom menos me contento.\"\nTomás Antônio Gonzaga. Marília de Dirceu.\nRomance LXVI ou De Outros Maldizentes\n\"- Que fica, na fortaleza,\ndaquele poeta Gonzaga?\n- Um par de esporas, somente.\nUm par de esporas de prata.\n(...)\nDizem que tinha um cavalo\nque Pégaso se chamava.\nNão pisava neste mundo,\nmas nos planaltos da Arcádia!\"\nCecília Meireles. Romanceiro da Inconfidência.\nConsiderando o substantivo Pégaso, presente nos dois\nexcertos, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) No poema de Cecília Meireles, a referência tem por\nobjetivo destacar o animal mítico, enquanto na lira de\nGonzaga o substantivo se refere a um animal real."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) No poema de Gonzaga, a referência ao animal mitológico\nserve para aludir às características heroicas de Glauceste,\nenquanto, no poema de Cecília Meireles, Pégaso alude à\ncriação poética."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) Por pretender um tom épico, Cecília Meireles usa o animal\nmitológico para distinguir a condição heroica do poeta,\nenquanto Gonzaga se refere às suas diferenças com\nGlauceste."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) No poema de Cecília Meireles, a metáfora do cavalo alado\nindica a evasão da realidade, típica dos poetas árcades,\nenquanto, no poema de Gonzaga, a referência ao animal\nserve para aludir às suas próprias características heroicas."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) A referência ao cavalo alado provoca um efeito de\nestranhamento no leitor, tendo em vista as características\nespecíficas de cada obra poética."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Arcadismo e Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "\"Se a derrama for lançada,\nhá levante, com certeza.\nCorre-se por essas ruas?\nCorta-se alguma cabeça?\nDo cimo de alguma escada,\nprofere-se alguma arenga?\nQue bandeira se desdobra?\nCom que figura ou legenda?\nCoisas da Maçonaria,\ndo Paganismo ou da Igreja?\nA Santíssima Trindade?\nUm gênio a quebrar algemas?\nAtrás de portas fechadas,\nà luz de velas acesas,\nentre sigilo e espionagem,\nacontece a Inconfidência.\"\nOs versos de Cecília Meireles, no Romanceiro da\nInconfidência, remetem",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) à insurreição promovida por maçons e reinóis, adeptos do\niluminismo, contra a cobrança do quinto real sobre a\nexploração de diamantes na Capitania de Minas Gerais."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) à possibilidade de sublevação motivada pela defesa da\nliberdade, por indivíduos de diferentes setores de Minas\nGerais, ante a ameaça de cobrança de impostos\nmetropolitanos."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) à disputa entre católicos apoiadores do recolhimento do\ndízimo nas Minas Gerais e republicanos defensores da\nsuspensão de impostos cobrados pelo Estado e pela Igreja."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) ao movimento de setores reacionários da sociedade\nmineira, responsáveis por conspirar contra OS\nidealizadores da Conjuração e denunciar os seus planos de\nrevolução."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) à trapaça e delação, que fizeram parte da Conjuração e\nocorreram em razão das discrepâncias ideológicas dos\ndenunciantes em relação aos rebelados."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil: Inconfidência Mineira"
+      ]
+    },
+    {
+      "numeroEnunciado": 86,
+      "enunciado": "No texto intitulado Tarsila, a pesquisadora Aracy Amaral\ntranscreve um trecho das impressões de Tarsila do Amaral\nsobre a viagem às cidades históricas coloniais mineiras, que\nrealizara em 1924 com o grupo modernista, liderado por\nMário de Andrade: \"(...) As decorações murais de um modesto\ncorredor de hotel; o forro das salas, feito de taquarinhas\ncoloridas e trançadas; as pinturas das igrejas, simples e\ncomoventes, executadas com amor e devoção por artistas\nanônimos; o Aleijadinho, nas suas estátuas e nas linhas geniais\nda sua arquitetura religiosa, tudo era motivo para as nossas\nexclamações admirativas. Encontrei em Minas as cores que\nadorava em criança. Ensinaram-me depois que eram feias e\ncaipiras. Segui o ramerrão do gosto apurado... Mas depois\nvinguei-me da opressão passando-as para as minhas telas:\nazul puríssimo, rosa violáceo, amarelo vivo, verde cantante,\ntudo em gradações mais ou menos fortes, conforme a mistura\nde branco. Pintura limpa, sobretudo, sem medo de cânones\nconvencionais. Liberdade e sinceridade, uma certa estilização\nque a adaptava à época moderna.\"\nAMARAL, Tarsila, 1939. Apud AMARAL, Aracy. Tarsila, In: Tarsila do Amaral.\nSão Paulo: Fundação Finambras, s.d, p.4.\nTAGNA\nTarsila do Amaral, O mamoeiro, 1925, óleo s/ tela, 65,0 cm x 70,0 cm.\nColeção Mário de Andrade - Instituto de Estudos Brasileiros da Universidade\nde São Paulo. Reprodução fotográfica: Rômulo Fialdini. Disponível em:\nhttps://enciclopedia.itaucultural.org.br/.\nConsiderando a obra O Mamoeiro, de Tarsila do Amaral, qual\né o principal elemento que caracteriza a influência do\nmovimento modernista brasileiro na pintura?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) O emprego de recursos pictóricos que realçam os efeitos\nde luz e sombra na cena retratada."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) A representação de aspectos da cultura brasileira,\nvalorizando uma paisagem local."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) A simplificação de formas geométricas abstratas."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) A inspiração na arte africana e na produção simbólica de\npovos originários."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) A incorporação da colagem e de técnicas mistas como\nprocedimentos artísticos centrais."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Arte – Arte Moderna Brasileira: Tarsila do Amaral"
+      ]
+    },
+    {
+      "numeroEnunciado": 87,
+      "enunciado": "Tecidos de ljebu\n\"Os ijebus vestem-se quase sempre com panos produzidos\npor eles próprios. São fazendas de algodão, matéria-prima\nque obtêm localmente. Nas famílias, as tarefas de colher\nalgodão, fiá-lo, tecê-lo e tingi-lo estão costumeiramente a\ncargo das mulheres, e sabe-se ser muito grande a quantidade\nde tecidos manufaturados em Ijebu e dali exportados, não\napenas para os países vizinhos, mas até mesmo para o Brasil,\ncujos navios vêm buscar em Lagos essa mercadoria tão\napreciada pela gente de origem africana transplantada para\naquela terra distante. As cores mais comuns, depois da branca\ne da azul, são a amarela, a vermelha, a carmesim e a verde.\nAlguns panos são de uma só cor, outros são multicoloridos.\"\nOSIFEKUNDE. Notícia sobre o país e o povo dos Ijebus. In: COSTA E SILVA,\nAlberto. Imagens da África. São Paulo: Penguin, 2012. p.361.\nO texto é parte de um relato das memórias de um ex-\nescravizado natural de Ijebu, na atual Nigéria, trazido ao Brasil\nno início do século XIX. O excerto faz menção",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) à existência de um comércio de produtos manufaturados\nentre a África e a América."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) à prerrogativa masculina na produção de tecidos naquela\nregião da África."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) à baixa qualidade das manufaturas africanas em\ncomparação com as da Europa."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) à impossibilidade de acesso, por africanos e\nafrodescendentes, a produtos vindos da África."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) ao comércio de africanos escravizados para o trabalho nas\nplantações de algodão."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – África: Comércio e Escravidão"
+      ]
+    },
+    {
+      "numeroEnunciado": 88,
+      "enunciado": "\"Consiste em uma faixa de terra semiárida e árida que contorna\na borda sul do Deserto do Saara e percorre a extensão da África\nno sentido leste-oeste. Atua como um cinturão que divide o\ncontinente africano em dois, a África majoritariamente\nislâmica, ao norte, e a cristã, ao sul. Englobando ao menos onze\npaíses, a região é lar para dezenas de grupos étnicos.\"\nVAGEN, Tor-Gunnar; GUMBRICHT, Thomas. UNEP/ONU, 2012 (Adaptado).\nO texto descreve características da região denominada de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) Chifre da África."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) África Meridional."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) África Setentrional."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) Rift Valley."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) Sahel."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geografia Física: Sahel Africano"
+      ]
+    },
+    {
+      "numeroEnunciado": 89,
+      "enunciado": "\"Aconteceu num debate, num país europeu. Da\nassistência alguém me lançou a seguinte pergunta:\n- Para si, o que é ser africano?\nFalava-se, inevitavelmente, de identidade versus\nglobalização. Respondi com uma pergunta:\n- E para si, o que é ser europeu?\nO homem gaguejou. Não sabia responder. Mas o\ninteressante é que, para ele, a questão da identidade se\ncolocava naturalmente para os africanos. Não para os\neuropeus. Ele nunca tinha colocado a questão no espelho.\nRecordo o episódio porque me parece que ele toca uma\nquestão central: quando se fala de África, de qual África\nestamos falando? Terá o continente africano uma essência\nfacilmente capturável? Haverá uma substância exótica que os\ncaçadores de identidades possam recolher como sendo a\nalma africana?\"\nCOUTO, Mia. \"Um retrato sem moldura\". In: HERNANDEZ, Leila Leite. A\nÁfrica na sala de aula: visita à história contemporânea. São Paulo: Selo\nNegro, 2008. p.11.\nAo relatar e comentar o episódio, o escritor moçambicano Mia\nCouto apresenta a África como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) uma construção histórica proporcionada pela ação\nhumanitária dos colonizadores europeus."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) um resultado natural da luta dos povos do continente\ncontra a dominação estrangeira."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) uma região historicamente afetada por graves problemas\ndemográficos e sanitários."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) um continente definido a partir de critérios políticos e\ngeográficos deterministas."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) um mosaico composto por relações econômicas, políticas\ne culturais instáveis."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Africana: Mia Couto e Identidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 90,
+      "enunciado": "\"Brasil, meu Brasil brasileiro\nMeu mulato inzoneiro\nVou cantar-te nos meus versos\nO Brasil, samba que dá\nBamboleio, que faz gingar\nO Brasil do meu amor\nTerra de Nosso Senhor\nBrasil, pra mim\nÔ, abre a cortina do passado\nTira a mãe preta do cerrado\nBota o Rei Congo no congado\nBrasil, pra mim (...)\nÔ! Esse coqueiro que dá coco\nOnde eu amarro a minha rede\nNas noites claras de luar\nBrasil, pra mim\nÔ! Ouve essas fontes murmurantes\nOnde eu mato a minha sede\nE onde a lua vem brincar\nÔ! Este Brasil lindo e trigueiro\nÉ o meu Brasil, brasileiro\nTerra de samba e pandeiro\nBrasil, pra mim\"\nA canção Aquarela do Brasil foi composta por Ari Barroso e\nlançada no ano de 1939. Sua letra permite identificar temas\nque guardam afinidades com a política cultural do Estado\nNovo, podendo ser destacada a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(A) discriminação em relação a afrodescendentes."
+        },
+        {
+          "letra": "B",
+          "texto": "(B) exaltação das virtudes naturais e nacionais."
+        },
+        {
+          "letra": "C",
+          "texto": "(C) concepção civilizatória assentada na religião católica."
+        },
+        {
+          "letra": "D",
+          "texto": "(D) valorização da cultura cabocla e do regionalismo."
+        },
+        {
+          "letra": "E",
+          "texto": "(E) escolha do malandro como símbolo nacional."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil: Estado Novo e Cultura"
+      ]
+    }
+  ]
+}
