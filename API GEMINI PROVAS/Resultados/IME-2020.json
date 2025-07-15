@@ -1,0 +1,1278 @@
+{
+  "prova": {
+    "nomeUniversidade": "Instituto Militar de Engenharia",
+    "siglaUniversidade": "IME",
+    "nomeProva": "Concurso de Admissão",
+    "ano": "2020",
+    "qtdeQuestoes": 40,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "Seja U o conjunto dos 1000 primeiros números naturais maiores que zero. Considere que zeros à esquerda são omitidos. Seja A ⊆ U o conjunto de números cuja representação na base 10 tem o algarismo mais significativo igual a 1; e B ⊂ U o conjunto de números cuja representação na base 4 tem o algarismo mais significativo igual a 2. As cardinalidades de A - B e de B - A são, respectivamente:\nObservação: • cardinalidade de um conjunto finito é o número de elementos distintos desse conjunto.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "46 e 277"
+          },
+          {
+            "letra": "B",
+            "texto": "45 e 275"
+          },
+          {
+            "letra": "C",
+            "texto": "44 e 275"
+          },
+          {
+            "letra": "D",
+            "texto": "45 e 277"
+          },
+          {
+            "letra": "E",
+            "texto": "46 e 275"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Teoria dos Conjuntos",
+          "Matemática – Sistemas de Numeração"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "O menor número natural ímpar que possui o mesmo número de divisores que 1800 está no intervalo:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "[1,16000]"
+          },
+          {
+            "letra": "B",
+            "texto": "[16001,17000]"
+          },
+          {
+            "letra": "C",
+            "texto": "[17001,18000]"
+          },
+          {
+            "letra": "D",
+            "texto": "[18001,19000]"
+          },
+          {
+            "letra": "E",
+            "texto": "[19001, ∞)"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Teoria dos Números",
+          "Matemática – Divisibilidade"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "Considere os conjuntos A = {0, 1, 2, 3, 4} e B = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}. Seja F o conjunto de funções cujo domínio é A e cujo contradomínio é B. Escolhendo-se ao acaso uma função f de F, a probabilidade de f ser estritamente crescente ou ser injetora é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,00252"
+          },
+          {
+            "letra": "B",
+            "texto": "0,00462"
+          },
+          {
+            "letra": "C",
+            "texto": "0,25200"
+          },
+          {
+            "letra": "D",
+            "texto": "0,30240"
+          },
+          {
+            "letra": "E",
+            "texto": "0,55440"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Análise Combinatória",
+          "Matemática – Probabilidade",
+          "Matemática – Funções"
+        ]
+      },
+      {
+        "numeroEnunciado": 4,
+        "enunciado": "Sabe-se que S = x + y + z, onde x, y e z são soluções inteiras do sistema abaixo.\nx = ³√(2y²/2)\ny = e^(2ln(x))\nlog₂y + logₓz = (x + 3)\nO valor de S é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "84"
+          },
+          {
+            "letra": "B",
+            "texto": "168"
+          },
+          {
+            "letra": "C",
+            "texto": "234"
+          },
+          {
+            "letra": "D",
+            "texto": "512"
+          },
+          {
+            "letra": "E",
+            "texto": "600"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Sistemas de Equações",
+          "Matemática – Logaritmos",
+          "Matemática – Exponenciais"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "Seja A = {z ∈ C | 2 ≤ |z - 3 - 4i| ≤ 3} onde C é o conjunto dos números complexos. O valor do produto entre o simétrico do complexo de menor módulo do conjunto A e o conjugado do complexo de maior módulo do mesmo conjunto A é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "-16"
+          },
+          {
+            "letra": "B",
+            "texto": "-8"
+          },
+          {
+            "letra": "C",
+            "texto": "-16/5"
+          },
+          {
+            "letra": "D",
+            "texto": "1"
+          },
+          {
+            "letra": "E",
+            "texto": "16"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Números Complexos"
+        ]
+      },
+      {
+        "numeroEnunciado": 6,
+        "enunciado": "Um polinômio P(x) de grau maior que 3 quando dividido por x-2, x-3 e x-5 deixa restos 2, 3 e 5, respectivamente. O resto da divisão de P(x) por (x-2)(x-3)(x-5) é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1"
+          },
+          {
+            "letra": "B",
+            "texto": "x"
+          },
+          {
+            "letra": "C",
+            "texto": "30"
+          },
+          {
+            "letra": "D",
+            "texto": "x-1"
+          },
+          {
+            "letra": "E",
+            "texto": "x-30"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Polinômios",
+          "Matemática – Teorema do Resto"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "Um inteiro positivo é escrito em cada uma das seis faces de um cubo. Para cada vértice, é calculado o produto dos números escritos nas três faces adjacentes. Se a soma desses produtos é 1105, a soma dos seis números das faces é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "22"
+          },
+          {
+            "letra": "B",
+            "texto": "35"
+          },
+          {
+            "letra": "C",
+            "texto": "40"
+          },
+          {
+            "letra": "D",
+            "texto": "42"
+          },
+          {
+            "letra": "E",
+            "texto": "50"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Geometria Espacial",
+          "Matemática – Teoria dos Números"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "Uma progressão geométrica é formada com os números naturais A, B e C, nessa ordem. O log(A) possui a mesma mantissa, M, do log(B) e C é a característica do log(A). Sabe-se que M=log(C) e que C possui o maior valor possível. O valor da mantissa do log(ABC) é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "M"
+          },
+          {
+            "letra": "B",
+            "texto": "2M"
+          },
+          {
+            "letra": "C",
+            "texto": "3M"
+          },
+          {
+            "letra": "D",
+            "texto": "3M-2"
+          },
+          {
+            "letra": "E",
+            "texto": "3M-3"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Progressão Geométrica",
+          "Matemática – Logaritmos"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "Diversos modelos de placas de identificação de veículos já foram adotados no Brasil. Considere os seguintes modelos de placas e a descrição de sua composição alfanumérica:\nModelo 1: AB123 (duas letras seguidas de três números)\nModelo 2: AB1234 (duas letras seguidas de quatro números)\nModelo 3: ABC1234 (três letras seguidas de quatro números)\nModelo 4: ABC1D23 (três letras seguidas de um número, uma letra e dois números)\nSejam C1, C2, C3 e C4 as quantidades das combinações alfanuméricas possíveis para os modelos 1, 2, 3 e 4, respectivamente. Os números C1, C2, C3 e C4 são termos de uma progressão aritmética com infinitos termos com a maior razão possível. A soma dos algarismos da razão dessa progressão é:\nObservação: • considere o alfabeto com 26 letras.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "11"
+          },
+          {
+            "letra": "B",
+            "texto": "12"
+          },
+          {
+            "letra": "C",
+            "texto": "14"
+          },
+          {
+            "letra": "D",
+            "texto": "16"
+          },
+          {
+            "letra": "E",
+            "texto": "19"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Análise Combinatória",
+          "Matemática – Progressão Aritmética"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "Considere a progressão geométrica a1, a2,…,an,… e a progressão aritmética b1, b2,…, bn,… com as condições:\na₁ > 0;\na2/a1 > 1; e\nb2-b₁ > 0\nPara que [loga(an) – bn] não dependa de n, o valor de a deverá ser:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "(a2/a₁)^(1/b2)"
+          },
+          {
+            "letra": "B",
+            "texto": "(a2/a1)^(1/b₁)"
+          },
+          {
+            "letra": "C",
+            "texto": "(a2/a₁)^(1/(b2-b₁))"
+          },
+          {
+            "letra": "D",
+            "texto": "(a2/a₁)^(1/(b1-b2))"
+          },
+          {
+            "letra": "E",
+            "texto": "(a2/a₁)^(1/b1b2)"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Progressão Geométrica",
+          "Matemática – Progressão Aritmética",
+          "Matemática – Logaritmos"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "Todos os arcos entre 0 e 2π radianos que satisfazem a desigualdade\nsenx - 1/2 > cosx + √3/2\nestão compreendidos entre:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "π/12 e π/6"
+          },
+          {
+            "letra": "B",
+            "texto": "5π/12 e 7π/12"
+          },
+          {
+            "letra": "C",
+            "texto": "2π/3 e 5π/6"
+          },
+          {
+            "letra": "D",
+            "texto": "π e π/2"
+          },
+          {
+            "letra": "E",
+            "texto": "5π/6 e 11π/12"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Trigonometria",
+          "Matemática – Inequações Trigonométricas"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "O lugar geométrico definido pela equação x² + 3y² + 5 = 2x – xy – 4y representa",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "uma elipse."
+          },
+          {
+            "letra": "B",
+            "texto": "uma hipérbole."
+          },
+          {
+            "letra": "C",
+            "texto": "uma circunferência."
+          },
+          {
+            "letra": "D",
+            "texto": "um conjunto vazio."
+          },
+          {
+            "letra": "E",
+            "texto": "duas retas paralelas."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Geometria Analítica",
+          "Matemática – Cônicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "Um triângulo equilátero é projetado ortogonalmente em um plano, gerando um triângulo isósceles, cujo ângulo desigual mede 30°. O cosseno do ângulo do plano do triângulo equilátero com o plano de projeção é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "(2√3-3)/2"
+          },
+          {
+            "letra": "B",
+            "texto": "(4-2√3)/2"
+          },
+          {
+            "letra": "C",
+            "texto": "2 – √3"
+          },
+          {
+            "letra": "D",
+            "texto": "1 – √3"
+          },
+          {
+            "letra": "E",
+            "texto": "(√3-1)/2"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Geometria Espacial",
+          "Matemática – Trigonometria"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "Em um cubo regular de aresta a, os pontos M, N e L pertencentes às três arestas distintas que partem do vértice A estão a uma distância x de A tal que 0 < x ≤ a/2. Para que plano MNL seja tangente à esfera inscrita no cubo, o valor de x é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a/2(√3 - 1)"
+          },
+          {
+            "letra": "B",
+            "texto": "a/2(3 - √3)"
+          },
+          {
+            "letra": "C",
+            "texto": "a/2(2 - √3)"
+          },
+          {
+            "letra": "D",
+            "texto": "a/2(4 - 2√3)"
+          },
+          {
+            "letra": "E",
+            "texto": "a√3/2"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Geometria Espacial",
+          "Matemática – Geometria Analítica"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "Considere a função f (x) = √x – a, x ≥ a, onde a é um número real positivo. Seja s a reta secante ao gráfico de f em (2a, f(2a)) e (5a, f (5a)) e t a reta tangente ao gráfico de f que é paralela à reta s. A área do quadrilátero formado pela reta s, a reta t, a reta x = 2a e a reta x = 5a é √2 unidades de área. O valor de a, em unidades de comprimento, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2√2"
+          },
+          {
+            "letra": "B",
+            "texto": "4"
+          },
+          {
+            "letra": "C",
+            "texto": "2"
+          },
+          {
+            "letra": "D",
+            "texto": "3√2"
+          },
+          {
+            "letra": "E",
+            "texto": "2/√4"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Cálculo Diferencial e Integral",
+          "Matemática – Funções",
+          "Matemática – Geometria Analítica"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "Uma fonte sonora de frequência fo é arremessada verticalmente para cima, com velocidade inicial vo, de um ponto da superfície terrestre no qual a aceleração da gravidade é g.\nDados:\n• aceleração da gravidade: g = 9,8 m/s²; e\n• velocidade inicial da fonte sonora: vo = 98 m/s.\nNota: despreze a resistência do ar e a variação da aceleração da gravidade com a altitude.\nA frequência f percebida 10 segundos mais tarde por um observador estático situado no local do arremesso é tal que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0 < f < fo"
+          },
+          {
+            "letra": "B",
+            "texto": "f = fo"
+          },
+          {
+            "letra": "C",
+            "texto": "fo < f < 2 fo"
+          },
+          {
+            "letra": "D",
+            "texto": "f = 2 fo"
+          },
+          {
+            "letra": "E",
+            "texto": "f > 2 fo"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Ondulatória",
+          "Física – Efeito Doppler",
+          "Física – Cinemática"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "Um sistema mecânico, composto por um corpo de massa M conectado a uma mola, está inicialmente em equilíbrio mecânico e em repouso sobre uma superfície horizontal sem atrito, conforme mostra a figura. Um projétil esférico de massa m é disparado na direção horizontal contra a massa M, provocando um choque perfeitamente inelástico que inicia uma oscilação no sistema.\nDados:\n• M = 10 kg;\n• m = 2 kg;\n• amplitude de oscilação do sistema = 0,4 m; e\n• frequência angular = 2 rad/s\nA velocidade do projétil antes do choque entre as massas M e m, em m/s, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,8"
+          },
+          {
+            "letra": "B",
+            "texto": "1,6"
+          },
+          {
+            "letra": "C",
+            "texto": "2,4"
+          },
+          {
+            "letra": "D",
+            "texto": "4,8"
+          },
+          {
+            "letra": "E",
+            "texto": "9,6"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Mecânica",
+          "Física – Colisões",
+          "Física – Movimento Harmônico Simples"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "Um indivíduo instalou uma fonte de luz monocromática linearmente polarizada na roda do seu carro, irradiando em direção ortogonal à roda e paralela ao solo. O veículo está em movimento retilíneo em velocidade constante. Um detector linearmente polarizado desloca-se, acompanhando o eixo da roda, na mesma velocidade e sentido do carro. O gráfico da intensidade luminosa (IL) captada pelo detector, em função do ângulo (θ), em graus, entre os planos de polarização da luz e do detector, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Gráfico de IL(θ) com formato de onda senoidal retificada em valor absoluto."
+          },
+          {
+            "letra": "B",
+            "texto": "Gráfico de IL(θ) com formato de onda senoidal ao quadrado, começando no máximo."
+          },
+          {
+            "letra": "C",
+            "texto": "Gráfico de IL(θ) com formato de onda senoidal retificada em valor absoluto, começando em zero."
+          },
+          {
+            "letra": "D",
+            "texto": "Gráfico com picos triangulares."
+          },
+          {
+            "letra": "E",
+            "texto": "Gráfico com dois ciclos completos de uma onda senoidal."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Óptica",
+          "Física – Polarização da Luz"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "Em um experimento, uma fonte laser emite um pulso luminoso instantâneo, que é refletido por um espelho plano (MR), girando em velocidade angular constante ω. Um outro espelho fixo, côncavo e circular (MF), encontra-se acima da fonte laser, ambos localizados a uma distância L = 3 km de MR, conforme mostra a figura. O centro de curvatura (C) de MF localiza-se no ponto onde a luz do laser encontra MR e coincide com seu centro de rotação.\nDado:\n• velocidade da luz: c = 3 x 10⁸ m/s.\nObservações:\n• a posição de MR e MF são tais que o feixe consegue chegar a MF, pelo menos, duas vezes; e\n• despreze o comprimento da fonte laser.\nPara que o pulso luminoso seja refletido em MF pela 2ª vez, a um comprimento de arco Δs = 30 cm do 1º ponto de reflexão, o valor de ω, em rad/s, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1,25"
+          },
+          {
+            "letra": "B",
+            "texto": "2,50"
+          },
+          {
+            "letra": "C",
+            "texto": "3,33"
+          },
+          {
+            "letra": "D",
+            "texto": "5,00"
+          },
+          {
+            "letra": "E",
+            "texto": "10,00"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Óptica",
+          "Física – Espelhos",
+          "Física – Movimento Circular"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "Uma barra de metal de massa M uniformemente distribuída e seção reta quadrada de lado L encontra-se totalmente submersa e sustentada pela estrutura na figura, composta por uma haste e por fios inextensíveis com massas desprezíveis. Em determinado instante, a haste começa a ser puxada lentamente pelo fio central em D, de modo que a barra começa a emergir. Esse movimento durou até que apenas 25% da barra estivesse imersa, momento em que ocorreu o rompimento do fio AB.\nDados:\n• comprimento da barra: h;\n• aceleração da gravidade: g; e\n• massa específica da água: μ.\nA força de tração que leva à ruptura do fio AB é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "√3(2M – μh L²)g / 6"
+          },
+          {
+            "letra": "B",
+            "texto": "√3(4M – μh L²)g / 12"
+          },
+          {
+            "letra": "C",
+            "texto": "√3(4M – μh L²)g / 6"
+          },
+          {
+            "letra": "D",
+            "texto": "√3(2M – μh L²)g / 3"
+          },
+          {
+            "letra": "E",
+            "texto": "√3(8M – μh L²)g / 6"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Estática",
+          "Física – Hidrostática",
+          "Física – Princípio de Arquimedes"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "A figura acima mostra a energia cinética de um atleta de 60 kg, durante uma corrida de 2700 m, em função da distância percorrida. O tempo gasto para o atleta completar a corrida foi de:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "09 min e 00 s"
+          },
+          {
+            "letra": "B",
+            "texto": "08 min e 10 s"
+          },
+          {
+            "letra": "C",
+            "texto": "08 min e 20 s"
+          },
+          {
+            "letra": "D",
+            "texto": "08 min e 34 s"
+          },
+          {
+            "letra": "E",
+            "texto": "08 min e 50 s"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Energia Mecânica",
+          "Física – Cinemática",
+          "Física – Trabalho e Potência"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "Uma partícula com carga positiva viaja em velocidade constante até aproximar-se de uma esfera oca com carga negativa uniformemente distribuída em sua casca. Ao encontrar a esfera, a partícula entra em seu interior por um pequeno furo, passa pelo centro e deixa a esfera por um segundo furo, prosseguindo o movimento. Bem distante da esfera, a partícula se aproxima de uma placa metálica plana de grande dimensão, com carga negativa uniformemente distribuída pela placa, conforme esquema da figura.\nObservações:\n• a carga da partícula não redistribui a carga da casca esférica e nem da placa plana; e\n• a distribuição das cargas da casca esférica e da placa plana não interferem entre si.\nO gráfico que melhor exprime a velocidade da partícula em função de sua posição é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Gráfico com formato de onda senoidal com picos e vales."
+          },
+          {
+            "letra": "B",
+            "texto": "Gráfico com velocidade diminuindo ao entrar na esfera, constante dentro, diminuindo ao sair, e constante novamente."
+          },
+          {
+            "letra": "C",
+            "texto": "Gráfico com velocidade aumentando e diminuindo de forma simétrica."
+          },
+          {
+            "letra": "D",
+            "texto": "Gráfico com velocidade em forma de U."
+          },
+          {
+            "letra": "E",
+            "texto": "Gráfico com velocidade em forma de W."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Eletrostática",
+          "Física – Potencial Elétrico",
+          "Física – Energia Potencial Elétrica"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "Uma fonte luminosa A emite uma luz com comprimento de onda λ = 500 nm, no vácuo, na direção de um anteparo localizado em C. Em frente ao espelho localizado em B, encontra-se a película P₁ com índice de refração n₁ = 1,25 e, em frente ao espelho localizado em D, encontra-se uma a película P2 com índice de refração n2.\nObservações:\n• os espelhos equidistam do centro do anteparo C;\n• após ser emitido do ponto A, o feixe de luz reflete em direção a B e refrata em direção a D;\n• após refletir em B, o feixe refrata diretamente em direção a E; e\n• após refletir em D, o feixe volta a refletir totalmente em C em direção a E.\nO menor índice de refração n₂ para que ocorra interferência totalmente destrutiva para um observador localizado em E, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1,00"
+          },
+          {
+            "letra": "B",
+            "texto": "1,05"
+          },
+          {
+            "letra": "C",
+            "texto": "1,15"
+          },
+          {
+            "letra": "D",
+            "texto": "1,20"
+          },
+          {
+            "letra": "E",
+            "texto": "1,25"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Óptica",
+          "Física – Interferência",
+          "Física – Refração da Luz"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "Duas partículas com cargas elétricas q₁ e q₂ movem-se no plano xy e suas posições em função do tempo t são dadas pelos pares ordenados p₁(t) = [x₁(t), y₁(t)] e p₂(t) = [x₂(t), y₂(t)], respectivamente.\nDados:\n• constante de Coulomb: k = 9,0 × 10⁹;\n• cargas elétricas: q₁ = 2,0 × 10⁻⁶ e q₂ = 2,5 × 10⁻⁶; e\n• posições das partículas: p₁(t) = (5/√t - 1, 1/√t) , p₂(t) = (1/√t, 4/√t - 1)\nConsiderando todas as grandezas dadas no Sistema Internacional de Unidades, o módulo da componente y do impulso da força que uma partícula exerce sobre a outra no intervalo de tempo de 1,0 a 6,0 é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "13,5 x 10⁻³"
+          },
+          {
+            "letra": "B",
+            "texto": "18,9 x 10⁻³"
+          },
+          {
+            "letra": "C",
+            "texto": "25,2 x 10⁻³"
+          },
+          {
+            "letra": "D",
+            "texto": "31,5 x 10⁻³"
+          },
+          {
+            "letra": "E",
+            "texto": "37,8 x 10⁻³"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Eletrodinâmica",
+          "Física – Lei de Coulomb",
+          "Física – Impulso e Quantidade de Movimento"
+        ]
+      },
+      {
+        "numeroEnunciado": 25,
+        "enunciado": "Um escritório de patentes analisa as afirmativas de um inventor que deseja obter os direitos sobre três máquinas térmicas reais que trabalham em um ciclo termodinâmico. Os dados sobre o calor rejeitado para a fonte fria e o trabalho produzido pela máquina térmica – ambos expressos em Joules – encontram-se na tabela abaixo.\nMáquina Térmica | Calor Rejeitado [J] | Trabalho Produzido [J]\nA | 40 | 60\nB | 15 | 30\nC | 8 | 12\nAs afirmativas do inventor são:\nAfirmativa 1: O rendimento das máquinas A e C são os mesmos para quaisquer temperaturas de fonte quente e de fonte fria.\nAfirmativa 2: As máquinas A, B e C obedecem à Segunda Lei da Termodinâmica.\nAfirmativa 3: Se o calor rejeitado nas três situações acima for dobrado e se for mantida a mesma produção de trabalho, a máquina B apresentará rendimento superior aos das máquinas A e C, supondo atendidos os princípios da termodinâmica.\nTomando sempre as temperaturas dos reservatórios das fontes quente e fria das máquinas como 900 K e 300 K, está(ão) correta(s) a(s) afirmativa(s):",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "2, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "1, 2 e 3."
+          },
+          {
+            "letra": "D",
+            "texto": "1 e 3, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "2 e 3, apenas."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Termodinâmica",
+          "Física – Máquinas Térmicas",
+          "Física – Leis da Termodinâmica"
+        ]
+      },
+      {
+        "numeroEnunciado": 26,
+        "enunciado": "Um foguete desloca-se com aceleração constante a, que forma um ângulo α com a vertical, como mostra a figura, em uma região cujo campo gravitacional local é g. No interior do foguete há um pêndulo simples de comprimento L. Na condição de equilíbrio, o período τ do pêndulo para oscilações de pequenas amplitudes é:\nObs: as dimensões do corpo preso ao pêndulo são desprezíveis em relação ao seu comprimento.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2π √(L / (g² + a² + 2agsenα))"
+          },
+          {
+            "letra": "B",
+            "texto": "2π √(L / (g² + a² - 2agcosα))"
+          },
+          {
+            "letra": "C",
+            "texto": "2π √(L / (g² + a² - agsenα))"
+          },
+          {
+            "letra": "D",
+            "texto": "2π √(L / (g² + a² + agcosα))"
+          },
+          {
+            "letra": "E",
+            "texto": "2π √(L / (g² + a² + 2agcosα))"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Mecânica",
+          "Física – Dinâmica",
+          "Física – Pêndulo Simples"
+        ]
+      },
+      {
+        "numeroEnunciado": 27,
+        "enunciado": "Um feixe de luz hipotético, mostrado na figura acima, propaga-se ao longo do plano xy em um meio não homogêneo, cujo índice de refração é função da coordenada y (n = n(y)). Considerando que o feixe tangencia o eixo x no ponto (0, 0), onde n(0) = no. Sabendo que a velocidade da luz no vácuo é c, o valor máximo absoluto possível da componente y para a velocidade do feixe passível de ser atingida é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "c / (2n₀²)"
+          },
+          {
+            "letra": "B",
+            "texto": "c / (2n₀)"
+          },
+          {
+            "letra": "C",
+            "texto": "c / (4n₀²)"
+          },
+          {
+            "letra": "D",
+            "texto": "c / n₀"
+          },
+          {
+            "letra": "E",
+            "texto": "c / (4n₀)"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Óptica",
+          "Física – Refração da Luz",
+          "Física – Velocidade da Luz"
+        ]
+      },
+      {
+        "numeroEnunciado": 28,
+        "enunciado": "Um capacitor previamente carregado com energia de 4,5 J foi inserido no circuito, resultando na configuração mostrada na figura acima. No instante t = 0, a chave S é fechada e começa a circular no circuito a corrente i(t), com i(0) > 2 A.\nDiante do exposto, ao ser alcançado o regime permanente, ou seja i(t → ∞) = 0, o módulo da variação de tensão, em volts, entre os terminais capacitor desde o instante t = 0 é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0"
+          },
+          {
+            "letra": "B",
+            "texto": "2"
+          },
+          {
+            "letra": "C",
+            "texto": "3"
+          },
+          {
+            "letra": "D",
+            "texto": "5"
+          },
+          {
+            "letra": "E",
+            "texto": "8"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Eletricidade",
+          "Física – Circuitos RC",
+          "Física – Capacitores"
+        ]
+      },
+      {
+        "numeroEnunciado": 29,
+        "enunciado": "Uma partícula de massa m e carga elétrica +q percorre a trajetória tracejada na figura em velocidade constante v. No instante em que a partícula alcança o ponto A, surge um campo magnético uniforme com intensidade constante B, emergindo do plano do papel. A intensidade do campo magnético B para que a partícula alcance o ponto D na continuação de sua trajetória é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "(x²+y²)mv / (2xq)"
+          },
+          {
+            "letra": "B",
+            "texto": "2ymv / ((x²+y²)q)"
+          },
+          {
+            "letra": "C",
+            "texto": "2xmv / ((x²+y²)q)"
+          },
+          {
+            "letra": "D",
+            "texto": "2xq / ((x²+y²)mv)"
+          },
+          {
+            "letra": "E",
+            "texto": "(x²+y²)mv / (2yq)"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Eletromagnetismo",
+          "Física – Força Magnética",
+          "Física – Movimento de Partículas Carregadas"
+        ]
+      },
+      {
+        "numeroEnunciado": 30,
+        "enunciado": "Uma partícula emite um feixe laser horizontal de encontro a uma lente convergente de distância focal f. Após ser desviado, o feixe atinge um anteparo localizado depois do foco da lente. Sabendo que a partícula, a lente e o anteparo estão em movimento em velocidade escalar v nos respectivos sentidos indicados na figura, a aceleração do ponto de impacto do feixe, no referencial do anteparo, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "v²/4f"
+          },
+          {
+            "letra": "B",
+            "texto": "v²/3f"
+          },
+          {
+            "letra": "C",
+            "texto": "v²/2f"
+          },
+          {
+            "letra": "D",
+            "texto": "2v²/f"
+          },
+          {
+            "letra": "E",
+            "texto": "4v²/f"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Óptica",
+          "Física – Lentes Esféricas",
+          "Física – Cinemática"
+        ]
+      },
+      {
+        "numeroEnunciado": 31,
+        "enunciado": "Considere que a superfície da Lua seja bombardeada a cada segundo por cerca de 100 bilhões de átomos de hidrogênio por cm² em função da ação do “vento solar”. Supondo que esse fluxo se mantenha constante, a massa aproximada de hidrogênio, que atingirá 1 cm² da Lua nos próximos 5 milhões de anos será:\n(Dado: NA = 6,0.10²³)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "16 g"
+          },
+          {
+            "letra": "B",
+            "texto": "26 g"
+          },
+          {
+            "letra": "C",
+            "texto": "32 g"
+          },
+          {
+            "letra": "D",
+            "texto": "40 g"
+          },
+          {
+            "letra": "E",
+            "texto": "48 g"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Estequiometria",
+          "Química – Grandezas Químicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 32,
+        "enunciado": "A respeito das reações abaixo:\nI. ²⁷₁₃Al + α → ³⁰₁₅P + ¹₀n\nII. ¹₀n + ²³⁵₉₂U → ¹⁴²₅₆Ba + ⁹³₃₆Kr + 3¹₀n\nIII. ²₁H + ³₁H → ⁴₂He + ¹₀n\nAssinale a alternativa INCORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "A reação I é uma reação de transmutação artificial."
+          },
+          {
+            "letra": "B",
+            "texto": "A reação II é uma reação de fissão nuclear."
+          },
+          {
+            "letra": "C",
+            "texto": "A reação III é uma reação de fusão nuclear."
+          },
+          {
+            "letra": "D",
+            "texto": "O número de nêutrons do criptônio da reação II é 55."
+          },
+          {
+            "letra": "E",
+            "texto": "A massa atômica do criptônio da reação II é 93."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Radioatividade",
+          "Química – Reações Nucleares"
+        ]
+      },
+      {
+        "numeroEnunciado": 33,
+        "enunciado": "Uma liga de cobre e prata, isenta de impurezas, é colocada em um recipiente contendo uma solução de ácido sulfúrico e água bromada, de modo que o gás que se desprende durante a reação é integralmente absorvido pela água bromada. Após a dissolução completa da liga, adiciona-se uma solução aquosa de BaCl₂. Findo o procedimento, observa-se um precipitado que deve ser composto predominantemente por:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "CuSO₄ e Ag₂SO₄"
+          },
+          {
+            "letra": "B",
+            "texto": "Ag₂SO₄ e BaSO₄"
+          },
+          {
+            "letra": "C",
+            "texto": "CuCl₂ e BaSO₄"
+          },
+          {
+            "letra": "D",
+            "texto": "AgCl e Ag₂SO₄"
+          },
+          {
+            "letra": "E",
+            "texto": "AgCl e CuSO₄"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Reações Inorgânicas",
+          "Química – Solubilidade",
+          "Química – Metalurgia"
+        ]
+      },
+      {
+        "numeroEnunciado": 34,
+        "enunciado": "A azitromicina é um potente antibiótico comercial. Sua estrutura molecular está mostrada abaixo:\nConsiderando a estrutura acima, são feitas as seguintes afirmações:\nI. Existem 2 átomos com hibridização sp².\nII. A molécula possui 18 carbonos quirais.\nIII. Éster, amina e éter são funções orgânicas encontradas na molécula.\nCom base na análise das afirmações acima, assinale a opção correta:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Há apenas uma afirmação verdadeira."
+          },
+          {
+            "letra": "B",
+            "texto": "Apenas as afirmações I e II são verdadeiras."
+          },
+          {
+            "letra": "C",
+            "texto": "Apenas as afirmações I e III são verdadeiras."
+          },
+          {
+            "letra": "D",
+            "texto": "Apenas as afirmações II e III são verdadeiras."
+          },
+          {
+            "letra": "E",
+            "texto": "Todas as afirmações são verdadeiras."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Química Orgânica",
+          "Química – Hibridização",
+          "Química – Isomeria Óptica",
+          "Química – Funções Orgânicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 35,
+        "enunciado": "Assinale a alternativa correta.\n(A) Serina, ácido aspártico e ácido glutâmico são exemplos de triacilgliceróis.\n(B) Os triacilgliceróis são encontrados somente em vegetais, sendo os principais responsáveis pela realização da fotossíntese.\n(C) A hidrólise alcalina de um triacilglicerol misto produz glicerol e uma mistura de sais de ácidos carboxílicos.\n(D) A principal diferença estrutural entre um sabão e um detergente consiste no fato de, em geral, o primeiro ser um sal de sódio do sulfato de alquila, enquanto o segundo é um sal de ácido carboxílico de cadeia longa.\n(E) Os triacilgliceróis podem ser divididos em gorduras (cuja hidrólise gera uma mistura de ácidos graxos) e óleos (que não podem ser hidrolisados).",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Serina, ácido aspártico e ácido glutâmico são exemplos de triacilgliceróis."
+          },
+          {
+            "letra": "B",
+            "texto": "Os triacilgliceróis são encontrados somente em vegetais, sendo os principais responsáveis pela realização da fotossíntese."
+          },
+          {
+            "letra": "C",
+            "texto": "A hidrólise alcalina de um triacilglicerol misto produz glicerol e uma mistura de sais de ácidos carboxílicos."
+          },
+          {
+            "letra": "D",
+            "texto": "A principal diferença estrutural entre um sabão e um detergente consiste no fato de, em geral, o primeiro ser um sal de sódio do sulfato de alquila, enquanto o segundo é um sal de ácido carboxílico de cadeia longa."
+          },
+          {
+            "letra": "E",
+            "texto": "Os triacilgliceróis podem ser divididos em gorduras (cuja hidrólise gera uma mistura de ácidos graxos) e óleos (que não podem ser hidrolisados)."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Química Orgânica",
+          "Química – Lipídios",
+          "Química – Saponificação"
+        ]
+      },
+      {
+        "numeroEnunciado": 36,
+        "enunciado": "O astrônomo britânico Arthur Eddington cunhou o termo “seta do tempo” para distinguir uma direção no tempo nos fenômenos naturais, ou seja, o fato de que o estado 2 de um sistema macroscópico ocorre após o estado 1. Podemos afirmar que o valor da entropia do estado 2 de um sistema fechado que evoluiu a partir do estado 1:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "é igual ao valor da entropia do estado 1."
+          },
+          {
+            "letra": "B",
+            "texto": "é menor que o valor da entropia do estado 1."
+          },
+          {
+            "letra": "C",
+            "texto": "é maior que o valor da entropia do estado 1."
+          },
+          {
+            "letra": "D",
+            "texto": "independe do valor da entropia do estado 1."
+          },
+          {
+            "letra": "E",
+            "texto": "depende do caminho percorrido entre os estados."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Termoquímica",
+          "Química – Termodinâmica",
+          "Química – Entropia"
+        ]
+      },
+      {
+        "numeroEnunciado": 37,
+        "enunciado": "Uma medida quantitativa da estabilidade de um composto sólido iônico é a sua energia de rede, definida como a energia requerida para decompor completamente 1 mol desse composto nos seus íons em fase gasosa. Considere os seguintes dados:\nI. a entalpia padrão de formação do CaCl₂ é - 790 kJ.mol⁻¹;\nII. a primeira energia de ionização do átomo de cálcio é 590 kJ.mol⁻¹;\nIII. a segunda energia de ionização do átomo de cálcio é 1146 kJ.mol⁻¹;\nIV. a vaporização de um mol de Ca(s) consome 190 kJ;\nV. a energia de ligação do Cl₂ é 242 kJ.mol⁻¹;\nVI. a afinidade eletrônica do Cl é - 349 kJ.mol⁻¹.\nCom base nessas informações, estima-se que a energia de rede do CaCl₂, em kJ.mol⁻¹, seja:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "790"
+          },
+          {
+            "letra": "B",
+            "texto": "1029"
+          },
+          {
+            "letra": "C",
+            "texto": "2070"
+          },
+          {
+            "letra": "D",
+            "texto": "2260"
+          },
+          {
+            "letra": "E",
+            "texto": "2609"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Termoquímica",
+          "Química – Ciclo de Born-Haber",
+          "Química – Ligações Iônicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 38,
+        "enunciado": "Considere a representação da Tabela Periódica a seguir:\nCom base nessa representação da tabela, avalie as asserções abaixo:\nI. O composto de representação δα₃ é iônico;\nII. A distribuição eletrônica [Ar] 4s² 3d⁶ pode representar o íon μ³⁺;\nIII. O isótopo mais estável do elemento γ tem 12 nêutrons;\nIV. Os elementos que apresentam, em seu estado fundamental, a distribuição eletrônica [Ne] 3s² 3pʸ, com 1 ≤ y ≤ 6, são todos não metais;\nV. O raio atômico de ε é menor que o raio atômico de δ.\nAssinale a alternativa que contém somente asserções corretas.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, II e III."
+          },
+          {
+            "letra": "B",
+            "texto": "III, IV e V."
+          },
+          {
+            "letra": "C",
+            "texto": "II, III e IV."
+          },
+          {
+            "letra": "D",
+            "texto": "I, IV e V."
+          },
+          {
+            "letra": "E",
+            "texto": "II, III e V."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Tabela Periódica",
+          "Química – Ligações Químicas",
+          "Química – Configuração Eletrônica",
+          "Química – Propriedades Periódicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 39,
+        "enunciado": "A figura abaixo esquematiza o funcionamento de um aparelho de ionização que pode ser útil para medir baixas pressões compreendidas entre 10⁻⁴ e 10⁻¹⁰ mmHg. Nesse dispositivo, elétrons partem de um filamento aquecido, atravessam uma rede cuja tensão fixa a energia do elétron, e atingem uma região do tubo sonda ligada ao sistema de alto vácuo cuja pressão se deseja medir. Esses elétrons ionizam espécies neutras presentes no tubo e formam íons positivos que são atraídos por uma placa coletora negativa. Além disso, produzem uma corrente que pode ser medida e correlacionada com a pressão do sistema de vácuo. Portanto, quanto mais baixa a pressão, menor o número de moléculas neutras e, consequentemente, menor o número de íons positivos formados no tubo.\nO gráfico abaixo relaciona as primeiras energias de ionização aos números atômicos dos respectivos elementos.\nUm aparelho de ionização cuja energia eletrônica é 15 eV foi calibrado medindo-se a pressão de um sistema que continha vapor de sódio. Como a leitura do instrumento seria afetada se o vapor de sódio fosse substituído por neônio à mesma pressão?",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "A leitura seria maior."
+          },
+          {
+            "letra": "B",
+            "texto": "A leitura manter-se-ia inalterada."
+          },
+          {
+            "letra": "C",
+            "texto": "A leitura seria até 50% menor."
+          },
+          {
+            "letra": "D",
+            "texto": "A leitura seria de até 50% do valor medido com sódio."
+          },
+          {
+            "letra": "E",
+            "texto": "A leitura seria zero."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Estrutura Atômica",
+          "Química – Energia de Ionização",
+          "Física – Instrumentação"
+        ]
+      },
+      {
+        "numeroEnunciado": 40,
+        "enunciado": "Considere a sequência de reações orgânicas abaixo:\nA opção que corresponde aos compostos de (I) a (V), respectivamente, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "alquino, alqueno, ácido carboxílico, cloreto de ácido, cetona."
+          },
+          {
+            "letra": "B",
+            "texto": "alquino, alqueno, ácido carboxílico, haleto de alquila, cetona."
+          },
+          {
+            "letra": "C",
+            "texto": "alqueno, alquino, ácido carboxílico, cloreto de ácido, cetona."
+          },
+          {
+            "letra": "D",
+            "texto": "alquino, alqueno, ácido carboxílico, cloreto de ácido, fenol."
+          },
+          {
+            "letra": "E",
+            "texto": "alquino, alqueno, éster, cloreto de ácido, cetona."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Química Orgânica",
+          "Química – Reações Orgânicas",
+          "Química – Funções Orgânicas"
+        ]
+      }
+    ]
+  }
+}

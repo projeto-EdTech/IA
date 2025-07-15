@@ -1,5 +1,5 @@
 UNICAMP:
-Unicamp 2020 (ERRO, rodar novamente):
+Unicamp 2020:
 prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2020_1fase/unicamp2020_1fase_prova_QX.pdf
 gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2020_1fase/UNICAMP2020_1fase_gabarito.pdf
 
@@ -136,30 +136,6 @@ gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/201
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 FAMERP:
-Famerp 2025:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2025/1dia/famerp2025_1dia_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2025/1dia/famerp2025_1dia_gabarito.pdf
-
-Famerp 2023:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2023/1dia/famerp2023_1dia_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2023/1dia/famerp2023_1dia_gabarito.pdf
-
-Famerp 2022:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/1dia/famerp2022_1dia_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/1dia/famerp2022_1dia_gabarito.pdf
-
-Famerp 2021:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2021/1dia/famerp2021_1dia_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2021/1dia/famerp2021_1dia_gabarito.pdf
-
-Famerp 2020:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2020/1dia/famerp2020_1dia_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2020/1dia/famerp2020_1dia_gabarito.pdf
-
-Famerp 2019:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2019/1dia/famerp2019_1dia_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2019/1dia/famerp2019_1dia_gabarito.pdf
-
 Famerp 2018:
 prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2018/1dia/famerp2018_1dia_prova.pdf
 gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2018/1dia/famerp2018_1dia_gabarito.pdf
@@ -175,37 +151,6 @@ gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2
 Famerp 2015:
 prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2015/1dia/famerp2015_prova.pdf
 gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2015/1dia/famerp2015_gabarito.pdf
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-MACKENZIE:
-Mackenzie 2024:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2024/1dia/mackenzie2024_prova_1dia.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2024/1dia/mackenzie2024_gabarito_1dia.pdf
-
-Mackenzie 2020:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2020/manha/mackenzie2020_manha_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2020/manha/mackenzie2020_manha_gabarito.pdf
-
-Mackenzie 2019:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2019/manha/mackenzie2019_manha_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2019/manha/mackenzie2019_manha_gabarito.pdf
-
-Mackenzie 2018:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2018/manha/mackenzie2018_manha_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2018/manha/mackenzie2018_manha_gabarito.pdf
-
-Mackenzie 2017:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2017/manha/mackenzie2017_manha_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2017/manha/mackenzie2017_manha_gabarito.pdf
-
-Mackenzie 2016:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2016/manha/mackenzie2016_manha_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2016/manha/mackenzie2016_manha_gabarito.pdf
-
-Mackenzie 2015:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2015/manha/mackenzie2015_manha_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2015/manha/mackenzie2015_manha_gabarito.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -256,95 +201,20 @@ gabarito -
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-FATEC:
-Fatec 2025:
-prova - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202528719/Prova.pdf?v=2.1
-gabarito - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202528719/Gabarito.pdf?v=2.1
-
-Fatec 2024:
-prova - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202415903/Prova.pdf?v=2.1
-gabarito - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202415903/Gabarito.pdf?v=2.1
-
-Fatec 2023:
-prova - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202315287/Prova.pdf?v=2.1
-gabarito - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202315287/Gabarito.pdf?v=2.1
-
-Fatec 2022:
-prova - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202228712/Prova.pdf?v=2.1
-gabarito - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202228712/Gabarito.pdf?v=2.1
-
-Fatec 2021:
+MACKENZIE:
+Mackenzie 2025:
 prova - 
 gabarito - 
 
-Fatec 2020:
-prova - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202016520/Prova.pdf?v=2.1
-gabarito - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202016520/Gabarito-retificado.pdf?v=2.1
-
-Fatec 2019:
-prova - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/201916513/Prova.pdf?v=2.1
-gabarito - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/201916513/Gabarito.pdf?v=2.1
-
-Fatec 2018:
-prova - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/201814793/Prova.pdf?v=2.1
-gabarito - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/201814793/Gabarito.pdf?v=2.1
-
-Fatec 2017:
-prova - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/201718392/Prova.pdf?v=2.1
-gabarito - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/201718392/Gabarito-retificado.pdf?v=2.1
-
-Fatec 2016:
-prova - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/201619503/Prova.pdf?v=2.1
-gabarito - https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/201619503/Gabarito.pdf?v=2.1
-
-Fatec 2015:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/fatec/2015/fatec2015_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/fatec/2015/fatec2015_gabarito.pdf
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-IME:
-Ime 2025:
+Mackenzie 2023:
 prova - 
 gabarito - 
 
-Ime 2024:
+Mackenzie 2022:
 prova - 
 gabarito - 
 
-Ime 2023:
-prova - 
-gabarito - 
-
-Ime 2022:
-prova - 
-gabarito - 
-
-Ime 2021:
-prova - 
-gabarito - 
-
-Ime 2020:
-prova - 
-gabarito - 
-
-Ime 2019:
-prova - 
-gabarito - 
-
-Ime 2018:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/ime/2018/1fase/ime2018_1fase_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/ime/2018/1fase/ime2018_1fase_gabarito.pdf
-
-Ime 2017:
-prova - 
-gabarito - 
-
-Ime 2016:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/ime/2016/1fase/ime2016_1fase_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/ime/2016/1fase/ime2016_1fase_gabarito.pdf
-
-Ime 2015:
+Mackenzie 2021:
 prova - 
 gabarito - 
 

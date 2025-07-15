@@ -1,0 +1,1272 @@
+{
+  "prova": {
+    "nomeUniversidade": "Instituto Militar de Engenharia",
+    "siglaUniversidade": "IME",
+    "nomeProva": "Concurso de Admissão",
+    "ano": "2023",
+    "qtdeQuestoes": 40,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "Considere as matrizes A = \n(2 3)\n(1 5) e B = \n(3 6)\n(2 1). Seja Xᵀ a transposta da matriz X.\nSabendo que XᵀA⁻¹ = B então X⁻¹ é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1/7 (-12 5 / 39 -11)"
+          },
+          {
+            "letra": "B",
+            "texto": "1/63 (11 -5 / -39 12)"
+          },
+          {
+            "letra": "C",
+            "texto": "-1/63 (12 -39 / -5 11)"
+          },
+          {
+            "letra": "D",
+            "texto": "-1/63 (-12 5 / 39 -11)"
+          },
+          {
+            "letra": "E",
+            "texto": "1/63 (11 39 / -5 12)"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Matrizes",
+          "Matemática – Álgebra Linear"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "Seja f(x) uma função definida em ℝ tal que f(1) = 1. Para todo x ∈ ℝ valem as seguintes desigualdades\nf(x + 7) ≥ f(x) +7 e f(x + 1) ≤ f(x) + 1 .\nSe g(x) = f(x – 1) – x + 2, o valor de g(2023) é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0"
+          },
+          {
+            "letra": "B",
+            "texto": "1"
+          },
+          {
+            "letra": "C",
+            "texto": "2"
+          },
+          {
+            "letra": "D",
+            "texto": "2022"
+          },
+          {
+            "letra": "E",
+            "texto": "2023"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Funções",
+          "Matemática – Equações Funcionais"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "Considere os conjuntos de números complexos:\nA = {x + iy tal que x,y ∈ ℝ e |x| + |y| ≤ r} e B = {x + iy tal que x,y ∈ ℝ e max {|x - a|,|y – b|} ≤ c},\nonde r, a, b e c são números reais positivos e max {x₁,x₂} é o maior valor entre os reais x₁ e x₂.\nO menor valor de r, em função de a, b e c, para que se tenha B ⊂ A é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a + b + c"
+          },
+          {
+            "letra": "B",
+            "texto": "(a+b)√2+ c"
+          },
+          {
+            "letra": "C",
+            "texto": "2(a + b) + c"
+          },
+          {
+            "letra": "D",
+            "texto": "a+b+2c"
+          },
+          {
+            "letra": "E",
+            "texto": "2(a + b + c)"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Números Complexos",
+          "Matemática – Geometria Analítica"
+        ]
+      },
+      {
+        "numeroEnunciado": 4,
+        "enunciado": "A equação arctg(z) + arctg(z + 1) = arctg (4/3), em que arctg(x) é o arco tangente de x, apresenta:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "duas soluções reais sendo uma positiva e outra negativa."
+          },
+          {
+            "letra": "B",
+            "texto": "duas soluções reais positivas."
+          },
+          {
+            "letra": "C",
+            "texto": "duas soluções reais negativas."
+          },
+          {
+            "letra": "D",
+            "texto": "uma única solução real, sendo esta positiva."
+          },
+          {
+            "letra": "E",
+            "texto": "uma única solução real, sendo esta negativa."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Funções Trigonométricas Inversas",
+          "Matemática – Equações Algébricas"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "Dez números reais formam uma progressão geométrica (PG) com razão q > 1. Removem-se ao acaso cinco desses números. A probabilidade de que os cinco números restantes estejam em PG é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1/252"
+          },
+          {
+            "letra": "B",
+            "texto": "1/126"
+          },
+          {
+            "letra": "C",
+            "texto": "3/126"
+          },
+          {
+            "letra": "D",
+            "texto": "2/63"
+          },
+          {
+            "letra": "E",
+            "texto": "3/63"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Probabilidade",
+          "Matemática – Progressões Geométricas",
+          "Matemática – Combinatória"
+        ]
+      },
+      {
+        "numeroEnunciado": 6,
+        "enunciado": "Seja um tetraedro de vértices A, B, C e D. São dados os ângulos em radianos:\nADB = π/3 e CDB = ADC = π/2\ne os comprimentos das arestas em centímetros CD = 3 e AD = BD = 4 .\nA distância em centímetros do ponto D ao plano ABC é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "6/√7"
+          },
+          {
+            "letra": "B",
+            "texto": "3"
+          },
+          {
+            "letra": "C",
+            "texto": "2√3"
+          },
+          {
+            "letra": "D",
+            "texto": "4"
+          },
+          {
+            "letra": "E",
+            "texto": "5"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Geometria Espacial",
+          "Matemática – Geometria Analítica"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "A soma dos inversos das soluções inteiras da equação\n|x 2 3|\n|2 x 3| = 0\n|2 3 x|\né",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0"
+          },
+          {
+            "letra": "B",
+            "texto": "-19/30"
+          },
+          {
+            "letra": "C",
+            "texto": "-15"
+          },
+          {
+            "letra": "D",
+            "texto": "15"
+          },
+          {
+            "letra": "E",
+            "texto": "19/30"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Determinantes",
+          "Matemática – Equações Algébricas"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "Seja f: ℝ → ℝ definida como f(x) = log(x + √x² + 1). Então:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "f (x) é uma função par."
+          },
+          {
+            "letra": "B",
+            "texto": "f(x) é uma função ímpar."
+          },
+          {
+            "letra": "C",
+            "texto": "f(2x) > f(x) para todo x ≠ 0."
+          },
+          {
+            "letra": "D",
+            "texto": "f(x) tem duas raízes reais."
+          },
+          {
+            "letra": "E",
+            "texto": "f(x) não tem raiz real."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Funções",
+          "Matemática – Logaritmos",
+          "Matemática – Propriedades de Funções"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "Um polígono regular possui 2n vértices (n ∈ N, n > 1). Escolhem-se ao acaso 4 vértices do polígono, formando o quadrilátero ABCD. A probabilidade de ABCD ser um retângulo é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "n / (2n choose 4)"
+          },
+          {
+            "letra": "B",
+            "texto": "n - 1 / (2n choose 4)"
+          },
+          {
+            "letra": "C",
+            "texto": "(n+2 choose 2) / (2n choose 4)"
+          },
+          {
+            "letra": "D",
+            "texto": "2n / 6(2n)"
+          },
+          {
+            "letra": "E",
+            "texto": "n² + 2n + 4 / 12(2n)"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Probabilidade",
+          "Matemática – Combinatória",
+          "Matemática – Geometria Plana"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "Considere um ponto P cujas coordenadas (x,y), x,y ∈ ℝ, satisfazem o sistema\n{4 cossec(α)x - 6 cotg(α)y = 4 sen(α)\n{12 cossec(α)y - 8 cotg(α)x = 0\nonde α é um ângulo em radianos diferente de kπ (k∈ Z). O lugar geométrico descrito pelos pontos P, conforme se varia o ângulo α, é um segmento de:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "reta horizontal."
+          },
+          {
+            "letra": "B",
+            "texto": "reta vertical."
+          },
+          {
+            "letra": "C",
+            "texto": "reta inclinada."
+          },
+          {
+            "letra": "D",
+            "texto": "elipse."
+          },
+          {
+            "letra": "E",
+            "texto": "parábola."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Geometria Analítica",
+          "Matemática – Trigonometria"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "Um aluno distraído desmontou um relógio. Ao remontá-lo, trocou a posição dos ponteiros das horas e dos minutos, de modo que o ponteiro das horas passou a girar com a velocidade do ponteiro dos minutos, e vice-versa. Sabendo que o relógio foi acertado para as 4 horas, o intervalo que contém o horário t que marcará a hora certa novamente pela primeira vez é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "4h30min < t < 5h"
+          },
+          {
+            "letra": "B",
+            "texto": "5h < t < 5h30min"
+          },
+          {
+            "letra": "C",
+            "texto": "5h30min < t < 6h"
+          },
+          {
+            "letra": "D",
+            "texto": "6h < t < 6h30min"
+          },
+          {
+            "letra": "E",
+            "texto": "6h30min < t < 7h10min"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Problemas de Tempo",
+          "Matemática – Velocidade Angular"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "Um triângulo ABC possui incentro I e ex-incentro G relativo ao lado BC. Se BÎC + AĜC = 155°, então o ângulo ACB é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "30°"
+          },
+          {
+            "letra": "B",
+            "texto": "45°"
+          },
+          {
+            "letra": "C",
+            "texto": "50°"
+          },
+          {
+            "letra": "D",
+            "texto": "60°"
+          },
+          {
+            "letra": "E",
+            "texto": "90°"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Geometria Plana",
+          "Matemática – Triângulos e Pontos Notáveis"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "Seja a equação\n144ˣ + 324ˣ / 64ˣ + 729ˣ = 6/7\nA soma dos módulos das soluções reais desta equação é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1"
+          },
+          {
+            "letra": "B",
+            "texto": "2"
+          },
+          {
+            "letra": "C",
+            "texto": "3"
+          },
+          {
+            "letra": "D",
+            "texto": "8"
+          },
+          {
+            "letra": "E",
+            "texto": "9"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Equações Exponenciais",
+          "Matemática – Potenciação"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "Se a equação 2x²+cxy-3x+6y²-4y-2= 0 representa no plano real duas retas concorrentes, então o valor positivo do número real c é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "6"
+          },
+          {
+            "letra": "B",
+            "texto": "7"
+          },
+          {
+            "letra": "C",
+            "texto": "8"
+          },
+          {
+            "letra": "D",
+            "texto": "9"
+          },
+          {
+            "letra": "E",
+            "texto": "10"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Geometria Analítica",
+          "Matemática – Cônicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "Um número natural é palíndromo quando é o mesmo lido da esquerda para a direita e vice-versa. Seja n um número natural palíndromo tal que 1000 ≤ n ≤ 9999. Se n é um cubo perfeito, então a soma dos algarismos de n é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "8"
+          },
+          {
+            "letra": "B",
+            "texto": "10"
+          },
+          {
+            "letra": "C",
+            "texto": "12"
+          },
+          {
+            "letra": "D",
+            "texto": "14"
+          },
+          {
+            "letra": "E",
+            "texto": "16"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Teoria dos Números",
+          "Matemática – Propriedades dos Números"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "Um cubo de arestas de comprimento L é fabricado a partir de uma chapa metálica fina de densidade superficial de massa S. O cubo encontra-se bem vedado e possui 20% de seu volume interior preenchido com óleo e o restante preenchido com ar. Em certo momento, o cubo é colocado dentro de um reservatório de água e permanece em equilíbrio na posição ilustrada na figura. Dados: • massa específica da água: 1 g/cm³; • massa específica do óleo: 0,8 g/cm³. Observações: • a massa do ar no interior do cubo é desprezível; • a espessura da chapa é desprezível em relação ao comprimento L das arestas; • a unidade de L é cm; • a unidade de S é g/cm². A relação L/S, em cm³/g, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "6"
+          },
+          {
+            "letra": "B",
+            "texto": "7"
+          },
+          {
+            "letra": "C",
+            "texto": "8"
+          },
+          {
+            "letra": "D",
+            "texto": "9"
+          },
+          {
+            "letra": "E",
+            "texto": "10"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Hidrostática",
+          "Física – Empuxo",
+          "Física – Densidade"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "Na figura mostra-se um tanque sendo alimentado por uma bomba d'água, um agitador e um sistema de aquecimento. Dados: • massa específica da água: 1 g/cm³; • calor específico da água: 1 cal/(g. °C); • vazão de água da bomba: 10 L/min; • 1 cal = 4,2 J. Observações: • não há perdas de calor pelo tanque; • toda energia dissipada pela resistência aquece a água; • o agitador mistura toda a água do tanque, mantendo-a numa mesma temperatura. A água do tanque e a fornecida pela bomba encontram-se a 20 °C. Em determinado instante, o tanque contém 220 L de água e a chave S do sistema de aquecimento é fechada. O tempo, em minutos, para que a água do tanque atinja 60 °C será:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "8"
+          },
+          {
+            "letra": "B",
+            "texto": "11"
+          },
+          {
+            "letra": "C",
+            "texto": "14"
+          },
+          {
+            "letra": "D",
+            "texto": "17"
+          },
+          {
+            "letra": "E",
+            "texto": "20"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Termodinâmica",
+          "Física – Calorimetria",
+          "Física – Eletricidade"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "Um físico pilotando uma espaçonave foi multado por avanço de um semáforo de trânsito interestelar. Em sua defesa, alegou que via luz verde ao avançar o semáforo. Além de ter sua defesa indeferida, o físico ainda recebeu outra multa por excesso de velocidade. Dados: • velocidade da luz no vácuo: c; • comprimento de onda da cor verde (“siga\"): λ_v; • comprimento de onda da cor vermelho (“pare\"): λ_r. A velocidade mínima da espaçonave era:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "c√(1 - (λ_v/λ_r)²) / (1 + (λ_v/λ_r)²)"
+          },
+          {
+            "letra": "B",
+            "texto": "c(1 - (λ_v/λ_r)) / (1 + (λ_v/λ_r))"
+          },
+          {
+            "letra": "C",
+            "texto": "c((λ_r/λ_v)² - 1) / ((λ_r/λ_v)² + 1)"
+          },
+          {
+            "letra": "D",
+            "texto": "c(1 - (λ_r/λ_v)²) / (1 + (λ_r/λ_v)²)"
+          },
+          {
+            "letra": "E",
+            "texto": "c(1 - (λ_r/λ_v)) / (1 + (λ_r/λ_v))"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Relatividade Especial",
+          "Física – Efeito Doppler Relativístico"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "Em dois experimentos, A e B, uma partícula foi fixada à esquerda e outra partícula à direita foi solta com velocidade nula, conforme geometrias apresentadas nas figuras acima. Em cada experimento, mediu-se a velocidade final que a partícula da direita alcançou muito tempo após ser solta. Observação: • os movimentos das partículas nos experimentos ocorrem sempre na horizontal e sem a influência da gravidade. Definindo v_A como a velocidade escalar final da partícula solta no experimento A e v_B como a velocidade escalar final da partícula solta no experimento B, a razão v_A/v_B é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "16/9"
+          },
+          {
+            "letra": "B",
+            "texto": "√2"
+          },
+          {
+            "letra": "C",
+            "texto": "2"
+          },
+          {
+            "letra": "D",
+            "texto": "4"
+          },
+          {
+            "letra": "E",
+            "texto": "2√3/3"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Eletrostática",
+          "Física – Conservação de Energia",
+          "Física – Potencial Elétrico"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "Uma fonte sonora está pendurada por um fio ideal, conforme ilustrado na figura, realizando um movimento pendular. Dados: • frequência da fonte sonora: f; • comprimento do fio do pêndulo: L; • aceleração da gravidade: g; • velocidade do som: v. Se θ_max é o ângulo máximo atingido pelo fio que sustenta a fonte com relação à vertical, a frequência máxima do som ouvido por um observador localizado a uma distância ínfima do ponto mais baixo da trajetória da fonte é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "f_v / (v - √(2gL(1 - sen(θ_max))))"
+          },
+          {
+            "letra": "B",
+            "texto": "f_v / (v - √(2gL(1 - cos(θ_max))))"
+          },
+          {
+            "letra": "C",
+            "texto": "f_v (v - √(2gL(1 - sen(θ_max))))"
+          },
+          {
+            "letra": "D",
+            "texto": "f_v (v - √(2gL(1 - cos(θ_max))))"
+          },
+          {
+            "letra": "E",
+            "texto": "f_v / (v - √(2gL)cos(θ_max))"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Ondulatória",
+          "Física – Efeito Doppler",
+          "Física – Dinâmica"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "Uma balança de massa desprezível recebe a aplicação de 3 forças, como indicado na figura acima. A distância x assinalada, em metros, que garante o equilíbrio, é aproximadamente:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2,0"
+          },
+          {
+            "letra": "B",
+            "texto": "6,0"
+          },
+          {
+            "letra": "C",
+            "texto": "8,3"
+          },
+          {
+            "letra": "D",
+            "texto": "9,1"
+          },
+          {
+            "letra": "E",
+            "texto": "14,0"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Estática",
+          "Física – Equilíbrio de Rotação"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "Considere uma parede plana que apresenta temperaturas conhecidas e distintas em suas superfícies A e B (Figura 1), respectivamente iguais a T_A1 e T_B1. De modo a minimizar a taxa de transferência de calor, decide-se recobrir a superfície B com uma película isolante. Dados: • espessura da parede: 10 cm; • espessura da película isolante: 6 mm; • razão entre a taxa de transferência de calor da parede recoberta com a película isolante e a taxa de transferência de calor na situação não isolada: 0,4. Observações: • com o recobrimento da superfície B (Figura 2), suponha as temperaturas externas iguais a T_P (lado da película) e a T_A2; • a taxa de transferência de calor é constante ao longo das paredes nas duas situações. Para garantir-se T_B1 - T_A1 = T_P - T_A2, a razão entre as condutividades térmicas da película isolante e do material da parede é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,04"
+          },
+          {
+            "letra": "B",
+            "texto": "0,06"
+          },
+          {
+            "letra": "C",
+            "texto": "0,40"
+          },
+          {
+            "letra": "D",
+            "texto": "0,60"
+          },
+          {
+            "letra": "E",
+            "texto": "0,80"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Termodinâmica",
+          "Física – Condução de Calor"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "Duas partículas A e B de massas iguais se deslocam no plano XY. As coordenadas de suas posições, em função do instante de tempo t, em que 0 ≤ t ≤ t_choque, são, respectivamente, S_A = (t² - 9t + 13, t - 2) e S_B = (-2t+3, t² - 7t + 13). No instante t = t_choque, as partículas chocam-se elasticamente. Imediatamente após o choque, o módulo da soma de seus vetores de velocidade é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "√5"
+          },
+          {
+            "letra": "B",
+            "texto": "√10"
+          },
+          {
+            "letra": "C",
+            "texto": "√13"
+          },
+          {
+            "letra": "D",
+            "texto": "√17"
+          },
+          {
+            "letra": "E",
+            "texto": "√53"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Cinemática Vetorial",
+          "Física – Colisões",
+          "Física – Conservação de Momento Linear"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "Uma partícula de carga negativa, inicialmente em repouso, está sujeita ao seu peso e ao campo elétrico E vertical constante provocado por um plano infinito eletrizado. Como mostrado na figura, a partícula está presa por um fio ideal não condutor enrolado a uma roldana em forma de anel. Essa roldana pode girar de forma solidária a uma outra roldana com o dobro da massa e o dobro do raio. Ao girar, o fio é desenrolado à mesma velocidade escalar dos pontos do perímetro da roldana menor. Dados: • aceleração da gravidade: g; • módulo do campo elétrico vertical: E; • massa da partícula: m; • massa da roldana menor: m; • massa da roldana maior: 2m; • carga da partícula: -Q; • raio da roldana menor: r; • raio da roldana maior: 2r. Observações: • as roldanas estão sustentadas por hastes presas do teto aos respectivos centros; • as roldanas giram sempre em torno de seus centros e sem atrito; • todos os pontos do anel de cada roldana sempre estão à mesma velocidade escalar; • toda a massa de cada roldana está igualmente distribuída em seu respectivo perímetro. Pelo princípio da conservação da energia, conclui-se que a aceleração da partícula eletrizada, ao iniciar seu movimento, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "(mg+EQ) / 2m"
+          },
+          {
+            "letra": "B",
+            "texto": "(mg+EQ) / 4m"
+          },
+          {
+            "letra": "C",
+            "texto": "3(mg+EQ) / 4m"
+          },
+          {
+            "letra": "D",
+            "texto": "9(mg+EQ) / 4m"
+          },
+          {
+            "letra": "E",
+            "texto": "(mg+EQ) / 8m"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Dinâmica Rotacional",
+          "Física – Conservação de Energia",
+          "Física – Eletrostática"
+        ]
+      },
+      {
+        "numeroEnunciado": 25,
+        "enunciado": "A figura mostra um esquema com dois espelhos planos verticais presos a blocos que oscilam na mesma direção sobre uma superfície horizontal sem atrito. Observa-se também a presença de uma partícula em repouso. Dados: • amplitude da oscilação de cada bloco: A; • massa de cada conjunto (bloco e espelho): m; • constante elástica de cada mola: k. Observações: • cada espelho chega a encostar com velocidade nula na partícula em repouso, porém em instantes diferentes; • quando o espelho da esquerda encosta na partícula em repouso, o espelho da direita está voltando, com a mola se comprimindo, e à sua maior velocidade escalar. A maior distância relativa entre as imagens da partícula nos espelhos e a maior velocidade escalar relativa entre elas são, respectivamente:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "6A e √2A√k/m"
+          },
+          {
+            "letra": "B",
+            "texto": "6A e 4√2A√k/m"
+          },
+          {
+            "letra": "C",
+            "texto": "6A e 2√2A√k/m"
+          },
+          {
+            "letra": "D",
+            "texto": "2(2 + √2)A e √2A√k/m"
+          },
+          {
+            "letra": "E",
+            "texto": "2(2 + √2)A e 2√2A√k/m"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Óptica Geométrica",
+          "Física – Movimento Harmônico Simples",
+          "Física – Cinemática"
+        ]
+      },
+      {
+        "numeroEnunciado": 26,
+        "enunciado": "A figura acima mostra um aparato com uma barra de aço vertical, tendo sua extremidade superior presa ao teto e sua extremidade inferior encostada na ponta de uma gangorra em forma de “L”. Por sua vez, a gangorra também encosta em um apoio elástico, que é preso na parede indicada. Após a montagem do aparato, a barra de aço é aquecida por igual. Dados: • aceleração da gravidade: g; • massa da barra de aço: m; • comprimento da barra de aço: c; • coeficiente de dilatação linear da barra de aço: α; • coeficiente elástico do apoio: k; • comprimento horizontal da gangorra: 2L; • comprimento vertical da gangorra: L; • variação de temperatura após o aquecimento: T. Observações: • a deformação da barra de aço após a dilatação é muito menor que L; • o pino indicado na figura mantém-se fixo; • antes do aquecimento, o apoio elástico está encostado na gangorra e sem energia potencial armazenada. Ao final do processo de aquecimento, o trabalho realizado pela força peso da barra de aço e a energia potencial armazenada no apoio elástico são, respectivamente:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "mgαcT e k(αcT)²/8"
+          },
+          {
+            "letra": "B",
+            "texto": "mgαcT/2 e k(αcT)²/8"
+          },
+          {
+            "letra": "C",
+            "texto": "mgαcT e k(αTL)²/16"
+          },
+          {
+            "letra": "D",
+            "texto": "mgαcT/2 e k(αTL)²/16"
+          },
+          {
+            "letra": "E",
+            "texto": "mgαcT e k(αTL)²/8"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Termodinâmica",
+          "Física – Dilatação Térmica",
+          "Física – Trabalho e Energia"
+        ]
+      },
+      {
+        "numeroEnunciado": 27,
+        "enunciado": "O circuito acima é alimentado por uma fonte de 12 V. Todas os valores de resistências apresentados encontram-se em Ω. A potência, em W, fornecida pela fonte é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "18"
+          },
+          {
+            "letra": "B",
+            "texto": "36"
+          },
+          {
+            "letra": "C",
+            "texto": "54"
+          },
+          {
+            "letra": "D",
+            "texto": "72"
+          },
+          {
+            "letra": "E",
+            "texto": "96"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Eletricidade",
+          "Física – Circuitos Elétricos",
+          "Física – Potência Elétrica"
+        ]
+      },
+      {
+        "numeroEnunciado": 28,
+        "enunciado": "Uma feixe de luz propaga-se na horizontal e atravessa uma rede de difração disposta na vertical. Observações: • comprimento de onda da luz: λ = 5,5 x 10⁻⁷ m; • número de fendas por centímetro da rede de difração: 4000. Os valores mais próximos para os senos dos ângulos θ, indicados na figura, para θ > 0, correspondentes aos dois primeiros pontos brilhantes projetados numa parede vertical são:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,26 e 0,72"
+          },
+          {
+            "letra": "B",
+            "texto": "0,09 e 0,44"
+          },
+          {
+            "letra": "C",
+            "texto": "0,22 e 0,44"
+          },
+          {
+            "letra": "D",
+            "texto": "0,26 e 0,59"
+          },
+          {
+            "letra": "E",
+            "texto": "0,22 e 0,59"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Ondulatória",
+          "Física – Difração",
+          "Física – Óptica Física"
+        ]
+      },
+      {
+        "numeroEnunciado": 29,
+        "enunciado": "Três partículas carregadas, inicialmente em repouso no plano da página, estão posicionadas sobre uma região do espaço submetida a uma densidade de fluxo magnético uniforme B, que aponta para dentro do plano da página. No instante t = 0, a partícula localizada no ponto 1 é submetida a um impulso I e descreve a trajetória indicada pela linha tracejada na figura, até ocorrer um choque perfeitamente inelástico com a partícula localizada no ponto 2. Pouco depois, outro choque perfeitamente inelástico ocorrerá com a partícula localizada na posição 3. Dados: • massa de cada partícula: m; • carga da partícula inicialmente na posição 1: Q; • carga da partícula inicialmente na posição 2: 2Q; • carga da partícula inicialmente na posição 3: 3Q; • módulo da densidade de fluxo magnético: B; • intensidade do impulso: I. Observações: • não há efeito gravitacional; • o sinal de Q está em conformidade com a geometria da figura; • todas as forças de repulsão entre as partículas são desprezíveis; • a trajetória tracejada na figura é composta pela união de três arcos de 1/4 de circunferência. A distância total percorrida pela partícula impulsionada desde a posição 1 até o ponto identificado como final é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Iπ / 2QB"
+          },
+          {
+            "letra": "B",
+            "texto": "Iπ / 4QB"
+          },
+          {
+            "letra": "C",
+            "texto": "Iπ / 8QB"
+          },
+          {
+            "letra": "D",
+            "texto": "7Iπ / 4QB"
+          },
+          {
+            "letra": "E",
+            "texto": "7Iπ / 12QB"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Eletromagnetismo",
+          "Física – Força Magnética",
+          "Física – Impulso e Colisão"
+        ]
+      },
+      {
+        "numeroEnunciado": 30,
+        "enunciado": "A figura mostra uma luneta, com foco ajustável, que possui em sua extremidade uma lente plano-convexa de raio de curvatura R. O índice de refração da lente varia com o comprimento de onda λ da luz incidente de acordo com a expressão: n(λ) = A + B/λ². A distância do plano da lente até o fundo da luneta é L + ΔL, com L de valor fixo e ΔL que pode ser ajustado, de forma a coincidir o ponto focal da lente sempre com o fundo, ou seja, onde se encontra o observador. A luneta deve possibilitar que se foquem as luzes de comprimento de onda no intervalo 0,4 μm ≤ λ ≤ 0,7 μm. Dados: • raio de curvatura da superfície convexa da lente: R = 7 cm; • constante A da expressão: 1,5; • constante B da expressão: 0,00784 μm²; • índice de refração à esquerda e à direita da lente: 1. Observação: • a lente é plana à esquerda e convexa à direita; Sabendo que ΔL pode ser nulo, o seu maior valor possível é, em cm, aproximadamente:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,35"
+          },
+          {
+            "letra": "B",
+            "texto": "0,70"
+          },
+          {
+            "letra": "C",
+            "texto": "1,40"
+          },
+          {
+            "letra": "D",
+            "texto": "3,50"
+          },
+          {
+            "letra": "E",
+            "texto": "7,00"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Óptica Geométrica",
+          "Física – Lentes Esféricas",
+          "Física – Dispersão da Luz"
+        ]
+      },
+      {
+        "numeroEnunciado": 31,
+        "enunciado": "Em uma célula voltaica a energia de Gibbs padrão de reação é determinada pela expressão: ΔG° = -nFE°_cel em que n é um número adimensional que representa a quantidade de mols de elétrons transferidos nas semirreações de oxidação e de redução combinadas, F é a constante de Faraday e E°_cel é o potencial-padrão da célula. Considere F = 96500 C/mol e os potenciais-padrão de redução do ferro e do alumínio, a 298 K, indicados abaixo. Fe²⁺(aq) + 2e⁻ → Fe(s) E° = -0,44 V Al³⁺(aq) + 3e⁻ → Al(s) E° = -1,66 V Para uma célula voltaica formada pelo contato de dois metais quando uma peça de ferro é fixada com parafusos de alumínio, a 298 K, avalie as asserções a seguir. I. O valor numérico de n é 5. II. Com o passar do tempo, a peça fixada irá cair devido à corrosão do ferro. III. Com o passar do tempo, a peça fixada irá cair devido à corrosão do alumínio. IV. A energia de Gibbs padrão de reação da célula é igual a —706 kJ/mol. V. Na célula voltaica formada, a oxidação do ferro é um processo espontâneo. Assinale a opção que apresenta APENAS as afirmativas verdadeiras.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, II e V."
+          },
+          {
+            "letra": "B",
+            "texto": "I e III."
+          },
+          {
+            "letra": "C",
+            "texto": "II e III."
+          },
+          {
+            "letra": "D",
+            "texto": "III e IV."
+          },
+          {
+            "letra": "E",
+            "texto": "II, IV e V."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Eletroquímica",
+          "Química – Termodinâmica Química"
+        ]
+      },
+      {
+        "numeroEnunciado": 32,
+        "enunciado": "Uma mistura gasosa ideal de 4,0 kg de oxigênio e 1,3 kg de acetileno está contida em um vaso fechado de volume invariante, a 200 °C e 300 kPa. Essa mistura entra em combustão e reage completamente, produzindo CO₂ e H₂O. Depois, deixa-se o meio resfriar por um certo tempo, de forma que os produtos continuam gasosos, e a pressão final medida é de 600 kPa. É correto afirmar que:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a massa específica do meio reacional aumenta e a pressão parcial final do CO₂ é de 400 kPa."
+          },
+          {
+            "letra": "B",
+            "texto": "a massa específica do meio reacional diminui e sua temperatura final é de 946 K."
+          },
+          {
+            "letra": "C",
+            "texto": "a massa específica do meio reacional permanece constante e a pressão parcial final do vapor de água é de 200 kPa."
+          },
+          {
+            "letra": "D",
+            "texto": "a massa específica do meio reacional aumenta e sua temperatura final é de 946 K."
+          },
+          {
+            "letra": "E",
+            "texto": "a massa específica do meio reacional permanece constante e sua temperatura final é igual à temperatura inicial."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Estequiometria",
+          "Química – Gases Ideais",
+          "Química – Reações de Combustão"
+        ]
+      },
+      {
+        "numeroEnunciado": 33,
+        "enunciado": "Catalisadores são substâncias de grande interesse industrial para processos químicos e biotecnológicos, pois permitem a obtenção de produtos-alvo com maior rapidez. Analise as afirmativas abaixo. I. Na reação 2 SO₂(g)+O₂(g) V₂O₅(S)→ 2 SO₃(g) o pentóxido de vanádio tem efeito de superfície, exemplificando uma catálise heterogênea. II. Dada a sua característica basicamente proteica e sua menor estabilidade em relação aos catalisadores químicos tradicionais, as enzimas são totalmente inativadas durante processos bioquímicos, independentemente das condições operacionais implementadas. III. Os catalisadores reduzem a energia de ativação, resultando em aumento da velocidade de reação, sendo regenerados ao final da conversão química. IV. A ação do catalisador cria um novo caminho reacional que requer menor energia de ativação, alterando o equilíbrio da reação. V. Todos os catalisadores conhecidos são compostos inorgânicos, geralmente constituídos por metais de transição. Assinale a opção que apresenta APENAS as afirmativas verdadeiras.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "III e V."
+          },
+          {
+            "letra": "B",
+            "texto": "I, III e IV."
+          },
+          {
+            "letra": "C",
+            "texto": "II, IV e V."
+          },
+          {
+            "letra": "D",
+            "texto": "I e III."
+          },
+          {
+            "letra": "E",
+            "texto": "I, II, IV e V."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Cinética Química",
+          "Química – Catálise",
+          "Química – Equilíbrio Químico"
+        ]
+      },
+      {
+        "numeroEnunciado": 34,
+        "enunciado": "Considere o arcabouço parcial da Tabela Periódica representado abaixo. Seja um sal tal que: I. seu ânion monoatômico apresenta a mesma distribuição eletrônica do gás nobre do 3º período; II. seu produto de solubilidade (K_ps), quantificado em função da sua solubilidade molar (S), é dado por: K_ps = S · (2S)² ; III. o hidróxido de seu cátion monoatômico é uma base fraca; e IV. seu cátion é oriundo de um metal com alta densidade. O sal que melhor satisfaz essas características é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "CaF₂"
+          },
+          {
+            "letra": "B",
+            "texto": "CaCl₂"
+          },
+          {
+            "letra": "C",
+            "texto": "AgCl"
+          },
+          {
+            "letra": "D",
+            "texto": "MgF₂"
+          },
+          {
+            "letra": "E",
+            "texto": "PbCl₂"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Solubilidade",
+          "Química – Tabela Periódica",
+          "Química – Ligações Químicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 35,
+        "enunciado": "Assinale a opção correta.\n(A) Os ácidos nucleicos são macromoléculas poliméricas, cujas unidades monoméricas são conhecidas como nucleosídeos.\n(B) Os nucleosídeos são constituídos por uma base nitrogenada purínica ou pirimidínica, uma pentose e um íon fosfato.\n(C) A adenina e a guanina são bases nitrogenadas pirimidínicas, enquanto que a citosina, a timina e a uracila são bases nitrogenadas purínicas.\n(D) O DNA possui uma estrutura de dupla hélice, na qual os monômeros se conectam entre si por ligações peptídicas.\n(E) Os três principais tipos de RNA envolvidos na síntese de proteínas em organismos biológicos são o mensageiro, o transportador e o ribossômico.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Os ácidos nucleicos são macromoléculas poliméricas, cujas unidades monoméricas são conhecidas como nucleosídeos."
+          },
+          {
+            "letra": "B",
+            "texto": "Os nucleosídeos são constituídos por uma base nitrogenada purínica ou pirimidínica, uma pentose e um íon fosfato."
+          },
+          {
+            "letra": "C",
+            "texto": "A adenina e a guanina são bases nitrogenadas pirimidínicas, enquanto que a citosina, a timina e a uracila são bases nitrogenadas purínicas."
+          },
+          {
+            "letra": "D",
+            "texto": "O DNA possui uma estrutura de dupla hélice, na qual os monômeros se conectam entre si por ligações peptídicas."
+          },
+          {
+            "letra": "E",
+            "texto": "Os três principais tipos de RNA envolvidos na síntese de proteínas em organismos biológicos são o mensageiro, o transportador e o ribossômico."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Bioquímica",
+          "Biologia – Ácidos Nucleicos"
+        ]
+      },
+      {
+        "numeroEnunciado": 36,
+        "enunciado": "O mapa de contorno da figura abaixo é uma representação bidimensional de uma superfície de energia potencial para a reação A+ BC → AB + C em função das distâncias r_AB e r_BC entre os átomos A e B e entre B e C, respectivamente. Nesse gráfico, cada uma das linhas cheias indica valores constantes dessa energia e a linha tracejada representa a trajetória da reação. Qual das seguintes opções corresponde à identificação correta da região hachurada para a reação indicada?",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Os reagentes A e BC."
+          },
+          {
+            "letra": "B",
+            "texto": "Os produtos AB e C."
+          },
+          {
+            "letra": "C",
+            "texto": "O complexo ativado ABC."
+          },
+          {
+            "letra": "D",
+            "texto": "Os átomos separados A, B e C."
+          },
+          {
+            "letra": "E",
+            "texto": "Os íons separados A⁺, B⁺ e C⁺."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Cinética Química",
+          "Química – Teoria das Colisões"
+        ]
+      },
+      {
+        "numeroEnunciado": 37,
+        "enunciado": "Identifique a fórmula estrutural do principal produto da reação entre o cicloexa-1,4-dieno e o ciclopentadieno, ocorrida mediante aquecimento.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Imagem de estrutura química A"
+          },
+          {
+            "letra": "B",
+            "texto": "Imagem de estrutura química B"
+          },
+          {
+            "letra": "C",
+            "texto": "Imagem de estrutura química C"
+          },
+          {
+            "letra": "D",
+            "texto": "Imagem de estrutura química D"
+          },
+          {
+            "letra": "E",
+            "texto": "A reação não ocorre."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Química Orgânica",
+          "Química – Reações Orgânicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 38,
+        "enunciado": "A prednisona é um pró-fármaco que é convertido, pelo fígado, no metabólito ativo prednisolona, o qual possui potente ação anti-inflamatória. Suas estruturas são mostradas abaixo: [Imagem da estrutura da Prednisona e Prednisolona] Considerando as estruturas acima, são feitas as afirmações abaixo. I. A prednisona sofre redução para se transformar em prednisolona. II. Ambas as moléculas têm o mesmo número de carbonos quirais. III. Os grupos cetona, álcool e éster são funções orgânicas presentes em ambas as moléculas. Assinale a opção que apresenta APENAS a(s) afirmativa(s) verdadeira(s).",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I."
+          },
+          {
+            "letra": "B",
+            "texto": "I e II."
+          },
+          {
+            "letra": "C",
+            "texto": "I e III."
+          },
+          {
+            "letra": "D",
+            "texto": "II e III."
+          },
+          {
+            "letra": "E",
+            "texto": "I, II e III."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Química Orgânica",
+          "Química – Funções Orgânicas",
+          "Química – Reações de Redução"
+        ]
+      },
+      {
+        "numeroEnunciado": 39,
+        "enunciado": "Considere a teoria dos gases ideais e a equação dos gases de van der Waals dada abaixo.\nP = nRT / (V - nb) - an² / V²\nAssinale a opção correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Independentemente da temperatura e do volume, um gás terá comportamento mais próximo do ideal quanto maior for sua pressão."
+          },
+          {
+            "letra": "B",
+            "texto": "Na equação dos gases de van der Waals, os parâmetros a e b dependem somente da temperatura."
+          },
+          {
+            "letra": "C",
+            "texto": "No estado gasoso, as interações intermoleculares são inexistentes, independentemente das condições em que o gás se encontra."
+          },
+          {
+            "letra": "D",
+            "texto": "O parâmetro a é negativo porque entre as moléculas de um gás predominam as forças atrativas."
+          },
+          {
+            "letra": "E",
+            "texto": "Espera-se que o parâmetro b da equação dos gases de van der Waals seja menor para o metano do que para o propano."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Físico-Química",
+          "Química – Gases Ideais e Reais",
+          "Química – Forças Intermoleculares"
+        ]
+      },
+      {
+        "numeroEnunciado": 40,
+        "enunciado": "Dois reatores A e B, com volumes invariáveis de 20 litros cada um, são aquecidos até atingir a temperatura de 819 °C. Cada um dos reatores possui uma válvula de segurança: a do reator A se abre automaticamente quando são produzidas em seu interior pressões iguais ou superiores a 1,5 atm, enquanto que a do reator B se abre automaticamente quando são produzidas em seu interior pressões iguais ou superiores a 3,5 atm. No reator A foi armazenada hidrazina líquida (N₂H₄), que se decompôs inteiramente em 0,163 mol de gás hidrogênio e 0,082 mol de gás nitrogênio a 819 °C. No reator B encontram-se em equilíbrio, amônia, 1,03×10⁻² mol/L de N₂ e 1,62×10⁻² mol/L de H₂, a 819 °C, com um valor de K_p (constante de equilíbrio em termos de pressão parcial) igual a 0,25. Dados: • massas atômicas: H = 1 u; N = 14 u; • R = 0,082 atm.L/(mol.K); e • os gases se comportam idealmente. Se aumentarmos em 10 °C a temperatura do reator A, podemos afirmar que:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a válvula do reator A se abre e a do reator B permanece aberta."
+          },
+          {
+            "letra": "B",
+            "texto": "a válvula do reator A se abre e a do reator B permanece fechada."
+          },
+          {
+            "letra": "C",
+            "texto": "a válvula do reator A permanece fechada e a do reator B permanece aberta."
+          },
+          {
+            "letra": "D",
+            "texto": "as válvulas de ambos os reatores permanecem fechadas."
+          },
+          {
+            "letra": "E",
+            "texto": "as válvulas de ambos os reatores permanecem abertas."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Equilíbrio Químico",
+          "Química – Gases Ideais",
+          "Química – Físico-Química"
+        ]
+      }
+    ]
+  }
+}

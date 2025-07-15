@@ -1,0 +1,1812 @@
+{
+  "prova": {
+    "nomeUniversidade": "Universidade Presbiteriana Mackenzie",
+    "siglaUniversidade": "MACKENZIE",
+    "nomeProva": "Vestibular Mackenzie 1º Semestre",
+    "ano": 2020,
+    "qtdeQuestoes": 60,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "Texto para as questões de 01 a 06\n01 Mesmo que o homem conseguisse construir um computador que\n02 fizesse tudo o que é normalmente atribuído a processos mentais\n03 quando feito pelo homem, isso não implicaria que o homem nada\n04 mais é do que uma máquina. Sem o programa correspondente\n05 um computador nada pode fazer em relação à linguagem. É o\n06 programa, e não as ferragens, que é responsável pela habilidade do\n07 computador de simular um comportamento inteligente. Há aqueles\n08 que sustentariam que o programa está para o computador como a\n09 mente está para o cérebro, e que considerando o cérebro humano\n10 vivo como um computador programado, de finalidades especiais,\n11 podemos contornar, se não resolver, o problema tradicional mente-\n12 corpo. Seja como for, temos que enfatizar que a inteligência artificial\n13 é em si neutra e não agride nem a dignidade humana nem a liberdade\n14 da vontade.\n15 Muito da importância que damos à ciência cognitiva e à inteligência\n16 artificial dependerá de nossa atitude face ao papel explanatório dos\n17 modelos em ciência natural e social. Qualquer sucesso obtido na\n18 simulação do processamento linguístico por computador tende a\n19 aumentar a nossa compreensão da linguagem e da mente. Não é\n20 certo, no entanto, se um dia será possível simular por computador\n21 todos os processos mentais envolvidos na produção e compreensão\n22 da linguagem.\nAdaptado de John Lyons, em Lingua(gem) e Linguística, 1981.\nDepreende-se corretamente do texto que:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "num futuro próximo será possível observar computadores se comportando exatamente como os humanos."
+          },
+          {
+            "letra": "B",
+            "texto": "os estudos sobre linguagem artificial podem auxiliar a humanidade na resolução de várias questões e também contribuir para que saibamos mais sobre a própria linguagem e a mente humana."
+          },
+          {
+            "letra": "C",
+            "texto": "os processos mentais são em tudo equivalentes aos procedimentos lógicos que operam na linguagem artificial e na programação dos computadores."
+          },
+          {
+            "letra": "D",
+            "texto": "o desenvolvimento das linguagens artificiais fará com que num futuro próximo as atividades humanas poderão ser realizadas de forma independente pelas máquinas, sem qualquer relação com um programador humano."
+          },
+          {
+            "letra": "E",
+            "texto": "os computadores podem ser o dispositivo que num futuro próximo evidencie para toda a humanidade a essência do homem apenas como uma máquina."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "Texto para as questões de 01 a 06\n01 Mesmo que o homem conseguisse construir um computador que\n02 fizesse tudo o que é normalmente atribuído a processos mentais\n03 quando feito pelo homem, isso não implicaria que o homem nada\n04 mais é do que uma máquina. Sem o programa correspondente\n05 um computador nada pode fazer em relação à linguagem. É o\n06 programa, e não as ferragens, que é responsável pela habilidade do\n07 computador de simular um comportamento inteligente. Há aqueles\n08 que sustentariam que o programa está para o computador como a\n09 mente está para o cérebro, e que considerando o cérebro humano\n10 vivo como um computador programado, de finalidades especiais,\n11 podemos contornar, se não resolver, o problema tradicional mente-\n12 corpo. Seja como for, temos que enfatizar que a inteligência artificial\n13 é em si neutra e não agride nem a dignidade humana nem a liberdade\n14 da vontade.\n15 Muito da importância que damos à ciência cognitiva e à inteligência\n16 artificial dependerá de nossa atitude face ao papel explanatório dos\n17 modelos em ciência natural e social. Qualquer sucesso obtido na\n18 simulação do processamento linguístico por computador tende a\n19 aumentar a nossa compreensão da linguagem e da mente. Não é\n20 certo, no entanto, se um dia será possível simular por computador\n21 todos os processos mentais envolvidos na produção e compreensão\n22 da linguagem.\nAdaptado de John Lyons, em Lingua(gem) e Linguística, 1981.\nSobre o texto é correto afirmar que a função da linguagem predominante é a:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "poética."
+          },
+          {
+            "letra": "B",
+            "texto": "referencial."
+          },
+          {
+            "letra": "C",
+            "texto": "metalinguística."
+          },
+          {
+            "letra": "D",
+            "texto": "emotiva."
+          },
+          {
+            "letra": "E",
+            "texto": "fática."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Funções da Linguagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "Texto para as questões de 01 a 06\n01 Mesmo que o homem conseguisse construir um computador que\n02 fizesse tudo o que é normalmente atribuído a processos mentais\n03 quando feito pelo homem, isso não implicaria que o homem nada\n04 mais é do que uma máquina. Sem o programa correspondente\n05 um computador nada pode fazer em relação à linguagem. É o\n06 programa, e não as ferragens, que é responsável pela habilidade do\n07 computador de simular um comportamento inteligente. Há aqueles\n08 que sustentariam que o programa está para o computador como a\n09 mente está para o cérebro, e que considerando o cérebro humano\n10 vivo como um computador programado, de finalidades especiais,\n11 podemos contornar, se não resolver, o problema tradicional mente-\n12 corpo. Seja como for, temos que enfatizar que a inteligência artificial\n13 é em si neutra e não agride nem a dignidade humana nem a liberdade\n14 da vontade.\n15 Muito da importância que damos à ciência cognitiva e à inteligência\n16 artificial dependerá de nossa atitude face ao papel explanatório dos\n17 modelos em ciência natural e social. Qualquer sucesso obtido na\n18 simulação do processamento linguístico por computador tende a\n19 aumentar a nossa compreensão da linguagem e da mente. Não é\n20 certo, no entanto, se um dia será possível simular por computador\n21 todos os processos mentais envolvidos na produção e compreensão\n22 da linguagem.\nAdaptado de John Lyons, em Lingua(gem) e Linguística, 1981.\nAssinale a alternativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Está presente no texto o desenvolvimento de um enredo que parte de uma situação inicial e atinge um clímax, aspecto comum aos textos narrativos."
+          },
+          {
+            "letra": "B",
+            "texto": "É predominante no texto seu aspecto descritivo, evidenciado pela constante enumeração de elementos que diferenciam a máquina do homem."
+          },
+          {
+            "letra": "C",
+            "texto": "O emprego de figuras de linguagem como a personificação enfatizam o tipo textual como predominantemente narrativo."
+          },
+          {
+            "letra": "D",
+            "texto": "Aspectos como verbos no imperativo e frases que indicam procedimentos a serem seguidos contribuem para a caracterização do texto como injuntivo."
+          },
+          {
+            "letra": "E",
+            "texto": "O desenvolvimento de uma ideia central e a articulação de argumentos a sustentar esse posicionamento conferem ao texto um teor argumentativo."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Tipologia Textual"
+        ]
+      },
+      {
+        "numeroEnunciado": 4,
+        "enunciado": "Texto para as questões de 01 a 06\n01 Mesmo que o homem conseguisse construir um computador que\n02 fizesse tudo o que é normalmente atribuído a processos mentais\n03 quando feito pelo homem, isso não implicaria que o homem nada\n04 mais é do que uma máquina. Sem o programa correspondente\n05 um computador nada pode fazer em relação à linguagem. É o\n06 programa, e não as ferragens, que é responsável pela habilidade do\n07 computador de simular um comportamento inteligente. Há aqueles\n08 que sustentariam que o programa está para o computador como a\n09 mente está para o cérebro, e que considerando o cérebro humano\n10 vivo como um computador programado, de finalidades especiais,\n11 podemos contornar, se não resolver, o problema tradicional mente-\n12 corpo. Seja como for, temos que enfatizar que a inteligência artificial\n13 é em si neutra e não agride nem a dignidade humana nem a liberdade\n14 da vontade.\n15 Muito da importância que damos à ciência cognitiva e à inteligência\n16 artificial dependerá de nossa atitude face ao papel explanatório dos\n17 modelos em ciência natural e social. Qualquer sucesso obtido na\n18 simulação do processamento linguístico por computador tende a\n19 aumentar a nossa compreensão da linguagem e da mente. Não é\n20 certo, no entanto, se um dia será possível simular por computador\n21 todos os processos mentais envolvidos na produção e compreensão\n22 da linguagem.\nAdaptado de John Lyons, em Lingua(gem) e Linguística, 1981.\nAssinale a alternativa INCORRETA sobre o texto.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "A forma verbal simular (linha 07) evidencia o posicionamento argumentativo que sustenta não ser possível linguagem artificial sem a participação do elemento humano."
+          },
+          {
+            "letra": "B",
+            "texto": "O fragmento mesmo que o homem conseguisse (linha 01) apresenta marcas linguísticas que reforçam o argumento central de que a linguagem artificial depende da linguagem humana."
+          },
+          {
+            "letra": "C",
+            "texto": "O fragmento e não as ferragens (linha 06) reforça a ideia defendida no texto de que a linguagem artificial depende do cérebro e da mente humanos."
+          },
+          {
+            "letra": "D",
+            "texto": "A expressão no entanto (linha 20) introduz posicionamento argumentativo contrário ao que se vinha afirmando em todo o texto."
+          },
+          {
+            "letra": "E",
+            "texto": "A palavra todos (linha 21) contribui para reforçar a tese principal defendida ao longo do texto a respeito da dependência da linguagem artificial em relação ao trabalho intelectual humano."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Análise Semântica e Sintática"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "Texto para as questões de 01 a 06\n01 Mesmo que o homem conseguisse construir um computador que\n02 fizesse tudo o que é normalmente atribuído a processos mentais\n03 quando feito pelo homem, isso não implicaria que o homem nada\n04 mais é do que uma máquina. Sem o programa correspondente\n05 um computador nada pode fazer em relação à linguagem. É o\n06 programa, e não as ferragens, que é responsável pela habilidade do\n07 computador de simular um comportamento inteligente. Há aqueles\n08 que sustentariam que o programa está para o computador como a\n09 mente está para o cérebro, e que considerando o cérebro humano\n10 vivo como um computador programado, de finalidades especiais,\n11 podemos contornar, se não resolver, o problema tradicional mente-\n12 corpo. Seja como for, temos que enfatizar que a inteligência artificial\n13 é em si neutra e não agride nem a dignidade humana nem a liberdade\n14 da vontade.\n15 Muito da importância que damos à ciência cognitiva e à inteligência\n16 artificial dependerá de nossa atitude face ao papel explanatório dos\n17 modelos em ciência natural e social. Qualquer sucesso obtido na\n18 simulação do processamento linguístico por computador tende a\n19 aumentar a nossa compreensão da linguagem e da mente. Não é\n20 certo, no entanto, se um dia será possível simular por computador\n21 todos os processos mentais envolvidos na produção e compreensão\n22 da linguagem.\nAdaptado de John Lyons, em Lingua(gem) e Linguística, 1981.\nAssinale a alternativa que indica a relação sinonímica correta, tendo em vista o emprego das palavras no texto.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "implicaria (linha 03) = negaria"
+          },
+          {
+            "letra": "B",
+            "texto": "ferragens (linha 06) = relações"
+          },
+          {
+            "letra": "C",
+            "texto": "enfatizar (linha 12) = antecipar"
+          },
+          {
+            "letra": "D",
+            "texto": "face (linha 16) = igual"
+          },
+          {
+            "letra": "E",
+            "texto": "explanatório (linha 16) = esclarecedor"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Semântica (Sinônimos e Antônimos)"
+        ]
+      },
+      {
+        "numeroEnunciado": 6,
+        "enunciado": "Texto para as questões de 01 a 06\n01 Mesmo que o homem conseguisse construir um computador que\n02 fizesse tudo o que é normalmente atribuído a processos mentais\n03 quando feito pelo homem, isso não implicaria que o homem nada\n04 mais é do que uma máquina. Sem o programa correspondente\n05 um computador nada pode fazer em relação à linguagem. É o\n06 programa, e não as ferragens, que é responsável pela habilidade do\n07 computador de simular um comportamento inteligente. Há aqueles\n08 que sustentariam que o programa está para o computador como a\n09 mente está para o cérebro, e que considerando o cérebro humano\n10 vivo como um computador programado, de finalidades especiais,\n11 podemos contornar, se não resolver, o problema tradicional mente-\n12 corpo. Seja como for, temos que enfatizar que a inteligência artificial\n13 é em si neutra e não agride nem a dignidade humana nem a liberdade\n14 da vontade.\n15 Muito da importância que damos à ciência cognitiva e à inteligência\n16 artificial dependerá de nossa atitude face ao papel explanatório dos\n17 modelos em ciência natural e social. Qualquer sucesso obtido na\n18 simulação do processamento linguístico por computador tende a\n19 aumentar a nossa compreensão da linguagem e da mente. Não é\n20 certo, no entanto, se um dia será possível simular por computador\n21 todos os processos mentais envolvidos na produção e compreensão\n22 da linguagem.\nAdaptado de John Lyons, em Lingua(gem) e Linguística, 1981.\nConsidere as seguintes afirmações sobre o texto.\nI. O pronome isso (linha 03) refere-se ao que é afirmado anteriormente.\nII. A forma verbal sustentariam (linha 08) apresenta um tempo que denota ideia de possibilidade, de algo possível, mas não efetivamente certo.\nIII. A partícula si (linha 13) refere-se à expressão inteligência artificial.\nAssinale a alternativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Apenas a afirmação I está correta."
+          },
+          {
+            "letra": "B",
+            "texto": "Apenas a afirmação II está correta."
+          },
+          {
+            "letra": "C",
+            "texto": "Apenas a afirmação III está correta."
+          },
+          {
+            "letra": "D",
+            "texto": "Todas as afirmações estão corretas."
+          },
+          {
+            "letra": "E",
+            "texto": "Nenhuma das afirmações está correta."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Coesão e Coerência"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "Texto para as questões de 07 a 09\nVergonha de viver\n01 Há pessoas que têm vergonha de viver: são os tímidos, entre\n02 os quais me incluo. Desculpem, por exemplo, estar tomando lugar\n03 no espaço. Desculpem eu ser eu. Quero ficar só! grita a alma do\n04 tímido que só se liberta na solidão. Contraditoriamente quer o quente\n05 aconchego das pessoas. Vai, Carlos, vai ser gauche na vida. (Não\n06 sei se estou citando Drummond do modo certo, escrevo de cor).\n07 E para pedir aumento de salário - a tortura. Como começar?\n08 Apresentar-se com fingida segurança de quem sabe quanto vale em\n09 dinheiro – ou apresentar-se como se é, desajeitado e excessivamente\n10 humilde.\n11 O que faz então? Mas é que há a grande ousadia dos tímidos. E\n12 de repente cheio de audácia pelo aumento com um tom reivindicativo\n13 que parece contundente. Mas logo depois, espantado, sente-se mal,\n14 julga imerecido o aumento, fica todo infeliz.\nClarice Lispector\nAssinale a alternativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "A condenação, por parte da autora, do comportamento da timidez transforma \"Vergonha de viver\" em uma das mais contundentes e ácidas crônicas escritas pela autora de Felicidade clandestina."
+          },
+          {
+            "letra": "B",
+            "texto": "Não há marcas de empatia, no texto, da autora para com as pessoas as quais ela classifica como “tímidos”, configurando, por conseguinte, um acentuado distanciamento entre a cronista e o tema sobre o qual escreveu."
+          },
+          {
+            "letra": "C",
+            "texto": "Nos três parágrafos do trecho escolhido de \"Vergonha de viver” é facilmente encontrável a intensa experiência epifânica, cuja presença desarticula o eixo sintático-semântico da crônica, assim como o equilíbrio racionalista da autora."
+          },
+          {
+            "letra": "D",
+            "texto": "Ao citar um conhecido verso, de autoria do poeta mineiro Carlos Drummond de Andrade, Clarice Lispector escolhe filiar-se a pressupostos estéticos vinculados a uma tradição neoparnasiana na prosa."
+          },
+          {
+            "letra": "E",
+            "texto": "Em \"Vergonha de viver\", Clarice Lispector escolhe comentar sobre fatos da vida cotidiana tomando como ponto de partida um tipo social cujo comportamento é centrado na timidez."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Crônica"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "Texto para as questões de 07 a 09\nVergonha de viver\n01 Há pessoas que têm vergonha de viver: são os tímidos, entre\n02 os quais me incluo. Desculpem, por exemplo, estar tomando lugar\n03 no espaço. Desculpem eu ser eu. Quero ficar só! grita a alma do\n04 tímido que só se liberta na solidão. Contraditoriamente quer o quente\n05 aconchego das pessoas. Vai, Carlos, vai ser gauche na vida. (Não\n06 sei se estou citando Drummond do modo certo, escrevo de cor).\n07 E para pedir aumento de salário - a tortura. Como começar?\n08 Apresentar-se com fingida segurança de quem sabe quanto vale em\n09 dinheiro – ou apresentar-se como se é, desajeitado e excessivamente\n10 humilde.\n11 O que faz então? Mas é que há a grande ousadia dos tímidos. E\n12 de repente cheio de audácia pelo aumento com um tom reivindicativo\n13 que parece contundente. Mas logo depois, espantado, sente-se mal,\n14 julga imerecido o aumento, fica todo infeliz.\nClarice Lispector\nA respeito do gênero literário crônica, indique a alternativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Cidade, relações de trabalho e comportamentos cotidianos, três temáticas presentes no trecho de \"Vergonha de viver”, revelam-se como invenções originais de Lispector, pois aparecem pouco nas crônicas brasileiras como um todo."
+          },
+          {
+            "letra": "B",
+            "texto": "Há pouquíssima conexão da crônica com o jornalismo e a consolidação da imprensa, pois sua origem remete aos imemoriais contos mitológicos compartilhados pelas sociedades primitivas ao longo dos séculos."
+          },
+          {
+            "letra": "C",
+            "texto": "Linguagem especializada, jargões técnicos e densidade teórica: essas são típicas características de uma crônica. Tais características são observáveis em profusão na crônica de Lispector intitulada \"Vergonha de viver”."
+          },
+          {
+            "letra": "D",
+            "texto": "\"Crônica\" é sinônimo para \"conto\", haja vista serem os dois gêneros literários narrativas curtas focadas na criação de tensão no enredo e no desenvolvimento de problemas sociais e psicológicos de personagens."
+          },
+          {
+            "letra": "E",
+            "texto": "Apesar de ter surgido no século XIX, a crônica, ao longo do século XX e agora no século XXI, mantém suas principais características até hoje: brevidade, interesse pelos fatos do cotidiano e acessível comunicabilidade."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Gêneros Literários (Crônica)"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "Texto para as questões de 07 a 09\nVergonha de viver\n01 Há pessoas que têm vergonha de viver: são os tímidos, entre\n02 os quais me incluo. Desculpem, por exemplo, estar tomando lugar\n03 no espaço. Desculpem eu ser eu. Quero ficar só! grita a alma do\n04 tímido que só se liberta na solidão. Contraditoriamente quer o quente\n05 aconchego das pessoas. Vai, Carlos, vai ser gauche na vida. (Não\n06 sei se estou citando Drummond do modo certo, escrevo de cor).\n07 E para pedir aumento de salário - a tortura. Como começar?\n08 Apresentar-se com fingida segurança de quem sabe quanto vale em\n09 dinheiro – ou apresentar-se como se é, desajeitado e excessivamente\n10 humilde.\n11 O que faz então? Mas é que há a grande ousadia dos tímidos. E\n12 de repente cheio de audácia pelo aumento com um tom reivindicativo\n13 que parece contundente. Mas logo depois, espantado, sente-se mal,\n14 julga imerecido o aumento, fica todo infeliz.\nClarice Lispector\nConsidere as seguintes observações sobre a vida e a obra de Clarice Lispector.\nI. Durante sua carreira, Clarice Lispector se consolidou como escritora escrevendo principalmente contos, romances e crônicas.\nII. Na infância, antes de se mudar em definitivo para o Rio de Janeiro, Clarice Lispector morou em Alagoas e Pernambuco. Devido a isso, ela se transformou no principal nome do Regionalismo modernista, dando continuidade às temáticas consolidadas por José Lins do Rego.\nIII. João Guimarães Rosa e Clarice Lispector são considerados pela historiografia literária como dois dos mais relevantes nomes da assim chamada \"Terceira Fase\" do Modernismo brasileiro.\nAssinale a alternativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "As afirmações I e II estão corretas."
+          },
+          {
+            "letra": "B",
+            "texto": "As afirmações I e III estão corretas."
+          },
+          {
+            "letra": "C",
+            "texto": "As afirmações II e III estão corretas."
+          },
+          {
+            "letra": "D",
+            "texto": "Todas as afirmações estão corretas."
+          },
+          {
+            "letra": "E",
+            "texto": "Nenhuma das afirmações está correta."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Literatura Brasileira (Modernismo, Clarice Lispector)"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "Texto para as questões 10 e 11\nv. 01 Para as Estrelas de cristais gelados\nv. 02 As ânsias e os desejos vão subindo,\nv. 03 Galgando azuis e siderais noivados\nv. 04 De nuvens brancas a amplidão vestindo...\nv. 05 Num cortejo de cânticos alados\nv. 06 Os arcanjos, as cítaras ferindo,\nv. 07 Passam, das vestes nos troféus prateados,\nv. 08 As asas de ouro finamente abrindo...\nv. 09 Dos etéreos turíbulos de neve\nv. 10 Claro incenso aromal, límpido e leve,\nv. 11 Ondas nevoentas de Visões levanta...\nv. 12 E as ânsias e os desejos infinitos\nv. 13 Vão com os arcanjos formulando ritos\nv. 14 Da Eternidade que nos Astros canta...\nCruz e Sousa, Broquéis\nConsidere as afirmações abaixo.\nI. Os estados subjetivos da consciência, as impressões sombrias da alma, o hermetismo, o apelo aos sentidos e uma atmosfera permeada por fortes símbolos religiosos ajudam a definir o tom simbolista do poema.\nII. A referência a elementos religiosos no poema é sem dúvida uma impregnação do nacionalismo tardo-romântico na obra de Cruz e Sousa, pois tais referências são uma forma de fixar a identidade nacional nos versos de \"Siderações”.\nIII. A visão de mundo em “Siderações” se baseia no conhecimento mais avançado da astronomia da sua época, fundamentando a vertente simbolista brasileira com a objetividade do discurso especializado da ciência do final do século XIX.\nAssinale a alternativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "A afirmação I está correta."
+          },
+          {
+            "letra": "B",
+            "texto": "A afirmação II está correta."
+          },
+          {
+            "letra": "C",
+            "texto": "A afirmação III está correta."
+          },
+          {
+            "letra": "D",
+            "texto": "Todas as afirmações estão corretas."
+          },
+          {
+            "letra": "E",
+            "texto": "Nenhuma das afirmações está correta."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Literatura Brasileira (Simbolismo)"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "Texto para as questões 10 e 11\nv. 01 Para as Estrelas de cristais gelados\nv. 02 As ânsias e os desejos vão subindo,\nv. 03 Galgando azuis e siderais noivados\nv. 04 De nuvens brancas a amplidão vestindo...\nv. 05 Num cortejo de cânticos alados\nv. 06 Os arcanjos, as cítaras ferindo,\nv. 07 Passam, das vestes nos troféus prateados,\nv. 08 As asas de ouro finamente abrindo...\nv. 09 Dos etéreos turíbulos de neve\nv. 10 Claro incenso aromal, límpido e leve,\nv. 11 Ondas nevoentas de Visões levanta...\nv. 12 E as ânsias e os desejos infinitos\nv. 13 Vão com os arcanjos formulando ritos\nv. 14 Da Eternidade que nos Astros canta...\nCruz e Sousa, Broquéis\nAssinale as correntes estéticas que, por aproximação, possuem mais afinidades com o simbolismo de “Siderações”.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Naturalismo e Realismo."
+          },
+          {
+            "letra": "B",
+            "texto": "Trovadorismo e Quinhentismo."
+          },
+          {
+            "letra": "C",
+            "texto": "Ultrarromantismo e Decadentismo."
+          },
+          {
+            "letra": "D",
+            "texto": "Classicismo e Neoclassicismo."
+          },
+          {
+            "letra": "E",
+            "texto": "Modernismo e Pós-modernismo."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Correntes Estéticas"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "Read the text below and answer questions 12, 13 and 14:\nTEXTO 1\nIs it really possible that plant-based foods such as the Impossible Whopper are healthful?\nBy Cara Rosenbloom\nSeptember 9, 2019\nWith many American consumers interested in reducing their consumption of animal products without becoming vegetarian or vegan, the food industry has come up with a new craze: plant-based. Look around your grocery store, and you'll see a growing number of dairy, egg and meat substitutes bearing this label.\nBut the industry has taken liberties with the definition of “plant-based.\" Rather than focusing on whole foods such as vegetables, fruits, legumes and nuts, which is what health professionals mean when they recommend “plant-based eating,” food manufacturers are developing ultra-processed burgers out of pea or soy protein, methylcellulose and maltodextrin, and liquid \"eggs” out of mung bean protein isolate and gellan gum. Then they crown this ultra-processed food with an undeserved health halo.\n(...)\nPlant-based ultra-processed products such as these are formulated to taste like the real deal. Thus, consumers can feel virtuous or principled for choosing plants over meat without sacrificing too much flavor. But is there any value to plant-based products that have been crushed, extruded and shaped into facsimiles of the foods they are replacing? Let's look at that question through several lenses considering nutrients, how processed the food is and how producing the food affects the planet.\nWhen I was in nutrition school, the health value of food was mostly calculated based on the presence of desirable nutrients, such as fiber and vitamins, and on the absence of negative nutrients, such as sodium or trans fat. If you compare ultra-processed plant-based foods and similar animal-based foods solely on their nutrients, you'll find they are roughly the same.\nPlant-based foods are purposely formulated to mimic animal-based foods, so plant-based milk is enriched with calcium and vitamin D to mimic cow's milk, while veggie burgers are rich in protein and made with iron and zinc to imitate beef. But they aren't always made to reduce the presence of less-healthy nutrients. Sometimes, the processed plant-based food will have more sodium than the processed animal-based food, and sometimes the animal food will be higher in calories or saturated fat.\nAccording to the text, choose the correct alternative:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Many American people are becoming vegetarian and vegan."
+          },
+          {
+            "letra": "B",
+            "texto": "American industry is producing a lot of healthy products made of real vegetables."
+          },
+          {
+            "letra": "C",
+            "texto": "According to the industry, \"Plant-based means food produced by using whole food, natural food."
+          },
+          {
+            "letra": "D",
+            "texto": "\"Plant-based\", according to the text, is just ultra-processed food made by peas, soy protein, liquid eggs and other chemicals."
+          },
+          {
+            "letra": "E",
+            "texto": "Because it is ultra-processed, the industry calls it healthy."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Inglês – Compreensão Textual"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "Read the text below and answer questions 12, 13 and 14:\nTEXTO 1\nIs it really possible that plant-based foods such as the Impossible Whopper are healthful?\nBy Cara Rosenbloom\nSeptember 9, 2019\nWith many American consumers interested in reducing their consumption of animal products without becoming vegetarian or vegan, the food industry has come up with a new craze: plant-based. Look around your grocery store, and you'll see a growing number of dairy, egg and meat substitutes bearing this label.\nBut the industry has taken liberties with the definition of “plant-based.\" Rather than focusing on whole foods such as vegetables, fruits, legumes and nuts, which is what health professionals mean when they recommend “plant-based eating,” food manufacturers are developing ultra-processed burgers out of pea or soy protein, methylcellulose and maltodextrin, and liquid \"eggs” out of mung bean protein isolate and gellan gum. Then they crown this ultra-processed food with an undeserved health halo.\n(...)\nPlant-based ultra-processed products such as these are formulated to taste like the real deal. Thus, consumers can feel virtuous or principled for choosing plants over meat without sacrificing too much flavor. But is there any value to plant-based products that have been crushed, extruded and shaped into facsimiles of the foods they are replacing? Let's look at that question through several lenses considering nutrients, how processed the food is and how producing the food affects the planet.\nWhen I was in nutrition school, the health value of food was mostly calculated based on the presence of desirable nutrients, such as fiber and vitamins, and on the absence of negative nutrients, such as sodium or trans fat. If you compare ultra-processed plant-based foods and similar animal-based foods solely on their nutrients, you'll find they are roughly the same.\nPlant-based foods are purposely formulated to mimic animal-based foods, so plant-based milk is enriched with calcium and vitamin D to mimic cow's milk, while veggie burgers are rich in protein and made with iron and zinc to imitate beef. But they aren't always made to reduce the presence of less-healthy nutrients. Sometimes, the processed plant-based food will have more sodium than the processed animal-based food, and sometimes the animal food will be higher in calories or saturated fat.\n(...)\nUsing the term “plant-based\" on fast food labels is just another attempt by marketers to re-brand junk food. True plant-based eating doesn't mean opting for an Impossible Whopper in the drive-through or scrambling up some 15-ingredient “egg alternative.” It means a diet that includes nourishing options such as black beans, broccoli and brown rice. We're always looking for some magical way to eat junky food and achieve health. Don't be fooled by this plant-based pretense.\nAdapted from the digital edition of The Washington Post: www.washingtonpost.com\nChoose the INCORRECT alternative, according to the text:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Plant-based food is planned to taste exactly like products that contain meat."
+          },
+          {
+            "letra": "B",
+            "texto": "Flavour doesn't change a lot from the original, made of meat, and the plant-based food."
+          },
+          {
+            "letra": "C",
+            "texto": "The nutritional value of food is calculated taking into account the positive, healthy nutrients and the negative, unhealthy nutrients."
+          },
+          {
+            "letra": "D",
+            "texto": "The presence of sodium, fat and the number of calories are different in plant-based and animal based food."
+          },
+          {
+            "letra": "E",
+            "texto": "In terms of nutrients, plant-based and animal based are completely different."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Inglês – Compreensão Textual"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "Read the text below and answer questions 12, 13 and 14:\nTEXTO 1\nIs it really possible that plant-based foods such as the Impossible Whopper are healthful?\nBy Cara Rosenbloom\nSeptember 9, 2019\nWith many American consumers interested in reducing their consumption of animal products without becoming vegetarian or vegan, the food industry has come up with a new craze: plant-based. Look around your grocery store, and you'll see a growing number of dairy, egg and meat substitutes bearing this label.\nBut the industry has taken liberties with the definition of “plant-based.\" Rather than focusing on whole foods such as vegetables, fruits, legumes and nuts, which is what health professionals mean when they recommend “plant-based eating,” food manufacturers are developing ultra-processed burgers out of pea or soy protein, methylcellulose and maltodextrin, and liquid \"eggs” out of mung bean protein isolate and gellan gum. Then they crown this ultra-processed food with an undeserved health halo.\n(...)\nPlant-based ultra-processed products such as these are formulated to taste like the real deal. Thus, consumers can feel virtuous or principled for choosing plants over meat without sacrificing too much flavor. But is there any value to plant-based products that have been crushed, extruded and shaped into facsimiles of the foods they are replacing? Let's look at that question through several lenses considering nutrients, how processed the food is and how producing the food affects the planet.\nWhen I was in nutrition school, the health value of food was mostly calculated based on the presence of desirable nutrients, such as fiber and vitamins, and on the absence of negative nutrients, such as sodium or trans fat. If you compare ultra-processed plant-based foods and similar animal-based foods solely on their nutrients, you'll find they are roughly the same.\nPlant-based foods are purposely formulated to mimic animal-based foods, so plant-based milk is enriched with calcium and vitamin D to mimic cow's milk, while veggie burgers are rich in protein and made with iron and zinc to imitate beef. But they aren't always made to reduce the presence of less-healthy nutrients. Sometimes, the processed plant-based food will have more sodium than the processed animal-based food, and sometimes the animal food will be higher in calories or saturated fat.\n(...)\nUsing the term “plant-based\" on fast food labels is just another attempt by marketers to re-brand junk food. True plant-based eating doesn't mean opting for an Impossible Whopper in the drive-through or scrambling up some 15-ingredient “egg alternative.” It means a diet that includes nourishing options such as black beans, broccoli and brown rice. We're always looking for some magical way to eat junky food and achieve health. Don't be fooled by this plant-based pretense.\nAdapted from the digital edition of The Washington Post: www.washingtonpost.com\nChoose the alternative that best contains the idea of this sentence from the text: “Using the term “plant-based\" on fast food labels is just another attempt by marketers to re-brand junk food.”",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Plant-based is just marketing, we are eating junk food."
+          },
+          {
+            "letra": "B",
+            "texto": "Plant-based is an attempt to offer healthier food."
+          },
+          {
+            "letra": "C",
+            "texto": "By labeling “plant-based”, marketers are trying to re-brand exactly the same old animal-based food."
+          },
+          {
+            "letra": "D",
+            "texto": "The term “plant-based” is an attempt to create a synonym of junk food."
+          },
+          {
+            "letra": "E",
+            "texto": "Industries are trying to create a healthier food to replace junk food."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Interpretação de Frases"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "TEXT 2:\nRead the text and answer questions 15, 16 and 17.\nHow to Make Friends While Traveling Solo\nEven in the best cases, traveling alone can get lonely. Here's how to connect safely with the people you meet along the way.\nBy Aric Jenkins\nApril 16, 2019\nExperiencing another culture on your own terms, at your own pace, with a budget of your own choosing can be an incredibly rewarding and insightful adventure. But while some may find such a journey liberating, others might worry about safety or a period of solitude in a strange, unfamiliar place. Humans, after all, are social animals.\nProspective solo travelers should know that, despite its label, solo travel does not have to mean you're alone all the time. There are local communities to safely interact with as well as fellow globe-trotters in a similar position.\nA 2016 report from travel research company Phocuswright found that a whopping 72 percent of hostel guests in the United States were traveling alone. Airbnb saw similar a trend in its data, with cities like Ho Chi Minh City, Cologne, and Johannesburg experiencing more than a 130 percent increase in individual bookings in 2016.\nWith solo traveling growing in popularity, it's clear there are options to socialize with other travelers — it's just a matter of putting yourself in the right position to do so. Here are some tactics you can use to meet and befriend people abroad, from tried-and-true methods to innovative new apps and technology.\nGo on 'free' walking tours\nThe word free is in quotations because, assuming your tour guide is at least half-decent, you should tip them at the end (many earn the majority\nAccording to the article, choose the correct alternative:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Travelling alone is terrifying because it is a period of solitude in one unfamiliar place."
+          },
+          {
+            "letra": "B",
+            "texto": "When people travel alone, they can experience exploring the culture on their own, with the money they have and in their own speed."
+          },
+          {
+            "letra": "C",
+            "texto": "It is impossible to find people to socialize when you are a stranger in a different culture."
+          },
+          {
+            "letra": "D",
+            "texto": "It is also dangerous to interact with people you do not know in another country."
+          },
+          {
+            "letra": "E",
+            "texto": "A report found out that 72% of people travelling abroad travel alone."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Compreensão Textual"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "TEXT 2:\nRead the text and answer questions 15, 16 and 17.\nHow to Make Friends While Traveling Solo\nEven in the best cases, traveling alone can get lonely. Here's how to connect safely with the people you meet along the way.\nBy Aric Jenkins\nApril 16, 2019\nExperiencing another culture on your own terms, at your own pace, with a budget of your own choosing can be an incredibly rewarding and insightful adventure. But while some may find such a journey liberating, others might worry about safety or a period of solitude in a strange, unfamiliar place. Humans, after all, are social animals.\nProspective solo travelers should know that, despite its label, solo travel does not have to mean you're alone all the time. There are local communities to safely interact with as well as fellow globe-trotters in a similar position.\nA 2016 report from travel research company Phocuswright found that a whopping 72 percent of hostel guests in the United States were traveling alone. Airbnb saw similar a trend in its data, with cities like Ho Chi Minh City, Cologne, and Johannesburg experiencing more than a 130 percent increase in individual bookings in 2016.\nWith solo traveling growing in popularity, it's clear there are options to socialize with other travelers — it's just a matter of putting yourself in the right position to do so. Here are some tactics you can use to meet and befriend people abroad, from tried-and-true methods to innovative new apps and technology.\nGo on 'free' walking tours\nThe word free is in quotations because, assuming your tour guide is at least half-decent, you should tip them at the end (many earn the majority\nof their income on commission). But these walking tours can be worth every penny. Not only will the guide give you an informed and hopefully entertaining view of the locale, but you'll have a chance to interact with other tourists and possibly come away with a new friend.\n(...)\nUse Airbnb to go on unique experiences hosted by locals\nAirbnb may be known more for its lodging arrangements, but it also wants to give you something to do at your destination. Airbnb Experiences connects travelers with local guides who lead guests on paid activities ranging from city tours to bar crawls and hobby and skill classes. Launched in late 2016, Experiences quickly became a popular feature.\n(...)\nConnect with like-minded explorers on social travel apps\nPrefer to cut out the middleman and connect directly with other travelers? Try your hand at the crop of social networking apps specifically designed for travel. Travello, free on iOS and Android, allows you to discover other travelers nearby, match itineraries for planned trips and join groups based on similar interests. You can also create a feed by posting photos and updates.\n(...)\nStay in hostels\nIn a world of hospitable hotels and authentic Airbnbs, why do travelers elect to stay in hostels? Two reasons, really: Hostels are cheap and sociable. You'll find college-esque dormitories with common lounge rooms and kitchens, and sometimes a bar or cafe.\nIt's an ideal environment to meet other travelers, and hostel staffs are well aware of this — some will lead city tours or pub crawls designed to foster interaction between hostel mates. Others might host game nights in the common room or arrange family dinners.\n(...)\nAdapted from the digital edition of The New York Times: www.nytimes.com\nAccording to the article, choose the correct alternative.\nI. Walking tours are free because you don't have to pay anything for them.\nII. Airbnb Experiences also provides a way to interact with people through a local guest.\nIII. Social Travels Apps can connect you to local people so that they can help you plan your trips and join local groups.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I is TRUE and II and III are FALSE"
+          },
+          {
+            "letra": "B",
+            "texto": "I is FALSE and II and III are TRUE"
+          },
+          {
+            "letra": "C",
+            "texto": "I and III are FALSE and II is TRUE"
+          },
+          {
+            "letra": "D",
+            "texto": "II and III are FALSE and I is TRUE"
+          },
+          {
+            "letra": "E",
+            "texto": "I and II are FALSE and III is TRUE"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Compreensão Textual"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "TEXT 2:\nRead the text and answer questions 15, 16 and 17.\nHow to Make Friends While Traveling Solo\nEven in the best cases, traveling alone can get lonely. Here's how to connect safely with the people you meet along the way.\nBy Aric Jenkins\nApril 16, 2019\nExperiencing another culture on your own terms, at your own pace, with a budget of your own choosing can be an incredibly rewarding and insightful adventure. But while some may find such a journey liberating, others might worry about safety or a period of solitude in a strange, unfamiliar place. Humans, after all, are social animals.\nProspective solo travelers should know that, despite its label, solo travel does not have to mean you're alone all the time. There are local communities to safely interact with as well as fellow globe-trotters in a similar position.\nA 2016 report from travel research company Phocuswright found that a whopping 72 percent of hostel guests in the United States were traveling alone. Airbnb saw similar a trend in its data, with cities like Ho Chi Minh City, Cologne, and Johannesburg experiencing more than a 130 percent increase in individual bookings in 2016.\nWith solo traveling growing in popularity, it's clear there are options to socialize with other travelers — it's just a matter of putting yourself in the right position to do so. Here are some tactics you can use to meet and befriend people abroad, from tried-and-true methods to innovative new apps and technology.\nGo on 'free' walking tours\nThe word free is in quotations because, assuming your tour guide is at least half-decent, you should tip them at the end (many earn the majority\nof their income on commission). But these walking tours can be worth every penny. Not only will the guide give you an informed and hopefully entertaining view of the locale, but you'll have a chance to interact with other tourists and possibly come away with a new friend.\n(...)\nUse Airbnb to go on unique experiences hosted by locals\nAirbnb may be known more for its lodging arrangements, but it also wants to give you something to do at your destination. Airbnb Experiences connects travelers with local guides who lead guests on paid activities ranging from city tours to bar crawls and hobby and skill classes. Launched in late 2016, Experiences quickly became a popular feature.\n(...)\nConnect with like-minded explorers on social travel apps\nPrefer to cut out the middleman and connect directly with other travelers? Try your hand at the crop of social networking apps specifically designed for travel. Travello, free on iOS and Android, allows you to discover other travelers nearby, match itineraries for planned trips and join groups based on similar interests. You can also create a feed by posting photos and updates.\n(...)\nStay in hostels\nIn a world of hospitable hotels and authentic Airbnbs, why do travelers elect to stay in hostels? Two reasons, really: Hostels are cheap and sociable. You'll find college-esque dormitories with common lounge rooms and kitchens, and sometimes a bar or cafe.\nIt's an ideal environment to meet other travelers, and hostel staffs are well aware of this — some will lead city tours or pub crawls designed to foster interaction between hostel mates. Others might host game nights in the common room or arrange family dinners.\n(...)\nAdapted from the digital edition of The New York Times: www.nytimes.com\nSelect the alternative that gives the correct meanings for these words from the text:\nA - Feature\nB - Nearby\nC – Environment",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "characteristic, close, surroundings"
+          },
+          {
+            "letra": "B",
+            "texto": "destination, close, location"
+          },
+          {
+            "letra": "C",
+            "texto": "characteristic, close, entertainment"
+          },
+          {
+            "letra": "D",
+            "texto": "application, far, surroundings"
+          },
+          {
+            "letra": "E",
+            "texto": "application, far, location"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Vocabulário"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "Read the comic strip bellow and answer question 18:\nHEY, WAIT A SECOND! I DON'T\nREMEMBER SIGNING ANY\nCLEARANCE PAPERS!\n[Image of a lion complaining about deforestation in a National Park with \"ROAD WORK AHEAD\" and \"NATIONAL PARK\" signs]\nwww.greennumour.com\nAccording to the comic strip, choose the best alternative:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "The lion is angry about the noise."
+          },
+          {
+            "letra": "B",
+            "texto": "The machines are interrupting the lion's singing."
+          },
+          {
+            "letra": "C",
+            "texto": "The lion is angry because the forest is not on sale."
+          },
+          {
+            "letra": "D",
+            "texto": "The lion is worried about paper production."
+          },
+          {
+            "letra": "E",
+            "texto": "The lion is complaining that the area is not clear."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Interpretação de Imagens e Cartuns"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "Se cos x = 1/2, então o valor do cos 2x é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "-1/2"
+          },
+          {
+            "letra": "B",
+            "texto": "-1/4"
+          },
+          {
+            "letra": "C",
+            "texto": "1/4"
+          },
+          {
+            "letra": "D",
+            "texto": "1/2"
+          },
+          {
+            "letra": "E",
+            "texto": "1"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Trigonometria"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "Na figura acima, CE é paralelo a BA, a medida do ângulo BCD é igual a 140° e a medida do ângulo BÂC é 75°. Então, os ângulos x, y e z medem, respectivamente,\n[Image of parallel lines and angles]",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "75°, 75° е 65°"
+          },
+          {
+            "letra": "B",
+            "texto": "65°, 75° e 65°"
+          },
+          {
+            "letra": "C",
+            "texto": "75°, 65°e 65°"
+          },
+          {
+            "letra": "D",
+            "texto": "65°, 65° e 75°"
+          },
+          {
+            "letra": "E",
+            "texto": "65°, 75° e 75°"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Geometria Plana (Ângulos e Retas Paralelas)"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "Se o décimo e o décimo quinto termos de uma progressão geométrica são, respectivamente, 3/512 e 3/16384, então o vigésimo quinto termo dessa progressão é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "3/16444216"
+          },
+          {
+            "letra": "B",
+            "texto": "3/16555216"
+          },
+          {
+            "letra": "C",
+            "texto": "3/16666216"
+          },
+          {
+            "letra": "D",
+            "texto": "3/16777216"
+          },
+          {
+            "letra": "E",
+            "texto": "3/16888216"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Progressões Geométricas"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "Em um recipiente cilíndrico de raio 6 cm e altura 9 cm, completamente cheio de água, foi colocada uma esfera metálica. Assim, observou-se que a esfera ficou totalmente submersa na água, transbordando 36 π cm³ de água. Então, o raio da esfera, em cm, mede",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2"
+          },
+          {
+            "letra": "B",
+            "texto": "3"
+          },
+          {
+            "letra": "C",
+            "texto": "4"
+          },
+          {
+            "letra": "D",
+            "texto": "5"
+          },
+          {
+            "letra": "E",
+            "texto": "6"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Geometria Espacial (Volume de Cilindro e Esfera)"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "Um nutricionista deseja montar uma refeição com 3 alimentos. A porcentagem das necessidades diárias de proteínas, carboidratos, e ferro contidas em cada porção (100g) de cada alimento está indicada na tabela abaixo:\nAlimento 1 | Alimento 2 | Alimento 3\nProteínas (%) | 10 | 6 | 8\nCarboidratos (%) | 10 | 12 | 6\nFerro (%) | 5 | 4 | 12\nDetermine quantas porções do alimento 1 o nutricionista deve incluir na refeição para atender completamente as necessidades diárias de proteínas, carboidratos e ferro.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "6 porções"
+          },
+          {
+            "letra": "B",
+            "texto": "5 porções"
+          },
+          {
+            "letra": "C",
+            "texto": "4 porções"
+          },
+          {
+            "letra": "D",
+            "texto": "2 porções"
+          },
+          {
+            "letra": "E",
+            "texto": "1 porção"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Sistemas Lineares"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "A equação 2 log x = log 1000 + colog 10 existe para x igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1000"
+          },
+          {
+            "letra": "B",
+            "texto": "100"
+          },
+          {
+            "letra": "C",
+            "texto": "10"
+          },
+          {
+            "letra": "D",
+            "texto": "-10"
+          },
+          {
+            "letra": "E",
+            "texto": "0"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Logaritmos"
+        ]
+      },
+      {
+        "numeroEnunciado": 25,
+        "enunciado": "Se (1/4)^5x > 4^(1-2x), então os valores de x são",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "x > -7"
+          },
+          {
+            "letra": "B",
+            "texto": "x > -3"
+          },
+          {
+            "letra": "C",
+            "texto": "x > -1/3"
+          },
+          {
+            "letra": "D",
+            "texto": "x < -1/3"
+          },
+          {
+            "letra": "E",
+            "texto": "x < -7"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Inequações Exponenciais"
+        ]
+      },
+      {
+        "numeroEnunciado": 26,
+        "enunciado": "Massas de ar que atuam no Brasil\n[Map of Brazil with arrows indicating air masses: mEa, mEc, mTa, mPa, mTc]\nFonte: http://geografiaprimeirodemaio.blogspot.com/2013/05/massas-de-ar.html\nA respeito da Massa Polar Atlântica, considere as seguintes afirmações:\nI. Atua em todo o território nacional com a mesma intensidade, tanto nos equinócios quanto nos solstícios.\nII. No inverno segue carregada de umidade para o sul da Amazônia, provocando queda das temperaturas na região. Esse fenômeno é conhecido como \"Friagem” que, devido ao intenso desmatamento, vem se acentuando e agindo em latitudes muito baixas.\nIII. Nas Regiões Sul e Sudeste provoca diminuição das temperaturas podendo ocorrer, em determinados pontos, geadas e queda de neve.\nIV. A porção que segue pelo litoral atinge a costa oriental nordestina, provocando chuvas frontais na região.\nÉ correto o que se afirma em",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "I e II, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "II e III, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "II, III e IV, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "I, II, III e IV."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Climatologia (Massas de Ar)"
+        ]
+      },
+      {
+        "numeroEnunciado": 27,
+        "enunciado": "Evolução etária do Brasil\nPirâmides etárias do Brasil\n[Three population pyramids for 1980, 2000, 2020 (estimate) showing age groups (Homens/Mulheres) and millions of inhabitants. Legend: Idosos, Adultos, Jovens.]\nIBGE. Estatísticas do século XX. Obtido em: <www.ibge.gov.br>. Acessado em: 15/07/2008\nA respeito da evolução etária brasileira, considere as afirmações a seguir.\nI. Analisando as pirâmides etárias, pode-se afirmar que o Brasil é um exemplo de transição demográfica com características de envelhecimento. Isto deve-se a melhor qualidade de vida da população com maior acesso a recursos tecnológicos e baixos índices de desemprego a partir do início da década de 1980.\nII. O país está envelhecendo devido à combinação de diferentes fatores como a redução nas taxas de natalidade, mortalidade, fecundidade e elevação na expectativa de vida com maior acesso à assistência médico-sanitária.\nIII. A intensa inserção da mulher no mercado de trabalho e o acesso a métodos contraceptivos têm favorecido a redução das taxas de natalidade e fecundidade no país.\nÉ correto o que se afirma em",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "I e II, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "II e III, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "I e III, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "I, II e III."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Demografia (Pirâmides Etárias e Transição Demográfica)"
+        ]
+      },
+      {
+        "numeroEnunciado": 28,
+        "enunciado": "China vê política do filho único como ineficaz e planeja liberação total\nPaís tem um crescente problema de escassez de mão de obra devido ao rápido envelhecimento da população. Há dois anos, a China deu o histórico passo de acabar com a política do filho único e permitir que todos os casais do país tivessem dois filhos, mas a medida não parece ter bastado para resolver seus problemas demográficos, o que levou o governo a estudar o fim de qualquer restrição familiar.\nPor mais paradoxal que possa parecer, a China, país mais populoso do mundo, com quase 1,4 bilhão de pessoas, tem um crescente problema de escassez de mão de obra devido ao rápido envelhecimento da população. O governo esperava amenizar a questão com a mudança de 2016, mas a medida não teve o sucesso esperado.\n[...] Para ampliar o alerta, em julho as autoridades divulgaram um dado preocupante. Após um crescimento da taxa de natalidade no país em 2016, coincidindo com o fim da “política do filho único”, o número de crianças nascidas no país caiu em 630 mil em 2017.\nDisponível em:<https://veja.abril.com.br/mundo/china-ve-politica-do-filho-unico-como-ineficaz-e-planeja-liberacao-total/> Por EFE access_time18 ago 2018 (Último acesso – 10 de novembro de 2019)\nA política do filho único mencionada no artigo jornalístico pode ser, corretamente, associada aos conceitos da Teoria Populacional",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Ecomalthusiana."
+          },
+          {
+            "letra": "B",
+            "texto": "Reformista."
+          },
+          {
+            "letra": "C",
+            "texto": "Neomalthusiana."
+          },
+          {
+            "letra": "D",
+            "texto": "Transformadora."
+          },
+          {
+            "letra": "E",
+            "texto": "Possibilista."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – População (Teorias Demográficas)"
+        ]
+      },
+      {
+        "numeroEnunciado": 29,
+        "enunciado": "Leia o fragmento de reportagem.\nO presidente dos Estados Unidos, Donald Trump, designou oficialmente o Brasil como aliado militar preferencial do país fora da Organização do Tratado do Atlântico Norte (OTAN).\n[...] O status dá ao Brasil o direito de tornar-se comprador preferencial de equipamentos e tecnologias militares dos Estados Unidos, além de participar de leilões organizados pelo Pentágono. A medida também abre caminho para a colaboração no desenvolvimento de soluções de defesa e o aumento dos intercâmbios militares e a realização de manobras conjuntas entre as Forças Armadas dos dois países.\nEstados Unidos designam Brasil como aliado extra-Otan. Agência Brasil, 01 ago. 2019.\nDisponível em: <http://agenciabrasil.ebc.com.br/internacional/noticia/2019-08/estados-unidos-designam-oficialmente-brasil-como-aliado-extra-otan> Acesso em 29 set. 2019.\nCom base nas informações acima e em seus conhecimentos sobre o assunto abordado, assinale a alternativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "França, Espanha e Canadá são exemplos de países que integram a OTAN, constituída em 1949, no contexto histórico da Guerra Fria, com o objetivo de estabelecer um pacto militar entre os países membros, contra o avanço da influência socialista."
+          },
+          {
+            "letra": "B",
+            "texto": "O Brasil é o primeiro país na América Latina, e o quarto, no mundo, a receber o status especial de aliado extra-OTAN."
+          },
+          {
+            "letra": "C",
+            "texto": "Os recentes conflitos do governo brasileiro com o governo norte-americano, em decorrência das queimadas na Amazônia, fizeram com que o congresso dos EUA cancelasse o status especial concedido ao Brasil por Trump."
+          },
+          {
+            "letra": "D",
+            "texto": "De acordo com o secretário geral da Organização do Tratado do Atlântico Norte (OTAN), a condição de aliado especial ou prioritário é o primeiro passo para que o Brasil passe a se tornar membro oficial da organização, o que deve ocorrer ainda em 2019."
+          },
+          {
+            "letra": "E",
+            "texto": "Criada em 1991, com a dissolução da União Soviética, a OTAN tem como principal objetivo a proteção de países do Leste Europeu, constantemente ameaçados pela política expansionista russa."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Geopolítica (Organizações Internacionais)"
+        ]
+      },
+      {
+        "numeroEnunciado": 30,
+        "enunciado": "As rochas são os materiais fundamentais na formação da litosfera. Elas são levantadas, comprimidas e deformadas por grandes forças tectônicas originárias do manto inferior e da astenosfera. Na superfície, as rochas são desgastadas por intemperismo e erodidas para ser depositadas como sedimento em outros lugares. [...] Geólogos distinguem três categorias principais de rochas com base no modo de formação: ígneas, sedimentares e metamórficas.\nPETERSEN, SACK e GABLER. Fundamentos de Geografia Física. São Paulo: Cengage Learning, 2014, p.243-249.\nCom base nas informações acima e nos seus conhecimentos sobre as rochas, analise as afirmações a seguir.\nI. Quando o material rochoso fundido se resfria e se solidifica, torna-se uma rocha ígnea. A rocha derretida que está abaixo da superfície da Terra é chamada magma, e o material de rocha derretida na superfície é conhecido especificamente como lava.\nII. As rochas sedimentares são derivadas de sedimentos acumulados, ou seja, materiais minerais não consolidados que foram erodidos, transportados e depositados. Existem três categorias principais de rochas sedimentares: clásticas, orgânicas e químicas.\nIII. O enorme calor e a pressão nas profundezas da crosta da Terra podem transformar (metamorfosear) uma rocha existente em um novo tipo de rocha completamente diferente do original, recristalizando os minerais, sem que haja o uso de mais matéria rochosa derretida.\nÉ correto o que se afirma em",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "I e II, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "II e III, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "III, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "I, II e III."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Geomorfologia (Tipos de Rochas)"
+        ]
+      },
+      {
+        "numeroEnunciado": 31,
+        "enunciado": "Considerando que a distância real entre Yokohama e Fukushima, duas importantes localidades, onde serão realizadas competições dos Jogos Olímpicos de Verão 2020 é de 270 quilômetros, em um mapa, na escala de 1:1.500.000, essa distância seria de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1,8 cm"
+          },
+          {
+            "letra": "B",
+            "texto": "40,5 cm"
+          },
+          {
+            "letra": "C",
+            "texto": "1,8 m"
+          },
+          {
+            "letra": "D",
+            "texto": "18 cm"
+          },
+          {
+            "letra": "E",
+            "texto": "4,05 m"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Cartografia (Escalas)"
+        ]
+      },
+      {
+        "numeroEnunciado": 32,
+        "enunciado": "O choque entre instituições mergulhou o país em uma profunda crise política. A disputa entre o presidente e o Congresso, dominado por uma maioria oposicionista, precipitou-se na noite do dia 30 de setembro de 2019. O bloqueio do Parlamento levou o mandatário a dissolvê-lo e a convocar novas eleições legislativas. Invocou para isso um mecanismo previsto no artigo 134 da Constituição, que pode ser ativado quando a Câmara se recusa a considerar dois projetos de lei do Governo. O Exército se alinhou com o presidente, enquanto a bancada partidária fujimorista e seus aliados da direita votaram por suspender o presidente de suas funções.\nAdaptado de El País. Disponível em <https://brasil.elpais.com/brasil/2019/10/01/internacional/1569957204_773363.html> Acesso em 02 out. 2019.\nO país sul-americano onde a crise política destacada no fragmento de reportagem ocorreu é o (a)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Argentina"
+          },
+          {
+            "letra": "B",
+            "texto": "Venezuela"
+          },
+          {
+            "letra": "C",
+            "texto": "Peru"
+          },
+          {
+            "letra": "D",
+            "texto": "Colômbia"
+          },
+          {
+            "letra": "E",
+            "texto": "Chile"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Geopolítica (América do Sul, Conflitos Políticos)"
+        ]
+      },
+      {
+        "numeroEnunciado": 33,
+        "enunciado": "A tetrahidrobiopterina é uma substância própria do organismo humano que atua no metabolismo do aminoácido fenilalanina, convertendo-o em um outro aminoácido, denominado tirosina. Dessa forma, combate o acúmulo de fenilalanina, o que evita o desenvolvimento da fenilcetonúria.\n[Image of Tetrahydrobiopterin chemical structure]\nDe acordo com a fórmula estrutural tetrahidrobiopterina, representada acima, são feitas as seguintes afirmações:\nI. apresenta os grupos funcionais amina, cetona e álcool.\nII. possui 8 isômeros opticamente ativos.\nIII. apresenta característica básica.\nIV. possui 5 átomos de carbono primário.\nEstão corretas somente as afirmações",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I e IV."
+          },
+          {
+            "letra": "B",
+            "texto": "I, II e III."
+          },
+          {
+            "letra": "C",
+            "texto": "II e III."
+          },
+          {
+            "letra": "D",
+            "texto": "III e IV."
+          },
+          {
+            "letra": "E",
+            "texto": "II, III e IV."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Química Orgânica (Funções Orgânicas, Isomeria Óptica)"
+        ]
+      },
+      {
+        "numeroEnunciado": 34,
+        "enunciado": "A aragonita e a dolomita são minerais que possuem composição química muito semelhante, pois ambas compostas por carbonatos. A aragonita é composta de carbonato de cálcio (CaCO3); enquanto a dolomita, de carbonato de cálcio e magnésio (CaCO3·MgCO3). Assim, ao fazer a análise da qualidade da água mineral de uma fonte que está localizada numa região, cujo solo possui elevada composição de dolomita e aragonita, um químico fez as seguintes afirmações:\nI. trata-se de uma água alcalina.\nII. há elevada concentração de íons trivalentes, devido à presença do cálcio.\nIII. trata-se de uma água dura, devido ao excesso de íons cálcio e magnésio.\nDas afirmações acima, somente",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a afirmação I é verdadeira."
+          },
+          {
+            "letra": "B",
+            "texto": "a afirmação II é verdadeira."
+          },
+          {
+            "letra": "C",
+            "texto": "as afirmações II e III são verdadeiras."
+          },
+          {
+            "letra": "D",
+            "texto": "as afirmações I e II são verdadeiras."
+          },
+          {
+            "letra": "E",
+            "texto": "as afirmações I e III são verdadeiras."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Química Inorgânica (Minerais, Dureza da Água)"
+        ]
+      },
+      {
+        "numeroEnunciado": 35,
+        "enunciado": "O but-2-eno é um hidrocarboneto insaturado, que pode sofrer diversas reações. Abaixo está representada uma dessas reações.\n[Image of chemical reaction: But-2-ene -> Diol via KMnO4 diluída, H₂O/OH⁻]\nAssim, a respeito do but-2-eno são feitas as seguintes afirmações:\nI. a reação acima representa uma reação de redução.\nII. o produto obtido, na reação acima, está em configuração trans.\nIII. a oxidação enérgica do but-2-eno, em condições apropriadas, produz ácido acético.\nIV. a ozonólise do but-2-eno, em presença de zinco e condições apropriadas, produz etanal.\nEstão corretas somente as afirmações",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I e II."
+          },
+          {
+            "letra": "B",
+            "texto": "II, III e IV."
+          },
+          {
+            "letra": "C",
+            "texto": "II e III."
+          },
+          {
+            "letra": "D",
+            "texto": "III e IV."
+          },
+          {
+            "letra": "E",
+            "texto": "I, II e IV."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Química Orgânica (Reações Orgânicas, Ozonólise, Oxidação)"
+        ]
+      },
+      {
+        "numeroEnunciado": 36,
+        "enunciado": "O medicamento denominado genericamente de paracetamol é indicado, em adultos, para a redução da febre e para o alívio temporário de dores leves a moderadas. Pode ser administrado ao paciente na dosagem máxima de 75 mg/kg de massa corpórea. Considerando-se que um paciente tenha 70 kg, e que cada comprimido de paracetamol contenha 750 mg desse princípio ativo, o número de comprimidos inteiros, que pode ser tomado para que a dosagem máxima seja alcançada, é de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "4"
+          },
+          {
+            "letra": "B",
+            "texto": "5"
+          },
+          {
+            "letra": "C",
+            "texto": "6"
+          },
+          {
+            "letra": "D",
+            "texto": "7"
+          },
+          {
+            "letra": "E",
+            "texto": "8"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Estequiometria (Cálculos de Dose)"
+        ]
+      },
+      {
+        "numeroEnunciado": 37,
+        "enunciado": "A reação de Sabatier-Senderens é um tipo de reação de adição, na qual átomos de hidrogênio são acrescentados aos carbonos unidos por uma ligação dupla, na presença de um catalisador, produzindo um alcano correspondente. Considerando-se que o but-2-eno seja submetido a esse processo, bem como os valores das energias de ligação, dadas na tabela abaixo, é correto afirmar que a variação da entalpia dessa reação, expressa em kJ·mol⁻¹, efetuada no estado padrão, é de\nLigação | C-C | C = C | C-H | H-H\nHº (kJ·mol⁻¹) | 348 | 612 | 412 | 436",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "-248"
+          },
+          {
+            "letra": "B",
+            "texto": "+ 496"
+          },
+          {
+            "letra": "C",
+            "texto": "-124"
+          },
+          {
+            "letra": "D",
+            "texto": "+ 992"
+          },
+          {
+            "letra": "E",
+            "texto": "-62"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Termoquímica (Entalpia de Ligação)"
+        ]
+      },
+      {
+        "numeroEnunciado": 38,
+        "enunciado": "Para uma solução de um ácido fraco genérico de fórmula HX, que apresenta concentração inicial de 0,1 mol·L⁻¹ e grau de ionização de 2%, sua respectiva constante Ka, medida a uma dada temperatura T, é de aproximadamente",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2·10⁻⁶"
+          },
+          {
+            "letra": "B",
+            "texto": "4·10⁻⁶"
+          },
+          {
+            "letra": "C",
+            "texto": "2·10⁻⁵"
+          },
+          {
+            "letra": "D",
+            "texto": "4·10⁻⁵"
+          },
+          {
+            "letra": "E",
+            "texto": "2·10⁻⁴"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Equilíbrio Químico (Constante de Acidez Ka)"
+        ]
+      },
+      {
+        "numeroEnunciado": 39,
+        "enunciado": "Considerando o processo de oxirredução, não balanceado abaixo equacionado, a soma dos coeficientes para esse processo, levando em conta os menores números inteiros e possíveis, é de\nNaN₃(s) + KNO₃(s) → K₂O(s) + Na₂O(s) + N₂(g)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "26"
+          },
+          {
+            "letra": "B",
+            "texto": "28"
+          },
+          {
+            "letra": "C",
+            "texto": "30"
+          },
+          {
+            "letra": "D",
+            "texto": "32"
+          },
+          {
+            "letra": "E",
+            "texto": "34"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Reações Químicas (Balanceamento Redox)"
+        ]
+      },
+      {
+        "numeroEnunciado": 40,
+        "enunciado": "Em uma determinada macromolécula presente em uma secreção humana, encontramos x moléculas de menor peso molecular unidas por x-1 ligações de síntese por desidratação. A macromolécula acelera ou catalisa a hidrólise de outras macromoléculas com as mesmas características, em pH 2, aproximadamente.\nConsidere as afirmativas a seguir:\nI. A macromolécula é uma proteína. As moléculas de menor peso molecular são aminoácidos, unidos por ligações peptídicas.\nII. A macromolécula citada pode ser a tripsina, uma enzima pancreática que atua no intestino delgado.\nIII. A macromolécula citada tem aminoácidos sequenciados por RNAs transportadores que “traduziram” uma sequência de códons de um RNA mensageiro específico, “transcrito\" por um gene específico.\nIV. A macromolécula citada poderia ter a mesma sequência de aminoácidos como resultado da tradução de dois ou mais RNAs mensageiros diferentes, uma vez que o código genético é degenerado.\nV. Uma bactéria transgênica pode traduzir a mesma macromolécula, se receber o mesmo gene específico responsável por tal macromolécula, uma vez que o código genético é universal.\nEstão corretas",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "apenas I, II, III e IV"
+          },
+          {
+            "letra": "B",
+            "texto": "apenas I, III, IV e V."
+          },
+          {
+            "letra": "C",
+            "texto": "apenas II, III, IV e V."
+          },
+          {
+            "letra": "D",
+            "texto": "apenas III, IV e V."
+          },
+          {
+            "letra": "E",
+            "texto": "I, II, III, IV e V."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Bioquímica (Proteínas, Enzimas, Síntese Proteica)"
+        ]
+      },
+      {
+        "numeroEnunciado": 41,
+        "enunciado": "Analise o gráfico a seguir que mostra três curvas de saturação de oxiemoglobina no sangue humano em função da pO2 (pressão parcial de gás oxigênio) e do pH. Considerando os dados do gráfico, assinale a alternativa correta.\n[Graph: Porcentagem da saturação da oxiemoglobina / % vs pO2 / mmHg, with curves for pH=7.6, pH=7.4, pH=7.2]\nhttp://salabioquimica.blogspot.com/2015/\n",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "O percentual de oxiemoglobina é maior em capilares alveolares, quando o pH se aproxima de 7,6 em função da hematose."
+          },
+          {
+            "letra": "B",
+            "texto": "A hematose é um fenômeno responsável pela queda do pH sanguíneo."
+          },
+          {
+            "letra": "C",
+            "texto": "O aumento da taxa de CO2 no sangue aumenta o pH sanguíneo próximo dos alvéolos."
+          },
+          {
+            "letra": "D",
+            "texto": "Nos capilares teciduais, a diminuição da taxa de CO2 diminui o pH sanguíneo, diminuindo a taxa de oxiemoglobina sanguínea."
+          },
+          {
+            "letra": "E",
+            "texto": "A hiperventilação involuntária é desencadeada quando o pH sanguíneo chega em 7,6 em função da queda das taxas de O₂ no sangue."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Fisiologia Humana (Sistema Respiratório, Transporte de Gases)"
+        ]
+      },
+      {
+        "numeroEnunciado": 42,
+        "enunciado": "No heredograma esquematizado a seguir, os genes recessivos (d) e (h) causam, respectivamente, daltonismo e hemofilia. O casal teve um primeiro filho normal; um segundo daltônico e hemofílico; um terceiro, apenas daltônico; um quarto, apenas hemofílico. A partir do heredograma e de seus conhecimentos, considere as afirmações a seguir:\n[Heredogram with XDh XdY parents and 4 children]\nI. Tratam-se de heranças ligadas ao sexo.\nII. Os genes de h estão em situação de linkage e são distribuídos aos gametas de acordo com a 2ª lei de Mendel\nIII. Apenas a mãe pode transmitir os genes de h aos descendentes do sexo masculino.\nIV. O 3º e o 4º filhos são resultantes de crossing-over na gametogênese feminina.\nV. Não considerando o crossing-over, o casal tem 25% de chance de ter uma 5ª criança com daltonismo e hemofilia.\nEstão corretas",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "apenas I e II."
+          },
+          {
+            "letra": "B",
+            "texto": "apenas II, III e IV."
+          },
+          {
+            "letra": "C",
+            "texto": "apenas III e IV."
+          },
+          {
+            "letra": "D",
+            "texto": "apenas I, II, III e IV"
+          },
+          {
+            "letra": "E",
+            "texto": "apenas I, III, IV e V."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Genética (Heredograma, Heranças Ligadas ao Sexo, Linkage, Crossing-over)"
+        ]
+      },
+      {
+        "numeroEnunciado": 43,
+        "enunciado": "A hipótese heterotrófica sobre o início da vida no planeta Terra propõe que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a vida se diversificou a partir do surgimento dos seres heterotróficos que se alimentavam dos pioneiros autotróficos, pois permitiu o surgimento de uma maior variedade de nichos ecológicos."
+          },
+          {
+            "letra": "B",
+            "texto": "o primeiro ser vivo obtinha energia através de processos semelhantes à quimiossíntese realizada por bactérias atuais, processo mais simples do que a fotossíntese realizada pelos seres clorofilados."
+          },
+          {
+            "letra": "C",
+            "texto": "a produção de alimentos envolve processos bioquímicos complexos, o que sugere que o primeiro ser vivo fosse heterotrófico, alimentando-se de moléculas orgânicas produzidas por processos abióticos no oceano primitivo."
+          },
+          {
+            "letra": "D",
+            "texto": "o primeiro ser vivo era heterótrofo, aeróbico e procarionte, proposta que se justifica pela provável simplicidade da célula primitiva."
+          },
+          {
+            "letra": "E",
+            "texto": "a vida surgiu de reações químicas complexas, as quais ocorriam nas condições da Terra primitiva, permitindo à célula primitiva a capacidade de sintetizar seu alimento a partir das substâncias presentes na atmosfera e no oceano."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Origem da Vida (Hipótese Heterotrófica)"
+        ]
+      },
+      {
+        "numeroEnunciado": 44,
+        "enunciado": "Texto referente às questões 44 e 45.\nPesquisadora sobre fogo na Amazônia explica real situação da floresta.\nA pesquisadora sênior da Universidade de Oxford, Dra. Erika Berenguer, é uma das maiores referências sobre fogo em florestas tropicais do mundo. Ela relata que um “aspecto importante a ser considerado é que incêndios na floresta amazônica não ocorrem de maneira natural – eles precisam de uma fonte de ignição antrópica. Ao contrário de outros ecossistemas, como o Cerrado, a Amazônia não evoluiu com o fogo e esse não faz parte de sua dinâmica. Isso significa que quando a Amazônia pega fogo, uma parte imensa de suas árvores morrem, porque elas não têm nenhum tipo de proteção ao fogo. Ao morrerem, essas árvores então se decompõem liberando para a atmosfera todo o carbono que elas armazenavam, contribuindo assim para as mudanças climáticas. O problema nisso é que a Amazônia armazena muito carbono nas suas árvores - a floresta inteira estoca o equivalente a 100 anos de emissões de CO2 dos EUA. Então queimar a floresta significa colocar muito CO2 de volta na atmosfera.”\nDisponível em: https://ciclovivo.com.br/planeta/meio-ambiente/pesquisadora-fogo-amazonia-explica-real-situacao-floresta/ Acesso em 29 set. 2019\nOs biomas tropicais reagem de forma diferente ao efeito do fogo. Considerando as informações do texto e o processo de sucessão ecológica, é correto afirmar que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a floresta amazônica, comunidade em clímax, tem seu equilíbrio abalado pelas queimadas, e é impedida de prosseguir no processo de sucessão primária em que se encontra."
+          },
+          {
+            "letra": "B",
+            "texto": "o cerrado possui adaptações ao fogo, como cascas grossas nas árvores e caules subterrâneos no estrato herbáceo e subarbustivo, e inicia rápida sucessão primária após as queimadas."
+          },
+          {
+            "letra": "C",
+            "texto": "o fogo na floresta amazônica desequilibra o processo de fotossíntese, reduzindo-o, pois aumenta muito a concentração de CO2 na atmosfera."
+          },
+          {
+            "letra": "D",
+            "texto": "as adaptações do cerrado às queimadas de origem natural ou antrópicas não desencadeiam processos de sucessão ecológica, porque o fogo não induz à substituição de espécies."
+          },
+          {
+            "letra": "E",
+            "texto": "inicia-se, devido aos efeitos devastadores do fogo na floresta amazônica, um lento processo de sucessão primária. No cerrado, a recuperação se dá por meio da rápida sucessão secundária."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Ecologia (Biomas, Impactos Ambientais, Sucessão Ecológica)"
+        ]
+      },
+      {
+        "numeroEnunciado": 45,
+        "enunciado": "Texto referente às questões 44 e 45.\nPesquisadora sobre fogo na Amazônia explica real situação da floresta.\nA pesquisadora sênior da Universidade de Oxford, Dra. Erika Berenguer, é uma das maiores referências sobre fogo em florestas tropicais do mundo. Ela relata que um “aspecto importante a ser considerado é que incêndios na floresta amazônica não ocorrem de maneira natural – eles precisam de uma fonte de ignição antrópica. Ao contrário de outros ecossistemas, como o Cerrado, a Amazônia não evoluiu com o fogo e esse não faz parte de sua dinâmica. Isso significa que quando a Amazônia pega fogo, uma parte imensa de suas árvores morrem, porque elas não têm nenhum tipo de proteção ao fogo. Ao morrerem, essas árvores então se decompõem liberando para a atmosfera todo o carbono que elas armazenavam, contribuindo assim para as mudanças climáticas. O problema nisso é que a Amazônia armazena muito carbono nas suas árvores - a floresta inteira estoca o equivalente a 100 anos de emissões de CO2 dos EUA. Então queimar a floresta significa colocar muito CO2 de volta na atmosfera.”\nDisponível em: https://ciclovivo.com.br/planeta/meio-ambiente/pesquisadora-fogo-amazonia-explica-real-situacao-floresta/ Acesso em 29 set. 2019\nO aumento da concentração de CO2 na atmosfera promovido pelas queimadas na Amazônia está relacionado a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a liberação do carbono estocado na massa vegetal e na diminuição da taxa de fotossíntese, processo biológico que fixa o carbono atmosférico."
+          },
+          {
+            "letra": "B",
+            "texto": "a diminuição da decomposição biológica, impedida pela morte dos microrganismos do solo."
+          },
+          {
+            "letra": "C",
+            "texto": "a intensificação do efeito estufa e, consequente, aumento na inversão térmica durante os períodos de estiagem na floresta."
+          },
+          {
+            "letra": "D",
+            "texto": "o processo de diminuição na camada de ozônio, reduzindo o bloqueio da radiação ultravioleta do sol e, consequente, intensificação do aquecimento global."
+          },
+          {
+            "letra": "E",
+            "texto": "o aumento do efeito estufa, processo natural relacionado exclusivamente à concentração de CO2 na atmosfera."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Ecologia (Ciclos Biogeoquímicos, Efeito Estufa, Impactos Ambientais)"
+        ]
+      },
+      {
+        "numeroEnunciado": 46,
+        "enunciado": "Como no reino Animalia, a conquista do ambiente terrestre requereu dos representantes do reino Plantae a independência da água para fecundação. É correto afirmar que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "as pteridófitas conquistaram a independência da água para fecundação devido ao desenvolvimento de um sistema vascular eficiente."
+          },
+          {
+            "letra": "B",
+            "texto": "as angiospermas são o único grupo vegetal com total independência da água para fecundação, graças à polinização promovida por animais."
+          },
+          {
+            "letra": "C",
+            "texto": "as pteridófitas são o primeiro grupo a conquistar definitivamente o ambiente terrestre, pois possuem a fase esporofítica predominante, e o gametófito obtém a água para fecundação a partir do esporófito."
+          },
+          {
+            "letra": "D",
+            "texto": "as gimnospermas são as primeiras plantas sifonógamas, ou seja, possuem grãos de pólen que formam o tubo polínico, que dispensa a necessidade de água para o encontro dos gametas."
+          },
+          {
+            "letra": "E",
+            "texto": "as angiospermas conquistaram a independência da água para fecundação graças ao desenvolvimento da dupla fecundação e do fruto."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Botânica (Reprodução das Plantas)"
+        ]
+      },
+      {
+        "numeroEnunciado": 47,
+        "enunciado": "A expansão da civilização romana e a conquista do Mediterrâneo, se por um lado trouxeram riquezas e poderio à Roma; por outro lado, provocou um conflito entre as antigas instituições políticas, frente à nova realidade social e econômica dos romanos. Isso se deve",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "às Guerras Púnicas que resultaram no predomínio marítimo- mercantil romano sobre o Mediterrâneo, onde Cartago teve que se render à Roma, porém os cartaginenses não aceitaram submeter-se às leis romanas."
+          },
+          {
+            "letra": "B",
+            "texto": "à inadequação entre a estrutura política republicana e a expansão do sistema escravista de produção, cuja principal consequência foi a crise da República Romana e o estabelecimento do Império."
+          },
+          {
+            "letra": "C",
+            "texto": "à expansão externa de Roma que provocou a vinda de imensos contingentes de prisioneiros de guerra na condição de escravos, favorecendo os pequenos e médios proprietários de terra."
+          },
+          {
+            "letra": "D",
+            "texto": "à conquista do Mediterrâneo e à abertura de novos mercados à economia romana que prejudicaram fortemente o desenvolvimento da manufatura e dos produtos romanos frente à concorrência das mercadorias estrangeiras."
+          },
+          {
+            "letra": "E",
+            "texto": "às vitórias advindas após as Guerras Púnicas, que foram responsáveis pelo início de um período de prosperidade econômica e, consequentemente, paz social e estabilidade política."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – História Antiga (Roma Antiga, Crise da República)"
+        ]
+      },
+      {
+        "numeroEnunciado": 48,
+        "enunciado": "[Image: Cartoon with 'COLLOR' and 'AGORA SIM, MINHA VIDA VAI MELHORAR!!!']\nO presidente Fernando Collor de Mello venceu as eleições de 1989, após 29 anos em que os brasileiros puderam, finalmente, voltar a eleger diretamente o presidente da República. Um fator importante para a vitória de Collor foi o intenso uso do marketing político junto à mídia, decisivo em sua campanha, como ironiza a charge acima. Tal estratégia foi significativa, pois",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "transmitiu a ideia de ser uma “pessoa do povo\" que iniciando sua carreira como vereador em Alagoas, pode pelo esforço próprio alcançar o mais alto cargo político no país o de presidente da República."
+          },
+          {
+            "letra": "B",
+            "texto": "a campanha do candidato baseava-se na luta contra a corrupção e apoio aos \"descamisados\", grupo do qual fez parte no começo de sua carreira, no interior carente do estado de Alagoas."
+          },
+          {
+            "letra": "C",
+            "texto": "construiu junto ao povo brasileiro a imagem de \"caçador de marajás\", defensor do fim de regalias e contra a corrupção; pois, jovem, foi eleito por meio do voto popular, ao cargo de prefeito de Maceió."
+          },
+          {
+            "letra": "D",
+            "texto": "conseguiu transmitir aos eleitores a imagem de um candidato jovem, “moderno” e “moralizador” que se opunha aos representantes políticos corruptos e conservadores."
+          },
+          {
+            "letra": "E",
+            "texto": "deu, efetivamente, início a um programa de atendimento às camadas mais pobres da população, ao se colocar ao lado dos “pés-descalços”, como protetor contra os “velhos políticos\"."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – História do Brasil (Nova República, Eleições de 1989)"
+        ]
+      },
+      {
+        "numeroEnunciado": 49,
+        "enunciado": "[Image: Photo of workers with a banner \"O TRABALHADOR TAMBEM TEM O SEU LUGAR NO ESTADO NOVO\"]\nA foto acima tirada em uma das comemorações ao Dia do Trabalho, durante o Estado Novo (1937-45), evidencia o apoio das classes trabalhadoras ao governo de Getúlio Vargas. A simpatia a esse governante deve-se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à ação intervencionista do Estado no campo social e econômico nessa época, majoritariamente a favor das classes populares. Tal ação garantiu-lhe o apelido de \"Pai dos Pobres\"."
+          },
+          {
+            "letra": "B",
+            "texto": "às diversas conquistas feitas, pelo trabalhador urbano no período, quando foi estabelecido o salário mínimo e a possibilidade de criação de sindicatos autônomos e representativos para as diversas categorias de trabalho."
+          },
+          {
+            "letra": "C",
+            "texto": "à reunião de diversas leis trabalhistas, em 1943, na Consolidação das Leis do Trabalho (CLT), que foram extintas durante o regime militar, no governo do presidente Geisel."
+          },
+          {
+            "letra": "D",
+            "texto": "à concessão lenta e gradual de leis trabalhistas, pelas quais o Estado intervém profundamente na questão trabalhista; porém, por outro lado garantiu, entre outros, a jornada de trabalho de oito horas."
+          },
+          {
+            "letra": "E",
+            "texto": "à garantia de direitos para todos os trabalhadores brasileiros, tanto o rural, quanto o urbano, direitos esses, jamais concedidos antes na História do país à classe trabalhadora."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – História do Brasil (Era Vargas, Estado Novo)"
+        ]
+      },
+      {
+        "numeroEnunciado": 50,
+        "enunciado": "\"(...) A poesia fugiu dos livros, agora está nos jornais.\nOs telegramas de Moscou repetem Homero.\nMas Homero é velho. Os telegramas cantam um mundo novo\nque nós, na escuridão, ignorávamos.\nFomos encontrá-lo em ti, cidade destruída,\nna paz de tuas ruas mortas, mas não conformadas,\nno teu arquejo de vida mais forte que o estouro das bombas,\nna tua fria vontade de resistir.\"\n(Carlos Drummond de Andrade. Carta a Stalingrado do livro Rosa do Povo”. Em Poesia e Prosa. Rio de janeiro, Editora Nova Aguilar, 1983)\nO trecho acima relata, poeticamente, uma das maiores batalhas da Segunda Guerra Mundial, a batalha de Stalingrado, em 1943, na União Soviética. Stalingrado tornou-se sinônimo mundial do heroísmo e da luta pela pátria. A respeito desse episódio histórico e suas consequências é correto assinalar que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Hitler, ao ordenar a invasão da União Soviética, em julho de 1941, aproveitou-se do espírito anticomunista presente nos Estados Unidos que, mesmo descontente com os rumos da guerra, não saiu do seu isolamento político tradicional."
+          },
+          {
+            "letra": "B",
+            "texto": "os alemães, ao adotarem a tática de \"terra arrasada\", acabaram por infligir enormes perdas humanas e materiais à União Soviética, a qual, apesar do heroísmo demostrado nessa batalha, é obrigada a recapitular junto ao Terceiro Reich."
+          },
+          {
+            "letra": "C",
+            "texto": "a Operação Barbarossa, nome dado ao plano de guerra alemão contra os russos, a fim de conquistar os poços de petróleo do Cáucaso e a cidade de Stalingrado, foi um fracasso. Essa batalha foi o marco do início da derrota alemã."
+          },
+          {
+            "letra": "D",
+            "texto": "os soviéticos tiveram expressiva ajuda norte-americana nesse episódio de guerra, pois sem a contribuição dos Estados Unidos, seria impossível vencer o exército alemão, mais bem equipado e com maior número de combatentes."
+          },
+          {
+            "letra": "E",
+            "texto": "foram utilizadas, na batalha de Stalingrado, novas armas de guerra na ofensiva alemã sobre os soviéticos, o que garantiu o rápido avanço das tropas nazistas e o quase aniquilamento da cidade, que foi salva graças à ação dos aviões bombardeiros americanos."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – História Geral (Segunda Guerra Mundial, Batalha de Stalingrado)"
+        ]
+      },
+      {
+        "numeroEnunciado": 51,
+        "enunciado": "“A fim de regularizar a propriedade da terra de acordo com as novas necessidades econômicas e os novos conceitos de terra e de trabalho, diversas leis importantes foram decretadas em diferentes países durante o século XIX. O ritmo da mudança, entretanto, variou de um país para o outro e, dentro dos limites de um mesmo país, de uma região para outra, de acordo com o grau e a intensidade com que o desenvolvimento da economia industrial e comercial afetou essas áreas.”\n(VIOTTI da Costa, Emília. Da Monarquia à República: Momentos decisivos. São Paulo: Unesp, 1998. p.170)\nEstabelecendo uma comparação entre a Homestead Act de 1862, que regulamentou a política de terras nos EUA, e a Lei de Terras de 1850 no Brasil, é correto afirmar que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a Homestead Act de 1862 dificultava o acesso à terra, pois estipulava valores muito altos para a compra de territórios a oeste do rio Mississipi, resultando na baixa ocupação europeia e na prevalência de povos indígenas. Tal qual os EUA, a Lei de Terras de 1850 impede que setores populares tenham acesso à terra no Brasil, pelo seu alto custo."
+          },
+          {
+            "letra": "B",
+            "texto": "a Lei de Terras de 1850 proibia a aquisição de terras públicas por qualquer outro meio que não fosse a compra, finalizando as formas tradicionais de aquisição de terras mediante doações do governo. De maneira diferente, o Homestead Act de 1862 doava terras exclusivamente à população indígena e africana interessada na ocupação do oeste."
+          },
+          {
+            "letra": "C",
+            "texto": "a política rural, tanto no Brasil como nos Estados Unidos, estava ligada a uma certa concepção de trabalho não escravo. Mas, enquanto a Lei de Terras de 1850 dificultava a obtenção de terra pelo trabalhador livre, o Homestead Act de 1862 doava terras aqueles que desejassem nela se instalar."
+          },
+          {
+            "letra": "D",
+            "texto": "Brasil e EUA desenvolvem suas políticas de terras dentro de um contexto de crise do sistema escravocrata e necessidade crescente da mão de obra do trabalhador livre europeu. Assim, tanto a Lei de Terras de 1850 quanto a Homestead Act de 1862 democratizam o acesso à terra em seus respectivos países."
+          },
+          {
+            "letra": "E",
+            "texto": "as leis agrárias brasileira e norte americana, completamente diferentes, estão vinculadas a necessidades de substituição gradual da mão de obra escrava. A Lei de Terras de 1850 democratiza a terra na medida, em que possibilita a posse a quem ocupá-la por mais de 5 anos, enquanto o Homestead Act de 1862 estabelece a posse pela compra."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – História do Brasil (Segundo Reinado, Lei de Terras)",
+          "História – História Geral (Homestead Act)"
+        ]
+      },
+      {
+        "numeroEnunciado": 52,
+        "enunciado": "“Os humanistas, num gesto ousado, tendiam a considerar como mais perfeita e mais expressiva a cultura que havia surgido e se desenvolvido no seio do paganismo, antes do advento de Cristo. A Igreja, portanto, para quem a história humana só atingira a culminância na Era Cristã, não poderia ver com bons olhos essa atitude.\"\n(SEVCENKO, Nicolau. O Renascimento. São Paulo: Unicamp, 1988. p.14)\nQuanto aos humanistas, podemos dizer que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "eram em sua maioria cristãos e desejavam reinterpretar o Evangelho à luz da experiência e dos valores da Antiguidade. Exaltavam o indivíduo, a vontade e a capacidade de ação dos homens."
+          },
+          {
+            "letra": "B",
+            "texto": "valorizavam os antigos gregos e romanos em detrimento da cultura medieval. Assim, os humanistas retornam ao paganismo e fazem dessa religião sua crença principal provocando a ira da Igreja Católica."
+          },
+          {
+            "letra": "C",
+            "texto": "acreditavam que somente Deus é a fonte de energias criativas ilimitadas, detentor único de virtude e glória. Porém, seu teocentrismo não os impediu de produzir obras que valorizassem a ação humana."
+          },
+          {
+            "letra": "D",
+            "texto": "acreditavam, inspirados nos valores clássicos, na capacidade transformadora dos homens induzidos por força criadora de Deus. Diante disso, a Igreja Católica adotou uma política de total apoio ao movimento."
+          },
+          {
+            "letra": "E",
+            "texto": "eram orientados pela ideia de submissão total do homem a Deus e à Igreja. Obedeciam à ordem social imposta pelo clero e justificam esse posicionamento a partir dos textos da antiguidade clássica."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – História Geral (Idade Moderna, Renascimento e Humanismo)"
+        ]
+      },
+      {
+        "numeroEnunciado": 53,
+        "enunciado": "“A história de todas as sociedades até agora tem sido a história das lutas de classe. Homem livre e escravo, patrício e plebeu, barão e servo, membros das corporações e aprendiz, em suma, opressores e oprimidos, estiveram em contraposição uns aos outros e envolvidos em uma luta ininterrupta, ora disfarçada, ora aberta, que terminou sempre com a transformação revolucionária da sociedade inteira ou com o declínio conjunto das classes em conflito.”\nTrecho do Manifesto do Partido Comunista de Karl Marx e Friedrich Engels – 1848\nSobre o contexto histórico e as propostas de Marx e Engels considere as seguintes afirmações:\nI. O Manifesto do Partido Comunista foi escrito às vésperas das Revoluções de 1848, as quais abalaram os setores mais conservadores da Europa, preocupada em barrar o avanço das transformações iniciadas com a Revolução Francesa de 1789.\nII. Assim como em 1871 na Comuna de Paris; em 1848, a classe operária europeia tornara-se protagonista nos movimentos revolucionários críticos do modelo capitalista e da sua exploração do trabalho.\nIII. Conhecida como a Primavera dos Povos, as Revoluções de 1848 uniram anarquistas, comunistas e socialistas em torno de um projeto essencialmente marxista, culminando em ações revolucionárias nas principais capitais europeias.\nIV. Na construção de sua teoria, Marx e Engels reapropriam-se criticamente da filosofia alemã, em especial Hegel, das reflexões dos socialistas utópicos, da teoria econômica inglesa e da prática política dos movimentos sociais e operários europeus.\nAssinale se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "apenas II e III são corretas."
+          },
+          {
+            "letra": "B",
+            "texto": "apenas I é correta."
+          },
+          {
+            "letra": "C",
+            "texto": "I, II e III são corretas."
+          },
+          {
+            "letra": "D",
+            "texto": "I, II e IV são corretas."
+          },
+          {
+            "letra": "E",
+            "texto": "todas são corretas."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – História Geral (Século XIX, Revoluções de 1848, Marxismo)"
+        ]
+      },
+      {
+        "numeroEnunciado": 54,
+        "enunciado": "Um vestibulando da UPM – Universidade Presbiteriana Mackenzie encontra o seu pai, um engenheiro, escrevendo no sistema MLT a expressão dimensional da grandeza física A. Ele é então informado que, na expressão abaixo descrita, a grandeza B é inversamente proporcional à raiz quadrada do comprimento L, à massa M e ao quadrado do tempo T. Sabe ainda que a constante k é adimensional, C é aceleração angular e D é o produto entre ângulo plano e a aceleração centrípeta.\nA² = k².B³.C/3D\nTomando a expressão como dimensionalmente homogênea, o vestibulando auxilia corretamente o seu pai e encontra, para os expoentes de M, L e T, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "– 3/2 ; - 5/4 ; -3"
+          },
+          {
+            "letra": "B",
+            "texto": "– 3/4 ; - 5/2 ;3"
+          },
+          {
+            "letra": "C",
+            "texto": "– 2/3 ; - 4/5 ; -2"
+          },
+          {
+            "letra": "D",
+            "texto": "3/2 ; - 5/4 ; -2"
+          },
+          {
+            "letra": "E",
+            "texto": "– 3/4; 5/4; 2"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Análise Dimensional"
+        ]
+      },
+      {
+        "numeroEnunciado": 55,
+        "enunciado": "O modelo de uma locomotiva é construído com dimensões lineares vinte e cinco vezes menores que as dimensões do original e de um material cuja massa específica volumétrica é 1/3 da massa específica do material com que será construída a locomotiva. Admite-se invariável a aceleração gravitacional local. Sabe-se que a velocidade escalar média da locomotiva é VL = 100 km/h. Pode-se afirmar corretamente, então, que a velocidade escalar média do modelo vale, em km/h,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "4,00"
+          },
+          {
+            "letra": "B",
+            "texto": "10,0"
+          },
+          {
+            "letra": "C",
+            "texto": "12,5"
+          },
+          {
+            "letra": "D",
+            "texto": "20,0"
+          },
+          {
+            "letra": "E",
+            "texto": "25,0"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Semelhança de Modelos e Escalas"
+        ]
+      },
+      {
+        "numeroEnunciado": 56,
+        "enunciado": "A barra da figura acima é homogênea, possui massa m = 30 kg e comprimento L=4,0 m. Ela está apoiada sobre o ponto A em um plano horizontal rugoso e é vinculada pelo ponto C, a um metro de topo da barra, a u'a mola de constante elástica K. Sabe-se que o campo gravitacional local tem módulo g = 10 m/s² e que o sistema encontra-se em equilíbrio quando O = 45° e a mola tem sua extensão máxima Xmax = 0,20 m. Com base nos dados fornecidos, pode-se afirmar que o valor de K, em kN/m, é\n[Image of a bar in equilibrium with a spring and angle theta]",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "5,0"
+          },
+          {
+            "letra": "B",
+            "texto": "4,0"
+          },
+          {
+            "letra": "C",
+            "texto": "3,0"
+          },
+          {
+            "letra": "D",
+            "texto": "2,0"
+          },
+          {
+            "letra": "E",
+            "texto": "1,0"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Estática (Equilíbrio de Corpos Rígidos, Momento de Força)"
+        ]
+      },
+      {
+        "numeroEnunciado": 57,
+        "enunciado": "Para fazer a sua “escova progressiva\", procedimento que já esteve em moda para as pessoas mais vaidosas, Jéssica está sentada na cadeira do salão, com o rosto a 1,4 m do espelho plano (EP) e vertical. A sua hair design (cabeleireira de salões elitizados) está posicionada a 60 cm mais distante do espelho que a sua cliente. Então é possível afirmar corretamente que a distância entre a imagem da hair design fornecida pelo espelho plano (EP) e Jéssica vale, em centímetros,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "30"
+          },
+          {
+            "letra": "B",
+            "texto": "60"
+          },
+          {
+            "letra": "C",
+            "texto": "280"
+          },
+          {
+            "letra": "D",
+            "texto": "340"
+          },
+          {
+            "letra": "E",
+            "texto": "400"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Óptica Geométrica (Espelhos Planos)"
+        ]
+      },
+      {
+        "numeroEnunciado": 58,
+        "enunciado": "A segunda lei da Termodinâmica afirma, em sucintas palavras, que não há a possibilidade de converter integralmente calor em trabalho. Esquematicamente, a figura abaixo revela como funciona u'a máquina térmica.\n[Diagram of a heat engine: Fonte Quente -> Calor da Fonte Quente -> Motor -> Trabalho (T) + Calor da Fonte Fria -> Fonte Fria]\nConsiderando-se que o trabalho realizado nessa máquina valha 1,2 kJ e que a parte energética rejeitada para a fonte fria valha dois quintos da recebida da fonte quente, é correto afirmar que o rendimento da máquina retratada na figura e a parte energética rejeitada (em kJ) valem, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "40% e 1,2"
+          },
+          {
+            "letra": "B",
+            "texto": "60% e 0,80"
+          },
+          {
+            "letra": "C",
+            "texto": "40% e 1,0"
+          },
+          {
+            "letra": "D",
+            "texto": "60% e 1,2"
+          },
+          {
+            "letra": "E",
+            "texto": "40% e 0,60"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Termodinâmica (Máquinas Térmicas, Rendimento)"
+        ]
+      },
+      {
+        "numeroEnunciado": 59,
+        "enunciado": "Texto e figura para as questões 59 e 60.\n[Image of a shower head]\nAinda que haja elevação no custo da energia consumida de uma residência, os seus moradores não abrem mão da possibilidade de um banho aquecido agradável em dias de baixa temperatura. Assim, nesse momento de prazer, a chave seletora do chuveiro é colocada na posição inverno conferindo ao chuveiro uma potência de 5.600 W.\nPara um banho de quinze minutos de duração, a energia elétrica consumida, em kWh, vale,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2,3"
+          },
+          {
+            "letra": "B",
+            "texto": "3,6"
+          },
+          {
+            "letra": "C",
+            "texto": "1,4"
+          },
+          {
+            "letra": "D",
+            "texto": "1,2"
+          },
+          {
+            "letra": "E",
+            "texto": "1,0"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Eletricidade (Potência e Energia Elétrica)"
+        ]
+      },
+      {
+        "numeroEnunciado": 60,
+        "enunciado": "Texto e figura para as questões 59 e 60.\n[Image of a shower head]\nAinda que haja elevação no custo da energia consumida de uma residência, os seus moradores não abrem mão da possibilidade de um banho aquecido agradável em dias de baixa temperatura. Assim, nesse momento de prazer, a chave seletora do chuveiro é colocada na posição inverno conferindo ao chuveiro uma potência de 5.600 W.\nToma-se o mesmo chuveiro do exercício anterior e, em um dia de temperatura média elevada, a chave seletora é passada para a posição verão, que leva a potência do chuveiro para 3.200 W. Se na residência moram quatro pessoas, que tomam um banho diário de quinze minutos, e se R$ 0,40 é o preço de 1,0 kWh consumido, a parte da conta mensal de luz relativa aos banhos custa em reais (R$)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "56,40"
+          },
+          {
+            "letra": "B",
+            "texto": "67,20"
+          },
+          {
+            "letra": "C",
+            "texto": "42,00"
+          },
+          {
+            "letra": "D",
+            "texto": "31,20"
+          },
+          {
+            "letra": "E",
+            "texto": "28,80"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Eletricidade (Consumo de Energia Elétrica)"
+        ]
+      }
+    ]
+  }
+}

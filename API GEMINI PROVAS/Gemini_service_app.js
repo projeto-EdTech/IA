@@ -120,11 +120,11 @@ Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estr
   console.log("Iniciando upload e processamento dos arquivos...");
 
     console.time("Processando Arquivo da Prova");
-    let file1 = await uploadRemotePDF("https://www.vestibular.ita.br/provas/ingles_2015.pdf", "PDF Da Prova");
+    let file1 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2019/1dia/famerp2019_1dia_prova.pdf", "PDF Da Prova");
     console.timeEnd("Processando Arquivo da Prova"); // Termina o cronômetro do upload da prova
 
     console.time("Processando Arquivo do Gabarito");
-    let file2 = await uploadRemotePDF("https://www.vestibular.ita.br/provas/gabarito_2015.pdf", "PDF Do Gabarito");
+    let file2 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2019/1dia/famerp2019_1dia_gabarito.pdf", "PDF Do Gabarito");
     console.timeEnd("Processando Arquivo do Gabarito"); // Termina o cronômetro do upload do Gabarito
 
     console.log("Uploads e processamento dos PDF's concluídos.");
@@ -145,7 +145,6 @@ Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estr
         generationConfig: {
             temperature: 0.2,
             maxOutputTokens: 8192,
-            // responseMimeType: "application/json", // <-- Esta linha foi removida na correção anterior, o que é correto
         },
         tools: [{
             functionDeclarations: [{

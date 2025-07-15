@@ -1,0 +1,2505 @@
+{
+  "prova": {
+    "nomeUniversidade": "FACULDADE DE MEDICINA DE SÃO JOSÉ DO RIO PRETO",
+    "siglaUniversidade": "FAMERP",
+    "nomeProva": "PROVA DE CONHECIMENTOS GERAIS",
+    "ano": 2025,
+    "qtdeQuestoes": 80,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "Para responder às questões de 01 a 05, leia o poema \"A cinta de Vênus\", do poeta árcade Silva Alvarenga.\n\nCai a cinta a Vênus¹ bela,\nSem cautela recostada;\nE turbada² entre os pesares\nPede aos mares que lha deem.\n\nO tesouro se procura,\nOs desejos se interessam,\nOs cuidados já se apressam,\nE a ternura vai também.\n\nEmpenhou-se, ó Glaura, o zelo;\nMas em vão: que perda triste!\nSó eu vi, sei onde existe;\nE dizê-lo não convém.\n\nCai a cinta a Vênus bela,\nSem cautela recostada;\nE turbada entre os pesares\nPede aos mares que lha deem.\n\nRoubador do puro ornato\nFoi Antero e foi Cupido 3;\nE o levaram escondido\nCom recato, eu sei a quem.\n\nReceosos pelo insulto,\nQue traidores cometeram,\nNo teu seio se acolheram,\nOnde oculto asilo têm.\n\nCai a cinta a Vênus bela,\nSem cautela recostada;\nE turbada entre os pesares\nPede aos mares que lha deem.\n\nDos meus olhos não se escondem\nOs meninos 4, a quem amo:\nSe os procuro, espreito e chamo,\nCorrespondem, mas não vêm.\n\nCom acenos expressivos\nDe alegria suspeitosa\nMostram faixa preciosa,\nQue atrativos mil contêm.\n\nCai a cinta a Vênus bela,\nSem cautela recostada;\nE turbada entre os pesares\nPede aos mares que lha deem.\n\nSe piedade aflito rogo,\nE que cessem teus rigores,\n(Ah cruéis, lindos Amores!)\nFogem logo e com desdém.\n\nAbrandá-los não consigo,\nE já deles tenho medo:\nGuarda, Ninfa, este segredo,\nQue não digo a mais ninguém.\n\nCai a cinta a Vênus bela,\nSem cautela recostada;\nE turbada entre os pesares\nPede aos mares que lha deem.\n(Silva Alvarenga. Obras poéticas: poemas líricos, 2005.)\n\n¹ Vênus: deusa do Amor.\n² turbada: aflita, transtornada.\n³ Antero e Cupido: irmãos, filhos de Vênus.\n⁴ meninos: os filhos de Vênus, ou seja, Antero e Cupido.\n\nDepreende-se do poema que Antero e Cupido se esconderam",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "no peito do eu lírico."
+          },
+          {
+            "letra": "B",
+            "texto": "no peito de Glaura."
+          },
+          {
+            "letra": "C",
+            "texto": "no peito de Vênus."
+          },
+          {
+            "letra": "D",
+            "texto": "nos mares."
+          },
+          {
+            "letra": "E",
+            "texto": "nos olhos do eu lírico."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação textual",
+          "Língua Portuguesa – Arcadismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "No poema, o eu lírico manifesta um sentimento contraditório em relação aos filhos de Vênus. Tal sentimento contraditório está explícito no seguinte trecho:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "\"Dos meus olhos não se escondem / Os meninos, a quem amo:\" (8ª estrofe)"
+          },
+          {
+            "letra": "B",
+            "texto": "\"Se os procuro, espreito e chamo, / Correspondem, mas não vêm.” (8ª estrofe)"
+          },
+          {
+            "letra": "C",
+            "texto": "\"Receosos pelo insulto, / Que traidores cometeram,\" (6ª estrofe)"
+          },
+          {
+            "letra": "D",
+            "texto": "\"(Ah cruéis, lindos Amores!) / Fogem logo e com desdém.\" (11ª estrofe)"
+          },
+          {
+            "letra": "E",
+            "texto": "\"Abrandá-los não consigo, / E já deles tenho medo:\" (12ª estrofe)"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação textual",
+          "Língua Portuguesa – Sentido das expressões"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "Uma característica da estética árcade observada nesse poema é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a referência à mitologia greco-romana."
+          },
+          {
+            "letra": "B",
+            "texto": "a tonalidade subjetiva e confessional."
+          },
+          {
+            "letra": "C",
+            "texto": "a temática voltada à transitoriedade da vida."
+          },
+          {
+            "letra": "D",
+            "texto": "o enaltecimento da vida bucólica."
+          },
+          {
+            "letra": "E",
+            "texto": "o ideal da objetividade e da impessoalidade."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Arcadismo",
+          "Língua Portuguesa – Escolas Literárias"
+        ]
+      },
+      {
+        "numeroEnunciado": 4,
+        "enunciado": "Dois pronomes átonos, quando ocorrem numa mesma oração, podem ser contraídos, como no verso \"Pede aos mares que lha deem.\", em que \"lha” é a junção de \"lhe\" + \"a\". Esses pronomes referem-se, respectivamente, a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "\"cinta\" e \"cautela\"."
+          },
+          {
+            "letra": "B",
+            "texto": "\"cautela\" e \"cinta”."
+          },
+          {
+            "letra": "C",
+            "texto": "\"Vênus” e “cinta”."
+          },
+          {
+            "letra": "D",
+            "texto": "\"cinta” e “Vênus”."
+          },
+          {
+            "letra": "E",
+            "texto": "\"Vênus\" e \"cautela\"."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Pronomes",
+          "Língua Portuguesa – Sintaxe"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "Está empregado como pronome apassivador o termo sublinhado em:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "\"No teu seio se acolheram,\" (6ª estrofe)"
+          },
+          {
+            "letra": "B",
+            "texto": "\"Dos meus olhos não se escondem\" (8ª estrofe)"
+          },
+          {
+            "letra": "C",
+            "texto": "\"Se os procuro, espreito e chamo,\" (8ª estrofe)"
+          },
+          {
+            "letra": "D",
+            "texto": "\"Se piedade aflito rogo,\" (11ª estrofe)"
+          },
+          {
+            "letra": "E",
+            "texto": "\"O tesouro se procura,\" (2ª estrofe)"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Sintaxe",
+          "Língua Portuguesa – Vozes Verbais"
+        ]
+      },
+      {
+        "numeroEnunciado": 6,
+        "enunciado": "Examine o cartum de Richard Bittencourt, o Fí.\n\n(Imagem do cartum: VOU ESCREVER UM E-BOOK SOBRE CINEMA. ENTENDE DE CINEMA? CLARO, JÁ FUI EM VÁRIOS. - Richard Bittencourt. As lágrimas sinceras de Júlio Gilson, 2023.)\n\nPara obter seu efeito de humor, o cartum explora o seguinte recurso expressivo:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "ambiguidade."
+          },
+          {
+            "letra": "B",
+            "texto": "eufemismo."
+          },
+          {
+            "letra": "C",
+            "texto": "metalinguagem."
+          },
+          {
+            "letra": "D",
+            "texto": "paradoxo."
+          },
+          {
+            "letra": "E",
+            "texto": "hipérbole."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de cartuns",
+          "Língua Portuguesa – Figuras de Linguagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "Para responder às questões de 07 a 10, leia o trecho de uma crônica de Machado de Assis, publicada originalmente em 16.06.1878.\n\nEstrugiram¹ os últimos foguetes de Santo Antônio; não tarda chegar a vez de S. João e de S. Pedro. [...] Indague quem quiser o motivo histórico deste foguetear os três santos, uso que herdamos dos nossos maiores; a realidade é que, não obstante o ceticismo do tempo, muita e muita dezena de anos há de correr, primeiro que o povo perca os seus antigos amores. Nestas noites abençoadas é que as crendices sãs abrem todas as velas. As consultas, as sortes, os ovos guardados em água, e outras sublimes ridicularias 2, ria-se delas quem quiser; eu vejo-as com respeito, com simpatia, e se alguma coisa me molestam é por eu não as saber já praticar. [...]\n\nOs dias passam, e os meses, e os anos, e as situações políticas, e as gerações e os sentimentos, e as ideias. Cada olimpíada³ traz nas mãos uma nova andaina⁴ do tempo. [...]\n\nDuas coisas, entretanto, perduram no meio da instabilidade universal: 1º a constância da polícia, que todos os anos declara editalmente ser proibido queimar fogos, por ocasião das festas de S. João e seus comensais; 2º a disposição do povo em desobedecer às ordens da polícia. A proibição não é simples vontade do chefe; é uma postura municipal de 1856. Anualmente aparece o mesmo edital, escrito com os mesmos termos; o chefe rubrica essa chapa inofensiva, que é impressa, lida e desrespeitada. Da tenacidade com que a polícia proíbe, e da teimosia com que o povo infringe a proibição, fica um resíduo comum: o trecho impresso e os fogos queimados.\n\n(Machado de Assis. Notas semanais, 2008.)\n\n¹ estrugir: soar ou vibrar fortemente.\n² ridicularia: coisa mínima e sem importância; insignificância.\n³ olimpíada: período de quatro anos.\n⁴ andaina: veste.\n\nDe acordo com o cronista,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "as crendices do povo estão na iminência de se extinguirem."
+          },
+          {
+            "letra": "B",
+            "texto": "a teimosia do povo em desobedecer à polícia resiste à ação do tempo."
+          },
+          {
+            "letra": "C",
+            "texto": "as crendices do povo revelam-se imunes à ação do tempo."
+          },
+          {
+            "letra": "D",
+            "texto": "o povo tem mostrado disposição em se adaptar às determinações da polícia."
+          },
+          {
+            "letra": "E",
+            "texto": "nada há no mundo que escape à ação do tempo."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação textual"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "Observa-se uma incompatibilidade semântica entre os termos que compõem a seguinte expressão:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "“motivo histórico\" (1º parágrafo)."
+          },
+          {
+            "letra": "B",
+            "texto": "\"antigos amores\" (1º parágrafo)."
+          },
+          {
+            "letra": "C",
+            "texto": "\"resíduo comum\" (3º parágrafo)."
+          },
+          {
+            "letra": "D",
+            "texto": "\"sublimes ridicularias” (1º parágrafo)."
+          },
+          {
+            "letra": "E",
+            "texto": "\"noites abençoadas\" (1º parágrafo)."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Semântica",
+          "Língua Portuguesa – Concordância de Sentido"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "\"a realidade é que, não obstante o ceticismo do tempo, muita e muita dezena de anos há de correr, primeiro que o povo perca os seus antigos amores.\" (1º parágrafo) No contexto em que se insere, o trecho sublinhado expressa ideia de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "concessão."
+          },
+          {
+            "letra": "B",
+            "texto": "condição."
+          },
+          {
+            "letra": "C",
+            "texto": "comparação."
+          },
+          {
+            "letra": "D",
+            "texto": "consequência."
+          },
+          {
+            "letra": "E",
+            "texto": "finalidade."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Conectivos",
+          "Língua Portuguesa – Sentido das Expressões"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "Originalmente um verbo, o termo sublinhado está empregado como substantivo no seguinte trecho:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "\"a disposição do povo em desobedecer às ordens da polícia\" (3º parágrafo)."
+          },
+          {
+            "letra": "B",
+            "texto": "\"não tarda chegar a vez de S. João e de S. Pedro\" (1º parágrafo)."
+          },
+          {
+            "letra": "C",
+            "texto": "\"todos os anos declara editalmente ser proibido queimar fogos\" (3º parágrafo)."
+          },
+          {
+            "letra": "D",
+            "texto": "\"muita e muita dezena de anos há de correr\" (1º parágrafo)."
+          },
+          {
+            "letra": "E",
+            "texto": "\"Indague quem quiser o motivo histórico deste foguetear os três santos\" (1º parágrafo)."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Classes de Palavras",
+          "Língua Portuguesa – Substantivação"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "Leia o texto e examine o gráfico para responder às questões de 11 a 17.\n\nWhen Tinder (a mobile dating app) was launched on college campuses in America in 2012, it quickly became a hit. Although online dating had been around since Match.com, a website for lonely hearts, launched in 1995, it had long struggled to shed¹ an image of desperation. But Tinder, by letting users sift through photos of countless potential dates with a simple swipe, made it easy and fun.\n\nSoon Tinder and its rivals had transformed dating. A report found that 30% of American adults had used an online dating service, including more than half of those aged between 18 and 29. One in five couples of that age had met through such a service. Usage surged during the pandemic, as lonely locked--down singles searched for partners. The market capitalisation of Bumble, a rival to Tinder, surged to $13 billion on its first day of trading² in February 2021. Later that year the value of Match Group, which owns Tinder, Hinge and scores of other dating services, reached nearly $50 billion.\n\nToday roughly 350 million people around the world have a dating app on their phone, up from 250 million in 2018, according to a research firm. In June 2024 Tokyo's government even said it would launch a matchmaking app of its own to pair up singles in the city. Yet lately online dating has lost its spark. The apps were downloaded 237 million times globally in 2023, down from 287 million in 2020. According to a research firm, the number of people who use them at least once a month has dwindled from 154 million in 2021 to 137 million in the second quarter of 2024.\n\nWorld, dating apps, monthly active users*, million\n(Gráfico mostrando a evolução de usuários de apps de namoro de 2019 a 2024. Há um pico em 2021-2022 e depois uma queda.)\n\n(www.economist.com, 08.08.2024. Adaptado.)\n\n¹ to shed: to get rid of something that is no longer wanted.\n² trading: the activity of buying and selling things.\n\nThe text is mainly about the",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "shift from high demand to reduced interest in dating apps' popularity."
+          },
+          {
+            "letra": "B",
+            "texto": "exploration of the risks and benefits of online dating on mental health."
+          },
+          {
+            "letra": "C",
+            "texto": "analysis of the evolution of online dating from websites to mobile apps."
+          },
+          {
+            "letra": "D",
+            "texto": "privacy concerns and data security issues in online dating platforms."
+          },
+          {
+            "letra": "E",
+            "texto": "psychology behind attraction and decision-making in swipe-based dating."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Reading Comprehension",
+          "Inglês – Main Idea"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "In the excerpt from the first paragraph \"Although online dating had been around since Match.com\", the underlined word can be replaced, without meaning change, by:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Now that."
+          },
+          {
+            "letra": "B",
+            "texto": "Assuming that."
+          },
+          {
+            "letra": "C",
+            "texto": "Despite the fact that."
+          },
+          {
+            "letra": "D",
+            "texto": "On the condition that."
+          },
+          {
+            "letra": "E",
+            "texto": "In order that."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Vocabulary",
+          "Inglês – Conjunctions"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "No trecho do primeiro parágrafo \"But Tinder, by letting users sift through photos of countless potential dates with a simple swipe, made it easy and fun\", o termo sublinhado é empregado com o mesmo sentido do termo sublinhado em:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "He loves all animals but spiders."
+          },
+          {
+            "letra": "B",
+            "texto": "I tried all the dishes but the dessert."
+          },
+          {
+            "letra": "C",
+            "texto": "I had no choice but to accept the challenge."
+          },
+          {
+            "letra": "D",
+            "texto": "I studied hard but I didn't pass the exam."
+          },
+          {
+            "letra": "E",
+            "texto": "He invited everyone but his cousin."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Inglês – Vocabulary",
+          "Inglês – Connectives"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "De acordo com o primeiro e o segundo parágrafos,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o aplicativo Tinder ajudou a reduzir a imagem de desespero associada ao namoro online ao torná-lo mais acessível e divertido."
+          },
+          {
+            "letra": "B",
+            "texto": "apesar de ter sido lançado em 1995, o site Match.com só conseguiu alcançar o sucesso no ano de 2012."
+          },
+          {
+            "letra": "C",
+            "texto": "o aplicativo Tinder é utilizado por 30% dos adultos com idade entre 18 e 29 anos."
+          },
+          {
+            "letra": "D",
+            "texto": "o valor de mercado do aplicativo Bumble, concorrente do Tinder, atingiu quase 50 bilhões de dólares no final de 2021."
+          },
+          {
+            "letra": "E",
+            "texto": "o aplicativo Tinder só começou a influenciar o mercado de namoro online de maneira significativa após o ano de 1995."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Reading Comprehension",
+          "Inglês – Specific Information"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "In the excerpt from the third paragraph \"Today roughly 350 million people around the world have a dating app\", the underlined word can be replaced, without meaning change, by:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "effectively."
+          },
+          {
+            "letra": "B",
+            "texto": "approximately."
+          },
+          {
+            "letra": "C",
+            "texto": "periodically."
+          },
+          {
+            "letra": "D",
+            "texto": "merely."
+          },
+          {
+            "letra": "E",
+            "texto": "globally."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Vocabulary",
+          "Inglês – Synonyms"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "A frase do texto que corresponde aos dados do gráfico é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "\"One in five couples of that age had met through such a service\" (2º parágrafo)."
+          },
+          {
+            "letra": "B",
+            "texto": "\"30% of American adults had used an online dating service\" (2º parágrafo)."
+          },
+          {
+            "letra": "C",
+            "texto": "\"In June 2024 Tokyo's government even said it would launch a matchmaking app\" (3º parágrafo)."
+          },
+          {
+            "letra": "D",
+            "texto": "\"more than half of those aged between 18 and 29\" (2º parágrafo)."
+          },
+          {
+            "letra": "E",
+            "texto": "\"Yet lately online dating has lost its spark\" (3º parágrafo)."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Inglês – Reading Comprehension",
+          "Inglês – Graph Interpretation"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "No contexto do terceiro parágrafo, o trecho \"in the second quarter of 2024\" equivale, em português, a:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "no segundo bimestre de 2024."
+          },
+          {
+            "letra": "B",
+            "texto": "no segundo semestre de 2024."
+          },
+          {
+            "letra": "C",
+            "texto": "no segundo mês de 2024."
+          },
+          {
+            "letra": "D",
+            "texto": "no segundo trimestre de 2024."
+          },
+          {
+            "letra": "E",
+            "texto": "no segundo quadrimestre de 2024."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Inglês – Vocabulary",
+          "Inglês – Time Expressions"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "Read the campaign poster published on a company's website to answer questions 18 and 19.\n\n(Imagem do pôster: If it's easy to crack, you're easy to hack. Follow these steps for stronger password practice... Value length over complexity. Never use the same password twice. Don't include any personal information. Try building a password from four random words. Enable two-factor authentication. Consider using a password manager. - https://www.hutsix.io. Adaptado.)\n\nThe word that summarizes the central theme of the campaign poster is:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "cyberbullying."
+          },
+          {
+            "letra": "B",
+            "texto": "security."
+          },
+          {
+            "letra": "C",
+            "texto": "connection."
+          },
+          {
+            "letra": "D",
+            "texto": "malfunction."
+          },
+          {
+            "letra": "E",
+            "texto": "oversharing."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Reading Comprehension",
+          "Inglês – Main Idea"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "In the title of the campaign poster \"If it's easy to crack, you're easy to hack\", the underlined words express",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "hypothesis."
+          },
+          {
+            "letra": "B",
+            "texto": "contrast."
+          },
+          {
+            "letra": "C",
+            "texto": "obligation."
+          },
+          {
+            "letra": "D",
+            "texto": "comparison."
+          },
+          {
+            "letra": "E",
+            "texto": "graduality."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Grammar",
+          "Inglês – Conditional Sentences"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "Read the comic strip by Sarah Andersen.\n\n(Imagem da tirinha: PHRASES THAT MAKE MY BLOOD RUN COLDER THAN ICE. 1) \"We need to talk.\" 2) \"Hey. Can I ask you a question?\" Oh! Sure! 3) Do you remember that time you-\" NOPE. Alone? 4) \"Can I see you for a second?\" - Sarah Andersen. Adulthood is a myth, 2016.)\n\nAccording to the comic strip, phrases from 1 to 4 make the girl feel",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "grateful."
+          },
+          {
+            "letra": "B",
+            "texto": "guilty."
+          },
+          {
+            "letra": "C",
+            "texto": "frightened."
+          },
+          {
+            "letra": "D",
+            "texto": "inspired."
+          },
+          {
+            "letra": "E",
+            "texto": "proud."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Reading Comprehension",
+          "Inglês – Interpreting Emotions"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "A tolerância que os romanos tiveram para com diversas religiões do mundo por eles conquistadas não existiu, entretanto, no que diz respeito à religião cristã. [...]\n\nDurante mais de dois séculos, houve perseguições aos cristãos, pois o Estado romano via na sua recusa ao culto aos deuses e ao imperador um desafio à ordem.\n\n(Pedro Paulo Funari. Grécia e Roma, 2019.)\n\nAo abordar a questão religiosa na Roma Antiga, o excerto",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "defende a centralidade do monoteísmo na organização interna do Império."
+          },
+          {
+            "letra": "B",
+            "texto": "destaca a relação pacífica que o Império manteve em relação a todas as religiões."
+          },
+          {
+            "letra": "C",
+            "texto": "apoia a atitude desafiadora dos cristãos em relação ao comando do Império."
+          },
+          {
+            "letra": "D",
+            "texto": "aponta a ameaça política que o cristianismo representou para o Império."
+          },
+          {
+            "letra": "E",
+            "texto": "rejeita a ideia de que o Império ameaçasse o avanço do cristianismo."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – Roma Antiga",
+          "História – Perseguição aos Cristãos"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "Analise o relato escrito por um monge no século XI.\n\n[...] a fome começou a alastrar-se por toda a superfície da Terra, e chegou-se a temer o quase total desaparecimento do gênero humano. As condições atmosféricas, com efeito, a tal ponto iam contra o curso normal das estações que o tempo nunca se mostrava propício às semeaduras e, sobretudo por causa das inundações, jamais se apresentava favorável às colheitas. Parecia que os elementos estavam lutando entre si, mas não havia dúvidas de que se punia assim o orgulho da humanidade.\n\n(Raoul Glaber. Histoires. Apud: Georges Duby. A Europa na Idade Média, 1988. Adaptado.)\n\nO monge atribui a temporada de fome ocorrida naquele período",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à insuficiência de conhecimento de técnicas de plantio."
+          },
+          {
+            "letra": "B",
+            "texto": "a eventos climáticos provocados pela cólera divina."
+          },
+          {
+            "letra": "C",
+            "texto": "ao aumento da exploração dos servos pelos senhores feudais."
+          },
+          {
+            "letra": "D",
+            "texto": "a alterações da natureza geradas pela exploração da terra."
+          },
+          {
+            "letra": "E",
+            "texto": "ao controle humano dos movimentos da natureza."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – Idade Média",
+          "História – Mentalidade Medieval"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "Leia o excerto para responder às questões 23 e 24.\n\nA presença feminina foi sempre destacada no exercício do pequeno comércio em vilas e cidades do Brasil colonial. Desde os primeiros tempos, em lugares como Salvador, Rio de Janeiro, São Paulo, estabeleceu-se uma divisão de trabalho assentada em critérios sexuais, em que o comércio ambulante representava ocupação preponderantemente feminina. A quase exclusiva presença de mulheres num mercado onde se consumiam gêneros a varejo resultou da convergência de duas referências culturais determinantes no Brasil. A primeira delas está relacionada à influência africana, uma vez que nessas sociedades tradicionais as mulheres desempenhavam tarefas de alimentação e distribuição de gêneros de primeira necessidade. O segundo tipo de influência deriva da transposição para o mundo colonial da divisão de papéis sexuais vigentes em Portugal, onde a legislação amparava de maneira incisiva a participação feminina.\n\n(Luciano Figueiredo. \"Mulheres nas Minas Gerais\". In: Mary del Priore (org.). História das mulheres no Brasil, 2015.)\n\nO excerto analisa o papel das mulheres nas Minas Gerais durante o período colonial e o caracteriza como um exemplo",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "do esforço do governo colonial para envolver as mulheres nas atividades produtivas."
+          },
+          {
+            "letra": "B",
+            "texto": "da influência cultural dos povos indígenas na organização da sociedade colonial."
+          },
+          {
+            "letra": "C",
+            "texto": "do confinamento das mulheres às atividades religiosas e domésticas."
+          },
+          {
+            "letra": "D",
+            "texto": "da exclusão das mulheres do trabalho na agricultura e no setor de serviços."
+          },
+          {
+            "letra": "E",
+            "texto": "da combinação de tradições culturais distintas presentes no Brasil colonial."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – Brasil Colônia",
+          "História – Sociedade Colonial"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "O tipo de atividade econômica mencionado no excerto",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "era duramente tributado para que os lucros alcançados se concentrassem nas mãos dos representantes da Coroa portuguesa."
+          },
+          {
+            "letra": "B",
+            "texto": "concorria com o comércio regular e estável que era o único capaz de atender às necessidades da população das Minas Gerais."
+          },
+          {
+            "letra": "C",
+            "texto": "facilitava o abastecimento interno numa região em que os moradores viviam espalhados pelas vilas e montanhas."
+          },
+          {
+            "letra": "D",
+            "texto": "era exercido exclusivamente por pessoas livres que podiam circular com autonomia pelas diversas áreas da colônia."
+          },
+          {
+            "letra": "E",
+            "texto": "dependia de suprimentos provenientes das regiões distantes que enviavam mercadorias às Minas Gerais."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – Brasil Colônia",
+          "História – Economia Colonial"
+        ]
+      },
+      {
+        "numeroEnunciado": 25,
+        "enunciado": "Em 1500, ainda estamos bem longe de uma economia mundial. No limiar do século XVI, a globalização corresponde ao fato de setores do mundo que se ignoravam ou não se frequentavam diretamente serem postos em contato uns com os outros.\n\n(Serge Gruzinski. A passagem do século: 1480-1520: as origens da globalização, 1999.)\n\nA globalização identificada pelo excerto foi resultado, entre outros fatores,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "do ressurgimento do comércio e da articulação entre os mercados regionais."
+          },
+          {
+            "letra": "B",
+            "texto": "do fim do feudalismo e da invenção e disseminação da imprensa."
+          },
+          {
+            "letra": "C",
+            "texto": "da expansão marítima europeia e do tráfico transatlântico de escravizados."
+          },
+          {
+            "letra": "D",
+            "texto": "da luta cristã contra o islamismo e do monopólio colonial ibérico."
+          },
+          {
+            "letra": "E",
+            "texto": "da centralização monárquica e da ampliação do comércio subsaariano."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – Idade Moderna",
+          "História – Globalização",
+          "História – Expansão Marítima"
+        ]
+      },
+      {
+        "numeroEnunciado": 26,
+        "enunciado": "Em direção ao Oeste da província [de São Paulo], terras desabitadas foram sendo ocupadas pelos latifúndios produtores de café. Dois problemas cruciais se colocavam para os cafeicultores nessa expansão para Oeste. Em primeiro lugar, as novas fazendas localizavam-se cada vez mais longe do porto de Santos, por onde escoavam sua produção para o mercado externo. [...]\n\nOutro desafio foi o fim do tráfico negreiro internacional em 1850.\n\n(Miriam Dolhnikoff. História do Brasil império, 2019. Adaptado.)\n\nAs alternativas encontradas para superar, na segunda metade do século XIX, os \"dois problemas cruciais\" citados no excerto correspondem",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à criação de portos fluviais na Bacia do Prata e ao desrespeito à proibição do tráfico."
+          },
+          {
+            "letra": "B",
+            "texto": "ao retorno dos latifúndios para áreas vizinhas do litoral e ao estímulo à imigração de bolivianos."
+          },
+          {
+            "letra": "C",
+            "texto": "à fundação de cidades no Oeste de São Paulo e ao uso de indígenas escravizados."
+          },
+          {
+            "letra": "D",
+            "texto": "ao aumento do mercado interno para o café e à ampliação do comércio com a Argentina."
+          },
+          {
+            "letra": "E",
+            "texto": "à abertura de estradas de ferro e à mecanização de parte da produção cafeeira."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – Brasil Império",
+          "História – Economia Cafeeira",
+          "História – Modernização dos Transportes"
+        ]
+      },
+      {
+        "numeroEnunciado": 27,
+        "enunciado": "Analise a charge, que representa Oswaldo Cruz e foi publicada no Rio de Janeiro em 1904.\n\n(Imagem da charge: AQUI JAZ TRANQUILLI DADE PUBLICA. Kygiene a muque (Ou vae ou rache) - https://basearch.coc.fiocruz.br)\n\nA charge",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "valoriza o empenho dos vacinadores para obter a adesão da população à medida saneadora."
+          },
+          {
+            "letra": "B",
+            "texto": "atesta a constitucionalidade da vacinação obrigatória para impedir a disseminação da varíola."
+          },
+          {
+            "letra": "C",
+            "texto": "ironiza a necessidade de recorrer ao exército para impedir a realização do processo de vacinação."
+          },
+          {
+            "letra": "D",
+            "texto": "questiona o emprego da força para garantir o cumprimento da lei da vacinação obrigatória."
+          },
+          {
+            "letra": "E",
+            "texto": "defende a urgência de vacinar a população para erradicar a epidemia de febre amarela."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – República Velha",
+          "História – Revolta da Vacina",
+          "Arte – Leitura de Imagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 28,
+        "enunciado": "O Al-5 [Ato Institucional nº 5] era uma ferramenta de intimidação pelo medo, não tinha prazo de vigência e seria empregado pela ditadura contra a oposição e a discordância. [...] O Al-5 fez parte de um conjunto de instrumentos e normas discricionárias mas dotadas de valor legal, adaptadas ou auconferidas pelos militares.\n\n(Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2018.)\n\nO excerto apresenta o Al-5, emitido em dezembro de 1968, como uma ferramenta",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "jurídica, que evidenciou o caráter ditatorial do regime militar."
+          },
+          {
+            "letra": "B",
+            "texto": "inconstitucional, que revelou a fragilidade política do regime militar."
+          },
+          {
+            "letra": "C",
+            "texto": "empregada pela oposição ao regime militar, mas ineficaz para democratizar o país."
+          },
+          {
+            "letra": "D",
+            "texto": "oficial, que determinou o início do processo de abertura política."
+          },
+          {
+            "letra": "E",
+            "texto": "aprovada pelo Congresso Nacional, mas destinada a aumentar o poder do Executivo."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – Ditadura Militar no Brasil",
+          "História – AI-5"
+        ]
+      },
+      {
+        "numeroEnunciado": 29,
+        "enunciado": "À luz dos processos de independência do jugo colonial posteriores à Segunda Guerra Mundial, a maioria dos governos dos recém-nascidos Estados africanos incluiu em suas agendas a implementação da política de industrialização por substituição de importações.\n\n(Kauê Lopes dos Santos. Africano: uma introdução ao continente, 2022. Adaptado.)\n\nPode-se entender a chamada política de substituição de importações como",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a recusa de financiamento econômico estrangeiro das economias nacionais dos países africanos."
+          },
+          {
+            "letra": "B",
+            "texto": "a valorização das produções locais de mercadorias industrializadas voltadas ao consumo de massa."
+          },
+          {
+            "letra": "C",
+            "texto": "o planejamento racional dos processos de crescimento dos centros urbanos nas capitais africanas."
+          },
+          {
+            "letra": "D",
+            "texto": "a subordinação dos países livres do continente africano aos interesses financeiros do mundo socialista."
+          },
+          {
+            "letra": "E",
+            "texto": "a suspensão das relações comerciais com as economias dos países industrializados do Ocidente europeu."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – Descolonização da África",
+          "História – Guerra Fria",
+          "Geografia – Geopolítica"
+        ]
+      },
+      {
+        "numeroEnunciado": 30,
+        "enunciado": "Assim que a URSS adquiriu armas nucleares [...] as duas superpotências claramente abandonaram a guerra como instrumento de política, pois isso equivalia a um pacto suicida. Não está muito claro se chegaram a considerar seriamente a possibilidade de uma ação nuclear contra terceiros [...], mas de todo modo as armas não foram usadas. Contudo, ambos usaram a ameaça nuclear, quase com certeza sem intenção de cumpri-la, em algumas ocasiões.\n\n(Eric Hobsbawm. Era dos extremos: o breve século XX: 1914-1991, 1995.)\n\nO excerto sustenta que, no âmbito da Guerra Fria, os armamentos nucleares",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "impediram as mudanças sócio-históricas em escala global."
+          },
+          {
+            "letra": "B",
+            "texto": "inviabilizam a supremacia política das superpotências."
+          },
+          {
+            "letra": "C",
+            "texto": "exerceram sobretudo função simbólica e persuasiva."
+          },
+          {
+            "letra": "D",
+            "texto": "possibilitaram a harmonia político-diplomática mundial."
+          },
+          {
+            "letra": "E",
+            "texto": "eram empregadas apenas em conflitos regionais."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – Guerra Fria",
+          "História – Corrida Armamentista"
+        ]
+      },
+      {
+        "numeroEnunciado": 31,
+        "enunciado": "Inesperado e assustador. É assim que pessoas que vivem ou trabalham na região do Pantanal têm definido os incêndios no bioma em pleno junho, período em que historicamente não há tanto fogo no bioma.\n\n(www.bbc.com.br, 21.06.2024. Adaptado.)\n\nAs causas dos incêndios no Pantanal, em junho de 2024, estão relacionadas",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à construção de hidrelétricas e ao desmatamento."
+          },
+          {
+            "letra": "B",
+            "texto": "à vegetação densa e às descargas elétricas."
+          },
+          {
+            "letra": "C",
+            "texto": "ao período de estiagem e às ações antrópicas."
+          },
+          {
+            "letra": "D",
+            "texto": "ao fenômeno climático La Niña e à produção canavieira."
+          },
+          {
+            "letra": "E",
+            "texto": "à urbanização e ao sistema de abastecimento de água."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Biomas Brasileiros",
+          "Geografia – Problemas Ambientais",
+          "Geografia – Climatologia"
+        ]
+      },
+      {
+        "numeroEnunciado": 32,
+        "enunciado": "Commodities são produtos padronizados, geralmente produzidos em larga escala, que podem ser intercambiados no mercado global com base em sua qualidade e características uniformes. No contexto comercial, as commodities frequentemente incluem produtos agrícolas, minerais e energéticos.\n\n(www.fazcomex.com.br. Adaptado.)\n\nPara o PIB brasileiro, as commodities são",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "insignificantes, uma vez que a exportação de produtos industrializados garante o superávit econômico."
+          },
+          {
+            "letra": "B",
+            "texto": "relevantes, uma vez que são produtos com alto valor agregado relacionados com os setores de alta tecnologia."
+          },
+          {
+            "letra": "C",
+            "texto": "expressivas, uma vez que são impulsionadas por investimentos nos setores de infraestrutura e serviços."
+          },
+          {
+            "letra": "D",
+            "texto": "importantes, uma vez que as exportações desses produtos influenciam positivamente a balança comercial."
+          },
+          {
+            "letra": "E",
+            "texto": "inexpressivas, uma vez que a principal fonte de crescimento econômico do país está atrelada ao setor de serviços."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Economia Brasileira",
+          "Geografia – Comércio Exterior"
+        ]
+      },
+      {
+        "numeroEnunciado": 33,
+        "enunciado": "Pelo menos mais 57 imigrantes chegaram ao Brasil em um mesmo dia (14.06.2024) pelo Aeroporto Internacional de Guarulhos, em São Paulo. Eles se juntaram a centenas de outros que aguardavam para apresentar pedido de refúgio no Brasil. Segundo o Ministério Público Federal (MPF), o número de estrangeiros no aeroporto chegava a 400. A maioria dos solicitantes de refúgio que estão no aeroporto é proveniente da Índia. Há ainda cidadãos do Vietnã, do Senegal, da Venezuela, de Cuba, e de Angola.\n\n(www.oglobo.globo.com, 14.06.2024. Adaptado.)\n\nO aumento dos pedidos de refúgio no Brasil, mencionado na notícia, associa-se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "aos salários altos para trabalhar na construção civil."
+          },
+          {
+            "letra": "B",
+            "texto": "à rota de imigração ilegal para os Estados Unidos."
+          },
+          {
+            "letra": "C",
+            "texto": "às oportunidades para estudar em universidades públicas."
+          },
+          {
+            "letra": "D",
+            "texto": "aos pedidos da ONU para minimizar a crise humanitária."
+          },
+          {
+            "letra": "E",
+            "texto": "às vagas de emprego para trabalhar em indústrias têxteis."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Geografia – Migrações",
+          "Geografia – População Brasileira",
+          "Geografia – Geopolítica"
+        ]
+      },
+      {
+        "numeroEnunciado": 34,
+        "enunciado": "Grilagem de terras no Maranhão\n\nUm grupo criminoso é responsável por promover desmatamento para abertura de vias de acesso e compartimentação do terreno em diversas parcelas, que se assemelham a lotes, e, com isso, passar a promover sua ocupação, seja por meio de venda desses lotes a terceiros, seja por incentivo à alteração e supressão dos marcos já existentes, visando a dar aparência de posse regular.\n\n(www.g1.com.br, 21.08.2024. Adaptado.)\n\nA grilagem é uma prática histórica no Brasil que consiste na",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "apropriação de terras por meio de documentos falsificados."
+          },
+          {
+            "letra": "B",
+            "texto": "regularização fundiária por meio da lei de terras devolutas."
+          },
+          {
+            "letra": "C",
+            "texto": "demarcação de terras indígenas por meio da aplicação do Estatuto da Terra."
+          },
+          {
+            "letra": "D",
+            "texto": "redistribuição de terras por meio da Reforma Agrária."
+          },
+          {
+            "letra": "E",
+            "texto": "invasão de propriedades por meio do princípio da função social da terra."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Questões Agrárias",
+          "Geografia – Legislação Fundiária"
+        ]
+      },
+      {
+        "numeroEnunciado": 35,
+        "enunciado": "Mangue ou mangal é uma formação vegetal de regiões alagadiças e ocorre apenas em regiões tropicais ou subtropicais no encontro entre o rio e o mar. É facilmente reconhecido pelas árvores com raízes expostas e solo lamacento.\n\n(www.wwf.com.br)\n\nÉ uma característica dos mangues a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "exploração da pesca comercial."
+          },
+          {
+            "letra": "B",
+            "texto": "poluição dos oceanos por matéria orgânica."
+          },
+          {
+            "letra": "C",
+            "texto": "produção de oxigênio atmosférico."
+          },
+          {
+            "letra": "D",
+            "texto": "escassez da biodiversidade local."
+          },
+          {
+            "letra": "E",
+            "texto": "proteção das áreas costeiras de erosão."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Ecossistemas",
+          "Biologia – Manguezais",
+          "Geografia – Biogeografia"
+        ]
+      },
+      {
+        "numeroEnunciado": 36,
+        "enunciado": "Observe a imagem da Pedra Furada, um dos pontos turísticos de contemplação do Parque Nacional da Serra da Capivara, localizado na região sudeste do Piauí.\n\n(Imagem da Pedra Furada. - https://portal.iphan.gov.br)\n\nCom base na imagem e em conhecimentos sobre Geomorfologia, afirma-se que a formação geológica da Pedra Furada está relacionada à",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "rocha arenítica sedimentar modelada pela ação eólica."
+          },
+          {
+            "letra": "B",
+            "texto": "rocha basáltica ígnea modelada pela ação vulcânica."
+          },
+          {
+            "letra": "C",
+            "texto": "rocha granítica magmática modelada pela ação da água."
+          },
+          {
+            "letra": "D",
+            "texto": "rocha de mármore metamórfico modelada pela ação da pressão e da temperatura."
+          },
+          {
+            "letra": "E",
+            "texto": "rocha argilosa magmática modelada pela ação da chuva."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Geomorfologia",
+          "Geografia – Rochas"
+        ]
+      },
+      {
+        "numeroEnunciado": 37,
+        "enunciado": "A chuva mais intensa já registrada no Brasil despejou 661 milímetros de água em um período de 12 horas em São Sebastião, em fevereiro de 2023, provocando deslizamentos de terra e inundações que ceifaram a vida de 64 pessoas. A destruição foi particularmente mais forte na Vila Sahy, uma das 21 áreas de risco identificadas em um levantamento do Instituto de Pesquisas Tecnológicas de 2018.\n\n(www.climainfo.org.br, 21.02.2024. Adaptado.)\n\nMesmo após um ano da tragédia, ainda há moradores vivendo em áreas de risco no alto do morro da Vila Sahy, bairro mais atingido pelas chuvas em São Sebastião. Um dos principais desafios ainda enfrentados pelo município de São Sebastião está relacionado",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à saída em massa da população para outras cidades litorâneas."
+          },
+          {
+            "letra": "B",
+            "texto": "à contaminação dos reservatórios pela enxurrada."
+          },
+          {
+            "letra": "C",
+            "texto": "às obras de infraestruturas de contenção das encostas."
+          },
+          {
+            "letra": "D",
+            "texto": "ao aumento da criminalidade nas áreas atingidas pela tragédia."
+          },
+          {
+            "letra": "E",
+            "texto": "à dificuldade de fornecimento de eletricidade nas áreas afetadas."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Desastres Naturais",
+          "Geografia – Problemas Urbanos",
+          "Geografia – Gestão Ambiental"
+        ]
+      },
+      {
+        "numeroEnunciado": 38,
+        "enunciado": "O sufoco causado pela crise elétrica de 2021 fez o governo federal se adiantar, em 2024, e autorizar o acionamento de mais termelétricas pelo Operador Nacional do Sistema (ONS). A precaução, porém, pode aumentar o preço da energia, inclusive para as indústrias. O ministro de Minas e Energia disse que não há estimativa sobre quando essas usinas serão acionadas. Mas, uma vez autorizado, o ONS pode despachá-las assim que considerar necessário.\n\n(www.otempo.com.br, 14.09.2024. Adaptado.)\n\nO adiantamento do governo na autorização do acionamento das termelétricas, em 2024, relaciona-se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à baixa eficiência energética brasileira, majoritariamente movida a óleo combustível."
+          },
+          {
+            "letra": "B",
+            "texto": "à grande exportação de gás natural, importante recurso para a geração de energia."
+          },
+          {
+            "letra": "C",
+            "texto": "à queda da produção de energia solar, em períodos de incidência de incêndios florestais."
+          },
+          {
+            "letra": "D",
+            "texto": "à forte intensidade do período de seca, quando a geração de energia hidrelétrica diminui."
+          },
+          {
+            "letra": "E",
+            "texto": "à queda na importação de urânio, imprescindível para a produção de energia nuclear."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Matriz Energética",
+          "Geografia – Recursos Naturais",
+          "Geografia – Hidrografia"
+        ]
+      },
+      {
+        "numeroEnunciado": 39,
+        "enunciado": "O mercado de crédito de carbono está se tornando cada vez mais popular para indivíduos, organizações e empresas. Os créditos e compensações de carbono são obtidos por meio de diversas iniciativas e projetos que tentam reduzir as emissões, como a produção de energia renovável, as melhorias na eficiência energética, o reflorestamento e a captura de metano em aterros sanitários.\n\n(www.exame.com.br, 12.01.2024. Adaptado.)\n\nO crédito de carbono é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "uma unidade que representa a redução de uma tonelada de dióxido de carbono não emitida por projetos ambientais."
+          },
+          {
+            "letra": "B",
+            "texto": "uma permissão para uma empresa emitir uma quantidade específica de gases de efeito estufa em países subdesenvolvidos."
+          },
+          {
+            "letra": "C",
+            "texto": "um empréstimo financeiro concedido a projetos de energia renovável, melhorando o custo da eletricidade verde."
+          },
+          {
+            "letra": "D",
+            "texto": "um certificado que permite a uma empresa compensar o custo de seus produtos ao reduzir a emissão de poluentes."
+          },
+          {
+            "letra": "E",
+            "texto": "um voucher que pode ser trocado por produtos sustentáveis, promovendo práticas de consumo responsável."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Meio Ambiente",
+          "Geografia – Economia Ambiental"
+        ]
+      },
+      {
+        "numeroEnunciado": 40,
+        "enunciado": "O Parlamento da Catalunha elegeu Salvador Illa como novo líder do governo na região. Illa, aliado ao primeiro-ministro espanhol, Pedro Sánchez, foi escolhido depois de obter a maioria dos votos nas eleições regionais de maio.\n\n(www.poder360.com.br, 08.08.2024. Adaptado.)\n\nUma das implicações da vitória de Salvador Illa é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a retirada da Catalunha da Otan pelo governo espanhol."
+          },
+          {
+            "letra": "B",
+            "texto": "o controle político do povo curdo na Catalunha."
+          },
+          {
+            "letra": "C",
+            "texto": "a diminuição do poder do movimento separatista da Catalunha."
+          },
+          {
+            "letra": "D",
+            "texto": "o fim da guerra civil de caráter religioso na Catalunha."
+          },
+          {
+            "letra": "E",
+            "texto": "a inserção da Catalunha na zona do euro da União Europeia."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – Geopolítica Contemporânea",
+          "Geografia – Conflitos Geopolíticos"
+        ]
+      },
+      {
+        "numeroEnunciado": 41,
+        "enunciado": "Leia o trecho da canção “Planeta Água”, de Guilherme Arantes. Os versos dessa canção referem-se a uma substância essencial à vida.\n\nTerra!\nPlaneta Água\nÁgua que nasce na fonte serena do mundo\nE que abre um profundo grotão\nÁgua que faz inocente riacho e deságua\nNa corrente do ribeirão\nÁguas escuras dos rios\nQue levam a fertilidade ao sertão\nÁguas que banham aldeias\nE matam a sede da população\n\n(www.letras.mus.br)\n\nEssa substância essencial à vida",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "promove a fertilidade do solo ao lixiviar as regiões áridas."
+          },
+          {
+            "letra": "B",
+            "texto": "pode ser obtida pelos animais por meio da alimentação."
+          },
+          {
+            "letra": "C",
+            "texto": "atua como catalisadora biológica no interior das células."
+          },
+          {
+            "letra": "D",
+            "texto": "não retorna a outros seres vivos ao ser excretada pelos animais."
+          },
+          {
+            "letra": "E",
+            "texto": "segue um fluxo unidirecional sem retornar ao mesmo organismo."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Ciclo da Água",
+          "Biologia – Funções da Água"
+        ]
+      },
+      {
+        "numeroEnunciado": 42,
+        "enunciado": "O esquema ilustra um tipo de metabolismo energético realizado por alguns organismos na natureza.\n\n(Esquema mostrando o processo de Glicólise, com Glicose (6C) se transformando em 2 moléculas de piruvato (3C), com produção de 2ATP e 2NADH+H+. O piruvato então se transforma em 2 moléculas de álcool etílico (etanol) (2C), regenerando 2NAD+. - Sônia Lopes e Sergio Rosso. Bio 1: conecte live, 2018.)\n\nEsse tipo de metabolismo energético é considerado",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "anaeróbio e ocorre exclusivamente em organismos procariontes."
+          },
+          {
+            "letra": "B",
+            "texto": "aeróbio e envolve a participação de várias enzimas."
+          },
+          {
+            "letra": "C",
+            "texto": "anaeróbio e independe de uma molécula orgânica aceptora de hidrogênio."
+          },
+          {
+            "letra": "D",
+            "texto": "aeróbio e ocorre no interior das mitocondrias."
+          },
+          {
+            "letra": "E",
+            "texto": "anaeróbio e gera um saldo de ATP menor do que a respiração celular."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Metabolismo Energético",
+          "Biologia – Fermentação"
+        ]
+      },
+      {
+        "numeroEnunciado": 43,
+        "enunciado": "A área hachurada do mapa destaca um importante bioma brasileiro.\n\n(Mapa do Brasil com a região Nordeste, mais especificamente o interior do Nordeste, hachurada. - https://chc.org.br)\n\nUma das adaptações de certas espécies de plantas típicas desse bioma brasileiro é a presença de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "caules com cascas delgadas, que as protegem das queimadas."
+          },
+          {
+            "letra": "B",
+            "texto": "raízes aéreas, que facilitam a absorção de água do lençol subterrâneo."
+          },
+          {
+            "letra": "C",
+            "texto": "espinhos numerosos, que reduzem a perda de água."
+          },
+          {
+            "letra": "D",
+            "texto": "folhas largas e perenes, que garantem alta taxa fotossintética."
+          },
+          {
+            "letra": "E",
+            "texto": "caules de grande porte, que facilitam a dispersão de sementes."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Biomas Brasileiros (Caatinga)",
+          "Biologia – Adaptações de Plantas",
+          "Geografia – Biogeografia"
+        ]
+      },
+      {
+        "numeroEnunciado": 44,
+        "enunciado": "Um cladograma é uma árvore evolutiva que mostra as relações ancestrais entre organismos. No passado, os cladogramas eram desenhados com base em similaridades fenotípicas dos organismos. Hoje, similaridades nas sequências de bases nitrogenadas do DNA entre organismos também podem ser usadas para representar os cladogramas. No cladograma, as letras representam diferentes táxons.\n\n(Cladograma com ramos A-B, C-D, E-F-G, onde D e E compartilham um ancestral comum mais recente. - www.nature.com. Adaptado.)\n\nNo cladograma ilustrado, os táxons que apresentam maior semelhança entre moléculas de DNA analisadas são",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "F e G."
+          },
+          {
+            "letra": "B",
+            "texto": "C e D."
+          },
+          {
+            "letra": "C",
+            "texto": "A e B."
+          },
+          {
+            "letra": "D",
+            "texto": "E e F."
+          },
+          {
+            "letra": "E",
+            "texto": "D e E."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Evolução",
+          "Biologia – Filogenia",
+          "Biologia – Cladogramas"
+        ]
+      },
+      {
+        "numeroEnunciado": 45,
+        "enunciado": "Analise a figura que representa o coração de um vertebrado.\n\n(Figura de um coração com dois átrios e dois ventrículos, mostrando um septo incompleto entre os ventrículos, com mistura de sangue arterial e venoso.)\n\nDe acordo com a figura, no coração desse vertebrado",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "ocorre mistura de sangue arterial e venoso no ventrículo."
+          },
+          {
+            "letra": "B",
+            "texto": "o sangue arterial é bombeado pelo átrio direito."
+          },
+          {
+            "letra": "C",
+            "texto": "o sangue venoso é bombeado pelo átrio esquerdo."
+          },
+          {
+            "letra": "D",
+            "texto": "circula sangue exclusivamente arterial pela artéria aorta."
+          },
+          {
+            "letra": "E",
+            "texto": "ocorre mistura de sangue arterial e venoso no átrio esquerdo."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Sistema Circulatório",
+          "Biologia – Fisiologia Animal"
+        ]
+      },
+      {
+        "numeroEnunciado": 46,
+        "enunciado": "A amebíase é a quarta causa mais frequente de morte por protozoários (70000 mortes anuais) no mundo. Nos países desenvolvidos, a ocorrência de amebíase está, em geral, ligada à imigração de trabalhadores vindos de países em desenvolvimento.\n\n(Marcelo Urbano Ferreira e Annette Silva Foronda. Parasitologia Contemporânea. Adaptado.)\n\nA doença citada no excerto é transmitida pela",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "picada de mosquitos contaminados."
+          },
+          {
+            "letra": "B",
+            "texto": "penetração de larvas na pele humana."
+          },
+          {
+            "letra": "C",
+            "texto": "ingestão de carne crua contaminada com cisticercos."
+          },
+          {
+            "letra": "D",
+            "texto": "picada de barbeiros contaminados."
+          },
+          {
+            "letra": "E",
+            "texto": "ingestão de água ou alimentos contaminados por cistos."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Parasitologia",
+          "Biologia – Doenças"
+        ]
+      },
+      {
+        "numeroEnunciado": 47,
+        "enunciado": "O fentanil é um potente opioide sintético que atua no sistema central humano como anestésico. Uma vez que atinge o cérebro, o fentanil interage com os receptores opioides, facilitando a liberação de dopamina, anulando a dor, gerando sensação de prazer, de calma e a redução da ansiedade. O tronco cerebral, que controla a função respiratória, também possui receptores opioides. E, quando eles são inundados com fentanil, \"você pode parar de respirar, mesmo se estiver consciente\", explica Daniel Sitar, professor da Faculdade de Ciências da Saúde da Universidade de Manitoba, no Canadá.\n\n(https://g1.globo.com. Adaptado.)\n\nDe acordo com o excerto, o fentanil atua",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "nas terminações axoniais dos neurônios ao bloquear a liberação de neurotransmissores pela membrana da célula."
+          },
+          {
+            "letra": "B",
+            "texto": "no núcleo do neurônio ao inibir a expressão do gene responsável pela síntese de neurotransmissores."
+          },
+          {
+            "letra": "C",
+            "texto": "na bainha de mielina dos neurônios ao interromper a condução dos impulsos nervosos pelo bloqueio de receptores nos axônios."
+          },
+          {
+            "letra": "D",
+            "texto": "na sinapse neural ao interagir com as proteínas de membrana presentes na superfície externa dos dendritos nos neurônios."
+          },
+          {
+            "letra": "E",
+            "texto": "nos axônios dos neurônios ao inibir o transporte de neurotransmissores ao longo dessas estruturas celulares."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Fisiologia Humana",
+          "Biologia – Sistema Nervoso",
+          "Química – Farmacologia"
+        ]
+      },
+      {
+        "numeroEnunciado": 48,
+        "enunciado": "O heredograma apresenta indivíduos que têm informações sobre a tipagem sanguínea para o fator Rh. Os homens destacados (II-1 e II-5) apresentaram eritroblastose fetal ao nascer, e nenhuma mulher desse heredograma recebeu imunizante anti-Rh após os nascimentos dos filhos.\n\n(Heredograma com três gerações. I: Rh+ (1), Rh- (2). II: Rh+ (1), Rh+ (2), Rh- (3), Rh- (4), Rh+ (5). III: Rh- (1), Rh+ (2).)\n\nConsiderando os dados do heredograma, a probabilidade de uma próxima criança ter eritroblastose fetal gerada pelo casal",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "II-4 e II-5 será de 50%."
+          },
+          {
+            "letra": "B",
+            "texto": "II-1 e II-2 será de 12,5%."
+          },
+          {
+            "letra": "C",
+            "texto": "II-1 e II-2 será de 75%."
+          },
+          {
+            "letra": "D",
+            "texto": "II-4 e II-5 será nula."
+          },
+          {
+            "letra": "E",
+            "texto": "II-4 e II-5 será 100%."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Genética",
+          "Biologia – Herança Sanguínea"
+        ]
+      },
+      {
+        "numeroEnunciado": 49,
+        "enunciado": "A figura ilustra a origem evolutiva dos atuais camelídeos (camelos, dromedário, lhama, vicunha, alpaca e guanaco) a partir do ancestral Poebrodon, que migrou para a Eurásia e para a América do Sul milhões de anos atrás (MAA).\n\n(Mapa mostrando rotas migratórias do Poebrodon e a evolução dos camelídeos. - www.researchgate.net. Adaptado.)\n\nA existência dessas diferentes espécies de camelídeos, nos diferentes continentes, é explicada pela hipótese de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "deriva genética, na qual as espécies surgiram de forma repentina e com diferenças genéticas na ausência da seleção natural."
+          },
+          {
+            "letra": "B",
+            "texto": "evolução direcional, na qual o ancestral se modificou atendendo às mudanças ambientais de cada continente."
+          },
+          {
+            "letra": "C",
+            "texto": "especiação alopátrica, na qual houve interrupção do fluxo gênico entre os grupos separados geograficamente."
+          },
+          {
+            "letra": "D",
+            "texto": "especiação simpátrica, na qual ocorreram mutações no ancestral e as populações formadas se separaram geograficamente."
+          },
+          {
+            "letra": "E",
+            "texto": "evolução convergente, na qual as espécies se modificaram de forma simultânea nos diferentes continentes."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Evolução",
+          "Biologia – Especiação"
+        ]
+      },
+      {
+        "numeroEnunciado": 50,
+        "enunciado": "Analise o gráfico que ilustra as velocidades de reação de duas enzimas (X e Y) que digerem substratos em diferentes órgãos humanos.\n\n(Gráfico de velocidade de reação versus pH para Enzima X e Enzima Y. Enzima X tem pico de atividade em pH 7, Enzima Y tem pico de atividade em pH 8. - pH)\n\nA enzima X é secretada pelas glândulas presentes ___ e é responsável pela hidrólise das moléculas ___. A enzima Y é secretada por células presentes no ___ e hidrolisa moléculas de ___. As lacunas do texto são preenchidas, respectivamente, por:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "no duodeno – lipídio – estômago - proteína."
+          },
+          {
+            "letra": "B",
+            "texto": "na boca - amido - pâncreas – ácido nucleico."
+          },
+          {
+            "letra": "C",
+            "texto": "na boca - amido - fígado – lipídio."
+          },
+          {
+            "letra": "D",
+            "texto": "no duodeno – lipídio – estômago - amido."
+          },
+          {
+            "letra": "E",
+            "texto": "na boca - proteína – pâncreas - proteína."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Fisiologia Humana",
+          "Biologia – Sistema Digestório",
+          "Química – Enzimas"
+        ]
+      },
+      {
+        "numeroEnunciado": 51,
+        "enunciado": "Os elementos químicos artificiais são produzidos em instalações de pesquisa, por meio do uso de aceleradores de partículas. Para a obtenção do elemento livermório-290 (²⁹⁰Lv), um feixe acelerado do átomo leve de titânio-50 é lançado sobre um alvo de um átomo pesado. Com a fusão desses dois átomos, forma-se um produto de fusão instável, livermório-294, que emite 4 nêutrons originando o novo elemento, livermório-290. A figura representa esse processo.\n\n(Diagrama da reação de fusão: Feixe de átomos leves (Titânio-50) + Átomo pesado alvo (X) -> Produto da fusão (Livermório-294) -> Emissão de 4 nêutrons -> Novo elemento (Livermório-290). - www.chemistryworld.com. Adaptado.)\n\nO símbolo do elemento utilizado como átomo pesado, alvo nesse processo, e o número de nêutrons do átomo de livermório-290 são, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Pu e 174."
+          },
+          {
+            "letra": "B",
+            "texto": "Fm e 178."
+          },
+          {
+            "letra": "C",
+            "texto": "Ds e 150."
+          },
+          {
+            "letra": "D",
+            "texto": "Pu e 178."
+          },
+          {
+            "letra": "E",
+            "texto": "Fm e 174."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Radioatividade",
+          "Física – Física Nuclear",
+          "Química – Tabela Periódica"
+        ]
+      },
+      {
+        "numeroEnunciado": 52,
+        "enunciado": "Em um experimento de química, dois líquidos, 1 e 2, foram adicionados a um tubo de ensaio, conforme representado na figura.\n\n(Diagrama de um tubo de ensaio com dois líquidos imiscíveis, Líquido 1 acima de Líquido 2, indicando que Líquido 2 é mais denso.)\n\nNa tabela são apresentadas algumas propriedades de substâncias que são líquidas em temperatura ambiente.\n\n(Tabela com Substância, Fórmula Estrutural, Densidade (g/cm³): Metanol (0,79), Água (1,00), Tetracloreto de carbono (1,59), Pentano (0,62).)\n\nOs líquidos 1 e 2 são, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "metanol e água."
+          },
+          {
+            "letra": "B",
+            "texto": "água e tetracloreto de carbono."
+          },
+          {
+            "letra": "C",
+            "texto": "metanol e pentano."
+          },
+          {
+            "letra": "D",
+            "texto": "água e pentano."
+          },
+          {
+            "letra": "E",
+            "texto": "pentano e tetracloreto de carbono."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Densidade",
+          "Química – Polaridade"
+        ]
+      },
+      {
+        "numeroEnunciado": 53,
+        "enunciado": "Em um laboratório químico existem três cilindros de gases com iguais capacidades volumétricas, conforme mostra a figura.\n\n(Figura mostrando três cilindros, identificados como SO2, O3 e O2, todos com o mesmo volume.)\n\nNos cilindros, estão contidos, separadamente, os gases SO2, O3 e O2 sob a mesma condição de temperatura e pressão. A relação entre as massas dos três gases no interior dos cilindros (mSO2, mO3 e mO2) é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "mSO2 < mO3 > mO2"
+          },
+          {
+            "letra": "B",
+            "texto": "mSO₂ = mO3 > mO2"
+          },
+          {
+            "letra": "C",
+            "texto": "mSO₂ > mO3 < mO2"
+          },
+          {
+            "letra": "D",
+            "texto": "mSO₂ = mO3 = mO2"
+          },
+          {
+            "letra": "E",
+            "texto": "mSO₂ > mO3 > mO2"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Gases",
+          "Química – Estequiometria"
+        ]
+      },
+      {
+        "numeroEnunciado": 54,
+        "enunciado": "Uma das formas elementares do fósforo é uma molécula de fórmula P4 denominada fósforo branco. Sua obtenção é feita pelo aquecimento da mistura de fosfato de cálcio (Ca3(PO4)2) com areia (SiO2) e coque (C) por meio da reação representada na equação química:\nxCa3(PO4)2 (s) + ySiO2 (s) + zC (s) → P4 (g) + 6CaSiO3 (l) + 10CO (g)\n\nA soma dos coeficientes estequiométricos representados por x, y e z na equação da reação para obtenção de 1 mol de P4 é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "20."
+          },
+          {
+            "letra": "B",
+            "texto": "14."
+          },
+          {
+            "letra": "C",
+            "texto": "16."
+          },
+          {
+            "letra": "D",
+            "texto": "18."
+          },
+          {
+            "letra": "E",
+            "texto": "12."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Estequiometria",
+          "Química – Balanceamento de Equações"
+        ]
+      },
+      {
+        "numeroEnunciado": 55,
+        "enunciado": "As folhas de boldo (Peumus boldus M.) são utilizadas para a preparação de infusões recomendadas para alívio de desconfortos gástricos. O princípio ativo presente nas folhas de boldo é a boldina (C19H21O4N) e, em laboratório químico, essa substância é solubilizada, em temperatura ambiente, no solvente líquido dietilamina.\n\n(Estruturas químicas da boldina e da dietilamina.)\n\nA principal interação intermolecular que se estabelece entre a boldina e a dietilamina na solução é a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "interação dipolo permanente – dipolo permanente."
+          },
+          {
+            "letra": "B",
+            "texto": "interação íon – dipolo permanente."
+          },
+          {
+            "letra": "C",
+            "texto": "interação dipolo permanente – dipolo induzido."
+          },
+          {
+            "letra": "D",
+            "texto": "ligação de hidrogênio."
+          },
+          {
+            "letra": "E",
+            "texto": "ligação iônica."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Forças Intermoleculares",
+          "Química – Química Orgânica"
+        ]
+      },
+      {
+        "numeroEnunciado": 56,
+        "enunciado": "Em uma aula de química, 5 grupos de alunos realizaram um experimento que consistiu em reagir 1 g de ferro com 150 mL de solução de ácido clorídrico (HCl). Para o experimento foi empregado aço, que é uma liga do ferro. Essa reação ocorre de acordo com a equação química:\nFe (s) + 2HCl (aq) → FeCl2 (aq) + H2 (g)\n\nOs materiais disponibilizados para essa reação estão representados no quadro.\n\n(Quadro mostrando Lâminas de aço e Palha de aço como materiais, e Solução de HCl como reagente.)\n\nNa tabela são apresentadas as condições dos experimentos realizados pelos 5 grupos de alunos.\n\n(Tabela com Grupo, Amostra de ferro, Concentração da solução de HCl e Temperatura: Grupo 1 (Lâminas de aço, 6 mol/L, 30 °C), Grupo 2 (Lâminas de aço, 1 mol/L, 50 °C), Grupo 3 (Lâminas de aço, 0,5 mol/L, 40 °C), Grupo 4 (Palha de aço, 6 mol/L, 50 °C), Grupo 5 (Palha de aço, 1 mol/L, 30 °C).)\n\nO grupo cujo experimento se processou com maior rapidez é o de número",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "4."
+          },
+          {
+            "letra": "B",
+            "texto": "1."
+          },
+          {
+            "letra": "C",
+            "texto": "2."
+          },
+          {
+            "letra": "D",
+            "texto": "3."
+          },
+          {
+            "letra": "E",
+            "texto": "5."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Cinética Química",
+          "Química – Fatores que Afetam a Velocidade da Reação"
+        ]
+      },
+      {
+        "numeroEnunciado": 57,
+        "enunciado": "Determinado leite em pó, comercializado em embalagens com 200 g de produto, apresenta no rótulo a seguinte informação nutricional:\n\n25 g de leite em pó contém 228 mg de cálcio\n\nA quantidade de cálcio contida na massa total do leite em pó da embalagem é, aproximadamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2,3 × 10⁻³ mol."
+          },
+          {
+            "letra": "B",
+            "texto": "4,6 x 10⁻³ mol."
+          },
+          {
+            "letra": "C",
+            "texto": "4,6 × 10⁻² mol."
+          },
+          {
+            "letra": "D",
+            "texto": "2,3 x 10⁻² mol."
+          },
+          {
+            "letra": "E",
+            "texto": "5,7 x 10⁻³ mol."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Estequiometria",
+          "Química – Cálculos de Quantidade de Matéria"
+        ]
+      },
+      {
+        "numeroEnunciado": 58,
+        "enunciado": "Ao longo do ano de 2024 foram registradas cerca de 60 erupções vulcânicas em diversas partes da Terra. As erupções vulcânicas liberam uma variedade de gases que interagem com a umidade do ar e podem gerar compostos que resultam em chuva ácida. Um desses gases é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o monóxido de carbono, CO."
+          },
+          {
+            "letra": "B",
+            "texto": "o nitrogênio, N₂."
+          },
+          {
+            "letra": "C",
+            "texto": "a amônia, NH₃."
+          },
+          {
+            "letra": "D",
+            "texto": "o ozônio, O₃."
+          },
+          {
+            "letra": "E",
+            "texto": "o dióxido de enxofre, SO₂."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Química Ambiental",
+          "Geografia – Vulcanismo",
+          "Química – Chuva Ácida"
+        ]
+      },
+      {
+        "numeroEnunciado": 59,
+        "enunciado": "O método científico é uma abordagem sistemática utilizada para a investigação de fenômenos e aquisição de novos conhecimentos. Ele baseia-se em observações rigorosas e controladas, a partir das quais suposições são constantemente testadas por meio de experimentação e análise crítica. No contexto do método científico, o que deve ocorrer, sequencialmente, após a formulação de uma hipótese é a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "revisão da literatura científica existente."
+          },
+          {
+            "letra": "B",
+            "texto": "realização de experimentos e coleta de dados."
+          },
+          {
+            "letra": "C",
+            "texto": "observação de fenômenos naturais."
+          },
+          {
+            "letra": "D",
+            "texto": "publicação dos resultados em revistas científicas."
+          },
+          {
+            "letra": "E",
+            "texto": "definição do problema a ser investigado."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Filosofia – Método Científico",
+          "Biologia – Metodologia Científica"
+        ]
+      },
+      {
+        "numeroEnunciado": 60,
+        "enunciado": "A penicilina G (C₁₆H₁₈N₂O₄S) foi a primeira molécula empregada para a inibição do crescimento de bactérias. Sua fórmula estrutural é representada na figura.\n\n(Estrutura da penicilina G, com um átomo de enxofre (S) ligado a um carbono terciário e um carbono primário.)\n\nNa molécula da penicilina G há um heteroátomo que pertence ao grupo 16 da Classificação Periódica ligado a dois átomos de carbono que são classificados, respectivamente, como",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "primário e secundário."
+          },
+          {
+            "letra": "B",
+            "texto": "secundário e quaternário."
+          },
+          {
+            "letra": "C",
+            "texto": "secundário e terciário."
+          },
+          {
+            "letra": "D",
+            "texto": "terciário e quaternário."
+          },
+          {
+            "letra": "E",
+            "texto": "primário e terciário."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Química Orgânica",
+          "Química – Funções Orgânicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 61,
+        "enunciado": "Uma empresa de transportes mantém uma linha de ônibus que partem de um terminal e percorrem 30 km até retornar ao mesmo terminal, desenvolvendo, nesse percurso, a velocidade média de 20 km/h. Sabendo que o intervalo de tempo entre as saídas consecutivas de dois ônibus dessa linha é de 20 min, o número mínimo de ônibus que a empresa deve manter nessa linha para cumprir esse cronograma é de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "5."
+          },
+          {
+            "letra": "B",
+            "texto": "4."
+          },
+          {
+            "letra": "C",
+            "texto": "3."
+          },
+          {
+            "letra": "D",
+            "texto": "6."
+          },
+          {
+            "letra": "E",
+            "texto": "7."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Cinemática",
+          "Matemática – Razão e Proporção"
+        ]
+      },
+      {
+        "numeroEnunciado": 62,
+        "enunciado": "Analise o gráfico que apresenta, qualitativamente, a variação da velocidade vertical de um paraquedista a partir do instante em que ele salta do avião, o instante t = t₀.\n\n(Gráfico de velocidade vertical versus tempo para um paraquedista. A velocidade aumenta de t₀ para t₁ e se estabiliza em VL entre t₁ e t₂.)\n\nA componente vertical da resultante das forças que atuam sobre esse paraquedista",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "tem sentido para cima, entre os instantes t₀ e t₁."
+          },
+          {
+            "letra": "B",
+            "texto": "tem sentido para baixo, entre os instantes t₁ e t₂."
+          },
+          {
+            "letra": "C",
+            "texto": "tem sentido para cima, entre os instantes t₁ e t₂."
+          },
+          {
+            "letra": "D",
+            "texto": "é nula, entre os instantes t₁ e t₂."
+          },
+          {
+            "letra": "E",
+            "texto": "é nula, entre os instantes t₀ e t₁."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Dinâmica",
+          "Física – Forças",
+          "Física – Gravidade"
+        ]
+      },
+      {
+        "numeroEnunciado": 63,
+        "enunciado": "Considerando a Terra como uma esfera perfeita e homogênea, para que um satélite artificial descreva uma órbita circular ao redor desse planeta e mantenha constante o módulo da sua velocidade, a força gravitacional entre a Terra e esse satélite deve ser a resultante centrípeta sobre ele. Sendo G a constante de gravitação universal, M a massa da Terra, m a massa do satélite e R o raio da órbita desse satélite ao redor da Terra, a expressão que fornece o módulo da velocidade do satélite, em relação ao centro da Terra, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "V= G.M.m / R"
+          },
+          {
+            "letra": "B",
+            "texto": "V = √(2∙G∙M / R)"
+          },
+          {
+            "letra": "C",
+            "texto": "V = √(G∙M / R)"
+          },
+          {
+            "letra": "D",
+            "texto": "V = G∙M / R²"
+          },
+          {
+            "letra": "E",
+            "texto": "V = √(G∙M / 2∙R)"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Gravitação Universal",
+          "Física – Movimento Circular"
+        ]
+      },
+      {
+        "numeroEnunciado": 64,
+        "enunciado": "Uma fruta de peso 0,34 N flutua, em equilíbrio, nas águas calmas de um lago com 85% de seu volume submerso. Em dado instante, um peixe morde essa fruta e a puxa para dentro da água. A intensidade mínima da componente vertical da força que o peixe deve exercer sobre a fruta para afundá-la totalmente é de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,40 Ν."
+          },
+          {
+            "letra": "B",
+            "texto": "0,74 Ν."
+          },
+          {
+            "letra": "C",
+            "texto": "0,06 Ν."
+          },
+          {
+            "letra": "D",
+            "texto": "0,34 N."
+          },
+          {
+            "letra": "E",
+            "texto": "0,03 Ν."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Hidrostática",
+          "Física – Empuxo"
+        ]
+      },
+      {
+        "numeroEnunciado": 65,
+        "enunciado": "Ao se aquecer, em 200 °C, uma esfera de tungstênio, seu volume aumentou 0,27% em relação ao volume inicial. Nesse mesmo aquecimento, o diâmetro dessa esfera aumentou, em relação ao diâmetro inicial,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,03%."
+          },
+          {
+            "letra": "B",
+            "texto": "0,09%."
+          },
+          {
+            "letra": "C",
+            "texto": "0,13%."
+          },
+          {
+            "letra": "D",
+            "texto": "0,18%."
+          },
+          {
+            "letra": "E",
+            "texto": "0,27%."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Termologia",
+          "Física – Dilatação Térmica"
+        ]
+      },
+      {
+        "numeroEnunciado": 66,
+        "enunciado": "A figura mostra, em corte, um cilindro de volume constante e hermeticamente fechado por uma tampa fixa, o qual contém certa massa de gás ideal.\n\n(Diagrama de um cilindro com tampa fixa contendo um gás ideal, com rótulo P,V,T.)\n\nSabendo que a equação p . V = n R T relaciona as variáveis de estado pressão, volume e temperatura de um gás ideal, em que n é o número de mols desse gás e R é a constante universal dos gases ideais, a densidade do gás no interior desse cilindro",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "é constante."
+          },
+          {
+            "letra": "B",
+            "texto": "aumenta com o aumento da pressão."
+          },
+          {
+            "letra": "C",
+            "texto": "aumenta com o aumento da temperatura."
+          },
+          {
+            "letra": "D",
+            "texto": "diminui com o aumento da pressão."
+          },
+          {
+            "letra": "E",
+            "texto": "diminui com o aumento da temperatura."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Termodinâmica",
+          "Física – Gases Ideais"
+        ]
+      },
+      {
+        "numeroEnunciado": 67,
+        "enunciado": "Mariana (M) e Paula (P) conversam diante de um espelho plano vertical que cobre parte de uma parede, conforme mostra a figura, em uma visão de cima.\n\n(Diagrama de um espelho plano e pontos numerados 1 a 5, com observadora M e objeto P.)\n\nAo olhar para o espelho, Mariana vê a imagem de Paula na posição",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2."
+          },
+          {
+            "letra": "B",
+            "texto": "4."
+          },
+          {
+            "letra": "C",
+            "texto": "1."
+          },
+          {
+            "letra": "D",
+            "texto": "5."
+          },
+          {
+            "letra": "E",
+            "texto": "3."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Óptica Geométrica",
+          "Física – Espelhos Planos"
+        ]
+      },
+      {
+        "numeroEnunciado": 68,
+        "enunciado": "O compressor de determinada geladeira doméstica tem potência de 110 W. Sabendo que esse compressor consome 36,3 kWh de energia em um mês de 30 dias, o tempo médio que ele funciona em um dia é de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "8 h."
+          },
+          {
+            "letra": "B",
+            "texto": "12 h."
+          },
+          {
+            "letra": "C",
+            "texto": "9 h."
+          },
+          {
+            "letra": "D",
+            "texto": "11 h."
+          },
+          {
+            "letra": "E",
+            "texto": "10 h."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Eletrodinâmica",
+          "Física – Potência e Energia"
+        ]
+      },
+      {
+        "numeroEnunciado": 69,
+        "enunciado": "Ao penetrar, com velocidade v, em uma região na qual existe um campo magnético uniforme, um próton fica sujeito à ação de uma força magnética devida a esse campo. Considere que apenas essa força esteja agindo sobre o próton e que as direções da velocidade do próton e do campo magnético sejam perpendiculares entre si. A ação dessa força",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "altera tanto o módulo da velocidade do próton quanto a direção dessa velocidade."
+          },
+          {
+            "letra": "B",
+            "texto": "não altera o módulo da velocidade do próton nem a direção dessa velocidade."
+          },
+          {
+            "letra": "C",
+            "texto": "não altera o módulo da velocidade do próton, mas altera a direção dessa velocidade."
+          },
+          {
+            "letra": "D",
+            "texto": "diminui o módulo da velocidade do próton, mas não altera a direção dessa velocidade."
+          },
+          {
+            "letra": "E",
+            "texto": "aumenta o módulo da velocidade do próton, mas não altera a direção dessa velocidade."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Eletromagnetismo",
+          "Física – Força Magnética"
+        ]
+      },
+      {
+        "numeroEnunciado": 70,
+        "enunciado": "O transporte de energia por meio de radiação eletromagnética ocorre na forma de \"partículas\" de energia, denominadas fótons. A quantidade de energia de cada fóton, Ef, é dada pela expressão E = h . f, sendo f a frequência da radiação e h a constante de Planck, cujo valor é 6,6 × 10⁻³⁴ J.s. Ao incidir na superfície de certos materiais, esses fótons podem produzir a emissão de elétrons por essa superfície, mas, para que essa emissão ocorra, é necessário que o fóton transporte uma quantidade mínima de energia, a qual depende do material da superfície. Para uma superfície de potássio, a quantidade mínima de energia necessária para ocorrer a emissão de um elétron é de 3,5 × 10⁻¹⁹ J.\n\nA tabela mostra a frequência de cinco cores de luz que incidem em uma superfície de potássio.\n\n(Tabela com Cor e Frequência (10¹⁴ Hz): Vermelha (4,5), Laranja (5,0), Verde (5,5), Azul (6,5), Violeta (7,5).)\n\nAs cores das luzes cujos fótons transportam energia suficiente para produzir a emissão de elétrons ao incidirem em uma superfície de potássio são, apenas,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "violeta, azul e verde."
+          },
+          {
+            "letra": "B",
+            "texto": "violeta, azul, verde e laranja."
+          },
+          {
+            "letra": "C",
+            "texto": "violeta e azul."
+          },
+          {
+            "letra": "D",
+            "texto": "laranja e vermelha."
+          },
+          {
+            "letra": "E",
+            "texto": "verde, laranja e vermelha."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Física Moderna",
+          "Física – Efeito Fotoelétrico"
+        ]
+      },
+      {
+        "numeroEnunciado": 71,
+        "enunciado": "A tabela indica a relação candidato/vaga no processo seletivo de acesso à pós-graduação de quatro cursos de uma universidade:\n\n(Tabela com Curso, Número de vagas e Relação candidato/vaga: Medicina (4 vagas, 32,5 C/V), Engenharia (2 vagas, 31,5 C/V), Enfermagem (1 vaga, 2 C/V), Direito (5 vagas, 7 C/V).)\n\nDo total de candidatos que participaram do processo seletivo nesses quatro cursos, a porcentagem dos que participaram no curso de Engenharia ficou entre",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "27% e 28%."
+          },
+          {
+            "letra": "B",
+            "texto": "31% e 32%."
+          },
+          {
+            "letra": "C",
+            "texto": "16% e 17%."
+          },
+          {
+            "letra": "D",
+            "texto": "36% e 37%."
+          },
+          {
+            "letra": "E",
+            "texto": "43% e 44%."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Porcentagem",
+          "Matemática – Razão e Proporção"
+        ]
+      },
+      {
+        "numeroEnunciado": 72,
+        "enunciado": "A tabela indica a correspondência entre temperaturas nas escalas termométricas A, B e C. Sabe-se que tB = mtA + n e tC = ptA + q, com m, n, p e q sendo números reais.\n\n(Tabela com temperaturas nas escalas A, B e C: tA=4, tB=-1, tC=3,5; tA=10, tB=8, tC=8.)\n\nNas condições descritas, m + n + p + q é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "3."
+          },
+          {
+            "letra": "B",
+            "texto": "-2."
+          },
+          {
+            "letra": "C",
+            "texto": "-1."
+          },
+          {
+            "letra": "D",
+            "texto": "1."
+          },
+          {
+            "letra": "E",
+            "texto": "-3."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Termometria",
+          "Matemática – Sistemas Lineares"
+        ]
+      },
+      {
+        "numeroEnunciado": 73,
+        "enunciado": "Dez livros idênticos foram distribuídos entre as vendedoras Ana, Beatriz, Carmen e Dirce, de modo que: 1. nenhuma delas ficou sem ao menos um livro; 2. Ana e Beatriz ficaram, juntas, com o dobro do número de livros de Carmen. O número de maneiras diferentes que tal distribuição pode ser feita é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "6."
+          },
+          {
+            "letra": "B",
+            "texto": "8."
+          },
+          {
+            "letra": "C",
+            "texto": "10."
+          },
+          {
+            "letra": "D",
+            "texto": "9."
+          },
+          {
+            "letra": "E",
+            "texto": "5."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Combinatória",
+          "Matemática – Partições"
+        ]
+      },
+      {
+        "numeroEnunciado": 74,
+        "enunciado": "A figura indica um círculo de centro O e um quadrilátero convexo CAIO, com C, A e I sendo pontos pertencentes à circunferência desse círculo. Tal quadrilátero representa o percurso em terreno plano, sempre em linha reta, feito por Márcia, que foi de C até A, de A até I, de I até O e, por fim, de O até C. Os ângulos internos CÂI e IÔC desse quadrilátero medem, respectivamente, 108° e α.\n\n(Figura de um círculo com centro O, e pontos C, A, I na circunferência. O ângulo CÂI é 108°, e o ângulo IÔC é α.)\n\nNa condição descrita, α é igual a:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "162°"
+          },
+          {
+            "letra": "B",
+            "texto": "144°"
+          },
+          {
+            "letra": "C",
+            "texto": "154°"
+          },
+          {
+            "letra": "D",
+            "texto": "172°"
+          },
+          {
+            "letra": "E",
+            "texto": "152°"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Geometria Plana",
+          "Matemática – Círculo e Circunferência"
+        ]
+      },
+      {
+        "numeroEnunciado": 75,
+        "enunciado": "Analise o gráfico.\n\n(Gráfico de plano cartesiano com a bissetriz dos quadrantes ímpares (y=x) e um ponto P(2,8).)\n\nA distância entre o ponto P, de coordenadas (2, 8), e a bissetriz dos quadrantes ímpares no plano cartesiano de eixos ortogonais é igual a:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2√2"
+          },
+          {
+            "letra": "B",
+            "texto": "9/2"
+          },
+          {
+            "letra": "C",
+            "texto": "3√2 / 2"
+          },
+          {
+            "letra": "D",
+            "texto": "6"
+          },
+          {
+            "letra": "E",
+            "texto": "3√2"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Geometria Analítica",
+          "Matemática – Distância de Ponto a Reta"
+        ]
+      },
+      {
+        "numeroEnunciado": 76,
+        "enunciado": "Um elemento radioativo decai de modo que a quantidade restante f(t) do elemento após t segundos é dada por f(t) = 60 . 2⁻⁰˙⁰²ᵗ. Sendo assim, a diferença entre quantidades restantes desse elemento radioativo após 50 segundos e 150 segundos, na unidade de medida de f(t), será igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "22,5."
+          },
+          {
+            "letra": "B",
+            "texto": "15,0."
+          },
+          {
+            "letra": "C",
+            "texto": "36,0."
+          },
+          {
+            "letra": "D",
+            "texto": "18,5."
+          },
+          {
+            "letra": "E",
+            "texto": "12,5."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Funções Exponenciais",
+          "Física – Radioatividade"
+        ]
+      },
+      {
+        "numeroEnunciado": 77,
+        "enunciado": "A área total de um cilindro circular reto é numericamente igual ao seu volume. Se as medidas do raio da base e da altura desse cilindro são, em uma mesma unidade de medida, r e h, respectivamente, então r é igual a:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "h / (h-1)"
+          },
+          {
+            "letra": "B",
+            "texto": "2h / (2-h)"
+          },
+          {
+            "letra": "C",
+            "texto": "h / (1-h)"
+          },
+          {
+            "letra": "D",
+            "texto": "2h / (h-2)"
+          },
+          {
+            "letra": "E",
+            "texto": "h² / (h-2)"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Geometria Espacial",
+          "Matemática – Cilindro"
+        ]
+      },
+      {
+        "numeroEnunciado": 78,
+        "enunciado": "O reservatório de uma escola tem exatamente a quantidade necessária para o consumo dos seus 830 alunos durante 20 dias. Após 5 dias do início do uso da água desse reservatório, 20 novos alunos ingressaram na escola. Admitindo-se que apenas os alunos consomem a água desse reservatório e que todos os alunos consomem a mesma quantidade de água todos os dias, após o ingresso dos 20 novos alunos, o primeiro dia em que não haverá água suficiente para o consumo de todos os alunos na escola será o",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "16º"
+          },
+          {
+            "letra": "B",
+            "texto": "14º"
+          },
+          {
+            "letra": "C",
+            "texto": "12º"
+          },
+          {
+            "letra": "D",
+            "texto": "13º"
+          },
+          {
+            "letra": "E",
+            "texto": "15º"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Razão e Proporção",
+          "Matemática – Problemas Aritméticos"
+        ]
+      },
+      {
+        "numeroEnunciado": 79,
+        "enunciado": "Se o logaritmo de 7 na base 10 é igual a x e o logaritmo de 5 na base 10 é igual a y, então, o logaritmo de 14 na base 10 é igual a:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1+x-y"
+          },
+          {
+            "letra": "B",
+            "texto": "x-y / 2"
+          },
+          {
+            "letra": "C",
+            "texto": "-1+x+y"
+          },
+          {
+            "letra": "D",
+            "texto": "5(x-y) / 7"
+          },
+          {
+            "letra": "E",
+            "texto": "1-x+y"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Logaritmos"
+        ]
+      },
+      {
+        "numeroEnunciado": 80,
+        "enunciado": "O lucro L(x), em reais, de uma empresa em função do número x de empregados que nela trabalham é dado por L(x) = − x² + 820x. De acordo com tal modelo, o lucro máximo que essa empresa pode obter é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "R$ 168.100,00."
+          },
+          {
+            "letra": "B",
+            "texto": "R$ 336.200,00."
+          },
+          {
+            "letra": "C",
+            "texto": "R$ 164.000,00."
+          },
+          {
+            "letra": "D",
+            "texto": "R$ 84.050,00."
+          },
+          {
+            "letra": "E",
+            "texto": "R$ 328.000,00."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Funções Quadráticas",
+          "Matemática – Máximos e Mínimos"
+        ]
+      }
+    ]
+  }
+}
