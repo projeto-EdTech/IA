@@ -1,0 +1,1369 @@
+Ocorreu uma falha ao processar o JSON recebido da API.
+
+      Mensagem de Erro:
+      Expected ',' or '}' after property value in JSON at position 30179 (line 281 column 87)
+
+      ---
+
+      Resposta Bruta Recebida (que causou o erro):
+      ```json
+{
+  "analise_geral": {
+    "universidade_prova": "UNICAMP Vestibular",
+    "ano": 2019,
+    "quantidade_total_questoes": 90
+  },
+  "questoes": [
+    {
+      "numero_questao": 1,
+      "enunciado": "Há duas\nmaneiras\nde abrir\na cabeça\nde uma pessoa:\nLer um bom livro\nou usar\num machado.\nRecomendo\no de Assis. \"\nDilson de Oliveira Nunes\nKr\n(Disponível em https://www.facebook.com/Seboltinerante/photos/. Acessado em\n28/05/2018.)\n\"Acho que só devemos ler a espécie de livros que nos\nferem e trespassam. Um livro tem que ser como um\nmachado para quebrar o mar de gelo do bom senso e do\nsenso comum.\"\n(Adaptado de \"Franz Kafka, carta a Oscar Pollak, 1904.\" Disponível em\nhttps://laboratoriode sensibilidades.wordpress.com. Acessado em 28/05/2018.)\nAssinale o excerto que confirma os dois textos anteriores.",
+      "alternativas": {
+        "A": "A leitura é, fundamentalmente, processo político.\nAqueles que formam leitores, professores,\nbibliotecários desempenham um papel político.\n(Marisa Lajolo)",
+        "B": "Pelo que sabemos, quando há um esforço real de\nigualitarização, há aumento sensível do hábito de\nleitura, e portanto difusão crescente das obras.\n(Antonio Candido)",
+        "C": "Ler é abrir janelas, construir pontes que ligam o que\nsomos com 0 que tantos outros imaginaram,\npensaram, escreveram; ler é fazer-nos expandidos.\n(Gilberto Gil)",
+        "D": "A leitura é uma forma servil de sonhar. Se tenho de\nsonhar, por que não sonhar os meus próprios sonhos?\n(Fernando Pessoa)"
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numero_questao": 2,
+      "enunciado": "Há dois tipos de palavras: as proparoxítonas e o resto.\nAs proparoxítonas são o ápice da cadeia alimentar do\nléxico.\nAs palavras mais pernósticas são sempre proparoxítonas.\nPara pronunciá-las, há que ter ânimo, falar com ímpeto - e,\ndespóticas, ainda exigem acento na sílaba tônica!\nSob qualquer ângulo, a proparoxítona tem mais crédito.\nÉ inequívoca a diferença entre o arruaceiro e o vândalo.\nUma coisa é estar na ponta outra, no vértice.\nSer artesão não é nada, perto de ser artífice.\nLegal ser eleito Papa, mas bom mesmo é ser Pontífice.\n(Adaptado de Eduardo Affonso, \"Há dois tipos de palavras: as proparoxítonas e\no resto\". Disponível em www.facebook.com/eduardo22affonso/.)\nSegundo o texto, as proparoxítonas são palavras que",
+      "alternativas": {
+        "A": "garantem sua pronúncia graças à exigência de uma\nsílaba tônica.",
+        "B": "conferem nobreza ao léxico da língua graças à\nfacilidade de sua pronúncia.",
+        "C": "revelam mais prestígio em função de seu pouco uso e\nde sua dupla acentuação.",
+        "D": "exibem sempre sua prepotência, além de imporem a\nobrigatoriedade da acentuação."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Fonética e Fonologia",
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numero_questao": 3,
+      "enunciado": "Na década de 1950, quando iniciava seu governo,\nJuscelino Kubitschek prometeu \"50 anos em 5\". Na\ncampanha do atual governo o slogan ficou assim: \"O Brasil\nvoltou, 20 anos em dois\". A 'tradução' não tinha como dar\ncerto; era como comparar vinho com água. E mais: havia\numa vírgula no meio do caminho. Na propaganda, apenas\numa vírgula impede que a leitura, ao invés de ser positiva e\nassociada ao progressismo de Juscelino, se transforme\nnuma mensagem de retrocesso: o Brasil de fato 'voltou'\nmuito nesses últimos dois anos; para trás.\n(Adaptado de Lilia Schwarcz, Havia uma vírgula no meio do caminho. Nexo\nJornal, 21/05/2018.)\nConsiderando o gênero propaganda institucional e o\nparalelo histórico traçado pela autora, é correto afirmar que\no slogan do atual governo fracassou porque",
+      "alternativas": {
+        "A": "o uso da vírgula provocou uma leitura negativa do\ntrecho que alude ao slogan da década de 1950.",
+        "B": "a mensagem projetada pelo slogan anterior era mais\nclara, direta, e não exigia o uso da vírgula.",
+        "C": "a alusão ao slogan anterior afasta o público jovem e\nprovoca a perda de seu poder persuasivo.",
+        "D": "o duplo sentido do verbo \"voltar\" gerou uma\nmensagem que se afasta daquela projetada pelo\nslogan anterior."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numero_questao": 4,
+      "enunciado": "Alguns pesquisadores falam sobre a necessidade de um\n\"letramento racial\", para \"reeducar o indivíduo em uma\nperspectiva antirracista\", baseado em fundamentos como o\nreconhecimento de privilégios, do racismo como um\nproblema social atual, não apenas legado histórico, e a\ncapacidade de interpretar as práticas racializadas. Ouvir é\nsempre a primeira orientação dada por qualquer\nespecialista ou ativista: uma escuta atenta, sincera e\nempática. Luciana Alves, educadora da Unifesp, afirma que\n\"Uma das principais coisas é atenção à linguagem. A gente\ntem uma linguagem sexista, racista, homofóbica, que\npassa pelas piadas e pelo uso de termos que a gente já\nnaturalizou. 'A coisa tá preta', 'denegrir', 'serviço de preto'...\nSó o fato de você prestar atenção na linguagem já anuncia\numa postura de reconstrução. Se o outro diz que tem uma\ncarga negativa e ofensiva, acredite\".\n(Adaptado de Gente branca: o que os brancos de um país racista podem fazer\npela igualdade além de não serem racistas. UOL, 21/05/2018)\nSegundo Luciana Alves, para combater o racismo e mudar\nde postura em relação a ele, é fundamental",
+      "alternativas": {
+        "A": "ouvir com atenção os discursos e orientações de\nespecialistas e ativistas.",
+        "B": "reconhecer expressões racistas existentes em práticas\nnaturalizadas.",
+        "C": "passar por um \"letramento racial” que dispense o\nlegado histórico.",
+        "D": "prestar atenção às práticas históricas e às orientações\nda educadora."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Sociologia – Racismo e Desigualdade Social"
+      ]
+    },
+    {
+      "numero_questao": 5,
+      "enunciado": "Leia o texto a seguir, publicado no Instagram e em um livro\ndo @akapoeta João Doederlein.\nestrela (s.f.)\né quem, feito catapora, se multiplicou no céu,\ndiria Carpinejar. são as manchas que o universo\nnão tem vergonha de mostrar. são as pintas\nnas suas costas e as sardas no seu rosto. são as\nmemórias de quem já partiu. é onde escreve o\ndestino.\né o brilho particular que algumas pessoas\ncarregam no olhar.\n(João Doederlein, O livro dos ressignificados. São Paulo: Paralela, 2017, p. 17.)\nA ressignificação de estrela ocorre porque o verbete\napresenta",
+      "alternativas": {
+        "A": "diversas acepções dessa palavra de modo amplo,\nliteral e descritivo.",
+        "B": "cinco definições da palavra relativas à realidade e uma\ndefinição figurada.",
+        "C": "vários contextos de uso que evidenciam o caráter\nexpositivo do gênero verbete.",
+        "D": "uma entrada formal de dicionário e acepções que\nexpressam visões particulares."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numero_questao": 6,
+      "enunciado": "Uma página do Facebook faz humor com montagens que\ncombinam capas de livros já publicados e memes que\ncirculam nas redes sociais. Uma dessas postagens envolve\na obra de Henry Thoreau, para quem a desobediência civil\né uma forma de protesto legítima contra leis ou atos\ngovernamentais considerados injustos pelo cidadão e que\nponham em risco a democracia.\nHenry David Thoreau\nA DESOBEDIÊNCIA\nDiana Magalhães\n29/05 ás 16:14-\nCIVIL\n0\nMiguel desenhou na parede e todo\nmundo já caiu em cima questionando\nele, porque caderno ele tem. A\njustificativa dele para ter desenhado\nali foi que não tem como desenhar no\npapel \" pq a dona aranha subiu pela\nparede, não pelo papel\". Realmente.\nMis\nL&PM POCKET\n(Fonte: Página de Facebook Obras Literárias com capas de memes\ngenuinamente brasileiros.)\nO efeito de humor aqui se deve ao fato de que a montagem",
+      "alternativas": {
+        "A": "refuta as razões para a desobediência civil com base\nna desculpa apresentada pela criança.",
+        "B": "antecipa uma possível avaliação negativa da\ndesobediência sustentada pelo livro.",
+        "C": "equipara as razões da desobediência civil à justificativa\napresentada pela criança.",
+        "D": "contesta a legitimidade da desobediência civil\ndefendida por Thoreau."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numero_questao": 7,
+      "enunciado": "Para driblar a censura imposta pela ditadura militar,\ncompositores de música popular brasileira (MPB) valiam-se\ndo que Gilberto Vasconcelos chamou de \"linguagem da\nfresta\", expressão inspirada na canção “Festa imodesta\",\nde Caetano Veloso.\n(...)\nNuma festa imodesta como esta\nVamos homenagear\nTodo aquele que nos empresta sua testa\nConstruindo coisas pra se cantar\nTudo aquilo que o malandro pronuncia\nE que o otário silencia\nToda festa que se dá ou não se dá\nPassa pela fresta da cesta e resta a vida.\nAcima do coração que sofre com razão\nA razão que volta do coração\nE acima da razão a rima\nE acima da rima a nota da canção\nBemol natural sustenida no ar\nViva aquele que se presta a esta ocupação\nSalve o compositor popular\n(Gilberto de Vasconcelos, Música popular: de olho na fresta. Rio de Janeiro:\nGraal, 1977.)\nÉ correto afirmar que, na canção, essa “linguagem da\nfresta\" transparece",
+      "alternativas": {
+        "A": "na contradição entre \"festa\" e \"fresta\", que funciona\ncomo crítica ao malandro.",
+        "B": "na repetição de palavras com pronúncia semelhante\npara louvar a MPB.",
+        "C": "na referência à \"fresta” como forma de o compositor se\npronunciar.",
+        "D": "na incoerência da rima entre \"festa\" e \"imodesta\" para\nprestigiar o compositor."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numero_questao": 8,
+      "enunciado": "\"Um cego me levou ao pior de mim mesma, pensou\nespantada. Sentia-se banida porque nenhum pobre beberia\nágua nas suas mãos ardentes. Ah! era mais fácil ser um\nsanto que uma pessoa! Por Deus, pois não fora verdadeira\na piedade que sondara no seu coração as águas mais\nprofundas? Mas era uma piedade de leão.”\n(Clarice Lispector, \"Amor\", em Laços de família. 20ª ed. Rio de Janeiro:\nFrancisco Alves, 1990, p. 39.)\nAo caracterizar a personagem Ana, a expressão \"piedade\nde leão\" reúne valores opostos, remetendo\nsimultaneamente à compaixão e à ferocidade. É correto\nafirmar que, no conto \"Amor\", essa formulação",
+      "alternativas": {
+        "A": "revela um embate de natureza social, já que a pobreza\ndo cego causa náuseas na personagem.",
+        "B": "expressa o dilema cristão da alma pecadora diante de\nsua incapacidade de fazer o bem.",
+        "C": "indica um conflito psicológico, uma vez que a\npersonagem não se sente capaz de amar.",
+        "D": "alude a um contraste moral e existencial que provoca\nna personagem um sentimento de angústia."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Análise Literária",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numero_questao": 9,
+      "enunciado": "\"...Nas ruas e casas comerciais já se vê as faixas indicando\nos nomes dos futuros deputados. Alguns nomes já são\nconhecidos. São reincidentes que já foram preteridos nas\nurnas. Mas o povo não está interessado nas eleições, que\né o cavalo de Troia que aparece de quatro em quatro\nanos.\"\n(Carolina Maria de Jesus, Quarto de despejo. São Paulo: Ática, 2014, p. 43.)\nO trecho anterior faz parte das considerações políticas que\naparecem repetidamente em Quarto de despejo, de\nCarolina Maria de Jesus. Considerando o conjunto dessas\nobservações, indique a alternativa que resume de modo\nadequado a posição da autora sobre a lógica política das\neleições.",
+      "alternativas": {
+        "A": "Por meio das eleições, políticos de determinados\npartidos acabam se perpetuando no exercício do\npoder.",
+        "B": "Os políticos se aproximam do povo e, depois das\neleições, se esquecem dos compromissos assumidos.",
+        "C": "Os políticos preteridos são aqueles que acabam\nvencendo as eleições, por força de sua persistência.",
+        "D": "Graças ao desinteresse do povo, os políticos se\napropriam do Estado, contrariando a própria\ndemocracia."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Sociologia – Cidadania e Participação Política"
+      ]
+    },
+    {
+      "numero_questao": 10,
+      "enunciado": "(...)\nEu tenho uma ideia.\nEu não tenho a menor ideia.\nUma frase em cada linha. Um golpe de exercício.\nMemórias de Copacabana. Santa Clara às três da tarde.\nAutobiografia. Não, biografia.\nMulher.\nPapai Noel e os marcianos.\nBilly the Kid versus Drácula.\nDrácula versus Billy the Kid.\nMuito sentimental.\nAgora pouco sentimental.\nPensa no seu amor de hoje que sempre dura menos que o\namor de ontem.\nGertrude: estas são ideias bem comuns.\nApresenta a jazz-band.\nNão, toca blues com ela.\nEsta é a minha vida.\nAtravessa a ponte.\n(...)\nseu]\n(Ana Cristina Cesar, A teus pés. São Paulo: Companhia das Letras, 2016, p. 9.)",
+      "alternativas": {
+        "A": "expressa nostalgia do passado, visto que mobiliza\nreferências à cultura pop dos anos 1970.",
+        "B": "requisita a participação do leitor, já que as referências\nbiográficas são fragmentárias.",
+        "C": "exclui a dimensão biográfica, pois se refere a\npersonagens imaginários e de ficção.",
+        "D": "tematiza a descrença na poesia, uma vez que a poeta\nse contradiz continuamente."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Análise Literária",
+        "Língua Portuguesa – Gêneros Poéticos"
+      ]
+    },
+    {
+      "numero_questao": 11,
+      "enunciado": "\"DOROTÉA\nO senhor perdeu a cabeça?\nDULCINÉA\nFazer de um cangaceiro um delegado!\nDOROTÉA\nQuando a oposição souber!\nDULCINÉA\nQue prato pra Neco Pedreira!\nODORICO\nE tomara que Neco se sirva bem dele. Tomara que chame\nZeca Diabo de cangaceiro, assassino, quanto mais xingar,\nmelhor.\nDOROTÉA\nO senhor não acha que se excedeu?\nODORICO\nEm política, dona Dorotéa, os finalmentes justificam os não\nobstantes.\"\n(Dias Gomes, O bem-amado. Rio de Janeiro: Bertrand Brasil, 2014. p. 69-70.)\nAs personagens femininas do excerto anterior discordam\nda nomeação de Zeca Diabo feita por Odorico. Assinale a\nalternativa que indica a razão dessa discordância e a\nnatureza da crítica às práticas políticas brasileiras presente\nna peça teatral de Dias Gomes.",
+      "alternativas": {
+        "A": "Segundo as personagens, Zeca Diabo não possui os\natributos necessários para o cargo. Critica-se uma\nsociedade que desconsidera a meritocracia.",
+        "B": "As práticas políticas são desconhecidas pelas\npersonagens. A ingenuidade do cidadão e a astúcia\nnecessária dos políticos são criticadas na fala delas e\nde Odorico.",
+        "C": "Dulcinéa e Dorotéa não simpatizam com Zeca Diabo, ο\nque indica que a peça faz uma crítica às relações\nsociais presididas por afetos e interesses privados.",
+        "D": "Dulcinéa e Dorotéa não admitem que alguém fora da\nlei possa cuidar da ordem da cidade. Criticam-se os\natos de um poder executivo que se orienta por um\nprojeto pessoal de poder."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Sociologia – Política e Poder"
+      ]
+    },
+    {
+      "numero_questao": 12,
+      "enunciado": "Sobre as representações históricas da morte no Ocidente,\nPhilippe Ariès e Alcir Pécora comentam:\n\"O moribundo está deitado, cercado por seus amigos e\nfamiliares. Está prestes a executar os ritos que bem\nconhecemos. (...) Seres sobrenaturais invadiram o quarto e se\ncomprimem na cabeceira do 'jacente'. A grande reunião que\nnos séculos XII e XIII tinha lugar no final dos tempos se faz,\nentão, a partir do século XV, no quarto do enfermo.\"\n(Philippe Ariès, História da morte no Ocidente: da Idade Média aos nossos dias.\nRio de Janeiro: Nova Fronteira, 2012, p. 53.)\n\"(...) essa espécie de arte de morrer de Vieira se opõe à\ntradição das artes moriendi fundadas na preparação para a\n'última prova' que acontece apenas no quarto do moribundo.\nNão é mais lá que se decide a salvação ou a condenação do\ncristão, mas no exato momento de suas escolhas e ações ao\nlongo da vida, vale dizer, na resolução adequada a ser tomada\nhic et nunc (aqui e agora).\"\n(Alcir Pécora, A arte de morrer, segundo Vieira, em Antonio Vieira, Sermões de\nquarta-feira de cinza. Campinas, SP: Editora da Unicamp, 2016. p.51.)\nCom base nos excertos anteriores e na leitura dos três\nSermões de Quarta-feira de Cinza, assinale a alternativa\ncorreta.",
+      "alternativas": {
+        "A": "Em Ariès, a salvação ou danação ocorre no quarto do\nmoribundo, mas nos sermões de Vieira é a atenção ao\nmomento presente e a decisão correta que importam\npara o cristão.",
+        "B": "A afirmação de Alcir Pécora é válida somente para o\nprimeiro sermão, pois os dois últimos sermões\nretomam o tema do fim dos tempos e da agonia do\nmoribundo para a fé cristã.",
+        "C": "Segundo Ariès, o drama da salvação se dá na imagem\ndo quarto do moribundo. Essa imagem é decisiva para\na compreensão do terceiro sermão.",
+        "D": "Para Alcir Pécora, o que distingue os sermões de\nVieira dos discursos sobre a morte nesse período é a\nênfase do padre jesuíta na ação futura."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Análise Literária",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numero_questao": 13,
+      "enunciado": "\"Picado pelo ciúme, abriu o ourives seu peito à órfã,\nofereceu-lhe a mão, e uma pulseira de brilhantes nela, com\na condição de me esquecer.\nLeontina disse que sim, cuidando que mentia; mas\npassados oito dias admirou-se de ter dito a verdade. Nunca\nmais soube de mim, nem eu dela; até que, um ano depois,\na criada, que a servia, me contou que a menina casara\ncom o padrinho e que as enteadas, coagidas pelo pai, se\ntinham ido para o recolhimento do Grilo com uma pequena\nmesada e a esperança de ficarem pobres. Não sei mais\nnada a respeito da primeira das sete mulheres que amei,\nem Lisboa.\"\n(Camilo Castelo Branco, Coração, cabeça e estômago, p. 4. Disponível em\nwww.dominiopublico.gov.br. Acessado em 20/05/2018.)\nO excerto anterior apresenta uma síntese acerca do\nprimeiro dos setes amores da personagem Silvestre da\nSilva. Considere essa experiência amorosa no contexto da\nprimeira parte da narrativa e assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A mulher é idealizada em cada caso relatado, não\nhavendo espaço para uma ótica realista.",
+        "B": "A experiência amorosa recebe tratamento solene e\nsublime por parte das personagens.",
+        "C": "A personagem masculina se caracteriza pelo interesse\nsexual; a feminina, pela devoção ao marido.",
+        "D": "O protagonista da narrativa se frustra em sua crença\namorosa a cada vez que se apaixona."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Análise Literária",
+        "Língua Portuguesa – Narrativa"
+      ]
+    },
+    {
+      "numero_questao": 14,
+      "enunciado": "\"A noção de programa genético (...) desempenhou um\npapel importante no lançamento do Projeto Genoma\nHumano, fazendo com que se acreditasse que a decifração\nde um genoma, à maneira de um livro com instruções de\num longo programa, permitiria decifrar ou compreender\ntoda a natureza humana ou, no mínimo, o essencial dos\nmecanismos de ocorrência das doenças. Em suma, a\nfisiopatologia poderia ser reduzida à genética, já que toda\ndoença seria reduzida a um ou diversos erros de\nprogramação, isto é, à alteração de um ou diversos genes”.\n(Edgar Morin, A religação dos saberes: o desafio do século XXI. Jornadas\ntemáticas idealizadas e dirigidas por Edgar Morin. Rio de Janeiro: Bertrand\nBrasil Ltda, 2012, p. 157.)\nA expressão programa genético, mencionada no trecho\nanterior, é",
+      "alternativas": {
+        "A": "uma\nalegoria, pois sintetiza OS mecanismos\nmoleculares subjacentes ao funcionamento dos genes\ne dos cromossomos no contexto ficcional de um\nprograma de computador.",
+        "B": "uma analogia, pois diferencia OS mecanismos\nmoleculares subjacentes ao código genético e ao\nfuncionamento dos cromossomos dos códigos de um\nprograma de computador.",
+        "C": "uma metáfora, pois iguala toda a informação genética\ne OS mecanismos moleculares subjacentes ao\nfuncionamento e expressão dos genes com as\ninstruções e os comandos de um programa.",
+        "D": "uma analogia, pois contrasta OS mecanismos\nmoleculares dos genes nos cromossomos e das\ndoenças causadas por eles com as linhas de comando\nde um programa de computador."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numero_questao": 15,
+      "enunciado": "Na opinião de Klaus R. Mecke, professor no Instituto de\nFísica Teórica da Universidade de Stuttgart, Alemanha, o\nuso da linguagem da física na literatura obedeceria ao\nseguinte propósito:\nUma função literária central da fórmula seria simbolizar a\nviolência. A fórmula torna-se metáfora para a violência,\npara o calculismo desumano, para a morte e para a fria\nmecânica - para o golpe de força. Recorde-se também O\nPêndulo de Foucault, de Umberto Eco, em que a fórmula\ndo pêndulo caracteriza o estrangulamento de um ser\nhumano. Passo a citar: “O período de oscilação, T, é\nindependente da massa do corpo suspenso (igualdade de\ntodos os homens perante Deus)...”. Também aqui a\nfórmula constitui uma referência irônica à marginalização\ndo sujeito, reduzido à \"massa inerte\" suspensa.\n(Adaptado de Klaus R. Mecke, A imagem da Física na Literatura. Gazeta de\nFísica, 2004, p. 6-7.)\nSegundo Mecke, a função literária de algumas noções da\nFísica, presentes em determinados romances, expressa",
+      "alternativas": {
+        "A": "a falta de liberdade do sujeito nas relações sociais,\nmas o uso da independência do período do pêndulo\nsimples com a massa do corpo suspenso, feito por\nUmberto Eco, está incorreto.",
+        "B": "a revogação parcial das leis da natureza, e o uso da\nindependência do período do pêndulo simples com a\nmassa do corpo suspenso, feito por Umberto Eco, está\ncorreto.",
+        "C": "a concordância quanto ao modo como representamos\na natureza, mas o uso da independência do período do\npêndulo simples com a massa do corpo suspenso,\nfeito por Umberto Eco, está incorreto.",
+        "D": "a privação da liberdade do ser humano, e o uso da\nindependência do período do pêndulo simples com a\nmassa do corpo suspenso, feito por Umberto Eco, está\ncorreto."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Análise Literária"
+      ]
+    },
+    {
+      "numero_questao": 16,
+      "enunciado": "Em 1961, o poeta António Gedeão publica o livro Máquina\nde Fogo. Um dos poemas é \"Lágrima de Preta\". Musicado\npor José Niza, foi gravado por Adriano Correia de Oliveira,\nem 1970, e incluído no seu álbum \"Cantaremos\". A canção\nfoi censurada pelo governo português.\nLágrima de preta\nEncontrei uma preta\nque estava a chorar,\npedi-lhe uma lágrima\npara a analisar.\nRecolhi a lágrima\ncom todo o cuidado\nnum tubo de ensaio\nbem esterilizado.\nOlhei-a de um lado,\ndo outro e de frente:\ntinha um ar de gota\nmuito transparente.\nMandei vir os ácidos,\nas bases e os sais,\nas drogas usadas\nem casos que tais.\nEnsaiei a frio,\nexperimentei ao lume,\nde todas as vezes\ndeu-me o que é\ncostume:\nNem sinais de negro,\nnem vestígios de ódio.\nÁgua (quase tudo)\ne cloreto de sódio.\n(António Gedeão, Máquina de\nfogo. Coimbra: Tipografia da\nAtlântida, 1961, p. 187.)\nOs versos anteriores articulam as linguagens literária e\ncientífica com questões de ordem ética e política.\nConsiderando o contexto de produção e recepção de\n\"Lágrima de Preta\" (anos 1960 e 1970, em Portugal), o\npropósito artístico desse poema é",
+      "alternativas": {
+        "A": "inadequado quanto à análise social, ao refutar que\nhaja racismo e preconceito na sociedade, e incorreto\nno aspecto científico, ao descrever as propriedades\nquímicas de uma lágrima.",
+        "B": "inadequado quanto à análise social, ao refutar a\nexistência de racismo e preconceito na sociedade, mas\ncorreto no aspecto científico, ao descrever as\npropriedades químicas de uma lágrima.",
+        "C": "pertinente quanto à análise social, ao registrar o\nracismo e a preconceito na sociedade, e correto no\naspecto científico, ao descrever as propriedades\nquímicas de uma lágrima.",
+        "D": "pertinente quanto à análise social, ao registrar o\npreconceito e o racismo na sociedade, mas incorreto\nno aspecto científico, ao descrever as propriedades\nquímicas de uma lágrima."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Sociologia – Racismo e Preconceito"
+      ]
+    },
+    {
+      "numero_questao": 17,
+      "enunciado": "O refluxo gastroesofágico é o retorno do conteúdo do\nestômago para o esôfago, em direção à boca, podendo\ncausar dor e inflamação. A pHmetria esofágica de longa\nduração é um dos exames que permitem avaliar essa\ndoença, baseando-se em um resultado como o que é\nmostrado a seguir.\nHd\n3 4 5 6 7\n2\n1\n10:00\n15:00\n20:00\nHorário\n01:00\n06:00\nDados: O pH normal no esôfago mantém-se em torno de 4\ne o pH da saliva entre 6,8-7,2.\nAssim, episódios de refluxo gastroesofágico acontecem\nquando o valor de pH medido é",
+      "alternativas": {
+        "A": "menor que 4; no exemplo dado eles ocorreram com\nmaior frequência durante o dia.",
+        "B": "maior que 4; no exemplo dado eles ocorreram com\nmaior frequência à noite.",
+        "C": "menor que 4; no exemplo eles não ocorreram nem\ndurante o dia nem à noite.",
+        "D": "maior que 4; no exemplo eles ocorreram durante o\nperíodo do exame."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Interpretação de Gráficos"
+      ]
+    },
+    {
+      "numero_questao": 18,
+      "enunciado": "Dois estudantes, de massa corporal em torno de 75 kg, da\nUniversidade de Northumbria, no Reino Unido, quase\nmorreram ao participar de um experimento científico no\nqual seriam submetidos a determinada dose de cafeína e a\num teste físico posterior. Por um erro técnico, ambos\nreceberam uma dose de cafeína 100 vezes maior que a\ndose planejada. A dose planejada era de 0,3 g de cafeína,\nequivalente a três xícaras de café. Sabe-se que a União\nEuropeia, onde o teste ocorreu, classifica a toxicidade de\numa dada substância conforme tabela a seguir.\nCategoria\nmuito tóxica\ntóxica\nnociva\nDL50 (mg/kg de massa corporal)\nmenor que 25\nde 25 a 200\nde 200 a 2000\nConsiderando que a DL50 - dose necessária de uma dada\nsubstância para matar 50% de uma população – da cafeína\né de 192 mg/kg, no teste realizado a dose aplicada foi\ncerca de",
+      "alternativas": {
+        "A": "100 vezes maior que a DL50 da cafeína, substância\nque deve ser classificada como nociva.",
+        "B": "duas vezes maior que a DL50 da cafeína, substância\nque deve ser classificada como tóxica.",
+        "C": "100 vezes maior que a DL50 da cafeína, substância\nque deve ser classificada como tóxica.",
+        "D": "duas vezes maior que a DL50 da cafeína, substância\nque deve ser classificada como nociva."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Química – Toxicologia",
+        "Química – Cálculos Estequiométricos"
+      ]
+    },
+    {
+      "numero_questao": 19,
+      "enunciado": "Fake News ou não? Hoje em dia, a disponibilidade de\ninformações é muito grande, mas precisamos saber\ninterpretá-las corretamente. Um artigo na internet tem o\nseguinte título: “Glutamato monossódico, o sabor que\nmata!\". Em determinado ponto do texto, afirma-se:\n“Só para você ter ideia dos riscos, organizações\ninternacionais de saúde indicam que a ingestão diária de\nsódio para cada pessoa seja de 2,3 gramas. O glutamato é\ncomposto por 21% de sódio e, com certeza, não será o\núnico tempero a ser acrescentado ao seu almoço ou jantar.\nAlém disso, o realçador (glutamato) só conta um terço do\nnutriente que é encontrado no sal de cozinha.\"\nDados de massas molares em g·mol¹: sódio = 23, cloreto =\n35,5, glutamato monossódico = 169.\nPara tornar a argumentação do artigo mais consistente do\nponto de vista químico, você sugeriria a seguinte reescrita\ndos trechos destacados:\nc) \"A porcentagem em massa de sódio no realçador\n(glutamato) é de 11,2%.”; \"Por outro lado, o realçador\nconta com cerca de um terço do nutriente que é\nencontrado no sal de cozinha.\".\nd) \"A porcentagem em massa de sódio no realçador\n(glutamato) é de 21,0%.”; “Além disso, o realçador contém\ncerca de três vezes mais nutriente do que o encontrado\nno sal de cozinha.\".",
+      "alternativas": {
+        "A": "\"A porcentagem em massa de sódio no realçador\n(glutamato) é de 13,6%."; "Por outro lado, o realçador só\nconta com cerca de um terço do nutriente que é\nencontrado no sal de cozinha.\".",
+        "B": "\"A porcentagem em massa de sódio no realçador\n(glutamato) é de 39,3%."; "Além disso, o realçador contém\ncerca de três vezes mais nutriente do que o encontrado\nno sal de cozinha.\".",
+        "C": "\"A porcentagem em massa de sódio no realçador\n(glutamato) é de 11,2%.”; \"Por outro lado, o realçador\nconta com cerca de um terço do nutriente que é\nencontrado no sal de cozinha.\".",
+        "D": "\"A porcentagem em massa de sódio no realçador\n(glutamato) é de 21,0%.”; “Além disso, o realçador contém\ncerca de três vezes mais nutriente do que o encontrado\nno sal de cozinha.\"."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Química – Estequiometria",
+        "Química – Química dos Alimentos"
+      ]
+    },
+    {
+      "numero_questao": 20,
+      "enunciado": "De tempos em tempos, o mundo se choca com notícias\nsobre o uso de armas químicas em conflitos. O sarin é um\ncomposto organofosforado líquido, insípido, incolor e\ninodoro, altamente volátil, que se transforma em gás\nquando exposto ao ar, sendo um dos principais alvos\ndessas notícias. Em 1955, um projeto confidencial do\nexército americano estudou a eficiência de hipoclorito na\neliminação de sarin em ambientes contaminados. A tabela\na seguir mostra alguns resultados obtidos nesse estudo.\npH [CIO] (milimol·L¯¹) t1/2 (min)\n5\n2,8\n96\n6\n2,8\n11\n7\n0,4\n13\n8\n0,04\n33\n9\n0,04\n18\nSendo t1/2 o tempo para a concentração do sarin cair à\nmetade, de acordo com a tabela a reação é mais rápida em",
+      "alternativas": {
+        "A": "maiores concentrações de hipoclorito, mas não há\nelementos suficientes para analisar a influência da\nacidez do meio reacional.",
+        "B": "menores concentrações de hipoclorito, mas não há\nelementos suficientes para analisar a influência da\nacidez do meio reacional.",
+        "C": "meios mais ácidos, mas não há elementos suficientes\npara analisar a influência da concentração do\nhipoclorito.",
+        "D": "meios menos ácidos, mas não há elementos\nsuficientes para analisar a influência da concentração\ndo hipoclorito."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Química – Cinética Química",
+        "Química – Interpretação de Dados"
+      ]
+    },
+    {
+      "numero_questao": 21,
+      "enunciado": "A adição de biodiesel ao diesel tradicional é uma medida\nvoltada para a diminuição das emissões de gases\npoluentes. Segundo um estudo da FIPE, graças a um\naumento no uso de biodiesel no Brasil, entre 2008 e 2011,\nevitou-se a emissão de 11 milhões de toneladas de CO2\n(gás carbônico).\n(Adaptado de Guilherme Profeta, \"Da cozinha para o seu carro: cúrcuma\nutilizada como aditivo de biodiesel\". Cruzeiro do Sul, 10/04/2018.)\nDados de massas molares em g·mol¯¹: H=1, C=12, O=16.\nConsiderando as informações dadas e levando em conta\nque o diesel pode ser caracterizado pela fórmula mínima\n(CnH2n), é correto afirmar que entre 2008 e 2011 o biodiesel\nsubstituiu aproximadamente",
+      "alternativas": {
+        "A": "3,5 milhões de toneladas de diesel.",
+        "B": "11 milhões de toneladas de diesel.",
+        "C": "22 milhões de toneladas de diesel.",
+        "D": "35 milhões de toneladas de diesel."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Química – Estequiometria",
+        "Química – Química Ambiental"
+      ]
+    },
+    {
+      "numero_questao": 22,
+      "enunciado": "Em um estudo científico, uma fina camada de um novo\nfiltro protetor solar foi exposta previamente à radiação UVA\ne UVB durante diferentes intervalos de tempo, testando-se\nem seguida a sua eficiência em barrar essa mesma\nradiação. A figura a seguir mostra apenas dois dos\nresultados obtidos no experimento, sendo uma das curvas\nreferente a uma exposição por 10 minutos e, a outra, a\numa exposição de 30 minutos.\n0\n0.2\nEficiência\n0.4\n0.6\n0.8\nB\nA\n0.0\n250\n300\n350\n400\nComprimento de onda (nm)\n450\nDe acordo com essa figura, na faixa de 300 a 320 nm, ao\ntriplicar o tempo de exposição prévia, o protetor apresentou\numa eficiência",
+      "alternativas": {
+        "A": "menor, e a curva A diz respeito aos 30 minutos de\nexposição prévia.",
+        "B": "menor, e a curva A diz respeito aos 10 minutos de\nexposição prévia.",
+        "C": "menor, e a curva B diz respeito aos 10 minutos de\nexposição prévia.",
+        "D": "maior, e a curva B diz respeito aos 30 minutos de\nexposição prévia."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Física – Óptica",
+        "Física – Interpretação de Gráficos"
+      ]
+    },
+    {
+      "numero_questao": 23,
+      "enunciado": "Episódios recentes de erupções vulcânicas têm trazido\nconsequências trágicas para a sociedade e para o meio\nambiente. Ativo desde 1983, o Vulcão Kilauea apresentou,\nem 2018, a sua maior erupção já registrada. Quase ao\nmesmo tempo, foi a vez do Vulcão Fuego da Guatemala\nmostrar sua força. No Kilauea não houve explosões, ao\ncontrário do que ocorreu no Fuego. Os especialistas\nafirmam que a ocorrência de uma erupção explosiva\ndepende da concentração e do tipo de gases dissolvidos\nno magma, como SO2, HF e HCI, além de vapor de água e\nCO2 aprisionados. A figura a seguir dá informações sobre a\nrelação entre quantidades (em mol) de SO2, HF e HCI no\nmagma de três vulcões distintos.\n100\nnSO2\nnHF\n10\n0.1\n0.1\n1\n10\nnSO2\nnHCI\n。 • Colima\n▲ Erta Ale\n+ Kilauea\n100\nDe acordo com a figura, em relação às quantidades de\ngases dissolvidos no magma, é correto afirmar que as\nconcentrações de SO2 são maiores que as de HF e de HCI",
+      "alternativas": {
+        "A": "nos três vulcões e, neles, HF e HCI são\naproximadamente iguais.",
+        "B": "em apenas dois vulcões e, neles, HF e HCI são\naproximadamente iguais.",
+        "C": "nos três vulcões, mas em apenas dois deles HF e HСІ\nsão aproximadamente iguais.",
+        "D": "em apenas dois vulcões, mas nos três vulcões HF e\nHCI são aproximadamente iguais."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Química – Química Ambiental",
+        "Química – Interpretação de Gráficos"
+      ]
+    },
+    {
+      "numero_questao": 24,
+      "enunciado": "Recentemente, o FDA aprovou nos EUA a primeira terapia\npara o tratamento da fenilcetonúria, doença que pode ser\nidentificada pelo teste do pezinho. Resumidamente, a\ndoença leva ao acúmulo de fenilalanina no corpo, já que\nela deixa de ser transformada em tirosina, em função da\ndeficiência da enzima fenilalanina hidroxilase (PAH). As\ncurvas do gráfico a seguir podem representar o processo\nmetabólico da conversão de fenilalanina em tirosina em\ndois indivíduos: um normal e outro que apresenta a\nfenilcetonúria.\nConcentração\n1\n2\nTempo\nConsiderando o gráfico e as características da doença, é\ncorreto afirmar que o eixo y corresponde à concentração\nde",
+      "alternativas": {
+        "A": "tirosina e a curva 1 pode ser correlacionada a um\nindivíduo que apresenta a fenilcetonúria.",
+        "B": "fenilalanina e a curva 1 pode ser correlacionada a um\nindivíduo que apresenta a fenilcetonúria.",
+        "C": "tirosina e a curva 2 pode ser correlacionada a um\nindivíduo que apresenta a fenilcetonúria.",
+        "D": "fenilalanina e a curva 2 pode ser correlacionada a um\nindivíduo que apresenta a fenilcetonúria."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Biologia – Genética",
+        "Biologia – Metabolismo",
+        "Biologia – Interpretação de Gráficos"
+      ]
+    },
+    {
+      "numero_questao": 25,
+      "enunciado": "Pesquisas mostram que a curcumina substância\nextraída da cúrcuma pode ser usada como\nfotossensibilizador na terapia fotodinâmica (TFD). Nessa\ntécnica, se houver absorção de luz pelo fotossensibilizador,\nque está na célula, ocorre reação com o oxigênio molecular\ngerando espécies químicas citotóxicas, que promovem a\noxidação de lipídios, aminoácidos e proteínas, levando à\nmorte celular. Deste modo, a TFD pode ser usada para o\ntratamento de câncer, lesões pré-malignas, etc. O gráfico a\nseguir mostra a intensidade de absorção de luz pela\ncurcumina e a intensidade de emissão de luz de dois\nLEDs, um vermelho e um branco, em função do\ncomprimento de onda da luz.\n(Adaptado de http://cepof.ifsc.usp.br/pesquisa/terapia-fotodinamica. Acessado\nem 15/07/2018.)\nIntensidade (un. arbtr.)\nLED branco\nLED vermelho\nAbsorção curcumina\n400\n600\n800\n1000\nComprimento de onda (nm)\nLevando em conta o gráfico e os princípios da TFD\napresentados no enunciado, para o uso de curcumina na\nTFD,",
+      "alternativas": {
+        "A": "somente o LED vermelho seria adequado.",
+        "B": "somente o LED branco seria adequado.",
+        "C": "os dois LEDs seriam adequados.",
+        "D": "nenhum dos LEDs seria adequado."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Química – Físico-Química",
+        "Química – Espectroscopia"
+      ]
+    },
+    {
+      "numero_questao": 26,
+      "enunciado": "10 PORTOS BRASILEIROS QUE MAIS EXPORTARAM\nPARA O MUNDO EM 2017\nRR\nVila do Conde\nAP\nItaqui\nAM\nPA\nMA\nCE\nRN\nPB\nPI\nPE\nTO\nSE\nBA\nVitória\nAC\nRO\nMT\nGO DE\nMG\nES\nSP\nRJ\nItaguaí\nPR\nAngra dos Reis\nSantos\nSC\nParanaguá\nRS\nSão Francisco do Sul\n(Adaptado\nMS\nde\nRio Grande\nANTAQ,\n2018.\nDisponível\nem\nhttp://antaq.gov.br/Portal/pdf/Portos Organizados.pdf. Acessado em 20/08/2018.)\nConsiderando o mapa anterior e seus conhecimentos\nsobre\nmercado externo brasileiro, componente\nfundamental da economia nacional, assinale a alternativa\nque associa corretamente um porto brasileiro, a principal\nmercadoria exportada e seu destino.",
+      "alternativas": {
+        "A": "Angra dos Reis: soja in natura, destinada\nprimordialmente ao mercado do leste europeu.",
+        "B": "Vitória: automóveis, destinados primordialmente ao\nmercado do Oriente Médio.",
+        "C": "Itaqui: minério de ferro, destinado primordialmente ao\nmercado asiático.",
+        "D": "Vila do Conde: motocicletas, destinadas\nprimordialmente ao mercado africano."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Geografia – Economia Brasileira",
+        "Geografia – Comércio Internacional",
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numero_questao": 27,
+      "enunciado": "ASSASSINATOS DE TRABALHADORES RURAIS\nNO BRASIL - 2003-2017\n100 73\n39 38 39\n50 61 70\n50\n28 28 25 34 29 36 34 36\n0\n2003\n2004\n2005\n2006\n2007\n2008\n2009\n2010\n2011\n2012\n2013\n2014\n2015\n2016\n2017\n■Assassinatos\n(Fonte: Centro de Documentação Dom Tomás Balduino – СРТ.)\nO gráfico a seguir mostra que o Brasil tem registrado, nos\núltimos anos, crescimento da violência no campo. Assinale\na alternativa que indica corretamente o que vem motivando\nesse fenômeno e em que região tem predominado esse\ntipo de ocorrência.",
+      "alternativas": {
+        "A": "A expulsão de agricultores familiares pelo avanço das\nculturas da cana-de-açúcar e do algodão tem gerado\nconflitos entre pequenos e grandes proprietários de\nterra; região Centro-Oeste.",
+        "B": "A fragmentação da propriedade em áreas de\ncolonização dirigida e a disputa pela posse da terra\nentre herdeiros vêm produzindo violência agrária;\nregião Norte.",
+        "C": "A rivalidade entre trabalhadores rurais e criadores\nextensivos de gado bovino no Pantanal e nas\nchapadas mato-grossenses tem resultado em violência\nagrária; região Centro-Oeste.",
+        "D": "A disputa da terra envolvendo grileiros contra\nposseiros em áreas de expansão de monocultivos e de\nprojetos de exploração mineral e madeireira tem\ngerado violência; região Norte."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Geografia – Geografia Agrária",
+        "Geografia – Conflitos Sociais no Campo"
+      ]
+    },
+    {
+      "numero_questao": 28,
+      "enunciado": "A figura a seguir retrata a variação latitudinal dos padrões\nespaciais de distribuição dos principais biomas terrestres.\nTEMPERATURA DECRESCENTE\nLat. 90°\nÁRTICO\nTUNDRA\nTAIGA\nSUBÁRTICO\nFLORESTA\nBOSQUE\nCHAPARRAL\nLATITUDE MÉDIA\nDESERTO\nPASTAGENS\nLat. 0°\nTROPICAL ÚMIDA\nFLORESTA DE\nMONÇÕES\nTROPICAL\nESPINHEIROS\nE ARBUSTOS\nSAVANA\nDESERTO\nPRECIPITAÇÃO DECRESCENTE\n(Fonte: James F. Petersen, Dorothy Sack e Robert E. Glabler, Fundamentos de\nGeografia Física. São Paulo: Cengage, 2015, р. 158.)\nConsidere a figura anterior e assinale a alternativa correta.",
+      "alternativas": {
+        "A": "As florestas têm um aumento na diversidade de suas\nespécies à medida que a precipitação aumenta e as\ntemperaturas apresentam declínio.",
+        "B": "Os desertos e as savanas ocorrem em todos os\ncontinentes, em áreas com temperaturas elevadas e\nbaixo volume de precipitação.",
+        "C": "A taiga apresenta espécies arbóreas de maior porte\nem razão da umidade proveniente das baixas pressões\nde médias latitudes do Hemisfério Norte.",
+        "D": "As savanas e as florestas de monções dependem da\nsazonalidade climática: invernos frios e chuvosos,\nverões quentes e secos."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Geografia – Biomas e Ecossistemas",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numero_questao": 29,
+      "enunciado": "Compreender a dinâmica de vazão dos rios é fundamental\npara o gerenciamento dos recursos hídricos, pois a\ncaptação de água atende a diferentes necessidades da\nsociedade e pode ser comprometida em caso de estiagem\nextrema. Os gráficos de Regime Fluvial a seguir mostram a\nvazão de dois rios brasileiros ao longo do ano.\nRegime Fluvial do Rio A\n900\n800\n700\n600\n500\n400\n300\n200\n100\n0\nJan Fev Mar Abr Mai Jun Jul Ago Set Out Nov Dez\nRegime Fluvial do Rio B\n350\n300\n250\n200\n150\n100\n50\n0\nJan Fev Mar Abr Mai Jun Jul Ago Set Out Nov Dez\n(Fonte: Agência Nacional de Águas, ANA.)\nConsiderando as informações dos gráficos e seus\nconhecimentos, assinale a alterativa correta.",
+      "alternativas": {
+        "A": "O volume correspondente à vazão dos dois rios é\nsimilar, e o volume de chuvas responsáveis pela\nrecarga desses cursos d'água é o mesmo.",
+        "B": "Os dois rios possibilitam, durante todo o ano, ο\nabastecimento humano, a geração de energia, a\nnavegação e a pesca.",
+        "C": "A captação de água nos rios A e B pode ocorrer\ndurante todo o ano, pois em ambos há excesso de\nágua no verão e deficit no inverno.",
+        "D": "Os rios apresentam regimes fluviais diferentes: o rio A\ncorresponde ao Regime Pluvial Tropical e o rio B\nrepresenta o Regime Pluvial Semiárido."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Geografia – Hidrografia",
+        "Geografia – Climatologia",
+        "Geografia – Interpretação de Gráficos"
+      ]
+    },
+    {
+      "numero_questao": 30,
+      "enunciado": "HABITAÇÃO - BRASIL E SÃO PAULO - 2015\n(em unidades de habitações)\n5.572.700\n6.350.010\n2.484.506\n2.343.370\n1.284.142\n1.246.664\n938.313\n905.100\nBrasil\nRegião Sudeste Estado de São\nPaulo\nRegião\nMetropolitana de\nSão Paulo\nDomicílios vagos em condições de serem ocupados e em\nconstrução em áreas urbanas\nDeficit habitacional urbano de domicílios\n(Fonte: Deficit Habitacional no Brasil, 2015. Belo Horizonte: Fundação João\nPinheiro, 2018.)\nCom base em seus conhecimentos e nos dados do gráfico,\nassinale a alternativa correta.",
+      "alternativas": {
+        "A": "O deficit habitacional no Brasil vem sendo enfrentado\ncom a construção de novos domicílios, o que tem\nresolvido satisfatoriamente a questão da moradia.",
+        "B": "Os dados do gráfico confirmam que, em qualquer área\ndo território brasileiro, há mais domicílios vagos em\ncondições de serem ocupados que deficit habitacional.",
+        "C": "É muito provável que todas as classes sociais\nmoradoras nas cidades no Brasil sejam igualmente\natingidas pelo fenômeno urbano de deficit habitacional.",
+        "D": "A correlação entre domicílios vagos e deficit\nhabitacional explica-se, em grande medida, pela\nespeculação imobiliária,\nmantém\nimóveis\nque\nfechados."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Problemas Sociais Urbanos"
+      ]
+    },
+    {
+      "numero_questao": 31,
+      "enunciado": "10° N\n15° N\n20° N\n25° N\n90° E\nButão\nÍndia\nBangladesh\nOceânico Índico\nTailândia\n95° E\n100° E\nChina\nMianmar\nLaos\n0\nVietnã\nCamboja\n25° N\n20° N\n15° N\n10° N\n90° E\n95° E\n100° E\n105° E\n105° E\n(Adaptado de Atlas escolar IBGE. Disponível em atlasescolar.ibge.gov.br)\nRecentemente, em Mianmar, a minoria étnica Rohingya foi\nvítima de graves massacres e assassinatos praticados por\ngrupos extremistas da maioria étnico-religiosa do país.\nEntre 2017 e 2018, os atos de violência provocaram\ndeslocamentos forçados de aproximadamente 650 mil\nRohingyas principalmente para um dos países vizinhos.\nCom a ajuda do mapa anterior, assinale a alternativa que\nindica, respectivamente, o principal país para onde se\ndeslocam os Rohingyas e as correntes religiosas seguidas\npor essa minoria étnica e pela maioria da população de\nMianmar.",
+      "alternativas": {
+        "A": "Bangladesh; mulçumana e budista.",
+        "B": "Índia; católica e hindu.",
+        "C": "Tailândia; católica e mulçumana.",
+        "D": "China; hindu e budista."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Geografia – Geopolítica",
+        "Geografia – População",
+        "Geografia – Conflitos Internacionais"
+      ]
+    },
+    {
+      "numero_questao": 32,
+      "enunciado": "Dois amigos planejaram assistir à abertura da Copa do\nMundo em Moscou. Eles partiram no dia 10 de junho de\n2018 do Aeroporto Presidente Juscelino Kubitschek\n(Brasília), situado a 45° de longitude Oeste, às 16 horas,\ncom destino ao Aeroporto de Heathrow (Londres), situado\na 0° de longitude. O voo teve duração de 10 horas. Os dois\namigos esperaram por três horas para partirem em direção\nao Aeroporto Internacional Domodedovo (Moscou), situado\na 60° de longitude Leste, e o segundo voo durou quatro\nhoras.\nCom base nessas informações e considerando que ο\ncontinente europeu adota, neste período do ano, o horário\nde verão, que adianta os relógios em uma hora, indique o\ndia e a hora em que os dois amigos chegaram ao\nAeroporto Internacional Domodedovo em Moscou.",
+      "alternativas": {
+        "A": "11 de junho, às 13 horas.",
+        "B": "11 de junho, às 16 horas.",
+        "C": "11 de junho, às 17 horas.",
+        "D": "10 de junho, às 16 horas."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Geografia – Fusos Horários",
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numero_questao": 33,
+      "enunciado": "O mapa a seguir registra parte do processo de substituição\ndos domínios vegetais do continente europeu pela\nagricultura sedentarizada ao longo dos últimos 10 mil anos.\nLegenda\nDomínios vegetais do continente europeu\nTundra\nFloresta de coníferas\nMisto de folhosas e coníferas\nPastagens e estepes\nFloresta decídua temperada\nFloresta mediterrânea e matagal\nInício da Agricultura (anos atrás)\n▲ 10.000-8.400\n•8.400-7.000\n■7.000-5.500\n(Adaptado de W. F. Rudmann, A Terra Transformada. Porto Alegre: Bookman,\n2015, p. 53 е 59.)\nA análise do mapa permite concluir que:",
+      "alternativas": {
+        "A": "As pastagens e as estepes foram os domínios mais\ndevastados pela implantação da agricultura, em função\nda fertilidade do seu solo em épocas de degelo, o que\nfavoreceu a produtividade de larga escala.",
+        "B": "Não é possível identificar grandes transformações nas\ncondições naturais dos domínios de vegetação\neuropeus em função do processo de sedentarização\ndas sociedades humanas.",
+        "C": "O desenvolvimento de lavouras na Europa durante o\nNeolítico foi base para a transformação de domínios\nvegetais naturais, o que significa que o desmatamento\né uma prática milenar.",
+        "D": "As áreas que hoje correspondem aos países da\nPenínsula Ibérica, ao Reino Unido e à Irlanda foram as\npioneiras no desenvolvimento de práticas agrícolas\nsedentarizadas."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "História – Pré-História",
+        "Geografia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numero_questao": 34,
+      "enunciado": "Como regime social, o fascismo social pode coexistir com a\ndemocracia política liberal. Em vez de sacrificar a\ndemocracia às exigências do capitalismo global, trivializa a\ndemocracia até o ponto de não ser necessário sacrificá-la\npara promover o capitalismo. Trata-se, pois, de um\nfascismo pluralista e, por isso, de uma forma de fascismo\nque nunca existiu. Podemos estar entrando num período\nem que as sociedades são politicamente democráticas e\nsocialmente fascistas.\n(Adaptado de Boaventura de Sousa Santos, Epistemologias do Sul. São Paulo:\nCortez, 2010, p. 47.)\nDe acordo com o texto e os conhecimentos sobre o\nassunto, a coexistência entre fascismo e democracia é",
+      "alternativas": {
+        "A": "facilitada por processos eleitorais que dão\ncontinuidade a fascismos que sempre existiram.",
+        "B": "promovida pela aceitação social que banaliza a\ndemocracia em favor do capitalismo global.",
+        "C": "dificultada por processos eleitorais que renovam a\ndemocracia, inviabilizando os fascismos.",
+        "D": "possibilitada pela aceitação social de sociedades\npoliticamente fascistas e socialmente democráticas."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Sociologia – Teoria Política",
+        "Sociologia – Globalização"
+      ]
+    },
+    {
+      "numero_questao": 35,
+      "enunciado": "Indigenous people in Brazil seek out cities, end\nup in slums\nRIO DE JANEIRO – The dancers shake seed-filled maracas\nand raise their voices in song, conjuring an ancient spirit that\nvibrates above the traffic roaring from a nearby expressway\nand the beat of funk music blasting from a neighbor's\nloudspeaker.\nIn this Brazilian favela, the indigenous people are struggling\nto keep some of their traditions alive that, besides providing a\nsense of community, helps them endure the discrimination\nthey face in the city. Forced out of their native lands by\ndeforestation, miners and farmers, nearly one in four Brazilian\nIndians nowadays live in urban areas and an estimated\n22,000 of them now call the crowded favelas their home.\nLife in the slums, despite its difficulties, has its advantages.\n\"The slums are the one place in the city where you have the\nkind of solidarity we Indians have in the villages.\" said a\nPataxó woman who lives in Rio de Janeiro's Maré Complex.\n(Adaptado de Associated Press, Indigenous people in Brazil seek out cities, end up\nin slums, Dailymail, 16/09/2014.)\nAssinale a alternativa que indica corretamente OS\nfenômenos geográficos mencionados no texto a respeito\ndas populações indígenas.",
+      "alternativas": {
+        "A": "Migração\nurbano-rural, segregação socioespacial\nurbana, preservação socioambiental.",
+        "B": "Segregação socioespacial urbana, migração rural-\nurbana, impacto socioambiental.",
+        "C": "Inclusão socioespacial urbana, impacto socioambiental,\nmigração urbano-rural.",
+        "D": "Preservação socioambiental, inclusão socioespacial\nurbana, migração rural-urbana."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Geografia – População",
+        "Geografia – Geografia Urbana",
+        "Geografia – Questões Étnicas"
+      ]
+    },
+    {
+      "numero_questao": 36,
+      "enunciado": "cerca\nrio\ncerca\nrio\n*As setas da figura indicam somente a direção da\nmovimentação das placas tectônicas.\n(Adaptado de J.F. Petersen, D. Sack e R. E. Glabler, Fundamentos de Geografia\nFísica. São Paulo: Cengage, 2015, p. 277.)\nEventos sísmicos de grande magnitude causam imensos\ndanos. As ondas sísmicas que se originam nesses eventos\ne que se propagam no interior da Terra são de dois tipos:\nlongitudinais e transversais. A figura anterior representa um\ntipo de contato entre placas que dá origem a ondas\nsísmicas. Esse tipo de contato ocorre",
+      "alternativas": {
+        "A": "na Califórnia (EUA), e as ondas longitudinais são\naquelas em que a oscilação se dá na direção de\npropagação.",
+        "B": "nos Andes (Chile), e as ondas transversais são\naquelas em que a oscilação se dá perpendicularmente\nà direção de propagação.",
+        "C": "na Califórnia (EUA), e as ondas longitudinais são\naquelas em que a oscilação se dá perpendicularmente\nà direção de propagação.",
+        "D": "nos Andes (Chile), e as ondas transversais são\naquelas em que a oscilação se dá na direção de\npropagação."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Geografia – Geologia",
+        "Geografia – Tectônica de Placas"
+      ]
+    },
+    {
+      "numero_questao": 37,
+      "enunciado": "O termo smog se forma pela junção das palavras smoke\n(fumo) e fog (neblina). Ele designa o resultado da mistura\nde um processo natural (a neblina) com os fumos\nproduzidos pela atividade industrial e queima de\ncombustíveis fósseis, originando um tipo de nevoeiro que\npode ser altamente tóxico. Esse fenômeno afeta\nprincipalmente as metrópoles, como São Paulo, detentora\nde 30% da frota de automóveis no Brasil. Um fato\ninteressante ocorreu em 2018, com a greve dos\ncaminhoneiros: a poluição caiu pela metade, segundo a\nCetesb. Com a falta de combustíveis, houve menor\ncirculação de carros na capital; além disso, a greve teve\nimpacto na produção industrial, pela falta de insumos e de\npessoal. Especialistas esperam que essa situação atípica\nna cidade leve à criação de políticas públicas voltadas à\ndiminuição da poluição atmosférica.\nUmidade Relativa (em %)\nMédias de Umidade Relativa e Temperatura\n80\n70\n60\n50\n40 30 20\n10\n0\n20/05\n21/05\n22/05\n23/05\n24/05\n25/05\n26/05\n27/05\n28/05\n29/05\n30/05\n31/05\n01/06\nPeríodo\nmédia Umidade\nmédia Temperatura\n25\n20\n15\n10\n5\n0\n(Fonte: Estação Meteorológica São Paulo (Mirante de\nSantana) - A701 – INMET, 2018.)\nTemperatura C\nConsiderando que houve redução de smog na cidade de\nSão Paulo durante a greve dos caminhoneiros e levando\nem conta as condições climáticas descritas no gráfico,\ninfere-se que ocorreu maior redução do",
+      "alternativas": {
+        "A": "smog fotoquímico, que ocorre em presença de luz, é\ncomum nos dias mais quentes e secos, e tem sua\norigem nos gases liberados pelos automóveis, cuja\ncomposição contém dióxido de enxofre e material\nparticulado.",
+        "B": "smog fotoquímico, que ocorre em presença de luz, é\ncomum nos dias mais frios e úmidos, e tem sua origem\nnos gases liberados pela atividade industrial, cuja\ncomposição contém dióxido de nitrogênio\nhidrocarbonetos não queimados.\ne",
+        "C": "smog industrial, que acompanha a inversão térmica, é\ncomum nos dias mais quentes e secos, e tem sua\norigem nos gases liberados pelos automóveis, cuja\ncomposição contém dióxido de nitrogênio e\nhidrocarbonetos não queimados.",
+        "D": "smog industrial, que acompanha a inversão térmica, é\ncomum nos dias mais frios e úmidos, e tem sua origem\nnos gases liberados pela atividade industrial, cuja\ncomposição contém dióxido de enxofre e material\nparticulado."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Química – Química Ambiental",
+        "Química – Poluição Atmosférica"
+      ]
+    },
+    {
+      "numero_questao": 38,
+      "enunciado": "O físico inglês Stephen Hawking (1942-2018), além de\nsuas contribuições importantes para a cosmologia, a física\nteórica e sobre a origem do universo, nos últimos anos de\nsua vida passou a sugerir estratégias para salvar a raça\nhumana de uma possível extinção, entre elas, a mudança\npara outro planeta. Em abril de 2018, uma empresa\namericana, em colaboração com a Nasa, lançou o satélite\nTESS, que analisará cerca de vinte mil planetas fora do\nsistema solar. Esses planetas orbitam estrelas situadas a\nmenos de trezentos anos-luz da Terra, sendo que um\nano-luz é a distância que a luz percorre no vácuo em um\nano. Considere um ônibus espacial atual que viaja a uma\nvelocidade média v=2,0×10⁴ km/s. O tempo que esse\nÔnibus levaria para chegar a um planeta a uma distância\nde 100 anos-luz é igual a\n(Dado: A velocidade da luz no vácuo é igual a\nc=3,0×10⁸ m/s.)",
+      "alternativas": {
+        "A": "66 anos.",
+        "B": "100 anos.",
+        "C": "600 anos.",
+        "D": "1500 anos."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Física – Cinemática",
+        "Física – Astrofísica"
+      ]
+    },
+    {
+      "numero_questao": 39,
+      "enunciado": "Em uma pescaria é utilizada uma linha com boia e anzol.\nInicialmente, na posição de espera, a linha acima da boia\nmantém-se frouxa e a boia flutua, ficando com 1/3 do seu\nvolume submerso (figura 1). Quando o peixe é fisgado, a\nboia é puxada, ficando totalmente submersa e\nmomentaneamente parada; simultaneamente, a linha que a\nune ao anzol fica esticada verticalmente (figura 2). A parte\nsuperior da linha, acima da boia, mantém-se frouxa. Nessa\nsituação, quanto vale o módulo da tensão da linha que une\na boia ao anzol? Despreze as massas da linha e do anzol,\nbem como o atrito viscoso com a água.\n(1)\n(2)",
+      "alternativas": {
+        "A": "O peso da boia.",
+        "B": "O dobro do peso da boia.",
+        "C": "O peso do peixe menos o peso da boia.",
+        "D": "O peso do peixe menos o dobro do peso da boia."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Física – Hidrostática",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numero_questao": 40,
+      "enunciado": "Drones vêm sendo utilizados por empresas americanas\npara monitorar o ambiente subaquático. Esses drones\npodem substituir mergulhadores, sendo capazes de\nrealizar mergulhos de até cinquenta metros de\nprofundidade e operar por até duas horas e meia.\nConsidere um drone que utiliza uma bateria com carga\ntotal q = 900 mAh. Se o drone operar por um intervalo de\ntempo igual a Δt = 90 min, a corrente média fornecida\npela bateria nesse intervalo de tempo será igual a",
+      "alternativas": {
+        "A": "10 mA.",
+        "B": "600 mA.",
+        "C": "1350 mA.",
+        "D": "81000 mA."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Física – Eletricidade",
+        "Física – Circuitos Elétricos"
+      ]
+    },
+    {
+      "numero_questao": 41,
+      "enunciado": "Frequentemente esses drones são usados para medir a\ntemperatura da água (T) em função da profundidade (d),\na partir da superfície (d = 0), como no caso ilustrado no\ngráfico a seguir (dados adaptados).\n(°C)\nT\n19.30\n19.25\n19.20\n19.15\n19.10\n19.05\n19.00\n18.95\n18.90\n0\n1\n2\n3\n4\n56\n7\nd (m)\nConsidere que a densidade da água é ρ=1000 kg/m³ e\nconstante para todas as profundidades medidas pelo\ndrone. Qual é a diferença de pressão hidrostática entre a\nsuperfície e uma profundidade para a qual a temperatura\nda água é T =19°C?",
+      "alternativas": {
+        "A": "1,4 x 10³ Pa.",
+        "B": "2,0 x 10⁴ Pa.",
+        "C": "4,0 x 10⁴ Pa.",
+        "D": "7,0 x 10⁴ Pa."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Física – Hidrostática",
+        "Física – Interpretação de Gráficos"
+      ]
+    },
+    {
+      "numero_questao": 42,
+      "enunciado": "Leve em conta ainda os dados mostrados no gráfico da\nquestão anterior, referentes à temperatura da água (T) em\nfunção da profundidade (d). Considere um volume\ncilíndrico de água cuja base tem área A = 2 m², a face\nsuperior está na superfície a uma temperatura constante\nTA e a face inferior está a uma profundidade d a uma\ntemperatura constante TB, como mostra a figura a seguir.\nNa situação estacionária, nas proximidades da superfície, a\ntemperatura da água decai linearmente em função de d,\nde forma que a taxa de transferência de calor por unidade\nde tempo (Φ), por condução da face superior para a face\ninferior, é aproximadamente constante e dada por\nTA-TB\nΦ = KA\nem que K = 0,6-\né a condutividade\nd\nWm × °C\ntérmica da água. Assim, a razão TA-TB é constante para\nd\ntodos os pontos da região de queda linear da temperatura\nda água mostrados no gráfico apresentado.\nd\nA\nTA\nТв\nΦ\nUtilizando as temperaturas da água na superfície e na\nprofundidade d do gráfico e a fórmula fornecida, conclui-\nse que, na região de queda linear da temperatura da água\nem função de d, Φ é igual a",
+      "alternativas": {
+        "A": "0,03 W.",
+        "B": "0,05 W.",
+        "C": "0,40 W.",
+        "D": "1,20 W."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Física – Termodinâmica",
+        "Física – Transferência de Calor",
+        "Física – Interpretação de Gráficos"
+      ]
+    },
+    {
+      "numero_questao": 43,
+      "enunciado": "A depilação a laser é um procedimento de eliminação\ndos pelos que tem se tornado bastante popular na\nindústria de beleza e no mundo dos esportes. O número\nde sessões do procedimento depende, entre outros\nfatores, da coloração da pele, da área a ser tratada e da\nquantidade de pelos nessa área.\nUma sessão de depilação a laser utiliza pulsos de alta\npotência e curta duração. O tempo total da sessão\ndepende da área tratada. Considere certa situação em que\na luz do laser incide perpendicularmente em uma área\nA = 2 mm²\ncom uma intensidade média igual a\nI = 2,0×10⁴ W/m². A energia luminosa que incide nessa\nárea durante um intervalo de tempo Δt = 3 ms é igual a",
+      "alternativas": {
+        "A": "1,3 x 10⁻¹ J.",
+        "B": "1,2 x 10⁻⁴ J.",
+        "C": "3,0 x 10⁷ J.",
+        "D": "3,0 X 10⁻¹³ J."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Física – Óptica",
+        "Física – Potência e Energia"
+      ]
+    },
+    {
+      "numero_questao": 44,
+      "enunciado": "Na depilação, o laser age no interior da pele, produzindo\numa lesão térmica que queima a raiz do pelo. Considere\numa raiz de pelo de massa m = 2,0×10⁻¹⁰ kg inicialmente\na uma temperatura Tᵢ = 36°C que é aquecida pelo laser a\numa temperatura final Tƒ = 46°C. Se o calor específico da\nraiz é igual a c = 3000 J/(kg °C), o calor absorvido pela\nraiz do pelo durante o aquecimento é igual a",
+      "alternativas": {
+        "A": "6,0 x 10⁻⁸ J.",
+        "B": "6,0 x 10⁻⁶ J.",
+        "C": "1,3 x 10⁻¹² J.",
+        "D": "6,0 x 10⁻¹³ J."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Física – Termodinâmica",
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numero_questao": 45,
+      "enunciado": "Três tipos de laser comumente utilizados para depilação\ntêm comprimentos de onda λ₁≈760 nm, λ₂≈800 nm e\nλ₃≈1060 nm, respectivamente. Se a velocidade da luz\nvale c=3,0×10⁸ m/s, o laser de maior frequência tem uma\nfrequência de aproximadamente",
+      "alternativas": {
+        "A": "3,9 x 10¹⁴ Hz.",
+        "B": "2,8 x 10⁵ Hz.",
+        "C": "2,5 x 10¹⁵ Hz.",
+        "D": "3,7 x 10¹² Hz ."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Física – Ondulatória",
+        "Física – Espectro Eletromagnético"
+      ]
+    },
+    {
+      "numero_questao": 46,
+      "enunciado": "As cirurgias corretivas a laser para a visão estão cada vez\nmais eficientes. A técnica corretiva mais moderna é\nbaseada na extração de um pequeno filamento da córnea,\nmodificando a sua curvatura. No caso de uma cirurgia para\ncorreção de miopia, o procedimento é feito para deixar a\ncórnea mais plana. Assinale a alternativa que explica\ncorretamente o processo de correção da miopia.",
+      "alternativas": {
+        "A": "Na miopia, a imagem do ponto remoto se forma antes\nda retina e a cirurgia visa a aumentar a distância focal\nda lente efetiva do olho.",
+        "B": "Na miopia, a imagem do ponto remoto se forma depois\nda retina e a cirurgia visa a aumentar a distância focal\nda lente efetiva do olho.",
+        "C": "Na miopia, a imagem do ponto remoto se forma depois\nda retina e a cirurgia visa a diminuir a distância focal\nda lente efetiva do olho.",
+        "D": "Na miopia, a imagem do ponto remoto se forma antes\nda retina e a cirurgia visa a diminuir a distância focal\nda lente efetiva do olho."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Física – Óptica",
+        "Física – Olho Humano"
+      ]
+    },
+    {
+      "numero_questao": 47,
+      "enunciado": "Nos quadrinhos a seguir, o personagem Garfield questiona\na relevância ecológica do animal representado à direita.\nVOCÊ VIVE DEBAIXO DA TERRA\nE COME PORCARIAS?\nE QUE FAZ PRA\nCONSEGUIR\nCOMIDA?\nCAVO.\nÉ ISSO\nAl.\nISSO NÃO\nÉ MUITO\nGLAMOROSO.\n2000 PAWS, INC. All Rights Reserved.\nMAS É ASSIM\nQUE GANHO A\nSUJEIRA DE\nCADA DIA...\n(Disponível em http://www.aprendendocomopenomato.wordpress.com/.)\nAssinale a alternativa que descreve corretamente aspectos\nzoológicos e ecológicos referentes a esse animal.",
+      "alternativas": {
+        "A": "As minhocas são invertebrados do filo dos anelídeos,\npossuem corpo celomado e segmentado, convertem\ndetritos ingeridos em matéria orgânica e melhoram o\narejamento do solo.",
+        "B": "As cobras-cegas são vertebrados do filo dos\nanelídeos, possuem corpo pseudocelomado e\nreprodução sexuada, são predadoras de pragas\nagrícolas e melhoram o arejamento do solo.",
+        "C": "As cobras-cegas são invertebrados do filo dos\ncordados, possuem corpo celomado e não\nsegmentado e são capazes de controlar ervas\ndaninhas, pois consomem suas raízes.",
+        "D": "As minhocas são invertebrados do filo dos anelídeos,\npossuem pseudoceloma e reprodução assexuada, são\npredadoras de pragas agrícolas e melhoram o\narejamento do solo."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Biologia – Zoologia",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numero_questao": 48,
+      "enunciado": "A prestigiada revista Science elegeu como um dos\nprincipais avanços científicos de 2017 um caso de terapia\ngênica em crianças portadoras de atrofia muscular espinhal\ndo tipo 1, uma doença genética caracterizada pela atrofia\nprogressiva dos músculos esqueléticos e morte precoce\nantes dos 2 anos de idade. A doença é causada por um\ngene defeituoso, que deixa de codificar uma proteína\nessencial para o funcionamento dos neurônios. No estudo,\nvírus não patogênicos que continham uma cópia normal do\ngene em questão foram injetados em quinze crianças\ndoentes. As crianças tratadas sobreviveram além dos 2\nanos e apresentaram melhoras na capacidade de\nmovimento.\n(Disponível em https://vis.sciencemag.org/.)\nAssinale a alternativa que preenche corretamente as\nlacunas na frase a seguir.\nOs vírus injetados nas crianças foram capazes de (i)\nrestaurando a produção (ii)\npassaram, então, a\nque\ncontrolar adequadamente (iii)",
+      "alternativas": {
+        "A": "(i) atingir a medula óssea e introduzir nas células-\ntronco a cópia normal do gene; (ii) de neurônios no\ncérebro; (iii) a medula espinhal e, portanto, os\nmúsculos.",
+        "B": "(i) atingir a medula espinhal e remover dos neurônios a\ncópia defeituosa do gene; (ii) de hormônios; (iii) a\ngeração de impulsos elétricos e os músculos.",
+        "C": "(i) atingir a medula espinhal e introduzir nos neurônios\na cópia normal do gene; (ii) da proteína essencial à\nfunção dos neurônios da medula; (iii) os músculos.",
+        "D": "(i) atingir a medula óssea e induzir a produção de\nlinfócitos do sangue; (ii) de anticorpos contra o vírus;\n(iii) a infecção, restaurando os movimentos das\ncrianças."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Biologia – Genética",
+        "Biologia – Biotecnologia"
+      ]
+    },
+    {
+      "numero_questao": 49,
+      "enunciado": "A \"maravilha\" (Mirabilis jalapa) é uma planta ornamental\nque pode apresentar três tipos de fenótipo: plantas com\nramos verde-escuro, plantas com ramos brancos e plantas\nmescladas. Plantas mescladas possuem ramos verde-\nescuro, ramos brancos e ramos variegados. Como mostra\na figura a seguir, todas as células de ramos verde-escuro\npossuem cloroplastos normais (com clorofila). Todas as\ncélulas de ramos brancos possuem cloroplastos mutantes\n(sem clorofila). Ramos variegados contêm células com\ncloroplastos normais, células com cloroplastos mutantes e\ncélulas com ambos os tipos de cloroplasto.\ntipo de ramo\nramo\nverde-escuro\nramo\nbranco\nramo\nvariegado\ntipo(s) de célula(s)\n00\ncloroplastos\nnormais\nverdes\ncloroplastos\nmutantes\nbrancos\n0\n+\n+\n0\ncloroplastos\ndos dois\ntipos\n(Disponível em http://www.chegg.com/homework-help/.)\nNa formação de sementes, os cloroplastos são herdados\napenas dos óvulos. A progênie resultante da fertilização de\nóvulos de flores presentes em um ramo variegado com\npólen proveniente de flores de um ramo verde-escuro\nconterá",
+      "alternativas": {
+        "A": "apenas plantas com ramos de folhas brancas.",
+        "B": "plantas dos três tipos fenotípicos.",
+        "C": "apenas plantas mescladas.",
+        "D": "apenas plantas com ramos de folhas verde-escuro."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Biologia – Genética",
+        "Biologia – Botânica"
+      ]
+    },
+    {
+      "numero_questao": 50,
+      "enunciado": "No ano de 2015, foi descrito o fóssil de um réptil que viveu\nhá 150 milhões de anos onde hoje é a região Nordeste do\nBrasil. Conforme ilustra a figura a seguir, esse animal\napresenta corpo alongado, com muitas vértebras e\ncostelas, e membros anteriores e posteriores reduzidos (a\nseta indica a região ampliada no canto inferior esquerdo).\nPor sua anatomia peculiar, um grande debate teve início\nsobre a posição que esse animal deveria ocupar na árvore\nda vida.\n(David M. Martill e outros, A four-legged snake from the Early Cretaceous of\nGondwana. Science, Nova Iorque, v. 349, fasc. 6246, p. 416-419, jul. 2015.)\nSabe-se que os lagartos (que geralmente têm membros) e\nas serpentes (seres ápodes) que vivem atualmente têm um\nancestral comum. Sendo assim, o organismo ilustrado na\nfigura",
+      "alternativas": {
+        "A": "não pode pertencer à linhagem evolutiva das\nserpentes, pois a perda dos membros anteriores e\nposteriores levaria a um prejuízo à vida do animal, e a\nevolução resulta apenas em melhoria dos organismos.",
+        "B": "não pode pertencer à linhagem evolutiva das\nserpentes, pois a evolução é gradual e incapaz de\ngerar mudanças drásticas na morfologia de um ser\nvivo, como a perda de membros anteriores e\nposteriores.",
+        "C": "pode pertencer à linhagem evolutiva das serpentes,\nsendo que seu ancestral comum com os lagartos\npossuía membros, depois perdidos por processos\nevolutivos, originando as serpentes ápodas atuais.",
+        "D": "pode ser um fóssil de transição, pois os ancestrais das\nserpentes que não utilizavam seus membros com tanta\nfrequência sofreram atrofia desses membros, deixando\nde transferir tal característica para seus descendentes."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Biologia – Evolução",
+        "Biologia – Paleontologia"
+      ]
+    },
+    {
+      "numero_questao": 51,
+      "enunciado": "O acidente radioativo na usina de Chernobyl, na Ucrânia,\nem 1986, exigiu a evacuação de mais de 100 mil pessoas\nem um raio de 30 km. Até hoje, a região é isolada e o\nacesso público, restrito. Pouco tempo após o acidente,\nmuitos estudos indicaram que vários organismos, entre os\nquais aranhas e insetos, haviam sofrido efeitos negativos\nda radiação. Porém, estudos recentes, utilizando\narmadilhas fotográficas e imagens aéreas, mostraram que\na cidade-fantasma foi ocupada por diversas espécies de\nplantas e animais, cuja abundância tem aumentado na\nregião.\n(Roland Oliphant, 30 years after Chernobyl disaster, wildlife is flourishing in radio-\nactive wasteland, The Telegraph, 24/04/2016.)\nAssinale a alternativa que fornece uma explicação correta\npara o fenômeno descrito no texto anterior.",
+      "alternativas": {
+        "A": "A radiação diminui a taxa fotossintética de plantas,\nporém a ação de descontaminação do ambiente pelo\nhomem permite o retorno de populações de plantas e,\nportanto, dos organismos que delas se alimentam.",
+        "B": "A radiação aumenta a taxa de mutação e acelera o\nmetabolismo de plantas, favorecendo sua taxa\nreprodutiva, o que leva a aumento de suas populações\ne, consequentemente, das populações de herbívoros.",
+        "C": "A radiação reduz os tumores de animais e plantas,\naumentando a taxa de sobrevivência desses seres\nvivos e, consequentemente, o tamanho de suas\npopulações e das de seus consumidores.",
+        "D": "A radiação tem impactos negativos sobre animais e\nplantas, porém a ausência de atividade humana no\nambiente contaminado por radiação favorece Ο\ncrescimento das populações desses organismos."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Biologia – Ecologia",
+        "Biologia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numero_questao": 52,
+      "enunciado": "Recentemente, inúmeros casos de doping esportivo foram\nnoticiados, como, por exemplo, aqueles envolvendo a\ndelegação russa nos Jogos Olímpicos do Rio de Janeiro\nem 2016. Um dos métodos mais utilizados no exame\nantidoping é a coleta e análise da urina de atletas, para\nverificação da presença de medicamentos proibidos. O\ncomposto furosemida foi banido pela Agência Mundial\nAntidoping. Sua principal ação é reduzir a reabsorção de\nsódio e cloro a partir da alça do néfron (alça de Henle) em\ndireção aos vasos sanguíneos adjacentes.\nConsiderando essas informações e os conhecimentos\nsobre a fisiologia renal e a excreção em seres humanos, é\ncorreto afirmar que a furosemida",
+      "alternativas": {
+        "A": "diminui a produção de urina, impedindo que\nmedicamentos proibidos sejam eliminados nas\namostras a serem analisadas nos testes antidoping.",
+        "B": "diminui a produção de amônia, mas aumenta a\neliminação de medicamentos pelo rim, resultando em\ndiluição das amostras analisadas nos testes\nantidoping.",
+        "C": "aumenta a produção de urina, resultando na\ndiminuição da concentração de medicamentos nas\namostras, o que dificulta sua detecção nos testes\nantidoping.",
+        "D": "aumenta a produção de ureia, o que resulta na diluição\ndas amostras a serem analisadas nos testes\nantidoping e na diminuição da concentração dos\nmedicamentos."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Farmacologia"
+      ]
+    },
+    {
+      "numero_questao": 53,
+      "enunciado": "A produção de celulose a partir da madeira vem crescendo\nno Brasil, tendo atingido um volume recorde em 2017, com\nexportações de 19,5 milhões de toneladas. As paredes das\ncélulas da madeira contêm celulose e lignina, sendo que a\nprimeira é o principal composto de interesse industrial,\nenquanto a segunda é um composto indesejável, que\nprecisa ser removido. Geralmente, a remoção da lignina\nenvolve digestão química com H2S, um reagente altamente\npoluente.\nAs imagens apresentadas a seguir são fotos de\nmicroscopia eletrônica, em mesma escala, do tecido\nvegetal de dois tipos de madeira, que diferem com relação\nà parede celular.\ntipo I\ntipo II\nCada tipo (I ou II) tem ainda dois subtipos, a ou b. O\ngráfico a seguir mostra dados sobre esses subtipos de\nmadeira coletados de plantas cultivadas na mesma área\ngeográfica (solo e clima similares).\nconteúdo de lignina (%)\n30\n25\n20\n15\n10\n205\n0\nsubtipo subtipo subtipo subtipo\nla\nIb\nIla\nпь\n(Adaptado de Gabriela Mello, Produção de celulose no Brasil cresce 3,8% em 2017\ne atinge volume recorde, diz Ibá. UOL, 31/09/2018.)\nConsiderando que as quatro amostras no gráfico provêm\nde plantas com o mesmo tempo de desenvolvimento, qual\ndelas seria mais desejável em termos industriais e\nambientais (tendo em vista a poluição e a extensão de área\nplantada)?",
+      "alternativas": {
+        "A": "Subtipo la.",
+        "B": "Subtipo Ib.",
+        "C": "Subtipo lla.",
+        "D": "Subtipo llb."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Biologia – Botânica",
+        "Química – Química Ambiental"
+      ]
+    },
+    {
+      "numero_questao": 54,
+      "enunciado": "A malária representa um dos principais problemas de\nsaúde pública no mundo. Embora a dimensão geográfica\nda transmissão esteja encolhendo no Brasil, o país ainda\nregistra 42% dos casos da doença nas Américas. A\nFundação Oswaldo Cruz, do Rio de Janeiro, recentemente\ndesenvolveu um preparado com alta eficácia antimalárica,\nagora em fase de ensaios clínicos.\n(Fontes: \"Desafios para eliminação da malária\", Agência Fapesp, 2017; MAÍRA\nMenezes, \"Malária: ensaio clínico aponta alta eficácia e ausência de resistência\na medicamento\", Portal Fiocruz, 2016.)\nLevando em conta seus conhecimentos sobre o ciclo de\nvida do Plasmodium, assinale a alternativa que indica um\npossível mecanismo de ação do preparado antimalárico.",
+      "alternativas": {
+        "A": "Alterar a morfologia das hemácias dos mosquitos,\ndiminuindo a taxa de infecção pelo parasita.",
+        "B": "Impedir a entrada de parasitas nos linfócitos, reduzindo\na carga de gametócitos circulantes.",
+        "C": "Promover a multiplicação de esporozoítos no fígado,\nreduzindo o número de gametócitos.",
+        "D": "Inibir a multiplicação de merozoítos nos eritrócitos,\ndiminuindo a carga de parasitas circulantes."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Biologia – Parasitologia",
+        "Biologia – Doenças"
+      ]
+    },
+    {
+      "numero_questao": 55,
+      "enunciado": "H\nNH\nácido úrico O\nH\nNH2\nOH\nNH2\nHO\ntiocina\nHO\nHO\nH2N\nN\nN\nN\nOH\nHO-P-O\nN\nvidarabina\nnucleotídeo\ndAMP (com\nbase adenina)\n(Disponível em: http://www.wikipedia.com. Acessado em 10/06/2018.)\nConsiderando as semelhanças e diferenças entre as\nestruturas químicas dos compostos anteriores e seus\nconhecimentos sobre os processos bioquímicos da célula,\nescolha a alternativa que preenche corretamente as\nlacunas no texto a seguir:\n\"O composto (i)\n(ii)\npode ser utilizado para inibir\numa vez que tem estrutura química muito\nsemelhante à do (iii)\nportanto,\nerroneamente\nreconhecido\nsendo,\n(iv)",
+      "alternativas": {
+        "A": "(i) tirosina; (ii) a síntese de proteínas; (iii) nucleotídeo\ndAMP; (iv) pelo ribossomo como possível precursor na\ntranscrição.",
+        "B": "(i) vidarabina; (ii) a replicação do DNA; (iii) nucleotídeo\ndAMP; (iv) pela polimerase como possível precursor na\nsíntese do DNA.",
+        "C": "(i) vidarabina; (ii) a síntese de proteínas; (iii) ácido\núrico; (iv) pelo ribossomo como possível precursor na\ntradução.",
+        "D": "(i) tirosina; (ii) a replicação do DNA; (iii) nucleotídeo\ndAMP; (iv) pela transcritase como possível precursor\ndo DNA."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Química – Química Orgânica",
+        "Biologia – Bioquímica"
+      ]
+    },
+    {
+      "numero_questao": 56,
+      "enunciado": "Raros são os cientistas que se dedicam a medir um único\nfenômeno. Mais raro ainda são aqueles que alteram o\ncomportamento da humanidade com suas medições. O\nnorte-americano Charles D. Keeling passou a vida medindo\na\nquantidade de CO2 existente na atmosfera,\ndemonstrando que a quantidade desse gás está\naumentando. Em 1958, muito antes do surgimento dos\nmovimentos ecológicos, Keeling desconfiou de que esse\nefeito era devido à queima de combustíveis fósseis. Na\núltima década, a hipótese de Keeling foi testada pela\nanálise de bolhas de ar retidas no gelo polar, revelando\nque a concentração de CO2 permaneceu inalterada por\nmilênios, aumentando a partir do século XIX.\n(Adaptado de Fernando Reinach, A longa marcha dos grilos canibais. São\nPaulo: Companhia das Letras, 2010, p. 41 - 42.)\nOs experimentos com as bolhas de ar do gelo polar\nindicam que a elevação das emissões de CO2",
+      "alternativas": {
+        "A": "é diretamente proporcional à utilização crescente de\npetróleo (plantas fossilizadas) nos Estados Unidos e\nChina no século XIX,\nque propiciou o\ndesenvolvimento de novos equipamentos, tecnologias\ne organizações no mundo do trabalho.\nna\nΟ",
+        "B": "está correlacionada com a utilização crescente de\ncarvão mineral (plantas fossilizadas) durante\nRevolução Industrial, que propiciou o uso da energia a\nvapor e o desenvolvimento de máquinas, levando à\nprodução em larga escala.",
+        "C": "está associada à utilização crescente de petróleo\n(micro-organismos fossilizados) desde os primórdios\nda Revolução Industrial, caracterizada pelo uso de\nmáquinas para a produção em larga escala e novas\norganizações trabalhistas.",
+        "D": "é diretamente proporcional à utilização decrescente de\nbiodiesel (micro-organismos fossilizados) na Inglaterra\ndurante a Revolução Industrial, quando esse país\nadotou uma matriz energética baseada no consumo de\npetróleo para fomentar sua economia protecionista."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Química – Química Ambiental",
+        "História – Revolução Industrial"
+      ]
+    },
+    {
+      "numero_questao": 57,
+      "enunciado": "O texto a seguir, extraído de uma reportagem publicada em\num jornal paulista, apresenta conclusões sobre a inclusão\nde Filosofia e Sociologia no Ensino Médio, a partir de\ndados levantados pelo IPEA (Instituto de Pesquisa\nEconômica Aplicada).\nA inclusão de Filosofia e Sociologia como disciplinas\nobrigatórias no Ensino Médio em 2009 prejudicou a\naprendizagem de matemática dos jovens brasileiros,\nprincipalmente os de baixa renda. A conclusão é de um\nestudo inédito que será publicado pelo IPEA. Segundo ele,\na mudança levou as notas de jovens residentes em\nmunicípios com muito baixo Índice de Desenvolvimento\nHumano (IDH), que engloba aspectos da renda,\nescolaridade e saúde, a cair 11,8%, 8,8% е 7,7% em\nredação, matemática e linguagens (que inclui português,\nlíngua estrangeira e outras linguagens), respectivamente.\n(Adaptado de Érica Fraga, \"Filosofia e Sociologia obrigatórias derrubam notas\nem Matemática\"; em Folha de São Paulo. 16/04/2018.)\nA partir das relações históricas entre as disciplinas\nmencionadas na reportagem e de uma análise crítica da\nconclusão da pesquisa, marque a alternativa correta.",
+      "alternativas": {
+        "A": "Desde as diferentes civilizações da Antiguidade até o\npresente, os conhecimentos matemáticos e filosóficos\ntêm se demonstrado incompatíveis, corroborando as\nconclusões do texto. Pitágoras, por exemplo,\nconsiderava que o cosmo, descrito de forma filosófica,\nera regido por relações matemáticas.",
+        "B": "A Filosofia e a Matemática constituem campos de\nsaber distintos, sendo a lógica uma das possibilidades\nde interface entre as duas ciências, distinção que\nvalida as conclusões do texto. Pascal, por exemplo,\nestabeleceu as bases da análise combinatória a partir\nde argumentos filosóficos.",
+        "C": "A Filosofia e a Matemática, campos de saber distintos,\ndialogam para produzir conhecimento científico, o que\nnão respalda as conclusões do texto. Descartes, por\nexemplo, desenvolveu o plano de coordenadas para\nrepresentar as relações entre as coisas do mundo e\nsuas proporções matemáticas.",
+        "D": "Desde as diferentes civilizações da Antiguidade até o\npresente, os conhecimentos matemáticos rivalizam\ncom os conhecimentos filosóficos, como demonstra o\ntexto. Na Academia de Platão, por exemplo, essa\ndisputa era representada pela frase \"Quem não é\ngeômetra, não entre\"."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Filosofia – Teoria do Conhecimento",
+        "Sociologia – Sociologia da Educação"
+      ]
+    },
+    {
+      "numero_questao": 58,
+      "enunciado": "Uma população de certa espécie é constituída apenas por\ntrês tipos de indivíduos diploides, que diferem quanto ao\ngenótipo em um loco. No total, há um número NAA de\nindivíduos com genótipo AA, NAa de indivíduos com\ngenótipo Aa, e Naa de indivíduos com genótipo aa.\nConsiderando apenas o loco exposto no enunciado, a\nfrequência do alelo A nessa população é igual a",
+      "alternativas": {
+        "A": "NAA\nNAA+NAa",
+        "B": "NAA+NAa\nNAA+NAa+Naa",
+        "C": "NAA + NAa",
+        "D": "2NAA+NAa\n2(NAA+NAa+Naa)"
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Biologia – Genética de Populações"
+      ]
+    },
+    {
+      "numero_questao": 59,
+      "enunciado": "Os preços que aparecem no cardápio de um restaurante já\nincluem um acréscimo de 10% referente ao total de\nimpostos. Na conta, o valor a ser pago contém o acréscimo\nde 10% relativo aos serviços (gorjeta). Se o valor total da\nconta for p reais, o cliente estará desembolsando pelo\ncusto original da refeição, em reais, a quantia de",
+      "alternativas": {
+        "A": "p/1,20.",
+        "B": "p/1,21.",
+        "C": "p x 0,80.",
+        "D": "p x 0,81."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Matemática – Porcentagem",
+        "Matemática – Álgebra"
+      ]
+    },
+    {
+      "numero_questao": 60,
+      "enunciado": "A nota final de um curso é dada pela média aritmética\nsimples entre as notas de duas provas e a de um trabalho.\nTodas as notas se distribuem entre 0 e 10 e a nota final\nmínima para aprovação é 7. Para um aluno ser aprovado, é\nnecessário que a média aritmética simples entre as notas\ndas provas seja maior ou igual a",
+      "alternativas": {
+        "A": "2,5.",
+        "B": "5,0.",
+        "C": "5,5.",
+        "D": "7,0."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Matemática – Média Aritmética"
+      ]
+    },
+    {
+      "numero_questao": 61,
+      "enunciado": "A representação decimal de certo número inteiro positivo\ntem dois algarismos. Se o triplo da soma desses\nalgarismos é igual ao próprio número, então o produto dos\nalgarismos é igual a",
+      "alternativas": {
+        "A": "10.",
+        "B": "12.",
+        "C": "14.",
+        "D": "16."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Matemática – Aritmética",
+        "Matemática – Álgebra"
+      ]
+    },
+    {
+      "numero_questao": 62,
+      "enunciado": "O sistema de segurança de um aeroporto consiste de duas\ninspeções. Na primeira delas, a probabilidade de um\npassageiro ser inspecionado é de 3/5. Na segunda, a\nprobabilidade se reduz para 1/4. A probabilidade de um\npassageiro ser inspecionado pelo menos uma vez é igual a",
+      "alternativas": {
+        "A": "17/20.",
+        "B": "7/10.",
+        "C": "3/10.",
+        "D": "3/20."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numero_questao": 63,
+      "enunciado": "Sejam a e b números reais positivos. Considere a função\nquadrática f(x) = x(ax + b), definida para todo número\nreal x. No plano cartesiano, qual figura corresponde ao\ngráfico de y = f(x)?",
+      "alternativas": {
+        "A": "Ty\nX",
+        "B": "y\nX",
+        "C": "Ty\nX",
+        "D": "Ty\nX"
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Matemática – Funções Quadráticas",
+        "Matemática – Gráficos de Funções"
+      ]
+    },
+    {
+      "numero_questao": 64,
+      "enunciado": "Sejam k e θ números reais tais que senθ e cosθ são\nsoluções da equação quadrática 2x² + x + k = 0. Então, k\né um número",
+      "alternativas": {
+        "A": "irracional.",
+        "B": "racional não inteiro.",
+        "C": "inteiro positivo.",
+        "D": "inteiro negativo"
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Matemática – Equações Quadráticas",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numero_questao": 65,
+      "enunciado": "No triângulo ABC exibido na figura a seguir, AD éa\nbissetriz do ângulo interno em A, e AD = DB. O ângulo\ninterno em A é igual a\nA\nC\n60°\nD\nB",
+      "alternativas": {
+        "A": "60°.",
+        "B": "70°.",
+        "C": "80°.",
+        "D": "90°."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numero_questao": 66,
+      "enunciado": "No triângulo ABC exibido na figura a seguir, Mé o ponto\nmédio do lado AB, e Néo ponto médio do lado AC. Se a\nárea do triângulo MBN é igual a t, então a área do triângulo\nABC é igual a\nA\nN\nC\nM\nB",
+      "alternativas": {
+        "A": "3t.",
+        "B": "2√3t.",
+        "C": "4t.",
+        "D": "3√2t."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numero_questao": 67,
+      "enunciado": "A figura a seguir exibe um pentágono em que quatro lados\nconsecutivos têm comprimentos a, b, c e d. Se a sequência\n(a, b, c, d) é uma progressão geométrica de razão q > 1,\nentão tanθ é igual a\nb\na\nC\nθ\nd",
+      "alternativas": {
+        "A": "1/q.",
+        "B": "q.",
+        "C": "q².",
+        "D": "√9."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Matemática – Geometria Plana",
+        "Matemática – Progressão Geométrica",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numero_questao": 68,
+      "enunciado": "Sabendo que a e b são números reais, considere a matriz\nquadrada de ordem 3,\n1 a 1\nA=b 1 a\n2 b 2\nSe a soma dos elementos em cada linha da matriz A tem\nsempre o mesmo valor, então o determinante de A é igual a",
+      "alternativas": {
+        "A": "0.",
+        "B": "2.",
+        "C": "5.",
+        "D": "10."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Matemática – Álgebra Linear",
+        "Matemática – Matrizes e Determinantes"
+      ]
+    },
+    {
+      "numero_questao": 69,
+      "enunciado": "No plano cartesiano, considere a circunferência de\nequação x² + y² – 4y + 3 = 0 e a parábola de equação\n3x²y + 1 = 0. Essas duas curvas se interceptam em",
+      "alternativas": {
+        "A": "um ponto.",
+        "B": "dois pontos.",
+        "C": "três pontos.",
+        "D": "quatro pontos."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numero_questao": 70,
+      "enunciado": "Sabendo que a e b são números reais, considere o\npolinômio cúbico p(x) = x³ + ax² + x + b. Se a soma e o\nproduto de duas de suas raízes são iguais a 1, então\np(1) é igual a",
+      "alternativas": {
+        "A": "0.",
+        "B": "1.",
+        "C": "2.",
+        "D": "3."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Matemática – Polinômios"
+      ]
+    },
+    {
+      "numero_questao": 71,
+      "enunciado": "Considere um paralelepipedo retângulo, cujas arestas têm\ncomprimento 6 см, 8 ст е 10 cm, e um triângulo cujos\nvértices são os centros (intersecção das diagonais) de três\nfaces de dimensões distintas, como ilustra a figura a\nseguir. O perímetro P desse triângulo é tal que",
+      "alternativas": {
+        "A": "P < 14 ст.",
+        "B": "14 cm < P < 16 cm.",
+        "C": "16 cm < P < 18 ст.",
+        "D": "P > 18 cm."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numero_questao": 72,
+      "enunciado": "Os estudiosos muçulmanos adaptaram a herança recebida\ndos povos arabizados. Entre os domínios conquistados\npelos muçulmanos estavam a Mesopotâmia e o antigo\nEgito, civilizações que desde cedo observaram OS\nfenômenos astronômicos. O estudo dos fenômenos\nnaturais no Crescente Fértil possibilitou a agricultura e\nperdurou por milênios. Nas costas do Mar Egeu, na região\nda Jônia, surgiram no século VI a.C. as primeiras\nexplicações dos fenômenos naturais desvinculadas dos\ndesígnios divinos. E as conquistas de Alexandre permitiram\no início do intercâmbio entre o conhecimento grego, de um\nlado, e o dos antigos impérios egípcio, babilônico e persa,\nde outro. Além disso, houve trocas científicas e culturais\ncom os indianos. O império árabe-islâmico foi, a partir do\nséculo VII, o herdeiro desse legado científico multicultural,\nao qual os estudiosos muçulmanos deram seus aportes ao\nlongo da Idade Média.\n(Adaptado de Beatriz Bissio, O mundo falava árabe. Rio de Janeiro: Civilização\nBrasileira, 2012, p. 200-201.)\nConsiderando o texto acima sobre o Isla Medieval e\nseus conhecimentos, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A extensão do território sob domínio islâmico e a\nliberdade religiosa e cultural implementada nessas\náreas aceleraram a construção de novos\nconhecimentos pautados na cosmologia ocidental.",
+        "B": "A partir do século VII, o avanço dos exércitos islâmicos\ngarantir a expansão do império de forma ditatorial\nsobre antigos núcleos culturais da Índia até as terras\ngregas do Império Bizantino, chegando à Espanha.",
+        "C": "Os conhecimentos sobre os fenômenos naturais\nconstruídos pelos mesopotâmicos, egípcios,\nmacedônicos, babilônicos, persas, entre outros povos,\nforam ignorados pelo Isla Medieval, marcado pelo\nfundamentalismo religioso.",
+        "D": "A difusão de saberes multiculturais foi uma das marcas\ndo Império árabe-islâmico, sendo ele a via de\ntransmissão do sistema numérico indiano para o\nOcidente e de obras da filosofia greco-romana para o\nOriente."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "História – Idade Média",
+        "História – História da Ciência"
+      ]
+    },
+    {
+      "numero_questao": 73,
+      "enunciado": "Leia o texto a seguir e observe a figura do Homem\nVitruviano.\nAo longo da vida, cada vez mais, Leonardo da Vinci\npassou a perceber que a matemática era a chave para\ntransformar suas observações em teorias. Não existe\ncerteza na ciência em que a matemática não possa ser\naplicada, declarou.\n(Adaptado de Walter Isaacson, Leonardo da Vinci. Rio de Janeiro: Intrínseca,\n2017, p. 52.)\nO Homem Vitruviano, Leonardo Da Vinci, 1490.\nAssinale a alternativa que expressa adequadamente a\ncorrelação entre o texto e a imagem.",
+      "alternativas": {
+        "A": "Figura emblemática do Renascimento, Leonardo da\nVinci destaca-se pela sua obra pictórica e por seu\ndesenho do Homem Vitruviano. Para ele, arte e ciência\nse baseavam nas relações análogas entre homem e\nnatureza preconizadas pela alquimia.",
+        "B": "O Homem Vitruviano de Leonardo da Vinci condensa\numa série de estudos do artista, e mesmo a leitura de\numa cópia manuscrita da obra de Vitrúvio. O desenho\nsintetiza uma relação harmônica entre homem e\nmundo pautada pela analogia geométrica.",
+        "C": "Na linhagem dos artistas-arquitetos-engenheiros\nrenascentistas, Leonardo da Vinci dedicou-se ao\nestudo da perspectiva e especialmente da aritmética,\nbuscando harmonizar as relações entre o homem e\nDeus no Homem Vitruviano.",
+        "D": "Leitor assíduo da física newtoniana, Leonardo da Vinci\nreconhecia que tanto a aritmética quanto a geometria\npoderiam ser usadas na arte, arquitetura e engenharia.\nNa elaboração do desenho do Homem Vitruviano, ele\ncomprovou esta hipótese."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Arte – Renascimento",
+        "História – História da Ciência"
+      ]
+    },
+    {
+      "numero_questao": 74,
+      "enunciado": "A seguir, leia um trecho da petição ao rei de Espanha\nescrita por Juan Garrido, conquistador residente na cidade\ndo México, em 27 de Setembro de 1538.\nEu, Juan Garrido, de cor negra, membro desta comunidade\n[vecino], e residente nesta cidade, trago um relato de como\nservi à Vossa Majestade na conquista e pacificação desta\nNova Espanha. Desde quando Cortés entrou nela, estive\npresente em todas as invasões, conquistas e pacificações\nrealizadas no sul do Pacífico, nas ilhas de Porto Rico e de\nCuba. Fiz tudo às minhas custas, sem receber nem salário\nnem repartimiento de índios ou qualquer outra coisa. De\ntodas estas formas, durante trinta anos, servi e continuo a\nservir à Vossa Majestade.\n(Traduzido e adaptado de Matthew Restall, Probanza of Juan Garrido. Black\nConquistadors: Armed Africans in Early Spanish America. The Americas,\nCambridge, v. 57, n. 2, out. 2000, p. 171.)\nAssinale a alternativa correta.",
+      "alternativas": {
+        "A": "A presença de negros nos processos de conquista e\ncolonização das Américas limitou-se à atuação como\nmão de obra escravizada em plantações, em serviços\ndomésticos ou como trabalhadores sem especialização\nem núcleos urbanos.",
+        "B": "A presença de afrodescendentes na\nAmérica\nespanhola pode ser distribuída nas categorias:\nescravos, fugitivos ou forros, em meio rural e urbano,\nauxiliares nos processos de conquista e ainda como\nconquistadores, proprietários e vecinos.",
+        "C": "A presença de negros nos exércitos de Cortez é um\nexemplo da ausência de critérios discriminatórios de\nlimpeza de sangue no processo de conquista da\nAmérica espanhola, diferentemente do que ocorria nas\nAméricas portuguesa e inglesa.",
+        "D": "A presença de afrodescendentes no mundo espanhol\nfoi tardia e concentrou-se no espaço caribenho, onde\natuaram como parte da mão de obra escravizada, mas\ntambém atuaram como conquistadores e vecinos\ncidadãos."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "História – América Colonial",
+        "História – Escravidão"
+      ]
+    },
+    {
+      "numero_questao": 75,
+      "enunciado": "Entre os séculos XVII e XVIII, o nheengatu se tornou a\nlíngua de comunicação interétnica falada por diversos\npovos da Amazônia. Em 1722, a Coroa exortou os\ncarmelitas e OS franciscanos a capacitarem seus\nmissionários a falarem esta língua geral amazônica tão\nfluentemente como os jesuítas, já que em 1689 havia\ndeterminado seu ensino aos filhos de colonos.\n(Adaptado de José Bessa Freire, Da \"fala boa\" ao português na Amazônia\nbrasileira. Ameríndia, Paris, n. 8, 1983, p.25.)\nCom base na passagem acima, assinale a alternativa\ncorreta.",
+      "alternativas": {
+        "A": "Os jesuítas criaram um dicionário baseado em línguas\nindígenas entre os séculos XVI e XIX, que foi\namplamente usado na correspondência e na\nadministração colonial nos dois lados do Atlântico.",
+        "B": "O texto permite compreender a necessidade de o\ncolonizador português conhecer e dominar a língua\npara poder disciplinar os índios em toda a Amazônia\ndurante o período pombalino e no século XIX.",
+        "C": "O aprendizado dessa língua associava-se aos projetos\nde colonização, visando ao controle da mão de obra\nindígena pelos agentes coloniais, como missionários,\ncolonos e autoridades.",
+        "D": "A experiência do nheengatu desapareceu no processo\nde exploração da mão de obra indígena na Amazônia\ne em função da interferência da Coroa, que defendia o\nuso da língua portuguesa."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "História – Brasil Colonial",
+        "História – Culturas Indígenas"
+      ]
+    },
+    {
+      "numero_questao": 76,
+      "enunciado": "Tanto que se viu a abundância do ouro que se tirava e a\nlargueza com que se pagava tudo o que lá ia, logo se\nfizeram estalagens e logo começaram os mercadores a\nmandar às Minas Gerais o melhor que chega nos navios do\nReino e de outras partes. De todas as partes do Brasil, se\ncomeçou a enviar tudo o que dá a terra, com lucro não\nsomente grande, mas excessivo. Daqui se seguiu,\nmandarem-se às Minas Gerais as boiadas de Paranaguá, e\nàs do rio das Velhas, as boiadas dos campos da Bahia, e\ntudo o mais que os moradores imaginaram poderia\napetecer-se de qualquer gênero de cousas naturais e\nindustriais, adventícias e próprias.\n(Adaptado de André Antonil, Cultura e Opulência do Brasil. Belo Horizonte:\nItatiaia-Edusp, 1982, p. 169-171.)\nSobre os efeitos da descoberta das grandes jazidas de\nmetais e pedras preciosas no interior da América\nportuguesa na formação histórica do centro-sul do Brasil, é\ncorreto afirmar que:",
+      "alternativas": {
+        "A": "A demanda do mercado consumidor criado na zona\nmineradora permitiu a conexão entre diferentes partes\nda Colônia que até então eram pouco integradas.",
+        "B": "A partir da criação de rotas de comércio entre os\ncampos do sul da Colônia e a região mineradora,\nSorocaba e suas feiras perderam a relevância\neconômica adquirida no século XVII.",
+        "C": "O desenvolvimento socioeconômico da região das\nminas e do centro-sul levou a Coroa a deslocar a\ncapital da Colônia de Salvador para Ouro Preto em\n1763.",
+        "D": "Como o solo da região mineradora era infértil, durante\ntodo o século XVIII sua população importava os\nprodutos alimentares de Portugal ou de outras\ncapitanias."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "História – Brasil Colonial",
+        "História – Ciclo do Ouro"
+      ]
+    },
+    {
+      "numero_questao": 77,
+      "enunciado": "Os viajantes, missionários, administradores coloniais e\netnógrafos europeus, no passado, tenderam a fundir\nmúltiplas identidades em um único conceito de tribo. O uso\nda palavra tribo para descrever as sociedades africanas\nsurgiu de um desejo de enaltecer o Estado-nação, ao\nmesmo tempo em que sugeria a inferioridade inerente de\noutros. Em resumo, conotava políticas primitivas que eram\nmenos desenvolvidas do que as políticas dos Estados-\nnação.\n(Adaptado de John Parker e Richard Rathbone, \"A ideia de África\", em História\nda África. Lisboa: Quimera, 2016, p. 56-58.)\nBaseado no texto acima e em seus conhecimentos,\nassinale a alternativa correta.",
+      "alternativas": {
+        "A": "A formação e a difusão do conceito de tribo no\npensamento europeu acompanharam os avanços do\ncolonialismo na África no século XIX, legitimando o\ndomínio de seus povos por agentes oriundos de\nnações que se consideravam civilizadas e superiores.",
+        "B": "O conceito de tribo ganhou força no pensamento\nocidental, porque na África não havia formações\npolíticas que cobriam grandes extensões territoriais\ncomo na Europa. Ou seja, os europeus não\nencontraram estruturas políticas acima das unidades\ntribais.",
+        "C": "As sociedades africanas eram organizadas a partir de\npequenas tribos lideradas por chefes guerreiros, o que\ngerava fragmentação política e guerras, inviabilizando\nnesse continente a formação de unidades políticas\ncomplexas nos moldes europeus.",
+        "D": "Em razão das tradições milenares e do respeito aos\nancestrais, as tribos eram unidades sociais e políticas\nestáticas assentadas em uma identidade homogênea.\nOs europeus comumente desrespeitavam todas essas\ncaracterísticas na colonização."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "História – África",
+        "História – Colonialismo"
+      ]
+    },
+    {
+      "numero_questao": 78,
+      "enunciado": "A fotografia anterior registra a fachada do Partido Nacional\nFascista de Benito Mussolini em 1934. A música Bella Ciao\nfoi um hino cantado contra o fascismo de Mussolini e as\ntropas nazistas durante a Segunda Guerra Mundial. Em 25\nde abril de 2018, quando a Itália celebrou 73 anos de sua\nlibertação do nazifascismo, a canção foi entoada em várias\npartes do país.\nSobre os usos da imagem e da música, assinale a\nalternativa correta.\nAFFE LUAT\nSISISISISISISISISISISISI\nSISISI SI SI SISISISISISISI\nSISISISISISI SI SI SI SI\nSISISISI\nSISI SI SI\nSISISISI\nSISISISIS\nSISI SI SI S\nSI SI SI SI\nSI SI SI SI\nSI SI SI SI\nSI SI SI SI\nSI SI SI SI SI\nSISISISISISI SI SI SI SI SI SI\nSISISISISISISISISI SI SI SI\nSISISISISISISISISISISI SI\nPartido Nacional Fascista de Benito Mussolini em 1934\n*si - significa \"sim\" em italiano.\nBella Ciao\nQuerida, adeus\nEsta manhã, eu acordei\nQuerida, adeus! Querida, adeus! Querida, adeus, adeus,\nadeus!\nEsta manhã, eu acordei\nE encontrei um invasor\nOh, membro da Resistência, leve-me embora\nQuerida, adeus! Querida, adeus! Querida, adeus, adeus,\nadeus!\nOh, membro da Resistência, leve-me embora\nPorque sinto que vou morrer\nE se eu morrer como um membro da Resistência\nQuerida, adeus! Querida, adeus! Querida, adeus, adeus,\nadeus!\nE se eu morrer como um membro da Resistência\nVocê deve me enterrar\nE me enterre no alto da montanha\nQuerida, adeus! Querida, adeus! Querida, adeus, adeus,\nadeus!\nE me enterre no alto da montanha\nSob a sombra de uma bela flor. (...).",
+      "alternativas": {
+        "A": "Através de vários mecanismos de propaganda\nideológica e coerção física, os italianos foram forçados\na entoar a música Bella Ciao, a fim de demonstrar\npublicamente sua adesão ao fascismo. Este caráter\numbilical da relação da massa com o líder aparece\nretratado na fotografia.",
+        "B": "Por se tratar de um produto da indústria cultural com\nforte apelo comercial, compreende-se a circulação e o\nconsumo desta música em plano global e em várias\nmídias (shows musicais, novelas e séries). Neste\nsentido, a imagem é um cartaz caracterizado pela\nneutralidade política.",
+        "C": "Trata-se de uma música de alcance internacional\nentoada em várias partes do mundo, em diferentes\ncontextos de resistência política contra o fascismo,\nregime caracterizado pela adesão da massa em\nrelação ao seu líder, como explicita a fotografia.",
+        "D": "O gesto que recupera em 2018 esta canção sugere\numa semelhança entre o tempo de antes (do fascismo)\ne o de hoje, aproximando Silvio Berlusconi de\nMussolini, dirigente retratado na fotografia. Antes,\ncomo agora, Bella Ciao exalta a resistência,\nidentificando-se como uma canção nacionalista."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "História – Fascismo",
+        "História – Segunda Guerra Mundial"
+      ]
+    },
+    {
+      "numero_questao": 79,
+      "enunciado": "A propaganda através de inscrições e desenhos em muros\ne paredes é uma parte integrante da Paris revolucionária\nde Maio de 1968. Ela se tornou uma atividade de massa,\nparte e parcela do método de autoexpressão da\nRevolução.\n(Adaptado de SOLIDARITY, Paris: maio de 68. São Paulo: Conrad, 2008, p. 15.)\nLIBEREZ\nLEXPRESSION\nInscrição: Liberem a\nexpressão\n(Philippe Gras, Paris, 28/05/1968. Disponível em http://proxy.handle.net/.)\nConsiderando o texto e a imagem anteriores, assinale a\nalternativa correta sobre o movimento de Maio de 1968.",
+      "alternativas": {
+        "A": "Influenciado pela política de Estado da União Soviética,\nas manifestações de 1968 foram desencadeadas pelos\noperários franceses, que exigiam melhores condições\nde trabalho, por meio das pichações em muros\nespalhados pela cidade.",
+        "B": "Influenciado pelo contexto cultural da Guerra Fria, as\nmanifestações de 1968 tinham como palavras de\nordem a liberdade de expressão política e sexual,\ncomo se via nas inscrições nos muros de Paris.",
+        "C": "Influenciado pelos movimentos punk-anarquistas\ningleses, as manifestações de 1968 na França foram\nresponsáveis pelo enfraquecimento do então\npresidente Charles De Gaulle e seu lema aparecia em\ninscrições nos muros.",
+        "D": "Influenciado por ideias esquerdistas, comunistas e\nanarquistas, as manifestações de 1968 ficaram\nrestritas às camadas populares francesas, sendo que\nas inscrições nos muros das cidades indicavam o\ngrupo social responsável."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "História – Século XX",
+        "História – Movimentos Sociais"
+      ]
+    },
+    {
+      "numero_questao": 80,
+      "enunciado": "A crise levaria o último governo da ditadura, chefiado pelo\ngeneral João Figueiredo (1979-85), a tomar medidas\ndrásticas. O objetivo inicial era deter a depreciação da\nmoeda nacional, incentivar as exportações e fazer frente\nao aumento do deficit em conta corrente. Assim, a moeda\nfoi desvalorizada em 30% no final de 1979. A medida\nacentuou a desaceleração econômica, o descontrole\ninflacionário e o desarranjo nas contas públicas. Em 1980,\na inflação batia a simbólica marca de 100% ao ano e em\n1981 o país entrava em uma recessão.\n(Adaptado de Gilberto Marangoni, Anos 1980, década perdida ou ganha?\nRevista Desafios do Desenvolvimento, São Paulo, Ano 9, Edição 72, 2012.)\nA partir do texto acima e de seus conhecimentos sobre a\nNova República no Brasil, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "A concentração de renda gerada pelo milagre\neconômico, as bolhas especulativas no mercado\nfinanceiro brasileiro, as flutuações no preço do petróleo\ne a alta internacional dos juros ao longo da década de\n1970 foram elementos decisivos para a superação da\ncrise econômica dos anos de 1980.",
+        "B": "No Brasil dos anos de 1980, a desaceleração\neconômica, o descontrole inflacionário e o desarranjo\nnas contas públicas foram acompanhados pelo\nsilenciamento dos movimentos pelas Diretas Já e dos\ndireitos civis, sendo essa década conhecida como a\n\"década perdida\".",
+        "C": "A crise econômica que se instalou no Brasil a partir de\nmeados dos anos de 1970 gerou pressão sobre o\ngoverno militar do General Figueiredo, que, em\nresposta, aprovou a Lei da Anistia e a Lei Orgânica\ndos Partidos, incentivou o movimento grevista e\ngarantu a realização de eleições de forma lenta,\ngradual e segura.",
+        "D": "A chamada década perdida no Brasil foi marcada por\ngrave crise econômica, pela transição para o regime\ndemocrático, pela gradual normalização das\ninstituições políticas próprias da democracia, pelo\nfortalecimento dos movimentos sociais e civis e pela\nefervescência cultural."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "História – Brasil Contemporâneo",
+        "História – Ditadura Militar"
+      ]
+    },
+    {
+      "numero_questao": 81,
+      "enunciado": "Antes de Copérnico, Kepler e Galileu, os cosmólogos\nelaboravam sistemas que representavam os corpos\ncelestes por meio de esferas encaixadas umas nas outras,\npropostas e desenvolvidas por Eudoxo e Aristóteles, de\nmodo a distinguir os mundos celeste e terrestre. É nesse\ncontexto, caracterizado pela tese de que o cosmo é\ncomposto de dois mundos distintos (céu e Terra), e pelo\naxioma platônico, que deve ser entendido o conteúdo da\ncarta de Kepler (1604). Ele apresenta uma etapa do\nprocesso de rompimento com essa distinção e com o\naxioma platônico. Na carta, Kepler apresenta OS\nprocedimentos para obter as duas primeiras leis dos\nmovimentos planetários. A importância disso é tão grande\nque a segunda lei aparece antes da primeira, e a lei das\náreas só se torna operante numa órbita elíptica, não\npodendo ser aplicada às órbitas circulares sem produzir\ndiscrepâncias com relação aos dados observacionais de\nTycho Brahe.\n(Adaptado de Claudemir Roque Tossato, Os primórdios da primeira lei dos\nmovimentos planetários na carta de 14 de dezembro de 1604 de Kepler a\nMästlin. Scientiae Studia, São Paulo, v. 1, n. 2, p. 199-201, jun. 2003.)\nConsiderando o contexto histórico descrito e as leis físicas\napresentadas por Kepler, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Copérnico, Kepler e Galileu fazem parte da chamada\nRevolução Científica que rompe com leituras\nespeculativas do Universo, baseadas em premissas\naristotélicas e tomistas, e propõe análises empiristas\ndo mundo natural. O conceito de órbitas circulares\npara o movimento dos planetas em torno do Sol, em\nque a distância entre o planeta e o Sol permanece\nconstante durante o movimento, foi abandonado por\nKepler.",
+        "B": "A Revolução Científica da época Moderna propõe a\nruptura com o ideal divino, sendo, por isso, combatida\npela Igreja Católica, que defendia a orquestração\ndivina sobre o mundo humano e natural. O conceito de\nórbitas circulares para o movimento dos planetas em\ntorno do Sol, em que a distância entre o planeta e o\nSol é variável durante o movimento, foi abandonado\npor Kepler.",
+        "C": "Copérnico, Kepler e Galileu foram perseguidos pela\nIgreja Católica do período Moderno, por representarem\no questionamento dos ideais medievais sobre a\norganização do céu e da Terra e sobre a onipresença\ndivina. O conceito de órbitas circulares para o\nmovimento dos planetas em torno do Sol, para as\nquais a distância entre o planeta e o Sol é variável\ndurante o movimento, foi abandonado por Kepler.",
+        "D": "A Revolução Científica da época Moderna, incentivada\npela Igreja Católica, propõe a manutenção do\nantropocentrismo medieval, associado\nconhecimentos empíricos para a leitura e\nrepresentação do mundo natural. O conceito de órbitas\ncirculares para o movimento dos planetas em torno do\nSol, para as quais a distância entre o planeta e o Sol\npermanece constante durante o movimento,\nabandonado por Kepler.\naos\nfoi"
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "História – História da Ciência",
+        "Física – Astronomia"
+      ]
+    },
+    {
+      "numero_questao": 82,
+      "enunciado": "Touching thermal-paper receipts could extend\nBPA retention in the body\nWhen people handle\nreceipts printed on\nthermal\ncontaining\npaper\nthe\nendocrine disruptor\nbisphenol A (BPA), the\ntoxic chemical could\nlinger in the body for a\nweek or more. Jonathan\nW. Martin of Stockholm University and Jiaying Liu of the\nUniversity of Alberta asked six male volunteers to handle\npaper containing isotopically labeled BPA for five minutes.\nThe volunteers then put on nitrile gloves, wore them for two\nhours, removed them, and washed their hands with soap.\nAfterward, the researchers measured the labeled BPA and\nits metabolites in the volunteers' urine regularly for two\ndays and then once again a week later. The study only\ntraced the isotopically labeled (deuterated) BPA and its\nmetabolites, so any additional BPA exposure from other\nsources was not monitored.\n(Deirdre Lockwood, Touching thermal-paper receipts could extend BPA retention\nin the body. Chemical & Engineering News, 04/09/2017.)\nO texto discorre sobre uma pesquisa cujo objetivo foi",
+      "alternativas": {
+        "A": "determinar como o manuseio de papel térmico pode\ncontaminar uma pessoa com bisfenol A, considerando\nque a concentração foi monitorada utilizando-se um\nBPA em que átomos de ¹H foram substituídos por ²H.",
+        "B": "analisar de que forma o uso de luvas nitrílicas lavadas\ncom sabão e contendo BPA deuterado pode\ncontaminar receitas impressas em papel térmico que\ncontém um disruptor endócrino.",
+        "C": "monitorar, durante uma semana ou mais, a cinética de\neliminação de um disruptor endócrino, bisfenol A\n(BPA), do corpo humano que foi contaminado pelo uso\nde luvas nitrílicas.",
+        "D": "verificar como um papel térmico deteriorado por\nátomos de ²H poderia contaminar as mãos de uma\npessoa, mesmo que ela estivesse usando luvas\nnitrílicas durante duas horas e depois as removesse."
+      },
+      "alternativa_correta": "A",
+      "conteudos": [
+        "Inglês – Interpretação de Texto Científico"
+      ]
+    },
+    {
+      "numero_questao": 83,
+      "enunciado": "Largest prime number discovered: with more than 23m\ndigits\nKnown simply as M77232917, the figure is arrived at by\ncalculating two to the power of 77,232,917 and subtracting\none, leaving a gargantuan string of 23,249,425 digits. The\nresult is nearly one million digits longer than the previous\nrecord holder discovered in January 2016. The number\nbelongs to a rare group of so-called Mersenne prime\nnumbers, named after the 17th century French monk Marin\nMersenne. Like any prime number, a Mersenne prime is\ndivisible only by itself and one, but is derived by multiplying\ntwos together over and over before taking away one. The\nprevious record-holding number was the 49th Mersenne\nprime ever found, making the new one the 50th.\n(Adaptado de lan Sample, \"Largest prime number discovered: with more than\n23m digits\". The Guardian, 04/01/2018.)\nConsiderando as informações contidas no excerto anterior,\nqual dos números a seguir é um primo de Mersenne?",
+      "alternativas": {
+        "A": "23.",
+        "B": "29.",
+        "C": "31.",
+        "D": "37."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Matemática – Teoria dos Números"
+      ]
+    },
+    {
+      "numero_questao": 84,
+      "enunciado": "Immigration...\nMal\nYour Car is German. Your Vodka is Russian. Your Pizza is Italian.\nYour Democracy is Greek. Your Coffee is Brazilian. Your Movies are\nAmerican. Your Shirt is Indian. Your Oil is Saudi Arabian. Your\nElectronics are Chinese. Your Numbers Arabic, your Letters Latin.\nAnd YOU complain that YOUR Neighbor is an Immigrant?\n(Adaptado de https://br.pinterest.com. Acessado em 10/06/2018.)\nO post anterior aponta",
+      "alternativas": {
+        "A": "as vantagens da globalização para o consumidor e os\nproblemas causados pela imigração.",
+        "B": "o impacto negativo dos processos migratórios no modo\ncomo as culturas vêm sendo globalizadas.",
+        "C": "os efeitos da globalização no nosso cotidiano e o\npreconceito contra imigrantes.",
+        "D": "o consumo excessivo de produtos estrangeiros no\nmundo capitalista contemporâneo."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Inglês – Interpretação de Texto",
+        "Sociologia – Globalização",
+        "Sociologia – Migrações"
+      ]
+    },
+    {
+      "numero_questao": 85,
+      "enunciado": "IT'S A SIGN OF\nECONOMIC\nRECOVERY...\nI FINALLY GOT\nTHIS PART TIME,\nMINIMUM WAGE\nJOB WITH NO\nBENEFITS...\n1\nAND I HAD\nTO BEAT ONLY 500\nOTHER APPLICANTS\nTO GET IT...\nCOPYRIGHT 206 CRESTORS.COM\nBEATIE\n(Disponível em https://www.creators.com/read/bruce-beattie/01/11/70433.\nAcessado em 18/03/2018.)\nEste cartum foi criado pelo norte-americano Bruce Beattie,\nem 2011. Nele, o cartunista faz uso da ironia para",
+      "alternativas": {
+        "A": "justificar a meritocracia como\nprincípio de\nreconhecimento de igualdade de oportunidades.",
+        "B": "identificar a garantia do salário mínimo como condição\nsuficiente para a proteção da classe trabalhadora.",
+        "C": "abordar os efeitos da precarização do trabalho nas\nsociedades contemporâneas.",
+        "D": "propor que a empregabilidade leva à recuperação da\neconomia e à justiça social."
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Inglês – Interpretação de Cartoon",
+        "Sociologia – Trabalho e Emprego"
+      ]
+    },
+    {
+      "numero_questao": 86,
+      "enunciado": "We raise girls to cater to the fragile\negos of men. We teach girls do shrink\nthemselves, to make themselves\nsmaller. We tell girls 'You can have\nambition, but not too much'. 'You\nshould aim to be successful, but not too successful,\notherwise you will threaten the man'. (...) We teach girls\nshame - 'Close your legs, cover yourself!'. We make them\nfeel as though by being born female, they're already guilty\nof something. And so, girls grow up to be women who\ncannot see they have desire. They grow up to be women\nwho silence themselves. They grow up to be women who\ncannot say what they truly think. And they grow up and\nthis is the worst thing we do to girls to be women who\nturn pretense into an art form.\n(Adaptado da palestra \"We should all be feminists\", 15/07/2009. Disponível em\nhttps://www.youtube.com/watch?v=hg3umXU_qWc&t=797s. Acessado em\n14/05/2018.)\nO texto anterior reproduz trechos de uma palestra\nproferida pela escritora nigeriana Chimamanda Adichie em\n2009. Segundo a autora, o fato de serem criadas para\nagradar aos homens faz com que as mulheres",
+      "alternativas": {
+        "A": "valorizem sua sexualidade ao longo de suas vidas.",
+        "B": "cresçam vendo a dissimulação como algo normal.",
+        "C": "sejam ameaçadas, caso se tornem bem-sucedidas.",
+        "D": "tenham suas vozes silenciadas pelos homens."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Inglês – Interpretação de Texto",
+        "Sociologia – Gênero e Sociedade"
+      ]
+    },
+    {
+      "numero_questao": 87,
+      "enunciado": "ENGLISH\nIS WEIRD.\nIT CAN BE\nUNDERSTOOD\nTHROUGH\nTOUGH, THOROUGH\nTHOUGHT,\nTHOUGH.\n(Adaptado de https://www.teachersloungeshop.com. Acessado em 30/04/2018.)\nOs dizeres da camiseta",
+      "alternativas": {
+        "A": "brincam com palavras do inglês que têm grafias e\npronúncias semelhantes.",
+        "B": "criam um efeito de humor explorando a ambiguidade\nde certas palavras do inglês.",
+        "C": "brincam com o fato de o inglês ser uma língua\nirracional e incompreensível.",
+        "D": "criam um efeito de humor a partir da complexidade do\nsistema ortográfico do inglês."
+      },
+      "alternativa_correta": "D",
+      "conteudos": [
+        "Inglês – Linguística",
+        "Inglês – Fonologia",
+        "Inglês – Morfologia"
+      ]
+    },
+    {
+      "numero_questao": 88,
+      "enunciado": "'Yes, I'm Italian – but I'm not loud, I don't\ngesticulate and I'm not good with pizza'\nElena Ferrante\nI love my country, but I have no patriotic spirit and no\nnational pride. What's more, I digest pizza poorly, I eat very\nlittle spaghetti, I don't speak in a loud voice, I don't\ngesticulate, I hate all mafias, I don't exclaim \"Mamma mia!\"\nNational characteristics are simplifications that should be\ncontested. Being Italian, for me, begins and ends with the\nfact that I speak and write in the Italian language.\nPut that way it doesn't seem like much, but really it's a lot.\nA language is a compendium of the history, geography,\nmaterial and spiritual life, the vices and virtues, not only of\nthose who speak it, but also of those who have spoken it\nthrough the centuries. When I say that I'm Italian because I\nwrite in Italian, I mean that I'm fully Italian in the only way\nI'm willing to attribute to myself a nationality. I don't like\nthe other ways, especially when they become nationalism,\nchauvinism, and imperialism.\n(Adaptado de Elena Ferrante, 'Yes, I'm Italian but I'm not loud, I don't\ngesticulate and I'm not good with pizza', The Guardian, 24/02/2018.)\nTranscrevem-se, a seguir, versos de canções brasileiras e\nde um poema de Vinícius de Moraes. Assinale a alternativa\nque melhor exemplifica as afirmações de Elena Ferrante.",
+      "alternativas": {
+        "A": "\"Eu me sinto um estrangeiro.\" (Engenheiros do Hawaii,\n\"A revolta dos dândis\".)",
+        "B": "\"Pátria Amada, é pra você esta canção/Desesperada,\ncanção de desilusão.” (Inocentes, “Pátria amada\".)",
+        "C": "“Minha pátria é minha língua.\" (Caetano Veloso,\n\"Língua\".)",
+        "D": "\"Se me perguntarem o que é a minha pátria, direi:/ Não\nsei. De fato, não sei (...).” (Vinícius de Moraes, \"Pátria\nminha\".)"
+      },
+      "alternativa_correta": "C",
+      "conteudos": [
+        "Inglês – Interpretação de Texto",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numero_questao": 89,
+      "enunciado": "Love is not all\nBy Edna St. Vincent Millay\nLove is not all: It is not meat nor drink\nNor slumber nor a roof against the rain;\nNor yet a floating spar to men that sink\nAnd rise and sink and rise and sink again;\nLove cannot fill the thickened lung with breath,\nNor clean the blood, nor set the fractured bone;\nYet many a man is making friends with death\nEven as I speak, for lack of love alone.\nIt well may be that in a difficult hour,\nPinned down by need and moaning for release,\nOr nagged by want past resolution's power,\nI might be driven to sell your love for peace,\nOr trade the memory of this night for food.\nIt may well be. I do not think I would.\n(Disponível em https://www.poemhunter.com/. Acessado em 28/05/2018.)\nDe acordo com o poema,",
+      "alternativas": {
+        "A": "por falta de amor, somos derrotados pelas dificuldades\nda vida.",
+        "B": "há quem busque a companhia da morte por falta de\namor.",
+        "C": "a rotina diária a que somos submetidos é capaz de pôr\nfim ao amor.",
+        "D": "é melhor trocar as incertezas do amor por paz de\nespírito."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Inglês – Análise Literária",
+        "Inglês – Poesia"
+      ]
+    },
+    {
+      "numero_questao": 90,
+      "enunciado": "Genetic Fortune-Telling\nOne day, babies will get DNA report cards at birth. These\nreports will offer predictions about their chances of suffering\na heart attack or cancer, of\ngetting hooked on tobacco,\nand of being smarter than\naverage.\nThough the new DNA tests\noffer probabilities, not\ndiagnoses, they could greatly\nbenefit medicine.\nFor\nexample, if women at high risk for breast cancer got more\nmammograms and those at low risk got fewer, those exams\nmight catch more real cancers and set off fewer false\nalarms. The trouble is, the predictions are from perfect.\nWhat if someone with a low risk score for cancer puts off\nbeing screened, and then develops cancer anyway?\nPolygenic scores are also controversial because they can\npredict any trait, not only diseases. For instance, they can\nnow forecast about 10 percent of a person's performance\non IQ tests. But how will parents and educators use that\ninformation?\n(Adaptado de Derek Brahney, Genetic Fortune-Telling. MIT Technology Review,\nMarço/Abril 2018)\nDe acordo com o texto, um dos riscos do prognóstico\ngenético dos indivíduos desde o nascimento seria o de",
+      "alternativas": {
+        "A": "empresas usarem as informações para não contratar\npessoas que teriam predisposição a certas doenças ou\nvícios.",
+        "B": "algumas mulheres descuidarem da prevenção de\nproblemas de saúde para os quais pareciam não estar\npredispostas.",
+        "C": "governos usarem as informações genéticas para negar\na certos cidadãos o acesso a serviços de saúde\npública.",
+        "D": "pais e educadores passarem a desconsiderar dados\nsobre o coeficiente de inteligência de seus filhos ou\nalunos."
+      },
+      "alternativa_correta": "B",
+      "conteudos": [
+        "Inglês – Interpretação de Texto Científico",
+        "Biologia – Bioética",
+        "Sociologia – Ciência e Sociedade"
+      ]
+    }
+  ]
+}
+```
+      

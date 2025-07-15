@@ -100,18 +100,18 @@ Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes in
   - O(s) conteúdo(s) abordados na questão no formato: "Disciplina – Tópico Específico" (exemplo: "Matemática – Funções do 1º grau").
 
 Importante: A disciplina deve ser exclusivamente uma das seguintes: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia" ou "Sociologia". Não utilize nenhuma outra. Caso a questão não pertença a uma dessas três disciplinas, ignore-a e não a inclua no resultado.
-A saída final deve ser estritamente um único objeto JSON puro, sem explicações, comentários, ou formatações extras como blocos de código. Siga o schema da função fornecida com exatidão.`,
+A saída final deve ser estritamente um único objeto JSON puro, sem explicações, comentários, ou formatações extras como blocos de código. Siga o schema da função fornecida com exatidão, não altere nenhum nome dos campos do jsonschema apresentado.`,
   ];
 
   console.log("Iniciando upload e processamento dos arquivos...");
 
     console.time("Processando Arquivo da Prova");
-    let file1 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2024/1dia/famerp2024_1dia_prova.pdf", "PDF Da Prova");
-    console.timeEnd("Processando Arquivo da Prova"); // Termina o cronômetro do arquivo 1
+    let file1 = await uploadRemotePDF("https://www.vestibular.ita.br/provas/2019_fase1.pdf", "PDF Da Prova");
+    console.timeEnd("Processando Arquivo da Prova");                  // Termina o cronômetro do upload da prova
 
     console.time("Processando Arquivo do Gabarito");
-    let file2 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2024/1dia/famerp2024_1dia_gabarito.pdf", "PDF Do Gabarito");
-    console.timeEnd("Processando Arquivo do Gabarito"); // Termina o cronômetro do arquivo 2
+    let file2 = await uploadRemotePDF("https://www.vestibular.ita.br/provas/gabarito_2019.pdf", "PDF Do Gabarito");
+    console.timeEnd("Processando Arquivo do Gabarito");               // Termina o cronômetro do upload do Gabarito
 
     console.log("Uploads e processamento dos PDF's concluídos.");
 

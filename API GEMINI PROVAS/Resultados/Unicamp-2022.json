@@ -1,0 +1,1146 @@
+{
+  "analise_geral": {
+    "universidade_prova": "UNICAMP VESTIBULAR",
+    "ano": 2022,
+    "quantidade_total_questoes": 72
+  },
+  "questoes": [
+    {
+      "numero_questao": 1,
+      "enunciado": "Tudo na vida é mortal, tudo se apaga. Se a tua chama se apaga é em ti que está a falta. Faz o que te digo e magia nenhuma te derrubará nesta vida. Tu és feitiço por excelência e não deves procurar mais magia nenhuma. Corpo de mulher é magia. Força. Fraqueza. Salvação. Perdição. O universo inteiro cabe nas curvas de uma mulher.\n(Paulina Chiziane, Niketche: uma história de poligamia. São Paulo: Companhia das Letras, 2021. p. 38.)\nO excerto acima corresponde a uma das primeiras lições que a conselheira amorosa oferece a Rami, a personagem principal do romance. Tendo em vista as várias peripécias vividas por Rami, essa lição é",
+      "alternativas": {
+        "A": "aceita pela protagonista, mas sua trajetória lhe ensina que o corpo feminino é, no fim das contas, perdição.",
+        "B": "abandonada pela personagem principal, uma vez que seu marido não se encanta com seus novos ardis.",
+        "C": "frustrada, pois Rami, ao conhecer suas rivais, percebe que não possui todos os atributos desejáveis.",
+        "D": "confrontada com a experiência pessoal de Rami e de suas rivais, transformando-as de modo significativo."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Língua Portuguesa – Literatura Brasileira Contemporânea",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numero_questao": 2,
+      "enunciado": "Tenho horror a de aqui a pouco vos ter já dito o que vos vou dizer. As minhas palavras presentes, mal eu as diga, pertencerão logo ao passado, ficarão fora de mim, não sei onde, rígidas e fatais... Falo, e penso nisto na minha garganta, e as minhas palavras parecem-me gente...\n(Fernando Pessoa, O marinheiro. Campinas: Editora da Unicamp, 2020, p. 51.)\nO que eu era outrora já não se lembra de quem sou... Às vezes, à beira dos lagos, debruçava-me e fitava-me... Quando eu sorria, os meus dentes eram misteriosos na água... Tinham um sorriso só deles, independentes do meu...\n(Idem, p. 52.)\nNos excertos acima, dois fenômenos são apresentados ao leitor e constituem o principal problema dramático da peça de Fernando Pessoa. Assinale a alternativa que identifica e explica corretamente esses fenômenos.",
+      "alternativas": {
+        "A": "As palavras e as imagens tornam-se independentes da pessoa humana. Isso significa a cisão entre o sujeito e o mundo ou, ainda, a crise de identidade pessoal reiterada nos diálogos.",
+        "B": "Proferir um discurso e ver-se refletido em um lago são situações dramáticas que sugerem a unidade entre ser e existir. A questão central, quem eu sou, é resolvida no desfecho da peça.",
+        "C": "Lembrar e esquecer são dois aspectos inseparáveis da estrutura dramática da peça. Se a imagem refletida no lago não se assemelha à pessoa que a contempla, as palavras, por sua vez, garantem a conexão entre o eu e a realidade exterior.",
+        "D": "O horror e o mistério das coisas são elementos básicos desse drama. Eles produzem, nas personagens, a convicção de que é útil narrar as experiências do passado porque assim se revela o seu verdadeiro significado."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Língua Portuguesa – Literatura Portuguesa – Modernismo",
+        "Língua Portuguesa – Interpretação de Texto",
+        "Filosofia – Questões da Identidade"
+      ]
+    },
+    {
+      "numero_questao": 3,
+      "enunciado": "As Ondas\nEntre as trêmulas mornas ardentias,\nA noite no alto-mar anima as ondas.\nSobem das fundas úmidas Golcondas,\nPérolas vivas, as nereidas frias:\nEntrelaçam-se, correm fugidias,\nVoltam, cruzando-se; e, em lascivas rondas,\nVestem as formas alvas e redondas\nDe algas roxas e glaucas pedrarias.\nCoxas de vago Ônix, ventres polidos\nDe alabastro, quadris de argentea espuma,\nSeios de dúbia opala ardem na treva;\nE bocas verdes, cheias de gemidos,\nQue o fósforo incendeia e o âmbar perfuma,\nSoluçam beijos vãos que o vento leva...\n(Olavo Bilac, Tarde. Rio de Janeiro: Francisco Alves, 1919, p.48)\nArdentia: s.f. fosforescência sobre as ondas do mar, à noite.\nGolconda: s. f. (fig.) mina de riquezas.\nNereida: s.f. cada uma das ninfas do mar, filhas de Nereu.\n(Disponíveis em www.aulete.com.br/ Acessado em 30/07/2021.)\nEm relação ao soneto de Olavo Bilac (no contexto de sua época), é correto afirmar que a seleção lexical favorece a",
+      "alternativas": {
+        "A": "descrição objetiva que o eu lírico faz da fantasia amorosa recorrendo à riqueza mineral dos oceanos.",
+        "B": "representação estética que o eu lírico faz do desejo amoroso associado a fenômenos naturais.",
+        "C": "descrição científica que o eu lírico faz do corpo feminino recorrendo a fenômenos da natureza.",
+        "D": "representação natural que o eu lírico faz do jogo de sensualidade associado à mitologia grega."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Língua Portuguesa – Literatura Brasileira – Parnasianismo",
+        "Língua Portuguesa – Análise Poética",
+        "Língua Portuguesa – Vocabulário e Semântica"
+      ]
+    },
+    {
+      "numero_questao": 4,
+      "enunciado": "Na ribeira do Eufrates assentado,\nDiscorrendo me achei pela memória\nAquele breve bem, aquela glória,\nQue em ti, doce Sião, tinha passado.\nDa causa de meus males perguntado\nMe foi: Como não cantas a história\nDe teu passado bem e da vitória\nQue sempre de teu mal hás alcançado?\nNão sabes, que a quem canta se lhe esquece\nO mal, inda que grave e rigoroso?\nCanta, pois, e não chores dessa sorte.\nRespondi com suspiros: Quando cresce\nA muita saudade, o piedoso\nRemédio é não cantar senão a morte.\n(Luís de Camões, 20 sonetos. Org. Sheila Hue. Campinas: Editora da Unicamp, 2018, p.113).\nConsiderando as características formais e o núcleo temático, é correto afirmar que o poema retoma o dito popular",
+      "alternativas": {
+        "A": "\"longe dos olhos, perto do coração\".",
+        "B": "\"mais vale cantar mal que chorar bem”.",
+        "C": "\"a cada canto seu Espírito Santo\".",
+        "D": "\"quem canta seus males espanta\"."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Língua Portuguesa – Literatura Portuguesa – Classicismo",
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Provérbios"
+      ]
+    },
+    {
+      "numero_questao": 5,
+      "enunciado": "(...) eu sou um pobre relojoeiro que, cansado de ver que os relógios deste mundo não marcam a mesma hora, descri do ofício. (...) Um exemplo. O Partido Liberal, segundo li, estava encasacado e pronto para sair, com o relógio na mão, porque a hora pingava. Faltava-lhe só o chapéu, que seria o chapéu Dantas, ou o chapéu Saraiva (ambos da chapelaria Aristocrata); era só pô-lo na cabeça, e sair. Nisto passa o carro do paço com outra pessoa, e ele descobre que ou o seu relógio está adiantado, ou o de Sua Alteza é que se atrasara. Quem os porá de acordo?\n(Machado de Assis, Bons dias. Introdução e notas John Gledson. 3. ed. Campinas: Editora da Unicamp, 2008, p. 79.)\nCom relação ao excerto da crônica de Machado de Assis, publicada em 05 de abril de 1888 na Gazeta de Notícias, é correto afirmar que a metáfora mecânica faz referência à passagem do tempo, aludindo à expectativa de mudança de",
+      "alternativas": {
+        "A": "regime a partir de discordâncias políticas que levaram à eleição do governo imperial.",
+        "B": "século, marcada pela perspectiva da chegada do meteorito de Bendegó na corte imperial.",
+        "C": "mentalidade escravagista, com um pacto político para suspensão de costumes imperiais.",
+        "D": "legislação, com a alternância entre partidos para a formação de um novo ministério do governo imperial."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Língua Portuguesa – Literatura Brasileira – Realismo",
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Figuras de Linguagem (Metáfora)",
+        "História – Brasil Império"
+      ]
+    },
+    {
+      "numero_questao": 6,
+      "enunciado": "No ano seguinte, o Ateneu revelou-se-me noutro aspecto. Conhecera-o interessante, com as seduções do que é novo, com as projeções obscuras de perspectiva, desafiando curiosidade e receio; conhecera-o insípido e banal como os mistérios resolvidos, caiado de tédio; conhecia-o agora intolerável como um cárcere, murado de desejos e privações.\n(Raul Pompeia, O Ateneu. 7ª. ed. São Paulo: Ática, 1980, p. 98.)\nCom base no excerto que inicia o capítulo VIII do romance de Raul Pompéia e no seu subtítulo – crônica de saudades -, é correto afirmar que a obra é",
+      "alternativas": {
+        "A": "um relato, em primeira pessoa, de experiências coletivas e íntimas, no qual o protagonista mostra aspectos da realidade social, valorizando o sistema escolar e prisional.",
+        "B": "um romance de formação, no qual o protagonista revela condutas e intrigas no ambiente escolar, com elogios à pedagogia corretiva e aos valores morais da burguesia.",
+        "C": "uma narrativa memorialista de experiências vividas num internato, na qual o protagonista revela aspectos do sistema educacional da época, com críticas à hipocrisia burguesa.",
+        "D": "um relato saudosista de experiências vividas no internato, no qual o protagonista mostra o poder de sedução e corrupção das amizades, com críticas à falsidade da burguesia."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Língua Portuguesa – Literatura Brasileira – Naturalismo/Realismo",
+        "Língua Portuguesa – Análise de Obra"
+      ]
+    },
+    {
+      "numero_questao": 7,
+      "enunciado": "USE OS TEXTOS I e II PARA RESPONDER ÀS QUESTÕES 7 E 8.\nTexto I\n[Image: A mural with abstract figures and plants, in shades of blue, green, and red. A prominent part shows a large figure with a stylized headdress, holding a staff. Below it, a phrase: \"Repovoamento da memória de uma cidade-floresta\".]\n(Denilson Baniwa, Repovoamento da memória de uma cidade-floresta, 2021, Mural Lambe-lambe, 3,80m x 12m. Disponível em https://www.premiopipa.com/wp-content/uploads/2019/03/23-Denilson-Baniwa.jpeg .Acessado em 05/07/2021.)\nTexto II\nPara que as memórias e tradições permaneçam vivas, o Museu da Pessoa, a Rádio Yandê e Ailton Krenak vão realizar uma formação virtual em memória e mídias para que jovens das comunidades originárias registrem as histórias de vida de seus anciãos e anciãs.\nO ditado \"Cada ancião que morre é uma biblioteca que se queima” é válido para os povos indígenas, portanto nosso lema é \"Cada ancião que se preserva é uma biblioteca que se salva\". Na tradição dos povos indígenas, todo conhecimento de plantas, de cura, de mitos e narrativas é produzido de maneira oral. \"A gente não sabe até quando que vão ter esse conhecimento completo. A gente vai morrendo e vai se apagando tudo. A gente não é igual vocês, que fica tudo guardado em algum lugar (...)\" (Awapataku Waura, ancião e pajé do povo Waura).\n(Adaptado de \"Projeto Vidas Indígenas\", vídeo institucional do Museu da Pessoa, sobre registro de narrativas orais indígenas. Disponível em: https://benfeitoria.com/vidasindigenas. Acessado em 04/04/2021.)\nO mural criado pelo artista Denilson Baniwa (texto I) e o excerto da apresentação do Projeto Vidas Indígenas (texto II) tratam da memória dos povos indígenas. Assinale a alternativa que sintetiza os dois textos.",
+      "alternativas": {
+        "A": "Os conhecimentos produzidos por narrativas orais são facilmente perdidos, por isso os povos indígenas não conseguem transmitir sua memória.",
+        "B": "A produção de imagens e o uso de mídias tecnológicas em comunidades indígenas são atualmente o único meio de esses povos contarem suas histórias.",
+        "C": "Os textos orais indígenas dão forma a memórias, saberes e visões de mundo desses povos, por isso devem ser registrados e mantidos.",
+        "D": "O mural ressalta a perda da memória dos povos indígenas e o excerto propõe meios de modernização da produção de narrativas e saberes."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Arte – Arte Indígena Contemporânea",
+        "Sociologia – Cultura Indígena",
+        "História – Memória e Tradição"
+      ]
+    },
+    {
+      "numero_questao": 8,
+      "enunciado": "No texto II (Projeto Vidas Indígenas), é utilizada uma metáfora que relaciona “ancião” e “biblioteca\". As citações a seguir tratam da importância de anciãos e anciãs indígenas para a transmissão do conhecimento. Assinale aquela que também faz uso de uma metáfora.",
+      "alternativas": {
+        "A": "\"Perder um ancião é o mesmo que fechar um livro. Ou mesmo queimar um livro” (Comissão Pró-Índio, Twitter, via @g1).",
+        "B": "\"Morte de anciãos indígenas na pandemia pode fazer línguas inteiras desaparecerem” (manchete da BBC Brasil News).",
+        "C": "\"A morte de uma anciã ou um ancião é tratada como se uma biblioteca fosse perdida\" (site \"Racismo Ambiental\").",
+        "D": "\"Nikaiti Mekranotire é mais uma vítima do covid-19. Perdemos uma enciclopédia\" (Mayalú Txucarramãe, Twitter)."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Figuras de Linguagem (Metáfora)"
+      ]
+    },
+    {
+      "numero_questao": 9,
+      "enunciado": "Leia, a seguir, o título e subtítulo de uma reportagem.\nRoça-office: dobra procura por imóveis no interior baiano durante pandemia\nReflexão sobre vivência urbana tem causado um novo êxodo urbano; conheça histórias e veja quando vale a pena se mudar\n(Fonte: Correio 24horas. 21/06/2021.)\nAo longo da pandemia da Covid-19 tornou-se cada vez mais recorrente o uso da expressão de língua inglesa home office (em tradução literal, “escritório em casa\") para se referir a trabalho a distância ou a teletrabalho. Indique a alternativa que descreve o processo de composição do neologismo \"roça-office”, conforme empregado no título da reportagem.",
+      "alternativas": {
+        "A": "A substituição do vocábulo em inglês \"home\" por \"roça” torna o uso desse estrangeirismo mais adequado à grafia do português.",
+        "B": "A justaposição de \"roça\" e \"office” produz um efeito cômico pelo contraste entre os meios rural e urbano na formação do neologismo.",
+        "C": "A justaposição de “roça” e do neologismo “office” baseia-se na similaridade fonético-fonológica entre os vocábulos \"home\" e \"roça”.",
+        "D": "A aglutinação dos radicais \"roça” e “office\" adapta o neologismo aos imóveis brasileiros e produz o efeito de humor na manchete."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Língua Portuguesa – Formação de Palavras (Neologismo)",
+        "Língua Portuguesa – Semântica",
+        "Geografia – Relação Campo-Cidade"
+      ]
+    },
+    {
+      "numero_questao": 10,
+      "enunciado": "Texto I\n[Image: A black and white image with a white background. On the top right, a figure of a person is shown with a halo on their head. The text in the middle is large, in bold, sans-serif font, and reads: \"fique off-line seja herói\".]\n(André Vallias, 2020. Disponível em: https://gramho.com/media/2412019968340930281. Acessado em 20/06/2021.)\nTexto II\n[Image: A black and white image with a white background. The text in the middle is large, in bold, sans-serif font, and reads: \"seja marginal seja herói\".]\n(Hélio Oiticica, Bandeira-poema [Seja marginal, seja herói], 1968. Disponível em: https://enciclopedia.itaucultural.org.br/obra2638/bandeira-poema. Acessado em 24/08/2021.)\nConsidere o diálogo intertextual entre os dois poemas e assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O texto II parodia o texto I ao deslocar o tema da conectividade no meio digital para o elogio da marginalidade como ato heroico.",
+        "B": "O texto I parafraseia o texto II ao chamar atenção para a posição marginal imposta a quem resiste à pressão de viver conectado às redes.",
+        "C": "O texto Il alude ao texto I para reforçar a equivalência entre as condições de ficar “off-line” e ser \"marginal\" em cada contexto.",
+        "D": "O texto I parodia o texto II para situar como heroico e transgressivo o ato de se desconectar das redes sociais no contexto atual."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Arte – Arte Contemporânea",
+        "Língua Portuguesa – Intertextualidade",
+        "Sociologia – Comportamento Social e Redes Sociais"
+      ]
+    },
+    {
+      "numero_questao": 11,
+      "enunciado": "No conjunto de seus diferentes usos, a palavra \"cultura\" pode significar um valor individual do sujeito que \"tem cultura\"; um valor coletivo de povos, etnias e grupos sociais que produzem bens culturais que podem tornar-se propriedade de alguns; um valor de produto comercializado, como um livro, um quadro, uma peça teatral. O controle da circulação de bens começa com a invenção da imprensa no século XV, seguida da regulação dos direitos autorais e de reprodução. Hoje, a expansão da tecnologia digital, o compartilhamento nas redes e seu monopólio resultam em condições ainda mais complexas de produção, circulação e comercialização de bens culturais. Além disso, tradições milenares no Extremo Oriente e em alguns povos originários da América Latina mostram que o mundo não é só o que chamamos de Ocidente e que as noções de cópia, original, livre e coletivo diferem entre culturas diversas. Nesse contexto, pergunta o autor, como defender uma cultura livre?\n(Adaptado de Leonardo Foleto, Introdução ao livro A cultura é livre: uma história da resistência antipropriedade. Disponível em https://outraspalavras.net/alemdamercadoria/cultura-seus-tres-significados-e-sua-libertacao/. Acessado em 10/04/2021.)\nCom base no que afirma o autor, a defesa de uma cultura livre dependeria",
+      "alternativas": {
+        "A": "da produção e circulação de bens culturais por grupos sociais.",
+        "B": "da atenção dada aos valores individuais e aos direitos autorais.",
+        "C": "da consideração de experiências e valores de outras culturas.",
+        "D": "do compartilhamento de bens culturais via tecnologia digital."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Filosofia – Cultura e Sociedade",
+        "Sociologia – Produção Cultural",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numero_questao": 12,
+      "enunciado": "O texto a seguir faz parte de um glossário publicado nas redes sociais do Alto-comissariado das Nações Unidas para os Refugiados (ACNUR).\nRefugiado\nPessoas refugiadas são aquelas que estão fora de seu país de origem por medo de perseguição relacionada a questões de raça, religião, nacionalidade, opinião política ou pertencimento a determinado grupo social, como também à grave violação de direitos humanos e violência generalizada (conceito este aplicado pela Declaração de Cartagena de 1984).\nMigrante\nRefere-se à pessoa que se desloca dentro de seu próprio país, mas também pode ser usada para falar dos deslocamentos internacionais, sobre quem busca melhores condições de vida, motivada por fatores econômicos ou educacionais, podendo retornar com segurança ao seu país de origem, caso assim desejem.\n[Image: UNHCR ACNUR logo]\n(Fonte: Perfil de Instagram do ACNUR Brasil: Disponível em: https://www.instagram.com/acnurbrasil. Acessado em 26/06/2021.)\nSobre os verbetes do glossário do ACNUR, é correto dizer que",
+      "alternativas": {
+        "A": "contextualizam os usos dos dois termos pela agência.",
+        "B": "enfatizam a sinonímia dos termos no uso pela agência.",
+        "C": "evidenciam uma antonímia dos significados dos termos.",
+        "D": "informam as acepções figuradas de cada um dos termos."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Geografia – Migrações",
+        "Sociologia – Questões Sociais",
+        "Língua Portuguesa – Vocabulário e Semântica"
+      ]
+    },
+    {
+      "numero_questao": 13,
+      "enunciado": "Certo país adquiriu 5.000.000 de doses das vacinas Alfa, Beta e Gama, pagando um preço de $40.000.000,00 pelo total. Cada dose das vacinas Alfa, Beta e Gama custou $5,00, $10,00 e $20,00, respectivamente. Sabendo que o número de doses adquiridas da vacina Beta é o triplo do número de doses adquiridas da vacina Gama, o número de doses adquiridas da vacina Alfa foi de:",
+      "alternativas": {
+        "A": "1.500.000.",
+        "B": "2.000.000.",
+        "C": "2.500.000.",
+        "D": "3.000.000."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Matemática – Sistemas de Equações",
+        "Matemática – Problemas de Primeiro Grau"
+      ]
+    },
+    {
+      "numero_questao": 14,
+      "enunciado": "Certo modelo de carro é vendido em duas versões: uma a gasolina e outra híbrida. Essa última versão conta com um motor elétrico para funcionar em baixas velocidades, reduzindo, assim, o consumo de combustível e também os índices de poluição.\nA versão a gasolina custa R$ 150.000,00 e a versão híbrida custa R$ 180.000,00. A tabela a seguir indica o consumo de combustível de cada uma das versões:\n[Table: Consumo de combustível das versões de carro. Headers: Uso na cidade, Uso na estrada. Rows: Versão a gasolina (12 km/l cidade, 14 km/l estrada), Versão híbrida (18 km/l cidade, 16 km/l estrada).]\nNote que a versão híbrida é mais econômica, porém custa mais caro.\nUm motorista faz diariamente um percurso de 36 km na cidade e de 56 km na estrada. Considerando que cada litro de gasolina custa R$ 5,00 e que, ao longo do tempo, esse preço será constante e o percurso não se alterará, quantos anos de uso serão necessários para que a economia no abastecimento compense o preço mais alto pago inicialmente pelo carro híbrido?",
+      "alternativas": {
+        "A": "Mais que 8 e menos que 10 anos.",
+        "B": "Mais que 10 e menos que 12 anos.",
+        "C": "Mais que 12 e menos que 14 anos.",
+        "D": "Mais que 14 e menos que 16 anos."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Matemática – Análise de Gráficos e Tabelas",
+        "Matemática – Proporcionalidade",
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numero_questao": 15,
+      "enunciado": "As figuras abaixo ilustram, respectivamente, os gráficos das funções y = f(x) e y = g(x).\n[Image: Graph of y = f(x). A cubic-like function passing through (0,0), (-1, -1), (1, 1), (2, -1), (3, 1).]\n[Image: Graph of y = g(x). A linear function, passing through (0, -1), (1, 0), (2, 1), (3, 2).]\nEntão f(g(-1)) – g(f(1)) vale:",
+      "alternativas": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "4."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Matemática – Funções (Interpretação de Gráficos)",
+        "Matemática – Composição de Funções"
+      ]
+    },
+    {
+      "numero_questao": 16,
+      "enunciado": "Dados os números reais positivos a1, a2, ..., an, a média geométrica M destes termos é calculada por:\nM = √(a1 * ... * an).\nA média geométrica de 1, 10, 100, ..., 10^22 é:",
+      "alternativas": {
+        "A": "10^11.",
+        "B": "10^12.",
+        "C": "10^13.",
+        "D": "10^14."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Matemática – Progressões Geométricas",
+        "Matemática – Média Geométrica",
+        "Matemática – Potenciação"
+      ]
+    },
+    {
+      "numero_questao": 17,
+      "enunciado": "USE O TEXTO A SEGUIR PARA RESPONDER ÀS QUESTÕES 17 E 18.\nPara conter uma certa epidemia viral, uma vacina será aplicada a uma população. Sabe-se que:\n• a efetividade de uma vacina pode ser entendida como sendo a porcentagem dos indivíduos vacinados que estarão imunes à doença; e\n• para controlar a epidemia, a porcentagem mínima de uma dada população a ser imunizada é dada pela fórmula I(R₀) = 100(R₀ − 1)/R₀, em que R₀ > 1 é um valor associado às características da epidemia.\nAssume-se, ainda, que uma eventual imunização somente é adquirida por meio da vacina.\nEm relação à epidemia e à vacinação, é correto afirmar que",
+      "alternativas": {
+        "A": "a porcentagem mínima da população que deve ser vacinada para controlar a epidemia é sempre maior que 50%.",
+        "B": "para uma vacina, quanto maior R₀, menor a porcentagem mínima da população que deve ser vacinada para controlar a epidemia.",
+        "C": "para uma vacina, quanto maior R₀, maior a porcentagem mínima da população que deve ser vacinada para controlar a epidemia.",
+        "D": "para um dado R₀, quanto maior a efetividade da vacina, maior a porcentagem mínima da população que deve ser vacinada para controlar a epidemia."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Matemática – Modelagem Matemática",
+        "Biologia – Epidemiologia"
+      ]
+    },
+    {
+      "numero_questao": 18,
+      "enunciado": "Assuma que R₀ = 2. Sabendo que uma dada vacina tem 80% de efetividade, em qual dos intervalos se encontra a porcentagem mínima da população que deve ser vacinada para controlar a epidemia?",
+      "alternativas": {
+        "A": "Entre 46% e 55%.",
+        "B": "Entre 56% e 65%.",
+        "C": "Entre 66% e 75%.",
+        "D": "Entre 76% e 85%."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Matemática – Modelagem Matemática",
+        "Biologia – Epidemiologia"
+      ]
+    },
+    {
+      "numero_questao": 19,
+      "enunciado": "Um círculo está inscrito em um quadrilátero ABCD. Seja T o ponto de tangência do lado DA com o círculo. Sabe-se que as medidas dos lados AB, BC e CD formam, nesta ordem, uma progressão aritmética crescente de números inteiros e que a medida do lado DA é 3. Considerando que a medida do segmento TA é um número inteiro, as medidas dos lados AB, BC e CD são, respectivamente:",
+      "alternativas": {
+        "A": "1,3,5.",
+        "B": "2,3,4.",
+        "C": "2, 4, 6.",
+        "D": "3,4,5."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Matemática – Geometria Plana (Círculo e Quadrilátero)",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numero_questao": 20,
+      "enunciado": "Considere a matriz\nA = (k 3\n3 k²),\ne seja B = A + Aᵀ, onde Aᵀ é a transposta da matriz A.\nSobre o sistema\nB(xy) = (2021\n2022)\né correto afirmar que:",
+      "alternativas": {
+        "A": "se k = 0, o sistema não tem solução.",
+        "B": "se k = -1, o sistema tem infinitas soluções.",
+        "C": "se k = -1, o sistema não tem solução.",
+        "D": "se k = 3, o sistema tem infinitas soluções."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Matemática – Matrizes",
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numero_questao": 21,
+      "enunciado": "Pedra-papel-tesoura, também chamado jankenpon ou jokempô, é um jogo recreativo para duas pessoas. Nesse jogo, os participantes usam as mãos para representar os símbolos de pedra, papel e tesoura, conforme mostrado nos emojis a seguir:\n[Image: Emojis showing hand gestures for Pedra (rock), Papel (paper), Tesoura (scissors).]\nPelas regras do jogo, o participante que escolher \"pedra\" ganha do que escolher tesoura; o participante que escolher tesoura ganha do que escolher papel; por fim, o que escolher papel ganha do que escolher pedra. Se ambos escolherem os mesmos símbolos, eles empatam.\nAdmitindo que os participantes escolhem os símbolos com igual probabilidade, qual a chance de acontecer pelo menos um empate em três partidas?",
+      "alternativas": {
+        "A": "16/27.",
+        "B": "17/27.",
+        "C": "18/27.",
+        "D": "19/27."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Matemática – Probabilidade",
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numero_questao": 22,
+      "enunciado": "A parábola y = −x² + bx + c intercepta o eixo x nos pontos (p,0) e (q,0). Sabe-se que ela intercepta uma única vez cada uma das retas dadas pelas equações y = 2x + 1 e y = ½ − x. O valor de p + q é:",
+      "alternativas": {
+        "A": "2/3.",
+        "B": "3/4.",
+        "C": "4/3.",
+        "D": "3/2."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Matemática – Funções Quadráticas (Parábola)",
+        "Matemática – Equações de Retas"
+      ]
+    },
+    {
+      "numero_questao": 23,
+      "enunciado": "O polinômio p(x) = 2x³ + ax² + bx + c é divisível por 2x²−x + 4. O valor de c + 2b − a é:",
+      "alternativas": {
+        "A": "9.",
+        "B": "15.",
+        "C": "21.",
+        "D": "25."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Matemática – Polinômios",
+        "Matemática – Divisão de Polinômios"
+      ]
+    },
+    {
+      "numero_questao": 24,
+      "enunciado": "No dia 23 de março de 2021, um navio encalhou no canal de Suez, no Egito. A embarcação tinha 400 metros de comprimento e 60 metros de largura. No ponto onde aconteceu o acidente, o canal de Suez não tem mais do que 200 metros de largura. Abaixo apresentamos uma foto de satélite e uma figura representando a situação. O ângulo α indicado na figura abaixo mede 67,5°.\n[Image: Satellite photo of a ship stuck in the Suez Canal.]\n[Image: Diagram of the Suez Canal with a ship, showing dimensions: 400m (ship length), 30m, 30m, angle α, and unknown length L.]\nA largura do canal, medida em metros e indicada por L na figura anterior, é:\nDados:\n• cos(2θ) = 2 cos²(θ) − 1\n• sen(2θ) = 2sen(θ) cos(θ).",
+      "alternativas": {
+        "A": "400√2−√2 − 60√2+√2 ≈ 195,3",
+        "B": "200√2−√2 − 15√2+√2 ≈ 125,4",
+        "C": "200√2−√2 + 15√2+√2 ≈ 180,8",
+        "D": "200√3−√3 − 15√3+√3 ≈ 192,6"
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Matemática – Trigonometria",
+        "Matemática – Geometria Plana",
+        "Física – Cinemática (contexto)"
+      ]
+    },
+    {
+      "numero_questao": 25,
+      "enunciado": "A palavra \"cringe” viralizou nas redes sociais no Brasil em 2021. Observe sua definição, em português, apontada pelo \"Dicionário Informal\" on-line:\nVergonha alheia;\nExemplo de uso da palavra cringe:\nA cena que presenciamos ontem foi muito cringe.\nÉ cada situação cringe que presenciamos.\nNão consigo nem ver, de tão cringe.\nVeja, agora, a definição da mesma palavra pelo \"Cambridge Dictionary\", também em versão on-line:\nto suddenly move away from someone or something because you are frightened\nto feel very embarrassed:\n• I cringed at the sight of my dad dancing.\n(Disponível em: https://www.dicionarioinformal.com.br/diferenca-entre/cringe/inglês/; https://dictionary.cambridge.org/us/dictionary/english/cringe. Acessado em 05/07/2021.)\nCom base nessas duas definições, pode-se dizer que, em português, a palavra “cringe\" ",
+      "alternativas": {
+        "A": "é empregada numa classe gramatical diferente da empregada em inglês, apesar de os sentidos serem semelhantes nas duas línguas.",
+        "B": "figura no mesmo tempo verbal que figura em inglês, apesar de assumir sentidos diferentes nas duas línguas.",
+        "C": "é empregada na mesma classe gramatical em que é empregada em inglês, apesar de assumir sentidos diferentes nas duas línguas.",
+        "D": "figura em um gênero textual diferente do gênero em que figura em inglês, apesar de os sentidos serem semelhantes nas duas línguas."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Língua Portuguesa – Neologismo",
+        "Língua Portuguesa – Semântica",
+        "Inglês – Vocabulário",
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numero_questao": 26,
+      "enunciado": "Em artigo publicado em 14 de junho de 2020, o jornal The Straits Times, de Singapura, apresentou os resultados de uma pesquisa sobre a percepção dos respondentes a respeito das profissões mais essenciais durante a pandemia. A imagem a seguir revela algumas estatísticas obtidas com base nessas respostas.\n[Image: Bar chart showing 'Top 5 essential jobs' (Doctor/Nurse 86%, Cleaner 78%, Telemarketer 69%) and 'Top 5 non-essential jobs' (Artist 71%). Note: The image shows 'Artist 71%' as non-essential and 'Telemarketer 69%' as essential, which is a bit confusing based on typical classifications, but the prompt says 'Top 5 essential jobs' and 'Top 5 non-essential jobs'. For Telemarketer, it should be 69% for non-essential based on how it's placed. However, the exact percentage for Telemarketer on the image is next to 69% on the right column (non-essential), and 86% for Doctor/Nurse on the left column (essential), Cleaner 78% also essential.]\nEm um post em sua rede social, o comediante Rishi Budhrani comentou esses resultados:\n[Image: Social media post by rishibudhrani, with a profile picture of a man. The text reads: \"There are MANY talking points in this survey compilation; but let's just address ONE! If, assuming this survey is done with a truly \"representative sample across gender and income groups in SG\", and 70% of the nationally representative respondents feel that the No. 1 non-essential job is that of an artist, then I would challenge the nation to do the following; 1. Delete Netflix 2. Cancel Spotify 3. Sell all your TV's 4. Stop showing your kids the ipad to occupy them 5. Stop listening to music during your workouts/break times 6. Stop watching any movies/music videos on YouTube\".]\n(Disponível em https://creativefolk.co.uk/artists-topping-poll-as-non-essential-sparks-outrage/. Acessado em 09/06/2021.)\nPode-se dizer que Budhrani",
+      "alternativas": {
+        "A": "critica a baixa representatividade da amostra, e apresenta uma série de recomendações que podem valorizar a profissão de artistas.",
+        "B": "questiona a ausência de muitos pontos que poderiam ter sido discutidos na pesquisa, e sugere várias medidas para aumentar o debate em torno da arte.",
+        "C": "levanta uma série de dúvidas quanto à validade da pesquisa, e indica medidas que podem contribuir para uma depreciação da arte.",
+        "D": "problematiza os dados revelados pela pesquisa, e recomenda algumas ações cujos resultados ratificam a relevância da profissão de artistas."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Inglês – Interpretação de Texto",
+        "Sociologia – Profissões e Valor Social",
+        "Sociologia – Arte e Cultura"
+      ]
+    },
+    {
+      "numero_questao": 27,
+      "enunciado": "Em 2020, Joaquin Phoenix ganhou o Oscar de melhor ator por sua interpretação no filme \"Coringa\", de 2019. Apresenta-se, a seguir, um trecho de seu discurso na ocasião.\n\"I think whether we're talking about gender inequality or racism or queer rights or indigenous rights or animal rights, we're talking about the fight against injustice. We're talking about the fight against the belief that one nation, one people, one race, one gender, or one species has the right to dominate, control, and use and exploit another with impunity. I think that we've become very disconnected from the natural world, and many of us, what we're guilty of, is an egocentric worldview: the belief that we're the center of the universe. We go into the natural world, and we plunder it for its resources. We feel entitled to artificially inseminate a cow, and when she gives birth, we steal her baby even though her cries of anguish are unmistakable. Then we take her milk that's intended for her calf, and we put it in our coffee and our cereal\".\n(Adaptado de https://www.rev.com/blog/transcripts/joaquin-phoenix-oscar-acceptance-speech-transcript-phoenix-wins-for-joker. Acessado em 02/07/2021.)\nEm seu discurso, o ator",
+      "alternativas": {
+        "A": "inicia pela crítica à destruição da natureza para, então, defender a luta contra as desigualdades sociais.",
+        "B": "destaca a arrogância do ser humano ao mencionar a exploração cruel dos animais.",
+        "C": "usa exemplos práticos para ilustrar a opressão sofrida pelos trabalhadores rurais a partir da industrialização.",
+        "D": "centraliza seus argumentos na necessidade de lutarmos contra o racismo e a desigualdade de gênero."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Inglês – Interpretação de Texto",
+        "Filosofia – Ética",
+        "Sociologia – Direitos Humanos",
+        "Biologia – Direitos Animais"
+      ]
+    },
+    {
+      "numero_questao": 28,
+      "enunciado": "[Image: A black and white photo of a protest with people holding signs. One sign says \"STONEWALL MEANS FIGHT BACK! SMASH GAY OPPRESSION!\" and another \"GAY CAUCUS – AGAINST WAR & FASCISM\".]\nSTONEWALL MEANS On a summer night in FIGHT BACK! SMASH Stonewall Inn, a bar in New GAY OPPRESSION! York City that served as a CAY CAUCUS-AGAINST VAR & FASCISM haven for the city's gay, lesbian, and transgender community. Back then, homosexual acts were illegal in every state in the USA except Illinois, and bars and restaurants could get shut down for having gay employees or serving gay patrons. Most gay bars in New York at the time (including the Stonewall) were operated by the Mafia, who paid corruptible police officers to look the other way and blackmailed wealthy gay patrons by threatening to \"out\" them. Police raids on gay bars were common, but on that particular night, members of the city's LGBTQIA+ community decided to fight back, sparking an uprising that would launch a new era of resistance and revolution. Though the gay rights movement didn't begin at Stonewall, the uprising did mark a turning point, as earlier \"homophile” organizations like the Mattachine Society gave way to more radical groups like the Gay Liberation Front and the Gay Activists Alliance.\n(Adaptado de https://www.history.com/news/stonewall-riots-timeline. Acessado em 04/06/2021.)\nDe acordo com o texto, os protestos de Stonewall representaram",
+      "alternativas": {
+        "A": "o início da luta da comunidade LGBTQIA+ pela igualdade de direitos, impulsionando o surgimento de grupos defensores dessa comunidade.",
+        "B": "um novo rumo na luta pelos direitos LGBTQIA+, especialmente pela recusa dos clientes do bar em acatar as ações da polícia naquela noite.",
+        "C": "a consolidação da busca da comunidade LGBTQIA+ por igualdade de direitos, apesar de ter levado à formação de alguns grupos radicais homofóbicos.",
+        "D": "um ato de resistência da população LGBTQIA+, apesar de muitos bares gays de Nova York serem financiados por policiais corruptos da cidade."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "História – Movimentos Sociais (LGBTQIA+)",
+        "Sociologia – Direitos Civis",
+        "História – História Contemporânea"
+      ]
+    },
+    {
+      "numero_questao": 29,
+      "enunciado": "There is no evidence that hydroxychloroquine helps Covid-19 patients. So why is Congress still discussing it?\nBy Ashish Jha\nDean of the Brown University School of Public Health\nNov 24, 2020\nLast week, in the United States Senate, the conversation was all about the drug hydroxychloroquine. There has been no evidence that hydroxychloroquine improves outcomes for Covid-19 patients; some studies have found that it causes more harm than good. The hearing and the theater around it reflect the disinformation campaigns that have undermined belief in science. Neither Ron Johnson, the Wisconsin senator who is the chairman of the committee, nor his chosen witnesses showed more than a passing interest in evidence. Intuition and the personal experiences of individual doctors were the guiding principles. Early in the pandemic, President Trump referred to hydroxychloroquine as a \"game changer\"; \"I feel good about it\", he said.\nThat's not how we practice medicine. We have to protect lives through public health measures while we await widespread vaccinations. By endorsing unfounded therapies, we risk jeopardizing a century's work of medical progress. Do we really want to go back to not using the best evidence to decide which treatments work? Do we want to let politicians prescribe our medications? Science and evidence are the tools we use to know what is true. They are the foundation of modern medicine and public health.\n(Adaptado de https://www.nytimes.com/2020/11/24/opinion/hydroxychloroquine-covid.html. Acessado em 06/06/2021.)\nCom base no texto, assinale a alternativa que responde à pergunta apresentada no título do artigo.",
+      "alternativas": {
+        "A": "Porque a propagação de notícias falsas confunde os especialistas e fomenta discussões prejudiciais ao avanço da medicina moderna.",
+        "B": "Porque a grande mídia se sobrepõe às evidências da ciência, o que leva a tomada de decisões para um âmbito político.",
+        "C": "Porque faltam estudos que comprovem a ineficácia da hidroxicloroquina como tratamento para Covid-19, o que demanda novas pesquisas.",
+        "D": "Porque algumas discussões no âmbito político e administrativo são pautadas por aspectos subjetivos e não por dados empíricos."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Inglês – Interpretação de Texto",
+        "Biologia – Saúde Pública",
+        "Sociologia – Política e Ciência"
+      ]
+    },
+    {
+      "numero_questao": 30,
+      "enunciado": "O trecho a seguir pertence ao romance \"The Bell Jar\" (A Redoma de Vidro), da escritora estadunidense Sylvia Plath.\n\"From the tip of every branch, like a fat purple fig, a wonderful future beckoned and winked. One fig was a husband and a happy home and children, and another fig was a famous poet and another fig was a brilliant professor, (...) and beyond and above these figs were many more figs I couldn't quite make out. (...) I wanted each and every one of them, but choosing one meant losing all the rest, and, as I sat there, unable to decide, the figs began to wrinkle and go black, and, one by one, they plopped to the ground at my feet.\"\n(Disponível em https://www.ted.com/talks/iseult_gillespie_why_should_you_read_sylvia_plath. Acessado em 20/07/2021.)\nQual das imagens representa melhor a reflexão principal do excerto?\n[Image A: Woman's hand drawing on paper with text. The text includes 'In the state withane grey toe', 'bad time', 'Fill you bag fun of cod'.]\n[Image B: Woman looking at a city skyline from a window, contemplating.\n[Image C: Woman sitting in a garden, surrounded by falling figs. One fig is near her foot, others are on the ground.]\n[Image D: Woman at a crossroads with multiple paths extending, each leading to a different scenario.]",
+      "alternativas": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D"
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Inglês – Interpretação de Texto",
+        "Filosofia – Existencialismo",
+        "Filosofia – Tomada de Decisão",
+        "Arte – Interpretação de Imagens"
+      ]
+    },
+    {
+      "numero_questao": 31,
+      "enunciado": "Gaslighting is a form of psychological abuse where a person or group makes someone question their sanity, perception of reality, or memories. People experiencing gaslighting often feel confused, anxious, and unable to trust themselves. The term gaslighting derives from the 1938 play and 1944 film \"Gaslight\", in which a husband manipulates his wife into thinking she has a mental illness by dimming their gas-fueled lights and telling her she is hallucinating. While anyone can experience gaslighting, it is especially common in intimate relationships and in social interactions where there is an imbalance of power. A person who is on the receiving end of this behavior is experiencing abuse.\n(Disponível em https://www.medicalnewstoday.com/articles/signs-of-gaslighting. Acessado em 02/06/2021.)\nAssinale o depoimento feminino que ilustra a prática discutida no texto.",
+      "alternativas": {
+        "A": "\"Ele discutia sobre tudo, até coisas que não têm discussão, como meu estado de espírito ou meus sentimentos. Tudo era um exagero meu, uma invenção. Tudo estava na minha cabeça.\"",
+        "B": "\"Os homens explicam coisas para mim, e para outras mulheres, quer saibam ou não do que estão falando. Um desconhecido na farmácia já quis me explicar o que era um AVC. Eu sou médica\".",
+        "C": "\"Um amigo me perguntou qual era a diferença entre feminismo radical e liberal. Eu tentei explicar e toda vez que eu avançava um pouco, ele me interrompia pra falar que já sabia ou para complementar alguma coisa\".",
+        "D": "“É algo que acontece muito em reuniões, quando um homem expressa uma opinião anteriormente dada por uma mulher e, ao contrário da primeira, é ouvido e aplaudido\"."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Inglês – Compreensão de Texto",
+        "Sociologia – Relações Interpessoais",
+        "Filosofia – Ética"
+      ]
+    },
+    {
+      "numero_questao": 32,
+      "enunciado": "A poeta e ativista palestina Rafeef Ziadah estava participando da cobertura jornalística do massacre em Gaza quando um jornalista não-palestino perguntou-lhe se as coisas não seriam melhores se os palestinos parassem de ensinar o ódio às suas crianças. Em resposta a essa pergunta, Ziadah compôs o poema \"We teach life, sir\", transcrito a seguir:\nToday, my body was a TV'd massacre\nthat had to fit into sound-bites and word limits.\nAnd I perfected my English and I learned my UN resolutions.\nBut still, he asked me, Ms. Ziadah, don't you think that\neverything would be resolved\nif you would just stop teaching so much hatred to your\nchildren?\nPause.\nI look inside of me for strength to be patient\nbut patience is not at the tip of my tongue as the bombs drop\nover Gaza.\nToday, my body was a TV'd massacre made to fit into sound-\nbites and word limits\nand move those that are desensitized to terrorist blood.\nAnd these are not two equal sides: occupier and occupied.\nAnd a hundred dead, two hundred dead, and a thousand dead.\nAnd between that, war crime, and massacre,\nI vent out words and smile \"not exotic\", \"not terrorist\".\nNo sound-bite will fix this.\nWe teach life, sir.\n(Adaptado de https://blissonature.wordpress.com/2011/11/17/rafeef-ziadah-we-teach-life-sir-text-transcription-lyrics-words-of-poem/. Acessado em 01/07/2021.)\nA partir da leitura do texto, depreende-se que",
+      "alternativas": {
+        "A": "a violência contra palestinos chega ao mundo reduzida a pequenas frases e a um certo limite de palavras.",
+        "B": "os bombardeamentos em Gaza são motivados por imagens estereotipadas da população na televisão.",
+        "C": "o ensino dos conflitos históricos em Gaza é baseado em sentimentos como o ódio e a insensibilidade.",
+        "D": "o aprendizado de inglês e das resoluções da ONU está associado ao fim da violência na Palestina."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Inglês – Interpretação de Texto",
+        "História – Conflitos Geopolíticos (Conflito Israel-Palestina)",
+        "Sociologia – Direitos Humanos"
+      ]
+    },
+    {
+      "numero_questao": 33,
+      "enunciado": "O Purificador de Água P&GTM (anteriormente conhecido como PUR) é um pacote único de pó que usa as mesmas técnicas, princípios e produtos químicos usados no tratamento de água numa estação convencional. Um sachê do produto trata, em 30 minutos de ação, 10 litros de água, sendo que a água tratada contém cloro livre de resíduos, o qual serve para proteger contra recontaminação. A tecnologia P&GTM de purificação de água em ação é mostrada na figura a seguir.\n[Image: A sequence of six photos (A, B, C, D, E, F) showing the process of water purification, from cloudy water in A to clear water in F, with a small sachet being used.]\nO pacote contém: Ca(OCl)₂, KMnO₄, Fe₂(SO₄)₃, poliacrilamida aniônica de alto peso molecular e argila bentonítica. Levando em conta as informações dadas, pode-se concluir que o produto é capaz de tratar a água, pois contém agentes",
+      "alternativas": {
+        "A": "antimicrobiano, oxidante, floculante e adsorvente.",
+        "B": "microbiano, oxidante, floculante e adsorvente.",
+        "C": "antimicrobiano, redutor, coagulante, floculante.",
+        "D": "microbiano, redutor, coagulante, floculante."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Química – Tratamento de Água",
+        "Química – Funções Inorgânicas",
+        "Química – Propriedades de Compostos"
+      ]
+    },
+    {
+      "numero_questao": 34,
+      "enunciado": "Na natureza, o metano pode se originar de processos termoquímicos ou biológicos. A atividade microbiana é o principal responsável pela biodegradação anaeróbia subterrânea de substratos orgânicos, sendo, assim, de importância fundamental no ciclo do carbono. Por outro lado, não se pode desconsiderar a importância de substratos inorgânicos na geração desse mesmo metano na natureza. A figura a seguir, incompleta, é uma forma sintética de classificar essas possíveis formas de origem natural de gás metano.\n[Image: Incomplete diagram for methane origin classification. It shows 'Metanogênese' and 'Pirólise' as main categories. Under Metanogênese, there are two blank boxes (1 and 2), one connected to 'Acetato, álcool, metilaminas, mercaptanas' (5) and the other to 'Hidrocarbonetos; querogênio' (6). Under Pirólise, there are two blank boxes (3 and 4), one connected to 'CO2; H2; CO' and the other to 'CO2; H2; grafite; carbonatos; H2O'.]\nLevando em conta as informações anteriores, para que a figura fique completa e correta, os números 1, 2, 3, 4, 5 e 6 devem ser substituídos, respectivamente, pelos termos:",
+      "alternativas": {
+        "A": "processos, substratos, termoquímicos, biológicos, inorgânicos e orgânicos.",
+        "B": "substratos, processos, biológicos, termoquímicos, orgânicos e inorgânicos.",
+        "C": "processos, substratos, termoquímicos, biológicos, orgânicos e inorgânicos.",
+        "D": "substratos, processos, biológicos, termoquímicos, inorgânicos e orgânicos."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Química – Cadeias de Carbono",
+        "Química – Química Ambiental",
+        "Biologia – Ciclos Biogeoquímicos"
+      ]
+    },
+    {
+      "numero_questao": 35,
+      "enunciado": "Usando um modelo típico da termodinâmica, os autores de um trabalho científico fazem previsões sobre a exposição de pessoas a vapores de substâncias adsorvidas em material sólido particulado (MP) ou a vapores de MP semivolátil. O estudo se refere a exposições aos vapores (gases) no interior climatizado (20-25°C) de residências e escritórios em países industrializados, já que essas pessoas passam 90% de seu tempo nesses ambientes. O estudo considerou também as condições climáticas do ambiente interno e externo. Levando-se em conta as informações dadas, pode-se concluir que os lados A e B da figura a seguir, correspondem, respectivamente, a\n[Image: Diagram showing two boxes, A and B. From A, 'GASES' flows out. From B, 'GASES' flows out. Inside A and B, 'PARTÍCULAS' are shown with arrows pointing to them and away, indicating adsorption/desorption. Below the two boxes, it says 'AMBIENTE CLIMATIZADO'.]\n",
+      "alternativas": {
+        "A": "inverno e verão, e que a dessorção dos gases que ocorre nos MPs e a sublimação dos MPs são processos endotérmicos.",
+        "B": "inverno e verão, e que a dessorção dos gases que ocorre nos MPs e a sublimação dos MPs são processos exotérmicos.",
+        "C": "verão e inverno, e que a dessorção dos gases que ocorre nos MPs é um processo exotérmico, ao passo que a sublimação dos MPs é endotérmica.",
+        "D": "verão e inverno, e que a dessorção dos gases que ocorre nos MPs é um processo endotérmico, ao passo que a sublimação dos MPs é exotérmica."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Física – Termodinâmica",
+        "Química – Adsorção"
+      ]
+    },
+    {
+      "numero_questao": 36,
+      "enunciado": "USE O TEXTO A SEGUIR PARA RESPONDER ÀS QUESTÕES 36 E 37.\nResíduos de papel contribuem para que o clima mude mais do que a maioria das pessoas pensam. A Blue Planet Ink anunciou que sua tinta de impressora autoapagável Paper Saver® agora está disponível em cartuchos remanufaturados para uso em impressoras de uma determinada marca. A tinta autoapagável (economizadora de papel) é uma tinta roxa de base aquosa, que pode ser impressa em papel sulfite normal. Um cartucho rende a impressão de até 4000 folhas. Com a exposição ao ar, ao absorver dióxido de carbono e vapor de água, o componente ativo (corante) da tinta perde sua cor, a impressão torna-se não visível e o papel fica branco, tornando possível sua reutilização.\nSabe-se que o componente ativo da tinta Paper Saver® é o indicador o-cresolftaleína. As formas estruturais A e B, a seguir, representam o componente ativo quando se mostra incolor e quando se mostra roxo, não necessariamente nessa sequência.\n[Image: Chemical structure A, a molecule with two phenolic groups and a central carbon atom with two benzene rings connected to a lactone ring, and methyl groups. It is the colorless form of o-cresolphthalein.]\n[Image: Chemical structure B, a molecule that is the quinoid form of o-cresolphthalein, with a deprotonated phenolic group and an extended conjugated system, which is the colored (purple/red) form.]\nDessa forma, pode-se afirmar que na mudança da cor roxa para incolor ocorreu um",
+      "alternativas": {
+        "A": "abaixamento do pH, e a maioria das moléculas do indicador que estava no cartucho mudou da forma B para a forma A.",
+        "B": "aumento do pH, e a maioria das moléculas do indicador que estava no cartucho mudou da forma B para a forma A.",
+        "C": "abaixamento do pH, e a maioria das moléculas do indicador que estava no cartucho mudou da forma A para a forma B.",
+        "D": "aumento do pH, e a maioria das moléculas do indicador que estava no cartucho mudou da forma A para a forma B."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Química – Funções Orgânicas",
+        "Química – Equilíbrio Químico (pH)",
+        "Química – Ácidos e Bases"
+      ]
+    },
+    {
+      "numero_questao": 37,
+      "enunciado": "A \"pegada de carbono\" - isto é, a quantidade de carbono gerada na produção, transporte e descarte - de 120 folhas de papel é a mesma de um carro a gasolina que se move por 16 km. O Regulamento sobre Automóveis de Passageiros da Comissão Europeia estabeleceu como meta que as emissões dos veículos leves não poderão ultrapassar 95 g CO₂/km a partir de 2020. Levando em conta a combustão completa da gasolina (considere a gasolina como sendo constituída unicamente por C₈H₁₈) e as informações do texto de referência, o uso de um cartucho da tinta Paper Saver®, nas condições estabelecidas pela Comissão Europeia, permitiria reduzir a emissão de aproximadamente\nMassas molares em g.mol⁻¹: H = 1, C = 12, O = 16.",
+      "alternativas": {
+        "A": "1,5 kg de CO₂, que é uma massa maior do que a massa de gasolina que foi queimada.",
+        "B": "50 kg de CO₂, que é uma massa menor do que a massa de gasolina que foi queimada.",
+        "C": "1,5 kg de CO₂, que é uma massa menor do que a massa de gasolina que foi queimada.",
+        "D": "50 kg de CO₂, que é uma massa maior do que a massa de gasolina que foi queimada."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Química – Estequiometria",
+        "Química – Química Ambiental",
+        "Física – Conceitos Energéticos (contexto)"
+      ]
+    },
+    {
+      "numero_questao": 38,
+      "enunciado": "O crescente interesse em combustíveis renováveis, derivados tanto da cana de açúcar quanto da cana de energia, tem impulsionado estudos no sentido de permitir o maior aproveitamento desses dois tipos de cana na produção de bioetanol de primeira e segunda geração, sendo este último um biocombustível produzido a partir de fibras presentes na cana. Em um simpósio brasileiro sobre bioetanol e biorrefino, realizado em 2017, foram apresentados dados relativos à produção de bioetanol a partir de cana de açúcar e cana de energia. Um pequeno extrato desses dados encontra-se na tabela a seguir.\n[Table: Characterística, Cana de açúcar, Cana de energia. Rows: Teor de fibra (%) (14, 25), Massa de fibra (t/ha) (11, 45), Teor de açúcar (%) (14, 8), Massa de açúcar (t/ha) (11, 14).]\nComparando-se os dados, pode-se concluir que a vantagem da cana de energia em relação à cana de açúcar reside em uma maior produção de bioetanol de",
+      "alternativas": {
+        "A": "primeira e de segunda geração; o aumento maior se dá na produção de bioetanol de segunda geração, tendo como base a produtividade por hectare.",
+        "B": "segunda geração, produção essa que compensa a diminuição na produção de bioetanol de primeira geração, tendo como base a produtividade por hectare.",
+        "C": "primeira geração, produção essa que compensa a diminuição na produção de bioetanol de segunda geração, tendo como base os teores indicados.",
+        "D": "primeira e de segunda geração; o aumento maior se dá na produção de bioetanol de primeira geração, tendo como base os teores indicados."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Biologia – Biocombustíveis",
+        "Química – Química Orgânica",
+        "Biologia – Agronegócio"
+      ]
+    },
+    {
+      "numero_questao": 39,
+      "enunciado": "Os benefícios da reciclagem são consideráveis e se situam para além de uma sensação de realização pessoal, advinda de uma responsável deposição de embalagens e demais produtos plásticos separados do restante do lixo. A figura a seguir registra o consumo e o destino de materiais plásticos nos Estados Unidos da América, o que não é muito diferente de outros locais ao redor do mundo.\n[Graph: Line chart titled 'BRASIL - Evolução da participação relativa das exportações por fator agregado (2005-2015)'. X-axis: Ano (1960-2020). Y-axis: Quantidade (10^6 t). Three lines representing Aterro Sanitário (landfill), Combustão para gerar energia (combustion for energy), Reciclado (recycled). All show increasing trends over time, but their relative proportions change. The 'Reciclado' line shows the smallest quantity, while 'Aterro Sanitário' and 'Combustão para gerar energia' are much higher.]\nDe acordo com essa figura, o consumo de plásticos vem aumentando,",
+      "alternativas": {
+        "A": "mas o percentual de plásticos que vai para os aterros sanitários vem diminuindo assim como os percentuais da reciclagem e da queima.",
+        "B": "assim como o percentual de plásticos que vai para os aterros sanitários, pois há um aumento menor dos percentuais de reciclagem e de queima.",
+        "C": "mas a quantidade de plásticos que vai para os aterros sanitários vem diminuindo devido ao aumento maior dos percentuais de reciclagem e de queima.",
+        "D": "assim como a quantidade de plásticos que vai para os aterros sanitários, mesmo com o aumento dos percentuais de reciclagem e de queima."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Geografia – Meio Ambiente",
+        "Sociologia – Consumo e Descarte",
+        "Matemática – Análise de Gráficos"
+      ]
+    },
+    {
+      "numero_questao": 40,
+      "enunciado": "O sistema PSA (Pressure Swing Adsorption) é uma alternativa à produção de oxigênio para hospitais ou indústrias distantes de fornecedores. Esse sistema é também uma opção para os casos em que a produção por destilação criogênica não supre a demanda. O funcionamento do PSA se baseia na adsorção seletiva do oxigênio ou do nitrogênio. O ar pressurizado é forçado a passar por colunas contendo substâncias sólidas. Tais substâncias adsorvem seletivamente ou o oxigênio ou o nitrogênio. Quando o sólido fica saturado, promove-se uma despressurização do sistema e então o gás se dessorve do sólido. Dessa forma, os dois principais gases do ar são separados um do outro. A figura A esquematiza o sistema de funcionamento do PSA e os gráficos 1 e 2 representam isotermas de adsorção (estudo do equilíbrio a uma temperatura constante) de N₂ e O₂ para dois adsorventes distintos. O gráfico 1 diz respeito a um complexo do metal cobalto denominado CoBTTri, enquanto o gráfico 2 diz respeito a um zeólito representado pela fórmula NaX.\n[Image: Figura A: Diagram of the PSA system with 'Saída do Gás' (Gas outlet) and 'Entrada de Ar' (Air inlet), and an 'Adsorvente' column.]\n[Graph 1: CoBTTri. Y-axis: Quantidade adsorvida (mmol g⁻¹). X-axis: Pressão (bar). Two curves: one for O₂, which is almost flat (low adsorption), and one for N₂, which increases with pressure (high adsorption).]\n[Graph 2: NaX. Y-axis: Quantidade adsorvida (mmol g⁻¹). X-axis: Pressão (bar). Two curves: one for O₂, which increases with pressure (high adsorption), and one for N₂, which is almost flat (low adsorption).]\nConsiderando as figuras, é correto afirmar que a separação a que se refere o texto seria possível utilizando-se",
+      "alternativas": {
+        "A": "apenas o material NaX. O oxigênio seria obtido na pressurização do sistema.",
+        "B": "qualquer um dos dois materiais. O oxigênio seria obtido na despressurização do sistema apenas no caso do CoBTTri.",
+        "C": "apenas o material CoBTTri. O oxigênio seria obtido na pressurização do sistema.",
+        "D": "qualquer um dos dois materiais. O oxigênio seria obtido na despressurização do sistema apenas no caso do NaX."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Química – Adsorção",
+        "Física – Propriedades dos Gases",
+        "Química – Separação de Misturas"
+      ]
+    },
+    {
+      "numero_questao": 41,
+      "enunciado": "A linha internacional de mudança de data é uma linha imaginária posicionada próximo ao meridiano de 180° ou diametralmente oposta ao meridiano de Greenwich, cortando o Oceano Pacífico. Uma característica dessa linha está na sua forma irregular, o que evita que um país tenha a mesma hora e dias diferentes, conforme ilustra a figura a seguir:\n[Image: Map of the Pacific Ocean showing the International Date Line (Linha Internacional de Mudança de Data) with its irregular shape avoiding landmasses.]\n(Adaptado de Paulo Márcio Leal de Menezes e Manoel do Couto Fernandes, Roteiros de Cartografia. São Paulo: Oficina de Textos, 2013. p. 113.)\nA partir da leitura do enunciado e da análise da ilustração, podemos concluir que:",
+      "alternativas": {
+        "A": "um navio que parte do Japão em direção à costa oeste dos Estados Unidos, ao cruzar a linha internacional de datas, terá que notificar em seus registros que pulou um dia no calendário civil oficial.",
+        "B": "cruzeiros turísticos podem antecipar a comemoração do Réveillon, ao cruzarem a linha internacional de datas na noite do dia 30 de dezembro, desde que este deslocamento se dê no sentido oeste.",
+        "C": "um navio que parte da costa oeste dos Estados Unidos em direção ao Japão, ao cruzar a linha internacional de datas, terá que notificar em seus registros que atrasou um dia no calendário civil oficial.",
+        "D": "cruzeiros turísticos podem antecipar a comemoração do Réveillon, ao cruzarem a linha internacional de datas na noite do dia 30 de dezembro, desde que esse deslocamento se dê no sentido leste."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Geografia – Fusos Horários",
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numero_questao": 42,
+      "enunciado": "A posição latitudinal do continente africano faz com que ocorra uma diversidade de biomas. Os mapas a seguir indicam a localização e a extensão de quatro biomas com características distintas.\n[Image: Four maps (BIOMA 1, BIOMA 2, BIOMA 3, BIOMA 4) showing different geographical distributions over the African continent.]\n(Adaptado de Géraud Magrin, Alain Dubresson e Olivier Ninot, Atlas de l'Afrique. Paris: Autrement, 2018.)\nA partir do exposto e de seus conhecimentos sobre os fatores abióticos e bióticos dos biomas africanos, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "O Bioma 1 corresponde às formações florestais que se situam nas áreas de baixa latitude. Apresentam baixa diversidade vegetal, com predomínio de coníferas. Ocorrem em áreas com excesso de chuvas, elevadas temperaturas e solos profundos de boa drenagem.",
+        "B": "O Bioma 2 abarca as formações mediterrâneas desenvolvidas em solos férteis, em climas com verão úmido e inverno seco. Sua fitofisionomia é formada por arbustos baixos, intercalados por gramíneas. As espécies são caducifólias por conta do período seco.",
+        "C": "O Bioma 3 representa as áreas de desertos, que apresentam espécies xerófilas, associados a dois fatores: a corrente marítima fria que dificulta a evaporação da água do mar, e a zona de alta pressão nas médias latitudes, formada por anticiclones.",
+        "D": "O Bioma 4 engloba as formações savânicas localizadas entre as florestas e os desertos. Ocorre em solos hidromórficos desenvolvidos em climas tropicais de sazonalidade bem marcada pela pluviosidade, resultando na formação de fitofisionomias abertas."
+      },
+      "alternativa_correta": "ANULADA",
+      "conteudos_abordados": [
+        "Geografia – Biomas Africanos",
+        "Biologia – Ecossistemas",
+        "Geografia – Clima",
+        "ANULADA: Erro de plotagem no mapa referente ao bioma 3, que é semidesértico e não desértico."
+      ]
+    },
+    {
+      "numero_questao": 43,
+      "enunciado": "Na economia do Chile, entre outros aspectos, destacam-se as indústrias vitivinícola, agrícola, pesqueira e mineira. Houve um ciclo muito forte de exportação de matérias-primas que produziu um grande crescimento econômico, no chamado \"milagre chileno\", a partir dos anos 1980. Segundo o Banco Mundial, o paradoxo foi o aumento brutal da desigualdade. As consequências surgiram em 2019, com protestos sociais que culminaram com uma Assembleia Constituinte para rever a Constituição vigente, ainda um resquício do período da ditadura.\n(Adaptado de https://brasil.elpais.com/internacional/2021-07-04/chile-inicia-um-novo-ciclo-e-comeca-a-redigir-a-constituicao-que-substituira-a-de-pinochet.html. Acessado em 03/07/2021.)\nSobre a formação socioespacial chilena, é correto afirmar que",
+      "alternativas": {
+        "A": "pratica a vitivinicultura na Patagônia, extrai bauxita no Atacama, conta com uma economia bastante centrada no Estado e as privatizações foram generalizadas.",
+        "B": "extrai cobre da Patagônia, pratica a salmonicultura no Atacama, conta com uma economia bastante centrada no mercado e as privatizações só atingiram o setor do petróleo.",
+        "C": "pratica a carcinicultura na Patagônia, extrai ouro do Atacama, conta com uma economia centrada nas empresas estatais e as privatizações foram inexistentes.",
+        "D": "extrai cobre do Atacama, pratica a salmonicultura na Patagônia, conta com uma economia bastante centrada no mercado e as privatizações foram generalizadas."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Geografia – Economia do Chile",
+        "Geografia – Geografia Humana",
+        "História – América Latina Contemporânea",
+        "Sociologia – Desigualdade Social"
+      ]
+    },
+    {
+      "numero_questao": 44,
+      "enunciado": "BRASIL - Evolução da participação relativa das exportações por fator agregado (2005-2015)\n[Graph: Line chart titled 'BRASIL - Evolução da participação relativa das exportações por fator agregado (2005-2015)'. X-axis: Ano (2005-2015). Y-axis: Percentage (%). Three lines representing Basic, Semimanufactured, and Manufactured products. The 'Basic' line shows an increasing trend, while 'Manufactured' shows a decreasing trend, and 'Semimanufactured' is relatively stable or slightly decreasing.]\n(Adaptado de Lisandra Pereira Lamoso, Reprimarização no Território Brasileiro, Espaço e Economia, v. 19, 2020.)\nO gráfico anterior indica a tendência de reprimarização do território brasileiro, processo este derivado",
+      "alternativas": {
+        "A": "do declínio da produção e exportação de commodities agrícolas em virtude do avanço da quarta revolução industrial.",
+        "B": "do crescimento do mercado interno para produtos industrializados de maior valor agregado, em detrimento das exportações.",
+        "C": "da maior participação de commodities na pauta exportadora paralelamente ao declínio da exportação de produtos industrializados.",
+        "D": "da estagnação da pauta exportadora de produtos semimanufaturados em virtude do crescimento das commodities minerais."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Geografia – Economia Brasileira",
+        "Sociologia – Globalização",
+        "Matemática – Análise de Gráficos"
+      ]
+    },
+    {
+      "numero_questao": 45,
+      "enunciado": "O mapa a seguir apresenta países com mais de 5 milhões de habitantes vivendo em favelas (ou outras formas de habitação precária).\nPOPULAÇÃO URBANA VIVENDO\nEM HABITAÇÕES PRECÁRIAS E FAVELAS\n[Image: World map showing countries colored according to 'Quantidade (em milhões)' of urban population living in precarious housing/favelas (inferior a 5, 5 a 10, 10.01 a 50, 50.01 a 191, superior a 191, ausência de dados) and 'Participação (em %)' (5.4 a 24%, 24.01 a 42%, 42.01 a 61%, 61.01 a 96%, ausência de dados). Darker shades usually represent higher quantities/percentages. Africa and parts of Asia and Latin America show high percentages.]\n(Adaptado de: https://espace-mondial-atlas.sciencespo.fr. Acessado em 02/07/2021.)\nCom base nas informações do mapa e em seu conhecimento sobre a população urbana que vive em habitações precárias e favelas, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Em grande parte dos países da África Subsaariana, mais de 60% da população urbana vive em favelas ou habitações precárias, um problema social decorrente, entre outros fatores, da inserção do continente na divisão internacional do trabalho.",
+        "B": "Na América Latina, entre 5% e 20% da população urbana vive hoje em favelas ou habitações precárias, o que deixou de ser um problema social por conta da industrialização da região no século XX e da disseminação de políticas públicas.",
+        "C": "A forte desaceleração da urbanização na China e na Índia nesta década, associada a políticas públicas, tem levado à diminuição das habitações precárias nesses países, ainda que os números absolutos de moradores em condições precárias continuem elevados.",
+        "D": "A habitação precária não se coloca como uma questão social importante nos países do Oriente Médio, uma vez que há volumosos investimentos em políticas públicas para o setor da habitação, financiados com recursos obtidos da exploração do petróleo."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Geografia – Urbanização",
+        "Sociologia – Questões Urbanas",
+        "Geografia – Desigualdade Espacial",
+        "Geografia – Divisão Internacional do Trabalho"
+      ]
+    },
+    {
+      "numero_questao": 46,
+      "enunciado": "Os quilombos, espaços da resistência e da insurgência negra desde a sua origem, foram criados como estratégia de enfrentamento ao sistema escravocrata. Nos processos de resistência e sobrevivência dos quilombos que chegam aos dias atuais, as relações culturais, as identidades e os conflitos têm como elemento central os territórios, tensionados por interesses ilegítimos e inconstitucionais de terceiros em disputa pela propriedade da terra. Pouco se divulga que existem, atualmente no território brasileiro, aproximadamente 3.500 comunidades quilombolas que guardam um sentimento de pertença a um grupo e a um lugar. Estão distribuídas por todas as regiões do país, com destaque para os estados do Pará, Maranhão, Bahia, Minas Gerais, Pernambuco e Rio Grande do Sul.\n(Adaptado de Coordenação Nacional de Articulação das Comunidades Negras Rurais Quilombolas [CONAQ]; TERRA DE DIREITOS, Racismо е violência contra quilombos no Brasil. Disponível em https://cdhpf.org.br/cat_galeria/publicacoes/estudos/racismo-e-violencia-contra-quilombos-no-brasil/. Acessado em 03/07/2021.)\nSobre a demarcação e titulação das terras quilombolas no Brasil, é correto afirmar que teve início com a",
+      "alternativas": {
+        "A": "lei de Terras de 1850; avançou na segunda metade do século XIX, especialmente após a abolição da escravatura e a institucionalização dos territórios quilombolas rurais.",
+        "B": "Constituição de 1988; ainda está em curso o processo de demarcação e poucos territórios quilombolas (rurais e urbanos) receberam a titulação da propriedade até o momento.",
+        "C": "lei de Terras de 1850; na ocasião, foram demarcados os territórios rurais quilombolas, uma vez que não havia trabalho para homens negros e mulheres negras nas cidades.",
+        "D": "Constituição de 1988; na década passada, por meio de políticas públicas, foi finalizada a demarcação e a titulação dos territórios quilombolas rurais, ficando pendente a titulação dos quilombos urbanos."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "História – História do Brasil (Escravidão e Pós-Abolição)",
+        "Sociologia – Movimentos Sociais",
+        "Geografia – Questões Fundiárias",
+        "História – Direitos Humanos no Brasil"
+      ]
+    },
+    {
+      "numero_questao": 47,
+      "enunciado": "A Serra do Mar se estende paralelamente ao litoral por cerca de 1.500 km, desde o vale do Rio Itajaí (SC) até a região de Campos dos Goytacazes (RJ). Trata-se de um conjunto de escarpas controladas por falhas e com graus diferenciados de dissecação, que finaliza o Planalto Atlântico na linha de costa com um horst. A configuração da Serra do Mar pode ser observada nos perfis a seguir, nos estados de São Paulo e Rio de Janeiro.\n[Image: Two geological profiles of Serra do Mar. The first shows 'Planalto Paraitinga', 'Rio Camburi', 'Planalto Juqueriquerê', 'Ilha de São Sebastião' with elevation in meters. The second shows 'Planalto da Bocaina', 'Rio Mambucaba', 'Baía da Ilha Grande', 'Ilha Grande' with elevation in meters. Both profiles illustrate the steep escarpments and changes in elevation characteristic of the Serra do Mar.]\n(Adaptado de Yociteru Hasui, Celso Dal Ré Carneiro, Fernando Flávio Marques de Almeida e Andrea Bartorelli, Geologia do Brasil. São Paulo: Beca, 2012.)\nA partir dos seus conhecimentos sobre os aspectos geológicos e geomorfológicos da Serra do Mar, indique a alternativa correta.",
+      "alternativas": {
+        "A": "A Serra do Mar é formada predominantemente por áreas falhadas compostas por rochas basálticas. A origem dessas rochas está relacionada à ruptura das placas tectônicas, o que resultou na abertura do Oceano Atlântico.",
+        "B": "A Serra do Mar é formada por rochas sedimentares que apresentam, em sua estrutura, falhas e fraturas. No período chuvoso, a infiltração aumenta o peso do material, desencadeando processos gravitacionais denominados movimentos de massa.",
+        "C": "A Serra do Mar originou-se com a ruptura das placas tectônicas sul-americana e africana, que ocasionou um conjunto de blocos falhados (soerguidos e rebaixados), formando ilhas, pois os grabens foram recobertos pela água do mar.",
+        "D": "A Serra do Mar tem sua gênese associada a processos similares à origem da Cordilheira dos Andes, que, com a convergência das placas sul-americana e africana, ocasionou a formação de dobramentos e falhamentos hoje estabilizados."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Geografia – Geomorfologia",
+        "Geografia – Geologia",
+        "Geografia – Tectônica de Placas"
+      ]
+    },
+    {
+      "numero_questao": 48,
+      "enunciado": "Pouco a pouco a noção de \"governança” toma o lugar da categoria \"soberania\", tornada antiquada e desvalorizada segundo os princípios da disciplina neoliberal da globalização econômica. Para OS defensores da governança, um Estado não deve mais ser julgado por sua capacidade de assegurar soberania sobre um território, mas pelo respeito às injunções de organismos internacionais que representam grandes interesses comerciais e financeiros globais.\n(Adaptado de Pierre Dardot e Christian Laval, A nova razão do mundo: ensaio sobre a sociedade neoliberal. São Paulo: Boitempo, 2016, p. 276.)\nSobre os conceitos de \"governança” e “soberania\", podemos afirmar que",
+      "alternativas": {
+        "A": "são sinônimos, pois fazem referência à melhor forma de ajustar a condução das empresas e dos Estados ao controle democrático das populações.",
+        "B": "as legislações indiretas que beneficiam determinados interesses em detrimento do interesse público são declinantes, daí a menor importância das privatizações hoje.",
+        "C": "os dois termos são contraditórios, na medida em que representam interesses opostos: de um lado os interesses públicos nacionais; de outro, as exigências da globalização.",
+        "D": "implicam cogovernanças privado-públicas das políticas econômicas, levando à produção de medidas e dispositivos favoráveis às soberanias nacionais."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Filosofia – Filosofia Política",
+        "Sociologia – Globalização",
+        "Sociologia – Estado e Sociedade"
+      ]
+    },
+    {
+      "numero_questao": 49,
+      "enunciado": "Giacomo Borlone de Buschis, O triunfo da morte a reunião dos três vivos e dos três mortos. Parte superior de afresco na cidade de Clusone (Itália), século XV.\n[Image: A fresco depicting 'The Triumph of Death and the Meeting of the Three Living and the Three Dead'. It shows skeletons, robed figures, and a group of dead bodies, conveying a macabre theme typical of the Late Middle Ages.]\nNa Europa medieval cristã, prevalecia a ideia de que a morte era a transição para uma vida espiritual plena. Os ritos fúnebres buscavam assegurar uma passagem organizada para esse outro plano e evita-se mostrar o processo de decomposição dos corpos. A chegada da peste negra rompeu com essa concepção. De acordo com a historiadora Juliana Schmitt, a doença deixava marcas no corpo, as pessoas morriam de repente, algumas em locais públicos. A ideia apaziguadora da morte, na concepção cristã, foi substituída pela ideia de morte caótica, causada pela peste. As imagens cotidianas relacionadas ao surto da doença passaram a ser reapresentadas no campo das imagens e na literatura, no que hoje se conhece como \"estética macabra\". O que caracteriza as obras macabras é a ênfase dada aos processos de decomposição do corpo. A estética é anterior ao período medieval, mas foi impulsionada pela peste negra.\n(Adaptado de Christina Queiroz, Pandemia como alegoria. Revista Pesquisa Fapesp. Edição 294. ago. 2020.)\nCom base na imagem e no excerto, assinale a alternativa correta:",
+      "alternativas": {
+        "A": "A peste negra, enfrentada pela Europa do século XIV, afetou as representações da morte nas artes visuais, propondo reflexões sobre o potencial das ciências modernas para a resolução da peste à época.",
+        "B": "A estética do macabro, criada na Idade Média, é acionada pelas artes visuais como elemento valorizador da vida, gerando a negação dos contextos sanitários marcados pela peste e pela morte.",
+        "C": "A estética do macabro declinou no período medieval, ficando restrita a um ambiente religioso, católico e temente ao juízo final, como apresenta a obra através das figuras dos reis e das autoridades religiosas.",
+        "D": "A peste negra tornou-se uma referência presente na estética do macabro, que faz alusão a caveiras e cadáveres entre os vivos, compondo um ambiente festivo e aterrador."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "História – Idade Média (Peste Negra)",
+        "Arte – História da Arte",
+        "Filosofia – Morte e Existência"
+      ]
+    },
+    {
+      "numero_questao": 50,
+      "enunciado": "Na Antiguidade Clássica, os gregos sabiam que a terra era redonda. Supunha-se, porém, que, se existisse gente do outro lado do globo, elas viveriam de pernas para o ar, uma vez que, nessa época, não havia ainda notícia da força da gravidade. Sobre a percepção da Terra e a ciência nos Descobrimentos, há um público que pensa na modernidade científica como algo do século XVII, esquecendo que uma nova mentalidade empírica com implicações tecnológicas motivou OS Descobrimentos portugueses. O norte-americano Washington Irving e o francês Antoine-Jean Letronne, em finais do século XIX e princípios do XX, difundiram o mito da \"terra plana\", o que logo ganhou adeptos. De acordo com os autores desse mito, Colombo teria proposto a D. João II sua teoria supostamente revolucionária da esfericidade da terra. O rei teria reunido seus especialistas, que rejeitaram a proposta porque achavam que a terra era plana. A viagem de Colombo com a descoberta das Américas, todavia, confirmaria a redondeza da Terra. O mito, porém, prevaleceu. No entanto, a realidade é deveras fascinante.\n(Adaptado de Onésimo Teotónio Almeida, A ciência no Portugal da Expansão. Ideias. jornaldeletras. pt. 26 de setembro a 9 de outubro de 2018, p. 31-32.)\nBaseado no enunciado acima, é correto afirmar:",
+      "alternativas": {
+        "A": "O mito da terra plana, disseminado em finais do século XIX, foi usado para interpretar os Descobrimentos portugueses, e até hoje cativa um público. Ainda assim, desde a Antiguidade, já se sabia que a Terra é redonda.",
+        "B": "Os Descobrimentos portugueses subordinam-se à noção de Revolução Científica do século XVII, resultando em uma inovação tecnológica associada a uma mentalidade racionalista singular.",
+        "C": "O texto propõe compreender os Descobrimentos portugueses como impulsionados por uma nova mentalidade empírica com implicações tecnológicas, o que reafirma a noção da Terra plana.",
+        "D": "No domínio da modernidade científica, OS Descobrimentos portugueses vão além do mito de Colombo e da Terra plana. Seus conhecimentos, porém, desembocaram em resultados de pouco significado histórico."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "História – Grandes Navegações",
+        "História – História da Ciência",
+        "Filosofia – Epistemologia"
+      ]
+    },
+    {
+      "numero_questao": 51,
+      "enunciado": "A rainha Nzinga (1624-1663), governante seiscentista do Ndongo, um reino da África Central situado na atual Angola, chegou ao poder graças à sua competência militar, à diplomacia bem sucedida, à manipulação da religião e de conflitos entre potências europeias. Ela criou as condições para a primeira sublevação popular mbundu contra a exploração portuguesa ao atrair para sua causa os chefes que estavam sob influência europeia. Depois conquistou o reino vizinho de Matamba e o governou por três décadas junto com o que restou do poderoso reino Ndongo; desafiou treze governadores portugueses que regeram Angola entre 1622 e 1633. Apesar de seus feitos e o longo reinado, comparável ao de Elizabeth I (1503—1603) da Inglaterra, ela foi desacreditada pelos contemporâneos europeus e por autores posteriores.\n(Adaptado de Linda Heywood, Nzinga de Angola: a rainha guerreira de África. Lisboa: Casa das Letras, 2017. p. 10-12; 82.)\nCom base no excerto e em seus conhecimentos, é correto afirmar que a rainha Nzinga:",
+      "alternativas": {
+        "A": "Utilizou, como estratégias políticas para conter o avanço português em seus territórios, a formação de alianças com reinos vizinhos (como Congo), a exploração dos conflitos entre Portugal e Holanda e a interferência nas redes do tráfico.",
+        "B": "Expulsou os portugueses de Angola e reconstruiu o reino do Ndongo em sua extensão original através da política de distribuição de terras aos sobas que aceitaram a sua legitimidade no trono.",
+        "C": "Aboliu o tráfico atlântico de escravizados, apesar da oposição de missionários e comerciantes portugueses que viviam em Luanda, e perseguiu os sobas envolvidos com o comércio.",
+        "D": "Enfrentou um mundo onde o imaginário monárquico e o ideário político eram hegemonicamente masculinos e, assim como a Rainha Elizabeth I, não teve sucesso político e militar."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "História – História da África",
+        "História – Colonialismo"
+      ]
+    },
+    {
+      "numero_questao": 52,
+      "enunciado": "O trecho acima foi retirado do panfleto O Senso comum e Os direitos do homem, publicado de forma anônima, em 1776. Com autoria assumida por Thomas Paine, a obra causou grande reação pública. A partir do texto e das informações fornecidas, é correto dizer que o autor",
+      "alternativas": {
+        "A": "apresenta a Monarquia como um mal necessário e a figura do rei absolutista como absurda e inútil, contudo inquestionável. Paine tornou-se o principal nome contrário à Revolução Americana.",
+        "B": "estabelece uma relação direta entre a sociedade e o governo, abrindo espaço para debates acerca do mau governo. O panfleto escrito por Paine tornou-se uma base teórica para a Revolução Americana.",
+        "C": "demonstra como regimes autoritários favorecem os meios de informação, para que os homens exerçam suas capacidades de julgamento. Paine usou jornais para combater a Revolução Americana.",
+        "D": "considera que sociedades com e sem governos têm os mesmos benefícios, desenvolvendo-se de formas semelhantes. Paine desencorajou o engajamento dos colonos ingleses na Revolução Americana."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Filosofia – Filosofia Política",
+        "História – Revolução Americana",
+        "Sociologia – Teoria do Estado"
+      ]
+    },
+    {
+      "numero_questao": 53,
+      "enunciado": "Não parece ser obra do acaso a preservação da unidade territorial do Império do Brasil, quando comparada à fragmentação política experimentada pelos antigos vice-reinos hispano-americanos, entre 1810 e 1825. Em Lisboa, no âmbito da Sociedade Real Marítima e Militar (1798-1807), foram preparadas memórias históricas, corográficas e roteiros hidrográficos redigidos pelos engenheiros militares e navais. Esta documentação serviu à diplomacia do Império brasileiro nos tribunais internacionais; mas também, muniu, internamente, a organização das expedições de conquista territorial, levadas ao cabo pelas elites regionais antes e após a Independência.\n(Adaptado de Iris Kantor, Mapas em trânsito: projeções cartográficas e processo de emancipação política do Brasil (1779-1822). Araucaria. Ver. Iberoamericana de Filos., Polít. y Humanidades. 2010, 12, n. 24. p. 110.)\nConsiderando o excerto acima e seus estudos, pode-se afirmar que",
+      "alternativas": {
+        "A": "o processo de fragmentação política da América hispânica durante o período da independência foi similar ao processo histórico da independência no Brasil.",
+        "B": "na Sociedade Real Marítima e Militar, os estudos dos engenheiros militares e navais eram documentos públicos amplamente divulgados em livros didáticos da época.",
+        "C": "a documentação da Sociedade Real Marítima e Militar foi usada, no Brasil, na fundação do Estado e no reconhecimento territorial da nação.",
+        "D": "as elites regionais, formadas em Direito, atuaram na formação do território brasileiro, pouco dialogando com os estudos de engenharia militar."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "História – História do Brasil (Independência)",
+        "Geografia – Formação Territorial"
+      ]
+    },
+    {
+      "numero_questao": 54,
+      "enunciado": "No início da década de 1920, o Brasil se preparou para celebrar os cem anos de sua independência na Exposição Internacional do Centenário da Independência do Brasil, um de seus momentos simbólicos mais significativos. Ocorrido na cidade do Rio de Janeiro, entre 7 de setembro de 1922 e 2 de julho de 1923, o evento mobilizou grandes recursos financeiros e foi responsável pela reordenação do espaço urbano. O Estado, por meio da comissão organizadora do evento, incentivou pela primeira vez a realização de documentários fílmicos.\n(Adaptado de Eduardo Morettin, Um apóstolo do modernismo na Exposição Internacional do Centenário: Armando Pamplona e a Independência. Film. Significação, 2012, n. 37, p. 77.)\nA partir do texto, assinale a alternativa correta sobre o evento do centenário da independência.",
+      "alternativas": {
+        "A": "Este evento apostou no cinema e na exposição para exibir de modo tradicional, aos brasileiros, um país ibérico, associado às navegações modernas.",
+        "B": "Esta política de celebração de centenários datava do século XIX, envolvendo esporadicamente os serviços diplomáticos do ocidente.",
+        "C": "A política de associar o cinema à exposição do centenário da independência evidencia uma vontade do Estado em propagandear um país moderno.",
+        "D": "O cinema e a exposição eram veículos de propaganda política, continuando um projeto de tornar o Rio de Janeiro o cartão postal da monarquia brasileira."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "História – História do Brasil (República Velha)",
+        "Sociologia – Memória e Identidade Nacional"
+      ]
+    },
+    {
+      "numero_questao": 55,
+      "enunciado": "É uma tarefa difícil realizar um diagnóstico do tempo presente. Definir o presente como “época\"? Os marcos canônicos (geralmente de natureza política) variam, sabidamente, ao gosto das experiências nacionais. Na França, na península Ibérica e no Brasil, o marco que define o início da história contemporânea é a Revolução Francesa. Na Alemanha e na Inglaterra, o historiador que se dedica à história contemporânea trabalha preferencialmente com eventos posteriores à II Guerra Mundial. Contemporânea, na Rússia, é a história posterior a 1918. Na Itália, por sua vez, trata-se do período que advém após o Congresso de Viena (1814-1815).\n(Adaptado de Helena Miranda Mollo, Sergio da Mata, Mateus Henrique de Faria Pereira e Flávia Varella, Tempo presente & usos do passado. Rio de Janeiro: Editora FGV, 2012. Posição Kindle: 107-111.)\nA partir da leitura do texto, é correto afirmar que",
+      "alternativas": {
+        "A": "o recorte temporal de História Contemporânea é natural e consensual entre as civilizações ocidentais e resume o que podemos definir como História do Tempo Presente.",
+        "B": "experiências traumáticas marcadas, por exemplo, pelas duas grandes guerras mundiais, definem nossa experiência de tempo presente e delimitam o início da História Contemporânea.",
+        "C": "as balizas cronológicas da História que definem as periodizações usadas pelas grandes narrativas históricas e livros escolares são de natureza política, variando de acordo com as experiências nacionais.",
+        "D": "os riscos de se construir narrativas múltiplas sobre a história do tempo presente tornam urgente uma revisão histórica que estabeleça balizas cronológicas universais na linearidade do tempo histórico."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "História – Historiografia",
+        "História – Teoria da História",
+        "Filosofia – Filosofia da História"
+      ]
+    },
+    {
+      "numero_questao": 56,
+      "enunciado": "No Brasil, um exemplo de história que precisa ser narrada é a dos movimentos em defesa dos direitos que hoje reconhecemos como movimentos LGBTQIA+. Tais movimentos eclodiram como um ato de resistência em plena ditadura civil-militar, marcada pela repressão e por ideais conservadores. Naquele contexto, a busca por visibilidade passou a ser compreendida como um dos elementos fundamentais para a conquista da cidadania. Entre outras coisas, os ativistas defendiam que os direitos políticos, sociais e civis tornam-se socialmente legítimos para os cidadãos quando envolvem o direito aos meios de comunicação e à livre expressão.\n(Baseado em Vinicius Ferreira e Igor Sacramento, Editorial: Movimento LGBT no Brasil: violências, memórias e lutas. Reciis - Rev Eletron Comun Inf Inov Saúde. 2019 abr.-jun. 13(2): p. 234-239.)\nA partir da leitura do texto, assinale a alternativa correta acerca da historicidade dos movimentos políticos identitários e suas estratégias políticas de ação.",
+      "alternativas": {
+        "A": "Esses movimentos eclodiram na segunda metade do século XX, foram perseguidos e silenciados pela ditadura militar e retornaram à cena pública após a instauração de um regime democrático.",
+        "B": "Por sua capacidade de obter alcance social, desde a década de 1970, as mídias são ferramentas para a construção de uma cidadania plena, sendo a busca por visibilidade, portanto, uma das estratégias de ação do movimento LGBTQIA+.",
+        "C": "O Brasil do século XX construiu-se como uma democracia racial, o que garantiu aos movimentos políticos e identitários nacionais o acesso aos direitos civis, políticos e sociais, esvaziando as agendas dos militantes LGBTQIA+.",
+        "D": "Na atualidade, a onda de crimes de homofobia e transfobia estimulam o movimento LGBTQIA+ a rever a pauta da visibilidade dos sujeitos, tornando a militância mais discreta e voltada para o espaço privado da ação dos indivíduos."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "História – Movimentos Sociais (LGBTQIA+)",
+        "Sociologia – Direitos Humanos",
+        "Sociologia – Cidadania"
+      ]
+    },
+    {
+      "numero_questao": 57,
+      "enunciado": "USE O TEXTO A SEGUIR PARA RESPONDER ÀS QUESTÕES 57 E 58.\nEm 2018, a NASA lançou a sonda Solar Parker com o objetivo de estudar o Sol. Para isso, ao longo de suas órbitas, a sonda se aproximará gradativamente da estrela, coletando dados a cada passagem. Em abril de 2021, a Solar Parker fez sua oitava aproximação, atingindo dois novos recordes de artefatos realizados pelo homem: maior velocidade e máxima aproximação do Sol.\nUma sonda viaja a uma velocidade de módulo constante igual a v = 5×10⁵ km/h (aproximadamente a velocidade atingida pela sonda em abril de 2021), tangenciando a superfície da Terra ao longo da Linha do Equador. Em uma hora, aproximadamente quantas voltas a sonda dá em torno da Terra?\nDado: Raio da Terra Rₜₑₑₑₑ = 6,0 × 10³ km.",
+      "alternativas": {
+        "A": "83.",
+        "B": "30.",
+        "C": "14.",
+        "D": "0,5."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Física – Cinemática Circular",
+        "Matemática – Geometria (Circunferência)"
+      ]
+    },
+    {
+      "numero_questao": 58,
+      "enunciado": "A força gravitacional exercida pelo Sol sobre a sonda Solar Parker tem módulo dado por Fₛₒₗ = GMm/r², sendo G = 6,7 × 10⁻¹¹ N.m²/kg² a constante gravitacional universal, M = 2,0×10³⁰ kg a massa do Sol, m a massa da sonda, e r a distância entre a sonda e o centro do Sol. Sendo r = 1,0×10⁷ km (aproximadamente a distância atingida pela sonda em abril de 2021), qual é o módulo da aceleração gravitacional do Sol na referida posição?",
+      "alternativas": {
+        "A": "6,7×10⁻²⁷ m/s².",
+        "B": "1,34 m/s².",
+        "C": "9,8 m/s².",
+        "D": "2,0×10¹⁰ m/s²."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Física – Gravitação Universal",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numero_questao": 59,
+      "enunciado": "USE O TEXTO A SEGUIR PARA RESPONDER ÀS QUESTÕES 59 E 60.\nEm abril de 2021 faleceu o astronauta norte-americano Michael Collins, integrante da missão Apolo 11, que levou o primeiro homem à Lua. Enquanto os dois outros astronautas da missão, Neil Armstrong e Buzz Aldrin, desceram até a superfície lunar, Collins permaneceu em órbita lunar pilotando o Módulo de Comando Columbia.\nA órbita do Columbia era aproximadamente circular, e o módulo da aceleração gravitacional na órbita era gorbit = 1,4 m/s². A força resultante centrípeta é desempenhada pela força gravitacional exercida pela Lua, ou seja, Fₒₚ = mᴴᵒᴯᵒᵟᵟᵞᵃ gorbit. Sendo o módulo da velocidade do Columbia v = 1600m/s, qual foi aproximadamente o período T da órbita?",
+      "alternativas": {
+        "A": "T = 20 min.",
+        "B": "T = 2,0 h.",
+        "C": "T = 3,0 h.",
+        "D": "T = 4,0 h."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Física – Movimento Circular Uniforme",
+        "Física – Gravitação"
+      ]
+    },
+    {
+      "numero_questao": 60,
+      "enunciado": "A viagem desde o Columbia até a superfície da Lua foi realizada no Módulo Lunar Eagle, formado por dois estágios: um usado na descida e outro, na subida. A massa seca do estágio de subida, ou seja, sem contar a massa do combustível (quase totalmente consumido na viagem de volta), era m = 2500 kg. Considere que o módulo da aceleração gravitacional seja aproximadamente constante e dado por g = gorbit = 1,4 m/s² desde a superfície lunar até a órbita do Columbia, que se situava a uma altitude h = 110 km. Qual é a variação da energia potencial gravitacional do estágio de subida (massa seca que reencontra o Columbia) na viagem de volta?",
+      "alternativas": {
+        "A": "3,85 × 10⁵ J.",
+        "B": "2,75×10⁶ J.",
+        "C": "3,85 × 10⁸ J.",
+        "D": "2,75×10⁹ J."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Física – Energia Potencial Gravitacional",
+        "Física – Trabalho e Energia"
+      ]
+    },
+    {
+      "numero_questao": 61,
+      "enunciado": "A figura a seguir mostra a temperatura da tigela de uma panela de arroz elétrica em função do tempo de cozimento.\n[Graph: Line graph of Temperature (°C) vs. tempo (minutos) for a rice cooker. Temperature starts at approx. 20°C, rises linearly to 100°C at 10 minutes, stays at 100°C until 25 minutes, then rises linearly again to 110°C at 30 minutes, and stays flat.]\nLigando-se a panela, uma resistência elétrica aumenta a temperatura da tigela contendo arroz e água até que a água entre em ebulição. Depois que toda a água é consumida por evaporação e por absorção pelo arroz -, a temperatura da tigela volta a subir, o que é detectado por um sensor, e a panela é então desligada. A potência elétrica dissipada pela resistência elétrica, na forma de calor, é P = 400 W, constante durante todo o cozimento.\nQuanto vale a energia elétrica dissipada desde o início do processo até que toda a água seja consumida?",
+      "alternativas": {
+        "A": "13,3 kJ.",
+        "B": "240 kJ.",
+        "C": "720 kJ.",
+        "D": "2000 kJ."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Física – Termodinâmica",
+        "Física – Calor e Temperatura",
+        "Física – Potência Elétrica"
+      ]
+    },
+    {
+      "numero_questao": 62,
+      "enunciado": "A autoclave, um equipamento de esterilização de objetos por meio de vapor de água em alta temperatura e pressão, foi inventada por Charles Chamberland, a pedido de Louis Pasteur. A figura a seguir mostra a curva da pressão máxima de vapor da água em função da temperatura. Para temperaturas e pressões do lado esquerdo da curva, a água encontra-se na fase líquida; do lado direito, a água está na fase de vapor. Nos pontos sobre a curva, as fases líquida e de vapor coexistem. A pressão de funcionamento de uma determinada autoclave é p = 3,0 atm. Se toda a água está na fase de vapor, o que se pode dizer sobre a sua temperatura θ?\nDado: 1,0 atm = 100 kPa.\n[Graph: Phase diagram for water: 'pressão máxima de vapor da água (kPa)' (Y-axis) vs. 'temperatura (°C)' (X-axis). A curve separates 'fase líquida' (left) and 'fase vapor' (right). The curve passes through approximately (100°C, 100kPa), (110°C, 150kPa), (120°C, 200kPa), (130°C, 300kPa), (140°C, 400kPa).]",
+      "alternativas": {
+        "A": "θ pode ter qualquer valor maior que 100 °C.",
+        "B": "θ pode ter qualquer valor maior que 100 °C e menor que 133 °C.",
+        "C": "θ pode ter qualquer valor menor que 100 °C ou maior que 133 °C.",
+        "D": "θ pode ter qualquer valor maior que 133 °C."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Física – Termodinâmica",
+        "Física – Mudanças de Estado",
+        "Física – Pressão e Temperatura"
+      ]
+    },
+    {
+      "numero_questao": 63,
+      "enunciado": "As máscaras de proteção N95 e PFF2 se tornaram ferramentas importantes no combate à disseminação do novo coronavírus durante a pandemia da Covid-19. Essas máscaras possuem fibras compostas de um material com campo elétrico permanente e são capazes de realizar uma filtragem eletrostática das partículas ou gotículas dispersas no ar. Considere um campo elétrico uniforme de módulo E₀ = 4,0×10⁻² V/m em uma região do espaço. A diferença de potencial elétrico entre duas linhas tracejadas paralelas entre si e perpendiculares à direção desse campo elétrico, separadas por uma distância d, conforme mostra a figura a seguir, é igual a\n[Image: Diagram showing two parallel dashed lines, separated by a distance d = 5.0 × 10⁻⁶ m. An electric field E₀ points from the left line to the right line, perpendicular to the lines.]",
+      "alternativas": {
+        "A": "1,6×10⁻¹⁰ V.",
+        "B": "2,0×10⁻⁷ V.",
+        "C": "0,8×10⁻⁶ V.",
+        "D": "1,2×10⁻⁴ V."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Física – Eletrostática",
+        "Física – Campo Elétrico",
+        "Física – Diferença de Potencial"
+      ]
+    },
+    {
+      "numero_questao": 64,
+      "enunciado": "Uma imagem capturada recentemente pela sonda Perseverance na superfície de Marte mostrou o que parece ser um arco-íris no céu daquele planeta. Na Terra, um arco-íris surge como resultado da decomposição da luz branca do Sol por refração nas gotículas quase esféricas de água, suspensas na atmosfera. Em Marte, contudo, não há chuva. Portanto, a origem do arco-íris ainda é controversa. Em relação ao fenômeno de formação do arco-íris na Terra, quando a luz solar incide em uma gotícula de água, é correto afirmar que",
+      "alternativas": {
+        "A": "o índice de refração da água para as diferentes cores da luz branca é menor do que o do ar; assim, no interior das gotículas, os raios de luz das diferentes cores se aproximam mais da reta normal à interface entre os meios de refração, quanto maior for o índice de refração corresponde àquela cor, na água.",
+        "B": "o índice de refração da água para as diferentes cores da luz branca é menor do que o do ar; assim, os raios de luz das diferentes cores, no interior das gotículas, se afastam mais da reta normal à interface entre os meios de refração, quanto maior for o índice de refração corresponde àquela cor, na água.",
+        "C": "o índice de refração da água para as diferentes cores da luz branca é maior do que o do ar; assim, os raios de luz das diferentes cores, no interior das gotículas, se aproximam mais da reta normal à interface entre os meios de refração, quanto maior for o índice de refração corresponde àquela cor, na água.",
+        "D": "o índice de refração da água para as diferentes cores da luz branca é maior do que o do ar; assim, os raios de luz das diferentes cores, no interior das gotículas, se afastam mais da reta normal à interface entre os meios de refração, quanto maior for o índice de refração corresponde àquela cor, na água."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Física – Óptica",
+        "Física – Refração da Luz"
+      ]
+    },
+    {
+      "numero_questao": 65,
+      "enunciado": "O Programa Mundial de Alimentos da Organização das Nações Unidas (PMA-ONU) foi agraciado com o prêmio Nobel da Paz em 2020. No Brasil, um dos maiores produtores de alimentos do mundo, quatro em cada 10 famílias não tiveram acesso diário, regular, e permanente à quantidade suficiente de comida em 2017 e 2018. A fome é declarada quando a desnutrição é generalizada e quando as pessoas começam a morrer por falta de alimentos nutritivos e suficientes. A diversidade dos alimentos ingeridos garante nutrientes para o desempenho ideal das funções do organismo.\n(Fonte: UNITED NATIONS [UN]. World Food Program. What is famine? Disponível em https://www.wfp.org/stories/what-is-famine. Acessado em 08/06/2021.)\nAssinale a alternativa correta sobre os nutrientes e sua importância para a saúde humana.",
+      "alternativas": {
+        "A": "A hidrólise dos carboidratos essenciais fornece aminoácidos para a formação das proteínas, as quais têm função construtora de diferentes tecidos.",
+        "B": "Os lipídios contêm desoxirriboses e ácidos graxos, constituem as membranas plasmáticas e participam da síntese de colesterol no organismo.",
+        "C": "Os sais minerais são substâncias inorgânicas essenciais para diversas funções do organismo, como a síntese de glicogênio, de proteínas e de vitaminas.",
+        "D": "As vitaminas atuam como antioxidantes e são substâncias energéticas cuja composição fornece ao organismo glicídios utilizados na respiração celular."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Biologia – Nutrição",
+        "Biologia – Bioquímica"
+      ]
+    },
+    {
+      "numero_questao": 66,
+      "enunciado": "Após a transformação do meristema vegetativo em meristema floral, há o surgimento da flor. De forma genérica, uma flor é constituída por verticilos florais, que são: o cálice (constituído pelas sépalas), a corola (constituída pelas pétalas), o androceu e o gineceu. Segundo o modelo de determinação genética ABC, a identidade dos verticilos é definida pela interação de pelo menos três genes. A atividade do gene A é necessária para a formação do perianto (verticilos não reprodutivos). A atividade do gene C é necessária para a formação dos verticilos reprodutivos. A atividade do gene B está envolvida na diferenciação entre pétalas (onde o gene B está ativo) e sépalas (onde o gene B está inativo), assim como na diferenciação entre estames (onde o gene B está ativo) e carpelos (onde o gene B está inativo).\nUma flor completa de angiosperma e duas flores hipotéticas (Flor I e Flor II) são apresentadas a seguir.\n[Image: Three diagrams of flowers. 'Flor completa' shows sepals, petals, stamens, carpels. 'Flor I' shows sepals and petals. 'Flor II' shows petals, stamens, and carpels.]\nAssinale a alternativa que apresenta os genes ativos nas flores I e II.",
+      "alternativas": {
+        "A": "flor I: A e B; flor II: B e C.",
+        "B": "flor I: B e C; flor II: A e B.",
+        "C": "flor I: A e B; flor II: A e C.",
+        "D": "flor I: A e C; flor II: B e C."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Biologia – Botânica",
+        "Biologia – Genética (desenvolvimento)"
+      ]
+    },
+    {
+      "numero_questao": 67,
+      "enunciado": "\"Eu estava tão fraca, meu corpo estava tão debilitado, que pensava: só quero terminar a obra antes de morrer\", relatou a artista plástica Gillian Genser durante a confecção da escultura que representaria Adão. Nessa obra, a artista utilizou conchas de mexilhão azul, que vive nas águas da costa Atlântica do Canadá. Mas durante a criação da obra, a artista apresentou sintomas de demência severa, dores que a imobilizavam, problemas de fala, desorientação espacial, perda de memória. Foi diagnosticada com envenenamento por arsênico e por chumbo, apesar de dizer aos especialistas que não trabalhava com materiais tóxicos, apenas naturais.\n(Fonte: https://www.bbc.com/portuguese/geral-46908197. Acessado em 11/06/2021.)\nConsiderando о relato da reportagem e seus conhecimentos, assinale a alternativa correta sobre os mexilhões.",
+      "alternativas": {
+        "A": "São moluscos bivalves – considerados predadores ativos das cadeias tróficas –, capazes de metabolizar e excretar elevadas taxas de arsênico e chumbo.",
+        "B": "São moluscos bivalves – considerados bentônicos filtradores – tolerantes à poluição e capazes de bioacumular elevadas taxas de arsênico e chumbo.",
+        "C": "São crustáceos – considerados predadores ativos das cadeias tróficas, capazes de metabolizar e excretar elevadas taxas de arsênico e chumbo.",
+        "D": "São crustáceos – considerados bentônicos filtradores – tolerantes à poluição e capazes de bioacumular elevadas taxas de arsênico e chumbo."
+      },
+      "alternativa_correta": "B",
+      "conteudos_abordados": [
+        "Biologia – Zoologia (Moluscos)",
+        "Biologia – Ecologia (Bioacumulação)",
+        "Química – Química Ambiental"
+      ]
+    },
+    {
+      "numero_questao": 68,
+      "enunciado": "A estiagem prolongada no Pantanal, devido às fracas temporadas de chuvas em 2019 e 2020, criou condições para a manutenção e propagação do fogo, e para o menor nível de inundação do Pantanal dos últimos 50 anos.\n(Adaptado de Marcos Pivetta, Pesquisa Fapesp, São Paulo, v. 297, nov. 2020, p. 31-35.)\nConsiderando as informações fornecidas e seu conhecimento sobre os biomas, é correto afirmar que",
+      "alternativas": {
+        "A": "a pluviosidade sobre os rios da bacia do rio Paraguai é determinante para as inundações do Pantanal, um bioma com misto de vegetações de floresta, cerrado e campo. A produtividade primária do bioma, devido à conversão de luz solar em energia e biomassa, dá suporte para os demais níveis tróficos.",
+        "B": "a pluviosidade sobre os rios da bacia do rio Cuiabá é determinante para as inundações do Pantanal, um bioma com misto de vegetações de floresta, cerrado e caatinga. A produtividade primária do bioma, devido à conversão de luz solar em energia e matéria orgânica, dá suporte aos animais endêmicos.",
+        "C": "as chuvas sobre os rios da bacia do rio Paraguai são importantes para o ciclo de alagamento do Pantanal, um bioma com misto de vegetações de floresta, cerrado e caatinga. A produtividade secundária do bioma, com a conversão de luz solar em energia e biomassa, dá suporte para os demais níveis tróficos.",
+        "D": "as chuvas sobre os rios da bacia do rio Cuiabá são importantes para o ciclo de alagamento do Pantanal, um bioma com misto de vegetações de floresta, cerrado e campo. A produtividade secundária do bioma, com a conversão de luz solar em energia e matéria orgânica, dá suporte aos animais endêmicos."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Geografia – Biomas Brasileiros (Pantanal)",
+        "Biologia – Ecologia (Cadeias Tróficas)",
+        "Geografia – Hidrografia"
+      ]
+    },
+    {
+      "numero_questao": 69,
+      "enunciado": "Teorias sobre como o novo coronavírus (SARS-CoV-2) que passou a infectar os humanos surgiram em 2019. Foi aventada a possibilidade de transmissão zoonótica. Um estudo filogenético, com mais de 2 mil genomas únicos de coronavírus, apresentou a provável descendência de alguns coronavírus e alertou sobre a importância de investigar OS vírus, como estratégia global de monitoramento de endemias, e não apenas em situações de emergência sanitária.\n(Adaptado de Denis Jacob Machado e outros. Cladistics, Londres, v. 37, out. 2021, p. 461-488.)\nO cladograma a seguir apresenta as relações filogenéticas entre os diversos vírus do gênero Betacoronavirus (Beta-CoV), incluindo seus respectivos hospedeiros.\n[Image: Cladogram titled 'Betacoronavirus'. Branches show relationships between different betacoronaviruses (HCOV-HKU1, HCOV-OC43, HCOV-4408, SARS-CoV-2, SARS-CoV, MERS-CoV) and their host animals, which include Artiodáctilos, Lebres e coelhos, Carnívoros, Morcegos, Musaranhos e ouriços, Roedores, Pangolins, Humanos, Primatas.]\n(Adaptado de https://www1.folha.uol.com.br/ciencia/2021/05/maior-estudo-evolutivo-de-coronavirus [...]. Acessado em 15/06/2021.)\nA partir do cladograma, é correto afirmar que os betacoronavírus de",
+      "alternativas": {
+        "A": "artiodáctilos são os grupos irmãos dos HCoV-4408 e SARS-CoV-2 de humanos, por meio de hospedeiros intermediários.",
+        "B": "morcegos são os grupos irmãos dos SARS-CoV-2 e HCOV-OC43 de humanos, por meio de hospedeiros intermediários.",
+        "C": "artiodáctilos são os grupos irmãos dos SARS-CoV, SARS-CoV-2 e MERS-CoV de humanos.",
+        "D": "morcegos são os grupos irmãos dos SARS-CoV, SARS-CoV-2 e MERS-CoV de humanos."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Biologia – Virologia",
+        "Biologia – Evolução",
+        "Biologia – Saúde Pública"
+      ]
+    },
+    {
+      "numero_questao": 70,
+      "enunciado": "Dezenas de espécies de fungos bioluminescentes já foram descritas, sendo 12 encontradas no Brasil. As estruturas fúngicas são capazes de bioluminescer, capacidade esta que tem significância ecológica uma vez que pode atrair dispersores de esporos, repelir fungívoros fotofóbicos ou indicar toxicidade do fungo. O processo de emissão de luz envolve as enzimas redutase e luciferase. Sabe-se que a emissão de luz depende da presença das duas proteínas e as reações são apresentadas a seguir.\nL + NAD(P)H + H⁺ ⁻⁽⁻⁾ⁿ⁺ ⁽ₒₗⁿ⁺ ₛₒₗⁿ⁺ₒ → LH₂ + NAD(P)⁺\nLH₂ + O₂ ⁻⁽⁻⁾ⁿ⁺ ⁽ₒₗⁿ⁺ₒ → LO + H₂O + hv\nL: luciferina; LH₂: luciferina reduzida; LO: oxiluciferina; hv: luz.\n(Adaptado de Anderson Garbuglio Oliveira e outros. Química Nova, São Paulo, v. 36, 2013, p. 314-319.)\nConsiderando as estruturas dos fungos e o processo de emissão de luz descrito, assinale a alternativa correta.",
+      "alternativas": {
+        "A": "Corpos de frutificação são estruturas de fixação do fungo ao substrato; a emissão de luz nessas estruturas depende da presença de oxigênio.",
+        "B": "Micélios são as estruturas reprodutivas dos fungos; a emissão de luz nessas estruturas dá-se no momento em que a luciferina é reduzida.",
+        "C": "Hifas são filamentos ricos em quitina que permitem aos fungos obterem nutrientes; a emissão de luz nessas estruturas depende da presença de luciferina reduzida.",
+        "D": "Esporos diploides são produzidos pelos gametângios; a emissão de luz nessas estruturas dá-se com a oxidação da oxiluciferina."
+      },
+      "alternativa_correta": "C",
+      "conteudos_abordados": [
+        "Biologia – Biologia Celular (Fungos)",
+        "Química – Reações Químicas",
+        "Biologia – Fisiologia Vegetal (Metabolismo)"
+      ]
+    },
+    {
+      "numero_questao": 71,
+      "enunciado": "Vacinar-se é um ato necessário para proteção individual e coletiva. Até o momento, quatro vacinas contra o novo coronavírus (SARS-CoV-2) receberam autorização da Agência Nacional de Vigilância Sanitária (Anvisa) para uso no Brasil e podem apresentar biotecnologia distinta para promover a resposta imune do organismo.\nAssinale a alternativa que apresenta corretamente a relação entre o princípio tecnológico da vacina e a resposta imune induzida no organismo vacinado.",
+      "alternativas": {
+        "A": "O DNA sintético induz a produção da proteína spike do SARS-CoV-2, o que estimula a produção de antígenos pelo sistema imune.",
+        "B": "O adenovírus, como um vetor viral replicante, carrega o gene da proteína spike do SARS-CoV-2 e induz a produção de anticorpos pelo sistema imune.",
+        "C": "A partícula viral ativa do SARS-CoV-2 possui no capsídeo a proteína spike, que induz a produção de antígenos pelo sistema imune.",
+        "D": "O RNAm sintético fornece instruções ao organismo para a produção da proteína spike do SARS-CoV-2, o que estimula a produção de anticorpos pelo sistema imune."
+      },
+      "alternativa_correta": "D",
+      "conteudos_abordados": [
+        "Biologia – Imunologia",
+        "Biologia – Biotecnologia",
+        "Biologia – Saúde Pública"
+      ]
+    },
+    {
+      "numero_questao": 72,
+      "enunciado": "É #FAKE que termômetro infravermelho cause dano à glândula pineal\n[Image: A large bold word 'FAKE' with a stylized checkmark over the 'A'. Below, the text 'É #FAKE que termômetro infravermelho cause dano à glândula pineal'.]\nA radiação infravermelha é uma radiação não ionizante emitida por todo corpo físico com temperatura acima do zero absoluto.\n(Fonte: Portal G1. Acessado em 21/06/2021.)\nAssinale a alternativa que preenche corretamente as lacunas no excerto a seguir.\nO termômetro capta a radiação infravermelha emitida da superfície da fronte (testa), sendo unicamente um sensor de temperatura. Localizada no interior do cérebro, a glândula pineal faz parte do sistema (i) ________ e é responsável pela liberação de (ii) ________ durante a noite. Algumas funções dessa substância estão relacionadas à modulação nos padrões (iii) ________ e à regulação (iv) ________.",
+      "alternativas": {
+        "A": "(i) endócrino; (ii) melatonina; (iii) do ciclo circadiano; (iv) da reprodução.",
+        "B": "(i) nervoso; (ii) melatonina; (iii) de secreção da tireoide; (iv) da homeostase hídrica.",
+        "C": "(i) endócrino; (ii) ocitocina; (iii) de secreção da tireoide; (iv) da homeostase hídrica.",
+        "D": "(i) nervoso; (ii) ocitocina; (iii) do ciclo circadiano; (iv) da reprodução."
+      },
+      "alternativa_correta": "A",
+      "conteudos_abordados": [
+        "Biologia – Fisiologia Humana (Sistema Endócrino)",
+        "Física – Radiação Eletromagnética",
+        "Biologia – Neurofisiologia"
+      ]
+    }
+  ]
+}
