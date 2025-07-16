@@ -1,43 +1,4 @@
-UNICAMP:
-Unicamp 2020:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2020_1fase/unicamp2020_1fase_prova_QX.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2020_1fase/UNICAMP2020_1fase_gabarito.pdf
-
-Unicamp 2019:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2019_1fase/unicamp2019_1fase_prova_QX.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2019_1fase/UNICAMP2019_1fase_gabarito.pdf
-
-Unicamp 2018:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2018_1fase/unicamp2018_1fase_prova_Q.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2018_1fase/UNICAMP2018_1fase_gabarito.pdf
-
-Unicamp 2017:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2017_1fase/unicamp2017_prova_QY.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2017_1fase/UNICAMP2017_1fase_gabarito.pdf
-
-Unicamp 2016:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2016_1fase/UNICAMP2016_1fase_prova_SX.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2016_1fase/UNICAMP2016_1fase_gabarito.pdf
-
-Unicamp 2015:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2015_1fase/UNICAMP2015_1fase_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2015_1fase/UNICAMP2015_1fase_gabarito.pdf
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 UNESP:
-Unesp 2025:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025/1fase/UNESP2025_1fase_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025/1fase/UNESP2025_1fase_gabarito.pdf
-
-Unesp 2023:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_gabarito.pdf
-
-Unesp 2022:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2022/1fase/2dia/UNESP2022_1fase_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2022/1fase/2dia/UNESP2022_1fase_gabarito.pdf
-
 Unesp 2021:
 prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2021/1fase/1dia/UNESP2021_1fase_prova.pdf
 gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2021/1fase/1dia/UNESP2021_1fase_gabarito.pdf
@@ -135,25 +96,6 @@ gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/201
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-FAMERP:
-Famerp 2018:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2018/1dia/famerp2018_1dia_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2018/1dia/famerp2018_1dia_gabarito.pdf
-
-Famerp 2017:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2017/1dia/famerp2017_1dia_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2017/1dia/famerp2017_1dia_gabarito.pdf
-
-Famerp 2016:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2016/1dia/famerp2016_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2016/1dia/famerp2016_gabarito.pdf
-
-Famerp 2015:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2015/1dia/famerp2015_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/FAMERP/2015/1dia/famerp2015_gabarito.pdf
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 PUC CAMPINAS:
 PUCCAMP 2025:
 prova - 
@@ -199,7 +141,1418 @@ PUCCAMP 2015:
 prova - 
 gabarito - 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+PUC SP:
+Pucsp 2025:
+prova - https://nucvest.com.br/downloads/pucsp/vestibular/2025/inverno/PUCSP-inverno-2025-A4-v2-direito-autoral-digital.pdf
+gabarito - https://nucvest.com.br/downloads/pucsp/vestibular/2025/inverno/PUC-Inverno-2025-Gabarito.pdf
+
+Pucsp 2024:
+prova - https://www.nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-A4-v1.pdf
+gabarito - https://www.nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-Gabarito.pdf
+
+Pucsp 2023:
+prova - 
+gabarito - 
+
+Pucsp 2022:
+prova - 
+gabarito - 
+
+Pucsp 2021:
+prova - 
+gabarito - 
+
+Pucsp 2020:
+prova - https://www.nucvest.com.br/downloads/pucsp/vestibular/verao-2020/layout-Puc-verao-2020-reduzido-d-autoral.pdf
+gabarito - https://www.nucvest.com.br/downloads/pucsp/vestibular/verao-2020/gabarito.pdf
+
+Pucsp 2019:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/pucsp/2019/pucsp2019_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/pucsp/2019/pucsp2019_gabarito.pdf
+
+Pucsp 2018:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/pucsp/2018/pucsp2018_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/pucsp/2018/pucsp2018_gabarito.pdf
+
+Pucsp 2017:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/pucsp/2017/pucsp2017_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/pucsp/2017/pucsp2017_gabarito.pdf
+
+Pucsp 2016:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/pucsp/2016/pucsp2016_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/pucsp/2016/pucsp2016_gabarito.pdf
+
+Pucsp 2015:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/pucsp/2015/pucsp2015_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/pucsp/2015/pucsp2015_gabarito.pdf
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UERJ:
+Uerj 2025:
+prova -
+gabarito -
+
+Uerj 2024:
+prova -
+gabarito -
+
+Uerj 2023:
+prova -
+gabarito -
+
+Uerj 2022:
+prova -
+gabarito -
+
+Uerj 2021:
+prova -
+gabarito -
+
+Uerj 2020:
+prova -
+gabarito -
+
+Uerj 2019:
+prova -
+gabarito -
+
+Uerj 2018:
+prova - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2018_1eq_prova.pdf
+gabarito - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2018_1eq_gabarito.pdf
+
+Uerj 2017:
+prova - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2017_1eq_prova.pdf
+gabarito - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2017_1eq_gabarito.pdf
+
+Uerj 2016:
+prova - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2016_1eq_prova.pdf
+gabarito - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2016_1eq_gabarito.pdf
+
+Uerj 2015:
+prova - https://www.vestibular.uerj.br/wp-content/uploads/2019/04/2015_1eq_prova.pdf
+gabarito - https://www.vestibular.uerj.br/wp-content/uploads/2019/04/2015_1eq_gabarito_alterado.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFRJ:
+Ufrj 2025:
+prova -
+gabarito -
+
+Ufrj 2024:
+prova -
+gabarito -
+
+Ufrj 2023:
+prova -
+gabarito -
+
+Ufrj 2022:
+prova -
+gabarito -
+
+Ufrj 2021:
+prova -
+gabarito -
+
+Ufrj 2020:
+prova -
+gabarito -
+
+Ufrj 2019:
+prova -
+gabarito -
+
+Ufrj 2018:
+prova -
+gabarito -
+
+Ufrj 2017:
+prova -
+gabarito -
+
+Ufrj 2016:
+prova -
+gabarito -
+
+Ufrj 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFF:
+Uff 2025:
+prova -
+gabarito -
+
+Uff 2024:
+prova -
+gabarito -
+
+Uff 2023:
+prova - http://www.coseac.uff.br/fmc/20231/provas/VestibularFMC2023-1_Prova.pdf
+gabarito - http://www.coseac.uff.br/fmc/20231/provas/VestibularFMC2023-1_Gabarito.pdf
+
+Uff 2022:
+prova - http://www.coseac.uff.br/fmc/20221/provas/VestibularFMC2022-1_Prova.pdf
+gabarito - http://www.coseac.uff.br/fmc/20221/provas/VestibularFMC2022-1_Gabarito.pdf
+
+Uff 2021:
+prova - http://www.coseac.uff.br/fmc/20211/provas/VestibularFMC2021-1_Prova.pdf
+gabarito - http://www.coseac.uff.br/fmc/20211/provas/VestibularFMC2021_1_GabaritoAPOS%20RECURSOS.pdf
+
+Uff 2020:
+prova -
+gabarito -
+
+Uff 2019:
+prova - http://www.coseac.uff.br/fmc/20191/provas/VestibularFMC2019-1_Prova.pdf
+gabarito - http://www.coseac.uff.br/fmc/20191/provas/VestibularFMC2019-1_GabaritoFinal.pdf
+
+Uff 2018:
+prova - http://www.coseac.uff.br/fmc/20181/provas/VestibularFMC2018-1_Prova.pdf
+gabarito - http://www.coseac.uff.br/fmc/20181/provas/VestibularFMC2018-1_Gabarito.pdf
+
+Uff 2017:
+prova - http://www.coseac.uff.br/fmc/20171/provas/VestibularFMC2017-1_Prova.pdf
+gabarito - http://www.coseac.uff.br/fmc/20171/provas/VestibularFMC2017-1_Gabarito.pdf
+
+Uff 2016:
+prova - http://www.coseac.uff.br/fmc/2016/provas/VestibularFMC2016-Cadernodeprovas.pdf
+gabarito - http://www.coseac.uff.br/fmc/2016/arquivos/VestibularFMC2016-GabaritoME-ComAlteracao.pdf
+
+Uff 2015:
+prova -
+gabarito -
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFMG:
+Ufmg 2025:
+prova -
+gabarito -
+
+Ufmg 2024:
+prova -
+gabarito -
+
+Ufmg 2023:
+prova -
+gabarito -
+
+Ufmg 2022:
+prova -
+gabarito -
+
+Ufmg 2021:
+prova -
+gabarito -
+
+Ufmg 2020:
+prova -
+gabarito -
+
+Ufmg 2019:
+prova -
+gabarito -
+
+Ufmg 2018:
+prova -
+gabarito -
+
+Ufmg 2017:
+prova -
+gabarito -
+
+Ufmg 2016:
+prova -
+gabarito -
+
+Ufmg 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFPR:
+Ufpr 2025:
+prova -
+gabarito -
+
+Ufpr 2024:
+prova -
+gabarito -
+
+Ufpr 2023:
+prova -
+gabarito -
+
+Ufpr 2022:
+prova -
+gabarito -
+
+Ufpr 2021:
+prova -
+gabarito -
+
+Ufpr 2020:
+prova -
+gabarito -
+
+Ufpr 2019:
+prova -
+gabarito -
+
+Ufpr 2018:
+prova -
+gabarito -
+
+Ufpr 2017:
+prova -
+gabarito -
+
+Ufpr 2016:
+prova -
+gabarito -
+
+Ufpr 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFPE:
+Ufpe 2025:
+prova -
+gabarito -
+
+Ufpe 2024:
+prova -
+gabarito -
+
+Ufpe 2023:
+prova -
+gabarito -
+
+Ufpe 2022:
+prova -
+gabarito -
+
+Ufpe 2021:
+prova -
+gabarito -
+
+Ufpe 2020:
+prova -
+gabarito -
+
+Ufpe 2019:
+prova -
+gabarito -
+
+Ufpe 2018:
+prova -
+gabarito -
+
+Ufpe 2017:
+prova -
+gabarito -
+
+Ufpe 2016:
+prova -
+gabarito -
+
+Ufpe 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFBA:
+Ufba 2025:
+prova -
+gabarito -
+
+Ufba 2024:
+prova -
+gabarito -
+
+Ufba 2023:
+prova -
+gabarito -
+
+Ufba 2022:
+prova -
+gabarito -
+
+Ufba 2021:
+prova -
+gabarito -
+
+Ufba 2020:
+prova -
+gabarito -
+
+Ufba 2019:
+prova -
+gabarito -
+
+Ufba 2018:
+prova -
+gabarito -
+
+Ufba 2017:
+prova -
+gabarito -
+
+Ufba 2016:
+prova -
+gabarito -
+
+Ufba 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFES:
+Ufes 2025:
+prova -
+gabarito -
+
+Ufes 2024:
+prova -
+gabarito -
+
+Ufes 2023:
+prova -
+gabarito -
+
+Ufes 2022:
+prova -
+gabarito -
+
+Ufes 2021:
+prova -
+gabarito -
+
+Ufes 2020:
+prova -
+gabarito -
+
+Ufes 2019:
+prova -
+gabarito -
+
+Ufes 2018:
+prova -
+gabarito -
+
+Ufes 2017:
+prova -
+gabarito -
+
+Ufes 2016:
+prova -
+gabarito -
+
+Ufes 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFG:
+Ufg 2025:
+prova -
+gabarito -
+
+Ufg 2024:
+prova -
+gabarito -
+
+Ufg 2023:
+prova -
+gabarito -
+
+Ufg 2022:
+prova -
+gabarito -
+
+Ufg 2021:
+prova -
+gabarito -
+
+Ufg 2020:
+prova -
+gabarito -
+
+Ufg 2019:
+prova -
+gabarito -
+
+Ufg 2018:
+prova -
+gabarito -
+
+Ufg 2017:
+prova -
+gabarito -
+
+Ufg 2016:
+prova -
+gabarito -
+
+Ufg 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFAL:
+Ufal 2025:
+prova -
+gabarito -
+
+Ufal 2024:
+prova -
+gabarito -
+
+Ufal 2023:
+prova -
+gabarito -
+
+Ufal 2022:
+prova -
+gabarito -
+
+Ufal 2021:
+prova -
+gabarito -
+
+Ufal 2020:
+prova -
+gabarito -
+
+Ufal 2019:
+prova -
+gabarito -
+
+Ufal 2018:
+prova -
+gabarito -
+
+Ufal 2017:
+prova -
+gabarito -
+
+Ufal 2016:
+prova -
+gabarito -
+
+Ufal 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFPB:
+Ufpb 2025:
+prova -
+gabarito -
+
+Ufpb 2024:
+prova -
+gabarito -
+
+Ufpb 2023:
+prova -
+gabarito -
+
+Ufpb 2022:
+prova -
+gabarito -
+
+Ufpb 2021:
+prova -
+gabarito -
+
+Ufpb 2020:
+prova -
+gabarito -
+
+Ufpb 2019:
+prova -
+gabarito -
+
+Ufpb 2018:
+prova -
+gabarito -
+
+Ufpb 2017:
+prova -
+gabarito -
+
+Ufpb 2016:
+prova -
+gabarito -
+
+Ufpb 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFPA:
+Ufpa 2025:
+prova -
+gabarito -
+
+Ufpa 2024:
+prova -
+gabarito -
+
+Ufpa 2023:
+prova -
+gabarito -
+
+Ufpa 2022:
+prova -
+gabarito -
+
+Ufpa 2021:
+prova -
+gabarito -
+
+Ufpa 2020:
+prova -
+gabarito -
+
+Ufpa 2019:
+prova -
+gabarito -
+
+Ufpa 2018:
+prova -
+gabarito -
+
+Ufpa 2017:
+prova -
+gabarito -
+
+Ufpa 2016:
+prova -
+gabarito -
+
+Ufpa 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFMT:
+Ufmt 2025:
+prova -
+gabarito -
+
+Ufmt 2024:
+prova -
+gabarito -
+
+Ufmt 2023:
+prova -
+gabarito -
+
+Ufmt 2022:
+prova -
+gabarito -
+
+Ufmt 2021:
+prova -
+gabarito -
+
+Ufmt 2020:
+prova -
+gabarito -
+
+Ufmt 2019:
+prova -
+gabarito -
+
+Ufmt 2018:
+prova -
+gabarito -
+
+Ufmt 2017:
+prova -
+gabarito -
+
+Ufmt 2016:
+prova -
+gabarito -
+
+Ufmt 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFMS:
+Ufms 2025:
+prova -
+gabarito -
+
+Ufms 2024:
+prova -
+gabarito -
+
+Ufms 2023:
+prova -
+gabarito -
+
+Ufms 2022:
+prova -
+gabarito -
+
+Ufms 2021:
+prova -
+gabarito -
+
+Ufms 2020:
+prova -
+gabarito -
+
+Ufms 2019:
+prova -
+gabarito -
+
+Ufms 2018:
+prova -
+gabarito -
+
+Ufms 2017:
+prova -
+gabarito -
+
+Ufms 2016:
+prova -
+gabarito -
+
+Ufms 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFRGS:
+Ufrgs 2025:
+prova -
+gabarito -
+
+Ufrgs 2024:
+prova -
+gabarito -
+
+Ufrgs 2023:
+prova -
+gabarito -
+
+Ufrgs 2022:
+prova -
+gabarito -
+
+Ufrgs 2021:
+prova -
+gabarito -
+
+Ufrgs 2020:
+prova -
+gabarito -
+
+Ufrgs 2019:
+prova -
+gabarito -
+
+Ufrgs 2018:
+prova -
+gabarito -
+
+Ufrgs 2017:
+prova -
+gabarito -
+
+Ufrgs 2016:
+prova -
+gabarito -
+
+Ufrgs 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFSM:
+Ufsm 2025:
+prova -
+gabarito -
+
+Ufsm 2024:
+prova -
+gabarito -
+
+Ufsm 2023:
+prova -
+gabarito -
+
+Ufsm 2022:
+prova -
+gabarito -
+
+Ufsm 2021:
+prova -
+gabarito -
+
+Ufsm 2020:
+prova -
+gabarito -
+
+Ufsm 2019:
+prova -
+gabarito -
+
+Ufsm 2018:
+prova -
+gabarito -
+
+Ufsm 2017:
+prova -
+gabarito -
+
+Ufsm 2016:
+prova -
+gabarito -
+
+Ufsm 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UNB:
+Unb 2025:
+prova -
+gabarito -
+
+Unb 2024:
+prova -
+gabarito -
+
+Unb 2023:
+prova -
+gabarito -
+
+Unb 2022:
+prova -
+gabarito -
+
+Unb 2021:
+prova -
+gabarito -
+
+Unb 2020:
+prova -
+gabarito -
+
+Unb 2019:
+prova -
+gabarito -
+
+Unb 2018:
+prova -
+gabarito -
+
+Unb 2017:
+prova -
+gabarito -
+
+Unb 2016:
+prova -
+gabarito -
+
+Unb 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UECE:
+Uece 2025:
+prova -
+gabarito -
+
+Uece 2024:
+prova -
+gabarito -
+
+Uece 2023:
+prova -
+gabarito -
+
+Uece 2022:
+prova -
+gabarito -
+
+Uece 2021:
+prova -
+gabarito -
+
+Uece 2020:
+prova -
+gabarito -
+
+Uece 2019:
+prova -
+gabarito -
+
+Uece 2018:
+prova -
+gabarito -
+
+Uece 2017:
+prova -
+gabarito -
+
+Uece 2016:
+prova -
+gabarito -
+
+Uece 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UEPG:
+Uepg 2025:
+prova -
+gabarito -
+
+Uepg 2024:
+prova -
+gabarito -
+
+Uepg 2023:
+prova -
+gabarito -
+
+Uepg 2022:
+prova -
+gabarito -
+
+Uepg 2021:
+prova -
+gabarito -
+
+Uepg 2020:
+prova -
+gabarito -
+
+Uepg 2019:
+prova -
+gabarito -
+
+Uepg 2018:
+prova -
+gabarito -
+
+Uepg 2017:
+prova -
+gabarito -
+
+Uepg 2016:
+prova -
+gabarito -
+
+Uepg 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UEM:
+Uem 2025:
+prova -
+gabarito -
+
+Uem 2024:
+prova -
+gabarito -
+
+Uem 2023:
+prova -
+gabarito -
+
+Uem 2022:
+prova -
+gabarito -
+
+Uem 2021:
+prova -
+gabarito -
+
+Uem 2020:
+prova -
+gabarito -
+
+Uem 2019:
+prova -
+gabarito -
+
+Uem 2018:
+prova -
+gabarito -
+
+Uem 2017:
+prova -
+gabarito -
+
+Uem 2016:
+prova -
+gabarito -
+
+Uem 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UEL:
+Uel 2025:
+prova -
+gabarito -
+
+Uel 2024:
+prova -
+gabarito -
+
+Uel 2023:
+prova -
+gabarito -
+
+Uel 2022:
+prova -
+gabarito -
+
+Uel 2021:
+prova -
+gabarito -
+
+Uel 2020:
+prova -
+gabarito -
+
+Uel 2019:
+prova -
+gabarito -
+
+Uel 2018:
+prova -
+gabarito -
+
+Uel 2017:
+prova -
+gabarito -
+
+Uel 2016:
+prova -
+gabarito -
+
+Uel 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFV:
+Ufv 2025:
+prova -
+gabarito -
+
+Ufv 2024:
+prova -
+gabarito -
+
+Ufv 2023:
+prova -
+gabarito -
+
+Ufv 2022:
+prova -
+gabarito -
+
+Ufv 2021:
+prova -
+gabarito -
+
+Ufv 2020:
+prova -
+gabarito -
+
+Ufv 2019:
+prova -
+gabarito -
+
+Ufv 2018:
+prova -
+gabarito -
+
+Ufv 2017:
+prova -
+gabarito -
+
+Ufv 2016:
+prova -
+gabarito -
+
+Ufv 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFOP:
+Ufop 2025:
+prova -
+gabarito -
+
+Ufop 2024:
+prova -
+gabarito -
+
+Ufop 2023:
+prova -
+gabarito -
+
+Ufop 2022:
+prova -
+gabarito -
+
+Ufop 2021:
+prova -
+gabarito -
+
+Ufop 2020:
+prova -
+gabarito -
+
+Ufop 2019:
+prova -
+gabarito -
+
+Ufop 2018:
+prova -
+gabarito -
+
+Ufop 2017:
+prova -
+gabarito -
+
+Ufop 2016:
+prova -
+gabarito -
+
+Ufop 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFRN:
+Ufrn 2025:
+prova -
+gabarito -
+
+Ufrn 2024:
+prova -
+gabarito -
+
+Ufrn 2023:
+prova -
+gabarito -
+
+Ufrn 2022:
+prova -
+gabarito -
+
+Ufrn 2021:
+prova -
+gabarito -
+
+Ufrn 2020:
+prova -
+gabarito -
+
+Ufrn 2019:
+prova -
+gabarito -
+
+Ufrn 2018:
+prova -
+gabarito -
+
+Ufrn 2017:
+prova -
+gabarito -
+
+Ufrn 2016:
+prova -
+gabarito -
+
+Ufrn 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFS:
+Ufs 2025:
+prova -
+gabarito -
+
+Ufs 2024:
+prova -
+gabarito -
+
+Ufs 2023:
+prova -
+gabarito -
+
+Ufs 2022:
+prova -
+gabarito -
+
+Ufs 2021:
+prova -
+gabarito -
+
+Ufs 2020:
+prova -
+gabarito -
+
+Ufs 2019:
+prova -
+gabarito -
+
+Ufs 2018:
+prova -
+gabarito -
+
+Ufs 2017:
+prova -
+gabarito -
+
+Ufs 2016:
+prova -
+gabarito -
+
+Ufs 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFTM:
+Uftm 2025:
+prova -
+gabarito -
+
+Uftm 2024:
+prova -
+gabarito -
+
+Uftm 2023:
+prova -
+gabarito -
+
+Uftm 2022:
+prova -
+gabarito -
+
+Uftm 2021:
+prova -
+gabarito -
+
+Uftm 2020:
+prova -
+gabarito -
+
+Uftm 2019:
+prova -
+gabarito -
+
+Uftm 2018:
+prova -
+gabarito -
+
+Uftm 2017:
+prova -
+gabarito -
+
+Uftm 2016:
+prova -
+gabarito -
+
+Uftm 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UEMG:
+Uemg 2025:
+prova -
+gabarito -
+
+Uemg 2024:
+prova -
+gabarito -
+
+Uemg 2023:
+prova -
+gabarito -
+
+Uemg 2022:
+prova -
+gabarito -
+
+Uemg 2021:
+prova -
+gabarito -
+
+Uemg 2020:
+prova -
+gabarito -
+
+Uemg 2019:
+prova -
+gabarito -
+
+Uemg 2018:
+prova -
+gabarito -
+
+Uemg 2017:
+prova -
+gabarito -
+
+Uemg 2016:
+prova -
+gabarito -
+
+Uemg 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UNICHRISTUS:
+Unichristus 2025:
+prova -
+gabarito -
+
+Unichristus 2024:
+prova -
+gabarito -
+
+Unichristus 2023:
+prova -
+gabarito -
+
+Unichristus 2022:
+prova -
+gabarito -
+
+Unichristus 2021:
+prova -
+gabarito -
+
+Unichristus 2020:
+prova -
+gabarito -
+
+Unichristus 2019:
+prova -
+gabarito -
+
+Unichristus 2018:
+prova -
+gabarito -
+
+Unichristus 2017:
+prova -
+gabarito -
+
+Unichristus 2016:
+prova -
+gabarito -
+
+Unichristus 2015:
+prova -
+gabarito -
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MANDIC:
+Mandic 2025:
+prova - 
+gabarito - 
+
+Mandic 2024:
+prova - https://slmandicararas.edu.br/wp-content/uploads/2023/10/Prova-Objetiva-Vestibular-Unificado-2024.1.pdf
+gabarito - https://slmandicararas.edu.br/wp-content/uploads/2023/10/Gabarito-Preliminar-Vestibular-Unificado-2024.1.pdf
+
+Mandic 2023:
+prova - 
+gabarito - 
+
+Mandic 2022:
+prova - https://drive.google.com/file/d/1PNQ9sXtHbLxqMRV5e3gXNW4rSj_avjr3/view
+gabarito - https://drive.google.com/file/d/1tg2DNpXHMmMPYT-Qqq2CrEsAp5Imv96N/view
+
+Mandic 2021:
+prova - https://drive.google.com/file/d/1PPDu03FNkV8GIw7OSIRkDvbdunpzAfp_/view
+gabarito - https://drive.google.com/file/d/1BeSWH6_5eLThK7J7eDSN4ZQXDOv_eWjh/view
+
+Mandic 2020:
+prova - 
+gabarito - 
+
+Mandic 2019:
+prova - https://slmandicararas.edu.br/wp-content/uploads/2019/06/PROVA-MEDICINA-Versão-A.pdf
+gabarito - https://slmandicararas.edu.br/wp-content/uploads/2019/06/Gabarito-Medicina-Versão-A.pdf
+
+Mandic 2018:
+prova - https://slmandicararas.edu.br/wp-content/uploads/2018/06/PROVA-MEDICINA-Versão-A-FINAL.pdf
+gabarito - https://slmandicararas.edu.br/wp-content/uploads/2018/06/Gabarito-Medicina-Versão-A.pdf
+
+Mandic 2017:
+prova - https://slmandicararas.edu.br/wp-content/uploads/2017/08/Prova-Mandic-Medicina-Final-Versão-A.pdf
+gabarito - https://slmandicararas.edu.br/wp-content/uploads/2017/08/Gabarito-Medicina-Versão-A.pdf
+
+Mandic 2016:
+prova - 
+gabarito - 
+
+Mandic 2015:
+prova - 
+gabarito - 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MACKENZIE:
 Mackenzie 2025:
@@ -220,95 +1573,326 @@ gabarito -
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-UEA:
-Uea 2025:
-prova - 
-gabarito - 
+ALBERT EINSTEN:
+Albert 2025:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2025/alberteinstein2025_prova_I.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2025/alberteinstein2025_gabarito.pdf
 
-Uea 2024:
-prova - 
-gabarito - 
+Albert 2024:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2024/alberteinstein2024_prova_I.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2024/alberteinstein2024_gabarito.pdf
 
-Uea 2023:
-prova - 
-gabarito - 
+Albert 2023:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2023/alberteinstein2023_prova_I.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2023/alberteinstein2023_gabarito.pdf
 
-Uea 2022:
-prova - 
-gabarito - 
+Albert 2022:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2022/alberteinstein2022_prova_I.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2022/alberteinstein2022_gabarito.pdf
 
-Uea 2021:
-prova - 
-gabarito - 
+Albert 2021:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2021/alberteinstein2021_prova_I.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2021/alberteinstein2021_gabarito_I.pdf
 
-Uea 2020:
-prova - 
-gabarito - 
+Albert 2020:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2020/alberteinstein2020_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2020/alberteinstein2020_gabarito.pdf
 
-Uea 2019:
-prova - 
-gabarito - 
+Albert 2019:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2019/alberteinstein2019_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2019/alberteinstein2019_gabarito.pdf
 
-Uea 2018:
-prova - 
-gabarito - 
+Albert 2018:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2018/alberteinstein2018_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2018/alberteinstein2018_gabarito.pdf
 
-Uea 2017:
-prova - 
-gabarito - 
+Albert 2017:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2017/alberteinstein2017_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2017/alberteinstein2017_gabarito.pdf
 
-Uea 2016:
-prova - 
-gabarito - 
+Albert 2016:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2016/alberteinstein2016_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2016/alberteinstein2016_gabarito.pdf
 
-Uea 2015:
+Albert 2015:
 prova - 
 gabarito - 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+FAMEMA
+Famema 2025:
+prova - 
+gabarito - 
+
+Famema 2024:
+prova - 
+gabarito - 
+
+Famema 2023:
+prova - 
+gabarito - 
+
+Famema 2022:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2017/famema2017_prova.pdf
+gabarito - https://focomedicina.com.br/wp-content/uploads/2024/12/Gabarito2022.pdf
+
+Famema 2021:
+prova - https://focomedicina.com.br/wp-content/uploads/2024/12/PROVA-1-2021.pdf
+gabarito - https://focomedicina.com.br/wp-content/uploads/2024/12/GABARITO-2021.pdf
+
+Famema 2020:
+prova - https://focomedicina.com.br/wp-content/uploads/2024/12/PROVA-1-2020.pdf
+gabarito - https://focomedicina.com.br/wp-content/uploads/2024/12/GABARITO-2020.pdf
+
+Famema 2019:
+prova - 
+gabarito - 
+
+Famema 2018:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2018/famema2018_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2018/famema2018_gabarito.pdf
+
+Famema 2017:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2017/famema2017_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2017/famema2017_gabarito.pdf
+
+Famema 2016:
+prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2016/famema2016_prova.pdf
+gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2016/famema2016_gabarito.pdf
+
+Famema 2015:
+prova - 
+gabarito - 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UEA:
+Uea 2025:
+prova - https://souvetor.com/wp-content/uploads/2025/05/UEA-PROVA-SIS-I-2024.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2025/05/UEA-PROVA-SIS-I-2024.pdf
+
+Uea 2024:
+prova - https://souvetor.com/wp-content/uploads/2023/10/SIS-I-2023-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/10/SIS-I-2023-Gabarito.pdf
+
+Uea 2023:
+prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2022-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2022-Etapa-I-Gabarito.pdf
+
+Uea 2022:
+prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2021-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2021-Etapa-I-Gabarito.pdf
+
+Uea 2021:
+prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2020-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2020-Etapa-I-Gabarito.pdf
+
+Uea 2020:
+prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2019-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2019-Etapa-I-Gabarito.pdf
+
+Uea 2019:
+prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2018-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2018-Etapa-I-Gabarito.pdf
+
+Uea 2018:
+prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2017-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2017-Etapa-I-Gabarito.pdf
+
+Uea 2017:
+prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2016-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2016-Etapa-I-Gabarito.pdf
+
+Uea 2016:
+prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2015-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2015-Etapa-I-Gabarito.pdf
+
+Uea 2015:
+prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2014-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2014-Etapa-I-Gabarito.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 UFSC:
 Ufsc 2025:
-prova - 
-gabarito - 
+prova - https://dados.coperve.ufsc.br/vestibular2025/gabaritos/p1_amarela.pdf
+gabarito - https://dados.coperve.ufsc.br/vestibular2025/gabaritos/novo_gabarito_p1_amarela.pdf
 
 Ufsc 2024:
-prova - 
-gabarito - 
+prova - https://vestibular2024.paginas.ufsc.br/files/2023/12/p1_amarela.pdf
+gabarito - https://vestibular2024.paginas.ufsc.br/files/2023/12/novo_gabarito_p1_amarela.pdf
 
 Ufsc 2023:
-prova - 
-gabarito - 
+prova - https://dados.coperve.ufsc.br/vestibular2023/gabaritos/preliminar/p1_amarela.pdf
+gabarito - https://dados.coperve.ufsc.br/vestibular2023/gabaritos/preliminar/gabarito_p1_amarelaPreliminar.pdf
 
 Ufsc 2022:
-prova - 
-gabarito - 
-
-Ufsc 2021:
-prova - 
-gabarito - 
+prova - https://dados.coperve.ufsc.br/vestibular2022/gabaritos/definitivos/prova1/p1-amarela.pdf
+gabarito - https://dados.coperve.ufsc.br/vestibular2022/gabaritos/definitivos/prova1/p1-amarela.html
 
 Ufsc 2020:
-prova - 
-gabarito - 
+prova - https://dados.coperve.ufsc.br/vestibular2020/gabaritos/definitivo/prova1/p1-amarela.pdf
+gabarito - https://dados.coperve.ufsc.br/vestibular2020/gabaritos/definitivo/prova1/p1-amarela.html
 
 Ufsc 2019:
-prova - 
-gabarito - 
+prova - https://repositorio.ufsc.br/bitstream/handle/123456789/192286/2019-p1-amarela.pdf
+gabarito - https://dados.coperve.ufsc.br/vestibular2019/gabaritos/definitivos/vestgab01_p1_AMARELA.html
 
 Ufsc 2018:
-prova - 
-gabarito - 
+prova - https://php.coperve.ufsc.br/vestibular2018/provas/2018-p1-amarela.pdf
+gabarito - https://dados.coperve.ufsc.br/vestibular2018/gabaritos/definitivos/vestgab01_p1_AMARELA.html
 
 Ufsc 2017:
-prova - 
-gabarito - 
+prova - https://repositorio.ufsc.br/bitstream/handle/123456789/171426/2017-1-amarela.pdf
+gabarito - https://dados.coperve.ufsc.br/vestibular2017/gabaritos/vestgab01_p1_AMARELA.html
 
 Ufsc 2016:
+prova - https://repositorio.ufsc.br/bitstream/handle/123456789/157152/2016-1-amarela.pdf
+gabarito - https://dados.coperve.ufsc.br/vestibular2016/gabaritos/vestgab01_p1_AMARELA.html
+
+Ufsc 2015:
+prova - https://antiga.coperve.ufsc.br/provas_ant/2015-1-amarela.pdf
+gabarito - https://antiga.coperve.ufsc.br/vestibular2015/gabaritos/vestgab01_p1_AMARELA.html
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFRR:
+Ufrr 2025:
+prova - https://souvetor.com/wp-content/uploads/2025/05/UFRR-PROVAPSS-1-Vestibular-2025.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2025/05/UFRR-GABARITO-PSS-1-Vestibular-2025.pdf
+
+Ufrr 2024:
+prova - https://souvetor.com/wp-content/uploads/2025/05/UFRR-CADERNOS-DE-PROVA-Vestibular-2024-E1.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2025/05/UFRR-GABARITO-PSS-1-Vestibular-2024.pdf
+
+Ufrr 2023:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2022-E1.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2022-E1.pdf
+
+Ufrr 2022:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2021-E1.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2021-E1.pdf
+
+Ufrr 2021:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2020-E1.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2020-E1.pdf
+
+Ufrr 2020:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2019-E1.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2019-E1.pdf
+
+Ufrr 2019:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2018-E1.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2018-E1.pdf
+
+Ufrr 2018:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2017-E1.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2017-E1.pdf
+
+Ufrr 2017:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2016-E1.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2016-E1.pdf
+
+Ufrr 2016:
 prova - 
 gabarito - 
 
-Ufsc 2015:
+Ufrr 2015:
+prova - 
+gabarito - 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UFAM:
+Ufam 2025:
+prova - https://souvetor.com/wp-content/uploads/2024/06/PSC-2024-–-Etapa-I-–-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2024/06/PSC-2024-–-Etapa-I-–-Gabarito.pdf
+
+Ufam 2024:
+prova - https://souvetor.com/wp-content/uploads/2024/06/PSC-2023-–-Etapa-I-–-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2024/06/PSC-2023-–-Etapa-I-–-Gabarito.pdf
+
+Ufam 2023:
+prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2022-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2022-Etapa-I-Gabarito.pdf
+
+Ufam 2022:
+prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2021-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2021-Etapa-I-Gabarito.pdf
+
+Ufam 2021:
+prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2020-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2020-Etapa-I-Gabarito.pdf
+
+Ufam 2020:
+prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2019-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2019-Etapa-I-Gabarito.pdf
+
+Ufam 2019:
+prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2018-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2018-Etapa-I-Gabarito.pdf
+
+Ufam 2018:
+prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2017-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2017-Etapa-I-Gabarito.pdf
+
+Ufam 2017:
+prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2016-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2016-Etapa-I-Gabarito.pdf
+
+Ufam 2016:
+prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2015-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2015-Etapa-I-Gabarito.pdf
+
+Ufam 2015:
+prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2014-Etapa-I-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2014-Etapa-I-Gabarito.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+UERR
+Uerr 2025:
+prova - https://souvetor.com/wp-content/uploads/2025/05/Prova-objetiva-redacao-UERR-2025.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2025/05/GABARITOS-OFICIAIS-PRELIMINARES-UERR-2025.pdf
+
+Uerr 2024:
+prova - https://souvetor.com/wp-content/uploads/2023/10/UERR-2023-Prova.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/10/UERR-2023-Gabarito-Preliminar.pdf
+
+Uerr 2023:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2022-PROVA.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2022-GABARITO.pdf
+
+Uerr 2022:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2021-PROVA.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2021-GABARITO.pdf
+
+Uerr 2021:
+prova - 
+gabarito - 
+
+Uerr 2020:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2020-PROVA.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2020-GABARITO.pdf
+
+Uerr 2019:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2019-PROVA.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2019-GABARITO.pdf
+
+Uerr 2018:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2018-PROVA.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2018-GABARITO.pdf
+
+Uerr 2017:
+prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2017-PROVA.pdf
+gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2017-GABARITO.pdf
+
+Uerr 2016:
+prova - 
+gabarito - 
+
+Uerr 2015:
 prova - 
 gabarito - 
 

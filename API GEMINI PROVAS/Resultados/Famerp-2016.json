@@ -1,0 +1,2533 @@
+{
+  "prova": {
+    "nomeUniversidade": "FACULDADE DE MEDICINA DE SÃO JOSÉ DO RIO PRETO",
+    "siglaUniversidade": "FAMERP",
+    "nomeProva": "Vestibular",
+    "ano": 2016,
+    "qtdeQuestoes": 80,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "A hipertensão é a principal causa mundial de mortes e afeta tanto homens como mulheres. Apesar de 30% da população adulta sofrer de hipertensão (pressão acima de 140/90 mmHg), um terço dos hipertensos desconhece sua condição e dois terços inicia tratamento. Um terço da população que inicia tratamento contra a hipertensão deixa de aderir ao tratamento e não consegue manter a pressão abaixo de 140/90 mmHg.\n(Organização Pan-Americana da Saúde (OPAS) e Organização Mundial da Saúde (OMS). www.paho.org. Adaptado.)\nUm país tem 120 milhões de adultos e, destes, apenas os que sabem ser hipertensos iniciam o tratamento da doença. Se a população desse país se enquadra nas estatísticas da OPAS/OMS, o número de adultos hipertensos que mantêm a adesão ao tratamento da hipertensão, em milhões de pessoas, é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "8."
+          },
+          {
+            "letra": "B",
+            "texto": "24."
+          },
+          {
+            "letra": "C",
+            "texto": "16."
+          },
+          {
+            "letra": "D",
+            "texto": "12."
+          },
+          {
+            "letra": "E",
+            "texto": "18."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Porcentagem",
+          "Matemática – Resolução de Problemas"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "A figura representa o desenho da arcada dentária de um animal, feito no plano cartesiano ortogonal em escala linear.\nSabendo que as posições dos centros dos dentes destacados em cinza nessa arcada são modeladas nesse plano por meio da função quadrática y = ax² + b, então a + b é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "8,5."
+          },
+          {
+            "letra": "B",
+            "texto": "9,2."
+          },
+          {
+            "letra": "C",
+            "texto": "9,5."
+          },
+          {
+            "letra": "D",
+            "texto": "10,2."
+          },
+          {
+            "letra": "E",
+            "texto": "9,0."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Funções Quadráticas",
+          "Matemática – Geometria Analítica"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "No caminho de ida de sua casa (C) para a escola (E), Laura passa pela farmácia (F), pela padaria (P), e depois segue para a escola, como indica a figura 1.\nFIGURA 1\nNa volta da escola para casa, Laura passa pelo mercado (M), pela padaria (P), e depois segue para casa (C), como indica a figura 2.\nFIGURA 2\nOs caminhos de ida e de volta são formados por segmentos de retas, sendo que a farmácia, a padaria e o mercado estão em uma mesma avenida reta e plana. Considerando CF = FP = 4 km, PE = 2 km, √2 = 1,4 e √3 = 1,7, o caminho de Laura de casa à escola na ida superou o de volta em",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1,7 km."
+          },
+          {
+            "letra": "B",
+            "texto": "2,3 km."
+          },
+          {
+            "letra": "C",
+            "texto": "1,2 km."
+          },
+          {
+            "letra": "D",
+            "texto": "2,0 km."
+          },
+          {
+            "letra": "E",
+            "texto": "0,9 km."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Trigonometria",
+          "Matemática – Geometria Plana",
+          "Matemática – Resolução de Problemas"
+        ]
+      },
+      {
+        "numeroEnunciado": 4,
+        "enunciado": "Observe as três primeiras linhas de um padrão, que continua nas linhas subsequentes.\n1ª linha\n1 + 2 = 1² + (1² + 1) = 3\n2ª linha\n4 + 5 + 6 = 2² + (2² + 1) + (2² + 2) = 7 + 8\n3ª linha 9 + 10 + 11 + 12 = 3² + (3² + 1) + (3² + 2) + (3² + 3) = 13 + 14 + 15\nNa 30ª linha desse padrão, o maior número da soma em vermelho, indicada dentro do retângulo, será igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "929."
+          },
+          {
+            "letra": "B",
+            "texto": "930."
+          },
+          {
+            "letra": "C",
+            "texto": "959."
+          },
+          {
+            "letra": "D",
+            "texto": "1029."
+          },
+          {
+            "letra": "E",
+            "texto": "960."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Sequências Numéricas",
+          "Matemática – Progressões Aritméticas"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "A figura representa uma pirâmide com base quadrada ABCD de lado x, e altura AE de medida 3x/4.\nSe o volume dessa pirâmide é igual a 54 cm³, x é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "7 cm."
+          },
+          {
+            "letra": "B",
+            "texto": "6 cm."
+          },
+          {
+            "letra": "C",
+            "texto": "2³√9 cm."
+          },
+          {
+            "letra": "D",
+            "texto": "3³√6 cm."
+          },
+          {
+            "letra": "E",
+            "texto": "2³√6 cm."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Geometria Espacial",
+          "Matemática – Volume de Sólidos"
+        ]
+      },
+      {
+        "numeroEnunciado": 6,
+        "enunciado": "A imagem indica o gráfico das funções 1 e 2, ambas definidas para x real e maior do que zero.\nDe acordo com o gráfico, as funções 1 e 2 podem ser, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "y = log₁x e y = log₁ 2x"
+          },
+          {
+            "letra": "B",
+            "texto": "y = 2ˣ⁻² e y = 2²ˣ"
+          },
+          {
+            "letra": "C",
+            "texto": "y = √x - 1 e y = √x + 1"
+          },
+          {
+            "letra": "D",
+            "texto": "y = log₂ x e y = log₂ 4x"
+          },
+          {
+            "letra": "E",
+            "texto": "y = √x e y = √4x"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Funções Logarítmicas",
+          "Matemática – Análise de Gráficos"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "Uma fábrica de móveis vende mesas de madeira em dois tamanhos (médio e grande), e de quatro tipos diferentes de madeira (mogno, pinus, cedro e grápia). As matrizes a seguir indicam preços unitários de venda (em reais) de cada modelo de mesa nessa fábrica nos meses de julho (matriz X) e agosto (matriz Y) de 2014.\nMédio Grande\nMogno → 654 920\nPinus → 580 800\nCedro → 820 1090\nGrápia → 900 1150\nMédio Grande\n654 920\n609 840\n738 981\n990 1265\n= X\n= Y\nNo mês de setembro desse mesmo ano, a fábrica entrou em liquidação e deu desconto de 5% sobre o preço de agosto de todos os modelos de mesa. Admitindo-se que um lojista tenha comprado uma mesa de cada modelo nos meses de julho e agosto, e duas mesas de cada modelo no mês de setembro, uma matriz que representa o total de gastos desse lojista nesses três meses, por modelo de mesa adquirida da fábrica, pode ser obtida por meio da operação matricial",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "X+Y+Y[1 1 / 0,95 0,95]"
+          },
+          {
+            "letra": "B",
+            "texto": "X + 1,95 . Y²"
+          },
+          {
+            "letra": "C",
+            "texto": "X + 2,9 . Y"
+          },
+          {
+            "letra": "D",
+            "texto": "X+Y . [1 2,9 / 1 1,9]"
+          },
+          {
+            "letra": "E",
+            "texto": "Xᵀ+Yᵀ . [1 0,95 / 1 0,95]"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Matrizes",
+          "Matemática – Álgebra Linear",
+          "Matemática – Porcentagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "Artur e Roberto pretendem iniciar um curso de inglês. Antes da escolha de uma escola de línguas, eles listaram 10 escolas diferentes, sendo que cada uma será visitada por apenas um deles e, em seguida, os dois pretendem trocar suas impressões pessoais sobre as respectivas escolas visitadas. Um deles ficará responsável por visitar 6 das escolas, e o outro pelas demais 4 escolas, podendo qualquer um visitar 6 ou 4 escolas. O total de maneiras diferentes que Artur e Roberto podem se organizar para cumprir o planejamento de visitas às 10 escolas é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1024."
+          },
+          {
+            "letra": "B",
+            "texto": "210."
+          },
+          {
+            "letra": "C",
+            "texto": "840."
+          },
+          {
+            "letra": "D",
+            "texto": "2048."
+          },
+          {
+            "letra": "E",
+            "texto": "420."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Análise Combinatória",
+          "Matemática – Permutação e Combinação"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "Uma reta r divide um retângulo ABCD em dois trapézios, de tal forma que a área do trapézio ADPQ é a quarta parte da área desse retângulo.\nSabendo que DP = 1,4 cm e AQ = 3,2 cm, é correto afirmar que AB, em centímetros, é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "9,2."
+          },
+          {
+            "letra": "B",
+            "texto": "9,0."
+          },
+          {
+            "letra": "C",
+            "texto": "9,6."
+          },
+          {
+            "letra": "D",
+            "texto": "8,5."
+          },
+          {
+            "letra": "E",
+            "texto": "9,8."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Geometria Plana",
+          "Matemática – Áreas de Figuras Planas"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "A figura indica a medida de alguns dos ângulos internos de um quadrilátero ABCD e de um triângulo ADE, sendo que AE é paralelo a CD.\nNessa situação, a medida do ângulo CDA, indicada por z, é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "25°."
+          },
+          {
+            "letra": "B",
+            "texto": "20°."
+          },
+          {
+            "letra": "C",
+            "texto": "30°."
+          },
+          {
+            "letra": "D",
+            "texto": "10°."
+          },
+          {
+            "letra": "E",
+            "texto": "15°."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Geometria Plana",
+          "Matemática – Ângulos"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "O resultado do exame de fezes de um garoto indicou que ele tinha ascaridíase, doença causada pelo parasita Ascaris lumbricoides. Esse parasita é um",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "protozoário ciliado."
+          },
+          {
+            "letra": "B",
+            "texto": "animal de corpo achatado."
+          },
+          {
+            "letra": "C",
+            "texto": "protozoário flagelado."
+          },
+          {
+            "letra": "D",
+            "texto": "animal de corpo cilíndrico."
+          },
+          {
+            "letra": "E",
+            "texto": "animal de corpo segmentado."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Parasitologia",
+          "Biologia – Verminoses"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "O cladograma apresenta uma hipótese simplificada sobre as prováveis relações evolutivas entre anfíbios, répteis e mamíferos. Os números indicam possíveis características adaptativas que surgiram durante a evolução desses grupos de animais.\nOs números 1, 2 e 3 correspondem, respectivamente, a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "membros locomotores, embrião envolto por âmnio e pelos."
+          },
+          {
+            "letra": "B",
+            "texto": "glândulas sudoríparas, pálpebras e esqueleto apendicular."
+          },
+          {
+            "letra": "C",
+            "texto": "pulmões alveolares, coração tricavitário e embrião ligado ao alantoide."
+          },
+          {
+            "letra": "D",
+            "texto": "mandíbula, glândulas sebáceas e esqueleto axial."
+          },
+          {
+            "letra": "E",
+            "texto": "rins, bexiga natatória e medula espinhal."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Evolução",
+          "Biologia – Filogenia dos Vertebrados"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "Milhares de indivíduos de certa espécie de mosquito reproduziam-se somente em água limpa. Depois de algumas gerações, foram encontrados indivíduos dessa mesma espécie sobrevivendo e se reproduzindo em água poluída. Foi constatado que esses indivíduos apresentavam algumas vantagens adaptativas que lhes permitiam a reprodução nesse ambiente poluído, diferentemente do que ocorria com aqueles que só se reproduziam em água limpa. O cruzamento entre esses diferentes mosquitos sempre gerava descendentes férteis. O fato descrito exemplifica um caso de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "deriva gênica."
+          },
+          {
+            "letra": "B",
+            "texto": "convergência adaptativa."
+          },
+          {
+            "letra": "C",
+            "texto": "isolamento reprodutivo."
+          },
+          {
+            "letra": "D",
+            "texto": "especiação."
+          },
+          {
+            "letra": "E",
+            "texto": "seleção natural."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Evolução",
+          "Biologia – Seleção Natural"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "A poluição de propriedades de criação de patos, perto da Baía de Moriches, adiciona nitrogênio e fósforo às águas costeiras de Long Island, Nova Iorque. Para investigar qual nutriente favorece o crescimento do fitoplâncton (Nannochloris atomus) nessa área, pesquisadores cultivaram essa espécie com água coletada de diversos locais (identificados no gráfico pelas letras de A a G). Eles adicionaram amônia ou fosfato às culturas. O gráfico expressa os resultados obtidos após o cultivo com essas substâncias em comparação a um meio não enriquecido (controle).\nDe acordo com os resultados obtidos, é correto afirmar que a eutrofização tem maior chance de ocorrer nos locais",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "D, E, F e G, favorecida pelo elemento fósforo."
+          },
+          {
+            "letra": "B",
+            "texto": "A, B e C, favorecida pelo elemento nitrogênio."
+          },
+          {
+            "letra": "C",
+            "texto": "D, E, F e G, favorecida pelo elemento nitrogênio."
+          },
+          {
+            "letra": "D",
+            "texto": "A, B e C, favorecida pelo elemento fósforo."
+          },
+          {
+            "letra": "E",
+            "texto": "A, F e G, favorecida pelo elemento fósforo."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Ecologia",
+          "Biologia – Eutrofização",
+          "Biologia – Impactos Ambientais"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "É correto afirmar que a divisão parassimpática do sistema nervoso autônomo está relacionada",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "com o gasto de energia durante as situações de \"luta ou fuga\"."
+          },
+          {
+            "letra": "B",
+            "texto": "com o aumento da frequência cardíaca e a dilatação da pupila."
+          },
+          {
+            "letra": "C",
+            "texto": "com as respostas involuntárias por meio da ação da noradrenalina."
+          },
+          {
+            "letra": "D",
+            "texto": "com a conservação e a restauração de energia corpórea."
+          },
+          {
+            "letra": "E",
+            "texto": "com o sistema nervoso central e comanda respostas voluntárias."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Fisiologia Humana",
+          "Biologia – Sistema Nervoso"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "Analise a figura, que mostra o cariótipo de uma pessoa.\nConsiderando apenas o cariótipo obtido, é correto afirmar que a análise corresponde a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "um homem com uma triploidia."
+          },
+          {
+            "letra": "B",
+            "texto": "um homem com uma aneuploidia."
+          },
+          {
+            "letra": "C",
+            "texto": "uma mulher com uma trissomia."
+          },
+          {
+            "letra": "D",
+            "texto": "um homem com uma monossomia."
+          },
+          {
+            "letra": "E",
+            "texto": "uma mulher com uma poliploidia."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Genética",
+          "Biologia – Cariótipo",
+          "Biologia – Anomalias Cromossômicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "Espinhos são encontrados em certas variedades de limoeiros e acúleos são encontrados nas roseiras. É correto afirmar que, nas plantas,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "os espinhos são anexos epidérmicos e os acúleos são folhas ou ramos modificados e ambos atuam na proteção."
+          },
+          {
+            "letra": "B",
+            "texto": "os espinhos e os acúleos são ramos modificados e atuam na secreção de substâncias."
+          },
+          {
+            "letra": "C",
+            "texto": "os espinhos e os acúleos são anexos epidérmicos e atuam na captação de luz."
+          },
+          {
+            "letra": "D",
+            "texto": "os espinhos e os acúleos são folhas modificadas e atuam na proteção."
+          },
+          {
+            "letra": "E",
+            "texto": "os espinhos são folhas ou ramos modificados e os acúleos são anexos epidérmicos e ambos atuam na proteção."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Botânica",
+          "Biologia – Morfologia Vegetal"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "A fermentação lática e a respiração celular são reações bioquímicas que ocorrem em diferentes condições nas células musculares, gerando alguns produtos similares. Sobre essas reações, assinale a alternativa correta.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "A fermentação ocorre na ausência de gás oxigênio e a respiração celular ocorre somente na presença desse gás. As duas reações geram energia, armazenada na forma de ATP."
+          },
+          {
+            "letra": "B",
+            "texto": "A fermentação ocorre na presença de gás carbônico e a respiração celular ocorre na ausência desse gás. As duas reações geram ATP, um tipo de energia."
+          },
+          {
+            "letra": "C",
+            "texto": "A fermentação ocorre na ausência de gás oxigênio e a respiração celular ocorre somente na presença desse gás. As duas reações absorvem energia da molécula de ATP."
+          },
+          {
+            "letra": "D",
+            "texto": "A fermentação ocorre na presença de ácido lático e a respiração celular ocorre na ausência desse ácido. As duas reações liberam a mesma quantidade de energia na forma de ATP."
+          },
+          {
+            "letra": "E",
+            "texto": "A fermentação ocorre na presença de gás oxigênio e a respiração celular ocorre na ausência desse gás. As duas reações geram energia, armazenada na forma de ATP."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Bioquímica",
+          "Biologia – Metabolismo Energético",
+          "Biologia – Respiração Celular",
+          "Biologia – Fermentação"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "A distrofia muscular do tipo Duchenne é uma doença determinada por um alelo recessivo ligado ao cromossomo X. Ela causa degeneração progressiva dos músculos esqueléticos. Júlia, que tem pais normais e um irmão com essa distrofia, casa-se com Pedro. A genealogia ilustra essas informações.\nA probabilidade de Júlia gerar uma criança com distrofia muscular será de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1/4."
+          },
+          {
+            "letra": "B",
+            "texto": "1/2."
+          },
+          {
+            "letra": "C",
+            "texto": "1/8."
+          },
+          {
+            "letra": "D",
+            "texto": "1/6."
+          },
+          {
+            "letra": "E",
+            "texto": "1/16."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Genética",
+          "Biologia – Hereditariedade Ligada ao Sexo"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "A figura mostra um cromossomo duplicado com dois pequenos segmentos de DNA, em que suas respectivas sequências de bases nitrogenadas estão apontadas.\nConsiderando que não houve permutação e nem mutação, é correto afirmar que:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "no segmento 1, a sequência de bases é CCAC e sua sequência complementar é GGTG."
+          },
+          {
+            "letra": "B",
+            "texto": "no segmento 1, a sequência de bases é TATG e sua sequência complementar é ATAC."
+          },
+          {
+            "letra": "C",
+            "texto": "no segmento 2, a sequência de bases é CCAC e sua sequência complementar é GGUG."
+          },
+          {
+            "letra": "D",
+            "texto": "no segmento 2, a sequência de bases é AUAC e sua sequência complementar é UAUG."
+          },
+          {
+            "letra": "E",
+            "texto": "no segmento 2, a sequência de bases é TATG e sua sequência complementar é GGTG."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Genética Molecular",
+          "Biologia – Estrutura do DNA"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "Tradicionalmente, diplomatas dos Estados Unidos, dos países árabes e da União Europeia tentam mediar o conflito de décadas entre Israel e os palestinos. Mas quem também anda viajando pela região é o enviado especial chinês, Wu Sike, um nome desconhecido em grande parte do Ocidente. Ele já esteve na Arábia Saudita, no Catar, na Jordânia, no Egito, nos territórios palestinos e em Israel, não só representando os interesses econômicos chineses, mas também agindo como mediador entre Israel e o Hamas.\n(www.folha.uol.com.br, 29.07.2014.)\nO interesse da China em estender sua influência econômica e diplomática no Oriente Médio justifica-se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "por sua política de importação de alimentos cultivados junto ao Mar Mediterrâneo."
+          },
+          {
+            "letra": "B",
+            "texto": "por seu objetivo imperialista de conquistar a hegemonia política na porção oriental do globo."
+          },
+          {
+            "letra": "C",
+            "texto": "por seus acordos de cooperação técnico-científica na área do meio ambiente."
+          },
+          {
+            "letra": "D",
+            "texto": "por sua dependência energética das importações de petróleo dos Estados do Golfo."
+          },
+          {
+            "letra": "E",
+            "texto": "por sua vocação humanitária ao difundir práticas que ajudaram a melhorar os indicadores sociais chineses."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Geopolítica",
+          "Geografia – Relações Internacionais",
+          "Geografia – Oriente Médio"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "Se, no modelo 1, o problema consiste na necessidade de impor limites ao Estado para que a esfera da liberdade econômica possa prosperar, no modelo 2, o problema passa a ser como a liberdade econômica dos mercados pode determinar o Estado enquanto princípio imanente de sua eficiência e concorrência. Em vez do mercado local sob a vigilância do Estado-nação, trata-se agora do Estado nacional sob a vigilância do mercado mundial.\n(www.diplomatique.org.br. Adaptado.)\nConsiderando as características apresentadas pelo excerto, os modelos econômicos 1 e 2 correspondem, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "ao liberalismo e ao neoliberalismo."
+          },
+          {
+            "letra": "B",
+            "texto": "ao keynesianismo e ao mercantilismo."
+          },
+          {
+            "letra": "C",
+            "texto": "ao liberalismo e ao mercantilismo."
+          },
+          {
+            "letra": "D",
+            "texto": "ao mercantilismo e ao keynesianismo."
+          },
+          {
+            "letra": "E",
+            "texto": "ao keynesianismo e ao neoliberalismo."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – Economia",
+          "História – Liberalismo",
+          "História – Neoliberalismo",
+          "Sociologia – Teorias Econômicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "Dentre os mecanismos empregados na gestão da política urbana das cidades brasileiras, há a Lei de Zoneamento, que consiste no estabelecimento",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "de melhorias em regiões pré-definidas, por meio de parcerias entre o poder público e a iniciativa privada."
+          },
+          {
+            "letra": "B",
+            "texto": "de prioridades de mobilidade urbana para garantir a sustentabilidade, a eficiência e os menores custos nos deslocamentos."
+          },
+          {
+            "letra": "C",
+            "texto": "de diferenças entre a regularização fundiária de interesse social e a de interesse específico para agilizar a legitimação de posse da terra."
+          },
+          {
+            "letra": "D",
+            "texto": "de princípios, diretrizes e normas para que o processo de desenvolvimento se realize entre os diferentes agentes do espaço urbano."
+          },
+          {
+            "letra": "E",
+            "texto": "de regras de parcelamento, uso e ocupação do solo para definir as atividades que podem ser instaladas nos diferentes lugares da cidade."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Geografia Urbana",
+          "Geografia – Planejamento Urbano"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "Em 1950, cada mulher em idade fértil tinha, em média, 6,4 filhos. Hoje, essa taxa de fecundidade está em 1,7, ou seja, abaixo da taxa de reposição, que é de 2,1. Essa taxa de fecundidade significa dizer que, em 2035, a população do Brasil vai diminuir porque não haverá reposição das perdas.\n(www.desafios.ipea.gov.br. Adaptado.)\nEm longo prazo, uma consequência do cenário apresentado pelo excerto será",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o aumento da pressão sobre os recursos naturais."
+          },
+          {
+            "letra": "B",
+            "texto": "a redução da produtividade em alguns setores da economia."
+          },
+          {
+            "letra": "C",
+            "texto": "a diminuição dos postos de trabalho ofertados."
+          },
+          {
+            "letra": "D",
+            "texto": "a estabilidade no sistema público de seguridade social."
+          },
+          {
+            "letra": "E",
+            "texto": "o incremento da população economicamente ativa."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Geografia – Demografia",
+          "Geografia – Estrutura Populacional",
+          "Geografia – Consequências Sociais e Econômicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 25,
+        "enunciado": "Analise o mapa.\nConsiderando as áreas de incidência dos fenômenos em questão, é correto afirmar que os riscos 1 e 2 são, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "econômico e climático."
+          },
+          {
+            "letra": "B",
+            "texto": "natural e antrópico."
+          },
+          {
+            "letra": "C",
+            "texto": "geológico e climático."
+          },
+          {
+            "letra": "D",
+            "texto": "geológico e social."
+          },
+          {
+            "letra": "E",
+            "texto": "social e econômico."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Cartografia",
+          "Geografia – Desastres Naturais",
+          "Geografia – Riscos Geológicos",
+          "Geografia – Riscos Climáticos"
+        ]
+      },
+      {
+        "numeroEnunciado": 26,
+        "enunciado": "Taxa de infiltração em diferentes tipos de solo\n(Antonio J. T. Guerra (org.). \"Processos erosivos nas encostas\". In: Antonio J. T. Guerra e Sandra B. Cunha. Geomorfologia, 2012. Adaptado.)\nConsiderando a leitura do gráfico e os conhecimentos acerca da formação dos solos, é correto afirmar que o escoamento",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "superficial ocorrerá primeiro no solo argiloso."
+          },
+          {
+            "letra": "B",
+            "texto": "subsuperficial sofrerá saturação por último no solo arenoso."
+          },
+          {
+            "letra": "C",
+            "texto": "superficial ocorrerá primeiro no solo siltoso."
+          },
+          {
+            "letra": "D",
+            "texto": "subsuperficial sofrerá saturação por último no solo argiloso."
+          },
+          {
+            "letra": "E",
+            "texto": "superficial ocorrerá primeiro no solo arenoso."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Pedologia",
+          "Geografia – Hidrografia",
+          "Geografia – Solos e Drenagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 27,
+        "enunciado": "Em agosto de 2013, o Tribunal de Justiça de São Paulo liberou a polêmica construção de 193 prédios residenciais na zona sul da capital, em área de manancial da represa Billings. Do ponto de vista ambiental, o conflito em torno dessa obra justifica-se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "pelo processo de terraceamento, que altera o fluxo superficial das águas que chegam à represa."
+          },
+          {
+            "letra": "B",
+            "texto": "pela degradação do solo, que promove a laterização decorrente da impermeabilização da área."
+          },
+          {
+            "letra": "C",
+            "texto": "pela ocorrência da inversão térmica, que aumenta a temperatura local com a instalação de equipamentos urbanos."
+          },
+          {
+            "letra": "D",
+            "texto": "pelo comprometimento da área de nascentes, que diminui os espaços permeáveis de recarga da represa."
+          },
+          {
+            "letra": "E",
+            "texto": "pela chegada de espécies invasoras, que prejudica o equilíbrio do ecossistema com a implantação de novos usos."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Meio Ambiente",
+          "Geografia – Urbanização e Recursos Hídricos",
+          "Geografia – Impactos Ambientais"
+        ]
+      },
+      {
+        "numeroEnunciado": 28,
+        "enunciado": "Na construção civil, no design e na arquitetura, uma tendência já bem difundida é a união entre a preocupação com o meio ambiente e projetos rentáveis, práticos e econômicos. Desde 2004, os empreendimentos construídos e projetados pela empresa são feitos com bambu, fibras vegetais e lonas têxteis tensionadas, utilizando tecnologias e materiais não convencionais. “Utilizar bambu no lugar do aço representa uma opção inteligente. Uma das vantagens dessa substituição é a de que o bambu tem qualidades mecânicas comparáveis às do aço, com resistência à tração de 200 megapascal (MPa), além de um amplo potencial ecológico\".\n(www.faperj.br. Adaptado.)\nConsiderando o uso apresentado pelo excerto, o amplo potencial ecológico do bambu pode ser compreendido, dentre outros motivos, por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "ser amplamente encontrado no bioma da caatinga."
+          },
+          {
+            "letra": "B",
+            "texto": "substituir matas sem função econômica pelo seu cultivo."
+          },
+          {
+            "letra": "C",
+            "texto": "ajudar na redução do déficit habitacional."
+          },
+          {
+            "letra": "D",
+            "texto": "configurar um recurso renovável e biodegradável."
+          },
+          {
+            "letra": "E",
+            "texto": "suprir a demanda industrial por aço."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Meio Ambiente",
+          "Geografia – Recursos Naturais e Sustentabilidade"
+        ]
+      },
+      {
+        "numeroEnunciado": 29,
+        "enunciado": "Analise a charge.\nA charge ironiza",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a tentativa de produzir alternativas ao uso de herbicidas na produção agrícola."
+          },
+          {
+            "letra": "B",
+            "texto": "a baixa exigência de equipamentos de proteção individual para manipular a produção agrícola."
+          },
+          {
+            "letra": "C",
+            "texto": "o manejo retrógrado estipulado pelos órgãos de controle do setor agrícola."
+          },
+          {
+            "letra": "D",
+            "texto": "o uso exacerbado de defensivos agrícolas no modelo de agricultura contemporâneo."
+          },
+          {
+            "letra": "E",
+            "texto": "o comprometimento da produção agrícola pela resistência ao uso de insumos agrícolas."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Sociologia – Indústria Cultural e Consumo",
+          "Geografia – Agricultura e Meio Ambiente",
+          "Sociologia – Saúde Pública"
+        ]
+      },
+      {
+        "numeroEnunciado": 30,
+        "enunciado": "O processo de Eratóstenes (276-194 a.C.) consistiu em medir a diferença vertical da incidência da luz solar em Alexandria e em Syene (atual Assuã), ambas no Egito. Sabendo que a distância entre as duas cidades era aproximadamente 5000 estádios (1 estádio = 185 m) e que a diferença angular entre as posições do Sol nas duas cidades, no mesmo horário de um determinado dia, equivalia a 7°12', aproximadamente 1/50 do círculo completo, foi possível estimar o valor de 46250 km, apenas 15% maior do que realmente é esse perímetro, o que, para os métodos da época, é bastante razoável.\n(Paulo M. L. de Menezes e Manoel do C. Fernandes. Roteiro de cartografia, 2013. Adaptado.)\nConsiderando os dados apresentados, é correto afirmar que o valor calculado por Eratóstenes referia-se, aproximadamente, ao perímetro",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "do Trópico de Câncer."
+          },
+          {
+            "letra": "B",
+            "texto": "do Círculo Polar Antártico."
+          },
+          {
+            "letra": "C",
+            "texto": "do Círculo Polar Ártico."
+          },
+          {
+            "letra": "D",
+            "texto": "do Trópico de Capricórnio."
+          },
+          {
+            "letra": "E",
+            "texto": "do Equador."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Cartografia",
+          "Geografia – Geodésia",
+          "Física – Astronomia"
+        ]
+      },
+      {
+        "numeroEnunciado": 31,
+        "enunciado": "A figura representa um trecho retilíneo, plano e horizontal de uma determinada rodovia que possui duas faixas de rolamento: a da esquerda, cuja velocidade máxima permitida é de 80 km/h, e a da direita, onde é de 60 km/h.\nUm veículo percorreu um quarto do comprimento desse trecho pela faixa da esquerda, desenvolvendo a velocidade máxima ali permitida. Em seguida, mudou para a faixa da direita e percorreu o restante do trecho com a velocidade máxima permitida nessa faixa. Desconsiderando os intervalos de tempo gastos para a mudança de faixa e para a desaceleração, a velocidade média desenvolvida pelo veículo ao longo desse trecho, em km/h, foi igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "66."
+          },
+          {
+            "letra": "B",
+            "texto": "62."
+          },
+          {
+            "letra": "C",
+            "texto": "64."
+          },
+          {
+            "letra": "D",
+            "texto": "67."
+          },
+          {
+            "letra": "E",
+            "texto": "68."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Cinemática",
+          "Física – Velocidade Média"
+        ]
+      },
+      {
+        "numeroEnunciado": 32,
+        "enunciado": "Um vaso de flores de massa total igual a 4,8 kg está pendurado, em equilíbrio, em um suporte preso a uma parede vertical. O suporte está pendurado em um parafuso preso ao ponto A e apoiado na parede no ponto B, conforme representado na figura.\n(www.ebanataw.com.br. Adaptado.)\nConsidere g = 10 m/s² e que a massa do suporte seja desprezível. O módulo da força horizontal exercida pelo suporte na parede, no ponto B, é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "60 N."
+          },
+          {
+            "letra": "B",
+            "texto": "80 N."
+          },
+          {
+            "letra": "C",
+            "texto": "20 N."
+          },
+          {
+            "letra": "D",
+            "texto": "40 N."
+          },
+          {
+            "letra": "E",
+            "texto": "100 N."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Estática",
+          "Física – Torque e Equilíbrio"
+        ]
+      },
+      {
+        "numeroEnunciado": 33,
+        "enunciado": "Cometa e Rosetta atingem ponto mais próximo do Sol\nO cometa 67P/Churyumov-Gerasimenko e a sonda Rosetta, que o orbita há mais de um ano, chegaram ao ponto de maior aproximação do Sol. O periélio, a cerca de 186 milhões de quilômetros do Sol, foi atingido pelo cometa em agosto de 2015. A partir daí, o cometa começou mais uma órbita oval, que durará 6,5 anos. O afélio da órbita desse cometa está a cerca de 852 milhões de quilômetros do Sol. Espera-se que Rosetta o monitore por, pelo menos, mais um ano.\n(www.inovacaotecnologica.com.br. Adaptado.)\nDe acordo com as informações, é correto afirmar que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o cometa atingirá sua maior distância em relação ao Sol aproximadamente em agosto de 2017."
+          },
+          {
+            "letra": "B",
+            "texto": "a órbita elíptica do cometa está de acordo com o modelo do movimento planetário proposto por Copérnico."
+          },
+          {
+            "letra": "C",
+            "texto": "o cometa atingiu sua menor velocidade escalar de translação ao redor do Sol em agosto de 2015."
+          },
+          {
+            "letra": "D",
+            "texto": "o cometa estava em movimento acelerado entre os meses de janeiro e julho de 2015."
+          },
+          {
+            "letra": "E",
+            "texto": "a velocidade escalar do cometa será sempre crescente, em módulo, após agosto de 2015."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Leis de Kepler",
+          "Física – Gravitação",
+          "Física – Movimento Orbital"
+        ]
+      },
+      {
+        "numeroEnunciado": 34,
+        "enunciado": "Do alto de uma ponte, um garoto deixa cair um tijolo maciço e impermeável nas águas paradas de um lago. Ao chocar-se contra a superfície da água, o tijolo não se parte e afunda verticalmente, até parar no fundo do lago.\nÀ medida que afunda, a densidade do tijolo e o módulo do empuxo É exercido pela água sobre ele são, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "constante e constante."
+          },
+          {
+            "letra": "B",
+            "texto": "crescente e constante."
+          },
+          {
+            "letra": "C",
+            "texto": "constante e decrescente."
+          },
+          {
+            "letra": "D",
+            "texto": "decrescente e constante."
+          },
+          {
+            "letra": "E",
+            "texto": "constante e crescente."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Hidrostática",
+          "Física – Empuxo",
+          "Física – Densidade"
+        ]
+      },
+      {
+        "numeroEnunciado": 35,
+        "enunciado": "Para realizar um experimento no litoral, um cientista precisa de 8 litros de água a 80 °C. Como não dispõe de um termômetro, decide misturar uma porção de água a 0 °C com outra a 100 °C. Ele obtém água a 0 °C a partir de uma mistura, em equilíbrio térmico, de água líquida com gelo fundente, e água a 100 °C, a partir de água em ebulição. Considerando que haja troca de calor apenas entre as duas porções de água, os volumes, em litros, de água a 0 °C e de água a 100 °C que o cientista deve misturar para obter água a 80 °C são iguais, respectivamente, a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1,6 e 6,4."
+          },
+          {
+            "letra": "B",
+            "texto": "3,2 e 4,8."
+          },
+          {
+            "letra": "C",
+            "texto": "4,0 e 4,0."
+          },
+          {
+            "letra": "D",
+            "texto": "2,4 e 5,6."
+          },
+          {
+            "letra": "E",
+            "texto": "5,2 e 2,8."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Termodinâmica",
+          "Física – Calorimetria"
+        ]
+      },
+      {
+        "numeroEnunciado": 36,
+        "enunciado": "Na figura, um texto é visto através de duas lentes esféricas, 1 e 2. A imagem formada pela lente 1 aparece menor do que o próprio texto e a imagem formada pela lente 2 aparece maior.\nPela observação da figura, constata-se que a lente 1 é _______ e a imagem por ela formada é _______ e que a lente 2 é _______ e a imagem por ela formada é _______. Assinale a alternativa que preenche, correta e respectivamente, as lacunas apresentadas acima.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "divergente – real – convergente – real"
+          },
+          {
+            "letra": "B",
+            "texto": "convergente – virtual – convergente - real"
+          },
+          {
+            "letra": "C",
+            "texto": "divergente – virtual – convergente – virtual"
+          },
+          {
+            "letra": "D",
+            "texto": "divergente – virtual – convergente - real"
+          },
+          {
+            "letra": "E",
+            "texto": "convergente – virtual – convergente – virtual"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Óptica Geométrica",
+          "Física – Lentes Esféricas",
+          "Física – Formação de Imagens"
+        ]
+      },
+      {
+        "numeroEnunciado": 37,
+        "enunciado": "Um forno de micro-ondas funciona fazendo com que as moléculas de água presentes nos alimentos vibrem, gerando calor. O processo baseia-se nos fenômenos da reflexão e interferência de ondas eletromagnéticas, produzindo ondas estacionárias dentro da cavidade do forno. Considere um forno de micro-ondas cuja cavidade interna tenha 30 cm de largura e que, dentro dele, se estabeleçam ondas estacionárias, conforme representado na figura.\nSabendo que a velocidade de propagação das ondas eletromagnéticas no ar é de 3 × 10⁸ m/s, a frequência de vibração das micro-ondas representadas dentro desse forno, em Hz, é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2,2 x 10⁹."
+          },
+          {
+            "letra": "B",
+            "texto": "3,2 x 10⁹."
+          },
+          {
+            "letra": "C",
+            "texto": "2,0 x 10⁹."
+          },
+          {
+            "letra": "D",
+            "texto": "3,6 x 10⁹."
+          },
+          {
+            "letra": "E",
+            "texto": "2,5 x 10⁹."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Ondas",
+          "Física – Ondas Eletromagnéticas",
+          "Física – Ondas Estacionárias"
+        ]
+      },
+      {
+        "numeroEnunciado": 38,
+        "enunciado": "Uma carga puntiforme Q₁, positiva, encontra-se fixa no plano cartesiano indicado na figura. Ela gera um campo elétrico ao seu redor, representado pelos vetores vetor E_F e vetor E_G, nos pontos F e G, respectivamente.\nUma segunda carga puntiforme Q₂, também positiva, com Q₁ = Q₂, deve ser fixa no mesmo plano, de maneira que o campo elétrico resultante no ponto P, devido às presenças de Q₁ e Q₂, seja nulo. Para que se consiga esse efeito, a carga Q₂ deve ser fixa no ponto",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "3."
+          },
+          {
+            "letra": "B",
+            "texto": "4."
+          },
+          {
+            "letra": "C",
+            "texto": "5."
+          },
+          {
+            "letra": "D",
+            "texto": "2."
+          },
+          {
+            "letra": "E",
+            "texto": "1."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Eletrostática",
+          "Física – Campo Elétrico"
+        ]
+      },
+      {
+        "numeroEnunciado": 39,
+        "enunciado": "Em uma atividade experimental, um estudante é desafiado a descobrir a resistência elétrica ôhmica do conteúdo de uma caixa que esconde componentes do circuito elétrico representado na figura. Além do conteúdo da caixa, o circuito é constituído por dois resistores ôhmicos, um gerador ideal, um amperímetro ideal e fios de resistência desprezível.\nO estudante observa que, quando o circuito está em funcionamento, o amperímetro indica 2 A. Considerando essas informações, a resistência equivalente dos resistores associados dentro da caixa é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "25 Ω."
+          },
+          {
+            "letra": "B",
+            "texto": "10 Ω."
+          },
+          {
+            "letra": "C",
+            "texto": "5 Ω."
+          },
+          {
+            "letra": "D",
+            "texto": "20 Ω."
+          },
+          {
+            "letra": "E",
+            "texto": "30 Ω."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Eletrodinâmica",
+          "Física – Resistência Elétrica",
+          "Física – Leis de Kirchhoff"
+        ]
+      },
+      {
+        "numeroEnunciado": 40,
+        "enunciado": "Uma espira condutora e circular está fixa, suspensa por uma haste isolante rígida, na posição representada na figura. Um ímã em forma de cilindro, com seus polos magnéticos norte (N) e sul (S), move-se em linha reta a partir do repouso no ponto A, no instante t₀ = 0, até o ponto B, onde para novamente no instante t₂. A velocidade máxima do ímã, entre os pontos A e B, é atingida no instante t₁. O gráfico indica a velocidade escalar do ímã em função do tempo, entre os instantes t₀ e t₂.\nConsiderando os sentidos horário e anti-horário indicados na figura, é correto afirmar que, devido ao movimento do ímã, a corrente elétrica induzida na espira circulará",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "no sentido anti-horário entre t₀ e t₁ e entre t₁ e t₂."
+          },
+          {
+            "letra": "B",
+            "texto": "no sentido horário entre t₀ e t₁ e entre t₁ e t₂."
+          },
+          {
+            "letra": "C",
+            "texto": "no sentido horário entre t₀ e t₁ e no anti-horário entre t₁ e t₂."
+          },
+          {
+            "letra": "D",
+            "texto": "no sentido anti-horário entre t₀ e t₁ e no horário entre t₁ e t₂."
+          },
+          {
+            "letra": "E",
+            "texto": "no sentido anti-horário entre t₀ e t₁ e não haverá corrente induzida entre t₁ e t₂."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Eletromagnetismo",
+          "Física – Indução Eletromagnética",
+          "Física – Lei de Lenz"
+        ]
+      },
+      {
+        "numeroEnunciado": 41,
+        "enunciado": "A cidade grega é o modelo por excelência, origem e paradigma da democracia. É dela que retiramos as exigências constituídas de toda a política moderna. Mas a cidade grega não é uma democracia modelo. Ela funciona à custa de exclusões.\n(Barbara Cassin et al. Gregos, bárbaros, estrangeiros, 1993. Adaptado.)\nA afirmação do excerto é, aparentemente, contraditória, ao reafirmar a democracia grega como modelo e sustentar que o seu funcionamento era excludente. A aparente contradição ocorre porque",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o governo era dirigido pela classe senatorial, embora os senadores fossem eleitos pelo conjunto dos cidadãos."
+          },
+          {
+            "letra": "B",
+            "texto": "o poder político era exercido diretamente no interior das propriedades rurais, embora dele permanecessem afastados os que aravam a terra."
+          },
+          {
+            "letra": "C",
+            "texto": "a pólis era internamente dividida em corporações de ofício, embora o governo geral fosse composto por um representante de cada uma delas."
+          },
+          {
+            "letra": "D",
+            "texto": "a assembleia de cidadãos era formada por camponeses e artesãos, embora eles estivessem afastados dos assuntos militares."
+          },
+          {
+            "letra": "E",
+            "texto": "a participação dos cidadãos nas decisões públicas era plena e direta, embora mulheres, estrangeiros e escravos permanecessem fora da política."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – Antiguidade Clássica",
+          "História – Grécia Antiga",
+          "História – Democracia Ateniense"
+        ]
+      },
+      {
+        "numeroEnunciado": 42,
+        "enunciado": "Não é mais o templo que distingue a cidade medieval da cidade antiga, porque muitas vezes ou o templo foi reutilizado como igreja, ou então a igreja cristã foi construída sobre o local do templo. Com a igreja, um elemento fundamentalmente novo sobreveio. Os sinos aparecem e se instalam no século VII no Ocidente. Eles serão ponto de referência na cidade; em particular na Itália, onde o sino muitas vezes é instalado não no corpo do monumento, mas numa torre especial: o campanário.\n(Jacques Le Goff. Por amor às cidades, 1998. Adaptado.)\nO historiador descreve o surgimento da cidade medieval, assinalando, como um dos seus aspectos fundamentais,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o florescimento das atividades econômicas nos pontos de encontro de diversas rotas de comércio."
+          },
+          {
+            "letra": "B",
+            "texto": "a autonomia política conquistada por meio de um processo de luta contra o senhor feudal e a Igreja."
+          },
+          {
+            "letra": "C",
+            "texto": "a onipresença de um poder religioso visível e controlador da existência cotidiana da população."
+          },
+          {
+            "letra": "D",
+            "texto": "a reorganização do espaço urbano com vistas a manter a tradicional estrutura militar da antiguidade."
+          },
+          {
+            "letra": "E",
+            "texto": "o deslocamento da população da cidade para as comunidades de religiosos nos mosteiros."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – Idade Média",
+          "História – Cidade Medieval",
+          "História – Cristianismo na Idade Média"
+        ]
+      },
+      {
+        "numeroEnunciado": 43,
+        "enunciado": "O Capitão-mor perguntou a todos se nos parecia ser bem mandar a nova do achamento desta terra a Vossa Alteza pelo navio dos mantimentos, para a melhor mandar descobrir e saber dela mais do que agora nós podíamos saber, por irmos de nossa viagem. E foi por todos ou a maior parte dito que seria muito bem. Perguntou mais se seria bom tomar aqui por força um par destes homens para os mandar a Vossa Alteza e deixar aqui por eles outros dous destes degradados. A isto acordaram que era necessário tomar por força homens por ser gente que ninguém entende.\n(Pero Vaz de Caminha. Carta a el-rei dom Manuel sobre o achamento do Brasil, 1974. Adaptado.)\nA carta de Pero Vaz de Caminha para o rei de Portugal, datada de 1 de maio de 1500, revela",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o descaso dos navegantes, assim como da coroa portuguesa, para com um território densamente povoado por indígenas."
+          },
+          {
+            "letra": "B",
+            "texto": "a necessidade de medidas para se ampliar o conhecimento da terra, considerando que a frota portuguesa devia partir para novo rumo."
+          },
+          {
+            "letra": "C",
+            "texto": "o desconhecimento das sociedades indígenas sobre as regiões demasiadamente afastadas do litoral."
+          },
+          {
+            "letra": "D",
+            "texto": "a intenção da coroa portuguesa em colonizar a terra recém-descoberta com prisioneiros e dissidentes políticos e religiosos."
+          },
+          {
+            "letra": "E",
+            "texto": "a impossibilidade da exploração da mão de obra indígena na extração de recursos e riquezas abundantes no litoral."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – Brasil Colônia",
+          "História – Expansão Marítima",
+          "História – Documentos Históricos"
+        ]
+      },
+      {
+        "numeroEnunciado": 44,
+        "enunciado": "Completam-se assim os três elementos constitutivos da organização agrária do Brasil colonial: a grande propriedade, a monocultura e o trabalho escravo. Estes três elementos se conjugam num sistema típico, a \"grande exploração rural”, isto é, a reunião numa mesma unidade produtora de grande número de indivíduos; é isto que constitui a célula fundamental da economia agrária brasileira. Como constituirá também a base principal em que se assenta toda a estrutura do país, econômica e social.\n(Caio Prado Júnior. Formação do Brasil contemporâneo, 1973.)\nO autor descreve a colonização do Brasil como um empreendimento que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "procurava enviar para a América o excesso de população dos continentes europeu e africano."
+          },
+          {
+            "letra": "B",
+            "texto": "inaugurava a base de uma democracia social, política e econômica nas terras coloniais da América portuguesa."
+          },
+          {
+            "letra": "C",
+            "texto": "estava baseado na produção em grande escala de produtos tropicais para exportação."
+          },
+          {
+            "letra": "D",
+            "texto": "tinha por finalidade defender o território da ocupação de países europeus inimigos de Portugal."
+          },
+          {
+            "letra": "E",
+            "texto": "buscava, por meio da exploração da mão de obra escrava africana, expandir as fronteiras do cristianismo."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – Brasil Colônia",
+          "História – Economia Colonial",
+          "História – Sociedade Colonial"
+        ]
+      },
+      {
+        "numeroEnunciado": 45,
+        "enunciado": "O período de 1603 a 1714 foi talvez o período mais decisivo na história da Inglaterra. [...] Jaime I e seu filho [na primeira metade do século XVII] destituíram juízes que atuavam de forma muito independente, contrariando desejos da realeza; após 1701, os juízes só poderiam ser removidos de suas funções por meio de notificações de ambas as Casas do Parlamento.\n(Christopher S. Hill. O século das revoluções, 1603-1714, 2012.)\nO excerto descreve transformações ocorridas na história inglesa no sentido",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "de extinção da monarquia e de proclamação da república parlamentarista."
+          },
+          {
+            "letra": "B",
+            "texto": "de fortalecimento do feudalismo e de conquista do parlamento pela nobreza."
+          },
+          {
+            "letra": "C",
+            "texto": "de ascensão do poder popular e de controle do parlamento pelos camponeses."
+          },
+          {
+            "letra": "D",
+            "texto": "de abolição do absolutismo e de reforço do poder do parlamento."
+          },
+          {
+            "letra": "E",
+            "texto": "de ampliação dos direitos do Estado e de domínio do parlamento pelos juízes."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – Idade Moderna",
+          "História – Revolução Inglesa",
+          "História – Absolutismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 46,
+        "enunciado": "O fato das colônias inglesas, espanholas e portuguesas conquistarem sua independência depois de mais de três séculos de dominação colonial em movimentos sucessivos, a partir da segunda metade do século XVIII e durante a primeira metade do século XIX, sugere a existência de determinações gerais que transcendem os quadros nacionais.\n(Emília Viotti da Costa. Da Monarquia à República, 1985.)\nAs correspondências temporais entre os movimentos de independência das colônias americanas podem ser explicadas",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "pela crise do antigo regime europeu, pelas transformações econômicas ocorridas na Europa e pelo surgimento da filosofia iluminista."
+          },
+          {
+            "letra": "B",
+            "texto": "pela união das colônias espanholas, pelo apoio dos Estados Unidos aos países da América Latina e pela ocupação de Portugal pela Inglaterra."
+          },
+          {
+            "letra": "C",
+            "texto": "pela incorporação da cultura indígena pelos libertadores, pela divisão dos grandes latifúndios nas áreas coloniais e pela crise da industrialização inglesa."
+          },
+          {
+            "letra": "D",
+            "texto": "pela paz e pela tranquilidade vividas na história europeia, pelo fortalecimento do capitalismo comercial e pelas rebeliões de escravos nas colônias."
+          },
+          {
+            "letra": "E",
+            "texto": "pela aliança dos países colonizadores, pelo avanço dos movimentos operários e pela industrialização das colônias."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – Idade Contemporânea",
+          "História – Iluminismo",
+          "História – Independência das Américas"
+        ]
+      },
+      {
+        "numeroEnunciado": 47,
+        "enunciado": "A Revolução [de 1924 em São Paulo] pretendia a renovação dos costumes políticos, a republicanização da República, como diziam, o banimento das oligarquias dos mandões e chefes políticos e do seu clientelismo político, o fim do voto de cabresto e da política dos currais eleitorais de eleitores sem liberdade de decisão e de voto.\n(José de Souza Martins. \"São Paulo, 1924 - A retirada\". In: Eloar Guazzelli. São Paulo em guerra - 1924, 2012.)\nO movimento a que o texto se refere ficou conhecido na história do Brasil como tenentismo. O movimento tenentista",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "pretendeu abolir as bases econômicas do governo republicano, extinguindo a propriedade rural monocultora."
+          },
+          {
+            "letra": "B",
+            "texto": "mobilizou os oficiais militares contrários ao regime republicano e à extensão do direito de voto à população brasileira."
+          },
+          {
+            "letra": "C",
+            "texto": "foi uma manifestação dos antigos grupos dominantes afastados do poder devido à proclamação da República."
+          },
+          {
+            "letra": "D",
+            "texto": "ficou restrito ao estado de São Paulo, fato que o isolou do restante do país e facilitou a sua derrota."
+          },
+          {
+            "letra": "E",
+            "texto": "procurou reformar os procedimentos políticos republicanos, sustentados por fraudes eleitorais, assim como pelo voto a descoberto."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – Brasil República",
+          "História – Tenentismo",
+          "História – República Oligárquica"
+        ]
+      },
+      {
+        "numeroEnunciado": 48,
+        "enunciado": "A Grã-Bretanha havia perdido 40% de sua frota mercante e os investimentos estrangeiros haviam diminuído drasticamente; enquanto a produção industrial britânica diminuiu durante a Primeira Guerra Mundial, a dos Estados Unidos aumentou em torno de 22% e a do Japão, que se revelou um temível rival da indústria têxtil do pós-guerra, teve um crescimento estimado de 76% entre 1913 e 1920.\n(Asa Briggs. História social da Inglaterra, 1994. Adaptado.)\nAs modificações apontadas pelo excerto, ocorridas nas economias desenvolvidas, revelam",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a importância fundamental da guerra para o início do desenvolvimento industrial nos países capitalistas."
+          },
+          {
+            "letra": "B",
+            "texto": "os efeitos diversos, variados e, às vezes, contraditórios produzidos pela guerra."
+          },
+          {
+            "letra": "C",
+            "texto": "o interesse de nações menos desenvolvidas em se aliarem militarmente às economias mundiais mais poderosas."
+          },
+          {
+            "letra": "D",
+            "texto": "a tentativa de superação de crises econômicas agudizadas por meio do aumento excepcional na produção de armamentos."
+          },
+          {
+            "letra": "E",
+            "texto": "o caráter negativo da guerra de destruição sobre o conjunto das nações industrializadas."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – Idade Contemporânea",
+          "História – Primeira Guerra Mundial",
+          "História – Economia Mundial"
+        ]
+      },
+      {
+        "numeroEnunciado": 49,
+        "enunciado": "O Plano de Metas foi uma experiência sistemática de planejamento implementada pelo governo Juscelino Kubitschek (1956-1961). O Plano favoreceu a instalação de empresas estrangeiras especializadas na montagem de automóveis no Brasil, fato que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "mudou a estrutura econômica do país, devido à destruição do antigo parque automobilístico brasileiro."
+          },
+          {
+            "letra": "B",
+            "texto": "enfraqueceu a capacidade do Estado brasileiro em garantir os direitos dos trabalhadores urbanos."
+          },
+          {
+            "letra": "C",
+            "texto": "promoveu uma expansão da economia industrial com o surgimento de fábricas de autopeças."
+          },
+          {
+            "letra": "D",
+            "texto": "concentrou a produção em um setor econômico em prejuízo das indústrias de produtos eletrônicos e de outros bens de consumo duráveis."
+          },
+          {
+            "letra": "E",
+            "texto": "permitiu a exploração de todas as etapas da produção dos veículos pelos empresários estrangeiros."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – Brasil República",
+          "História – Governo Juscelino Kubitschek",
+          "História – Industrialização no Brasil"
+        ]
+      },
+      {
+        "numeroEnunciado": 50,
+        "enunciado": "Bancos chineses negociam a concessão de um empréstimo de US$ 7 bilhões para a construção de uma refinaria que poderia fazer do Equador um importante produtor de gasolina, diesel e outros derivados do petróleo. Em todo o país, o dinheiro chinês está construindo estradas, pontes e hospitais. Os bancos estatais chineses já destinaram quase US$ 11 bilhões ao país, e o governo equatoriano quer mais.\n(Folha de S.Paulo, 08.08.2015.)\nA partir da notícia, é correto concluir que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a ajuda chinesa aos países pobres visa à expansão do socialismo."
+          },
+          {
+            "letra": "B",
+            "texto": "o desnível social e econômico das nações diminuiu sensivelmente."
+          },
+          {
+            "letra": "C",
+            "texto": "as potências globais começaram a estimular o desenvolvimento de fontes de energia menos agressivas ao meio ambiente."
+          },
+          {
+            "letra": "D",
+            "texto": "a ordem mundial contemporânea passa por mudanças significativas."
+          },
+          {
+            "letra": "E",
+            "texto": "as eventuais crises econômicas ficarão restritas a certas regiões do globo."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Geopolítica",
+          "Geografia – Economia Global",
+          "Geografia – Relações China-América Latina"
+        ]
+      },
+      {
+        "numeroEnunciado": 51,
+        "enunciado": "Em seus trabalhos, uma serralheria gera raspas de ferro, de cobre e de alumínio, que ficam misturadas em um único recipiente. Para a separação desses três metais, é correto realizar uma",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "imantação, seguida de decantação."
+          },
+          {
+            "letra": "B",
+            "texto": "imantação, seguida de levigação."
+          },
+          {
+            "letra": "C",
+            "texto": "imantação, seguida de filtração."
+          },
+          {
+            "letra": "D",
+            "texto": "combustão, seguida de levigação."
+          },
+          {
+            "letra": "E",
+            "texto": "combustão, seguida de decantação."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Separação de Misturas",
+          "Química – Propriedades Físicas da Matéria"
+        ]
+      },
+      {
+        "numeroEnunciado": 52,
+        "enunciado": "A imagem mostra cilindros de mesma capacidade, cada um com gás de uma substância diferente, conforme indicado, todos à mesma pressão e temperatura.\nO cilindro que contém a maior massa de gás em seu interior é o",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "5."
+          },
+          {
+            "letra": "B",
+            "texto": "3."
+          },
+          {
+            "letra": "C",
+            "texto": "1."
+          },
+          {
+            "letra": "D",
+            "texto": "2."
+          },
+          {
+            "letra": "E",
+            "texto": "4."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Gases",
+          "Química – Estequiometria",
+          "Física – Gases Ideais"
+        ]
+      },
+      {
+        "numeroEnunciado": 53,
+        "enunciado": "Leia o texto para responder às questões 53 e 54. Ureia, CO(NH₂)₂, e sulfato de amônio, (NH₄)₂SO₄, são substâncias amplamente empregadas como fertilizantes nitrogenados. A massa de sulfato de amônio, em gramas, que contém a mesma massa de nitrogênio existente em 60 g de ureia é, aproximadamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "245."
+          },
+          {
+            "letra": "B",
+            "texto": "60."
+          },
+          {
+            "letra": "C",
+            "texto": "28."
+          },
+          {
+            "letra": "D",
+            "texto": "184."
+          },
+          {
+            "letra": "E",
+            "texto": "132."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Estequiometria",
+          "Química – Massas Molares"
+        ]
+      },
+      {
+        "numeroEnunciado": 54,
+        "enunciado": "Comparando-se as duas substâncias quanto às ligações químicas presentes em suas estruturas, é correto afirmar que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a ureia apresenta apenas ligações iônicas e o sulfato de amônio, ligações covalentes e iônicas."
+          },
+          {
+            "letra": "B",
+            "texto": "o sulfato de amônio apresenta apenas ligações iônicas e a ureia, ligações covalentes e iônicas."
+          },
+          {
+            "letra": "C",
+            "texto": "ambas possuem apenas ligações covalentes."
+          },
+          {
+            "letra": "D",
+            "texto": "ambas possuem apenas ligações iônicas."
+          },
+          {
+            "letra": "E",
+            "texto": "a ureia apresenta apenas ligações covalentes e o sulfato de amônio, ligações covalentes e iônicas."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Ligações Químicas",
+          "Química – Química Orgânica",
+          "Química – Química Inorgânica"
+        ]
+      },
+      {
+        "numeroEnunciado": 55,
+        "enunciado": "A água boricada é uma solução aquosa de ácido bórico, H₃BO₃, a 3% (m/V). Expressando-se essa concentração em mg de soluto por mL de solução, obtém-se o valor",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "30."
+          },
+          {
+            "letra": "B",
+            "texto": "0,3."
+          },
+          {
+            "letra": "C",
+            "texto": "300."
+          },
+          {
+            "letra": "D",
+            "texto": "0,03."
+          },
+          {
+            "letra": "E",
+            "texto": "3."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Soluções",
+          "Química – Concentração de Soluções"
+        ]
+      },
+      {
+        "numeroEnunciado": 56,
+        "enunciado": "As questões de 56 a 58 referem-se à liotironina, um hormônio produzido pela glândula tireoide, também conhecido como T3.\nA molécula da liotironina apresenta",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "átomo de carbono assimétrico."
+          },
+          {
+            "letra": "B",
+            "texto": "cadeia carbônica homogênea."
+          },
+          {
+            "letra": "C",
+            "texto": "cadeia carbônica alifática."
+          },
+          {
+            "letra": "D",
+            "texto": "dois heterociclos."
+          },
+          {
+            "letra": "E",
+            "texto": "quatro átomos de hidrogênio."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Química Orgânica",
+          "Química – Isomeria Óptica",
+          "Química – Nomenclatura Orgânica"
+        ]
+      },
+      {
+        "numeroEnunciado": 57,
+        "enunciado": "Dentre as funções orgânicas presentes na molécula de liotironina, encontra-se a função",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "éster."
+          },
+          {
+            "letra": "B",
+            "texto": "amida."
+          },
+          {
+            "letra": "C",
+            "texto": "fenol."
+          },
+          {
+            "letra": "D",
+            "texto": "aldeído."
+          },
+          {
+            "letra": "E",
+            "texto": "cetona."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Química Orgânica",
+          "Química – Funções Orgânicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 58,
+        "enunciado": "Considerando que a constante de Avogadro vale 6×10²³ mol⁻¹, o número de moléculas de liotironina que entra no organismo de uma pessoa que ingere um comprimido contendo 10 microgramas desse hormônio é próximo de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "3 x 10¹⁷."
+          },
+          {
+            "letra": "B",
+            "texto": "9 x 10¹⁵."
+          },
+          {
+            "letra": "C",
+            "texto": "9 x 10³⁰."
+          },
+          {
+            "letra": "D",
+            "texto": "3 x 10¹⁴."
+          },
+          {
+            "letra": "E",
+            "texto": "9 x 10²³."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Estequiometria",
+          "Química – Mol e Massa Molar"
+        ]
+      },
+      {
+        "numeroEnunciado": 59,
+        "enunciado": "A imagem mostra o resultado de um experimento conhecido como \"árvore de prata\", em que fios de cobre retorcidos em formato de árvore são imersos em uma solução aquosa de nitrato de prata.\n(www.emsintese.com.br)\nNesse experimento, ocorre uma reação de oxirredução, na qual",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "átomos de cobre se reduzem."
+          },
+          {
+            "letra": "B",
+            "texto": "íons de cobre se reduzem."
+          },
+          {
+            "letra": "C",
+            "texto": "íons nitrato se oxidam."
+          },
+          {
+            "letra": "D",
+            "texto": "íons de prata se reduzem."
+          },
+          {
+            "letra": "E",
+            "texto": "átomos de prata se oxidam."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Reações Químicas",
+          "Química – Oxirredução",
+          "Química – Pilhas e Eletrólise"
+        ]
+      },
+      {
+        "numeroEnunciado": 60,
+        "enunciado": "Considere o equilíbrio químico representado por\nC (s) + CO₂ (g) ⇌ 2CO (g) ; ∆H = + 88 kJ / mol de CO (g)\nO rendimento em CO (g) desse equilíbrio aumenta com o aumento da _______, com a diminuição da _______ e não se altera pela adição de _______. As lacunas do texto são, correta e respectivamente, preenchidas por:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "temperatura – pressão – catalisador."
+          },
+          {
+            "letra": "B",
+            "texto": "temperatura – pressão – CO₂ (g)."
+          },
+          {
+            "letra": "C",
+            "texto": "pressão - temperatura – catalisador."
+          },
+          {
+            "letra": "D",
+            "texto": "pressão – temperatura – CO₂ (g)."
+          },
+          {
+            "letra": "E",
+            "texto": "pressão - temperatura – C (s)."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Equilíbrio Químico",
+          "Química – Princípio de Le Chatelier"
+        ]
+      },
+      {
+        "numeroEnunciado": 61,
+        "enunciado": "Leia o texto de Marilda Rebouças para responder às questões 61 e 62. A primeira manifestação surrealista aconteceu em 1924 com a divulgação do panfleto \"Um cadáver”, a propósito da morte de Anatole France, prêmio Nobel de literatura. Os surrealistas não estavam interessados no estilo límpido, nem no famoso ceticismo desse escritor consagrado e, por isso mesmo, alvo perfeito para o grupo de jovens lobos mostrarem suas garras. Numa linguagem violenta, afirmavam que acabava de morrer \"um pouco da servilidade humana\". E, como esperavam, a repercussão foi enorme. Como consequência funesta, Breton e Aragon perderam o emprego oferecido pelo colecionador Jacques Doucet. (Surrealismo, 1986.) Com base no texto, é correto afirmar que Anatole France",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "pregava a \"servilidade humana\", ideia que os escritores surrealistas pretendiam resgatar."
+          },
+          {
+            "letra": "B",
+            "texto": "havia contribuído, antes de sua morte, para a perda do emprego de artistas como Breton e Aragon."
+          },
+          {
+            "letra": "C",
+            "texto": "foi um famoso escritor, participante do movimento surrealista e ganhador do prêmio Nobel de literatura."
+          },
+          {
+            "letra": "D",
+            "texto": "foi homenageado pelo grupo surrealista, em um panfleto, por ocasião de sua morte."
+          },
+          {
+            "letra": "E",
+            "texto": "fez, em sua obra, opções estéticas que foram combatidas pelo grupo surrealista."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Texto",
+          "Língua Portuguesa – Movimentos Literários"
+        ]
+      },
+      {
+        "numeroEnunciado": 62,
+        "enunciado": "\"Como consequência funesta, Breton e Aragon perderam o emprego oferecido pelo colecionador Jacques Doucet.\" O tempo do verbo destacado indica um acontecimento",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "frequente, no passado."
+          },
+          {
+            "letra": "B",
+            "texto": "em um passado anterior a alguns dos demais fatos citados."
+          },
+          {
+            "letra": "C",
+            "texto": "pontual, no passado."
+          },
+          {
+            "letra": "D",
+            "texto": "no futuro do passado em que alguns dos demais fatos citados ocorrem."
+          },
+          {
+            "letra": "E",
+            "texto": "contínuo, inteiramente no passado."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Gramática",
+          "Língua Portuguesa – Tempos Verbais",
+          "Língua Portuguesa – Semântica Verbal"
+        ]
+      },
+      {
+        "numeroEnunciado": 63,
+        "enunciado": "Leia o texto de Tzvetan Todorov para responder às questões 63 e 64. Desde o início da história europeia, criamos o hábito de distinguir entre poder temporal e poder espiritual. Quando cada um deles dispõe da autonomia em seu domínio e se vê protegido contra as intrusões do outro, fala-se de uma sociedade laica ou, como se diz também, secular. Poderíamos crer que, na parte do mundo marcada pela tradição cristã, essa relação em torno da questão da autonomia já estaria prontamente organizada, pois o Cristo anunciou que seu reino não era deste mundo, que a submissão a Deus não interferia em nada na submissão a César. No entanto, a partir do momento em que o imperador Constantino impôs o cristianismo como religião de Estado, no século IV, a tentação de apoderar-se de todos os poderes de uma vez revelou-se. É fácil entender a razão desse movimento. Dir-se-á que a ordem temporal reina sobre os corpos, a ordem espiritual sobre as almas. Mas alma e corpo não são entidades simplesmente justapostas, no interior de cada ser eles formam inevitavelmente uma hierarquia. Para a religião cristã, a alma deve comandar o corpo; por isso cabe às instituições religiosas, isto é, à Igreja, não somente dominar diretamente as almas, mas também, indiretamente, controlar os corpos e, portanto, a ordem temporal. Por sua vez, o poder temporal procurará defender suas prerrogativas e exigirá a manutenção do controle sobre todos os negócios terrestres, inclusive sobre uma instituição como a Igreja. Para proteger sua autonomia, cada um dos dois adversários fica então tentado a invadir o território do outro. (O espírito das Luzes, 2006.) Considerando o modo como as ideias estão organizadas, é correto afirmar que o texto",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "defende a ideia de que a verdade sobre os fatos é uma só e independe das opiniões e dos pontos de vista."
+          },
+          {
+            "letra": "B",
+            "texto": "descreve uma polêmica com duas soluções possíveis, justapondo argumentos em favor de uma e contra a outra solução."
+          },
+          {
+            "letra": "C",
+            "texto": "argumenta sobre como dois pontos de vista opostos podem ser conciliados se os defensores das opiniões divergentes entrarem em diálogo."
+          },
+          {
+            "letra": "D",
+            "texto": "expõe uma questão polêmica e elenca elementos para mapear as divergências entre diferentes pontos de vista."
+          },
+          {
+            "letra": "E",
+            "texto": "narra a saga das religiões cristãs, do tempo de Cristo até os tempos de hoje."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Filosofia – Filosofia Política",
+          "História – Relações Igreja-Estado",
+          "Língua Portuguesa – Interpretação de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 64,
+        "enunciado": "\"No entanto, a partir do momento em que o imperador Constantino impôs o cristianismo como religião de Estado, no século IV, a tentação de apoderar-se de todos os poderes de uma vez revelou-se.\" (2º parágrafo) A frase introduzida pelo conectivo \"No entanto\" expressa, em relação à anterior, uma ideia de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "consequência."
+          },
+          {
+            "letra": "B",
+            "texto": "oposição."
+          },
+          {
+            "letra": "C",
+            "texto": "causa."
+          },
+          {
+            "letra": "D",
+            "texto": "condição."
+          },
+          {
+            "letra": "E",
+            "texto": "proporção."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Gramática",
+          "Língua Portuguesa – Conectivos",
+          "Língua Portuguesa – Semântica"
+        ]
+      },
+      {
+        "numeroEnunciado": 65,
+        "enunciado": "Leia o trecho do conto \"As caridades odiosas\", de Clarice Lispector, para responder às questões de 65 a 68. Foi uma tarde de sensibilidade ou de suscetibilidade? Eu passava pela rua depressa, emaranhada nos meus pensamentos, como às vezes acontece. Foi quando meu vestido me reteve: alguma coisa se enganchara na minha saia. Voltei-me e vi que se tratava de uma mão pequena e escura. Pertencia a um menino a que a sujeira e o sangue interno davam um tom quente de pele. O menino estava de pé no degrau da grande confeitaria. Seus olhos, mais do que suas palavras meio engolidas, informavam-me de sua paciente aflição. Paciente demais. Percebi vagamente um pedido, antes de compreender o seu sentido concreto. Um pouco aturdida eu o olhava, ainda em dúvida se fora a mão da criança o que me ceifara os pensamentos. Um doce, moça, compre um doce para mim. Acordei finalmente. O que estivera eu pensando antes de encontrar o menino? O fato é que o pedido deste pareceu cumular uma lacuna, dar uma resposta que podia servir para qualquer pergunta, assim como uma grande chuva pode matar a sede de quem queria uns goles de água. Sem olhar para os lados, por pudor talvez, sem querer espiar as mesas da confeitaria onde possivelmente algum conhecido tomava sorvete, entrei, fui ao balcão e disse com uma dureza que só Deus sabe explicar: um doce para o menino. (A descoberta do mundo, 1999.) \"Foi quando meu vestido me reteve: alguma coisa se enganchara na minha saia. Voltei-me e vi que se tratava de uma mão pequena e escura. Pertencia a um menino a que a sujeira e o sangue interno davam um tom quente de pele.\" (1º parágrafo) A passagem narra o momento inicial do encontro da narradora com seu interlocutor. Tal momento é caracterizado",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "pela aparição e humanização gradativa do menino, referido sucessivamente como \"coisa”, “mão” e “menino”."
+          },
+          {
+            "letra": "B",
+            "texto": "pela reação violenta da mulher ao ser incomodada em seus pensamentos."
+          },
+          {
+            "letra": "C",
+            "texto": "pela revelação de uma grande verdade como consequência de um fato trivial."
+          },
+          {
+            "letra": "D",
+            "texto": "por um desgosto da mulher em relação à sujeira do menino que a abordara."
+          },
+          {
+            "letra": "E",
+            "texto": "por uma reflexão da mulher, uma crítica social em relação às condições dos menos favorecidos."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Texto",
+          "Língua Portuguesa – Análise Literária"
+        ]
+      },
+      {
+        "numeroEnunciado": 66,
+        "enunciado": "\"assim como uma grande chuva pode matar a sede de quem queria uns goles de água.\" (3º parágrafo) A imagem literária presente nessa passagem exprime uma comparação baseada",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "numa redundância."
+          },
+          {
+            "letra": "B",
+            "texto": "numa ironia."
+          },
+          {
+            "letra": "C",
+            "texto": "numa desproporção."
+          },
+          {
+            "letra": "D",
+            "texto": "numa atenuação."
+          },
+          {
+            "letra": "E",
+            "texto": "num paradoxo."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Figuras de Linguagem",
+          "Língua Portuguesa – Análise Literária"
+        ]
+      },
+      {
+        "numeroEnunciado": 67,
+        "enunciado": "\"Sem olhar para os lados, por pudor talvez, sem querer espiar as mesas da confeitaria onde possivelmente algum conhecido tomava sorvete\" (4º parágrafo) A preposição destacada assume valor semântico semelhante ao que se verifica na frase:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "A crítica tem Machado de Assis por um grande autor."
+          },
+          {
+            "letra": "B",
+            "texto": "Há ainda algumas questões por fazer."
+          },
+          {
+            "letra": "C",
+            "texto": "Ficaremos na Europa por cinco dias."
+          },
+          {
+            "letra": "D",
+            "texto": "As tropas cercaram os inimigos por terra e por mar."
+          },
+          {
+            "letra": "E",
+            "texto": "Muitas pessoas vão cedo para casa por medo."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Gramática",
+          "Língua Portuguesa – Preposição",
+          "Língua Portuguesa – Semântica"
+        ]
+      },
+      {
+        "numeroEnunciado": 68,
+        "enunciado": "\"Percebi vagamente um pedido.” (1º parágrafo) Na voz passiva, sem alteração de sentido, essa oração transforma-se em:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Um pedido é percebido vagamente."
+          },
+          {
+            "letra": "B",
+            "texto": "Um pedido vagamente é percebido por mim."
+          },
+          {
+            "letra": "C",
+            "texto": "Um pedido é percebido vagamente por alguém."
+          },
+          {
+            "letra": "D",
+            "texto": "Um pedido foi vagamente percebido por alguém."
+          },
+          {
+            "letra": "E",
+            "texto": "Um pedido foi vagamente percebido por mim."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Gramática",
+          "Língua Portuguesa – Vozes Verbais"
+        ]
+      },
+      {
+        "numeroEnunciado": 69,
+        "enunciado": "Leia o poema de Álvares de Azevedo para responder às questões 69 e 70. Se eu morresse amanhã! Se eu morresse amanhã, viria ao menos Fechar meus olhos minha triste irmã; Minha mãe de saudades morreria Se eu morresse amanhã! Quanta glória pressinto em meu futuro! Que aurora de porvir e que manhã! Eu perdera chorando essas coroas Se eu morresse amanhã! Que sol! que céu azul! que doce n'alva Acorda a natureza mais louçã! Não me batera tanto amor no peito, Se eu morresse amanhã! Mas essa dor da vida que devora A ânsia de glória, o dolorido afã... A dor no peito emudecera ao menos Se eu morresse amanhã! (Lira dos vinte anos, 2000.) O poema apresenta características que permitem situá-lo",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "na segunda fase do Romantismo, pela presença de sentimentos extremos e do culto à morte."
+          },
+          {
+            "letra": "B",
+            "texto": "no Parnasianismo, devido à defesa e utilização de formas clássicas com ambição à perfeição."
+          },
+          {
+            "letra": "C",
+            "texto": "no Modernismo, devido ao rompimento com os modelos formais tradicionais da poesia clássica e romântica."
+          },
+          {
+            "letra": "D",
+            "texto": "na primeira fase do Romantismo, preocupada com a definição da sociedade brasileira a partir dos traços físicos e emocionais de seus indivíduos."
+          },
+          {
+            "letra": "E",
+            "texto": "no Classicismo, interessado no equilíbrio formal, associado à temperança dos sentimentos e das ações."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Movimentos Literários",
+          "Língua Portuguesa – Romantismo",
+          "Língua Portuguesa – Poesia"
+        ]
+      },
+      {
+        "numeroEnunciado": 70,
+        "enunciado": "Uma característica do eu lírico do poema é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a religiosidade; a presença da família e a tematização da morte são elementos tipicamente religiosos."
+          },
+          {
+            "letra": "B",
+            "texto": "a bondade; nem na hora de sua morte deixa de pensar nos outros e no que poderia fazer para construir com eles um forte sentimento de companheirismo."
+          },
+          {
+            "letra": "C",
+            "texto": "a indiferença; no retrato que ele faz de sua morte, os sentimentos, bons ou ruins, estão ausentes."
+          },
+          {
+            "letra": "D",
+            "texto": "o egocentrismo; ele imagina, ao mesmo tempo, pessoas e coisas gravitando a sua volta e o futuro glorioso que ele perderia com sua morte."
+          },
+          {
+            "letra": "E",
+            "texto": "o machismo; a figura do homem é central no poema, cabendo às mulheres uma posição submissa e secundária."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Análise Literária",
+          "Língua Portuguesa – Poesia Romântica"
+        ]
+      },
+      {
+        "numeroEnunciado": 71,
+        "enunciado": "Leia o texto para responder às questões de 71 a 77. Social life in youth may impact health decades later Robert Preidt August 6, 2015 Having good social connections at age 20 can lead to improved well-being later in life, a new study suggests. Previous research has shown that people with poor social links are at increased risk for early death. \"In fact, having few social connections is equivalent to tobacco use, and [the risk is] higher than for those who drink excessive amounts of alcohol, or who suffer from obesity,” study author Cheryl Carmichael, who conducted the study while a doctoral candidate at the University of Rochester in New York, said in a university news release. The study included 133 people who enrolled when they were 20-year-old college students in the 1970s. The participants kept track of their daily social interactions at ages 20 and 30. At age 50, they completed an online survey about the quality of their social lives and emotional well-being, including questions about loneliness and depression, and their relationships with close friends. The findings showed that frequent social interactions at age 20 and good-quality relationships – defined as intimate and satisfying - at age 30 were associated with higher levels of well-being at age 50. The study findings were published in a recent issue of the journal Psychology and Aging. A high number of social interactions at age 20 are beneficial later in life because they help young adults determine who they are, the researchers said. \"It's often around this age that we meet people from diverse backgrounds, with opinions and values that are different from our own, and we learn how to best manage those differences,\" said Carmichael, now an assistant professor of psychology at Brooklyn College. \"Considering everything else that goes on in life over those 30 years - marriage, raising a family and building a career it is extraordinary that there appears to be a relationship between the kinds of interactions college students and young adults have and their emotional health later in life,\" she concluded. (www.nlm.nih.gov) O estudo mencionado no texto",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "indica que o abuso de álcool e tabaco pode deteriorar as relações sociais em idosos."
+          },
+          {
+            "letra": "B",
+            "texto": "sugere que o bem-estar na idade madura pode ser favorecido pelas relações sociais estabelecidas na juventude."
+          },
+          {
+            "letra": "C",
+            "texto": "aponta que os jovens têm maior facilidade de estabelecer bons relacionamentos, ao contrário dos adultos de 50 anos."
+          },
+          {
+            "letra": "D",
+            "texto": "recomenda que as pessoas devam cultivar bons relacionamentos independentemente da idade."
+          },
+          {
+            "letra": "E",
+            "texto": "afirma que as pessoas que sofrem de depressão e solidão devem restabelecer vínculos com amigos antigos."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Compreensão de Texto",
+          "Inglês – Leitura e Interpretação"
+        ]
+      },
+      {
+        "numeroEnunciado": 72,
+        "enunciado": "According to the first paragraph, people with poor social links",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "may smoke excessively and may take other drugs."
+          },
+          {
+            "letra": "B",
+            "texto": "usually don't exercise and are prone to obesity."
+          },
+          {
+            "letra": "C",
+            "texto": "have a higher premature death risk, just like tobacco users."
+          },
+          {
+            "letra": "D",
+            "texto": "tend to suffer from depression and therefore have unhealthy habits."
+          },
+          {
+            "letra": "E",
+            "texto": "are more likely to drink too much alcohol."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Compreensão de Texto",
+          "Inglês – Vocabulário"
+        ]
+      },
+      {
+        "numeroEnunciado": 73,
+        "enunciado": "No trecho do primeiro parágrafo \"who conducted the study **while** a doctoral candidate\", o termo em destaque tem o sentido de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "during the time."
+          },
+          {
+            "letra": "B",
+            "texto": "until."
+          },
+          {
+            "letra": "C",
+            "texto": "in spite of."
+          },
+          {
+            "letra": "D",
+            "texto": "wherever."
+          },
+          {
+            "letra": "E",
+            "texto": "as soon as."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Vocabulário",
+          "Inglês – Conectivos",
+          "Inglês – Semântica"
+        ]
+      },
+      {
+        "numeroEnunciado": 74,
+        "enunciado": "The data for the study",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "included 133 people aged 20, 30 and 50 in the 1970s."
+          },
+          {
+            "letra": "B",
+            "texto": "added an online survey with lonely or depressed people."
+          },
+          {
+            "letra": "C",
+            "texto": "evaluated college students who were close friends."
+          },
+          {
+            "letra": "D",
+            "texto": "measured how close friends behaved after 20 and 30 years."
+          },
+          {
+            "letra": "E",
+            "texto": "took 30 years to be collected."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Inglês – Compreensão de Texto",
+          "Inglês – Leitura e Interpretação"
+        ]
+      },
+      {
+        "numeroEnunciado": 75,
+        "enunciado": "The study results indicate that 50 year-old people who displayed a higher degree of welfare",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "have never suffered from depression."
+          },
+          {
+            "letra": "B",
+            "texto": "have kept the same social values of their youth."
+          },
+          {
+            "letra": "C",
+            "texto": "had a favourable opinion about younger people."
+          },
+          {
+            "letra": "D",
+            "texto": "had frequent social connections when they were 20 years old."
+          },
+          {
+            "letra": "E",
+            "texto": "are used to making friends with people from different backgrounds."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Inglês – Compreensão de Texto",
+          "Inglês – Inferência"
+        ]
+      },
+      {
+        "numeroEnunciado": 76,
+        "enunciado": "No trecho do quarto parágrafo \"they help young adults\", o termo em destaque refere-se a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "young adults."
+          },
+          {
+            "letra": "B",
+            "texto": "higher number of social interactions."
+          },
+          {
+            "letra": "C",
+            "texto": "the study findings."
+          },
+          {
+            "letra": "D",
+            "texto": "the researchers."
+          },
+          {
+            "letra": "E",
+            "texto": "people from diverse backgrounds."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Gramática",
+          "Inglês – Referência Pronominal"
+        ]
+      },
+      {
+        "numeroEnunciado": 77,
+        "enunciado": "No trecho do quarto parágrafo \"because they help young adults\", o termo em destaque pode ser corretamente substituído, sem alteração de sentido, por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "still."
+          },
+          {
+            "letra": "B",
+            "texto": "though."
+          },
+          {
+            "letra": "C",
+            "texto": "due to."
+          },
+          {
+            "letra": "D",
+            "texto": "in order to."
+          },
+          {
+            "letra": "E",
+            "texto": "since."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Inglês – Vocabulário",
+          "Inglês – Conectivos"
+        ]
+      },
+      {
+        "numeroEnunciado": 78,
+        "enunciado": "Leia o texto para responder às questões de 78 a 80. W.H.O. calls 'vaccine hesitancy' an increasing concern globally Rick Gladstone August 18, 2015 The World Health Organization warned Tuesday of what it called the growing problem of \"vaccine hesitancy,\" when people delay or refuse vaccines for themselves or their children. In a statement on its website, the organization called the problem \"a growing challenge for countries seeking to close the immunization gap.\" Globally, the organization said, one in five children still do not receive routine lifesaving immunizations, and 1.5 million children die each year of diseases that could have been thwarted by vaccines. (www.nytimes.com) According to the text, \"vaccine hesitancy\"",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "describes a behaviour when people fail to take vaccines."
+          },
+          {
+            "letra": "B",
+            "texto": "happens when children don't respond adequately to vaccines."
+          },
+          {
+            "letra": "C",
+            "texto": "is induced by beliefs that vaccines are inefficient."
+          },
+          {
+            "letra": "D",
+            "texto": "contributes to closing the immunization gap."
+          },
+          {
+            "letra": "E",
+            "texto": "is responsible for the death of one in five children."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Compreensão de Texto",
+          "Inglês – Vocabulário"
+        ]
+      },
+      {
+        "numeroEnunciado": 79,
+        "enunciado": "De acordo com a Organização Mundial da Saúde,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "há países que não oferecem programas rotineiros de vacinação."
+          },
+          {
+            "letra": "B",
+            "texto": "é necessário conscientizar os pais de que a vacinação pode salvar vidas."
+          },
+          {
+            "letra": "C",
+            "texto": "20% das crianças no mundo não são vacinadas."
+          },
+          {
+            "letra": "D",
+            "texto": "as pessoas hesitam em vacinar seus filhos principalmente em países pobres."
+          },
+          {
+            "letra": "E",
+            "texto": "cerca de 1,5 milhão de crianças são salvas devido à vacinação."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Compreensão de Texto",
+          "Inglês – Informações Específicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 80,
+        "enunciado": "No trecho do texto \"1.5 million children die each year of diseases that could have been **thwarted** by vaccines\", o termo em destaque indica uma ideia de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "hesitar."
+          },
+          {
+            "letra": "B",
+            "texto": "lutar."
+          },
+          {
+            "letra": "C",
+            "texto": "insistir."
+          },
+          {
+            "letra": "D",
+            "texto": "evitar."
+          },
+          {
+            "letra": "E",
+            "texto": "agravar."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Inglês – Vocabulário",
+          "Inglês – Sinônimos"
+        ]
+      }
+    ]
+  }
+}

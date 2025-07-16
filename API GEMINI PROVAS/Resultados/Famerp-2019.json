@@ -1,0 +1,2510 @@
+{
+  "prova": {
+    "nomeUniversidade": "FACULDADE DE MEDICINA DE SÃO JOSÉ DO RIO PRETO",
+    "siglaUniversidade": "FAMERP",
+    "nomeProva": "Vestibular",
+    "ano": 2019,
+    "qtdeQuestoes": 80,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "A frase que interpreta corretamente o texto e que está redigida com coesão, coerência e em conformidade com a norma-padrão da língua portuguesa é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "A utilização da inteligência artificial na medicina resultou o engajamento de 1,5 mil especialistas na última edição do Fórum de Inovação Médica Mundial, que se tratou do tema dos robôs e seus avanços."
+          },
+          {
+            "letra": "B",
+            "texto": "Na medida em que tornam mais ágil e precisa a formulação de diagnósticos e evitam gastos com terapias dispensáveis, os robôs representam grande avanço na medicina."
+          },
+          {
+            "letra": "C",
+            "texto": "Os robôs tem revolucionado a sociedade contemporânea de modo geral e, com a medicina não poderia ser diferente. Contudo vem fazendo com que se tornem cada vez mais eficiente os tratamentos."
+          },
+          {
+            "letra": "D",
+            "texto": "Ao levar tratamento a regiões pouco acessíveis, os robôs promovem o avanço da medicina, especialmente por que contribuem sobre a facilidade de encontrar remédios comprovadamente eficazes."
+          },
+          {
+            "letra": "E",
+            "texto": "O fato que o uso de robôs na medicina é benéfico é inquestionável, contanto que auxiliam o tratamento. Conforme afirma o médico Gregg Meyer, considerado um dos estudiosos do assunto mais respeitado."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Compreensão e Interpretação de Texto",
+          "Língua Portuguesa – Coesão e Coerência"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "Assinale a alternativa que apresenta uma palavra que expressa adequadamente o sentido daquela que está sublinhada na passagem do texto.\n(A) “Robô é o nome palatável encontrado para definir os complexos sistemas de algoritmos\" (2º parágrafo) – científico\n(B) \"Para citar algumas das transformações: tornam o diagnóstico preciso” (1º parágrafo) – necessário\n(C) \"reduzem os custos ao evitar gastos em terapias desnecessárias\" (2º parágrafo) – interrompem\n(D) \"as informações geradas no processo esclarecem ou confirmam suspeitas diagnósticas\" (2º parágrafo) – elucidam\n(E) \"ajudam a desenhar tratamentos para cada paciente\" (1º parágrafo) – agilizar",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "“Robô é o nome palatável encontrado para definir os complexos sistemas de algoritmos\" (2º parágrafo) – científico"
+          },
+          {
+            "letra": "B",
+            "texto": "\"Para citar algumas das transformações: tornam o diagnóstico preciso” (1º parágrafo) – necessário"
+          },
+          {
+            "letra": "C",
+            "texto": "\"reduzem os custos ao evitar gastos em terapias desnecessárias\" (2º parágrafo) – interrompem"
+          },
+          {
+            "letra": "D",
+            "texto": "\"as informações geradas no processo esclarecem ou confirmam suspeitas diagnósticas\" (2º parágrafo) – elucidam"
+          },
+          {
+            "letra": "E",
+            "texto": "\"ajudam a desenhar tratamentos para cada paciente\" (1º parágrafo) – agilizar"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Vocabulário",
+          "Língua Portuguesa – Sentido das Palavras e Expressões"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "“Em linhas gerais, trata-se da utilização do maior número possível de dados disponível sobre determinado assunto, seu cruzamento e, como consequência, a identificação de padrões.” (2º parágrafo)\nA palavra “disponível” modifica o sentido da palavra ___________ , e a palavra “seu” retoma o sentido da palavra __________.\nAs lacunas devem ser preenchidas, respectivamente, por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "utilização e assunto."
+          },
+          {
+            "letra": "B",
+            "texto": "número e dados."
+          },
+          {
+            "letra": "C",
+            "texto": "utilização e dados."
+          },
+          {
+            "letra": "D",
+            "texto": "número e assunto."
+          },
+          {
+            "letra": "E",
+            "texto": "dados e assunto."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Morfologia (Adjetivos)",
+          "Língua Portuguesa – Sintaxe (Pronomes Possessivos)",
+          "Língua Portuguesa – Referência Textual"
+        ]
+      },
+      {
+        "numeroEnunciado": 4,
+        "enunciado": "A sugestão \"seja você mesma\" deixou a autora \"perplexa e desamparada\" porque",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "mostrou que seus leitores não eram capazes de compreender o que ela queria expressar em seus textos."
+          },
+          {
+            "letra": "B",
+            "texto": "fez com que ela percebesse que não sabia como ser, no jornal, uma escritora tão boa quanto nos livros."
+          },
+          {
+            "letra": "C",
+            "texto": "provocou questionamentos de ordem existencial, para os quais não encontrou resposta."
+          },
+          {
+            "letra": "D",
+            "texto": "levou-a a se perguntar se seria capaz de evitar as temidas concessões ao escrever para o jornal."
+          },
+          {
+            "letra": "E",
+            "texto": "gerou dúvidas quanto à sua identidade, pois se viu dividida em duas escritoras com estilos antagônicos."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Texto",
+          "Filosofia – Questões Existenciais"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "Os trechos \"por estar escrevendo em jornal\" (1º parágrafo) e \"ao ouvir um 'seja você mesma\" (2º parágrafo) exprimem, respectivamente, circunstância de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "consequência e tempo."
+          },
+          {
+            "letra": "B",
+            "texto": "causa e condição."
+          },
+          {
+            "letra": "C",
+            "texto": "causa e tempo."
+          },
+          {
+            "letra": "D",
+            "texto": "finalidade e condição."
+          },
+          {
+            "letra": "E",
+            "texto": "consequência e finalidade."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Sintaxe (Conectivos e Orações Subordinadas Adverbiais)"
+        ]
+      },
+      {
+        "numeroEnunciado": 6,
+        "enunciado": "A leitura do primeiro parágrafo permite concluir que o major Quaresma ficou admirado com o negociante da Rua dos Pescadores especialmente devido",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à discrepância entre sua serenidade e a imagem que ele fazia de si próprio."
+          },
+          {
+            "letra": "B",
+            "texto": "à paz de espírito que ele havia alcançado mesmo sendo um assassino."
+          },
+          {
+            "letra": "C",
+            "texto": "ao grau de erudição exibido por um homem pertencente à classe trabalhadora."
+          },
+          {
+            "letra": "D",
+            "texto": "à maneira como ele agia contraditoriamente ao maldizer a própria sabedoria."
+          },
+          {
+            "letra": "E",
+            "texto": "à ignorância quanto a fatos históricos pouco condizente com sua classe social."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Texto",
+          "Língua Portuguesa – Leitura Crítica"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "Embora o texto seja narrativo, há nele trechos em que o tom argumentativo, característico da dissertação, se faz presente, como se observa em:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "“daquele que mais se admirou, foi de um velho e plácido negociante da Rua dos Pescadores que se supunha Átila” (1º parágrafo)."
+          },
+          {
+            "letra": "B",
+            "texto": "“Quaresma viveu lá, no manicômio, resignadamente, conversando com os seus companheiros” (1º parágrafo)."
+          },
+          {
+            "letra": "C",
+            "texto": "“ricos que se diziam pobres, pobres que se queriam ricos, sábios a maldizer da sabedoria, ignorantes a se proclamarem sábios” (1º parágrafo)."
+          },
+          {
+            "letra": "D",
+            "texto": "“Saiu o major mais triste ainda do que vivera toda a vida” (2º parágrafo)."
+          },
+          {
+            "letra": "E",
+            "texto": "“De todas as cousas tristes de ver, no mundo, a mais triste é a loucura” (2º parágrafo)."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Tipologia Textual",
+          "Língua Portuguesa – Argumentação"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "A transposição da frase “Eu, dizia o pacato velho, sou Átila” (1º parágrafo) para o discurso indireto resultará em:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "O pacato velho dizia que havia sido Átila."
+          },
+          {
+            "letra": "B",
+            "texto": "O pacato velho dizia que era Átila."
+          },
+          {
+            "letra": "C",
+            "texto": "O pacato velho dizia que foi Átila."
+          },
+          {
+            "letra": "D",
+            "texto": "O pacato velho dizia: eu sou Átila."
+          },
+          {
+            "letra": "E",
+            "texto": "O pacato velho dizia: fui Átila."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Discurso Direto e Indireto",
+          "Língua Portuguesa – Concordância Verbal"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "O sentimento expresso pelo eu lírico revela",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "uma visão sacralizada da mulher, um ser cultuado por meio de imagens que a elevam a um plano distante do cotidiano."
+          },
+          {
+            "letra": "B",
+            "texto": "um desejo de abarcar o ser amado em sua totalidade, tanto no aspecto carnal quanto no espiritual."
+          },
+          {
+            "letra": "C",
+            "texto": "um modo machista de entender a relação amorosa, pois a mulher é descrita como alvo passivo da vontade do homem."
+          },
+          {
+            "letra": "D",
+            "texto": "uma concepção materialista do amor, já que o objetivo do texto é dar vazão ao desejo sensual."
+          },
+          {
+            "letra": "E",
+            "texto": "um amor platônico, tendo em vista que o encontro amoroso não chega a se consumar no âmbito material."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Poema",
+          "Língua Portuguesa – Lirismo",
+          "Arte – Modernismo Brasileiro"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "O poema apresenta traços da estética da primeira fase do modernismo, o que se faz evidente",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "na exploração de palavras próprias da linguagem espontânea e popular, como \"boniteza”, e na ausência de pontuação em \"O pensamento a alma o desgosto\", por exemplo."
+          },
+          {
+            "letra": "B",
+            "texto": "no emprego do verso livre ao longo de todo o texto e no desprezo dos recursos que imprimem musicalidade aos versos, considerando que não há rimas nem recorrências sonoras."
+          },
+          {
+            "letra": "C",
+            "texto": "no uso de expressões com sentidos que contrastam, como \"pensamento\" e \"alma”, e na repetição sistemática de frases inteiras, como \"De você”."
+          },
+          {
+            "letra": "D",
+            "texto": "na subjetividade marcante, explicitada na presença do pronome de primeira pessoa, e no uso de neologismos, como \"faceirice\" e \"enrabicham\"."
+          },
+          {
+            "letra": "E",
+            "texto": "na ruptura com a gramática normativa, com o evidente erro no emprego do verbo \"receber\" em \"De você, Rosa, eu não queria / Receber somente esse abraço”, e na presença reiterada de inversões sintáticas."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Escolas Literárias (Modernismo)",
+          "Arte – Modernismo Brasileiro"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "The text is mainly about",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Michael Fuller's dreams for the future."
+          },
+          {
+            "letra": "B",
+            "texto": "a young autistic boy's relantionship with sound and music."
+          },
+          {
+            "letra": "C",
+            "texto": "the use of music in dealing with autism."
+          },
+          {
+            "letra": "D",
+            "texto": "a modern-day composer and his inspiration sources."
+          },
+          {
+            "letra": "E",
+            "texto": "stories of resilience, just like Michael Fuller's."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Compreensão de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "In the excerpt from the first paragraph \"has been with him for as long as he can remember\", the underlined expression indicates",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "time."
+          },
+          {
+            "letra": "B",
+            "texto": "purpose."
+          },
+          {
+            "letra": "C",
+            "texto": "reason."
+          },
+          {
+            "letra": "D",
+            "texto": "consequence."
+          },
+          {
+            "letra": "E",
+            "texto": "comparison."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Vocabulário",
+          "Inglês – Expressões de Tempo"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "De acordo com o primeiro e segundo parágrafos, Michael Fuller",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "toca piano sem errar apenas diante de sua família."
+          },
+          {
+            "letra": "B",
+            "texto": "fica perturbado com os ruídos da rua ou dos trens."
+          },
+          {
+            "letra": "C",
+            "texto": "sonha conseguir tocar peças complexas de memória."
+          },
+          {
+            "letra": "D",
+            "texto": "cria melodias a partir de ruídos de trens sobre trilhos."
+          },
+          {
+            "letra": "E",
+            "texto": "costuma baixar músicas clássicas no celular."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Inglês – Compreensão de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "In the excerpt from the second paragraph \"he could quickly perform complex pieces\", the underlined word indicates",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "permission."
+          },
+          {
+            "letra": "B",
+            "texto": "ability."
+          },
+          {
+            "letra": "C",
+            "texto": "obligation."
+          },
+          {
+            "letra": "D",
+            "texto": "advice."
+          },
+          {
+            "letra": "E",
+            "texto": "request."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Vocabulário (Verbos Modais)"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "De acordo com o terceiro parágrafo, Michael Fuller",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "tinha a música como algo natural."
+          },
+          {
+            "letra": "B",
+            "texto": "foi forçado a estudar piano quando criança."
+          },
+          {
+            "letra": "C",
+            "texto": "alcançou o sucesso por meio da internet."
+          },
+          {
+            "letra": "D",
+            "texto": "não queria que ninguém o ensinasse a tocar piano."
+          },
+          {
+            "letra": "E",
+            "texto": "só gostava de ouvir música alta."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Compreensão de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "No trecho do terceiro parágrafo \"sought more music\", o termo sublinhado tem sentido semelhante, em português, a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "compunha."
+          },
+          {
+            "letra": "B",
+            "texto": "buscava."
+          },
+          {
+            "letra": "C",
+            "texto": "comprava."
+          },
+          {
+            "letra": "D",
+            "texto": "ouvia."
+          },
+          {
+            "letra": "E",
+            "texto": "tocava."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Vocabulário",
+          "Inglês – Sinônimos"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "O trecho do quarto parágrafo \"Michael feels 'very much aware' of how different his approach is to music\" indica que Michael Fuller",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "às vezes sente muita vergonha por compor uma música tão diferente."
+          },
+          {
+            "letra": "B",
+            "texto": "se sente muito contente com a diversidade de sua produção musical."
+          },
+          {
+            "letra": "C",
+            "texto": "se sente muito diferente ao compor suas músicas."
+          },
+          {
+            "letra": "D",
+            "texto": "às vezes sente vergonha por ser uma pessoa diferente."
+          },
+          {
+            "letra": "E",
+            "texto": "está ciente do quão diferente é sua abordagem musical."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Inglês – Compreensão de Texto",
+          "Inglês – Inferência"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "No trecho do quarto parágrafo \"This, his mother says\", o termo sublinhado refere-se ao fato de Michael",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "ter se tornado um grande pianista ainda criança."
+          },
+          {
+            "letra": "B",
+            "texto": "pertencer a uma comunidade que só ouvia reggae."
+          },
+          {
+            "letra": "C",
+            "texto": "ter se apaixonado pela música clássica."
+          },
+          {
+            "letra": "D",
+            "texto": "ser um símbolo de superação por meio da música."
+          },
+          {
+            "letra": "E",
+            "texto": "vir de uma família que não conhecia os compositores clássicos."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Pronomes",
+          "Inglês – Referência Pronominal"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "O quinto parágrafo afirma que o jovem músico",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "enfrenta dificuldades para compor suas próprias peças."
+          },
+          {
+            "letra": "B",
+            "texto": "tem um estilo musical próprio e inédito."
+          },
+          {
+            "letra": "C",
+            "texto": "também gosta de escrever letras de canções."
+          },
+          {
+            "letra": "D",
+            "texto": "leva um longo tempo até conseguir compor suas peças."
+          },
+          {
+            "letra": "E",
+            "texto": "almeja se tornar um artista reconhecido."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Inglês – Compreensão de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "In the text, the excerpt that best represents an alternative to something previously expressed is:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "“As someone with high-functioning autism\" (1st paragraph)."
+          },
+          {
+            "letra": "B",
+            "texto": "“a surprise to the family and myself” (4th paragraph)."
+          },
+          {
+            "letra": "C",
+            "texto": "“I've got a symphony” (2nd paragraph)."
+          },
+          {
+            "letra": "D",
+            "texto": "“Instead, Michael is determined\" (5th paragraph)."
+          },
+          {
+            "letra": "E",
+            "texto": "“I liked what I was hearing\" (3rd paragraph)."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Inglês – Interpretação de Texto",
+          "Inglês – Conectivos e Coerência"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "A queda do Império Romano do Ocidente foi provocada, entre outros fatores,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "pela fragilização do poder central, que gradualmente perdeu o controle das províncias que compunham o Império."
+          },
+          {
+            "letra": "B",
+            "texto": "pelo declínio econômico das colônias asiáticas, que deixaram de fornecer matérias-primas à capital do Império."
+          },
+          {
+            "letra": "C",
+            "texto": "pela hegemonia econômico-financeira da Igreja, que passou a combater militarmente os imperadores pagãos."
+          },
+          {
+            "letra": "D",
+            "texto": "pelo desenvolvimento militar dos impérios macedônio e persa, que se tornaram rivais de Roma e a derrotaram."
+          },
+          {
+            "letra": "E",
+            "texto": "pelas invasões dos bárbaros, que saquearam o Império Romano e, assim, facilitaram sua conquista pelos hunos."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – Antiguidade Clássica (Roma)",
+          "História – Crise do Império Romano"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "O texto alude à gênese de duas características importantes da Idade Média Ocidental:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o fim do comércio internacional e o crescimento do republicanismo."
+          },
+          {
+            "letra": "B",
+            "texto": "a feudalização e o aumento do poder político da Igreja."
+          },
+          {
+            "letra": "C",
+            "texto": "o desaparecimento do poder real e a ruralização."
+          },
+          {
+            "letra": "D",
+            "texto": "a supressão dos exércitos nacionais e o avanço do islamismo."
+          },
+          {
+            "letra": "E",
+            "texto": "o igualitarismo social e a autossuficiência das propriedades rurais."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – Idade Média",
+          "História – Feudalismo",
+          "História – Igreja na Idade Média"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "A base comum das ideias mercantilistas consiste na atuação de dois novos fatores: os Estados modernos nacionais, ou seja, as monarquias absolutas, e os efeitos de toda ordem provocados pelas grandes navegações e descobrimentos sobre a vida das sociedades europeias.\n(Francisco Falcon. Mercantilismo e transição, 1986. Adaptado.)\nOs dois fatores mencionados no texto expressam-se, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "no intervencionismo econômico dos Estados modernos e no aumento dos metais nobres entesourados."
+          },
+          {
+            "letra": "B",
+            "texto": "na redução significativa do comércio interno europeu e na colonização da América e da África."
+          },
+          {
+            "letra": "C",
+            "texto": "no desenvolvimento de teorias voltadas à defesa do livre comércio e na política de degredo de encarcerados."
+          },
+          {
+            "letra": "D",
+            "texto": "na difusão das ideias sociais libertárias e no aperfeiçoamento dos instrumentos e das técnicas de navegação."
+          },
+          {
+            "letra": "E",
+            "texto": "no controle político burguês dos Estados modernos e no surgimento de órgãos regradores do comércio internacional."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – Idade Moderna",
+          "História – Mercantilismo",
+          "História – Grandes Navegações",
+          "História – Absolutismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "O sistema de plantation, predominante na colonização portuguesa do Brasil, baseou-se na",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "produção agrícola voltada à subsistência e ao comércio local."
+          },
+          {
+            "letra": "B",
+            "texto": "exportação dos excedentes agrícolas não consumidos internamente."
+          },
+          {
+            "letra": "C",
+            "texto": "aplicação de moderna tecnologia europeia à agricultura."
+          },
+          {
+            "letra": "D",
+            "texto": "rotação de culturas em pequenas propriedades rurais."
+          },
+          {
+            "letra": "E",
+            "texto": "monocultura extensiva com emprego de trabalho compulsório."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – Brasil Colonial",
+          "História – Economia Colonial",
+          "Geografia – Agropecuária"
+        ]
+      },
+      {
+        "numeroEnunciado": 25,
+        "enunciado": "[Em relação à América Espanhola, nas duas primeiras décadas do século XIX,] a situação da América Portuguesa era diferente, pois ali o próprio governo português parecia conduzir e administrar as transformações.\n(Andréa Slemian e João Paulo G. Pimenta. O \"nascimento político\" do Brasil, 2003.)\nEstão entre as transformações mencionadas no texto:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a formação de uma Junta autônoma de governo e a ampliação das redes de transportes e comunicação internas."
+          },
+          {
+            "letra": "B",
+            "texto": "a abolição do regime de exclusivo metropolitano e a passagem do Brasil à condição de Reino Unido."
+          },
+          {
+            "letra": "C",
+            "texto": "a autorização para a implantação de indústrias no Brasil e o descumprimento do Tratado de Tordesilhas."
+          },
+          {
+            "letra": "D",
+            "texto": "a decretação do fim do tráfico de africanos escravizados e a formalização da independência do Brasil."
+          },
+          {
+            "letra": "E",
+            "texto": "a ampliação do comércio com os demais países da América e a eliminação das tarifas alfandegárias para produtos de origem africana."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – Brasil Império",
+          "História – Período Joanino",
+          "História – Independência do Brasil"
+        ]
+      },
+      {
+        "numeroEnunciado": 26,
+        "enunciado": "A Guerra Civil Americana (1861-1865)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "opôs os estados do litoral atlântico aos territórios recém-anexados do Oeste e encerrou-se com a vitória da costa pacífica."
+          },
+          {
+            "letra": "B",
+            "texto": "derivou das lutas contra os ingleses pela independência, que só foi alcançada após a união entre os exércitos do Sul e do Norte."
+          },
+          {
+            "letra": "C",
+            "texto": "foi provocada pelo declínio das exportações sulistas de borracha, que enfrentavam a concorrência das colônias holandesas no Caribe."
+          },
+          {
+            "letra": "D",
+            "texto": "teve início com a tentativa secessionista do Norte, que contava com o apoio da Inglaterra e da França."
+          },
+          {
+            "letra": "E",
+            "texto": "opôs o Norte industrialista ao Sul agrário e encerrou-se com a vitória nortista e a preservação da União."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – História da América",
+          "História – Guerra Civil Americana"
+        ]
+      },
+      {
+        "numeroEnunciado": 27,
+        "enunciado": "A afirmação de que \"o fim da escravidão em 1865 não significou o fim do racismo ou da violência contra os negros\" pode ser exemplificada",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "pela conquista da paridade salarial entre trabalhadores negros e brancos somente no início do século XX e pelas denúncias de racismo ainda hoje."
+          },
+          {
+            "letra": "B",
+            "texto": "pelo alistamento obrigatório de negros na Primeira Guerra Mundial e pela proibição de práticas segregacionistas somente após esse conflito."
+          },
+          {
+            "letra": "C",
+            "texto": "pelo surgimento, no século XIX, de sociedades racistas e pelas lutas dos negros, na segunda metade do século XX, pela obtenção de direitos civis."
+          },
+          {
+            "letra": "D",
+            "texto": "pela existência, no século XIX, de calçadas exclusivas para os brancos e pela aprovação legal, somente no início do século XX, da igualdade no tratamento racial."
+          },
+          {
+            "letra": "E",
+            "texto": "pela persistência, até a Segunda Guerra, de formas de trabalho análogas à escravidão e pela restrição legal à contratação de negros, ainda hoje, nas grandes empresas."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – História da América",
+          "Sociologia – Racismo",
+          "Sociologia – Movimentos Sociais"
+        ]
+      },
+      {
+        "numeroEnunciado": 28,
+        "enunciado": "O texto divide a industrialização brasileira em dois ciclos distintos. O primeiro deles caracteriza-se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "pelo esforço de atendimento à demanda externa provocada pela desindustrialização norte-americana durante a Primeira Guerra Mundial."
+          },
+          {
+            "letra": "B",
+            "texto": "pelo avanço maior da industrialização no Sudeste e no Nordeste, que dependeu de capitais deslocados da produção de café e de cana."
+          },
+          {
+            "letra": "C",
+            "texto": "pela valorização da livre iniciativa empresarial, estimulada pelas campanhas industrialistas e de renúncia fiscal do governo brasileiro."
+          },
+          {
+            "letra": "D",
+            "texto": "pelo investimento prioritário na produção de aço, com o desenvolvimento de uma tecnologia industrial autônoma."
+          },
+          {
+            "letra": "E",
+            "texto": "pelo desenvolvimento maior das indústrias têxtil e alimentícia, com o prevalecimento de capital nacional."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – Brasil República",
+          "História – Industrialização do Brasil",
+          "Geografia – Industrialização"
+        ]
+      },
+      {
+        "numeroEnunciado": 29,
+        "enunciado": "O segundo ciclo de industrialização mencionado no texto é marcado",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "pelo ingresso, no país, de grande quantidade de tecnologia e de capitais estrangeiros."
+          },
+          {
+            "letra": "B",
+            "texto": "pela política nacional de controle do câmbio, o que facilitava a exportação brasileira de produtos industrializados."
+          },
+          {
+            "letra": "C",
+            "texto": "pelo deslocamento do eixo industrial para a região Norte, a partir da criação da Zona Franca de Manaus."
+          },
+          {
+            "letra": "D",
+            "texto": "pela implantação de políticas públicas de apoio às pequenas e médias empresas."
+          },
+          {
+            "letra": "E",
+            "texto": "pelo processo de privatização das empresas estatais, adquiridas por grandes empresários nacionais."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – Brasil República",
+          "História – Industrialização do Brasil",
+          "Geografia – Industrialização"
+        ]
+      },
+      {
+        "numeroEnunciado": 30,
+        "enunciado": "Observe as fotos, respectivamente de 1961 e de 1989.\n[Image of two photos, first showing a man in front of a tractor, second showing a man looking at a wall with graffiti, both from http://g1.globo.com]\nAs imagens podem ser utilizadas para",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "confirmar a política segregacionista e racista do nazismo."
+          },
+          {
+            "letra": "B",
+            "texto": "expor as tensões entre civis e militares no Maio de 1968 francês."
+          },
+          {
+            "letra": "C",
+            "texto": "demostrar a destruição provocada pela Segunda Guerra Mundial."
+          },
+          {
+            "letra": "D",
+            "texto": "simbolizar o acirramento e o fim da Guerra Fria."
+          },
+          {
+            "letra": "E",
+            "texto": "contrapor a ordem no mundo socialista à desordem do capitalismo."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – História Contemporânea",
+          "História – Guerra Fria"
+        ]
+      },
+      {
+        "numeroEnunciado": 31,
+        "enunciado": "O furacão é um sistema circular que se estende a alturas de 12 km a 14 km formando uma coluna elevada de ar em espiral. Um furacão como o da imagem ocorre\n[Image of a hurricane from https://earthdata.nasa.gov]",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "no hemisfério sul em uma superfície oceânica fria a cerca de 17 °C."
+          },
+          {
+            "letra": "B",
+            "texto": "no hemisfério sul em uma superfície oceânica aquecida a cerca de 27 °C."
+          },
+          {
+            "letra": "C",
+            "texto": "no hemisfério norte em uma superfície oceânica aquecida a cerca de 27 °C."
+          },
+          {
+            "letra": "D",
+            "texto": "na linha do equador em uma superfície oceânica aquecida a cerca de 27 °C."
+          },
+          {
+            "letra": "E",
+            "texto": "no hemisfério norte em uma superfície oceânica fria a cerca de 17 °C."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Climatologia",
+          "Geografia – Fenômenos Climáticos"
+        ]
+      },
+      {
+        "numeroEnunciado": 32,
+        "enunciado": "A projeção cartográfica de Robinson é uma das mais conhecidas do mundo. Elaborada na década de 1960, essa projeção é classificada como\n[Image of Robinson Projection from https://biblioteca.ibge.gov.br]",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "equivalente, com meridianos e paralelos retos."
+          },
+          {
+            "letra": "B",
+            "texto": "afilática, com meridianos em elipse e paralelos retos."
+          },
+          {
+            "letra": "C",
+            "texto": "equidistante, com meridianos em elipse e paralelos retos."
+          },
+          {
+            "letra": "D",
+            "texto": "conforme, com meridianos em elipse e paralelos retos."
+          },
+          {
+            "letra": "E",
+            "texto": "policônica, com meridianos e paralelos em elipse."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Geografia – Cartografia",
+          "Geografia – Projeções Cartográficas"
+        ]
+      },
+      {
+        "numeroEnunciado": 33,
+        "enunciado": "Acampamentos de imigrantes vindos da Venezuela foram destruídos por brasileiros em 18.08.2018, em Pacaraima (RR), na fronteira com o país vizinho, que sofre com uma crise humanitária e econômica.\n(www.correiobraziliense.com.br, 18.08.2018. Adaptado.)\nO excerto expressa uma ação de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "patriarcado, reconhecido pela Constituição Brasileira de 1988."
+          },
+          {
+            "letra": "B",
+            "texto": "terrorismo, intimidando o Estado para tomada de poder."
+          },
+          {
+            "letra": "C",
+            "texto": "nepotismo, exercido pelo poder público estadual."
+          },
+          {
+            "letra": "D",
+            "texto": "coronelismo, praticada por uma elite urbana."
+          },
+          {
+            "letra": "E",
+            "texto": "xenofobia, antipatia pelo que vem de fora."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Sociologia – Relações Étnico-Raciais",
+          "Sociologia – Questões Sociais Contemporâneas",
+          "Geografia – Migrações"
+        ]
+      },
+      {
+        "numeroEnunciado": 34,
+        "enunciado": "O Estatuto da Cidade \"estabelece normas de ordem pública e interesse social que regulam o uso da propriedade urbana em prol do bem coletivo, da segurança e bem-estar dos cidadãos, bem como do equilíbrio ambiental\" (Cap. I, art. 1º, § único). Dispõe que “a política urbana tem por objetivo ordenar o pleno funcionamento das funções sociais da cidade e da propriedade urbana (art. 2º).\n(www.planalto.gov.br. Adaptado.)\nUma das aplicações da função social das cidades corresponde",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à desapropriação de terrenos urbanos por improdutividade."
+          },
+          {
+            "letra": "B",
+            "texto": "aos protestos sociais para tratamento médico privado de usuários de drogas."
+          },
+          {
+            "letra": "C",
+            "texto": "à especulação imobiliária em áreas de preservação ambiental."
+          },
+          {
+            "letra": "D",
+            "texto": "aos protestos sociais por habitação popular."
+          },
+          {
+            "letra": "E",
+            "texto": "às manifestações da opinião pública sobre os problemas do metrô."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Geografia Urbana",
+          "Geografia – Legislação Ambiental e Urbana",
+          "Sociologia – Cidadania"
+        ]
+      },
+      {
+        "numeroEnunciado": 35,
+        "enunciado": "Em 14.08.2017, nas Nações Unidas, em Nova Iorque, começou a ser discutida a proposta portuguesa de extensão de sua plataforma continental. Agora para o início da discussão sobre a proposta de poder legal do país sobre os fundos marinhos para lá das 200 milhas marítimas, Portugal entregou uma adenda que contém um novo mapa das \"fronteiras\" da plataforma continental. Mas, o que é então a extensão da plataforma continental? Ao abrigo Convenção das Nações Unidas sobre o Mar (ou Lei do Mar da ONU), os países costeiros têm a oportunidade de alargar pacificamente o seu território no mar.\n(www.publico.pt, 15.08.2018. Adaptado.)\nA expansão da plataforma continental diz respeito, portanto, ao aumento",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "da soberania sobre o espaço aéreo sobrejacente."
+          },
+          {
+            "letra": "B",
+            "texto": "das taxações aduaneiras sobre o comércio externo."
+          },
+          {
+            "letra": "C",
+            "texto": "da soberania sobre os recursos naturais."
+          },
+          {
+            "letra": "D",
+            "texto": "da jurisdição sobre o solo e o subsolo marinhos."
+          },
+          {
+            "letra": "E",
+            "texto": "das taxações sobre as pesquisas científicas no oceano."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Geografia Política",
+          "Geografia – Geopolítica",
+          "Geografia – Direito Marítimo Internacional"
+        ]
+      },
+      {
+        "numeroEnunciado": 36,
+        "enunciado": "Sobre um mapa de escala 1:50000 foi demarcada uma área de conservação ambiental com o formato de um quadrado de 10 cm de lado.\nEsse quadrado demarcado no mapa corresponde à área real de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2,5 km²."
+          },
+          {
+            "letra": "B",
+            "texto": "250 km²."
+          },
+          {
+            "letra": "C",
+            "texto": "25 km²."
+          },
+          {
+            "letra": "D",
+            "texto": "7,5 km²."
+          },
+          {
+            "letra": "E",
+            "texto": "5 km²."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Escala Cartográfica",
+          "Matemática – Geometria Plana"
+        ]
+      },
+      {
+        "numeroEnunciado": 37,
+        "enunciado": "Analise o excerto e o mapa.\nRegião de solos rasos e pedregosos, com presença recorrente de Vertissolos, caracterizada por extenso processo de pediplanação gerador de superfícies de relevo plano pontuada por inselbergs residuais isolados ou agrupados.\n[Image of a Morphoclimatic Domains Map of Brazil]\nO domínio morfoclimático descrito no excerto corresponde, no mapa, ao número",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "5."
+          },
+          {
+            "letra": "B",
+            "texto": "6."
+          },
+          {
+            "letra": "C",
+            "texto": "3."
+          },
+          {
+            "letra": "D",
+            "texto": "2."
+          },
+          {
+            "letra": "E",
+            "texto": "4."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Domínios Morfoclimáticos",
+          "Geografia – Geomorfologia do Brasil"
+        ]
+      },
+      {
+        "numeroEnunciado": 38,
+        "enunciado": "Analise o gráfico.\n[Graph showing \"Contribuição para variação (milhares)\" vs \"Número de ocupados informais (milhares)\" and time (trimestre)]\nA partir da análise do gráfico, pode-se afirmar que, no cenário brasileiro,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o aumento da informalidade total no ano de 2017 é reflexo da estagnação da economia."
+          },
+          {
+            "letra": "B",
+            "texto": "a redução dos empregados sem contribuição no ano de 2014 é resultado do crescimento da economia."
+          },
+          {
+            "letra": "C",
+            "texto": "a redução dos assalariados sem carteira no ano de 2017 é consequência da retração da economia."
+          },
+          {
+            "letra": "D",
+            "texto": "o aumento dos trabalhadores por conta própria no ano de 2017 tem como causa o crescimento da indústria."
+          },
+          {
+            "letra": "E",
+            "texto": "a redução dos assalariados sem carteira no ano de 2014 reflete o aumento da qualificação profissional."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Economia Brasileira",
+          "Sociologia – Trabalho e Emprego"
+        ]
+      },
+      {
+        "numeroEnunciado": 39,
+        "enunciado": "O presidente americano, Donald Trump, anunciou em 08.05.2018 algo que há meses vinha ameaçando fazer: os Estados Unidos vão sair do acordo nuclear firmado em 2015 com o Irã. Logo após o anúncio, Trump assinou uma ordem presidencial para impor novas sanções econômicas ao país do Oriente Médio.\n(www.nexojornal.com.br. Adaptado.)\nPara o Irã, uma consequência da saída dos Estados Unidos do acordo nuclear de 2015 é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a aproximação com o Estado de Israel."
+          },
+          {
+            "letra": "B",
+            "texto": "a instabilidade política interna."
+          },
+          {
+            "letra": "C",
+            "texto": "o aumento de investimentos estrangeiros."
+          },
+          {
+            "letra": "D",
+            "texto": "a redução do seu desenvolvimento econômico."
+          },
+          {
+            "letra": "E",
+            "texto": "o aumento da exploração de petróleo."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – Relações Internacionais",
+          "Geografia – Geopolítica",
+          "Sociologia – Globalização"
+        ]
+      },
+      {
+        "numeroEnunciado": 40,
+        "enunciado": "Analise o mapa.\n[Map of the world showing countries that ratified, signed, or did not sign a specific international agreement on GMOs]\nO mapa refere-se a um protocolo internacional, ratificado por 170 países no ano de 2000, denominado",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Protocolo de Kyoto."
+          },
+          {
+            "letra": "B",
+            "texto": "Protocolo de Paris."
+          },
+          {
+            "letra": "C",
+            "texto": "Protocolo de Montreal."
+          },
+          {
+            "letra": "D",
+            "texto": "Protocolo de Berlim."
+          },
+          {
+            "letra": "E",
+            "texto": "Protocolo de Cartagena."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Meio Ambiente",
+          "Biologia – Biotecnologia",
+          "Geografia – Organizações Internacionais"
+        ]
+      },
+      {
+        "numeroEnunciado": 41,
+        "enunciado": "Após uma lagoa ter sido contaminada por chumbo, um ecólogo analisou alguns seres vivos que faziam parte da cadeia alimentar desse local.\nalgas → crustáceos → peixes carnívoros\nA concentração de chumbo e a energia acumulada em cada nível trófico foram analisadas ao longo dessa cadeia alimentar. As informações obtidas pela análise foram indicadas em uma pirâmide, em que a largura de cada retângulo representava a quantidade de energia e os pontos pretos representavam a concentração de chumbo acumulada em cada nível trófico. Assinale a alternativa que melhor representa a pirâmide obtida pelo ecólogo.\n[Images of five different ecological pyramids (A-E)]",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "[Pyramid A image]"
+          },
+          {
+            "letra": "B",
+            "texto": "[Pyramid B image]"
+          },
+          {
+            "letra": "C",
+            "texto": "[Pyramid C image]"
+          },
+          {
+            "letra": "D",
+            "texto": "[Pyramid D image]"
+          },
+          {
+            "letra": "E",
+            "texto": "[Pyramid E image]"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Ecologia",
+          "Biologia – Cadeias Alimentares",
+          "Biologia – Biomagnificação"
+        ]
+      },
+      {
+        "numeroEnunciado": 42,
+        "enunciado": "Em 1997, pesquisadores criaram Polly, uma ovelha contendo o gene humano F9, responsável pela produção do fator IX de coagulação e vital para indivíduos com hemofilia. Polly, assim como a famosa ovelha Dolly, foi gerada a partir da fusão de um óvulo anucleado com um fibroblasto fetal cultivado em laboratório, no qual o gene F9 foi previamente introduzido em seu genoma.\n(Lygia da Veiga Pereira. Clonagem: da ovelha Dolly às células-tronco, 2005. Adaptado.)\nDe acordo com o texto, a ovelha Polly foi gerada pela fusão de um óvulo anucleado com uma célula _______ submetida à técnica de __________.\nAs lacunas do texto devem ser preenchidas por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "germinativa e transgenia."
+          },
+          {
+            "letra": "B",
+            "texto": "somática e quimioterapia."
+          },
+          {
+            "letra": "C",
+            "texto": "germinativa e permutação induzida."
+          },
+          {
+            "letra": "D",
+            "texto": "somática e transgenia."
+          },
+          {
+            "letra": "E",
+            "texto": "germinativa e quimioterapia."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Genética",
+          "Biologia – Biotecnologia",
+          "Biologia – Clonagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 43,
+        "enunciado": "A figura ilustra o coração humano.\n[Image of a human heart with arrows indicating blood flow]\nA sístole indicada pelas setas 1 e 2 está ocorrendo nos",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "ventrículos, e promove a redução da pressão das artérias aorta e pulmonares."
+          },
+          {
+            "letra": "B",
+            "texto": "átrios, e promove o aumento da pressão das artérias aorta e pulmonares."
+          },
+          {
+            "letra": "C",
+            "texto": "átrios, e promove o aumento da pressão das veias cavas e pulmonares."
+          },
+          {
+            "letra": "D",
+            "texto": "ventrículos, e promove a redução da pressão das artérias cavas e pulmonares."
+          },
+          {
+            "letra": "E",
+            "texto": "ventrículos, e promove o aumento da pressão das artérias aorta e pulmonares."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Fisiologia Humana",
+          "Biologia – Sistema Circulatório"
+        ]
+      },
+      {
+        "numeroEnunciado": 44,
+        "enunciado": "A figura mostra a formação de uma estrutura embrionária X, presente nos cordados, que fica localizada acima da notocorda.\n[Image showing stages of embryonic development, pointing to neural tube (X) forming above notochord]\nA estrutura embrionária X se diferenciará, durante o seu desenvolvimento, em órgãos do sistema",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "digestório."
+          },
+          {
+            "letra": "B",
+            "texto": "esquelético."
+          },
+          {
+            "letra": "C",
+            "texto": "urinário."
+          },
+          {
+            "letra": "D",
+            "texto": "respiratório."
+          },
+          {
+            "letra": "E",
+            "texto": "nervoso."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Embriologia",
+          "Biologia – Cordados"
+        ]
+      },
+      {
+        "numeroEnunciado": 45,
+        "enunciado": "A figura esquematiza uma flor de angiosperma.\n[Image of a flower diagram with parts labeled]\nUm pesquisador procurava células com mutações gênicas nessa flor que poderiam ser transmitidas às futuras gerações dessa planta. Para que haja êxito nessa procura, ele deve analisar as células presentes",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "no receptáculo e nos estames."
+          },
+          {
+            "letra": "B",
+            "texto": "nas pétalas e nas sépalas."
+          },
+          {
+            "letra": "C",
+            "texto": "no estilete e no ovário."
+          },
+          {
+            "letra": "D",
+            "texto": "no estigma e no filete."
+          },
+          {
+            "letra": "E",
+            "texto": "na antera e no óvulo."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Botânica",
+          "Biologia – Reprodução de Angiospermas",
+          "Biologia – Genética"
+        ]
+      },
+      {
+        "numeroEnunciado": 46,
+        "enunciado": "A leishmaniose visceral humana é uma doença que afeta o baço e o fígado, provocando problemas imunológicos e quadros hemorrágicos. Em casos mais graves, pode causar a morte. Uma pessoa pode adquirir essa doença quando",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "é picada por fêmeas do mosquito Lutzomyia sp."
+          },
+          {
+            "letra": "B",
+            "texto": "entra em contato com fezes contaminadas de percevejos."
+          },
+          {
+            "letra": "C",
+            "texto": "nada em águas contaminadas com cercárias."
+          },
+          {
+            "letra": "D",
+            "texto": "anda descalça em solos úmidos com larvas de vermes."
+          },
+          {
+            "letra": "E",
+            "texto": "ingere verduras contaminadas com ovos de parasitas."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Parasitologia",
+          "Biologia – Doenças"
+        ]
+      },
+      {
+        "numeroEnunciado": 47,
+        "enunciado": "Os moluscos formam, depois dos artrópodes, o segundo maior filo dos metazoários em números de espécies. São características que ocorrem em todos os representantes dos moluscos:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "sistema nervoso dorsal e cabeça diferenciada."
+          },
+          {
+            "letra": "B",
+            "texto": "rádula e massa visceral."
+          },
+          {
+            "letra": "C",
+            "texto": "sistema circulatório aberto e manto."
+          },
+          {
+            "letra": "D",
+            "texto": "simetria bilateral e mesoderme na fase embrionária."
+          },
+          {
+            "letra": "E",
+            "texto": "sistema digestório completo e brânquias."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Zoologia",
+          "Biologia – Moluscos",
+          "Biologia – Embriologia"
+        ]
+      },
+      {
+        "numeroEnunciado": 48,
+        "enunciado": "Analise a seguinte reação química que ocorre no sangue humano.\nCO₂ + H₂O ⇌ H₂CO₃ ⇌ H⁺ + HCO₃⁻\nEssa reação química corresponde à principal forma de transporte",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "do gás carbônico."
+          },
+          {
+            "letra": "B",
+            "texto": "do elemento oxigênio."
+          },
+          {
+            "letra": "C",
+            "texto": "do ácido lático."
+          },
+          {
+            "letra": "D",
+            "texto": "da carboemoglobina."
+          },
+          {
+            "letra": "E",
+            "texto": "da carboxiemoglobina."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Equilíbrio Químico",
+          "Química – Funções Inorgânicas (Ácidos e Bases)",
+          "Biologia – Fisiologia Humana (Sistema Respiratório)"
+        ]
+      },
+      {
+        "numeroEnunciado": 49,
+        "enunciado": "A figura representa o código genético e deve ser lida do centro para a periferia. Cada base nitrogenada indicada no centro do disco corresponde à primeira base do códon.\n[Image of a Genetic Code Wheel]\nSuponha que três RNAt com os anticódons UGC, CAC e GUC tenham sido utilizados, nessa ordem, na síntese de um peptídeo. Segundo a figura do código genético, a sequência de aminoácidos que irá compor esse peptídeo e a sequência de bases nitrogenadas do gene expresso são, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Tre – Val – Glu e ACGGTGCAG."
+          },
+          {
+            "letra": "B",
+            "texto": "Cis – His – Val e ACGGTGCAG."
+          },
+          {
+            "letra": "C",
+            "texto": "Tre – Val – Gln e TGCCACGTC."
+          },
+          {
+            "letra": "D",
+            "texto": "Cis – His – Leu e AGCCACCTC."
+          },
+          {
+            "letra": "E",
+            "texto": "Met – Ser – Val e ACGGUGGUG."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Genética",
+          "Biologia – Biologia Molecular"
+        ]
+      },
+      {
+        "numeroEnunciado": 50,
+        "enunciado": "Analise o heredograma que apresenta uma família com algumas pessoas afetadas por uma doença.\n[Image of a pedigree chart]\nA partir do heredograma, conclui-se que a doença em questão é determinada por gene",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "dominante ligado ao cromossomo X."
+          },
+          {
+            "letra": "B",
+            "texto": "mitocondrial."
+          },
+          {
+            "letra": "C",
+            "texto": "recessivo ligado ao cromossomo Y."
+          },
+          {
+            "letra": "D",
+            "texto": "dominante autossômico."
+          },
+          {
+            "letra": "E",
+            "texto": "recessivo ligado ao cromossomo X."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Genética",
+          "Biologia – Herança Genética"
+        ]
+      },
+      {
+        "numeroEnunciado": 51,
+        "enunciado": "O esquema a seguir representa o processo de extração do óleo essencial de cascas de laranja.\n[Flowchart of extraction process: Cascas de laranja -> Processo 1 (Maceração das cascas com Éter) -> Sistema homogêneo -> Processo 2 (Separação do Éter e Óleo essencial)]\nOs números 1 e 2 correspondem a processos de separação de misturas denominados, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "dissolução fracionada e filtração."
+          },
+          {
+            "letra": "B",
+            "texto": "decantação e centrifugação."
+          },
+          {
+            "letra": "C",
+            "texto": "centrifugação e filtração."
+          },
+          {
+            "letra": "D",
+            "texto": "destilação e decantação."
+          },
+          {
+            "letra": "E",
+            "texto": "filtração e destilação."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Separação de Misturas",
+          "Química – Processos Físicos"
+        ]
+      },
+      {
+        "numeroEnunciado": 52,
+        "enunciado": "Em janeiro de 2018 foi encontrado em uma mina na África o quinto maior diamante (uma variedade alotrópica do carbono) do mundo, pesando 900 quilates. Considerando que um quilate equivale a uma massa de 200 mg, a quantidade, em mol, de átomos de carbono existente nesse diamante é igual a\n(Massa molar do C = 12 g/mol)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1,5 x 10¹."
+          },
+          {
+            "letra": "B",
+            "texto": "3,0 x 10¹."
+          },
+          {
+            "letra": "C",
+            "texto": "4,5 x 10¹."
+          },
+          {
+            "letra": "D",
+            "texto": "1,5 x 10⁴."
+          },
+          {
+            "letra": "E",
+            "texto": "3,0 x 10⁴."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Estequiometria",
+          "Matemática – Notação Científica"
+        ]
+      },
+      {
+        "numeroEnunciado": 53,
+        "enunciado": "Umectantes são substâncias que apresentam grande afinidade por moléculas de água e, por isso, têm a propriedade de manter a umidade dos materiais, sendo adicionados a bolos, bolachas, panetones e outros alimentos. A tabela a seguir apresenta algumas substâncias utilizadas na preparação de alimentos.\n[Table with Substance and Formula: Cloreto de sódio (NaCl), Bicarbonato de sódio (NaHCO3), Glicerina (C3H8O3), Benzoato de sódio (C7H5NaO2), Acetato de etila (C4H8O2)]\nA substância presente na tabela que possui composição adequada para atuar como umectante é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a glicerina."
+          },
+          {
+            "letra": "B",
+            "texto": "o cloreto de sódio."
+          },
+          {
+            "letra": "C",
+            "texto": "o benzoato de sódio."
+          },
+          {
+            "letra": "D",
+            "texto": "o bicarbonato de sódio."
+          },
+          {
+            "letra": "E",
+            "texto": "o acetato de etila."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Química Orgânica (Funções Orgânicas)",
+          "Química – Propriedades da Água",
+          "Química – Soluções"
+        ]
+      },
+      {
+        "numeroEnunciado": 54,
+        "enunciado": "Filtros contendo óxido de cálcio são utilizados no tratamento de biogás, removendo dele gases prejudiciais ao meio ambiente. Por ser uma substância com propriedades básicas, o óxido de cálcio é eficiente na remoção de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "CO₂ e H₂S."
+          },
+          {
+            "letra": "B",
+            "texto": "CO₂ e NH₃."
+          },
+          {
+            "letra": "C",
+            "texto": "NH₃ e H₂S."
+          },
+          {
+            "letra": "D",
+            "texto": "CO e NH₃."
+          },
+          {
+            "letra": "E",
+            "texto": "CO e CO₂."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Funções Inorgânicas (Óxidos, Ácidos e Bases)",
+          "Química – Reações Químicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 55,
+        "enunciado": "Em águas naturais, a acidez mineral pode ser formada através da oxidação de sulfetos, como indica a equação química a seguir:\n2FeS₂ + 7O₂ + 2H₂O → 2FeSO₄ + 2H₂SO₄\nEm uma amostra de água retirada de um rio, foi encontrada uma concentração de FeSO₄ igual a 0,02 mol/L. Nesse rio, a massa de FeS₂ dissolvida por litro de água era igual a\n(Massas molares: H = 1 g/mol; O = 16 g/mol; S = 32 g/mol; Fe = 56 g/mol)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,48 g."
+          },
+          {
+            "letra": "B",
+            "texto": "0,24 g."
+          },
+          {
+            "letra": "C",
+            "texto": "0,12 g."
+          },
+          {
+            "letra": "D",
+            "texto": "2,4 g."
+          },
+          {
+            "letra": "E",
+            "texto": "1,2 g."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Estequiometria",
+          "Química – Leis Ponderais"
+        ]
+      },
+      {
+        "numeroEnunciado": 56,
+        "enunciado": "A combinação dos elementos Ca e Br forma uma substância solúvel em água, de fórmula _______. Uma solução aquosa dessa substância é classificada como ___________ de eletricidade.\nAs lacunas do texto devem ser preenchidas por:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Ca₂Br – condutora."
+          },
+          {
+            "letra": "B",
+            "texto": "CaBr₂ - condutora."
+          },
+          {
+            "letra": "C",
+            "texto": "Ca₂Br – não condutora."
+          },
+          {
+            "letra": "D",
+            "texto": "CaBr₂ – não condutora."
+          },
+          {
+            "letra": "E",
+            "texto": "CaBr - condutora."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Ligações Químicas",
+          "Química – Funções Inorgânicas (Sais)",
+          "Física – Eletricidade (Condutividade Elétrica)"
+        ]
+      },
+      {
+        "numeroEnunciado": 57,
+        "enunciado": "O hipoclorito de sódio é utilizado na desinfecção da água para o consumo humano devido à ação oxidante do íon ClO⁻. No entanto, esse sal sofre hidrólise de acordo com a seguinte sequência de reações:\nNaClO → Na⁺ + ClO⁻\nClO⁻ + H₂O ⇌ HClO + OH⁻\nO número de oxidação do cloro no íon hipoclorito e a condição ideal para aumentar a concentração desse íon na solução são",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "+1 e pH < 7."
+          },
+          {
+            "letra": "B",
+            "texto": "-1 e pH > 7."
+          },
+          {
+            "letra": "C",
+            "texto": "+1 e pH > 7."
+          },
+          {
+            "letra": "D",
+            "texto": "+2 e pH > 7."
+          },
+          {
+            "letra": "E",
+            "texto": "-1 e pH < 7."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Oxirredução (Número de Oxidação)",
+          "Química – Equilíbrio Iônico (pH)",
+          "Química – Reações Ácido-Base"
+        ]
+      },
+      {
+        "numeroEnunciado": 58,
+        "enunciado": "Os gráficos apresentam dados cinéticos de uma mesma reação realizada sob duas condições diferentes.\n[Graphs showing Reaction Energy Diagrams (Enthalpy vs. Reaction Path) for Condition 1 and Condition 2]\nNa comparação entre as duas condições, verifica-se que:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "na condição 2, há uma diminuição da energia de ativação."
+          },
+          {
+            "letra": "B",
+            "texto": "na condição 2, há menor liberação de energia."
+          },
+          {
+            "letra": "C",
+            "texto": "na condição 2, a reação ocorre na presença de um catalisador."
+          },
+          {
+            "letra": "D",
+            "texto": "na condição 1, a reação é mais rápida."
+          },
+          {
+            "letra": "E",
+            "texto": "na condição 1, a energia do complexo ativado é maior."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Cinética Química",
+          "Química – Termoquímica"
+        ]
+      },
+      {
+        "numeroEnunciado": 59,
+        "enunciado": "A remoção da lactose de leite e derivados, necessária para que pessoas com intolerância a essa substância possam consumir esses produtos, é feita pela adição da enzima lactase no leite, que quebra a molécula de lactose, formando duas moléculas menores, conforme a equação:\n[Equation showing Lactose breaking down into Substance 1 (Glucose) and Substance 2 (Galactose)]\nAs substâncias 1 e 2 produzidas na quebra da lactose pertencem ao grupo de moléculas conhecidas como",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "glicerídeos."
+          },
+          {
+            "letra": "B",
+            "texto": "lipídeos."
+          },
+          {
+            "letra": "C",
+            "texto": "polímeros."
+          },
+          {
+            "letra": "D",
+            "texto": "aminoácidos."
+          },
+          {
+            "letra": "E",
+            "texto": "glicídios."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Bioquímica",
+          "Química – Química Orgânica (Carboidratos)",
+          "Biologia – Metabolismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 60,
+        "enunciado": "Tetraciclina e cefalosporina são antibióticos clássicos, cujas fórmulas estruturais estão representadas a seguir.\n[Structural formulas of Tetracycline and Cephalosporin]\nAs duas estruturas têm em comum as funções orgânicas",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "fenol e ácido carboxílico."
+          },
+          {
+            "letra": "B",
+            "texto": "cetona e amina."
+          },
+          {
+            "letra": "C",
+            "texto": "cetona e amida."
+          },
+          {
+            "letra": "D",
+            "texto": "amina e amida."
+          },
+          {
+            "letra": "E",
+            "texto": "amina e ácido carboxílico."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Química Orgânica (Funções Orgânicas)"
+        ]
+      },
+      {
+        "numeroEnunciado": 61,
+        "enunciado": "Ao se aproximar de um aeroporto, um avião se deslocava horizontalmente com velocidade de 115 m/s. Ao tocar a pista, cinco minutos depois da aproximação, sua velocidade horizontal era 70 m/s. O módulo da aceleração escalar média horizontal a que o avião ficou sujeito nesse trecho foi",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,23 m/s²."
+          },
+          {
+            "letra": "B",
+            "texto": "0,15 m/s²."
+          },
+          {
+            "letra": "C",
+            "texto": "0,35 m/s²."
+          },
+          {
+            "letra": "D",
+            "texto": "0,46 m/s²."
+          },
+          {
+            "letra": "E",
+            "texto": "0,75 m/s²."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Cinemática",
+          "Física – Movimento Retilíneo"
+        ]
+      },
+      {
+        "numeroEnunciado": 62,
+        "enunciado": "Analise o gráfico que mostra a variação da velocidade escalar, em função do tempo, de um automóvel de massa 1200 kg que se desloca em uma pista retilínea horizontal.\n[Graph of Velocity (m/s) vs. Time (s)]\nA intensidade média da força resultante sobre esse automóvel, no intervalo de tempo entre zero e quatro segundos, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2400 N."
+          },
+          {
+            "letra": "B",
+            "texto": "4800 N."
+          },
+          {
+            "letra": "C",
+            "texto": "3000 N."
+          },
+          {
+            "letra": "D",
+            "texto": "3600 N."
+          },
+          {
+            "letra": "E",
+            "texto": "480 N."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Dinâmica",
+          "Física – Leis de Newton",
+          "Física – Impulso e Quantidade de Movimento"
+        ]
+      },
+      {
+        "numeroEnunciado": 63,
+        "enunciado": "Uma pessoa parada sobre a linha do equador terrestre apresenta uma velocidade tangencial, devido à rotação da Terra, de módulo próximo a 1700 km/h.\n[Diagram showing Earth's rotation and a point in São José do Rio Preto]\nSabendo que sen 21° = 0,36 e cos 21° = 0,93, uma pessoa em repouso sobre o solo, em São José do Rio Preto, cuja latitude é aproximadamente $ = 21° Sul, tem uma velocidade tangencial de módulo próximo a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1830 km/h."
+          },
+          {
+            "letra": "B",
+            "texto": "610 km/h."
+          },
+          {
+            "letra": "C",
+            "texto": "1700 km/h."
+          },
+          {
+            "letra": "D",
+            "texto": "4700 km/h."
+          },
+          {
+            "letra": "E",
+            "texto": "1580 km/h."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Cinemática",
+          "Física – Movimento Circular",
+          "Matemática – Trigonometria"
+        ]
+      },
+      {
+        "numeroEnunciado": 64,
+        "enunciado": "A tabela mostra alguns dados referentes ao planeta Urano.\n[Table with data about Uranus: Distância média ao Sol, Período de translação ao redor do Sol, Período de rotação, Massa, Diâmetro equatorial, Aceleração gravitacional na superfície]\nPara calcular a força de atração gravitacional média entre o Sol e Urano, somente com os dados da tabela, deve-se usar apenas e necessariamente",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a distância média ao Sol, o período de translação ao redor do Sol e a massa."
+          },
+          {
+            "letra": "B",
+            "texto": "a distância média ao Sol, a massa e o diâmetro equatorial."
+          },
+          {
+            "letra": "C",
+            "texto": "a distância média ao Sol, a aceleração gravitacional na superfície e o período de rotação."
+          },
+          {
+            "letra": "D",
+            "texto": "o período de rotação, o diâmetro equatorial e a aceleração gravitacional na superfície."
+          },
+          {
+            "letra": "E",
+            "texto": "o período de translação ao redor do Sol, a massa e o diâmetro equatorial."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Gravitação",
+          "Física – Leis de Kepler"
+        ]
+      },
+      {
+        "numeroEnunciado": 65,
+        "enunciado": "Em 1643, Evangelista Torricelli realizou um experimento com o qual mediu a pressão atmosférica terrestre ao nível do mar. Encheu com mercúrio um tubo de aproximadamente 1 m de comprimento, fechou-o e, invertendo o tubo, mergulhou sua extremidade em outro recipiente também contendo mercúrio. Após a abertura da extremidade do tubo, o mercúrio desceu até estabilizar-se à altura de 76 cm.\n[Diagram of Torricelli's Experiment]\nAnos depois, por iniciativa de Blaise Pascal, o mesmo experimento foi realizado na França, no alto de uma montanha, e a coluna de mercúrio se estabilizou a uma altura de 60,8 cm.\nConsiderando a pressão atmosférica ao nível do mar igual a 1,0 × 10⁵ Pa e que a aceleração da gravidade tem o mesmo valor no alto da montanha e ao nível do mar, a pressão atmosférica no alto da montanha onde foi realizado o experimento era",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "8,0 × 10³ Pa."
+          },
+          {
+            "letra": "B",
+            "texto": "6,6 × 10⁴ Pa."
+          },
+          {
+            "letra": "C",
+            "texto": "1,25 x 10⁴ Pa."
+          },
+          {
+            "letra": "D",
+            "texto": "8,0 × 10⁴ Pa."
+          },
+          {
+            "letra": "E",
+            "texto": "6,6 x 10³ Pa."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Hidrostática",
+          "Física – Pressão Atmosférica"
+        ]
+      },
+      {
+        "numeroEnunciado": 66,
+        "enunciado": "Na ponte Rio-Niterói há aberturas, chamadas juntas de dilatação, que têm a função de acomodar a movimentação das estruturas devido às variações de temperatura.\n[Image of Rio-Niterói bridge structure]\nDe acordo com a empresa que administra a ponte, no trecho sobre a Baía de Guanabara as juntas de dilatação existem a cada 400 m, com cerca de 12 cm de abertura quando a temperatura está a 25 °C.\nSabendo que o coeficiente de dilatação linear do material que compõe a estrutura da ponte é 1,2 × 10⁻⁵ °C⁻¹, a máxima temperatura que o trecho da ponte sobre a Baía de Guanabara pode atingir, sem que suas partes se comprimam umas contra as outras, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "70 °C."
+          },
+          {
+            "letra": "B",
+            "texto": "65 °C."
+          },
+          {
+            "letra": "C",
+            "texto": "55 °C."
+          },
+          {
+            "letra": "D",
+            "texto": "50 °C."
+          },
+          {
+            "letra": "E",
+            "texto": "45 °C."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Termologia",
+          "Física – Dilatação Térmica"
+        ]
+      },
+      {
+        "numeroEnunciado": 67,
+        "enunciado": "Dois raios de luz monocromáticos incidem perpendicularmente em uma das faces de uma lâmina de vidro de faces paralelas, imersa no ar, como mostra a figura.\n[Diagram showing two parallel light rays incident on a glass slab in air]\nAssinale a alternativa que representa esses mesmos raios de luz, ao emergirem na face oposta à de incidência.\n[Images of five different light ray diagrams (A-E)]",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "[Diagram A]"
+          },
+          {
+            "letra": "B",
+            "texto": "[Diagram B]"
+          },
+          {
+            "letra": "C",
+            "texto": "[Diagram C]"
+          },
+          {
+            "letra": "D",
+            "texto": "[Diagram D]"
+          },
+          {
+            "letra": "E",
+            "texto": "[Diagram E]"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Óptica Geométrica",
+          "Física – Refração da Luz"
+        ]
+      },
+      {
+        "numeroEnunciado": 68,
+        "enunciado": "A figura representa, na mesma escala, duas ondas sonoras que se propagam no ar.\n[Graph of Pressure vs. Time for two sound waves]\nCom relação a essas ondas, pode-se afirmar que apresentam",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o mesmo período e a mesma velocidade de propagação."
+          },
+          {
+            "letra": "B",
+            "texto": "a mesma amplitude e a mesma frequência."
+          },
+          {
+            "letra": "C",
+            "texto": "o mesmo comprimento de onda e o mesmo período."
+          },
+          {
+            "letra": "D",
+            "texto": "a mesma frequência e o mesmo comprimento de onda."
+          },
+          {
+            "letra": "E",
+            "texto": "a mesma velocidade de propagação e a mesma amplitude."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Ondas",
+          "Física – Acústica"
+        ]
+      },
+      {
+        "numeroEnunciado": 69,
+        "enunciado": "A fotografia mostra um lustre que funciona com 21 lâmpadas idênticas, de valores nominais 40 W - 120 V, associadas em paralelo.\n[Image of a chandelier]\nAo ser ligado a uma diferença de potencial de 120 V e com suas 21 lâmpadas acesas, esse lustre é percorrido por uma corrente elétrica de intensidade",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "7,0 A."
+          },
+          {
+            "letra": "B",
+            "texto": "3,0 A."
+          },
+          {
+            "letra": "C",
+            "texto": "63 A."
+          },
+          {
+            "letra": "D",
+            "texto": "21 A."
+          },
+          {
+            "letra": "E",
+            "texto": "14 A."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Eletrodinâmica",
+          "Física – Circuitos Elétricos"
+        ]
+      },
+      {
+        "numeroEnunciado": 70,
+        "enunciado": "Três ímãs idênticos, em forma de barra, estão dispostos com uma de suas extremidades equidistantes de um ponto P, como mostra a figura.\n[Diagram of three bar magnets arranged around a point P]\nO campo de indução magnética resultante da ação dos três ímãs no ponto P é representado pelo vetor",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "[Vector A]"
+          },
+          {
+            "letra": "B",
+            "texto": "[Vector B]"
+          },
+          {
+            "letra": "C",
+            "texto": "[Vector C]"
+          },
+          {
+            "letra": "D",
+            "texto": "[Vector D]"
+          },
+          {
+            "letra": "E",
+            "texto": "nulo"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Eletromagnetismo",
+          "Física – Campo Magnético"
+        ]
+      },
+      {
+        "numeroEnunciado": 71,
+        "enunciado": "Uma pesquisa realizada pela Sociedade Brasileira de Cardiologia (SBC) constatou que os níveis elevados de colesterol atingem cerca de quatro em cada dez brasileiros adultos. Isso corresponde a cerca de 60 milhões de pessoas adultas. O estudo ainda revelou que aproximadamente 11% da população adulta brasileira nunca fez exame de colesterol.\n(https://noticias.r7.com, 08.08.2018. Adaptado.)\nA partir dos dados da notícia, é possível concluir que o número de brasileiros adultos que nunca fizeram exame de colesterol é de, aproximadamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2,64 milhões."
+          },
+          {
+            "letra": "B",
+            "texto": "8,6 milhões."
+          },
+          {
+            "letra": "C",
+            "texto": "6,6 milhões."
+          },
+          {
+            "letra": "D",
+            "texto": "3,96 milhões."
+          },
+          {
+            "letra": "E",
+            "texto": "16,5 milhões."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Porcentagem",
+          "Matemática – Regra de Três"
+        ]
+      },
+      {
+        "numeroEnunciado": 72,
+        "enunciado": "O infográfico indica o desempenho, em termos de aproveitamento percentual dos pontos possíveis, das principais seleções de futebol nas categorias masculino e feminino em Copas do Mundo.\n[Infographic showing performance of football teams in World Cups (male and female)]\nEm relação ao total de países indicados no infográfico, aqueles que obtiveram mais de 25% dos pontos na categoria feminino e menos de 50% dos pontos na categoria masculino em copas do mundo correspondem a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "25%."
+          },
+          {
+            "letra": "B",
+            "texto": "30%."
+          },
+          {
+            "letra": "C",
+            "texto": "35%."
+          },
+          {
+            "letra": "D",
+            "texto": "20%."
+          },
+          {
+            "letra": "E",
+            "texto": "40%."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Análise de Gráficos e Tabelas",
+          "Matemática – Porcentagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 73,
+        "enunciado": "Considere os pontos da malha quadriculada da figura.\n[Grid with red and black polygons and a green line]\nSe a soma das áreas dos polígonos indicados em vermelho é igual a 16 cm², então a medida do segmento de reta indicado em verde é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "3√2 / 4 cm"
+          },
+          {
+            "letra": "B",
+            "texto": "4√2 cm"
+          },
+          {
+            "letra": "C",
+            "texto": "3√3 / 4 cm"
+          },
+          {
+            "letra": "D",
+            "texto": "4√2 / 3 cm"
+          },
+          {
+            "letra": "E",
+            "texto": "4√3 / 3 cm"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Geometria Plana",
+          "Matemática – Áreas"
+        ]
+      },
+      {
+        "numeroEnunciado": 74,
+        "enunciado": "O gráfico de uma função polinomial do 1º grau f: IR → IR, dada por f(x) = ax + b, é uma reta de coeficiente angular positivo. Sabe-se ainda que f(f(x)) = 25x + 9. Assim, a intersecção do gráfico de f com o eixo y se dá em um ponto de ordenada",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "4/3"
+          },
+          {
+            "letra": "B",
+            "texto": "5/3"
+          },
+          {
+            "letra": "C",
+            "texto": "1/2"
+          },
+          {
+            "letra": "D",
+            "texto": "-4/3"
+          },
+          {
+            "letra": "E",
+            "texto": "3/2"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Funções",
+          "Matemática – Função Afim"
+        ]
+      },
+      {
+        "numeroEnunciado": 75,
+        "enunciado": "As bases do sólido ilustrado na figura 1, destacadas em amarelo, são figuras congruentes contidas em planos paralelos, que distam entre si 6 unidades de comprimento. A base inferior desse sólido, apresentada na figura 2, é limitada por arcos de circunferências centradas em (2, 0), (4, 0) e (4, 2) e por dois segmentos de reta.\n[Figure 1 showing a 3D solid, Figure 2 showing the 2D base]\nO volume do sólido indicado na figura 1, em unidades de volume do sistema de coordenadas cartesianas Oxyz, é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "17π."
+          },
+          {
+            "letra": "B",
+            "texto": "18π."
+          },
+          {
+            "letra": "C",
+            "texto": "16,5π."
+          },
+          {
+            "letra": "D",
+            "texto": "16π."
+          },
+          {
+            "letra": "E",
+            "texto": "17,5π."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Geometria Espacial",
+          "Matemática – Coordenadas Cartesianas",
+          "Matemática – Áreas e Volumes"
+        ]
+      },
+      {
+        "numeroEnunciado": 76,
+        "enunciado": "Os dados honestos P e Q possuem seis e oito faces, respectivamente. As faces de P estão numeradas com –2, –1, 0, 1, 2 e 3. As faces de Q estão numeradas com –4, –3, –2, –1, 0, 1, 2 e 3. Lançando-se P e Q simultânea e aleatoriamente, a probabilidade de que a soma dos números obtidos seja maior que –1 é de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "68,75%."
+          },
+          {
+            "letra": "B",
+            "texto": "62,50%."
+          },
+          {
+            "letra": "C",
+            "texto": "56,25%."
+          },
+          {
+            "letra": "D",
+            "texto": "58,50%."
+          },
+          {
+            "letra": "E",
+            "texto": "60,25%."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Probabilidade"
+        ]
+      },
+      {
+        "numeroEnunciado": 77,
+        "enunciado": "Duas equipes de escavação vão perfurar um túnel AB em uma montanha, sendo que uma delas partirá de A e a outra de B, a fim de se encontrarem. Para cavar nas direções corretas os engenheiros precisam determinar as medidas dos ângulos α e β, indicados na figura, que essa direção forma com as retas perpendiculares AC e BC, respectivamente.\n[Diagram of tunnel construction with angles α and β]\nDe acordo com o projeto e com os dados fornecidos, α e β são, respectivamente, iguais a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "18,4° e 71,6°."
+          },
+          {
+            "letra": "B",
+            "texto": "21,8° e 68,2°."
+          },
+          {
+            "letra": "C",
+            "texto": "14° e 76°."
+          },
+          {
+            "letra": "D",
+            "texto": "26,6° e 63,4°."
+          },
+          {
+            "letra": "E",
+            "texto": "16° e 74°."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Geometria Plana",
+          "Matemática – Trigonometria"
+        ]
+      },
+      {
+        "numeroEnunciado": 78,
+        "enunciado": "A figura indica os gráficos das funções f e g, definidas de IR em IR, cujas leis são, respectivamente, f(x) = 4log x e g(x) = 3log x.\n[Graph of y = 4log x and y = 3log x]\nO valor de m, indicado na figura, é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "log 12"
+          },
+          {
+            "letra": "B",
+            "texto": "20,75"
+          },
+          {
+            "letra": "C",
+            "texto": "log 7"
+          },
+          {
+            "letra": "D",
+            "texto": "20,25"
+          },
+          {
+            "letra": "E",
+            "texto": "21,25"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Funções Logarítmicas",
+          "Matemática – Equações"
+        ]
+      },
+      {
+        "numeroEnunciado": 79,
+        "enunciado": "A figura, feita em escala, indica um painel formado por sete retângulos amarelos idênticos e dois retângulos azuis idênticos. Cada retângulo azul tem dimensões x e y, ambas em metros.\n[Diagram of a panel with yellow and blue rectangles]\nNa situação descrita, x – y é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2,5 m."
+          },
+          {
+            "letra": "B",
+            "texto": "4 m."
+          },
+          {
+            "letra": "C",
+            "texto": "3,5 m."
+          },
+          {
+            "letra": "D",
+            "texto": "3 m."
+          },
+          {
+            "letra": "E",
+            "texto": "2 m."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Geometria Plana",
+          "Matemática – Sistemas Lineares"
+        ]
+      },
+      {
+        "numeroEnunciado": 80,
+        "enunciado": "A matriz quadrada M = \n[ 1 0 ]\n[ 0 2 ]\nrepresenta uma mensagem codificada. A mensagem decodificada é a matriz quadrada M⁻¹ = \n[ x y ]\n[ z w ]\ntal que M⁻¹ é a inversa da matriz M. Sendo assim, o valor de x + y + z + w é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "-1"
+          },
+          {
+            "letra": "B",
+            "texto": "0"
+          },
+          {
+            "letra": "C",
+            "texto": "1"
+          },
+          {
+            "letra": "D",
+            "texto": "1/2"
+          },
+          {
+            "letra": "E",
+            "texto": "1"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Álgebra Linear",
+          "Matemática – Matrizes"
+        ]
+      }
+    ]
+  }
+}
