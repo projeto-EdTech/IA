@@ -1,0 +1,672 @@
+{
+  "prova": {
+    "nomeUniversidade": "UNIVERSIDADE FEDERAL DE RORAIMA",
+    "siglaUniversidade": "UFRR",
+    "nomeProva": "VESTIBULAR",
+    "ano": 2019,
+    "qtdeQuestoes": 24,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "Leia atentamente todas as alternativas e marque aquela em que as palavras destacadas nos exemplos são homônimas perfeitas, homógrafas e parônimas, nesta ordem.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Eu como tomates todos os dias. / Vivo como se não houvesse amanhã. O molho está saboroso. / Eu molho as roupas com água da chuva. O desabamento do prédio é iminente. / Trata-se de um eminente pesquisador."
+          },
+          {
+            "letra": "B",
+            "texto": "É preciso retificar o documento. / É preciso ratificar o documento. Eu não cedo a pressões. / Ainda é cedo para ir embora. O governo aumentou os preços. / Eu governo a minha vida!"
+          },
+          {
+            "letra": "C",
+            "texto": "Sempre olho para frente. / Seu olho parece irritado. O tráfego foi interrompido. / Isso é tráfico de influência. Eu caminho para a escola. / O caminho para a escola é íngreme."
+          },
+          {
+            "letra": "D",
+            "texto": "Quer que eu leve a salada? / A salada está leve. Quem é o dirigente máximo? / Quem é o mais diligente? A colher é para a sopa. / Eles vão colher as uvas maduras."
+          },
+          {
+            "letra": "E",
+            "texto": "A corte está em festa / O corte foi profundo. Eu rio sempre que ouço aquela piada. / A cidade é cortada por um rio. O rapaz é um cavalheiro! / O cavaleiro venceu a prova."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Semântica"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "Em meio ao burburinho, a jovem e bonita repórter atravessou o grande salão e se aproximou do local onde estava o centro das atenções. Sentado atrás da mesa, o jovem procurador do Ministério Público Federal e agora aspirante a escritor, Maurício Khaled Ramos, que nessa noite estava lançando seu primeiro livro...! GARMATZ, B. C. O Homem de Barlovento. 2012. p. 14 Marque a alternativa que apresenta palavras que podem, respectivamente, substituir aquelas destacadas no texto sem prejuízo de sentido.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Algazarra; inspirador; atirando."
+          },
+          {
+            "letra": "B",
+            "texto": "Quietude; pretendente; enviando."
+          },
+          {
+            "letra": "C",
+            "texto": "Bulício; pretendente; promovendo."
+          },
+          {
+            "letra": "D",
+            "texto": "Silêncio; insuflador; promovendo."
+          },
+          {
+            "letra": "E",
+            "texto": "Gritaria; influenciador; recendendo."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Semântica"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "A propósito dos primórdios da Literatura Brasileira, Alfredo Bosi diz que: Os primeiros escritos da nossa vida documentam precisamente a instauração do processo: são informações que viajantes e missionários europeus colheram sobre a natureza do homem brasileiro. Enquanto informação, não pertencem à categoria do literário, mas à pura crônica histórica e, por isso, há quem as omita por escrúpulo estético (José Veríssimo, por exemplo, na sua História da Literatura Brasileira). No entanto, a pré-história das nossas letras interessa como reflexo da visão do mundo e da linguagem que nos legaram os primeiros observadores do país. BOSI, Alfredo. História concisa da Literatura Brasileira. 47.ed. São Paulo: Cultrix, 2006 São exemplos de textos de informação de que o autor fala acima:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Carta, de Pero Vaz de Caminha; Sermão da Sexagésima, de Pe. Antonio Vieira; Caramuru, de Frei José de Santa Rita Durão."
+          },
+          {
+            "letra": "B",
+            "texto": "Diário de Navegação, de Pero Lopes de Sousa; Canção do Exílio, de Gonçalves Dias; As Joias da Coroa, de Raul Pompéia."
+          },
+          {
+            "letra": "C",
+            "texto": "Carta, de Pero Vaz de Caminha; Caramuru, de Frei José de Santa Rita Durão; Os Índios do Jaguaribe, de Franklin Távora."
+          },
+          {
+            "letra": "D",
+            "texto": "Diálogo sobre a conversão do gentio, do Pe. Manuel da Nóbrega; Sermão da Sexagésima, de Pe. Antonio Vieira; Canção do Exílio, de Gonçalves Dias."
+          },
+          {
+            "letra": "E",
+            "texto": "Diálogo sobre a conversão do gentio, de Pe. Manuel da Nóbrega; Carta, de Pero Vaz de Caminha; Diário de Navegação, de Pero Lopes de Sousa."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Literatura Brasileira"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "Considerando a informação de uma concessionária, de que 310 veículos passaram pela praça de pedágio em um intervalo de 5 horas, e que o número de veículos dobrou a cada hora, é CORRETO afirmar que a quantidade de veículos que passaram na quinta hora de observação, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "155"
+          },
+          {
+            "letra": "B",
+            "texto": "150"
+          },
+          {
+            "letra": "C",
+            "texto": "140"
+          },
+          {
+            "letra": "D",
+            "texto": "80"
+          },
+          {
+            "letra": "E",
+            "texto": "160"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Progressões"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "Mitocôndrias e cloroplastos são organelas encontradas apenas nas células eucariotas. A respeito dessas organelas é CORRETO afirmar que:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "cloroplastos e mitocôndrias são envolvidas por uma membrana lipoproteica simples, semelhante à membrana plasmática."
+          },
+          {
+            "letra": "B",
+            "texto": "a ausência de cloroplastos e mitocôndrias nas células procariotas torna-as incapazes de realizar fotossíntese e respiração aeróbica."
+          },
+          {
+            "letra": "C",
+            "texto": "nas células vegetais os cloroplastos atuam durante o dia realizando fotossíntese e as mitocondrias atuam durante a noite realizando respiração aeróbica."
+          },
+          {
+            "letra": "D",
+            "texto": "cloroplastos e mitocôndrias têm o seu próprio DNA e ribossomos, sendo capazes de se autoduplicar e produzir proteínas."
+          },
+          {
+            "letra": "E",
+            "texto": "durante a fotossíntese os cloroplastos produzem a maioria do ATP utilizado pelas células vegetais em processos metabólicos como o transporte ativo de íons."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Biologia Celular"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "O quadro a seguir apresenta uma comparação entre eventos que ocorrem na mitose e na meiose. Assinale a alternativa em que a linha do quadro apresenta os dois eventos corretos. MITOSE: Células filhas geneticamente idênticas à célula mãe. MEIOSE: Células filhas geneticamente diferentes da célula mãe. MITOSE: Produção de células diploides. MEIOSE: Produção de células haploides ou diploides. MITOSE: Segregação dos cromossomos homólogos. MEIOSE: Segregação das cromátides irmãs. MITOSE: Duplicação dos cromossomos antes do início da divisão. MEIOSE: Duplicação dos cromossomos ocorre somente em células haploides. MITOSE: Presença de permutação entre cromossomos homólogos. MEIOSE: Presença de permutação entre cromossomos homólogos.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "MITOSE: Células filhas geneticamente idênticas à célula mãe. MEIOSE: Células filhas geneticamente diferentes da célula mãe."
+          },
+          {
+            "letra": "B",
+            "texto": "MITOSE: Produção de células diploides. MEIOSE: Produção de células haploides ou diploides."
+          },
+          {
+            "letra": "C",
+            "texto": "MITOSE: Segregação dos cromossomos homólogos. MEIOSE: Segregação das cromátides irmãs."
+          },
+          {
+            "letra": "D",
+            "texto": "MITOSE: Duplicação dos cromossomos antes do início da divisão. MEIOSE: Duplicação dos cromossomos ocorre somente em células haploides."
+          },
+          {
+            "letra": "E",
+            "texto": "MITOSE: Presença de permutação entre cromossomos homólogos. MEIOSE: Presença de permutação entre cromossomos homólogos."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Genética"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "Retículo endoplasmático granular (rugoso) deve ser encontrado em maior quantidade em:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "hemácias do tecido sanguíneo."
+          },
+          {
+            "letra": "B",
+            "texto": "osteócitos do tecido conjuntivo ósseo."
+          },
+          {
+            "letra": "C",
+            "texto": "adipócitos do tecido conjuntivo adiposo."
+          },
+          {
+            "letra": "D",
+            "texto": "células do tecido epitelial glandular salivar."
+          },
+          {
+            "letra": "E",
+            "texto": "células fagocitárias(macrófagos) do tecido conjuntivo frouxo."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Biologia Celular"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "Um corpo de massa 10 kg encontra-se sobre uma mesa e a 80 cm do solo. Se tomarmos o solo como referência, a energia potencial gravitacional associada ao corpo é de: Dados: energia potencial gravitacional de referência no solo = 20 J; g= 10 m/s².",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "80 J"
+          },
+          {
+            "letra": "B",
+            "texto": "8 J"
+          },
+          {
+            "letra": "C",
+            "texto": "60 J"
+          },
+          {
+            "letra": "D",
+            "texto": "100 J"
+          },
+          {
+            "letra": "E",
+            "texto": "200 J"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Mecânica"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "Um bloco de massa M está apoiado em um plano inclinado conforme o desenho (imagem de um bloco em um plano inclinado com ângulo de 30°). O ângulo que o plano forma com a horizontal pode ser variado por meio de um mecanismo especial. O bloco começa a deslizar sobre o plano quando o ângulo atinge 30°. Considere que, no instante em o que o bloco começa a deslizar, o somatório das forças sobre ele é zero. Nessas condições, podemos afirmar que o valor do coeficiente de atrito estático entre o bloco e o plano é igual a: Dados: Sen 30° = 1/2; cos 30° = √3/2",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "√3"
+          },
+          {
+            "letra": "B",
+            "texto": "1/2"
+          },
+          {
+            "letra": "C",
+            "texto": "√2/2"
+          },
+          {
+            "letra": "D",
+            "texto": "1"
+          },
+          {
+            "letra": "E",
+            "texto": "√3/3"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Mecânica"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "Analise as assertivas a seguir e marque a CORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Em um movimento circular uniforme a velocidade pode variar."
+          },
+          {
+            "letra": "B",
+            "texto": "Um corpo somente estará em repouso se nenhuma força atuar sobre ele."
+          },
+          {
+            "letra": "C",
+            "texto": "O Princípio da Conservação da Energia não é obedecido se o atrito for considerado."
+          },
+          {
+            "letra": "D",
+            "texto": "Um corpo somente pode estar em movimento se a resultante das forças que atuar sobre ele for diferente de zero."
+          },
+          {
+            "letra": "E",
+            "texto": "O empuxo é a força que o fluido faz sobre um corpo mergulhado nele e é igual ao peso desse corpo."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Mecânica"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "Homem morre atingido por poste após passagem de ciclone no RS. Ciclones são fenômenos atmosféricos que podem impactar o conjunto da sociedade, causando estragos por onde passam, especialmente, a depender da sua intensidade. Fonte: https://brasil.estadao.com.br/noticias/geral,homem-morre-atingido-por-poste-apos-passagem-de-ciclone-no-rio-grande-do-sul,10000076001 Acesso em 10. Out. 2018). Sobre os ciclones tropicais, é CORRETO afirmar que eles:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "giram em torno de um centro de baixa pressão, atingindo as regiões equatoriais e, principalmente, as tropicais."
+          },
+          {
+            "letra": "B",
+            "texto": "serão chamados de tufão quando ocorrerem sobre as águas do Atlântico, Caribe e nordeste do Pacífico."
+          },
+          {
+            "letra": "C",
+            "texto": "iniciam-se em regiões oceânicas onde a temperatura não ultrapassa os 27° C, com intensa evaporação da água."
+          },
+          {
+            "letra": "D",
+            "texto": "formam-se a partir do resfriamento de uma determinada superfície que origina um centro de baixa pressão atmosférica."
+          },
+          {
+            "letra": "E",
+            "texto": "giram no sentido anti-horário quando se formam no hemisfério sul, e no sentido horário quando se formam no hemisfério norte."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Climatologia"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "A Flona de Roraima (Floresta Nacional de Roraima) é uma Unidade de Conservação (UC) Federal que se enquadra na categoria de Uso Sustentável porque concilia a conservação da natureza com o uso sustentável dos recursos naturais. Em toda sua extensão existem diferentes características bióticas e abióticas, entre elas o clima. Considerando a classificação climática de Köppen, sobre o clima nessa porção do território de Roraima, é CORRETO afirmar a ocorrência de clima:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Tropical (As) com estação seca de verão, com precipitação média do mês mais seco inferior a 60 mm, predominando no setor sul."
+          },
+          {
+            "letra": "B",
+            "texto": "Tropical Chuvoso tipo monção (Am), onde ocorre precipitação excessiva durante alguns meses, com a ocorrência de dois ou três meses de precipitação inferior a 60 mm, predominando no setor oeste (menor parte)."
+          },
+          {
+            "letra": "C",
+            "texto": "Equatorial Úmido (Af) com ocorrência de precipitação em todos os meses do ano e existência de estação seca definida, predominando no setor norte."
+          },
+          {
+            "letra": "D",
+            "texto": "Tropical Chuvoso (Aw) apresentando precipitação média do mês mais seco superior a 120 mm, com nítida estação seca, predominando no setor leste (menor parte)."
+          },
+          {
+            "letra": "E",
+            "texto": "Tropical Chuvoso tipo monção (Aw), com seca na maior parte dos meses, o que compensa a ocorrência de dois ou três meses de precipitação inferior a 30 mm, predominando no setor central."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Geografia – Climatologia"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "Em cartografia, a projeção permite representar a esfericidade terrestre em um plano (mapas e cartas). Quanto às propriedades da projeção, ela serve para minimizar as deformações ocorridas pela planificação da superfície terrestre no que diz respeito às áreas, aos ângulos ou às distâncias. Considere as assertivas a seguir e assinale a alternativa CORRETA. I. A projeção equivalente não altera as áreas, conservando, assim, uma relação constante com a sua correspondência na superfície terrestre, como é possível observar na projeção de Berhmann. II. A projeção conforme não produz a deformação dos ângulos em torno de quaisquer pontos, como na projeção de Mercator. III. Na projeção equidistante os comprimentos são representados em escala multiforme angular, a exemplo da projeção de Robinson.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "I, II e III são verdadeiras."
+          },
+          {
+            "letra": "B",
+            "texto": "Somente II e III são verdadeiras."
+          },
+          {
+            "letra": "C",
+            "texto": "Somente I é verdadeira."
+          },
+          {
+            "letra": "D",
+            "texto": "Somente I e III são verdadeiras."
+          },
+          {
+            "letra": "E",
+            "texto": "Somente I e II são verdadeiras."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Cartografia"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "Na Grécia antiga, a partir do século VII a.C., houve um fenômeno de proporções significativas que alcançou os dias atuais. Trata-se do surgimento da Filosofia como mecanismo de construção do conhecimento baseado na razão. Dentre as várias discussões, que iam da composição do Cosmo até a virtude moral do Ser Humano, destaca-se a criação de um método, por parte de Sócrates, que propunha o caminho do conhecimento rumo à verdade. Assinale a alternativa que mostra a estrutura proposta por este método socrático.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "A percepção dos conflitos como base do grande desafio, ou seja, o alcance da verdade residente no interior do indivíduo. Este método ficou conhecido como dialética e polemou."
+          },
+          {
+            "letra": "B",
+            "texto": "A construção do conhecimento pela sondagem e observação dos fenômenos comportamentais dos indivíduos. Este método ficou conhecido como empiria e ereyna."
+          },
+          {
+            "letra": "C",
+            "texto": "A negação da realidade e a busca da retórica convincente, fazendo com que a narrativa fosse determinante. Este método ficou conhecido como homilia e afegese."
+          },
+          {
+            "letra": "D",
+            "texto": "A refutação do senso comum para que o verdadeiro conhecimento, que residia no interior do indivíduo, viesse à tona. Este método ficou conhecido como ironia e maiêutica."
+          },
+          {
+            "letra": "E",
+            "texto": "A confirmação do ceticismo por meio da negação de qualquer possibilidade de se conhecer o universo ao redor. Este método ficou conhecido como skeptico e agnosto."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – Grécia Antiga",
+          "Filosofia – Filosofia Antiga"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "Na China, a dinastia Tang (618-907) – que foi precedida pela dinastia Sui (589-618) – esteve no auge do poder até meados do século VIII. Esta dinastia, fundada por Lĩ Yuân que se tornou o Imperador Gāozŭ de Táng, esteve no poder por um longo tempo, exercendo domínio sobre povos nômades do centro da Ásia. Assim sendo, com base no período descrito, assinale a assertiva INCORRETA:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "As áreas urbanas, como Changan, tornaram-se centros cosmopolitas com importante comércio e relevante manufatura."
+          },
+          {
+            "letra": "B",
+            "texto": "Neste período ocorre o florescimento da porcelana, da escultura, da literatura e das artes, principalmente a poesia lírica."
+          },
+          {
+            "letra": "C",
+            "texto": "Houve a reabertura lucrativa da Rota da Seda proporcionando o acesso à Pérsia, à Índia, à Ásia Central e ao Oriente Médio."
+          },
+          {
+            "letra": "D",
+            "texto": "Destaca-se neste período a xilografia, impressão por meio de tipos feitos de blocos de madeira utilizados para a produção de textos."
+          },
+          {
+            "letra": "E",
+            "texto": "Na dinastia Tang houve o destaque do imperador Yāmatŭ Tza Táng (811-876) que fortaleceu a região de Honshŭ por meio de uma forte produção agrícola."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – História da China"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "Em 610 surgiu o islamismo com Maomé, um mercador que vivia em Meca e que afirmou ter recebido, por meio de uma visão, a missão de proclamar a grandeza de Alá. Sua mensagem atraiu seguidores, mas também despertou a desconfiança e a hostilidade por parte das autoridades locais. Tal situação fez com que o referido pregador fugisse para poupar a própria vida. Tomando como base o exposto anteriormente, leia as alternativas a seguir e assinale a CORRETA.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Esta fuga aconteceu em 16 de julho de 622 e ficou conhecida como Hégira, fazendo com que o calendário islâmico tivesse início nesta data."
+          },
+          {
+            "letra": "B",
+            "texto": "Esta fuga aconteceu em 14 de julho de 612 e promoveu o início das vertentes Sunita (responsável pela criação da Sharia) e Xiita (responsável pela composição do Corão)."
+          },
+          {
+            "letra": "C",
+            "texto": "Esta fuga aconteceu em 17 de setembro de 620, sendo Maomé auxiliado por seu tio, Abbas, que o levou para Murak-Al-Banim e o protegeu em sua propriedade."
+          },
+          {
+            "letra": "D",
+            "texto": "Esta fuga aconteceu em meados de 618 e imediatamente causou o surgimento dos califados de Abássida, de Fatímida e de Aiúbidas, fortes protetores do islamismo no Médio Oriente."
+          },
+          {
+            "letra": "E",
+            "texto": "Esta fuga aconteceu em 13 dezembro de 610 quando Maomé foi para Medina e construiu ali a mesquita de Al-Khebah."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – Mundo Islâmico"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "Uma equipe de cientistas no Japão acaba de iniciar um dos projetos mais apaixonantes da física nos últimos tempos: a busca do elemento 119 da tabela periódica. O novo elemento, batizado temporariamente de ununennio (um, um, nove, em latim), inauguraria uma nova linha seria a oitava na tabela periódica proposta em 1869 pelo químico russo Dmitri Mendeleev. A ordem da primeira coluna, recitada de cor por qualquer estudante, ficaria assim: hidrogênio, lítio, sódio, potássio, rubídio, césio, frâncio e ununennio. Fonte: Revista Ciência Hoje, 09/01/2018. Embora essa síntese ainda esteja em fase preliminar, caso o novo elemento venha a ser confirmado, será possível afirmar que o ununennio:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "ficará localizado no primeiro período e na família 8."
+          },
+          {
+            "letra": "B",
+            "texto": "será o elemento menos eletronegativo da tabela."
+          },
+          {
+            "letra": "C",
+            "texto": "terá configuração eletrônica semelhante ao gás nobre."
+          },
+          {
+            "letra": "D",
+            "texto": "possuirá propriedades químicas semelhantes ao elemento sódio e alto potencial de ionização."
+          },
+          {
+            "letra": "E",
+            "texto": "formará compostos com halogênios na proporção 1:2."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Tabela Periódica"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "Considere a reação de neutralização total entre: • Oxiácido formado pelo calcogênio do 3º período no seu maior estado de oxidação. • Hidróxido composto pelo metal mais eletropositivo com 3 níveis eletrônicos. A fórmula química e a respectiva nomenclatura do composto formado são:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "NaSO3 - sulfeto de sódio."
+          },
+          {
+            "letra": "B",
+            "texto": "NaS - sulfeto de sódio."
+          },
+          {
+            "letra": "C",
+            "texto": "Na2SO4 - sulfato de sódio."
+          },
+          {
+            "letra": "D",
+            "texto": "Al2(SO4)3 – sulfito de alumínio."
+          },
+          {
+            "letra": "E",
+            "texto": "Al2S3 - sulfato de alumínio."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Funções Inorgânicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "Há exatos cem anos ocorria um dos maiores naufrágios da história, o do transatlântico RMS Titanic. Dos 2.201 ocupantes, 1.490 morreram. Talvez nenhuma outra catástrofe marítima tenha tido impacto tão forte na opinião pública. Fonte: Ethevaldo Siqueira - O Estado de S. Paulo, em 15 de abril de 2012. Relatos afirmam que o Comandante Edward Smith e oficiais receberam cerca de uma dúzia de mensagens telegráficas, dando conta do elevado número de icebergs na rota. Se eles tivessem levado a sério as advertências, o Titanic poderia ter desviado apenas alguns graus de latitude sul e o risco de acidente seria reduzido. No dia 14 de abril, às 23h40, o observador de bordo viu um iceberg, centenas de metros à frente. Mesmo após as tentativas do oficial de plantão, William Murdoch, de desviar a direção do navio e dar marcha a ré, o impacto se deu em apenas 37 segundos. Observe a figura a seguir: Comparações O iceberg 30M 120 M 223 M 304 M. Essa imagem deixa claro que a parte visível de um iceberg é muito menor que sua parte submersa, região atingida pelo choque com o Titanic. Com base nessa afirmação, pode-se afirmar que após o impacto:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o volume total do iceberg não foi alterado."
+          },
+          {
+            "letra": "B",
+            "texto": "a densidade do iceberg diminuiu pois o volume também diminui."
+          },
+          {
+            "letra": "C",
+            "texto": "como densidade e volume são diretamente proporcionais, a densidade do iceberg reduziu de valor."
+          },
+          {
+            "letra": "D",
+            "texto": "a densidade do iceberg não sofreu alteração porque a relação entre a massa de gelo acima do nível do mar e abaixo dele, permaneceu constante."
+          },
+          {
+            "letra": "E",
+            "texto": "a densidade do iceberg não foi alterada, pois se trata de uma propriedade específica da matéria."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Propriedades da Matéria"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "DANGER FAKE NEWS HOLE USA Rob Rogers, Pittsburgh Post-Gazette / Courtesy of AAEC Disponível em: https://floridafinancialliteracy.weebly.com/blog/fake-news-political-cartoon - acesso em 14/10/2018. Em se desejando criar uma frase verbal para constar da placa presente no cartum, sem alterar o sentido original veiculado pelo texto I, seria possível que se escrevesse o seguinte na sinalização:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Dangerous hole caused by fake news may provoke severe physical accidents."
+          },
+          {
+            "letra": "B",
+            "texto": "Pay attention! Technology may be harmful for your health."
+          },
+          {
+            "letra": "C",
+            "texto": "Watch out for fake news. You may be led into a wrong path."
+          },
+          {
+            "letra": "D",
+            "texto": "What a terrible fake news hole! Attention!"
+          },
+          {
+            "letra": "E",
+            "texto": "Danger. Fake news on the road."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Interpretação de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "TEXT II Increasing Our Efforts to Fight False News By Tessa Lyons, Product Manager - June 21, 2018 Over the last year and half, we have been committed to fighting false news through a combination of technology and human review, including removing fake accounts, partnering with fact-checkers, and promoting news literacy. This effort will never be finished and we have a lot more to do. Today, we're announcing several updates as part of this work: Expanding our fact-checking program to new countries; Expanding our test to fact-check photos and videos; Increasing the impact of fact-checking by using new techniques, including identifying duplicates and using Claim Review; Taking action against new kinds of repeat offenders; Improving measurement and transparency by partnering with academics (...) We're currently working with the commission to develop privacy-protected data sets, which will include a sample of links that people engage with on Facebook. The academics selected by the commission will be able to study these links to better understand the kinds of content being shared on Facebook. Over time, this externally-validated research will help keep us accountable and track our progress. Fonte: https://newsroom.fb.com/news/2018/06/increasing-our-efforts-to-fight-false-news/. São trechos que identificam ações que estão acontecendo no presente, com aspecto de continuidade, quando da edição do texto:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "“by using new techniques” / “including identifying duplicates”."
+          },
+          {
+            "letra": "B",
+            "texto": "“we have been committed to fighting false news” / “we have a lot more to do”."
+          },
+          {
+            "letra": "C",
+            "texto": "“Expanding our fact-checking program to new countries” / “This effort will never be finished”."
+          },
+          {
+            "letra": "D",
+            "texto": "“the commission will be able to study these links” / “this externally-validated research will help keep us accountable and track our progress”."
+          },
+          {
+            "letra": "E",
+            "texto": "“we’re announcing several updates” / “We’re currently working with the commission to develop privacy-protected data sets”."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Inglês – Gramática"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "TEXT II Increasing Our Efforts to Fight False News By Tessa Lyons, Product Manager - June 21, 2018 Over the last year and half, we have been committed to fighting false news through a combination of technology and human review, including removing fake accounts, partnering with fact-checkers, and promoting news literacy. This effort will never be finished and we have a lot more to do. Today, we're announcing several updates as part of this work: Expanding our fact-checking program to new countries; Expanding our test to fact-check photos and videos; Increasing the impact of fact-checking by using new techniques, including identifying duplicates and using Claim Review; Taking action against new kinds of repeat offenders; Improving measurement and transparency by partnering with academics (...) We're currently working with the commission to develop privacy-protected data sets, which will include a sample of links that people engage with on Facebook. The academics selected by the commission will be able to study these links to better understand the kinds of content being shared on Facebook. Over time, this externally-validated research will help keep us accountable and track our progress. Fonte: https://newsroom.fb.com/news/2018/06/increasing-our-efforts-to-fight-false-news/. Considerando que a fonte do texto II é uma publicação do próprio Facebook, assinale a alternativa que apresente, em primeiro lugar, um trecho através do qual é possível perceber que a empresa se coloca como responsável pelo problema que vem tentando resolver e, em seguida, uma medida possível de ser encontrada no texto:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "“The academics selected by the commission will be able to study these links” / expandir a checagem de fotos e vídeos publicados."
+          },
+          {
+            "letra": "B",
+            "texto": "“The academics selected by the commission will be able to study these links” / expandir o programa de checagem de fatos para outros países."
+          },
+          {
+            "letra": "C",
+            "texto": "“Over the last year and half, we have been committed to fighting false news” / associar recursos humanos e de outras naturezas para o combate à veiculação de notícias falsas."
+          },
+          {
+            "letra": "D",
+            "texto": "“Over the last year and half, we have been committed to fighting false news” / promover a demissão de pessoal envolvido com o vazamento de notícias falsas."
+          },
+          {
+            "letra": "E",
+            "texto": "“We’re currently working with the commission to develop privacy-protected data sets” / combater a veiculação de notícias falsas por meio da associação às polícias federais dos diferentes países."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Interpretação de Texto"
+        ]
+      }
+    ]
+  }
+}

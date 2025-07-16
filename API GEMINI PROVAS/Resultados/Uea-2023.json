@@ -1,0 +1,1863 @@
+{
+  "prova": {
+    "nomeUniversidade": "UNIVERSIDADE DO ESTADO DO AMAZONAS",
+    "siglaUniversidade": "UEA",
+    "nomeProva": "PROVA DE ACOMPANHAMENTO I",
+    "ano": 2023,
+    "qtdeQuestoes": 60,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "Examine a tirinha do cartunista André Dahmer.\n\nSÓ PASSEI\nPARA ELOGIAR\nSEU ESPÍRITO\nPOIS\nLIVRE E JOVEM.\nNÃO?\nÉ QUE\nCOMPREI\nUMA MOTO!\n\n(Malvados, 2019.)\n\nA tirinha permite caracterizar a personagem Morte como",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "interesseira."
+          },
+          {
+            "letra": "B",
+            "texto": "benevolente."
+          },
+          {
+            "letra": "C",
+            "texto": "apaixonada."
+          },
+          {
+            "letra": "D",
+            "texto": "prestativa."
+          },
+          {
+            "letra": "E",
+            "texto": "arrogante."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de texto",
+          "Língua Portuguesa – Gêneros textuais (Tirinhas)"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "Para responder às questões 02 e 03, leia um trecho da obra Cartas chilenas, de Tomás Antônio Gonzaga (1744-1810).\n\nSoberbo e louco Chefe, que proveito\nTiraste de gastar em frias festas\nImenso cabedal¹, que o bom Senado\nDevia consumir em coisas santas?\nSuspiram pobres amas, e padecem\nCrianças inocentes, e tu podes\nCom rosto enxuto ver tamanhos males?\nEmbora! Sacrifica ao próprio gosto\nAs fortunas dos povos, que governas;\nVirá dia, em que mão robusta, e santa,\nDepois de castigar-nos, se condoa,\nE lance na fogueira as varas torpes.\nEntão rirão aqueles, que choraram;\nEntão talvez, que chores, mas debalde³:\nQue suspiros, e prantos nada lucram\nA quem os guarda para muito tarde.\n\n(Cartas chilenas, 2006.)\n\n¹ cabedal: posses materiais ou recursos financeiros; bens, riquezas.\n² Embora!: Não importa!\n³ debalde: em vão.\n\nNo trecho, o eu lírico",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "critica Fanfarrão Minésio por ignorar as necessidades do povo em favor de uma vida religiosa."
+          },
+          {
+            "letra": "B",
+            "texto": "elogia Fanfarrão Minésio por punir funcionários que se apropriam do dinheiro do povo."
+          },
+          {
+            "letra": "C",
+            "texto": "critica Fanfarrão Minésio por gastar dinheiro do povo em obras necessárias, mas não urgentes."
+          },
+          {
+            "letra": "D",
+            "texto": "elogia Fanfarrão Minésio por levar uma vida parcimoniosa em favor do povo."
+          },
+          {
+            "letra": "E",
+            "texto": "critica Fanfarrão Minésio por desperdiçar dinheiro do povo em eventos supérfluos."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Literatura (Arcadismo)",
+          "Língua Portuguesa – Interpretação de texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "Para responder às questões 02 e 03, leia um trecho da obra Cartas chilenas, de Tomás Antônio Gonzaga (1744-1810).\n\nSoberbo e louco Chefe, que proveito\nTiraste de gastar em frias festas\nImenso cabedal¹, que o bom Senado\nDevia consumir em coisas santas?\nSuspiram pobres amas, e padecem\nCrianças inocentes, e tu podes\nCom rosto enxuto ver tamanhos males?\nEmbora! Sacrifica ao próprio gosto\nAs fortunas dos povos, que governas;\nVirá dia, em que mão robusta, e santa,\nDepois de castigar-nos, se condoa,\nE lance na fogueira as varas torpes.\nEntão rirão aqueles, que choraram;\nEntão talvez, que chores, mas debalde³:\nQue suspiros, e prantos nada lucram\nA quem os guarda para muito tarde.\n\n(Cartas chilenas, 2006.)\n\n¹ cabedal: posses materiais ou recursos financeiros; bens, riquezas.\n² Embora!: Não importa!\n³ debalde: em vão.\n\nEm \"e tu podes / Com rosto enxuto ver tamanhos males?\", Fanfarrão Minésio é caracterizado como",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "indulgente."
+          },
+          {
+            "letra": "B",
+            "texto": "insensível."
+          },
+          {
+            "letra": "C",
+            "texto": "ingênuo."
+          },
+          {
+            "letra": "D",
+            "texto": "preguiçoso."
+          },
+          {
+            "letra": "E",
+            "texto": "distraído."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de texto",
+          "Língua Portuguesa – Vocabulário"
+        ]
+      },
+      {
+        "numeroEnunciado": 4,
+        "enunciado": "Para responder às questões de 04 a 07, leia um trecho da obra Cartas chilenas, de Tomás Antônio Gonzaga (1744-1810).\n\nAmigo Doroteu, prezado Amigo,\nAbre os olhos, boceja, estende os braços,\nE limpa das pestanas carregadas\nO pegajoso humor, que o sono ajunta.\nCritilo, o teu Critilo é quem te chama;\nErgue a cabeça da engomada fronha.\nAcorda, se ouvir queres coisas raras. [...]\n\n[...] Então verás Leões com pés de pato;\nVerás voarem Tigres, e Camelos,\nVerás parirem homens, e nadarem\nOs roliços penedos sobre as ondas.\nPorém, que têm que ver estes delírios\nC'os sucessos reais, que vou contar-te?\n\n(Cartas chilenas, 2006.)\n\nConsiderando o contexto histórico de produção das Cartas chilenas, os \"sucessos reais\" referidos pelo eu lírico relacionam-se, de modo mais imediato,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à vinda da Família Real ao Brasil, no início do século XIX."
+          },
+          {
+            "letra": "B",
+            "texto": "ao processo de Independência do Brasil, no século XIX."
+          },
+          {
+            "letra": "C",
+            "texto": "aos desmandos do governador das Minas Gerais, no final do século XVIII."
+          },
+          {
+            "letra": "D",
+            "texto": "ao processo de Abolição da Escravatura, no final do século XIX."
+          },
+          {
+            "letra": "E",
+            "texto": "às invasões holandesas do Nordeste brasileiro, ao longo do século XVII."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – História do Brasil (Século XVIII)",
+          "Língua Portuguesa – Literatura (Arcadismo)"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "Para responder às questões de 04 a 07, leia um trecho da obra Cartas chilenas, de Tomás Antônio Gonzaga (1744-1810).\n\nAmigo Doroteu, prezado Amigo,\nAbre os olhos, boceja, estende os braços,\nE limpa das pestanas carregadas\nO pegajoso humor, que o sono ajunta.\nCritilo, o teu Critilo é quem te chama;\nErgue a cabeça da engomada fronha.\nAcorda, se ouvir queres coisas raras. [...]\n\n[...] Então verás Leões com pés de pato;\nVerás voarem Tigres, e Camelos,\nVerás parirem homens, e nadarem\nOs roliços penedos sobre as ondas.\nPorém, que têm que ver estes delírios\nC'os sucessos reais, que vou contar-te?\n\n(Cartas chilenas, 2006.)\n\nEm \"Acorda, se ouvir queres coisas raras.\" (1ª estrofe), a conjunção introduz uma oração que expressa ideia de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "consequência."
+          },
+          {
+            "letra": "B",
+            "texto": "finalidade."
+          },
+          {
+            "letra": "C",
+            "texto": "causa."
+          },
+          {
+            "letra": "D",
+            "texto": "condição."
+          },
+          {
+            "letra": "E",
+            "texto": "comparação."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Gramática (Conjunções)"
+        ]
+      },
+      {
+        "numeroEnunciado": 6,
+        "enunciado": "Para responder às questões de 04 a 07, leia um trecho da obra Cartas chilenas, de Tomás Antônio Gonzaga (1744-1810).\n\nAmigo Doroteu, prezado Amigo,\nAbre os olhos, boceja, estende os braços,\nE limpa das pestanas carregadas\nO pegajoso humor, que o sono ajunta.\nCritilo, o teu Critilo é quem te chama;\nErgue a cabeça da engomada fronha.\nAcorda, se ouvir queres coisas raras. [...]\n\n[...] Então verás Leões com pés de pato;\nVerás voarem Tigres, e Camelos,\nVerás parirem homens, e nadarem\nOs roliços penedos sobre as ondas.\nPorém, que têm que ver estes delírios\nC'os sucessos reais, que vou contar-te?\n\n(Cartas chilenas, 2006.)\n\nO pronome \"que\" sublinhado na primeira estrofe refere-se a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "\"Doroteu\"."
+          },
+          {
+            "letra": "B",
+            "texto": "\"pestanas carregadas\"."
+          },
+          {
+            "letra": "C",
+            "texto": "\"pegajoso humor\"."
+          },
+          {
+            "letra": "D",
+            "texto": "\"sono\"."
+          },
+          {
+            "letra": "E",
+            "texto": "\"Critilo\"."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Gramática (Pronomes)",
+          "Língua Portuguesa – Interpretação de texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "Para responder às questões de 04 a 07, leia um trecho da obra Cartas chilenas, de Tomás Antônio Gonzaga (1744-1810).\n\nAmigo Doroteu, prezado Amigo,\nAbre os olhos, boceja, estende os braços,\nE limpa das pestanas carregadas\nO pegajoso humor, que o sono ajunta.\nCritilo, o teu Critilo é quem te chama;\nErgue a cabeça da engomada fronha.\nAcorda, se ouvir queres coisas raras. [...]\n\n[...] Então verás Leões com pés de pato;\nVerás voarem Tigres, e Camelos,\nVerás parirem homens, e nadarem\nOs roliços penedos sobre as ondas.\nPorém, que têm que ver estes delírios\nC'os sucessos reais, que vou contar-te?\n\n(Cartas chilenas, 2006.)\n\nDepreende-se desse trecho da obra de Tomás Antônio Gonzaga um tom jocoso e satírico, a exemplo do que se observa nos seguintes versos do poeta barroco Gregório de Matos (1636-1696):",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Ofendi-vos, meu Deus, é bem verdade,\nÉ verdade, Senhor, que hei delinquido,\nDelinquido vos tenho, e ofendido,\nOfendido vos tem minha maldade.\nMaldade, que encaminha a vaidade,\nVaidade, que todo me há vencido,\nVencido quero ver-me e arrependido,\nArrependido a tanta enormidade."
+          },
+          {
+            "letra": "B",
+            "texto": "Nasce o Sol, e não dura mais que um dia,\nDepois da Luz se segue a noite escura,\nEm tristes sombras morre a formosura,\nEm contínuas tristezas a alegria.\nPorém, se acaba o Sol, por que nascia?\nSe é tão formosa a Luz, por que não dura?\nComo a beleza assim se transfigura?\nComo o gosto da pena assim se fia?"
+          },
+          {
+            "letra": "C",
+            "texto": "Já desprezei; sou hoje desprezado;\nDespojo sou de quem triunfo hei sido;\nE agora nos desdéns de aborrecido,\nDesconto as ufanias de adorado.\nO Amor me incita a um perpétuo agrado;\nO decoro me obriga a um justo olvido:\nE não sei, no que empreendo, e no que lido,\nSe triunfo o respeito, se o cuidado."
+          },
+          {
+            "letra": "D",
+            "texto": "Aquele não sei quê, que, Inês, te assiste\nNo gentil corpo, e na graciosa face,\nNão sei donde te nasce, ou não te nasce,\nNão sei onde consiste, ou não consiste.\nNão sei o quando ou como arder me viste,\nPorque Fênix de amor me eternizasse:\nNão sei como renasce ou não renasce,\nNão sei como persiste ou não persiste."
+          },
+          {
+            "letra": "E",
+            "texto": "A cada canto um grande conselheiro,\nQue nos quer governar cabana e vinha;\nNão sabem governar sua cozinha,\nE podem governar o mundo inteiro.\nEm cada porta um bem frequente olheiro,\nQue a vida do vizinho e da vizinha\nPesquisa, escuta, espreita e esquadrinha,\nPara o levar à praça e ao terreiro."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Literatura (Barroco)",
+          "Língua Portuguesa – Literatura (Arcadismo)",
+          "Língua Portuguesa – Interpretação de texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "Das pinturas reproduzidas nas alternativas, aquela que remete ao ideário do Arcadismo é:\n\n(A)\n(El Greco (1541-1614). Laocoonte.)\n\n(B)\n(Johannes Vermeer (1632-1675) O geógrafo.)\n\n(C)\n(Jakob Philipp Hackert (1737-1807). Paisagem italiana.)\n\n(D)\n(Eugène Delacroix (1798-1863). A liberdade guiando o povo.)\n\n(E)\n(Pieter Bruegel (1564-1638). Retorno da taberna.)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Imagem de Laocoonte de El Greco."
+          },
+          {
+            "letra": "B",
+            "texto": "Imagem de O geógrafo de Johannes Vermeer."
+          },
+          {
+            "letra": "C",
+            "texto": "Imagem de Paisagem italiana de Jakob Philipp Hackert."
+          },
+          {
+            "letra": "D",
+            "texto": "Imagem de A liberdade guiando o povo de Eugène Delacroix."
+          },
+          {
+            "letra": "E",
+            "texto": "Imagem de Retorno da taberna de Pieter Bruegel."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Arte – História da Arte",
+          "Arte – Arcadismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nNot being able to distinguish fake news from real news\ncan have serious consequences for a person’s physical,\nemotional and financial well-being especially for older\nadults, who in general are more financially stable and must\nmake more critical health decisions. So how good are older\nadults at detecting fake news?\n\nA new study has found that older adults are no more likely\nto believe in fake news than younger adults, with age-related\nsusceptibility to deceptive news evident only among those\ncategorized as the \"oldest old.\" The study was conducted\nby researchers at the University of Florida (UF) and the\nUniversity of Central Florida during the early phase of the\ncovid-19 pandemic. The research is the first to delineate the\nrole of analytical reasoning and news consumption frequency\non detection of fake news in older adults across a broad age\nrange as well as in direct comparison to young adults.\n\n\"We wanted to see if there was an age difference in\ndetermining whether news is true or false,\" said Didem\nPehlivanoglu, lead author and a postdoctoral researcher in\nthe Department of Psychology at UF. \"We specifically wanted\nto look at this because we know that with aging most people\nshow some decline in their cognitive abilities. But we also\nknow some information processing abilities are preserved or\neven improved.\"\n\n(Brooke Adams. https://news.ufl.edu, 02.05.2022. Adaptado.)\n\nDe acordo com o contexto apresentado, o título mais adequado para o texto é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "The impact of internet use on older adults' quality of life."
+          },
+          {
+            "letra": "B",
+            "texto": "How can older adults learn to effectively detect fake news?"
+          },
+          {
+            "letra": "C",
+            "texto": "Why do many older adults have trouble using technology these days?"
+          },
+          {
+            "letra": "D",
+            "texto": "Older adults aren't as bad at identifying fake news as people believe."
+          },
+          {
+            "letra": "E",
+            "texto": "The relevance of online social relationships among older adults."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Inglês – Compreensão de texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nNot being able to distinguish fake news from real news\ncan have serious consequences for a person’s physical,\nemotional and financial well-being especially for older\nadults, who in general are more financially stable and must\nmake more critical health decisions. So how good are older\nadults at detecting fake news?\n\nA new study has found that older adults are no more likely\nto believe in fake news than younger adults, with age-related\nsusceptibility to deceptive news evident only among those\ncategorized as the \"oldest old.\" The study was conducted\nby researchers at the University of Florida (UF) and the\nUniversity of Central Florida during the early phase of the\ncovid-19 pandemic. The research is the first to delineate the\nrole of analytical reasoning and news consumption frequency\non detection of fake news in older adults across a broad age\nrange as well as in direct comparison to young adults.\n\n\"We wanted to see if there was an age difference in\ndetermining whether news is true or false,\" said Didem\nPehlivanoglu, lead author and a postdoctoral researcher in\nthe Department of Psychology at UF. \"We specifically wanted\nto look at this because we know that with aging most people\nshow some decline in their cognitive abilities. But we also\nknow some information processing abilities are preserved or\neven improved.\"\n\n(Brooke Adams. https://news.ufl.edu, 02.05.2022. Adaptado.)\n\nO objetivo principal do texto é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "convencer os leitores a buscarem diferentes fontes de informação."
+          },
+          {
+            "letra": "B",
+            "texto": "oferecer informações sobre o resultado de um estudo."
+          },
+          {
+            "letra": "C",
+            "texto": "analisar pormenorizadamente os resultados de um estudo."
+          },
+          {
+            "letra": "D",
+            "texto": "alertar sobre a importância do desenvolvimento de habilidades cognitivas."
+          },
+          {
+            "letra": "E",
+            "texto": "descrever uma sequência de passos para solucionar um problema."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Compreensão de texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nNot being able to distinguish fake news from real news\ncan have serious consequences for a person’s physical,\nemotional and financial well-being especially for older\nadults, who in general are more financially stable and must\nmake more critical health decisions. So how good are older\nadults at detecting fake news?\n\nA new study has found that older adults are no more likely\nto believe in fake news than younger adults, with age-related\nsusceptibility to deceptive news evident only among those\ncategorized as the \"oldest old.\" The study was conducted\nby researchers at the University of Florida (UF) and the\nUniversity of Central Florida during the early phase of the\ncovid-19 pandemic. The research is the first to delineate the\nrole of analytical reasoning and news consumption frequency\non detection of fake news in older adults across a broad age\nrange as well as in direct comparison to young adults.\n\n\"We wanted to see if there was an age difference in\ndetermining whether news is true or false,\" said Didem\nPehlivanoglu, lead author and a postdoctoral researcher in\nthe Department of Psychology at UF. \"We specifically wanted\nto look at this because we know that with aging most people\nshow some decline in their cognitive abilities. But we also\nknow some information processing abilities are preserved or\neven improved.\"\n\n(Brooke Adams. https://news.ufl.edu, 02.05.2022. Adaptado.)\n\nNo trecho do segundo parágrafo \"among those categorized as the 'oldest old\", o termo sublinhado refere-se a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "\"older adults\"."
+          },
+          {
+            "letra": "B",
+            "texto": "\"health decisions\"."
+          },
+          {
+            "letra": "C",
+            "texto": "\"researchers\"."
+          },
+          {
+            "letra": "D",
+            "texto": "\"fake news\"."
+          },
+          {
+            "letra": "E",
+            "texto": "\"younger adults\"."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Referência textual"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nNot being able to distinguish fake news from real news\ncan have serious consequences for a person’s physical,\nemotional and financial well-being especially for older\nadults, who in general are more financially stable and must\nmake more critical health decisions. So how good are older\nadults at detecting fake news?\n\nA new study has found that older adults are no more likely\nto believe in fake news than younger adults, with age-related\nsusceptibility to deceptive news evident only among those\ncategorized as the \"oldest old.\" The study was conducted\nby researchers at the University of Florida (UF) and the\nUniversity of Central Florida during the early phase of the\ncovid-19 pandemic. The research is the first to delineate the\nrole of analytical reasoning and news consumption frequency\non detection of fake news in older adults across a broad age\nrange as well as in direct comparison to young adults.\n\n\"We wanted to see if there was an age difference in\ndetermining whether news is true or false,\" said Didem\nPehlivanoglu, lead author and a postdoctoral researcher in\nthe Department of Psychology at UF. \"We specifically wanted\nto look at this because we know that with aging most people\nshow some decline in their cognitive abilities. But we also\nknow some information processing abilities are preserved or\neven improved.\"\n\n(Brooke Adams. https://news.ufl.edu, 02.05.2022. Adaptado.)\n\nNo trecho do terceiro parágrafo \"But we also know\", o termo sublinhado estabelece, com a frase anterior, uma relação de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "causa."
+          },
+          {
+            "letra": "B",
+            "texto": "condição."
+          },
+          {
+            "letra": "C",
+            "texto": "contraste."
+          },
+          {
+            "letra": "D",
+            "texto": "adição."
+          },
+          {
+            "letra": "E",
+            "texto": "conclusão."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Conectivos",
+          "Inglês – Compreensão de texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "Analise os trechos das notícias sobre a Índia contemporânea, atentando-se para as datas de suas publicações.\n\nNovo presidente da Índia é membro da marginalizada comunidade dalit, também conhecida como \"intocável\". Ram Nath Kovind foi eleito com 65% dos votos.\n(\"Novo presidente da Índia é membro da marginalizada casta 'dalit'. www.pragmatismopolitico.com.br, 28.07.2017.)\n\nDo partido nacionalista hindu, Draupadi Murmu foi eleita presidente da Índia, com apoio da maioria dos parlamentares. Ela é a primeira pessoa de uma comunidade tribal a ocupar o cargo.\n(\"Draupadi Murmu é a nova presidente da Índia\". Gazeta do Povo, 22.07.2022. Adaptado.)\n\nTendo em vista o histórico da Índia desde a Antiguidade, as notícias revelam",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "os projetos bem-sucedidos para acabar com os trabalhos em condições análogas à escravidão dos dalits e povos tribais."
+          },
+          {
+            "letra": "B",
+            "texto": "as transformações sociopolíticas significativas em um território marcado pela hierarquia social pautada na religião."
+          },
+          {
+            "letra": "C",
+            "texto": "a continuidade da submissão política em relação à Inglaterra após o processo formal de independência."
+          },
+          {
+            "letra": "D",
+            "texto": "a superação da desigualdade social e do machismo em uma nação segregada oficialmente por séculos."
+          },
+          {
+            "letra": "E",
+            "texto": "os caminhos traçados para a equiparação econômica entre os grupos sociais da segunda maior população mundial."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – História Contemporânea (Índia)",
+          "Sociologia – Estrutura Social"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "Os bens culturais de natureza imaterial dizem respeito àquelas práticas e domínios da vida social que se manifestam em saberes, ofícios e modos de fazer; celebrações; formas de expressão cênicas, plásticas, musicais ou lúdicas; e nos lugares. A Constituição Federal de 1988, em seus artigos 215 e 216, ampliou a noção de patrimônio cultural ao reconhecer a existência de bens culturais de natureza material e imaterial.\n\n(portal.iphan.gov.br. Adaptado.)\n\nDe acordo com a definição do Instituto do Patrimônio Histórico e Artístico Nacional (IPHAN), considera-se um patrimônio imaterial amazonense",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o Centro Histórico de Manaus."
+          },
+          {
+            "letra": "B",
+            "texto": "o Círio de Nossa Senhora de Nazaré."
+          },
+          {
+            "letra": "C",
+            "texto": "o Mercado Municipal Adolpho Lisboa."
+          },
+          {
+            "letra": "D",
+            "texto": "o Complexo Cultural do Boi Bumbá do Médio Amazonas e Parintins."
+          },
+          {
+            "letra": "E",
+            "texto": "o Conjunto Arquitetônico e Paisagístico do Porto de Manaus."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Patrimônio Cultural",
+          "Arte – Patrimônio Imaterial"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "A imagem refere-se a um quipu desenvolvido pelos incas, importante sociedade ameríndia.\n\n(\"Incas\". https:escolaeducacao.com.br)\n\nA vasta utilização do quipu entre os incas revela a presença, entre eles,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "da produção em manufaturas têxteis como base da economia."
+          },
+          {
+            "letra": "B",
+            "texto": "de um artesanato focado na fabricação de adornos femininos."
+          },
+          {
+            "letra": "C",
+            "texto": "de materiais desconhecidos pelos europeus quando chegaram à América."
+          },
+          {
+            "letra": "D",
+            "texto": "da valorização dos esportes praticados por crianças e adultos."
+          },
+          {
+            "letra": "E",
+            "texto": "de um complexo sistema matemático e de registros do cotidiano."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – Civilizações Pré-Colombianas (Incas)"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "Os militares estavam contentes, especialmente os pequenos, os alferes, os tenentes e os capitães. Para a maioria, a satisfação vinha da convicção de que iam estender sua autoridade sobre o pelotão e a companhia, a todo esse rebanho de civis; mas, em outros muitos havia sentimento mais puro. Eram os adeptos desse nefasto e hipócrita positivismo, um pedantismo tirânico, limitado e estreito, que justificava todas as violências, todos os assassínios, todas as ferocidades em nome da manutenção da ordem, condição necessária, lá diz ele, ao progresso e também ao advento do regime normal.\n\n(Lima Barreto. Triste Fim de Policarpo Quaresma, 2008. Adaptado.)\n\nO excerto da obra literária, publicada originalmente em 1915, critica a corrente de pensamento positivista por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "utilizar discursos ordenadores para a permanência do status quo."
+          },
+          {
+            "letra": "B",
+            "texto": "permitir que a autoridade de civis e militares fosse equiparada."
+          },
+          {
+            "letra": "C",
+            "texto": "aplicar a democracia política a partir de atos violentos."
+          },
+          {
+            "letra": "D",
+            "texto": "restringir o progresso social e econômico aos militares."
+          },
+          {
+            "letra": "E",
+            "texto": "enfraquecer a hierarquia das patentes estabelecidas pelo exército."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – Positivismo no Brasil",
+          "Filosofia – Filosofia Política"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "Mesmo considerando a presença de medidas e determinadas políticas de cunho neoliberal nos governos Figueiredo (1979-1985) e Sarney (1985-1990), consideramos que a implantação do projeto neoliberal no Brasil, como elemento condutor da ação governamental em todas as suas esferas, inicia-se no governo de Fernando Collor de Melo (1990-1992). O projeto neoliberal emergiu como uma das alternativas históricas vislumbradas no interior do bloco no poder para atualizar sua dominação social.\n\n(David Maciel. \"O governo Collor e o neoliberalismo no Brasil (1990-1992)\". Adaptado.)\n\nO projeto econômico citado no texto tem como principais características",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a redução das desigualdades sociais e a cobrança de impostos."
+          },
+          {
+            "letra": "B",
+            "texto": "a privatização de estatais e o estímulo da globalização da economia."
+          },
+          {
+            "letra": "C",
+            "texto": "o protecionismo econômico e o enxugamento da máquina pública."
+          },
+          {
+            "letra": "D",
+            "texto": "o aumento dos gastos com serviços públicos e o ajuste fiscal."
+          },
+          {
+            "letra": "E",
+            "texto": "a defesa dos direitos sociais dos cidadãos e o fim dos monopólios."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – História do Brasil (Nova República)",
+          "Geografia – Economia Global"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "\"Primavera Árabe” é o nome dado a um conjunto de manifestações populares no mundo árabe para a derrubada de governos antidemocráticos, a partir de dezembro de 2010. Muitos destes movimentos obtiveram sucesso, como na Tunísia, outros geraram novos conflitos bélicos, como na Síria.\n\nDurante os protestos, destacou-se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a hegemonia de homens devido às restrições religiosas."
+          },
+          {
+            "letra": "B",
+            "texto": "a ausência de movimentos em territórios de maioria xiita."
+          },
+          {
+            "letra": "C",
+            "texto": "a utilização ampla das redes sociais pelos manifestantes."
+          },
+          {
+            "letra": "D",
+            "texto": "a homogeneidade político-econômica dos países envolvidos."
+          },
+          {
+            "letra": "E",
+            "texto": "a invisibilidade das manifestações na mídia internacional."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Geopolítica",
+          "História – História Contemporânea"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "Analise as premissas a seguir.\n\nTodas as aves voam.\nOs pinguins são aves.\n\nA conclusão que torna o silogismo válido, apesar de falso, é:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Logo, os pinguins não voam."
+          },
+          {
+            "letra": "B",
+            "texto": "Logo, todas as aves são pinguins."
+          },
+          {
+            "letra": "C",
+            "texto": "Logo, os pinguins não são aves."
+          },
+          {
+            "letra": "D",
+            "texto": "Logo, os pinguins voam."
+          },
+          {
+            "letra": "E",
+            "texto": "Logo, os pinguins são aves."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Filosofia – Lógica",
+          "Filosofia – Silogismos"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "Aquela atividade orgânica primitiva, o uso do corpo no mundo natural, a ascensão do organismo sadio e belo, veloz e forte, sobretudo na espécie humana, parece ter sido a primeira ética, o sentido literal e figurado dessa busca pela vida. Mover o corpo tem-se tornado afirmar-se no mundo, além do ideal o necessário, é esse sentido que as práticas corporais, mais precisamente, como que cada sociedade faz uso do corpo humano e sua motricidade geral, enquanto entidade, é que pode justificar a natureza e o conceito mais original da ética para a vida, saúde e beleza.\n\n(Wilson do Carmo Júnior. \"Práticas corporais ante a ética nos discursos\". Revista Kinesis, 2001.)\n\nSegundo o excerto, a forma mais genuína de praticar a ética corporal é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a homogeneização dos exercícios físicos para toda a população."
+          },
+          {
+            "letra": "B",
+            "texto": "a imposição dos padrões de beleza pela mídia de cada nação."
+          },
+          {
+            "letra": "C",
+            "texto": "o respeito pela forma como cada cultura lida com o corpo."
+          },
+          {
+            "letra": "D",
+            "texto": "a valorização da saúde dos jovens de determinada sociedade."
+          },
+          {
+            "letra": "E",
+            "texto": "a busca por um ideal estético desde a educação escolar."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Filosofia – Ética",
+          "Sociologia – Cultura"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "Analise o mapa.\n\nEspaços industriais\n\nSensoriamento remoto\nOutras\ntecnologias\nX\nModelagem\nnumérica de\nterreno\nBanco de dados\ngeográficos\n\nPaíses\nCom pouca ou nenhuma industrialização\nSemi-industrializados\nRecentemente industrializados\nAltamente industrializados\nRegiões densamente industrializadas\n\n(Maria E. Simielli. Geoatlas, 2010.)\n\nA intersecção das geotecnologias envolvidas no geoprocessamento, marcada com \"X\" na imagem, refere-se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à modelagem espacial, que torna o geoprocessamento mais dinâmico e permite estabelecer uma representação mais realista aos processos espaço-temporais."
+          },
+          {
+            "letra": "B",
+            "texto": "à projeção cartográfica digital, que utiliza computadores para tratamento das informações e construção dos mapas qualitativos."
+          },
+          {
+            "letra": "C",
+            "texto": "aos mapas digitais, que são uma representação de regiões geográficas e oferecem capacidade de interação que gera e recebe informações do usuário."
+          },
+          {
+            "letra": "D",
+            "texto": "aos satélites artificiais, que são equipamentos localizados próximos à Terra que captam imagens de fenômenos em um determinado instante."
+          },
+          {
+            "letra": "E",
+            "texto": "ao sistema de informação geográfica, que corresponde ao conjunto de procedimentos computacionais utilizados para armazenar ou manipular dados georreferenciados."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Geotecnologias",
+          "Geografia – Cartografia"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "Analise o gráfico.\n\nEvolução da população (em mil) de acordo com\na autodeclaração de cor ou raça\n\n120\n100\n80\n60\n40\n20\n0\n2012 2013 2014 2015 2016 2017 2018 2019\n→ Brancos Pardos Pretos\n\n(https://g1.globo.com, 06.05.2020. Adaptado.)\n\nConsiderando a análise do gráfico e conhecimentos sobre a população brasileira, verifica-se aumento no quantitativo do grupo de autodeclarados",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "brancos, devido à política de branqueamento implantada no país após 1990."
+          },
+          {
+            "letra": "B",
+            "texto": "pretos, em virtude das políticas públicas de ações afirmativas."
+          },
+          {
+            "letra": "C",
+            "texto": "pardos, em razão do processo de emigração de haitianos."
+          },
+          {
+            "letra": "D",
+            "texto": "brancos, por efeito do empoderamento da cultura eurocêntrica."
+          },
+          {
+            "letra": "E",
+            "texto": "pretos, em função do processo de miscigenação no país após 1990."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Geografia – Demografia",
+          "Sociologia – Desigualdade Social"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "Analise a tabela.\n\nConflitos por terra (2012-2021)\n\nAno\nOcorrências\nde conflitos\nAssassinatos\nno campo\n2012\n828\n34\n2013\n802\n30\n2014\n820\n37\n2015\n828\n49\n2016\n1112\n61\n2017\n1033\n70\n2018\n1000\n27\n2019\n1260\n27\n2020\n1576\n14\n2021\n1242\n35\n\n(www.cptnacional.org. Adaptado.)\n\nDuas ações políticas que podem amenizar a problemática retratada na tabela é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a fixação da fronteira agrícola e a desapropriação de terras produtivas."
+          },
+          {
+            "letra": "B",
+            "texto": "a demarcação de terras indígenas e o direito à especulação imobiliária."
+          },
+          {
+            "letra": "C",
+            "texto": "a anistia aos grileiros e a legitimação da ocupação ilegal de terras."
+          },
+          {
+            "letra": "D",
+            "texto": "a recuperação de terras devolutas e a implementação da reforma agrária."
+          },
+          {
+            "letra": "E",
+            "texto": "o financiamento de propriedades e a extinção da função social da terra."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Questão Agrária",
+          "Sociologia – Conflitos Sociais"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "Em julho de 2022, a China sediou três eventos de relevância mundial: a 14ª Cúpula dos BRICS, o Diálogo de Alto Nível sobre Desenvolvimento Global e o Fórum Empresarial dos BRICS. Em um dos discursos, o presidente da China Xi Jinping disse que é hora de abandonar a mentalidade da Guerra Fria e do confronto entre blocos ideológicos, rejeitar sanções unilaterais e abusivas e prezar a \"grande família” da comunidade de futuro compartilhado em vez de formar grupos ditados pela hegemonia.\n\n(www.poder360.com.br, 08.07.2022. Adaptado.)\n\nO discurso do presidente chinês é uma crítica às ações",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "imperialistas dos EUA em Taiwan para assegurar que esse país tenha maior comércio com o Ocidente."
+          },
+          {
+            "letra": "B",
+            "texto": "unilaterais dos EUA que visam implementar barreiras para a expansão comercial e geopolítica da China."
+          },
+          {
+            "letra": "C",
+            "texto": "ineficientes dos BRICS em promover o multilateralismo entre os países em desenvolvimento e periféricos."
+          },
+          {
+            "letra": "D",
+            "texto": "político-econômicas da União Europeia para aumentar sua influência nos países da África do Norte."
+          },
+          {
+            "letra": "E",
+            "texto": "multilaterais da União Europeia, já que os países-membros desse bloco implementam práticas protecionistas para assegurar a concorrência intrabloco."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Geografia – Geopolítica",
+          "História – Relações Internacionais"
+        ]
+      },
+      {
+        "numeroEnunciado": 25,
+        "enunciado": "Os governos do Brasil e da Argentina entraram em acordo para reduzir em 10% a Tarifa Externa Comum (TEC) do Mercosul bloco econômico que também inclui os vizinhos Paraguai e Uruguai. A Tarifa Externa Comum é uma alíquota de importação unificada entre os países do bloco. Essa unificação ajuda a evitar disputas tarifárias dentro do Mercosul mas especialistas criticam a variedade de exceções impostas à regra.\n\n(https://g1.globo.com. 08.10.2021.)\n\nO processo de estruturação dos blocos econômicos por um conjunto de países é constituído por diferentes etapas de integração. Dessa forma, a etapa de integração que implementa a Tarifa Externa Comum citada nesse excerto é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a área de livre comércio."
+          },
+          {
+            "letra": "B",
+            "texto": "a livre circulação de pessoas."
+          },
+          {
+            "letra": "C",
+            "texto": "a união aduaneira."
+          },
+          {
+            "letra": "D",
+            "texto": "o mercado comum."
+          },
+          {
+            "letra": "E",
+            "texto": "a união econômica."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Blocos Econômicos"
+        ]
+      },
+      {
+        "numeroEnunciado": 26,
+        "enunciado": "A globalização se caracteriza pelo avanço do capital e dos processos de produção em escala global, expandindo-se na forma de produção de mercadorias para todos os continentes, por sua vez, determinando uma dimensão histórica do mundo em todos os lugares. Suas transformações impactam as manifestações de sociabilidade que o capital conhece e tende a fragilizar as coerências territoriais endógenas.\n\n(Ricardo Gilson da Costa Silva. \"Amazônia globalizada: da fronteira agrícola ao território do agronegócio o exemplo de Rondônia\". http://journals.openedition.org, nº 23, 2015.)\n\nNa circunstância retratada no excerto, um atributo da globalização para a estruturação dos espaços de produção é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a melhoria da infraestrutura de transportes."
+          },
+          {
+            "letra": "B",
+            "texto": "a criação de áreas aduaneiras."
+          },
+          {
+            "letra": "C",
+            "texto": "a implementação de leis internacionais."
+          },
+          {
+            "letra": "D",
+            "texto": "o controle estatal do comércio internacional."
+          },
+          {
+            "letra": "E",
+            "texto": "a formação de estoques em áreas preestabelecidas."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Globalização",
+          "Geografia – Economia"
+        ]
+      },
+      {
+        "numeroEnunciado": 27,
+        "enunciado": "Analise o mapa.\n\nEspaços industriais\n\nSensoriamento remoto\nOutras\ntecnologias\nX\nModelagem\nnumérica de\nterreno\nBanco de dados\ngeográficos\n\nPaíses\nCom pouca ou nenhuma industrialização\nSemi-industrializados\nRecentemente industrializados\nAltamente industrializados\nRegiões densamente industrializadas\n\n(Maria E. Simielli. Geoatlas, 2010.)\n\nCom base na análise do mapa e em conhecimentos sobre o desenvolvimento industrial mundial, afirma-se que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "as maiores concentrações industriais estão no Hemisfério Norte devido aos vales férteis e ao clima temperado."
+          },
+          {
+            "letra": "B",
+            "texto": "as regiões densamente industrializadas no Hemisfério Norte estão perdendo relevância na economia mundial."
+          },
+          {
+            "letra": "C",
+            "texto": "as concentrações industriais nos países em desenvolvimento surgiram a partir da década de 1930."
+          },
+          {
+            "letra": "D",
+            "texto": "as concentrações industriais no Hemisfério Sul estão associadas com as maiores populações absolutas das civilizações modernas."
+          },
+          {
+            "letra": "E",
+            "texto": "as áreas que apresentam as maiores concentrações industriais estão nos países que concentram o maior número de arsenais nucleares."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Industrialização",
+          "Geografia – Geografia Econômica"
+        ]
+      },
+      {
+        "numeroEnunciado": 28,
+        "enunciado": "Quase 700 migrantes foram resgatados no dia 23.07.2022, na costa sul da Itália, segundo comunicado emitido pela guarda costeira do país, em uma demonstração do crescimento do fluxo migratório no Mediterrâneo. Dezesseis pessoas morreram após um navio que transportava imigrantes haitianos virar na costa das Bahamas, disseram autoridades, no dia 24.07.2022, em meio a uma onda contínua de migração marítima em direção aos Estados Unidos. Quatro mulheres e 17 homens foram resgatados do incidente.\n\n(www1.folha.uol.com.br, 24.07.2022. Adaptado.)\n\nOs episódios citados no excerto apresentam movimentos populacionais que têm como uma de suas causas",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "as políticas de oferta de emprego nos países de destino."
+          },
+          {
+            "letra": "B",
+            "texto": "a excelência do sistema de saúde pública nos países de destino."
+          },
+          {
+            "letra": "C",
+            "texto": "o auxílio à qualificação profissional nos países de origem."
+          },
+          {
+            "letra": "D",
+            "texto": "as crises econômicas nos países de destino."
+          },
+          {
+            "letra": "E",
+            "texto": "a instabilidade política nos países de origem."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Migrações",
+          "Sociologia – Deslocamentos Populacionais"
+        ]
+      },
+      {
+        "numeroEnunciado": 29,
+        "enunciado": "Nas células vegetais existem várias organelas comuns às células animais. Comparando-se os dois tipos de células, somente nos vegetais existem organelas que dependem de energia luminosa para produzir matéria orgânica a partir de gás carbônico e água. Tais organelas são",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "os centríolos."
+          },
+          {
+            "letra": "B",
+            "texto": "os complexos golgienses."
+          },
+          {
+            "letra": "C",
+            "texto": "as mitocondrias."
+          },
+          {
+            "letra": "D",
+            "texto": "os cloroplastos."
+          },
+          {
+            "letra": "E",
+            "texto": "os lisossomos."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Citologia",
+          "Biologia – Organelas Celulares"
+        ]
+      },
+      {
+        "numeroEnunciado": 30,
+        "enunciado": "Existem algumas hipóteses que defendem como seriam os processos metabólicos dos primeiros seres vivos que surgiram no planeta. A hipótese autotrófica mais consistente e aceita atualmente define que os primeiros seres vivos, pela simplicidade do processo, produziam",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "energia a partir do gás oxigênio e da glicose."
+          },
+          {
+            "letra": "B",
+            "texto": "energia a partir da glicose na ausência do gás oxigênio."
+          },
+          {
+            "letra": "C",
+            "texto": "matéria orgânica a partir da energia de certas reações químicas."
+          },
+          {
+            "letra": "D",
+            "texto": "matéria orgânica a partir da energia luminosa e do gás carbônico."
+          },
+          {
+            "letra": "E",
+            "texto": "matéria orgânica a partir da energia da glicose."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Origem da Vida",
+          "Biologia – Metabolismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 31,
+        "enunciado": "Em 1977, o microbiologista Carl Woese propôs que a biodiversidade poderia ser contemplada em três grupos: Bacteria, Archaea e Eukarya. Em relação à classificação biológica, esses três grupos correspondem a um nível taxonômico mais amplo, que é denominado",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "reino."
+          },
+          {
+            "letra": "B",
+            "texto": "domínio."
+          },
+          {
+            "letra": "C",
+            "texto": "classe."
+          },
+          {
+            "letra": "D",
+            "texto": "espécie."
+          },
+          {
+            "letra": "E",
+            "texto": "gênero."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Classificação dos Seres Vivos",
+          "Biologia – Taxonomia"
+        ]
+      },
+      {
+        "numeroEnunciado": 32,
+        "enunciado": "O cladograma apresenta o grau de parentesco entre cinco primatas.\n\nGibão\nOrangotango\nGorila\nChimpanzé\nSer humano\n\nDe acordo com o cladograma, os primatas que possuem maior semelhança genética entre si são",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "chimpanzé e orangotango."
+          },
+          {
+            "letra": "B",
+            "texto": "orangotango e gibão."
+          },
+          {
+            "letra": "C",
+            "texto": "gorila e orangotango."
+          },
+          {
+            "letra": "D",
+            "texto": "gorila e ser humano."
+          },
+          {
+            "letra": "E",
+            "texto": "chimpanzé e ser humano."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Evolução",
+          "Biologia – Cladogramas"
+        ]
+      },
+      {
+        "numeroEnunciado": 33,
+        "enunciado": "Em um parque ecológico um casal de aposentados saboreava algumas frutas, amêndoas e amendoins, quando, de repente, uma fêmea de quati e seus cinco filhotes tentaram invadir a sacola para pegar algum desses alimentos. Esses animais são onívoros, podendo também se alimentar de insetos, ovos e répteis pequenos. Um grupo composto por uma fêmea de quati e seus filhotes é considerado, em Ecologia, como",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "um nicho ecológico."
+          },
+          {
+            "letra": "B",
+            "texto": "uma biocenose."
+          },
+          {
+            "letra": "C",
+            "texto": "uma comunidade."
+          },
+          {
+            "letra": "D",
+            "texto": "uma população."
+          },
+          {
+            "letra": "E",
+            "texto": "uma biosfera."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Ecologia (Populações)"
+        ]
+      },
+      {
+        "numeroEnunciado": 34,
+        "enunciado": "Os lixões contêm vários materiais sintéticos e restos de alimentos que são produzidos e desprezados em várias cidades brasileiras. Esses lixões causam inúmeros problemas ambientais e afetam a saúde de muitas pessoas. Uma forma sustentável de reduzir o volume de resíduos sólidos encaminhados aos lixões é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a reciclagem."
+          },
+          {
+            "letra": "B",
+            "texto": "o controle biológico."
+          },
+          {
+            "letra": "C",
+            "texto": "a biorremediação."
+          },
+          {
+            "letra": "D",
+            "texto": "o tratamento de esgoto."
+          },
+          {
+            "letra": "E",
+            "texto": "a adubação verde."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Sustentabilidade",
+          "Geografia – Meio Ambiente"
+        ]
+      },
+      {
+        "numeroEnunciado": 35,
+        "enunciado": "Em uma fazenda há ratos que se alimentam de grãos de milho. Nesses ratos existem pulgas aderidas à sua pele, alimentando-se do seu sangue. No interior dessas pulgas há bactérias que retiram os seus nutrientes. De acordo com o fluxo de energia ao longo da cadeia alimentar formada pelos organismos citados, pode-se afirmar que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o pé de milho possui mais energia química do que as bactérias."
+          },
+          {
+            "letra": "B",
+            "texto": "as bactérias possuem mais energia química do que as pulgas."
+          },
+          {
+            "letra": "C",
+            "texto": "as pulgas possuem mais energia química do que o pé de milho."
+          },
+          {
+            "letra": "D",
+            "texto": "os ratos possuem mais energia química do que o pé de milho."
+          },
+          {
+            "letra": "E",
+            "texto": "as pulgas possuem mais energia química do que os ratos."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Ecologia (Cadeias e Teias Alimentares)",
+          "Biologia – Fluxo de Energia"
+        ]
+      },
+      {
+        "numeroEnunciado": 36,
+        "enunciado": "Biscoitos recheados, sorvetes, bolos artificiais e embutidos são exemplos de alimentos ultraprocessados. O consumo excessivo desses alimentos e a ausência do consumo de frutas e verduras podem causar problemas de saúde porque",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o metabolismo ficará reduzido devido ao excesso de calorias."
+          },
+          {
+            "letra": "B",
+            "texto": "o tecido adiposo terá excesso de proteínas armazenadas em vesículas."
+          },
+          {
+            "letra": "C",
+            "texto": "as vitaminas e alguns sais minerais estarão reduzidos no organismo."
+          },
+          {
+            "letra": "D",
+            "texto": "a alta concentração de fibras dificultará o trabalho intestinal."
+          },
+          {
+            "letra": "E",
+            "texto": "o sódio e a glicose estarão reduzidos no organismo."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Nutrição",
+          "Biologia – Saúde Humana"
+        ]
+      },
+      {
+        "numeroEnunciado": 37,
+        "enunciado": "Andrea possui duas contas poupança, uma no banco A e outra no banco B. Hoje, o valor que ela tem no banco A corresponde a 80% do valor depositado no banco B. Se o valor total que Andrea possui nessas duas contas é R$ 4.770,00, o valor que ela precisaria depositar hoje, na conta do banco A, de modo a ficar com a mesma quantia nos dois bancos, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "R$ 500,00."
+          },
+          {
+            "letra": "B",
+            "texto": "R$ 510,00."
+          },
+          {
+            "letra": "C",
+            "texto": "R$ 520,00."
+          },
+          {
+            "letra": "D",
+            "texto": "R$ 530,00."
+          },
+          {
+            "letra": "E",
+            "texto": "R$ 540,00."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Porcentagem",
+          "Matemática – Resolução de Problemas"
+        ]
+      },
+      {
+        "numeroEnunciado": 38,
+        "enunciado": "Considere a função f: R → IR definida por f(x) = –4x + 12. Um esboço do gráfico de f está representado por:\n\n(A)\n(B)\n(C)\n(D)\n(E)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Gráfico com reta decrescente, interceptando o eixo y em 12 e o eixo x em 3."
+          },
+          {
+            "letra": "B",
+            "texto": "Gráfico com reta crescente, interceptando o eixo y em 0 e o eixo x em 0."
+          },
+          {
+            "letra": "C",
+            "texto": "Gráfico com reta crescente, interceptando o eixo y em 0 e o eixo x em 0."
+          },
+          {
+            "letra": "D",
+            "texto": "Gráfico com reta decrescente, interceptando o eixo y em -10 e o eixo x em 0."
+          },
+          {
+            "letra": "E",
+            "texto": "Gráfico com reta crescente, interceptando o eixo y em 0 e o eixo x em 10."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Funções do 1º grau",
+          "Matemática – Gráficos de funções"
+        ]
+      },
+      {
+        "numeroEnunciado": 39,
+        "enunciado": "Considere a função f: A → R definida por f(x) = –2x² + 8x + 1. Sabendo que o conjunto A é o intervalo [0, 4], o menor e o maior valor que essa função assume são, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "-2 e 8."
+          },
+          {
+            "letra": "B",
+            "texto": "-2 e 1."
+          },
+          {
+            "letra": "C",
+            "texto": "1 e 2."
+          },
+          {
+            "letra": "D",
+            "texto": "1 e 8."
+          },
+          {
+            "letra": "E",
+            "texto": "1 e 9."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Funções do 2º grau",
+          "Matemática – Máximos e Mínimos de Funções"
+        ]
+      },
+      {
+        "numeroEnunciado": 40,
+        "enunciado": "Um triângulo retângulo tem catetos de medidas 6 cm e 8 cm e sua hipotenusa é o lado de um triângulo em que os outros lados medem 3 cm e x, conforme mostra a figura.\n\n8 cm\nX\n6 cm\n60°/3 cm\n\nDado que o cos 60° = 0,5, o valor de x é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "√59 cm"
+          },
+          {
+            "letra": "B",
+            "texto": "√79 cm"
+          },
+          {
+            "letra": "C",
+            "texto": "√99 cm"
+          },
+          {
+            "letra": "D",
+            "texto": "√109 cm"
+          },
+          {
+            "letra": "E",
+            "texto": "√139 cm"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Geometria Plana (Triângulos)",
+          "Matemática – Trigonometria",
+          "Matemática – Teorema de Pitágoras"
+        ]
+      },
+      {
+        "numeroEnunciado": 41,
+        "enunciado": "Em um triângulo ABC, o ponto F está sobre o lado BC e o ponto G está sobre o lado BA, de maneira que o ângulo BFG é congruente ao ângulo BAC, conforme mostra a figura.\n\nC\nA\n7 cm\n4 cm\nβ\nβ\nB\nG\n\nSabendo que a medida do lado BA é 3 cm maior do que a medida do lado BC e que o perímetro do triângulo BFG é igual a 16 cm, a medida do segmento BF é, aproximadamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "6,3 cm."
+          },
+          {
+            "letra": "B",
+            "texto": "6,6 cm."
+          },
+          {
+            "letra": "C",
+            "texto": "6,9 cm."
+          },
+          {
+            "letra": "D",
+            "texto": "7,2 cm."
+          },
+          {
+            "letra": "E",
+            "texto": "7,5 cm."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Geometria Plana (Semelhança de Triângulos)"
+        ]
+      },
+      {
+        "numeroEnunciado": 42,
+        "enunciado": "Considere um retângulo de lados de medidas 12 cm e 6 cm e suas diagonais. Um quadrilátero, destacado na figura, tem a extremidade de um de seus lados sobre o ponto médio de um lado do retângulo e a outra extremidade sobre uma diagonal do retângulo, conforme mostra a figura.\n\n12 cm\n3 cm\n2 cm\n1 cm\n2 cm\n\nA área do quadrilátero destacado é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "8 cm²."
+          },
+          {
+            "letra": "B",
+            "texto": "9 cm²."
+          },
+          {
+            "letra": "C",
+            "texto": "10 cm²."
+          },
+          {
+            "letra": "D",
+            "texto": "12 cm²."
+          },
+          {
+            "letra": "E",
+            "texto": "15 cm²."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Geometria Plana (Áreas)",
+          "Matemática – Polígonos"
+        ]
+      },
+      {
+        "numeroEnunciado": 43,
+        "enunciado": "Considere os números de 4 algarismos que são maiores do que 2000 e menores do que 6000, múltiplos de 5 e cujos algarismos das dezenas pertençam ao conjunto {1, 3, 6, 7, 8, 9}.\nO total de números nessas condições é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "480."
+          },
+          {
+            "letra": "B",
+            "texto": "540."
+          },
+          {
+            "letra": "C",
+            "texto": "600."
+          },
+          {
+            "letra": "D",
+            "texto": "660."
+          },
+          {
+            "letra": "E",
+            "texto": "720."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Análise Combinatória",
+          "Matemática – Princípio Fundamental da Contagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 44,
+        "enunciado": "A moda das idades de um grupo de 8 pessoas é igual a 15 anos. Retirando-se desse grupo as pessoas de 15 anos, a moda das idades das pessoas restantes no grupo é igual a 17 anos e as idades de 3 dessas pessoas restantes são, respectivamente, 19 anos, 22 anos e 24 anos. Considerando apenas as pessoas de 15 anos ou 17 anos do grupo original, a média aritmética de suas idades é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "15,6 anos."
+          },
+          {
+            "letra": "B",
+            "texto": "15,8 anos."
+          },
+          {
+            "letra": "C",
+            "texto": "16 anos."
+          },
+          {
+            "letra": "D",
+            "texto": "16,2 anos."
+          },
+          {
+            "letra": "E",
+            "texto": "16,4 anos."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Estatística",
+          "Matemática – Média e Moda"
+        ]
+      },
+      {
+        "numeroEnunciado": 45,
+        "enunciado": "Em uma fábrica, pães de mel são conduzidos por uma esteira para dentro do forno, com velocidade média de 0,05 m/s.\n\nMovimento da esteira\nForno\n\nEnquanto atravessam o interior do forno de 24 m de comprimento, os pães de mel são assados com bastante precisão, garantindo a qualidade do produto.\n\nO tempo necessário para que um pão de mel seja perfeitamente assado é mais próximo de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "240 s."
+          },
+          {
+            "letra": "B",
+            "texto": "300 s."
+          },
+          {
+            "letra": "C",
+            "texto": "360 s."
+          },
+          {
+            "letra": "D",
+            "texto": "480 s."
+          },
+          {
+            "letra": "E",
+            "texto": "600 s."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Cinemática",
+          "Física – Movimento Retilíneo Uniforme"
+        ]
+      },
+      {
+        "numeroEnunciado": 46,
+        "enunciado": "Uma pequena esfera é presa por uma corda ao teto de uma sala. A corda possui 1 m de comprimento, massa desprezível e é inextensível. A esfera é abandonada do repouso na posição indicada na figura, que está demarcada por uma malha quadriculada com quadrados de 0,2 m de lado.\n\nTeto da sala\n\nConsiderando g = 10 m/s² e admitindo que não haja perda de energia mecânica, a velocidade da esfera, ao passar pelo ponto mais baixo de sua trajetória, será",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2,0 m/s."
+          },
+          {
+            "letra": "B",
+            "texto": "2,5 m/s."
+          },
+          {
+            "letra": "C",
+            "texto": "3,0 m/s."
+          },
+          {
+            "letra": "D",
+            "texto": "3,5 m/s."
+          },
+          {
+            "letra": "E",
+            "texto": "4,0 m/s."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Energia Mecânica",
+          "Física – Conservação da Energia"
+        ]
+      },
+      {
+        "numeroEnunciado": 47,
+        "enunciado": "Johannes Kepler, em sua descrição matemática do movimento planetário, elaborou três leis. Essas leis, aliadas à lei da gravitação, permitem concluir que, no decorrer de uma órbita,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "quanto mais afastada é a órbita de um planeta em relação ao Sol, maior deve ser sua velocidade de translação."
+          },
+          {
+            "letra": "B",
+            "texto": "quanto mais próxima é a órbita de um planeta em relação ao Sol, maior deve ser seu período de rotação."
+          },
+          {
+            "letra": "C",
+            "texto": "conforme um planeta em sua órbita se aproxima do Sol, menor será sua velocidade de translação."
+          },
+          {
+            "letra": "D",
+            "texto": "o período de translação de um planeta é inversamente proporcional à distância que ele se mantém do Sol."
+          },
+          {
+            "letra": "E",
+            "texto": "na órbita de um planeta, o tempo de percurso do afélio para o periélio é o mesmo do periélio ao afélio."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Gravitação",
+          "Física – Leis de Kepler"
+        ]
+      },
+      {
+        "numeroEnunciado": 48,
+        "enunciado": "Para demonstrar o comportamento de uma mola mediante o aumento da intensidade da força que a tensiona, um professor usou uma espiral de caderno, um pequeno saco plástico e moedas idênticas de peso P, medido em N. Esse professor amarrou o saco plástico em um dos extremos da mola e enganchou o outro extremo em um grande parafuso que já estava preso na moldura da lousa. Como o parafuso era bem longo, a espiral de caderno não se encostava no plano da lousa, evitando-se atritos. Antes de qualquer ação, ele marcou, com um giz na lousa, a posição do ponto de junção do saquinho com a espiral de caderno. O professor começou a experiência acrescentando gradativamente, no interior do saco plástico, uma moeda por vez, anotando, a cada moeda acrescentada, o tamanho da deformação total obtida na espiral do caderno em relação à primeira marcação feita na lousa. Esses valores possibilitaram a criação da seguinte tabela:\n\nNúmero de moedas\n1\n2\n3\nDeformação da espiral (m)\n0,04\n0,08\n0,12\n\nSabendo que os dados da tabela foram obtidos para condições de equilíbrio, ou seja, quando a força da mola se iguala à força peso das moedas, o valor da constante k da mola, em função de P, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "10 × P N/m."
+          },
+          {
+            "letra": "B",
+            "texto": "15 × P N/m."
+          },
+          {
+            "letra": "C",
+            "texto": "20 × P N/m."
+          },
+          {
+            "letra": "D",
+            "texto": "25 × P N/m."
+          },
+          {
+            "letra": "E",
+            "texto": "30 × P N/m."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Dinâmica",
+          "Física – Lei de Hooke"
+        ]
+      },
+      {
+        "numeroEnunciado": 49,
+        "enunciado": "O telescópio James Webb, recentemente lançado ao espaço, recebe energia proveniente do Sol. Para evitar seu superaquecimento, o telescópio James Webb está preparado para trocar calor por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "condução, apenas."
+          },
+          {
+            "letra": "B",
+            "texto": "convecção, apenas."
+          },
+          {
+            "letra": "C",
+            "texto": "irradiação, apenas."
+          },
+          {
+            "letra": "D",
+            "texto": "condução e convecção, apenas."
+          },
+          {
+            "letra": "E",
+            "texto": "condução, convecção e irradiação."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Termodinâmica",
+          "Física – Propagação de Calor"
+        ]
+      },
+      {
+        "numeroEnunciado": 50,
+        "enunciado": "Uma vez que o som se propaga pelo ar com velocidade igual a 340 m/s, o tempo para que ele deixe sua fonte sonora, em repouso, atinja uma parede distante 340 m dela e, refletido, retorne ao ponto em que foi emitido é de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1,0 s."
+          },
+          {
+            "letra": "B",
+            "texto": "1,7 s."
+          },
+          {
+            "letra": "C",
+            "texto": "2,0 s."
+          },
+          {
+            "letra": "D",
+            "texto": "3,4 s."
+          },
+          {
+            "letra": "E",
+            "texto": "6,8 s."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Ondulatória",
+          "Física – Acústica"
+        ]
+      },
+      {
+        "numeroEnunciado": 51,
+        "enunciado": "Um pequeno motor emprega 4000 J de energia para erguer um objeto por uma altura de 4 m. Como a velocidade da ascensão do objeto é constante e a aceleração da gravidade é 10 m/s², a massa do objeto que está sendo erguido é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "10 kg."
+          },
+          {
+            "letra": "B",
+            "texto": "20 kg."
+          },
+          {
+            "letra": "C",
+            "texto": "40 kg."
+          },
+          {
+            "letra": "D",
+            "texto": "50 kg."
+          },
+          {
+            "letra": "E",
+            "texto": "100 kg."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Trabalho e Energia",
+          "Física – Energia Potencial Gravitacional"
+        ]
+      },
+      {
+        "numeroEnunciado": 52,
+        "enunciado": "Nas usinas hidrelétricas, a energia __________ da água armazenada no topo da represa é convertida em energia __________ durante a queda d’água e, por fim, quando a água passa pelas turbinas que giram os dínamos, essa energia é transformada em energia __________.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "potencial – elástica – cinética."
+          },
+          {
+            "letra": "B",
+            "texto": "potencial - cinética – elétrica."
+          },
+          {
+            "letra": "C",
+            "texto": "cinética - potencial – elétrica."
+          },
+          {
+            "letra": "D",
+            "texto": "cinética - potencial – elástica."
+          },
+          {
+            "letra": "E",
+            "texto": "cinética - elétrica - potencial."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Energia",
+          "Física – Transformações de Energia"
+        ]
+      },
+      {
+        "numeroEnunciado": 53,
+        "enunciado": "Considere as seguintes misturas de substâncias:\n\n1. água + pó de giz\n2. água + óleo de cozinha\n3. água + álcool etílico\n\nAs misturas 1, 2 e 3 são caracterizadas, respectivamente, como",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "homogênea, homogênea e homogênea."
+          },
+          {
+            "letra": "B",
+            "texto": "homogênea, homogênea e heterogênea."
+          },
+          {
+            "letra": "C",
+            "texto": "heterogênea, heterogênea e heterogênea."
+          },
+          {
+            "letra": "D",
+            "texto": "heterogênea, heterogênea e homogênea."
+          },
+          {
+            "letra": "E",
+            "texto": "heterogênea, homogênea e homogênea."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Misturas",
+          "Química – Soluções"
+        ]
+      },
+      {
+        "numeroEnunciado": 54,
+        "enunciado": "O modelo atômico de Thomson resultou da interpretação de experimentos realizados por esse cientista que envolveram",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "ampolas contendo gases rarefeitos submetidos a altas tensões elétricas."
+          },
+          {
+            "letra": "B",
+            "texto": "a incidência de partículas alfa em lâminas metálicas delgadas."
+          },
+          {
+            "letra": "C",
+            "texto": "proporções entre as massas de reagentes e produtos de reações químicas."
+          },
+          {
+            "letra": "D",
+            "texto": "os efeitos magnéticos provocados pela corrente elétrica."
+          },
+          {
+            "letra": "E",
+            "texto": "emissão de espectros luminosos por elementos químicos submetidos a aquecimento."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Modelos Atômicos",
+          "Química – Estrutura Atômica"
+        ]
+      },
+      {
+        "numeroEnunciado": 55,
+        "enunciado": "O magnésio (Mg) é um elemento químico pertencente ao grupo dos metais alcalino-terrosos. O número de elétrons presente no terceiro nível de energia do átomo de magnésio no estado fundamental é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2."
+          },
+          {
+            "letra": "B",
+            "texto": "4."
+          },
+          {
+            "letra": "C",
+            "texto": "6."
+          },
+          {
+            "letra": "D",
+            "texto": "8."
+          },
+          {
+            "letra": "E",
+            "texto": "10."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Estrutura Atômica",
+          "Química – Tabela Periódica"
+        ]
+      },
+      {
+        "numeroEnunciado": 56,
+        "enunciado": "Aquecendo-se carbonato de cobre(II), este se decompõe produzindo óxido de cobre(II) e dióxido de carbono, de acordo com a equação:\n\nCuCO3 (s) → CuO (s) + CO2 (g)\n\nEm um cadinho de massa igual a 18,0 g, foram colocados 2,5 g de CuCO3 (s). O cadinho com seu conteúdo foi aquecido prolongadamente. Após o resfriamento do cadinho, foi novamente determinada a massa do conjunto (cadinho + conteúdo final), encontrando como resultado o valor de 19,6 g. A massa de dióxido de carbono produzida nessa reação foi, portanto, igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,16 g."
+          },
+          {
+            "letra": "B",
+            "texto": "0,25 g."
+          },
+          {
+            "letra": "C",
+            "texto": "0,9 g."
+          },
+          {
+            "letra": "D",
+            "texto": "1,2 g."
+          },
+          {
+            "letra": "E",
+            "texto": "1,6 g."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Estequiometria",
+          "Química – Leis Ponderais (Lei de Lavoisier)"
+        ]
+      },
+      {
+        "numeroEnunciado": 57,
+        "enunciado": "A dissolução de 10 g de sal de cozinha refinado em água a 25 °C é mais __________ do que a dissolução de 10 g de sal grosso em água a 25 °C, porque o sal refinado apresenta __________ superfície de contato, fazendo com que __________ o número de colisões entre partículas do sal e moléculas de água por unidade de tempo.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "lenta, menor e diminua."
+          },
+          {
+            "letra": "B",
+            "texto": "lenta, maior e diminua."
+          },
+          {
+            "letra": "C",
+            "texto": "rápida, maior e aumente."
+          },
+          {
+            "letra": "D",
+            "texto": "rápida, menor e aumente."
+          },
+          {
+            "letra": "E",
+            "texto": "rápida, maior e diminua."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Cinética Química",
+          "Química – Soluções"
+        ]
+      },
+      {
+        "numeroEnunciado": 58,
+        "enunciado": "Recentemente, ocorreu no Líbano um grave desastre provocado pela explosão de grande quantidade de nitrato de amônio que estava armazenada em um galpão no porto de Beirute. A equação química, não completamente balanceada, que representa essa explosão é\n\n2NH4NO3 (s) → xN2 (g) + yO2 (g) + zH2O (g) + energia térmica\n\nEssa equação fica corretamente balanceada substituindo-se x, y e z, respectivamente, por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2, 1 e 2."
+          },
+          {
+            "letra": "B",
+            "texto": "2, 1 e 4."
+          },
+          {
+            "letra": "C",
+            "texto": "2, 2 e 4."
+          },
+          {
+            "letra": "D",
+            "texto": "1, 1 e 2."
+          },
+          {
+            "letra": "E",
+            "texto": "1, 1 e 4."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Reações Químicas",
+          "Química – Balanceamento de Equações"
+        ]
+      },
+      {
+        "numeroEnunciado": 59,
+        "enunciado": "Entre as substâncias comumente empregadas no tratamento da água de abastecimento público, estão as seguintes:\n\n1. cloro\n2. fluoreto de sódio\n3. sulfato de alumínio\n4. cal hidratada\n\nDessas substâncias, são utilizadas na etapa de floculação",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a 1 e a 2."
+          },
+          {
+            "letra": "B",
+            "texto": "a 1 e a 3."
+          },
+          {
+            "letra": "C",
+            "texto": "a 1 e a 4."
+          },
+          {
+            "letra": "D",
+            "texto": "a 2 e a 3."
+          },
+          {
+            "letra": "E",
+            "texto": "a 3 e a 4."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Tratamento de Água"
+        ]
+      },
+      {
+        "numeroEnunciado": 60,
+        "enunciado": "Uma diferença entre pilha eletroquímica e eletrólise está no fato de apenas a pilha",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "envolver transformação química."
+          },
+          {
+            "letra": "B",
+            "texto": "apresentar polos (+) e (-)."
+          },
+          {
+            "letra": "C",
+            "texto": "envolver transferência de elétrons."
+          },
+          {
+            "letra": "D",
+            "texto": "gerar energia elétrica."
+          },
+          {
+            "letra": "E",
+            "texto": "conter um eletrólito."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Eletroquímica"
+        ]
+      }
+    ]
+  }
+}

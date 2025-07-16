@@ -1,0 +1,1875 @@
+{
+  "prova": {
+    "nomeUniversidade": "UNIVERSIDADE DO ESTADO DO AMAZONAS",
+    "siglaUniversidade": "UEA",
+    "nomeProva": "PROVA DE ACOMPANHAMENTO I",
+    "ano": 2020,
+    "qtdeQuestoes": 60,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "Para responder às questões de 01 a 03, leia o trecho do \"Sermão de Santo Antônio aos peixes\", de Antônio Vieira.\n\nPegadores se chamam os peixes de que agora falo, e com grande propriedade, porque sendo pequenos, não só se chegam a outros maiores, mas de tal sorte se lhes pegam aos costados que jamais os desaferram. De alguns animais de menos força e indústria se conta que vão seguindo de longe aos leões na caça, para se sustentarem do que a eles sobeja. O mesmo fazem estes pegadores, tão seguros ao perto, como aqueles ao longe; porque o peixe grande não pode dobrar a cabeça, nem voltar a boca sobre os que traz às costas, e assim lhes sustenta o peso, e mais a fome.\n\nEste modo de vida, mais astuto que generoso, se acaso se passou, e pegou de um elemento a outro, sem dúvida, que o aprenderam os peixes com os nossos portugueses; porque não parte vice-rei, ou governador para as conquistas, que não vá rodeado de pegadores, os quais se arrimam a eles, para que cá lhe matem a fome, de que lá não tinham remédio. Os menos ignorantes, desenganados da experiência, despegam-se, e buscam a vida por outra via; mas os que se deixam estar pegados à mercê e fortuna dos maiores, vem-lhes a suceder no fim o que aos pegadores do mar.\n\nRodeia a nau o tubarão com os seus pegadores às costas, tão cerzidos com a pele, que mais parecem remendos, ou manchas naturais, que hóspedes ou companheiros. Lançam-lhe um anzol de cadeia com a ração de quatro soldados, arremessa-se furiosamente à presa, engole tudo de um bocado, e fica preso. Corre meia companha a alá-lo acima, bate fortemente o convés com os últimos arrancos; enfim, morre o tubarão, e morrem com ele os pegadores.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nNo trecho, Vieira compara os pegadores",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "aos pequenos peixes que seguem os grandes."
+          },
+          {
+            "letra": "B",
+            "texto": "aos animais mais fracos que seguem os leões."
+          },
+          {
+            "letra": "C",
+            "texto": "aos leões."
+          },
+          {
+            "letra": "D",
+            "texto": "aos vice-reis e aos governadores."
+          },
+          {
+            "letra": "E",
+            "texto": "aos tubarões."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Texto",
+          "Língua Portuguesa – Barroco"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "Para responder às questões de 01 a 03, leia o trecho do \"Sermão de Santo Antônio aos peixes\", de Antônio Vieira.\n\nPegadores se chamam os peixes de que agora falo, e com grande propriedade, porque sendo pequenos, não só se chegam a outros maiores, mas de tal sorte se lhes pegam aos costados que jamais os desaferram. De alguns animais de menos força e indústria se conta que vão seguindo de longe aos leões na caça, para se sustentarem do que a eles sobeja. O mesmo fazem estes pegadores, tão seguros ao perto, como aqueles ao longe; porque o peixe grande não pode dobrar a cabeça, nem voltar a boca sobre os que traz às costas, e assim lhes sustenta o peso, e mais a fome.\n\nEste modo de vida, mais astuto que generoso, se acaso se passou, e pegou de um elemento a outro, sem dúvida, que o aprenderam os peixes com os nossos portugueses; porque não parte vice-rei, ou governador para as conquistas, que não vá rodeado de pegadores, os quais se arrimam a eles, para que cá lhe matem a fome, de que lá não tinham remédio. Os menos ignorantes, desenganados da experiência, despegam-se, e buscam a vida por outra via; mas os que se deixam estar pegados à mercê e fortuna dos maiores, vem-lhes a suceder no fim o que aos pegadores do mar.\n\nRodeia a nau o tubarão com os seus pegadores às costas, tão cerzidos com a pele, que mais parecem remendos, ou manchas naturais, que hóspedes ou companheiros. Lançam-lhe um anzol de cadeia com a ração de quatro soldados, arremessa-se furiosamente à presa, engole tudo de um bocado, e fica preso. Corre meia companha a alá-lo acima, bate fortemente o convés com os últimos arrancos; enfim, morre o tubarão, e morrem com ele os pegadores.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nEm \"De alguns animais de menos força e indústria se conta que vão seguindo de longe aos leões na caça, para se sustentarem do que a eles sobeja\" (1º parágrafo), o termo sublinhado pode ser substituído, sem prejuízo para o sentido do texto, por:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "interessa."
+          },
+          {
+            "letra": "B",
+            "texto": "engana."
+          },
+          {
+            "letra": "C",
+            "texto": "falta."
+          },
+          {
+            "letra": "D",
+            "texto": "intimida."
+          },
+          {
+            "letra": "E",
+            "texto": "sobra."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Texto",
+          "Língua Portuguesa – Semântica"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "Para responder às questões de 01 a 03, leia o trecho do \"Sermão de Santo Antônio aos peixes\", de Antônio Vieira.\n\nPegadores se chamam os peixes de que agora falo, e com grande propriedade, porque sendo pequenos, não só se chegam a outros maiores, mas de tal sorte se lhes pegam aos costados que jamais os desaferram. De alguns animais de menos força e indústria se conta que vão seguindo de longe aos leões na caça, para se sustentarem do que a eles sobeja. O mesmo fazem estes pegadores, tão seguros ao perto, como aqueles ao longe; porque o peixe grande não pode dobrar a cabeça, nem voltar a boca sobre os que traz às costas, e assim lhes sustenta o peso, e mais a fome.\n\nEste modo de vida, mais astuto que generoso, se acaso se passou, e pegou de um elemento a outro, sem dúvida, que o aprenderam os peixes com os nossos portugueses; porque não parte vice-rei, ou governador para as conquistas, que não vá rodeado de pegadores, os quais se arrimam a eles, para que cá lhe matem a fome, de que lá não tinham remédio. Os menos ignorantes, desenganados da experiência, despegam-se, e buscam a vida por outra via; mas os que se deixam estar pegados à mercê e fortuna dos maiores, vem-lhes a suceder no fim o que aos pegadores do mar.\n\nRodeia a nau o tubarão com os seus pegadores às costas, tão cerzidos com a pele, que mais parecem remendos, ou manchas naturais, que hóspedes ou companheiros. Lançam-lhe um anzol de cadeia com a ração de quatro soldados, arremessa-se furiosamente à presa, engole tudo de um bocado, e fica preso. Corre meia companha a alá-lo acima, bate fortemente o convés com os últimos arrancos; enfim, morre o tubarão, e morrem com ele os pegadores.\n\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nÉ formada pelo processo de prefixação a seguinte palavra:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "\"propriedade\" (1º parágrafo)."
+          },
+          {
+            "letra": "B",
+            "texto": "\"generoso\" (2º parágrafo)."
+          },
+          {
+            "letra": "C",
+            "texto": "\"despegam” (2º parágrafo)."
+          },
+          {
+            "letra": "D",
+            "texto": "\"arremessa\" (3º parágrafo)."
+          },
+          {
+            "letra": "E",
+            "texto": "\"furiosamente\" (3º parágrafo)."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Formação de Palavras"
+        ]
+      },
+      {
+        "numeroEnunciado": 4,
+        "enunciado": "Para responder às questões 04 e 05, leia o trecho do \"Sermão da Sexagésima\", de Antônio Vieira.\n\nVemos sair da boca daquele homem, assim naqueles trajos, uma voz muito afetada e muito polida, e logo começar com muito desgarro, a quê? A motivar desvelos, a acreditar empenhos, a requintar finezas, a lisonjear precipícios, a brilhar auroras, a derreter cristais, a desmaiar jasmins, a toucar primaveras, e outras mil indignidades destas. Não é isto farsa a mais digna de riso, se não fora tanto para chorar?\n\n(Antônio Vieira. Essencial, 2011.)\n\nNo trecho, Vieira critica o estilo",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "rebuscado dos oradores da época."
+          },
+          {
+            "letra": "B",
+            "texto": "sentimental dos oradores da época."
+          },
+          {
+            "letra": "C",
+            "texto": "divertido dos oradores da época."
+          },
+          {
+            "letra": "D",
+            "texto": "simplório dos oradores da época."
+          },
+          {
+            "letra": "E",
+            "texto": "sarcástico dos oradores da época."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Texto",
+          "Língua Portuguesa – Barroco"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "Para responder às questões 04 e 05, leia o trecho do \"Sermão da Sexagésima\", de Antônio Vieira.\n\nVemos sair da boca daquele homem, assim naqueles trajos, uma voz muito afetada e muito polida, e logo começar com muito desgarro, a quê? A motivar desvelos, a acreditar empenhos, a requintar finezas, a lisonjear precipícios, a brilhar auroras, a derreter cristais, a desmaiar jasmins, a toucar primaveras, e outras mil indignidades destas. Não é isto farsa a mais digna de riso, se não fora tanto para chorar?\n\n(Antônio Vieira. Essencial, 2011.)\n\nA expressão \"brilhar auroras\" constitui um exemplo do estilo criticado por Vieira. Nela se verifica o recurso à seguinte figura de linguagem:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "paradoxo."
+          },
+          {
+            "letra": "B",
+            "texto": "personificação."
+          },
+          {
+            "letra": "C",
+            "texto": "antítese."
+          },
+          {
+            "letra": "D",
+            "texto": "pleonasmo."
+          },
+          {
+            "letra": "E",
+            "texto": "eufemismo."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Figuras de Linguagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 6,
+        "enunciado": "Para responder às questões 06 e 07, leia o trecho de um poema de Alvarenga Peixoto.\n\nAo mundo esconde o Sol seus resplendores\ne a mão da Noite embrulha os horizontes;\nnão cantam aves, não murmuram fontes,\nnão fala Pã¹ na boca dos pastores.\n\nAtam as Ninfas², em lugar de flores,\nmortais ciprestes sobre as tristes frontes;\nerram chorando nos desertos montes,\nsem arcos, sem aljavas³, os Amores.\n\n(José Lino Grünewald (org.). Os poetas da Inconfidência, 1989.)\n\n¹ Pã: na tradição greco-latina, o deus dos pastores.\n² Ninfas: na tradição greco-latina, divindades que habitavam os rios, fontes, bosques, montes e prados.\n³ aljava: estojo sem tampa em que se guardavam e transportavam as flechas, e que era carregado nas costas.\n\nNo trecho, o eu lírico descreve um quadro",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "bélico."
+          },
+          {
+            "letra": "B",
+            "texto": "melancólico."
+          },
+          {
+            "letra": "C",
+            "texto": "festivo."
+          },
+          {
+            "letra": "D",
+            "texto": "bucólico."
+          },
+          {
+            "letra": "E",
+            "texto": "tranquilo."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Texto",
+          "Língua Portuguesa – Arcadismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "Para responder às questões 06 e 07, leia o trecho de um poema de Alvarenga Peixoto.\n\nAo mundo esconde o Sol seus resplendores\ne a mão da Noite embrulha os horizontes;\nnão cantam aves, não murmuram fontes,\nnão fala Pã¹ na boca dos pastores.\n\nAtam as Ninfas², em lugar de flores,\nmortais ciprestes sobre as tristes frontes;\nerram chorando nos desertos montes,\nsem arcos, sem aljavas³, os Amores.\n\n(José Lino Grünewald (org.). Os poetas da Inconfidência, 1989.)\n\n¹ Pã: na tradição greco-latina, o deus dos pastores.\n² Ninfas: na tradição greco-latina, divindades que habitavam os rios, fontes, bosques, montes e prados.\n³ aljava: estojo sem tampa em que se guardavam e transportavam as flechas, e que era carregado nas costas.\n\nDiferentemente do que se costuma observar na poesia árcade, verificam-se nesse trecho muitas inversões (ou seja, alterações da ordem direta da frase). Reescrito em ordem direta, o verso inicial assume a seguinte redação:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Ao mundo o Sol esconde seus resplendores."
+          },
+          {
+            "letra": "B",
+            "texto": "O Sol ao mundo esconde seus resplendores."
+          },
+          {
+            "letra": "C",
+            "texto": "O Sol esconde seus resplendores ao mundo."
+          },
+          {
+            "letra": "D",
+            "texto": "Ao mundo o Sol seus resplendores esconde."
+          },
+          {
+            "letra": "E",
+            "texto": "O Sol esconde ao mundo seus resplendores."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Sintaxe",
+          "Língua Portuguesa – Arcadismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "Das pinturas reproduzidas nas alternativas, aquela que remete ao ideário do Arcadismo é:\n\n(A) Imagem: \"O três de maio em Madri, 1814.\" (Francisco de Goya).\n(B) Imagem: \"O caminhante sobre o mar de névoa, 1818.\" (Caspar David Friedrich).\n(C) Imagem: \"São Jerônimo, 1606.\" (Michelangelo Caravaggio).\n(D) Imagem: \"Cena pastoral, 1750.\" (Francesco Zuccarelli).\n(E) Imagem: \"A morte de Marat, 1793.\" (Jacques-Louis David).",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Imagem de pintura de Francisco de Goya, 'O três de maio em Madri', 1814."
+          },
+          {
+            "letra": "B",
+            "texto": "Imagem de pintura de Caspar David Friedrich, 'O caminhante sobre o mar de névoa', 1818."
+          },
+          {
+            "letra": "C",
+            "texto": "Imagem de pintura de Michelangelo Caravaggio, 'São Jerônimo', 1606."
+          },
+          {
+            "letra": "D",
+            "texto": "Imagem de pintura de Francesco Zuccarelli, 'Cena pastoral', 1750."
+          },
+          {
+            "letra": "E",
+            "texto": "Imagem de pintura de Jacques-Louis David, 'A morte de Marat', 1793."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Arte – Arcadismo",
+          "Arte – História da Arte"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric Gaillard/Reuters)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nDe acordo com o primeiro parágrafo, na Inglaterra, canudos e mexedores de plástico para bebidas, além de cotonetes com hastes de plástico,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "já foram proibidos neste ano."
+          },
+          {
+            "letra": "B",
+            "texto": "serão proibidos a partir de abril de 2020."
+          },
+          {
+            "letra": "C",
+            "texto": "estão sendo gradativamente retirados do mercado desde 2018."
+          },
+          {
+            "letra": "D",
+            "texto": "foram proibidos há mais de um ano."
+          },
+          {
+            "letra": "E",
+            "texto": "serão substituídos por plástico biodegradável."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Interpretação de Texto",
+          "Inglês – Meio Ambiente"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric Gaillard/Reuters)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nDe acordo com o texto, o objetivo da medida do governo inglês é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "diminuir a venda de produtos supérfluos."
+          },
+          {
+            "letra": "B",
+            "texto": "promover a diversificação de produtos."
+          },
+          {
+            "letra": "C",
+            "texto": "atender a diversidade de preferências dos consumidores."
+          },
+          {
+            "letra": "D",
+            "texto": "incentivar os hábitos saudáveis das pessoas."
+          },
+          {
+            "letra": "E",
+            "texto": "reduzir a quantidade de lixo e os impactos ambientais."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Inglês – Interpretação de Texto",
+          "Inglês – Compreensão de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric Gaillard/Reuters)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nNo trecho do segundo parágrafo \"Huge numbers of these items\", a expressão sublinhada refere-se a:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "\"2 billion cotton buds with plastic stems\"."
+          },
+          {
+            "letra": "B",
+            "texto": "\"toilets\"."
+          },
+          {
+            "letra": "C",
+            "texto": "\"5 billion plastic straws\"."
+          },
+          {
+            "letra": "D",
+            "texto": "\"plastic straws and drink stirrers, and cotton buds with plastic stems\"."
+          },
+          {
+            "letra": "E",
+            "texto": "\"plastic stems\"."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Inglês – Interpretação de Texto",
+          "Inglês – Vocabulário"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric Gaillard/Reuters)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nDe acordo com o terceiro parágrafo, a melhor alternativa ao uso de canudos plásticos é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "usar canudos de papel."
+          },
+          {
+            "letra": "B",
+            "texto": "reciclar canudos de plástico."
+          },
+          {
+            "letra": "C",
+            "texto": "servir bebidas sem canudos."
+          },
+          {
+            "letra": "D",
+            "texto": "usar copos de plástico ou papel."
+          },
+          {
+            "letra": "E",
+            "texto": "comprar canudos de metal reutilizáveis."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Inglês – Interpretação de Texto",
+          "Inglês – Vocabulário"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "Leia o texto para responder às questões 13 e 14.\n\nO arqueólogo brasileiro Walter Neves e seus colegas estudaram esqueletos de diferentes épocas e regiões da América do Sul, comparando-os com 18 populações da humanidade atual, agrupadas por continente. Dentre esses esqueletos, os chamados paleoíndios (12 a 5 mil anos atrás) mostraram uma surpreendente diferença em relação aos grupos posteriores mongoloides¹ e semelhanças com populações atuais da África e da Oceania.\n\n(Pedro Paulo Funari e Francisco Silva Noelli. Pré-história do Brasil, 2016. Adaptado.)\n\n¹ mongoloide: grupo humano asiático com características físicas parecidas com os atuais chineses e japoneses, do qual descenderiam as populações indígenas atuais do continente americano.\n\nOs estudos referidos no texto apresentam",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "uma provável evolução autóctone dos seres humanos que viveram no continente americano no período pré-histórico."
+          },
+          {
+            "letra": "B",
+            "texto": "uma explicação evolucionista da formação da humanidade, que se baseia em evidências arqueológicas encontradas na savana africana."
+          },
+          {
+            "letra": "C",
+            "texto": "uma grande diversidade dos grupos populacionais que ocuparam a América no período pré-histórico."
+          },
+          {
+            "letra": "D",
+            "texto": "a tese de que o povoamento do continente americano foi realizado predominantemente por povos asiáticos vindos do Pacífico."
+          },
+          {
+            "letra": "E",
+            "texto": "a hipótese de que o povoamento da América ocorreu por meio de sucessivas migrações de povos agricultores do Neolítico."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – Pré-História",
+          "História – Povoamento da América"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "Leia o texto para responder às questões 13 e 14.\n\nO arqueólogo brasileiro Walter Neves e seus colegas estudaram esqueletos de diferentes épocas e regiões da América do Sul, comparando-os com 18 populações da humanidade atual, agrupadas por continente. Dentre esses esqueletos, os chamados paleoíndios (12 a 5 mil anos atrás) mostraram uma surpreendente diferença em relação aos grupos posteriores mongoloides¹ e semelhanças com populações atuais da África e da Oceania.\n\n(Pedro Paulo Funari e Francisco Silva Noelli. Pré-história do Brasil, 2016. Adaptado.)\n\n¹ mongoloide: grupo humano asiático com características físicas parecidas com os atuais chineses e japoneses, do qual descenderiam as populações indígenas atuais do continente americano.\n\nPara determinar as diferentes épocas dos esqueletos humanos estudados, os pesquisadores utilizam, dentre várias técnicas e abordagens,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a análise do DNA."
+          },
+          {
+            "letra": "B",
+            "texto": "o método de datação pelo Carbono 14."
+          },
+          {
+            "letra": "C",
+            "texto": "a investigação de restos alimentares com auxílio de microscópios."
+          },
+          {
+            "letra": "D",
+            "texto": "a tomografia computadorizada com a geração de imagens para impressão em 3D."
+          },
+          {
+            "letra": "E",
+            "texto": "o exame do tamanho dos ossos para identificar a idade do fóssil."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Evolução",
+          "História – Métodos de Pesquisa"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "Os principais testemunhos arquitetônicos da grandeza egípcia, sejam túmulos, palácios ou templos, reproduzem visualmente o poder sagrado atribuído aos seus governantes.\n\n(José Rivair Macedo. História da África, 2015. Adaptado.)\n\nO texto faz referência",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "ao caráter teocrático do Estado egípcio, que era centralizado na figura do faraó."
+          },
+          {
+            "letra": "B",
+            "texto": "à crença na imortalidade, que era a base da religião monoteísta no Egito da Antiguidade."
+          },
+          {
+            "letra": "C",
+            "texto": "à coletivização das terras férteis, o que garantia a sobrevivência da massa camponesa."
+          },
+          {
+            "letra": "D",
+            "texto": "à rígida estratificação social, que era baseada na vontade dos deuses."
+          },
+          {
+            "letra": "E",
+            "texto": "à expansão territorial egípcia, que se deu após a unificação política."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – Egito Antigo",
+          "História – Civilizações Fluviais"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "Enquanto o campo se cobria de grandes domínios senhoriais, a cidade, inversamente, povoava-se de uma massa proletarizada, desprovida de terra ou de qualquer outra propriedade. A sua posição estratégica na capital de um império em expansão acabou por forçar a classe dirigente de Roma a atender os seus interesses materiais imediatos.\n\n(Perry Anderson. Passagens da Antiguidade ao feudalismo, 1982. Adaptado.)\n\nUma das soluções adotadas na República romana para enfrentar a situação exposta no texto foi",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a aprovação de reformas sociais pelo Senado."
+          },
+          {
+            "letra": "B",
+            "texto": "a estabilização das fronteiras por meio da pax romana."
+          },
+          {
+            "letra": "C",
+            "texto": "a elaboração, por escrito, das leis do direito vigente."
+          },
+          {
+            "letra": "D",
+            "texto": "a abolição da escravidão dos romanos por dívidas."
+          },
+          {
+            "letra": "E",
+            "texto": "a implementação da política do pão e circo."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – Roma Antiga",
+          "História – República Romana"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "Na Alta Idade Média, a economia feudal tem por objetivo a subsistência dos homens. A subsistência varia conforme as camadas sociais. À massa, basta a subsistência no sentido estrito da palavra, ou seja, o suficiente para a sobrevivência física. Para as camadas superiores, a subsistência inclui a satisfação de necessidades maiores, deve permitir que mantenham sua categoria, que não decaiam. Sua subsistência é fornecida em pequena parte pelas importações estrangeiras e, quanto ao mais, pelo trabalho da massa.\n\n(Jacques Le Goff. A civilização do Ocidente medieval, 2016. Adaptado.)\n\nDe acordo com o texto, pode-se concluir que a economia feudal, na Alta Idade Média,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "eliminou completamente as relações comerciais em escalas locais e internacionais."
+          },
+          {
+            "letra": "B",
+            "texto": "estabeleceu a propriedade da terra por meio de contratos de compra e venda entre suseranos e vassalos."
+          },
+          {
+            "letra": "C",
+            "texto": "estimulou a circulação de mercadorias através de rotas de comércio marítimas entre Ocidente e Oriente."
+          },
+          {
+            "letra": "D",
+            "texto": "desenvolveu-se em unidades produtivas essencialmente agrárias e autossuficientes."
+          },
+          {
+            "letra": "E",
+            "texto": "sofreu forte intervenção dos nobres por meio do controle de preços e da qualidade dos produtos."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – Idade Média",
+          "História – Feudalismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "Imagens de satélite e sobrevoos revelaram mais de 200 enormes construções geométricas escavadas na Bacia Amazônica Superior, perto da fronteira do Brasil com a Bolívia.\n\nEspalhados por 248 quilômetros, os círculos, quadrados e outras formas geométricas formam uma rede de avenidas, valetas e recintos construídos muito antes de Cristóvão Colombo ter chegado à América. Os cientistas que mapearam essas construções acreditam que pode haver outras 2000 embaixo das árvores.\n\nA descoberta foi publicada na revista especializada Antiquity. No artigo afirma-se que: \"Esse povo até agora desconhecido construiu fortificações com um plano geométrico preciso, conectadas por estradas ortogonais retas\". Chamadas de geoglifos, as figuras estendem-se por uma região de mais de 248 quilômetros e compõem uma rede de trincheiras com 11 metros de largura e barrancos de 1 metro. Acredita-se que eram usadas como fortificações, moradias e para cerimônias e que poderiam abrigar 60 mil pessoas.\n\n(https://ciencia.estadao.com.br. Adaptado.)\n\nCom base no texto, pode-se afirmar que, na Amazônia pré-colombiana,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "os solos eram muito pobres para sustentar uma agricultura extensiva e permitir grandes assentamentos humanos."
+          },
+          {
+            "letra": "B",
+            "texto": "os centros urbanos se constituíam em cidades-Estado, com governo próprio e autônomo."
+          },
+          {
+            "letra": "C",
+            "texto": "a construção de cidades e monumentos foi realizada por sociedades indígenas com conhecimentos técnicos sofisticados."
+          },
+          {
+            "letra": "D",
+            "texto": "as reformas urbanísticas previam a ampliação do perímetro urbano e a abertura de canais fluviais navegáveis."
+          },
+          {
+            "letra": "E",
+            "texto": "os sacrifícios humanos eram praticados em templos para presentear e homenagear os deuses."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – Povos Indígenas do Brasil",
+          "História – Amazônia Pré-colombiana",
+          "Geografia – Geoglifos"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "Os diários, as memórias e as crônicas de viagens escritas por marinheiros, comerciantes, militares, missionários e exploradores seriam as principais fontes de conhecimento e representação da África dos séculos XV ao XVIII.\n\nEssas representações associavam o continente africano à barbárie e à devassidão num movimento de contraposição às sociedades europeias. Nem mesmo o confronto com formações políticas hegemônicas como Reino do Kongo e Etiópia ou o contato com outros padrões urbanísticos, estéticos e cosmológicos, puderam alterar de forma efetiva o imaginário europeu acerca do continente.\n\n(Regina Claro. Olhar a África, 2012. Adaptado.)\n\nAs representações a respeito dos africanos, citadas no texto,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "criaram modalidades distintas de escravidão para africanos oriundos de pequenas comunidades e de sociedades constituídas em Estados."
+          },
+          {
+            "letra": "B",
+            "texto": "foram fundamentais para a legitimação da conquista europeia e da escravização dos povos da África."
+          },
+          {
+            "letra": "C",
+            "texto": "restringiram a utilização do trabalho escravo africano às lavouras monocultoras e à mineração na América."
+          },
+          {
+            "letra": "D",
+            "texto": "contribuíram para a formulação do pan-africanismo e para a libertação política das colônias africanas no final do século XVIII."
+          },
+          {
+            "letra": "E",
+            "texto": "orientaram as ações dos jesuítas no sentido de condenar a escravidão dos africanos e defender a sua catequização."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – África Pré-colonial",
+          "História – Escravidão",
+          "Sociologia – Formação Social"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "A palavra política é grega: ta politika, vinda de polis. Polis é a cidade, entendida como a comunidade organizada formada pelos cidadãos (politikos), isto é, pelos homens livres e iguais.\n\nPolis corresponde (imperfeitamente) ao que, no vocabulário político moderno, chamamos de Estado: o conjunto das instituições públicas e sua administração pelos membros da cidade.\n\nTa politika corresponde (imperfeitamente) ao que designamos modernamente por práticas políticas, referindo-se ao modo de participação no poder, aos conflitos e acordos na tomada de decisões.\n\n(Marilena Chauí. Convite à Filosofia, 1995. Adaptado.)\n\nEstá de acordo com o texto a seguinte afirmação:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "A política é uma atividade própria de determinadas pessoas encarregadas de fazê-la, que são vistas como políticos profissionais."
+          },
+          {
+            "letra": "B",
+            "texto": "A política é percebida como algo que prejudica os cidadãos em geral e favorece os interesses escusos e ilícitos de alguns membros da sociedade."
+          },
+          {
+            "letra": "C",
+            "texto": "A política é ação exclusiva dos governantes que detêm a autoridade para dirigir a coletividade organizada."
+          },
+          {
+            "letra": "D",
+            "texto": "A política é um poder distante dos membros da sociedade e exercida por meio de práticas secretas."
+          },
+          {
+            "letra": "E",
+            "texto": "A política é o modo pelo qual os cidadãos discutem e deliberam sobre assuntos públicos para aprovar ou rejeitar ações que dizem respeito à sua comunidade."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Filosofia – Teoria Política",
+          "Sociologia – Cidadania"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "Ao planejar seu deslocamento, utilizando o aplicativo Google Maps, uma pessoa identificou a distância real de 10 quilômetros entre a Arena da Amazônia e o Aeroporto Internacional de Manaus. No mapa do aplicativo, essa distância corresponde a 5 centímetros. Com esses dados, a pessoa identificou que a escala do mapa corresponde a\n\n(Imagem: Mapa da região de Manaus com destaque para a Arena da Amazônia e o Aeroporto Internacional de Manaus, com uma linha azul indicando o trajeto.)\n\n(www.google.com.br. Adaptado.)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1:20."
+          },
+          {
+            "letra": "B",
+            "texto": "1: 200."
+          },
+          {
+            "letra": "C",
+            "texto": "1:2000."
+          },
+          {
+            "letra": "D",
+            "texto": "1:20000."
+          },
+          {
+            "letra": "E",
+            "texto": "1:200000."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Cartografia",
+          "Matemática – Escalas"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "Analise a representação cartográfica.\n\n(Imagem: Representação de uma projeção cartográfica cônica, mostrando linhas de latitude e longitude convergindo nos polos.)\n\n(https://biblioteca.ibge.gov.br.)\n\nNessa representação cartográfica, utiliza-se a projeção mais adequada para representar os países em médias latitudes, bem como um determinado hemisfério da Terra, pois as distorções próximas ao paralelo de contato são pequenas e aumentam à medida que as superfícies se distanciam desse paralelo de referência. Essa projeção cartográfica é do tipo",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "intermitente."
+          },
+          {
+            "letra": "B",
+            "texto": "cilíndrica."
+          },
+          {
+            "letra": "C",
+            "texto": "cônica."
+          },
+          {
+            "letra": "D",
+            "texto": "plana."
+          },
+          {
+            "letra": "E",
+            "texto": "parcial."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Cartografia",
+          "Geografia – Projeções Cartográficas"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "Leia o trecho do poema \"Canção do exílio”, escrito pelo poeta Gonçalves Dias em 1843.\n\nMinha terra tem palmeiras,\nOnde canta o Sabiá;\nAs aves, que aqui gorjeiam,\nNão gorjeiam como lá.\n\nNosso céu tem mais estrelas,\nNossas várzeas têm mais flores,\nNossos bosques têm mais vida,\nNossa vida mais amores.\n\n[...]\n\nNão permita Deus que eu morra,\nSem que eu volte para lá;\nSem que desfrute os primores\nQue não encontro por cá;\nSem qu'inda aviste as palmeiras,\nOnde canta o Sabiá.\n\n(https://letrasufabc.wordpress.com. Adaptado.)\n\nNo poema, Gonçalves Dias ressalta os valores naturais do Brasil, contrapondo-os ao seu exílio na Europa. Tendo como referência uma categoria de análise geográfica, as lembranças do poeta em relação ao Brasil podem ser explicadas pela noção de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Lugar, enquanto base da existência humana, representado por símbolos, significados e sentimentos próprios."
+          },
+          {
+            "letra": "B",
+            "texto": "Paisagem, enquanto base de uma relação de poder, materializada pelo aprisionamento em outro país."
+          },
+          {
+            "letra": "C",
+            "texto": "Região, enquanto base da homogeneidade de características sociais, representada pela semelhança entre Brasil e Portugal."
+          },
+          {
+            "letra": "D",
+            "texto": "Território, enquanto base da forma visível do espaço geográfico, resultado do agrupamento de elementos físicos, naturais e sociais."
+          },
+          {
+            "letra": "E",
+            "texto": "Geopolítica, enquanto base da condição humana, potencializada pela luta de classes que ocorre no exílio português."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Conceitos Geográficos",
+          "Língua Portuguesa – Romantismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "Considerando a grande variação nos fatores (rocha, clima, relevo, organismos e tempo) e processos (adição, remoção, transformação e translocação) responsáveis pela formação do solo, existem, na natureza, inúmeros tipos de perfis, os quais podem apresentar um ou mais horizontes, conforme mostram as figuras.\n\n(Imagens: Cinco perfis de solo numerados de 1 a 5, mostrando diferentes camadas horizontais e graus de desenvolvimento.)\n\n(Valmiqui C. Lima et al. (orgs.). O solo no meio ambiente, 2007. Adaptado.)\n\nO solo com maior grau de desenvolvimento está representado no perfil",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1."
+          },
+          {
+            "letra": "B",
+            "texto": "2."
+          },
+          {
+            "letra": "C",
+            "texto": "3."
+          },
+          {
+            "letra": "D",
+            "texto": "4."
+          },
+          {
+            "letra": "E",
+            "texto": "5."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Pedologia",
+          "Geografia – Solos"
+        ]
+      },
+      {
+        "numeroEnunciado": 25,
+        "enunciado": "Examine a tabela.\n\n(Tabela: Carga orgânica doméstica remanescente da Região Hidrográfica do Amazonas, com unidades hidrográficas e suas respectivas cargas de esgoto doméstico em t DBO/dia.)\n\n(www.agg.ufba.br, 2002. Adaptado.)\n\n¹ toneladas de esgoto doméstico lançadas por dia.\n\nA poluição por esgoto doméstico lançado diariamente nos rios amazônicos ocorre de forma",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "concentrada, próxima às pequenas comunidades ribeirinhas e com descarte de dejetos diretamente no rio."
+          },
+          {
+            "letra": "B",
+            "texto": "localizada, próxima aos centros urbanos com maior população e com baixo índice de coleta e tratamento de esgoto."
+          },
+          {
+            "letra": "C",
+            "texto": "centralizada, próxima às usinas hidrelétricas que, ao represarem as águas dos rios, acumulam o esgoto em suas barragens."
+          },
+          {
+            "letra": "D",
+            "texto": "dispersa, próxima às áreas urbanas extrativistas que possuem um eficiente sistema de saneamento básico."
+          },
+          {
+            "letra": "E",
+            "texto": "espalhada, próxima às comunidades tradicionais que geram pequenas quantidades de esgotos."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Geografia – Meio Ambiente",
+          "Geografia – Hidrografia",
+          "Geografia – Problemas Ambientais Urbanos"
+        ]
+      },
+      {
+        "numeroEnunciado": 26,
+        "enunciado": "O mapa representa uma onda de frio que atingiu o sul da Amazônia em 2018. Um fator climático que explica a friagem nessa região\n\n(Imagem: Mapa do interior do Amazonas com coloração que indica as temperaturas mínimas de 'Friagem deve levar termômetros aos 15 °C em municípios do interior do Amazonas'. www.acritica.com, 2018. Adaptado.)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "é a latitude, que, relacionada à diferença da radiação solar sobre a Terra, em especial na região equatorial, provoca a diminuição da temperatura mínima."
+          },
+          {
+            "letra": "B",
+            "texto": "é a altitude, que, ocasionada pela formação do relevo de planície do Rio Amazonas, é responsável pela diminuição da temperatura mínima."
+          },
+          {
+            "letra": "C",
+            "texto": "é a continentalidade, que, provocada pelo baixo índice de chuva na região da Amazônia Legal, favorece a diminuição da amplitude térmica."
+          },
+          {
+            "letra": "D",
+            "texto": "são as correntes marítimas, que, influenciadas por águas mais frias existentes no litoral da região Norte do país, fazem baixar as temperaturas mínima e máxima."
+          },
+          {
+            "letra": "E",
+            "texto": "são as massas de ar, que, resultantes da diferença de pressão atmosférica que movimenta o ar frio, provoca a diminuição das temperaturas mínima e máxima."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Climatologia",
+          "Geografia – Clima do Brasil"
+        ]
+      },
+      {
+        "numeroEnunciado": 27,
+        "enunciado": "Esse bioma ocupa uma área equivalente a 11% do território nacional, é rico em biodiversidade e engloba os estados de Alagoas, Bahia, Ceará, Maranhão, Pernambuco, Paraíba, Rio Grande do Norte, Piauí, Sergipe e norte de Minas Gerais. Tem sido desmatado de forma acelerada, principalmente nos últimos anos, em especial para o consumo de lenha nativa, explorada de forma ilegal e insustentável, para fins domésticos e indústrias, ao sobrepastoreio e à conversão para pastagens e agricultura.\n\n(www.mma.gov.br. Adaptado.)\n\nO bioma descrito no excerto corresponde",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "ao Pantanal."
+          },
+          {
+            "letra": "B",
+            "texto": "ao Pampa."
+          },
+          {
+            "letra": "C",
+            "texto": "ao Cerrado."
+          },
+          {
+            "letra": "D",
+            "texto": "à Caatinga."
+          },
+          {
+            "letra": "E",
+            "texto": "à Mata Atlântica."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Biomas",
+          "Geografia – Biomas Brasileiros"
+        ]
+      },
+      {
+        "numeroEnunciado": 28,
+        "enunciado": "Examine a imagem.\n\n(Gráfico: \"Carga orgânica doméstica remanescente da Região Hidrográfica do Amazonas\" com barras de temperatura (°C) em relação a diferentes zonas (rural, bairros, comércio, centro, zona urbana, parque, subúrbios residencial).\n\n(www.karlacunha.com.br. Adaptado.)\n\nA imagem esquematiza a formação do fenômeno",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Ilha de Calor."
+          },
+          {
+            "letra": "B",
+            "texto": "Corredor Ecológico."
+          },
+          {
+            "letra": "C",
+            "texto": "Unidade de Conservação."
+          },
+          {
+            "letra": "D",
+            "texto": "Chuva Ácida."
+          },
+          {
+            "letra": "E",
+            "texto": "Zoneamento Ecológico."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Urbanização",
+          "Geografia – Problemas Ambientais Urbanos"
+        ]
+      },
+      {
+        "numeroEnunciado": 29,
+        "enunciado": "Como o cérebro sabe quando é preciso beber água e quando se deve parar? Pareceria mágica se não fosse a ciência e os cientistas marrentos que insistem em entender como as coisas funcionam. Há um circuito no hipotálamo que dispara o sinal de que está faltando água no sangue, o que promove a necessidade de ingestão de líquido e a interrompe assim que tem evidência de que já entrou o necessário, muito antes de o sangue se normalizar.\n\n(Suzana Herculano-Houzel. \"Quando parar de beber água?\". Folha de S.Paulo, 09.04.2019. Adaptado.)\n\nA área da Biologia que estuda o mecanismo destacado no texto é a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Genética."
+          },
+          {
+            "letra": "B",
+            "texto": "Sistemática."
+          },
+          {
+            "letra": "C",
+            "texto": "Fisiologia."
+          },
+          {
+            "letra": "D",
+            "texto": "Ecologia."
+          },
+          {
+            "letra": "E",
+            "texto": "Botânica."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Fisiologia Humana",
+          "Biologia – Sistema Nervoso"
+        ]
+      },
+      {
+        "numeroEnunciado": 30,
+        "enunciado": "Nos seres vivos, os glicídios atuam principalmente como fonte energética, mas, quando estão em sua forma polimerizada, também podem armazenar energia. Os glicídios que atuam como armazenadores energéticos são:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "amido e glicogênio."
+          },
+          {
+            "letra": "B",
+            "texto": "celulose e frutose."
+          },
+          {
+            "letra": "C",
+            "texto": "óleo e gordura."
+          },
+          {
+            "letra": "D",
+            "texto": "quitina e glicose."
+          },
+          {
+            "letra": "E",
+            "texto": "albumina e queratina."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Bioquímica",
+          "Biologia – Carboidratos"
+        ]
+      },
+      {
+        "numeroEnunciado": 31,
+        "enunciado": "Estatinas são receitadas por médicos a pacientes que possuem alto nível de colesterol sanguíneo. O excesso de colesterol sanguíneo pode causar",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "insônia."
+          },
+          {
+            "letra": "B",
+            "texto": "anemia."
+          },
+          {
+            "letra": "C",
+            "texto": "osteoporose."
+          },
+          {
+            "letra": "D",
+            "texto": "infarto."
+          },
+          {
+            "letra": "E",
+            "texto": "nanismo."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Fisiologia Humana",
+          "Biologia – Doenças"
+        ]
+      },
+      {
+        "numeroEnunciado": 32,
+        "enunciado": "Tanto as células procariotas quanto as células eucariotas possuem",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "organelas membranosas em seus núcleos."
+          },
+          {
+            "letra": "B",
+            "texto": "ribossomos dispersos no citoplasma."
+          },
+          {
+            "letra": "C",
+            "texto": "genoma isolado por envoltório nuclear."
+          },
+          {
+            "letra": "D",
+            "texto": "nucléolos distribuídos no citoplasma."
+          },
+          {
+            "letra": "E",
+            "texto": "cromossomos lineares no interior do núcleo."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Citologia",
+          "Biologia – Célula Procariota e Eucariota"
+        ]
+      },
+      {
+        "numeroEnunciado": 33,
+        "enunciado": "Muitas células do tecido epitelial apresentam desmossomos, que são especializações nas membranas plasmáticas. A principal vantagem da formação dessas especializações é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o aumento da excreção de resíduos das células."
+          },
+          {
+            "letra": "B",
+            "texto": "o aumento da adesão entre células."
+          },
+          {
+            "letra": "C",
+            "texto": "o aumento da absorção de sais pelas células."
+          },
+          {
+            "letra": "D",
+            "texto": "a redução do atrito entre as células."
+          },
+          {
+            "letra": "E",
+            "texto": "a redução da passagem de substâncias entre as células."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Histologia",
+          "Biologia – Tecido Epitelial"
+        ]
+      },
+      {
+        "numeroEnunciado": 34,
+        "enunciado": "Uma célula pancreática saudável, quando analisada ao microscópio eletrônico, sempre apresenta retículo endoplasmático granuloso bem desenvolvido. Essa organela está relacionada com a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "síntese de ATP."
+          },
+          {
+            "letra": "B",
+            "texto": "síntese de hormônios esteroides."
+          },
+          {
+            "letra": "C",
+            "texto": "síntese de enzimas."
+          },
+          {
+            "letra": "D",
+            "texto": "reserva de amido."
+          },
+          {
+            "letra": "E",
+            "texto": "reserva de óleos."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Citologia",
+          "Biologia – Organelas Celulares"
+        ]
+      },
+      {
+        "numeroEnunciado": 35,
+        "enunciado": "Uma pessoa com displasia ectodérmica anidrótica, uma anomalia genética que impede a produção de glândulas sudoríparas, tende a ser incapaz de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "se proteger contra o excesso de raios UV."
+          },
+          {
+            "letra": "B",
+            "texto": "produzir água a partir do metabolismo proteico."
+          },
+          {
+            "letra": "C",
+            "texto": "expulsar a ureia presente no plasma sanguíneo."
+          },
+          {
+            "letra": "D",
+            "texto": "eliminar excretas nitrogenadas produzidas pelo fígado."
+          },
+          {
+            "letra": "E",
+            "texto": "reduzir a temperatura corpórea quando está em ambiente quente."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Fisiologia Humana",
+          "Biologia – Genética"
+        ]
+      },
+      {
+        "numeroEnunciado": 36,
+        "enunciado": "O sangue é um tipo de tecido conjuntivo e desempenha algumas funções no organismo humano. Ele é formado pelo plasma e pelos elementos figurados, dos quais fazem parte as plaquetas, que participam do processo de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "coagulação sanguínea."
+          },
+          {
+            "letra": "B",
+            "texto": "transporte de gás oxigênio."
+          },
+          {
+            "letra": "C",
+            "texto": "defesa imunológica."
+          },
+          {
+            "letra": "D",
+            "texto": "fagocitose de patógenos."
+          },
+          {
+            "letra": "E",
+            "texto": "transporte de hormônios."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Histologia",
+          "Biologia – Sistema Circulatório"
+        ]
+      },
+      {
+        "numeroEnunciado": 37,
+        "enunciado": "André tem 420 revistas, sendo que ele ainda não leu dois quintos delas. Considerando as revistas de André, a razão entre o número de revistas que ele leu e o número de revistas que ele não leu é de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2/5"
+          },
+          {
+            "letra": "B",
+            "texto": "2/3"
+          },
+          {
+            "letra": "C",
+            "texto": "3/4"
+          },
+          {
+            "letra": "D",
+            "texto": "3/2"
+          },
+          {
+            "letra": "E",
+            "texto": "5/2"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Razão e Proporção",
+          "Matemática – Frações"
+        ]
+      },
+      {
+        "numeroEnunciado": 38,
+        "enunciado": "Janaína ganhou R$ 230,00 de presente de sua avó e seu irmão Jorge ganhou metade desse valor. Janaína gastou 45% do dinheiro que ganhou e, do que sobrou, deu 20% para Jorge. Somando o que recebeu de sua avó e o que recebeu de sua irmã, Jorge ficou com uma quantia de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "R$ 135,70."
+          },
+          {
+            "letra": "B",
+            "texto": "R$ 140,30."
+          },
+          {
+            "letra": "C",
+            "texto": "R$ 170,10."
+          },
+          {
+            "letra": "D",
+            "texto": "R$ 195,50."
+          },
+          {
+            "letra": "E",
+            "texto": "R$ 264,50."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Porcentagem",
+          "Matemática – Aritmética"
+        ]
+      },
+      {
+        "numeroEnunciado": 39,
+        "enunciado": "Ricardo usou um cabo de madeira como unidade para medir o comprimento de uma quadra e verificou que o comprimento da quadra correspondia a exatamente 75 unidades desse cabo. Renato usou um outro cabo, 15 cm menor do que o cabo usado por Ricardo, e verificou que o comprimento da quadra correspondia a exatamente 120 unidades de cabo. Sabendo que os dois garotos fizeram a medição corretamente, o comprimento dessa quadra é de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "20 m."
+          },
+          {
+            "letra": "B",
+            "texto": "25 m."
+          },
+          {
+            "letra": "C",
+            "texto": "30 m."
+          },
+          {
+            "letra": "D",
+            "texto": "35 m."
+          },
+          {
+            "letra": "E",
+            "texto": "40 m."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Razão e Proporção",
+          "Matemática – Medidas de Comprimento"
+        ]
+      },
+      {
+        "numeroEnunciado": 40,
+        "enunciado": "Em uma progressão aritmética, a soma dos 14 primeiros termos é igual a zero e a soma dos 15 primeiros termos é igual a 45. O maior elemento negativo dessa progressão é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "-3."
+          },
+          {
+            "letra": "B",
+            "texto": "-4."
+          },
+          {
+            "letra": "C",
+            "texto": "-5."
+          },
+          {
+            "letra": "D",
+            "texto": "-6."
+          },
+          {
+            "letra": "E",
+            "texto": "-7."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Progressão Aritmética"
+        ]
+      },
+      {
+        "numeroEnunciado": 41,
+        "enunciado": "Considere uma função linear f: IR → IR definida por f(x) = -3x + 4. Sabendo que f(p) + 2f(2p) = p.f(3), então p é um número real entre",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1 e 2."
+          },
+          {
+            "letra": "B",
+            "texto": "2 e 3."
+          },
+          {
+            "letra": "C",
+            "texto": "3 e 4."
+          },
+          {
+            "letra": "D",
+            "texto": "4 e 5."
+          },
+          {
+            "letra": "E",
+            "texto": "5 e 6."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Funções",
+          "Matemática – Função do 1º Grau"
+        ]
+      },
+      {
+        "numeroEnunciado": 42,
+        "enunciado": "A figura mostra, em um plano cartesiano, o gráfico da função f(x) = x² - 6x + 6 e três pontos por onde passa a parábola: A, M e V, sendo V o vértice da parábola.\n\n(Gráfico: Um plano cartesiano com uma parábola y = x² - 6x + 6, mostrando pontos A, M, V e intersecções com os eixos p, q, r, s.)\n\nNessas condições, o valor de p + q + r + s é igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "-1."
+          },
+          {
+            "letra": "B",
+            "texto": "0."
+          },
+          {
+            "letra": "C",
+            "texto": "1."
+          },
+          {
+            "letra": "D",
+            "texto": "2."
+          },
+          {
+            "letra": "E",
+            "texto": "3."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Funções",
+          "Matemática – Função do 2º Grau",
+          "Matemática – Geometria Analítica"
+        ]
+      },
+      {
+        "numeroEnunciado": 43,
+        "enunciado": "Em um triângulo retângulo, cuja hipotenusa mede √320 cm, um cateto tem o dobro da medida do outro cateto. O menor desses catetos mede\n\n(Imagem: Desenho de um triângulo retângulo com a hipotenusa marcada como √320 cm.)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2 cm."
+          },
+          {
+            "letra": "B",
+            "texto": "4 cm."
+          },
+          {
+            "letra": "C",
+            "texto": "8 cm."
+          },
+          {
+            "letra": "D",
+            "texto": "16 cm."
+          },
+          {
+            "letra": "E",
+            "texto": "32 cm."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Geometria Plana",
+          "Matemática – Triângulos Retângulos"
+        ]
+      },
+      {
+        "numeroEnunciado": 44,
+        "enunciado": "Considere o gráfico da função f(x) = sen(4x) / 4. No intervalo fechado [0, 2π], o número de vezes que o gráfico de f intersecta o eixo x é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1."
+          },
+          {
+            "letra": "B",
+            "texto": "3."
+          },
+          {
+            "letra": "C",
+            "texto": "5."
+          },
+          {
+            "letra": "D",
+            "texto": "7."
+          },
+          {
+            "letra": "E",
+            "texto": "9."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Funções Trigonométricas"
+        ]
+      },
+      {
+        "numeroEnunciado": 45,
+        "enunciado": "O gráfico representa as velocidades de um objeto que se desloca ao longo de uma trajetória retilínea.\n\n(Gráfico: Velocidade (m/s) em função do tempo (min). O gráfico mostra um movimento com velocidade constante de 40 m/s de 0 a 1 min.)\n\nA distância percorrida por esse objeto no decorrer do primeiro minuto de seu movimento é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,9 km."
+          },
+          {
+            "letra": "B",
+            "texto": "1,2 km."
+          },
+          {
+            "letra": "C",
+            "texto": "1,8 km."
+          },
+          {
+            "letra": "D",
+            "texto": "2,0 km."
+          },
+          {
+            "letra": "E",
+            "texto": "2,4 km."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Cinemática",
+          "Física – Movimento Retilíneo Uniforme"
+        ]
+      },
+      {
+        "numeroEnunciado": 46,
+        "enunciado": "Um pescador posicionado no ponto A, situado à margem sul de um rio, acionou o motor de seu barco em direção à margem norte, mantendo a proa de seu barco nesse sentido. No momento da partida, a proa do barco apontava diretamente para o ponto B, conforme mostra a figura. As margens desse rio eram paralelas e distantes 80,0 m entre si e suas águas moviam-se de oeste para leste com velocidade constante de 0,4 m/s em relação às margens. Sabendo que o motor do barco garante uma velocidade constante de 2,0 m/s em relação às águas, o ponto C, onde de fato o pescador chegou à margem norte, está distante de B\n\n(Imagem: Esquemático de um rio com margens paralelas. Um barco parte do ponto A na margem sul, com sua proa apontando para B na margem norte, mas a correnteza o leva para o ponto C.)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "4 m."
+          },
+          {
+            "letra": "B",
+            "texto": "6 m."
+          },
+          {
+            "letra": "C",
+            "texto": "8 m."
+          },
+          {
+            "letra": "D",
+            "texto": "12 m."
+          },
+          {
+            "letra": "E",
+            "texto": "16 m."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Cinemática",
+          "Física – Composição de Movimentos"
+        ]
+      },
+      {
+        "numeroEnunciado": 47,
+        "enunciado": "Na Lua a aceleração da gravidade é aproximadamente 1,6 m/s². Se um corpo for abandonado em queda livre na Lua, a 20 m de altura do solo lunar, o valor absoluto da velocidade, instantes antes desse corpo tocar o solo lunar, será",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2 m/s."
+          },
+          {
+            "letra": "B",
+            "texto": "4 m/s."
+          },
+          {
+            "letra": "C",
+            "texto": "5 m/s."
+          },
+          {
+            "letra": "D",
+            "texto": "6 m/s."
+          },
+          {
+            "letra": "E",
+            "texto": "8 m/s."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Cinemática",
+          "Física – Queda Livre",
+          "Física – Gravitação"
+        ]
+      },
+      {
+        "numeroEnunciado": 48,
+        "enunciado": "Três molas idênticas e de constante elástica k são dispostas em um arranjo, conforme mostra a figura. O arranjo é preso ao teto por duas das molas, sendo que o ponto B está no centro da barra AC. Quando um corpo é fixado ao ponto P, o conjunto de molas atuará como se fosse uma única mola de constante elástica\n\n(Imagem: Desenho de um sistema de três molas. Duas molas estão presas ao teto e à barra AC. A terceira mola está presa ao ponto P na barra AC e à barra inferior, que tem um ponto B no centro.)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "2k/3"
+          },
+          {
+            "letra": "B",
+            "texto": "3k/2"
+          },
+          {
+            "letra": "C",
+            "texto": "k/3"
+          },
+          {
+            "letra": "D",
+            "texto": "5k/2"
+          },
+          {
+            "letra": "E",
+            "texto": "3k"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Dinâmica",
+          "Física – Leis de Hooke",
+          "Física – Associações de Molas"
+        ]
+      },
+      {
+        "numeroEnunciado": 49,
+        "enunciado": "Em um movimento brusco, um estudante esbarra em seu corretor líquido que se encontrava sobre o tampo plano e horizontal de sua mesa, a 80 cm do solo. Quando o corretor líquido passa pela extremidade do tampo da mesa, sua velocidade horizontal é de 0,5 m/s, conforme mostra a figura. Desprezando-se a resistência do ar e assumindo que a aceleração da gravidade vale 10 m/s², a distância d a que o corretor líquido atinge o solo é\n\n(Imagem: Diagrama de um lançamento horizontal de um objeto de uma mesa, com altura de 80 cm e velocidade horizontal inicial de 0,5 m/s, mostrando a distância horizontal d que o objeto percorre.)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "20 cm."
+          },
+          {
+            "letra": "B",
+            "texto": "25 cm."
+          },
+          {
+            "letra": "C",
+            "texto": "40 cm."
+          },
+          {
+            "letra": "D",
+            "texto": "45 cm."
+          },
+          {
+            "letra": "E",
+            "texto": "50 cm."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Cinemática",
+          "Física – Lançamento Horizontal"
+        ]
+      },
+      {
+        "numeroEnunciado": 50,
+        "enunciado": "Em um passeio de triciclo, um ou dois passageiros podem ser conduzidos e levados pela força de um ciclista. Quando o triciclo não está levando passageiros, sua massa mais a do ciclista equivalem a 100 kg e, para mover esse conjunto em linha reta e com aceleração escalar constante de 0,20 m/s², é necessária uma força resultante de intensidade F. Considerando que um passageiro de 60 kg suba no triciclo e que, agora, o conjunto formado pelo triciclo, ciclista e passageiro seja movido com a mesma força resultante constante de intensidade F, a aceleração escalar constante desenvolvida será de, aproximadamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,08 m/s²."
+          },
+          {
+            "letra": "B",
+            "texto": "0,11 m/s²."
+          },
+          {
+            "letra": "C",
+            "texto": "0,13 m/s²."
+          },
+          {
+            "letra": "D",
+            "texto": "0,15 m/s²."
+          },
+          {
+            "letra": "E",
+            "texto": "0,18 m/s²."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Dinâmica",
+          "Física – Leis de Newton"
+        ]
+      },
+      {
+        "numeroEnunciado": 51,
+        "enunciado": "Uma máquina pneumática possui dois pistões cilíndricos de massas desprezíveis que se comunicam por um tubo flexível, preenchido com óleo. O óleo é incompressível e as áreas de contato do pistão menor e do pistão maior com o óleo são planas e de valores iguais a 0,02 m² e 0,12 m², respectivamente. Quando uma força de intensidade 25 N é aplicada sobre o pistão menor, a força transmitida para o pistão maior é de\n\n(Imagem: Diagrama de uma máquina pneumática com dois pistões interconectados por um tubo, mostrando o pistão menor e o pistão maior e o óleo entre eles.)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "25 N."
+          },
+          {
+            "letra": "B",
+            "texto": "50 N."
+          },
+          {
+            "letra": "C",
+            "texto": "100 N."
+          },
+          {
+            "letra": "D",
+            "texto": "150 N."
+          },
+          {
+            "letra": "E",
+            "texto": "250 N."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Hidrostática",
+          "Física – Princípio de Pascal"
+        ]
+      },
+      {
+        "numeroEnunciado": 52,
+        "enunciado": "Na pesca de caranguejos, as armadilhas, que permanecem no fundo do mar, são sinalizadas por meio de boias, como ilustra o esquema. Essas boias, esféricas e ocas, são presas às armadilhas por meio de um cabo. Uma dessas boias, quando nova, ficava com oito décimos de seu volume emersos. Com o tempo, devido à entrada de água em seu interior, essa boia passou a flutuar com metade de seu volume emerso. Se quando nova a boia sofria um empuxo de intensidade E, agora esta mesma força corresponde a\n\n(Imagem: Diagrama de uma boia presa a uma armadilha no fundo do mar por um cabo.)",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "5,0. E."
+          },
+          {
+            "letra": "B",
+            "texto": "2,5 E."
+          },
+          {
+            "letra": "C",
+            "texto": "1,0 E."
+          },
+          {
+            "letra": "D",
+            "texto": "0,8 E."
+          },
+          {
+            "letra": "E",
+            "texto": "0,4 E."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Hidrostática",
+          "Física – Empuxo",
+          "Física – Densidade"
+        ]
+      },
+      {
+        "numeroEnunciado": 53,
+        "enunciado": "Uma mistura gasosa comercializada em cilindros pressurizados é empregada em câmaras de atmosfera artificial para cultura de células em pesquisas científicas. Ela é constituída por nitrogênio (N₂), hidrogênio (H₂) e gás carbônico (CO₂). Essa mistura gasosa é __________ e constituída por __________. Assinale a alternativa que preenche as lacunas do texto.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "homogênea – três substâncias compostas"
+          },
+          {
+            "letra": "B",
+            "texto": "homogênea – três substâncias simples"
+          },
+          {
+            "letra": "C",
+            "texto": "homogênea - duas substâncias simples e uma substância composta"
+          },
+          {
+            "letra": "D",
+            "texto": "heterogênea – duas substâncias simples e uma substância composta"
+          },
+          {
+            "letra": "E",
+            "texto": "heterogênea – três substâncias simples"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Misturas",
+          "Química – Substâncias Puras"
+        ]
+      },
+      {
+        "numeroEnunciado": 54,
+        "enunciado": "Leia o texto para responder às questões de 54 a 57.\n\nA medicina emprega diversos tipos de materiais biocompatíveis para confecção de implantes, fios de suturas, válvulas artificiais etc. Um tipo de material cerâmico especial, a vitrocerâmica, foi desenvolvido para uso em substituição e estimulação do crescimento de material ósseo no corpo humano, com a vantagem de apresentar alta resistência mecânica. A tabela apresenta as substâncias químicas empregadas na preparação desse material.\n\n(Tabela: Componente (1 a 6), Substância (K₂O, MgO, Na₂O, P₂O₅, CaO, SiO₂) e Massa da substância empregada para preparação de 100 g da vitrocerâmica.)\n\nDentre os compostos empregados na preparação dessa vitrocerâmica, o que produz solução ácida quando dissolvido em água é o",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Na₂O"
+          },
+          {
+            "letra": "B",
+            "texto": "K₂O"
+          },
+          {
+            "letra": "C",
+            "texto": "MgO"
+          },
+          {
+            "letra": "D",
+            "texto": "CaO"
+          },
+          {
+            "letra": "E",
+            "texto": "P₂O₅"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Funções Inorgânicas",
+          "Química – Óxidos"
+        ]
+      },
+      {
+        "numeroEnunciado": 55,
+        "enunciado": "Leia o texto para responder às questões de 54 a 57.\n\nA medicina emprega diversos tipos de materiais biocompatíveis para confecção de implantes, fios de suturas, válvulas artificiais etc. Um tipo de material cerâmico especial, a vitrocerâmica, foi desenvolvido para uso em substituição e estimulação do crescimento de material ósseo no corpo humano, com a vantagem de apresentar alta resistência mecânica. A tabela apresenta as substâncias químicas empregadas na preparação desse material.\n\n(Tabela: Componente (1 a 6), Substância (K₂O, MgO, Na₂O, P₂O₅, CaO, SiO₂) e Massa da substância empregada para preparação de 100 g da vitrocerâmica.)\n\nComparando os elementos químicos constituintes dos compostos usados na preparação dessa vitrocerâmica, aquele que apresenta maior raio atômico está presente no componente",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1."
+          },
+          {
+            "letra": "B",
+            "texto": "2."
+          },
+          {
+            "letra": "C",
+            "texto": "3."
+          },
+          {
+            "letra": "D",
+            "texto": "4."
+          },
+          {
+            "letra": "E",
+            "texto": "5."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Tabela Periódica",
+          "Química – Propriedades Periódicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 56,
+        "enunciado": "Leia o texto para responder às questões de 54 a 57.\n\nA medicina emprega diversos tipos de materiais biocompatíveis para confecção de implantes, fios de suturas, válvulas artificiais etc. Um tipo de material cerâmico especial, a vitrocerâmica, foi desenvolvido para uso em substituição e estimulação do crescimento de material ósseo no corpo humano, com a vantagem de apresentar alta resistência mecânica. A tabela apresenta as substâncias químicas empregadas na preparação desse material.\n\n(Tabela: Componente (1 a 6), Substância (K₂O, MgO, Na₂O, P₂O₅, CaO, SiO₂) e Massa da substância empregada para preparação de 100 g da vitrocerâmica.)\n\nDentre os óxidos formadores da vitrocerâmica, um deles contém o elemento químico que possui a distribuição eletrônica 1s², 2s², 2p⁶, 3s², 3p² no estado fundamental. Na formação de 100g dessa vitrocerâmca, a massa do óxido que contém esse elemento é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,5 g."
+          },
+          {
+            "letra": "B",
+            "texto": "3 g."
+          },
+          {
+            "letra": "C",
+            "texto": "5 g."
+          },
+          {
+            "letra": "D",
+            "texto": "30 g."
+          },
+          {
+            "letra": "E",
+            "texto": "46 g."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Atomística",
+          "Química – Distribuição Eletrônica",
+          "Química – Estequiometria"
+        ]
+      },
+      {
+        "numeroEnunciado": 57,
+        "enunciado": "Leia o texto para responder às questões de 54 a 57.\n\nA medicina emprega diversos tipos de materiais biocompatíveis para confecção de implantes, fios de suturas, válvulas artificiais etc. Um tipo de material cerâmico especial, a vitrocerâmica, foi desenvolvido para uso em substituição e estimulação do crescimento de material ósseo no corpo humano, com a vantagem de apresentar alta resistência mecânica. A tabela apresenta as substâncias químicas empregadas na preparação desse material.\n\n(Tabela: Componente (1 a 6), Substância (K₂O, MgO, Na₂O, P₂O₅, CaO, SiO₂) e Massa da substância empregada para preparação de 100 g da vitrocerâmica.)\n\nComparando os compostos empregados na preparação dessa vitrocerâmica, os óxidos formados por compartilhamento de pares de elétrons correspondem aos componentes",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1 e 2."
+          },
+          {
+            "letra": "B",
+            "texto": "3 e 5."
+          },
+          {
+            "letra": "C",
+            "texto": "3 e 1."
+          },
+          {
+            "letra": "D",
+            "texto": "4 e 6."
+          },
+          {
+            "letra": "E",
+            "texto": "5 e 2."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Ligações Químicas",
+          "Química – Funções Inorgânicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 58,
+        "enunciado": "Leia o texto para responder às questões de 58 a 60.\n\nA principal causa das úlceras gástricas é a contaminação pela bactéria estomacal Helicobacter pylori. O diagnóstico para detectar a presença dessa bactéria pode ser feito por um teste simples em laboratório. O paciente ingere um líquido contendo ureia ((NH₂)₂CO), marcada com o isótopo de carbono-13. No interior do estômago do paciente, se houver presença dessa bactéria, a ureia reage com a água (H₂O) e forma o dióxido de carbono (CO₂) e a amônia (NH₃). O dióxido de carbono entra na corrente sanguínea e é expelido na respiração, na forma de CO₂, marcado com carbono-13, que é detectado por um instrumento de medida.\n\n(Ana Paula W. de Castro et al. \"Teste respiratório com isótopo estável (¹³C-ureia) para detecção de H. pylori.\" Jornal Brasileiro de Patologia e Medicina Laboratorial, 2004. Adaptado.)\n\nA quantidade de nêutrons do isótopo de carbono do CO₂ expelido no teste da bactéria H. pylori é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "5."
+          },
+          {
+            "letra": "B",
+            "texto": "6."
+          },
+          {
+            "letra": "C",
+            "texto": "7."
+          },
+          {
+            "letra": "D",
+            "texto": "12."
+          },
+          {
+            "letra": "E",
+            "texto": "13."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Atomística",
+          "Química – Isótopos"
+        ]
+      },
+      {
+        "numeroEnunciado": 59,
+        "enunciado": "Leia o texto para responder às questões de 58 a 60.\n\nA principal causa das úlceras gástricas é a contaminação pela bactéria estomacal Helicobacter pylori. O diagnóstico para detectar a presença dessa bactéria pode ser feito por um teste simples em laboratório. O paciente ingere um líquido contendo ureia ((NH₂)₂CO), marcada com o isótopo de carbono-13. No interior do estômago do paciente, se houver presença dessa bactéria, a ureia reage com a água (H₂O) e forma o dióxido de carbono (CO₂) e a amônia (NH₃). O dióxido de carbono entra na corrente sanguínea e é expelido na respiração, na forma de CO₂, marcado com carbono-13, que é detectado por um instrumento de medida.\n\n(Ana Paula W. de Castro et al. \"Teste respiratório com isótopo estável (¹³C-ureia) para detecção de H. pylori.\" Jornal Brasileiro de Patologia e Medicina Laboratorial, 2004. Adaptado.)\n\nA molécula que contém o isótopo carbono-13, que é expirada no teste respiratório para detecção da bactéria H. pylori, tem geometria",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "linear."
+          },
+          {
+            "letra": "B",
+            "texto": "angular."
+          },
+          {
+            "letra": "C",
+            "texto": "trigonal planar."
+          },
+          {
+            "letra": "D",
+            "texto": "piramidal."
+          },
+          {
+            "letra": "E",
+            "texto": "tetraédrica."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Ligações Químicas",
+          "Química – Geometria Molecular"
+        ]
+      },
+      {
+        "numeroEnunciado": 60,
+        "enunciado": "Leia o texto para responder às questões de 58 a 60.\n\nA principal causa das úlceras gástricas é a contaminação pela bactéria estomacal Helicobacter pylori. O diagnóstico para detectar a presença dessa bactéria pode ser feito por um teste simples em laboratório. O paciente ingere um líquido contendo ureia ((NH₂)₂CO), marcada com o isótopo de carbono-13. No interior do estômago do paciente, se houver presença dessa bactéria, a ureia reage com a água (H₂O) e forma o dióxido de carbono (CO₂) e a amônia (NH₃). O dióxido de carbono entra na corrente sanguínea e é expelido na respiração, na forma de CO₂, marcado com carbono-13, que é detectado por um instrumento de medida.\n\n(Ana Paula W. de Castro et al. \"Teste respiratório com isótopo estável (¹³C-ureia) para detecção de H. pylori.\" Jornal Brasileiro de Patologia e Medicina Laboratorial, 2004. Adaptado.)\n\nCom base no texto, a equação balanceada que representa a reação química entre a ureia e a água e que ocorre no estômago da pessoa contaminada com a bactéria H. pylori é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "(NH₂)₂CO + H₂O → NH₃ + 2H₂CO₃"
+          },
+          {
+            "letra": "B",
+            "texto": "(NH₂)₂CO + H₂O → 2NH₃ + CO₂"
+          },
+          {
+            "letra": "C",
+            "texto": "(NH₂)₂CO + H₂O → NH₄OH + 2H₂CO₃"
+          },
+          {
+            "letra": "D",
+            "texto": "(NH₂)₂CO + H₂O → NH₄OH + NH₄HCO₃"
+          },
+          {
+            "letra": "E",
+            "texto": "(NH₂)₂CO + H₂O → NH₃ + NH₄HCO₃"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Reações Químicas",
+          "Química – Balanceamento de Equações"
+        ]
+      }
+    ]
+  }
+}

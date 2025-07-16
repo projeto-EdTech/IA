@@ -1,15 +1,7 @@
 UNESP:
-Unesp 2018:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2018/1fase/UNESP2018_1fase_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2018/1fase/UNESP2018_1fase_gabarito.pdf
-
 Unesp 2017:
 prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2017/1fase/UNESP2017_1fase_prova.pdf
 gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2017/1fase/UNESP2017_1fase_gabarito.pdf
-
-Unesp 2016:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2016/1fase/UNESP2016_1fase_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2016/1fase/UNESP2016_1fase_gabarito.pdf
 
 Unesp 2015:
 prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2015/1fase/UNESP2015_1fase_prova.pdf
@@ -1530,8 +1522,8 @@ prova -
 gabarito - 
 
 Famema 2022:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2017/famema2017_prova.pdf
-gabarito - https://focomedicina.com.br/wp-content/uploads/2024/12/Gabarito2022.pdf
+prova - 
+gabarito - 
 
 Famema 2021:
 prova - https://focomedicina.com.br/wp-content/uploads/2024/12/PROVA-1-2021.pdf
@@ -1563,133 +1555,50 @@ gabarito -
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-UEA:
-Uea 2025:
-prova - https://souvetor.com/wp-content/uploads/2025/05/UEA-PROVA-SIS-I-2024.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2025/05/UEA-PROVA-SIS-I-2024.pdf
-
-Uea 2024:
-prova - https://souvetor.com/wp-content/uploads/2023/10/SIS-I-2023-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/10/SIS-I-2023-Gabarito.pdf
-
-Uea 2023:
-prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2022-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2022-Etapa-I-Gabarito.pdf
-
-Uea 2022:
-prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2021-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2021-Etapa-I-Gabarito.pdf
-
-Uea 2021:
-prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2020-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2020-Etapa-I-Gabarito.pdf
-
-Uea 2020:
-prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2019-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2019-Etapa-I-Gabarito.pdf
-
-Uea 2019:
-prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2018-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2018-Etapa-I-Gabarito.pdf
-
-Uea 2018:
-prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2017-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2017-Etapa-I-Gabarito.pdf
-
-Uea 2017:
-prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2016-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2016-Etapa-I-Gabarito.pdf
-
-Uea 2016:
-prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2015-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2015-Etapa-I-Gabarito.pdf
-
-Uea 2015:
-prova - https://souvetor.com/wp-content/uploads/2023/01/SIS-2014-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/SIS-2014-Etapa-I-Gabarito.pdf
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 UFSC:
 Ufsc 2025:
-prova - https://dados.coperve.ufsc.br/vestibular2025/gabaritos/p1_amarela.pdf
-gabarito - https://dados.coperve.ufsc.br/vestibular2025/gabaritos/novo_gabarito_p1_amarela.pdf
+prova - 
+gabarito - 
 
 Ufsc 2024:
 prova - https://vestibular2024.paginas.ufsc.br/files/2023/12/p1_amarela.pdf
 gabarito - https://vestibular2024.paginas.ufsc.br/files/2023/12/novo_gabarito_p1_amarela.pdf
 
 Ufsc 2023:
-prova - https://dados.coperve.ufsc.br/vestibular2023/gabaritos/preliminar/p1_amarela.pdf
-gabarito - https://dados.coperve.ufsc.br/vestibular2023/gabaritos/preliminar/gabarito_p1_amarelaPreliminar.pdf
+prova - 
+gabarito - 
 
 Ufsc 2022:
-prova - https://dados.coperve.ufsc.br/vestibular2022/gabaritos/definitivos/prova1/p1-amarela.pdf
-gabarito - https://dados.coperve.ufsc.br/vestibular2022/gabaritos/definitivos/prova1/p1-amarela.html
+prova - 
+gabarito - 
 
 Ufsc 2020:
-prova - https://dados.coperve.ufsc.br/vestibular2020/gabaritos/definitivo/prova1/p1-amarela.pdf
-gabarito - https://dados.coperve.ufsc.br/vestibular2020/gabaritos/definitivo/prova1/p1-amarela.html
+prova - 
+gabarito - 
 
 Ufsc 2019:
-prova - https://repositorio.ufsc.br/bitstream/handle/123456789/192286/2019-p1-amarela.pdf
-gabarito - https://dados.coperve.ufsc.br/vestibular2019/gabaritos/definitivos/vestgab01_p1_AMARELA.html
+prova - 
+gabarito - 
 
 Ufsc 2018:
-prova - https://php.coperve.ufsc.br/vestibular2018/provas/2018-p1-amarela.pdf
-gabarito - https://dados.coperve.ufsc.br/vestibular2018/gabaritos/definitivos/vestgab01_p1_AMARELA.html
+prova - 
+gabarito - 
 
 Ufsc 2017:
-prova - https://repositorio.ufsc.br/bitstream/handle/123456789/171426/2017-1-amarela.pdf
-gabarito - https://dados.coperve.ufsc.br/vestibular2017/gabaritos/vestgab01_p1_AMARELA.html
+prova - 
+gabarito - 
 
 Ufsc 2016:
-prova - https://repositorio.ufsc.br/bitstream/handle/123456789/157152/2016-1-amarela.pdf
-gabarito - https://dados.coperve.ufsc.br/vestibular2016/gabaritos/vestgab01_p1_AMARELA.html
+prova - 
+gabarito - 
 
 Ufsc 2015:
-prova - https://antiga.coperve.ufsc.br/provas_ant/2015-1-amarela.pdf
-gabarito - https://antiga.coperve.ufsc.br/vestibular2015/gabaritos/vestgab01_p1_AMARELA.html
+prova - 
+gabarito - 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 UFRR:
-Ufrr 2025:
-prova - https://souvetor.com/wp-content/uploads/2025/05/UFRR-PROVAPSS-1-Vestibular-2025.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2025/05/UFRR-GABARITO-PSS-1-Vestibular-2025.pdf
-
-Ufrr 2024:
-prova - https://souvetor.com/wp-content/uploads/2025/05/UFRR-CADERNOS-DE-PROVA-Vestibular-2024-E1.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2025/05/UFRR-GABARITO-PSS-1-Vestibular-2024.pdf
-
-Ufrr 2023:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2022-E1.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2022-E1.pdf
-
-Ufrr 2022:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2021-E1.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2021-E1.pdf
-
-Ufrr 2021:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2020-E1.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2020-E1.pdf
-
-Ufrr 2020:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2019-E1.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2019-E1.pdf
-
-Ufrr 2019:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2018-E1.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2018-E1.pdf
-
-Ufrr 2018:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2017-E1.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2017-E1.pdf
-
-Ufrr 2017:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2016-E1.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2016-E1.pdf
-
 Ufrr 2016:
 prova - 
 gabarito - 
@@ -1697,53 +1606,6 @@ gabarito -
 Ufrr 2015:
 prova - 
 gabarito - 
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-UFAM:
-Ufam 2025:
-prova - https://souvetor.com/wp-content/uploads/2024/06/PSC-2024-–-Etapa-I-–-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2024/06/PSC-2024-–-Etapa-I-–-Gabarito.pdf
-
-Ufam 2024:
-prova - https://souvetor.com/wp-content/uploads/2024/06/PSC-2023-–-Etapa-I-–-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2024/06/PSC-2023-–-Etapa-I-–-Gabarito.pdf
-
-Ufam 2023:
-prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2022-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2022-Etapa-I-Gabarito.pdf
-
-Ufam 2022:
-prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2021-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2021-Etapa-I-Gabarito.pdf
-
-Ufam 2021:
-prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2020-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2020-Etapa-I-Gabarito.pdf
-
-Ufam 2020:
-prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2019-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2019-Etapa-I-Gabarito.pdf
-
-Ufam 2019:
-prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2018-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2018-Etapa-I-Gabarito.pdf
-
-Ufam 2018:
-prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2017-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2017-Etapa-I-Gabarito.pdf
-
-Ufam 2017:
-prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2016-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2016-Etapa-I-Gabarito.pdf
-
-Ufam 2016:
-prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2015-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2015-Etapa-I-Gabarito.pdf
-
-Ufam 2015:
-prova - https://souvetor.com/wp-content/uploads/2023/01/PSC-2014-Etapa-I-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/01/PSC-2014-Etapa-I-Gabarito.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 

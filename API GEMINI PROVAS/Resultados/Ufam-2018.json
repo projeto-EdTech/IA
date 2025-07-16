@@ -1,0 +1,1678 @@
+{
+  "prova": {
+    "nomeUniversidade": "UNIVERSIDADE FEDERAL DO AMAZONAS",
+    "siglaUniversidade": "UFAM",
+    "nomeProva": "Prova de conhecimentos gerais",
+    "ano": 2018,
+    "qtdeQuestoes": 54,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "Leia o texto a seguir, tirado da crônica de viagem do padre Cristóbal de Acuña, membro da expedição de Pedro Teixeira, que navegou o rio Amazonas, do Pará a Quito, em 1637:\nTodo este rio está povoado de ilhas, algumas enormes, outras pequenas, e por serem tão numerosas não se podem contar, pois se encontram a cada passo. As mais comuns têm quatro ou cinco léguas, as outras, dez ou vinte, e aquela onde vivem os índios Tupinambás têm mais de cem de circunferência. A vinte e oito léguas da boca desse rio, seguindo-se sempre pela mesma banda sul, deparamo-nos, de supetão, com uma formosa ilha que tem sessenta léguas de comprimento e, consequentemente, mais de cem de circunferência, toda povoada pelos valentes Tupinambás, gentio que, após a conquista do Brasil, em terras de Pernambuco, há muitos anos, saiu derrotado, fugindo do rigor com que os portugueses o sujeitavam. Saíram em tão grande número que despovoaram ao mesmo tempo oitenta e quatro aldeias onde viviam. (In: BRAGA, Sergio Ivan Gil. Os bois-bumbás de Parintins, p. 270. Texto adaptado.)\nColoque V para verdadeiro e F para falso nas afirmativas a seguir, feitas a propósito de aspectos linguísticos do texto:\n( ) Existe encontro consonantal nas palavras \"Tupinambás”, “grande” e “sessenta\"\n( ) A palavra “supetão” deveria ter sido grafada da seguinte forma: “sopetão”.\n( ) O numeral ordinal correspondente a oitenta e quatro é octagésimo quarto\n( ) O último período é composto por três orações, cujos sujeitos são o mesmo\nAssinale a alternativa que relaciona a sequência CORRETA de V e F de cima para baixo:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "F-F-V-V"
+          },
+          {
+            "letra": "b",
+            "texto": "F-F-F-V"
+          },
+          {
+            "letra": "c",
+            "texto": "V-V-F-V"
+          },
+          {
+            "letra": "d",
+            "texto": "V-F-V-F"
+          },
+          {
+            "letra": "e",
+            "texto": "V-V-F-F"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação textual",
+          "Língua Portuguesa – Ortografia",
+          "Língua Portuguesa – Morfologia",
+          "Língua Portuguesa – Sintaxe"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "Leia as frases a seguir, nas quais constam as palavras um, uma e uns. Depois, coloque no parêntese que as antecede Al, Pl ou N, se elas forem, respectivamente, artigo indefinido, pronome indefinido ou numeral:\n( ) Enquanto uns têm muito dinheiro, outros vivem na miséria\n( ) Ela não é uma qualquer, para ser tratada da forma como o foi\n( ) A piscina das crianças tem um metro de profundidade\n( ) Os locais de diversão, por lei, têm sempre uma saída de emergência\n( ) Um ditado popular afirma que, quando um não quer, dois não brigam\nAssinale a alternativa em que a sequência CORRETA foi registrada:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Al - PI - AI – N – PI"
+          },
+          {
+            "letra": "b",
+            "texto": "Al-N-AI – N – PI"
+          },
+          {
+            "letra": "c",
+            "texto": "Al-N-PI – PI – AI"
+          },
+          {
+            "letra": "d",
+            "texto": "PI-PI-N – AI – PI"
+          },
+          {
+            "letra": "e",
+            "texto": "PI-AI-N – PI – Al"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Morfologia"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "Nos pares de frases a seguir, constam, postas em destaque, palavras ou expressões estrangeiras correntes no português contemporâneo. Na primeira frase, a palavra ou expressão estrangeira está no singular; na segunda, no plural:\nI. Para conseguir o emprego, entreguei um curriculum vitae numa empresa do Distrito\nPara conseguir o emprego, entreguei vários curricula vitae em empresas do Distrito\nII. A polícia rodoviária realizou uma blitz na rodovia Manaus-Manacapuru\nA polícia rodoviária realizou muitas blitze na rodovia Manaus-Manacapuru\nIII. O corpus literário brasileiro é bastante apreciado na Europa\nOs corpora literários latino-americanos são bastante apreciados na Europa\nIV. A Universidade Federal do Amazonas possui um belo campus na capital\nA Universidade Federal do Amazonas possui belos campi no interior\nV. Nossa amiga recebeu os convidados muito bem: é uma verdadeira lady\nNossas amigas receberam os convidados muito bem: são verdadeiras ladies\nAssinale a alternativa que mostra onde o plural foi CORRETAMENTE empregado:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Somente os plurais dos pares I e III estão corretos"
+          },
+          {
+            "letra": "b",
+            "texto": "Somente os plurais dos pares I, IV e V estão corretos"
+          },
+          {
+            "letra": "c",
+            "texto": "Somente os plurais dos pares II, III e V estão corretos"
+          },
+          {
+            "letra": "d",
+            "texto": "Somente os plurais dos pares II e IV estão corretos"
+          },
+          {
+            "letra": "e",
+            "texto": "Todos os plurais estão corretos"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Ortografia",
+          "Língua Portuguesa – Plural de substantivos estrangeiros"
+        ]
+      },
+      {
+        "numeroEnunciado": 4,
+        "enunciado": "Leia o texto a seguir:\nNo mundo non m'ei parella,\nmentre me for como me vai,\nca iá moiro por vós – e ay!\nmia sennor branca e vermella,\nqueredes que vus retraya\nquando vus eu vi en saya!\nMau dia me levatey,\nque vus enton non vi fea!\nOs versos acima são da cantiga conhecida como \"A Ribeirinha\", de autoria do trovador Paio Soares de Taveirós. Essa cantiga data do ano de 1189 ou 1198 e é tida como o mais antigo documento literário de Portugal.\nColoque V para verdadeiro e F para falso nas afirmativas a seguir, feitas a propósito de aspectos históricos da língua portuguesa, a partir do que o texto revela:\n( ) O texto pertence à fase do chamado “português arcaico\", cujo início se deu no século XII\n( ) O idioma é o galego-português, devido à unidade linguística que, nessa época, havia entre a Galícia e Portugal\n( ) O texto apresenta palavras do dialeto moçárabe, em uma fase de transformação do latim em português\n( ) O texto pertence à fase do chamado “português pré-arcaico\", que vai do século X ao final do século XII\nAssinale a alternativa que relaciona a sequência CORRETA de V e F de cima para baixo:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "V-V-F-F"
+          },
+          {
+            "letra": "b",
+            "texto": "V-F-V-F"
+          },
+          {
+            "letra": "c",
+            "texto": "F-F-V-V"
+          },
+          {
+            "letra": "d",
+            "texto": "F-V-F-V"
+          },
+          {
+            "letra": "e",
+            "texto": "F-F-F-V"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – História da Língua Portuguesa",
+          "Língua Portuguesa – Trovadorismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "Assinale a alternativa em que existe(m) adjetivo(s) empregado(s) como substantivo(s):",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Uma pessoa passiva não pode ser jamais independente"
+          },
+          {
+            "letra": "b",
+            "texto": "Muitos dos produtos que compramos são absolutamente supérfluos"
+          },
+          {
+            "letra": "c",
+            "texto": "Os ignorantes acham impossível o homem ir ao planeta Marte"
+          },
+          {
+            "letra": "d",
+            "texto": "Quem não lê nunca chega a ser sábio ou crítico em relação à vida"
+          },
+          {
+            "letra": "e",
+            "texto": "Os políticos sagazes e ambiciosos não desprezam a opinião pública"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Morfologia"
+        ]
+      },
+      {
+        "numeroEnunciado": 6,
+        "enunciado": "Assinale a alternativa em que há verbo conjugado de modo INCORRETO:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Se não reouvermos os passaportes roubados, não poderemos viajar"
+          },
+          {
+            "letra": "b",
+            "texto": "Quando o vir, entregue-lhe estas revistas, por favor."
+          },
+          {
+            "letra": "c",
+            "texto": "Se a crise atual se manter, o governo não terá sustentabilidade política"
+          },
+          {
+            "letra": "d",
+            "texto": "Se a vires no aeroporto, dize-lhe que desejo boa viagem"
+          },
+          {
+            "letra": "e",
+            "texto": "É um político que, sem se posicionar, apenas remedeia os problemas sociais"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Verbos"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "Leia o texto a seguir:\nTalvez mais do que qualquer outra ciência humana, a paleo-antropologia é notória pela importância das novas descobertas. Os jornais a adoram, e repetidas vezes anuncia-se dramaticamente um novo fóssil que, muito bem-apresentado, supostamente surpreende cientistas ou refuta conclusões antigas. Inclusive, sonha-se em trazer fósseis pré-históricos de volta à vida, esquecidos de que seria necessária uma macro-região que não possuímos mais. Porém, se os cientistas da paleo-antropologia fossem constantemente surpreendidos, suas teorias não seriam muito boas. Certa vez me irritei tanto com essas notícias, e com a maneira negativa como refletiam a capacidade de desenvolver teorias sobre a evolução humana, que num surto de humor negro me propus a apresentar, num encontro euro-americano de antropologia biológica, um trabalho intitulado \"Nova descoberta fenomenal derruba todas as teorias anteriormente aceitas sobre evolução humana\". E, no que deve ter sido um surto de humor ainda mais negro, a comissão organizadora aceitou o título, obrigando-me a escrever o artigo, que tinha tudo para ser não-científico, caso eu não tivesse desistido de produzi-lo. (BROCKMAN, J. & MATSON, K. As coisas são assim, p. 195. Adaptado.)\nEm relação às palavras sublinhadas no texto, coloque, nos parênteses a seguir, V (verdadeiro), se o emprego do hífen estiver correto, e F (falso), se o seu emprego estiver errado:\n( ) paleo-antropologia\n( ) bem-apresentado\n( ) macro-região\n( ) euro-americano\n( ) não-científico\nAssinale a alternativa que relaciona a sequência CORRETA de V e F de cima para baixo:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "V-V-F-F-V"
+          },
+          {
+            "letra": "b",
+            "texto": "V-F-V-F-F"
+          },
+          {
+            "letra": "c",
+            "texto": "F-F-V-V-V"
+          },
+          {
+            "letra": "d",
+            "texto": "F-V-F-F-V"
+          },
+          {
+            "letra": "e",
+            "texto": "F-V-F-V-F"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Ortografia"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "Leia os pares de frases a seguir, atentando para as palavras sublinhadas:\nI. Não se preocupe: qualquer dia apareceremos em sua casa\nPensei em comprar um belo carro, mas, sem recursos, comprei um qualquer\nII. Segundo os críticos, os livros de Paulo Coelho não têm valor algum\nEmbora iniciante, esse pintor expõe quadros que têm algum valor\nIII. Ele trabalhou com afinco todo o dia de hoje\nUma máxima diz que todo homem é mortal\nIV. Um certo número de passageiros chegou atrasado e não pôde embarcar\nOs cientistas são pessoas que têm o raciocínio certo e direto\nColoque V para verdadeiro e F para falso nas afirmativas a seguir, feitas a propósito das classes de palavras a que pertencem os vocábulos sublinhados, bem como do significado que possuem:\n( ) “qualquer”, na primeira frase, é pronome indefinido; na segunda, substantivo\n( ) “algum”, na primeira frase, é adjetivo; na segunda, pronome indefinido\n( ) “algum”, em ambas as frases, tem valor negativo e pejorativo\n( ) \"todo\", na primeira frase, por estar acompanhado de artigo, dá ideia de algo inteiro; na segunda, tem o sentido de \"qualquer\"\n( ) \"certo”, na primeira frase, é pronome indefinido; na segunda, é adjetivo\nAssinale a alternativa que relaciona a sequência CORRETA de V e F de cima para baixo:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "V-F-V-F-V"
+          },
+          {
+            "letra": "b",
+            "texto": "V-F-F-V-V"
+          },
+          {
+            "letra": "c",
+            "texto": "V-V-F-F-F"
+          },
+          {
+            "letra": "d",
+            "texto": "F-V-V-V-F"
+          },
+          {
+            "letra": "e",
+            "texto": "F-V-F-V-V"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Morfologia",
+          "Língua Portuguesa – Semântica"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "Assinale a alternativa que apresenta frase na qual todas as palavras estão escritas de modo CORRETO:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Ele não possue o diploma de curso superior, por isso não pôde se inscrever no concurso"
+          },
+          {
+            "letra": "b",
+            "texto": "O avanço discomunal das empresas virtuais vem fechando as que só atuam no mundo real"
+          },
+          {
+            "letra": "c",
+            "texto": "Consuelo ganhou de presente um colar artesanal indígena e uma planta com o sugestivo nome de giboia"
+          },
+          {
+            "letra": "d",
+            "texto": "No novo restaurante, ontem à noite, saboreamos uma maravilhosa pizza de muçarela e presunto"
+          },
+          {
+            "letra": "e",
+            "texto": "As pesquizas de opinião pública, quando bem realizadas, mostram com exatidão as tendências do eleitorado"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Ortografia"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "Leia as frases a seguir, nas quais constam, devidamente sublinhados, os vocábulos \"o\", \"a\", \"os\" ou \"as\". Depois, coloque no parêntese que antecede as frases AD, PP ou PD, conforme esses vocábulos forem, respectivamente, artigo definido, pronome pessoal ou pronome demonstrativo:\n( ) A vida passa sem que o percebamos\n( ) Não vejo tal pessoa há muitos anos, mas você a vê quase todos os dias.\n( ) Os dias transcorrem sem que os notemos\n( ) A essa altura dos acontecimentos, não sei mais o que fazer!\n( ) Temos ido à praia todas as manhãs\nAssinale a alternativa em que a sequência CORRETA foi registrada:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "PD – PP – PP – PD – AD"
+          },
+          {
+            "letra": "b",
+            "texto": "PD - AD - PD – PP – AD"
+          },
+          {
+            "letra": "c",
+            "texto": "PD - PP - AD – AD – PD"
+          },
+          {
+            "letra": "d",
+            "texto": "PP – AD – PD – AD – AD"
+          },
+          {
+            "letra": "e",
+            "texto": "PP – PD – AD – PP – PD"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Morfologia"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "Leia a seguinte estrofe do poema \"Motivo\", de Cecília Meireles, e assinale a alternativa CORRETA:\nEu canto porque o instante existe\ne a minha vida está completa.\nNão sou alegre nem sou triste:\nsou poeta.",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "O isolamento do eu-lírico justifica sua atividade poética."
+          },
+          {
+            "letra": "b",
+            "texto": "As características da estrofe são de um poema dramático."
+          },
+          {
+            "letra": "c",
+            "texto": "A estrofe apresenta versos de 9 e 4 sílabas poéticas."
+          },
+          {
+            "letra": "d",
+            "texto": "No poema, o eu-lírico apresenta a razão para ser poeta."
+          },
+          {
+            "letra": "e",
+            "texto": "O parágrafo também pode ser a unidade de composição básica do poema."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Literatura"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "Assinale a alternativa que apresenta versos decassílabos:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Arrependido estou de coração,\nDe coração vos busco, dai-me os braços,\nAbraços, que me rendem vossa luz."
+          },
+          {
+            "letra": "b",
+            "texto": "Quem sabe se nesta terra\nnão plantarei minha sina?\nNão tenho medo da terra\n(cavei pedra toda a vida)"
+          },
+          {
+            "letra": "c",
+            "texto": "Pensem nas crianças\nmudas telepáticas\npensem nas meninas\ncegas inexatas"
+          },
+          {
+            "letra": "d",
+            "texto": "A vista incerta,\nOs ombros langues,\nPierrot aperta\nAs mãos exangues\nDe encontro ao peito."
+          },
+          {
+            "letra": "e",
+            "texto": "Uma parte de mim\né todo mundo:\noutra parte é ninguém:\nfundo sem fundo."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Literatura",
+          "Língua Portuguesa – Métrica"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "Leia o seguinte fragmento da Carta de Pero Vaz de Caminha e assinale a alternativa CORRETA:\n\"Mesmo que o capitão-mor desta vossa frota e também os outros capitães escrevam a Vossa Alteza a notícia do achamento desta vossa nova terra, que nesta navegação ora se achou, não deixarei também de dar minha conta disso a Vossa Alteza, como eu melhor puder, ainda que – para o bem contar e falar, o saiba fazer pior que todos. Porém, tome Vossa Alteza minha ignorância por boa vontade; e creia, como certo, que não hei de pôr aqui mais que aquilo que vi e me pareceu, nem para aformosear nem para afear\".",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "O texto é meramente informativo, com uma linguagem objetiva e referencial."
+          },
+          {
+            "letra": "b",
+            "texto": "A carta é o único documento informativo sobre o início da colonização brasileira."
+          },
+          {
+            "letra": "c",
+            "texto": "A carta é dirigida a Pedro Álvares Cabral."
+          },
+          {
+            "letra": "d",
+            "texto": "A carta traz uma descrição científica da natureza brasileira, com fins catalográficos."
+          },
+          {
+            "letra": "e",
+            "texto": "Considerada como \"certidão de nascimento” do Brasil, a Carta constitui a principal fonte de informações sobre o descobrimento."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Literatura",
+          "Língua Portuguesa – Quinhentismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "Leia o poema de Gregório de Matos:\nNasce o Sol, e não dura mais que um dia,\nDepois da Luz se segue a noite escura,\nEm tristes sombras morre a formosura,\nEm contínuas tristezas a alegria.\nPorém, se acaba o Sol, por que nascia?\nSe é tão formosa a Luz, por que não dura?\nComo a beleza assim se transfigura?\nComo o gosto da pena assim se fia?\nMas no Sol, e na Luz falte a firmeza,\nNa formosura não se dê constância,\nE na alegria sinta-se tristeza.\nComeça o mundo enfim pela ignorância,\nE tem qualquer dos bens por natureza\nA firmeza somente na inconstância.\nAssinale a alternativa CORRETA:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "A busca por elementos da natureza, como o Sol, antecipa o Romantismo."
+          },
+          {
+            "letra": "b",
+            "texto": "A oposição entre sombras e luz indica a busca do eu-lírico por uma salvação para sua alma."
+          },
+          {
+            "letra": "c",
+            "texto": "O fato de o poema começar com a imagem do Sol e terminar com a palavra inconstância gera uma ideia de insegurança."
+          },
+          {
+            "letra": "d",
+            "texto": "O poema pertence ao Barroco, trazendo características típicas, como a oposição entre o eterno e o efêmero, sombra e luz, alegrias e tristezas."
+          },
+          {
+            "letra": "e",
+            "texto": "As oposições apresentadas no poema revelam a inabilidade do poeta em sintetizar suas ideias em um único elemento."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Literatura",
+          "Língua Portuguesa – Barroco"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "Considere o poema anterior de Gregório de Matos para assinalar a alternativa CORRETA:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Mesmo sendo Barroco, o poema antecipa características do Arcadismo, pois traz a oposição entre o racionalismo e a religiosidade."
+          },
+          {
+            "letra": "b",
+            "texto": "O descontentamento com as coisas do mundo, encontradas no poema de Gregório de Matos, relaciona-se com a lírica árcade no que diz respeito à Inconfidência Mineira."
+          },
+          {
+            "letra": "c",
+            "texto": "O racionalismo árcade não geraria poemas com as tensões e contradições encontradas no poema de Gregório de Matos."
+          },
+          {
+            "letra": "d",
+            "texto": "As ideias em oposição do poema também se percebem na lírica de Tomás Antônio Gonzaga."
+          },
+          {
+            "letra": "e",
+            "texto": "O cultismo presente nos poemas barrocos se percebe nos poemas árcades."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Literatura",
+          "Língua Portuguesa – Barroco",
+          "Língua Portuguesa – Arcadismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "Assinale a alternativa CORRETA quanto ao Arcadismo:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "O eu-lírico árcade busca fugir na morte."
+          },
+          {
+            "letra": "b",
+            "texto": "Iniciou a corrente indianista na poesia brasileira com os poemas épicos."
+          },
+          {
+            "letra": "c",
+            "texto": "Apresenta tendência mística ou religiosa."
+          },
+          {
+            "letra": "d",
+            "texto": "Seus poemas apresentam linguagem rebuscada."
+          },
+          {
+            "letra": "e",
+            "texto": "O irracionalismo amoroso é a sua característica principal."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Literatura",
+          "Língua Portuguesa – Arcadismo"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "A Pré-história Tardia da Amazônia (1000 a.C. a 1000 d.C.) \"pode ser caracterizada pelo surgimento, ao longo dos principais braços e deltas dos rios, de sociedades indígenas com grau de complexidade bastante significativo na sua economia, na demografia e nas suas organizações políticas e sociais” (SANTOS, F.J. História do Amazonas. Memvavmem, 2010).\nSobre que aconteceu durante a Pré-história Tardia da Amazônia, assinale a alternativa CORRETA:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "O definitivo desaparecimento da cultura paleo-indígena."
+          },
+          {
+            "letra": "b",
+            "texto": "O surgimento dos cacicados complexos: tapajônico e marajoara."
+          },
+          {
+            "letra": "c",
+            "texto": "O rompimento das rígidas hierarquias políticas dos bandos arcaicos."
+          },
+          {
+            "letra": "d",
+            "texto": "O nascimento do sistema de cacicado complexo entre os omáguas, no delta do rio Amazonas."
+          },
+          {
+            "letra": "e",
+            "texto": "As populações davam ênfase à caça de mega-fauna: preguiça gigante, grandes tatus e antas."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "História – História do Brasil",
+          "História – Pré-história da Amazônia"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "Em 510 a.C., o estadista Clístenes liderou uma rebelião contra o último tirano, derrubando-o e iniciando reformas que culminaram com a implantação da democracia e a pacificação da pólis ateniense.\nSobre a Democracia ateniense, assinale a alternativa CORRETA:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "O fim da escravidão por dívida foi obra de Drácon, o último tirano de Atenas."
+          },
+          {
+            "letra": "b",
+            "texto": "As mulheres de Atenas tinham uma vida mais ativa do que as de Esparta."
+          },
+          {
+            "letra": "c",
+            "texto": "A Democracia ateniense difundiu-se por todas as Cidades-Estado da Grécia antiga."
+          },
+          {
+            "letra": "d",
+            "texto": "Durante o período da Tirania, institui-se o sistema de Diarquia, em Atenas."
+          },
+          {
+            "letra": "e",
+            "texto": "O Ostracismo foi criado como um instrumento de defesa da Democracia."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – História Antiga",
+          "História – Grécia Antiga"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "Durante o Império Romano, ao governo de Otávio Augusto (27 a.C. a 14 d.C.) se atribui, entre outras realizações, a ampliação do comércio entre as províncias, a construção de estradas, pontes, aquedutos e grandes incentivos culturais.\nSobre realizações culturais do governo de Otávio Augusto, assinale a alternativa CORRETA:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Nesse período Tito Lívio escreveu o épico Eneida, que relata a fundação mítica de Roma, em 142 volumes."
+          },
+          {
+            "letra": "b",
+            "texto": "Foi reformulado o Calendário que vigorava em Roma, com 355 dias e 12 meses; passando, então, o ano a ter 365 dias e seis horas, divididos em 12 meses."
+          },
+          {
+            "letra": "c",
+            "texto": "As crianças romanas passaram a ser alfabetizadas, aprendiam a ler e a escrever em latim e grego com seus preceptores."
+          },
+          {
+            "letra": "d",
+            "texto": "Durante o governo de Otávio Augusto foram produzidas as seguintes obras: Eneida, de Virgílio; História de Roma, de Horácio, e Ilíada de Homero."
+          },
+          {
+            "letra": "e",
+            "texto": "Caio Mecenas, conselheiro do imperador, apoiou financeiramente artistas e escritores, como os poetas Virgílio, Horácio e Ovídio."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – História Antiga",
+          "História – Roma Antiga"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "Entre os anos de 440 e 455 da Era Cristã, um Estado surgido nas regiões ao norte do rio Danúbio, embora tenha sido de curta duração, causou terror em várias províncias do combalido Império Romano do Ocidente. Seu líder supremo mais conhecido foi Átila, chamado posteriormente de “o flagelo de Deus”. Átila conseguira reunir várias tribos mongóis que, desde fins do século IV, haviam se instalado naquelas regiões, além de absorver povos de origem não mongol, conseguindo formar um pequeno império. Todavia, essa estrutura política não sobreviveu à morte do próprio Átila, em 453, logo desaparecendo.\nAssinale a alternativa CORRETA quanto ao nome do império formado por Átila:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Império Hérulo"
+          },
+          {
+            "letra": "b",
+            "texto": "Império Geta"
+          },
+          {
+            "letra": "c",
+            "texto": "Império Huno"
+          },
+          {
+            "letra": "d",
+            "texto": "Império Vândalo"
+          },
+          {
+            "letra": "e",
+            "texto": "Império Suevo"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – História Medieval",
+          "História – Império Huno"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "No ano de 732 da Era Cristã, tropas muçulmanas do califado omíada, sediado em Damasco, atravessaram a cadeia montanhosa dos Pirineus, invadindo o território dos francos (na atual França) a partir de suas bases na Espanha. Foram detidas e derrotadas pela infantaria franca comandada por Carlos Martel, em célebre batalha, sendo esta invasão o ponto extremo da marcha muçulmana para o Ocidente.\nAssinale a alternativa CORRETA quanto à localidade onde os muçulmanos foram detidos e derrotados:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Lion"
+          },
+          {
+            "letra": "b",
+            "texto": "Avignon"
+          },
+          {
+            "letra": "c",
+            "texto": "Poitiers"
+          },
+          {
+            "letra": "d",
+            "texto": "Orleans"
+          },
+          {
+            "letra": "e",
+            "texto": "Poitou"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – História Medieval",
+          "História – Expansão Muçulmana"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "Por volta de fins do século XV, os portugueses e espanhóis precisavam encontrar o caminho marítimo para as Índias, pois isso lhes permitiria aumentar a lucratividade do comércio de artigos orientais. Antes dos espanhóis, os portugueses chegaram à Ásia navegando pelo Oceano Atlântico. De lá voltaram à Europa sobrecarregados de especiarias, as quais lhes proporcionaram uma riqueza inestimável.\nAssinale a alternativa CORRETA sobre o \"pioneirismo português\" nessa aventura marítima.",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "A existência de uma burguesia capitalista, como fator determinante."
+          },
+          {
+            "letra": "b",
+            "texto": "A absoluta escassez de recursos naturais das terras de Portugal."
+          },
+          {
+            "letra": "c",
+            "texto": "A chegada de Vasco da Gama a Macau, na China, foi o fator primordial."
+          },
+          {
+            "letra": "d",
+            "texto": "Um dos fatores foi a consolidação precoce da Monarquia portuguesa."
+          },
+          {
+            "letra": "e",
+            "texto": "A aliança da burguesia capitalista com a Igreja católica foi fator decisivo."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – História Moderna",
+          "História – Grandes Navegações"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "Assinale a alternativa que completa CORRETAMENTE as lacunas da sentença a seguir, sobre as condições do clima:\nAs regiões situadas na porção meridional do continente sul-americano são zonas de ______ onde ______ se tornam comuns as ______.",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "I - baixa pressão; II - médias temperaturas."
+          },
+          {
+            "letra": "b",
+            "texto": "I - baixa temperatura; II - baixas pressões."
+          },
+          {
+            "letra": "c",
+            "texto": "I - baixa pressão; II - altas temperaturas."
+          },
+          {
+            "letra": "d",
+            "texto": "I - alta pressão; II - baixas temperaturas."
+          },
+          {
+            "letra": "e",
+            "texto": "I - alta pressão; II - altas temperaturas."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Climatologia",
+          "Geografia – Clima da América do Sul"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "O desenvolvimento sustentável tem por meta satisfazer as necessidades da geração atual, sem comprometer a capacidade das gerações futuras de satisfazerem as suas próprias necessidades.\nAssinale a alternativa que registra onde este conceito foi proposto pela primeira vez:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Conferência da Europa Sustentável"
+          },
+          {
+            "letra": "b",
+            "texto": "Declaração Ambiental do Rio"
+          },
+          {
+            "letra": "c",
+            "texto": "Relatório Brundtland"
+          },
+          {
+            "letra": "d",
+            "texto": "Protocolo de Kyoto"
+          },
+          {
+            "letra": "e",
+            "texto": "Carta de Gaia"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Meio Ambiente",
+          "Geografia – Desenvolvimento Sustentável"
+        ]
+      },
+      {
+        "numeroEnunciado": 25,
+        "enunciado": "A sequência que relaciona CORRETAMENTE os temas aos conceitos cartográficos é:\nI. Mapa de indicadores sociais\nII. Esboço cartográfico\nIII. Representação cartográfica em escala grande\nIV. Hipsometria\nV. Pontos do terreno sob uma mesma altitude",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "I-Croqui; II-Curva de nível; III-Coordenadas; IV-Mapa Temático; V-Hipsometria."
+          },
+          {
+            "letra": "b",
+            "texto": "I-Planta; II-Hipsometria; III-Curva de nível; IV-Coordenada geográfica; V-Longitudes."
+          },
+          {
+            "letra": "c",
+            "texto": "I-Mapa Temático; II-Croqui; III-Planta; IV-Altitudes; V-Curva de nível."
+          },
+          {
+            "letra": "d",
+            "texto": "I-Mapa Temático; II-Planta; III-Croqui; IV-Curva de nível; V-Latitudes."
+          },
+          {
+            "letra": "e",
+            "texto": "I-Mapa Temático; II-Hipsometria; III-Escala gráfica; IV-Croqui, V-Curva de nível."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Cartografia"
+        ]
+      },
+      {
+        "numeroEnunciado": 26,
+        "enunciado": "O conceito de região, assim como as demais categorias geográficas, assume significados diferentes, de acordo com o método utilizado para sua interpretação. Assim sendo, o termo Região Natural foi edificado sob a influência da concepção:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Possibilista."
+          },
+          {
+            "letra": "b",
+            "texto": "Determinista."
+          },
+          {
+            "letra": "c",
+            "texto": "Regionalista."
+          },
+          {
+            "letra": "d",
+            "texto": "Pós-moderna."
+          },
+          {
+            "letra": "e",
+            "texto": "Quantitativista."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Geografia – Conceitos Geográficos",
+          "Geografia – Correntes do Pensamento Geográfico"
+        ]
+      },
+      {
+        "numeroEnunciado": 27,
+        "enunciado": "O GPS (Sistema de Posicionamento Global), como um todo, é composto de três segmentos funcionais distintos. São eles:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Latitude, longitude, altitude"
+          },
+          {
+            "letra": "b",
+            "texto": "Espacial, controle terrestre, usuário"
+          },
+          {
+            "letra": "c",
+            "texto": "Estação de controle, sinais de rádio, satélites"
+          },
+          {
+            "letra": "d",
+            "texto": "Receptores, coordenadas geográficas, estações"
+          },
+          {
+            "letra": "e",
+            "texto": "Satélites artificiais, sinais eletromagnéticos, painéis solares retráteis"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Geografia – Geotecnologias"
+        ]
+      },
+      {
+        "numeroEnunciado": 28,
+        "enunciado": "Observe o mapa a seguir:\n[MAPA MUNDI COM REGIÕES DO NORTE DESTACADAS]\nAssinale a alternativa que caracteriza CORRETAMENTE a formação vegetal destacada no mapa anterior:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "A vegetação rasteira (musgos, líquens, ervas e arbustos baixos) tem um ciclo vegetativo extremamente baixo (cerca de três meses), quando ocorre o descongelamento parcial do solo."
+          },
+          {
+            "letra": "b",
+            "texto": "É uma formação florestal bastante homogênea, na qual predominam coníferas do tipo pinheiro."
+          },
+          {
+            "letra": "c",
+            "texto": "Ocorre em clima temperado, nas baixas latitudes. A vegetação é composta por árvores que perdem suas folhas no inverno."
+          },
+          {
+            "letra": "d",
+            "texto": "Esse tipo de vegetação herbácea recebe o nome de pradaria, no Hemisfério Norte, e é encontrada principalmente em regiões de clima temperado continental."
+          },
+          {
+            "letra": "e",
+            "texto": "É uma vegetação que possui características das regiões temperadas ou subtropicais. Geralmente, essa vegetação é típica de formações como planícies, que desenvolve poucas espécies de árvores e grande quantidade de gramíneas"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Biogeografia",
+          "Geografia – Biomas"
+        ]
+      },
+      {
+        "numeroEnunciado": 29,
+        "enunciado": "As moléculas de DNA e RNA são fantásticos repositórios informacionais comuns a todos os seres vivos. Analise as afirmativas e assinale a alternativa CORRETA:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Houve um período abiótico em que as moléculas de DNA dominaram o planeta."
+          },
+          {
+            "letra": "b",
+            "texto": "Além de serem moléculas informacionais, o DNA e o RNA também apresentam atividade enzimática."
+          },
+          {
+            "letra": "c",
+            "texto": "Na dupla hélice do DNA, as bases púricas (citosina e timina) ligam-se às bases pirimídicas (adenina e guanina)."
+          },
+          {
+            "letra": "d",
+            "texto": "Um nucleotídeo nos ácidos nucleicos é formado por um fosfato ligado a um açúcar que, por sua vez, é ligado a uma base nitrogenada."
+          },
+          {
+            "letra": "e",
+            "texto": "As moléculas de RNA são compactadas nos nucleossomas."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Biologia Celular",
+          "Biologia – Ácidos Nucleicos"
+        ]
+      },
+      {
+        "numeroEnunciado": 30,
+        "enunciado": "São vitaminas hidrossolúveis e lipossolúveis, respectivamente:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "B₁ e B2."
+          },
+          {
+            "letra": "b",
+            "texto": "Retinol e tiamina."
+          },
+          {
+            "letra": "c",
+            "texto": "Niacina e tocoferol."
+          },
+          {
+            "letra": "d",
+            "texto": "Ácido pantotênico e B12."
+          },
+          {
+            "letra": "e",
+            "texto": "Filoquinona e ácido ascórbico."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Fisiologia Humana",
+          "Biologia – Vitaminas"
+        ]
+      },
+      {
+        "numeroEnunciado": 31,
+        "enunciado": "Na molécula de DNA humana há, aproximadamente, 30% de timinas [T]. Qual a porcentagem das outras bases nitrogenadas, adenina [A], citosina [C] e guanina [G] nessa molécula?",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "[A]=30%; [C]=20%; [G]=20%."
+          },
+          {
+            "letra": "b",
+            "texto": "[A]=20%; [C]=30%; [G]=20%."
+          },
+          {
+            "letra": "c",
+            "texto": "[A]=30%; [C]=30%; [G]=30%."
+          },
+          {
+            "letra": "d",
+            "texto": "[A]=20%; [C]=30%; [G]=20%."
+          },
+          {
+            "letra": "e",
+            "texto": "[A]=10%; [C]=20%; [G]=40%."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Biologia Molecular",
+          "Biologia – DNA"
+        ]
+      },
+      {
+        "numeroEnunciado": 32,
+        "enunciado": "Um estímulo foi suficiente para iniciar um potencial de ação em um neurônio. O registro da variação de voltagem através da membrana mostra uma curva que se eleva até um ponto máximo e depois decai para, posteriormente, se estabilizar nos valores pré-potenciais de ação. Pergunta-se: em que posição da curva a permeabilidade ao Na⁺ e ao K⁺ se encontra aumentada, respectivamente?",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Na posição crescente da curva e na posição decrescente"
+          },
+          {
+            "letra": "b",
+            "texto": "Na posição decrescente da curva e na posição crescente"
+          },
+          {
+            "letra": "c",
+            "texto": "Na base e no topo da curva"
+          },
+          {
+            "letra": "d",
+            "texto": "Não há alteração na permeabilidade a esses íons"
+          },
+          {
+            "letra": "e",
+            "texto": "As permeabilidades somente são alteradas na posição decrescente da curva"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Fisiologia",
+          "Biologia – Sistema Nervoso"
+        ]
+      },
+      {
+        "numeroEnunciado": 33,
+        "enunciado": "Analise as afirmativas a seguir:\nI. Cloroplastos são estruturas celulares componentes do sistema de endomembranas, assim como o retículo endoplasmático.\nII. Estereocílios são especializações das membranas plasmáticas que permitem o aumento de área superficial.\nIII. As proteínas motoras são componentes do citoesqueleto celular.\nIV. Os microfilamentos participam ativamente da citocinese.\nV. Os centríolos participam da síntese protéica, facilitando a ligação RNA transportador-códon.\nAssinale a alternativa correta:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Somente as afirmativas I e IV estão corretas"
+          },
+          {
+            "letra": "b",
+            "texto": "Somente as afirmativas I, II e V estão corretas"
+          },
+          {
+            "letra": "c",
+            "texto": "Somente as afirmativas II, III e IV estão corretas"
+          },
+          {
+            "letra": "d",
+            "texto": "Somente as afirmativas II, III, IV e V estão corretas"
+          },
+          {
+            "letra": "e",
+            "texto": "Todas as afirmativas estão corretas"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Biologia Celular",
+          "Biologia – Organelas",
+          "Biologia – Citoesqueleto"
+        ]
+      },
+      {
+        "numeroEnunciado": 34,
+        "enunciado": "O sistema vascular permite o transporte e a troca de metabólitos e gases através do corpo dos metazoários. Há uma hierarquia quanto ao diâmetro da vasculatura e a efetividade dessas trocas. Pergunta-se: (i) a que nível da hierarquia vascular ocorrem as trocas gasosas? e (ii) que camada em uma artéria é composta principalmente por músculo liso?\nAssinale a alternativa que contém a sequência CORRETA que responde às perguntas (i) e (ii), respectivamente:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Arteríola; túnica adventícia."
+          },
+          {
+            "letra": "b",
+            "texto": "Artéria; túnica íntima."
+          },
+          {
+            "letra": "c",
+            "texto": "Arteríola; túnica íntima."
+          },
+          {
+            "letra": "d",
+            "texto": "Capilar; túnica média."
+          },
+          {
+            "letra": "e",
+            "texto": "Vênula; túnica externa."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Biologia – Fisiologia Humana",
+          "Biologia – Sistema Circulatório"
+        ]
+      },
+      {
+        "numeroEnunciado": 35,
+        "enunciado": "Ponto de ebulição é a temperatura em que uma substância líquida passa para o estado gasoso, a determinada pressão. O ponto de ebulição da substância etanol é de 78 °C. Se o ponto de ebulição do etanol fosse medido no topo do Pico da Neblina, com seus 2.994 metros de altura, ele permaneceria igual, maior ou menor?",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Menor, devido a pressão atmosférica exercer uma força menor, facilitando a passagem das moléculas do álcool para o estado gasoso"
+          },
+          {
+            "letra": "b",
+            "texto": "Maior, devido às interações intermoleculares mais intensas, dificultando a passagem das moléculas do álcool para o estado gasoso"
+          },
+          {
+            "letra": "c",
+            "texto": "Igual, devido a energia fornecida ser a mesma e não haver alteração na energia cinética necessária para a passagem das moléculas do álcool para o estado gasoso"
+          },
+          {
+            "letra": "d",
+            "texto": "Menor, devido à diminuição da vibração nas ligações intermoleculares causada pela diminuição da pressão atmosférica, facilitando a passagem das moléculas do álcool para o estado gasoso"
+          },
+          {
+            "letra": "e",
+            "texto": "Maior, devido a energia potencial ser maior que a energia cinética causada pela mudança da pressão atmosférica, dificultando a passagem das moléculas do álcool para o estado gasoso"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Físico-Química",
+          "Química – Estados da Matéria",
+          "Química – Pressão Atmosférica"
+        ]
+      },
+      {
+        "numeroEnunciado": 36,
+        "enunciado": "Analise as afirmativas sobre a estrutura atômica dos átomos:\nI. O elétron é uma partícula subatômica que circunda o núcleo atômico, sendo responsável pela criação de campos magnéticos elétricos.\nII. Cada núcleo de um determinado elemento químico possui diferentes número de prótons.\nIII. Como a massa do elétron é muito grande, a massa de um átomo é a soma das massas dos elétrons e dos nêutrons.\nIV. Para se calcular a quantidade de nêutron que um átomo possui, basta fazer a subtração entre o número de massa e o número eletrônico.\nV. Grande parte do volume do átomo se deve aos prótons.\nAssinale a alternativa correta:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Somente as afirmativas I, II e III estão incorretas"
+          },
+          {
+            "letra": "b",
+            "texto": "Somente as afirmativas I, II e IV estão incorretas"
+          },
+          {
+            "letra": "c",
+            "texto": "Somente as afirmativas II, III e IV estão incorretas"
+          },
+          {
+            "letra": "d",
+            "texto": "Somente as afirmativas II, III e V estão incorretas"
+          },
+          {
+            "letra": "e",
+            "texto": "Somente as afirmativas III e V estão incorretas"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Estrutura Atômica"
+        ]
+      },
+      {
+        "numeroEnunciado": 37,
+        "enunciado": "Os minerais cinábrio (vermelhão nativo), galena (pedra da harmonia) e pirita (ouro dos tolos) são compostos de diferentes metais combinados com o mesmo elemento. Qual dos seguintes elementos é comum a todos os três minerais supracitados?",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Fósforo"
+          },
+          {
+            "letra": "b",
+            "texto": "Enxofre"
+          },
+          {
+            "letra": "c",
+            "texto": "Cobre"
+          },
+          {
+            "letra": "d",
+            "texto": "Sódio"
+          },
+          {
+            "letra": "e",
+            "texto": "Ferro"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Química Inorgânica",
+          "Química – Minerais"
+        ]
+      },
+      {
+        "numeroEnunciado": 38,
+        "enunciado": "A regra do octeto é amplamente utilizada para explicar as ligações químicas. É uma regra química que afirma que os átomos de baixo número atômico tendem a combinar ou tornar-se íons de modo que cada um deles tem oito elétrons em sua camada de valência, dando-lhes a mesma configuração eletrônica como um gás nobre (e, portanto, mais estabilidade). Mas existem algumas exceções que violam a regra do octeto. Nesse caso, em qual das seguintes espécies químicas a “regra do octeto\" é violada?",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "NO2"
+          },
+          {
+            "letra": "b",
+            "texto": "CO2"
+          },
+          {
+            "letra": "c",
+            "texto": "NH2-"
+          },
+          {
+            "letra": "d",
+            "texto": "SO4"
+          },
+          {
+            "letra": "e",
+            "texto": "Al2O3"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Ligações Químicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 39,
+        "enunciado": "Os óxidos são compostos binários, ou seja, formados por dois elementos, sendo o oxigênio o mais eletronegativo entre eles. Eles são classificados em função do seu comportamento na presença de água, bases e ácidos. Associe CORRETAMENTE a segunda coluna com a primeira:\nI. AS2O3 () óxido ácido\nII. CO () óxido anfótero\nIII. Fe3O4 () óxido básico\nIV. N2O5\nV. Sro () óxido duplo ou misto\n() óxido neutro\nAssinale a alternativa que apresenta a sequência correta de cima para baixo:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "II, III, IV, I e V"
+          },
+          {
+            "letra": "b",
+            "texto": "IV, I, V, III e II"
+          },
+          {
+            "letra": "c",
+            "texto": "IV, II, III, V e I"
+          },
+          {
+            "letra": "d",
+            "texto": "V, III, IV, I e II"
+          },
+          {
+            "letra": "e",
+            "texto": "V, IV, III, I e II"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Química – Química Inorgânica",
+          "Química – Óxidos"
+        ]
+      },
+      {
+        "numeroEnunciado": 40,
+        "enunciado": "Em 1789, Nicolas Leblanc (1742-1806) conseguiu desenvolver um processo, na época considerado muito bom, para produzir carbonato de sódio a partir do NaCl. As equações químicas do processo são mostradas a seguir:\n1. 2NaCl(s) + H2SO4(aq) → X + 2HCl(g)\nII. X + 4C(s) → Y + 4CO(g)\nIII. Y + CaCO3(s) → Na2CO3(s) + Z\nComplete CORRETAMENTE as equações químicas, identificando os produtos X, Y e Z, respectivamente:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "sulfato de sódio, sulfeto de sódio e sulfeto de cálcio"
+          },
+          {
+            "letra": "b",
+            "texto": "sulfeto de sódio, sulfato de sódio e sulfeto de cálcio"
+          },
+          {
+            "letra": "c",
+            "texto": "sulfeto de sódio, sulfeto de cálcio e sulfato de sódio"
+          },
+          {
+            "letra": "d",
+            "texto": "sulfeto de cálcio, sulfato de sódio e sulfeto de sódio"
+          },
+          {
+            "letra": "e",
+            "texto": "sulfito de sódio, sulfeto de sódio e sulfeto de cálcio"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Reações Químicas",
+          "Química – Nomenclatura de Compostos"
+        ]
+      },
+      {
+        "numeroEnunciado": 41,
+        "enunciado": "A cidade amazonense de Tabatinga é fronteiriça à Colômbia e ao Peru. A fronteira com a Colômbia é terrestre, o que torna as cidades de Tabatinga (Brasil) e Leticia (Colômbia), interdependentes no tocante ao abastecimento, já que a população das duas cidades transita livremente entre os dois países. O acesso mais frequente à Colômbia é pela Avenida da Amizade, que possui uma extensão de aproximadamente 6km, começando no Aeroporto Internacional de Tabatinga e terminando em Leticia, atravessando as duas cidades no sentido norte-sul. Considere a situação na qual uma pessoa resolve percorrer caminhando toda a extensão da Avenida da Amizade, partindo do Aeroporto Internacional de Tabatinga até Leticia. Se a distância média de cada passo é de 80cm, podemos afirmar que a ordem de grandeza do número de passos dados por essa pessoa nessa caminhada é:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "102"
+          },
+          {
+            "letra": "b",
+            "texto": "103"
+          },
+          {
+            "letra": "c",
+            "texto": "104"
+          },
+          {
+            "letra": "d",
+            "texto": "105"
+          },
+          {
+            "letra": "e",
+            "texto": "106"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Grandezas Físicas",
+          "Física – Ordem de Grandeza"
+        ]
+      },
+      {
+        "numeroEnunciado": 42,
+        "enunciado": "Considere a situação na qual uma pessoa, por descuido, deixa cair um objeto de um balão de ar quente, subindo verticalmente a uma taxa de 6m/s. Considerando que o objeto estava numa altura de 78,2m acima do solo quando foi solto, e desprezando o arrasto com o ar, podemos afirmar que o intervalo de tempo decorrido até que o objeto atinja o solo foi de:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "3,6s"
+          },
+          {
+            "letra": "b",
+            "texto": "3,8s"
+          },
+          {
+            "letra": "c",
+            "texto": "3,9s"
+          },
+          {
+            "letra": "d",
+            "texto": "4,0s"
+          },
+          {
+            "letra": "e",
+            "texto": "4,6s"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Mecânica",
+          "Física – Cinemática"
+        ]
+      },
+      {
+        "numeroEnunciado": 43,
+        "enunciado": "Um apagador com 100g de massa, inicialmente em repouso, é pressionado por uma força horizontal constante contra um quadro-branco. Sabendo que o coeficiente de atrito estático entre o apagador e o quadro é 0,4 e o coeficiente de atrito cinético entre o apagador e o quadro é 0,2, podemos afirmar que a menor intensidade da força horizontal aplicada, capaz de manter o apagador em repouso, é:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "2,0N"
+          },
+          {
+            "letra": "b",
+            "texto": "2,5N"
+          },
+          {
+            "letra": "c",
+            "texto": "3,5N"
+          },
+          {
+            "letra": "d",
+            "texto": "4,0N"
+          },
+          {
+            "letra": "e",
+            "texto": "5,0N"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Mecânica",
+          "Física – Dinâmica",
+          "Física – Forças de Atrito"
+        ]
+      },
+      {
+        "numeroEnunciado": 44,
+        "enunciado": "Um menino amarra uma pedra de 100g na extremidade de um fio e coloca-a para girar acima de sua cabeça, descrevendo uma circunferência horizontal com 1,25m de raio e velocidade escalar constante de 18km/h. Analise as afirmativas a seguir:\nI. Sendo a velocidade escalar da pedra constante, não há aceleração no movimento circular.\nII. A intensidade da força de tração no fio é igual a 2N.\nIII. O período de revolução do movimento da pedra é de 1,5s.\nIV. Se o raio do movimento circular da pedra for reduzido para 1,0m, a intensidade da força de tração no fio aumenta para 2,25N.\nAssinale a alternativa correta:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "Somente as afirmativas I e III estão corretas"
+          },
+          {
+            "letra": "b",
+            "texto": "Somente as afirmativas I e IV estão corretas"
+          },
+          {
+            "letra": "c",
+            "texto": "Somente as afirmativas II e III estão corretas"
+          },
+          {
+            "letra": "d",
+            "texto": "Somente as afirmativas II, III e IV estão corretas"
+          },
+          {
+            "letra": "e",
+            "texto": "Todas as afirmativas estão corretas"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Mecânica",
+          "Física – Movimento Circular"
+        ]
+      },
+      {
+        "numeroEnunciado": 45,
+        "enunciado": "O termo \"exoplaneta” refere-se a um planeta que orbita uma estrela que não seja o Sol. A descoberta dos primeiros exoplanetas foi anunciada em 1989, com a maioria dos exoplanetas possuindo condições inóspitas à existência da vida, tal como a conhecemos na Terra. O exoplaneta Kepler-186f, descoberto em 17/04/2014, possui tamanho semelhante ao da Terra e orbita a estrela ană vermelha Kepler-186, numa zona habitável. Kepler-186f possui raio igual a 1,1 vezes do raio da Terra e período de revolução de 129,9 dias terrestres, mas sua massa ainda é desconhecida. Supondo que a massa de Kepler-186f seja igual à da Terra, podemos afirmar que a aceleração da gravidade na superfície da Terra é:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "21% menor que a aceleração da gravidade na superfície de Kepler-186f."
+          },
+          {
+            "letra": "b",
+            "texto": "igual à aceleração da gravidade na superfície de Kepler-186f."
+          },
+          {
+            "letra": "c",
+            "texto": "10% maior que a aceleração da gravidade na superfície de Kepler-186f."
+          },
+          {
+            "letra": "d",
+            "texto": "21% maior que a aceleração da gravidade na superfície de Kepler-186f."
+          },
+          {
+            "letra": "e",
+            "texto": "10% menor que a aceleração da gravidade na superfície de Kepler-186f."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Gravitação",
+          "Física – Leis de Newton"
+        ]
+      },
+      {
+        "numeroEnunciado": 46,
+        "enunciado": "Areia movediça se forma quando a água se mistura com a areia, separando os grãos e eliminando o atrito que os impede de se mover uns em relação aos outros. Poços de areia movediça podem se formar quando a água se infiltra em bolsões de areia, podendo ocorrer em locais como margens de rios, praias, etc. Nos filmes de ação, vemos a situação na qual uma pessoa cai num poço de areia movediça e afunda aos poucos até submergir completamente. Considerando que a massa específica da areia movediça de um poço profundo vale 1,9g/cm³ e que a massa específica do corpo humano seja uniforme e igual a 95% da massa específica da água, podemos afirmar que, se uma pessoa cair num poço de areia movediça, ela irá:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "flutuar com 50% de seu corpo submerso."
+          },
+          {
+            "letra": "b",
+            "texto": "flutuar com 95% de seu corpo submerso."
+          },
+          {
+            "letra": "c",
+            "texto": "flutuar com 75% de seu corpo submerso."
+          },
+          {
+            "letra": "d",
+            "texto": "flutuar com 90% de seu corpo submerso."
+          },
+          {
+            "letra": "e",
+            "texto": "submergir completamente, como nos filmes de ação."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Hidrostática",
+          "Física – Empuxo"
+        ]
+      },
+      {
+        "numeroEnunciado": 47,
+        "enunciado": "No final do ano passado, uma empresa do Distrito Industrial de Manaus ofereceu um prêmio de R$ 8.000,00 aos seus três melhores vendedores, Ana, Beatriz e Carlos. A divisão do prêmio foi em partes diretamente proporcionais à quantidade de vendas de produtos durante o ano e em partes inversamente proporcionais ao número de faltas deles ao trabalho, também durante o ano. Sabendo que Ana realizou 7 vendas e faltou 4 vezes, Beatriz realizou 8 vendas e faltou 3 vezes e Carlos realizou 9 vendas e faltou 4 vezes, então Beatriz recebeu:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "R$ 2.100,00"
+          },
+          {
+            "letra": "b",
+            "texto": "R$ 2.700,00"
+          },
+          {
+            "letra": "c",
+            "texto": "R$ 3.100,00"
+          },
+          {
+            "letra": "d",
+            "texto": "R$ 3.200,00"
+          },
+          {
+            "letra": "e",
+            "texto": "R$ 3.300,00"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Razão e Proporção"
+        ]
+      },
+      {
+        "numeroEnunciado": 48,
+        "enunciado": "Sabendo que os pontos (2,-1) e (-3,-6) pertencem ao gráfico da função f: R → R definida por f(x) = ax + b, então a – b é:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "0"
+          },
+          {
+            "letra": "b",
+            "texto": "1"
+          },
+          {
+            "letra": "c",
+            "texto": "2"
+          },
+          {
+            "letra": "d",
+            "texto": "3"
+          },
+          {
+            "letra": "e",
+            "texto": "4"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Funções",
+          "Matemática – Função Afim"
+        ]
+      },
+      {
+        "numeroEnunciado": 49,
+        "enunciado": "A função f: R → R tem como gráfico uma parábola e satisfaz f(x + 1) − f(x) = 8x - 4, para todo número real x. Então o menor valor de f(x) ocorre quando o valor de x é igual a:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "2"
+          },
+          {
+            "letra": "b",
+            "texto": "1"
+          },
+          {
+            "letra": "c",
+            "texto": "1/2"
+          },
+          {
+            "letra": "d",
+            "texto": "1/4"
+          },
+          {
+            "letra": "e",
+            "texto": "- 1"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Funções",
+          "Matemática – Função Quadrática"
+        ]
+      },
+      {
+        "numeroEnunciado": 50,
+        "enunciado": "O valor (em reais) de um veículo varia, após x anos, segundo a lei definida por d(x) = vo· 2-0,2 x, onde vo é uma constante real. Sabendo que após 5 anos esse veículo estará valendo R$ 30.000,00, então o valor desse veículo após 15 anos deve ser:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "R$ 4.000,00"
+          },
+          {
+            "letra": "b",
+            "texto": "R$ 5.000,00"
+          },
+          {
+            "letra": "c",
+            "texto": "R$ 6.000,00"
+          },
+          {
+            "letra": "d",
+            "texto": "R$ 7.500,00"
+          },
+          {
+            "letra": "e",
+            "texto": "R$ 10.000,00"
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Funções",
+          "Matemática – Função Exponencial"
+        ]
+      },
+      {
+        "numeroEnunciado": 51,
+        "enunciado": "Resolvendo em R a inequação\nlog25(x² – x) > log25(2x + 10)\ndeve-se obter como solução (S):",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "S = {x ∈ R|-5<x< -2 ou x > 5}"
+          },
+          {
+            "letra": "b",
+            "texto": "S = {x ∈ R|-5<x<0ou x > 1}"
+          },
+          {
+            "letra": "c",
+            "texto": "S = {x ∈ R | x < -2 ou x > 5}"
+          },
+          {
+            "letra": "d",
+            "texto": "S = {x ∈ R|-5<x<-5}"
+          },
+          {
+            "letra": "e",
+            "texto": "S = Ø"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Logaritmos",
+          "Matemática – Inequações Logarítmicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 52,
+        "enunciado": "A soma de todos os múltiplos positivos de 4 com dois algarismos, na base decimal, é:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "1248"
+          },
+          {
+            "letra": "b",
+            "texto": "1188"
+          },
+          {
+            "letra": "c",
+            "texto": "1148"
+          },
+          {
+            "letra": "d",
+            "texto": "1124"
+          },
+          {
+            "letra": "e",
+            "texto": "1024"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Progressão Aritmética"
+        ]
+      },
+      {
+        "numeroEnunciado": 53,
+        "enunciado": "Considere as progressões geométricas infinitas (1/2, 1/4, 1/8, 1/16, ...) e (1/3, 1/9, 1/27, 1/81,...). Se a e b são as respectivas somas destas progressões, então o valor de a+b é:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "2/3"
+          },
+          {
+            "letra": "b",
+            "texto": "3/2"
+          },
+          {
+            "letra": "c",
+            "texto": "4/3"
+          },
+          {
+            "letra": "d",
+            "texto": "5/3"
+          },
+          {
+            "letra": "e",
+            "texto": "7/3"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Progressão Geométrica"
+        ]
+      },
+      {
+        "numeroEnunciado": 54,
+        "enunciado": "Em um triangulo retângulo, a metade de um cateto excede o outro em 1cm e a hipotenusa excede o maior cateto em 1cm também. Sabendo que o perímetro desse triângulo é 30, então a medida da tangente do maior ângulo agudo deve ser:",
+        "alternativas": [
+          {
+            "letra": "a",
+            "texto": "0,5"
+          },
+          {
+            "letra": "b",
+            "texto": "1"
+          },
+          {
+            "letra": "c",
+            "texto": "2,4"
+          },
+          {
+            "letra": "d",
+            "texto": "3,0"
+          },
+          {
+            "letra": "e",
+            "texto": "4,0"
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Geometria Plana",
+          "Matemática – Triângulos",
+          "Matemática – Trigonometria"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1815 @@
+{
+  "prova": {
+    "nomeUniversidade": "Universidade do Estado do Amazonas",
+    "siglaUniversidade": "UEA",
+    "nomeProva": "Prova de Acompanhamento I",
+    "ano": 2016,
+    "qtdeQuestoes": 60,
+    "questoes": [
+      {
+        "numeroEnunciado": 1,
+        "enunciado": "Leia a crônica \"Menina no jardim\" do escritor Paulo Mendes Campos (1922-1991) para responder às questões de 01 a 03.\n\nEm seus 14 meses de permanência neste mundo, a garotinha não tinha tomado o menor conhecimento das leis que governam a nação. Isso se deu agora na praça, logo na chamada República Livre de Ipanema.\n\nAté ontem ela se comprazia em brincar com a terra. Hoje, de repente, deu-lhe um tédio enorme do barro de que somos feitos: atirou o punhado de pó ao chão, ergueu o rosto, ficou pensativa, investigando com ar aborrecido o mundo exterior. Por um momento seus olhos buscaram o jardim à procura de qualquer novidade. E aí ela descobriu o verde extraordinário: a grama. Determinada, levantou-se do chão e correu para a relva, que era, vá lá, bonita, mas já bastante chamuscada pela estiagem.\n\nNão durou mais que três minutos seu deslumbramento. Da esquina, um crioulão de bigodes, representante dos Poderes da República, marchou até ela, buscando convencê-la de que estava desrespeitando uma lei nacional, um regulamento estadual, uma postura municipal, ela ia lá saber o quê.\n\nDiga-se, em nome da verdade, que no diálogo que se travou em seguida, maior violência se registrou por parte da infratora do que por parte da Lei, um guarda civil feio, mas invulgarmente urbano.\n\n– Desce da grama, garotinha – disse a Lei.\n– Blá blé bli bá – protestou a garotinha.\n– É proibido pisar na grama – explicou o guarda.\n– Bá bá bá – retrucou a garotinha com veemência.\n– Vamos, desce, vem para a sombra, que é melhor.\n– Buh buh – afirmou a garotinha, com toda razão, pois o sol estava mais agradável do que a sombra.\n\nA insubmissão da garotinha atingiu o clímax quando o guarda estendeu-lhe a mão com a intenção de ajudá-la a abandonar o gramado. A gentileza foi revidada com um safanão. Dura lex sed lex1.\n\n– Onde está sua mamãe?\n\nA garotinha virou as costas ao guarda, com desprezo. A essa altura levantou-se do banco, de onde assistia à cena, o pai da garota, que a reconduziu, sob chorosos protestos, à terra seca dos homens, ao mundo sem relva que o Estado faculta ao ir e vir dos cidadãos.\n\nA própria Lei, meio encabulada com o seu rigor, tudo fez para que o pai da garotinha se persuadisse de que, se não há mal para que uma brasileira tão pequenininha pise na grama, isso de qualquer forma poderia ser um péssimo exemplo para os brasileiros maiores.\n\n– Aberto o precedente, os outros fariam o mesmo – disse o guarda com imponência.\n– Que fizessem, deveriam fazê-lo – disse o pai.\n– Como? – perguntou o guarda confuso e vexado.\n– A grama só podia ter sido feita, por Deus ou pelo Estado, para ser pisada. Não há sentido em uma relva na qual não se pode pisar.\n\n– Mas isso estraga a grama, cavalheiro!\n– E daí? Que tem isso?\n– Se a grama morrer, ninguém mais pode ver ela – raciocinou a Lei.\n– E o senhor deixa de matar a sua galinha só porque o senhor não pode mais ver ela?\n\nO guarda ficou perplexo e mudo. O pai, indignado, chegou à peroração2:\n\n– É evidente que a relva só pode ter sido feita para ser pisada. Se morre, é porque não cuidam dela. Ou porque não presta. Que morra. Que seja plantado em nossos parques o bom capim do trópico. Ou que não se plante nada. Que se aumente pelo menos o pouco espaço dos nossos poucos jardins. O que é preciso plantar, seu guarda, é uma semente de bom senso nos sujeitos que fazem os regulamentos.\n\n– Buh bah – concordou a menina, correndo em disparada para a grama.\n– O senhor entende o que ela diz? – perguntou o guarda.\n– Claro – respondeu o pai.\n– Que foi que ela disse agora?\n– Não a leve a mal, mas ela mandou o regulamento para o diabo que o carregue.\n\n(Carlos Drummond de Andrade et al. Para gostar de ler, vol. 1, 1984.)\n\n1 Dura lex sed lex: \"A lei é dura, mas é a lei.\"\n2 peroração: a última parte de um discurso, conclusão.\n\nDepreende-se da leitura da crônica que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o guarda repreende o pai por ser um mau exemplo para a filha."
+          },
+          {
+            "letra": "B",
+            "texto": "o pai censura a filha por desrespeitar o guarda."
+          },
+          {
+            "letra": "C",
+            "texto": "o pai questiona o regulamento do parque."
+          },
+          {
+            "letra": "D",
+            "texto": "o pai repreende o guarda por ter maltratado a filha."
+          },
+          {
+            "letra": "E",
+            "texto": "o próprio guarda infringe o regulamento do parque."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Interpretação de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 2,
+        "enunciado": "Assinale a alternativa em que se verifica a ocorrência de um desvio no emprego da norma-padrão da língua portuguesa.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "\"Aberto o precedente, os outros fariam o mesmo – disse o guarda com imponência.\""
+          },
+          {
+            "letra": "B",
+            "texto": "\"Se a grama morrer, ninguém mais pode ver ela – raciocinou a Lei.\""
+          },
+          {
+            "letra": "C",
+            "texto": "\"Que fizessem, deveriam fazê-lo – disse o pai.\""
+          },
+          {
+            "letra": "D",
+            "texto": "\"O guarda ficou perplexo e mudo. O pai, indignado, chegou à peroração: – É evidente que a relva só pode ter sido feita para ser pisada.\""
+          },
+          {
+            "letra": "E",
+            "texto": "“Não há sentido em uma relva na qual não se pode pisar.\""
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Língua Portuguesa – Sintaxe (Pronome)"
+        ]
+      },
+      {
+        "numeroEnunciado": 3,
+        "enunciado": "Assinale a alternativa cujos vocábulos foram formados pelo processo de derivação sufixal.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "garotinha - gentileza - conhecimento"
+          },
+          {
+            "letra": "B",
+            "texto": "determinada – evidente – agradável"
+          },
+          {
+            "letra": "C",
+            "texto": "invulgarmente – cavalheiro – brasileiros"
+          },
+          {
+            "letra": "D",
+            "texto": "choroso - desprezo – perplexo"
+          },
+          {
+            "letra": "E",
+            "texto": "estiagem – insubmissão – pequenininha"
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Língua Portuguesa – Formação de Palavras (Derivação Sufixal)"
+        ]
+      },
+      {
+        "numeroEnunciado": 4,
+        "enunciado": "Leia a estrofe inicial de um poema de José de Anchieta (1534-1597) para responder às questões 04 e 05.\n\nNão há cousa segura;\nTudo quanto se vê, se vai passando;\nA vida não tem dura;\nO bem se vai gastando,\nE toda criatura vai voando.\n\n(Sérgio Buarque de Holanda (org.). Antologia dos poetas brasileiros da fase colonial, 1979.)\n\nNo primeiro verso, o termo \"cousa segura” exerce a função de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "sujeito."
+          },
+          {
+            "letra": "B",
+            "texto": "predicativo do sujeito."
+          },
+          {
+            "letra": "C",
+            "texto": "predicativo do objeto."
+          },
+          {
+            "letra": "D",
+            "texto": "objeto direto."
+          },
+          {
+            "letra": "E",
+            "texto": "objeto indireto."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Sintaxe (Funções Sintáticas)"
+        ]
+      },
+      {
+        "numeroEnunciado": 5,
+        "enunciado": "Leia a estrofe inicial de um poema de José de Anchieta (1534-1597) para responder às questões 04 e 05.\n\nNão há cousa segura;\nTudo quanto se vê, se vai passando;\nA vida não tem dura;\nO bem se vai gastando,\nE toda criatura vai voando.\n\n(Sérgio Buarque de Holanda (org.). Antologia dos poetas brasileiros da fase colonial, 1979.)\n\nDo ponto de vista temático, esta estrofe de José de Anchieta aproxima-se do seguinte fragmento extraído da obra poética de Gregório de Matos (1633-1696):",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Não vi em minha vida a Formosura:\nOuvia falar nela cada dia;\ne ouvida, me incitava e me movia\na querer ver tão bela Arquitetura."
+          },
+          {
+            "letra": "B",
+            "texto": "A cada canto um grande Conselheiro,\nque nos quer governar cabana e vinha:\nNão sabem governar sua cozinha,\ne querem governar o Mundo inteiro!"
+          },
+          {
+            "letra": "C",
+            "texto": "Nasce o Sol; e não dura mais que um dia:\nDepois da Luz, se segue a noite escura:\nEm tristes sombras morre a Formosura;\nem contínuas tristezas a alegria."
+          },
+          {
+            "letra": "D",
+            "texto": "O todo sem a parte não é todo,\na parte com o todo não é parte;\nmas se a parte fez todo sem a parte,\nnão se diga que é parte sendo todo."
+          },
+          {
+            "letra": "E",
+            "texto": "O bem, que não chegou a ser possuído,\nperdido causa tanto sentimento,\nque faltando-lhe a causa do tormento,\nfaz ser maior tormento o padecido."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Língua Portuguesa – Literatura (Barroco / Temas literários)"
+        ]
+      },
+      {
+        "numeroEnunciado": 6,
+        "enunciado": "Leia o trecho do \"Sermão da Sexagésima\", de Antonio Vieira (1608-1697), para responder às questões 06 e 07.\n\nO mais antigo pregador que houve no mundo foi o Céu. Suposto que o Céu é pregador, deve de ter sermões e deve de ter palavras. E quais são estes sermões e estas palavras do Céu? As palavras são as estrelas, os sermões são a composição, a ordem, e harmonia, e o curso delas. Vede como deste estilo de pregar do Céu, nem o estilo que Cristo ensinou na terra? Um e outro é semear: a terra semeada de trigo, o céu semeado de estrelas. O pregar há de ser como quem semeia, não para quem moradia ou açuleia, ordenando, mas como as estrelas. Todas as estrelas estão por sua ordem; mas é ordem que faz influência, não é ordem que faça lavor. Não fez Deus o céu em xadrez de estrelas, como as casas em xadrez; o semeado em xadrez de palavras: se de uma parte está branco, da outra há de estar negro; se de uma parte está dia, da outra há de estar noite; se de uma parte dizem luz, da outra hão de dizer sombra; se de uma parte dizem desceu, da outra hão de dizer subiu. Basta que não havemos de ver num sermão duas palavras em paz? Todas hão de estar sempre em fronteira com o seu contrário? Aprendamos do Céu o estilo da disposição, e também o das palavras.\n\n(Antonio Vieira. Essencial, 2011. Adaptado.)\n\nO conteúdo do excerto refere-se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à centralização política e ao controle da economia europeia pelos árabes."
+          },
+          {
+            "letra": "B",
+            "texto": "à conversão dos hereges ao cristianismo e à valorização, pela Igreja, do lucro monetário."
+          },
+          {
+            "letra": "C",
+            "texto": "à intensificação do comércio entre árabes e cristãos e à paz religiosa europeia."
+          },
+          {
+            "letra": "D",
+            "texto": "à emergência das ordens religiosas e ao avanço do paganismo nas cidades."
+          },
+          {
+            "letra": "E",
+            "texto": "à decadência da atividade do comércio e ao enfraquecimento da vida urbana."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Língua Portuguesa – Literatura (Barroco / Padre Antônio Vieira)"
+        ]
+      },
+      {
+        "numeroEnunciado": 7,
+        "enunciado": "Leia o trecho do \"Sermão da Sexagésima\", de Antonio Vieira (1608-1697), para responder às questões 06 e 07.\n\nO mais antigo pregador que houve no mundo foi o Céu. Suposto que o Céu é pregador, deve de ter sermões e deve de ter palavras. E quais são estes sermões e estas palavras do Céu? As palavras são as estrelas, os sermões são a composição, a ordem, e harmonia, e o curso delas. Vede como deste estilo de pregar do Céu, nem o estilo que Cristo ensinou na terra? Um e outro é semear: a terra semeada de trigo, o céu semeado de estrelas. O pregar há de ser como quem semeia, não para quem moradia ou açuleia, ordenando, mas como as estrelas. Todas as estrelas estão por sua ordem; mas é ordem que faz influência, não é ordem que faça lavor. Não fez Deus o céu em xadrez de estrelas, como as casas em xadrez; o semeado em xadrez de palavras: se de uma parte está branco, da outra há de estar negro; se de uma parte está dia, da outra há de estar noite; se de uma parte dizem luz, da outra hão de dizer sombra; se de uma parte dizem desceu, da outra hão de dizer subiu. Basta que não havemos de ver num sermão duas palavras em paz? Todas hão de estar sempre em fronteira com o seu contrário? Aprendamos do Céu o estilo da disposição, e também o das palavras.\n\n(Antonio Vieira. Essencial, 2011. Adaptado.)\n\nA figura de linguagem a qual Vieira se refere nesta passagem é denominada",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "metonímia."
+          },
+          {
+            "letra": "B",
+            "texto": "inversão."
+          },
+          {
+            "letra": "C",
+            "texto": "alegoria."
+          },
+          {
+            "letra": "D",
+            "texto": "antítese."
+          },
+          {
+            "letra": "E",
+            "texto": "personificação."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Língua Portuguesa – Figuras de Linguagem (Antítese)"
+        ]
+      },
+      {
+        "numeroEnunciado": 8,
+        "enunciado": "Quando El Greco [artista nascido em 1541 e falecido em 1614] quis pintar Francisco de Assis lacerado¹ entre a terra, que o repuxa pela gravidade, e o céu, que o atrai durante o êxtase², estirou³-lhe o corpo e afinou-lhe o rosto, verticalizando a figura do santo que estava e não estava \"neste mundo\", no espaço realista e convencional.\n\n(Alfredo Bosi. Reflexões sobre a arte, 2002.)\n\n1 lacerado: dilacerado\n2 êxtase: estado de quem se encontra como que transportado para fora de si e do mundo sensível.\n3 estirar: alongar puxando, estender, esticar.\n\nO comentário do crítico Alfredo Bosi refere-se à pintura reproduzida em:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Imagem (A)"
+          },
+          {
+            "letra": "B",
+            "texto": "Imagem (B)"
+          },
+          {
+            "letra": "C",
+            "texto": "Imagem (C)"
+          },
+          {
+            "letra": "D",
+            "texto": "Imagem (D)"
+          },
+          {
+            "letra": "E",
+            "texto": "Imagem (E)"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Arte – História da Arte (Manierismo / El Greco)"
+        ]
+      },
+      {
+        "numeroEnunciado": 9,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nPeople help a flamingo\n\nA flamingo at a Brazilian zoo broke its leg. Unfortunately, the bottom portion of the leg had to be amputated to stop it from getting infected.\n\nThe bird received a lightweight 18-centimeter artificial leg made of carbon fiber – a strong and light material – with silicon ends.\n\nThe flamingo still limps a little, but it is becoming more comfortable with its new body part. It can already put the leg under 12 body, something that flamingos often do.\n\n(www.newsinlevels.com. Adaptado.)\n\nO flamingo mencionado no texto",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "quebrou uma perna ao tentar fugir do zoológico."
+          },
+          {
+            "letra": "B",
+            "texto": "foi capturado com uma perna quebrada e infeccionada."
+          },
+          {
+            "letra": "C",
+            "texto": "adaptou-se completamente à perna artificial que lhe foi implantada."
+          },
+          {
+            "letra": "D",
+            "texto": "ainda está mancando um pouco devido à perna artificial implantada."
+          },
+          {
+            "letra": "E",
+            "texto": "tenta esconder a perna artificial, devido ao silicone."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Inglês – Compreensão de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 10,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nPeople help a flamingo\n\nA flamingo at a Brazilian zoo broke its leg. Unfortunately, the bottom portion of the leg had to be amputated to stop it from getting infected.\n\nThe bird received a lightweight 18-centimeter artificial leg made of carbon fiber – a strong and light material – with silicon ends.\n\nThe flamingo still limps a little, but it is becoming more comfortable with its new body part. It can already put the leg under 12 body, something that flamingos often do.\n\n(www.newsinlevels.com. Adaptado.)\n\nA perna artificial implantada no flamingo",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "é totalmente flexível, por ser feita de silicone."
+          },
+          {
+            "letra": "B",
+            "texto": "teve que ser removida para evitar infecção."
+          },
+          {
+            "letra": "C",
+            "texto": "tornou a ave a principal atração do zoológico."
+          },
+          {
+            "letra": "D",
+            "texto": "é menor do que a perna natural da ave."
+          },
+          {
+            "letra": "E",
+            "texto": "é feita de um material leve e resistente."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Inglês – Compreensão de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 11,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nPeople help a flamingo\n\nA flamingo at a Brazilian zoo broke its leg. Unfortunately, the bottom portion of the leg had to be amputated to stop it from getting infected.\n\nThe bird received a lightweight 18-centimeter artificial leg made of carbon fiber – a strong and light material – with silicon ends.\n\nThe flamingo still limps a little, but it is becoming more comfortable with its new body part. It can already put the leg under 12 body, something that flamingos often do.\n\n(www.newsinlevels.com. Adaptado.)\n\nDe acordo com o texto, colocar a perna sob o corpo é algo, para essa espécie de ave,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "difícil."
+          },
+          {
+            "letra": "B",
+            "texto": "comum."
+          },
+          {
+            "letra": "C",
+            "texto": "perigoso."
+          },
+          {
+            "letra": "D",
+            "texto": "espantoso."
+          },
+          {
+            "letra": "E",
+            "texto": "impossível."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Inglês – Compreensão de Texto"
+        ]
+      },
+      {
+        "numeroEnunciado": 12,
+        "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nPeople help a flamingo\n\nA flamingo at a Brazilian zoo broke its leg. Unfortunately, the bottom portion of the leg had to be amputated to stop it from getting infected.\n\nThe bird received a lightweight 18-centimeter artificial leg made of carbon fiber – a strong and light material – with silicon ends.\n\nThe flamingo still limps a little, but it is becoming more comfortable with its new body part. It can already put the leg under 12 body, something that flamingos often do.\n\n(www.newsinlevels.com. Adaptado.)\n\nA lacuna numerada no texto é corretamente preenchida por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "its."
+          },
+          {
+            "letra": "B",
+            "texto": "her."
+          },
+          {
+            "letra": "C",
+            "texto": "his."
+          },
+          {
+            "letra": "D",
+            "texto": "their."
+          },
+          {
+            "letra": "E",
+            "texto": "your."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Inglês – Gramática (Pronomes Possessivos)"
+        ]
+      },
+      {
+        "numeroEnunciado": 13,
+        "enunciado": "Leia o excerto para responder às questões 13 e 14.\n\nO arqueólogo recolhe, classifica e compara as ferramentas e armas de nossos ancestrais e predecessores, examina as casas que construíram, os campos que cultivaram, o alimento que comiam (ou, antes, que jogavam fora). São esses os instrumentos e ferramentas da produção característicos dos sistemas econômicos que nenhum documento escrito descreve.\n\n(Vere Gordon Childe. A evolução cultural do homem, 1966.)\n\nO excerto alude à pesquisa sobre sociedades remotas, o que permite o estudo",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "do conjunto dos relatos orais de povos da antiguidade."
+          },
+          {
+            "letra": "B",
+            "texto": "da correspondência oficial entre as famílias reais europeias."
+          },
+          {
+            "letra": "C",
+            "texto": "das leis criadas durante a colonização da América."
+          },
+          {
+            "letra": "D",
+            "texto": "de aspectos do cotidiano de povos pré-históricos."
+          },
+          {
+            "letra": "E",
+            "texto": "dos discursos dos tiranos e governantes na Grécia Clássica."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – Pré-História"
+        ]
+      },
+      {
+        "numeroEnunciado": 14,
+        "enunciado": "Leia o excerto para responder às questões 13 e 14.\n\nO arqueólogo recolhe, classifica e compara as ferramentas e armas de nossos ancestrais e predecessores, examina as casas que construíram, os campos que cultivaram, o alimento que comiam (ou, antes, que jogavam fora). São esses os instrumentos e ferramentas da produção característicos dos sistemas econômicos que nenhum documento escrito descreve.\n\n(Vere Gordon Childe. A evolução cultural do homem, 1966.)\n\nO excerto apresenta, de maneira resumida, alguns procedimentos constitutivos do ofício do historiador, como",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a interdisciplinaridade e a pesquisa com fontes primárias."
+          },
+          {
+            "letra": "B",
+            "texto": "a crítica bibliográfica e a descoberta de leis sociais."
+          },
+          {
+            "letra": "C",
+            "texto": "a certeza da existência de povos atrasados e as análises cranianas."
+          },
+          {
+            "letra": "D",
+            "texto": "a comprovação das hipóteses relacionadas ao surgimento da humanidade e ao ininterrupto aprimoramento da vida social."
+          },
+          {
+            "letra": "E",
+            "texto": "a noção do passado como paraíso e o reconhecimento da solidariedade social."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "História – Metodologia da História / Fontes Históricas"
+        ]
+      },
+      {
+        "numeroEnunciado": 15,
+        "enunciado": "É preciso dizer que, com a superioridade proporcionada pela força e pela riqueza, muitos indivíduos não sabem e nem mesmo querem obedecer aos magistrados. Ao contrário, aqueles que vivem em extrema penúria desses benefícios tornam-se demasiadamente humildes e rasteiros. Disso resulta que uns, incapazes de mandar, só sabem mostrar uma obediência servil e que outros, incapazes de se submeter a qualquer poder legítimo, só sabem exercer uma autoridade despótica.\n\n(Aristóteles. A política, s/d. Adaptado.)\n\nAristóteles destaca a impropriedade de algumas relações políticas. A partir do texto e de seus conhecimentos, é correto afirmar que, para o autor, o melhor regime da polis",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "resulta do exercício da soberania política pela maioria da população, desprovida de interesses econômicos."
+          },
+          {
+            "letra": "B",
+            "texto": "é formado por cidadãos que, ao mesmo tempo, governam e se submetem às decisões públicas."
+          },
+          {
+            "letra": "C",
+            "texto": "aparelha a administração pública de poder militar e de riqueza monetária com a finalidade de garantir a liberdade dos cidadãos."
+          },
+          {
+            "letra": "D",
+            "texto": "garante os lucros dos cidadãos com o comércio marítimo, graças à expansão dos gregos pelas regiões da Ásia Menor."
+          },
+          {
+            "letra": "E",
+            "texto": "advém da má formação cultural da maioria dos cidadãos, incapazes de conduzir a administração com sabedoria e previdência."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Filosofia – Filosofia Política (Aristóteles)"
+        ]
+      },
+      {
+        "numeroEnunciado": 16,
+        "enunciado": "Os reinos bárbaros fundados no século V, no solo da Europa Ocidental, tinham conservado o caráter mais legítimo e essencial da civilização antiga: o caráter mediterrâneo. Foi preciso a súbita irrupção do Islão, na história, durante o século VII, em sua conquista das costas orientais, meridionais e ocidentais do Mar Mediterrâneo, para colocá-lo em uma situação completamente nova, cujas consequências deveriam influir em todo o curso posterior da história. Desse fato fundamental, origina-se uma ordem econômica nova, que é, propriamente, a da Alta Idade Média.\n\n(Henri Pirenne. História econômica e social da Idade Média, 1982. Adaptado.)\n\nO conteúdo do excerto refere-se",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "à centralização política e ao controle da economia europeia pelos árabes."
+          },
+          {
+            "letra": "B",
+            "texto": "à conversão dos hereges ao cristianismo e à valorização, pela Igreja, do lucro monetário."
+          },
+          {
+            "letra": "C",
+            "texto": "à intensificação do comércio entre árabes e cristãos e à paz religiosa europeia."
+          },
+          {
+            "letra": "D",
+            "texto": "à emergência das ordens religiosas e ao avanço do paganismo nas cidades."
+          },
+          {
+            "letra": "E",
+            "texto": "à decadência da atividade do comércio e ao enfraquecimento da vida urbana."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "História – Idade Média (Alta Idade Média / Expansão do Islamismo)"
+        ]
+      },
+      {
+        "numeroEnunciado": 17,
+        "enunciado": "A expansão marítima europeia iniciou-se em 1415, com a tomada de Ceuta no norte da África. Pode-se afirmar que as centralizações possibilitaram as viagens e explorações transoceânicas, pois os Estados nacionais europeus",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "constituíram forças armadas poderosas capazes de conquistarem novas terras e ampliaram o consumo de produtos luxuosos pela nobreza."
+          },
+          {
+            "letra": "B",
+            "texto": "possibilitaram a aliança de vários governos interessados no comércio de especiarias nas costas africanas e no extremo oriente."
+          },
+          {
+            "letra": "C",
+            "texto": "dirigiram os estudos das universidades de seus países para as ciências náuticas, os conhecimentos de geografia e de matemática."
+          },
+          {
+            "letra": "D",
+            "texto": "forneceram condições de financiamento de um empreendimento economicamente dispendioso e de resultados incertos a curto prazo."
+          },
+          {
+            "letra": "E",
+            "texto": "estimularam o desenvolvimento econômico de seus países e tornaram necessário o aumento do número de trabalhadores escravos."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – Expansão Marítima Europeia"
+        ]
+      },
+      {
+        "numeroEnunciado": 18,
+        "enunciado": "Segundo historiadores especializados nas sociedades mesoamericanas, as duas únicas ervas indígenas que podem ser cruzadas com o milho encontram-se na atual região da Guatemala. Considerando-se essa informação, pode-se concluir que a transformação do milho em planta cultivada e a sua transmissão para os demais povos agricultores do continente americano deveram-se, a princípio, à sociedade",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Inca."
+          },
+          {
+            "letra": "B",
+            "texto": "Quéchua."
+          },
+          {
+            "letra": "C",
+            "texto": "Maia."
+          },
+          {
+            "letra": "D",
+            "texto": "Navajo."
+          },
+          {
+            "letra": "E",
+            "texto": "Caraíba."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "História – Civilizações Pré-Colombianas (Maia)"
+        ]
+      },
+      {
+        "numeroEnunciado": 19,
+        "enunciado": "O enunciado \"Todos os cisnes são brancos, logo se esta ave for um cisne, ela será branca” é um exemplo de raciocínio",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "indutivo."
+          },
+          {
+            "letra": "B",
+            "texto": "apriorístico."
+          },
+          {
+            "letra": "C",
+            "texto": "dedutivo."
+          },
+          {
+            "letra": "D",
+            "texto": "probabilístico."
+          },
+          {
+            "letra": "E",
+            "texto": "intuitivo."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Filosofia – Lógica (Tipos de Raciocínio)"
+        ]
+      },
+      {
+        "numeroEnunciado": 20,
+        "enunciado": "O curupira é um dos mais populares personagens míticos das matas brasileiras, representado por um anão, com os pés ao inverso, com os calcanhares para frente. Demônio da floresta, explicador dos rumores misteriosos, desaparecimento de caçadores, esquecimento de caminhos, pavores súbitos inexplicáveis.\n\n(Câmara Cascudo. Dicionário do folclore brasileiro, s/d.)\n\nA história do Curupira pode ser definida como um mito, uma vez que constitui",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "um relato provável propagado por textos escritos, com base em grande número de testemunhos irrefutáveis."
+          },
+          {
+            "letra": "B",
+            "texto": "uma explicação do mundo em que as pessoas vivem, desprovida de comprovação ou demonstração rigorosa."
+          },
+          {
+            "letra": "C",
+            "texto": "uma crença religiosa divulgada pela Bíblia cristã, trazida para a América pelos colonizadores portugueses."
+          },
+          {
+            "letra": "D",
+            "texto": "um discurso racionalmente fundamentado, derivado de experiências de habitantes das selvas desde o início da colonização do Brasil."
+          },
+          {
+            "letra": "E",
+            "texto": "uma lenda sem importância cultural, incapaz de se referir à vida das pessoas e de produzir crenças sociais."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Sociologia – Cultura (Mito e Folclore)"
+        ]
+      },
+      {
+        "numeroEnunciado": 21,
+        "enunciado": "No caso de dados que interessam à elaboração de mapas, a tecnologia da informática que envolvia a cartografia assistida por computador evoluiu para o chamado ________. Ele se constitui por dispositivos automatizados para aquisição, gerenciamento, processamento, análise, síntese e apresentação dos dados georreferenciados que interessam ao espaço objeto de estudo geográfico.\n\n(Marcello Martinelli. Mapas da geografia e cartografia temática, 2013. Adaptado.)\n\nAssinale a alternativa que preenche corretamente a lacuna do texto.",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Sistema de Posicionamento Global."
+          },
+          {
+            "letra": "B",
+            "texto": "Geoprocessamento."
+          },
+          {
+            "letra": "C",
+            "texto": "Sistema de Informação Geográfica."
+          },
+          {
+            "letra": "D",
+            "texto": "Sensoriamento remoto."
+          },
+          {
+            "letra": "E",
+            "texto": "Fotogrametria."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Geografia – Cartografia e Geoprocessamento"
+        ]
+      },
+      {
+        "numeroEnunciado": 22,
+        "enunciado": "É o conjunto de formas que, num dado momento, exprimem as heranças que representam as sucessivas relações localizadas entre homem e natureza e se dá como um conjunto de objetos reais-concretos, juntando objetos passados e presentes. Existe através de suas formas, criadas em momentos históricos diferentes, porém coexistindo no momento atual. O seu caráter de palimpsesto1, memória viva de um passado já morto, transforma-a em precioso instrumento de trabalho, pois permite rever as etapas do passado numa perspectiva de conjunto.\n\n(Milton Santos. A natureza do espaço, 2006. Adaptado.)\n\n1 palimpsesto: papiro ou pergaminho cujo texto foi raspado, para dar lugar a outro.\n\nÉ correto afirmar que o excerto descreve a categoria",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "paisagem."
+          },
+          {
+            "letra": "B",
+            "texto": "espaço geográfico."
+          },
+          {
+            "letra": "C",
+            "texto": "região."
+          },
+          {
+            "letra": "D",
+            "texto": "lugar."
+          },
+          {
+            "letra": "E",
+            "texto": "território."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Geografia – Conceitos Geográficos (Paisagem)"
+        ]
+      },
+      {
+        "numeroEnunciado": 23,
+        "enunciado": "Analise o esquema.\n\n[Diagram: causas como erosão, desmatamento, gado bovino, peixe em gaiolas, agropecuária, poluição, urbanização, tempo de retenção média, morfologia, profundidade; consequências como algas tóxicas, maus odores, com uma seta de \"CAUSAS\" para \"X\" e de \"X\" para \"CONSEQUÊNCIAS\"]\n\n(www.ufrrj.br. Adaptado.)\n\nArticulando causas e consequências, é correto afirmar que o esquema representa um fenômeno que promove grandes impactos ambientais, a saber:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "laterização."
+          },
+          {
+            "letra": "B",
+            "texto": "calagem."
+          },
+          {
+            "letra": "C",
+            "texto": "voçorocamento."
+          },
+          {
+            "letra": "D",
+            "texto": "assoreamento."
+          },
+          {
+            "letra": "E",
+            "texto": "eutrofização."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Geografia – Impactos Ambientais (Eutrofização)"
+        ]
+      },
+      {
+        "numeroEnunciado": 24,
+        "enunciado": "O El Niño é um fenômeno oceânico que produz significativas alterações no clima em sua interação oceano-atmosfera. No Brasil, a manifestação do fenômeno nas regiões Norte e Sul provoca, respectivamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "aumento das chuvas e maior intensidade das frentes frias."
+          },
+          {
+            "letra": "B",
+            "texto": "redução das chuvas e aumento das temperaturas."
+          },
+          {
+            "letra": "C",
+            "texto": "secas intensas e diminuição das temperaturas."
+          },
+          {
+            "letra": "D",
+            "texto": "aumento das temperaturas e maiores períodos de seca."
+          },
+          {
+            "letra": "E",
+            "texto": "diminuição das temperaturas e redução das chuvas."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Geografia – Climatologia (Fenômenos Climáticos / El Niño)"
+        ]
+      },
+      {
+        "numeroEnunciado": 25,
+        "enunciado": "Examine o mapa.\n\nVegetação da Austrália\n\n[Map of Australia showing two numbered areas]\n\n(Maria Elena Ramos Simielli. Geoatlas, 2013. Adaptado.)\n\nAs áreas 1 e 2 correspondem, respectivamente, às seguintes formações vegetais:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "tundra e pradarias."
+          },
+          {
+            "letra": "B",
+            "texto": "floresta subtropical e floresta boreal."
+          },
+          {
+            "letra": "C",
+            "texto": "floresta tropical e estepes."
+          },
+          {
+            "letra": "D",
+            "texto": "deserto e savana."
+          },
+          {
+            "letra": "E",
+            "texto": "vegetação de altitude e vegetação mediterrânea."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Geografia – Biogeografia (Formações Vegetais Mundiais)"
+        ]
+      },
+      {
+        "numeroEnunciado": 26,
+        "enunciado": "A temperatura média global da Terra é hoje de +15° C, mas a temperatura efetiva de radiação é hoje de -18° C. A temperatura baixa de Marte é explicada pela ausência quase total de vapor de água e CO₂ em sua tênue atmosfera. A temperatura altíssima da superfície de Vênus deve-se, principalmente, à quantidade elevada de CO2 que não deixa escapar a maior parte do calor para o espaço.\n\n(Fillipe T. P. Torres e Pedro J. de O. Machado. Introdução à climatologia, 2011. Adaptado.)\n\nO fenômeno que explica as temperaturas encontradas na Terra, em Marte e em Vênus é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o efeito estufa."
+          },
+          {
+            "letra": "B",
+            "texto": "a ilha de calor."
+          },
+          {
+            "letra": "C",
+            "texto": "o buraco na camada de ozônio."
+          },
+          {
+            "letra": "D",
+            "texto": "a inversão térmica."
+          },
+          {
+            "letra": "E",
+            "texto": "a evapotranspiração."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Termodinâmica (Efeito Estufa)"
+        ]
+      },
+      {
+        "numeroEnunciado": 27,
+        "enunciado": "Considerando a produção do espaço mundial, constitui um dos motivos que deflagrou a Primeira Guerra Mundial:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a conquista de Berlim pelo exército soviético e os sistemáticos saques nesse território, fragilizando as infraestruturas produtivas e se apropriando dos materiais."
+          },
+          {
+            "letra": "B",
+            "texto": "a quebra da bolsa de Nova York, que ocasionou o desaquecimento econômico mundial, esfacelando antigos acordos pelo respeito à hegemonia produtiva."
+          },
+          {
+            "letra": "C",
+            "texto": "a contestação da ordem mundial pela Alemanha e a formação de uma aliança militar com a Itália e o Japão, promovendo a expansão da área de influência alemã."
+          },
+          {
+            "letra": "D",
+            "texto": "o ideal expansionista que promoveu a disputa de colônias afro-asiáticas pelos alemães, ameaçando a supremacia econômica e política do Reino Unido."
+          },
+          {
+            "letra": "E",
+            "texto": "o esfacelamento do modelo industrial soviético pautado nas indústrias de base, enfraquecendo seu setor tecnológico e a disputa econômica com os Estados Unidos."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "História – Primeira Guerra Mundial (Causas)"
+        ]
+      },
+      {
+        "numeroEnunciado": 28,
+        "enunciado": "No século XXI persistem as desigualdades e conflitos decorrentes das migrações de refugiados ou minorias étnicas pelo mundo, associados a questões religiosas, políticas ou econômicas. Constitui um desafio para as nações que abrigam esses grupos:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o registro dos fluxos de imigração no país, permitindo ao Estado realizar a migração de retorno compulsória."
+          },
+          {
+            "letra": "B",
+            "texto": "o desenvolvimento de estruturas de moradia e trabalho paralelas, protegendo os diferentes grupos da miscigenação."
+          },
+          {
+            "letra": "C",
+            "texto": "a promoção de políticas para diminuir a segregação espacial, valorizando o diálogo intercultural."
+          },
+          {
+            "letra": "D",
+            "texto": "a garantia de comunicação entre as minorias e seus países de origem, combatendo o isolamento social."
+          },
+          {
+            "letra": "E",
+            "texto": "a cobrança dos custos públicos ligados à permanência do estrangeiro no país, encaminhando os valores ao país de origem."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Sociologia – Migrações e Conflitos Sociais"
+        ]
+      },
+      {
+        "numeroEnunciado": 29,
+        "enunciado": "A fotomicrografia mostra a introdução de um núcleo somático em um ovócito II, que se encontra preso por sucção a uma pipeta. O material genético está sendo introduzido no ovócito II por uma microinjeção intracitoplasmática.\n\n[Image of a cell with a needle inserting genetic material]\n\n(www.revistaplantar.com.br)\n\nO processo indicado na fotomicrografia permite a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "produção de micro-organismos transgênicos."
+          },
+          {
+            "letra": "B",
+            "texto": "clonagem de mamíferos."
+          },
+          {
+            "letra": "C",
+            "texto": "terapia gênica."
+          },
+          {
+            "letra": "D",
+            "texto": "fertilização in vitro."
+          },
+          {
+            "letra": "E",
+            "texto": "obtenção de vacinas gênicas."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Biotecnologia (Clonagem)"
+        ]
+      },
+      {
+        "numeroEnunciado": 30,
+        "enunciado": "O alcoolismo crônico é apenas uma das muitas doenças causadas pela ingestão excessiva de álcool. Um dos problemas associados ao consumo de bebidas alcoólicas é a inibição da absorção de tiamina (vitamina B1) que, dentre outras funções, também é essencial ao funcionamento de diversas enzimas envolvidas no processo de respiração celular. Assim, num quadro de deficiência de tiamina, causado por alcoolismo crônico, espera-se que o indivíduo apresente os seguintes sintomas:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "insônia, cansaço e fraqueza muscular."
+          },
+          {
+            "letra": "B",
+            "texto": "cegueira noturna, anemia e baixa produção de hemácias."
+          },
+          {
+            "letra": "C",
+            "texto": "hemorragia nas gengivas, descalcificação dentária e anemia."
+          },
+          {
+            "letra": "D",
+            "texto": "osteoporose, cansaço e cegueira noturna."
+          },
+          {
+            "letra": "E",
+            "texto": "risco aumentado de doenças cardíacas, hipertensão e câncer na próstata."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Fisiologia Humana (Vitaminas / Metabolismo)"
+        ]
+      },
+      {
+        "numeroEnunciado": 31,
+        "enunciado": "Um estudante, utilizando um microscópio óptico comum, realizou o seguinte experimento com um fragmento de tecido vegetal:\n\nEtapa 1: Sobre a lâmina onde se encontrava a amostra, pingou algumas gotas de solução de sacarose em concentração muito próxima à das células. Aguardou alguns minutos, observou o resultado e fez uma contagem das células.\n\nEtapa 2: Removeu a primeira solução de sacarose com um papel absorvente e pingou algumas gotas de água destilada. Aguardou alguns minutos, observou o resultado e fez nova contagem.\n\nEtapa 3: Removeu a água destilada com papel absorvente e pingou algumas gotas de solução de sacarose em concentração muito superior à do tecido em questão. Aguardou alguns minutos, observou o resultado e realizou a última contagem.\n\nSe esse mesmo experimento fosse realizado com uma cultura de células animais, o estudante observaria",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "uma redução significativa do volume celular ao final da etapa 2."
+          },
+          {
+            "letra": "B",
+            "texto": "um aumento do número de células ao final da etapa 3."
+          },
+          {
+            "letra": "C",
+            "texto": "uma redução significativa no número de células ao final da etapa 2."
+          },
+          {
+            "letra": "D",
+            "texto": "um aumento do volume celular ao final da etapa 1."
+          },
+          {
+            "letra": "E",
+            "texto": "uma redução significativa no número de células ao final da etapa 1."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Citologia (Osmose / Célula Animal)"
+        ]
+      },
+      {
+        "numeroEnunciado": 32,
+        "enunciado": "Os esquemas mostram alterações em células de dois importantes tecidos humanos, em dois indivíduos diferentes, 1 e 2.\n\n[Image showing normal and abnormal cells for Individual 1 (axônio) and Individual 2 (mielina danificada)]\n\n(www.institutoavancadodeimagem.com.br) / (https://imunologia96.wordpress.com)\n\nAs alterações observadas nas células anormais permitem concluir que",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "o indivíduo 1 apresentará problemas na coordenação motora, enquanto o indivíduo 2 terá diminuição dos seus reflexos."
+          },
+          {
+            "letra": "B",
+            "texto": "o indivíduo 1 apresentará menor absorção de nutrientes, enquanto o indivíduo 2 apresentará baixa taxa de oxigenação em seus tecidos."
+          },
+          {
+            "letra": "C",
+            "texto": "o indivíduo 1 apresentará baixa taxa de oxigenação em seus tecidos, enquanto o indivíduo 2 apresentará problemas na coordenação motora."
+          },
+          {
+            "letra": "D",
+            "texto": "o indivíduo 1 apresentará altas taxas de trocas gasosas, enquanto o indivíduo 2 terá diminuição dos seus reflexos."
+          },
+          {
+            "letra": "E",
+            "texto": "o indivíduo 1 apresentará maior acúmulo de gás carbônico, enquanto o indivíduo 2 apresentará baixa taxa de oxigenação em seus tecidos."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Histologia (Tecido Nervoso)"
+        ]
+      },
+      {
+        "numeroEnunciado": 33,
+        "enunciado": "Ao compararmos os materiais genéticos de uma célula do fígado aos de uma célula epidérmica, encontraremos diferenças entre os",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "DNAs genômicos."
+          },
+          {
+            "letra": "B",
+            "texto": "DNAs mitocondriais."
+          },
+          {
+            "letra": "C",
+            "texto": "RNAs ribossômicos."
+          },
+          {
+            "letra": "D",
+            "texto": "RNAs transportadores."
+          },
+          {
+            "letra": "E",
+            "texto": "RNAs mensageiros."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Biologia – Genética (Expressão Gênica)"
+        ]
+      },
+      {
+        "numeroEnunciado": 34,
+        "enunciado": "Analisando um fragmento de tecido com o auxílio de um microscópio óptico, um histologista observou a presença de fibroblastos, macrófagos, mastócitos e células mesenquimais. O fragmento sob análise pertence ao tecido",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "conjuntivo."
+          },
+          {
+            "letra": "B",
+            "texto": "nervoso."
+          },
+          {
+            "letra": "C",
+            "texto": "muscular."
+          },
+          {
+            "letra": "D",
+            "texto": "hematopoético."
+          },
+          {
+            "letra": "E",
+            "texto": "cartilaginoso."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Biologia – Histologia (Tecido Conjuntivo)"
+        ]
+      },
+      {
+        "numeroEnunciado": 35,
+        "enunciado": "Três indivíduos submetidos às mesmas condições de nutrição e de descanso foram observados em suas rotinas matinais.\n\nIndivíduo 1: caminha 2 km para chegar ao seu local de trabalho.\nIndivíduo 2: percorre 5 km para chegar ao trabalho, porém o faz apenas de carro.\nIndivíduo 3: vai para a academia, exercita-se por uma hora nos diversos aparelhos, além de fazer uma corrida de 20 minutos na esteira, antes de ir trabalhar.\n\nA correta representação da quantidade de glicogênio nos indivíduos 1, 2 e 3, medida após a chegada ao trabalho, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1 > 2 > 3."
+          },
+          {
+            "letra": "B",
+            "texto": "2 > 1 > 3."
+          },
+          {
+            "letra": "C",
+            "texto": "3 > 1 > 2."
+          },
+          {
+            "letra": "D",
+            "texto": "1 > 3 > 2."
+          },
+          {
+            "letra": "E",
+            "texto": "2 > 3 > 1."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Biologia – Fisiologia Humana (Metabolismo Energético)"
+        ]
+      },
+      {
+        "numeroEnunciado": 36,
+        "enunciado": "Ao se inalar o isótopo radioativo 18O, seria possível, após a entrada desse isótopo na célula, detectar radioatividade primeiramente em moléculas de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "gás carbônico."
+          },
+          {
+            "letra": "B",
+            "texto": "glicose."
+          },
+          {
+            "letra": "C",
+            "texto": "água."
+          },
+          {
+            "letra": "D",
+            "texto": "ácido láctico."
+          },
+          {
+            "letra": "E",
+            "texto": "ácido pirúvico."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Biologia – Bioquímica (Ciclos Biogeoquímicos / Respiração Celular)"
+        ]
+      },
+      {
+        "numeroEnunciado": 37,
+        "enunciado": "Em um hospital, a razão entre o número de médicos e o número de enfermeiros é 2/5. Sabendo que no total, entre médicos e enfermeiros, há 105 profissionais, a diferença entre o número de enfermeiros e o número de médicos, nesta ordem, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "50."
+          },
+          {
+            "letra": "B",
+            "texto": "45."
+          },
+          {
+            "letra": "C",
+            "texto": "40."
+          },
+          {
+            "letra": "D",
+            "texto": "35."
+          },
+          {
+            "letra": "E",
+            "texto": "30."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Razão e Proporção"
+        ]
+      },
+      {
+        "numeroEnunciado": 38,
+        "enunciado": "Em uma fazenda foram plantadas várias árvores: 16% da espécie A; 30% das restantes, da espécie B; e 882 árvores da espécie C. O número total de árvores plantadas foi",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "1000."
+          },
+          {
+            "letra": "B",
+            "texto": "1200."
+          },
+          {
+            "letra": "C",
+            "texto": "1300."
+          },
+          {
+            "letra": "D",
+            "texto": "1400."
+          },
+          {
+            "letra": "E",
+            "texto": "1500."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Matemática – Porcentagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 39,
+        "enunciado": "Um novo restaurante recebeu, em seu primeiro dia de funcionamento, 40 clientes e, do segundo dia em diante, passou a receber, por dia, 6 clientes a mais do que no dia anterior, até atingir a lotação máxima. Sabendo que a lotação máxima desse salão corresponde a quatro vezes o número de clientes presentes no 6º dia, é correto concluir que o salão atingirá a lotação máxima no",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "45º dia."
+          },
+          {
+            "letra": "B",
+            "texto": "43º dia."
+          },
+          {
+            "letra": "C",
+            "texto": "41º dia."
+          },
+          {
+            "letra": "D",
+            "texto": "38º dia."
+          },
+          {
+            "letra": "E",
+            "texto": "36º dia."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Progressão Aritmética"
+        ]
+      },
+      {
+        "numeroEnunciado": 40,
+        "enunciado": "Os preços dos produtos A, B e C, nesta ordem, formam uma PG de razão 2,5. Sabendo que os três produtos juntos custam R$ 195,00, é correto concluir que a diferença entre o preço do produto mais caro e o preço do mais barato é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "R$ 105,00."
+          },
+          {
+            "letra": "B",
+            "texto": "R$ 75,00."
+          },
+          {
+            "letra": "C",
+            "texto": "R$ 50,00."
+          },
+          {
+            "letra": "D",
+            "texto": "R$ 30,00."
+          },
+          {
+            "letra": "E",
+            "texto": "R$ 25,00."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Progressão Geométrica"
+        ]
+      },
+      {
+        "numeroEnunciado": 41,
+        "enunciado": "No dia do lançamento de determinado produto, foram vendidas 200 unidades. A partir do segundo dia e nas 9 semanas seguintes, o número de unidades vendidas semanalmente aumentou de acordo com a função f(x) = 40x + 200, sendo f(x) o número de unidades vendidas semanalmente e x o número de semanas, com 1 ≤ x ≤ 9. Em relação ao número de unidades vendidas na 3ª semana, o número de unidades vendidas na 9ª semana corresponde a um aumento de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "85%."
+          },
+          {
+            "letra": "B",
+            "texto": "80%."
+          },
+          {
+            "letra": "C",
+            "texto": "75%."
+          },
+          {
+            "letra": "D",
+            "texto": "70%."
+          },
+          {
+            "letra": "E",
+            "texto": "65%."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Matemática – Funções (Função do 1º grau)",
+          "Matemática – Porcentagem"
+        ]
+      },
+      {
+        "numeroEnunciado": 42,
+        "enunciado": "Determinado tipo de alga, que inicialmente ocupava 1,5 m² de área da superfície de um lago, vem crescendo mês a mês, obedecendo à seguinte função A(x) = 3 · 2x−1, sendo A(x) a área da superfície do lago ocupada pela alga, em m², e x o número de meses. Sabendo que, no 9º mês, a alga passou a ocupar a área total do lago, é correto concluir que o número de meses necessários para que essa alga ocupasse 1/8 da área total desse lago foi",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "7."
+          },
+          {
+            "letra": "B",
+            "texto": "6."
+          },
+          {
+            "letra": "C",
+            "texto": "5."
+          },
+          {
+            "letra": "D",
+            "texto": "4."
+          },
+          {
+            "letra": "E",
+            "texto": "3."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Matemática – Funções Exponenciais",
+          "Matemática – Logaritmos"
+        ]
+      },
+      {
+        "numeroEnunciado": 43,
+        "enunciado": "Para fabricar uma quantidade y de embalagens em x dias, uma empresa utiliza 3 máquinas, todas com a mesma capacidade de produção. O número de máquinas, iguais às anteriores, necessárias para produzir o triplo da quantidade de embalagens, na metade do número de dias, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "12."
+          },
+          {
+            "letra": "B",
+            "texto": "14."
+          },
+          {
+            "letra": "C",
+            "texto": "16."
+          },
+          {
+            "letra": "D",
+            "texto": "18."
+          },
+          {
+            "letra": "E",
+            "texto": "20."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Matemática – Regra de Três Composta"
+        ]
+      },
+      {
+        "numeroEnunciado": 44,
+        "enunciado": "Em uma região triangular ABC, o lado BC é igual a 10 m e os ângulos BĈA e BẬC medem 65° e 45°, respectivamente, conforme mostra a figura.\n\n[Image of triangle ABC with angles 45° and 65°, and side BC=10m]\n\nUtilizando sen 65° = 0,90 e √19 = 4,35, a medida do lado AC, em metros, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "13,35."
+          },
+          {
+            "letra": "B",
+            "texto": "12,25."
+          },
+          {
+            "letra": "C",
+            "texto": "11,05."
+          },
+          {
+            "letra": "D",
+            "texto": "10,45."
+          },
+          {
+            "letra": "E",
+            "texto": "9,35."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Matemática – Trigonometria (Lei dos Senos)"
+        ]
+      },
+      {
+        "numeroEnunciado": 45,
+        "enunciado": "Para fazer o reboco de uma parede, um pedreiro utilizou certa quantidade de cimento que, para o preparo, foi despejado do saco para o solo, conforme o gráfico.\n\nvazão (kg/s)\n\n[Graph showing flow rate (kg/s) on y-axis and time (s) on x-axis, with a triangular shaded area under the curve]\n\ntempo (s)\n\nA grandeza física representada pela área sombreada do gráfico tem unidade de medida equivalente à de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "aceleração."
+          },
+          {
+            "letra": "B",
+            "texto": "massa."
+          },
+          {
+            "letra": "C",
+            "texto": "vazão."
+          },
+          {
+            "letra": "D",
+            "texto": "velocidade."
+          },
+          {
+            "letra": "E",
+            "texto": "volume."
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Cinemática (Análise Gráfica)",
+          "Física – Análise Dimensional"
+        ]
+      },
+      {
+        "numeroEnunciado": 46,
+        "enunciado": "Duas bolas idênticas, X e Y, são abandonadas de uma mesma altura, do alto de uma torre, a partir do repouso. A bola Y é abandonada 1 segundo após a bola X.\n\n[Image showing two balls (Y and X) falling from a tower]\n\nDurante a queda, antes que a bola X atinja o solo,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "a velocidade das duas bolas diminui."
+          },
+          {
+            "letra": "B",
+            "texto": "a velocidade das duas bolas é constante."
+          },
+          {
+            "letra": "C",
+            "texto": "a distância entre as duas bolas diminui."
+          },
+          {
+            "letra": "D",
+            "texto": "a distância entre as duas bolas aumenta."
+          },
+          {
+            "letra": "E",
+            "texto": "a distância entre as duas bolas permanece constante."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Física – Cinemática (Queda Livre)"
+        ]
+      },
+      {
+        "numeroEnunciado": 47,
+        "enunciado": "Sobre a superfície da Terra, onde g = 10 m/s², um astronauta apresenta peso igual a 700 N. Em uma expedição à Lua, onde g = 1,6 m/s², a massa desse astronauta será igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "70 kg e ele pesará 112 Ν."
+          },
+          {
+            "letra": "B",
+            "texto": "70 kg e ele pesará 700 Ν."
+          },
+          {
+            "letra": "C",
+            "texto": "112 kg e ele pesará 112 Ν."
+          },
+          {
+            "letra": "D",
+            "texto": "112 kg e ele pesará 700 Ν."
+          },
+          {
+            "letra": "E",
+            "texto": "700 kg e ele pesará 112 Ν."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Dinâmica (Peso e Massa)"
+        ]
+      },
+      {
+        "numeroEnunciado": 48,
+        "enunciado": "Uma esfera, lançada em movimento oblíquo e com velocidade de 20 m/s, descreve a trajetória apresentada na figura.\n\n[Image of projectile motion, with points P, Q, R on the trajectory]\n\nDesprezando as forças de resistência, é correto afirmar que a intensidade da força resultante que atua sobre a esfera nas posições P, Q e R, respectivamente, é",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Fp > FQ > FR:"
+          },
+          {
+            "letra": "B",
+            "texto": "Fp < FQ < FR:"
+          },
+          {
+            "letra": "C",
+            "texto": "Fp > FQ = FR:"
+          },
+          {
+            "letra": "D",
+            "texto": "FP = FQ > FR:"
+          },
+          {
+            "letra": "E",
+            "texto": "FP = FQ = FR:"
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Dinâmica (Leis de Newton / Lançamento de Projéteis)"
+        ]
+      },
+      {
+        "numeroEnunciado": 49,
+        "enunciado": "Um objeto, que se desloca horizontalmente com velocidade vo, é submetido à ação de uma força constante de intensidade F que o acelera, levando-o a atingir a velocidade v num intervalo de tempo t. Nessas condições, é correto afirmar que a massa do objeto vale",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "V-Vo / Ft"
+          },
+          {
+            "letra": "B",
+            "texto": "Ft / V-Vo"
+          },
+          {
+            "letra": "C",
+            "texto": "F(v-vo) / t"
+          },
+          {
+            "letra": "D",
+            "texto": "F-v / Vot"
+          },
+          {
+            "letra": "E",
+            "texto": "vt / F-Vo"
+          }
+        ],
+        "opcaoCorreta": "B",
+        "conteudo": [
+          "Física – Dinâmica (Segunda Lei de Newton / Impulso)"
+        ]
+      },
+      {
+        "numeroEnunciado": 50,
+        "enunciado": "A uma mola, presa no teto de uma varanda, foi suspensa uma gaiola com um passarinho, o que provocou, no ponto de equilíbrio, uma deformação D da mola igual a 10 cm.\n\n[Image showing a spring with a cage and a bird attached, and the deformation D]\n\nConsiderando a constante elástica da mola k = 200 N/m, a massa da gaiola mg = 1,8 kg e a aceleração da gravidade local g = 10 m/s², a massa do passarinho (mp) tem valor, em kg, igual a",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "0,2."
+          },
+          {
+            "letra": "B",
+            "texto": "0,6."
+          },
+          {
+            "letra": "C",
+            "texto": "0,8."
+          },
+          {
+            "letra": "D",
+            "texto": "1,2."
+          },
+          {
+            "letra": "E",
+            "texto": "1,5."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Física – Estática (Força Elástica / Peso)"
+        ]
+      },
+      {
+        "numeroEnunciado": 51,
+        "enunciado": "O movimento dos planetas é descrito por meio de três leis. A primeira define que os planetas descrevem órbitas elípticas em torno do Sol, que ocupa um dos focos da elipse.\n\n[Image showing an elliptical orbit of a planet around the Sun, with Foco 1 and Foco 2 labeled]\n\nA segunda afirma que o segmento de reta que une os centros do Sol e de um planeta descreve áreas iguais em tempos de percurso iguais.\n\n[Image showing areas A1 and A2 swept in equal times Δt]\n\nA terceira determina que a velocidade de translação de um planeta ao redor do Sol é maior quando o planeta está mais próximo do Sol e menor, quando está mais afastado. Tais leis são conhecidas como",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Leis de Torricelli."
+          },
+          {
+            "letra": "B",
+            "texto": "Leis de Newton."
+          },
+          {
+            "letra": "C",
+            "texto": "Leis de Kepler."
+          },
+          {
+            "letra": "D",
+            "texto": "Leis de Celsius."
+          },
+          {
+            "letra": "E",
+            "texto": "Leis de Pascal."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Física – Gravitação (Leis de Kepler)"
+        ]
+      },
+      {
+        "numeroEnunciado": 52,
+        "enunciado": "Uma massa de 0,5 kg de mercúrio, à temperatura ambiente, precisa ser completamente armazenada em um recipiente, sem que transborde. Sabendo que a densidade do mercúrio é 13,6 g/cm³, será necessário utilizar um recipiente cujo volume interior mínimo seja próximo de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "21 cm³."
+          },
+          {
+            "letra": "B",
+            "texto": "26 cm³."
+          },
+          {
+            "letra": "C",
+            "texto": "30 cm³."
+          },
+          {
+            "letra": "D",
+            "texto": "33 cm³."
+          },
+          {
+            "letra": "E",
+            "texto": "37 cm³."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Física – Propriedades da Matéria (Densidade)"
+        ]
+      },
+      {
+        "numeroEnunciado": 53,
+        "enunciado": "O uso de um aspirador de pó para retirar a poeira que se acumula nas diversas superfícies, baseia-se no processo de separação de misturas denominado",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "levigação."
+          },
+          {
+            "letra": "B",
+            "texto": "sublimação."
+          },
+          {
+            "letra": "C",
+            "texto": "decantação."
+          },
+          {
+            "letra": "D",
+            "texto": "filtração."
+          },
+          {
+            "letra": "E",
+            "texto": "catação."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Separação de Misturas"
+        ]
+      },
+      {
+        "numeroEnunciado": 54,
+        "enunciado": "Desinfetante de amplo uso nas residências, a água sanitária é um exemplo de",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "substância simples."
+          },
+          {
+            "letra": "B",
+            "texto": "substância composta."
+          },
+          {
+            "letra": "C",
+            "texto": "substância pura."
+          },
+          {
+            "letra": "D",
+            "texto": "mistura heterogênea."
+          },
+          {
+            "letra": "E",
+            "texto": "mistura homogênea."
+          }
+        ],
+        "opcaoCorreta": "E",
+        "conteudo": [
+          "Química – Misturas e Soluções"
+        ]
+      },
+      {
+        "numeroEnunciado": 55,
+        "enunciado": "A proporção entre os volumes do núcleo e da eletrosfera do átomo foi estimada por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "Rutherford, com base na incidência de partículas alfa em lâminas metálicas."
+          },
+          {
+            "letra": "B",
+            "texto": "Rutherford, com base em seus estudos sobre raios catódicos."
+          },
+          {
+            "letra": "C",
+            "texto": "Thomson, em seus experimentos com ampolas contendo gás rarefeito."
+          },
+          {
+            "letra": "D",
+            "texto": "Dalton, em seus estudos sobre proporções de reagentes em transformações químicas."
+          },
+          {
+            "letra": "E",
+            "texto": "Dalton, em seus estudos sobre os gases componentes do ar."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Estrutura Atômica (Modelos Atômicos)"
+        ]
+      },
+      {
+        "numeroEnunciado": 56,
+        "enunciado": "Entre as ligas metálicas empregadas na indústria aeronáutica e em carrocerias de ônibus rodoviários, encontra-se o duralumínio, assim definido: “classe de ligas leves de alumínio contendo cobre, magnésio, manganês e algumas vezes silício.\"\n\n(www.cimm.com.br)\n\nConsiderando a posição, na classificação periódica, dos cinco elementos químicos citados nessa definição, é correto afirmar que o de menor eletronegatividade é o",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "alumínio."
+          },
+          {
+            "letra": "B",
+            "texto": "cobre."
+          },
+          {
+            "letra": "C",
+            "texto": "magnésio."
+          },
+          {
+            "letra": "D",
+            "texto": "manganês."
+          },
+          {
+            "letra": "E",
+            "texto": "silício."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Tabela Periódica (Eletronegatividade)"
+        ]
+      },
+      {
+        "numeroEnunciado": 57,
+        "enunciado": "O quadro, incompleto, relaciona a condutibilidade elétrica de três substâncias químicas em três situações diferentes.\n\n[Table showing electrical conductivity for substâncias (Cloreto de Sódio, Sacarose, Prata Metálica) in no estado sólido, no estado líquido, and em solução aquosa]\n\nPara completar corretamente o quadro, os espaços ocupados por x, y e z devem ser preenchidos, respectivamente, com:",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "boa – boa – boa."
+          },
+          {
+            "letra": "B",
+            "texto": "boa - boa – má."
+          },
+          {
+            "letra": "C",
+            "texto": "má – má – má."
+          },
+          {
+            "letra": "D",
+            "texto": "má – má – boa."
+          },
+          {
+            "letra": "E",
+            "texto": "má - boa – boa."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Ligações Químicas (Condutibilidade Elétrica)",
+          "Química – Propriedades dos Materiais"
+        ]
+      },
+      {
+        "numeroEnunciado": 58,
+        "enunciado": "Um composto iônico que apresenta ligação covalente em seu ânion é o",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "nitreto de sódio, Na3N."
+          },
+          {
+            "letra": "B",
+            "texto": "hidróxido de cálcio, Ca(OH)2."
+          },
+          {
+            "letra": "C",
+            "texto": "óxido de cobre(II), CuO."
+          },
+          {
+            "letra": "D",
+            "texto": "cloreto de amônio, NH4Cl."
+          },
+          {
+            "letra": "E",
+            "texto": "hidreto de lítio, LiH."
+          }
+        ],
+        "opcaoCorreta": "D",
+        "conteudo": [
+          "Química – Ligações Químicas"
+        ]
+      },
+      {
+        "numeroEnunciado": 59,
+        "enunciado": "Vermelho de fenol é um indicador ácido-base que se apresenta amarelo em meio ácido e vermelho em meio básico. Assim, ele ficará amarelo quando acrescentado a uma mistura de água destilada com _________ e vermelho quando acrescentado a uma mistura de água destilada com _________.\n\nAs lacunas do texto são preenchidas, correta e respectivamente, por",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "SO2 – CaO."
+          },
+          {
+            "letra": "B",
+            "texto": "K₂O – CO2."
+          },
+          {
+            "letra": "C",
+            "texto": "SO2 – CO2."
+          },
+          {
+            "letra": "D",
+            "texto": "CaO – CO2."
+          },
+          {
+            "letra": "E",
+            "texto": "K₂O – CaO."
+          }
+        ],
+        "opcaoCorreta": "A",
+        "conteudo": [
+          "Química – Funções Inorgânicas (Ácidos e Bases / Óxidos)"
+        ]
+      },
+      {
+        "numeroEnunciado": 60,
+        "enunciado": "A fórmula percentual da cromita, principal minério de cromo, é Cr_x O_y. Considerando um processo com rendimento igual a 40%, a máxima massa de cromo, em quilogramas, que pode ser obtida a partir de 1 tonelada deste minério é, aproximadamente,",
+        "alternativas": [
+          {
+            "letra": "A",
+            "texto": "68."
+          },
+          {
+            "letra": "B",
+            "texto": "136."
+          },
+          {
+            "letra": "C",
+            "texto": "274."
+          },
+          {
+            "letra": "D",
+            "texto": "542."
+          },
+          {
+            "letra": "E",
+            "texto": "684."
+          }
+        ],
+        "opcaoCorreta": "C",
+        "conteudo": [
+          "Química – Estequiometria (Rendimento de Reação)"
+        ]
+      }
+    ]
+  }
+}
