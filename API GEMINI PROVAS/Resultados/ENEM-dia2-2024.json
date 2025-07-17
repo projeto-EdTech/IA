@@ -1,11 +1,9 @@
 {
-  "prova": {
     "nomeUniversidade": "Exame Nacional do Ensino Médio",
     "siglaUniversidade": "ENEM",
     "nomeProva": "ENEM",
     "ano": 2024,
-    "qtdeQuestoes": 90
-  },
+    "qtdeQuestoes": 90,
   "questoes": [
     {
       "numeroEnunciado": 91,

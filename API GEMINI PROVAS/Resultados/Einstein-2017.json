@@ -1,5 +1,5 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "Faculdade de Medicina do Hospital Israelita Albert Einstein",
     "siglaUniversidade": "Albert Einstein",
     "nomeProva": "Vestibular",
@@ -1319,4 +1319,3 @@
       }
     ]
   }
-}

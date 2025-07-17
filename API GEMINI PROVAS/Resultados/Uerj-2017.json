@@ -1,0 +1,1616 @@
+{
+  "nomeUniversidade": "Universidade do Estado do Rio de Janeiro",
+  "siglaUniversidade": "UERJ",
+  "nomeProva": "1º Exame de Qualificação",
+  "ano": 2017,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "No texto, a autora narra fatos e expõe suas opiniões relacionados à vinda de sua família para o Brasil.\nUma dessas opiniões está explicitada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Havia chegado a hora de Antônio se alistar, e o pai decidiu que não perderia seu filho. (l. 5-6)"
+        },
+        {
+          "letra": "B",
+          "texto": "No início dos anos 1990 cogitamos reivindicar a cidadania italiana. (l. 13)"
+        },
+        {
+          "letra": "C",
+          "texto": "Antes de ingressar com a documentação, seria preciso corrigir o erro do burocrata do governo imperial que substituiu um “n” por um “m”. (l. 14-16)"
+        },
+        {
+          "letra": "D",
+          "texto": "Quando Pietro Brun atravessou o mar deixando mortos e vivos na margem que se distanciou, ele não poderia ser o mesmo ao alcançar o outro lado. (l. 28-29)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A partir da narrativa de um episódio familiar, a autora elabora reflexões que vão além desse contexto pessoal, generalizando-o.\nEssa generalização pode ser observada no emprego da primeira pessoa do plural no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mas entre nós existe essa diferença na letra. (l. 14)"
+        },
+        {
+          "letra": "B",
+          "texto": "Um segundo ele deve ter demorado para nos transformar, (l. 16)"
+        },
+        {
+          "letra": "C",
+          "texto": "Pela memória nos colocamos não só em movimento, (l. 24)"
+        },
+        {
+          "letra": "D",
+          "texto": "Ele tinha de ser outro, assim como nós, (l. 29)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Elementos da Narrativa"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Como desertava, meu bisavô Antônio foi levado em um bote até o navio que já se afastava do porto de Gênova. (l. 6-7)\nO trecho sublinhado estabelece com o restante da frase o sentido de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "causa"
+        },
+        {
+          "letra": "B",
+          "texto": "conclusão"
+        },
+        {
+          "letra": "C",
+          "texto": "concessão"
+        },
+        {
+          "letra": "D",
+          "texto": "conformidade"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Relações Semânticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A autora associa a troca de letras no registro do sobrenome de seu tetravô à expressão um membro fantasma.\nEssa associação constrói um exemplo da figura de linguagem denominada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "antítese"
+        },
+        {
+          "letra": "B",
+          "texto": "metáfora"
+        },
+        {
+          "letra": "C",
+          "texto": "hipérbole"
+        },
+        {
+          "letra": "D",
+          "texto": "eufemismo"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Diante da conduta do funcionário do governo brasileiro, é possível inferir a seguinte reação por parte de Pietro Brun:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apreço pela nova pátria"
+        },
+        {
+          "letra": "B",
+          "texto": "respeito à memória familiar"
+        },
+        {
+          "letra": "C",
+          "texto": "submissão às práticas oficiais"
+        },
+        {
+          "letra": "D",
+          "texto": "desprezo pelas regras migratórias"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Inferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Nos versos de 1 a 6, a poeta vale-se de um recurso para caracterizar tanto o passado quanto o futuro.\nEsse recurso consiste na construção de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "índices de ironia"
+        },
+        {
+          "letra": "B",
+          "texto": "escala de gradações"
+        },
+        {
+          "letra": "C",
+          "texto": "relações de comparação"
+        },
+        {
+          "letra": "D",
+          "texto": "sequência de personificações"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Análise Poética"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "No poema, há marcas de linguagem que remetem tanto à poeta quanto a seus leitores.\nUma dessas marcas, referindo-se unicamente ao leitor, está presente no seguinte verso:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "como o passado nas pedras nos móveis no rosto (v. 8)"
+        },
+        {
+          "letra": "B",
+          "texto": "das pessoas que conhecemos (v. 9)"
+        },
+        {
+          "letra": "C",
+          "texto": "pense em como do lodo primeiro surgiu esta poltrona este livro (v. 15)"
+        },
+        {
+          "letra": "D",
+          "texto": "à frente de nós à frente deles (v. 17)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Leitura e Compreensão",
+        "Língua Portuguesa – Marcas de Subjetividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "aos cães domesticados se ensina\na andar sempre atrás do dono\nmas os cães o passado só aparentemente nos pertencem (v. 12-14)\nNesses versos, sugere-se uma ideia a respeito da relação entre cães e seres humanos.\nEssa ideia, no verso destacado, recebe da poeta a seguinte avaliação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adesão"
+        },
+        {
+          "letra": "B",
+          "texto": "negação"
+        },
+        {
+          "letra": "C",
+          "texto": "proibição"
+        },
+        {
+          "letra": "D",
+          "texto": "permissão"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Umberto Eco narra, no segundo parágrafo do texto, uma experiência surpreendente que vivenciou.\nPode-se compreender essa experiência pela relação que se estabelece entre os seguintes elementos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tempo cronológico e reconstrução ficcional"
+        },
+        {
+          "letra": "B",
+          "texto": "avanço tecnológico e ilusão cinematográfica"
+        },
+        {
+          "letra": "C",
+          "texto": "registro documental e sonho cotidiano"
+        },
+        {
+          "letra": "D",
+          "texto": "narrativa biográfica e história universal"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Quase hiper-realisticamente vivenciei a primeira noite de minha vida. (l. 9)\nNa palavra destacada, o acréscimo do prefixo hiper indica ideia de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ampliação"
+        },
+        {
+          "letra": "B",
+          "texto": "hierarquia"
+        },
+        {
+          "letra": "C",
+          "texto": "proporção"
+        },
+        {
+          "letra": "D",
+          "texto": "simultaneidade"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Talvez eu tivesse encontrado a história que todos nós procuramos nas páginas dos livros e nas telas dos cinemas: uma história na qual as estrelas e eu éramos os protagonistas. (l. 21-22)\nNa frase acima, o autor procura delimitar um sentido para a palavra história por meio dos trechos destacados.\nEsses trechos apresentam uma formulação do seguinte tipo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exemplificação"
+        },
+        {
+          "letra": "B",
+          "texto": "particularização"
+        },
+        {
+          "letra": "C",
+          "texto": "modalização"
+        },
+        {
+          "letra": "D",
+          "texto": "dedução"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Argumentação",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "No último parágrafo, ao descrever a experiência vivida no planetário, o autor identifica três efeitos: de ficção, de História e de realidade.\nDe acordo com a exposição do autor, a interação entre esses três efeitos pode ser descrita como uma relação de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "anulação"
+        },
+        {
+          "letra": "B",
+          "texto": "condição"
+        },
+        {
+          "letra": "C",
+          "texto": "contradição"
+        },
+        {
+          "letra": "D",
+          "texto": "superposição"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "No primeiro parágrafo, o autor apresenta uma caracterização negativa do mundo atual, ao mesmo tempo que propõe um procedimento de análise desse contexto que permitiria superá-lo.\nEsse procedimento de análise está explicado em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contestação de práticas históricas que geram injustiças sociais"
+        },
+        {
+          "letra": "B",
+          "texto": "simulação de cenários futuros que possibilitem novas relações humanas"
+        },
+        {
+          "letra": "C",
+          "texto": "formulação de conceitos gerais que simplifiquem uma tese controversa"
+        },
+        {
+          "letra": "D",
+          "texto": "delimitação de aspectos distintos que compõem um problema complexo"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Argumentação"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Fala-se, por exemplo, em aldeia global para fazer crer que a difusão instantânea de notícias realmente informa as pessoas. (l. 8-9)\nAo empregar a expressão destacada neste trecho, o autor indica sua discordância em relação a uma ideia difundida como verdade inquestionável.\nOutra expressão empregada com a mesma finalidade está destacada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É como se o mundo houvesse se tornado, para todos, ao alcance da mão. (l. 11)"
+        },
+        {
+          "letra": "B",
+          "texto": "Um mercado avassalador dito global é apresentado como capaz de homogeneizar o planeta (l. 11-12)"
+        },
+        {
+          "letra": "C",
+          "texto": "tornando também mais distante o sonho de uma cidadania de fato universal. (l. 13-14)"
+        },
+        {
+          "letra": "D",
+          "texto": "Enquanto isso, o culto ao consumo é estimulado. (l. 14-15)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Marcas de Subjetividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "A partir desse mito e do encurtamento das distâncias – para aqueles que realmente podem viajar – também se difunde a noção de tempo e espaço contraídos. (l. 9-11)\nO comentário introduzido entre travessões apresenta um ponto de vista do autor que se sustenta em um elemento subentendido.\nEsse elemento está associado à existência, na sociedade, de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "valores familiares"
+        },
+        {
+          "letra": "B",
+          "texto": "apelos publicitários"
+        },
+        {
+          "letra": "C",
+          "texto": "diversidade cultural"
+        },
+        {
+          "letra": "D",
+          "texto": "desigualdade econômica"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Inferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Na verdade, para a maior parte da humanidade, a globalização está se impondo como uma fábrica de perversidades. (l. 16-17)\nNo terceiro parágrafo, as frases posteriores ao trecho citado desenvolvem a argumentação do autor por meio da apresentação de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hipóteses"
+        },
+        {
+          "letra": "B",
+          "texto": "evidências"
+        },
+        {
+          "letra": "C",
+          "texto": "digressões"
+        },
+        {
+          "letra": "D",
+          "texto": "discordâncias"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Argumentação",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "This modern version of the fairy tale Little Red Riding Hood addresses different social issues.\nOne of these issues is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "religious tolerance"
+        },
+        {
+          "letra": "B",
+          "texto": "animal protection"
+        },
+        {
+          "letra": "C",
+          "texto": "linguistic prejudice"
+        },
+        {
+          "letra": "D",
+          "texto": "racial discrimination"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Compreensão de Texto",
+        "Inglês – Temas Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Little Red Riding Hood's mother mentions a special compassionate mission exemption form (l. 7).\nThis form includes a permission to perform the following action:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pick the flowers"
+        },
+        {
+          "letra": "B",
+          "texto": "cross the forest"
+        },
+        {
+          "letra": "C",
+          "texto": "carry the basket"
+        },
+        {
+          "letra": "D",
+          "texto": "prepare the snacks"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "But mother, aren't you oppressing me by ordering me to do this? (l. 8)\nIn the sentence above, the word but fulfills the function of:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "calling attention"
+        },
+        {
+          "letra": "B",
+          "texto": "signalling exception"
+        },
+        {
+          "letra": "C",
+          "texto": "suggesting expectation"
+        },
+        {
+          "letra": "D",
+          "texto": "introducing objection"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Conectores"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "A fairy tale consists of both narrative and descriptive sequences.\nThe lines of the story that present predominantly descriptive sequences are:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11 to 15"
+        },
+        {
+          "letra": "B",
+          "texto": "16 to 20"
+        },
+        {
+          "letra": "C",
+          "texto": "21 to 26"
+        },
+        {
+          "letra": "D",
+          "texto": "27 to 32"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Análise Textual",
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "The classic fairy tale finishes by the woodchopper killing another character. However, this does not happen in this modern version.\nIn the end of this version, the woodchopper carries out the act of:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "saving the wolf"
+        },
+        {
+          "letra": "B",
+          "texto": "arresting the girl"
+        },
+        {
+          "letra": "C",
+          "texto": "calling the police"
+        },
+        {
+          "letra": "D",
+          "texto": "hiding the grandmother"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Um comerciante, para aumentar as vendas de seu estabelecimento, fez a seguinte promoção para determinado produto:\nCOMPRE 4 UNIDADES E LEVE 5\nEssa promoção representa um desconto de x% na venda de 5 unidades.\nO valor de x é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "15"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "25"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Um fisioterapeuta elaborou o seguinte plano de treinos diários para o condicionamento de um maratonista que se recupera de uma contusão:\n• primeiro dia – corrida de 6 km;\n• dias subsequentes – acréscimo de 2 km à corrida de cada dia imediatamente anterior.\nO último dia de treino será aquele em que o atleta correr 42 km.\nO total percorrido pelo atleta nesse treinamento, do primeiro ao último dia, em quilômetros, corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "414"
+        },
+        {
+          "letra": "B",
+          "texto": "438"
+        },
+        {
+          "letra": "C",
+          "texto": "456"
+        },
+        {
+          "letra": "D",
+          "texto": "484"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Para combater a subnutrição infantil, foi desenvolvida uma mistura alimentícia composta por três tipos de suplementos alimentares: I, II e III. Esses suplementos, por sua vez, contêm diferentes concentrações de três nutrientes: A, B e C. Observe as tabelas a seguir, que indicam a concentração de nutrientes nos suplementos e a porcentagem de suplementos na mistura, respectivamente.\nConcentração dos Suplementos Alimentares (g/kg)\nNutriente I II III\nA 0,2 0,5 0,4\nB 0,3 0,4 0,1\nC 0,1 0,4 0,5\nSuplemento Alimentar Quantidade na Mistura (%)\nI 45\nII 25\nIII 30\nA quantidade do nutriente C, em g/kg, encontrada na mistura alimentícia é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,235"
+        },
+        {
+          "letra": "B",
+          "texto": "0,265"
+        },
+        {
+          "letra": "C",
+          "texto": "0,275"
+        },
+        {
+          "letra": "D",
+          "texto": "0,295"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Média Ponderada"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Um cilindro circular reto possui diâmetro AB de 4 cm e altura AA' de 10 cm. O plano α, perpendicular à seção meridiana ABB'A', que passa pelos pontos B e A' das bases, divide o cilindro em duas partes, conforme ilustra a imagem.\n[IMAGEM DE CILINDRO COM PLANO DE CORTE]\nO volume da parte do cilindro compreendida entre o plano α e a base inferior, em cm³, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8π"
+        },
+        {
+          "letra": "B",
+          "texto": "12π"
+        },
+        {
+          "letra": "C",
+          "texto": "16π"
+        },
+        {
+          "letra": "D",
+          "texto": "20π"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Uma calculadora tem duas teclas especiais, A e B. Quando a tecla A é digitada, o número que está no visor é substituído pelo logaritmo decimal desse número. Quando a tecla B é digitada, o número do visor é multiplicado por 5.\nConsidere que uma pessoa digitou as teclas BAB, nesta ordem, e obteve no visor o número 10.\nNesse caso, o visor da calculadora mostrava inicialmente o seguinte número:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20"
+        },
+        {
+          "letra": "B",
+          "texto": "30"
+        },
+        {
+          "letra": "C",
+          "texto": "40"
+        },
+        {
+          "letra": "D",
+          "texto": "50"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Logaritmos",
+        "Matemática – Funções"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "No esquema abaixo, estão representados um quadrado ABCD e um círculo de centro P e raio r, tangente às retas AB e BC. O lado do quadrado mede 3r.\n[IMAGEM DE QUADRADO E CÍRCULO COM ÂNGULO θ]\nA medida θ do ângulo CÂP pode ser determinada a partir da seguinte identidade trigonométrica:\ntg (α – β) = (tg(α) – tg(β)) / (1 + tg(α) x tg(β))\nO valor da tangente de θ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,65"
+        },
+        {
+          "letra": "B",
+          "texto": "0,60"
+        },
+        {
+          "letra": "C",
+          "texto": "0,55"
+        },
+        {
+          "letra": "D",
+          "texto": "0,50"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Trigonometria",
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Considere o gráfico a seguir, em que a área S é limitada pelos eixos coordenados, pela reta r, que passa por A(0,4) e B(2,0), e pela reta perpendicular ao eixo x no ponto P(x₀,0), sendo 0 ≤ x₀ ≤ 2.\n[GRÁFICO COM PONTOS A, B, C E ÁREA S]\nPara que a área S seja a metade da área do triângulo de vértices C(0,0), A e B, o valor de x₀ deve ser igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 – √2"
+        },
+        {
+          "letra": "B",
+          "texto": "3 - √2"
+        },
+        {
+          "letra": "C",
+          "texto": "4 – 2√2"
+        },
+        {
+          "letra": "D",
+          "texto": "5 – 2√2"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Cálculo de Área"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Considere o conjunto de números naturais abaixo e os procedimentos subsequentes:\nA = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}\n1 - Cada número primo de A foi multiplicado por 3. Sabe-se que um número natural P é primo se P > 1 e tem apenas dois divisores naturais distintos.\n2 - A cada um dos demais elementos de A, foi somado o número 1.\n3 - Cada um dos números distintos obtidos foi escrito em apenas um pequeno cartão.\n4 - Dentre todos os cartões, foram sorteados exatamente dois cartões com números distintos ao acaso.\nA probabilidade de em pelo menos um cartão sorteado estar escrito um número par é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5/12"
+        },
+        {
+          "letra": "B",
+          "texto": "7/12"
+        },
+        {
+          "letra": "C",
+          "texto": "13/24"
+        },
+        {
+          "letra": "D",
+          "texto": "17/24"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "O rompimento da barragem de contenção de uma mineradora em Mariana (MG) acarretou o derramamento de lama contendo resíduos poluentes no rio Doce. Esses resíduos foram gerados na obtenção de um minério composto pelo metal de menor raio atômico do grupo 8 da tabela de classificação periódica. A lama levou 16 dias para atingir o mar, situado a 600 km do local do acidente, deixando um rastro de destruição nesse percurso. Caso alcance o arquipélago de Abrolhos, os recifes de coral dessa região ficarão ameaçados.\nO metal que apresenta as características químicas descritas no texto é denominado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ferro"
+        },
+        {
+          "letra": "B",
+          "texto": "zinco"
+        },
+        {
+          "letra": "C",
+          "texto": "sódio"
+        },
+        {
+          "letra": "D",
+          "texto": "níquel"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Tabela Periódica",
+        "Química – Propriedades Periódicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "A água do mar em Abrolhos se tornaria turva, se a lama atingisse o arquipélago.\nA turbidez da água interfere diretamente no seguinte processo biológico realizado nos recifes de coral:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fotossíntese"
+        },
+        {
+          "letra": "B",
+          "texto": "eutrofização"
+        },
+        {
+          "letra": "C",
+          "texto": "bioacumulação"
+        },
+        {
+          "letra": "D",
+          "texto": "tamponamento"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Fisiologia Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Com base nas informações apresentadas no texto, a velocidade média de deslocamento da lama, do local onde ocorreu o rompimento da barragem até atingir o mar, em km/h, corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,6"
+        },
+        {
+          "letra": "B",
+          "texto": "2,1"
+        },
+        {
+          "letra": "C",
+          "texto": "3,8"
+        },
+        {
+          "letra": "D",
+          "texto": "4,6"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Considere um animal que possui oito cromossomos em suas células diploides. Nos esquemas A e B, estão representadas duas células desse animal em processo de divisão celular.\n[IMAGEM COM ESQUEMAS A E B DE DIVISÃO CELULAR]\nCom base nos esquemas, são identificados os seguintes tipos de divisão celular em A e B, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "meiose e mitose"
+        },
+        {
+          "letra": "B",
+          "texto": "mitose e meiose"
+        },
+        {
+          "letra": "C",
+          "texto": "mitose e mitose"
+        },
+        {
+          "letra": "D",
+          "texto": "meiose e meiose"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Divisão Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Analise o gráfico a seguir, que indica a variação da capacidade térmica de um material (C) em função da temperatura (θ).\n[GRÁFICO DE CAPACIDADE TÉRMICA X TEMPERATURA]\nA quantidade de calor absorvida pelo material até a temperatura de 50 °C, em calorias, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "500"
+        },
+        {
+          "letra": "B",
+          "texto": "1500"
+        },
+        {
+          "letra": "C",
+          "texto": "2000"
+        },
+        {
+          "letra": "D",
+          "texto": "2200"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "A aplicação de campo elétrico entre dois eletrodos é um recurso eficaz para separação de compostos iônicos. Sob o efeito do campo elétrico, os íons são atraídos para os eletrodos de carga oposta. Considere o processo de dissolução de sulfato ferroso em água, no qual ocorre a dissociação desse sal. Após esse processo, ao se aplicar um campo elétrico, o seguinte íon salino irá migrar no sentido do polo positivo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fe3+"
+        },
+        {
+          "letra": "B",
+          "texto": "Fe2+"
+        },
+        {
+          "letra": "C",
+          "texto": "SO₄²⁻"
+        },
+        {
+          "letra": "D",
+          "texto": "SO₃²⁻"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica",
+        "Química – Ligações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Admita que a distância entre os eletrodos de um campo elétrico é de 20 cm e que a diferença de potencial efetiva aplicada ao circuito é de 6 V. Nesse caso, a intensidade do campo elétrico, em V/m, equivale a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40"
+        },
+        {
+          "letra": "B",
+          "texto": "30"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Na análise de uma amostra da água de um reservatório, verificou-se a presença de dois contaminantes, nas seguintes concentrações:\nContaminante Concentração (mg/L)\nbenzeno 0,39\nmetanal 0,40\nEm análises químicas, o carbono orgânico total é uma grandeza que expressa a concentração de carbono de origem orgânica em uma amostra.\nAssim, com base nos dados da tabela, a concentração de carbono orgânico total na amostra de água examinada, em mg/L, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,16"
+        },
+        {
+          "letra": "B",
+          "texto": "0,36"
+        },
+        {
+          "letra": "C",
+          "texto": "0,52"
+        },
+        {
+          "letra": "D",
+          "texto": "0,72"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Em um exame clínico, monitorou-se a concentração de um hormônio no sangue de um paciente, das 14 h de um dia às 10 h do dia seguinte. Os resultados do monitoramento, organizados em períodos de quatro horas, estão apresentados no gráfico abaixo.\n[GRÁFICO DE CONCENTRAÇÃO DE HORMÔNIO POR PERÍODO]\nA maior taxa de produção do hormônio, em mol.mL⁻¹.h⁻¹, verificada em um dos cinco períodos do exame, corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,0 × 10⁻¹⁰"
+        },
+        {
+          "letra": "B",
+          "texto": "2,0 × 10⁻¹⁰"
+        },
+        {
+          "letra": "C",
+          "texto": "4,0 × 10⁻¹⁰"
+        },
+        {
+          "letra": "D",
+          "texto": "5,0 × 10⁻¹⁰"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Matemática – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O ácido linoleico, essencial à dieta humana, apresenta a seguinte fórmula estrutural espacial:\n[IMAGEM DE FÓRMULA ESTRUTURAL DO ÁCIDO LINOLEICO]\nComo é possível observar, as ligações duplas presentes nos átomos de carbono 9 e 12 afetam o formato espacial da molécula.\nAs conformações espaciais nessas ligações duplas são denominadas, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cis e cis"
+        },
+        {
+          "letra": "B",
+          "texto": "cis e trans"
+        },
+        {
+          "letra": "C",
+          "texto": "trans e cis"
+        },
+        {
+          "letra": "D",
+          "texto": "trans e trans"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Isomeria"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Em avaliações físicas, é comum a análise conjunta de duas variáveis:\n1) débito cardíaco – volume de sangue que o coração é capaz de bombear em determinado período de tempo;\n2) frequência cardíaca – número de batimentos do coração nesse mesmo período de tempo.\nEm geral, atletas apresentam elevado débito cardíaco, ou seja, o coração bombeia um volume maior de sangue com menos batimentos, se comparado a um indivíduo sedentário.\nAdmita que quatro homens não fumantes, sem diagnóstico de patologia cardíaca, com mesmo peso corporal e idade, foram submetidos à corrida em uma mesma esteira. Durante esse processo, foi registrado o débito cardíaco de cada um, obtendo-se os resultados indicados no gráfico.\n[GRÁFICO DE DÉBITO CARDÍACO X VELOCIDADE DA ESTEIRA]\nDe acordo com os resultados apresentados, a curva que representa o indivíduo com maior frequência cardíaca é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I"
+        },
+        {
+          "letra": "B",
+          "texto": "II"
+        },
+        {
+          "letra": "C",
+          "texto": "III"
+        },
+        {
+          "letra": "D",
+          "texto": "IV"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Física – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Duas carretas idênticas, A e B, trafegam com velocidade de 50 km/h e 70 km/h, respectivamente. Admita que as massas dos motoristas e dos combustíveis são desprezíveis e que Eᴀ é a energia cinética da carreta A e Eʙ a da carreta B.\nA razão Eᴀ/Eʙ equivale a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5/7"
+        },
+        {
+          "letra": "B",
+          "texto": "8/14"
+        },
+        {
+          "letra": "C",
+          "texto": "25/49"
+        },
+        {
+          "letra": "D",
+          "texto": "30/28"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Mecânica",
+        "Física – Energia Cinética"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Os primeiros artrópodes eram animais marinhos. Ao longo do processo evolutivo, alguns membros desse grupo sofreram transformações que possibilitaram a eles a conquista do meio terrestre.\nUma transformação que contribuiu para a permanência destes artrópodes nesse ambiente seco foi:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "circulação aberta"
+        },
+        {
+          "letra": "B",
+          "texto": "respiração traqueal"
+        },
+        {
+          "letra": "C",
+          "texto": "fecundação externa"
+        },
+        {
+          "letra": "D",
+          "texto": "digestão extracorpórea"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Um sistema é constituído por seis moedas idênticas fixadas sobre uma régua de massa desprezível que está apoiada na superfície horizontal de uma mesa, conforme ilustrado abaixo. Observe que, na régua, estão marcados pontos equidistantes, numerados de 0 a 6.\n[IMAGEM DE RÉGUA COM MOEDAS E PONTO DE EQUILÍBRIO]\nAo se deslocar a régua da esquerda para a direita, o sistema permanecerá em equilíbrio na horizontal até que determinado ponto da régua atinja a extremidade da mesa.\nDe acordo com a ilustração, esse ponto está representado pelo seguinte número:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Estática",
+        "Física – Centro de Massa"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "As células musculares presentes nas asas das aves migratórias possuem maior concentração de determinada organela, se comparadas às células musculares do restante do corpo. Esse fato favorece a utilização intensa de tais membros por esses animais.\nEssa organela é denominada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "núcleo"
+        },
+        {
+          "letra": "B",
+          "texto": "centríolo"
+        },
+        {
+          "letra": "C",
+          "texto": "lisossoma"
+        },
+        {
+          "letra": "D",
+          "texto": "mitocondria"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Fisiologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "As imagens acima reproduzem a capa de um livreto de 1823 e o cartaz de um filme de 2015 que contam a história de Hugh Glass, caçador e guia que se tornou referência no contexto da conquista do Oeste norte-americano, no século XIX, tendo enfrentado diversos perigos, incluindo o ataque de um urso.\nA narrativa dos feitos de Hugh Glass insere-se em uma concepção nacionalista que promove a valorização do seguinte aspecto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ideal civilizatório"
+        },
+        {
+          "letra": "B",
+          "texto": "progresso material"
+        },
+        {
+          "letra": "C",
+          "texto": "miscigenação étnica"
+        },
+        {
+          "letra": "D",
+          "texto": "ação preservacionista"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História dos EUA",
+        "História – Formação dos Estados Nacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "HÁ DINAMITE DE PAVIO ACESO NO ORÇAMENTO O ponto central, que já deveria ser tema de um amplo debate no Congresso, no Executivo e fora deles, é que a crise fiscal implodiu os alicerces da Constituição de 1988. A ideia de um Estado que seria capaz de eliminar a miséria, reduzir a pobreza e ainda fornecer serviços básicos como saúde e educação com eficiência faliu. Aceite-se ou não.\nO Globo, 13/12/2015.\nDe acordo com a reportagem, o modelo político de Estado que estaria inviabilizado no atual contexto brasileiro é denominado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "bem-estar social"
+        },
+        {
+          "letra": "B",
+          "texto": "liberal-federativo"
+        },
+        {
+          "letra": "C",
+          "texto": "democrático-nacionalista"
+        },
+        {
+          "letra": "D",
+          "texto": "unitário-desenvolvimentista"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Estado e Políticas Públicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "A ROTA ATÉ OS JIHADISTAS Componentes produzidos por 51 empresas caem em poder do Estado Islâmico Mais de 50 empresas de 20 países, entre elas uma brasileira, foram identificadas na cadeia de suprimentos dos dispositivos explosivos improvisados usados pelo Estado Islâmico em centenas de atentados terroristas. Além de mercadorias controladas, itens tão simples quanto ligas de alumínio, celulares ou fertilizantes, que podem parecer inofensivos à primeira vista, estariam na lista dos mais de 700 componentes encontrados em um levantamento realizado ao longo de 20 meses pelo Instituto de Pesquisa de Conflito Armado.\n[MAPA MUNDIAL COM ROTAS DE SUPRIMENTOS]\nA estratégia de ação do Estado Islâmico mencionada na reportagem apresenta semelhança com a seguinte prática das corporações empresariais contemporâneas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "padronização das tecnologias"
+        },
+        {
+          "letra": "B",
+          "texto": "incorporação dos fornecedores"
+        },
+        {
+          "letra": "C",
+          "texto": "desterritorialização da produção"
+        },
+        {
+          "letra": "D",
+          "texto": "superexploração da mão de obra"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Globalização",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O TRAJETO DA TOCHA OLÍMPICA NO BRASIL\n[MAPA DO BRASIL COM O TRAJETO DA TOCHA OLÍMPICA E ESCALA]\nNo mapa, o trajeto total da tocha olímpica em território brasileiro mede cerca de 72 cm, considerando os trechos por via aérea e por terra.\nA distância real, em quilômetros, percorrida pela tocha em seu trajeto completo, é de aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3600"
+        },
+        {
+          "letra": "B",
+          "texto": "7000"
+        },
+        {
+          "letra": "C",
+          "texto": "36 000"
+        },
+        {
+          "letra": "D",
+          "texto": "70000"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Matemática – Escalas"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Antecipando-nos à derrocada das forças subversivas, acionadas por dispositivos governamentais, que visavam à destruição do primado da democracia e à implantação de um regime totalitário, tivemos a lucidez e o patriotismo de alertar os poderes constituídos da República para a defesa da ordem jurídica e da Constituição, tão seriamente ameaçadas. Podemos hoje, erradicado o mal das conjuras comuno-sindicalistas, proclamar que a sobrevivência da Nação Brasileira se processou sob a égide intocável do Estado de Direito.\nAdaptado de Ata da Reunião Ordinária do Conselho Federal da Ordem dos Advogados do Brasil - OAB, 07/04/1964.\nO apoio da Ordem dos Advogados do Brasil à deposição do presidente João Goulart (1961-1964), como indicado no texto, insere-se no contexto de intensas polarizações de opiniões entre partidos e associações.\nEssas polarizações expressavam posicionamentos distintos acerca da seguinte proposta do governo João Goulart:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "implementação das reformas de base"
+        },
+        {
+          "letra": "B",
+          "texto": "política de desvalorização monetária"
+        },
+        {
+          "letra": "C",
+          "texto": "cerceamento da liberdade de imprensa"
+        },
+        {
+          "letra": "D",
+          "texto": "controle orçamentário dos poderes estaduais"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Ditadura Militar"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "A CABEÇA E A ILHA André Dahmer\n[IMAGEM DE TIRINHA COM DIÁLOGO SOBRE O QUE REPRESENTA 50 ANOS DA COMPANHIA]\nA situação apresentada na tirinha remete ao seguinte processo característico do modo de produção capitalista:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "formação de cartel"
+        },
+        {
+          "letra": "B",
+          "texto": "fragmentação industrial"
+        },
+        {
+          "letra": "C",
+          "texto": "massificação do consumo"
+        },
+        {
+          "letra": "D",
+          "texto": "concentração empresarial"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Capitalismo",
+        "Sociologia – Economia e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Durante a Segunda Guerra Mundial (1939-1945), a ação do Partido Nazista na Alemanha ampliou a propaganda contra os que foram considerados os inimigos internos da nação germânica. O cartaz abaixo é um exemplo dessa política.\n[IMAGEM DE CARTAZ DE PROPAGANDA NAZISTA]\nUm aspecto da ideologia nazista observado nesse cartaz é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "antissemitismo"
+        },
+        {
+          "letra": "B",
+          "texto": "anticapitalismo"
+        },
+        {
+          "letra": "C",
+          "texto": "anticomunismo"
+        },
+        {
+          "letra": "D",
+          "texto": "antiamericanismo"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Segunda Guerra Mundial",
+        "História – Nazismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Nas imagens, estão representadas a malha urbana da cidade de Toledo, com suas ruas estreitas de origem medieval, e a de um bairro de Los Angeles, cidade estadunidense que se expandiu principalmente após a Segunda Guerra Mundial.\n[IMAGENS DE MALHA URBANA DE TOLEDO E SUBÚRBIO DE LOS ANGELES]\nA diferença entre as duas malhas urbanas é explicada pela relação entre dois fatores que contribuíram para a organização desses espaços, embora em épocas bastante distintas.\nEsses fatores estão apontados em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "concentração financeira – processo de verticalização"
+        },
+        {
+          "letra": "B",
+          "texto": "atividade econômica – especialização funcional"
+        },
+        {
+          "letra": "C",
+          "texto": "nível técnico – padrões de circulação"
+        },
+        {
+          "letra": "D",
+          "texto": "perfil de renda – segregação social"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "CONFERÊNCIA SINISTRA\n[IMAGEM DE CHARGE DA REVISTA TAGARELA DE 1904]\nA capital da República não pode continuar a ser apontada como sede de vida difícil, quando tem fartos elementos para constituir o mais notável centro de atração de braços, de atividade e de capitais nesta parte do mundo.\nRODRIGUES ALVES, presidente da República, 1902-1906.\nNo início do século XX, enquanto a charge ironizava um dos graves problemas que afetava a população da cidade do Rio de Janeiro, o pronunciamento do então presidente Rodrigues Alves enfatizava a preocupação com o que poderia comprometer o desenvolvimento da capital da República.\nNaquele contexto, uma ação governamental para promover tal desenvolvimento e um resultado obtido, foram, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reforma urbana – qualificação da mão de obra"
+        },
+        {
+          "letra": "B",
+          "texto": "combate à insalubridade – incremento da imigração"
+        },
+        {
+          "letra": "C",
+          "texto": "ampliação da rede hospitalar – controle da natalidade"
+        },
+        {
+          "letra": "D",
+          "texto": "expansão do saneamento básico – erradicação da pobreza"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Saúde Pública no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Os monumentos históricos promovem o destaque de acontecimentos, personagens, feitos e valores a serem reverenciados por uma sociedade. Exemplos desses monumentos são as estátuas de João Cândido, líder da Revolta da Chibata no início do século XX, e do Barão de Mauá, empresário e empreendedor no século XIX.\n[IMAGENS DE ESTÁTUA DE JOÃO CÂNDIDO E BARÃO DE MAUÁ]\nAs estátuas desses personagens indicam, respectivamente, o enaltecimento das seguintes ideias:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "revisão das hierarquias militares – progresso financeiro"
+        },
+        {
+          "letra": "B",
+          "texto": "defesa dos direitos trabalhistas – dinamização comercial"
+        },
+        {
+          "letra": "C",
+          "texto": "redimensionamento do preconceito racial – integração nacional"
+        },
+        {
+          "letra": "D",
+          "texto": "diversidade das contribuições étnicas – modernização econômica"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Movimentos Sociais",
+        "História – Economia no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "O governo chinês anunciou, nesta quinta-feira, que decidiu pôr fim à política do filho único. Por mais de três décadas, impediu-se que casais tivessem mais de uma criança, o que causou impacto na sociedade e na economia do país. Segundo a agência de notícias estatal Xinhua, o Partido Comunista determinou que, agora, os casais poderão ter dois filhos.\nAdaptado de bbc.com, 29/10/2015.\nA principal justificativa para a decisão do governo chinês está apontada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ampliar o poder de consumo do mercado"
+        },
+        {
+          "letra": "B",
+          "texto": "reduzir o custo da mão de obra da indústria"
+        },
+        {
+          "letra": "C",
+          "texto": "viabilizar a proposta de democratização do estado"
+        },
+        {
+          "letra": "D",
+          "texto": "retardar o processo de envelhecimento da população"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – População"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Os refugiados são pessoas que escaparam de conflitos armados ou perseguições. Com frequência, sua situação é tão perigosa e intolerável que devem cruzar fronteiras internacionais para buscar segurança nos países mais próximos e então se tornar um \"refugiado\" reconhecido internacionalmente, com acesso à assistência dos Estados, da ACNUR (Agência da ONU para Refugiados) e de outras organizações.\nADRIAN EDWARDS\nAdaptado de acnur.org, outubro/2015.\nO conceito de refugiado, apresentado no texto, está diretamente associado aos problemas políticos e econômicos que afetam diversos países na atualidade.\nNos últimos anos, a região de origem que tem contribuído com o maior número de refugiados em direção a países da União Europeia é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Leste Europeu"
+        },
+        {
+          "letra": "B",
+          "texto": "Oriente Médio"
+        },
+        {
+          "letra": "C",
+          "texto": "Extremo Oriente"
+        },
+        {
+          "letra": "D",
+          "texto": "Península Balcânica"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Migrações"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Se há apenas cinco ou dez anos dissessem a alguém em Cuba que um presidente norte-americano visitaria a Ilha, a resposta seria um sorriso irônico; mas se fosse mencionada a possibilidade de ver os Rolling Stones tocando em Havana, a reação teria sido uma gargalhada ou um grito, se a pessoa assim informada tivesse seus 60 ou 70 anos de vida. Porque aqueles que fomos jovens em Cuba na década de 1960 dificilmente esqueceremos as críticas políticas quando confessávamos ouvir os Beatles ou os Stones. Quem poderia ter previsto? Definitivamente, os tempos estão mudando.\nLEONARDO PADURA\nAdaptado de Folha de S. Paulo, 12/03/2016.\nAs considerações do escritor sobre a sociedade cubana indicam que, na década de 1960 e no momento atual, as diferenças entre as condições de vida são contextualizadas, respectivamente, pelos seguintes aspectos das relações internacionais:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expansão mundial de regimes totalitários – supremacia das concepções neoliberais"
+        },
+        {
+          "letra": "B",
+          "texto": "crescimento da influência global soviética – afirmação da hegemonia norte-americana"
+        },
+        {
+          "letra": "C",
+          "texto": "bipolaridade entre capitalismo e socialismo – multipolaridade da ordem econômica"
+        },
+        {
+          "letra": "D",
+          "texto": "política externa independente na América Latina – integração das nações subdesenvolvidas"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Guerra Fria",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "O século XXI tem assistido à ampliação do debate acerca das uniões homoafetivas, o que possibilitou algumas mudanças, como a observada no quadro.\nLEGALIZAÇÃO DE UNIÕES HOMOAFETIVAS\n[TABELA COM ANOS E PAÍSES QUE LEGALIZARAM UNIÕES HOMOAFETIVAS]\nEssa mudança de costumes expressa principalmente o reconhecimento do seguinte princípio entre os direitos humanos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inclusão política"
+        },
+        {
+          "letra": "B",
+          "texto": "diversidade cultural"
+        },
+        {
+          "letra": "C",
+          "texto": "uniformidade jurídica"
+        },
+        {
+          "letra": "D",
+          "texto": "igualdade econômica"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Direitos Humanos",
+        "Sociologia – Diversidade Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "O primeiro-ministro britânico David Cameron anunciou que o plebiscito que decidirá a permanência do Reino Unido na União Europeia ocorrerá no dia 23 de junho de 2016. Cameron liberou seus ministros para defenderem tanto a continuação quanto a saída dos britânicos.\nAdaptado de bbc.com, 20/02/2016.\nA consulta popular mencionada configura uma escolha difícil para os cidadãos do Reino Unido em virtude da variedade e complexidade dos argumentos favoráveis e contrários em disputa.\nUm argumento decisivo para que uma parcela dos britânicos aprove a saída do Reino Unido do bloco europeu remete à retomada da plena autonomia nacional no seguinte campo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sistema militar"
+        },
+        {
+          "letra": "B",
+          "texto": "ação diplomática"
+        },
+        {
+          "letra": "C",
+          "texto": "gestão monetária"
+        },
+        {
+          "letra": "D",
+          "texto": "controle migratório"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "História – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "IMAGEM 1 – DIVISÃO POLÍTICA DO CONTINENTE EUROPEU IMAGEM 2 – TEMPO DE VIAGEM DE TREM NA EUROPA\n[IMAGENS DE MAPAS DA EUROPA]\nNa imagem 2, observa-se uma representação do continente europeu, feita de acordo com uma escala espaço-temporal. Sabe-se que, quanto mais próximas as linhas tracejadas, menor é o tempo de viagem de trem para percorrer uma mesma distância, o que sugere a presença de vias para trens de grande velocidade.\nComparando-se as imagens, conclui-se que o país com a maior rede de trens de grande velocidade é a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Itália"
+        },
+        {
+          "letra": "B",
+          "texto": "França"
+        },
+        {
+          "letra": "C",
+          "texto": "Alemanha"
+        },
+        {
+          "letra": "D",
+          "texto": "Dinamarca"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia dos Transportes",
+        "Geografia – Cartografia"
+      ]
+    }
+  ]
+}

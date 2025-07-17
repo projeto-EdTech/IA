@@ -1,5 +1,5 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "Pontifícia Universidade Católica de São Paulo",
     "siglaUniversidade": "PUC-SP",
     "nomeProva": "VESTIBULAR",
@@ -2207,4 +2207,3 @@
       }
     ]
   }
-}

@@ -38,17 +38,12 @@ async function uploadRemotePDF(url, displayName) {
 const jsonSchema = {
   type: "object",
   properties: {
-    prova: {
-      type: "object",
-      properties: {
-        nomeUniversidade: { type: "string" },
-        siglaUniversidade: { type: "string" },
-        nomeProva: { type: "string" },
-        ano: { type: "number" },
-        qtdeQuestoes: { type: "number" },
-      },
-      required: ["nomeUniversidade", "siglaUniversidade", "nomeProva", "ano", "qtdeQuestoes"],
-    },
+    nomeUniversidade: { type: "string" },
+    siglaUniversidade: { type: "string" },
+    nomeProva: { type: "string" },
+    ano: { type: "number" },
+    qtdeQuestoes: { type: "number" },
+
     questoes: {
       type: "array",
       items: {
@@ -83,7 +78,14 @@ const jsonSchema = {
       },
     },
   },
-  required: ["prova", "questoes"],
+  required: [
+    "nomeUniversidade",
+    "siglaUniversidade",
+    "nomeProva",
+    "ano",
+    "qtdeQuestoes",
+    "questoes",
+  ],
 };
 
 async function main() {
@@ -104,8 +106,7 @@ A saída final deve ser estritamente um único objeto JSON puro, sem explicaçõ
 Além disto você é ABSOLUTAMENTE CRÍTICO que os argumentos que você fornecer à função 'extrair_dados_prova' sigam EXATAMENTE o JSON Schema que lhe foi dado, sem quaisquer variações nos nomes dos campos ou nos tipos de dados.
 
 Especificamente, garanta que:
-- O objeto principal seja 'prova'.
-- Dentro de 'prova', os campos sejam 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
+- Os campos iniciais do JSON devem ser 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
 - O array de questões seja 'questoes'.
 - Cada objeto dentro do array 'questoes' tenha os campos:
     - 'numeroEnunciado' (NÃO 'numeroQuestao').
@@ -120,11 +121,11 @@ Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estr
   console.log("Iniciando upload e processamento dos arquivos...");
 
     console.time("Processando Arquivo da Prova");
-    let file1 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2016/1fase/UNESP2016_1fase_prova.pdf", "PDF Da Prova");
+    let file1 = await uploadRemotePDF("https://focomedicina.com.br/wp-content/uploads/2024/12/PROVA-1-2021.pdf", "PDF Da Prova");
     console.timeEnd("Processando Arquivo da Prova"); // Termina o cronômetro do upload da prova
 
     console.time("Processando Arquivo do Gabarito");
-    let file2 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2016/1fase/UNESP2016_1fase_gabarito.pdf", "PDF Do Gabarito");
+    let file2 = await uploadRemotePDF("https://focomedicina.com.br/wp-content/uploads/2024/12/GABARITO-2021.pdf", "PDF Do Gabarito");
     console.timeEnd("Processando Arquivo do Gabarito"); // Termina o cronômetro do upload do Gabarito
 
     console.log("Uploads e processamento dos PDF's concluídos.");

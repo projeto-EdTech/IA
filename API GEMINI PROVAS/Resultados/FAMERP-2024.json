@@ -1,11 +1,9 @@
 {
-  "prova": {
     "nomeUniversidade": "Faculdade de Medicina de São José do Rio Preto",
     "siglaUniversidade": "FAMERP",
     "nomeProva": "FAMERP",
     "ano": 2024,
-    "qtdeQuestoes": 80
-  },
+    "qtdeQuestoes": 80,
   "questoes": [
     {
       "numeroEnunciado": 1,

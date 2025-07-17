@@ -1,11 +1,10 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "Instituto Tecnológico de Aeronáutica",
     "siglaUniversidade": "ITA",
     "nomeProva": "ITA",
     "ano": 2022,
-    "qtdeQuestoes": 70
-  },
+    "qtdeQuestoes": 70,
   "questoes": [
     {
       "numeroEnunciado": 1,

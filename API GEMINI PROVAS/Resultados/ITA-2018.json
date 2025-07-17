@@ -1,11 +1,10 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "ITA",
     "siglaUniversidade": "ITA",
     "nomeProva": "ITA",
     "ano": 2018,
-    "qtdeQuestoes": 100
-  },
+    "qtdeQuestoes": 100,
   "questoes": [
     {
       "numeroEnunciado": 1,

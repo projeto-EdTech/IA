@@ -1,5 +1,5 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "Universidade Estadual de Campinas",
     "siglaUniversidade": "UNICAMP",
     "nomeProva": "Vestibular",
@@ -2360,4 +2360,3 @@
       }
     ]
   }
-}

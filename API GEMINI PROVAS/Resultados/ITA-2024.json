@@ -1,11 +1,10 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "Instituto Tecnológico de Aeronáutica",
     "siglaUniversidade": "ITA",
     "nomeProva": "ITA",
     "ano": 2024,
-    "qtdeQuestoes": 60
-  },
+    "qtdeQuestoes": 60,
   "questoes": [
     {
       "numeroEnunciado": 1,

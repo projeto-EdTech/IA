@@ -36,17 +36,12 @@ async function uploadLocalPDF(filePath, displayName) {
 const jsonSchema = {
   type: "object",
   properties: {
-    prova: {
-      type: "object",
-      properties: {
-        nomeUniversidade: { type: "string" },
-        siglaUniversidade: { type: "string" },
-        nomeProva: { type: "string" },
-        ano: { type: "number" },
-        qtdeQuestoes: { type: "number" },
-      },
-      required: ["nomeUniversidade", "siglaUniversidade", "nomeProva", "ano", "qtdeQuestoes"],
-    },
+    nomeUniversidade: { type: "string" },
+    siglaUniversidade: { type: "string" },
+    nomeProva: { type: "string" },
+    ano: { type: "number" },
+    qtdeQuestoes: { type: "number" },
+
     questoes: {
       type: "array",
       items: {
@@ -81,7 +76,14 @@ const jsonSchema = {
       },
     },
   },
-  required: ["prova", "questoes"],
+  required: [
+    "nomeUniversidade",
+    "siglaUniversidade",
+    "nomeProva",
+    "ano",
+    "qtdeQuestoes",
+    "questoes",
+  ],
 };
 
 
@@ -103,8 +105,7 @@ A saída final deve ser estritamente um único objeto JSON puro, sem explicaçõ
 Além disto você é ABSOLUTAMENTE CRÍTICO que os argumentos que você fornecer à função 'extrair_dados_prova' sigam EXATAMENTE o JSON Schema que lhe foi dado, sem quaisquer variações nos nomes dos campos ou nos tipos de dados.
 
 Especificamente, garanta que:
-- O objeto principal seja 'prova'.
-- Dentro de 'prova', os campos sejam 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
+- Os campos iniciais do JSON devem ser 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
 - O array de questões seja 'questoes'.
 - Cada objeto dentro do array 'questoes' tenha os campos:
     - 'numeroEnunciado' (NÃO 'numeroQuestao').

@@ -1,11 +1,10 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "Universidade de São Paulo",
     "siglaUniversidade": "FUVEST",
     "nomeProva": "FUVEST",
     "ano": 2018,
-    "qtdeQuestoes": null
-  },
+    "qtdeQuestoes": 90,
   "questoes": [
     {
       "numeroEnunciado": 1,

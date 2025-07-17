@@ -1,11 +1,9 @@
 {
-  "prova": {
     "nomeUniversidade": "Universidade de São Paulo",
     "siglaUniversidade": "FUVEST",
     "nomeProva": "FUVEST",
     "ano": 2024,
-    "qtdeQuestoes": 90
-  },
+    "qtdeQuestoes": 90,
   "questoes": [
     {
       "numeroEnunciado": 1,

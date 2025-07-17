@@ -1,11 +1,10 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "Universidade Federal do Amazonas",
     "siglaUniversidade": "UFAM",
     "nomeProva": "Prova de conhecimentos gerais",
     "ano": 2019,
-    "qtdeQuestoes": 54
-  },
+    "qtdeQuestoes": 54,
   "questoes": [
     {
       "numeroEnunciado": 1,

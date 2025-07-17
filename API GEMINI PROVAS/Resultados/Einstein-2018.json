@@ -1,11 +1,11 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "Faculdade Israelita de Ciências da Saúde Albert Einstein",
     "siglaUniversidade": "Albert Einstein",
     "nomeProva": "Vestibular",
     "ano": 2018,
     "qtdeQuestoes": 50
-  },
+  ,
   "questoes": [
     {
       "numeroEnunciado": 1,

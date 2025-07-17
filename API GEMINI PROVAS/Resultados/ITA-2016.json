@@ -1,11 +1,10 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "Instituto Tecnológico de Aeronáutica",
     "siglaUniversidade": "ITA",
     "nomeProva": "Vestibular",
     "ano": 2016,
-    "qtdeQuestoes": 100
-  },
+    "qtdeQuestoes": 100,
   "questoes": [
     {
       "numeroEnunciado": 1,

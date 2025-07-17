@@ -1,11 +1,10 @@
 {
-  "prova": {
+  
     "nomeUniversidade": "Universidade Estadual de Campinas",
     "siglaUniversidade": "UNICAMP",
     "nomeProva": "UNICAMP",
     "ano": 2023,
-    "qtdeQuestoes": 72
-  },
+    "qtdeQuestoes": 72,
   "questoes": [
     {
       "numeroEnunciado": 1,

@@ -1,78 +1,7 @@
 UNESP:
 Unesp 2017:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2017/1fase/UNESP2017_1fase_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2017/1fase/UNESP2017_1fase_gabarito.pdf
-
-Unesp 2015:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2015/1fase/UNESP2015_1fase_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2015/1fase/UNESP2015_1fase_gabarito.pdf
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-ENEM:
-ENEM Dia 2 2023:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/2dia/enem2023_2dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/2dia/enem2023_2dia_gabarito_azul.pdf
-
-ENEM Dia 1 2023:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/1dia/enem2023_1dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/1dia/enem2023_1dia_gabarito_azul.pdf
-
-ENEM Dia 2 2022:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/2dia/enem2022_2dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/2dia/enem2022_2dia_gabarito_azul.pdf
-
-ENEM Dia 1 2022:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/1dia/enem2022_1dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/1dia/enem2022_1dia_gabarito_azul.pdf
-
-ENEM Dia 2 2021:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2021/2dia/enem2021_2dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2021/2dia/enem2021_2dia_gabarito_azul.pdf
-
-ENEM Dia 1 2021:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2021/1dia/enem2021_1dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2021/1dia/enem2021_1dia_gabarito_azul.pdf
-
-ENEM Dia 2 2020:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2020/presencial/2dia/enem2020_2dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2020/presencial/2dia/enem2020_2dia_gabarito_azul.pdf
-
-ENEM Dia 1 2020:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2020/presencial/1dia/enem2020_1dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2020/presencial/1dia/enem2020_1dia_gabarito_azul.pdf
-
-ENEM Dia 2 2019:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2019/2dia/enem2019_2dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2019/2dia/enem2019_2dia_gabarito_azul.pdf
-
-ENEM Dia 1 2019:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2019/1dia/enem2019_1dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2019/1dia/enem2019_1dia_gabarito_azul.pdf
-
-ENEM Dia 2 2018:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2018/2dia/enem2018_2dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2018/2dia/enem2018_2dia_gabarito_azul.pdf
-
-ENEM Dia 1 2018:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2018/1dia/enem2018_1dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2018/1dia/enem2018_1dia_gabarito_azul.pdf
-
-ENEM Dia 2 2017:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2017/2dia/enem2017_2dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2017/2dia/enem2017_2dia_gabarito.pdf
-
-ENEM Dia 1 2017:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2017/enem2017_1dia_prova_azul.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2017/enem2017_1dia_gabarito.pdf
-
-ENEM Dia 2 2015:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2015/enem2015_2dia_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2015/enem2015_gabarito2dia.pdf
-
-ENEM Dia 1 2015:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2015/enem2015_1dia_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2015/enem2015_gabarito1dia.pdf
+prova - 
+gabarito - 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -167,22 +96,6 @@ Uerj 2019:
 prova -
 gabarito -
 
-Uerj 2018:
-prova - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2018_1eq_prova.pdf
-gabarito - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2018_1eq_gabarito.pdf
-
-Uerj 2017:
-prova - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2017_1eq_prova.pdf
-gabarito - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2017_1eq_gabarito.pdf
-
-Uerj 2016:
-prova - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2016_1eq_prova.pdf
-gabarito - https://www.vestibular.uerj.br/wp-content/uploads/2019/03/2016_1eq_gabarito.pdf
-
-Uerj 2015:
-prova - https://www.vestibular.uerj.br/wp-content/uploads/2019/04/2015_1eq_prova.pdf
-gabarito - https://www.vestibular.uerj.br/wp-content/uploads/2019/04/2015_1eq_gabarito_alterado.pdf
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 UFRJ:
@@ -242,36 +155,36 @@ prova -
 gabarito -
 
 Uff 2023:
-prova - http://www.coseac.uff.br/fmc/20231/provas/VestibularFMC2023-1_Prova.pdf
-gabarito - http://www.coseac.uff.br/fmc/20231/provas/VestibularFMC2023-1_Gabarito.pdf
+prova - 
+gabarito - 
 
 Uff 2022:
-prova - http://www.coseac.uff.br/fmc/20221/provas/VestibularFMC2022-1_Prova.pdf
-gabarito - http://www.coseac.uff.br/fmc/20221/provas/VestibularFMC2022-1_Gabarito.pdf
+prova - 
+gabarito - 
 
 Uff 2021:
-prova - http://www.coseac.uff.br/fmc/20211/provas/VestibularFMC2021-1_Prova.pdf
-gabarito - http://www.coseac.uff.br/fmc/20211/provas/VestibularFMC2021_1_GabaritoAPOS%20RECURSOS.pdf
+prova - 
+gabarito - 
 
 Uff 2020:
 prova -
 gabarito -
 
 Uff 2019:
-prova - http://www.coseac.uff.br/fmc/20191/provas/VestibularFMC2019-1_Prova.pdf
-gabarito - http://www.coseac.uff.br/fmc/20191/provas/VestibularFMC2019-1_GabaritoFinal.pdf
+prova - 
+gabarito - 
 
 Uff 2018:
-prova - http://www.coseac.uff.br/fmc/20181/provas/VestibularFMC2018-1_Prova.pdf
-gabarito - http://www.coseac.uff.br/fmc/20181/provas/VestibularFMC2018-1_Gabarito.pdf
+prova - 
+gabarito - 
 
 Uff 2017:
-prova - http://www.coseac.uff.br/fmc/20171/provas/VestibularFMC2017-1_Prova.pdf
-gabarito - http://www.coseac.uff.br/fmc/20171/provas/VestibularFMC2017-1_Gabarito.pdf
+prova - 
+gabarito - 
 
 Uff 2016:
-prova - http://www.coseac.uff.br/fmc/2016/provas/VestibularFMC2016-Cadernodeprovas.pdf
-gabarito - http://www.coseac.uff.br/fmc/2016/arquivos/VestibularFMC2016-GabaritoME-ComAlteracao.pdf
+prova - 
+gabarito - 
 
 Uff 2015:
 prova -
@@ -1526,28 +1439,16 @@ prova -
 gabarito - 
 
 Famema 2021:
-prova - https://focomedicina.com.br/wp-content/uploads/2024/12/PROVA-1-2021.pdf
-gabarito - https://focomedicina.com.br/wp-content/uploads/2024/12/GABARITO-2021.pdf
+prova - 
+gabarito - 
 
 Famema 2020:
-prova - https://focomedicina.com.br/wp-content/uploads/2024/12/PROVA-1-2020.pdf
-gabarito - https://focomedicina.com.br/wp-content/uploads/2024/12/GABARITO-2020.pdf
+prova - 
+gabarito - 
 
 Famema 2019:
 prova - 
 gabarito - 
-
-Famema 2018:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2018/famema2018_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2018/famema2018_gabarito.pdf
-
-Famema 2017:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2017/famema2017_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2017/famema2017_gabarito.pdf
-
-Famema 2016:
-prova - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2016/famema2016_prova.pdf
-gabarito - https://www.curso-objetivo.br/vestibular/resolucao-comentada/famema/2016/famema2016_gabarito.pdf
 
 Famema 2015:
 prova - 
@@ -1610,41 +1511,9 @@ gabarito -
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 UERR
-Uerr 2025:
-prova - https://souvetor.com/wp-content/uploads/2025/05/Prova-objetiva-redacao-UERR-2025.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2025/05/GABARITOS-OFICIAIS-PRELIMINARES-UERR-2025.pdf
-
-Uerr 2024:
-prova - https://souvetor.com/wp-content/uploads/2023/10/UERR-2023-Prova.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/10/UERR-2023-Gabarito-Preliminar.pdf
-
-Uerr 2023:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2022-PROVA.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2022-GABARITO.pdf
-
-Uerr 2022:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2021-PROVA.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2021-GABARITO.pdf
-
 Uerr 2021:
 prova - 
 gabarito - 
-
-Uerr 2020:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2020-PROVA.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2020-GABARITO.pdf
-
-Uerr 2019:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2019-PROVA.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2019-GABARITO.pdf
-
-Uerr 2018:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2018-PROVA.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2018-GABARITO.pdf
-
-Uerr 2017:
-prova - https://souvetor.com/wp-content/uploads/2023/06/UERR-2017-PROVA.pdf
-gabarito - https://souvetor.com/wp-content/uploads/2023/06/UERR-2017-GABARITO.pdf
 
 Uerr 2016:
 prova - 
