@@ -664,22 +664,3 @@ gabarito -
 Unichristus 2015:
 prova -
 gabarito -
-
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-MACKENZIE:
-Mackenzie 2025:
-prova - 
-gabarito - 
-
-Mackenzie 2023:
-prova - 
-gabarito - 
-
-Mackenzie 2022:
-prova - 
-gabarito - 
-
-Mackenzie 2021:
-prova - 
-gabarito - 
