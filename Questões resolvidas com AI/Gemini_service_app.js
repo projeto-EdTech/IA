@@ -9,9 +9,7 @@ const GABARITO = "2.10-8 A";
 
 const prompt = `
 Você receberá uma questão de vestibular com o enunciado e a alternativa correta já conhecida.
-
 Sua tarefa é explicar, de forma **clara, objetiva e didática**, o raciocínio necessário para chegar até a alternativa correta. Não analise ou mencione as outras alternativas.
-
 Adapte o estilo da explicação conforme a natureza da questão:
 - Se for uma questão de **exatas** (Matemática, Física, Química), use fórmulas e mostre o passo a passo dos cálculos.
 - Se for uma questão de **biológicas ou humanas** (História, Biologia, Geografia, Filosofia), explique com base nos conceitos teóricos e contexto histórico ou científico.

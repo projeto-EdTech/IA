@@ -9,53 +9,6 @@ gabarito -
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-UFMG:
-Ufmg 2025:
-prova -
-gabarito -
-
-Ufmg 2024:
-prova -
-gabarito -
-
-Ufmg 2023:
-prova -
-gabarito -
-
-Ufmg 2022:
-prova -
-gabarito -
-
-Ufmg 2021:
-prova -
-gabarito -
-
-Ufmg 2020:
-prova -
-gabarito -
-
-Ufmg 2019:
-prova -
-gabarito -
-
-Ufmg 2018:
-prova -
-gabarito -
-
-Ufmg 2017:
-prova -
-gabarito -
-
-Ufmg 2016:
-prova -
-gabarito -
-
-Ufmg 2015:
-prova -
-gabarito -
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 UFPR:
 Ufpr 2025:
 prova -
