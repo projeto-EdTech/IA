@@ -1,0 +1,1829 @@
+{
+  "nomeUniversidade": "Universidade do Estado do Rio de Janeiro",
+  "siglaUniversidade": "UERJ",
+  "nomeProva": "Vestibular Estadual",
+  "ano": 2024,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O tempo incomoda (título)\nporque pensar no tempo não é nada confortável. (l. 8-9)\nDentre as frases a seguir, aquela que se contrapõe à visão sobre o tempo contida nas afirmações citadas acima é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Não dá para esperar dele respostas absolutas. (l. 30)"
+        },
+        {
+          "letra": "B",
+          "texto": "Saímos com a sensação de que ele é, de certo modo, indecifrável. (l. 30-31)"
+        },
+        {
+          "letra": "C",
+          "texto": "E esse talvez seja o seu grande charme. (l. 31)"
+        },
+        {
+          "letra": "D",
+          "texto": "Se fosse um personagem, com certeza debocharia das tentativas da humanidade de entendê-lo.\n(l. 31-32)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Em um experimento, dois relógios idênticos e sincronizados apresentam uma diferença perceptível na medida do tempo. Um dos relógios se encontra em repouso, enquanto o outro está em movimento a uma velocidade escalar v constante, próxima à velocidade escalar c da luz. Segundo a teoria da relatividade de Albert Einstein, entre o intervalo de tempo Δt₁, medido pelo relógio em repouso, e o intervalo de tempo Δt₂, medido pelo relógio em movimento, observa-se a seguinte relação:\n\nΔt₁ = Δt₂ / √(1 - v²/c²)\n\nConsidere que o deslocamento do relógio ocorre à velocidade v = 12c/13 durante Δt₂ = 10 segundos.\nLogo, o tempo Δt₁, em segundos, decorrido no relógio em repouso, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "28"
+        },
+        {
+          "letra": "B",
+          "texto": "26"
+        },
+        {
+          "letra": "C",
+          "texto": "24"
+        },
+        {
+          "letra": "D",
+          "texto": "22"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Relatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "O próprio conceito de tempo passou por revoluções. Até o começo do século 20, a física o tratava como algo absoluto e uniforme, independentemente de quem o medisse. (l. 16-17)\nConsiderando a sequência de ideias apresentadas no 5º parágrafo, a segunda frase do trecho citado poderia ser introduzida pela seguinte expressão:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "além disso"
+        },
+        {
+          "letra": "B",
+          "texto": "no entanto"
+        },
+        {
+          "letra": "C",
+          "texto": "desse modo"
+        },
+        {
+          "letra": "D",
+          "texto": "por exemplo"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Coesão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A noção de tempo é fundamental. A sociedade é atual, mas a paisagem, pelas suas formas, é composta de atualidades de hoje e do passado. O espaço construído que daí resulta é variado. Formas de idades diferentes, com finalidades e funções múltiplas, são organizadas e dispostas de diversas maneiras. Cada movimento da sociedade lhes atribui um novo papel.\nAdaptado de SANTOS, Milton. Pensando o espaço do homem. São Paulo: Edusp, 2007.\nNo fragmento acima, o autor expõe uma concepção sobre a relação entre tempo e espaço urbano.\nA paisagem citadina que melhor exemplifica essa concepção é:\n(Imagens de paisagens urbanas diferentes)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(Imagem A, bondes e aqueduto)"
+        },
+        {
+          "letra": "B",
+          "texto": "(Imagem B, edifícios modernos e esplanada)"
+        },
+        {
+          "letra": "C",
+          "texto": "(Imagem C, casas em favela)"
+        },
+        {
+          "letra": "D",
+          "texto": "(Imagem D, santuário religioso)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "O menor tempo medido em laboratório ocorreu na escala de zeptossegundos e corresponde ao intervalo Δt em que uma partícula de luz percorre a distância que separa os centros atômicos de uma única molécula de hidrogênio. Uma unidade de zeptossegundo equivale a 10⁻²¹ segundo.\nAdmita que a velocidade da luz seja de 3 × 10⁸ m/s e que a distância entre os centros atômicos de uma molécula de hidrogênio seja de 7,2 × 10⁻¹¹ metro.\nNessas condições, no referencial da partícula de luz, o valor de Δt, em zeptossegundos, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "120"
+        },
+        {
+          "letra": "B",
+          "texto": "180"
+        },
+        {
+          "letra": "C",
+          "texto": "240"
+        },
+        {
+          "letra": "D",
+          "texto": "320"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "O quadro de Dalí, ao contrário do que muitos pensam, é bastante pequeno (24 x 33 cm). No entanto, não deixa de exercer fascínio no Museu de Arte Moderna de Nova York (MoMA). Segundo o próprio pintor, duas foram as suas fontes de inspiração para a obra: os queijos Camembert e a teoria da relatividade de Einstein.\nA obra de Salvador Dalí associa tempo e memória.\nEssa associação pode ser estabelecida de acordo com o princípio da:\n(\"A persistência da memória\", Salvador Dalí, 1931. Adaptado de historia-arte.com.)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "linearidade"
+        },
+        {
+          "letra": "B",
+          "texto": "progressividade"
+        },
+        {
+          "letra": "C",
+          "texto": "mensurabilidade"
+        },
+        {
+          "letra": "D",
+          "texto": "condicionalidade"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Arte – Análise de obra de arte"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "COM BASE NO TEXTO A SEGUIR, RESPONDA ÀS QUESTÕES 07 E 08.\nOs chamados radicais livres, que resultam de reações de oxidação no interior das células eucariontes, podem produzir mutações gênicas, contribuindo, por exemplo, para o envelhecimento dos tecidos ao longo do tempo. Esses radicais são degradados pela enzima superóxido dismutase, processo que gera uma substância tóxica. Essa substância, por sua vez, é decomposta pela catalase no interior de uma estrutura celular específica.\nA estrutura celular onde ocorre a decomposição da substância tóxica referida no texto é denominada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "peroxissomos"
+        },
+        {
+          "letra": "B",
+          "texto": "fagossomos"
+        },
+        {
+          "letra": "C",
+          "texto": "ribossomos"
+        },
+        {
+          "letra": "D",
+          "texto": "lisossomos"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Biologia Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "O ânion superóxido é uma espécie química oxidante que possui dois átomos de oxigênio e carga –1, sendo capaz de formar compostos binários com metais alcalinos e alcalino-terrosos.\nSabendo que o cálcio é um metal alcalino-terroso, a fórmula química do superóxido de cálcio corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "CaO₂"
+        },
+        {
+          "letra": "B",
+          "texto": "CaO₄"
+        },
+        {
+          "letra": "C",
+          "texto": "Ca₂O"
+        },
+        {
+          "letra": "D",
+          "texto": "Ca₂O₄"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Inorgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "AS QUESTÕES 09 A 22 REFEREM-SE AO ROMANCE O MEU AMIGO PINTOR, DE LYGIA BOJUNGA (Rio de Janeiro: Casa Lygia Bojunga, 2015).\nO suicídio é um tema central em O Meu Amigo Pintor.\nCom base no comportamento dos personagens adultos, deduz-se que esse tema se caracteriza como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "interditado"
+        },
+        {
+          "letra": "B",
+          "texto": "incoerente"
+        },
+        {
+          "letra": "C",
+          "texto": "irrelevante"
+        },
+        {
+          "letra": "D",
+          "texto": "inevitável"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "No livro, os capítulos são nomeados por dias da semana.\nEssa representação do tempo e o modo como os eventos são abordados contribuem para construir uma narrativa baseada no seguinte aspecto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "concepção trágica"
+        },
+        {
+          "letra": "B",
+          "texto": "enfoque jornalístico"
+        },
+        {
+          "letra": "C",
+          "texto": "ambientação poética"
+        },
+        {
+          "letra": "D",
+          "texto": "caráter memorialístico"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Elementos da narrativa"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Na relação entre o menino Cláudio e seu Amigo, a pintura é tratada como uma forma de linguagem, cuja leitura pode ser aprendida.\nNesse contexto, as cores adquirem significações, como se observa em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "eu só pensava na Janaína vestida naquele vermelhão todo. (p. 19)"
+        },
+        {
+          "letra": "B",
+          "texto": "mas fui amarelando lá pro fim da tarde. (p. 45)"
+        },
+        {
+          "letra": "C",
+          "texto": "no dia seguinte amanheceu um céu azul bonito mesmo. (p. 46)"
+        },
+        {
+          "letra": "D",
+          "texto": "falou de verde: forte, fraco, verde de tudo que é tom. (p. 62)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Gente, casa, livro, é sempre igual: primeiro eu fico olhando pra cor do olho, da porta, da capa; (p. 10)\nOlhei, olhei, toca a olhar. E de repente eu entendi direitinho o que ele tinha falado! (p. 11)\nConsiderando a organização das palavras nos trechos sublinhados, o emprego das vírgulas indica as funções, respectivamente, de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "descrever cena – explicar atitude"
+        },
+        {
+          "letra": "B",
+          "texto": "particularizar objetos – detalhar sensação"
+        },
+        {
+          "letra": "C",
+          "texto": "apresentar gradação – enfatizar diferenças"
+        },
+        {
+          "letra": "D",
+          "texto": "exemplificar elementos – reforçar repetição"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "De repente, comecei a me sentir todo escuro por dentro. Tão escuro que não dava pra enxergar mais nada dentro de mim. (p. 13)\nO trecho em destaque assume, no contexto, valor de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "proporção"
+        },
+        {
+          "letra": "B",
+          "texto": "explicação"
+        },
+        {
+          "letra": "C",
+          "texto": "adversidade"
+        },
+        {
+          "letra": "D",
+          "texto": "consequência"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "O teu Amigo Pintor foi pro inferno.\nLevei um susto tão grande que a fala nem saiu logo. Ela disse:\n– Ele se matou. E diz que quem se mata vai pro inferno.\n(...)\nEmpurrei o diabo da garota longe e vim m'embora. (p. 21-23)\nA passagem acima indica certa compreensão do suicídio, associada a algumas crenças. Em relação a tal compreensão, a alternância entre as palavras “inferno” e “diabo” nas falas dos personagens sugere uma crítica.\nEssa crítica se constrói por meio da seguinte figura de linguagem:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ironia"
+        },
+        {
+          "letra": "B",
+          "texto": "antítese"
+        },
+        {
+          "letra": "C",
+          "texto": "metáfora"
+        },
+        {
+          "letra": "D",
+          "texto": "eufemismo"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "eu não curto aquele síndico. Uma vez ele disse que pintor que pinta mulher amarela é porque não sabe pintar mulher como ela é.\nTipo do cara que não saca nada de arte, não é? (p. 28)\nNo trecho, o narrador critica uma fala do síndico sobre a arte.\nA afirmação que reforça a crítica do narrador está presente em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "quanto mais a gente prestava atenção numa cor, mais coisa saía de dentro dela. (p. 11)"
+        },
+        {
+          "letra": "B",
+          "texto": "Porque ele era um cara quieto demais, tinha mania de só fazer coisa que não faz barulho:\n(p. 12-13)"
+        },
+        {
+          "letra": "C",
+          "texto": "cada batida que o relógio ia batendo dava mais a impressão que todo mundo tinha se enganado\n(p. 14)"
+        },
+        {
+          "letra": "D",
+          "texto": "eu sentia dentro de mim uma coisa diferente que eu não entendia o que que era. (p. 19)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "até o cochicho dele é um cochichão que a gente ouve lá da esquina. E então ele foi cochichãozando que o meu Amigo tinha ficado marcado (p. 29)\nUma das características da escrita de Lygia Bojunga é a criação de palavras, como as sublinhadas acima.\nNo trecho, o segmento adicionado à palavra cochichão para formar cochichãozando indica noção de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "modo"
+        },
+        {
+          "letra": "B",
+          "texto": "processo"
+        },
+        {
+          "letra": "C",
+          "texto": "finalidade"
+        },
+        {
+          "letra": "D",
+          "texto": "intensidade"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Quando eu abri a porta, dois caras disseram que eram da polícia e me mandaram embora: queriam ficar sozinhos com o meu Amigo pra interrogar ele. Depois a gente ficou sabendo que o síndico tinha ido na polícia dizer que o meu Amigo estava morando aqui no prédio.\n(...)\n– Será que ele achava que ia ser preso de novo? – a minha mãe perguntou. (p. 28-30)\nA primeira versão de O Meu Amigo Pintor foi publicada logo após o fim da ditadura militar (1964-1985) no Brasil.\nConsiderando esse período da história, o trecho destacado acima e o conjunto da narrativa, pode-se especular que o suicídio do pintor teria como causa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desencontro amoroso"
+        },
+        {
+          "letra": "B",
+          "texto": "inabilidade artística"
+        },
+        {
+          "letra": "C",
+          "texto": "repressão política"
+        },
+        {
+          "letra": "D",
+          "texto": "conflito familiar"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil (Ditadura Militar)"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "No primeiro sonho relatado no livro, o narrador se encontra em um teatro e acaba subindo ao palco para contar uma história.\nPode-se inferir que a história contada manifesta o seguinte desejo do narrador em relação a seu Amigo Pintor:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "revelar a extensão de sua coragem"
+        },
+        {
+          "letra": "B",
+          "texto": "conquistar atenção para seu talento"
+        },
+        {
+          "letra": "C",
+          "texto": "encontrar explicação para sua morte"
+        },
+        {
+          "letra": "D",
+          "texto": "compreender a significação de sua arte"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Os dois-pontos estabelecem coesão entre partes de uma frase, introduzindo diferentes ideias.\nOs dois-pontos introduzem ideia de modo em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Então eu vim pra casa com aquela frase voltando sempre na minha cabeça: ele morreu que nem todo mundo um dia morre. (p. 25)"
+        },
+        {
+          "letra": "B",
+          "texto": "E quanto mais eu achava, mais o meu amarelo também ia ficando com cara de síndico, e mais eu ia me sentindo feito o barco: todo rodeado de cor-de-saudade. (p. 34)"
+        },
+        {
+          "letra": "C",
+          "texto": "eu estava sentado bem atrás, mas deu pra ver que a mão era mesmo dele: estava suja de tinta e segurando um pincel (p. 41)"
+        },
+        {
+          "letra": "D",
+          "texto": "Gozado: o meu Amigo também pensava assim de pé, com jeito de quem está só olhando pra rua. (p. 76)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Coesão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "No livro, há passagens em que o narrador não apenas narra algo, como também revela consciência do ato de narrar.\nUma dessas passagens está transcrita em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mas hoje teve uma hora que eu não estava a fim de olhar pra cara de ninguém. Então abri o álbum que ele tinha me dado. (p. 11)"
+        },
+        {
+          "letra": "B",
+          "texto": "Mas não era isso que eu queria contar. Eu queria era dizer que na terça-feira, quando cheguei da escola, eu fiquei sabendo que ele tinha morrido. (p. 13)"
+        },
+        {
+          "letra": "C",
+          "texto": "Mas lá pelas tantas eu ouvi o nome do meu Amigo e comecei a prestar atenção na conversa da sala. Tive que abrir a porta pra escutar o meu pai: (p. 29)"
+        },
+        {
+          "letra": "D",
+          "texto": "Mas o palco era todo da cor da cortina, e quem sentava na plateia ficava então só olhando pra saudade e mais nada. (p. 40)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Metaficção"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "acabei até sabendo que eu não tinha nada que separar Amigo pra cá e por que pra lá. O que eu tinha era que fazer o que ele fez com as folhas e com o azul do céu: juntar. (p. 85)\nO final do romance de Lygia Bojunga apresenta uma espécie de solução subjetiva de Cláudio, na tentativa de compreender o drama de seu Amigo Pintor.\nEssa solução pode ser expressa da seguinte maneira:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "arte se baseia na tristeza"
+        },
+        {
+          "letra": "B",
+          "texto": "pergunta projeta fantasia"
+        },
+        {
+          "letra": "C",
+          "texto": "pensamento implica afeto"
+        },
+        {
+          "letra": "D",
+          "texto": "insegurança leva à dúvida"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "quando a gente estuda literatura aprende que os escritores não devem se intrometer na vida dos personagens e livros que criam. Tornou-se uma regra que eu tenho desrespeitado. (p. 90)\nO trecho acima é extraído do posfácio do livro, no qual a autora de O Meu Amigo Pintor defende uma concepção sobre regras no campo literário.\nCom base no trecho citado, essa concepção pode ser resumida na seguinte premissa geral:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "regras são feitas para serem divulgadas"
+        },
+        {
+          "letra": "B",
+          "texto": "obras originais fundam suas próprias regras"
+        },
+        {
+          "letra": "C",
+          "texto": "leitores restringem regras de interpretação"
+        },
+        {
+          "letra": "D",
+          "texto": "artistas detestam seguir regras convencionais"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Teoria literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "HACER LAS COSAS MÁS DESPACIO Y VIVIR FELIZ\nEn su libro publicado en 2004, Elogio de la lentitud, Carl Honoré explicaba que se percató de su adicción a la velocidad mientras hacía cola para embarcar. Aunque el avión no iba a salir antes, por mucha impaciencia que tuviera, se notaba ansioso y maldecía que la puerta de embarque no se hubiera abierto ya. Al darse cuenta de su estado, empezó a hacerse preguntas: ¿Por qué estamos siempre tan apresurados? ¿Es posible hacer las cosas más despacio?\nEl texto propone una reflexión acerca de cómo el hombre se enfrenta al tiempo.\nEl fragmento que sostiene que el hombre puede tener control sobre cómo enfrentarse al tiempo es:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "con los agobios de la era digital, la aceleración con la que vivimos no ha hecho más que aumentar. (l. 9-10)"
+        },
+        {
+          "letra": "B",
+          "texto": "sin mirar por dónde vamos, corriendo como si el mundo acabara hoy. (l. 11-12)"
+        },
+        {
+          "letra": "C",
+          "texto": "somos nosotros los que decidimos correr o adoptar un ritmo más sereno. (l. 19-20)"
+        },
+        {
+          "letra": "D",
+          "texto": "Vivir desesperadamente ocupados nos mantiene en una excitación nerviosa permanente, (l. 26)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Espanhol – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "se notaba ansioso y maldecía que la puerta de embarque no se hubiera abierto ya. (l. 3)\nEn el primer párrafo, el autor discute el tema de la prisa que uno tiene para hacer las cosas.\nRespecto a ese tema, el fragmento destacado configura un recurso de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "generalización"
+        },
+        {
+          "letra": "B",
+          "texto": "conceptuación"
+        },
+        {
+          "letra": "C",
+          "texto": "ejemplificación"
+        },
+        {
+          "letra": "D",
+          "texto": "contraargumentación"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Espanhol – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "que en 1982 ya hablaba de la “enfermedad del tiempo” (l. 6-7)\nLa forma verbal subrayada arriba expresa un tipo de acción que se puede cualificar como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "puntual"
+        },
+        {
+          "letra": "B",
+          "texto": "reiterada"
+        },
+        {
+          "letra": "C",
+          "texto": "concluida"
+        },
+        {
+          "letra": "D",
+          "texto": "interrumpida"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Espanhol – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Para la presentación de su tesis sobre el ritmo acelerado de la vida actual, el autor del texto recurre en los dos primeros párrafos, principalmente, a la siguiente estrategia:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "referencias a dilemas"
+        },
+        {
+          "letra": "B",
+          "texto": "alusión a subentendidos"
+        },
+        {
+          "letra": "C",
+          "texto": "construcción de silogismo"
+        },
+        {
+          "letra": "D",
+          "texto": "argumentos de autoridad"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Espanhol – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "somos nosotros quienes podemos apagar ese interruptor (l. 25)\nEl trecho subrayado tiene función argumentativa y se basa en una figura de lenguaje conocida como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metáfora"
+        },
+        {
+          "letra": "B",
+          "texto": "hipérbole"
+        },
+        {
+          "letra": "C",
+          "texto": "metonimia"
+        },
+        {
+          "letra": "D",
+          "texto": "eufemismo"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Espanhol – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "POUR REGAGNER LE TEMPS PERDU (titre)\nÉtant donné la réflexion sur le temps proposée par le texte, on identifie dans son titre l'idée de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "changer le mode de vie"
+        },
+        {
+          "letra": "B",
+          "texto": "retrouver les moments passés"
+        },
+        {
+          "letra": "C",
+          "texto": "réduire les différences sociales"
+        },
+        {
+          "letra": "D",
+          "texto": "améliorer les conditions de travail"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Francês – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Le temps s'étire, l'horloge ne dicte plus l'agenda. Ouf ! (l. 2)\nL'interjection Ouf! exprime une réaction de l'auteur par rapport à l'affirmation qui la précède.\nCette réaction peut être comprise comme une manifestation de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fatigue"
+        },
+        {
+          "letra": "B",
+          "texto": "reproche"
+        },
+        {
+          "letra": "C",
+          "texto": "plaisanterie"
+        },
+        {
+          "letra": "D",
+          "texto": "soulagement"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Francês – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "la cadence infernale de notre société, (l. 10)\nLe fragment qui reprend la notion contenue dans l'expression ci-dessus c'est:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "financiarisation à outrance (l. 13)"
+        },
+        {
+          "letra": "B",
+          "texto": "dictature de l'urgence (l. 16)"
+        },
+        {
+          "letra": "C",
+          "texto": "conséquences de l'accélération (l. 17)"
+        },
+        {
+          "letra": "D",
+          "texto": "inégalités entre les riches et les pauvres (l. 17-18)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Francês – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "L'homme devrait travailler moins: (l. 19-20)\nDans l'affirmation, la forme du verbe devoir apporte le sens de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "un souhait passé"
+        },
+        {
+          "letra": "B",
+          "texto": "un projet irréalisable"
+        },
+        {
+          "letra": "C",
+          "texto": "une attente contrariée"
+        },
+        {
+          "letra": "D",
+          "texto": "une probabilité nulle"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Francês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "pour en profiter plutôt que de courir après. (l. 29)\nLe pronom dans le fragment ci-dessus reprend le mot suivant:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "vie"
+        },
+        {
+          "letra": "B",
+          "texto": "image"
+        },
+        {
+          "letra": "C",
+          "texto": "mouvement"
+        },
+        {
+          "letra": "D",
+          "texto": "ralentissement"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Francês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "THE BENEFITS OF SLOWING DOWN\nThe author presents a series of questions in the first paragraph.\nThese questions are used with the following purpose:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elicit data"
+        },
+        {
+          "letra": "B",
+          "texto": "give information"
+        },
+        {
+          "letra": "C",
+          "texto": "emphasize theme"
+        },
+        {
+          "letra": "D",
+          "texto": "assess knowledge"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "This harmful mindset results in burnout, poor decision-making and bad communication. (l. 3-4)\nThe sentence above lists some harmful mental attitudes that result in using speed as a measure of performance.\nBesides these, another result of hustle culture is the one below:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "take more steps back"
+        },
+        {
+          "letra": "B",
+          "texto": "follow a less efficient path"
+        },
+        {
+          "letra": "C",
+          "texto": "engage in longer discussions"
+        },
+        {
+          "letra": "D",
+          "texto": "design a more polished feature"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "It may seem counterintuitive, (l. 5)\nThe pronoun it refers to a certain idea present in the text.\nThis idea is found in the following fragment:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Hustle culture uses speed as a measure of performance. (l. 1)"
+        },
+        {
+          "letra": "B",
+          "texto": "This harmful mindset results in burnout, (l. 3)"
+        },
+        {
+          "letra": "C",
+          "texto": "we may not always have the luxury of slowness, (l. 16-17)"
+        },
+        {
+          "letra": "D",
+          "texto": "You may go slower, but you will go further. (l. 23-24)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "In the second paragraph, the author mentions three principles we can count on in our life and work. Each is presented in a separate paragraph, along lines 09 to 21.\nThe words that best represent the topic of each of the three paragraphs, respectively, are:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "efficiency – quickness – reality"
+        },
+        {
+          "letra": "B",
+          "texto": "slowness – experience – effort"
+        },
+        {
+          "letra": "C",
+          "texto": "blindness – equality – consistence"
+        },
+        {
+          "letra": "D",
+          "texto": "intentionality – quality – sustainability"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Helpful methods to slow down include journaling, (l. 25-26)\nThe underlined word may be substituted, without significant change in meaning, by the words below:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "writing in a diary"
+        },
+        {
+          "letra": "B",
+          "texto": "watching newscasts"
+        },
+        {
+          "letra": "C",
+          "texto": "listening to podcasts"
+        },
+        {
+          "letra": "D",
+          "texto": "reading a newspaper"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "A sequência (aₙ) = (0, 0, 5, 5, 0, ...), em que n ∈ IN, é definida por:\na₁ = a₂ = 0\na₃ = 5\naₙ = x, sendo x o algarismo da unidade simples da soma aₙ₋₁ + aₙ₋₂ + aₙ₋₃\nA soma dos 100 primeiros elementos da sequência (aₙ) é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "125"
+        },
+        {
+          "letra": "B",
+          "texto": "175"
+        },
+        {
+          "letra": "C",
+          "texto": "200"
+        },
+        {
+          "letra": "D",
+          "texto": "250"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Sequências numéricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Considere os seguintes números naturais:\nX = 3 x 5² x 2ʸ\nW = 120\nZ = 48\nSabendo que o máximo divisor comum de X, W e Z é 24, o valor de y é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Teoria dos Números"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "A figura a seguir representa um prisma reto com aresta lateral de 10 m. Sua base é um trapézio com três lados medindo 3 m e o quarto lado medindo 6 m.\n(Imagem de um prisma com base trapezoidal com medidas)\nO volume do prisma, em m³, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "135√3 / 2"
+        },
+        {
+          "letra": "B",
+          "texto": "155√3 / 2"
+        },
+        {
+          "letra": "C",
+          "texto": "175√3 / 2"
+        },
+        {
+          "letra": "D",
+          "texto": "195√3 / 2"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Os azulejos quadrados ABCD, DEFG e FHIJ foram dispostos em um mostruário, conforme ilustrado na imagem. Nesse arranjo, os vértices B, C, E, H e I são colineares.\n(Imagem com azulejos quadrados dispostos linearmente com pontos B, C, E, H, I colineares)\nAs medidas das áreas revestidas pelos azulejos ABCD, DEFG e FHIJ, em cm², são, respectivamente, 93, 157 e X.\nO lado, em centímetros, do azulejo de menor área é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Observe o plano cartesiano, no qual estão representadas as funções f e g:\n(Gráfico de duas funções, f e g, em um plano cartesiano com pontos de interesse P, W, 1 e 5 nos eixos)\nO ponto P de interseção entre os gráficos dessas funções possui abscissa w, cujo valor é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5/2"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "7/2"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Os clientes de um banco podem realizar apenas duas operações financeiras:\n• fazer investimentos que rendem juros compostos a uma taxa mensal de 1%; ou\n• pegar empréstimos com juros compostos a uma taxa mensal de 5%.\nO banco usa o dinheiro dos investimentos para conceder os empréstimos, obtendo lucro nessas transações.\nConsidere que um cliente X investiu R$ 1.000,00 e que o banco emprestou esse valor a um cliente Y. Após 12 meses, o cliente X recebeu o montante pela aplicação nesse período e Y quitou o empréstimo.\nAdmitindo (1,01)¹² = 1,13 e (1,05)¹² = 1,80, o lucro, em reais, obtido pelo banco com essas duas operações financeiras é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "470"
+        },
+        {
+          "letra": "B",
+          "texto": "520"
+        },
+        {
+          "letra": "C",
+          "texto": "670"
+        },
+        {
+          "letra": "D",
+          "texto": "820"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Matemática Financeira"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Para fazer o sorteio de um livro, quatro amigos colocaram três bolas brancas e duas pretas em uma caixa. Decidiram que o primeiro a retirar uma bola preta ficará com o livro. Na ordem alfabética de seus nomes, cada um retira uma bola, ao acaso, sem devolvê-la à caixa.\nA probabilidade de o terceiro amigo retirar a primeira bola preta e ficar com o livro é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10%"
+        },
+        {
+          "letra": "B",
+          "texto": "20%"
+        },
+        {
+          "letra": "C",
+          "texto": "30%"
+        },
+        {
+          "letra": "D",
+          "texto": "40%"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Dentre os elementos químicos do quinto período da tabela de classificação periódica, sabe-se que apenas o xenônio é encontrado no estado gasoso sob condições ambientes. Isso se explica pela alta estabilidade desse elemento, o que resulta em fracas interações interatômicas.\nA característica do xenônio que justifica essa estabilidade é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "maior raio atômico"
+        },
+        {
+          "letra": "B",
+          "texto": "energia de ionização nula"
+        },
+        {
+          "letra": "C",
+          "texto": "menor eletronegatividade"
+        },
+        {
+          "letra": "D",
+          "texto": "camada de valência completa"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Tabela Periódica"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Ao anoitecer, as células da retina envolvidas na percepção da luminosidade disparam sinais que estimulam a glândula pineal a produzir e secretar melatonina, hormônio responsável por preparar o organismo para o repouso. Por ser composta por uma porção hidrofílica e outra hidrofóbica, a melatonina penetra facilmente a membrana plasmática de diferentes tipos de células.\nEssa facilidade de penetração da melatonina deve-se à composição da membrana plasmática, que contém moléculas dos seguintes tipos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "polares e apolares"
+        },
+        {
+          "letra": "B",
+          "texto": "covalentes e iônicas"
+        },
+        {
+          "letra": "C",
+          "texto": "positivas e negativas"
+        },
+        {
+          "letra": "D",
+          "texto": "redutoras e oxidantes"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Biologia Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "RAIOS NAS TEMPESTADES DE VERÃO\nDa energia liberada por um raio, só uma pequena fração é convertida em energia elétrica; a maior parte se transforma em calor, luz, som e ondas de rádio. A fração convertida em energia elétrica é da ordem de 360 quilowatts-hora (kWh), aproximadamente o mesmo que consumiria uma lâmpada de LED de 100 watts (W) acesa durante alguns meses.\nAdaptado de cienciahoje.org.br.\nConsidere que um mês dura 30 dias e que uma lâmpada de LED funciona com a potência de 25 watts.\nEssa lâmpada consumirá a fração convertida em energia elétrica mencionada no texto em x meses.\nO valor de x é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletricidade e Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Os manguezais têm a capacidade de armazenar carbono, pois a ausência de oxigênio no solo desse ecossistema retarda, ou até impede, a decomposição da matéria orgânica soterrada.\nTendo em vista essa característica, a destruição dos manguezais pode contribuir, significativamente, para o seguinte fenômeno:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumento do efeito estufa"
+        },
+        {
+          "letra": "B",
+          "texto": "degradação da camada de ozônio"
+        },
+        {
+          "letra": "C",
+          "texto": "redução da magnificação trófica"
+        },
+        {
+          "letra": "D",
+          "texto": "fixação de nitrogênio atmosférico"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Durante uma ventania, uma árvore sofreu certa inclinação e, depois, retornou à posição inicial.\nNesse processo, um de seus frutos foi projetado e submetido à ação exclusiva da gravidade, descrevendo um arco de parábola. Observe no esquema a trajetória do fruto e as setas I, II, III e IV, que representam possíveis vetores de velocidade resultante na altura máxima.\n(Esquema mostrando a trajetória de um projétil e vetores de velocidade indicados como I, II, III, IV.)\nSabe-se que a altura máxima é alcançada pelo fruto alguns instantes após seu lançamento.\nNesse caso, o vetor velocidade resultante do fruto é representado pela seguinte seta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I"
+        },
+        {
+          "letra": "B",
+          "texto": "II"
+        },
+        {
+          "letra": "C",
+          "texto": "III"
+        },
+        {
+          "letra": "D",
+          "texto": "IV"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Observe a equação química que representa a hidrólise do carbeto de cálcio.\nCaC₂(s) + 2 H₂O(l) → Ca(OH)₂(aq) + C₂H₂(g)\nO nome do composto orgânico obtido nessa reação é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "etino"
+        },
+        {
+          "letra": "B",
+          "texto": "eteno"
+        },
+        {
+          "letra": "C",
+          "texto": "etanal"
+        },
+        {
+          "letra": "D",
+          "texto": "etanol"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Em determinadas condições, nanopartículas podem ser impulsionadas como um foguete pela simples interação com o meio. Admita que, em um dado instante, uma dessas partículas, com massa de 9,0 × 10⁻²⁶ kg, adquire velocidade de 2,0 × 10² m/s.\nCom base nessas informações, a ordem de grandeza da quantidade de movimento dessa partícula é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10⁻²⁰"
+        },
+        {
+          "letra": "B",
+          "texto": "10⁻²¹"
+        },
+        {
+          "letra": "C",
+          "texto": "10⁻²²"
+        },
+        {
+          "letra": "D",
+          "texto": "10⁻²³"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Mecânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Em um dispositivo, é inserida uma mistura heterogênea de água e óleo. A mistura passa por um processo de separação e, com o auxílio de uma torneira, regula-se a saída do líquido de maior densidade, conforme ilustrado abaixo.\n(Esquema de um funil de decantação com óleo e água, e uma torneira)\nTal processo de separação é denominado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "filtração"
+        },
+        {
+          "letra": "B",
+          "texto": "decantação"
+        },
+        {
+          "letra": "C",
+          "texto": "destilação"
+        },
+        {
+          "letra": "D",
+          "texto": "sublimação"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Métodos de Separação de Misturas"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Para aumentar a eficiência energética de uma caldeira industrial, pesquisadores realizaram um teste que verificou a expansão volumétrica de uma amostra de gás ideal em função da temperatura.\nObserve os resultados no gráfico:\n(Gráfico de Volume (L) versus Temperatura (K) para um gás ideal, com pontos em 300K, 450K, 600K e 500L, 1000L, 1500L)\nAdmita que o processo de expansão volumétrica ocorre à pressão constante de 8 atm e que a constante universal dos gases ideais é de 0,08 atm.L/mol.K.\nAo atingir a temperatura máxima, o número de mols da amostra de gás corresponderá a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100"
+        },
+        {
+          "letra": "B",
+          "texto": "150"
+        },
+        {
+          "letra": "C",
+          "texto": "200"
+        },
+        {
+          "letra": "D",
+          "texto": "250"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Quadros de pneumonia podem ocorrer quando, além do ar, algum corpo estranho entra nas vias respiratórias.\nUma explicação para a possibilidade de entrada desses corpos estranhos é a comunicação entre o sistema respiratório e o seguinte sistema:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nervoso"
+        },
+        {
+          "letra": "B",
+          "texto": "excretor"
+        },
+        {
+          "letra": "C",
+          "texto": "digestório"
+        },
+        {
+          "letra": "D",
+          "texto": "circulatório"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Anatomia e Fisiologia Humanas"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Para a produção de uma solução antisséptica à base de iodo, foram empregados 0,02 mol de I₂, 0,06 mol de KI e determinada quantidade de água.\nA massa total de iodo, em gramas, presente nessa solução é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,08"
+        },
+        {
+          "letra": "B",
+          "texto": "7,62"
+        },
+        {
+          "letra": "C",
+          "texto": "12,70"
+        },
+        {
+          "letra": "D",
+          "texto": "15,00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A natureza semiconservativa do processo de duplicação do DNA foi demonstrada experimentalmente pelos biólogos Matthew Meselson e Franklin Stahl. Esse experimento foi realizado em duas etapas, descritas a seguir.\nEtapa 1: amostras de uma bactéria foram cultivadas em um meio de cultura onde a única fonte de nitrogênio era o isótopo pesado ¹⁵N.\nEtapa 2: bactérias resultantes da etapa 1 foram cultivadas durante três gerações em um novo meio contendo apenas o isótopo leve ¹⁴N.\nObserve o esquema que representa o início da etapa 2, quando ocorreu duplicação do DNA das bactérias da geração parental até a primeira geração. Os filamentos em vermelho são formados por ¹⁵N e os em azul, por ¹⁴N.\n(Esquema mostrando a replicação de DNA semiconservativa da geração parental para a primeira geração, com filamentos vermelhos (¹⁵N) e azuis (¹⁴N).)\nNa terceira geração das bactérias cultivadas na etapa 2, o percentual de moléculas de DNA que apresentam apenas filamentos compostos por ¹⁴N é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25%"
+        },
+        {
+          "letra": "B",
+          "texto": "50%"
+        },
+        {
+          "letra": "C",
+          "texto": "75%"
+        },
+        {
+          "letra": "D",
+          "texto": "100%"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Biologia Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "NÃO DEIXEM ACABAR COM OS IANOMÂMIS\nIanomâmi. Talvez você nunca tenha ouvido falar nesse nome. Pois saiba que é o nome genérico de cerca de 8400 brasileiros, gente boa que vive em 203 cabanas, no interior da floresta tropical, bem na fronteira com a Venezuela. Formam 14% da população de Roraima e encontram-se ainda no Amazonas.\nOs ianomâmis correm no momento um grande risco e estão precisando de você. Cabe a você interessar-se pelo projeto de um grupo de antropólogos, juristas, médicos e jornalistas, que visa a proteger a vida pacífica dos ianomâmis, nos locais que habitam, e dentro do tipo de cultura que é tradicionalmente o deles. Esse projeto, ou anteprojeto, propõe a criação do Parque Indígena Ianomâmi.\nEssa é a única maneira de salvar a comunidade social e cultural desses homens, mulheres e crianças que desde 1974 vêm sofrendo as consequências do processo de expansão econômica da Amazônia em sua parte negativa, sem se beneficiar com suas possíveis vantagens. A abertura da Perimetral Norte, BR-210, levou àquela região gripe, sarampo, tuberculose, moléstias de pele e doenças venéreas. O garimpo irrompeu como outra modalidade da doença. Em 1978, é a Cia. Vale do Rio Doce que se apresta para extrair a cassiterita, antes explorada ilegalmente pelos garimpeiros. E a Perimetral Norte vai prosseguir, fornecendo espaço à colonização. Topógrafos percorrem o território ianomâmi, demarcando lotes em terras insofismavelmente pertencentes aos índios.\nCARLOS DRUMMOND DE ANDRADE\nAdaptado de Caderno Ilustrado, Folha de S. Paulo, 02/08/1979.\nEm seu artigo de 1979, o escritor Carlos Drummond de Andrade situa circunstâncias do projeto de criação do Parque Indígena Ianomâmi, no contexto das ações de exploração da Amazônia durante os governos militares (1964-1985).\nA defesa da criação desse Parque, naquela conjuntura, tinha como objetivo tornar pública a seguinte problemática:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "extermínio de povos originários"
+        },
+        {
+          "letra": "B",
+          "texto": "aviltamento de riquezas naturais"
+        },
+        {
+          "letra": "C",
+          "texto": "irracionalidade de agentes estatais"
+        },
+        {
+          "letra": "D",
+          "texto": "lucratividade de empresas privadas"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil (Ditadura Militar, Questões Indígenas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "A Copa do Mundo de 2022 ocorreu nos meses de novembro e dezembro, por conta das peculiaridades climáticas do Catar, país que sediou o evento. Observe as variações das temperaturas médias ao longo do dia para cada mês do ano na capital, Doha.\n(Gráfico: TEMPERATURA MÉDIA EM DOHA (por hora) - um mapa de calor mostrando a temperatura média por hora ao longo dos meses do ano, com indicação do período da Copa.)\nCAROLINE SOUZA e GABRIEL ZANLORENSSI\nAdaptado de nexojornal.com.br, 17/11/2022.\nCom base nas informações apresentadas, infere-se que a latitude aproximada do Catar é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "05° N"
+        },
+        {
+          "letra": "B",
+          "texto": "25° N"
+        },
+        {
+          "letra": "C",
+          "texto": "45° N"
+        },
+        {
+          "letra": "D",
+          "texto": "65° N"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A charge de Laerte está inserida em um conjunto de críticas ao governo federal de 2019 a 2022, indicando também expectativas quanto à promoção de mudanças com o fim desse mandato.\n(Charge de Laerte mostrando um cesto de lixo vazio, depois um avião de papel voando e por fim uma planta florescendo sobre o lixo. LAERTE, folha.uol.com.br, fevereiro/2023)\nConsiderando a conjuntura política da transição governamental mencionada, uma correlação adequada entre crítica e expectativa é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estatismo e privatismo"
+        },
+        {
+          "letra": "B",
+          "texto": "nacionalismo e liberalismo"
+        },
+        {
+          "letra": "C",
+          "texto": "negacionismo e ambientalismo"
+        },
+        {
+          "letra": "D",
+          "texto": "identitarismo e multiculturalismo"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Análise Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Segundo as projeções da Organização das Nações Unidas (ONU), a população mundial ultrapassou a marca dos oito bilhões de habitantes no dia 15 de novembro de 2022. O planeta nunca tinha abrigado tantas pessoas ao mesmo tempo. Com essa dinâmica populacional a que temos assistido nas últimas décadas, verifica-se a ampliação do número de megacidades.\n(Mapa: MEGACIDADES NO MUNDO - Aglomerados com mais de dez milhões de habitantes em 1950, 1975, 2007 e 2025 (valor projetado). Adaptado de publico.pt, 15/11/2022; Adaptado de i.pinimg.com.)\nDe acordo com o mapa, um continente teve o maior acréscimo de megacidades no século XXI.\nEsse acréscimo é explicado, principalmente, pelo seguinte processo social ocorrido nos últimos cinquenta anos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mecanização agrícola"
+        },
+        {
+          "letra": "B",
+          "texto": "crescimento industrial"
+        },
+        {
+          "letra": "C",
+          "texto": "aumento da fertilidade"
+        },
+        {
+          "letra": "D",
+          "texto": "modernização da telefonia"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "(Cartaz: PARA SEU GOVERNO - Getúlio Vargas com a frase \"NINGUÉM ARREBATA DAS MINHAS MÃOS A BANDEIRA NACIONALISTA\", e abaixo \"PETROBRÁS\" e \"O OURO NEGRO QUE DARÁ A INDEPENDÊNCIA DO BRASIL\".)\nmemorialdademocracia.com.br\nCriada durante o governo de Getúlio Vargas (1950-1954), em um contexto de intensos debates e mobilizações associados à campanha “O petróleo é nosso”, a Petrobras se vinculou, naquela época, à valorização da “bandeira nacionalista”, conforme se observa no cartaz.\nNo que diz respeito à exploração do petróleo, essa valorização esteve manifesta na seguinte atribuição da empresa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "monopólio estatal da extração, do refino e do transporte"
+        },
+        {
+          "letra": "B",
+          "texto": "regulação fiscal da produção, dos insumos e da tributação"
+        },
+        {
+          "letra": "C",
+          "texto": "controle institucional da distribuição, da importação e da exportação"
+        },
+        {
+          "letra": "D",
+          "texto": "supervisão administrativa da mão de obra, de treinamentos e da terceirização"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil (Era Vargas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "EMPRESAS INSTALADAS NO VALE DO SILÍCIO\n(Mapa mostrando a concentração de empresas de tecnologia na região do Vale do Silício, Califórnia, EUA. Fontes: cdn0.vox-cdn.com / cdn3.vox-cdn.com.)\nNo mapa, observa-se uma concentração de empresas na região do Vale do Silício.\nEssa concentração espacial se explica, principalmente, pelo seguinte fator:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "concessão de incentivos fiscais"
+        },
+        {
+          "letra": "B",
+          "texto": "proximidade de recurso mineral"
+        },
+        {
+          "letra": "C",
+          "texto": "disponibilidade de energia barata"
+        },
+        {
+          "letra": "D",
+          "texto": "abundância de trabalhadores qualificados"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Econômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "LEGENDA COM A PALAVRA MAPA\nTebas, Madian, Monte Hor,\nesfingéticos nomes.\nIdumeia, Efraim, Gilead,\nhistórias que dispensam meu concurso.\nOs mapas me descansam,\nmais em seus desertos que em seus mares,\nonde não mergulho porque mesmo nos mapas são profundos,\nvoraginosos, indomesticáveis.\nComo pode o homem conceber o mapa?\nAqui rios, aqui montanhas, cordilheiras, golfos,\naqui florestas, tão assustadoras quanto os mares.\nAs legendas dos mapas são tão belas\nque dispensam as viagens. Você está louca, dizem-me,\num mapa é um mapa. Não estou, respondo.\nO mapa é a certeza de que existe O LUGAR,\no mapa guarda sangue e tesouros.\nDeus nos fala no mapa com sua voz geógrafa.\nPRADO, Adélia. Terra de Santa Cruz. Rio de Janeiro: Guanabara, 1986.\nNo poema de Adélia Prado, é enfatizada a seguinte função da linguagem cartográfica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressão da cultura"
+        },
+        {
+          "letra": "B",
+          "texto": "instrumento de precisão"
+        },
+        {
+          "letra": "C",
+          "texto": "espaço de representação"
+        },
+        {
+          "letra": "D",
+          "texto": "manifestação da tecnologia"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Há quem desdenhe das imagens e das representações visuais. Há quem alegue que elas não passam de \"ilustrações\" que simplesmente decoram e alegram os ambientes, os jornais, as paredes das casas e dos museus – seriam inocentes. Da minha parte, sou dessas pessoas que vivem tomadas pela potência das imagens e pelo poder que elas têm de revelar e criar valores, ideias, concepções de mundo. Por isso, não raro, viram elas mesmas a própria realidade.\nÉ esse o poder reflexivo das imagens e das obras visuais, pois ao reproduzir um contexto elas acabam, ao fim e ao cabo, por criá-lo. Transformam-se em parte constitutiva da imaginação. Muitas vezes lembramos, ou achamos que lembramos, de um evento a partir e por causa de uma imagem guardada num canto da memória.\nÉ possível dizer que nossa imaginação histórica é feita a partir de imaginários alheios; das construções visuais feitas por outras pessoas com seus interesses, contextos e especificidades.\nLILIA SCHWARCZ\nAdaptado de nexojornal.com.br, 22/11/2021.\nUma imagem que exemplifica a capacidade de construção da imaginação histórica, conforme enfatizado pela autora, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(Imagem A: \"Vista da Cidade Maurícia\" [atual Recife], Franz Post, 1647.)"
+        },
+        {
+          "letra": "B",
+          "texto": "(Imagem B: \"Proclamação da República\", Benedito Calixto, 1893.)"
+        },
+        {
+          "letra": "C",
+          "texto": "(Imagem C: \"Ponte de Santa Efigênia\", [atual centro de São Paulo], Jean-Baptiste Debret, 1827.)"
+        },
+        {
+          "letra": "D",
+          "texto": "(Imagem D: \"Os operários\", Tarsila do Amaral, 1933.)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Historiografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "O MASSACRE DE SOWETO\nEm 1974, o governo sul-africano emitiu um decreto exigindo o estudo do africâner nas escolas do país no mesmo nível do inglês. O africâner era língua majoritária entre a minoria branca que controlava o país. Estudantes negros se opuseram. Eles queriam estudar em seu idioma nativo (zulu) e em inglês.\nNo bairro negro de Soweto, em Joanesburgo, estudantes do Orlando West Institute planejaram uma série de ações contra essa lei, que entrou em vigor em janeiro de 1975. No dia 16 de junho de 1976, cerca de 3000 manifestantes, entre alunos e professores, começaram a protestar pacificamente. Aos poucos, outras pessoas se juntaram e estima-se que a marcha reuniu cerca de 10000 pessoas (algumas fontes dizem 20000), que percorreram as ruas com faixas e slogans como “Abaixo o africâner” e “Se aprendermos africâner, que Vorster (primeiro-ministro na época) aprenda zulu\".\nOs confrontos entre as forças de segurança e os manifestantes duraram todo o dia. O saldo oficial foi de 23 crianças mortas. Porém, a realidade foi bem diferente, já que o número de mortos chegou a 700 e o de feridos ultrapassou mil. Hector Pierterson, um estudante de 13 anos, foi o primeiro manifestante a cair morto. A fotografia daquele momento, feita pelo fotojornalista Sam Nzima, tornou-se um ícone da luta dos estudantes negros sul-africanos.\nCHEMA CABALLERO\nAdaptado de elpais.com, 14/06/2016.\nO regime de Apartheid na África do Sul instituiu a segregação racial e outras formas de controle social sobre as populações negras.\nA obrigatoriedade do ensino de africâner, destacada na reportagem, está relacionada à seguinte estratégia de dominação colonial:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hierarquização de identidades étnicas"
+        },
+        {
+          "letra": "B",
+          "texto": "diversificação de práticas educacionais"
+        },
+        {
+          "letra": "C",
+          "texto": "integração de pertencimentos nacionais"
+        },
+        {
+          "letra": "D",
+          "texto": "homogeneização de qualificações profissionais"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História da África"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "PAÍSES EUROPEUS MEMBROS DA OTAN\n(Mapa de países europeus, destacando os integrados à OTAN até 1990 e os integrados de 1990 a 2020. Adaptado de veja.abril.com.br.)\nA Organização do Tratado do Atlântico Norte (OTAN) foi criada em 1949 e, a partir da década de 1990, sofreu um processo de expansão, conforme mostra o mapa. Atualmente, a OTAN possui 31 membros.\nNo cenário das relações internacionais, essa expansão é decorrente do seguinte contexto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "projeção da China"
+        },
+        {
+          "letra": "B",
+          "texto": "continuação da Guerra Fria"
+        },
+        {
+          "letra": "C",
+          "texto": "extinção da União Soviética"
+        },
+        {
+          "letra": "D",
+          "texto": "implementação da multipolaridade"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "AS LIÇÕES DE POLÍTICA DE STAR WARS\nA política dentro do universo de Star Wars é dividida em dois grandes momentos: a República e o Império. Segundo a mitologia da série, a República foi fundada cerca de 20 mil anos antes dos eventos dos filmes. O sistema era formado por representantes dos milhares de planetas da galáxia, dividido nos três Poderes tradicionais: Executivo, Legislativo e Judiciário.\nO Legislativo, na República, era o Poder mais significativo e forte. Por meio do Senado Galáctico, decisões sociais e econômicas eram tomadas. O Poder Executivo era comandado pelo Chanceler Supremo, eleito pelo Senado a no máximo dois mandatos de quatro anos e com poderes limitados. O chanceler era somente o chefe de Estado e o mediador oral das sessões no Senado. Por fim, havia o Poder Judiciário, que investigava e julgava crimes.\nCESAR GAGLIONI\nAdaptado de nexojornal.com.br, 23/11/2021.\nNa mitologia da série Star Wars, a organização do poder político na fase da República se aproxima da estrutura encontrada no seguinte modelo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "parlamentarista"
+        },
+        {
+          "letra": "B",
+          "texto": "presidencialista"
+        },
+        {
+          "letra": "C",
+          "texto": "aristocrático"
+        },
+        {
+          "letra": "D",
+          "texto": "teocrático"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Teoria Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "AVENIDA BRASIL – TUDO PASSA, QUEM NÃO VIU? (1994)\nDe lá pra cá, daqui pra lá\nEu vou\nCom meu amor, vou viajando\nNessa Avenida\nPela faixa seletiva\nNo sufoco dessa vida\nTudo passa, quem não viu?\nUma confusão de coisas\nAssim é a Avenida Brasil\nLinha Vermelha vem cortando a Maré\nÉ a bailarina da cidade\nZiguezagueando eu vou\nOutra vez com a Mocidade\nDo importado à carroça\nO contraste social\nNesse rio de asfalto\nO dinheiro fala alto\nÉ a filosofia nacional\nSou passageiro da alegria\nO meu destino é o prazer\nPasso por ela todo dia\nE hoje ela passa por você\n(...)\nDIOGO DA VIOLA, JEFINHO e JORGE GANNEM\ngaleriadosamba.com.br\nAnalisar o território da Avenida Brasil, no Rio de Janeiro, é analisar uma cidade de contrastes e seus caminhos, os sentidos de sua ocupação. Desde sua inauguração, na década de 1940, houve momentos de aceleração e inércia, tal como acontece no percurso das pessoas que por ali transitam de trem, de ônibus, de van, de mototáxi, automóveis ou, até mesmo, carroças. Cumprindo o papel estratégico para o qual foi traçada, a Avenida facilitou o tráfego rumo ao \"centro da cidade\", ou para \"fora\" dela, para os subúrbios, para outras cidades do Grande Rio, ou para outros destinos. Assim, funcionou como importante eixo impulsionador da ocupação da área por indústrias, estabelecimentos e negócios urbanos nos anos 1940/1950.\nAdaptado de TORRES, Pedro. \"Avenida Brasil - tudo passa, quem não viu?\": formação e ocupação do subúrbio rodoviário no Rio de Janeiro (1930-1960). Revista Brasileira de Estudos Urbanos Regionais, São Paulo, 2018.\nTanto o samba-enredo da Mocidade Independente de Padre Miguel quanto o trecho do artigo acadêmico registram algumas mudanças ocorridas no território da Avenida Brasil ao longo dos anos. Tais mudanças se relacionam com o processo de urbanização da então capital da República.\nUm objetivo e um impacto socioeconômico associados à construção e à expansão da Avenida Brasil, nos anos 1940 e 1950, estão indicados, respectivamente, em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "modernização fabril – adequação ambiental"
+        },
+        {
+          "letra": "B",
+          "texto": "redistribuição comercial – especulação imobiliária"
+        },
+        {
+          "letra": "C",
+          "texto": "racionalização das acessibilidades — padronização viária"
+        },
+        {
+          "letra": "D",
+          "texto": "integração dos logradouros — reorganização habitacional"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "AGROPECUÁRIA, CONSTRUÇÃO CIVIL E CARVOARIAS SÃO AS MAIORES FONTES DO TRABALHO ANÁLOGO À ESCRAVIDÃO\nTrabalhador agropecuário em geral, servente de obras, pedreiro e carvoeiro. O que aproxima essas atividades? Elas são as ocupações mais comuns entre as vítimas de trabalho análogo à escravidão resgatadas no Brasil no período de 2003 a 2020, apontam dados compilados pelo Observatório da Erradicação do Trabalho Escravo e do Tráfico de Pessoas. Ainda segundo o Observatório, de 1995 a 2020, foram encontrados, no país, 55712 trabalhadores em condições análogas às de escravo.\nDe acordo com a juíza Mirella Cahú, o trabalho análogo ao escravo é crime tipificado no artigo 149 do Código Penal e é \"definido como aquele em que seres humanos estão submetidos a trabalhos forçados, jornadas tão intensas que podem causar danos físicos, condições degradantes e restrição de locomoção em razão de dívida contraída com empregador ou preposto. A pena se agrava quando o crime for cometido contra criança ou adolescente ou por motivo de preconceito de raça, cor, etnia, religião ou origem\", explicou.\nPara a juíza, na figura do trabalho escravo contemporâneo, o indivíduo permanece com liberdade, mas, por circunstâncias decorrentes do próprio trabalho, essa liberdade é relativizada, ficando o indivíduo impossibilitado de exercer seu direito.\nAdaptado de trt13.jus.br, 28/01/2022.\nAspectos estruturais das relações de produção no Brasil explicam a existência de “trabalho escravo contemporâneo” e sua maior incidência em determinadas atividades econômicas, como abordado na reportagem.\nUm desses aspectos estruturais é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desvalorização do esforço braçal"
+        },
+        {
+          "letra": "B",
+          "texto": "estagnação da remuneração laboral"
+        },
+        {
+          "letra": "C",
+          "texto": "rigidez da regulamentação contratual"
+        },
+        {
+          "letra": "D",
+          "texto": "informalidade da atuação profissional"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Trabalho e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "A descontinuidade territorial representada pela fronteira não se restringe às linhas ou zonas de contato entre os Estados nacionais. A fronteira pode ser reconhecida, também, dentro de um determinado Estado. Na língua inglesa, mais especificamente nos Estados Unidos, mantém-se a distinção entre a fronteira border, ou seja, internacional, e a fronteira frontier, reconhecida em 1894 pelo historiador Frederick Jackson Turner como “as terras que formam a mais distante extensão das regiões habitadas de um país\".\nEnquanto a fronteira border significa a demarcação institucionalizada, mesmo tendo sido objeto de disputas e mesmo de antigos fronts em disputa, a fronteira frontier designa uma abertura, um espaço de competição, conflito e destinos políticos ainda com certo grau de indefinição.\nAdaptado de PÓVOA, Helion. Fronteira. Em: GRIEBELER, Marcos (org.). Dicionário de Desenvolvimento Regional e Temas Correlatos. Uruguaiana: Conceito, 2021.\nUm processo socioespacial, ocorrido nas últimas quatro décadas no Brasil, que exemplifica o conceito de frontier destacado, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ampliação da irrigação na Caatinga"
+        },
+        {
+          "letra": "B",
+          "texto": "interiorização da indústria no Sudeste"
+        },
+        {
+          "letra": "C",
+          "texto": "expansão do agronegócio no Cerrado"
+        },
+        {
+          "letra": "D",
+          "texto": "consolidação do Exército na Amazônia"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Agrária"
+      ]
+    }
+  ]
+}

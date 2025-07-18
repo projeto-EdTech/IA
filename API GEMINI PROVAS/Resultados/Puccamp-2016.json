@@ -1,0 +1,1575 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Campinas",
+  "siglaUniversidade": "PUC-CAMPINAS",
+  "nomeProva": "Prova Geral",
+  "ano": 2016,
+  "qtdeQuestoes": 50,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O autor,\n(A) na oração inicial, apresenta o assunto do texto, sen-\ndo que, no segmento o tempo que ele preenche,\nmede, avalia, ama e teme, circunscreve o tipo de\ntempo sobre o qual ele vai dissertar.\n(B) ao mencionar a origem da palavra \"relógio\", logo\nno primeiro parágrafo, manifesta o compromisso de\napresentar seus dados fundamentado em pesquisas\netimológicas, como comprova ao tratar do cinema.\n(C) desenvolvendo o texto por meio do paralelo entre\ndistintas qualidades do tempo e distintos artefatos\npara medi-lo, realiza esse confronto respeitando a\ncronologia da criação dos instrumentos e sua pre-\ncisa descrição.\n(D) ao argumentar citando campos do conhecimento hu-\nmano como literatura, cinema, música, história, e, em\nseguida, mencionar \"Tempo é dinheiro\", denota opi-\nnião negativa sobre quem tem obsessão por esse\nlema.\n(E) caracterizando o tempo como algo a ser preenchido,\nfaz ver que ele, em sua dimensão cronológica – as-\nsociado a tempos esperançosos ou terríveis –, ou\nem sua dimensão imaginária, está inseparavelmente\nligado à vida.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na oração inicial, apresenta o assunto do texto, sen-do que, no segmento o tempo que ele preenche, mede, avalia, ama e teme, circunscreve o tipo de tempo sobre o qual ele vai dissertar."
+        },
+        {
+          "letra": "B",
+          "texto": "ao mencionar a origem da palavra \"relógio\", logo no primeiro parágrafo, manifesta o compromisso de apresentar seus dados fundamentado em pesquisas etimológicas, como comprova ao tratar do cinema."
+        },
+        {
+          "letra": "C",
+          "texto": "desenvolvendo o texto por meio do paralelo entre distintas qualidades do tempo e distintos artefatos para medi-lo, realiza esse confronto respeitando a cronologia da criação dos instrumentos e sua pre-cisa descrição."
+        },
+        {
+          "letra": "D",
+          "texto": "ao argumentar citando campos do conhecimento hu-mano como literatura, cinema, música, história, e, em seguida, mencionar \"Tempo é dinheiro\", denota opi-nião negativa sobre quem tem obsessão por esse lema."
+        },
+        {
+          "letra": "E",
+          "texto": "caracterizando o tempo como algo a ser preenchido, faz ver que ele, em sua dimensão cronológica – as-sociado a tempos esperançosos ou terríveis –, ou em sua dimensão imaginária, está inseparavelmente ligado à vida."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Sobre o que se tem no parágrafo 2, em seu contexto, é correto afirmar:\n(A) (linha 23) O emprego da conjunção Mas sinaliza que um auxílio para que os homens lidassem melhor com o Tempo poderia ser esperado da evolução dos citados maquinismos; essa ajuda não se efetivou.\n(B) (linhas 23 e 24) Se o segmento que dividem e me-dem as horas fosse apresentado entre vírgulas, o sentido e a correção originais não seriam prejudica-dos.\n(C) (linhas 30 a 32) Para provar que o tempo da auto-biografia e o tempo da ficção científica são dife-rentes entre si, o autor usou a expressão tempos outros.\n(D) (linha 29) A substituição de a fluir incessantemente por \"se fluísse incessantemente\" não prejudica o sentido original.\n(E) (linhas 33 e 34) O que justifica a aproximação entre José Lins do Rego, Manuel Bandeira e Pedro Nava é o fato de todos serem autores brasileiros relevan-tes.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(linha 23) O emprego da conjunção Mas sinaliza que um auxílio para que os homens lidassem melhor com o Tempo poderia ser esperado da evolução dos citados maquinismos; essa ajuda não se efetivou."
+        },
+        {
+          "letra": "B",
+          "texto": "(linhas 23 e 24) Se o segmento que dividem e me-dem as horas fosse apresentado entre vírgulas, o sentido e a correção originais não seriam prejudica-dos."
+        },
+        {
+          "letra": "C",
+          "texto": "(linhas 30 a 32) Para provar que o tempo da auto-biografia e o tempo da ficção científica são dife-rentes entre si, o autor usou a expressão tempos outros."
+        },
+        {
+          "letra": "D",
+          "texto": "(linha 29) A substituição de a fluir incessantemente por \"se fluísse incessantemente\" não prejudica o sentido original."
+        },
+        {
+          "letra": "E",
+          "texto": "(linhas 33 e 34) O que justifica a aproximação entre José Lins do Rego, Manuel Bandeira e Pedro Nava é o fato de todos serem autores brasileiros relevan-tes."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Considere o parágrafo e o verbete extraído do Dicionário eletrônico Houaiss da língua portuguesa.\n আলি aliás\nadvérbio\n1 de outro modo, de outra forma\nEx.: sempre ajudou o filho, a. seria mau pai se não o fizesse\n2 além disso\nEx.: a., não era a primeira sujeira que ele fazia\n3 emprega-se em seguida a uma palavra proferida ou\nescrita por equívoco; ou melhor, digo\nEx.: estávamos em março, a., abril\n4 seja dito de passagem; verdade seja dita; a propósito\nEx.: não aceitou o emprego, que a. é muito cobiçado\n5 no entanto, contudo\nEx.: andar muito é cansativo, sem, a., deixar de ser saudável\nO sentido preciso com que a palavra aliás foi empregada no texto está indicado em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3."
+        },
+        {
+          "letra": "B",
+          "texto": "2."
+        },
+        {
+          "letra": "C",
+          "texto": "5."
+        },
+        {
+          "letra": "D",
+          "texto": "4."
+        },
+        {
+          "letra": "E",
+          "texto": "1."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Compreende-se adequadamente do parágrafo transcrito, em seu contexto:\n(A) filmes que arrebatam multidões devem seu sucesso aos temas musicais.\n(B) o sucesso de O mágico de Oz deve ser atribuído à atriz Judy Garland, que entoou de modo especial a canção Além do arco-íris.\n(C) a arte musical habita filmes famosos, por isso, torna-se densa e envolvente.\n(D) o arranjo harmonioso de sons enriquece o conteúdo das horas.\n(E) notas aleatoriamente agrupadas alteram a natureza do tempo, sempre de modo positivo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "filmes que arrebatam multidões devem seu sucesso aos temas musicais."
+        },
+        {
+          "letra": "B",
+          "texto": "o sucesso de O mágico de Oz deve ser atribuído à atriz Judy Garland, que entoou de modo especial a canção Além do arco-íris."
+        },
+        {
+          "letra": "C",
+          "texto": "a arte musical habita filmes famosos, por isso, torna-se densa e envolvente."
+        },
+        {
+          "letra": "D",
+          "texto": "o arranjo harmonioso de sons enriquece o conteúdo das horas."
+        },
+        {
+          "letra": "E",
+          "texto": "notas aleatoriamente agrupadas alteram a natureza do tempo, sempre de modo positivo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Arte – Música"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Se o relógio da História marca tempos sinistros, o tempo construído pela arte abre-se para a poesia.\nComenta-se corretamente sobre o que o segmento acima expressa, em seu contexto:\n(A) O que se afirma na segunda oração será verdadeiro sempre que certas condições forem cumpridas.\n(B) Os dois fatos mencionados nas orações são tidos, ambos, como possibilidades, mas difíceis de se cumprirem.\n(C) A primeira oração contém a hipótese que legitimaria o que se afirma na segunda, ainda que o conteúdo desta seja considerado altamente improvável.\n(D) A substituição do Se por \"Caso” não exigiria nenhu-ma alteração na frase e manteria fidelidade ao sen-tido original.\n(E) O segmento exibe paralelismo entre fatos cuja ocor-rência não é posta em dúvida.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O que se afirma na segunda oração será verdadeiro sempre que certas condições forem cumpridas."
+        },
+        {
+          "letra": "B",
+          "texto": "Os dois fatos mencionados nas orações são tidos, ambos, como possibilidades, mas difíceis de se cumprirem."
+        },
+        {
+          "letra": "C",
+          "texto": "A primeira oração contém a hipótese que legitimaria o que se afirma na segunda, ainda que o conteúdo desta seja considerado altamente improvável."
+        },
+        {
+          "letra": "D",
+          "texto": "A substituição do Se por \"Caso” não exigiria nenhu-ma alteração na frase e manteria fidelidade ao sen-tido original."
+        },
+        {
+          "letra": "E",
+          "texto": "O segmento exibe paralelismo entre fatos cuja ocor-rência não é posta em dúvida."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Relações Semânticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Por vezes barateamos o sentido do tempo, tornando-o uma espécie de vazio a preencher: é quando fazemos algo para \"passar o tempo\", e apelamos para um jogo, uma brincadeira, um \"passatempo\" como as palavras cru-zadas. Em compensação, nas horas de grande expecta-tiva, queixamo-nos de que “o tempo não passa\". No trecho acima transcrito,\n(A) a expressão Por vezes pode ser substituída por \"As vezes\" sem que haja prejuízo da correção gra-matical, pois nada justificaria o emprego do acento indicativo da crase.\n(B) os dois-pontos introduzem não um esclarecimento do que foi dito antes, mas uma enumeração; no caso, enumeração dos passatempos.\n(C) a sequência e apelamos para um jogo, uma brinca-deira, um \"passatempo\" como as palavras cruzadas poderia ter a ordem dos complementos verbais alte-rada sem prejuízo do sentido original.\n(D) a forma queixamo-nos é gramaticalmente correta, assim como o é a destacada em \"Ele me fez uma gentileza, é hora de retribui-lo”.\n(E) o emprego das aspas, nas três ocorrências, é indi-cativo de palavra e expressões típicas da linguagem coloquial.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a expressão Por vezes pode ser substituída por \"As vezes\" sem que haja prejuízo da correção gra-matical, pois nada justificaria o emprego do acento indicativo da crase."
+        },
+        {
+          "letra": "B",
+          "texto": "os dois-pontos introduzem não um esclarecimento do que foi dito antes, mas uma enumeração; no caso, enumeração dos passatempos."
+        },
+        {
+          "letra": "C",
+          "texto": "a sequência e apelamos para um jogo, uma brinca-deira, um \"passatempo\" como as palavras cruzadas poderia ter a ordem dos complementos verbais alte-rada sem prejuízo do sentido original."
+        },
+        {
+          "letra": "D",
+          "texto": "a forma queixamo-nos é gramaticalmente correta, assim como o é a destacada em \"Ele me fez uma gentileza, é hora de retribui-lo”."
+        },
+        {
+          "letra": "E",
+          "texto": "o emprego das aspas, nas três ocorrências, é indi-cativo de palavra e expressões típicas da linguagem coloquial."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Pontuação",
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Considerado o contexto, o segmento indicado está comentado adequadamente em:\n(A) (linhas 1 e 2) O homem vive dentro do tempo, o tem-po que ele preenche, mede, avalia, ama e teme / As ações mencionadas constituem eventos que se se-guem no tempo.\n(B) (linhas 4 a 6) se refere a um quadrante do céu que os antigos aprenderam a observar para se orien-tarem no tempo e no espaço / Na locução desta-cada, o verbo auxiliar pode ser substituído por \"chegaram\" sem que o sentido original seja preju-dicado.\n(C) (linhas 14 e 15) Com a eletrônica (1), surgiram os re-lógios de quartzo e de césio (2) / Entre os segmen-tos 1 e 2 existe uma relação de causalidade, na me-dida em que o surgimento referido em (1) induziu ao referido em (2).\n(D) (linhas 6 a 8) Os artefatos construídos para medir a passagem do tempo sofreram ao longo dos séculos uma grande evolução / A introdução de uma vírgula depois da palavra tempo não afeta a relação sin-tática original.\n(E) (linhas 19 e 21) A ampulheta e a clepsidra são as simpáticas bisavós das atuais engenhocas eletrô-nicas / Ao conferir atributos humanos aos artefatos, o autor vale-se da ironia, com a qual expressa ava-liação negativa desses objetos, apreciação reforçada pelo emprego da palavra “engenhoca\".",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(linhas 1 e 2) O homem vive dentro do tempo, o tem-po que ele preenche, mede, avalia, ama e teme / As ações mencionadas constituem eventos que se se-guem no tempo."
+        },
+        {
+          "letra": "B",
+          "texto": "(linhas 4 a 6) se refere a um quadrante do céu que os antigos aprenderam a observar para se orien-tarem no tempo e no espaço / Na locução desta-cada, o verbo auxiliar pode ser substituído por \"chegaram\" sem que o sentido original seja preju-dicado."
+        },
+        {
+          "letra": "C",
+          "texto": "(linhas 14 e 15) Com a eletrônica (1), surgiram os re-lógios de quartzo e de césio (2) / Entre os segmen-tos 1 e 2 existe uma relação de causalidade, na me-dida em que o surgimento referido em (1) induziu ao referido em (2)."
+        },
+        {
+          "letra": "D",
+          "texto": "(linhas 6 a 8) Os artefatos construídos para medir a passagem do tempo sofreram ao longo dos séculos uma grande evolução / A introdução de uma vírgula depois da palavra tempo não afeta a relação sin-tática original."
+        },
+        {
+          "letra": "E",
+          "texto": "(linhas 19 e 21) A ampulheta e a clepsidra são as simpáticas bisavós das atuais engenhocas eletrô-nicas / Ao conferir atributos humanos aos artefatos, o autor vale-se da ironia, com a qual expressa ava-liação negativa desses objetos, apreciação reforçada pelo emprego da palavra “engenhoca\"."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Relações Semânticas",
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "O segmento do texto que está traduzido de maneira a não prejudicar o sentido original é:\n(A) (linhas 8 a 10) o Sol era a referência natural para a separação entre o dia e a noite / atribuía-se ao Sol, como é natural, o deslizar do dia para a noite.\n(B) (linhas 25 e 26) essa entidade implacável / essa natureza mítica abominável.\n(C) (linha 36) sofre os efeitos de uma intervenção no passado/padece dos malefícios que o passado pro-voca ao ser rememorado.\n(D) (linha 66) Por vezes barateamos o sentido do tem-po / Em certas circunstâncias, não damos o devido valor ao sentido do tempo.\n(E) (linhas 66 e 67) tornando-o uma espécie de vazio a preencher / transformando-o num outro tipo de vácuo que exige de nós imediato e diversificado preenchimento.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(linhas 8 a 10) o Sol era a referência natural para a separação entre o dia e a noite / atribuía-se ao Sol, como é natural, o deslizar do dia para a noite."
+        },
+        {
+          "letra": "B",
+          "texto": "(linhas 25 e 26) essa entidade implacável / essa natureza mítica abominável."
+        },
+        {
+          "letra": "C",
+          "texto": "(linha 36) sofre os efeitos de uma intervenção no passado/padece dos malefícios que o passado pro-voca ao ser rememorado."
+        },
+        {
+          "letra": "D",
+          "texto": "(linha 66) Por vezes barateamos o sentido do tem-po / Em certas circunstâncias, não damos o devido valor ao sentido do tempo."
+        },
+        {
+          "letra": "E",
+          "texto": "(linhas 66 e 67) tornando-o uma espécie de vazio a preencher / transformando-o num outro tipo de vácuo que exige de nós imediato e diversificado preenchimento."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Reescrita de Frases"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Considere o exposto em I, II e III.\nI. No cinema, uma das homenagens mais bonitas ao tempo passado é a do filme Amarcord [...], do cineasta Federico Fellini. São lembranças pessoais de uma época dura, quando o fascismo crescia e dominava a Itália. Seria compatível com o texto, no caso de agru-pamento dos dois períodos num só, a substituição do segmento sublinhado por \"Fellini, apesar de serem\".\nII. Em Com a eletrônica, surgiram os relógios de quartzo e de césio, aposentando os chamados “re-lógios de corda\", a substituição do segmento des-tacado por \"que teriam aposentado” não prejudica o sentido original.\nIII. Em O mostrador digital que está no seu pulso ou no seu celular tem muita história: tudo teria começado com a haste vertical ao sol, que projetava sua sombra num plano horizontal demarcado. A ampu-Theta e a clepsidra são as simpáticas bisavós das atuais engenhocas eletrônicas..., o pronome tudo, que expressa a ideia de totalidade, está posicio-nado antes do elemento a que ele remete.\nEstá correto o que se afirma APENAS em\n(Α) Ι.\n(B) II.\n(C) III.\n(D) I e II.\n(E) II e III.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ι."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "III."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II."
+        },
+        {
+          "letra": "E",
+          "texto": "II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "O texto motivou a construção das frases abaixo, que devem ser consideradas independentes dele. A formu-lação que atende à clareza e à norma-padrão escrita é:\n(A) Ainda que indispensável, como a vida contemporâ-nea comprova à exaustão, os relógios acabam sen-do símbolo de opressão e correria no mundo atual.\n(B) A peça (um relógio de quartzo), à qual se fez men-ção na aula, foi desmontada pelo tutor dos técnicos mais experientes, que queria demonstrar com minú-cias a montagem do artefato.\n(C) Pelo que diz-se nos textos especializados, devem haver, mesmo, diferentes qualidades do tempo e das circunstâncias de seus respectivos relógios, em que todos devem dar atenção.\n(D) Se o fotógrafo vir até aqui e não encontrar o res-ponsável pela vitrine de relógios raros, será excessão se não abandonar o projeto e dar o contrato por encerrado, sem mesmo se despedir.\n(E) Continui ou não a polêmica sobre a relevância da adoção do horário de verão no país, é certo: que não é implantado sem prejuízo do nosso “relógio bio-lógico\".",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ainda que indispensável, como a vida contemporâ-nea comprova à exaustão, os relógios acabam sen-do símbolo de opressão e correria no mundo atual."
+        },
+        {
+          "letra": "B",
+          "texto": "A peça (um relógio de quartzo), à qual se fez men-ção na aula, foi desmontada pelo tutor dos técnicos mais experientes, que queria demonstrar com minú-cias a montagem do artefato."
+        },
+        {
+          "letra": "C",
+          "texto": "Pelo que diz-se nos textos especializados, devem haver, mesmo, diferentes qualidades do tempo e das circunstâncias de seus respectivos relógios, em que todos devem dar atenção."
+        },
+        {
+          "letra": "D",
+          "texto": "Se o fotógrafo vir até aqui e não encontrar o res-ponsável pela vitrine de relógios raros, será excessão se não abandonar o projeto e dar o contrato por encerrado, sem mesmo se despedir."
+        },
+        {
+          "letra": "E",
+          "texto": "Continui ou não a polêmica sobre a relevância da adoção do horário de verão no país, é certo: que não é implantado sem prejuízo do nosso “relógio bio-lógico\"."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Norma Padrão",
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Ortografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "A evolução dos maquinismos humanos é uma evidência do progresso tecnológico. No Modernismo de 22, há alguma euforia com os avanços da era industrial e da mecanização, tal como se pode observar\n(A) em tendências nacionalistas e primitivistas, como as do Verde-amarelismo, grupo em que sobressaem os nomes de Cassiano Ricardo e Menotti del Picchia.\n(B) na valorização de uma \"pauliceia desvairada\", tal como Mário de Andrade interpretou o novo ritmo cultural e econômico em que se desenvolvia sua cidade.\n(C) em nomes como Lima Barreto e Euclides da Cunha, escritores que saudaram com otimismo a superação dos hábitos conservadores de nossa cultura.\n(D) em obras como Os sertões e Sagarana, que historiam a passagem de uma cultura rural e uma cultura fundamentada em hábitos metropolitanos.\n(E) na poesia de Cecília Meireles, voltada para o reconhecimento e a afirmação do que havia de inventivo em outras artes, como o cinema e a arquitetura.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "em tendências nacionalistas e primitivistas, como as do Verde-amarelismo, grupo em que sobressaem os nomes de Cassiano Ricardo e Menotti del Picchia."
+        },
+        {
+          "letra": "B",
+          "texto": "na valorização de uma \"pauliceia desvairada\", tal como Mário de Andrade interpretou o novo ritmo cultural e econômico em que se desenvolvia sua cidade."
+        },
+        {
+          "letra": "C",
+          "texto": "em nomes como Lima Barreto e Euclides da Cunha, escritores que saudaram com otimismo a superação dos hábitos conservadores de nossa cultura."
+        },
+        {
+          "letra": "D",
+          "texto": "em obras como Os sertões e Sagarana, que historiam a passagem de uma cultura rural e uma cultura fundamentada em hábitos metropolitanos."
+        },
+        {
+          "letra": "E",
+          "texto": "na poesia de Cecília Meireles, voltada para o reconhecimento e a afirmação do que havia de inventivo em outras artes, como o cinema e a arquitetura."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Modernismo)",
+        "História – História do Brasil (República Velha)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "O ciclo da cana-de-açúcar encontrou seu grande intérprete em José Lins do Rego, cujos romances ganham força ao combinarem duas operações:\n(A) a caracterização de aspectos regionais e a angulação subjetiva de um memorialista.\n(B) o memorialismo pessoal e o culto dos mitos clássicos.\n(C) a experimentação estética e o lamento pela crise da ficção moderna.\n(D) a valorização do primitivo e o levantamento de documentação histórica.\n(E) a crítica ao coronelismo nordestino e a saudação à chegada das usinas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a caracterização de aspectos regionais e a angulação subjetiva de um memorialista."
+        },
+        {
+          "letra": "B",
+          "texto": "o memorialismo pessoal e o culto dos mitos clássicos."
+        },
+        {
+          "letra": "C",
+          "texto": "a experimentação estética e o lamento pela crise da ficção moderna."
+        },
+        {
+          "letra": "D",
+          "texto": "a valorização do primitivo e o levantamento de documentação histórica."
+        },
+        {
+          "letra": "E",
+          "texto": "a crítica ao coronelismo nordestino e a saudação à chegada das usinas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Regionalismo)",
+        "Língua Portuguesa – José Lins do Rego"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Atente para estes versos de Manuel Bandeira, extraídos do poema \"Minha terra\":\nRevi afinal o meu Recife.\nEstá de fato completamente mudado.\nTem avenidas, arranha-céus.\nÉ hoje uma bonita cidade.\nDiabo leve quem pôs bonita a minha terra.\nNesses versos o poeta pernambucano\n(A) renuncia ao estilo modernista, voltando ao verso clássico para poder saudar sua antiga cidade.\n(B) admite que ele e sua cidade tiveram muito a ganhar com o irrecorrível processo de modernização.\n(C) reconhece que a modernização altera as convicções que ele alimentava no passado.\n(D) opõe a constatação do progresso de sua cidade à sua imagem afetiva guardada na memória.\n(E) ironiza a beleza da cidade moderna enquanto idealiza a melancolia das cidadezinhas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "renuncia ao estilo modernista, voltando ao verso clássico para poder saudar sua antiga cidade."
+        },
+        {
+          "letra": "B",
+          "texto": "admite que ele e sua cidade tiveram muito a ganhar com o irrecorrível processo de modernização."
+        },
+        {
+          "letra": "C",
+          "texto": "reconhece que a modernização altera as convicções que ele alimentava no passado."
+        },
+        {
+          "letra": "D",
+          "texto": "opõe a constatação do progresso de sua cidade à sua imagem afetiva guardada na memória."
+        },
+        {
+          "letra": "E",
+          "texto": "ironiza a beleza da cidade moderna enquanto idealiza a melancolia das cidadezinhas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Modernismo)",
+        "Língua Portuguesa – Poesia",
+        "Língua Portuguesa – Manuel Bandeira"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Costuma-se reconhecer que o Indianismo, na nossa literatura, é marcado por idealizações que emprestam uma espécie de glória artificial ao nosso passado como Colônia. Tais idealizações\nI. consistem, basicamente, em atribuir aos nossos silvícolas atitudes e valores herdados da aristocracia medieval, caros ao ideário romântico.\nII. processam-se com base em fidedignos documentos históricos, nos quais há registro detalhado dos usos e costumes das várias nações indígenas.\nIII. ocorreram como reação às tendências nacionalistas do nosso Romantismo, que valorizavam sobretudo a vida urbana e os valores burgueses.\nAtende ao enunciado o que está em\n(A) I, II e III.\n(B) I e II, apenas.\n(C) II e III, apenas.\n(D) I e III, apenas.\n(E) I, apenas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, apenas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Romantismo)",
+        "História – História do Brasil (Período Colonial)"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Por vezes, a literatura pode se pautar por diferentes tempos: há o tempo da história narrada, de sua sequência cronológica, e há o tempo da linguagem que processa essa história. A linguagem experimental do irlandês James Joyce reinterpreta, em pleno século XX, a história mítica de Ulisses. No Brasil, há uma ocorrência similar, se pensamos em Grande sertão: veredas, ro-mance onde Guimarães Rosa articula magistralmente dois planos temporais:\n(A) a história do passado colonial e o registro das velhas crônicas medievais.\n(B) o ritmo cantante da lírica e a urgente denúncia política.\n(C) o universo arcaico do sertão e a expressão linguística ousada e inventiva.\n(D) a corrosão nostálgica da memória e a busca de uma nova mitologia.\n(E) o desapego às crenças do passado e a obsessão pelo experimentalismo estético.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a história do passado colonial e o registro das velhas crônicas medievais."
+        },
+        {
+          "letra": "B",
+          "texto": "o ritmo cantante da lírica e a urgente denúncia política."
+        },
+        {
+          "letra": "C",
+          "texto": "o universo arcaico do sertão e a expressão linguística ousada e inventiva."
+        },
+        {
+          "letra": "D",
+          "texto": "a corrosão nostálgica da memória e a busca de uma nova mitologia."
+        },
+        {
+          "letra": "E",
+          "texto": "o desapego às crenças do passado e a obsessão pelo experimentalismo estético."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Modernismo)",
+        "Língua Portuguesa – Guimarães Rosa"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Por suas características, a taxonomia zoológica classifica o homem entre os primatas. Considere o esquema abaixo, que representa uma das hipóteses sobre a filogenia desse grupo durante os últimos 60 milhões de anos.\nAntropóides\nMacacos do Novo Mundo Macacos do Velho Mundo\nHominoídeos\nPongídeos\nHominídeos\nMilhões\nde anos\n0\nGibão\nOrangotango Gorila Chipanzé Homem\n10\nProssimios atuais\n20\n30\n40\n50\n60\nProssímios primitivos\nAnalisando-se esse esquema, é correto afirmar que\n(A) o chimpanzé e o homem têm um ancestral comum.\n(B) o homem surgiu aproximadamente há 50 milhões de anos.\n(C) o gibão e o orangotango são parentes próximos dos prossímios atuais.\n(D) os macacos do Novo Mundo são mais evoluídos do que os do Velho Mundo.\n(E) o gorila é o parente mais próximo do homem.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o chimpanzé e o homem têm um ancestral comum."
+        },
+        {
+          "letra": "B",
+          "texto": "o homem surgiu aproximadamente há 50 milhões de anos."
+        },
+        {
+          "letra": "C",
+          "texto": "o gibão e o orangotango são parentes próximos dos prossímios atuais."
+        },
+        {
+          "letra": "D",
+          "texto": "os macacos do Novo Mundo são mais evoluídos do que os do Velho Mundo."
+        },
+        {
+          "letra": "E",
+          "texto": "o gorila é o parente mais próximo do homem."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Taxonomia",
+        "Biologia – Filogenia"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Em agosto deste ano realizou-se na China o campeonato mundial de atletismo, no qual um dos eventos mais aguardados era a prova de 100 m masculino, que acabou sendo vencida pelo jamaicano Usain Bolt, com o tempo de 9,79 s. O tempo do segundo colocado, o americano Justin Gatlin, foi de 9,80 s.\nA diferença entre os dois atletas na chegada foi de aproximadamente:\n(A) 0,1 mm.\n(B) 1 mm.\n(C) 1 cm.\n(D) 10 cm.\n(E) 1 m.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,1 mm."
+        },
+        {
+          "letra": "B",
+          "texto": "1 mm."
+        },
+        {
+          "letra": "C",
+          "texto": "1 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "10 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "1 m."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática",
+        "Matemática – Grandezas e Medidas"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Há muito, muito tempo, quando ocorreu a origem da vida na Terra, surgiram vários processos biológicos. Tendo em vista as condições ambientais existentes então, podemos afirmar que a sequência correta do aparecimento dos processos abaixo foi a mostrada em\n(A) respiração aeróbia → fermentação → fotossíntese.\n(B) fermentação → respiração aeróbia → fotossíntese.\n(C) fermentação → fotossíntese → respiração aeróbia.\n(D) fotossíntese → respiração aeróbia → fermentação.\n(E) fotossíntese → fermentação → respiração aeróbia.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "respiração aeróbia → fermentação → fotossíntese."
+        },
+        {
+          "letra": "B",
+          "texto": "fermentação → respiração aeróbia → fotossíntese."
+        },
+        {
+          "letra": "C",
+          "texto": "fermentação → fotossíntese → respiração aeróbia."
+        },
+        {
+          "letra": "D",
+          "texto": "fotossíntese → respiração aeróbia → fermentação."
+        },
+        {
+          "letra": "E",
+          "texto": "fotossíntese → fermentação → respiração aeróbia."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Origem da Vida",
+        "Biologia – Metabolismo Energético"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Para se calcular o coeficiente de atrito dinâmico entre uma moeda e uma chapa de fórmica, a moeda foi colocada para deslizar pela chapa, colocada em um ângulo de 37° com a horizontal.\nFoi possível medir que a moeda, partindo do repouso, deslizou 2,0 m em um intervalo de tempo de 1,0 s, em movimento uniformemente variado.\nAdote g = 10 m/s², sen 37° = 0,60 e cos 37° = 0,80.\nNessas condições, o coeficiente de atrito dinâmico entre as superfícies vale\n(A) 0,15.\n(B) 0,20.\n(C) 0,25.\n(D) 0,30.\n(E) 0,40.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,15."
+        },
+        {
+          "letra": "B",
+          "texto": "0,20."
+        },
+        {
+          "letra": "C",
+          "texto": "0,25."
+        },
+        {
+          "letra": "D",
+          "texto": "0,30."
+        },
+        {
+          "letra": "E",
+          "texto": "0,40."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Mecânica (Dinâmica)",
+        "Física – Atrito",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Durante a fusão nuclear que ocorre no Sol, formam-se átomos de hélio ²⁴He. Esse átomo possui\n(A) 2 prótons e 2 nêutrons.\n(B) 2 prótons e 4 nêutrons.\n(C) 2 prótons e nenhum nêutron.\n(D) 4 prótons e 2 nêutrons.\n(E) 4 prótons e nenhum nêutron.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 prótons e 2 nêutrons."
+        },
+        {
+          "letra": "B",
+          "texto": "2 prótons e 4 nêutrons."
+        },
+        {
+          "letra": "C",
+          "texto": "2 prótons e nenhum nêutron."
+        },
+        {
+          "letra": "D",
+          "texto": "4 prótons e 2 nêutrons."
+        },
+        {
+          "letra": "E",
+          "texto": "4 prótons e nenhum nêutron."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Física Nuclear",
+        "Química – Estrutura Atômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Um dispositivo mecânico usado para medir o equivalente mecânico do calor recebe 250 J de energia mecânica e agita, por meio de pás, 100 g de água que acabam por sofrer elevação de 0,50 °C de sua temperatura.\nAdote 1 cal = 4,2 J e Cágua = 1,0 cal/g °C.\nO rendimento do dispositivo nesse processo de aque-cimento é de\n(A) 16%.\n(B) 19%.\n(C) 67%.\n(D) 81%.\n(Ε) 84%.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16%."
+        },
+        {
+          "letra": "B",
+          "texto": "19%."
+        },
+        {
+          "letra": "C",
+          "texto": "67%."
+        },
+        {
+          "letra": "D",
+          "texto": "81%."
+        },
+        {
+          "letra": "E",
+          "texto": "84%."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Calorimetria",
+        "Física – Rendimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O quartzo é um mineral cuja composição química é SiO₂, dióxido de silício. Considerando os valores de eletronega-tividade para o silício e oxigênio, 1,8 e 3,5, respectiva-mente, e seus grupos da tabela periódica (o silício perten-ce ao grupo 14 e o oxigênio ao grupo 16), prevê-se que a ligação entre esses átomos seja:\n(A) covalente apolar.\n(B) covalente coordenada.\n(C) covalente polar.\n(D) iônica.\n(E) metálica.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "covalente apolar."
+        },
+        {
+          "letra": "B",
+          "texto": "covalente coordenada."
+        },
+        {
+          "letra": "C",
+          "texto": "covalente polar."
+        },
+        {
+          "letra": "D",
+          "texto": "iônica."
+        },
+        {
+          "letra": "E",
+          "texto": "metálica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Tabela Periódica",
+        "Química – Eletronegatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "O isótopo do elemento césio de número de massa 137 sofre decaimento segundo a equação:\n¹³⁷₅₅Cs → X + β\nO número atômico do isótopo que X representa é igual a\n(A) 54.\n(B) 56.\n(C) 57.\n(D) 136.\n(Ε) 138.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "54."
+        },
+        {
+          "letra": "B",
+          "texto": "56."
+        },
+        {
+          "letra": "C",
+          "texto": "57."
+        },
+        {
+          "letra": "D",
+          "texto": "136."
+        },
+        {
+          "letra": "E",
+          "texto": "138."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Física Nuclear (Radioatividade)",
+        "Química – Reações Nucleares"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "O mostrador digital de um amperímetro fornece indicação de 0,40 A em um circuito elétrico simples contendo uma fonte de força eletromotriz ideal e um resistor ôhmico de resistência elétrica 10 Ω.\nSe for colocado no circuito um outro resistor, de mesmas características, em série com o primeiro, a nova potência elétrica dissipada no circuito será, em watts,\n(A) 0,64.\n(B) 0,32.\n(C) 0,50.\n(D) 0,20.\n(E) 0,80.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,64."
+        },
+        {
+          "letra": "B",
+          "texto": "0,32."
+        },
+        {
+          "letra": "C",
+          "texto": "0,50."
+        },
+        {
+          "letra": "D",
+          "texto": "0,20."
+        },
+        {
+          "letra": "E",
+          "texto": "0,80."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Circuitos Elétricos",
+        "Física – Potência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A parte sublinhada em tudo teria começado com a haste vertical ao sol, conforme aparece no texto principal, é traduzida por:\n(A) everything should have started.\n(B) everything has started.\n(C) everything could have started.\n(D) everything has supposedly started.\n(E) everything has certainly started.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "everything should have started."
+        },
+        {
+          "letra": "B",
+          "texto": "everything has started."
+        },
+        {
+          "letra": "C",
+          "texto": "everything could have started."
+        },
+        {
+          "letra": "D",
+          "texto": "everything has supposedly started."
+        },
+        {
+          "letra": "E",
+          "texto": "everything has certainly started."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Tradução",
+        "Inglês – Gramática (Modals)"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "\"...tudo teria começado com a haste vertical ao sol, que projetava sua sombra num plano horizontal demarcado.\" Com um ângulo de inclinação de 30°, em relação ao solo plano, os raios solares incidindo sobre uma haste vertical de 2,5 m de comprimento geram uma sombra de x m. Um pouco mais tarde, quando o ângulo de inclinação dos raios solares é de 45° graus, a mesma sombra gerada agora é de y m. A diferença ente x e y é de, aproximadamente,\nsen 30° = 0,5\nsen 45° = 0,707\ncos 30°= 0,866\ncos 45°= 0,707\ntg 30° = 0,577\ntg 45° = 1\n(A) 1 m.\n(B) 1,83 m.\n(C) 2,45 m.\n(D) 0,88 m.\n(E) 2,27 m.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 m."
+        },
+        {
+          "letra": "B",
+          "texto": "1,83 m."
+        },
+        {
+          "letra": "C",
+          "texto": "2,45 m."
+        },
+        {
+          "letra": "D",
+          "texto": "0,88 m."
+        },
+        {
+          "letra": "E",
+          "texto": "2,27 m."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Óptica Geométrica",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Uma vela acesa foi colocada a uma distância p do vértice de um espelho esférico côncavo de 1,0 m de distância focal. Verificou-se que o espelho projetava em uma parede uma imagem da chama desta vela, ampliada 5 vezes. O valor de p, em cm, é:\n(A) 60.\n(B) 90.\n(C) 100.\n(D) 120.\n(Ε) 140.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60."
+        },
+        {
+          "letra": "B",
+          "texto": "90."
+        },
+        {
+          "letra": "C",
+          "texto": "100."
+        },
+        {
+          "letra": "D",
+          "texto": "120."
+        },
+        {
+          "letra": "E",
+          "texto": "140."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Óptica Geométrica",
+        "Física – Espelhos Esféricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Sobre o tema evolução fizeram-se as afirmações abaixo.\nI. As espécies dos seres vivos são passíveis de mo-dificação, podendo sofrer alterações morfofisioló-gicas ao longo do tempo.\nII. Prova de que nosso planeta foi habitado por seres diferentes dos que existem atualmente é a existên-cia de fósseis.\nIII. Os que admitem que as espécies não se alteram no decorrer do tempo são adeptos da teoria do fixismo.\nEstá correto o que se afirma em\n(A) I, apenas.\n(B) I e II, apenas.\n(C) I e III, apenas.\n(D) II e III, apenas.\n(E) I, II e III.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Evidências da Evolução",
+        "Biologia – Fixismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Sobre a mitologia referida no texto de Péricles Alcântara, é correto afirmar que, na pólis,\n(A) o completo afastamento da cultura grega em relação às tradições orientais favoreceu o surgimento de mitos e lendas sobre deuses com aspectos huma-nos, responsáveis pelos fenômenos naturais.\n(B) a manutenção da autonomia das cidades-estados, sob o comando de Atenas, incentivou o desenvol-vimento de crenças como as de que os deuses eram seres divinos que moravam no Monte Olimpo.\n(C) o desenvolvimento de correntes filosóficas que fa-ziam do problema ético o centro de suas preocupa-ções estimulou a criação de um conjunto de crenças de que os deuses interferiam na vida dos homens.\n(D) a conquista de dórios e aqueus na época da ocu-pação do território grego influenciou a cultura dos habitantes da região e contribuiu para a formação de instituições religiosas que deram origem à mito-logia.\n(E) as lutas civis conquistaram direitos que estabele-ceram o espaço público para a discussão, para o convencimento e para a decisão racional, negando o preestabelecido e a revelação sobrenatural.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o completo afastamento da cultura grega em relação às tradições orientais favoreceu o surgimento de mitos e lendas sobre deuses com aspectos huma-nos, responsáveis pelos fenômenos naturais."
+        },
+        {
+          "letra": "B",
+          "texto": "a manutenção da autonomia das cidades-estados, sob o comando de Atenas, incentivou o desenvol-vimento de crenças como as de que os deuses eram seres divinos que moravam no Monte Olimpo."
+        },
+        {
+          "letra": "C",
+          "texto": "o desenvolvimento de correntes filosóficas que fa-ziam do problema ético o centro de suas preocupa-ções estimulou a criação de um conjunto de crenças de que os deuses interferiam na vida dos homens."
+        },
+        {
+          "letra": "D",
+          "texto": "a conquista de dórios e aqueus na época da ocu-pação do território grego influenciou a cultura dos habitantes da região e contribuiu para a formação de instituições religiosas que deram origem à mito-logia."
+        },
+        {
+          "letra": "E",
+          "texto": "as lutas civis conquistaram direitos que estabele-ceram o espaço público para a discussão, para o convencimento e para a decisão racional, negando o preestabelecido e a revelação sobrenatural."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Grécia Antiga",
+        "Filosofia – Filosofia Antiga",
+        "Sociologia – Cidadania"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "José Lins do Rego foi autor de importantes obras lite-rárias que têm como palco o Nordeste brasileiro. Um de seus mais importantes romances é Menino de Engenho do qual foi retirado o seguinte trecho:\nLá um dia, para as cordas das nascentes do Paraíba, via-se, quase rente do horizonte, um abrir longinquo e espaçado de relâmpago: era inverno na certa no alto sertão. As experiências confirmavam que com duas semanas de inverno o Paraíba apontaria na várzea com a sua primeira cabeça-d'água. O rio no verão ficava seco de se atravessar a pé enxuto. Apenas, aqui e ali, pelo seu leito, formavam-se grandes poços, que venciam a estiagem. Nestes pequenos açudes se pescava, lava-vam-se os cavalos, tomava-se banho.\n(Menino do Engenho. 77 Ed. Rio de Janeiro, José Olympio, 2000, p. 54)\nO fato de o leito do rio ficar praticamente seco no verão é típico da hidrografia de áreas do Sertão nordestino, que apresentam como uma de suas importantes caracterís-ticas\n(A) a reduzida pluviosidade, provocada por múltiplos fa-tores, entre eles a dinâmica atmosférica que limita a ação de massas úmidas.\n(B) o inverno semelhante ao encontrado no clima sub-tropical do sul do Brasil: redução das temperaturas devido à presença da massa polar.\n(C) o verão pouco chuvoso com elevadas temperaturas que se assemelham às condições do verão da por-ção centro-sul do Brasil.\n(D) a fraca pluviosidade provocada pelas condições de relevo pouco acidentado e com baixas altitudes, que impedem a formação de chuvas orográficas.\n(E) a reduzida atuação de massas de ar, como a tropical continental e a polar atlântica, ambas portadoras de elevado grau de umidade.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a reduzida pluviosidade, provocada por múltiplos fa-tores, entre eles a dinâmica atmosférica que limita a ação de massas úmidas."
+        },
+        {
+          "letra": "B",
+          "texto": "o inverno semelhante ao encontrado no clima sub-tropical do sul do Brasil: redução das temperaturas devido à presença da massa polar."
+        },
+        {
+          "letra": "C",
+          "texto": "o verão pouco chuvoso com elevadas temperaturas que se assemelham às condições do verão da por-ção centro-sul do Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "a fraca pluviosidade provocada pelas condições de relevo pouco acidentado e com baixas altitudes, que impedem a formação de chuvas orográficas."
+        },
+        {
+          "letra": "E",
+          "texto": "a reduzida atuação de massas de ar, como a tropical continental e a polar atlântica, ambas portadoras de elevado grau de umidade."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Climatologia",
+        "Geografia – Hidrografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "According to the author of the main text,\n(A) man has an ambiguous relationship with time.\n(B) modern gadgets have made man more aware of his mortality.\n(C) people write autobiographies because they hope to become immortal.\n(D) romantic writers recovered Brazil's glorious past through stories about encounters between the Portuguese and Indians.\n(E) José Lins do Rego, Manuel Bandeira and Pedro Nava have all written successful autobiographies.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "man has an ambiguous relationship with time."
+        },
+        {
+          "letra": "B",
+          "texto": "modern gadgets have made man more aware of his mortality."
+        },
+        {
+          "letra": "C",
+          "texto": "people write autobiographies because they hope to become immortal."
+        },
+        {
+          "letra": "D",
+          "texto": "romantic writers recovered Brazil's glorious past through stories about encounters between the Portuguese and Indians."
+        },
+        {
+          "letra": "E",
+          "texto": "José Lins do Rego, Manuel Bandeira and Pedro Nava have all written successful autobiographies."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Na história nacional, o período pós-1964 foi caracterizado por uma relação de interesses mútuos entre os níveis de capitais aplicados no processo industrial. Sobre esta relação é correto afirmar que\n(A) no setor de base - siderúrgicas, petroquímicas e refinarias - prevaleceu o capital nacional associado ao capital estatal devido ao caráter estratégico dos empreendimentos.\n(B) o capital estatal tornou-se predominante em setores de ponta em geral e nos segmentos em que não havia interesse das empresas estrangeiras ou nacionais.\n(C) formou-se o que se tornou conhecido como o \"tripé da indústria\", agrupando em um mesmo cenário o capital estatal, o capital transnacional e o grande capital nacional.\n(D) ampliaram-se as políticas nacionalistas em defesa do setor de bens de consumo durável, privilegiando o capital nacional em detrimento do transnacional.\n(E) o capital transnacional e o estatal dedicaram-se à produção considerada moderna e mais avançada tecnologicamente, favorecendo o endividamento ex-terno do país.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no setor de base - siderúrgicas, petroquímicas e refinarias - prevaleceu o capital nacional associado ao capital estatal devido ao caráter estratégico dos empreendimentos."
+        },
+        {
+          "letra": "B",
+          "texto": "o capital estatal tornou-se predominante em setores de ponta em geral e nos segmentos em que não havia interesse das empresas estrangeiras ou nacionais."
+        },
+        {
+          "letra": "C",
+          "texto": "formou-se o que se tornou conhecido como o \"tripé da indústria\", agrupando em um mesmo cenário o capital estatal, o capital transnacional e o grande capital nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "ampliaram-se as políticas nacionalistas em defesa do setor de bens de consumo durável, privilegiando o capital nacional em detrimento do transnacional."
+        },
+        {
+          "letra": "E",
+          "texto": "o capital transnacional e o estatal dedicaram-se à produção considerada moderna e mais avançada tecnologicamente, favorecendo o endividamento ex-terno do país."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil (Ditadura Militar)",
+        "Sociologia – Desenvolvimento e Industrialização"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "República ou monarquia? Esse dilema esteve presente em todo o processo de Independência do Brasil. Mas a monarquia acabou sendo o sistema adotado em terras brasileiras, ao contrário do que ocorreu em outras nações americanas, pois, para essas novas nações surgidas na América espanhola, a república\n(A) promovia uma relativa descentralização do poder, uma vez que o regente deveria ser eleito pelo povo.\n(B) significava um rompimento maior com a metrópole e a fragmentação do antigo império colonial.\n(C) facilitava a manutenção de um vasto território nas mãos dos chefes de Estado e dos proprietários rurais.\n(D) garantia a implantação do princípio da soberania po-pular e da igualdade de direitos na América.\n(E) atendia o desejo de políticos liberais e conservado-res de libertar as províncias do poder metropolitano.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "promovia uma relativa descentralização do poder, uma vez que o regente deveria ser eleito pelo povo."
+        },
+        {
+          "letra": "B",
+          "texto": "significava um rompimento maior com a metrópole e a fragmentação do antigo império colonial."
+        },
+        {
+          "letra": "C",
+          "texto": "facilitava a manutenção de um vasto território nas mãos dos chefes de Estado e dos proprietários rurais."
+        },
+        {
+          "letra": "D",
+          "texto": "garantia a implantação do princípio da soberania po-pular e da igualdade de direitos na América."
+        },
+        {
+          "letra": "E",
+          "texto": "atendia o desejo de políticos liberais e conservado-res de libertar as províncias do poder metropolitano."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil (Independência)",
+        "História – História da América"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Considere os itens abaixo.\nI. Os dirigentes procuravam sujeitar toda a vida da nação a uma ideologia imposta pelo Partido.\nII. O totalitarismo de direita era justificado como sendo o único meio de terminar com a luta de classes, com a ameaça do internacionalismo comunista e com a fraqueza da liberdade individual.\nIII. O combate à democracia por considerá-la um regi-me fraco frente às ameaças do comunismo.\nIV. O nacionalismo extremado e a exaltação da guerra como meio de restaurar as glórias passadas e so-brepor o regime às demais nações.\nV. A imposição de uma cooperação entre capital eo trabalho, condicionada por uma ampla legislação social.\nO conhecimento histórico permite afirmar que os itens identificam\n(A) pressupostos políticos da socialdemocracia alemã nos anos de 1960.\n(B) limitações impostas pelos militares no Brasil, na década de 1970.\n(C) características dos principais pontos da ideologia fascista italiana.\n(D) fatores responsáveis pela implantação da República de Weimar.\n(E) aspectos das ditaduras adotadas nos países latino-americanos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pressupostos políticos da socialdemocracia alemã nos anos de 1960."
+        },
+        {
+          "letra": "B",
+          "texto": "limitações impostas pelos militares no Brasil, na década de 1970."
+        },
+        {
+          "letra": "C",
+          "texto": "características dos principais pontos da ideologia fascista italiana."
+        },
+        {
+          "letra": "D",
+          "texto": "fatores responsáveis pela implantação da República de Weimar."
+        },
+        {
+          "letra": "E",
+          "texto": "aspectos das ditaduras adotadas nos países latino-americanos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Geral (Fascismo, Nazismo)",
+        "Sociologia – Ideologias Políticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Para responder às questões de números 35 e 36, considere o texto abaixo.\nThe colors of the rainbow so pretty in the sky\nAre also on the faces of people passing ______ I\nI see friends ______ II hands\nSaying, \"how do you do?\"\nThey're really saying,\nI love you.\nThe word that correctly fills the blank I is\n(A) good-bye.\n(B) away.\n(C) by.\n(D) my.\n(E) early.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "good-bye."
+        },
+        {
+          "letra": "B",
+          "texto": "away."
+        },
+        {
+          "letra": "C",
+          "texto": "by."
+        },
+        {
+          "letra": "D",
+          "texto": "my."
+        },
+        {
+          "letra": "E",
+          "texto": "early."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Compreensão de Leitura"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "The word that correctly fills the blank II is\n(A) waving.\n(B) shaking.\n(C) grabbing.\n(D) clapping.\n(E) raising.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "waving."
+        },
+        {
+          "letra": "B",
+          "texto": "shaking."
+        },
+        {
+          "letra": "C",
+          "texto": "grabbing."
+        },
+        {
+          "letra": "D",
+          "texto": "clapping."
+        },
+        {
+          "letra": "E",
+          "texto": "raising."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Collocations"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "\"As notas combinam-se, ritmam e produzem melodias, adensando as horas com seu envolvimento.\" Imagine que as horas se adensaram de tal maneira que fizeram o dia fi-car mais curto. Ao invés de 24 horas, agora o dia possui apenas 16 horas. Para não causar tanta confusão, esse novo tamanho do dia será dividido igualmente em 24 'huras' e cada 'hura' dividida igualmente em 60 'manutos'. Duas pessoas caminham juntas. Uma está com um relógio no sistema de 'huras e manutos' e a outra com seu relógio no sistema normal de horas e minutos. Caminharam de modo que, no relógio da primeira pessoa, haviam se passado 5 'huras' e 54 'manutos'. No relógio da segunda pessoa esse tempo decorrido foi de\n(A) 8 horas e 51 minutos.\n(B) 4 horas e 36 minutos.\n(C) 5 horas e 13 minutos.\n(D) 3 horas e 56 minutos.\n(E) 1 horas e 58 minutos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 horas e 51 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "4 horas e 36 minutos."
+        },
+        {
+          "letra": "C",
+          "texto": "5 horas e 13 minutos."
+        },
+        {
+          "letra": "D",
+          "texto": "3 horas e 56 minutos."
+        },
+        {
+          "letra": "E",
+          "texto": "1 horas e 58 minutos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Razão e Proporção",
+        "Matemática – Grandezas e Medidas"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Certas plantas só florescem em determinados meses do ano e o fator preponderante que exerce o papel de relógio biológico para elas é\n(A) a mudança do pH do solo.\n(B) o período de iluminação diário.\n(C) a variação da velocidade do vento.\n(D) a intensidade das chuvas.\n(E) a quantidade de nutrientes do solo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a mudança do pH do solo."
+        },
+        {
+          "letra": "B",
+          "texto": "o período de iluminação diário."
+        },
+        {
+          "letra": "C",
+          "texto": "a variação da velocidade do vento."
+        },
+        {
+          "letra": "D",
+          "texto": "a intensidade das chuvas."
+        },
+        {
+          "letra": "E",
+          "texto": "a quantidade de nutrientes do solo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Fisiologia Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Somente o relógio de ponto controla a presença do trabalhador? O trabalhador sempre encontrará trabalho? Que tipo de tarefa exercerá no futuro? Há muitas questões... Nem todas têm respostas...\nSobre a questão do emprego/trabalho no mundo são feitas as seguintes afirmações:\nI. Desde meados da década de 1990, os níveis de emprego têm se mantido estáveis nos países do Sul e em forte crescimento nos países tradicionalmente industrializados.\nII. A revolução tecnocientífica promoveu forte impacto sobre os empregos industriais tanto nos países do Norte como nos do Sul industrializados.\nIII. Tem-se observado forte migração de atividades industriais dos países desenvolvidos para os países recentemente industrializados.\nIV. A partir da década de 2000 os países europeus passaram a apresentar baixas taxas de desemprego entre a população jovem.\nEstá correto o que se afirma APENAS em\n(A) II e III.\n(B) I e II.\n(C) I e III.\n(D) I e IV.\n(E) II e IV.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "II e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Mundo do Trabalho",
+        "Geografia – Industrialização"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Já que em determinadas situações e também para algumas pessoas \"Tempo é dinheiro\", uma ação na Bolsa de Valores, apresentou a seguinte evolução: nos primeiros 30 minutos do pregão o seu preço, para ser comprada, passou de R$ 12,00 para R$ 12,75. Um investidor comprou 1000 dessas ações ao preço de R$ 12,00 no início do pregão e vendeu todas elas após 18 minutos. Supondo que a variação desse preço tenha ocorrido igualmente distribuída nos 30 minutos iniciais do pregão, o lucro bruto alcançado por esse investidor, em 18 minutos, foi de\n(A) R$ 450,00.\n(B) R$ 325,00.\n(C) R$ 750,00.\n(D) R$ 900,00.\n(E) R$ 250,00.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 450,00."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 325,00."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 750,00."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 900,00."
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 250,00."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Razão e Proporção",
+        "Matemática – Finanças"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Operadores da Bolsa atuam em várias partes do mundo, como se pode observar no mapa abaixo.\nBolsa de Valores (2012)\nCapitalização\ndas bolsas\n(em bilhões de dólares)\n13 300\n3 325\n1 200\n▼ 400\n▼60\nA alternativa que apresenta uma conclusão extraída a partir da interpretação do mapa é:\n(A) As sucessivas crises financeiras reduziram o número de bolsas de valores no mundo.\n(B) O Brasil e o México são os únicos países emergentes que apresentam bolsas de valores.\n(C) A dispersão das bolsas de valores indica que não existem mais diferenças entre países centrais e periféricos.\n(D) As maiores concentrações de bolsas de valores ocorrem nas áreas de maior dinamismo econômico.\n(E) A globalização econômico-financeira tem privilegiado a abertura de bolsas de valores nos países em desenvolvimento.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As sucessivas crises financeiras reduziram o número de bolsas de valores no mundo."
+        },
+        {
+          "letra": "B",
+          "texto": "O Brasil e o México são os únicos países emergentes que apresentam bolsas de valores."
+        },
+        {
+          "letra": "C",
+          "texto": "A dispersão das bolsas de valores indica que não existem mais diferenças entre países centrais e periféricos."
+        },
+        {
+          "letra": "D",
+          "texto": "As maiores concentrações de bolsas de valores ocorrem nas áreas de maior dinamismo econômico."
+        },
+        {
+          "letra": "E",
+          "texto": "A globalização econômico-financeira tem privilegiado a abertura de bolsas de valores nos países em desenvolvimento."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Globalização",
+        "Geografia – Economia"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "O tempo “é uma obsessão para os atletas olímpicos em busca de recordes\". O recorde da corrida dos 5000 metros pertence a Kenenisa Bekele e é de 12 minutos e 37 segundos. Um atleta que reduzir esse tempo em 2% completará a distância com uma diminuição do tempo do recorde de, aproximadamente,\n(A) 7 segundos.\n(B) 23 segundos.\n(C) 15 segundos.\n(D) 8 segundos.\n(E) 11 segundos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 segundos."
+        },
+        {
+          "letra": "B",
+          "texto": "23 segundos."
+        },
+        {
+          "letra": "C",
+          "texto": "15 segundos."
+        },
+        {
+          "letra": "D",
+          "texto": "8 segundos."
+        },
+        {
+          "letra": "E",
+          "texto": "11 segundos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Grandezas e Medidas"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "O bronze campanil, ou bronze de que os sinos são feitos, é uma liga composta de 78% de cobre e 22% de estanho, em massa. Assim, a proporção em mol entre esses metais, nessa liga, é, respectivamente, de 1,0 para\n(A) 0,15.\n(B) 0,26.\n(C) 0,48.\n(D) 0,57.\n(E) 0,79.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,15."
+        },
+        {
+          "letra": "B",
+          "texto": "0,26."
+        },
+        {
+          "letra": "C",
+          "texto": "0,48."
+        },
+        {
+          "letra": "D",
+          "texto": "0,57."
+        },
+        {
+          "letra": "E",
+          "texto": "0,79."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Mol",
+        "Química – Ligas Metálicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Apesar do automatismo da contração cardíaca, o pulsar do coração também é regulado por mediadores químicos capazes de alterar o ritmo dos batimentos. O mediador químico que acelera e o que diminui o ritmo cardíaco são, respectivamente, a\n(A) acetilcolina e a adrenalina.\n(B) acetilcolina e a ocitocina.\n(C) ocitocina e a acetilcolina.\n(D) adrenalina e a acetilcolina.\n(E) adrenalina e a ocitocina.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "acetilcolina e a adrenalina."
+        },
+        {
+          "letra": "B",
+          "texto": "acetilcolina e a ocitocina."
+        },
+        {
+          "letra": "C",
+          "texto": "ocitocina e a acetilcolina."
+        },
+        {
+          "letra": "D",
+          "texto": "adrenalina e a acetilcolina."
+        },
+        {
+          "letra": "E",
+          "texto": "adrenalina e a ocitocina."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Nervoso",
+        "Biologia – Sistema Endócrino"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O consumo excessivo de sal pode acarretar o aumento da pressão das artérias, também chamada de hipertensão. Para evitar esse problema, o Ministério da Saúde recomenda o consumo diário máximo de 5 g de sal (1,7 g de sódio). Uma pessoa que consome a quantidade de sal máxima recomendada está ingerindo um número de íons sódio igual a\n(A) 1,0 x 10²¹\n(B) 2,4 x 10²¹\n(C) 3,8 x 10²²\n(D) 4,4 x 10²²\n(E) 6,0 x 10²³",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,0 x 10²¹"
+        },
+        {
+          "letra": "B",
+          "texto": "2,4 x 10²¹"
+        },
+        {
+          "letra": "C",
+          "texto": "3,8 x 10²²"
+        },
+        {
+          "letra": "D",
+          "texto": "4,4 x 10²²"
+        },
+        {
+          "letra": "E",
+          "texto": "6,0 x 10²³"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Mol",
+        "Biologia – Nutrição"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Há mais de um século, o Big Ben londrino marca as horas. Suas badaladas estiveram presentes em diferentes eventos que marcaram a história do Reino Unido e da Europa. Atualmente, centenas de refugiados gostariam de estar em Londres para ouvir as badaladas do Big Ben. Nem todos conseguirão...\nSobre os refugiados são feitas as afirmações:\nI. Nesta década observa-se a maior imigração humana desde a Segunda Guerra Mundial. Fala-se em crise de refugiados como resultado de guerras civis e de regimes políticos violentos e radicais.\nII. Os refugiados que chegam à Europa buscam países com estabilidade econômica como a Polônia e a Dinamarca. Por outro lado fogem de países em crise como a Grécia e a Itália.\nIII. A maior parte dos refugiados têm origem no Oriente Médio e Norte da África e se utilizam do mar Mediterrâneo para atingir o continente europeu.\nEstá correto o que se afirma APENAS em\n(Α) Ι.\n(B) I e III.\n(C) I e II.\n(D) II.\n(E) II e III.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ι."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "II."
+        },
+        {
+          "letra": "E",
+          "texto": "II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – População (Migrações)",
+        "História – História Contemporânea",
+        "Sociologia – Questões Globais"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "O relógio que está na torre do Big Ben foi construído com o ponteiro grande medindo 4,7 metros e o ponteiro pequeno medindo 2,7 metros. Exatamente às 2 horas, a distância entre as pontas, que marcam o tempo, dos dois ponteiros é de, aproxima-damente,\n(A) 5,0 m.\n(B) 4,6 m.\n(C) 4,4 m.\n(D) 3,8 m.\n(E) 4,1 m.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,0 m."
+        },
+        {
+          "letra": "B",
+          "texto": "4,6 m."
+        },
+        {
+          "letra": "C",
+          "texto": "4,4 m."
+        },
+        {
+          "letra": "D",
+          "texto": "3,8 m."
+        },
+        {
+          "letra": "E",
+          "texto": "4,1 m."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Trigonometria (Lei dos Cossenos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Considere a descrição abaixo.\nA longcase clock, also tall-case clock, floor clock, or grandfather clock, is a tall, freestanding, weight-driven pendulum clock with the pendulum held inside the tower, or waist of the case.\nEssa descrição corresponde a: [Images of clocks (A) to (E)]",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Arte – Design"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Durante o século XVIII, a Revolução Industrial constituiu um fenômeno predominantemente inglês. Mas a partir do século seguinte, começou a se expandir para vários países, provocando grandes transformações na vida das pessoas, uma vez que, com\n(A) a redução das jornadas de trabalho nas fábricas de tecidos, a organização do mercado de trabalho se desenvolveu de maneira a assegurar emprego a todos os assalariados das grandes cidades industriais inglesas.\n(B) a introdução das máquinas nas indústrias, aumentou a taxa de acumulação e do lucro das empresas, possibilitando uma maior distribuição de renda por meio da elevação do valor dos salários dos trabalhadores.\n(C) a ascensão social dos artesãos, que reuniram seus capitais e ferramentas em oficinas ou em fábricas, aumentou os núcleos domésticos de produção e possibilitou a acumulação primitiva de capital ao operariado.\n(D) o aumento da interferência do Estado na regulamentação da jornada de trabalho, salário e na criação de sindicatos, deixou o trabalhador sem espaço de manobra na luta por melhores condições de trabalho.\n(E) máquinas cada vez mais sofisticadas, a fábrica tornou-se o local adequado para a produção, favorecendo a divisão do trabalho, a imposição do horário, da disciplina ao trabalhador e o aumento da produtividade.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a redução das jornadas de trabalho nas fábricas de tecidos, a organização do mercado de trabalho se desenvolveu de maneira a assegurar emprego a todos os assalariados das grandes cidades industriais inglesas."
+        },
+        {
+          "letra": "B",
+          "texto": "a introdução das máquinas nas indústrias, aumentou a taxa de acumulação e do lucro das empresas, possibilitando uma maior distribuição de renda por meio da elevação do valor dos salários dos trabalhadores."
+        },
+        {
+          "letra": "C",
+          "texto": "a ascensão social dos artesãos, que reuniram seus capitais e ferramentas em oficinas ou em fábricas, aumentou os núcleos domésticos de produção e possibilitou a acumulação primitiva de capital ao operariado."
+        },
+        {
+          "letra": "D",
+          "texto": "o aumento da interferência do Estado na regulamentação da jornada de trabalho, salário e na criação de sindicatos, deixou o trabalhador sem espaço de manobra na luta por melhores condições de trabalho."
+        },
+        {
+          "letra": "E",
+          "texto": "máquinas cada vez mais sofisticadas, a fábrica tornou-se o local adequado para a produção, favorecendo a divisão do trabalho, a imposição do horário, da disciplina ao trabalhador e o aumento da produtividade."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História Geral (Revolução Industrial)",
+        "Sociologia – Mundo do Trabalho"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Considere a figura abaixo: [Image: Bombardeiros da Luftwaffe (força aérea alemã) atacam Londres, durante a Batalha da Inglaterra, em 1940. (In: Heródoto Barbeiro, Bruna R. Cantele e Carlos A. Schneeberger. História. São Paulo: Scipione, 2004, p. 425)]\nPode-se associar aos bombardeiros que a figura retrata\n(A) o projeto de expansão da Alemanha nazista, baseado na ideia do espaço vital, obstaculizado pela Inglaterra e seus aliados.\n(B) o rompimento do Tratado de Versalhes, em que as cláusulas impostas aos alemães reforçaram o germanismo e mergulharam a população no caos econômico, favorecendo o desenvolvimento de ideais e práticas socialistas.\n(C) o fracasso da Liga das Nações, que reunia representantes de várias nações, como os Estados Unidos e Alemanha, com direito a voto nas decisões da Assembleia para resolver as disputas e evitar a ocorrência de novos conflitos.\n(D) o Pacto Germano-Soviético, que permitia à Alemanha conquistar as regiões petrolíferas da Europa e retomar as disputas imperialistas nos continentes africano e asiático para barrar as pretensões de conquista inglesa na região.\n(E) a teoria do \"socialismo científico\", defendida pelos nazistas, segundo a qual a economia capitalista seria substituída por uma coletiva, numa sociedade supranacional e governada por uma ditadura do proletariado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o projeto de expansão da Alemanha nazista, baseado na ideia do espaço vital, obstaculizado pela Inglaterra e seus aliados."
+        },
+        {
+          "letra": "B",
+          "texto": "o rompimento do Tratado de Versalhes, em que as cláusulas impostas aos alemães reforçaram o germanismo e mergulharam a população no caos econômico, favorecendo o desenvolvimento de ideais e práticas socialistas."
+        },
+        {
+          "letra": "C",
+          "texto": "o fracasso da Liga das Nações, que reunia representantes de várias nações, como os Estados Unidos e Alemanha, com direito a voto nas decisões da Assembleia para resolver as disputas e evitar a ocorrência de novos conflitos."
+        },
+        {
+          "letra": "D",
+          "texto": "o Pacto Germano-Soviético, que permitia à Alemanha conquistar as regiões petrolíferas da Europa e retomar as disputas imperialistas nos continentes africano e asiático para barrar as pretensões de conquista inglesa na região."
+        },
+        {
+          "letra": "E",
+          "texto": "a teoria do \"socialismo científico\", defendida pelos nazistas, segundo a qual a economia capitalista seria substituída por uma coletiva, numa sociedade supranacional e governada por uma ditadura do proletariado."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Geral (Segunda Guerra Mundial)",
+        "História – Nazismo"
+      ]
+    }
+  ]
+}

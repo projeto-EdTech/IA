@@ -1,0 +1,1252 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Campinas",
+  "siglaUniversidade": "PUC-Campinas",
+  "nomeProva": "Prova Geral",
+  "ano": 2023,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A origem dos nossos males, segundo o autor do texto, está",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na incompreensão dos outros, de que tantas vezes somos vítimas sem nos darmos conta disso."
+        },
+        {
+          "letra": "B",
+          "texto": "no culto que dedicamos ao nosso passado, aos sofrimentos reativados por teimosas lembranças."
+        },
+        {
+          "letra": "C",
+          "texto": "na forma como elaboramos a ação dos outros sobre nós, ação esta frequentemente mal interpretada."
+        },
+        {
+          "letra": "D",
+          "texto": "na impossibilidade de compensarmos de algum modo os males que os outros perpetram contra nós."
+        },
+        {
+          "letra": "E",
+          "texto": "no hábito de culparmos inteiramente os outros pelos sofrimentos que nos impusemos a nós mesmos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Ao afirmar, no terceiro parágrafo do texto, que Somos, portanto, os artesãos de nossas reações, o autor do texto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "encarece a possibilidade de fazermos as escolhas que determinarão nosso futuro."
+        },
+        {
+          "letra": "B",
+          "texto": "considera a possibilidade de acusarmos a nós mesmos tanto quanto acusamos os outros."
+        },
+        {
+          "letra": "C",
+          "texto": "lembra que o nosso destino está fatalmente enraizado nos nossos feitos passados."
+        },
+        {
+          "letra": "D",
+          "texto": "julga que parte dos nossos atos deve ser vista como de nossa inteira responsabilidade."
+        },
+        {
+          "letra": "E",
+          "texto": "adverte que não há como nos dispormos a agir sem contar com a incógnita do futuro."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Considerando-se o contexto, traduz-se adequadamente o sentido de um segmento do texto em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "deve haver alguma ofensa passada (1º parágrafo) = inclui-se algum mal superado"
+        },
+        {
+          "letra": "B",
+          "texto": "sofrem da reminiscência da injúria (1º parágrafo) = amargam a recordação da afronta"
+        },
+        {
+          "letra": "C",
+          "texto": "Não são consequências diretas (2º parágrafo) = não representam causas imediatas"
+        },
+        {
+          "letra": "D",
+          "texto": "não constitui propriamente um destino (3º parágrafo) = não é próprio da nossa decisão"
+        },
+        {
+          "letra": "E",
+          "texto": "consagrada a lamber nossas feridas (3º parágrafo) = destinada a nos martirizar"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "As normas de concordância verbal estão plenamente observadas na frase:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Não cabem aos que não arregaçam as mangas apontar seus dedos para os outros."
+        },
+        {
+          "letra": "B",
+          "texto": "Costumam ser de grande valia quaisquer interpretações que se faça com critério."
+        },
+        {
+          "letra": "C",
+          "texto": "Não se devem aos nossos defeitos do passado a má orientação que damos ao presente."
+        },
+        {
+          "letra": "D",
+          "texto": "Situam-se entre a vingança violenta ou confiança no futuro nossa escolha essencial."
+        },
+        {
+          "letra": "E",
+          "texto": "O que constitui os artesãos das próprias reações é a confiança no futuro que criam."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Gramática",
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Em contraste com o estado vegetoanimal com que o autor criativamente expressa sua visão de Dudu, atua esta outra expressão:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Não chega ser um corpo."
+        },
+        {
+          "letra": "B",
+          "texto": "é um resto de pessoa."
+        },
+        {
+          "letra": "C",
+          "texto": "o toque mágico da coroa."
+        },
+        {
+          "letra": "D",
+          "texto": "além da poeira e das moscas."
+        },
+        {
+          "letra": "E",
+          "texto": "O destino e a sociedade reduziram Dudu."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "É adequado o emprego do elemento sublinhado na frase:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A figura do mendigo à quem logo reconhecemos era o Dudu."
+        },
+        {
+          "letra": "B",
+          "texto": "A proteção de Dudu, da qual meu pai empenhou-se, surtiu rápido efeito."
+        },
+        {
+          "letra": "C",
+          "texto": "O pouso da borboleta, de cuja assemelhava um coroamento, emocionou o menino."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas por alguma moedinha de vintém Dudu sentia atração."
+        },
+        {
+          "letra": "E",
+          "texto": "Nem mesmo de uma vaga figura humana a imagem de Dudu se assemelhava."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Gramática",
+        "Língua Portuguesa – Regência Nominal e Verbal",
+        "Língua Portuguesa – Pronomes Relativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Meu pai libertou Dudu e advertiu os agressores: - Nunca mais façam isso, tratem de respeitar o próximo, este homem é como qualquer outro.\nUma vez transposto para o discurso indireto, o texto acima deverá ficar:\nMeu pai libertou Dudu e advertiu os agressores",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "para que nunca mais fizessem isso, que tratem de respeitar o próximo, uma vez que esse homem seria como qualquer outro."
+        },
+        {
+          "letra": "B",
+          "texto": "que nunca mais fizessem aquilo, que tratassem de respeitar o próximo, que aquele homem era como qualquer outro."
+        },
+        {
+          "letra": "C",
+          "texto": "de que nunca mais façam isso, para tratarem de respeitar o próximo, sendo este homem como qualquer outro."
+        },
+        {
+          "letra": "D",
+          "texto": "para não fazerem mais isso, para tratar de se respeitar o próximo, era um homem como qualquer outro."
+        },
+        {
+          "letra": "E",
+          "texto": "a fim que não venham a fazer mais isto, que tratem de respeitar o próximo, fosse aquele homem como qualquer outro."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Gramática",
+        "Língua Portuguesa – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A construção da frase vi Dudu rir, prestar atenção a alguma coisa que não fosse um vintém equivale a afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pouca atenção dava Dudu a vinténs, quando ria."
+        },
+        {
+          "letra": "B",
+          "texto": "Dudu negava-se a rir, se não fosse diante de um vintém."
+        },
+        {
+          "letra": "C",
+          "texto": "riu um Dudu que só se deixava atrair por algum vintém."
+        },
+        {
+          "letra": "D",
+          "texto": "com a atenção diante de um vintém, Dudu não costumava rir."
+        },
+        {
+          "letra": "E",
+          "texto": "nem mesmo um vintém provocava o riso e a atenção de Dudu."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Ficcionistas importantes do século XIX, o romântico José de Alencar e o realista Machado de Assis, apesar das diferenças de perspectiva histórica e de estilo, tiveram em comum a iniciativa de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exaltar, idealizando-os, os valores próprios das diferentes culturas indígenas."
+        },
+        {
+          "letra": "B",
+          "texto": "adotar o tom de um radical nacionalismo em seus contos e romances."
+        },
+        {
+          "letra": "C",
+          "texto": "recuperar pelo esmero da linguagem a retórica do período neoclássico."
+        },
+        {
+          "letra": "D",
+          "texto": "focalizar usos e costumes da vida social urbana ao tempo do Império."
+        },
+        {
+          "letra": "E",
+          "texto": "sedimentar sua produção em prosa nas teses republicanas e abolicionistas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Literatura Brasileira – Romantismo",
+        "Literatura Brasileira – Realismo",
+        "Literatura Brasileira – Características de Época"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "São versos do poema \"Poética\", de Manuel Bandeira:\nTodas as palavras sobretudo os barbarismos universais.\nTodas as construções sobretudo as sintaxes de exceção.\nTodos os ritmos sobretudo os inumeráveis.\nNesses versos o poeta declara",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as posições de um artista simbolista, no livro Cinza das horas."
+        },
+        {
+          "letra": "B",
+          "texto": "as convicções libertárias de uma linguagem tipicamente modernista."
+        },
+        {
+          "letra": "C",
+          "texto": "a desesperança melancólica que dá o tom aos poemas de Carnaval."
+        },
+        {
+          "letra": "D",
+          "texto": "os anseios típicos de um escritor voltado para a vanguarda dos anos 50."
+        },
+        {
+          "letra": "E",
+          "texto": "o compromisso com a arte da prosa prestigiada pela geração de 45."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Literatura Brasileira – Modernismo",
+        "Literatura Brasileira – Poesia",
+        "Literatura Brasileira – Manuel Bandeira"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Graciliano não compôs um ciclo romanesco, um todo fechado, mas uma série de romances cuja descontinuidade é sintoma de um espírito pronto à indagação, à fratura, ao problema.\nA ponderação acima é do crítico Alfredo Bosi e diz respeito, falando da obra de Graciliano Ramos, sobretudo pensando em Caetés, Angústia e Vidas secas,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à frequência com que o autor sistematicamente se apoia no regime confessional da primeira pessoa."
+        },
+        {
+          "letra": "B",
+          "texto": "à primazia da dicção poética em romances cujo tom básico está no dilema entre razão e sentimentalismo."
+        },
+        {
+          "letra": "C",
+          "texto": "à diversidade dos gêneros frequentados, que vão da linguagem épica ao lirismo criativo dos modernistas."
+        },
+        {
+          "letra": "D",
+          "texto": "às múltiplas influências que o autor recebeu tanto dos autores de estilo realista como dos ficcionistas românticos."
+        },
+        {
+          "letra": "E",
+          "texto": "à variedade dos pontos de vista narrativos e das questões básicas em que se enredam bem distintas personagens."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Literatura Brasileira – Modernismo",
+        "Literatura Brasileira – Graciliano Ramos",
+        "Literatura Brasileira – Prosa"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Atente para este poema de Ferreira Gullar, escrito em meados da década de 1960:\nMadrugada\nDo fundo de meu quarto, do fundo\nde meu corpo\nclandestino\nouço (não vejo)\ncrescer no osso da noite e no músculo da noite\na noite\na noite ocidental obscenamente acesa\nsobre meu país dividido em classes\nConvivem e confrontam-se nesse poema duas forças características da poesia de Gullar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o saudosismo e a desesperança sem consolo."
+        },
+        {
+          "letra": "B",
+          "texto": "o humor e a incitação à luta social."
+        },
+        {
+          "letra": "C",
+          "texto": "os polos da subjetividade e da política."
+        },
+        {
+          "letra": "D",
+          "texto": "o biografismo e a alta metafísica."
+        },
+        {
+          "letra": "E",
+          "texto": "as forças do amor e da vã resistência."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Literatura Brasileira – Poesia Contemporânea",
+        "Literatura Brasileira – Ferreira Gullar"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "A alternativa que preenche corretamente a lacuna I é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "rise"
+        },
+        {
+          "letra": "B",
+          "texto": "raise"
+        },
+        {
+          "letra": "C",
+          "texto": "rose"
+        },
+        {
+          "letra": "D",
+          "texto": "raised"
+        },
+        {
+          "letra": "E",
+          "texto": "risen"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "De acordo com o texto, o Museu do Ipiranga",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tornou-se museu em 1895, passando, em seguida, por várias instâncias administrativas até que a Universidade de São Paulo assumiu sua direção em 2013."
+        },
+        {
+          "letra": "B",
+          "texto": "foi inicialmente concebido como um museu sobre a história da Independência do Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "teve sua reforma retardada por falta de verbas dos governos municipal, estadual e federal."
+        },
+        {
+          "letra": "D",
+          "texto": "teve sua área duplicada com a construção de um edifício para abrigar eventos, um espaço educativo e um restaurante."
+        },
+        {
+          "letra": "E",
+          "texto": "é um patrimônio histórico que reforça nossa cultura, devendo servir de incentivo para atrair turistas de todo o Brasil, assim como do estrangeiro."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Segundo o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o fazendeiro Jardim perdeu quase a metade de sua safra de soja devido às mudanças climáticas."
+        },
+        {
+          "letra": "B",
+          "texto": "pequenos produtores de leite foram obrigados a se mudar para a periferia de cidades maiores depois de perderem seu gado devido à seca."
+        },
+        {
+          "letra": "C",
+          "texto": "vários produtores tiveram seus pedidos de empréstimo para financiar a próxima safra recusados por não terem pago dívidas anteriores."
+        },
+        {
+          "letra": "D",
+          "texto": "nas duas últimas safras a produção combinada de soja e milho ficou 47 milhões de toneladas métricas abaixo do esperado devido às condições climáticas desfavoráveis."
+        },
+        {
+          "letra": "E",
+          "texto": "a seca atingiu pequenos e médios produtores em todo o sul do país, principalmente os de soja."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "De acordo com o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o setor do agronegócio já havia sido alertado sobre os possíveis impactos decorrentes de mudança climática."
+        },
+        {
+          "letra": "B",
+          "texto": "o Rio Grande do Sul produziu 56% da safra de soja do país em 2021."
+        },
+        {
+          "letra": "C",
+          "texto": "Assad alarmou-se, há 15 anos, ao entrar em contato com modelos computacionais sobre mudanças climáticas."
+        },
+        {
+          "letra": "D",
+          "texto": "centenas de agricultores se rebelaram contra Jardim devido à falta de apoio da Farsul durante a seca."
+        },
+        {
+          "letra": "E",
+          "texto": "a Embrapa vem recomendando e implementando medidas de manejo do solo para evitar novas quebras de safra no sul do país."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Durante o longo período do Regime Militar, ocorreram alguns eventos com impacto midiático e de grande participação popular em protesto contra o autoritarismo, a exemplo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da passeata da Frente Ampla da MPB, que reuniu milhares de artistas, em São Paulo."
+        },
+        {
+          "letra": "B",
+          "texto": "do funeral do estudante secundarista Edson Luís, em Belo Horizonte."
+        },
+        {
+          "letra": "C",
+          "texto": "do Comício da Central do Brasil, no Rio de Janeiro."
+        },
+        {
+          "letra": "D",
+          "texto": "do culto ecumênico em memória de Vladimir Herzog, na Catedral da Sé."
+        },
+        {
+          "letra": "E",
+          "texto": "da Marcha da Família com Deus pela Liberdade, no Rio de Janeiro."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Regime Militar"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Os processos de unificação da Itália e da Alemanha no século XIX são, em geral, abordados conjuntamente pela historiografia por apresentarem alguns elementos comuns, tais como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a fragmentação de seus territórios, incluindo diferenças culturais e políticas internas, além de fortes tensões com a Áustria, que impôs resistência a esses processos."
+        },
+        {
+          "letra": "B",
+          "texto": "o crescimento de forças nacionalistas que defendiam a unificação, atrelado ao desenvolvimento interno do capitalismo, uma vez que ambos os países eram agroexportadores e não tinham indústrias."
+        },
+        {
+          "letra": "C",
+          "texto": "a ampla participação do exército prussiano nos dois casos, somada à emergência de líderes que defendiam a implementação de Confederações, como Bismarck, na Alemanha, e Garibaldi, na Itália."
+        },
+        {
+          "letra": "D",
+          "texto": "os anseios expansionistas que embasaram ambos os processos liderados por seus respectivos monarcas e apoiados pelo Congresso de Viena que resultaram, décadas depois, na eclosão da I Guerra Mundial."
+        },
+        {
+          "letra": "E",
+          "texto": "a ocorrência de guerras civis estimuladas por setores da burguesia emergente, influenciados pela recente Revolução Francesa, em oposição à monarquia, à nobreza e ao Antigo Regime."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Geral",
+        "História – Século XIX",
+        "História – Unificação Alemã",
+        "História – Unificação Italiana"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O Renascimento cultural surtiu um grande impacto na Europa ao expressar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a crença de que o conhecimento científico deveria ser universal e disseminado por meio do enciclopedismo, a fim de propiciar democraticamente o acesso ao progresso e o mesmo nível de civilização a todos os povos e raças."
+        },
+        {
+          "letra": "B",
+          "texto": "um descontentamento gradativo em relação à imposição de dogmas religiosos que limitavam o pensamento filosófico, a liberdade artística e o conhecimento científico empírico."
+        },
+        {
+          "letra": "C",
+          "texto": "a recusa a práticas originárias na Idade Média como o mecenato, que cerceava a criatividade e o criticismo dos artistas contratados por autoridades ou senhores abastados."
+        },
+        {
+          "letra": "D",
+          "texto": "o propósito de combater, por meio das artes e das letras, a religião e os misticismos, uma vez que o ateísmo, o culto à razão e ao pragmatismo passaram a orientar pensadores e artistas com o advento da modernidade."
+        },
+        {
+          "letra": "E",
+          "texto": "uma nova visão de mundo, por parte de artistas e pensadores que valorizavam o teocentrismo, o humanismo e a perpetuação do legado greco-romano."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Geral",
+        "História – Renascimento Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "A Comissão Econômica para a América Latina e o Caribe, criada pela ONU em 1948, tinha entre seus objetivos pensar soluções para os problemas impostos pelo subdesenvolvimento nos países da região. Esse propósito harmonizava-se aos interesses econômicos dos Estados Unidos na América Latina, nesse momento,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma vez que, no contexto da Guerra Fria, vigorava a Doutrina Monroe, que defendia a América para os americanos em uma clara alusão à polarização política e à expansão mundial do Bloco Socialista em curso."
+        },
+        {
+          "letra": "B",
+          "texto": "uma vez que a agenda econômica em voga nos Estados Unidos e defendida pelos economistas da CEPAL, apelidados de Chicago Boys, eram as políticas neoliberais, que pregavam a ausência do Estado na economia e a autorregulação do mercado como fórmulas para o desenvolvimento acelerado."
+        },
+        {
+          "letra": "C",
+          "texto": "uma vez que o impacto da Revolução Cubana havia fortalecido os grupos revolucionários, muitos deles de orientação marxista, e pairava o temor de que outras revoluções ameaçassem a hegemonia capitalista e a influência dos Estados Unidos no continente."
+        },
+        {
+          "letra": "D",
+          "texto": "uma vez que, nos anos imediatos à II Guerra, interessava aos Estados Unidos fomentarem programas multilaterais de desenvolvimento e ajuda mútua, apoiando o Banco Interamericano de Desenvolvimento criado pela CEPAL e outras iniciativas que integra-vam a Operação Pan-Americana."
+        },
+        {
+          "letra": "E",
+          "texto": "uma vez que a pobreza extrema e o atraso econômico provocavam instabilidade política e restrições para o mercado consumidor, e des-de a Política da Boa Vizinhança havia fortes investimentos norte-americanos visando o estreitamento dos laços comerciais com a América Latina."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Guerra Fria",
+        "História – Relações Internacionais",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Sobre a Revolução Verde, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "teve o efeito de enfraquecer os movimentos migratórios em muitos países africanos e latino-americanos porque ampliava o acesso à terra aos camponeses pobres."
+        },
+        {
+          "letra": "B",
+          "texto": "foi elaborada pela FAO, órgão da ONU que trata da alimentação, com o objetivo de reduzir a pobreza e a desnutrição na Ásia e na África."
+        },
+        {
+          "letra": "C",
+          "texto": "após o México, a Índia foi o segundo país a implantar a Revolução obtendo grande aumento da produtividade de arroz mas não conseguiu superar a desnutrição."
+        },
+        {
+          "letra": "D",
+          "texto": "embora representasse avanço na produção agrícola, foi implantada com sucesso em países temperados, obtendo pouco sucesso no mundo tropical."
+        },
+        {
+          "letra": "E",
+          "texto": "os países que passaram pela Revolução se tornaram autossuficientes na produção da pecuária, menos na Índia por razões de ordem religiosa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Agrária",
+        "Geografia – Revolução Verde"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A Organização Meteorológica Mundial (OMM) aponta o risco de deslocamento populacional ligado à escassez de recursos hídricos em regiões do mundo que menos emitem gases de efeito estufa, a exemplo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do Sahel, na África."
+        },
+        {
+          "letra": "B",
+          "texto": "do Sudeste asiático."
+        },
+        {
+          "letra": "C",
+          "texto": "da América Insular."
+        },
+        {
+          "letra": "D",
+          "texto": "das savanas do leste asiático."
+        },
+        {
+          "letra": "E",
+          "texto": "do Magreb, na África."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia Humana",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Considere a imagem abaixo encontrada no Nordeste brasileiro.\n(Disponível em: altamontanha.com)\nTrata-se de um inselberg que ocorre em áreas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de terrenos recentes e pouco resistentes que sofrem constante erosão fluvial."
+        },
+        {
+          "letra": "B",
+          "texto": "próximas ao litoral e que recebe constantes ventos úmidos que facilitam a erosão."
+        },
+        {
+          "letra": "C",
+          "texto": "sedimentares semelhantes àquelas onde estão as chapadas com topos planos."
+        },
+        {
+          "letra": "D",
+          "texto": "de terrenos cristalinos sob clima semiárido e resulta de forte processo erosivo."
+        },
+        {
+          "letra": "E",
+          "texto": "banhadas por pequenos rios que durante as chuvas inundam as margens e provocam erosão."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geomorfologia",
+        "Geografia – Clima"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Em 2021, apenas dez cidades brasileiras concentraram 9,4% de todo o valor de produção agrícola do país. Um único estado brasileiro apresentou sete dos dez maiores produtores.\nA maior concentração está no estado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do Paraná que, historicamente, apresenta grande produção de cereais."
+        },
+        {
+          "letra": "B",
+          "texto": "do Mato Grosso que lidera a produção nacional de grãos como a soja e o milho."
+        },
+        {
+          "letra": "C",
+          "texto": "do Mato Grosso do Sul que mantém extensas áreas cultivadas com cana-de-açúcar e milho."
+        },
+        {
+          "letra": "D",
+          "texto": "da Bahia que vem se destacando na produção de algodão e soja, ambos para exportação."
+        },
+        {
+          "letra": "E",
+          "texto": "de São Paulo que lidera as produções de cana-de-açúcar e laranja que alimentam as agroindústrias."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Agrária",
+        "Geografia – Economia Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "No plano cartesiano, o vértice da parábola de equação y = x(1-x) e os pontos em que ela intersecta o eixo das abscissas determinam um triângulo de área igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3/16"
+        },
+        {
+          "letra": "B",
+          "texto": "1/5"
+        },
+        {
+          "letra": "C",
+          "texto": "1/16"
+        },
+        {
+          "letra": "D",
+          "texto": "1/4"
+        },
+        {
+          "letra": "E",
+          "texto": "1/8"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Funções Quadráticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Alberto e Bruna têm uma única filha, a Juliana. Os três contribuem para a renda média familiar de R$ 11.000,00. Bruna recebe 20% a mais que Alberto e Juliana recebe a metade da renda total de seus pais. A renda de Alberto é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 10.000,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 11.000,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 12.000,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 8.800,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 13.200,00"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Álgebra",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Três candidatos participaram de um teste com 10 questões. A soma do número de acertos dos três foi 15, sendo que as questões 1, 4 e 5 foram respondidas corretamente pelos três. O número máximo de acertos que qualquer um desses três candidatos pode ter obtido é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "9"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "10"
+        },
+        {
+          "letra": "E",
+          "texto": "6"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Raciocínio Lógico",
+        "Matemática – Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "A tabela apresenta a capacidade instalada para gerar energia eólica para alguns estados brasileiros e os respectivos números de parques eólicos.\nEstado | Capacidade instalada (MW) | Parques\nRN | 4066,1 | 151\nBA | 3951,0 | 154\nCE | 2045,4 | 79\nRS | 1831,8 | 80\nPI | 1638,1 | 60\nA partir da tabela, o estado com a maior capacidade instalada média por parque é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "RN"
+        },
+        {
+          "letra": "B",
+          "texto": "BA"
+        },
+        {
+          "letra": "C",
+          "texto": "CE"
+        },
+        {
+          "letra": "D",
+          "texto": "RS"
+        },
+        {
+          "letra": "E",
+          "texto": "PI"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Estatística",
+        "Matemática – Análise de Dados"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "A quantidade de energia elétrica, em kWh, produzida por uma usina é dada pela multiplicação da potência da usina, em kW, pelo tempo em que a usina ficou em funcionamento, em horas. Sabendo que 1 GW corresponde 10^9 W e supondo que todas as usinas eólicas instaladas no Brasil funcionassem ininterruptamente durante um dia, a quantidade de energia elétrica produzida por elas, nesse período, seria de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,4 x 10^6 kWh"
+        },
+        {
+          "letra": "B",
+          "texto": "1,2 x 10^8 kWh"
+        },
+        {
+          "letra": "C",
+          "texto": "2,4 × 10^8 kWh"
+        },
+        {
+          "letra": "D",
+          "texto": "1,2 x 10^13 kWh"
+        },
+        {
+          "letra": "E",
+          "texto": "2,4 x 10^13 kWh"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletricidade",
+        "Física – Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Os dados coletados pelo TEJW são enviados à Terra por meio de ondas eletromagnéticas, que se propagam no vácuo com velocidade de 300.000 km/s. O intervalo de tempo entre a emissão de um dado pelo TEJW e a chegada desse dado à Terra é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,05 s."
+        },
+        {
+          "letra": "B",
+          "texto": "0,45 s."
+        },
+        {
+          "letra": "C",
+          "texto": "45 s."
+        },
+        {
+          "letra": "D",
+          "texto": "5,0 s."
+        },
+        {
+          "letra": "E",
+          "texto": "50 s."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Ondulatória",
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Considere as seguintes afirmações sobre as Leis de Newton para o movimento dos corpos:\nI. Um corpo permanece em movimento retilíneo com velocidade constante se a resultante de todas as forças que atuam sobre esse corpo for nula.\nII. A intensidade da resultante de todas as forças que atuam sobre um corpo é igual ao produto da massa desse corpo pela aceleração que ele adquire.\nIII. Sempre que um corpo A aplica uma força em um corpo B, esse corpo B aplica no corpo A uma força de mesma intensidade, mesma direção e mesmo sentido que a força aplicada por A.\nEstá correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Mecânica",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Uma barra de ferro de comprimento L₀, à temperatura θ₀, tem seu comprimento aumentado de L ao sofrer uma variação de temperatura θ, sem que ocorra mudança de estado. Outra barra de ferro de comprimento 3 L₀, à temperatura θ₀, ao sofrer uma variação de temperatura 2 θ, sem que ocorra mudança de estado, tem seu comprimento aumentado de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "L"
+        },
+        {
+          "letra": "B",
+          "texto": "1,5 L"
+        },
+        {
+          "letra": "C",
+          "texto": "2 L"
+        },
+        {
+          "letra": "D",
+          "texto": "3 L"
+        },
+        {
+          "letra": "E",
+          "texto": "6 L"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Termologia",
+        "Física – Dilatação Térmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "As diferentes células de um organismo multicelular são especializadas em funções distintas por apresentarem diferenças",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nos seus códigos genéticos."
+        },
+        {
+          "letra": "B",
+          "texto": "nas suas sequências de nucleotídeos."
+        },
+        {
+          "letra": "C",
+          "texto": "na expressão de seus genes."
+        },
+        {
+          "letra": "D",
+          "texto": "nos sistemas de replicação."
+        },
+        {
+          "letra": "E",
+          "texto": "no tamanho de seus genomas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Biologia Celular",
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Platelmintos, nemátodes, anelídeos e anfíbios têm, em comum,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a presença de celoma."
+        },
+        {
+          "letra": "B",
+          "texto": "os metanefrídeos."
+        },
+        {
+          "letra": "C",
+          "texto": "o revestimento de queratina."
+        },
+        {
+          "letra": "D",
+          "texto": "a respiração cutânea."
+        },
+        {
+          "letra": "E",
+          "texto": "o sistema circulatório fechado."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Fisiologia Comparada"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Nas angiospermas, ocorre a dupla fecundação: um dos I fecunda II e o outro une-se III.\nPara completar corretamente a frase acima, I, II e III devem ser substituídos, respectivamente, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "núcleos polínicos o óvulo ao corpúsculo polar"
+        },
+        {
+          "letra": "B",
+          "texto": "grãos de pólen macrosporângio ao microsporângio"
+        },
+        {
+          "letra": "C",
+          "texto": "espermatozóides o ovário ao endosperma triploide"
+        },
+        {
+          "letra": "D",
+          "texto": "esporófitos germinados os megásporos aos micrósporos"
+        },
+        {
+          "letra": "E",
+          "texto": "núcleos espermáticos a oosfera a dois corpúsculos polares"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Reprodução Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Ambientes com altas concentrações de antibióticos podem propiciar o surgimento de linhagens de bactérias resistentes, dificul-tando o tratamento de doenças como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "febre amarela e gripe."
+        },
+        {
+          "letra": "B",
+          "texto": "malária e sífilis."
+        },
+        {
+          "letra": "C",
+          "texto": "febre tifoide e cólera."
+        },
+        {
+          "letra": "D",
+          "texto": "cisticercose e micose."
+        },
+        {
+          "letra": "E",
+          "texto": "dengue e gonorreia."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Microbiologia",
+        "Biologia – Saúde Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A maior concentração encontrada do paracetamol corresponde à concentração, em mol/L, de, aproximadamente,\nDados:\nMassas moleculares (g/mol)\nH = 1,0\nC = 12,0\nN = 14,0\nO = 16,0",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,5 × 10^-4"
+        },
+        {
+          "letra": "B",
+          "texto": "4,5 × 10^-3"
+        },
+        {
+          "letra": "C",
+          "texto": "3,2 x 10^-4"
+        },
+        {
+          "letra": "D",
+          "texto": "1,5 x 10^-6"
+        },
+        {
+          "letra": "E",
+          "texto": "4,5 × 10^-5"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A gabapentina possui os grupos funcionais:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "amina e éster."
+        },
+        {
+          "letra": "B",
+          "texto": "amina e ácido carboxílico."
+        },
+        {
+          "letra": "C",
+          "texto": "amida e éter."
+        },
+        {
+          "letra": "D",
+          "texto": "fenol e ácido carboxílico."
+        },
+        {
+          "letra": "E",
+          "texto": "fenol e éster."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Grupos Funcionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Além do metano, CH4, a pecuária também contribui com a liberação para o ambiente de outro gás estufa, o N2O, o óxido nitroso, que é formado pela transformação microbiana de compostos nitrogenados encontrados em dejetos animais (fezes e urina), presentes no pasto.\nAs moléculas do metano e do óxido nitroso apresentam, respectivamente, as geometrias moleculares",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tetraédrica e linear."
+        },
+        {
+          "letra": "B",
+          "texto": "octaédrica e linear."
+        },
+        {
+          "letra": "C",
+          "texto": "piramidal e linear."
+        },
+        {
+          "letra": "D",
+          "texto": "piramidal e angular."
+        },
+        {
+          "letra": "E",
+          "texto": "tetraédrica e angular."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Geometria Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "A datação por radiocarbono utiliza o isótopo 14 do carbono, 14C . Esse isótopo, ao sofrer decaimento, emite uma partícula beta (_⁰−₁β) para formar um novo elemento de número atômico I e número de massa II.\nAs lacunas I e II são preenchidas, correta e respectivamente, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 e 13"
+        },
+        {
+          "letra": "B",
+          "texto": "6 e 14"
+        },
+        {
+          "letra": "C",
+          "texto": "7 e 13"
+        },
+        {
+          "letra": "D",
+          "texto": "7 e 14"
+        },
+        {
+          "letra": "E",
+          "texto": "6 e 12"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Nuclear",
+        "Física – Física Nuclear"
+      ]
+    }
+  ]
+}

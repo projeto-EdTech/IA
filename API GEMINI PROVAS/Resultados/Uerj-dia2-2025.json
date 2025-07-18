@@ -1,0 +1,1629 @@
+{
+  "nomeUniversidade": "UERJ",
+  "siglaUniversidade": "UERJ",
+  "nomeProva": "2º Exame de Qualificação",
+  "ano": 2025,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Na cidade do Rio de Janeiro, a população já experimentou sensação térmica de 55 °C.\nCom base nos dados do texto, essa mesma temperatura, em graus Fahrenheit, corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "131"
+        },
+        {
+          "letra": "B",
+          "texto": "158"
+        },
+        {
+          "letra": "C",
+          "texto": "212"
+        },
+        {
+          "letra": "D",
+          "texto": "273"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Conversão de Unidades",
+        "Matemática – Funções do 1º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Mas é aí que está o problema: estamos tão familiarizados com o conceito de linearidade que\nimpomos nossa referência de visão linear sobre o que observamos no mundo real. (l. 15-16)\nDIVISÃO DA HISTÓRIA\nPré-história\nIdade Média\nIdade Contemporânea\n1\n2\n3\n4\n5\nIdade Antiga\nIdade Moderna\nAdaptado de mundoeducacao.uol.com.br.\nNa imagem, a divisão da História como conhecimento sobre experiências de sociedades e povos\nestá representada de maneira linear, ratificando a afirmação do fragmento do texto.\nEssa divisão da História é derivada da seguinte concepção:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "antropocêntrica"
+        },
+        {
+          "letra": "B",
+          "texto": "eurocêntrica"
+        },
+        {
+          "letra": "C",
+          "texto": "materialista"
+        },
+        {
+          "letra": "D",
+          "texto": "naturalista"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Periodização Histórica",
+        "História – Historiografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "E parece que a melhor explicação para a nossa dependência excessiva da linearidade vem da\nsala de aula. Pesquisas mostram que nossa propensão para assumir a linearidade surge muito\nantes de deixarmos a escola. (l. 23-25)\nCom o emprego do verbo parecer, na primeira frase do trecho, o autor faz uso de modalização.\nNeste caso, a modalização produz o efeito de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expor uma opinião contrária"
+        },
+        {
+          "letra": "B",
+          "texto": "recusar um indício duvidoso"
+        },
+        {
+          "letra": "C",
+          "texto": "apresentar um saber coletivo"
+        },
+        {
+          "letra": "D",
+          "texto": "evitar uma afirmação categórica"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Modalização",
+        "Língua Portuguesa – Interpretação Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Um exemplo de processo que não obedece a relações lineares simples é observado na fermentação\nalcoólica. Na ausência de oxigênio, as leveduras envolvidas nesse processo, durante uma fase\ndenominada log, crescem exponencialmente, sofrendo reações químicas catabólicas.\nNessa fase, tais reações ocorrem no seguinte componente das células de leveduras:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "núcleo"
+        },
+        {
+          "letra": "B",
+          "texto": "lisossoma"
+        },
+        {
+          "letra": "C",
+          "texto": "citoplasma"
+        },
+        {
+          "letra": "D",
+          "texto": "mitocôndria"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Metabolismo Energético"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Em 2024, o governo brasileiro limitou os juros do cartão de crédito, cobrados quando não se paga\no valor integral de uma fatura. Com o limite estabelecido, não se pode ultrapassar a cobrança de\n100% de juros sobre a dívida do cartão.\nObserve na tabela os fatores F que, aplicados à dívida de um cartão de crédito, determinam o valor\nda dívida total até o mês M.\nM (meses)\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nF (fatores) 1,15 1,32 1,52 1,75 2,01 2,31 2,66 3,06 3,52 4,05 4,65 5,35\nCom base na análise da tabela, o mês M em que a dívida desse cartão atinge juros de 100% é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "7"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Matemática Financeira",
+        "Matemática – Análise de Dados"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Vivemos em um mundo não linear, mas estamos tão acostumados a pensar em linhas retas\nque muitas vezes nem percebemos. (l. 34-35)\nAo longo dos parágrafos, o autor analisa vários eventos não lineares, para, na conclusão do texto,\napresentar sua tese central, citada acima.\nEsse modo de encaminhar a argumentação é denominado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "alusivo"
+        },
+        {
+          "letra": "B",
+          "texto": "indutivo"
+        },
+        {
+          "letra": "C",
+          "texto": "dialético"
+        },
+        {
+          "letra": "D",
+          "texto": "dedutivo"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Tipos de Argumentação",
+        "Língua Portuguesa – Coesão e Coerência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "A França possui um sistema ferroviário com cerca de 30000 quilômetros de extensão, dos quais\naproximadamente 2700 quilômetros são linhas de alta velocidade. Os mapas abaixo referem-se ao\ntransporte de trens na França em 2017.\nNo mapa 1, destacadas em azul, estão as linhas de trem de alta velocidade. No mapa 2, apresenta-se\no tempo de viagem, variável de acordo com o tipo de linha férrea.\nMAPA 1: LINHAS DE ALTA VELOCIDADE\nMAPA 2: TEMPO DE VIAGEM\n(Image of Map 1: High-speed rail lines in France)\n(Image of Map 2: Travel times in France)\nAdaptado de sncf-reseau.com.\nAdaptado de usinenouvelle.com.\nAs distâncias, em linha reta, entre Paris e as cidades de Bordeaux e Toulouse são de 500 e 590\nquilômetros, respectivamente. Com base na análise dos mapas, observa-se que o pensamento\nlinear é inadequado para calcular o tempo de viagem de trem entre a capital francesa e essas\nduas cidades.\nUma característica das duas cidades que explica essa inadequação é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "posição relativa na rede técnica"
+        },
+        {
+          "letra": "B",
+          "texto": "relevância política na escala nacional"
+        },
+        {
+          "letra": "C",
+          "texto": "localização absoluta na topografia plana"
+        },
+        {
+          "letra": "D",
+          "texto": "importância industrial na hierarquia urbana"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Redes de Transporte",
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A reação química elementar de decomposição do dióxido de nitrogênio, representada a seguir,\né um exemplo de modelo cinético não linear.\n2 NO2 (g) → 2 NO (g) + O2 (g)\nObserve no gráfico a variação da velocidade dessa reação em função da concentração de dióxido\nde nitrogênio:\n(Graph: velocidade da reação (mol/L.s) vs. concentração de NO2 (mol/L))\nConsiderando os dados, a constante cinética da reação, em L/mol.s, corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,1"
+        },
+        {
+          "letra": "B",
+          "texto": "0,3"
+        },
+        {
+          "letra": "C",
+          "texto": "0,5"
+        },
+        {
+          "letra": "D",
+          "texto": "0,7"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Cinética Química",
+        "Química – Leis de Velocidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "AS QUESTÕES 09 A 22 REFEREM-SE AO LIVRO QUINCAS BORBA, DE MACHADO DE ASSIS\n(Rio de Janeiro: EdUERJ, 2024), publicado pela primeira vez em 1891.\nCapítulo I\nRubião fitava a enseada – eram oito horas da manhã. Quem o visse, com os polegares metidos\nno cordão do chambre, à janela de uma grande casa de Botafogo, cuidaria que ele admirava\naquele pedaço de água quieta; mas, em verdade, vos digo que pensava em outra coisa. Cotejava\no passado com o presente. Que era, há um ano? Professor. Que é agora? Capitalista. Olha\npara si, para as chinelas (umas chinelas de Túnis, que lhe deu recente amigo, Cristiano Palha),\npara a casa, para o jardim, para a enseada, para os morros e para o céu; e tudo, desde as\nchinelas até o céu, tudo entra na mesma sensação de propriedade.\nNo primeiro parágrafo do romance, o personagem manifesta uma percepção do mundo que revela\numa postura de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "idealização da vida urbana"
+        },
+        {
+          "letra": "B",
+          "texto": "interesse pelo convívio íntimo"
+        },
+        {
+          "letra": "C",
+          "texto": "busca de respeito profissional"
+        },
+        {
+          "letra": "D",
+          "texto": "fascínio pela ostentação pessoal"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)",
+        "Língua Portuguesa – Análise de Personagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Em Quincas Borba, os personagens se movimentam no contexto de emergência do capitalismo\nno Brasil.\nEm relação a esse contexto, o protagonista Rubião pode ser melhor identificado pela seguinte\nfigura de linguagem:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "antítese"
+        },
+        {
+          "letra": "B",
+          "texto": "hipérbole"
+        },
+        {
+          "letra": "C",
+          "texto": "eufemismo"
+        },
+        {
+          "letra": "D",
+          "texto": "metonímia"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Capítulo VI\n(...) Ao vencido, ódio ou compaixão; ao vencedor, as batatas.\n– Mas a opinião do exterminado?\n– Não há exterminado. Desaparece o fenômeno; a substância é a mesma. Nunca viste ferver\nágua? Hás de lembrar-te que as bolhas fazem-se e desfazem-se de contínuo, e tudo fica na\nmesma água. Os indivíduos são essas bolhas transitórias.\n– Bem; a opinião da bolha...\n– Bolha não tem opinião. Aparentemente, há nada mais contristador que uma dessas terríveis\npestes que devastam um ponto do globo? E, todavia, esse suposto mal é um benefício, não só\nporque elimina os organismos fracos, incapazes de resistência, como porque dá lugar à\nobservação, à descoberta da droga curativa.\nO trecho acima sustenta a filosofia do Humanitismo, defendida por Quincas Borba. Essa filosofia\nfaz caricatura dos princípios deterministas do século XIX.\nCom base nessa filosofia, os indivíduos podem se sentir autorizados à seguinte prática:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "valorizar o luxo"
+        },
+        {
+          "letra": "B",
+          "texto": "neutralizar o vício"
+        },
+        {
+          "letra": "C",
+          "texto": "defender a guerra"
+        },
+        {
+          "letra": "D",
+          "texto": "pregar a tolerância"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)",
+        "Filosofia – Correntes Filosóficas do Século XIX"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Capítulo XI\n“Faleceu ontem o Sr. Joaquim Borba dos Santos, tendo suportado a moléstia com singular\nfilosofia. Era homem de muito saber, e cansava-se em batalhar contra esse pessimismo\namarelo e enfezado que ainda nos há de chegar aqui um dia; é a moléstia do século. A última\npalavra dele foi que a dor era uma ilusão (...).”\nA expressão suportar com filosofia denota o seguinte sentimento:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "espanto"
+        },
+        {
+          "letra": "B",
+          "texto": "aceitação"
+        },
+        {
+          "letra": "C",
+          "texto": "animosidade"
+        },
+        {
+          "letra": "D",
+          "texto": "constrangimento"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação Textual",
+        "Língua Portuguesa – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Capítulo XXXV\nIa muita vez ao teatro sem gostar dele, e a bailes, em que se divertia um pouco mas ia menos\npor si que para aparecer com os olhos da mulher, os olhos e os seios. Tinha essa vaidade\nsingular; decotava a mulher sempre que podia, e até onde não podia, para mostrar aos outros\nas suas venturas particulares.\nO trecho acima se refere à relação entre Cristiano Palha e sua esposa, Sofia Palha. A necessidade\ndo marido de “mostrar aos outros as suas venturas particulares” configura-se como uma contradição.\nA contradição se forma porque:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a vontade da esposa é reprimida"
+        },
+        {
+          "letra": "B",
+          "texto": "a intimidade do casal é exposta"
+        },
+        {
+          "letra": "C",
+          "texto": "a intenção do marido sobressai"
+        },
+        {
+          "letra": "D",
+          "texto": "o amor da relação desaparece"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)",
+        "Língua Portuguesa – Análise de Personagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Capítulo XLVII\nNa esquina da Rua dos Ourives deteve-o um ajuntamento de pessoas, e um préstito singular.\nUm homem, judicialmente trajado, lia em voz alta um papel, a sentença. Havia mais o juiz,\num padre, soldados, curiosos. Mas, as principais figuras eram dois pretos. Um deles, mediano,\nmagro, tinha as mãos atadas, os olhos baixos, a cor fula, e levava uma corda enlaçada no\npescoço; as pontas do baraço iam nas mãos de outro preto. (...) Eis o réu que sobe à forca.\nPassou pela turba um frêmito. O carrasco pôs mãos à obra.\nEm sua produção literária, Machado de Assis denuncia a violência da sociedade escravagista.\nNa cena descrita acima, um elemento que ressalta essa violência é uma diferença existente\nentre os dois homens negros.\nO que permite a ação do outro preto mencionado no texto é a sua:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "função"
+        },
+        {
+          "letra": "B",
+          "texto": "origem"
+        },
+        {
+          "letra": "C",
+          "texto": "instrução"
+        },
+        {
+          "letra": "D",
+          "texto": "personalidade"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)",
+        "História – Escravidão e Sociedade Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Capítulo LV\nA última hipótese trouxe à fisionomia do Palha um elemento novo, que não sei como chame.\nDesapontamento? (...) Vá desapontamento. Misturem-lhe o pesar da separação, não esqueçam\na cólera que primeiro trovejou surdamente, e não faltará quem ache que a alma deste homem\né uma colcha de retalhos. Pode ser; moralmente as colchas inteiriças são tão raras!\nNo trecho, observa-se a reação de Cristiano Palha à decisão de Rubião de voltar para Minas, o que\nfaz o narrador se referir à sua alma como uma colcha de retalhos.\nCom base na trajetória de Cristiano Palha, essa descrição enfatiza que o perfil desse personagem\nse constitui a partir de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "emoções sustentadas pelo impulso"
+        },
+        {
+          "letra": "B",
+          "texto": "atitudes pautadas pelo oportunismo"
+        },
+        {
+          "letra": "C",
+          "texto": "posicionamentos articulados pelo idealismo"
+        },
+        {
+          "letra": "D",
+          "texto": "princípios estabelecidos pelo conhecimento"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)",
+        "Língua Portuguesa – Análise de Personagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Capítulo LXIX\nO narrador do romance, em diversos momentos, explicita que está escrevendo uma obra de ficção,\no que representa um processo literário chamado metaficção.\nUma passagem deste capítulo que evidencia esse processo é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É de saber que tinham decorrido oito meses desde o princípio do capítulo anterior, e muita\ncoisa estava mudada."
+        },
+        {
+          "letra": "B",
+          "texto": "Rubião estremeceu; a suposição de que naquele Quincas Borba podia estar a alma do outro\nnunca se lhe varreu inteiramente do cérebro."
+        },
+        {
+          "letra": "C",
+          "texto": "Atrás dos motivos de recusa, vieram outros contrários. E se o negócio rendesse? Se realmente\nlhe multiplicasse o que tinha?"
+        },
+        {
+          "letra": "D",
+          "texto": "Não se admirava de nada. Se um dia acordasse imperador, só se admiraria da demora do\nMinistério em vir cumprimentá-lo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Teoria da Literatura (Metaficção)",
+        "Língua Portuguesa – Narratologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Capítulo CXLII\nA expressão “Conversar com os seus botões”, parecendo simples metáfora, é frase de sentido\nreal e direto. Os botões operam sincronicamente conosco; formam uma espécie de senado,\ncômodo e barato, que vota sempre as nossas moções.\n“Conversar com os seus botões” é uma metáfora gasta, um clichê.\nNo trecho, essa metáfora é revitalizada pois passa por um processo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ampliação"
+        },
+        {
+          "letra": "B",
+          "texto": "oposição"
+        },
+        {
+          "letra": "C",
+          "texto": "restrição"
+        },
+        {
+          "letra": "D",
+          "texto": "injunção"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem (Metáfora)",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Capítulo CXLVIII\nUma só pessoa, o Dr. Camacho, posto julgasse que os bigodes e a pera ficavam muito bem ao\namigo, ponderou que era de bom aviso não alterar o rosto, verdadeiro espelho da alma, cuja\nfirmeza e constância devia reproduzir.\nCom o comentário acima, o narrador sintetiza um conflito presente em todo o romance.\nEsse conflito se estabelece entre os seguintes aspectos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ordem e desordem"
+        },
+        {
+          "letra": "B",
+          "texto": "essência e aparência"
+        },
+        {
+          "letra": "C",
+          "texto": "juventude e maturidade"
+        },
+        {
+          "letra": "D",
+          "texto": "individualismo e solidariedade"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)",
+        "Filosofia – Existencialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Capítulo CLV\nEspalhou-se a nova mania de Rubião. Alguns, não o encontrando nas horas do delírio, faziam\nexperiências, a ver se era verdadeiro o boato; encaminhavam a conversação para os negócios\nde França e do imperador. Rubião resvalava ao abismo, e convencia-os.\nO narrador, em vários capítulos, emprega a metáfora do abismo, antecipando o seguinte problema\nsofrido por Rubião:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "falência"
+        },
+        {
+          "letra": "B",
+          "texto": "loucura"
+        },
+        {
+          "letra": "C",
+          "texto": "solidão"
+        },
+        {
+          "letra": "D",
+          "texto": "traição"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)",
+        "Língua Portuguesa – Simbolismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Capítulo CLXXXVIII\nD. Fernanda é a única personagem do romance dotada de \"simpatia universal”, fazendo com que\natue como elemento de contraste em relação às demais personagens.\nUma passagem do romance que ilustra esse contraste está transcrita em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "D. Fernanda levou o marido para um gabinete, e, à força de beijos, consolou-o daquele golpe.\nAo almoço, já ele sorria, ainda que de um sorriso pálido;"
+        },
+        {
+          "letra": "B",
+          "texto": "No domingo seguinte, D. Fernanda foi à igreja de Santo Antônio dos Pobres. Acabada a missa,\nviu surgir do movimento dos fiéis que se cumprimentavam entre si, ou saudavam o altar, nada\nmenos que o primo, ereto, risonho, gravemente trajado, estendendo-lhe a mão."
+        },
+        {
+          "letra": "C",
+          "texto": "A compaixão de D. Fernanda tinha-a impressionado muito; achou-lhe um quê distinto e nobre,\ne advertiu que se a outra, sem relações estreitas nem antigas com Rubião, assim se mostrava\ninteressada, era de bom tom não ser menos generosa."
+        },
+        {
+          "letra": "D",
+          "texto": "Quincas Borba acudiu ao chamado, não pulando, nem alegre. D. Fernanda inclinou-se,\nperguntou-lhe pelo amigo, se estava longe, se queria ir vê-lo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)",
+        "Língua Portuguesa – Análise de Personagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "(1) Capítulo XLI\nTinha razão, deviam separar-se; só lhe pedia uma coisa, duas coisas; a primeira é que não\nesquecesse aqueles dez minutos sublimes; a segunda é que, todas as noites, às dez horas,\nfitasse o Cruzeiro, ele o fitaria também, e os pensamentos de ambos iriam achar-se ali juntos,\n(2) Capítulo XCVII\nQuando cansou, olhou para o céu; lá estava o Cruzeiro... Oh! Se ela houvesse consentido em\nfitar o Cruzeiro! Outra teria sido a vida de ambos. A constelação pareceu confirmar este\nmodo de sentir, fulgurando extraordinariamente;\n(3) Capítulo CCI\nMas, vendo a morte do cão narrada em capítulo especial, é provável que me perguntes se ele,\nse o seu defunto homônimo é que dá o título ao livro, (...) Eia! Chora os dois recentes mortos,\nse tens lágrimas. Se só tens riso, ri-te! É a mesma coisa. O Cruzeiro, que a linda Sofia não quis\nfitar, como lhe pedia Rubião, está assaz alto para não discernir os risos e as lágrimas dos\nhomens.\nEm (1) e (2), o narrador apresenta a perspectiva de Rubião acerca da constelação do Cruzeiro do\nSul; em (3), o narrador apresenta a própria perspectiva sobre esse conjunto de estrelas.\nA perspectiva de Rubião e a do narrador podem ser caracterizadas, respectivamente, como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "flexível – rígida"
+        },
+        {
+          "letra": "B",
+          "texto": "crédula - cética"
+        },
+        {
+          "letra": "C",
+          "texto": "individual – social"
+        },
+        {
+          "letra": "D",
+          "texto": "ousada - conformista"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)",
+        "Língua Portuguesa – Narrador e Foco Narrativo"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "\"A realidade é boa, o realismo é que não presta para nada.\"\nA declaração acima foi publicada por Machado de Assis num artigo de jornal.\nA frase do narrador de Quincas Borba que melhor se associa à declaração acima é a seguinte:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A imaginação não podia mais, e a realidade próxima atraiu-lhe a vista."
+        },
+        {
+          "letra": "B",
+          "texto": "Já é muito concertar farrapos de realidade."
+        },
+        {
+          "letra": "C",
+          "texto": "Rubião, na rua, voltou a cabeça para todos os lados, a realidade apossava-se dele e o delírio\nesvaía-se."
+        },
+        {
+          "letra": "D",
+          "texto": "Rubião precisava de um pedaço de corda que o atasse à realidade, porque o espírito sentia-se\noutra vez presa da vertigem."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Machado de Assis)",
+        "Língua Portuguesa – Realismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "The dangers of preconceived judgement: look beyond stereotypes (título)\nThe title of the text recommends a way of behaving in relation to stereotypes.\nAn example of such recommendation is clearly expressed in:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "We are all guilty of making snap judgements about others (l. 1-2)"
+        },
+        {
+          "letra": "B",
+          "texto": "It refers to the action of making lightning-fast judgements (l. 8)"
+        },
+        {
+          "letra": "C",
+          "texto": "As amusing as it may seem, such judgements can have real-life consequences. (l. 11-12)"
+        },
+        {
+          "letra": "D",
+          "texto": "We should strive to give people a fair chance before passing judgement. (l. 21)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Compreensão Textual",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "But have you ever wondered why it's important not to judge someone before getting to know\nthem? Do you ever consider that? (l. 3-4)\nThe verb forms underlined above express different ideas due to their tenses.\nThese ideas are, respectively:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "repetition before the present – result in the present"
+        },
+        {
+          "letra": "B",
+          "texto": "result in the present – experience up to the present"
+        },
+        {
+          "letra": "C",
+          "texto": "experience up to the present – behaviour in the present"
+        },
+        {
+          "letra": "D",
+          "texto": "behaviour in the present – repetition before the present"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Gramática (Tempos Verbais)",
+        "Inglês – Verbos"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "In line 8, the term thin slice refers to judgement that is characterized as:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uncommon"
+        },
+        {
+          "letra": "B",
+          "texto": "impulsive"
+        },
+        {
+          "letra": "C",
+          "texto": "impartial"
+        },
+        {
+          "letra": "D",
+          "texto": "unclear"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário em Contexto",
+        "Inglês – Interpretação Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "The expression from the text that means “imagine oneself in somebody else's situation” is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "judge a book by its cover (l. 1)"
+        },
+        {
+          "letra": "B",
+          "texto": "see the true beauty in diversity. (l. 14)"
+        },
+        {
+          "letra": "C",
+          "texto": "put yourself in their shoes (l. 18-19)"
+        },
+        {
+          "letra": "D",
+          "texto": "think outside the box. (l. 28)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Expressões Idiomáticas",
+        "Inglês – Interpretação Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "In the last paragraph, the author offers suggestions so that severe criticism can be avoided.\nOne of these suggestions is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "question preconceptions"
+        },
+        {
+          "letra": "B",
+          "texto": "broaden possibilities"
+        },
+        {
+          "letra": "C",
+          "texto": "reveal imperfections"
+        },
+        {
+          "letra": "D",
+          "texto": "discover insecurities"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Compreensão Textual",
+        "Inglês – Argumentação"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "No gráfico a seguir, está indicada a comparação entre os números de acidentes de trânsito,\nocorridos durante o mês de março, nas avenidas A, B, C e D.\n(Graph showing accidents in March for A, B, C, D)\nEm abril foi feito outro gráfico, na mesma escala, e observou-se que o número de acidentes, de\nmarço para abril, reduziu pela metade em duas dessas avenidas, sem se alterar nas duas outras.\nO gráfico que representa a comparação entre os números de acidentes, nessas avenidas, em\nabril é:\n(Graph options A, B, C, D)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(Graph A)"
+        },
+        {
+          "letra": "B",
+          "texto": "(Graph B)"
+        },
+        {
+          "letra": "C",
+          "texto": "(Graph C)"
+        },
+        {
+          "letra": "D",
+          "texto": "(Graph D)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise de Gráficos",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Um fabricante reduziu a embalagem de seus sucos, mantendo o preço de venda, que era de\nR$ 10,00 por unidade. Na tabela estão apresentadas informações do custo do produto para o\nfabricante, antes e depois da redução.\n(Table: PRODUTO (UNIDADE), Antes da redução, Depois da redução with rows CAPACIDADE (ml), CUSTO DA EMBALAGEM (R$), CUSTO DO CONTEÚDO (R$))\nO aumento percentual do lucro do fabricante, por unidade, em relação ao custo foi igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25%"
+        },
+        {
+          "letra": "B",
+          "texto": "30%"
+        },
+        {
+          "letra": "C",
+          "texto": "45%"
+        },
+        {
+          "letra": "D",
+          "texto": "50%"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Matemática Financeira",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Considere o triângulo retângulo ABC, representado a seguir:\n(Image of a right triangle ABC with angle bisector AD)\nSabe-se que:\n• BC é perpendicular a AC;\n• AD é a bissetriz do ângulo CAB;\n• ABC é igual a 30°;\n• BD mede 20 cm.\nA razão AC/DC é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "√3"
+        },
+        {
+          "letra": "B",
+          "texto": "√2"
+        },
+        {
+          "letra": "C",
+          "texto": "√3\n2"
+        },
+        {
+          "letra": "D",
+          "texto": "√2\n2"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Um professor de educação física realiza regularmente a medição da altura de seus alunos. Na\nturma A, que tem 25 alunos, quando um aluno saiu e outro entrou, o professor fez nova medição.\nAo final, observou que:\n• a altura dos alunos que não saíram não mudou;\n• a altura do aluno que entrou era 1,82 m;\n• a nova média das alturas dos alunos aumentou em 1 cm.\nA altura, em metros, do aluno que saiu dessa turma é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,72"
+        },
+        {
+          "letra": "B",
+          "texto": "1,67"
+        },
+        {
+          "letra": "C",
+          "texto": "1,62"
+        },
+        {
+          "letra": "D",
+          "texto": "1,57"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Estatística",
+        "Matemática – Média Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Observe os gráficos das funções reais f e g, definidas por f(x) = 2x e g(x) = (1/8)^(x-1), sendo x ∈ IR:\n(Graph showing intersection point A(Xo, Yo))\nSendo A(xo, yo) o ponto de interseção desses gráficos, (xo, yo) é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(3/4, √8)"
+        },
+        {
+          "letra": "B",
+          "texto": "(3/2, √8)"
+        },
+        {
+          "letra": "C",
+          "texto": "(3/4, √2)"
+        },
+        {
+          "letra": "D",
+          "texto": "(3/2, √2)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções Exponenciais",
+        "Matemática – Sistemas de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Uma pessoa tem no bolso, exatamente, sete notas de valores diferentes: 2, 5, 10, 20, 50, 100 e 200\nreais, como mostra a imagem.\n(Image of Brazilian banknotes)\nEssa pessoa retira do bolso, ao acaso, apenas três dessas notas.\nO número total de retiradas diferentes em que as três notas somam valor maior que 50 reais é\nigual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "29"
+        },
+        {
+          "letra": "B",
+          "texto": "30"
+        },
+        {
+          "letra": "C",
+          "texto": "31"
+        },
+        {
+          "letra": "D",
+          "texto": "32"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Contagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "No pião representado a seguir, VAB é a seção meridiana de um cone circular reto, e a geratriz do\ncone mede 12 cm. Assim, VA = VB = 12 cm e AB é o diâmetro da base do cone.\nAo ser lançado, esse pião cai sobre o plano horizontal e rola, sem deslizar, com a sua geratriz\napoiada nesse plano. O pião dá apenas uma volta completa em torno do seu eixo, descrevendo o\nsetor circular AVP de centro V e ângulo central de 120°.\n(Image of a cone and its flattened sector)\nA medida do diâmetro AB, em centímetros, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Espacial (Cones)",
+        "Matemática – Geometria Plana (Setores Circulares)"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Vários parasitas heteróxenos obrigatórios, para completar seu ciclo de vida, se associam a vetores\nartrópodes que se alimentam de sangue humano.\nUma vantagem decorrente desse tipo de associação é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "transmissão por ovos"
+        },
+        {
+          "letra": "B",
+          "texto": "encontro entre hospedeiros"
+        },
+        {
+          "letra": "C",
+          "texto": "formação de cistos teciduais"
+        },
+        {
+          "letra": "D",
+          "texto": "hipertrofia de órgãos reprodutores"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Parasitologia",
+        "Biologia – Ciclos de Vida"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Durante um treino, quatro posições ocupadas pelos corredores A e B, deslocando-se em\nmovimento uniforme, foram verificadas em intervalos sucessivos de 10 segundos, obtendo-se os\nseguintes resultados:\n(Table with POSIÇÃO, CORREDOR A, CORREDOR B for M (meses) 1-4)\nApós 60 segundos do início do treino, a distância, em metros, entre os corredores é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30"
+        },
+        {
+          "letra": "B",
+          "texto": "60"
+        },
+        {
+          "letra": "C",
+          "texto": "90"
+        },
+        {
+          "letra": "D",
+          "texto": "120"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Uniforme"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Atri-iodotironina e a tiroxina são hormônios produzidos pela tireoide, conhecidos, respectivamente,\ncomo T3 e T4, em função do número de átomos de iodo presentes em cada molécula. Observe\nsuas fórmulas estruturais:\n(Images of tri-iodotironina (T3) and tiroxina (T4) structures)\nEm relação ao T4, o hormônio T3 apresenta maior número de átomos do seguinte elemento químico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hidrogênio"
+        },
+        {
+          "letra": "B",
+          "texto": "nitrogênio"
+        },
+        {
+          "letra": "C",
+          "texto": "oxigênio"
+        },
+        {
+          "letra": "D",
+          "texto": "carbono"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A bioluminescência consiste na produção de luz por alguns seres vivos, dentre eles os besouros\ncomumente chamados de vaga-lumes. Esses insetos são capazes de controlar a frequência e a\nintensidade da luz que emitem, o que varia de uma espécie para outra.\n(Image of a firefly)\nOs vaga-lumes utilizam a bioluminescência no processo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "predação"
+        },
+        {
+          "letra": "B",
+          "texto": "mimetismo"
+        },
+        {
+          "letra": "C",
+          "texto": "reprodução"
+        },
+        {
+          "letra": "D",
+          "texto": "camuflagem"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Comportamento Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Para determinar a potência dissipada por um equipamento industrial, verificou-se a relação entre\na corrente elétrica i, em ampères, e a tensão U, em volts, aferidas no circuito. O valor da tensão x,\ncorrespondente à corrente de 5 A, não foi registrada, conforme indica o gráfico.\n(Graph: tensão U (V) vs corrente i (A))\nNesse circuito, quando i = 5 A, a potência instantânea dissipada pelo equipamento, em watts, é\nigual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "125"
+        },
+        {
+          "letra": "B",
+          "texto": "150"
+        },
+        {
+          "letra": "C",
+          "texto": "175"
+        },
+        {
+          "letra": "D",
+          "texto": "200"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Leis de Ohm"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "O mineral apatita, utilizado como matéria-prima na produção de fertilizantes, contém diferentes\nsais de cálcio, dentre eles o Ca3(PO4)2.\nNesse sal, o ânion presente é denominado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hipofosfato"
+        },
+        {
+          "letra": "B",
+          "texto": "hipofosfito"
+        },
+        {
+          "letra": "C",
+          "texto": "fosfito"
+        },
+        {
+          "letra": "D",
+          "texto": "fosfato"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Inorgânica",
+        "Química – Nomenclatura de Sais"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "CONSIDERE AS INFORMAÇÕES A SEGUIR PARA RESPONDER ÀS QUESTÕES 41 E 42.\nOPPENHEIMER\n(Image with Oppenheimer movie title)\nOppenheimer, vencedor do Oscar de melhor filme em 2024, retrata o desenvolvimento das duas\nprimeiras bombas atômicas, produzidas pelos Estados Unidos, no contexto da Segunda Guerra\nMundial. A energia liberada pelos dispositivos nucleares, lançados nas cidades de Hiroshima\ne Nagasaki em 1945, foi capaz de provocar a morte de milhares de pessoas, em função de seu\npoder destrutivo, oriundo das reações nucleares em cadeia conduzidas por nêutrons.\nAdaptado de cartacapital.com.\nAs duas bombas lançadas em 1945 apresentavam como material físsil os átomos urânio-235 e\nplutônio-239.\nComparando os núcleos desses dois átomos, a maior quantidade de nêutrons observada\ncorresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "150"
+        },
+        {
+          "letra": "B",
+          "texto": "146"
+        },
+        {
+          "letra": "C",
+          "texto": "145"
+        },
+        {
+          "letra": "D",
+          "texto": "143"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Física Nuclear",
+        "Física – Estrutura Atômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Considere que toda a energia liberada em um intervalo de tempo de 1 s pelas duas bombas\ncorresponde a 1,5 × 10^14 J.\nO gráfico que representa a potência média dessas bombas ao explodirem é:\n(Graph options A, B, C, D showing U(V) vs i(A))",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(Graph A)"
+        },
+        {
+          "letra": "B",
+          "texto": "(Graph B)"
+        },
+        {
+          "letra": "C",
+          "texto": "(Graph C)"
+        },
+        {
+          "letra": "D",
+          "texto": "(Graph D)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Anelídeos oligoquetos se locomovem por meio de movimentos peristálticos, no interior de túneis\npor eles construídos.\nPara que esse tipo de locomoção ocorra, é fundamental a seguinte característica morfológica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "patas articuladas"
+        },
+        {
+          "letra": "B",
+          "texto": "líquido celomático"
+        },
+        {
+          "letra": "C",
+          "texto": "canais ambulacrários"
+        },
+        {
+          "letra": "D",
+          "texto": "exoesqueleto calcário"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Zoologia (Invertebrados)",
+        "Biologia – Fisiologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "O CO₂ produzido na respiração atua no equilíbrio do pH do sangue, conforme a equação:\nCO2 (aq) + H2O (l) <=> H+ (aq) + HCO3-(aq)\nEm um estudo, foi analisada a alteração que quatro fármacos podem produzir sobre esse equilíbrio.\nObserve a tabela:\n(Table with FÁRMACO W, X, Y, Z and corresponding pH values)\nA concentração de íons HCO3-, no equilíbrio, é aumentada quando o seguinte fármaco entra em\ncontato com o sangue:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "W"
+        },
+        {
+          "letra": "B",
+          "texto": "X"
+        },
+        {
+          "letra": "C",
+          "texto": "Y"
+        },
+        {
+          "letra": "D",
+          "texto": "Z"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Equilíbrio Químico",
+        "Química – Ácidos e Bases"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Para variar em 60 °C a temperatura de m quilogramas de água, foi utilizada toda a energia produzida\npela queima de 100 g de etanol. Para essas condições, considere os seguintes valores:\n• poder calorífico do etanol igual a 30,00 kJ/g;\n• calor específico da água igual a 4,20 J/g °C.\nO valor de m, em quilogramas, é aproximadamente igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "36"
+        },
+        {
+          "letra": "B",
+          "texto": "24"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Calorimetria",
+        "Física – Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Admita que determinada doença hereditária autossômica pode apresentar duas formas distintas:\numa causada pelo gene dominante A e outra causada pelo gene recessivo b, estando cada gene\nlocalizado em cromossomos distintos.\nSendo um casal duplamente heterozigoto para esses dois genes, a probabilidade de seus filhos\napresentarem as duas formas da doença corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16,25%"
+        },
+        {
+          "letra": "B",
+          "texto": "17,25%"
+        },
+        {
+          "letra": "C",
+          "texto": "18,75%"
+        },
+        {
+          "letra": "D",
+          "texto": "19,75%"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Hereditariedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "NÍVEL DE SATISFAÇÃO INDIVIDUAL COM A VIDA NA ALEMANHA (2016)\n(Map of Germany showing satisfaction levels by region)\nAdaptado de reddit.com.\nA localização espacial dos estados alemães com índice de satisfação com a vida inferior a 7,0 é\nexplicada, principalmente, pelos processos socioeconômicos ocorridos no país no período de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1918-1933"
+        },
+        {
+          "letra": "B",
+          "texto": "1933-1949"
+        },
+        {
+          "letra": "C",
+          "texto": "1949-1990"
+        },
+        {
+          "letra": "D",
+          "texto": "1990-2020"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Humana",
+        "História – História da Alemanha"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O criado esperava teso e sério. Era espanhol; e não foi sem resistência que Rubião o aceitou das\nmãos de Cristiano; por mais que lhe dissesse que estava acostumado aos seus crioulos de Minas, e\nnão queria línguas estrangeiras em casa, o amigo Palha insistiu, demonstrando-lhe a necessidade\nde ter criados brancos. Rubião cedeu com pena. O seu bom pajem, que ele queria pôr na sala,\ncomo um pedaço da província, nem o pôde deixar na cozinha, onde reinava um francês, Jean, foi\ndegradado a outros serviços.\nMACHADO DE ASSIS\nQuincas Borba. Rio de Janeiro: EdUERJ, 2024.\nO romance Quincas Borba, publicado em livro em 1891, possui como cenário o Rio de Janeiro, na\nsegunda metade do século XIX.\nA passagem transcrita indica, por parte de Rubião, o apego ao seguinte aspecto do contexto da\népoca:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "valorização do progresso"
+        },
+        {
+          "letra": "B",
+          "texto": "trabalho de escravizados"
+        },
+        {
+          "letra": "C",
+          "texto": "modernização de hábitos"
+        },
+        {
+          "letra": "D",
+          "texto": "defesa do republicanismo"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil Império",
+        "História – Escravidão"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A ANTIGA CIVILIZAÇÃO DO TEMPO DESPERDIÇADO\n(Image: Political cartoon showing fossilized people watching TV)\nCACO GALHARDO\nAdaptado de Folha de S. Paulo, 22/05/2024.\nO artista Caco Galhardo faz uma crítica a comportamentos sociais de diversas sociedades\ncontemporâneas, apresentando relações entre passado e futuro.\nDe acordo com a charge, a condição que impacta diretamente no comportamento social\ncontemporâneo é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "demanda política de propaganda"
+        },
+        {
+          "letra": "B",
+          "texto": "hierarquização classista de mercado"
+        },
+        {
+          "letra": "C",
+          "texto": "tecnologia digital de entretenimento"
+        },
+        {
+          "letra": "D",
+          "texto": "imposição cultural de empregabilidade"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Cultura Digital",
+        "Sociologia – Crítica Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Com 1,4 bilhão de habitantes, não dá para juntar 11 atletas num time competitivo? É o que se\nperguntam os torcedores chineses, frustrados mais uma vez por verem a Copa do Mundo sem a\nsua seleção.\nO fracasso tem algo a ensinar sobre a sociedade chinesa e o futebol. A centralização foi muito eficaz\npara atingir as metas do governo e tornar a China uma potência econômica, militar e tecnológica.\nO futebol tornou-se uma dessas metas quando Xi Jinping assumiu o poder. Mas nem o estímulo\ndo líder mais poderoso desde Mao Tsé-tung foi suficiente para a China acertar o pé.\nO sistema centrado na obediência não ajuda a gestar criatividade. Jogadores e treinadores\nestrangeiros que atuaram na China notaram nessa diferença cultural um obstáculo à excelência.\nFoi um choque sobretudo para os brasileiros, ensinados a associar futebol à improvisação, ver\ncomo a reverência à hierarquia afetava tomadas de decisão desde o roupeiro até seus companheiros\nem campo, avessos a qualquer ação fora do roteiro.\nÉ uma mentalidade que favorece o desempenho nas modalidades em que a repetição mecânica é\npremiada, como natação e ginástica – nessas os chineses se destacam. Mas não funciona no futebol.\nMARCELO NINIO\nAdaptado de O Globo, 22/11/2022.\nDe acordo com o autor, o fracasso dos chineses no futebol deve ser atribuído à seguinte característica\npresente naquela sociedade:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "autoritarismo político"
+        },
+        {
+          "letra": "B",
+          "texto": "nacionalismo ufanista"
+        },
+        {
+          "letra": "C",
+          "texto": "controle populacional"
+        },
+        {
+          "letra": "D",
+          "texto": "sentimento xenofóbico"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Regimes Políticos",
+        "Geografia – Geografia Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Cinquenta anos depois, ainda não se consegue falar desapaixonadamente do pós-25 de Abril. A\nrealidade é que esses anos quentes foram feitos de camadas simultâneas de acontecimentos a que\nse juntaram alterações profundas na economia e na sociedade. À distância de meio século, temos\nde agradecer à luta pela democracia em período revolucionário.\nLUÍS PEDRO NUNES\nAdaptado de 25 de Abril de 1974, quinta-feira. Lisboa: Tinta-da-china, 2023.\nEm abril de 2024, comemorou-se o cinquentenário da Revolução dos Cravos, episódio marcante\nda história contemporânea de Portugal, como abordado no texto. Alfredo Cunha retratou em\nsuas fotografias manifestações dessa revolução.\nDentre as fotografias do artista expostas a seguir, a que está diretamente vinculada a rupturas com\nas heranças imperialistas europeias é:\n(Image options A, B, C, D)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(Image A)"
+        },
+        {
+          "letra": "B",
+          "texto": "(Image B)"
+        },
+        {
+          "letra": "C",
+          "texto": "(Image C)"
+        },
+        {
+          "letra": "D",
+          "texto": "(Image D)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Contemporânea",
+        "História – Descolonização"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Os principais empregadores privados da França, que ficaram de fora dos debates sobre o\ncontroverso projeto de lei de imigração do governo, manifestaram-se horas antes de a lei ser\nadotada, em 19 de dezembro de 2023. “Não são os patrões que estão exigindo massivamente\na imigração, é a economia\", disse Patrick Martin, presidente da maior federação patronal do\npaís. E acrescentou: “Até 2050, a menos que reinventemos nossos modelos sociais e econômicos,\nprecisaremos de 3,9 milhões de trabalhadores estrangeiros\".\nA pirâmide etária que representa o país mencionado no reportagem é:\n(Graph options A, B, C, D of age pyramids)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(Age Pyramid A)"
+        },
+        {
+          "letra": "B",
+          "texto": "(Age Pyramid B)"
+        },
+        {
+          "letra": "C",
+          "texto": "(Age Pyramid C)"
+        },
+        {
+          "letra": "D",
+          "texto": "(Age Pyramid D)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – População"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Agravada este ano pelo fenômeno El Niño, a seca sazonal da Amazônia, que levou os rios aos\nmenores níveis da história, atrapalha o transporte de pessoas e mercadorias num momento em\nque os portos das regiões Norte e Nordeste, que formam o chamado Arco Norte, respondem por\nmais de 37% das exportações de soja e milho, principais itens da safra nacional de grãos. Nos\núltimos dez anos, essa rota de escoamento mais do que duplicou sua participação na logística\nnacional. Os portos das regiões Sudeste e Sul formam o Arco Sul, sendo o Porto de Santos (SP)\nainda a principal porta de saída de grãos. Mas a tendência é que a via no norte do país siga\nganhando importância porque, quanto mais acima do paralelo 16° Sul estiver a mercadoria,\nmais vale a pena exportar pelo Arco Norte.\nO CAMINHO DAS EXPORTAÇÕES DE GRÃOS\n(participação percentual nas exportações de soja e milho)\n(Bar chart: Arco Norte vs Arco Sul percentage from 2009-2022)\nVINICIUS NEDER\nAdaptado de O Globo, 05/11/2023.\nEm menos de duas décadas, verifica-se uma alteração logística na exportação de grãos no\nterritório brasileiro.\nEssa alteração é explicada, principalmente, pelo seguinte processo socioespacial:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "utilização de modernas tecnologias de cultivo"
+        },
+        {
+          "letra": "B",
+          "texto": "incorporação de novos espaços produtivos"
+        },
+        {
+          "letra": "C",
+          "texto": "eliminação de antigas práticas predatórias"
+        },
+        {
+          "letra": "D",
+          "texto": "recuperação de velhas ferrovias de carga"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Agrária",
+        "Geografia – Logística e Transporte"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "ENCHENTES EM PORTO ALEGRE: IMAGENS AÉREAS DO MERCADO PÚBLICO\n(Image: 1941 and 2024 aerial views of Porto Alegre market, 2024 showing flood)\nApós 83 anos, a cidade de Porto Alegre voltou a registrar uma grande enchente. Em 1941, a capital\ngaúcha enfrentou um alagamento histórico, que deixou cerca de 70 mil pessoas desabrigadas. Na\nocasião, o nível do Guaíba, cuja cota de inundação é de 3 metros, chegou a uma altura entre 4,75 e\n4,76 metros, segundo registros da época. Desta vez, o nível do Guaíba passou de 5,3 metros e, no\ndia 8 de maio de 2024, atingiu 5,07 metros.\ncnnbrasil.com.br\nAs grandes enchentes que afetaram Porto Alegre, nos anos de 1941 e 2024, mencionadas na\nreportagem, indicam a incidência desse problema na capital gaúcha.\nNa atualidade, o agravamento desse problema está relacionado ao contexto de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "intensificação da crise climática"
+        },
+        {
+          "letra": "B",
+          "texto": "exploração de recursos minerais"
+        },
+        {
+          "letra": "C",
+          "texto": "degradação do bioma do Pampa"
+        },
+        {
+          "letra": "D",
+          "texto": "permeabilização do solo da cidade"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "(Image: Indigenous leaders with banner \"CONSTITUINTES: QUEREMOS NOSSOS\nDIREITOS NÃO À ACULTURAÇÃO\" during 1988 Constitution negotiations)\nAdaptado de Folha de S. Paulo, 14/02/2024.\nA mobilização política de povos indígenas garantiu direitos para essas populações na Constituição\nBrasileira promulgada em 1988.\nNaquele contexto, a garantia do direito constitucional apresentado na fotografia representou a\ndefesa da ideia de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estatização"
+        },
+        {
+          "letra": "B",
+          "texto": "apropriação"
+        },
+        {
+          "letra": "C",
+          "texto": "emancipação"
+        },
+        {
+          "letra": "D",
+          "texto": "autodeterminação"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil República",
+        "Sociologia – Direitos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "VARIAÇÃO DO TOTAL POPULACIONAL NACIONAL (2013-2023)\n(Map of Europe showing percentage population change by country)\nAdaptado de reddit.com.\nDe acordo com o mapa, entre 2013 e 2023, vários Estados europeus tiveram aumento de sua\npopulação absoluta.\nConsiderando a dinâmica populacional desse continente, essa variação está associada ao seguinte\nprocesso demográfico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "saldo migratório positivo"
+        },
+        {
+          "letra": "B",
+          "texto": "índice de fertilidade ascendente"
+        },
+        {
+          "letra": "C",
+          "texto": "crescimento vegetativo negativo"
+        },
+        {
+          "letra": "D",
+          "texto": "taxa de mortalidade descendente"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – Migrações"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Nos dias 1º e 2 de novembro de 2023, ocorreu no Reino Unido a Conferência de Segurança sobre\nInteligência Artificial (IA), que reuniu representantes de governos, empresas e sociedade civil de\nvárias partes do mundo e culminou com uma declaração conjunta emitida pelos países participantes.\n(Image: Political cartoon on AI safety conference)\nKAL\nAdaptado de economist.com, 02/11/2023.\nO autor da charge ironiza o resultado da conferência ao apontar uma possível contradição de\nalguns países participantes.\nEssa contradição envolve os seguintes fatores:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "direitos humanos – ordenamentos jurídicos"
+        },
+        {
+          "letra": "B",
+          "texto": "acordos comerciais – práticas monopolistas"
+        },
+        {
+          "letra": "C",
+          "texto": "desenvolvimento econômico – poderio militar"
+        },
+        {
+          "letra": "D",
+          "texto": "posicionamento diplomático – interesse estratégico"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Geopolítica",
+        "Sociologia – Tecnologia e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Na Nova Holanda, comunidade do Complexo da Maré, no Rio de Janeiro, terraços cobertos por\nalumínio e fibrocimento (antigo amianto) predominam, em comparação com os de PVC, mais\ncaros. E aquecem mais durante os dias de calorão turbinado pelo aquecimento global. Segundo\na tese de doutorado do arquiteto e urbanista Lucivaldo Dias Bastos, predominam temperaturas\nmais elevadas sob as telhas mais baratas até mesmo em relação a um ponto medido na avenida\nBrasil, próximo à favela, apesar da quantidade de cimento e da falta de árvores na via expressa.\nO estudo revela uma dura realidade: os que vivem em áreas carentes sofrem mais os efeitos do\ncalor do que aqueles que moram em localidades consideradas mais nobres. Áreas dos subúrbios\nda Central e da Leopoldina – onde estão os complexos da Maré, da Penha e do Alemão – são as\nmais quentes da cidade, levando em conta tanto a temperatura da superfície, captada por satélites,\ncomo a do ar, registrada por aferições de campo.\nSELMA SCHMIDT\nAdaptado de O Globo, 07/01/2024.\nA reportagem relata um fenômeno que é espacialmente diferenciado.\nIsso se deve a uma situação de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inversão térmica"
+        },
+        {
+          "letra": "B",
+          "texto": "injustiça ambiental"
+        },
+        {
+          "letra": "C",
+          "texto": "poluição atmosférica"
+        },
+        {
+          "letra": "D",
+          "texto": "macrocefalia urbana"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Questões Socioambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "(Image of Estação Ferroviária Leopoldina)\nA Estação Ferroviária Leopoldina não abriga o mais belo dos aspectos visuais, visto que sua\nhistórica fachada está pichada, suja e mal conservada. No entanto, em outros tempos, essa parada\nda cidade do Rio de Janeiro simbolizou o que havia de mais charmoso no Brasil. “A linha que\npartia dessa estação unia o centro do Rio a Petrópolis e a Três Rios. As viagens, no início, eram\ncheias de requinte”, conta o historiador Maurício Santos.\nInaugurada em 1926, era chamada de Barão de Mauá, para homenagear Irineu Evangelista de\nSouza, um dos pioneiros da construção de ferrovias no país. A estação foi elogiada inclusive por\nestrangeiros admiradores de boa arquitetura, segundo o historiador. Em 2002, deixou de ser\nutilizada definitivamente para embarque de passageiros, que passaram a embarcar na estação\nDom Pedro II, conhecida como Central do Brasil.\nQUINTINO GOMES FREIRE\nAdaptado de diariodorio.com, 18/03/2015.\nAs estações de trem representaram um modelo exitoso de investimento em meios de transporte,\nno decorrer dos séculos XIX até meados do século XX.\nA desativação da Estação Ferroviária Leopoldina, no início do século XXI, decorre do seguinte\naspecto das transformações urbanas na cidade do Rio de Janeiro:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "crescimento de ações para a ocupação de periferias e favelas"
+        },
+        {
+          "letra": "B",
+          "texto": "deslocamento de verbas para a circulação de automóveis e ônibus"
+        },
+        {
+          "letra": "C",
+          "texto": "ordenamento de iniciativas para a geração de empregos e serviços"
+        },
+        {
+          "letra": "D",
+          "texto": "aprimoramento de práticas para a integração de indústrias e finanças"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Redes de Transporte"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Back in Bahia [De volta à Bahia]\n(Lyrics by Gilberto Gil)\nGILBERTO GIL\nDisponível em letras.mus.br.\nEssa canção foi gravada originalmente em 1972, por Gilberto Gil, no momento mais repressivo dos\ngovernos militares vigentes no Brasil entre 1964 e 1984.\nConsiderando o contexto histórico de sua gravação, as duas principais ideias que explicam a\nreferência à Bahia são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exílio e reelaboração"
+        },
+        {
+          "letra": "B",
+          "texto": "conformismo e negação"
+        },
+        {
+          "letra": "C",
+          "texto": "passadismo e resignação"
+        },
+        {
+          "letra": "D",
+          "texto": "ressentimento e projeção"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Ditadura Militar no Brasil",
+        "Arte – Música Brasileira"
+      ]
+    }
+  ]
+}

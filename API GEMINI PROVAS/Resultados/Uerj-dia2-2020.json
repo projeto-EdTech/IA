@@ -1,0 +1,1635 @@
+{
+  "nomeUniversidade": "UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO",
+  "siglaUniversidade": "UERJ",
+  "nomeProva": "2º EXAME DE QUALIFICAÇÃO",
+  "ano": 2020,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Considerada a forma por excelência da linguagem figurada, a metáfora às vezes é tida como mero embelezamento do discurso. (l. 6-7)\nCom a ampliação da visão sobre o papel da metáfora, ressalta-se a seguinte propriedade dessa figura de linguagem:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "atua na organização das percepções de mundo"
+        },
+        {
+          "letra": "B",
+          "texto": "induz ao esquecimento das vivências negativas"
+        },
+        {
+          "letra": "C",
+          "texto": "delimita a fronteira entre saberes comuns e científicos"
+        },
+        {
+          "letra": "D",
+          "texto": "possibilita o contato entre concepções culturais distintas"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação textual",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "IDENTIDADE (1992)\nElevador é quase um templo\nExemplo pra minar teu sono\nSai desse compromisso\nNão vai no de serviço\nSe o social tem dono, não vai...\nQuem cede a vez não quer vitória\nSomos herança da memória\nTemos a cor da noite\nFilhos de todo açoite\nFato real de nossa história\nSe o preto de alma branca pra você\nÉ o exemplo da dignidade\nNão nos ajuda, só nos faz sofrer\nNem resgata nossa identidade\nJORGE ARAGÃO\nvagalume.com.br\nA metáfora \"preto de alma branca” é criticada na letra da canção por estar associada a um contexto de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "intolerância cultural"
+        },
+        {
+          "letra": "B",
+          "texto": "desigualdade étnica"
+        },
+        {
+          "letra": "C",
+          "texto": "discriminação política"
+        },
+        {
+          "letra": "D",
+          "texto": "hierarquia econômica"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação textual",
+        "Língua Portuguesa – Análise de Letra de Música",
+        "Sociologia – Relações Raciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "JUROS E TAXAS DE FINANCIAMENTOS IMOBILIÁRIOS EXPLODEM DÍVIDA REAL\nOs financiamentos imobiliários surpreendem os clientes. Ao longo do tempo, os juros e as taxas de correção monetária de seus empréstimos fazem com que os valores de suas dívidas reais sejam bem mais altos do que o esperado. Esse aumento é expresso pela metáfora contida no verbo \"explodir\".\nConsidere que, após o pagamento de 24 parcelas mensais de R$1.000,00 mais os juros e taxas estabelecidos pelo banco, um cliente esperava que sua dívida real fosse reduzida em R$24.000,00. Porém, a redução foi de R$16.000,00.\nEm relação a R$24.000,00, o valor de R$16.000,00 representa um percentual que está mais próximo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "55%"
+        },
+        {
+          "letra": "B",
+          "texto": "67%"
+        },
+        {
+          "letra": "C",
+          "texto": "75%"
+        },
+        {
+          "letra": "D",
+          "texto": "87%"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Há um tipo de ligação interatômica em que os elétrons das camadas mais externas transitam entre os cátions da rede cristalina. Por essa característica, tal ligação é comparada a um “mar de elétrons\".\n“Mar de elétrons” é uma metáfora que se refere ao seguinte tipo de ligação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "iônica"
+        },
+        {
+          "letra": "B",
+          "texto": "metálica"
+        },
+        {
+          "letra": "C",
+          "texto": "covalente"
+        },
+        {
+          "letra": "D",
+          "texto": "de hidrogênio"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Ligações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "\"Isso é apenas a ponta do iceberg” é uma metáfora utilizada em contextos onde há mais informação sobre um determinado fato do que se pode perceber de imediato. Essa analogia é possível pois 90% de cada um desses blocos de gelo estão submersos, ou seja, não estão visíveis.\nEssa característica está associada à seguinte propriedade física do iceberg:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inércia"
+        },
+        {
+          "letra": "B",
+          "texto": "dureza"
+        },
+        {
+          "letra": "C",
+          "texto": "densidade"
+        },
+        {
+          "letra": "D",
+          "texto": "temperatura"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Densidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "É mais fácil para nós entender que a depressão é uma espécie de buraco negro e que o DNA é o manual de instruções de cada ser vivo. (l. 18-19)\nNa argumentação do segundo parágrafo, a frase citada configura um recurso de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ênfase"
+        },
+        {
+          "letra": "B",
+          "texto": "causalidade"
+        },
+        {
+          "letra": "C",
+          "texto": "conceituação"
+        },
+        {
+          "letra": "D",
+          "texto": "exemplificação"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Tipos de Argumentação",
+        "Língua Portuguesa – Interpretação textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Os microtúbulos, produzidos pelos centríolos, costumam ser comparados a trilhos, já que é por meio deles que o material genético se desloca durante a divisão celular. A imagem abaixo ilustra essas estruturas.\n(Image: centríolos, microtúbulos, material genético, centrômero)\nDurante o processo de divisão mitótica, os microtúbulos são responsáveis pelo processo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "espiralização do DNA"
+        },
+        {
+          "letra": "B",
+          "texto": "recombinação dos alelos"
+        },
+        {
+          "letra": "C",
+          "texto": "duplicação das cromátides"
+        },
+        {
+          "letra": "D",
+          "texto": "organização dos cromossomos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Divisão Celular",
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "No texto, apresenta-se o princípio que estrutura as metáforas por meio da seguinte palavra sublinhada:\n(A) examinar realidades, conceitos e teorias novas de uma maneira prática. (l. 15)\n(B) situações complexas em que a literalidade acaba sendo tediosa, (l. 17-18)\n(C) Comparações ruins levam a políticas ruins, (l. 26-27)\n(D) No campo da medicina, tem havido mudanças de paradigma (l. 28)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "examinar realidades, conceitos e teorias novas de uma maneira prática. (l. 15)"
+        },
+        {
+          "letra": "B",
+          "texto": "situações complexas em que a literalidade acaba sendo tediosa, (l. 17-18)"
+        },
+        {
+          "letra": "C",
+          "texto": "Comparações ruins levam a políticas ruins, (l. 26-27)"
+        },
+        {
+          "letra": "D",
+          "texto": "No campo da medicina, tem havido mudanças de paradigma (l. 28)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação textual",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "SÉCULO XVII: O BRASIL QUE ERA UM ARQUIPÉLAGO\n(Map legend: Meridiano de Tordesilhas, ouro, drogas do sertão, cana de açúcar, pecuária, eixo de expansão da pecuária, limite dos Estados atuais, região ocupada pelos holandeses, cidades e vilas, rios. Map shows concentrations of activities and regions)\nA partir da análise do mapa, constata-se que o uso da metáfora do “arquipélago” no título da imagem expressa a seguinte característica da organização espacial do Brasil naquele momento:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reduzida integração econômica do território colonial"
+        },
+        {
+          "letra": "B",
+          "texto": "desigual distribuição regional da atividade industrial"
+        },
+        {
+          "letra": "C",
+          "texto": "excessiva diluição política do poder governamental"
+        },
+        {
+          "letra": "D",
+          "texto": "acentuada fragmentação fundiária da propriedade rural"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Colônia",
+        "Geografia – Organização do Espaço Geográfico"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "A história da expressão “mar de lama”, relatada por Sérgio Rodrigues, reforça uma ideia apontada no texto O que nossas metáforas dizem de nós.\nEssa ideia está sintetizada na seguinte frase do texto base:\n(A) Com frequência são nossa bússola invisível, orientando tanto os gestos instintivos que fazemos como as decisões mais importantes que tomamos. (l. 10-12)\n(B) É muito provável que aqueles que concebem a vida como uma cruz e os que a entendem como uma viagem não reajam da mesma forma ante um mesmo dilema. (l. 12-13)\n(C) As figurações dão coesão às identidades coletivas, pois circulam sem cessar até se incorporarem à linguagem cotidiana. (l. 20-21)\n(D) As boas metáforas nos trazem outras perspectivas, fronteiras menos rígidas e novas categorizações que substituem aquelas já desgastadas. (l. 36-37)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Com frequência são nossa bússola invisível, orientando tanto os gestos instintivos que fazemos como as decisões mais importantes que tomamos. (l. 10-12)"
+        },
+        {
+          "letra": "B",
+          "texto": "É muito provável que aqueles que concebem a vida como uma cruz e os que a entendem como uma viagem não reajam da mesma forma ante um mesmo dilema. (l. 12-13)"
+        },
+        {
+          "letra": "C",
+          "texto": "As figurações dão coesão às identidades coletivas, pois circulam sem cessar até se incorporarem à linguagem cotidiana. (l. 20-21)"
+        },
+        {
+          "letra": "D",
+          "texto": "As boas metáforas nos trazem outras perspectivas, fronteiras menos rígidas e novas categorizações que substituem aquelas já desgastadas. (l. 36-37)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação textual",
+        "Língua Portuguesa – Relação intertextual"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Metáforas são um perigo. (l. 1)\nNo primeiro parágrafo do texto Com a lama na alma, o autor dá um tratamento metafórico à própria metáfora.\nEsse procedimento é exemplificado pelo seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "jorram pelas encostas do sentido literal, (l. 1-2)"
+        },
+        {
+          "letra": "B",
+          "texto": "fenômeno menos raro do que parece, (l. 2)"
+        },
+        {
+          "letra": "C",
+          "texto": "poder de destruição física. (l. 2)"
+        },
+        {
+          "letra": "D",
+          "texto": "expressão brandida pela UDN (l. 4)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Análise do Discurso"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Para expor um ponto de vista, o autor se vale de ironia no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "arma de mobilização eleitoral que o populismo de direita não inventou agora. (l. 7-8)"
+        },
+        {
+          "letra": "B",
+          "texto": "o mar de lama do Palácio do Catete ganhou um ar até bucólico de poça d'água, (l. 14-15)"
+        },
+        {
+          "letra": "C",
+          "texto": "Na tradição rural – vastíssima nos sentidos geográfico e histórico (l. 17)"
+        },
+        {
+          "letra": "D",
+          "texto": "O oceano goza de boa reputação científica como provável criadouro da vida (l. 29)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Interpretação textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Ao recuperar os sentidos atribuídos à palavra “lama”, Sérgio Rodrigues indica que as metáforas se caracterizam como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "emocionais"
+        },
+        {
+          "letra": "B",
+          "texto": "universais"
+        },
+        {
+          "letra": "C",
+          "texto": "racionais"
+        },
+        {
+          "letra": "D",
+          "texto": "culturais"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação textual",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "JASÃO:\nEu só não gosto\nde deixar este fim de mundo sem levar\ntudo o que sempre foi pra mim a vida inteira\nUma alegria ou outra, um pouco de saudade,\nmeus filhos, minha carteira de identidade,\ncada bagulho, meu calção, minha chuteira,\na mesa do boteco, o time de botão,\ntanto amigo, tanto fumo, tanta birita,\nque dava pra botar na sala de visita\nmas ia atrapalhar toda a decoração...\nAs recordações de Jasão atrapalhariam a decoração da casa nova pois representam o seguinte elemento de sua vida:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "origem pobre"
+        },
+        {
+          "letra": "B",
+          "texto": "infância traumática"
+        },
+        {
+          "letra": "C",
+          "texto": "educação precária"
+        },
+        {
+          "letra": "D",
+          "texto": "família desajustada"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação textual",
+        "Língua Portuguesa – Análise de Personagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "JOANA:\n(...)\nOlhando eles assim, sem sofrimento,\nimóveis, sorrindo até, flutuando,\nolhando eles assim, fiquei pensando:\npodem acordar a qualquer momento\nSe eles acordam, minha vida assim\ndo jeito que ela está destrambelhada,\nsem pai, sem pão, a casa revirada,\nse eles acordam, vão olhar pra mim\nVão olhar pro mundo sem entender\nVão perder a infância, o sonho e o sorriso\npro resto da vida... Ouçam, eu preciso\nde vocês e vocês vão compreender:\nduas crianças cresceram pra nada,\npra levar bofetada pelo mundo,\nmelhor é ficar num sono profundo\ncom a inocência assim cristalizada\nO fragmento da cena acima contém um índice, para os leitores, da construção da história.\nA função desse índice é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "provocar catarse"
+        },
+        {
+          "letra": "B",
+          "texto": "preparar o desfecho"
+        },
+        {
+          "letra": "C",
+          "texto": "caracterizar o cenário"
+        },
+        {
+          "letra": "D",
+          "texto": "apresentar a personagem"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Elementos da Narrativa",
+        "Língua Portuguesa – Interpretação textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "JASÃO:\nPuxa, mestre, o senhor é cismento\nEu já lhe falei pra levantar\ngrana num banco. Aí moderniza\na oficina, põe pra trabalhar\nuns empregados e nem precisa\nforçar a vista. Fica ali só\nna administração... (Levantando)\nEGEU:\n(Com autoridade) Presepada,\nmenino... Tira esse paletó\ne senta aí. Que banco que nada!\nSenta duma vez, eu tou mandando\nPega o alicate e a chave de fenda\ne vai matutando, matutando,\naté que você um dia aprenda\na ser dono da sua consciência\nA reação de Mestre Egeu se baseia em uma avaliação implícita acerca de Jasão.\nDe acordo com essa avaliação, o compositor se caracteriza como uma pessoa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "manipulada pelo sogro"
+        },
+        {
+          "letra": "B",
+          "texto": "enganada pelos amigos"
+        },
+        {
+          "letra": "C",
+          "texto": "inexperiente com trabalho"
+        },
+        {
+          "letra": "D",
+          "texto": "irresponsável com dinheiro"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação textual",
+        "Língua Portuguesa – Análise de Personagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "JOANA:\nO pai e a filha vão colher a tempestade\nA ira dos centauros e de pomba-gira\nlevará seus corpos a crepitar na pira\ne suas almas a vagar na eternidade\nOs dois vão pagar o resgate dos meus ais\nPara tanto invoco o testemunho de Deus,\na justiça de Têmis e a bênção dos céus,\nos cavalos de São Jorge e seus marechais,\nHécate, feiticeira das encruzilhadas,\npadroeira da magia, deusa-demônia,\nfalange de Ogum, sintagmas da Macedônia,\nsuas duzentas e cinquenta e seis espadas,\nmago negro das trevas, flecha incendiária,\nLambrego, Canheta, Tinhoso, Nunca-visto,\nfazei desta fiel serva de Jesus Cristo\nde todas as criaturas a mais sanguinária\nA invocação de Joana, que revela uma característica da religiosidade brasileira, é organizada por meio de certo recurso literário.\nEsse recurso e a característica da religiosidade são nomeados, respectivamente, como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "gradação e fé"
+        },
+        {
+          "letra": "B",
+          "texto": "polifonia e culpa"
+        },
+        {
+          "letra": "C",
+          "texto": "dramaticidade e formalidade"
+        },
+        {
+          "letra": "D",
+          "texto": "intertextualidade e sincretismo"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Recursos Literários",
+        "Sociologia – Sincretismo Religioso"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "CREONTE:\nEsperem um pouco\nEu preciso de alguém pra refletir\ncomigo se eu estou caduco, louco,\nou o mundo está ficando esquisito...\nFazem baderna, chiam, quebram trem,\nQuebram estação, muito bem, bonito\nE a gente inda tem que dizer amém\nJASÃO:\nNão discuto quebrar... Agora\nquem às três da manhã tá de olho aberto,\nse espreme pra chegar no emprego às sete,\nlá passa o dia todo, volta às onze\nda noite pra acordar a canivete\nde novo às três, tinha que ser de bronze\npra fazer isso sempre, todo dia\n(...)\nNa resposta de Jasão a Creonte, o uso da palavra “agora”, sublinhada acima, possui função argumentativa, expressando sentido de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "condição"
+        },
+        {
+          "letra": "B",
+          "texto": "oposição"
+        },
+        {
+          "letra": "C",
+          "texto": "conclusão"
+        },
+        {
+          "letra": "D",
+          "texto": "explicação"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Conectivos",
+        "Língua Portuguesa – Análise Sintática e Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "JOANA:\n(...)\nSeu povo é que é urgente, força cega,\ncoração aos pulos, ele carrega\num vulcão amarrado pelo umbigo\nEle então não tem tempo, nem amigo,\nnem futuro, que uma simples piada\npode dar em risada ou punhalada\nComo a mesma garrafa de cachaça\nacaba em carnaval ou desgraça\nNa caracterização do povo brasileiro feita por Joana no trecho acima, observa-se uma sequência da seguinte figura de linguagem:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ironia"
+        },
+        {
+          "letra": "B",
+          "texto": "paródia"
+        },
+        {
+          "letra": "C",
+          "texto": "antítese"
+        },
+        {
+          "letra": "D",
+          "texto": "eufemismo"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Interpretação textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "JOANA:\n(...)\nJá lhe dei meu corpo, não me servia\nJá estanquei meu sangue, quando fervia\nOlha a voz que me resta\nOlha a veia que salta\nOlha a gota que falta\nPro desfecho da festa\nPor favor\nDeixa em paz meu coração\nQue ele é um pote até aqui de mágoa\nE qualquer desatenção\n- faça não\nPode ser a gota d'água\n(...)\nA expressão \"gota d'água” é uma metáfora que expressa o sentimento de Joana.\nDentre os acontecimentos da peça vividos pela personagem, aquele que se torna a gota d'água é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a traição de Nenê"
+        },
+        {
+          "letra": "B",
+          "texto": "o conselho de Egeu"
+        },
+        {
+          "letra": "C",
+          "texto": "o desprezo de Alma"
+        },
+        {
+          "letra": "D",
+          "texto": "o casamento de Jasão"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação textual",
+        "Língua Portuguesa – Análise de Personagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "UTILIZE O TRECHO A SEGUIR PARA RESPONDER ÀS QUESTÕES 21 E 22.\nJOANA:\n(...)\nA Creonte, à filha, a Jasão e companhia\nvou deixar esse presente de casamento\nEu transfiro pra vocês a nossa agonia\nporque, meu Pai, eu compreendi que o sofrimento\nde conviver com a tragédia todo dia\né pior que a morte por envenenamento\n(...)\nNo final da peça, Joana fala do “sofrimento de conviver com a tragédia todo dia”.\nEm relação a esse sofrimento, a personagem tem uma reação que consiste em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conter emoção excessiva"
+        },
+        {
+          "letra": "B",
+          "texto": "provocar dor desmedida"
+        },
+        {
+          "letra": "C",
+          "texto": "despertar memória repulsiva"
+        },
+        {
+          "letra": "D",
+          "texto": "manifestar opinião agressiva"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação textual",
+        "Língua Portuguesa – Análise de Personagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A obra de Chico Buarque e Paulo Pontes inspira-se na tragédia clássica “Medeia” para denunciar “uma tragédia brasileira”, conforme se observa no subtítulo da obra.\nEssa denúncia expõe o seguinte problema:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "racismo violento"
+        },
+        {
+          "letra": "B",
+          "texto": "alienação política"
+        },
+        {
+          "letra": "C",
+          "texto": "estratificação social"
+        },
+        {
+          "letra": "D",
+          "texto": "progresso sem limite"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade",
+        "Sociologia – Estratificação Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "The power of metaphors discusses the use of metaphors in daily life, as well as the text O que nossas metáforas dizem de nós.\nThe following metaphor is present in both texts:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cancer is a virus"
+        },
+        {
+          "letra": "B",
+          "texto": "life is a journey"
+        },
+        {
+          "letra": "C",
+          "texto": "crime is a beast"
+        },
+        {
+          "letra": "D",
+          "texto": "depression is a black hole"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Compreensão textual",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "The author of the text introduces the topic by making use of the following strategy:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reporting a tragic event"
+        },
+        {
+          "letra": "B",
+          "texto": "raising a simple subject"
+        },
+        {
+          "letra": "C",
+          "texto": "addressing a basic issue"
+        },
+        {
+          "letra": "D",
+          "texto": "creating a hypothetical situation"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Compreensão textual",
+        "Inglês – Estratégias de Leitura"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "we didn't know the extent to which these metaphors influence people. (l. 12-13)\nIn the fragment above, the doubt expressed by the researcher can be formulated by the following question:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "How far do these metaphors influence people?"
+        },
+        {
+          "letra": "B",
+          "texto": "How come these metaphors influence people?"
+        },
+        {
+          "letra": "C",
+          "texto": "How fast did these metaphors influence people?"
+        },
+        {
+          "letra": "D",
+          "texto": "How long have these metaphors influenced people?"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Compreensão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "test subjects were asked to read short paragraphs (l. 14)\nThe reason for the omission of the agent in the sentence above is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "it is unknown to the reader"
+        },
+        {
+          "letra": "B",
+          "texto": "it is already present in the text"
+        },
+        {
+          "letra": "C",
+          "texto": "it creates ambiguity in the context"
+        },
+        {
+          "letra": "D",
+          "texto": "it becomes a surprise for the reader"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Análise textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Metaphors aren't just used for flowery speech. They shape the conversation for things we're trying to explain and figure out. (l. 29-30)\nIn order to clarify the meaning relation between the two sentences above, the following word can be inserted in the underlined one:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "also"
+        },
+        {
+          "letra": "B",
+          "texto": "rather"
+        },
+        {
+          "letra": "C",
+          "texto": "hardly"
+        },
+        {
+          "letra": "D",
+          "texto": "already"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Conectivos",
+        "Inglês – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Os números inteiros x e y satisfazem às seguintes equações:\n2x + (3/5)y = 37\nx - y = 30\nLogo, x + y é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80"
+        },
+        {
+          "letra": "B",
+          "texto": "85"
+        },
+        {
+          "letra": "C",
+          "texto": "90"
+        },
+        {
+          "letra": "D",
+          "texto": "95"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "A imagem a seguir representa um cubo com aresta de 2 cm. Nele, destaca-se o triângulo AFC.\n(Image of a cube with points A, B, C, D, E, F, G, H and triangle AFC highlighted)\nA projeção ortogonal do triângulo AFC no plano da base BCDE do cubo é um triângulo de área y.\nO valor de y, em cm², é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "3/2"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "5/2"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Projeção Ortogonal",
+        "Matemática – Cálculo de Área"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Ao se aposentar aos 65 anos, um trabalhador recebeu seu Fundo de Garantia por Tempo de Serviço (FGTS) no valor de R$50.000,00 e resolveu deixá-lo em uma aplicação bancária, rendendo juros compostos de 4% ao ano, até obter um saldo de R$100.000,00. Se esse rendimento de 4% ao ano não mudar ao longo de todos os anos, o trabalhador atingirá seu objetivo após x anos.\nConsiderando log (1,04) = 0,017 e log 2 = 0,301, o valor mais próximo de x é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "14"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "22"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Juros Compostos",
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Três pentágonos regulares congruentes e quatro quadrados são unidos pelos lados conforme ilustra a figura a seguir.\n(Image of connected pentagons and squares)\nAcrescentam-se outros pentágonos e quadrados, alternadamente adjacentes, até se completar o polígono regular ABCDEFGH...A, que possui dois eixos de simetria indicados pelas retas r e s.\nSe as retas perpendiculares r e s são mediatrizes dos lados AB e FG, o número de lados do polígono ABCDEFGH...A é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18"
+        },
+        {
+          "letra": "B",
+          "texto": "20"
+        },
+        {
+          "letra": "C",
+          "texto": "24"
+        },
+        {
+          "letra": "D",
+          "texto": "30"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Polígonos Regulares",
+        "Matemática – Simetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Apenas com os algarismos 2, 4, 5, 6 ou 9, foram escritos todos os números possíveis com cinco algarismos. Cada um desses números foi registrado em um único cartão, como está exemplificado a seguir.\n(Images of cards: Cartão A: 24644, Cartão B: 45996, Cartão C: 66666, Cartão D: 99696, Cartão E: 66969)\nAlguns desses cartões podem ser lidos de duas maneiras, como é o caso dos cartões C, D e E.\nObserve:\n(Images of cards showing two readings: Cartão C: 99999 / 66666, Cartão D: 96966 / 99696, Cartão E: 69699 / 66969)\nO total de cartões que admitem duas leituras é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32"
+        },
+        {
+          "letra": "B",
+          "texto": "64"
+        },
+        {
+          "letra": "C",
+          "texto": "81"
+        },
+        {
+          "letra": "D",
+          "texto": "120"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Lógica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A soma de dois números naturais diferentes é 68. Ambos são múltiplos de 17.\nA diferença entre o maior número e o menor é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "35"
+        },
+        {
+          "letra": "B",
+          "texto": "34"
+        },
+        {
+          "letra": "C",
+          "texto": "33"
+        },
+        {
+          "letra": "D",
+          "texto": "32"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Números Inteiros",
+        "Matemática – Múltiplos e Divisores"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Tem-se que o número a₁a₂a₃a₄a₅a₆, é divisível por 11, se o valor da expressão (a₁ – a₂ + a₃ - a₄ + a₅ – a₆) também é divisível por 11.\nPor exemplo, 178409 é divisível por 11 porque:\n(9 – 0 + 4 – 8 + 7 – 1 = 11) é divisível por 11.\nConsidere a senha de seis dígitos 3894xy, sendo x e y pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.\nSe essa senha forma um número divisível por 99, o algarismo y é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Critérios de Divisibilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "A produção e a transmissão do impulso nervoso nos neurônios têm origem no mecanismo da bomba de sódio-potássio. Esse mecanismo é responsável pelo transporte de íons Na⁺ para o meio extracelular e K⁺ para o interior da célula, gerando o sinal elétrico. A ilustração abaixo representa esse processo.\n(Image: cell membrane showing Na+ and K+ movement)\nPara um estudo sobre transmissão de impulsos nervosos pela bomba de sódio-potássio, preparou-se uma mistura contendo os cátions Na⁺ e K⁺, formada pelas soluções aquosas A e B com solutos diferentes. Considere a tabela a seguir:\nSOLUÇÃO | VOLUME (mL) | SOLUTO | CONCENTRAÇÃO (mol/L)\nA | 400 | KCl | 0,1\nB | 600 | NaCl | 0,2\nAdmitindo a completa dissociação dos solutos, a concentração de íons cloreto na mistura, em mol/L, corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,04"
+        },
+        {
+          "letra": "B",
+          "texto": "0,08"
+        },
+        {
+          "letra": "C",
+          "texto": "0,12"
+        },
+        {
+          "letra": "D",
+          "texto": "0,16"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Concentração das Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "O impulso nervoso, ou potencial de ação, é uma consequência da alteração brusca e rápida da diferença de potencial transmembrana dos neurônios. Admita que a diferença de potencial corresponde a 0,07 V e a intensidade da corrente estabelecida, a 7,0 × 10⁻⁶A.\nA ordem de grandeza da resistência elétrica dos neurônios, em ohms, equivale a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10²"
+        },
+        {
+          "letra": "B",
+          "texto": "10³"
+        },
+        {
+          "letra": "C",
+          "texto": "10⁴"
+        },
+        {
+          "letra": "D",
+          "texto": "10⁵"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Lei de Ohm",
+        "Física – Ordem de Grandeza"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "O axônio de algumas células nervosas é envolvido pela bainha de mielina, uma membrana plasmática rica em lipídeos. Observe:\n(Image: diagram of a neuron with axon and myelin sheath detail)\nA composição da bainha de mielina permite que ela desempenhe a seguinte função:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "isolar o impulso nervoso"
+        },
+        {
+          "letra": "B",
+          "texto": "aumentar a polarização do neurônio"
+        },
+        {
+          "letra": "C",
+          "texto": "fornecer energia para o sinal elétrico"
+        },
+        {
+          "letra": "D",
+          "texto": "estimular a bomba de sódio-potássio"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Sistema Nervoso",
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O gráfico abaixo indica a variação da aceleração a de um corpo, inicialmente em repouso, e da força F que atua sobre ele.\n(Graph: F (N) vs a (m/s²), showing a linear relationship from (0,0) through (2,6) and (4,12))\nQuando a velocidade do corpo é de 10 m/s, sua quantidade de movimento, em kg × m/s, corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50"
+        },
+        {
+          "letra": "B",
+          "texto": "30"
+        },
+        {
+          "letra": "C",
+          "texto": "25"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Quantidade de Movimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Um indivíduo do sexo masculino deseja investigar informações genéticas recebidas de ambos os seus avós maternos.\nEssas informações podem ser encontradas no seguinte material genético:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "autossomos"
+        },
+        {
+          "letra": "B",
+          "texto": "cromossomo Y"
+        },
+        {
+          "letra": "C",
+          "texto": "DNA mitocondrial"
+        },
+        {
+          "letra": "D",
+          "texto": "corpúsculo de Barr"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Hereditariedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "O universo observável, que se expande em velocidade constante, tem extensão média de 93 bilhões de anos-luz e idade de 13,8 bilhões de anos.\nQuando o universo tiver a idade de 20 bilhões de anos, sua extensão, em bilhões de anos-luz, será igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "105"
+        },
+        {
+          "letra": "B",
+          "texto": "115"
+        },
+        {
+          "letra": "C",
+          "texto": "135"
+        },
+        {
+          "letra": "D",
+          "texto": "165"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cosmologia",
+        "Matemática – Proporcionalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "A hemoglobina glicada é um parâmetro de análise sanguínea que expressa a quantidade de glicose ligada às moléculas de hemoglobina. Essa ligação ocorre por meio da reação representada a seguir:\n(Image: Chemical reaction of glucose + hemoglobin reacting to form glycated hemoglobin + H2O, showing detailed structures of glucose and glycated hemoglobin)\nO grupamento funcional da molécula de glicose que reage com a hemoglobina corresponde à função orgânica denominada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "amina"
+        },
+        {
+          "letra": "B",
+          "texto": "álcool"
+        },
+        {
+          "letra": "C",
+          "texto": "cetona"
+        },
+        {
+          "letra": "D",
+          "texto": "aldeído"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "No chamado doping sanguíneo, atletas retiram determinado volume de sangue e o reintroduzem no corpo, em momento próximo ao da competição.\nEsse procedimento, que melhora o desempenho do atleta, possibilita o aumento do seguinte parâmetro sanguíneo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "número de eritrócitos"
+        },
+        {
+          "letra": "B",
+          "texto": "capacidade anaeróbia"
+        },
+        {
+          "letra": "C",
+          "texto": "agregação plaquetária"
+        },
+        {
+          "letra": "D",
+          "texto": "concentração de ácido lático"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Circulatório"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Para aquecer a quantidade de massa m de uma substância, foram consumidas 1450 calorias.\nA variação de seu calor específico c, em função da temperatura θ, está indicada no gráfico.\n(Graph: c (cal/g°C) vs. θ (°C), showing c is 0.20 cal/g°C between 20°C and 60°C)\nO valor de m, em gramas, equivale a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50"
+        },
+        {
+          "letra": "B",
+          "texto": "100"
+        },
+        {
+          "letra": "C",
+          "texto": "150"
+        },
+        {
+          "letra": "D",
+          "texto": "300"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Para a análise do teor de ozônio em um meio aquoso, utiliza-se iodeto de potássio e ácido sulfúrico.\nEsses compostos reagem conforme a seguinte equação:\nx KI + O₃ + H₂SO₄ → y I₂ + H₂O + K₂SO₄\nQuando a equação é balanceada, os coeficientes x e y correspondem, respectivamente, aos seguintes valores:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 e 1"
+        },
+        {
+          "letra": "B",
+          "texto": "4 e 2"
+        },
+        {
+          "letra": "C",
+          "texto": "6 e 3"
+        },
+        {
+          "letra": "D",
+          "texto": "8 e 4"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Balanceamento de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Algumas embalagens de alimentos apresentam no rótulo a informação “contém glúten”, obrigatória por resolução da Agência Nacional de Vigilância Sanitária (ANVISA).\nO glúten apresenta, em sua composição, uma molécula que não deve ser consumida por portadores da doença celíaca, uma enfermidade autoimune crônica do intestino delgado.\nEssa molécula do glúten, inadequada para os celíacos, é classificada como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lipídeo"
+        },
+        {
+          "letra": "B",
+          "texto": "vitamina"
+        },
+        {
+          "letra": "C",
+          "texto": "proteína"
+        },
+        {
+          "letra": "D",
+          "texto": "carboidrato"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Nutrição"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Considere as quatro reações químicas em equilíbrio apresentadas abaixo.\nI H₂ (g) + I₂ (g) ⇌ 2 HI (g)\nII 2 SO₂ (g) + O₂ (g) ⇌ 2 SO₃ (g)\nIII CO (g) + NO₂ (g) ⇌ CO₂ (g) + NO (g)\nIV 2 H₂O (g) ⇌ 2 H₂ (g) + O₂ (g)\nApós submetê-las a um aumento de pressão, o deslocamento do equilíbrio gerou aumento também na concentração dos produtos na seguinte reação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I"
+        },
+        {
+          "letra": "B",
+          "texto": "II"
+        },
+        {
+          "letra": "C",
+          "texto": "III"
+        },
+        {
+          "letra": "D",
+          "texto": "IV"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Equilíbrio Químico",
+        "Química – Princípio de Le Chatelier"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "QUAL É O PERCENTUAL DE IMIGRANTES NA POPULAÇÃO EM SEU PAÍS? (2015)\n(Graph: Média das respostas dos entrevistados vs. Valor real for various European countries regarding immigrant percentages)\nOs gráficos acima são parte do resultado de uma pesquisa feita em 2015 sobre a percepção dos cidadãos de diferentes países acerca do fenômeno migratório.\nA diferença entre o percentual médio estimado pelos que responderam à pergunta e o percentual real de imigrantes em cada população nacional expressa uma grande preocupação de cidadãos europeus na atualidade.\nUma consequência direta dessa preocupação é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ampliação dos programas de proteção social"
+        },
+        {
+          "letra": "B",
+          "texto": "intensificação dos conflitos de caráter militar"
+        },
+        {
+          "letra": "C",
+          "texto": "crescimento dos partidos de extrema-direita"
+        },
+        {
+          "letra": "D",
+          "texto": "fortalecimento dos acordos de integração econômica"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Migrações",
+        "Sociologia – Xenofobia",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O BRASIL SOB A LAMA\nO Brasil viveu, na última semana, um pesadelo. O país ainda chora os 110 mortos e mais de 200 desaparecidos deixados pela avalanche de lama da sexta-feira passada, dia 25 de janeiro, em Brumadinho (MG), causada pelo rompimento de uma barragem de rejeitos da mineradora Vale. A tragédia tem um precedente muito próximo, também no Estado de Minas Gerais, em Mariana. Em 5 de novembro de 2015, o rompimento de duas paredes de contenção na represa da Samarco matou 19 pessoas e deixou um irreparável rastro de destruição ambiental.\nÉ assombroso constatar que, mais de três anos depois, o Brasil continua debatendo sobre os mesmos problemas que ocasionaram a primeira tragédia. Mais ainda, que durante todo este tempo nada tenha sido feito para melhorar a segurança de tais instalações. É terrível também ver como uma parte da sociedade continua demonizando a fiscalização ambiental e militando em uma dicotomia cega e antiquada entre preservação e desenvolvimento econômico.\nAdaptado de brasil.elpais.com, 01/02/2019.\nNÃO HÁ DESENVOLVIMENTO SEM PROTEÇÃO AMBIENTAL\nO desastre de Brumadinho é uma boa oportunidade para refletir sobre uma visão muito disseminada no Brasil de que a proteção ambiental é um entrave ao desenvolvimento. Muitos acreditam que devemos desenhar políticas econômicas sem analisar suas consequências ambientais. Isso está profundamente equivocado. Os livros de economia das melhores universidades do mundo já não falam mais de crescimento sem considerar os seus impactos ambientais, que no passado eram tratados como simples “externalidades”.\nNa visão antiga, qualquer forma de extrair minério é boa porque faz a economia crescer. Não entra nessa perspectiva a análise do custo das vidas e da degradação ambiental decorrente de desastres como os de Brumadinho ou Mariana. Se os órgãos ambientais tivessem exigido maiores investimentos da Vale na segurança das barragens antes de conceder a licença, isso teria sido visto como um “entrave ambiental”.\nVIRGÍLIO VIANA\nAdaptado de brasil.elpais.com, 16/03/2019.\nNos textos são apresentados alguns dos significados dos desastres humanos e ambientais causados pelo rompimento de barragens de rejeitos de mineração em Mariana e Brumadinho.\nOs desastres mencionados indicam a permanência do seguinte critério na relação entre desenvolvimento econômico e preservação ambiental:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "valorização da ocupação laboral"
+        },
+        {
+          "letra": "B",
+          "texto": "primazia da acumulação capitalista"
+        },
+        {
+          "letra": "C",
+          "texto": "racionalização da produção industrial"
+        },
+        {
+          "letra": "D",
+          "texto": "retomada da desregulamentação estatal"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Sociologia – Impactos Socioambientais",
+        "História – Brasil Contemporâneo"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "AMEAÇA DOS MÍSSEIS DA COREIA DO NORTE\n(Map 1: Missile ranges for Nodong and Taepodong-1/2, showing limited reach to US. Map 2: Corrected missile ranges, showing full reach to US)\nOs mapas acima, publicados em momentos distintos pela revista The Economist, representam o alcance calculado para os mísseis balísticos da Coreia do Norte. No mapa 1, de 03/05/2003, os mísseis não atingem plenamente o espaço continental dos Estados Unidos. O mapa 2, publicado alguns dias depois, corrige essa informação, revelando a efetiva vulnerabilidade de todo o território estadunidense àqueles artefatos militares.\nA correção das informações do mapa 1 decorre da seguinte característica desse tipo de representação da superfície terrestre:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "deformações resultantes da projeção utilizada"
+        },
+        {
+          "letra": "B",
+          "texto": "generalizações derivadas da simbologia gráfica"
+        },
+        {
+          "letra": "C",
+          "texto": "imprecisões decorrentes da tecnologia disponível"
+        },
+        {
+          "letra": "D",
+          "texto": "manipulações originadas da orientação ideológica"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Projeções Cartográficas"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "O BRASIL DECLAROU GUERRA À ALEMANHA E À ITÁLIA\n(Image: charge by Belmonte with Juca Pato character)\nO artista Belmonte, por meio de seu personagem Juca Pato, retratou episódios importantes da história brasileira e internacional entre as décadas de 1920 e 1940. A charge acima, por exemplo, tematiza de forma irônica a entrada do governo brasileiro em 1942 na Segunda Guerra Mundial (1939-1945).\nA atitude de Juca Pato, ao decidir ir à guerra, está associada à seguinte conjuntura do governo varguista:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "crise militar"
+        },
+        {
+          "letra": "B",
+          "texto": "caráter ditatorial"
+        },
+        {
+          "letra": "C",
+          "texto": "pressão eleitoral"
+        },
+        {
+          "letra": "D",
+          "texto": "soberania diplomática"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Era Vargas",
+        "História – Segunda Guerra Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "O CORPO É O PORTO André Dahmer\n(Comic strip with 3 panels. Panel 1: \"LEMBREM-SE: O ESTADO DE DIREITO É UM VALOR FUNDAMENTAL\". Panel 3: \"QUANDO FOR DE INTERESSE DO NOSSO GRUPO.\")\nNo terceiro quadrinho, a afirmação do personagem contradiz o seguinte princípio do valor fundamental enunciado no primeiro quadrinho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "igualdade jurídica"
+        },
+        {
+          "letra": "B",
+          "texto": "estabilidade partidária"
+        },
+        {
+          "letra": "C",
+          "texto": "liberdade de expressão"
+        },
+        {
+          "letra": "D",
+          "texto": "neutralidade do parlamento"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Estado de Direito",
+        "Filosofia – Ética",
+        "Sociologia – Cidadania"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "1970: BRANDT DE JOELHOS EM VARSÓVIA\n(Text about Willy Brandt's gesture in Warsaw and Germany's post-war relations. Image of Willy Brandt kneeling)\nA foto e o episódio relatado na reportagem indicam transformações que afetaram a sociedade alemã entre as décadas de 1930 e 1970.\nUma dessas transformações, no âmbito das relações internacionais, está associada à seguinte mudança de orientação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do isolacionismo territorial à neutralidade militar"
+        },
+        {
+          "letra": "B",
+          "texto": "do expansionismo comercial à proteção alfandegária"
+        },
+        {
+          "letra": "C",
+          "texto": "do colaboracionismo migratório à discriminação étnica"
+        },
+        {
+          "letra": "D",
+          "texto": "do nacionalismo totalitário à multilateralidade diplomática"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Contemporânea",
+        "História – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "TEORIA DOS LUGARES CENTRAIS\n(Image: Map representing the Central Place Theory)\nCIDADES GLOBAIS\n(Image: Map representing Global Cities network)\nA primeira imagem acima ilustra a Teoria dos Lugares Centrais, elaborada com base em estudos sobre a rede de cidades do sul da Alemanha, na década de 1930. Já a segunda imagem foi feita a partir de estudos e mapeamentos das cidades globais do final do século XX.\nA comparação entre os dois estudos permite identificar a seguinte mudança vinculada às redes urbanas, ao longo do século XX:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "escala espacial das interações econômicas"
+        },
+        {
+          "letra": "B",
+          "texto": "valorização social das identidades culturais"
+        },
+        {
+          "letra": "C",
+          "texto": "estrutura funcional das hierarquias políticas"
+        },
+        {
+          "letra": "D",
+          "texto": "organização territorial das entidades governamentais"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "CERCO DE TRUMP DÁ FORMA À ARTE NA BIENAL DE HAVANA\n(Text describing an art installation at the Havana Biennial representing Cuban economy. Image of the art installation)\nNa 13ª Bienal de Havana, muitas obras dialogavam com aspectos atuais das condições de vida em Cuba, indicando transformações econômicas ocorridas recentemente.\nUm fator determinante para esse novo cenário econômico é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "modernização agrícola"
+        },
+        {
+          "letra": "B",
+          "texto": "dinamização do comércio"
+        },
+        {
+          "letra": "C",
+          "texto": "regulamentação trabalhista"
+        },
+        {
+          "letra": "D",
+          "texto": "ampliação da informalidade"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Arte – Arte Contemporânea",
+        "Geografia – Economia Cubana",
+        "Sociologia – Transformações Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Na administração do engenheiro e prefeito Carlos Sampaio (1920-1922), o Morro do Castelo foi totalmente demolido. A decisão causou muita polêmica, tendo sido criticada por vários intelectuais, como, por exemplo, Monteiro Lobato.\n[O Morro do Castelo] ouve sempre cochichos suspeitos nos quais um estribilho soa insistente: precisamos arrasar o Morro do Castelo! Percebe que virou negócio, que o verdadeiro tesouro oculto em suas entranhas não é a imagem de ouro maciço de Santo Inácio, e sim o panamá do arrasamento. Os homens de hoje são negocistas sem alma. Querem dinheiro. Para obtê-lo venderão tudo, venderiam até a alma se a tivessem. Como pode ele, pois, resistir à maré, se suas credenciais – velhice, beleza, pitoresco, historicidade – não são valores de cotação na bolsa?\nMONTEIRO LOBATO\nAdaptado de A onda verde. São Paulo: Monteiro Lobato & Cia Editores, 1922.\n(Image: Demolition of Morro do Castelo. On top of the hill, the ruins of the Church of São Sebastião.)\nDe acordo com a crítica de Monteiro Lobato, transcrita acima, o arrasamento do Morro do Castelo expressou a seguinte perspectiva de intervenção urbana:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "remoção de população pobre"
+        },
+        {
+          "letra": "B",
+          "texto": "saneamento de área degradada"
+        },
+        {
+          "letra": "C",
+          "texto": "desqualificação do passado colonial"
+        },
+        {
+          "letra": "D",
+          "texto": "modernização do transporte público"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil (República Velha)",
+        "Sociologia – Urbanismo",
+        "Geografia – Geografia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "O gueto do Norte tinha se transformado numa espécie de área colonial. A colônia era impotente porque todas as decisões importantes que afetavam a comunidade vinham de fora. Muitos de seus habitantes chegavam a ter sua vida diária dominada pelo agente da previdência e pelo policial. Os lucros obtidos por senhorios e comerciantes eram retirados e raramente reinvestidos. A única coisa positiva que a sociedade mais ampla via na favela era o fato de ela ser uma fonte de mão de obra excedente barata em tempos de prosperidade.\nAdaptado de CARSON, C. A autobiografia de Martin Luther King. Rio de Janeiro: Zahar, 2014.\nNo fragmento, Martin Luther King, líder do movimento pelos direitos civis, estabelece uma comparação entre o colonialismo territorial e os eventos ocorridos no gueto negro de Lawndale, na cidade de Chicago, onde ele morou com sua família.\nEssa comparação está fundamentada no seguinte processo social:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "imposição cultural"
+        },
+        {
+          "letra": "B",
+          "texto": "totalitarismo político"
+        },
+        {
+          "letra": "C",
+          "texto": "drenagem econômica"
+        },
+        {
+          "letra": "D",
+          "texto": "manipulação ideológica"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Contemporânea (EUA)",
+        "Sociologia – Desigualdade Social",
+        "Sociologia – Racismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "UM MUNDO DE MUROS: AS BARREIRAS QUE NOS DIVIDEM\n(Text about increasing physical barriers globally. Map 1: Korea, showing North and South Korea. Map 2: Europe, showing various countries and highlighted walls)\nOs objetivos prioritários para a construção das barreiras físicas apresentadas nos mapas 1 e 2 são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estratégia militar e política demográfica"
+        },
+        {
+          "letra": "B",
+          "texto": "rivalidade étnica e polarização ideológica"
+        },
+        {
+          "letra": "C",
+          "texto": "antagonismo comercial e restrição religiosa"
+        },
+        {
+          "letra": "D",
+          "texto": "isolamento econômico e segurança ambiental"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Migrações"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Considere o perfil histórico e socioeconômico do Brasil retratado no texto a seguir.\nEm 1974, final do governo Médici, o Brasil crescia como poucos países, e o salário mínimo valia muito pouco. O ministro da fazenda da época, Delfim Netto, pedia para o povo ficar calmo: “Temos que esperar o bolo crescer para depois distribuir os pedaços.” O bolo ficou enorme, e o povo não deu nem uma mordida! Chico Buarque, usando o pseudônimo de Julinho de Adelaide, compôs a música \"Milagre brasileiro\":\nCadê o meu?\nCadê o meu, ó meu?\nDizem que você se defendeu.\nÉ o milagre brasileiro.\nAdaptado de DINIZ, A.; CUNHA, D. A República cantada: do choro ao funk, a história do Brasil através da música. Rio de Janeiro: Zahar, 2014.\nO gráfico que expressa, para o ano de 1989, a distribuição social da riqueza resultante da política econômica implementada ao longo do período histórico abordado no texto é:\n(Graphs A, B, C, D showing percentage of total national income for different income groups in 1989)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Graph A (distribuição mais equitativa)"
+        },
+        {
+          "letra": "B",
+          "texto": "Graph B (distribuição com alta concentração de renda nos mais ricos)"
+        },
+        {
+          "letra": "C",
+          "texto": "Graph C (distribuição com concentração intermediária)"
+        },
+        {
+          "letra": "D",
+          "texto": "Graph D (distribuição com altíssima concentração de renda nos mais ricos)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Ditadura Militar (Economia)",
+        "Sociologia – Desigualdade Social",
+        "Geografia – Distribuição de Renda"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Esboçamos as preocupações fundamentais que a nossa peça procura refletir. A primeira e mais importante de todas se refere a uma face da sociedade brasileira que ganhou relevo nos últimos anos: a experiência capitalista que se vem implantando aqui – radical, violentamente predatória, impiedosamente seletiva adquiriu um trágico dinamismo. O santo que produziu o milagre é conhecido por todas as pessoas de boa-fé e bom nível de informação: a brutal concentração da riqueza elevou a capacidade de consumo de bens duráveis de uma parte da população, enquanto a maioria ficou no ora veja. [Adaptado da apresentação.]\nCREONTE:\n(...)\nO trem atrasa o quê? Nem meia hora\nE o cara quebra tudo... Acha que é certo,\nJasão?...\nJASÃO:\nNão discuto quebrar... Agora,\nquem às três da manhã tá de olho aberto,\nse espreme pra chegar no emprego às sete,\nlá passa o dia todo, volta às onze\nda noite pra acordar a canivete\nde novo às três, tinha que ser de bronze\npara fazer isso sempre, todo dia,\nlevando na marmita arroz, feijão\ne humilhação...\n(...)\nCREONTE:\nSociologia, Jasão...\nJASÃO:\nNão...\n(...)\nO cara já tá por aqui. Tá perto\nde explodir, um trem que atrasa, ele mata,\nquebra mesmo, é a gota d'água...\nBUARQUE, C.; PONTES, P. Gota d'agua: uma tragédia brasileira. Rio de Janeiro: Civilização Brasileira, 2018.\nEncenada pela primeira vez em 1975, a premiada peça de teatro Gota d'água foi reapresentada diversas vezes. No momento em que foi escrita, como indicam seus autores, a peça buscou explicitar questionamentos sobre mudanças que afetaram a sociedade brasileira durante os governos militares.\nTendo como base o diálogo citado acima, entre os personagens Creonte e Jasão, um dos efeitos dessas mudanças na experiência capitalista do Brasil da época foi a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "padronização dos valores salariais"
+        },
+        {
+          "letra": "B",
+          "texto": "precarização das atividades laborais"
+        },
+        {
+          "letra": "C",
+          "texto": "privatização das empresas ferroviárias"
+        },
+        {
+          "letra": "D",
+          "texto": "hierarquização dos investimentos produtivos"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Ditadura Militar (Brasil)",
+        "Sociologia – Relações de Trabalho",
+        "Sociologia – Capitalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "PUREZA: UMA MULHER CONTRA O TRABALHO ESCRAVO\n(Image of Pureza Lopes Loiola. Text about her life and fight against slave labor in Brazil)\nA história de Pureza Lopes Loiola alerta sobre a permanência do trabalho análogo ao escravo na sociedade brasileira na atualidade.\nUm dos principais fatores que possibilitam essa permanência é a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "legislação permissiva"
+        },
+        {
+          "letra": "B",
+          "texto": "fiscalização ineficiente"
+        },
+        {
+          "letra": "C",
+          "texto": "concentração fundiária"
+        },
+        {
+          "letra": "D",
+          "texto": "modernização tecnológica"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Trabalho Escravo",
+        "Geografia – Questões Fundiárias"
+      ]
+    }
+  ]
+}
