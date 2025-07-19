@@ -1,0 +1,1297 @@
+{
+  "nomeUniversidade": "Universidade Federal de Goiás",
+  "siglaUniversidade": "UFG",
+  "nomeProva": "Processo Seletivo",
+  "ano": "2017",
+  "qtdeQuestoes": 50,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A começar pelo título “Antigamente”, o que chama a atenção neste texto de Carlos Drummond de Andrade é a reunião de expressões utilizadas em uma época. O registro feito pelo autor sugere uma reflexão geral a respeito:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dos conflitos provocados pelas diferentes formas de pensar sobre comportamentos de uma mesma época."
+        },
+        {
+          "letra": "B",
+          "texto": "das diferentes práticas de aproximação, flerte e namoro experimentadas pelos jovens ao longo do tempo."
+        },
+        {
+          "letra": "C",
+          "texto": "dos modos de variação de uma língua provocados pelos usos de determinada comunidade falante."
+        },
+        {
+          "letra": "D",
+          "texto": "das inquietações existenciais do autor ao relembrar com saudosismo o passado de sua juventude."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Na introdução do texto, lê-se: “Antigamente, as moças chamavam-se mademoiselles e eram todas mimosas e muito prendadas. Não faziam anos: completavam primaveras, em geral dezoito. Os janotas, mesmo não sendo rapagões, faziam-lhes pé-de-alferes, arrastando a asa, mas ficavam longos meses debaixo do balaio. E se levavam tábua, o remédio era tirar o cavalo da chuva e ir pregar em outra freguesia.\" Apesar da existência de palavras pouco utilizadas hoje em dia, é possível depreender deste trecho uma correspondência entre:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Completar primaveras\" e arte feminina de cultivar um jardim."
+        },
+        {
+          "letra": "B",
+          "texto": "“Fazer pé-de-alferes\" e uma abordagem com intenções de namoro."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Ficar longos meses debaixo do balaio\" e tempo de noivado."
+        },
+        {
+          "letra": "D",
+          "texto": "“Pregar em outra freguesia” e mudança de estratégia de sedução."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "O texto de Carlos Drummond de Andrade trata de um cotidiano passado, está escrito em prosa, com traços discretos do estilo literário (ambiguidade, ironia, etc). Essas qualidades juntas caracterizam o seguinte gênero:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Reportagem."
+        },
+        {
+          "letra": "B",
+          "texto": "Novela."
+        },
+        {
+          "letra": "C",
+          "texto": "Soneto."
+        },
+        {
+          "letra": "D",
+          "texto": "Crônica."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O texto encerra-se com uma frase irônica: \"Mas tudo isso era antigamente, isto é, outrora.” A ironia torna-se explícita quando se reconhece que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“antigamente” e “outrora” são palavras sinônimas."
+        },
+        {
+          "letra": "B",
+          "texto": "\"tudo isso\" recupera um sentido indefinido de \"Antigamente\"."
+        },
+        {
+          "letra": "C",
+          "texto": "“Mas” não cumpre sua função de apresentar uma contradição."
+        },
+        {
+          "letra": "D",
+          "texto": "a expressão “isto é” ganha, no contexto, o sentido de conclusão."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "O \"Meme\" acima produz humor, porque\n\nImage:\nei 15:17✓✓✓\ntô com uma dúvida aqui 15:17✓✓✓\nManda 15:46\no certo é vamo se beijar ou vamos\nnos beijar?\n15:46✓✓✓\nVamos nos beijar 16:06\nvomo 16:30✓✓✓\n\nDisponível em: <www.tediado.com.br>. Acesso em: 19 jun. 2017.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o primeiro interlocutor inicia a conversa demonstrando preocupação com a correção gramatical de uma frase, mas termina revelando outras intenções."
+        },
+        {
+          "letra": "B",
+          "texto": "o segundo interlocutor reconhece as intenções de sedução da mensagem enviada pelo primeiro interlocutor, mas finge não percebê-las."
+        },
+        {
+          "letra": "C",
+          "texto": "os dois interlocutores demonstram ter, no jogo de interlocução, plena consciência do duplo sentido construído para o enunciado “vamos nos beijar”."
+        },
+        {
+          "letra": "D",
+          "texto": "o primeiro interlocutor desconhece as regras básicas da língua portuguesa e dos jogos de sedução."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística",
+        "Língua Portuguesa – Humor"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "A leitura do Texto 3 revela a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "descoberta repentina dos elementos característicos do mar."
+        },
+        {
+          "letra": "B",
+          "texto": "emissão de juízo de valor sobre o comportamento do nadador."
+        },
+        {
+          "letra": "C",
+          "texto": "experiência contemplativa do mundo particular do narrador."
+        },
+        {
+          "letra": "D",
+          "texto": "problematização estilística de partes específicas da crônica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "No trecho “parecem ir mais depressa do que ele\", o leitor percebe que o narrador usa a palavra “parecem\" para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "emitir uma opinião modalizada com vistas a alcançar a adesão do leitor."
+        },
+        {
+          "letra": "B",
+          "texto": "comparar a ação do homem com a das espumas para justificar a fraqueza humana."
+        },
+        {
+          "letra": "C",
+          "texto": "declarar sua antipatia a quem nada no mar despreocupado com segurança pessoal."
+        },
+        {
+          "letra": "D",
+          "texto": "exaltar a visão metafísica da vida em detrimento das preferências corpóreas atuais."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Modalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "No primeiro parágrafo do Texto 3, há o emprego de muitos substantivos caracterizados por adjetivos que dão vida a uma cena que ora se movimenta, ora se fixa como uma fotografia. Quanto às suas características, o referido parágrafo é predominantemente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "injuntivo."
+        },
+        {
+          "letra": "B",
+          "texto": "descritivo."
+        },
+        {
+          "letra": "C",
+          "texto": "dissertativo."
+        },
+        {
+          "letra": "D",
+          "texto": "narrativo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Tipologia Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "O humor do Texto 4 se constrói com base no fato de\n\nImage:\nPanel 1: Mafalda and Miguelito by the sea. Mafalda says: \"VAMOS, MIGUELITO, DEIXE DE LADO ESSA IDÉIA DE QUE O MAR PARECE SOPA!\"\nPanel 2: Mafalda and Miguelito by the sea, looking at people swimming. Mafalda says: \"ESTÁ VENDO? NÃO É LINDO, TODA ESSA GENTE TOMANDO BANHO DE MAR? HEIN? HEIN?\" Miguelito thinks \"MACARRÃO!\"\nPanel 3: Mafalda and Miguelito are back, Miguelito looks sick. Mafalda says: \"COITADO DO MIGUELITO! O QUE ACONTECEU?\"\nPanel 4: Miguelito sitting, looking at the sea. Text bubble: \"DESDE O DIA EM QUE IMAGINOU QUE O MAR ERA SOPA, SEMPRE QUE OLHA PARA ELE FICA ENJOADO!\" Mafalda says: \"MAS...\"\nPanel 5: Miguelito is on the beach, looking at the sea. Mafalda points at him: \"OLHA ELE!\" Miguelito: \"NO MAR!\"\nPanel 6: Mafalda is happy. \"MUITO BEM. MIGUELITO! TOMOU CORAGEM?!\" Miguelito answers: \"NÃO! TOMEI SAL DE FRUTAS!\"\n\nDisponível em: <http://blogdoxandro.blogspot.com.br/2012_05_15_archive.html>. Acesso em: 19 jun. 2017.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Miguelito achar que o mar se parece com uma sopa."
+        },
+        {
+          "letra": "B",
+          "texto": "Mafalda sentir pena do amigo porque ele sofre de enjoos."
+        },
+        {
+          "letra": "C",
+          "texto": "Mafalda tratar do assunto com seriedade, mas mostrar-se incompatível com a situação."
+        },
+        {
+          "letra": "D",
+          "texto": "Miguelito fazer uso de um remédio, quebrando a expectativa dos interlocutores."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Tirinhas",
+        "Língua Portuguesa – Humor"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Releia os textos 3 e 4 para responder à questão 10. Os sentimentos do narrador do Texto 3 vão ao encontro da temática apresentada no Texto 4, pois dizem respeito ao mar como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "palco de exibicionismos inconsequentes."
+        },
+        {
+          "letra": "B",
+          "texto": "espaço representativo de conflitos pessoais."
+        },
+        {
+          "letra": "C",
+          "texto": "núcleo de comportamentos pecaminosos."
+        },
+        {
+          "letra": "D",
+          "texto": "recinto agregador de culturas populares."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O quadro a seguir apresenta a quantidade de visitantes aos equipamentos turísticos da cidade de Santos, no ano de 2016.\n\nTable:\nEquipamento turístico | Visitantes em 2016 (em milhares)\n--- | ---\nAquário Municipal | 529\nMuseu do Café | 309\nOrquidário Municipal | 184\nBonde Turístico | 99\nMemorial das Conquistas | 63\nMuseu Pelé | 50\nDisponível em: Folha de S. Paulo, 25/06/17, p. B7 [Adaptado].\nDe acordo com os dados apresentados nesse quadro, a média de visitantes nestes seis equipamentos foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "menor que a quantidade de visitantes do Bonde Turístico e Memorial das Conquistas juntos."
+        },
+        {
+          "letra": "B",
+          "texto": "maior que a quantidade de visitantes do Museu do Café."
+        },
+        {
+          "letra": "C",
+          "texto": "menor que o triplo de visitantes do Memorial das Conquistas."
+        },
+        {
+          "letra": "D",
+          "texto": "maior que o número de visitantes do Orquidário Municipal."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Estatística"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Segundo dados da Agência Brasil, a marca de R$ 1 trilhão de pagamento em impostos pela população brasileira foi atingida em 16 de junho de 2017. [disponível em www.agenciabrasil.ebc.com.br. Acesso em 25/06/2017].\nConsiderando todos os meses com 30 dias, o valor médio diário arrecadado com impostos no Brasil, no período de 1 de janeiro a 16 junho de 2017, foi, aproximadamente, de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 6.024,09"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 6.024.096,38"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 6.024.096.385,54"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 60.240.963.855,42"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Grandezas e Medidas",
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Uma confeiteira fabrica bolos sob encomenda e o seu lucro depende da quantidade de bolos que ela fabrica. Para fabricar n bolos, ela tem um lucro de L(n) = 45 – 0,5n, em cada bolo fabricado.\nNessas condições, o lucro máximo que essa confeiteira terá na fabricação de seus bolos será:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 1.012,50"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 1.122,50"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 1.202,50"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 2.022,50"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções do 1º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Leia o fragmento a seguir.\n\nA balança comercial goiana, no acumulado de janeiro a dezembro de 2016, apresentou superávit recorde. Nesse período, as exportações goianas somaram US$ 5,93 bilhões, registrando acréscimo de 0,88% em relação ao mesmo período de 2015.\nDisponível em:http://www.sed.go.gov.br/post/ver/218333/balanca-comercial-goiana-\napresenta-superavit-recorde-em-2016. Acesso em 25 jun. 17 [Adaptado].\n\nDe acordo com esses dados, o valor das exportações goianas em 2015 foi, aproximadamente, de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "US$ 5,05"
+        },
+        {
+          "letra": "B",
+          "texto": "US$ 5,45"
+        },
+        {
+          "letra": "C",
+          "texto": "US$ 5,88"
+        },
+        {
+          "letra": "D",
+          "texto": "US$ 5,98"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Duas amigas foram a uma liquidação e compraram três tipos de calçados: sapato, sandália e bota. Cada tipo custava o mesmo valor.\nA primeira comprou cinco pares de sapato, duas sandálias e três botas e pagou um total de R$ 1.200,00. A segunda comprou três pares de sapato, quatro sandálias e duas botas, totalizando R$ 960,00.\nConsiderando que o preço de uma bota era o dobro do preço de uma sandália, o preço da bota foi de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 75,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 95,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 120,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 150,00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A magnitude M de um terremoto e a energia por ele liberada (em Joules) E estão relacionadas pela seguinte equação:\nlog(E)=4,4+1,5 M,\nsendo que o logaritmo está na base 10.\nSe um terremoto teve magnitude 1,95, a energia por ele liberada, em Joules, foi\nUse: 10^(325/1000)=2,11",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,11×10^2"
+        },
+        {
+          "letra": "B",
+          "texto": "2,11×10^5"
+        },
+        {
+          "letra": "C",
+          "texto": "2,11×10^7"
+        },
+        {
+          "letra": "D",
+          "texto": "2,11×10^22"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Logaritmos",
+        "Matemática – Equações Exponenciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "A figura, a seguir, representa uma pirâmide de base quadrada, cujas faces laterais são triângulos equiláteros.\n\nImage: A square pyramid with vertices B, D, E highlighted on one face.\n\nConsiderando o triângulo isósceles de vértices B, D e E, a razão entre a sua área e a área de uma face lateral da pirâmide é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2√3 / 3"
+        },
+        {
+          "letra": "B",
+          "texto": "3 / 2"
+        },
+        {
+          "letra": "C",
+          "texto": "3√3 / 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 / 3"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "As equações\n4 x² + 4 y² – 24 x − 32 y +91 = 0 e 2x-3y+3=0\nrepresentam, no plano cartesiano, uma circunferência e uma reta com",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ausência de interseção entre seus pontos."
+        },
+        {
+          "letra": "B",
+          "texto": "interseção em dois pontos que determinam um segmento menor que um diâmetro da circunferência."
+        },
+        {
+          "letra": "C",
+          "texto": "tangência em um ponto de abscissa 3."
+        },
+        {
+          "letra": "D",
+          "texto": "interseção em dois pontos que determinam um diâmetro da circunferência."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A célula é a unidade morfofisiológica dos seres vivos. Tornando-se como base a organização celular, eles se classificam como procariontes e eucarionte e ambos têm em comum",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a membrana plasmática."
+        },
+        {
+          "letra": "B",
+          "texto": "o complexo de Golgi."
+        },
+        {
+          "letra": "C",
+          "texto": "os cloroplastos."
+        },
+        {
+          "letra": "D",
+          "texto": "a carioteca."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Considerando apenas o tipo de reprodução dos vegetais, sem a influência de fatores ambientais, a que proporciona maior variabilidade genética é a reprodução",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sexual autogâmica."
+        },
+        {
+          "letra": "B",
+          "texto": "sexual alogâmica."
+        },
+        {
+          "letra": "C",
+          "texto": "assexual por brotação natural."
+        },
+        {
+          "letra": "D",
+          "texto": "assexual por cultura de tecidos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Botânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Os animais vertebrados mamíferos são os únicos que apresentam glândulas mamárias produtoras de leite para alimentar os recém-nascidos. Taxonomicamente, essa característica os classifica como pertencente à classe denominada Mammalia, inserindo-os",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no mesmo gênero."
+        },
+        {
+          "letra": "B",
+          "texto": "na mesma família."
+        },
+        {
+          "letra": "C",
+          "texto": "na mesma ordem."
+        },
+        {
+          "letra": "D",
+          "texto": "no mesmo filo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Algumas características físicas das áreas de manguezais, como o solo lodoso, pouco arejado e a alta salinidade, dão a ideia de ser este um ambiente altamente inóspito. Entretanto, este ecossistema desempenha um papel primordial na preservação da biodiversidade brasileira, porque funciona como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dispersor de sementes."
+        },
+        {
+          "letra": "B",
+          "texto": "banco de germoplasma."
+        },
+        {
+          "letra": "C",
+          "texto": "sequestrador de carbono."
+        },
+        {
+          "letra": "D",
+          "texto": "berçário para a vida marinha."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Leia o texto a seguir.\n\nTeste do Pezinho deve ser feito até o quinto dia de vida dos bebês\nPrograma Nacional de Triagem Neonatal (PNTN) do Sistema Único de Saúde salva vidas e evita sequelas de seis doenças genéticas ou congênitas. Pais devem fazer o acompanhamento dos resultados\nPara que as crianças se desenvolvam com saúde, é essencial que todos os recém-nascidos façam o teste do Pezinho entre o 3º e o 5º dia de vida, por meio do PNTN. A realização do teste neste período é importante porque é capaz de identificar seis doenças genéticas ou congênitas passíveis de tratamento, mas que não apresentam evidências clínicas ao nascimento. Quanto mais cedo as doenças forem identificadas e tratadas, maior a possibilidade de evitar algumas sequelas nas crianças tais como deficiência mental, microcefalia, convulsões, comportamento autista, fibrosamento do pulmão, crises epiléticas, entre outras complicações e até a morte. Além da realização do Teste do Pezinho, o Sistema Único de Saúde (SUS) garante atendimento com médicos especialistas a todos os pacientes triados positivamente para as doenças.\n\nDisponível em: <http://portalsaude.saude.gov.br/index.php/cidadao/principal/agencia-\nsaude/25955-teste-do-pezinho-deve-ser-feito-ate-o-quinto-dia-de-vida-dos-bebes>.\nAcesso em: 20 jun. 2017. (Adaptado).\n\nDentre as doenças detectadas por esse teste, cita-se, como exemplo, uma hemoglobinopatia, conhecida como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fenilcetonúria."
+        },
+        {
+          "letra": "B",
+          "texto": "fibrose cística."
+        },
+        {
+          "letra": "C",
+          "texto": "anemia falciforme."
+        },
+        {
+          "letra": "D",
+          "texto": "toxoplasmose congênita."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Saúde Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Um corpo de massa m está sujeito a uma força resultante F1, que atua conforme representado na figura a seguir.\n\nImage: Cartesian plane with origin at center. A vector F1 points from origin towards positive Y, negative X quadrant (roughly -X, +Y direction).\n\nPara que o corpo, partindo do repouso, se movimente ao longo do eixo x positivo, uma possível força F2 a ser adicionada ao sistema para resultar nesse movimento pode estar ao longo do",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "eixo x, no sentido positivo."
+        },
+        {
+          "letra": "B",
+          "texto": "eixo y, no sentido positivo."
+        },
+        {
+          "letra": "C",
+          "texto": "eixo x, no sentido negativo."
+        },
+        {
+          "letra": "D",
+          "texto": "eixo y, no sentido negativo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Mecânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "As radiações eletromagnéticas ou ondas eletromagnéticas são muito utilizadas em nosso dia a dia: das ondas de rádio, para transportar sinais de TV e telefonia, a ondas de raios-X, para visualizar estruturas internas do corpo humano. Essas radiações transportam energia, cuja quantidade está diretamente relacionada com sua frequência. Quanto maior a frequência, mais energia a onda transporta.\nNo quadro a seguir, são apresentadas algumas faixas aproximadas de frequências e os nomes que damos a essas regiões.\n\nTable:\nRegião | Faixa de Frequência (Hz)\n--- | ---\nRádio | < 3 x 10^9\nMicro-ondas | 10^9 a 10^12\nInfravermelho | 10^12 a 10^14\nUltravioleta | 10^14 a 10^17\nRaios-X | 10^17 a 10^19\n\nA faixa de frequência em que conseguimos observar a onda eletromagnética a olho nu é chamada de região do visível. Considerando as faixas de frequências apresentadas no quadro acima, a frequência, em Hz, que certamente se encontra na faixa do visível é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 x 10^9"
+        },
+        {
+          "letra": "B",
+          "texto": "5 x 10^12"
+        },
+        {
+          "letra": "C",
+          "texto": "6 x 10^14"
+        },
+        {
+          "letra": "D",
+          "texto": "7 x 10^17"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "A noção de trabalho, em Física, é muito importante e diferente daquela usada em nosso dia a dia. Para a Física, existe trabalho realizado quando forças atuam sobre um corpo, produzindo nele um deslocamento.\n\nImage: A block being pushed horizontally with force F over a distance d.\n\nDisponível em: <http://www.cepa.if.usp.br/energia/energia2000/turmaB/grupo5/trabalho/trabalho.htm>. Acesso em 08 jul. 2017\n\nPara a Física, no caso da figura acima, o trabalho da força resultante que atua no bloco está diretamente relacionado com a variação de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sua energia cinética."
+        },
+        {
+          "letra": "B",
+          "texto": "sua quantidade de movimento."
+        },
+        {
+          "letra": "C",
+          "texto": "seu impulso."
+        },
+        {
+          "letra": "D",
+          "texto": "seu potencial gravitacional."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Mecânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Para preparar um chá, uma pessoa ferve 400 mL de água. Ao final do preparo, a bebida se encontra a 85°C. Para diminuir a temperatura do chá, ela adiciona 200 mL de água, inicialmente a 10°C. Considerando que o calor específico do chá é o mesmo que o da água e desprezadas as perdas de calor para o meio ambiente, a temperatura final da bebida será de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "37,5°C"
+        },
+        {
+          "letra": "B",
+          "texto": "47,5°C"
+        },
+        {
+          "letra": "C",
+          "texto": "56,7°C"
+        },
+        {
+          "letra": "D",
+          "texto": "60,0°C"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Uma corrente elétrica de 10A alimenta um circuito de resistores em paralelo e somente 2A atravessa o ramo central, como representado na figura abaixo.\n\nImage: An electrical circuit with parallel resistors. Total current entering is 10A. One branch has resistor R, another has 15Ω, and a third has 10Ω. The current through the 15Ω resistor is 2A.\n\nNeste circuito elétrico, o valor da resistência R é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 Ω"
+        },
+        {
+          "letra": "B",
+          "texto": "6 Ω"
+        },
+        {
+          "letra": "C",
+          "texto": "10 Ω"
+        },
+        {
+          "letra": "D",
+          "texto": "12 Ω"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletricidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "De acordo com o Anuário Estatístico de Energia Elétrica do Ministério de Minas e Energia (2016), a matriz hidráulica representa 61,9% da energia gerada no Brasil. No estado de Goiás, o maior número de hidrelétricas concentra-se na bacia do rio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tocantins."
+        },
+        {
+          "letra": "B",
+          "texto": "Araguaia."
+        },
+        {
+          "letra": "C",
+          "texto": "Paranaíba."
+        },
+        {
+          "letra": "D",
+          "texto": "Meia Ponte."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Hidrografia",
+        "Geografia – Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Dos seis domínios morfoclimáticos do Brasil, conforme classificação de Azis Ab'Sáber, o Amazônico é caracterizado por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "terras baixas florestadas equatoriais."
+        },
+        {
+          "letra": "B",
+          "texto": "áreas mamelonares tropical-atlânticas florestadas."
+        },
+        {
+          "letra": "C",
+          "texto": "depressões intermontanas e interplanálticas semi-áridas."
+        },
+        {
+          "letra": "D",
+          "texto": "planaltos subtropicais com formação de matas sulinas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Biogeografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Em áreas urbanizadas, onde há carência de áreas verdes e alta densidade de construções, como edifícios, asfalto e concreto, por exemplo, é comum a ocorrência do fenômeno climático denominado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ilhas solares."
+        },
+        {
+          "letra": "B",
+          "texto": "ilhas tropicais."
+        },
+        {
+          "letra": "C",
+          "texto": "ilhas urbanas."
+        },
+        {
+          "letra": "D",
+          "texto": "ilhas de calor."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A Rodovia Federal BR-153 cumpre importante papel nos fluxos e na dinâmica econômica do estado de Goiás. Dentre as cinco Mesorregiões deste estado, a única não cortada pela BR-153 é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Centro Goiano."
+        },
+        {
+          "letra": "B",
+          "texto": "Noroeste Goiano."
+        },
+        {
+          "letra": "C",
+          "texto": "Leste Goiano."
+        },
+        {
+          "letra": "D",
+          "texto": "Norte Goiano."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Regional do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "As rochas são formadas por um ou mais minerais, podem ser encontradas na superfície terrestre e são classificadas em três grandes grupos. Aquelas que têm sua origem na transformação de outras rochas, em virtude da pressão e da temperatura, são chamadas de rochas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metamórficas."
+        },
+        {
+          "letra": "B",
+          "texto": "magmáticas."
+        },
+        {
+          "letra": "C",
+          "texto": "sedimentares."
+        },
+        {
+          "letra": "D",
+          "texto": "ígneas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "De acordo com o último Censo Demográfico do Instituto Brasileiro de Geografia e Estatística (2010), Goiás possui 27% de seus habitantes nascidos em outros estados brasileiros. Os estados que possuem maior participação nesse percentual são os seguintes:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Maranhão, Tocantins e Mato Grosso."
+        },
+        {
+          "letra": "B",
+          "texto": "Piauí, Mato Grosso do Sul e Pará."
+        },
+        {
+          "letra": "C",
+          "texto": "Minas Gerais, Distrito Federal e Bahia."
+        },
+        {
+          "letra": "D",
+          "texto": "Ceará, Pernambuco e São Paulo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Demografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Leia o fragmento.\nSe um homem pretendesse ser cavaleiro sem ser gentil-homem de linhagem, mesmo que o fosse pela sua mãe, não poderia sê-lo por direito; antes o poderiam tomar os reis ou os barões onde estivesse a castelania e mandar-lhe por direito cortar as esporas sobre uma estrumeira; porque não é costume a mulher nobilitar o homem, mas sim o homem nobilitar a mulher. Na verdade, se um homem de grande linhagem tomasse por mulher a filha de um vilão, o seu filho poderia bem ser um cavaleiro de direito, se o quisesse.\nLes établissements de Saint Louis. In: PEDRERO SÁNCHEZ, M. G. História da Idade Média: textos e testemunhas. São Paulo: Unesp, 2000, p. 100.\nO fragmento do texto escrito no século XIII caracteriza a sociedade europeia medieval como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "teocrática e moralista."
+        },
+        {
+          "letra": "B",
+          "texto": "meritocrática e violenta."
+        },
+        {
+          "letra": "C",
+          "texto": "aristocrática e patriarcal."
+        },
+        {
+          "letra": "D",
+          "texto": "monárquica e centralizadora."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Idade Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Leia o fragmento.\nEra o dia 12 de rabi (24 de setembro) de 622. Maomé tinha então cinquenta e dois anos e podia dizer: \"Deixei minha família e abandonei meus bens pela Hégira, no caminho de Deus\". Assim fora com Moisés, deixando o país do Egito pela \"terra prometida\"; e, antes dele, Abraão, abandonando Ur por ordem de Javé. Jesus havia dito, de maneira muito próxima: \"Vem e segue-me — deixa casa, irmãos e irmãs, pai e mãe, filhos e campos ...\", e ainda: “Quem põe a mão no arado e olha para trás não é apto para o reino de Deus\". O êxodo e a ruptura não são sempre o primeiro passo de iniciativa religiosa?\nSAMUEL, Albert. As religiões hoje. São Paulo: Paulus, 1997, p. 143. (Adaptado)\nO acontecimento descrito no fragmento tem profunda importância histórica e religiosa para o islamismo e marca o início do calendário muçulmano. Esse acontecimento narra a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reclusão de Maomé em uma das cavernas do Monte Hira, onde escreve o Alcorão e se torna profeta da nova religião."
+        },
+        {
+          "letra": "B",
+          "texto": "migração de Maomé e seus seguidores de Meca para Medina, onde lidera a primeira comunidade muçulmana."
+        },
+        {
+          "letra": "C",
+          "texto": "retirada de Maomé para o deserto, onde recebe as revelações que lhes são transmitidas pelo arcanjo Gabriel."
+        },
+        {
+          "letra": "D",
+          "texto": "entrada triunfal de Maomé em Meca, onde se torna o homem mais poderoso da Arábia ao ser reconhecido como ser divino."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Antiga/Medieval"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Observe a imagem.\n\nImage: Caricature \"L'ENJAMBÉE IMPERIALE\" showing Catherine II (Catherine the Great) with one leg over \"Constantinople\" and the other over \"Rufie\" (Russia), extending her reach.\n\nL'enjambée impériale. Caricature contre Catherine II de Russie, de Vinck, 4357 vers 1792. Disponível em:\nhttp://classes.bnf.fr/essentiels/images/3/ess_057.jpg. Acesso em: 20 jun. 2017.\n\nA caricatura apresenta Catarina II, a Grande, imperadora russa, considerada uma déspota esclarecida, cujo governo foi caracterizado por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "modernização cultural e expansão territorial."
+        },
+        {
+          "letra": "B",
+          "texto": "limitação da soberania e separação dos três poderes."
+        },
+        {
+          "letra": "C",
+          "texto": "extinção da servidão e enfraquecimento da nobreza."
+        },
+        {
+          "letra": "D",
+          "texto": "fortalecimento da Igreja Católica e intolerância religiosa."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Idade Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Em 1808, a família real portuguesa desembarcou no Brasil. Esta transferência da Corte portuguesa foi motivada pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "disputa territorial entre as coroas portuguesa e espanhola na região do Rio da Prata."
+        },
+        {
+          "letra": "B",
+          "texto": "ampliação das atividades comerciais da Inglaterra nas colônias americanas."
+        },
+        {
+          "letra": "C",
+          "texto": "expansão dos movimentos separatistas nas colônias ibéricas da América."
+        },
+        {
+          "letra": "D",
+          "texto": "ameaça de invasão de Portugal pelas tropas francesas napoleônicas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Observe a imagem.\n\nImage: Black and white photo of Plínio Salgado (center) with integralist militants. A magazine cover \"ANAUÊ! TEATRO\" is partially visible in front.\n\nPlínio Salgado (ao centro), líder máximo da Ação Integralista Brasileira, posa com militantes integralistas, os \"camisas verde\" s.l., s.d. Inserção: capa da Revista Anauê, Maio de 1935.\nDisponível em: http://www.exposicoesvirtuais.arquivonacional.gov.br/pt-br/exposicoes/69-estado-novo-1937-1945/342-conspiracoes-e-articulacoes. Acesso em: 26 jun. 2017.\n\nA imagem apresenta Plínio Salgado, o principal líder da Ação Integralista Brasileira (AIB) e os militantes integralistas. Na imagem está inserida a capa da Revista integralista Anauê. Surgida na década de 1930, a AIB inspirou-se no",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fascismo italiano."
+        },
+        {
+          "letra": "B",
+          "texto": "comunismo cubano."
+        },
+        {
+          "letra": "C",
+          "texto": "socialismo soviético."
+        },
+        {
+          "letra": "D",
+          "texto": "liberalismo americano."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil República"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Analise a fotografia.\n\nImage: Teatro Goiânia building, Art Deco style.\n\nTeatro Goiânia. Disponível em: http://www.goiasagora.go.gov.br/teatro-goiania-divulga-\nprogramacao-de-espetaculos-para-o-2o-semestre/. Acesso em: 26 jun. 2017.\n\nO Teatro Goiânia, retratado na imagem, é um exemplo das construções no estilo Art déco, que marcaram a construção de Goiânia entre as décadas de 1930 e 1940. Estilo internacional de design, o Art déco surgiu na Europa, nas primeiras décadas do século XX, e reflete as mudanças sociais e políticas do período. Em Goiânia caracterizou-se por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "robustez e tradicionalismo, preservando a memória histórica colonial na paisagem urbana."
+        },
+        {
+          "letra": "B",
+          "texto": "rigor geométrico e elegância, concordando com as ideias de modernidade e progresso."
+        },
+        {
+          "letra": "C",
+          "texto": "rusticidade e austeridade, denotando as limitações dos recursos técnicos e materiais disponíveis."
+        },
+        {
+          "letra": "D",
+          "texto": "abundância ornamental e rebuscamento, resgatando os elementos estéticos da sociedade mineradora."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Urbanismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "O fulereno e o grafeno podem ser considerados dois novos materiais com potencialidade para uso em diferentes aplicações tecnológicas. Esses dois materiais são considerados alótropos do:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nitrogênio."
+        },
+        {
+          "letra": "B",
+          "texto": "Enxofre."
+        },
+        {
+          "letra": "C",
+          "texto": "Carbono."
+        },
+        {
+          "letra": "D",
+          "texto": "Fósforo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Geral"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "O modelo atômico que descreve o átomo como um núcleo pequeno, carregado positivamente e cercado por elétrons distribuídos em níveis de energia quantizados, foi postulado por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Rutherford."
+        },
+        {
+          "letra": "B",
+          "texto": "Thomson."
+        },
+        {
+          "letra": "C",
+          "texto": "Bohr."
+        },
+        {
+          "letra": "D",
+          "texto": "Dalton."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estrutura Atômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Normalmente, a composição química dos sucos artificiais é descrita no rótulo da embalagem. Em uma determinada amostra, a quantidade de sódio presente a cada 200 mL de suco é igual a 5 mg. Ante o exposto, a massa de sódio presente em 1,0 L de suco é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 mg."
+        },
+        {
+          "letra": "B",
+          "texto": "15 mg."
+        },
+        {
+          "letra": "C",
+          "texto": "20 mg."
+        },
+        {
+          "letra": "D",
+          "texto": "25 mg."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Grandezas Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Em 1987, a cidade de Goiânia sofreu o maior acidente radiológico do país. Uma cápsula contendo um sal de um elemento radioativo foi localizada em um ferro-velho e posteriormente aberta para reaproveitamento de chumbo, presente no revestimento interno. Com a abertura da cápsula, o material radioativo ficou exposto e várias pessoas se contaminaram. Nesse acidente radiativo, o elemento químico presente no interior da cápsula era o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cs"
+        },
+        {
+          "letra": "B",
+          "texto": "I"
+        },
+        {
+          "letra": "C",
+          "texto": "Sr"
+        },
+        {
+          "letra": "D",
+          "texto": "Ra"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Nuclear"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O hidroxibenzeno é um composto largamente usado na indústria de desinfetantes. A fórmula molecular desse composto é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "C6H5O"
+        },
+        {
+          "letra": "B",
+          "texto": "C6H6O"
+        },
+        {
+          "letra": "C",
+          "texto": "C6H11O"
+        },
+        {
+          "letra": "D",
+          "texto": "C6H12O"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "El texto arriba forma parte de una serie de consejos publicados recentemente por un diario vasco con el objetivo de que la población padezca menos, dentro de los hogares, las altas temperaturas del verano europeo. Según el texto, una forma de evitar generar calor dentro de casa es",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lavar a mano la ropa."
+        },
+        {
+          "letra": "B",
+          "texto": "desinstalar los enchufes."
+        },
+        {
+          "letra": "C",
+          "texto": "optar por las comidas frías."
+        },
+        {
+          "letra": "D",
+          "texto": "trabajar de noche en el ordenador."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Espanhol – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "El texto termina con un truco. En la última oración del texto se recomienda",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "permitir la salida de humo y calor por la chimenea."
+        },
+        {
+          "letra": "B",
+          "texto": "hacer lo posible para dejar abiertos los hornos."
+        },
+        {
+          "letra": "C",
+          "texto": "apagar el fuego de los hornillos del fogón."
+        },
+        {
+          "letra": "D",
+          "texto": "tapar las cocinas con unas campanas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Espanhol – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "El texto es el resumen de un artículo sobre las características del español del Uruguay. Las autoras mencionan que un rasgo de esa variedad es la",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "influencia indígena en la pronunciación."
+        },
+        {
+          "letra": "B",
+          "texto": "predominancia del diminutivo -illo."
+        },
+        {
+          "letra": "C",
+          "texto": "existencia de zonas tuteantes."
+        },
+        {
+          "letra": "D",
+          "texto": "desaparición del yeísmo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Espanhol – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "En el primer párrafo del texto se menciona “la historia del componente hispano” en relación con las características del español actual del Uruguay. Ese componente se refiere",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "al mestizaje de los nativos."
+        },
+        {
+          "letra": "B",
+          "texto": "a la evolución del castellano."
+        },
+        {
+          "letra": "C",
+          "texto": "al comportamiento de los colonizadores."
+        },
+        {
+          "letra": "D",
+          "texto": "a la historia de la conquista del Cono Sur."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Espanhol – História da Língua Espanhola"
+      ]
+    }
+  ]
+}

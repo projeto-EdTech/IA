@@ -1,66 +1,3 @@
-PUC SP:
-Pucsp 2022:
-prova - 
-gabarito - 
-
-Pucsp 2021:
-prova - 
-gabarito - 
-
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-UFPR:
-Ufpr 2025:
-prova -
-gabarito -
-
-Ufpr 2024:
-prova -
-gabarito -
-
-Ufpr 2023:
-prova -
-gabarito -
-
-Ufpr 2022:
-prova -
-gabarito -
-
-Ufpr 2021:
-prova -
-gabarito -
-
-Ufpr 2020:
-prova -
-gabarito -
-
-Ufpr 2019:
-prova -
-gabarito -
-
-Ufpr 2018:
-prova -
-gabarito -
-
-Ufpr 2017:
-prova -
-gabarito -
-
-Ufpr 2016:
-prova -
-gabarito -
-
-Ufpr 2015:
-prova -
-gabarito -
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-UFG:
-Ufg 2025:
-prova -
-gabarito -
-
 Ufg 2024:
 prova -
 gabarito -
@@ -73,10 +10,6 @@ Ufg 2022:
 prova -
 gabarito -
 
-Ufg 2021:
-prova -
-gabarito -
-
 Ufg 2020:
 prova -
 gabarito -
@@ -86,10 +19,6 @@ prova -
 gabarito -
 
 Ufg 2018:
-prova -
-gabarito -
-
-Ufg 2017:
 prova -
 gabarito -
 
@@ -150,144 +79,48 @@ gabarito -
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-UFRGS:
-Ufrgs 2025:
-prova -
-gabarito -
-
-Ufrgs 2024:
-prova -
-gabarito -
-
-Ufrgs 2023:
-prova -
-gabarito -
-
-Ufrgs 2022:
-prova -
-gabarito -
-
-Ufrgs 2021:
-prova -
-gabarito -
-
-Ufrgs 2020:
-prova -
-gabarito -
-
-Ufrgs 2019:
-prova -
-gabarito -
-
-Ufrgs 2018:
-prova -
-gabarito -
-
-Ufrgs 2017:
-prova -
-gabarito -
-
-Ufrgs 2016:
-prova -
-gabarito -
-
-Ufrgs 2015:
-prova -
-gabarito -
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-UFSM:
-Ufsm 2025:
-prova -
-gabarito -
-
-Ufsm 2024:
-prova -
-gabarito -
-
-Ufsm 2023:
-prova -
-gabarito -
-
-Ufsm 2022:
-prova -
-gabarito -
-
-Ufsm 2021:
-prova -
-gabarito -
-
-Ufsm 2020:
-prova -
-gabarito -
-
-Ufsm 2019:
-prova -
-gabarito -
-
-Ufsm 2018:
-prova -
-gabarito -
-
-Ufsm 2017:
-prova -
-gabarito -
-
-Ufsm 2016:
-prova -
-gabarito -
-
-Ufsm 2015:
-prova -
-gabarito -
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 UNB:
 Unb 2025:
-prova -
-gabarito -
+prova 1 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_25/arquivos/009_VEST_UNB_2025_001_01.PDF
+gabarito 1 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_25/arquivos/GAB_DEFINITIVO_009_VEST_UNB_2025_001_01.PDF
+prova 2 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_25/arquivos/009_VEST_UNB_2025_002_01.PDF
+gabarito 2 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_25/arquivos/GAB_DEFINITIVO_009_VEST_UNB_2025_002_01.PDF
 
 Unb 2024:
-prova -
-gabarito -
+prova 1 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_24/arquivos/901_VEST_UNB_2024_001_01.PDF
+gabarito 1 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_24/arquivos/GAB_DEFINITIVO_901_VEST_UNB_2024_001_01.PDF
+prova 2 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_24/arquivos/901_VEST_UNB_2024_002_01.PDF
+gabarito 2 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_24/arquivos/GAB_DEFINITIVO_901_VEST_UNB_2024_002_01.PDF
 
 Unb 2023:
-prova -
-gabarito -
+prova - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_23/arquivos/751_VESTUNB23_001_01.PDF
+gabarito - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_23/arquivos/GAB_DEFINITIVO_751_VESTUNB23_001_01.PDF
 
 Unb 2022:
-prova -
-gabarito -
-
-Unb 2021:
-prova -
-gabarito -
-
-Unb 2020:
-prova -
-gabarito -
+prova 1 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_22/arquivos/649_VEST22_001_01.PDF
+gabarito 1 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_22/arquivos/VEST_PROVA_I.PDF
+prova 2 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_22/arquivos/649_VEST22_002_01.PDF
+gabarito 2 - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_22/arquivos/GAB_DEFINITIVO_649_VEST22_002_01.PDF
 
 Unb 2019:
-prova -
-gabarito -
+prova - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_19/arquivos/MATRIZ_430_VEST2019_001.PDF
+gabarito - https://cdn.cebraspe.org.br/vestibulares/VESTUNB_19/arquivos/GAB_DEFINITIVO_MATRIZ_430_VEST2019_001.PDF
 
 Unb 2018:
-prova -
-gabarito -
+prova - http://www.cespe.unb.br/vestibular/VESTUNB_18_2/arquivos/371VESTIBULAR2018_001_1__DIA.PDF
+gabarito - http://www.cespe.unb.br/vestibular/VESTUNB_18_2/arquivos/GAB_DEFINITIVO_371VESTIBULAR2018_DIA_1.PDF
 
 Unb 2017:
-prova -
-gabarito -
+prova - http://www.cespe.unb.br/vestibular/VESTUNB_17_2/arquivos/300VEST2017_001_01.pdf
+gabarito - http://www.cespe.unb.br/vestibular/VESTUNB_17_2/arquivos/Gab_Definitivo_300VEST2017_001_01.pdf
 
 Unb 2016:
-prova -
-gabarito -
+prova - http://www.cespe.unb.br/vestibular/VESTUNB_16_2/arquivos/218VEST2016_001_01.PDF
+gabarito - http://www.cespe.unb.br/vestibular/VESTUNB_16_2/arquivos/Gab_Definitivo_218VEST2016_001_01.PDF
 
 Unb 2015:
-prova -
-gabarito -
+prova - http://www.cespe.unb.br/vestibular/VESTUNB_15_2/arquivos/VEST15_001_01.pdf
+gabarito - http://www.cespe.unb.br/vestibular/VESTUNB_15_2/arquivos/Gab_Definitivo_VEST15_001_01.PDF
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -521,99 +354,5 @@ prova -
 gabarito -
 
 Ufv 2015:
-prova -
-gabarito -
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-UEMG:
-Uemg 2025:
-prova -
-gabarito -
-
-Uemg 2024:
-prova -
-gabarito -
-
-Uemg 2023:
-prova -
-gabarito -
-
-Uemg 2022:
-prova -
-gabarito -
-
-Uemg 2021:
-prova -
-gabarito -
-
-Uemg 2020:
-prova -
-gabarito -
-
-Uemg 2019:
-prova -
-gabarito -
-
-Uemg 2018:
-prova -
-gabarito -
-
-Uemg 2017:
-prova -
-gabarito -
-
-Uemg 2016:
-prova -
-gabarito -
-
-Uemg 2015:
-prova -
-gabarito -
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-UNICHRISTUS:
-Unichristus 2025:
-prova -
-gabarito -
-
-Unichristus 2024:
-prova -
-gabarito -
-
-Unichristus 2023:
-prova -
-gabarito -
-
-Unichristus 2022:
-prova -
-gabarito -
-
-Unichristus 2021:
-prova -
-gabarito -
-
-Unichristus 2020:
-prova -
-gabarito -
-
-Unichristus 2019:
-prova -
-gabarito -
-
-Unichristus 2018:
-prova -
-gabarito -
-
-Unichristus 2017:
-prova -
-gabarito -
-
-Unichristus 2016:
-prova -
-gabarito -
-
-Unichristus 2015:
 prova -
 gabarito -

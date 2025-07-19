@@ -1,0 +1,2269 @@
+{
+  "nomeUniversidade": "Universidade Federal do Rio Grande do Sul",
+  "siglaUniversidade": "UFRGS",
+  "nomeProva": "Vestibular",
+  "ano": 2015,
+  "qtdeQuestoes": 75,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Observe a tira abaixo.\nFonte: Iotti. Zero Hora. 11 abr. 2014.\nSe o filho do Radicci tornar-se vegetariano do tipo que não utiliza produtos derivados de animais, ficará impossibilitado de obter, em sua dieta, a vitamina",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "B12, que atua na formação de células vermelhas do sangue."
+        },
+        {
+          "letra": "B",
+          "texto": "B12, que é encontrada nos pigmentos visuais."
+        },
+        {
+          "letra": "C",
+          "texto": "D, que auxilia na formação do tecido conjuntivo."
+        },
+        {
+          "letra": "D",
+          "texto": "E, que é responsável pela absorção de cálcio."
+        },
+        {
+          "letra": "E",
+          "texto": "E, que participa da formação de nucleotídeos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Nutrição e Metabolismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "No bloco superior abaixo, são citados dois diferentes componentes estruturais do citoesqueleto; no inferior, suas funções.\nAssocie adequadamente o bloco inferior ao superior.\n1 - Microtúbulos\n2 - Microfilamentos\n( ) locomoção do espermatozoide\n( ) ciclose em células vegetais\n( ) contração e distensão das células musculares\n( ) formação de centríolos\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 – 1 – 2 – 2."
+        },
+        {
+          "letra": "B",
+          "texto": "1 – 2 – 2 – 1."
+        },
+        {
+          "letra": "C",
+          "texto": "1 – 2 – 2 – 2."
+        },
+        {
+          "letra": "D",
+          "texto": "2 – 1 – 1 – 1."
+        },
+        {
+          "letra": "E",
+          "texto": "2 – 1 – 1 – 2."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Observe o esquema abaixo, referente a uma célula eucarionte.\nO esquema apresentado refere-se a uma célula",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "animal, porque se observa a ausência de centríolos."
+        },
+        {
+          "letra": "B",
+          "texto": "animal, porque apresenta a estrutura de número 1."
+        },
+        {
+          "letra": "C",
+          "texto": "vegetal, porque apresenta a estrutura de número 2."
+        },
+        {
+          "letra": "D",
+          "texto": "vegetal, porque se observa a ausência de vacúolos."
+        },
+        {
+          "letra": "E",
+          "texto": "vegetal, porque apresenta a estrutura de número 3."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Sobre a fotossíntese, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as reações dependentes de luz convertem energia luminosa em energia química."
+        },
+        {
+          "letra": "B",
+          "texto": "o hidrogênio resultante da quebra da água é eliminado da célula durante a fotólise."
+        },
+        {
+          "letra": "C",
+          "texto": "as reações dependentes de luz ocorrem no estroma do cloroplasto."
+        },
+        {
+          "letra": "D",
+          "texto": "o oxigênio produzido na fotossíntese é resultante das reações independentes da luz."
+        },
+        {
+          "letra": "E",
+          "texto": "os seres autótrofos utilizam o CO2 durante as reações dependentes de luz."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Bioenergética"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Observe a tira abaixo.\nFonte: Fernando Gonsales. Folha de São Paulo. 01 fev. 2011.\nCom base no observado, assinale a alternativa que preenche corretamente as lacunas do enunciado abaixo, na ordem em que aparecem.\nO caracol ficou desidratado como resultado do processo denominado ........, no qual o sal grosso é um ........ que torna o ambiente ........ em relação às células do caracol.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "transporte ativo – soluto – hipertônico"
+        },
+        {
+          "letra": "B",
+          "texto": "osmose – solvente – hipertônico"
+        },
+        {
+          "letra": "C",
+          "texto": "difusão – solvente – isotônico"
+        },
+        {
+          "letra": "D",
+          "texto": "difusão – solvente – hipotônico"
+        },
+        {
+          "letra": "E",
+          "texto": "osmose – soluto – hipertônico"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Assinale com V (verdadeiro) ou F (falso) as afirmações abaixo, referentes aos constituintes do núcleo celular.\n( ) A carioteca é uma membrana lipoproteica dupla presente durante as mitoses.\n( ) Os nucléolos, corpúsculos ricos em RNA ribossômico, são observados na interfase.\n( ) Os cromossomos condensados na fase inicial da mitose são constituídos por duas cromátides.\n( ) Cromossomos homólogos são os que apresentam seus genes com alelos idênticos.\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – V – F – V."
+        },
+        {
+          "letra": "B",
+          "texto": "V – F – V – F."
+        },
+        {
+          "letra": "C",
+          "texto": "F – V – V – F."
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – V – V."
+        },
+        {
+          "letra": "E",
+          "texto": "V – F – F – V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "O tecido ósseo é o principal constituinte dos ossos. Em relação a esse tecido, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os compostos minerais do tecido ósseo são responsáveis por sua flexibilidade."
+        },
+        {
+          "letra": "B",
+          "texto": "o disco epifisiário é a estrutura a partir da qual ocorre o crescimento dos ossos longos."
+        },
+        {
+          "letra": "C",
+          "texto": "o osso não apresenta sensibilidade devido à ausência de fibras nervosas."
+        },
+        {
+          "letra": "D",
+          "texto": "os osteoblastos são estimulados por um hormônio das glândulas paratireoides para a remoção de cálcio do sangue."
+        },
+        {
+          "letra": "E",
+          "texto": "os osteoclastos formam osso novo para preencher o espaço deixado pelos osteoblastos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Histologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Considere as seguintes informações sobre as hepatites virais.\nI - A hepatite C pode ser transmitida por sangue contaminado proveniente de procedimentos incisivos como tatuagens, colocação de piercings e manicures.\nII - As diferentes formas de hepatite viral constituem doenças inflamatórias do fígado que podem ser prevenidas por meio de vacinação.\nIII- Algumas das formas de hepatites virais podem tornar-se crônicas e evoluir para câncer de fígado.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Saúde"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Assinale a alternativa que preenche corretamente as lacunas do enunciado abaixo, na ordem em que aparecem.\nEm relação à malária, o parasita Plasmodium falciparum aloja-se nas glândulas salivares do mosquito Anopheles, penetra na corrente sanguínea humana e instala-se no ........, invadindo e causando ruptura dos ........ .",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pâncreas – glóbulos brancos"
+        },
+        {
+          "letra": "B",
+          "texto": "fígado – glóbulos brancos"
+        },
+        {
+          "letra": "C",
+          "texto": "pâncreas – vasos sanguíneos"
+        },
+        {
+          "letra": "D",
+          "texto": "fígado – glóbulos vermelhos"
+        },
+        {
+          "letra": "E",
+          "texto": "coração – vasos sanguíneos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Saúde"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Considere as seguintes afirmações em relação à classificação dos seres vivos.\nI - Semelhanças morfológicas entre diferentes grupos de seres vivos implicam uma mesma origem evolutiva.\nII - A família, hierarquicamente, é uma categoria taxonômica que engloba uma ou mais classes.\nIII- A nomenclatura binária, utilizada para designar os seres vivos, indica seu gênero e sua espécie.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Taxonomia"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "A coluna da esquerda, abaixo, lista dois hormônios vegetais; a da direita, funções que desempenham. Associe adequadamente a coluna da direita à da esquerda.\n1- Giberelina\n2- Auxina\n( ) promove a quebra da dormência da semente\n( ) regula a queda das folhas no outono\n( ) inibe o crescimento das gemas laterais\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 – 2 – 2."
+        },
+        {
+          "letra": "B",
+          "texto": "2 – 1 – 2."
+        },
+        {
+          "letra": "C",
+          "texto": "1 – 2 – 1."
+        },
+        {
+          "letra": "D",
+          "texto": "2 – 1 – 1."
+        },
+        {
+          "letra": "E",
+          "texto": "2 – 2 – 1."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "As plantas parasitas verdadeiras caracterizam-se por apresentar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "folhas com parênquima clorofiliano desenvolvido."
+        },
+        {
+          "letra": "B",
+          "texto": "tricomas secretores de enzimas digestivas."
+        },
+        {
+          "letra": "C",
+          "texto": "caules armazenadores de substâncias de reserva."
+        },
+        {
+          "letra": "D",
+          "texto": "gavinhas como órgãos de fixação."
+        },
+        {
+          "letra": "E",
+          "texto": "corpo vegetativo reduzido."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Assinale a alternativa que apresenta uma estrutura reprodutiva exclusiva das angiospermas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tubo polínico"
+        },
+        {
+          "letra": "B",
+          "texto": "Endosperma secundário"
+        },
+        {
+          "letra": "C",
+          "texto": "Grão de pólen"
+        },
+        {
+          "letra": "D",
+          "texto": "Saco embrionário"
+        },
+        {
+          "letra": "E",
+          "texto": "Semente"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Botânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Observe a tira abaixo, que ilustra hábitos dos ofídios.\nFonte: Fernando Gonsales. Zero Hora. 26 jul. 2014.\nAssinale a alternativa que apresenta a afirmação correta sobre características do ofídio representado na tira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mandíbula com dupla articulação."
+        },
+        {
+          "letra": "B",
+          "texto": "Caixa torácica com costelas unidas ao esterno."
+        },
+        {
+          "letra": "C",
+          "texto": "Corpo recoberto por escamas e placas córneas."
+        },
+        {
+          "letra": "D",
+          "texto": "Fecundação externa."
+        },
+        {
+          "letra": "E",
+          "texto": "Ausência de dentes nos maxilares."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "A expressão popular “estômago de avestruz” é utilizada para definir pessoas que comem de tudo e não enfrentam problemas digestivos com isso.\nSobre o processo alimentar das aves, assinale a afirmação correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O alimento ingerido passa direto ao estômago químico."
+        },
+        {
+          "letra": "B",
+          "texto": "As enzimas digestivas começam a agir no papo."
+        },
+        {
+          "letra": "C",
+          "texto": "A moela tem uma ação mecânica que tritura o alimento ingerido."
+        },
+        {
+          "letra": "D",
+          "texto": "Algumas espécies regurgitam o conteúdo da moela para alimentar os filhotes."
+        },
+        {
+          "letra": "E",
+          "texto": "A dieta alimentar inclui somente animais como insetos e vertebrados."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Com base nas características dos moluscos, assinale com V (verdadeiro) ou F (falso) as afirmações abaixo.\n( ) Os moluscos apresentam simetria radial.\n( ) O corpo é constituído por cabeça, pé e massa visceral.\n( ) Os bivalvos possuem sifões para a entrada e a saída de água.\n( ) A composição da concha externa é calcária ou celulósica.\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "F – F – V – F."
+        },
+        {
+          "letra": "B",
+          "texto": "V – F – F – V."
+        },
+        {
+          "letra": "C",
+          "texto": "F – V – V – F."
+        },
+        {
+          "letra": "D",
+          "texto": "V – V – F – V."
+        },
+        {
+          "letra": "E",
+          "texto": "V – V – F – F."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Instrução: As questões 17 e 18 referem-se aos enunciados e ao quadro abaixo.\nO quadro apresenta a distribuição dos 4 diferentes alelos do gene A cujas combinações genotípicas são responsáveis pelos padrões de coloração da pelagem de algumas raças caninas.\nAdaptado de Dreger D.L.; Schmutz, S. M. A SINE insertion causes the Black – and- tan and Saddle Tan Phenotypes in domestic dogs. Journal of Heredity, volume 102, supplement 1,September/October 2011, S11-S18.\nCom base no quadro, a hierarquia de dominância dos diferentes alelos é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aw > a > ay > at."
+        },
+        {
+          "letra": "B",
+          "texto": "ay > at > a > aw."
+        },
+        {
+          "letra": "C",
+          "texto": "at > ay > aw > a."
+        },
+        {
+          "letra": "D",
+          "texto": "ay > aw > at > a."
+        },
+        {
+          "letra": "E",
+          "texto": "aw > ay > a > at."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Assinale a alternativa correta, considerando que o gene K é epistático em relação ao gene A de tal forma que, na presença de K, todos os cães têm a cor do pelo preta; e que o genótipo kk permite a expressão dos diferentes alelos do gene A.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O cruzamento entre cães KK ayaw X Kk ayaw somente resulta cães com cor do pelo preta."
+        },
+        {
+          "letra": "B",
+          "texto": "Os cães apresentados no quadro são homozigotos dominantes para o gene K."
+        },
+        {
+          "letra": "C",
+          "texto": "O cruzamento entre cães kk prateados pode acarretar cães dourados."
+        },
+        {
+          "letra": "D",
+          "texto": "A cor de pelo preta somente pode ser obtida em cães homozigotos para os dois genes citados."
+        },
+        {
+          "letra": "E",
+          "texto": "O cruzamento entre di-híbridos Kkay a resulta em 9/16 animais pretos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Uma mulher com cariótipo 47, XXX tem cariótipo anormal. Essa anomalia",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é uma triploidia."
+        },
+        {
+          "letra": "B",
+          "texto": "é uma aneuploidia autossômica."
+        },
+        {
+          "letra": "C",
+          "texto": "pode ter origem no gameta paterno."
+        },
+        {
+          "letra": "D",
+          "texto": "caracteriza-se pela presença de um corpúsculo de Barr."
+        },
+        {
+          "letra": "E",
+          "texto": "causa alterações somente em genes exclusivos do sexo feminino."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Assinale com V (verdadeiro) ou F (falso) as afirmações abaixo, referentes aos mecanismos de mudança evolutiva.\n( ) O equilíbrio de Hardy-Weinberg descreve uma situação modelo na qual as frequências alélicas mudam ao longo das gerações.\n( ) As mutações são fonte de variabilidade, pois ocorrem em taxas elevadas para a maioria dos locos estudados.\n( ) O movimento de gametas entre populações, referido como fluxo gênico, pode alterar as frequências alélicas de uma população.\n( ) Quando uma população passa por um evento de gargalo populacional, a variação genética pode ser reduzida por deriva genética.\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – V – F – V."
+        },
+        {
+          "letra": "B",
+          "texto": "V – F – V – F."
+        },
+        {
+          "letra": "C",
+          "texto": "F – V – V – F."
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – V – V."
+        },
+        {
+          "letra": "E",
+          "texto": "V – F – F – V."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Quando são realizadas comparações entre espécies, constata-se que muitas características são compartilhadas. Considere as afirmações abaixo, sobre os processos evolutivos relacionados a esse fato.\nI - Características homólogas são aquelas compartilhadas por diferentes espécies, herdadas de um ancestral comum.\nII - As estruturas ósseas das asas de morcegos e aves são derivadas de um ancestral comum de quatro membros.\nIII- A evolução convergente refere-se a características similares que evoluíram, de forma independente, em diferentes espécies sujeitas a pressões seletivas semelhantes.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Analise o quadro abaixo que apresenta os componentes de uma cadeia alimentar aquática e de uma terrestre.\nSobre as cadeias alimentares acima citadas, assinale a afirmativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O caramujo, o peixe, o rato e a cobra formam o segundo nível trófico."
+        },
+        {
+          "letra": "B",
+          "texto": "A garça e a cobra são consumidores terciários."
+        },
+        {
+          "letra": "C",
+          "texto": "Uma onça-pintada pode ocupar o lugar do rato na cadeia acima."
+        },
+        {
+          "letra": "D",
+          "texto": "A garça e o gavião ocupam o quarto nível trófico."
+        },
+        {
+          "letra": "E",
+          "texto": "Uma planta carnívora pode ocupar o lugar da cobra."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Os meses que antecedem a primavera são os que apresentam mais focos de queimadas no Brasil. Os biomas Amazônia e Cerrado apresentam o maior número de focos de queimadas mensal, com 3490 casos (59%) e 1673 casos (28,3%), respectivamente.\nFonte: <www.inpe.br/queimadas/sitAtual.php>. Acesso em: 06 set. 2014.\nSobre os biomas acima citados, considere as seguintes afirmações.\nI - A expansão da fronteira agrícola, aliada à queima da vegetação para produção de carvão, são fatores que agravam a degradação do Cerrado.\nII - A vegetação do Cerrado caracteriza-se por apresentar cobertura predominante de gramíneas e árvores de grande porte com folhas grandes.\nIII- As regiões atingidas pelas queimadas no bioma Amazônia são as florestas inundadas, denominadas de Matas de Igapó, que abrigam as árvores mais altas da floresta.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Em relação à produção e ao uso de fertilizantes sintéticos utilizados em lavouras, considere as seguintes afirmações.\nI - O fosfato de amônia é um ingrediente básico de fertilizantes, sendo o fósforo obtido principalmente a partir de rochas de fosfato de cálcio.\nII - A água da chuva carrega fertilizantes para os cursos de água, provocando o aumento do volume de nutrientes e da população de plantas e de organismos que delas se alimentam, como os moluscos.\nIII- O uso excessivo de fertilizantes para a produção de biocombustíveis pode contribuir mais para o aquecimento global do que o benefício trazido pela economia de combustíveis fósseis.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Observe a figura abaixo.\nFonte: Iotti. Zero Hora. 02 ago. 2014.\nEm relação à figura apresentada, assinale a alternativa que preenche corretamente as lacunas do enunciado abaixo, na ordem em que aparecem.\nO uso de lixões a céu aberto nas cidades causa problemas ao ambiente e à saúde pública. Alternativas a essa prática, para resíduos especiais como os hospitalares, como ........ e ........ podem reduzir o impacto ambiental.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "coleta seletiva – deposição em tonéis"
+        },
+        {
+          "letra": "B",
+          "texto": "impermeabilização do solo – introdução de bactérias decompositoras"
+        },
+        {
+          "letra": "C",
+          "texto": "coleta seletiva – compostagem"
+        },
+        {
+          "letra": "D",
+          "texto": "aterros sanitários – incineração"
+        },
+        {
+          "letra": "E",
+          "texto": "recolhimento do chorume – compostagem"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Diamante e grafite são variedades alotrópicas do elemento carbono cujas densidades são, respectivamente,\nd (Cdiamante) = 3,5 g/cm³\nd (Cgrafite) = 2,3 g/cm³\nEm um conto de fadas, uma jovem foi a um baile com um anel de diamante de 1,75 quilates cuja pedra tem um volume V1 e, à meia-noite, esse diamante transformou-se em grafite.\n(dado: 1 quilate=0,20 g)\nO volume final dessa “pedra de grafite” será, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,4 V1"
+        },
+        {
+          "letra": "B",
+          "texto": "0,7 V1"
+        },
+        {
+          "letra": "C",
+          "texto": "1,5 V1"
+        },
+        {
+          "letra": "D",
+          "texto": "2,3 V1"
+        },
+        {
+          "letra": "E",
+          "texto": "3,5 V1"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Físico-Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Considere dois béqueres, contendo quantidades diferentes de duas amostras líquidas homogêneas A e B , a 25 ºC, que são submetidos a aquecimento por 30 min, sob pressão de 1 atm, com fontes de calor equivalentes. A temperatura do líquido contido em cada béquer foi medida em função do tempo de aquecimento, e os dados obtidos foram registrados nos gráficos abaixo.\nSobre esses dados, são feitas as afirmações abaixo.\nI - Se TA = TB, então a amostra A e a amostra B provavelmente são a mesma substância pura.\nII - Se as amostras A e B são constituídas pela mesma substância, então o volume da amostra B é menor que o volume de amostra A.\nIII- A amostra A é uma mistura em que o líquido predominante é aquele que constitui a amostra B.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Físico-Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "O ferro é um dos mais importantes metais, utilizado pelo homem desde a antiguidade. São dadas as seguintes informações sobre o elemento ferro.\n1 - O ferro tem 4 isótopos estáveis naturais: 54Fe, 56Fe, 57Fe e 58Fe.\n2 - O ferro pode ocorrer nos compostos na forma de cátions Fe2+ ou Fe3+.\n3 - O ferro pode apresentar formas alotrópicas diferentes, tais como o Feα e o Feγ.\nConsiderando os princípios químicos e as informações apresentadas, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas o isótopo 56Fe é capaz de formar cátion Fe2+."
+        },
+        {
+          "letra": "B",
+          "texto": "o Feα é formado pelos isótopos 54Fe e 56Fe, enquanto o Feγ é formado pelos isótopos 57Fe e 58Fe."
+        },
+        {
+          "letra": "C",
+          "texto": "os cátions Fe2+ ou Fe3+ são originados de átomos de ferro com diferentes números atômicos."
+        },
+        {
+          "letra": "D",
+          "texto": "o Feα origina os cátions Fe2+, e o Feγ origina os cátions Fe3+."
+        },
+        {
+          "letra": "E",
+          "texto": "os diferentes isótopos do ferro podem ser encontrados tanto no Feα como no Feγ."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Estrutura Atômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Um aficcionado do seriado TBBT, que tem como um dos principais bordões a palavra Bazinga, comprou uma camiseta alusiva a essa palavra com a representação dos seguintes elementos.\nEm relação a esses elementos, considere as afirmações abaixo.\nI - Zinco apresenta raio atômico maior que o bário.\nII - Zn2+ e Ga3+ são isoeletrônicos.\nIII- Bário é o elemento que apresenta menor potencial de ionização.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Propriedades Periódicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Postar fotos em redes sociais pode contribuir com o meio ambiente. As fotos digitais não utilizam mais os filmes tradicionais; no entanto os novos processos de revelação capturam as imagens e as colocam em papel de fotografia, de forma semelhante ao que ocorria com os antigos filmes. O papel é então revelado com os mesmos produtos químicos que eram utilizados anteriormente.\nO quadro abaixo apresenta algumas substâncias que podem estar presentes em um processo de revelação fotográfica.\nSobre essas substâncias, é correto afirmar que os átomos de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prata no AgBr e no AgNO3 estão em um mesmo estado de oxidação."
+        },
+        {
+          "letra": "B",
+          "texto": "enxofre no Na2S2O3 e no Na2SO3 estão em um mesmo estado de oxidação."
+        },
+        {
+          "letra": "C",
+          "texto": "sódio no Na2S2O3 estão em um estado mais oxidado que no Na2SO3."
+        },
+        {
+          "letra": "D",
+          "texto": "enxofre no Na2S2O3 estão em um estado mais oxidado que no Na2SO3."
+        },
+        {
+          "letra": "E",
+          "texto": "oxigênio no KAl(SO4)2 estão em um estado mais oxidado que no AgNO3."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Em ambientes fechados, tais como submarinos e espaçonaves, há necessidade de eliminar o gás carbônico produzido pela respiração. Para evitar esse acúmulo de gás carbônico, podem ser utilizados diferentes métodos.\nAbaixo são apresentados dois desses métodos, com suas respectivas reações.\nMétodo 1 : uso de hidróxido de lítio\nCO2 + 2 LiOH → Li2CO3 + H2O\nMétodo 2 : reação com óxido de cálcio\nCO2 + CaO → CaCO3\nSobre as reações e os reagentes envolvidos nesses métodos, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ambas reações originam sais insolúveis em água."
+        },
+        {
+          "letra": "B",
+          "texto": "todas as substâncias participantes dessas reações são iônicas."
+        },
+        {
+          "letra": "C",
+          "texto": "o carbonato de lítio é uma substância que, quando dissolvida em meio aquoso, produz solução básica."
+        },
+        {
+          "letra": "D",
+          "texto": "todos os compostos participantes dessa reação são óxidos."
+        },
+        {
+          "letra": "E",
+          "texto": "ambas reações produzem a mesma massa de sal, quando consomem iguais quantidades de CO2."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Abaixo são apresentadas as descrições de três tipos de lâmpadas disponíveis no mercado, em que os elementos são representados por números romanos.\n1 - As lâmpadas de vapor de I emitem uma luz amarelada e são muito utilizadas em iluminação pública.\n2 - As lâmpadas halógenas apresentam uma maior eficiência energética. Em algumas dessas lâmpadas, ocorre, no interior do bulbo, uma série de reações que podem ser denominadas ciclo do II.\n3 - As lâmpadas fluorescentes são carregadas internamente com gases inertes à baixa pressão como o III. Nesse caso, o tubo de vidro é coberto internamente com um material à base de IV que, quando excitado com a radiação gerada pela ionização dos gases, produz luz visível.\nOs elementos I, II, III e IV podem ser, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sódio – nitrogênio – argônio – mercúrio"
+        },
+        {
+          "letra": "B",
+          "texto": "sódio – iodo – argônio – fósforo"
+        },
+        {
+          "letra": "C",
+          "texto": "flúor – fósforo – nitrogênio – sódio"
+        },
+        {
+          "letra": "D",
+          "texto": "mercúrio – nitrogênio – criptônio – potássio"
+        },
+        {
+          "letra": "E",
+          "texto": "flúor – iodo – mercúrio – sódio"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Elementos Químicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Na coluna da esquerda, abaixo, estão listadas informações relativas a cinco substâncias diferentes. Na coluna da direita, são apresentadas propriedades relacionadas a essas informações. Associe adequadamente a coluna da direita à da esquerda.\n1 - As moléculas da substância 1 são tetraédricas com átomos idênticos ligados ao átomo central.\n2 - A substância 2 tem massa molar semelhante à da água e interações intermoleculares do tipo Van der Waals.\n3 - A substância 3 sofre ionização quando dissolvida em água.\n4 - As moléculas da substância 4 são trigonais planas com átomos de diferentes eletronegatividades, ligados ao átomo central.\n5 - A substância 5 tem massa molar e densidade maior que a da água.\n( ) A substância é mais volátil que água pura.\n( ) A substância é solúvel em solventes polares.\n( ) A substância é solúvel em solventes apolares.\n( ) A substância forma soluções aquosas eletrolíticas.\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 – 1 – 4 – 5."
+        },
+        {
+          "letra": "B",
+          "texto": "2 – 4 – 1 – 3."
+        },
+        {
+          "letra": "C",
+          "texto": "3 – 1 – 2 – 5."
+        },
+        {
+          "letra": "D",
+          "texto": "5 – 2 – 4 – 1."
+        },
+        {
+          "letra": "E",
+          "texto": "5 – 2 – 1 – 3."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Físico-Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Os modelos de forças intermoleculares são utilizados para explicar diferentes fenômenos relacionados às propriedades das substâncias.\nConsidere esses modelos para analisar as afirmações abaixo.\nI - As diferenças de intensidade das interações intermoleculares entre as moléculas da superfície de um líquido e as que atuam em seu interior originam a tensão superficial do líquido, responsável pelo arredondamento das gotas líquidas.\nII - A pressão de vapor da água diminui, ao dissolver um soluto em água pura, pois é alterado o tipo de interação intermolecular entre as moléculas de água.\nIII- A grande solubilidade da sacarose em água deve-se ao estabelecimento de interações do tipo ligação de hidrogênio entre os grupos hidroxila da sacarose e as moléculas de água.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Físico-Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Nas tecnologias de energias renováveis, estudos têm sido realizados com tintas fotovoltaicas contendo nanopartículas de dióxido de titânio, TiO2. Essas tintas são capazes de transformar a energia luminosa em energia elétrica.\nO dióxido de titânio natural pode ser obtido da ilmenita, um óxido natural de ferro e titânio minerado a partir das areias de praia. A reação de obtenção do dióxido de titânio, a partir da ilmenita, é representada pela reação abaixo já ajustada.\n2 FeTiO3 + 4 HC + C2 → 2 FeC3 + 2 TiO2 + 2 H2O\nA massa de dióxido de titânio que pode ser obtida, a partir de uma tonelada de areia bruta com 5% de ilmenita, é, aproximadamente,\n(Dados: TiO2 = 80 g.mol-1 e FeTiO3= 152 g.mol-1)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 kg."
+        },
+        {
+          "letra": "B",
+          "texto": "26,3 kg."
+        },
+        {
+          "letra": "C",
+          "texto": "52,6 kg."
+        },
+        {
+          "letra": "D",
+          "texto": "105,2 kg."
+        },
+        {
+          "letra": "E",
+          "texto": "210,4 kg."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Em 1851, um crime ocorrido na alta sociedade belga foi considerado o primeiro caso da Química Forense. O Conde e a Condessa de Bocarmé assassinaram o irmão da condessa, mas o casal dizia que o rapaz havia enfartado durante o jantar. Um químico provou haver grande quantidade de nicotina na garganta da vítima, constatando assim que havia ocorrido um envenenamento com extrato de folhas de tabaco.\nSobre a nicotina, são feitas as seguintes afirmações.\nI - Contém dois heterociclos.\nII - Apresenta uma amina terciária na sua estrutura.\nIII- Possui a fórmula molecular C10H14N2.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Na série Breaking Bad, o personagem Professor Walter White começou a produzir metanfetamina a partir da extração de pseudoefedrina de remédios contra resfriados. A estrutura da (1S,2S)-pseudoefedrina é mostrada abaixo.\nO número possível de isômeros espaciais oticamente ativos para a pseudoefedrina é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0."
+        },
+        {
+          "letra": "B",
+          "texto": "2."
+        },
+        {
+          "letra": "C",
+          "texto": "3."
+        },
+        {
+          "letra": "D",
+          "texto": "4."
+        },
+        {
+          "letra": "E",
+          "texto": "6."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O fulvinol, cuja estrutura é mostrada abaixo, foi isolado de uma esponja marinha presente na costa da Espanha.\nConsidere as afirmações abaixo, a respeito do fulvinol.\nI - É um hidrocarboneto acíclico insaturado.\nII - Apresenta ligações duplas trans e cis.\nIII- Apresenta 4 carbonos com geometria linear.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O ELQ-300 faz parte de uma nova classe de drogas para o tratamento de malária. Testes mostraram que o ELQ-300 é muito superior aos medicamentos usados atualmente no quesito de desenvolvimento de resistência pelo parasita.\nSão funções orgânicas presentes no ELQ-300",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "amina e cetona."
+        },
+        {
+          "letra": "B",
+          "texto": "amina e éster."
+        },
+        {
+          "letra": "C",
+          "texto": "amida e cetona."
+        },
+        {
+          "letra": "D",
+          "texto": "cetona e éster."
+        },
+        {
+          "letra": "E",
+          "texto": "éter e ácido carboxílico."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Salicilato de metila é usado em medicamentos para uso tópico, em caso de dores musculares. Ele é obtido industrialmente via reação de esterificação do ácido salicílico com metanol, conforme mostrado abaixo.\nAssinale a alternativa que preenche corretamente as lacunas do segmento abaixo, na ordem em que aparecem.\nEm relação ao ácido salicílico, o salicilato de metila apresenta ........ ponto de ebulição e ........ acidez.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "menor – menor"
+        },
+        {
+          "letra": "B",
+          "texto": "menor – maior"
+        },
+        {
+          "letra": "C",
+          "texto": "igual – menor"
+        },
+        {
+          "letra": "D",
+          "texto": "maior – maior"
+        },
+        {
+          "letra": "E",
+          "texto": "maior – igual"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Dois hidrocarbonetos I e II reagem com bromo, conforme mostrado abaixo.\nCxHy + Br2 → CxHy-1Br + HBr\nI\nCzHn + Br2 → CzHnBr2\nII\nÉ correto afirmar que I e II são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aromático e alcano."
+        },
+        {
+          "letra": "B",
+          "texto": "aromático e alceno."
+        },
+        {
+          "letra": "C",
+          "texto": "alcino e alcano."
+        },
+        {
+          "letra": "D",
+          "texto": "alcino e alceno."
+        },
+        {
+          "letra": "E",
+          "texto": "alceno e alcino."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Líquidos iônicos vêm sendo usados em inúmeras aplicações. O primeiro exemplo de um líquido iônico encontrado na natureza foi descrito recentemente. A formiga N. fulva, ao ser atacada pela formiga S. Invicta, neutraliza o alcaloide venenoso, lançando seu próprio veneno, ácido fórmico, que forma um líquido iônico viscoso, conforme a reação abaixo, em que R é uma cadeia carbônica linear de 10 a 18 átomos de carbono.\nEssa reação é caracterizada como uma reação de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ácido-base de Lewis."
+        },
+        {
+          "letra": "B",
+          "texto": "radicais."
+        },
+        {
+          "letra": "C",
+          "texto": "hidrólise salina."
+        },
+        {
+          "letra": "D",
+          "texto": "oxidação-redução."
+        },
+        {
+          "letra": "E",
+          "texto": "esterificação."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "O trióxido de arsênio, As2O3, é utilizado como quimioterápico no tratamento de alguns tipos de leucemia mieloide aguda. O protocolo de um determinado paciente indica que ele deva receber uma infusão intravenosa com 4,95 mg de trióxido de arsênio, diluídos em soro fisiológico até o volume final de 250 mL.\nA concentração em mol/L de trióxido de arsênio na solução utilizada nessa infusão é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,0 x 10–1."
+        },
+        {
+          "letra": "B",
+          "texto": "2,5 x 10–2."
+        },
+        {
+          "letra": "C",
+          "texto": "1,0 x 10–4."
+        },
+        {
+          "letra": "D",
+          "texto": "2,5 x 10–5."
+        },
+        {
+          "letra": "E",
+          "texto": "1,0 x 10–6."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "A uma solução I aquosa saturada de K2Cr2O7 de cor laranja é adicionada água pura até dobrar seu volume, mantendo-se a temperatura constante. A seguir, são adicionados alguns cristais de K2Cr2O7, sob agitação constante, até que ocorra o aparecimento de um precipitado de K2Cr2O7, obtendo-se a solução II, conforme esquematizado no desenho abaixo.\nConsiderando as concentrações de K2Cr2O7 nessas soluções, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a concentração na solução I é o dobro da concentração na solução II."
+        },
+        {
+          "letra": "B",
+          "texto": "o precipitado é solubilizado quando se misturam as soluções I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "a tonalidade laranja da solução I é mais intensa que a tonalidade laranja da solução II."
+        },
+        {
+          "letra": "D",
+          "texto": "a solução I deve apresentar maior ponto de ebulição que a solução II, quando considerados os efeitos coligativos."
+        },
+        {
+          "letra": "E",
+          "texto": "a concentração da solução I é igual à concentração da solução II."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "A reação de cloração do metano, em presença de luz, é mostrada abaixo.\nCH4 + C2 →CH3C + HC ΔH = -25 kcal.mol-1\nConsidere os dados de energia das ligações abaixo.\nC-H = 105 kcal.mol-1\nC-C = 58 kcal.mol-1\nH-C = 103 kcal.mol-1\nA energia da ligação C-C, no composto CH3C, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "33 kcal.mol-1."
+        },
+        {
+          "letra": "B",
+          "texto": "56 kcal.mol-1."
+        },
+        {
+          "letra": "C",
+          "texto": "60 kcal.mol-1."
+        },
+        {
+          "letra": "D",
+          "texto": "80 kcal.mol-1."
+        },
+        {
+          "letra": "E",
+          "texto": "85 kcal.mol-1."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Termoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A possibilidade de reação de o composto A se transformar no composto B foi estudada em duas condições diferentes. Os gráficos abaixo mostram a concentração de A, em função do tempo, para os experimentos 1 e 2.\nEm relação a esses experimentos, considere as afirmações abaixo.\nI - No primeiro experimento, não houve reação.\nII - No segundo experimento, a velocidade da reação diminui em função do tempo.\nIII- No segundo experimento, a reação é de primeira ordem em relação ao composto A.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Para obter um bom azeite, são necessárias azeitonas de qualidade provenientes de um olival bem tratado. Portugal destaca-se por produzir excelentes azeitonas cujos olivais são plantados em um solo com valores de pH próximos de 8,0. Atualmente empresários gaúchos têm investido no plantio de oliveiras.\nNo Rio Grande do Sul, onde o pH do solo varia entre 4,0 a 5,0, estudos indicaram a necessidade de elevar o pH do solo a no mínimo 6,5, a fim de viabilizar o plantio das oliveiras com boa produtividade.\nSobre esses dados, são feitas as seguintes afirmações.\nI - A concentração de OH- em um solo português com pH = 8 é na ordem de 10-6 mol.L-1.\nII - O solo português é mais ácido que o solo gaúcho.\nIII- A correção do solo gaúcho pode ser feita através da adição de calcário, a fim de obter um solo com pH=6,5.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Célula a combustível é uma alternativa para a produção de energia limpa. As semirreações da célula são\nH2  2H+ + 2e-\n½ O2 + 2H+ + 2e-  H2O\nSobre essa célula, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "H2 é o gás combustível e oxida-se no cátodo."
+        },
+        {
+          "letra": "B",
+          "texto": "eletrólise da água ocorre durante o funcionamento da célula."
+        },
+        {
+          "letra": "C",
+          "texto": "H2O e CO2 são produzidos durante a descarga da célula."
+        },
+        {
+          "letra": "D",
+          "texto": "célula a combustível é um exemplo de célula galvânica."
+        },
+        {
+          "letra": "E",
+          "texto": "O2 é o gás comburente e reduz-se no ânodo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Para a obtenção de um determinado produto, realiza-se uma reação em 2 etapas.\nO caminho dessa reação é representado no diagrama abaixo.\nConsidere as afirmações abaixo, sobre essa reação.\nI - A etapa determinante da velocidade da reação é a etapa 2.\nII - A reação é exotérmica.\nIII- A energia de ativação da etapa 1 é maior que a energia de ativação da etapa 2.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Recentemente, cientistas conseguiram desenvolver um novo polímero que, quando cortado ao meio, pode regenerar-se. Esse material foi chamado de Terminator, em alusão ao T-1000 do filme Exterminador do Futuro 2, que era feito de uma liga metálica que se autorreparava. No polímero Terminator, a união das cadeias poliméricas é feita por dissulfetos aromáticos. Esses dissulfetos sofrem uma reação de metátese reversível à temperatura ambiente e sem a necessidade de catalisador. A autorreparação acontece quando a reação de metátese ocorre entre duas unidades que foram cortadas.\nConsidere as afirmações abaixo, sobre essa reação.\nI - A reação de metátese nunca chega ao equilíbrio porque é reversível.\nII - A adição de catalisador leva a uma alteração no valor da constante do equilíbrio.\nIII- A quantidade de material autorregenerado permanece inalterada em função do tempo, quando atingir o estado de equilíbrio.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Polímeros",
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Trinta e duas seleções participaram da Copa do Mundo de Futebol da FIFA no Brasil, nos meses de junho e julho de 2014, final do equinócio de outono e início do solstício de inverno em quase a totalidade do território nacional.\nAssinale a alternativa que contém os países cujas seleções vieram de uma condição de iluminação solar oposta à que encontraram na maior parte do Brasil.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Holanda, Argentina e Argélia"
+        },
+        {
+          "letra": "B",
+          "texto": "Rússia, Alemanha e Croácia"
+        },
+        {
+          "letra": "C",
+          "texto": "Colômbia, México e Austrália"
+        },
+        {
+          "letra": "D",
+          "texto": "Chile, Gana e Costa do Marfim"
+        },
+        {
+          "letra": "E",
+          "texto": "Argentina, Camarões e Coreia do Sul"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Na Copa do Mundo de Futebol 2014, jogaram Japão e Costa do Marfim no dia 14 de junho, às 22 horas (horário de Brasília), na Arena Pernambuco. Em Tóquio, o horário do jogo foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "às 22 horas do dia anterior."
+        },
+        {
+          "letra": "B",
+          "texto": "às 10 horas do dia anterior."
+        },
+        {
+          "letra": "C",
+          "texto": "às 10 horas do mesmo dia."
+        },
+        {
+          "letra": "D",
+          "texto": "às 10 horas do dia seguinte."
+        },
+        {
+          "letra": "E",
+          "texto": "às 22 horas do dia seguinte."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Fusos Horários"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Um menino que mora em uma cidade localizada sobre a linha do Equador (latitude 0º) quer construir uma casa para a morada de pássaros, de forma que possa aproveitar melhor a entrada de raios de Sol. O menino deve colocar a entrada da casa orientada no sentido",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "norte, pois assim terá Sol na maior parte do ano."
+        },
+        {
+          "letra": "B",
+          "texto": "oeste, pois terá sempre o Sol da manhã nas estações de inverno e verão."
+        },
+        {
+          "letra": "C",
+          "texto": "sul, pois terá sempre o Sol na estação do inverno, mas não no verão."
+        },
+        {
+          "letra": "D",
+          "texto": "norte, pois terá sempre o Sol na estação do inverno, mas não no verão."
+        },
+        {
+          "letra": "E",
+          "texto": "leste, pois sempre terá o Sol da manhã nas estações de inverno e verão."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Observe o trecho abaixo.\nChovia meses inteiros, anos inteiros. A chuva caía em fios como compridas agulhas de vidro que se partiam nos tetos, ou chegavam em ondas transparentes contra as janelas, e cada casa era uma nave que dificilmente chegava ao porto naquele oceano de inverno. (...) Esta chuva fria do sul da América não tem as rajadas impulsivas da chuva quente que cai como um látego e passa deixando o céu azul. Pelo contrário, a chuva austral tem paciência e continua sem fim, caindo do céu cinzento.\nPablo Neruda. Confesso que vivi: memórias. Rio de Janeiro: Difel, 1977. p. 7-8.\nAssinale a alternativa que apresenta, respectivamente, a massa de ar responsável pelo regime de precipitação descrito acima e o país onde ele ocorre.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "massa de ar polar pacífica; Chile"
+        },
+        {
+          "letra": "B",
+          "texto": "massa de ar polar atlântica; Paraguai"
+        },
+        {
+          "letra": "C",
+          "texto": "massa de ar polar pacífica; Colômbia"
+        },
+        {
+          "letra": "D",
+          "texto": "massa de ar tropical continental; Uruguai"
+        },
+        {
+          "letra": "E",
+          "texto": "massa de ar tropical atlântica; Argentina"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Observe o mapa abaixo.\nAdaptado de: Alves, Andressa; Boligian, Levon; Martinez, Rogério; Vidal, Wanessa Pires G.Geografia: espaço e vivência. 6o ano. 5. ed. São Paulo: Editora Atual, 2013. p. 33.\nAssinale a alternativa que indica a extensão aproximada, em metros, da pista A do Aeroporto Santos Dumont, na cidade do Rio de Janeiro.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "1,375"
+        },
+        {
+          "letra": "C",
+          "texto": "500"
+        },
+        {
+          "letra": "D",
+          "texto": "1150"
+        },
+        {
+          "letra": "E",
+          "texto": "1375"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Considere as afirmações abaixo, sobre os domínios morfoclimáticos propostos pelo geógrafo Aziz Ab’Saber, os quais resultam da interação de clima, relevo e vegetação e constituem paisagens próprias.\nI - Domínio dos Mares de Morros: onde predomina o relevo mamelonar e a Mata Atlântica.\nII - Domínio das pradarias: onde predomina o clima subtropical, o relevo de coxilhas e a vegetação herbácea dos campos.\nIII- Domínio das Caatingas: predominante no interior do nordeste brasileiro, caracterizado por depressões interplanálticas semiáridas.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Biogeografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Escavando a partir da superfície, um geólogo encontrou os seguintes depósitos nesta ordem: argila, areia, argila com fósseis de vegetais, cascalhos e argila com fósseis de peixes.\nA respeito dessas descobertas, foram feitas as afirmações abaixo.\nI - Os fósseis de peixes formaram-se sobre a camada de cascalho.\nII - Os sedimentos cronologicamente mais recentes são a camada de argila seguida pela de areia.\nIII- Os fósseis de vegetais encontrados são mais antigos que os fósseis de peixes.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geomorfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Na figura abaixo, estão indicados, por números, três países do continente asiático.\nAdaptado de: <http://geografiaetal.blogspot.com.br/2009/10/mapa-mudo-politico-da-asia.html>. Acesso em: 25 ago. 2014.\nAssinale a alternativa que apresenta a correspondência correta entre número, denominação do país e característica populacional.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 – Nepal – alta densidade demográfica"
+        },
+        {
+          "letra": "B",
+          "texto": "2 – Catar – baixa densidade demográfica"
+        },
+        {
+          "letra": "C",
+          "texto": "1 – Paquistão – alta densidade demográfica"
+        },
+        {
+          "letra": "D",
+          "texto": "3 – Indonésia.–.baixa.densidade demográfica"
+        },
+        {
+          "letra": "E",
+          "texto": "2 – Arábia.Saudita.–.baixa.densidade.demográfica"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Demografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Observe a figura abaixo.\nDisponível em: <http://2020sustentavelresiduossolidosurbanos.blogspot.com.br/2010/09/brasileiro-produz-tanto-lixo-quanto.html>. Acesso em: 11 out. 2014.\nConsidere as afirmações sobre os resíduos sólidos coletados no Brasil.\nI - O aumento do poder de compra dos brasileiros está fazendo com que a população do país gere cada vez mais lixo inorgânico, o que não é acompanhado pela implantação de programas de coleta seletiva e pelo volume de material reciclado.\nII - A reduzida coleta de resíduos urbanos na região Norte é explicada pela maior preocupação ambiental dos habitantes, que adotam a prática do consumo reduzido e da reciclagem.\nIII- A densa urbanização da região sudeste, associada à maior concentração de renda, explica os dados expressivos de resíduos sólidos urbanos coletados por dia.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Geografia Econômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Considere as afirmações abaixo, sobre o sistema de produção de energia elétrica no Brasil.\nI - A maior parte da energia elétrica é gerada pelas hidrelétricas.\nII - O sistema operacional para complementação da energia elétrica utiliza termelétricas, sempre que necessário.\nIII- As termelétricas, embora de custo mais baixo que as hidrelétricas, são mais poluentes.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Econômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "Nos últimos tempos, o Brasil tem sido escolhido como destino de emigrantes africanos de diversos países. Segundo dados da Polícia Federal, viviam, em 2000, no Brasil, 1.054 africanos regularizados de 38 nacionalidades, mas o número saltou, em 12 anos, para 31.866 cidadãos legalizados, provenientes de 48 das 54 nações do continente.\nConsidere as afirmações abaixo, sobre esse fluxo migratório crescente.\nI - A imagem de nação emergente no cenário internacional levou o Brasil a ser visto pelos africanos como um destino mais atraente, com maior oferta de empregos e possibilidade de melhoria de renda.\nII - Uma parcela dos imigrantes que recentemente chegou ao país apresenta formação educacional e profissional qualificada e é economicamente ativa.\nIII- A recente epidemia do vírus ebola nos países da África ocidental gerou a saída de um número expressivo de africanos.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia da População"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Considere a tabela abaixo, sobre o Índice de Desenvolvimento Humano (IDH) que é uma medida comparativa usada para classificar a qualidade de vida oferecida por um país aos seus habitantes.\nDisponível em: <http://www.pnud.org.br/atlas/ranking/IDH_global_2011.aspx>. Acesso em: 8 set. 2014.\nCom base na tabela, considere as seguintes afirmações.\nI - Cuba apresenta expectativa de vida, média de anos de escolaridade e rendimento per capita superiores aos do Brasil.\nII - Brasil e Zimbábue apresentam, em média, a mesma escolaridade.\nIII- Zimbábue apresenta maior IDH em relação à Etiópia, devido à média de anos de escolaridade.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Demografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Observe a charge abaixo.\nDisponível em: <http://ronairocha.blogspot.com.br/2006/04>. Acesso em: 25 ago. 2014.\nA crítica referida na charge deve-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à ampliação da atividade pastoril no Norte do Brasil e à silvicultura de eucalipto no Sul, que acarreta a degradação dos biomas."
+        },
+        {
+          "letra": "B",
+          "texto": "às queimadas no Noroeste do país e à recuperação da vegetação original para uso farmacêutico."
+        },
+        {
+          "letra": "C",
+          "texto": "à biopirataria e ao plantio de pínus nas áreas desmatadas para utilização comercial."
+        },
+        {
+          "letra": "D",
+          "texto": "ao agronegócio que se expande no Norte e ao reflorestamento de áreas de Mata Atlântica para uso na indústria de cosméticos."
+        },
+        {
+          "letra": "E",
+          "texto": "à expansão do cultivo de grãos no Norte do país e ao reflorestamento com araucária nas áreas de campo no Sul para uso na indústria moveleira."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Considere as afirmações abaixo, sobre as fronteiras brasileiras.\nI - A Zona Econômica Exclusiva (ZEE) corresponde a 200 milhas marítimas, das quais 12 milhas compreendem o mar territorial.\nII - A Faixa de Fronteira é a faixa interna de 150 km de largura, paralela à linha divisória terrestre do território nacional, que engloba a área total ou parcial dos municípios brasileiros.\nIII- A legislação brasileira atual considera território nacional as áreas de propriedade de brasileiros natos em países limítrofes ao Brasil.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Observe a imagem abaixo.\nDisponível em: <http://www.mdig.com.br/index.php?itemid=29078>. Acesso em: 15 ago. 2014.\nDa janela de um avião descendo no aeroporto de Guarulhos, percebe-se que a extensão da malha urbana dificulta a definição dos limites entre os municípios vizinhos ao de São Paulo. O conceito que melhor expressa a unificação da extensão territorial de vários municípios é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conurbação."
+        },
+        {
+          "letra": "B",
+          "texto": "aglomeração."
+        },
+        {
+          "letra": "C",
+          "texto": "região metropolitana."
+        },
+        {
+          "letra": "D",
+          "texto": "regiões distritais."
+        },
+        {
+          "letra": "E",
+          "texto": "desmunicipalização."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "Assinale a alternativa que preenche as lacunas do enunciado abaixo, na ordem em que aparecem.\nA população brasileira, em razão ........ da taxa de ........, deve começar a decrescer a partir de 2040. Essa situação é chamada de ........ . O fenômeno é ........ na cidade que no campo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da diminuição – natalidade – transição demográfica – menor"
+        },
+        {
+          "letra": "B",
+          "texto": "da manutenção – mortalidade – declínio demográfico – igual"
+        },
+        {
+          "letra": "C",
+          "texto": "da diminuição – fecundidade – transição demográfica – maior"
+        },
+        {
+          "letra": "D",
+          "texto": "da manutenção – natalidade – estabilidade demográfica – maior"
+        },
+        {
+          "letra": "E",
+          "texto": "do aumento – fecundidade – transição demográfica – menor"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Demografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Observe os dados abaixo.\nDisponível em: <http://g1.globo.com/brasil/noticia/2014/04/populacao-diminui-em-21-das-cidades-do-pais-entre-2000-e-2013.html>. Acesso em: 15 set. 2014.\nConsidere as afirmações abaixo, sobre as cidades.\nI - A população das cidades, de uma forma geral, vem diminuindo pela combinação da redução da fecundidade e dos processos migratórios, como nas cidades da Região Sul.\nII - O maior declínio da população é observado na Região Sudeste, devido, em parte, à emigração para o exterior.\nIII- O menor declínio da população nas cidades da Região Norte deve-se, entre outros fatores, à menor redução da fecundidade e dos processos migratórios.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – Geografia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Considere, a partir dos gráficos abaixo, as afirmações seguintes sobre a população brasileira de pretos e pardos ao longo dos anos.\nDisponível em: <http://oglobo.globo.com/infograficos/desigualdade-racial-avancos/>. Acesso em: 15 set. 2014.\nI - Os pretos e pardos atualmente representam a maior parte da população brasileira.\nII - Os dois gráficos apresentam um aumento mais expressivo dessa população, do que sua inserção no ensino superior.\nIII- O aumento expressivo dessa população ocorre a partir de 2005, assim como a estagnação do ingresso no ensino superior.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – Geografia Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "Observe a figura abaixo.\nDisponível em: <http://www.alagoasnanet.com.br/v3/alagoas-lidera-numero-de-homicidios-entre-populacao-jovem/>. Acesso em: 12 set. 2014.\nCom base na figura, considere as afirmações abaixo, sobre a violência entre jovens no Brasil.\nI - Os três estados que apresentaram maior número de homicídios de jovens em 2010, mantendo a posição de 2000, foram Alagoas, Espírito Santo e Bahia.\nII - Os homicídios que, em 2000, aconteciam predominantemente em estados com maior concentração populacional, passaram, em 2010, a outros estados, caracterizando o fenômeno chamado interiorização dos homicídios.\nIII- As taxas de mortalidade de jovens, entre os anos 2000 e 2010, nas regiões Sul e Sudeste do país, revelam uma melhoria em relação à violência.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "Tá vendo aquele edifício, moço\nAjudei a levantar\nFoi um tempo de aflição\nEram quatro condução\nDuas prá ir, duas prá voltar\nHoje depois dele pronto\nOlho prá cima e fico tonto\nMas me vem um cidadão\nE me diz desconfiado\n\"Tu tá aí admirado?\nOu tá querendo roubar?”\nMeu domingo tá perdido\nVou prá casa entristecido\nDá vontade de beber\nE prá aumentar meu tédio\nEu nem posso olhar pro prédio\nQue eu ajudei a fazer...\nFonte: Zé Ramalho. Cidadão.\nA letra da música trata de um setor da economia fortalecido nos últimos anos, em decorrência do crescimento econômico brasileiro.\nConsidere as afirmações relativas a esse setor.\nI - É chamado de setor primário e abrange, além das atividades ligadas à construção civil, os serviços de marketing e a venda de imóveis.\nII - É caracterizado pela desigualdade econômica e social, vivida pelos trabalhadores.\nIII- Ampliou a procura por operários, com contratação, inclusive, de mulheres.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Econômica",
+        "Geografia – Geografia Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "A política para o desenvolvimento do governo Getúlio Vargas, no período do Estado Novo, priorizou",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a tecnificação da agricultura para exportação."
+        },
+        {
+          "letra": "B",
+          "texto": "a promoção da indústria de base, a exemplo da siderurgia."
+        },
+        {
+          "letra": "C",
+          "texto": "a estatização dos meios de comunicação, com o surgimento da Embratel."
+        },
+        {
+          "letra": "D",
+          "texto": "a produção de bens de consumo, a exemplo da indústria automotiva."
+        },
+        {
+          "letra": "E",
+          "texto": "a privatização dos setores industriais de base."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Política",
+        "História – História do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Assinale a alternativa que indica a correta relação entre a região brasileira, a atividade econômica existente, o uso de tecnologia e o relevo em que se desenvolve.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Região Sul – pecuária – melhoria genética – chapadões"
+        },
+        {
+          "letra": "B",
+          "texto": "Região Centro-oeste – agricultura comercial – irrigação – chapadões"
+        },
+        {
+          "letra": "C",
+          "texto": "Região Nordeste – pecuária extensiva – melhoria genética – planície costeira"
+        },
+        {
+          "letra": "D",
+          "texto": "Região Centro-oeste – agricultura de subsistência – sementes modificadas – serras"
+        },
+        {
+          "letra": "E",
+          "texto": "Região Sul – agricultura comercial – terraceamento – planície costeira"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Agrária"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "Assinale a alternativa abaixo que apresenta exemplos de produção agrícola, oriunda da agricultura familiar, que se integram à agroindústria e são estimulados pelo Programa de Fortalecimento da Agricultura Familiar (Pronaf).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fumo e soja"
+        },
+        {
+          "letra": "B",
+          "texto": "Hortigranjeiros e arroz"
+        },
+        {
+          "letra": "C",
+          "texto": "Uva e cana de açúcar"
+        },
+        {
+          "letra": "D",
+          "texto": "Aves e algodão"
+        },
+        {
+          "letra": "E",
+          "texto": "Suínos e leite"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geografia Agrária"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "O Rio Grande do Sul é formado por três grandes regiões hidrográficas: a do Uruguai, a do Guaíba e a Litorânea. A quantidade e a qualidade de suas águas têm sido alteradas pelas atividades humanas.\nSobre essas regiões hidrográficas, é correto afirmar que,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na região do Uruguai, predominam as atividades agrícolas e pastoris, que fazem reduzir a quantidade de sedimentos na água e aumentar a contaminação por coliformes fecais."
+        },
+        {
+          "letra": "B",
+          "texto": "na região Litorânea, há intensa ocupação nos meses de verão, embora a infraestrutura adequada para atender esse contingente populacional não acarrete alteração nas condições de balneabilidade das praias, rios e lagos."
+        },
+        {
+          "letra": "C",
+          "texto": "na região do Guaíba, concentram-se as maiores áreas urbanas e industriais do Estado, apresentando os maiores índices de poluição, no que se refere tanto aos dejetos orgânicos, quanto aos industriais."
+        },
+        {
+          "letra": "D",
+          "texto": "na bacia do Rio Jacuí, a carga de sedimentos oriundos de processos erosivos não é considerada prejudicial para a qualidade de água do Lago Guaíba e da Laguna dos Patos."
+        },
+        {
+          "letra": "E",
+          "texto": "na região do Guaíba, que abrange a maior parte do Estado, há ocupação de mais de 50% do território rio-grandense."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Hidrografia",
+        "Geografia – Geografia Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Observe o mapa de precipitação média anual abaixo e assinale a alternativa que indica os fatores geradores da condição apresentada.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As chuvas no Rio Grande do Sul concentram-se no sul do estado, devido à entrada constante de frentes polares."
+        },
+        {
+          "letra": "B",
+          "texto": "Os valores elevados de precipitação no norte do estado devem-se à influência da massa equatorial continental que traz umidade da Amazônia."
+        },
+        {
+          "letra": "C",
+          "texto": "O maior volume de chuva no norte do estado explica-se pela altitude do planalto sul-rio grandense associado à trajetória das frentes polares no sentido SW-NE."
+        },
+        {
+          "letra": "D",
+          "texto": "O menor volume de chuvas no sudoeste deve-se à Cordilheira dos Andes que barra a entrada de umidade vinda de oeste."
+        },
+        {
+          "letra": "E",
+          "texto": "O aumento crescente das chuvas para o norte deve-se à influência da maritimidade."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    }
+  ]
+}

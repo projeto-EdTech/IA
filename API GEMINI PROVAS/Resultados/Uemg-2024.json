@@ -1,0 +1,1260 @@
+{
+  "nomeUniversidade": "UNIVERSIDADE DO ESTADO DE MINAS GERAIS",
+  "siglaUniversidade": "UEMG",
+  "nomeProva": "Vestibular",
+  "ano": 2024,
+  "qtdeQuestoes": 48,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia o texto para responder às questões 01 e 02.\nSaúde e bem-estar. (Por Ma. Vanessa dos Santos).\nSegundo a Organização Mundial de Saúde (OMS), saúde pode ser definida como \"um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doença ou enfermidades”. Sendo assim, não basta apenas estar sem nenhuma doença, é necessário estar bem consigo mesmo e com o corpo, sem sentir dores ou até mesmo tristeza.\nPara conseguir bem-estar físico, é importante estar sempre ativo através da prática de exercícios. Não há idade para iniciar as atividades físicas, por isso, faça uma caminhada, natação ou até mesmo exercícios mais pesados, como musculação. O importante é realizar uma atividade que gere bem-estar. Além disso, é válido ter sempre em mente que os exercícios físicos aumentam a expectativa de vida, diminuem o estresse, além de proporcionarem mais beleza quando o assunto é estética.\nPara conseguir bem-estar mental, é preciso preocupar-se com o emocional. Por que se estressar com coisas pequenas? Mantenha a alegria e as atitudes positivas! Evite sentimentos ruins e sempre tente fazer com que as pessoas tenham uma experiência agradável ao seu lado. Ninguém gosta da companhia de pessoas amargas e rancorosas, não é mesmo?\nO bem-estar social, por sua vez, diz respeito às relações sociais de cada indivíduo. Para estar bem socialmente, é necessário manter boas relações com a família, no ambiente de trabalho e com a sociedade em geral. Essa interação com outros indivíduos é fundamental para o bem-estar individual.\nPara ter saúde, é fundamental, portanto, estar feliz e em forma. Também é importante ter um bom convívio social, ter amigos e relacionar-se. Percebe-se, dessa forma, que nem sempre ter saúde é fácil e nem mesmo é possível ter saúde em todo o tempo.\nDisponível em: https://www.biologianet.com/saude-bem-estar. Acesso em: 02 nov. 2023.\n01. De acordo com o texto, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O texto possui como finalidade ressaltar a importância da estética para os padrões atuais."
+        },
+        {
+          "letra": "b",
+          "texto": "A autora destaca que tanto a saúde quanto o bem-estar são importantes para que o indivíduo possua qualidade de vida."
+        },
+        {
+          "letra": "c",
+          "texto": "Segundo o texto, apenas por meio de medicamentos a população atingirá o bem-estar."
+        },
+        {
+          "letra": "d",
+          "texto": "O texto tem como finalidade destacar que ninguém gosta de pessoas negativas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "02. No trecho “O importante é realizar uma atividade que gere bem-estar. Além disso, é válido ter sempre em mente que os exercícios físicos aumentam a expectativa de vida (...)\" o conectivo grifado tem valor de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Sequência."
+        },
+        {
+          "letra": "b",
+          "texto": "Afirmação."
+        },
+        {
+          "letra": "c",
+          "texto": "Consequência."
+        },
+        {
+          "letra": "d",
+          "texto": "Adição."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Conectivos e Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "De acordo com a tirinha, responda à questão 03.\nOLHA, HAROLDO! TEM UM QUATIZINHO ALÍ NO CHÃO.\nESTÁ VIVO?\nACHO QUE SIM, MAS MACHUCADO. VEJA COMO ELE RESPIRA COM DIFICULDADE.\nMELHOR NÃO TOCAR NELE SE ESTÁ MACHUCADO.\nISSO. VOCÊ ESPERA AQUI E FAZ GUARDA. EU VOU E TRAGO MAMÃE.\nESPERO QUE ELA POSSA AJUDAR\nCLARO QUE PODE! VOCÊ NÃO PODE VIRAR MÃE SE VOCÊ NÃO PUDER CONSERTAR TUDO MUITO BEM.\nDisponível em: https://pt.quora.com/Qual-a-sua-opini%C3%A3o-sobre-o-final-das-tirinhas-Calvin-e-Haroldo\n03. No terceiro quadrinho na frase \"Melhor não tocar nele se está machucado\", a palavra destacada é classificada como:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Conjunção subordinativa causal."
+        },
+        {
+          "letra": "b",
+          "texto": "Conjunção subordinativa condicional."
+        },
+        {
+          "letra": "c",
+          "texto": "Pronome reflexivo."
+        },
+        {
+          "letra": "d",
+          "texto": "Pronome apassivador."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia (Conjunção)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "De acordo com o trecho de Vidas Secas, do escritor Graciliano Ramos, responda à questão 04.\n\"As manchas dos juazeiros tornaram a aparecer, Fabiano aligeirou o passo, esqueceu a fome, a canseira e os ferimentos. As alpercatas dele estavam gastas nos saltos, e a embira tinha-lhe aberto entre os dedos rachaduras muito dolorosas. Os calcanhares, duros como cascos, gretavam-se e sangravam. Num cotovelo do caminho avistou um canto de cerca, encheu-o a esperança de achar comida, sentiu desejo de cantar. A voz saiu-lhe rouca, medonha. Calou-se para não estragar força.\"\n(Ramos, Graciliano. Vidas Secas. Record, 1938)\n04. Dado o texto, pode-se afirmar que o narrador é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Narrador-personagem e narrador - observador."
+        },
+        {
+          "letra": "b",
+          "texto": "Narrador-observador, apenas."
+        },
+        {
+          "letra": "c",
+          "texto": "Narrador-onisciente, apenas."
+        },
+        {
+          "letra": "d",
+          "texto": "Narrador-observador e narrador-onisciente."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Narrativos e Tipos de Narrador"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "05. \"Inspirado nas vanguardas artísticas europeias, o movimento [...] propõe o rompimento com o academicismo e o tradicionalismo. É assim que a liberdade estética e diversas experimentações artísticas são apresentadas nesse momento.\"\nDisponível em: https://www.todamateria.com.br/origens-da-literatura-brasileira/\nAssinale sobre qual período da Literatura Brasileira o trecho se refere, o qual possui entre uns dos principais autores Murilo Mendes na segunda geração.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Barroco."
+        },
+        {
+          "letra": "b",
+          "texto": "Modernismo."
+        },
+        {
+          "letra": "c",
+          "texto": "Arcadismo."
+        },
+        {
+          "letra": "d",
+          "texto": "Simbolismo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Escolas Literárias (Modernismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "06. Assinale a alternativa correta, no que se refere à concordância verbal, de acordo com a Norma Culta da Língua Portuguesa.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Haviam anos que eu não a via."
+        },
+        {
+          "letra": "b",
+          "texto": "Fazem dois séculos que ele morreu."
+        },
+        {
+          "letra": "c",
+          "texto": "Há muito tempo desejo ir nesse restaurante."
+        },
+        {
+          "letra": "d",
+          "texto": "Fazem dois meses que ele não vem aqui."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "ATENÇÃO CANDIDATO!\nResponda as questões de INGLÊS ou ESPANHOL, de acordo com a opção escolhida no ato de sua inscrição.\nLÍNGUA ESTRANGEIRA - INGLÊS.\nHOW CAN YOU STAND THESE CARTOONS?\nTHEY'RE JUST HALF-HOUR COMMERCIALS FOR TOYS. AND WHEN THEY'RE NOT BORING, THEY'RE PREACHY.\nAND THESE CHARACTERS DON'T EVEN MOVE. THEY JUST STAND AROUND BLINKING! WHAT KIND OF CARTOON IS THAT?\nMEET MY DAD, THE GENE SISKEL OF SATURDAY MORNING TV.\nGene Siskel an american movie critic. Saturday, April 30, 1988. Your daily C&H.:r/calvinandhobbes\n07. Na tirinha acima o pai de Calvin usa a palavra \"boring” como um adjetivo. Nas frases, a palavra BORING também está sendo usada como adjetivo com exceção em:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Boring games to some are extremely exciting to others."
+        },
+        {
+          "letra": "b",
+          "texto": "All these lectures are boring everyone in this auditorium."
+        },
+        {
+          "letra": "c",
+          "texto": "You may think that a weekend playing golf would be boring, but I assure you that the game will surprise you."
+        },
+        {
+          "letra": "d",
+          "texto": "That was definitely the most boring book I have ever read!"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Morfologia (Adjetivos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "08. Quais pronomes preenchem, corretamente, as perguntas abaixo?\n“....is Mary?\"         \"She's 29.\"\n“....was she born?\"       \"She was born in London.\"\n“....was she born?\"      \"She was born on November 10th, 2001.\"\n“....sister is she?\"      \"She is Laura's sister.\"\n“....is her favorite actor?\"  \"Her favorite actor is Denzel Washington.\"",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "How old, Where, When, Whose, Who."
+        },
+        {
+          "letra": "b",
+          "texto": "When, How old, Where, Whose, Who."
+        },
+        {
+          "letra": "c",
+          "texto": "How old, Where, Whose, Who, When."
+        },
+        {
+          "letra": "d",
+          "texto": "Whose, When, Who, How old, Where."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Pronomes Interrogativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "09. A tabela de pronomes do site ThoughCo ajudará a completar, com os pronomes adequados, os espaços nos quais se encontram os números de 1 a 4 no texto.\nPronouns and Possessive Forms\nSubjects Objects Poss. Adjectives Poss. Pronouns\nI me my mine\nyou you your yours\nhe, she, it him, her, it his, her, its his, hers\nwe us our ours\nyou you your yours\nthey them their theirs\nThought Co.\nTabela extraída de thoughtco.com/subject-possessive-pronouns-4176482\nSingapore:\n\"The tiny island of Singapore has a population of about 5,7 million people. _1_ also has very strict rules about the way _2_ people behave. Singapore is one of the cleanest cities on the planet because of these rules. People are not allowed to chew gum unless _3_ from a doctor, and all used chewing gum has to go in a trash can. That means that you don't find gum on the sidewalks. In fact, no one drops trash in the street. There are big fines for people who don't respect the rules, but most people are happy to keep _4_ city clean and healthy.\"\nText extracted from Interchange 5th edition from Jack C. Richards with Jonathan Hull and Susan Proctor.\nAssinale a alternativa, que completa com os pronomes adequados, os espaços do texto.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "She / our / it / their."
+        },
+        {
+          "letra": "b",
+          "texto": "It / its / their / my."
+        },
+        {
+          "letra": "c",
+          "texto": "It / its / it's / their."
+        },
+        {
+          "letra": "d",
+          "texto": "Its / their / it / we."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Pronomes (Subject, Possessive)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "10. Em qual das orações as palavras ANY ou SOME estão empregadas de maneira errada?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Daniel hasn't got some stamps in his wallet."
+        },
+        {
+          "letra": "b",
+          "texto": "Would you like some cake?"
+        },
+        {
+          "letra": "c",
+          "texto": "They can't find any of the books the teacher suggested."
+        },
+        {
+          "letra": "d",
+          "texto": "Melissa has some beautiful pictures of San Francisco in her album."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Quantificadores (Some/Any)"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "11. Complete a pergunta com a palavra que está faltando.\nSamantha usually have dinner with her grandparents on Sundays?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Do."
+        },
+        {
+          "letra": "b",
+          "texto": "Does."
+        },
+        {
+          "letra": "c",
+          "texto": "Did."
+        },
+        {
+          "letra": "d",
+          "texto": "Is."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Verbos Auxiliares"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "12. Qual seria a melhor tradução para: \"Once in a Blue Moon\"?\nOnce in a Blue Moon, my daughter played cards with her granny.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Era uma vez."
+        },
+        {
+          "letra": "b",
+          "texto": "Uma vez na Lua Azul."
+        },
+        {
+          "letra": "c",
+          "texto": "Uma vez na vida, outra na morte."
+        },
+        {
+          "letra": "d",
+          "texto": "Quando a Lua estiver azul."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Expressões Idiomáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "FÍSICA.\n13. Durante o mês de outubro de 2023, houve a ocorrência de dois grandes eventos astronômicos: o eclipse solar anular, no dia 14, seguido de um eclipse lunar parcial, no dia 28. O primeiro pôde ser observado em todo Território Brasileiro. Já o segundo fenômeno foi visto em apenas algumas regiões do país. Todo eclipse está relacionado com o princípio de propagação da luz e depende do alinhamento entre os três astros: Terra, Lua e Sol.\nDisponível em: https://www.paraibatododia.com.br/noticia/17263/eclipse-lunar-podera-ser-visto-parcialmente\nAssim sendo, considerando o eclipse lunar parcial, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Se a Terra estiver parcialmente na umbra da Lua nova, então, o eclipse lunar será parcial."
+        },
+        {
+          "letra": "b",
+          "texto": "Quando a Lua cheia está coberta por apenas uma parte da sombra da Terra, temos um eclipse lunar parcial."
+        },
+        {
+          "letra": "c",
+          "texto": "Somente quando a lua nova estiver na antumbra terrestre, o eclipse lunar será parcial."
+        },
+        {
+          "letra": "d",
+          "texto": "O eclipse lunar é dito parcial, quando a Lua cheia está na penumbra da Terra."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Óptica Geométrica (Eclipses)"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "14. Na natureza, diversos animais utilizam o sistema de ecolocalização para se locomoverem no ambiente de forma segura, sem depender do sentido da visão. Esses animais são capazes de emitir ondas sonoras, que são refletidas ao encontrar um obstáculo, retornando ao emissor, que possui a capacidade de interpretar as informações, podendo, assim, identificar a distância dos objetos e presas. Sendo assim, podemos tomar como exemplo o caso de um morcego que emite ondas ultrassônicas no intuito de localizar um inseto para sua alimentação, como mostra a imagem a seguir:\nOnda refletida (eco)\nOnda emitida\ndistância (r)\nEsquema da ecolocalização em morcego\nDisponível em: https://www.researchgate.net/figure/Figura-7-Esquema-de-ecolocalizacao-em-morcegos-A-cabeca-de-um-morcego-e-adaptada-para_fig4_304942116\nSabendo-se que o morcego emitiu uma onda sonora e percebeu a onda refletida 0,08 s depois, considerando a velocidade do som no ar com 330 m/s e desconsiderando a resistência do ar e quaisquer outros efeitos, a distância entre o morcego e o inseto é de aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "2,5 m."
+        },
+        {
+          "letra": "b",
+          "texto": "4,3 m."
+        },
+        {
+          "letra": "c",
+          "texto": "13,2 m."
+        },
+        {
+          "letra": "d",
+          "texto": "26,5 m."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Ondas Sonoras (Ecolocalização)"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "15. Defensor do modelo heliocêntrico, o físico alemão Johannes Kepler, revolucionou a ciência de sua época, ao apresentar as leis que permitiram a compreensão do movimento dos planetas, e consolidou as ideias, inicialmente, apresentadas por Nicolau Copérnico, com relação ao nosso sistema planetário. A imagem representa de forma simplória o movimento do planeta Netuno ao redor do Sol.\nDisponível em: http://osfundamentosdafisica.blogspot.com/2016/11/cursos-do-blog-mecanica_21.html\nObservando a imagem e considerando as Leis de Kepler, é possível afirmar que Netuno:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "No ponto A, Netuno estará no periélio e sua energia cinética será máxima."
+        },
+        {
+          "letra": "b",
+          "texto": "Em todos os pontos a energia cinética de Netuno será a mesma."
+        },
+        {
+          "letra": "c",
+          "texto": "Netuno estará no periélio nos pontos C e D e sua energia cinética será mínima em ambos."
+        },
+        {
+          "letra": "d",
+          "texto": "No ponto B, Netuno estará no afélio e sua energia cinética será máxima."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Leis de Kepler (Movimento Planetário)"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Observe a tirinha para responder à questão 16.\nAAIII! UM RATO!\nCopyright© 2003 Mauricio de Sousa Produções Ltda. Todos os direitos reservados.\nDisponível em: https://artedafisicapibid.blogspot.com/2019/12/tirinhas-para-ensino-de-fisica-energias.html\n16. A tirinha retrata Mônica e seus amigos em um passeio de montanha russa, quando, de repente, são surpreendidos por um rato, com o qual poderiam colidir. Considerando-se que não há perdas de energia mecânica, que a altura máxima atingida pelo carrinho em relação à base é de 8,5 m e que o rato se encontra na base do brinquedo, pode-se afirmar que a velocidade do carrinho na eminência de atingir o rato será de:\nAdote: g= 10m/s²",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Zero m/s."
+        },
+        {
+          "letra": "b",
+          "texto": "6,5 m/s."
+        },
+        {
+          "letra": "c",
+          "texto": "17 m/s."
+        },
+        {
+          "letra": "d",
+          "texto": "13 m/s."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Conservação da Energia Mecânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "17. Atualmente, o Brasil conta com duas usinas nucleares em atividade: Angra I, em funcionamento desde 1985, e Angra II, em funcionamento desde 2001. Juntas elas geram energia elétrica suficiente para abastecer cerca de 3 milhões de habitantes. As usinas usam como combustível urânio enriquecido e produzem energia elétrica a partir do processo de fissão nuclear.\nAngra I Angra II\nDisponível em: https://www.eletronuclear.gov.br/Nossas-Atividades/Paginas/Angra-1.aspx\nCom relação a este processo e às radiações relacionadas a ele, analise as afirmativas:\nI- Na fissão nuclear, um próton colide com um núcleo atômico gerando sua divisão e uma grande liberação de energia.\nII- Durante uma fissão nuclear, não são emitidas ondas eletromagnéticas, somente partículas alfa e beta.\nIII- No processo de fissão nuclear, dois átomos do mesmo elemento colidem, dando origem a um novo elemento com maior número atômico.\nIV- Na fissão de um elemento radioativo, há uma grande liberação de radiações gama, que são ondas eletromagnéticas de alta frequência.\nV- Todas as radiações emitidas durante a fissão nuclear possuem baixo poder de penetração, podendo ser bloqueadas com uma folha de papel.\nEstão corretas somente as afirmativas:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "I e II."
+        },
+        {
+          "letra": "b",
+          "texto": "III, IV e V."
+        },
+        {
+          "letra": "c",
+          "texto": "IV."
+        },
+        {
+          "letra": "d",
+          "texto": "I, II e V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Física Nuclear (Fissão e Radiações)"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "18. Jurandir e sua família estão se preparando para a construção da tão sonhada casa própria. Visando a segurança das instalações elétricas de sua residência, contrataram um engenheiro eletricista para desenvolver o projeto elétrico, atendendo todas as necessidades de consumo da família e as normas de segurança estabelecidas em lei. Com relação à iluminação, em alguns cômodos, as lâmpadas serão ligadas em paralelo e, em outros, ligadas em série, como ilustrado na imagem.\n127 V\nF N\nCircuito A\n127 V\n100 W\n160 Ω\nF N\nCircuito B\nCom relação aos circuitos representados e seus elementos, analise a veracidade das afirmativas.\nI- Em ambos os circuitos as lâmpadas podem ser consideradas como receptores, pois transformam parte da energia elétrica em energia luminosa.\nII- O valor da resistência equivalente no circuito A é o mesmo do circuito B.\nIII- A corrente elétrica total no circuito B é de 264,5 μΑ.\nIV- No circuito A as lâmpadas estão em paralelo e são submetidas a diferentes tensões.\nV- A resistência equivalente das lâmpadas do circuito A é de aproximadamente 53,5 Ω.\nAs afirmativas corretas são:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "II e III somente."
+        },
+        {
+          "letra": "b",
+          "texto": "I, III, e V somente."
+        },
+        {
+          "letra": "c",
+          "texto": "II e IV somente."
+        },
+        {
+          "letra": "d",
+          "texto": "I, IV e V somente."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrodinâmica (Circuitos Elétricos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "QUÍMICA.\n19. O Amazonas tem o pior outubro de queimadas dos últimos 25 anos.\nDesde setembro, o estado decretou emergência ambiental por conta do avanço das queimadas. Somando os meses de setembro e outubro, são mais de 9 mil no período.\nDisponível em: <https://g1.globo.com/am/amazonas/noticia/2023/10/12/amazonas-tem-pior-outubro-de-queimadas-dos-ultimos-25-anos.ghtml> Acesso em 07/11/2023\nAs queimadas são prejudiciais tanto à saúde humana quanto ao meio ambiente, pois liberam gases como CO2, CO e CH4 que aumentam o efeito estufa, causando desequilíbrios climáticos no planeta Terra. Em relação aos gases citados, qual o tipo de ligação interatômica estabelecida entre seus átomos e quantos pares de elétrons compartilhados há entres eles no total?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Covalente e 11 pares."
+        },
+        {
+          "letra": "b",
+          "texto": "Covalente e 12 pares."
+        },
+        {
+          "letra": "c",
+          "texto": "Eletrovalente e 11 pares."
+        },
+        {
+          "letra": "d",
+          "texto": "Eletrovalente e 12 pares."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Ligações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "20. O que é a gordura trans?\nÉ um tipo de gordura que pode ocorrer, naturalmente, em baixas quantidades, em alimentos de origem animal, como carnes e produtos lácteos de ruminantes (leites, queijos e manteiga, por exemplo), ou ser produzida industrialmente por meio de processos tecnológicos.\nAs gorduras trans eram utilizadas em larga escala pela indústria para dar texturas aos alimentos, realçar o sabor e prolongar o prazo de validade, no entanto, seu uso atualmente é fiscalizado, pois pode aumentar os índices de doenças cardiovasculares, diabetes e câncer. Hoje no Brasil, a ANVISA aprova até 0,2g de gordura trans nos alimentos industrializados, sendo considerado como 0g nos rótulos.\nAdaptado de <https://idec.org.br/gordura-trans>. Acesso em 09/11/2023.\nSegue a estrutura de uma gordura trans e seu isômero cis:\nConformação trans\nConformação cis\nSobre as duas moléculas é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Ocorre entre elas isomeria de cadeia e a função orgânica presente em ambas é aldeído."
+        },
+        {
+          "letra": "b",
+          "texto": "Ocorre isomeria óptica e a função orgânica presente em ambas é ácido carboxílico."
+        },
+        {
+          "letra": "c",
+          "texto": "Ocorre tautomeria e a função orgânica presente em ambas é aldeído."
+        },
+        {
+          "letra": "d",
+          "texto": "Ocorre isomeria geométrica e a função orgânica presente em ambas é ácido carboxílico."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica (Isomeria Geométrica)",
+        "Química – Química Orgânica (Funções Orgânicas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "21. O café é a 2ª bebida mais consumida no Brasil, só ficando atrás da água. Na média, os brasileiros bebem de 3 a 4 xícaras de café por dia, o que equivale a aproximadamente 5,8kg ao ano.\nÉ o que revela um estudo realizado pela plataforma CupomValido.com.br com dados da Organização Internacional do Café (OIC) e Dieese.\nDe um total de 193 países, o Brasil está entre os top 15 países que mais consome café no mundo, na atual posição 14ª.\nDisponível em <https://www.portaldoagronegocio.com.br/agricultura/cafe/noticias/cafe-e-a-2a-bebida-mais-consumida-no-brasil-mesmo-com-a-maior-alta-dos-ultimos-25-anos> Acesso em 07/11/2023.\nO café possui a cafeína, uma substância estimulante da memória e concentração, que acelera o metabolismo e ainda promove o bom humor. No entanto, a cafeína deve ser consumida com moderação, pois ela também está presente em outros alimentos como chocolates e refrigerantes. O seu excesso pode causar taquicardia, ansiedade, insônia, dentre outros malefícios à saúde.\nA fórmula estrutural da cafeína está representada a seguir. Analise-a e marque a alternativa correta em relação a sua molécula.\nCH3\nN\nN\nH3C\nN CH3\nN",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A cafeína tem caráter básico por apresentar a função orgânica amida."
+        },
+        {
+          "letra": "b",
+          "texto": "A cafeína tem caráter ácido por apresentar a função orgânica ácido carboxílico."
+        },
+        {
+          "letra": "c",
+          "texto": "A cafeína tem caráter ácido por apresentar a função orgânica amina."
+        },
+        {
+          "letra": "d",
+          "texto": "A cafeína tem caráter básico por apresentar a função orgânica cetona."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica (Funções Nitrogenadas)",
+        "Química – Propriedades Ácido-Base"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "22. O uso dos fertilizantes é fundamental para o desenvolvimento das plantas nas lavouras, para suprir a demanda mundial por alimentos. O básico que um fertilizante deve conter são substâncias que forneçam nitrogênio, fósforo e potássio, que são macronutrientes primordiais no desenvolvimento das plantas. O fertilizante que contém esses nutrientes é conhecido pelos símbolos dos três elementos químicos citados, esses símbolos são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Ni, F, Po."
+        },
+        {
+          "letra": "b",
+          "texto": "N, P, K."
+        },
+        {
+          "letra": "c",
+          "texto": "N, F, K."
+        },
+        {
+          "letra": "d",
+          "texto": "Ni, P, Po."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Tabela Periódica (Símbolos Químicos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "23. As transformações químicas ocorrem todo o tempo ao nosso redor. É muito comum notarmos que materiais metálicos como cercas, portões e pregos, ao ficarem expostos ao ambiente, acabam se deteriorando. Isso ocorre devido ao contato do elemento químico ferro (Fe) com átomos de oxigênio, (O), presentes no ar atmosférico e na água. Podemos notar também que, em regiões litorâneas, esses materiais sofrem ainda mais danos devido à presença de sais e uma maior umidade. Esse fenômeno é conhecido como ferrugem e ocorre devido a uma reação de oxirredução.\nCadeado enferrujado. Foto: sezer66 / Shutterstock.com\nDisponível em <https://www.infoescola.com/quimica/ferrugem/> Acesso em 07/11/2023\nDada a equação de oxirredução do ferro e sabendo-se que nessa reação ocorre transferência de elétrons, marque a alternativa correta.\n4Fe (s) + 3O2(g) →2 Fe2O3 (s)",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O ferro perde 2 elétrons."
+        },
+        {
+          "letra": "b",
+          "texto": "O oxigênio perde 2 elétrons."
+        },
+        {
+          "letra": "c",
+          "texto": "O ferro sofre redução."
+        },
+        {
+          "letra": "d",
+          "texto": "O oxigênio é o agente oxidante."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Reações de Oxirredução (Corrosão)"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "24. Pesquisa revela que mercúrio contamina peixes e ameaça saúde de parte da população em 6 estados amazônicos.\nUma consequência direta do garimpo ilegal ameaça a saúde dos brasileiros nos estados do Norte. Um estudo concluiu que um em cada cinco peixes consumidos na região está contaminado.\n\"Uma mãe que tá se alimentando de peixe contaminado, esse mercúrio já passa pro feto. Existem relatos de crianças nascendo na bacia do Tapajós com problemas neurológicos, e até já necessitando de cadeira de rodas no primeiro, segundo ano de vida\", explica Marcelo Oliveira, especialista em conservação do WWF-Brasil.\nAdaptado de <https://g1.globo.com/jornal-nacional/noticia/2023/05/30/pesquisa-revela-que-mercurio-contamina-peixes-e-ameaca-saude-de-parte-da-populacao-em-6-estados-amazonicos.ghtml> Acesso em 09/11/2023\nDe acordo com a Organização Mundial de Saúde (OMS) a concentração limite de mercúrio no sangue é de 9,2 mcg/L de sangue. Um estudo, realizado pela Universidade Federal do Oeste do Pará (Ufopa), em parceria com a Fiocruz e o WWF Brasil, coletou o sangue de 462 pessoas, entre 2015 e 2019, e concluiu que todos os participantes da pesquisa apresentam níveis elevados de mercúrio no sangue. A população ribeirinha do rio Amazonas apresentou média de 45,3 mcg/L de mercúrio no sangue. Calcule a concentração média em mol/L, que a população ribeirinha do Rio Amazonas apresenta de mercúrio no sangue.\nDados: 1g = 106mcg\nMassa molar do mercúrio (Hg) = 200,59 g/mol.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "0,0458"
+        },
+        {
+          "letra": "b",
+          "texto": "0,225"
+        },
+        {
+          "letra": "c",
+          "texto": "4,586 x 10-4"
+        },
+        {
+          "letra": "d",
+          "texto": "2,258 x 10-7"
+        }
+      ],
+      "opcaoCorreta": "X",
+      "conteudo": [
+        "Química – Estequiometria (Concentração)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "BIOLOGIA.\n25. Um Professor de Biologia, de Ensino Médio, montou uma tabela na qual os alunos poderiam revisar as características de alguns animais.\nAnimais representantes. Moluscos. Poríferos. Cordados.\nMariscos, Ostras, Lulas, Polvos e Caramujos. Esponjas do mar. Peixes, Anfíbios, Répteis, Aves e Mamíferos.\nFolhetos Embrionários. Triblásticos. Ausente. Diblásticos.\nCeloma. Celomados. Celomados. Celomados.\nSimetria. Bilateral. Bilateral. Bilateral.\nOrigem da boca. Protostômios. Deuterostômios. Deuterostômios.\nHabitat. Terrestre. Aquáticos e Terrestres. Aquáticos ou Terrestres.\nAnalise os itens sobre as informações do quadro e marque a alternativa correspondente.\n1- Todos os animais representantes estão corretos.\n2- A tabela está toda correta.\n3- Com relação a folhetos embrionários está incorreto, pois os poríferos são Diblásticos.\n4- Com relação à descrição de origem da boca, a tabela está incorreta.\nEstão corretos:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "1, 2, 3 e 4."
+        },
+        {
+          "letra": "b",
+          "texto": "Somente 2, 3 e 4."
+        },
+        {
+          "letra": "c",
+          "texto": "Somente 1 e 4."
+        },
+        {
+          "letra": "d",
+          "texto": "Somente 1."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Zoologia (Classificação dos Animais)",
+        "Biologia – Embriologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "26. Células tronco possuem a capacidade de se autorrenovarem e diferenciarem em diferentes tipos de células funcionais, (figura). Em outras palavras as células-tronco têm a capacitância de se dividirem e se transmudarem em outros tipos de células.\nCélulas-tronco:\nSão células que podem...\n...se auto-replicar, gerando outras células-tronco\n...se diferenciar em diversos tipos celulares\nFonte: RNTC - Rede Nacional de Terapia Celular.\nAnalise as proposições em relação às células troco, atribua (V) para a verdadeira e (F) para a falsa e assinale a alternativa correta.\n() O crescente uso de células-tronco em pesquisas e terapias se dá ao fato que elas conseguem gerar qualquer tipo de célula.\n() As células-tronco adultas são chamadas de multipotentes, pois são mais variáveis que as embrionárias.\n() A divisão celular que ocorre nas células-tronco para que elas possam se multiplicar é denominada meiose.\n() Por serem células de renovação e diferenciação, não existe risco que as células-tronco fora de controle, possam gerar tumores.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "V-F-F-F."
+        },
+        {
+          "letra": "b",
+          "texto": "F-V-F- F."
+        },
+        {
+          "letra": "c",
+          "texto": "V-F-V- V."
+        },
+        {
+          "letra": "d",
+          "texto": "F-V-V - V."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia (Células-Tronco)"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "27. Analise as afirmativas e assinale a alternativa que indique os itens incorretos.\nI- Os cogumelos do tipo champignon, produzem efeitos alucinógenos e causam danos ao sistema nervoso periférico quando ingeridos.\nII- Fungos são importantes uma vez que atuam como agentes decompositores, muitas vezes se associando com raízes de plantas, sendo prejudicial para ambos.\nIII- Na indústria de laticínios alguns fungos são utilizados na fabricação de queijos.\nIV- Muitos fungos podem causar micoses no ser humano, como lesões de pele, couro cabeludo e unhas, bem como pé de atleta e rachaduras entre os dedos (frieiras).\nV- Bebidas alcoólicas, como vinho e cerveja, além de pães, são produzidas devido a fermentação de fungos, que chamamos de leveduras, na presença de oxigênio.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Somente I - II - IV - V."
+        },
+        {
+          "letra": "b",
+          "texto": "Somente I - III - IV - V."
+        },
+        {
+          "letra": "c",
+          "texto": "Somente II - III - IV - V."
+        },
+        {
+          "letra": "d",
+          "texto": "Somente I - II - V."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Micologia (Fungos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "28. As enzimas são biomoléculas que realizam atividade em nosso corpo alterando a velocidade de uma reação. A respeito desses fatores, marque a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Entre os fatores que influenciam na atividade das enzimas podemos citar a temperatura, pH e anaerobiose."
+        },
+        {
+          "letra": "b",
+          "texto": "Cada enzima apresenta um pH ótimo, ou seja, um pH em que a atividade enzimática é máxima. Quando ocorrem alterações no pH, a atividade enzimática é comprometida e a enzima para de funcionar adequadamente."
+        },
+        {
+          "letra": "c",
+          "texto": "Com a diminuição da temperatura pode ocorrer interrupção da atividade enzimática, causando a desnaturação da enzima."
+        },
+        {
+          "letra": "d",
+          "texto": "O pH ótimo para a maioria das enzimas é em torno de 9."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Bioquímica (Enzimas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "29. Quando estudamos uma cadeia alimentar, podemos classificar em consumidor primário e secundário conforme figura a seguir:\nPlanta Vaca Homem\nPRODUTOR Consumidor primário Consumidor secundário\n@beevinis\nFonte: RNTC - Rede Nacional de Terapia Celular.\nO homem pode ser considerado como consumidor primário e secundário, quando se alimentar respectivamente de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Frango e arroz."
+        },
+        {
+          "letra": "b",
+          "texto": "Leite e requeijão."
+        },
+        {
+          "letra": "c",
+          "texto": "Mandioca e carne de bovinos."
+        },
+        {
+          "letra": "d",
+          "texto": "Carne de porco e leite."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia (Cadeias Alimentares)"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "30. Na figura podemos observar uma fase e um tipo de divisão celular.\nFonte: https://www.infoescola.com/citologia - Adaptada.\nPodemos afirmar que a fase da figura é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Metáfase I da meiose, os cromossomos homólogos estão pareados, um oposto ao outro, presos às fibras do fuso na placa equatorial da célula."
+        },
+        {
+          "letra": "b",
+          "texto": "Anáfase I, na qual ocorre o encurtamento das fibras do fuso e ocorre divisão do centrômero."
+        },
+        {
+          "letra": "c",
+          "texto": "Telófase I, na qual os cromossomos continuam duplos e não ocorre divisão do centrômero."
+        },
+        {
+          "letra": "d",
+          "texto": "Metáfase II da meiose, em que ocorre a separação dos cromossomos homólogos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia (Divisão Celular - Meiose)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "GEOGRAFIA.\n31. Um viajante saiu do Rio de Janeiro em direção a Berlim em uma terça-feira, às 10h da manhã, sua viagem teve um tempo de duração de 12h. Ele permaneceu três dias em Berlim e no terceiro dia embarcou para Nova Iorque, saindo às 10h da manhã, com uma viagem que durou 10h. Ele permaneceu, então, quatro dias em Nova Iorque e no quarto dia embarcou para São Paulo, saindo às 10h da manhã, com uma viagem que durou 9h.\nFonte: https://br.pinterest.com/pin/436778863846495043/\nConsidere as informações iniciais e o mapa de fusos horários, bem como os horários locais de cada cidade. Considere, também, que a contagem do período de permanência se inicia no dia de chegada em cada cidade. Dessa maneira, é correto afirmar que os desembarques em Nova Iorque e em São Paulo ocorreram, respectivamente, às:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "15h de sexta-feira e às 18h de segunda-feira."
+        },
+        {
+          "letra": "b",
+          "texto": "14h de sexta-feira e às 20h de segunda-feira."
+        },
+        {
+          "letra": "c",
+          "texto": "15h de sexta-feira e às 19h de segunda-feira."
+        },
+        {
+          "letra": "d",
+          "texto": "14h de sexta-feira e às 21h de segunda-feira."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Fusos Horários"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "32. Os recursos minerais e energéticos desempenham um papel fundamental na economia global e no desenvolvimento sustentável. A busca por fontes de energia e materiais essenciais para a sociedade é um desafio constante, que envolve questões de exploração, consumo responsável e impactos ambientais. Considerando a crescente demanda por recursos minerais e energéticos em todo o mundo, juntamente com a crescente conscientização ambiental, qual das seguintes afirmações é correta em relação aos desafios e estratégias associados à gestão desses recursos, considerando desenvolvimento e sustentabilidade ambiental?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A exploração de recursos minerais e energéticos deve ser maximizada a qualquer custo, a fim de atender à demanda crescente de energia e materiais, independentemente das consequências ambientais."
+        },
+        {
+          "letra": "b",
+          "texto": "A transição para fontes de energia renovável, como a solar e eólica, elimina completamente a necessidade de explorar recursos minerais e energéticos não renováveis, garantindo um suprimento inesgotável de recursos."
+        },
+        {
+          "letra": "c",
+          "texto": "A gestão sustentável de recursos minerais e energéticos requer um equilíbrio entre a exploração responsável, o desenvolvimento de tecnologias mais eficientes e a busca por alternativas renováveis, além de medidas de conservação e reciclagem."
+        },
+        {
+          "letra": "d",
+          "texto": "A dependência contínua de recursos minerais e energéticos não renováveis é uma solução aceitável, pois a ciência e a tecnologia encontrarão formas de resolver quaisquer problemas ambientais resultantes da exploração desses recursos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Recursos Naturais e Sustentabilidade Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "33. Leia o trecho para responder à questão 33.\n\"Não cabe, todavia, perder a esperança, porque os progressos técnicos (...) bastariam para produzir muito mais alimentos do que a população atual necessita e, aplicados à medicina, reduziriam drasticamente as doenças e a mortalidade. Um mundo solidário produzirá muitos empregos, ampliando um intercâmbio pacífico entre os povos e eliminando a belicosidade do processo competitivo, que todos os dias reduz a mão de obra. É possível pensar na realização de um mundo de bem-estar, onde os homens serão mais felizes, um outro tipo de globalização\".\n(SANTOS, Milton. A natureza do espaço: técnica e tempo. Razão e emoção. 2ª edição. São Paulo: Hucitec, 1997).\nConsiderando a observação crítica, e esperançosa, do geógrafo Milton Santos, bem como o próprio conceito de globalização, responda: quais são, respectivamente, uma consequência para o setor produtivo e outra para o mundo do trabalho advindas das transformações decorridas da globalização?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Extinção dos benefícios regionais e ampliação da legislação trabalhista unificada."
+        },
+        {
+          "letra": "b",
+          "texto": "Automatização da produção fabril e aumento do desemprego."
+        },
+        {
+          "letra": "c",
+          "texto": "Restrição dos fluxos de mercadorias e ampliação das associações sindicais."
+        },
+        {
+          "letra": "d",
+          "texto": "Predominância de serviços do setor primário e redução da jornada semanal de trabalho."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Globalização e Impactos Econômicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Leia o trecho para responder à questão 34.\n\"Espaço geográfico é formado por um conjunto indissociável, solidário e também contraditório de sistemas de objetos e sistemas de ações, não considerados isoladamente, mas como um quadro único no qual a história se dá. No começo era a natureza selvagem, formada por objetos naturais, que ao longo da história vão sendo substituídos por objetos fabricados, objetos técnicos, mecanizados e, depois, cibernéticos, fazendo com que a natureza artificial tenda a funcionar como uma máquina\".\n(SANTOS, M. A Natureza do Espaço. Técnica e Tempo. Razão e Emoção. 2ª edição. São Paulo: Editora Hucitec, 1997).\n34. O trecho do livro de Milton Santos citado, aborda o conceito de espaço geográfico. Esse conceito pode ser debatido sob perspectivas diferentes. Mas, considerando o texto, o conceito de espaço geográfico está relacionado a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Um processo de transformação da natureza decorrente de atividades de produção exercidas por humanos."
+        },
+        {
+          "letra": "b",
+          "texto": "Uma função das fábricas na transformação de bens primários em produtos de baixo valor agregado."
+        },
+        {
+          "letra": "c",
+          "texto": "Um papel menor do Estado no controle das atividades de produção desenvolvidas pelo homem."
+        },
+        {
+          "letra": "d",
+          "texto": "Um sistema liberal de produção utilizado na maioria dos países do mundo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Espaço Geográfico"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "35. Para compreender a Estrutura Geológica de uma determinada região é necessário considerar alguns fatores fundamentais. Assinale \"V\" para as premissas verdadeiras e \"F\" para as premissas falsas. Ao final, indique a única alternativa com a sequência correta.\n() Há três modelos de rochas: rochas ígneas (resultantes da alteração de outras rochas devido à pressão e temperatura), rochas metamórficas (formadas a partir do resfriamento e solidificação do magma) e rochas sedimentares (originadas da acumulação de um tipo exclusivo de detritos formados na água).\n() Quando se analisa a estrutura geológica da Terra, destacam-se principalmente: Dobramentos Modernos (como a Cordilheira do Himalaia), Escudos Cristalinos (como a região do Brasil Central) e Bacias Sedimentares (como a Bacia do Parnaíba).\n() No Brasil é possível encontrar Dobramentos Modernos, já que sua estrutura geológica é composta por Escudos Cristalinos (de períodos Arqueozóico e Proterozóico) e Bacias Sedimentares (que abrangem desde a era Paleozóica até a Cenozóica).",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "V - F - F."
+        },
+        {
+          "letra": "b",
+          "texto": "F-V-V."
+        },
+        {
+          "letra": "c",
+          "texto": "F - V - F."
+        },
+        {
+          "letra": "d",
+          "texto": "V - F - V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geologia e Formações Rochosas"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "36. Leia o trecho para responder à questão.\n\"A tensão entre China e Taiwan ficou mais acentuada em 2022, com o estreitamento dos laços da ilha com os Estados Unidos – em especial depois que a então presidente da Câmara norte-americana, Nancy Pelosi, visitou Taiwan no começo de agosto. Durante sua estada em Taipei, Pequim realizou uma série de operações militares conjuntas ao redor da ilha\".\n(Poder 360. Histórica tensão entre China e Taiwan se acirra com ações dos EUA. 11/04/2023, disponível em: https://www.poder360.com.br/internacional/historica-tensao-entre-china-e-taiwan-se-acirra-com-acoes-dos-eua/)\nA respeito do conflito entre China e Taiwan, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Taiwan criou um governo independente da China em período posterior à Segunda Guerra Mundial, no ano de 1949, após uma guerra civil, mas a China ainda a considera como parte de seu território."
+        },
+        {
+          "letra": "b",
+          "texto": "Atualmente, todos os Estados-membros da ONU reconhecem Taiwan como um país soberano."
+        },
+        {
+          "letra": "c",
+          "texto": "Em relação à China, Taiwan não tem importância econômica. A China apenas quer garantir sua segurança e o seu império político sobre a região do Leste Asiático."
+        },
+        {
+          "letra": "d",
+          "texto": "Taiwan e China se separaram após a Primeira Guerra Mundial, no ano de 1919, em decorrência da revolução chinesa que levou a dinastia Qing ao fim."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica (Conflitos Internacionais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "HISTÓRIA.\n37. Observe as duas imagens para responder à questão 37.\nCAPTAIN AMERICA...COMMIE SMASHER\nCAPTAIN AMERICA\nHOW MUCH SUSPERSE AND ACTION CAN YOU STAND SEE CAPTAIN AMERICA DEFY THE COMMIKIST HORDES!!\nЕСЛИ ЗДЕСЬ свободный СТРОК ЧТО Ж ТОГДА НАЗВАТЬ ТЮРЬМОЙТ\nS\nFonte: Domingues, Joelza E. (Org.ª. da página Ensinar História). \"Propaganda Ideológica durante a Guerra Fria\". Disponível em: https://www.ensinarhistoriajoelza.com.br/stj/wp-content/uploads/2020/08/CARTAZES-para-DOWNLOAD.pdf\nLegenda: à esquerda, capa de uma HQ do herói norte-americano, Capitão América, enfrentando inimigos, que eram comunistas. À direita, panfleto da URSS simbolizando uma falsa liberdade do estilo de vida norte-americano.\nA Guerra Fria foi um período de tensão geopolítica entre os Estados Unidos, a União Soviética e seus respectivos aliados, o Bloco Ocidental e o Bloco Oriental. Ela começou após a Segunda Guerra Mundial e durou até a dissolução da União Soviética, em 1991. Durante esse período, os Estados Unidos e a União Soviética competiram por influência global, cada um promovendo sua ideologia e tentando minar a do outro. Houve um impacto significativo na política, economia e cultura do mundo, por conta das disputas travadas pelos dois blocos. O que as duas imagens representam sobre o conflito entre os dois blocos?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Tentativas de acordos de paz baseadas na construção de uma cultura comum entre EUA e URSS."
+        },
+        {
+          "letra": "b",
+          "texto": "Disputas étnicas que levaram à produção de cartazes inspirados nos heróis de quadrinhos famosos."
+        },
+        {
+          "letra": "c",
+          "texto": "A vitória do capitalismo sobre o comunismo, haja visto que a estátua da liberdade não significava prisão."
+        },
+        {
+          "letra": "d",
+          "texto": "Disputa ideológica, na qual ambos os lados produziram símbolos como meio de combater a ideologia adversária."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Guerra Fria"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "38. Leia o trecho e responda à questão.\n\"A Nação quer mudar, a Nação deve mudar, a Nação vai mudar.\"\n(Fala de Ulysses Guimarães, presidente da Assembleia Nacional Constituinte, em discurso da promulgação da Constituição Federal do Brasil, em 05/10/1988).\nO atual regime democrático no Brasil, implantado, efetivamente, com a promulgação da Constituição Federal de 1988, é fruto de lutas e conflitos. Considerando-se o contexto de transição da democracia atual no Brasil, bem como sua trajetória de combates à ditadura militar que a precedeu, responda: qual evento histórico marca o fim da ditadura militar no Brasil, iniciada em 1964 e finda cerca de 21 anos depois?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O movimento social conhecido como Diretas Já!"
+        },
+        {
+          "letra": "b",
+          "texto": "A Lei de Anistia decretada no governo do Presidente João Figueiredo."
+        },
+        {
+          "letra": "c",
+          "texto": "A posse de José Sarney no cargo de Presidente da República."
+        },
+        {
+          "letra": "d",
+          "texto": "A eleição que levou Fernando Collor de Mello à presidência."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Brasil República (Ditadura Militar e Redemocratização)"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "39. Leia o trecho para responder à questão 39.\n\"Ao preferir fomentar a atividade do país e não de outros países ele tem em vista apenas sua própria segurança; e orientando sua atividade de tal maneira que sua produção possa ser de maior valor, visa apenas a seu próprio ganho e, neste, como em muitos outros casos, é levado como que por mão invisível a promover um objetivo que não fazia parte de suas intenções”.\n(Adam Smith, \"A Riqueza das Nações”. São Paulo: ed. Nova Cultural, 1996, p. 438).\nAdam Smith, filósofo escocês do Iluminismo tardio, é considerado por muitos como o \"pai\" do liberalismo econômico. Em seu livro \"A Riqueza das Nações: investigações sobre sua natureza e suas causas\", de 1776, ele tentou explicar porque alguns países eram mais ricos do que outros. Ele cunhou termos, tais como \"mercantilismo”, e desenvolveu conceitos que hoje fazem parte do conjunto de aspectos do liberalismo. A expressão “mão invisível” refere-se a qual aspecto do liberalismo?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Refere-se à livre-concorrência de mercado, que decorre da oferta e demanda, com controle mínimo do Estado."
+        },
+        {
+          "letra": "b",
+          "texto": "Refere-se à divisão do trabalho na sociedade, sem a qual não haveria liberalismo, nem capitalismo."
+        },
+        {
+          "letra": "c",
+          "texto": "Diz respeito à propriedade pública, direito fundamental do indivíduo que vive em uma sociedade liberal."
+        },
+        {
+          "letra": "d",
+          "texto": "Diz respeito ao princípio do Estado forte e inviolável, que pode garantir a liberdade individual de todos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Iluminismo e Liberalismo Econômico"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "40. Entre 31 de março e 1 de abril de 1964, o governo de João Goulart foi deposto pelas Forças Armadas do Brasil, que instalaram o Regime Militar. Esse regime se tornou uma ditadura que durou cerca de vinte e um anos. Durante seu período, não foram permitidas eleições diretas para Presidente da República. Os militares controlavam os sindicatos, movimentos sociais e a imprensa, bem como outros grupos que cobravam a democracia e denunciavam violência praticada pelo poder público. Sobre esse período, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Havia unipartidarismo, que fora instalado pelo Ato Institucional n.º 2, no ano de 1965."
+        },
+        {
+          "letra": "b",
+          "texto": "O Ato Institucional n.º 5 abrandou a ditadura e iniciou um processo lento e seguro de retomada da democracia."
+        },
+        {
+          "letra": "c",
+          "texto": "A censura, executada pelo Serviço Nacional de Informação, (SNI), não foi prática comum no Regime Militar, pois ocorreu apenas em poucas exceções, como quando os soviéticos ensaiaram uma invasão no Rio de Janeiro."
+        },
+        {
+          "letra": "d",
+          "texto": "O último presidente militar da ditadura foi o General João Figueiredo, que assinou a Lei de Anistia em 1979."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil República (Regime Militar)"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "41. Leia o trecho para responder à questão 41.\n\"Em 133 a.C., enfim, o Tribunato da Plebe voltou a protagonizar conflitos com os Senadores, quando Tibério Graco foi eleito Tribuno e projetou uma reforma na distribuição do ager publicus, o que provocou sua perseguição e assassinato por parte dos Senadores e seus partidários”.\n(SOUZA, Alice M. de. As interpretações de Veléio Paterculo e Apiano de Alexandria sobre Caio Graco e os equestres: reconstruindo memórias republicanas e alto imperiais (II a.C./ II d.C.). – Dissertação de mestrado em História – UFG, 2010).\nTibério Graco foi um Tribuno na República Romana em 133 a.C. Sua liderança e a pauta que ele agenciava levaram a tumultos sociais até que um grupo de senadores romanos o assassinou. Qual era a pauta de luta de Tibério Graco?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Fim da expansão territorial romana para diminuir as mortes de soldados de baixa patente."
+        },
+        {
+          "letra": "b",
+          "texto": "Reforma Agrária, com distribuição das terras públicas a uma maior parte dos cidadãos romanos."
+        },
+        {
+          "letra": "c",
+          "texto": "Alistamento obrigatório de filhos dos senadores e demais patrícios romanos para gerar condições sociais iguais."
+        },
+        {
+          "letra": "d",
+          "texto": "Fim da escravidão por dívidas com a Lei das Doze Tábuas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Roma Antiga (República Romana)"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "42. Leia o trecho e depois responda o que se pede.\n\"Crêa Corpos para o serviço de guerra em circunstâncias extraordinárias com a denominação de - Voluntários da Pátria -, estabelece as condições e fixa as vantagens que lhes ficão competindo (...)”.\n(Parte do Decreto n.º 3.371, de 7 de janeiro de 1865).\nEm 1865, por decreto do Imperador D. Pedro II, foram criadas unidades militares específicas. Após a participação militar, os membros daquelas unidades receberiam diversas vantagens, conforme o decreto em seu inteiro teor, o que não se concretizou, plenamente, após o evento que as originou. Essas unidades de militares, conhecidas como “voluntários da pátria\", foram organizadas em função de qual evento da História do Brasil?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Revolução Federalista."
+        },
+        {
+          "letra": "b",
+          "texto": "Revolução Farroupilha."
+        },
+        {
+          "letra": "c",
+          "texto": "Guerra do Paraguai."
+        },
+        {
+          "letra": "d",
+          "texto": "Guerra da Cisplatina."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Brasil Império (Guerra do Paraguai)"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "MATEMÁTICA.\n43. Considere o quadrilátero ABCD, cujos vértices estão localizados em um plano cartesiano ortogonal, nos pontos A (0,0), B (−4, 3), C (−1,7) e D (3,4). A área desse quadrilátero, em unidades de área (u.a.), é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "16."
+        },
+        {
+          "letra": "b",
+          "texto": "18."
+        },
+        {
+          "letra": "c",
+          "texto": "20."
+        },
+        {
+          "letra": "d",
+          "texto": "25."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Analítica (Área de Polígonos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "44. Dados dois números reais positivos, a e b, tais que a + b = 12 e a² + b² = 80. Então, a³ + b³ é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "192."
+        },
+        {
+          "letra": "b",
+          "texto": "288."
+        },
+        {
+          "letra": "c",
+          "texto": "576."
+        },
+        {
+          "letra": "d",
+          "texto": "960."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Álgebra (Produtos Notáveis)"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "45. Professor Geraldo listou no quadro-negro cinco frações, designadas por (I), (II), (III), (IV) e (V).\n(I) 5/9\n(II) 7/12\n(III) 9/16\n(IV) 19/34\n(V) 55/100\nFonte: (Elaboração Própria.)\nEm seguida, ele solicitou aos seus estudantes do 3º ano do Ensino Médio que indicassem a menor e a maior fração dentre as cinco listadas no quadro-negro. A diferença entre a maior e a menor fração dentre as cinco listadas é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "1/16."
+        },
+        {
+          "letra": "b",
+          "texto": "1/30."
+        },
+        {
+          "letra": "c",
+          "texto": "1/48."
+        },
+        {
+          "letra": "d",
+          "texto": "1/80."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Frações e Ordem Numérica"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "46. Em um retângulo, um lado mede 13 cm a mais que o outro. Se a área do retângulo é 1080 cm², qual a medida, em centímetros, do perímetro desse retângulo?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "134."
+        },
+        {
+          "letra": "b",
+          "texto": "148."
+        },
+        {
+          "letra": "c",
+          "texto": "156."
+        },
+        {
+          "letra": "d",
+          "texto": "187."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana (Retângulos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "47. Os números inteiros maiores que 1 são organizados conforme mostrado no quadro.\nColuna 1 Coluna 2 Coluna 3 Coluna 4 Coluna 5\nLinha 1 2 3 4 5\nLinha 2 9 8 7 6\nLinha 3 10 11 12 13\nLinha 4 17 16 15 14\nQual a soma dos elementos da 20ª linha?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "266."
+        },
+        {
+          "letra": "b",
+          "texto": "298."
+        },
+        {
+          "letra": "c",
+          "texto": "318."
+        },
+        {
+          "letra": "d",
+          "texto": "362."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Progressões e Sequências Numéricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "48. Seja P(x) um polinômio do 3º grau que satisfaz às condições: P(5) = P(10) = P(15) = 0. Se, P(7) = 144, então P(9) é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "72."
+        },
+        {
+          "letra": "b",
+          "texto": "108."
+        },
+        {
+          "letra": "c",
+          "texto": "126."
+        },
+        {
+          "letra": "d",
+          "texto": "200."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Álgebra (Polinômios)"
+      ]
+    }
+  ]
+}
