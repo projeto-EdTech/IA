@@ -126,11 +126,11 @@ async function main() {
     `},
     { inlineData: {
         mimeType: 'application/pdf',
-        data: Buffer.from(fs.readFileSync("Provas_local/Prova_UFPR_2024.pdf")).toString("base64")}
+        data: Buffer.from(fs.readFileSync("Provas_local/Prova_UFRGS_2018.pdf")).toString("base64")}
     },
     { inlineData: {
         mimeType: 'application/pdf',
-        data: Buffer.from(fs.readFileSync("Provas_local/Prova_UFPR_2024.pdf")).toString("base64")}
+        data: Buffer.from(fs.readFileSync("Provas_local/Gabaritos_UFRGS_2018.pdf")).toString("base64")}
     }
     ];
 

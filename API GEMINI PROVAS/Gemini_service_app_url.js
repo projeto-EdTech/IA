@@ -121,11 +121,11 @@ Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estr
   console.log("Iniciando upload e processamento dos arquivos...");
 
     console.time("Processando Arquivo da Prova");
-    let file1 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2023_2/mackenzie2023_2_prova.pdf", "PDF Da Prova");
+    let file1 = await uploadRemotePDF("https://cdn.cebraspe.org.br/vestibulares/VESTUNB_25/arquivos/009_VEST_UNB_2025_001_01.PDF", "PDF Da Prova");
     console.timeEnd("Processando Arquivo da Prova"); // Termina o cronômetro do upload da prova
 
     console.time("Processando Arquivo do Gabarito");
-    let file2 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2023_2/mackenzie2023_2_gabarito.pdf", "PDF Do Gabarito");
+    let file2 = await uploadRemotePDF("https://cdn.cebraspe.org.br/vestibulares/VESTUNB_25/arquivos/GAB_DEFINITIVO_009_VEST_UNB_2025_001_01.PDF", "PDF Do Gabarito");
     console.timeEnd("Processando Arquivo do Gabarito"); // Termina o cronômetro do upload do Gabarito
 
     console.log("Uploads e processamento dos PDF's concluídos.");

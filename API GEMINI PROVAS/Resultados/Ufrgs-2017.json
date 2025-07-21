@@ -1,0 +1,509 @@
+{
+  "nomeUniversidade": "UNIVERSIDADE FEDERAL DO RIO GRANDE DO SUL",
+  "siglaUniversidade": "UFRGS",
+  "nomeProva": "VESTIBULAR",
+  "ano": 2017,
+  "qtdeQuestoes": 200,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Considere que uma pedra é lançada verticalmente para cima e atinge uma altura máxima H. Despreze a resistência do ar e considere um referencial com origem no solo e sentido positivo do eixo vertical orientado para cima. Assinale o gráfico que melhor representa o valor da aceleração sofrida pela pedra, desde o lançamento até o retorno ao ponto de partida.\n[Imagem: Uma série de cinco gráficos (A a E) de aceleração (eixo Y) versus tempo (eixo X). O gráfico (A) mostra uma linha triangular (aceleração varia de zero a um pico e volta a zero). O gráfico (B) mostra uma linha horizontal constante positiva. O gráfico (C) mostra uma linha horizontal constante em zero. O gráfico (D) mostra uma linha horizontal constante negativa. O gráfico (E) mostra uma linha horizontal constante positiva, iniciando em t_H.]",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Gráfico que mostra aceleração variando linearmente em forma de triângulo."
+        },
+        {
+          "letra": "B",
+          "texto": "Gráfico que mostra aceleração constante e positiva."
+        },
+        {
+          "letra": "C",
+          "texto": "Gráfico que mostra aceleração constante e igual a zero."
+        },
+        {
+          "letra": "D",
+          "texto": "Gráfico que mostra aceleração constante e negativa."
+        },
+        {
+          "letra": "E",
+          "texto": "Gráfico que mostra aceleração constante e positiva a partir de um instante t_H."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Vertical"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Um atleta, partindo do repouso, percorre 100 m em uma pista horizontal retilínea, em 10 s, e mantém a aceleração constante durante todo o percurso. Desprezando a resistência do ar, considere as afirmações abaixo, sobre esse movimento.\nI - O módulo de sua velocidade média é 36 km/h.\nII - O módulo de sua aceleração é 10 m/s2.\nIII- O módulo de sua maior velocidade instantânea é 10 m/s.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Retilíneo Uniformemente Variado"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Assinale a alternativa correta sobre o Sermão do bom sucesso das armas e o Sermão de Santo Antônio, do padre Antônio Vieira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No Sermão do bom sucesso das armas, o orador constrói argumentos para desqualificar o interlocutor e, então, provar seu erro em proteger os holandeses."
+        },
+        {
+          "letra": "B",
+          "texto": "No Sermão de Santo Antônio, o orador dirige-se aos peixes, a fim de destacar suas virtudes, inexistentes nos homens."
+        },
+        {
+          "letra": "C",
+          "texto": "No Sermão do bom sucesso das armas, o orador simula uma interpelação a Deus para conclamar os maranhenses a lutarem contra os holandeses."
+        },
+        {
+          "letra": "D",
+          "texto": "No Sermão de Santo Antônio, o orador, simulando dirigir-se aos peixes, repreende, entre outras coisas, a tendência dos homens a se entredevorarem."
+        },
+        {
+          "letra": "E",
+          "texto": "No Sermão do bom sucesso das armas, o orador simula a vitória dos holandeses, a fim de destacar a necessidade de os brasileiros abandonarem seus pecados."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Barroco",
+        "Língua Portuguesa – Padre Antônio Vieira"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Leia o segmento abaixo, do terceiro capítulo de O cortiço, de Aluísio Azevedo.\n“Daí a pouco, em volta das bicas era um zunzum crescente; uma aglomeração tumultuosa de machos e fêmeas. (...) O rumor crescia, condensando-se; o zunzum de todos os dias acentuava-se; já se não destacavam vozes dispersas, mas um só ruído compacto que enchia todo o cortiço. Começavam a fazer compras na venda; ensarilhavam-se discussões e rezingas; ouviam-se gargalhadas e pragas; já se não falava, gritava-se. Sentia-se naquela fermentação sanguínea, naquela gula viçosa de plantas rasteiras que mergulham os pés vigorosos na lama preta e nutriente da vida, o prazer animal de existir, a triunfante satisfação de respirar sobre a terra.”\nAssinale com V (verdadeiro) ou F (falso) as seguintes afirmações sobre o segmento.\n( ) O segmento apresenta a descrição do cortiço sem destacar um personagem, com ênfase na coletividade para ações triviais de homens, mulheres e crianças.\n( ) O despertar, matéria cotidiana, é figurado como fato rotineiro de pessoas executando seus hábitos higiênicos matinais.\n( ) A linguagem do narrador, preocupado em mostrar a dimensão natural presente nas ações humanas, evidencia-se em expressões como “prazer animal de existir”.\n( ) O objetivo, nesse segmento, é apresentar o cortiço e a venda como empreendimentos comerciais usados no enriquecimento de João Romão.\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – V – F – F."
+        },
+        {
+          "letra": "B",
+          "texto": "V – V – V – V."
+        },
+        {
+          "letra": "C",
+          "texto": "V – F – F – V."
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – F – V."
+        },
+        {
+          "letra": "E",
+          "texto": "V – V – V – F."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Naturalismo",
+        "Língua Portuguesa – O Cortiço (Aluísio Azevedo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Instrução: As questões de 01 a 09 estão relacionadas ao texto abaixo.\n“É preciso estabelecer uma distinção radical entre um “brasil” escrito com letra minúscula, nome de um tipo de madeira de lei ou de uma feitoria interessada em explorar uma terra como outra qualquer, e o Brasil que designa um povo, uma nação, um conjunto de valores, escolhas e ideais de vida. O “brasil” com b minúsculo é apenas um objeto sem vida, pedaço de coisa que morre e não tem a menor condição de se reproduzir como sistema. Mas o Brasil com B maiúsculo é algo muito mais complexo.\nEstamos interessados em responder esta pergunta: afinal de contas, o que faz o brasil, BRASIL? Note-se que se trata de uma pergunta relacional que, tal como faz a própria sociedade brasileira, quer juntar e não dividir. Queremos, isto sim, descobrir como é que eles se ligam entre si; como é que cada um depende do outro; e como os dois formam uma realidade única que existe concretamente naquilo que chamamos de “pátria”.\nSe a condição humana determina que todos os homens devem comer, dormir, trabalhar, reproduzir-se e rezar, essa determinação não chega ao ponto de especificar também qual comida ingerir, de que modo produzir e para quantos deuses ou espíritos rezar. É precisamente aqui, nessa espécie de zona indeterminada, mas necessária, que nascem as diferenças e, nelas, os estilos, os modos de ser e estar; os “jeitos” de cada grupo humano. Trata-se, sempre, da questão de identidade.\nComo se constrói uma identidade social? Como um povo se transforma em Brasil? A pergunta, na sua discreta singeleza, permite descobrir algo muito importante. É que, no meio de uma multidão de experiências dadas a todos os homens e sociedades, algumas necessárias à própria sobrevivência – como comer, dormir, morrer, reproduzir-se etc. – outras acidentais ou históricas –, o Brasil ter sido descoberto por portugueses e não por chineses, a geografia do Brasil ter certas características, falarmos português e não francês, a família real ter se transferido para o Brasil no início do século XIX etc. – –, cada sociedade (e cada ser humano) apenas se utiliza de um número limitado de “coisas” (e de experiências) para se construir como algo único.\nNessa perspectiva, a chave para entender a sociedade brasileira é uma chave dupla. E, para mim, a capacidade relacional — do antigo com o moderno – tipifica e singulariza a sociedade brasileira. Será preciso, portanto, discutir o Brasil como uma moeda. Como algo que tem dois lados. E mais: como uma realidade que nos tem iludido, precisamente porque nunca lhe propusemos esta questão relacional e reveladora: afinal de contas, como se ligam as duas faces de uma mesma moeda? O que faz o brasil, Brasil? Adaptado de: DAMATTA, R. O que faz o brasil, Brasil? A questão da identidade. In:_____. O que faz o brasil, Brasil? Rio de Janeiro: Rocco, 1986. p. 9-17.\nAssinale a alternativa que está de acordo com o sentido global do texto.\nI - O brasil escrito com b minúsculo, nome de um tipo de madeira de lei, não faz parte do Brasil escrito com B maiúsculo, nome de uma nação.\nII - O Brasil, como identidade social de um povo, constrói-se na relação entre as experiências necessárias à sobrevivência e as experiências históricas.\nIII- O Brasil, com B maiúsculo, é uma sociedade com indivíduos isolados, que comem, bebem, dormem e reproduzem-se.\nQuais podem ser consideradas corretas, de acordo com o texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Considere as afirmações abaixo.\nI - As diferenças entre os grupos humanos são resolvidas pela questão de identidade.\nII - O brasil e o Brasil dependem um do outro.\nIII- O ser humano constrói-se como algo único a partir das experiências de que se utiliza.\nQuais podem ser consideradas corretas, de acordo com o que diz o texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "Observe a tira abaixo.\n[Imagem: Armandinho comic, shows a child asking “VOCÊ SABE / QUEM INVENTOU / O PAPEL / DO BIÓLOGO?” and the biologist answers “É O PAPEL / RECICLADO?” then in the last frame the child says “BIÓLOGO!”. Text below: BECK, A. Armandinho. Zero Hora. 10 ago. 2015.]\nA biologia como ciência começou a ser estruturada no século XIX. Assinale com V (verdadeiro) ou F (falso) as afirmações abaixo, referentes a essa área de conhecimento.\n( ) As células são unidades estruturais básicas que provêm de células preexistentes.\n( ) Os seres vivos são geneticamente relacionados e capazes de evoluir.\n( ) A maioria das reações químicas que mantém os organismos vivos ocorre no ambiente extracelular.\n( ) Conclusões obtidas a partir de um determinado organismo não podem servir de base para investigações em outros seres vivos.\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – V – F – F."
+        },
+        {
+          "letra": "B",
+          "texto": "V – F – V – F."
+        },
+        {
+          "letra": "C",
+          "texto": "V – F – F – V."
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – V – F."
+        },
+        {
+          "letra": "E",
+          "texto": "F – V – V – V."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Conceitos Fundamentais da Biologia",
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "Sobre as macromoléculas biológicas presentes em todos os organismos, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os carboidratos são as macromoléculas encontradas em maior quantidade nos tecidos vivos."
+        },
+        {
+          "letra": "B",
+          "texto": "os carboidratos podem ter função estrutural como, por exemplo, a quitina presente nos artrópodes."
+        },
+        {
+          "letra": "C",
+          "texto": "os monômeros das proteínas são os aminoácidos cujas diversificadas funções incluem o armazenamento de energia."
+        },
+        {
+          "letra": "D",
+          "texto": "os ácidos graxos saturados são encontrados somente em animais, pois as plantas não produzem colesterol."
+        },
+        {
+          "letra": "E",
+          "texto": "as bases nitrogenadas encontradas no DNA e no RNA são as mesmas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Macromoléculas"
+      ]
+    },
+    {
+      "numeroEnunciado": 101,
+      "enunciado": "Por questões econômicas, a medalha de ouro não é 100% de ouro desde os jogos de 1912 em Estocolmo, e sua composição varia nas diferentes edições dos jogos olímpicos. Para os jogos olímpicos de 2016, no Rio de Janeiro, a composição das medalhas foi distribuída como apresenta o quadro abaixo.\n[Imagem: Tabela intitulada “Medalha Composição em massa” com as seguintes linhas: “Ouro prata (98,8%) e ouro (1,2%)”, “Prata prata (100%)”, “Bronze cobre (95%) e zinco (5%)”.]\nConsiderando que as três medalhas tenham a mesma massa, assinale a alternativa que apresenta as medalhas em ordem crescente de número de átomos metálicos na sua composição.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Medalha de bronze < medalha de ouro < medalha de prata."
+        },
+        {
+          "letra": "B",
+          "texto": "Medalha de bronze < medalha de prata < medalha de ouro."
+        },
+        {
+          "letra": "C",
+          "texto": "Medalha de prata < medalha de ouro < medalha de bronze."
+        },
+        {
+          "letra": "D",
+          "texto": "Medalha de prata < medalha de bronze < medalha de ouro."
+        },
+        {
+          "letra": "E",
+          "texto": "Medalha de ouro < medalha de prata < medalha de bronze."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Atomística",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 102,
+      "enunciado": "Observe o gráfico e a tabela abaixo, que representam a curva de solubilidade aquosa (em gramas de soluto por 100 g de água) do nitrato de potássio e do nitrato de sódio em função da temperatura.\n[Imagem: Gráfico de Solubilidade vs Temperatura, mostrando duas curvas, A e B. A curva A mostra um aumento mais acentuado da solubilidade com a temperatura do que a curva B. Tabela ao lado com “T (°C)”, “KNO3”, “NaNO3” e valores de solubilidade para 60, 65, 75 °C.]\nAssinale a alternativa que preenche corretamente as lacunas do enunciado abaixo, na ordem em que aparecem.\nA curva A diz respeito ao ........ e a curva B, ao ........ . Considerando duas soluções aquosas saturadas e sem precipitado, uma de KNO3 e outra de NaNO3, a 65 °C, o efeito da diminuição da temperatura acarretará a precipitação de ........ .",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nitrato de potássio – nitrato de sódio – nitrato de potássio"
+        },
+        {
+          "letra": "B",
+          "texto": "nitrato de potássio – nitrato de sódio – nitrato de sódio"
+        },
+        {
+          "letra": "C",
+          "texto": "nitrato de sódio – nitrato de potássio – nitrato de sódio"
+        },
+        {
+          "letra": "D",
+          "texto": "nitrato de sódio – nitrato de potássio – ambas"
+        },
+        {
+          "letra": "E",
+          "texto": "nitrato de potássio – nitrato de sódio – ambas"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Solubilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 126,
+      "enunciado": "O rompimento de uma barragem da mineradora Samarco, em novembro de 2015, considerado o maior desastre ambiental do Brasil, causou uma enxurrada de lama com rejeitos, na região de Mariana (MG). Considere as afirmações abaixo, sobre as consequências desse desastre.\nI - O impacto ambiental do rompimento, que vazou 35 bilhões de litros de rejeitos de minérios, atingiu a vida aquática, as faixas de matas ciliares, bem como o litoral do Espírito Santo.\nII - A lama contaminada, oriunda da barragem, abalou o abastecimento de água de várias cidades ao longo da bacia do Rio Doce.\nIII- A lama contaminada modificou a composição do solo, ao longo de 650 km do Rio Doce e seus afluentes, tornando-o improdutivo naqueles locais em que houve a deposição dos sedimentos.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geografia Física",
+        "Geografia – Meio Ambiente",
+        "Geografia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 127,
+      "enunciado": "Considere as afirmações abaixo, sobre a Teoria da Tectônica de Placas.\nI - A litosfera, de acordo com essa teoria, está fragmentada em placas rígidas que se movimentam.\nII - As placas tectônicas são movidas pela convecção do manto, e a energia vem do calor interno da Terra.\nIII- Os limites das placas apresentam feições de grandes proporções, como estreitos cinturões de montanhas, cinturões de terremotos e cadeias de vulcões.\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geomorfologia",
+        "Geografia – Tectônica de Placas"
+      ]
+    },
+    {
+      "numeroEnunciado": 151,
+      "enunciado": "Na sua narrativa da Guerra do Peloponeso, Tucídides assim relata as práticas funerais atenienses.\n“Desse cortejo participam livremente cidadãos e estrangeiros; e as mulheres da família estão presentes, ao túmulo, fazendo ouvir sua lamentação. Depositam-se, em seguida, os despojos no monumento público, situado na mais bela avenida da cidade, e onde as vítimas de guerra são sempre sepultadas – à exceção dos mortos de Maratona: a estes, considerando-se seu mérito excepcional, concedeu-se sepultura no próprio lugar da batalha. Uma vez que a terra recobre os mortos, um homem escolhido pela pólis, reputado por distinguir-se intelectualmente e gozar de alta estima, pronuncia em sua honra um elogio apropriado; depois disto, todos se retiram. Assim têm lugar esses funerais; e, durante toda a guerra, quando era o caso, aplicava-se o costume”.\nCitado em LORAUX, N. A invenção de Atenas. Rio de Janeiro: Editora 34, 1994. p. 39. Assinale a alternativa correta a respeito da história da antiguidade grega, a partir do texto apresentado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os ritos funerais na Grécia antiga eram cerimônias religiosas, destinadas apenas a conduzir ao paraíso os heróis mortos."
+        },
+        {
+          "letra": "B",
+          "texto": "Os metecos, participantes das práticas funerais, formavam parte do demos ateniense e possuíam os mesmos direitos políticos que os cidadãos da pólis."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os soldados atenienses mortos nos confrontos com Esparta, em razão do grande mérito de seus feitos, eram sepultados no próprio lugar da batalha."
+        },
+        {
+          "letra": "D",
+          "texto": "A cena descrita, ocorrida na democracia ateniense, indica o valor dado aos cidadãos mais eloquentes da cidade."
+        },
+        {
+          "letra": "E",
+          "texto": "A realização de um discurso fúnebre por alguém escolhido na massa de cidadãos de Atenas revela o caráter secundário e improvisado da cerimônia."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Antiga",
+        "História – Grécia Antiga",
+        "História – Democracia Ateniense"
+      ]
+    },
+    {
+      "numeroEnunciado": 152,
+      "enunciado": "Assinale com V (verdadeiro) ou F (falso) as afirmações abaixo, sobre a história da Idade Média ocidental.\n( ) A instalação de povos de origem germânica no território do Império Romano, as chamadas “invasões bárbaras”, ocorreu também por meio de processos migratórios pacíficos e negociados com o Estado romano.\n( ) O processo de fragmentação territorial do Império Romano Germânico, após a ascensão de Carlos Magno no século VIII, foi decorrência da ruptura entre o reino franco e a Igreja cristã.\n( ) A servidão foi uma situação intermediária entre a escravidão definitiva e a liberdade plena, pois impunha uma série de limitações aos servos, sem torná-los propriedade dos seus senhores.\n( ) A Escolástica, principal método de ensino nas universidades medievais, previa o estudo filológico da Bíblia e recusava o recurso à filosofia antiga, considerada pagã e herética.\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – V – F – V."
+        },
+        {
+          "letra": "B",
+          "texto": "F – V – F – V."
+        },
+        {
+          "letra": "C",
+          "texto": "V – F – V – F."
+        },
+        {
+          "letra": "D",
+          "texto": "F – V – V – F."
+        },
+        {
+          "letra": "E",
+          "texto": "F – F – V – V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Idade Média",
+        "História – Alta Idade Média",
+        "História – Feudalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 176,
+      "enunciado": "Na última década do século XX, a perda de gelo de uma das maiores geleiras do hemisfério norte foi estimada em 96 km³. Se 1 cm³ de gelo tem massa de 0,92 g, a massa de 96 km³ de gelo, em quilogramas, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8,832·10¹²."
+        },
+        {
+          "letra": "B",
+          "texto": "8,832·10¹³."
+        },
+        {
+          "letra": "C",
+          "texto": "8,832·10¹⁴."
+        },
+        {
+          "letra": "D",
+          "texto": "8,832·1⁵."
+        },
+        {
+          "letra": "E",
+          "texto": "8,832·1⁶."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Grandezas e Medidas",
+        "Matemática – Notação Científica"
+      ]
+    },
+    {
+      "numeroEnunciado": 177,
+      "enunciado": "Sendo a e b números reais, considere as afirmações a seguir.\nI) Se a < b então -a > -b.\nII) Se a > b então 1/a < 1/b.\nIII) Se a < b então a² < b².\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Conjuntos Numéricos",
+        "Matemática – Desigualdades"
+      ]
+    }
+  ]
+}
