@@ -90,7 +90,7 @@ const jsonSchema = {
 
 async function main() {
   const prompt = [
-    `Você é um assistente de IA especialista em análise de provas de vestibulares. Sua única função é processar o arquivo PDF de uma prova e seu respectivo gabarito oficial.
+  `Você é um assistente de IA especialista em análise de provas de vestibulares. Sua única função é processar o arquivo PDF de uma prova e seu respectivo gabarito oficial.
 
 Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes informações:
 - Análise Geral da Prova: O nome da Universidade/Prova, o ano e a quantidade total de questões.
@@ -100,6 +100,15 @@ Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes in
   - A lista de todas as alternativas (A, B, C, D, E).
   - A letra da alternativa correta, que deve ser extraída do arquivo de gabarito.
   - O(s) conteúdo(s) abordados na questão no formato: "Disciplina – Tópico Específico" (exemplo: "Matemática – Funções do 1º grau").
+
+Regras Críticas de Processamento:
+1.  **Transcrever Fórmulas e Equações para Texto**: Ao encontrar uma fórmula de física ou uma equação química, você **deve** transcrevê-la para um formato de texto linear e simples. Esta transcrição em texto deve ser incluída como parte do campo 'enunciado'.
+    * Exemplo de Física: A fórmula $$\\vec{F}_{res} = m \\cdot \\vec{a}$$ deve ser transcrita no enunciado como "Fres = m * a".
+    * Exemplo de Química: A equação $$2H_2(g) + O_2(g) \\rightarrow 2H_2O(l)$$ deve ser transcrita como "2H2(g) + O2(g) -> 2H2O(l)".
+
+2.  **Ignorar Outros Elementos Visuais**: Imagens (fotos, desenhos), gráficos (de barras, de pizza, etc.) e tabelas genéricas que **não sejam** as alternativas da questão devem ser **completamente ignorados**. Não gere nenhuma descrição, menção ou placeholder (como [imagem] ou [gráfico]). Prossiga a análise como se esses elementos não existissem.
+
+3.  **Alternativas em Formato de Tabela**: Se as alternativas de uma questão (A, B, C, D, E) forem apresentadas dentro de uma estrutura de tabela, o campo 'alternativas' para essa questão específica deve ser retornado como null. O resto dos dados da questão deve ser extraído normalmente.
 
 Importante: A disciplina deve ser exclusivamente uma das seguintes: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia" ou "Sociologia". Não utilize nenhuma outra. Caso a questão não pertença a uma dessas três disciplinas, ignore-a e não a inclua no resultado.
 A saída final deve ser estritamente um único objeto JSON puro, sem explicações, comentários, ou formatações extras como blocos de código. Siga o schema da função fornecida com exatidão, não altere nenhum nome dos campos do jsonschema apresentado.
@@ -116,16 +125,16 @@ Especificamente, garanta que:
     - 'conteudo' (NÃO 'conteudoAbordado') seja um ARRAY de strings (NÃO uma string simples).
 
 Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
- `];
+`];
 
   console.log("Iniciando upload e processamento dos arquivos...");
 
     console.time("Processando Arquivo da Prova");
-    let file1 = await uploadRemotePDF("https://cdn.cebraspe.org.br/vestibulares/VESTUNB_25/arquivos/009_VEST_UNB_2025_001_01.PDF", "PDF Da Prova");
+    let file1 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2025_1fase/fuvest2025_1fase_prova_V1.pdf", "PDF Da Prova");
     console.timeEnd("Processando Arquivo da Prova"); // Termina o cronômetro do upload da prova
 
     console.time("Processando Arquivo do Gabarito");
-    let file2 = await uploadRemotePDF("https://cdn.cebraspe.org.br/vestibulares/VESTUNB_25/arquivos/GAB_DEFINITIVO_009_VEST_UNB_2025_001_01.PDF", "PDF Do Gabarito");
+    let file2 = await uploadRemotePDF("https://www.fuvest.br/wp-content/uploads/fuvest2025_gabarito_primeira_fase.pdf", "PDF Do Gabarito");
     console.timeEnd("Processando Arquivo do Gabarito"); // Termina o cronômetro do upload do Gabarito
 
     console.log("Uploads e processamento dos PDF's concluídos.");
@@ -175,9 +184,7 @@ Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estr
     ],
     });
     console.timeEnd("Processamento de Conteúdo Gemini");
-
     console.log("Resposta recebida. Processando JSON...");
-    // AQUI ESTAVA O PROBLEMA DE NOME DE VARIÁVEL
     const responseContentParts = response.candidates[0].content.parts; // Renomeado de 'responseText' para 'responseContentParts'
 
     let jsonData;

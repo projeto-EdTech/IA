@@ -1,0 +1,599 @@
+createQuestion({
+    id: 2,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Considerando que a vida na Terra é fortemente dependente de água, entre os ODS destaca-se a melhoria da qualidade da água, a fim de se obter a água potável para todos. O processo convencional de tratamento de água é dividido em etapas que aparecem numeradas no esquema.\n[Imagem de um esquema de tratamento de água com etapas numeradas de 1 a 9, incluindo: 1. Represa, 2. Bombeamento, 3. Adição de Sulfato de Alumínio e Cal, 4. Adição de Cloro, 5. Filtros de Carvão, Areia e Cascalho, 6. Adição de Flúor, Cloro e Cal, 7. Reservatório Água Final (ETA), 8. Reservatório dos Bairros, 9. Distribuição].\nAs etapas numeradas 3, 4 e 5 do esquema são denominadas, correta e respectivamente,",
+      subItens: []
+    },
+    options: ["coagulação desinfecção filtração","filtração coagulação decantação","floculação decantação filtração","decantação filtração floculação","floculação decantação desinfecção"],
+    correctAnswer: 2,
+    materia: "Biologia – Saneamento Básico",
+    conteudo: "Biologia – Tratamento de Água",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 3,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Em Roma, no período do Império, as riquezas geradas pelas conquistas permitiram a realização de inúmeras obras públicas, entre as quais os famosos aquedutos, conforme a figura.\n[Imagem de um aqueduto romano, com arcos e estruturas de pedra].\nEssas estruturas arquitetônicas",
+      subItens: []
+    },
+    options: ["eram cópias de projetos de engenharia desenvolvidos pelos povos nômades da pré-história.","foram construídas para possibilitar a travessia de animais de carga, que levavam armamento pesado.","transportavam água do Mar do Norte para as províncias dos territórios da Gália Romana, da Grécia continental e do norte da África.","utilizavam a força da gravidade, por meio de canais de pedra ou tijolo ligeiramente inclinados, para levar água para cidades e vilas do Império Romano.","eram barreiras militares instaladas em pontos estratégicos para proteção dos rios de fronteira do Império Romano, diante das ameaças de invasão germânica."],
+    correctAnswer: 3,
+    materia: "História – Roma Antiga",
+    conteudo: "História – Engenharia Romana",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 4,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "É comum que a camada de gelo da Groenlândia derreta durante o verão do Hemisfério Norte. As altas temperaturas registradas em 2019 fizeram o fenômeno começar mais cedo. Só no mês de julho, a Groenlândia perdeu cerca de 198 bilhões de toneladas de gelo, o equivalente a _______ de piscinas olímpicas.\n<https://tinyurl.com/qlk43pb> Acesso em: 22.04.2022. Adaptado.\nO valor que preenche corretamente a lacuna do texto é\nDados:\n• Uma piscina olímpica tem a forma de um bloco retangular de dimensões 50 m de comprimento, 25 m de largura e 2 m de profundidade.\n• Densidade do gelo: 0,9 kg/L\n• 1 m³ = 1 000 L\n• 1 t = 1 000 kg",
+      subItens: []
+    },
+    options: ["75 milhões.","88 milhões.","75 bilhões.","80 bilhões.","85 trilhões."],
+    correctAnswer: 1,
+    materia: "Matemática – Volume",
+    conteudo: "Matemática – Conversão de Unidades",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 7,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "A dengue, uma doença negligenciada por anos, se alastra rapidamente pelo globo.\nConsiderando as características gerais dessa doença, é correto afirmar que",
+      subItens: []
+    },
+    options: ["a contaminação ocorre por contato direto com a saliva ou o muco de uma pessoa infectada, por meio de gotículas respiratórias produzidas ao tossir ou espirrar.","os agentes causadores são microscópios e dotados de núcleo organizado capaz de orientar a produção de proteínas prejudiciais ao organismo humano.","a transmissão poderia ser evitada com a eliminação de reservatórios de água parada onde se reproduzem os insetos vetores.","o tratamento é feito por meio de antibióticos, que inibem a proliferação celular dos agentes causadores da doença.","a melhor maneira de prevenção é uma vacina específica produzida a partir de bactérias atenuadas ou mortas."],
+    correctAnswer: 2,
+    materia: "Biologia – Doenças",
+    conteudo: "Biologia – Saúde Pública",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 8,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Devido ao consumo exagerado de bebidas alcoólicas, vários problemas sociais e de saúde são ocasionados. O etilômetro (bafômetro) é um aparelho que mede a concentração de etanol no sangue de uma pessoa mediante análise do ar expirado. A concentração em gramas por litro expressa a razão entre a massa do soluto dissolvido em um litro de solução. Considere que uma pessoa adulta, após ingerir 100 mL de vinho, submeteu-se ao teste do etilômetro. Supondo que todo etanol ingerido esteja diluído no sangue, é correto afirmar que a concentração de etanol no sangue dessa pessoa, apresentada pelo etilômetro é, em g/L, aproximadamente,\nDados:\n• concentração de etanol no vinho = 80,2 g/L\n• uma pessoa adulta apresenta, em média, 5 L de sangue",
+      subItens: []
+    },
+    options: ["1,05.","1,60.","2,57.","3,58.","4,16."],
+    correctAnswer: 1,
+    materia: "Química – Soluções",
+    conteudo: "Química – Concentração",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 9,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Um dos medicamentos mais utilizados para o tratamento do alcoolismo é o acamprosato, cuja estrutura está representada na figura.\n[Imagem da fórmula estrutural do Acamprosato, contendo átomos de C, H, N, S, O].\nObservando a fórmula estrutural do acamprosato, é correto afirmar que esse composto é",
+      subItens: []
+    },
+    options: ["inorgânico, formado por 3 elementos químicos.","inorgânico, formado por 4 elementos químicos.","inorgânico, formado por 5 elementos químicos.","orgânico, formado por 4 elementos químicos.","orgânico, formado por 5 elementos químicos."],
+    correctAnswer: 4,
+    materia: "Química – Química Orgânica",
+    conteudo: "Química – Classificação de Compostos Orgânicos",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 15,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Considere o excerto da música Idiots are taking over, da banda de punk rock NOFX.\nIdiots Are Taking Over\n(NOFX)\nIt's not the right time to be sober\nNow the idiots have taken over\nSpreading like a social cancer, is there an answer?\n[...]\nDarwin's rolling over in his coffin\nThe fittest are surviving much less often\nNow everything seems to be reversing, and it's worsening\nSomeone flopped a steamer in the gene pool\nNow angry mob mentality's\nno longer the exception, it's the rule\n[...]\nThere's no point for democracy when ignorance is celebrated\nPolitical scientists\nGet the same one vote\nas some Arkansas inbred\n[...]\n<https://tinyurl.com/twd3lby> Acesso em: 20.04.2022. Adaptado.\nGLOSSÁRIO:\nfittest: mais apto\nworsen: piorar\nmob: multidão\ninbred: inato\nSegundo o texto, é correto afirmar que",
+      subItens: []
+    },
+    options: ["apenas cientistas políticos poderão controlar uma grande massa ignorante.","a democracia atualmente pressupõe a ignorância celebrada pela sociedade.","há a disseminação de uma doença social causada por vícios como o álcool.","pessoas ignorantes e tolas estão assumindo postos de destaque.","Darwin, cuja teoria criacionista foi banida, está se revirando no caixão."],
+    correctAnswer: 3,
+    materia: "Inglês – Interpretação de Texto",
+    conteudo: "Inglês – Vocabulário",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 16,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Leia os quadrinhos para responder às questões 16 e 17.\n[Imagem com duas tirinhas da série CIENTIRINHAS #114 e SEPHKO.COM: a primeira mostra cientistas trabalhando em equipamentos complexos com os dizeres \"THE EFFORT OF MANY SCIENTISTS\" e \"ONE OF THE GREATEST TECHNOLOGICAL CHALLENGES\"; a segunda mostra um homem falando com um garoto chamado Billy, com os dizeres \"ALL OF THIS TO DELIVER INTERNET...\" e \"TO BILLY\", e Billy dizendo \"THE EARTH IS FLAT!!!!\" (A TERRA É PLANA!!!!)].\nO humor se constrói nos quadrinhos a partir da ideia que,",
+      subItens: []
+    },
+    options: ["apesar de todo o empenho científico para o desenvolvimento da internet, a rede permite opiniões que contradizem a ciência.","apesar de serem pessoas diferentes, a cientista e Billy compartilham das mesmas opiniões acerca da ciência.","apesar dos esforços dos cientistas, os satélites lançados ainda não conseguiram entrar em órbita.","apesar dos avanços tecnológicos, os cientistas ainda não conseguiram calcular o diâmetro da Terra.","apesar de ter tantos computadores sofisticados, a cientista somente consegue fazer cálculos no papel."],
+    correctAnswer: 0,
+    materia: "Inglês – Interpretação de Imagens e Texto",
+    conteudo: "Inglês – Humor",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 17,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Para garantir o acesso igualitário e amplo à Educação, cada vez mais são disponibilizados recursos de tecnologia de comunicação via satélite. Para que esses satélites sejam colocados em órbita na Terra, usam-se conceitos básicos da Mecânica Clássica. Podemos afirmar corretamente que um conceito representado no segundo quadrinho [Imagem da segunda tirinha, que mostra um satélite no espaço e o texto \"ALL OF THIS TO DELIVER INTERNET...\" e \"THE EARTH IS FLAT!!!!\"] se refere ao princípio",
+      subItens: []
+    },
+    options: ["da incerteza.","da ação e reação.","de Arquimedes.","de Heisenberg.","de Pascal."],
+    correctAnswer: 1,
+    materia: "Física – Mecânica",
+    conteudo: "Física – Leis de Newton",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 18,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Embora uma das principais atividades econômicas da região de Minas Gerais, desde os tempos da colônia até a atualidade, seja a mineração, essa atividade sofreu alterações significativas ao longo da história. Assinale a alternativa que apresenta, corretamente, as principais características da mineração nessa região, ao longo do tempo.",
+      subItens: []
+    },
+    options: ["No período colonial, o nióbio era o minério mais procurado no mercado internacional, movimentado pela nascente indústria têxtil; atualmente, o principal minério extraído na região das Minas Gerais é o ouro.","No período colonial, a mineração era orientada pela busca de ouro e diamantes e realizada principalmente por mão de obra escravizada; atualmente, o minério de ferro é o principal minério de exportação de Minas Gerais.","No século XV, a região de Minas Gerais respondia por cerca de 80% do volume de bauxita exportado pelo Brasil; atualmente, os minérios brasileiros enfrentam boicotes internacionais devido aos rompimentos de barragem no estado.","No século XVIII, a região de Minas Gerais era a segunda maior produtora de ouro da colônia, atrás de Goiás; atualmente, no estado de Minas Gerais, a mineração é a terceira maior atividade econômica, atrás do artesanato e do turismo.","No século XIV, a descoberta de jazidas de metais preciosos provocou a colonização da região de Minas Gerais; atualmente, verifica-se a diminuição do número de escravizados nas regiões mineradoras, expulsos pelos sucessivos rompimentos de barragens."],
+    correctAnswer: 1,
+    materia: "História – Brasil Colônia",
+    conteudo: "História – Economia Colonial (Mineração)",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 19,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "A taxa de fecundidade de 1,48 filho por mulher foi um dos principais temas destacados pelo presidente russo, Vladimir Putin, em um discurso proferido no início de 2020: “Não é o suficiente para o nosso país”. Embora a taxa de fecundidade entre as mulheres russas em idade reprodutiva tenha aumentado desde 1999, quando chegou a 1,16 filho por mulher, ainda está em patamares distantes dos desejados por Putin. O governo anunciou propostas para aumentar a taxa a 1,7 filho por mulher dentro de quatro anos, tais como aumento em um programa de transferência de renda para famílias carentes com filhos e benefícios financeiros para famílias com três ou mais filhos.\n<https://tinyurl.com/rcm3vhu> Acesso em: 10.04.2022. Adaptado.\nAs propostas do governo russo para aumentar a taxa de fecundidade naquele país decorrem da",
+      subItens: []
+    },
+    options: ["escassez da mão de obra na Rússia, haja vista que, nos dias de hoje, a população de imigrantes supera a de pessoas nascidas no país.","urgência em diminuir a densidade demográfica do país, a qual está entre as maiores da Terra e contribui para a escassez de recursos naturais.","necessidade de aumentar a população nativa, pois se a taxa de fecundidade continuar em 1,48 filho por mulher, a população absoluta nativa da Rússia tenderá a diminuir.","exigência do Fundo das Nações Unidas para a Infância (UNICEF) de duplicar a população da Eurásia no prazo de 50 anos para suprir os vazios demográficos desse continente.","assimetria na distribuição da população sobre o território russo, uma vez que a maior parte da população se concentra no leste e no norte do país, deixando o oeste e o sul praticamente desabitados."],
+    correctAnswer: 2,
+    materia: "Geografia – Demografia",
+    conteudo: "Geografia – População",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 20,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "João, preocupado com nosso planeta, irá instalar placas solares em sua residência. Para atender ao consumo de energia de sua casa, serão necessários 2120 W de potência por dia. Após estudar o problema, adquiriu módulos solares fotovoltaicos com forma retangular e as seguintes características:\n• potência diária gerada por módulo: 265 W; e\n• dimensão de cada módulo: 1,65 m por 1,00 m, com espessura desprezível.\nOs módulos serão instalados no telhado, um ao lado do outro, sem sobreposição.\nAssinale a alternativa que apresenta a área total mínima, em m², que será ocupada pelos módulos que João deverá instalar para atender suas necessidades.\nDespreze quaisquer formas de perda de energia.",
+      subItens: []
+    },
+    options: ["12,5","13,2","14,6","15,3","16,4"],
+    correctAnswer: 1,
+    materia: "Matemática – Cálculo de Área",
+    conteudo: "Matemática – Grandezas e Medidas",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 21,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "De acordo com o Instituto Brasileiro de Geografia e Estatística (IBGE), de forma simplificada, são consideradas desempregadas as pessoas com idade para trabalhar (acima de 14 anos) que não estão trabalhando, mas que estão disponíveis e tentam encontrar trabalho. Assim, para alguém ser considerado desempregado, é insuficiente não possuir um emprego. Segundo dados do IBGE, a taxa de desemprego entre a população de 18 a 24 anos foi de 25,7% no 3º trimestre de 2019. Esse grupo tem a 2ª maior taxa de desemprego entre as faixas etárias pesquisadas pelo órgão, ficando apenas atrás da população ainda mais jovem, de 14 a 17 anos. Nesse caso, a taxa chegou a 40,6%. A taxa de desemprego no período foi de 10% entre os homens e de 13,9% entre as mulheres. No período, o desemprego entre os que se declaram brancos foi de 9,2%. Já entre os que se declaram pretos foi de 14,9% e de pardos, 13,6%. <https://tinyurl.com/rsspqcs> Acesso em: 21.04.2022. Adaptado. Sobre o desemprego no Brasil e de acordo com o texto, é correto afirmar que a taxa de desemprego é maior",
+      subItens: []
+    },
+    options: ["entre a população de 18 a 24 anos, pois o mercado de trabalho está com baixa atividade econômica e essa faixa etária é composta majoritariamente por pessoas que possuem qualificação profissional.","entre os homens, pois historicamente as pessoas que compõem esse gênero não aceitam serem chefiados por mulheres, uma vez que elas ocupam a maioria dos cargos de chefia nas empresas brasileiras.","entre as mulheres, pois historicamente as pessoas que compõem esse gênero recebem salários maiores do que os dos homens, além de se enquadrarem em jornadas com menos horas de trabalho.","entre os que se declaram pretos, pois, por serem mais escolarizados que os brancos, possuem estabilidade no emprego e maior rede de proteção no sistema de seguridade social.","entre a população de 14 a 17 anos, pois um dos fatores é a exigência do mercado de trabalho por experiências e qualificações na área em que se está procurando emprego."],
+    correctAnswer: 4,
+    materia: "Geografia – População",
+    conteudo: "Geografia – Mercado de Trabalho",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 22,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Leia a reportagem publicada em 21.05.2019.\nSegundo estudo do Instituto Brasileiro de Economia da Fundação Getúlio Vargas, o índice que mede a desigualdade de renda dos brasileiros vem subindo consecutivamente desde 2015, e atingiu em março de 2019 o maior patamar desde o começo da série histórica em 2012. O estudo revela que a variação da renda média acumulada pelos 10% mais pobres apresentou: • aumento de 10% da renda acumulada, no período de 2012 a 2015; e • redução de 20% da renda acumulada, no período de 2016 a março de 2019.\n<https://tinyurl.com/5bh2rp9v> Acesso em: 22.04.2022. Adaptado.\nA partir das informações do texto, assinale a alternativa que apresenta a queda acumulada na variação de renda da população mais pobre, de 2012 a março de 2019.",
+      subItens: []
+    },
+    options: ["10%","11%","12%","13%","14%"],
+    correctAnswer: 2,
+    materia: "Matemática – Porcentagem",
+    conteudo: "Matemática – Variação Percentual",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 23,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "A legislação estabeleceu acessos diferenciados para negros nas escolas, nas praias, nos clubes, nos ônibus, nas universidades e em outros espaços de convivência; classificou os sul-africanos em brancos, mestiços, indianos e negros; proibiu os casamentos inter-raciais. [...] As crianças e os jovens negros recebiam uma educação diferenciada da dos brancos.\nAraribá plus: história. 9. 4ªed. São Paulo: Moderna, 2014, p.197.\nO texto faz referência ao regime de segregação conhecido como",
+      subItens: []
+    },
+    options: ["Apartheid.","Secessão.","Black Power.","Antissemitismo.","Black Lives Matter."],
+    correctAnswer: 0,
+    materia: "História – História Contemporânea",
+    conteudo: "História – Segregação Racial",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 24,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Leia o texto extraído do site do Ministério da Cidadania. O Bolsa Família era um programa da Secretaria Nacional de Renda de Cidadania (Senarc), que contribuiu para o combate à pobreza e à desigualdade no Brasil. Ele foi criado em outubro de 2003 e foi extinto em 2021, sendo substituído pelo Auxílio Brasil. O Bolsa Família possuía três eixos principais: complemento da renda; acesso a direitos; e articulação com outras ações a fim de estimular o desenvolvimento das famílias. Sua gestão era descentralizada, ou seja, tanto a União, quanto os estados, o Distrito Federal e os municípios tinham atribuições em sua execução. Em nível federal, o Ministério da Cidadania era o responsável pelo Programa, e a Caixa Econômica Federal era o agente que executava os pagamentos. <https://tinyurl.com/2p9abjm6> Acesso em: 10.04.2022. Adaptado. Esse programa",
+      subItens: []
+    },
+    options: ["viabilizou a concretização da reforma agrária no país, concedendo microcréditos às famílias que retornaram ao campo.","possibilitou ao Estado ser agente fundamental de redistribuição de renda e estimular o desenvolvimento econômico.","facilitou a criação de novos bancos, em virtude da expansão das agências bancárias autorizadas a pagar o benefício.","motivou a demissão de milhões de trabalhadores urbanos celetistas que preferiam sair de seus empregos para se tornarem beneficiários do programa.","determinou que Organizações Não Governamentais (ONGs) fossem contratadas pelo governo para cadastrar, escolher e remunerar as famílias beneficiadas."],
+    correctAnswer: 1,
+    materia: "Geografia – Geografia Social",
+    conteudo: "Geografia – Políticas Públicas",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 26,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Leia o texto para responder às questões de 26 a 28. Uma noite, há anos, acordei bruscamente e uma estranha pergunta explodiu de minha boca. De que cor eram os olhos de minha mãe? [...] Sempre ao lado de minha mãe, aprendi a conhecê-la. Decifrava o seu silêncio nas horas de dificuldades, como também sabia reconhecer, em seus gestos, prenúncios de possíveis alegrias. Naquele momento, entretanto, me descobria cheia de culpa, por não recordar de que cor seriam os seus olhos. [...] Eu me lembrava de algumas histórias da infância de minha mãe. [...] Às vezes, as histórias de minha mãe confundiam-se com as de minha própria infância. Lembro-me de que muitas vezes, quando a mãe cozinhava, da panela subia cheiro algum. Era como se cozinhasse, ali, apenas o nosso desesperado desejo de alimento. As labaredas, sob a água solitária que fervia na panela cheia de fome, pareciam debochar do vazio do nosso estômago, ignorando nossas bocas infantis em que as línguas brincavam a salivar sonho de comida. E era justamente nesses dias de parco ou nenhum alimento que ela mais brincava com as filhas. Nessas ocasiões a brincadeira preferida era aquela em que a mãe era a Senhora, a Rainha. Ela se assentava em seu trono, um pequeno banquinho de madeira. Felizes, colhíamos flores cultivadas em um pequeno pedaço de terra que circundava o nosso barraco. E foi então que, tomada pelo desespero por não me lembrar de que cor seriam os olhos de minha mãe, naquele momento resolvi deixar tudo e, no dia seguinte, voltar à cidade em que nasci. [...] E quando, após longos dias de viagem para chegar à minha terra, pude contemplar extasiada os olhos de minha mãe, sabem o que vi? Vi só lágrimas e lágrimas. Entretanto, ela sorria feliz. Mas eram tantas lágrimas, que eu me perguntei se minha mãe tinha olhos ou rios caudalosos sobre a face. E só então compreendi. Minha mãe trazia, serenamente em si, águas correntezas. Por isso, prantos e prantos a enfeitar o seu rosto. A cor dos olhos de minha mãe era cor de olhos d'água. [...] Conceição Evaristo, Olhos d'água. Rio de Janeiro: Pallas - Fundação Biblioteca Nacional, 2016. A trajetória de vida da narradora-personagem é marcada pela fome, diante da qual a mãe utilizava brincadeiras para distrair as filhas, gerando no texto uma oposição poética entre a ausência (de alimentos) e a abundância (de imaginação). Assinale a alternativa em que as expressões representam, respectivamente, o contraste exposto.",
+      subItens: []
+    },
+    options: ["“silêncio nas horas” e “cheia de culpa\" (2.º parágrafo)","\"sonho de comida\" e \"flores cultivadas\" (3.º parágrafo)","\"assentava em seu trono” e “cheia de fome\" (3.º parágrafo)","\"cheiro algum” e “mãe era a Senhora, a Rainha\" (3.º parágrafo)","\"flores cultivadas” (3.º parágrafo) e \"rios caudalosos\" (6.º parágrafo)"],
+    correctAnswer: 3,
+    materia: "Língua Portuguesa – Interpretação de Texto",
+    conteudo: "Língua Portuguesa – Recursos Expressivos",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 27,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Para reforçar a metáfora “cor de olhos d'água”, a autora do texto utiliza duas expressões relacionadas às águas: \"rios caudalosos\" e \"águas correntezas”. Essas locuções, além de exprimirem os sentimentos vivenciados pela mãe da narradora, também representam, respectivamente,",
+      subItens: []
+    },
+    options: ["escassez e insignificância.","instabilidade e fraqueza.","desilusão e fartura.","fortaleza e miséria.","abundância e força."],
+    correctAnswer: 4,
+    materia: "Língua Portuguesa – Figuras de Linguagem",
+    conteudo: "Língua Portuguesa – Interpretação de Texto",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 28,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "A personificação é uma figura de linguagem amplamente empregada pela autora, por meio da qual ela dá vida ou traços humanos a objetos inanimados. Assinale a alternativa em que esse recurso é empregado",
+      subItens: []
+    },
+    options: ["Eu me lembrava de algumas histórias da infância de minha mãe.","As labaredas [...] pareciam debochar do vazio de nosso estômago.","...a brincadeira preferida era aquela em que a mãe era a Senhora, a Rainha.","Felizes, colhíamos flores cultivadas...","...pude contemplar extasiada os olhos de minha mãe."],
+    correctAnswer: 1,
+    materia: "Língua Portuguesa – Figuras de Linguagem",
+    conteudo: "",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 30,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Entre os objetivos propostos pela Agenda 2030, destaca-se o de proteger e restaurar ecossistemas relacionados com a água, incluindo montanhas, florestas, zonas úmidas, rios, aquíferos e lagos. Como exemplos de áreas úmidas, destacam-se: charcos, várzeas, rios, estuários, toda a extensão de pântanos, manguezais, os recifes de coral e a maior planície alagável do planeta, partilhada por três países - Brasil, Paraguai e Bolívia – o Pantanal. A fim de conservar melhor o Pantanal, devem-se compreender melhor as riquezas e potencialidades dessa área de planície alagável. Sobre esse bioma, assinale a alternativa correta.",
+      subItens: []
+    },
+    options: ["Apresenta vegetação constituída predominantemente por gramíneas e fauna de vertebrados formada principalmente por roedores, como hamsters e marmotas, além de carnívoros, como coiotes e alces.","Apesar de estarem em solo encharcado, as plantas desse bioma não absorvem água com eficiência devido às constantes temperaturas do solo abaixo de 5 °C e sofrem com a desidratação, processo chamado de seca fisiológica.","Ocupa cerca de 10% do território brasileiro, estendendo-se principalmente pelos estados de Sergipe, Alagoas, Bahia e pelo norte de Minas Gerais. Entre as espécies vegetais, apresenta o pau-brasil, orquídeas e samambaias. A fauna se destaca pela presença do mico-leão-dourado, onças, guepardos e raposas.","Localiza-se na faixa equatorial do planeta, com fauna rica e abundante. A vegetação apresenta árvores de grande porte, cujas copas mais altas formam um \"teto” de vegetação, sob o qual existe um patamar interno, formado pelas copas de árvores mais baixas.","Apresenta elevada biodiversidade, em que a fauna de vertebrados abunda, no meio aquático, em peixes, e no meio terrestre, em aves, capivaras, antas, onças, jacarés e serpentes. A flora é principalmente constituída por ervas, arbustos e árvores diversas, como palmeiras, ipês e aroeiras."],
+    correctAnswer: 4,
+    materia: "Biologia – Ecologia",
+    conteudo: "Biologia – Biomas Brasileiros",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 31,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "A prática da Produção mais Limpa (P+L) contribui para o avanço no caminho da sustentabilidade. Em relação aos processos de produção, a P+L orienta para a economia de matéria-prima e energia, para a eliminação do uso de materiais tóxicos e para a redução nas quantidades e toxicidade dos resíduos e emissões. Hoje, no entanto, constata-se que uma mudança de patamar se faz necessária: a mudança para o patamar do Consumo mais Limpo. A busca pela minimização dos impactos ambientais deve incluir, obrigatoriamente, o percurso dos produtos a partir de sua produção. A trajetória dos produtos, desde a extração dos recursos naturais necessários à sua produção, passando por todos os elos da cadeia produtiva e seguindo pela distribuição, comercialização, uso e destinação final é denominada de Ciclo de Vida dos Produtos. <https://tinyurl.com/recsu5q> Acesso em: 10.04.2022. Adaptado. De acordo com o texto, é correto afirmar que",
+      subItens: []
+    },
+    options: ["o fim dos impactos ambientais ocorrerá no momento em que o percurso dos produtos a partir de sua produção for monitorado pela sociedade.","o rumo a ser seguido para atingirmos a sustentabilidade passa pela utilização dos combustíveis fósseis e sem a utilização de energia nuclear.","o ciclo da vida dos produtos é a redução do uso de materiais tóxicos e a eliminação, pela queima, de todos os resíduos gerados pelos sistemas produtivos.","a diretriz escolhida na busca pela sustentabilidade passa obrigatoriamente pela desassociação entre produção mais limpa e consumo mais limpo, pois são ações divergentes.","a redução dos impactos ambientais implica buscar a diminuição e mesmo a eliminação de processos nocivos ao meio ambiente, da extração da matéria-prima ao uso e ao descarte final de objetos."],
+    correctAnswer: 4,
+    materia: "Geografia – Sustentabilidade",
+    conteudo: "Geografia – Impactos Ambientais",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 32,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Leia o texto para responder as questões 32 e 33. O ODS 7 evoca a necessidade de se pensar em Energia Limpa e Acessível, assegurando o acesso confiável, sustentável e moderno. Há pouco tempo circulou nas mídias sociais uma fake news de que um grande empresário havia encomendado uma embarcação de luxo movida a hidrogênio. O projeto de fato existia, mas não tinha relação com o empresário.\n[Boxed text: O conceito base do projeto chamou atenção por contar com tecnologias que combinam hidrogênio e oxigênio para produzir eletricidade e água, assim evitando a queima de carvão e madeira para alimentar a embarcação. A embarcação conta com 112 m de comprimento, espaço para 14 convidados e 31 tripulantes. Possui dois tanques de 28 toneladas cada, selados a vácuo, com hidrogênio líquido resfriado a -253 °C. Quando for entregue, a embarcação vai atingir 17 nós de velocidade e viajar por 3750 milhas náuticas, cerca de 6945 km. <https://tinyurl.com/trf807x> Acesso em: 10.04.2022. Adaptado.]\nSabendo que “1 nó” equivale a “1 milha náutica por hora\", podemos determinar que a embarcação citada no texto vai atingir, em km/h, a velocidade aproximada de",
+      subItens: []
+    },
+    options: ["408.","220.","31.","17.","2."],
+    correctAnswer: 2,
+    materia: "Física – Cinemática",
+    conteudo: "Física – Unidades de Medida",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 33,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "De acordo com o texto, o hidrogênio é resfriado à temperatura de",
+      subItens: []
+    },
+    options: ["zero absoluto.","20 K acima do zero absoluto.","20 K abaixo do zero absoluto.","526 K acima do zero absoluto.","526 K abaixo do zero absoluto."],
+    correctAnswer: 1,
+    materia: "Física – Termodinâmica",
+    conteudo: "Física – Temperatura",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 34,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Na Austrália a temporada de incêndios florestais de 2019 começou em setembro. As florestas daquele país enfrentaram queimadas sem precedentes. Quase 8 milhões de hectares foram queimados e cerca de 500 milhões de animais morreram. Um mês antes, em agosto, a Amazônia enfrentou um dos maiores índices de queimadas já registrados. Mas os casos não são similares. Apesar da gravidade e dos riscos para a população e para os animais, a vegetação da Austrália é mais acostumada com o fogo e se adapta mais rápido. Além disso, os incêndios são naturais e se espalham pela floresta seca. Na Amazônia, as plantas não têm adaptação ao fogo e a floresta úmida só queima se alguém colocar fogo. As mudanças climáticas facilitaram as condições para o fogo se expandir. <https://tinyurl.com/2p8dmtm8> Acesso em: 19.04.2022. Adaptado. De acordo com o texto, é correto afirmar que",
+      subItens: []
+    },
+    options: ["as altas temperaturas verificadas tanto na Amazônia quanto na Austrália foram as causas dos incêndios em ambas as matas.","tanto a floresta amazônica quanto as florestas australianas são acostumadas com o fogo e, portanto, poderão se regenerar rapidamente.","as mudanças climáticas contribuíram para a propagação dos incêndios em áreas florestais da Amazônia e da Austrália, apesar de as causas das queimadas não serem semelhantes.","a queimada na Amazônia ocorreu pelo aumento do processo de desertificação a que essa área está exposta, diferentemente da Austrália, país de clima frio, onde não existem desertos.","as florestas australianas, por serem úmidas, não pegam fogo de maneira espontânea, diferentemente da floresta amazônica que, em função do tempo seco, fica exposta a queimadas naturais."],
+    correctAnswer: 2,
+    materia: "Geografia – Meio Ambiente",
+    conteudo: "Geografia – Biomas",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 35,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "A reciclagem terciária é a aplicação de processos químicos para quebrar os polímeros constituintes dos plásticos de modo a obter moléculas menores, os monômeros. Esse processo permite que o material, que antes era inutilizável, possa ser polimerizado para ser utilizado na fabricação de novos materiais. Um dos processos utilizados na reciclagem terciária de polímeros como o policloreto de vinila (PVC) é a pirólise (decomposição pelo calor). A pirólise do PVC libera ácido clorídrico, HCl (reação 1).\nReação 1 PVC → HCl + C2H4\nEm seguida, o HCl gerado passa por um filtro onde é absorvido pelo hidróxido de cálcio, formando o cloreto de cálcio, X (reação 2).\nReação 2 2 HCl + Ca(OH)2 → 2H2O + X\nO nome do composto orgânico formado na reação 1 e a fórmula do composto X produzido na reação 2 são, respectivamente,",
+      subItens: []
+    },
+    options: ["etino CaCl2","etino ClCa","eteno Cl2Ca","eteno CaCl","eteno CaCl2"],
+    correctAnswer: 4,
+    materia: "Química – Química Orgânica",
+    conteudo: "Química – Reações Químicas",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 36,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Leia o texto para responder as questões 36 e 37. Os plásticos são insolúveis em água e apresentam baixo potencial de degradação. Os ecossistemas marinhos correm o risco de sofrer danos irreparáveis em decorrência de milhões de toneladas de resíduos de plásticos que, descartados de forma incorreta, vão parar no mar todos os anos, A aglomeração dessa grande quantidade de resíduos plásticos forma as chamadas \"ilhas de plástico” ou “grandes ilhas de lixo\". Pesquisas demonstram que o plástico, no ambiente marinho, sofre ações do meio (sol, altas temperaturas, diferentes níveis de oxigênio, energia das ondas e presença de fatores abrasivos, como areia, cascalho ou rocha), fragmenta-se e passa a ter aparência de alimento para muitos dos animais marinhos e se inalados ou ingeridos bloqueiam as vias respiratórias e a passagem de alimento pelo estômago de várias espécies, podendo, em consequência, causar a morte e interferir na reprodução. <https://tinyurl.com/t9z9yby> Acesso em: 22.0.2022. Adaptado. Acerca das informações relacionadas ao tema tratado no texto, assinale a alternativa correta.",
+      subItens: []
+    },
+    options: ["As \"grandes ilhas de lixo\" constituem-se como a forma adequada para a coleta, reciclagem e tratamento do lixo plástico dos oceanos.","A poluição causada pelo lançamento de resíduos plásticos nos oceanos pode causar o fenômeno conhecido como maré vermelha, devido ao aumento dos decompositores nas teias alimentares.","As áreas oceânicas conhecidas como \"ilhas de lixo” são regiões de intensa degradação dos resíduos plásticos, devido à grande quantidade de bactérias decompositoras anaeróbicas e à falta do gás oxigênio.","As pesquisas demonstram que os resíduos plásticos lançados aos oceanos, ao sofrerem a ação das correntes marinhas, das variações de salinidade, de pressão, de temperatura e de atrito, em um intervalo de tempo médio, não prejudicam mais os ecossistemas.","Em meio marinho, os plásticos apresentam inúmeras ameaças ecológicas, como a inibição da capacidade reprodutiva dos animais, o bloqueio do trato digestório daqueles que ingerem esses plásticos e a transferência de poluentes para a cadeia alimentar."],
+    correctAnswer: 4,
+    materia: "Biologia – Impactos Ambientais",
+    conteudo: "Biologia – Poluição Marinha",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 37,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Sobre a degradação do material descrito no texto, é correto afirmar que",
+      subItens: []
+    },
+    options: ["ela independe de fatores ambientais, tais como: umidade, temperatura, disponibilidade de oxigênio e luminosidade.","ela ocorre intensamente nas \"grandes ilhas de lixo\" encontradas nos oceanos, devido à falta de matéria orgânica desses locais.","as bactérias e os fungos decompositores possuem enzimas específicas para transformar rapidamente a matéria mineral em orgânica.","os materiais resistentes à biodegradação, quando descartados incorretamente, representam um grande desafio da gestão ambiental contemporânea.","os resíduos de plásticos após se fragmentarem nos oceanos são benéficos nos processos respiratórios e reprodutivos de muitos animais marinhos, pois são facilmente digeridos."],
+    correctAnswer: 3,
+    materia: "Biologia – Ecologia",
+    conteudo: "Biologia – Degradação de Materiais",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 38,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Em 2020 no Brasil, 97% das pessoas com idade entre 7 e 14 anos estavam matriculadas na escola. O restante, correspondente a 1,5 milhão de pessoas com essa idade escolar, estava fora da sala de aula. <https://tinyurl.com/tfs6qgm> Acesso em: 22.04.2022. Adaptado. Segundo os dados apresentados, em 2020, o número de pessoas com idade entre 7 e 14 anos que estavam matriculadas na escola, em milhões, era",
+      subItens: []
+    },
+    options: ["48,5.","45,3.","43,5.","42,7.","40,5."],
+    correctAnswer: 0,
+    materia: "Matemática – Porcentagem",
+    conteudo: "Matemática – Regra de Três",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 39,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Com o intuito de diminuir significativamente a geração de resíduos, têm-se estimulado a redução de consumo, a reciclagem e o reuso de dispositivos eletrônicos. Atualmente, um dos grandes vilões do meio ambiente é o descarte de baterias. Apesar da criação das baterias recarregáveis, o problema ainda persiste. Esse é um dos motivos pelo qual a produção em larga escala de carros elétricos tem sofrido resistência. Devido a essa necessidade de diminuição de resíduos, as indústrias têm investido no sentido de ampliar a durabilidade e a capacidade de operação dessas baterias. Uma das grandezas físicas utilizada para aferir a capacidade dessas baterias tem como unidade de medida “A·h”. É correto afirmar que essa unidade de medida se refere à grandeza física",
+      subItens: []
+    },
+    options: ["carga elétrica.","corrente elétrica.","potencial elétrico.","resistência elétrica.","capacitância elétrica."],
+    correctAnswer: 0,
+    materia: "Física – Eletricidade",
+    conteudo: "Física – Grandezas Físicas",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 41,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Leia o texto para responder as questões 41 e 42. Em todo o mundo, 1,3 bilhão de toneladas de alimentos, cerca de um terço do que é produzido, é desperdiçado ou perdido por ano. Esses alimentos que seriam descartados podem ser aproveitados nos biodigestores. Biodigestor é um compartimento fechado onde ocorre decomposição de matéria orgânica, produzindo o biogás (metano) que pode ser utilizado para a produção de energia. Nos biodigestores, ocorre a fermentação da Matéria Orgânica (MO) por microrganismos sem a presença de oxigênio com liberação de energia e de gases tais como CH4, H2, H2S, CO2, NH3, N2 e H2O. De acordo com o texto, a equação química simplificada que descreve a fermentação ocorrida nos biodigestores é",
+      subItens: []
+    },
+    options: ["MO + energia → CH4 + H2 + H2S + CO2 + NH3 + N2 + H2O","MO + O2 + energia → CH4 + H2 + H2S + CO2 + NH3 + N2 + H2O","MO → CH4 + H2 + H2S + CO2 + NH3 + N2 + H2O + energia","MO + O2 → CH4 + H2 + H2S + CO2 + NH3 + N2 + H2O + energia","MO + energia CH4 + H2 + H2S + CO2 + NH3 + N2 + H2O + O2"],
+    correctAnswer: 2,
+    materia: "Química – Reações Químicas",
+    conteudo: "Química – Biogás",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 42,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Um grupo de alunos construiu um biodigestor a partir de garrafas de polietileno tereftalato (PET) e galões de água para reaproveitar resíduos alimentares da escola. No entanto, após uma semana, não observavam formação de biogás como era esperado. Para melhorar a eficiência do biodigestor, os alunos decidiram fazer uma adaptação no gerador de biogás. O biodigestor foi envolvido com saco plástico preto e exposto à radiação solar. Com essa configuração, após dois dias, foram observadas as primeiras bolhas. Com base na adaptação feita pelos alunos, é correto afirmar que o fator cinético que contribuiu para aumentar a velocidade das reações que ocorreram no biodigestor foi a",
+      subItens: []
+    },
+    options: ["luz.","umidade.","temperatura.","forma do recipiente.","área da superfície do gerador."],
+    correctAnswer: 2,
+    materia: "Química – Cinética Química",
+    conteudo: "Química – Fatores que Afetam a Velocidade das Reações",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 43,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Internet, telefone celular e computador pessoal impactaram profundamente diferentes sociedades a partir do último quartel do século XX. Essas inovações são produto de um processo de desenvolvimento tecnológico que se iniciou após a Segunda Guerra Mundial e se estende até os dias de hoje. Esse processo é chamado, pelos estudiosos, de Terceira Revolução Industrial. Entretanto, a parceria entre ciência, técnica e indústria remonta ao século XIX, período em que ocorreu a chamada Segunda Revolução Industrial, que é marcada pela invenção",
+      subItens: []
+    },
+    options: ["do satélite e da bússola.","do gramofone e da luneta.","do rádio e do sistema GPS.","do automóvel e do telefone.","do tear manual e da imprensa."],
+    correctAnswer: 3,
+    materia: "História – Revolução Industrial",
+    conteudo: "",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 45,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Leia as informações publicadas em 23.10.2019 no site da World Economic Forum. In terms of wealth per adult, the biggest winners were in Switzerland in the period 2018-2019, with a growth of $17,790. Australia was at the other end of the scale, with losses of $ 28,670 per adult, largely down to exchange rate effects. Australia lost 124,000 millionaires following a fall in average wealth, and was the only country recording a drop of more than 2% in house prices (-6%).\n[Gráfico de barras intitulado \"Figure 2: Change in wealth per adult 2018-19, biggest gains and losses\" mostrando ganhos (em USD) para Suíça, Estados Unidos, Japão, Holanda, Nova Zelândia, Cingapura, Israel, Canadá, Espanha e perdas para Austrália, Bélgica, Turquia, Noruega].\nConsiderando as informações dadas sobre as riquezas de indivíduos entre 2018 e 2019, é correto afirmar que",
+      subItens: []
+    },
+    options: ["124 000 australianos se tornaram milionários no período pré-pandemia.","a Suíça foi o único país que apresentou queda nos preços das residências.","Suécia e Estados Unidos da América são os países com melhores rendimentos per capita.","nos dois países da Oceania mencionados no gráfico, os cidadãos perderam renda.","Japão e Países Baixos apresentam dados de ganhos semelhantes."],
+    correctAnswer: 4,
+    materia: "Inglês – Interpretação de Texto e Gráfico",
+    conteudo: "",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 47,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Uma pessoa, com 95 kg de massa, preocupada com sua saúde, resolveu procurar um médico especialista que lhe receitou uma dieta para emagrecimento saudável. No primeiro trimestre, ela conseguiu reduzir 14 kg. A partir daí, a cada trimestre ela percebe que só consegue reduzir metade da massa reduzida no trimestre anterior. Suponha que essa dieta seja a única maneira para ela reduzir sua massa e que seja mantida indefinidamente. Assim sendo, mantendo os parâmetros de redução de massa apresentados, sua massa se aproximará cada vez mais de\nLembre-se de que:\nSoma S dos infinitos termos de uma Progressão Geométrica: S = a₁ / (1-q), em que a₁ é o termo inicial e q é a razão da sequência",
+      subItens: []
+    },
+    options: ["55 kg.","60 kg.","62 kg.","67 kg.","70 kg."],
+    correctAnswer: 3,
+    materia: "Matemática – Progressão Geométrica",
+    conteudo: "Matemática – Sequências Numéricas",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 48,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Apesar da 1ª pessoa a ganhar dois prêmios Nóbeis (e em áreas distintas) ter sido uma mulher, até hoje o ODS 5 nos mostra que a Igualdade de Gênero é algo ainda a se alcançar. Em 1903, o casal Marie e Pierre Curie foi laureado com o Prêmio Nobel de Física por suas pesquisas com Radioatividade (termo criado por eles) devido à descoberta dos elementos rádio e polônio. Além deles, outro casal, Frédéric e Iréne Joliot-Curie (filha do casal Curie), também foi laureado com o Nobel, mas de Química, em 1935. De uma maneira sintética, podemos definir o fenômeno científico citado no texto como a ação de",
+      subItens: []
+    },
+    options: ["núcleos instáveis os quais emitem partículas e radiação eletromagnética.","prótons instáveis os quais emitem subpartículas e radiação eletromagnética.","elétrons instáveis os quais emitem subpartículas e radiação eletromagnética.","pósitrons instáveis os quais emitem partículas e não radiação eletromagnética.","nêutrons instáveis os quais emitem subpartículas e não radiação eletromagnética."],
+    correctAnswer: 0,
+    materia: "Física – Física Moderna",
+    conteudo: "Física – Radioatividade",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 49,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Leia a resenha sobre o filme Radioactive para responder às questões 49 e 50. Radioactive Review Director Marjane Satrapi has made a stuffy and patronising drama that does a great disservice to its undeniably fascinating subject ... As of late, it appears that large sectors of the entertainment industry have joined in a nobly intended yet poorly executed project to promote an increased female presence in Stem fields. Call it the Hidden Figures effect if you like, but an increasing number of releases have featured girls and women exploring science and technology. While the real world would be undeniably bettered by gender parity in laboratories and other workplaces, this small movement has made for some frightfully bad art. The messaging errs without exception on the side of the heavy-handed, and characterization often suffers from an imperative to shape a human being into an exemplar of model behavior. When combined, entertainment and moral instruction can have disastrously unstable reactions. <https://tinyurl.com/rysbdux> Acesso em: 20.04.2022. Adaptado. GLOSSÁRIO: stuffy: chata, patronizing: paternalista, Hidden Figures (filme): Estrelas Além do Tempo. De acordo com a resenha, o filme Radioactive obteve crítica negativa, pois",
+      subItens: []
+    },
+    options: ["sua diretora comete erros científicos e força uma temática feminista.","apresenta uma produção enfadonha, apesar do tema fascinante.","sua diretora apela para um drama moralista e ultrapassado.","valoriza a participação das mulheres nas ciências.","incentiva a paridade de gêneros nos laboratórios."],
+    correctAnswer: 1,
+    materia: "Inglês – Interpretação de Texto",
+    conteudo: "",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 50,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "A resenha aponta para o crescente número de",
+      subItens: []
+    },
+    options: ["filmes que são patrocinados por corporações comerciais.","mulheres na direção de filmes na indústria cinematográfica.","produções sobre mulheres que se destacam nas áreas científicas.","erros nas representações de conceitos científicos.","filmes com teor moralista e patronal."],
+    correctAnswer: 2,
+    materia: "Inglês – Interpretação de Texto",
+    conteudo: "",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 52,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Durante a Revolução Francesa, muitas mulheres reivindicaram direitos civis e cidadania política, participaram de protestos e reuniões da Assembleia Nacional e criaram mais de 60 associações femininas, nas quais eram discutidas as principais questões políticas da época. Entretanto, o desenrolar da Revolução evidenciou uma contradição entre os princípios de Liberdade, Igualdade e Fraternidade, e a legislação que instituiu os direitos dos diferentes grupos sociais. No caso das mulheres, essa contradição se expressa",
+      subItens: []
+    },
+    options: ["pela equiparação aos escravizados das colônias francesas, que fez com que esses dois grupos passassem a ter mais direitos que os demais.","pela promulgação da Declaração dos Direitos da Mulher, que assegurou a superioridade feminina em relação aos homens.","pela institucionalização do dia 8 de março e, ao mesmo tempo, pela equiparação salarial em relação aos homens.","pela participação das meninas na vida pública e pela abolição do trabalho doméstico para as mulheres.","pela conquista de direitos como o divórcio e, ao mesmo tempo, pela proibição da participação política."],
+    correctAnswer: 4,
+    materia: "História – Revolução Francesa",
+    conteudo: "História – Direitos da Mulher",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 53,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Leia o texto para responder às questões 53 e 54. Em 12 de julho de 2013, Malala Yousafzai discursou durante uma reunião dos jovens líderes na Assembleia Geral da ONU, em Nova Iorque. \"Queridos irmãos e irmãs, [...] aqui estou eu, uma menina, entre tantas. Eu falo não por mim, mas por aqueles cujas vozes não podem ser ouvidas. Por aqueles que têm lutado por seus direitos. O seu direito de viver em paz. O seu direito de ser tratado com dignidade. O seu direito à igualdade de oportunidades. O seu direito à educação. Nós percebemos a importância da luz quando vemos a escuridão. Percebemos a importância da nossa voz quando somos silenciados. O sábio ditado que diz “A caneta é mais poderosa que a espada” é verdadeiro. Os extremistas têm medo dos livros e das canetas. O poder da educação os assusta e eles têm medo das mulheres. O poder da voz das mulheres os apavora. [...] Hoje eu estou focando nos direitos das mulheres e na educação das meninas porque elas são as que mais sofrem. Houve um tempo em que as ativistas mulheres pediam aos homens para defender seus direitos. Mas desta vez, nós vamos fazer isto por conta própria. Eu não estou dizendo para os homens não falarem mais dos direitos das mulheres, mas estou focando na ideia das mulheres serem independentes e lutarem por si mesmas. ... Queridos irmãos e irmãs, queremos escolas e educação para o futuro brilhante de todas as crianças. Vamos continuar a nossa jornada para o nosso destino de paz e educação. Nós acreditamos no poder e na força de nossas palavras. [...] Queridos irmãos e irmãs, nós não podemos nos esquecer de que milhões de pessoas estão sofrendo com a pobreza, a injustiça e a ignorância. Nós não devemos nos esquecer de que milhões de crianças estão fora da escola. Deixem-nos, portanto, travar uma luta gloriosa contra o analfabetismo, a pobreza e o terrorismo. Deixem-nos pegar nossos livros e canetas porque estas são as nossas armas mais poderosas. Uma criança, um professor, um livro e uma caneta podem mudar o mundo.\" <https://tinyurl.com/s7n3xuj> Acesso em: 21.04.2022. Adaptado. Após a leitura atenta do discurso, percebe-se que o texto desenvolvido tem por objetivo",
+      subItens: []
+    },
+    options: ["relatar o cotidiano de jovens mulheres que lutam pela igualdade de gênero em Nova Iorque.","convencer os homens a abdicarem do direito das mulheres à independência e à educação.","denunciar a violência de professores contrários aos extremistas que lutam pela igualdade de gênero.","mobilizar a sociedade, principalmente as mulheres, a lutar pelo direito à educação e ao conhecimento.","enaltecer os esforços desempenhados por grandes lideranças mundiais a favor da universalização da saúde."],
+    correctAnswer: 3,
+    materia: "Língua Portuguesa – Interpretação de Texto",
+    conteudo: "Língua Portuguesa – Gênero Discursivo",
+    imageNames: []
+  }),
+
+createQuestion({
+    id: 54,
+    university: "Vestibular",
+    year: 2022,
+    text: {
+      principal: "Ocorre, no texto, a repetição da expressão \"queridos irmãos e irmãs\". O frequente uso dessa expressão, além de identificar os seus interlocutores, expressa",
+      subItens: []
+    },
+    options: ["respeito, pois o contexto formal de comunicação impõe o uso do tratamento coloquial utilizado.","afetividade, uma vez que qualquer contexto comunicativo impõe o uso formal de pronomes de tratamento.","ironia da enunciadora, que, mesmo diante da formalidade do contexto, opta pelo tratamento informal e cômico.","proximidade, pois, embora o contexto seja formal, ela utiliza um tratamento afetivo para sugerir familiaridade.","desenvoltura da enunciadora, que, mesmo reconhecendo a formalidade do discurso, opta por se distanciar do público alvo."],
+    correctAnswer: 3,
+    materia: "Língua Portuguesa – Elementos da Comunicação",
+    conteudo: "Língua Portuguesa – Linguagem Formal e Informal",
+    imageNames: []
+  }),
