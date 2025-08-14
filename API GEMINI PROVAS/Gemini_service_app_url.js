@@ -96,7 +96,7 @@ Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes in
 - Análise Geral da Prova: O nome da Universidade/Prova, o ano e a quantidade total de questões.
 - Para cada questão:
   - O número da questão.
-  - O enunciado completo, incluindo qualquer texto associado a imagens, gráficos ou tabelas.
+  - O enunciado completo da questão. Textos de apoio devem ser incluídos, e o tratamento de elementos especiais deve seguir as regras abaixo.
   - A lista de todas as alternativas (A, B, C, D, E).
   - A letra da alternativa correta, que deve ser extraída do arquivo de gabarito.
   - O(s) conteúdo(s) abordados na questão no formato: "Disciplina – Tópico Específico" (exemplo: "Matemática – Funções do 1º grau").
