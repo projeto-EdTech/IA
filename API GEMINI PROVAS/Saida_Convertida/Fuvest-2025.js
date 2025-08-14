@@ -1345,4 +1345,4 @@ createQuestion({
     materia: "Arte – Música Brasileira",
     conteudo: "História – Estado Novo",
     imageNames: []
-  }),
+  })
