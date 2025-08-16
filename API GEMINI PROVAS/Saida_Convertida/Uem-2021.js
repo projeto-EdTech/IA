@@ -1431,7 +1431,7 @@ createQuestion({
       principal: "O taxol, uma substância de origem natural, é o insumo farmacêutico ativo (IFA) do medicamento paclitaxel, utilizado no tratamento do câncer. Essa substância é obtida da casca de uma árvore conhecida como Teixo do Pacífico. Para a extração de 1kg de taxol são necessárias, em média, três mil árvores. Além disso, para o tratamento de um único paciente são necessárias seis árvores de 100 anos. Assim, para cobrir a demanda mundial, o taxol passou a ser produzido em laboratório. Com base na sua estrutura química a seguir, assinale o que for correto.\n[IMAGEM da estrutura química do taxol]",
       subItens: []
     },
-    options: ["O taxol possui 12 carbonos quirais em sua estrutura química.","Os grupos funcionais amida, álcool, éster, cetona e éter estão presentes na estrutura do taxol.","A estrutura do taxol pode ser classificada como cíclica.","A estrutura do taxol apresenta 3 álcoois secundários e 1 amida primária.","O número de ligações \pi presentes na estrutura do taxol é igual a 16."],
+    options: ["O taxol possui 12 carbonos quirais em sua estrutura química.","Os grupos funcionais amida, álcool, éster, cetona e éter estão presentes na estrutura do taxol.","A estrutura do taxol pode ser classificada como cíclica.","A estrutura do taxol apresenta 3 álcoois secundários e 1 amida primária.","O número de ligações $\pi$ presentes na estrutura do taxol é igual a 16."],
     correctAnswer: null,
     materia: "Química – Química Orgânica",
     conteudo: "",

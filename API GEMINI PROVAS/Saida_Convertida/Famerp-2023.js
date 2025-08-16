@@ -396,7 +396,7 @@ createQuestion({
       principal: "Observe a foto, que mostra a Avenida Central, no Rio de Janeiro, em 1905.\n(Foto da Avenida Central, Rio de Janeiro, 1905)\n(In: Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2018.)\nA imagem mostra dois aspectos importantes do processo de reurbanização da Capital brasileira, desenvolvido na primeira década do século XX:",
       subItens: []
     },
-    options: ["a redução das desigualdades sociais e a melhoria das condições de higiene e de moradia da população tra- balhadora.","a verticalização das edificações e a adoção dos modelos urbanísticos das principais metrópoles norte-americanas.","a ampliação da facilidade de circulação de pessoas e mercadorias e a constituição de espaços de sociabili- dade burguesa.","a modernização e o alargamento do porto e a permissão de ocupação dos morros pela população pobre da cidade.","a implantação de sistema de iluminação pública por lam- \piões e a criação do sistema de bondes de tração animal."],
+    options: ["a redução das desigualdades sociais e a melhoria das condições de higiene e de moradia da população tra- balhadora.","a verticalização das edificações e a adoção dos modelos urbanísticos das principais metrópoles norte-americanas.","a ampliação da facilidade de circulação de pessoas e mercadorias e a constituição de espaços de sociabili- dade burguesa.","a modernização e o alargamento do porto e a permissão de ocupação dos morros pela população pobre da cidade.","a implantação de sistema de iluminação pública por lam- $\pi$ões e a criação do sistema de bondes de tração animal."],
     correctAnswer: 2,
     materia: "História – Primeira República",
     conteudo: "Geografia – Urbanização",

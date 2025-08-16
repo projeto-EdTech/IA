@@ -1131,7 +1131,7 @@ createQuestion({
       principal: "76 - Su Marco, il primo personaggio descritto nel testo, possiamo dire che:\n\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
       subItens: []
     },
-    options: ["ha avuto difficoltà a pubblicare i suoi articoli negli ultimi anni.","non vuole \più lavorare come giornalista freelance.","non trova l'ispirazione per scrivere nuovi articoli.","non riesce \più a mantenere l'appartamento e va a vivere dalla madre.","lavora da Airbnb e guadagna circa 30 mila euro al mese."],
+    options: ["ha avuto difficoltà a pubblicare i suoi articoli negli ultimi anni.","non vuole $\pi$ù lavorare come giornalista freelance.","non trova l'ispirazione per scrivere nuovi articoli.","non riesce $\pi$ù a mantenere l'appartamento e va a vivere dalla madre.","lavora da Airbnb e guadagna circa 30 mila euro al mese."],
     correctAnswer: 3,
     materia: "Italiano – Compreensão de Texto",
     conteudo: "",

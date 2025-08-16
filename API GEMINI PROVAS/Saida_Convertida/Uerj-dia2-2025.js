@@ -498,7 +498,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "No \pião representado a seguir, VAB é a seção meridiana de um cone circular reto, e a geratriz do\ncone mede 12 cm. Assim, VA = VB = 12 cm e AB é o diâmetro da base do cone.\nAo ser lançado, esse \pião cai sobre o plano horizontal e rola, sem deslizar, com a sua geratriz\napoiada nesse plano. O \pião dá apenas uma volta completa em torno do seu eixo, descrevendo o\nsetor circular AVP de centro V e ângulo central de 120°.\n(Image of a cone and its flattened sector)\nA medida do diâmetro AB, em centímetros, é igual a:",
+      principal: "No $\pi$ão representado a seguir, VAB é a seção meridiana de um cone circular reto, e a geratriz do\ncone mede 12 cm. Assim, VA = VB = 12 cm e AB é o diâmetro da base do cone.\nAo ser lançado, esse $\pi$ão cai sobre o plano horizontal e rola, sem deslizar, com a sua geratriz\napoiada nesse plano. O $\pi$ão dá apenas uma volta completa em torno do seu eixo, descrevendo o\nsetor circular AVP de centro V e ângulo central de 120°.\n(Image of a cone and its flattened sector)\nA medida do diâmetro AB, em centímetros, é igual a:",
       subItens: []
     },
     options: ["6","8","10","12"],

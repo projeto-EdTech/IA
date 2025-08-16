@@ -138,7 +138,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "Física\nColho esta luz solar à minha volta,\nNo meu prisma a disperso e recomponho:\nRumor de sete cores, silêncio branco.\nJOSÉ SARAMAGO\n\nNa imagem a seguir, o triângulo ABC representa uma seção plana paralela à base de um prisma reto. As retas n e n' são perpendiculares aos lados AC e AB, respectivamente, e BẬC = 80°.\n[IMAGE: Triangle ABC with perpendicular lines n and n' and angle \theta]\nA medida do ângulo θ entre n e n' é:",
+      principal: "Física\nColho esta luz solar à minha volta,\nNo meu prisma a disperso e recomponho:\nRumor de sete cores, silêncio branco.\nJOSÉ SARAMAGO\n\nNa imagem a seguir, o triângulo ABC representa uma seção plana paralela à base de um prisma reto. As retas n e n' são perpendiculares aos lados AC e AB, respectivamente, e BẬC = 80°.\n[IMAGE: Triangle ABC with perpendicular lines n and n' and angle $\theta$]\nA medida do ângulo θ entre n e n' é:",
       subItens: []
     },
     options: ["90°","100°","110°","120°"],

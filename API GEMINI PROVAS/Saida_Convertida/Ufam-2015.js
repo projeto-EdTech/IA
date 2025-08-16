@@ -93,7 +93,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "Para dizerem milho dizem mio\nPara melhor dizem mió\nPara pior \pió\nPara telha dizem teia\nPara telhado dizem teiado\nE vão fazendo telhados\nO poema acima é \"Vício na fala\", do escritor modernista Oswald de Andrade. Nele, observa-se que Oswald trabalha com a seguinte variação linguística:",
+      principal: "Para dizerem milho dizem mio\nPara melhor dizem mió\nPara pior $\pi$ó\nPara telha dizem teia\nPara telhado dizem teiado\nE vão fazendo telhados\nO poema acima é \"Vício na fala\", do escritor modernista Oswald de Andrade. Nele, observa-se que Oswald trabalha com a seguinte variação linguística:",
       subItens: []
     },
     options: ["norma padrão","jargão profissional","dialeto paulista","linguajar caipira","gíria de camponeses"],

@@ -351,7 +351,7 @@ createQuestion({
       principal: "A noz-moscada é uma especiaria originária das ilhas Molucas na Indonésia, sendo utilizada até hoje na culinária, indústria farmacêutica e perfumaria. O seu princípio ativo é uma mistura de óleos essenciais, dentre eles, destacam-se a miristicina, o citral e o borneol, cujas fórmulas estruturais estão representadas abaixo.\n[Imagem: Estruturas químicas da Miristicina, Citral e Borneol]\nA respeito dos óleos essenciais acima é correto afirmar que",
       subItens: []
     },
-    options: ["os grupos funcionais presentes na miristicina, no citral e no borneol, são respectivamente, éter, cetona e álcool.","as três estruturas apresentam pelo menos um átomo de carbono terciário.","a miristicina apresenta isomeria geométrica cis/trans.","o citral apresenta ligações \pi ressonantes com uma carboxila.","o borneol é um álcool alifático acíclico."],
+    options: ["os grupos funcionais presentes na miristicina, no citral e no borneol, são respectivamente, éter, cetona e álcool.","as três estruturas apresentam pelo menos um átomo de carbono terciário.","a miristicina apresenta isomeria geométrica cis/trans.","o citral apresenta ligações $\pi$ ressonantes com uma carboxila.","o borneol é um álcool alifático acíclico."],
     correctAnswer: 1,
     materia: "Química – Química Orgânica (Funções Orgânicas)",
     conteudo: "Química – Nomenclatura e Propriedades",

@@ -44,7 +44,11 @@ function formatarFormulasLatex(texto) {
     }],
 
     // --- Símbolos e Variáveis Específicas ---
-    [/\b(lambda|theta|alpha|pi)\b/g, '\\$1'],
+    [/\b(lambda|theta|heta|alpha|pi)\b/g,(match) => {
+        const comandoCorreto = (match === 'heta') ? 'theta' : match;
+        return `$\\${comandoCorreto}$`;
+      }
+    ],
     [/\bDelta_L\b/g, '$\\Delta L$'],
     [/<=/g, '\\le'],
 

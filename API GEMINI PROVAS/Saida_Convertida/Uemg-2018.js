@@ -456,7 +456,7 @@ createQuestion({
       principal: "O formaldeído é um gás incolor, muito solúvel em água, com odor muito forte e irritante. Em geral, é usado como solução aquosa contendo 40% de formaldeído, sendo assim chamado de formol ou formalina. Na medicina, é utilizado como conservador de cadáveres e peças anatômicas, além do uso como desinfetante. De acordo com a estrutura e as propriedades do formaldeído, assinale a alternativa correta.",
       subItens: []
     },
-    options: ["Na presença de um oxidante, em meio ácido, o formaldeído se converte em ácido acético.","O número de oxidação (Nox) correspondente ao átomo de carbono na molécula de formaldeído é igual a +1.","A molécula do formaldeído possui uma ligação \pi (π) e três ligações sigma.","A estrutura molecular do formaldeído é a pirâmide trigonal."],
+    options: ["Na presença de um oxidante, em meio ácido, o formaldeído se converte em ácido acético.","O número de oxidação (Nox) correspondente ao átomo de carbono na molécula de formaldeído é igual a +1.","A molécula do formaldeído possui uma ligação $\pi$ (π) e três ligações sigma.","A estrutura molecular do formaldeído é a pirâmide trigonal."],
     correctAnswer: 2,
     materia: "Química – Química Orgânica (Aldeídos)",
     conteudo: "Química – Ligações Químicas",

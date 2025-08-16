@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular Mackenzie 1º Semestre",
     year: 2020,
     text: {
-      principal: "A barra da figura acima é homogênea, possui massa m = 30 kg e comprimento L=4,0 m. Ela está apoiada sobre o ponto A em um plano horizontal rugoso e é vinculada pelo ponto C, a um metro de topo da barra, a u'a mola de constante elástica K. Sabe-se que o campo gravitacional local tem módulo g = 10 m/s² e que o sistema encontra-se em equilíbrio quando O = 45° e a mola tem sua extensão máxima Xmax = 0,20 m. Com base nos dados fornecidos, pode-se afirmar que o valor de K, em kN/m, é\n[Image of a bar in equilibrium with a spring and angle \theta]",
+      principal: "A barra da figura acima é homogênea, possui massa m = 30 kg e comprimento L=4,0 m. Ela está apoiada sobre o ponto A em um plano horizontal rugoso e é vinculada pelo ponto C, a um metro de topo da barra, a u'a mola de constante elástica K. Sabe-se que o campo gravitacional local tem módulo g = 10 m/s² e que o sistema encontra-se em equilíbrio quando O = 45° e a mola tem sua extensão máxima Xmax = 0,20 m. Com base nos dados fornecidos, pode-se afirmar que o valor de K, em kN/m, é\n[Image of a bar in equilibrium with a spring and angle $\theta$]",
       subItens: []
     },
     options: ["5,0","4,0","3,0","2,0","1,0"],

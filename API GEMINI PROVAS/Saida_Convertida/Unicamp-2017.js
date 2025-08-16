@@ -378,7 +378,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Considere o triângulo retângulo ABD exibido na figura abaixo, em que AB = 2 cm, BC = 1 cm e CD = 5 cm. Então, o ângulo θ é igual a\n[Imagem de um triângulo retângulo ABD com um ponto C na hipotenusa BD, formando BC e CD. Ângulo \theta em A.]",
+      principal: "Considere o triângulo retângulo ABD exibido na figura abaixo, em que AB = 2 cm, BC = 1 cm e CD = 5 cm. Então, o ângulo θ é igual a\n[Imagem de um triângulo retângulo ABD com um ponto C na hipotenusa BD, formando BC e CD. Ângulo $\theta$ em A.]",
       subItens: []
     },
     options: ["15°.","30°.","45°.","60°."],

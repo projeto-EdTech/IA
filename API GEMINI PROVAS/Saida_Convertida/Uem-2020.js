@@ -1431,7 +1431,7 @@ createQuestion({
       principal: "O aciclovir é um medicamento antiviral utilizado para o tratamento do vírus do herpes humano. Com base na estrutura química do aciclovir, assinale o que for correto.\n[Imagem da estrutura química do aciclovir]",
       subItens: []
     },
-    options: ["O aciclovir possui 3 ligações \pi.","O átomo de carbono 2 possui hibridização sp².","Na cadeia acíclica todos os carbonos são secundários.","As funções orgânicas presentes na estrutura são amina, álcool e cetona.","A oxidação parcial da cadeia acíclica leva à formação de um aldeído."],
+    options: ["O aciclovir possui 3 ligações $\pi$.","O átomo de carbono 2 possui hibridização sp².","Na cadeia acíclica todos os carbonos são secundários.","As funções orgânicas presentes na estrutura são amina, álcool e cetona.","A oxidação parcial da cadeia acíclica leva à formação de um aldeído."],
     correctAnswer: null,
     materia: "Química – Química Orgânica",
     conteudo: "Química – Funções Orgânicas",

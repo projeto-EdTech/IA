@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular Mackenzie",
     year: 2017,
     text: {
-      principal: "QUÍMICA\nQuestão nº 33\nOs polímeros condutores são geralmente chamados de \"metais sintéticos” por possuírem propriedades elétricas, magnéticas e ópticas de metais e semicondutores. O mais adequado seria chamá-los de “polímeros conjugados\", pois apresentam elétrons \pi (π) conjugados.\nAssinale a alternativa que contém a fórmula estrutural que representa um polímero condutor.",
+      principal: "QUÍMICA\nQuestão nº 33\nOs polímeros condutores são geralmente chamados de \"metais sintéticos” por possuírem propriedades elétricas, magnéticas e ópticas de metais e semicondutores. O mais adequado seria chamá-los de “polímeros conjugados\", pois apresentam elétrons $\pi$ (π) conjugados.\nAssinale a alternativa que contém a fórmula estrutural que representa um polímero condutor.",
       subItens: []
     },
     options: ["Estrutura de polímero com anel benzênico e ligação dupla conjugada.","Estrutura de polímero com anéis benzênicos e grupo éter e hidroxila.","Estrutura de polímero com anéis de pirrol conjugados.","Estrutura de polímero com grupos amida e hidrocarbonetos.","Estrutura de polímero com grupos éster e hidrocarbonetos."],
