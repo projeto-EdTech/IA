@@ -438,7 +438,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2021,
     text: {
-      principal: "O gás carbônico atmosférico reage com a água do mar conforme detalhado em (I): (I) CO2 + H2O ⇌ H2CO3 ⇌ HCO3- + H+ As condições ambientais causadas pelo aumento de gás carbônico na atmosfera influenciam em processos caracterizados pela reação (II) durante o desenvolvimento de diversos organismos marinhos: (II) Ca2+ + CO32- ⇌ CaCO3 Tendo por base essas afirmações, assinale a alternativa correta:",
+      principal: "O gás carbônico atmosférico reage com a água do mar conforme detalhado em (I): (I) $1_{2}$ + $1_{2}O_{}$ ⇌ $1_{2}CO_{3}$ ⇌ $1_{3}$- + H+ As condições ambientais causadas pelo aumento de gás carbônico na atmosfera influenciam em processos caracterizados pela reação (II) durante o desenvolvimento de diversos organismos marinhos: (II) $1_{2}_{}$+ + $1_{32}$- ⇌ $1_{3}$ Tendo por base essas afirmações, assinale a alternativa correta:",
       subItens: []
     },
     options: ["O processo (I) resulta em diminuição da alcalinidade da água do mar, comprometendo a estruturação de recifes por interferir na formação dos esqueletos calcários dos corais, conforme a reação (II).","O processo (I) resulta em aumento da alcalinidade da água do mar, comprometendo processos de contração muscular de vertebrados marinhos por diminuir o cálcio livre disponível, como demonstrado em (II).","O processo (I) não altera a alcalinidade da água do mar, mas compromete o processo de formação de conchas de moluscos marinhos, nos quais a estrutura básica é o carbonato de cálcio, produto da reação (II).","O processo (I) resulta em diminuição da alcalinidade da água do mar, aumentando o pH e beneficiando o processo demonstrado em (II), o que favorece o crescimento de recifes de algas calcárias.","O processo (I) resulta em aumento da alcalinidade da água do mar, beneficiando os processos de fermentação por bactérias marinhas em regiões de recifes de coral, que são formados pelo processo (II)."],
@@ -813,10 +813,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2021,
     text: {
-      principal: "A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente 4 × 10^26 W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de 5 × 10^9 anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de",
+      principal: "A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente $1 \times 10^{26}$ W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de $1 \times 10^{9}$ anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de",
       subItens: []
     },
-    options: ["10^7 kg.","10^17 kg.","10^27 kg.","10^37 kg.","10^47 kg."],
+    options: ["$1^{7}$ kg.","$1^{17}$ kg.","$1^{27}$ kg.","$1^{37}$ kg.","$1^{47}$ kg."],
     correctAnswer: 2,
     materia: "Física — Física Moderna",
     conteudo: "",
@@ -1218,7 +1218,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2021,
     text: {
-      principal: "Para estudar equilíbrio químico de íons Co2+ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação: [Co(H2O)6]2+(aq) + 4Cl-(aq) ⇌ [CoCl4]2-(aq) + 6H2O(l) Vermelho Azul Nesse equilíbrio, o composto de cobalto com água, [Co(H2O)6]2+(aq), apresenta coloração vermelha, enquanto o composto com cloretos, [CoCl4]2-(aq), possui coloração azul. Para verificar o efeito de ânions de diferentes sais nessa mudança de cor, 7 ensaios diferentes foram realizados. Aos tubos contendo apenas alguns mL de uma solução de nitrato de cobalto II, de coloração vermelha, foram adicionadas pequenas quantidades de diferentes sais em cada tubo, como apresentado na tabela, com exceção do ensaio 1, no qual nenhum sal foi adicionado. Após agitação, os tubos foram deixados em repouso por um tempo, e a cor final foi observada. A alternativa que representa a cor final observada nos ensaios 5, 6 e 7, respectivamente, é:",
+      principal: "Para estudar equilíbrio químico de íons $1_{2}_{}$+ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação: [Co($1_{2}O_{}$)6]2+(aq) + 4Cl-(aq) ⇌ [$1_{4}$]2-(aq) + 6H2O(l) Vermelho Azul Nesse equilíbrio, o composto de cobalto com água, [Co($1_{2}O_{}$)6]2+(aq), apresenta coloração vermelha, enquanto o composto com cloretos, [$1_{4}$]2-(aq), possui coloração azul. Para verificar o efeito de ânions de diferentes sais nessa mudança de cor, 7 ensaios diferentes foram realizados. Aos tubos contendo apenas alguns mL de uma solução de nitrato de cobalto II, de coloração vermelha, foram adicionadas pequenas quantidades de diferentes sais em cada tubo, como apresentado na tabela, com exceção do ensaio 1, no qual nenhum sal foi adicionado. Após agitação, os tubos foram deixados em repouso por um tempo, e a cor final foi observada. A alternativa que representa a cor final observada nos ensaios 5, 6 e 7, respectivamente, é:",
       subItens: []
     },
     options: ["Ensaio 5: Azul; Ensaio 6: Azul; Ensaio 7: Vermelha","Ensaio 5: Azul; Ensaio 6: Vermelha; Ensaio 7: Azul","Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Azul","Ensaio 5: Vermelha; Ensaio 6: Vermelha; Ensaio 7: Azul","Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Vermelha"],
@@ -1236,7 +1236,7 @@ createQuestion({
       principal: "Um dos indicadores de qualidade de mel é a presença do composto orgânico hidroximetilfurfural (HMF), formado a partir de certos açúcares, como a frutose (C6H12O6). A tabela resume os teores de HMF permitidos de acordo com a legislação brasileira e recomendações internacionais. Uma das possíveis rotas para a formação do HMF a partir da frutose é mostrada, de forma simplificada, no esquema: Nas setas, são mostradas as perdas de moléculas ou grupos químicos em cada etapa. Por exemplo, entre as espécies 1 e 2, ocorrem a saída de uma molécula de água e a formação de uma ligação dupla entre carbonos. De acordo com o esquema mostrado, as perdas indicadas como I e II correspondem a:",
       subItens: []
     },
-    options: ["1 x H2O e 1 × -CH2","2 × OH","2 x H2O","1 x -CH2 e 1 x OH","1 x H2O e 1 × OH"],
+    options: ["1 x $1_{2}O_{}$ e 1 × -$1_{2}$","2 × OH","2 x $1_{2}O_{}$","1 x -$1_{2}$ e 1 x OH","1 x $1_{2}O_{}$ e 1 × OH"],
     correctAnswer: 2,
     materia: "Química — Química Orgânica",
     conteudo: "",
@@ -1293,7 +1293,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2021,
     text: {
-      principal: "Para estudar equilíbrio químico de íons Co2+ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação: [Co(H2O)6]2+(aq) + 4Cl-(aq) ⇌ [CoCl4]2-(aq) + 6H2O(l) Vermelho Azul Nesse equilíbrio, o composto de cobalto com água, [Co(H2O)6]2+(aq), apresenta coloração vermelha, enquanto o composto com cloretos, [CoCl4]2-(aq), possui coloração azul. Para verificar o efeito de ânions de diferentes sais nessa mudança de cor, 7 ensaios diferentes foram realizados. Aos tubos contendo apenas alguns mL de uma solução de nitrato de cobalto II, de coloração vermelha, foram adicionadas pequenas quantidades de diferentes sais em cada tubo, como apresentado na tabela, com exceção do ensaio 1, no qual nenhum sal foi adicionado. Após agitação, os tubos foram deixados em repouso por um tempo, e a cor final foi observada. A alternativa que representa a cor final observada nos ensaios 5, 6 e 7, respectivamente, é:",
+      principal: "Para estudar equilíbrio químico de íons $1_{2}_{}$+ em solução, uma turma de estudantes realizou uma série de experimentos explorando a seguinte reação: [Co($1_{2}O_{}$)6]2+(aq) + 4Cl-(aq) ⇌ [$1_{4}$]2-(aq) + 6H2O(l) Vermelho Azul Nesse equilíbrio, o composto de cobalto com água, [Co($1_{2}O_{}$)6]2+(aq), apresenta coloração vermelha, enquanto o composto com cloretos, [$1_{4}$]2-(aq), possui coloração azul. Para verificar o efeito de ânions de diferentes sais nessa mudança de cor, 7 ensaios diferentes foram realizados. Aos tubos contendo apenas alguns mL de uma solução de nitrato de cobalto II, de coloração vermelha, foram adicionadas pequenas quantidades de diferentes sais em cada tubo, como apresentado na tabela, com exceção do ensaio 1, no qual nenhum sal foi adicionado. Após agitação, os tubos foram deixados em repouso por um tempo, e a cor final foi observada. A alternativa que representa a cor final observada nos ensaios 5, 6 e 7, respectivamente, é:",
       subItens: []
     },
     options: ["Ensaio 5: Azul; Ensaio 6: Azul; Ensaio 7: Vermelha","Ensaio 5: Azul; Ensaio 6: Vermelha; Ensaio 7: Azul","Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Azul","Ensaio 5: Vermelha; Ensaio 6: Vermelha; Ensaio 7: Azul","Ensaio 5: Vermelha; Ensaio 6: Azul; Ensaio 7: Vermelha"],

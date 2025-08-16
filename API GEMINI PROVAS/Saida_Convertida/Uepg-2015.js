@@ -48,7 +48,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Sobre regência nominal e verbal nos trechos abaixo, assinale o que for correto.\n1. \"...recusando-se a baixar o preço que cobrava pelo arrendamento de suas terras...\"\n2. \"...na Suécia, o percentual de cidadãos que se envolveu em algum tipo de \"consumo politizado\" nos 12 meses anteriores à pesquisa era de 50%.\"",
+      principal: "Sobre regência nominal e verbal nos trechos abaixo, assinale o que for correto.\$1_{1}$. \"...recusando-se a baixar o preço que cobrava pelo arrendamento de suas terras...\"\$1_{2}$. \"...na Suécia, o percentual de cidadãos que se envolveu em algum tipo de \"consumo politizado\" nos 12 meses anteriores à pesquisa era de 50%.\"",
       subItens: []
     },
     options: ["Caso a crase fosse retirada no trecho 2, o sentido ficaria comprometido, pois seria possível compre-ender que a pesquisa ainda estava incompleta, ou seja, na metade.","No trecho 1 ocorre um erro devido à regência, pois o sinal indicativo da crase deveria estar presente: \"...recusando-se à baixar...\".","No trecho 2, trata-se de um caso de regência nominal, uma vez que \"anteriores\" é um adjetivo.","Nos trechos 1 e 2, há casos de regência sobre a preposição a, entretanto, diferem entre si uma vez que são casos de regência nominal (trecho 1) e verbal (trecho 2)."],
@@ -123,10 +123,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Os capitais C₁=R$ 2.000,00 e C2=R$ 1.500,00 são aplicados a juros simples de 1% ao mês e 18% ao ano, respectivamente, durante t meses. Após esse tempo, a soma dos montantes produzidos pelas duas aplicações é de R$ 3.840,00. Nesse contexto, assinale o que for correto.",
+      principal: "Os capitais C₁=R$ 2.000,00 e $1_{2}_{}$=R$ 1.500,00 são aplicados a juros simples de 1% ao mês e 18% ao ano, respectivamente, durante t meses. Após esse tempo, a soma dos montantes produzidos pelas duas aplicações é de R$ 3.840,00. Nesse contexto, assinale o que for correto.",
       subItens: []
     },
-    options: ["O tempo t de aplicação é superior a 6 meses.","O montante produzido por C2 é R$ 1.980,00.","C₁ rendeu R$ 160,00 de juros.","O tempo t de aplicação é de 270 dias."],
+    options: ["O tempo t de aplicação é superior a 6 meses.","O montante produzido por $1_{2}_{}$ é R$ 1.980,00.","C₁ rendeu R$ 160,00 de juros.","O tempo t de aplicação é de 270 dias."],
     correctAnswer: null,
     materia: "Matemática – Juros Simples",
     conteudo: "Matemática – Montante",
@@ -246,7 +246,7 @@ createQuestion({
       principal: "A Física pode ser considerada a base de todas as outras ciências e da tecnologia, pois estuda os aspectos básicos de um determinado fenômeno e as leis que governam suas interações. Para representar a grandeza física em estudo, com sua unidade de medida e conversões, utiliza-se a linguagem matemática. Nesse contexto, assinale o que for correto.",
       subItens: []
     },
-    options: ["Sendo o valor da carga elétrica elementar e=1,602x10-19, um corpo que tem falta de 5x1022 elétrons tem carga igual a 8 kC.","Popularmente conhecida como grau dos óculos, a vergência no SI mede-se em m-1.","A equação dimensional do trabalho é M L2 T-2, portanto, sua unidade no SI pode ser representada como kg m²/s².","A expressão matemática da 2ª Lei de Newton a = F/m nos diz que a aceleração adquirida por um corpo é diretamente proporcional à sua massa e também diretamente proporcional à força resultante aplicada no mesmo."],
+    options: ["Sendo o valor da carga elétrica elementar e=$1 \times 10^{-19}$, um corpo que tem falta de $1 \times 10^{22}$ elétrons tem carga igual a 8 kC.","Popularmente conhecida como grau dos óculos, a vergência no SI mede-se em m-1.","A equação dimensional do trabalho é M $1_{2}_{}$ T-2, portanto, sua unidade no SI pode ser representada como kg m²/s².","A expressão matemática da 2ª Lei de Newton a = F/m nos diz que a aceleração adquirida por um corpo é diretamente proporcional à sua massa e também diretamente proporcional à força resultante aplicada no mesmo."],
     correctAnswer: null,
     materia: "Física – Grandezas Físicas",
     conteudo: "Física – Unidades de Medida",
@@ -261,7 +261,7 @@ createQuestion({
       principal: "O físico escocês James Clerk Maxwell (1831-1879) foi responsável pela descrição teórica e matemática do Eletromagnetismo. Com suas equações, foi possível prever a existência de ondas eletromagnéticas. Os diversos tipos de ondas eletromagnéticas recebem diferentes nomes, conforme os intervalos de frequência ou de como são produzidas. Sobre o espectro eletromagnético, assinale o que for correto.",
       subItens: []
     },
-    options: ["O único tipo de radiação eletromagnética vinda do Sol que ultrapassa a atmosfera terrestre é a do tipo Infravermelha, responsável por sentirmos o calor do Sol.","Raios X e raios gama são exemplos de radiações ionizantes, pois são capazes de alterar a estrutura da molécula e átomos.","As ondas eletromagnéticas possuem no vácuo uma velocidade de propagação de aproximadamente 3x108 m/s.","Uma onda eletromagnética com comprimento de onda de 750x10-9 m terá uma frequência de 4x1014 Hz, no vácuo."],
+    options: ["O único tipo de radiação eletromagnética vinda do Sol que ultrapassa a atmosfera terrestre é a do tipo Infravermelha, responsável por sentirmos o calor do Sol.","Raios X e raios gama são exemplos de radiações ionizantes, pois são capazes de alterar a estrutura da molécula e átomos.","As ondas eletromagnéticas possuem no vácuo uma velocidade de propagação de aproximadamente $1 \times 10^{8}$ m/s.","Uma onda eletromagnética com comprimento de onda de $1 \times 10^{-9}$ m terá uma frequência de $1 \times 10^{14}$ Hz, no vácuo."],
     correctAnswer: null,
     materia: "Física – Ondas Eletromagnéticas",
     conteudo: "Física – Espectro Eletromagnético",
@@ -276,7 +276,7 @@ createQuestion({
       principal: "\"Astrônomos holandeses e americanos descobriram um exoplaneta com um sistema de anéis gigantesco, 200 vezes maior do que os anéis de Saturno. Os anéis foram encontrados graças a dados levantados pelo observatório SuperWASP, que pode detectar exoplanetas quando estes passam à frente das estrelas. Tal exoplaneta distante foi batizado de J1407b.\" (Adaptado de: BBC News. 28/01/2015). Com base na notícia, assinale o que for correto.",
       subItens: []
     },
-    options: ["Para expressar a que distância J1407b encontra-se de nossa galáxia, os astrônomos podem utilizar o ano-luz como unidade de comprimento. Um ano-luz corresponde à distância percorrida pela luz em um ano, e vale aproximadamente 9,5x1012 km.","A Lei da Gravitação Universal exclui exoplanetas.","Um exoplaneta terá no afélio uma velocidade orbital maior do que no periélio.","A 2ª Lei de Newton explica, em função da massa, o fato de o exoplaneta orbitar a estrela e não o contrário. Contudo, a rigor, ambas orbitam o centro de massa do sistema."],
+    options: ["Para expressar a que distância J1407b encontra-se de nossa galáxia, os astrônomos podem utilizar o ano-luz como unidade de comprimento. Um ano-luz corresponde à distância percorrida pela luz em um ano, e vale aproximadamente $1 \times 10^{12}$ km.","A Lei da Gravitação Universal exclui exoplanetas.","Um exoplaneta terá no afélio uma velocidade orbital maior do que no periélio.","A 2ª Lei de Newton explica, em função da massa, o fato de o exoplaneta orbitar a estrela e não o contrário. Contudo, a rigor, ambas orbitam o centro de massa do sistema."],
     correctAnswer: null,
     materia: "Física – Astronomia",
     conteudo: "Física – Leis de Kepler",
@@ -351,7 +351,7 @@ createQuestion({
       principal: "O sangue pode ser considerado um tipo de tecido conjuntivo devido às características de suas células. Com relação aos componentes do sangue humano, assinale o que for correto.",
       subItens: []
     },
-    options: ["Uma imunoglobulina adulta é repleta de moléculas de hemoglobinas e responsável pelo transporte de O2.","As albuminas são responsáveis pelo transporte de ácidos graxos livres, pela viscosidade do sangue e por seu potencial osmótico.","Por ocasião de um ferimento, proteínas denominadas fibrinogênio unem-se entre si originando uma malha (fibrina) que prende as células do sangue e forma o coágulo, o qual estanca a hemorragia.","O plasma sanguíneo é composto por mais de 90% de água, sendo o restante constituído por substâncias como proteínas, sais, hormônios, nutrientes, gases e excreções."],
+    options: ["Uma imunoglobulina adulta é repleta de moléculas de hemoglobinas e responsável pelo transporte de $1_{2}_{}$.","As albuminas são responsáveis pelo transporte de ácidos graxos livres, pela viscosidade do sangue e por seu potencial osmótico.","Por ocasião de um ferimento, proteínas denominadas fibrinogênio unem-se entre si originando uma malha (fibrina) que prende as células do sangue e forma o coágulo, o qual estanca a hemorragia.","O plasma sanguíneo é composto por mais de 90% de água, sendo o restante constituído por substâncias como proteínas, sais, hormônios, nutrientes, gases e excreções."],
     correctAnswer: null,
     materia: "Biologia – Fisiologia Humana",
     conteudo: "Biologia – Sistema Sanguíneo",
@@ -396,7 +396,7 @@ createQuestion({
       principal: "Com relação à formação dos combustíveis fósseis e o seu uso atual pela espécie humana, assinale o que for correto.",
       subItens: []
     },
-    options: ["O carvão mineral, o gás natural e o petróleo são exemplos de combustíveis fósseis.","A utilização de combustíveis fósseis pela espécie humana tem restituído à atmosfera, na forma de CO2, átomos de carbono que ficaram fora de circulação durante milhões de anos.","No passado, restos de organismos ficaram a salvo da decomposição, geralmente por terem sido rapidamente encobertos no fundo do mar por restos de sedimentos que se transformaram em rochas. Estes resíduos orgânicos tiveram suas moléculas preservadas e mantiveram sua energia potencial química. Estas substâncias orgânicas sofreram lentas transformações e originaram os combustíveis fósseis.","Os combustíveis fósseis tiveram sua formação pela ação rápida de decompositores sobre restos de organismos e cadáveres, os quais transformaram moléculas orgânicas em CO2."],
+    options: ["O carvão mineral, o gás natural e o petróleo são exemplos de combustíveis fósseis.","A utilização de combustíveis fósseis pela espécie humana tem restituído à atmosfera, na forma de $1_{2}$, átomos de carbono que ficaram fora de circulação durante milhões de anos.","No passado, restos de organismos ficaram a salvo da decomposição, geralmente por terem sido rapidamente encobertos no fundo do mar por restos de sedimentos que se transformaram em rochas. Estes resíduos orgânicos tiveram suas moléculas preservadas e mantiveram sua energia potencial química. Estas substâncias orgânicas sofreram lentas transformações e originaram os combustíveis fósseis.","Os combustíveis fósseis tiveram sua formação pela ação rápida de decompositores sobre restos de organismos e cadáveres, os quais transformaram moléculas orgânicas em $1_{2}$."],
     correctAnswer: null,
     materia: "Biologia – Ecologia",
     conteudo: "Biologia – Ciclos Biogeoquímicos",
@@ -438,10 +438,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "A amônia líquida (NH3), utilizada em máquinas de refrigeração, pode ser transformada em gás e decomposta nos gases N2 e H2. Sobre o assunto, assinale o que for correto.\nDados: N(Z=7); H(Z=1)",
+      principal: "A amônia líquida ($1_{3}$), utilizada em máquinas de refrigeração, pode ser transformada em gás e decomposta nos gases $1_{2}_{}$ e $1_{2}_{}$. Sobre o assunto, assinale o que for correto.\nDados: N(Z=7); H(Z=1)",
       subItens: []
     },
-    options: ["A decomposição da amônia é uma transformação física em que os gases N2 e H2 são formados por ebulição.","A interação intermolecular que mantém as moléculas de amônia unidas é chamada de forças de dispersão de London.","A passagem da amônia líquida para o estado gasoso é uma transformação física chamada de vaporização.","A amônia é uma molécula constituída de ligações covalentes e possui geometria molecular piramidal."],
+    options: ["A decomposição da amônia é uma transformação física em que os gases $1_{2}_{}$ e $1_{2}_{}$ são formados por ebulição.","A interação intermolecular que mantém as moléculas de amônia unidas é chamada de forças de dispersão de London.","A passagem da amônia líquida para o estado gasoso é uma transformação física chamada de vaporização.","A amônia é uma molécula constituída de ligações covalentes e possui geometria molecular piramidal."],
     correctAnswer: null,
     materia: "Química – Estados Físicos da Matéria",
     conteudo: "Química – Forças Intermoleculares",
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Sobre a reação de decomposição da água equacionada abaixo, assinale o que for correto.\n2 H2O(l) → 2 H2(g) + O2(g)",
+      principal: "Sobre a reação de decomposição da água equacionada abaixo, assinale o que for correto.\$1_{2}$ $1_{2}O_{}$(l) → 2 $1_{2}_{}$(g) + $1_{2}_{}$(g)",
       subItens: []
     },
     options: ["A água é uma substância composta e se decompõe em outras duas substâncias simples.","As moléculas de hidrogênio e de oxigênio formadas, compõem uma mistura de substâncias simples.","O hidrogênio e o oxigênio podem originar, por reação química, outras substâncias simples.","Ligações de hidrogênio estão presentes tanto entre as moléculas reagentes como entre as moléculas dos produtos."],
@@ -483,10 +483,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Dadas as equações abaixo, que representam a combustão dos compostos metanol e etanol, e considerando iguais as densidades dos dois líquidos, assinale o que for correto.\nDados: C=12; O=16; H=1\nI) CH4O(l) + 3/2O2(g) → CO2(g) + 2H2O(g) ΔΗ= -726 kJ/mol\nII) C2H6O(l) + 3O2(g) → 2CO2(g) + 3H2O(g) ΔΗ= -1368 kJ/mol",
+      principal: "Dadas as equações abaixo, que representam a combustão dos compostos metanol e etanol, e considerando iguais as densidades dos dois líquidos, assinale o que for correto.\nDados: C=12; O=16; H=1\nI) CH4O(l) + 3/2O2(g) → $1_{2}$(g) + 2H2O(g) ΔΗ= -726 kJ/mol\nII) C2H6O(l) + 3O2(g) → 2CO2(g) + 3H2O(g) ΔΗ= -1368 kJ/mol",
       subItens: []
     },
-    options: ["Na combustão de volumes iguais dos dois compostos, o etanol libera maior quantidade de calor.","Volumes iguais dos dois compostos apresentam massas iguais.","Nas CNTP, a queima de 1 mol de etanol consome 22,4 L de O2.","32 g de metanol liberam 726 kJ de calor."],
+    options: ["Na combustão de volumes iguais dos dois compostos, o etanol libera maior quantidade de calor.","Volumes iguais dos dois compostos apresentam massas iguais.","Nas CNTP, a queima de 1 mol de etanol consome 22,4 L de $1_{2}_{}$.","32 g de metanol liberam 726 kJ de calor."],
     correctAnswer: null,
     materia: "Química – Termoquímica",
     conteudo: "Química – Combustão",
@@ -516,7 +516,7 @@ createQuestion({
       principal: "A titulação de uma amostra de calcário (carbonato de cálcio impuro), de massa 20 g, consome 100 mL de solução 72 g/L de ácido clorídrico. Sobre o assunto, assinale o que for correto.\nDados: H = 1 g/mol; Ca = 40 g/mol; C = 12 g/mol; O = 16 g/mol; Cl = 35 g/mol",
       subItens: []
     },
-    options: ["A fórmula do carbonato de cálcio é CaCO3.","A concentração do ácido clorídrico em mol/L é 2.","A porcentagem de pureza do calcário é 50%.","O ácido clorídrico é um oxi-ácido considerado forte em meio aquoso."],
+    options: ["A fórmula do carbonato de cálcio é $1_{3}$.","A concentração do ácido clorídrico em mol/L é 2.","A porcentagem de pureza do calcário é 50%.","O ácido clorídrico é um oxi-ácido considerado forte em meio aquoso."],
     correctAnswer: null,
     materia: "Química – Estequiometria",
     conteudo: "Química – Titulação",

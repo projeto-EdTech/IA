@@ -3,7 +3,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Relacione as informações na coluna à esquerda com os períodos da revolução industrial na coluna da direita.\n1→A expansão comercial e a ampliação da economia de mercado permitiram que a Europa acumulasse capital, que foi empregado em investimentos e mecanização da produção. A utilização do carvão e das máquinas a vapor impulsionou as indústrias têxtil, naval e siderúrgica.\n2 → Atividades como a informática, a química fina, a biotecnologia e a pesquisa espacial foram criadas ou ampliadas. Os avanços tecnológicos proporcionaram precisão, rapidez de informações e facilidade de comunicação, provocando transformações no sistema capitalista.\n3 → Novas invenções como geladeira, telefone, lâmpada elétrica, rádio, computador se sucederam, e grandes modificações ocorreram nas condições de vida das pessoas, na velocidade e qualidade dos transportes. Essas inovações influenciaram a aceleração do contato entre culturas e reorganização do espaço capitalista.\n( ) Primeira revolução industrial.\n( ) Segunda revolução industrial.\n( ) Terceira revolução industrial.\nA sequência correta é",
+      principal: "Relacione as informações na coluna à esquerda com os períodos da revolução industrial na coluna da direita.\$1_{1}$→A expansão comercial e a ampliação da economia de mercado permitiram que a Europa acumulasse capital, que foi empregado em investimentos e mecanização da produção. A utilização do carvão e das máquinas a vapor impulsionou as indústrias têxtil, naval e siderúrgica.\$1_{2}$ → Atividades como a informática, a química fina, a biotecnologia e a pesquisa espacial foram criadas ou ampliadas. Os avanços tecnológicos proporcionaram precisão, rapidez de informações e facilidade de comunicação, provocando transformações no sistema capitalista.\$1_{3}$ → Novas invenções como geladeira, telefone, lâmpada elétrica, rádio, computador se sucederam, e grandes modificações ocorreram nas condições de vida das pessoas, na velocidade e qualidade dos transportes. Essas inovações influenciaram a aceleração do contato entre culturas e reorganização do espaço capitalista.\n( ) Primeira revolução industrial.\n( ) Segunda revolução industrial.\n( ) Terceira revolução industrial.\nA sequência correta é",
       subItens: []
     },
     options: ["2-3-1.","3-2-1.","1-2-3.","1-3-2.","2-1-3."],
@@ -303,7 +303,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "O número de refugiados no Brasil em 2015 foi de 8 730. A tabela a seguir mostra o número de refugiados por país de origem.\nPaís de origem | Nº total de refugiados\nSíria | 2252\nAngola | 1408\nColômbia | 1100\nRepública Democrática do Congo | 1063\nPalestina | 367\nLíbano | 359\nIraque | 272\nOutros | 1909\nFonte: Disponível em: <http://especiais.g1.globo.com/mundo/2016/refugiados-no-brasil-2015>. Acesso em: 28 nov. 2016. (Adaptado)\nQual é a probabilidade de um refugiado escolhido ao acaso ser da Síria ou da República Democrática do Congo?",
+      principal: "O número de refugiados no Brasil em 2015 foi de 8 730. A tabela a seguir mostra o número de refugiados por país de origem.\nPaís de origem | Nº total de refugiados\nSíria | 2252\nAngola | 1408\nColômbia | 1100\nRepública Democrática do Congo | 1063\nPalestina | 367\nLíbano | 359\nIraque | 272\nOutros | 1909\nFonte: Disponível em: <http://especiais.$1_{1}$.globo.com/mundo/2016/refugiados-no-brasil-2015>. Acesso em: 28 nov. 2016. (Adaptado)\nQual é a probabilidade de um refugiado escolhido ao acaso ser da Síria ou da República Democrática do Congo?",
       subItens: []
     },
     options: ["1036 / 8730","704 / 4365","1126 / 4365","221 / 582","122 / 291"],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Em 2014 houve um aumento significativo no número de concessões de refúgio no Brasil. A tabela a seguir mostra o número de concessões de refúgio, por ano.\n(Bar chart showing concessions: 2012=199, 2013=691, 2014=2288, 2015=1231).\nFonte: Disponível em: <especiais.g1.globo.com/mundo/2016/refugiados-no-brasil-2015/>. Acesso em: 28 nov. 2016. (Adaptado)\nQual é, aproximadamente, o desvio médio no número de concessões de refúgio entre 2012 e 2015?",
+      principal: "Em 2014 houve um aumento significativo no número de concessões de refúgio no Brasil. A tabela a seguir mostra o número de concessões de refúgio, por ano.\n(Bar chart showing concessions: 2012=199, 2013=691, 2014=2288, 2015=1231).\nFonte: Disponível em: <especiais.$1_{1}$.globo.com/mundo/2016/refugiados-no-brasil-2015/>. Acesso em: 28 nov. 2016. (Adaptado)\nQual é, aproximadamente, o desvio médio no número de concessões de refúgio entre 2012 e 2015?",
       subItens: []
     },
     options: ["657,25","876,33","1102,25","1144,00","1525,33"],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Nos últimos anos, milhares de imigrantes desapareceram ou perderam as suas vidas tentando chegar aos seus destinos. A rota de uma dessas tentativas foi feita através dos pontos P1, P2, P3, P4 e P5, com percurso determinado pelas poligonais P1P2, P2P3, P3P4 e P4P5, medidas em quilômetros. Os pontos P1, P2, P3, P4 e P5 representam, respectivamente, a imagem dos números complexos z1=-20-5i, z2=-11+7i, z3=15+7i, z4=3z1+6z3 e z5=30-3i.\nQual é o comprimento, em quilômetros, do percurso?",
+      principal: "Nos últimos anos, milhares de imigrantes desapareceram ou perderam as suas vidas tentando chegar aos seus destinos. A rota de uma dessas tentativas foi feita através dos pontos $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$, $1_{4}_{}$ e $1_{5}_{}$, com percurso determinado pelas poligonais $1_{1}P_{2}$, $1_{2}P_{3}$, $1_{3}P_{4}$ e $1_{4}P_{5}$, medidas em quilômetros. Os pontos $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$, $1_{4}_{}$ e $1_{5}_{}$ representam, respectivamente, a imagem dos números complexos $1_{1}$=-20-5i, $1_{2}$=-11+7i, $1_{3}$=15+7i, $1_{4}$=3z1+6z3 e $1_{5}$=30-3i.\nQual é o comprimento, em quilômetros, do percurso?",
       subItens: []
     },
     options: ["66","77","81","93","96"],

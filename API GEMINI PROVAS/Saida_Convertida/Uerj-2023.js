@@ -33,7 +33,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "[Imagem: Cartaz do documentário “Ailton Krenak e o sonho da pedra”, exibindo o rosto de Ailton Krenak e informações sobre o filme: Documentário - RJ - Brasil - 2017 - 52 min - A10. De Marco Altberg. Com Darcy Ribeiro, Vincent Carelli, Rodrigo Arajeju, Alvaro Tukano, Daiara Tukano, Juca Ferreira, Marcos Terena, Mário Juruna, Marcos Vinício Chein. O documentário traça o pensamento e a trajetória de Ailton Krenak, líder indígena natural de Minas Gerais, descendente da etnia Krenak.]\n“O problema é que faz muito tempo que nós começamos a achar que todos os lugares são lugares para serem ocupados pelos humanos. Pelos humanos e pelas suas tralhas. Pelos humanos e as suas tralhas tecnológicas, seu aparato, seu maquinário, suas cidades estúpidas.\"\nAdaptado de canalcurta.tv.br.\nNo trecho citado do documentário, Ailton Krenak faz uma crítica às “tralhas tecnológicas\" da humanidade. Essa crítica está associada à defesa da:",
+      principal: "[Imagem: Cartaz do documentário “Ailton Krenak e o sonho da pedra”, exibindo o rosto de Ailton Krenak e informações sobre o filme: Documentário - RJ - Brasil - 2017 - 52 min - $1_{10}_{}$. De Marco Altberg. Com Darcy Ribeiro, Vincent Carelli, Rodrigo Arajeju, Alvaro Tukano, Daiara Tukano, Juca Ferreira, Marcos Terena, Mário Juruna, Marcos Vinício Chein. O documentário traça o pensamento e a trajetória de Ailton Krenak, líder indígena natural de Minas Gerais, descendente da etnia Krenak.]\n“O problema é que faz muito tempo que nós começamos a achar que todos os lugares são lugares para serem ocupados pelos humanos. Pelos humanos e pelas suas tralhas. Pelos humanos e as suas tralhas tecnológicas, seu aparato, seu maquinário, suas cidades estúpidas.\"\nAdaptado de canalcurta.tv.br.\nNo trecho citado do documentário, Ailton Krenak faz uma crítica às “tralhas tecnológicas\" da humanidade. Essa crítica está associada à defesa da:",
       subItens: []
     },
     options: ["integração dos povos tradicionais","paralisação das práticas científicas","restauração do planejamento urbano","interrupção da degradação ambiental"],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Fome no Brasil: número de brasileiros sem ter o que comer quase dobra em dois anos de pandemia. A fome avança cada vez mais rápido pelo Brasil. Um levantamento divulgado mostra que o país soma atualmente cerca de 33,1 milhões de pessoas sem ter o que comer diariamente, quase o dobro do contingente em situação de fome estimado em 2020.\nAdaptado de g1.globo.com, 08/06/2022.\nA ausência de nutrientes para a manutenção do organismo humano prejudica o funcionamento celular, gerando consequências para a saúde integral dos indivíduos. Quando submetidas a longos períodos de desnutrição, as células passam pelo seguinte processo:",
+      principal: "Fome no Brasil: número de brasileiros sem ter o que comer quase dobra em dois anos de pandemia. A fome avança cada vez mais rápido pelo Brasil. Um levantamento divulgado mostra que o país soma atualmente cerca de 33,1 milhões de pessoas sem ter o que comer diariamente, quase o dobro do contingente em situação de fome estimado em 2020.\nAdaptado de $1_{1}$.globo.com, 08/06/2022.\nA ausência de nutrientes para a manutenção do organismo humano prejudica o funcionamento celular, gerando consequências para a saúde integral dos indivíduos. Quando submetidas a longos períodos de desnutrição, as células passam pelo seguinte processo:",
       subItens: []
     },
     options: ["exocitose","autofagia","anabolismo","glicosilação"],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Leite e bebida láctea: o que são e suas diferenças nutricionais. Supermercados têm comercializado a bebida láctea, mais barata que o leite, na mesma prateleira do leite comum. Apesar de ser confundida com o leite, essa bebida é na verdade uma mistura de leite com soro de leite. As bebidas lácteas podem ser consumidas normalmente pelas pessoas, mas têm uma qualidade nutricional menor, quando comparadas com o leite de vaca integral. Observe, na tabela ao lado, a diferença nutricional entre leite e bebida láctea para 1 copo de 200 ml.\n[Tabela comparando Leite integral e Bebida láctea (porção de 200ml) em Proteínas, Gorduras, Lactose e Cálcio. Valores: Proteínas (6,6g / 2,4g), Gorduras (8,0g / 4,0g), Lactose (9,8g / 9,8g), Cálcio (280,0mg / 95,0mg).]\n*Cálculo feito com base na tabela nutricional da bebida láctea da marca Cristina, que contém 60% de soro de leite. Fonte: Abraleite\nAdaptado de g1.globo.com, 07/07/2022.\nA partir da análise dos dados nutricionais apresentados, pode-se concluir que apenas um dos processos biológicos listados abaixo é igualmente assegurado pelo consumo tanto de leite integral quanto de bebida láctea. Esse processo é:",
+      principal: "Leite e bebida láctea: o que são e suas diferenças nutricionais. Supermercados têm comercializado a bebida láctea, mais barata que o leite, na mesma prateleira do leite comum. Apesar de ser confundida com o leite, essa bebida é na verdade uma mistura de leite com soro de leite. As bebidas lácteas podem ser consumidas normalmente pelas pessoas, mas têm uma qualidade nutricional menor, quando comparadas com o leite de vaca integral. Observe, na tabela ao lado, a diferença nutricional entre leite e bebida láctea para 1 copo de 200 ml.\n[Tabela comparando Leite integral e Bebida láctea (porção de 200ml) em Proteínas, Gorduras, Lactose e Cálcio. Valores: Proteínas (6,6g / 2,4g), Gorduras (8,0g / 4,0g), Lactose (9,8g / 9,8g), Cálcio (280,0mg / 95,0mg).]\n*Cálculo feito com base na tabela nutricional da bebida láctea da marca Cristina, que contém 60% de soro de leite. Fonte: Abraleite\nAdaptado de $1_{1}$.globo.com, 07/07/2022.\nA partir da análise dos dados nutricionais apresentados, pode-se concluir que apenas um dos processos biológicos listados abaixo é igualmente assegurado pelo consumo tanto de leite integral quanto de bebida láctea. Esse processo é:",
       subItens: []
     },
     options: ["produção de ATP na glicólise","fornecimento de reservas de energia","reconstrução das fibras dos músculos","mineralização dos ossos no organismo"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "O composto de fórmula FeCl3 é empregado no tratamento de águas por conta de sua ação coagulante sobre impurezas. Esse composto pertence à seguinte função inorgânica:",
+      principal: "O composto de fórmula $1_{3}$ é empregado no tratamento de águas por conta de sua ação coagulante sobre impurezas. Esse composto pertence à seguinte função inorgânica:",
       subItens: []
     },
     options: ["sal","base","ácido","óxido"],
@@ -648,10 +648,10 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Considere a reação de equilíbrio químico representada abaixo, que ocorre na atmosfera e envolve dois óxidos de nitrogênio: N2O4 (g) ⇌ 2 NO2 (g)\nA partir de um experimento, foram registradas as variações das concentrações desses óxidos em função do tempo. Observe o gráfico:\n[Gráfico mostrando a concentração (mol/L) de N2O4 e NO2 em função do tempo. N2O4 diminui de 0,042 para 0,030 e NO2 aumenta de 0 para 0,024 até o equilíbrio.]\nCom base nos dados obtidos, o valor da constante de equilíbrio em função das concentrações é igual a:",
+      principal: "Considere a reação de equilíbrio químico representada abaixo, que ocorre na atmosfera e envolve dois óxidos de nitrogênio: $1_{2}O_{4}$ (g) ⇌ 2 $1_{2}$ (g)\nA partir de um experimento, foram registradas as variações das concentrações desses óxidos em função do tempo. Observe o gráfico:\n[Gráfico mostrando a concentração (mol/L) de $1_{2}O_{4}$ e $1_{2}$ em função do tempo. $1_{2}O_{4}$ diminui de 0,042 para 0,030 e $1_{2}$ aumenta de 0 para 0,024 até o equilíbrio.]\nCom base nos dados obtidos, o valor da constante de equilíbrio em função das concentrações é igual a:",
       subItens: []
     },
-    options: ["3,2 x 10^-3","4,8 x 10^-3","3,3 x 10^-1","4,0 x 10^-1"],
+    options: ["$1 \times 10^{-3}$","$1 \times 10^{-3}$","$1 \times 10^{-1}$","$1 \times 10^{-1}$"],
     correctAnswer: 1,
     materia: "Química – Equilíbrio Químico",
     conteudo: "Constante de Equilíbrio",
@@ -678,7 +678,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Considere a reação química representada abaixo, utilizada para produzir determinado desinfetante.\n[Esquema de reação química: Propan-2-ol (álcool secundário) reage com H2O2 (peróxido de hidrogênio) formando Propanona (cetona) e H2O (água).]\nO nome do reagente orgânico presente nessa reação é:",
+      principal: "Considere a reação química representada abaixo, utilizada para produzir determinado desinfetante.\n[Esquema de reação química: Propan-2-ol (álcool secundário) reage com $1_{2}O_{2}$ (peróxido de hidrogênio) formando Propanona (cetona) e $1_{2}O_{}$ (água).]\nO nome do reagente orgânico presente nessa reação é:",
       subItens: []
     },
     options: ["etanol","propanona","ácido etanoico","propanoato de metila"],

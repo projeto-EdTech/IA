@@ -303,7 +303,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2015,
     text: {
-      principal: "Considere as seguintes afirmações sobre números reais:\nI. Se a expansão decimal de x é infinita e periódica, então x é um número racional.\nII. ∑(n=0 to ∞) 1 / ((√2-1)√2^n) = √2 / (1-2√2)\nIII. ln(sqrt(e^2 + (log_3 2)(log_4 9))) é um número racional.\nÉ (são) verdadeira(s):",
+      principal: "Considere as seguintes afirmações sobre números reais:\nI. Se a expansão decimal de x é infinita e periódica, então x é um número racional.\nII. ∑(n=0 to ∞) 1 / ((√2-1)√2^n) = √2 / (1-2√2)\nIII. ln(sqrt($1^{2}$ + (log_3 2)(log_4 9))) é um número racional.\nÉ (são) verdadeira(s):",
       subItens: []
     },
     options: ["nenhuma.","apenas II.","apenas I e II.","apenas I e III.","I, II e III."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2015,
     text: {
-      principal: "Seja (a1, a2, a3,...) a sequência definida da seguinte forma: a1 = 1, a2 = 1 e an = an-1 + an-2 para n ≥ 3. Considere as afirmações a seguir:\nI. Existem três termos consecutivos, ap, ap+1, ap+2, que, nesta ordem, formam uma progressão geométrica.\nII. a7 é um número primo.\nIII. Se n é múltiplo de 3, então an é par.\nÉ (são) verdadeira(s)",
+      principal: "Seja ($1_{1}$, $1_{2}$, $1_{3}$,...) a sequência definida da seguinte forma: $1_{1}$ = 1, $1_{2}$ = 1 e an = an-1 + an-2 para n ≥ 3. Considere as afirmações a seguir:\nI. Existem três termos consecutivos, ap, ap+1, ap+2, que, nesta ordem, formam uma progressão geométrica.\nII. $1_{7}$ é um número primo.\nIII. Se n é múltiplo de 3, então an é par.\nÉ (são) verdadeira(s)",
       subItens: []
     },
     options: ["apenas II.","apenas I e II.","apenas I e III.","apenas II e III.","I, II e III."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2015,
     text: {
-      principal: "Seja p o polinômio dado por p(x) = ∑(j=0 to 15) ajx^j, com aj ∈ R, j = 0,1,..., 15, e a15 ≠ 0. Sabendo-se que i é uma raiz de p e que p(2) = 1, então o resto da divisão de p pelo polinômio q, dado por q(x) = x³ − 2x² + x – 2, é igual a",
+      principal: "Seja p o polinômio dado por p(x) = ∑(j=0 to 15) ajx^j, com aj ∈ R, j = 0,1,..., 15, e $1_{15}$ ≠ 0. Sabendo-se que i é uma raiz de p e que p(2) = 1, então o resto da divisão de p pelo polinômio q, dado por q(x) = x³ − 2x² + x – 2, é igual a",
       subItens: []
     },
     options: ["(1/5)x² - (3/5)","(1/5)x² + (1/5)","(2/5)x² + (2/5)","(3/5)x² - (3/5)","(3/5)x² + (1/5)"],
@@ -678,7 +678,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2015,
     text: {
-      principal: "Considere as seguintes comparações entre as respectivas temperaturas de fusão dos polímeros representados pelas suas unidades repetitivas:\nI. A do H[OCH2CH2OOC(CH2)4COOCH2CH2OH]n é maior que a do H[OOC-Ph-COOCH2CH2OH]n\nII. A do [CH2CH2]n é maior que a do [CH2CH2O]n\nIII. A do [CH2-Ph-CH2]n é maior que a do [CH2CH2]n\nIV. A do [NH(CH2)6CO]n é maior que a do [NH(CH2)3CO]n\nAssinale a opção que apresenta a(s) comparação(ões) ERRADA(S).",
+      principal: "Considere as seguintes comparações entre as respectivas temperaturas de fusão dos polímeros representados pelas suas unidades repetitivas:\nI. A do H[OCH2CH2OOC($1_{2}$)4COOCH2CH2OH]n é maior que a do H[OOC-Ph-COOCH2CH2OH]n\nII. A do [CH2CH2]n é maior que a do [CH2CH2O]n\nIII. A do [$1_{2}$-Ph-$1_{2}$]n é maior que a do [CH2CH2]n\nIV. A do [NH($1_{2}$)6CO]n é maior que a do [NH($1_{2}$)3CO]n\nAssinale a opção que apresenta a(s) comparação(ões) ERRADA(S).",
       subItens: []
     },
     options: ["Apenas I","Apenas I e IV","Apenas II e III","Apenas III e IV","Apenas IV"],
@@ -711,7 +711,7 @@ createQuestion({
       principal: "Borbulha-se gás cloro em solução aquosa diluída de hidróxido de sódio a 25 °C. Assinale a opção que contém apenas produtos clorados resultantes.",
       subItens: []
     },
-    options: ["Cl¯, ClO3","OCl-, Cl-","ClO3, ClO4, Cl-","ClO3, OCl¯","ClO,ClO3"],
+    options: ["Cl¯, $1_{3}$","OCl-, Cl-","$1_{3}$, $1_{4}$, Cl-","$1_{3}$, OCl¯","ClO,$1_{3}$"],
     correctAnswer: 1,
     materia: "Química – Reações Inorgânicas",
     conteudo: "Química – Reações de Desproporcionamento",
@@ -753,7 +753,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2015,
     text: {
-      principal: "Os óxidos de metais de transição podem ter caráter ácido, básico ou anfótero. Assinale a opção que apresenta o caráter dos seguintes óxidos: CrO, Cr2O3 e CrO3.",
+      principal: "Os óxidos de metais de transição podem ter caráter ácido, básico ou anfótero. Assinale a opção que apresenta o caráter dos seguintes óxidos: CrO, $1_{2}O_{3}$ e $1_{3}$.",
       subItens: []
     },
     options: ["Ácido, anfótero, básico","Ácido, básico, anfótero","Anfótero, ácido, básico","Básico, ácido, anfótero","Básico, anfótero, ácido"],
@@ -768,7 +768,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2015,
     text: {
-      principal: "Considere as seguintes reações químicas e respectivas constantes de equilíbrio:\nN2(g) + O2(g) ⇌ 2NO(g) K₁\n2NO(g) + O2(g) ⇌ 2NO2(g) K2\nNO2(g) ⇌ ½ N2(g) + O2(g) K3\nEntão, K3 é igual a",
+      principal: "Considere as seguintes reações químicas e respectivas constantes de equilíbrio:\$1_{2}$(g) + $1_{2}_{}$(g) ⇌ 2NO(g) K₁\n2NO(g) + $1_{2}_{}$(g) ⇌ 2NO2(g) $1_{2}_{}$\$1_{2}$(g) ⇌ ½ $1_{2}_{}$(g) + $1_{2}_{}$(g) $1_{3}_{}$\nEntão, $1_{3}_{}$ é igual a",
       subItens: []
     },
     options: ["1 / (K₁K₂)","1 / (2K₁K₂)","1 / (4K₁K₂)","sqrt(1 / (K₁K₂))","(1 / (K₁K₂))²"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2015,
     text: {
-      principal: "É de 0,76 V a força eletromotriz padrão, Eº, de uma célula eletroquímica, conforme a reação\nZn(s) + 2H+(aq) → Zn2+(aq) + H2(g).\nNa concentração da espécie de Zn2+ igual a 1,0 molL¯¹ e pressão de H2 de 1,0 bar, a 25 °C, foi verificado que a força eletromotriz da célula eletroquímica é de 0,64 V. Nestas condições, assinale a concentração de íons H⁺ em mol L¯¹.",
+      principal: "É de 0,76 V a força eletromotriz padrão, Eº, de uma célula eletroquímica, conforme a reação\nZn(s) + 2H+(aq) → $1_{2}_{}$+(aq) + $1_{2}_{}$(g).\nNa concentração da espécie de $1_{2}_{}$+ igual a 1,0 molL¯¹ e pressão de $1_{2}_{}$ de 1,0 bar, a 25 °C, foi verificado que a força eletromotriz da célula eletroquímica é de 0,64 V. Nestas condições, assinale a concentração de íons H⁺ em mol L¯¹.",
       subItens: []
     },
     options: ["1,0 x 10⁻¹²","4,2 x 10⁻⁴","1,0 x 10⁻⁴","1,0 x 10⁻²","2,0 x 10⁻²"],
@@ -858,7 +858,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2015,
     text: {
-      principal: "Considere a reação química representada pela equação NH3 + BF3 → H3NBF3. Pode-se afirmar que o BF3 age",
+      principal: "Considere a reação química representada pela equação $1_{3}$ + $1_{3}$ → $1_{3}NBF_{3}$. Pode-se afirmar que o $1_{3}$ age",
       subItens: []
     },
     options: ["como ácido de Bronsted.","como ácido de Lewis.","como base de Bronsted.","como base de Lewis.","tanto como ácido como base."],

@@ -213,7 +213,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "No cubo ABCDEFGH, a aresta mede l. Conforme a figura, o ponto B₁, sobre a aresta AB, é tal que AB₁ = l/3; o ponto D₁, sobre a aresta AD, é tal que AD₁ = l/3 e o ponto H₁, sobre a aresta GH, é tal que GH₁ = l/3.\n[Diagrama de um cubo com os vértices rotulados e os pontos B1, D1 e H1 indicados nas arestas.]\nA área do triângulo B₁D₁H₁ é",
+      principal: "No cubo ABCDEFGH, a aresta mede l. Conforme a figura, o ponto B₁, sobre a aresta AB, é tal que AB₁ = l/3; o ponto D₁, sobre a aresta AD, é tal que AD₁ = l/3 e o ponto H₁, sobre a aresta GH, é tal que GH₁ = l/3.\n[Diagrama de um cubo com os vértices rotulados e os pontos $1_{1}_{}$, $1_{1}_{}$ e $1_{1}_{}$ indicados nas arestas.]\nA área do triângulo B₁D₁H₁ é",
       subItens: []
     },
     options: ["l²/9","l²√3 / 18","5l²√34 / 18","2l²√2 / 9","l²√34 / 18"],
@@ -306,7 +306,7 @@ createQuestion({
       principal: "Uma fonte sonora é lançada do ponto 1 indicado na figura e segue uma trajetória balística parabólica emitindo um tom de frequência constante ff. Sejam f₁ a f₅ as frequências percebidas pelo observador 'o' quando a fonte passa pelos pontos de 1 a 5, respectivamente, indicados na figura.\nObservações:\n• os pontos 1 e 5 estão no mesmo plano horizontal;\n• os pontos 2 e 4 estão na mesma altitude;\n• o ponto 3 é o de maior altitude na trajetória;\n• o ponto 1 é aquele imediatamente depois do lançamento;\n• o ponto 5 é aquele imediatamente antes do choque com o plano horizontal;\n• o observador “o” está na mesma vertical do ponto 3;\n• a fonte emite em todas as direções;\n• considere a velocidade da fonte muito menor que a do som.\nDesta forma, podemos afirmar que:",
       subItens: []
     },
-    options: ["f1 ≥ f2 ≥ f3 = ff ≥ f4 ≥ f5","f₁ = f5 ≥ f2 = f4 ≥ f3 = ff","f₁ = f5 ≤ f2 = f4 ≤ f3 = ff","f1 ≥ f2 ≥ f3 ≥ f4 ≥ f5 ≥ ff","f1 = f5 ≤ f3 = ff ≤ f2 = f4"],
+    options: ["$1_{1}$ ≥ $1_{2}$ ≥ $1_{3}$ = ff ≥ $1_{4}$ ≥ $1_{5}$","f₁ = $1_{5}$ ≥ $1_{2}$ = $1_{4}$ ≥ $1_{3}$ = ff","f₁ = $1_{5}$ ≤ $1_{2}$ = $1_{4}$ ≤ $1_{3}$ = ff","$1_{1}$ ≥ $1_{2}$ ≥ $1_{3}$ ≥ $1_{4}$ ≥ $1_{5}$ ≥ ff","$1_{1}$ = $1_{5}$ ≤ $1_{3}$ = ff ≤ $1_{2}$ = $1_{4}$"],
     correctAnswer: 0,
     materia: "Física – Ondulatória",
     conteudo: "Física – Efeito Doppler",
@@ -453,7 +453,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "A figura a seguir mostra esquematicamente um dispositivo eletroquímico composto pelas meias-células X e Y.\n[Diagrama de uma célula eletroquímica com meias-células X e Y, ponte salina, voltímetro e soluções XSO4 1M e Y2SO4 1M]\nDados: Potenciais-padrão de redução das espécies químicas envolvidas.\nEx⁰ = -1,85 V\nEy⁰ = -2,93 V\nCom base no esquema eletroquímico apresentado na figura e nos dados fornecidos, analise as proposições a seguir na condição do circuito fechado.\nI. A semirreação representada pela equação estequiométrica X⁰ → X⁺² + 2e⁻ é espontânea por ser de oxidação.\nII. O fluxo de elétrons ocorre no sentido horário, indo do anodo para catodo.\nIII. A corrente iônica circula pelos eletrodos e fios metálicos.\nIV. O eletrodo da meia-célula X é o catodo onde ocorre reação de redução.\nV. As reações eletroquímicas podem ser representadas pelas seguintes equações estequiométricas:\nX⁺² + 2e⁻ → X⁰\n2Y⁰ → 2Y⁺ + 2e⁻\nA opção que apresenta APENAS afirmativas verdadeiras é:",
+      principal: "A figura a seguir mostra esquematicamente um dispositivo eletroquímico composto pelas meias-células X e Y.\n[Diagrama de uma célula eletroquímica com meias-células X e Y, ponte salina, voltímetro e soluções $1_{4}$ 1M e $1_{2}SO_{4}$ 1M]\nDados: Potenciais-padrão de redução das espécies químicas envolvidas.\nEx⁰ = -1,85 V\nEy⁰ = -2,93 V\nCom base no esquema eletroquímico apresentado na figura e nos dados fornecidos, analise as proposições a seguir na condição do circuito fechado.\nI. A semirreação representada pela equação estequiométrica X⁰ → X⁺² + 2e⁻ é espontânea por ser de oxidação.\nII. O fluxo de elétrons ocorre no sentido horário, indo do anodo para catodo.\nIII. A corrente iônica circula pelos eletrodos e fios metálicos.\nIV. O eletrodo da meia-célula X é o catodo onde ocorre reação de redução.\nV. As reações eletroquímicas podem ser representadas pelas seguintes equações estequiométricas:\nX⁺² + 2e⁻ → X⁰\n2Y⁰ → 2Y⁺ + 2e⁻\nA opção que apresenta APENAS afirmativas verdadeiras é:",
       subItens: []
     },
     options: ["I e III.","II, III e IV.","I e V.","IV e V.","II e V."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "Óxido de ferro II pode ser reduzido a ferro, tanto por carbono, como por monóxido de carbono, de acordo com o mostrado nas equações 1 e 2:\n1. FeO(s) + C(s) → Fe(s) + CO(g)\n2. FeO(s) + CO(g) → Fe(s) + CO₂(g)\nOs valores de entalpia de formação e de entropia-padrão das substâncias envolvidas em ambas reações são apresentados na tabela:\n[Tabela com ΔHƒ° (kJ.mol⁻¹) e S° (J.K⁻¹.mol⁻¹) para FeO(s), Fe(s), C(s), CO(g), CO₂(g)]\nConsidere um meio reacional fechado onde ocorrem as duas reações e que os valores acima permanecem constantes na faixa de 298 a 650 K.\nA ÚNICA alternativa correta é:",
+      principal: "Óxido de ferro II pode ser reduzido a ferro, tanto por carbono, como por monóxido de carbono, de acordo com o mostrado nas equações 1 e 2:\$1_{1}$. FeO(s) + C(s) → Fe(s) + CO(g)\$1_{2}$. FeO(s) + CO(g) → Fe(s) + CO₂(g)\nOs valores de entalpia de formação e de entropia-padrão das substâncias envolvidas em ambas reações são apresentados na tabela:\n[Tabela com ΔHƒ° (kJ.mol⁻¹) e S° (J.K⁻¹.mol⁻¹) para FeO(s), Fe(s), C(s), CO(g), CO₂(g)]\nConsidere um meio reacional fechado onde ocorrem as duas reações e que os valores acima permanecem constantes na faixa de 298 a 650 K.\nA ÚNICA alternativa correta é:",
       subItens: []
     },
     options: ["A reação 1 é exotérmica e a reação 2 é endotérmica.","À temperatura aproximada de 627 K, a reação 2 atinge o equilíbrio dinâmico.","À temperatura de 450 K, a reação 1 é fonte de calor para sustentar a reação 2 na proporção molar aproximada de 15 para 1.","À temperatura de 450 K, ambas as reações são espontâneas.","A reação 1 apresenta diminuição de entropia."],

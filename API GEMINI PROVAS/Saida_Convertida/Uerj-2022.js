@@ -288,7 +288,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "Um teste de material foi realizado com placas de vidro homogêneo. Considere I0 a intensidade de luz que incide no vidro e I a quantidade de luz que o atravessa. Observe a equação que relaciona I e I, a partir da constante e, sendo x a espessura do vidro, em milímetros, e k a constante do material com que foi fabricado: [EQUAÇÃO: I/I0 = e^(-kx)] Considere a tabela a seguir, que apresenta valores aproximados para e^(-w): [TABELA: w | 0,20 | 0,21 | 0,22 | 0,23 | 0,24 ; e^(-w) | 0,819 | 0,811 | 0,802 | 0,794 | 0,787] Para k = 0,046 e x = 5 mm, a porcentagem da intensidade da luz incidente que atravessa o vidro é:",
+      principal: "Um teste de material foi realizado com placas de vidro homogêneo. Considere $1_{0}_{}$ a intensidade de luz que incide no vidro e I a quantidade de luz que o atravessa. Observe a equação que relaciona I e I, a partir da constante e, sendo x a espessura do vidro, em milímetros, e k a constante do material com que foi fabricado: [EQUAÇÃO: I/$1_{0}_{}$ = e^(-kx)] Considere a tabela a seguir, que apresenta valores aproximados para e^(-w): [TABELA: w | 0,20 | 0,21 | 0,22 | 0,23 | 0,24 ; e^(-w) | 0,819 | 0,811 | 0,802 | 0,794 | 0,787] Para k = 0,046 e x = 5 mm, a porcentagem da intensidade da luz incidente que atravessa o vidro é:",
       subItens: []
     },
     options: ["78,7%","79,4%","80,2%","81,1%"],
@@ -591,7 +591,7 @@ createQuestion({
       principal: "Nas reações químicas de decomposição, uma substância composta se decompõe em duas ou mais substâncias. Um exemplo de reação química de decomposição está representado em:",
       subItens: []
     },
-    options: ["CaCO3 → CaO + CO2","MgO + H2O → Mg(OH)2","Zn + H₂SO₄ → ZnSO4 + H₂","HNO3 + NaOH → NaNO3 + H2O"],
+    options: ["$1_{3}$ → CaO + $1_{2}$","MgO + $1_{2}O_{}$ → Mg(OH)2","Zn + H₂SO₄ → $1_{4}$ + H₂","$1_{3}$ + NaOH → $1_{3}$ + $1_{2}O_{}$"],
     correctAnswer: 0,
     materia: "Química – Reações Químicas",
     conteudo: "",
@@ -648,7 +648,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "O ácido acetilsalicílico é um medicamento usado no combate à febre e à dor. No organismo, ele é hidrolisado, formando o ácido salicílico e um composto X, conforme representado na equação química abaixo. [EQUAÇÃO: Estrutura do ácido acetilsalicílico + H2O <=> Estrutura do ácido salicílico + Estrutura do composto X.] O composto X, formado nessa reação, é denominado:",
+      principal: "O ácido acetilsalicílico é um medicamento usado no combate à febre e à dor. No organismo, ele é hidrolisado, formando o ácido salicílico e um composto X, conforme representado na equação química abaixo. [EQUAÇÃO: Estrutura do ácido acetilsalicílico + $1_{2}O_{}$ \le> Estrutura do ácido salicílico + Estrutura do composto X.] O composto X, formado nessa reação, é denominado:",
       subItens: []
     },
     options: ["etanoato de etila","ácido etanoico","etoxietano","etanol"],
@@ -681,7 +681,7 @@ createQuestion({
       principal: "Em uma análise de poluentes atmosféricos, foi identificada a presença de alguns óxidos ácidos. Observe no gráfico o número de mols de um desses óxidos, em relação ao número de mols de átomos do ametal X e do oxigênio que o formam. [GRÁFICO: Eixo Y: número de mols de átomos. Eixo X: número de mols do óxido. Uma linha 'oxigênio' e uma linha 'ametal X' partindo da origem, indicando as proporções atômicas no óxido.] Para identificar esse óxido, foi realizada sua reação química de hidratação na proporção molar de 1:1 entre os reagentes. Nessa reação, a fórmula mínima do ácido obtido é:",
       subItens: []
     },
-    options: ["HXO₂","HXO3","H₂XO3","H₂XO4"],
+    options: ["HXO₂","$1_{3}$","H₂$1_{3}$","H₂$1_{4}$"],
     correctAnswer: 1,
     materia: "Química – Química Inorgânica",
     conteudo: "",
@@ -813,7 +813,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "[IMAGEM: Foto do povo indígena Krenak expulso da terra e confinado em fazenda (Foto de 1987).] A 14ª Vara Federal de Minas Gerais condenou a União, a Fundação Nacional do Índio (Funai) e o governo do estado por violações dos direitos humanos e civis do povo indígena Krenak, que vive na região do Vale do Rio Doce. Em 1972, durante a ditadura militar, homens, mulheres e crianças foram expulsos de suas terras pelo governo e obrigados a viver confinados na Fazenda Guarani, pertencente à Polícia Militar, em Carmésia, a mais de 300 quilômetros de distância de suas terras. A medida teve o objetivo de facilitar a ação de posseiros vizinhos, que tomaram os mais de 4 mil hectares dos indígenas. Adaptado de g1.globo.com, 15/09/2021. A ação do governo brasileiro à época revela a seguinte postura diante de conflitos rurais:",
+      principal: "[IMAGEM: Foto do povo indígena Krenak expulso da terra e confinado em fazenda (Foto de 1987).] A 14ª Vara Federal de Minas Gerais condenou a União, a Fundação Nacional do Índio (Funai) e o governo do estado por violações dos direitos humanos e civis do povo indígena Krenak, que vive na região do Vale do Rio Doce. Em 1972, durante a ditadura militar, homens, mulheres e crianças foram expulsos de suas terras pelo governo e obrigados a viver confinados na Fazenda Guarani, pertencente à Polícia Militar, em Carmésia, a mais de 300 quilômetros de distância de suas terras. A medida teve o objetivo de facilitar a ação de posseiros vizinhos, que tomaram os mais de 4 mil hectares dos indígenas. Adaptado de $1_{1}$.globo.com, 15/09/2021. A ação do governo brasileiro à época revela a seguinte postura diante de conflitos rurais:",
       subItens: []
     },
     options: ["contenção violenta da reforma agrária","redistribuição autoritária da propriedade fundiária","expropriação arbitrária da comunidade tradicional","modernização conservadora da estrutura produtiva"],

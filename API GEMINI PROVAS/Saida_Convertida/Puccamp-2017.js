@@ -21,7 +21,7 @@ createQuestion({
       principal: "Cada um dos segmentos abaixo transcritos está associa-do a um comentário sobre o sentido que tem no processo argumentativo. A alternativa que apresenta a correta asso-ciação é:",
       subItens: []
     },
-    options: ["(parágrafo 1) e aliás está munido de um celular que The coloca o mundo nas mãos a qualquer momen-to / ideia que reforça a dificuldade do cronista em atualizar o interesse em um velho tema: o leitor de jornal ou de revista já dispõe de acesso, e mais rá-pido, a um determinado assunto do que uma crônica sobre o mesmo tema poderia possibilitar.","(parágrafo 2) Lá vai o cronista caçar assunto no computador/frase em que a ironia é arma de ata-que a cronistas sem assunto que buscam facilitar seu trabalho utilizando informações organizadas por empresa estrangeira que desconhece a cultura bra-sileira.","(parágrafo 3) O velho bifinho da tia ou o saudoso pi-cadinho da vovó, receitas domésticas guardadas no segredo das bocas, viraram nomes estrangeiros, sob molhos complicados, de apelido francês/frase que exprime, por meio da exploração do risível nas for-mas diminutivas, que dificilmente seremos um país povoado [...] por chefs de cuisine.","(parágrafo 4) Que sentido mesmo tiveram a aboli-ção da escravatura e a proclamação da Repúbli-ca?/indagação que evidencia que o campo da edu-cação, no Brasil, é frágil, visto que episódios histó-ricos relevantes nem mesmo são bem compreen-didos por grande parte do público brasileiro, o que dificulta a escolha de temas pelo cronista.","(parágrafo 7) O mesmo ocorre com o material das fi-tas, dos CDs e DVDs: o mundo digital armazena tu-do e propaga tudo instantaneamente / afirmação pela qual se defende que a transitoriedade, que atin-girá o papel como suporte de comunicação, também atingirá o mundo digital, o que justifica a previsão do apocalipse profissional do cronista."],
+    options: ["(parágrafo 1) e aliás está munido de um celular que The coloca o mundo nas mãos a qualquer momen-to / ideia que reforça a dificuldade do cronista em atualizar o interesse em um velho tema: o leitor de jornal ou de revista já dispõe de acesso, e mais rá-pido, a um determinado assunto do que uma crônica sobre o mesmo tema poderia possibilitar.","(parágrafo 2) Lá vai o cronista caçar assunto no computador/frase em que a ironia é arma de ata-que a cronistas sem assunto que buscam facilitar seu trabalho utilizando informações organizadas por empresa estrangeira que desconhece a cultura bra-sileira.","(parágrafo 3) O velho bifinho da tia ou o saudoso \pi-cadinho da vovó, receitas domésticas guardadas no segredo das bocas, viraram nomes estrangeiros, sob molhos complicados, de apelido francês/frase que exprime, por meio da exploração do risível nas for-mas diminutivas, que dificilmente seremos um país povoado [...] por chefs de cuisine.","(parágrafo 4) Que sentido mesmo tiveram a aboli-ção da escravatura e a proclamação da Repúbli-ca?/indagação que evidencia que o campo da edu-cação, no Brasil, é frágil, visto que episódios histó-ricos relevantes nem mesmo são bem compreen-didos por grande parte do público brasileiro, o que dificulta a escolha de temas pelo cronista.","(parágrafo 7) O mesmo ocorre com o material das fi-tas, dos CDs e DVDs: o mundo digital armazena tu-do e propaga tudo instantaneamente / afirmação pela qual se defende que a transitoriedade, que atin-girá o papel como suporte de comunicação, também atingirá o mundo digital, o que justifica a previsão do apocalipse profissional do cronista."],
     correctAnswer: 0,
     materia: "Língua Portuguesa – Interpretação de Texto; Argumentação",
     conteudo: "",
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2017,
     text: {
-      principal: "Fertilizantes do tipo NPK possuem proporções diferentes dos elementos nitrogênio (N), fósforo (P) e potássio (Κ). Uma formulação comum utilizada na produção de pimenta é a NPK 4-30-16, que significa 4% de nitrogênio total, 30% de P2O5 e 16% de K2O, em massa. Assim, a quantidade, em mol, de P contida em 100 g desse fertilizante é de, aproximadamente,\nDados:\nMassas molares (g. mol-1)\nO = 16,0\nP = 31,0",
+      principal: "Fertilizantes do tipo NPK possuem proporções diferentes dos elementos nitrogênio (N), fósforo (P) e potássio (Κ). Uma formulação comum utilizada na produção de pimenta é a NPK 4-30-16, que significa 4% de nitrogênio total, 30% de $1_{2}O_{5}$ e 16% de $1_{2}O_{}$, em massa. Assim, a quantidade, em mol, de P contida em 100 g desse fertilizante é de, aproximadamente,\nDados:\nMassas molares (g. mol-1)\nO = 16,0\nP = 31,0",
       subItens: []
     },
     options: ["0,25.","0,33.","0,42.","0,51.","0,68."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2017,
     text: {
-      principal: "Um dos materiais dos CDs e DVDs é o policarbonato, cuja fórmula está representada abaixo.\n[Image of chemical structure: CH3-C(C6H4O-)2-CH3, repeating n times]\nEsse polímero possui",
+      principal: "Um dos materiais dos CDs e DVDs é o policarbonato, cuja fórmula está representada abaixo.\n[Image of chemical structure: $1_{3}$-C(C6H4O-)2-$1_{3}$, repeating n times]\nEsse polímero possui",
       subItens: []
     },
     options: ["radical fenil.","cadeia simples.","cadeia homogênea.","anel aromático.","grupo carbonila."],

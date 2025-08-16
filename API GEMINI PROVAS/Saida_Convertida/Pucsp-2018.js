@@ -3,7 +3,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "A figura a seguir ilustra a composição de dois carboidratos, o amido e a celulose.\nCH2OH\nH\nH\n4\nH\nOH H\nHO\nOH\nH OH\nGlicose a\nAmido: cadeia de subunidades de glicose a\nCH2OH\nH\nOH\n4\nH\nOH H\nHO\nH\nH\nOH\nGlicose β\nCelulose: cadeia de subunidades de glicose β\nFonte: Raven, PH; Johnson, GB Biology. 6th Edition. Mc Graw-Hill, 2002\nAs afirmativas a seguir dizem respeito a esses compostos.\nI Tanto o amido quanto a celulose são considerados polissacarídeos.\nII Pelo fato de ambos serem constituídos por monômeros de glicose, amido e celulose são hidrolisados pelas\nmesmas enzimas digestórias.\nIII As configurações moleculares diferentes da glicose a e glicose β resultam em biopolímeros diferenciados:\nenquanto o amido serve de reserva de energia, a celulose forma fibras de grande importância estrutural\nnas plantas.\nEstá CORRETO o que se afirma",
+      principal: "A figura a seguir ilustra a composição de dois carboidratos, o amido e a celulose.\nCH2OH\nH\nH\$1_{4}$\nH\nOH H\nHO\nOH\nH OH\nGlicose a\nAmido: cadeia de subunidades de glicose a\nCH2OH\nH\nOH\$1_{4}$\nH\nOH H\nHO\nH\nH\nOH\nGlicose β\nCelulose: cadeia de subunidades de glicose β\nFonte: Raven, PH; Johnson, GB Biology. 6th Edition. Mc Graw-Hill, 2002\nAs afirmativas a seguir dizem respeito a esses compostos.\nI Tanto o amido quanto a celulose são considerados polissacarídeos.\nII Pelo fato de ambos serem constituídos por monômeros de glicose, amido e celulose são hidrolisados pelas\nmesmas enzimas digestórias.\nIII As configurações moleculares diferentes da glicose a e glicose β resultam em biopolímeros diferenciados:\nenquanto o amido serve de reserva de energia, a celulose forma fibras de grande importância estrutural\nnas plantas.\nEstá CORRETO o que se afirma",
       subItens: []
     },
     options: ["em II, apenas.","em I e III, apenas.","em II e III, apenas.","em I, II e III."],
@@ -18,7 +18,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "O mapa a seguir identifica com números as áreas correspondentes aos diferentes biomas brasileiros.\n1\n3\n2\n6\n4\n5\nFonte: Mapa de Biomas do Brasil. IBGE. 2004\nÉ CORRETO supor que a maior variedade de nichos ecológicos e microambientes favoráveis ao estabelecimento do epifitismo ocorra nos biomas",
+      principal: "O mapa a seguir identifica com números as áreas correspondentes aos diferentes biomas brasileiros.\$1_{1}$\$1_{3}$\$1_{2}$\$1_{6}$\$1_{4}$\$1_{5}$\nFonte: Mapa de Biomas do Brasil. IBGE. 2004\nÉ CORRETO supor que a maior variedade de nichos ecológicos e microambientes favoráveis ao estabelecimento do epifitismo ocorra nos biomas",
       subItens: []
     },
     options: ["4, 5 e 6.","1, 2 e 3.","1 e 4.","2 e 3."],
@@ -48,7 +48,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Células de um mamífero com número diploide de cromossomos igual a 20 foram mantidas em um meio de cultura laboratorial. Posteriormente, foi realizada a fusão citoplasmática de uma célula A, que se encontrava na fase G1 da intérfase, com uma célula B, que se encontrava em prófase da mitose. Os núcleos das duas células permaneceram independentes. Imediatamente após a fusão citoplasmática o núcleo da célula A iniciou a mitose. Neste momento, a quantidade de moléculas de DNA no núcleo A é igual a",
+      principal: "Células de um mamífero com número diploide de cromossomos igual a 20 foram mantidas em um meio de cultura laboratorial. Posteriormente, foi realizada a fusão citoplasmática de uma célula A, que se encontrava na fase $1_{1}_{}$ da intérfase, com uma célula B, que se encontrava em prófase da mitose. Os núcleos das duas células permaneceram independentes. Imediatamente após a fusão citoplasmática o núcleo da célula A iniciou a mitose. Neste momento, a quantidade de moléculas de DNA no núcleo A é igual a",
       subItens: []
     },
     options: ["10.","20.","40.","80."],
@@ -63,7 +63,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Considere a seguinte filogenia.\nDrosófila\nAnfioxo\nPaulistinha\nSapo\nGalinha\nHumano\nCamundongo\n542\nPALEOZOICO\n396,5\n251\nMilhões de anos atrás\nMESOZOICO\nCENOZOICO\n158,3\n65,5 Presente\nFonte: Reece e cols. Biologia de Campbell. 10a. ed. Porto Alegre: Artmed, 2015.\nDe acordo com as informações expressas na filogenia, é CORRETO afirmar que",
+      principal: "Considere a seguinte filogenia.\nDrosófila\nAnfioxo\nPaulistinha\nSapo\nGalinha\nHumano\nCamundongo\$1_{542}$\nPALEOZOICO\$1_{396}$,5\$1_{251}$\nMilhões de anos atrás\nMESOZOICO\nCENOZOICO\$1_{158}$,3\$1_{65}$,5 Presente\nFonte: Reece e cols. Biologia de Campbell. 10a. ed. Porto Alegre: Artmed, 2015.\nDe acordo com as informações expressas na filogenia, é CORRETO afirmar que",
       subItens: []
     },
     options: ["a notocorda é uma estrutura que surgiu há cerca de 542 milhões de anos.","a respiração pulmonar nos vertebrados surgiu há mais de 400 milhões de anos.","a homeotermia é uma novidade evolutiva surgida no Cenozoico.","a coluna vertebral é uma estrutura surgida há cerca de 300 milhões de anos."],
@@ -78,7 +78,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "A produção de vacinas contra diversas doenças virais passa pela multiplicação dos vírus em ovos embrionados de galinha.\nA figura a seguir ilustra a inoculação de alguns vírus em partes específicas do ovo.\n6\n5\n4\n3\nPoxvírus\n2\n1\n7\n8\nVírus da caxumba\nVírus da herpes\nVírus influenza\nConsiderando os diferentes anexos embrionários em que são inoculados os vírus citados na figura, é CORRETO afirmar que",
+      principal: "A produção de vacinas contra diversas doenças virais passa pela multiplicação dos vírus em ovos embrionados de galinha.\nA figura a seguir ilustra a inoculação de alguns vírus em partes específicas do ovo.\$1_{6}$\$1_{5}$\$1_{4}$\$1_{3}$\nPoxvírus\$1_{2}$\$1_{1}$\$1_{7}$\$1_{8}$\nVírus da caxumba\nVírus da herpes\nVírus influenza\nConsiderando os diferentes anexos embrionários em que são inoculados os vírus citados na figura, é CORRETO afirmar que",
       subItens: []
     },
     options: ["o vírus da gripe é inoculado no anexo 3, que permite o desenvolvimento embrionário em ambiente terrestre e serve como depósito de excretas produzidas pelo embrião.","o anexo 6, onde se inocula o vírus da caxumba, é encontrado em todos os grupos de vertebrados e protege o embrião contra choques mecânicos.","o anexo 2, que armazena substâncias nutritivas para o embrião, passa a produzir anticorpos contra o vírus da herpes, os quais serão purificados e utilizados nas vacinas.","o anexo 1, que permite trocas gasosas entre o embrião e o meio externo, contém elementos do cório e do âmnio, e é onde há multiplicação de antígenos dos poxvírus inoculados."],
@@ -93,7 +93,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "O metabolismo de certos microrganismos gera elétrons que podem ser capturados por eletrodos e utilizados na geração de energia elétrica. Alguns desses microrganismos vivem no solo próximo às raízes das plantas, beneficiando-se de produtos orgânicos sintetizados durante a fotossíntese e incorporados ao solo pelas raízes. Um grupo de pesquisadores peruanos desenvolveu um sistema de captação dos elétrons provenientes do metabolismo de geobactérias, composto de eletrodos inseridos em uma placa que recebe esses elétrons e gera um fluxo de corrente elétrica que será armazenada em uma bateria. Essa energia é suficiente para manter o funcionamento de uma lâmpada LED por até duas horas diárias, o que é particularmente útil para populações humanas que não têm acesso algum à energia elétrica. Nesse contexto, considere o gráfico a seguir.\nCaptação líquida de CO2 (µmol CO2/m²/s)\n20\n10\n0\n-10\n250\nPlanta de sol\nPlanta de sombra\n750\nIntensidade luminosa (µmol/m²/s)\n1250\nFonte: <https://fluence.science/science/photosynthesis-guide/>\nSupondo que o abastecimento das geobactérias pelas raízes das plantas seja proporcional à produtividade na fotossíntese, assinale a alternativa CORRETA.",
+      principal: "O metabolismo de certos microrganismos gera elétrons que podem ser capturados por eletrodos e utilizados na geração de energia elétrica. Alguns desses microrganismos vivem no solo próximo às raízes das plantas, beneficiando-se de produtos orgânicos sintetizados durante a fotossíntese e incorporados ao solo pelas raízes. Um grupo de pesquisadores peruanos desenvolveu um sistema de captação dos elétrons provenientes do metabolismo de geobactérias, composto de eletrodos inseridos em uma placa que recebe esses elétrons e gera um fluxo de corrente elétrica que será armazenada em uma bateria. Essa energia é suficiente para manter o funcionamento de uma lâmpada LED por até duas horas diárias, o que é particularmente útil para populações humanas que não têm acesso algum à energia elétrica. Nesse contexto, considere o gráfico a seguir.\nCaptação líquida de $1_{2}$ (µmol $1_{2}$/m²/s)\$1_{20}$\$1_{10}$\$1_{0}$\n-10\$1_{250}$\nPlanta de sol\nPlanta de sombra\$1_{750}$\nIntensidade luminosa (µmol/m²/s)\$1_{1250}$\nFonte: <https://fluence.science/science/photosynthesis-guide/>\nSupondo que o abastecimento das geobactérias pelas raízes das plantas seja proporcional à produtividade na fotossíntese, assinale a alternativa CORRETA.",
       subItens: []
     },
     options: ["Uma planta de sol é a melhor escolha para abastecer o sistema, pois seu ponto de compensação fótico é inferior ao de uma planta de sombra.","O armazenamento de energia na bateria que mantém a luz acesa será inversamente proporcional à captação líquida diária de CO₂, seja a planta de sol ou de sombra.","Uma planta de sombra associada ao sistema começa a gerar produtos da fotossíntese que serão utilizados pelas geobactérias em intensidades luminosas menores que uma planta de sol.","A quantidade de produtos derivados da fotossíntese fornecidos às geobactérias será o mesmo, seja a planta de sol ou de sombra, pois ambas atingem um ponto de saturação luminosa."],
@@ -138,7 +138,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Quando necessário, adote os valores da tabela:\nmódulo da aceleração da gravidade: 10 m.s⁻²\ncalor latente de vaporização da água: 540 cal.g⁻¹\ncalor específico da água: 1,0 cal.g⁻¹. °C⁻¹\ndensidade da água: 1 g.cm³\ncalor específico do cobre: 0,094 cal.g⁻¹. °C⁻¹\ncalor latente de fusão do cobre: 49 cal.g⁻¹\ntemperatura de fusão do cobre: 1083°C\n1 cal = 4,0 J\nπ = 3\nsen30° = 0,5\ncos30°= 0,8\nDetermine, em ohm, o valor da resistência do resistor equivalente da associação abaixo:\n12Ω\nA\n12Ω\n12Ω\n12Ω\n12Ω\n12Ω\nB",
+      principal: "Quando necessário, adote os valores da tabela:\nmódulo da aceleração da gravidade: 10 m.s⁻²\ncalor latente de vaporização da água: 540 cal.g⁻¹\ncalor específico da água: 1,0 cal.g⁻¹. °C⁻¹\ndensidade da água: 1 g.cm³\ncalor específico do cobre: 0,094 cal.g⁻¹. °C⁻¹\ncalor latente de fusão do cobre: 49 cal.g⁻¹\ntemperatura de fusão do cobre: 1083°C\$1_{1}$ cal = 4,0 J\nπ = 3\$1_{30}$° = 0,5\$1_{30}$°= 0,8\nDetermine, em ohm, o valor da resistência do resistor equivalente da associação abaixo:\$1_{12}$Ω\nA\$1_{12}$Ω\$1_{12}$Ω\$1_{12}$Ω\$1_{12}$Ω\$1_{12}$Ω\nB",
       subItens: []
     },
     options: ["0","12","24","36"],
@@ -153,7 +153,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "A ocorrência do eclipse da figura só foi possível porque a Lua, além de estar alinhada com o Sol e a Terra, estava na fase\n<\n3/31 SLIDES © Patrick Gorski/NurPhoto via Getty Images\n>\nCHESTER, ILLINOIS, ESTADOS UNIDOS\nO ECLIPSE SOLAR TOTAL É VISTO DA PONTE DO RIO MARY\nhttp://www.msn.com/pt-br/clima/noticias-do-clima/imagens Consultado em: (31/08/2017)",
+      principal: "A ocorrência do eclipse da figura só foi possível porque a Lua, além de estar alinhada com o Sol e a Terra, estava na fase\n<\$1_{3}$/31 SLIDES © Patrick Gorski/NurPhoto via Getty Images\n>\nCHESTER, ILLINOIS, ESTADOS UNIDOS\nO ECLIPSE SOLAR TOTAL É VISTO DA PONTE DO RIO MARY\nhttp://www.msn.com/pt-br/clima/noticias-do-clima/imagens Consultado em: (31/08/2017)",
       subItens: []
     },
     options: ["quarto crescente.","quarto minguante.","nova.","cheia."],
@@ -258,7 +258,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Duas esferas metálicas idênticas, de massas iguais a 1kg, são disparadas simultaneamente do alto de uma plataforma de 3m de altura em relação ao solo. A plataforma é retirada após os lançamentos. A esfera 1 é lançada verticalmente para cima com velocidade de módulo igual a 3m/s. A esfera 2 é disparada obliquamente com velocidade de módulo igual a 20m/s, formando 30° com o plano horizontal.\nDetermine, em relação ao solo, as energias potencial gravitacional e cinética, respectivamente, da Esfera 1, no exato momento em que a Esfera 2 atinge a altura máxima de seu movimento. Despreze o atrito com o ar.\n3m\nV1\n30°\n12",
+      principal: "Duas esferas metálicas idênticas, de massas iguais a 1kg, são disparadas simultaneamente do alto de uma plataforma de 3m de altura em relação ao solo. A plataforma é retirada após os lançamentos. A esfera 1 é lançada verticalmente para cima com velocidade de módulo igual a 3m/s. A esfera 2 é disparada obliquamente com velocidade de módulo igual a 20m/s, formando 30° com o plano horizontal.\nDetermine, em relação ao solo, as energias potencial gravitacional e cinética, respectivamente, da Esfera 1, no exato momento em que a Esfera 2 atinge a altura máxima de seu movimento. Despreze o atrito com o ar.\n3m\$1_{1}$\$1_{30}$°\$1_{12}$",
       subItens: []
     },
     options: ["10 J e 24,5 J","20 J e 14,5 J","40 J e 34,5 J","50 J e 84,5 J"],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Observe a figura abaixo e assinale a alternativa INCORRETA.\nBr\n3 Nat\nC\nالله\nF\nLit OD\nCD\nRb+\nFonte: Ohara Augusto. Radicais livres bons, maus e naturais.\nEd. Oficina de textos, 2006.",
+      principal: "Observe a figura abaixo e assinale a alternativa INCORRETA.\nBr\$1_{3}$ Nat\nC\nالله\nF\nLit OD\nCD\nRb+\nFonte: Ohara Augusto. Radicais livres bons, maus e naturais.\nEd. Oficina de textos, 2006.",
       subItens: []
     },
     options: ["Átomos que pertencem à família dos metais alcalinos formam cátions monovalentes.","Átomos que pertencem ao grupo 17 formam ânions monovalentes.","A ligação iônica ocorre entre cátions e ânions e é caracterizada pela existência de forças de atração eletrostática entre eles.","Na ligação iônica, apenas átomos que perdem e ganham a mesma quantidade de elétrons podem se combinar."],
@@ -303,7 +303,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Dados os valores de energia de ligação em kJ/mol e a reação a seguir, calcule o ∆H desse processo.\nH₂₍g₎ + Cl₂₍g₎ → 2 HCl₍g₎\nLigação\nEnergia\n(kJ/mol)\nH-H\n436\nCl-Cl\n242\nH-Cl\n431",
+      principal: "Dados os valores de energia de ligação em kJ/mol e a reação a seguir, calcule o ∆H desse processo.\nH₂₍g₎ + Cl₂₍g₎ → 2 HCl₍g₎\nLigação\nEnergia\n(kJ/mol)\nH-H\$1_{436}$\nCl-Cl\$1_{242}$\nH-Cl\$1_{431}$",
       subItens: []
     },
     options: ["– 184 kJ/mol.","+ 184 kJ/mol.","+ 247 kJ/mol.","– 247 kJ/mol."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "No dia 13 de setembro desse ano, completaram-se 30 anos do acidente com o Césio - 137.\n12 caderno quinta-feira, 110/8\nNacional\nJORNAL DO BRASIT\nCésio em ferro-velho espalha radioatividade em Goiânia\nJnäomar Carvalhe\nGOEANIA Domes peusi\nUm\nremédio\nmortal\nDepart\nHagner Mota recolheu a cápsula com cáslo e foi internade\npregalo em modeias\nmuclear pora conurele de ev\npunião de tantes quando\namorse, pode provocar e efoto\ncartrana so depos\nBenedico de\nJelesteo Bawlessa de\nSunta Unca\nque depondcado de e\nde de redação aterada\nprovocar, de locu\nrapis castricas, paralisia\nrescama nervoso ocaerse saor\nse. A Inaga prazo, pode cover\n(meninação\nBlam expitou ее изо\nasifter gravida pode abortor\nse for exposte so cesto 137.\neloseate capat de provocar\nansformate nos vos, dupon\nacado de garatsede de radia\nção que ahuarver.\nObserve a equação a seguir:\n¹³⁷₅₅Cs → X + ¹³⁷₅₆Ba\nO X pode ser corretamente substituído por",
+      principal: "No dia 13 de setembro desse ano, completaram-se 30 anos do acidente com o Césio - 137.\$1_{12}$ caderno quinta-feira, 110/8\nNacional\nJORNAL DO BRASIT\nCésio em ferro-velho espalha radioatividade em Goiânia\nJnäomar Carvalhe\nGOEANIA Domes peusi\nUm\nremédio\nmortal\nDepart\nHagner Mota recolheu a cápsula com cáslo e foi internade\npregalo em modeias\nmuclear pora conurele de ev\npunião de tantes quando\namorse, pode provocar e efoto\ncartrana so depos\nBenedico de\nJelesteo Bawlessa de\nSunta Unca\nque depondcado de e\nde de redação aterada\nprovocar, de locu\nrapis castricas, paralisia\nrescama nervoso ocaerse saor\nse. A Inaga prazo, pode cover\n(meninação\nBlam expitou ее изо\nasifter gravida pode abortor\nse for exposte so cesto 137.\neloseate capat de provocar\nansformate nos vos, dupon\nacado de garatsede de radia\nção que ahuarver.\nObserve a equação a seguir:\n¹³⁷₅₅Cs → X + ¹³⁷₅₆Ba\nO X pode ser corretamente substituído por",
       subItens: []
     },
     options: ["partícula α.","partícula β.","radiação γ.","raio X."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Atribui-se aos pitagóricos a ideia de números figurados. Esses números expressam configurações geométricas e representam um elo entre a geometria e a aritmética.\nA tabela mostra alguns desses números e suas respectivas expressões algébricas gerais, em que n é um número natural diferente de zero.\nNúmeros figurados\nOblongos\nPentagonais\nHexagonais\nExpressões\nalgébricas gerais\nn(n+1)\nn (3n-1)\n2n²-n\n2\nFonte: Carl B. Boyer. História da matemática - Editora Edgard Blücher-1974 (Adaptado)\nSabendo que para determinado valor de n, o número pentagonal correspondente possui 3 unidades a menos que o número hexagonal, então, o valor do número oblongo que corresponde ao dobro do valor de n é",
+      principal: "Atribui-se aos pitagóricos a ideia de números figurados. Esses números expressam configurações geométricas e representam um elo entre a geometria e a aritmética.\nA tabela mostra alguns desses números e suas respectivas expressões algébricas gerais, em que n é um número natural diferente de zero.\nNúmeros figurados\nOblongos\nPentagonais\nHexagonais\nExpressões\nalgébricas gerais\nn(n+1)\nn (3n-1)\n2n²-n\$1_{2}$\nFonte: Carl B. Boyer. História da matemática - Editora Edgard Blücher-1974 (Adaptado)\nSabendo que para determinado valor de n, o número pentagonal correspondente possui 3 unidades a menos que o número hexagonal, então, o valor do número oblongo que corresponde ao dobro do valor de n é",
       subItens: []
     },
     options: ["18.","26.","34.","42."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Observe a ilustração abaixo e assinale a alternativa CORRETA quanto ao que está representado.\nA região geoeconômica abarca\n337 municípios, se estende por\n73 milhões de hectares e\natravessa diversos territórios\nocupados por populações\ntradicionais e camponesas\nFonte: https://www.farmlandgrab.org, acesso em 30/10/2017.",
+      principal: "Observe a ilustração abaixo e assinale a alternativa CORRETA quanto ao que está representado.\nA região geoeconômica abarca\$1_{337}$ municípios, se estende por\$1_{73}$ milhões de hectares e\natravessa diversos territórios\nocupados por populações\ntradicionais e camponesas\nFonte: https://www.farmlandgrab.org, acesso em 30/10/2017.",
       subItens: []
     },
     options: ["Área que vem sendo vista como a grande fronteira agrícola nacional, o Matopiba abrange o bioma do Cerrado. Responde por meio do agronegócio a grande parte da produção brasileira de pecuária de corte.","Região marcada pela tradicional agricultura de grãos tem, nos estados do Maranhão, Goiás, Piauí e Bahia, as maiores produções de soja, algodão e milho. A sustentabilidade vem se tornando outra marca desta produção.","Topografia plana, solos profundos e o clima favorável ao cultivo das principais culturas de grãos e fibras viabilizaram o crescimento vertiginoso da região que, até o final da década de 1980, se baseava fortemente na pecuária extensiva.","Área vista como potencial para o agronegócio, tendo como carro chefe a produção futura de soja em todos os estados da região. Os produtores afirmam que o fácil manejo do solo facilitará o sucesso do empreendimento."],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Considere os fragmentos abaixo.\n\"Lei de 18 de Agosto de 1831\"\n\"Cria as Guardas Nacionais e extingue os corpos de milícias, guardas municipais e ordenanças.\n[...]\"\nDisponível em: http://www2.camara.leg.br/legin/fed/lei_sn/1824-1899/\nlei-37497-18-agosto-1831-56430 publicacaooriginal-88297-pl.html (texto\nadaptado)\n\"De tão conservadora, e atuante, ela criou uma tradição, estendendo a sua atuação até a Primeira República, sobretudo nas áreas rurais do país.”\nSCHWARCZ, Lilia e STARLING, Heloisa. Brasil: uma biografia. São Paulo: Cia Das Letras, 2015, p. 24 8.\nAssinale a alternativa que situa CORRETAMENTE a criação da Guarda Nacional e as razões de sua permanência até a Primeira República.",
+      principal: "Considere os fragmentos abaixo.\n\"Lei de 18 de Agosto de 1831\"\n\"Cria as Guardas Nacionais e extingue os corpos de milícias, guardas municipais e ordenanças.\n[...]\"\nDisponível em: http://$1_{2}$.camara.leg.br/legin/fed/lei_sn/1824-1899/\nlei-37497-18-agosto-1831-56430 publicacaooriginal-88297-pl.html (texto\nadaptado)\n\"De tão conservadora, e atuante, ela criou uma tradição, estendendo a sua atuação até a Primeira República, sobretudo nas áreas rurais do país.”\nSCHWARCZ, Lilia e STARLING, Heloisa. Brasil: uma biografia. São Paulo: Cia Das Letras, 2015, p. 24 8.\nAssinale a alternativa que situa CORRETAMENTE a criação da Guarda Nacional e as razões de sua permanência até a Primeira República.",
       subItens: []
     },
     options: ["Em meio às disputas entre Moderados, Exaltados e Restauradores no Rio de Janeiro pelo governo central da Regência, e da ocorrência de revoltas nas províncias, a Guarda Nacional foi constituída pelas elites locais como força repressiva confiável, tornando-se uma das bases do poder local até a chamada República Oligárquica.","Para garantir a ordem e conter as revoltas dos Restauradores partidários do retorno de D. Pedro I, a Guarda Nacional foi constituída para enfrentar as Guardas Municipais formadas por portugueses aliados aos proprietários rurais, o que garantiu um instrumento de repressão eficiente até a Primeira República.","Com o objetivo de substituir as Ordenanças de origem portuguesa, responsáveis pela guarda pessoal do imperador, a Guarda Nacional foi criada de acordo com o modelo francês das milícias de cidadãos, e eram forças responsáveis por proteger pessoalmente os regentes e, posteriormente, os presidentes da República.","De acordo com os interesses dos Moderados, Exaltados e Restauradores, aliados durante todo o Período Regencial para garantir a unidade territorial do país, a Guarda Nacional foi criada para apoiar o Exército na tarefa de garantir a segurança das fronteiras, o que explica a sua atuação durante a República da Espada."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Observe o gráfico e assinale a alternativa que apresenta uma interpretação CORRETA dos dados.\nForças Aliadas\nEixo\nNúmero de mortes por país durante a Segunda Guerra Mundial\nURSS\nChina\nPolônia\nIndonésia\nÍndia\nlugoslávia\nIndochina Francesa\nFrança\nReino Unido\nEUA\nLituânia\nTchecoslováquia\nGrécia\nBirmânia (atual Mianmar)\nLetônia\nAlemanha\nJapão\nRomenia\nHungria\nItália\nOutros\n0 2 4 6 8 10 12 14 16 18 20 22 24\nMortes militares (milhões)\nMortes civis (milhões)\nTotal de mortes (milhões)\nFonte: Black, Jeremy (ed.) World history atlas. Londres: Dorling Kindersley Limmited, 2008. p. 105.",
+      principal: "Observe o gráfico e assinale a alternativa que apresenta uma interpretação CORRETA dos dados.\nForças Aliadas\nEixo\nNúmero de mortes por país durante a Segunda Guerra Mundial\nURSS\nChina\nPolônia\nIndonésia\nÍndia\nlugoslávia\nIndochina Francesa\nFrança\nReino Unido\nEUA\nLituânia\nTchecoslováquia\nGrécia\nBirmânia (atual Mianmar)\nLetônia\nAlemanha\nJapão\nRomenia\nHungria\nItália\nOutros\$1_{0}$ 2 4 6 8 10 12 14 16 18 20 22 24\nMortes militares (milhões)\nMortes civis (milhões)\nTotal de mortes (milhões)\nFonte: Black, Jeremy (ed.) World history atlas. Londres: Dorling Kindersley Limmited, 2008. p. 105.",
       subItens: []
     },
     options: ["Os países vencedores tiveram menos perdas humanas.","O número de mortes civis foi maior entre os perdedores do que entre os vencedores.","Em todos os países, houve perdas militares maiores do que entre os civis.","Em vários países, as perdas humanas foram apenas civis."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Responda as questões 55 e 56 de acordo com o texto de Jonathan Wolfe e a figura que o ilustra.\nNew York Today:\nGoodbye, Subway Seats\nBy JONATHAN WOLFE OCT. 5, 2017\nhttps://www.nytimes.com/Acessado em 10/10/2017. Adaptado.\n9559\nThe new seatless area on a redesigned\nE train car. Credit Metropolitan Transit Authority\nGood morning on this warming Thursday.\nSubway riders: Have you noticed anything missing from your commute? Like, maybe a seat?\nOn Tuesday, the Metropolitan Transportation Authority rolled out redesigned subway cars on the E line, with some of the seats removed.\nTo\nThe agency hopes that up to 10 more people will be able to squeeze into each new car — meaning 80 to 100 extra commuters per train to help reduce overcrowding. In all, 100 cars will lose their seats in the pilot program. The L train and the 42nd Street Shuttle are next in line for the redesign, according to the authority.\nYesterday, we waited at the 34th Street station for a few trains to pass before one of the refurbished models, with its navy blue wrapping, pulled into the station.\nWith the seats removed at the front and back of the car, it felt roomy, even, dare we say, luxurious — though that likely won't be the case during rush hour. People were enthusiastic about the interiors, calling them “bright,” “cheerful,” even “beautiful.”\nAs for the deleted seats, reviews were mixed.\nAssinale a alternativa CORRETA.",
+      principal: "Responda as questões 55 e 56 de acordo com o texto de Jonathan Wolfe e a figura que o ilustra.\nNew York Today:\nGoodbye, Subway Seats\nBy JONATHAN WOLFE OCT. 5, 2017\nhttps://www.nytimes.com/Acessado em 10/10/2017. Adaptado.\$1_{9559}$\nThe new seatless area on a redesigned\nE train car. Credit Metropolitan Transit Authority\nGood morning on this warming Thursday.\nSubway riders: Have you noticed anything missing from your commute? Like, maybe a seat?\nOn Tuesday, the Metropolitan Transportation Authority rolled out redesigned subway cars on the E line, with some of the seats removed.\nTo\nThe agency hopes that up to 10 more people will be able to squeeze into each new car — meaning 80 to 100 extra commuters per train to help reduce overcrowding. In all, 100 cars will lose their seats in the pilot program. The L train and the 42nd Street Shuttle are next in line for the redesign, according to the authority.\nYesterday, we waited at the 34th Street station for a few trains to pass before one of the refurbished models, with its navy blue wrapping, pulled into the station.\nWith the seats removed at the front and back of the car, it felt roomy, even, dare we say, luxurious — though that likely won't be the case during rush hour. People were enthusiastic about the interiors, calling them “bright,” “cheerful,” even “beautiful.”\nAs for the deleted seats, reviews were mixed.\nAssinale a alternativa CORRETA.",
       subItens: []
     },
     options: ["O plano piloto prevê que usuários do metrô evitem transportar mochilas, malas, carrinhos e outros itens que ocupem espaço de passageiros.","Os trens das linhas E e L do metrô estão participando dessa parte inicial do plano piloto.","Os trens redecorados em azul-marinho e modificados com redução de assentos mostraram-se espaçosos e atraentes.","Os usuários do metrô acham que mais espaço é fundamental para os horários de pico."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Children 'geo-fenced' as worried parents create summer surge in demand for GPS tracking devices\nBy Steve Bird and Flora Carr\nhereo\nFOR KIDS\nGPS WATCH\n204\n2014\nSMURFS\nLOFT VILLAGE\nWORLD\nSMALLEST\nOPS WATCH FOR\nKIDS\nhereO watches connect to a smartphone\nhttp://www.telegraph.co.uk/ Acessado em 20/08/2017.\nAs informações acima permitem compreender que",
+      principal: "Children 'geo-fenced' as worried parents create summer surge in demand for GPS tracking devices\nBy Steve Bird and Flora Carr\nhereo\nFOR KIDS\nGPS WATCH\$1_{204}$\$1_{2014}$\nSMURFS\nLOFT VILLAGE\nWORLD\nSMALLEST\nOPS WATCH FOR\nKIDS\nhereO watches connect to a smartphone\nhttp://www.telegraph.co.uk/ Acessado em 20/08/2017.\nAs informações acima permitem compreender que",
       subItens: []
     },
     options: ["parentes preocupados têm procurado manter as crianças a uma distância rastreável por GPS.","a tecnologia é o mais novo aliado dos pais na busca por crianças desaparecidas.","o verão de 2017 trouxe uma busca desenfreada por um dispositivo que acaba com a preocupação dos pais quanto à localização dos seus filhos.","o dispositivo mais procurado no verão de 2017 é o que permite que pais localizem seus filhos por meio de smartphones."],

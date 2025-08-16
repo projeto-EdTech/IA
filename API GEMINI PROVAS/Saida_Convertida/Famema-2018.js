@@ -423,7 +423,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Observe a charge sobre o Tratado de Versalhes.\n\n[Charge intitulada \"VERSAILLES TREATY\" (Tratado de Versalhes), mostrando uma figura representando o Tratado de Versalhes esmagando um homem que rasteja no chão, e ao fundo, à direita, um banner com \"HITLER PARTY\" (Partido de Hitler) e uma figura de Hitler, sugerindo sua ascensão. A charge implica que o Tratado de Versalhes levou ao surgimento do Partido de Hitler.]\n\n(getaplusfrommags2409.weebly.com)\n\nA charge estabelece uma relação entre",
+      principal: "Observe a charge sobre o Tratado de Versalhes.\n\n[Charge intitulada \"VERSAILLES TREATY\" (Tratado de Versalhes), mostrando uma figura representando o Tratado de Versalhes esmagando um homem que rasteja no chão, e ao fundo, à direita, um banner com \"HITLER PARTY\" (Partido de Hitler) e uma figura de Hitler, sugerindo sua ascensão. A charge implica que o Tratado de Versalhes levou ao surgimento do Partido de Hitler.]\n\n($1_{2409}$.weebly.com)\n\nA charge estabelece uma relação entre",
       subItens: []
     },
     options: ["a humilhação da Alemanha após a Primeira Guerra e a ascensão do nazismo.","o grande poderio bélico da Alemanha e suas conquistas durante a Primeira Guerra.","a derrocada da Alemanha nazista e a condenação dos crimes da Segunda Guerra.","a paz sem vencedores da Segunda Guerra e o crescimento do partido nazista.","o auge do Império Alemão após a Guerra Franco-Prussiana e a crise partidária no país."],

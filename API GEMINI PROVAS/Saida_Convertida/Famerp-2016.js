@@ -48,7 +48,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Observe as três primeiras linhas de um padrão, que continua nas linhas subsequentes.\n1ª linha\n1 + 2 = 1² + (1² + 1) = 3\n2ª linha\n4 + 5 + 6 = 2² + (2² + 1) + (2² + 2) = 7 + 8\n3ª linha 9 + 10 + 11 + 12 = 3² + (3² + 1) + (3² + 2) + (3² + 3) = 13 + 14 + 15\nNa 30ª linha desse padrão, o maior número da soma em vermelho, indicada dentro do retângulo, será igual a",
+      principal: "Observe as três primeiras linhas de um padrão, que continua nas linhas subsequentes.\$1_{1}$ª linha\$1_{1}$ + 2 = 1² + (1² + 1) = 3\$1_{2}$ª linha\$1_{4}$ + 5 + 6 = 2² + (2² + 1) + (2² + 2) = 7 + 8\$1_{3}$ª linha 9 + 10 + 11 + 12 = 3² + (3² + 1) + (3² + 2) + (3² + 3) = 13 + 14 + 15\nNa 30ª linha desse padrão, o maior número da soma em vermelho, indicada dentro do retângulo, será igual a",
       subItens: []
     },
     options: ["929.","930.","959.","1029.","960."],
@@ -93,7 +93,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Uma fábrica de móveis vende mesas de madeira em dois tamanhos (médio e grande), e de quatro tipos diferentes de madeira (mogno, pinus, cedro e grápia). As matrizes a seguir indicam preços unitários de venda (em reais) de cada modelo de mesa nessa fábrica nos meses de julho (matriz X) e agosto (matriz Y) de 2014.\nMédio Grande\nMogno → 654 920\nPinus → 580 800\nCedro → 820 1090\nGrápia → 900 1150\nMédio Grande\n654 920\n609 840\n738 981\n990 1265\n= X\n= Y\nNo mês de setembro desse mesmo ano, a fábrica entrou em liquidação e deu desconto de 5% sobre o preço de agosto de todos os modelos de mesa. Admitindo-se que um lojista tenha comprado uma mesa de cada modelo nos meses de julho e agosto, e duas mesas de cada modelo no mês de setembro, uma matriz que representa o total de gastos desse lojista nesses três meses, por modelo de mesa adquirida da fábrica, pode ser obtida por meio da operação matricial",
+      principal: "Uma fábrica de móveis vende mesas de madeira em dois tamanhos (médio e grande), e de quatro tipos diferentes de madeira (mogno, pinus, cedro e grápia). As matrizes a seguir indicam preços unitários de venda (em reais) de cada modelo de mesa nessa fábrica nos meses de julho (matriz X) e agosto (matriz Y) de 2014.\nMédio Grande\nMogno → 654 920\nPinus → 580 800\nCedro → 820 1090\nGrápia → 900 1150\nMédio Grande\$1_{654}$ 920\$1_{609}$ 840\$1_{738}$ 981\$1_{990}$ 1265\n= X\n= Y\nNo mês de setembro desse mesmo ano, a fábrica entrou em liquidação e deu desconto de 5% sobre o preço de agosto de todos os modelos de mesa. Admitindo-se que um lojista tenha comprado uma mesa de cada modelo nos meses de julho e agosto, e duas mesas de cada modelo no mês de setembro, uma matriz que representa o total de gastos desse lojista nesses três meses, por modelo de mesa adquirida da fábrica, pode ser obtida por meio da operação matricial",
       subItens: []
     },
     options: ["X+Y+Y[1 1 / 0,95 0,95]","X + 1,95 . Y²","X + 2,9 . Y","X+Y . [1 2,9 / 1 1,9]","Xᵀ+Yᵀ . [1 0,95 / 1 0,95]"],
@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "As questões de 56 a 58 referem-se à liotironina, um hormônio produzido pela glândula tireoide, também conhecido como T3.\nA molécula da liotironina apresenta",
+      principal: "As questões de 56 a 58 referem-se à liotironina, um hormônio produzido pela glândula tireoide, também conhecido como $1_{3}_{}$.\nA molécula da liotironina apresenta",
       subItens: []
     },
     options: ["átomo de carbono assimétrico.","cadeia carbônica homogênea.","cadeia carbônica alifática.","dois heterociclos.","quatro átomos de hidrogênio."],

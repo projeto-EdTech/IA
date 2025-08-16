@@ -48,7 +48,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2022,
     text: {
-      principal: "Suponha que a população do estado de Roraima seja de aproximadamente 650 mil habitantes. Considere que 45% da população do estado foi totalmente imunizada contra a COVID-19 (tomou a 2ª dose ou vacina de dose única) e que 64% da população foi imunizada contra a influenza H1N1. Supondo que 20% da população não tomou nem uma das duas vacinas, o total da população do estado totalmente imunizada apenas com a vacina contra a COVID-19 foi de:",
+      principal: "Suponha que a população do estado de Roraima seja de aproximadamente 650 mil habitantes. Considere que 45% da população do estado foi totalmente imunizada contra a COVID-19 (tomou a 2ª dose ou vacina de dose única) e que 64% da população foi imunizada contra a influenza $1_{1}N_{1}$. Supondo que 20% da população não tomou nem uma das duas vacinas, o total da população do estado totalmente imunizada apenas com a vacina contra a COVID-19 foi de:",
       subItens: []
     },
     options: ["104 mil habitantes","286 mil habitantes","130 mil habitantes","234 mil habitantes","416 mil habitantes"],

@@ -66,7 +66,7 @@ createQuestion({
       principal: "A análise do gráfico permite notar variações quanto ao número de visitantes ano a ano. Em relação ao ano anterior, é correto afirmar que, no ano de",
       subItens: []
     },
-    options: ["2009, devido à pandemia provocada pelo vírus H1N1, que ficou conhecida como gripe suína, registrou-se uma redução no número de visitantes.","2015, em razão do roubo da Monalisa, famosa obra de Leonardo da Vinci e principal atração de turistas ao museu, houve um aumento no número de visitantes.","2019, em decorrência de um incêndio que manteve o museu fechado por mais de um ano para obras de reparo, ocorreu uma redução no número de visitantes.","2020, por causa da pandemia de covid-19, doença causada pelo coronavírus SARS-CoV-2, verificou-se uma redução no número de visitantes.","2022, em virtude do fechamento das fronteiras da França por conta de sua saída da União Europeia, aconteceu um aumento no número de visitantes."],
+    options: ["2009, devido à pandemia provocada pelo vírus $1_{1}N_{1}$, que ficou conhecida como gripe suína, registrou-se uma redução no número de visitantes.","2015, em razão do roubo da Monalisa, famosa obra de Leonardo da Vinci e principal atração de turistas ao museu, houve um aumento no número de visitantes.","2019, em decorrência de um incêndio que manteve o museu fechado por mais de um ano para obras de reparo, ocorreu uma redução no número de visitantes.","2020, por causa da pandemia de covid-19, doença causada pelo coronavírus SARS-CoV-2, verificou-se uma redução no número de visitantes.","2022, em virtude do fechamento das fronteiras da França por conta de sua saída da União Europeia, aconteceu um aumento no número de visitantes."],
     correctAnswer: 3,
     materia: "História – Eventos e Impactos Recentes",
     conteudo: "",
@@ -201,7 +201,7 @@ createQuestion({
       principal: "Assinale a alternativa que contém a fórmula química correta do composto que confere cor branca à tinta utilizada por Portinari.",
       subItens: []
     },
-    options: ["ZnO","OZn","MnO2","OFe","ZrO"],
+    options: ["ZnO","OZn","$1_{2}$","OFe","ZrO"],
     correctAnswer: 0,
     materia: "Química – Funções Inorgânicas / Óxidos",
     conteudo: "",
@@ -243,10 +243,10 @@ createQuestion({
     university: "Processo Seletivo - Vestibular 1SEM24",
     year: 2024,
     text: {
-      principal: "A expressão “anos-luz” é utilizada em muitas representações artísticas, de tirinhas a quadros, de músicas a poemas entre outras. Entretanto, qual é, realmente, o valor aproximado de 1 ano-luz? Adote: velocidade da luz c = 3,0x10^8 m/s e 1 ano = 3,2x10^7 s. Podemos afirmar que a resposta correta a essa pergunta é, aproximadamente,",
+      principal: "A expressão “anos-luz” é utilizada em muitas representações artísticas, de tirinhas a quadros, de músicas a poemas entre outras. Entretanto, qual é, realmente, o valor aproximado de 1 ano-luz? Adote: velocidade da luz c = $1 \times 10^{8}$ m/s e 1 ano = $1 \times 10^{7}$ s. Podemos afirmar que a resposta correta a essa pergunta é, aproximadamente,",
       subItens: []
     },
-    options: ["1,0 × 10^9 m/s.","1,1×10^11 s.","2,6×10^12 s.","6,1×10^13 m.","9,6×10^15 m."],
+    options: ["$1 \times 10^{9}$ m/s.","$1 \times 10^{11}$ s.","$1 \times 10^{12}$ s.","$1 \times 10^{13}$ m.","$1 \times 10^{15}$ m."],
     correctAnswer: 4,
     materia: "Física – Cinemática / Unidades de Medida",
     conteudo: "",
@@ -351,7 +351,7 @@ createQuestion({
       principal: "A mandala é uma representação circular com diferentes padrões geométricos. Comum em diversas tradições espirituais e religiosas, a mandala expressa a conexão entre o homem e o universo. Entre outras formas de utilização, a pintura de mandalas é comumente usada como passatempo. [Imagem de uma mandala com padrões geométricos circulares e radiais]. Considere que, para pintar a mandala apresentada, uma pessoa tem, à sua disposição, somente as cores vermelho, azul, verde e amarelo. Cada espaço delimitado entre linhas, nessa mandala, será pintado com uma única cor, entre as disponíveis, e nenhum de seus espaços ficará sem ser colorido. Ao fixar a mandala na posição indicada pela figura, assinale a alternativa que apresenta, corretamente, o número total de formas diferentes de pintá-la.",
       subItens: []
     },
-    options: ["4^1","4^12","4^24","4^36","4^48"],
+    options: ["$1^{1}$","$1^{12}$","$1^{24}$","$1^{36}$","$1^{48}$"],
     correctAnswer: 3,
     materia: "Matemática – Combinatória / Contagem de Possibilidades",
     conteudo: "",
@@ -573,7 +573,7 @@ createQuestion({
     university: "Processo Seletivo - Vestibular 1SEM24",
     year: 2024,
     text: {
-      principal: "Leia o texto para responder às questões 41 e 42. NFT X Sustentabilidade Bens não fungíveis são aqueles cujo valor é variável e não é considerado fixo, como, por exemplo, obras de arte. NFT (Non-Fungible Token ou Token Não Fungível) é uma espécie de “certificação digital” que usa a tecnologia de entrelaçamento pela criptografia blockchain como elemento validador para bens não fungíveis. Essa tecnologia visa definir a originalidade, a autenticidade e a exclusividade de um bem digital, tais como obras de arte e seus certificados, imagens, pinturas, músicas, vídeos, documentos em geral etc. Apesar do avanço que essa tecnologia representa, em 2021, a Universidade de Cambridge (Inglaterra) publicou um artigo alertando que, em virtude da constante mineração de dados executada por vários computadores potentes conectados simultaneamente à internet, o consumo de energia provocado pelo blockchain, em 1 ano, pode ser até maior do que o consumo anual de um país como a Argentina (cerca de 120×10^9 kWh). Por exemplo, em apenas uma hora, a principal operadora de NFT/blockchain atualmente chega a consumir 50 kWh de energia por uma transação realizada. Além do mais, podem ocorrer milhares dessas transações por dia. Para manter essas operações em funcionamento, geralmente os equipamentos são conectados em rede de energia que gera impacto ambiental. É o caso da produção de energia por hidrelétricas, cujo movimento das turbinas aquece a água, que é dissipada, parcialmente, por evaporação, mas também é devolvida para os rios. O ponto crucial é que a liberação dessas águas mais quentes pode acabar com a vida próxima, podendo provocar problemas na flora e na fauna ao redor desses rios. De acordo com as informações apresentadas no texto, podemos afirmar corretamente que",
+      principal: "Leia o texto para responder às questões 41 e 42. NFT X Sustentabilidade Bens não fungíveis são aqueles cujo valor é variável e não é considerado fixo, como, por exemplo, obras de arte. NFT (Non-Fungible Token ou Token Não Fungível) é uma espécie de “certificação digital” que usa a tecnologia de entrelaçamento pela criptografia blockchain como elemento validador para bens não fungíveis. Essa tecnologia visa definir a originalidade, a autenticidade e a exclusividade de um bem digital, tais como obras de arte e seus certificados, imagens, pinturas, músicas, vídeos, documentos em geral etc. Apesar do avanço que essa tecnologia representa, em 2021, a Universidade de Cambridge (Inglaterra) publicou um artigo alertando que, em virtude da constante mineração de dados executada por vários computadores potentes conectados simultaneamente à internet, o consumo de energia provocado pelo blockchain, em 1 ano, pode ser até maior do que o consumo anual de um país como a Argentina (cerca de $1 \times 10^{9}$ kWh). Por exemplo, em apenas uma hora, a principal operadora de NFT/blockchain atualmente chega a consumir 50 kWh de energia por uma transação realizada. Além do mais, podem ocorrer milhares dessas transações por dia. Para manter essas operações em funcionamento, geralmente os equipamentos são conectados em rede de energia que gera impacto ambiental. É o caso da produção de energia por hidrelétricas, cujo movimento das turbinas aquece a água, que é dissipada, parcialmente, por evaporação, mas também é devolvida para os rios. O ponto crucial é que a liberação dessas águas mais quentes pode acabar com a vida próxima, podendo provocar problemas na flora e na fauna ao redor desses rios. De acordo com as informações apresentadas no texto, podemos afirmar corretamente que",
       subItens: []
     },
     options: ["a mineração de dados consome muita energia devido às jazidas de minério.","a NFT é uma tecnologia que envolve apenas conceitos de eletrônica quântica.","a Argentina consome, em kWh/ano, o equivalente a 120 milhões de kWh de energia.","a principal operadora de blockchain citada consome muito menos energia do que a Argentina.","a principal operadora de NFT pode usar, por cada transação, em 1 h, até 50000 W de potência."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Processo Seletivo - Vestibular 1SEM24",
     year: 2024,
     text: {
-      principal: "Emojis são elementos visuais que representam conceitos, emoções e objetos em forma de ícones e estão intrinsecamente ligados à cultura digital por facilitarem a comunicação on-line. Equações matemáticas podem ser utilizadas para modelar fenômenos e situações. Na imagem, o plano cartesiano ilustra o uso de 4 curvas para modelar um emoji. Por exemplo, a curva 2 (c2) é descrita pela função y = x² – 8x +18, definida no intervalo real [2 ; 6]. [Imagem de um emoji modelado por 4 curvas (c1, c2, c3, c4) em um plano cartesiano. A curva c4 representa a boca do emoji, uma parábola com vértice em (4, -10) e passando por (2,-6) e (6,-6).]. Assinale a alternativa que apresenta, corretamente, a função correspondente à curva 4 (c4) e o intervalo real no qual ela deve ser definida.",
+      principal: "Emojis são elementos visuais que representam conceitos, emoções e objetos em forma de ícones e estão intrinsecamente ligados à cultura digital por facilitarem a comunicação on-line. Equações matemáticas podem ser utilizadas para modelar fenômenos e situações. Na imagem, o plano cartesiano ilustra o uso de 4 curvas para modelar um emoji. Por exemplo, a curva 2 ($1_{2}$) é descrita pela função y = x² – 8x +18, definida no intervalo real [2 ; 6]. [Imagem de um emoji modelado por 4 curvas ($1_{1}$, $1_{2}$, $1_{3}$, $1_{4}$) em um plano cartesiano. A curva $1_{4}$ representa a boca do emoji, uma parábola com vértice em (4, -10) e passando por (2,-6) e (6,-6).]. Assinale a alternativa que apresenta, corretamente, a função correspondente à curva 4 ($1_{4}$) e o intervalo real no qual ela deve ser definida.",
       subItens: []
     },
     options: ["Função: y = x²/4 - 8, Intervalo: [-4; 4]","Função: y = x²/2 - 8, Intervalo: [-4; 4]","Função: y = -x²/4 - 8, Intervalo: [-6;-4]","Função: y = -x²/2 - 8, Intervalo: [-6;-4]","Função: y = x²/4 - 8, Intervalo: [-4; 6]"],

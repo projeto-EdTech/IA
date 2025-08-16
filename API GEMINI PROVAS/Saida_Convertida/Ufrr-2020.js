@@ -48,7 +48,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2020,
     text: {
-      principal: "Se (a1, a2, a3, ...) é uma progressão aritmética de razão 2 então podemos dizer que (2a1, 2a2, 2a3, ...) é",
+      principal: "Se ($1_{1}$, $1_{2}$, $1_{3}$, ...) é uma progressão aritmética de razão 2 então podemos dizer que (2a1, 2a2, 2a3, ...) é",
       subItens: []
     },
     options: ["uma progressão aritmética de razão 2.","uma progressão geométrica de razão 2.","uma progressão aritmética de razão 4.","uma progressão geométrica de razão 4.","uma progressão geométrica de razão 8."],
@@ -63,10 +63,10 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2020,
     text: {
-      principal: "Um quadrado de lado 1 está inscrito em uma circunferência e circunscrito a outra, conforme a figura abaixo.\n\n[Imagem: Um quadrado inscrito em uma circunferência maior e circunscrito em uma circunferência menor, ambas concêntricas.]\n\nSe A₁ é a área da circunferência menor e A2 é a área da circunferência maior então, podemos afirmar que",
+      principal: "Um quadrado de lado 1 está inscrito em uma circunferência e circunscrito a outra, conforme a figura abaixo.\n\n[Imagem: Um quadrado inscrito em uma circunferência maior e circunscrito em uma circunferência menor, ambas concêntricas.]\n\nSe A₁ é a área da circunferência menor e $1_{2}_{}$ é a área da circunferência maior então, podemos afirmar que",
       subItens: []
     },
-    options: ["A2 = 1,5 A1","A2 = 2 A1","A2 = π A1","A2 = A1","A2 = 3 A1"],
+    options: ["$1_{2}_{}$ = 1,5 $1_{1}_{}$","$1_{2}_{}$ = 2 $1_{1}_{}$","$1_{2}_{}$ = π $1_{1}_{}$","$1_{2}_{}$ = $1_{1}_{}$","$1_{2}_{}$ = 3 $1_{1}_{}$"],
     correctAnswer: 1,
     materia: "Matemática – Geometria Plana",
     conteudo: "",
@@ -78,7 +78,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2020,
     text: {
-      principal: "Se f(x) = log3 x e g(x) = 32x então, h(x) = f o g é dada por",
+      principal: "Se f(x) = $1_{3}$ x e g(x) = 32x então, h(x) = f o g é dada por",
       subItens: []
     },
     options: ["h(x) = 2x","h(x) = x","h(x) = 0","h(x) = x²","h(x) = 9"],
@@ -198,7 +198,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2020,
     text: {
-      principal: "\"Se o mundo está ficando mais quente, por que, então, está fazendo tanto frio nos EUA\" perguntou presidente Donald Trump no início de fevereiro de 2019, que vê como exageradas as preocupações com o aumento médio de temperaturas no mundo.\n\nhttps://g1.globo.com/natureza/noticia/2019/02/01/a-resposta-dos-cientistas-ao-tuite-de-trump-questionando-aquecimento-global-em-meio-a-onda-de-frio-nos-eua.ghtml\n\nEm relação ao tema das mudanças climáticas discutido acima, podemos considerar a percepção de Trump:",
+      principal: "\"Se o mundo está ficando mais quente, por que, então, está fazendo tanto frio nos EUA\" perguntou presidente Donald Trump no início de fevereiro de 2019, que vê como exageradas as preocupações com o aumento médio de temperaturas no mundo.\n\nhttps://$1_{1}$.globo.com/natureza/noticia/2019/02/01/a-resposta-dos-cientistas-ao-tuite-de-trump-questionando-aquecimento-global-em-meio-a-onda-de-frio-nos-eua.ghtml\n\nEm relação ao tema das mudanças climáticas discutido acima, podemos considerar a percepção de Trump:",
       subItens: []
     },
     options: ["equivocada, já que as mudanças climáticas formam um conjunto de teorias conspiratórias para impor o desenvolvimento sustentável em escala mundial.","incorreta, já que as temperaturas extremas mais intensas das últimas décadas são consequências das mudanças climáticas.","acertada, já que a farsa do aquecimento global envolve exclusivamente uma série de interesses geopolíticos sobre os recursos naturais dos países periféricos.","inadequada, já que os invernos rigorosos das últimas décadas fizeram a temperatura média mundial cair consideravelmente.","apropriada, já que o intenso frio verificado no último inverno dos Estados Unidos derruba as evidências científicas das mudanças climáticas."],
@@ -303,10 +303,10 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2020,
     text: {
-      principal: "A queimada de floresta na Amazônia brasileira nas áreas que estão sendo desmatadas para agricultura e pecuária, nos incêndios florestais e queimada de capoeiras, nas pastagens e diferentes tipos de savanas são responsáveis pela emissão de grandes quantidades de gases de efeito estufa pela liberação de gás carbônico (CO2) e gases-traço como metano (CH4), monóxido de carbono (CO) e óxido nitroso (N2O). Uma mistura gasosa formada por 9,0 g de gás carbônico (CO2) e 11,0 g de metano (CH4) ocupa um balão de capacidade igual a 30 L, na temperatura de 27°C. Dadas as massas molares (g/mol): CO2 = 44 e CH4 = 16 e R =0,082atm . L . mol-1 . K-1, indique a alternativa que fornece a pressão de cada gás no balão e a pressão total no balão.",
+      principal: "A queimada de floresta na Amazônia brasileira nas áreas que estão sendo desmatadas para agricultura e pecuária, nos incêndios florestais e queimada de capoeiras, nas pastagens e diferentes tipos de savanas são responsáveis pela emissão de grandes quantidades de gases de efeito estufa pela liberação de gás carbônico ($1_{2}$) e gases-traço como metano ($1_{4}$), monóxido de carbono (CO) e óxido nitroso ($1_{2}O_{}$). Uma mistura gasosa formada por 9,0 g de gás carbônico ($1_{2}$) e 11,0 g de metano ($1_{4}$) ocupa um balão de capacidade igual a 30 L, na temperatura de 27°C. Dadas as massas molares (g/mol): $1_{2}$ = 44 e $1_{4}$ = 16 e R =0,082atm . L . mol-1 . K-1, indique a alternativa que fornece a pressão de cada gás no balão e a pressão total no balão.",
       subItens: []
     },
-    options: ["0,82 atm de CO2, 0,82 atm de CH4 e 1,64 atm de pressão total.","0,015 atm de CO2, 0,052 atm de CH4 e 0,067 atm de pressão total.","0,074 atm de CO2, 0,074 atm de CH4 e 0,15 atm de pressão total.","0,16 atm de CO2, 0,56 atm de CH4 e 0,72 atm de pressão total.","0,15 atm de CO2, 1,03 atm de CH4 e 1,2 atm de pressão total."],
+    options: ["0,82 atm de $1_{2}$, 0,82 atm de $1_{4}$ e 1,64 atm de pressão total.","0,015 atm de $1_{2}$, 0,052 atm de $1_{4}$ e 0,067 atm de pressão total.","0,074 atm de $1_{2}$, 0,074 atm de $1_{4}$ e 0,15 atm de pressão total.","0,16 atm de $1_{2}$, 0,56 atm de $1_{4}$ e 0,72 atm de pressão total.","0,15 atm de $1_{2}$, 1,03 atm de $1_{4}$ e 1,2 atm de pressão total."],
     correctAnswer: 3,
     materia: "Química – Gases",
     conteudo: "",

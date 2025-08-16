@@ -528,10 +528,10 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2018,
     text: {
-      principal: "Em um experimento, uma célula animal, rica em mitocôndrias, foi mantida em um meio com condições ideais para a realização da respiração celular. Após certo período, adicionou-se ao meio uma substância X, que bloqueia a ação dos citocromos no transporte de elétrons na cadeia respiratória que ocorre no interior das mitocôndrias. Sabendo que M indica o momento em que a substância X foi adicionada, assinale a alternativa que representa a variação no consumo de gás oxigênio durante o experimento.\n\n[Gráficos A, B, C, D, E mostrando o consumo de gás O2 (eixo y) em função do tempo (eixo x), com um ponto M indicando a adição da substância X.]",
+      principal: "Em um experimento, uma célula animal, rica em mitocôndrias, foi mantida em um meio com condições ideais para a realização da respiração celular. Após certo período, adicionou-se ao meio uma substância X, que bloqueia a ação dos citocromos no transporte de elétrons na cadeia respiratória que ocorre no interior das mitocôndrias. Sabendo que M indica o momento em que a substância X foi adicionada, assinale a alternativa que representa a variação no consumo de gás oxigênio durante o experimento.\n\n[Gráficos A, B, C, D, E mostrando o consumo de gás $1_{2}_{}$ (eixo y) em função do tempo (eixo x), com um ponto M indicando a adição da substância X.]",
       subItens: []
     },
-    options: ["Gráfico A: Consumo de O2 alto e constante, queda brusca em M, e depois zero.","Gráfico B: Consumo de O2 alto e constante, queda gradual em M, e depois zero.","Gráfico C: Consumo de O2 baixo e constante, aumento em M, depois constante.","Gráfico D: Consumo de O2 alto e constante, queda em M, depois estabiliza em um nível baixo mas acima de zero.","Gráfico E: Consumo de O2 alto e constante, queda em M, depois volta a subir."],
+    options: ["Gráfico A: Consumo de $1_{2}_{}$ alto e constante, queda brusca em M, e depois zero.","Gráfico B: Consumo de $1_{2}_{}$ alto e constante, queda gradual em M, e depois zero.","Gráfico C: Consumo de $1_{2}_{}$ baixo e constante, aumento em M, depois constante.","Gráfico D: Consumo de $1_{2}_{}$ alto e constante, queda em M, depois estabiliza em um nível baixo mas acima de zero.","Gráfico E: Consumo de $1_{2}_{}$ alto e constante, queda em M, depois volta a subir."],
     correctAnswer: 3,
     materia: "Biologia – Bioquímica",
     conteudo: "Biologia – Respiração Celular",

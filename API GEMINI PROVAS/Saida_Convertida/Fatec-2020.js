@@ -93,7 +93,7 @@ createQuestion({
     university: "Processo Seletivo Vestibular Fatec",
     year: 2020,
     text: {
-      principal: "Uma das áreas de aplicação dos conhecimentos de biotecnologia no mercado de trabalho é a produção de alimentos, bebidas e biocombustíveis que utilizam microorganismos em sua fabricação. Nesse contexto, um dos processos utilizados é a fermentação de carboidratos. A equação química que representa a reação que ocorre na fermentação alcoólica da glicose é C6H12O6(aq) → 2 C2H6O(aq) + 2 CO2(g) ΔH = ? Assinale a alternativa que apresenta o valor correto da entalpia padrão da reação (∆H) de fermentação da glicose, em kJ/mol. Entalpias de formação em kJ/mol Substância ΔH C6H12O6(aq) - 1277 C2H6O (aq) -278 CO2(g) -394",
+      principal: "Uma das áreas de aplicação dos conhecimentos de biotecnologia no mercado de trabalho é a produção de alimentos, bebidas e biocombustíveis que utilizam microorganismos em sua fabricação. Nesse contexto, um dos processos utilizados é a fermentação de carboidratos. A equação química que representa a reação que ocorre na fermentação alcoólica da glicose é C6H12O6(aq) → 2 C2H6O(aq) + 2 $1_{2}$(g) ΔH = ? Assinale a alternativa que apresenta o valor correto da entalpia padrão da reação (∆H) de fermentação da glicose, em kJ/mol. Entalpias de formação em kJ/mol Substância ΔH C6H12O6(aq) - 1277 C2H6O (aq) -278 $1_{2}$(g) -394",
       subItens: []
     },
     options: ["67","32","+16","+32","+67"],
@@ -183,10 +183,10 @@ createQuestion({
     university: "Processo Seletivo Vestibular Fatec",
     year: 2020,
     text: {
-      principal: "Douglas, aluno do curso de Instalações Elétricas, sabe que a resistência elétrica de um fio é diretamente proporcional ao seu comprimento e inversamente proporcional ao quadrado do diâmetro de sua secção transversal. Durante uma atividade prática do curso, Douglas precisou realizar uma melhoria em uma máquina. Para isso um fio deveria ser trocado por outro do mesmo material, mas cujo comprimento seria 60% maior; e diâmetro seria 20% menor. Assinale a alternativa que apresenta corretamente a relação entre a resistência do fio retirado (R₁) e a resistência do novo fio (R2).",
+      principal: "Douglas, aluno do curso de Instalações Elétricas, sabe que a resistência elétrica de um fio é diretamente proporcional ao seu comprimento e inversamente proporcional ao quadrado do diâmetro de sua secção transversal. Durante uma atividade prática do curso, Douglas precisou realizar uma melhoria em uma máquina. Para isso um fio deveria ser trocado por outro do mesmo material, mas cujo comprimento seria 60% maior; e diâmetro seria 20% menor. Assinale a alternativa que apresenta corretamente a relação entre a resistência do fio retirado (R₁) e a resistência do novo fio ($1_{2}_{}$).",
       subItens: []
     },
-    options: ["R2 = 0,20 R₁","R2 = 0,30 R1","R2 = 0,75 R1","R2 = 1,50R1","R2 = 2,50 R1"],
+    options: ["$1_{2}_{}$ = 0,20 R₁","$1_{2}_{}$ = 0,30 $1_{1}_{}$","$1_{2}_{}$ = 0,75 $1_{1}_{}$","$1_{2}_{}$ = 1,50R1","$1_{2}_{}$ = 2,50 $1_{1}_{}$"],
     correctAnswer: 4,
     materia: "Matemática – Raciocínio Lógico",
     conteudo: "",
@@ -201,7 +201,7 @@ createQuestion({
       principal: "No mundo digital, podem-se definir as cores com o auxílio de um sistema de códigos que é composto pelo sinal de sustenido (#) seguido por seis caracteres que podem ser algarismos (que vão de 0 até 9) ou letras (de A até F). Deste modo, são exemplos de códigos que representam cores: Código Cor #084D6E Azul Petróleo #DA70D6 Orquídea #FF00FF Fúcsia <https://tinyurl.com/y4qkz9j5> Acesso em: 19.10.2019. Adaptado. Logo, utilizando esse código, a quantidade de cores que é possível representar é igual a",
       subItens: []
     },
-    options: ["2^6","2^10","2^12","2^18","2^24"],
+    options: ["$1^{6}$","$1^{10}$","$1^{12}$","$1^{18}$","$1^{24}$"],
     correctAnswer: 4,
     materia: "Matemática – Análise Combinatória",
     conteudo: "",
@@ -288,10 +288,10 @@ createQuestion({
     university: "Processo Seletivo Vestibular Fatec",
     year: 2020,
     text: {
-      principal: "O tetrahidroxiborato reage com o PVA (equação 3), formando novas ligações que interligam as cadeias do polímero que constitui o slime. Considerando que uma colher de chá de bicarbonato de sódio contém 5 g desse composto, é correto afirmar que o número de moléculas de bicarbonato de sódio utilizadas na fabricação do slime caseiro, conforme descrito no texto, corresponde a aproximadamente Massa molar do NaHCO3 = 84 g/mol Constante de Avogadro: 6 × 10^23 mol⁻¹",
+      principal: "O tetrahidroxiborato reage com o PVA (equação 3), formando novas ligações que interligam as cadeias do polímero que constitui o slime. Considerando que uma colher de chá de bicarbonato de sódio contém 5 g desse composto, é correto afirmar que o número de moléculas de bicarbonato de sódio utilizadas na fabricação do slime caseiro, conforme descrito no texto, corresponde a aproximadamente Massa molar do $1_{3}$ = 84 g/mol Constante de Avogadro: $1 \times 10^{23}$ mol⁻¹",
       subItens: []
     },
-    options: ["6,2 x 10^22","7,1 x 10^22","9,1 x 10^22","2,0 x 10^23","3,0 x 10^23"],
+    options: ["$1 \times 10^{22}$","$1 \times 10^{22}$","$1 \times 10^{22}$","$1 \times 10^{23}$","$1 \times 10^{23}$"],
     correctAnswer: 1,
     materia: "Química – Estequiometria e Constante de Avogadro",
     conteudo: "",
@@ -306,7 +306,7 @@ createQuestion({
       principal: "Assinale a alternativa que contém a equação química balanceada que representa, corretamente, a reação que ocorre entre o ácido bórico e o bicarbonato de sódio.",
       subItens: []
     },
-    options: ["H3BO3 + Na3HCO3 → Na3BO3 + H2O + CO2","H3BO3 + 3 NaHCO3 → Na3BO3 + H2O + CO2","H3BO3 + 3 NaHCO3 → Na3BO3 + 3 H2O + 3 CO2","H3BO2 + 3 NaHCO3 → Na3BO2 + 3 H2O + 3 CO2","H2BO2 + 2 NaHCO3 → Na2BO2 + 2 H2O + 2 CO2"],
+    options: ["$1_{3}BO_{3}$ + $1_{3}HCO_{3}$ → $1_{3}BO_{3}$ + $1_{2}O_{}$ + $1_{2}$","$1_{3}BO_{3}$ + 3 $1_{3}$ → $1_{3}BO_{3}$ + $1_{2}O_{}$ + $1_{2}$","$1_{3}BO_{3}$ + 3 $1_{3}$ → $1_{3}BO_{3}$ + 3 $1_{2}O_{}$ + 3 $1_{2}$","$1_{3}BO_{2}$ + 3 $1_{3}$ → $1_{3}BO_{2}$ + 3 $1_{2}O_{}$ + 3 $1_{2}$","$1_{2}BO_{2}$ + 2 $1_{3}$ → $1_{2}BO_{2}$ + 2 $1_{2}O_{}$ + 2 $1_{2}$"],
     correctAnswer: 2,
     materia: "Química – Reações Químicas e Balanceamento de Equações",
     conteudo: "",
@@ -528,10 +528,10 @@ createQuestion({
     university: "Processo Seletivo Vestibular Fatec",
     year: 2020,
     text: {
-      principal: "O tether consiste em dois objetos fixos nas duas extremidades de um cabo. A pesquisadora brasileira Alessandra F. S. Ferreira, da Unesp de Guaratinguetá (SP), foi agraciada com o prêmio Mario Grossi no evento internacional Tether in Space 2019 (em Madrid). Em seu estudo, ela propôs a aplicação de um cabo fino e rígido de 100 km de comprimento com uma ponta ancorada na superfície de um corpo celeste, como um asteroide por exemplo. A outra ponta estará ancorada em um veículo espacial, conforme apresentado na figura. Assim, a técnica poderá ser utilizada para economizar energia e aumentar o impulso em viagens espaciais mais longas. Uma espaçonave de 100 toneladas, navegando a uma velocidade tangencial aproximada de 28,8 mil km/h, acopla-se ao cabo citado de 100 km de extensão ancorado em um asteroide (considerado aqui como um ponto material em repouso). Assumindo que a massa do cabo seja desprezível em relação ao sistema, podemos afirmar, corretamente, que a força centrípeta aplicada na extremidade do cabo ligada ao veículo espacial, em newtons, é Lembre-se de que ac = V^2 / R",
+      principal: "O tether consiste em dois objetos fixos nas duas extremidades de um cabo. A pesquisadora brasileira Alessandra F. S. Ferreira, da Unesp de Guaratinguetá (SP), foi agraciada com o prêmio Mario Grossi no evento internacional Tether in Space 2019 (em Madrid). Em seu estudo, ela propôs a aplicação de um cabo fino e rígido de 100 km de comprimento com uma ponta ancorada na superfície de um corpo celeste, como um asteroide por exemplo. A outra ponta estará ancorada em um veículo espacial, conforme apresentado na figura. Assim, a técnica poderá ser utilizada para economizar energia e aumentar o impulso em viagens espaciais mais longas. Uma espaçonave de 100 toneladas, navegando a uma velocidade tangencial aproximada de 28,8 mil km/h, acopla-se ao cabo citado de 100 km de extensão ancorado em um asteroide (considerado aqui como um ponto material em repouso). Assumindo que a massa do cabo seja desprezível em relação ao sistema, podemos afirmar, corretamente, que a força centrípeta aplicada na extremidade do cabo ligada ao veículo espacial, em newtons, é Lembre-se de que ac = $1^{2}$ / R",
       subItens: []
     },
-    options: ["6,4×10^7","6,4×10^5","6,4×10^3","8,3×10^4","8,3×10^6"],
+    options: ["$1 \times 10^{7}$","$1 \times 10^{5}$","$1 \times 10^{3}$","$1 \times 10^{4}$","$1 \times 10^{6}$"],
     correctAnswer: 0,
     materia: "Física – Dinâmica: Força Centrípeta",
     conteudo: "",

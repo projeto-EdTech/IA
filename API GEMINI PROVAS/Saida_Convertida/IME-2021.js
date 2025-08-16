@@ -351,7 +351,7 @@ createQuestion({
       principal: "Na figura, ilustra-se um anteparo e um capacitor de placas paralelas cujo dielétrico é o ar. A luz de um laser incide no capacitor, paralelamente às placas. A figura de difração resultante é observada em um anteparo distante. Dados: • permissividade elétrica do ar: ɛ₀; • área das placas: A; e • comprimento de onda da luz do laser: λ. Se o primeiro mínimo da figura de difração é verificado para um ângulo θ, a capacitância do capacitor é:\nDiagrama mostrando a luz de um laser incidindo em um capacitor de placas paralelas, com um anteparo à distância onde se observa o padrão de difração. O ângulo θ do primeiro mínimo de difração é indicado.",
       subItens: []
     },
-    options: ["ɛ₀Asenθ / (2λ)","ɛ₀Asenθ / λ","ɛ₀Acosθ / (2λ)","ɛ₀Acosθ / λ","ɛ₀Asen2θ / (2λ)"],
+    options: ["ɛ₀Asenθ / (2λ)","ɛ₀Asenθ / λ","ɛ₀Acosθ / (2λ)","ɛ₀Acosθ / λ","ɛ₀$1_{2}_{}$θ / (2λ)"],
     correctAnswer: 1,
     materia: "Física – Eletrostática",
     conteudo: "Física – Capacitores",
@@ -393,7 +393,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "Um físico precisa fundir 50 kg de um determinado material. Pensando em não desperdiçar energia, ele pega um bloco extra de 1 kg desse material como amostra, inicialmente na temperatura de 20°C, e realiza duas etapas sucessivas de aquecimento, fornecendo 16 kcal em cada uma delas. Suas anotações são mostradas na tabela a seguir:\nEtapas de Aquecimento (16 kcal)\n1ª Etapa: Massa final do bloco 1 kg, Temperatura final do sistema 60 °C\n2ª Etapa: Massa final do bloco 0,92 kg, Temperatura final do sistema 90 °C\nConsiderando a temperatura inicial do material em 20 °C e que sua temperatura de fusão é constante, a quantidade mínima de energia, em kcal, necessária para fundir os 50 kg de material, é:",
+      principal: "Um físico precisa fundir 50 kg de um determinado material. Pensando em não desperdiçar energia, ele pega um bloco extra de 1 kg desse material como amostra, inicialmente na temperatura de 20°C, e realiza duas etapas sucessivas de aquecimento, fornecendo 16 kcal em cada uma delas. Suas anotações são mostradas na tabela a seguir:\nEtapas de Aquecimento (16 kcal)\$1_{1}$ª Etapa: Massa final do bloco 1 kg, Temperatura final do sistema 60 °C\$1_{2}$ª Etapa: Massa final do bloco 0,92 kg, Temperatura final do sistema 90 °C\nConsiderando a temperatura inicial do material em 20 °C e que sua temperatura de fusão é constante, a quantidade mínima de energia, em kcal, necessária para fundir os 50 kg de material, é:",
       subItens: []
     },
     options: ["800","1400","1600","2500","3900"],

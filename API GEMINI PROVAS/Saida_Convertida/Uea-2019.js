@@ -441,7 +441,7 @@ createQuestion({
       principal: "O texto faz referência a problemas que surgem no corpo humano quando há deficiência de",
       subItens: []
     },
-    options: ["vitamina C.","vitamina B12.","vitamina D.","vitamina A.","vitamina E."],
+    options: ["vitamina C.","vitamina $1_{12}_{}$.","vitamina D.","vitamina A.","vitamina E."],
     correctAnswer: 0,
     materia: "Biologia – Nutrição",
     conteudo: "Biologia – Vitaminas",
@@ -696,7 +696,7 @@ createQuestion({
       principal: "A grandeza física denominada trabalho é definida pelo produto entre a força e a distância, sendo a força definida pelo produto entre a massa e a aceleração. Com base nas unidades do Sistema Internacional, a unidade de trabalho é",
       subItens: []
     },
-    options: ["kg · m · s","kg · m² · s-2","kg-1 · m · s2","kg · m · s-2","kg-2 · m-1 · s2"],
+    options: ["kg · m · s","kg · m² · s-2","kg-1 · m · $1_{2}$","kg · m · s-2","kg-2 · m-1 · $1_{2}$"],
     correctAnswer: 1,
     materia: "Física – Dinâmica",
     conteudo: "Física – Trabalho e Energia",
@@ -798,10 +798,10 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2019,
     text: {
-      principal: "Relatórios sobre a poluição atmosférica em grandes cida-des indicam a presença dos gases dióxido de enxofre (SO2), monóxido de carbono (CO) e ozônio (O3) em quantidades que podem ser prejudiciais à saúde.\n\n(http://cetesb.sp.gov.br. Adaptado.)\n\nNa atmosfera, esses gases poluentes formam uma mistura ___. Dentre esses poluentes, o ___ é uma substância simples. Assinale a alternativa que preenche as lacunas do texto.",
+      principal: "Relatórios sobre a poluição atmosférica em grandes cida-des indicam a presença dos gases dióxido de enxofre ($1_{2}$), monóxido de carbono (CO) e ozônio ($1_{3}_{}$) em quantidades que podem ser prejudiciais à saúde.\n\n(http://cetesb.sp.gov.br. Adaptado.)\n\nNa atmosfera, esses gases poluentes formam uma mistura ___. Dentre esses poluentes, o ___ é uma substância simples. Assinale a alternativa que preenche as lacunas do texto.",
       subItens: []
     },
-    options: ["homogênea - CO","homogênea - O3","homogênea - SO2","heterogênea - O3","heterogênea - CO"],
+    options: ["homogênea - CO","homogênea - $1_{3}_{}$","homogênea - $1_{2}$","heterogênea - $1_{3}_{}$","heterogênea - CO"],
     correctAnswer: 1,
     materia: "Química – Classificação da Matéria",
     conteudo: "Química – Meio Ambiente",
@@ -873,10 +873,10 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2019,
     text: {
-      principal: "O ácido clorídrico interage quimicamente com metais e com bases. As equações a seguir representam exemplos dessas reações.\n\n2HCl (aq) + Zn (s) → produto I (g) + ZnCl2 (aq)\nHCl (aq) + NaOH (aq) → produto II (l) + NaCl (aq)\n\nOs produtos I e II são, respectivamente,",
+      principal: "O ácido clorídrico interage quimicamente com metais e com bases. As equações a seguir representam exemplos dessas reações.\n\n2HCl (aq) + Zn (s) → produto I (g) + $1_{2}$ (aq)\nHCl (aq) + NaOH (aq) → produto II (l) + NaCl (aq)\n\nOs produtos I e II são, respectivamente,",
       subItens: []
     },
-    options: ["H₂O e Cl2","Cl₂ e H₂O","Cl₂ e H₂","H₂ e H₂O","H₂ e Cl₂"],
+    options: ["H₂O e $1_{2}_{}$","Cl₂ e H₂O","Cl₂ e H₂","H₂ e H₂O","H₂ e Cl₂"],
     correctAnswer: 3,
     materia: "Química – Reações Químicas",
     conteudo: "Química – Ácidos e Bases",
@@ -888,10 +888,10 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2019,
     text: {
-      principal: "A polaridade das moléculas é um fator importante para a sua solubilidade em água. Dentre as moléculas I2, HCl, CO2, CH4 e BF3, a que apresenta a mesma característica de polaridade que a água é",
+      principal: "A polaridade das moléculas é um fator importante para a sua solubilidade em água. Dentre as moléculas $1_{2}_{}$, HCl, $1_{2}$, $1_{4}$ e $1_{3}$, a que apresenta a mesma característica de polaridade que a água é",
       subItens: []
     },
-    options: ["I2","HCl","CO2","CH4","BF3"],
+    options: ["$1_{2}_{}$","HCl","$1_{2}$","$1_{4}$","$1_{3}$"],
     correctAnswer: 1,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Polaridade de Moléculas",

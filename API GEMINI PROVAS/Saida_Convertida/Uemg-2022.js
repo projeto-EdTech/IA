@@ -438,7 +438,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "A figura a seguir representa o modelo do mosaico fluído da membrana plasmática.\n\n[Imagem do modelo do mosaico fluido da membrana plasmática, mostrando uma bicamada lipídica com proteínas inseridas. Os números indicam diferentes partes:\n1: Proteína integral\n2: Glicoproteína (proteína com carboidrato)\n3: Proteína periférica\n4: Parte apolar dos fosfolipídios\n5: Parte polar dos fosfolipídios]\n\nCom base na figura, proteínas integrais e proteínas periféricas estão indicadas, respectivamente, em",
+      principal: "A figura a seguir representa o modelo do mosaico fluído da membrana plasmática.\n\n[Imagem do modelo do mosaico fluido da membrana plasmática, mostrando uma bicamada lipídica com proteínas inseridas. Os números indicam diferentes partes:\$1_{1}$: Proteína integral\$1_{2}$: Glicoproteína (proteína com carboidrato)\$1_{3}$: Proteína periférica\$1_{4}$: Parte apolar dos fosfolipídios\$1_{5}$: Parte polar dos fosfolipídios]\n\nCom base na figura, proteínas integrais e proteínas periféricas estão indicadas, respectivamente, em",
       subItens: []
     },
     options: ["1 e 2.","3 e 2.","3 e 4.","5 e 4."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "As medidas dos lados de um triângulo retângulo T1 estão em Progressão Aritmética de razão r e as medidas dos lados de um triângulo T2 estão em Progressão Geométrica, também de razão r. Sabendo que a área de T1 mede 54 cm² e que o perímetro de T2 mede 65 cm, a diferença entre a medida do maior lado de T2 e a medida do maior lado de T1 é de",
+      principal: "As medidas dos lados de um triângulo retângulo $1_{1}_{}$ estão em Progressão Aritmética de razão r e as medidas dos lados de um triângulo $1_{2}_{}$ estão em Progressão Geométrica, também de razão r. Sabendo que a área de $1_{1}_{}$ mede 54 cm² e que o perímetro de $1_{2}_{}$ mede 65 cm, a diferença entre a medida do maior lado de $1_{2}_{}$ e a medida do maior lado de $1_{1}_{}$ é de",
       subItens: []
     },
     options: ["24 cm.","30 cm.","36 cm.","40 cm."],

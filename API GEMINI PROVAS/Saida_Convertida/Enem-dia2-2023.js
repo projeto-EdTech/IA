@@ -438,7 +438,7 @@ createQuestion({
     university: "ENEM",
     year: 2023,
     text: {
-      principal: "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L₁, L₂ e L₃) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias de uso, apenas a lâmpada L₂ queima, enquanto as demais permanecem acesas. [Diagrama de circuito elétrico com lâmpadas L1, L2, L3 e resistores R, alimentados por uma fonte de energia]. Em relação à situação em que todas as lâmpadas funcionam, após a queima de L₂, os brilhos das lâmpadas serão",
+      principal: "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada (L₁, L₂ e L₃) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias de uso, apenas a lâmpada L₂ queima, enquanto as demais permanecem acesas. [Diagrama de circuito elétrico com lâmpadas $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$ e resistores R, alimentados por uma fonte de energia]. Em relação à situação em que todas as lâmpadas funcionam, após a queima de L₂, os brilhos das lâmpadas serão",
       subItens: []
     },
     options: ["os mesmos.","mais intensos.","menos intensos.","menos intenso para L₁ e o mesmo para L₃.","mais intenso para L₁ e menos intenso para L₃."],
@@ -888,7 +888,7 @@ createQuestion({
     university: "ENEM",
     year: 2023,
     text: {
-      principal: "Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas. Disponível em: http://g1.globo.com. Acesso em: 1 dez. 2018 (adaptado). Nessas condições, ao final da primeira hora após a ingestão da quantidade q de álcool, a concentração C dessa substância no sangue é expressa algebricamente por",
+      principal: "Dirigir após ingerir bebidas alcoólicas é uma atitude extremamente perigosa, uma vez que, a partir da primeira dose, a pessoa já começa a ter perda de sensibilidade de movimentos e de reflexos. Apesar de a eliminação e absorção do álcool depender de cada pessoa e de como o organismo consegue metabolizar a substância, ao final da primeira hora após a ingestão, a concentração de álcool (C) no sangue corresponde a aproximadamente 90% da quantidade (q) de álcool ingerida, e a eliminação total dessa concentração pode demorar até 12 horas. Disponível em: http://$1_{1}$.globo.com. Acesso em: 1 dez. 2018 (adaptado). Nessas condições, ao final da primeira hora após a ingestão da quantidade q de álcool, a concentração C dessa substância no sangue é expressa algebricamente por",
       subItens: []
     },
     options: ["C = 0,9q","C = 0,1q","C = 1 - 0,1q","C = 1 – 0,9q","C = q - 10"],
@@ -1098,7 +1098,7 @@ createQuestion({
     university: "ENEM",
     year: 2023,
     text: {
-      principal: "O gráfico expõe alguns números da gripe A-H1N1. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde. [Gráfico de barras: Números da campanha contra a gripe A-H1N1, mostrando percentual de imunização por categoria]. Época, 26 abr. 2010 (adaptado). De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-H1N1 é a categoria de",
+      principal: "O gráfico expõe alguns números da gripe A-$1_{1}N_{1}$. Entre as categorias que estão em processo de imunização, uma já está completamente imunizada, a dos trabalhadores da saúde. [Gráfico de barras: Números da campanha contra a gripe A-$1_{1}N_{1}$, mostrando percentual de imunização por categoria]. Época, 26 abr. 2010 (adaptado). De acordo com o gráfico, entre as demais categorias, a que está mais exposta ao vírus da gripe A-$1_{1}N_{1}$ é a categoria de",
       subItens: []
     },
     options: ["indígenas.","gestantes.","doentes crônicos.","adultos entre 20 e 29 anos.","crianças de 6 meses a 2 anos."],
@@ -1251,7 +1251,7 @@ createQuestion({
       principal: "Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação bidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou a subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete e observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na direção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira. [Mapa de um cinema com fileiras (A-J) e posições (1-12), escadas e uma estrela indicando a posição inicial]. Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a posição da poltrona na fileira, respectivamente. A poltrona dessa pessoa é a identificada por",
       subItens: []
     },
-    options: ["A6.","H1.","H6.","I1.","I6."],
+    options: ["$1_{6}_{}$.","$1_{1}_{}$.","$1_{6}_{}$.","$1_{1}_{}$.","$1_{6}_{}$."],
     correctAnswer: 3,
     materia: "Matemática – Orientação Espacial",
     conteudo: "Matemática – Raciocínio Lógico",

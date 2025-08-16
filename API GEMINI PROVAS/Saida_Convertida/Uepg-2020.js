@@ -3,7 +3,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 01 E 02\nToldam-se os ares,\nMurcham-se as flores;\nMorrei, Amores,\nQue Inês morreu.\nMísero esposo,\nDesata o pranto,\nQue o teu encanto\nJá não é teu.\nSua alma pura\nNos Céus se encerra;\nTriste da Terra,\nPorque a perdeu.\nAdaptado de: BOCAGE, Manuel Maria Barbosa du. Sonetos e Outros Poemas. São Paulo: FTD, 1994.\n01- Sobre o trecho do poema \"Cantata à morte de Inês de Castro\", assinale o que for correto.",
+      principal: "TEXTO PARA AS QUESTÕES 01 E 02\nToldam-se os ares,\nMurcham-se as flores;\nMorrei, Amores,\nQue Inês morreu.\nMísero esposo,\nDesata o pranto,\nQue o teu encanto\nJá não é teu.\nSua alma pura\nNos Céus se encerra;\nTriste da Terra,\nPorque a perdeu.\nAdaptado de: BOCAGE, Manuel Maria Barbosa du. Sonetos e Outros Poemas. São Paulo: FTD, 1994.\$1_{01}$- Sobre o trecho do poema \"Cantata à morte de Inês de Castro\", assinale o que for correto.",
       subItens: []
     },
     options: ["No verso \"Que Inês morreu\", a palavra \"que\" poderia ser substituída pelo termo \"pois\", sem prejuízo do entendimento do texto.","O verso \"Desata o pranto\" pode ser entendido como um pedido do eu-lírico para que o amado de Inês enxugue as lágrimas e esqueça a falecida.","O uso do pronome possessivo \"teu\" mostra que o texto utiliza a segunda pessoa do discurso para representar a quem o eu-lírico se dirige no texto.","No verso \"Mísero esposo\", a palavra \"mísero\" refere-se à pobreza material que se abateu sobre o casal de amantes e sobre a qual se lamenta o eu-lírico."],
@@ -33,7 +33,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 03 E 04\nO ex-presidente do Chile, Ricardo Lagos, ficou conhecido internacionalmente quando disse \"não\" à continuidade do governo do general e ditador Augusto Pinochet no plebiscito de 1988.\nAnos mais tarde, Lagos foi eleito presidente, governou o país entre 2000 e 2006 e passou a faixa presidencial para sua sucessora e ex-ministra Michelle Bachelet, hoje alta comissária das Nações Unidas para os Direitos Humanos.\nNa sua visão, é triste ver líderes políticos que dizem não acreditar na Ciência. “Não se pode fazer política como se a Ciência não existisse. Fico surpreso que existam líderes que não se interessem, que não queiram ler e aprender. E agora vemos o que está acontecendo (com os efeitos da pandemia)”.\nAdaptado de: CARMO, Marcia. Não se pode fazer política ignorando a Ciência, diz ex-presidente do Chile. BBC News Brasil, 2020. Disponível em: <https://www.bbc.com/portuguese/internacional-52450725>. Acesso em: 15/04/2020.\n03- Sobre o texto, assinale abaixo o que for correto.",
+      principal: "TEXTO PARA AS QUESTÕES 03 E 04\nO ex-presidente do Chile, Ricardo Lagos, ficou conhecido internacionalmente quando disse \"não\" à continuidade do governo do general e ditador Augusto Pinochet no plebiscito de 1988.\nAnos mais tarde, Lagos foi eleito presidente, governou o país entre 2000 e 2006 e passou a faixa presidencial para sua sucessora e ex-ministra Michelle Bachelet, hoje alta comissária das Nações Unidas para os Direitos Humanos.\nNa sua visão, é triste ver líderes políticos que dizem não acreditar na Ciência. “Não se pode fazer política como se a Ciência não existisse. Fico surpreso que existam líderes que não se interessem, que não queiram ler e aprender. E agora vemos o que está acontecendo (com os efeitos da pandemia)”.\nAdaptado de: CARMO, Marcia. Não se pode fazer política ignorando a Ciência, diz ex-presidente do Chile. BBC News Brasil, 2020. Disponível em: <https://www.bbc.com/portuguese/internacional-52450725>. Acesso em: 15/04/2020.\$1_{03}$- Sobre o texto, assinale abaixo o que for correto.",
       subItens: []
     },
     options: ["Na oração “O ex-presidente do Chile, Ricardo Lagos, ficou conhecido internacionalmente”, as vírgulas poderiam ser substituídas por travessões, sem prejuízo para a adequação gramatical do texto.","Na oração \"O ex-presidente do Chile, Ricardo Lagos, ficou conhecido internacionalmente\", as vírgulas poderiam ser substituídas por parênteses, sem prejuízo para a adequação gramatical do texto.","Na oração “O ex-presidente do Chile, Ricardo Lagos, ficou conhecido internacionalmente”, as vírgulas poderiam ser substituídas por pontos-e-vírgulas, sem prejuízo para a adequação gramatical do texto.","O prefixo \"ex\", presente no termo \"ex-presidente\", exprime semanticamente a ideia de alguém que deixou de ser algo."],
@@ -378,10 +378,10 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Com base nas afirmações apresentadas abaixo, assinale o que for correto.\nI) O NH4Cl(s) sofre decomposição em NH3(g) e HCl(g).\nII) O CaCO3(s) sofre decomposição em CaO(s) e CO2(g).\nIII) O HCl(g) sofre decomposição em Cl2(g) e H2(g).",
+      principal: "Com base nas afirmações apresentadas abaixo, assinale o que for correto.\nI) O NH4Cl(s) sofre decomposição em $1_{3}$(g) e HCl(g).\nII) O $1_{3}$(s) sofre decomposição em CaO(s) e $1_{2}$(g).\nIII) O HCl(g) sofre decomposição em $1_{2}_{}$(g) e $1_{2}_{}$(g).",
       subItens: []
     },
-    options: ["A NH3 é uma substância simples.","O NH4Cl é uma substância composta.","O CaCO3 é uma substância composta.","Os produtos de decomposição no item III são substâncias simples."],
+    options: ["A $1_{3}$ é uma substância simples.","O NH4Cl é uma substância composta.","O $1_{3}$ é uma substância composta.","Os produtos de decomposição no item III são substâncias simples."],
     correctAnswer: null,
     materia: "Química – Reações de Decomposição",
     conteudo: "Química – Substâncias Puras e Compostos",
@@ -396,7 +396,7 @@ createQuestion({
       principal: "Com relação à nomenclatura para os sais apresentados, assinale o que for correto.",
       subItens: []
     },
-    options: ["O NaBr é o bromato de sódio.","O Na2SO3 é o sulfato de sódio.","O KCl é o cloreto de potássio.","O MgCO3 é o carbonato de magnésio."],
+    options: ["O NaBr é o bromato de sódio.","O $1_{2}SO_{3}$ é o sulfato de sódio.","O KCl é o cloreto de potássio.","O $1_{3}$ é o carbonato de magnésio."],
     correctAnswer: null,
     materia: "Química – Nomenclatura de Sais",
     conteudo: "Química – Funções Inorgânicas",
@@ -411,7 +411,7 @@ createQuestion({
       principal: "Identifique exemplos de compostos iônicos e assinale o que for correto.",
       subItens: []
     },
-    options: ["Dióxido de carbono (CO2).","Cloreto de sódio (NaCl).","Óxido de alumínio (Al2O3).","Amônia (NH3)."],
+    options: ["Dióxido de carbono ($1_{2}$).","Cloreto de sódio (NaCl).","Óxido de alumínio ($1_{2}O_{3}$).","Amônia ($1_{3}$)."],
     correctAnswer: null,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Compostos Iônicos",
@@ -441,7 +441,7 @@ createQuestion({
       principal: "Considerando o conceito de reações de oxirredução, identifique equações químicas de reações dessa classe e assinale o que for correto.",
       subItens: []
     },
-    options: ["CuO(s) + H2(g) → Cu(s) + H2O(l).","Fe2O3(s) + 3CO(g) → 2Fe(s) + 3CO2(g).","2K(s) + F2(g) → 2KF(s).","BaCl2(aq) + H2SO4(aq) → BaSO4(aq) + 2HCl(aq)."],
+    options: ["CuO(s) + $1_{2}_{}$(g) → Cu(s) + $1_{2}O_{}$(l).","$1_{2}O_{3}$(s) + 3CO(g) → 2Fe(s) + 3CO2(g).","2K(s) + $1_{2}_{}$(g) → 2KF(s).","$1_{2}$(aq) + $1_{2}SO_{4}$(aq) → $1_{4}$(aq) + 2HCl(aq)."],
     correctAnswer: null,
     materia: "Química – Reações de Oxirredução",
     conteudo: "Química – Balanceamento de Equações",
@@ -498,10 +498,10 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Sabendo que m é a solução da equação 3^(2x) – 2.3^(x+2) + 81 = 0 e n é a solução inteira da equação log2(x) – log2(x – 1) = log2(2) + log2(3 – x), assinale o que for correto.",
+      principal: "Sabendo que m é a solução da equação 3^(2x) – 2.3^(x+2) + 81 = 0 e n é a solução inteira da equação $1_{2}$(x) – $1_{2}$(x – 1) = $1_{2}$(2) + $1_{2}$(3 – x), assinale o que for correto.",
       subItens: []
     },
-    options: ["m + n é um número par.","O domínio da função g(x) = x/(x-2) é o conjunto {x ∈ R | x = m}.","O número m.n é um divisor de 2^6.3^5.","m e n são os zeros da função f(x) = x² - 4x + 4."],
+    options: ["m + n é um número par.","O domínio da função g(x) = x/(x-2) é o conjunto {x ∈ R | x = m}.","O número m.n é um divisor de $1^{6}$.$1^{5}$.","m e n são os zeros da função f(x) = x² - 4x + 4."],
     correctAnswer: null,
     materia: "Matemática – Equações Exponenciais",
     conteudo: "Matemática – Equações Logarítmicas",
@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 56 A 60\nA GREEK LOVE STORY\nGreek mythology gave us this story of passion and perseverance of a girl who waited and waited for her husband's return. She was married to a Greek hero, Ulysses, king of Ithaca, who disappeared after the Trojan War, trying to recover his palace as well as his kingdom.\nPenelope cried every day looking at the endless horizon, but never lost hope that Ulysses was going to return someday. So great was her love for him that she tried hard to avoid the courtship of many chieftains of Ithaca and nearby islands that wanted to marry her.\nTo keep her many suitors away, she imagined a plan: she used to tell them to wait until she finished weaving a shroud for old Laertes, Ulysses’ father. Every night for three years, she undid the piece that she had woven by day. No one knew about it until her maids revealed her secret.\nAt last, after many adventures, Ulysses came back home, killed her suitors and rescued his dear Penelope, who was patient enough to wait for her love’s return.\nAdaptado de: MORAES, Liani. Love Stories. São Paulo: Atual, 1977.\nVocabulário:\nshroud: manto; hero: herói; to recover: recuperar; endless: sem fim, interminável; to avoid: evitar; courtship: namoro, corte; chieftain: chefe, líder; suitor: pretendente; to weave: tecer; to undo/undid: desfazer/desfazia, desmanchava; had woven: tinha tecido; maid: serva, empregada; to reveal: revelar; enough: suficientemente, bastante; Ulysses: Ulisses; Penelope: Penélope; Ithaca: Ítaca.\n56- No que se refere a Ulisses, assinale o que for correto.",
+      principal: "TEXTO PARA AS QUESTÕES 56 A 60\nA GREEK LOVE STORY\nGreek mythology gave us this story of passion and perseverance of a girl who waited and waited for her husband's return. She was married to a Greek hero, Ulysses, king of Ithaca, who disappeared after the Trojan War, trying to recover his palace as well as his kingdom.\nPenelope cried every day looking at the endless horizon, but never lost hope that Ulysses was going to return someday. So great was her love for him that she tried hard to avoid the courtship of many chieftains of Ithaca and nearby islands that wanted to marry her.\nTo keep her many suitors away, she imagined a plan: she used to tell them to wait until she finished weaving a shroud for old Laertes, Ulysses’ father. Every night for three years, she undid the piece that she had woven by day. No one knew about it until her maids revealed her secret.\nAt last, after many adventures, Ulysses came back home, killed her suitors and rescued his dear Penelope, who was patient enough to wait for her love’s return.\nAdaptado de: MORAES, Liani. Love Stories. São Paulo: Atual, 1977.\nVocabulário:\nshroud: manto; hero: herói; to recover: recuperar; endless: sem fim, interminável; to avoid: evitar; courtship: namoro, corte; chieftain: chefe, líder; suitor: pretendente; to weave: tecer; to undo/undid: desfazer/desfazia, desmanchava; had woven: tinha tecido; maid: serva, empregada; to reveal: revelar; enough: suficientemente, bastante; Ulysses: Ulisses; Penelope: Penélope; Ithaca: Ítaca.\$1_{56}$- No que se refere a Ulisses, assinale o que for correto.",
       subItens: []
     },
     options: ["Ulisses era um herói grego, rei de Ítaca.","Após a guerra, Ulisses ficou ausente por três anos.","Enquanto Ulisses estava ausente, seu pai, Laertes, morreu.","Quando voltou para casa, Ulisses perdoou os pretendentes de Penélope e tudo ficou bem."],

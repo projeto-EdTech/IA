@@ -303,7 +303,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2022,
     text: {
-      principal: "Responda à questão com base na figura a seguir:\nSOL\nRadiação\nsolares\nCO2\nRadiações\ninfravermelha\nTERRA\nFonte: Adaptado de Tavares (2012).\nO grave problema ambiental representado na figura é o(a):",
+      principal: "Responda à questão com base na figura a seguir:\nSOL\nRadiação\nsolares\$1_{2}$\nRadiações\ninfravermelha\nTERRA\nFonte: Adaptado de Tavares (2012).\nO grave problema ambiental representado na figura é o(a):",
       subItens: []
     },
     options: ["contaminação das nuvens.","manutenção isotérmica.","efeito estufa.","modificação do ciclo hidrológico.","redução do índice de precipitação."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2022,
     text: {
-      principal: "Considere a reação que ocorre entre o zinco metálico e ácido nítrico:\nZn + HNO3 → Zn(NO3)2 + N2O + H2O\nQuando se acertam os coeficientes estequiométricos, usando o menor conjunto adequado de coeficientes inteiros, o valor da soma de todos os coeficientes nesta reação de oxirredução é igual a:",
+      principal: "Considere a reação que ocorre entre o zinco metálico e ácido nítrico:\nZn + $1_{3}$ → Zn($1_{3}$)2 + $1_{2}O_{}$ + $1_{2}O_{}$\nQuando se acertam os coeficientes estequiométricos, usando o menor conjunto adequado de coeficientes inteiros, o valor da soma de todos os coeficientes nesta reação de oxirredução é igual a:",
       subItens: []
     },
     options: ["10","13","20","23","24"],
@@ -636,7 +636,7 @@ createQuestion({
       principal: "Num experimento realizado no Laboratório de Física, uma bola de isopor, com 5,0g de massa, foi liberada a partir do repouso, quando estava totalmente imersa em um recipiente com água. Foi verificado que a massa de água deslocada pela bola quando estava totalmente imersa era igual a 50g. Desprezando a força de arrasto exercida pela água sobre a bola de isopor, podemos afirmar que, no momento em que foi liberada, a intensidade da força resultante sobre a bola de isopor era de:",
       subItens: []
     },
-    options: ["4,5 × 10-3N","5,5 x 10-2N","4,5 × 10-2N","5,5 × 10-1N","4,5 × 10-1N"],
+    options: ["$1 \times 10^{-3}$N","$1 \times 10^{-2}$N","$1 \times 10^{-2}$N","$1 \times 10^{-1}$N","$1 \times 10^{-1}$N"],
     correctAnswer: 4,
     materia: "Física – Hidrostática",
     conteudo: "Física – Empuxo",

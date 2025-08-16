@@ -141,7 +141,7 @@ createQuestion({
       principal: "Considere um sistema de coordenadas x, y, z com respectivos vetores de base {î, ĵ, k̂}, sendo z a coordenada vertical. Uma partícula de massa m e carga elétrica de módulo q é colocada em movimento no vácuo, com velocidade v⃗ = vsenθ ĵ + vcosθ k̂, em um espaço tridimensional. Nesse espaço, existem um campo magnético uniforme, B⃗ = B î, e um campo gravitacional constante, g⃗ = -g k̂. O ângulo θ é escolhido de tal forma que a energia cinética da partícula seja conservada. Dadas essas informações, é possível inferir que a energia cinética da partícula é igual a",
       subItens: []
     },
-    options: ["(m^3 * g^2) / (q^2 * B^2).","(1/2) * (m * g^2) / (q^2 * B^2).","(2 * m * g^2) / (q^2 * B^2).","(1/4) * (m^3 * g^2) / (q^2 * B^2).","(1/2) * (m^3 * g^2) / (q^2 * B^2)."],
+    options: ["($1^{3}$ * $1^{2}$) / ($1^{2}$ * $1^{2}$).","(1/2) * (m * $1^{2}$) / ($1^{2}$ * $1^{2}$).","(2 * m * $1^{2}$) / ($1^{2}$ * $1^{2}$).","(1/4) * ($1^{3}$ * $1^{2}$) / ($1^{2}$ * $1^{2}$).","(1/2) * ($1^{3}$ * $1^{2}$) / ($1^{2}$ * $1^{2}$)."],
     correctAnswer: 4,
     materia: "Física – Eletromagnetismo (Força Magnética, Campo Magnético)",
     conteudo: "Física – Mecânica (Energia Cinética, Gravidade)",

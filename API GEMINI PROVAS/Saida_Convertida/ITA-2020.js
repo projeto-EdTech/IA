@@ -3,10 +3,10 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Considere uma teoria na qual a força de interação entre duas “cargas generalizadas” q1 e q2 em universos N-dimensionais é expressa por Fe = 9192/(krN-1), em que é uma constante característica do meio. A teoria também prevê uma força entre dois “polos generalizados\" p1 e p2 expressa por Fm = P1P2/(µrN-1), na qual é outra constante característica do meio. Sabe-se ainda que um polo p pode interagir com uma corrente de carga, i, gerando uma força F = ip/(rN-2). Em todos os casos, r representa a distância entre os entes interagentes. Considerando as grandezas fundamentais massa, comprimento, tempo e corrente de carga, assinale a alternativa que corresponde à fórmula dimensional de κμ.",
+      principal: "Considere uma teoria na qual a força de interação entre duas “cargas generalizadas” $1_{1}$ e $1_{2}$ em universos N-dimensionais é expressa por Fe = 9192/(krN-1), em que é uma constante característica do meio. A teoria também prevê uma força entre dois “polos generalizados\" $1_{1}$ e $1_{2}$ expressa por Fm = $1_{1}P_{2}$/(µrN-1), na qual é outra constante característica do meio. Sabe-se ainda que um polo p pode interagir com uma corrente de carga, i, gerando uma força F = ip/(rN-2). Em todos os casos, r representa a distância entre os entes interagentes. Considerando as grandezas fundamentais massa, comprimento, tempo e corrente de carga, assinale a alternativa que corresponde à fórmula dimensional de κμ.",
       subItens: []
     },
-    options: ["L2T-2","L-2T2","L-2T-2","L1-NT2","L-2TN-1"],
+    options: ["$1_{2}T_{}$-2","L-2T2","L-2T-2","$1_{1}_{}$-$1_{2}$","L-2TN-1"],
     correctAnswer: 1,
     materia: "Física – Análise Dimensional",
     conteudo: "",
@@ -36,7 +36,7 @@ createQuestion({
       principal: "Um bloco de massa m sustentado por um par de molas idênticas, paralelas e de constante elástica k, desce verticalmente com velocidade constante e de módulo v controlada por um motor, conforme ilustra a figura. Se o motor travar repentinamente, ocorrerá uma força de tração máxima no cabo com módulo igual a",
       subItens: []
     },
-    options: ["mg + √(mg)2 + 2kmv2.","mg + √(mg)2 + kmv2.","mg+√2kmv2.","mg + √4kmv2.","mg + √kmv2."],
+    options: ["mg + √(mg)2 + 2kmv2.","mg + √(mg)2 + $1_{2}$.","mg+√2kmv2.","mg + √4kmv2.","mg + √$1_{2}$."],
     correctAnswer: 2,
     materia: "Física – Dinâmica",
     conteudo: "Física – Trabalho e Energia",
@@ -48,7 +48,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Por uma mangueira de diâmetro D₁ flui água a uma velocidade de 360 m/min, conectando-se na sua extremidade a 30 outras mangueiras iguais entre si, de diâmetro D2 < D1. Assinale a relação D2/D1 para que os jatos de água na saída das mangueiras tenham alcance horizontal máximo de 40 m.",
+      principal: "Por uma mangueira de diâmetro D₁ flui água a uma velocidade de 360 m/min, conectando-se na sua extremidade a 30 outras mangueiras iguais entre si, de diâmetro $1_{2}_{}$ < $1_{1}_{}$. Assinale a relação $1_{2}_{}$/$1_{1}_{}$ para que os jatos de água na saída das mangueiras tenham alcance horizontal máximo de 40 m.",
       subItens: []
     },
     options: ["1/10.","√3/10.","4/5.","1/2.","√2/3."],
@@ -81,7 +81,7 @@ createQuestion({
       principal: "Uma pequena esfera com peso de módulo Pé arremessada verticalmente para cima com velocidade de módulo Vo a partir do solo. Durante todo o percurso, atua sobre a esfera uma força de resistência do ar de módulo F constante. A distância total percorrida pela esfera após muitas reflexões elásticas com o solo é dada aproximadamente por",
       subItens: []
     },
-    options: ["V(P-F) / 2gF","V3(P+F) / 2gF","2VP / gF","VP / 2gF","VP / gF"],
+    options: ["V(P-F) / 2gF","$1_{3}_{}$(P+F) / 2gF","2VP / gF","VP / 2gF","VP / gF"],
     correctAnswer: 3,
     materia: "Física – Trabalho e Energia",
     conteudo: "Física – Forças Dissipativas",
@@ -126,7 +126,7 @@ createQuestion({
       principal: "Uma certa quantidade de gás com temperatura inicial To, pressão Po e volume Vo, é aquecida por uma corrente elétrica que flui por um fio de platina num intervalo de tempo At. Esse procedimento é feito duas vezes: primeiro, com volume constante Vo e pressão variando de Po para P₁ e, a seguir, com pressão constante Po e volume variando de Vo para V₁. Assinale a alternativa que explicita a relação Cp/Cv do gás.",
       subItens: []
     },
-    options: ["(Po/V1 - 1) / (P1/Vo - 1)","(P1/Po - 1) / (V1/Vo - 1)","(2Po/P1 - 1) / (Vo/V1 - 1)","(2P1/Po - 1) / (2V1/Vo - 1)","(P1/Po - 1) / (2V1/Vo - 1)"],
+    options: ["(Po/$1_{1}_{}$ - 1) / ($1_{1}_{}$/Vo - 1)","($1_{1}_{}$/Po - 1) / ($1_{1}_{}$/Vo - 1)","(2Po/$1_{1}_{}$ - 1) / (Vo/$1_{1}_{}$ - 1)","(2P1/Po - 1) / (2V1/Vo - 1)","($1_{1}_{}$/Po - 1) / (2V1/Vo - 1)"],
     correctAnswer: 1,
     materia: "Física – Termodinâmica",
     conteudo: "Física – Calorimetria",
@@ -156,7 +156,7 @@ createQuestion({
       principal: "O som produzido pelo alto-falante F (fonte) ilustrado na figura tem frequência de 10 kHz e chega a um microfone M através de dois caminhos diferentes. As ondas sonoras viajam simultaneamente pelo tubo esquerdo FXM, de comprimento fixo, e pelo tubo direito FYM, cujo comprimento pode ser alterado movendo-se a seção deslizante (tal qual um trombone). As ondas que viajam pelos dois caminhos interferem-se em M. Quando a seção deslizante do caminho FYM é puxada para fora por 0,025 m, a intensidade sonora detectada pelo microfone passa de um máximo para um mínimo. Assinale o módulo da velocidade do som no interior do tubo.",
       subItens: []
     },
-    options: ["5,0×102 m/s","2,5×102 m/s","1,0×103 m/s","2,0×103 m/s","3,4×102 m/s"],
+    options: ["$1 \times 10^{2}$ m/s","$1 \times 10^{2}$ m/s","$1 \times 10^{3}$ m/s","$1 \times 10^{3}$ m/s","$1 \times 10^{2}$ m/s"],
     correctAnswer: 2,
     materia: "Física – Ondas Sonoras",
     conteudo: "Física – Interferência de Ondas",
@@ -186,7 +186,7 @@ createQuestion({
       principal: "Três esferas idênticas de massa m, carga elétrica Q e dimensões desprezíveis, são presas a extremidades de fios isolantes e inextensíveis de comprimento l. As demais pontas dos fios são fixadas a um ponto P, que sustenta as massas. Na condição de equilíbrio do sistema, verifica-se que o ângulo entre um dos fios e a direção vertical é θ, conforme mostra a figura. Sendo ε0 a permissividade elétrica do meio, o valor da carga elétrica Q é dada por",
       subItens: []
     },
-    options: ["l√(12πεοmg senθ cos θ).","l√(4περmg tg0√3).","l senθ√ 4περmg tg0√3.","l senθ √(4πε0mg tg 0 / √3)","lsen θ√ 4περmg tg0."],
+    options: ["l√(12πεοmg senθ cos θ).","l√(4περmg $1_{0}$√3).","l senθ√ 4περmg $1_{0}$√3.","l senθ √(4πε0mg tg 0 / √3)","lsen θ√ 4περmg $1_{0}$."],
     correctAnswer: 2,
     materia: "Física – Eletrostática",
     conteudo: "Física – Equilíbrio de Forças",
@@ -213,7 +213,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Considere um sistema de três máquinas térmicas M1, M2 e M3 acopladas, tal que o rejeito energético de uma é aproveitado pela seguinte. Sabe-se que a cada ciclo, M₁ recebe 800 kJ de calor de uma fonte quente a 300 K e rejeita 600 kJ, dos quais 150 kJ são aproveitados por M2 para realização de trabalho. Por fim, M3 aproveita o rejeito de M2 e descarta 360 kJ em uma fonte fria a 6 K. São feitas as seguintes afirmações: I. É inferior a 225 K a temperatura da fonte fria de M₁. II. O rendimento do sistema é de 55%. III. O rendimento do sistema corresponde a 80% do rendimento de uma máquina de Carnot operando entre as mesmas temperaturas. Conclui-se então que",
+      principal: "Considere um sistema de três máquinas térmicas $1_{1}_{}$, $1_{2}_{}$ e $1_{3}_{}$ acopladas, tal que o rejeito energético de uma é aproveitado pela seguinte. Sabe-se que a cada ciclo, M₁ recebe 800 kJ de calor de uma fonte quente a 300 K e rejeita 600 kJ, dos quais 150 kJ são aproveitados por $1_{2}_{}$ para realização de trabalho. Por fim, $1_{3}_{}$ aproveita o rejeito de $1_{2}_{}$ e descarta 360 kJ em uma fonte fria a 6 K. São feitas as seguintes afirmações: I. É inferior a 225 K a temperatura da fonte fria de M₁. II. O rendimento do sistema é de 55%. III. O rendimento do sistema corresponde a 80% do rendimento de uma máquina de Carnot operando entre as mesmas temperaturas. Conclui-se então que",
       subItens: []
     },
     options: ["somente a afirmação I está incorreta.","somente a afirmação II está incorreta.","somente a afirmação III está incorreta.","todas as afirmações estão corretas.","as afirmações I e III estão incorretas."],
@@ -471,7 +471,7 @@ createQuestion({
       principal: "A palavra sublinhada nos trechos retirados do texto pode ser substituída, sem alteração de significado, pela palavra ou expressão da segunda coluna, exceto em: A () render the population redundant → unnecessary. B() pose a “Terminator\"-style threat to humanity → intimidation. C() After many false dawns → break of days. D() this rapid progress has also led to concerns → disregards. E( ) AI will cause widespread unemployment → far-reaching.",
       subItens: []
     },
-    options: ["render the population redundant -> unnecessary.","pose a “Terminator\"-style threat to humanity -> intimidation.","After many false dawns -> break of days.","this rapid progress has also led to concerns -> disregards.","AI will cause widespread unemployment -> far-reaching."],
+    options: ["render the population redundant$$ \rightarrow $$unnecessary.","pose a “Terminator\"-style threat to humanity$$ \rightarrow $$intimidation.","After many false dawns$$ \rightarrow $$break of days.","this rapid progress has also led to concerns$$ \rightarrow $$disregards.","AI will cause widespread unemployment$$ \rightarrow $$far-reaching."],
     correctAnswer: 0,
     materia: "Inglês – Vocabulário",
     conteudo: "Inglês – Sinônimos",
@@ -603,7 +603,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Sejam X1, X2, X3, X4, X5 e Xx6 números reais tais que 2x1 4; 3x2 = 5; 4x3 6; 5x4 7; 6x5 = 8 e 7x6 9. Então, o produto X1 X2 X3 X4 X5 X6 é igual a",
+      principal: "Sejam $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$, $1_{4}_{}$, $1_{5}_{}$ e $1_{6}_{}$ números reais tais que 2x1 4; 3x2 = 5; 4x3 6; 5x4 7; 6x5 = 8 e 7x6 9. Então, o produto $1_{1}_{}$ $1_{2}_{}$ $1_{3}_{}$ $1_{4}_{}$ $1_{5}_{}$ $1_{6}_{}$ é igual a",
       subItens: []
     },
     options: ["6.","8.","10.","12.","14."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Duas curvas planas c₁ e c2 são definidas pelas equações c1 : 16x² + 9y² – 224x – 72y + 640 = 0, c2 : x² + y² + 4x - 10y + 13 = 0. Sejam P e Q os pontos de interseção de c₁ com o eixo x e R e S os pontos de interseção de c2 com o eixo y. A área do quadrilátero convexo de vértices P, Q, R e S é igual a",
+      principal: "Duas curvas planas c₁ e $1_{2}$ são definidas pelas equações $1_{1}$ : 16x² + 9y² – 224x – 72y + 640 = 0, $1_{2}$ : x² + y² + 4x - 10y + 13 = 0. Sejam P e Q os pontos de interseção de c₁ com o eixo x e R e S os pontos de interseção de $1_{2}$ com o eixo y. A área do quadrilátero convexo de vértices P, Q, R e S é igual a",
       subItens: []
     },
     options: ["15 + 7√3.","15-7√3.","15 + 14√3.","15 – 14√3.","25 + 10√3."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Considere uma bateria de fluxo de hidrogênio gasoso (H₂) e bromo líquido (Br2) operando nas condições padrão. Durante a descarga, a bateria converte H2 e Br2 em ácido bromídrico (HBr). As reações de meia célula e os respectivos potenciais-padrão de eletrodo, a 298 K, são: Anodo, H2 → 2H+ + 2e¯ (Eº = 0 V) Catodo, Br2 + 2e → 2Br (Eº = 1,087 V) A dissociação da água pode ser observada pelo efeito da seguinte semirreação: O2 + 4e + 4H⁺→ 2H2O Eº = 1,229 V A formação de complexos iônicos de polibrometo ocorre segundo as reações e suas respectivas constantes de equilíbrio: Br2 + Br Br3 K3 = 16,7 2Br2 + Br⇌ Br5 K5 = 37,7 Sejam feitas as seguintes afirmações a respeito dessa bateria: I. O potencial da célula pode ser aproximado pela equação: Ecatodo - Eanodo = 1,087 + 0,06 pH. II. O solvente (água) é termodinamicamente estável somente a pH < 2,4. III. Recarregar a bateria com um potencial catódico inferior a 1,229 V garante a estabilidade do solvente. IV. Durante a descarga da bateria, a concentração do HBr aumenta e podem formar complexos iônicos de Br3 e Br5¯. Das afirmações acima, estão CORRETAS",
+      principal: "Considere uma bateria de fluxo de hidrogênio gasoso (H₂) e bromo líquido ($1_{2}_{}$) operando nas condições padrão. Durante a descarga, a bateria converte $1_{2}_{}$ e $1_{2}_{}$ em ácido bromídrico (HBr). As reações de meia célula e os respectivos potenciais-padrão de eletrodo, a 298 K, são: Anodo, $1_{2}_{}$ → 2H+ + 2e¯ (Eº = 0 V) Catodo, $1_{2}_{}$ + 2e → 2Br (Eº = 1,087 V) A dissociação da água pode ser observada pelo efeito da seguinte semirreação: $1_{2}_{}$ + 4e + 4H⁺→ 2H2O Eº = 1,229 V A formação de complexos iônicos de polibrometo ocorre segundo as reações e suas respectivas constantes de equilíbrio: $1_{2}_{}$ + Br $1_{3}_{}$ $1_{3}_{}$ = 16,7 2Br2 + Br⇌ $1_{5}_{}$ $1_{5}_{}$ = 37,7 Sejam feitas as seguintes afirmações a respeito dessa bateria: I. O potencial da célula pode ser aproximado pela equação: Ecatodo - Eanodo = 1,087 + 0,06 pH. II. O solvente (água) é termodinamicamente estável somente a pH < 2,4. III. Recarregar a bateria com um potencial catódico inferior a 1,229 V garante a estabilidade do solvente. IV. Durante a descarga da bateria, a concentração do HBr aumenta e podem formar complexos iônicos de $1_{3}_{}$ e $1_{5}_{}$¯. Das afirmações acima, estão CORRETAS",
       subItens: []
     },
     options: ["apenas I, II e IV.","apenas I e III.","apenas II e IV.","apenas III e IV.","todas."],
@@ -858,7 +858,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "A amônia, uma das principais matérias-primas da indústria de fertilizantes, é produzida em escala industrial pelo processo conhecido como Haber-Bosch. Neste, uma reação entre H2(g) e N2(g) é catalisada com ferro em um reator mantido a 200 atm e 450 ºC. Sobre essa reação exotérmica, sejam feitas as seguintes proposições: I. O aumento da pressão no reator, mediante adição de um gás inerte, aumenta o rendimento do processo. II. O uso de um catalisador mais efetivo aumenta o rendimento do processo. III. Uma vez atingido o equilíbrio, não ocorrem mais colisões efetivas entre moléculas de H2(g) e N2(g). IV. Considerando que ainda exista superação da energia de ativação, a redução da temperatura no reator diminui a velocidade da reação, mas favorece a formação de amônia. Assinale a opção que apresenta a(s) afirmação(ões) CORRETA(S) sobre a reação de formação da amônia.",
+      principal: "A amônia, uma das principais matérias-primas da indústria de fertilizantes, é produzida em escala industrial pelo processo conhecido como Haber-Bosch. Neste, uma reação entre $1_{2}_{}$(g) e $1_{2}_{}$(g) é catalisada com ferro em um reator mantido a 200 atm e 450 ºC. Sobre essa reação exotérmica, sejam feitas as seguintes proposições: I. O aumento da pressão no reator, mediante adição de um gás inerte, aumenta o rendimento do processo. II. O uso de um catalisador mais efetivo aumenta o rendimento do processo. III. Uma vez atingido o equilíbrio, não ocorrem mais colisões efetivas entre moléculas de $1_{2}_{}$(g) e $1_{2}_{}$(g). IV. Considerando que ainda exista superação da energia de ativação, a redução da temperatura no reator diminui a velocidade da reação, mas favorece a formação de amônia. Assinale a opção que apresenta a(s) afirmação(ões) CORRETA(S) sobre a reação de formação da amônia.",
       subItens: []
     },
     options: ["apenas I","apenas I e II","apenas II e III","apenas III e IV","apenas IV"],
@@ -903,7 +903,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Em um experimento realizado a 298 K foram adicionados 20,0 mL de HCl 1,5.10⁴ mol L⁻¹ a 0,48 L de uma solução de limpeza contendo 3,01.10⁻⁶ mol de uma base forte hipotética XOH. O valor da concentração de H3O⁺, em mol L⁻¹, na solução resultante é igual a",
+      principal: "Em um experimento realizado a 298 K foram adicionados 20,0 mL de HCl 1,5.10⁴ mol L⁻¹ a 0,48 L de uma solução de limpeza contendo 3,01.10⁻⁶ mol de uma base forte hipotética XOH. O valor da concentração de $1_{3}O_{}$⁺, em mol L⁻¹, na solução resultante é igual a",
       subItens: []
     },
     options: ["1,0.10⁻⁸.","8,3.10⁻⁸.","1,0. 10⁻⁷.","1,2 . 10⁻⁷.","8,2. 10⁻⁷."],
@@ -948,7 +948,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Quando dissolvidos em água para formar soluções com concentração 0,1 mol L⁻¹, os sais Na2S, NaCH3CO2, NaHSO4 e Na2HPO4 deixam o meio respectivamente",
+      principal: "Quando dissolvidos em água para formar soluções com concentração 0,1 mol L⁻¹, os sais $1_{2}S_{}$, NaCH3CO2, $1_{4}$ e $1_{2}HPO_{4}$ deixam o meio respectivamente",
       subItens: []
     },
     options: ["ácido, básico, neutro, básico.","básico, neutro, ácido, neutro.","ácido, básico, ácido, ácido.","básico, básico, ácido, básico.","neutro, neutro, básico, neutro."],
@@ -963,7 +963,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Turbinas a gás podem operar com diversos tipos de combustível. Alguns dos mais comuns são metano, etanol e querosene (C12H26). Considerando combustão completa, a razão mássica de mistura entre cada um desses combustíveis e o oxigênio é, respectivamente,",
+      principal: "Turbinas a gás podem operar com diversos tipos de combustível. Alguns dos mais comuns são metano, etanol e querosene ($1_{12}H_{26}$). Considerando combustão completa, a razão mássica de mistura entre cada um desses combustíveis e o oxigênio é, respectivamente,",
       subItens: []
     },
     options: ["0,25; 0,48 е 0,29.","0,25; 0,48 е 0,57.","0,25; 0,96 е 0,57.","0,50; 0,48 е 0,29.","0,50; 0,96 е 0,57."],
@@ -1008,7 +1008,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Considerando que o aré composto aproximadamente de 21% de O2 e 79% de N2 em volume, tem-se que a razão molar ar/combustível da combustão completa de um determinado alcano é igual a 59,5. A partir desse dado, assinale a alternativa que corresponde à soma dos coeficientes estequiométricos de todas as substâncias presentes nessa reação.",
+      principal: "Considerando que o aré composto aproximadamente de 21% de $1_{2}_{}$ e 79% de $1_{2}_{}$ em volume, tem-se que a razão molar ar/combustível da combustão completa de um determinado alcano é igual a 59,5. A partir desse dado, assinale a alternativa que corresponde à soma dos coeficientes estequiométricos de todas as substâncias presentes nessa reação.",
       subItens: []
     },
     options: ["30,5","55,5","82,0","112,0","124,5"],
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "ITA",
     year: 2020,
     text: {
-      principal: "Considere que o ar seco ao nível do mar é composto de 4.10⁻²% (em volume) de CO2. Sejam dadas a constante da lei de Henry para o CO2 e a constante da primeira dissociação do ácido carbônico, respectivamente, KH = 2,5·10⁻² mol L⁻¹ atm⁻¹ e Ka = 1·10⁻⁶,⁴. Assinale a opção que apresenta a concentração em mol L⁻¹ de CO2 dissolvido e o pH de uma amostra de água desionizada, após a mesma entrar em equilíbrio com o ar atmosférico.",
+      principal: "Considere que o ar seco ao nível do mar é composto de 4.10⁻²% (em volume) de $1_{2}$. Sejam dadas a constante da lei de Henry para o $1_{2}$ e a constante da primeira dissociação do ácido carbônico, respectivamente, KH = 2,5·10⁻² mol L⁻¹ atm⁻¹ e Ka = 1·10⁻⁶,⁴. Assinale a opção que apresenta a concentração em mol L⁻¹ de $1_{2}$ dissolvido e o pH de uma amostra de água desionizada, após a mesma entrar em equilíbrio com o ar atmosférico.",
       subItens: []
     },
     options: ["10⁻² e 6,4","10⁻⁵ e 5,7","10⁻⁵ e 6,4","10⁻⁷ e 5,7","10⁻⁷ e 6,4"],
@@ -1041,7 +1041,7 @@ createQuestion({
       principal: "Considere os seguintes experimentos e suas respectivas observações: I. A uma solução de nitrato de prata é adicionada uma solução de cloreto de sódio, com a formação de um precipitado. II. O precipitado obtido em (I) é filtrado e misturado a hidróxido de sódio sólido, com um pouco de água. A mistura é aquecida, produzindo um sólido marrom escuro. III. O sólido preparado em (II) é aquecido junto a uma solução concentrada de glicose, formando um sólido cinzento. Assinale a alternativa que apresenta corretamente os sólidos produzidos em I, II e III, respectivamente.",
       subItens: []
     },
-    options: ["AgCl, Ag2O, Ag","Ag, AgOH, Ag","AgCl, AgOH, AgO","AgCl, Ag2O, Ag2C2","AgCl, AgO, Ag2C2"],
+    options: ["AgCl, $1_{2}O_{}$, Ag","Ag, AgOH, Ag","AgCl, AgOH, AgO","AgCl, $1_{2}O_{}$, $1_{2}C_{2}$","AgCl, AgO, $1_{2}C_{2}$"],
     correctAnswer: 0,
     materia: "Química – Química Inorgânica",
     conteudo: "Química – Reações de Precipitação",

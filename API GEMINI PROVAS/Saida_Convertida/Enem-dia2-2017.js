@@ -3,7 +3,7 @@ createQuestion({
     university: "ENEM",
     year: 2017,
     text: {
-      principal: "A toxicidade de algumas substâncias é normalmente representada por um índice conhecido como DL50 (dose letal mediana). Ele representa a dosagem aplicada a uma população de seres vivos que mata 50% desses indivíduos e é normalmente medido utilizando-se ratos como cobaias. Esse índice é muito importante para os seres humanos, pois ao se extrapolar os dados obtidos com o uso de cobaias, pode-se determinar o nível tolerável de contaminação de alimentos, para que possam ser consumidos de forma segura pelas pessoas. O quadro apresenta três pesticidas e suas toxicidades. A unidade mg/kg indica a massa da substância ingerida pela massa da cobaia.\n\nQuadro:\nPesticidas | DL50 (mg/kg)\nDiazinon | 70\nMalation | 1 000\nAtrazina | 3 100\n\nSessenta ratos, com massa de 200 g cada, foram divididos em três grupos de vinte. Três amostras de ração, contaminadas, cada uma delas com um dos pesticidas indicados no quadro, na concentração de 3 mg por grama de ração, foram administradas para cada grupo de cobaias. Cada rato consumiu 100 g de ração.\n\nQual(ais) grupo(s) terá(ão) uma mortalidade mínima de 10 ratos?",
+      principal: "A toxicidade de algumas substâncias é normalmente representada por um índice conhecido como $1_{50}$ (dose letal mediana). Ele representa a dosagem aplicada a uma população de seres vivos que mata 50% desses indivíduos e é normalmente medido utilizando-se ratos como cobaias. Esse índice é muito importante para os seres humanos, pois ao se extrapolar os dados obtidos com o uso de cobaias, pode-se determinar o nível tolerável de contaminação de alimentos, para que possam ser consumidos de forma segura pelas pessoas. O quadro apresenta três pesticidas e suas toxicidades. A unidade mg/kg indica a massa da substância ingerida pela massa da cobaia.\n\nQuadro:\nPesticidas | $1_{50}$ (mg/kg)\nDiazinon | 70\nMalation | 1 000\nAtrazina | 3 100\n\nSessenta ratos, com massa de 200 g cada, foram divididos em três grupos de vinte. Três amostras de ração, contaminadas, cada uma delas com um dos pesticidas indicados no quadro, na concentração de 3 mg por grama de ração, foram administradas para cada grupo de cobaias. Cada rato consumiu 100 g de ração.\n\nQual(ais) grupo(s) terá(ão) uma mortalidade mínima de 10 ratos?",
       subItens: []
     },
     options: ["O grupo que se contaminou somente com atrazina.","O grupo que se contaminou somente com diazinon.","Os grupos que se contaminaram com atrazina e malation.","Os grupos que se contaminaram com diazinon e malation.","Nenhum dos grupos contaminados com atrazina, diazinon e malation."],
@@ -63,7 +63,7 @@ createQuestion({
     university: "ENEM",
     year: 2017,
     text: {
-      principal: "A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.\n\nDiagrama de Célula Eletroquímica: Mostra uma bateria conectada a um ânodo de carbono e um cátodo de carbono, imersos em solução aquosa de NaCl, separados por um diafragma de amianto. Cl2(g) é produzido no ânodo, e um produto secundário e dreno para solução aquosa alcalina são indicados no cátodo, com hidrogênio molecular sendo liberado.\n\nFonte: SHREVE, R. N.; BRINK Jr., J. A. Indústrias de processos químicos. Rio de Janeiro: Guanabara Koogan, 1997 (adaptado).\n\nNo processo eletrolítico ilustrado, o produto secundário obtido é o",
+      principal: "A eletrólise é um processo não espontâneo de grande importância para a indústria química. Uma de suas aplicações é a obtenção do gás cloro e do hidróxido de sódio, a partir de uma solução aquosa de cloreto de sódio. Nesse procedimento, utiliza-se uma célula eletroquímica, como ilustrado.\n\nDiagrama de Célula Eletroquímica: Mostra uma bateria conectada a um ânodo de carbono e um cátodo de carbono, imersos em solução aquosa de NaCl, separados por um diafragma de amianto. $1_{2}_{}$(g) é produzido no ânodo, e um produto secundário e dreno para solução aquosa alcalina são indicados no cátodo, com hidrogênio molecular sendo liberado.\n\nFonte: SHREVE, R. N.; BRINK Jr., J. A. Indústrias de processos químicos. Rio de Janeiro: Guanabara Koogan, 1997 (adaptado).\n\nNo processo eletrolítico ilustrado, o produto secundário obtido é o",
       subItens: []
     },
     options: ["vapor de água.","oxigênio molecular.","hipoclorito de sódio.","hidrogênio molecular.","cloreto de hidrogênio."],
@@ -168,7 +168,7 @@ createQuestion({
     university: "ENEM",
     year: 2017,
     text: {
-      principal: "Partículas microscópicas existentes na atmosfera funcionam como núcleos de condensação de vapor de água que, sob condições adequadas de temperatura e pressão, propiciam a formação das nuvens e consequentemente das chuvas. No ar atmosférico, tais partículas são formadas pela reação de ácidos (HX) com a base NH3, de forma natural ou antropogênica, dando origem a sais de amônio (NH₄X), de acordo com a equação química genérica:\n\nHX (g) + NH₃ (g) → NH₄X (s)\n\nFonte: FELIX, E. P.; CARDOSO, A. A. Fatores ambientais que afetam a precipitação úmida. Química Nova na Escola, n. 21, maio 2005 (adaptado).\n\nA fixação de moléculas de vapor de água pelos núcleos de condensação ocorre por",
+      principal: "Partículas microscópicas existentes na atmosfera funcionam como núcleos de condensação de vapor de água que, sob condições adequadas de temperatura e pressão, propiciam a formação das nuvens e consequentemente das chuvas. No ar atmosférico, tais partículas são formadas pela reação de ácidos (HX) com a base $1_{3}$, de forma natural ou antropogênica, dando origem a sais de amônio (NH₄X), de acordo com a equação química genérica:\n\nHX (g) + NH₃ (g) → NH₄X (s)\n\nFonte: FELIX, E. P.; CARDOSO, A. A. Fatores ambientais que afetam a precipitação úmida. Química Nova na Escola, n. 21, maio 2005 (adaptado).\n\nA fixação de moléculas de vapor de água pelos núcleos de condensação ocorre por",
       subItens: []
     },
     options: ["ligações iônicas.","interações dipolo-dipolo.","interações dipolo-dipolo induzido.","interações íon-dipolo.","ligações covalentes."],
@@ -498,7 +498,7 @@ createQuestion({
     university: "ENEM",
     year: 2017,
     text: {
-      principal: "O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe₂O₃), a magnetita (Fe₃O₄) e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química:\n\nFeO (s) + CO (g) → Fe (s) + CO₂ (g)\n\nConsidere as seguintes equações termoquímicas:\nFe₂O₃ (s) + 3 CO (g) → 2 Fe (s) + 3 CO₂ (g) | ∆H⁰ = −25 kJ/mol de Fe₂O₃\n3 FeO (s) + CO₂ (g) → Fe₃O₄ (s) + CO (g) | ∆H⁰ = −36 kJ/mol de CO₂\n2 Fe₃O₄ (s) + CO₂ (g) → 3 Fe₂O₃ (s) + CO (g) | ∆H⁰ = +47 kJ/mol de CO₂\n\nO valor mais próximo de ∆H⁰, em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é",
+      principal: "O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe₂O₃), a magnetita (Fe₃O₄) e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química:\n\nFeO (s) + CO (g) → Fe (s) + CO₂ (g)\n\nConsidere as seguintes equações termoquímicas:\nFe₂O₃ (s) + 3 CO (g) → 2 Fe (s) + 3 CO₂ (g) | ∆H⁰ = −25 kJ/mol de Fe₂O₃\$1_{3}$ FeO (s) + CO₂ (g) → Fe₃O₄ (s) + CO (g) | ∆H⁰ = −36 kJ/mol de CO₂\$1_{2}$ Fe₃O₄ (s) + CO₂ (g) → 3 Fe₂O₃ (s) + CO (g) | ∆H⁰ = +47 kJ/mol de CO₂\n\nO valor mais próximo de ∆H⁰, em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é",
       subItens: []
     },
     options: ["−14.","−17.","−50.","−64.","−100."],
@@ -723,7 +723,7 @@ createQuestion({
     university: "ENEM",
     year: 2017,
     text: {
-      principal: "Os congestionamentos de trânsito constituem um problema que aflige, todos os dias, milhares de motoristas brasileiros. O gráfico ilustra a situação, representando, ao longo de um intervalo definido de tempo, a variação da velocidade de um veículo durante um congestionamento.\n\nGráfico: Velocidade versus Tempo (min).\nEixo X: Tempo (min) de 0 a 10.\nEixo Y: Velocidade (unidade não especificada, mas representa velocidade).\nO gráfico mostra a velocidade em diferentes pontos do tempo: (0, V1), (2, V1), (4, V2), (6, V1), (8, V2), (10, V2), onde V1 é um valor baixo de velocidade e V2 é um valor mais alto.\n\nQuantos minutos o veículo permaneceu imóvel ao longo do intervalo de tempo total analisado?",
+      principal: "Os congestionamentos de trânsito constituem um problema que aflige, todos os dias, milhares de motoristas brasileiros. O gráfico ilustra a situação, representando, ao longo de um intervalo definido de tempo, a variação da velocidade de um veículo durante um congestionamento.\n\nGráfico: Velocidade versus Tempo (min).\nEixo X: Tempo (min) de 0 a 10.\nEixo Y: Velocidade (unidade não especificada, mas representa velocidade).\nO gráfico mostra a velocidade em diferentes pontos do tempo: (0, $1_{1}_{}$), (2, $1_{1}_{}$), (4, $1_{2}_{}$), (6, $1_{1}_{}$), (8, $1_{2}_{}$), (10, $1_{2}_{}$), onde $1_{1}_{}$ é um valor baixo de velocidade e $1_{2}_{}$ é um valor mais alto.\n\nQuantos minutos o veículo permaneceu imóvel ao longo do intervalo de tempo total analisado?",
       subItens: []
     },
     options: ["4","3","2","1","0"],
@@ -786,7 +786,7 @@ createQuestion({
       principal: "Um brinquedo infantil caminhão-cegonha é formado por uma carreta e dez carrinhos nela transportados, conforme a figura.\n\nImagem: Um caminhão-cegonha transportando dez carrinhos em dois andares, com 5 carrinhos em cada andar.\n\nNo setor de produção da empresa que fabrica esse brinquedo, é feita a pintura de todos os carrinhos para que o aspecto do brinquedo fique mais atraente. São utilizadas as cores amarelo, branco, laranja e verde, e cada carrinho é pintado apenas com uma cor. O caminhão-cegonha tem uma cor fixa. A empresa determinou que em todo caminhão-cegonha deve haver pelo menos um carrinho de cada uma das quatro cores disponíveis. Mudança de posição dos carrinhos no caminhão-cegonha não gera um novo modelo do brinquedo.\n\nCom base nessas informações, quantos são os modelos distintos do brinquedo caminhão-cegonha que essa empresa poderá produzir?",
       subItens: []
     },
-    options: ["C6,4","C9,3","C10,4","6⁴","4⁶"],
+    options: ["$1_{6}_{}$,4","$1_{9}_{}$,3","$1_{10}_{}$,4","6⁴","4⁶"],
     correctAnswer: 1,
     materia: "Matemática – Análise combinatória",
     conteudo: "",
@@ -813,10 +813,10 @@ createQuestion({
     university: "ENEM",
     year: 2017,
     text: {
-      principal: "Um instituto de pesquisas eleitorais recebe uma encomenda na qual a margem de erro deverá ser de, no máximo, 2 pontos percentuais (0,02).\n\nO instituto tem 5 pesquisas recentes, P1 a P5, sobre o tema objeto da encomenda e irá usar a que tiver o erro menor que o pedido.\n\nOs dados sobre as pesquisas são os seguintes:\n\nTabela: Pesquisa | σ | N | √N\nP1 | 0,5 | 1 764 | 42\nP2 | 0,4 | 784 | 28\nP3 | 0,3 | 576 | 24\nP4 | 0,2 | 441 | 21\nP5 | 0,1 | 64 | 8\n\nO erro e pode ser expresso por |e| < 1,96 ⋅ σ / √N\n\nem que σ é um parâmetro e N é o número de pessoas entrevistadas pela pesquisa.\n\nQual pesquisa deverá ser utilizada?",
+      principal: "Um instituto de pesquisas eleitorais recebe uma encomenda na qual a margem de erro deverá ser de, no máximo, 2 pontos percentuais (0,02).\n\nO instituto tem 5 pesquisas recentes, $1_{1}_{}$ a $1_{5}_{}$, sobre o tema objeto da encomenda e irá usar a que tiver o erro menor que o pedido.\n\nOs dados sobre as pesquisas são os seguintes:\n\nTabela: Pesquisa | σ | N | √N\$1_{1}$ | 0,5 | 1 764 | 42\$1_{2}$ | 0,4 | 784 | 28\$1_{3}$ | 0,3 | 576 | 24\$1_{4}$ | 0,2 | 441 | 21\$1_{5}$ | 0,1 | 64 | 8\n\nO erro e pode ser expresso por |e| < 1,96 ⋅ σ / √N\n\nem que σ é um parâmetro e N é o número de pessoas entrevistadas pela pesquisa.\n\nQual pesquisa deverá ser utilizada?",
       subItens: []
     },
-    options: ["P1","P2","P3","P4","P5"],
+    options: ["$1_{1}_{}$","$1_{2}_{}$","$1_{3}_{}$","$1_{4}_{}$","$1_{5}_{}$"],
     correctAnswer: 0,
     materia: "Matemática – Estatística",
     conteudo: "",
@@ -1098,7 +1098,7 @@ createQuestion({
     university: "ENEM",
     year: 2017,
     text: {
-      principal: "A mensagem digitada no celular, enquanto você dirige, tira a sua atenção e, por isso, deve ser evitada. Pesquisas mostram que um motorista que dirige um carro a uma velocidade constante percorre “às cegas” (isto é, sem ter visão da pista) uma distância proporcional ao tempo gasto ao olhar para o celular durante a digitação da mensagem. Considere que isso de fato aconteça. Suponha que dois motoristas (X e Y) dirigem com a mesma velocidade constante e digitam a mesma mensagem em seus celulares. Suponha, ainda, que o tempo gasto pelo motorista X olhando para seu celular enquanto digita a mensagem corresponde a 25% do tempo gasto pelo motorista Y para executar a mesma tarefa.\n\nFonte: Disponível em: http://g1.globo.com. Acesso em: 21 jul. 2012 (adaptado).\n\nA razão entre as distâncias percorridas às cegas por X e Y, nessa ordem, é igual a",
+      principal: "A mensagem digitada no celular, enquanto você dirige, tira a sua atenção e, por isso, deve ser evitada. Pesquisas mostram que um motorista que dirige um carro a uma velocidade constante percorre “às cegas” (isto é, sem ter visão da pista) uma distância proporcional ao tempo gasto ao olhar para o celular durante a digitação da mensagem. Considere que isso de fato aconteça. Suponha que dois motoristas (X e Y) dirigem com a mesma velocidade constante e digitam a mesma mensagem em seus celulares. Suponha, ainda, que o tempo gasto pelo motorista X olhando para seu celular enquanto digita a mensagem corresponde a 25% do tempo gasto pelo motorista Y para executar a mesma tarefa.\n\nFonte: Disponível em: http://$1_{1}$.globo.com. Acesso em: 21 jul. 2012 (adaptado).\n\nA razão entre as distâncias percorridas às cegas por X e Y, nessa ordem, é igual a",
       subItens: []
     },
     options: ["5/4","1/4","4/3","1/3","4/5"],
@@ -1203,7 +1203,7 @@ createQuestion({
     university: "ENEM",
     year: 2017,
     text: {
-      principal: "Pivô central é um sistema de irrigação muito usado na agricultura, em que uma área circular é projetada para receber uma estrutura suspensa. No centro dessa área, há uma tubulação vertical que transmite água através de um cano horizontal longo, apoiado em torres de sustentação, as quais giram, sobre rodas, em torno do centro do pivô, também chamado de base, conforme mostram as figuras. Cada torre move-se com velocidade constante.\n\nImagens: Uma foto de um pivô central no campo. Um diagrama mostrando o pivô com uma base central e três torres (T1, T2, T3) em diferentes raios, indicando um movimento circular.\n\nUm pivô de três torres (T₁, T₂ e T₃) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas bem como da base à torre T₁ são iguais a 50 m. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π.\n\nPara atingir seu objetivo, as velocidades das torres T₁, T₂ e T₃ devem ser, em metro por hora, de",
+      principal: "Pivô central é um sistema de irrigação muito usado na agricultura, em que uma área circular é projetada para receber uma estrutura suspensa. No centro dessa área, há uma tubulação vertical que transmite água através de um cano horizontal longo, apoiado em torres de sustentação, as quais giram, sobre rodas, em torno do centro do pivô, também chamado de base, conforme mostram as figuras. Cada torre move-se com velocidade constante.\n\nImagens: Uma foto de um pivô central no campo. Um diagrama mostrando o pivô com uma base central e três torres ($1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$) em diferentes raios, indicando um movimento circular.\n\nUm pivô de três torres (T₁, T₂ e T₃) será instalado em uma fazenda, sendo que as distâncias entre torres consecutivas bem como da base à torre T₁ são iguais a 50 m. O fazendeiro pretende ajustar as velocidades das torres, de tal forma que o pivô efetue uma volta completa em 25 horas. Use 3 como aproximação para π.\n\nPara atingir seu objetivo, as velocidades das torres T₁, T₂ e T₃ devem ser, em metro por hora, de",
       subItens: []
     },
     options: ["12, 24 e 36.","6, 12 e 18.","2,4 e 6.","300, 1 200 e 2 700.","600, 2 400 e 5 400."],
@@ -1308,7 +1308,7 @@ createQuestion({
     university: "ENEM",
     year: 2017,
     text: {
-      principal: "Como não são adeptos da prática de esportes, um grupo de amigos resolveu fazer um torneio de futebol utilizando videogame. Decidiram que cada jogador joga uma única vez com cada um dos outros jogadores. O campeão será aquele que conseguir o maior número de pontos. Observaram que o número de partidas jogadas depende do número de jogadores, como mostra o quadro:\n\nTabela: Quantidade de jogadores | Número de partidas\n2 | 1\n3 | 3\n4 | 6\n5 | 10\n6 | 15\n7 | 21\n\nSe a quantidade de jogadores for 8, quantas partidas serão realizadas?",
+      principal: "Como não são adeptos da prática de esportes, um grupo de amigos resolveu fazer um torneio de futebol utilizando videogame. Decidiram que cada jogador joga uma única vez com cada um dos outros jogadores. O campeão será aquele que conseguir o maior número de pontos. Observaram que o número de partidas jogadas depende do número de jogadores, como mostra o quadro:\n\nTabela: Quantidade de jogadores | Número de partidas\$1_{2}$ | 1\$1_{3}$ | 3\$1_{4}$ | 6\$1_{5}$ | 10\$1_{6}$ | 15\$1_{7}$ | 21\n\nSe a quantidade de jogadores for 8, quantas partidas serão realizadas?",
       subItens: []
     },
     options: ["64","56","49","36","28"],

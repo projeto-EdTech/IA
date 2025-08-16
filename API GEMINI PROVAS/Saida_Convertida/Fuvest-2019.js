@@ -168,7 +168,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "À medida que a parcela de ar se eleva na atmosfera, nos limites da troposfera, a temperatura do ar decai a uma razão de 1 °C a cada 100 metros (Razão Adiabática Seca - RAS) ou 0,6 °C a cada 100 metros (Razão Adiabática Úmida - RAU).\n(Ilustração: Um perfil de montanha mostrando uma vertente a barlavento com condensação, ar quente e úmido (Tar=20°C) e formação de Cumulus clouds a 200m, subindo até 400m. Do outro lado, uma vertente a sotavento, com pontos T1 (1.400m) e T2 (Nível médio do mar) indicados.)\nConsiderando os conceitos e a ilustração, é correto afirmar que as temperaturas do ar, em graus Celsius, T1 e T2, são, respectivamente,\nNote e adote:\nUtilize RAS ou RAU de acordo com a presença ou não de ar saturado.\nTar: temperatura do ar.",
+      principal: "À medida que a parcela de ar se eleva na atmosfera, nos limites da troposfera, a temperatura do ar decai a uma razão de 1 °C a cada 100 metros (Razão Adiabática Seca - RAS) ou 0,6 °C a cada 100 metros (Razão Adiabática Úmida - RAU).\n(Ilustração: Um perfil de montanha mostrando uma vertente a barlavento com condensação, ar quente e úmido (Tar=20°C) e formação de Cumulus clouds a 200m, subindo até 400m. Do outro lado, uma vertente a sotavento, com pontos $1_{1}_{}$ (1.400m) e $1_{2}_{}$ (Nível médio do mar) indicados.)\nConsiderando os conceitos e a ilustração, é correto afirmar que as temperaturas do ar, em graus Celsius, $1_{1}_{}$ e $1_{2}_{}$, são, respectivamente,\nNote e adote:\nUtilize RAS ou RAU de acordo com a presença ou não de ar saturado.\nTar: temperatura do ar.",
       subItens: []
     },
     options: ["8,0 e 26,0.","12,8 e 28,0.","12,0 e 26,0.","12,0 e 20,4.","11,6 e 20,4."],
@@ -228,7 +228,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Dois corpos de massas iguais são soltos, ao mesmo tempo, a partir do repouso, da altura h₁ e percorrem os diferentes trajetos (A) e (B), mostrados na figura, onde x1 > X2 e h₁ > h2.\n(Diagramas: Duas situações, (A) e (B), mostrando um corpo deslizando por uma rampa. Em (A), o corpo começa de uma altura h1 e percorre uma distância horizontal x1. Em (B), o corpo começa de uma altura h2 (menor que h1) e percorre uma distância horizontal x2 (menor que x1), mas a rampa é mais curta.)\nConsidere as seguintes afirmações:\nI. As energias cinéticas finais dos corpos em (A) e em (B) são diferentes.\nII. As energias mecânicas dos corpos, logo antes de começarem a subir a rampa, são iguais.\nIII. O tempo para completar o percurso independe da trajetória.\nIV. O corpo em (B) chega primeiro ao final da trajetória.\nV. O trabalho realizado pela força peso é o mesmo nos dois casos.\nÉ correto somente o que se afirma em\nNote e adote:\nDesconsidere forças dissipativas.",
+      principal: "Dois corpos de massas iguais são soltos, ao mesmo tempo, a partir do repouso, da altura h₁ e percorrem os diferentes trajetos (A) e (B), mostrados na figura, onde $1_{1}$ > $1_{2}_{}$ e h₁ > $1_{2}$.\n(Diagramas: Duas situações, (A) e (B), mostrando um corpo deslizando por uma rampa. Em (A), o corpo começa de uma altura $1_{1}$ e percorre uma distância horizontal $1_{1}$. Em (B), o corpo começa de uma altura $1_{2}$ (menor que $1_{1}$) e percorre uma distância horizontal $1_{2}$ (menor que $1_{1}$), mas a rampa é mais curta.)\nConsidere as seguintes afirmações:\nI. As energias cinéticas finais dos corpos em (A) e em (B) são diferentes.\nII. As energias mecânicas dos corpos, logo antes de começarem a subir a rampa, são iguais.\nIII. O tempo para completar o percurso independe da trajetória.\nIV. O corpo em (B) chega primeiro ao final da trajetória.\nV. O trabalho realizado pela força peso é o mesmo nos dois casos.\nÉ correto somente o que se afirma em\nNote e adote:\nDesconsidere forças dissipativas.",
       subItens: []
     },
     options: ["I e III.","II e V.","IV e V.","II e III.","l e V."],
@@ -243,10 +243,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Um rapaz de massa m₁ corre numa pista horizontal e pula sobre um skate de massa m2, que se encontra inicialmente em repouso. Com o impacto, o skate adquire velocidade e o conjunto rapaz+skate segue em direção a uma rampa e atinge uma altura máxima h. A velocidade do rapaz, imediatamente antes de tocar no skate, é dada por\nNote e adote:\nConsidere que o sistema rapaz + skate não perde energia devido a forças dissipativas, após a colisão.\n(Expressões matemáticas para a velocidade:)\n(A) (m1 + m2) √gh / m2\n(B) (m1+ m2) √gh / 2m1\n(C) m1 √2gh / m2\n(D) (m1+ m2) √2gh / m1\n(E) (2m1+ m2) √gh / m1",
+      principal: "Um rapaz de massa m₁ corre numa pista horizontal e pula sobre um skate de massa $1_{2}$, que se encontra inicialmente em repouso. Com o impacto, o skate adquire velocidade e o conjunto rapaz+skate segue em direção a uma rampa e atinge uma altura máxima h. A velocidade do rapaz, imediatamente antes de tocar no skate, é dada por\nNote e adote:\nConsidere que o sistema rapaz + skate não perde energia devido a forças dissipativas, após a colisão.\n(Expressões matemáticas para a velocidade:)\n(A) ($1_{1}$ + $1_{2}$) √gh / $1_{2}$\n(B) ($1_{1}$+ $1_{2}$) √gh / 2m1\n(C) $1_{1}$ √2gh / $1_{2}$\n(D) ($1_{1}$+ $1_{2}$) √2gh / $1_{1}$\n(E) (2m1+ $1_{2}$) √gh / $1_{1}$",
       subItens: []
     },
-    options: ["(m1 + m2) √gh / m2","(m1+ m2) √gh / 2m1","m1 √2gh / m2","(m1+ m2) √2gh / m1","(2m1+ m2) √gh / m1"],
+    options: ["($1_{1}$ + $1_{2}$) √gh / $1_{2}$","($1_{1}$+ $1_{2}$) √gh / 2m1","$1_{1}$ √2gh / $1_{2}$","($1_{1}$+ $1_{2}$) √2gh / $1_{1}$","(2m1+ $1_{2}$) √gh / $1_{1}$"],
     correctAnswer: 3,
     materia: "Física – Colisões e Conservação de Energia",
     conteudo: "",
@@ -438,10 +438,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "O gráfico representa a concentração de alguns hormônios observados durante a gravidez de uma mulher.\n(Gráfico: \"Concentração do hormônio no sangue\" no eixo y e \"Tempo de gestação\" no eixo x, mostrando as curvas de dois hormônios, H1 e H2. H1 cresce acentuadamente no início e decai bruscamente ao final da gestação. H2 apresenta picos no início e no final, e um vale no meio da gestação, ou se mantém baixo durante a maior parte da gestação e sobe ao final.)\nIdentifique os hormônios H1 e H2, respectivamente, e o motivo da queda abrupta de suas concentrações no sangue ao final do período de gestação.",
+      principal: "O gráfico representa a concentração de alguns hormônios observados durante a gravidez de uma mulher.\n(Gráfico: \"Concentração do hormônio no sangue\" no eixo y e \"Tempo de gestação\" no eixo x, mostrando as curvas de dois hormônios, $1_{1}_{}$ e $1_{2}_{}$. $1_{1}_{}$ cresce acentuadamente no início e decai bruscamente ao final da gestação. $1_{2}_{}$ apresenta picos no início e no final, e um vale no meio da gestação, ou se mantém baixo durante a maior parte da gestação e sobe ao final.)\nIdentifique os hormônios $1_{1}_{}$ e $1_{2}_{}$, respectivamente, e o motivo da queda abrupta de suas concentrações no sangue ao final do período de gestação.",
       subItens: []
     },
-    options: ["H1: progesterona, H2: FSH, Motivo: eliminação da placenta","H1: FSH, H2: LH, Motivo: reinício da menstruação","H1: FSH, H2: estrógeno, Motivo: reinício da menstruação","H1: progesterona, H2: estrógeno, Motivo: eliminação da placenta","H1: FSH, H2: progesterona, Motivo: início da lactação"],
+    options: ["$1_{1}_{}$: progesterona, $1_{2}_{}$: FSH, Motivo: eliminação da placenta","$1_{1}_{}$: FSH, $1_{2}_{}$: LH, Motivo: reinício da menstruação","$1_{1}_{}$: FSH, $1_{2}_{}$: estrógeno, Motivo: reinício da menstruação","$1_{1}_{}$: progesterona, $1_{2}_{}$: estrógeno, Motivo: eliminação da placenta","$1_{1}_{}$: FSH, $1_{2}_{}$: progesterona, Motivo: início da lactação"],
     correctAnswer: 3,
     materia: "Biologia – Fisiologia Humana e Hormônios",
     conteudo: "",
@@ -483,7 +483,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Uma alteração genética é determinada por um gene com herança autossômica recessiva. O heredograma mostra famílias em que essa condição está presente.\n(Heredograma: Diagrama de pedigree mostrando três gerações. Indivíduos afetados são sombreados. O casal III2 e III3 são não afetados, mas a questão pede a probabilidade de um filho afetado. Há indicação de que o indivíduo II-1 é afetado e III-1 não.)\nO casal III2 e III3 está esperando um menino. Considerando que, nessa população, uma em cada 50 pessoas é heterozigótica para essa alteração, a probabilidade de que esse menino seja afetado é",
+      principal: "Uma alteração genética é determinada por um gene com herança autossômica recessiva. O heredograma mostra famílias em que essa condição está presente.\n(Heredograma: Diagrama de pedigree mostrando três gerações. Indivíduos afetados são sombreados. O casal $1_{2}$ e $1_{3}$ são não afetados, mas a questão pede a probabilidade de um filho afetado. Há indicação de que o indivíduo II-1 é afetado e III-1 não.)\nO casal $1_{2}$ e $1_{3}$ está esperando um menino. Considerando que, nessa população, uma em cada 50 pessoas é heterozigótica para essa alteração, a probabilidade de que esse menino seja afetado é",
       subItens: []
     },
     options: ["1/100","1/200","1/1.000","1/25.000","1/40.000"],
@@ -558,7 +558,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Considerando que baterias de Li-FeS2 podem gerar uma voltagem nominal de 1,5 V, o que as torna úteis no cotidiano e que a primeira reação de descarga dessas baterias é 2 Li + FeS2 → Li₂FeS2, é correto afirmar:",
+      principal: "Considerando que baterias de Li-$1_{2}$ podem gerar uma voltagem nominal de 1,5 V, o que as torna úteis no cotidiano e que a primeira reação de descarga dessas baterias é 2 Li + $1_{2}$ → Li₂$1_{2}$, é correto afirmar:",
       subItens: []
     },
     options: ["O lítio metálico é oxidado na primeira descarga.","O ferro é oxidado e o lítio é reduzido na primeira descarga.","O lítio é o cátodo dessa bateria.","A primeira reação de descarga forma lítio metálico.","O lítio metálico e o dissulfeto ferroso estão em contato direto dentro da bateria."],

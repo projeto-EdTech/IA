@@ -498,10 +498,10 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Zuenir Ventura, em sua crônica \"Bonito por Natureza\", coloca o seguinte texto sobre a Gruta do Lago Azul. \"O passeio vale todos os sacrifícios, se é que se pode falar assim. Porque o espetáculo de descida é quase alucinógeno: é um milagre que aquelas estalactites da finura de agulha que descem do teto da gruta possam se sustentar como se fossem gotas interrompidas.\" VENTURA, 2012, p. 127. A equação química que mostra a formação das estalactites está representada a seguir. Ca2+(aq) + 2 HCO3(aq) <=> CaCO3(s) + CO2(g) + H2O(l) É CORRETO afirmar que a formação das estalactites é favorecida na seguinte condição:",
+      principal: "Zuenir Ventura, em sua crônica \"Bonito por Natureza\", coloca o seguinte texto sobre a Gruta do Lago Azul. \"O passeio vale todos os sacrifícios, se é que se pode falar assim. Porque o espetáculo de descida é quase alucinógeno: é um milagre que aquelas estalactites da finura de agulha que descem do teto da gruta possam se sustentar como se fossem gotas interrompidas.\" VENTURA, 2012, p. 127. A equação química que mostra a formação das estalactites está representada a seguir. $1_{2}_{}$+(aq) + 2 $1_{3}$(aq) \le> $1_{3}$(s) + $1_{2}$(g) + $1_{2}O_{}$(l) É CORRETO afirmar que a formação das estalactites é favorecida na seguinte condição:",
       subItens: []
     },
-    options: ["Evaporação constante da água.","Diminuição da concentração de íons Ca2+.","Retirada de íons de bicarbonato.","Abaixamento da temperatura no interior da caverna."],
+    options: ["Evaporação constante da água.","Diminuição da concentração de íons $1_{2}_{}$+.","Retirada de íons de bicarbonato.","Abaixamento da temperatura no interior da caverna."],
     correctAnswer: 0,
     materia: "Química – Equilíbrio Químico",
     conteudo: "Química – Princípio de Le Chatelier",
@@ -513,7 +513,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A eletroquímica é uma área da química com grande aplicação industrial, dentre elas, destacam-se a metalúrgica e a área de saneamento. Na metalurgia extrativa, utiliza-se um metal como agente redutor para obtenção de outro no estado elementar. Já na área de saneamento, o tratamento de águas residuarias utiliza o processo químico descrito para transformar um composto químico em outro por meio da aplicação de uma corrente elétrica através da solução. Considere os seguintes potenciais de redução descritos abaixo: E°(volt) Mg2+ + 2e- → Mg - 2,38 Zn2+ + 2e- → Zn - 0,76 Fe2+ + 2e- → Fe - 0,44 Ni2+ + 2e- → Ni - 0,25 Cu2+ + 2e- → Cu + 0,34 Ag2+ + 2e- → Ag + 0,8 O par de compostos que poderia ser utilizado na metalurgia extrativa, bem como o nome do processo aplicado na área de saneamento, está CORRETAMENTE descrito na opção:",
+      principal: "A eletroquímica é uma área da química com grande aplicação industrial, dentre elas, destacam-se a metalúrgica e a área de saneamento. Na metalurgia extrativa, utiliza-se um metal como agente redutor para obtenção de outro no estado elementar. Já na área de saneamento, o tratamento de águas residuarias utiliza o processo químico descrito para transformar um composto químico em outro por meio da aplicação de uma corrente elétrica através da solução. Considere os seguintes potenciais de redução descritos abaixo: E°(volt) $1_{2}_{}$+ + 2e- → Mg - 2,38 $1_{2}_{}$+ + 2e- → Zn - 0,76 $1_{2}_{}$+ + 2e- → Fe - 0,44 $1_{2}_{}$+ + 2e- → Ni - 0,25 $1_{2}_{}$+ + 2e- → Cu + 0,34 $1_{2}_{}$+ + 2e- → Ag + 0,8 O par de compostos que poderia ser utilizado na metalurgia extrativa, bem como o nome do processo aplicado na área de saneamento, está CORRETAMENTE descrito na opção:",
       subItens: []
     },
     options: ["Mg como redutor para obter Zn, eletrólise.","Cu como redutor para obter Ni, eletrólise.","Ag como redutor para obter Mg, destilação.","Fe como redutor para obter Ag, destilação."],
@@ -561,7 +561,7 @@ createQuestion({
       principal: "Crianças e adultos, geneticamente predispostos, ao ingerirem glúten (mistura de proteínas que se encontram naturalmente no endosperma de sementes de gramíneas) iniciam a produção de anticorpos que atacam o próprio epitélio intestinal. Esse ataque resulta na perda das microvilosidades intestinais que desencadeia um conjunto de sinais e sintomas conhecidos como Doença Celíaca. A figura abaixo demonstra o epitélio de indivíduos normais e as alterações que ocorrem em indivíduos portadores de Doença Celíaca. Os portadores de Doença Celíaca ficam predispostos a desenvolverem (imagens de \"Epitélio Intestinal Normal\" e \"Doença Celíaca\")",
       subItens: []
     },
-    options: ["hemofilia por deficiência na produção de fatores de coagulação.","infecções respiratórias por deficiência no movimento ciliar da traqueia.","infertilidade devido à falta de mobilidade do flagelo do espermatozoide.","anemia por deficiência na absorção de ferro, vitamina B12 e ácido fólico."],
+    options: ["hemofilia por deficiência na produção de fatores de coagulação.","infecções respiratórias por deficiência no movimento ciliar da traqueia.","infertilidade devido à falta de mobilidade do flagelo do espermatozoide.","anemia por deficiência na absorção de ferro, vitamina $1_{12}_{}$ e ácido fólico."],
     correctAnswer: 3,
     materia: "Biologia – Fisiologia Humana",
     conteudo: "Biologia – Sistema Digestório",

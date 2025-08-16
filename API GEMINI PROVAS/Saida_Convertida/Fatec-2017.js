@@ -33,7 +33,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Leia o gráfico referente ao rendimento médio mensal na Região Metropolitana de Belo Horizonte (BH), no período de 2010 a 2013, para responder às questões de números 03 e 04.\n[Gráfico: RENDIMENTO MÉDIO MENSAL, EM REAIS, POR SEXO, de 2010 a 2013. Barras para Homens e Mulheres anualmente. Valores:\n2010: Homens 1.912,00, Mulheres 1.312,00\n2011: Homens 1.809,00, Mulheres 1.323,00\n2012: Homens 1.784,00, Mulheres 1.278,00\n2013: Homens 2.022,00, Mulheres 1.410,00]\nFonte dos dados: <http://tinyurl.com/h3qt2mo> Acesso em: 01.09.2016.\nSobre os dados do gráfico, podemos afirmar corretamente que a média do rendimento médio mensal das mulheres, no período de 2010 a 2013 foi, em reais, de",
+      principal: "Leia o gráfico referente ao rendimento médio mensal na Região Metropolitana de Belo Horizonte (BH), no período de 2010 a 2013, para responder às questões de números 03 e 04.\n[Gráfico: RENDIMENTO MÉDIO MENSAL, EM REAIS, POR SEXO, de 2010 a 2013. Barras para Homens e Mulheres anualmente. Valores:\$1_{2010}$: Homens 1.912,00, Mulheres 1.312,00\$1_{2011}$: Homens 1.809,00, Mulheres 1.323,00\$1_{2012}$: Homens 1.784,00, Mulheres 1.278,00\$1_{2013}$: Homens 2.022,00, Mulheres 1.410,00]\nFonte dos dados: <http://tinyurl.com/h3qt2mo> Acesso em: 01.09.2016.\nSobre os dados do gráfico, podemos afirmar corretamente que a média do rendimento médio mensal das mulheres, no período de 2010 a 2013 foi, em reais, de",
       subItens: []
     },
     options: ["1.378,05","1.366,15","1.354,25","1.342,55","1.330,75"],
@@ -138,7 +138,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Os números naturais de 0 a 3000 foram dispostos, consecutivamente, conforme a figura, que mostra o começo do processo.\n[Tabela de números dispostos em 5 linhas e colunas variadas, mostrando um padrão de preenchimento em zigue-zague.]\n5ª linha: 4, ..., 12, ..., 20, ...\n4ª linha: 3, 5, ..., 11, 13, ..., 19, 21, ...\n3ª linha: 2, 6, ..., 10, 14, ..., 18, 22, ...\n2ª linha: 1, 7, 9, ..., 15, 17, ...\n1ª linha: 0, 8, ..., 16, ...\nNessas condições, o número 2017 está na",
+      principal: "Os números naturais de 0 a 3000 foram dispostos, consecutivamente, conforme a figura, que mostra o começo do processo.\n[Tabela de números dispostos em 5 linhas e colunas variadas, mostrando um padrão de preenchimento em zigue-zague.]\$1_{5}$ª linha: 4, ..., 12, ..., 20, ...\$1_{4}$ª linha: 3, 5, ..., 11, 13, ..., 19, 21, ...\$1_{3}$ª linha: 2, 6, ..., 10, 14, ..., 18, 22, ...\$1_{2}$ª linha: 1, 7, 9, ..., 15, 17, ...\$1_{1}$ª linha: 0, 8, ..., 16, ...\nNessas condições, o número 2017 está na",
       subItens: []
     },
     options: ["1ª linha.","2ª linha.","3ª linha.","4ª linha.","5ª linha."],
@@ -303,7 +303,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Os isótopos representados contidos nos cartões de Paulo e Gabriela podem reagir entre si para formar óxido de lítio, segundo a reação balanceada\n4 Li (s) + O₂ (g) → 2 Li₂O (s)\nA massa de lítio necessária para reagir completamente com 3,2 kg de oxigênio é, em quilogramas,\nMassas molares:\nLi: 7 g/mol\nO: 16 g/mol",
+      principal: "Os isótopos representados contidos nos cartões de Paulo e Gabriela podem reagir entre si para formar óxido de lítio, segundo a reação balanceada\$1_{4}$ Li (s) + O₂ (g) → 2 Li₂O (s)\nA massa de lítio necessária para reagir completamente com 3,2 kg de oxigênio é, em quilogramas,\nMassas molares:\nLi: 7 g/mol\nO: 16 g/mol",
       subItens: []
     },
     options: ["1,4","1,8","2,8","4,3","7,1"],
@@ -438,7 +438,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Leia o texto para responder às questões de números 30 e 31.\nUma tela de computador pode ser representada por uma matriz de cores, de forma que cada elemento da matriz corresponda a um pixel* na tela.\nNuma tela em escala de cinza, por exemplo, podemos atribuir 256 cores diferentes para cada pixel, do preto absoluto (código da cor: 0) passando pelo cinza intermediário (código da cor: 127) ao branco absoluto (código da cor: 255).\n*Menor elemento em uma tela ao qual é possível atribuir-se uma cor.\nSuponha que na figura estejam representados 25 pixels de uma tela.\n[Imagem de uma matriz 5x5 de pixels em preto e branco, dispostos como um tabuleiro de xadrez.]\nA matriz numérica correspondente às cores da figura apresentada é dada por\n255 0 127 0 255\n0 127 0 255 0\n127 0 255 0 127\n0 255 0 127 0\n255 0 127 0 255\nUma matriz M = (aij), quadrada de ordem 5, em que i representa o número da linha e j representa o número da coluna, é definida da seguinte forma:\naij = { 0, se i = j\n127, se i > j\n255, se i < j\nA matriz M corresponde a uma matriz de cores em escala de cinza, descrita pelo texto, em uma tela.\nSobre essa matriz de cores, pode-se afirmar que ela",
+      principal: "Leia o texto para responder às questões de números 30 e 31.\nUma tela de computador pode ser representada por uma matriz de cores, de forma que cada elemento da matriz corresponda a um pixel* na tela.\nNuma tela em escala de cinza, por exemplo, podemos atribuir 256 cores diferentes para cada pixel, do preto absoluto (código da cor: 0) passando pelo cinza intermediário (código da cor: 127) ao branco absoluto (código da cor: 255).\n*Menor elemento em uma tela ao qual é possível atribuir-se uma cor.\nSuponha que na figura estejam representados 25 pixels de uma tela.\n[Imagem de uma matriz 5x5 de pixels em preto e branco, dispostos como um tabuleiro de xadrez.]\nA matriz numérica correspondente às cores da figura apresentada é dada por\$1_{255}$ 0 127 0 255\$1_{0}$ 127 0 255 0\$1_{127}$ 0 255 0 127\$1_{0}$ 255 0 127 0\$1_{255}$ 0 127 0 255\nUma matriz M = (aij), quadrada de ordem 5, em que i representa o número da linha e j representa o número da coluna, é definida da seguinte forma:\naij = { 0, se i = j\$1_{127}$, se i > j\$1_{255}$, se i < j\nA matriz M corresponde a uma matriz de cores em escala de cinza, descrita pelo texto, em uma tela.\nSobre essa matriz de cores, pode-se afirmar que ela",
       subItens: []
     },
     options: ["terá o mesmo número de pixels brancos e cinzas.","terá o mesmo número de pixels brancos e pretos.","terá o mesmo número de pixels pretos e cinzas.","terá uma diagonal com cinco pixels brancos.","terá uma diagonal com cinco pixels cinzas."],
@@ -456,7 +456,7 @@ createQuestion({
       principal: "O número máximo de matrizes distintas que podem ser formadas com 25 pixels de tamanho, em que se possa preencher cada pixel com qualquer uma dentre as 256 cores da escala de cinza, é igual a",
       subItens: []
     },
-    options: ["255^256","127^25","25^25","256^25","0^256"],
+    options: ["$1^{256}$","$1^{25}$","$1^{25}$","$1^{25}$","$1^{256}$"],
     correctAnswer: 3,
     materia: "Matemática – Análise Combinatória",
     conteudo: "",
@@ -663,7 +663,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Leia o texto para responder às questões de números 45 a 47.\nHormônio do crescimento de plantas é alvo de pesquisa chinesa\nUm grupo de pesquisadores tem como principal objetivo desvendar o funcionamento dos hormônios nas plantas.\n\"Um desses fitormônios é o etileno, molécula de gás que regula uma ampla gama de processos, incluindo o amadurecimento de frutos, o envelhecimento de folhas e de flores, a tolerância ao estresse e a defesa contra patógenos\", explicou o pesquisador Hongwei Guo, professor da Escola de Ciências da Vida da Universidade de Pequim.\n\"Temos estudado fatores que medeiam a regulação de respostas de plantas ao etileno, como a interação com outros fitormônios. Essas interações indicam a existência de complexas redes de sinalização na ação do etileno nas plantas\". Entre esses outros hormônios, o pesquisador mencionou a citocinina, a auxina e a giberelina.\n\"Identificamos que os fatores de transcrição conhecidos como EIN3 e EIL1 representam uma integração fundamental nas ações entre o etileno e outros fitormônios\", disse Guo.\n<http://tinyurl.com/jrz82hw> Acesso em: 24.08.2016. Adaptado.\nNa caatinga brasileira, plantas como os mulungus (Erythrina spp.) são classificadas como caducifólias porque apresentam a perda sazonal das folhas.\nO hormônio e a adaptação diretamente relacionados a esse mecanismo fisiológico são, respectivamente,",
+      principal: "Leia o texto para responder às questões de números 45 a 47.\nHormônio do crescimento de plantas é alvo de pesquisa chinesa\nUm grupo de pesquisadores tem como principal objetivo desvendar o funcionamento dos hormônios nas plantas.\n\"Um desses fitormônios é o etileno, molécula de gás que regula uma ampla gama de processos, incluindo o amadurecimento de frutos, o envelhecimento de folhas e de flores, a tolerância ao estresse e a defesa contra patógenos\", explicou o pesquisador Hongwei Guo, professor da Escola de Ciências da Vida da Universidade de Pequim.\n\"Temos estudado fatores que medeiam a regulação de respostas de plantas ao etileno, como a interação com outros fitormônios. Essas interações indicam a existência de complexas redes de sinalização na ação do etileno nas plantas\". Entre esses outros hormônios, o pesquisador mencionou a citocinina, a auxina e a giberelina.\n\"Identificamos que os fatores de transcrição conhecidos como $1_{3}$ e $1_{1}$ representam uma integração fundamental nas ações entre o etileno e outros fitormônios\", disse Guo.\n<http://tinyurl.com/jrz82hw> Acesso em: 24.08.2016. Adaptado.\nNa caatinga brasileira, plantas como os mulungus (Erythrina spp.) são classificadas como caducifólias porque apresentam a perda sazonal das folhas.\nO hormônio e a adaptação diretamente relacionados a esse mecanismo fisiológico são, respectivamente,",
       subItens: []
     },
     options: ["ácido abcísico e aumento da transpiração.","auxina e diminuição da fotossíntese.","citocinina e aumento da transpiração.","etileno e diminuição da transpiração.","giberelina e aumento da fotossíntese."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Fatores de transcrição como o EIN3 e EIL1 são proteínas essenciais no controle da expressão genética. Quando elas se ligam ao DNA de células eucarióticas, permitem que haja uma ligação entre a enzima RNA-polimerase e o DNA, possibilitando, assim, a transcrição e a futura tradução.\nCaso a equipe de pesquisadores consiga suprimir fatores de transcrição como o EIN3 e o EIL1 em algumas células, elas deverão apresentar, quando comparadas às demais células,",
+      principal: "Fatores de transcrição como o $1_{3}$ e $1_{1}$ são proteínas essenciais no controle da expressão genética. Quando elas se ligam ao DNA de células eucarióticas, permitem que haja uma ligação entre a enzima RNA-polimerase e o DNA, possibilitando, assim, a transcrição e a futura tradução.\nCaso a equipe de pesquisadores consiga suprimir fatores de transcrição como o $1_{3}$ e o $1_{1}$ em algumas células, elas deverão apresentar, quando comparadas às demais células,",
       subItens: []
     },
     options: ["maior concentração de DNA.","maior concentração de clorofilas.","maior concentração de cloroplastos.","menor concentração de celulose.","menor concentração de RNA."],

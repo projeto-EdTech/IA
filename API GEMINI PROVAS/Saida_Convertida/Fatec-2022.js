@@ -363,10 +363,10 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "A reciclagem terciária é a aplicação de processos químicos para quebrar os polímeros constituintes dos plásticos de modo a obter moléculas menores, os monômeros. Esse processo permite que o material, que antes era inutilizável, possa ser polimerizado para ser utilizado na fabricação de novos materiais. Um dos processos utilizados na reciclagem terciária de polímeros como o policloreto de vinila (PVC) é a pirólise (decomposição pelo calor). A pirólise do PVC libera ácido clorídrico, HCl (reação 1).\nReação 1 PVC → HCl + C2H4\nEm seguida, o HCl gerado passa por um filtro onde é absorvido pelo hidróxido de cálcio, formando o cloreto de cálcio, X (reação 2).\nReação 2 2 HCl + Ca(OH)2 → 2H2O + X\nO nome do composto orgânico formado na reação 1 e a fórmula do composto X produzido na reação 2 são, respectivamente,",
+      principal: "A reciclagem terciária é a aplicação de processos químicos para quebrar os polímeros constituintes dos plásticos de modo a obter moléculas menores, os monômeros. Esse processo permite que o material, que antes era inutilizável, possa ser polimerizado para ser utilizado na fabricação de novos materiais. Um dos processos utilizados na reciclagem terciária de polímeros como o policloreto de vinila (PVC) é a pirólise (decomposição pelo calor). A pirólise do PVC libera ácido clorídrico, HCl (reação 1).\nReação 1 PVC → HCl + $1_{2}H_{4}$\nEm seguida, o HCl gerado passa por um filtro onde é absorvido pelo hidróxido de cálcio, formando o cloreto de cálcio, X (reação 2).\nReação 2 2 HCl + Ca(OH)2 → 2H2O + X\nO nome do composto orgânico formado na reação 1 e a fórmula do composto X produzido na reação 2 são, respectivamente,",
       subItens: []
     },
-    options: ["etino CaCl2","etino ClCa","eteno Cl2Ca","eteno CaCl","eteno CaCl2"],
+    options: ["etino $1_{2}$","etino ClCa","eteno Cl2Ca","eteno CaCl","eteno $1_{2}$"],
     correctAnswer: 4,
     materia: "Química – Química Orgânica",
     conteudo: "Química – Reações Químicas",
@@ -438,10 +438,10 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Leia o texto para responder as questões 41 e 42. Em todo o mundo, 1,3 bilhão de toneladas de alimentos, cerca de um terço do que é produzido, é desperdiçado ou perdido por ano. Esses alimentos que seriam descartados podem ser aproveitados nos biodigestores. Biodigestor é um compartimento fechado onde ocorre decomposição de matéria orgânica, produzindo o biogás (metano) que pode ser utilizado para a produção de energia. Nos biodigestores, ocorre a fermentação da Matéria Orgânica (MO) por microrganismos sem a presença de oxigênio com liberação de energia e de gases tais como CH4, H2, H2S, CO2, NH3, N2 e H2O. De acordo com o texto, a equação química simplificada que descreve a fermentação ocorrida nos biodigestores é",
+      principal: "Leia o texto para responder as questões 41 e 42. Em todo o mundo, 1,3 bilhão de toneladas de alimentos, cerca de um terço do que é produzido, é desperdiçado ou perdido por ano. Esses alimentos que seriam descartados podem ser aproveitados nos biodigestores. Biodigestor é um compartimento fechado onde ocorre decomposição de matéria orgânica, produzindo o biogás (metano) que pode ser utilizado para a produção de energia. Nos biodigestores, ocorre a fermentação da Matéria Orgânica (MO) por microrganismos sem a presença de oxigênio com liberação de energia e de gases tais como $1_{4}$, $1_{2}_{}$, $1_{2}S_{}$, $1_{2}$, $1_{3}$, $1_{2}_{}$ e $1_{2}O_{}$. De acordo com o texto, a equação química simplificada que descreve a fermentação ocorrida nos biodigestores é",
       subItens: []
     },
-    options: ["MO + energia → CH4 + H2 + H2S + CO2 + NH3 + N2 + H2O","MO + O2 + energia → CH4 + H2 + H2S + CO2 + NH3 + N2 + H2O","MO → CH4 + H2 + H2S + CO2 + NH3 + N2 + H2O + energia","MO + O2 → CH4 + H2 + H2S + CO2 + NH3 + N2 + H2O + energia","MO + energia CH4 + H2 + H2S + CO2 + NH3 + N2 + H2O + O2"],
+    options: ["MO + energia → $1_{4}$ + $1_{2}_{}$ + $1_{2}S_{}$ + $1_{2}$ + $1_{3}$ + $1_{2}_{}$ + $1_{2}O_{}$","MO + $1_{2}_{}$ + energia → $1_{4}$ + $1_{2}_{}$ + $1_{2}S_{}$ + $1_{2}$ + $1_{3}$ + $1_{2}_{}$ + $1_{2}O_{}$","MO → $1_{4}$ + $1_{2}_{}$ + $1_{2}S_{}$ + $1_{2}$ + $1_{3}$ + $1_{2}_{}$ + $1_{2}O_{}$ + energia","MO + $1_{2}_{}$ → $1_{4}$ + $1_{2}_{}$ + $1_{2}S_{}$ + $1_{2}$ + $1_{3}$ + $1_{2}_{}$ + $1_{2}O_{}$ + energia","MO + energia $1_{4}$ + $1_{2}_{}$ + $1_{2}S_{}$ + $1_{2}$ + $1_{3}$ + $1_{2}_{}$ + $1_{2}O_{}$ + $1_{2}_{}$"],
     correctAnswer: 2,
     materia: "Química – Reações Químicas",
     conteudo: "Química – Biogás",

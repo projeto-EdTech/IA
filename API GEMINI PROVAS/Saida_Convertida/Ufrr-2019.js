@@ -261,7 +261,7 @@ createQuestion({
       principal: "Considere a reação de neutralização total entre: • Oxiácido formado pelo calcogênio do 3º período no seu maior estado de oxidação. • Hidróxido composto pelo metal mais eletropositivo com 3 níveis eletrônicos. A fórmula química e a respectiva nomenclatura do composto formado são:",
       subItens: []
     },
-    options: ["NaSO3 - sulfeto de sódio.","NaS - sulfeto de sódio.","Na2SO4 - sulfato de sódio.","Al2(SO4)3 – sulfito de alumínio.","Al2S3 - sulfato de alumínio."],
+    options: ["$1_{3}$ - sulfeto de sódio.","NaS - sulfeto de sódio.","$1_{2}SO_{4}$ - sulfato de sódio.","$1_{2}_{}$($1_{4}$)3 – sulfito de alumínio.","$1_{2}S_{3}$ - sulfato de alumínio."],
     correctAnswer: 2,
     materia: "Química – Funções Inorgânicas",
     conteudo: "",

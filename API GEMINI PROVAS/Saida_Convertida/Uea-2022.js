@@ -243,7 +243,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Manifestantes colombianos usaram cordas para amarrar e derrubar a estátua de Cristóvão Colombo em Barranquilla, na Colômbia. No ato, eles gritaram \"Colombo, assassino\" e ergueram a Wiphala, a bandeira dos povos indígenas que cada vez ganha mais espaço nas manifestações dos países da América Latina. \nEm muitos lugares, as estátuas do navegador e explorador genovês que liderou a expedição espanhola ao chamado Novo Mundo, em 1492, e de outros colonizadores, além de militares, perderam o encanto do passado e agora são alvos de indignação na região. \n(www.g1.globo.com. Adaptado.)\n\nO evento noticiado no excerto tem relação direta com",
+      principal: "Manifestantes colombianos usaram cordas para amarrar e derrubar a estátua de Cristóvão Colombo em Barranquilla, na Colômbia. No ato, eles gritaram \"Colombo, assassino\" e ergueram a Wiphala, a bandeira dos povos indígenas que cada vez ganha mais espaço nas manifestações dos países da América Latina. \nEm muitos lugares, as estátuas do navegador e explorador genovês que liderou a expedição espanhola ao chamado Novo Mundo, em 1492, e de outros colonizadores, além de militares, perderam o encanto do passado e agora são alvos de indignação na região. \n(www.$1_{1}$.globo.com. Adaptado.)\n\nO evento noticiado no excerto tem relação direta com",
       subItens: []
     },
     options: ["o modo eurocêntrico como a expansão marítima ocorreu, violentando os ameríndios de formas diversas.","a organização política imposta por Colombo ao se tornar governante da região, denominada Colômbia em sua homenagem.","o desejo de alterar os locais de exposição dessas estátuas, garantindo a preservação da memória de tais figuras históricas.","a aspiração dos americanos pela reparação financeira dos prejuízos causados pela colonização, buscando equilíbrio econômico.","a relevância de se valorizar os antepassados, tendo em vista suas glórias e omitindo suas controvérsias."],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Analise a imagem. \n\nLinha do Equador\n1\n2\nBrasil SECAS\nAquecimento\nVentos\n3\nCHUVAS\nOceano\nPacífico\nOceano\nAtlântico\n\n(www.ufal.br, 26.11.2018.)\n\nOs eventos 1, 2 e 3 apresentados na imagem resultam na formação do fenômeno",
+      principal: "Analise a imagem. \n\nLinha do Equador\$1_{1}$\$1_{2}$\nBrasil SECAS\nAquecimento\nVentos\$1_{3}$\nCHUVAS\nOceano\nPacífico\nOceano\nAtlântico\n\n(www.ufal.br, 26.11.2018.)\n\nOs eventos 1, 2 e 3 apresentados na imagem resultam na formação do fenômeno",
       subItens: []
     },
     options: ["El Niño.","dos ciclones tropicais.","de intensificação dos ventos alísios.","de expansão da Massa Equatorial Atlântica.","La Niña."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Analise a imagem. \n\n1\n2\n3\n4\n1- Florestada 2-Arborizada 3- Parque 4- Gramíneo-lenhosa\n(Instituto Brasileiro de Geografia e Estatística - IBGE.\nManual técnico da vegetação brasileira, 2012.)\n\nÉ característica do bioma brasileiro expresso no perfil esquemático",
+      principal: "Analise a imagem. \n\$1_{1}$\$1_{2}$\$1_{3}$\$1_{4}$\$1_{1}$- Florestada 2-Arborizada 3- Parque 4- Gramíneo-lenhosa\n(Instituto Brasileiro de Geografia e Estatística - IBGE.\nManual técnico da vegetação brasileira, 2012.)\n\nÉ característica do bioma brasileiro expresso no perfil esquemático",
       subItens: []
     },
     options: ["o predomínio de vegetação latifoliada.","o domínio de espécies xerófitas como o mandacaru.","a grande ocorrência na região Sul.","a influência do clima tropical de altitude.","a presença de formas vegetais diversificadas como o cerradão."],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Redução da reserva extrativista Jaci-Paraná\nPARNA\nMapinguari\nRio Madeira\nNova área de 45.185 hectares\nPerda de 151.712 hectares\nPorto Velho\nTI Karipuna\nTI Karitiana\nFLONA do\nBom Futuro\nRESEX JACI-PARANÁ\nRio Jariparaná\nRio Branco\nÁrea de 196.897 hectares\nAlto\nParaíso\nBuritis\nNova Mamoré\nRio Formoso\nCampo Novo\nde Rondônia\n\n(Jônatas Boni. www.g1.globo.com, 21.05.2021. Adaptado.)\n\nConsiderando o mapa, a redução da reserva extrativista Jaci-Paraná poderá",
+      principal: "Redução da reserva extrativista Jaci-Paraná\nPARNA\nMapinguari\nRio Madeira\nNova área de 45.185 hectares\nPerda de 151.712 hectares\nPorto Velho\nTI Karipuna\nTI Karitiana\nFLONA do\nBom Futuro\nRESEX JACI-PARANÁ\nRio Jariparaná\nRio Branco\nÁrea de 196.897 hectares\nAlto\nParaíso\nBuritis\nNova Mamoré\nRio Formoso\nCampo Novo\nde Rondônia\n\n(Jônatas Boni. www.$1_{1}$.globo.com, 21.05.2021. Adaptado.)\n\nConsiderando o mapa, a redução da reserva extrativista Jaci-Paraná poderá",
       subItens: []
     },
     options: ["fortalecer na região práticas ambientais preservacionistas.","diminuir o impacto do desmatamento no entorno das unidades de conservação.","assegurar o uso sustentável dos recursos naturais em toda a área.","gerar maior pressão das atividades econômicas sobre as espécies vegetais.","produzir menor vulnerabilidade nas áreas próximas às terras indígenas."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Analise o gráfico. \n\nURSS - Evolução da taxa de crescimento\ndo produto nacional bruto (1956-1992)\n5,9%\n5,3%\n5%\n3,7%\n2,7%\n2,6%\n2,2%\n1989\n1990\n1991\n1992*\nJupiterUnlimited/ImagePlus\n1956-60\n1961-65\n1966-70\n1971-75\n1976-80\n1981-84\n1985-88\n-2%\n-6%\n-11%\n* Dados da Rússia\n-19%\n\n(Elian Alabi Lucci. Território e sociedade no mundo globalizado, 2010.)\n\nOs dados analisados, no período de 1956 a 1992, sobre a União Soviética e a Rússia estão relacionados",
+      principal: "Analise o gráfico. \n\nURSS - Evolução da taxa de crescimento\ndo produto nacional bruto (1956-1992)\$1_{5}$,9%\$1_{5}$,3%\$1_{5}$%\$1_{3}$,7%\$1_{2}$,7%\$1_{2}$,6%\$1_{2}$,2%\$1_{1989}$\$1_{1990}$\$1_{1991}$\$1_{1992}$*\nJupiterUnlimited/ImagePlus\$1_{1956}$-60\$1_{1961}$-65\$1_{1966}$-70\$1_{1971}$-75\$1_{1976}$-80\$1_{1981}$-84\$1_{1985}$-88\n-2%\n-6%\n-11%\n* Dados da Rússia\n-19%\n\n(Elian Alabi Lucci. Território e sociedade no mundo globalizado, 2010.)\n\nOs dados analisados, no período de 1956 a 1992, sobre a União Soviética e a Rússia estão relacionados",
       subItens: []
     },
     options: ["ao aumento da produção de bens e serviços durante os governos socialistas.","à diminuição dos fluxos comerciais com os Estados Unidos.","ao enfraquecimento do parque produtivo soviético.","à ampliação da produção de gêneros agrícolas e matérias-primas.","às limitações práticas da economia de mercado."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "A figura ilustra dois neurônios comunicando-se por meio de fendas sinápticas. As setas indicam o sentido do impulso nervoso. \n\n1\n2\n3\n4\n5\n6\n\nOs números da figura que representam um dendrito e a região que secreta neurotransmissores são, respectivamente,",
+      principal: "A figura ilustra dois neurônios comunicando-se por meio de fendas sinápticas. As setas indicam o sentido do impulso nervoso. \n\$1_{1}$\$1_{2}$\$1_{3}$\$1_{4}$\$1_{5}$\$1_{6}$\n\nOs números da figura que representam um dendrito e a região que secreta neurotransmissores são, respectivamente,",
       subItens: []
     },
     options: ["1 e 3.","2 e 4.","4 e 5.","5 e 6.","3 e 2."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Os termos de uma sequência são formados por quadrados, com 3 quadrados no primeiro termo, 2 no segundo, 5 no terceiro e assim sucessivamente de acordo com o padrão das figuras, que mostram os 6 primeiros termos. \n\n1º\n2º\n3º\n4º\n5º\n6º\n\nNessa sequência, observa-se que cada termo de posição par é formado retirando-se um quadrado do termo anterior e que cada termo de posição ímpar, do 3º termo em diante, é formado acrescentando-se 3 quadrados ao termo anterior. O número de quadrados do 41º termo é",
+      principal: "Os termos de uma sequência são formados por quadrados, com 3 quadrados no primeiro termo, 2 no segundo, 5 no terceiro e assim sucessivamente de acordo com o padrão das figuras, que mostram os 6 primeiros termos. \n\$1_{1}$º\$1_{2}$º\$1_{3}$º\$1_{4}$º\$1_{5}$º\$1_{6}$º\n\nNessa sequência, observa-se que cada termo de posição par é formado retirando-se um quadrado do termo anterior e que cada termo de posição ímpar, do 3º termo em diante, é formado acrescentando-se 3 quadrados ao termo anterior. O número de quadrados do 41º termo é",
       subItens: []
     },
     options: ["43.","55.","61.","71.","83."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Considere uma função f com domínio no intervalo [-2, 5] e cujo gráfico está representado a seguir. \n\ny\n2\n3\n5\n6\n3\nX\n\nPara -2 ≤ x ≤ 3 a função obedece a lei f(x) = 5 - x e para 3 < x ≤ 5 a função obedece a lei f(x) = x² – 8x + 17. Sabendo que o menor valor que essa função assume é f(4), o intervalo que corresponde à imagem dessa função f é:",
+      principal: "Considere uma função f com domínio no intervalo [-2, 5] e cujo gráfico está representado a seguir. \n\ny\$1_{2}$\$1_{3}$\$1_{5}$\$1_{6}$\$1_{3}$\nX\n\nPara -2 ≤ x ≤ 3 a função obedece a lei f(x) = 5 - x e para 3 < x ≤ 5 a função obedece a lei f(x) = x² – 8x + 17. Sabendo que o menor valor que essa função assume é f(4), o intervalo que corresponde à imagem dessa função f é:",
       subItens: []
     },
     options: ["[-2, 5].","[-1, 3].","[2, 3].","[2, 7].","[1, 7]."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Em um sistema de coordenadas cartesianas, considere o gráfico da função f(x) = log₂ x, um ponto A de abscissa 1 e os pontos B e C, ambos de abscissa 8, conforme mostra a figura. \n\ny\n1\n0\n1-2\n2\n3\n4\n5\n6\n7\n8\nX\nA\nB\nC\n\nNesse sistema, sabendo que os pontos A e C têm a mesma ordenada, a diferença entre as ordenadas dos pontos B e C é",
+      principal: "Em um sistema de coordenadas cartesianas, considere o gráfico da função f(x) = log₂ x, um ponto A de abscissa 1 e os pontos B e C, ambos de abscissa 8, conforme mostra a figura. \n\ny\$1_{1}$\$1_{0}$\$1_{1}$-2\$1_{2}$\$1_{3}$\$1_{4}$\$1_{5}$\$1_{6}$\$1_{7}$\$1_{8}$\nX\nA\nB\nC\n\nNesse sistema, sabendo que os pontos A e C têm a mesma ordenada, a diferença entre as ordenadas dos pontos B e C é",
       subItens: []
     },
     options: ["2,5.","3.","3,5.","4.","4,5."],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Considere os triângulos retângulos ABC e CBD, que têm o lado BC em comum, conforme mostra a figura, que também indica as medidas dos lados AC, BD e CD. \n\nα\nA\n2√13 cm\nC\nβ\nB\n3 cm\n5 cm\nD\n\nO valor de tg α + sen β é igual a:",
+      principal: "Considere os triângulos retângulos ABC e CBD, que têm o lado BC em comum, conforme mostra a figura, que também indica as medidas dos lados AC, BD e CD. \n\nα\nA\$1_{2}$√13 cm\nC\nβ\nB\$1_{3}$ cm\$1_{5}$ cm\nD\n\nO valor de tg α + sen β é igual a:",
       subItens: []
     },
     options: ["18/13","19/14","22/15","23/16","24/17"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Em um triângulo retângulo ABC, a altura relativa à hipotenusa mede 12 cm e a divide nos segmentos HA e HC. \n\nB\n12 cm\nA\nH\nC\nfora de escala\n\nSabendo que a medida do segmento HC é igual a 9 vezes a medida do segmento HA, a medida da hipotenusa AC é",
+      principal: "Em um triângulo retângulo ABC, a altura relativa à hipotenusa mede 12 cm e a divide nos segmentos HA e HC. \n\nB\$1_{12}$ cm\nA\nH\nC\nfora de escala\n\nSabendo que a medida do segmento HC é igual a 9 vezes a medida do segmento HA, a medida da hipotenusa AC é",
       subItens: []
     },
     options: ["36 cm.","40 cm.","54 cm.","60 cm.","72 cm."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Considere o gráfico de uma função trigonométrica f, tal que -3 ≤ f(x) ≤ 1 para todo x real, conforme mostra a figura. \n\ny\n1\n0\nπ\n2π\nX\n-1-\n-2-\n-3\n\nA função f pode ser representada por:",
+      principal: "Considere o gráfico de uma função trigonométrica f, tal que -3 ≤ f(x) ≤ 1 para todo x real, conforme mostra a figura. \n\ny\$1_{1}$\$1_{0}$\nπ\$1_{2}$π\nX\n-1-\n-2-\n-3\n\nA função f pode ser representada por:",
       subItens: []
     },
     options: ["f(x) = -2cos(x) – 1","f(x) = cos(x) – 2","f(x) = -3tg(x) + 1","f(x) = 2sen(x) – 2","f(x) = -3sen(x) + 1"],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Um dispositivo foi projetado para medir a velocidade do ar, baseando-se na diferença de pressão dentro de um tubo. Em determinada ocasião, conforme o ar em movimento entra pelo orifício direito do tubo, o êmbolo é empurrado para baixo fazendo com que o fluido no lado esquerdo do tubo suba 4 cm, como mostra a figura. \n\nAr\n4 cm\nÊmbolo\nFluido\n\nSabendo que a densidade desse fluido é de 900 kg/m³, que a aceleração da gravidade é 10 m/s² e que o peso do êmbolo é desprezível, a diferença de pressão entre o nível do fluido na parte esquerda do tubo e o fluido sob o êmbolo, após ser empurrado para baixo, é de",
+      principal: "Um dispositivo foi projetado para medir a velocidade do ar, baseando-se na diferença de pressão dentro de um tubo. Em determinada ocasião, conforme o ar em movimento entra pelo orifício direito do tubo, o êmbolo é empurrado para baixo fazendo com que o fluido no lado esquerdo do tubo suba 4 cm, como mostra a figura. \n\nAr\$1_{4}$ cm\nÊmbolo\nFluido\n\nSabendo que a densidade desse fluido é de 900 kg/m³, que a aceleração da gravidade é 10 m/s² e que o peso do êmbolo é desprezível, a diferença de pressão entre o nível do fluido na parte esquerda do tubo e o fluido sob o êmbolo, após ser empurrado para baixo, é de",
       subItens: []
     },
     options: ["90 Pa.","180 Pa.","270 Pa.","360 Pa.","540 Pa."],

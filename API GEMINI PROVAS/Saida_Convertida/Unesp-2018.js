@@ -1038,7 +1038,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2018,
     text: {
-      principal: "Bicarbonato de sódio sólido aquecido se decompõe, pro-duzindo carbonato de sódio sólido, além de água e dióxi-do de carbono gasosos. O gráfico mostra os resultados de um experimento em que foram determinadas as massas de carbonato de sódio obtidas pela decomposição de di-ferentes massas de bicarbonato de sódio.\n[Gráfico de mNa2CO3/g vs. MNaHCO3/g]\nOs dados do gráfico permitem concluir que as massas de carbonato de sódio e bicarbonato de sódio nessa reação estão relacionadas pela equação mNa2CO3=kMNaHCO3, e que o valor aproximado de k é",
+      principal: "Bicarbonato de sódio sólido aquecido se decompõe, pro-duzindo carbonato de sódio sólido, além de água e dióxi-do de carbono gasosos. O gráfico mostra os resultados de um experimento em que foram determinadas as massas de carbonato de sódio obtidas pela decomposição de di-ferentes massas de bicarbonato de sódio.\n[Gráfico de mNa2CO3/g vs. $1_{3}$/g]\nOs dados do gráfico permitem concluir que as massas de carbonato de sódio e bicarbonato de sódio nessa reação estão relacionadas pela equação mNa2CO3=$1_{3}$, e que o valor aproximado de k é",
       subItens: []
     },
     options: ["0,3.","1,0.","0,2.","0,7.","1,2."],
@@ -1068,7 +1068,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2018,
     text: {
-      principal: "Sob temperatura constante, acrescentou-se cloreto de só-dio em água até sobrar sal sem se dissolver, como corpo de fundo. Estabeleceu-se assim o seguinte equilíbrio:\nNaCl (s) <=> Na+ (aq) + Cl-(aq)\nMantendo a temperatura constante, foi acrescentada mais uma porção de NaCl (s). Com isso, observa-se que a con-dutibilidade elétrica da solução sobrenadante _________, a quantidade de corpo de fundo _________ e a concen-tração de íons em solução _________.\nAs lacunas do texto devem ser preenchidas, respectiva-mente, por:",
+      principal: "Sob temperatura constante, acrescentou-se cloreto de só-dio em água até sobrar sal sem se dissolver, como corpo de fundo. Estabeleceu-se assim o seguinte equilíbrio:\nNaCl (s) \le> $1^+$ (aq) + Cl-(aq)\nMantendo a temperatura constante, foi acrescentada mais uma porção de NaCl (s). Com isso, observa-se que a con-dutibilidade elétrica da solução sobrenadante _________, a quantidade de corpo de fundo _________ e a concen-tração de íons em solução _________.\nAs lacunas do texto devem ser preenchidas, respectiva-mente, por:",
       subItens: []
     },
     options: ["não se altera – aumenta – aumenta","não se altera – não se altera – não se altera","não se altera – aumenta – não se altera","aumenta – diminui – aumenta","diminui - aumenta – aumenta"],
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2018,
     text: {
-      principal: "Analise os três diagramas de entalpia.\n[Diagramas de entalpia para C2H2(g), C(s) + O2(g) e H2(g) + ½ O2(g)]\nΟ ΔΗ da combustão completa de 1 mol de acetileno, C2H2 (g), produzindo CO2 (g) e H2O (l) é",
+      principal: "Analise os três diagramas de entalpia.\n[Diagramas de entalpia para $1_{2}H_{2}$(g), C(s) + $1_{2}_{}$(g) e $1_{2}_{}$(g) + ½ $1_{2}_{}$(g)]\nΟ ΔΗ da combustão completa de 1 mol de acetileno, $1_{2}H_{2}$ (g), produzindo $1_{2}$ (g) e $1_{2}O_{}$ (l) é",
       subItens: []
     },
     options: ["+ 1140 kJ.","+ 820 kJ.","- 1299 kJ.","– 510 kJ.","– 635 kJ."],

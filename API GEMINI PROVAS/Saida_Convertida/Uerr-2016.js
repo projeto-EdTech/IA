@@ -711,7 +711,7 @@ createQuestion({
       principal: "A fotossíntese é a via pela qual praticamente toda a energia entra em nossa biosfera, isso ocorre através das várias reações metabólicas, sendo estas reações divididas em dois principais processos: reações de claro e reações de \"escuro\". Em relação às reações de claro, assinale a alternativa CORRETA que resume os eventos desta fase na fotossíntese.",
       subItens: []
     },
-    options: ["A produção de glicina, durante a fase clara, que utiliza ATP para produção desta molécula.","A produção de glicose, durante a fotólise da água e produção de CO2 em presença de luz, ou seja, fotoxidação.","A produção de NADPH2, durante a fotólise da água e produção de ATP em presença de luz, ou seja, fotofosforilação.","A produção de FADH2, durante a fase clara, e utilizando ATP para produção de citrato.","A produção de FADPH2, durante a fase clara, e produção de etanol."],
+    options: ["A produção de glicina, durante a fase clara, que utiliza ATP para produção desta molécula.","A produção de glicose, durante a fotólise da água e produção de $1_{2}$ em presença de luz, ou seja, fotoxidação.","A produção de $1_{2}$, durante a fotólise da água e produção de ATP em presença de luz, ou seja, fotofosforilação.","A produção de $1_{2}$, durante a fase clara, e utilizando ATP para produção de citrato.","A produção de $1_{2}$, durante a fase clara, e produção de etanol."],
     correctAnswer: 2,
     materia: "Biologia – Bioquímica",
     conteudo: "Biologia – Fotossíntese",
@@ -993,7 +993,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2016,
     text: {
-      principal: "Uma solução é preparada pela dissolução de 5,80g de tolueno (C7H8), com massa molar de 92g.mol-¹, totalizando 200mL de solução. A concentração em quantidade de matéria (mol.L⁻¹) desta solução é:",
+      principal: "Uma solução é preparada pela dissolução de 5,80g de tolueno ($1_{7}H_{8}$), com massa molar de 92g.mol-¹, totalizando 200mL de solução. A concentração em quantidade de matéria (mol.L⁻¹) desta solução é:",
       subItens: []
     },
     options: ["0,32.","0,005.","0,032.","0,05.","0,5."],
@@ -1041,7 +1041,7 @@ createQuestion({
       principal: "Assinale a alternativa CORRETA. Os compostos formados a partir dos elementos oxigênio, cloro, sódio e cálcio devem apresentar fórmulas, ligações químicas predominantes e estados físicos, em temperatura e pressão ambiente, respectivamente:",
       subItens: []
     },
-    options: ["CaCl2, iônica, sólido.","NaCl, iônica, líquido.","Cl2, covalente, sólido.","Na2O, covalente, líquido.","O2, iônica, gás."],
+    options: ["$1_{2}$, iônica, sólido.","NaCl, iônica, líquido.","$1_{2}_{}$, covalente, sólido.","$1_{2}O_{}$, covalente, líquido.","$1_{2}_{}$, iônica, gás."],
     correctAnswer: 0,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Funções Inorgânicas",

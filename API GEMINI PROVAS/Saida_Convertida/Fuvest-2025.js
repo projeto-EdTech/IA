@@ -12,6 +12,7 @@ createQuestion({
     conteudo: "Sociologia – Cultura e Identidade",
     imageNames: []
   }),
+
 createQuestion({
     id: 2,
     university: "PROVA DE CONHECIMENTOS GERAIS",
@@ -227,7 +228,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050. Esse documento regulamenta a inclinação que a rampa deve ter a depender do desnível máximo de cada segmento de rampa, conforme o seguinte quadro:\nInclinação e desnível máximo de cada segmento de rampa:\nDesnível h (em m) | Inclinação i admissível (em %)\n1 < h <= 1,5 | 5\n0,8 < h <= 1 | 5 < i < 6,25\n0 < h <= 0,8 | 6,25 < i < 8,33\nAcessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Disponível em https://www.prefeitura.sp.gov.br/cidade/ (Adaptado).\nA inclinação i da rampa em porcentagem (%) é calculada dividindo a altura h do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal c, em metros, e multiplicando o resultado por 100. (i = (h/c) * 100).\nDeterminada rampa de dois segmentos foi construída da seguinte maneira:\n- o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;\n- o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.\nCom base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?",
+      principal: "A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050. Esse documento regulamenta a inclinação que a rampa deve ter a depender do desnível máximo de cada segmento de rampa, conforme o seguinte quadro:\nInclinação e desnível máximo de cada segmento de rampa:\nDesnível h (em m) | Inclinação i admissível (em %)\$1_{1}$ < h \le 1,5 | 5\$1_{0}$,8 < h \le 1 | 5 < i < 6,25\$1_{0}$ < h \le 0,8 | 6,25 < i < 8,33\nAcessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Disponível em https://www.prefeitura.sp.gov.br/cidade/ (Adaptado).\nA inclinação i da rampa em porcentagem (%) é calculada dividindo a altura h do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal c, em metros, e multiplicando o resultado por 100. (i = (h/c) * 100).\nDeterminada rampa de dois segmentos foi construída da seguinte maneira:\n- o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;\n- o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.\nCom base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?",
       subItens: []
     },
     options: ["A rampa não está adequada, pois os dois segmentos não estão de acordo com a norma.","A rampa está adequada, pois os dois segmentos estão de acordo com a norma.","A rampa não está adequada, pois o primeiro segmento não está de acordo com a norma.","A rampa não está adequada, pois o segundo segmento não está de acordo com a norma.","A rampa está adequada, pois, apesar de o segundo segmento não estar de acordo com a norma, o primeiro está."],
@@ -260,7 +261,7 @@ createQuestion({
       principal: "No dia 26 de março de 2024, à 1h29min, aproximadamente, o navio cargueiro MV Dali colidiu com a ponte Francis Scott Key em Baltimore, EUA. O impacto causou o colapso da ponte, tornando-se um dos maiores acidentes marítimos da história norte-americana.\nA figura a seguir mostra os dados da velocidade do navio em função da hora local. A colisão ocorreu no intervalo de 38 segundos, marcado por linhas pontilhadas no gráfico.\nDisponível em https://www.nytimes.com/ (Adaptado).\nAssumindo que a massa do navio no momento do impacto seja de 100 mil toneladas e, tendo por base os dados do gráfico, a magnitude da força média atuando sobre o navio durante a colisão é de, aproximadamente,\nNote e adote:\nConsidere que a força atuando sobre o navio durante a colisão seja constante e igual à força média.\nUtilize 1 m.p.h. = 0,5 m/s.",
       subItens: []
     },
-    options: ["7 × 10-2 Ν.","7 × 100 Ν.","7 × 102 Ν.","7 × 104 Ν.","7 × 106 Ν."],
+    options: ["$1 \times 10^{-2}$ Ν.","$1 \times 10^{0}$ Ν.","$1 \times 10^{2}$ Ν.","$1 \times 10^{4}$ Ν.","$1 \times 10^{6}$ Ν."],
     correctAnswer: 4,
     materia: "Física – Dinâmica",
     conteudo: "Física – Impulso e Quantidade de Movimento",
@@ -272,7 +273,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.\nQuando um fóton com comprimento de onda lambda0 incide sobre uma partícula, ele emerge dessa interação formando um ângulo theta com sua direção inicial de movimento, e seu novo comprimento de onda lambda' é dado pela relação: lambda' = lambda0 + (a / m) * (1 - cos theta), em que a é uma constante positiva e m é a massa da partícula.\nCom base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.",
+      principal: "O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.\nQuando um fóton com comprimento de onda $1_{0}$ incide sobre uma partícula, ele emerge dessa interação formando um ângulo \theta com sua direção inicial de movimento, e seu novo comprimento de onda \lambda' é dado pela relação: \lambda' = $1_{0}$ + (a / m) * (1 - cos \theta), em que a é uma constante positiva e m é a massa da partícula.\nCom base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.",
       subItens: []
     },
     options: ["A maior variação no comprimento de onda do fóton ocorre quando o ângulo e é igual a 90°.","Se o ângulo é igual a 30°, o fóton emergente tem frequência menor do que a frequência inicial.","Quando 0 = 0, a velocidade do fóton emergente é menor do que a do fóton incidente, devido à conservação da quantidade de movimento.","Se o ângulo e é igual a 60°, a variação no comprimento de onda do fóton é menor se a partícula for um elétron do que se a partícula for um próton.","Um fóton que emergiu perpendicularmente à sua direção inicial não sofreu mudança em sua frequência."],
@@ -302,10 +303,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons Li+ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons Li+ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon-sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.\nConsiderando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado (Na+ ou Li+) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é\nNote e adote:\nDistribuição eletrônica: Li = 1s², 2s²; Na = 1s², 2s², 2p6, 3s¹.\nMassa atômica (u): Li = 7; Na = 23.",
+      principal: "Baterias íon-lítio (íon-Li) armazenam energia por meio de um processo de intercalação iônica, no qual íons $1^+$ penetram e se acomodam entre camadas de grafite no ânodo da bateria. A quantidade de energia armazenada é diretamente proporcional ao número de íons $1^+$ intercalados no ânodo, que, entre outros aspectos, é limitado pelo espaço disponível para a sua alocação. Uma recente inovação tecnológica em baterias é a substituição de Li por Na, formando baterias íon-sódio (íon-Na). O mecanismo de funcionamento se baseia no processo de intercalação, com a vantagem de que o Na é mais abundante do que o Li no planeta.\nConsiderando que a única diferença entre baterias de mesma massa e volume seja o íon utilizado ($1^+$ ou $1^+$) e que a densidade de energia é a quantidade de energia armazenada na bateria por unidade de massa e volume, é correto afirmar que a densidade de energia de uma bateria íon-Na é\nNote e adote:\nDistribuição eletrônica: Li = 1s², 2s²; Na = 1s², 2s², 2p6, 3s¹.\nMassa atômica (u): Li = 7; Na = 23.",
       subItens: []
     },
-    options: ["maior do que de uma bateria íon-Li, pois o Na+ tem maior massa e menor raio iônico do que o Li⁺.","menor do que de uma bateria íon-Li, pois o Na+ tem maior massa e maior raio iônico do que o Li⁺.","maior do que de uma bateria íon-Li, pois o Na+ tem menor massa e maior raio iônico do que o Li⁺.","menor do que de uma bateria íon-Li, pois o Na+ tem menor massa e menor raio iônico do que o Li⁺.","igual à de uma bateria íon-Li, pois ambos os íons são monovalentes."],
+    options: ["maior do que de uma bateria íon-Li, pois o $1^+$ tem maior massa e menor raio iônico do que o Li⁺.","menor do que de uma bateria íon-Li, pois o $1^+$ tem maior massa e maior raio iônico do que o Li⁺.","maior do que de uma bateria íon-Li, pois o $1^+$ tem menor massa e maior raio iônico do que o Li⁺.","menor do que de uma bateria íon-Li, pois o $1^+$ tem menor massa e menor raio iônico do que o Li⁺.","igual à de uma bateria íon-Li, pois ambos os íons são monovalentes."],
     correctAnswer: 1,
     materia: "Química – Eletroquímica",
     conteudo: "Química – Propriedades Periódicas",
@@ -317,7 +318,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz. Esse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração n1, em direção a um meio 2, com índice de refração n2, formando com a direção perpendicular à interface entre os meios um ângulo theta maior do que um certo valor limite theta_L, tal que sen theta_L = n2/n1. Quando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. Suponha que se deseje projetar uma tela sensível ao toque que, conforme mostra a figura, funcione com uma fonte luminosa F fixa na borda. A tabela a seguir indica os índices de refração de alguns materiais candidatos à utilização no meio 1:\nMaterial A: 1,0002\nMaterial B: 1,0003\nMaterial C: 1,1503\nMaterial D: 1,3204\nMaterial E: 1,4889\nTratando o meio 2 sempre como tendo índice de refração n2 = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é:\nNote e adote:\nTraçando o meio 2 sempre como tendo índice de refração n2 = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é: (continuação da pergunta, faz parte do enunciado)",
+      principal: "Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz. Esse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração $1_{1}$, em direção a um meio 2, com índice de refração $1_{2}$, formando com a direção perpendicular à interface entre os meios um ângulo \theta maior do que um certo valor limite theta_L, tal que sen theta_L = $1_{2}$/$1_{1}$. Quando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. Suponha que se deseje projetar uma tela sensível ao toque que, conforme mostra a figura, funcione com uma fonte luminosa F fixa na borda. A tabela a seguir indica os índices de refração de alguns materiais candidatos à utilização no meio 1:\nMaterial A: 1,0002\nMaterial B: 1,0003\nMaterial C: 1,1503\nMaterial D: 1,3204\nMaterial E: 1,4889\nTratando o meio 2 sempre como tendo índice de refração $1_{2}$ = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é:\nNote e adote:\nTraçando o meio 2 sempre como tendo índice de refração $1_{2}$ = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é: (continuação da pergunta, faz parte do enunciado)",
       subItens: []
     },
     options: ["Material A.","Material B.","Material C.","Material D.","Material E."],
@@ -332,7 +333,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Considere o texto a seguir.\n\"Com observações feitas pela primeira vez em luz polarizada, a nova imagem do buraco negro que se esconde no coração da Via Láctea revelou um campo magnético com uma estrutura muito semelhante à de outro buraco negro situado no centro da galáxia M87, sugerindo que campos magnéticos podem ser comuns a todos os buracos negros.\nA luz é uma onda eletromagnética que nos permite ver objetos por vezes; os campos elétrico e magnético associados à onda oscilam em direções preferenciais, definindo o que chamamos de luz polarizada. Apesar de estarmos rodeados por luz polarizada, aos olhos humanos essa luz é indistinguível da luz não polarizada. No plasma que rodeia estes buracos negros, as partículas que giram em torno da linha do campo magnético conferem-lhe um padrão de polarização com orientação na direção perpendicular ao campo magnético do buraco negro, o que permite aos astrônomos ver com muitos detalhes o que se passa nas regiões dos buracos negros e mapear as suas linhas de campo magnético.\"\nAstrônomos desvendam campo magnético em espiral nas bordas de buraco negro da Via Láctea. Jornal da USP, 29/03/2024 (Adaptado).\nCom base no texto e no mapa em seus conhecimentos, é correto afirmar:",
+      principal: "Considere o texto a seguir.\n\"Com observações feitas pela primeira vez em luz polarizada, a nova imagem do buraco negro que se esconde no coração da Via Láctea revelou um campo magnético com uma estrutura muito semelhante à de outro buraco negro situado no centro da galáxia $1_{87}_{}$, sugerindo que campos magnéticos podem ser comuns a todos os buracos negros.\nA luz é uma onda eletromagnética que nos permite ver objetos por vezes; os campos elétrico e magnético associados à onda oscilam em direções preferenciais, definindo o que chamamos de luz polarizada. Apesar de estarmos rodeados por luz polarizada, aos olhos humanos essa luz é indistinguível da luz não polarizada. No plasma que rodeia estes buracos negros, as partículas que giram em torno da linha do campo magnético conferem-lhe um padrão de polarização com orientação na direção perpendicular ao campo magnético do buraco negro, o que permite aos astrônomos ver com muitos detalhes o que se passa nas regiões dos buracos negros e mapear as suas linhas de campo magnético.\"\nAstrônomos desvendam campo magnético em espiral nas bordas de buraco negro da Via Láctea. Jornal da USP, 29/03/2024 (Adaptado).\nCom base no texto e no mapa em seus conhecimentos, é correto afirmar:",
       subItens: []
     },
     options: ["A medida do momento do mapeamento da luz mencionada no texto permite somente o mapeamento das linhas de campo magnéticos na direção paralela à direção da polarização.","O olho humano pode discriminar as diferentes direções da luz polarizada dos buracos negros, mapeando suas linhas de campo.","Campos magnéticos como os mencionados no texto são criados apenas por cargas elétricas em repouso no plasma que permeia os buracos negros.","O plasma é formado por partículas eletricamente carregadas, dado que essas partículas exibem um movimento circular perpendicular à direção do campo magnético.","O processo de mapeamento das linhas de campo magnético mencionado no texto pode ser realizado por meio da detecção de qualquer tipo de onda eletromagnética gerada em buracos negros."],
@@ -662,10 +663,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Considere que a expectativa de vida no Brasil à idade de 19 anos pode ser calculada, de forma aproximada, como a média aritmética simples entre a expectativa de vida estimada à mesma idade dos homens e das mulheres. O mesmo pode ser feito à idade de 20 anos.\nSegundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil à idade de 19 anos era 58, e a expectativa de vida estimada dos homens à mesma idade era 54,7.\nSabe-se que a diferença entre a expectativa de vida estimada dos homens e a das mulheres se manteve à idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade (EVH20) era 53,8.\nCom base nos dados apresentados, assinale a alternativa que apresenta a expectativa de vida estimada das mulheres à idade de 19 anos (EVM19) e a expectativa de vida estimada à idade de 20 anos no Brasil (EVB20) em 2022.",
+      principal: "Considere que a expectativa de vida no Brasil à idade de 19 anos pode ser calculada, de forma aproximada, como a média aritmética simples entre a expectativa de vida estimada à mesma idade dos homens e das mulheres. O mesmo pode ser feito à idade de 20 anos.\nSegundo dados do IBGE, em 2022, a expectativa de vida estimada no Brasil à idade de 19 anos era 58, e a expectativa de vida estimada dos homens à mesma idade era 54,7.\nSabe-se que a diferença entre a expectativa de vida estimada dos homens e a das mulheres se manteve à idade de 20 anos e que a expectativa de vida estimada dos homens a essa idade ($1_{20}$) era 53,8.\nCom base nos dados apresentados, assinale a alternativa que apresenta a expectativa de vida estimada das mulheres à idade de 19 anos ($1_{19}$) e a expectativa de vida estimada à idade de 20 anos no Brasil ($1_{20}$) em 2022.",
       subItens: []
     },
-    options: ["EVM19: 54,7; EVB20: 54,7","EVM19: 54,7; EVB20: 58","EVM19: 60; EVB20: 54","EVM19: 61,3; EVB20: 56","EVM19: 61,3; EVB20: 57,1"],
+    options: ["$1_{19}$: 54,7; $1_{20}$: 54,7","$1_{19}$: 54,7; $1_{20}$: 58","$1_{19}$: 60; $1_{20}$: 54","$1_{19}$: 61,3; $1_{20}$: 56","$1_{19}$: 61,3; $1_{20}$: 57,1"],
     correctAnswer: 4,
     materia: "Matemática – Estatística",
     conteudo: "Matemática – Média Aritmética",
@@ -692,7 +693,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "A figura a seguir representa os níveis médios de consumo de gordura saturada na dieta para adultos com idade >=20 anos.\nMICHA, R. et al., (2014). British Medical Journal, v. 348. g2272. DOI: 10.1136/bmj.g2272.\nConsiderando apenas os dados da figura, os habitantes da Austrália e da Rússia apresentam maiores riscos de desenvolver doenças",
+      principal: "A figura a seguir representa os níveis médios de consumo de gordura saturada na dieta para adultos com idade >=20 anos.\nMICHA, R. et al., (2014). British Medical Journal, v. 348. $1_{2272}$. DOI: 10.1136/bmj.$1_{2272}$.\nConsiderando apenas os dados da figura, os habitantes da Austrália e da Rússia apresentam maiores riscos de desenvolver doenças",
       subItens: []
     },
     options: ["renais.","respiratórias.","cardiovasculares.","cerebrais.","neuromusculares."],
@@ -767,7 +768,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "As enchentes ocorridas no Rio Grande do Sul, em maio de 2024, prejudicaram a infraestrutura de comunicação. A população afetada era informada sobre as notícias relativas às enchentes ao sintonizar, por rádio de pilhas, frequências de onda AM, cujo alcance é maior.\nUma onda AM é modelada matematicamente por equações que envolvem a função cosseno, cuja variável independente é o tempo t, que aparece multiplicado pela frequência f da onda.\nComo exemplo, pode-se considerar a equação referente ao processo de modulação de uma onda AM:\ns(t) = A [1 + k * m(t)] * cos(2 * pi * f * t),\nem que A é a amplitude, f a frequência, k a constante da sensibilidade à amplitude e m(t) o sinal que contém a informação.\nQuando a frequência f é multiplicada por 3, o comprimento da onda sofre alteração. Por causa dessa multiplicação, qual transformação ocorre no gráfico da função cosseno original?",
+      principal: "As enchentes ocorridas no Rio Grande do Sul, em maio de 2024, prejudicaram a infraestrutura de comunicação. A população afetada era informada sobre as notícias relativas às enchentes ao sintonizar, por rádio de pilhas, frequências de onda AM, cujo alcance é maior.\nUma onda AM é modelada matematicamente por equações que envolvem a função cosseno, cuja variável independente é o tempo t, que aparece multiplicado pela frequência f da onda.\nComo exemplo, pode-se considerar a equação referente ao processo de modulação de uma onda AM:\ns(t) = A [1 + k * m(t)] * cos(2 * \pi * f * t),\nem que A é a amplitude, f a frequência, k a constante da sensibilidade à amplitude e m(t) o sinal que contém a informação.\nQuando a frequência f é multiplicada por 3, o comprimento da onda sofre alteração. Por causa dessa multiplicação, qual transformação ocorre no gráfico da função cosseno original?",
       subItens: []
     },
     options: ["Expansão vertical.","Translação horizontal.","Expansão horizontal.","Contração horizontal.","Contração vertical."],
@@ -857,10 +858,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em PbSO4 (Kps = 1,0 x 10^-8).\nSabendo que a legislação estabelece a concentração máxima de Pb de 0,01 mg/L para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.\nNote e adote:\nMassa molar (g/mol): Pb = 207",
+      principal: "A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em $1_{4}$ (Kps = $1 \times 10^{-8}$).\nSabendo que a legislação estabelece a concentração máxima de Pb de 0,01 mg/L para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.\nNote e adote:\nMassa molar (g/mol): Pb = 207",
       subItens: []
     },
-    options: ["Não é segura, pois a concentração de Pb na água será de 2,07×10¹ mg/L, maior que o valor permitido.","É segura, pois a concentração de Pb na água será de 1×10-4 mg/L, menor que o valor permitido.","Não é segura, pois a concentração de Pb na água será de 1×10-8 mg/L, menor que o valor permitido.","É segura, pois a concentração de Pb na água será de 1×10-2 mg/L, igual ao valor permitido.","É segura, pois a concentração de Pb na água será de 2,07×10-6 mg/L, maior que o valor permitido."],
+    options: ["Não é segura, pois a concentração de Pb na água será de 2,07×10¹ mg/L, maior que o valor permitido.","É segura, pois a concentração de Pb na água será de $1 \times 10^{-4}$ mg/L, menor que o valor permitido.","Não é segura, pois a concentração de Pb na água será de $1 \times 10^{-8}$ mg/L, menor que o valor permitido.","É segura, pois a concentração de Pb na água será de $1 \times 10^{-2}$ mg/L, igual ao valor permitido.","É segura, pois a concentração de Pb na água será de $1 \times 10^{-6}$ mg/L, maior que o valor permitido."],
     correctAnswer: 0,
     materia: "Química – Solubilidade",
     conteudo: "Química – Equilíbrio Iônico",
@@ -872,7 +873,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Quando uma barra de um certo material é aquecida até uma temperatura T a partir de uma temperatura inicial T0, seu comprimento inicial L0 sofre um aumento Delta_L dado por Delta_L = alpha * L0 * (T - T0), sendo alpha o coeficiente de expansão linear, que depende do material. O gráfico a seguir mostra curvas de expansão linear para barras feitas de três materiais distintos.\nCom base no gráfico e nas informações apresentadas, é correto afirmar:",
+      principal: "Quando uma barra de um certo material é aquecida até uma temperatura T a partir de uma temperatura inicial $1_{0}_{}$, seu comprimento inicial $1_{0}_{}$ sofre um aumento $\Delta L$ dado por $\Delta L$ = \alpha * $1_{0}_{}$ * (T - $1_{0}_{}$), sendo \alpha o coeficiente de expansão linear, que depende do material. O gráfico a seguir mostra curvas de expansão linear para barras feitas de três materiais distintos.\nCom base no gráfico e nas informações apresentadas, é correto afirmar:",
       subItens: []
     },
     options: ["O gráfico mostra curvas para três barras que possuem o mesmo comprimento à temperatura de 30°C.","Em um processo de aquecimento entre 100°C e 200°C, o comprimento da barra de cobre aumenta em 0,1 m.","O coeficiente de expansão linear do alumínio é maior do que o do cobre.","Partindo de 0°C, aumentar em 10 cm o comprimento da barra de polietileno requer elevar sua temperatura até 50°C.","Duas barras de comprimentos 5 m e 10 m a 0°C, feitas do mesmo material, sofrem iguais incrementos de comprimento quando levadas de 0°C a 100°C."],
@@ -932,10 +933,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "A utilização de matrizes energéticas limpas, tais como aquelas que não aumentam a concentração de CO2(g) na atmosfera, é essencial para evitar a escalada das alterações climáticas causadas pela emissão de gases de efeito estufa. Considere a proposta apresentada na figura a seguir para a produção de uma matriz energética limpa.\n(I) CO2(g) + 2NaOH(aq) -> Na2CO3(aq) + H2O(l)\n(II) Na2CO3(aq) + 4H2(g) -> CH4(g) + 2NaOH(aq) + H2O(l)\n(I) Capturar o CO2(g) atmosférico utilizando NaOH(aq) para formar Na2CO3(aq). (II) Tratar essa solução, na presença de um catalisador, com H2(g) oriundo de fontes renováveis, para gerar CH4(g), um gás combustível.\nCom base nessas informações e em seus conhecimentos, assinale a alternativa correta.",
+      principal: "A utilização de matrizes energéticas limpas, tais como aquelas que não aumentam a concentração de $1_{2}$(g) na atmosfera, é essencial para evitar a escalada das alterações climáticas causadas pela emissão de gases de efeito estufa. Considere a proposta apresentada na figura a seguir para a produção de uma matriz energética limpa.\n(I) $1_{2}$(g) + 2NaOH(aq$$) \rightarrow N$$a2CO3(aq) + $1_{2}O_{}$(l)\n(II) $1_{2}CO_{3}$(aq) + 4H2(g$$) \rightarrow CH_{4}($$g) + 2NaOH(aq) + $1_{2}O_{}$(l)\n(I) Capturar o $1_{2}$(g) atmosférico utilizando NaOH(aq) para formar $1_{2}CO_{3}$(aq). (II) Tratar essa solução, na presença de um catalisador, com $1_{2}_{}$(g) oriundo de fontes renováveis, para gerar $1_{4}$(g), um gás combustível.\nCom base nessas informações e em seus conhecimentos, assinale a alternativa correta.",
       subItens: []
     },
-    options: ["O catalisador participa da reação de produção de metano e se decompõe em NaOH.","A combustão do CH4 não emite CO2, motivo pelo qual a proposta se configura como uma matriz energética limpa.","A proposta não representa uma matriz energética limpa, pois a combustão completa de 1 mol de CH4 emite mais CO2 do que o que é utilizado para a sua síntese.","A retirada de CO2 da atmosfera seria maior se a proposta de usar uma matriz energética limpa se resumisse unicamente em utilizar o H2 como combustível.","Em relação ao ciclo do carbono, a proposta é semelhante ao uso do etanol como combustível veicular."],
+    options: ["O catalisador participa da reação de produção de metano e se decompõe em NaOH.","A combustão do $1_{4}$ não emite $1_{2}$, motivo pelo qual a proposta se configura como uma matriz energética limpa.","A proposta não representa uma matriz energética limpa, pois a combustão completa de 1 mol de $1_{4}$ emite mais $1_{2}$ do que o que é utilizado para a sua síntese.","A retirada de $1_{2}$ da atmosfera seria maior se a proposta de usar uma matriz energética limpa se resumisse unicamente em utilizar o $1_{2}_{}$ como combustível.","Em relação ao ciclo do carbono, a proposta é semelhante ao uso do etanol como combustível veicular."],
     correctAnswer: 4,
     materia: "Química – Química Ambiental",
     conteudo: "Química – Reações Químicas",
@@ -947,7 +948,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação CH4(e) + 2 O2(e) -> CO2(g) + 2 H2O(g).\nNessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a\nNote e adote:\nMassa molar (g/mol): H = 1; C = 12; O = 16",
+      principal: "Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação $1_{4}$(e) + 2 $1_{2}_{}$(e$$) \rightarrow CO_{2}($$g) + 2 $1_{2}O_{}$(g).\nNessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a\nNote e adote:\nMassa molar (g/mol): H = 1; C = 12; O = 16",
       subItens: []
     },
     options: ["0,186.","0,375.","0,75.","1,5.","3."],
@@ -1022,7 +1023,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "No plano cartesiano Oxy, o gráfico que melhor representa a função f(x) = |x^2 + 5x - 6| - 5x + 6 é dado por",
+      principal: "No plano cartesiano Oxy, o gráfico que melhor representa a função f(x) = |$1^{2}$ + 5x - 6| - 5x + 6 é dado por",
       subItens: []
     },
     options: [],
@@ -1037,10 +1038,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Seja (an) uma progressão aritmética cujo primeiro termo é a1 e a razão r, ambos números reais. É possível construir uma outra sequência (bn), em que o primeiro termo é um número real b1 e com a seguinte lei de formação: bn+1 = bn + an, sendo n > 0 um número natural.\nPor exemplo, se b1 = 0 e (an) = (1,3,5,7,9,11, ...), tem-se (bn) = (0,1,4,9,16,25, ...).\nCom base em tais informações, os valores de a1 e r foram escolhidos de forma que (bn) também seja uma progressão aritmética de razão r'. Nessas condições, é correto afirmar:",
+      principal: "Seja (an) uma progressão aritmética cujo primeiro termo é $1_{1}$ e a razão r, ambos números reais. É possível construir uma outra sequência (bn), em que o primeiro termo é um número real $1_{1}$ e com a seguinte lei de formação: bn+1 = bn + an, sendo n > 0 um número natural.\nPor exemplo, se $1_{1}$ = 0 e (an) = (1,3,5,7,9,11, ...), tem-se (bn) = (0,1,4,9,16,25, ...).\nCom base em tais informações, os valores de $1_{1}$ e r foram escolhidos de forma que (bn) também seja uma progressão aritmética de razão r'. Nessas condições, é correto afirmar:",
       subItens: []
     },
-    options: ["r' = a1","r' = 2a1","r' = r","r' = 2r","r' = b1 - a1"],
+    options: ["r' = $1_{1}$","r' = 2a1","r' = r","r' = 2r","r' = $1_{1}$ - $1_{1}$"],
     correctAnswer: 0,
     materia: "Matemática – Progressões Aritméticas",
     conteudo: "Matemática – Sequências Numéricas",
@@ -1067,10 +1068,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "A reação do antibiótico sulfanilamida com halogênios leva à reação de substituição com o halogênio em duas posições distintas do anel aromático, como representado na equação não balanceada a seguir.\nNH2-C6H4-SO2NH2 + Br2 -> NH2-C6H2Br2-SO2NH2 + subproduto (unbalanced equation)\nEm um experimento, 1 L de uma solução de sulfanilamida de pH 5 reagiu com Br2 em excesso, obtendo-se pH 4 após reação total. Considerando que o volume se manteve inalterado após a adição do halogênio, quantos mols de sulfanilamida reagiram com bromo?",
+      principal: "A reação do antibiótico sulfanilamida com halogênios leva à reação de substituição com o halogênio em duas posições distintas do anel aromático, como representado na equação não balanceada a seguir.\$1_{2}$-$1_{6}H_{4}$-SO2NH2 + Br$$2 \rightarrow NH_{2}$$-C6H2Br2-SO2NH2 + subproduto (unbalanced equation)\nEm um experimento, 1 L de uma solução de sulfanilamida de pH 5 reagiu com $1_{2}_{}$ em excesso, obtendo-se pH 4 após reação total. Considerando que o volume se manteve inalterado após a adição do halogênio, quantos mols de sulfanilamida reagiram com bromo?",
       subItens: []
     },
-    options: ["4,5 × 10-5","9,0 × 10-5","1,0 × 10-4","5,0 × 10-2","1,0 × 10-1"],
+    options: ["$1 \times 10^{-5}$","$1 \times 10^{-5}$","$1 \times 10^{-4}$","$1 \times 10^{-2}$","$1 \times 10^{-1}$"],
     correctAnswer: 0,
     materia: "Química – Química Orgânica",
     conteudo: "Química – Reações Químicas",
@@ -1082,7 +1083,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de \"foguetes de garrafa PET\", propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio. [1]\nUma mistura de vinagre (que contém ácido acético, CH3COOH) com bicarbonato de sódio (NaHCO3) produz gás carbônico (CO2) por meio da reação química representada pela seguinte equação:\nCH3COOH + NaHCO3 -> CH3COONa + CO2 + H2O\nA reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume Vco2 e exercerá uma pressão Pco2 sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504 (2018). Disponível em http://dx.doi.org/10.1590/1806-9126-RBEF-2017-0340.\nSuponha que a reação produza 2 mols de CO2 para cada 3 litros de vinagre. Nas condições do experimento, em que o volume de líquido é 1/3 de litro à temperatura T = 300 K, a pressão Pco2 medida pelo manômetro será por volta de\nNote e adote:\nConsidere o CO2 como um gás ideal.\nConstante dos gases ideais: R = 0,08 atm.L/(K.mol).\nAssuma que todo o ácido acético do vinagre reagiu com o bicarbonato de sódio e que o líquido resultante da reação ocupa aproximadamente o mesmo volume do vinagre antes da reação (Vvin).",
+      principal: "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de \"foguetes de garrafa PET\", propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio. [1]\nUma mistura de vinagre (que contém ácido acético, CH3COOH) com bicarbonato de sódio ($1_{3}$) produz gás carbônico ($1_{2}$) por meio da reação química representada pela seguinte equação:\nCH3COOH + Na$$HCO_{3} \rightarrow CH_{3}COON$$a + $1_{2}$ + $1_{2}O_{}$\nA reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume $1_{2}_{}$ e exercerá uma pressão $1_{2}_{}$ sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, $1_{3504}$ (2018). Disponível em http://dx.doi.org/10.1590/1806-9126-RBEF-2017-0340.\nSuponha que a reação produza 2 mols de $1_{2}$ para cada 3 litros de vinagre. Nas condições do experimento, em que o volume de líquido é 1/3 de litro à temperatura T = 300 K, a pressão $1_{2}_{}$ medida pelo manômetro será por volta de\nNote e adote:\nConsidere o $1_{2}$ como um gás ideal.\nConstante dos gases ideais: R = 0,08 atm.L/(K.mol).\nAssuma que todo o ácido acético do vinagre reagiu com o bicarbonato de sódio e que o líquido resultante da reação ocupa aproximadamente o mesmo volume do vinagre antes da reação (Vvin).",
       subItens: []
     },
     options: ["3,2 atm.","4,1 atm.","6,2 atm.","9,0 atm.","12 atm."],
@@ -1127,10 +1128,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Considere um cilindro C de altura h > 0 e cujo raio das circunferências, do topo e da base, é r > 0; um cilindro C1 cujo raio é igual ao de C e altura igual a h/2; e um cilindro C2 com altura h e raio igual a r/2.\nSendo V, V1 e V2 os volumes e A, A1 e A2 as áreas laterais dos cilindros C, C1 e C2, respectivamente, é correto afirmar:",
+      principal: "Considere um cilindro C de altura h > 0 e cujo raio das circunferências, do topo e da base, é r > 0; um cilindro $1_{1}_{}$ cujo raio é igual ao de C e altura igual a h/2; e um cilindro $1_{2}_{}$ com altura h e raio igual a r/2.\nSendo V, $1_{1}_{}$ e $1_{2}_{}$ os volumes e A, $1_{1}_{}$ e $1_{2}_{}$ as áreas laterais dos cilindros C, $1_{1}_{}$ e $1_{2}_{}$, respectivamente, é correto afirmar:",
       subItens: []
     },
-    options: ["V = V1 + V2 e A = A1 + A2","V = V1 + V2 e A = A1 + 2A2","V = V1 + 2V2 e A = A1 + 2A2","V = V1 + 2V2 e A = A1 + A2","V = 2V1 + 2V2 e A = 2A1 + 2A2"],
+    options: ["V = $1_{1}_{}$ + $1_{2}_{}$ e A = $1_{1}_{}$ + $1_{2}_{}$","V = $1_{1}_{}$ + $1_{2}_{}$ e A = $1_{1}_{}$ + 2A2","V = $1_{1}_{}$ + 2V2 e A = $1_{1}_{}$ + 2A2","V = $1_{1}_{}$ + 2V2 e A = $1_{1}_{}$ + $1_{2}_{}$","V = 2V1 + 2V2 e A = 2A1 + 2A2"],
     correctAnswer: 3,
     materia: "Matemática – Geometria Espacial",
     conteudo: "Matemática – Volume de Sólidos Geométricos",
@@ -1142,7 +1143,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Em relação ao plano cartesiano Oxy, é correto afirmar que as equações x^2 + y^2 – 4x = -3 e x^2 + y^2 – 4y = -3 representam",
+      principal: "Em relação ao plano cartesiano Oxy, é correto afirmar que as equações $1^{2}$ + $1^{2}$ – 4x = -3 e $1^{2}$ + $1^{2}$ – 4y = -3 representam",
       subItens: []
     },
     options: ["duas circunferências com raios de mesma medida e que se interceptam em dois pontos.","duas circunferências com raios de medidas diferentes e que se interceptam em dois pontos.","duas circunferências que se interceptam em um único ponto.","duas circunferências concêntricas e que não se interceptam.","duas circunferências com centros distintos e que não se interceptam."],
@@ -1345,4 +1346,4 @@ createQuestion({
     materia: "Arte – Música Brasileira",
     conteudo: "História – Estado Novo",
     imageNames: []
-  })
+  }),

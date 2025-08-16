@@ -378,7 +378,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2024,
     text: {
-      principal: "Investigações da Polícia Federal revelaram que garimpeiros usaram cianeto para extrair ouro em um garimpo ilegal em terras da União. O íon cianeto possui elevada toxicidade e, se despejado no ambiente, é devastador, podendo levar à morte todos os seres vivos num raio de quilômetros. O cianeto de sódio é utilizado para dissolver ouro incrustado em minérios, num processo com eficiência próxima a 100%, segundo a equação:\n4 Au(minério) + 8 NaCN(aq) + O₂(g) + 2 H₂O(l) → 4 Na[Au(CN)₂](aq) + 4 NaOH(aq)\nA espécie química solúvel [Au(CN)₂]⁻ é posteriormente imobilizada sobre carvão ativado, e o ouro é recuperado por redução eletroquímica:\n[Au(CN)₂]⁻(aq) + e⁻ → Au(s) + 2 CN⁻(aq)\nDados: Massa molar (g mol⁻¹): Au = 197, NaCN = 49.\nConsiderando a estequiometria das reações, qual é a massa de ouro que se espera extrair, utilizando-se 1 kg de cianeto de sódio?",
+      principal: "Investigações da Polícia Federal revelaram que garimpeiros usaram cianeto para extrair ouro em um garimpo ilegal em terras da União. O íon cianeto possui elevada toxicidade e, se despejado no ambiente, é devastador, podendo levar à morte todos os seres vivos num raio de quilômetros. O cianeto de sódio é utilizado para dissolver ouro incrustado em minérios, num processo com eficiência próxima a 100%, segundo a equação:\$1_{4}$ Au(minério) + 8 NaCN(aq) + O₂(g) + 2 H₂O(l) → 4 Na[Au(CN)₂](aq) + 4 NaOH(aq)\nA espécie química solúvel [Au(CN)₂]⁻ é posteriormente imobilizada sobre carvão ativado, e o ouro é recuperado por redução eletroquímica:\n[Au(CN)₂]⁻(aq) + e⁻ → Au(s) + 2 CN⁻(aq)\nDados: Massa molar (g mol⁻¹): Au = 197, NaCN = 49.\nConsiderando a estequiometria das reações, qual é a massa de ouro que se espera extrair, utilizando-se 1 kg de cianeto de sódio?",
       subItens: []
     },
     options: ["0,25 kg","0,50 kg","1,0 kg","2,0 kg","4,0 kg"],
@@ -441,7 +441,7 @@ createQuestion({
       principal: "Sobre os princípios da hereditariedade, assinale a alternativa correta.",
       subItens: []
     },
-    options: ["Os traços que Mendel denominou como recessivos se manifestavam nas plantas híbridas de F1, enquanto os dominantes reapareciam em F2.","Nas ervilhas, Mendel observou fenótipos que decorriam de variações alélicas em apenas um gene, porém, em condições naturais, os fenótipos são resultado da interação de alelos de diversos genes com condições ambientais.","Um heterozigoto Aa irá produzir em maior número gametas portando o alelo A e, em menor número, gametas contendo a como resultado da separação das cromátides irmãs na meiose.","Uma planta diíbrida AaBb irá produzir gametas contendo as combinações alélicas Aa e Bb em proporções iguais como resultado da separação das cromátides irmãs na meiose.","O crossing-over que ocorre em uma planta diíbrida AaBb possibilita que os gametas gerados contenham todas as possíveis combinações desses alelos, aumentando a variabilidade genética."],
+    options: ["Os traços que Mendel denominou como recessivos se manifestavam nas plantas híbridas de $1_{1}_{}$, enquanto os dominantes reapareciam em $1_{2}_{}$.","Nas ervilhas, Mendel observou fenótipos que decorriam de variações alélicas em apenas um gene, porém, em condições naturais, os fenótipos são resultado da interação de alelos de diversos genes com condições ambientais.","Um heterozigoto Aa irá produzir em maior número gametas portando o alelo A e, em menor número, gametas contendo a como resultado da separação das cromátides irmãs na meiose.","Uma planta diíbrida AaBb irá produzir gametas contendo as combinações alélicas Aa e Bb em proporções iguais como resultado da separação das cromátides irmãs na meiose.","O crossing-over que ocorre em uma planta diíbrida AaBb possibilita que os gametas gerados contenham todas as possíveis combinações desses alelos, aumentando a variabilidade genética."],
     correctAnswer: 2,
     materia: "Biologia – Genética",
     conteudo: "Biologia – Hereditariedade",
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2024,
     text: {
-      principal: "Quarto de despejo, de Carolina Maria de Jesus, apresenta o relato de sua vida na favela, na forma de um diário. Considerando o trecho seguinte e a integridade do livro, assinale a alternativa correta.\n3 de fevereiro (1959) Tenho de dizer que não escrevi nos dias que decorreram porque eu fiquei doente. Vou recapitular o que ocorreu comigo nestes dias (...) A Fernanda veio e perguntou-me se eu sei onde está o cigano. É a mesma coisa que ela perguntar-me onde é a casa do vento.\nDisse que ele é muito bonito e que ela ia lá comprar pimenta só para vê-lo.\nDurante os dias que eu estive doente o senhor Manoel não me deixou sem dinheiro.",
+      principal: "Quarto de despejo, de Carolina Maria de Jesus, apresenta o relato de sua vida na favela, na forma de um diário. Considerando o trecho seguinte e a integridade do livro, assinale a alternativa correta.\$1_{3}$ de fevereiro (1959) Tenho de dizer que não escrevi nos dias que decorreram porque eu fiquei doente. Vou recapitular o que ocorreu comigo nestes dias (...) A Fernanda veio e perguntou-me se eu sei onde está o cigano. É a mesma coisa que ela perguntar-me onde é a casa do vento.\nDisse que ele é muito bonito e que ela ia lá comprar pimenta só para vê-lo.\nDurante os dias que eu estive doente o senhor Manoel não me deixou sem dinheiro.",
       subItens: []
     },
     options: ["Cigano pede Carolina em casamento, depois de ele ter lido a reportagem sobre ela publicada na revista O cruzeiro.","Senhor Manoel é descrito como um homem igual aos demais moradores da favela e por isso Carolina se recusa a aceitar a afeição dele por ela.","O pai de Vera Eunice pede muitas vezes à Carolina para ter seu nome citado nos diários dela.","Orlando Lopes promove uma festa para receber Carolina na favela, após a publicação da reportagem.","As poesias de Carolina que estão no livro tratam do cotidiano e de sentimentos experimentados por ela."],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2024,
     text: {
-      principal: "A respeito de O livro das semelhanças, de Ana Martins Marques, considere as seguintes afirmativas:\n1. A obra possui caráter explicitamente confessional, o que se materializa na forma dos poemas, que simulam registros de um diário pessoal.\n2. O livro está dividido em quatro partes, \"Livro\", \"Cartografias\", \"Visitas ao lugar-comum\" e \"O livro das semelhanças\", sendo a última a mais longa delas.\n3. A seção intitulada \"Livro\" possui um aspecto metaliterário, organizando-se conforme a estrutura de um livro de poemas.\n4. Os poemas desta obra se caracterizam pelo emprego de métrica e de esquemas de rimas regulares.\nAssinale a alternativa correta.",
+      principal: "A respeito de O livro das semelhanças, de Ana Martins Marques, considere as seguintes afirmativas:\$1_{1}$. A obra possui caráter explicitamente confessional, o que se materializa na forma dos poemas, que simulam registros de um diário pessoal.\$1_{2}$. O livro está dividido em quatro partes, \"Livro\", \"Cartografias\", \"Visitas ao lugar-comum\" e \"O livro das semelhanças\", sendo a última a mais longa delas.\$1_{3}$. A seção intitulada \"Livro\" possui um aspecto metaliterário, organizando-se conforme a estrutura de um livro de poemas.\$1_{4}$. Os poemas desta obra se caracterizam pelo emprego de métrica e de esquemas de rimas regulares.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: ["Somente a afirmativa 1 é verdadeira.","Somente as afirmativas 2 e 3 são verdadeiras.","Somente as afirmativas 3 e 4 são verdadeiras.","Somente as afirmativas 1, 2 e 4 são verdadeiras.","As afirmativas 1, 2, 3 e 4 são verdadeiras."],
@@ -1338,7 +1338,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2024,
     text: {
-      principal: "Consider the following sentences about the building of the Royal Collections Gallery:\n1. It has eight floors.\n2. It has won several architecture awards.\n3. It has no wood in its construction.\n4. It is placed on the top of a hill with a view of the impressive Casa de Campo park.\nMark the correct alternative.",
+      principal: "Consider the following sentences about the building of the Royal Collections Gallery:\$1_{1}$. It has eight floors.\$1_{2}$. It has won several architecture awards.\$1_{3}$. It has no wood in its construction.\$1_{4}$. It is placed on the top of a hill with a view of the impressive Casa de Campo park.\nMark the correct alternative.",
       subItens: []
     },
     options: ["Only affirmative 3 is correct.","Only affirmatives 1 and 2 are correct.","Only affirmatives 3 and 4 are correct.","Only affirmatives 1, 2 and 4 are correct.","Affirmatives 1, 2, 3 and 4 are correct."],

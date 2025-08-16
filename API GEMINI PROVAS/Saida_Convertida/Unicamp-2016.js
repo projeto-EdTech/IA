@@ -3,7 +3,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "O gráfico abaixo exibe o lucro líquido (em milhares de reais) de três pequenas empresas A, B e C, nos anos de 2013 e 2014.\n\nLucro Líquido (milhares de reais)\n600\n500\nA\n400\nB\n300\n200\nC\n100\n2013\nAno\n2014\n\nCom relação ao lucro líquido, podemos afirmar que",
+      principal: "O gráfico abaixo exibe o lucro líquido (em milhares de reais) de três pequenas empresas A, B e C, nos anos de 2013 e 2014.\n\nLucro Líquido (milhares de reais)\$1_{600}$\$1_{500}$\nA\$1_{400}$\nB\$1_{300}$\$1_{200}$\nC\$1_{100}$\$1_{2013}$\nAno\$1_{2014}$\n\nCom relação ao lucro líquido, podemos afirmar que",
       subItens: []
     },
     options: ["A teve um crescimento maior do que C.","C teve um crescimento maior do que B.","B teve um crescimento igual a A.","C teve um crescimento menor do que B."],
@@ -123,7 +123,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Considere a matriz quadrada de ordem 3,\n\nA=\n\nCOS X\n0\nsen x\n\n- sen x\n1\n0\n\n0\n0\nCOS X\n\nonde x é um número real.\n\nPodemos afirmar que",
+      principal: "Considere a matriz quadrada de ordem 3,\n\nA=\n\nCOS X\$1_{0}$\nsen x\n\n- sen x\$1_{1}$\$1_{0}$\n\$1_{0}$\$1_{0}$\nCOS X\n\nonde x é um número real.\n\nPodemos afirmar que",
       subItens: []
     },
     options: ["A não é invertível para nenhum valor de x.","A é invertível para um único valor de x.","A é invertível para exatamente dois valores de x.","A é invertível para todos os valores de x."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "\"O Rio civiliza-se!\" eis a exclamação que irrompe de todos os peitos cariocas. Temos a Avenida Central, a Avenida Beira Mar (os nossos Campos Elíseos), estátuas em toda a parte, cafés e confeitarias (...), um assassinato por dia, um escândalo por semana, cartomantes, médiuns, automóveis, autobus, autores dramáticos, grandmonde, demi-monde, enfim todos os apetrechos das grandes capitais.\n\n(\"O Chat Noir\", em Fon-Fon! Nº 41, 1907. Extraído de www.objdigital.bn.br/acervo_digital/div_periodicos/fonfon/fonfon1907.)\n\nA partir do excerto, que se refere ao período da Belle Époque no Brasil, no início do século XX, é correto afirmar que:",
+      principal: "\"O Rio civiliza-se!\" eis a exclamação que irrompe de todos os peitos cariocas. Temos a Avenida Central, a Avenida Beira Mar (os nossos Campos Elíseos), estátuas em toda a parte, cafés e confeitarias (...), um assassinato por dia, um escândalo por semana, cartomantes, médiuns, automóveis, autobus, autores dramáticos, grandmonde, demi-monde, enfim todos os apetrechos das grandes capitais.\n\n(\"O Chat Noir\", em Fon-Fon! Nº 41, 1907. Extraído de www.objdigital.bn.br/acervo_digital/div_periodicos/fonfon/$1_{1907}$.)\n\nA partir do excerto, que se refere ao período da Belle Époque no Brasil, no início do século XX, é correto afirmar que:",
       subItens: []
     },
     options: ["O Rio de Janeiro procurava apagar aspectos da época do Império e impulsionar a cultura francesa, renegada por D. Pedro II.","A cidade expressava as contradições de um processo de transformações urbanas, sociais e políticas nas primeiras décadas da República.","Os costumes franceses eram elementos incorporados pela sociedade carioca como sinônimo da modernização republicana obtida pelo tenentismo.","A modernização representou um processo de exclusão social e cultural, patrocinado pelo governo francês, que financiava obras públicas e impunha os produtos franceses à população brasileira."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Sistema de Cabotagem no Brasil\n\n[Imagem de mapa do Brasil com rotas de cabotagem]\n\n(Fonte: http://www2.transportes.gov.br/bit/05-mar/cabotagem.html.)\n\nSobre o papel da cabotagem no processo de formação do território brasileiro, é correto afirmar:",
+      principal: "Sistema de Cabotagem no Brasil\n\n[Imagem de mapa do Brasil com rotas de cabotagem]\n\n(Fonte: http://$1_{2}$.transportes.gov.br/bit/05-mar/cabotagem.html.)\n\nSobre o papel da cabotagem no processo de formação do território brasileiro, é correto afirmar:",
       subItens: []
     },
     options: ["A cabotagem viabilizou o comércio marítimo entre os principais portos do território no período colonial. Todavia, esse sistema de transporte veio a encerrar suas atividades no final do século XIX, quando o transporte ferroviário passou a responder por todas as trocas interprovinciais.","A cabotagem consistiu num primitivo sistema de transportes do início da colonização, articulando os portos das principais cidades. Trata-se de um elemento primordial para a formação do território brasileiro, pois permitiu sua precoce unificação e completa articulação inter-regional.","A cabotagem teve importante papel no longo processo de formação do território brasileiro, transportando pessoas, mercadorias e informações entre os principais portos desde o período colonial. No século XX, perdeu importância para o sistema de transporte rodoviário.","A cabotagem foi implantada no Brasil no final do século XIX, fazendo uso de modernos navios a vapor para articular o comércio interprovincial. Atualmente, concorre com os sistemas ferroviário e rodoviário para transportar cargas, particularmente aquelas conteinerizadas."],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Leia o poema \"Mar Português\", de Fernando Pessoa.\n\nMAR PORTUGUÊS\n\nÓ mar salgado, quanto do teu sal\nSão lágrimas de Portugal!\nPor te cruzarmos, quantas mães choraram,\nQuantos filhos em vão rezaram!\nQuantas noivas ficaram por casar\nPara que fosses nosso, ó mar!\n\nValeu a pena? Tudo vale a pena\nSe a alma não é pequena.\nQuem quer passar além do Bojador\nTem que passar além da dor.\nDeus ao mar o perigo e o abismo deu,\nMas nele é que espelhou o céu.\n\n(Disponível em http://www.jornaldepoesia.jor.br/fpesso03.html.)\n\nNo poema, a apóstrofe, uma figura de linguagem, indica que o enunciador",
+      principal: "Leia o poema \"Mar Português\", de Fernando Pessoa.\n\nMAR PORTUGUÊS\n\nÓ mar salgado, quanto do teu sal\nSão lágrimas de Portugal!\nPor te cruzarmos, quantas mães choraram,\nQuantos filhos em vão rezaram!\nQuantas noivas ficaram por casar\nPara que fosses nosso, ó mar!\n\nValeu a pena? Tudo vale a pena\nSe a alma não é pequena.\nQuem quer passar além do Bojador\nTem que passar além da dor.\nDeus ao mar o perigo e o abismo deu,\nMas nele é que espelhou o céu.\n\n(Disponível em http://www.jornaldepoesia.jor.br/$1_{03}$.html.)\n\nNo poema, a apóstrofe, uma figura de linguagem, indica que o enunciador",
       subItens: []
     },
     options: ["convoca o mar a refletir sobre a história das navegações portuguesas.","apresenta o mar como responsável pelo sofrimento do povo português.","revela ao mar sua crítica às ações portuguesas no período das navegações.","projeta no mar sua tristeza com as consequências das conquistas de Portugal."],
@@ -858,7 +858,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Um osciloscópio é um instrumento muito útil no estudo da variação temporal dos sinais elétricos em circuitos. No caso de um circuito de corrente alternada, a diferença de potencial (U) e a corrente do circuito (i) variam em função do tempo. Considere um circuito com dois resistores R₁ e R2 em série, alimentados por uma fonte de tensão alternada. A diferença de potencial nos terminais de cada resistor observada na tela do osciloscópio é representada pelo gráfico abaixo. Analisando o gráfico, pode-se afirmar que a amplitude e a frequência da onda que representa a diferença de potencial nos terminais do resistor de maior resistência são, respectivamente, iguais a",
+      principal: "Um osciloscópio é um instrumento muito útil no estudo da variação temporal dos sinais elétricos em circuitos. No caso de um circuito de corrente alternada, a diferença de potencial (U) e a corrente do circuito (i) variam em função do tempo. Considere um circuito com dois resistores R₁ e $1_{2}_{}$ em série, alimentados por uma fonte de tensão alternada. A diferença de potencial nos terminais de cada resistor observada na tela do osciloscópio é representada pelo gráfico abaixo. Analisando o gráfico, pode-se afirmar que a amplitude e a frequência da onda que representa a diferença de potencial nos terminais do resistor de maior resistência são, respectivamente, iguais a",
       subItens: []
     },
     options: ["4 V e 2,5 Hz.","8 V e 2,5 Hz.","4 V e 400 Hz.","8 V e 400 Hz."],
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A concentração de CO2 na atmosfera em uma floresta varia ao longo de um dia e está intimamente associada com a fisiologia (fotossíntese e respiração) das espécies presentes. A concentração de CO2 na atmosfera também varia em função da disponibilidade de água no ambiente. Considerando o gráfico abaixo, é correto afirmar que\n\n[Gráfico de fluxo de CO2 vs. horário]",
+      principal: "A concentração de $1_{2}$ na atmosfera em uma floresta varia ao longo de um dia e está intimamente associada com a fisiologia (fotossíntese e respiração) das espécies presentes. A concentração de $1_{2}$ na atmosfera também varia em função da disponibilidade de água no ambiente. Considerando o gráfico abaixo, é correto afirmar que\n\n[Gráfico de fluxo de $1_{2}$ vs. horário]",
       subItens: []
     },
     options: ["a fotossíntese das plantas é maior no início e no final do período diurno.","as plantas respiram mais na estação chuvosa.","na estação seca, há um pico de respiração às 12 horas.","as plantas fazem mais fotossíntese e respiram menos na estação chuvosa."],
@@ -1131,7 +1131,7 @@ createQuestion({
       principal: "A preocupação com a emissão de gases poluentes no meio ambiente está muito presente na indústria automobilística. Recentemente, uma das soluções encontradas para contornar esse problema nos veículos movidos a Diesel foi o desenvolvimento do Arla 32, uma solução de ureia em água, que atua nos sistemas de exaustão, de acordo com as equações químicas abaixo:\n\nCO(NH₂)₂ + H₂O → 2NH₃ + CO₂\n4NH₃ + 4NO + O₂ → 4N₂ + 6H₂O\n4NH₃ + 2NO₂ + O₂ → 3N₂ + 6H₂O.\n\nCom base nessas informações, pode-se afirmar corretamente que a ação do Arla 32 leva a uma redução",
       subItens: []
     },
-    options: ["da emissão das espécies NOx, e não contribui para a poluição atmosférica.","completa do NO e apenas da metade do NO2 emitido, mas contribui para a poluição atmosférica.","completa do NO, mas somente reduz a emissão de NO2 depois que acabar o NO, e não contribui para a poluição atmosférica.","da emissão das espécies NOx, mas contribui para a poluição atmosférica."],
+    options: ["da emissão das espécies NOx, e não contribui para a poluição atmosférica.","completa do NO e apenas da metade do $1_{2}$ emitido, mas contribui para a poluição atmosférica.","completa do NO, mas somente reduz a emissão de $1_{2}$ depois que acabar o NO, e não contribui para a poluição atmosférica.","da emissão das espécies NOx, mas contribui para a poluição atmosférica."],
     correctAnswer: 3,
     materia: "Química – Química Ambiental",
     conteudo: "Química – Reações Químicas",
@@ -1218,7 +1218,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A tira tematiza a contribuição da atividade humana para a deterioração do meio ambiente. Do diálogo apresentado, pode-se depreender que os ursos já sabiam\n\n[Charge de ursos polares conversando sobre poluição]\n\n(Fonte: http://www.caglecartoons.com/viewimage.asp?ID={15E52E8D-3CE2-4DF6-B331-D109F2DD2BBC}.)",
+      principal: "A tira tematiza a contribuição da atividade humana para a deterioração do meio ambiente. Do diálogo apresentado, pode-se depreender que os ursos já sabiam\n\n[Charge de ursos polares conversando sobre poluição]\n\n(Fonte: http://www.caglecartoons.com/viewimage.asp?ID={15E52E8D-3CE2-4DF6-$1_{331}_{}$-D109F2DD2BBC}.)",
       subItens: []
     },
     options: ["do aumento do pH dos mares e acabam de constatar o abaixamento do nível dos mares.","da diminuição do pH dos mares e acabam de constatar o aumento do nível dos mares.","do aumento do nível dos mares e acabam de constatar o abaixamento do pH dos mares.","da diminuição do nível dos mares e acabam de constatar o aumento do pH dos mares."],

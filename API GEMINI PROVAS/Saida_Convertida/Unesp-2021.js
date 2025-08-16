@@ -798,7 +798,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "O método matemático a seguir é utilizado no cálculo por trilateração.\nP = (ux, uy):\n(ux − x₁)² + (uy − y₁)² = r₁², sendo M₁ (x1, y₁)\n(ux – x2)² + (uy - Y₂)² = r₂², sendo M2 (X2, У2)\n(ux – x3)² + (uy – y3)² = r32, sendo M3 (X3, Уз)\n[Diagrama de três círculos se cruzando em um ponto P, com centros M1, M2, M3.]\nEsse cálculo permite",
+      principal: "O método matemático a seguir é utilizado no cálculo por trilateração.\nP = (ux, uy):\n(ux − x₁)² + (uy − y₁)² = r₁², sendo M₁ ($1_{1}$, y₁)\n(ux – $1_{2}$)² + (uy - Y₂)² = r₂², sendo $1_{2}_{}$ ($1_{2}_{}$, У2)\n(ux – $1_{3}$)² + (uy – $1_{3}$)² = $1_{32}$, sendo $1_{3}_{}$ ($1_{3}_{}$, Уз)\n[Diagrama de três círculos se cruzando em um ponto P, com centros $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$.]\nEsse cálculo permite",
       subItens: []
     },
     options: ["obter a área do setor circular a partir de um ângulo central, princípio do sensoriamento remoto.","localizar um ponto a partir de referências conhecidas, princípio do sistema de posicionamento global.","determinar a altitude de um ponto a partir de pontos de intersecção, princípio da hipsometria.","representar uma superfície plana a partir de uma superfície esférica, princípio das projeções cartográficas.","criar linhas imaginárias de meridianos e de paralelos a partir da distância entre os raios, princípio das coordenadas geográficas."],
@@ -918,7 +918,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "Os seres vivos contribuem para a ciclagem do carbono na natureza por meio da oxidação ou redução desse elemento químico presente em moléculas orgânicas ou inorgânicas. As equações das reações químicas a seguir remetem a processos biológicos que convertem compostos de carbono.\nC6H12O6 + 602 → 6CO2 + 6H2O\n6CO2 + 6H2O → C6H12O6 + 602\nC6H12O6 → 2C2H5OH + 2CO2\nC2H5OH + O2 → CH3COOH + H2O\nNessas reações químicas, o carbono é reduzido com menor transferência de elétrons na",
+      principal: "Os seres vivos contribuem para a ciclagem do carbono na natureza por meio da oxidação ou redução desse elemento químico presente em moléculas orgânicas ou inorgânicas. As equações das reações químicas a seguir remetem a processos biológicos que convertem compostos de carbono.\nC6H12O6 + 602 → 6CO2 + 6H2O\n6CO2 + 6H2O → C6H12O6 + 602\nC6H12O6 → 2C2H5OH + 2CO2\nC2H5OH + $1_{2}_{}$ → CH3COOH + $1_{2}O_{}$\nNessas reações químicas, o carbono é reduzido com menor transferência de elétrons na",
       subItens: []
     },
     options: ["quimiossíntese.","fotossíntese.","respiração celular.","fermentação alcoólica.","fermentação acética."],
@@ -1038,7 +1038,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "Analise as equações termoquímicas.\nC (s) + 3/2 O2 (g) + Ca (s) → CaCO3 (s) ; ∆H = −1 207 kJ/mol\nC (s) + O2 (g) → CO2 (g) ; ∆H = −394 kJ/mol\nCa (s) + 1/2 O2 (g) → CaO (s) ; ∆H = 634 kJ/mol\nA partir dessas equações, pode-se prever que o ∆H da reação de decomposição do calcário que produz cal viva (cal virgem) e dióxido de carbono seja igual a",
+      principal: "Analise as equações termoquímicas.\nC (s) + 3/2 $1_{2}_{}$ (g) + Ca (s) → $1_{3}$ (s) ; ∆H = −1 207 kJ/mol\nC (s) + $1_{2}_{}$ (g) → $1_{2}$ (g) ; ∆H = −394 kJ/mol\nCa (s) + 1/2 $1_{2}_{}$ (g) → CaO (s) ; ∆H = 634 kJ/mol\nA partir dessas equações, pode-se prever que o ∆H da reação de decomposição do calcário que produz cal viva (cal virgem) e dióxido de carbono seja igual a",
       subItens: []
     },
     options: ["+573 kJ/mol.","+1601 kJ/mol.","-2235 kJ/mol.","-1028 kJ/mol.","+179 kJ/mol."],
@@ -1053,10 +1053,10 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "O álcool isopropílico (CH3CH(OH)CH3), entre outras aplicações, é empregado na limpeza de circuitos eletrônicos. Em um experimento, um estudante utilizou um frasco conta-gotas com álcool isopropílico a 20 °C e verificou que eram necessárias 65 gotas desse álcool para perfazer o volume de 2 mL. Sabendo que a densidade do álcool isopropílico nessa temperatura é aproximadamente 0,8 g/mL, a quantidade desse álcool, em mol de moléculas, presente em cada gota é próxima de",
+      principal: "O álcool isopropílico (CH3CH(OH)$1_{3}$), entre outras aplicações, é empregado na limpeza de circuitos eletrônicos. Em um experimento, um estudante utilizou um frasco conta-gotas com álcool isopropílico a 20 °C e verificou que eram necessárias 65 gotas desse álcool para perfazer o volume de 2 mL. Sabendo que a densidade do álcool isopropílico nessa temperatura é aproximadamente 0,8 g/mL, a quantidade desse álcool, em mol de moléculas, presente em cada gota é próxima de",
       subItens: []
     },
-    options: ["1 x 10-2 mol.","4 x 10-3 mol.","3 × 10-5 mol.","3 × 10-6 mol.","4 x 10-4 mol."],
+    options: ["$1 \times 10^{-2}$ mol.","$1 \times 10^{-3}$ mol.","$1 \times 10^{-5}$ mol.","$1 \times 10^{-6}$ mol.","$1 \times 10^{-4}$ mol."],
     correctAnswer: 4,
     materia: "Química – Estequiometria",
     conteudo: "Química – Concentrações",
@@ -1068,7 +1068,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "A solução aquosa de anilina é básica devido à ocorrência do equilíbrio:\nKh\nC6H5NH2 (aq) + H2O (l) <=> C6H5NH3+ (aq) + OH¯ (aq)\nSabe-se que Kw ≈ 4 × 10−10 a 25 °C e que o valor de pH de uma solução aquosa saturada de anilina a 25 °C é próximo de 9. Com base nessas informações e sabendo que Kw nessa temperatura é igual a 1 × 10-14, a concentração aproximada da solução saturada de anilina a 25 °C é",
+      principal: "A solução aquosa de anilina é básica devido à ocorrência do equilíbrio:\nKh\nC6H5NH2 (aq) + $1_{2}O_{}$ (l) \le> C6H5NH3+ (aq) + OH¯ (aq)\nSabe-se que Kw ≈ 4 × 10−10 a 25 °C e que o valor de pH de uma solução aquosa saturada de anilina a 25 °C é próximo de 9. Com base nessas informações e sabendo que Kw nessa temperatura é igual a $1 \times 10^{-14}$, a concentração aproximada da solução saturada de anilina a 25 °C é",
       subItens: []
     },
     options: ["0,02 mol/L.","0,5 mol/L.","0,1 mol/L.","0,3 mol/L.","0,8 mol/L."],
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "As bacteriorrizas são exemplos de associações simbióticas entre bactérias e raízes de plantas leguminosas. Essas bactérias fixam o nitrogênio atmosférico (N₂), transformando-o em amônia (NH3). Nessa transformação, o número de oxidação do elemento nitrogênio é alterado de",
+      principal: "As bacteriorrizas são exemplos de associações simbióticas entre bactérias e raízes de plantas leguminosas. Essas bactérias fixam o nitrogênio atmosférico (N₂), transformando-o em amônia ($1_{3}$). Nessa transformação, o número de oxidação do elemento nitrogênio é alterado de",
       subItens: []
     },
     options: ["+2 para -3, sendo reduzido.","+2 para +1, sendo reduzido.","0 para +3, sendo oxidado.","0 para +1, sendo oxidado.","0 para -3, sendo reduzido."],
@@ -1203,7 +1203,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "Desenvolvida em 1935 por Charles F. Richter, com a colaboração de Beno Gutenberg, a escala Richter permite determinar a magnitude (M) de um terremoto, fenômeno que libera uma grande quantidade de energia (E) que se propaga pela Terra em todas as direções. A magnitude e a energia de um terremoto podem ser relacionadas pela expressão a seguir, em que E é expressa em erg, uma unidade de medida de energia do sistema CGS.\nlogE = 11,8 + 1,5M\nA tabela apresenta os efeitos gerados por um terremoto, de acordo com sua magnitude na escala Richter:\n[Tabela: Magnitude e Efeitos de terremotos, ex: Entre 3,5 e 5,4 - Às vezes é sentido, mas raramente causa danos.]\nNo dia 6 de janeiro de 2020, o sul de Porto Rico foi atingido por um terremoto que liberou uma quantidade de energia E = 10^13.8 J. Considerando a tabela e que 1 erg = 10^-7J, esse terremoto",
+      principal: "Desenvolvida em 1935 por Charles F. Richter, com a colaboração de Beno Gutenberg, a escala Richter permite determinar a magnitude (M) de um terremoto, fenômeno que libera uma grande quantidade de energia (E) que se propaga pela Terra em todas as direções. A magnitude e a energia de um terremoto podem ser relacionadas pela expressão a seguir, em que E é expressa em erg, uma unidade de medida de energia do sistema CGS.\nlogE = 11,8 + 1,5M\nA tabela apresenta os efeitos gerados por um terremoto, de acordo com sua magnitude na escala Richter:\n[Tabela: Magnitude e Efeitos de terremotos, ex: Entre 3,5 e 5,4 - Às vezes é sentido, mas raramente causa danos.]\nNo dia 6 de janeiro de 2020, o sul de Porto Rico foi atingido por um terremoto que liberou uma quantidade de energia E = $1^{13}$.8 J. Considerando a tabela e que 1 erg = 10^-7J, esse terremoto",
       subItens: []
     },
     options: ["foi destrutivo em áreas até 100 km do epicentro.","danificou casas mal construídas em regiões próximas ao epicentro.","não foi sentido e não causou danos.","causou sérios danos em uma grande faixa, sendo considerado um grande terremoto.","causou graves danos em áreas a centenas de quilômetros do epicentro, sendo considerado um enorme terremoto."],

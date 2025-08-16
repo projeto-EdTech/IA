@@ -198,7 +198,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Considere a seguinte figura:\n(Image: A collage of still frames from the movie \"2001, A Space Odyssey\" showing astronaut David Bowman entering the spherical mother ship from a smaller spherical module, without a helmet. Text overlay: \"EMERGENCY HATCH CLOSE\").\nFonte: http://www.aerospaceweb.org/question/atmosphere/q0291.shtml\nA cena resume, fotograficamente, o momento mais marcante do filme \"2001, uma Odisseia no Espaço”, de Stanley Kubrick. É o momento em que o astronauta David Bowman entra na nave-mãe (nave esférica maior) após acoplar, por avizinhamento, seu módulo de voo (nave esférica menor). A cena mostra o astronauta prestes a entrar na nave sem o capacete característico do traje espacial. A cena de entrada dura menos de 10 segundos. É correto afirmar que o astronauta, caso esse fosse um acontecimento real,",
+      principal: "Considere a seguinte figura:\n(Image: A collage of still frames from the movie \"2001, A Space Odyssey\" showing astronaut David Bowman entering the spherical mother ship from a smaller spherical module, without a helmet. Text overlay: \"EMERGENCY HATCH CLOSE\").\nFonte: http://www.aerospaceweb.org/question/atmosphere/$1_{0291}$.shtml\nA cena resume, fotograficamente, o momento mais marcante do filme \"2001, uma Odisseia no Espaço”, de Stanley Kubrick. É o momento em que o astronauta David Bowman entra na nave-mãe (nave esférica maior) após acoplar, por avizinhamento, seu módulo de voo (nave esférica menor). A cena mostra o astronauta prestes a entrar na nave sem o capacete característico do traje espacial. A cena de entrada dura menos de 10 segundos. É correto afirmar que o astronauta, caso esse fosse um acontecimento real,",
       subItens: []
     },
     options: ["morreria ou ficaria seriamente ferido, porque seu corpo poderia implodir com a diferença de pressão com o espaço sideral.","viveria, porque seu corpo conseguiria controlar os processos de embolia, hipertemia e aumento de temperatura.","morreria, porque seria incinerado no espaço.","morreria ou ficaria seriamente ferido, porque, devido à temperatura extremamente baixa e à pressão externa, seu corpo sofreria com o congelamento e com os efeitos de alta pressão corpórea em relação à baixíssima pressão do espaço."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Sobre trigonometria, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. cos(x) = 2 cos² (x/2) - 1.\nII. O valor de (1 + cotg²x)(1 – cos²x), para x ≠ kn, com k inteiro, é igual a 1.\nIII. A medida do arco trigonométrico da 1ª volta positiva, côngruo ao arco de medida -40°, é 40°.\nIV. tg 50°.tg310° < 0.",
+      principal: "Sobre trigonometria, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. cos(x) = 2 cos² (x/2) - 1.\nII. O valor de (1 + cotg²x)(1 – cos²x), para x ≠ kn, com k inteiro, é igual a 1.\nIII. A medida do arco trigonométrico da 1ª volta positiva, côngruo ao arco de medida -40°, é 40°.\nIV. tg 50°.$1_{310}$° < 0.",
       subItens: []
     },
     options: ["Apenas I, II e IV.","Apenas I, II e III.","Apenas I e IV.","Apenas II e III."],
@@ -456,7 +456,7 @@ createQuestion({
       principal: "O formaldeído é um gás incolor, muito solúvel em água, com odor muito forte e irritante. Em geral, é usado como solução aquosa contendo 40% de formaldeído, sendo assim chamado de formol ou formalina. Na medicina, é utilizado como conservador de cadáveres e peças anatômicas, além do uso como desinfetante. De acordo com a estrutura e as propriedades do formaldeído, assinale a alternativa correta.",
       subItens: []
     },
-    options: ["Na presença de um oxidante, em meio ácido, o formaldeído se converte em ácido acético.","O número de oxidação (Nox) correspondente ao átomo de carbono na molécula de formaldeído é igual a +1.","A molécula do formaldeído possui uma ligação pi (π) e três ligações sigma.","A estrutura molecular do formaldeído é a pirâmide trigonal."],
+    options: ["Na presença de um oxidante, em meio ácido, o formaldeído se converte em ácido acético.","O número de oxidação (Nox) correspondente ao átomo de carbono na molécula de formaldeído é igual a +1.","A molécula do formaldeído possui uma ligação \pi (π) e três ligações sigma.","A estrutura molecular do formaldeído é a pirâmide trigonal."],
     correctAnswer: 2,
     materia: "Química – Química Orgânica (Aldeídos)",
     conteudo: "Química – Ligações Químicas",
@@ -468,7 +468,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Para a produção de gás hidrogênio, em um recipiente fechado e à temperatura constante, introduziu-se monóxido de carbono e vapor de água, os quais apresentavam pressões parciais iguais, de 0,90 atm cada. Após um determinado tempo, o equilíbrio químico foi atingido, CO(g) + H2O(g) ⇌ CO2(g) + H2(g), e medindo-se a pressão parcial do monóxido de carbono obteve-se 0,60 atm. Diante dessa afirmação, assinale a alternativa que apresenta o valor da constante de equilíbrio, Kp, para a reação exposta.",
+      principal: "Para a produção de gás hidrogênio, em um recipiente fechado e à temperatura constante, introduziu-se monóxido de carbono e vapor de água, os quais apresentavam pressões parciais iguais, de 0,90 atm cada. Após um determinado tempo, o equilíbrio químico foi atingido, CO(g) + $1_{2}O_{}$(g) ⇌ $1_{2}$(g) + $1_{2}_{}$(g), e medindo-se a pressão parcial do monóxido de carbono obteve-se 0,60 atm. Diante dessa afirmação, assinale a alternativa que apresenta o valor da constante de equilíbrio, Kp, para a reação exposta.",
       subItens: []
     },
     options: ["1/4","1/9","0,44","4,0"],
@@ -486,7 +486,7 @@ createQuestion({
       principal: "Em relação às propriedades de ácidos e bases e às possíveis reações entre eles, assinale a alternativa correta.",
       subItens: []
     },
-    options: ["O hidróxido de alumínio, Al(OH)3, é uma base fraca, porém muito solúvel em água.","A reação entre o ácido fosfórico e o hidróxido de cálcio forma o sal fosfato de cálcio, de fórmula Ca2(PO4)3.","O hidróxido férrico possui a fórmula molecular Fe(OH)2.","A reação entre hidróxido de potássio com hidróxido de sódio e ácido sulfúrico forma o sulfato duplo de potássio e sódio (KNaSO₄)."],
+    options: ["O hidróxido de alumínio, Al(OH)3, é uma base fraca, porém muito solúvel em água.","A reação entre o ácido fosfórico e o hidróxido de cálcio forma o sal fosfato de cálcio, de fórmula $1_{2}_{}$($1_{4}$)3.","O hidróxido férrico possui a fórmula molecular Fe(OH)2.","A reação entre hidróxido de potássio com hidróxido de sódio e ácido sulfúrico forma o sulfato duplo de potássio e sódio (KNaSO₄)."],
     correctAnswer: 1,
     materia: "Química – Funções Inorgânicas (Ácidos e Bases)",
     conteudo: "Química – Reações Químicas (Neutralização)",
@@ -498,7 +498,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "O selênio, um não metal do grupo dos calcogênios, possui extrema importância biológica, pois é um micronutriente indispensável para todas as formas de vida. É formado por átomos que possuem a representação Se79. É correto afirmar que o selênio apresenta",
+      principal: "O selênio, um não metal do grupo dos calcogênios, possui extrema importância biológica, pois é um micronutriente indispensável para todas as formas de vida. É formado por átomos que possuem a representação $1_{79}_{}$. É correto afirmar que o selênio apresenta",
       subItens: []
     },
     options: ["45 partículas nucleares.","113 partículas nucleares.","6 elétrons na camada de valência.","2 elétrons na camada de valência."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Em um balão volumétrico, foram adicionados 60 mL de uma solução de HNO3 de concentração desconhecida e 40 mL de solução de KOH 0,4 mol/L. Sabendo-se que o pH final da mistura é igual a 12, é correto afirmar que a molaridade da solução de ácido nítrico era de",
+      principal: "Em um balão volumétrico, foram adicionados 60 mL de uma solução de $1_{3}$ de concentração desconhecida e 40 mL de solução de KOH 0,4 mol/L. Sabendo-se que o pH final da mistura é igual a 12, é correto afirmar que a molaridade da solução de ácido nítrico era de",
       subItens: []
     },
     options: ["0,1 mol/L.","0,25 mol/L.","0,4 mol/L.","0,55 mol/L."],
@@ -528,10 +528,10 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Considerando as seguintes semirreações, em uma célula galvânica com eletrodos de alumínio e chumbo, é correto afirmar que Al3+ + 3e- ⇄ Al0 E°red = -0,13 V Pb2+ + 2e- ⇄ Pb0 E°red = -1,66 V",
+      principal: "Considerando as seguintes semirreações, em uma célula galvânica com eletrodos de alumínio e chumbo, é correto afirmar que $1_{3}_{}$+ + 3e- ⇄ $1_{0}_{}$ E°red = -0,13 V $1_{2}_{}$+ + 2e- ⇄ $1_{0}_{}$ E°red = -1,66 V",
       subItens: []
     },
-    options: ["Al3+ é agente redutor e Pbº é agente oxidante.","Pb2+ é a espécie que reduz.","a ddp da célula galvânica é igual a -1,79 V.","a soma dos coeficientes estequiométricos da reação global equivale a 10."],
+    options: ["$1_{3}_{}$+ é agente redutor e Pbº é agente oxidante.","$1_{2}_{}$+ é a espécie que reduz.","a ddp da célula galvânica é igual a -1,79 V.","a soma dos coeficientes estequiométricos da reação global equivale a 10."],
     correctAnswer: 3,
     materia: "Química – Eletroquímica (Células Galvânicas)",
     conteudo: "Química – Potenciais de Redução",
@@ -708,7 +708,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "A propalada crise climática global atual tem, como uma de suas causas, a emissão de dióxido de carbono (CO2) na atmosfera. A criação de Créditos de Carbono foi umas das supostas saídas encontradas para o problema. Sobre os Créditos de Carbono, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.\n() Cada Crédito de Carbono é equivalente a 1T (uma tonelada) de CO² não emitida ou retirada da atmosfera por um País.\n() Os Créditos de Carbono foram criados, em 1997, no Japão, quando houve a assinatura do Protocolo de Kyoto pelos países que se comprometeram a assinar esse acordo.\n() Os Estados Unidos, maior emissor de gases poluentes do mundo, lidera a aplicação das políticas definidas no Protocolo de Kyoto.\n() Créditos de Carbono são certificados negociados como mercadorias nas bolsas de valores.",
+      principal: "A propalada crise climática global atual tem, como uma de suas causas, a emissão de dióxido de carbono ($1_{2}$) na atmosfera. A criação de Créditos de Carbono foi umas das supostas saídas encontradas para o problema. Sobre os Créditos de Carbono, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.\n() Cada Crédito de Carbono é equivalente a 1T (uma tonelada) de CO² não emitida ou retirada da atmosfera por um País.\n() Os Créditos de Carbono foram criados, em 1997, no Japão, quando houve a assinatura do Protocolo de Kyoto pelos países que se comprometeram a assinar esse acordo.\n() Os Estados Unidos, maior emissor de gases poluentes do mundo, lidera a aplicação das políticas definidas no Protocolo de Kyoto.\n() Créditos de Carbono são certificados negociados como mercadorias nas bolsas de valores.",
       subItens: []
     },
     options: ["F – V – F – V.","V – F – V – F.","V – V – F – V.","V – F – F – F."],

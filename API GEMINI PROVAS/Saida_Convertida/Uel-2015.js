@@ -393,7 +393,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Analise o mapa de fusos horários do Brasil a seguir.\n\n[Mapa de fusos horários do Brasil, indicando as diferenças de -5, -4, -3, -2 horas em relação ao meridiano de Greenwich, com cidades como Fernando de Noronha e Campo Grande.]\n(Disponível em: <www.dc318.4shared.com>. Acesso em: 12 set. 2014.)\n\nSupondo que um passageiro saia às 7h da manhã de Fernando de Noronha (PE) com destino a Campo Grande (MS) para uma reunião e sabendo-se que a viagem teve duração de 6 horas e 30 minutos, assi-nale a alternativa que apresenta, corretamente, o ho-rário local em que o passageiro deve chegar a Campo Grande (MS).",
+      principal: "Analise o mapa de fusos horários do Brasil a seguir.\n\n[Mapa de fusos horários do Brasil, indicando as diferenças de -5, -4, -3, -2 horas em relação ao meridiano de Greenwich, com cidades como Fernando de Noronha e Campo Grande.]\n(Disponível em: <www.$1_{318}$.4shared.com>. Acesso em: 12 set. 2014.)\n\nSupondo que um passageiro saia às 7h da manhã de Fernando de Noronha (PE) com destino a Campo Grande (MS) para uma reunião e sabendo-se que a viagem teve duração de 6 horas e 30 minutos, assi-nale a alternativa que apresenta, corretamente, o ho-rário local em que o passageiro deve chegar a Campo Grande (MS).",
       subItens: []
     },
     options: ["5h30min","9h30min","10h30min","11h30min","13h30min"],
@@ -738,10 +738,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Por meio da combustão, é possível determinar a fór-mula molecular de uma substância química, o que é considerado um dos grandes avanços da química moderna. Mais de 80 milhões de substâncias já fo-ram registradas, sendo a maioria substâncias orgâni-cas, o que é explicado pela capacidade do átomo de carbono de se ligar a quase todos os elementos. Em um experimento de combustão, um composto orgâ-nico é queimado e os produtos formados, CO2 e H2O liberados, são coletados em dispositivos absorven-tes. Considere que a queima de 14,7 g de um com-posto orgânico (CₓHᵧ) gasoso puro que ocupa 8 L a 1 atm e 300 K com comportamento ideal produza aproximadamente 24 g de H2O e 44 g de CO2.\n(Dado: R = 0,08 atm L/K)\nAssinale a alternativa que apresenta, corretamente, a fórmula molecular desse composto orgânico.",
+      principal: "Por meio da combustão, é possível determinar a fór-mula molecular de uma substância química, o que é considerado um dos grandes avanços da química moderna. Mais de 80 milhões de substâncias já fo-ram registradas, sendo a maioria substâncias orgâni-cas, o que é explicado pela capacidade do átomo de carbono de se ligar a quase todos os elementos. Em um experimento de combustão, um composto orgâ-nico é queimado e os produtos formados, $1_{2}$ e $1_{2}O_{}$ liberados, são coletados em dispositivos absorven-tes. Considere que a queima de 14,7 g de um com-posto orgânico (CₓHᵧ) gasoso puro que ocupa 8 L a 1 atm e 300 K com comportamento ideal produza aproximadamente 24 g de $1_{2}O_{}$ e 44 g de $1_{2}$.\n(Dado: R = 0,08 atm L/K)\nAssinale a alternativa que apresenta, corretamente, a fórmula molecular desse composto orgânico.",
       subItens: []
     },
-    options: ["C2H4","C2H6","C3H6","C3H8","C4H8"],
+    options: ["$1_{2}H_{4}$","$1_{2}H_{6}$","$1_{3}H_{6}$","$1_{3}H_{8}$","$1_{4}H_{8}$"],
     correctAnswer: 3,
     materia: "Química – Estequiometria e Química Orgânica",
     conteudo: "",
@@ -753,7 +753,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Na molécula do Metano (CH4), o átomo de carbono ocupa o centro de um tetraedro regular em cujos vér-tices estão os átomos de hidrogênio.\n\n[Figura: Diagrama da \"Molécula do Metano\" (CH4) e um \"Tetraedro\" genérico.]\n\nConsiderando que as arestas l do tetraedro regular medem 6 cm e que a altura mede h = l√6/3, assinale a alternativa que apresenta, corretamente, o volume desse tetraedro.",
+      principal: "Na molécula do Metano ($1_{4}$), o átomo de carbono ocupa o centro de um tetraedro regular em cujos vér-tices estão os átomos de hidrogênio.\n\n[Figura: Diagrama da \"Molécula do Metano\" ($1_{4}$) e um \"Tetraedro\" genérico.]\n\nConsiderando que as arestas l do tetraedro regular medem 6 cm e que a altura mede h = l√6/3, assinale a alternativa que apresenta, corretamente, o volume desse tetraedro.",
       subItens: []
     },
     options: ["3√3 cm³","18√2 cm³","18√3 cm³","36√2 cm³","54√2 cm³"],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Um dos maiores problemas do homem, desde os tem-pos pré-históricos, é encontrar uma maneira de obter energia para aquecê-lo nos rigores do inverno, acio-nar e desenvolver seus artefatos, transportá-lo de um canto a outro e para a manutenção de sua vida e lazer. A reação de combustão é uma maneira simples de se obter energia na forma de calor. Sobre a obtenção de calor, considere as equações a seguir.\n\nC(grafite) + O2(g) → CO2(g) ΔΗ = –94,1 kcal\nH2O(l) → H2(g) + ½O2(g) ΔΗ = +68,3 kcal\nC(grafite) + 2H2(g) → CH4(g) ΔΗ = −17,9 kcal\n\nAssinale a alternativa que apresenta, corretamente, o valor do calor de combustão (ΔΗ) do metano (CH4) na equação a seguir.\n\nCH4(g)+2O2(g) → CO2(g) + 2H2O(l)",
+      principal: "Um dos maiores problemas do homem, desde os tem-pos pré-históricos, é encontrar uma maneira de obter energia para aquecê-lo nos rigores do inverno, acio-nar e desenvolver seus artefatos, transportá-lo de um canto a outro e para a manutenção de sua vida e lazer. A reação de combustão é uma maneira simples de se obter energia na forma de calor. Sobre a obtenção de calor, considere as equações a seguir.\n\nC(grafite) + $1_{2}_{}$(g) → $1_{2}$(g) ΔΗ = –94,1 kcal\nH2O(l) → $1_{2}_{}$(g) + ½$1_{2}_{}$(g) ΔΗ = +68,3 kcal\nC(grafite) + 2H2(g) → $1_{4}$(g) ΔΗ = −17,9 kcal\n\nAssinale a alternativa que apresenta, corretamente, o valor do calor de combustão (ΔΗ) do metano ($1_{4}$) na equação a seguir.\n\$1_{4}$(g)+2O2(g) → $1_{2}$(g) + 2H2O(l)",
       subItens: []
     },
     options: ["-212,8 kcal","-144,5 kcal","43,7 kcal","+144,5 kcal","+212,8 kcal"],

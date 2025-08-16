@@ -3,10 +3,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2022,
     text: {
-      principal: "A deficiência na enzima G6PD é uma condição recessiva ligada ao cromossomo X, que pode ser diagnosticada no teste do pezinho expandido. Pessoas com deficiência nesta enzima são suscetíveis à anemia hemolítica ao serem expostas à cloroquina ou primaquina, drogas amplamente prescritas por médicos no tratamento da malária. No Brasil, a prevalência de deficiência em G6PD na população geral varia de acordo com as áreas mostradas no mapa: Prevalência 1% 3% 5%. Dombrowski, J G et al. (2017), Malar J, 16:253, doi:10.1186/s12936-017-1889-6 e Monteiro, W M et al. (2014), Mem Inst Oswaldo Cruz, 109:5, 553-568, doi:10.1590/0074-0276140123. Adaptados. Indique a afirmação correta sobre a segurança da prescrição de cloroquina nesse contexto. Note e adote: População de três regiões brasileiras: Norte = 18 milhões; Nordeste = 58 milhões; Centro-Oeste = 17 milhões.",
+      principal: "A deficiência na enzima $1_{6}PD_{}$ é uma condição recessiva ligada ao cromossomo X, que pode ser diagnosticada no teste do pezinho expandido. Pessoas com deficiência nesta enzima são suscetíveis à anemia hemolítica ao serem expostas à cloroquina ou primaquina, drogas amplamente prescritas por médicos no tratamento da malária. No Brasil, a prevalência de deficiência em $1_{6}PD_{}$ na população geral varia de acordo com as áreas mostradas no mapa: Prevalência 1% 3% 5%. Dombrowski, J G et al. (2017), Malar J, 16:253, doi:10.1186/$1_{12936}$-017-1889-6 e Monteiro, W M et al. (2014), Mem Inst Oswaldo Cruz, 109:5, 553-568, doi:10.1590/0074-0276140123. Adaptados. Indique a afirmação correta sobre a segurança da prescrição de cloroquina nesse contexto. Note e adote: População de três regiões brasileiras: Norte = 18 milhões; Nordeste = 58 milhões; Centro-Oeste = 17 milhões.",
       subItens: []
     },
-    options: ["Não é necessário fazer o teste do pezinho expandido em filhos de casais da região Nordeste do Brasil que apresentem deficiência da G6PD, já que menos de 3% dos testes serão positivos.","Aproximadamente 8,5 milhões de pessoas da região Centro-Oeste do Brasil têm somente um alelo recessivo para a deficiência em G6PD, sendo assintomáticas.","Cerca de 900 mil pessoas da região Norte do Brasil podem desenvolver anemia hemolítica devido ao tratamento com cloroquina, sendo a maioria do sexo masculino.","Descendentes de casais que não apresentam deficiência em G6PD têm mais de 25% de chance de possuírem o alelo recessivo e podem ser tratados com cloroquina em áreas onde a malária não seja endêmica.","Os pacientes do sexo masculino devem ser investigados quanto à presença de anemia hemolítica na família paterna caso vivam em regiões onde a malária é endêmica."],
+    options: ["Não é necessário fazer o teste do pezinho expandido em filhos de casais da região Nordeste do Brasil que apresentem deficiência da $1_{6}PD_{}$, já que menos de 3% dos testes serão positivos.","Aproximadamente 8,5 milhões de pessoas da região Centro-Oeste do Brasil têm somente um alelo recessivo para a deficiência em $1_{6}PD_{}$, sendo assintomáticas.","Cerca de 900 mil pessoas da região Norte do Brasil podem desenvolver anemia hemolítica devido ao tratamento com cloroquina, sendo a maioria do sexo masculino.","Descendentes de casais que não apresentam deficiência em $1_{6}PD_{}$ têm mais de 25% de chance de possuírem o alelo recessivo e podem ser tratados com cloroquina em áreas onde a malária não seja endêmica.","Os pacientes do sexo masculino devem ser investigados quanto à presença de anemia hemolítica na família paterna caso vivam em regiões onde a malária é endêmica."],
     correctAnswer: 2,
     materia: "",
     conteudo: "",
@@ -138,7 +138,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2022,
     text: {
-      principal: "O gráfico mostra linhas de tendência de cinco parâmetros da água (eixo y), medidos por pesquisadores, durante os estágios iniciais do processo de eutrofização de uma lagoa, a partir do momento em que começou a haver aporte de esgoto não tratado e antes de haver a estabilização do sistema. Entretanto, os técnicos da companhia de saneamento notaram que nem todas as tendências mostradas no gráfico estão corretas. Densidade ou número ou concentração vs. Tempo. (1) Densidade de algas (2) Concentração de compostos nitrogenados (3) Número de espécies em geral (4) Concentração de O2 (5) Densidade de decompositores. São corretas apenas as linhas de tendência representadas em",
+      principal: "O gráfico mostra linhas de tendência de cinco parâmetros da água (eixo y), medidos por pesquisadores, durante os estágios iniciais do processo de eutrofização de uma lagoa, a partir do momento em que começou a haver aporte de esgoto não tratado e antes de haver a estabilização do sistema. Entretanto, os técnicos da companhia de saneamento notaram que nem todas as tendências mostradas no gráfico estão corretas. Densidade ou número ou concentração vs. Tempo. (1) Densidade de algas (2) Concentração de compostos nitrogenados (3) Número de espécies em geral (4) Concentração de $1_{2}_{}$ (5) Densidade de decompositores. São corretas apenas as linhas de tendência representadas em",
       subItens: []
     },
     options: ["1, 2 e 3.","1, 2 e 4.","2, 3 e 5.","2, 4 e 5.","3, 4 e 5."],
@@ -168,7 +168,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2022,
     text: {
-      principal: "Analise o esquema e as estruturas (X, Y e Z) da planta para completar a frase a seguir. Esquema de planta com raiz, caule, folha e detalhe de célula vegetal com X, Y, Z. Às 14h de um dia ensolarado, em condições hídricas ótimas, a estrutura identificada por I encontra-se II, possibilitando a absorção de água do solo e entrada de CO2, que é utilizado pela estrutura representada por III para realização da fotossíntese. As lacunas I, II e III podem ser preenchidas corretamente por: I: Z, II: aberta, III: Y; I: Z, II: fechada, III: X; I: Y, II: vazia, III: X; I: X, II: cheia, III: Z; I: X, II: vazia, III: Y",
+      principal: "Analise o esquema e as estruturas (X, Y e Z) da planta para completar a frase a seguir. Esquema de planta com raiz, caule, folha e detalhe de célula vegetal com X, Y, Z. Às 14h de um dia ensolarado, em condições hídricas ótimas, a estrutura identificada por I encontra-se II, possibilitando a absorção de água do solo e entrada de $1_{2}$, que é utilizado pela estrutura representada por III para realização da fotossíntese. As lacunas I, II e III podem ser preenchidas corretamente por: I: Z, II: aberta, III: Y; I: Z, II: fechada, III: X; I: Y, II: vazia, III: X; I: X, II: cheia, III: Z; I: X, II: vazia, III: Y",
       subItens: []
     },
     options: ["I: Z, II: aberta, III: Y","I: Z, II: fechada, III: X","I: Y, II: vazia, III: X","I: X, II: cheia, III: Z","I: X, II: vazia, III: Y"],
@@ -231,7 +231,7 @@ createQuestion({
       principal: "A figura sintetiza, de forma simplificada, a variação da pressão sanguínea (mmHg), da velocidade de circulação sanguínea (cm/s) e da área total (cm²) em relação aos diversos tipos de vasos do sistema sanguíneo humano (artérias, arteríolas, capilares, vênulas e veias): Valores progressivos vs. Tipos de vasos (Artérias, Arteríolas, Capilares, Vênulas, Veias) mostrando Pressão sanguínea, Velocidade, Área total. Com base na figura, é correto afirmar que",
       subItens: []
     },
-    options: ["a velocidade aumenta nas vênulas, o que permite às hemoglobinas descarregarem o O2.","a pressão sanguínea cai nos capilares, vênulas e veias pela presença de válvulas nesses vasos.","a pressão diminui a partir dos capilares, o que evita acidentes vasculares em vasos menores.","a área aumenta na região dos capilares, o que permite maior eficiência nas trocas gasosas.","a velocidade é inversamente proporcional à área por conta do batimento sistólico do coração."],
+    options: ["a velocidade aumenta nas vênulas, o que permite às hemoglobinas descarregarem o $1_{2}_{}$.","a pressão sanguínea cai nos capilares, vênulas e veias pela presença de válvulas nesses vasos.","a pressão diminui a partir dos capilares, o que evita acidentes vasculares em vasos menores.","a área aumenta na região dos capilares, o que permite maior eficiência nas trocas gasosas.","a velocidade é inversamente proporcional à área por conta do batimento sistólico do coração."],
     correctAnswer: 3,
     materia: "",
     conteudo: "",
@@ -483,7 +483,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2022,
     text: {
-      principal: "Uma indústria produz três modelos de cadeiras (indicadas por M1, M2 e M3), cada um deles em duas opções de cores: preta e vermelha (indicadas por P e V, respectivamente). A tabela mostra o número de cadeiras produzidas semanalmente conforme a cor e o modelo: Tabela com M1, M2, M3 e P, V. As porcentagens de cadeiras com defeito são de 2% do modelo M1, 5% do modelo M2 e 8% do modelo M3. As cadeiras que não apresentam defeito são denominadas boas. A tabela que indica o número de cadeiras produzidas semanalmente com defeito (D) e boas (B), de acordo com a cor, é: Tabela com P, V e D, B.",
+      principal: "Uma indústria produz três modelos de cadeiras (indicadas por $1_{1}_{}$, $1_{2}_{}$ e $1_{3}_{}$), cada um deles em duas opções de cores: preta e vermelha (indicadas por P e V, respectivamente). A tabela mostra o número de cadeiras produzidas semanalmente conforme a cor e o modelo: Tabela com $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$ e P, V. As porcentagens de cadeiras com defeito são de 2% do modelo $1_{1}_{}$, 5% do modelo $1_{2}_{}$ e 8% do modelo $1_{3}_{}$. As cadeiras que não apresentam defeito são denominadas boas. A tabela que indica o número de cadeiras produzidas semanalmente com defeito (D) e boas (B), de acordo com a cor, é: Tabela com P, V e D, B.",
       subItens: []
     },
     options: ["","","","",""],
@@ -588,7 +588,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2022,
     text: {
-      principal: "Em fevereiro de 2021, um grupo de físicos da Universidade Federal de Minas Gerais (UFMG) publicou um artigo que foi capa da importante revista Nature. O texto a seguir foi retirado de uma reportagem do site da UFMG sobre o artigo: O nanoscópio, prossegue Ado Jorio (professor da UFMG), ilumina a amostra com um microscópio óptico usual. O foco da luz tem o tamanho de um círculo de 1 micrômetro de diâmetro. “O que o nanoscópio faz é inserir uma nanoantena, que tem uma ponta com diâmetro de 10 nanômetros, dentro desse foco de 1 micrômetro e escanear essa ponta. A imagem com resolução nanométrica é formada por esse processo de escaneamento da nanoantena, que localiza o campo eletromagnético da luz em seu ápice”, afirma o professor. Itamar Rigueira Jr. \"Nanoscópio da UFMG possibilita compreender estrutura que torna grafeno supercondutor\". Adaptado. Disponível em https://ufmg.br/comunicacao/noticias/. Gadelha A C et al. (2021), Nature, 590, 405-409, doi: 10.1038/s41586-021-03252-5. Com base nos dados mencionados no texto, a razão entre o diâmetro do foco da luz de um microscópio óptico usual e o diâmetro da ponta da nanoantena utilizada no nanoscópio é da ordem de:",
+      principal: "Em fevereiro de 2021, um grupo de físicos da Universidade Federal de Minas Gerais (UFMG) publicou um artigo que foi capa da importante revista Nature. O texto a seguir foi retirado de uma reportagem do site da UFMG sobre o artigo: O nanoscópio, prossegue Ado Jorio (professor da UFMG), ilumina a amostra com um microscópio óptico usual. O foco da luz tem o tamanho de um círculo de 1 micrômetro de diâmetro. “O que o nanoscópio faz é inserir uma nanoantena, que tem uma ponta com diâmetro de 10 nanômetros, dentro desse foco de 1 micrômetro e escanear essa ponta. A imagem com resolução nanométrica é formada por esse processo de escaneamento da nanoantena, que localiza o campo eletromagnético da luz em seu ápice”, afirma o professor. Itamar Rigueira Jr. \"Nanoscópio da UFMG possibilita compreender estrutura que torna grafeno supercondutor\". Adaptado. Disponível em https://ufmg.br/comunicacao/noticias/. Gadelha A C et al. (2021), Nature, 590, 405-409, doi: 10.1038/$1_{41586}$-021-03252-5. Com base nos dados mencionados no texto, a razão entre o diâmetro do foco da luz de um microscópio óptico usual e o diâmetro da ponta da nanoantena utilizada no nanoscópio é da ordem de:",
       subItens: []
     },
     options: ["0,0001","0,01","1","100","10000"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2022,
     text: {
-      principal: "A quantidade de bactérias em um líquido é diretamente proporcional à medida da turbidez desse líquido. O gráfico mostra, em escala logarítmica, o crescimento da turbidez x de um líquido ao longo do tempo t (medido em minutos), isto é, mostra log10 x em função de t. Os dados foram coletados de 30 em 30 minutos, e uma curva de interpolação foi obtida para inferir valores intermediários. log10x vs t (min). Disponível em https://fankhauserblog.wordpress.com/. Com base no gráfico, em quantas vezes a população de bactérias aumentou, do instante t0 para o instante t1?",
+      principal: "A quantidade de bactérias em um líquido é diretamente proporcional à medida da turbidez desse líquido. O gráfico mostra, em escala logarítmica, o crescimento da turbidez x de um líquido ao longo do tempo t (medido em minutos), isto é, mostra $1_{10}$ x em função de t. Os dados foram coletados de 30 em 30 minutos, e uma curva de interpolação foi obtida para inferir valores intermediários. log10x vs t (min). Disponível em https://fankhauserblog.wordpress.com/. Com base no gráfico, em quantas vezes a população de bactérias aumentou, do instante $1_{0}$ para o instante $1_{1}$?",
       subItens: []
     },
     options: ["2","4","5","10","100"],
@@ -1008,7 +1008,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2022,
     text: {
-      principal: "A produção do vidro tem por base a modificação da estrutura cristalina do quartzo (SiO2) por meio do seu aquecimento e da adição de óxidos alcalinos, dentre eles o Na2O. Esse processo adiciona cátions sódio à estrutura do quartzo, tornando-a amorfa. Alguns vidros, como os utilizados em telas de smartphones, passam ainda por processo de troca iônica para aumentar a resistência a quedas e riscos. Para isso, o vidro é banhado em uma solução salina contendo íons potássio. Dessa forma, o potássio substitui o sódio na estrutura, sem que o volume do vidro se altere. Tabela Periódica. Com base nessas informações, é correto afirmar que os íons potássio",
+      principal: "A produção do vidro tem por base a modificação da estrutura cristalina do quartzo ($1_{2}$) por meio do seu aquecimento e da adição de óxidos alcalinos, dentre eles o $1_{2}O_{}$. Esse processo adiciona cátions sódio à estrutura do quartzo, tornando-a amorfa. Alguns vidros, como os utilizados em telas de smartphones, passam ainda por processo de troca iônica para aumentar a resistência a quedas e riscos. Para isso, o vidro é banhado em uma solução salina contendo íons potássio. Dessa forma, o potássio substitui o sódio na estrutura, sem que o volume do vidro se altere. Tabela Periódica. Com base nessas informações, é correto afirmar que os íons potássio",
       subItens: []
     },
     options: ["são maiores do que os íons sódio, dessa forma, a estrutura torna-se mais preenchida e mais resistente ao choque físico.","são mais resistentes ao choque físico do que os íons sódio, e esse caráter é conferido ao vidro.","são menores do que os íons sódio, tornando a estrutura menos preenchida e o vidro mais flexível.","fazem com que a estrutura do vidro deixe de ser amorfa quando substituem os íons sódio, tornando o vidro menos resistente ao choque físico.","têm o mesmo tamanho que os íons sódio, visto que ambos são metais alcalinos, permitindo sua completa substituição no vidro."],
@@ -1038,10 +1038,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2022,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 70 E 71 Oxigênio (O2) e ozônio (O3) estão em constante processo de consumo e produção na estratosfera, como representado pelas equações químicas a seguir. As reações I e II ilustram etapas da produção de ozônio a partir de oxigênio, e a reação III mostra a restauração de oxigênio a partir de ozônio. Tabela de Reações e ΔH. A reação global balanceada, composta pelas etapas I e II, que representa a formação de ozônio é:",
+      principal: "TEXTO PARA AS QUESTÕES 70 E 71 Oxigênio ($1_{2}_{}$) e ozônio ($1_{3}_{}$) estão em constante processo de consumo e produção na estratosfera, como representado pelas equações químicas a seguir. As reações I e II ilustram etapas da produção de ozônio a partir de oxigênio, e a reação III mostra a restauração de oxigênio a partir de ozônio. Tabela de Reações e ΔH. A reação global balanceada, composta pelas etapas I e II, que representa a formação de ozônio é:",
       subItens: []
     },
-    options: ["3O → O3","4 O2 → 4 O3","2 O3 → 3 O2","3 O2 → 2 O3","3 O3 → 2 O2"],
+    options: ["3O → $1_{3}_{}$","4 $1_{2}_{}$ → 4 $1_{3}_{}$","2 $1_{3}_{}$ → 3 $1_{2}_{}$","3 $1_{2}_{}$ → 2 $1_{3}_{}$","3 $1_{3}_{}$ → 2 $1_{2}_{}$"],
     correctAnswer: 3,
     materia: "",
     conteudo: "",
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2022,
     text: {
-      principal: "O ΔHII, relacionado à reação II, pode ser calculado a partir dos dados fornecidos para as reações I e III. O valor de ΔHII, em kcal/mol de O2 consumido, é igual a:",
+      principal: "O ΔHII, relacionado à reação II, pode ser calculado a partir dos dados fornecidos para as reações I e III. O valor de ΔHII, em kcal/mol de $1_{2}_{}$ consumido, é igual a:",
       subItens: []
     },
     options: ["-90,5","-55,0","+27,5","+48,5","+55,0"],
@@ -1161,7 +1161,7 @@ createQuestion({
       principal: "O cátion Ba²⁺ pode apresentar toxicidade aos humanos, dependendo de sua concentração e forma química. Por exemplo, BaSO₄ é pouco tóxico, sendo usado como contraste radiológico, por ser insolúvel em solução aquosa, enquanto BaCO₃ e Ba(NO₃)₂ são muito tóxicos, pois liberam Ba²⁺ no organismo. Em um laboratório foram feitos dois testes de solubilidade para identificar o conteúdo de três frascos não rotulados que poderiam ser de Ba(NO₃)₂, BaCO₃ ou BaSO₄. Os resultados dos dois testes de solubilidade são apresentados a seguir. Tabela de Teste I e Teste II para Frasco 1, 2, 3. Considerando os ensaios realizados, indique quais são os compostos contidos nos frascos 1, 2 e 3, respectivamente.",
       subItens: []
     },
-    options: ["Frasco 1: BaSO4, Frasco 2: BaCO3, Frasco 3: Ba(NO3)2","Frasco 1: BaCO3, Frasco 2: BaSO4, Frasco 3: Ba(NO3)2","Frasco 1: Ba(NO3)2, Frasco 2: BaCO3, Frasco 3: BaSO4","Frasco 1: BaSO4, Frasco 2: Ba(NO3)2, Frasco 3: BaCO3","Frasco 1: BaCO3, Frasco 2: Ba(NO3)2, Frasco 3: BaSO4"],
+    options: ["Frasco 1: $1_{4}$, Frasco 2: $1_{3}$, Frasco 3: Ba($1_{3}$)2","Frasco 1: $1_{3}$, Frasco 2: $1_{4}$, Frasco 3: Ba($1_{3}$)2","Frasco 1: Ba($1_{3}$)2, Frasco 2: $1_{3}$, Frasco 3: $1_{4}$","Frasco 1: $1_{4}$, Frasco 2: Ba($1_{3}$)2, Frasco 3: $1_{3}$","Frasco 1: $1_{3}$, Frasco 2: Ba($1_{3}$)2, Frasco 3: $1_{4}$"],
     correctAnswer: 0,
     materia: "",
     conteudo: "",

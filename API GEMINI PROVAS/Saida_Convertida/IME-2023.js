@@ -183,7 +183,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2023,
     text: {
-      principal: "Seja a equação\n144ˣ + 324ˣ / 64ˣ + 729ˣ = 6/7\nA soma dos módulos das soluções reais desta equação é",
+      principal: "Seja a equação\$1_{144}$ˣ + 324ˣ / 64ˣ + 729ˣ = 6/7\nA soma dos módulos das soluções reais desta equação é",
       subItens: []
     },
     options: ["1","2","3","8","9"],

@@ -33,10 +33,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2017,
     text: {
-      principal: "Sejam Z1 e Z2 números complexos tais que Z2 é imaginário puro e |Z₁−Z₂|=|Z2|. Para quaisquer valores de Z1 e Z2 que atendam a essas condições tem-se que:",
+      principal: "Sejam $1_{1}_{}$ e $1_{2}_{}$ números complexos tais que $1_{2}_{}$ é imaginário puro e |Z₁−Z₂|=|$1_{2}_{}$|. Para quaisquer valores de $1_{1}_{}$ e $1_{2}_{}$ que atendam a essas condições tem-se que:",
       subItens: []
     },
-    options: ["Im(Z2) > 0","Im(Z2)≤0","|Z₁|≤2|Z₂|","Re(Z₁) ≥0","Re(Z₁)≤Im(Z₂)"],
+    options: ["Im($1_{2}_{}$) > 0","Im($1_{2}_{}$)≤0","|Z₁|≤2|Z₂|","Re(Z₁) ≥0","Re(Z₁)≤Im(Z₂)"],
     correctAnswer: 2,
     materia: "Matemática – Números complexos",
     conteudo: "",
@@ -48,7 +48,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2017,
     text: {
-      principal: "No desenvolvimento de (x.sen2β + 1/x cos2β)¹⁰ o valor do termo independente de x é igual a 63/256. Considerando que β é um número real, com 0 < β < π/8 e x ≠ 0, o valor de β é:",
+      principal: "No desenvolvimento de (x.$1_{2}$β + 1/x $1_{2}$β)¹⁰ o valor do termo independente de x é igual a 63/256. Considerando que β é um número real, com 0 < β < π/8 e x ≠ 0, o valor de β é:",
       subItens: []
     },
     options: ["π/9","π/12","π/16","π/18","π/24"],
@@ -153,7 +153,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2017,
     text: {
-      principal: "Sejam uma progressão aritmética (a1, a2, a3, a4, ...) e uma progressão geométrica (b1, b2, b3, b4, ...) de termos inteiros, de razão r e razão q, respectivamente, onde r e q são inteiros positivos, com q > 2 e b₁ > 0. Sabe-se, também, que a1+b2=3, a4+b3=26. O valor de b₁ é:",
+      principal: "Sejam uma progressão aritmética ($1_{1}$, $1_{2}$, $1_{3}$, $1_{4}$, ...) e uma progressão geométrica ($1_{1}$, $1_{2}$, $1_{3}$, $1_{4}$, ...) de termos inteiros, de razão r e razão q, respectivamente, onde r e q são inteiros positivos, com q > 2 e b₁ > 0. Sabe-se, também, que $1_{1}$+$1_{2}$=3, $1_{4}$+$1_{3}$=26. O valor de b₁ é:",
       subItens: []
     },
     options: ["1","2","3","4","5"],
@@ -228,7 +228,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2017,
     text: {
-      principal: "Um meteorologista mediu por duas vezes em um mesmo dia a umidade relativa do ar e a temperatura do ar quando estava em um pequeno barco a remo no meio de um grande lago. Os dados encontram-se apresentados na tabela a seguir:\nMedida | Período do dia | Umidade relativa | Temperatura do ar\n1 | Manhã | 40% | 300 K\n2 | Tarde | 70% | 300 K\nDiante do exposto, a razão entre as taxas de evaporação de água do lago calculadas na primeira e na segunda medida de umidade relativa do ar é:",
+      principal: "Um meteorologista mediu por duas vezes em um mesmo dia a umidade relativa do ar e a temperatura do ar quando estava em um pequeno barco a remo no meio de um grande lago. Os dados encontram-se apresentados na tabela a seguir:\nMedida | Período do dia | Umidade relativa | Temperatura do ar\$1_{1}$ | Manhã | 40% | 300 K\$1_{2}$ | Tarde | 70% | 300 K\nDiante do exposto, a razão entre as taxas de evaporação de água do lago calculadas na primeira e na segunda medida de umidade relativa do ar é:",
       subItens: []
     },
     options: ["16/13","17/14","2","7/4","4"],
@@ -318,10 +318,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2017,
     text: {
-      principal: "A figura acima apresenta um bloco preso a um cabo inextensível e apoiado em um plano inclinado. O cabo passa por uma roldana de dimensões desprezíveis, tendo sua outra extremidade presa à estrutura de um sistema de vasos comunicantes. Os vasos estão preenchidos com um líquido e fechados por dois pistões de massas desprezíveis e equilibrados à mesma altura. O sistema é montado de forma que a força de tração no cabo seja paralela ao plano inclinado e que não haja esforço de flexão na haste que prende a roldana. A expressão da força F que mantém o sistema em equilíbrio, em função dos dados a seguir, é:\nDados:\n• Aceleração da gravidade: g;\n• Massa do corpo: m;\n• Inclinação do plano de apoio: θ;\n• Áreas dos pistões: A1 e A2 .",
+      principal: "A figura acima apresenta um bloco preso a um cabo inextensível e apoiado em um plano inclinado. O cabo passa por uma roldana de dimensões desprezíveis, tendo sua outra extremidade presa à estrutura de um sistema de vasos comunicantes. Os vasos estão preenchidos com um líquido e fechados por dois pistões de massas desprezíveis e equilibrados à mesma altura. O sistema é montado de forma que a força de tração no cabo seja paralela ao plano inclinado e que não haja esforço de flexão na haste que prende a roldana. A expressão da força F que mantém o sistema em equilíbrio, em função dos dados a seguir, é:\nDados:\n• Aceleração da gravidade: g;\n• Massa do corpo: m;\n• Inclinação do plano de apoio: θ;\n• Áreas dos pistões: $1_{1}_{}$ e $1_{2}_{}$ .",
       subItens: []
     },
-    options: ["A1/A2 mgsen²(θ)","A1/A2 mgcos²(θ)","2 A1/A2 mgsen²(θ)","2 A1/A2 mgcos² (θ)","A1/A2 mgsen(2θ)"],
+    options: ["$1_{1}_{}$/$1_{2}_{}$ mgsen²(θ)","$1_{1}_{}$/$1_{2}_{}$ mgcos²(θ)","2 $1_{1}_{}$/$1_{2}_{}$ mgsen²(θ)","2 $1_{1}_{}$/$1_{2}_{}$ mgcos² (θ)","$1_{1}_{}$/$1_{2}_{}$ mgsen(2θ)"],
     correctAnswer: 2,
     materia: "Física – Hidrostática",
     conteudo: "Física – Estática",
@@ -351,7 +351,7 @@ createQuestion({
       principal: "Uma corda mista sobre o eixo horizontal tem uma densidade linear para a coordenada x < 0 e outra para x ≥ 0. Uma onda harmônica, dada por Asen(ωt – k₁x), onde t é o instante de tempo, propaga-se na região onde x < 0 e é parcialmente refletida e parcialmente transmitida em x = 0. Se a onda refletida e a transmitida são dadas por Bsen(ωt + k₁x) e Csen(ωt - k2x), respectivamente, onde ω, k₁ e k₂ são constantes, então a razão entre as amplitudes da onda refletida e da incidente, dada por |B/A|, é igual a:\nObservação:\n• considere sen(ax)/x ≈ a, para |x| próximo a zero.",
       subItens: []
     },
-    options: ["|k1-k2| / (k1+2k2)","|k1-k2| / (2k1+k2)","|k1-k2| / K1","|k1-k2| / K2","|k1-k2| / (k1+k2)"],
+    options: ["|$1_{1}$-$1_{2}$| / ($1_{1}$+2k2)","|$1_{1}$-$1_{2}$| / (2k1+$1_{2}$)","|$1_{1}$-$1_{2}$| / $1_{1}_{}$","|$1_{1}$-$1_{2}$| / $1_{2}_{}$","|$1_{1}$-$1_{2}$| / ($1_{1}$+$1_{2}$)"],
     correctAnswer: 4,
     materia: "Física – Ondas",
     conteudo: "",
@@ -393,10 +393,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2017,
     text: {
-      principal: "Uma partícula de carga positiva +Q penetra numa região de comprimento d₁ sujeita a um campo magnético de baixa intensidade e ortogonal ao plano da figura acima. Em seguida, penetra numa região de comprimento d₂, onde não existe campo magnético. Ao longo das regiões de comprimento d₁ e d₂, a partícula percorre a trajetória indicada pela linha tracejada da figura acima. Dadas as informações a seguir, a distância a, indicada na figura entre a origem e o ponto de passagem da partícula pelo eixo Y, é aproximadamente:\nDados:\n• velocidade inicial da partícula: ortogonal ao eixo Y e de módulo v;\n• módulo do campo magnético da região: B;\n• distância entre o fim da região do campo magnético e o eixo Y: d2;\n• massa da partícula: m;\n• d2 >> d1;\n• deslocamento vertical da partícula dentro da região magnetizada << d₁.",
+      principal: "Uma partícula de carga positiva +Q penetra numa região de comprimento d₁ sujeita a um campo magnético de baixa intensidade e ortogonal ao plano da figura acima. Em seguida, penetra numa região de comprimento d₂, onde não existe campo magnético. Ao longo das regiões de comprimento d₁ e d₂, a partícula percorre a trajetória indicada pela linha tracejada da figura acima. Dadas as informações a seguir, a distância a, indicada na figura entre a origem e o ponto de passagem da partícula pelo eixo Y, é aproximadamente:\nDados:\n• velocidade inicial da partícula: ortogonal ao eixo Y e de módulo v;\n• módulo do campo magnético da região: B;\n• distância entre o fim da região do campo magnético e o eixo Y: $1_{2}$;\n• massa da partícula: m;\n• $1_{2}$ >> $1_{1}$;\n• deslocamento vertical da partícula dentro da região magnetizada << d₁.",
       subItens: []
     },
-    options: ["d1d2QB / mv","d2mv / QBd1","2d1d2QB / mv","d2mv / 2QBd1","d1d2QB / 2mv"],
+    options: ["d1d2QB / mv","d2mv / $1_{1}$","2d1d2QB / mv","d2mv / 2QBd1","d1d2QB / 2mv"],
     correctAnswer: 0,
     materia: "Física – Eletromagnetismo",
     conteudo: "",

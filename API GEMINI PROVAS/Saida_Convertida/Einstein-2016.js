@@ -33,10 +33,10 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "No heredograma abaixo, as pessoas indicadas por II1 e III2 são afetadas por uma dada característica:\n(Imagem de um heredograma)\nApós a análise do heredograma, é correto afirmar tratar-se de característica",
+      principal: "No heredograma abaixo, as pessoas indicadas por $1_{1}$ e $1_{2}$ são afetadas por uma dada característica:\n(Imagem de um heredograma)\nApós a análise do heredograma, é correto afirmar tratar-se de característica",
       subItens: []
     },
-    options: ["recessiva e ligada ao sexo, e a probabilidade de o casal indicado por II2 e II3 ter uma criança do sexo masculino com a característica é de 1/2.","dominante e ligada ao sexo, e a probabilidade de o casal indicado por II2 e 113 ter uma criança do sexo masculino com a característica é de 1/2.","autossômica dominante e, supondo que a mulher indicada por II1se case com um homem afetado pela característica, a probabilidade de esse casal ter filhos com a característica é de 3/4.","autossômica recessiva, e a probabilidade de a mulher indicada por III1 ser heterozigótica é de 2/3."],
+    options: ["recessiva e ligada ao sexo, e a probabilidade de o casal indicado por $1_{2}$ e $1_{3}$ ter uma criança do sexo masculino com a característica é de 1/2.","dominante e ligada ao sexo, e a probabilidade de o casal indicado por $1_{2}$ e 113 ter uma criança do sexo masculino com a característica é de 1/2.","autossômica dominante e, supondo que a mulher indicada por II1se case com um homem afetado pela característica, a probabilidade de esse casal ter filhos com a característica é de 3/4.","autossômica recessiva, e a probabilidade de a mulher indicada por $1_{1}$ ser heterozigótica é de 2/3."],
     correctAnswer: 3,
     materia: "Biologia – Genética",
     conteudo: "Biologia – Heredogramas",
@@ -138,7 +138,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Por decisão da Assembleia Geral da Unesco, realizada em dezembro de 2013, a luz e as tecnologias nela baseadas serão celebradas ao longo de 2015, que passará a ser referido simplesmente como Ano Internacional da Luz. O trabalho de Albert Einstein sobre o efeito fotoelétrico (1905) foi fundamental para a ciência e a tecnologia desenvolvidas a partir de 1950, incluindo a fotônica, tida como a tecnologia do século 21. Com o intuito de homenagear o célebre cientista, um eletricista elabora um inusitado aquecedor conforme mostra a figura abaixo. Esse aquecedor será submetido a uma tensão elétrica de 120V, entre seus terminais A e B, e será utilizado, totalmente imerso, para aquecer a água que enche completamente um aquário de dimensões 30cm x 50cm x 80cm. Desprezando qualquer tipo de perda, supondo constante a potência do aquecedor e considerando que a distribuição de calor para a água se dê de maneira uniforme, determine após quantas horas de funcionamento, aproximadamente, ele será capaz de provocar uma variação de temperatura de 36°F na água desse aquário.\nAdote:\nPressão atmosférica = 1 atm\nDensidade da água = 1 g/cm³\nCalor específico da água = 1 cal.g⁻¹.°c⁻¹\n1 cal = 4,2 J\n= resistor de 1 Ω\n(Imagem de um aquecedor elétrico)",
+      principal: "Por decisão da Assembleia Geral da Unesco, realizada em dezembro de 2013, a luz e as tecnologias nela baseadas serão celebradas ao longo de 2015, que passará a ser referido simplesmente como Ano Internacional da Luz. O trabalho de Albert Einstein sobre o efeito fotoelétrico (1905) foi fundamental para a ciência e a tecnologia desenvolvidas a partir de 1950, incluindo a fotônica, tida como a tecnologia do século 21. Com o intuito de homenagear o célebre cientista, um eletricista elabora um inusitado aquecedor conforme mostra a figura abaixo. Esse aquecedor será submetido a uma tensão elétrica de 120V, entre seus terminais A e B, e será utilizado, totalmente imerso, para aquecer a água que enche completamente um aquário de dimensões 30cm x 50cm x 80cm. Desprezando qualquer tipo de perda, supondo constante a potência do aquecedor e considerando que a distribuição de calor para a água se dê de maneira uniforme, determine após quantas horas de funcionamento, aproximadamente, ele será capaz de provocar uma variação de temperatura de 36°F na água desse aquário.\nAdote:\nPressão atmosférica = 1 atm\nDensidade da água = 1 g/cm³\nCalor específico da água = 1 cal.g⁻¹.°c⁻¹\$1_{1}$ cal = 4,2 J\n= resistor de 1 Ω\n(Imagem de um aquecedor elétrico)",
       subItens: []
     },
     options: ["1,88","2,00","2,33","4,00"],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Processo de produção de \"nuggets\" mais saudáveis:\n1. A worker feeds chickens at Kee Song Brothers' drug-free poultry farm in Yong Peng.\n2. A researcher counts Lactobacillus colonies forming in a Petri dish.\n3. A researcher shows Petri dishes containing Lactobacillus colonies forming.\n4. A researcher shows Lactobacillus fermented powder to be mixed with chicken feed.\nEscolha a alternativa que apresenta a ordem correta das figuras que ilustram o processo descrito:\n(Imagens a, b, c, d)\nDisponível em: http://www.reuters.com/news/picture/mozart-loving-chickens-may-answer-st?articleId=USKBN0O200V20150517&slideld=1048941026",
+      principal: "Processo de produção de \"nuggets\" mais saudáveis:\$1_{1}$. A worker feeds chickens at Kee Song Brothers' drug-free poultry farm in Yong Peng.\$1_{2}$. A researcher counts Lactobacillus colonies forming in a Petri dish.\$1_{3}$. A researcher shows Petri dishes containing Lactobacillus colonies forming.\$1_{4}$. A researcher shows Lactobacillus fermented powder to be mixed with chicken feed.\nEscolha a alternativa que apresenta a ordem correta das figuras que ilustram o processo descrito:\n(Imagens a, b, c, d)\nDisponível em: http://www.reuters.com/news/picture/mozart-loving-chickens-may-answer-st?articleId=USKBN0O200V20150517&slideld=1048941026",
       subItens: []
     },
     options: ["1a 2b 3c 4d","1c 2a 3b 4d","1d 2c 3b 4a","1c 2d 3b 4a"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Sejam os números complexos u = 2√2. (cos315° + i.sen315°) e w = u². Se P e Q são as respectivas imagens de u e w, no plano complexo, então a equação da reta perpendicular a PQ, traçada pelo seu ponto médio, é",
+      principal: "Sejam os números complexos u = 2√2. ($1_{315}$° + i.$1_{315}$°) e w = u². Se P e Q são as respectivas imagens de u e w, no plano complexo, então a equação da reta perpendicular a PQ, traçada pelo seu ponto médio, é",
       subItens: []
     },
     options: ["3x + y + 2 = 0","3x - y + 2 = 0","x + 3y + 14 = 0","x - 3y + 14 = 0"],

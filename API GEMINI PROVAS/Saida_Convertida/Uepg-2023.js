@@ -396,7 +396,7 @@ createQuestion({
       principal: "Dadas as seguintes reações redox iônicas balanceadas, com relação ao número de elétrons envolvidos e às espécies que são oxidadas e reduzidas, assinale o que for correto.",
       subItens: []
     },
-    options: ["01) A reação 2Al + 3Cu²⁺ → 2Al³⁺ + 3Cu envolve a transferência de 6 elétrons.","02) Na reação:\n2 MnO₄⁻ + 5 SO₃²⁻ + 6 H⁺ → 2Mn²⁺ + 5SO₄²⁻ + 2H₂O,\no manganês está sofrendo redução de Mn⁷⁺ no MnO₄⁻ para Mn²⁺ e o enxofre está sofrendo oxidação de S⁴⁺ no SO₃²⁻ para S⁶⁺ no SO₄²⁻.","04) Na reação:\n3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 2NO + 4H₂O, está envolvida a transferência de 6 elétrons.","08) Na reação:\n3Cl₂ + 6NaOH → 5NaCl + 1NaClO₃ + 3H₂O, o cloro sofre tanto oxidação como redução, na mesma reação."],
+    options: ["01) A reação 2Al + 3Cu²⁺ → 2Al³⁺ + 3Cu envolve a transferência de 6 elétrons.","02) Na reação:\$1_{2}$ MnO₄⁻ + 5 SO₃²⁻ + 6 H⁺ → 2Mn²⁺ + 5SO₄²⁻ + 2H₂O,\no manganês está sofrendo redução de Mn⁷⁺ no MnO₄⁻ para Mn²⁺ e o enxofre está sofrendo oxidação de S⁴⁺ no SO₃²⁻ para S⁶⁺ no SO₄²⁻.","04) Na reação:\n3Cu + 8HNO₃ → 3Cu(NO₃)₂ + 2NO + 4H₂O, está envolvida a transferência de 6 elétrons.","08) Na reação:\n3Cl₂ + 6NaOH → 5NaCl + 1NaClO₃ + 3H₂O, o cloro sofre tanto oxidação como redução, na mesma reação."],
     correctAnswer: null,
     materia: "Química – Reações de Oxirredução",
     conteudo: "Química – Balanceamento de Equações",

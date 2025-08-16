@@ -318,7 +318,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2018,
     text: {
-      principal: "A figura mostra um circuito montado sob um plano inclinado feito de material condutor ideal, sem atrito de ângulo α com a horizontal. Um corpo é liberado do ponto A e, à medida que passa pelos sensores localizados nos pontos 1, 2, 3 e 4, as chaves Ch1, Ch2, Ch3 e Ch4 são fechadas instantaneamente. Diante do exposto, a energia elétrica dissipada durante a descida do corpo até o ponto B, em joules, é:\nDados:\n• R1 = 10 Ω;\n• R2 = 10 Ω;\n• R3 = 5 Ω;\n• R4 = 2,5 Ω;\n• E = 10 V;\n• α = 30°; e\n• g = 10 m/s².",
+      principal: "A figura mostra um circuito montado sob um plano inclinado feito de material condutor ideal, sem atrito de ângulo α com a horizontal. Um corpo é liberado do ponto A e, à medida que passa pelos sensores localizados nos pontos 1, 2, 3 e 4, as chaves $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$ e $1_{4}_{}$ são fechadas instantaneamente. Diante do exposto, a energia elétrica dissipada durante a descida do corpo até o ponto B, em joules, é:\nDados:\n• $1_{1}_{}$ = 10 Ω;\n• $1_{2}_{}$ = 10 Ω;\n• $1_{3}_{}$ = 5 Ω;\n• $1_{4}_{}$ = 2,5 Ω;\n• E = 10 V;\n• α = 30°; e\n• g = 10 m/s².",
       subItens: []
     },
     options: ["6","16","32","62","120"],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2018,
     text: {
-      principal: "Um tubo sonoro de comprimento total L = 1m, aberto nas duas extremidades, possui uma parede móvel em seu interior, conforme a figura. Essa parede é composta de material refletor de ondas sonoras e pode ser transladada para diferentes posições, dividindo o tubo em duas câmaras de comprimento L1 e L2. Duas ondas sonoras distintas adentram nesse tubo, uma pela abertura da esquerda, com f1 = 2,89 kHz, e outra pela abertura da direita, com f2 = 850 Hz. Em relação às ondas sonoras, os valores de L1 e L2, em cm, que possibilitarão a formação de ondas ressonantes em ambas as cavidades são, respectivamente:\nDado:\n• O meio no interior do tudo é o ar, onde o som se propaga com velocidade 340 m/s.",
+      principal: "Um tubo sonoro de comprimento total L = 1m, aberto nas duas extremidades, possui uma parede móvel em seu interior, conforme a figura. Essa parede é composta de material refletor de ondas sonoras e pode ser transladada para diferentes posições, dividindo o tubo em duas câmaras de comprimento $1_{1}_{}$ e $1_{2}_{}$. Duas ondas sonoras distintas adentram nesse tubo, uma pela abertura da esquerda, com $1_{1}$ = 2,89 kHz, e outra pela abertura da direita, com $1_{2}$ = 850 Hz. Em relação às ondas sonoras, os valores de $1_{1}_{}$ e $1_{2}_{}$, em cm, que possibilitarão a formação de ondas ressonantes em ambas as cavidades são, respectivamente:\nDado:\n• O meio no interior do tudo é o ar, onde o som se propaga com velocidade 340 m/s.",
       subItens: []
     },
     options: ["14,7 e 85,3","44,1 e 55,9","50,0 e 50,0","70,0 e 30,0","90,0 e 10,0"],

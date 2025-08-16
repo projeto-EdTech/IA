@@ -438,7 +438,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Observe as fotos, respectivamente de 1961 e de 1989.\n[Image of two photos, first showing a man in front of a tractor, second showing a man looking at a wall with graffiti, both from http://g1.globo.com]\nAs imagens podem ser utilizadas para",
+      principal: "Observe as fotos, respectivamente de 1961 e de 1989.\n[Image of two photos, first showing a man in front of a tractor, second showing a man looking at a wall with graffiti, both from http://$1_{1}$.globo.com]\nAs imagens podem ser utilizadas para",
       subItens: []
     },
     options: ["confirmar a política segregacionista e racista do nazismo.","expor as tensões entre civis e militares no Maio de 1968 francês.","demostrar a destruição provocada pela Segunda Guerra Mundial.","simbolizar o acirramento e o fim da Guerra Fria.","contrapor a ordem no mundo socialista à desordem do capitalismo."],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Em 1997, pesquisadores criaram Polly, uma ovelha contendo o gene humano F9, responsável pela produção do fator IX de coagulação e vital para indivíduos com hemofilia. Polly, assim como a famosa ovelha Dolly, foi gerada a partir da fusão de um óvulo anucleado com um fibroblasto fetal cultivado em laboratório, no qual o gene F9 foi previamente introduzido em seu genoma.\n(Lygia da Veiga Pereira. Clonagem: da ovelha Dolly às células-tronco, 2005. Adaptado.)\nDe acordo com o texto, a ovelha Polly foi gerada pela fusão de um óvulo anucleado com uma célula _______ submetida à técnica de __________.\nAs lacunas do texto devem ser preenchidas por",
+      principal: "Em 1997, pesquisadores criaram Polly, uma ovelha contendo o gene humano $1_{9}_{}$, responsável pela produção do fator IX de coagulação e vital para indivíduos com hemofilia. Polly, assim como a famosa ovelha Dolly, foi gerada a partir da fusão de um óvulo anucleado com um fibroblasto fetal cultivado em laboratório, no qual o gene $1_{9}_{}$ foi previamente introduzido em seu genoma.\n(Lygia da Veiga Pereira. Clonagem: da ovelha Dolly às células-tronco, 2005. Adaptado.)\nDe acordo com o texto, a ovelha Polly foi gerada pela fusão de um óvulo anucleado com uma célula _______ submetida à técnica de __________.\nAs lacunas do texto devem ser preenchidas por",
       subItens: []
     },
     options: ["germinativa e transgenia.","somática e quimioterapia.","germinativa e permutação induzida.","somática e transgenia.","germinativa e quimioterapia."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "O esquema a seguir representa o processo de extração do óleo essencial de cascas de laranja.\n[Flowchart of extraction process: Cascas de laranja -> Processo 1 (Maceração das cascas com Éter) -> Sistema homogêneo -> Processo 2 (Separação do Éter e Óleo essencial)]\nOs números 1 e 2 correspondem a processos de separação de misturas denominados, respectivamente,",
+      principal: "O esquema a seguir representa o processo de extração do óleo essencial de cascas de laranja.\n[Flowchart of extraction process: Cascas de laranja$$ \rightarrow P$$rocesso 1 (Maceração das cascas com Éter$$) \rightarrow S$$istema homogêneo$$ \rightarrow P$$rocesso 2 (Separação do Éter e Óleo essencial)]\nOs números 1 e 2 correspondem a processos de separação de misturas denominados, respectivamente,",
       subItens: []
     },
     options: ["dissolução fracionada e filtração.","decantação e centrifugação.","centrifugação e filtração.","destilação e decantação.","filtração e destilação."],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Umectantes são substâncias que apresentam grande afinidade por moléculas de água e, por isso, têm a propriedade de manter a umidade dos materiais, sendo adicionados a bolos, bolachas, panetones e outros alimentos. A tabela a seguir apresenta algumas substâncias utilizadas na preparação de alimentos.\n[Table with Substance and Formula: Cloreto de sódio (NaCl), Bicarbonato de sódio (NaHCO3), Glicerina (C3H8O3), Benzoato de sódio (C7H5NaO2), Acetato de etila (C4H8O2)]\nA substância presente na tabela que possui composição adequada para atuar como umectante é",
+      principal: "Umectantes são substâncias que apresentam grande afinidade por moléculas de água e, por isso, têm a propriedade de manter a umidade dos materiais, sendo adicionados a bolos, bolachas, panetones e outros alimentos. A tabela a seguir apresenta algumas substâncias utilizadas na preparação de alimentos.\n[Table with Substance and Formula: Cloreto de sódio (NaCl), Bicarbonato de sódio ($1_{3}$), Glicerina (C3H8O3), Benzoato de sódio (C7H5NaO2), Acetato de etila (C4H8O2)]\nA substância presente na tabela que possui composição adequada para atuar como umectante é",
       subItens: []
     },
     options: ["a glicerina.","o cloreto de sódio.","o benzoato de sódio.","o bicarbonato de sódio.","o acetato de etila."],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Uma pesquisa realizada pela Sociedade Brasileira de Cardiologia (SBC) constatou que os níveis elevados de colesterol atingem cerca de quatro em cada dez brasileiros adultos. Isso corresponde a cerca de 60 milhões de pessoas adultas. O estudo ainda revelou que aproximadamente 11% da população adulta brasileira nunca fez exame de colesterol.\n(https://noticias.r7.com, 08.08.2018. Adaptado.)\nA partir dos dados da notícia, é possível concluir que o número de brasileiros adultos que nunca fizeram exame de colesterol é de, aproximadamente,",
+      principal: "Uma pesquisa realizada pela Sociedade Brasileira de Cardiologia (SBC) constatou que os níveis elevados de colesterol atingem cerca de quatro em cada dez brasileiros adultos. Isso corresponde a cerca de 60 milhões de pessoas adultas. O estudo ainda revelou que aproximadamente 11% da população adulta brasileira nunca fez exame de colesterol.\n(https://noticias.$1_{7}$.com, 08.08.2018. Adaptado.)\nA partir dos dados da notícia, é possível concluir que o número de brasileiros adultos que nunca fizeram exame de colesterol é de, aproximadamente,",
       subItens: []
     },
     options: ["2,64 milhões.","8,6 milhões.","6,6 milhões.","3,96 milhões.","16,5 milhões."],

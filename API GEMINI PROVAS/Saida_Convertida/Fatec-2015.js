@@ -3,7 +3,7 @@ createQuestion({
     university: "Processo Seletivo Vestibular Fatec - 1º SEM/15",
     year: 2015,
     text: {
-      principal: "De acordo com o historiador Stuart B. Schwarcz, durante o período da colonização, havia um ditado popular que dizia: \"Sem açúcar, não há Brasil; sem a escravidão, não há açúcar; sem Angola, não há escravos\".\n(http://tinyurl.com/njyvll6 Acesso em: 30.06.2014.)\nEsse ditado traz elementos que permitem concluir que a organização colonial",
+      principal: "De acordo com o historiador Stuart B. Schwarcz, durante o período da colonização, havia um ditado popular que dizia: \"Sem açúcar, não há Brasil; sem a escravidão, não há açúcar; sem Angola, não há escravos\".\n(http://tinyurl.com/$1_{6}$ Acesso em: 30.06.2014.)\nEsse ditado traz elementos que permitem concluir que a organização colonial",
       subItens: []
     },
     options: ["dependia da produção de açúcar para exportação, produzido com trabalho de escravos.","era baseada na policultura de subsistência, para alimentar a grande população escrava.","utilizava-se do trabalho escravo, para garantir a produção de gêneros industrializados.","desenvolvia a economia do Brasil e de Angola, pois ambos dividiam os lucros do açúcar.","era baseada no trabalho assalariado, porém utilizava escravos nas atividades domésticas."],
@@ -93,7 +93,7 @@ createQuestion({
     university: "Processo Seletivo Vestibular Fatec - 1º SEM/15",
     year: 2015,
     text: {
-      principal: "Leia o texto para responder às questões de números 21 e 22.\nA história do seriado Breaking Bad gira em torno de um professor de Química do ensino médio, com uma esposa grávida e um filho adolescente que sofre de paralisia cerebral. Quando é diagnosticado com câncer, ele abraça uma vida de crimes, produzindo e vendendo metanfetaminas.\nO uso de drogas pode desestabilizar totalmente a vida de uma pessoa, gerando consequências devastadoras e permanentes. Muitas vezes, toda a família é afetada.\nAs metanfetaminas são substâncias relacionadas quimicamente com as anfetaminas e são um potente estimulante que afeta o sistema nervoso central.\n(http://tinyurl.com/pffwfe6 Acesso em: 13.06.2014. Adaptado)\nA metanfetamina, N-metil-1-fenilpropano-2-amina, (fórmula C10H15N), apresenta os isômeros representados pelas fórmulas estruturais:\n[Imagem das duas fórmulas estruturais]\nA análise das estruturas nos permite concluir, corretamente, que os compostos são isômeros",
+      principal: "Leia o texto para responder às questões de números 21 e 22.\nA história do seriado Breaking Bad gira em torno de um professor de Química do ensino médio, com uma esposa grávida e um filho adolescente que sofre de paralisia cerebral. Quando é diagnosticado com câncer, ele abraça uma vida de crimes, produzindo e vendendo metanfetaminas.\nO uso de drogas pode desestabilizar totalmente a vida de uma pessoa, gerando consequências devastadoras e permanentes. Muitas vezes, toda a família é afetada.\nAs metanfetaminas são substâncias relacionadas quimicamente com as anfetaminas e são um potente estimulante que afeta o sistema nervoso central.\n(http://tinyurl.com/$1_{6}$ Acesso em: 13.06.2014. Adaptado)\nA metanfetamina, N-metil-1-fenilpropano-2-amina, (fórmula C10H15N), apresenta os isômeros representados pelas fórmulas estruturais:\n[Imagem das duas fórmulas estruturais]\nA análise das estruturas nos permite concluir, corretamente, que os compostos são isômeros",
       subItens: []
     },
     options: ["de cadeia.","de posição.","de função.","geométricos.","ópticos."],

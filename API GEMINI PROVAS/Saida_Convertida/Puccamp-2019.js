@@ -303,7 +303,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2019,
     text: {
-      principal: "Vários minerais cristalinos são chamados popularmente de pedras preciosas. Um deles é a pedra esmeralda, cuja composição química é Al2Be3[Si6O18]. A porcentagem total em massa de berílio e alumínio nesse mineral é de, aproximadamente,\nDados:\nMassas molares (g/mol)\nBe = 9,0\nAl = 27,0\nSi = 28\nO = 16",
+      principal: "Vários minerais cristalinos são chamados popularmente de pedras preciosas. Um deles é a pedra esmeralda, cuja composição química é Al2Be3[$1_{6}O_{18}$]. A porcentagem total em massa de berílio e alumínio nesse mineral é de, aproximadamente,\nDados:\nMassas molares (g/mol)\nBe = 9,0\nAl = 27,0\nSi = 28\nO = 16",
       subItens: []
     },
     options: ["15%.","28%.","32%.","40%.","53%."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2019,
     text: {
-      principal: "Em um teatro, os ângulos sob os quais os espectadores enxergam o palco dependem da localização de suas poltronas na plateia. No esquema, que representa uma vista superior do teatro, os espectadores das poltronas E5 e N12 enxergam o palco sob ângulos de medidas, em graus, iguais a θ e β, respectivamente.\n[Image: A schematic top view of a theater stage (PALCO) and two audience positions, E5 and N12. E5 is on an arc A1, and N12 is on an arc A2, with A1 being the center of A2. Angles θ and β are shown, subtending the stage from E5 and N12 respectively.]\nA poltrona E5 está localizada sobre o arco de circunferência A1. A poltrona N12, sobre o arco de circunferência A2, cujo centro pertence ao arco A1. Nessas condições, é necessariamente verdadeira a relação:",
+      principal: "Em um teatro, os ângulos sob os quais os espectadores enxergam o palco dependem da localização de suas poltronas na plateia. No esquema, que representa uma vista superior do teatro, os espectadores das poltronas $1_{5}_{}$ e $1_{12}_{}$ enxergam o palco sob ângulos de medidas, em graus, iguais a θ e β, respectivamente.\n[Image: A schematic top view of a theater stage (PALCO) and two audience positions, $1_{5}_{}$ and $1_{12}_{}$. $1_{5}_{}$ is on an arc $1_{1}_{}$, and $1_{12}_{}$ is on an arc $1_{2}_{}$, with $1_{1}_{}$ being the center of $1_{2}_{}$. Angles θ and β are shown, subtending the stage from $1_{5}_{}$ and $1_{12}_{}$ respectively.]\nA poltrona $1_{5}_{}$ está localizada sobre o arco de circunferência $1_{1}_{}$. A poltrona $1_{12}_{}$, sobre o arco de circunferência $1_{2}_{}$, cujo centro pertence ao arco $1_{1}_{}$. Nessas condições, é necessariamente verdadeira a relação:",
       subItens: []
     },
     options: ["θ + β = 90°","θ + β = 180°","θ = β","θ = β +30°","θ = 2β"],
@@ -558,10 +558,10 @@ createQuestion({
     university: "Prova Geral",
     year: 2019,
     text: {
-      principal: "Vinil é o nome dado ao PVC, um polímero usado na fabricação de discos, canos, entre outros produtos.\n[Image: Chemical structure of PVC showing a repeating unit: (-CH2-CHCl-)n, with H, Cl, and C atoms explicitly drawn and bonds indicated.]\nO PVC é um polímero de",
+      principal: "Vinil é o nome dado ao PVC, um polímero usado na fabricação de discos, canos, entre outros produtos.\n[Image: Chemical structure of PVC showing a repeating unit: (-$1_{2}$-CHCl-)n, with H, Cl, and C atoms explicitly drawn and bonds indicated.]\nO PVC é um polímero de",
       subItens: []
     },
-    options: ["adição, e seu monômero é CH2-CHCl.","adição, e seu monômero é CH2CH=Cl.","adição, e seu monômero é CH2=CHCl.","condensação, e seu monômero é CH2–CHCl.","condensação, e seu monômero é CH2=CHCl."],
+    options: ["adição, e seu monômero é $1_{2}$-CHCl.","adição, e seu monômero é CH2CH=Cl.","adição, e seu monômero é $1_{2}$=CHCl.","condensação, e seu monômero é $1_{2}$–CHCl.","condensação, e seu monômero é $1_{2}$=CHCl."],
     correctAnswer: 2,
     materia: "Química – Polímeros",
     conteudo: "Química – Química Orgânica",
@@ -663,7 +663,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2019,
     text: {
-      principal: "O branqueamento da celulose para fabricação de papel ocorre em várias etapas, consumindo as seguintes quantidades de reagentes, para cada tonelada de celulose seca:\n[Table: Reagentes | Quantidades (kg)\nCloro (Cl2) | 15-20\nSoda cáustica (NaOH) | 15-25\nDióxido de cloro (ClO2) | 5-8\nPeróxido de hidrogênio (H2O2) | 4-6\nOxigênio (O2) | 16-24]\nA razão entre as quantidades molares máximas de cloro e oxigênio usadas para o branqueamento indicado na tabela corresponde a, aproximadamente,\nDados:\nMassas molares (g/mol)\nCl = 35,5\nO = 16,0",
+      principal: "O branqueamento da celulose para fabricação de papel ocorre em várias etapas, consumindo as seguintes quantidades de reagentes, para cada tonelada de celulose seca:\n[Table: Reagentes | Quantidades (kg)\nCloro ($1_{2}_{}$) | 15-20\nSoda cáustica (NaOH) | 15-25\nDióxido de cloro ($1_{2}$) | 5-8\nPeróxido de hidrogênio ($1_{2}O_{2}$) | 4-6\nOxigênio ($1_{2}_{}$) | 16-24]\nA razão entre as quantidades molares máximas de cloro e oxigênio usadas para o branqueamento indicado na tabela corresponde a, aproximadamente,\nDados:\nMassas molares (g/mol)\nCl = 35,5\nO = 16,0",
       subItens: []
     },
     options: ["0,18.","0,37.","0,56.","0,74.","0,93."],

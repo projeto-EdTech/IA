@@ -36,7 +36,7 @@ createQuestion({
       principal: "A nutricionista Fernanda Serra Granado, mencionada no texto de Thaís Carrança, aponta alguns fatores que motivaram a modificação da dieta do brasileiro. Baseando-se nas observações da profissional no texto \"Por que feijão está sumindo do prato dos brasileiros\", assinale o que for correto.",
       subItens: []
     },
-    options: ["Apesar de o feijão ser rico em vitaminas, proteínas e minerais, inclusive ferro, além de fibras solúveis e insolúveis, que ajudam no funcionamento da digestão, pesquisas recentes apontaram que somente outros vegetais oferecem a vitamina B12.","A entrada de transnacionais do setor de alimentos e a maior participação das mulheres no mercado de trabalho, na década de 1980, mudaram o perfil de consumo da população, que passou a enxergar nos ultraprocessados uma alternativa mais prática para o cotidiano.","Práticas culinárias e receitas que, antigamente, eram passadas de geração a geração, começaram a desaparecer e a cair em desuso na contemporaneidade.","Alimentos como o feijão têm sido cada vez menos plantados devido à maior lucratividade da comercialização internacional de produtos como a soja e o milho, o que causou um aumento de preços do feijão acima da inflação nos últimos onze anos."],
+    options: ["Apesar de o feijão ser rico em vitaminas, proteínas e minerais, inclusive ferro, além de fibras solúveis e insolúveis, que ajudam no funcionamento da digestão, pesquisas recentes apontaram que somente outros vegetais oferecem a vitamina $1_{12}_{}$.","A entrada de transnacionais do setor de alimentos e a maior participação das mulheres no mercado de trabalho, na década de 1980, mudaram o perfil de consumo da população, que passou a enxergar nos ultraprocessados uma alternativa mais prática para o cotidiano.","Práticas culinárias e receitas que, antigamente, eram passadas de geração a geração, começaram a desaparecer e a cair em desuso na contemporaneidade.","Alimentos como o feijão têm sido cada vez menos plantados devido à maior lucratividade da comercialização internacional de produtos como a soja e o milho, o que causou um aumento de preços do feijão acima da inflação nos últimos onze anos."],
     correctAnswer: null,
     materia: "Língua Portuguesa – Compreensão de Texto",
     conteudo: "",
@@ -543,10 +543,10 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "B é uma matriz quadrada e BT denota a sua transposta. Se BT = -B, então B é dita matriz antissimétrica. Considerando que\n\n[MATRIX: A = (4+a a b; a21 b+2 c; a31 a32 2c-8) 3x3]\n\né uma matriz antissimétrica, assinale o que for correto.",
+      principal: "B é uma matriz quadrada e BT denota a sua transposta. Se BT = -B, então B é dita matriz antissimétrica. Considerando que\n\n[MATRIX: A = (4+a a b; $1_{21}$ b+2 c; $1_{31}$ $1_{32}$ 2c-8) 3x3]\n\né uma matriz antissimétrica, assinale o que for correto.",
       subItens: []
     },
-    options: ["A21 = 4.","A31 + A21 = 6.","A32 < 0.","a + b + c < 0."],
+    options: ["$1_{21}_{}$ = 4.","$1_{31}_{}$ + $1_{21}_{}$ = 6.","$1_{32}_{}$ < 0.","a + b + c < 0."],
     correctAnswer: null,
     materia: "Matemática – Matrizes",
     conteudo: "Matemática – Propriedades de Matrizes",

@@ -111,7 +111,7 @@ createQuestion({
       principal: "A membrana plasmática é composta por fosfolipídios organizados como uma camada dupla contínua e fluida, cujo interior é hidrofóbico e exterior hidrofílico. Nessa bicamada lipídica se inserem proteínas e outras moléculas que desempenham diversas funções na célula. Essa estrutura e a composição da membrana permitem que a célula mantenha um ambiente interno relativamente constante, uma vez que a difusão de moléculas através da membrana depende da afinidade dessas moléculas pelo interior hidrofóbico da bicamada. Com relação à passagem de moléculas através da membrana plasmática é INCORRETO afirmar que:",
       subItens: []
     },
-    options: ["A bicamada de fosfolipídios é relativamente impermeável à passagem da maioria das moléculas solúveis em água, devido ao seu interior hidrofóbico.","A membrana plasmática impede a entrada de moléculas nocivas no interior da célula, devido à sua permeabilidade seletiva.","A composição da membrana plasmática permite que a célula mantenha concentrações de solutos no seu interior (citosol) diferentes daquelas do fluido extracelular.","O transporte ativo de íons e moléculas com carga através da membrana é realizado por proteínas que transferem esses íons e moléculas de uma região menos concentrada para uma região de maior concentração.","Gases como O2, CO2 e N2 e moléculas lipossolúveis, como hormônios esteróides, difundem-se passivamente através da bicamada lipídica, sem gasto de energia."],
+    options: ["A bicamada de fosfolipídios é relativamente impermeável à passagem da maioria das moléculas solúveis em água, devido ao seu interior hidrofóbico.","A membrana plasmática impede a entrada de moléculas nocivas no interior da célula, devido à sua permeabilidade seletiva.","A composição da membrana plasmática permite que a célula mantenha concentrações de solutos no seu interior (citosol) diferentes daquelas do fluido extracelular.","O transporte ativo de íons e moléculas com carga através da membrana é realizado por proteínas que transferem esses íons e moléculas de uma região menos concentrada para uma região de maior concentração.","Gases como $1_{2}_{}$, $1_{2}$ e $1_{2}_{}$ e moléculas lipossolúveis, como hormônios esteróides, difundem-se passivamente através da bicamada lipídica, sem gasto de energia."],
     correctAnswer: 1,
     materia: "Biologia – Citologia",
     conteudo: "",
@@ -273,7 +273,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Sabendo que o CO2 é um dos produtos da reação de combustão de compostos orgânicos, o número de moléculas de CO2 produzidas quando da combustão de 116g de butano (C4H10) é aproximadamente:",
+      principal: "Sabendo que o $1_{2}$ é um dos produtos da reação de combustão de compostos orgânicos, o número de moléculas de $1_{2}$ produzidas quando da combustão de 116g de butano ($1_{4}H_{10}$) é aproximadamente:",
       subItens: []
     },
     options: ["4,8 x 10²⁴","1,2 x 10²⁴","3,6 x 10²⁴","2,4 x 10²⁴","9,6 x 10²⁴"],
@@ -288,10 +288,10 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Londres já foi considerada uma das cidades de maior poluição ambiental da Europa. Além do ozônio (O3), a capital britânica era assolada por poluentes como partículas de fuligem e dióxido de nitrogênio (NO2), cujas concentrações eram consideradas as piores entre todas as capitais na União Europeia. Mas este quadro é parte do passado. Atualmente, a poluição do ar em Londres apresenta uma taxa de 15 microgramas e se aproxima cada vez mais do patamar desejado pela Organização Mundial da Saúde (OMS). Londres é um exemplo a ser seguido pela cidade de São Paulo, que apresentava no ano passado, índices de poluição duas vezes superiores ao teto estabelecido pela OMS. Acerca dos compostos mencionados no fragmento de texto acima, é possível afirmar que:",
+      principal: "Londres já foi considerada uma das cidades de maior poluição ambiental da Europa. Além do ozônio ($1_{3}_{}$), a capital britânica era assolada por poluentes como partículas de fuligem e dióxido de nitrogênio ($1_{2}$), cujas concentrações eram consideradas as piores entre todas as capitais na União Europeia. Mas este quadro é parte do passado. Atualmente, a poluição do ar em Londres apresenta uma taxa de 15 microgramas e se aproxima cada vez mais do patamar desejado pela Organização Mundial da Saúde (OMS). Londres é um exemplo a ser seguido pela cidade de São Paulo, que apresentava no ano passado, índices de poluição duas vezes superiores ao teto estabelecido pela OMS. Acerca dos compostos mencionados no fragmento de texto acima, é possível afirmar que:",
       subItens: []
     },
-    options: ["O ozônio (O3) faz ligação iônica, enquanto o dióxido de nitrogênio (NO2) realiza ligações covalentes.","O número de oxidação do oxigênio no ozônio (O3) e no dióxido de nitrogênio (NO2) é, respectivamente, - 2 e 0.","A ligação do dióxido de nitrogênio (NO2) é do tipo iônica porque ocorre entre ametais.","Ambos fazem ligação covalente.","Ambos os compostos são substâncias simples."],
+    options: ["O ozônio ($1_{3}_{}$) faz ligação iônica, enquanto o dióxido de nitrogênio ($1_{2}$) realiza ligações covalentes.","O número de oxidação do oxigênio no ozônio ($1_{3}_{}$) e no dióxido de nitrogênio ($1_{2}$) é, respectivamente, - 2 e 0.","A ligação do dióxido de nitrogênio ($1_{2}$) é do tipo iônica porque ocorre entre ametais.","Ambos fazem ligação covalente.","Ambos os compostos são substâncias simples."],
     correctAnswer: 3,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Química Ambiental",
@@ -306,7 +306,7 @@ createQuestion({
       principal: "Neste ano, Vinícius de Moraes completaria 104 anos de vida. Sua vasta obra e riqueza poética, reconhecida mundialmente, possui um tema recorrente a mulher. Química orgânica Há mulheres altas e mulheres baixas; mulheres bonitas e mulheres feias; mulheres gordas e mulheres magras; mulheres caseiras e mulheres rueiras; mulheres fecundas e mulheres estéreis; (...) Mas, do que pouca gente sabe é que há duas categorias antagônicas de mulheres cujo conhecimento é da maior utilidade, vez que pode ser determinante na relação desses dois sexos que eu, num dia feliz, chamei de \"inimigos inseparáveis\". São as mulheres \"ácidas\" e as mulheres \"básicas\", qualificação esta tirada à designação coletiva de compostos químicos que, no primeiro caso, são hidrogenados, de sabor azedo; e no segundo, resultam da união dos óxidos com a água e devolvem à tintura do tornassol, previamente avermelhada pelos ácidos, sua primitiva cor azul. O texto cita um indicador que muda de coloração de acordo com a característica ácido-básica do meio em que é colocado. A partir das colorações que o indicador pode adquirir, a alternativa que indica um composto que é responsável por deixar azul o papel de tornassol, é:",
       subItens: []
     },
-    options: ["CO2","H2O","Ca(OH)2","HCI","Na2SO4"],
+    options: ["$1_{2}$","$1_{2}O_{}$","Ca(OH)2","HCI","$1_{2}SO_{4}$"],
     correctAnswer: 2,
     materia: "Química – Funções Inorgânicas",
     conteudo: "",

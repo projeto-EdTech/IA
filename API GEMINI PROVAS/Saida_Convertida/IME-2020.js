@@ -123,7 +123,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Diversos modelos de placas de identificação de veículos já foram adotados no Brasil. Considere os seguintes modelos de placas e a descrição de sua composição alfanumérica:\nModelo 1: AB123 (duas letras seguidas de três números)\nModelo 2: AB1234 (duas letras seguidas de quatro números)\nModelo 3: ABC1234 (três letras seguidas de quatro números)\nModelo 4: ABC1D23 (três letras seguidas de um número, uma letra e dois números)\nSejam C1, C2, C3 e C4 as quantidades das combinações alfanuméricas possíveis para os modelos 1, 2, 3 e 4, respectivamente. Os números C1, C2, C3 e C4 são termos de uma progressão aritmética com infinitos termos com a maior razão possível. A soma dos algarismos da razão dessa progressão é:\nObservação: • considere o alfabeto com 26 letras.",
+      principal: "Diversos modelos de placas de identificação de veículos já foram adotados no Brasil. Considere os seguintes modelos de placas e a descrição de sua composição alfanumérica:\nModelo 1: $1_{123}$ (duas letras seguidas de três números)\nModelo 2: $1_{1234}$ (duas letras seguidas de quatro números)\nModelo 3: $1_{1234}$ (três letras seguidas de quatro números)\nModelo 4: ABC1D23 (três letras seguidas de um número, uma letra e dois números)\nSejam $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$ e $1_{4}_{}$ as quantidades das combinações alfanuméricas possíveis para os modelos 1, 2, 3 e 4, respectivamente. Os números $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$ e $1_{4}_{}$ são termos de uma progressão aritmética com infinitos termos com a maior razão possível. A soma dos algarismos da razão dessa progressão é:\nObservação: • considere o alfabeto com 26 letras.",
       subItens: []
     },
     options: ["11","12","14","16","19"],
@@ -138,10 +138,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Considere a progressão geométrica a1, a2,…,an,… e a progressão aritmética b1, b2,…, bn,… com as condições:\na₁ > 0;\na2/a1 > 1; e\nb2-b₁ > 0\nPara que [loga(an) – bn] não dependa de n, o valor de a deverá ser:",
+      principal: "Considere a progressão geométrica $1_{1}$, $1_{2}$,…,an,… e a progressão aritmética $1_{1}$, $1_{2}$,…, bn,… com as condições:\na₁ > 0;\$1_{2}$/$1_{1}$ > 1; e\$1_{2}$-b₁ > 0\nPara que [loga(an) – bn] não dependa de n, o valor de a deverá ser:",
       subItens: []
     },
-    options: ["(a2/a₁)^(1/b2)","(a2/a1)^(1/b₁)","(a2/a₁)^(1/(b2-b₁))","(a2/a₁)^(1/(b1-b2))","(a2/a₁)^(1/b1b2)"],
+    options: ["($1_{2}$/a₁)^(1/$1_{2}$)","($1_{2}$/$1_{1}$)^(1/b₁)","($1_{2}$/a₁)^(1/($1_{2}$-b₁))","($1_{2}$/a₁)^(1/($1_{1}$-$1_{2}$))","($1_{2}$/a₁)^(1/b1b2)"],
     correctAnswer: 2,
     materia: "Matemática – Progressão Geométrica",
     conteudo: "Matemática – Progressão Aritmética",
@@ -333,7 +333,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Uma fonte luminosa A emite uma luz com comprimento de onda λ = 500 nm, no vácuo, na direção de um anteparo localizado em C. Em frente ao espelho localizado em B, encontra-se a película P₁ com índice de refração n₁ = 1,25 e, em frente ao espelho localizado em D, encontra-se uma a película P2 com índice de refração n2.\nObservações:\n• os espelhos equidistam do centro do anteparo C;\n• após ser emitido do ponto A, o feixe de luz reflete em direção a B e refrata em direção a D;\n• após refletir em B, o feixe refrata diretamente em direção a E; e\n• após refletir em D, o feixe volta a refletir totalmente em C em direção a E.\nO menor índice de refração n₂ para que ocorra interferência totalmente destrutiva para um observador localizado em E, é",
+      principal: "Uma fonte luminosa A emite uma luz com comprimento de onda λ = 500 nm, no vácuo, na direção de um anteparo localizado em C. Em frente ao espelho localizado em B, encontra-se a película P₁ com índice de refração n₁ = 1,25 e, em frente ao espelho localizado em D, encontra-se uma a película $1_{2}_{}$ com índice de refração $1_{2}$.\nObservações:\n• os espelhos equidistam do centro do anteparo C;\n• após ser emitido do ponto A, o feixe de luz reflete em direção a B e refrata em direção a D;\n• após refletir em B, o feixe refrata diretamente em direção a E; e\n• após refletir em D, o feixe volta a refletir totalmente em C em direção a E.\nO menor índice de refração n₂ para que ocorra interferência totalmente destrutiva para um observador localizado em E, é",
       subItens: []
     },
     options: ["1,00","1,05","1,15","1,20","1,25"],

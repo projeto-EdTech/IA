@@ -96,7 +96,7 @@ createQuestion({
       principal: "Questão 7. Na figura, a extremidade de uma haste delgada livre, de massa m uniformemente distribuída, apoia-se sem atrito sobre a massa M do pêndulo simples. Considerando o atrito entre a haste e o piso, assinale a razão M/m para que o conjunto permaneça em equilíbrio estático.",
       subItens: []
     },
-    options: ["() tan 4/2 tan0","() (1 – tanp)/4send cos φ","() (sen2 cot 0 - 2sen20)/4","() (sen cot 0 – 2sen220)/4","() (sen2 cot θ – sen20)/4"],
+    options: ["() tan 4/2 $1_{0}$","() (1 – tanp)/4send cos φ","() ($1_{2}$ cot 0 - 2sen20)/4","() (sen cot 0 – 2sen220)/4","() ($1_{2}$ cot θ – $1_{20}$)/4"],
     correctAnswer: 0,
     materia: "Física – Estática de Corpos Rígidos",
     conteudo: "Física – Atrito",
@@ -138,7 +138,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Questão 10. A figura mostra dois anteparos opacos à radiação, sendo um com fenda de tamanho variável d, com centro na posição x = 0, e o outro com dois fotodetectores de intensidade da radiação, tal que F₁ se situa em x = 0 e F₂, em x = L > 4d. No sistema incide radiação eletromagnética de comprimento de onda λ constante. Num primeiro experimento, a relação entre d e λ é tal que d » λ, e são feitas as seguintes afirmativas: I. Só F₁ detecta radiação. II. F₁ e F₂ detectam radiação. III. F₁ não detecta e F₂ detecta radiação. Num segundo experimento, d é reduzido até à ordem do comprimento de λ e, neste caso, são feitas estas afirmativas: IV. F₂ detecta radiação de menor intensidade que a detectada em F1. V. Só F₁ detecta radiação. VI. Só F₂ detecta radiação. Assinale as afirmativas possíveis para a detecção da radiação em ambos os experimentos.",
+      principal: "Questão 10. A figura mostra dois anteparos opacos à radiação, sendo um com fenda de tamanho variável d, com centro na posição x = 0, e o outro com dois fotodetectores de intensidade da radiação, tal que F₁ se situa em x = 0 e F₂, em x = L > 4d. No sistema incide radiação eletromagnética de comprimento de onda λ constante. Num primeiro experimento, a relação entre d e λ é tal que d » λ, e são feitas as seguintes afirmativas: I. Só F₁ detecta radiação. II. F₁ e F₂ detectam radiação. III. F₁ não detecta e F₂ detecta radiação. Num segundo experimento, d é reduzido até à ordem do comprimento de λ e, neste caso, são feitas estas afirmativas: IV. F₂ detecta radiação de menor intensidade que a detectada em $1_{1}_{}$. V. Só F₁ detecta radiação. VI. Só F₂ detecta radiação. Assinale as afirmativas possíveis para a detecção da radiação em ambos os experimentos.",
       subItens: []
     },
     options: ["( ) I, II e IV","() I, IV e V","( ) II, IV e V","() III, V e VI","( ) I, IV e VI"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Sejam S₁ = {(x, y) ∈ R² : y ≥ ||x| − 1|} e S2 = {(x, y) ∈ R² : x² + (y + 1)² ≤ 25}. A área da região S₁ ∩ S2 é",
+      principal: "Sejam S₁ = {(x, y) ∈ R² : y ≥ ||x| − 1|} e $1_{2}_{}$ = {(x, y) ∈ R² : x² + (y + 1)² ≤ 25}. A área da região S₁ ∩ $1_{2}_{}$ é",
       subItens: []
     },
     options: ["25π/4 - 2.","25π/4 - 1.","25π/4.","75π/4 - 1.","75π/4 - 2."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Considere dois círculos no primeiro quadrante:\n• C₁ com centro (x1, y1), raio r₁ e área π/16\n• C2 com centro (x2, y2), raio r₂ e área 144π.\nSabendo que (x1,y1, r1) e (x2,y2,r2) são duas progressões geométricas com somas dos termos iguais a 7/4 e 21, respectivamente, então a distância entre os centros de C₁ e C2 é igual a",
+      principal: "Considere dois círculos no primeiro quadrante:\n• C₁ com centro ($1_{1}$, $1_{1}$), raio r₁ e área π/16\n• $1_{2}_{}$ com centro ($1_{2}$, $1_{2}$), raio r₂ e área 144π.\nSabendo que ($1_{1}$,$1_{1}$, $1_{1}$) e ($1_{2}$,$1_{2}$,$1_{2}$) são duas progressões geométricas com somas dos termos iguais a 7/4 e 21, respectivamente, então a distância entre os centros de C₁ e $1_{2}_{}$ é igual a",
       subItens: []
     },
     options: ["√123/2","√129/2","√131/2","√135/2","√137/2"],
@@ -483,7 +483,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Das afirmações:\nI. Todo número inteiro positivo pode ser escrito, de maneira única, na forma 2^(k-1)(2m – 1), em que k e m são inteiros positivos.\nII. Existe um número x ∈ [0, π/2] de tal modo que os números a1 = sen x, a2 = sen (x + π/4), a3 = sen (x + π/2) e a4 = sen (x + 3π/4) estejam, nesta ordem, em progressão geométrica.\nIII. Existe um número inteiro primo p tal que √p é um número racional.\né (são) verdadeira(s)",
+      principal: "Das afirmações:\nI. Todo número inteiro positivo pode ser escrito, de maneira única, na forma 2^(k-1)(2m – 1), em que k e m são inteiros positivos.\nII. Existe um número x ∈ [0, π/2] de tal modo que os números $1_{1}$ = sen x, $1_{2}$ = sen (x + π/4), $1_{3}$ = sen (x + π/2) e $1_{4}$ = sen (x + 3π/4) estejam, nesta ordem, em progressão geométrica.\nIII. Existe um número inteiro primo p tal que √p é um número racional.\né (são) verdadeira(s)",
       subItens: []
     },
     options: ["apenas I.","apenas II.","apenas III.","apenas I e II.","todas."],
@@ -498,10 +498,10 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Com os elementos 1,2,...,10 são formadas todas as sequências (a1,a2,..., a7). Escolhendo-se aleatoriamente uma dessas sequências, a probabilidade de a sequência escolhida não conter elementos repetidos é",
+      principal: "Com os elementos 1,2,...,10 são formadas todas as sequências ($1_{1}$,$1_{2}$,..., $1_{7}$). Escolhendo-se aleatoriamente uma dessas sequências, a probabilidade de a sequência escolhida não conter elementos repetidos é",
       subItens: []
     },
-    options: ["7! / (10^7 * 3!)","10! / (10^7 * 3!)","3! / (10^7 * 7!)","10! / (10^3 * 7!)","10! / 10^7"],
+    options: ["7! / ($1^{7}$ * 3!)","10! / ($1^{7}$ * 3!)","3! / ($1^{7}$ * 7!)","10! / ($1^{3}$ * 7!)","10! / $1^{7}$"],
     correctAnswer: 1,
     materia: "Matemática – Probabilidade",
     conteudo: "Matemática – Análise Combinatória",
@@ -663,7 +663,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Barreiras térmicas de base cerâmica são empregadas em projetos aeroespaciais. Considere os materiais a seguir: I. BN II. Fe2O3 III. NaN3 IV. Na2SiO3 V. SiC Assinale a opção que apresenta o(s) material(is) geralmente empregado(s) como componente(s) principal(is) de barreiras térmicas em projetos aeroespaciais.",
+      principal: "Barreiras térmicas de base cerâmica são empregadas em projetos aeroespaciais. Considere os materiais a seguir: I. BN II. $1_{2}O_{3}$ III. $1_{3}$ IV. Na2SiO3 V. SiC Assinale a opção que apresenta o(s) material(is) geralmente empregado(s) como componente(s) principal(is) de barreiras térmicas em projetos aeroespaciais.",
       subItens: []
     },
     options: ["Apenas I e V.","Apenas II.","Apenas III.","Apenas III e IV.","Apenas V."],
@@ -723,10 +723,10 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "O diagrama de van Arkel-Ketelar apresenta uma visão integrada das ligações químicas de compostos binários, representando os três tipos clássicos de ligação nos vértices de um triângulo. Os vértices esquerdo e direito da base correspondem, respectivamente, aos elementos menos e mais eletronegativos, enquanto o vértice superior do triângulo representa o composto puramente iônico. Com base no diagrama, assinale a opção que apresenta o composto binário de maior caráter covalente. A figura mostra um diagrama triangular intitulado 'Diferença entre eletronegatividades' no eixo Y (de 0 a 3) e 'Eletronegatividade' no eixo X (com pontos Cs, C, N, O, F e 100% Covalente, 100% Iônico e 100% Metálico nos vértices). O vértice superior é \"Iônico\", o inferior esquerdo \"Metálico\" (Cs) e o inferior direito \"Covalente\" (F). Pontos plotados no gráfico são CCl4, C3N4, CO2, NO, OF2.",
+      principal: "O diagrama de van Arkel-Ketelar apresenta uma visão integrada das ligações químicas de compostos binários, representando os três tipos clássicos de ligação nos vértices de um triângulo. Os vértices esquerdo e direito da base correspondem, respectivamente, aos elementos menos e mais eletronegativos, enquanto o vértice superior do triângulo representa o composto puramente iônico. Com base no diagrama, assinale a opção que apresenta o composto binário de maior caráter covalente. A figura mostra um diagrama triangular intitulado 'Diferença entre eletronegatividades' no eixo Y (de 0 a 3) e 'Eletronegatividade' no eixo X (com pontos Cs, C, N, O, F e 100% Covalente, 100% Iônico e 100% Metálico nos vértices). O vértice superior é \"Iônico\", o inferior esquerdo \"Metálico\" (Cs) e o inferior direito \"Covalente\" (F). Pontos plotados no gráfico são $1_{4}$, $1_{3}N_{4}$, $1_{2}$, NO, $1_{2}$.",
       subItens: []
     },
-    options: ["CCl4","C3N4","CO2","NO","OF2"],
+    options: ["$1_{4}$","$1_{3}N_{4}$","$1_{2}$","NO","$1_{2}$"],
     correctAnswer: 4,
     materia: "Química – Ligações químicas",
     conteudo: "Química – Eletronegatividade",
@@ -768,7 +768,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "A 25 °C, o potencial da pilha descrita abaixo é de 0,56 V. Sendo E°(Cu2+/Cu) = + 0,34 V, assinale a opção que indica aproximadamente o valor do pH da solução. Pt(s)|H2(g, 1 bar), H+(aq, x mol·L⁻¹)||Cu2+(aq, 1,0 mol·L⁻¹)|Cu(s)",
+      principal: "A 25 °C, o potencial da pilha descrita abaixo é de 0,56 V. Sendo E°($1_{2}_{}$+/Cu) = + 0,34 V, assinale a opção que indica aproximadamente o valor do pH da solução. Pt(s)|$1_{2}_{}$(g, 1 bar), H+(aq, x mol·L⁻¹)||$1_{2}_{}$+(aq, 1,0 mol·L⁻¹)|Cu(s)",
       subItens: []
     },
     options: ["6,5","5,7","3,7","2,0","1,5"],
@@ -798,7 +798,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Considere que a decomposição do N2O5, representada pela equação química global 2N2O5 →4NO2 + O2, apresente lei de velocidade de primeira ordem. No instante inicial da reação, a concentração de N2O5 é de 0,10 mol·L⁻¹ e a velocidade de consumo desta espécie é de 0,022 mol·L⁻¹·min⁻¹. Assinale a opção que apresenta o valor da constante de velocidade da reação global, em min⁻¹.",
+      principal: "Considere que a decomposição do $1_{2}O_{5}$, representada pela equação química global 2N2O5 →4NO2 + $1_{2}_{}$, apresente lei de velocidade de primeira ordem. No instante inicial da reação, a concentração de $1_{2}O_{5}$ é de 0,10 mol·L⁻¹ e a velocidade de consumo desta espécie é de 0,022 mol·L⁻¹·min⁻¹. Assinale a opção que apresenta o valor da constante de velocidade da reação global, em min⁻¹.",
       subItens: []
     },
     options: ["0,0022","0,011","0,022","0,11","0,22"],
@@ -813,7 +813,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Um motor pulso-jato é uma máquina térmica que pode ser representada por um ciclo termodinâmico ideal de três etapas: I. Aquecimento isocórico (combustão). II. Expansão adiabática (liberação de gases). III. Compressão isobárica (rejeição de calor a pressão atmosférica). Considerando que essa máquina térmica opere com gases ideais, indique qual dos diagramas pressão versus volume a seguir representa o seu ciclo termodinâmico. A figura mostra 5 gráficos (A, B, C, D, E) de Pressão (P) versus Volume (V). Cada gráfico representa um ciclo termodinâmico com 3 etapas. O eixo Y representa P, e o eixo X representa V. Gráfico A: Começa em P_atm, V_k, sobe para P_2, V_k (isocórico); expande adiabaticamente para V_1, P_k; comprime isobáricamente de V_1 para V_k em P_k. Gráfico B: Começa em P_atm, V_k, sobe para P_2, V_k (isocórico); expande adiabaticamente de V_k para V_1 (P_k = P2(V2/Vk)^y); comprime isobáricamente de V_1 para V_k em P_k. V_2 V_1 V_k estão na ordem. Gráfico C: Começa em P_atm, V_1, sobe para P_2, V_1 (isocórico); expande adiabaticamente de V_1 para V_k (Pk < P2(V2/Vk)); comprime isobáricamente de V_k para V_1 em P_k. Gráfico D: Começa em P_atm, V_1, sobe para P_2, V_1 (isocórico); expande adiabaticamente de V_1 para V_k (Pk < P2(V2/Vk)); comprime isobáricamente de V_k para V_1 em P_k. V_2 V_1 V_k estão na ordem. Gráfico E: Começa em P_atm, V_1, sobe para P_2, V_1 (isocórico); expande adiabaticamente de V_1 para V_k (Pk > P2(V2/Vk)); comprime isobáricamente de V_k para V_1 em P_k. V_1 Vk estão na ordem, V2 = V1.",
+      principal: "Um motor pulso-jato é uma máquina térmica que pode ser representada por um ciclo termodinâmico ideal de três etapas: I. Aquecimento isocórico (combustão). II. Expansão adiabática (liberação de gases). III. Compressão isobárica (rejeição de calor a pressão atmosférica). Considerando que essa máquina térmica opere com gases ideais, indique qual dos diagramas pressão versus volume a seguir representa o seu ciclo termodinâmico. A figura mostra 5 gráficos (A, B, C, D, E) de Pressão (P) versus Volume (V). Cada gráfico representa um ciclo termodinâmico com 3 etapas. O eixo Y representa P, e o eixo X representa V. Gráfico A: Começa em P_atm, V_k, sobe para P_2, V_k (isocórico); expande adiabaticamente para V_1, P_k; comprime isobáricamente de V_1 para V_k em P_k. Gráfico B: Começa em P_atm, V_k, sobe para P_2, V_k (isocórico); expande adiabaticamente de V_k para V_1 (P_k = $1_{2}_{}$($1_{2}_{}$/Vk)^y); comprime isobáricamente de V_1 para V_k em P_k. V_2 V_1 V_k estão na ordem. Gráfico C: Começa em P_atm, V_1, sobe para P_2, V_1 (isocórico); expande adiabaticamente de V_1 para V_k (Pk < $1_{2}_{}$($1_{2}_{}$/Vk)); comprime isobáricamente de V_k para V_1 em P_k. Gráfico D: Começa em P_atm, V_1, sobe para P_2, V_1 (isocórico); expande adiabaticamente de V_1 para V_k (Pk < $1_{2}_{}$($1_{2}_{}$/Vk)); comprime isobáricamente de V_k para V_1 em P_k. V_2 V_1 V_k estão na ordem. Gráfico E: Começa em P_atm, V_1, sobe para P_2, V_1 (isocórico); expande adiabaticamente de V_1 para V_k (Pk > $1_{2}_{}$($1_{2}_{}$/Vk)); comprime isobáricamente de V_k para V_1 em P_k. V_1 Vk estão na ordem, $1_{2}_{}$ = $1_{1}_{}$.",
       subItens: []
     },
     options: ["(Representa o Gráfico A)","(Representa o Gráfico B)","(Representa o Gráfico C)","(Representa o Gráfico D)","(Representa o Gráfico E)"],
@@ -888,7 +888,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "São feitas as seguintes proposições a respeito dos hidrocarbonetos cuja fórmula molecular é C5H10: I. Existem apenas seis isômeros do C5H10. II. Pelo menos um dos isômeros do C5H10 é quiral. III. Em condições ambiente e na ausência de luz todos os isômeros do C5H10 são capazes de descolorir água de bromo. Das proposições acima é (são) CORRETA(S)",
+      principal: "São feitas as seguintes proposições a respeito dos hidrocarbonetos cuja fórmula molecular é $1_{5}H_{10}$: I. Existem apenas seis isômeros do $1_{5}H_{10}$. II. Pelo menos um dos isômeros do $1_{5}H_{10}$ é quiral. III. Em condições ambiente e na ausência de luz todos os isômeros do $1_{5}H_{10}$ são capazes de descolorir água de bromo. Das proposições acima é (são) CORRETA(S)",
       subItens: []
     },
     options: ["apenas I.","apenas II.","apenas III.","apenas I e III.","apenas II e III."],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Observe a tirinha a seguir e responda as questões 31 e 32.\n\nCALVIN E HAROLDO\nBY BILL WATTERSON\nESSE NOTICIÁRIO\nNÃO É INFORMATINO!\nISSO NÃO PASSA DE\nSENSACIONALISMO\nBARATO!\n...E EU\nADORO!\n\nhttp://2.bp.blogspot.com/_wBWh8NQAZ78/TBWEMQ8147I/AAAAAAAAACE/zmfW9c8uAKk/s1600/Tirinha_Sensacionalismo.jpg.\n(Acesso em 12/05/2016)\n\nQuestão 31. Que atitude típica de parte do público televisivo é reproduzida por Calvin, o garoto da tirinha?",
+      principal: "Observe a tirinha a seguir e responda as questões 31 e 32.\n\nCALVIN E HAROLDO\nBY BILL WATTERSON\nESSE NOTICIÁRIO\nNÃO É INFORMATINO!\nISSO NÃO PASSA DE\nSENSACIONALISMO\nBARATO!\n...E EU\nADORO!\n\nhttp://2.bp.blogspot.com/_wBWh8NQAZ78/TBWEMQ8147I/AAAAAAAAACE/zmfW9c8uAKk/$1_{1600}$/Tirinha_Sensacionalismo.jpg.\n(Acesso em 12/05/2016)\n\nQuestão 31. Que atitude típica de parte do público televisivo é reproduzida por Calvin, o garoto da tirinha?",
       subItens: []
     },
     options: ["Assistir àquilo que critica.","Assistir somente àquilo que está na moda.","Mudar de opinião de acordo com o momento.","Não criticar aquilo a que assiste.","Interagir com o apresentador de TV."],
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Observe a tirinha que traz a personagem Mafalda, do cartunista Quino, e responda a Questão 33.\n\n...INFORMA QUE\nDIANTE DOS\nACONTECIMENTOS\nQUE SÃO DE DOMINIO\nPUBLICO...\nCLACK\nEI,NÃO!\nTUDO BEM..\nCLACK\nSE VOCÊ ACREDITA QUE\nÉO PÚBLICO QUE DOMINA\nOS ACONTECIMENTOS...\n\nhttp://4.bp.blogspot.com/-20adcvrO4Kw/U_4ga8Ic56I/AAAAAAAAAzQ/hq2oxMLA7yY/s1600/mafalda-1.jpg.\n(Acesso em 12/05/2016)\n\nQuestão 33. Considere as seguintes asserções:\nI. Mafalda atribui ao termo domínio um sentido diverso do veiculado pelo locutor da televisão.\nII. Na frase dita por Mafalda, o termo público constitui o sujeito responsável pela ação de dominar.\nIII. A atitude e a fala de Mafalda demonstram que ela concorda com a ideia de que o público domina os acontecimentos.\nEstá(ão) correta(s)",
+      principal: "Observe a tirinha que traz a personagem Mafalda, do cartunista Quino, e responda a Questão 33.\n\n...INFORMA QUE\nDIANTE DOS\nACONTECIMENTOS\nQUE SÃO DE DOMINIO\nPUBLICO...\nCLACK\nEI,NÃO!\nTUDO BEM..\nCLACK\nSE VOCÊ ACREDITA QUE\nÉO PÚBLICO QUE DOMINA\nOS ACONTECIMENTOS...\n\nhttp://4.bp.blogspot.com/-20adcvrO4Kw/U_4ga8Ic56I/AAAAAAAAAzQ/hq2oxMLA7yY/$1_{1600}$/mafalda-1.jpg.\n(Acesso em 12/05/2016)\n\nQuestão 33. Considere as seguintes asserções:\nI. Mafalda atribui ao termo domínio um sentido diverso do veiculado pelo locutor da televisão.\nII. Na frase dita por Mafalda, o termo público constitui o sujeito responsável pela ação de dominar.\nIII. A atitude e a fala de Mafalda demonstram que ela concorda com a ideia de que o público domina os acontecimentos.\nEstá(ão) correta(s)",
       subItens: []
     },
     options: ["apenas I.","apenas I e II.","I, II e III.","apenas II.","apenas III."],
@@ -1443,7 +1443,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "As questões de 17 a 20 referem-se ao texto a seguir:\n\nSTARSHOT PROJECT: STEPHEN HAWKING AND MARK ZUCKERBERG LAUNCH MOST AMBITIOUS ALIEN-FINDING PROJECT EVER\n\nTiny rockets are going to be sent into space to study the far universe in the most ambitious space exploration project in history. Scientists including Stephen Hawking and backers such as internet investor Yuri Milner and Mark Zuckerberg will send \"nano craft\" deep into space to explore the most remote regions that humans have ever seen, by far. The hugely ambitious project could reveal deep secrets of the universe and will allow people to photograph one of the most likely places to hold life on other worlds. Professor Hawking said at the event: \"What makes us unique is transcending our limits. Gravity pins us to the ground, but I just flew to America. \"How do we transcend these limits? With our minds and our machines. \"The limit that confronts us now is the great void between us and the stars. But now we can transcend it, with light beams, light sails, and the lightest spacecraft ever built. Today we commit to this next great leap into the cosmos, because we are human and our nature is to fly.\" The Starshot Project hopes to get the tiny robots out to the Alpha Centauri star system, 25 trillion miles away. Getting there through normal means would take 30,000 years - but the new project hopes that using the tiny rockets will allow them to get there in just 20. Scientists think that the Alpha Centauri system might well have an Earth-like planet that could be found in its \"habitable zones\". The craft will be able to take pictures of those a potential way that they might find life on other worlds. The crafts will be \"gram-scale nano craft\", according to Yuri Milner, which will make their way through space using a \"sail pushed by a light beam\". Their design will allow them to fly at 25 per cent of light speed. Those craft will be able to send back images of possible planets and other scientific data, according to the scientists behind it. \"The human story is one of great leaps,\" Dr Milner said. \"Today we are preparing for the next great leap - to the stars. \"Can we literally reach the stars, and can we do it in our lifetime?\" The tiny rockets are made up of computers that can be mounted to a tiny “wafer”. Shrinking computer components mean that all of the necessary parts – cameras, thrusters, power supply and navigation equipment - can all be mounted on a tiny plate that will be a fully functional space probe. Before those are built, the project will have to create all of the important parts on the ground. That includes the construction of a light-beamer that can power the rockets and a \"mothership” that will be able to carry them all out into space and launch them. Because of economies of scale and the decreasing price of computer components, the team will eventually be able to send out the rockets for just a few hundred thousand dollars, they said.\nFonte: http://www.independent.co.uk/news/science/starshot-project-stephen-hawking-and-mark-zuckerberg-to-send-tiny-rockets-to-alpha-centauri-in-most-a6981101.html (acesso em 03/05/2016).\n\nQuestão 17. De acordo com o texto, o principal objetivo do Projeto Starshot é",
+      principal: "As questões de 17 a 20 referem-se ao texto a seguir:\n\nSTARSHOT PROJECT: STEPHEN HAWKING AND MARK ZUCKERBERG LAUNCH MOST AMBITIOUS ALIEN-FINDING PROJECT EVER\n\nTiny rockets are going to be sent into space to study the far universe in the most ambitious space exploration project in history. Scientists including Stephen Hawking and backers such as internet investor Yuri Milner and Mark Zuckerberg will send \"nano craft\" deep into space to explore the most remote regions that humans have ever seen, by far. The hugely ambitious project could reveal deep secrets of the universe and will allow people to photograph one of the most likely places to hold life on other worlds. Professor Hawking said at the event: \"What makes us unique is transcending our limits. Gravity pins us to the ground, but I just flew to America. \"How do we transcend these limits? With our minds and our machines. \"The limit that confronts us now is the great void between us and the stars. But now we can transcend it, with light beams, light sails, and the lightest spacecraft ever built. Today we commit to this next great leap into the cosmos, because we are human and our nature is to fly.\" The Starshot Project hopes to get the tiny robots out to the Alpha Centauri star system, 25 trillion miles away. Getting there through normal means would take 30,000 years - but the new project hopes that using the tiny rockets will allow them to get there in just 20. Scientists think that the Alpha Centauri system might well have an Earth-like planet that could be found in its \"habitable zones\". The craft will be able to take pictures of those a potential way that they might find life on other worlds. The crafts will be \"gram-scale nano craft\", according to Yuri Milner, which will make their way through space using a \"sail pushed by a light beam\". Their design will allow them to fly at 25 per cent of light speed. Those craft will be able to send back images of possible planets and other scientific data, according to the scientists behind it. \"The human story is one of great leaps,\" Dr Milner said. \"Today we are preparing for the next great leap - to the stars. \"Can we literally reach the stars, and can we do it in our lifetime?\" The tiny rockets are made up of computers that can be mounted to a tiny “wafer”. Shrinking computer components mean that all of the necessary parts – cameras, thrusters, power supply and navigation equipment - can all be mounted on a tiny plate that will be a fully functional space probe. Before those are built, the project will have to create all of the important parts on the ground. That includes the construction of a light-beamer that can power the rockets and a \"mothership” that will be able to carry them all out into space and launch them. Because of economies of scale and the decreasing price of computer components, the team will eventually be able to send out the rockets for just a few hundred thousand dollars, they said.\nFonte: http://www.independent.co.uk/news/science/starshot-project-stephen-hawking-and-mark-zuckerberg-to-send-tiny-rockets-to-\alpha-centauri-in-most-$1_{6981101}$.html (acesso em 03/05/2016).\n\nQuestão 17. De acordo com o texto, o principal objetivo do Projeto Starshot é",
       subItens: []
     },
     options: ["() enviar robôs minúsculos para encontrar e investigar vida alienígena inteligente em galáxias distantes.","() encontrar planetas semelhantes à Terra, para os quais humanos devam ser transportados dentro de vinte anos.","() enviar \"nanofoguetes\" para a galáxia mais distante do sistema solar, aonde nenhum ser humano seria capaz de chegar.","() enviar foguetes minúsculos ao sistema estelar Alfa Centauri a fim de obter imagens de seus planetas e outros dados científicos.","() alterar as leis da gravidade e transcender os limites da ciência atual com nossas mentes e máquinas de forma nunca antes imaginada."],

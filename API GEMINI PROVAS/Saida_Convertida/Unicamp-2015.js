@@ -3,7 +3,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "INCOME TAXES\nE=MC²\nWAS EASIER!\nINCOME\nDAVE GRANLUND www.davegranlund.com\n(Adaptado de http://www.politicalcartoons.com/cartoon/69af1b15-2271-45d4-be10-320535f6aa6c.html. Acessado em 15/05/2014.)\nO personagem do cartum",
+      principal: "INCOME TAXES\nE=MC²\nWAS EASIER!\nINCOME\nDAVE GRANLUND www.davegranlund.com\n(Adaptado de http://www.politicalcartoons.com/cartoon/69af1b15-2271-45d4-$1_{10}$-320535f6aa6c.html. Acessado em 15/05/2014.)\nO personagem do cartum",
       subItens: []
     },
     options: ["considera tão difícil o processo de criação da fórmula E=mc² quanto calcular o imposto de renda.","compara o processo de criação da fórmula E=mc² e o cálculo do imposto de renda.","prefere realizar tarefas que lhe cabem como cidadão às atividades que realiza como físico.","qualifica como mais fácil calcular o imposto de renda do que o processo de criação da fórmula E=mc²."],
@@ -18,7 +18,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "TRIBUNI\nNO E-HARMONY? NO FACEBOOK? HOW DID YOU AND GRANDMA EVER MANAGE TO MEET EACH OTHER?\n(Disponível em: http://issuu.com/carimactimes2010/docs/backstage_-_carimac_times_2010. Acessado em 28/10/2014.)\nPara o menino do cartum é surpreendente que seus avós",
+      principal: "TRIBUNI\nNO E-HARMONY? NO FACEBOOK? HOW DID YOU AND GRANDMA EVER MANAGE TO MEET EACH OTHER?\n(Disponível em: http://issuu.com/$1_{2010}$/docs/backstage_-_carimac_times_2010. Acessado em 28/10/2014.)\nPara o menino do cartum é surpreendente que seus avós",
       subItens: []
     },
     options: ["já possuam contas nas redes virtuais de relacionamento.","tenham se conhecido nas redes virtuais de relacionamento.","ainda não consigam gerenciar suas relações sociais nas redes virtuais de relacionamento.","tenham conseguido se conhecer fora das redes virtuais de relacionamento."],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Texto para as questões 31, 32 e 33.\nRecentemente, uma equipe de astrônomos afirmou ter identificado uma estrela com dimensões comparáveis às da Terra, composta predominantemente de diamante. Por ser muito frio, o astro, possivelmente uma estrela anã branca, teria tido o carbono de sua composição cristalizado em forma de um diamante praticamente do tamanho da Terra.\nOs astrônomos estimam que a estrela estaria situada a uma distância d = 9,0 x 10^18 m da Terra. Considerando um foguete que se desloca a uma velocidade v = 1,5 x 10^4 m/s, o tempo de viagem do foguete da Terra até essa estrela seria de\n(1 ano ≈ 3,0x10^7 s)",
+      principal: "Texto para as questões 31, 32 e 33.\nRecentemente, uma equipe de astrônomos afirmou ter identificado uma estrela com dimensões comparáveis às da Terra, composta predominantemente de diamante. Por ser muito frio, o astro, possivelmente uma estrela anã branca, teria tido o carbono de sua composição cristalizado em forma de um diamante praticamente do tamanho da Terra.\nOs astrônomos estimam que a estrela estaria situada a uma distância d = $1 \times 10^{18}$ m da Terra. Considerando um foguete que se desloca a uma velocidade v = $1 \times 10^{4}$ m/s, o tempo de viagem do foguete da Terra até essa estrela seria de\n(1 ano ≈ $1 \times 10^{7}$ s)",
       subItens: []
     },
     options: ["2.000 anos.","300.000 anos.","6.000.000 anos.","20.000.000 anos."],
@@ -483,10 +483,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Os cálculos dos pesquisadores sugerem que a temperatura média dessa estrela é de T₁ = 2.700 °C. Considere uma estrela como um corpo homogêneo de massa M = 6,0 x 10^24 kg constituída de um material com calor específico c = 0,5 kJ/(kg °C). A quantidade de calor que deve ser perdida pela estrela para que ela atinja uma temperatura final de T₁ = 700 °C é igual a",
+      principal: "Os cálculos dos pesquisadores sugerem que a temperatura média dessa estrela é de T₁ = 2.700 °C. Considere uma estrela como um corpo homogêneo de massa M = $1 \times 10^{24}$ kg constituída de um material com calor específico c = 0,5 kJ/(kg °C). A quantidade de calor que deve ser perdida pela estrela para que ela atinja uma temperatura final de T₁ = 700 °C é igual a",
       subItens: []
     },
-    options: ["24,0 x 10^27 kJ.","6,0 x 10^27 kJ.","8,1 x 10^27 kJ.","2,1 x 10^27 kJ."],
+    options: ["$1 \times 10^{27}$ kJ.","$1 \times 10^{27}$ kJ.","$1 \times 10^{27}$ kJ.","$1 \times 10^{27}$ kJ."],
     correctAnswer: 2,
     materia: "Física – Calorimetria",
     conteudo: "",
@@ -501,7 +501,7 @@ createQuestion({
       principal: "Considere um computador que armazena informações em um disco rígido que gira a uma frequência de 120 Hz. Cada unidade de informação ocupa um comprimento físico de 0,2 µm na direção do movimento de rotação do disco. Quantas informações magnéticas passam, por segundo, pela cabeça de leitura, se ela estiver posicionada a 3 cm do centro de seu eixo, como mostra o esquema simplificado apresentado abaixo?\n(Considere ㅠ ≈ 3.)",
       subItens: []
     },
-    options: ["1,62 x 10^8.","1,8 x 10^6.","64,8 x 10^8.","1,08 x 10^8."],
+    options: ["$1 \times 10^{8}$.","$1 \times 10^{6}$.","$1 \times 10^{8}$.","$1 \times 10^{8}$."],
     correctAnswer: 2,
     materia: "Física – Movimento Circular",
     conteudo: "",
@@ -531,7 +531,7 @@ createQuestion({
       principal: "Qual o trabalho executado pela força de atrito entre o pneu e o solo para parar um carro de massa m = 1.000 kg, inicialmente a v = 72 km/h, sabendo que os pneus travam no instante da frenagem, deixando de girar, e o carro desliza durante todo o tempo de frenagem?",
       subItens: []
     },
-    options: ["3,6 x 10^4 J.","2,0 x 10^5 J.","4,0 x 10^5 J.","2,6 x 10^6 J."],
+    options: ["$1 \times 10^{4}$ J.","$1 \times 10^{5}$ J.","$1 \times 10^{5}$ J.","$1 \times 10^{6}$ J."],
     correctAnswer: 3,
     materia: "Física – Trabalho e Energia",
     conteudo: "",
@@ -963,7 +963,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "O cartaz a seguir foi usado em uma campanha pública para doação de sangue.\nUMA DOAÇÃO PODE SALVAR ATÉ 3 PESSOAS\nROLEZINHO NO HEMORIO\nA META: 1.000 DOAÇÕES EM 1 DIA\nSÁBADO HEMORIO\n1.FEV - 9H R. FREI CANECA 9\nANONYMOUS RIOT\n(Disponível em www.facebook.com/pages/HEMORIO/144978045579742?fref=ts. Acessado em 08/09/2014.)\nGlossário\nRolezinho: diminutivo de rolê ou rolé; em linguagem informal, significa \"pequeno passeio\". Recentemente, tem designado encontros simultâneos de centenas de pessoas em locais como praças, parques públicos e shopping centers, organizados via internet.\nAnonymous riot: rebelião anônima.\nConsiderando como os sentidos são produzidos no cartaz e o seu caráter persuasivo, pode-se afirmar que:",
+      principal: "O cartaz a seguir foi usado em uma campanha pública para doação de sangue.\nUMA DOAÇÃO PODE SALVAR ATÉ 3 PESSOAS\nROLEZINHO NO HEMORIO\nA META: 1.000 DOAÇÕES EM 1 DIA\nSÁBADO HEMORIO\$1_{1}$.FEV - 9H R. FREI CANECA 9\nANONYMOUS RIOT\n(Disponível em www.facebook.com/pages/HEMORIO/144978045579742?fref=ts. Acessado em 08/09/2014.)\nGlossário\nRolezinho: diminutivo de rolê ou rolé; em linguagem informal, significa \"pequeno passeio\". Recentemente, tem designado encontros simultâneos de centenas de pessoas em locais como praças, parques públicos e shopping centers, organizados via internet.\nAnonymous riot: rebelião anônima.\nConsiderando como os sentidos são produzidos no cartaz e o seu caráter persuasivo, pode-se afirmar que:",
       subItens: []
     },
     options: ["As figuras humanas estilizadas, semelhantes umas às outras, remetem ao grupo homogêneo das pessoas que podem ajudar e ser ajudadas.","A expressão “rolezinho” remete à meta de se reunir muitas pessoas, em um só dia, para doar sangue.","O termo \"até” indica o limite mínimo de pessoas a serem beneficiadas a partir da ação de um só indivíduo.","O destaque visual dado à expressão “ROLEZINHO NO HEMORIO\" tem a função de enfatizar a participação individual na campanha."],
@@ -1008,7 +1008,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto.\nRobô comandado por paraplégico foi mostrado na abertura da Copa. Equipamento transforma força do pensamento em movimentos mecânicos.\nEm entrevista ao G1, o neurocientista brasileiro Miguel Nicolelis comentou que inicialmente estava previsto um jovem paraplégico se levantar da cadeira de rodas, andar alguns passos e dar um chute na bola, que seria o \"pontapé inicial\" do Mundial do Brasil. Mas a estratégia foi revista após a Fifa informar que o grupo teria 29 segundos para realizar a demonstração científica.\nNa última quinta-feira, o voluntário Juliano Pinto, de 29 anos, deu um chute simbólico na bola da Copa usando o exoesqueleto. Na transmissão oficial, exibida por emissoras em todo o mundo, a cena durou apenas sete segundos.\nO neurocientista minimizou as críticas recebidas após a rápida apresentação na Arena Corinthians: \"Tenham calma, não olhem para isso como se fosse um jogo de futebol. Tem que conhecer tecnicamente e saber o esforço. Robótica não é filme de Hollywood, tem limitações que nós conhecemos. O limite desse trabalho foi alcançado. Os oito pacientes atingiram um grau de proficiência e controle mental muito altos, e tudo isso será publicado\", garante.\n(Adaptado de Eduardo Carvalho, 'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto. Disponível em http://g1.globo.com/ciencia-e-saude/noticia/2014/06/robotica-nao-e-filme-de-hollywood-diz-nicolelis-sobre-o-exoesqueleto.html. Acessado em 18/06/2014.)\nConsiderando a notícia transcrita acima, pode-se dizer que a afirmação reproduzida no título (\"Robótica não é filme de Hollywood\").",
+      principal: "'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto.\nRobô comandado por paraplégico foi mostrado na abertura da Copa. Equipamento transforma força do pensamento em movimentos mecânicos.\nEm entrevista ao $1_{1}_{}$, o neurocientista brasileiro Miguel Nicolelis comentou que inicialmente estava previsto um jovem paraplégico se levantar da cadeira de rodas, andar alguns passos e dar um chute na bola, que seria o \"pontapé inicial\" do Mundial do Brasil. Mas a estratégia foi revista após a Fifa informar que o grupo teria 29 segundos para realizar a demonstração científica.\nNa última quinta-feira, o voluntário Juliano Pinto, de 29 anos, deu um chute simbólico na bola da Copa usando o exoesqueleto. Na transmissão oficial, exibida por emissoras em todo o mundo, a cena durou apenas sete segundos.\nO neurocientista minimizou as críticas recebidas após a rápida apresentação na Arena Corinthians: \"Tenham calma, não olhem para isso como se fosse um jogo de futebol. Tem que conhecer tecnicamente e saber o esforço. Robótica não é filme de Hollywood, tem limitações que nós conhecemos. O limite desse trabalho foi alcançado. Os oito pacientes atingiram um grau de proficiência e controle mental muito altos, e tudo isso será publicado\", garante.\n(Adaptado de Eduardo Carvalho, 'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto. Disponível em http://$1_{1}$.globo.com/ciencia-e-saude/noticia/2014/06/robotica-nao-e-filme-de-hollywood-diz-nicolelis-sobre-o-exoesqueleto.html. Acessado em 18/06/2014.)\nConsiderando a notícia transcrita acima, pode-se dizer que a afirmação reproduzida no título (\"Robótica não é filme de Hollywood\").",
       subItens: []
     },
     options: ["reitera a baixa qualidade técnica das imagens da demonstração com o exoesqueleto, depreciando a própria realização do experimento com voluntários.","destaca a grande receptividade da demonstração com o exoesqueleto junto ao público da Copa, superior à dos filmes produzidos em Hollywood.","aponta a necessidade de maiores investimentos financeiros na geração de imagens que possam valorizar a importância de conquistas científicas na mídia.","sugere que os resultados desse feito científico são muito mais complexos do que as imagens veiculadas pela televisão permitiram ver."],

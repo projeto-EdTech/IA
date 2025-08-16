@@ -48,7 +48,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2016,
     text: {
-      principal: "Sobre os lados do triângulo retângulo ABC, foram desenhados pentágonos regulares cujas áreas são S₁, S₂ e S₃, conforme indica a figura abaixo. Sabendo-se que os lados AB e AC têm o mesmo comprimento, é correto afirmar que:\n\n(Imagem de um triângulo retângulo ABC com pentágonos regulares construídos sobre cada lado, rotulados S1, S2, S3.)",
+      principal: "Sobre os lados do triângulo retângulo ABC, foram desenhados pentágonos regulares cujas áreas são S₁, S₂ e S₃, conforme indica a figura abaixo. Sabendo-se que os lados AB e AC têm o mesmo comprimento, é correto afirmar que:\n\n(Imagem de um triângulo retângulo ABC com pentágonos regulares construídos sobre cada lado, rotulados $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$.)",
       subItens: []
     },
     options: ["S₁ < S₂ + S₃","S₂ = S₁ + S₃","S₃ > S₂ + S₁","S₂ = S₁ + S₃","S₂ = S₁/S₃"],
@@ -858,10 +858,10 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2016,
     text: {
-      principal: "Sobre os lados do triângulo retângulo ABC, foram desenhados pentágonos regulares cujas áreas são S₁, S₂ e S3, conforme indica a figura abaixo. Sabendo-se que os lados AB e AC têm o mesmo comprimento, é correto afirmar que:\n[Image of a right triangle with regular pentagons on its sides]\nA) S₁ = S₂ + S3\nB) S = S + S\nC) S₁ > S₂ + S3\nD) S₁ < S₂ + S3\nE) S₂=S₁/S₃",
+      principal: "Sobre os lados do triângulo retângulo ABC, foram desenhados pentágonos regulares cujas áreas são S₁, S₂ e $1_{3}_{}$, conforme indica a figura abaixo. Sabendo-se que os lados AB e AC têm o mesmo comprimento, é correto afirmar que:\n[Image of a right triangle with regular pentagons on its sides]\nA) S₁ = S₂ + $1_{3}_{}$\nB) S = S + S\nC) S₁ > S₂ + $1_{3}_{}$\nD) S₁ < S₂ + $1_{3}_{}$\nE) S₂=S₁/S₃",
       subItens: []
     },
-    options: ["S₁ = S₂ + S3","S = S + S","S₁ > S₂ + S3","S₁ < S₂ + S3","S₂=S₁/S₃"],
+    options: ["S₁ = S₂ + $1_{3}_{}$","S = S + S","S₁ > S₂ + $1_{3}_{}$","S₁ < S₂ + $1_{3}_{}$","S₂=S₁/S₃"],
     correctAnswer: 0,
     materia: "Matemática – Geometria Plana",
     conteudo: "Matemática – Teorema de Pitágoras",
@@ -1248,10 +1248,10 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2016,
     text: {
-      principal: "Um circuito é formado por um resistor de resistência R, ligado em uma bateria com fem de valor 12 volts e resistência interna desprezível. A corrente e a fem estão na mesma direção. Sabendo-se que a resistência do resistor vale 2 ohms e a corrente que passa pelo resistor, no circuito, tem valor de 1 ampere. Pergunta-se: quais são os valores das potências, respectivamente, dissipada pelo resistor R, e da bateria?\nA) 0 We 1 W\nB) 1 We0W\nC) 3We2\nD) 2 We 12 W\nE) 4 We2W",
+      principal: "Um circuito é formado por um resistor de resistência R, ligado em uma bateria com fem de valor 12 volts e resistência interna desprezível. A corrente e a fem estão na mesma direção. Sabendo-se que a resistência do resistor vale 2 ohms e a corrente que passa pelo resistor, no circuito, tem valor de 1 ampere. Pergunta-se: quais são os valores das potências, respectivamente, dissipada pelo resistor R, e da bateria?\nA) 0 We 1 W\nB) 1 $1_{0}W_{}$\nC) 3We2\nD) 2 We 12 W\nE) 4 $1_{2}W_{}$",
       subItens: []
     },
-    options: ["0 We 1 W","1 We0W","3We2","2 We 12 W","4 We2W"],
+    options: ["0 We 1 W","1 $1_{0}W_{}$","3We2","2 We 12 W","4 $1_{2}W_{}$"],
     correctAnswer: 3,
     materia: "Física – Eletrodinâmica",
     conteudo: "Física – Potência Elétrica",
@@ -1638,7 +1638,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2016,
     text: {
-      principal: "\"A tradicional \"Festa da Damurida\" acontece todos os anos no mês de novembro, num período de três dias, onde todos os índios da Comunidade Malacacheta, moradores da região [Sudeste do Estado de Roraima, na Região do Município do Cantá], se reúnem em festividade de danças e rituais próprios e se alimentam da Damurida (peixe cozido apimentado).\"\nBARROS, K. Marco Teórico: A comunidade Malacacheta. In: As percepções sobre o ambiente na comunidade indígena malacacheta: realidade e perespectivas diante da presença dos não indígenas. 2010. 127 f. Dissertação (Mestrado em Ensino de Ciências e Matemática) - Universidade Luterana do Brasil, Canoas/2010.38 р.\nO ingrediente principal da Damurida é a pimenta. A piperina e a capsaicina são duas substâncias químicas responsáveis pela sensação de ardor causada pelas pimentas. Observe as duas estruturas abaixo e analise as seguintes proposições:\n[Images of chemical structures for Capsaicina and Piperina]\nI - a piperina possui dois anéis aromáticos em sua estrutura;\nII - a capsaicina apresenta fórmula molecular C₁₈H₂₇NO₃, átomos de carbono com hibridização sp² e 5 (cinco) ligações π (pi);\nIII - a capsaicina e a piperina possuem isomeria geométrica com configuração trans;\nIV - a capsaicina apresenta carbono quiral;\nV - a capsaicina e a piperina, submetidas à ação da água na presença de catalisador, obtêm-se compostos contendo na cadeia lateral do anel aromático carbonos com hibridização do tipo sp³ com arranjo geométrico tetraédrico;\nDas afirmações feitas, estão corretas:\nA) apenas I, III, IV\nB) apenas I, II, III e V\nC) apenas I, II\nD) apenas II, III\nE) apenas II, III e V",
+      principal: "\"A tradicional \"Festa da Damurida\" acontece todos os anos no mês de novembro, num período de três dias, onde todos os índios da Comunidade Malacacheta, moradores da região [Sudeste do Estado de Roraima, na Região do Município do Cantá], se reúnem em festividade de danças e rituais próprios e se alimentam da Damurida (peixe cozido apimentado).\"\nBARROS, K. Marco Teórico: A comunidade Malacacheta. In: As percepções sobre o ambiente na comunidade indígena malacacheta: realidade e perespectivas diante da presença dos não indígenas. 2010. 127 f. Dissertação (Mestrado em Ensino de Ciências e Matemática) - Universidade Luterana do Brasil, Canoas/2010.38 р.\nO ingrediente principal da Damurida é a pimenta. A piperina e a capsaicina são duas substâncias químicas responsáveis pela sensação de ardor causada pelas pimentas. Observe as duas estruturas abaixo e analise as seguintes proposições:\n[Images of chemical structures for Capsaicina and Piperina]\nI - a piperina possui dois anéis aromáticos em sua estrutura;\nII - a capsaicina apresenta fórmula molecular C₁₈H₂₇NO₃, átomos de carbono com hibridização sp² e 5 (cinco) ligações π (\pi);\nIII - a capsaicina e a piperina possuem isomeria geométrica com configuração trans;\nIV - a capsaicina apresenta carbono quiral;\nV - a capsaicina e a piperina, submetidas à ação da água na presença de catalisador, obtêm-se compostos contendo na cadeia lateral do anel aromático carbonos com hibridização do tipo sp³ com arranjo geométrico tetraédrico;\nDas afirmações feitas, estão corretas:\nA) apenas I, III, IV\nB) apenas I, II, III e V\nC) apenas I, II\nD) apenas II, III\nE) apenas II, III e V",
       subItens: []
     },
     options: ["apenas I, III, IV","apenas I, II, III e V","apenas I, II","apenas II, III","apenas II, III e V"],

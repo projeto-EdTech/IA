@@ -513,7 +513,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2020,
     text: {
-      principal: "A produção e a transmissão do impulso nervoso nos neurônios têm origem no mecanismo da bomba de sódio-potássio. Esse mecanismo é responsável pelo transporte de íons Na⁺ para o meio extracelular e K⁺ para o interior da célula, gerando o sinal elétrico. A ilustração abaixo representa esse processo.\n(Image: cell membrane showing Na+ and K+ movement)\nPara um estudo sobre transmissão de impulsos nervosos pela bomba de sódio-potássio, preparou-se uma mistura contendo os cátions Na⁺ e K⁺, formada pelas soluções aquosas A e B com solutos diferentes. Considere a tabela a seguir:\nSOLUÇÃO | VOLUME (mL) | SOLUTO | CONCENTRAÇÃO (mol/L)\nA | 400 | KCl | 0,1\nB | 600 | NaCl | 0,2\nAdmitindo a completa dissociação dos solutos, a concentração de íons cloreto na mistura, em mol/L, corresponde a:",
+      principal: "A produção e a transmissão do impulso nervoso nos neurônios têm origem no mecanismo da bomba de sódio-potássio. Esse mecanismo é responsável pelo transporte de íons Na⁺ para o meio extracelular e K⁺ para o interior da célula, gerando o sinal elétrico. A ilustração abaixo representa esse processo.\n(Image: cell membrane showing $1^+$ and K+ movement)\nPara um estudo sobre transmissão de impulsos nervosos pela bomba de sódio-potássio, preparou-se uma mistura contendo os cátions Na⁺ e K⁺, formada pelas soluções aquosas A e B com solutos diferentes. Considere a tabela a seguir:\nSOLUÇÃO | VOLUME (mL) | SOLUTO | CONCENTRAÇÃO (mol/L)\nA | 400 | KCl | 0,1\nB | 600 | NaCl | 0,2\nAdmitindo a completa dissociação dos solutos, a concentração de íons cloreto na mistura, em mol/L, corresponde a:",
       subItens: []
     },
     options: ["0,04","0,08","0,12","0,16"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2020,
     text: {
-      principal: "A hemoglobina glicada é um parâmetro de análise sanguínea que expressa a quantidade de glicose ligada às moléculas de hemoglobina. Essa ligação ocorre por meio da reação representada a seguir:\n(Image: Chemical reaction of glucose + hemoglobin reacting to form glycated hemoglobin + H2O, showing detailed structures of glucose and glycated hemoglobin)\nO grupamento funcional da molécula de glicose que reage com a hemoglobina corresponde à função orgânica denominada:",
+      principal: "A hemoglobina glicada é um parâmetro de análise sanguínea que expressa a quantidade de glicose ligada às moléculas de hemoglobina. Essa ligação ocorre por meio da reação representada a seguir:\n(Image: Chemical reaction of glucose + hemoglobin reacting to form glycated hemoglobin + $1_{2}O_{}$, showing detailed structures of glucose and glycated hemoglobin)\nO grupamento funcional da molécula de glicose que reage com a hemoglobina corresponde à função orgânica denominada:",
       subItens: []
     },
     options: ["amina","álcool","cetona","aldeído"],

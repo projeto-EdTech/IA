@@ -6,7 +6,7 @@ createQuestion({
       principal: "Observe a tira abaixo.\nFonte: Iotti. Zero Hora. 11 abr. 2014.\nSe o filho do Radicci tornar-se vegetariano do tipo que não utiliza produtos derivados de animais, ficará impossibilitado de obter, em sua dieta, a vitamina",
       subItens: []
     },
-    options: ["B12, que atua na formação de células vermelhas do sangue.","B12, que é encontrada nos pigmentos visuais.","D, que auxilia na formação do tecido conjuntivo.","E, que é responsável pela absorção de cálcio.","E, que participa da formação de nucleotídeos."],
+    options: ["$1_{12}_{}$, que atua na formação de células vermelhas do sangue.","$1_{12}_{}$, que é encontrada nos pigmentos visuais.","D, que auxilia na formação do tecido conjuntivo.","E, que é responsável pela absorção de cálcio.","E, que participa da formação de nucleotídeos."],
     correctAnswer: 0,
     materia: "Biologia – Nutrição e Metabolismo",
     conteudo: "",
@@ -18,7 +18,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "No bloco superior abaixo, são citados dois diferentes componentes estruturais do citoesqueleto; no inferior, suas funções.\nAssocie adequadamente o bloco inferior ao superior.\n1 - Microtúbulos\n2 - Microfilamentos\n( ) locomoção do espermatozoide\n( ) ciclose em células vegetais\n( ) contração e distensão das células musculares\n( ) formação de centríolos\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      principal: "No bloco superior abaixo, são citados dois diferentes componentes estruturais do citoesqueleto; no inferior, suas funções.\nAssocie adequadamente o bloco inferior ao superior.\$1_{1}$ - Microtúbulos\$1_{2}$ - Microfilamentos\n( ) locomoção do espermatozoide\n( ) ciclose em células vegetais\n( ) contração e distensão das células musculares\n( ) formação de centríolos\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       subItens: []
     },
     options: ["1 – 1 – 2 – 2.","1 – 2 – 2 – 1.","1 – 2 – 2 – 2.","2 – 1 – 1 – 1.","2 – 1 – 1 – 2."],
@@ -51,7 +51,7 @@ createQuestion({
       principal: "Sobre a fotossíntese, é correto afirmar que",
       subItens: []
     },
-    options: ["as reações dependentes de luz convertem energia luminosa em energia química.","o hidrogênio resultante da quebra da água é eliminado da célula durante a fotólise.","as reações dependentes de luz ocorrem no estroma do cloroplasto.","o oxigênio produzido na fotossíntese é resultante das reações independentes da luz.","os seres autótrofos utilizam o CO2 durante as reações dependentes de luz."],
+    options: ["as reações dependentes de luz convertem energia luminosa em energia química.","o hidrogênio resultante da quebra da água é eliminado da célula durante a fotólise.","as reações dependentes de luz ocorrem no estroma do cloroplasto.","o oxigênio produzido na fotossíntese é resultante das reações independentes da luz.","os seres autótrofos utilizam o $1_{2}$ durante as reações dependentes de luz."],
     correctAnswer: 0,
     materia: "Biologia – Bioenergética",
     conteudo: "",
@@ -153,7 +153,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "A coluna da esquerda, abaixo, lista dois hormônios vegetais; a da direita, funções que desempenham. Associe adequadamente a coluna da direita à da esquerda.\n1- Giberelina\n2- Auxina\n( ) promove a quebra da dormência da semente\n( ) regula a queda das folhas no outono\n( ) inibe o crescimento das gemas laterais\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      principal: "A coluna da esquerda, abaixo, lista dois hormônios vegetais; a da direita, funções que desempenham. Associe adequadamente a coluna da direita à da esquerda.\$1_{1}$- Giberelina\$1_{2}$- Auxina\n( ) promove a quebra da dormência da semente\n( ) regula a queda das folhas no outono\n( ) inibe o crescimento das gemas laterais\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       subItens: []
     },
     options: ["1 – 2 – 2.","2 – 1 – 2.","1 – 2 – 1.","2 – 1 – 1.","2 – 2 – 1."],
@@ -243,7 +243,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Instrução: As questões 17 e 18 referem-se aos enunciados e ao quadro abaixo.\nO quadro apresenta a distribuição dos 4 diferentes alelos do gene A cujas combinações genotípicas são responsáveis pelos padrões de coloração da pelagem de algumas raças caninas.\nAdaptado de Dreger D.L.; Schmutz, S. M. A SINE insertion causes the Black – and- tan and Saddle Tan Phenotypes in domestic dogs. Journal of Heredity, volume 102, supplement 1,September/October 2011, S11-S18.\nCom base no quadro, a hierarquia de dominância dos diferentes alelos é",
+      principal: "Instrução: As questões 17 e 18 referem-se aos enunciados e ao quadro abaixo.\nO quadro apresenta a distribuição dos 4 diferentes alelos do gene A cujas combinações genotípicas são responsáveis pelos padrões de coloração da pelagem de algumas raças caninas.\nAdaptado de Dreger D.L.; Schmutz, S. M. A SINE insertion causes the Black – and- tan and Saddle Tan Phenotypes in domestic dogs. Journal of Heredity, volume 102, supplement 1,September/October 2011, $1_{11}_{}$-$1_{18}_{}$.\nCom base no quadro, a hierarquia de dominância dos diferentes alelos é",
       subItens: []
     },
     options: ["aw > a > ay > at.","ay > at > a > aw.","at > ay > aw > a.","ay > aw > at > a.","aw > ay > a > at."],
@@ -378,10 +378,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Diamante e grafite são variedades alotrópicas do elemento carbono cujas densidades são, respectivamente,\nd (Cdiamante) = 3,5 g/cm³\nd (Cgrafite) = 2,3 g/cm³\nEm um conto de fadas, uma jovem foi a um baile com um anel de diamante de 1,75 quilates cuja pedra tem um volume V1 e, à meia-noite, esse diamante transformou-se em grafite.\n(dado: 1 quilate=0,20 g)\nO volume final dessa “pedra de grafite” será, aproximadamente,",
+      principal: "Diamante e grafite são variedades alotrópicas do elemento carbono cujas densidades são, respectivamente,\nd (Cdiamante) = 3,5 g/cm³\nd (Cgrafite) = 2,3 g/cm³\nEm um conto de fadas, uma jovem foi a um baile com um anel de diamante de 1,75 quilates cuja pedra tem um volume $1_{1}_{}$ e, à meia-noite, esse diamante transformou-se em grafite.\n(dado: 1 quilate=0,20 g)\nO volume final dessa “pedra de grafite” será, aproximadamente,",
       subItens: []
     },
-    options: ["0,4 V1","0,7 V1","1,5 V1","2,3 V1","3,5 V1"],
+    options: ["0,4 $1_{1}_{}$","0,7 $1_{1}_{}$","1,5 $1_{1}_{}$","2,3 $1_{1}_{}$","3,5 $1_{1}_{}$"],
     correctAnswer: 2,
     materia: "Química – Físico-Química",
     conteudo: "",
@@ -408,10 +408,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "O ferro é um dos mais importantes metais, utilizado pelo homem desde a antiguidade. São dadas as seguintes informações sobre o elemento ferro.\n1 - O ferro tem 4 isótopos estáveis naturais: 54Fe, 56Fe, 57Fe e 58Fe.\n2 - O ferro pode ocorrer nos compostos na forma de cátions Fe2+ ou Fe3+.\n3 - O ferro pode apresentar formas alotrópicas diferentes, tais como o Feα e o Feγ.\nConsiderando os princípios químicos e as informações apresentadas, é correto afirmar que",
+      principal: "O ferro é um dos mais importantes metais, utilizado pelo homem desde a antiguidade. São dadas as seguintes informações sobre o elemento ferro.\$1_{1}$ - O ferro tem 4 isótopos estáveis naturais: 54Fe, 56Fe, 57Fe e 58Fe.\$1_{2}$ - O ferro pode ocorrer nos compostos na forma de cátions $1_{2}_{}$+ ou $1_{3}_{}$+.\$1_{3}$ - O ferro pode apresentar formas alotrópicas diferentes, tais como o Feα e o Feγ.\nConsiderando os princípios químicos e as informações apresentadas, é correto afirmar que",
       subItens: []
     },
-    options: ["apenas o isótopo 56Fe é capaz de formar cátion Fe2+.","o Feα é formado pelos isótopos 54Fe e 56Fe, enquanto o Feγ é formado pelos isótopos 57Fe e 58Fe.","os cátions Fe2+ ou Fe3+ são originados de átomos de ferro com diferentes números atômicos.","o Feα origina os cátions Fe2+, e o Feγ origina os cátions Fe3+.","os diferentes isótopos do ferro podem ser encontrados tanto no Feα como no Feγ."],
+    options: ["apenas o isótopo 56Fe é capaz de formar cátion $1_{2}_{}$+.","o Feα é formado pelos isótopos 54Fe e 56Fe, enquanto o Feγ é formado pelos isótopos 57Fe e 58Fe.","os cátions $1_{2}_{}$+ ou $1_{3}_{}$+ são originados de átomos de ferro com diferentes números atômicos.","o Feα origina os cátions $1_{2}_{}$+, e o Feγ origina os cátions $1_{3}_{}$+.","os diferentes isótopos do ferro podem ser encontrados tanto no Feα como no Feγ."],
     correctAnswer: 4,
     materia: "Química – Estrutura Atômica",
     conteudo: "",
@@ -423,7 +423,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Um aficcionado do seriado TBBT, que tem como um dos principais bordões a palavra Bazinga, comprou uma camiseta alusiva a essa palavra com a representação dos seguintes elementos.\nEm relação a esses elementos, considere as afirmações abaixo.\nI - Zinco apresenta raio atômico maior que o bário.\nII - Zn2+ e Ga3+ são isoeletrônicos.\nIII- Bário é o elemento que apresenta menor potencial de ionização.\nQuais estão corretas?",
+      principal: "Um aficcionado do seriado TBBT, que tem como um dos principais bordões a palavra Bazinga, comprou uma camiseta alusiva a essa palavra com a representação dos seguintes elementos.\nEm relação a esses elementos, considere as afirmações abaixo.\nI - Zinco apresenta raio atômico maior que o bário.\nII - $1_{2}_{}$+ e $1_{3}_{}$+ são isoeletrônicos.\nIII- Bário é o elemento que apresenta menor potencial de ionização.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas II e III.","I, II e III."],
@@ -441,7 +441,7 @@ createQuestion({
       principal: "Postar fotos em redes sociais pode contribuir com o meio ambiente. As fotos digitais não utilizam mais os filmes tradicionais; no entanto os novos processos de revelação capturam as imagens e as colocam em papel de fotografia, de forma semelhante ao que ocorria com os antigos filmes. O papel é então revelado com os mesmos produtos químicos que eram utilizados anteriormente.\nO quadro abaixo apresenta algumas substâncias que podem estar presentes em um processo de revelação fotográfica.\nSobre essas substâncias, é correto afirmar que os átomos de",
       subItens: []
     },
-    options: ["prata no AgBr e no AgNO3 estão em um mesmo estado de oxidação.","enxofre no Na2S2O3 e no Na2SO3 estão em um mesmo estado de oxidação.","sódio no Na2S2O3 estão em um estado mais oxidado que no Na2SO3.","enxofre no Na2S2O3 estão em um estado mais oxidado que no Na2SO3.","oxigênio no KAl(SO4)2 estão em um estado mais oxidado que no AgNO3."],
+    options: ["prata no AgBr e no $1_{3}$ estão em um mesmo estado de oxidação.","enxofre no Na2S2O3 e no $1_{2}SO_{3}$ estão em um mesmo estado de oxidação.","sódio no Na2S2O3 estão em um estado mais oxidado que no $1_{2}SO_{3}$.","enxofre no Na2S2O3 estão em um estado mais oxidado que no $1_{2}SO_{3}$.","oxigênio no KAl($1_{4}$)2 estão em um estado mais oxidado que no $1_{3}$."],
     correctAnswer: 0,
     materia: "Química – Reações Químicas",
     conteudo: "",
@@ -453,10 +453,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Em ambientes fechados, tais como submarinos e espaçonaves, há necessidade de eliminar o gás carbônico produzido pela respiração. Para evitar esse acúmulo de gás carbônico, podem ser utilizados diferentes métodos.\nAbaixo são apresentados dois desses métodos, com suas respectivas reações.\nMétodo 1 : uso de hidróxido de lítio\nCO2 + 2 LiOH → Li2CO3 + H2O\nMétodo 2 : reação com óxido de cálcio\nCO2 + CaO → CaCO3\nSobre as reações e os reagentes envolvidos nesses métodos, pode-se afirmar que",
+      principal: "Em ambientes fechados, tais como submarinos e espaçonaves, há necessidade de eliminar o gás carbônico produzido pela respiração. Para evitar esse acúmulo de gás carbônico, podem ser utilizados diferentes métodos.\nAbaixo são apresentados dois desses métodos, com suas respectivas reações.\nMétodo 1 : uso de hidróxido de lítio\$1_{2}$ + 2 LiOH → $1_{2}CO_{3}$ + $1_{2}O_{}$\nMétodo 2 : reação com óxido de cálcio\$1_{2}$ + CaO → $1_{3}$\nSobre as reações e os reagentes envolvidos nesses métodos, pode-se afirmar que",
       subItens: []
     },
-    options: ["ambas reações originam sais insolúveis em água.","todas as substâncias participantes dessas reações são iônicas.","o carbonato de lítio é uma substância que, quando dissolvida em meio aquoso, produz solução básica.","todos os compostos participantes dessa reação são óxidos.","ambas reações produzem a mesma massa de sal, quando consomem iguais quantidades de CO2."],
+    options: ["ambas reações originam sais insolúveis em água.","todas as substâncias participantes dessas reações são iônicas.","o carbonato de lítio é uma substância que, quando dissolvida em meio aquoso, produz solução básica.","todos os compostos participantes dessa reação são óxidos.","ambas reações produzem a mesma massa de sal, quando consomem iguais quantidades de $1_{2}$."],
     correctAnswer: 2,
     materia: "Química – Reações Químicas",
     conteudo: "",
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Abaixo são apresentadas as descrições de três tipos de lâmpadas disponíveis no mercado, em que os elementos são representados por números romanos.\n1 - As lâmpadas de vapor de I emitem uma luz amarelada e são muito utilizadas em iluminação pública.\n2 - As lâmpadas halógenas apresentam uma maior eficiência energética. Em algumas dessas lâmpadas, ocorre, no interior do bulbo, uma série de reações que podem ser denominadas ciclo do II.\n3 - As lâmpadas fluorescentes são carregadas internamente com gases inertes à baixa pressão como o III. Nesse caso, o tubo de vidro é coberto internamente com um material à base de IV que, quando excitado com a radiação gerada pela ionização dos gases, produz luz visível.\nOs elementos I, II, III e IV podem ser, respectivamente,",
+      principal: "Abaixo são apresentadas as descrições de três tipos de lâmpadas disponíveis no mercado, em que os elementos são representados por números romanos.\$1_{1}$ - As lâmpadas de vapor de I emitem uma luz amarelada e são muito utilizadas em iluminação pública.\$1_{2}$ - As lâmpadas halógenas apresentam uma maior eficiência energética. Em algumas dessas lâmpadas, ocorre, no interior do bulbo, uma série de reações que podem ser denominadas ciclo do II.\$1_{3}$ - As lâmpadas fluorescentes são carregadas internamente com gases inertes à baixa pressão como o III. Nesse caso, o tubo de vidro é coberto internamente com um material à base de IV que, quando excitado com a radiação gerada pela ionização dos gases, produz luz visível.\nOs elementos I, II, III e IV podem ser, respectivamente,",
       subItens: []
     },
     options: ["sódio – nitrogênio – argônio – mercúrio","sódio – iodo – argônio – fósforo","flúor – fósforo – nitrogênio – sódio","mercúrio – nitrogênio – criptônio – potássio","flúor – iodo – mercúrio – sódio"],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Na coluna da esquerda, abaixo, estão listadas informações relativas a cinco substâncias diferentes. Na coluna da direita, são apresentadas propriedades relacionadas a essas informações. Associe adequadamente a coluna da direita à da esquerda.\n1 - As moléculas da substância 1 são tetraédricas com átomos idênticos ligados ao átomo central.\n2 - A substância 2 tem massa molar semelhante à da água e interações intermoleculares do tipo Van der Waals.\n3 - A substância 3 sofre ionização quando dissolvida em água.\n4 - As moléculas da substância 4 são trigonais planas com átomos de diferentes eletronegatividades, ligados ao átomo central.\n5 - A substância 5 tem massa molar e densidade maior que a da água.\n( ) A substância é mais volátil que água pura.\n( ) A substância é solúvel em solventes polares.\n( ) A substância é solúvel em solventes apolares.\n( ) A substância forma soluções aquosas eletrolíticas.\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      principal: "Na coluna da esquerda, abaixo, estão listadas informações relativas a cinco substâncias diferentes. Na coluna da direita, são apresentadas propriedades relacionadas a essas informações. Associe adequadamente a coluna da direita à da esquerda.\$1_{1}$ - As moléculas da substância 1 são tetraédricas com átomos idênticos ligados ao átomo central.\$1_{2}$ - A substância 2 tem massa molar semelhante à da água e interações intermoleculares do tipo Van der Waals.\$1_{3}$ - A substância 3 sofre ionização quando dissolvida em água.\$1_{4}$ - As moléculas da substância 4 são trigonais planas com átomos de diferentes eletronegatividades, ligados ao átomo central.\$1_{5}$ - A substância 5 tem massa molar e densidade maior que a da água.\n( ) A substância é mais volátil que água pura.\n( ) A substância é solúvel em solventes polares.\n( ) A substância é solúvel em solventes apolares.\n( ) A substância forma soluções aquosas eletrolíticas.\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       subItens: []
     },
     options: ["2 – 1 – 4 – 5.","2 – 4 – 1 – 3.","3 – 1 – 2 – 5.","5 – 2 – 4 – 1.","5 – 2 – 1 – 3."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Nas tecnologias de energias renováveis, estudos têm sido realizados com tintas fotovoltaicas contendo nanopartículas de dióxido de titânio, TiO2. Essas tintas são capazes de transformar a energia luminosa em energia elétrica.\nO dióxido de titânio natural pode ser obtido da ilmenita, um óxido natural de ferro e titânio minerado a partir das areias de praia. A reação de obtenção do dióxido de titânio, a partir da ilmenita, é representada pela reação abaixo já ajustada.\n2 FeTiO3 + 4 HC + C2 → 2 FeC3 + 2 TiO2 + 2 H2O\nA massa de dióxido de titânio que pode ser obtida, a partir de uma tonelada de areia bruta com 5% de ilmenita, é, aproximadamente,\n(Dados: TiO2 = 80 g.mol-1 e FeTiO3= 152 g.mol-1)",
+      principal: "Nas tecnologias de energias renováveis, estudos têm sido realizados com tintas fotovoltaicas contendo nanopartículas de dióxido de titânio, $1_{2}$. Essas tintas são capazes de transformar a energia luminosa em energia elétrica.\nO dióxido de titânio natural pode ser obtido da ilmenita, um óxido natural de ferro e titânio minerado a partir das areias de praia. A reação de obtenção do dióxido de titânio, a partir da ilmenita, é representada pela reação abaixo já ajustada.\$1_{2}$ $1_{3}$ + 4 HC + C2 → 2 FeC3 + 2 $1_{2}$ + 2 $1_{2}O_{}$\nA massa de dióxido de titânio que pode ser obtida, a partir de uma tonelada de areia bruta com 5% de ilmenita, é, aproximadamente,\n(Dados: $1_{2}$ = 80 g.mol-1 e $1_{3}$= 152 g.mol-1)",
       subItens: []
     },
     options: ["16 kg.","26,3 kg.","52,6 kg.","105,2 kg.","210,4 kg."],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Dois hidrocarbonetos I e II reagem com bromo, conforme mostrado abaixo.\nCxHy + Br2 → CxHy-1Br + HBr\nI\nCzHn + Br2 → CzHnBr2\nII\nÉ correto afirmar que I e II são, respectivamente,",
+      principal: "Dois hidrocarbonetos I e II reagem com bromo, conforme mostrado abaixo.\nCxHy + $1_{2}_{}$ → CxHy-1Br + HBr\nI\nCzHn + $1_{2}_{}$ → $1_{2}$\nII\nÉ correto afirmar que I e II são, respectivamente,",
       subItens: []
     },
     options: ["aromático e alcano.","aromático e alceno.","alcino e alcano.","alcino e alceno.","alceno e alcino."],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "O trióxido de arsênio, As2O3, é utilizado como quimioterápico no tratamento de alguns tipos de leucemia mieloide aguda. O protocolo de um determinado paciente indica que ele deva receber uma infusão intravenosa com 4,95 mg de trióxido de arsênio, diluídos em soro fisiológico até o volume final de 250 mL.\nA concentração em mol/L de trióxido de arsênio na solução utilizada nessa infusão é",
+      principal: "O trióxido de arsênio, $1_{2}O_{3}$, é utilizado como quimioterápico no tratamento de alguns tipos de leucemia mieloide aguda. O protocolo de um determinado paciente indica que ele deva receber uma infusão intravenosa com 4,95 mg de trióxido de arsênio, diluídos em soro fisiológico até o volume final de 250 mL.\nA concentração em mol/L de trióxido de arsênio na solução utilizada nessa infusão é",
       subItens: []
     },
     options: ["1,0 x 10–1.","2,5 x 10–2.","1,0 x 10–4.","2,5 x 10–5.","1,0 x 10–6."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "A reação de cloração do metano, em presença de luz, é mostrada abaixo.\nCH4 + C2 →CH3C + HC ΔH = -25 kcal.mol-1\nConsidere os dados de energia das ligações abaixo.\nC-H = 105 kcal.mol-1\nC-C = 58 kcal.mol-1\nH-C = 103 kcal.mol-1\nA energia da ligação C-C, no composto CH3C, é",
+      principal: "A reação de cloração do metano, em presença de luz, é mostrada abaixo.\$1_{4}$ + C2 →CH3C + HC ΔH = -25 kcal.mol-1\nConsidere os dados de energia das ligações abaixo.\nC-H = 105 kcal.mol-1\nC-C = 58 kcal.mol-1\nH-C = 103 kcal.mol-1\nA energia da ligação C-C, no composto CH3C, é",
       subItens: []
     },
     options: ["33 kcal.mol-1.","56 kcal.mol-1.","60 kcal.mol-1.","80 kcal.mol-1.","85 kcal.mol-1."],
@@ -708,10 +708,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Célula a combustível é uma alternativa para a produção de energia limpa. As semirreações da célula são\nH2  2H+ + 2e-\n½ O2 + 2H+ + 2e-  H2O\nSobre essa célula, pode-se afirmar que",
+      principal: "Célula a combustível é uma alternativa para a produção de energia limpa. As semirreações da célula são\$1_{2}$  2H+ + 2e-\n½ $1_{2}_{}$ + 2H+ + 2e-  $1_{2}O_{}$\nSobre essa célula, pode-se afirmar que",
       subItens: []
     },
-    options: ["H2 é o gás combustível e oxida-se no cátodo.","eletrólise da água ocorre durante o funcionamento da célula.","H2O e CO2 são produzidos durante a descarga da célula.","célula a combustível é um exemplo de célula galvânica.","O2 é o gás comburente e reduz-se no ânodo."],
+    options: ["$1_{2}_{}$ é o gás combustível e oxida-se no cátodo.","eletrólise da água ocorre durante o funcionamento da célula.","$1_{2}O_{}$ e $1_{2}$ são produzidos durante a descarga da célula.","célula a combustível é um exemplo de célula galvânica.","$1_{2}_{}$ é o gás comburente e reduz-se no ânodo."],
     correctAnswer: 3,
     materia: "Química – Eletroquímica",
     conteudo: "",
@@ -993,7 +993,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Observe os dados abaixo.\nDisponível em: <http://g1.globo.com/brasil/noticia/2014/04/populacao-diminui-em-21-das-cidades-do-pais-entre-2000-e-2013.html>. Acesso em: 15 set. 2014.\nConsidere as afirmações abaixo, sobre as cidades.\nI - A população das cidades, de uma forma geral, vem diminuindo pela combinação da redução da fecundidade e dos processos migratórios, como nas cidades da Região Sul.\nII - O maior declínio da população é observado na Região Sudeste, devido, em parte, à emigração para o exterior.\nIII- O menor declínio da população nas cidades da Região Norte deve-se, entre outros fatores, à menor redução da fecundidade e dos processos migratórios.\nQuais estão corretas?",
+      principal: "Observe os dados abaixo.\nDisponível em: <http://$1_{1}$.globo.com/brasil/noticia/2014/04/populacao-diminui-em-21-das-cidades-do-pais-entre-2000-e-2013.html>. Acesso em: 15 set. 2014.\nConsidere as afirmações abaixo, sobre as cidades.\nI - A população das cidades, de uma forma geral, vem diminuindo pela combinação da redução da fecundidade e dos processos migratórios, como nas cidades da Região Sul.\nII - O maior declínio da população é observado na Região Sudeste, devido, em parte, à emigração para o exterior.\nIII- O menor declínio da população nas cidades da Região Norte deve-se, entre outros fatores, à menor redução da fecundidade e dos processos migratórios.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas III.","Apenas I e II.","Apenas I e III.","I, II e III."],
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Observe a figura abaixo.\nDisponível em: <http://www.alagoasnanet.com.br/v3/alagoas-lidera-numero-de-homicidios-entre-populacao-jovem/>. Acesso em: 12 set. 2014.\nCom base na figura, considere as afirmações abaixo, sobre a violência entre jovens no Brasil.\nI - Os três estados que apresentaram maior número de homicídios de jovens em 2010, mantendo a posição de 2000, foram Alagoas, Espírito Santo e Bahia.\nII - Os homicídios que, em 2000, aconteciam predominantemente em estados com maior concentração populacional, passaram, em 2010, a outros estados, caracterizando o fenômeno chamado interiorização dos homicídios.\nIII- As taxas de mortalidade de jovens, entre os anos 2000 e 2010, nas regiões Sul e Sudeste do país, revelam uma melhoria em relação à violência.\nQuais estão corretas?",
+      principal: "Observe a figura abaixo.\nDisponível em: <http://www.alagoasnanet.com.br/$1_{3}$/alagoas-lidera-numero-de-homicidios-entre-populacao-jovem/>. Acesso em: 12 set. 2014.\nCom base na figura, considere as afirmações abaixo, sobre a violência entre jovens no Brasil.\nI - Os três estados que apresentaram maior número de homicídios de jovens em 2010, mantendo a posição de 2000, foram Alagoas, Espírito Santo e Bahia.\nII - Os homicídios que, em 2000, aconteciam predominantemente em estados com maior concentração populacional, passaram, em 2010, a outros estados, caracterizando o fenômeno chamado interiorização dos homicídios.\nIII- As taxas de mortalidade de jovens, entre os anos 2000 e 2010, nas regiões Sul e Sudeste do país, revelam uma melhoria em relação à violência.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas I e II.","I, II e III."],

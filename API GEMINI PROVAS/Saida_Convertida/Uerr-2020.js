@@ -123,7 +123,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Assinale a afirmativa correta em que identificamos, respectivamente, expressões com as mesmas funções sintáticas dos termos sublinhados nos versos de Gilberto Freyre.\n1. \"mãos de escultor que sabiam lidar com o barro forte e novo dos Brasis\"\n2. \"Mãos todas de trabalhadores/ pretas, brancas, pardas, roxas, morenas/ de artistas/de escritores [...]\"\n3. \"que tenha olhos para ver pelo Brasil\"",
+      principal: "Assinale a afirmativa correta em que identificamos, respectivamente, expressões com as mesmas funções sintáticas dos termos sublinhados nos versos de Gilberto Freyre.\$1_{1}$. \"mãos de escultor que sabiam lidar com o barro forte e novo dos Brasis\"\$1_{2}$. \"Mãos todas de trabalhadores/ pretas, brancas, pardas, roxas, morenas/ de artistas/de escritores [...]\"\$1_{3}$. \"que tenha olhos para ver pelo Brasil\"",
       subItens: []
     },
     options: ["1. “Avisei as crianças que não tinha pão\" (Carolina Maria de Jesus); 2. “Depois retornei, catei ferros, uma latas, e lenha\" (Carolina Maria de Jesus); 3. \"Recomendei-lhes para brincar no quintal e não na rua[...]”(Carolina Maria de Jesus)","1. \"Pensei na vida atribulada que eu levo.\"(Carolina Maria de Jesus); 2. “Qualquer brasileiro poderá governar esse Brasil / lenhador/ lavrador/ pescador\" (Gilberto Freyre) ; 3. \"Aproveitei a minha calma interior para eu ler.\"(Carolina Maria de Jesus)","1. \"Abri a boca duas vezes, certifiquei-me que estava com mau olhado\" (Carolina Maria de Jesus); 2. \"Qualquer brasileiro poderá governar esse Brasil / lenhador/lavrador/ pescador”(Gilberto Freyre); 3. “Recomendei-lhes para brincar no quintal e não na rua[...]\"(Carolina Maria de Jesus)","1. \"Aproveitei a minha calma interior para eu ler.\"(Carolina Maria de Jesus); 2. \"Pensei na vida atribulada que eu levo.”(Carolina Maria de Jesus); 3. “Recomendei-lhes para brincar no quintal e não na rua[...]\"(Carolina Maria de Jesus)","1. \"Pensei na vida atribulada que eu levo.\"(Carolina Maria de Jesus); 2. “Depois retornei, catei ferros, uma latas, e lenha”(Carolina Maria de Jesus); 3. “Aproveitei a minha calma interior para eu ler.\" (Carolina Maria de Jesus)"],
@@ -438,10 +438,10 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Consultando a Classificação Periódica dos Elementos, a fórmula, nomenclatura, tipo de ligação e função inorgânica das moléculas formadas pelos elementos são, respectivamente, exceto:\nA) NH3Cl, Cloreto de Amônio, quatro ligações covalentes e uma ligação iônica, sal.\nB) Cl2SO4, Ácido sulfídrico, quatro ligações covalentes normais e duas ligações covalentes dativas, ácido.\nC) ClO2, Pentóxido de dicloro, duas ligações covalentes normais e quatro ligações covalentes dativas, óxido.\nD) Sr(OH)2, Hidróxido de estrôncio, uma ligação iônica e uma ligação covalente, base.\nE) NaNO3, Nitrato de sódio, uma ligação iônica, uma ligação covalente molecular simples, uma ligação covalente molecular dupla e uma ligação covalente dativa, sal.",
+      principal: "Consultando a Classificação Periódica dos Elementos, a fórmula, nomenclatura, tipo de ligação e função inorgânica das moléculas formadas pelos elementos são, respectivamente, exceto:\nA) NH3Cl, Cloreto de Amônio, quatro ligações covalentes e uma ligação iônica, sal.\nB) $1_{2}SO_{4}$, Ácido sulfídrico, quatro ligações covalentes normais e duas ligações covalentes dativas, ácido.\nC) $1_{2}$, Pentóxido de dicloro, duas ligações covalentes normais e quatro ligações covalentes dativas, óxido.\nD) Sr(OH)2, Hidróxido de estrôncio, uma ligação iônica e uma ligação covalente, base.\nE) $1_{3}$, Nitrato de sódio, uma ligação iônica, uma ligação covalente molecular simples, uma ligação covalente molecular dupla e uma ligação covalente dativa, sal.",
       subItens: []
     },
-    options: ["NH3Cl, Cloreto de Amônio, quatro ligações covalentes e uma ligação iônica, sal.","Cl2SO4, Ácido sulfídrico, quatro ligações covalentes normais e duas ligações covalentes dativas, ácido.","ClO2, Pentóxido de dicloro, duas ligações covalentes normais e quatro ligações covalentes dativas, óxido.","Sr(OH)2, Hidróxido de estrôncio, uma ligação iônica e uma ligação covalente, base.","NaNO3, Nitrato de sódio, uma ligação iônica, uma ligação covalente molecular simples, uma ligação covalente molecular dupla e uma ligação covalente dativa, sal."],
+    options: ["NH3Cl, Cloreto de Amônio, quatro ligações covalentes e uma ligação iônica, sal.","$1_{2}SO_{4}$, Ácido sulfídrico, quatro ligações covalentes normais e duas ligações covalentes dativas, ácido.","$1_{2}$, Pentóxido de dicloro, duas ligações covalentes normais e quatro ligações covalentes dativas, óxido.","Sr(OH)2, Hidróxido de estrôncio, uma ligação iônica e uma ligação covalente, base.","$1_{3}$, Nitrato de sódio, uma ligação iônica, uma ligação covalente molecular simples, uma ligação covalente molecular dupla e uma ligação covalente dativa, sal."],
     correctAnswer: null,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Nomenclatura de compostos inorgânicos",
@@ -456,7 +456,7 @@ createQuestion({
       principal: "Aplicando o cálculo estequiométrico, podemos afirmar que:",
       subItens: []
     },
-    options: ["144g de água é obtida na reação de 8 mol de gás oxigênio com hidrogênio, suficiente para consumir todo o oxigênio.","1,12g de enxofre reage com 1,12g de ferro, formando sulfeto de ferro II.","2 colheres de feijão, no mínimo, são necessárias para que se atinja a dose diária de ferro no organismo, levando em consideração, que o corpo humano necessita diariamente de 12mg de ferro e que uma colher de feijão contém cerca de 4,28 x 10⁻⁵ mol de ferro.","273 °C é a temperatura de um gás, sabendo-se que 2,5 mols desse gás ocupam o volume de 50 litros à pressão de 1246 mmHg na referida temperatura.","A reação representativa da combustão de um mol de glicose é: C6H12O6 + 6O2 → 6CO2 + 6H2O, então, a massa de 1320g de CO2 será produzida, se 900g de glicose são consumidos pelo organismo durante um certo período."],
+    options: ["144g de água é obtida na reação de 8 mol de gás oxigênio com hidrogênio, suficiente para consumir todo o oxigênio.","1,12g de enxofre reage com 1,12g de ferro, formando sulfeto de ferro II.","2 colheres de feijão, no mínimo, são necessárias para que se atinja a dose diária de ferro no organismo, levando em consideração, que o corpo humano necessita diariamente de 12mg de ferro e que uma colher de feijão contém cerca de 4,28 x 10⁻⁵ mol de ferro.","273 °C é a temperatura de um gás, sabendo-se que 2,5 mols desse gás ocupam o volume de 50 litros à pressão de 1246 mmHg na referida temperatura.","A reação representativa da combustão de um mol de glicose é: C6H12O6 + 6O2 → 6CO2 + 6H2O, então, a massa de 1320g de $1_{2}$ será produzida, se 900g de glicose são consumidos pelo organismo durante um certo período."],
     correctAnswer: 4,
     materia: "Química – Estequiometria",
     conteudo: "",
@@ -513,7 +513,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Relacione os compostos orgânicos listados na primeira coluna com a classe funcional da segunda coluna.\n1ª coluna\n(1) CH3COOCH2CH3\n(2) CH3CH2OCH2CH3\n(3) CH3CH2COCH3\n(4) CH3CH2COOH\n(5) CH3CH2OH\n2ª coluna\n() cetona\n() álcool\n() éter\n() éster\n() ácido carboxílico\nLendo-se os números da segunda coluna, de cima para baixo, obtém-se:",
+      principal: "Relacione os compostos orgânicos listados na primeira coluna com a classe funcional da segunda coluna.\$1_{1}$ª coluna\n(1) CH3COOCH2CH3\n(2) CH3CH2OCH2CH3\n(3) CH3CH2COCH3\n(4) CH3CH2COOH\n(5) CH3CH2OH\$1_{2}$ª coluna\n() cetona\n() álcool\n() éter\n() éster\n() ácido carboxílico\nLendo-se os números da segunda coluna, de cima para baixo, obtém-se:",
       subItens: []
     },
     options: ["1,5,2,4,3","4,2,3,1,5","3,4,1,5,2","3,5,2,1,4","5,2,1,3,4"],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Considere as reações:\nI. CH3-CH2-CH3 + Cl2 → CH3-CHCl-CH3 + HCl\nII. CH3-CH2-OH + H-O-CH2-CH3 → HOH + CH3-CH2-O-CH2-CH3\nIII. CH3-COOH + H-O-CH2-CH3 → HOH + CH3-COO-CH2-CH3\nAssinale a alternativa que associa corretamente o tipo de reação, respectivamente.",
+      principal: "Considere as reações:\nI. $1_{3}$-$1_{2}$-$1_{3}$ + $1_{2}_{}$ → $1_{3}$-CHCl-$1_{3}$ + HCl\nII. $1_{3}$-$1_{2}$-OH + H-O-$1_{2}$-$1_{3}$ → HOH + $1_{3}$-$1_{2}$-O-$1_{2}$-$1_{3}$\nIII. $1_{3}$-COOH + H-O-$1_{2}$-$1_{3}$ → HOH + $1_{3}$-COO-$1_{2}$-$1_{3}$\nAssinale a alternativa que associa corretamente o tipo de reação, respectivamente.",
       subItens: []
     },
     options: ["I. adição, II. eliminação, III. substituição.","I. substituição, II. eliminação, III. adição","I. eliminação, II. desidratação de álcoois, III. adição.","I. adição, II. esterificação, III. oxidação.","I. substituição, II. desidratação de álcoois, III. esterificação."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Seja um circuito, composto por três resistores 10x10^2 ohms, 41 k-ohms e 6000 ohms respectivamente, assinale a alternativa correta para a associação de resistores em série.",
+      principal: "Seja um circuito, composto por três resistores $1 \times 10^{2}$ ohms, 41 k-ohms e 6000 ohms respectivamente, assinale a alternativa correta para a associação de resistores em série.",
       subItens: []
     },
     options: ["51 quilo-ohms.","4700 ohms.","101000 ohms","48 quilo-ohms.","Zero."],
@@ -606,7 +606,7 @@ createQuestion({
       principal: "Um animal aquático, cuja densidade volumétrica é de 500g/ml, sofre uma força de empuxo de 10N. Assinale a alternativa correta.",
       subItens: []
     },
-    options: ["Se o animal ocupar 0,4m^3, sua massa será de 2x10^5 kg.","A quantidade de carga elétrica acumulada dentro do corpo do animal é de 3C durante o atrito com a água.","A força de empuxo é, somente proporcional, à profundidade que o animal está nadando.","Se o animal ingerir 300ml de água, ficará mais pesado em 300g.","A velocidade do som na água será modificada unicamente, devido a flutuações magnéticas provenientes do sol."],
+    options: ["Se o animal ocupar 0,$1^{3}$, sua massa será de $1 \times 10^{5}$ kg.","A quantidade de carga elétrica acumulada dentro do corpo do animal é de 3C durante o atrito com a água.","A força de empuxo é, somente proporcional, à profundidade que o animal está nadando.","Se o animal ingerir 300ml de água, ficará mais pesado em 300g.","A velocidade do som na água será modificada unicamente, devido a flutuações magnéticas provenientes do sol."],
     correctAnswer: 0,
     materia: "Física – Hidrostática (Empuxo)",
     conteudo: "Física – Densidade",
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Considere um sistema fechado e isolado. Se um gás ideal estiver inicialmente com 3atm, 30 kelvins e ocupando 30m^3. Quando for submetido a um processo isotérmico, sem sofrer reação química. Ao se estabilizar depois de sofrer uma expansão e ocupar o volume de 50.000litros. Assinale a alternativa correta para a pressão.",
+      principal: "Considere um sistema fechado e isolado. Se um gás ideal estiver inicialmente com 3atm, 30 kelvins e ocupando $1^{3}$. Quando for submetido a um processo isotérmico, sem sofrer reação química. Ao se estabilizar depois de sofrer uma expansão e ocupar o volume de 50.000litros. Assinale a alternativa correta para a pressão.",
       subItens: []
     },
     options: ["1 atmosferas.","4 atmosferas.","5 atmosferas.","20 atmosferas.","50 atmosferas."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "O tecido epitelial de revestimento reveste os órgãos externa ou internamente. Este tipo de tecido epitelial pode ser classificado de acordo com o número de camadas de células que apresenta. Associe o tipo de tecido quanto ao número de camadas:\n1- Epitélio pseudoestratificado\n2- Epitélio estratificado\n3- Epitélio simples\n() Constituído por uma camada de células.\n() Constituído por uma camada de células com núcleos em diferentes alturas, aparentando formar várias camadas.\n() Constituído por várias camadas de células.\nAssinale a sequência correta:",
+      principal: "O tecido epitelial de revestimento reveste os órgãos externa ou internamente. Este tipo de tecido epitelial pode ser classificado de acordo com o número de camadas de células que apresenta. Associe o tipo de tecido quanto ao número de camadas:\$1_{1}$- Epitélio pseudoestratificado\$1_{2}$- Epitélio estratificado\$1_{3}$- Epitélio simples\n() Constituído por uma camada de células.\n() Constituído por uma camada de células com núcleos em diferentes alturas, aparentando formar várias camadas.\n() Constituído por várias camadas de células.\nAssinale a sequência correta:",
       subItens: []
     },
     options: ["3, 2, 1","1, 2, 3","2, 3, 1","3, 1, 2","2, 1, 3"],
@@ -978,7 +978,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "No dia 28/08/2019, um vídeo postado em uma rede social mostra um grupo de turistas fugindo em um iate da erupção do vulcão Stromboli, localizado na ilha de mesmo nome no litoral da Sicília, sul da Itália (G1 29/08/2019). A dinâmica tectônica da região em questão está relacionada ao processo de interação entre as placas:",
+      principal: "No dia 28/08/2019, um vídeo postado em uma rede social mostra um grupo de turistas fugindo em um iate da erupção do vulcão Stromboli, localizado na ilha de mesmo nome no litoral da Sicília, sul da Itália ($1_{1}_{}$ 29/08/2019). A dinâmica tectônica da região em questão está relacionada ao processo de interação entre as placas:",
       subItens: []
     },
     options: ["Sul americana e Nazca.","Euro - asiática e Africana.","Nazca e Pacífico.","Indo-australina e Africana.","Euro - asiática e Filipinas."],
@@ -993,7 +993,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A figura abaixo demonstra a dinâmica de interação das placas tectônicas. Com base nela, identifique a que placa se refere e suas características\n[IMAGEM: Três diagramas mostrando diferentes tipos de limites de placas tectônicas: convergente, divergente e transformante.]\nFonte:https://s3-sa-east-1.amazonaws.com/manual-do-enem-test/3325b709c54e49808b0d07a3fef50743-placas%20tectonicas%201.png",
+      principal: "A figura abaixo demonstra a dinâmica de interação das placas tectônicas. Com base nela, identifique a que placa se refere e suas características\n[IMAGEM: Três diagramas mostrando diferentes tipos de limites de placas tectônicas: convergente, divergente e transformante.]\nFonte:https://$1_{3}$-sa-east-1.amazonaws.com/manual-do-enem-test/3325b709c54e49808b0d07a3fef50743-placas%20tectonicas%201.png",
       subItens: []
     },
     options: ["O esquema 1 refere- se a placa transcorrente (transformante) no qual as placas se encontram, ou se chocam; O esquema 2 refere-se a dinâmica convergente, no qual as placas se deslizam em lados opostos; O esquema 3 refere-se a placa divergente no qual as placas se separam em lados opostos.","O esquema 1 refere- se a placa divergente no qual as placas se encontram, ou se chocam; O esquema 2 refere-se a dinâmica transcorrente(transformante), no qual as placas se deslizam; O esquema 3 refere-se a placa convergente no qual as placas se separam em lados oposto.","O esquema 1 refere- se a placa convergente no qual as placas se encontram, ou se chocam; O esquema 2 refere-se a dinâmica transcorrente(transformante), no qual as placas se deslizam; O esquema 3 refere-se a placa divergente no qual as placas se separam em lados opostos.","O esquema 1 refere-se a placa transcorrente (transformante) no qual as placas se separam em lados opostos; O esquema 2 refere-se a dinâmica convergente, no qual as placas se deslizam em lados opostos; O esquema 3 refere-se a placa divergente no qual as placas se encontram, ou se chocam.","O esquema 1 refere- se a placa convergente no qual as placas se separam em lados opostos; Ο esquema 2 refere-se a dinâmica transcorrente (transformante), no qual as placas se deslizam; O esquema 3 refere-se a placa divergente encontram, ou se chocam."],
@@ -1008,7 +1008,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Com base no climograma, verifique os aspectos que melhor representam a interpretação do gráfico para uma determinada região do mundo.\n[IMAGEM: Climograma com eixos de Precipitação (mm) e Temperatura (°C) versus meses do ano (JFMAMJJASOND). Apresenta altas temperaturas e chuvas bem distribuídas ao longo do ano.]\nFonte:https://4.bp.blogspot.com/_D6_UlKidjlE/S8CvU9gewuI/AAAAAAAABJE/KQNxcZlrM6M/s400/Clima+Equator ial+-+Climograma+Cingapura.jpg\nAssinale a alternativa correta.",
+      principal: "Com base no climograma, verifique os aspectos que melhor representam a interpretação do gráfico para uma determinada região do mundo.\n[IMAGEM: Climograma com eixos de Precipitação (mm) e Temperatura (°C) versus meses do ano (JFMAMJJASOND). Apresenta altas temperaturas e chuvas bem distribuídas ao longo do ano.]\nFonte:https://4.bp.blogspot.com/_D6_UlKidjlE/S8CvU9gewuI/AAAAAAAABJE/KQNxcZlrM6M/$1_{400}$/Clima+Equator ial+-+Climograma+Cingapura.jpg\nAssinale a alternativa correta.",
       subItens: []
     },
     options: ["Representa uma região de clima subtropical com baixas temperaturas e chuvas distribuídas ao longo do ano.","Representa uma região de clima tropical úmido com elevadas temperaturas e chuvas distribuídas ao longo dos meses do ano.","Representa uma região de clima árido, no qual o mês de janeiro é de maios chuva e com altas temperaturas.","Representa o clima seco com poucas chuvas e baixas temperaturas distribuídas ao longo dos meses do ano.","Representa um clima subtropical de altitude com elevados índices pluviométricos e baixa temperatura o ano inteiro."],

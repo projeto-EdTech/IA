@@ -18,7 +18,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Um atleta, partindo do repouso, percorre 100 m em uma pista horizontal retilínea, em 10 s, e mantém a aceleração constante durante todo o percurso. Desprezando a resistência do ar, considere as afirmações abaixo, sobre esse movimento.\nI - O módulo de sua velocidade média é 36 km/h.\nII - O módulo de sua aceleração é 10 m/s2.\nIII- O módulo de sua maior velocidade instantânea é 10 m/s.\nQuais estão corretas?",
+      principal: "Um atleta, partindo do repouso, percorre 100 m em uma pista horizontal retilínea, em 10 s, e mantém a aceleração constante durante todo o percurso. Desprezando a resistência do ar, considere as afirmações abaixo, sobre esse movimento.\nI - O módulo de sua velocidade média é 36 km/h.\nII - O módulo de sua aceleração é 10 m/$1_{2}$.\nIII- O módulo de sua maior velocidade instantânea é 10 m/s.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas I e II.","I, II e III."],
@@ -138,7 +138,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Observe o gráfico e a tabela abaixo, que representam a curva de solubilidade aquosa (em gramas de soluto por 100 g de água) do nitrato de potássio e do nitrato de sódio em função da temperatura.\n[Imagem: Gráfico de Solubilidade vs Temperatura, mostrando duas curvas, A e B. A curva A mostra um aumento mais acentuado da solubilidade com a temperatura do que a curva B. Tabela ao lado com “T (°C)”, “KNO3”, “NaNO3” e valores de solubilidade para 60, 65, 75 °C.]\nAssinale a alternativa que preenche corretamente as lacunas do enunciado abaixo, na ordem em que aparecem.\nA curva A diz respeito ao ........ e a curva B, ao ........ . Considerando duas soluções aquosas saturadas e sem precipitado, uma de KNO3 e outra de NaNO3, a 65 °C, o efeito da diminuição da temperatura acarretará a precipitação de ........ .",
+      principal: "Observe o gráfico e a tabela abaixo, que representam a curva de solubilidade aquosa (em gramas de soluto por 100 g de água) do nitrato de potássio e do nitrato de sódio em função da temperatura.\n[Imagem: Gráfico de Solubilidade vs Temperatura, mostrando duas curvas, A e B. A curva A mostra um aumento mais acentuado da solubilidade com a temperatura do que a curva B. Tabela ao lado com “T (°C)”, “$1_{3}$”, “$1_{3}$” e valores de solubilidade para 60, 65, 75 °C.]\nAssinale a alternativa que preenche corretamente as lacunas do enunciado abaixo, na ordem em que aparecem.\nA curva A diz respeito ao ........ e a curva B, ao ........ . Considerando duas soluções aquosas saturadas e sem precipitado, uma de $1_{3}$ e outra de $1_{3}$, a 65 °C, o efeito da diminuição da temperatura acarretará a precipitação de ........ .",
       subItens: []
     },
     options: ["nitrato de potássio – nitrato de sódio – nitrato de potássio","nitrato de potássio – nitrato de sódio – nitrato de sódio","nitrato de sódio – nitrato de potássio – nitrato de sódio","nitrato de sódio – nitrato de potássio – ambas","nitrato de potássio – nitrato de sódio – ambas"],

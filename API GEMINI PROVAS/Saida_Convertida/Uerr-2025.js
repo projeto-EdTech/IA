@@ -4,7 +4,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "As vírgulas presentes no primeiro período do",
-      subItens: [{"titulo":"texto 1","conteudo":"A1:\nOs melhores arquitetos do mundo nunca se sentaram num banco de escola, muito menos leram um livro, não fazem a menor ideia de quem seja Oscar Niemeyer ou Lucio Costa."}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{1}_{}$:\nOs melhores arquitetos do mundo nunca se sentaram num banco de escola, muito menos leram um livro, não fazem a menor ideia de quem seja Oscar Niemeyer ou Lucio Costa."}]
     },
     options: ["isolam uma oração com sentido explicativo.","separam termos de mesma função sintática.","separam orações coordenadas.","destacam uma expressão de sentido comparativo.","isolam uma oração que indica circunstância de tempo."],
     correctAnswer: 2,
@@ -19,7 +19,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "O vocábulo \"escrita\" (primeiro período do segundo parágrafo) é empregado no",
-      subItens: [{"titulo":"texto 1","conteudo":"A1 como"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{1}_{}$ como"}]
     },
     options: ["advérbio.","substantivo abstrato.","verbo.","adjetivo.","substantivo comum."],
     correctAnswer: 3,
@@ -34,7 +34,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "No",
-      subItens: [{"titulo":"texto 1","conteudo":"A1, as expressões “seus tapiris” e “seus iglus\" (último período do primeiro parágrafo) funcionam sintaticamente como"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{1}_{}$, as expressões “seus tapiris” e “seus iglus\" (último período do primeiro parágrafo) funcionam sintaticamente como"}]
     },
     options: ["adjuntos adnominais.","complementos nominais.","complementos de formas verbais diferentes.","sujeito das orações em que se inserem.","complementos de uma mesma forma verbal."],
     correctAnswer: 2,
@@ -49,7 +49,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "Assinale a opção que apresenta uma proposta de reescrita gramaticalmente correta para o seguinte trecho do segundo período do último parágrafo",
-      subItens: [{"titulo":"texto 1","conteudo":"A1: “Tudo na arquitetura animal tem uma razão funcional.\""}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{1}_{}$: “Tudo na arquitetura animal tem uma razão funcional.\""}]
     },
     options: ["Tudo na arquitetura animal relaciona a uma razão funcional.","Tudo na arquitetura animal relaciona à uma razão funcional.","Tudo na arquitetura animal relaciona-se a uma razão funcional.","Tudo na arquitetura animal relaciona-se à uma razão funcional.","Tudo na arquitetura animal se relaciona uma razão funcional."],
     correctAnswer: 2,
@@ -64,7 +64,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "No primeiro período do último parágrafo do",
-      subItens: [{"titulo":"texto 1","conteudo":"A1, o sentido da forma verbal “padecem” é equivalente ao de"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{1}_{}$, o sentido da forma verbal “padecem” é equivalente ao de"}]
     },
     options: ["aproveitam.","sofrem.","suportam.","entendem.","descartam."],
     correctAnswer: 1,
@@ -79,7 +79,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "Assinale a opção em que é corretamente indicado o processo de formação da palavra “moradias-ostentação” (primeiro período do último parágrafo do",
-      subItens: [{"titulo":"texto 1","conteudo":"A1)."}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{1}_{}$)."}]
     },
     options: ["composição por justaposição","composição por aglutinação","hibridismo","derivação sufixal","derivação prefixal"],
     correctAnswer: 0,
@@ -274,7 +274,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "De acuerdo con el",
-      subItens: [{"titulo":"texto 1","conteudo":"A4-I, los jóvenes españoles"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{4}_{}$-I, los jóvenes españoles"}]
     },
     options: ["leen menos de lo que se esperaba de ellos.","dedican su tiempo libre a actividades del ciberespacio.","leen más que la media española.","carecen de tiempo para la lectura.","serán testigos del fin del libro de papel."],
     correctAnswer: 2,
@@ -289,7 +289,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "De acuerdo con el",
-      subItens: [{"titulo":"texto 1","conteudo":"A4-I, los jóvenes ven en el libro tradicional un oasis a su mundo rodeado de pantallas, y eso indica que el libro de papel"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{4}_{}$-I, los jóvenes ven en el libro tradicional un oasis a su mundo rodeado de pantallas, y eso indica que el libro de papel"}]
     },
     options: ["supone un alivio frente al uso cotidiano de equipos digitales.","se utiliza solo cuando están sin conexión wifi.","tiene un uso anecdótico.","supone un retroceso en el avance tecnológico.","es utilizado solo en las escuelas que no disponen de libros digitales."],
     correctAnswer: 0,
@@ -304,7 +304,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "A raíz del",
-      subItens: [{"titulo":"texto 1","conteudo":"A4-I, es posible afirmar que"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{4}_{}$-I, es posible afirmar que"}]
     },
     options: ["la venta de libros digitales desbancó a los libros vendidos en librerías tradicionales.","el aumento de la lectura en dispositivos móviles provocó una crisis en la venta del libro de papel.","la suma de lectores que leen en ordenador y en teléfonos es superior a la del libro en papel.","el aumento del número de lectores en formato digital ya se venía produciendo desde hace algunos años.","la mayoría de los libros todavía se venden en librerías, a pesar del aumento del número de lectores en formato digital."],
     correctAnswer: 4,
@@ -334,7 +334,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "De acuerdo con el",
-      subItens: [{"titulo":"texto 1","conteudo":"A4-II, los más jóvenes disfrutarán de su tiempo libre"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{4}_{}$-II, los más jóvenes disfrutarán de su tiempo libre"}]
     },
     options: ["priorizando las visitas a otros países.","participando de diversas actividades en grupo.","haciendo ejercicios físicos en solitario.","conociendo a nuevas personas por redes sociales.","acudiendo a fiestas."],
     correctAnswer: 1,
@@ -349,7 +349,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "En el",
-      subItens: [{"titulo":"texto 1","conteudo":"A4-II se dice que una de las nuevas preferencias de ocio de los jóvenes son las cenas temáticas. Esta tendencia está relacionada con"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{4}_{}$-II se dice que una de las nuevas preferencias de ocio de los jóvenes son las cenas temáticas. Esta tendencia está relacionada con"}]
     },
     options: ["el medio ambiente.","la gastronomía.","el teatro.","la ópera.","la política."],
     correctAnswer: 1,
@@ -379,7 +379,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "De acuerdo con el",
-      subItens: [{"titulo":"texto 1","conteudo":"A4-IV, la serie Envidiosa"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{4}_{}$-IV, la serie Envidiosa"}]
     },
     options: ["debe parte de su éxito al continuo drama que impera en la serie de inicio a fin.","está basada en la vida de la actriz que interpreta a Vicky.","carece de inspiración en ningún personaje en concreto.","es una producción fantasiosa, sin ninguna conexión con la realidad.","cuenta la vida de una mujer de cuarenta años que tras la ruptura con su pareja le hace la vida imposible a sus amigas y cuñadas."],
     correctAnswer: 2,
@@ -394,7 +394,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "De acuerdo con el",
-      subItens: [{"titulo":"texto 1","conteudo":"A4-IV, Carolina Aguirre es la guionista de la Envidiosa. Por lo tanto, ella es la persona que"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{4}_{}$-IV, Carolina Aguirre es la guionista de la Envidiosa. Por lo tanto, ella es la persona que"}]
     },
     options: ["escribe el texto.","hace el papel de actriz principal.","dirige la serie.","produce la serie.","elige a los actores y las actrices."],
     correctAnswer: 0,
@@ -544,7 +544,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "",
-      subItens: [{"titulo":"Texto 1","conteudo":"A7-I\nApoia-se em repouso, sobre a superfície horizontal de uma mesa, um corpo com força peso P. Atua sobre o corpo uma força F, que forma um ângulo de 30° com a direção horizontal (conforme indicado na figura abaixo). Para equilibrar o corpo em repouso, atuam também uma força normal N e uma força de atrito Fat estático exercidas pela superfície da mesa sobre o corpo. O modulo da força F é igual ao módulo da força peso P.\n[Imagem de um bloco em uma superfície com setas indicando as forças P, F, N e Fat, com o ângulo de 30° entre F e a horizontal]\nCom base nas informações do"},{"titulo":"texto 1","conteudo":"A7-I, é correto afirmar que o diagrama das forças atuando no corpo (sem considerar o seu ponto de atuação) é mais bem representado pela figura"}]
+      subItens: [{"titulo":"Texto 1","conteudo":"$1_{7}_{}$-I\nApoia-se em repouso, sobre a superfície horizontal de uma mesa, um corpo com força peso P. Atua sobre o corpo uma força F, que forma um ângulo de 30° com a direção horizontal (conforme indicado na figura abaixo). Para equilibrar o corpo em repouso, atuam também uma força normal N e uma força de atrito Fat estático exercidas pela superfície da mesa sobre o corpo. O modulo da força F é igual ao módulo da força peso P.\n[Imagem de um bloco em uma superfície com setas indicando as forças P, F, N e Fat, com o ângulo de 30° entre F e a horizontal]\nCom base nas informações do"},{"titulo":"texto 1","conteudo":"$1_{7}_{}$-I, é correto afirmar que o diagrama das forças atuando no corpo (sem considerar o seu ponto de atuação) é mais bem representado pela figura"}]
     },
     options: ["[Diagrama de forças com P para baixo, N para cima, F inclinada para cima e direita com 30° para a horizontal, e Fat para a esquerda]","[Diagrama de forças com P para baixo, N para cima, F inclinada para baixo e direita com 30° para a horizontal, e Fat para a esquerda]","[Diagrama de forças com P para baixo, N para cima, F inclinada para cima e esquerda com 30° para a horizontal, e Fat para a direita]","[Diagrama de forças com P para baixo, N para cima, F inclinada para baixo e esquerda com 30° para a horizontal, e Fat para a direita]"],
     correctAnswer: 1,
@@ -559,7 +559,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "Se o corpo referido no",
-      subItens: [{"titulo":"texto 1","conteudo":"A7-I tiver massa M, para que ele permaneça em repouso, o menor valor possível para o coeficiente de atrito estático µ entre a superfície da mesa e o corpo deverá ser igual a"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{7}_{}$-I tiver massa M, para que ele permaneça em repouso, o menor valor possível para o coeficiente de atrito estático µ entre a superfície da mesa e o corpo deverá ser igual a"}]
     },
     options: ["√3.","1/√3.","√2/2.","1/2.","√3/2."],
     correctAnswer: 1,
@@ -574,7 +574,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "",
-      subItens: [{"titulo":"Texto 1","conteudo":"A7-II\nEm determinada sala de um laboratório de física, onde é possível controlar a densidade do ar, são realizados experimentos de queda livre para uma pequena bola de isopor, cuja densidade é de 10 kg/m³. Nesse ambiente, mediu-se o valor da aceleração da gravidade como sendo g = 9,80 m/s², para o caso em que a bola de isopor cai em queda livre em um ambiente em que há vácuo, isto é, quando a densidade de ar da sala é considerada nula.\nSe a bola de isopor da situação do"},{"titulo":"texto 1","conteudo":"A7-II for largada, do repouso, de uma altura inicial de 2 m, então, a altura h dessa bola em função do tempo do momento em que essa boa é solta até o momento imediatamente antes de ela atingir o solo será igual a"}]
+      subItens: [{"titulo":"Texto 1","conteudo":"$1_{7}_{}$-II\nEm determinada sala de um laboratório de física, onde é possível controlar a densidade do ar, são realizados experimentos de queda livre para uma pequena bola de isopor, cuja densidade é de 10 kg/m³. Nesse ambiente, mediu-se o valor da aceleração da gravidade como sendo g = 9,80 m/s², para o caso em que a bola de isopor cai em queda livre em um ambiente em que há vácuo, isto é, quando a densidade de ar da sala é considerada nula.\nSe a bola de isopor da situação do"},{"titulo":"texto 1","conteudo":"$1_{7}_{}$-II for largada, do repouso, de uma altura inicial de 2 m, então, a altura h dessa bola em função do tempo do momento em que essa boa é solta até o momento imediatamente antes de ela atingir o solo será igual a"}]
     },
     options: ["h = 2 + 4,9t.","h = 2 - 4,9t.","h = -2 - 4,9t².","h = 2 - 9,8t.","h = 2 + 9,8t²."],
     correctAnswer: 1,
@@ -589,7 +589,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "Na situação do",
-      subItens: [{"titulo":"texto 1","conteudo":"A7-II, a intensidade da aceleração da bola de isopor em queda vertical, quando a densidade do ar da sala do laboratório é igual a 1 kg/m³, é dada por"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{7}_{}$-II, a intensidade da aceleração da bola de isopor em queda vertical, quando a densidade do ar da sala do laboratório é igual a 1 kg/m³, é dada por"}]
     },
     options: ["8,10 m/s².","8,34 m/s².","8,82 m/s².","8,91 m/s².","9,12 m/s²."],
     correctAnswer: 2,
@@ -604,7 +604,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "",
-      subItens: [{"titulo":"Texto 1","conteudo":"A7-III\nUm tipo de macaco hidráulico é constituído por um tubo em forma de U, preenchido por água com densidade p = 1,0 g/cm³. No lado direito do tubo, a superfície da água está em contato com um gás ideal, que está a uma pressão p, com temperatura Tgás e contido em um recipiente de volume Vgás. No lado esquerdo, a superfície da água suporta um peso total de W = 200 N. O sistema está em equilíbrio e o fluido (a água) em repouso. O desnível de altura h entre as superfícies do fluido nos dois lados do tubo é mostrado na figura. A área da superfície do fluido do lado direito, que suporta o peso W é de A = 1,0 m².\n[Imagem de um sistema de macaco hidráulico em formato de U, com um lado com peso W = 200 N e área A = 1,0 m², e o outro lado com gás, pressão p = 10^4 Pa, volume Vgás = 3,5 m³ e temperatura Tgás = 77 °C. Há um desnível h entre as superfícies da água.]\nAssinale a opção que apresenta a diferença de altura entre as superfícies dos fluidos nos dois lados do tubo da situação do"},{"titulo":"texto 1","conteudo":"A7-III, considerando a aceleração da gravidade g = 9,8 m/s²."}]
+      subItens: [{"titulo":"Texto 1","conteudo":"$1_{7}_{}$-III\nUm tipo de macaco hidráulico é constituído por um tubo em forma de U, preenchido por água com densidade p = 1,0 g/cm³. No lado direito do tubo, a superfície da água está em contato com um gás ideal, que está a uma pressão p, com temperatura Tgás e contido em um recipiente de volume Vgás. No lado esquerdo, a superfície da água suporta um peso total de W = 200 N. O sistema está em equilíbrio e o fluido (a água) em repouso. O desnível de altura h entre as superfícies do fluido nos dois lados do tubo é mostrado na figura. A área da superfície do fluido do lado direito, que suporta o peso W é de A = 1,0 m².\n[Imagem de um sistema de macaco hidráulico em formato de U, com um lado com peso W = 200 N e área A = 1,0 m², e o outro lado com gás, pressão p = $1^{4}$ Pa, volume Vgás = 3,5 m³ e temperatura Tgás = 77 °C. Há um desnível h entre as superfícies da água.]\nAssinale a opção que apresenta a diferença de altura entre as superfícies dos fluidos nos dois lados do tubo da situação do"},{"titulo":"texto 1","conteudo":"$1_{7}_{}$-III, considerando a aceleração da gravidade g = 9,8 m/s²."}]
     },
     options: ["0,5 m","0,8 m","1,0 m","1,1 m","1,2 m"],
     correctAnswer: 2,
@@ -619,7 +619,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "Considerando que a constante universal dos gases é igual a R = 8,3 J/(mol × K) e que 273 K = 0 °C, o número de mols do gás ideal da situação do",
-      subItens: [{"titulo":"texto 1","conteudo":"A7-III é"}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{7}_{}$-III é"}]
     },
     options: ["menor que 6.","maior ou igual a 6 e menor que 9.","maior ou igual a 9 e menor que 13.","maior ou igual a 13 e menor que 18.","maior ou igual a 18 e menor que 24."],
     correctAnswer: 4,
@@ -634,7 +634,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "",
-      subItens: [{"titulo":"Texto 1","conteudo":"A7-IV\nRaios luminosos se propagam horizontalmente no ar até atingirem uma região constituída por vidro. Na superfície de separação entre o ar e o vidro, os raios refletem, com um ângulo de reflexão denotado por θ₁, e refratam com um ângulo θ₂ = 30° (conforme a figura a seguir). A superfície de separação entre o ar e o vidro formam um ângulo de 30° com a direção horizontal. A normal da superfície de separação entre os meios é representada por uma reta pontilhada na figura. Nesse caso, o índice de refração do ar é igual a 1,0.\n[Diagrama mostrando raio incidente horizontal no ar, refletido com θ₁ e refratado no vidro com θ₂=30°. A superfície de separação forma 30° com a horizontal.]\nNa situação do"},{"titulo":"texto 1","conteudo":"A7-IV, o valor do ângulo de reflexão θ₁ é igual a"}]
+      subItens: [{"titulo":"Texto 1","conteudo":"$1_{7}_{}$-IV\nRaios luminosos se propagam horizontalmente no ar até atingirem uma região constituída por vidro. Na superfície de separação entre o ar e o vidro, os raios refletem, com um ângulo de reflexão denotado por θ₁, e refratam com um ângulo θ₂ = 30° (conforme a figura a seguir). A superfície de separação entre o ar e o vidro formam um ângulo de 30° com a direção horizontal. A normal da superfície de separação entre os meios é representada por uma reta pontilhada na figura. Nesse caso, o índice de refração do ar é igual a 1,0.\n[Diagrama mostrando raio incidente horizontal no ar, refletido com θ₁ e refratado no vidro com θ₂=30°. A superfície de separação forma 30° com a horizontal.]\nNa situação do"},{"titulo":"texto 1","conteudo":"$1_{7}_{}$-IV, o valor do ângulo de reflexão θ₁ é igual a"}]
     },
     options: ["20°.","30°.","45°.","50°.","60°."],
     correctAnswer: 2,
@@ -649,7 +649,7 @@ createQuestion({
     year: 2025,
     text: {
       principal: "Assinale a opção em que está representado corretamente o valor do índice de refração do vidro na situação apresentada no",
-      subItens: [{"titulo":"texto 1","conteudo":"A7-IV."}]
+      subItens: [{"titulo":"texto 1","conteudo":"$1_{7}_{}$-IV."}]
     },
     options: ["1/2","√2","√3","√2/2","√3/2"],
     correctAnswer: 4,
@@ -948,7 +948,7 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2025,
     text: {
-      principal: "O número de mortos em decorrência do terremoto que atingiu Mianmar no final de abril de 2025 subiu para 2.719. De acordo com a mídia chinesa, o tremor, de magnitude 7,7, foi um dos mais fortes já registrados em Mianmar e chegou a atingir regiões da China e da Tailândia, onde derrubou um arranha-céu e deixou um rastro sem precedente de destruição.\nPortal G1 (com adaptações).\nA partir do texto precedente, assinale a opção correta a respeito de terremotos.",
+      principal: "O número de mortos em decorrência do terremoto que atingiu Mianmar no final de abril de 2025 subiu para 2.719. De acordo com a mídia chinesa, o tremor, de magnitude 7,7, foi um dos mais fortes já registrados em Mianmar e chegou a atingir regiões da China e da Tailândia, onde derrubou um arranha-céu e deixou um rastro sem precedente de destruição.\nPortal $1_{1}_{}$ (com adaptações).\nA partir do texto precedente, assinale a opção correta a respeito de terremotos.",
       subItens: []
     },
     options: ["O desgaste morfológico da superfície de Mianmar e de países vizinhos, como a China e a Tailândia, é o fator responsável pelo tremor de magnitude 7,7.","O alívio da tensão das placas tectônicas se dá por meio dos movimentos epirogenéticos dos escudos cristalinos.","A divergência de placas tectônicas explica a deriva continental da separação da Pangeia, assim como a catástrofe em Mianmar.","A instabilidade tectônica das bacias sedimentares é causada pela porosidade da rocha, que, por sua vez, causa desmoronamento estrutural.","O limite transformante de placa tectônica foi o responsável pelo movimento causador do abalo sísmico de alta magnitude em Mianmar."],

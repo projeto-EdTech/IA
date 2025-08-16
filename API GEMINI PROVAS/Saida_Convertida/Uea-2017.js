@@ -501,7 +501,7 @@ createQuestion({
       principal: "A figura apresenta o esquema de um sistema físico para demonstrar o fluxo de água através de uma membrana semipermeável.\n\n[IMAGEM: Diagrama de osmose]\n\n(www.hidraulicart.pt. Adaptado.)\n\nO fenômeno representado pela figura é",
       subItens: []
     },
-    options: ["o transporte passivo, que ocorre, por exemplo, na absorção de nutrientes pelas células intestinais.","a difusão simples, que ocorre, por exemplo, na passagem de CO₂ do meio extracelular para a corrente sanguínea.","a difusão facilitada, que ocorre, por exemplo, no transporte de glicose do meio extracelular para o meio intracelular.","a osmose, que ocorre, por exemplo, quando hemácias perdem volume ao serem colocadas em solução saturada de NaCl.","o transporte ativo, que ocorre, por exemplo, na passagem de íons K+ para o interior da célula e na saída de íons Na+ para o meio extracelular."],
+    options: ["o transporte passivo, que ocorre, por exemplo, na absorção de nutrientes pelas células intestinais.","a difusão simples, que ocorre, por exemplo, na passagem de CO₂ do meio extracelular para a corrente sanguínea.","a difusão facilitada, que ocorre, por exemplo, no transporte de glicose do meio extracelular para o meio intracelular.","a osmose, que ocorre, por exemplo, quando hemácias perdem volume ao serem colocadas em solução saturada de NaCl.","o transporte ativo, que ocorre, por exemplo, na passagem de íons K+ para o interior da célula e na saída de íons $1^+$ para o meio extracelular."],
     correctAnswer: 3,
     materia: "Biologia – Biologia Celular",
     conteudo: "",
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2017,
     text: {
-      principal: "Na ordem apresentada, os números a seguir formam uma progressão aritmética.\n\n[IMAGEM: 14 -> 10 -> ?]\n\nDeste modo, o próximo número dessa progressão será",
+      principal: "Na ordem apresentada, os números a seguir formam uma progressão aritmética.\n\n[IMAGEM:$$ 14 \rightarrow 10 $$-> ?]\n\nDeste modo, o próximo número dessa progressão será",
       subItens: []
     },
     options: ["1.","2.","4.","6.","8."],

@@ -3,7 +3,7 @@ createQuestion({
     university: "ENEM",
     year: 2023,
     text: {
-      principal: "The average american tosses 300 pounds of food each year, making food the number one contributor to America's landfills. Eat your leftovers and keep your perishables in the fridge – the Earth is counting on it.\nDisponível em: https://mir-s3-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado).\nEsse cartaz de campanha sugere que",
+      principal: "The average american tosses 300 pounds of food each year, making food the number one contributor to America's landfills. Eat your leftovers and keep your perishables in the fridge – the Earth is counting on it.\nDisponível em: https://mir-$1_{3}$-cdn-cf.behance.net. Acesso em: 29 out. 2021 (adaptado).\nEsse cartaz de campanha sugere que",
       subItens: []
     },
     options: ["os lixões precisam de ampliação.","o desperdício degrada o ambiente.","os mercados doam alimentos perecíveis.","a desnutrição compromete o raciocínio.","as residências carecem de refrigeradores."],
@@ -498,7 +498,7 @@ createQuestion({
     university: "ENEM",
     year: 2023,
     text: {
-      principal: "Com uma população de 25 milhões de habitantes (cerca de 60% de minorias muçulmanas, principalmente da etnia Uigur), Xinjiang é uma região estratégica para a China. Faz fronteira com oito países, é uma artéria crucial do megaprojeto de infraestrutura chinesa Cinturão e Rota e tem as maiores reservas nacionais de gás e gás natural.\nNINIO, M. Disponível em: https://g1.globo.com. Acesso em: 5 out. 2021 (adaptado).\nTEXTO II\nDentre as províncias da Região Oeste, Xinjiang se destaca por receber mais de 1,7 milhão de migrantes entre 2000 e 2010. O principal motivo desse fluxo migratório é que o governo fornece subsídios à população visando aumentar o índice demográfico local de etnias turcas e chinesas.\nALVES, I.; TOYOSHIMA, S. Disparidade socioeconômica e fluxo migratório chinês: novas interpretações do modelo de desenvolvimento. Revista de Economia Contemporânea, n. 1, jan.-abr. 2017 (adaptado).\nA política demográfica para a província mencionada nos textos I e II parte da seguinte ação estratégica do governo chinês:",
+      principal: "Com uma população de 25 milhões de habitantes (cerca de 60% de minorias muçulmanas, principalmente da etnia Uigur), Xinjiang é uma região estratégica para a China. Faz fronteira com oito países, é uma artéria crucial do megaprojeto de infraestrutura chinesa Cinturão e Rota e tem as maiores reservas nacionais de gás e gás natural.\nNINIO, M. Disponível em: https://$1_{1}$.globo.com. Acesso em: 5 out. 2021 (adaptado).\nTEXTO II\nDentre as províncias da Região Oeste, Xinjiang se destaca por receber mais de 1,7 milhão de migrantes entre 2000 e 2010. O principal motivo desse fluxo migratório é que o governo fornece subsídios à população visando aumentar o índice demográfico local de etnias turcas e chinesas.\nALVES, I.; TOYOSHIMA, S. Disparidade socioeconômica e fluxo migratório chinês: novas interpretações do modelo de desenvolvimento. Revista de Economia Contemporânea, n. 1, jan.-abr. 2017 (adaptado).\nA política demográfica para a província mencionada nos textos I e II parte da seguinte ação estratégica do governo chinês:",
       subItens: []
     },
     options: ["promover a ocupação rural.","favorecer a liberdade religiosa.","descentralizar a gestão pública.","incentivar a pluralidade cultural.","assegurar a integridade territorial."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "ENEM",
     year: 2023,
     text: {
-      principal: "Elas foram as pioneiras dos direitos das mulheres no Afeganistão. Defensoras ferrenhas da lei, buscaram justiça para os mais marginalizados. Mas, agora, mais de 220 juízas afegãs estão escondidas por medo de retaliação sob o regime do Talibã. Uma delas condenou centenas de homens por violência contra as mulheres, incluindo estupro, assassinato e tortura. Mas poucos dias depois que o Talibã assumiu o controle de sua cidade e milhares de criminosos condenados foram libertados da prisão, as ameaças de morte começaram. O país sempre foi considerado um dos lugares mais difíceis e perigosos do mundo para as mulheres. De acordo com estudos de organizações não governamentais, cerca de 87% das mulheres e meninas serão vítimas de abuso durante a vida.\nDisponível em: https://g1.globo.com. Acesso em: 12 out. 2021 (adaptado).\nO texto evidencia situação representativa de",
+      principal: "Elas foram as pioneiras dos direitos das mulheres no Afeganistão. Defensoras ferrenhas da lei, buscaram justiça para os mais marginalizados. Mas, agora, mais de 220 juízas afegãs estão escondidas por medo de retaliação sob o regime do Talibã. Uma delas condenou centenas de homens por violência contra as mulheres, incluindo estupro, assassinato e tortura. Mas poucos dias depois que o Talibã assumiu o controle de sua cidade e milhares de criminosos condenados foram libertados da prisão, as ameaças de morte começaram. O país sempre foi considerado um dos lugares mais difíceis e perigosos do mundo para as mulheres. De acordo com estudos de organizações não governamentais, cerca de 87% das mulheres e meninas serão vítimas de abuso durante a vida.\nDisponível em: https://$1_{1}$.globo.com. Acesso em: 12 out. 2021 (adaptado).\nO texto evidencia situação representativa de",
       subItens: []
     },
     options: ["afronta às estruturas sociais.","desprezo aos valores religiosos.","transgressão às normas morais.","desrespeito à dignidade humana.","oposição aos princípios hierárquicos."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "ENEM",
     year: 2023,
     text: {
-      principal: "Taxa de fecundidade no Brasil\nDe 1960 a 2020,\nnúmero de filhos baixa de\n6,3 para 1,5\nFonte: IBGE\nDisponível em: www.ibge.gov.br. Acesso em: 27 set. 2021 (adaptado).\nQual fator determinante para a mudança do indicador apresentado no gráfico?",
+      principal: "Taxa de fecundidade no Brasil\nDe 1960 a 2020,\nnúmero de filhos baixa de\$1_{6}$,3 para 1,5\nFonte: IBGE\nDisponível em: www.ibge.gov.br. Acesso em: 27 set. 2021 (adaptado).\nQual fator determinante para a mudança do indicador apresentado no gráfico?",
       subItens: []
     },
     options: ["flexibilização legal da prática de aborto.","envelhecimento da população brasileira.","crescimento dos casos de gravidez precoce.","participação feminina no mercado de trabalho.","diminuição dos benefícios na licença-maternidade."],

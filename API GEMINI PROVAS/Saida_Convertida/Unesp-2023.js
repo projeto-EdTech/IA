@@ -216,7 +216,7 @@ createQuestion({
       principal: "Do ponto de vista temático, o texto de Montaigne dialoga especialmente com a seguinte citação:",
       subItens: []
     },
-    options: ["\"Sou um homem; não considero alheio a mim nada do\nque é humano.\" (Terêncio, 185-159 a.C.)","\"Não se deve indagar sobre tudo: é melhor que muitas\ncoisas permaneçam ocultas.” (Sófocles, 486-406 a.C.)","\"Nunca acontece algo que, por natureza, não sejamos\ncapazes de suportar.\" (Marco Aurélio, 121-180 d.C.)","“O hábito é o melhor mestre em todas as coisas.” (Plínio,\n23-79 d.C.)","“E amanhã não seremos o que fomos, nem o que somos.\"\n(Ovídio, 43 a.C.-18 d.C.)"],
+    options: ["\"Sou um homem; não considero alheio a mim nada do\nque é humano.\" (Terêncio, 185-159 a.C.)","\"Não se deve indagar sobre tudo: é melhor que muitas\ncoisas permaneçam ocultas.” (Sófocles, 486-406 a.C.)","\"Nunca acontece algo que, por natureza, não sejamos\ncapazes de suportar.\" (Marco Aurélio, 121-180 d.C.)","“O hábito é o melhor mestre em todas as coisas.” (Plínio,\$1_{23}$-79 d.C.)","“E amanhã não seremos o que fomos, nem o que somos.\"\n(Ovídio, 43 a.C.-18 d.C.)"],
     correctAnswer: 4,
     materia: "Filosofia – Filosofia Moderna (Montaigne)",
     conteudo: "Filosofia – Pensamento Filosófico",
@@ -681,7 +681,7 @@ createQuestion({
       principal: "Em 2009, em sua primeira Reunião de Cúpula, países emergentes que compartilhavam grandes perspectivas econômicas firmaram acordos de cooperação econômico-financeira. Esses países correspondem",
       subItens: []
     },
-    options: ["ao MERCOSUL, bloco econômico que integrou infraes-\ntruturas de transporte regionais.","ao G8, bloco econômico que modernizou setores de ciên-\ncia, educação e inovação.","ao USCMA, grupo que descentralizou a produção para\nganhar competitividade no mercado global.","ao BRICS, grupo que articulou projetos em áreas de tec-\nnologia, saúde e energia.","ao G20, coletivo que estabeleceu metas para o fortaleci-\nmento de seus setores agrícola e extrativista."],
+    options: ["ao MERCOSUL, bloco econômico que integrou infraes-\ntruturas de transporte regionais.","ao $1_{8}_{}$, bloco econômico que modernizou setores de ciên-\ncia, educação e inovação.","ao USCMA, grupo que descentralizou a produção para\nganhar competitividade no mercado global.","ao BRICS, grupo que articulou projetos em áreas de tec-\nnologia, saúde e energia.","ao $1_{20}_{}$, coletivo que estabeleceu metas para o fortaleci-\nmento de seus setores agrícola e extrativista."],
     correctAnswer: 3,
     materia: "Geografia – Geopolítica",
     conteudo: "Geografia – Blocos Econômicos",
@@ -753,7 +753,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "A produção de metano (CH4), chamado de “gás dos pântanos\", na Amazônia representou 8% de suas emissões globais. Cerca de três quartos desse gás liberado na região, que corta nove países e concentra 60% de sua área no Brasil, foram produzidos por um processo natural, em razão da decomposição de biomassa, essencialmente árvores e vegetação, em áreas parcial ou totalmente alagadas durante o ano.\n\n(https://revistapesquisa.fapesp.br. Adaptado.)\n\nNa Amazônia, o \"gás dos pântanos\" está associado, dentre outros fatores,",
+      principal: "A produção de metano ($1_{4}$), chamado de “gás dos pântanos\", na Amazônia representou 8% de suas emissões globais. Cerca de três quartos desse gás liberado na região, que corta nove países e concentra 60% de sua área no Brasil, foram produzidos por um processo natural, em razão da decomposição de biomassa, essencialmente árvores e vegetação, em áreas parcial ou totalmente alagadas durante o ano.\n\n(https://revistapesquisa.fapesp.br. Adaptado.)\n\nNa Amazônia, o \"gás dos pântanos\" está associado, dentre outros fatores,",
       subItens: []
     },
     options: ["ao processo de lixiviação.","à incorporação da água de afluentes.","ao assoreamento dos rios.","à transposição de rios.","aos reservatórios das usinas hidrelétricas."],
@@ -981,7 +981,7 @@ createQuestion({
       principal: "Analise o esquema de um jogo de palavras cruzadas.\n\n[Diagrama de palavras cruzadas com as palavras horizontais \"CÉLULA\", \"PROCARIOTO\", \"CROSSING OVER\" e \"NUCLÉOLO\" e espaços para preenchimento numerados como 1, 2 e 3.]\n\nAs informações para que as sequências 1, 2 e 3 sejam preenchidas com os termos que completam as palavras cruzadas são:",
       subItens: []
     },
-    options: ["1: região de acúmulo de RNA ribossômico recém-\n-sintetizado\n2: conteúdo dos lisossomos\n3: unidade estrutural e funcional dos seres vivos","1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\n2: conteúdo dos lisossomos\n3: órgãos que apresentam células que sofrem meioses","1: unidade estrutural e funcional dos seres vivos\n2: órgãos que apresentam células que sofrem meioses\n3: conteúdo dos lisossomos","1: organela em que se dá a síntese proteica\n2: o mesmo que permutação cromossômica\n3: órgãos que apresentam células que sofrem meioses","1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\n2: organela em que se dá a síntese proteica\n3: região de acúmulo de RNA ribossômico recém-sintetizado"],
+    options: ["1: região de acúmulo de RNA ribossômico recém-\n-sintetizado\$1_{2}$: conteúdo dos lisossomos\$1_{3}$: unidade estrutural e funcional dos seres vivos","1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\$1_{2}$: conteúdo dos lisossomos\$1_{3}$: órgãos que apresentam células que sofrem meioses","1: unidade estrutural e funcional dos seres vivos\$1_{2}$: órgãos que apresentam células que sofrem meioses\$1_{3}$: conteúdo dos lisossomos","1: organela em que se dá a síntese proteica\$1_{2}$: o mesmo que permutação cromossômica\$1_{3}$: órgãos que apresentam células que sofrem meioses","1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\$1_{2}$: organela em que se dá a síntese proteica\$1_{3}$: região de acúmulo de RNA ribossômico recém-sintetizado"],
     correctAnswer: 1,
     materia: "Biologia – Citologia",
     conteudo: "Biologia – Genética (Cromossomos e Meiose)",
@@ -1281,7 +1281,7 @@ createQuestion({
       principal: "Na figura, BELO é um losango com vértices E e O nos lados BA e LU, respectivamente, do retângulo BALU. A diagonal BL de BALU forma um ângulo de 30° com o lado LU, como mostra a figura.\n\n[Diagrama de um retângulo BALU com um losango BELO inscrito, e a diagonal BL formando um ângulo de 30° com o lado LU.]\n\nSe a medida do lado do losango BELO é igual a 2 cm, a área do retângulo BALU será igual a:",
       subItens: []
     },
-    options: ["3√3 cm²\n2","3√3 cm²","5√3 cm²","7√3 cm²\n2","2√3 cm²"],
+    options: ["3√3 cm²\$1_{2}$","3√3 cm²","5√3 cm²","7√3 cm²\$1_{2}$","2√3 cm²"],
     correctAnswer: 1,
     materia: "Matemática – Geometria Plana",
     conteudo: "Matemática – Trigonometria",

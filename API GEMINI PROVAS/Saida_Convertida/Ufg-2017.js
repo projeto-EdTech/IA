@@ -63,7 +63,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "O \"Meme\" acima produz humor, porque\n\nImage:\nei 15:17✓✓✓\ntô com uma dúvida aqui 15:17✓✓✓\nManda 15:46\no certo é vamo se beijar ou vamos\nnos beijar?\n15:46✓✓✓\nVamos nos beijar 16:06\nvomo 16:30✓✓✓\n\nDisponível em: <www.tediado.com.br>. Acesso em: 19 jun. 2017.",
+      principal: "O \"Meme\" acima produz humor, porque\n\nImage:\nei 15:17✓✓✓\ntô com uma dúvida aqui 15:17✓✓✓\nManda 15:46\no certo é vamo se beijar ou vamos\nnos beijar?\$1_{15}$:46✓✓✓\nVamos nos beijar 16:06\nvomo 16:30✓✓✓\n\nDisponível em: <www.tediado.com.br>. Acesso em: 19 jun. 2017.",
       subItens: []
     },
     options: ["o primeiro interlocutor inicia a conversa demonstrando preocupação com a correção gramatical de uma frase, mas termina revelando outras intenções.","o segundo interlocutor reconhece as intenções de sedução da mensagem enviada pelo primeiro interlocutor, mas finge não percebê-las.","os dois interlocutores demonstram ter, no jogo de interlocução, plena consciência do duplo sentido construído para o enunciado “vamos nos beijar”.","o primeiro interlocutor desconhece as regras básicas da língua portuguesa e dos jogos de sedução."],
@@ -153,7 +153,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "O quadro a seguir apresenta a quantidade de visitantes aos equipamentos turísticos da cidade de Santos, no ano de 2016.\n\nTable:\nEquipamento turístico | Visitantes em 2016 (em milhares)\n--- | ---\nAquário Municipal | 529\nMuseu do Café | 309\nOrquidário Municipal | 184\nBonde Turístico | 99\nMemorial das Conquistas | 63\nMuseu Pelé | 50\nDisponível em: Folha de S. Paulo, 25/06/17, p. B7 [Adaptado].\nDe acordo com os dados apresentados nesse quadro, a média de visitantes nestes seis equipamentos foi",
+      principal: "O quadro a seguir apresenta a quantidade de visitantes aos equipamentos turísticos da cidade de Santos, no ano de 2016.\n\nTable:\nEquipamento turístico | Visitantes em 2016 (em milhares)\n--- | ---\nAquário Municipal | 529\nMuseu do Café | 309\nOrquidário Municipal | 184\nBonde Turístico | 99\nMemorial das Conquistas | 63\nMuseu Pelé | 50\nDisponível em: Folha de S. Paulo, 25/06/17, p. $1_{7}_{}$ [Adaptado].\nDe acordo com os dados apresentados nesse quadro, a média de visitantes nestes seis equipamentos foi",
       subItens: []
     },
     options: ["menor que a quantidade de visitantes do Bonde Turístico e Memorial das Conquistas juntos.","maior que a quantidade de visitantes do Museu do Café.","menor que o triplo de visitantes do Memorial das Conquistas.","maior que o número de visitantes do Orquidário Municipal."],
@@ -231,7 +231,7 @@ createQuestion({
       principal: "A magnitude M de um terremoto e a energia por ele liberada (em Joules) E estão relacionadas pela seguinte equação:\nlog(E)=4,4+1,5 M,\nsendo que o logaritmo está na base 10.\nSe um terremoto teve magnitude 1,95, a energia por ele liberada, em Joules, foi\nUse: 10^(325/1000)=2,11",
       subItens: []
     },
-    options: ["2,11×10^2","2,11×10^5","2,11×10^7","2,11×10^22"],
+    options: ["$1 \times 10^{2}$","$1 \times 10^{5}$","$1 \times 10^{7}$","$1 \times 10^{22}$"],
     correctAnswer: 2,
     materia: "Matemática – Logaritmos",
     conteudo: "Matemática – Equações Exponenciais",
@@ -258,7 +258,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "As equações\n4 x² + 4 y² – 24 x − 32 y +91 = 0 e 2x-3y+3=0\nrepresentam, no plano cartesiano, uma circunferência e uma reta com",
+      principal: "As equações\$1_{4}$ x² + 4 y² – 24 x − 32 y +91 = 0 e 2x-3y+3=0\nrepresentam, no plano cartesiano, uma circunferência e uma reta com",
       subItens: []
     },
     options: ["ausência de interseção entre seus pontos.","interseção em dois pontos que determinam um segmento menor que um diâmetro da circunferência.","tangência em um ponto de abscissa 3.","interseção em dois pontos que determinam um diâmetro da circunferência."],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Um corpo de massa m está sujeito a uma força resultante F1, que atua conforme representado na figura a seguir.\n\nImage: Cartesian plane with origin at center. A vector F1 points from origin towards positive Y, negative X quadrant (roughly -X, +Y direction).\n\nPara que o corpo, partindo do repouso, se movimente ao longo do eixo x positivo, uma possível força F2 a ser adicionada ao sistema para resultar nesse movimento pode estar ao longo do",
+      principal: "Um corpo de massa m está sujeito a uma força resultante $1_{1}_{}$, que atua conforme representado na figura a seguir.\n\nImage: Cartesian plane with origin at center. A vector $1_{1}_{}$ points from origin towards positive Y, negative X quadrant (roughly -X, +Y direction).\n\nPara que o corpo, partindo do repouso, se movimente ao longo do eixo x positivo, uma possível força $1_{2}_{}$ a ser adicionada ao sistema para resultar nesse movimento pode estar ao longo do",
       subItens: []
     },
     options: ["eixo x, no sentido positivo.","eixo y, no sentido positivo.","eixo x, no sentido negativo.","eixo y, no sentido negativo."],
@@ -363,10 +363,10 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "As radiações eletromagnéticas ou ondas eletromagnéticas são muito utilizadas em nosso dia a dia: das ondas de rádio, para transportar sinais de TV e telefonia, a ondas de raios-X, para visualizar estruturas internas do corpo humano. Essas radiações transportam energia, cuja quantidade está diretamente relacionada com sua frequência. Quanto maior a frequência, mais energia a onda transporta.\nNo quadro a seguir, são apresentadas algumas faixas aproximadas de frequências e os nomes que damos a essas regiões.\n\nTable:\nRegião | Faixa de Frequência (Hz)\n--- | ---\nRádio | < 3 x 10^9\nMicro-ondas | 10^9 a 10^12\nInfravermelho | 10^12 a 10^14\nUltravioleta | 10^14 a 10^17\nRaios-X | 10^17 a 10^19\n\nA faixa de frequência em que conseguimos observar a onda eletromagnética a olho nu é chamada de região do visível. Considerando as faixas de frequências apresentadas no quadro acima, a frequência, em Hz, que certamente se encontra na faixa do visível é",
+      principal: "As radiações eletromagnéticas ou ondas eletromagnéticas são muito utilizadas em nosso dia a dia: das ondas de rádio, para transportar sinais de TV e telefonia, a ondas de raios-X, para visualizar estruturas internas do corpo humano. Essas radiações transportam energia, cuja quantidade está diretamente relacionada com sua frequência. Quanto maior a frequência, mais energia a onda transporta.\nNo quadro a seguir, são apresentadas algumas faixas aproximadas de frequências e os nomes que damos a essas regiões.\n\nTable:\nRegião | Faixa de Frequência (Hz)\n--- | ---\nRádio | < $1 \times 10^{9}$\nMicro-ondas | $1^{9}$ a $1^{12}$\nInfravermelho | $1^{12}$ a $1^{14}$\nUltravioleta | $1^{14}$ a $1^{17}$\nRaios-X | $1^{17}$ a $1^{19}$\n\nA faixa de frequência em que conseguimos observar a onda eletromagnética a olho nu é chamada de região do visível. Considerando as faixas de frequências apresentadas no quadro acima, a frequência, em Hz, que certamente se encontra na faixa do visível é",
       subItens: []
     },
-    options: ["4 x 10^9","5 x 10^12","6 x 10^14","7 x 10^17"],
+    options: ["$1 \times 10^{9}$","$1 \times 10^{12}$","$1 \times 10^{14}$","$1 \times 10^{17}$"],
     correctAnswer: 2,
     materia: "Física – Ondulatória",
     conteudo: "",
@@ -378,7 +378,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "A noção de trabalho, em Física, é muito importante e diferente daquela usada em nosso dia a dia. Para a Física, existe trabalho realizado quando forças atuam sobre um corpo, produzindo nele um deslocamento.\n\nImage: A block being pushed horizontally with force F over a distance d.\n\nDisponível em: <http://www.cepa.if.usp.br/energia/energia2000/turmaB/grupo5/trabalho/trabalho.htm>. Acesso em 08 jul. 2017\n\nPara a Física, no caso da figura acima, o trabalho da força resultante que atua no bloco está diretamente relacionado com a variação de",
+      principal: "A noção de trabalho, em Física, é muito importante e diferente daquela usada em nosso dia a dia. Para a Física, existe trabalho realizado quando forças atuam sobre um corpo, produzindo nele um deslocamento.\n\nImage: A block being pushed horizontally with force F over a distance d.\n\nDisponível em: <http://www.cepa.if.usp.br/energia/$1_{2000}$/turmaB/$1_{5}$/trabalho/trabalho.htm>. Acesso em 08 jul. 2017\n\nPara a Física, no caso da figura acima, o trabalho da força resultante que atua no bloco está diretamente relacionado com a variação de",
       subItens: []
     },
     options: ["sua energia cinética.","sua quantidade de movimento.","seu impulso.","seu potencial gravitacional."],

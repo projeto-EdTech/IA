@@ -441,7 +441,7 @@ createQuestion({
       principal: "São vitaminas hidrossolúveis e lipossolúveis, respectivamente:",
       subItens: []
     },
-    options: ["B₁ e B2.","Retinol e tiamina.","Niacina e tocoferol.","Ácido pantotênico e B12.","Filoquinona e ácido ascórbico."],
+    options: ["B₁ e $1_{2}_{}$.","Retinol e tiamina.","Niacina e tocoferol.","Ácido pantotênico e $1_{12}_{}$.","Filoquinona e ácido ascórbico."],
     correctAnswer: 2,
     materia: "Biologia – Fisiologia Humana",
     conteudo: "Biologia – Vitaminas",
@@ -561,7 +561,7 @@ createQuestion({
       principal: "A regra do octeto é amplamente utilizada para explicar as ligações químicas. É uma regra química que afirma que os átomos de baixo número atômico tendem a combinar ou tornar-se íons de modo que cada um deles tem oito elétrons em sua camada de valência, dando-lhes a mesma configuração eletrônica como um gás nobre (e, portanto, mais estabilidade). Mas existem algumas exceções que violam a regra do octeto. Nesse caso, em qual das seguintes espécies químicas a “regra do octeto\" é violada?",
       subItens: []
     },
-    options: ["NO2","CO2","NH2-","SO4","Al2O3"],
+    options: ["$1_{2}$","$1_{2}$","$1_{2}$-","$1_{4}$","$1_{2}O_{3}$"],
     correctAnswer: 0,
     materia: "Química – Ligações Químicas",
     conteudo: "",
@@ -573,7 +573,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "Os óxidos são compostos binários, ou seja, formados por dois elementos, sendo o oxigênio o mais eletronegativo entre eles. Eles são classificados em função do seu comportamento na presença de água, bases e ácidos. Associe CORRETAMENTE a segunda coluna com a primeira:\nI. AS2O3 () óxido ácido\nII. CO () óxido anfótero\nIII. Fe3O4 () óxido básico\nIV. N2O5\nV. Sro () óxido duplo ou misto\n() óxido neutro\nAssinale a alternativa que apresenta a sequência correta de cima para baixo:",
+      principal: "Os óxidos são compostos binários, ou seja, formados por dois elementos, sendo o oxigênio o mais eletronegativo entre eles. Eles são classificados em função do seu comportamento na presença de água, bases e ácidos. Associe CORRETAMENTE a segunda coluna com a primeira:\nI. AS2O3 () óxido ácido\nII. CO () óxido anfótero\nIII. $1_{3}O_{4}$ () óxido básico\nIV. $1_{2}O_{5}$\nV. Sro () óxido duplo ou misto\n() óxido neutro\nAssinale a alternativa que apresenta a sequência correta de cima para baixo:",
       subItens: []
     },
     options: ["II, III, IV, I e V","IV, I, V, III e II","IV, II, III, V e I","V, III, IV, I e II","V, IV, III, I e II"],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "Em 1789, Nicolas Leblanc (1742-1806) conseguiu desenvolver um processo, na época considerado muito bom, para produzir carbonato de sódio a partir do NaCl. As equações químicas do processo são mostradas a seguir:\n1. 2NaCl(s) + H2SO4(aq) → X + 2HCl(g)\nII. X + 4C(s) → Y + 4CO(g)\nIII. Y + CaCO3(s) → Na2CO3(s) + Z\nComplete CORRETAMENTE as equações químicas, identificando os produtos X, Y e Z, respectivamente:",
+      principal: "Em 1789, Nicolas Leblanc (1742-1806) conseguiu desenvolver um processo, na época considerado muito bom, para produzir carbonato de sódio a partir do NaCl. As equações químicas do processo são mostradas a seguir:\$1_{1}$. 2NaCl(s) + $1_{2}SO_{4}$(aq) → X + 2HCl(g)\nII. X + 4C(s) → Y + 4CO(g)\nIII. Y + $1_{3}$(s) → $1_{2}CO_{3}$(s) + Z\nComplete CORRETAMENTE as equações químicas, identificando os produtos X, Y e Z, respectivamente:",
       subItens: []
     },
     options: ["sulfato de sódio, sulfeto de sódio e sulfeto de cálcio","sulfeto de sódio, sulfato de sódio e sulfeto de cálcio","sulfeto de sódio, sulfeto de cálcio e sulfato de sódio","sulfeto de cálcio, sulfato de sódio e sulfeto de sódio","sulfito de sódio, sulfeto de sódio e sulfeto de cálcio"],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "Resolvendo em R a inequação\nlog25(x² – x) > log25(2x + 10)\ndeve-se obter como solução (S):",
+      principal: "Resolvendo em R a inequação\$1_{25}$(x² – x) > $1_{25}$(2x + 10)\ndeve-se obter como solução (S):",
       subItens: []
     },
     options: ["S = {x ∈ R|-5<x< -2 ou x > 5}","S = {x ∈ R|-5<x<0ou x > 1}","S = {x ∈ R | x < -2 ou x > 5}","S = {x ∈ R|-5<x<-5}","S = Ø"],

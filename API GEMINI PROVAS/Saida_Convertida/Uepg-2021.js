@@ -393,7 +393,7 @@ createQuestion({
     university: "Vestibular",
     year: 2021,
     text: {
-      principal: "Dada a seguinte equação balanceada, assinale o que for correto.\nCl2(g) + 2NaOH(aq) → NaCl(aq) + NaClO (aq) + H2O(l)",
+      principal: "Dada a seguinte equação balanceada, assinale o que for correto.\$1_{2}$(g) + 2NaOH(aq) → NaCl(aq) + NaClO (aq) + $1_{2}O_{}$(l)",
       subItens: []
     },
     options: ["O reagente cloro sofre, ao mesmo tempo, redução e oxidação, indicando que ele atua como agente oxidante e redutor.","O número de oxidação do sódio sofre variação na reação.","O número de oxidação do oxigênio varia na reação de -1 para -2, em ambos os compostos formados.","O número de oxidação do reagente cloro, ao formar NaClO, passa de 0 para +1."],
@@ -411,7 +411,7 @@ createQuestion({
       principal: "Com relação aos compostos inorgânicos (ácidos, bases, sais e óxidos) e suas propriedades, assinale o que for correto.",
       subItens: []
     },
-    options: ["O ácido sulfúrico puro, H2SO4, é um bom condutor de eletricidade.","A força de um ácido ou de uma base pode ser medida pelo seu grau de ionização.","O óxido de cálcio reage com a água produzindo uma base de fórmula Ca(OH)2.","O sal Ni2(SO3)3 é formado pelo cátion Ni3+ e pelo ânion sulfito SO32-."],
+    options: ["O ácido sulfúrico puro, $1_{2}SO_{4}$, é um bom condutor de eletricidade.","A força de um ácido ou de uma base pode ser medida pelo seu grau de ionização.","O óxido de cálcio reage com a água produzindo uma base de fórmula Ca(OH)2.","O sal $1_{2}_{}$($1_{3}$)3 é formado pelo cátion $1_{3}_{}$+ e pelo ânion sulfito $1_{32}$-."],
     correctAnswer: null,
     materia: "Química – Funções Inorgânicas",
     conteudo: "Química – Ácidos, Bases, Sais e Óxidos",
@@ -438,10 +438,10 @@ createQuestion({
     university: "Vestibular",
     year: 2021,
     text: {
-      principal: "Considerando os seguintes íons: sódio (Na+), magnésio (Mg2+), cálcio (Ca2+), cloreto (Cl-), sulfato (SO42-) e carbonato (CO32-), identifique quais sais podem ser formados em meio aquoso. Assinale o que for correto.",
+      principal: "Considerando os seguintes íons: sódio ($1^+$), magnésio ($1_{2}_{}$+), cálcio ($1_{2}_{}$+), cloreto (Cl-), sulfato ($1_{42}$-) e carbonato ($1_{32}$-), identifique quais sais podem ser formados em meio aquoso. Assinale o que for correto.",
       subItens: []
     },
-    options: ["Cloreto de cálcio, CaCl2.","Sulfato de sódio, Na2SO4.","Sulfato de cálcio, CaSO4.","Carbonato de magnésio, MgCO3."],
+    options: ["Cloreto de cálcio, $1_{2}$.","Sulfato de sódio, $1_{2}SO_{4}$.","Sulfato de cálcio, $1_{4}$.","Carbonato de magnésio, $1_{3}$."],
     correctAnswer: null,
     materia: "Química – Sais",
     conteudo: "Química – Nomenclatura Química",
@@ -468,10 +468,10 @@ createQuestion({
     university: "Vestibular",
     year: 2021,
     text: {
-      principal: "Sabendo que x1 = -5 e x2 = 2 são as raízes da função quadrática f(x) = ax² + bx + c e que f(0) = -10, assinale o que for correto.",
+      principal: "Sabendo que $1_{1}$ = -5 e $1_{2}$ = 2 são as raízes da função quadrática f(x) = ax² + bx + c e que f(0) = -10, assinale o que for correto.",
       subItens: []
     },
-    options: ["f(x) é uma função crescente para x > -1.","b é a solução da equação exponencial 2^(2x-7) . 2^x = 8.","f(b) é um número ímpar.","c é a solução da equação logarítmica log2 (6-x) = 4."],
+    options: ["f(x) é uma função crescente para x > -1.","b é a solução da equação exponencial 2^(2x-7) . 2^x = 8.","f(b) é um número ímpar.","c é a solução da equação logarítmica $1_{2}$ (6-x) = 4."],
     correctAnswer: null,
     materia: "Matemática – Funções Quadráticas",
     conteudo: "Matemática – Equações Exponenciais",

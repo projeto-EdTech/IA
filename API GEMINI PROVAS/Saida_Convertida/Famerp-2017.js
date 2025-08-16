@@ -3,7 +3,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Um copo inicialmente vazio foi enchido com água por meio de uma torneira com vazão constante. O gráfico mostra a altura da água no copo em função do tempo durante seu enchimento até a boca.\n\naltura da água\n0\ntempo\n\nDe acordo com o gráfico, um formato possível do copo é",
+      principal: "Um copo inicialmente vazio foi enchido com água por meio de uma torneira com vazão constante. O gráfico mostra a altura da água no copo em função do tempo durante seu enchimento até a boca.\n\naltura da água\$1_{0}$\ntempo\n\nDe acordo com o gráfico, um formato possível do copo é",
       subItens: []
     },
     options: ["[Imagem de um copo: superior mais largo, estreita no meio e alarga-se na base]","[Imagem de um copo: superior mais estreito, alarga-se no meio e estreita-se na base]","[Imagem de um copo: superior mais estreito, alarga-se gradualmente para a base]","[Imagem de um copo: superior mais largo, estreita-se gradualmente para a base]","[Imagem de um copo: superior mais largo, estreita-se, alarga-se e estreita-se novamente na base]"],
@@ -18,7 +18,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Um desodorante é vendido em duas embalagens de tamanhos diferentes, porém de formatos matematicamente semelhantes. A figura indica algumas das medidas dessas embalagens.\n\n50 mm\n85 mm\n40 mm\n68 mm\n\nSe a capacidade da embalagem maior é de 100 mL, a capacidade da embalagem menor é de",
+      principal: "Um desodorante é vendido em duas embalagens de tamanhos diferentes, porém de formatos matematicamente semelhantes. A figura indica algumas das medidas dessas embalagens.\n\$1_{50}$ mm\$1_{85}$ mm\$1_{40}$ mm\$1_{68}$ mm\n\nSe a capacidade da embalagem maior é de 100 mL, a capacidade da embalagem menor é de",
       subItens: []
     },
     options: ["64,0 mL.","48,6 mL.","56,4 mL.","80,0 mL.","51,2 mL."],
@@ -63,7 +63,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Em uma circunferência trigonométrica de centro C e origem dos arcos em O, foram marcados os pontos P e Q, sendo que as medidas dos arcos OP e OQ são iguais, respectivamente, a α e 2α, conforme indica a figura.\n\nQ'\nQ\n2α\nλ\nP\nα\nC\n1\nO\nX\n\nSabendo-se que Q' é a projeção ortogonal de Q sobre o eixo y, que λ é uma semicircunferência de diâmetro CQ' e que sen α = 1/3, a área da região colorida na figura é",
+      principal: "Em uma circunferência trigonométrica de centro C e origem dos arcos em O, foram marcados os pontos P e Q, sendo que as medidas dos arcos OP e OQ são iguais, respectivamente, a α e 2α, conforme indica a figura.\n\nQ'\nQ\$1_{2}$α\nλ\nP\nα\nC\$1_{1}$\nO\nX\n\nSabendo-se que Q' é a projeção ortogonal de Q sobre o eixo y, que λ é uma semicircunferência de diâmetro CQ' e que sen α = 1/3, a área da região colorida na figura é",
       subItens: []
     },
     options: ["7π/36","31π/162","5π/27","65π/324","16π/81"],
@@ -93,7 +93,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "A figura mostra os gráficos de duas funções polinomiais do 1º grau, f e g, num mesmo sistema cartesiano ortogonal, sendo que o gráfico de f passa pela origem.\n\ny = f(x)\ny = g(x)\nf\ng\n0\nX\n\nSabendo-se que f(5) = g(5) e g(f(0)) = 14, é correto afirmar que g(6) é igual a",
+      principal: "A figura mostra os gráficos de duas funções polinomiais do 1º grau, f e g, num mesmo sistema cartesiano ortogonal, sendo que o gráfico de f passa pela origem.\n\ny = f(x)\ny = g(x)\nf\ng\$1_{0}$\nX\n\nSabendo-se que f(5) = g(5) e g(f(0)) = 14, é correto afirmar que g(6) é igual a",
       subItens: []
     },
     options: ["36/5","7","37/5","34/5","32/5"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "A figura mostra, em perspectiva, as quatro primeiras pilhas de blocos de uma sequência.\n\n4ª pilha\n3ª pilha\n2ª pilha\n1ª pilha\n\n1 bloco\n6 blocos\n19 blocos\n44 blocos\n\nMantida a mesma lógica de empilhamento dos blocos, a 6ª pilha da sequência terá um total de blocos igual a",
+      principal: "A figura mostra, em perspectiva, as quatro primeiras pilhas de blocos de uma sequência.\n\$1_{4}$ª pilha\$1_{3}$ª pilha\$1_{2}$ª pilha\$1_{1}$ª pilha\n\$1_{1}$ bloco\$1_{6}$ blocos\$1_{19}$ blocos\$1_{44}$ blocos\n\nMantida a mesma lógica de empilhamento dos blocos, a 6ª pilha da sequência terá um total de blocos igual a",
       subItens: []
     },
     options: ["149.","141.","146.","151.","144."],
@@ -198,7 +198,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "As imagens representam três organelas encontradas numa célula secretora de enzimas.\n\n1\n2\n3\n(www.the-scientist.com)\n(Karen Arms e Pamela S. Camp.\nBiology, 1995. Adaptado.)\n\nConsiderando que a referida célula elimine enzimas digestivas, a sequência correta, do local de síntese até a saída de tais enzimas dessa célula, é:",
+      principal: "As imagens representam três organelas encontradas numa célula secretora de enzimas.\n\$1_{1}$\$1_{2}$\$1_{3}$\n(www.the-scientist.com)\n(Karen Arms e Pamela S. Camp.\nBiology, 1995. Adaptado.)\n\nConsiderando que a referida célula elimine enzimas digestivas, a sequência correta, do local de síntese até a saída de tais enzimas dessa célula, é:",
       subItens: []
     },
     options: ["1→2→3.","1→3→2.","2→1→3.","3→1→2.","2→3→1."],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "O fluxograma ilustra a participação de alguns órgãos e substâncias (angiotensinogênio, angiotensina, renina e aldosterona) no controle da pressão arterial humana.\n\nfígado\nangiotensinogênio\nredução de sódio e\nágua no sangue\nou diminuição da\npressão sanguínea\nrins\n1\nrenina\nangiotensina → suprarrenais → aldosterona\n2\ncapilares\nrenais\nvasoconstrição\n3\naumento da\nreabsorção de\nsódio nos túbulos\nrenais e aumento\nda pressão arterial\n\n(Sídio Machado. Biologia para o ensino médio, 2003. Adaptado.)\nConsidere que os números 1, 2 e 3 indicados no fluxograma representem uma ação do tipo estimulante (+) ou uma ação do tipo inibidora (-) e que o aumento da reabsorção de sódio nos túbulos renais promova um deslocamento hídrico nos túbulos renais. De acordo com essas informações, assinale a alternativa que indica, correta e respectivamente, o tipo da ação representada pelos números 1, 2 e 3 e o resultado do deslocamento hídrico.",
+      principal: "O fluxograma ilustra a participação de alguns órgãos e substâncias (angiotensinogênio, angiotensina, renina e aldosterona) no controle da pressão arterial humana.\n\nfígado\nangiotensinogênio\nredução de sódio e\nágua no sangue\nou diminuição da\npressão sanguínea\nrins\$1_{1}$\nrenina\nangiotensina → suprarrenais → aldosterona\$1_{2}$\ncapilares\nrenais\nvasoconstrição\$1_{3}$\naumento da\nreabsorção de\nsódio nos túbulos\nrenais e aumento\nda pressão arterial\n\n(Sídio Machado. Biologia para o ensino médio, 2003. Adaptado.)\nConsidere que os números 1, 2 e 3 indicados no fluxograma representem uma ação do tipo estimulante (+) ou uma ação do tipo inibidora (-) e que o aumento da reabsorção de sódio nos túbulos renais promova um deslocamento hídrico nos túbulos renais. De acordo com essas informações, assinale a alternativa que indica, correta e respectivamente, o tipo da ação representada pelos números 1, 2 e 3 e o resultado do deslocamento hídrico.",
       subItens: []
     },
     options: ["(+); (−); (+); aumento da reabsorção de água.","(−); (−); (-); aumento da reabsorção de água.","(+); (+); (+); aumento da reabsorção de água.","(−); (+); (−); redução da reabsorção de água.","(+); (−); (-); redução da reabsorção de água."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Analise o mapa.\n\nReservas em 2011\naté 5 000\n5 000-30 000\n30 000-100 000\n100 000-200 000\nmais de 200 000\nprincipais fluxos\n\n(Maria E. R. Simielli. Geoatlas, 2013. Adaptado.)\nO mapa apresenta as áreas de reservas e os principais fluxos de",
+      principal: "Analise o mapa.\n\nReservas em 2011\naté 5 000\$1_{5}$ 000-30 000\$1_{30}$ 000-100 000\$1_{100}$ 000-200 000\nmais de 200 000\nprincipais fluxos\n\n(Maria E. R. Simielli. Geoatlas, 2013. Adaptado.)\nO mapa apresenta as áreas de reservas e os principais fluxos de",
       subItens: []
     },
     options: ["ferro.","urânio.","carvão.","petróleo.","cobre."],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Gradiente térmico\n\nMetros\n700\n11,4 °C\n600\n12 °C\n500\n12,6 °C\n400\n13,2 °C\n300\n13,8 °C\n200\n14,4 °C\n100\n16 °C\n0\n\n(Elian A. Lucci et al. Território e sociedade no mundo globalizado, 2014.)\nO gradiente térmico ilustrado na imagem é explicado pela",
+      principal: "Gradiente térmico\n\nMetros\$1_{700}$\$1_{11}$,4 °C\$1_{600}$\$1_{12}$ °C\$1_{500}$\$1_{12}$,6 °C\$1_{400}$\$1_{13}$,2 °C\$1_{300}$\$1_{13}$,8 °C\$1_{200}$\$1_{14}$,4 °C\$1_{100}$\$1_{16}$ °C\$1_{0}$\n\n(Elian A. Lucci et al. Território e sociedade no mundo globalizado, 2014.)\nO gradiente térmico ilustrado na imagem é explicado pela",
       subItens: []
     },
     options: ["absorção da radiação solar na superfície, que compensa a falta de capacidade da atmosfera de absorver calor.","orientação das vertentes, que demonstra diferenças provocadas pela incidência irregular dos raios solares.","rarefação do ar em altitude, que compromete a capacidade da atmosfera de conservar calor.","dificuldade de circulação do ar em superfície, que indica a plena atuação de massas de ar dissipando o calor em altitude.","zona de baixa pressão em altitude, que dificulta a chegada de ventos quentes às camadas mais altas da atmosfera."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Observe o panfleto.\n\nNovo Marco Legal\nCONFIRA AS NOVAS REGRAS DE ACESSO AO PATRIMÔNIO GENÉTICO\nE AOS CONHECIMENTOS TRADICIONAIS\n\nPILARES\nFACILITA A PESQUISA\nE A EXPLORAÇÃO\nECONÔMICA DO\nPATRIMÔNIO GENÉTICO\nBRASILEIRO\nPROTEGE O\nCONHECIMENTO\nDOS POVOS\nTRADICIONAIS\nDO PAÍS\nINCENTIVA A\nPRODUÇÃO DE\nNOVOS REMÉDIOS,\nCOSMÉTICOS E\nINSUMOS AGRÍCOLAS\n\nPrincipais pontos:\n• Garante direitos das populações\ntradicionais e cria regras de compensação\na comunidades que forneçam\nconhecimentos para a indústria;\n• Cria segurança jurídica para estimular\no investimento privado em PD&I\n(Pesquisa, Desenvolvimento e Inovação);\n• Descriminaliza pesquisadores,\nestudantes e instituições de pesquisa;\n• Garante livre negociação sobre os\nconhecimentos tradicionais, e mais\n0,5% do lucro enquanto houver venda\ndo produto.\n\n(www2.planalto.gov.br. Adaptado.)\nO chamado \"Novo Marco Legal\" procura proteger, entre outros fatores,",
+      principal: "Observe o panfleto.\n\nNovo Marco Legal\nCONFIRA AS NOVAS REGRAS DE ACESSO AO PATRIMÔNIO GENÉTICO\nE AOS CONHECIMENTOS TRADICIONAIS\n\nPILARES\nFACILITA A PESQUISA\nE A EXPLORAÇÃO\nECONÔMICA DO\nPATRIMÔNIO GENÉTICO\nBRASILEIRO\nPROTEGE O\nCONHECIMENTO\nDOS POVOS\nTRADICIONAIS\nDO PAÍS\nINCENTIVA A\nPRODUÇÃO DE\nNOVOS REMÉDIOS,\nCOSMÉTICOS E\nINSUMOS AGRÍCOLAS\n\nPrincipais pontos:\n• Garante direitos das populações\ntradicionais e cria regras de compensação\na comunidades que forneçam\nconhecimentos para a indústria;\n• Cria segurança jurídica para estimular\no investimento privado em PD&I\n(Pesquisa, Desenvolvimento e Inovação);\n• Descriminaliza pesquisadores,\nestudantes e instituições de pesquisa;\n• Garante livre negociação sobre os\nconhecimentos tradicionais, e mais\$1_{0}$,5% do lucro enquanto houver venda\ndo produto.\n\n($1_{2}$.planalto.gov.br. Adaptado.)\nO chamado \"Novo Marco Legal\" procura proteger, entre outros fatores,",
       subItens: []
     },
     options: ["a biodiversidade encontrada no território brasileiro.","o interesse público de comercializar produtos fabricados no país.","o agronegócio perante o avanço da indústria farmacêutica.","a população tradicional dos projetos de construção de hidrelétricas.","a exploração econômica do turismo sustentável."],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Uma bola rola sobre uma bancada horizontal e a abandona, com velocidade V₀, caindo até o chão. As figuras representam a visão de cima e a visão de frente desse movimento, mostrando a bola em instantes diferentes durante sua queda, até o momento em que ela toca o solo.\n\nVisão de cima\nVisão de frente\nV₀\n+g=10m/s²\n2,4 m\n1,25 m\n\nDesprezando a resistência do ar e considerando as informações das figuras, o módulo de V₀ é igual a",
+      principal: "Uma bola rola sobre uma bancada horizontal e a abandona, com velocidade V₀, caindo até o chão. As figuras representam a visão de cima e a visão de frente desse movimento, mostrando a bola em instantes diferentes durante sua queda, até o momento em que ela toca o solo.\n\nVisão de cima\nVisão de frente\nV₀\n+g=10m/s²\$1_{2}$,4 m\$1_{1}$,25 m\n\nDesprezando a resistência do ar e considerando as informações das figuras, o módulo de V₀ é igual a",
       subItens: []
     },
     options: ["2,4 m/s.","0,6 m/s.","1,2 m/s.","4,8 m/s.","3,6 m/s."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Em uma exibição de acrobacias aéreas, um avião pilotado por uma pessoa de 80 kg faz manobras e deixa no ar um rastro de fumaça indicando sua trajetória. Na figura, está representado um looping circular de raio 50 m contido em um plano vertical, descrito por esse avião.\n\n50 m\nA\nfora de escala\n\nAdotando g = 10 m/s² e considerando que ao passar pelo ponto A, ponto mais alto da trajetória circular, a velocidade do avião é de 180 km/h, a intensidade da força exercida pelo assento sobre o piloto, nesse ponto, é igual a",
+      principal: "Em uma exibição de acrobacias aéreas, um avião pilotado por uma pessoa de 80 kg faz manobras e deixa no ar um rastro de fumaça indicando sua trajetória. Na figura, está representado um looping circular de raio 50 m contido em um plano vertical, descrito por esse avião.\n\$1_{50}$ m\nA\nfora de escala\n\nAdotando g = 10 m/s² e considerando que ao passar pelo ponto A, ponto mais alto da trajetória circular, a velocidade do avião é de 180 km/h, a intensidade da força exercida pelo assento sobre o piloto, nesse ponto, é igual a",
       subItens: []
     },
     options: ["3000 N.","2800 N.","3200 N.","2600 N.","2400 N."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "O pai de uma criança pretende pendurar, no teto do quarto de seu filho, um móbile constituído por: seis carrinhos de massas iguais, distribuídos em dois conjuntos, A e B; duas hastes rígidas de massas desprezíveis, com marcas igualmente espaçadas; e fios ideais. O conjunto A já está preso a uma das extremidades da haste principal do móbile.\n\nteto\nP\n0\n1\n2\n3\n4\n5\nA\nB\n\nSabendo que o móbile será pendurado ao teto pelo ponto P, para manter o móbile em equilíbrio, com as hastes na horizontal, o pai da criança deverá pendurar o conjunto B, na haste principal, no ponto",
+      principal: "O pai de uma criança pretende pendurar, no teto do quarto de seu filho, um móbile constituído por: seis carrinhos de massas iguais, distribuídos em dois conjuntos, A e B; duas hastes rígidas de massas desprezíveis, com marcas igualmente espaçadas; e fios ideais. O conjunto A já está preso a uma das extremidades da haste principal do móbile.\n\nteto\nP\$1_{0}$\$1_{1}$\$1_{2}$\$1_{3}$\$1_{4}$\$1_{5}$\nA\nB\n\nSabendo que o móbile será pendurado ao teto pelo ponto P, para manter o móbile em equilíbrio, com as hastes na horizontal, o pai da criança deverá pendurar o conjunto B, na haste principal, no ponto",
       subItens: []
     },
     options: ["5.","1.","4.","3.","2."],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Durante uma partida de sinuca, um jogador, impossibilitado de atingir diretamente a bola vermelha com a bola branca, decide utilizar a tabela da mesa. Ele dá uma tacada na bola branca, que, seguindo a trajetória tracejada indicada na figura, com velocidade escalar constante de módulo v, acerta a bola vermelha.\n\n45°\n45°\n\nSendo m a massa da bola branca, o módulo da variação da quantidade de movimento sofrida por essa bola na colisão contra a tabela da mesa foi igual a",
+      principal: "Durante uma partida de sinuca, um jogador, impossibilitado de atingir diretamente a bola vermelha com a bola branca, decide utilizar a tabela da mesa. Ele dá uma tacada na bola branca, que, seguindo a trajetória tracejada indicada na figura, com velocidade escalar constante de módulo v, acerta a bola vermelha.\n\$1_{45}$°\$1_{45}$°\n\nSendo m a massa da bola branca, o módulo da variação da quantidade de movimento sofrida por essa bola na colisão contra a tabela da mesa foi igual a",
       subItens: []
     },
     options: ["mv√2","zero","mv","2mv","mv√3"],
@@ -513,7 +513,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "O profundímetro é um instrumento utilizado por mergulhadores para indicar a que profundidade estão em relação à superfície da água. A imagem mostra dois mergulhadores utilizando um profundímetro rudimentar constituído de um tubo de vidro com a extremidade inferior aberta e a superior fechada, aprisionando determinada quantidade de ar. Quando o tubo se desloca verticalmente dentro da água, o volume ocupado pelo ar varia, indicando uma variação da pressão exercida pela água.\n(http://chc.org.br. Adaptado.)\nConsidere um mergulhador inicialmente sob pressão absoluta de 2 atm. Nessa situação, a altura da coluna de ar dentro do tubo de vidro é de 20 cm. Após afundar um pouco, o mergulhador para em uma posição em que a altura da coluna de ar é igual a 16 cm, conforme a figura.\n\nPosição\ninicial\nPosição\nfinal\n\nar\n20 cm\nar\n16 cm\n\nConsiderando que uma coluna de água, em equilíbrio, com 10 m de altura exerce uma pressão de 1 atm, que o ar é um gás ideal e que a temperatura é constante durante o mergulho, é correto afirmar que a variação de profundidade sofrida por esse mergulhador foi de",
+      principal: "O profundímetro é um instrumento utilizado por mergulhadores para indicar a que profundidade estão em relação à superfície da água. A imagem mostra dois mergulhadores utilizando um profundímetro rudimentar constituído de um tubo de vidro com a extremidade inferior aberta e a superior fechada, aprisionando determinada quantidade de ar. Quando o tubo se desloca verticalmente dentro da água, o volume ocupado pelo ar varia, indicando uma variação da pressão exercida pela água.\n(http://chc.org.br. Adaptado.)\nConsidere um mergulhador inicialmente sob pressão absoluta de 2 atm. Nessa situação, a altura da coluna de ar dentro do tubo de vidro é de 20 cm. Após afundar um pouco, o mergulhador para em uma posição em que a altura da coluna de ar é igual a 16 cm, conforme a figura.\n\nPosição\ninicial\nPosição\nfinal\n\nar\$1_{20}$ cm\nar\$1_{16}$ cm\n\nConsiderando que uma coluna de água, em equilíbrio, com 10 m de altura exerce uma pressão de 1 atm, que o ar é um gás ideal e que a temperatura é constante durante o mergulho, é correto afirmar que a variação de profundidade sofrida por esse mergulhador foi de",
       subItens: []
     },
     options: ["2 m.","4 m.","3 m.","5 m.","1 m."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Dois pulsos transversais, 1 e 2, propagam-se por uma mesma corda elástica, em sentidos opostos, com velocidades escalares constantes e iguais, de módulos 60 cm/s. No instante t = 0, a corda apresenta-se com a configuração representada na figura 1.\n\nFIGURA 1\npulso 1\n10 cm\npulso 2\n10 cm\n\nApós a superposição desses dois pulsos, a corda se apresentará com a configuração representada na figura 2.\n\nFIGURA 2\n\nConsiderando a superposição apenas desses dois pulsos, a configuração da corda será a representada na figura 2, pela primeira vez, no instante",
+      principal: "Dois pulsos transversais, 1 e 2, propagam-se por uma mesma corda elástica, em sentidos opostos, com velocidades escalares constantes e iguais, de módulos 60 cm/s. No instante t = 0, a corda apresenta-se com a configuração representada na figura 1.\n\nFIGURA 1\npulso 1\$1_{10}$ cm\npulso 2\$1_{10}$ cm\n\nApós a superposição desses dois pulsos, a corda se apresentará com a configuração representada na figura 2.\n\nFIGURA 2\n\nConsiderando a superposição apenas desses dois pulsos, a configuração da corda será a representada na figura 2, pela primeira vez, no instante",
       subItens: []
     },
     options: ["1,0 s.","1,5 s.","2,0 s.","2,5 s.","3,0 s."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Quatro cargas elétricas puntiformes, Q₁, Q₂, Q₃ e Q₄, estão fixas nos vértices de um quadrado, de modo que |Q₁| = |Q₂| = |Q₃| = |Q₄|. As posições das cargas e seus respectivos sinais estão indicados na figura.\n\n+ Q1\nQ2\n+\nQ4\nP\nQ3\n\nSe E for o módulo do campo elétrico no ponto P, centro do quadrado, devido à carga Q₁, o campo elétrico resultante no ponto P, devido à presença das quatro cargas, terá módulo",
+      principal: "Quatro cargas elétricas puntiformes, Q₁, Q₂, Q₃ e Q₄, estão fixas nos vértices de um quadrado, de modo que |Q₁| = |Q₂| = |Q₃| = |Q₄|. As posições das cargas e seus respectivos sinais estão indicados na figura.\n\n+ $1_{1}_{}$\$1_{2}$\n+\$1_{4}$\nP\$1_{3}$\n\nSe E for o módulo do campo elétrico no ponto P, centro do quadrado, devido à carga Q₁, o campo elétrico resultante no ponto P, devido à presença das quatro cargas, terá módulo",
       subItens: []
     },
     options: ["zero","4 . E","√2 . E","2 . √2 . E","4 . √2 . E"],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "A figura representa o esquema de ligação dos faróis de um automóvel à bateria do veículo. O circuito é constituído por: duas lâmpadas de 12 V – 60 W cada uma; uma chave de acionamento e um fusível de proteção, ambos de resistências desprezíveis; e fios de ligação e conectores, também ideais.\n\nfarol 1\nfarol 2\nchave de\nacionamento\nporta\nfusível\nbateria do\nautomóvel\nfusível\n12 V\n\nSe os dois faróis estiverem acesos, das opções indicadas nas alternativas, aquela que corresponde à menor amperagem do fusível capaz de proteger esse circuito é",
+      principal: "A figura representa o esquema de ligação dos faróis de um automóvel à bateria do veículo. O circuito é constituído por: duas lâmpadas de 12 V – 60 W cada uma; uma chave de acionamento e um fusível de proteção, ambos de resistências desprezíveis; e fios de ligação e conectores, também ideais.\n\nfarol 1\nfarol 2\nchave de\nacionamento\nporta\nfusível\nbateria do\nautomóvel\nfusível\$1_{12}$ V\n\nSe os dois faróis estiverem acesos, das opções indicadas nas alternativas, aquela que corresponde à menor amperagem do fusível capaz de proteger esse circuito é",
       subItens: []
     },
     options: ["15 A.","12 A.","6 A.","4 A.","9 A."],

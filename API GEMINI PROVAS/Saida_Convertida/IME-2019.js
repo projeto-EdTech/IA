@@ -33,7 +33,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2019,
     text: {
-      principal: "Calcule o valor do determinante:\n\nlog 81 / (log 9)²         log 900 / (2 + 4 log 3 + 2(log 3)²)\n1                         log 300 / (log 3 + 2)²",
+      principal: "Calcule o valor do determinante:\n\nlog 81 / (log 9)²         log 900 / (2 + 4 log 3 + 2(log 3)²)\$1_{1}$                         log 300 / (log 3 + 2)²",
       subItens: []
     },
     options: ["1","2","4","8","16"],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2019,
     text: {
-      principal: "A figura mostra um circuito montado sob um plano inclinado feito de material condutor ideal, sem atrito de ângulo α com a horizontal. Um corpo é liberado do ponto A e, à medida que passa pelos sensores localizados nos pontos 1, 2, 3 e 4, as chaves Ch1, Ch2, Ch3 e Ch4 são fechadas instantaneamente. Diante do exposto, a energia elétrica dissipada durante a descida do corpo até o ponto B, em joules, é:\nDados:\n• R1 = 10 Ω;\n• R2 = 10 Ω;\n• R3 = 5 Ω;\n• R4 = 2,5 Ω;\n• E = 10 V;\n• α = 30°; e\n• g = 10 m/s².",
+      principal: "A figura mostra um circuito montado sob um plano inclinado feito de material condutor ideal, sem atrito de ângulo α com a horizontal. Um corpo é liberado do ponto A e, à medida que passa pelos sensores localizados nos pontos 1, 2, 3 e 4, as chaves $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$ e $1_{4}_{}$ são fechadas instantaneamente. Diante do exposto, a energia elétrica dissipada durante a descida do corpo até o ponto B, em joules, é:\nDados:\n• $1_{1}_{}$ = 10 Ω;\n• $1_{2}_{}$ = 10 Ω;\n• $1_{3}_{}$ = 5 Ω;\n• $1_{4}_{}$ = 2,5 Ω;\n• E = 10 V;\n• α = 30°; e\n• g = 10 m/s².",
       subItens: []
     },
     options: ["6","16","32","62","120"],

@@ -288,7 +288,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Considere as seguintes afirmações:\nI. A função f(x) = log10 (x/(x-1)) é estritamente crescente no intervalo ]1, +∞[.\nII. A equação 2x+2 = 3x−1 possui uma única solução real.\nIII. A equação (x + 1)x = x admite pelo menos uma solução real positiva.\nÉ (são) verdadeira(s)",
+      principal: "Considere as seguintes afirmações:\nI. A função f(x) = $1_{10}$ (x/(x-1)) é estritamente crescente no intervalo ]1, +∞[.\nII. A equação 2x+2 = 3x−1 possui uma única solução real.\nIII. A equação (x + 1)x = x admite pelo menos uma solução real positiva.\nÉ (são) verdadeira(s)",
       subItens: []
     },
     options: ["apenas I.","apenas I e II.","apenas II e III.","I, II e III.","apenas III."],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Seja (a1, a2, a3,...) a sequência definida da seguinte forma: a1 = 1000 e an = log10(1 + an−1) para n ≥ 2. Considere as afirmações a seguir:\nI. A sequência (an) é decrescente.\nII. an > 0 para todo n ≥ 1.\nIII. an < 1 para todo n ≥ 3.\nÉ (são) verdadeira(s)",
+      principal: "Seja ($1_{1}$, $1_{2}$, $1_{3}$,...) a sequência definida da seguinte forma: $1_{1}$ = 1000 e an = $1_{10}$(1 + an−1) para n ≥ 2. Considere as afirmações a seguir:\nI. A sequência (an) é decrescente.\nII. an > 0 para todo n ≥ 1.\nIII. an < 1 para todo n ≥ 3.\nÉ (são) verdadeira(s)",
       subItens: []
     },
     options: ["apenas I.","apenas I e II.","apenas II e III.","I, II e III.","apenas III."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Uma esfera S1, de raio R > 0, está inscrita num cone circular reto K. Outra esfera, S2, de raio r, com 0 < r < R, está contida no interior de K e é simultaneamente tangente à esfera S1 e à superfície lateral de K. O volume de K é igual a",
+      principal: "Uma esfera $1_{1}_{}$, de raio R > 0, está inscrita num cone circular reto K. Outra esfera, $1_{2}_{}$, de raio r, com 0 < r < R, está contida no interior de K e é simultaneamente tangente à esfera $1_{1}_{}$ e à superfície lateral de K. O volume de K é igual a",
       subItens: []
     },
     options: ["πR⁵/(3r(R-r))","2πR⁵/(3r(R-r))","πR⁵/(r(R-r))","4πR⁵/(3r(R-r))","5πR⁵/(3r(R-r))"],
@@ -591,7 +591,7 @@ createQuestion({
       principal: "Considerando condições ambientes, assinale a opção ERRADA.",
       subItens: []
     },
-    options: ["Em solução aquosa, Br¯ é classificado como base de Brønsted-Lowry e de Lewis.","Em solução aquosa, NH3 é classificada como base de Arrhenius, de Brønsted-Lowry e de Lewis.","Quando adicionado à água, KH(s) forma uma solução aquosa básica.","Quando LiCl(s) é adicionado à água, a solução permanece neutra.","Uma solução aquosa de CH3OH a 0,10 mol·L¯¹ pode ser considerada essencialmente neutra."],
+    options: ["Em solução aquosa, Br¯ é classificado como base de Brønsted-Lowry e de Lewis.","Em solução aquosa, $1_{3}$ é classificada como base de Arrhenius, de Brønsted-Lowry e de Lewis.","Quando adicionado à água, KH(s) forma uma solução aquosa básica.","Quando LiCl(s) é adicionado à água, a solução permanece neutra.","Uma solução aquosa de CH3OH a 0,10 mol·L¯¹ pode ser considerada essencialmente neutra."],
     correctAnswer: 0,
     materia: "Química – Ácidos e Bases",
     conteudo: "Química – Propriedades de Soluções",
@@ -606,7 +606,7 @@ createQuestion({
       principal: "Assinale a opção que apresenta o sal solúvel em água a 25 °C.",
       subItens: []
     },
-    options: ["CaSO4","PbCl2","Ag2CO3","Hg2Br2","FeBr3"],
+    options: ["$1_{4}$","$1_{2}$","$1_{2}CO_{3}$","Hg2Br2","$1_{3}$"],
     correctAnswer: 4,
     materia: "Química – Solubilidade de Sais",
     conteudo: "",
@@ -678,7 +678,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Considere a reação descrita pela seguinte equação química: H2(g, 1bar) + 2AgBr(s) → 2H+(aq) + 2Br¯(aq) + 2Ag(s). Sendo X o potencial padrão (E°) da reação, o pH da solução a 25 °C quando o potencial da reação (E) for Y será dado por",
+      principal: "Considere a reação descrita pela seguinte equação química: $1_{2}_{}$(g, 1bar) + 2AgBr(s) → 2H+(aq) + 2Br¯(aq) + 2Ag(s). Sendo X o potencial padrão (E°) da reação, o pH da solução a 25 °C quando o potencial da reação (E) for Y será dado por",
       subItens: []
     },
     options: ["(X-Y)/0,059.","(Y-X)/0,059.","(X-Y)/0,118.","(Y-X)/0,118.","2(X-Y)/0,059."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "No estado padrão, é de 0,240 V o potencial da pilha cuja reação pode ser descrita pela seguinte equação química: 2 NO + 1/2 O2 + H2O → 2 HNO2. Assinale a alternativa que apresenta o valor da energia livre padrão da reação, em kJ·mol−¹.",
+      principal: "No estado padrão, é de 0,240 V o potencial da pilha cuja reação pode ser descrita pela seguinte equação química: 2 NO + 1/2 $1_{2}_{}$ + $1_{2}O_{}$ → 2 $1_{2}$. Assinale a alternativa que apresenta o valor da energia livre padrão da reação, em kJ·mol−¹.",
       subItens: []
     },
     options: ["−11,6","-23,2","-34,8","-46,3","-69,5"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Quantidades iguais de H2(g) e I2(g) foram colocadas em um frasco, com todo o sistema à temperatura T, resultando na pressão total de 1 bar. Verificou-se que houve a produção de HI(g), cuja pressão parcial foi de 22,8 kPa. Assinale a alternativa que apresenta o valor que mais se aproxima do valor CORRETO da constante de equilíbrio desta reação.",
+      principal: "Quantidades iguais de $1_{2}_{}$(g) e $1_{2}_{}$(g) foram colocadas em um frasco, com todo o sistema à temperatura T, resultando na pressão total de 1 bar. Verificou-se que houve a produção de HI(g), cuja pressão parcial foi de 22,8 kPa. Assinale a alternativa que apresenta o valor que mais se aproxima do valor CORRETO da constante de equilíbrio desta reação.",
       subItens: []
     },
     options: ["0,295","0,350","0,490","0,590","0,700"],
@@ -738,10 +738,10 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Considere uma célula eletrolítica na forma de um tubo em H, preenchido com solução aquosa de NaNO3 e tendo eletrodos inertes mergulhados em cada ramo vertical do tubo e conectados a uma fonte externa. Num determinado instante, injeta-se uma solução aquosa de CuCrO4 verde na parte central do ramo horizontal do tubo. Após algum tempo de eletrólise, observa-se uma mancha azul e uma amarela, separadas (em escala) de acordo com o esquema da figura. Com base nas informações do enunciado e da figura, assinale a opção ERRADA. (A figura mostra um tubo em H, com uma fonte (FONTE) conectando os dois lados. O lado esquerdo tem um eletrodo Ee e uma mancha azul. O lado direito tem um eletrodo Ed e uma mancha amarela. A solução central é CuCrO4 (verde).)",
+      principal: "Considere uma célula eletrolítica na forma de um tubo em H, preenchido com solução aquosa de $1_{3}$ e tendo eletrodos inertes mergulhados em cada ramo vertical do tubo e conectados a uma fonte externa. Num determinado instante, injeta-se uma solução aquosa de $1_{4}$ verde na parte central do ramo horizontal do tubo. Após algum tempo de eletrólise, observa-se uma mancha azul e uma amarela, separadas (em escala) de acordo com o esquema da figura. Com base nas informações do enunciado e da figura, assinale a opção ERRADA. (A figura mostra um tubo em H, com uma fonte (FONTE) conectando os dois lados. O lado esquerdo tem um eletrodo Ee e uma mancha azul. O lado direito tem um eletrodo Ed e uma mancha amarela. A solução central é $1_{4}$ (verde).)",
       subItens: []
     },
-    options: ["O eletrodo Ee corresponde ao anodo.","Há liberação de gás no Ed.","Há liberação de H2 no Ee.","O íon cromato tem velocidade de migração maior que o íon cobre.","O pH da solução em torno do Ea diminui."],
+    options: ["O eletrodo Ee corresponde ao anodo.","Há liberação de gás no Ed.","Há liberação de $1_{2}_{}$ no Ee.","O íon cromato tem velocidade de migração maior que o íon cobre.","O pH da solução em torno do Ea diminui."],
     correctAnswer: 0,
     materia: "Química – Eletroquímica (Eletrólise)",
     conteudo: "",
@@ -768,7 +768,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Considere as entalpias padrão de formação dos seguintes compostos: CH4(g), O2(g), CO2(g), H2O(g), com seus respectivos ∆Hf° / kJ·mol−¹: -74,81, zero, -393,51, -285,83. Sabendo que a capacidade calorífica da água, à pressão constante, vale 75,9 J·mol¯¹ e que sua entalpia de vaporização é igual a 40,66 kJ·mol¯¹, assinale a alternativa que melhor corresponda ao número de mols de metano necessários para vaporizar 1 L de água pura, cuja temperatura inicial é 25 °C, ao nível do mar.",
+      principal: "Considere as entalpias padrão de formação dos seguintes compostos: $1_{4}$(g), $1_{2}_{}$(g), $1_{2}$(g), $1_{2}O_{}$(g), com seus respectivos ∆Hf° / kJ·mol−¹: -74,81, zero, -393,51, -285,83. Sabendo que a capacidade calorífica da água, à pressão constante, vale 75,9 J·mol¯¹ e que sua entalpia de vaporização é igual a 40,66 kJ·mol¯¹, assinale a alternativa que melhor corresponda ao número de mols de metano necessários para vaporizar 1 L de água pura, cuja temperatura inicial é 25 °C, ao nível do mar.",
       subItens: []
     },
     options: ["1,0","2,0","2,9","3,8","4,7"],
@@ -783,10 +783,10 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Sabendo que a função trabalho do zinco metálico é 5,82 x 10-19 J, assinale a opção que apresenta a energia cinética máxima, em joules, de um dos elétrons emitidos, quando luz de comprimento de onda igual a 140 nm atinge a superfície do zinco.",
+      principal: "Sabendo que a função trabalho do zinco metálico é $1 \times 10^{-19}$ J, assinale a opção que apresenta a energia cinética máxima, em joules, de um dos elétrons emitidos, quando luz de comprimento de onda igual a 140 nm atinge a superfície do zinco.",
       subItens: []
     },
-    options: ["14,2 x 10¯ -18","8,4 x 10-18","14,2 x 10 -19","8,4 x 10-19","14,2 x 10-20"],
+    options: ["14,2 x 10¯ -18","$1 \times 10^{-18}$","14,2 x 10 -19","$1 \times 10^{-19}$","$1 \times 10^{-20}$"],
     correctAnswer: 0,
     materia: "Física – Física Moderna (Efeito Fotoelétrico)",
     conteudo: "",
@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Considere a seguinte reação química e a respectiva lei de velocidade experimental: 2NO(g) + O2(g) →2NO2(g), v = k[NO]2[O2]. Para esta reação, são propostos os mecanismos reacionais I, II e III com suas etapas elementares de reação: I. 2NO(g) ⇌ N₂O2(g) (equilíbrio rápido); N2O2 (g)+O2(g) → 2NO2 (g) (lenta). II. NO(g)+O2(g)⇌ NO3 (g) (equilíbrio rápido); NO(g)+NO3(g)→ 2NO2 (g) (lenta). III. NO(g)+1/2 O2 (g) → NO2 (g) (rápida); NO2(g)+½ O2(g) ⇌ NO3(g) (equilíbrio rápido); NO(g)+NO3(g)⇌ N₂O₄(g) (equilíbrio rápido); N2O4 (g) → 2NO2 (g) (lenta). Dos mecanismos propostos, são consistentemente com a lei de velocidade observada experimentalmente",
+      principal: "Considere a seguinte reação química e a respectiva lei de velocidade experimental: 2NO(g) + $1_{2}_{}$(g) →2NO2(g), v = k[NO]2[$1_{2}_{}$]. Para esta reação, são propostos os mecanismos reacionais I, II e III com suas etapas elementares de reação: I. 2NO(g) ⇌ N₂$1_{2}_{}$(g) (equilíbrio rápido); $1_{2}O_{2}$ (g)+$1_{2}_{}$(g) → 2NO2 (g) (lenta). II. NO(g)+$1_{2}_{}$(g)⇌ $1_{3}$ (g) (equilíbrio rápido); NO(g)+$1_{3}$(g)→ 2NO2 (g) (lenta). III. NO(g)+1/2 $1_{2}_{}$ (g) → $1_{2}$ (g) (rápida); $1_{2}$(g)+½ $1_{2}_{}$(g) ⇌ $1_{3}$(g) (equilíbrio rápido); NO(g)+$1_{3}$(g)⇌ N₂O₄(g) (equilíbrio rápido); $1_{2}O_{4}$ (g) → 2NO2 (g) (lenta). Dos mecanismos propostos, são consistentemente com a lei de velocidade observada experimentalmente",
       subItens: []
     },
     options: ["apenas I.","apenas I e II.","apenas II.","apenas II e III.","apenas III."],
@@ -876,7 +876,7 @@ createQuestion({
       principal: "A energia do estado fundamental do átomo de hidrogênio é –13,6 eV. Considerando todas as espécies químicas no estado gasoso e em seu estado eletrônico fundamental, é CORRETO afirmar que o valor absoluto",
       subItens: []
     },
-    options: ["da energia do orbital 1s do átomo de hélio é menor que 13,6 eV.","da energia da molécula de H2, no seu estado de mínima energia, é menor do que o valor absoluto da soma das energias de dois átomos de hidrogênio infinitamente separados.","da afinidade eletrônica do átomo de hidrogênio é igual a 13,6 eV.","da soma das energias de dois átomos de deutério, infinitamente separados, é maior do que o valor absoluto da soma das energias de dois átomos de hidrogênio infinitamente separados.","da energia do íon He⁺ é igual ao valor absoluto da soma das energias de dois átomos de hidrogênio infinitamente separados."],
+    options: ["da energia do orbital 1s do átomo de hélio é menor que 13,6 eV.","da energia da molécula de $1_{2}_{}$, no seu estado de mínima energia, é menor do que o valor absoluto da soma das energias de dois átomos de hidrogênio infinitamente separados.","da afinidade eletrônica do átomo de hidrogênio é igual a 13,6 eV.","da soma das energias de dois átomos de deutério, infinitamente separados, é maior do que o valor absoluto da soma das energias de dois átomos de hidrogênio infinitamente separados.","da energia do íon He⁺ é igual ao valor absoluto da soma das energias de dois átomos de hidrogênio infinitamente separados."],
     correctAnswer: null,
     materia: "Química – Estrutura Atômica e Ligações Químicas",
     conteudo: "Química – Energia de Ionização",

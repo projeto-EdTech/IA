@@ -78,7 +78,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "No processo de evolução biológica, ao longo das gerações, ocorrem alterações nas moléculas que contêm carbono. A imagem abaixo ilustra duas espécies de peixes, separadas pelo Istmo do Panamá. Ambas surgiram a partir de uma única população, existente no local antes da elevação geológica da América Central.\n[IMAGE: Map of Panama Isthmus showing Pacific Ocean, Caribbean Sea, and two fish species]\nAdaptado de dragonflyissuesinevolution13.wikia.com.\nO processo evolutivo que deu origem a essas duas espécies é denominado:",
+      principal: "No processo de evolução biológica, ao longo das gerações, ocorrem alterações nas moléculas que contêm carbono. A imagem abaixo ilustra duas espécies de peixes, separadas pelo Istmo do Panamá. Ambas surgiram a partir de uma única população, existente no local antes da elevação geológica da América Central.\n[IMAGE: Map of Panama Isthmus showing Pacific Ocean, Caribbean Sea, and two fish species]\nAdaptado de $1_{13}$.wikia.com.\nO processo evolutivo que deu origem a essas duas espécies é denominado:",
       subItens: []
     },
     options: ["anagênese","ortogênese","cladogênese","morfogênese"],
@@ -123,7 +123,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "Memórias de um carbono\nPouco tempo atrás, o átomo de carbono foi liberado de sua prisão química. No processo de transformação industrial do petróleo, ele foi incorporado à gasolina que era processada em uma refinaria. Não demorou muito e ele estava participando de uma reação de queima no motor de um automóvel e rapidamente estava novamente livre na atmosfera. A excessiva liberação desses átomos de carbono que ficaram aprisionados por milhões de anos no subsolo é um dos maiores problemas que a humanidade enfrenta atualmente.\nADILSON DE OLIVEIRA\nAdaptado de cienciahoje.org.br.\n\nO futuro já está entre nós\nO gestor hospitalar Edgar Escobar comprou um carro elétrico em 2016. Ele tem um dos 4784 veículos elétricos ou híbridos que circulam pelas ruas do Brasil hoje. São carros e ônibus que ajudam a preservar o meio ambiente. E cerca de 300 deles são 100% elétricos. Ou seja, a emissão de gases poluentes é zero. Todo o funcionamento do carro é sustentado pela bateria, que pode ser carregada numa tomada dentro de casa.\nAdaptado de cbn.globoradio.globo.com.\n14/07/2017.\n\nO desenvolvimento de veículos elétricos é uma das medidas para enfrentar o problema apontado acima, no primeiro texto.\nA eficácia ambiental dessa medida, considerando as tecnologias comercialmente viáveis a curto prazo no mundo, depende principalmente do seguinte fator:",
+      principal: "Memórias de um carbono\nPouco tempo atrás, o átomo de carbono foi liberado de sua prisão química. No processo de transformação industrial do petróleo, ele foi incorporado à gasolina que era processada em uma refinaria. Não demorou muito e ele estava participando de uma reação de queima no motor de um automóvel e rapidamente estava novamente livre na atmosfera. A excessiva liberação desses átomos de carbono que ficaram aprisionados por milhões de anos no subsolo é um dos maiores problemas que a humanidade enfrenta atualmente.\nADILSON DE OLIVEIRA\nAdaptado de cienciahoje.org.br.\n\nO futuro já está entre nós\nO gestor hospitalar Edgar Escobar comprou um carro elétrico em 2016. Ele tem um dos 4784 veículos elétricos ou híbridos que circulam pelas ruas do Brasil hoje. São carros e ônibus que ajudam a preservar o meio ambiente. E cerca de 300 deles são 100% elétricos. Ou seja, a emissão de gases poluentes é zero. Todo o funcionamento do carro é sustentado pela bateria, que pode ser carregada numa tomada dentro de casa.\nAdaptado de cbn.globoradio.globo.com.\$1_{14}$/07/2017.\n\nO desenvolvimento de veículos elétricos é uma das medidas para enfrentar o problema apontado acima, no primeiro texto.\nA eficácia ambiental dessa medida, considerando as tecnologias comercialmente viáveis a curto prazo no mundo, depende principalmente do seguinte fator:",
       subItens: []
     },
     options: ["perfil da matriz energética","tamanho da carga tributária","qualidade da rede rodoviária","automação da cadeia produtiva"],
@@ -138,7 +138,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "Física\nColho esta luz solar à minha volta,\nNo meu prisma a disperso e recomponho:\nRumor de sete cores, silêncio branco.\nJOSÉ SARAMAGO\n\nNa imagem a seguir, o triângulo ABC representa uma seção plana paralela à base de um prisma reto. As retas n e n' são perpendiculares aos lados AC e AB, respectivamente, e BẬC = 80°.\n[IMAGE: Triangle ABC with perpendicular lines n and n' and angle theta]\nA medida do ângulo θ entre n e n' é:",
+      principal: "Física\nColho esta luz solar à minha volta,\nNo meu prisma a disperso e recomponho:\nRumor de sete cores, silêncio branco.\nJOSÉ SARAMAGO\n\nNa imagem a seguir, o triângulo ABC representa uma seção plana paralela à base de um prisma reto. As retas n e n' são perpendiculares aos lados AC e AB, respectivamente, e BẬC = 80°.\n[IMAGE: Triangle ABC with perpendicular lines n and n' and angle \theta]\nA medida do ângulo θ entre n e n' é:",
       subItens: []
     },
     options: ["90°","100°","110°","120°"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "UTILIZE AS INFORMAÇÕES A SEGUIR PARA RESPONDER ÀS QUESTÕES 45 E 46.\nCanudinhos de plástico estão com os dias contados no Rio de Janeiro\nA Câmara de Vereadores aprovou projeto de lei que obriga os estabelecimentos da cidade a usarem canudinhos de papel biodegradável ou de material reutilizável, como metais e vidro borossilicato.\nAdaptado de g1.globo.com, 08/06/2018.\n\nA tabela abaixo apresenta a composição química de uma amostra de 500 g de vidro borossilicato.\n[TABLE: Componente (SiO₂, B₂O₃, Na₂O, Al₂O₃) and Porcentagem em massa (%)]\nA massa, em gramas, do óxido básico presente nessa amostra é igual a:",
+      principal: "UTILIZE AS INFORMAÇÕES A SEGUIR PARA RESPONDER ÀS QUESTÕES 45 E 46.\nCanudinhos de plástico estão com os dias contados no Rio de Janeiro\nA Câmara de Vereadores aprovou projeto de lei que obriga os estabelecimentos da cidade a usarem canudinhos de papel biodegradável ou de material reutilizável, como metais e vidro borossilicato.\nAdaptado de $1_{1}$.globo.com, 08/06/2018.\n\nA tabela abaixo apresenta a composição química de uma amostra de 500 g de vidro borossilicato.\n[TABLE: Componente (SiO₂, B₂O₃, Na₂O, Al₂O₃) and Porcentagem em massa (%)]\nA massa, em gramas, do óxido básico presente nessa amostra é igual a:",
       subItens: []
     },
     options: ["85","65","20","10"],
@@ -813,7 +813,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "[IMAGE: Album cover of Tropicália ou Panis et circensis by various artists]\npatriciafinotti.com.br\n\nO álbum de músicas Tropicália ou Panis et circensis foi lançado em 1968. A fotografia que estampou sua capa foi realizada na casa de Oliver Perroy, fotógrafo da Editora Abril, em São Paulo. Cada um levou seus apetrechos, até um penico, comicamente usado por Rogério Duprat como se fosse uma xícara. A imagem ficou tão famosa que se tornou uma espécie de cartão-postal do movimento tropicalista.\nAdaptado de f508.com.br.\n\nNo contexto do final da década de 1960, o Tropicalismo, que causou polêmicas com produções como a do álbum citado, tornou-se símbolo de:",
+      principal: "[IMAGE: Album cover of Tropicália ou Panis et circensis by various artists]\npatriciafinotti.com.br\n\nO álbum de músicas Tropicália ou Panis et circensis foi lançado em 1968. A fotografia que estampou sua capa foi realizada na casa de Oliver Perroy, fotógrafo da Editora Abril, em São Paulo. Cada um levou seus apetrechos, até um penico, comicamente usado por Rogério Duprat como se fosse uma xícara. A imagem ficou tão famosa que se tornou uma espécie de cartão-postal do movimento tropicalista.\nAdaptado de $1_{508}$.com.br.\n\nNo contexto do final da década de 1960, o Tropicalismo, que causou polêmicas com produções como a do álbum citado, tornou-se símbolo de:",
       subItens: []
     },
     options: ["purismo estético","extremismo político","tradicionalismo artístico","experimentalismo cultural"],

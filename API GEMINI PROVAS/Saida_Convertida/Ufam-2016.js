@@ -408,7 +408,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "Observe o gráfico sobre \"ilha de calor\" e assinale a afirmativa INCORRETA sobre este tema:\n°F\n92\n91\n90\n89\n88\n87\n86\n85\n°C\n33\n32\n31\n30\nRural\nComercial CENTRO\nResidencial Urbano\nResidencial Suburbano",
+      principal: "Observe o gráfico sobre \"ilha de calor\" e assinale a afirmativa INCORRETA sobre este tema:\n°F\$1_{92}$\$1_{91}$\$1_{90}$\$1_{89}$\$1_{88}$\$1_{87}$\$1_{86}$\$1_{85}$\n°C\$1_{33}$\$1_{32}$\$1_{31}$\$1_{30}$\nRural\nComercial CENTRO\nResidencial Urbano\nResidencial Suburbano",
       subItens: []
     },
     options: ["A ilha de calor é um fenômeno das grandes metrópoles.","Este é um fenômeno climático igual o da \"inversão térmica\".","O fenômeno resulta da elevação de temperaturas médias em áreas urbanas.","As áreas vizinhas às faixas urbanas não apresentam temperaturas tão elevadas.","A formação de ilhas de calor é agravada por excesso de áreas pavimentadas."],
@@ -513,10 +513,10 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "Uma das causas da chuva ácida é a combustão do enxofre, elemento químico presente como impureza nos combustíveis fosseis. A combustão do enxofre leva a formação de dióxido de enxofre (SO2) e trióxido de enxofre (SO3) na atmosfera, que podem precipitar na forma de H2SO3 e H2SO4. Sobre o dióxido de enxofre e o trioxido de enxofre é CORRETO afirmar:",
+      principal: "Uma das causas da chuva ácida é a combustão do enxofre, elemento químico presente como impureza nos combustíveis fosseis. A combustão do enxofre leva a formação de dióxido de enxofre ($1_{2}$) e trióxido de enxofre ($1_{3}$) na atmosfera, que podem precipitar na forma de $1_{2}SO_{3}$ e $1_{2}SO_{4}$. Sobre o dióxido de enxofre e o trioxido de enxofre é CORRETO afirmar:",
       subItens: []
     },
-    options: ["Ambos são óxidos ácidos.","Ambos são compostos iônicos.","O SO2 possui geometria trigonal plana e o SO3 possui geometria tetraédrica.","O número de oxidação do enxofre no SO2 e no SO3 é respectivamente -4 e -6.","Ambos reagem com ácidos para formar sal e água."],
+    options: ["Ambos são óxidos ácidos.","Ambos são compostos iônicos.","O $1_{2}$ possui geometria trigonal plana e o $1_{3}$ possui geometria tetraédrica.","O número de oxidação do enxofre no $1_{2}$ e no $1_{3}$ é respectivamente -4 e -6.","Ambos reagem com ácidos para formar sal e água."],
     correctAnswer: 0,
     materia: "Química – Química Ambiental (Chuva Ácida)",
     conteudo: "Química – Funções Inorgânicas (Óxidos)",
@@ -528,7 +528,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "A classificação periódica dos elementos surgiu da necessidade de classificá-los de acordo com suas propriedades. Uma das propriedades periódicas é a energia de ionização. No quadro a seguir estão os valores da 1ª energia de ionização para alguns elementos do 2º período da tabela periódica:\nElementos: B C N O F\n1ª energia de ionização em kJ: 801 1086 1402 1314 1681\nContrariando a tendência geral, a 1ª energia de ionização do nitrogênio é maior que a 1ª energia de ionização do oxigênio; tal fato ocorre devido:",
+      principal: "A classificação periódica dos elementos surgiu da necessidade de classificá-los de acordo com suas propriedades. Uma das propriedades periódicas é a energia de ionização. No quadro a seguir estão os valores da 1ª energia de ionização para alguns elementos do 2º período da tabela periódica:\nElementos: B C N O F\$1_{1}$ª energia de ionização em kJ: 801 1086 1402 1314 1681\nContrariando a tendência geral, a 1ª energia de ionização do nitrogênio é maior que a 1ª energia de ionização do oxigênio; tal fato ocorre devido:",
       subItens: []
     },
     options: ["Ao nitrogênio ser um elemento representativo.","À configuração eletrônica do nitrogênio ser mais estável.","Ao nitrogênio se apresentar no estado gasoso nas condições ambiente.","Ao nitrogênio ocorrer na atmosfera na forma de moléculas diatômicas.","Ao nitrogênio ser um elemento de transição."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "O aquecimento global é um fenômeno climático de aumento da temperatura média dos oceanos e do ar próximo à superfície do planeta terra. O aumento das emissões de dióxido de carbono (CO2) é apontado como um dos principais responsáveis por este fenômeno. Sobre o dióxido de carbono é INCORRETO afirmar:",
+      principal: "O aquecimento global é um fenômeno climático de aumento da temperatura média dos oceanos e do ar próximo à superfície do planeta terra. O aumento das emissões de dióxido de carbono ($1_{2}$) é apontado como um dos principais responsáveis por este fenômeno. Sobre o dióxido de carbono é INCORRETO afirmar:",
       subItens: []
     },
     options: ["Os átomos de carbono e oxigênio, na molécula de dióxido de carbono, estão unidos por ligações covalentes polares.","A molécula de dióxido de carbono possui geometria angular.","A molécula de dióxido de carbono é apolar.","No estado sólido, as moléculas de dióxido de carbono estão unidas por ligações do tipo dipolo instantâneo - dipolo induzido.","Na molécula de dióxido de carbono, o átomo de carbono não apresenta pares de elétrons não ligantes na sua camada de valência."],
@@ -573,10 +573,10 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "O magnésio é utilizado como matéria prima em diversas indústrias. Podemos destacar a produção de tijolos refratários, ligas metálicas e pigmentos. Ocorre naturalmente em alguns minerais, por exemplo, na Magnesita de fórmula química MgCO3. Sobre o MgCO3 é correto afirmar:",
+      principal: "O magnésio é utilizado como matéria prima em diversas indústrias. Podemos destacar a produção de tijolos refratários, ligas metálicas e pigmentos. Ocorre naturalmente em alguns minerais, por exemplo, na Magnesita de fórmula química $1_{3}$. Sobre o $1_{3}$ é correto afirmar:",
       subItens: []
     },
-    options: ["É um hidróxido.","É um hidracido.","Possui 15,5% de magnésio em massa.","Possui 25,3% de carbono em massa.","Possui 47,8% de MgO e 52,2% de CO2 em massa"],
+    options: ["É um hidróxido.","É um hidracido.","Possui 15,5% de magnésio em massa.","Possui 25,3% de carbono em massa.","Possui 47,8% de MgO e 52,2% de $1_{2}$ em massa"],
     correctAnswer: 4,
     materia: "Química – Funções Inorgânicas (Sais, Óxidos)",
     conteudo: "Química – Cálculos Estequiométricos (Composição Percentual)",
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "O sulfato de alumínio Al2(SO4)3 é um produto químico amplamente utilizado na indústria de papel e nas estações de tratamento de água. O Al2(SO4)3 pode ser produzido reagindo bauxita, rica em Al2O3 com ácido sulfúrico H2SO4, de acordo com a reação não balanceada:\nAl2O3 + H2SO4 → Al2(SO4)3 + H2O\nPartindo-se de 306g de Al2O3 e quantidade de H2SO4 suficiente, a quantidade máxima de Al2(SO4)3 formada é:",
+      principal: "O sulfato de alumínio $1_{2}_{}$($1_{4}$)3 é um produto químico amplamente utilizado na indústria de papel e nas estações de tratamento de água. O $1_{2}_{}$($1_{4}$)3 pode ser produzido reagindo bauxita, rica em $1_{2}O_{3}$ com ácido sulfúrico $1_{2}SO_{4}$, de acordo com a reação não balanceada:\nAl2O3 + $1_{2}SO_{4}$ → $1_{2}_{}$($1_{4}$)3 + $1_{2}O_{}$\nPartindo-se de 306g de $1_{2}O_{3}$ e quantidade de $1_{2}SO_{4}$ suficiente, a quantidade máxima de $1_{2}_{}$($1_{4}$)3 formada é:",
       subItens: []
     },
     options: ["536g","684g","898g","1026g","1280g"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "A lei que melhor representa a função afim expressa pelo gráfico a seguir é dada por:\n10\n2\nX",
+      principal: "A lei que melhor representa a função afim expressa pelo gráfico a seguir é dada por:\$1_{10}$\$1_{2}$\nX",
       subItens: []
     },
     options: ["f(x) = 10 – 2x","f(x) = 10x + 10","f(x) = 10 −5x","f(x) = 5x + 10","f(x) = 5-10x"],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "O piso de uma sala possui a forma de um paralelogramo como na figura a seguir.\n20m\n10m\n45°\nA área deste piso, em metros quadrados, mede:\nObs: Considere √2 = 1,41",
+      principal: "O piso de uma sala possui a forma de um paralelogramo como na figura a seguir.\n20m\n10m\$1_{45}$°\nA área deste piso, em metros quadrados, mede:\nObs: Considere √2 = 1,41",
       subItens: []
     },
     options: ["0,141","1,41","14,1","141","1410"],

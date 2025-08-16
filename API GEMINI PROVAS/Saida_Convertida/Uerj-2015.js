@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular Estadual 1º Exame de Qualificação",
     year: 2015,
     text: {
-      principal: "As baterias B1 e B2 de dois aparelhos celulares apresentam em determinado instante, respectivamente, 100% e 90% da carga total. Considere as seguintes informações:\n\n● as baterias descarregam linearmente ao longo do tempo;\n● para descarregar por completo, B1 leva t horas e B2 leva duas horas a mais do que B1;\n● no instante z, as duas baterias possuem o mesmo percentual de carga igual a 75%.\n\nObserve o gráfico:\n\n[Gráfico de duas linhas decrescentes representando o percentual de carga (y) em função do tempo (x). A linha superior começa em (0, 100) e termina em (t, 0) para B1. A linha inferior começa em (0, 90) e termina em (t+2, 0) para B2. As duas linhas se cruzam no ponto (z, 75).]\n\nO valor de t, em horas, equivale a:",
+      principal: "As baterias $1_{1}_{}$ e $1_{2}_{}$ de dois aparelhos celulares apresentam em determinado instante, respectivamente, 100% e 90% da carga total. Considere as seguintes informações:\n\n● as baterias descarregam linearmente ao longo do tempo;\n● para descarregar por completo, $1_{1}_{}$ leva t horas e $1_{2}_{}$ leva duas horas a mais do que $1_{1}_{}$;\n● no instante z, as duas baterias possuem o mesmo percentual de carga igual a 75%.\n\nObserve o gráfico:\n\n[Gráfico de duas linhas decrescentes representando o percentual de carga (y) em função do tempo (x). A linha superior começa em (0, 100) e termina em (t, 0) para $1_{1}_{}$. A linha inferior começa em (0, 90) e termina em (t+2, 0) para $1_{2}_{}$. As duas linhas se cruzam no ponto (z, 75).]\n\nO valor de t, em horas, equivale a:",
       subItens: []
     },
     options: ["1","2","3","4"],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Vestibular Estadual 1º Exame de Qualificação",
     year: 2015,
     text: {
-      principal: "UTILIZE AS INFORMAÇÕES A SEGUIR PARA RESPONDER ÀS QUESTÕES DE NÚMEROS 27 E 28.\n\nUma loja identifica seus produtos com um código que utiliza 16 barras, finas ou grossas. Nesse sistema de codificação, a barra fina representa o zero e a grossa o 1. A conversão do código em algarismos do número correspondente a cada produto deve ser feita de acordo com esta tabela:\n\n[Tabela de conversão de Código (binário de 4 bits) para Algarismo (decimal):\n0000 -> 0\n0001 -> 1\n0010 -> 2\n0011 -> 3\n0100 -> 4\n0101 -> 5\n0110 -> 6\n0111 -> 7\n1000 -> 8\n1001 -> 9]\n\nObserve um exemplo de código e de seu número correspondente:\n\n[Imagem de barras: 0111 0000 0010 1001, que correspondem ao número 0729]\n\nConsidere o código abaixo, que identifica determinado produto.\n\n[Imagem de barras: 1001 0111 0110 1000]\n\nEsse código corresponde ao seguinte número:",
+      principal: "UTILIZE AS INFORMAÇÕES A SEGUIR PARA RESPONDER ÀS QUESTÕES DE NÚMEROS 27 E 28.\n\nUma loja identifica seus produtos com um código que utiliza 16 barras, finas ou grossas. Nesse sistema de codificação, a barra fina representa o zero e a grossa o 1. A conversão do código em algarismos do número correspondente a cada produto deve ser feita de acordo com esta tabela:\n\n[Tabela de conversão de Código (binário de 4 bits) para Algarismo (decimal):\n$$0000 \rightarrow 0$$\n$$0001 \rightarrow 1$$\n$$0010 \rightarrow 2$$\n$$0011 \rightarrow 3$$\n$$0100 \rightarrow 4$$\n$$0101 \rightarrow 5$$\n$$0110 \rightarrow 6$$\n$$0111 \rightarrow 7$$\n$$1000 \rightarrow 8$$\n$$1001 \rightarrow 9$$]\n\nObserve um exemplo de código e de seu número correspondente:\n\n[Imagem de barras: 0111 0000 0010 1001, que correspondem ao número 0729]\n\nConsidere o código abaixo, que identifica determinado produto.\n\n[Imagem de barras: 1001 0111 0110 1000]\n\nEsse código corresponde ao seguinte número:",
       subItens: []
     },
     options: ["6835","5724","8645","9768"],
@@ -561,7 +561,7 @@ createQuestion({
       principal: "Existe um conjunto de todas as sequências de 16 barras finas ou grossas que podem ser representadas. Escolhendo-se ao acaso uma dessas sequências, a probabilidade de ela configurar um código do sistema descrito é:",
       subItens: []
     },
-    options: ["5 / 2^16","25 / 2^14","125 / 2^13","625 / 2^12"],
+    options: ["5 / $1^{16}$","25 / $1^{14}$","125 / $1^{13}$","625 / $1^{12}$"],
     correctAnswer: 3,
     materia: "Matemática – Probabilidade",
     conteudo: "Matemática – Análise Combinatória",
@@ -633,7 +633,7 @@ createQuestion({
     university: "Vestibular Estadual 1º Exame de Qualificação",
     year: 2015,
     text: {
-      principal: "A vanilina é a substância responsável pelo aroma de baunilha presente na composição de determinados vinhos. Este aroma se reduz, porém, à medida que a vanilina reage com o ácido etanoico, de acordo com a equação química abaixo: A substância orgânica produzida nessa reação altera o aroma do vinho, pois apresenta um novo grupamento pertencente à função química denominada:\n\n[Diagrama de uma reação química onde a vanilina (álcool etanoico) reage para formar uma nova substância. A vanilina tem um grupo -OH, e na reação, esse grupo é modificado para um -H, e a carbonila é reduzida. A vanilina é um aldeído. A estrutura da vanilina mostrada é um anel benzênico com grupos -OH, -OCH3 e -CHO (aldeído). A substância produto da reação apresenta a redução do grupo aldeído para um grupo álcool primário (-CH2OH), mantendo os outros grupos.]",
+      principal: "A vanilina é a substância responsável pelo aroma de baunilha presente na composição de determinados vinhos. Este aroma se reduz, porém, à medida que a vanilina reage com o ácido etanoico, de acordo com a equação química abaixo: A substância orgânica produzida nessa reação altera o aroma do vinho, pois apresenta um novo grupamento pertencente à função química denominada:\n\n[Diagrama de uma reação química onde a vanilina (álcool etanoico) reage para formar uma nova substância. A vanilina tem um grupo -OH, e na reação, esse grupo é modificado para um -H, e a carbonila é reduzida. A vanilina é um aldeído. A estrutura da vanilina mostrada é um anel benzênico com grupos -OH, -$1_{3}$ e -CHO (aldeído). A substância produto da reação apresenta a redução do grupo aldeído para um grupo álcool primário (-CH2OH), mantendo os outros grupos.]",
       subItens: []
     },
     options: ["éster","álcool","cetona","aldeído"],

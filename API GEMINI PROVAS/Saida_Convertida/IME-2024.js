@@ -93,7 +93,7 @@ createQuestion({
     university: "CONCURSO DE ADMISSÃO",
     year: 2024,
     text: {
-      principal: "Seja uma matriz com 100 linhas e 100 colunas. O elemento da linha i e coluna j é denotado por Ai,j. Os elementos da matriz formam uma progressão aritmética (PA) de razão 5. O primeiro termo da progressão é o elemento a1,1 e tem seu valor igual a 10. Para formar essa PA, percorrem-se os elementos de uma mesma linha e concluída uma linha, passa-se para a próxima. Se n é o traço da matriz, a soma dos algarismos de n é:",
+      principal: "Seja uma matriz com 100 linhas e 100 colunas. O elemento da linha i e coluna j é denotado por Ai,j. Os elementos da matriz formam uma progressão aritmética (PA) de razão 5. O primeiro termo da progressão é o elemento $1_{1}$,1 e tem seu valor igual a 10. Para formar essa PA, percorrem-se os elementos de uma mesma linha e concluída uma linha, passa-se para a próxima. Se n é o traço da matriz, a soma dos algarismos de n é:",
       subItens: []
     },
     options: ["10","19","23","28","32"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "CONCURSO DE ADMISSÃO",
     year: 2024,
     text: {
-      principal: "O intervalo que contém os valores de x tais que 0,09^(4+x) * (1/√3)^(x^2) < x² - (x+1)(x-1) é:",
+      principal: "O intervalo que contém os valores de x tais que 0,09^(4+x) * (1/√3)^($1^{2}$) < x² - (x+1)(x-1) é:",
       subItens: []
     },
     options: ["(-∞, 4) U (8,∞)","(-2,4)","(4,8)","(-∞,∞)","(-∞, -2) U (4,∞)"],
@@ -453,7 +453,7 @@ createQuestion({
     university: "CONCURSO DE ADMISSÃO",
     year: 2024,
     text: {
-      principal: "Considere as reações na sequência abaixo: 1) Benzeno + Cl-Cl --(AlCl3)--> A. 2) A + Cl2 --> B. 3) Fenol + H2SO4 --> C. 4) C + HBr --> D. Sabendo que A, B, C e D representam os compostos orgânicos formados majoritariamente em cada uma das reações, a alternativa que contém as nomenclaturas viáveis para cada um desses compostos, respectivamente, é:",
+      principal: "Considere as reações na sequência abaixo: 1) Benzeno + Cl-Cl --($1_{3}$)--> A. 2) A + $1_{2}_{}$ --> B. 3) Fenol + $1_{2}SO_{4}$ --> C. 4) C + HBr --> D. Sabendo que A, B, C e D representam os compostos orgânicos formados majoritariamente em cada uma das reações, a alternativa que contém as nomenclaturas viáveis para cada um desses compostos, respectivamente, é:",
       subItens: []
     },
     options: ["1-fenilpropan-1-ona; 1-(3-clorofenil)propan-1-ona; but-1-eno; 1-bromo-butano","1-fenilpropan-2-ona; 1-(4-clorofenil)propan-2-ona; but-2-eno; 1-bromo-butano","1-fenilpropan-1-ona; 1-(3-clorofenil)propan-1-ona; but-1-eno; 2-bromo-butano","1-fenilpropan-2-ona; 1-(4-clorofenil)propan-2-ona; but-1-eno; 2-bromo-butano","1-fenilpropan-1-ona; 3-(3-clorofenil)propan-2-ona; but-2-eno; 2-bromo-butano"],
@@ -591,7 +591,7 @@ createQuestion({
       principal: "Na figura abaixo encontra-se ilustrada uma mistura em equilíbrio composta por BaCO₃(s), BaO(s) e CO₂(g), em sistema fechado, resultante da decomposição endotérmica do carbonato de bário. Considere as seguintes situações, tendo por base as moléculas de CO₂(g): i) o equilíbrio após uma adição de moléculas de CO₂(g), de forma a triplicar a quantidade desse gás; e ii) a mistura em equilíbrio a uma temperatura mais elevada. A alternativa que melhor ilustra as situações i e ii, respectivamente, é:",
       subItens: []
     },
-    options: ["Diagrama com sólido e menos bolhas de CO2 na situação i, e mais bolhas na situação ii.","Diagrama com sólido e mesma quantidade de bolhas de CO2 na situação i, e mais bolhas na situação ii.","Diagrama com mais sólido e menos bolhas de CO2 na situação i, e menos sólido e mais bolhas na situação ii.","Diagrama com menos sólido e mais bolhas de CO2 na situação i, e mais sólido e mais bolhas na situação ii.","Diagrama com mais sólido e menos bolhas de CO2 na situação i, e menos sólido e mais bolhas na situação ii."],
+    options: ["Diagrama com sólido e menos bolhas de $1_{2}$ na situação i, e mais bolhas na situação ii.","Diagrama com sólido e mesma quantidade de bolhas de $1_{2}$ na situação i, e mais bolhas na situação ii.","Diagrama com mais sólido e menos bolhas de $1_{2}$ na situação i, e menos sólido e mais bolhas na situação ii.","Diagrama com menos sólido e mais bolhas de $1_{2}$ na situação i, e mais sólido e mais bolhas na situação ii.","Diagrama com mais sólido e menos bolhas de $1_{2}$ na situação i, e menos sólido e mais bolhas na situação ii."],
     correctAnswer: 4,
     materia: "Química – Equilíbrio Químico",
     conteudo: "Química – Princípio de Le Chatelier",

@@ -93,7 +93,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "Para dizerem milho dizem mio\nPara melhor dizem mió\nPara pior pió\nPara telha dizem teia\nPara telhado dizem teiado\nE vão fazendo telhados\nO poema acima é \"Vício na fala\", do escritor modernista Oswald de Andrade. Nele, observa-se que Oswald trabalha com a seguinte variação linguística:",
+      principal: "Para dizerem milho dizem mio\nPara melhor dizem mió\nPara pior \pió\nPara telha dizem teia\nPara telhado dizem teiado\nE vão fazendo telhados\nO poema acima é \"Vício na fala\", do escritor modernista Oswald de Andrade. Nele, observa-se que Oswald trabalha com a seguinte variação linguística:",
       subItens: []
     },
     options: ["norma padrão","jargão profissional","dialeto paulista","linguajar caipira","gíria de camponeses"],
@@ -393,7 +393,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "Considerando a rede hidrográfica da Europa, associe adequadamente os rios indicados na coluna da esquerda com as características descritas na coluna da direita.\n1 - Rio Danúbio\nA - O mais extenso rio europeu.\n2 - Rio Reno\nB - No seu percurso, em direção ao mar, atravessa Paris.\n3 - Rio Volga\nC - É o segundo maior rio europeu em extensão, cortando importantes cidades tais como Budapeste (Hungria), Belgrado (Sérvia) e Viena (Áustria).\n4 - Rio Sena\nD - Às suas margens localizam-se grandes centros industriais, como o Vale do Ruhr, na Alemanha.\nA relação correta é:",
+      principal: "Considerando a rede hidrográfica da Europa, associe adequadamente os rios indicados na coluna da esquerda com as características descritas na coluna da direita.\$1_{1}$ - Rio Danúbio\nA - O mais extenso rio europeu.\$1_{2}$ - Rio Reno\nB - No seu percurso, em direção ao mar, atravessa Paris.\$1_{3}$ - Rio Volga\nC - É o segundo maior rio europeu em extensão, cortando importantes cidades tais como Budapeste (Hungria), Belgrado (Sérvia) e Viena (Áustria).\$1_{4}$ - Rio Sena\nD - Às suas margens localizam-se grandes centros industriais, como o Vale do Ruhr, na Alemanha.\nA relação correta é:",
       subItens: []
     },
     options: ["1-A; 2-B; 4-C e 3-D.","1-A; 3-B; 2-C e 4-D.","2-A; 1-B; 3-C e 4-D.","3-A; 4-B; 1-C e 2-D.","4-A; 3-B; 2-C e 1-D."],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "O tecido conjuntivo é onipresente em nosso corpo. Ele une ossos, músculos, sustenta órgãos e até cria um sistema sofisticado que mantém as células unidas enquanto participa da comunicação entre o meio intra e extracelular. O tecido conjuntivo é um dos componentes mais integrais da máquina humana. Além de seus componentes proteicos, diversas células se movimentam no interior do tecido ou se tornam residentes nele. Dada sua importância na saúde e na doença, nada mais relevante do que examinar a organização básica do tecido conjuntivo propriamente dito. Sendo assim, observe a figura a seguir e relacione os termos com sua respectiva numeração.\n[Imagem de tecido conjuntivo com legendas numéricas]\n1\n2\nMacrófago fixo\nVaso\n3\n4\n6\nFibras Elásticas\nMacrófago livre\n7\n8\nCélula mesenquimal",
+      principal: "O tecido conjuntivo é onipresente em nosso corpo. Ele une ossos, músculos, sustenta órgãos e até cria um sistema sofisticado que mantém as células unidas enquanto participa da comunicação entre o meio intra e extracelular. O tecido conjuntivo é um dos componentes mais integrais da máquina humana. Além de seus componentes proteicos, diversas células se movimentam no interior do tecido ou se tornam residentes nele. Dada sua importância na saúde e na doença, nada mais relevante do que examinar a organização básica do tecido conjuntivo propriamente dito. Sendo assim, observe a figura a seguir e relacione os termos com sua respectiva numeração.\n[Imagem de tecido conjuntivo com legendas numéricas]\$1_{1}$\$1_{2}$\nMacrófago fixo\nVaso\$1_{3}$\$1_{4}$\$1_{6}$\nFibras Elásticas\nMacrófago livre\$1_{7}$\$1_{8}$\nCélula mesenquimal",
       subItens: []
     },
     options: ["1-Fibras reticulares; 2-Melanócito; 3-Plasmócito; 4-Adipócito; 5-Substância fundamental; 6-Mastócito; 7-Fibras colágenas; 8-Fibroblasto; 9-Linfócito.","1-Fibras colágenas; 2-Plasmócito; 3-Melanócito; 4-Substância fundamental; 5-Adipócito; 6-Mastócito; 7-Fibras reticulares; 8-Linfócito; 9-Fibroblasto.","1-Fibras colágenas; 2-Melanócito; 3-Plasmócito; 4-Substância fundamental; 5-Adipócito; 6-Mastócito; 7-Fibras reticulares; 8-Fibroblasto; 9-Linfócito.","1-Fibras reticulares; 2-Melanócito; 3-Linfócito; 4-Adipócito; 5-Substância fundamental; 6-Mastócito; 7-Fibras colágenas; 8-Fibroblasto; 9-Plasmócito.","1-Fibras colágenas; 2-Plasmócito; 3-Melanócito; 4-Substância fundamental; 5-Adipócito; 6-Fibroblasto; 7-Fibras reticulares; 8-Linfócito; 9-Mastócito."],
@@ -471,7 +471,7 @@ createQuestion({
       principal: "A figura a seguir representa um momento elétrico na vida de uma célula em uma junção muito especial chamada de placa motora. Se (A) representa o corpo celular de um neurônio-motor, (C) seu axônio e (B) o músculo gastrocnêmico, qual das seguintes afirmativas explica corretamente os fenômenos 1 e 2 que ocorrem na fibra muscular:\n[Gráfico de Potencial de Ação]",
       subItens: []
     },
-    options: ["1 indica a despolarização da membrana provocada pela abertura dos canais de Na+, enquanto que 2 indica a abertura dos canais de K⁺ e início da repolarização da membrana.","1 indica a repolarização da membrana provocada pela abertura dos canais de Na+, enquanto que 2 indica a abertura dos canais de K¹ e início da despolarização da membrana.","1 indica a despolarização da membrana provocada pela abertura dos canais de K, enquanto que 2 indica a abertura dos canais de Nat e início da repolarização da membrana.","1 indica a hiperpolarização da membrana provocada pela abertura dos canais de Na+, enquanto que 2 indica a abertura dos canais de K⁺ e início da despolarização da membrana.","1 indica a despolarização da membrana provocada pelo fechamento dos canais de Na⁺, enquanto que 2 indica o fechamento dos canais de K⁺ e início da repolarização da membrana."],
+    options: ["1 indica a despolarização da membrana provocada pela abertura dos canais de $1^+$, enquanto que 2 indica a abertura dos canais de K⁺ e início da repolarização da membrana.","1 indica a repolarização da membrana provocada pela abertura dos canais de $1^+$, enquanto que 2 indica a abertura dos canais de K¹ e início da despolarização da membrana.","1 indica a despolarização da membrana provocada pela abertura dos canais de K, enquanto que 2 indica a abertura dos canais de Nat e início da repolarização da membrana.","1 indica a hiperpolarização da membrana provocada pela abertura dos canais de $1^+$, enquanto que 2 indica a abertura dos canais de K⁺ e início da despolarização da membrana.","1 indica a despolarização da membrana provocada pelo fechamento dos canais de Na⁺, enquanto que 2 indica o fechamento dos canais de K⁺ e início da repolarização da membrana."],
     correctAnswer: 0,
     materia: "Biologia – Fisiologia (Sistema Nervoso e Muscular)",
     conteudo: "",
@@ -513,10 +513,10 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "No dia 26/11/2013, conforme noticiado no Jornal A Crítica (www.acritica.com.br), uma estudante de 17 anos faleceu em Parintins após consumir tucumã que poderia estar contaminada por um produto normalmente conhecido como carbureto (carbeto de cálcio). Posteriormente, o fato da morte foi atribuído, provavelmente, à falta de higiene no manuseio do fruto. O carbureto é um produto químico muito utilizado para acelerar o processo de maturação de frutos. A técnica de amadurecimento consiste em colocar o carbureto umedecido em água em volta dos frutos, cobrindo-os com lona plástica. Na verdade o amadurecimento é provocado pelo produto da reação do carbureto com água, que gera um gás A de odor característico desagradável que é também comumente usado como combustível em maçaricos, uma vez que sua chama é extremamente quente. Para se obter uma concentração deste gás A suficiente para induzir a maturação de frutas é necessário uma quantidade mínima de carbureto de pelo menos 2,66 g. Além do gás A liberado, um segundo produto que permanece em solução aquosa é também formado no processo reacional, cuja presença de um indicador ácido-base como fenolftaleína faz a solução apresentar uma coloração rosa/avermelhada. Caso este segundo produto seja submetido a um fluxo de CO2 (por exemplo, soprando com canudo plástico não mais do que 5 minutos), há formação de um precipitado branco. Caso o tempo de borbulhamento seja superior a 5 minutos, ocorrerá progressivamente a diminuição do precipitado branco e uma mudança na coloração da solução aquosa de rosa/avermelhada para incolor.\nCom base no texto acima, responda as questões de 35 a 40.\nQual a fórmula química do carbureto?",
+      principal: "No dia 26/11/2013, conforme noticiado no Jornal A Crítica (www.acritica.com.br), uma estudante de 17 anos faleceu em Parintins após consumir tucumã que poderia estar contaminada por um produto normalmente conhecido como carbureto (carbeto de cálcio). Posteriormente, o fato da morte foi atribuído, provavelmente, à falta de higiene no manuseio do fruto. O carbureto é um produto químico muito utilizado para acelerar o processo de maturação de frutos. A técnica de amadurecimento consiste em colocar o carbureto umedecido em água em volta dos frutos, cobrindo-os com lona plástica. Na verdade o amadurecimento é provocado pelo produto da reação do carbureto com água, que gera um gás A de odor característico desagradável que é também comumente usado como combustível em maçaricos, uma vez que sua chama é extremamente quente. Para se obter uma concentração deste gás A suficiente para induzir a maturação de frutas é necessário uma quantidade mínima de carbureto de pelo menos 2,66 g. Além do gás A liberado, um segundo produto que permanece em solução aquosa é também formado no processo reacional, cuja presença de um indicador ácido-base como fenolftaleína faz a solução apresentar uma coloração rosa/avermelhada. Caso este segundo produto seja submetido a um fluxo de $1_{2}$ (por exemplo, soprando com canudo plástico não mais do que 5 minutos), há formação de um precipitado branco. Caso o tempo de borbulhamento seja superior a 5 minutos, ocorrerá progressivamente a diminuição do precipitado branco e uma mudança na coloração da solução aquosa de rosa/avermelhada para incolor.\nCom base no texto acima, responda as questões de 35 a 40.\nQual a fórmula química do carbureto?",
       subItens: []
     },
-    options: ["Ca2C2","CaC2","CCa2","CaC","CaCO2"],
+    options: ["$1_{2}C_{2}$","$1_{2}$","$1_{2}$","CaC","$1_{2}$"],
     correctAnswer: 1,
     materia: "Química – Funções Inorgânicas (Carbetos)",
     conteudo: "",
@@ -531,7 +531,7 @@ createQuestion({
       principal: "Qual a fórmula química do gás A formado da reação do carbureto com água?",
       subItens: []
     },
-    options: ["C2H4","CaCO3","CO","C2H2","CO2"],
+    options: ["$1_{2}H_{4}$","$1_{3}$","CO","$1_{2}H_{2}$","$1_{2}$"],
     correctAnswer: 3,
     materia: "Química – Química Orgânica (Hidrocarbonetos)",
     conteudo: "",
@@ -591,7 +591,7 @@ createQuestion({
       principal: "Borbulhando a solução por mais de 5 minutos, a solução aquosa apresentará as seguintes características:",
       subItens: []
     },
-    options: ["O precipitado branco é dissolvido; solução ácida; presença de Ca²+ em solução; presença de HCO3 em solução.","Mais precipitado branco é formado; solução ácida; presença de CO3 2-","O precipitado branco é dissolvido; solução básica, presença de HCO3 em solução","Mais precipitado branco é formado; solução básica; presença de HCO3-","Nada acontece e a solução permanece rosa/avermelhada"],
+    options: ["O precipitado branco é dissolvido; solução ácida; presença de Ca²+ em solução; presença de $1_{3}$ em solução.","Mais precipitado branco é formado; solução ácida; presença de $1_{3}$ 2-","O precipitado branco é dissolvido; solução básica, presença de $1_{3}$ em solução","Mais precipitado branco é formado; solução básica; presença de $1_{3}$-","Nada acontece e a solução permanece rosa/avermelhada"],
     correctAnswer: 0,
     materia: "Química – Equilíbrio Químico (Reações Ácido-Base)",
     conteudo: "",

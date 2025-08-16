@@ -648,7 +648,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Leia a tirinha do cartunista Fernando Gonsalez.\n\n[Tirinha de Fernando Gonsalez com besouros. No primeiro quadro, um besouro deitado diz: \"UM ESPECIALISTA EM BESOUROS FAZ UM DESEJO ANTES DE MORRER QUERO REENCARNAR COMO UM BESOURO!\". No segundo, outro besouro diz: \"VAMOS TRANSAR?\". No terceiro, o primeiro besouro recusa: \"NÃO! VOCÊ É DA ESPÉCIE Chrysomeles andersonii E EU SOU UM Chrysomeles albinatus\". (www1.folha.uol.com.br. Adaptado.)]\n\nA tirinha aborda de forma bem humorada uma possível incompatibilidade reprodutiva entre os dois besouros. No entanto, esse cruzamento pode ocorrer e gerar descendentes",
+      principal: "Leia a tirinha do cartunista Fernando Gonsalez.\n\n[Tirinha de Fernando Gonsalez com besouros. No primeiro quadro, um besouro deitado diz: \"UM ESPECIALISTA EM BESOUROS FAZ UM DESEJO ANTES DE MORRER QUERO REENCARNAR COMO UM BESOURO!\". No segundo, outro besouro diz: \"VAMOS TRANSAR?\". No terceiro, o primeiro besouro recusa: \"NÃO! VOCÊ É DA ESPÉCIE Chrysomeles andersonii E EU SOU UM Chrysomeles albinatus\". ($1_{1}$.folha.uol.com.br. Adaptado.)]\n\nA tirinha aborda de forma bem humorada uma possível incompatibilidade reprodutiva entre os dois besouros. No entanto, esse cruzamento pode ocorrer e gerar descendentes",
       subItens: []
     },
     options: ["inviáveis, pois os besouros são de gêneros diferentes.","inviáveis, pois os besouros são de espécies diferentes.","viáveis, pois os besouros são do mesmo subgênero.","viáveis, pois os besouros são da mesma espécie.","inviáveis, pois os besouros são de famílias diferentes."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "O gás ozônio é uma substância química ambígua do ponto de vista ambiental. Na troposfera, o ozônio é tóxico devido ao caráter oxidante. Na estratosfera, absorve radiação ultravioleta nociva ao ser humano por meio de um processo natural que leva à contínua formação e fragmentação da molécula, como representado na imagem.\n\n[Diagrama mostrando a quebra de O3 por raios ultravioleta em O2 + O, e a formação de O3 a partir de O2 + O. (www.wwf.org.br. Adaptado.)]\n\nO processo ilustrado na imagem envolve a participação de",
+      principal: "O gás ozônio é uma substância química ambígua do ponto de vista ambiental. Na troposfera, o ozônio é tóxico devido ao caráter oxidante. Na estratosfera, absorve radiação ultravioleta nociva ao ser humano por meio de um processo natural que leva à contínua formação e fragmentação da molécula, como representado na imagem.\n\n[Diagrama mostrando a quebra de $1_{3}_{}$ por raios ultravioleta em $1_{2}_{}$ + O, e a formação de $1_{3}_{}$ a partir de $1_{2}_{}$ + O. (www.wwf.org.br. Adaptado.)]\n\nO processo ilustrado na imagem envolve a participação de",
       subItens: []
     },
     options: ["um elemento químico e dois alótropos do oxigênio.","um elemento químico e dois isóbaros do oxigênio.","um elemento químico e dois isótopos do oxigênio.","três substâncias químicas e dois alótropos do oxigênio.","três substâncias químicas e dois isóbaros do oxigênio."],
@@ -783,10 +783,10 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "O lítio é um metal alcalino economicamente importante e bastante versátil. A forma iônica desse elemento químico combinada ao íon carbonato (CO32-) forma o carbonato de lítio, composto iônico empregado como medicamento no tratamento do transtorno bipolar.\n\nA fórmula do composto iônico de lítio mencionado no texto e a distribuição eletrônica em níveis e subníveis de energia do íon lítio são:",
+      principal: "O lítio é um metal alcalino economicamente importante e bastante versátil. A forma iônica desse elemento químico combinada ao íon carbonato ($1_{32}$-) forma o carbonato de lítio, composto iônico empregado como medicamento no tratamento do transtorno bipolar.\n\nA fórmula do composto iônico de lítio mencionado no texto e a distribuição eletrônica em níveis e subníveis de energia do íon lítio são:",
       subItens: []
     },
-    options: ["Li2CO3 e 1s2 2s¹","Li2CO3 e 1s²","LICO3 e 1s²","Li(CO3)2 e 1s²","Li(CO3)2 e 1s2 2s1"],
+    options: ["$1_{2}CO_{3}$ e 1s2 2s¹","$1_{2}CO_{3}$ e 1s²","$1_{3}$ e 1s²","Li($1_{3}$)2 e 1s²","Li($1_{3}$)2 e 1s2 2s1"],
     correctAnswer: 1,
     materia: "Química – Ligações Químicas (Compostos Iônicos) e Estrutura Atômica",
     conteudo: "",
@@ -798,7 +798,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Analise o primeiro verso do poema \"Psicologia de um Vencido\", de Augusto dos Anjos, que faz alusão à composição química dos seres humanos restringindo-a ao elemento químico carbono e ao composto amônia (NH3).\n\nEu, filho do carbono e do amoníaco,\nMonstro de escuridão e rutilância,\nSofro, desde a epigênesis da infância,\nA influência má dos signos do zodíaco.\n\nTodos os elementos químicos identificados no poema podem ser encontrados nas moléculas de",
+      principal: "Analise o primeiro verso do poema \"Psicologia de um Vencido\", de Augusto dos Anjos, que faz alusão à composição química dos seres humanos restringindo-a ao elemento químico carbono e ao composto amônia ($1_{3}$).\n\nEu, filho do carbono e do amoníaco,\nMonstro de escuridão e rutilância,\nSofro, desde a epigênesis da infância,\nA influência má dos signos do zodíaco.\n\nTodos os elementos químicos identificados no poema podem ser encontrados nas moléculas de",
       subItens: []
     },
     options: ["polissacarídeos.","carboidratos.","lipídeos.","enzimas.","ácidos graxos."],
@@ -861,7 +861,7 @@ createQuestion({
       principal: "Indicadores ácido-base são compostos químicos que alteram a coloração da solução aquosa em função do pH. A equação mostra o equilíbrio químico da fenolftaleína em meio aquoso. Esse indicador muda a cor da solução em pH ao redor de 8.\n\n[Esquema do equilíbrio químico da fenolftaleína, mostrando a forma incolor (ácida) e a forma rosa (básica).]\n\nA fenolftaleína deixa rosa a solução aquosa de",
       subItens: []
     },
-    options: ["Al2(SO4)3","HCl","NH4Cl","NH4OH","ΚΝΟ3"],
+    options: ["$1_{2}_{}$($1_{4}$)3","HCl","NH4Cl","NH4OH","ΚΝΟ3"],
     correctAnswer: 3,
     materia: "Química – Funções Inorgânicas (Ácidos e Bases)",
     conteudo: "",
@@ -873,7 +873,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "A reciclagem do alumínio no Brasil é fonte de renda para coletores de material reciclado, além de proporcionar relevante economia de recursos e energia quando comparado à produção do metal por meio da eletrólise da alumina fundida. Uma lata de refrigerante vazia pesa em média 13,5 g e consome a carga correspondente a 1 Faraday (96500 C) para cada mol de elétrons envolvidos no processo. A equação representa a reação de redução do alumínio durante a eletrólise da alumina fundida.\n\nAl3+ (l) + 3 e- → Al (l)\níon metal\n\nO tempo de eletrólise necessário para a produção da massa de alumínio correspondente a uma lata de refrigerante, utilizando uma corrente de 10 A, é de, aproximadamente,",
+      principal: "A reciclagem do alumínio no Brasil é fonte de renda para coletores de material reciclado, além de proporcionar relevante economia de recursos e energia quando comparado à produção do metal por meio da eletrólise da alumina fundida. Uma lata de refrigerante vazia pesa em média 13,5 g e consome a carga correspondente a 1 Faraday (96500 C) para cada mol de elétrons envolvidos no processo. A equação representa a reação de redução do alumínio durante a eletrólise da alumina fundida.\n\$1_{3}$+ (l) + 3 e- → Al (l)\níon metal\n\nO tempo de eletrólise necessário para a produção da massa de alumínio correspondente a uma lata de refrigerante, utilizando uma corrente de 10 A, é de, aproximadamente,",
       subItens: []
     },
     options: ["240 minutos.","150 minutos.","90 minutos.","520 minutos.","40 minutos."],
@@ -903,7 +903,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "A altitude máxima que um avião comercial pode atingir é estabelecida em torno dos 40 mil pés (cerca de 12,2 km). Esse limite é conhecido como \"teto de serviço\". A maioria dos jatos comerciais voa em níveis próximos a esse limite para otimizar a eficiência de consumo de combustível.\n\n(https://noticias.r7.com. Adaptado.)\n\nNa aviação, utiliza-se a unidade pé nas indicações de altitude. Um pé equivale a, aproximadamente,",
+      principal: "A altitude máxima que um avião comercial pode atingir é estabelecida em torno dos 40 mil pés (cerca de 12,2 km). Esse limite é conhecido como \"teto de serviço\". A maioria dos jatos comerciais voa em níveis próximos a esse limite para otimizar a eficiência de consumo de combustível.\n\n(https://noticias.$1_{7}$.com. Adaptado.)\n\nNa aviação, utiliza-se a unidade pé nas indicações de altitude. Um pé equivale a, aproximadamente,",
       subItens: []
     },
     options: ["53,8 cm.","25,4 cm.","30,5 cm.","35,0 cm.","38, 6 cm."],
@@ -933,7 +933,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Uma toalha retangular e homogênea, de comprimento L, está apoiada em um suporte horizontal. As partes da toalha pendentes de cada lado do suporte têm comprimentos L₁ e L₂, como mostra a imagem. Considere que L₁ + L₂ = L.\n\n[Imagem de uma toalha retangular pendurada em um suporte horizontal, com comprimentos L1 e L2 pendentes. (www.dmix.com.br. Adaptado.)]\n\nEssa toalha permanece em repouso porque",
+      principal: "Uma toalha retangular e homogênea, de comprimento L, está apoiada em um suporte horizontal. As partes da toalha pendentes de cada lado do suporte têm comprimentos L₁ e L₂, como mostra a imagem. Considere que L₁ + L₂ = L.\n\n[Imagem de uma toalha retangular pendurada em um suporte horizontal, com comprimentos $1_{1}_{}$ e $1_{2}_{}$ pendentes. (www.dmix.com.br. Adaptado.)]\n\nEssa toalha permanece em repouso porque",
       subItens: []
     },
     options: ["o atrito entre a superfície da toalha e a superfície do suporte produz uma força de intensidade maior do que o peso da toalha.","o atrito entre a superfície da toalha e a superfície do suporte produz uma força contrária à tendência de movimento, de intensidade suficiente para impedir o deslizamento da toalha.","o peso da parte da toalha de comprimento L₁ é menor do que a intensidade da força de atrito entre a superfície da toalha e a superfície do suporte.","o suporte aplica na toalha uma força normal de intensidade maior do que o peso da toalha.","o peso da parte da toalha de comprimento L₂ é menor do que a intensidade da força de atrito entre a superfície da toalha e a superfície do suporte."],
@@ -993,7 +993,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Duas lentes convergentes, L₁ e L₂, fazem parte do sistema óptico de um microscópio, de modo que seus eixos principais são coincidentes. Quando essas duas lentes distam 3d uma da outra, dois raios de luz monocromática fazem os trajetos mostrados na figura, atravessando ambas as lentes.\n\n[Diagrama de raios de luz passando por duas lentes convergentes L1 e L2, com distâncias focais e pontos notáveis indicados. (www.dmix.com.br. Adaptado.)]\n\nA relação entre a distância focal f₁ da lente L₁ e a distância focal f₂ da lente L₂ é",
+      principal: "Duas lentes convergentes, L₁ e L₂, fazem parte do sistema óptico de um microscópio, de modo que seus eixos principais são coincidentes. Quando essas duas lentes distam 3d uma da outra, dois raios de luz monocromática fazem os trajetos mostrados na figura, atravessando ambas as lentes.\n\n[Diagrama de raios de luz passando por duas lentes convergentes $1_{1}_{}$ e $1_{2}_{}$, com distâncias focais e pontos notáveis indicados. (www.dmix.com.br. Adaptado.)]\n\nA relação entre a distância focal f₁ da lente L₁ e a distância focal f₂ da lente L₂ é",
       subItens: []
     },
     options: ["f₁ = f₂/4","f₁ = 4 f₂","f₁ = f₂","f₁ = 2 f₂","f₁ = f₂/2"],
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Os polígonos regulares de 4, 6 e n lados, indicados na figura por P4, P6 e Pn, possuem o vértice Q em comum e, dois a dois, compartilham um lado.\n\n[Diagrama de três polígonos regulares (um quadrado P4, um hexágono P6 e um polígono Pn de n lados) compartilhando um vértice Q e um lado em comum. ]\n\nNa situação descrita, n é igual a",
+      principal: "Os polígonos regulares de 4, 6 e n lados, indicados na figura por $1_{4}_{}$, $1_{6}_{}$ e Pn, possuem o vértice Q em comum e, dois a dois, compartilham um lado.\n\n[Diagrama de três polígonos regulares (um quadrado $1_{4}_{}$, um hexágono $1_{6}_{}$ e um polígono Pn de n lados) compartilhando um vértice Q e um lado em comum. ]\n\nNa situação descrita, n é igual a",
       subItens: []
     },
     options: ["10.","24.","12.","9.","15."],
@@ -1098,10 +1098,10 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Observe o produto de infinitas frações que seguem determinado padrão:\n\n16/2 * 16/4 * 16/8 * 16/16 * ... * 16/(2^n) * ...\n\nO produto das 16 primeiras frações desse padrão é igual a:",
+      principal: "Observe o produto de infinitas frações que seguem determinado padrão:\n\$1_{16}$/2 * 16/4 * 16/8 * 16/16 * ... * 16/(2^n) * ...\n\nO produto das 16 primeiras frações desse padrão é igual a:",
       subItens: []
     },
-    options: ["2^64","2^-64","2^-32","2^-72","2^72"],
+    options: ["$1^{64}$","2^-64","2^-32","2^-72","$1^{72}$"],
     correctAnswer: 3,
     materia: "Matemática – Sequências e Séries (Potências)",
     conteudo: "",

@@ -813,7 +813,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "A grafite de um lápis tem quinze centímetros de comprimento e dois milímetros de espessura. Dentre os valores abaixo, o que mais se aproxima do número de átomos presentes nessa grafite é\nNote:\n1) Assuma que a grafite é um cilindro circular reto, feito de grafita pura. A espessura da grafite é o diâmetro da base do cilindro.\n2) Adote os valores aproximados de:\n• 2,2 g/cm³ para a densidade da grafita;\n• 12 g/mol para a massa molar do carbono;\n• 6,0 × 10^23 mol⁻¹ para a constante de Avogadro.",
+      principal: "A grafite de um lápis tem quinze centímetros de comprimento e dois milímetros de espessura. Dentre os valores abaixo, o que mais se aproxima do número de átomos presentes nessa grafite é\nNote:\$1_{1}$) Assuma que a grafite é um cilindro circular reto, feito de grafita pura. A espessura da grafite é o diâmetro da base do cilindro.\$1_{2}$) Adote os valores aproximados de:\n• 2,2 g/cm³ para a densidade da grafita;\n• 12 g/mol para a massa molar do carbono;\n• $1 \times 10^{23}$ mol⁻¹ para a constante de Avogadro.",
       subItens: []
     },
     options: [],
@@ -843,7 +843,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Para impedir que a pressão interna de uma panela de pressão ultrapasse um certo valor, em sua tampa há um dispositivo formado por um pino acoplado a um tubo cilíndrico, como esquematizado na figura ao lado. Enquanto a força resultante sobre o pino for dirigida para baixo, a panela está perfeitamente vedada. Considere o diâmetro interno do tubo cilíndrico igual a 4 mm e a massa do pino igual a 48 g. Na situação em que apenas a força gravitacional, a pressão atmosférica e a exercida pelos gases na panela atuam no pino, a pressão absoluta máxima no interior da panela é\nNote e adote:\nπ = 3\n1 atm = 10^5 N/m²\naceleração local da gravidade = 10 m/s²",
+      principal: "Para impedir que a pressão interna de uma panela de pressão ultrapasse um certo valor, em sua tampa há um dispositivo formado por um pino acoplado a um tubo cilíndrico, como esquematizado na figura ao lado. Enquanto a força resultante sobre o pino for dirigida para baixo, a panela está perfeitamente vedada. Considere o diâmetro interno do tubo cilíndrico igual a 4 mm e a massa do pino igual a 48 g. Na situação em que apenas a força gravitacional, a pressão atmosférica e a exercida pelos gases na panela atuam no pino, a pressão absoluta máxima no interior da panela é\nNote e adote:\nπ = 3\$1_{1}$ atm = $1^{5}$ N/m²\naceleração local da gravidade = 10 m/s²",
       subItens: []
     },
     options: [],
@@ -903,7 +903,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "A notícia \"Satélite brasileiro cai na Terra após lançamento falhar\", veiculada pelo jornal O Estado de S. Paulo de 10/12/2013, relata que o satélite CBERS-3, desenvolvido em parceria entre Brasil e China, foi lançado no espaço a uma altitude de 720 km (menor do que a planejada) e com uma velocidade abaixo da necessária para colocá-lo em órbita em torno da Terra. Para que o satélite pudesse ser colocado em órbita circular na altitude de 720 km, o módulo de sua velocidade (com direção tangente à órbita) deveria ser de, aproximadamente,\nNote e adote:\nraio da Terra = 6 x 10^3 km\nmassa da Terra = 6 × 10^24 kg\nconstante de gravitação universal G = 6,7 x 10^-11 m³ / (s² kg)",
+      principal: "A notícia \"Satélite brasileiro cai na Terra após lançamento falhar\", veiculada pelo jornal O Estado de S. Paulo de 10/12/2013, relata que o satélite CBERS-3, desenvolvido em parceria entre Brasil e China, foi lançado no espaço a uma altitude de 720 km (menor do que a planejada) e com uma velocidade abaixo da necessária para colocá-lo em órbita em torno da Terra. Para que o satélite pudesse ser colocado em órbita circular na altitude de 720 km, o módulo de sua velocidade (com direção tangente à órbita) deveria ser de, aproximadamente,\nNote e adote:\nraio da Terra = $1 \times 10^{3}$ km\nmassa da Terra = $1 \times 10^{24}$ kg\nconstante de gravitação universal G = $1 \times 10^{-11}$ m³ / (s² kg)",
       subItens: []
     },
     options: [],
@@ -918,7 +918,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Em uma aula de laboratório de Física, para estudar propriedades de cargas elétricas, foi realizado um experimento em que pequenas esferas eletrizadas são injetadas na parte superior de uma câmara, em vácuo, onde há um campo elétrico uniforme na mesma direção e sentido da aceleração local da gravidade. Observou-se que, com campo elétrico de módulo igual a 2 x 10³ V/m, uma das esferas, de massa 3,2 x 10^-15 kg, permanecia com velocidade constante no interior da câmara. Essa esfera tem\nNote e adote:\ncarga do elétron = – 1,6 x 10^-19 C\ncarga do próton = + 1,6 x 10^-19 C\naceleração local da gravidade = 10 m/s²",
+      principal: "Em uma aula de laboratório de Física, para estudar propriedades de cargas elétricas, foi realizado um experimento em que pequenas esferas eletrizadas são injetadas na parte superior de uma câmara, em vácuo, onde há um campo elétrico uniforme na mesma direção e sentido da aceleração local da gravidade. Observou-se que, com campo elétrico de módulo igual a 2 x 10³ V/m, uma das esferas, de massa $1 \times 10^{-15}$ kg, permanecia com velocidade constante no interior da câmara. Essa esfera tem\nNote e adote:\ncarga do elétron = – $1 \times 10^{-19}$ C\ncarga do próton = + $1 \times 10^{-19}$ C\naceleração local da gravidade = 10 m/s²",
       subItens: []
     },
     options: [],
@@ -978,7 +978,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "A figura abaixo mostra o gráfico da energia potencial gravitacional U de uma esfera em uma pista, em função da componente horizontal x da posição da esfera na pista.\nNote e adote:\ndesconsidere efeitos dissipativos.\nA esfera é colocada em repouso na pista, na posição de abscissa x = x1, tendo energia mecânica E < 0. A partir dessa condição, sua energia cinética tem valor",
+      principal: "A figura abaixo mostra o gráfico da energia potencial gravitacional U de uma esfera em uma pista, em função da componente horizontal x da posição da esfera na pista.\nNote e adote:\ndesconsidere efeitos dissipativos.\nA esfera é colocada em repouso na pista, na posição de abscissa x = $1_{1}$, tendo energia mecânica E < 0. A partir dessa condição, sua energia cinética tem valor",
       subItens: []
     },
     options: [],
@@ -993,7 +993,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "A figura acima mostra parte do teclado de um piano. Os valores das frequências das notas sucessivas, incluindo os sustenidos, representados pelo símbolo #, obedecem a uma progressão geométrica crescente da esquerda para a direita; a razão entre as frequências de duas notas Dó consecutivas vale 2; a frequência da nota Lá do teclado da figura é 440 Hz. O comprimento de onda, no ar, da nota Sol indicada na figura é próximo de\nNote e adote:\n2^(1/12) = 1,059\n(1,059)² = 1,12\nvelocidade do som no ar = 340 m/s",
+      principal: "A figura acima mostra parte do teclado de um piano. Os valores das frequências das notas sucessivas, incluindo os sustenidos, representados pelo símbolo #, obedecem a uma progressão geométrica crescente da esquerda para a direita; a razão entre as frequências de duas notas Dó consecutivas vale 2; a frequência da nota Lá do teclado da figura é 440 Hz. O comprimento de onda, no ar, da nota Sol indicada na figura é próximo de\nNote e adote:\$1_{2}$^(1/12) = 1,059\n(1,059)² = 1,12\nvelocidade do som no ar = 340 m/s",
       subItens: []
     },
     options: [],
@@ -1068,7 +1068,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "A Gruta do Lago Azul (MS), uma caverna composta por um lago e várias salas, em que se encontram espeleotemas de origem carbonática (estalactites e estalagmites), é uma importante atração turística. O número de visitantes, entretanto, é controlado, não ultrapassando 300 por dia. Um estudante, ao tentar explicar tal restrição, levantou as seguintes hipóteses:\nI. Os detritos deixados indevidamente pelos visitantes se decompõem, liberando metano, que pode oxidar os espeleotemas.\nII. O aumento da concentração de gás carbônico que é liberado na respiração dos visitantes, e que interage com a água do ambiente, pode provocar a dissolução progressiva dos espeleotemas.\nIII. A concentração de oxigênio no ar diminui nos períodos de visita, e essa diminuição seria compensada pela liberação de O2 pelos espeleotemas.\nO controle do número de visitantes, do ponto de vista da Química, é explicado por",
+      principal: "A Gruta do Lago Azul (MS), uma caverna composta por um lago e várias salas, em que se encontram espeleotemas de origem carbonática (estalactites e estalagmites), é uma importante atração turística. O número de visitantes, entretanto, é controlado, não ultrapassando 300 por dia. Um estudante, ao tentar explicar tal restrição, levantou as seguintes hipóteses:\nI. Os detritos deixados indevidamente pelos visitantes se decompõem, liberando metano, que pode oxidar os espeleotemas.\nII. O aumento da concentração de gás carbônico que é liberado na respiração dos visitantes, e que interage com a água do ambiente, pode provocar a dissolução progressiva dos espeleotemas.\nIII. A concentração de oxigênio no ar diminui nos períodos de visita, e essa diminuição seria compensada pela liberação de $1_{2}_{}$ pelos espeleotemas.\nO controle do número de visitantes, do ponto de vista da Química, é explicado por",
       subItens: []
     },
     options: [],
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Uma estudante de Química realizou o seguinte experimento: pesou um tubo de ensaio vazio, colocou nele um pouco de NaHCO3 (s) e pesou novamente. Em seguida, adicionou ao tubo de ensaio excesso de solução aquosa de HCl, o que provocou a reação química representada por NaHCO3 (s) + HCl (aq) → NaCl (aq) + CO2 (g) + H2O (l) Após a reação ter-se completado, a estudante aqueceu o sistema cuidadosamente, até que restasse apenas um sólido seco no tubo de ensaio. Deixou o sistema resfriar até a temperatura ambiente e o pesou novamente. A estudante anotou os resultados desse experimento em seu caderno, juntamente com dados obtidos consultando um manual de Química:\nDados obtidos no experimento:\nMassa do tubo de ensaio vazio: 8,70 g\nMassa do tubo de ensaio + NaHCO3(s): 11,20 g\nMassa do tubo de ensaio + produto sólido nele contido ao final do experimento: 10,45 g\nDados obtidos consultando um manual de Química:\nmassas molares (g/mol)\nH = 1,00, Na = 23,0, C = 12,0, Cl = 35,5, O = 16,0\nA estudante desejava determinar a massa de\nI. HCl que não reagiu;\nII. NaCl que se formou;\nIII. CO2 que se formou.\nConsiderando as anotações feitas pela estudante, é possível determinar a massa de",
+      principal: "Uma estudante de Química realizou o seguinte experimento: pesou um tubo de ensaio vazio, colocou nele um pouco de $1_{3}$ (s) e pesou novamente. Em seguida, adicionou ao tubo de ensaio excesso de solução aquosa de HCl, o que provocou a reação química representada por $1_{3}$ (s) + HCl (aq) → NaCl (aq) + $1_{2}$ (g) + $1_{2}O_{}$ (l) Após a reação ter-se completado, a estudante aqueceu o sistema cuidadosamente, até que restasse apenas um sólido seco no tubo de ensaio. Deixou o sistema resfriar até a temperatura ambiente e o pesou novamente. A estudante anotou os resultados desse experimento em seu caderno, juntamente com dados obtidos consultando um manual de Química:\nDados obtidos no experimento:\nMassa do tubo de ensaio vazio: 8,70 g\nMassa do tubo de ensaio + $1_{3}$(s): 11,20 g\nMassa do tubo de ensaio + produto sólido nele contido ao final do experimento: 10,45 g\nDados obtidos consultando um manual de Química:\nmassas molares (g/mol)\nH = 1,00, Na = 23,0, C = 12,0, Cl = 35,5, O = 16,0\nA estudante desejava determinar a massa de\nI. HCl que não reagiu;\nII. NaCl que se formou;\nIII. $1_{2}$ que se formou.\nConsiderando as anotações feitas pela estudante, é possível determinar a massa de",
       subItens: []
     },
     options: [],
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Soluções aquosas de ácido clorídrico, HCl (aq), e de ácido acético, H3CCOOH (aq), ambas de concentração 0,10 mol/L, apresentam valores de pH iguais a 1,0 e 2,9, respectivamente.\nEm experimentos separados, volumes iguais de cada uma dessas soluções foram titulados com uma solução aquosa de hidróxido de sódio, NaOH (aq), de concentração adequada. Nessas titulações, a solução de NaOH foi adicionada lentamente ao recipiente contendo a solução ácida, até reação completa. Sejam V₁ o volume da solução de NaOH para reação completa com a solução de HCl e V2 o volume da solução de NaOH para reação completa com a solução de H3CCOOH. A relação entre V₁ e V2 é",
+      principal: "Soluções aquosas de ácido clorídrico, HCl (aq), e de ácido acético, $1_{3}CCOOH_{}$ (aq), ambas de concentração 0,10 mol/L, apresentam valores de pH iguais a 1,0 e 2,9, respectivamente.\nEm experimentos separados, volumes iguais de cada uma dessas soluções foram titulados com uma solução aquosa de hidróxido de sódio, NaOH (aq), de concentração adequada. Nessas titulações, a solução de NaOH foi adicionada lentamente ao recipiente contendo a solução ácida, até reação completa. Sejam V₁ o volume da solução de NaOH para reação completa com a solução de HCl e $1_{2}_{}$ o volume da solução de NaOH para reação completa com a solução de $1_{3}CCOOH_{}$. A relação entre V₁ e $1_{2}_{}$ é",
       subItens: []
     },
     options: [],

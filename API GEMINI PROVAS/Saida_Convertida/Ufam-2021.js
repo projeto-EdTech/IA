@@ -336,7 +336,7 @@ createQuestion({
       principal: "Qual dos grupos a seguir deliberou pelo repasse financeiro para ajudar no combate às queimadas na Amazônia, em 2019?",
       subItens: []
     },
-    options: ["NAFTA","BRICS","APEC","CARICOM","G7"],
+    options: ["NAFTA","BRICS","APEC","CARICOM","$1_{7}_{}$"],
     correctAnswer: 4,
     materia: "Geografia – Geopolítica e Meio Ambiente",
     conteudo: "",
@@ -471,7 +471,7 @@ createQuestion({
       principal: "O que há de especial na membrana externa das mitocôndrias que permite a passagem de pequenas moléculas?",
       subItens: []
     },
-    options: ["Porinas","ATPase Na+/K+","Canais de Ca++ dependentes de voltagem","Excesso de colesterol","Complexos do poro"],
+    options: ["Porinas","ATPase $1^+$/K+","Canais de Ca++ dependentes de voltagem","Excesso de colesterol","Complexos do poro"],
     correctAnswer: 0,
     materia: "Biologia – Biologia Celular",
     conteudo: "",
@@ -528,7 +528,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "\"O manganês é um dos dez elementos mais abundantes na crosta terrestre, com concentrações geralmente superiores a 0,1% em peso na crosta continental média. Em ambientes naturais, a atividade hidrotérmica, intemperismo continental e precipitação química em soluções alcalinas são os principais processos responsáveis pela mobilidade do manganês. Similarmente aos óxidos / hidróxidos de Mn, os silicatos de Mn, como a braunita (fórmula geral 3Mn2O3 MnSiO3), são minerais muito comuns em diferentes ambientes geológicos porque sua formação ocorre por vários processos geológicos\".\nSinisi, Rosa et al. Ore Geology Reviews 94 (2018), p.1-11.\nDetermine a porcentagem de manganês na braunita e seus estados de oxidação na ordem de apresentação na fórmula química (Mn = 54,94; O = 15,99; Si = 28,08):",
+      principal: "\"O manganês é um dos dez elementos mais abundantes na crosta terrestre, com concentrações geralmente superiores a 0,1% em peso na crosta continental média. Em ambientes naturais, a atividade hidrotérmica, intemperismo continental e precipitação química em soluções alcalinas são os principais processos responsáveis pela mobilidade do manganês. Similarmente aos óxidos / hidróxidos de Mn, os silicatos de Mn, como a braunita (fórmula geral 3Mn2O3 $1_{3}$), são minerais muito comuns em diferentes ambientes geológicos porque sua formação ocorre por vários processos geológicos\".\nSinisi, Rosa et al. Ore Geology Reviews 94 (2018), p.1-11.\nDetermine a porcentagem de manganês na braunita e seus estados de oxidação na ordem de apresentação na fórmula química (Mn = 54,94; O = 15,99; Si = 28,08):",
       subItens: []
     },
     options: ["9,1%; +3; +3","16,0%; +2; +3","28,0%; +3; +2","54,94%; +2; +3","63,6%; +3; +2"],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "Considerando as moléculas SCI2, SO3 e SOCI2, assinale a alternativa que indica as geometrias dessas moléculas, na ordem dada:",
+      principal: "Considerando as moléculas $1_{2}$, $1_{3}$ e $1_{2}$, assinale a alternativa que indica as geometrias dessas moléculas, na ordem dada:",
       subItens: []
     },
     options: ["Linear, trigonal plana, trigonal piramidal","Linear, trigonal piramidal, trigonal plana","Angular, trigonal plana, linear","Angular, trigonal plana, trigonal piramidal","Angular, trigonal piramidal, trigonal plana"],

@@ -228,7 +228,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Um aldeído pode ser transformado em um aminoácido pela sequência de reações:\n(Diagrama de reações: R-CHO -> R-CN -> R-COOH)\nO aminoácido N-metil-fenilalanina pode ser obtido pela mesma sequência reacional, empregando-se, em lugar do cloreto de amônio (NH₄Cl), o reagente CH₃NH₃Cl. Nessa transformação, o aldeído que deve ser empregado é",
+      principal: "Um aldeído pode ser transformado em um aminoácido pela sequência de reações:\n(Diagrama de reações: R-$$CHO \rightarrow R$$-$$CN \rightarrow R$$-COOH)\nO aminoácido N-metil-fenilalanina pode ser obtido pela mesma sequência reacional, empregando-se, em lugar do cloreto de amônio (NH₄Cl), o reagente CH₃NH₃Cl. Nessa transformação, o aldeído que deve ser empregado é",
       subItens: []
     },
     options: ["Estrutura A","Estrutura B","Estrutura C","Estrutura D","Estrutura E"],
@@ -288,10 +288,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Sabe-se que os metais ferro (Feº), magnésio (Mgº) e estanho (Snº) reagem com soluções de ácidos minerais, liberando gás hidrogênio e formando íons divalentes em solução. Foram feitos três experimentos em que três amostras metálicas de mesma massa reagiram, separada e completamente, com uma solução aquosa de ácido clorídrico (HCl (aq)) de concentração 0,1 mol/L. Os resultados obtidos foram:\nTabela:\nExperimento Massa da amostra metálica (g) Composição da amostra metálica Volume da solução de HCl (aq) (0,1 mol/L) gasto na reação completa\n1           5,6                  Feº puro                       V1\n2           5,6                  Feº contendo Mgº como impureza      V2\n3           5,6                  Feº contendo Snº como impureza      V3\nColocando-se os valores de V1, V2 e V3 em ordem decrescente, obtém-se\nNote e adote:\nMassa molar (g/mol): Mg ........ 24\nFe ........ 56\nSn ........ 119",
+      principal: "Sabe-se que os metais ferro (Feº), magnésio (Mgº) e estanho (Snº) reagem com soluções de ácidos minerais, liberando gás hidrogênio e formando íons divalentes em solução. Foram feitos três experimentos em que três amostras metálicas de mesma massa reagiram, separada e completamente, com uma solução aquosa de ácido clorídrico (HCl (aq)) de concentração 0,1 mol/L. Os resultados obtidos foram:\nTabela:\nExperimento Massa da amostra metálica (g) Composição da amostra metálica Volume da solução de HCl (aq) (0,1 mol/L) gasto na reação completa\$1_{1}$           5,6                  Feº puro                       $1_{1}_{}$\$1_{2}$           5,6                  Feº contendo Mgº como impureza      $1_{2}_{}$\$1_{3}$           5,6                  Feº contendo Snº como impureza      $1_{3}_{}$\nColocando-se os valores de $1_{1}_{}$, $1_{2}_{}$ e $1_{3}_{}$ em ordem decrescente, obtém-se\nNote e adote:\nMassa molar (g/mol): Mg ........ 24\nFe ........ 56\nSn ........ 119",
       subItens: []
     },
-    options: ["V2 > V3 > V1","V3 > V1 > V2","V1 > V3 > V2","V2 > V1 > V3","V1 > V2 > V3"],
+    options: ["$1_{2}_{}$ > $1_{3}_{}$ > $1_{1}_{}$","$1_{3}_{}$ > $1_{1}_{}$ > $1_{2}_{}$","$1_{1}_{}$ > $1_{3}_{}$ > $1_{2}_{}$","$1_{2}_{}$ > $1_{1}_{}$ > $1_{3}_{}$","$1_{1}_{}$ > $1_{2}_{}$ > $1_{3}_{}$"],
     correctAnswer: 3,
     materia: "",
     conteudo: "",
@@ -318,7 +318,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "O fleróvio (Fl) é um elemento químico artificial, de número atômico 114. Na tabela periódica, está situado imediatamente abaixo do elemento de número atômico 82, que é o chumbo (Pb), como é mostrado na figura a seguir:\n(Recorte da tabela periódica mostrando Fl abaixo de Pb)\nAté o momento, só foi possível sintetizar poucos átomos de fleróvio na forma dos isótopos 288 e 289, pela fusão dos elementos plutônio e cálcio em um acelerador de partículas. Para o fleróvio-289, o processo de síntese pode ser representado pela equação nuclear a seguir: Pu-244 + Ca-48 -> Fl-289 + 3n. Considere as seguintes afirmações: I. A aparência macroscópica do fleróvio é desconhecida, mas, provavelmente, será a de um sólido metálico. II. Na formação do fleróvio-288, por processo análogo ao da síntese do fleróvio-289, são liberados 3 prótons. III. No grupo da tabela periódica ao qual pertence o fleróvio, há elementos que formam óxidos covalentes. É correto o que se afirma apenas em",
+      principal: "O fleróvio (Fl) é um elemento químico artificial, de número atômico 114. Na tabela periódica, está situado imediatamente abaixo do elemento de número atômico 82, que é o chumbo (Pb), como é mostrado na figura a seguir:\n(Recorte da tabela periódica mostrando Fl abaixo de Pb)\nAté o momento, só foi possível sintetizar poucos átomos de fleróvio na forma dos isótopos 288 e 289, pela fusão dos elementos plutônio e cálcio em um acelerador de partículas. Para o fleróvio-289, o processo de síntese pode ser representado pela equação nuclear a seguir: Pu-244 + Ca-$$48 \rightarrow F$$l-289 + 3n. Considere as seguintes afirmações: I. A aparência macroscópica do fleróvio é desconhecida, mas, provavelmente, será a de um sólido metálico. II. Na formação do fleróvio-288, por processo análogo ao da síntese do fleróvio-289, são liberados 3 prótons. III. No grupo da tabela periódica ao qual pertence o fleróvio, há elementos que formam óxidos covalentes. É correto o que se afirma apenas em",
       subItens: []
     },
     options: ["I.","II.","III.","I e III.","II e III."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Uma garrafa tem um cilindro afixado em sua boca, no qual um êmbolo pode se movimentar sem atrito, mantendo constante a massa de ar dentro da garrafa, como ilustra a figura. Inicialmente, o sistema está em equilíbrio à temperatura de 27 °C. O volume de ar na garrafa é igual a 600 cm³ e o êmbolo tem uma área transversal igual a 3 cm². Na condição de equilíbrio, com a pressão atmosférica constante, para cada 1 °C de aumento da temperatura do sistema, o êmbolo subirá aproximadamente\nNote e adote:\n0 °C = 273 K\nConsidere o ar da garrafa como um gás ideal.",
+      principal: "Uma garrafa tem um cilindro afixado em sua boca, no qual um êmbolo pode se movimentar sem atrito, mantendo constante a massa de ar dentro da garrafa, como ilustra a figura. Inicialmente, o sistema está em equilíbrio à temperatura de 27 °C. O volume de ar na garrafa é igual a 600 cm³ e o êmbolo tem uma área transversal igual a 3 cm². Na condição de equilíbrio, com a pressão atmosférica constante, para cada 1 °C de aumento da temperatura do sistema, o êmbolo subirá aproximadamente\nNote e adote:\$1_{0}$ °C = 273 K\nConsidere o ar da garrafa como um gás ideal.",
       subItens: []
     },
     options: ["0,7 cm","1,4 cm","2,1 cm","3,0 cm","6,0 cm"],
@@ -453,7 +453,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "O elétron e sua antipartícula, o pósitron, possuem massas iguais e cargas opostas. Em uma reação em que o elétron e o pósitron, em repouso, se aniquilam, dois fótons de mesma energia são emitidos em sentidos opostos. A energia de cada fóton produzido é, em MeV, aproximadamente,\nNote e adote:\nRelação de Einstein entre energia (E) e massa (m): E = mc²\nMassa do elétron = 9 × 10⁻³¹ kg\nVelocidade da luz c = 3,0 x 10⁸ m/s\n1 eV = 1,6 x 10⁻¹⁹ J\n1 MeV = 10⁶ eV\nNo processo de aniquilação, toda a massa das partículas é transformada em energia dos fótons.",
+      principal: "O elétron e sua antipartícula, o pósitron, possuem massas iguais e cargas opostas. Em uma reação em que o elétron e o pósitron, em repouso, se aniquilam, dois fótons de mesma energia são emitidos em sentidos opostos. A energia de cada fóton produzido é, em MeV, aproximadamente,\nNote e adote:\nRelação de Einstein entre energia (E) e massa (m): E = mc²\nMassa do elétron = 9 × 10⁻³¹ kg\nVelocidade da luz c = 3,0 x 10⁸ m/s\$1_{1}$ eV = 1,6 x 10⁻¹⁹ J\$1_{1}$ MeV = 10⁶ eV\nNo processo de aniquilação, toda a massa das partículas é transformada em energia dos fótons.",
       subItens: []
     },
     options: ["0,3","0,5","0,8","1,6","3,2"],
@@ -498,7 +498,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Chumaços de algodão embebidos em uma solução de vermelho de cresol, de cor rosa, foram colocados em três recipientes de vidro, I, II e III, idênticos e transparentes. Em I e II, havia plantas e, em III, rãs. Os recipientes foram vedados e iluminados durante um mesmo intervalo de tempo com luz de mesma intensidade, sendo que I e III foram iluminados com luz de frequência igual a 7,0 x 10¹⁴ Hz, e II, com luz de frequência igual a 5,0 x 10¹⁴ Hz. O gráfico mostra a taxa de fotossíntese das clorofilas a e b em função do comprimento de onda da radiação eletromagnética. Considere que, para essas plantas, o ponto de compensação fótica corresponde a 20% do percentual de absorção.\n(Gráfico: Percentual de absorção vs. Comprimento de onda para Clorofila a e Clorofila b)\nÉ correto afirmar que, após o período de iluminação, as cores dos chumaços de algodão embebidos em solução de cresol dos recipientes I, II e III ficaram, respectivamente,\nNote e adote:\nAs plantas e as rãs permaneceram vivas durante o experimento.\nAs cores da solução de cresol em ambientes com dióxido de carbono com concentração menor, igual e maior que a da atmosfera são, respectivamente, roxa, rosa e amarela.\nVelocidade da luz = 3 x 10⁸ m/s\n1 nm = 10⁻⁹ m",
+      principal: "Chumaços de algodão embebidos em uma solução de vermelho de cresol, de cor rosa, foram colocados em três recipientes de vidro, I, II e III, idênticos e transparentes. Em I e II, havia plantas e, em III, rãs. Os recipientes foram vedados e iluminados durante um mesmo intervalo de tempo com luz de mesma intensidade, sendo que I e III foram iluminados com luz de frequência igual a 7,0 x 10¹⁴ Hz, e II, com luz de frequência igual a 5,0 x 10¹⁴ Hz. O gráfico mostra a taxa de fotossíntese das clorofilas a e b em função do comprimento de onda da radiação eletromagnética. Considere que, para essas plantas, o ponto de compensação fótica corresponde a 20% do percentual de absorção.\n(Gráfico: Percentual de absorção vs. Comprimento de onda para Clorofila a e Clorofila b)\nÉ correto afirmar que, após o período de iluminação, as cores dos chumaços de algodão embebidos em solução de cresol dos recipientes I, II e III ficaram, respectivamente,\nNote e adote:\nAs plantas e as rãs permaneceram vivas durante o experimento.\nAs cores da solução de cresol em ambientes com dióxido de carbono com concentração menor, igual e maior que a da atmosfera são, respectivamente, roxa, rosa e amarela.\nVelocidade da luz = 3 x 10⁸ m/s\$1_{1}$ nm = 10⁻⁹ m",
       subItens: []
     },
     options: ["roxa, amarela e amarela.","roxa, rosa e amarela.","rosa, roxa e amarela.","amarela, amarela e roxa.","roxa, roxa e rosa."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "A escolha do local para instalação de parques eólicos depende, dentre outros fatores, da velocidade média dos ventos que sopram na região. Examine este mapa das diferentes velocidades médias de ventos no Brasil e, em seguida, o gráfico da potência fornecida por um aerogerador em função da velocidade do vento.\n(Mapa: Brasil - Velocidade Média dos Ventos)\n(Gráfico: Potência (kW) vs. Velocidade do vento (m/s))\nDe acordo com as informações fornecidas, esse aerogerador poderia produzir, em um ano, 8,8 GWh de energia, se fosse instalado no\nNote e adote:\n1 GW = 10⁹ W\n1 ano = 8800 horas",
+      principal: "A escolha do local para instalação de parques eólicos depende, dentre outros fatores, da velocidade média dos ventos que sopram na região. Examine este mapa das diferentes velocidades médias de ventos no Brasil e, em seguida, o gráfico da potência fornecida por um aerogerador em função da velocidade do vento.\n(Mapa: Brasil - Velocidade Média dos Ventos)\n(Gráfico: Potência (kW) vs. Velocidade do vento (m/s))\nDe acordo com as informações fornecidas, esse aerogerador poderia produzir, em um ano, 8,8 GWh de energia, se fosse instalado no\nNote e adote:\$1_{1}$ GW = 10⁹ W\$1_{1}$ ano = 8800 horas",
       subItens: []
     },
     options: ["noroeste do Pará.","nordeste do Amapá.","sudoeste do Rio Grande do Norte.","sudeste do Tocantins.","leste da Bahia."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "No esquema abaixo, está representada uma via metabólica; o produto de cada reação química, catalisada por uma enzima específica, é o substrato para a reação seguinte.\n(Diagrama de via metabólica: Substrato 1 (Enzima A, Gene A) -> Substrato 2 (Enzima B, Gene B) -> Substrato 3 (Enzima C, Gene C) -> Produto final)\nNum indivíduo que possua alelos mutantes que levem à perda de função do gene",
+      principal: "No esquema abaixo, está representada uma via metabólica; o produto de cada reação química, catalisada por uma enzima específica, é o substrato para a reação seguinte.\n(Diagrama de via metabólica: Substrato 1 (Enzima A, Gene$$ A) \rightarrow S$$ubstrato 2 (Enzima B, Gene$$ B) \rightarrow S$$ubstrato 3 (Enzima C, Gene$$ C) \rightarrow P$$roduto final)\nNum indivíduo que possua alelos mutantes que levem à perda de função do gene",
       subItens: []
     },
     options: ["A, ocorrem falta do substrato 1 e acúmulo do substrato 2.","C, não há síntese dos substratos 2 e 3.","A, não há síntese do produto final.","A, o fornecimento do substrato 2 não pode restabelecer a síntese do produto final.","B, o fornecimento do substrato 2 pode restabelecer a síntese do produto final."],

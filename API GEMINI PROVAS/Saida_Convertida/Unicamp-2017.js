@@ -18,7 +18,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "ABELHAS TRABALHADORAS DO MUNDO!! ZUNI-VOS ZZZZZZZ\n(Fernando Gonsales, Níquel Náusea. Disponível em http://www2.uol.com.br/niquel. Acessado em 15/07/2016.)\nNa tira acima, o autor retoma um célebre lema retirado do Manifesto Comunista (1848), de Karl Marx e Friedrich Engels: \"Operários do mundo, uni-vos!\".\nConsiderando os sentidos produzidos pela tirinha, é correto afirmar que nela se lê",
+      principal: "ABELHAS TRABALHADORAS DO MUNDO!! ZUNI-VOS ZZZZZZZ\n(Fernando Gonsales, Níquel Náusea. Disponível em http://$1_{2}$.uol.com.br/niquel. Acessado em 15/07/2016.)\nNa tira acima, o autor retoma um célebre lema retirado do Manifesto Comunista (1848), de Karl Marx e Friedrich Engels: \"Operários do mundo, uni-vos!\".\nConsiderando os sentidos produzidos pela tirinha, é correto afirmar que nela se lê",
       subItens: []
     },
     options: ["uma apologia ao Manifesto Comunista, atenuada pela onomatopeia que imita o som (\"zzzzzz”) das abelhas.","uma paródia do lema do Manifesto Comunista, baseada na semelhança fonética entre \"uni-vos” e “zuni-vos\".","uma parábola para explicar o Manifesto Comunista por meio da semelhança fonética entre \"uni-vos\" e \"zuni-vos\".","uma fábula que recria o lema do Manifesto Comunista, com base na linguagem onomatopaica das abelhas (\"zzzzzz\")."],
@@ -288,10 +288,10 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Sendo a um número real, considere a matriz A=\n(1 a\n0-1). Então, A2017 é igual a",
+      principal: "Sendo a um número real, considere a matriz A=\n(1 a\$1_{0}$-1). Então, $1_{2017}_{}$ é igual a",
       subItens: []
     },
-    options: ["(1 0\n0 1).","(1 a\n0 -1).","(1 1\n1 1).","(1 a2017\n0 -1)."],
+    options: ["(1 0\$1_{0}$ 1).","(1 a\$1_{0}$ -1).","(1 1\$1_{1}$ 1).","(1 $1_{2017}$\$1_{0}$ -1)."],
     correctAnswer: 1,
     materia: "Matemática – Matrizes",
     conteudo: "",
@@ -378,7 +378,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Considere o triângulo retângulo ABD exibido na figura abaixo, em que AB = 2 cm, BC = 1 cm e CD = 5 cm. Então, o ângulo θ é igual a\n[Imagem de um triângulo retângulo ABD com um ponto C na hipotenusa BD, formando BC e CD. Ângulo theta em A.]",
+      principal: "Considere o triângulo retângulo ABD exibido na figura abaixo, em que AB = 2 cm, BC = 1 cm e CD = 5 cm. Então, o ângulo θ é igual a\n[Imagem de um triângulo retângulo ABD com um ponto C na hipotenusa BD, formando BC e CD. Ângulo \theta em A.]",
       subItens: []
     },
     options: ["15°.","30°.","45°.","60°."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Ironia ao natural\nÉ natural,\né bom\ne quanto mais melhor,\ncomo os cogumelos\nvermelhos,\nas rãs azuis\nou o suco de serpente...\nÉ químico,\nprocessado,\né mau,\ncomo a\naspirina,\num perfume\nou o plástico\nda válvula\ncardíaca\nde um coração...\n(João Paiva, quase poesia quase química. Sociedade Portuguesa de Química, 2012, p.15. Disponível em www.spq.pt/files/docs/boletim/poesia/quase-poesia-quase-quimica-jpaiva2012.pdf. Acessado em 06/07/2016.)\nNesse poema, há",
+      principal: "Ironia ao natural\nÉ natural,\né bom\ne quanto mais melhor,\ncomo os cogumelos\nvermelhos,\nas rãs azuis\nou o suco de serpente...\nÉ químico,\nprocessado,\né mau,\ncomo a\naspirina,\num perfume\nou o plástico\nda válvula\ncardíaca\nde um coração...\n(João Paiva, quase poesia quase química. Sociedade Portuguesa de Química, 2012, p.15. Disponível em www.spq.pt/files/docs/boletim/poesia/quase-poesia-quase-quimica-$1_{2012}$.pdf. Acessado em 06/07/2016.)\nNesse poema, há",
       subItens: []
     },
     options: ["inversão dos atributos do que seria bom na natureza e do que seria ruim nos processados, de modo a, ironicamente, ressaltar a importância da química.","comparação entre o lado bom dos produtos naturais e o lado ruim dos produtos processados, de modo a ressaltar, efusivamente, o perigo da química.","demonstração do lado bom dos produtos naturais e o lado ruim dos produtos processados, sem, contudo, realizar uma crítica em relação à química.","elogio aos produtos naturais, reforçando-se a ideia de consumirmos mais desses produtos em detrimento de produtos processados com o auxílio da química."],
@@ -1113,7 +1113,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Muitos problemas sociais e ambientais têm-se tornado motivo de piadas e alvo de charges em jornais e revistas. Um exemplo deste tipo está mostrado nas figuras abaixo.\n[Duas charges sobre contaminação de leite]\n(Disponível emhttp://josiasdesouza.folha.blog.uol.com.br/arch2007-10-01_2007-10-31.html. Acessado em 25/10/2016.)\nLevando em conta as informações abstraídas das figuras, depreende-se que as charges remetem a um problema recorrente de contaminação de",
+      principal: "Muitos problemas sociais e ambientais têm-se tornado motivo de piadas e alvo de charges em jornais e revistas. Um exemplo deste tipo está mostrado nas figuras abaixo.\n[Duas charges sobre contaminação de leite]\n(Disponível emhttp://josiasdesouza.folha.blog.uol.com.br/$1_{2007}$-10-01_2007-10-31.html. Acessado em 25/10/2016.)\nLevando em conta as informações abstraídas das figuras, depreende-se que as charges remetem a um problema recorrente de contaminação de",
       subItens: []
     },
     options: ["leite, sendo que a figura da esquerda diz respeito ao acerto da acidez, e a da direita diz respeito à eliminação de microrganismos.","leite, sendo que a figura da esquerda diz respeito à eliminação de microrganismos, e a da direita diz respeito ao acerto da acidez.","dois produtos, por leite, sendo que a figura da esquerda diz respeito à contaminação de hidróxido de sódio, e a da direita diz respeito à contaminação de peróxido de hidrogênio.","hidróxido de sódio, por leite, na figura da esquerda, e a figura da direita não diz respeito à contaminação de nenhum produto."],

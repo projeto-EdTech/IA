@@ -3,7 +3,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2020,
     text: {
-      principal: "Considere o cruzamento parental entre dois indivíduos de linhagens puras e contrastantes para duas características: pelos pretos e longos x pelos brancos e curtos. A geração F1 era constituída por 100% de indivíduos com pelos pretos e longos. Considerando que as características de cor e comprimento dos pelos são condicionadas cada uma por um gene e que esses genes têm segregação independente, a proporção esperada entre 240 indivíduos da F2 é:",
+      principal: "Considere o cruzamento parental entre dois indivíduos de linhagens puras e contrastantes para duas características: pelos pretos e longos x pelos brancos e curtos. A geração $1_{1}_{}$ era constituída por 100% de indivíduos com pelos pretos e longos. Considerando que as características de cor e comprimento dos pelos são condicionadas cada uma por um gene e que esses genes têm segregação independente, a proporção esperada entre 240 indivíduos da $1_{2}_{}$ é:",
       subItens: []
     },
     options: ["135 pelos pretos e longos – 45 pelos pretos e curtos – 45 pelos brancos e curtos - 15 pelos brancos e longos.","180 pelos pretos e longos – 60 pelos brancos e curtos.","135 pelos pretos e longos – 45 pelos pretos e curtos – 45 pelos brancos e longos – 15 pelos brancos e curtos.","180 pelos pretos e curtos – 60 pelos pretos e longos.","135 pelos pretos e curtos - 105 pelos brancos e longos."],

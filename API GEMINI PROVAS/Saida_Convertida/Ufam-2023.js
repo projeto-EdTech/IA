@@ -18,7 +18,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Leia o poema intitulado \"Língua Portuguesa\", de autoria de Olavo Bilac:\n01 Última flor do Lácio, inculta e bela,\nÉs, a um tempo, esplendor e sepultura:\nOuro nativo que, na ganga impura,\n04 A bruta mina entre os cascalhos vela.\nAmo-te assim, desconhecida e obscura,\nTuba de alto clangor, lira singela,\nQue tens o trom e o silvo da procela,\n08 E o arrolo da saudade e da ternura!\nAmo o teu viço agreste e o teu aroma\nDe virgens selvas e de oceano largo!\n11 Amo-te, ó rude e doloroso idioma,\nEm que da voz materna ouvi: \"meu filho!\"\nE em que Camões chorou, no exílio amargo,\n14 O gênio sem ventura e o amor sem brilho!\nSobre o poema, leia agora as afirmativas a seguir:\nI. O Lácio (verso 01) é a região da península Ibérica onde a língua portuguesa nasceu, antes de ser trazida para o Brasil.\nII. Pode-se entender a referência ao “oceano largo\" (verso 10) como a expansão marítima de Portugal.\nIII. Apesar de não ser uma língua admirável, por ser contraditória (como se vê nos versos 07 e 08 – \"silvo da procela\" e \"ternura\"), o poeta a ama.\nIV. Ao dizer que a língua portuguesa é “esplendor e sepultura\" (verso 02), Ο poeta se refere, respectivamente, ao desenvolvimento de nosso idioma e ao latim.\nAssinale a alternativa CORRETA:",
+      principal: "Leia o poema intitulado \"Língua Portuguesa\", de autoria de Olavo Bilac:\$1_{01}$ Última flor do Lácio, inculta e bela,\nÉs, a um tempo, esplendor e sepultura:\nOuro nativo que, na ganga impura,\$1_{04}$ A bruta mina entre os cascalhos vela.\nAmo-te assim, desconhecida e obscura,\nTuba de alto clangor, lira singela,\nQue tens o trom e o silvo da procela,\$1_{08}$ E o arrolo da saudade e da ternura!\nAmo o teu viço agreste e o teu aroma\nDe virgens selvas e de oceano largo!\$1_{11}$ Amo-te, ó rude e doloroso idioma,\nEm que da voz materna ouvi: \"meu filho!\"\nE em que Camões chorou, no exílio amargo,\$1_{14}$ O gênio sem ventura e o amor sem brilho!\nSobre o poema, leia agora as afirmativas a seguir:\nI. O Lácio (verso 01) é a região da península Ibérica onde a língua portuguesa nasceu, antes de ser trazida para o Brasil.\nII. Pode-se entender a referência ao “oceano largo\" (verso 10) como a expansão marítima de Portugal.\nIII. Apesar de não ser uma língua admirável, por ser contraditória (como se vê nos versos 07 e 08 – \"silvo da procela\" e \"ternura\"), o poeta a ama.\nIV. Ao dizer que a língua portuguesa é “esplendor e sepultura\" (verso 02), Ο poeta se refere, respectivamente, ao desenvolvimento de nosso idioma e ao latim.\nAssinale a alternativa CORRETA:",
       subItens: []
     },
     options: ["Somente as afirmativas I, II e IV são verdadeiras.","Somente as afirmativas I e III são verdadeiras.","Somente as afirmativas I, III e IV são verdadeiras.","Somente as afirmativas II e III são verdadeiras.","Somente as afirmativas II e IV são verdadeiras."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Com o tema Unindo o mundo para enfrentar as mudanças climáticas, a Conferência das Nações Unidas sobre as Mudanças Climáticas (COP26), realizada em Glasgow (Reino Unido), em novembro de 2021, reuniu representantes de cerca de 200 governos com o objetivo de acelerar a ação climática para cumprir o Acordo de Paris. De acordo com documento que contém as diretrizes de ação política acordadas por todos os países presentes, o pacto inclui os seguintes acordos, EXCETO:\na) Acelerar a transição para veículos não poluentes até 2040 e em mercados líderes até 2035.\nb) Eliminar o uso de carvão mineral entre as décadas de 2030 e 2040.\nc) Reduzir as emissões de gás metano.\nd) Reduzir em 2030 as emissões de dióxido nitroso em 45%, em relação aos níveis de 2010, e chegar a zero emissões líquidas em 2050.\ne) Zerar o desmatamento global até 2030.",
+      principal: "Com o tema Unindo o mundo para enfrentar as mudanças climáticas, a Conferência das Nações Unidas sobre as Mudanças Climáticas ($1_{26}$), realizada em Glasgow (Reino Unido), em novembro de 2021, reuniu representantes de cerca de 200 governos com o objetivo de acelerar a ação climática para cumprir o Acordo de Paris. De acordo com documento que contém as diretrizes de ação política acordadas por todos os países presentes, o pacto inclui os seguintes acordos, EXCETO:\na) Acelerar a transição para veículos não poluentes até 2040 e em mercados líderes até 2035.\nb) Eliminar o uso de carvão mineral entre as décadas de 2030 e 2040.\nc) Reduzir as emissões de gás metano.\nd) Reduzir em 2030 as emissões de dióxido nitroso em 45%, em relação aos níveis de 2010, e chegar a zero emissões líquidas em 2050.\ne) Zerar o desmatamento global até 2030.",
       subItens: []
     },
     options: ["Acelerar a transição para veículos não poluentes até 2040 e em mercados líderes até 2035.","Eliminar o uso de carvão mineral entre as décadas de 2030 e 2040.","Reduzir as emissões de gás metano.","Reduzir em 2030 as emissões de dióxido nitroso em 45%, em relação aos níveis de 2010, e chegar a zero emissões líquidas em 2050.","Zerar o desmatamento global até 2030."],
@@ -468,10 +468,10 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Sobre a respiração celular, é INCORRETO afirmar que:\na) na fermentação lática, tem-se como saldo energético apenas duas moléculas ATP por molécula de glicose oxidada.\nb) a via glicolítica tem como saldo energético apenas duas moléculas ATP por molécula de glicose oxidada.\nc) nos mamíferos, as hemácias não possuem mitocondrias.\nd) na fermentação alcoólica há liberação de duas moléculas de CO2 e formação de etanol.\ne) as células vegetais não respiram, apenas realizam fotossíntese.",
+      principal: "Sobre a respiração celular, é INCORRETO afirmar que:\na) na fermentação lática, tem-se como saldo energético apenas duas moléculas ATP por molécula de glicose oxidada.\nb) a via glicolítica tem como saldo energético apenas duas moléculas ATP por molécula de glicose oxidada.\nc) nos mamíferos, as hemácias não possuem mitocondrias.\nd) na fermentação alcoólica há liberação de duas moléculas de $1_{2}$ e formação de etanol.\ne) as células vegetais não respiram, apenas realizam fotossíntese.",
       subItens: []
     },
-    options: ["na fermentação lática, tem-se como saldo energético apenas duas moléculas ATP por molécula de glicose oxidada.","a via glicolítica tem como saldo energético apenas duas moléculas ATP por molécula de glicose oxidada.","nos mamíferos, as hemácias não possuem mitocondrias.","na fermentação alcoólica há liberação de duas moléculas de CO2 e formação de etanol.","as células vegetais não respiram, apenas realizam fotossíntese."],
+    options: ["na fermentação lática, tem-se como saldo energético apenas duas moléculas ATP por molécula de glicose oxidada.","a via glicolítica tem como saldo energético apenas duas moléculas ATP por molécula de glicose oxidada.","nos mamíferos, as hemácias não possuem mitocondrias.","na fermentação alcoólica há liberação de duas moléculas de $1_{2}$ e formação de etanol.","as células vegetais não respiram, apenas realizam fotossíntese."],
     correctAnswer: 4,
     materia: "Biologia – Metabolismo energético (Respiração celular, Fermentação, Glicólise)",
     conteudo: "",
@@ -501,7 +501,7 @@ createQuestion({
       principal: "As deficiências de vitaminas podem provocar várias enfermidades. Considere os seguintes sintomas causados por carência de vitaminas:\nI. Anemia perniciosa.\nII. Deficiência na coagulação sanguínea.\nIII. Raquitismo na infância.\nIV. Escorbuto.\nAssinale a alternativa que relaciona CORRETAMENTE os sintomas que estão associados às carências de vitaminas:",
       subItens: []
     },
-    options: ["I: vitamina B12; II: vitamina K; III: vitamina D; IV: vitamina C","I: vitamina B3; II: vitamina K; III: vitamina B7; IV: vitamina A","I: vitamina B1; II: vitamina A; III: vitamina B2; IV: vitamina C","I: vitamina C; II: vitamina D; III: vitamina A; IV: vitamina B6","I: vitamina A; II: vitamina C; III: biotina; IV: vitamina K"],
+    options: ["I: vitamina $1_{12}_{}$; II: vitamina K; III: vitamina D; IV: vitamina C","I: vitamina $1_{3}_{}$; II: vitamina K; III: vitamina $1_{7}_{}$; IV: vitamina A","I: vitamina $1_{1}_{}$; II: vitamina A; III: vitamina $1_{2}_{}$; IV: vitamina C","I: vitamina C; II: vitamina D; III: vitamina A; IV: vitamina $1_{6}_{}$","I: vitamina A; II: vitamina C; III: biotina; IV: vitamina K"],
     correctAnswer: 0,
     materia: "Biologia – Fisiologia humana (Vitaminas e deficiências)",
     conteudo: "",
@@ -558,7 +558,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Considere os seguintes compostos:\nI. NH3\nII. BF3\nIII. SCl2\nIV. H2O\nV. CO2\nVI. CH4\nAssinale a alternativa que indica os compostos que têm a mesma geometria molecular:",
+      principal: "Considere os seguintes compostos:\nI. $1_{3}$\nII. $1_{3}$\nIII. $1_{2}$\nIV. $1_{2}O_{}$\nV. $1_{2}$\nVI. $1_{4}$\nAssinale a alternativa que indica os compostos que têm a mesma geometria molecular:",
       subItens: []
     },
     options: ["Somente os compostos I e II.","Somente os compostos I e VI.","Somente os compostos III e IV.","Somente os compostos III e V.","Somente os compostos III, IV e V."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Na tabela a seguir são apresentados os produtos comerciais/industriais e as funções inorgânicas:\nProduto comercial/industrial\nI. Cal\nII. Detergente\nIII. Fertilizante\nIV. Leite de magnésia\nV. Mármore\nVI. Solução de bateria\nFunção inorgânica\n1. Ácido\n2. Base\n3. Óxido\n4. Sal\nConsiderando a substância ativa conhecida, correlacione, CORRETAMENTE, cada produto comercial/industrial com a respectiva função inorgânica:",
+      principal: "Na tabela a seguir são apresentados os produtos comerciais/industriais e as funções inorgânicas:\nProduto comercial/industrial\nI. Cal\nII. Detergente\nIII. Fertilizante\nIV. Leite de magnésia\nV. Mármore\nVI. Solução de bateria\nFunção inorgânica\$1_{1}$. Ácido\$1_{2}$. Base\$1_{3}$. Óxido\$1_{4}$. Sal\nConsiderando a substância ativa conhecida, correlacione, CORRETAMENTE, cada produto comercial/industrial com a respectiva função inorgânica:",
       subItens: []
     },
     options: ["1-2; II -3; III – 4; IV – 2; V – 1; VI – 4","1-3; II – 2; III – 1; IV – 4; V – 3; VI – 4","1-2; II-3; III – 4; IV – 2; V – 3; VI – 1","1-3; II-2; III – 4; IV – 2; V – 4; VI – 1","1-2; II-3; III – 4; IV – 2; V – 1; VI – 4"],

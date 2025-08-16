@@ -471,7 +471,7 @@ createQuestion({
       principal: "Em relação à fotossíntese é INCORRETO afirmar:",
       subItens: []
     },
-    options: ["ATP e NADPH são produtos da reação de claro que serão consumidos no ciclo de Calvin.","A cadeia transportadora de elétrons se encontra na membrana dos tilacoides dos cloroplastos.","A função primária do ciclo de Kalvin é sintetizar carboidratos simples.","A sequência que representa corretamente o fluxo de elétrons durante a fotossíntese é: H2O → NADPH → ciclo de Calvin.","As moléculas de ATP que são produzidas na fotossíntese são usadas na respiração."],
+    options: ["ATP e NADPH são produtos da reação de claro que serão consumidos no ciclo de Calvin.","A cadeia transportadora de elétrons se encontra na membrana dos tilacoides dos cloroplastos.","A função primária do ciclo de Kalvin é sintetizar carboidratos simples.","A sequência que representa corretamente o fluxo de elétrons durante a fotossíntese é: $1_{2}O_{}$ → NADPH → ciclo de Calvin.","As moléculas de ATP que são produzidas na fotossíntese são usadas na respiração."],
     correctAnswer: 4,
     materia: "Biologia – Bioenergética",
     conteudo: "Biologia – Fotossíntese",
@@ -558,7 +558,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "As reações químicas são alterações que ocorrem nas moléculas: na forma como estão constituídas, como seus átomos estão agrupados etc. Observam-se nas reações químicas algumas uniformidades. Certas regras servem para classificá-las, uma das quais relaciona as classes de substâncias que reagem (reagentes) e as classes de substâncias formadas (produtos). A seguir são mostradas reações que têm em comum o ácido sulfúrico (H2SO4) como um dos reagentes:\n\nI. H2SO4 + Na2CO3 → Na2SO4 + H2O +CO2\nII. 2H2SO4 + Cu → CuSO4 + 2H2O +SO2\nIII. H2SO4 +2K2CrO4 → K2Cr2O7 + K2SO4 + H2O\nIV. H2SO4 + 2NH3 → (NH4)2SO4\n\nObservando as reações anteriores, qual(is) equação(ões) representa(m) uma reação de oxidação-redução?",
+      principal: "As reações químicas são alterações que ocorrem nas moléculas: na forma como estão constituídas, como seus átomos estão agrupados etc. Observam-se nas reações químicas algumas uniformidades. Certas regras servem para classificá-las, uma das quais relaciona as classes de substâncias que reagem (reagentes) e as classes de substâncias formadas (produtos). A seguir são mostradas reações que têm em comum o ácido sulfúrico ($1_{2}SO_{4}$) como um dos reagentes:\n\nI. $1_{2}SO_{4}$ + $1_{2}CO_{3}$ → $1_{2}SO_{4}$ + $1_{2}O_{}$ +$1_{2}$\nII. 2H2SO4 + Cu → $1_{4}$ + 2H2O +$1_{2}$\nIII. $1_{2}SO_{4}$ +2K2CrO4 → K2Cr2O7 + $1_{2}SO_{4}$ + $1_{2}O_{}$\nIV. $1_{2}SO_{4}$ + 2NH3 → ($1_{4}$)2SO4\n\nObservando as reações anteriores, qual(is) equação(ões) representa(m) uma reação de oxidação-redução?",
       subItens: []
     },
     options: ["Somente a reação II.","Somente a reação III","Somente as reações I ell","Somente as reações I e IV","Somente as reações II e III"],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "Em uma aula prática de laboratório sobre a Lei da Conservação de Massas (Antoine Laurent Lavoisier, 1743-1794), um estudante transferiu um volume de ácido clorídrico (HCl) para uma proveta aberta contendo um pedaço de magnésio (Mg). Ocorreu a reação química, tal como mostrado na equação a seguir.\n\n2HCl(aq) + Mg(s) → MgCl2(aq) + H2(g)\n\nDados registrados para a reação química:\n\nMassa de Mg: 0,24 g\nMassa de solução de HCl: 5,49 g\nMassa total das substâncias na proveta antes da reação: 5,73 g\nMassa total das substâncias na proveta após a reação: 5,71 g\n\nA massa total das substâncias na proveta, antes da reação é diferente da massa total após a reação, por quê?",
+      principal: "Em uma aula prática de laboratório sobre a Lei da Conservação de Massas (Antoine Laurent Lavoisier, 1743-1794), um estudante transferiu um volume de ácido clorídrico (HCl) para uma proveta aberta contendo um pedaço de magnésio (Mg). Ocorreu a reação química, tal como mostrado na equação a seguir.\n\n2HCl(aq) + Mg(s) → $1_{2}$(aq) + $1_{2}_{}$(g)\n\nDados registrados para a reação química:\n\nMassa de Mg: 0,24 g\nMassa de solução de HCl: 5,49 g\nMassa total das substâncias na proveta antes da reação: 5,73 g\nMassa total das substâncias na proveta após a reação: 5,71 g\n\nA massa total das substâncias na proveta, antes da reação é diferente da massa total após a reação, por quê?",
       subItens: []
     },
     options: ["O HCl e Mg reagem para formar um complexo.","O HCl e Mg reagem lentamente.","O HCl e Mg reagem para formar um precipitado.","O hidrogênio produzido é um gás.","O cloreto de magnésio produzido é solúvel."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "A amônia, NH3, à temperatura ambiente e pressão atmosférica, é um gás tóxico, corrosivo na presença de umidade, inflamável, incolor, com odor muito irritante e altamente solúvel em água. Ela tem diversas aplicações, como processo de refrigeração, produção de fertilizantes, agente neutralizante de ácidos, processo de metais cobre, níquel e molibdênio de seus minérios, produção de ácido nítrico e explosivos etc. A amônia é produzida de acordo com a equação:\n\nN2(g) + 3H2(g) → 2NH3(g).\n\nEm um experimento, 0,25 mol de NH3 é formada quando 0,5 mol de N2 reage com 0,5 mol de H2. Calcule o rendimento percentual de amônia:",
+      principal: "A amônia, $1_{3}$, à temperatura ambiente e pressão atmosférica, é um gás tóxico, corrosivo na presença de umidade, inflamável, incolor, com odor muito irritante e altamente solúvel em água. Ela tem diversas aplicações, como processo de refrigeração, produção de fertilizantes, agente neutralizante de ácidos, processo de metais cobre, níquel e molibdênio de seus minérios, produção de ácido nítrico e explosivos etc. A amônia é produzida de acordo com a equação:\n\$1_{2}$(g) + 3H2(g) → 2NH3(g).\n\nEm um experimento, 0,25 mol de $1_{3}$ é formada quando 0,5 mol de $1_{2}_{}$ reage com 0,5 mol de $1_{2}_{}$. Calcule o rendimento percentual de amônia:",
       subItens: []
     },
     options: ["25%","33%","50%","67%","75%"],
@@ -648,10 +648,10 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "Três bolas idênticas e com a mesma velocidade são lançadas de um prédio, saindo de um mesmo ponto. Pela figura a seguir, observamos que a primeira é lançada horizontalmente, a segunda em um ângulo acima da horizontal e a terceira em um ângulo abaixo da horizontal. Desprezando a resistência do ar, classifique as intensidades das velocidades das bolas em um instante anterior a atingir o solo:\n\n[Imagem mostrando três trajetórias de bolas lançadas de um mesmo ponto, com diferentes ângulos de lançamento: horizontal (1), para cima (2), para baixo (3). Abaixo, as bolas são rotuladas como V1, V2, V3, e a pergunta se refere à classificação de suas velocidades em um instante anterior a atingir o solo.]",
+      principal: "Três bolas idênticas e com a mesma velocidade são lançadas de um prédio, saindo de um mesmo ponto. Pela figura a seguir, observamos que a primeira é lançada horizontalmente, a segunda em um ângulo acima da horizontal e a terceira em um ângulo abaixo da horizontal. Desprezando a resistência do ar, classifique as intensidades das velocidades das bolas em um instante anterior a atingir o solo:\n\n[Imagem mostrando três trajetórias de bolas lançadas de um mesmo ponto, com diferentes ângulos de lançamento: horizontal (1), para cima (2), para baixo (3). Abaixo, as bolas são rotuladas como $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$, e a pergunta se refere à classificação de suas velocidades em um instante anterior a atingir o solo.]",
       subItens: []
     },
-    options: ["V₁ = V2 = V3","V₁ < V2 > V3","V₁ = V2 > V3","V₁ > V2 > V3","V₁ < V2 < V3"],
+    options: ["V₁ = $1_{2}_{}$ = $1_{3}_{}$","V₁ < $1_{2}_{}$ > $1_{3}_{}$","V₁ = $1_{2}_{}$ > $1_{3}_{}$","V₁ > $1_{2}_{}$ > $1_{3}_{}$","V₁ < $1_{2}_{}$ < $1_{3}_{}$"],
     correctAnswer: 0,
     materia: "Física – Cinemática",
     conteudo: "Física – Lançamentos",
@@ -693,7 +693,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "Seja f:R → R uma função quadrática com raízes x₁ = 1 e x2 = 5, tal que seu valor máximo é yv = 4. A lei que melhor define esta função é:",
+      principal: "Seja f:R → R uma função quadrática com raízes x₁ = 1 e $1_{2}$ = 5, tal que seu valor máximo é yv = 4. A lei que melhor define esta função é:",
       subItens: []
     },
     options: ["f(x) = -x² + 6x – 5","f(x) = x² - 6x + 5","f(x) = −2x² + 12x−10","f(x) = 2x² - 12x + 10","f(x) = -2x² - 12x + 10"],

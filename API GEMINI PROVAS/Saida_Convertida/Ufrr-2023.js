@@ -273,7 +273,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2023,
     text: {
-      principal: "O garimpo ilegal traz inúmeras consequências danosas ao\nmeio ambiente, destruindo os cursos d'água, afetando a\nfauna local e impactando diretamente a vida de\npopulações que vivem próximas a regiões exploradas. Em\numa operação deflagrada pela Polícia Federal em julho de\n2022, para combater o garimpo ilegal, cerca de 39 quilos\nde ouro em barras foram apreendidos.\n(Fonte: https://g1.globo.com/fantastico/noticia/2022/07/10/baroes-do-\nouro-ilegal-no-brasil-dinheiro-movimentado-as-margens-da-lei-\nchegou-a-r-16-bilhoes-em-dois-anos.ghtml)\nSupondo que cada barra de ouro continha 1,576 kg,\npodemos afirmar que o número de átomos de ouro\npresente em cada barra é de aproximadamente:",
+      principal: "O garimpo ilegal traz inúmeras consequências danosas ao\nmeio ambiente, destruindo os cursos d'água, afetando a\nfauna local e impactando diretamente a vida de\npopulações que vivem próximas a regiões exploradas. Em\numa operação deflagrada pela Polícia Federal em julho de\$1_{2022}$, para combater o garimpo ilegal, cerca de 39 quilos\nde ouro em barras foram apreendidos.\n(Fonte: https://$1_{1}$.globo.com/fantastico/noticia/2022/07/10/baroes-do-\nouro-ilegal-no-brasil-dinheiro-movimentado-as-margens-da-lei-\nchegou-a-r-16-bilhoes-em-dois-anos.ghtml)\nSupondo que cada barra de ouro continha 1,576 kg,\npodemos afirmar que o número de átomos de ouro\npresente em cada barra é de aproximadamente:",
       subItens: []
     },
     options: ["4,8 x 10²³","1,2 x 10²³","4,8 x 10²⁴","4,8 x 10²²","2,4 x 10²³"],

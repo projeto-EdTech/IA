@@ -303,7 +303,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "Uma caixa de massa 2,0 kg está apoiada numa superfície horizontal perfeitamente lisa, estando sujeita a duas forças F₁ e F2 horizontais e perpendiculares entre si. A força F₁ tem intensidade 8,0 N e a caixa apresenta aceleração de 5,0 m/s². Nestas condições, a intensidade da força F₂ é, em newtons,",
+      principal: "Uma caixa de massa 2,0 kg está apoiada numa superfície horizontal perfeitamente lisa, estando sujeita a duas forças F₁ e $1_{2}_{}$ horizontais e perpendiculares entre si. A força F₁ tem intensidade 8,0 N e a caixa apresenta aceleração de 5,0 m/s². Nestas condições, a intensidade da força F₂ é, em newtons,",
       subItens: []
     },
     options: ["4,0.","5,0.","6,0.","8,0.","10."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "O mineral calcita, CaCO3, é um dos principais constituintes do mármore. Esse mineral pode ser dissolvido com ácidos, porque ocorre a seguinte reação: CaCO3 (s) + 2H+ (aq) → Ca²⁺ (aq) + CO2 (g) + H2O (l). Considerando uma solução de ácido clorídrico cujo pH = 0, o volume dessa solução, em mL, necessário para dissolver 1,0 g de CaCO3 é de\nDados: Massas molares (g.mol⁻¹) H = 1,0 C = 12,0 O = 16,0 Volume molar, nas CNTP = 22,4 L.mol⁻¹",
+      principal: "O mineral calcita, $1_{3}$, é um dos principais constituintes do mármore. Esse mineral pode ser dissolvido com ácidos, porque ocorre a seguinte reação: $1_{3}$ (s) + 2H+ (aq) → Ca²⁺ (aq) + $1_{2}$ (g) + $1_{2}O_{}$ (l). Considerando uma solução de ácido clorídrico cujo pH = 0, o volume dessa solução, em mL, necessário para dissolver 1,0 g de $1_{3}$ é de\nDados: Massas molares (g.mol⁻¹) H = 1,0 C = 12,0 O = 16,0 Volume molar, nas CNTP = 22,4 L.mol⁻¹",
       subItens: []
     },
     options: ["10.","20.","30.","40.","50."],
@@ -393,7 +393,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "Atenção: Para responder às questões de números 27 e 28, considere o texto abaixo. \"Machiavellianism\" is a ____ used negative term to characterize unscrupulous politicians of the sort Machiavelli described in The Prince. The book itself gained enormous notoriety and wide readership because most readers assumed the author was teaching and endorsing evil and immoral behavior. Because of this, the term \"Machiavellian\" is often associated with deceit, deviousness, ambition, and brutality. However that was Machiavelli's stylistic device to gain the reader's attention for his close analysis of the actual techniques used by rulers. (Adapted from: http://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) The word that correctly fills in the blank is",
+      principal: "Atenção: Para responder às questões de números 27 e 28, considere o texto abaixo. \"Machiavellianism\" is a ____ used negative term to characterize unscrupulous politicians of the sort Machiavelli described in The Prince. The book itself gained enormous notoriety and wide readership because most readers assumed the author was teaching and endorsing evil and immoral behavior. Because of this, the term \"Machiavellian\" is often associated with deceit, deviousness, ambition, and brutality. However that was Machiavelli's stylistic device to gain the reader's attention for his close analysis of the actual techniques used by rulers. (Adapted from: http://en.wikipedia.org/wiki/Niccol%$1_{3}_{}$%B2_Machiavelli) The word that correctly fills in the blank is",
       subItens: []
     },
     options: ["hardly.","widely.","rarely.","wrongly.","likely."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "A publicidade digital deverá movimentar R$ 9,5 bilhões em 2015, uma alta de 14% frente a 2014, segundo pesquisa divulgada nesta terça-feira pelo IAB Brasil (Interactive Advertising Bureau), entidade representativa do setor. (Adaptado de: g1.globo.com, 14/04/2015) A mesma matéria cita ainda que, em 2014, do total de dinheiro movimentado com publicidade digital, R$ 2,8 bilhões foram para as redes sociais, o que correspondia a",
+      principal: "A publicidade digital deverá movimentar R$ 9,5 bilhões em 2015, uma alta de 14% frente a 2014, segundo pesquisa divulgada nesta terça-feira pelo IAB Brasil (Interactive Advertising Bureau), entidade representativa do setor. (Adaptado de: $1_{1}$.globo.com, 14/04/2015) A mesma matéria cita ainda que, em 2014, do total de dinheiro movimentado com publicidade digital, R$ 2,8 bilhões foram para as redes sociais, o que correspondia a",
       subItens: []
     },
     options: ["28,4%.","31,3%.","29,3%.","34,6%.","33,6%."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "O equilíbrio químico da amônia, NH3, em solução aquosa, está representado a seguir: NH3 (g) + H2O (l) ⇌ NH4+ (aq) + OH⁻ (aq). A liberação de gás amônia ocorrerá com maior intensidade quando a essa solução for adicionado\nI. NH4Cl (aq).\nII. FeCl3 (aq).\nIII. NaOH (aq).\nEstá correto o que consta APENAS em",
+      principal: "O equilíbrio químico da amônia, $1_{3}$, em solução aquosa, está representado a seguir: $1_{3}$ (g) + $1_{2}O_{}$ (l) ⇌ $1_{4}$+ (aq) + OH⁻ (aq). A liberação de gás amônia ocorrerá com maior intensidade quando a essa solução for adicionado\nI. NH4Cl (aq).\nII. $1_{3}$ (aq).\nIII. NaOH (aq).\nEstá correto o que consta APENAS em",
       subItens: []
     },
     options: ["I.","II.","III.","I e II.","I e III."],

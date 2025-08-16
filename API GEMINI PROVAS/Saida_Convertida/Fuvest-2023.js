@@ -33,7 +33,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O odor característico de peixes deve-se à base metilamina (CH3-NH2). Esse odor pode ser minimizado lavando-se o peixe, por exemplo, com suco de limão. Assinale a alternativa que apresenta a estrutura de um dos produtos dessa reação ácido-base.\n\n(A)\n+\nHH\nH-C-N-H\nH\n(B)\nHH\nH-C-N-H\nH\n(C)\n+\nHH\nH-C-N-H\nHH\n(D)\nH-C-N-H\nHIC-エ\nHH\n(E)\nHH\nH-C-N-H\nH",
+      principal: "O odor característico de peixes deve-se à base metilamina ($1_{3}$-$1_{2}$). Esse odor pode ser minimizado lavando-se o peixe, por exemplo, com suco de limão. Assinale a alternativa que apresenta a estrutura de um dos produtos dessa reação ácido-base.\n\n(A)\n+\nHH\nH-C-N-H\nH\n(B)\nHH\nH-C-N-H\nH\n(C)\n+\nHH\nH-C-N-H\nHH\n(D)\nH-C-N-H\nHIC-エ\nHH\n(E)\nHH\nH-C-N-H\nH",
       subItens: []
     },
     options: ["Estrutura A","Estrutura B","Estrutura C","Estrutura D","Estrutura E"],
@@ -63,7 +63,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Combustíveis fósseis, como o diesel, contém em sua composição uma fração de enxofre. Durante o processo de combustão, o enxofre é convertido em SO2, tornando-se um poluente ambiental. Em postos de combustível, normalmente são comercializados dois tipos de diesel, o Diesel S10 e o Diesel S500. O primeiro contém 10 ppm de enxofre, e o segundo, 500 ppm de enxofre.\n\nConsidere que, na combustão do diesel, todo enxofre seja convertido em SO2, conforme reação a seguir:\n\nS(s) + O2(g) → SO2(g)\n\nNesse caso, a diferença de massa de SO2 emitido para a atmosfera por kg de diesel quando cada um dos dois tipos é queimado é de\n\nNote e adote:\nMassas molares (g/mol): O = 16; S = 32.\n1 ppm de enxofre equivale a 1 mg de enxofre por kg de diesel.",
+      principal: "Combustíveis fósseis, como o diesel, contém em sua composição uma fração de enxofre. Durante o processo de combustão, o enxofre é convertido em $1_{2}$, tornando-se um poluente ambiental. Em postos de combustível, normalmente são comercializados dois tipos de diesel, o Diesel $1_{10}_{}$ e o Diesel $1_{500}_{}$. O primeiro contém 10 ppm de enxofre, e o segundo, 500 ppm de enxofre.\n\nConsidere que, na combustão do diesel, todo enxofre seja convertido em $1_{2}$, conforme reação a seguir:\n\nS(s) + $1_{2}_{}$(g) → $1_{2}$(g)\n\nNesse caso, a diferença de massa de $1_{2}$ emitido para a atmosfera por kg de diesel quando cada um dos dois tipos é queimado é de\n\nNote e adote:\nMassas molares (g/mol): O = 16; S = 32.\$1_{1}$ ppm de enxofre equivale a 1 mg de enxofre por kg de diesel.",
       subItens: []
     },
     options: ["245 mg/kg.","490 mg/kg.","980 mg/kg.","1960 mg/kg.","3920 mg/kg."],
@@ -78,7 +78,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "A tabela fornece informações sobre fatores ambientais relacionados a duas regiões de floresta, uma com alto grau de degradação (I) e outra com baixo grau de degradação (II).\n\nFator\nRegião I\nRegião II\nFrequência de geadas\nbaixa\nmoderada\nTemperatura máxima\nno verão\nmoderada\nalta\nDisponibilidade de\nágua no solo\nalta\nmoderada\nConcentração de SO2\nna atmosfera\nalta\nbaixa\nConcentração de CO2\nna atmosfera\nmoderada\nmoderada\n\nCom base nos dados da tabela, qual fenômeno pode causar maior grau de degradação das florestas da região I em comparação com aquelas da região II?",
+      principal: "A tabela fornece informações sobre fatores ambientais relacionados a duas regiões de floresta, uma com alto grau de degradação (I) e outra com baixo grau de degradação (II).\n\nFator\nRegião I\nRegião II\nFrequência de geadas\nbaixa\nmoderada\nTemperatura máxima\nno verão\nmoderada\nalta\nDisponibilidade de\nágua no solo\nalta\nmoderada\nConcentração de $1_{2}$\nna atmosfera\nalta\nbaixa\nConcentração de $1_{2}$\nna atmosfera\nmoderada\nmoderada\n\nCom base nos dados da tabela, qual fenômeno pode causar maior grau de degradação das florestas da região I em comparação com aquelas da região II?",
       subItens: []
     },
     options: ["Chuva ácida.","Aquecimento global.","Congelamento.","Déficit hídrico.","Calor extremo no verão."],
@@ -93,7 +93,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O gráfico mostra a variação no número de folhas de uma espécie de árvore ao longo do ano, bem como a variação da temperatura mínima e da pluviosidade no local em que há presença dessa planta.\n\nNúmero de folhas (em milhares), temperatura mínima\n(média mensal, em °C) e pluviosidade (em cm)\n18\n16\n14\nPluviosidade\n12\n10\n8\n6\n4\n2\n0\njaneiro\nfevereiro\nmarço\nNúmero\nde folhas\nTemperatura\nmínima\njulho\nagosto\noutubro\nsetembro\nnovembro\ndezembro\n\nCom base na variação no número de folhas, essa planta é característica de clima I e tal variação está relacionada a II.\n\nAs lacunas I e II são corretamente preenchidas por",
+      principal: "O gráfico mostra a variação no número de folhas de uma espécie de árvore ao longo do ano, bem como a variação da temperatura mínima e da pluviosidade no local em que há presença dessa planta.\n\nNúmero de folhas (em milhares), temperatura mínima\n(média mensal, em °C) e pluviosidade (em cm)\$1_{18}$\$1_{16}$\$1_{14}$\nPluviosidade\$1_{12}$\$1_{10}$\$1_{8}$\$1_{6}$\$1_{4}$\$1_{2}$\$1_{0}$\njaneiro\nfevereiro\nmarço\nNúmero\nde folhas\nTemperatura\nmínima\njulho\nagosto\noutubro\nsetembro\nnovembro\ndezembro\n\nCom base na variação no número de folhas, essa planta é característica de clima I e tal variação está relacionada a II.\n\nAs lacunas I e II são corretamente preenchidas por",
       subItens: []
     },
     options: ["I: tropical, II: temperaturas mínimas altas e muita chuva nos meses mais frios","I: temperado, II: temperaturas mínimas baixas e pouca chuva nos meses mais quentes","I: tropical, II: temperaturas mínimas altas e pouca chuva nos meses mais quentes","I: temperado, II: temperaturas mínimas baixas e pouca chuva nos meses mais frios","I: equatorial, II: temperaturas mínimas baixas e muita chuva nos meses mais quentes"],
@@ -138,7 +138,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O mapa mostra a variação do número de espécies de aves no território brasileiro, com as linhas indicando os limites dos biomas.\n\nMuitas espécies\nPoucas espécies\n\nJENKINS et al. 2015. \"Patterns of vertebrate diversity and protection in Brazil\". PLoS ONE 10(12): e0145064. Adaptado.\n\nCom base no mapa, a diversidade de aves mostra-se",
+      principal: "O mapa mostra a variação do número de espécies de aves no território brasileiro, com as linhas indicando os limites dos biomas.\n\nMuitas espécies\nPoucas espécies\n\nJENKINS et al. 2015. \"Patterns of vertebrate diversity and protection in Brazil\". PLoS ONE 10(12): $1_{0145064}$. Adaptado.\n\nCom base no mapa, a diversidade de aves mostra-se",
       subItens: []
     },
     options: ["mais alta nas regiões onde predominam florestas e mais baixa nas regiões onde predomina vegetação mais aberta.","igualmente alta nas regiões tropicais e mais baixa nas regiões subtropicais.","igualmente baixa nas regiões mais orientais e mais alta nas regiões ocidentais.","mais alta nas regiões mais quentes e mais baixa nas regiões mais frias.","mais alta nas regiões que se situam mais próximas ao mar e mais baixa nas regiões mais interiores."],
@@ -153,7 +153,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O estado de São Paulo, por suas características climáticas, apresenta, no outono e no inverno, probabilidade de ocorrência de geada.\n\nNÚMERO DE DIAS DE\nOCORRÊNCIA DE GEADAS\nNO PERÍODO\n1949-1979\n\nOCORRÊNCIA DE GEADA\n1949-1979\n\n0 50 km\n\nN\nOCEANO ATLANTICO\n\nMARTINELLI, Marcelo. Clima do Estado de São Paulo, Confins, 2010.\n\nCom base em seu conhecimento sobre o estado de São Paulo e os fatores que contribuem para a formação de geadas, é correto inferir que a maior ocorrência de geadas no estado de São Paulo está associada",
+      principal: "O estado de São Paulo, por suas características climáticas, apresenta, no outono e no inverno, probabilidade de ocorrência de geada.\n\nNÚMERO DE DIAS DE\nOCORRÊNCIA DE GEADAS\nNO PERÍODO\$1_{1949}$-1979\n\nOCORRÊNCIA DE GEADA\$1_{1949}$-1979\n\$1_{0}$ 50 km\n\nN\nOCEANO ATLANTICO\n\nMARTINELLI, Marcelo. Clima do Estado de São Paulo, Confins, 2010.\n\nCom base em seu conhecimento sobre o estado de São Paulo e os fatores que contribuem para a formação de geadas, é correto inferir que a maior ocorrência de geadas no estado de São Paulo está associada",
       subItens: []
     },
     options: ["às maiores altitudes da Serra da Mantiqueira, que contribuem para reduzir a temperatura do ar.","às baixas altitudes do Vale do rio Ribeira de Iguape, que contribuem para a entrada de ar frio.","ao efeito da maritimidade, que injeta ar frio para o continente, diminuindo a temperatura do ar.","às grandes extensões do Planalto Ocidental Paulista, que favorecem o acúmulo de ar frio.","à ausência de cobertura vegetal em grande parte do território paulista, que potencializa o resfriamento noturno."],
@@ -168,7 +168,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "A superfície terrestre muda conforme a frequência e a magnitude de processos naturais, sendo alguns mais contínuos e outros mais irregulares. Alguns eventos podem mudar rapidamente a superfície, enquanto outros a modificam lentamente.\n\nEscala espacial em metros\n1.000.000\n100.000\n10.000\n1000\n100\n10\n1\n\n2\n\n3\n\n1\n10 100 1000 10.000 100.000 1.000.000\nEscala temporal em anos\n\nGOUDIE, Andrew S.; VILES, Heather A. Landscapes and Geomorphology: A Very Short Introduction. Oxford University Press, Oxford, 2010. Adaptado.\n\nCom base nos dados apresentados, é possível afirmar que os números 1, 2 e 3 correspondem, respectivamente, a:",
+      principal: "A superfície terrestre muda conforme a frequência e a magnitude de processos naturais, sendo alguns mais contínuos e outros mais irregulares. Alguns eventos podem mudar rapidamente a superfície, enquanto outros a modificam lentamente.\n\nEscala espacial em metros\$1_{1}$.000.000\$1_{100}$.000\$1_{10}$.000\$1_{1000}$\$1_{100}$\$1_{10}$\$1_{1}$\n\$1_{2}$\n\$1_{3}$\n\$1_{1}$\$1_{10}$ 100 1000 10.000 100.000 1.000.000\nEscala temporal em anos\n\nGOUDIE, Andrew S.; VILES, Heather A. Landscapes and Geomorphology: A Very Short Introduction. Oxford University Press, Oxford, 2010. Adaptado.\n\nCom base nos dados apresentados, é possível afirmar que os números 1, 2 e 3 correspondem, respectivamente, a:",
       subItens: []
     },
     options: ["Ação eólica, erupções vulcânicas e soerguimento de cadeias montanhosas.","Depósitos minerais, abalos sísmicos e erupções vulcânicas.","Formação de cavernas, ação eólica e soerguimento de cadeias montanhosas.","Erupções vulcânicas, abalos sísmicos e depósitos minerais.","Ação eólica, formação de cavernas e soerguimento de cadeias montanhosas."],
@@ -183,7 +183,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Rochas cristalinas\nSedimentos consolidados\nSedimentos inconsolidados\n\n1) Morros\n2 Terraços fluviais\n(3) Planície fluvial\n\nCUNHA, Sandra B.; GUERRA, Antônio J. T. (Orgs.). Geomorfologia: exercícios, técnicas e aplicações. Rio de Janeiro: Ed. Bertrand Brasil, 1998. Adaptado.\n\nA partir da figura, pode-se afirmar que as áreas com as condições naturais mais favoráveis à ocupação humana são:",
+      principal: "Rochas cristalinas\nSedimentos consolidados\nSedimentos inconsolidados\n\$1_{1}$) Morros\$1_{2}$ Terraços fluviais\n(3) Planície fluvial\n\nCUNHA, Sandra B.; GUERRA, Antônio J. T. (Orgs.). Geomorfologia: exercícios, técnicas e aplicações. Rio de Janeiro: Ed. Bertrand Brasil, 1998. Adaptado.\n\nA partir da figura, pode-se afirmar que as áreas com as condições naturais mais favoráveis à ocupação humana são:",
       subItens: []
     },
     options: ["Os topos mais aplainados dos morros ou a área de terraços fluviais, partes mais planas do relevo; no entanto, variações nas cheias dos rios podem atingir as áreas de terraços, e a ocupação dos topos pode comprometer as áreas de nascentes.","Entre os morros e a planície, áreas de maior declividade sujeitas a desabamentos; também deve evitar os terraços fluviais por possuírem sedimentos consolidados, propensos à erosão.","O sopé das encostas dos morros ou a área da planície fluvial, partes planas do relevo sem risco de deslizamentos de terra; além disso, a captação das águas para abastecimento público pode ser aproveitada pela proximidade do canal fluvial.","As áreas de planície com sedimentos inconsolidados resultantes das rochas cristalinas friáveis; além disso, o desmatamento e acúmulo de lixo nas inundações podem soterrar o curso fluvial retilíneo.","Os morros com encostas mais inclinadas, suscetíveis a deslizamentos e assoreamentos; estes acabam por prejudicar a conservação das áreas de nascentes que estão a jusante dos setores mais elevados."],
@@ -198,7 +198,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Observe a imagem de satélite a seguir:\n\nTocantins\nBahia\nMT\nLimite Estadual\nN\n30 km\nGoogle Earth, 2022.\n\nParte dos topos do Chapadão Ocidental Baiano, divisor de águas das bacias hidrográficas dos rios Tocantins e São Francisco, é dominada por monocultura para exportação. Com base na imagem e em seus conhecimentos, é correto afirmar que",
+      principal: "Observe a imagem de satélite a seguir:\n\nTocantins\nBahia\nMT\nLimite Estadual\nN\$1_{30}$ km\nGoogle Earth, 2022.\n\nParte dos topos do Chapadão Ocidental Baiano, divisor de águas das bacias hidrográficas dos rios Tocantins e São Francisco, é dominada por monocultura para exportação. Com base na imagem e em seus conhecimentos, é correto afirmar que",
       subItens: []
     },
     options: ["tanto a bacia do rio Tocantins quanto a do São Francisco são ameaçadas por contaminação de agrotóxicos nas áreas do Chapadão, cujos divisores topográficos não impedem os fluxos subterrâneos das substâncias utilizadas nas monoculturas.","a maior parte das áreas cultivadas localiza-se no estado do Tocantins, sendo erodidas pelos rios sem conexão com o topo do Chapadão Ocidental Baiano, o que dificulta a dispersão dos agrotóxicos.","a bacia do rio São Francisco é ameaçada pelos agrotóxicos, pois os divisores de águas nas áreas do Chapadão tendem a fluir as substâncias nas drenagens somente para o estado da Bahia.","tanto a bacia do rio Tocantins quanto do rio São Francisco se encontram distantes das áreas de topo do Chapadão Ocidental Baiano onde estão as monoculturas, dificultando a efluência dos agrotóxicos em ambos.","a bacia do rio Tocantins é mais ameaçada do que a do São Francisco pela contaminação originada do uso de agrotóxicos, pois os divisores de águas convergem para o estado do Tocantins."],
@@ -213,7 +213,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Emissão Total de Gases do Efeito Estufa (GEE) no Brasil\n\n33,2%\nAgropecuária\n\n28,9%\nEnergia\n\n27,1%\nUso da terra, mudança do\nuso da terra e florestas\n\n6,4%\nProcessos industriais e\nprodutos agrícolas\n\n4,4%\nResíduos agrícolas\n\nRevista Fapesp, 2022. Adaptado.\n\nSegundo os dados apresentados e seus conhecimentos, é possível afirmar que, no Brasil,",
+      principal: "Emissão Total de Gases do Efeito Estufa (GEE) no Brasil\n\$1_{33}$,2%\nAgropecuária\n\$1_{28}$,9%\nEnergia\n\$1_{27}$,1%\nUso da terra, mudança do\nuso da terra e florestas\n\$1_{6}$,4%\nProcessos industriais e\nprodutos agrícolas\n\$1_{4}$,4%\nResíduos agrícolas\n\nRevista Fapesp, 2022. Adaptado.\n\nSegundo os dados apresentados e seus conhecimentos, é possível afirmar que, no Brasil,",
       subItens: []
     },
     options: ["a agropecuária é a atividade econômica com maior emissão na forma de gás metano, resultante do processo fermentativo da digestão celulósica nos ruminantes.","os resíduos agrícolas têm pouca contribuição no total emitido à atmosfera na forma de cloretos e sulfetos originados de seu intemperismo, com baixos teores de carbono.","os processos industriais contribuem com emissões significativas de GEE na forma de gás metano, resultante da atividade microbiana sobre os compostos nitrogenados.","as mudanças no uso da terra, em que há a substituição de florestas por áreas cultivadas, respondem por cerca de metade da emissão de GEE a partir de bactérias e fungos.","o setor de energia é um grande emissor de GEE na forma de óxido nítrico, metano e dióxido de carbono, resultantes de todos os processos de geração de energia."],
@@ -228,7 +228,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O gráfico mostra a quantidade de emissão de CO2 (em bilhões de toneladas) em função do ano.\n\nEmissão total de CO2 por ano\nbilhões de toneladas\n35\n30\n25\n20\n15\n10\n5\n1750\n1800 1850 1900 1950 1990 2019\nDisponível em https://www.bbc.com/. Adaptado.\n\nO total de emissão de CO2, em bilhões de toneladas, entre os anos de 1950 e 1990, está entre",
+      principal: "O gráfico mostra a quantidade de emissão de $1_{2}$ (em bilhões de toneladas) em função do ano.\n\nEmissão total de $1_{2}$ por ano\nbilhões de toneladas\$1_{35}$\$1_{30}$\$1_{25}$\$1_{20}$\$1_{15}$\$1_{10}$\$1_{5}$\$1_{1750}$\$1_{1800}$ 1850 1900 1950 1990 2019\nDisponível em https://www.bbc.com/. Adaptado.\n\nO total de emissão de $1_{2}$, em bilhões de toneladas, entre os anos de 1950 e 1990, está entre",
       subItens: []
     },
     options: ["1 e 5.","5 e 100.","100 e 300.","300 e 800.","800 e 1000."],
@@ -258,10 +258,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O carbono 14, um isótopo radioativo com meia-vida de 5700 anos, é gerado de forma constante na atmosfera a partir da interação de nêutrons com o nitrogênio atmosférico. Esse 14C reage com o O2 e produz 14CO2. Em função de seu decaimento e de suas taxas de deposição e formação, a proporção de 14CO2 e de 12CO2 na atmosfera é razoavelmente constante ao longo da história geológica da Terra. Esses gases são absorvidos por produtores primários pela fotossíntese, e os isótopos de C são transferidos aos organismos heterotróficos pela teia alimentar.\n\nCom a queima de combustíveis fósseis, produzidos há milhões de anos, quantidades significativas de CO2 têm sido lançadas na atmosfera, aumentando a concentração desse gás.\n\nCom base no exposto, o CO2 emitido a partir da queima de combustíveis fósseis",
+      principal: "O carbono 14, um isótopo radioativo com meia-vida de 5700 anos, é gerado de forma constante na atmosfera a partir da interação de nêutrons com o nitrogênio atmosférico. Esse 14C reage com o $1_{2}_{}$ e produz 14CO2. Em função de seu decaimento e de suas taxas de deposição e formação, a proporção de 14CO2 e de 12CO2 na atmosfera é razoavelmente constante ao longo da história geológica da Terra. Esses gases são absorvidos por produtores primários pela fotossíntese, e os isótopos de C são transferidos aos organismos heterotróficos pela teia alimentar.\n\nCom a queima de combustíveis fósseis, produzidos há milhões de anos, quantidades significativas de $1_{2}$ têm sido lançadas na atmosfera, aumentando a concentração desse gás.\n\nCom base no exposto, o $1_{2}$ emitido a partir da queima de combustíveis fósseis",
       subItens: []
     },
-    options: ["mantém constante a proporção 12C/14C na atmosfera em relação à encontrada no período pré-industrial.","apresenta maior concentração de 14CO2 em relação à concentração de CO2 atmosférico encontrado no período pré-industrial.","contém quantidades iguais de 14C e 12C, dado que as taxas de formação e deposição de ambos são as mesmas.","aumenta a proporção 12C/14C na atmosfera em relação à encontrada no período pré-industrial.","contém apenas 14CO2, que é o real causador do aquecimento global por ser um gás de efeito estufa mais eficiente que o 12CO2."],
+    options: ["mantém constante a proporção 12C/14C na atmosfera em relação à encontrada no período pré-industrial.","apresenta maior concentração de 14CO2 em relação à concentração de $1_{2}$ atmosférico encontrado no período pré-industrial.","contém quantidades iguais de 14C e 12C, dado que as taxas de formação e deposição de ambos são as mesmas.","aumenta a proporção 12C/14C na atmosfera em relação à encontrada no período pré-industrial.","contém apenas 14CO2, que é o real causador do aquecimento global por ser um gás de efeito estufa mais eficiente que o 12CO2."],
     correctAnswer: 3,
     materia: "",
     conteudo: "",
@@ -273,10 +273,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O cientista Richard Feynman, prêmio Nobel de Física em 1965, fez comentários sobre o processo de combustão em uma entrevista chamada Fun to Imagine. Segundo ele, à primeira vista, é impressionante pensar que os átomos de carbono de uma árvore não entram em combustão com o oxigênio da atmosfera de forma espontânea, já que existe uma grande afinidade entre essas espécies para a formação de CO2. Entretanto, quando a reação tem início, o fogo se espalha facilmente.\n\nEssa aparente contradição pode ser explicada pois",
+      principal: "O cientista Richard Feynman, prêmio Nobel de Física em 1965, fez comentários sobre o processo de combustão em uma entrevista chamada Fun to Imagine. Segundo ele, à primeira vista, é impressionante pensar que os átomos de carbono de uma árvore não entram em combustão com o oxigênio da atmosfera de forma espontânea, já que existe uma grande afinidade entre essas espécies para a formação de $1_{2}$. Entretanto, quando a reação tem início, o fogo se espalha facilmente.\n\nEssa aparente contradição pode ser explicada pois",
       subItens: []
     },
-    options: ["a reação depende de um processo que concentre o carbono para ocorrer.","o fogo torna a reação desfavorável.","o fogo depende da presença de CO2 para começar.","o átomo de carbono da árvore é muito mais resistente ao O2 do que os átomos de carbono dispersos no fogo.","a reação precisa de uma energia de ativação para começar."],
+    options: ["a reação depende de um processo que concentre o carbono para ocorrer.","o fogo torna a reação desfavorável.","o fogo depende da presença de $1_{2}$ para começar.","o átomo de carbono da árvore é muito mais resistente ao $1_{2}_{}$ do que os átomos de carbono dispersos no fogo.","a reação precisa de uma energia de ativação para começar."],
     correctAnswer: 4,
     materia: "",
     conteudo: "",
@@ -303,7 +303,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Pinturas na tumba de um faraó do século XIX a.C. sugerem que os antigos egípcios adicionavam água à areia em frente aos trenós utilizados para transportar grandes peças, como pedras para pirâmides. Esse transporte era realizado por carregadores que puxavam os trenós sobre a areia.\n\nFALL et al., Physical Review Letters 112, 175502 (2014).\n\nEm 2014, cientistas realizaram medidas para testar essa hipótese e, sob certas condições, encontraram os coeficientes de atrito cinético entre o trenó e a areia listados na tabela:\n\nConteúdo de\nágua\n0%\n1,5%\n3,2%\n7,4%\nCoeficiente de\natrito\n0,57\n0,54\n0,50\n0,61\n\nConsiderando as informações da tabela, qual conteúdo de água na areia tornaria mais fácil o transporte das peças pelos carregadores?",
+      principal: "Pinturas na tumba de um faraó do século XIX a.C. sugerem que os antigos egípcios adicionavam água à areia em frente aos trenós utilizados para transportar grandes peças, como pedras para pirâmides. Esse transporte era realizado por carregadores que puxavam os trenós sobre a areia.\n\nFALL et al., Physical Review Letters 112, 175502 (2014).\n\nEm 2014, cientistas realizaram medidas para testar essa hipótese e, sob certas condições, encontraram os coeficientes de atrito cinético entre o trenó e a areia listados na tabela:\n\nConteúdo de\nágua\$1_{0}$%\$1_{1}$,5%\$1_{3}$,2%\$1_{7}$,4%\nCoeficiente de\natrito\$1_{0}$,57\$1_{0}$,54\$1_{0}$,50\$1_{0}$,61\n\nConsiderando as informações da tabela, qual conteúdo de água na areia tornaria mais fácil o transporte das peças pelos carregadores?",
       subItens: []
     },
     options: ["0% (areia seca)","1,5%","3,2%","7,4%","O conteúdo de água não afeta o transporte."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O mapa do continente africano a seguir reproduz as fronteiras étnicas anteriores ao processo de colonização europeu (linhas pretas) e as fronteiras dos Estados Nacionais africanos, que surgiram após a emancipação no século XX (linhas vermelhas):\n\nFronteiras étnicas históricas\nantes da colonização e das\nfronteiras nacionais\n\nTerra natal tradicional\ndas etnias\n\nFronteiras nacionais\ncontemporâneas\n\nN\n\nFronteiras étnicas e de países\nafricanos no século XX\n\nDisponível em https://www.nber.org/papers/w18275/. Adaptado.\n\nCom base na leitura do mapa, assinale a alternativa correta.",
+      principal: "O mapa do continente africano a seguir reproduz as fronteiras étnicas anteriores ao processo de colonização europeu (linhas pretas) e as fronteiras dos Estados Nacionais africanos, que surgiram após a emancipação no século XX (linhas vermelhas):\n\nFronteiras étnicas históricas\nantes da colonização e das\nfronteiras nacionais\n\nTerra natal tradicional\ndas etnias\n\nFronteiras nacionais\ncontemporâneas\n\nN\n\nFronteiras étnicas e de países\nafricanos no século XX\n\nDisponível em https://www.nber.org/papers/$1_{18275}$/. Adaptado.\n\nCom base na leitura do mapa, assinale a alternativa correta.",
       subItens: []
     },
     options: ["A diversidade étnica observada na região sul africana foi objeto de cobiça do tráfico transatlântico de escravizados para as Américas.","O Chifre da África foi uma área marcada por guerras travadas entre diferentes grupos étnicos, as quais impediram a construção de unidades políticas nacionais.","A porção norte da África teve menor diversidade étnica, com o predomínio de população branca, religião islâmica e língua árabe.","Após o processo de emancipação, a quantidade de Estados Nacionais africanos ultrapassou numericamente as configurações territoriais anteriores à colonização.","As fronteiras dos Estados Nacionais africanos foram traçadas a partir de solidariedades étnicas, e não por critérios geopolíticos decorrentes da colonização."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "\"Em um mapa produzido com a técnica da anamorfose geográfica, cada país é redesenhado de forma que seu polígono tenha uma deformação proporcional a um tema de interesse. Com essa técnica, é possível visualizá-lo de uma forma mais direta e clara\".\nDisponível em https://educa.ibge.gov.br/. Adaptado.\n\nObserve o mapa com dados de 2015:\n\nUcrânia Turquia\nRússia\nSíria\nIrã\nMali\nNigéria\nIraque\nN\nSudão\nColômbia\nCosta do\nMarfim\nEtiópia\n10,0-59,0\n59,1-120,0\n120,1-1.123,0\n1.123,1-2.663,0\n2.663,1-4.850,8\nRep. Dem.\ndo Congo\nSomália\nBurundi\nAfeganistão China\nPaquistão Vietnã\nSri Lanka\n\nUnited Nations Development Programme (UNDP), Human Development indices and indicators, 2015.\n\nOs dados representados no mapa são condizentes com:",
+      principal: "\"Em um mapa produzido com a técnica da anamorfose geográfica, cada país é redesenhado de forma que seu polígono tenha uma deformação proporcional a um tema de interesse. Com essa técnica, é possível visualizá-lo de uma forma mais direta e clara\".\nDisponível em https://educa.ibge.gov.br/. Adaptado.\n\nObserve o mapa com dados de 2015:\n\nUcrânia Turquia\nRússia\nSíria\nIrã\nMali\nNigéria\nIraque\nN\nSudão\nColômbia\nCosta do\nMarfim\nEtiópia\$1_{10}$,0-59,0\$1_{59}$,1-120,0\$1_{120}$,1-1.123,0\$1_{1}$.123,1-2.663,0\$1_{2}$.663,1-4.850,8\nRep. Dem.\ndo Congo\nSomália\nBurundi\nAfeganistão China\nPaquistão Vietnã\nSri Lanka\n\nUnited Nations Development Programme (UNDP), Human Development indices and indicators, 2015.\n\nOs dados representados no mapa são condizentes com:",
       subItens: []
     },
     options: ["Número de nascimentos vivos.","Produto Interno Bruto.","Total de população urbana.","Produção de petróleo.","Refugiados conforme o país de origem."],
@@ -633,7 +633,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "\"A associação de sistemas múltiplos de subordinação tem sido descrita de vários modos: discriminação composta, cargas múltiplas ou como dupla ou tripla discriminação. A interseccionalidade é uma conceituação do problema que busca capturar as consequências estruturais e dinâmicas da interação entre dois ou mais eixos da subordinação. Ela trata especificamente da forma pela qual o racismo, o patriarcalismo, a opressão de classe e outros sistemas discriminatórios criam desigualdades básicas que estruturam as posições relativas de mulheres, raças, etnias, classes e outras\".\nCRENSHAW, Kimberlé W. \"Documento para o Encontro de Especialistas em Aspectos da Discriminação Racial Relativos ao Gênero\". Estudos Feministas, ano 10, nº 1/2002.\n\nBRASIL\nA inserção da população negra\ne o mercado de trabalho\nTRABALHO DESPROTEGIDO\nNEGRAS NEGROS\n46%\n48%\nNÃO NEGRAS NÃO NEGROS\n34%\n35%\nObs.: Trabalhador desprotegido é aquele que está empregado sem carteira\nassinada, autónomos que não contribuem com a Previdência Social e\ntrabalhadores familiares auxiliares.\nRENDIMENTO MÉDIO\nR$ 1.617\n$\nMULHERES\nNEGRAS\nR$ 2.674\nMULHERES\nNÃO NEGRAS\nR$ 1.968\n$$\nHOMENS\nNEGROS\nR$ 3.471\n$$$\nHOMENS\nNÃO NEGROS\nOCUPADOS EM CARGOS DE DIREÇÃO\n5,0%\n6,4%\n1,9%\n2,2%\nMULHERES MULHERES\nHOMENS HOMENS\nNEGRAS NÃO NEGRAS\nNEGROS NÃO NEGROS\nSUBUTILIZAÇÃO\nTaxa de subutilização da força de trabalho\n40,9%\n27,7%\nMULHERES\nNEGRAS\nMULHERES\nNÃO NEGRAS\n26,9%\n18,5%\nHOMENS\nNEGROS\nHOMENS\nNÃO NEGROS\nDIEESE (Departamento Intersindical de Estatísticas e Estudos Socioeconômicos), 2021. Adaptado.\n\nO texto da professora e jurista estadunidense Kimberlé Crenshaw define o conceito de interseccionalidade para o estudo das múltiplas discriminações. A partir dessa definição, é possível dizer que os dados do Dieese sobre o mercado de trabalho brasileiro em 2021 indicam que",
+      principal: "\"A associação de sistemas múltiplos de subordinação tem sido descrita de vários modos: discriminação composta, cargas múltiplas ou como dupla ou tripla discriminação. A interseccionalidade é uma conceituação do problema que busca capturar as consequências estruturais e dinâmicas da interação entre dois ou mais eixos da subordinação. Ela trata especificamente da forma pela qual o racismo, o patriarcalismo, a opressão de classe e outros sistemas discriminatórios criam desigualdades básicas que estruturam as posições relativas de mulheres, raças, etnias, classes e outras\".\nCRENSHAW, Kimberlé W. \"Documento para o Encontro de Especialistas em Aspectos da Discriminação Racial Relativos ao Gênero\". Estudos Feministas, ano 10, nº 1/2002.\n\nBRASIL\nA inserção da população negra\ne o mercado de trabalho\nTRABALHO DESPROTEGIDO\nNEGRAS NEGROS\$1_{46}$%\$1_{48}$%\nNÃO NEGRAS NÃO NEGROS\$1_{34}$%\$1_{35}$%\nObs.: Trabalhador desprotegido é aquele que está empregado sem carteira\nassinada, autónomos que não contribuem com a Previdência Social e\ntrabalhadores familiares auxiliares.\nRENDIMENTO MÉDIO\nR$ 1.617\n$\nMULHERES\nNEGRAS\nR$ 2.674\nMULHERES\nNÃO NEGRAS\nR$ 1.968\n$$\nHOMENS\nNEGROS\nR$ 3.471\n$$$\nHOMENS\nNÃO NEGROS\nOCUPADOS EM CARGOS DE DIREÇÃO\$1_{5}$,0%\$1_{6}$,4%\$1_{1}$,9%\$1_{2}$,2%\nMULHERES MULHERES\nHOMENS HOMENS\nNEGRAS NÃO NEGRAS\nNEGROS NÃO NEGROS\nSUBUTILIZAÇÃO\nTaxa de subutilização da força de trabalho\$1_{40}$,9%\$1_{27}$,7%\nMULHERES\nNEGRAS\nMULHERES\nNÃO NEGRAS\$1_{26}$,9%\$1_{18}$,5%\nHOMENS\nNEGROS\nHOMENS\nNÃO NEGROS\nDIEESE (Departamento Intersindical de Estatísticas e Estudos Socioeconômicos), 2021. Adaptado.\n\nO texto da professora e jurista estadunidense Kimberlé Crenshaw define o conceito de interseccionalidade para o estudo das múltiplas discriminações. A partir dessa definição, é possível dizer que os dados do Dieese sobre o mercado de trabalho brasileiro em 2021 indicam que",
       subItens: []
     },
     options: ["a interseccionalidade de discriminações de gênero, de raça e de classe faz com que homens negros sejam o grupo social mais vulnerável.","as discriminações de raça e gênero não se relacionam; assim, mulheres negras e homens negros sofrem as mesmas discriminações no mercado de trabalho.","a interseccionalidade de discriminações atinge de maneira igual mulheres brancas e negras pertencentes às classes trabalhadoras.","a interseccionalidade de discriminações de gênero e raça explica o fato de as mulheres negras ocuparem as posições menos valorizadas e mais mal pagas no mercado de trabalho.","as situações de gênero e de raça não têm impacto no mercado de trabalho. Trabalhadores e trabalhadoras são discriminados igualmente em virtude da desigualdade de classe social."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O gráfico a seguir apresenta o registro histórico e a projeção do total de mortes e nascimentos em certa região do mundo em dado período:\n\nNúmero de nascimentos ou mortes (milhões)\nMortes\nNascimentos\n17\n16\n15\n14\n13\n12\n11\n10\n9\n8\n7\n1950 1975 2000 2025 2050\nAno\n2075\n2100\n\nONU, 2019.\n\nA partir disso, assinale a pirâmide etária que melhor representa as informações projetadas para o ano de 2050:",
+      principal: "O gráfico a seguir apresenta o registro histórico e a projeção do total de mortes e nascimentos em certa região do mundo em dado período:\n\nNúmero de nascimentos ou mortes (milhões)\nMortes\nNascimentos\$1_{17}$\$1_{16}$\$1_{15}$\$1_{14}$\$1_{13}$\$1_{12}$\$1_{11}$\$1_{10}$\$1_{9}$\$1_{8}$\$1_{7}$\$1_{1950}$ 1975 2000 2025 2050\nAno\$1_{2075}$\$1_{2100}$\n\nONU, 2019.\n\nA partir disso, assinale a pirâmide etária que melhor representa as informações projetadas para o ano de 2050:",
       subItens: []
     },
     options: ["Pirâmide A","Pirâmide B","Pirâmide C","Pirâmide D","Pirâmide E"],
@@ -693,10 +693,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Em um estudo, pesquisadores mostraram que a energia de interação (E) de SO3 com diversas espécies tem relação com a distância da ligação S=O (Ds=O), como representado na figura.\n\nE (kcal/mol)\n25\n15\nSO3 ---NMез\nSO3 --- N\nSO3 --- NH3\nSO3 ---MeCN\n5-\nSO3 ---HCN\n0\n1,436\n1,440\n1,444\n1,448\n1,452\nDs=0 (Å)\n\nA energia de interação de uma espécie com outra pode ser entendida como a energia\nnecessária para desfazer a\nDs=0 (distância\nda ligação)\ninteração entre o SO3 e os\nO=S=O----X\ncompostos estudados (X), como\nrepresentado na figura ao lado.\nE (energia para\ndesfazer a interação)\n\nConsiderando essas informações, é correto afirmar que",
+      principal: "Em um estudo, pesquisadores mostraram que a energia de interação (E) de $1_{3}$ com diversas espécies tem relação com a distância da ligação S=O (Ds=O), como representado na figura.\n\nE (kcal/mol)\$1_{25}$\$1_{15}$\$1_{3}$ ---NMез\$1_{3}$ --- N\$1_{3}$ --- $1_{3}$\$1_{3}$ ---MeCN\$1_{5}$-\$1_{3}$ ---HCN\$1_{0}$\$1_{1}$,436\$1_{1}$,440\$1_{1}$,444\$1_{1}$,448\$1_{1}$,452\nDs=0 (Å)\n\nA energia de interação de uma espécie com outra pode ser entendida como a energia\nnecessária para desfazer a\nDs=0 (distância\nda ligação)\ninteração entre o $1_{3}$ e os\nO=S=O----X\ncompostos estudados (X), como\nrepresentado na figura ao lado.\nE (energia para\ndesfazer a interação)\n\nConsiderando essas informações, é correto afirmar que",
       subItens: []
     },
-    options: ["a interação mais forte ocorre entre SO3 е MeCN.","quanto mais forte a interação entre moléculas, mais longa é a ligação S=O.","a interação de SO3 e NH3 é a que faz com que a ligação S=O se alongue mais.","a ligação S=O se torna mais curta com o aumento da energia de interação entre moléculas.","a energia de interação do SO3 com uma molécula de HCN é do mesmo valor do que com uma molécula de NH3."],
+    options: ["a interação mais forte ocorre entre $1_{3}$ е MeCN.","quanto mais forte a interação entre moléculas, mais longa é a ligação S=O.","a interação de $1_{3}$ e $1_{3}$ é a que faz com que a ligação S=O se alongue mais.","a ligação S=O se torna mais curta com o aumento da energia de interação entre moléculas.","a energia de interação do $1_{3}$ com uma molécula de HCN é do mesmo valor do que com uma molécula de $1_{3}$."],
     correctAnswer: 1,
     materia: "",
     conteudo: "",
@@ -708,7 +708,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Write two different reactions related to the decomposition of CaCO3 (s)\n\na) Reaction 1 to decompose CaCO3 (S) (with heat):\nSurprised\n\nb) Reaction 2 to decompose CaCO3(s) (with diluted acid):\nAstonished\n\nSCIENCE MEMES. Adaptado.\n\nNo meme, a inadequação da resposta à questão está baseada no efeito de sentido proveniente da presença de",
+      principal: "Write two different reactions related to the decomposition of $1_{3}$ (s)\n\na) Reaction 1 to decompose $1_{3}$ (S) (with heat):\nSurprised\n\nb) Reaction 2 to decompose $1_{3}$(s) (with diluted acid):\nAstonished\n\nSCIENCE MEMES. Adaptado.\n\nNo meme, a inadequação da resposta à questão está baseada no efeito de sentido proveniente da presença de",
       subItens: []
     },
     options: ["metáfora.","trocadilho.","sinédoque.","eufemismo.","comparação."],
@@ -798,7 +798,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Termistores são termômetros baseados na variação da resistência elétrica com a temperatura e são utilizados em diversos equipamentos, como termômetros digitais domésticos, automóveis, refrigeradores e fornos. A curva de calibração de um termistor é mostrada na figura:\n\nR (em kΩ)\n3,0\n2,5\n2,0\n1,5\n1,0\n0,5\n0,0\n0\n10\n20\n30\n40\n50\n60\nT (em graus Celsius)\n\nConsidere que o termistor se rompa quando percorrido por uma corrente maior do que 10 mA. Supondo que o termistor seja conectado a uma bateria de 5 V, assinale a alternativa que contém uma faixa de temperaturas em que o dispositivo sempre funcionará adequadamente:\n\nNote e adote:\nA relação entre a resistência R de\num dispositivo, a corrente I que o\npercorre e a diferença de potencial\nelétrico V entre seus terminais é\nV = RI.",
+      principal: "Termistores são termômetros baseados na variação da resistência elétrica com a temperatura e são utilizados em diversos equipamentos, como termômetros digitais domésticos, automóveis, refrigeradores e fornos. A curva de calibração de um termistor é mostrada na figura:\n\nR (em kΩ)\$1_{3}$,0\$1_{2}$,5\$1_{2}$,0\$1_{1}$,5\$1_{1}$,0\$1_{0}$,5\$1_{0}$,0\$1_{0}$\$1_{10}$\$1_{20}$\$1_{30}$\$1_{40}$\$1_{50}$\$1_{60}$\nT (em graus Celsius)\n\nConsidere que o termistor se rompa quando percorrido por uma corrente maior do que 10 mA. Supondo que o termistor seja conectado a uma bateria de 5 V, assinale a alternativa que contém uma faixa de temperaturas em que o dispositivo sempre funcionará adequadamente:\n\nNote e adote:\nA relação entre a resistência R de\num dispositivo, a corrente I que o\npercorre e a diferença de potencial\nelétrico V entre seus terminais é\nV = RI.",
       subItens: []
     },
     options: ["10°C < T < 35°C","20°C < T < 45°C","30°C < T < 55°C","40°C < T < 65°C","50°C < T < 75°C"],
@@ -813,7 +813,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Diversos processos na indústria de óleo e gás podem envolver misturas de gases a diferentes temperaturas. Um sistema isolado é composto por dois compartimentos de mesmo volume: o primeiro é ocupado por n₁ = 1 mol e o segundo é ocupado por n₂ = 2 mols de um gás ideal monoatômico. Inicialmente cada compartimento encontra-se em equilíbrio térmico, com temperatura T₁ = 4T e T₂ = T, respectivamente, conforme mostra a figura:\n\nn₁ = 1 mol\nT₁ = 4T\n\nn2 = 2 mols\nT2 = T\n\nA partir de certo instante, a parede que separa os compartimentos é removida e, após algum tempo, o sistema atinge uma nova temperatura de equilíbrio Tm. Supondo que não há trabalho realizado após a remoção da parede, nem troca de calor entre o sistema e o ambiente externo, a temperatura de equilíbrio Tm é dada por:\n\nNote e adote:\nA energia interna de um gás ideal monoatômico é dada por U = 3nRT/2, sendo n o número de mols, R a constante universal dos gases ideais e T a temperatura absoluta.",
+      principal: "Diversos processos na indústria de óleo e gás podem envolver misturas de gases a diferentes temperaturas. Um sistema isolado é composto por dois compartimentos de mesmo volume: o primeiro é ocupado por n₁ = 1 mol e o segundo é ocupado por n₂ = 2 mols de um gás ideal monoatômico. Inicialmente cada compartimento encontra-se em equilíbrio térmico, com temperatura T₁ = 4T e T₂ = T, respectivamente, conforme mostra a figura:\n\nn₁ = 1 mol\nT₁ = 4T\n\$1_{2}$ = 2 mols\$1_{2}$ = T\n\nA partir de certo instante, a parede que separa os compartimentos é removida e, após algum tempo, o sistema atinge uma nova temperatura de equilíbrio Tm. Supondo que não há trabalho realizado após a remoção da parede, nem troca de calor entre o sistema e o ambiente externo, a temperatura de equilíbrio Tm é dada por:\n\nNote e adote:\nA energia interna de um gás ideal monoatômico é dada por U = 3nRT/2, sendo n o número de mols, R a constante universal dos gases ideais e T a temperatura absoluta.",
       subItens: []
     },
     options: ["T","3T/2","2T","5T/2","4T"],
@@ -828,10 +828,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O processo de transporte de O2 para a respiração pode ser entendido como um processo de equilíbrio químico entre a hemoglobina (Hb) e o O2. A Hb é uma proteína do sangue responsável pelo transporte do O2 que também pode existir na forma protonada como HbH+. Dependendo da concentração de CO2, podem ocorrer a alcalose ou a acidose respiratória. A ligação do oxigênio com a HbH+ gera a forma oxigenada (HbO2), como pode ser representado pela equação química simplificada:\n\nHbH+(aq) + O2(g) ⇌ HbO2(aq) + H+(aq)\n\nO dióxido de carbono liberado na respiração pode alterar esse equilíbrio devido à formação de ácido carbônico, representado pela equação:\n\nCO2(g) + H2O(l) ⇌ H+(aq) + HCO3-(aq)\n\nCom base nessas informações, é correto afirmar:",
+      principal: "O processo de transporte de $1_{2}_{}$ para a respiração pode ser entendido como um processo de equilíbrio químico entre a hemoglobina (Hb) e o $1_{2}_{}$. A Hb é uma proteína do sangue responsável pelo transporte do $1_{2}_{}$ que também pode existir na forma protonada como HbH+. Dependendo da concentração de $1_{2}$, podem ocorrer a alcalose ou a acidose respiratória. A ligação do oxigênio com a HbH+ gera a forma oxigenada ($1_{2}$), como pode ser representado pela equação química simplificada:\n\nHbH+(aq) + $1_{2}_{}$(g) ⇌ $1_{2}$(aq) + H+(aq)\n\nO dióxido de carbono liberado na respiração pode alterar esse equilíbrio devido à formação de ácido carbônico, representado pela equação:\n\$1_{2}$(g) + $1_{2}O_{}$(l) ⇌ H+(aq) + $1_{3}$-(aq)\n\nCom base nessas informações, é correto afirmar:",
       subItens: []
     },
-    options: ["Nos pulmões, onde a concentração de oxigênio é mais elevada, a forma de hemoglobina favorecida é a protonada.","Nos tecidos humanos, onde é consumido O2 pelo metabolismo, a forma de hemoglobina favorecida é a HbO2.","Quando uma pessoa expira mais depressa que o normal, a concentração de dióxido de carbono no seu sangue diminui e, nessas situações, a forma de hemoglobina favorecida é a forma protonada.","Nos tecidos humanos, onde é liberado dióxido de carbono produzido pelo metabolismo, a forma de hemoglobina favorecida é a forma protonada.","Nos tecidos humanos, onde é liberado dióxido de carbono produzido pelo metabolismo, a forma de hemoglobina favorecida é a HbO2."],
+    options: ["Nos pulmões, onde a concentração de oxigênio é mais elevada, a forma de hemoglobina favorecida é a protonada.","Nos tecidos humanos, onde é consumido $1_{2}_{}$ pelo metabolismo, a forma de hemoglobina favorecida é a $1_{2}$.","Quando uma pessoa expira mais depressa que o normal, a concentração de dióxido de carbono no seu sangue diminui e, nessas situações, a forma de hemoglobina favorecida é a forma protonada.","Nos tecidos humanos, onde é liberado dióxido de carbono produzido pelo metabolismo, a forma de hemoglobina favorecida é a forma protonada.","Nos tecidos humanos, onde é liberado dióxido de carbono produzido pelo metabolismo, a forma de hemoglobina favorecida é a $1_{2}$."],
     correctAnswer: 3,
     materia: "",
     conteudo: "",
@@ -858,7 +858,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Um tradicional brinquedo infantil, conhecido como bate-bate, é composto por duas esferas (bolinhas) de massas iguais conectadas cada qual por uma corda e amarradas num ponto comum. Desloca-se a bolinha 1 de uma altura h, conforme ilustrado no arranjo:\n\n1\n2\nh\n\nAo soltar a esfera 1, ela colidirá com a bolinha 2, inicialmente em repouso. Supondo que a colisão seja perfeitamente elástica, verifica-se que, após a colisão, a esfera 2 subirá para a mesma altura h. Imagine agora que uma pequena goma colante seja colocada numa das esferas de modo que, após a colisão, ambas permaneçam unidas. Neste caso, após a\n\ncolisão, a altura alcançada pelo sistema formado pelas duas bolinhas unidas será:\n\nNote e adote:\nDesconsiderar a massa da goma.",
+      principal: "Um tradicional brinquedo infantil, conhecido como bate-bate, é composto por duas esferas (bolinhas) de massas iguais conectadas cada qual por uma corda e amarradas num ponto comum. Desloca-se a bolinha 1 de uma altura h, conforme ilustrado no arranjo:\n\$1_{1}$\$1_{2}$\nh\n\nAo soltar a esfera 1, ela colidirá com a bolinha 2, inicialmente em repouso. Supondo que a colisão seja perfeitamente elástica, verifica-se que, após a colisão, a esfera 2 subirá para a mesma altura h. Imagine agora que uma pequena goma colante seja colocada numa das esferas de modo que, após a colisão, ambas permaneçam unidas. Neste caso, após a\n\ncolisão, a altura alcançada pelo sistema formado pelas duas bolinhas unidas será:\n\nNote e adote:\nDesconsiderar a massa da goma.",
       subItens: []
     },
     options: ["h/8","h/4","h/3","h/2","h"],
@@ -891,7 +891,7 @@ createQuestion({
       principal: "A figura ilustra de maneira simplificada o fenômeno da dispersão da luz branca ao incidir sobre um prisma de vidro a partir do ar, mostrando apenas raios refratados correspondentes a três cores diferentes. Um fenômeno análogo é responsável pelo aparecimento do arco-íris após uma chuva.\n\ncor 3\ncor 2\ncor 1\n\nNa base do fenômeno da dispersão está a refração de raios luminosos quando incidem sobre uma interface que separa dois meios físicos distintos. A descrição matemática da refração é feita pela lei de Snell, conforme apresentada a seguir:\n\nni,senθi = nr, asendr\n\nem que:\n\n• nia é o índice de refração da luz de comprimento de onda A no meio incidente,\n• θi é o ângulo que o raio incidente faz com a reta normal à interface,\n• nra é o índice de refração da mesma luz no meio refratado e\n• θr é o ângulo que o raio refratado faz com a reta normal à interface.\n\nO índice de refração do ar pode ser tomado como igual a 1 para qualquer comprimento de onda. Com base nessas informações, a relação correta entre os índices de refração dos raios das cores 1 (n₁), 2 (n₂) e 3 (n₃) no vidro é dada por:\n\nNote e adote:\nA função seno é crescente quando e está entre 0 e 90 graus.",
       subItens: []
     },
-    options: ["n₁ = n2 = n3 > 1","n₁ > n₂ > N3 > 1","1 < n₁ < N2 < N3","n₁ < n₂ < 13 <1","1 > n₁ > N2 > N3"],
+    options: ["n₁ = $1_{2}$ = $1_{3}$ > 1","n₁ > n₂ > $1_{3}_{}$ > 1","1 < n₁ < $1_{2}_{}$ < $1_{3}_{}$","n₁ < n₂ < 13 <1","1 > n₁ > $1_{2}_{}$ > $1_{3}_{}$"],
     correctAnswer: 1,
     materia: "",
     conteudo: "",
@@ -903,7 +903,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "\"De acordo com o órgão responsável pela área de telecomunicações e radiodifusão dos Estados Unidos, considera-se ionizante qualquer radiação eletromagnética que transporte energia maior que 10 eV (elétron-volts). Essa energia é equivalente àquela transportada pelo ultravioleta longínquo, uma das faixas mais energéticas do ultravioleta, que se estende entre 122 nm e 200 nm de comprimento de onda.\"\nDisponível em https://mundoeducacao.uol.com.br/. Adaptado.\n\n\"De acordo com a professora Patricia Nicolucci, da USP, há dois tipos de radiação: a ionizante e a não ionizante. Mas elas possuem características diferentes de interação com o corpo humano. '[Alguns tipos de radiação] são consideradas não ionizantes porque a energia não é suficiente para liberar elétrons quando interagem com o tecido do corpo humano ou qualquer outro material. Já a radiação ionizante, utilizada em\n\nmedicina nuclear e em radioterapia, tem uma energia maior, o que lhe confere essa característica de tirar elétrons dos átomos da matéria com a qual interage'.\"\nDisponível em https://www5.usp.br/noticias/. Adaptado.\n\nCom base nos textos e nos seus conhecimentos, assinale a alternativa correta.",
+      principal: "\"De acordo com o órgão responsável pela área de telecomunicações e radiodifusão dos Estados Unidos, considera-se ionizante qualquer radiação eletromagnética que transporte energia maior que 10 eV (elétron-volts). Essa energia é equivalente àquela transportada pelo ultravioleta longínquo, uma das faixas mais energéticas do ultravioleta, que se estende entre 122 nm e 200 nm de comprimento de onda.\"\nDisponível em https://mundoeducacao.uol.com.br/. Adaptado.\n\n\"De acordo com a professora Patricia Nicolucci, da USP, há dois tipos de radiação: a ionizante e a não ionizante. Mas elas possuem características diferentes de interação com o corpo humano. '[Alguns tipos de radiação] são consideradas não ionizantes porque a energia não é suficiente para liberar elétrons quando interagem com o tecido do corpo humano ou qualquer outro material. Já a radiação ionizante, utilizada em\n\nmedicina nuclear e em radioterapia, tem uma energia maior, o que lhe confere essa característica de tirar elétrons dos átomos da matéria com a qual interage'.\"\nDisponível em https://$1_{5}$.usp.br/noticias/. Adaptado.\n\nCom base nos textos e nos seus conhecimentos, assinale a alternativa correta.",
       subItens: []
     },
     options: ["A luz de lâmpadas brancas, as micro-ondas e o laser vermelho podem ser considerados exemplos de radiação não ionizante.","Radiação eletromagnética de comprimentos de onda maiores tem um efeito ionizante mais acentuado do que a de comprimentos de onda menores.","Luz visível não pode ser considerada uma forma de radiação, uma vez que tem efeitos desprezíveis sobre tecidos do corpo humano.","O efeito fotoelétrico é um exemplo de interação de radiação não ionizante com a matéria.","A liberação de elétrons de moléculas de tecidos do corpo humano por radiações ionizantes não afeta as propriedades químicas dessas moléculas."],
@@ -918,7 +918,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Alguns aviões empregam fibra de carbono em uma porcentagem significativa de suas estruturas, tornando-as muito menos densas. Partes da estrutura, no entanto, são compostas por metais. Devido à baixa densidade, o alumínio seria uma boa alternativa de metal a ser usado. Entretanto, quando em contato com fibra de carbono, o alumínio é corroído. Esse processo é denominado corrosão galvânica e acontece quando dois materiais que possuem potencial elétrico diferentes são colocados em contato com um eletrólito, como uma solução salina. Para abordar esse problema, pode-se avaliar os potenciais elétricos, densidade e preço aproximado de diversos materiais apresentados na figura a seguir.\n\nPotencial elétrico em solução salina (V)\n0,2 0,0 -0,2 -0,4 -0,6 -0,8 -1,0 -1,2 -1,4 -1,6 -1,8\nZn (7,14 g/cm³, R$ 15/kg)\nAl (2,7 g/cm³; R$ 15/kg)\nCd (8,65 g/cm³; R$ 150/kg)\nAg (10,49 g/cm³; R$ 4.10³/kg)\nTi (4,5 g/cm³; R$ 150/kg)\nAu (19,3 g/cm³; R$ 3,2.105/kg)\nIC (1,93 g/cm³; R$ 1,5.103/kg)\n\nConsiderando o exposto, o elemento mais adequado para ser utilizado no lugar do alumínio de forma a obter os menores custo e densidade possíveis, com a máxima resistência a corrosão possível, é:",
+      principal: "Alguns aviões empregam fibra de carbono em uma porcentagem significativa de suas estruturas, tornando-as muito menos densas. Partes da estrutura, no entanto, são compostas por metais. Devido à baixa densidade, o alumínio seria uma boa alternativa de metal a ser usado. Entretanto, quando em contato com fibra de carbono, o alumínio é corroído. Esse processo é denominado corrosão galvânica e acontece quando dois materiais que possuem potencial elétrico diferentes são colocados em contato com um eletrólito, como uma solução salina. Para abordar esse problema, pode-se avaliar os potenciais elétricos, densidade e preço aproximado de diversos materiais apresentados na figura a seguir.\n\nPotencial elétrico em solução salina (V)\$1_{0}$,2 0,0 -0,2 -0,4 -0,6 -0,8 -1,0 -1,2 -1,4 -1,6 -1,8\nZn (7,14 g/cm³, R$ 15/kg)\nAl (2,7 g/cm³; R$ 15/kg)\nCd (8,65 g/cm³; R$ 150/kg)\nAg (10,49 g/cm³; R$ 4.10³/kg)\nTi (4,5 g/cm³; R$ 150/kg)\nAu (19,3 g/cm³; R$ 3,2.105/kg)\nIC (1,93 g/cm³; R$ 1,5.103/kg)\n\nConsiderando o exposto, o elemento mais adequado para ser utilizado no lugar do alumínio de forma a obter os menores custo e densidade possíveis, com a máxima resistência a corrosão possível, é:",
       subItens: []
     },
     options: ["Ouro.","Titânio.","Prata.","Cádmio.","Zinco."],
@@ -993,7 +993,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Lavouras que mais utilizam fertilizantes no Brasil (%)\n\nMilho\n17\n\nSoja\n40\n\n4\n22\nOutras culturas\n\n12 Cana-de-açúcar\n5\nCafé\nAlgodão\n\nO Estado de São Paulo, março de 2022.\n\nA partir do gráfico e de seus conhecimentos sobre a dinâmica do espaço agrário brasileiro, é correto afirmar que o uso de fertilizantes no Brasil ocorre, majoritariamente,",
+      principal: "Lavouras que mais utilizam fertilizantes no Brasil (%)\n\nMilho\$1_{17}$\n\nSoja\$1_{40}$\n\$1_{4}$\$1_{22}$\nOutras culturas\n\$1_{12}$ Cana-de-açúcar\$1_{5}$\nCafé\nAlgodão\n\nO Estado de São Paulo, março de 2022.\n\nA partir do gráfico e de seus conhecimentos sobre a dinâmica do espaço agrário brasileiro, é correto afirmar que o uso de fertilizantes no Brasil ocorre, majoritariamente,",
       subItens: []
     },
     options: ["em lavouras intensivas, em pequenas propriedades, com baixa produtividade e pouco emprego de tecnologia, direcionadas ao mercado internacional de commodities, principalmente no Centro-Sul do país.","em lavouras extensivas, com elevado emprego de mão de obra, altíssima mecanização, com predomínio de adoção de práticas conservacionistas e baixo impacto ambiental, principalmente na região Norte do país.","em lavouras destinadas ao abastecimento do mercado interno, intensamente mecanizadas, com predomínio de grandes propriedades e com baixo impacto ambiental, principalmente na região Nordeste do país.","em lavouras mecanizadas, destinadas ao mercado internacional, com predomínio do emprego de mão de obra especializada, principalmente no Centro-Sul do país.","em lavouras extensivas, destinadas ao mercado externo, com alta mecanização e emprego de mão de obra especializada, principalmente nas regiões Norte e Nordeste do país."],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "A figura representa o ciclo da leishmania, causadora da leishmaniose.\n\n4\nInfecção das células\nda glândula salivar\ndo mosquito\n\nMosquito se alimenta\nFASE NO\nHOSPEDEIRO\nINVERTEBRADO\nde sangue\ndo mamífero\n1)\n\nIngestão de\ncélulas parasitadas\n\nMosquito se alimenta\nde sangue\ndo mamífero\n3\n\nFASE NO\nHOSPEDEIRO\nVERTEBRADO\n\n2\n\nA forma\ninfectante\né fagocitada\npor\nmacrófagos\nonde se\nmultiplica\n\nMOREIRA et al. 2020. \"Aspectos fundamentais da leishmaniose cutânea no Brasil\". DOI:10.22533/at.ed.4852012037. Adaptado.\n\nO parasita sobrevive nas células do hospedeiro mamífero pela inativação de enzimas da(o) 1 o que bloqueia a digestão intracelular e possibilita a continuidade do ciclo da leishmania. Uma das formas de se prevenir a transmissão dessa doença é II.\n\nAs lacunas I e II podem ser preenchidas corretamente por:",
+      principal: "A figura representa o ciclo da leishmania, causadora da leishmaniose.\n\$1_{4}$\nInfecção das células\nda glândula salivar\ndo mosquito\n\nMosquito se alimenta\nFASE NO\nHOSPEDEIRO\nINVERTEBRADO\nde sangue\ndo mamífero\$1_{1}$)\n\nIngestão de\ncélulas parasitadas\n\nMosquito se alimenta\nde sangue\ndo mamífero\$1_{3}$\n\nFASE NO\nHOSPEDEIRO\nVERTEBRADO\n\$1_{2}$\n\nA forma\ninfectante\né fagocitada\npor\nmacrófagos\nonde se\nmultiplica\n\nMOREIRA et al. 2020. \"Aspectos fundamentais da leishmaniose cutânea no Brasil\". DOI:10.22533/at.ed.4852012037. Adaptado.\n\nO parasita sobrevive nas células do hospedeiro mamífero pela inativação de enzimas da(o) 1 o que bloqueia a digestão intracelular e possibilita a continuidade do ciclo da leishmania. Uma das formas de se prevenir a transmissão dessa doença é II.\n\nAs lacunas I e II podem ser preenchidas corretamente por:",
       subItens: []
     },
     options: ["I: mitocôndria e II: morando em zonas urbanas.","I: mitocôndria e II: ingerindo antibióticos.","I: núcleo e II: eutanasiando cães infectados.","I: lisossomo e II: tratando esgotos.","I: lisossomo e II: utilizando repelente."],
@@ -1233,7 +1233,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Considere a região do plano cartesiano\n\nA = {(x, y) ∈ R2: |x| + |y| ≤ 1}\n\nesboçada na figura.\n\ny\n1\n-1\n1\nx\n-1\n\nRegião A\n\nDado B = {(x, y) ∈ R2: (x + 1)² + y² ≥ 1}, a área da região A ∩ B é:",
+      principal: "Considere a região do plano cartesiano\n\nA = {(x, y) ∈ $1_{2}_{}$: |x| + |y| ≤ 1}\n\nesboçada na figura.\n\ny\$1_{1}$\n-1\$1_{1}$\nx\n-1\n\nRegião A\n\nDado B = {(x, y) ∈ $1_{2}_{}$: (x + 1)² + y² ≥ 1}, a área da região A ∩ B é:",
       subItens: []
     },
     options: ["2 - π/4","2 - π/2","4 + π/2","4 - π/4","2 + π/2"],
@@ -1248,7 +1248,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "No plano cartesiano, os pontos (3,2) e (5,4) pertencem ao gráfico da função dada por\n\ny = log2(ax + b).\n\nO valor de a + b é:",
+      principal: "No plano cartesiano, os pontos (3,2) e (5,4) pertencem ao gráfico da função dada por\n\ny = $1_{2}$(ax + b).\n\nO valor de a + b é:",
       subItens: []
     },
     options: ["-8","-6","0","4","8"],
@@ -1278,7 +1278,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "O heredograma a seguir mostra o aparecimento de AME (atrofia muscular espinhal) em um menino, filho de um casal de primos.\n\nI.\n\nLegenda:\n1\n2\nHomem sem AME\nMulher sem AME\nMenino com AME\n\nII.\n1\n2\n3\n?\n\nA AME é uma doença autossômica recessiva rara, muitas vezes fatal na primeira infância, provocada pela morte de neurônios motores. Uma das causas da AME é uma mutação no gene SMN1, cuja frequência é de 2% na população sem AME (uma em cada 50 pessoas tem um alelo mutante).\n\nConsiderando os genótipos prováveis da mulher II.2 e que não há relação de parentesco com seu parceiro, a probabilidade de uma criança deste casal ser portadora da AME é uma em:",
+      principal: "O heredograma a seguir mostra o aparecimento de AME (atrofia muscular espinhal) em um menino, filho de um casal de primos.\n\nI.\n\nLegenda:\$1_{1}$\$1_{2}$\nHomem sem AME\nMulher sem AME\nMenino com AME\n\nII.\$1_{1}$\$1_{2}$\$1_{3}$\n?\n\nA AME é uma doença autossômica recessiva rara, muitas vezes fatal na primeira infância, provocada pela morte de neurônios motores. Uma das causas da AME é uma mutação no gene $1_{1}$, cuja frequência é de 2% na população sem AME (uma em cada 50 pessoas tem um alelo mutante).\n\nConsiderando os genótipos prováveis da mulher II.2 e que não há relação de parentesco com seu parceiro, a probabilidade de uma criança deste casal ser portadora da AME é uma em:",
       subItens: []
     },
     options: ["50","100","200","300","600"],
@@ -1308,7 +1308,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "A FIFA (Federação Internacional de Futebol) implementou, em 2018, a versão mais recente do ranking das seleções. Suponha que as seleções A e B, com pontuações PA e PB respectivamente, disputarão uma final de Copa do Mundo. A pontuação atualizada da seleção A após a partida será dada por\n\nPA = PA + 60(Va – EA),\n\nonde\n\nEA = (PA-PB) / (1 + 10^((PA-PB)/600))\n\ne o valor de Va depende do resultado da partida de acordo com a tabela:\n\nResultado da partida\nVitória de A\nEmpate\nDerrota de A\n\nValor de VA\n1\n0,5\n0\n\nSabendo que PA - PB = 360, se a seleção A vencer a partida, sua pontuação aumentará em\n\nNote e adote:\nlog102 = 0,3",
+      principal: "A FIFA (Federação Internacional de Futebol) implementou, em 2018, a versão mais recente do ranking das seleções. Suponha que as seleções A e B, com pontuações PA e PB respectivamente, disputarão uma final de Copa do Mundo. A pontuação atualizada da seleção A após a partida será dada por\n\nPA = PA + 60(Va – EA),\n\nonde\n\nEA = (PA-PB) / (1 + 10^((PA-PB)/600))\n\ne o valor de Va depende do resultado da partida de acordo com a tabela:\n\nResultado da partida\nVitória de A\nEmpate\nDerrota de A\n\nValor de VA\$1_{1}$\$1_{0}$,5\$1_{0}$\n\nSabendo que PA - PB = 360, se a seleção A vencer a partida, sua pontuação aumentará em\n\nNote e adote:\$1_{102}$ = 0,3",
       subItens: []
     },
     options: ["6 pontos.","10 pontos.","12 pontos.","15 pontos.","20 pontos."],
@@ -1323,7 +1323,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Dado um número natural n ≥ 2, o primorial de n, denotado por n#, é o produto de todos os números primos menores que ou iguais a n. Por exemplo,\n\n6#=2.3.5 = 30.\n\nO menor número da forma n# que é maior que 2000 é:",
+      principal: "Dado um número natural n ≥ 2, o primorial de n, denotado por n#, é o produto de todos os números primos menores que ou iguais a n. Por exemplo,\n\$1_{6}$#=2.3.5 = 30.\n\nO menor número da forma n# que é maior que 2000 é:",
       subItens: []
     },
     options: ["2300","2305","2310","2312","2322"],
@@ -1338,7 +1338,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2023,
     text: {
-      principal: "Para medir o volume de uma pedra com formato irregular, Ana utilizou um recipiente cilíndrico de raio r = 8 cm e com água até a altura de 20 cm. Após colocar a pedra no recipiente, a altura da água subiu para 23,5 cm.\n\n20 cm\nágua\npedra\n\n23,5 cm\n\nO volume da pedra é:",
+      principal: "Para medir o volume de uma pedra com formato irregular, Ana utilizou um recipiente cilíndrico de raio r = 8 cm e com água até a altura de 20 cm. Após colocar a pedra no recipiente, a altura da água subiu para 23,5 cm.\n\$1_{20}$ cm\nágua\npedra\n\$1_{23}$,5 cm\n\nO volume da pedra é:",
       subItens: []
     },
     options: ["128π cm³","224π cm³","240π cm³","282π cm³","320π cm³"],

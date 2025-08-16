@@ -93,7 +93,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 7\nÉ sabido que a energia E liberada por um terremoto pode ser medida pela relação ML = log10(1000. E), sendo E medido em quilowatt-hora, e ML a magnitude do terremoto na Escala Richter. Sendo assim, a energia que é liberada por um terremoto de magnitude 5 na Escala Richter, quando comparada à energia liberada por um terremoto de magnitude 3, na mesma Escala, é",
+      principal: "QUESTÃO 7\nÉ sabido que a energia E liberada por um terremoto pode ser medida pela relação ML = $1_{10}$(1000. E), sendo E medido em quilowatt-hora, e ML a magnitude do terremoto na Escala Richter. Sendo assim, a energia que é liberada por um terremoto de magnitude 5 na Escala Richter, quando comparada à energia liberada por um terremoto de magnitude 3, na mesma Escala, é",
       subItens: []
     },
     options: ["1 000 vezes maior.","500 vezes maior.","100 vezes maior.","50 vezes maior.","10 vezes maior."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 25\nO equipamento de fisioterapia ilustrado abaixo é utilizado para recuperação de lesões no joelho. Sentado na prancha, que é um plano inclinado, o paciente empurra com o pé a plataforma, resultando numa compressão da mola. Após fazer este movimento, relaxa a musculatura, deixando que a mola empurre a perna de volta à posição inicial. Para ajustar o ângulo (θ) de inclinação ideal do plano, em relação à horizontal, para um paciente em função da massa deste, o profissional realiza a seguinte sequência de passos:\n1. Inicialmente comprime-se a mola, de constante elástica 8,4.102 N/m, em 20 cm, e coloca-se na plataforma um corpo de prova com 1/5 da massa do paciente, que serve para simular a massa e a resistência equivalentes da perna;\n2. Solta-se a mola, observando-se o movimento do corpo, enquanto a mola se descomprime e para em sua posição inicial; e\n3. Ο ângulo θ ideal é alcançado quando a mola consegue retornar à sua posição inicial, sem deixar que o corpo perca o contato com a plataforma.\n(Dados: considere a aceleração da gravidade igual a 10 m/s² e despreze as forças dissipativas.)\n\nGráfico/Tabela: Duas imagens de um equipamento de fisioterapia com uma pessoa e com um corpo de prova em um plano inclinado. A mola está comprimida. Uma tabela trigonométrica é fornecida com valores de senθ, cosθ, tanθ para ângulos de 21°, 23°, 25°, 27°, 29°.\n\nConsultando a tabela trigonométrica fornecida e considerando o plano inclinado liso e a mola ideal, pode-se concluir que o ângulo θ ajustado para um paciente de 100 kg de massa vale, em graus,",
+      principal: "QUESTÃO 25\nO equipamento de fisioterapia ilustrado abaixo é utilizado para recuperação de lesões no joelho. Sentado na prancha, que é um plano inclinado, o paciente empurra com o pé a plataforma, resultando numa compressão da mola. Após fazer este movimento, relaxa a musculatura, deixando que a mola empurre a perna de volta à posição inicial. Para ajustar o ângulo (θ) de inclinação ideal do plano, em relação à horizontal, para um paciente em função da massa deste, o profissional realiza a seguinte sequência de passos:\$1_{1}$. Inicialmente comprime-se a mola, de constante elástica 8,4.102 N/m, em 20 cm, e coloca-se na plataforma um corpo de prova com 1/5 da massa do paciente, que serve para simular a massa e a resistência equivalentes da perna;\$1_{2}$. Solta-se a mola, observando-se o movimento do corpo, enquanto a mola se descomprime e para em sua posição inicial; e\$1_{3}$. Ο ângulo θ ideal é alcançado quando a mola consegue retornar à sua posição inicial, sem deixar que o corpo perca o contato com a plataforma.\n(Dados: considere a aceleração da gravidade igual a 10 m/s² e despreze as forças dissipativas.)\n\nGráfico/Tabela: Duas imagens de um equipamento de fisioterapia com uma pessoa e com um corpo de prova em um plano inclinado. A mola está comprimida. Uma tabela trigonométrica é fornecida com valores de senθ, cosθ, tanθ para ângulos de 21°, 23°, 25°, 27°, 29°.\n\nConsultando a tabela trigonométrica fornecida e considerando o plano inclinado liso e a mola ideal, pode-se concluir que o ângulo θ ajustado para um paciente de 100 kg de massa vale, em graus,",
       subItens: []
     },
     options: ["21","23","25","27","29"],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 28\nNas últimas décadas, a humanidade investiu dezenas de bilhões de reais na construção de equipamentos que colaborassem para uma compreensão mais profunda do Cosmo. São exemplos disso os telescópios Hubble, VLT e ELT; o acelerador de partículas LHC; e o novo projeto da NASA: o telescópio espacial James Webb (JW), com lançamento previsto para 2020. O JW possui um espelho primário de impressionantes 6,5 m de diâmetro, e óptica ativa, ou seja, as placas hexagonais, que compõem o espelho, podem ser ajustadas individualmente. O projeto é colocá-lo em órbita do Sol, no segundo ponto de Lagrange (L2), a cerca de 1,5 milhões de km da Terra, onde os períodos orbitais do telescópio e da Terra se igualam. Com isso, o telescópio contará com um bloqueio da luz do Sol, da Terra e da Lua, protegendo-o de radiações indesejadas.\n\nGráfico/Tabela: Imagens comparando o tamanho dos espelhos do Hubble e do JWST, e uma representação do telescópio JWST no espaço, com seus escudos solares.\n\nSobre o projeto JW, são feitas as seguintes afirmações:\nI. O espelho primário utilizado deve refletir a radiação para um ponto onde se capta a imagem e, portanto, deve ser um espelho côncavo.\nII. Basicamente, o princípio de funcionamento de um telescópio é coletar radiação; assim, quanto maior a área refletora do seu espelho primário, mais radiação se concentra nos sensores do telescópio.\nIII. No L2, a força gravitacional que o Sol exerce sobre o JW será muito maior do que a força que o JW fará no Sol; por isso o Sol não sentirá nenhum efeito de sua presença.\nIV. A escolha de L2 se deve ao fato de a força resultante sobre o JW se anular, garantindo que ele ficará protegido, ampliando a nitidez das imagens captadas.\nÉ correto o que se afirma em",
+      principal: "QUESTÃO 28\nNas últimas décadas, a humanidade investiu dezenas de bilhões de reais na construção de equipamentos que colaborassem para uma compreensão mais profunda do Cosmo. São exemplos disso os telescópios Hubble, VLT e ELT; o acelerador de partículas LHC; e o novo projeto da NASA: o telescópio espacial James Webb (JW), com lançamento previsto para 2020. O JW possui um espelho primário de impressionantes 6,5 m de diâmetro, e óptica ativa, ou seja, as placas hexagonais, que compõem o espelho, podem ser ajustadas individualmente. O projeto é colocá-lo em órbita do Sol, no segundo ponto de Lagrange ($1_{2}_{}$), a cerca de 1,5 milhões de km da Terra, onde os períodos orbitais do telescópio e da Terra se igualam. Com isso, o telescópio contará com um bloqueio da luz do Sol, da Terra e da Lua, protegendo-o de radiações indesejadas.\n\nGráfico/Tabela: Imagens comparando o tamanho dos espelhos do Hubble e do JWST, e uma representação do telescópio JWST no espaço, com seus escudos solares.\n\nSobre o projeto JW, são feitas as seguintes afirmações:\nI. O espelho primário utilizado deve refletir a radiação para um ponto onde se capta a imagem e, portanto, deve ser um espelho côncavo.\nII. Basicamente, o princípio de funcionamento de um telescópio é coletar radiação; assim, quanto maior a área refletora do seu espelho primário, mais radiação se concentra nos sensores do telescópio.\nIII. No $1_{2}_{}$, a força gravitacional que o Sol exerce sobre o JW será muito maior do que a força que o JW fará no Sol; por isso o Sol não sentirá nenhum efeito de sua presença.\nIV. A escolha de $1_{2}_{}$ se deve ao fato de a força resultante sobre o JW se anular, garantindo que ele ficará protegido, ampliando a nitidez das imagens captadas.\nÉ correto o que se afirma em",
       subItens: []
     },
     options: ["I e II, apenas.","II e III, apenas.","III e IV, apenas.","I, II e III, apenas.","I, II, III e IV."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 33\nO circuito elétrico representado no desenho abaixo é utilizado para medir a temperatura de uma massa de água. O termostato T fica imerso na água e sua resistência elétrica varia com a temperatura, conforme exibe o gráfico temperatura da água em função da resistência.\n\nGráfico/Tabela: Desenho de um circuito elétrico com resistores R1, R2, R3, um voltímetro V e um termostato T. Há também um gráfico \"Temperatura x resistência\" mostrando a temperatura (°C) no eixo Y e a resistência (kΩ) no eixo X, com uma curva ascendente.\n\nConhecendo-se o valor das resistências: R1 = 1 KΩ, R2 = 500 Ω e R3 = 1,8 kΩ e da tensão U = 6 V, pode-se afirmar que, quando o voltímetro indicar zero volts, a água deverá estar a uma temperatura, em °C, de\n(Considere o voltímetro ideal.)",
+      principal: "QUESTÃO 33\nO circuito elétrico representado no desenho abaixo é utilizado para medir a temperatura de uma massa de água. O termostato T fica imerso na água e sua resistência elétrica varia com a temperatura, conforme exibe o gráfico temperatura da água em função da resistência.\n\nGráfico/Tabela: Desenho de um circuito elétrico com resistores $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$, um voltímetro V e um termostato T. Há também um gráfico \"Temperatura x resistência\" mostrando a temperatura (°C) no eixo Y e a resistência (kΩ) no eixo X, com uma curva ascendente.\n\nConhecendo-se o valor das resistências: $1_{1}_{}$ = 1 KΩ, $1_{2}_{}$ = 500 Ω e $1_{3}_{}$ = 1,8 kΩ e da tensão U = 6 V, pode-se afirmar que, quando o voltímetro indicar zero volts, a água deverá estar a uma temperatura, em °C, de\n(Considere o voltímetro ideal.)",
       subItens: []
     },
     options: ["25","38","50","90","270"],
@@ -606,7 +606,7 @@ createQuestion({
       principal: "QUESTÃO 41\nO diabetes melito é um distúrbio hormonal em que as células beta das ilhotas pancreáticas não produzem quantidades normais de insulina. Nessa situação, entre outras alterações, a pessoa apresenta níveis elevados de glicose e de corpos cetônicos no sangue, estes decorrentes de vias metabólicas alternativas para obtenção de energia.\nOs corpos cetônicos decorrem da metabolização de lipídios, representados em:",
       subItens: []
     },
-    options: ["H-C-C-C-H (com OH em cada C)","Estrutura de um álcool, com CH2OH-CH2OH, e OH","Estrutura com anel benzeno, NH2, C, CH3, OH","Estrutura de um fosfolipídio com cadeia de CH2 e grupos fosfato","Cadeia longa de carbonos com H e OH"],
+    options: ["H-C-C-C-H (com OH em cada C)","Estrutura de um álcool, com CH2OH-CH2OH, e OH","Estrutura com anel benzeno, $1_{2}$, C, $1_{3}$, OH","Estrutura de um fosfolipídio com cadeia de $1_{2}$ e grupos fosfato","Cadeia longa de carbonos com H e OH"],
     correctAnswer: 4,
     materia: "Biologia – Bioquímica",
     conteudo: "Biologia – Metabolismo",
@@ -693,7 +693,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 47\nNo esquema abaixo, I, II e III são substâncias produzidas pela oxidação da glicose. Os processos Y e Z ocorrem, respectivamente, em leveduras e células animais, nas situações em que há limitação de O2.\n\nGráfico/Tabela: Esquema de via metabólica. Glicose passa por Processo X, produzindo I. I pode ir para Processo Y (produzindo II) ou Processo Z (produzindo III).\n\nNas vias metabólicas representadas, o processo X ocorre",
+      principal: "QUESTÃO 47\nNo esquema abaixo, I, II e III são substâncias produzidas pela oxidação da glicose. Os processos Y e Z ocorrem, respectivamente, em leveduras e células animais, nas situações em que há limitação de $1_{2}_{}$.\n\nGráfico/Tabela: Esquema de via metabólica. Glicose passa por Processo X, produzindo I. I pode ir para Processo Y (produzindo II) ou Processo Z (produzindo III).\n\nNas vias metabólicas representadas, o processo X ocorre",
       subItens: []
     },
     options: ["no citoplasma; e I, II e III identificam, respectivamente, o etanol, o ácido pirúvico e o ácido lático.","no citoplasma; e I, II e III identificam, respectivamente, o ácido lático, o etanol e o ácido pirúvico.","no citoplasma; e I, II e III identificam, respectivamente, o ácido pirúvico, o etanol e o ácido lático.","na mitocôndria; e I, II e III identificam, respectivamente, o etanol, o ácido lático e o ácido pirúvico.","na mitocondria; e I, II e III identificam, respectivamente, o ácido lático, o ácido pirúvico e o etanol."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 51\nAnalise o seguinte idiograma:\n\nGráfico/Tabela: Idiograma de um cariótipo, mostrando cromossomos sexuais XX para A, B, C, D, E, F e G. Em cada letra (A a G) há representações de cromossomos XX.\n\nA pessoa à qual pertence o cariótipo representado acima possui um alelo ligado ao cromossomo X. Essa pessoa transmitirá tal alelo, na geração F1,",
+      principal: "QUESTÃO 51\nAnalise o seguinte idiograma:\n\nGráfico/Tabela: Idiograma de um cariótipo, mostrando cromossomos sexuais XX para A, B, C, D, E, F e G. Em cada letra (A a G) há representações de cromossomos XX.\n\nA pessoa à qual pertence o cariótipo representado acima possui um alelo ligado ao cromossomo X. Essa pessoa transmitirá tal alelo, na geração $1_{1}_{}$,",
       subItens: []
     },
     options: ["a todos os seus descendentes do sexo masculino e do sexo feminino.","a todos os seus descendentes do sexo masculino.","a todos os seus descendentes do sexo feminino.","à metade dos seus descendentes do sexo masculino.","à metade dos seus descendentes do sexo feminino."],
@@ -771,7 +771,7 @@ createQuestion({
       principal: "QUESTÃO 52\nO ciclo celular de uma célula se refere ao período que vai do surgimento da célula por divisão até a própria célula dividir-se em duas. Em termos de etapas e processos, o ciclo celular de uma célula somática consiste de",
       subItens: []
     },
-    options: ["prófase, metáfase, anáfase e telófase.","fase G1, fase S, fase G2 e citocinese.","fase G1, fase S, fase G2 e meiose.","interfase, mitose e citocinese.","meiose e mitose."],
+    options: ["prófase, metáfase, anáfase e telófase.","fase $1_{1}_{}$, fase S, fase $1_{2}_{}$ e citocinese.","fase $1_{1}_{}$, fase S, fase $1_{2}_{}$ e meiose.","interfase, mitose e citocinese.","meiose e mitose."],
     correctAnswer: 3,
     materia: "Biologia – Biologia Celular",
     conteudo: "",
@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 56\nConsidere uma mistura de óxido de ferro (III), Fe2O3, óxido de cromo (III), Cr2O3, e alumínio metálico, todos sob forma de pó e em proporções de massa estequiométricas. Após ignição, essa mistura reagiu completamente, com grande liberação de energia térmica, produzindo ferro metálico, cromo metálico e óxido de alumínio, conforme a equação química:\nFe2O3(s) + Cr2O3(s) + 4Al(s) → 2Fe(l) + 2Cr(l) + 2Al2O3(s) + energia\nA mistura dos metais líquidos produzida, após solidificação, resultou em uma liga metálica cuja composição em massa é dada por:\n(massas molares em g/mol: O = 16; Al = 27; Cr = 52; Fe = 56)",
+      principal: "QUESTÃO 56\nConsidere uma mistura de óxido de ferro (III), $1_{2}O_{3}$, óxido de cromo (III), $1_{2}O_{3}$, e alumínio metálico, todos sob forma de pó e em proporções de massa estequiométricas. Após ignição, essa mistura reagiu completamente, com grande liberação de energia térmica, produzindo ferro metálico, cromo metálico e óxido de alumínio, conforme a equação química:\nFe2O3(s) + $1_{2}O_{3}$(s) + 4Al(s) → 2Fe(l) + 2Cr(l) + 2Al2O3(s) + energia\nA mistura dos metais líquidos produzida, após solidificação, resultou em uma liga metálica cuja composição em massa é dada por:\n(massas molares em g/mol: O = 16; Al = 27; Cr = 52; Fe = 56)",
       subItens: []
     },
     options: ["Fe 72,63%; Cr 27,37%.","Fe 61,25%; Cr 38,75%.","Fe 51,85%; Cr 48,15%.","Fe 48,15%; Cr 51,85%.","Fe 27,37%; Cr 72,63%."],
@@ -843,10 +843,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 57\nConsidere as substâncias: Sn, Hg, KCI, CCl4 e NaNO3. As duas que apresentam boa condutibilidade elétrica no estado líquido e praticamente não conduzem eletricidade no estado sólido são",
+      principal: "QUESTÃO 57\nConsidere as substâncias: Sn, Hg, KCI, $1_{4}$ e $1_{3}$. As duas que apresentam boa condutibilidade elétrica no estado líquido e praticamente não conduzem eletricidade no estado sólido são",
       subItens: []
     },
-    options: ["KCI e CCI4.","KCI e NaNO3.","Sn e Hg.","Sn e KCI.","Hg e NaNO3."],
+    options: ["KCI e $1_{4}$.","KCI e $1_{3}$.","Sn e Hg.","Sn e KCI.","Hg e $1_{3}$."],
     correctAnswer: 1,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Condutibilidade Elétrica",
@@ -861,7 +861,7 @@ createQuestion({
       principal: "QUESTÃO 58\nConsidere as seguintes informações sobre dois elementos químicos:\n\nGráfico/Tabela: Tabela de Eletronegatividade (escala de Pauling) e Número de elétrons da camada de valência para os elementos X e Y.\nElemento | Eletronegatividade (escala de Pauling) | Número de elétrons da camada de valência do átomo no estado fundamental\nX | 0,89 | 2\nY | 3,44 | 6\n\nA ligação química entre os átomos desses dois elementos é _____ e a fórmula do composto formado é _____\nAs lacunas do enunciado, na ordem em que aparecem, são corretamente preenchidas por:",
       subItens: []
     },
-    options: ["iônica e XY.","iônica e X3Y2.","covalente simples e XY.","covalente dupla e XY.","covalente tripla e X2Y3."],
+    options: ["iônica e XY.","iônica e $1_{3}Y_{2}$.","covalente simples e XY.","covalente dupla e XY.","covalente tripla e $1_{2}Y_{3}$."],
     correctAnswer: 0,
     materia: "Química – Ligações Químicas",
     conteudo: "",
@@ -903,10 +903,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 61\nHá diversos óxidos de nitrogênio. A análise de um deles levou à composição centesimal representada pela fórmula N63,64%O36,36%. Esse óxido analisado pode ser o\n(Dados: massas molares em g/mol: N = 14; O = 16)",
+      principal: "QUESTÃO 61\nHá diversos óxidos de nitrogênio. A análise de um deles levou à composição centesimal representada pela fórmula $1_{63}_{}$,64%$1_{36}_{}$,36%. Esse óxido analisado pode ser o\n(Dados: massas molares em g/mol: N = 14; O = 16)",
       subItens: []
     },
-    options: ["NO.","NO2.","N2O.","N2O3.","N2O5."],
+    options: ["NO.","$1_{2}$.","$1_{2}O_{}$.","$1_{2}O_{3}$.","$1_{2}O_{5}$."],
     correctAnswer: 2,
     materia: "Química – Estequiometria",
     conteudo: "Química – Fórmulas Químicas",
@@ -921,7 +921,7 @@ createQuestion({
       principal: "QUESTÃO 62\nApresentam os mesmos pares de valores, para as propriedades coligativas de cada substância, soluções aquosas 1 mol/L de",
       subItens: []
     },
-    options: ["K2SO4 e CaCl2.","KBr e BaCl2.","C6H12O6 (glicose) e NaOH.","Na2SO4 e MgSO4.","H2SO4 e HNO3."],
+    options: ["$1_{2}SO_{4}$ e $1_{2}$.","KBr e $1_{2}$.","C6H12O6 (glicose) e NaOH.","$1_{2}SO_{4}$ e $1_{4}$.","$1_{2}SO_{4}$ e $1_{3}$."],
     correctAnswer: 0,
     materia: "Química – Soluções",
     conteudo: "Química – Propriedades Coligativas",
@@ -933,7 +933,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 63\nA medida do pH de uma solução aquosa 1 mol/L de amônia a 25 °C mostrou o valor 11,5. Sabendo-se que o produto iônico da água (Kw), nessa temperatura, vale 1 x 10-14, estima-se que o valor da constante de ionização da amônia em solução aquosa, Kb, é da ordem de",
+      principal: "QUESTÃO 63\nA medida do pH de uma solução aquosa 1 mol/L de amônia a 25 °C mostrou o valor 11,5. Sabendo-se que o produto iônico da água (Kw), nessa temperatura, vale $1 \times 10^{-14}$, estima-se que o valor da constante de ionização da amônia em solução aquosa, Kb, é da ordem de",
       subItens: []
     },
     options: ["10-1.","10-2.","10-3.","10-4.","10-5."],
@@ -948,10 +948,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 64\nNos rótulos das bebidas alcoólicas há a indicação de seu teor alcoólico, expresso na forma de porcentagem em volume de etanol, C2H5OH. Sendo assim, considere um vinho cujo teor alcoólico seja de 12%. Sabendo-se que a densidade do etanol é 0,8 g/mL e que a constante de Avogadro é igual a 6,0 x 1023 mol-1, é correto afirmar que o número de moléculas de etanol que entra no organismo de uma pessoa que ingere 200 mL desse vinho é\n(massas molares em g/mol: C=12; O=16; H=1)",
+      principal: "QUESTÃO 64\nNos rótulos das bebidas alcoólicas há a indicação de seu teor alcoólico, expresso na forma de porcentagem em volume de etanol, C2H5OH. Sendo assim, considere um vinho cujo teor alcoólico seja de 12%. Sabendo-se que a densidade do etanol é 0,8 g/mL e que a constante de Avogadro é igual a $1 \times 10^{23}$ mol-1, é correto afirmar que o número de moléculas de etanol que entra no organismo de uma pessoa que ingere 200 mL desse vinho é\n(massas molares em g/mol: C=12; O=16; H=1)",
       subItens: []
     },
-    options: ["1,4 x 1023.","2,5 x 1023.","4,0 x 1022.","4,8 x 1021.","2,2 x 1020."],
+    options: ["$1 \times 10^{23}$.","$1 \times 10^{23}$.","$1 \times 10^{22}$.","$1 \times 10^{21}$.","$1 \times 10^{20}$."],
     correctAnswer: 1,
     materia: "Química – Estequiometria",
     conteudo: "Química – Soluções",
@@ -963,7 +963,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 65\nConsidere as seguintes equações termoquímicas:\nI. Na(s) + 1/2 H2(g) + C(s) + 3/2 O2(g) → NaHCO3(s) + 948 kJ\nII. 2 Na(s) + C(s) + 3/2 O2(g) → Na2CO3(s) + 1 131 kJ\nIII. H2(g) + 1/2 O2(g) → H2O(g) + 242 kJ\nIV. C(s) + O2(g) → CO2(g) + 394 kJ\nO bicarbonato de sódio, um dos componentes do fermento químico, se decompõe por aquecimento em um forno, produzindo carbonato de sódio, gás carbônico e vapor de água. O ΔH dessa transformação, expresso em kJ/mol de carbonato de sódio produzido, é igual a",
+      principal: "QUESTÃO 65\nConsidere as seguintes equações termoquímicas:\nI. Na(s) + 1/2 $1_{2}_{}$(g) + C(s) + 3/2 $1_{2}_{}$(g) → $1_{3}$(s) + 948 kJ\nII. 2 Na(s) + C(s) + 3/2 $1_{2}_{}$(g) → $1_{2}CO_{3}$(s) + 1 131 kJ\nIII. $1_{2}_{}$(g) + 1/2 $1_{2}_{}$(g) → $1_{2}O_{}$(g) + 242 kJ\nIV. C(s) + $1_{2}_{}$(g) → $1_{2}$(g) + 394 kJ\nO bicarbonato de sódio, um dos componentes do fermento químico, se decompõe por aquecimento em um forno, produzindo carbonato de sódio, gás carbônico e vapor de água. O ΔH dessa transformação, expresso em kJ/mol de carbonato de sódio produzido, é igual a",
       subItens: []
     },
     options: ["- 1 947.","- 129.","+ 129.","+ 425.","+ 1 947."],
@@ -981,7 +981,7 @@ createQuestion({
       principal: "QUESTÃO 66\nA solubilidade em água do hidróxido de magnésio, princípio ativo do leite de magnésia, a 18 °C, é 0,009 g/L. A partir desse dado, estima-se que o produto de solubilidade, Kps, do hidróxido de magnésio naquela temperatura seja próximo de\n(massas molares em g/mol: Mg = 24; O = 16; H = 1)",
       subItens: []
     },
-    options: ["1 x 10-13.","2 x 10-11.","3 x 10-10.","4 x 10-9.","5 x 10-8."],
+    options: ["$1 \times 10^{-13}$.","$1 \times 10^{-11}$.","$1 \times 10^{-10}$.","$1 \times 10^{-9}$.","$1 \times 10^{-8}$."],
     correctAnswer: 1,
     materia: "Química – Equilíbrio Iônico",
     conteudo: "Química – Solubilidade",
@@ -993,10 +993,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 67\nConsidere o seguinte mecanismo pelo qual o acetaldeído se decompõe em metano e monóxido de carbono:\nEtapa 1: CH3CHO + I2 → CH3I + HI + CO\nEtapa 2: CH3I + HI → CH4 + I2\nReação global: CH3CHO → CH4 + CO\nNesse mecanismo, a espécie química que atua como catalisador é representada pela fórmula",
+      principal: "QUESTÃO 67\nConsidere o seguinte mecanismo pelo qual o acetaldeído se decompõe em metano e monóxido de carbono:\nEtapa 1: CH3CHO + $1_{2}_{}$ → CH3I + HI + CO\nEtapa 2: CH3I + HI → $1_{4}$ + $1_{2}_{}$\nReação global: CH3CHO → $1_{4}$ + CO\nNesse mecanismo, a espécie química que atua como catalisador é representada pela fórmula",
       subItens: []
     },
-    options: ["CH3CHO.","I2.","CH3I.","HI.","CO."],
+    options: ["CH3CHO.","$1_{2}_{}$.","CH3I.","HI.","CO."],
     correctAnswer: 1,
     materia: "Química – Cinética Química",
     conteudo: "",
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 69\nA fórmula a seguir representa a estrutura molecular do oseltamivir, o princípio ativo do fármaco antiviral que foi amplamente utilizado durante a pandemia da gripe A (H1N1) em 2009.\n\nGráfico/Tabela: Estrutura molecular do oseltamivir.\n\nAs funções orgânicas presentes nessa estrutura são",
+      principal: "QUESTÃO 69\nA fórmula a seguir representa a estrutura molecular do oseltamivir, o princípio ativo do fármaco antiviral que foi amplamente utilizado durante a pandemia da gripe A ($1_{1}N_{1}$) em 2009.\n\nGráfico/Tabela: Estrutura molecular do oseltamivir.\n\nAs funções orgânicas presentes nessa estrutura são",
       subItens: []
     },
     options: ["amida, amina primária, éter e cetona.","amida, amina primária, éter e éster.","amida, amina secundária, éter e éster.","amina primária, amina secundária, éter e cetona.","amina primária, amina secundária, éter e éster."],
@@ -1038,7 +1038,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 70\nO borbulhamento de cloro gasoso em uma solução aquosa de hidróxido de sódio resulta na reação química representada por:\nCl2(g) + 2 NaOH(aq) → NaCl(aq) + NaClO(aq) + H2O(l)\nNessa reação, cujos reagentes são obtidos industrialmente por _______ da salmoura, o número de oxidação do elemento cloro varia de _______ no cloro gasoso para _______ no cloreto de sódio e _______ no hipoclorito de sódio.\nAs lacunas desse enunciado são corretamente preenchidas, na ordem em que aparecem, por:",
+      principal: "QUESTÃO 70\nO borbulhamento de cloro gasoso em uma solução aquosa de hidróxido de sódio resulta na reação química representada por:\$1_{2}$(g) + 2 NaOH(aq) → NaCl(aq) + NaClO(aq) + $1_{2}O_{}$(l)\nNessa reação, cujos reagentes são obtidos industrialmente por _______ da salmoura, o número de oxidação do elemento cloro varia de _______ no cloro gasoso para _______ no cloreto de sódio e _______ no hipoclorito de sódio.\nAs lacunas desse enunciado são corretamente preenchidas, na ordem em que aparecem, por:",
       subItens: []
     },
     options: ["cristalização, -1,+1 e zero.","cristalização, zero, -1 e +1.","eletrólise, -1,+1 e zero.","eletrólise, zero, -1 e +1.","eletrólise, zero, +1 e -1."],
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 78\nLeia o texto.\nO gás Sarin inibe a ação de uma enzima que desativa os sinais que as células nervosas humanas transmitem aos músculos para relaxá-los. Isso faz com que o coração e outros músculos - incluindo os envolvidos na respiração – tenham espasmos. A exposição ao gás pode causar desmaios, convulsões e levar à morte por asfixia em minutos. Investigadores da Organização das Nações Unidas concluíram que o governo sírio foi responsável por ataque com gás Sarin no mês de abril de 2017 contra a cidade de Khan Sheikhoun, o que deixou mais de 80 mortos e mais de 200 feridos. Entre as vítimas, estavam várias crianças.\n(Disponível em: https://g1.globo.com/mundo/noticia/onu-diz-que-governo-sirio-foi-responsavel-por-ataque-com-gas-sarin.ghtml Acesso: 13 maio 2018.)\nO uso de armas químicas, da perspectiva da ONU, é considerado",
+      principal: "QUESTÃO 78\nLeia o texto.\nO gás Sarin inibe a ação de uma enzima que desativa os sinais que as células nervosas humanas transmitem aos músculos para relaxá-los. Isso faz com que o coração e outros músculos - incluindo os envolvidos na respiração – tenham espasmos. A exposição ao gás pode causar desmaios, convulsões e levar à morte por asfixia em minutos. Investigadores da Organização das Nações Unidas concluíram que o governo sírio foi responsável por ataque com gás Sarin no mês de abril de 2017 contra a cidade de Khan Sheikhoun, o que deixou mais de 80 mortos e mais de 200 feridos. Entre as vítimas, estavam várias crianças.\n(Disponível em: https://$1_{1}$.globo.com/mundo/noticia/onu-diz-que-governo-sirio-foi-responsavel-por-ataque-com-gas-sarin.ghtml Acesso: 13 maio 2018.)\nO uso de armas químicas, da perspectiva da ONU, é considerado",
       subItens: []
     },
     options: ["estratégia de guerra, portanto, de livre escolha.","guerra tecnológica, portanto, forma moderna de confronto.","crime de guerra, portanto, passível de sanções.","ação de choque, portanto, forma paralisante de guerra.","ponto de estrangulamento, portanto, limitante de locomoção."],

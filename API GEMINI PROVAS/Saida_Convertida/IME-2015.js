@@ -423,10 +423,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "Um volume V₁ de uma solução aquosa de HCl 6 mol/L contém inicialmente uma massa mo de íons Fe+3. São realizadas n extrações utilizando, em cada uma delas, o mesmo volume V₂ de éter etílico, o qual é um solvente seletivo para FeCl3. Sabendo que o coeficiente de partição do ferro entre o éter e a solução aquosa de HCl vale K, qual das expressões abaixo é equivalente à massa de íons Fe+3 remanescente na fase aquosa ao final do processo? Suponha que a extração do soluto não altera o volume da solução de HCl.",
+      principal: "Um volume V₁ de uma solução aquosa de HCl 6 mol/L contém inicialmente uma massa mo de íons Fe+3. São realizadas n extrações utilizando, em cada uma delas, o mesmo volume V₂ de éter etílico, o qual é um solvente seletivo para $1_{3}$. Sabendo que o coeficiente de partição do ferro entre o éter e a solução aquosa de HCl vale K, qual das expressões abaixo é equivalente à massa de íons Fe+3 remanescente na fase aquosa ao final do processo? Suponha que a extração do soluto não altera o volume da solução de HCl.",
       subItens: []
     },
-    options: ["mo * (6KV1 / (V2 + KV1))^n","mo * (V1 / (V2 + KV1))^n","mo * (6KV1 / (V2 + V1))^n","mo * (V1 / (V2 + 6KV1))^n","mo * (V1 / (KV1 + V2))^n"],
+    options: ["mo * (6KV1 / ($1_{2}_{}$ + $1_{1}$))^n","mo * ($1_{1}_{}$ / ($1_{2}_{}$ + $1_{1}$))^n","mo * (6KV1 / ($1_{2}_{}$ + $1_{1}_{}$))^n","mo * ($1_{1}_{}$ / ($1_{2}_{}$ + 6KV1))^n","mo * ($1_{1}_{}$ / ($1_{1}$ + $1_{2}_{}$))^n"],
     correctAnswer: 4,
     materia: "Química – Físico-Química",
     conteudo: "Química – Extração Líquido-Líquido",
@@ -516,7 +516,7 @@ createQuestion({
       principal: "Considere as etapas sequenciais de mistura/filtração do processo não contínuo a seguir. No Misturador 1, antes da adição de 100 mL de uma solução aquosa de sulfato de amônio 20 g/L, encontram-se 100 mL de uma solução aquosa composta por massas iguais de nitrato de prata, nitrato cúprico e nitrato de chumbo (II), de concentração total 60 g/L. Ao Misturador 2, que contém o material passante do Filtro 1, adicionam-se 100 mL de uma solução aquosa de carbonato de sódio 40 g/L e uma pequena quantidade de uma solução de hidróxido de sódio objetivando o adequado ajuste do pH de precipitação para, em seguida, proceder a filtração. Sobre os produtos de filtração, pode se dizer que:",
       subItens: []
     },
-    options: ["o precipitado retido no Filtro 2 é uma mistura heterogênea.","o precipitado retido no Filtro 1, conhecido como galena, é um sólido iônico resultante da reação: Pb(NO3)2(aq) + (NH4)2S(aq) = PbS(s) + 2NH4NO3(aq)","no misturador 2 observam-se os seguintes equilíbrios iônicos: 2Ag+(aq) + CO32-(aq) = Ag2CO3(s) e 2Cu+(aq) + CO32-(aq) = Cu2CO3(s)","o chumbo no estado sólido pode ser obtido espontaneamente através do sólido retido no Filtro 1, conforme a reação comum às baterias de chumbo: 2PbSO4(s) + 2H2O(l) = PbO2(s) + Pb(s) + 2SO42-(aq) + 4H+(aq)","o precipitado retido no Filtro 2 é um sólido molecular, metaestável, com baixo ponto de fusão e com excelentes propriedades de condução térmica e elétrica."],
+    options: ["o precipitado retido no Filtro 2 é uma mistura heterogênea.","o precipitado retido no Filtro 1, conhecido como galena, é um sólido iônico resultante da reação: Pb($1_{3}$)2(aq) + ($1_{4}$)2S(aq) = PbS(s) + 2NH4NO3(aq)","no misturador 2 observam-se os seguintes equilíbrios iônicos: 2Ag+(aq) + $1_{32}$-(aq) = $1_{2}CO_{3}$(s) e 2Cu+(aq) + $1_{32}$-(aq) = $1_{2}CO_{3}$(s)","o chumbo no estado sólido pode ser obtido espontaneamente através do sólido retido no Filtro 1, conforme a reação comum às baterias de chumbo: 2PbSO4(s) + 2H2O(l) = $1_{2}$(s) + Pb(s) + 2SO42-(aq) + 4H+(aq)","o precipitado retido no Filtro 2 é um sólido molecular, metaestável, com baixo ponto de fusão e com excelentes propriedades de condução térmica e elétrica."],
     correctAnswer: 0,
     materia: "Química – Química Analítica",
     conteudo: "Química – Reações de Precipitação",

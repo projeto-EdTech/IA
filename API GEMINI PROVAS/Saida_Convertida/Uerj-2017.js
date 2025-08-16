@@ -423,7 +423,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "Considere o conjunto de números naturais abaixo e os procedimentos subsequentes:\nA = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}\n1 - Cada número primo de A foi multiplicado por 3. Sabe-se que um número natural P é primo se P > 1 e tem apenas dois divisores naturais distintos.\n2 - A cada um dos demais elementos de A, foi somado o número 1.\n3 - Cada um dos números distintos obtidos foi escrito em apenas um pequeno cartão.\n4 - Dentre todos os cartões, foram sorteados exatamente dois cartões com números distintos ao acaso.\nA probabilidade de em pelo menos um cartão sorteado estar escrito um número par é:",
+      principal: "Considere o conjunto de números naturais abaixo e os procedimentos subsequentes:\nA = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9}\$1_{1}$ - Cada número primo de A foi multiplicado por 3. Sabe-se que um número natural P é primo se P > 1 e tem apenas dois divisores naturais distintos.\$1_{2}$ - A cada um dos demais elementos de A, foi somado o número 1.\$1_{3}$ - Cada um dos números distintos obtidos foi escrito em apenas um pequeno cartão.\$1_{4}$ - Dentre todos os cartões, foram sorteados exatamente dois cartões com números distintos ao acaso.\nA probabilidade de em pelo menos um cartão sorteado estar escrito um número par é:",
       subItens: []
     },
     options: ["5/12","7/12","13/24","17/24"],
@@ -516,7 +516,7 @@ createQuestion({
       principal: "A aplicação de campo elétrico entre dois eletrodos é um recurso eficaz para separação de compostos iônicos. Sob o efeito do campo elétrico, os íons são atraídos para os eletrodos de carga oposta. Considere o processo de dissolução de sulfato ferroso em água, no qual ocorre a dissociação desse sal. Após esse processo, ao se aplicar um campo elétrico, o seguinte íon salino irá migrar no sentido do polo positivo:",
       subItens: []
     },
-    options: ["Fe3+","Fe2+","SO₄²⁻","SO₃²⁻"],
+    options: ["$1_{3}_{}$+","$1_{2}_{}$+","SO₄²⁻","SO₃²⁻"],
     correctAnswer: 2,
     materia: "Química – Eletroquímica",
     conteudo: "Química – Ligações Químicas",
@@ -588,7 +588,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "Em avaliações físicas, é comum a análise conjunta de duas variáveis:\n1) débito cardíaco – volume de sangue que o coração é capaz de bombear em determinado período de tempo;\n2) frequência cardíaca – número de batimentos do coração nesse mesmo período de tempo.\nEm geral, atletas apresentam elevado débito cardíaco, ou seja, o coração bombeia um volume maior de sangue com menos batimentos, se comparado a um indivíduo sedentário.\nAdmita que quatro homens não fumantes, sem diagnóstico de patologia cardíaca, com mesmo peso corporal e idade, foram submetidos à corrida em uma mesma esteira. Durante esse processo, foi registrado o débito cardíaco de cada um, obtendo-se os resultados indicados no gráfico.\n[GRÁFICO DE DÉBITO CARDÍACO X VELOCIDADE DA ESTEIRA]\nDe acordo com os resultados apresentados, a curva que representa o indivíduo com maior frequência cardíaca é:",
+      principal: "Em avaliações físicas, é comum a análise conjunta de duas variáveis:\$1_{1}$) débito cardíaco – volume de sangue que o coração é capaz de bombear em determinado período de tempo;\$1_{2}$) frequência cardíaca – número de batimentos do coração nesse mesmo período de tempo.\nEm geral, atletas apresentam elevado débito cardíaco, ou seja, o coração bombeia um volume maior de sangue com menos batimentos, se comparado a um indivíduo sedentário.\nAdmita que quatro homens não fumantes, sem diagnóstico de patologia cardíaca, com mesmo peso corporal e idade, foram submetidos à corrida em uma mesma esteira. Durante esse processo, foi registrado o débito cardíaco de cada um, obtendo-se os resultados indicados no gráfico.\n[GRÁFICO DE DÉBITO CARDÍACO X VELOCIDADE DA ESTEIRA]\nDe acordo com os resultados apresentados, a curva que representa o indivíduo com maior frequência cardíaca é:",
       subItens: []
     },
     options: ["I","II","III","IV"],

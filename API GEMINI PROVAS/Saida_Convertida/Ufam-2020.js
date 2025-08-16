@@ -108,7 +108,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2020,
     text: {
-      principal: "Leia os versos a seguir, pertencentes ao poema Juca Mulato, de Menotti del Picchia:\n1. Juca Mulato cisma. Olha a lua e estremece.\n2. Dentro dele um desejo abre-se em flor e cresce\n3. e ele pensa, ao sentir esses sonhos ignotos,\n4. que a alma é como uma planta, os sonhos, como brotos,\n5. vão rebentando nele e se abrindo em floradas...\n6. Franjam de ouro o ocidente as chamas das queimadas.\n7. Mal se pode conter de inquieto e satisfeito.\n8. Adivinha que tem qualquer coisa no peito\n9. e, às promessas do amor, a alma escancara ansiado\n10. como os áureos portais de um palácio encantado!...\n11. Mas a mágoa, que ronda a alegria de perto,\n12. entra no coração sempre que o encontra aberto...\nAssinale a alternativa INCORRETA:",
+      principal: "Leia os versos a seguir, pertencentes ao poema Juca Mulato, de Menotti del Picchia:\$1_{1}$. Juca Mulato cisma. Olha a lua e estremece.\$1_{2}$. Dentro dele um desejo abre-se em flor e cresce\$1_{3}$. e ele pensa, ao sentir esses sonhos ignotos,\$1_{4}$. que a alma é como uma planta, os sonhos, como brotos,\$1_{5}$. vão rebentando nele e se abrindo em floradas...\$1_{6}$. Franjam de ouro o ocidente as chamas das queimadas.\$1_{7}$. Mal se pode conter de inquieto e satisfeito.\$1_{8}$. Adivinha que tem qualquer coisa no peito\$1_{9}$. e, às promessas do amor, a alma escancara ansiado\$1_{10}$. como os áureos portais de um palácio encantado!...\$1_{11}$. Mas a mágoa, que ronda a alegria de perto,\$1_{12}$. entra no coração sempre que o encontra aberto...\nAssinale a alternativa INCORRETA:",
       subItens: []
     },
     options: ["Exercem a função de sujeito: “um desejo” (verso 2) e \"as chamas das queimadas” (verso 6).","O verbo \"franger” (verso 6) está conjugado na terceira pessoa do plural do presente do indicativo.","O sujeito das orações constantes dos versos 7, 8 e 9 está oculto, mas foi enunciado antes.","São vocábulos que apresentam hiato: “lua” (verso 1) e \"inquieto\" (verso 7).","O \"que”, no verso 11, é um pronome relativo com função de sujeito."],
@@ -456,7 +456,7 @@ createQuestion({
       principal: "Sobre a geração e a propagação do potencial de ação (PA) nos neurônios, é INCORRETO afirmar que:",
       subItens: []
     },
-    options: ["na despolarização da membrana há a abertura dos canais de Na+ regulados por voltagem.","o atraso no fechamento dos canais de K+ explica a hiperpolarização observada no gráfico do PA.","a abertura dos canais de Ca++ regulados por voltagem próximos ao botão sináptico é fundamental para a migração das vesículas contendo neurotransmissores.","os receptores na membrana pós-sináptica podem ser ionotrópicos ou metabotrópicos.","a diferença de voltagem através da membrana está diretamente relacionada à grande quantidade de canais de Na+ (sem porta) abertos."],
+    options: ["na despolarização da membrana há a abertura dos canais de $1^+$ regulados por voltagem.","o atraso no fechamento dos canais de K+ explica a hiperpolarização observada no gráfico do PA.","a abertura dos canais de Ca++ regulados por voltagem próximos ao botão sináptico é fundamental para a migração das vesículas contendo neurotransmissores.","os receptores na membrana pós-sináptica podem ser ionotrópicos ou metabotrópicos.","a diferença de voltagem através da membrana está diretamente relacionada à grande quantidade de canais de $1^+$ (sem porta) abertos."],
     correctAnswer: 4,
     materia: "Biologia – Fisiologia Humana",
     conteudo: "Biologia – Sistema Nervoso",
@@ -546,7 +546,7 @@ createQuestion({
       principal: "A regra do octeto afirma que, quando os átomos estão envolvidos numa ligação, eles tendem a alcançar um octeto de elétrons em sua camada externa (de valência). Parte-se do princípio que na natureza todos os sistemas tendem a adquirir a maior estabilidade possível. Das alternativas a seguir, qual composto faz com que todos os átomos (ou íons) obedeçam à regra do octeto?",
       subItens: []
     },
-    options: ["NaH","TiCl4","BF3","Pbl2","XeO3"],
+    options: ["NaH","$1_{4}$","$1_{3}$","$1_{2}_{}$","$1_{3}$"],
     correctAnswer: 1,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Regra do Octeto",
@@ -603,10 +603,10 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2020,
     text: {
-      principal: "A NASA vem noticiando a descoberta de novos planetas em nosso sistema solar e também fora dele, planetas que devem obedecer às leis da gravitação e da Física. Um suposto planeta descoberto recentemente foi estudado e verificou-se que ele possui um raio de 2 × 10m, com uma massa de 8 × 1022 kg. Seja um objeto que pesa, na superfície do planeta Terra, 100N. Um dos estudos foi encontrar o peso deste objeto na superfície deste suposto planeta. A seguir, foi feita uma comparação entre o peso encontrado e a distância do centro do planeta Terra em que o objeto deveria estar para ter o mesmo peso. Os valores encontrados foram:",
+      principal: "A NASA vem noticiando a descoberta de novos planetas em nosso sistema solar e também fora dele, planetas que devem obedecer às leis da gravitação e da Física. Um suposto planeta descoberto recentemente foi estudado e verificou-se que ele possui um raio de 2 × 10m, com uma massa de $1 \times 10^{22}$ kg. Seja um objeto que pesa, na superfície do planeta Terra, 100N. Um dos estudos foi encontrar o peso deste objeto na superfície deste suposto planeta. A seguir, foi feita uma comparação entre o peso encontrado e a distância do centro do planeta Terra em que o objeto deveria estar para ter o mesmo peso. Os valores encontrados foram:",
       subItens: []
     },
-    options: ["6N e 1,7 × 107m","6N e 7,1 × 107m","12N e 1,7 × 107m","12N e 7,1 × 107m","16N e 1,7 × 107m"],
+    options: ["6N e $1 \times 10^{7}$m","6N e $1 \times 10^{7}$m","12N e $1 \times 10^{7}$m","12N e $1 \times 10^{7}$m","16N e $1 \times 10^{7}$m"],
     correctAnswer: 2,
     materia: "Física – Gravitação",
     conteudo: "Física – Leis de Newton",
@@ -648,7 +648,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2020,
     text: {
-      principal: "Considere a sequência de números reais não nulos:\n5/2, 9/4, 2,...\nA diferença entre o sétimo e o primeiro termo dessa progressão aritmética é igual a:",
+      principal: "Considere a sequência de números reais não nulos:\$1_{5}$/2, 9/4, 2,...\nA diferença entre o sétimo e o primeiro termo dessa progressão aritmética é igual a:",
       subItens: []
     },
     options: ["-3/2","-7/2","7/4","1","3/4"],

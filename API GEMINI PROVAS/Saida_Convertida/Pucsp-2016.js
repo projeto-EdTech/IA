@@ -633,7 +633,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Veja o mapa. Ele será a base para as respostas 43 e 44.\nGastos públicos em educação, 2009\nEm % do PIB\n1,0 3,4 4,7 6,3 15,7\nausência de dados\nmétodo estatístico: médias ajustadas\nNota: últimos dados disponíveis referentes ao período entre 2006. 2009\nFonte: UNESCO, www.uis.unesco.org\nTendo em vista a distribuição geográfica e as características demográficas dos países, é correto dizer que",
+      principal: "Veja o mapa. Ele será a base para as respostas 43 e 44.\nGastos públicos em educação, 2009\nEm % do PIB\$1_{1}$,0 3,4 4,7 6,3 15,7\nausência de dados\nmétodo estatístico: médias ajustadas\nNota: últimos dados disponíveis referentes ao período entre 2006. 2009\nFonte: UNESCO, www.uis.unesco.org\nTendo em vista a distribuição geográfica e as características demográficas dos países, é correto dizer que",
       subItens: []
     },
     options: ["os países mais populosos, em razão das infinitas demandas econômicas e sociais, não conseguem investir parcelas expressivas do seu PIB em educação.","descontada a China, os países mais populosos estão entre os maiores percentuais do PIB investidos em educação.","os países de maior território têm que despender maiores percentuais do seu PIB, pois custa mais caro estruturar sistemas de ensino em vastas extensões.","não há uma correspondência entre as classes de percentuais maiores e menores de investimento e a divisão entre países mais ricos e países mais pobres (divisão N/S)."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Seja o triângulo equilátero T₁ cujo lado mede x cm. Unindo-se os pontos médios dos lados de T₁, obtém-se um novo triângulo equilátero T2; unindo-se os pontos médios dos lados do triângulo T2, obtém-se um novo triângulo equilátero T3; e, assim, sucessivamente. Nessas condições, se a área do triângulo T, é igual a 25√3/64 cm², então x é igual a:",
+      principal: "Seja o triângulo equilátero T₁ cujo lado mede x cm. Unindo-se os pontos médios dos lados de T₁, obtém-se um novo triângulo equilátero $1_{2}_{}$; unindo-se os pontos médios dos lados do triângulo $1_{2}_{}$, obtém-se um novo triângulo equilátero $1_{3}_{}$; e, assim, sucessivamente. Nessas condições, se a área do triângulo T, é igual a 25√3/64 cm², então x é igual a:",
       subItens: []
     },
     options: ["640","520","440","320"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Frank & Ernest Bob Thaves\n2X+Y=30\nPOR QUE \"X\" NÃO PODE SER \"X? POR QUE ELE SEMPRE TEM QUE SER IGUAL A ALGUMA COISA?\nFonte: Jornal \"O Estado de S. Paulo\"; Caderno 2-C10; 08/10/2015\nSeja o par ordenado (a, b), em que a e b são números inteiros positivos, uma solução da equação mostrada na tira acima. Em quantas das soluções, a soma a + b é um número primo compreendido entre 15 e 30?",
+      principal: "Frank & Ernest Bob Thaves\n2X+Y=30\nPOR QUE \"X\" NÃO PODE SER \"X? POR QUE ELE SEMPRE TEM QUE SER IGUAL A ALGUMA COISA?\nFonte: Jornal \"O Estado de S. Paulo\"; Caderno 2-$1_{10}_{}$; 08/10/2015\nSeja o par ordenado (a, b), em que a e b são números inteiros positivos, uma solução da equação mostrada na tira acima. Em quantas das soluções, a soma a + b é um número primo compreendido entre 15 e 30?",
       subItens: []
     },
     options: ["Menos do que três.","Três.","Quatro.","Mais do que quatro."],
@@ -828,10 +828,10 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Em uma máquina de Atwood ideal, são presas duas massas, tais que M₁>M2. Inicialmente as massas estão em repouso e niveladas. Após o abandono simultâneo das massas, verifica-se que a energia total do sistema é de 100J, após elas terem percorrido 5m em 2s, alcançando uma velocidade de 5,0m/s. Sabendo que o módulo da aceleração da gravidade é de 10m/s², determine, em kg, os valores de cada uma das massas.",
+      principal: "Em uma máquina de Atwood ideal, são presas duas massas, tais que M₁>$1_{2}_{}$. Inicialmente as massas estão em repouso e niveladas. Após o abandono simultâneo das massas, verifica-se que a energia total do sistema é de 100J, após elas terem percorrido 5m em 2s, alcançando uma velocidade de 5,0m/s. Sabendo que o módulo da aceleração da gravidade é de 10m/s², determine, em kg, os valores de cada uma das massas.",
       subItens: []
     },
-    options: ["M₁=6,0 e M2=2,0","M₁=6,5 e M2=1,5","M₁=4,5 e M2=3,5","M₁=5,0 e M2=3,0"],
+    options: ["M₁=6,0 e $1_{2}_{}$=2,0","M₁=6,5 e $1_{2}_{}$=1,5","M₁=4,5 e $1_{2}_{}$=3,5","M₁=5,0 e $1_{2}_{}$=3,0"],
     correctAnswer: 3,
     materia: "Física – Mecânica",
     conteudo: "Física – Energia",
@@ -1083,10 +1083,10 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Dados:\nEntalpia de formação padrão do O3: 143 kJ.mol⁻¹\nEntalpia de ligação O=O: 498 kJ.mol⁻¹\nNO (g) + O3(g) → NO2(g) + O2(g) ΔH° = – 200 kJ\nDiversas reações ocorrem na atmosfera devido à ação da luz solar e à presença de poluentes. Uma das reações relevantes é a decomposição do dióxido de nitrogênio em óxido nítrico e oxigênio atômico.\nNO2(g) → NO(g) + O(g)\nA partir dos dados é possível concluir que essa reação é",
+      principal: "Dados:\nEntalpia de formação padrão do $1_{3}_{}$: 143 kJ.mol⁻¹\nEntalpia de ligação O=O: 498 kJ.mol⁻¹\nNO (g) + $1_{3}_{}$(g) → $1_{2}$(g) + $1_{2}_{}$(g) ΔH° = – 200 kJ\nDiversas reações ocorrem na atmosfera devido à ação da luz solar e à presença de poluentes. Uma das reações relevantes é a decomposição do dióxido de nitrogênio em óxido nítrico e oxigênio atômico.\$1_{2}$(g) → NO(g) + O(g)\nA partir dos dados é possível concluir que essa reação é",
       subItens: []
     },
-    options: ["endotérmica, absorvendo 306 kJ a cada mol de NO2 decomposto.","endotérmica, absorvendo 441 kJ a cada mol de NO2 decomposto.","exotérmica, absorvendo 306 kJ a cada mol de NO2 decomposto.","exotérmica, liberando 441 kJ a cada mol de NO2 decomposto."],
+    options: ["endotérmica, absorvendo 306 kJ a cada mol de $1_{2}$ decomposto.","endotérmica, absorvendo 441 kJ a cada mol de $1_{2}$ decomposto.","exotérmica, absorvendo 306 kJ a cada mol de $1_{2}$ decomposto.","exotérmica, liberando 441 kJ a cada mol de $1_{2}$ decomposto."],
     correctAnswer: 0,
     materia: "Química – Termoquímica",
     conteudo: "",
@@ -1101,7 +1101,7 @@ createQuestion({
       principal: "A criolita é um minério cujo principal componente é o fluoreto de alumínio e sódio. Sua principal aplicação é na produção do alumínio, onde é adicionada à alumina (óxido de alumínio), obtendo-se uma mistura de temperatura de fusão de 950°C, tornando economicamente viável a eletrólise da alumina e a obtenção do metal alumínio.\nA relação entre a massa de sódio e de alumínio na criolita é de 23/9 e, portanto, a fórmula mínima do fluoreto de alumínio e sódio é",
       subItens: []
     },
-    options: ["NaAIF.","NaAIF4.","Na3AIF4.","Na3AlF6."],
+    options: ["NaAIF.","$1_{4}$.","$1_{3}AIF_{4}$.","Na3AlF6."],
     correctAnswer: 3,
     materia: "Química – Química Inorgânica",
     conteudo: "Química – Estequiometria",
@@ -1188,7 +1188,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "O ânion bromato reage com o ânion brometo em meio ácido gerando a substância simples bromo segundo a equação:\nBrO₃⁻(aq) + 5 Br⁻(aq) + 6 H⁺(aq) → 3 Br₂(aq) + 3 H₂O(l)\nA cinética dessa reação foi estudada a partir do acompanhamento dessa reação a partir de diferentes concentrações iniciais das espécies BrO₃⁻(aq), Br⁻(aq) e H⁺(aq).\nexperimento [BrO₃⁻] (mol.L⁻¹) [Br⁻] (mol.L⁻¹) [H⁺] (mol.L⁻¹) Taxa relativa\n1 0,10 0,10 0,10 v\n2 0,20 0,10 0,10 2v\n3 0,10 0,30 0,10 3v\n4 0,20 0,10 0,20 8v\nAo analisar esse processo foram feitas as seguintes observações:\nI. Trata-se de uma reação de oxidorredução.\nII. O ânion brometo (Br⁻) é o agente oxidante do processo.\nIII. A lei cinética dessa reação é v = k[BrO₃⁻][Br⁻][H⁺]².\nPode-se afirmar que estão corretas",
+      principal: "O ânion bromato reage com o ânion brometo em meio ácido gerando a substância simples bromo segundo a equação:\nBrO₃⁻(aq) + 5 Br⁻(aq) + 6 H⁺(aq) → 3 Br₂(aq) + 3 H₂O(l)\nA cinética dessa reação foi estudada a partir do acompanhamento dessa reação a partir de diferentes concentrações iniciais das espécies BrO₃⁻(aq), Br⁻(aq) e H⁺(aq).\nexperimento [BrO₃⁻] (mol.L⁻¹) [Br⁻] (mol.L⁻¹) [H⁺] (mol.L⁻¹) Taxa relativa\$1_{1}$ 0,10 0,10 0,10 v\$1_{2}$ 0,20 0,10 0,10 2v\$1_{3}$ 0,10 0,30 0,10 3v\$1_{4}$ 0,20 0,10 0,20 8v\nAo analisar esse processo foram feitas as seguintes observações:\nI. Trata-se de uma reação de oxidorredução.\nII. O ânion brometo (Br⁻) é o agente oxidante do processo.\nIII. A lei cinética dessa reação é v = k[BrO₃⁻][Br⁻][H⁺]².\nPode-se afirmar que estão corretas",
       subItens: []
     },
     options: ["I e II, somente.","I e III, somente.","II e III, somente.","I, II e III."],

@@ -3,7 +3,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Seja o sistema\n3x¹ + 3x² + 3x³ = 6x⁴ - 1\n3x¹ + 3x² + 3x⁴ = 6x³ - 1\n3x¹ + 3x³ + 3x⁴ = 6x² - 1\n3x² + 3x³ + 3x⁴ = 6x¹ - 1\nO valor de 1/x1 + 1/x2 + 1/x3 + 1/x4 é:",
+      principal: "Seja o sistema\n3x¹ + 3x² + 3x³ = 6x⁴ - 1\n3x¹ + 3x² + 3x⁴ = 6x³ - 1\n3x¹ + 3x³ + 3x⁴ = 6x² - 1\n3x² + 3x³ + 3x⁴ = 6x¹ - 1\nO valor de 1/$1_{1}$ + 1/$1_{2}$ + 1/$1_{3}$ + 1/$1_{4}$ é:",
       subItens: []
     },
     options: ["12","4/3","2/3","1/3","9"],
@@ -18,7 +18,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Seja B o conjunto de todos os valores de x ∈ IR para os quais a soma dos termos da progressão\n4/3x, 16/9x², 64/27x³, 256/81x⁴, ...\nassume um valor finito. Define-se a função f : B → IR, para cada x ∈ B, tal que\nf(x) = -4/3x + 16/9x² - 64/27x³ + 256/81x⁴ - ...\nA soma das raízes da equação f(x) = −x, x ∈ B, é:",
+      principal: "Seja B o conjunto de todos os valores de x ∈ IR para os quais a soma dos termos da progressão\$1_{4}$/3x, 16/9x², 64/27x³, 256/81x⁴, ...\nassume um valor finito. Define-se a função f : B → IR, para cada x ∈ B, tal que\nf(x) = -4/3x + 16/9x² - 64/27x³ + 256/81x⁴ - ...\nA soma das raízes da equação f(x) = −x, x ∈ B, é:",
       subItens: []
     },
     options: ["0","-2","-4/3","2/3","4/3"],
@@ -63,10 +63,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Seja α ∈ IR e z1, z2, z3 números complexos tais que |z1| = |z2| = |z3| = 4 e z1 ≠ z2. O menor valor de |αz1 – (α – 1)z2 - z3|, é:",
+      principal: "Seja α ∈ IR e $1_{1}$, $1_{2}$, $1_{3}$ números complexos tais que |$1_{1}$| = |$1_{2}$| = |$1_{3}$| = 4 e $1_{1}$ ≠ $1_{2}$. O menor valor de |α$1_{1}$ – (α – 1)$1_{2}$ - $1_{3}$|, é:",
       subItens: []
     },
-    options: ["1/8 |z1+z2|","1/4 |z1-z2|","1/8 |z3-z1||z3-z2|","1/4 |z1-z2|","|z3|"],
+    options: ["1/8 |$1_{1}$+$1_{2}$|","1/4 |$1_{1}$-$1_{2}$|","1/8 |$1_{3}$-$1_{1}$||$1_{3}$-$1_{2}$|","1/4 |$1_{1}$-$1_{2}$|","|$1_{3}$|"],
     correctAnswer: 2,
     materia: "Matemática – Números Complexos",
     conteudo: "Matemática – Geometria no Plano Complexo",
@@ -423,7 +423,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Um planeta P₁ foi arremessado de sua órbita original O₁ ao redor de sua estrela S₁ no Sistema Solar 1 e desde então vaga pelo Universo com velocidade constante v₁. Em um determinado momento, ao passar pelo Sistema Solar 2, P₁ se choca frontalmente com um planeta P2, que se encontra no afélio de sua órbita O₂ em torno de sua única estrela, S2. O choque entre os dois planetas é perfeitamente inelástico e resulta na criação de um novo planeta P3.\nDados:\n• módulo da velocidade tangencial de P₂ no afélio de O₂: V₂;\n• módulo da velocidade de P1: V₁ = 3V₂;\n• massa de P₁ = 10⁻⁸ x massa da estrela S2; e\n• massa de P₂ = massa de P₁.\nSobre a órbita O₃ de P₃ em torno de S₂, é verdadeiro afirmar que:",
+      principal: "Um planeta P₁ foi arremessado de sua órbita original O₁ ao redor de sua estrela S₁ no Sistema Solar 1 e desde então vaga pelo Universo com velocidade constante v₁. Em um determinado momento, ao passar pelo Sistema Solar 2, P₁ se choca frontalmente com um planeta $1_{2}_{}$, que se encontra no afélio de sua órbita O₂ em torno de sua única estrela, $1_{2}_{}$. O choque entre os dois planetas é perfeitamente inelástico e resulta na criação de um novo planeta $1_{3}_{}$.\nDados:\n• módulo da velocidade tangencial de P₂ no afélio de O₂: V₂;\n• módulo da velocidade de $1_{1}_{}$: V₁ = 3V₂;\n• massa de P₁ = 10⁻⁸ x massa da estrela $1_{2}_{}$; e\n• massa de P₂ = massa de P₁.\nSobre a órbita O₃ de P₃ em torno de S₂, é verdadeiro afirmar que:",
       subItens: []
     },
     options: ["o período de sua órbita O₃ é igual ao da órbita O₂ de P₂.","o período de sua órbita O₃ é maior que o da órbita O₂ de P₂.","o período de sua órbita O₃ é menor que o da órbita O₂ de P₂.","não haverá órbita O₃, pois o planeta P₃ irá de encontro à estrela S₂.","não haverá órbita O₃, pois o planeta P₃ escapará de sua órbita em torno de S₂."],

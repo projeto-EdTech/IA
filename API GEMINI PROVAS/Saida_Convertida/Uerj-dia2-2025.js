@@ -18,7 +18,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Mas é aí que está o problema: estamos tão familiarizados com o conceito de linearidade que\nimpomos nossa referência de visão linear sobre o que observamos no mundo real. (l. 15-16)\nDIVISÃO DA HISTÓRIA\nPré-história\nIdade Média\nIdade Contemporânea\n1\n2\n3\n4\n5\nIdade Antiga\nIdade Moderna\nAdaptado de mundoeducacao.uol.com.br.\nNa imagem, a divisão da História como conhecimento sobre experiências de sociedades e povos\nestá representada de maneira linear, ratificando a afirmação do fragmento do texto.\nEssa divisão da História é derivada da seguinte concepção:",
+      principal: "Mas é aí que está o problema: estamos tão familiarizados com o conceito de linearidade que\nimpomos nossa referência de visão linear sobre o que observamos no mundo real. (l. 15-16)\nDIVISÃO DA HISTÓRIA\nPré-história\nIdade Média\nIdade Contemporânea\$1_{1}$\$1_{2}$\$1_{3}$\$1_{4}$\$1_{5}$\nIdade Antiga\nIdade Moderna\nAdaptado de mundoeducacao.uol.com.br.\nNa imagem, a divisão da História como conhecimento sobre experiências de sociedades e povos\nestá representada de maneira linear, ratificando a afirmação do fragmento do texto.\nEssa divisão da História é derivada da seguinte concepção:",
       subItens: []
     },
     options: ["antropocêntrica","eurocêntrica","materialista","naturalista"],
@@ -63,7 +63,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Em 2024, o governo brasileiro limitou os juros do cartão de crédito, cobrados quando não se paga\no valor integral de uma fatura. Com o limite estabelecido, não se pode ultrapassar a cobrança de\n100% de juros sobre a dívida do cartão.\nObserve na tabela os fatores F que, aplicados à dívida de um cartão de crédito, determinam o valor\nda dívida total até o mês M.\nM (meses)\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nF (fatores) 1,15 1,32 1,52 1,75 2,01 2,31 2,66 3,06 3,52 4,05 4,65 5,35\nCom base na análise da tabela, o mês M em que a dívida desse cartão atinge juros de 100% é:",
+      principal: "Em 2024, o governo brasileiro limitou os juros do cartão de crédito, cobrados quando não se paga\no valor integral de uma fatura. Com o limite estabelecido, não se pode ultrapassar a cobrança de\$1_{100}$% de juros sobre a dívida do cartão.\nObserve na tabela os fatores F que, aplicados à dívida de um cartão de crédito, determinam o valor\nda dívida total até o mês M.\nM (meses)\$1_{1}$\$1_{2}$\$1_{3}$\$1_{4}$\$1_{5}$\$1_{6}$\$1_{7}$\$1_{8}$\$1_{9}$\$1_{10}$\$1_{11}$\$1_{12}$\nF (fatores) 1,15 1,32 1,52 1,75 2,01 2,31 2,66 3,06 3,52 4,05 4,65 5,35\nCom base na análise da tabela, o mês M em que a dívida desse cartão atinge juros de 100% é:",
       subItens: []
     },
     options: ["8","7","6","5"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "A reação química elementar de decomposição do dióxido de nitrogênio, representada a seguir,\né um exemplo de modelo cinético não linear.\n2 NO2 (g) → 2 NO (g) + O2 (g)\nObserve no gráfico a variação da velocidade dessa reação em função da concentração de dióxido\nde nitrogênio:\n(Graph: velocidade da reação (mol/L.s) vs. concentração de NO2 (mol/L))\nConsiderando os dados, a constante cinética da reação, em L/mol.s, corresponde a:",
+      principal: "A reação química elementar de decomposição do dióxido de nitrogênio, representada a seguir,\né um exemplo de modelo cinético não linear.\$1_{2}$ $1_{2}$ (g) → 2 NO (g) + $1_{2}_{}$ (g)\nObserve no gráfico a variação da velocidade dessa reação em função da concentração de dióxido\nde nitrogênio:\n(Graph: velocidade da reação (mol/L.s) vs. concentração de $1_{2}$ (mol/L))\nConsiderando os dados, a constante cinética da reação, em L/mol.s, corresponde a:",
       subItens: []
     },
     options: ["0,1","0,3","0,5","0,7"],
@@ -441,7 +441,7 @@ createQuestion({
       principal: "Considere o triângulo retângulo ABC, representado a seguir:\n(Image of a right triangle ABC with angle bisector AD)\nSabe-se que:\n• BC é perpendicular a AC;\n• AD é a bissetriz do ângulo CAB;\n• ABC é igual a 30°;\n• BD mede 20 cm.\nA razão AC/DC é igual a:",
       subItens: []
     },
-    options: ["√3","√2","√3\n2","√2\n2"],
+    options: ["√3","√2","√3\$1_{2}$","√2\$1_{2}$"],
     correctAnswer: 0,
     materia: "Matemática – Geometria Plana",
     conteudo: "Matemática – Trigonometria",
@@ -498,7 +498,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "No pião representado a seguir, VAB é a seção meridiana de um cone circular reto, e a geratriz do\ncone mede 12 cm. Assim, VA = VB = 12 cm e AB é o diâmetro da base do cone.\nAo ser lançado, esse pião cai sobre o plano horizontal e rola, sem deslizar, com a sua geratriz\napoiada nesse plano. O pião dá apenas uma volta completa em torno do seu eixo, descrevendo o\nsetor circular AVP de centro V e ângulo central de 120°.\n(Image of a cone and its flattened sector)\nA medida do diâmetro AB, em centímetros, é igual a:",
+      principal: "No \pião representado a seguir, VAB é a seção meridiana de um cone circular reto, e a geratriz do\ncone mede 12 cm. Assim, VA = VB = 12 cm e AB é o diâmetro da base do cone.\nAo ser lançado, esse \pião cai sobre o plano horizontal e rola, sem deslizar, com a sua geratriz\napoiada nesse plano. O \pião dá apenas uma volta completa em torno do seu eixo, descrevendo o\nsetor circular AVP de centro V e ângulo central de 120°.\n(Image of a cone and its flattened sector)\nA medida do diâmetro AB, em centímetros, é igual a:",
       subItens: []
     },
     options: ["6","8","10","12"],
@@ -543,7 +543,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Atri-iodotironina e a tiroxina são hormônios produzidos pela tireoide, conhecidos, respectivamente,\ncomo T3 e T4, em função do número de átomos de iodo presentes em cada molécula. Observe\nsuas fórmulas estruturais:\n(Images of tri-iodotironina (T3) and tiroxina (T4) structures)\nEm relação ao T4, o hormônio T3 apresenta maior número de átomos do seguinte elemento químico:",
+      principal: "Atri-iodotironina e a tiroxina são hormônios produzidos pela tireoide, conhecidos, respectivamente,\ncomo $1_{3}_{}$ e $1_{4}_{}$, em função do número de átomos de iodo presentes em cada molécula. Observe\nsuas fórmulas estruturais:\n(Images of tri-iodotironina ($1_{3}_{}$) and tiroxina ($1_{4}_{}$) structures)\nEm relação ao $1_{4}_{}$, o hormônio $1_{3}_{}$ apresenta maior número de átomos do seguinte elemento químico:",
       subItens: []
     },
     options: ["hidrogênio","nitrogênio","oxigênio","carbono"],
@@ -588,7 +588,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "O mineral apatita, utilizado como matéria-prima na produção de fertilizantes, contém diferentes\nsais de cálcio, dentre eles o Ca3(PO4)2.\nNesse sal, o ânion presente é denominado:",
+      principal: "O mineral apatita, utilizado como matéria-prima na produção de fertilizantes, contém diferentes\nsais de cálcio, dentre eles o $1_{3}_{}$($1_{4}$)2.\nNesse sal, o ânion presente é denominado:",
       subItens: []
     },
     options: ["hipofosfato","hipofosfito","fosfito","fosfato"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Considere que toda a energia liberada em um intervalo de tempo de 1 s pelas duas bombas\ncorresponde a 1,5 × 10^14 J.\nO gráfico que representa a potência média dessas bombas ao explodirem é:\n(Graph options A, B, C, D showing U(V) vs i(A))",
+      principal: "Considere que toda a energia liberada em um intervalo de tempo de 1 s pelas duas bombas\ncorresponde a $1 \times 10^{14}$ J.\nO gráfico que representa a potência média dessas bombas ao explodirem é:\n(Graph options A, B, C, D showing U(V) vs i(A))",
       subItens: []
     },
     options: ["(Graph A)","(Graph B)","(Graph C)","(Graph D)"],
@@ -648,7 +648,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "O CO₂ produzido na respiração atua no equilíbrio do pH do sangue, conforme a equação:\nCO2 (aq) + H2O (l) <=> H+ (aq) + HCO3-(aq)\nEm um estudo, foi analisada a alteração que quatro fármacos podem produzir sobre esse equilíbrio.\nObserve a tabela:\n(Table with FÁRMACO W, X, Y, Z and corresponding pH values)\nA concentração de íons HCO3-, no equilíbrio, é aumentada quando o seguinte fármaco entra em\ncontato com o sangue:",
+      principal: "O CO₂ produzido na respiração atua no equilíbrio do pH do sangue, conforme a equação:\$1_{2}$ (aq) + $1_{2}O_{}$ (l) \le> H+ (aq) + $1_{3}$-(aq)\nEm um estudo, foi analisada a alteração que quatro fármacos podem produzir sobre esse equilíbrio.\nObserve a tabela:\n(Table with FÁRMACO W, X, Y, Z and corresponding pH values)\nA concentração de íons $1_{3}$-, no equilíbrio, é aumentada quando o seguinte fármaco entra em\ncontato com o sangue:",
       subItens: []
     },
     options: ["W","X","Y","Z"],
@@ -798,7 +798,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "ENCHENTES EM PORTO ALEGRE: IMAGENS AÉREAS DO MERCADO PÚBLICO\n(Image: 1941 and 2024 aerial views of Porto Alegre market, 2024 showing flood)\nApós 83 anos, a cidade de Porto Alegre voltou a registrar uma grande enchente. Em 1941, a capital\ngaúcha enfrentou um alagamento histórico, que deixou cerca de 70 mil pessoas desabrigadas. Na\nocasião, o nível do Guaíba, cuja cota de inundação é de 3 metros, chegou a uma altura entre 4,75 e\n4,76 metros, segundo registros da época. Desta vez, o nível do Guaíba passou de 5,3 metros e, no\ndia 8 de maio de 2024, atingiu 5,07 metros.\ncnnbrasil.com.br\nAs grandes enchentes que afetaram Porto Alegre, nos anos de 1941 e 2024, mencionadas na\nreportagem, indicam a incidência desse problema na capital gaúcha.\nNa atualidade, o agravamento desse problema está relacionado ao contexto de:",
+      principal: "ENCHENTES EM PORTO ALEGRE: IMAGENS AÉREAS DO MERCADO PÚBLICO\n(Image: 1941 and 2024 aerial views of Porto Alegre market, 2024 showing flood)\nApós 83 anos, a cidade de Porto Alegre voltou a registrar uma grande enchente. Em 1941, a capital\ngaúcha enfrentou um alagamento histórico, que deixou cerca de 70 mil pessoas desabrigadas. Na\nocasião, o nível do Guaíba, cuja cota de inundação é de 3 metros, chegou a uma altura entre 4,75 e\$1_{4}$,76 metros, segundo registros da época. Desta vez, o nível do Guaíba passou de 5,3 metros e, no\ndia 8 de maio de 2024, atingiu 5,07 metros.\ncnnbrasil.com.br\nAs grandes enchentes que afetaram Porto Alegre, nos anos de 1941 e 2024, mencionadas na\nreportagem, indicam a incidência desse problema na capital gaúcha.\nNa atualidade, o agravamento desse problema está relacionado ao contexto de:",
       subItens: []
     },
     options: ["intensificação da crise climática","exploração de recursos minerais","degradação do bioma do Pampa","permeabilização do solo da cidade"],

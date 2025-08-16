@@ -138,7 +138,7 @@ createQuestion({
     university: "ITA",
     year: 2024,
     text: {
-      principal: "Questão 10. Um próton com posição inicial x = R e velocidade inicial v0 na direção y (v0 ≪ c) adentra uma região (x > 0 e y > 0) onde atua um campo magnético perpendicular ao plano xy, conforme mostra a figura. Considere que logo após acessar esta região a trajetória do próton apresenta um raio de curvatura R (L/2 < R < L) e que um detetor suficientemente estreito é posicionado para sua contagem em y = L/2. Determine a posição em x que o detetor deve estar para a contagem deste próton.\n\n[IMAGEM: Gráfico cartesiano X-Y. Um próton com velocidade inicial v0 (no eixo Y positivo) entra em uma região com campo magnético (indicado por 'X's, o que sugere campo entrando na página). O próton começa em x=R. Um detector está posicionado em y=L/2. A trajetória do próton é curva.]",
+      principal: "Questão 10. Um próton com posição inicial x = R e velocidade inicial $1_{0}$ na direção y ($1_{0}$ ≪ c) adentra uma região (x > 0 e y > 0) onde atua um campo magnético perpendicular ao plano xy, conforme mostra a figura. Considere que logo após acessar esta região a trajetória do próton apresenta um raio de curvatura R (L/2 < R < L) e que um detetor suficientemente estreito é posicionado para sua contagem em y = L/2. Determine a posição em x que o detetor deve estar para a contagem deste próton.\n\n[IMAGEM: Gráfico cartesiano X-Y. Um próton com velocidade inicial $1_{0}$ (no eixo Y positivo) entra em uma região com campo magnético (indicado por 'X's, o que sugere campo entrando na página). O próton começa em x=R. Um detector está posicionado em y=L/2. A trajetória do próton é curva.]",
       subItens: []
     },
     options: ["Rcos(arcsen(L/R))","0","Rsen(arccos(L/(2R)))","Rcos(arcsen(L/(2R)))","Rsen(arccos(L/R))"],
@@ -273,7 +273,7 @@ createQuestion({
     university: "ITA",
     year: 2024,
     text: {
-      principal: "Questão 19. Leia abaixo os excertos 1 e 2 e, em seguida, as asserções I, II e III. Por fim, assinale a alternativa CORRETA.\n\n1. “Não ousou endireitar-se mais porque sabia que apenas deveria largar o trabalho quando ouvisse a ordem traduzida num berro.\" (\"Dina”, Luís Bernardo Honwana).\n\n2. \"Então, no início da rua, você viu uma viatura com sirenes tocando, e àquela altura da sua vida, aos catorze anos, você já havia aprendido que aquela visão era um problema, não que você tivesse consciência de que a polícia te abordava porque você era negro, mas sua experiência já te dizia para se manter longe das viaturas.\" (O avesso da pele, Jeferson Tenório).\n\nI. Em Moçambique ou no Brasil, no passado ou no presente, a população negra, jovem ou idosa, deve se portar de determinada maneira a fim de \"minimizar\" os efeitos do racismo e da dominação.\nII. Em Moçambique ou no Brasil, no passado ou no presente, o racismo e a submissão social acontecem a despeito do comportamento da população negra.\nIII. Mulheres negras que se submetem às violentas imposições dos dominadores racistas são poupadas e acabam por ter alguns privilégios.",
+      principal: "Questão 19. Leia abaixo os excertos 1 e 2 e, em seguida, as asserções I, II e III. Por fim, assinale a alternativa CORRETA.\n\$1_{1}$. “Não ousou endireitar-se mais porque sabia que apenas deveria largar o trabalho quando ouvisse a ordem traduzida num berro.\" (\"Dina”, Luís Bernardo Honwana).\n\$1_{2}$. \"Então, no início da rua, você viu uma viatura com sirenes tocando, e àquela altura da sua vida, aos catorze anos, você já havia aprendido que aquela visão era um problema, não que você tivesse consciência de que a polícia te abordava porque você era negro, mas sua experiência já te dizia para se manter longe das viaturas.\" (O avesso da pele, Jeferson Tenório).\n\nI. Em Moçambique ou no Brasil, no passado ou no presente, a população negra, jovem ou idosa, deve se portar de determinada maneira a fim de \"minimizar\" os efeitos do racismo e da dominação.\nII. Em Moçambique ou no Brasil, no passado ou no presente, o racismo e a submissão social acontecem a despeito do comportamento da população negra.\nIII. Mulheres negras que se submetem às violentas imposições dos dominadores racistas são poupadas e acabam por ter alguns privilégios.",
       subItens: []
     },
     options: ["Apenas I e IIII são verdadeiras.","I, II e III são verdadeiras.","Apenas I é falsa.","Apenas I e II são verdadeiras.","Apenas II é verdadeira."],
@@ -603,7 +603,7 @@ createQuestion({
     university: "ITA",
     year: 2024,
     text: {
-      principal: "Questão 41. Considere o conjunto C = {1, 2, 3, 4, 5}. Para cada escolha possível de a0, a1, a2, a3, a4 ∈ C, dois a dois distintos, formamos o polinômio a0 + a1x + a2x² + a3x³ + a4x⁴.\nA soma das raízes, contadas com multiplicidade, de todos os polinômios formados nesse processo é igual a:",
+      principal: "Questão 41. Considere o conjunto C = {1, 2, 3, 4, 5}. Para cada escolha possível de $1_{0}$, $1_{1}$, $1_{2}$, $1_{3}$, $1_{4}$ ∈ C, dois a dois distintos, formamos o polinômio $1_{0}$ + a1x + a2x² + a3x³ + a4x⁴.\nA soma das raízes, contadas com multiplicidade, de todos os polinômios formados nesse processo é igual a:",
       subItens: []
     },
     options: ["17125/4","-1800.","-360.","351/2","101/4"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "ITA",
     year: 2024,
     text: {
-      principal: "Questão 43. Considere um cilindro circular reto tal que a área da sua base A1, a área da sua superfície lateral A2 e o seu volume A3 formem, nesta ordem, uma progressão geométrica crescente. A medida do raio da base pode estar no intervalo:",
+      principal: "Questão 43. Considere um cilindro circular reto tal que a área da sua base $1_{1}_{}$, a área da sua superfície lateral $1_{2}_{}$ e o seu volume $1_{3}_{}$ formem, nesta ordem, uma progressão geométrica crescente. A medida do raio da base pode estar no intervalo:",
       subItens: []
     },
     options: ["(1, 5/4)","(5/4, 2)","(3/2, 7/4)","(7/4, 2)","(2, 5/2)"],

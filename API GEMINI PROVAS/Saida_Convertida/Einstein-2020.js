@@ -303,7 +303,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Pandemia H1N1 [Imagem: Um mapa-múndi mostrando a espacialização dos casos de H1N1, com uma legenda para o número de casos variando de \"Não disponível\" a \"≥ 1500\". Abaixo do mapa: (www.nexojornal.com.br, 04.11.2016. Adaptado.)] Considerando a espacialização da H1N1 e as características do período em que essa pandemia ocorreu, depreende-se do mapa que",
+      principal: "Pandemia $1_{1}N_{1}$ [Imagem: Um mapa-múndi mostrando a espacialização dos casos de $1_{1}N_{1}$, com uma legenda para o número de casos variando de \"Não disponível\" a \"≥ 1500\". Abaixo do mapa: (www.nexojornal.com.br, 04.11.2016. Adaptado.)] Considerando a espacialização da $1_{1}N_{1}$ e as características do período em que essa pandemia ocorreu, depreende-se do mapa que",
       subItens: []
     },
     options: ["as barreiras sanitárias protegeram os países desenvolvidos da maior propagação do vírus.","as conexões globais contribuíram para o aumento da disseminação do vírus.","os trabalhos precários em áreas de fronteiras intensificaram a dispersão do vírus.","as zonas climáticas contribuíram para a ampla distribuição do vírus pelo globo.","as fragilidades socioeconômicas determinaram a distribuição espacial do vírus."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Uma das maneiras de se obter industrialmente o hidrogênio é pelo processo conhecido como \"reforma de hidrocarbonetos a vapor\", que envolve a reação entre hidrocarboneto e água no estado gasoso, gerando como produtos gasosos CO e H2. Considere os valores das entalpias de formação indicados na tabela. [Tabela: Substância | Entalpia de formação (kJ/mol). CH4 (g) | -75; H2O (g) | -242; CO (g) | -111; H2 (g) | zero.] A partir das informações fornecidas, calcula-se que a produção de cada mol de hidrogênio pela reforma a vapor do metano",
+      principal: "Uma das maneiras de se obter industrialmente o hidrogênio é pelo processo conhecido como \"reforma de hidrocarbonetos a vapor\", que envolve a reação entre hidrocarboneto e água no estado gasoso, gerando como produtos gasosos CO e $1_{2}_{}$. Considere os valores das entalpias de formação indicados na tabela. [Tabela: Substância | Entalpia de formação (kJ/mol). $1_{4}$ (g) | -75; $1_{2}O_{}$ (g) | -242; CO (g) | -111; $1_{2}_{}$ (g) | zero.] A partir das informações fornecidas, calcula-se que a produção de cada mol de hidrogênio pela reforma a vapor do metano",
       subItens: []
     },
     options: ["absorve 101 kJ.","absorve 69 kJ.","libera 35 kJ.","libera 69 kJ.","libera 101 kJ."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Uma peça retangular ABCD, de 10 cm por 12 cm, será dividida em cinco peças, como indica a figura, em que segmentos com as mesmas marcações têm comprimentos iguais. P₁, P2, P3, P4 e P5 indicam os perímetros das cinco peças, em centímetros. [Imagem: Um retângulo ABCD com lados de 12 cm e 10 cm, dividido em cinco peças menores. Segmentos com as mesmas marcações possuem comprimentos iguais. P1, P2, P3, P4, P5 são os perímetros das peças.] Sabendo-se que as cinco peças têm áreas iguais, a soma dos seus perímetros é igual a",
+      principal: "Uma peça retangular ABCD, de 10 cm por 12 cm, será dividida em cinco peças, como indica a figura, em que segmentos com as mesmas marcações têm comprimentos iguais. P₁, $1_{2}_{}$, $1_{3}_{}$, $1_{4}_{}$ e $1_{5}_{}$ indicam os perímetros das cinco peças, em centímetros. [Imagem: Um retângulo ABCD com lados de 12 cm e 10 cm, dividido em cinco peças menores. Segmentos com as mesmas marcações possuem comprimentos iguais. $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$, $1_{4}_{}$, $1_{5}_{}$ são os perímetros das peças.] Sabendo-se que as cinco peças têm áreas iguais, a soma dos seus perímetros é igual a",
       subItens: []
     },
     options: ["140 cm.","132 cm.","124 cm.","142 cm.","128 cm."],

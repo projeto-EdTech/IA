@@ -273,7 +273,7 @@ createQuestion({
     university: "ENEM",
     year: 2018,
     text: {
-      principal: "IDEOLOGIA E INTERNET\n1) NOVA ÉTICA\nVOCÊ NÃO\nERA BLO-\nGUEIRO DA\nOPOSIÇÃO?\nCOERÊNCIA É COISA\nDE TORCEDOR,\nEU SOU\nPROFIS-\nSIONAL\n2) NOVAS OPORTUNIDADES\nMEME EU COBRO X,\nTEXTÃO EU COBRO Y\n3) NOVA BOLHA\nVIU O PREÇO\nDA OPINIÃO\nNA INTERNET?\nTÁ PELA\nHORA DA\nMORTE\n\nBRANCO, A. Disponível em: www.oesquema.com.br. Acesso em: 30 jun. 2015 (adaptado).\n\nA internet proporcionou o surgimento de novos paradigmas sociais e impulsionou a modificação de outros já estabelecidos nas esferas da comunicação e da informação. A principal consequência criticada na tirinha sobre esse processo é a",
+      principal: "IDEOLOGIA E INTERNET\$1_{1}$) NOVA ÉTICA\nVOCÊ NÃO\nERA BLO-\nGUEIRO DA\nOPOSIÇÃO?\nCOERÊNCIA É COISA\nDE TORCEDOR,\nEU SOU\nPROFIS-\nSIONAL\$1_{2}$) NOVAS OPORTUNIDADES\nMEME EU COBRO X,\nTEXTÃO EU COBRO Y\$1_{3}$) NOVA BOLHA\nVIU O PREÇO\nDA OPINIÃO\nNA INTERNET?\nTÁ PELA\nHORA DA\nMORTE\n\nBRANCO, A. Disponível em: www.oesquema.com.br. Acesso em: 30 jun. 2015 (adaptado).\n\nA internet proporcionou o surgimento de novos paradigmas sociais e impulsionou a modificação de outros já estabelecidos nas esferas da comunicação e da informação. A principal consequência criticada na tirinha sobre esse processo é a",
       subItens: []
     },
     options: ["criação de memes.","ampliação da blogosfera.","supremacia das ideias cibernéticas.","comercialização de pontos de vista.","banalização do comércio eletrônico."],
@@ -603,7 +603,7 @@ createQuestion({
     university: "ENEM",
     year: 2018,
     text: {
-      principal: "(Imagem: Cartaz de campanha \"Campanha permanente pelo fim da violência contra as mulheres\". Mostra três mulheres e o slogan \"SE VOCÊ FOI VÍTIMA DE ASSÉDIO, ROMPA O SILÊNCIO: DENUNCIE LIGUE 180\" com informações de contato para denúncia.)\n\nDisponível em: www.sul21.com.br. Acesso em: 1 dez. 2017 (adaptado).\n\nNesse texto, busca-se convencer o leitor a mudar seu comportamento por meio da associação de verbos no modo imperativo à",
+      principal: "(Imagem: Cartaz de campanha \"Campanha permanente pelo fim da violência contra as mulheres\". Mostra três mulheres e o slogan \"SE VOCÊ FOI VÍTIMA DE ASSÉDIO, ROMPA O SILÊNCIO: DENUNCIE LIGUE 180\" com informações de contato para denúncia.)\n\nDisponível em: www.$1_{21}$.com.br. Acesso em: 1 dez. 2017 (adaptado).\n\nNesse texto, busca-se convencer o leitor a mudar seu comportamento por meio da associação de verbos no modo imperativo à",
       subItens: []
     },
     options: ["indicação de diversos canais de atendimento.","divulgação do Centro de Defesa da Mulher.","informação sobre a duração da campanha.","apresentação dos diversos apoiadores.","utilização da imagem das três mulheres."],

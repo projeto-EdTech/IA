@@ -438,7 +438,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2020,
     text: {
-      principal: "Para manutenção da qualidade e aumento no tempo de armazenamento de frutas climatéricas como a pera, uma das estratégias é a utilização do 1-metilciclopropeno (1-MCP), que reduz os efeitos do etileno (C2H4), o qual é responsável pelo amadurecimento dos frutos.\n[Imagem da estrutura de 1-MCP]\nA razão entre a massa da molécula de 1-MCP e a massa da molécula de etileno é, aproximadamente,\nDado:\nMassa molar (g/mol)\nH = 1,0\nC = 12,0",
+      principal: "Para manutenção da qualidade e aumento no tempo de armazenamento de frutas climatéricas como a pera, uma das estratégias é a utilização do 1-metilciclopropeno (1-MCP), que reduz os efeitos do etileno ($1_{2}H_{4}$), o qual é responsável pelo amadurecimento dos frutos.\n[Imagem da estrutura de 1-MCP]\nA razão entre a massa da molécula de 1-MCP e a massa da molécula de etileno é, aproximadamente,\nDado:\nMassa molar (g/mol)\nH = 1,0\nC = 12,0",
       subItens: []
     },
     options: ["0,5","0,75","1,5","1,9","2,3"],
@@ -456,7 +456,7 @@ createQuestion({
       principal: "Nas ilustrações abaixo vemos um portão de garagem que está se movimentando e uma visão lateral do mesmo. O portão é representado pelo segmento AB. Quando o ponto P se move dentro do trilho vertical OD, o ponto A se afasta x cm do trilho e y cm do chão. O ponto P é ponto médio de AB, e C é ponto médio de PB. As medidas de AB e de OD são ambas iguais a 2 m e a medida de CD é 0,5 m.\n[Imagem do portão de garagem e esquema geométrico]\nColocando a origem do sistema de coordenadas no ponto O, quando o portão se movimenta, o ponto A = (x, y) descreve",
       subItens: []
     },
-    options: ["um trecho da parábola y = x²+x .","um trecho da circunferência x² + (y - 1)² = 1.","um trecho da elipse x² + (y-2)² = 1.\n4","um trecho da hipérbole x² – (y − 1)² = 1.","um segmento de reta contido na reta y = 2x ."],
+    options: ["um trecho da parábola y = x²+x .","um trecho da circunferência x² + (y - 1)² = 1.","um trecho da elipse x² + (y-2)² = 1.\$1_{4}$","um trecho da hipérbole x² – (y − 1)² = 1.","um segmento de reta contido na reta y = 2x ."],
     correctAnswer: 2,
     materia: "Matemática – Geometria Analítica",
     conteudo: "Matemática – Equações de Cônicas",

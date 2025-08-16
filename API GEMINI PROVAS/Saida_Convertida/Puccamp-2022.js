@@ -303,7 +303,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2022,
     text: {
-      principal: "O calcário calcítico possui, em média, 50%, em massa, de CaCO3. A quantidade de CaCO3 do calcário calcítico, em mols, utili-zada quando 1.000 m² de solo mais alcalino for corrigido, é de, aproximadamente:\nDados: massas molares (g/mol) Ca = 40,0 C = 12,0 O = 16,0",
+      principal: "O calcário calcítico possui, em média, 50%, em massa, de $1_{3}$. A quantidade de $1_{3}$ do calcário calcítico, em mols, utili-zada quando 1.000 m² de solo mais alcalino for corrigido, é de, aproximadamente:\nDados: massas molares (g/mol) Ca = 40,0 C = 12,0 O = 16,0",
       subItens: []
     },
     options: ["50","250","350","400","500"],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2022,
     text: {
-      principal: "Atenção: Para responder às questões de números 28 a 30, considere o texto abaixo.\nAquecimento do Oceano\nOs oceanos do planeta Terra absorveram uma quantidade recorde de calor no ano passado, de acordo com um novo estudo, que analisou dados de 1950 a 2019. Segundo as informações, a temperatura média dos oceanos em 2019 era 0,075 °C, acima da média de 1981 a 2010. Pode parecer pouco, mas, considerando o grande volume dos oceanos, até mesmo um pequeno aumento exigiria um fluxo impressionante de calor o equivalente a 228 sextilhões de Joules, segundo o estudo de uma equipe internacional de cientistas, pu-blicado na revista Advances in Atmospheric Sciences. A pesquisa do grupo fornece evidências incontestáveis de que o planeta está esquentando – e rapidamente. De 1987 a 2019, os oceanos esquentaram quatro vezes e meia mais rapidamente do que entre 1955 e 1986. Quando os oceanos esquentam, o gelo derrete mais rápido e a água se expande, ocupando mais espaço e fazendo o nível do mar subir. Além disso, oceanos mais quentes significam mais água evaporando na atmosfera, criando mais umidade, o que pode sobrecarregar as tempestades.\n(Disponível em: https://olhardigital.com.br)\nA equação de dilatação volumétrica é dada por V = Vo(1 + γ(Τ – Το)),\nDados:\nV: volume final (m³)\nVo: volume inicial (m³)\nγ: coeficiente de dilatação (°C)-1\nT: temperatura final (°C)\nTo: temperatura inicial (°C)\nSupondo que o aumento de temperatura foi de 0,075 °C e y = 1,3 × 10-4, o aumento percentual do volume foi de:",
+      principal: "Atenção: Para responder às questões de números 28 a 30, considere o texto abaixo.\nAquecimento do Oceano\nOs oceanos do planeta Terra absorveram uma quantidade recorde de calor no ano passado, de acordo com um novo estudo, que analisou dados de 1950 a 2019. Segundo as informações, a temperatura média dos oceanos em 2019 era 0,075 °C, acima da média de 1981 a 2010. Pode parecer pouco, mas, considerando o grande volume dos oceanos, até mesmo um pequeno aumento exigiria um fluxo impressionante de calor o equivalente a 228 sextilhões de Joules, segundo o estudo de uma equipe internacional de cientistas, pu-blicado na revista Advances in Atmospheric Sciences. A pesquisa do grupo fornece evidências incontestáveis de que o planeta está esquentando – e rapidamente. De 1987 a 2019, os oceanos esquentaram quatro vezes e meia mais rapidamente do que entre 1955 e 1986. Quando os oceanos esquentam, o gelo derrete mais rápido e a água se expande, ocupando mais espaço e fazendo o nível do mar subir. Além disso, oceanos mais quentes significam mais água evaporando na atmosfera, criando mais umidade, o que pode sobrecarregar as tempestades.\n(Disponível em: https://olhardigital.com.br)\nA equação de dilatação volumétrica é dada por V = Vo(1 + γ(Τ – Το)),\nDados:\nV: volume final (m³)\nVo: volume inicial (m³)\nγ: coeficiente de dilatação (°C)-1\nT: temperatura final (°C)\nTo: temperatura inicial (°C)\nSupondo que o aumento de temperatura foi de 0,075 °C e y = $1 \times 10^{-4}$, o aumento percentual do volume foi de:",
       subItens: []
     },
     options: ["0,000975%","0,00975%","0,00013%","0,0075%","0,00075%"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2022,
     text: {
-      principal: "Estima-se que existam 1,3 × 10^21 litros de água na Terra, sendo que 0,04% dessa água está em rios e lagos. Considere o calor específico e a densidade da água respectivamente iguais a 4 J/g. °C e 1,0 g/cm³ e suponha que, em média, a temperatura da água existente nos rios e lagos seja 20 °C. Se fornecêssemos à quantidade de água existente nos rios e lagos 1,0% da energia de 228 sextilhões de joules (2,28 × 10^23 J) citada no texto, sua temperatura final, seria, em graus Celsius, aproximadamente:",
+      principal: "Estima-se que existam $1 \times 10^{21}$ litros de água na Terra, sendo que 0,04% dessa água está em rios e lagos. Considere o calor específico e a densidade da água respectivamente iguais a 4 J/g. °C e 1,0 g/cm³ e suponha que, em média, a temperatura da água existente nos rios e lagos seja 20 °C. Se fornecêssemos à quantidade de água existente nos rios e lagos 1,0% da energia de 228 sextilhões de joules ($1 \times 10^{23}$ J) citada no texto, sua temperatura final, seria, em graus Celsius, aproximadamente:",
       subItens: []
     },
     options: ["18,9","30,8","21,1","43,8","52,1"],
@@ -438,10 +438,10 @@ createQuestion({
     university: "Prova Geral",
     year: 2022,
     text: {
-      principal: "Considere que a massa da Terra seja igual a 6,0 × 10^24 kg e que sua velocidade média de translação ao redor do Sol seja 30 km/s. A energia cinética da Terra nesse movimento é maior do que a quantidade de calor responsável pelo aumento da temperatura dos oceanos nos últimos anos (2,28 × 10^23 J) de um fator aproximadamente igual a:",
+      principal: "Considere que a massa da Terra seja igual a $1 \times 10^{24}$ kg e que sua velocidade média de translação ao redor do Sol seja 30 km/s. A energia cinética da Terra nesse movimento é maior do que a quantidade de calor responsável pelo aumento da temperatura dos oceanos nos últimos anos ($1 \times 10^{23}$ J) de um fator aproximadamente igual a:",
       subItens: []
     },
-    options: ["10^6","10^10","10^15","10^18","10^23"],
+    options: ["$1^{6}$","$1^{10}$","$1^{15}$","$1^{18}$","$1^{23}$"],
     correctAnswer: 1,
     materia: "Física – Energia Cinética",
     conteudo: "Física – Ordens de Grandeza",

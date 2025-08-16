@@ -588,7 +588,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "O Dihidrogeno fosfato de cálcio ou Fosfato diácido de cálcio é produzido a partir da reação não-balanceada:\nCa3(PO4)2(s) + H2SO4(aq) → Ca(H2PO4)2(s) + CaSO4(s)\nPartindo-se de 50,0 g de Ca3(PO4)2 e usando-se quantidade suficiente de H2SO4, qual, em gramas, é a massa aproximada de Ca(H2PO4)2 obtida?\nDados: Ca = 40,1; P = 31,0; O = 16,0; H = 1,0.",
+      principal: "O Dihidrogeno fosfato de cálcio ou Fosfato diácido de cálcio é produzido a partir da reação não-balanceada:\$1_{3}$($1_{4}$)2(s) + $1_{2}SO_{4}$(aq) → Ca($1_{2}PO_{4}$)2(s) + $1_{4}$(s)\nPartindo-se de 50,0 g de $1_{3}_{}$($1_{4}$)2 e usando-se quantidade suficiente de $1_{2}SO_{4}$, qual, em gramas, é a massa aproximada de Ca($1_{2}PO_{4}$)2 obtida?\nDados: Ca = 40,1; P = 31,0; O = 16,0; H = 1,0.",
       subItens: []
     },
     options: ["37,7g","75,4g","113,2g","59,6g","75,4g"],
@@ -603,10 +603,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Analisando a síntese da amônia, que estabelece o equilíbrio:\nN2(g) + 3 H2(g) ⇌ 2NH3(g) ΔΗ = – 92 kJ\nPode-se inferir, pelos fatores principais do Princípio de Le Chatelier, que:",
+      principal: "Analisando a síntese da amônia, que estabelece o equilíbrio:\$1_{2}$(g) + 3 $1_{2}_{}$(g) ⇌ 2NH3(g) ΔΗ = – 92 kJ\nPode-se inferir, pelos fatores principais do Princípio de Le Chatelier, que:",
       subItens: []
     },
-    options: ["O aumento na temperatura, favorece a reação no sentido exotérmico, ou seja, o equilíbrio se deslocará para a direita.","A diminuição na pressão, provoca o deslocamento do equilíbrio no sentido da reação que se realiza com contração de volume, ou seja, o equilíbrio se deslocará para a esquerda.","Adicionando mais N2(g), ocorrerá o deslocamento para a esquerda.","Adicionando mais H2(g), ocorrerá o deslocamento para a direita.","Retirando uma parte do NH3(g), ocorrerá o deslocamento para a esquerda."],
+    options: ["O aumento na temperatura, favorece a reação no sentido exotérmico, ou seja, o equilíbrio se deslocará para a direita.","A diminuição na pressão, provoca o deslocamento do equilíbrio no sentido da reação que se realiza com contração de volume, ou seja, o equilíbrio se deslocará para a esquerda.","Adicionando mais $1_{2}_{}$(g), ocorrerá o deslocamento para a esquerda.","Adicionando mais $1_{2}_{}$(g), ocorrerá o deslocamento para a direita.","Retirando uma parte do $1_{3}$(g), ocorrerá o deslocamento para a esquerda."],
     correctAnswer: 3,
     materia: "Química – Equilíbrio Químico",
     conteudo: "Química – Princípio de Le Chatelier",
@@ -693,7 +693,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Segue abaixo o circuito elétrico:\nUtilizando-se da associação de resistores e da lei de Ohm, assinale a única alternativa correta (Considere os seguintes valores de resistências R₁= 30,0mΩ, R2= 5,0mΩ, R3= 7,0mΩ e R4= 8,0m2, e o valor de tensão elétrica U = 6,0μV).",
+      principal: "Segue abaixo o circuito elétrico:\nUtilizando-se da associação de resistores e da lei de Ohm, assinale a única alternativa correta (Considere os seguintes valores de resistências R₁= 30,0mΩ, $1_{2}_{}$= 5,0mΩ, $1_{3}_{}$= 7,0mΩ e $1_{4}_{}$= 8,0m2, e o valor de tensão elétrica U = 6,0μV).",
       subItens: []
     },
     options: ["UAB = 1,5µV, IBC = 0,2mA e PCD = 2,4×10⁻⁹ W.","UAB = 3,0µV, IBC = 0,3mA e PCD = 7,2×10⁻⁹ W.","UAB = 1,5µV, IBC = 0,2mA e PCD = 7,2×10⁻⁹ W.","UAB = 3,0µV, IBC = 0,3mA e PCD = 1,5×10⁻⁹ W.","Uab= 1,5µV, IBC = 0,3mA ePCD = 2,4×10⁻⁹ W."],
@@ -858,10 +858,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "\"Existem vários tipos de soja transgênicas sendo desenvolvidas atualmente. A mais conhecida e plantada comercialmente é uma planta que recebeu, por meio de técnicas da biotecnologia, um gene de um outro organismo capaz de torná-la tolerante ao uso de um tipo de herbicida, o glifosato. Esse gene foi extraído de uma bactéria do solo, conhecida por Agrobacterium, e patenteado por uma empresa privada com o nome CP4-EPSPS. Estruturalmente, é muito parecido com os genes que compõem o genoma de uma planta. Quando inserido no genoma da soja, tornou a planta resistente à aplicação do herbicida.\"\nPortal Embrapa:\nhttps://www.embrapa.br/soja/cultivos/soja1/soja-transgenica\nCom base no texto acima e nos conceitos de transgenia, pode-se concluir, corretamente, que:",
+      principal: "\"Existem vários tipos de soja transgênicas sendo desenvolvidas atualmente. A mais conhecida e plantada comercialmente é uma planta que recebeu, por meio de técnicas da biotecnologia, um gene de um outro organismo capaz de torná-la tolerante ao uso de um tipo de herbicida, o glifosato. Esse gene foi extraído de uma bactéria do solo, conhecida por Agrobacterium, e patenteado por uma empresa privada com o nome $1_{4}$-EPSPS. Estruturalmente, é muito parecido com os genes que compõem o genoma de uma planta. Quando inserido no genoma da soja, tornou a planta resistente à aplicação do herbicida.\"\nPortal Embrapa:\nhttps://www.embrapa.br/soja/cultivos/$1_{1}$/soja-transgenica\nCom base no texto acima e nos conceitos de transgenia, pode-se concluir, corretamente, que:",
       subItens: []
     },
-    options: ["Toda planta transgênica produz substâncias altamente tóxicas ao ser humano.","A pesquisa científica busca, com o desenvolvimento de transgênicos, criar novas espécies, para poder aumentar a produtividade e minimizar o uso de herbicidas.","Organismos geneticamente modificados são obtidos por meio do cruzamento de espécies diferentes, para se obter uma espécie nova que não ocorre naturalmente.","Organismos geneticamente modificados são quaisquer organismos em que se tenha introduzido uma ou mais sequências de DNA (gene provenientes de uma outra espécie, ou uma sequência modificada de DNA da mesma espécie).","Plantas transgênicas são estéreis a partir da geração F2."],
+    options: ["Toda planta transgênica produz substâncias altamente tóxicas ao ser humano.","A pesquisa científica busca, com o desenvolvimento de transgênicos, criar novas espécies, para poder aumentar a produtividade e minimizar o uso de herbicidas.","Organismos geneticamente modificados são obtidos por meio do cruzamento de espécies diferentes, para se obter uma espécie nova que não ocorre naturalmente.","Organismos geneticamente modificados são quaisquer organismos em que se tenha introduzido uma ou mais sequências de DNA (gene provenientes de uma outra espécie, ou uma sequência modificada de DNA da mesma espécie).","Plantas transgênicas são estéreis a partir da geração $1_{2}_{}$."],
     correctAnswer: 3,
     materia: "Biologia – Biotecnologia",
     conteudo: "Biologia – Organismos Geneticamente Modificados",
@@ -873,7 +873,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "A tabela abaixo mostra o estoque de sangue do Banco de Sangue de um hospital:\nTipo sanguíneo | Quantidade de bolsas em estoque\nA | 12\nB | 7\nAB | 5\n0 | 15\nDois pacientes de um acidente de trânsito foram encaminhados ao hospital e precisam de transfusão de sangue. Sabendo que os pacientes possuem as seguintes características, assinale a alternativa correta.\nPaciente 1: aglutinogênio b\nPaciente 2: aglutinina anti-a e anti-b",
+      principal: "A tabela abaixo mostra o estoque de sangue do Banco de Sangue de um hospital:\nTipo sanguíneo | Quantidade de bolsas em estoque\nA | 12\nB | 7\nAB | 5\$1_{0}$ | 15\nDois pacientes de um acidente de trânsito foram encaminhados ao hospital e precisam de transfusão de sangue. Sabendo que os pacientes possuem as seguintes características, assinale a alternativa correta.\nPaciente 1: aglutinogênio b\nPaciente 2: aglutinina anti-a e anti-b",
       subItens: []
     },
     options: ["O paciente 1 tem 27 bolsas de sangue para receber, enquanto o paciente 2 pode receber 39 bolsas.","O paciente 1 pode receber sangue de 7 bolsas e o paciente 2 de 5 bolsas.","O paciente 1 pode receber sangue de 22 bolsas e o paciente 2 de 15 bolsas.","O paciente 1 tem 22 bolsas para receber sangue e o paciente 2 tem 19 bolsas.","Ambos os pacientes podem receber apenas sangue de 15 bolsas."],
@@ -1068,7 +1068,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "O Ato Institucional nº 5, AI-5, baixado em 13 de dezembro de 1968, durante o governo do general Costa e Silva, foi a expressão mais acabada da ditadura militar brasileira (1964-1985). Vigorou até dezembro de 1978 e produziu um elenco de ações arbitrárias de efeitos duradouros. Definiu o momento mais duro do regime, dando poder de exceção aos governantes para punir arbitrariamente os que fossem inimigos do regime ou como tal considerados.\nFonte: CPDOC. Disponível em: http://cpdoc.fgv.br/producao/dossies/FatosImagens/AI5. Acesso em 19/11/2017.\nQual das alternativas abaixo não aponta as características deste ato?",
+      principal: "O Ato Institucional nº 5, AI-5, baixado em 13 de dezembro de 1968, durante o governo do general Costa e Silva, foi a expressão mais acabada da ditadura militar brasileira (1964-1985). Vigorou até dezembro de 1978 e produziu um elenco de ações arbitrárias de efeitos duradouros. Definiu o momento mais duro do regime, dando poder de exceção aos governantes para punir arbitrariamente os que fossem inimigos do regime ou como tal considerados.\nFonte: CPDOC. Disponível em: http://cpdoc.fgv.br/producao/dossies/FatosImagens/$1_{5}$. Acesso em 19/11/2017.\nQual das alternativas abaixo não aponta as características deste ato?",
       subItens: []
     },
     options: ["Decretou o fechamento do Congresso Nacional por 10 anos, anulou o título de eleitor de todos os cidadãos brasileiros e anulou as aposentadorias de cantores, professores e políticos.","Decretou o recesso do Congresso Nacional.","Interviu nos estados e municípios.","Cassou mandatos parlamentares.","Suspendeu, por dez anos, os direitos políticos de qualquer cidadão; decretar o confisco de bens considerados ilícitos; e suspender a garantia do habeas-corpus."],

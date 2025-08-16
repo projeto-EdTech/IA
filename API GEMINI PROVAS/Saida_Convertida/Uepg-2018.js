@@ -153,7 +153,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "A figura abaixo representa uma célula caliciforme presente na parede do intestino, a qual é secretora de muco (proteínas associadas a polissacarídeos). Assinale o que for correto sobre os constituintes celulares.\nvesículas contendo muco\ncavidade intestinal\nPorção apical\nA\nB\nC\nPorção basal\nD\n10 μm\nAdaptado de: Lopes, S., Rosso, S. BIO. 2ª ed. Volume 1. Editora Saraiva. São Paulo. 2010.",
+      principal: "A figura abaixo representa uma célula caliciforme presente na parede do intestino, a qual é secretora de muco (proteínas associadas a polissacarídeos). Assinale o que for correto sobre os constituintes celulares.\nvesículas contendo muco\ncavidade intestinal\nPorção apical\nA\nB\nC\nPorção basal\nD\$1_{10}$ μm\nAdaptado de: Lopes, S., Rosso, S. BIO. 2ª ed. Volume 1. Editora Saraiva. São Paulo. 2010.",
       subItens: []
     },
     options: ["A porção apical da célula apresenta principalmente vesículas secretoras, que eliminam seus conteúdos para fora da célula por exocitose.","Os ribossomos (B) possuem função de eliminação das secreções, enquanto o plasto (C) é considerado um grande vacúolo armazenador de material a ser secretado pela célula.","As estruturas (A) e (D) são pouco abundantes em células animais secretoras, visto que suas funções se resumem basicamente ao controle da divisão celular e respiração intracelular, respectivamente.","A principal função do retículo endoplasmático granuloso (D) é a síntese de proteínas e ele é muito desenvolvido em células que têm função secretora."],
@@ -171,7 +171,7 @@ createQuestion({
       principal: "Assinale o que for correto sobre as características gerais do metabolismo energético utilizado pelas células.",
       subItens: []
     },
-    options: ["O processo de respiração anaeróbia está presente nas cianobactérias. Neste processo, a glicose é a matéria orgânica a ser degradada para obtenção de energia, por meio de vários mecanismos bioquímicos integrados.","A quimiossíntese é realizada por algumas bactérias, as quais não utilizam a energia luminosa para formação de compostos orgânicos. Por exemplo, as nitrobactérias utilizam energia química proveniente da oxidação de íons nitrito para síntese da matéria orgânica.","A fotossíntese, considerada o principal processo autotrófico, é realizada pelos seres clorofilados. Por exemplo, as bactérias fotossintetizantes (fotoautotróficas) fazem uso de gás carbônico (CO2) e água (H2O) para formação de carboidratos e gás oxigênio (O2).","A fermentação é um processo aeróbio, com grande ganho energético, exclusivo de algumas bactérias e fungos. A glicose é degradada na presença de oxigênio, gerando substâncias como o álcool etílico (fermentação alcoólica), por exemplo."],
+    options: ["O processo de respiração anaeróbia está presente nas cianobactérias. Neste processo, a glicose é a matéria orgânica a ser degradada para obtenção de energia, por meio de vários mecanismos bioquímicos integrados.","A quimiossíntese é realizada por algumas bactérias, as quais não utilizam a energia luminosa para formação de compostos orgânicos. Por exemplo, as nitrobactérias utilizam energia química proveniente da oxidação de íons nitrito para síntese da matéria orgânica.","A fotossíntese, considerada o principal processo autotrófico, é realizada pelos seres clorofilados. Por exemplo, as bactérias fotossintetizantes (fotoautotróficas) fazem uso de gás carbônico ($1_{2}$) e água ($1_{2}O_{}$) para formação de carboidratos e gás oxigênio ($1_{2}_{}$).","A fermentação é um processo aeróbio, com grande ganho energético, exclusivo de algumas bactérias e fungos. A glicose é degradada na presença de oxigênio, gerando substâncias como o álcool etílico (fermentação alcoólica), por exemplo."],
     correctAnswer: null,
     materia: "Biologia – Metabolismo Energético",
     conteudo: "Biologia – Fotossíntese",
@@ -273,10 +273,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "O planeta Terra tem massa aproximadamente igual a 6 x 10^24 kg e dista a 41 400 000 de quilômetros do planeta Vênus de massa aproximadamente igual a 5 x 10^24 kg. De acordo com as informações e, adotando G= 6,67 x 10^-11 N.m²/ kg², assinale o que for correto.",
+      principal: "O planeta Terra tem massa aproximadamente igual a $1 \times 10^{24}$ kg e dista a 41 400 000 de quilômetros do planeta Vênus de massa aproximadamente igual a $1 \times 10^{24}$ kg. De acordo com as informações e, adotando G= $1 \times 10^{-11}$ N.m²/ kg², assinale o que for correto.",
       subItens: []
     },
-    options: ["A força gravitacional, que atua a distância, numa direção que une os centros dos corpos, é uma força de campo. Na verdade, o que temos é um par de forças de ação e reação, cada uma agindo em um planeta, e que têm a mesma intensidade.","A intensidade da força de atração gravitacional entre a Terra e Vênus é de aproximadamente 0,0000048 x 10^37 N.","De acordo com a Lei da Gravitação Universal, o valor da constante de gravitação (G = 6,67 x 10^-11 N.m² / kg²) é válido somente para corpos no vácuo.","A intensidade da força de atração gravitacional entre a Terra e Vênus é diretamente proporcional ao produto de suas massas e inversamente proporcional ao quadrado da distância que separa os centros dos planetas."],
+    options: ["A força gravitacional, que atua a distância, numa direção que une os centros dos corpos, é uma força de campo. Na verdade, o que temos é um par de forças de ação e reação, cada uma agindo em um planeta, e que têm a mesma intensidade.","A intensidade da força de atração gravitacional entre a Terra e Vênus é de aproximadamente $1 \times 10^{37}$ N.","De acordo com a Lei da Gravitação Universal, o valor da constante de gravitação (G = $1 \times 10^{-11}$ N.m² / kg²) é válido somente para corpos no vácuo.","A intensidade da força de atração gravitacional entre a Terra e Vênus é diretamente proporcional ao produto de suas massas e inversamente proporcional ao quadrado da distância que separa os centros dos planetas."],
     correctAnswer: null,
     materia: "Física – Gravitação Universal",
     conteudo: "Física – Força Gravitacional",
@@ -321,7 +321,7 @@ createQuestion({
       principal: "Sobre forças intermoleculares, assinale o que for correto.",
       subItens: []
     },
-    options: ["Moléculas de ácido fluorídrico (HF) estabelecem ligação de hidrogênio.","A existência de ligação de hidrogênio entre as moléculas em um determinado composto interfere no seu ponto de ebulição.","Forças intermoleculares do tipo Dipolo-Dipolo são mais fortes que ligações de hidrogênio.","Moléculas de ácido sulfídrico (H2S) interagem pela presença da ligação de hidrogênio."],
+    options: ["Moléculas de ácido fluorídrico (HF) estabelecem ligação de hidrogênio.","A existência de ligação de hidrogênio entre as moléculas em um determinado composto interfere no seu ponto de ebulição.","Forças intermoleculares do tipo Dipolo-Dipolo são mais fortes que ligações de hidrogênio.","Moléculas de ácido sulfídrico ($1_{2}S_{}$) interagem pela presença da ligação de hidrogênio."],
     correctAnswer: null,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Forças Intermoleculares",
@@ -351,7 +351,7 @@ createQuestion({
       principal: "Considere as reações químicas descritas abaixo, que podem ocorrer em laboratórios e também em nosso cotidiano, e assinale o que for correto.",
       subItens: []
     },
-    options: ["O ácido nítrico presente na chuva ácida pode solubilizar o metal chumbo encontrado como PbCO3(s) em solos impactados, por meio de uma reação na qual forma-se nitrato de chumbo que é solúvel em água.","Não é possível armazenar ácido clorídrico em recipiente de alumínio, pois ocorrerá uma reação de deslocamento, com liberação de hidrogênio e formação de AlCl3.","O bicarbonato de sódio, componente do fermento químico, reage com a água liberando CO2 entre os produtos formados.","O composto H2SO4, derramado por acidente no solo, pode ser neutralizado pela adição de calcário (CaCO3), havendo uma reação na qual forma-se sulfato de cálcio ente os produtos."],
+    options: ["O ácido nítrico presente na chuva ácida pode solubilizar o metal chumbo encontrado como $1_{3}$(s) em solos impactados, por meio de uma reação na qual forma-se nitrato de chumbo que é solúvel em água.","Não é possível armazenar ácido clorídrico em recipiente de alumínio, pois ocorrerá uma reação de deslocamento, com liberação de hidrogênio e formação de $1_{3}$.","O bicarbonato de sódio, componente do fermento químico, reage com a água liberando $1_{2}$ entre os produtos formados.","O composto $1_{2}SO_{4}$, derramado por acidente no solo, pode ser neutralizado pela adição de calcário ($1_{3}$), havendo uma reação na qual forma-se sulfato de cálcio ente os produtos."],
     correctAnswer: null,
     materia: "Química – Reações Químicas",
     conteudo: "Química – Chuva Ácida",
@@ -438,7 +438,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Considerando as funções definidas por f(x) = 2^(x + 1) e g(x) = log2(x² - 1), assinale o que for correto.",
+      principal: "Considerando as funções definidas por f(x) = 2^(x + 1) e g(x) = $1_{2}$(x² - 1), assinale o que for correto.",
       subItens: []
     },
     options: ["f(g(x)) = 2(x² - 1).","Se g(x) = 2, então x é um número irracional.","Se f(x) = 512, então x é ímpar.","O domínio da função g(x) é o intervalo [-1,1]."],

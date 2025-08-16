@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2021,
     text: {
-      principal: "De acordo com o teorema fundamental da aritmética, todo número natural maior do que 1 é primo ou é um produto de números primos. Observe os exemplos:\n1964 = 2² x 491\n1994 = 2 x 997\nO maior número primo obtido na fatoração de 1716 é:",
+      principal: "De acordo com o teorema fundamental da aritmética, todo número natural maior do que 1 é primo ou é um produto de números primos. Observe os exemplos:\$1_{1964}$ = 2² x 491\$1_{1994}$ = 2 x 997\nO maior número primo obtido na fatoração de 1716 é:",
       subItens: []
     },
     options: ["17","13","11","7"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2021,
     text: {
-      principal: "O ácido iodídrico, utilizado na higienização de instrumentos médicos, dentre outras aplicações, é produzido a partir da seguinte reação química:\n2 I₂ + N₂H₄ → 4 HI + N₂\nEm um processo de produção industrial, ao adicionar 254 kg de I₂ e 80 kg de N₂H₄, verifica-se o consumo completo do reagente limitante.\nA massa de reagente em excesso, que não foi consumida, em quilogramas, tem valor igual a:",
+      principal: "O ácido iodídrico, utilizado na higienização de instrumentos médicos, dentre outras aplicações, é produzido a partir da seguinte reação química:\$1_{2}$ I₂ + N₂H₄ → 4 HI + N₂\nEm um processo de produção industrial, ao adicionar 254 kg de I₂ e 80 kg de N₂H₄, verifica-se o consumo completo do reagente limitante.\nA massa de reagente em excesso, que não foi consumida, em quilogramas, tem valor igual a:",
       subItens: []
     },
     options: ["16","32","64","72"],
@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2021,
     text: {
-      principal: "A África do Sul comemora, em 11 de fevereiro de 2020, o 30º aniversário da saída de Nelson Mandela da prisão. “O dia 11 de fevereiro de 1990 sempre será lembrado como um dos dias mais memoráveis da história do mundo, não apenas da história da África do Sul. O dia em que Madiba foi libertado foi o dia em que todos sabíamos que o apartheid estava morto”, disse o atual presidente Ramaphosa à multidão que se reuniu para ouvi-lo.\nAdaptado de noticias.r7.com, 11/02/2020.\nPerto de Joanesburgo, uma autoestrada separa duas comunidades contrastantes: o bairro burguês majoritariamente branco de Primrose e a povoação de Makause, onde os mineiros desempregados se apropriaram de terras na década de 1990. Quase todos os seus moradores são negros.\n[IMAGEM: Foto de Nelson Mandela, e uma foto aérea de Joanesburgo mostrando uma clara divisão entre áreas urbanizadas e áreas mais precárias, separadas por uma estrada].\nAdaptado de nationalgeographic.sapo.pt.\nHá 30 anos, a libertação de Nelson Mandela, na África do Sul, significou que o regime de apartheid \"estava morto”, conforme a reportagem.\nNa atualidade, a fotografia aérea de logradouros da cidade de Joanesburgo representa a seguinte herança desse regime:",
+      principal: "A África do Sul comemora, em 11 de fevereiro de 2020, o 30º aniversário da saída de Nelson Mandela da prisão. “O dia 11 de fevereiro de 1990 sempre será lembrado como um dos dias mais memoráveis da história do mundo, não apenas da história da África do Sul. O dia em que Madiba foi libertado foi o dia em que todos sabíamos que o apartheid estava morto”, disse o atual presidente Ramaphosa à multidão que se reuniu para ouvi-lo.\nAdaptado de noticias.$1_{7}$.com, 11/02/2020.\nPerto de Joanesburgo, uma autoestrada separa duas comunidades contrastantes: o bairro burguês majoritariamente branco de Primrose e a povoação de Makause, onde os mineiros desempregados se apropriaram de terras na década de 1990. Quase todos os seus moradores são negros.\n[IMAGEM: Foto de Nelson Mandela, e uma foto aérea de Joanesburgo mostrando uma clara divisão entre áreas urbanizadas e áreas mais precárias, separadas por uma estrada].\nAdaptado de nationalgeographic.sapo.pt.\nHá 30 anos, a libertação de Nelson Mandela, na África do Sul, significou que o regime de apartheid \"estava morto”, conforme a reportagem.\nNa atualidade, a fotografia aérea de logradouros da cidade de Joanesburgo representa a seguinte herança desse regime:",
       subItens: []
     },
     options: ["rigidez do planejamento urbano","modernização do transporte público","aprimoramento do manejo ambiental","permanência da segregação espacial"],

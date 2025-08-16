@@ -6,7 +6,7 @@ createQuestion({
       principal: "O gráfico abaixo apresenta a variação do nível de oxigênio na atmosfera em função do tempo.\nAdaptado de: DOTT, R., PROTHERO, D. Evolution of the earth. New York: McGraw-Hill, 1994.\nSobre o gráfico e os eventos nele assinalados, é correto afirmar que",
       subItens: []
     },
-    options: ["três bilhões de anos antes do presente não havia vida devido à escassez de oxigênio.","o evento 1 corresponde aos primórdios do surgimento da fotossíntese.","a respiração celular tornou-se possível quando os níveis de O2 na atmosfera atingiram uma \nconcentração próxima à atual.","o evento 2 refere-se à formação da camada de ozônio.","o evento 3 dá início à utilização da água como matéria-prima para a produção de oxigênio."],
+    options: ["três bilhões de anos antes do presente não havia vida devido à escassez de oxigênio.","o evento 1 corresponde aos primórdios do surgimento da fotossíntese.","a respiração celular tornou-se possível quando os níveis de $1_{2}_{}$ na atmosfera atingiram uma \nconcentração próxima à atual.","o evento 2 refere-se à formação da camada de ozônio.","o evento 3 dá início à utilização da água como matéria-prima para a produção de oxigênio."],
     correctAnswer: 1,
     materia: "Biologia – Evolução",
     conteudo: "Biologia – Ecologia",
@@ -66,7 +66,7 @@ createQuestion({
       principal: "Sobre a respiração celular, é correto afirmar que",
       subItens: []
     },
-    options: ["a glicólise consiste em uma série de \nreações químicas na qual uma molécula \nde glicose resulta em duas moléculas de \nácido pirúvico ou piruvato.","a glicólise é uma etapa aeróbica da \nrespiração que ocorre no citosol e que, na \nausência de oxigênio, produz etanol.","o ciclo do ácido cítrico é a etapa da \nrespiração celular aeróbica que produz \nmaior quantidade de ATP.","o ciclo do ácido cítrico ocorre na \nmembrana interna da mitocôndria e tem \ncomo produto a liberação de CO2.","a fosforilação oxidativa ocorre na matriz \nmitocondrial, utilizando o oxigênio para a \nprodução de H2O e CO2."],
+    options: ["a glicólise consiste em uma série de \nreações químicas na qual uma molécula \nde glicose resulta em duas moléculas de \nácido pirúvico ou piruvato.","a glicólise é uma etapa aeróbica da \nrespiração que ocorre no citosol e que, na \nausência de oxigênio, produz etanol.","o ciclo do ácido cítrico é a etapa da \nrespiração celular aeróbica que produz \nmaior quantidade de ATP.","o ciclo do ácido cítrico ocorre na \nmembrana interna da mitocôndria e tem \ncomo produto a liberação de $1_{2}$.","a fosforilação oxidativa ocorre na matriz \nmitocondrial, utilizando o oxigênio para a \nprodução de $1_{2}O_{}$ e $1_{2}$."],
     correctAnswer: 0,
     materia: "Biologia – Bioquímica",
     conteudo: "Biologia – Metabolismo Energético",
@@ -78,7 +78,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "No bloco superior abaixo, são citados \nprocessos relacionados à síntese proteica; no \ninferior, seus eventos característicos.\nAssocie adequadamente o bloco inferior ao \nsuperior.\n1 - Transcrição\n2 - Tradução\n( ) A síntese de RNA, a partir do DNA, é \ncatalisada pela polimerase do RNA.\n( ) O RNAt que transporta o aminoácido \nmetionina emparelha-se com um códon \nAUG, presente na molécula de RNAm.\n( ) O sítio P é sempre ocupado pelo RNAt \nque carrega a cadeia polipeptídica em \nformação.\n( ) A região promotora é uma sequência de \nbases nitrogenadas do DNA que \ndetermina o local de encaixe da \npolimerase do RNA.\nA sequência correta de preenchimento dos \nparênteses, de cima para baixo, é",
+      principal: "No bloco superior abaixo, são citados \nprocessos relacionados à síntese proteica; no \ninferior, seus eventos característicos.\nAssocie adequadamente o bloco inferior ao \nsuperior.\$1_{1}$ - Transcrição\$1_{2}$ - Tradução\n( ) A síntese de RNA, a partir do DNA, é \ncatalisada pela polimerase do RNA.\n( ) O RNAt que transporta o aminoácido \nmetionina emparelha-se com um códon \nAUG, presente na molécula de RNAm.\n( ) O sítio P é sempre ocupado pelo RNAt \nque carrega a cadeia polipeptídica em \nformação.\n( ) A região promotora é uma sequência de \nbases nitrogenadas do DNA que \ndetermina o local de encaixe da \npolimerase do RNA.\nA sequência correta de preenchimento dos \nparênteses, de cima para baixo, é",
       subItens: []
     },
     options: ["1 – 1 – 2 – 2.","1 – 2 – 2 – 1.","1 – 2 – 2 – 2.","2 – 1 – 1 – 1.","2 – 1 – 1 – 2."],
@@ -213,7 +213,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A coluna da esquerda, abaixo, lista dois \ngrupos dos Artrópodos; a da direita, \ncaracterísticas que os distinguem. \nAssocie adequadamente a coluna da direita à \nda esquerda.\n1- Insetos\n2- Crustáceos\n( ) respiração branquial\n( ) desenvolvimento \ndireto e indireto\n( ) glândulas antenais\n( ) três pares de pernas\nA sequência correta de preenchimento dos \nparênteses, de cima para baixo, é",
+      principal: "A coluna da esquerda, abaixo, lista dois \ngrupos dos Artrópodos; a da direita, \ncaracterísticas que os distinguem. \nAssocie adequadamente a coluna da direita à \nda esquerda.\$1_{1}$- Insetos\$1_{2}$- Crustáceos\n( ) respiração branquial\n( ) desenvolvimento \ndireto e indireto\n( ) glândulas antenais\n( ) três pares de pernas\nA sequência correta de preenchimento dos \nparênteses, de cima para baixo, é",
       subItens: []
     },
     options: ["2 – 2 – 1 – 1.","2 – 1 – 2 – 1.","1 – 1 – 2 – 2.","1 – 2 – 1 – 2.","2 – 1 – 2 – 2."],
@@ -261,7 +261,7 @@ createQuestion({
       principal: "No milho, grãos púrpura são dominantes em \nrelação a amarelos, e grãos cheios são \ndominantes em relação a murchos. Do \ncruzamento entre duas plantas, foi obtida \numa prole com as seguintes proporções: 25%\nde grãos púrpura e cheios; 25% de grãos \namarelos e cheios; 25% de grãos púrpura e \nmurchos; 25% de grãos amarelos e murchos.\nSabendo que uma das plantas parentais era \ntotalmente homozigota, assinale a alternativa \ncorreta.",
       subItens: []
     },
-    options: ["Os dois genes citados não estão \nsegregando de forma independente.","A planta homozigota era dominante para \nas duas características.","Uma das plantas parentais era \nheterozigota para as duas características.","A prole seria mantida na proporção \n1:1:1:1, se as duas plantas parentais \nfossem duplo heterozigotas.","Os resultados obtidos são fruto de \nrecombinação genética."],
+    options: ["Os dois genes citados não estão \nsegregando de forma independente.","A planta homozigota era dominante para \nas duas características.","Uma das plantas parentais era \nheterozigota para as duas características.","A prole seria mantida na proporção \$1_{1}$:1:1:1, se as duas plantas parentais \nfossem duplo heterozigotas.","Os resultados obtidos são fruto de \nrecombinação genética."],
     correctAnswer: 2,
     materia: "Biologia – Genética",
     conteudo: "Biologia – Herança Diíbrida",
@@ -378,7 +378,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A produção de café descafeinado consiste em \nretirar a cafeína, sem alterar muito o sabor \noriginal do café. Existem diferentes processos \npara a descafeinação.\nAbaixo são apresentadas 2 situações sobre \num desses processos.\n1 - O processo consiste em utilizar um banho \nde solvente, como por exemplo o acetato \nde etila, que dissolve bem a cafeína e \ndissolve muito pouco os outros \ncomponentes do café.\n2 - O solvente utilizado em 1 é retirado \natravés de evaporação.\nAssinale a alternativa que indica as \npropriedades que fundamentam, \nrespectivamente, as situações 1 e 2.",
+      principal: "A produção de café descafeinado consiste em \nretirar a cafeína, sem alterar muito o sabor \noriginal do café. Existem diferentes processos \npara a descafeinação.\nAbaixo são apresentadas 2 situações sobre \num desses processos.\$1_{1}$ - O processo consiste em utilizar um banho \nde solvente, como por exemplo o acetato \nde etila, que dissolve bem a cafeína e \ndissolve muito pouco os outros \ncomponentes do café.\$1_{2}$ - O solvente utilizado em 1 é retirado \natravés de evaporação.\nAssinale a alternativa que indica as \npropriedades que fundamentam, \nrespectivamente, as situações 1 e 2.",
       subItens: []
     },
     options: ["Pressão osmótica, ponto de ebulição","Solubilidade, ponto de ebulição","Dissolução, solubilidade","Saturação, pressão osmótica","Ponto de ebulição, pressão osmótica"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "O dióxido de enxofre, em contato com o ar, \nforma trióxido de enxofre que, por sua vez, \nem contato com a água, forma ácido \nsulfúrico.\nNa coluna da esquerda, abaixo, estão listadas \n5 substâncias envolvidas nesse processo. Na \ncoluna da direita, características das \nmoléculas dessa substância.\n1 - SO2\n2 - SO3\n3 - H2SO4\n4 - H2O\n5 - O2\n( ) tetraédrica, polar\n( ) angular, polar\n( ) linear, apolar\n( ) trigonal, apolar\nA sequência correta de preenchimento dos \nparênteses, de cima para baixo, é",
+      principal: "O dióxido de enxofre, em contato com o ar, \nforma trióxido de enxofre que, por sua vez, \nem contato com a água, forma ácido \nsulfúrico.\nNa coluna da esquerda, abaixo, estão listadas \$1_{5}$ substâncias envolvidas nesse processo. Na \ncoluna da direita, características das \nmoléculas dessa substância.\$1_{1}$ - $1_{2}$\$1_{2}$ - $1_{3}$\$1_{3}$ - $1_{2}SO_{4}$\$1_{4}$ - $1_{2}O_{}$\$1_{5}$ - $1_{2}_{}$\n( ) tetraédrica, polar\n( ) angular, polar\n( ) linear, apolar\n( ) trigonal, apolar\nA sequência correta de preenchimento dos \nparênteses, de cima para baixo, é",
       subItens: []
     },
     options: ["1 – 4 – 3 – 2.","2 – 3 – 5 – 1.","2 – 3 – 4 – 5.","3 – 1 – 5 – 2.","3 – 4 – 2 – 1."],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Apreciadores de arte observaram que famosas \ntelas do pintor holandês Van Gogh estavam \nmudando de cor, com efeito mais \npronunciado nos tons roxos que passavam a\nazuis e nos vermelhos que estavam\ndesaparecendo. Químicos descobriram que o \nproblema ocorre com o Pb3O4 presente no \npigmento das tintas. Quando exposto à luz e \nao gás carbônico, uma série de reações \nconsecutivas transforma o pigmento em \noutros compostos de chumbo que são \nesbranquiçados, fazendo com que a tinta \noriginal perca seu tom característico.\nEntre os compostos presentes nesse \nprocesso, é possível encontrar\n1 - Pb3O4\n2 - PbO\n3 - CO2\n4 - Pb(OH)2\n5 - PbCO3\nAssinale a afirmação correta sobre essas\nsubstâncias.",
+      principal: "Apreciadores de arte observaram que famosas \ntelas do pintor holandês Van Gogh estavam \nmudando de cor, com efeito mais \npronunciado nos tons roxos que passavam a\nazuis e nos vermelhos que estavam\ndesaparecendo. Químicos descobriram que o \nproblema ocorre com o $1_{3}O_{4}$ presente no \npigmento das tintas. Quando exposto à luz e \nao gás carbônico, uma série de reações \nconsecutivas transforma o pigmento em \noutros compostos de chumbo que são \nesbranquiçados, fazendo com que a tinta \noriginal perca seu tom característico.\nEntre os compostos presentes nesse \nprocesso, é possível encontrar\$1_{1}$ - $1_{3}O_{4}$\$1_{2}$ - PbO\$1_{3}$ - $1_{2}$\$1_{4}$ - Pb(OH)2\$1_{5}$ - $1_{3}$\nAssinale a afirmação correta sobre essas\nsubstâncias.",
       subItens: []
     },
     options: ["As substâncias 3 e 5 são consideradas \nmoleculares.","As substâncias 1 e 3 são apolares com \nbaixos pontos de ebulição.","Apenas a 4 é considerada substância \niônica.","As substâncias 2 e 5 apresentam chumbo \nem diferentes estados de oxidação.","As substâncias 4 e 5 são praticamente \ninsolúveis em água."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "O carbonato de cálcio é um sal encontrado em grande quantidade na natureza.\nNa coluna da esquerda abaixo, são descritas 4 situações relacionadas ao carbonato de cálcio. Na \ncoluna da direita, reações que representam adequadamente cada situação.\nAssocie adequadamente a coluna da esquerda à da direita.\n1 - A decomposição térmica do calcário produz a \ndenominada cal viva.\n2 - A obtenção da cal extinta ocorre na reação entre\ncal viva e água.\n3 - A cal extinta é usada em caiação para proteger \nparedes da umidade, pois reage com o CO2 \nformando uma película insolúvel.\n4 - O carbonato de cálcio é praticamente insolúvel \nem água, embora se dissolva de forma apreciável \nem água que contém CO2 absorvido da atmosfera.\n( ) CaCO3 + H2O + CO2  Ca2+ + 2 HCO3-\n( ) Ca(OH)2 + CO2  CaCO3 + H2O\n( ) CaO + H2O  Ca(OH)2\nA sequência correta de preenchimento dos \nparênteses, de cima para baixo, é",
+      principal: "O carbonato de cálcio é um sal encontrado em grande quantidade na natureza.\nNa coluna da esquerda abaixo, são descritas 4 situações relacionadas ao carbonato de cálcio. Na \ncoluna da direita, reações que representam adequadamente cada situação.\nAssocie adequadamente a coluna da esquerda à da direita.\$1_{1}$ - A decomposição térmica do calcário produz a \ndenominada cal viva.\$1_{2}$ - A obtenção da cal extinta ocorre na reação entre\ncal viva e água.\$1_{3}$ - A cal extinta é usada em caiação para proteger \nparedes da umidade, pois reage com o $1_{2}$ \nformando uma película insolúvel.\$1_{4}$ - O carbonato de cálcio é praticamente insolúvel \nem água, embora se dissolva de forma apreciável \nem água que contém $1_{2}$ absorvido da atmosfera.\n( ) $1_{3}$ + $1_{2}O_{}$ + $1_{2}$  $1_{2}_{}$+ + 2 $1_{3}$-\n( ) Ca(OH)2 + $1_{2}$  $1_{3}$ + $1_{2}O_{}$\n( ) CaO + $1_{2}O_{}$  Ca(OH)2\nA sequência correta de preenchimento dos \nparênteses, de cima para baixo, é",
       subItens: []
     },
     options: ["1 – 2 – 3.","2 – 4 – 1.","3 – 4 – 2.","4 – 3 – 2.","2 – 1 – 4."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Em 2015, pesquisadores comprimiram o gás \nsulfeto de hidrogênio (H2S), em uma bigorna \nde diamantes até 1,6 milhão de vezes à\npressão atmosférica, o suficiente para que sua \nresistência à passagem da corrente elétrica \ndesaparecesse a -69,5 ºC. A experiência bateu\no recorde de \"supercondutor de alta \ntemperatura\" que era -110 ºC, obtido com \nmateriais cerâmicos complexos. \nAssinale a afirmação abaixo que justifica \ncorretamente o fato de o sulfeto de \nhidrogênio ser um gás na temperatura \nambiente e pressão atmosférica, e a água ser \nlíquida nas mesmas condições.",
+      principal: "Em 2015, pesquisadores comprimiram o gás \nsulfeto de hidrogênio ($1_{2}S_{}$), em uma bigorna \nde diamantes até 1,6 milhão de vezes à\npressão atmosférica, o suficiente para que sua \nresistência à passagem da corrente elétrica \ndesaparecesse a -69,5 ºC. A experiência bateu\no recorde de \"supercondutor de alta \ntemperatura\" que era -110 ºC, obtido com \nmateriais cerâmicos complexos. \nAssinale a afirmação abaixo que justifica \ncorretamente o fato de o sulfeto de \nhidrogênio ser um gás na temperatura \nambiente e pressão atmosférica, e a água ser \nlíquida nas mesmas condições.",
       subItens: []
     },
     options: ["O sulfeto de hidrogênio tem uma massa \nmolar maior que a da água.","O sulfeto de hidrogênio tem uma geometria \nmolecular linear, enquanto a água tem uma \ngeometria molecular angular.","O sulfeto de hidrogênio é mais ácido que \na água.","A ligação S-H é mais forte que a ligação \nO-H.","As ligações de hidrogênio \nintermoleculares são mais fortes com o \noxigênio do que com o enxofre."],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Uma das abordagens para reduzir o efeito \nestufa é a captura do CO2 e sua \ntransformação em produtos de interesse.\nAbaixo é mostrada a reação do CO2 com óxido \nde etileno, que leva à formação do carbonato \ncíclico.\nConsiderando que a emissão média de CO2 \npor km rodado para carros de passeio é de \n0,22 kg de CO2, a quantidade máxima desse\ncarbonato em quilogramas que poderia ser \nobtida a partir da emissão de CO2 de um carro \nque rodou 100 km em um dia é",
+      principal: "Uma das abordagens para reduzir o efeito \nestufa é a captura do $1_{2}$ e sua \ntransformação em produtos de interesse.\nAbaixo é mostrada a reação do $1_{2}$ com óxido \nde etileno, que leva à formação do carbonato \ncíclico.\nConsiderando que a emissão média de $1_{2}$ \npor km rodado para carros de passeio é de \$1_{0}$,22 kg de $1_{2}$, a quantidade máxima desse\ncarbonato em quilogramas que poderia ser \nobtida a partir da emissão de $1_{2}$ de um carro \nque rodou 100 km em um dia é",
       subItens: []
     },
     options: ["11.","22.","44.","88.","176."],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A combustão completa de um hidrocarboneto \nlevou à formação do mesmo número de moles \nde CO2 e H2O. Quando esse composto foi \ncolocado em presença de H2 e de um \ncatalisador, observou-se o consumo de um \nmol de H2 por mol do composto orgânico.\nEm relação a esse composto, é correto \nafirmar que se trata de um hidrocarboneto",
+      principal: "A combustão completa de um hidrocarboneto \nlevou à formação do mesmo número de moles \nde $1_{2}$ e $1_{2}O_{}$. Quando esse composto foi \ncolocado em presença de $1_{2}_{}$ e de um \ncatalisador, observou-se o consumo de um \nmol de $1_{2}_{}$ por mol do composto orgânico.\nEm relação a esse composto, é correto \nafirmar que se trata de um hidrocarboneto",
       subItens: []
     },
     options: ["aromático.","alifático acíclico insaturado.","alifático acíclico saturado.","alifático cíclico saturado.","alifático cíclico insaturado."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Na gastronomia, empregam-se diversos \nconhecimentos provindos de diferentes áreas \nda química. Considere os conhecimentos \nquímicos listados no bloco superior abaixo e \nos processos relacionados à produção e \nconservação de alimentos, listados no bloco \ninferior. \nAssocie adequadamente o bloco inferior ao \nsuperior.\n1 - Propriedades coligativas\n2 - Coloides \n3 - Emulsões\n4 - Reversibilidade de reações\n( ) Produção de charque\n( ) Preparo de gelatina\n( ) Preparo de maionese\nA sequência correta de preenchimento dos \nparênteses, de cima para baixo, é",
+      principal: "Na gastronomia, empregam-se diversos \nconhecimentos provindos de diferentes áreas \nda química. Considere os conhecimentos \nquímicos listados no bloco superior abaixo e \nos processos relacionados à produção e \nconservação de alimentos, listados no bloco \ninferior. \nAssocie adequadamente o bloco inferior ao \nsuperior.\$1_{1}$ - Propriedades coligativas\$1_{2}$ - Coloides \$1_{3}$ - Emulsões\$1_{4}$ - Reversibilidade de reações\n( ) Produção de charque\n( ) Preparo de gelatina\n( ) Preparo de maionese\nA sequência correta de preenchimento dos \nparênteses, de cima para baixo, é",
       subItens: []
     },
     options: ["1, 2 e 3.","1, 2 e 4.","2, 3 e 4.","2, 1 e 3.","3, 4 e 2."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Na reação \nNO2 (g) + CO (g)  CO2 (g) + NO (g)\na lei cinética é de segunda ordem em relação \nao dióxido de nitrogênio e de ordem zero em \nrelação ao monóxido de carbono. Quando,\nsimultaneamente, dobrar-se a concentração \nde dióxido de nitrogênio e reduzir-se a \nconcentração de monóxido de carbono pela \nmetade, a velocidade da reação",
+      principal: "Na reação \$1_{2}$ (g) + CO (g)  $1_{2}$ (g) + NO (g)\na lei cinética é de segunda ordem em relação \nao dióxido de nitrogênio e de ordem zero em \nrelação ao monóxido de carbono. Quando,\nsimultaneamente, dobrar-se a concentração \nde dióxido de nitrogênio e reduzir-se a \nconcentração de monóxido de carbono pela \nmetade, a velocidade da reação",
       subItens: []
     },
     options: ["será reduzida a um quarto do valor \nanterior.","será reduzida à metade do valor anterior.","não se alterará.","duplicará.","aumentará por um fator de 4 vezes."],
@@ -696,7 +696,7 @@ createQuestion({
       principal: "O equilíbrio de solubilidade do cloreto de \nprata é expresso pela reação\nAgC (s) ⇌ Ag+ (aq) + C– (aq), cuja \nconstante de equilíbrio tem o valor 1,710–10.\nSobre esse equilíbrio, é correto afirmar que",
       subItens: []
     },
-    options: ["uma solução em que [Ag+] = [C–] =\n1,0  10–5 mol L–1 será uma solução \nsupersaturada.","a adição de cloreto de prata sólido a uma \nsolução saturada de AgC irá aumentar a \nconcentração de cátions prata.","a adição de cloreto de sódio a uma \nsolução saturada de AgC irá diminuir a \nconcentração de cátions prata.","a adição de nitrato de prata a uma \nsolução supersaturada de AgC irá \ndiminuir a quantidade de AgC\nprecipitado.","a mistura de um dado volume de uma \nsolução em que [Ag+] = 1,0 10–6 mol L–1,\ncom um volume igual de uma solução em \nque [C–] = 1,0 10–6 mol L–1, irá produzir \nprecipitação de AgC."],
+    options: ["uma solução em que [Ag+] = [C–] =\$1_{1}$,0  10–5 mol L–1 será uma solução \nsupersaturada.","a adição de cloreto de prata sólido a uma \nsolução saturada de AgC irá aumentar a \nconcentração de cátions prata.","a adição de cloreto de sódio a uma \nsolução saturada de AgC irá diminuir a \nconcentração de cátions prata.","a adição de nitrato de prata a uma \nsolução supersaturada de AgC irá \ndiminuir a quantidade de AgC\nprecipitado.","a mistura de um dado volume de uma \nsolução em que [Ag+] = 1,0 10–6 mol L–1,\ncom um volume igual de uma solução em \nque [C–] = 1,0 10–6 mol L–1, irá produzir \nprecipitação de AgC."],
     correctAnswer: 2,
     materia: "Química – Equilíbrio Químico",
     conteudo: "Química – Solubilidade",
@@ -711,7 +711,7 @@ createQuestion({
       principal: "O quadro abaixo relaciona algumas semirreações e seus respectivos potenciais padrão de redução, \nem solução aquosa.\nA partir desses dados, é correto afirmar que",
       subItens: []
     },
-    options: ["uma solução aquosa de hipoclorito poderá oxidar os íons Mn2+.","uma solução aquosa de H2O2 é um forte agente redutor.","o ozônio tem uma forte tendência a ceder elétrons em solução aquosa.","a adição de H2O2 a uma solução aquosa, contendo oxigênio dissolvido, promove a formação de \nozônio gasoso.","o permanganato, entre as substâncias relacionadas no quadro, é o mais poderoso agente \noxidante."],
+    options: ["uma solução aquosa de hipoclorito poderá oxidar os íons $1_{2}_{}$+.","uma solução aquosa de $1_{2}O_{2}$ é um forte agente redutor.","o ozônio tem uma forte tendência a ceder elétrons em solução aquosa.","a adição de $1_{2}O_{2}$ a uma solução aquosa, contendo oxigênio dissolvido, promove a formação de \nozônio gasoso.","o permanganato, entre as substâncias relacionadas no quadro, é o mais poderoso agente \noxidante."],
     correctAnswer: 0,
     materia: "Química – Eletroquímica",
     conteudo: "Química – Potenciais de Redução",
@@ -768,7 +768,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A coluna da esquerda abaixo apresenta os movimentos de rotação e translação, responsáveis por \ndiversos fenômenos; a da direita, alguns desses fenômenos.\nAssocie adequadamente a coluna da direita à da esquerda.\n1- Rotação\n2- Translação\n( ) Afélio e Periélio\n( ) Desvios dos ventos\n( ) Movimento aparente do Sol\n( ) Estações do ano\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      principal: "A coluna da esquerda abaixo apresenta os movimentos de rotação e translação, responsáveis por \ndiversos fenômenos; a da direita, alguns desses fenômenos.\nAssocie adequadamente a coluna da direita à da esquerda.\$1_{1}$- Rotação\$1_{2}$- Translação\n( ) Afélio e Periélio\n( ) Desvios dos ventos\n( ) Movimento aparente do Sol\n( ) Estações do ano\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
       subItens: []
     },
     options: ["2 – 1 – 1 – 2.","1 – 2 – 1 – 2.","1 – 2 – 2 – 1.","2 – 2 – 1 – 1.","1 – 1 – 2 – 2."],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Observe a figura abaixo.\nFonte:<http://www.geografiaparatodos.com.br/capitulo_2_a_localizacao_no_espaco_e_os_sistemas_de_info\nrmacoes_geograficas_files/image046.gif>. Acesso em: 26 ago. 2015.\nConsidere as afirmações sobre a posição geográfica de Natal (Brasil) e Murmansk (Rússia) e suas \nmédias anuais de temperatura.\nI - Murmansk localiza-se em altas latitudes (zona glacial), onde os raios solares atingem a \nsuperfície de forma muito inclinada, registrando baixas temperaturas ao longo do ano.\nII - Natal localiza-se na zona temperada, onde os raios solares atingem a superfície verticalmente, \nelevando as temperaturas.\nIII- A curvatura da superfície da Terra e a inclinação do eixo de rotação em relação aos raios solares \nsão fatores que, combinados, explicam a diferença nas médias anuais de temperatura entre \nNatal e Murmansk.\nQuais estão corretas?",
+      principal: "Observe a figura abaixo.\nFonte:<http://www.geografiaparatodos.com.br/capitulo_2_a_localizacao_no_espaco_e_os_sistemas_de_info\nrmacoes_geograficas_files/$1_{046}$.gif>. Acesso em: 26 ago. 2015.\nConsidere as afirmações sobre a posição geográfica de Natal (Brasil) e Murmansk (Rússia) e suas \nmédias anuais de temperatura.\nI - Murmansk localiza-se em altas latitudes (zona glacial), onde os raios solares atingem a \nsuperfície de forma muito inclinada, registrando baixas temperaturas ao longo do ano.\nII - Natal localiza-se na zona temperada, onde os raios solares atingem a superfície verticalmente, \nelevando as temperaturas.\nIII- A curvatura da superfície da Terra e a inclinação do eixo de rotação em relação aos raios solares \nsão fatores que, combinados, explicam a diferença nas médias anuais de temperatura entre \nNatal e Murmansk.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas I e III.","I, II e III."],
@@ -828,10 +828,10 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Observe o gráfico abaixo.\nFonte: MARTINELLI, M. Gráficos e mapas: construa-os \nvocê mesmo. São Paulo: Moderna,\n1998. p. 75.\nAssinale a alternativa que indica corretamente \no tipo climático representado e suas \ncaracterísticas.",
+      principal: "Observe o gráfico abaixo.\nFonte: MARTINELLI, M. Gráficos e mapas: construa-os \nvocê mesmo. São Paulo: Moderna,\$1_{1998}$. p. 75.\nAssinale a alternativa que indica corretamente \no tipo climático representado e suas \ncaracterísticas.",
       subItens: []
     },
-    options: ["Clima temperado, com temperaturas \nacima de 30 ºC no verão e abaixo de 10 ºC \nno inverno, com chuvas regulares durante \no ano.","Clima semiárido, com chuvas abaixo de \n20 mm, durante todo o ano.","Clima tropical, com verão chuvoso e \ntemperaturas acima de 20 ºC, inverno \nseco com temperaturas mais amenas.","Clima equatorial, com temperaturas \nelevadas, durante todo o ano, e \nprecipitações regulares.","Clima subtropical com inverno chuvoso e \ntemperaturas amenas, verão seco com \ntemperaturas acima de 20 ºC."],
+    options: ["Clima temperado, com temperaturas \nacima de 30 ºC no verão e abaixo de 10 ºC \nno inverno, com chuvas regulares durante \no ano.","Clima semiárido, com chuvas abaixo de \$1_{20}$ mm, durante todo o ano.","Clima tropical, com verão chuvoso e \ntemperaturas acima de 20 ºC, inverno \nseco com temperaturas mais amenas.","Clima equatorial, com temperaturas \nelevadas, durante todo o ano, e \nprecipitações regulares.","Clima subtropical com inverno chuvoso e \ntemperaturas amenas, verão seco com \ntemperaturas acima de 20 ºC."],
     correctAnswer: 2,
     materia: "Geografia – Climatologia",
     conteudo: "Geografia – Tipos Climáticos",
@@ -843,7 +843,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Observe o mapa abaixo, com representação em curvas de nível.\nFonte: <https://geographicae.files.wordpress.com/2007/06/\ntopo1.jpg?w=536&h=441>. Acesso em: 26 ago. 2015.\nConsidere as afirmações sobre o relevo em que estão localizados os indivíduos A, B e C.\nI - O indivíduo A está sobre um relevo de cuesta com o front voltado para sudoeste.\nII - O indivíduo B está sobre um ponto mais íngreme da vertente, se comparado ao indivíduo C.\nIII- As formas de relevo assemelham-se quanto à altitude, porém diferenciam-se quanto à simetria. \nQuais estão corretas?",
+      principal: "Observe o mapa abaixo, com representação em curvas de nível.\nFonte: <https://geographicae.files.wordpress.com/2007/06/\$1_{1}$.jpg?w=536&h=441>. Acesso em: 26 ago. 2015.\nConsidere as afirmações sobre o relevo em que estão localizados os indivíduos A, B e C.\nI - O indivíduo A está sobre um relevo de cuesta com o front voltado para sudoeste.\nII - O indivíduo B está sobre um ponto mais íngreme da vertente, se comparado ao indivíduo C.\nIII- As formas de relevo assemelham-se quanto à altitude, porém diferenciam-se quanto à simetria. \nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas II e III.","I, II e III."],
@@ -948,7 +948,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Observe o mapa abaixo.\nFonte: <http://atlasescolar.ibge.gov.br/images/atlas/mapas_mundo/mundo_mulheres_\neconomicamente_ativas.pdf>. Acesso em: 11 set. 2015.\nConsidere as informações abaixo, contidas no mapa, sobre Mulheres Economicamente Ativas em \n2010 no mundo.\nI - Os países mais ricos têm, proporcionalmente, maior quantidade de mulheres que participam do \nmercado de trabalho.\nII - O mapa mostra que a participação da mulher nas atividades econômicas está presente na maior \nparte dos países.\nIII- Os países considerados menos desenvolvidos possuem a maior participação relativa \ndas mulheres na população economicamente ativa.\nQuais estão corretas?",
+      principal: "Observe o mapa abaixo.\nFonte: <http://atlasescolar.ibge.gov.br/images/atlas/mapas_mundo/mundo_mulheres_\neconomicamente_ativas.pdf>. Acesso em: 11 set. 2015.\nConsidere as informações abaixo, contidas no mapa, sobre Mulheres Economicamente Ativas em \$1_{2010}$ no mundo.\nI - Os países mais ricos têm, proporcionalmente, maior quantidade de mulheres que participam do \nmercado de trabalho.\nII - O mapa mostra que a participação da mulher nas atividades econômicas está presente na maior \nparte dos países.\nIII- Os países considerados menos desenvolvidos possuem a maior participação relativa \ndas mulheres na população economicamente ativa.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas I e III.","Apenas II e III.","I, II e III."],
@@ -1098,7 +1098,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Leia o segmento abaixo.\nApós oscilar entre leves subidas e descidas, o \ndólar fechou em alta, o que renova o valor \nmáximo desde 2002 nesta sexta-feira (11 de \nsetembro), aproximando-se mais cedo dos \nR$ 3,90.\nFonte:.<http://g1.globo.com/economia/mercados\n/noticia/2015/09/apos-leves-variacoes-dolar\nfecha-em-alta-e-renova-maxima-dede-2002.html>.\nAcesso em: 14 set. 2015.\nConsidere as afirmações sobre as \nconsequências da alta do valor do dólar na \neconomia brasileira.\nI - O turismo nacional pode ser impulsionado \npela vinda de turistas estrangeiros, \natraídos pelo real mais baixo, bem como \npelos turistas brasileiros que trocam os \nroteiros internacionais pelos nacionais.\nII - A indústria que importa matéria-prima em \ndólar tem custo de produção elevado, o \nque aumenta os preços dos produtos para \nnão haver perdas, contribuindo para \npressionar a inflação.\nIII- A indústria que gasta em reais para \nproduzir e vende em dólares beneficia-se \ncom o aumento da moeda, pois os preços \ndos produtos ficam mais competitivos no \nexterior.\nQuais estão corretas?",
+      principal: "Leia o segmento abaixo.\nApós oscilar entre leves subidas e descidas, o \ndólar fechou em alta, o que renova o valor \nmáximo desde 2002 nesta sexta-feira (11 de \nsetembro), aproximando-se mais cedo dos \nR$ 3,90.\nFonte:.<http://$1_{1}$.globo.com/economia/mercados\n/noticia/2015/09/apos-leves-variacoes-dolar\nfecha-em-alta-e-renova-maxima-dede-2002.html>.\nAcesso em: 14 set. 2015.\nConsidere as afirmações sobre as \nconsequências da alta do valor do dólar na \neconomia brasileira.\nI - O turismo nacional pode ser impulsionado \npela vinda de turistas estrangeiros, \natraídos pelo real mais baixo, bem como \npelos turistas brasileiros que trocam os \nroteiros internacionais pelos nacionais.\nII - A indústria que importa matéria-prima em \ndólar tem custo de produção elevado, o \nque aumenta os preços dos produtos para \nnão haver perdas, contribuindo para \npressionar a inflação.\nIII- A indústria que gasta em reais para \nproduzir e vende em dólares beneficia-se \ncom o aumento da moeda, pois os preços \ndos produtos ficam mais competitivos no \nexterior.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas I e II.","I, II e III."],

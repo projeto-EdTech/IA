@@ -306,7 +306,7 @@ createQuestion({
       principal: "Identifique as alternativas que trazem exemplos de um ácido, uma base, um sal e um óxido, respectivamente, assinalando o que for correto.",
       subItens: []
     },
-    options: ["HCl, NaOH, NaCl e CaCO3.","H2SO4, Ca(OH)2, NH4NO3 e Na2O.","HBr, KOH, CaSO4 e Cr2O3.","H2CO3, NH3, AlCl3 e Na2CO3."],
+    options: ["HCl, NaOH, NaCl e $1_{3}$.","$1_{2}SO_{4}$, Ca(OH)2, NH4NO3 e $1_{2}O_{}$.","HBr, KOH, $1_{4}$ e $1_{2}O_{3}$.","$1_{2}CO_{3}$, $1_{3}$, $1_{3}$ e $1_{2}CO_{3}$."],
     correctAnswer: null,
     materia: "Química – Funções Inorgânicas",
     conteudo: "",
@@ -321,7 +321,7 @@ createQuestion({
       principal: "Com relação às alternativas abaixo, assinale o que for correto.",
       subItens: []
     },
-    options: ["O HClO4 é o ácido perclórico.","Ο H3PO3 é o ácido fosfórico.","O H3BO3 é o ácido bórico.","O H2CO3 é o ácido carbônico."],
+    options: ["O $1_{4}$ é o ácido perclórico.","Ο $1_{3}PO_{3}$ é o ácido fosfórico.","O $1_{3}BO_{3}$ é o ácido bórico.","O $1_{2}CO_{3}$ é o ácido carbônico."],
     correctAnswer: null,
     materia: "Química – Nomenclatura de Ácidos",
     conteudo: "",
@@ -363,10 +363,10 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "O gás SO3 é um dos responsáveis pela chuva ácida, pois reage com a água da chuva formando ácido sulfúrico, H2SO4. O SO3 é produzido a partir da reação do SO2, liberado pela queima dos combustíveis fósseis, com o oxigênio do ar. A equação balanceada para essa reação está representada abaixo:\n\n2 SO2(g) + O2 (g) → 2 SO3(g)\n\nDados: O(Z=8); H(Z=1); S(Z=16)\n\nCom relação às moléculas envolvidas na chuva ácida, assinale o que for correto.",
+      principal: "O gás $1_{3}$ é um dos responsáveis pela chuva ácida, pois reage com a água da chuva formando ácido sulfúrico, $1_{2}SO_{4}$. O $1_{3}$ é produzido a partir da reação do $1_{2}$, liberado pela queima dos combustíveis fósseis, com o oxigênio do ar. A equação balanceada para essa reação está representada abaixo:\n\$1_{2}$ $1_{2}$(g) + $1_{2}_{}$ (g) → 2 $1_{3}$(g)\n\nDados: O(Z=8); H(Z=1); S(Z=16)\n\nCom relação às moléculas envolvidas na chuva ácida, assinale o que for correto.",
       subItens: []
     },
-    options: ["A molécula de SO2 é polar, enquanto o O2 é apolar.","A molécula de SO2 apresenta geometria molecular angular e a de SO3 apresenta geometria molecular trigonal plana.","As ligações entre o átomo de enxofre e os átomos de O nas moléculas de SO2, SO3 e H2SO4 são cova-lentes.","A solução formada a partir da dissolução do H2SO4 em água conduz corrente elétrica."],
+    options: ["A molécula de $1_{2}$ é polar, enquanto o $1_{2}_{}$ é apolar.","A molécula de $1_{2}$ apresenta geometria molecular angular e a de $1_{3}$ apresenta geometria molecular trigonal plana.","As ligações entre o átomo de enxofre e os átomos de O nas moléculas de $1_{2}$, $1_{3}$ e $1_{2}SO_{4}$ são cova-lentes.","A solução formada a partir da dissolução do $1_{2}SO_{4}$ em água conduz corrente elétrica."],
     correctAnswer: null,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Geometria Molecular",
@@ -408,10 +408,10 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Considerando que a e b são as soluções do sistema abaixo, assinale o que for correto.\n\n3^(a+b) = 1/243\nlog3 a - log3 b = 1",
+      principal: "Considerando que a e b são as soluções do sistema abaixo, assinale o que for correto.\n\$1_{3}$^(a+b) = 1/243\$1_{3}$ a - $1_{3}$ b = 1",
       subItens: []
     },
-    options: ["A abscissa do vértice da função f(x) = ax2 + bx + 5 é um número racional.","A função g(x) = (3 - b)x é crescente.","A função m(x) = log_1(x + 2) é crescente.","O domínio da função h(x) = sqrt((x-a)/(x-b)) pertence ao intervalo [1,3]."],
+    options: ["A abscissa do vértice da função f(x) = $1_{2}$ + bx + 5 é um número racional.","A função g(x) = (3 - b)x é crescente.","A função m(x) = log_1(x + 2) é crescente.","O domínio da função h(x) = sqrt((x-a)/(x-b)) pertence ao intervalo [1,3]."],
     correctAnswer: null,
     materia: "Matemática – Equações Exponenciais",
     conteudo: "Matemática – Logaritmos",
@@ -426,7 +426,7 @@ createQuestion({
       principal: "Sabendo que a medida da área de um retângulo é 48 m² e que a medida do comprimento da base b é 2 m maior do que a medida da altura h, assinale o que for correto.",
       subItens: []
     },
-    options: ["A soma dos quatro primeiros termos de uma Progressão Aritmética de a1 = h e a4 = b + 4 é igual a 72.","Se h e b correspondem, respectivamente, à razão e ao primeiro termo de uma Progressão Geométrica, então o terceiro termo desta PG é um número divi-sível por 9.","Se h e b correspondem, respectivamente, ao pri-meiro termo e à razão de uma Progressão Aritmé-tica, então a7 = 54.","A razão de uma Progressão Geométrica de a₁ = 2 e a3 = bé 4."],
+    options: ["A soma dos quatro primeiros termos de uma Progressão Aritmética de $1_{1}$ = h e $1_{4}$ = b + 4 é igual a 72.","Se h e b correspondem, respectivamente, à razão e ao primeiro termo de uma Progressão Geométrica, então o terceiro termo desta PG é um número divi-sível por 9.","Se h e b correspondem, respectivamente, ao pri-meiro termo e à razão de uma Progressão Aritmé-tica, então $1_{7}$ = 54.","A razão de uma Progressão Geométrica de a₁ = 2 e $1_{3}$ = bé 4."],
     correctAnswer: null,
     materia: "Matemática – Geometria Plana (Retângulos)",
     conteudo: "Matemática – Progressão Aritmética (PA)",

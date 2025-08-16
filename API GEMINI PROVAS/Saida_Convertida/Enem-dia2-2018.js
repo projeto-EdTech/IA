@@ -138,7 +138,7 @@ createQuestion({
     university: "ENEM",
     year: 2018,
     text: {
-      principal: "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição.\nA ausência dessa proteína poderá favorecer a",
+      principal: "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína $1_{53}$ é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição.\nA ausência dessa proteína poderá favorecer a",
       subItens: []
     },
     options: ["redução da síntese de DNA, acelerando o ciclo celular.","saída imediata do ciclo celular, antecipando a proteção do DNA.","ativação de outras proteínas reguladoras, induzindo a apoptose.","manutenção da estabilidade genética, favorecendo a longevidade.","proliferação celular exagerada, resultando na formação de um tumor."],
@@ -543,10 +543,10 @@ createQuestion({
     university: "ENEM",
     year: 2018,
     text: {
-      principal: "Considere, em um fragmento ambiental, uma árvore matriz com frutos (M) e outras cinco que produziram flores e são apenas doadoras de pólen (DP1, DP2, DP3, DP4 e DP5). Foi excluída a capacidade de autopolinização das árvores. Os genótipos da matriz, da semente (S1) e das prováveis fontes de pólen foram obtidos pela análise de dois locos (loco A e loco B) de marcadores de DNA, conforme a figura.\n\n[IMAGEM: Dois esquemas de gel de eletroforese (Esquema do Gel 1 para loco A e Esquema do Gel 2 para loco B) mostrando bandas de DNA para a árvore Matriz (M), Semente (S1) e Doadoras de Pólen (DP1 a DP5).] \n\nA progênie S1 recebeu o pólen de qual doadora?",
+      principal: "Considere, em um fragmento ambiental, uma árvore matriz com frutos (M) e outras cinco que produziram flores e são apenas doadoras de pólen ($1_{1}$, $1_{2}$, $1_{3}$, $1_{4}$ e $1_{5}$). Foi excluída a capacidade de autopolinização das árvores. Os genótipos da matriz, da semente ($1_{1}_{}$) e das prováveis fontes de pólen foram obtidos pela análise de dois locos (loco A e loco B) de marcadores de DNA, conforme a figura.\n\n[IMAGEM: Dois esquemas de gel de eletroforese (Esquema do Gel 1 para loco A e Esquema do Gel 2 para loco B) mostrando bandas de DNA para a árvore Matriz (M), Semente ($1_{1}_{}$) e Doadoras de Pólen ($1_{1}$ a $1_{5}$).] \n\nA progênie $1_{1}_{}$ recebeu o pólen de qual doadora?",
       subItens: []
     },
-    options: ["DP1","DP2","DP3","DP4","DP5"],
+    options: ["$1_{1}$","$1_{2}$","$1_{3}$","$1_{4}$","$1_{5}$"],
     correctAnswer: 4,
     materia: "Biologia – Genética",
     conteudo: "Biologia – Marcadores Genéticos",
@@ -1278,10 +1278,10 @@ createQuestion({
     university: "ENEM",
     year: 2018,
     text: {
-      principal: "O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas.\nO atleta 10 irá realizar o último salto da final. Ele observa no Quadro 1, antes de executar o salto, o recorte do quadro parcial de notas com a sua classificação e a dos três primeiros lugares até aquele momento.\n\n[TABELA: Quadro 1 - Classificação de Saltos]\n| Classificação | Atleta | 6º Salto | Total |\n|---|---|---|---|\n| 1º | 3 | 135,0 | 829,0 |\n| 2º | 4 | 140,0 | 825,2 |\n| 3º | 8 | 140,4 | 824,2 |\n| 6º | 10 | --- | 687,5 |\n\nEle precisa decidir com seu treinador qual salto deverá realizar. Os dados dos possíveis tipos de salto estão no Quadro 2.\n\n[TABELA: Quadro 2 - Dados de Tipos de Salto]\n| Tipo de salto | Nota de partida | Estimativa da soma das notas dos juízes | Probabilidade de obter a nota |\n|---|---|---|---|\n| T1 | 2,2 | 57 | 89,76% |\n| T2 | 2,4 | 58 | 93,74% |\n| T3 | 2,6 | 55 | 91,88% |\n| T4 | 2,8 | 50 | 95,38% |\n| T5 | 3,0 | 53 | 87,34% |\n\nO atleta optará pelo salto com a maior probabilidade de obter a nota estimada, de maneira que lhe permita alcançar o primeiro lugar.\nConsiderando essas condições, o salto que o atleta deverá escolher é o de tipo",
+      principal: "O salto ornamental é um esporte em que cada competidor realiza seis saltos. A nota em cada salto é calculada pela soma das notas dos juízes, multiplicada pela nota de partida (o grau de dificuldade de cada salto). Fica em primeiro lugar o atleta que obtiver a maior soma das seis notas recebidas.\nO atleta 10 irá realizar o último salto da final. Ele observa no Quadro 1, antes de executar o salto, o recorte do quadro parcial de notas com a sua classificação e a dos três primeiros lugares até aquele momento.\n\n[TABELA: Quadro 1 - Classificação de Saltos]\n| Classificação | Atleta | 6º Salto | Total |\n|---|---|---|---|\n| 1º | 3 | 135,0 | 829,0 |\n| 2º | 4 | 140,0 | 825,2 |\n| 3º | 8 | 140,4 | 824,2 |\n| 6º | 10 | --- | 687,5 |\n\nEle precisa decidir com seu treinador qual salto deverá realizar. Os dados dos possíveis tipos de salto estão no Quadro 2.\n\n[TABELA: Quadro 2 - Dados de Tipos de Salto]\n| Tipo de salto | Nota de partida | Estimativa da soma das notas dos juízes | Probabilidade de obter a nota |\n|---|---|---|---|\n| $1_{1}_{}$ | 2,2 | 57 | 89,76% |\n| $1_{2}_{}$ | 2,4 | 58 | 93,74% |\n| $1_{3}_{}$ | 2,6 | 55 | 91,88% |\n| $1_{4}_{}$ | 2,8 | 50 | 95,38% |\n| $1_{5}_{}$ | 3,0 | 53 | 87,34% |\n\nO atleta optará pelo salto com a maior probabilidade de obter a nota estimada, de maneira que lhe permita alcançar o primeiro lugar.\nConsiderando essas condições, o salto que o atleta deverá escolher é o de tipo",
       subItens: []
     },
-    options: ["T1.","T2.","T3.","T4.","T5."],
+    options: ["$1_{1}_{}$.","$1_{2}_{}$.","$1_{3}_{}$.","$1_{4}_{}$.","$1_{5}_{}$."],
     correctAnswer: 2,
     materia: "Matemática – Probabilidade",
     conteudo: "Matemática – Otimização",
@@ -1293,7 +1293,7 @@ createQuestion({
     university: "ENEM",
     year: 2018,
     text: {
-      principal: "Devido ao não cumprimento das metas definidas para a campanha de vacinação contra a gripe comum e o vírus H1N1 em um ano, o Ministério da Saúde anunciou a prorrogação da campanha por mais uma semana. A tabela apresenta as quantidades de pessoas vacinadas dentre os cinco grupos de risco até a data de início da prorrogação da campanha.\n\n[TABELA: Balanço parcial nacional da vacinação contra a gripe]\n| Grupo de risco | População (milhão) | População já vacinada (milhão) | (%) |\n|---|---|---|---|\n| Crianças | 4,5 | 0,9 | 20 |\n| Profissionais de saúde | 2,0 | 1,0 | 50 |\n| Gestantes | 2,5 | 1,5 | 60 |\n| Indígenas | 0,5 | 0,4 | 80 |\n| Idosos | 20,5 | 8,2 | 40 |\n\nQual é a porcentagem do total de pessoas desses grupos de risco já vacinadas?",
+      principal: "Devido ao não cumprimento das metas definidas para a campanha de vacinação contra a gripe comum e o vírus $1_{1}N_{1}$ em um ano, o Ministério da Saúde anunciou a prorrogação da campanha por mais uma semana. A tabela apresenta as quantidades de pessoas vacinadas dentre os cinco grupos de risco até a data de início da prorrogação da campanha.\n\n[TABELA: Balanço parcial nacional da vacinação contra a gripe]\n| Grupo de risco | População (milhão) | População já vacinada (milhão) | (%) |\n|---|---|---|---|\n| Crianças | 4,5 | 0,9 | 20 |\n| Profissionais de saúde | 2,0 | 1,0 | 50 |\n| Gestantes | 2,5 | 1,5 | 60 |\n| Indígenas | 0,5 | 0,4 | 80 |\n| Idosos | 20,5 | 8,2 | 40 |\n\nQual é a porcentagem do total de pessoas desses grupos de risco já vacinadas?",
       subItens: []
     },
     options: ["12","18","30","40","50"],

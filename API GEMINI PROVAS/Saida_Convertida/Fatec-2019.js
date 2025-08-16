@@ -78,10 +78,10 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2019,
     text: {
-      principal: "Leia o texto para responder às questões de números 20 e 21. Um incêndio atingiu uma fábrica de resíduos industriais em Itapevi, na Grande São Paulo. O local armazenava três toneladas de fosfeto de alumínio (AlP). De acordo com a Companhia Ambiental do Estado de São Paulo (Cetesb), o fosfeto de alumínio reagiu com a água usada para apagar as chamas, produzindo hidróxido de alumínio e fosfina (PH3). A fosfina é um gás tóxico, incolor, e não reage com a água, porém reage rapidamente com o oxigênio liberando calor e produzindo pentóxido de difosfóro (P2O5). Segundo os médicos, a inalação do P2O5 pode causar queimadura tanto na pele quanto nas vias respiratórias devido à formação de ácido fosfórico. <https://tinyurl.com/yafzufbo> Acesso em: 11.10.18. Adaptado. A reação química da produção da fosfina pode ser representada pela equação AlP (s) + 3 H2O (l) → Al(OH)3 (s) + PH3 (g) Considerando que toda a massa de fosfeto de alumínio reagiu com a água e que o rendimento da reação é 100%, o volume aproximado de fosfina produzido no local, em litros, é Dados: Volume molar dos gases nas condições descritas: 30 L/mol Massas molares em g/mol: Al = 27, P = 31",
+      principal: "Leia o texto para responder às questões de números 20 e 21. Um incêndio atingiu uma fábrica de resíduos industriais em Itapevi, na Grande São Paulo. O local armazenava três toneladas de fosfeto de alumínio (AlP). De acordo com a Companhia Ambiental do Estado de São Paulo (Cetesb), o fosfeto de alumínio reagiu com a água usada para apagar as chamas, produzindo hidróxido de alumínio e fosfina ($1_{3}$). A fosfina é um gás tóxico, incolor, e não reage com a água, porém reage rapidamente com o oxigênio liberando calor e produzindo pentóxido de difosfóro ($1_{2}O_{5}$). Segundo os médicos, a inalação do $1_{2}O_{5}$ pode causar queimadura tanto na pele quanto nas vias respiratórias devido à formação de ácido fosfórico. <https://tinyurl.com/yafzufbo> Acesso em: 11.10.18. Adaptado. A reação química da produção da fosfina pode ser representada pela equação AlP (s) + 3 $1_{2}O_{}$ (l) → Al(OH)3 (s) + $1_{3}$ (g) Considerando que toda a massa de fosfeto de alumínio reagiu com a água e que o rendimento da reação é 100%, o volume aproximado de fosfina produzido no local, em litros, é Dados: Volume molar dos gases nas condições descritas: 30 L/mol Massas molares em g/mol: Al = 27, P = 31",
       subItens: []
     },
-    options: ["3,33 x 102.","3,33 x 103.","3,33 x 106.","1,55 x 103.","1,55 × 106."],
+    options: ["$1 \times 10^{2}$.","$1 \times 10^{3}$.","$1 \times 10^{6}$.","$1 \times 10^{3}$.","$1 \times 10^{6}$."],
     correctAnswer: 4,
     materia: "Química – Estequiometria",
     conteudo: "Química – Gases",
@@ -96,7 +96,7 @@ createQuestion({
       principal: "Os gráficos 1, 2 e 3 representam a variação da energia em função do caminho da reação para três transformações químicas, sendo R o reagente e P o produto de cada reação. Entre os gráficos 1, 2 e 3, aquele que representa corretamente a reação da fosfina com o oxigênio, descrita no texto, é o",
       subItens: []
     },
-    options: ["gráfico 1, pois a reação é endotérmica e apresenta ArΗ° < 0.","gráfico 1, pois a reação é exotérmica e apresenta ArΗ° < 0.","gráfico 2, pois a reação é endotérmica e apresenta ArH0 > 0.","gráfico 2, pois a reação é exotérmica e apresenta ArΗ° < 0.","gráfico 3, pois a reação é endotérmica e apresenta ArH0 > 0."],
+    options: ["gráfico 1, pois a reação é endotérmica e apresenta ArΗ° < 0.","gráfico 1, pois a reação é exotérmica e apresenta ArΗ° < 0.","gráfico 2, pois a reação é endotérmica e apresenta $1_{0}$ > 0.","gráfico 2, pois a reação é exotérmica e apresenta ArΗ° < 0.","gráfico 3, pois a reação é endotérmica e apresenta $1_{0}$ > 0."],
     correctAnswer: 1,
     materia: "Química – Termoquímica",
     conteudo: "Química – Reações Exotérmicas e Endotérmicas",
@@ -111,7 +111,7 @@ createQuestion({
       principal: "Uma das substâncias que pode neutralizar o ácido fosfórico é o hidróxido de magnésio, Mg(OH)2. A equação química balanceada que representa a reação de neutralização total que ocorre entre essas substâncias é",
       subItens: []
     },
-    options: ["H3PO4 (aq) + Mg(OH)2 (s) → MgPO4 (s) + H2O (l).","2 H3PO4 (aq) + 3 Mg(OH)2 (s) → Mg3(PO4)2 (s) + 6 H2O (l).","3 H3PO3(aq) + 2 Mg(OH)2 (s) → Mg2(PO3)3 (s) + 6H2O (l).","2 H3PO3 (aq) + 3 Mg(OH)2 (s) → Mg3(PO3)2 (s) + 6H2O (l).","H3PO3(aq) + Mg(OH)2 (s) → MgPO3 (s) + H₂O (l)."],
+    options: ["$1_{3}PO_{4}$ (aq) + Mg(OH)2 (s) → $1_{4}$ (s) + $1_{2}O_{}$ (l).","2 $1_{3}PO_{4}$ (aq) + 3 Mg(OH)2 (s) → $1_{3}_{}$($1_{4}$)2 (s) + 6 $1_{2}O_{}$ (l).","3 $1_{3}PO_{3}$(aq) + 2 Mg(OH)2 (s) → $1_{2}_{}$($1_{3}$)3 (s) + 6H2O (l).","2 $1_{3}PO_{3}$ (aq) + 3 Mg(OH)2 (s) → $1_{3}_{}$($1_{3}$)2 (s) + 6H2O (l).","$1_{3}PO_{3}$(aq) + Mg(OH)2 (s) → $1_{3}$ (s) + H₂O (l)."],
     correctAnswer: 1,
     materia: "Química – Reações de Neutralização",
     conteudo: "Química – Balanceamento de Equações",
@@ -123,10 +123,10 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2019,
     text: {
-      principal: "A reação que ocorre entre a fosfina e o oxigênio é representada pela equação química 2 PH3 (g) + 4 O2 (g) → P2O5 (g) + 3 H2O (g) As substâncias que atuam como agente oxidante e agente redutor desse processo são, respectivamente,",
+      principal: "A reação que ocorre entre a fosfina e o oxigênio é representada pela equação química 2 $1_{3}$ (g) + 4 $1_{2}_{}$ (g) → $1_{2}O_{5}$ (g) + 3 $1_{2}O_{}$ (g) As substâncias que atuam como agente oxidante e agente redutor desse processo são, respectivamente,",
       subItens: []
     },
-    options: ["O2 e PH3.","O₂ e H₂O.","O2 e P2O5.","PH3 e H₂O.","PH3 e P2O5."],
+    options: ["$1_{2}_{}$ e $1_{3}$.","O₂ e H₂O.","$1_{2}_{}$ e $1_{2}O_{5}$.","$1_{3}$ e H₂O.","$1_{3}$ e $1_{2}O_{5}$."],
     correctAnswer: 0,
     materia: "Química – Reações Redox",
     conteudo: "Química – Agentes Oxidantes e Redutores",
@@ -138,10 +138,10 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2019,
     text: {
-      principal: "A amônia (NH3), molécula de estrutura semelhante à da fosfina, reage com água produzindo uma solução de caráter básico. A reação que ocorre pode ser representada pela equação química NH3 (g) + H2O (l) = NH4+ (aq) + OH¯(aq) Uma solução aquosa de NH3 apresenta concentração inicial de 0,02 mol/L a 25°C. Nessas condições, o valor da concentração de íons OH, em mol/L, é Dado: Constante de basicidade da amônia a 25°C: Kb = 1,8 x 10-5",
+      principal: "A amônia ($1_{3}$), molécula de estrutura semelhante à da fosfina, reage com água produzindo uma solução de caráter básico. A reação que ocorre pode ser representada pela equação química $1_{3}$ (g) + $1_{2}O_{}$ (l) = $1_{4}$+ (aq) + OH¯(aq) Uma solução aquosa de $1_{3}$ apresenta concentração inicial de 0,02 mol/L a 25°C. Nessas condições, o valor da concentração de íons OH, em mol/L, é Dado: Constante de basicidade da amônia a 25°C: Kb = $1 \times 10^{-5}$",
       subItens: []
     },
-    options: ["2 × 10-4","3 × 10-4","4 x 10-4","5 × 10-4","6 × 10-4"],
+    options: ["$1 \times 10^{-4}$","$1 \times 10^{-4}$","$1 \times 10^{-4}$","$1 \times 10^{-4}$","$1 \times 10^{-4}$"],
     correctAnswer: 4,
     materia: "Química – Equilíbrio Iônico",
     conteudo: "Química – Soluções",
@@ -321,7 +321,7 @@ createQuestion({
       principal: "Se o navio, considerado estável, percorre um trecho qualquer em velocidade de cruzeiro, podemos concluir que a quantidade de movimento, em kg.m/s, nesse trecho especificado é, aproximadamente,",
       subItens: []
     },
-    options: ["1,37 × 104","4,95 x 104","8,32 × 104","1,37 x 107","4,95 × 107"],
+    options: ["$1 \times 10^{4}$","$1 \times 10^{4}$","$1 \times 10^{4}$","$1 \times 10^{7}$","$1 \times 10^{7}$"],
     correctAnswer: 3,
     materia: "Física – Dinâmica",
     conteudo: "Física – Quantidade de Movimento",
@@ -336,7 +336,7 @@ createQuestion({
       principal: "Relacionando as informações do texto com os respectivos conceitos físicos, está correto afirmar que",
       subItens: []
     },
-    options: ["4 MWh equivale à potência máxima da bateria em condições normais.","podemos considerar que, em condições de estabilidade estática e repouso, o empuxo aplicado no navio equivale a 4,5 × 107 Ν.","as \"câmeras no visível e no infravermelho\" referem-se a câmeras que operam com ondas eletromagnéticas nas frequências do visível e do infravermelho e, portanto, não funcionam à noite.","o sistema de detecção RADAR funciona por emissão de ondas mecânicas de rádio na frequência da luz visível.","o sistema de detecção LIDAR torna-se mais lento e menos preciso em comparação a outros métodos por operar com pulsos de luz laser."],
+    options: ["4 MWh equivale à potência máxima da bateria em condições normais.","podemos considerar que, em condições de estabilidade estática e repouso, o empuxo aplicado no navio equivale a $1 \times 10^{7}$ Ν.","as \"câmeras no visível e no infravermelho\" referem-se a câmeras que operam com ondas eletromagnéticas nas frequências do visível e do infravermelho e, portanto, não funcionam à noite.","o sistema de detecção RADAR funciona por emissão de ondas mecânicas de rádio na frequência da luz visível.","o sistema de detecção LIDAR torna-se mais lento e menos preciso em comparação a outros métodos por operar com pulsos de luz laser."],
     correctAnswer: 1,
     materia: "Física – Hidrostática",
     conteudo: "Física – Empuxo",

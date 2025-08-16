@@ -18,10 +18,10 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Considere duas partículas de massa m, cada qual presa numa das pontas de uma corda, de comprimento l e massa desprezível, que atravessa um orifício de uma mesa horizontal lisa. Conforme mostra a figura, a partícula sobre a mesa descreve um movimento circular uniforme de raio r e velocidade angular ω1. A partícula suspensa também descreve esse mesmo tipo de movimento, mas com velocidade angular ω2, estando presa a uma mola de constante elástica k e comprimento natural desprezível, mantida na horizontal. Sendo g o módulo da aceleração da gravidade e θ o ângulo do trecho suspenso da corda com a vertical, a razão (ω2/ω1)² é dada por\nA() r[mg + k(l - r) cos θ] / mg(1 - r)\nD() k(1 - r) cos θ / mg + kr\nB() (1 - r)(mg + kr cos θ) / mgr sen θ\nE() (1 - r)k cos θ / mg + k(l - r) cos θ\nC() (1 - r)(mg + kr tg θ) / kr2\n(A imagem mostra um esquema de duas massas 'm', uma sobre uma mesa horizontal com um movimento circular de raio 'r' e velocidade angular 'ω1', conectada por uma corda que atravessa um orifício no centro da mesa. A outra massa está suspensa e conectada a uma mola com constante elástica 'k', formando um ângulo 'θ' com a vertical. Essa massa também descreve um movimento com velocidade angular 'ω2'.)",
+      principal: "Considere duas partículas de massa m, cada qual presa numa das pontas de uma corda, de comprimento l e massa desprezível, que atravessa um orifício de uma mesa horizontal lisa. Conforme mostra a figura, a partícula sobre a mesa descreve um movimento circular uniforme de raio r e velocidade angular ω1. A partícula suspensa também descreve esse mesmo tipo de movimento, mas com velocidade angular ω2, estando presa a uma mola de constante elástica k e comprimento natural desprezível, mantida na horizontal. Sendo g o módulo da aceleração da gravidade e θ o ângulo do trecho suspenso da corda com a vertical, a razão (ω2/ω1)² é dada por\nA() r[mg + k(l - r) cos θ] / mg(1 - r)\nD() k(1 - r) cos θ / mg + kr\nB() (1 - r)(mg + kr cos θ) / mgr sen θ\nE() (1 - r)k cos θ / mg + k(l - r) cos θ\nC() (1 - r)(mg + kr tg θ) / $1_{2}$\n(A imagem mostra um esquema de duas massas 'm', uma sobre uma mesa horizontal com um movimento circular de raio 'r' e velocidade angular 'ω1', conectada por uma corda que atravessa um orifício no centro da mesa. A outra massa está suspensa e conectada a uma mola com constante elástica 'k', formando um ângulo 'θ' com a vertical. Essa massa também descreve um movimento com velocidade angular 'ω2'.)",
       subItens: []
     },
-    options: ["r[mg + k(l - r) cos θ] / mg(1 - r)","(1 - r)(mg + kr cos θ) / mgr sen θ","(1 - r)(mg + kr tg θ) / kr2","k(1 - r) cos θ / mg + kr","(1 - r)k cos θ / mg + k(l - r) cos θ"],
+    options: ["r[mg + k(l - r) cos θ] / mg(1 - r)","(1 - r)(mg + kr cos θ) / mgr sen θ","(1 - r)(mg + kr tg θ) / $1_{2}$","k(1 - r) cos θ / mg + kr","(1 - r)k cos θ / mg + k(l - r) cos θ"],
     correctAnswer: 0,
     materia: "",
     conteudo: "",
@@ -153,7 +153,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Dentro de uma câmara de vácuo encontra-se um o filamento F aquecido por meio de uma fonte elétrica externa de d.d.p. V1. A radiação emitida por F atinge o eletrodo metálico E1, que passa a emitir elétrons que podem ser coletados no eletrodo E2, acarretando a corrente I medida num amperímetro. Uma segunda fonte externa, de d.d.p. V2, é conectada ao circuito conforme ilustrado na figura. Um obstáculo O impede que E2 receba radiação do filamento F. Analise as seguintes afirmações: I. A corrente I aumenta sempre que V2 aumenta e tende a um valor assintótico Imax. II. Toda a radiação que incide em E1 pode causar ejeção de elétrons. III. Para certo valor V2 < 0, é possível obter uma corrente I invertida em relação ao sentido mostrado na figura. IV. É possível ter I ≠ 0 para V2 = 0 com I dependente de V1. Estão corretas\n(A imagem mostra um circuito com um filamento F que emite radiação. Essa radiação atinge um eletrodo E1, que emite elétrons para E2. Um amperímetro A mede a corrente I. Uma fonte V1 alimenta o filamento, e uma fonte V2 está conectada entre E1 e E2. Há um obstáculo O entre F e E2.)",
+      principal: "Dentro de uma câmara de vácuo encontra-se um o filamento F aquecido por meio de uma fonte elétrica externa de d.d.p. $1_{1}_{}$. A radiação emitida por F atinge o eletrodo metálico $1_{1}_{}$, que passa a emitir elétrons que podem ser coletados no eletrodo $1_{2}_{}$, acarretando a corrente I medida num amperímetro. Uma segunda fonte externa, de d.d.p. $1_{2}_{}$, é conectada ao circuito conforme ilustrado na figura. Um obstáculo O impede que $1_{2}_{}$ receba radiação do filamento F. Analise as seguintes afirmações: I. A corrente I aumenta sempre que $1_{2}_{}$ aumenta e tende a um valor assintótico Imax. II. Toda a radiação que incide em $1_{1}_{}$ pode causar ejeção de elétrons. III. Para certo valor $1_{2}_{}$ < 0, é possível obter uma corrente I invertida em relação ao sentido mostrado na figura. IV. É possível ter I ≠ 0 para $1_{2}_{}$ = 0 com I dependente de $1_{1}_{}$. Estão corretas\n(A imagem mostra um circuito com um filamento F que emite radiação. Essa radiação atinge um eletrodo $1_{1}_{}$, que emite elétrons para $1_{2}_{}$. Um amperímetro A mede a corrente I. Uma fonte $1_{1}_{}$ alimenta o filamento, e uma fonte $1_{2}_{}$ está conectada entre $1_{1}_{}$ e $1_{2}_{}$. Há um obstáculo O entre F e $1_{2}_{}$.)",
       subItens: []
     },
     options: ["todas as afirmações.","apenas I, II e III.","apenas I e IV.","apenas II e IV.","apenas I, II e IV."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Considere as seguintes afirmações: I. Se x1, x2 e x3 são as raízes da equação x³ – 2x² + x + 2 = 0, então y1 = x2x3, y2 = x1x3 e y3 = x1x2 são as raízes da equação y³ – y² – 4y – 4 = 0. II. A soma dos cubos de três números inteiros consecutivos é divisível por 9. III. √((3+√5)/2) = (1+√5)/2. É(são) VERDADEIRA(S)",
+      principal: "Considere as seguintes afirmações: I. Se $1_{1}$, $1_{2}$ e $1_{3}$ são as raízes da equação x³ – 2x² + x + 2 = 0, então $1_{1}$ = x2x3, $1_{2}$ = x1x3 e $1_{3}$ = x1x2 são as raízes da equação y³ – y² – 4y – 4 = 0. II. A soma dos cubos de três números inteiros consecutivos é divisível por 9. III. √((3+√5)/2) = (1+√5)/2. É(são) VERDADEIRA(S)",
       subItens: []
     },
     options: ["apenas I.","apenas II.","apenas III.","apenas II e III.","todas."],
@@ -828,7 +828,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Considere as configurações eletrônicas do estado fundamental dos átomos X, Y e Z pertencentes ao segundo período da tabela periódica: X: ns²np³ Y: ns²np⁴ Z: ns²np⁵ Com base nas estruturas de Lewis, sejam feitas as seguintes afirmações sobre íons e moléculas formados por esses átomos: I. A ordem das energias de ligação das moléculas diatômicas homonucleares é X2 > Y2 > Z2. II. O cátion XY⁺ tem maior distância interatômica de equilíbrio do que o ânion XY⁻. III. As moléculas triatômicas YZ2 e Y3 têm geometria angular. IV. As moléculas X2Y2 e Y2Z2 apresentam ligações duplas. Das afirmações acima, estão CORRETA(S)",
+      principal: "Considere as configurações eletrônicas do estado fundamental dos átomos X, Y e Z pertencentes ao segundo período da tabela periódica: X: ns²np³ Y: ns²np⁴ Z: ns²np⁵ Com base nas estruturas de Lewis, sejam feitas as seguintes afirmações sobre íons e moléculas formados por esses átomos: I. A ordem das energias de ligação das moléculas diatômicas homonucleares é $1_{2}_{}$ > $1_{2}_{}$ > $1_{2}_{}$. II. O cátion XY⁺ tem maior distância interatômica de equilíbrio do que o ânion XY⁻. III. As moléculas triatômicas $1_{2}$ e $1_{3}_{}$ têm geometria angular. IV. As moléculas $1_{2}Y_{2}$ e $1_{2}Z_{2}$ apresentam ligações duplas. Das afirmações acima, estão CORRETA(S)",
       subItens: []
     },
     options: ["I e III.","I e IV.","II e III.","II, III e IV.","II e IV."],
@@ -873,7 +873,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "A espectroscopia de massa é um dos métodos instrumentais utilizados para determinar a fórmula molecular de um composto. Essa mesma técnica é utilizada para determinar as massas dos isótopos e suas abundâncias percentuais. Sabe-se que o átomo de bromo tem dois isótopos estáveis com massas atômicas iguais a 79 e 81 u.m.a., e abundâncias iguais a 50,7 e 49,3%, respectivamente. O espectro de massas (abundância em função da relação carga/massa) do Br2 tem seus três picos mais intensos atribuídos aos diferentes arranjos isotópicos do Br2. Baseado nessas informações, a razão entre as intensidades relativas dos picos dos isótopos do Br2, em ordem crescente de massa atômica, é aproximadamente",
+      principal: "A espectroscopia de massa é um dos métodos instrumentais utilizados para determinar a fórmula molecular de um composto. Essa mesma técnica é utilizada para determinar as massas dos isótopos e suas abundâncias percentuais. Sabe-se que o átomo de bromo tem dois isótopos estáveis com massas atômicas iguais a 79 e 81 u.m.a., e abundâncias iguais a 50,7 e 49,3%, respectivamente. O espectro de massas (abundância em função da relação carga/massa) do $1_{2}_{}$ tem seus três picos mais intensos atribuídos aos diferentes arranjos isotópicos do $1_{2}_{}$. Baseado nessas informações, a razão entre as intensidades relativas dos picos dos isótopos do $1_{2}_{}$, em ordem crescente de massa atômica, é aproximadamente",
       subItens: []
     },
     options: ["1:1:1.","1:1:2.","1:2:1.","1:2:2.","1:2:3."],

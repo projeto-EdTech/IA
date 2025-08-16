@@ -78,7 +78,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Um pequeno boneco está diante de um espelho plano, conforme a figura abaixo. Em relação à imagem conjugada pelo espelho, podemos classificá-la como tendo as seguintes características:\n[Imagem de boneco diante de um espelho plano]\nhttp://www.geocities.ws/saladefisica8/optica/planos.html",
+      principal: "Um pequeno boneco está diante de um espelho plano, conforme a figura abaixo. Em relação à imagem conjugada pelo espelho, podemos classificá-la como tendo as seguintes características:\n[Imagem de boneco diante de um espelho plano]\nhttp://www.geocities.ws/$1_{8}$/optica/planos.html",
       subItens: []
     },
     options: ["real, direita e do mesmo tamanho do objeto.","virtual, invertida lateralmente e maior que o objeto.","virtual, direita e do mesmo tamanho do objeto.","real, invertida lateralmente e do mesmo tamanho do objeto."],
@@ -108,7 +108,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Na modalidade esportiva do salto à distância, o esportista, para fazer o melhor salto, deve atingir a velocidade máxima antes de saltar, aliando-a ao melhor ângulo de entrada no momento do salto que, nessa modalidade, é 45°. Considere uma situação hipotética em que um atleta, no momento do salto, alcance a velocidade de 43,2 km/h, velocidade próxima do recorde mundial dos 100 metros rasos, que é de 43,9 km/h. Despreze o atrito com o ar enquanto ele está em “vôo” e considere o saltador como um ponto material situado em seu centro de gravidade. Nessas condições, qual seria, aproximadamente, a distância alcançada no salto?\nAdote o módulo da aceleração da gravidade igual a 10 m/s².\nDados: sen45° = cos45° = 0,7\n[Sequência de imagens mostrando as fases do salto: CORRIDA DE IMPULSÃO, IMPULSÃO, VÔO, QUEDA]\nhttps://sites.google.com/site/edfisicaempic/educacao-fisica-corpo-e-mente/atletismo",
+      principal: "Na modalidade esportiva do salto à distância, o esportista, para fazer o melhor salto, deve atingir a velocidade máxima antes de saltar, aliando-a ao melhor ângulo de entrada no momento do salto que, nessa modalidade, é 45°. Considere uma situação hipotética em que um atleta, no momento do salto, alcance a velocidade de 43,2 km/h, velocidade próxima do recorde mundial dos 100 metros rasos, que é de 43,9 km/h. Despreze o atrito com o ar enquanto ele está em “vôo” e considere o saltador como um ponto material situado em seu centro de gravidade. Nessas condições, qual seria, aproximadamente, a distância alcançada no salto?\nAdote o módulo da aceleração da gravidade igual a 10 m/s².\nDados: $1_{45}$° = $1_{45}$° = 0,7\n[Sequência de imagens mostrando as fases do salto: CORRIDA DE IMPULSÃO, IMPULSÃO, VÔO, QUEDA]\nhttps://sites.google.com/site/edfisicaempic/educacao-fisica-corpo-e-mente/atletismo",
       subItens: []
     },
     options: ["7m","10m","12m","14m"],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Um resíduo industrial é constituído por uma mistura de carbonato de cálcio (CaCO3) e sulfato de cálcio (CaSO4). O carbonato de cálcio sofre decomposição térmica se aquecido entre 825 e 900 °C, já o sulfato de cálcio é termicamente estável. A termólise do CaCO3 resulta em óxido de cálcio e gás carbônico.\nCaCO3(s) → CaO(s) + CO2(g)\nUma amostra de 10,00 g desse resíduo foi aquecida a 900 °C até não se observar mais alteração em sua massa. Após o resfriamento da amostra, o sólido resultante apresentava 6,70 g.\nO teor de carbonato de cálcio na amostra é de, aproximadamente,",
+      principal: "Um resíduo industrial é constituído por uma mistura de carbonato de cálcio ($1_{3}$) e sulfato de cálcio ($1_{4}$). O carbonato de cálcio sofre decomposição térmica se aquecido entre 825 e 900 °C, já o sulfato de cálcio é termicamente estável. A termólise do $1_{3}$ resulta em óxido de cálcio e gás carbônico.\$1_{3}$(s) → CaO(s) + $1_{2}$(g)\nUma amostra de 10,00 g desse resíduo foi aquecida a 900 °C até não se observar mais alteração em sua massa. Após o resfriamento da amostra, o sólido resultante apresentava 6,70 g.\nO teor de carbonato de cálcio na amostra é de, aproximadamente,",
       subItens: []
     },
     options: ["33%.","50%.","67%.","75%."],
@@ -543,10 +543,10 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "A temperatura de fusão de compostos iônicos está relacionada à energia reticular, ou seja, à intensidade da atração entre cátions e ânions na estrutura do retículo cristalino iônico.\nA força de atração entre cargas elétricas opostas depende do produto das cargas e da distância entre elas. De modo geral, quanto maior o produto entre os módulos das cargas elétricas dos íons e menores as distâncias entre os seus núcleos, maior a energia reticular.\nConsidere os seguintes pares de substâncias iônicas:\nI. MgF2 e MgO\nII. KF e CaO\nIII. LiF e KBr\nAs substâncias que apresentam a maior temperatura de fusão nos grupos I, II e III são, respectivamente,",
+      principal: "A temperatura de fusão de compostos iônicos está relacionada à energia reticular, ou seja, à intensidade da atração entre cátions e ânions na estrutura do retículo cristalino iônico.\nA força de atração entre cargas elétricas opostas depende do produto das cargas e da distância entre elas. De modo geral, quanto maior o produto entre os módulos das cargas elétricas dos íons e menores as distâncias entre os seus núcleos, maior a energia reticular.\nConsidere os seguintes pares de substâncias iônicas:\nI. $1_{2}$ e MgO\nII. KF e CaO\nIII. LiF e KBr\nAs substâncias que apresentam a maior temperatura de fusão nos grupos I, II e III são, respectivamente,",
       subItens: []
     },
-    options: ["MgO, CaO e LiF.","MgF2, KF e KBr.","MgO, KF e LiF.","MgF2, CaO e KBr."],
+    options: ["MgO, CaO e LiF.","$1_{2}$, KF e KBr.","MgO, KF e LiF.","$1_{2}$, CaO e KBr."],
     correctAnswer: 0,
     materia: "Química – Ligações Químicas",
     conteudo: "",

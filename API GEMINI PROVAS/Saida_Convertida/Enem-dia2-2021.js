@@ -3,10 +3,10 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "No cultivo por hidroponia, são utilizadas soluções nutritivas contendo macronutrientes e micronutrientes essenciais. Além dos nutrientes, o pH é um parâmetro de extrema importância, uma vez que ele afeta a preparação da solução nutritiva e a absorção dos nutrientes pelas plantas. Para o cultivo de alface, valores de pH entre 5,5 e 6,5 são ideais para o seu desenvolvimento. As correções de pH são feitas pela adição de compostos ácidos ou básicos, mas não devem introduzir elementos nocivos às plantas. Na tabela, são apresentados alguns dados da composição da solução nutritiva de referência para esse cultivo. Também é apresentada a composição de uma solução preparada por um produtor de cultivo hidropônico.\n\nEspécies químicas\nComposição de referência (5,5<pH<6,5)\nSolução nutritiva preparada (pH = 4,3)\nN (NH4+)\n1,0\n0,8\nP (H2PO4-)\n1,0\n1,0\nMacronutrientes\nK+\n6,0\n3,5\nCa2+\n4,0\n3,0\nSO42-\n2,0\n1,0\nFe2+\n90 × 10-3\n70 × 10-3\nMicronutrientes\nCl-\n-\n4,5 x 10-3\n\nPara correção do pH da solução nutritiva preparada, esse produtor pode empregar uma solução de",
+      principal: "No cultivo por hidroponia, são utilizadas soluções nutritivas contendo macronutrientes e micronutrientes essenciais. Além dos nutrientes, o pH é um parâmetro de extrema importância, uma vez que ele afeta a preparação da solução nutritiva e a absorção dos nutrientes pelas plantas. Para o cultivo de alface, valores de pH entre 5,5 e 6,5 são ideais para o seu desenvolvimento. As correções de pH são feitas pela adição de compostos ácidos ou básicos, mas não devem introduzir elementos nocivos às plantas. Na tabela, são apresentados alguns dados da composição da solução nutritiva de referência para esse cultivo. Também é apresentada a composição de uma solução preparada por um produtor de cultivo hidropônico.\n\nEspécies químicas\nComposição de referência (5,5<pH<6,5)\nSolução nutritiva preparada (pH = 4,3)\nN ($1_{4}$+)\$1_{1}$,0\$1_{0}$,8\nP ($1_{2}PO_{4}$-)\$1_{1}$,0\$1_{1}$,0\nMacronutrientes\nK+\$1_{6}$,0\$1_{3}$,5\$1_{2}$+\$1_{4}$,0\$1_{3}$,0\$1_{42}$-\$1_{2}$,0\$1_{1}$,0\$1_{2}$+\n$1 \times 10^{-3}$\n$1 \times 10^{-3}$\nMicronutrientes\nCl-\n-\n$1 \times 10^{-3}$\n\nPara correção do pH da solução nutritiva preparada, esse produtor pode empregar uma solução de",
       subItens: []
     },
-    options: ["ácido fosfórico, H3PO4.","sulfato de cálcio, CaSO4.","óxido de alumínio, Al2O3.","cloreto de ferro(II), FeCl2.","hidróxido de potássio, KOH."],
+    options: ["ácido fosfórico, $1_{3}PO_{4}$.","sulfato de cálcio, $1_{4}$.","óxido de alumínio, $1_{2}O_{3}$.","cloreto de ferro(II), $1_{2}$.","hidróxido de potássio, KOH."],
     correctAnswer: 4,
     materia: "Química – Soluções e pH",
     conteudo: "",
@@ -18,10 +18,10 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes, conforme a figura.\n\nComprimento 1\nComprimento 2\n\nConsidere f₁ e v₁, respectivamente, como a frequência fundamental e a velocidade de propagação do som emitido pela barra de menor comprimento, e f₂ e V2 são essas mesmas grandezas para o som emitido pela barra de maior comprimento. As relações entre as frequências fundamentais e entre as velocidades de propagação são, respectivamente,",
+      principal: "O sino dos ventos é composto por várias barras metálicas de mesmo material e espessura, mas de comprimentos diferentes, conforme a figura.\n\nComprimento 1\nComprimento 2\n\nConsidere f₁ e v₁, respectivamente, como a frequência fundamental e a velocidade de propagação do som emitido pela barra de menor comprimento, e f₂ e $1_{2}_{}$ são essas mesmas grandezas para o som emitido pela barra de maior comprimento. As relações entre as frequências fundamentais e entre as velocidades de propagação são, respectivamente,",
       subItens: []
     },
-    options: ["f₁ <f₂ e v₁ < V2.","f₁ < f₂e v₁ = V2.","f₁ <f₂ e v₁ > V2.","f₁ > f₂ e_v₁ = V2.","f₁ > f₂ e v₁ > V2."],
+    options: ["f₁ <f₂ e v₁ < $1_{2}_{}$.","f₁ < f₂e v₁ = $1_{2}_{}$.","f₁ <f₂ e v₁ > $1_{2}_{}$.","f₁ > f₂ e_v₁ = $1_{2}_{}$.","f₁ > f₂ e v₁ > $1_{2}_{}$."],
     correctAnswer: 3,
     materia: "Física – Ondas Sonoras",
     conteudo: "",
@@ -78,7 +78,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "A sequência de nucleotídeos do RNA mensageiro presentes em um gene de um fungo, constituída de sete códons, está escrita a seguir.\n\n1 AUG 2 UUU 3 GUU 4 CAA 5 UGU 6 AGU 7 UAG\n\nPesquisadores submeteram a sequência a mutações independentes. Sabe-se que os códons UAG e UAA são terminais, ou seja, indicam a interrupção da tradução.\nQual mutação produzirá a menor proteína?",
+      principal: "A sequência de nucleotídeos do RNA mensageiro presentes em um gene de um fungo, constituída de sete códons, está escrita a seguir.\n\$1_{1}$ AUG 2 UUU 3 GUU 4 CAA 5 UGU 6 AGU 7 UAG\n\nPesquisadores submeteram a sequência a mutações independentes. Sabe-se que os códons UAG e UAA são terminais, ou seja, indicam a interrupção da tradução.\nQual mutação produzirá a menor proteína?",
       subItens: []
     },
     options: ["Deleção de G no códon 3.","Substituição de C por U no códon 4.","Substituição de G por C no códon 6.","Substituição de A por G no códon 7.","Deleção dos dois primeiros nucleotídeos no códon 5."],
@@ -183,7 +183,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Um técnico analisou um lote de analgésicos que supostamente estava fora das especificações. A composição prevista era 100 mg de ácido acetilsalicílico por comprimido (princípio ativo, cuja estrutura está apresentada na figura), além do amido e da celulose (componentes inertes). O técnico realizou os seguintes testes:\n1) obtenção da massa do comprimido;\n2) medição da densidade do comprimido;\n3) verificação do pH com papel indicador;\n4) determinação da temperatura de fusão do comprimido;\n5) titulação com solução aquosa de NaOH.\nApós a realização dos testes, o lote do medicamento foi reprovado porque a quantidade de ácido acetilsalicílico por comprimido foi de apenas 40% da esperada.\n\n[IMAGEM DA ESTRUTURA QUÍMICA DO ÁCIDO ACETILSALICÍLICO]\n\nO teste que permitiu reprovar o lote de analgésicos foi o de número",
+      principal: "Um técnico analisou um lote de analgésicos que supostamente estava fora das especificações. A composição prevista era 100 mg de ácido acetilsalicílico por comprimido (princípio ativo, cuja estrutura está apresentada na figura), além do amido e da celulose (componentes inertes). O técnico realizou os seguintes testes:\$1_{1}$) obtenção da massa do comprimido;\$1_{2}$) medição da densidade do comprimido;\$1_{3}$) verificação do pH com papel indicador;\$1_{4}$) determinação da temperatura de fusão do comprimido;\$1_{5}$) titulação com solução aquosa de NaOH.\nApós a realização dos testes, o lote do medicamento foi reprovado porque a quantidade de ácido acetilsalicílico por comprimido foi de apenas 40% da esperada.\n\n[IMAGEM DA ESTRUTURA QUÍMICA DO ÁCIDO ACETILSALICÍLICO]\n\nO teste que permitiu reprovar o lote de analgésicos foi o de número",
       subItens: []
     },
     options: ["1.","2.","3.","4.","5."],
@@ -243,7 +243,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Analisando a ficha técnica de um automóvel popular, verificam-se algumas características em relação ao seu desempenho. Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a gasolina, tem-se os dados apresentados no quadro, em relação ao desempenho de cada motor.\n\nParâmetro\nMotor a gasolina\nMotor a álcool\nAceleração\nde 0 a 100 km/h em 13,4 s\nde 0 a 100 km/h em 12,9 s\nVelocidade máxima\n165 km/h\n163 km/h\n\nConsiderando desprezível a resistência do ar, qual versão apresenta a maior potência?",
+      principal: "Analisando a ficha técnica de um automóvel popular, verificam-se algumas características em relação ao seu desempenho. Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a gasolina, tem-se os dados apresentados no quadro, em relação ao desempenho de cada motor.\n\nParâmetro\nMotor a gasolina\nMotor a álcool\nAceleração\nde 0 a 100 km/h em 13,4 s\nde 0 a 100 km/h em 12,9 s\nVelocidade máxima\$1_{165}$ km/h\$1_{163}$ km/h\n\nConsiderando desprezível a resistência do ar, qual versão apresenta a maior potência?",
       subItens: []
     },
     options: ["Como a versão a gasolina consegue a maior aceleração, esta é a que desenvolve a maior potência.","Como a versão a gasolina atinge o maior valor de energia cinética, esta é a que desenvolve a maior potência.","Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior potência.","Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência desenvolvida é a mesma.","Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que desenvolve a maior potência."],
@@ -258,7 +258,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "TEXTO I\nNo cordel intitulado Senhor dos Anéis, de autoria de Gonçalo Ferreira da Silva, lê-se a sextilha:\nA distância em relação\nAo nosso planeta amado\nPouco menos que a do Sol\nEle está distanciado\nE menos denso que a água\nQuando no normal estado\n\nTEXTO II\nDistâncias médias dos planetas ao Sol e suas densidades médias\n\nPlanetas\nDistância média ao Sol (u.a.)\nDensidade relativa média\n*Mercúrio\n0,39\n5,6\n*Vênus\n0,72\n5,2\n*Terra\n1,0\n5,5\n*Marte\n1,5\n4,0\n**Ceres\n2,8\n2,1\n*Júpiter\n5,2\n1,3\n*Saturno\n9,6\n0,7\n*Urano\n19\n1,2\n*Netuno\n30\n1,7\n**Plutão\n40\n2,0\n**Éris\n68\n2,5\n\nConsiderando os versos da sextilha e as informações da tabela, a qual planeta o cordel faz referência?",
+      principal: "TEXTO I\nNo cordel intitulado Senhor dos Anéis, de autoria de Gonçalo Ferreira da Silva, lê-se a sextilha:\nA distância em relação\nAo nosso planeta amado\nPouco menos que a do Sol\nEle está distanciado\nE menos denso que a água\nQuando no normal estado\n\nTEXTO II\nDistâncias médias dos planetas ao Sol e suas densidades médias\n\nPlanetas\nDistância média ao Sol (u.a.)\nDensidade relativa média\n*Mercúrio\$1_{0}$,39\$1_{5}$,6\n*Vênus\$1_{0}$,72\$1_{5}$,2\n*Terra\$1_{1}$,0\$1_{5}$,5\n*Marte\$1_{1}$,5\$1_{4}$,0\n**Ceres\$1_{2}$,8\$1_{2}$,1\n*Júpiter\$1_{5}$,2\$1_{1}$,3\n*Saturno\$1_{9}$,6\$1_{0}$,7\n*Urano\$1_{19}$\$1_{1}$,2\n*Netuno\$1_{30}$\$1_{1}$,7\n**Plutão\$1_{40}$\$1_{2}$,0\n**Éris\$1_{68}$\$1_{2}$,5\n\nConsiderando os versos da sextilha e as informações da tabela, a qual planeta o cordel faz referência?",
       subItens: []
     },
     options: ["Mercúrio.","Júpiter.","Urano.","Saturno.","Netuno."],
@@ -273,10 +273,10 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Cientistas da Universidade de New South Wales, na Austrália, demonstraram em 2012 que a Lei de Ohm é válida mesmo para fios finíssimos, cuja área da seção reta compreende alguns poucos átomos. A tabela apresenta as áreas e comprimentos de alguns dos fios construídos (respectivamente com as mesmas unidades de medida). Considere que a resistividade mantém-se constante para todas as geometrias (uma aproximação confirmada pelo estudo).\n\nFio\nÁrea\nComprimento\nResistência elétrica\nFio 1\n9\n312\nR1\nFio 2\n4\n47\nR2\nFio 3\n2\n54\nR3\nFio 4\n1\n106\nR4\n\nAs resistências elétricas dos fios, em ordem crescente, são",
+      principal: "Cientistas da Universidade de New South Wales, na Austrália, demonstraram em 2012 que a Lei de Ohm é válida mesmo para fios finíssimos, cuja área da seção reta compreende alguns poucos átomos. A tabela apresenta as áreas e comprimentos de alguns dos fios construídos (respectivamente com as mesmas unidades de medida). Considere que a resistividade mantém-se constante para todas as geometrias (uma aproximação confirmada pelo estudo).\n\nFio\nÁrea\nComprimento\nResistência elétrica\nFio 1\$1_{9}$\$1_{312}$\$1_{1}$\nFio 2\$1_{4}$\$1_{47}$\$1_{2}$\nFio 3\$1_{2}$\$1_{54}$\$1_{3}$\nFio 4\$1_{1}$\$1_{106}$\$1_{4}$\n\nAs resistências elétricas dos fios, em ordem crescente, são",
       subItens: []
     },
-    options: ["R1 < R2 < R3 < R4.","R2 < R1 < R3 < R4.","R2 < R3 < R1 < R4.","R4 < R1 < R3 < R2.","R4 < R3 < R2 < R1."],
+    options: ["$1_{1}_{}$ < $1_{2}_{}$ < $1_{3}_{}$ < $1_{4}_{}$.","$1_{2}_{}$ < $1_{1}_{}$ < $1_{3}_{}$ < $1_{4}_{}$.","$1_{2}_{}$ < $1_{3}_{}$ < $1_{1}_{}$ < $1_{4}_{}$.","$1_{4}_{}$ < $1_{1}_{}$ < $1_{3}_{}$ < $1_{2}_{}$.","$1_{4}_{}$ < $1_{3}_{}$ < $1_{2}_{}$ < $1_{1}_{}$."],
     correctAnswer: 2,
     materia: "Física – Eletrodinâmica",
     conteudo: "",
@@ -303,7 +303,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Uma escola iniciou o processo educativo para implantação da coleta seletiva e destino de materiais recicláveis. Para atingir seus objetivos, a instituição planejou:\n1) sensibilizar a comunidade escolar, desenvolvendo atividades em sala e extraclasse de maneira contínua;\n2) capacitar o pessoal responsável pela limpeza da escola quanto aos novos procedimentos adotados com a coleta seletiva; e\n3) distribuir coletores de materiais recicláveis específicos nas salas, pátio e outros ambientes para acondicionamento dos resíduos.\nPara completar a ação proposta no ambiente escolar, o que falta ser inserido no planejamento?",
+      principal: "Uma escola iniciou o processo educativo para implantação da coleta seletiva e destino de materiais recicláveis. Para atingir seus objetivos, a instituição planejou:\$1_{1}$) sensibilizar a comunidade escolar, desenvolvendo atividades em sala e extraclasse de maneira contínua;\$1_{2}$) capacitar o pessoal responsável pela limpeza da escola quanto aos novos procedimentos adotados com a coleta seletiva; e\$1_{3}$) distribuir coletores de materiais recicláveis específicos nas salas, pátio e outros ambientes para acondicionamento dos resíduos.\nPara completar a ação proposta no ambiente escolar, o que falta ser inserido no planejamento?",
       subItens: []
     },
     options: ["Realizar campanhas educativas de sensibilização em bairros vizinhos para fortalecer a coleta seletiva.","Firmar parceria com a prefeitura ou cooperativa de catadores para recolhimento dos materiais recicláveis e destinação apropriada.","Organizar visitas ao lixão ou aterro local para identificar aspectos importantes sobre a disposição final do lixo.","Divulgar na rádio local, no jornal impresso e nas redes sociais que a escola está realizando a coleta seletiva.","Colocar recipientes coletores de lixo reciclável fora da escola para entrega voluntária pela população."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Com o objetivo de identificar a melhor espécie produtora de madeira para construção (com resistência mecânica e à degradação), foram analisadas as estruturas anatômicas de cinco espécies, conforme o quadro.\n\nEspécie\nTecido analisado\nPeriderme/Esclerênquima\nFloema/Esclerênquima\nXilema\nAlburno\nCerne\n1\n+/+\n+/-\n+\n+++\n2\n+/-\n+/-\n+++\n-\n3\n++/-\n+++/+\n+\n-\n4\n+++/+\n+++/-\n+\n-\n5\n+++/+\n+++/+\n++\n+\nLegenda: (-) ausente, (+) presente em pequena quantidade, (++) presente em média quantidade, (+++) presente em grande quantidade.\n\nQual espécie corresponde ao objetivo proposto?",
+      principal: "Com o objetivo de identificar a melhor espécie produtora de madeira para construção (com resistência mecânica e à degradação), foram analisadas as estruturas anatômicas de cinco espécies, conforme o quadro.\n\nEspécie\nTecido analisado\nPeriderme/Esclerênquima\nFloema/Esclerênquima\nXilema\nAlburno\nCerne\$1_{1}$\n+/+\n+/-\n+\n+++\$1_{2}$\n+/-\n+/-\n+++\n-\$1_{3}$\n++/-\n+++/+\n+\n-\$1_{4}$\n+++/+\n+++/-\n+\n-\$1_{5}$\n+++/+\n+++/+\n++\n+\nLegenda: (-) ausente, (+) presente em pequena quantidade, (++) presente em média quantidade, (+++) presente em grande quantidade.\n\nQual espécie corresponde ao objetivo proposto?",
       subItens: []
     },
     options: ["1","2","3","4","5"],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "O emprego de células de combustível a hidrogênio pode ser uma tecnologia adequada ao transporte automotivo. O quadro apresenta características de cinco tecnologias mais proeminentes de células de combustível.\n\nTipo de célula de combustível\nTemperatura operacional (°C)\nEletrólito\nSemirreações nos eletrodos\nAFC\n90 - 100\nHidróxido de potássio aquoso\nH₂ + 2 OH⁻→ 2 H₂O + 2 e⁻\n1/2 O₂ + H₂O + 2e⁻→ 2 OH⁻\nMSFC\n600 - 1 000\nCarbonatos de lítio, sódio e/ou potássio fundidos\nH₂ + CO₃²⁻→ H₂O + CO₂ + 2 e⁻\n1/2 O₂ + CO₂ + 2e⁻→ CO₃²⁻\nPEM\n60 - 100\nÁcido poliperfluorossulfônico sólido\nH₂ → 2 H⁺ + 2 e⁻\n1/2 O₂ + 2H⁺ + 2e⁻→ H₂O\nPAFC\n175 - 200\nÁcido fosfórico líquido\n\nSOFC\n600 - 1000\nÓxido de zircônio(IV) sólido\n\nTestes operacionais com esses tipos de células têm indicado que as melhores alternativas para veículos são as que operam em baixos níveis de energia térmica, são formadas por membranas de eletrólitos poliméricos e ocorrem em meio ácido.\nA tecnologia testada mais adequada para o emprego em veículos automotivos é a célula de combustível",
+      principal: "O emprego de células de combustível a hidrogênio pode ser uma tecnologia adequada ao transporte automotivo. O quadro apresenta características de cinco tecnologias mais proeminentes de células de combustível.\n\nTipo de célula de combustível\nTemperatura operacional (°C)\nEletrólito\nSemirreações nos eletrodos\nAFC\$1_{90}$ - 100\nHidróxido de potássio aquoso\nH₂ + 2 OH⁻→ 2 H₂O + 2 e⁻\$1_{1}$/2 O₂ + H₂O + 2e⁻→ 2 OH⁻\nMSFC\$1_{600}$ - 1 000\nCarbonatos de lítio, sódio e/ou potássio fundidos\nH₂ + CO₃²⁻→ H₂O + CO₂ + 2 e⁻\$1_{1}$/2 O₂ + CO₂ + 2e⁻→ CO₃²⁻\nPEM\$1_{60}$ - 100\nÁcido poliperfluorossulfônico sólido\nH₂ → 2 H⁺ + 2 e⁻\$1_{1}$/2 O₂ + 2H⁺ + 2e⁻→ H₂O\nPAFC\$1_{175}$ - 200\nÁcido fosfórico líquido\n\nSOFC\$1_{600}$ - 1000\nÓxido de zircônio(IV) sólido\n\nTestes operacionais com esses tipos de células têm indicado que as melhores alternativas para veículos são as que operam em baixos níveis de energia térmica, são formadas por membranas de eletrólitos poliméricos e ocorrem em meio ácido.\nA tecnologia testada mais adequada para o emprego em veículos automotivos é a célula de combustível",
       subItens: []
     },
     options: ["AFC.","MSFC.","PEM.","PAFC.","SOFC."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Com o objetivo de proporcionar aroma e sabor a diversos alimentos, a indústria alimentícia se utiliza de flavorizantes. Em geral, essas substâncias são ésteres, como as apresentadas no quadro.\n\nNome\nFórmula\nAroma\nBenzoato de metila\nCHCO₂CH3\nKiwi\nAcetato de isoamila\nCH3CO₂(CH2)2CH(CH3)2\nBanana\nAcetato de benzila\nCH3CO₂CH₂CH\nPêssego\nPropanoato de isobutila\nCH3CH2CO₂CH2CH(CH3)2\nRum\nAntranilato de metila\nCH4NH2CO₂CH3\nUva\n\nO aroma do flavorizante derivado do ácido etanoico e que apresenta cadeia carbônica saturada é de",
+      principal: "Com o objetivo de proporcionar aroma e sabor a diversos alimentos, a indústria alimentícia se utiliza de flavorizantes. Em geral, essas substâncias são ésteres, como as apresentadas no quadro.\n\nNome\nFórmula\nAroma\nBenzoato de metila\nCHCO₂$1_{3}$\nKiwi\nAcetato de isoamila\nCH3CO₂($1_{2}$)2CH($1_{3}$)2\nBanana\nAcetato de benzila\nCH3CO₂CH₂CH\nPêssego\nPropanoato de isobutila\nCH3CH2CO₂CH2CH($1_{3}$)2\nRum\nAntranilato de metila\nCH4NH2CO₂$1_{3}$\nUva\n\nO aroma do flavorizante derivado do ácido etanoico e que apresenta cadeia carbônica saturada é de",
       subItens: []
     },
     options: ["kiwi.","banana.","pêssego.","rum.","uva."],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.\n\nDispositivo eletrônico\nFaixa de força eletromotriz (V)\nI Relógio de parede\n1,2 a 1,5\nII Celular\n3,5 a 3,8\nIII Câmera digital\n7,5 a 7,8\nIV Carrinho de controle remoto\n10,5 a 10,9\nV Notebook/Laptop\n19,5 a 20,0\n\nConsidere que uma bateria é construída pela associação em série de três pilhas de lítio-iodo, nas condições-padrão, conforme as semiequações de redução apresentadas.\n\nI₂ + 2 e⁻ → 2I⁻ E° = +0,54 V\nLi⁺ + e⁻ → Li E° = -3,05 V\n\nEssa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
+      principal: "O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.\n\nDispositivo eletrônico\nFaixa de força eletromotriz (V)\nI Relógio de parede\$1_{1}$,2 a 1,5\nII Celular\$1_{3}$,5 a 3,8\nIII Câmera digital\$1_{7}$,5 a 7,8\nIV Carrinho de controle remoto\$1_{10}$,5 a 10,9\nV Notebook/Laptop\$1_{19}$,5 a 20,0\n\nConsidere que uma bateria é construída pela associação em série de três pilhas de lítio-iodo, nas condições-padrão, conforme as semiequações de redução apresentadas.\n\nI₂ + 2 e⁻ → 2I⁻ E° = +0,54 V\nLi⁺ + e⁻ → Li E° = -3,05 V\n\nEssa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
       subItens: []
     },
     options: ["I","II","III","IV","V"],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "O alcoolômetro Gay Lussac é um instrumento destinado a medir o teor de álcool, em porcentagem de volume (v/v), de soluções de água e álcool na faixa de 0 °GL a 100 °GL, com divisões de 0,1 °GL. A concepção do alcoolômetro se baseia no princípio de flutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala do instrumento é aferida a 20 °C, sendo necessária a correção da medida, caso a temperatura da solução não esteja na temperatura de aferição. É apresentada parte da tabela de correção de um alcoolômetro, com a temperatura.\n\nTabela de correção do alcoolômetro com temperatura 20 °C\nLeitura da temperatura (°C)\n°GL\n20\n21\n22\n23\n24\n25\n35\n35,0\n34,6\n34,2\n33,8\n33,4\n33,0\n36\n36,0\n35,6\n35,2\n34,8\n34,4\n34,0\n\nÉ necessária a correção da medida do instrumento, pois um aumento na temperatura promove o(a)",
+      principal: "O alcoolômetro Gay Lussac é um instrumento destinado a medir o teor de álcool, em porcentagem de volume (v/v), de soluções de água e álcool na faixa de 0 °GL a 100 °GL, com divisões de 0,1 °GL. A concepção do alcoolômetro se baseia no princípio de flutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala do instrumento é aferida a 20 °C, sendo necessária a correção da medida, caso a temperatura da solução não esteja na temperatura de aferição. É apresentada parte da tabela de correção de um alcoolômetro, com a temperatura.\n\nTabela de correção do alcoolômetro com temperatura 20 °C\nLeitura da temperatura (°C)\n°GL\$1_{20}$\$1_{21}$\$1_{22}$\$1_{23}$\$1_{24}$\$1_{25}$\$1_{35}$\$1_{35}$,0\$1_{34}$,6\$1_{34}$,2\$1_{33}$,8\$1_{33}$,4\$1_{33}$,0\$1_{36}$\$1_{36}$,0\$1_{35}$,6\$1_{35}$,2\$1_{34}$,8\$1_{34}$,4\$1_{34}$,0\n\nÉ necessária a correção da medida do instrumento, pois um aumento na temperatura promove o(a)",
       subItens: []
     },
     options: ["aumento da dissociação da água.","aumento da densidade da água e do álcool.","mudança do volume dos materiais por dilatação.","aumento da concentração de álcool durante a medida.","alteração das propriedades químicas da mistura álcool e água."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Um segmento de reta está dividido em duas partes na proporção áurea quando o todo está para uma das partes na mesma razão em que essa parte está para a outra. Essa constante de proporcionalidade é comumente representada pela letra grega φ, e seu valor é dado pela solução positiva da equação φ² = φ + 1. Assim como a potência φ², as potências superiores de φ podem ser expressas da forma aφ + b, em que a e b são inteiros positivos, como apresentado no quadro.\n\nφ²\nφ + 1\nφ³\n2φ + 1\nφ⁴\n3φ + 2\nφ⁵\n5φ + 3\nφ⁶\n8φ + 5\n\nA potência φ⁷, escrita na forma aφ + b (a e b são inteiros positivos), é",
+      principal: "Um segmento de reta está dividido em duas partes na proporção áurea quando o todo está para uma das partes na mesma razão em que essa parte está para a outra. Essa constante de proporcionalidade é comumente representada pela letra grega φ, e seu valor é dado pela solução positiva da equação φ² = φ + 1. Assim como a potência φ², as potências superiores de φ podem ser expressas da forma aφ + b, em que a e b são inteiros positivos, como apresentado no quadro.\n\nφ²\nφ + 1\nφ³\$1_{2}$φ + 1\nφ⁴\$1_{3}$φ + 2\nφ⁵\$1_{5}$φ + 3\nφ⁶\$1_{8}$φ + 5\n\nA potência φ⁷, escrita na forma aφ + b (a e b são inteiros positivos), é",
       subItens: []
     },
     options: ["5φ + 3","7φ + 2","9φ + 6","11φ + 7","13φ + 8"],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Uma rede de hamburgueria tem três franquias em cidades distintas. Visando incluir um novo tipo de lanche no cardápio, o gerente de marketing da rede sugeriu que fossem colocados à venda cinco novos tipos de lanche, em edições especiais. Os lanches foram oferecidos pelo mesmo período de tempo em todos os franqueados. O tipo que apresentasse a maior média por franquia seria incluído definitivamente no cardápio. Terminado o período de experiência, a gerência recebeu um relatório descrevendo as quantidades vendidas, em unidade, de cada um dos cinco tipos de lanche nas três franquias.\n\nLanche\nLanche I\nLanche II\nLanche III\nLanche IV\nLanche V\nFranquia I\n415\n395\n425\n430\n435\nFranquia II\n415\n445\n370\n370\n425\nFranquia III\n415\n390\n425\n433\n420\n\nCom base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo",
+      principal: "Uma rede de hamburgueria tem três franquias em cidades distintas. Visando incluir um novo tipo de lanche no cardápio, o gerente de marketing da rede sugeriu que fossem colocados à venda cinco novos tipos de lanche, em edições especiais. Os lanches foram oferecidos pelo mesmo período de tempo em todos os franqueados. O tipo que apresentasse a maior média por franquia seria incluído definitivamente no cardápio. Terminado o período de experiência, a gerência recebeu um relatório descrevendo as quantidades vendidas, em unidade, de cada um dos cinco tipos de lanche nas três franquias.\n\nLanche\nLanche I\nLanche II\nLanche III\nLanche IV\nLanche V\nFranquia I\$1_{415}$\$1_{395}$\$1_{425}$\$1_{430}$\$1_{435}$\nFranquia II\$1_{415}$\$1_{445}$\$1_{370}$\$1_{370}$\$1_{425}$\nFranquia III\$1_{415}$\$1_{390}$\$1_{425}$\$1_{433}$\$1_{420}$\n\nCom base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo",
       subItens: []
     },
     options: ["I.","II.","III.","IV.","V."],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Uma grande rede de supermercados adota um sistema de avaliação dos faturamentos de suas filiais, considerando a média de faturamento mensal em milhão. A matriz da rede paga uma comissão para os representantes dos supermercados que atingirem uma média de faturamento mensal (M), conforme apresentado no quadro.\n\nComissão\nMédia de faturamento mensal (M)\nI\n1 ≤ M < 2\nII\n2 ≤ M < 4\nIII\n4 ≤ M < 5\nIV\n5 ≤ M < 6\nV\nM ≥ 6\n\nUm supermercado da rede obteve os faturamentos num dado ano, conforme apresentado no quadro.\n\nFaturamento mensal (em milhão de real)\nQuantidade de meses\n3,5\n3\n2,5\n2\n5\n2\n3\n4\n7,5\n1\n\nNas condições apresentadas, os representantes desse supermercado avaliam que receberão, no ano seguinte, a comissão de tipo",
+      principal: "Uma grande rede de supermercados adota um sistema de avaliação dos faturamentos de suas filiais, considerando a média de faturamento mensal em milhão. A matriz da rede paga uma comissão para os representantes dos supermercados que atingirem uma média de faturamento mensal (M), conforme apresentado no quadro.\n\nComissão\nMédia de faturamento mensal (M)\nI\$1_{1}$ ≤ M < 2\nII\$1_{2}$ ≤ M < 4\nIII\$1_{4}$ ≤ M < 5\nIV\$1_{5}$ ≤ M < 6\nV\nM ≥ 6\n\nUm supermercado da rede obteve os faturamentos num dado ano, conforme apresentado no quadro.\n\nFaturamento mensal (em milhão de real)\nQuantidade de meses\$1_{3}$,5\$1_{3}$\$1_{2}$,5\$1_{2}$\$1_{5}$\$1_{2}$\$1_{3}$\$1_{4}$\$1_{7}$,5\$1_{1}$\n\nNas condições apresentadas, os representantes desse supermercado avaliam que receberão, no ano seguinte, a comissão de tipo",
       subItens: []
     },
     options: ["I.","II.","III.","IV.","V."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "O quadro apresenta o número de terremotos de magnitude maior ou igual a 7, na escala Richter, ocorridos em nosso planeta nos anos de 2000 a 2011.\n\nAno\n2000\n2001\n2002\n2003\n2004\n2005\n2006\n2007\n2008\n2009\n2010\n2011\nTerremotos\n15\n16\n13\n15\n16\n11\n11\n18\n12\n17\n24\n20\n\nUm pesquisador acredita que a mediana representa bem o número anual típico de terremotos em um período.\nSegundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou igual a 7 é",
+      principal: "O quadro apresenta o número de terremotos de magnitude maior ou igual a 7, na escala Richter, ocorridos em nosso planeta nos anos de 2000 a 2011.\n\nAno\$1_{2000}$\$1_{2001}$\$1_{2002}$\$1_{2003}$\$1_{2004}$\$1_{2005}$\$1_{2006}$\$1_{2007}$\$1_{2008}$\$1_{2009}$\$1_{2010}$\$1_{2011}$\nTerremotos\$1_{15}$\$1_{16}$\$1_{13}$\$1_{15}$\$1_{16}$\$1_{11}$\$1_{11}$\$1_{18}$\$1_{12}$\$1_{17}$\$1_{24}$\$1_{20}$\n\nUm pesquisador acredita que a mediana representa bem o número anual típico de terremotos em um período.\nSegundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou igual a 7 é",
       subItens: []
     },
     options: ["11.","15.","15,5.","15,7.","17,5."],
@@ -933,7 +933,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "A demografia médica é o estudo da população de médicos no Brasil nos aspectos quantitativo e qualitativo, sendo um dos seus objetivos fazer projeções sobre a necessidade da formação de novos médicos. Um desses estudos gerou um conjunto de dados que aborda a evolução do número de médicos e da população brasileira por várias décadas. O quadro apresenta parte desses dados.\n\nAno\nMédicos\nPopulação brasileira (em milhar)\n1990\n219 000\n147 000\n2000\n292 000\n170 000\n2010\n365 000\n191 000\n\nSegundo uma projeção estatística, a variação do número de médicos e o da população brasileira de 2010 para 2020 será a média entre a variação de 1990 para 2000 e a de 2000 para 2010. Com o resultado dessa projeção, determina-se o número de médicos por mil habitantes no ano de 2020.\nO número, com duas casas na parte decimal, mais próximo do número de médicos por mil habitantes no ano de 2020 seria de",
+      principal: "A demografia médica é o estudo da população de médicos no Brasil nos aspectos quantitativo e qualitativo, sendo um dos seus objetivos fazer projeções sobre a necessidade da formação de novos médicos. Um desses estudos gerou um conjunto de dados que aborda a evolução do número de médicos e da população brasileira por várias décadas. O quadro apresenta parte desses dados.\n\nAno\nMédicos\nPopulação brasileira (em milhar)\$1_{1990}$\$1_{219}$ 000\$1_{147}$ 000\$1_{2000}$\$1_{292}$ 000\$1_{170}$ 000\$1_{2010}$\$1_{365}$ 000\$1_{191}$ 000\n\nSegundo uma projeção estatística, a variação do número de médicos e o da população brasileira de 2010 para 2020 será a média entre a variação de 1990 para 2000 e a de 2000 para 2010. Com o resultado dessa projeção, determina-se o número de médicos por mil habitantes no ano de 2020.\nO número, com duas casas na parte decimal, mais próximo do número de médicos por mil habitantes no ano de 2020 seria de",
       subItens: []
     },
     options: ["0,17.","0,49.","1,71.","2,06.","3,32."],
@@ -978,7 +978,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Uma construtora, pretendendo investir na construção de imóveis em uma metrópole com cinco grandes regiões, fez uma pesquisa sobre a quantidade de famílias que mudaram de uma região para outra, de modo a determinar qual região foi o destino do maior fluxo de famílias, sem levar em consideração o número de famílias que deixaram a região. Os valores da pesquisa estão dispostos em uma matriz A = [aij], i, j∈ {1, 2, 3, 4, 5}, em que o elemento aij corresponde ao total de famílias (em dezena) que se mudaram da região i para a região j durante um certo período, e o elemento ajj é considerado nulo, uma vez que somente são consideradas mudanças entre regiões distintas. A seguir, está apresentada a matriz com os dados da pesquisa.\n\n0 4 2 2 5\n0 0 6 2 3\nA= 2 2 0 3 0\n1 0 2 0 4\n1 2 0 4 0\n\nQual região foi selecionada para o investimento da construtora?",
+      principal: "Uma construtora, pretendendo investir na construção de imóveis em uma metrópole com cinco grandes regiões, fez uma pesquisa sobre a quantidade de famílias que mudaram de uma região para outra, de modo a determinar qual região foi o destino do maior fluxo de famílias, sem levar em consideração o número de famílias que deixaram a região. Os valores da pesquisa estão dispostos em uma matriz A = [aij], i, j∈ {1, 2, 3, 4, 5}, em que o elemento aij corresponde ao total de famílias (em dezena) que se mudaram da região i para a região j durante um certo período, e o elemento ajj é considerado nulo, uma vez que somente são consideradas mudanças entre regiões distintas. A seguir, está apresentada a matriz com os dados da pesquisa.\n\$1_{0}$ 4 2 2 5\$1_{0}$ 0 6 2 3\nA= 2 2 0 3 0\$1_{1}$ 0 2 0 4\$1_{1}$ 2 0 4 0\n\nQual região foi selecionada para o investimento da construtora?",
       subItens: []
     },
     options: ["1","2","3","4","5"],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (I).\n\nPreço do produto (R)\nImposto devido (I)\nR ≤ 5 000\nisento\n5 000 < R ≤ 10 000\n10% de (R-5 000)\n10 000 < R ≤ 15 000\n500 + 30% de (R – 10 000)\n\nO gráfico que melhor representa essa relação é",
+      principal: "O quadro representa a relação entre o preço de um produto (R) e seu respectivo imposto devido (I).\n\nPreço do produto (R)\nImposto devido (I)\nR ≤ 5 000\nisento\$1_{5}$ 000 < R ≤ 10 000\$1_{10}$% de (R-5 000)\$1_{10}$ 000 < R ≤ 15 000\$1_{500}$ + 30% de (R – 10 000)\n\nO gráfico que melhor representa essa relação é",
       subItens: []
     },
     options: ["[GRÁFICO DE FUNÇÃO DEFINIDA POR PARTES A]","[GRÁFICO DE FUNÇÃO DEFINIDA POR PARTES B]","[GRÁFICO DE FUNÇÃO DEFINIDA POR PARTES C]","[GRÁFICO DE FUNÇÃO DEFINIDA POR PARTES D]","[GRÁFICO DE FUNÇÃO DEFINIDA POR PARTES E]"],
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Uma pessoa pretende viajar por uma companhia aérea que despacha gratuitamente uma mala com até 10 kg. Em duas viagens que realizou, essa pessoa utilizou a mesma mala e conseguiu 10 kg com as seguintes combinações de itens:\n\nViagem\nCamisetas\nCalças\nSapatos\nI\n12\n4\n3\nII\n18\n3\n2\n\nPara ter certeza de que sua bagagem terá massa de 10 kg, ela decide levar essa mala com duas calças, um sapato e o máximo de camisetas, admitindo que itens do mesmo tipo têm a mesma massa.\nQual a quantidade máxima de camisetas que essa pessoa poderá levar?",
+      principal: "Uma pessoa pretende viajar por uma companhia aérea que despacha gratuitamente uma mala com até 10 kg. Em duas viagens que realizou, essa pessoa utilizou a mesma mala e conseguiu 10 kg com as seguintes combinações de itens:\n\nViagem\nCamisetas\nCalças\nSapatos\nI\$1_{12}$\$1_{4}$\$1_{3}$\nII\$1_{18}$\$1_{3}$\$1_{2}$\n\nPara ter certeza de que sua bagagem terá massa de 10 kg, ela decide levar essa mala com duas calças, um sapato e o máximo de camisetas, admitindo que itens do mesmo tipo têm a mesma massa.\nQual a quantidade máxima de camisetas que essa pessoa poderá levar?",
       subItens: []
     },
     options: ["22","24","26","33","39"],
@@ -1203,7 +1203,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos do percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:\n\nTrechos do percurso\nFrequências cardíacas máximas (bpm)\nLeve no plano\n90\nForte no plano\n120\nSubida moderada\n130\nSubida forte\n140\n\nSabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre 65% e 85% da frequência cardíaca máxima (Fc máx.), que, por sua vez, é determinada pela fórmula:\nFc máx. = 220 - idade,\nem que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto).\nOs trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica ideal, para o ganho de condicionamento físico, são",
+      principal: "Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas frequências cardíacas em quatro diferentes tipos de trechos do percurso. Os resultados das frequências cardíacas máximas alcançadas nesses trechos foram:\n\nTrechos do percurso\nFrequências cardíacas máximas (bpm)\nLeve no plano\$1_{90}$\nForte no plano\$1_{120}$\nSubida moderada\$1_{130}$\nSubida forte\$1_{140}$\n\nSabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre 65% e 85% da frequência cardíaca máxima (Fc máx.), que, por sua vez, é determinada pela fórmula:\nFc máx. = 220 - idade,\nem que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto).\nOs trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica ideal, para o ganho de condicionamento físico, são",
       subItens: []
     },
     options: ["leve no plano, forte no plano, subida moderada e subida forte.","leve no plano, forte no plano e subida moderada.","forte no plano, subida moderada e subida forte.","forte no plano e subida moderada.","leve no plano e subida forte."],
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto:\nQuatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe símbolo correspondente ao zero;\n2. Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos valores. Exemplo: IX = 10 − 1 = 9;\n4. Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores. Exemplo: XI = 10 + 1 = 11.\nEm uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em 2050?",
+      principal: "O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto:\nQuatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\$1_{1}$. Não existe símbolo correspondente ao zero;\$1_{2}$. Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são adicionados. Exemplo: XXX = 30;\$1_{3}$. Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos valores. Exemplo: IX = 10 − 1 = 9;\$1_{4}$. Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores. Exemplo: XI = 10 + 1 = 11.\nEm uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em 2050?",
       subItens: []
     },
     options: ["379","381","579","581","601"],
@@ -1278,7 +1278,7 @@ createQuestion({
     university: "Prova de Ciências da Natureza e Suas Tecnologias e Prova de Matemática e Suas Tecnologias",
     year: 2021,
     text: {
-      principal: "Uma das bases mais utilizadas para representar um número é a base decimal. Entretanto, os computadores trabalham com números na base binária. Nessa base, qualquer número natural é representado usando apenas os algarismos 0 e 1. Por exemplo, as representações dos números 9 e 12, na base binária, são 1001 e 1100, respectivamente. A operação de adição, na base binária, segue um algoritmo similar ao utilizado na base decimal, como detalhado no quadro:\n\na\nb\na + b\n0\n0\n0\n0\n1\n1\n1\n0\n1\n1\n1\n10\n\nPor exemplo, na base binária, a soma dos números 10 e 10 é 100, como apresentado:\n10\n+ 10\n100\n\nConsiderando as informações do texto, o resultado da adição 9 + 12 será representado, na base binária, por",
+      principal: "Uma das bases mais utilizadas para representar um número é a base decimal. Entretanto, os computadores trabalham com números na base binária. Nessa base, qualquer número natural é representado usando apenas os algarismos 0 e 1. Por exemplo, as representações dos números 9 e 12, na base binária, são 1001 e 1100, respectivamente. A operação de adição, na base binária, segue um algoritmo similar ao utilizado na base decimal, como detalhado no quadro:\n\na\nb\na + b\$1_{0}$\$1_{0}$\$1_{0}$\$1_{0}$\$1_{1}$\$1_{1}$\$1_{1}$\$1_{0}$\$1_{1}$\$1_{1}$\$1_{1}$\$1_{10}$\n\nPor exemplo, na base binária, a soma dos números 10 e 10 é 100, como apresentado:\$1_{10}$\n+ 10\$1_{100}$\n\nConsiderando as informações do texto, o resultado da adição 9 + 12 será representado, na base binária, por",
       subItens: []
     },
     options: ["101.","1101.","1111.","10101.","11001."],

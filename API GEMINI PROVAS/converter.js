@@ -22,6 +22,56 @@ function letraParaIndice(letra) {
   return map[letra.toUpperCase()] ?? null;
 }
 
+/**
+ * Função que replica a lógica do script Python para formatar fórmulas para LaTeX.
+ * Aplica uma série de substituições baseadas em regex.
+ * @param {string} texto O conteúdo a ser formatado.
+ * @returns {string} O conteúdo com as fórmulas formatadas.
+ */
+function formatarFormulasLatex(texto) {
+  // Dicionário de regras de substituição: [padrão_regex, substituição_latex]
+  // A ordem é importante: das mais específicas para as mais gerais.
+  const substituicoes = [
+    // --- Notação Científica --- Ex: 1,0 x 10^-8  ->  $1,0 \times 10^{-8}$
+    [/(\d[\d,.]*)\s*[x×]\s*10\^?(-?\d+)/g, '$$1 \\times 10^{$2}$'],
+
+    // --- Equações Químicas completas --- Ex: CH4 + 2O2 -> CO2 + 2H2O
+    // Usamos uma função de callback para processamento mais complexo
+    [/([A-Z0-9\s()]+)\s*->\s*([A-Z0-9\s+()]+)/g, (match) => {
+      let eq = match.replace(/->/g, '\\rightarrow');
+      eq = eq.replace(/([A-Za-z])(\d+)/g, '$1_{$2}'); // Adiciona subscrito
+      return `$$${eq}$$`;
+    }],
+
+    // --- Símbolos e Variáveis Específicas ---
+    [/\b(lambda|theta|alpha|pi)\b/g, '\\$1'],
+    [/\bDelta_L\b/g, '$\\Delta L$'],
+    [/<=/g, '\\le'],
+
+    // --- Fórmulas Químicas (ex: H2O, CO2, NaHCO3) ---
+    [/\b([A-Z][a-z]*)(\d+)([A-Z]*)(\d*)\b/g, '$$1_{$2}$3_{$4}$'],
+    [/\b([A-Z])(\d+)\b/g, '$$1_{$2}$'],
+
+    // --- Íons (ex: Li+, Na+) ---
+    [/\b(Li|Na)\+/g, '$$1^+$'],
+
+    // --- Variáveis com números (ex: a1, T0, Vco2) ---
+    [/\b([A-Za-z]+)(\d+)\b/g, '$$1_{$2}$'],
+
+    // --- Funções com expoentes (ex: x^2, 1s^2) ---
+    [/(\w+)\^(\d+)\b/g, '$$1^{$2}$'],
+  ];
+
+  let textoFormatado = texto;
+  // Aplica cada regra de substituição
+  for (const [padrao, substituicao] of substituicoes) {
+    textoFormatado = textoFormatado.replace(padrao, substituicao);
+  }
+
+  return textoFormatado;
+}
+
+
 // Lê todos os arquivos do diretório de entrada
 fs.readdir(inputDir, (err, files) => {
   if (err) {
@@ -38,15 +88,13 @@ fs.readdir(inputDir, (err, files) => {
       // Lê o arquivo JSON original
       const data = JSON.parse(fs.readFileSync(inputFilePath, 'utf8'));
 
-      // Verifica se o JSON tem a estrutura esperada
       if (!data.questoes || !Array.isArray(data.questoes)) {
-        console.warn(`Arquivo ${file} não tem a estrutura esperada (chave 'questoes' não encontrada ou não é um array). Pulando.`);
+        console.warn(`Arquivo ${file} não tem a estrutura esperada. Pulando.`);
         return;
       }
 
-      // Constrói a saída no formato createQuestion
-      const output = data.questoes.map(q => {
-        // Extrair textos adicionais (Texto 1, Texto 2...) do enunciado
+      // 1. CONSTRÓI A SAÍDA no formato createQuestion
+      const outputInicial = data.questoes.map(q => {
         const subItens = [];
         const regex = /(Texto\s+\d+)([\s\S]*?)(?=Texto\s+\d+|$)/gi;
         let match;
@@ -57,8 +105,6 @@ fs.readdir(inputDir, (err, files) => {
             conteudo: match[2].trim()
           });
         }
-
-        // Texto principal = enunciado sem os "Texto X"
         const principal = enunciadoLimpo.replace(/Texto\s+\d+[\s\S]*?(?=Texto\s+\d+|$)/gi, '').trim();
 
         return `createQuestion({
@@ -77,14 +123,18 @@ fs.readdir(inputDir, (err, files) => {
   }),`;
       }).join('\n\n');
 
-      // Salva a saída
-      fs.writeFileSync(outputFilePath, output, 'utf8');
-      console.log(`Arquivo convertido: ${outputFileName}`);
+      // 2. APLICA A FORMATAÇÃO LATEX na saída gerada
+      console.log(`Formatando fórmulas LaTeX para ${outputFileName}...`);
+      const outputFinalFormatado = formatarFormulasLatex(outputInicial);
+
+      // 3. SALVA A SAÍDA final formatada
+      fs.writeFileSync(outputFilePath, outputFinalFormatado, 'utf8');
+      console.log(`Arquivo convertido e formatado: ${outputFileName}`);
 
     } catch (parseError) {
       console.error(`Erro ao processar o arquivo ${file}:`, parseError.message);
     }
   });
 
-  console.log('\nConversão de todos os arquivos concluída!');
+  console.log('\nConversão e formatação de todos os arquivos concluída!');
 });

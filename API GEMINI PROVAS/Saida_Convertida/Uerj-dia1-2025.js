@@ -63,7 +63,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Os aparelhos foram colocados, durante a estação seca, em torno de water holes – pequenos lagos, às vezes temporários, que são a principal fonte de água para a fauna da região em períodos de pouca chuva. (l. 19-21)\nO estudo científico descrito no texto foi realizado em um bioma comumente associado ao continente africano. Suas características ambientais, em especial o clima típico desse bioma, favoreceram a concentração espacial das espécies cujo comportamento foi analisado.\nO climograma anual que representa adequadamente esse bioma é:\n\n(C)\n°C\n25\n10\n5\n0-\n20\n(A)\n°C\n35\n15\n30\n25\nmm\n(B)\n°C\n140\n35\n120\n30\n100\n25\nmm\n210\n180\n20\n80\n20\n120\n10\n5\n0ㅜ\nJan\nFev\nMar\nAbr\nMai\n특\nAgo\nSet\nOut\nNov\nDez\n60\n15\n40\n10\n20\n5\n-0\n0-\nmm\n(D)\n°C\n125\n35\n30\n100\nJan\nFev\nMar\nAbr\nMai\n특\nAgo\nSet\nOut\nNov\nDez\nmm\n385\n25\n275\n15\n75\n20\n220\nJan\nFev\nMar\nAbr\nMai\nJun\nJul\nAgo\nSet\nOut\nNov\nDez\n50\n15\n10\n25\n5\n0\n0\nJan\nFev\nMar\nAbr\nMai\nJun\nJul\nAgo\nSet\nOut\nNov\nVestibular Estadual 2025\n1º Exame de Qualificação\nDez\n165\n110\n55\n5\n330\n90\n60\n30\n150",
+      principal: "Os aparelhos foram colocados, durante a estação seca, em torno de water holes – pequenos lagos, às vezes temporários, que são a principal fonte de água para a fauna da região em períodos de pouca chuva. (l. 19-21)\nO estudo científico descrito no texto foi realizado em um bioma comumente associado ao continente africano. Suas características ambientais, em especial o clima típico desse bioma, favoreceram a concentração espacial das espécies cujo comportamento foi analisado.\nO climograma anual que representa adequadamente esse bioma é:\n\n(C)\n°C\$1_{25}$\$1_{10}$\$1_{5}$\$1_{0}$-\$1_{20}$\n(A)\n°C\$1_{35}$\$1_{15}$\$1_{30}$\$1_{25}$\nmm\n(B)\n°C\$1_{140}$\$1_{35}$\$1_{120}$\$1_{30}$\$1_{100}$\$1_{25}$\nmm\$1_{210}$\$1_{180}$\$1_{20}$\$1_{80}$\$1_{20}$\$1_{120}$\$1_{10}$\$1_{5}$\$1_{0}$ㅜ\nJan\nFev\nMar\nAbr\nMai\n특\nAgo\nSet\nOut\nNov\nDez\$1_{60}$\$1_{15}$\$1_{40}$\$1_{10}$\$1_{20}$\$1_{5}$\n-0\$1_{0}$-\nmm\n(D)\n°C\$1_{125}$\$1_{35}$\$1_{30}$\$1_{100}$\nJan\nFev\nMar\nAbr\nMai\n특\nAgo\nSet\nOut\nNov\nDez\nmm\$1_{385}$\$1_{25}$\$1_{275}$\$1_{15}$\$1_{75}$\$1_{20}$\$1_{220}$\nJan\nFev\nMar\nAbr\nMai\nJun\nJul\nAgo\nSet\nOut\nNov\nDez\$1_{50}$\$1_{15}$\$1_{10}$\$1_{25}$\$1_{5}$\$1_{0}$\$1_{0}$\nJan\nFev\nMar\nAbr\nMai\nJun\nJul\nAgo\nSet\nOut\nNov\nVestibular Estadual 2025\$1_{1}$º Exame de Qualificação\nDez\$1_{165}$\$1_{110}$\$1_{55}$\$1_{5}$\$1_{330}$\$1_{90}$\$1_{60}$\$1_{30}$\$1_{150}$",
       subItens: []
     },
     options: ["(A) [Climograma A]","(B) [Climograma B]","(C) [Climograma C]","(D) [Climograma D]"],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Das dez avaliações aplicadas em um curso, um aluno, por motivos de saúde, faltou à nona e à décima. O professor decidiu então substituir a ausência de cada nota pela moda x das oito primeiras avaliações, conforme registrado a seguir.\nAVALIAÇÕES\nNotas\n1a\n4,0\n2ª\n5,0\n3ª\n8,0\n4a\n6,0\n5ª\n6,0\n6ª\n7,0\n7a\n9,0\n8ª\n6,0\n9a\nX\n10ª\nX\nA média aritmética final desse aluno foi:\n(A) 5,8\n(B) 6,3\n(C) 6,8\n(D) 7,3",
+      principal: "Das dez avaliações aplicadas em um curso, um aluno, por motivos de saúde, faltou à nona e à décima. O professor decidiu então substituir a ausência de cada nota pela moda x das oito primeiras avaliações, conforme registrado a seguir.\nAVALIAÇÕES\nNotas\n1a\$1_{4}$,0\$1_{2}$ª\$1_{5}$,0\$1_{3}$ª\$1_{8}$,0\n4a\$1_{6}$,0\$1_{5}$ª\$1_{6}$,0\$1_{6}$ª\$1_{7}$,0\n7a\$1_{9}$,0\$1_{8}$ª\$1_{6}$,0\n9a\nX\$1_{10}$ª\nX\nA média aritmética final desse aluno foi:\n(A) 5,8\n(B) 6,3\n(C) 6,8\n(D) 7,3",
       subItens: []
     },
     options: ["5,8","6,3","6,8","7,3"],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "A figura a seguir ilustra o deslocamento de uma partícula pelo percurso FGHI, partindo de F, sobre os arcos e sobre a reta, conforme a indicação abaixo.\n\nG\nF\nObserve:\n• CD = re CE = 2r;\nH\n• DCI = 30° e ECF = 60°;\n• as retas DE e HG são perpendiculares no ponto C;\n• os arcos de circunferência DIH e EFG possuem centro C.\nC\nD\nE\nO comprimento total do percurso FGHI, feito pela partícula, é igual a:\n2πγ\n(A)\n+ r\n3\n2πι\n(B)\n+ 2r\n3\nπι\n(C)\n+ 2r\n3\nπγ\n(D)\n+ r\n3",
+      principal: "A figura a seguir ilustra o deslocamento de uma partícula pelo percurso FGHI, partindo de F, sobre os arcos e sobre a reta, conforme a indicação abaixo.\n\nG\nF\nObserve:\n• CD = re CE = 2r;\nH\n• DCI = 30° e ECF = 60°;\n• as retas DE e HG são perpendiculares no ponto C;\n• os arcos de circunferência DIH e EFG possuem centro C.\nC\nD\nE\nO comprimento total do percurso FGHI, feito pela partícula, é igual a:\$1_{2}$πγ\n(A)\n+ r\$1_{3}$\$1_{2}$πι\n(B)\n+ 2r\$1_{3}$\nπι\n(C)\n+ 2r\$1_{3}$\nπγ\n(D)\n+ r\$1_{3}$",
       subItens: []
     },
     options: ["2πγ/3 + r","2πr/3 + 2r","πr/3 + 2r","πr/3 + r"],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Para construir um alvo de dardos como o da figura 1, foram traçados dois círculos de centro D, um de raio r e outro de raio 2r, conforme ilustra a figura 2. Duas regiões são observadas no alvo: I, definida pelo círculo menor; II, a da coroa circular.\n\nFigura 1\nFigura 2\n\nD\nregião I\nregião II\nConsidere que um dardo lançado por uma pessoa sempre atinge o alvo em qualquer ponto das regiões I ou II, sendo a probabilidade de acertar cada região diretamente proporcional à sua respectiva área.\nAssim, ao lançar um dardo, a probabilidade de essa pessoa acertar a região II é igual a:\n5\n(A)\n6\n2\n(B)\n3\n3\n(C)\n4\n1\n(D)\n2",
+      principal: "Para construir um alvo de dardos como o da figura 1, foram traçados dois círculos de centro D, um de raio r e outro de raio 2r, conforme ilustra a figura 2. Duas regiões são observadas no alvo: I, definida pelo círculo menor; II, a da coroa circular.\n\nFigura 1\nFigura 2\n\nD\nregião I\nregião II\nConsidere que um dardo lançado por uma pessoa sempre atinge o alvo em qualquer ponto das regiões I ou II, sendo a probabilidade de acertar cada região diretamente proporcional à sua respectiva área.\nAssim, ao lançar um dardo, a probabilidade de essa pessoa acertar a região II é igual a:\$1_{5}$\n(A)\$1_{6}$\$1_{2}$\n(B)\$1_{3}$\$1_{3}$\n(C)\$1_{4}$\$1_{1}$\n(D)\$1_{2}$",
       subItens: []
     },
     options: ["5/6","2/3","3/4","1/2"],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Considere o gráfico abaixo, que representa a variação da corrente elétrica i, em ampères, em função do tempo t, em segundos, observada nos condutores X e Y.\n\ni (A)\n\n12\n\ncondutor X\ncondutor Y\n2\n5\nt (s)\nSabe-se que Qₓ e Qᵧ correspondem aos valores da carga elétrica que passa por uma seção transversal de cada condutor.\nQuando t = 5 s, o módulo da diferença entre Qₓ e Qᵧ, em coulombs, é igual a:",
+      principal: "Considere o gráfico abaixo, que representa a variação da corrente elétrica i, em ampères, em função do tempo t, em segundos, observada nos condutores X e Y.\n\ni (A)\n\$1_{12}$\n\ncondutor X\ncondutor Y\$1_{2}$\$1_{5}$\nt (s)\nSabe-se que Qₓ e Qᵧ correspondem aos valores da carga elétrica que passa por uma seção transversal de cada condutor.\nQuando t = 5 s, o módulo da diferença entre Qₓ e Qᵧ, em coulombs, é igual a:",
       subItens: []
     },
     options: ["22","20","18","16"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Em um laboratório, com sistema fechado sob condições isobáricas, realizou-se o estudo da seguinte reação química:\n3 O₂ (g) ⇌ 2 O₃ (g)\nAo longo do estudo, foram monitorados cinco parâmetros: volume, massa, pressão, quantidade de átomos e número de moléculas. Observe no gráfico a variação do volume em função do tempo:\n\nvolume\ntempo\nA variação do volume registrada decorre da redução do seguinte parâmetro monitorado:",
+      principal: "Em um laboratório, com sistema fechado sob condições isobáricas, realizou-se o estudo da seguinte reação química:\$1_{3}$ O₂ (g) ⇌ 2 O₃ (g)\nAo longo do estudo, foram monitorados cinco parâmetros: volume, massa, pressão, quantidade de átomos e número de moléculas. Observe no gráfico a variação do volume em função do tempo:\n\nvolume\ntempo\nA variação do volume registrada decorre da redução do seguinte parâmetro monitorado:",
       subItens: []
     },
     options: ["massa","pressão","quantidade de átomos","número de moléculas"],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "O documento cartográfico abaixo surgiu e se disseminou na época do III Reich alemão (1933-1945).\nA tradução de seu título é: “A raça nórdica e os germânicos como difusores de cultura”.\n\nDIE NORDISCHE RASSE UND DIE GERMANEN ALS KULTURTRÄGER\nNordamerika\nu. Australien\nヤーローSüdafrika\nu.Südamerika\nSpanische\nSelsachs\nAntr\nFranzös\nGermanische\nREES\nCHE\nbezw.\neutsche\n----\n←--\nRusscher ---- Sibirieート\nAltsla Schek\n-----\nn. China A\nbis na\nSvotischek\nAltas\n0\nn. Indien\nersischeк\n←erische K\nAdaptado de reddit.com.\nConsiderando o contexto histórico da época, a disseminação do documento permite identificar o uso da cartografia com a seguinte finalidade principal:",
+      principal: "O documento cartográfico abaixo surgiu e se disseminou na época do III Reich alemão (1933-1945).\nA tradução de seu título é: “A raça nórdica e os germânicos como difusores de cultura”.\n\nDIE NORDISCHE RASSE UND DIE GERMANEN ALS KULTURTRÄGER\nNordamerika\nu. Australien\nヤーローSüdafrika\nu.Südamerika\nSpanische\nSelsachs\nAntr\nFranzös\nGermanische\nREES\nCHE\nbezw.\neutsche\n----\n←--\nRusscher ---- Sibirieート\nAltsla Schek\n-----\nn. China A\nbis na\nSvotischek\nAltas\$1_{0}$\nn. Indien\nersischeк\n←erische K\nAdaptado de reddit.com.\nConsiderando o contexto histórico da época, a disseminação do documento permite identificar o uso da cartografia com a seguinte finalidade principal:",
       subItens: []
     },
     options: ["assegurar associação política","exercer regulação econômica","estabelecer liderança científica","fomentar propaganda ideológica"],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "(...) Temperatura sufocante. Ο ar está irrespirável. O país está sendo varrido por fortes ventos. Máx.: 38°, em Brasília. Mín.: 5°, nas Laranjeiras.\nJORNAL DO BRASIL\nAN LEIRIE\nOntem foi\ndas Cegos\n12\nGoverno baixa Ato Institucional e coloca\nCongresso em recesso por tempo ilimitado\nO Ato Lastigacional nº 5\nArt. 5º - A suspensão dos direitos políticos com base neste Ato importa simultâneamente em:\n1°) cessação de privilégio de fôro por prerrogativa de função;\n2°) suspensão do direito de votar e ser votado nas eleições sindicais;\n3°) proibição de atividades e manifestações sôbre assuntos de natureza política;\n4°) aplicação, quando necessária, das seguintes medidas de segurança:\na) liberdade vigiada;\nb) proibição de frequentar determinados lugares;\nc) domicílio determinado.\nO Ato Complementar n. 38\nP\na Garis Ov\nBonifácio declara que Ato\nresulta de várias crises\nARVEL\njb.com.br\nEm 13 de dezembro de 1968, o governo militar brasileiro decretou o Ato Institucional nº 5. A notícia circulou no dia seguinte nos principais meios de comunicação do país.\nNos trechos destacados acima, da primeira página da edição do Jornal do Brasil que noticiou o fato, são identificados os seguintes aspectos daquela conjuntura política:",
+      principal: "(...) Temperatura sufocante. Ο ar está irrespirável. O país está sendo varrido por fortes ventos. Máx.: 38°, em Brasília. Mín.: 5°, nas Laranjeiras.\nJORNAL DO BRASIL\nAN LEIRIE\nOntem foi\ndas Cegos\$1_{12}$\nGoverno baixa Ato Institucional e coloca\nCongresso em recesso por tempo ilimitado\nO Ato Lastigacional nº 5\nArt. 5º - A suspensão dos direitos políticos com base neste Ato importa simultâneamente em:\$1_{1}$°) cessação de privilégio de fôro por prerrogativa de função;\$1_{2}$°) suspensão do direito de votar e ser votado nas eleições sindicais;\$1_{3}$°) proibição de atividades e manifestações sôbre assuntos de natureza política;\$1_{4}$°) aplicação, quando necessária, das seguintes medidas de segurança:\na) liberdade vigiada;\nb) proibição de frequentar determinados lugares;\nc) domicílio determinado.\nO Ato Complementar n. 38\nP\na Garis Ov\nBonifácio declara que Ato\nresulta de várias crises\nARVEL\njb.com.br\nEm 13 de dezembro de 1968, o governo militar brasileiro decretou o Ato Institucional nº 5. A notícia circulou no dia seguinte nos principais meios de comunicação do país.\nNos trechos destacados acima, da primeira página da edição do Jornal do Brasil que noticiou o fato, são identificados os seguintes aspectos daquela conjuntura política:",
       subItens: []
     },
     options: ["consolidação da ordem autoritária – ampliação da censura","regulação do equilíbrio democrático – garantia da revolução","manutenção do preceito constitucional – defesa da legislatura","reestruturação da jurisprudência criminal – limitação do estatismo"],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "EXPANSÃO DA AGLOMERAÇÃO URBANA DE BUENOS AIRES\n\n1867\n1892\n\n1918\n1943\n\n1964\n2000\nDisponível em reddit.com.\nNa sequência de imagens, registra-se o seguinte processo socioespacial:",
+      principal: "EXPANSÃO DA AGLOMERAÇÃO URBANA DE BUENOS AIRES\n\$1_{1867}$\$1_{1892}$\n\$1_{1918}$\$1_{1943}$\n\$1_{1964}$\$1_{2000}$\nDisponível em reddit.com.\nNa sequência de imagens, registra-se o seguinte processo socioespacial:",
       subItens: []
     },
     options: ["colonização","verticalização","industrialização","metropolização"],
@@ -873,7 +873,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "ΜΑΡΑ 1\nΜΑΡΑ 2\n\nAdaptado de dailyyonder.com.\nmais de 30% ■10-20%\n5-10%\nAdaptado de reddit.com.\nNo mapa 1, estão destacadas todas as áreas metropolitanas dos Estados Unidos; já no mapa 2, destacam-se apenas áreas metropolitanas nas quais o transporte público para ir ao trabalho é utilizado por uma parcela superior a 5% da população metropolitana.\nA partir da comparação entre os mapas 1 e 2, ambos de 2021, infere-se que a maioria das áreas metropolitanas do país apresenta a seguinte característica socioespacial:",
+      principal: "ΜΑΡΑ 1\nΜΑΡΑ 2\n\nAdaptado de dailyyonder.com.\nmais de 30% ■10-20%\$1_{5}$-10%\nAdaptado de reddit.com.\nNo mapa 1, estão destacadas todas as áreas metropolitanas dos Estados Unidos; já no mapa 2, destacam-se apenas áreas metropolitanas nas quais o transporte público para ir ao trabalho é utilizado por uma parcela superior a 5% da população metropolitana.\nA partir da comparação entre os mapas 1 e 2, ambos de 2021, infere-se que a maioria das áreas metropolitanas do país apresenta a seguinte característica socioespacial:",
       subItens: []
     },
     options: ["elevada poluição atmosférica","reduzida movimentação pendular","acentuada verticalização comercial","moderada suburbanização residencial"],
