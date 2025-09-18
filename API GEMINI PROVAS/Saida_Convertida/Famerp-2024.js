@@ -108,7 +108,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Leia a narrativa \"O protetor\", de Millôr Fernandes, para responder às questões 08 e 09.\n\nO homem vinha guiando o carro a 120 km/h quando o pneu furou. O carro deu três voltas sobre si mesmo, foi atirado pelos ares, bateu num galho de árvore e, quando ia se esborrachando no chão, alguém o segurou sem que ele pudesse ver quem. Ele ficou um pouco tonto e foi aí que ouviu a voz misteriosa que lhe disse: “Não se estás morto, não! Estás vivo! Eu continuo aqui para proteger-te. Sou teu anjo da guarda. Quando tiveste aquele ataque de coqueluche, aos seis meses de idade, eu estava lá para te salvar. Quando ficaste na frente do trem, aos seis anos, eu estava lá para te ajudar. Quando foste para a guerra na Itália, quando saltaste de paraquedas na Coreia, quando ias te afogando em Copacabana, sempre fui eu quem te ajudou.”\n\n“Está bem, está bem, muito obrigado”, disse então o homem agradecido. “Mas onde diabos estava você quando eu me casei?”\n\n(Millôr Fernandes. Contos fabulosos, 2007.)\n\nA pergunta do homem a seu anjo da guarda revela, sobretudo, um sentimento de",
+      principal: "Leia a narrativa \"O protetor\", de Millôr Fernandes, para responder às questões 08 e 09.\n\nO homem vinha guiando o carro a 120 $\\\\frac{km}{h}$ quando o pneu furou. O carro deu três voltas sobre si mesmo, foi atirado pelos ares, bateu num galho de árvore e, quando ia se esborrachando no chão, alguém o segurou sem que ele pudesse ver quem. Ele ficou um pouco tonto e foi aí que ouviu a voz misteriosa que lhe disse: “Não se estás morto, não! Estás vivo! Eu continuo aqui para proteger-te. Sou teu anjo da guarda. Quando tiveste aquele ataque de coqueluche, aos seis meses de idade, eu estava lá para te salvar. Quando ficaste na frente do trem, aos seis anos, eu estava lá para te ajudar. Quando foste para a guerra na Itália, quando saltaste de paraquedas na Coreia, quando ias te afogando em Copacabana, sempre fui eu quem te ajudou.”\n\n“Está bem, está bem, muito obrigado”, disse então o homem agradecido. “Mas onde diabos estava você quando eu me casei?”\n\n(Millôr Fernandes. Contos fabulosos, 2007.)\n\nA pergunta do homem a seu anjo da guarda revela, sobretudo, um sentimento de",
       subItens: []
     },
     options: ["enfado.","indiferença.","mágoa.","resignação.","arrogância."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Escala de ventos de furacões Saffir-Simpson\n\n[Tabela apresentando as Categorias de furacões (1 a 5) com as respectivas velocidades de vento em km/h e danos associados. (Camila Costa et al. www.bbc.com, 26.08.2020.)]\n\nEntre os aspectos naturais que influenciam a intensidade de um furacão está",
+      principal: "Escala de ventos de furacões Saffir-Simpson\n\n[Tabela apresentando as Categorias de furacões (1 a 5) com as respectivas velocidades de vento em $\\\\frac{km}{h}$ e danos associados. (Camila Costa et al. www.bbc.com, 26.08.2020.)]\n\nEntre os aspectos naturais que influenciam a intensidade de um furacão está",
       subItens: []
     },
     options: ["a presença de ventos contra-alísios.","o seu trajeto em áreas de elevada latitude.","a temperatura elevada da água oceânica.","a sua formação em zona de alta pressão.","o baixo índice de umidade."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Leia a tirinha do cartunista Fernando Gonsalez.\n\n[Tirinha de Fernando Gonsalez com besouros. No primeiro quadro, um besouro deitado diz: \"UM ESPECIALISTA EM BESOUROS FAZ UM DESEJO ANTES DE MORRER QUERO REENCARNAR COMO UM BESOURO!\". No segundo, outro besouro diz: \"VAMOS TRANSAR?\". No terceiro, o primeiro besouro recusa: \"NÃO! VOCÊ É DA ESPÉCIE Chrysomeles andersonii E EU SOU UM Chrysomeles albinatus\". ($1_{1}$.folha.uol.com.br. Adaptado.)]\n\nA tirinha aborda de forma bem humorada uma possível incompatibilidade reprodutiva entre os dois besouros. No entanto, esse cruzamento pode ocorrer e gerar descendentes",
+      principal: "Leia a tirinha do cartunista Fernando Gonsalez.\n\n[Tirinha de Fernando Gonsalez com besouros. No primeiro quadro, um besouro deitado diz: \"UM ESPECIALISTA EM BESOUROS FAZ UM DESEJO ANTES DE MORRER QUERO REENCARNAR COMO UM BESOURO!\". No segundo, outro besouro diz: \"VAMOS TRANSAR?\". No terceiro, o primeiro besouro recusa: \"NÃO! VOCÊ É DA ESPÉCIE Chrysomeles andersonii E EU SOU UM Chrysomeles albinatus\". (www_{1}.folha.uol.com.br. Adaptado.)]\n\nA tirinha aborda de forma bem humorada uma possível incompatibilidade reprodutiva entre os dois besouros. No entanto, esse cruzamento pode ocorrer e gerar descendentes",
       subItens: []
     },
     options: ["inviáveis, pois os besouros são de gêneros diferentes.","inviáveis, pois os besouros são de espécies diferentes.","viáveis, pois os besouros são do mesmo subgênero.","viáveis, pois os besouros são da mesma espécie.","inviáveis, pois os besouros são de famílias diferentes."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "O gás ozônio é uma substância química ambígua do ponto de vista ambiental. Na troposfera, o ozônio é tóxico devido ao caráter oxidante. Na estratosfera, absorve radiação ultravioleta nociva ao ser humano por meio de um processo natural que leva à contínua formação e fragmentação da molécula, como representado na imagem.\n\n[Diagrama mostrando a quebra de $1_{3}_{}$ por raios ultravioleta em $1_{2}_{}$ + O, e a formação de $1_{3}_{}$ a partir de $1_{2}_{}$ + O. (www.wwf.org.br. Adaptado.)]\n\nO processo ilustrado na imagem envolve a participação de",
+      principal: "O gás ozônio é uma substância química ambígua do ponto de vista ambiental. Na troposfera, o ozônio é tóxico devido ao caráter oxidante. Na estratosfera, absorve radiação ultravioleta nociva ao ser humano por meio de um processo natural que leva à contínua formação e fragmentação da molécula, como representado na imagem.\n\n[Diagrama mostrando a quebra de O_{3} por raios ultravioleta em O_{2} + O, e a formação de O_{3} a partir de O_{2} + O. (www.wwf.org.br. Adaptado.)]\n\nO processo ilustrado na imagem envolve a participação de",
       subItens: []
     },
     options: ["um elemento químico e dois alótropos do oxigênio.","um elemento químico e dois isóbaros do oxigênio.","um elemento químico e dois isótopos do oxigênio.","três substâncias químicas e dois alótropos do oxigênio.","três substâncias químicas e dois isóbaros do oxigênio."],
@@ -783,10 +783,10 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "O lítio é um metal alcalino economicamente importante e bastante versátil. A forma iônica desse elemento químico combinada ao íon carbonato ($1_{32}$-) forma o carbonato de lítio, composto iônico empregado como medicamento no tratamento do transtorno bipolar.\n\nA fórmula do composto iônico de lítio mencionado no texto e a distribuição eletrônica em níveis e subníveis de energia do íon lítio são:",
+      principal: "O lítio é um metal alcalino economicamente importante e bastante versátil. A forma iônica desse elemento químico combinada ao íon carbonato (CO_{32}-) forma o carbonato de lítio, composto iônico empregado como medicamento no tratamento do transtorno bipolar.\n\nA fórmula do composto iônico de lítio mencionado no texto e a distribuição eletrônica em níveis e subníveis de energia do íon lítio são:",
       subItens: []
     },
-    options: ["$1_{2}CO_{3}$ e 1s2 2s¹","$1_{2}CO_{3}$ e 1s²","$1_{3}$ e 1s²","Li($1_{3}$)2 e 1s²","Li($1_{3}$)2 e 1s2 2s1"],
+    options: ["Li2CO3 e 1s2 2s¹","Li2CO3 e 1s²","LICO3 e 1s²","Li(CO3)2 e 1s²","Li(CO3)2 e 1s2 2s1"],
     correctAnswer: 1,
     materia: "Química – Ligações Químicas (Compostos Iônicos) e Estrutura Atômica",
     conteudo: "",
@@ -798,7 +798,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Analise o primeiro verso do poema \"Psicologia de um Vencido\", de Augusto dos Anjos, que faz alusão à composição química dos seres humanos restringindo-a ao elemento químico carbono e ao composto amônia ($1_{3}$).\n\nEu, filho do carbono e do amoníaco,\nMonstro de escuridão e rutilância,\nSofro, desde a epigênesis da infância,\nA influência má dos signos do zodíaco.\n\nTodos os elementos químicos identificados no poema podem ser encontrados nas moléculas de",
+      principal: "Analise o primeiro verso do poema \"Psicologia de um Vencido\", de Augusto dos Anjos, que faz alusão à composição química dos seres humanos restringindo-a ao elemento químico carbono e ao composto amônia (NH_{3}).\n\nEu, filho do carbono e do amoníaco,\nMonstro de escuridão e rutilância,\nSofro, desde a epigênesis da infância,\nA influência má dos signos do zodíaco.\n\nTodos os elementos químicos identificados no poema podem ser encontrados nas moléculas de",
       subItens: []
     },
     options: ["polissacarídeos.","carboidratos.","lipídeos.","enzimas.","ácidos graxos."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Um médico prescreve para seu paciente a infusão de 30 mL de uma solução preparada pela diluição de 400 mg de determinado medicamento em 240 mL de soro glicosado a 5% (m/v).\n\nAs massas do medicamento e de glicose administradas ao paciente são, respectivamente, de",
+      principal: "Um médico prescreve para seu paciente a infusão de 30 mL de uma solução preparada pela diluição de 400 mg de determinado medicamento em 240 mL de soro glicosado a 5% ($\\\\frac{m}{v}$).\n\nAs massas do medicamento e de glicose administradas ao paciente são, respectivamente, de",
       subItens: []
     },
     options: ["0,18 g e 1,2 g.","1,8 g e 1,5 g.","0,05 g e 1,5 g.","0,05 g e 1,2 g.","0,5 g e 1,5 g."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Analise os dados extraídos dos rótulos de duas marcas de água mineral.\n\n[Tabela: Composição química (mg/L) para Água mineral 1 e Água mineral 2. Inclui pH, Bicarbonato, Carbonato, Sódio, Potássio, Nitrato.]\n\nA concentração de íons H⁺ na água mineral 1 é da ordem de 104 vezes ______ que na água mineral 2. Contribuem para o elevado pH da água mineral 2 a presença dos íons ______ e ______. As lacunas do texto são preenchidas, respectivamente, por",
+      principal: "Analise os dados extraídos dos rótulos de duas marcas de água mineral.\n\n[Tabela: Composição química ($\\\\frac{mg}{L}$) para Água mineral 1 e Água mineral 2. Inclui pH, Bicarbonato, Carbonato, Sódio, Potássio, Nitrato.]\n\nA concentração de íons H⁺ na água mineral 1 é da ordem de 104 vezes ______ que na água mineral 2. Contribuem para o elevado pH da água mineral 2 a presença dos íons ______ e ______. As lacunas do texto são preenchidas, respectivamente, por",
       subItens: []
     },
     options: ["menor; bicarbonato e sódio.","menor; potássio e nitrato.","maior; bicarbonato e sódio.","maior; sódio e potássio.","maior; bicarbonato e carbonato."],
@@ -861,7 +861,7 @@ createQuestion({
       principal: "Indicadores ácido-base são compostos químicos que alteram a coloração da solução aquosa em função do pH. A equação mostra o equilíbrio químico da fenolftaleína em meio aquoso. Esse indicador muda a cor da solução em pH ao redor de 8.\n\n[Esquema do equilíbrio químico da fenolftaleína, mostrando a forma incolor (ácida) e a forma rosa (básica).]\n\nA fenolftaleína deixa rosa a solução aquosa de",
       subItens: []
     },
-    options: ["$1_{2}_{}$($1_{4}$)3","HCl","NH4Cl","NH4OH","ΚΝΟ3"],
+    options: ["Al2(SO4)3","HCl","NH4Cl","NH4OH","ΚΝΟ3"],
     correctAnswer: 3,
     materia: "Química – Funções Inorgânicas (Ácidos e Bases)",
     conteudo: "",
@@ -873,7 +873,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "A reciclagem do alumínio no Brasil é fonte de renda para coletores de material reciclado, além de proporcionar relevante economia de recursos e energia quando comparado à produção do metal por meio da eletrólise da alumina fundida. Uma lata de refrigerante vazia pesa em média 13,5 g e consome a carga correspondente a 1 Faraday (96500 C) para cada mol de elétrons envolvidos no processo. A equação representa a reação de redução do alumínio durante a eletrólise da alumina fundida.\n\$1_{3}$+ (l) + 3 e- → Al (l)\níon metal\n\nO tempo de eletrólise necessário para a produção da massa de alumínio correspondente a uma lata de refrigerante, utilizando uma corrente de 10 A, é de, aproximadamente,",
+      principal: "A reciclagem do alumínio no Brasil é fonte de renda para coletores de material reciclado, além de proporcionar relevante economia de recursos e energia quando comparado à produção do metal por meio da eletrólise da alumina fundida. Uma lata de refrigerante vazia pesa em média 13,5 g e consome a carga correspondente a 1 Faraday (96500 C) para cada mol de elétrons envolvidos no processo. A equação representa a reação de redução do alumínio durante a eletrólise da alumina fundida.\n\nAl_{3}+ (l) + 3 e- → Al (l)\níon metal\n\nO tempo de eletrólise necessário para a produção da massa de alumínio correspondente a uma lata de refrigerante, utilizando uma corrente de 10 A, é de, aproximadamente,",
       subItens: []
     },
     options: ["240 minutos.","150 minutos.","90 minutos.","520 minutos.","40 minutos."],
@@ -903,7 +903,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "A altitude máxima que um avião comercial pode atingir é estabelecida em torno dos 40 mil pés (cerca de 12,2 km). Esse limite é conhecido como \"teto de serviço\". A maioria dos jatos comerciais voa em níveis próximos a esse limite para otimizar a eficiência de consumo de combustível.\n\n(https://noticias.$1_{7}$.com. Adaptado.)\n\nNa aviação, utiliza-se a unidade pé nas indicações de altitude. Um pé equivale a, aproximadamente,",
+      principal: "A altitude máxima que um avião comercial pode atingir é estabelecida em torno dos 40 mil pés (cerca de 12,2 km). Esse limite é conhecido como \"teto de serviço\". A maioria dos jatos comerciais voa em níveis próximos a esse limite para otimizar a eficiência de consumo de combustível.\n\n(https://noticias.r_{7}.com. Adaptado.)\n\nNa aviação, utiliza-se a unidade pé nas indicações de altitude. Um pé equivale a, aproximadamente,",
       subItens: []
     },
     options: ["53,8 cm.","25,4 cm.","30,5 cm.","35,0 cm.","38, 6 cm."],
@@ -918,7 +918,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Em uma cobrança de pênalti, um jogador de futebol chuta a bola em direção ao gol com velocidade média de 108 km/h. A partir do momento em que perde contato com o pé do jogador, a bola demora apenas 0,4 segundos para chegar à linha do gol. Durante esse período, a distância percorrida pela bola foi de",
+      principal: "Em uma cobrança de pênalti, um jogador de futebol chuta a bola em direção ao gol com velocidade média de 108 $\\\\frac{km}{h}$. A partir do momento em que perde contato com o pé do jogador, a bola demora apenas 0,4 segundos para chegar à linha do gol. Durante esse período, a distância percorrida pela bola foi de",
       subItens: []
     },
     options: ["15 m.","14 m.","11 m.","10 m.","12 m."],
@@ -933,7 +933,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Uma toalha retangular e homogênea, de comprimento L, está apoiada em um suporte horizontal. As partes da toalha pendentes de cada lado do suporte têm comprimentos L₁ e L₂, como mostra a imagem. Considere que L₁ + L₂ = L.\n\n[Imagem de uma toalha retangular pendurada em um suporte horizontal, com comprimentos $1_{1}_{}$ e $1_{2}_{}$ pendentes. (www.dmix.com.br. Adaptado.)]\n\nEssa toalha permanece em repouso porque",
+      principal: "Uma toalha retangular e homogênea, de comprimento L, está apoiada em um suporte horizontal. As partes da toalha pendentes de cada lado do suporte têm comprimentos L₁ e L₂, como mostra a imagem. Considere que L₁ + L₂ = L.\n\n[Imagem de uma toalha retangular pendurada em um suporte horizontal, com comprimentos L_{1} e L_{2} pendentes. (www.dmix.com.br. Adaptado.)]\n\nEssa toalha permanece em repouso porque",
       subItens: []
     },
     options: ["o atrito entre a superfície da toalha e a superfície do suporte produz uma força de intensidade maior do que o peso da toalha.","o atrito entre a superfície da toalha e a superfície do suporte produz uma força contrária à tendência de movimento, de intensidade suficiente para impedir o deslizamento da toalha.","o peso da parte da toalha de comprimento L₁ é menor do que a intensidade da força de atrito entre a superfície da toalha e a superfície do suporte.","o suporte aplica na toalha uma força normal de intensidade maior do que o peso da toalha.","o peso da parte da toalha de comprimento L₂ é menor do que a intensidade da força de atrito entre a superfície da toalha e a superfície do suporte."],
@@ -948,7 +948,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Uma bola de basquetebol, de massa 600 g, é abandonada de uma altura de 1,90 m em relação ao solo. A bola colide com o solo e retorna a uma altura de 1,50 m. Desprezando a resistência com o ar e adotando o valor de 10 m/s² para a aceleração da gravidade, a energia mecânica dissipada durante a colisão dessa bola com o solo possui valor de",
+      principal: "Uma bola de basquetebol, de massa 600 g, é abandonada de uma altura de 1,90 m em relação ao solo. A bola colide com o solo e retorna a uma altura de 1,50 m. Desprezando a resistência com o ar e adotando o valor de 10 $\\\\frac{m}{s}$² para a aceleração da gravidade, a energia mecânica dissipada durante a colisão dessa bola com o solo possui valor de",
       subItens: []
     },
     options: ["3,6 J.","1,2 J.","2,4 J.","7,8 J.","9,0 J."],
@@ -963,7 +963,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Uma torneira despeja água à razão constante em um tanque em forma de paralelepípedo, com base plana e horizontal, como mostra a figura.\n\n[Imagem de uma torneira despejando água em um tanque retangular. (www.geogebra.org. Adaptado.)]\n\nSabendo que o nível da água no recipiente sobe à razão de 5,0 cm/min, que a massa específica da água é igual a 1,0 × 10³ kg/m³ e que aceleração gravitacional no local é 10 m/s², a taxa com que a pressão hidrostática sobre a base desse recipiente aumenta é",
+      principal: "Uma torneira despeja água à razão constante em um tanque em forma de paralelepípedo, com base plana e horizontal, como mostra a figura.\n\n[Imagem de uma torneira despejando água em um tanque retangular. (www.geogebra.org. Adaptado.)]\n\nSabendo que o nível da água no recipiente sobe à razão de 5,0 $\\\\frac{cm}{min}$, que a massa específica da água é igual a 1,0 × 10³ $\\\\frac{kg}{m}$³ e que aceleração gravitacional no local é 10 $\\\\frac{m}{s}$², a taxa com que a pressão hidrostática sobre a base desse recipiente aumenta é",
       subItens: []
     },
     options: ["5,0 x 10² Pa/min.","8,0 × 10¹ Pa/min.","2,5 × 10¹ Pa/min.","2,0 x 10² Pa/min.","2,5 × 10³ Pa/min."],
@@ -993,7 +993,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Duas lentes convergentes, L₁ e L₂, fazem parte do sistema óptico de um microscópio, de modo que seus eixos principais são coincidentes. Quando essas duas lentes distam 3d uma da outra, dois raios de luz monocromática fazem os trajetos mostrados na figura, atravessando ambas as lentes.\n\n[Diagrama de raios de luz passando por duas lentes convergentes $1_{1}_{}$ e $1_{2}_{}$, com distâncias focais e pontos notáveis indicados. (www.dmix.com.br. Adaptado.)]\n\nA relação entre a distância focal f₁ da lente L₁ e a distância focal f₂ da lente L₂ é",
+      principal: "Duas lentes convergentes, L₁ e L₂, fazem parte do sistema óptico de um microscópio, de modo que seus eixos principais são coincidentes. Quando essas duas lentes distam 3d uma da outra, dois raios de luz monocromática fazem os trajetos mostrados na figura, atravessando ambas as lentes.\n\n[Diagrama de raios de luz passando por duas lentes convergentes L_{1} e L_{2}, com distâncias focais e pontos notáveis indicados. (www.dmix.com.br. Adaptado.)]\n\nA relação entre a distância focal f₁ da lente L₁ e a distância focal f₂ da lente L₂ é",
       subItens: []
     },
     options: ["f₁ = f₂/4","f₁ = 4 f₂","f₁ = f₂","f₁ = 2 f₂","f₁ = f₂/2"],
@@ -1008,7 +1008,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "A frequência de oscilação de um pêndulo simples é dada pela expressão f = 1/(2π) * sqrt(g/L), sendo L o comprimento do fio do pêndulo e g a aceleração gravitacional.\n\n[Diagrama de um pêndulo simples. ]\n\nConsidere um pêndulo simples cujo comprimento do fio seja L e que, ao oscilar livremente, completa 40 oscilações por minuto. Se o comprimento do fio desse pêndulo for quadruplicado, o número de oscilações por minuto que esse pêndulo passará a executar quando oscilar livremente será",
+      principal: "A frequência de oscilação de um pêndulo simples é dada pela expressão f = 1/(2π) * sqrt($\\\\frac{g}{L}$), sendo L o comprimento do fio do pêndulo e g a aceleração gravitacional.\n\n[Diagrama de um pêndulo simples. ]\n\nConsidere um pêndulo simples cujo comprimento do fio seja L e que, ao oscilar livremente, completa 40 oscilações por minuto. Se o comprimento do fio desse pêndulo for quadruplicado, o número de oscilações por minuto que esse pêndulo passará a executar quando oscilar livremente será",
       subItens: []
     },
     options: ["60.","10.","80.","20.","160."],
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Os polígonos regulares de 4, 6 e n lados, indicados na figura por $1_{4}_{}$, $1_{6}_{}$ e Pn, possuem o vértice Q em comum e, dois a dois, compartilham um lado.\n\n[Diagrama de três polígonos regulares (um quadrado $1_{4}_{}$, um hexágono $1_{6}_{}$ e um polígono Pn de n lados) compartilhando um vértice Q e um lado em comum. ]\n\nNa situação descrita, n é igual a",
+      principal: "Os polígonos regulares de 4, 6 e n lados, indicados na figura por P_{4}, P_{6} e Pn, possuem o vértice Q em comum e, dois a dois, compartilham um lado.\n\n[Diagrama de três polígonos regulares (um quadrado P_{4}, um hexágono P_{6} e um polígono Pn de n lados) compartilhando um vértice Q e um lado em comum. ]\n\nNa situação descrita, n é igual a",
       subItens: []
     },
     options: ["10.","24.","12.","9.","15."],
@@ -1098,10 +1098,10 @@ createQuestion({
     university: "FAMERP",
     year: 2024,
     text: {
-      principal: "Observe o produto de infinitas frações que seguem determinado padrão:\n\$1_{16}$/2 * 16/4 * 16/8 * 16/16 * ... * 16/(2^n) * ...\n\nO produto das 16 primeiras frações desse padrão é igual a:",
+      principal: "Observe o produto de infinitas frações que seguem determinado padrão:\n\n$\\\\frac{16}{2}$ * $\\\\frac{16}{4}$ * $\\\\frac{16}{8}$ * $\\\\frac{16}{16}$ * ... * 16/(2^n) * ...\n\nO produto das 16 primeiras frações desse padrão é igual a:",
       subItens: []
     },
-    options: ["$1^{64}$","2^-64","2^-32","2^-72","$1^{72}$"],
+    options: ["2^64","2^-64","2^-32","2^-72","2^72"],
     correctAnswer: 3,
     materia: "Matemática – Sequências e Séries (Potências)",
     conteudo: "",

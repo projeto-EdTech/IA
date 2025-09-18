@@ -33,7 +33,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Um veículo viaja entre dois povoados da Serra da Mantiqueira, percorrendo a primeira terça parte do trajeto à velocidade média de 60 km/h, a terça parte seguinte a 40 km/h e o restante do percurso a 20 km/h. O valor que melhor aproxima a velocidade média do veículo nessa viagem, em km/h, é",
+      principal: "Um veículo viaja entre dois povoados da Serra da Mantiqueira, percorrendo a primeira terça parte do trajeto à velocidade média de 60 $\\\\frac{km}{h}$, a terça parte seguinte a 40 $\\\\frac{km}{h}$ e o restante do percurso a 20 $\\\\frac{km}{h}$. O valor que melhor aproxima a velocidade média do veículo nessa viagem, em $\\\\frac{km}{h}$, é",
       subItens: []
     },
     options: ["32,5","35","37,5","40","42,5"],
@@ -48,7 +48,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "A igualdade correta para quaisquer a e b, números reais maiores do que zero, é\na) √a³ + b³ = a + b\nb) 1 / (a - √(a² + b²)) = 1 / b\nc) (√a - √b)² = a - b\nd) 1 / (a + b) = 1/a + 1/b\ne) (a³ - b³) / (a² + ab + b²) = a - b",
+      principal: "A igualdade correta para quaisquer a e b, números reais maiores do que zero, é\na) √a³ + b³ = a + b\nb) 1 / (a - √(a² + b²)) = 1 / b\nc) (√a - √b)² = a - b\nd) 1 / (a + b) = $\\\\frac{1}{a}$ + $\\\\frac{1}{b}$\ne) (a³ - b³) / (a² + ab + b²) = a - b",
       subItens: []
     },
     options: ["√a³ + b³ = a + b","1 / (a - √(a² + b²)) = 1 / b","(√a - √b)² = a - b","1 / (a + b) = 1/a + 1/b","(a³ - b³) / (a² + ab + b²) = a - b"],
@@ -63,7 +63,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Em um experimento probabilístico, Joana retirará aleatoriamente 2 bolas de uma caixa contendo bolas azuis e bolas vermelhas. Ao montar-se o experimento, colocam-se 6 bolas azuis na caixa. Quantas bolas vermelhas devem ser acrescentadas para que a probabilidade de Joana obter 2 azuis seja 1/3?",
+      principal: "Em um experimento probabilístico, Joana retirará aleatoriamente 2 bolas de uma caixa contendo bolas azuis e bolas vermelhas. Ao montar-se o experimento, colocam-se 6 bolas azuis na caixa. Quantas bolas vermelhas devem ser acrescentadas para que a probabilidade de Joana obter 2 azuis seja $\\\\frac{1}{3}$?",
       subItens: []
     },
     options: ["2","4","6","8","10"],
@@ -168,7 +168,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Quando a Lua está em quarto crescente ou quarto minguante, o triângulo formado pela Terra, pelo Sol e pela Lua é retângulo, com a Lua no vértice do ângulo reto. O astrônomo grego Aristarco, do século III a.C., usou este fato para obter um valor aproximado da razão entre as distâncias da Terra à Lua, dL, e da Terra ao Sol, dS.\nÉ possível estimar a medida do ângulo α, relativo ao vértice da Terra, nessas duas fases, a partir da observação de que o tempo t₁, decorrido de uma lua quarto crescente a uma lua quarto minguante, é um pouco maior do que o tempo t₂, decorrido de uma lua quarto minguante a uma lua quarto crescente. Supondo que a Lua descreva em torno da Terra um movimento circular uniforme, tomando t₁ = 14,9 dias e t₂ = 14,8 dias, conclui-se que a razão dL/dS seria aproximadamente dada por",
+      principal: "Quando a Lua está em quarto crescente ou quarto minguante, o triângulo formado pela Terra, pelo Sol e pela Lua é retângulo, com a Lua no vértice do ângulo reto. O astrônomo grego Aristarco, do século III a.C., usou este fato para obter um valor aproximado da razão entre as distâncias da Terra à Lua, dL, e da Terra ao Sol, dS.\nÉ possível estimar a medida do ângulo α, relativo ao vértice da Terra, nessas duas fases, a partir da observação de que o tempo t₁, decorrido de uma lua quarto crescente a uma lua quarto minguante, é um pouco maior do que o tempo t₂, decorrido de uma lua quarto minguante a uma lua quarto crescente. Supondo que a Lua descreva em torno da Terra um movimento circular uniforme, tomando t₁ = 14,9 dias e t₂ = 14,8 dias, conclui-se que a razão $\\\\frac{dL}{dS}$ seria aproximadamente dada por",
       subItens: []
     },
     options: ["cos 77,7°","cos 80,7°","cos 83,7°","cos 86,7°","cos 89,7°"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "O biogás pode substituir a gasolina na geração de energia. Sabe-se que 60%, em volume, do biogás são constituídos de metano, cuja combustão completa libera cerca de 900 kJ/mol. Uma usina produtora gera 2.000 litros de biogás por dia. Para produzir a mesma quantidade de energia liberada pela queima de todo o metano contido nesse volume de biogás, será necessária a seguinte quantidade aproximada (em litros) de gasolina:\nNote e adote:\nVolume molar nas condições de produção de biogás: 24 L/mol;\nenergia liberada na combustão completa da gasolina: 4,5 x 10⁴ kJ/L.",
+      principal: "O biogás pode substituir a gasolina na geração de energia. Sabe-se que 60%, em volume, do biogás são constituídos de metano, cuja combustão completa libera cerca de 900 $\\\\frac{kJ}{mol}$. Uma usina produtora gera 2.000 litros de biogás por dia. Para produzir a mesma quantidade de energia liberada pela queima de todo o metano contido nesse volume de biogás, será necessária a seguinte quantidade aproximada (em litros) de gasolina:\nNote e adote:\nVolume molar nas condições de produção de biogás: 24 $\\\\frac{L}{mol}$;\nenergia liberada na combustão completa da gasolina: 4,5 x 10⁴ $\\\\frac{kJ}{L}$.",
       subItens: []
     },
     options: ["0,7","1,0","1,7","3,3","4,5"],
@@ -228,7 +228,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Um aldeído pode ser transformado em um aminoácido pela sequência de reações:\n(Diagrama de reações: R-$$CHO \rightarrow R$$-$$CN \rightarrow R$$-COOH)\nO aminoácido N-metil-fenilalanina pode ser obtido pela mesma sequência reacional, empregando-se, em lugar do cloreto de amônio (NH₄Cl), o reagente CH₃NH₃Cl. Nessa transformação, o aldeído que deve ser empregado é",
+      principal: "Um aldeído pode ser transformado em um aminoácido pela sequência de reações:\n(Diagrama de reações: R-$$CHO \\\\rightarrow R$$-$$CN \\\\rightarrow R$$-COOH)\nO aminoácido N-metil-fenilalanina pode ser obtido pela mesma sequência reacional, empregando-se, em lugar do cloreto de amônio (NH₄Cl), o reagente CH₃NH₃Cl. Nessa transformação, o aldeído que deve ser empregado é",
       subItens: []
     },
     options: ["Estrutura A","Estrutura B","Estrutura C","Estrutura D","Estrutura E"],
@@ -258,7 +258,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Um dirigível experimental usa hélio como fluido ascensional e octano (C₈H₁₈) como combustível em seu motor, para propulsão. Suponha que, no motor, ocorra a combustão completa do octano: C₈H₁₈(g) + (25/2) O₂(g) → 8 CO₂(g) + 9 H₂O(g). Para compensar a perda de massa do dirigível à medida que o combustível é queimado, parte da água contida nos gases de exaustão do motor é condensada e armazenada como lastro. O restante do vapor de água e o gás carbônico são liberados para a atmosfera. Qual é a porcentagem aproximada da massa de vapor de água formado que deve ser retida para que a massa de combustível queimado seja compensada?\nNote e adote:\nMassa molar (g/mol): H₂O ..... 18\nO₂ ......... 32\nCO₂ ........ 44\nC₈H₁₈ ..... 114",
+      principal: "Um dirigível experimental usa hélio como fluido ascensional e octano (C₈H₁₈) como combustível em seu motor, para propulsão. Suponha que, no motor, ocorra a combustão completa do octano: C₈H₁₈(g) + ($\\\\frac{25}{2}$) O₂(g) → 8 CO₂(g) + 9 H₂O(g). Para compensar a perda de massa do dirigível à medida que o combustível é queimado, parte da água contida nos gases de exaustão do motor é condensada e armazenada como lastro. O restante do vapor de água e o gás carbônico são liberados para a atmosfera. Qual é a porcentagem aproximada da massa de vapor de água formado que deve ser retida para que a massa de combustível queimado seja compensada?\nNote e adote:\nMassa molar ($\\\\frac{g}{mol}$): H₂O ..... 18\nO₂ ......... 32\nCO₂ ........ 44\nC₈H₁₈ ..... 114",
       subItens: []
     },
     options: ["11%","16%","39%","50%","70%"],
@@ -288,10 +288,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Sabe-se que os metais ferro (Feº), magnésio (Mgº) e estanho (Snº) reagem com soluções de ácidos minerais, liberando gás hidrogênio e formando íons divalentes em solução. Foram feitos três experimentos em que três amostras metálicas de mesma massa reagiram, separada e completamente, com uma solução aquosa de ácido clorídrico (HCl (aq)) de concentração 0,1 mol/L. Os resultados obtidos foram:\nTabela:\nExperimento Massa da amostra metálica (g) Composição da amostra metálica Volume da solução de HCl (aq) (0,1 mol/L) gasto na reação completa\$1_{1}$           5,6                  Feº puro                       $1_{1}_{}$\$1_{2}$           5,6                  Feº contendo Mgº como impureza      $1_{2}_{}$\$1_{3}$           5,6                  Feº contendo Snº como impureza      $1_{3}_{}$\nColocando-se os valores de $1_{1}_{}$, $1_{2}_{}$ e $1_{3}_{}$ em ordem decrescente, obtém-se\nNote e adote:\nMassa molar (g/mol): Mg ........ 24\nFe ........ 56\nSn ........ 119",
+      principal: "Sabe-se que os metais ferro (Feº), magnésio (Mgº) e estanho (Snº) reagem com soluções de ácidos minerais, liberando gás hidrogênio e formando íons divalentes em solução. Foram feitos três experimentos em que três amostras metálicas de mesma massa reagiram, separada e completamente, com uma solução aquosa de ácido clorídrico (HCl (aq)) de concentração 0,1 $\\\\frac{mol}{L}$. Os resultados obtidos foram:\nTabela:\nExperimento Massa da amostra metálica (g) Composição da amostra metálica Volume da solução de HCl (aq) (0,1 $\\\\frac{mol}{L}$) gasto na reação completa\n1           5,6                  Feº puro                       V_{1}\n2           5,6                  Feº contendo Mgº como impureza      V_{2}\n3           5,6                  Feº contendo Snº como impureza      V_{3}\nColocando-se os valores de V_{1}, V_{2} e V_{3} em ordem decrescente, obtém-se\nNote e adote:\nMassa molar ($\\\\frac{g}{mol}$): Mg ........ 24\nFe ........ 56\nSn ........ 119",
       subItens: []
     },
-    options: ["$1_{2}_{}$ > $1_{3}_{}$ > $1_{1}_{}$","$1_{3}_{}$ > $1_{1}_{}$ > $1_{2}_{}$","$1_{1}_{}$ > $1_{3}_{}$ > $1_{2}_{}$","$1_{2}_{}$ > $1_{1}_{}$ > $1_{3}_{}$","$1_{1}_{}$ > $1_{2}_{}$ > $1_{3}_{}$"],
+    options: ["V2 > V3 > V1","V3 > V1 > V2","V1 > V3 > V2","V2 > V1 > V3","V1 > V2 > V3"],
     correctAnswer: 3,
     materia: "",
     conteudo: "",
@@ -318,7 +318,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "O fleróvio (Fl) é um elemento químico artificial, de número atômico 114. Na tabela periódica, está situado imediatamente abaixo do elemento de número atômico 82, que é o chumbo (Pb), como é mostrado na figura a seguir:\n(Recorte da tabela periódica mostrando Fl abaixo de Pb)\nAté o momento, só foi possível sintetizar poucos átomos de fleróvio na forma dos isótopos 288 e 289, pela fusão dos elementos plutônio e cálcio em um acelerador de partículas. Para o fleróvio-289, o processo de síntese pode ser representado pela equação nuclear a seguir: Pu-244 + Ca-$$48 \rightarrow F$$l-289 + 3n. Considere as seguintes afirmações: I. A aparência macroscópica do fleróvio é desconhecida, mas, provavelmente, será a de um sólido metálico. II. Na formação do fleróvio-288, por processo análogo ao da síntese do fleróvio-289, são liberados 3 prótons. III. No grupo da tabela periódica ao qual pertence o fleróvio, há elementos que formam óxidos covalentes. É correto o que se afirma apenas em",
+      principal: "O fleróvio (Fl) é um elemento químico artificial, de número atômico 114. Na tabela periódica, está situado imediatamente abaixo do elemento de número atômico 82, que é o chumbo (Pb), como é mostrado na figura a seguir:\n(Recorte da tabela periódica mostrando Fl abaixo de Pb)\nAté o momento, só foi possível sintetizar poucos átomos de fleróvio na forma dos isótopos 288 e 289, pela fusão dos elementos plutônio e cálcio em um acelerador de partículas. Para o fleróvio-289, o processo de síntese pode ser representado pela equação nuclear a seguir: Pu-244 + Ca-$$48 \\\\rightarrow F$$l-289 + 3n. Considere as seguintes afirmações: I. A aparência macroscópica do fleróvio é desconhecida, mas, provavelmente, será a de um sólido metálico. II. Na formação do fleróvio-288, por processo análogo ao da síntese do fleróvio-289, são liberados 3 prótons. III. No grupo da tabela periódica ao qual pertence o fleróvio, há elementos que formam óxidos covalentes. É correto o que se afirma apenas em",
       subItens: []
     },
     options: ["I.","II.","III.","I e III.","II e III."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Uma garrafa tem um cilindro afixado em sua boca, no qual um êmbolo pode se movimentar sem atrito, mantendo constante a massa de ar dentro da garrafa, como ilustra a figura. Inicialmente, o sistema está em equilíbrio à temperatura de 27 °C. O volume de ar na garrafa é igual a 600 cm³ e o êmbolo tem uma área transversal igual a 3 cm². Na condição de equilíbrio, com a pressão atmosférica constante, para cada 1 °C de aumento da temperatura do sistema, o êmbolo subirá aproximadamente\nNote e adote:\$1_{0}$ °C = 273 K\nConsidere o ar da garrafa como um gás ideal.",
+      principal: "Uma garrafa tem um cilindro afixado em sua boca, no qual um êmbolo pode se movimentar sem atrito, mantendo constante a massa de ar dentro da garrafa, como ilustra a figura. Inicialmente, o sistema está em equilíbrio à temperatura de 27 °C. O volume de ar na garrafa é igual a 600 cm³ e o êmbolo tem uma área transversal igual a 3 cm². Na condição de equilíbrio, com a pressão atmosférica constante, para cada 1 °C de aumento da temperatura do sistema, o êmbolo subirá aproximadamente\nNote e adote:\n0 °C = 273 K\nConsidere o ar da garrafa como um gás ideal.",
       subItens: []
     },
     options: ["0,7 cm","1,4 cm","2,1 cm","3,0 cm","6,0 cm"],
@@ -438,7 +438,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Um objeto homogêneo colocado em um recipiente com água tem 32% de seu volume submerso; já em um recipiente com óleo, tem 40% de seu volume submerso. A densidade desse óleo, em g/cm³, é\nNote e adote:\nDensidade da água = 1 g/cm³",
+      principal: "Um objeto homogêneo colocado em um recipiente com água tem 32% de seu volume submerso; já em um recipiente com óleo, tem 40% de seu volume submerso. A densidade desse óleo, em $\\\\frac{g}{cm}$³, é\nNote e adote:\nDensidade da água = 1 $\\\\frac{g}{cm}$³",
       subItens: []
     },
     options: ["0,32","0,40","0,64","0,80","1,25"],
@@ -453,7 +453,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "O elétron e sua antipartícula, o pósitron, possuem massas iguais e cargas opostas. Em uma reação em que o elétron e o pósitron, em repouso, se aniquilam, dois fótons de mesma energia são emitidos em sentidos opostos. A energia de cada fóton produzido é, em MeV, aproximadamente,\nNote e adote:\nRelação de Einstein entre energia (E) e massa (m): E = mc²\nMassa do elétron = 9 × 10⁻³¹ kg\nVelocidade da luz c = 3,0 x 10⁸ m/s\$1_{1}$ eV = 1,6 x 10⁻¹⁹ J\$1_{1}$ MeV = 10⁶ eV\nNo processo de aniquilação, toda a massa das partículas é transformada em energia dos fótons.",
+      principal: "O elétron e sua antipartícula, o pósitron, possuem massas iguais e cargas opostas. Em uma reação em que o elétron e o pósitron, em repouso, se aniquilam, dois fótons de mesma energia são emitidos em sentidos opostos. A energia de cada fóton produzido é, em MeV, aproximadamente,\nNote e adote:\nRelação de Einstein entre energia (E) e massa (m): E = mc²\nMassa do elétron = 9 × 10⁻³¹ kg\nVelocidade da luz c = 3,0 x 10⁸ $\\\\frac{m}{s}$\n1 eV = 1,6 x 10⁻¹⁹ J\n1 MeV = 10⁶ eV\nNo processo de aniquilação, toda a massa das partículas é transformada em energia dos fótons.",
       subItens: []
     },
     options: ["0,3","0,5","0,8","1,6","3,2"],
@@ -498,7 +498,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Chumaços de algodão embebidos em uma solução de vermelho de cresol, de cor rosa, foram colocados em três recipientes de vidro, I, II e III, idênticos e transparentes. Em I e II, havia plantas e, em III, rãs. Os recipientes foram vedados e iluminados durante um mesmo intervalo de tempo com luz de mesma intensidade, sendo que I e III foram iluminados com luz de frequência igual a 7,0 x 10¹⁴ Hz, e II, com luz de frequência igual a 5,0 x 10¹⁴ Hz. O gráfico mostra a taxa de fotossíntese das clorofilas a e b em função do comprimento de onda da radiação eletromagnética. Considere que, para essas plantas, o ponto de compensação fótica corresponde a 20% do percentual de absorção.\n(Gráfico: Percentual de absorção vs. Comprimento de onda para Clorofila a e Clorofila b)\nÉ correto afirmar que, após o período de iluminação, as cores dos chumaços de algodão embebidos em solução de cresol dos recipientes I, II e III ficaram, respectivamente,\nNote e adote:\nAs plantas e as rãs permaneceram vivas durante o experimento.\nAs cores da solução de cresol em ambientes com dióxido de carbono com concentração menor, igual e maior que a da atmosfera são, respectivamente, roxa, rosa e amarela.\nVelocidade da luz = 3 x 10⁸ m/s\$1_{1}$ nm = 10⁻⁹ m",
+      principal: "Chumaços de algodão embebidos em uma solução de vermelho de cresol, de cor rosa, foram colocados em três recipientes de vidro, I, II e III, idênticos e transparentes. Em I e II, havia plantas e, em III, rãs. Os recipientes foram vedados e iluminados durante um mesmo intervalo de tempo com luz de mesma intensidade, sendo que I e III foram iluminados com luz de frequência igual a 7,0 x 10¹⁴ Hz, e II, com luz de frequência igual a 5,0 x 10¹⁴ Hz. O gráfico mostra a taxa de fotossíntese das clorofilas a e b em função do comprimento de onda da radiação eletromagnética. Considere que, para essas plantas, o ponto de compensação fótica corresponde a 20% do percentual de absorção.\n(Gráfico: Percentual de absorção vs. Comprimento de onda para Clorofila a e Clorofila b)\nÉ correto afirmar que, após o período de iluminação, as cores dos chumaços de algodão embebidos em solução de cresol dos recipientes I, II e III ficaram, respectivamente,\nNote e adote:\nAs plantas e as rãs permaneceram vivas durante o experimento.\nAs cores da solução de cresol em ambientes com dióxido de carbono com concentração menor, igual e maior que a da atmosfera são, respectivamente, roxa, rosa e amarela.\nVelocidade da luz = 3 x 10⁸ $\\\\frac{m}{s}$\n1 nm = 10⁻⁹ m",
       subItens: []
     },
     options: ["roxa, amarela e amarela.","roxa, rosa e amarela.","rosa, roxa e amarela.","amarela, amarela e roxa.","roxa, roxa e rosa."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "A escolha do local para instalação de parques eólicos depende, dentre outros fatores, da velocidade média dos ventos que sopram na região. Examine este mapa das diferentes velocidades médias de ventos no Brasil e, em seguida, o gráfico da potência fornecida por um aerogerador em função da velocidade do vento.\n(Mapa: Brasil - Velocidade Média dos Ventos)\n(Gráfico: Potência (kW) vs. Velocidade do vento (m/s))\nDe acordo com as informações fornecidas, esse aerogerador poderia produzir, em um ano, 8,8 GWh de energia, se fosse instalado no\nNote e adote:\$1_{1}$ GW = 10⁹ W\$1_{1}$ ano = 8800 horas",
+      principal: "A escolha do local para instalação de parques eólicos depende, dentre outros fatores, da velocidade média dos ventos que sopram na região. Examine este mapa das diferentes velocidades médias de ventos no Brasil e, em seguida, o gráfico da potência fornecida por um aerogerador em função da velocidade do vento.\n(Mapa: Brasil - Velocidade Média dos Ventos)\n(Gráfico: Potência (kW) vs. Velocidade do vento ($\\\\frac{m}{s}$))\nDe acordo com as informações fornecidas, esse aerogerador poderia produzir, em um ano, 8,8 GWh de energia, se fosse instalado no\nNote e adote:\n1 GW = 10⁹ W\n1 ano = 8800 horas",
       subItens: []
     },
     options: ["noroeste do Pará.","nordeste do Amapá.","sudoeste do Rio Grande do Norte.","sudeste do Tocantins.","leste da Bahia."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "No esquema abaixo, está representada uma via metabólica; o produto de cada reação química, catalisada por uma enzima específica, é o substrato para a reação seguinte.\n(Diagrama de via metabólica: Substrato 1 (Enzima A, Gene$$ A) \rightarrow S$$ubstrato 2 (Enzima B, Gene$$ B) \rightarrow S$$ubstrato 3 (Enzima C, Gene$$ C) \rightarrow P$$roduto final)\nNum indivíduo que possua alelos mutantes que levem à perda de função do gene",
+      principal: "No esquema abaixo, está representada uma via metabólica; o produto de cada reação química, catalisada por uma enzima específica, é o substrato para a reação seguinte.\n(Diagrama de via metabólica: Substrato 1 (Enzima A, Gene$$A) \\\\rightarrow S$$ubstrato 2 (Enzima B, Gene$$B) \\\\rightarrow S$$ubstrato 3 (Enzima C, Gene$$C) \\\\rightarrow P$$roduto final)\nNum indivíduo que possua alelos mutantes que levem à perda de função do gene",
       subItens: []
     },
     options: ["A, ocorrem falta do substrato 1 e acúmulo do substrato 2.","C, não há síntese dos substratos 2 e 3.","A, não há síntese do produto final.","A, o fornecimento do substrato 2 não pode restabelecer a síntese do produto final.","B, o fornecimento do substrato 2 pode restabelecer a síntese do produto final."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Examine este cartum para responder às questões 46 e 47.\n(Imagem de um cartum com pessoas e animais de estimação)\n\"As crianças não passam de substitutos patéticos para as pessoas que não podem ter bichos\". Robert Mankoff, New Yorker/Veja. Para obter o efeito de humor presente no cartum, o autor se vale, entre outros, do seguinte recurso:",
+      principal: "Examine este cartum para responder às questões 46 e 47.\n(Imagem de um cartum com pessoas e animais de estimação)\n\"As crianças não passam de substitutos patéticos para as pessoas que não podem ter bichos\". Robert Mankoff, New $\\\\frac{Yorker}{Veja}$. Para obter o efeito de humor presente no cartum, o autor se vale, entre outros, do seguinte recurso:",
       subItens: []
     },
     options: ["utilização paródica de um provérbio de uso corrente.","emprego de linguagem formal em circunstâncias informais.","representação inverossímil de um convívio pacífico de cães e gatos.","uso do grotesco na caracterização de seres humanos e de animais.","inversão do sentido de um pensamento bastante repetido."],
@@ -963,7 +963,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Tendo em vista o que a charge pretende expressar e a data de sua publicação, dentre as legendas propostas abaixo, a mais adequada para essa charge é:\n(Charge de mapa EUA-Cuba com navio)\nFolha de S. Paulo, 19/12/2014.",
+      principal: "Tendo em vista o que a charge pretende expressar e a data de sua publicação, dentre as legendas propostas abaixo, a mais adequada para essa charge é:\n(Charge de mapa EUA-Cuba com navio)\nFolha de S. Paulo, $\\\\frac{19}{12}$/2014.",
       subItens: []
     },
     options: ["Suspensão do embargo econômico a Cuba por parte dos EUA.","Devolução aos cubanos da área ocupada pelos EUA em Guantánamo.","Fim do embargo das exportações petrolíferas cubanas.","Retomada das relações diplomáticas entre os EUA e Cuba.","Transferência de todos os presos políticos de Guantánamo, para prisões norte-americanas."],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "É preocupante a detecção de resíduos de agrotóxicos no planalto mato-grossense [Planaltos e Chapada dos Parecis], onde nascem o rio Paraguai e parte de seus afluentes, cujos cursos dirigem-se para a Planície do Pantanal. Em termos ecológicos, o efeito crônico da contaminação, mesmo sob baixas concentrações, implica efeitos na saúde e no ambiente a médio e longo prazos, como a diminuição do potencial biológico de espécies animais e vegetais. Dossiê Abrasco - Associação Brasileira de Saúde Coletiva, Rio de Janeiro/São Paulo: EPSJV/Expressão Popular, 2012. Adaptado. Com base no texto e em seus conhecimentos, é correto afirmar:",
+      principal: "É preocupante a detecção de resíduos de agrotóxicos no planalto mato-grossense [Planaltos e Chapada dos Parecis], onde nascem o rio Paraguai e parte de seus afluentes, cujos cursos dirigem-se para a Planície do Pantanal. Em termos ecológicos, o efeito crônico da contaminação, mesmo sob baixas concentrações, implica efeitos na saúde e no ambiente a médio e longo prazos, como a diminuição do potencial biológico de espécies animais e vegetais. Dossiê Abrasco - Associação Brasileira de Saúde Coletiva, Rio de $\\\\frac{Janeiro}{S}$ão Paulo: $\\\\frac{EPSJV}{Express}$ão Popular, 2012. Adaptado. Com base no texto e em seus conhecimentos, é correto afirmar:",
       subItens: []
     },
     options: ["No Mato Grosso do Sul, prevalece a criação de caprinos nas chapadas, ocasionando a contaminação dos lençóis freáticos por resíduos de agrotóxicos.","No Mato Grosso, ocorre grande utilização de agrotóxicos, em virtude, principalmente, da quantidade de soja, milho e algodão nele cultivada.","Em Goiás, com o avanço do cultivo da laranja transgênica voltada para exportação, aumentou a contaminação a montante do rio Cuiabá.","No Mato Grosso, estado em que há a maior área de silvicultura do país, há predominância da pulverização aérea de agrotóxicos sobre as florestas cultivadas.","No Mato Grosso do Sul, um dos maiores produtores de feijão, trigo e maçã do país, verifica-se significativa contaminação do solo por resíduos de agrotóxicos."],
@@ -1068,7 +1068,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Observe os mapas.\nMIGRAÇÃO ENTRE AS REGIÕES BRASILEIRAS (2004-2009)\n(Mapas de migração entre as regiões brasileiras)\nOrigem e destino dos fluxos migratórios nas regiões brasileiras.\nIBGE/OESP, 16/07/2011.\nDentre as seguintes alternativas, a única que apresenta a principal causa para o correspondente fluxo migratório é:",
+      principal: "Observe os mapas.\nMIGRAÇÃO ENTRE AS REGIÕES BRASILEIRAS (2004-2009)\n(Mapas de migração entre as regiões brasileiras)\nOrigem e destino dos fluxos migratórios nas regiões brasileiras.\n$\\\\frac{IBGE}{OESP}$, $\\\\frac{16}{07}$/2011.\nDentre as seguintes alternativas, a única que apresenta a principal causa para o correspondente fluxo migratório é:",
       subItens: []
     },
     options: ["I: procura por postos de trabalho formais no setor primário.","II: necessidade de mão de obra rural, devido ao avanço do cultivo do arroz.","III: necessidade de mão de obra no cultivo da soja no Ceará e em Pernambuco.","IV: procura por postos de trabalho no setor aeroespacial.","V: migração de retorno."],
@@ -1098,7 +1098,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "O processo de industrialização que se efetivou em São Paulo a partir do início do século XX foi o indutor do processo de metropolização. A partir do final dos anos 1950, a concentração da estrutura produtiva e a centralização do capital em São Paulo foram acompanhadas de uma urbanização contraditória que, ao mesmo tempo, absorvia as modernidades possíveis e expulsava para as periferias imensa quantidade de pessoas que, na impossibilidade de viver o urbano, contraditoriamente, potencializavam a sua expansão. Assim, de 1960 a 1980, a expansão da metrópole caracterizou-se também pela intensa expansão de sua área construída, marcadamente fragmentada e hierarquizada. Esse processo se constituiu em um ciclo da expansão capitalista em São Paulo marcada por sua periferização. Isabel Alvarez. Projetos Urbanos: alianças e conflitos na reprodução da metrópole. Disponível em: http://gesp.fflch.usp.br/sites/gesp.fflch.usp.br/files/02611.pdf. Acessado em 10/08/2015. Adaptado. Com base no texto e em seus conhecimentos, é correto afirmar:",
+      principal: "O processo de industrialização que se efetivou em São Paulo a partir do início do século XX foi o indutor do processo de metropolização. A partir do final dos anos 1950, a concentração da estrutura produtiva e a centralização do capital em São Paulo foram acompanhadas de uma urbanização contraditória que, ao mesmo tempo, absorvia as modernidades possíveis e expulsava para as periferias imensa quantidade de pessoas que, na impossibilidade de viver o urbano, contraditoriamente, potencializavam a sua expansão. Assim, de 1960 a 1980, a expansão da metrópole caracterizou-se também pela intensa expansão de sua área construída, marcadamente fragmentada e hierarquizada. Esse processo se constituiu em um ciclo da expansão capitalista em São Paulo marcada por sua periferização. Isabel Alvarez. Projetos Urbanos: alianças e conflitos na reprodução da metrópole. Disponível em: http://gesp.fflch.usp.$\\\\frac{br}{sites}$/gesp.fflch.usp.$\\\\frac{br}{files}$/02611.pdf. Acessado em $\\\\frac{10}{08}$/2015. Adaptado. Com base no texto e em seus conhecimentos, é correto afirmar:",
       subItens: []
     },
     options: ["O processo que levou à formação da metrópole paulistana foi dual, pois, ao trazer modernidade, trouxe também segregação social.","A cidade de São Paulo, no período entre o final da Segunda Guerra Mundial e os anos de 1980, conheceu um processo intenso de desconcentração industrial.","A periferia de São Paulo continua tendo, nos dias de hoje, um papel fundamental de eliminar a fragmentação e a hierarquização espacial.","A periferização, em São Paulo, cresceu com ritmo acelerado até os anos de 1980, e, a partir daí, estagnou, devido à retração de investimentos na metrópole.","A expansão da área construída da metrópole, na década de 1960, permitiu, ao mesmo tempo, ampliar a mancha urbana e eliminar a fragmentação espacial."],
@@ -1218,7 +1218,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2016,
     text: {
-      principal: "Eu por vezes tenho dito a V. A. aquilo que me parecia acerca dos negócios da França, e isto por ver por conjecturas e aparências grandes aquilo que podia suceder dos pontos mais aparentes, que consigo traziam muito prejuízo ao estado e aumento dos senhorios de V. A. E tudo se encerrava em vós, Senhor, trabalhardes com modos honestos de fazer que esta gente não houvesse de entrar nem possuir coisa de vossas navegações, pelo grandíssimo dano que daí se podia seguir. Serafim Leite. Cartas dos primeiros jesuítas do Brasil, 1954. O trecho acima foi extraído de uma carta dirigida pelo padre jesuíta Diogo de Gouveia ao Rei de Portugal D. João III, escrita em Paris, em 17/02/1538. Seu conteúdo mostra",
+      principal: "Eu por vezes tenho dito a V. A. aquilo que me parecia acerca dos negócios da França, e isto por ver por conjecturas e aparências grandes aquilo que podia suceder dos pontos mais aparentes, que consigo traziam muito prejuízo ao estado e aumento dos senhorios de V. A. E tudo se encerrava em vós, Senhor, trabalhardes com modos honestos de fazer que esta gente não houvesse de entrar nem possuir coisa de vossas navegações, pelo grandíssimo dano que daí se podia seguir. Serafim Leite. Cartas dos primeiros jesuítas do Brasil, 1954. O trecho acima foi extraído de uma carta dirigida pelo padre jesuíta Diogo de Gouveia ao Rei de Portugal D. João III, escrita em Paris, em $\\\\frac{17}{02}$/1538. Seu conteúdo mostra",
       subItens: []
     },
     options: ["a persistência dos ataques franceses contra a América, que Portugal vinha tentando colonizar de modo efetivo desde a adoção do sistema de capitanias hereditárias.","os primórdios da aliança que logo se estabeleceria entre as Coroas de Portugal e da França e que visava a combater as pretensões expansionistas da Espanha na América.","a preocupação dos jesuítas portugueses com a expansão de jesuítas franceses, que, no Brasil, vinham exercendo grande influência sobre as populações nativas.","o projeto de expansão territorial português na Europa, o qual, na época da carta, visava à dominação de territórios franceses tanto na Europa quanto na América.","a manifestação de um conflito entre a recém-criada ordem jesuíta e a Coroa portuguesa em torno do combate à pirataria francesa."],

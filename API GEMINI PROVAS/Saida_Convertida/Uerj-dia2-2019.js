@@ -78,7 +78,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "No processo de evolução biológica, ao longo das gerações, ocorrem alterações nas moléculas que contêm carbono. A imagem abaixo ilustra duas espécies de peixes, separadas pelo Istmo do Panamá. Ambas surgiram a partir de uma única população, existente no local antes da elevação geológica da América Central.\n[IMAGE: Map of Panama Isthmus showing Pacific Ocean, Caribbean Sea, and two fish species]\nAdaptado de $1_{13}$.wikia.com.\nO processo evolutivo que deu origem a essas duas espécies é denominado:",
+      principal: "No processo de evolução biológica, ao longo das gerações, ocorrem alterações nas moléculas que contêm carbono. A imagem abaixo ilustra duas espécies de peixes, separadas pelo Istmo do Panamá. Ambas surgiram a partir de uma única população, existente no local antes da elevação geológica da América Central.\n[IMAGE: Map of Panama Isthmus showing Pacific Ocean, Caribbean Sea, and two fish species]\nAdaptado de dragonflyissuesinevolution_{13}.wikia.com.\nO processo evolutivo que deu origem a essas duas espécies é denominado:",
       subItens: []
     },
     options: ["anagênese","ortogênese","cladogênese","morfogênese"],
@@ -123,7 +123,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "Memórias de um carbono\nPouco tempo atrás, o átomo de carbono foi liberado de sua prisão química. No processo de transformação industrial do petróleo, ele foi incorporado à gasolina que era processada em uma refinaria. Não demorou muito e ele estava participando de uma reação de queima no motor de um automóvel e rapidamente estava novamente livre na atmosfera. A excessiva liberação desses átomos de carbono que ficaram aprisionados por milhões de anos no subsolo é um dos maiores problemas que a humanidade enfrenta atualmente.\nADILSON DE OLIVEIRA\nAdaptado de cienciahoje.org.br.\n\nO futuro já está entre nós\nO gestor hospitalar Edgar Escobar comprou um carro elétrico em 2016. Ele tem um dos 4784 veículos elétricos ou híbridos que circulam pelas ruas do Brasil hoje. São carros e ônibus que ajudam a preservar o meio ambiente. E cerca de 300 deles são 100% elétricos. Ou seja, a emissão de gases poluentes é zero. Todo o funcionamento do carro é sustentado pela bateria, que pode ser carregada numa tomada dentro de casa.\nAdaptado de cbn.globoradio.globo.com.\$1_{14}$/07/2017.\n\nO desenvolvimento de veículos elétricos é uma das medidas para enfrentar o problema apontado acima, no primeiro texto.\nA eficácia ambiental dessa medida, considerando as tecnologias comercialmente viáveis a curto prazo no mundo, depende principalmente do seguinte fator:",
+      principal: "Memórias de um carbono\nPouco tempo atrás, o átomo de carbono foi liberado de sua prisão química. No processo de transformação industrial do petróleo, ele foi incorporado à gasolina que era processada em uma refinaria. Não demorou muito e ele estava participando de uma reação de queima no motor de um automóvel e rapidamente estava novamente livre na atmosfera. A excessiva liberação desses átomos de carbono que ficaram aprisionados por milhões de anos no subsolo é um dos maiores problemas que a humanidade enfrenta atualmente.\nADILSON DE OLIVEIRA\nAdaptado de cienciahoje.org.br.\n\nO futuro já está entre nós\nO gestor hospitalar Edgar Escobar comprou um carro elétrico em 2016. Ele tem um dos 4784 veículos elétricos ou híbridos que circulam pelas ruas do Brasil hoje. São carros e ônibus que ajudam a preservar o meio ambiente. E cerca de 300 deles são 100% elétricos. Ou seja, a emissão de gases poluentes é zero. Todo o funcionamento do carro é sustentado pela bateria, que pode ser carregada numa tomada dentro de casa.\nAdaptado de cbn.globoradio.globo.com.\n$\\\\frac{14}{07}$/2017.\n\nO desenvolvimento de veículos elétricos é uma das medidas para enfrentar o problema apontado acima, no primeiro texto.\nA eficácia ambiental dessa medida, considerando as tecnologias comercialmente viáveis a curto prazo no mundo, depende principalmente do seguinte fator:",
       subItens: []
     },
     options: ["perfil da matriz energética","tamanho da carga tributária","qualidade da rede rodoviária","automação da cadeia produtiva"],
@@ -138,7 +138,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "Física\nColho esta luz solar à minha volta,\nNo meu prisma a disperso e recomponho:\nRumor de sete cores, silêncio branco.\nJOSÉ SARAMAGO\n\nNa imagem a seguir, o triângulo ABC representa uma seção plana paralela à base de um prisma reto. As retas n e n' são perpendiculares aos lados AC e AB, respectivamente, e BẬC = 80°.\n[IMAGE: Triangle ABC with perpendicular lines n and n' and angle $\theta$]\nA medida do ângulo θ entre n e n' é:",
+      principal: "Física\nColho esta luz solar à minha volta,\nNo meu prisma a disperso e recomponho:\nRumor de sete cores, silêncio branco.\nJOSÉ SARAMAGO\n\nNa imagem a seguir, o triângulo ABC representa uma seção plana paralela à base de um prisma reto. As retas n e n' são perpendiculares aos lados AC e AB, respectivamente, e BẬC = 80°.\n[IMAGE: Triangle ABC with perpendicular lines n and n' and angle $\\\\theta$]\nA medida do ângulo θ entre n e n' é:",
       subItens: []
     },
     options: ["90°","100°","110°","120°"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "PROJEÇÃO PARA 2020 DOS MAIORES PRODUTORES DE PETRÓLEO\n(em milhões de barris/dia)\n[TABLE: Country, Production in 2011 (million barrels/day), Production in 2020 (million barrels/day)]\nAdaptado de fernandonogueiradacosta.wordpress.com.\nDe acordo com a projeção apresentada na tabela, no período de 2011 a 2020, o país com maior aumento percentual na produção de petróleo seria o Iraque.\nO segundo país com maior aumento percentual seria:",
+      principal: "PROJEÇÃO PARA 2020 DOS MAIORES PRODUTORES DE PETRÓLEO\n(em milhões de $\\\\frac{barris}{dia}$)\n[TABLE: Country, Production in 2011 (million $\\\\frac{barrels}{day}$), Production in 2020 (million $\\\\frac{barrels}{day}$)]\nAdaptado de fernandonogueiradacosta.wordpress.com.\nDe acordo com a projeção apresentada na tabela, no período de 2011 a 2020, o país com maior aumento percentual na produção de petróleo seria o Iraque.\nO segundo país com maior aumento percentual seria:",
       subItens: []
     },
     options: ["E.U.A.","Brasil","Canadá","Arábia Saudita"],
@@ -528,7 +528,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "A lactose é hidrolisada no leite \"sem lactose”, formando dois carboidratos, conforme a equação química:\nlactose + água → glicose + galactose\nSe apenas os carboidratos forem considerados, o valor calórico de 1 litro tanto do leite integral quanto do leite “sem lactose” é igual a –90 kcal, que corresponde à entalpia-padrão de combustão de 1 mol de lactose.\nAssumindo que as entalpias-padrão de combustão da glicose e da galactose são iguais, a entalpia de combustão da glicose, em kcal/mol, é igual a:",
+      principal: "A lactose é hidrolisada no leite \"sem lactose”, formando dois carboidratos, conforme a equação química:\nlactose + água → glicose + galactose\nSe apenas os carboidratos forem considerados, o valor calórico de 1 litro tanto do leite integral quanto do leite “sem lactose” é igual a –90 kcal, que corresponde à entalpia-padrão de combustão de 1 mol de lactose.\nAssumindo que as entalpias-padrão de combustão da glicose e da galactose são iguais, a entalpia de combustão da glicose, em $\\\\frac{kcal}{mol}$, é igual a:",
       subItens: []
     },
     options: ["-45","-60","-120","-180"],
@@ -573,7 +573,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "Considere as informações a seguir sobre a perfluorodecalina, substância utilizada no preparo de sangue artificial.\nFórmula mínima: C₅F₉\nMassa molar: 462 g/mol.\nSua fórmula molecular é representada por:",
+      principal: "Considere as informações a seguir sobre a perfluorodecalina, substância utilizada no preparo de sangue artificial.\nFórmula mínima: C₅F₉\nMassa molar: 462 $\\\\frac{g}{mol}$.\nSua fórmula molecular é representada por:",
       subItens: []
     },
     options: ["C₂₅F₄₅","C₂₀F₃₆","C₁₅F₂₇","C₁₀F₁₈"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "Observe no gráfico a curva representativa do movimento de um veículo ao longo do tempo, traçada a partir das posições registradas durante seu deslocamento.\n[GRAPH: Deslocamento (m) vs. Tempo (s) showing position of vehicle and representative curve of movement]\nO valor estimado da velocidade média do veículo, em m/s, corresponde a:",
+      principal: "Observe no gráfico a curva representativa do movimento de um veículo ao longo do tempo, traçada a partir das posições registradas durante seu deslocamento.\n[GRAPH: Deslocamento (m) vs. Tempo (s) showing position of vehicle and representative curve of movement]\nO valor estimado da velocidade média do veículo, em $\\\\frac{m}{s}$, corresponde a:",
       subItens: []
     },
     options: ["1","2","3","4"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "UTILIZE AS INFORMAÇÕES A SEGUIR PARA RESPONDER ÀS QUESTÕES 45 E 46.\nCanudinhos de plástico estão com os dias contados no Rio de Janeiro\nA Câmara de Vereadores aprovou projeto de lei que obriga os estabelecimentos da cidade a usarem canudinhos de papel biodegradável ou de material reutilizável, como metais e vidro borossilicato.\nAdaptado de $1_{1}$.globo.com, 08/06/2018.\n\nA tabela abaixo apresenta a composição química de uma amostra de 500 g de vidro borossilicato.\n[TABLE: Componente (SiO₂, B₂O₃, Na₂O, Al₂O₃) and Porcentagem em massa (%)]\nA massa, em gramas, do óxido básico presente nessa amostra é igual a:",
+      principal: "UTILIZE AS INFORMAÇÕES A SEGUIR PARA RESPONDER ÀS QUESTÕES 45 E 46.\nCanudinhos de plástico estão com os dias contados no Rio de Janeiro\nA Câmara de Vereadores aprovou projeto de lei que obriga os estabelecimentos da cidade a usarem canudinhos de papel biodegradável ou de material reutilizável, como metais e vidro borossilicato.\nAdaptado de g_{1}.globo.com, $\\\\frac{08}{06}$/2018.\n\nA tabela abaixo apresenta a composição química de uma amostra de 500 g de vidro borossilicato.\n[TABLE: Componente (SiO₂, B₂O₃, Na₂O, Al₂O₃) and Porcentagem em massa (%)]\nA massa, em gramas, do óxido básico presente nessa amostra é igual a:",
       subItens: []
     },
     options: ["85","65","20","10"],
@@ -678,7 +678,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "Um canudo de plástico e outro de vidro borossilicato possuem mesmo volume e densidades de 0,90 g/cm³ e 2,25 g/cm³, respectivamente.\nA razão entre as massas do canudo de plástico e do canudo de vidro corresponde a:",
+      principal: "Um canudo de plástico e outro de vidro borossilicato possuem mesmo volume e densidades de 0,90 $\\\\frac{g}{cm}$³ e 2,25 $\\\\frac{g}{cm}$³, respectivamente.\nA razão entre as massas do canudo de plástico e do canudo de vidro corresponde a:",
       subItens: []
     },
     options: ["1,2","0,8","0,4","0,2"],
@@ -708,7 +708,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "Brasil não cresce se não reduzir sua desigualdade\nO Brasil não voltará a crescer de forma sustentável enquanto não reduzir sua desigualdade e a extrema concentração da renda no topo da pirâmide social, diz o economista francês Thomas Piketty. Autor do livro O capital no século XXI, no qual apontou um aumento da concentração no topo da pirâmide social nos Estados Unidos e na Europa, Piketty agora se dedica a um grupo de pesquisas que investiga o que ocorreu em países em desenvolvimento como o Brasil, a China e a Índia.\nAdaptado de folha.uol.com.br, 28/09/2017.\n\nPara Thomas Piketty, a situação de desigualdade referida no texto dificulta o crescimento econômico nacional.\nTendo em vista a lógica do modo de produção capitalista, um motivo que explica essa dificuldade é:",
+      principal: "Brasil não cresce se não reduzir sua desigualdade\nO Brasil não voltará a crescer de forma sustentável enquanto não reduzir sua desigualdade e a extrema concentração da renda no topo da pirâmide social, diz o economista francês Thomas Piketty. Autor do livro O capital no século XXI, no qual apontou um aumento da concentração no topo da pirâmide social nos Estados Unidos e na Europa, Piketty agora se dedica a um grupo de pesquisas que investiga o que ocorreu em países em desenvolvimento como o Brasil, a China e a Índia.\nAdaptado de folha.uol.com.br, $\\\\frac{28}{09}$/2017.\n\nPara Thomas Piketty, a situação de desigualdade referida no texto dificulta o crescimento econômico nacional.\nTendo em vista a lógica do modo de produção capitalista, um motivo que explica essa dificuldade é:",
       subItens: []
     },
     options: ["ampliação da insegurança jurídica","restrição do mercado consumidor","intensificação do processo inflacionário","limitação da criatividade empreendedora"],
@@ -753,7 +753,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "BRASIL: ALUNOS MATRICULADOS NO ENSINO FUNDAMENTAL\n[GRAPH: Line graph showing number of students enrolled in 1st-5th grades and 6th-9th grades from 2008-2016]\nAdaptado de gazetadopovo.com.br, 17/10/2017.\n\nO gráfico aponta uma variação do número de alunos no ensino fundamental que pode ser associada a mudanças etárias.\nO par de pirâmides etárias brasileiras que explica tal variação é:\n[IMAGE: Four sets of age pyramids (A, B, C, D) comparing masculine and feminine populations for 2008 and 2016]\nFonte: populationpyramid.net",
+      principal: "BRASIL: ALUNOS MATRICULADOS NO ENSINO FUNDAMENTAL\n[GRAPH: Line graph showing number of students enrolled in 1st-5th grades and 6th-9th grades from 2008-2016]\nAdaptado de gazetadopovo.com.br, $\\\\frac{17}{10}$/2017.\n\nO gráfico aponta uma variação do número de alunos no ensino fundamental que pode ser associada a mudanças etárias.\nO par de pirâmides etárias brasileiras que explica tal variação é:\n[IMAGE: Four sets of age pyramids (A, B, C, D) comparing masculine and feminine populations for 2008 and 2016]\nFonte: populationpyramid.net",
       subItens: []
     },
     options: ["[Image A]","[Image B]","[Image C]","[Image D]"],
@@ -813,7 +813,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "[IMAGE: Album cover of Tropicália ou Panis et circensis by various artists]\npatriciafinotti.com.br\n\nO álbum de músicas Tropicália ou Panis et circensis foi lançado em 1968. A fotografia que estampou sua capa foi realizada na casa de Oliver Perroy, fotógrafo da Editora Abril, em São Paulo. Cada um levou seus apetrechos, até um penico, comicamente usado por Rogério Duprat como se fosse uma xícara. A imagem ficou tão famosa que se tornou uma espécie de cartão-postal do movimento tropicalista.\nAdaptado de $1_{508}$.com.br.\n\nNo contexto do final da década de 1960, o Tropicalismo, que causou polêmicas com produções como a do álbum citado, tornou-se símbolo de:",
+      principal: "[IMAGE: Album cover of Tropicália ou Panis et circensis by various artists]\npatriciafinotti.com.br\n\nO álbum de músicas Tropicália ou Panis et circensis foi lançado em 1968. A fotografia que estampou sua capa foi realizada na casa de Oliver Perroy, fotógrafo da Editora Abril, em São Paulo. Cada um levou seus apetrechos, até um penico, comicamente usado por Rogério Duprat como se fosse uma xícara. A imagem ficou tão famosa que se tornou uma espécie de cartão-postal do movimento tropicalista.\nAdaptado de f_{508}.com.br.\n\nNo contexto do final da década de 1960, o Tropicalismo, que causou polêmicas com produções como a do álbum citado, tornou-se símbolo de:",
       subItens: []
     },
     options: ["purismo estético","extremismo político","tradicionalismo artístico","experimentalismo cultural"],
@@ -843,7 +843,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "BRASIL: USO DE AGROTÓXICOS POR CULTURA (2015)\n[GRAPH: Pie chart showing percentage of agrochemical use by culture (soja, cana, milho, algodão, trigo, café, pastagem, arroz, feijão, outros)]\nAdaptado de BOMBARDI, L. M. Geografia do uso de agrotóxicos no Brasil e conexões com a União Europeia.\nSão Paulo: FFLCH/USP, 2017.\n\nUma característica econômica comum aos quatro cultivos brasileiros nos quais os agrotóxicos são mais utilizados é a expressiva:",
+      principal: "BRASIL: USO DE AGROTÓXICOS POR CULTURA (2015)\n[GRAPH: Pie chart showing percentage of agrochemical use by culture (soja, cana, milho, algodão, trigo, café, pastagem, arroz, feijão, outros)]\nAdaptado de BOMBARDI, L. M. Geografia do uso de agrotóxicos no Brasil e conexões com a União Europeia.\nSão Paulo: $\\\\frac{FFLCH}{USP}$, 2017.\n\nUma característica econômica comum aos quatro cultivos brasileiros nos quais os agrotóxicos são mais utilizados é a expressiva:",
       subItens: []
     },
     options: ["relevância na pauta de exportação","participação na absorção de mão de obra","centralidade na alimentação da população","influência na desconcentração da propriedade"],
@@ -858,7 +858,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "DIFERENÇA DE SALÁRIOS (2016)\n[GRAPH: Bar charts showing average salaries for men and women, by race (brancos, negros ou pardos)]\n[GRAPH: Bar charts showing percentage of population aged 25 or more with higher education, by gender and race]\nAdaptado de O Globo, 08/03/2018.\n\nOs levantamentos feitos pelo Instituto Brasileiro de Geografia e Estatística indicam diferenças quanto à remuneração e ao acesso ao ensino superior de homens e mulheres.\nA partir dos dados, observa-se a permanência da seguinte prática:",
+      principal: "DIFERENÇA DE SALÁRIOS (2016)\n[GRAPH: Bar charts showing average salaries for men and women, by race (brancos, negros ou pardos)]\n[GRAPH: Bar charts showing percentage of population aged 25 or more with higher education, by gender and race]\nAdaptado de O Globo, $\\\\frac{08}{03}$/2018.\n\nOs levantamentos feitos pelo Instituto Brasileiro de Geografia e Estatística indicam diferenças quanto à remuneração e ao acesso ao ensino superior de homens e mulheres.\nA partir dos dados, observa-se a permanência da seguinte prática:",
       subItens: []
     },
     options: ["exclusão política","discriminação racial","homogeneização cultural","hierarquização econômica"],
@@ -873,7 +873,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "[IMAGE: Photo of a class in the University of Maiduguri, Nigeria, 2017]\nAula na Universidade de Maiduguri, na Nigéria, 2017.\n\nPara boa parte do mundo, a cidade nigeriana de Maiduguri é conhecida apenas como o local de origem do Boko Haram, o grupo extremista que mata desenfreadamente e trata mulheres e meninas como propriedades, obrigando-as a cozinhar, limpar, parir filhos e morrer, se necessário. Mas existe outra Maiduguri totalmente diferente, que ajuda a entender a batalha ideológica que está ocorrendo no norte da Nigéria: trata-se de uma capital regional, reconhecida por acolher pessoas de todas as crenças e etnias, uma cidade universitária há muito conhecida por sua vida noturna e por sua energia, com uma juventude ousada e muitas vezes liberal que oito anos de guerra parecem não conseguir extinguir.\nAdaptado de noticias.uol.com.br, 27/12/2017.\n\nGrupos extremistas instauram guerras civis em diversas sociedades contemporâneas, inclusive com ações terroristas como as realizadas pelo Boko Haram.\nCom base na reportagem, a batalha ideológica na cidade de Maiduguri está associada ao confronto entre as seguintes ideias:",
+      principal: "[IMAGE: Photo of a class in the University of Maiduguri, Nigeria, 2017]\nAula na Universidade de Maiduguri, na Nigéria, 2017.\n\nPara boa parte do mundo, a cidade nigeriana de Maiduguri é conhecida apenas como o local de origem do Boko Haram, o grupo extremista que mata desenfreadamente e trata mulheres e meninas como propriedades, obrigando-as a cozinhar, limpar, parir filhos e morrer, se necessário. Mas existe outra Maiduguri totalmente diferente, que ajuda a entender a batalha ideológica que está ocorrendo no norte da Nigéria: trata-se de uma capital regional, reconhecida por acolher pessoas de todas as crenças e etnias, uma cidade universitária há muito conhecida por sua vida noturna e por sua energia, com uma juventude ousada e muitas vezes liberal que oito anos de guerra parecem não conseguir extinguir.\nAdaptado de noticias.uol.com.br, $\\\\frac{27}{12}$/2017.\n\nGrupos extremistas instauram guerras civis em diversas sociedades contemporâneas, inclusive com ações terroristas como as realizadas pelo Boko Haram.\nCom base na reportagem, a batalha ideológica na cidade de Maiduguri está associada ao confronto entre as seguintes ideias:",
       subItens: []
     },
     options: ["identidade de raça – pluralismo político","liberdade de expressão – nacionalismo africano","superioridade de classe – culturalismo ocidental","igualdade de gênero – fundamentalismo religioso"],
@@ -888,7 +888,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2019,
     text: {
-      principal: "[IMAGE: Poster with two silhouetted figures, one from 1915 and another from 1939, with text: \"CONDENANDO O PRIMEIRO, PODERÍAMOS TER EVITADO O SEGUNDO\"]\n\nO cartaz acima, divulgado no aeroporto, nas ruas e nos ônibus de Yerevan, capital da Armênia, faz alusão ao líder otomano Talaat Pasha e a Adolf Hitler. A imagem é uma das muitas espalhadas pela cidade para lembrar o centenário do massacre de até 1,5 milhão de armênios nas mãos dos turcos-otomanos, cujo império estava se desintegrando em meio à Primeira Guerra Mundial (1914-1918). Muitos eram civis deportados a regiões desérticas, onde morreram de fome e sede. Outros milhares foram massacrados. No centro da cidade, muitos pontos de ônibus exibem fotos de sobreviventes.\nAdaptado de bbc.com, 24/04/2015.\n\nAtravés da lembrança do massacre dos armênios, em 1915, é possível comparar experiências históricas com o objetivo de fomentar, na atualidade, práticas sociais de reconhecimento de:",
+      principal: "[IMAGE: Poster with two silhouetted figures, one from 1915 and another from 1939, with text: \"CONDENANDO O PRIMEIRO, PODERÍAMOS TER EVITADO O SEGUNDO\"]\n\nO cartaz acima, divulgado no aeroporto, nas ruas e nos ônibus de Yerevan, capital da Armênia, faz alusão ao líder otomano Talaat Pasha e a Adolf Hitler. A imagem é uma das muitas espalhadas pela cidade para lembrar o centenário do massacre de até 1,5 milhão de armênios nas mãos dos turcos-otomanos, cujo império estava se desintegrando em meio à Primeira Guerra Mundial (1914-1918). Muitos eram civis deportados a regiões desérticas, onde morreram de fome e sede. Outros milhares foram massacrados. No centro da cidade, muitos pontos de ônibus exibem fotos de sobreviventes.\nAdaptado de bbc.com, $\\\\frac{24}{04}$/2015.\n\nAtravés da lembrança do massacre dos armênios, em 1915, é possível comparar experiências históricas com o objetivo de fomentar, na atualidade, práticas sociais de reconhecimento de:",
       subItens: []
     },
     options: ["atos de genocídio e reparação das famílias vitimadas","ações de expansionismo e continuidade das disputas territoriais","projetos do totalitarismo e permanência de regimes autocráticos","estratégias de conquista e convocação de tribunais internacionais"],

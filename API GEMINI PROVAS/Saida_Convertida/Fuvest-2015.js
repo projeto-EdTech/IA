@@ -153,7 +153,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Observe a charge.\nPetar Pismestrovic. www.contextoshistoricos.blogspot.com.br. Acessado em 15/06/2014. Adaptado.\nCom base na charge e em seus conhecimentos, avalie as afirmações:\nI. O rápido e intenso crescimento econômico chinês se deu às custas da exploração de recursos florestais da União Europeia.\nII. A despeito da distinta condição econômica da União Europeia e da China na atualidade, essas economias permanecem interligadas.\nIII. A dependência econômica da China em relação à União Europeia assenta-se no consumo do etanol europeu.\nIV. Enquanto parte da União Europeia vive uma crise econômica, a economia chinesa cresce.\nEstá correto apenas o que se afirma em",
+      principal: "Observe a charge.\nPetar Pismestrovic. www.contextoshistoricos.blogspot.com.br. Acessado em $\\\\frac{15}{06}$/2014. Adaptado.\nCom base na charge e em seus conhecimentos, avalie as afirmações:\nI. O rápido e intenso crescimento econômico chinês se deu às custas da exploração de recursos florestais da União Europeia.\nII. A despeito da distinta condição econômica da União Europeia e da China na atualidade, essas economias permanecem interligadas.\nIII. A dependência econômica da China em relação à União Europeia assenta-se no consumo do etanol europeu.\nIV. Enquanto parte da União Europeia vive uma crise econômica, a economia chinesa cresce.\nEstá correto apenas o que se afirma em",
       subItens: []
     },
     options: [],
@@ -168,7 +168,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Considere que a motorização de um país constitui um importante indicador para o planejamento dos transportes e da mobilidade urbana. Esse indicador pode ser obtido, por exemplo, com base na relação entre o número de habitantes e o de autoveículos, tal como expresso no gráfico abaixo. Destaque-se o fato de que, quanto menor essa relação, maior a motorização de um país.\nHABITANTES POR AUTOVEÍCULO EM ALGUNS PAÍSES\nAnuário da Anfavea 2014. www.anfavea.com.br. Acessado em 28/08/2014.\nCom base no gráfico e em seus conhecimentos, é correto afirmar que a motorização",
+      principal: "Considere que a motorização de um país constitui um importante indicador para o planejamento dos transportes e da mobilidade urbana. Esse indicador pode ser obtido, por exemplo, com base na relação entre o número de habitantes e o de autoveículos, tal como expresso no gráfico abaixo. Destaque-se o fato de que, quanto menor essa relação, maior a motorização de um país.\nHABITANTES POR AUTOVEÍCULO EM ALGUNS PAÍSES\nAnuário da Anfavea 2014. www.anfavea.com.br. Acessado em $\\\\frac{28}{08}$/2014.\nCom base no gráfico e em seus conhecimentos, é correto afirmar que a motorização",
       subItens: []
     },
     options: [],
@@ -198,7 +198,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "O grupo Boko Haram, autor do sequestro, em abril de 2014, de mais de duzentas estudantes, que, posteriormente, segundo os líderes do grupo, seriam vendidas, nasceu de uma seita que atraiu seguidores com um discurso crítico em relação ao regime local. Pregando um isla radical e rigoroso, Mohammed Yusuf, um dos fundadores, acusava os valores ocidentais, instaurados pelos colonizadores britânicos, de serem a fonte de todos os males sofridos pelo país. Boko Haram significa “a educação ocidental é pecaminosa\" em haussa, uma das línguas faladas no país.\nwww.cartacapital.com.br. Acessado em 13/05/2014. Adaptado.\nO texto se refere",
+      principal: "O grupo Boko Haram, autor do sequestro, em abril de 2014, de mais de duzentas estudantes, que, posteriormente, segundo os líderes do grupo, seriam vendidas, nasceu de uma seita que atraiu seguidores com um discurso crítico em relação ao regime local. Pregando um isla radical e rigoroso, Mohammed Yusuf, um dos fundadores, acusava os valores ocidentais, instaurados pelos colonizadores britânicos, de serem a fonte de todos os males sofridos pelo país. Boko Haram significa “a educação ocidental é pecaminosa\" em haussa, uma das línguas faladas no país.\nwww.cartacapital.com.br. Acessado em $\\\\frac{13}{05}$/2014. Adaptado.\nO texto se refere",
       subItens: []
     },
     options: [],
@@ -243,7 +243,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "São objetivos do Plano Diretor SP: promover melhor aproveitamento do solo nas proximidades do sistema estrutural de transporte coletivo com aumento na densidade construtiva, demográfica, habitacional e de atividades urbanas; incrementar a oferta de comércios, serviços e emprego em áreas pobres da periferia; ampliar a oferta de habitações de interesse social nas proximidades do sistema estrutural de transporte coletivo.\nDiário Oficial. Cidade de São Paulo, 01/08/2014. Adaptado.\nÉ correto afirmar que tais medidas visam a",
+      principal: "São objetivos do Plano Diretor SP: promover melhor aproveitamento do solo nas proximidades do sistema estrutural de transporte coletivo com aumento na densidade construtiva, demográfica, habitacional e de atividades urbanas; incrementar a oferta de comércios, serviços e emprego em áreas pobres da periferia; ampliar a oferta de habitações de interesse social nas proximidades do sistema estrutural de transporte coletivo.\nDiário Oficial. Cidade de São Paulo, $\\\\frac{01}{08}$/2014. Adaptado.\nÉ correto afirmar que tais medidas visam a",
       subItens: []
     },
     options: [],
@@ -303,7 +303,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "As perspectivas ficaram mais pessimistas porque a seca atual do Sistema Cantareira é mais crítica que a de 1953, até então a pior da história e que servia de parâmetro para os técnicos dos governos estadual e federal.\nO Estado de S. Paulo, 17/03/2014. Adaptado.\nAcerca da crise hídrica apontada no texto acima e vivida pela cidade de São Paulo e pela Região Metropolitana, é correto afirmar que a situação apresentada é de natureza, entre outras,",
+      principal: "As perspectivas ficaram mais pessimistas porque a seca atual do Sistema Cantareira é mais crítica que a de 1953, até então a pior da história e que servia de parâmetro para os técnicos dos governos estadual e federal.\nO Estado de S. Paulo, $\\\\frac{17}{03}$/2014. Adaptado.\nAcerca da crise hídrica apontada no texto acima e vivida pela cidade de São Paulo e pela Região Metropolitana, é correto afirmar que a situação apresentada é de natureza, entre outras,",
       subItens: []
     },
     options: [],
@@ -333,7 +333,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 23 E 24\nComo sabemos, o efeito de um livro sobre nós, mesmo no que se refere à simples informação, depende de muita coisa além do valor que ele possa ter. Depende do momento da vida em que o lemos, do grau do nosso conhecimento, da finalidade que temos pela frente. Para quem pouco leu e pouco sabe, um compêndio de ginásio pode ser a fonte reveladora. Para quem sabe muito, um livro importante não passa de chuva no molhado. Além disso, há as afinidades profundas, que nos fazem afinar com certo autor (e portanto aproveitá-lo ao máximo) e não com outro, independente da valia de ambos.\nAntonio Candido, \"Dez livros para entender o Brasil\". Teoria e debate. Ed. 45, 01/07/2000.\nTraduz uma ideia presente no texto a seguinte afirmação:",
+      principal: "TEXTO PARA AS QUESTÕES 23 E 24\nComo sabemos, o efeito de um livro sobre nós, mesmo no que se refere à simples informação, depende de muita coisa além do valor que ele possa ter. Depende do momento da vida em que o lemos, do grau do nosso conhecimento, da finalidade que temos pela frente. Para quem pouco leu e pouco sabe, um compêndio de ginásio pode ser a fonte reveladora. Para quem sabe muito, um livro importante não passa de chuva no molhado. Além disso, há as afinidades profundas, que nos fazem afinar com certo autor (e portanto aproveitá-lo ao máximo) e não com outro, independente da valia de ambos.\nAntonio Candido, \"Dez livros para entender o Brasil\". Teoria e debate. Ed. 45, $\\\\frac{01}{07}$/2000.\nTraduz uma ideia presente no texto a seguinte afirmação:",
       subItens: []
     },
     options: [],
@@ -348,7 +348,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 23 E 24\nComo sabemos, o efeito de um livro sobre nós, mesmo no que se refere à simples informação, depende de muita coisa além do valor que ele possa ter. Depende do momento da vida em que o lemos, do grau do nosso conhecimento, da finalidade que temos pela frente. Para quem pouco leu e pouco sabe, um compêndio de ginásio pode ser a fonte reveladora. Para quem sabe muito, um livro importante não passa de chuva no molhado. Além disso, há as afinidades profundas, que nos fazem afinar com certo autor (e portanto aproveitá-lo ao máximo) e não com outro, independente da valia de ambos.\nAntonio Candido, \"Dez livros para entender o Brasil\". Teoria e debate. Ed. 45, 01/07/2000.\nConstitui recurso estilístico do texto\nI. a combinação da variedade culta da língua escrita, que nele é predominante, com expressões mais comuns na língua oral;\nII. a repetição de estruturas sintáticas, associada ao emprego de vocabulário corrente, com feição didática;\nIII. o emprego dominante do jargão científico, associado à exploração intensiva da intertextualidade.\nEstá correto apenas o que se indica em",
+      principal: "TEXTO PARA AS QUESTÕES 23 E 24\nComo sabemos, o efeito de um livro sobre nós, mesmo no que se refere à simples informação, depende de muita coisa além do valor que ele possa ter. Depende do momento da vida em que o lemos, do grau do nosso conhecimento, da finalidade que temos pela frente. Para quem pouco leu e pouco sabe, um compêndio de ginásio pode ser a fonte reveladora. Para quem sabe muito, um livro importante não passa de chuva no molhado. Além disso, há as afinidades profundas, que nos fazem afinar com certo autor (e portanto aproveitá-lo ao máximo) e não com outro, independente da valia de ambos.\nAntonio Candido, \"Dez livros para entender o Brasil\". Teoria e debate. Ed. 45, $\\\\frac{01}{07}$/2000.\nConstitui recurso estilístico do texto\nI. a combinação da variedade culta da língua escrita, que nele é predominante, com expressões mais comuns na língua oral;\nII. a repetição de estruturas sintáticas, associada ao emprego de vocabulário corrente, com feição didática;\nIII. o emprego dominante do jargão científico, associado à exploração intensiva da intertextualidade.\nEstá correto apenas o que se indica em",
       subItens: []
     },
     options: [],
@@ -588,7 +588,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-deficit/hyperactivity disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nO foco principal do texto são as",
+      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-$\\\\frac{deficit}{hyperactivity}$ disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nO foco principal do texto são as",
       subItens: []
     },
     options: [],
@@ -603,7 +603,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-deficit/hyperactivity disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nSegundo estudo publicado no Journal of Neuroscience, mencionado no texto,",
+      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-$\\\\frac{deficit}{hyperactivity}$ disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nSegundo estudo publicado no Journal of Neuroscience, mencionado no texto,",
       subItens: []
     },
     options: [],
@@ -618,7 +618,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-deficit/hyperactivity disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nDe acordo com o texto, a pesquisa mencionada pode",
+      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-$\\\\frac{deficit}{hyperactivity}$ disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nDe acordo com o texto, a pesquisa mencionada pode",
       subItens: []
     },
     options: [],
@@ -723,7 +723,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "O sólido da figura é formado pela pirâmide SABCD sobre o paralelepípedo reto ABCDEFGH. Sabe-se que S pertence à reta determinada por A e E e que AE = 2 cm, AD = 4 cm e AB = 5 cm. A medida do segmento SA que faz com que o volume do sólido seja igual a 4/3 do volume da pirâmide SEFGH é",
+      principal: "O sólido da figura é formado pela pirâmide SABCD sobre o paralelepípedo reto ABCDEFGH. Sabe-se que S pertence à reta determinada por A e E e que AE = 2 cm, AD = 4 cm e AB = 5 cm. A medida do segmento SA que faz com que o volume do sólido seja igual a $\\\\frac{4}{3}$ do volume da pirâmide SEFGH é",
       subItens: []
     },
     options: [],
@@ -768,7 +768,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Dadas as sequências an = n² + 4n + 4, bn = 2n², Cn = An+1 - an e dn = bn+1/bn, definidas para valores inteiros positivos de n, considere as seguintes afirmações:\nI. an é uma progressão geométrica;\nII. bn é uma progressão geométrica;\nIII. Cn é uma progressão aritmética;\nIV. dn é uma progressão geométrica.\nSão verdadeiras apenas",
+      principal: "Dadas as sequências an = n² + 4n + 4, bn = 2n², Cn = An+1 - an e dn = bn+$\\\\frac{1}{bn}$, definidas para valores inteiros positivos de n, considere as seguintes afirmações:\nI. an é uma progressão geométrica;\nII. bn é uma progressão geométrica;\nIII. Cn é uma progressão aritmética;\nIV. dn é uma progressão geométrica.\nSão verdadeiras apenas",
       subItens: []
     },
     options: [],
@@ -798,7 +798,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Examine o gráfico.\nPORCENTAGEM DE REGISTROS DE NASCIMENTOS DO ANO, POR GRUPOS DE IDADES DA MÃE\nBRASIL - 1999/2004/2009\nIBGE. Diretoria de Pesquisa, Coordenação de População e Indicadores Sociais, Estatísticas do Registro Civil, 1999/2004/2009. Adaptado.\nCom base nos dados do gráfico, pode-se afirmar corretamente que a idade",
+      principal: "Examine o gráfico.\nPORCENTAGEM DE REGISTROS DE NASCIMENTOS DO ANO, POR GRUPOS DE IDADES DA MÃE\nBRASIL - $\\\\frac{1999}{2004}$/2009\nIBGE. Diretoria de Pesquisa, Coordenação de População e Indicadores Sociais, Estatísticas do Registro Civil, $\\\\frac{1999}{2004}$/2009. Adaptado.\nCom base nos dados do gráfico, pode-se afirmar corretamente que a idade",
       subItens: []
     },
     options: [],
@@ -813,7 +813,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "A grafite de um lápis tem quinze centímetros de comprimento e dois milímetros de espessura. Dentre os valores abaixo, o que mais se aproxima do número de átomos presentes nessa grafite é\nNote:\$1_{1}$) Assuma que a grafite é um cilindro circular reto, feito de grafita pura. A espessura da grafite é o diâmetro da base do cilindro.\$1_{2}$) Adote os valores aproximados de:\n• 2,2 g/cm³ para a densidade da grafita;\n• 12 g/mol para a massa molar do carbono;\n• $1 \times 10^{23}$ mol⁻¹ para a constante de Avogadro.",
+      principal: "A grafite de um lápis tem quinze centímetros de comprimento e dois milímetros de espessura. Dentre os valores abaixo, o que mais se aproxima do número de átomos presentes nessa grafite é\nNote:\n1) Assuma que a grafite é um cilindro circular reto, feito de grafita pura. A espessura da grafite é o diâmetro da base do cilindro.\n2) Adote os valores aproximados de:\n• 2,2 $\\\\frac{g}{cm}$³ para a densidade da grafita;\n• 12 $\\\\frac{g}{mol}$ para a massa molar do carbono;\n• $1 \\\\times 10^{23}$ mol⁻¹ para a constante de Avogadro.",
       subItens: []
     },
     options: [],
@@ -843,7 +843,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Para impedir que a pressão interna de uma panela de pressão ultrapasse um certo valor, em sua tampa há um dispositivo formado por um pino acoplado a um tubo cilíndrico, como esquematizado na figura ao lado. Enquanto a força resultante sobre o pino for dirigida para baixo, a panela está perfeitamente vedada. Considere o diâmetro interno do tubo cilíndrico igual a 4 mm e a massa do pino igual a 48 g. Na situação em que apenas a força gravitacional, a pressão atmosférica e a exercida pelos gases na panela atuam no pino, a pressão absoluta máxima no interior da panela é\nNote e adote:\nπ = 3\$1_{1}$ atm = $1^{5}$ N/m²\naceleração local da gravidade = 10 m/s²",
+      principal: "Para impedir que a pressão interna de uma panela de pressão ultrapasse um certo valor, em sua tampa há um dispositivo formado por um pino acoplado a um tubo cilíndrico, como esquematizado na figura ao lado. Enquanto a força resultante sobre o pino for dirigida para baixo, a panela está perfeitamente vedada. Considere o diâmetro interno do tubo cilíndrico igual a 4 mm e a massa do pino igual a 48 g. Na situação em que apenas a força gravitacional, a pressão atmosférica e a exercida pelos gases na panela atuam no pino, a pressão absoluta máxima no interior da panela é\nNote e adote:\nπ = 3\n1 atm = 10^{5}$ $\\\\frac{N}{m}$²\naceleração local da gravidade = 10 $\\\\frac{m}{s}$²",
       subItens: []
     },
     options: [],
@@ -903,7 +903,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "A notícia \"Satélite brasileiro cai na Terra após lançamento falhar\", veiculada pelo jornal O Estado de S. Paulo de 10/12/2013, relata que o satélite CBERS-3, desenvolvido em parceria entre Brasil e China, foi lançado no espaço a uma altitude de 720 km (menor do que a planejada) e com uma velocidade abaixo da necessária para colocá-lo em órbita em torno da Terra. Para que o satélite pudesse ser colocado em órbita circular na altitude de 720 km, o módulo de sua velocidade (com direção tangente à órbita) deveria ser de, aproximadamente,\nNote e adote:\nraio da Terra = $1 \times 10^{3}$ km\nmassa da Terra = $1 \times 10^{24}$ kg\nconstante de gravitação universal G = $1 \times 10^{-11}$ m³ / (s² kg)",
+      principal: "A notícia \"Satélite brasileiro cai na Terra após lançamento falhar\", veiculada pelo jornal O Estado de S. Paulo de $\\\\frac{10}{12}$/2013, relata que o satélite CBERS-3, desenvolvido em parceria entre Brasil e China, foi lançado no espaço a uma altitude de 720 km (menor do que a planejada) e com uma velocidade abaixo da necessária para colocá-lo em órbita em torno da Terra. Para que o satélite pudesse ser colocado em órbita circular na altitude de 720 km, o módulo de sua velocidade (com direção tangente à órbita) deveria ser de, aproximadamente,\nNote e adote:\nraio da Terra = $1 \\\\times 10^{3}$ km\nmassa da Terra = $1 \\\\times 10^{24}$ kg\nconstante de gravitação universal G = $1 \\\\times 10^{-11}$ m³ / (s² kg)",
       subItens: []
     },
     options: [],
@@ -918,7 +918,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Em uma aula de laboratório de Física, para estudar propriedades de cargas elétricas, foi realizado um experimento em que pequenas esferas eletrizadas são injetadas na parte superior de uma câmara, em vácuo, onde há um campo elétrico uniforme na mesma direção e sentido da aceleração local da gravidade. Observou-se que, com campo elétrico de módulo igual a 2 x 10³ V/m, uma das esferas, de massa $1 \times 10^{-15}$ kg, permanecia com velocidade constante no interior da câmara. Essa esfera tem\nNote e adote:\ncarga do elétron = – $1 \times 10^{-19}$ C\ncarga do próton = + $1 \times 10^{-19}$ C\naceleração local da gravidade = 10 m/s²",
+      principal: "Em uma aula de laboratório de Física, para estudar propriedades de cargas elétricas, foi realizado um experimento em que pequenas esferas eletrizadas são injetadas na parte superior de uma câmara, em vácuo, onde há um campo elétrico uniforme na mesma direção e sentido da aceleração local da gravidade. Observou-se que, com campo elétrico de módulo igual a 2 x 10³ $\\\\frac{V}{m}$, uma das esferas, de massa $1 \\\\times 10^{-15}$ kg, permanecia com velocidade constante no interior da câmara. Essa esfera tem\nNote e adote:\ncarga do elétron = – $1 \\\\times 10^{-19}$ C\ncarga do próton = + $1 \\\\times 10^{-19}$ C\naceleração local da gravidade = 10 $\\\\frac{m}{s}$²",
       subItens: []
     },
     options: [],
@@ -978,7 +978,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "A figura abaixo mostra o gráfico da energia potencial gravitacional U de uma esfera em uma pista, em função da componente horizontal x da posição da esfera na pista.\nNote e adote:\ndesconsidere efeitos dissipativos.\nA esfera é colocada em repouso na pista, na posição de abscissa x = $1_{1}$, tendo energia mecânica E < 0. A partir dessa condição, sua energia cinética tem valor",
+      principal: "A figura abaixo mostra o gráfico da energia potencial gravitacional U de uma esfera em uma pista, em função da componente horizontal x da posição da esfera na pista.\nNote e adote:\ndesconsidere efeitos dissipativos.\nA esfera é colocada em repouso na pista, na posição de abscissa x = x_{1}, tendo energia mecânica E < 0. A partir dessa condição, sua energia cinética tem valor",
       subItens: []
     },
     options: [],
@@ -993,7 +993,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "A figura acima mostra parte do teclado de um piano. Os valores das frequências das notas sucessivas, incluindo os sustenidos, representados pelo símbolo #, obedecem a uma progressão geométrica crescente da esquerda para a direita; a razão entre as frequências de duas notas Dó consecutivas vale 2; a frequência da nota Lá do teclado da figura é 440 Hz. O comprimento de onda, no ar, da nota Sol indicada na figura é próximo de\nNote e adote:\$1_{2}$^(1/12) = 1,059\n(1,059)² = 1,12\nvelocidade do som no ar = 340 m/s",
+      principal: "A figura acima mostra parte do teclado de um piano. Os valores das frequências das notas sucessivas, incluindo os sustenidos, representados pelo símbolo #, obedecem a uma progressão geométrica crescente da esquerda para a direita; a razão entre as frequências de duas notas Dó consecutivas vale 2; a frequência da nota Lá do teclado da figura é 440 Hz. O comprimento de onda, no ar, da nota Sol indicada na figura é próximo de\nNote e adote:\n2^($\\\\frac{1}{12}$) = 1,059\n(1,059)² = 1,12\nvelocidade do som no ar = 340 $\\\\frac{m}{s}$",
       subItens: []
     },
     options: [],
@@ -1068,7 +1068,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "A Gruta do Lago Azul (MS), uma caverna composta por um lago e várias salas, em que se encontram espeleotemas de origem carbonática (estalactites e estalagmites), é uma importante atração turística. O número de visitantes, entretanto, é controlado, não ultrapassando 300 por dia. Um estudante, ao tentar explicar tal restrição, levantou as seguintes hipóteses:\nI. Os detritos deixados indevidamente pelos visitantes se decompõem, liberando metano, que pode oxidar os espeleotemas.\nII. O aumento da concentração de gás carbônico que é liberado na respiração dos visitantes, e que interage com a água do ambiente, pode provocar a dissolução progressiva dos espeleotemas.\nIII. A concentração de oxigênio no ar diminui nos períodos de visita, e essa diminuição seria compensada pela liberação de $1_{2}_{}$ pelos espeleotemas.\nO controle do número de visitantes, do ponto de vista da Química, é explicado por",
+      principal: "A Gruta do Lago Azul (MS), uma caverna composta por um lago e várias salas, em que se encontram espeleotemas de origem carbonática (estalactites e estalagmites), é uma importante atração turística. O número de visitantes, entretanto, é controlado, não ultrapassando 300 por dia. Um estudante, ao tentar explicar tal restrição, levantou as seguintes hipóteses:\nI. Os detritos deixados indevidamente pelos visitantes se decompõem, liberando metano, que pode oxidar os espeleotemas.\nII. O aumento da concentração de gás carbônico que é liberado na respiração dos visitantes, e que interage com a água do ambiente, pode provocar a dissolução progressiva dos espeleotemas.\nIII. A concentração de oxigênio no ar diminui nos períodos de visita, e essa diminuição seria compensada pela liberação de O_{2} pelos espeleotemas.\nO controle do número de visitantes, do ponto de vista da Química, é explicado por",
       subItens: []
     },
     options: [],
@@ -1098,7 +1098,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Um estudante utilizou um programa de computador para testar seus conhecimentos sobre concentração de soluções. No programa de simulação, ele deveria escolher um soluto para dissolver em água, a quantidade desse soluto, em mol, e o volume da solução. Uma vez escolhidos os valores desses parâmetros, o programa apresenta, em um mostrador, a concentração da solução. A tela inicial do simulador é mostrada a seguir.\nO estudante escolheu um soluto e moveu os cursores A e B até que o mostrador de concentração indicasse o valor 0,50 mol/L. Quando esse valor foi atingido, os cursores A e B poderiam estar como mostrado em",
+      principal: "Um estudante utilizou um programa de computador para testar seus conhecimentos sobre concentração de soluções. No programa de simulação, ele deveria escolher um soluto para dissolver em água, a quantidade desse soluto, em mol, e o volume da solução. Uma vez escolhidos os valores desses parâmetros, o programa apresenta, em um mostrador, a concentração da solução. A tela inicial do simulador é mostrada a seguir.\nO estudante escolheu um soluto e moveu os cursores A e B até que o mostrador de concentração indicasse o valor 0,50 $\\\\frac{mol}{L}$. Quando esse valor foi atingido, os cursores A e B poderiam estar como mostrado em",
       subItens: []
     },
     options: [],
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Uma estudante de Química realizou o seguinte experimento: pesou um tubo de ensaio vazio, colocou nele um pouco de $1_{3}$ (s) e pesou novamente. Em seguida, adicionou ao tubo de ensaio excesso de solução aquosa de HCl, o que provocou a reação química representada por $1_{3}$ (s) + HCl (aq) → NaCl (aq) + $1_{2}$ (g) + $1_{2}O_{}$ (l) Após a reação ter-se completado, a estudante aqueceu o sistema cuidadosamente, até que restasse apenas um sólido seco no tubo de ensaio. Deixou o sistema resfriar até a temperatura ambiente e o pesou novamente. A estudante anotou os resultados desse experimento em seu caderno, juntamente com dados obtidos consultando um manual de Química:\nDados obtidos no experimento:\nMassa do tubo de ensaio vazio: 8,70 g\nMassa do tubo de ensaio + $1_{3}$(s): 11,20 g\nMassa do tubo de ensaio + produto sólido nele contido ao final do experimento: 10,45 g\nDados obtidos consultando um manual de Química:\nmassas molares (g/mol)\nH = 1,00, Na = 23,0, C = 12,0, Cl = 35,5, O = 16,0\nA estudante desejava determinar a massa de\nI. HCl que não reagiu;\nII. NaCl que se formou;\nIII. $1_{2}$ que se formou.\nConsiderando as anotações feitas pela estudante, é possível determinar a massa de",
+      principal: "Uma estudante de Química realizou o seguinte experimento: pesou um tubo de ensaio vazio, colocou nele um pouco de NaHCO_{3} (s) e pesou novamente. Em seguida, adicionou ao tubo de ensaio excesso de solução aquosa de HCl, o que provocou a reação química representada por NaHCO_{3} (s) + HCl (aq) → NaCl (aq) + CO_{2} (g) + H_{2}O (l) Após a reação ter-se completado, a estudante aqueceu o sistema cuidadosamente, até que restasse apenas um sólido seco no tubo de ensaio. Deixou o sistema resfriar até a temperatura ambiente e o pesou novamente. A estudante anotou os resultados desse experimento em seu caderno, juntamente com dados obtidos consultando um manual de Química:\nDados obtidos no experimento:\nMassa do tubo de ensaio vazio: 8,70 g\nMassa do tubo de ensaio + NaHCO_{3}(s): 11,20 g\nMassa do tubo de ensaio + produto sólido nele contido ao final do experimento: 10,45 g\nDados obtidos consultando um manual de Química:\nmassas molares ($\\\\frac{g}{mol}$)\nH = 1,00, Na = 23,0, C = 12,0, Cl = 35,5, O = 16,0\nA estudante desejava determinar a massa de\nI. HCl que não reagiu;\nII. NaCl que se formou;\nIII. CO_{2} que se formou.\nConsiderando as anotações feitas pela estudante, é possível determinar a massa de",
       subItens: []
     },
     options: [],
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2015,
     text: {
-      principal: "Soluções aquosas de ácido clorídrico, HCl (aq), e de ácido acético, $1_{3}CCOOH_{}$ (aq), ambas de concentração 0,10 mol/L, apresentam valores de pH iguais a 1,0 e 2,9, respectivamente.\nEm experimentos separados, volumes iguais de cada uma dessas soluções foram titulados com uma solução aquosa de hidróxido de sódio, NaOH (aq), de concentração adequada. Nessas titulações, a solução de NaOH foi adicionada lentamente ao recipiente contendo a solução ácida, até reação completa. Sejam V₁ o volume da solução de NaOH para reação completa com a solução de HCl e $1_{2}_{}$ o volume da solução de NaOH para reação completa com a solução de $1_{3}CCOOH_{}$. A relação entre V₁ e $1_{2}_{}$ é",
+      principal: "Soluções aquosas de ácido clorídrico, HCl (aq), e de ácido acético, H_{3}CCOOH (aq), ambas de concentração 0,10 $\\\\frac{mol}{L}$, apresentam valores de pH iguais a 1,0 e 2,9, respectivamente.\nEm experimentos separados, volumes iguais de cada uma dessas soluções foram titulados com uma solução aquosa de hidróxido de sódio, NaOH (aq), de concentração adequada. Nessas titulações, a solução de NaOH foi adicionada lentamente ao recipiente contendo a solução ácida, até reação completa. Sejam V₁ o volume da solução de NaOH para reação completa com a solução de HCl e V_{2} o volume da solução de NaOH para reação completa com a solução de H_{3}CCOOH. A relação entre V₁ e V_{2} é",
       subItens: []
     },
     options: [],

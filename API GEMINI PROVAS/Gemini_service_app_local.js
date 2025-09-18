@@ -97,32 +97,48 @@ const jsonSchema = {
 async function main() {
     const prompt = [
     { text: `
-    Você é um assistente de IA especialista em análise de provas de vestibulares. Sua única função é processar o arquivo PDF de uma prova e seu respectivo gabarito oficial.
-    Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes informações:
-    - Análise Geral da Prova: O nome da Universidade/Prova, o ano e a quantidade total de questões.
-    - Para cada questão:
+Você é um assistente de IA especialista em análise de provas de vestibulares. Sua única função é processar o arquivo PDF de uma prova e seu respectivo gabarito oficial.
+
+Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes informações:
+- Análise Geral da Prova: O nome da Universidade/Prova, o ano e a quantidade total de questões.
+- Para cada questão:
     - O número da questão.
     - O enunciado completo, incluindo qualquer texto associado a imagens, gráficos ou tabelas.
     - A lista de todas as alternativas (A, B, C, D, E).
     - A letra da alternativa correta, que deve ser extraída do arquivo de gabarito.
     - O(s) conteúdo(s) abordados na questão no formato: "Disciplina – Tópico Específico" (exemplo: "Matemática – Funções do 1º grau").
 
-    Importante: A disciplina deve ser exclusivamente uma das seguintes: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia" ou "Sociologia". Não utilize nenhuma outra. Caso a questão não pertença a uma dessas três disciplinas, ignore-a e não a inclua no resultado.
-    O primeiro PDF anexado contém a prova e o segundo PDF contém o gabarito oficial. Você deve extrair as informações de ambos os arquivos, para relacionar os dados.
-    A saída final deve ser estritamente um único objeto JSON puro, sem explicações, comentários, ou formatações extras como blocos de código. Siga o schema da função fornecida com exatidão, não altere nenhum nome dos campos do jsonschema apresentado.
-    Além disto você é ABSOLUTAMENTE CRÍTICO que os argumentos que você fornecer à função 'extrair_dados_prova' sigam EXATAMENTE o JSON Schema que lhe foi dado, sem quaisquer variações nos nomes dos campos ou nos tipos de dados.
+### **Regras Críticas de Processamento:**
 
-    Especificamente, garanta que:
-    - Os campos iniciais do JSON devem ser 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
-    - O array de questões seja 'questoes'.
-    - Cada objeto dentro do array 'questoes' tenha os campos:
-        - 'numeroEnunciado' (NÃO 'numeroQuestao').
-        - 'enunciado'.
-        - 'alternativas' seja um ARRAY de objetos (NÃO um objeto simples), onde cada objeto tem 'letra' e 'texto'.
-        - 'opcaoCorreta'.
-        - 'conteudo' (NÃO 'conteudoAbordado') seja um ARRAY de strings (NÃO uma string simples).
+1.  **Transcrição de Fórmulas para LaTeX (JSON-Safe)**: Ao encontrar qualquer fórmula, equação, ou símbolo matemático/científico, você **deve** transcrevê-lo para o formato LaTeX, garantindo que seja seguro para inclusão em um arquivo JSON.
+    * Isso significa que **toda barra invertida (\)** nos comandos LaTeX deve ser escapada com uma segunda barra invertida (\\).
+    * **Exemplo**: A fórmula visual $$\sin \theta_L = \frac{n_2}{n_1}$$ deve ser transcrita no enunciado como $\\sin \\theta_L = \\frac{n_2}{n_1}$.
 
-    Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
+2.  **Uso de Delimitadores LaTeX**:
+    * Use $ ... $ (com os comandos internos devidamente escapados, ex: $\\theta$) para fórmulas que aparecem no meio de uma linha de texto (inline).
+    * Use $$...$$ (com os comandos internos devidamente escapados, ex: $$\\frac{a}{b}$$) para fórmulas que devem ocupar sua própria linha e ser centralizadas (display/bloco).
+
+3.  **Tratamento de Texto de Elementos Visuais**: Embora a imagem, gráfico ou tabela em si deva ser ignorado, qualquer texto associado a ele (como legendas, fontes, títulos ou dados textuais) **deve ser transcrito** e incluído como parte do campo 'enunciado'.
+
+4.  **Alternativas em Formato de Tabela**: Se as alternativas de uma questão (A, B, C, D, E) forem apresentadas dentro de uma estrutura de tabela, o campo 'alternativas' para essa questão específica deve ser retornado como null. O resto dos dados da questão deve ser extraído normalmente.
+
+### **Importante:**
+A disciplina deve ser exclusivamente uma das seguintes: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia" ou "Sociologia". Não utilize nenhuma outra. Caso a questão não pertença a uma dessas três disciplinas, ignore-a e não a inclua no resultado.
+O primeiro PDF anexado contém a prova e o segundo PDF contém o gabarito oficial. Você deve extrair as informações de ambos os arquivos, para relacionar os dados.
+A saída final deve ser estritamente um único objeto JSON puro, sem explicações, comentários, ou formatações extras como blocos de código. Siga o schema da função fornecida com exatidão, não altere nenhum nome dos campos do jsonschema apresentado.
+Além disto você é ABSOLUTUTAMENTE CRÍTICO que os argumentos que você fornecer à função 'extrair_dados_prova' sigam EXATAMENTE o JSON Schema que lhe foi dado, sem quaisquer variações nos nomes dos campos ou nos tipos de dados.
+
+Especificamente, garanta que:
+- Os campos iniciais do JSON devem ser 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
+- O array de questões seja 'questoes'.
+- Cada objeto dentro do array 'questoes' tenha os campos:
+    - 'numeroEnunciado' (NÃO 'numeroQuestao').
+    - 'enunciado'.
+    - 'alternativas' seja um ARRAY de objetos (NÃO um objeto simples), onde cada objeto tem 'letra' e 'texto'.
+    - 'opcaoCorreta'.
+    - 'conteudo' (NÃO 'conteudoAbordado') seja um ARRAY de strings (NÃO uma string simples).
+
+Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
     `},
     { inlineData: {
         mimeType: 'application/pdf',

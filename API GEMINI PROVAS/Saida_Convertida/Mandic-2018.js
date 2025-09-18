@@ -93,7 +93,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 7\nÉ sabido que a energia E liberada por um terremoto pode ser medida pela relação ML = $1_{10}$(1000. E), sendo E medido em quilowatt-hora, e ML a magnitude do terremoto na Escala Richter. Sendo assim, a energia que é liberada por um terremoto de magnitude 5 na Escala Richter, quando comparada à energia liberada por um terremoto de magnitude 3, na mesma Escala, é",
+      principal: "QUESTÃO 7\nÉ sabido que a energia E liberada por um terremoto pode ser medida pela relação ML = log_{10}(1000. E), sendo E medido em quilowatt-hora, e ML a magnitude do terremoto na Escala Richter. Sendo assim, a energia que é liberada por um terremoto de magnitude 5 na Escala Richter, quando comparada à energia liberada por um terremoto de magnitude 3, na mesma Escala, é",
       subItens: []
     },
     options: ["1 000 vezes maior.","500 vezes maior.","100 vezes maior.","50 vezes maior.","10 vezes maior."],
@@ -108,7 +108,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 8\nA tabela apresenta informações obtidas a partir de uma observação em laboratório da relação entre duas grandezas: x e y = P(x).\n\nGráfico/Tabela: Tabela com x (0, 2, 4, 6) e y=P(x) (0, 10, 52, 174).\n\nApós alguns estudos numéricos identificou-se que a relação entre as variáveis x e y é modelada por P(x) = ax³ + bx² + cx + d, em que a soma a + b + c + d é igual a",
+      principal: "QUESTÃO 8\nA tabela apresenta informações obtidas a partir de uma observação em laboratório da relação entre duas grandezas: x e y = P(x).\n\nGrá$\\\\frac{fico}{Tabela}$: Tabela com x (0, 2, 4, 6) e y=P(x) (0, 10, 52, 174).\n\nApós alguns estudos numéricos identificou-se que a relação entre as variáveis x e y é modelada por P(x) = ax³ + bx² + cx + d, em que a soma a + b + c + d é igual a",
       subItens: []
     },
     options: ["1.","2.","3.","4.","5."],
@@ -123,7 +123,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 9\nNa tabela são apresentadas algumas informações relacionadas à produção de um objeto que é realizada apenas por máquinas, todas iguais:\n\nGráfico/Tabela: Tabela com Produção em 10/05/2018 (X máquinas, 5 horas, Z objetos produzidos) e Produção em 11/05/2018 (10 máquinas, y horas, 90 000 objetos produzidos).\n\nSabendo-se que as informações apresentadas são proporcionais, que em 10/05/2018 o número de máquinas em funcionamento era 20% maior que no dia 11/05/2018, e que o número de objetos produzidos em 11/05/2018 correspondeu a três meios do número de objetos produzidos no dia imediatamente anterior, é correto afirmar que a carga horária trabalhada por cada máquina no dia 11/05/2018 foi de",
+      principal: "QUESTÃO 9\nNa tabela são apresentadas algumas informações relacionadas à produção de um objeto que é realizada apenas por máquinas, todas iguais:\n\nGrá$\\\\frac{fico}{Tabela}$: Tabela com Produção em $\\\\frac{10}{05}$/2018 (X máquinas, 5 horas, Z objetos produzidos) e Produção em $\\\\frac{11}{05}$/2018 (10 máquinas, y horas, 90 000 objetos produzidos).\n\nSabendo-se que as informações apresentadas são proporcionais, que em $\\\\frac{10}{05}$/2018 o número de máquinas em funcionamento era 20% maior que no dia $\\\\frac{11}{05}$/2018, e que o número de objetos produzidos em $\\\\frac{11}{05}$/2018 correspondeu a três meios do número de objetos produzidos no dia imediatamente anterior, é correto afirmar que a carga horária trabalhada por cada máquina no dia $\\\\frac{11}{05}$/2018 foi de",
       subItens: []
     },
     options: ["7 horas.","7 horas e 30 minutos.","8 horas.","8 horas e 30 minutos.","9 horas."],
@@ -138,7 +138,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 10\nO gráfico apresenta informações sobre as idades de um grupo de amigos.\n\nGráfico/Tabela: Gráfico de barras mostrando as idades (em anos) de 6 pessoas: 10, 21, 18, 15, 16, 20. Abaixo do eixo X estão os rótulos de 18, 19, 20, 21, 22 que parecem ser uma legenda para as idades no grupo.\n\nEscolhidas, aleatoriamente, três pessoas desse grupo, uma após a outra e sem reposição, a probabilidade de a terceira pessoa escolhida ter idade menor ou igual a 20 anos, sabendo que a primeira pessoa tem 19 anos e a segunda tem mais de 20 anos, é",
+      principal: "QUESTÃO 10\nO gráfico apresenta informações sobre as idades de um grupo de amigos.\n\nGrá$\\\\frac{fico}{Tabela}$: Gráfico de barras mostrando as idades (em anos) de 6 pessoas: 10, 21, 18, 15, 16, 20. Abaixo do eixo X estão os rótulos de 18, 19, 20, 21, 22 que parecem ser uma legenda para as idades no grupo.\n\nEscolhidas, aleatoriamente, três pessoas desse grupo, uma após a outra e sem reposição, a probabilidade de a terceira pessoa escolhida ter idade menor ou igual a 20 anos, sabendo que a primeira pessoa tem 19 anos e a segunda tem mais de 20 anos, é",
       subItens: []
     },
     options: ["23/39","42/78","24/39","49/78","25/39"],
@@ -168,7 +168,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 12\nA tabela apresenta exemplos de valores cobrados por duas empresas de transporte para a entrega de determinada encomenda.\n\nGráfico/Tabela: Tabela de custo por quilometragem para Empresa A e Empresa B.\nEmpresa | 50 quilômetros | 100 quilômetros\nA | R$ 150,00 | R$ 275,00\nB | R$ 135,00 | R$ 235,00\n\nNas duas empresas, o valor cobrado pelo serviço de entrega está em função linear da quilometragem rodada. Uma pessoa fez cotações para a entrega de uma encomenda nessas empresas e os valores apresentados por ambas foram iguais. O valor que foi apresentado por cada empresa foi",
+      principal: "QUESTÃO 12\nA tabela apresenta exemplos de valores cobrados por duas empresas de transporte para a entrega de determinada encomenda.\n\nGrá$\\\\frac{fico}{Tabela}$: Tabela de custo por quilometragem para Empresa A e Empresa B.\nEmpresa | 50 quilômetros | 100 quilômetros\nA | R$ 150,00 | R$ 275,00\nB | R$ 135,00 | R$ 235,00\n\nNas duas empresas, o valor cobrado pelo serviço de entrega está em função linear da quilometragem rodada. Uma pessoa fez cotações para a entrega de uma encomenda nessas empresas e os valores apresentados por ambas foram iguais. O valor que foi apresentado por cada empresa foi",
       subItens: []
     },
     options: ["R$ 82,50.","R$ 80,00.","R$ 77,50.","R$ 75,00.","R$ 72,50."],
@@ -183,7 +183,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 13\nO gráfico apresenta informações sobre a taxa de analfabetismo no Brasil:\n\nGráfico/Tabela: Gráfico de barras \"Taxa de analfabetismo entre pessoas de 15 anos ou mais de idade (2016)\" para Brasil (7,2%), Sul (3,6%), Sudeste (3,8%), Centro-Oeste (5,7%), Norte (8,5%), Nordeste (14,8%). Fonte: IBGE.\n\nCom base somente nas informações apresentadas no gráfico, analise as seguintes afirmações:\nI. Metade dos analfabetos brasileiros com 15 anos ou mais de idade está localizada na Região Sul.\nII. No Brasil, em cada grupo com 125 pessoas com 15 anos ou mais, 9 são analfabetas.\nIII. O número de pessoas analfabetas com 15 anos ou mais da Região Sudeste é menor que o da Região Centro-Oeste.\nEstá correto o que se afirma APENAS em",
+      principal: "QUESTÃO 13\nO gráfico apresenta informações sobre a taxa de analfabetismo no Brasil:\n\nGrá$\\\\frac{fico}{Tabela}$: Gráfico de barras \"Taxa de analfabetismo entre pessoas de 15 anos ou mais de idade (2016)\" para Brasil (7,2%), Sul (3,6%), Sudeste (3,8%), Centro-Oeste (5,7%), Norte (8,5%), Nordeste (14,8%). Fonte: IBGE.\n\nCom base somente nas informações apresentadas no gráfico, analise as seguintes afirmações:\nI. Metade dos analfabetos brasileiros com 15 anos ou mais de idade está localizada na Região Sul.\nII. No Brasil, em cada grupo com 125 pessoas com 15 anos ou mais, 9 são analfabetas.\nIII. O número de pessoas analfabetas com 15 anos ou mais da Região Sudeste é menor que o da Região Centro-Oeste.\nEstá correto o que se afirma APENAS em",
       subItens: []
     },
     options: ["I.","II.","III.","I e II.","II e III."],
@@ -198,7 +198,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 14\nA tabela apresenta o número de ingressantes nos cursos de medicina nos últimos vestibulares em duas instituições de ensino superior.\n\nGráfico/Tabela: Tabela de Ingressantes nos cursos de medicina por instituição e ano.\n| Instituição | 2016 | 2017 | 2018 |\n| Instituição A | 60 | 65 | 55 |\n| Instituição B | 50 | 45 | 30 |\n\nCom base na tabela, avalie as seguintes afirmações:\nI. De 2017 para 2018 houve uma diminuição de, aproximadamente, 23% no número total de ingressantes nos referidos cursos.\nII. No ano de 2016, 5 em cada 6 ingressantes nos cursos em questão escolheram a instituição B.\nIII. Em 2017, o número de ingressantes no curso de medicina da instituição B, comparado ao número de ingressantes do mesmo curso, no ano anterior, diminuiu o correspondente a um décimo.\nEstá correto o que se afirma APENAS em",
+      principal: "QUESTÃO 14\nA tabela apresenta o número de ingressantes nos cursos de medicina nos últimos vestibulares em duas instituições de ensino superior.\n\nGrá$\\\\frac{fico}{Tabela}$: Tabela de Ingressantes nos cursos de medicina por instituição e ano.\n| Instituição | 2016 | 2017 | 2018 |\n| Instituição A | 60 | 65 | 55 |\n| Instituição B | 50 | 45 | 30 |\n\nCom base na tabela, avalie as seguintes afirmações:\nI. De 2017 para 2018 houve uma diminuição de, aproximadamente, 23% no número total de ingressantes nos referidos cursos.\nII. No ano de 2016, 5 em cada 6 ingressantes nos cursos em questão escolheram a instituição B.\nIII. Em 2017, o número de ingressantes no curso de medicina da instituição B, comparado ao número de ingressantes do mesmo curso, no ano anterior, diminuiu o correspondente a um décimo.\nEstá correto o que se afirma APENAS em",
       subItens: []
     },
     options: ["II.","III.","I e II.","I e III.","II e III."],
@@ -213,7 +213,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 15\nA figura representa um objeto de madeira composto por duas pirâmides retas e congruentes, de base retangular.\n\nGráfico/Tabela: Imagem de um octaedro com base retangular (duas pirâmides unidas pela base).\n\nA altura total desse objeto é 16 cm, seu volume é 1536 cm³ e uma das dimensões da base das pirâmides que compõem o objeto é metade da outra. Se a maior face lateral desse objeto for utilizada para apoiá-lo em uma superfície plana, essa face ocupará dessa superfície uma área igual a",
+      principal: "QUESTÃO 15\nA figura representa um objeto de madeira composto por duas pirâmides retas e congruentes, de base retangular.\n\nGrá$\\\\frac{fico}{Tabela}$: Imagem de um octaedro com base retangular (duas pirâmides unidas pela base).\n\nA altura total desse objeto é 16 cm, seu volume é 1536 cm³ e uma das dimensões da base das pirâmides que compõem o objeto é metade da outra. Se a maior face lateral desse objeto for utilizada para apoiá-lo em uma superfície plana, essa face ocupará dessa superfície uma área igual a",
       subItens: []
     },
     options: ["96√7 cm².","20 cm².","48√13 cm².","120 cm².","24√55 cm²."],
@@ -228,7 +228,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 16\nConsidere o círculo de centro A, e o triângulo ACD, equilátero, em que os pontos C e D pertencem à circunferência desse círculo, conforme a figura:\n\nGráfico/Tabela: Imagem de um círculo com centro A. Pontos C e D estão na circunferência. O triângulo ACD é equilátero, com lado igual ao raio do círculo. Há uma região sombreada entre o segmento CD e o arco CD.\n\nSabendo que o raio do círculo é unitário, a área da região compreendida entre o segmento de reta CD e o arco de circunferência de mesmas extremidades é igual a",
+      principal: "QUESTÃO 16\nConsidere o círculo de centro A, e o triângulo ACD, equilátero, em que os pontos C e D pertencem à circunferência desse círculo, conforme a figura:\n\nGrá$\\\\frac{fico}{Tabela}$: Imagem de um círculo com centro A. Pontos C e D estão na circunferência. O triângulo ACD é equilátero, com lado igual ao raio do círculo. Há uma região sombreada entre o segmento CD e o arco CD.\n\nSabendo que o raio do círculo é unitário, a área da região compreendida entre o segmento de reta CD e o arco de circunferência de mesmas extremidades é igual a",
       subItens: []
     },
     options: ["(π/3) - (√3/4)","(π/2) - (√3/3)","(2π/3) - (√3/2)","(π/3) - (√3/2)","(5π/6) - (3√3/4)"],
@@ -243,7 +243,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 17\nA equação x² + (1/2)x + (1/20)x + (1/200)x + (1/2000)x + ... = 1/15, tem, no primeiro membro, uma soma de infinitos termos que, a partir do segundo, mantém uma única regularidade. A soma das raízes dessa equação resulta em",
+      principal: "QUESTÃO 17\nA equação x² + ($\\\\frac{1}{2}$)x + ($\\\\frac{1}{20}$)x + ($\\\\frac{1}{200}$)x + ($\\\\frac{1}{2000}$)x + ... = $\\\\frac{1}{15}$, tem, no primeiro membro, uma soma de infinitos termos que, a partir do segundo, mantém uma única regularidade. A soma das raízes dessa equação resulta em",
       subItens: []
     },
     options: ["-5.","-3.","0.","3.","5."],
@@ -258,7 +258,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 18\nA figura a seguir é parte da representação gráfica da função quadrática f: R → R.\n\nGráfico/Tabela: Gráfico de uma parábola (função quadrática) com raízes em (0,0) e (10,0). Um ponto (8,16) é indicado na parábola.\n\nA ordenada do ponto de máximo dessa função é",
+      principal: "QUESTÃO 18\nA figura a seguir é parte da representação gráfica da função quadrática f: R → R.\n\nGrá$\\\\frac{fico}{Tabela}$: Gráfico de uma parábola (função quadrática) com raízes em (0,0) e (10,0). Um ponto (8,16) é indicado na parábola.\n\nA ordenada do ponto de máximo dessa função é",
       subItens: []
     },
     options: ["21.","23.","25.","50.","75."],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 19\nConsidere a figura a seguir:\n\nGráfico/Tabela: Gráfico com duas curvas e uma região hachurada. Uma curva é uma reta decrescente e a outra é uma parábola com concavidade para cima, passando pela origem.\n\nA região hachurada corresponde à resolução do sistema",
+      principal: "QUESTÃO 19\nConsidere a figura a seguir:\n\nGrá$\\\\frac{fico}{Tabela}$: Gráfico com duas curvas e uma região hachurada. Uma curva é uma reta decrescente e a outra é uma parábola com concavidade para cima, passando pela origem.\n\nA região hachurada corresponde à resolução do sistema",
       subItens: []
     },
     options: ["{x + 2 - y > 0\ny-x² < 0","{x + 2 + y < 0\ny + x² > 0","{2 + x - y > 0\ny - x² > 0","{2 + x + y < 0\ny - x² > 0","{2 + x - y < 0\ny + x² > 0"],
@@ -303,7 +303,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 21\nUm jogador de golfe lança uma bola com velocidade inicial na direção horizontal. Ela descreve uma determinada trajetória no ar de modo que tangencia o topo de um poste e cai exatamente dentro do buraco. Conforme representado no desenho abaixo, a diferença de altura e a distância horizontal entre o ponto de lançamento e o topo do poste valem, respectivamente, 7,2 m e 24,0 m. A diferença de altura entre o topo do poste e o buraco vale 12,8 m.\n(Dados: considere a aceleração da gravidade igual a 10 m/s² e despreze a resistência do ar.)\n\nGráfico/Tabela: Desenho ilustrativo de um lançamento horizontal de uma bola de golfe que tangencia o topo de um poste e cai em um buraco. Distâncias e alturas são indicadas: 7,2m (altura entre lançamento e topo do poste), 24,0m (distância horizontal entre lançamento e topo do poste), 12,8m (altura entre topo do poste e buraco).\n\nPode-se afirmar que a distância horizontal entre o ponto de lançamento e o buraco vale",
+      principal: "QUESTÃO 21\nUm jogador de golfe lança uma bola com velocidade inicial na direção horizontal. Ela descreve uma determinada trajetória no ar de modo que tangencia o topo de um poste e cai exatamente dentro do buraco. Conforme representado no desenho abaixo, a diferença de altura e a distância horizontal entre o ponto de lançamento e o topo do poste valem, respectivamente, 7,2 m e 24,0 m. A diferença de altura entre o topo do poste e o buraco vale 12,8 m.\n(Dados: considere a aceleração da gravidade igual a 10 $\\\\frac{m}{s}$² e despreze a resistência do ar.)\n\nGrá$\\\\frac{fico}{Tabela}$: Desenho ilustrativo de um lançamento horizontal de uma bola de golfe que tangencia o topo de um poste e cai em um buraco. Distâncias e alturas são indicadas: 7,2m (altura entre lançamento e topo do poste), 24,0m (distância horizontal entre lançamento e topo do poste), 12,8m (altura entre topo do poste e buraco).\n\nPode-se afirmar que a distância horizontal entre o ponto de lançamento e o buraco vale",
       subItens: []
     },
     options: ["40,0 m","42,7 m","48,0 m","56,0 m","66,7 m"],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 22\nEm tempos que precediam o relógio, Galileu Galilei utilizou um plano inclinado que contém um conjunto de 5 sinos distantes entre si de tal forma que, quando uma esfera é abandonada do alto do plano, a uma distância de 10 cm do primeiro sino, o som produzido pelo impacto dela com cada um dos sinos consecutivos tem o mesmo intervalo de tempo. Considerando que a altura da base ao ponto de lançamento é de 1,5 m e que o comprimento horizontal do plano vale 2 m, as distâncias consecutivas entre os sinos, em cm, são respectivamente:\n(Considere os efeitos de rotação da esfera desprezíveis.)\n\nGráfico/Tabela: Desenho de um plano inclinado. A altura vertical é 1,5 m e a base horizontal é 2,0 m. Uma bola é lançada do topo e há 5 sinos ao longo do plano. A distância do lançamento até o primeiro sino é 10 cm.\n\nA) 30, 60, 90 e 120\nВ) 10, 10, 10 е 10\nC) 10, 20, 30 е 40\nD) 30, 50, 70 е 90\nE) 30, 40, 80 е 90",
+      principal: "QUESTÃO 22\nEm tempos que precediam o relógio, Galileu Galilei utilizou um plano inclinado que contém um conjunto de 5 sinos distantes entre si de tal forma que, quando uma esfera é abandonada do alto do plano, a uma distância de 10 cm do primeiro sino, o som produzido pelo impacto dela com cada um dos sinos consecutivos tem o mesmo intervalo de tempo. Considerando que a altura da base ao ponto de lançamento é de 1,5 m e que o comprimento horizontal do plano vale 2 m, as distâncias consecutivas entre os sinos, em cm, são respectivamente:\n(Considere os efeitos de rotação da esfera desprezíveis.)\n\nGrá$\\\\frac{fico}{Tabela}$: Desenho de um plano inclinado. A altura vertical é 1,5 m e a base horizontal é 2,0 m. Uma bola é lançada do topo e há 5 sinos ao longo do plano. A distância do lançamento até o primeiro sino é 10 cm.\n\nA) 30, 60, 90 e 120\nВ) 10, 10, 10 е 10\nC) 10, 20, 30 е 40\nD) 30, 50, 70 е 90\nE) 30, 40, 80 е 90",
       subItens: []
     },
     options: ["30, 60, 90 e 120","10, 10, 10 e 10","10, 20, 30 e 40","30, 50, 70 e 90","30, 40, 80 e 90"],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 23\nEm um teste para avaliar o atrito dos pneus de uma cadeira de rodas motorizada com o piso, utiliza-se uma cadeira motorizada com um boneco sobre seu assento. Durante o teste, o conjunto cadeira-boneco, que juntos têm peso P, sobe uma rampa com velocidade constante. A rampa de teste possui a máxima inclinação permitida pelas normas da ABNT, ou seja, o desnível vertical (h) vale 8% do comprimento horizontal (d). O contato do pneu com o piso, quando o motor está em funcionamento, resulta em uma força F adicional aplicada ao pneu, de direção paralela ao plano do piso e módulo P/10, como indicado no desenho.\n(Considere: aceleração da gravidade igual a 10 m/s²; cos α ≈ 0,99; e despreze a resistência do ar.)\n\nGráfico/Tabela: Desenho de uma cadeira de rodas em uma rampa inclinada. A força F é aplicada paralelamente ao plano inclinado, e as dimensões verticais (h) e horizontais (d) da rampa são indicadas. h = 8% de d.\n\nO teste descrito permite concluir que, para não haver deslizamento dos pneus em relação ao piso, o coeficiente de atrito estático de cada um dos pneus, em relação ao piso deve valer, no mínimo,",
+      principal: "QUESTÃO 23\nEm um teste para avaliar o atrito dos pneus de uma cadeira de rodas motorizada com o piso, utiliza-se uma cadeira motorizada com um boneco sobre seu assento. Durante o teste, o conjunto cadeira-boneco, que juntos têm peso P, sobe uma rampa com velocidade constante. A rampa de teste possui a máxima inclinação permitida pelas normas da ABNT, ou seja, o desnível vertical (h) vale 8% do comprimento horizontal (d). O contato do pneu com o piso, quando o motor está em funcionamento, resulta em uma força F adicional aplicada ao pneu, de direção paralela ao plano do piso e módulo $\\\\frac{P}{10}$, como indicado no desenho.\n(Considere: aceleração da gravidade igual a 10 $\\\\frac{m}{s}$²; cos α ≈ 0,99; e despreze a resistência do ar.)\n\nGrá$\\\\frac{fico}{Tabela}$: Desenho de uma cadeira de rodas em uma rampa inclinada. A força F é aplicada paralelamente ao plano inclinado, e as dimensões verticais (h) e horizontais (d) da rampa são indicadas. h = 8% de d.\n\nO teste descrito permite concluir que, para não haver deslizamento dos pneus em relação ao piso, o coeficiente de atrito estático de cada um dos pneus, em relação ao piso deve valer, no mínimo,",
       subItens: []
     },
     options: ["0,02","0,08","0,18","0,10","1,10"],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 24\nEncélado, uma das luas de Saturno, tem chamado a atenção dos cientistas após confirmação da existência de oceanos de água líquida sob sua superfície congelada. Trata-se de um corpo celeste esférico de 500 km de diâmetro e 1,0. 1020 kg de massa. Pode-se afirmar que o peso de um corpo de 10 kg de massa, na superfície de Encélado, vale, em Newtons,\n(Dados: considere o valor da constante gravitacional igual a 27/4.10-11 N.m²/kg²)",
+      principal: "QUESTÃO 24\nEncélado, uma das luas de Saturno, tem chamado a atenção dos cientistas após confirmação da existência de oceanos de água líquida sob sua superfície congelada. Trata-se de um corpo celeste esférico de 500 km de diâmetro e 1,0. 1020 kg de massa. Pode-se afirmar que o peso de um corpo de 10 kg de massa, na superfície de Encélado, vale, em Newtons,\n(Dados: considere o valor da constante gravitacional igual a $\\\\frac{27}{4}$.10-11 N.m²/kg²)",
       subItens: []
     },
     options: ["0,27","1,08","10,8","10,0","2,7.105"],
@@ -363,7 +363,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 25\nO equipamento de fisioterapia ilustrado abaixo é utilizado para recuperação de lesões no joelho. Sentado na prancha, que é um plano inclinado, o paciente empurra com o pé a plataforma, resultando numa compressão da mola. Após fazer este movimento, relaxa a musculatura, deixando que a mola empurre a perna de volta à posição inicial. Para ajustar o ângulo (θ) de inclinação ideal do plano, em relação à horizontal, para um paciente em função da massa deste, o profissional realiza a seguinte sequência de passos:\$1_{1}$. Inicialmente comprime-se a mola, de constante elástica 8,4.102 N/m, em 20 cm, e coloca-se na plataforma um corpo de prova com 1/5 da massa do paciente, que serve para simular a massa e a resistência equivalentes da perna;\$1_{2}$. Solta-se a mola, observando-se o movimento do corpo, enquanto a mola se descomprime e para em sua posição inicial; e\$1_{3}$. Ο ângulo θ ideal é alcançado quando a mola consegue retornar à sua posição inicial, sem deixar que o corpo perca o contato com a plataforma.\n(Dados: considere a aceleração da gravidade igual a 10 m/s² e despreze as forças dissipativas.)\n\nGráfico/Tabela: Duas imagens de um equipamento de fisioterapia com uma pessoa e com um corpo de prova em um plano inclinado. A mola está comprimida. Uma tabela trigonométrica é fornecida com valores de senθ, cosθ, tanθ para ângulos de 21°, 23°, 25°, 27°, 29°.\n\nConsultando a tabela trigonométrica fornecida e considerando o plano inclinado liso e a mola ideal, pode-se concluir que o ângulo θ ajustado para um paciente de 100 kg de massa vale, em graus,",
+      principal: "QUESTÃO 25\nO equipamento de fisioterapia ilustrado abaixo é utilizado para recuperação de lesões no joelho. Sentado na prancha, que é um plano inclinado, o paciente empurra com o pé a plataforma, resultando numa compressão da mola. Após fazer este movimento, relaxa a musculatura, deixando que a mola empurre a perna de volta à posição inicial. Para ajustar o ângulo (θ) de inclinação ideal do plano, em relação à horizontal, para um paciente em função da massa deste, o profissional realiza a seguinte sequência de passos:\n1. Inicialmente comprime-se a mola, de constante elástica 8,4.102 $\\\\frac{N}{m}$, em 20 cm, e coloca-se na plataforma um corpo de prova com $\\\\frac{1}{5}$ da massa do paciente, que serve para simular a massa e a resistência equivalentes da perna;\n2. Solta-se a mola, observando-se o movimento do corpo, enquanto a mola se descomprime e para em sua posição inicial; e\n3. Ο ângulo θ ideal é alcançado quando a mola consegue retornar à sua posição inicial, sem deixar que o corpo perca o contato com a plataforma.\n(Dados: considere a aceleração da gravidade igual a 10 $\\\\frac{m}{s}$² e despreze as forças dissipativas.)\n\nGrá$\\\\frac{fico}{Tabela}$: Duas imagens de um equipamento de fisioterapia com uma pessoa e com um corpo de prova em um plano inclinado. A mola está comprimida. Uma tabela trigonométrica é fornecida com valores de senθ, cosθ, tanθ para ângulos de 21°, 23°, 25°, 27°, 29°.\n\nConsultando a tabela trigonométrica fornecida e considerando o plano inclinado liso e a mola ideal, pode-se concluir que o ângulo θ ajustado para um paciente de 100 kg de massa vale, em graus,",
       subItens: []
     },
     options: ["21","23","25","27","29"],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 26\nO médico Julius Robert Mayer, ao trabalhar em um navio holandês que navegava no oceano Pacífico, constatou que o sangue da tripulação do navio estava com a cor mais avermelhada do que o usual, sinal de forte oxigenação no sangue. Mayer, então, explicou esse fenômeno comparando o corpo humano ao motor térmico. De fato, os músculos do corpo humano fornecem trabalho mecânico e emitem calor.\n(Adaptado de Convite à Física, de Yoav Ben Dov.)\nA fim de concretizar a comparação do corpo humano com a máquina térmica, seguem o gráfico de pressão (P) em função do volume (V), que representa o funcionamento de uma máquina térmica que opera completando 50 ciclos por minuto, e uma tabela com algumas informações sobre o corpo humano.\n\nGráfico/Tabela: Gráfico PV (Pressão vs Volume) de um ciclo termodinâmico (retângulo com pontos A, B, C, D). P(atm) no eixo Y (1, 2) e V(litros) no eixo X (2, 4). Tabela energética do corpo humano: Consumo médio diário 2500 kcal, Percentual de energia transformada em calor 30%.\n\n(Dados: considere 1 L = 10-3 m³; 1 atm = 105 Pa; e 1 cal = 4 J.)\nA partir da leitura e análise da tabela e do gráfico, foram feitas as seguintes afirmações:\nI. A potência da máquina térmica é igual a 100 J/min.\nII. A energia química do alimento que é transformada em calor pelo corpo humano é de 3.000.000 J.\nIII. A potência gerada pela máquina térmica é 4,8 vezes maior que a potência média gerada por calor pelo corpo humano.\nÉ correto o que se afirma em",
+      principal: "QUESTÃO 26\nO médico Julius Robert Mayer, ao trabalhar em um navio holandês que navegava no oceano Pacífico, constatou que o sangue da tripulação do navio estava com a cor mais avermelhada do que o usual, sinal de forte oxigenação no sangue. Mayer, então, explicou esse fenômeno comparando o corpo humano ao motor térmico. De fato, os músculos do corpo humano fornecem trabalho mecânico e emitem calor.\n(Adaptado de Convite à Física, de Yoav Ben Dov.)\nA fim de concretizar a comparação do corpo humano com a máquina térmica, seguem o gráfico de pressão (P) em função do volume (V), que representa o funcionamento de uma máquina térmica que opera completando 50 ciclos por minuto, e uma tabela com algumas informações sobre o corpo humano.\n\nGrá$\\\\frac{fico}{Tabela}$: Gráfico PV (Pressão vs Volume) de um ciclo termodinâmico (retângulo com pontos A, B, C, D). P(atm) no eixo Y (1, 2) e V(litros) no eixo X (2, 4). Tabela energética do corpo humano: Consumo médio diário 2500 kcal, Percentual de energia transformada em calor 30%.\n\n(Dados: considere 1 L = 10-3 m³; 1 atm = 105 Pa; e 1 cal = 4 J.)\nA partir da leitura e análise da tabela e do gráfico, foram feitas as seguintes afirmações:\nI. A potência da máquina térmica é igual a 100 $\\\\frac{J}{min}$.\nII. A energia química do alimento que é transformada em calor pelo corpo humano é de 3.000.000 J.\nIII. A potência gerada pela máquina térmica é 4,8 vezes maior que a potência média gerada por calor pelo corpo humano.\nÉ correto o que se afirma em",
       subItens: []
     },
     options: ["I, apenas.","II, apenas.","I e II, apenas.","II e III, apenas.","I, II e III."],
@@ -393,7 +393,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 27\nA fim de determinar, termoquimicamente, a quantidade de energia contida em um alimento, um estudante queima 200 g de Castanha do Pará, cujo valor energético é mostrado na imagem abaixo:\n\nGráfico/Tabela: Imagem de um pacote de Castanha do Pará com a tabela nutricional para 100g. Valor energético: 548 Kcal. Carboidratos: 52g, Proteínas: 7,6g, Gorduras totais: 34g, Gorduras saturadas: 0g, Fibra alimentar: 0g, Sódio: 0mg.\n\nPara isso, ele realiza um experimento em que utiliza o calor liberado pela queima do alimento para aquecer 300 g de água, elevando sua temperatura de 20°C para 90°C. Sabendo-se que o sistema era aberto (sem isolamento térmico), verifica-se que a porcentagem de energia dissipada para o ambiente é\n(Dados: considere o calor específico da água igual a 1 cal/g°C.)",
+      principal: "QUESTÃO 27\nA fim de determinar, termoquimicamente, a quantidade de energia contida em um alimento, um estudante queima 200 g de Castanha do Pará, cujo valor energético é mostrado na imagem abaixo:\n\nGrá$\\\\frac{fico}{Tabela}$: Imagem de um pacote de Castanha do Pará com a tabela nutricional para 100g. Valor energético: 548 Kcal. Carboidratos: 52g, Proteínas: 7,6g, Gorduras totais: 34g, Gorduras saturadas: 0g, Fibra alimentar: 0g, Sódio: 0mg.\n\nPara isso, ele realiza um experimento em que utiliza o calor liberado pela queima do alimento para aquecer 300 g de água, elevando sua temperatura de 20°C para 90°C. Sabendo-se que o sistema era aberto (sem isolamento térmico), verifica-se que a porcentagem de energia dissipada para o ambiente é\n(Dados: considere o calor específico da água igual a 1 $\\\\frac{cal}{g}$°C.)",
       subItens: []
     },
     options: ["1,92","3,84","10,00","38,40","98,08"],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 28\nNas últimas décadas, a humanidade investiu dezenas de bilhões de reais na construção de equipamentos que colaborassem para uma compreensão mais profunda do Cosmo. São exemplos disso os telescópios Hubble, VLT e ELT; o acelerador de partículas LHC; e o novo projeto da NASA: o telescópio espacial James Webb (JW), com lançamento previsto para 2020. O JW possui um espelho primário de impressionantes 6,5 m de diâmetro, e óptica ativa, ou seja, as placas hexagonais, que compõem o espelho, podem ser ajustadas individualmente. O projeto é colocá-lo em órbita do Sol, no segundo ponto de Lagrange ($1_{2}_{}$), a cerca de 1,5 milhões de km da Terra, onde os períodos orbitais do telescópio e da Terra se igualam. Com isso, o telescópio contará com um bloqueio da luz do Sol, da Terra e da Lua, protegendo-o de radiações indesejadas.\n\nGráfico/Tabela: Imagens comparando o tamanho dos espelhos do Hubble e do JWST, e uma representação do telescópio JWST no espaço, com seus escudos solares.\n\nSobre o projeto JW, são feitas as seguintes afirmações:\nI. O espelho primário utilizado deve refletir a radiação para um ponto onde se capta a imagem e, portanto, deve ser um espelho côncavo.\nII. Basicamente, o princípio de funcionamento de um telescópio é coletar radiação; assim, quanto maior a área refletora do seu espelho primário, mais radiação se concentra nos sensores do telescópio.\nIII. No $1_{2}_{}$, a força gravitacional que o Sol exerce sobre o JW será muito maior do que a força que o JW fará no Sol; por isso o Sol não sentirá nenhum efeito de sua presença.\nIV. A escolha de $1_{2}_{}$ se deve ao fato de a força resultante sobre o JW se anular, garantindo que ele ficará protegido, ampliando a nitidez das imagens captadas.\nÉ correto o que se afirma em",
+      principal: "QUESTÃO 28\nNas últimas décadas, a humanidade investiu dezenas de bilhões de reais na construção de equipamentos que colaborassem para uma compreensão mais profunda do Cosmo. São exemplos disso os telescópios Hubble, VLT e ELT; o acelerador de partículas LHC; e o novo projeto da NASA: o telescópio espacial James Webb (JW), com lançamento previsto para 2020. O JW possui um espelho primário de impressionantes 6,5 m de diâmetro, e óptica ativa, ou seja, as placas hexagonais, que compõem o espelho, podem ser ajustadas individualmente. O projeto é colocá-lo em órbita do Sol, no segundo ponto de Lagrange (L_{2}), a cerca de 1,5 milhões de km da Terra, onde os períodos orbitais do telescópio e da Terra se igualam. Com isso, o telescópio contará com um bloqueio da luz do Sol, da Terra e da Lua, protegendo-o de radiações indesejadas.\n\nGrá$\\\\frac{fico}{Tabela}$: Imagens comparando o tamanho dos espelhos do Hubble e do JWST, e uma representação do telescópio JWST no espaço, com seus escudos solares.\n\nSobre o projeto JW, são feitas as seguintes afirmações:\nI. O espelho primário utilizado deve refletir a radiação para um ponto onde se capta a imagem e, portanto, deve ser um espelho côncavo.\nII. Basicamente, o princípio de funcionamento de um telescópio é coletar radiação; assim, quanto maior a área refletora do seu espelho primário, mais radiação se concentra nos sensores do telescópio.\nIII. No L_{2}, a força gravitacional que o Sol exerce sobre o JW será muito maior do que a força que o JW fará no Sol; por isso o Sol não sentirá nenhum efeito de sua presença.\nIV. A escolha de L_{2} se deve ao fato de a força resultante sobre o JW se anular, garantindo que ele ficará protegido, ampliando a nitidez das imagens captadas.\nÉ correto o que se afirma em",
       subItens: []
     },
     options: ["I e II, apenas.","II e III, apenas.","III e IV, apenas.","I, II e III, apenas.","I, II, III e IV."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 29\nEm 2018, chegaram ao Brasil as cápsulas endoscópicas, microcâmeras com luz e bateria de 10 horas de duração, totalmente descartáveis e capazes de percorrer todo o trato gastrointestinal, da boca ao ânus. Ao percorrê-lo, transmitem as imagens captadas para um sistema instalado em um colete que o paciente veste no momento do exame. O tamanho da cápsula, muito semelhante ao de um comprimido, é de cerca de 10 mm de comprimento por 8 mm de diâmetro.\n\nGráfico/Tabela: Imagem de uma cápsula endoscópica.\n\nPara que a câmera do equipamento possa produzir imagens nítidas de objetos a 0,5 cm de distância da lente, a distância focal da mesma, em cm, considerando que a distância da lente ao sensor da câmera deve ser metade do comprimento da cápsula, é",
+      principal: "QUESTÃO 29\nEm 2018, chegaram ao Brasil as cápsulas endoscópicas, microcâmeras com luz e bateria de 10 horas de duração, totalmente descartáveis e capazes de percorrer todo o trato gastrointestinal, da boca ao ânus. Ao percorrê-lo, transmitem as imagens captadas para um sistema instalado em um colete que o paciente veste no momento do exame. O tamanho da cápsula, muito semelhante ao de um comprimido, é de cerca de 10 mm de comprimento por 8 mm de diâmetro.\n\nGrá$\\\\frac{fico}{Tabela}$: Imagem de uma cápsula endoscópica.\n\nPara que a câmera do equipamento possa produzir imagens nítidas de objetos a 0,5 cm de distância da lente, a distância focal da mesma, em cm, considerando que a distância da lente ao sensor da câmera deve ser metade do comprimento da cápsula, é",
       subItens: []
     },
     options: ["0,22","0,25","0,30","0,47","0,50"],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 30\nSomos capazes de localizar espacialmente a posição de uma fonte sonora, mas alguns insetos, ao produzir um som, podem confundir-nos em relação à sua localização. Se um inseto emite um som perpendicularmente à orelha direita de uma pessoa, a orelha esquerda irá ouvir este som com a mesma fase.\n(Dado: uma nota musical pode ter diferentes frequências, já que ao dobrar a frequência a nota se repete uma oitava acima.)\n\nGráfico/Tabela: Imagem esquemática da cabeça de uma pessoa com as orelhas e uma distância de 13 cm entre elas. Tabela de frequências (HZ) para notas musicais: dó (524), ré (588), mi (660), fá (698), sol (776), lá (880), si (988).\n\nAdotando-se a velocidade do som no ar igual a 340 m/s e a distância de 13 cm entre as orelhas, pode-se afirmar que a frequência do som mais grave emitido pelo inseto que chega, em fase, às duas orelhas é, aproximadamente, de acordo com a tabela, o da nota",
+      principal: "QUESTÃO 30\nSomos capazes de localizar espacialmente a posição de uma fonte sonora, mas alguns insetos, ao produzir um som, podem confundir-nos em relação à sua localização. Se um inseto emite um som perpendicularmente à orelha direita de uma pessoa, a orelha esquerda irá ouvir este som com a mesma fase.\n(Dado: uma nota musical pode ter diferentes frequências, já que ao dobrar a frequência a nota se repete uma oitava acima.)\n\nGrá$\\\\frac{fico}{Tabela}$: Imagem esquemática da cabeça de uma pessoa com as orelhas e uma distância de 13 cm entre elas. Tabela de frequências (HZ) para notas musicais: dó (524), ré (588), mi (660), fá (698), sol (776), lá (880), si (988).\n\nAdotando-se a velocidade do som no ar igual a 340 $\\\\frac{m}{s}$ e a distância de 13 cm entre as orelhas, pode-se afirmar que a frequência do som mais grave emitido pelo inseto que chega, em fase, às duas orelhas é, aproximadamente, de acordo com a tabela, o da nota",
       subItens: []
     },
     options: ["dó.","ré.","mi.","fá.","sol."],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 31\nEm 2018 o maior acelerador de partículas do mundo, o grande colisor de hádrons (LHC), voltará a funcionar depois de uma parada programada para sua manutenção. Na maior parte do tempo, esse acelerador colide prótons com velocidade de cerca de 99,99999% da velocidade da luz. Os módulos da força elétrica e do campo elétrico necessários para acelerar um próton de massa 1,6. 10-27 kg e carga elétrica 1,6.10-19 C a essa velocidade, a partir do repouso, em 25 minutos, são:\n(Dado: considere a velocidade da luz igual a 3.105 km/s; a trajetória do próton retilínea, durante a aceleração; e desconsidere os efeitos relativísticos.)",
+      principal: "QUESTÃO 31\nEm 2018 o maior acelerador de partículas do mundo, o grande colisor de hádrons (LHC), voltará a funcionar depois de uma parada programada para sua manutenção. Na maior parte do tempo, esse acelerador colide prótons com velocidade de cerca de 99,99999% da velocidade da luz. Os módulos da força elétrica e do campo elétrico necessários para acelerar um próton de massa 1,6. 10-27 kg e carga elétrica 1,6.10-19 C a essa velocidade, a partir do repouso, em 25 minutos, são:\n(Dado: considere a velocidade da luz igual a 3.105 $\\\\frac{km}{s}$; a trajetória do próton retilínea, durante a aceleração; e desconsidere os efeitos relativísticos.)",
       subItens: []
     },
     options: ["F = 3,2.10-19 N e E = 2,0 N/C","F = 1,8.10-20 N e E = 1,2. 10-1 N/C","F = 1,8.10-25 N e E = 1,2.10-5 N/C","F = 3,2.10-22 N e E = 2,0.10-3 N/C","F = 3,2.10-25 N e E = 2,0.10-6 N/C"],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 32\nAo conduzir sua aula, um professor liga um conjunto de equipamentos elétricos, cujos dados são mostrados na tabela abaixo:\n\nGráfico/Tabela: Tabela de Equipamento, Quantidade e Potência (W).\nEquipamento | Quantidade | Potência (W)\nLâmpada | 30 | 20\nComputador | 1 | 400\nProjetor | 1 | 320\nVentiladores | 2 | 150\nRoteador | 1 | 100\nCaixas de som | 1 | 80\n\nSe todos os equipamentos ficarem ligados durante quatro horas, considerando que 1 kWh custa R$ 0,40 e que a carga tributária acresce 38,8% de impostos ao preço, a quantidade de energia elétrica consumida e o seu preço com imposto serão, respectivamente,",
+      principal: "QUESTÃO 32\nAo conduzir sua aula, um professor liga um conjunto de equipamentos elétricos, cujos dados são mostrados na tabela abaixo:\n\nGrá$\\\\frac{fico}{Tabela}$: Tabela de Equipamento, Quantidade e Potência (W).\nEquipamento | Quantidade | Potência (W)\nLâmpada | 30 | 20\nComputador | 1 | 400\nProjetor | 1 | 320\nVentiladores | 2 | 150\nRoteador | 1 | 100\nCaixas de som | 1 | 80\n\nSe todos os equipamentos ficarem ligados durante quatro horas, considerando que 1 kWh custa R$ 0,40 e que a carga tributária acresce 38,8% de impostos ao preço, a quantidade de energia elétrica consumida e o seu preço com imposto serão, respectivamente,",
       subItens: []
     },
     options: ["7,2 kWh e R$ 2,88","7200 kWh e R$ 2880,00","2,88 kWh e R$ 1,15","4,28 kWh e R$ 2,35","7,2 kWh e R$ 4,00"],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 33\nO circuito elétrico representado no desenho abaixo é utilizado para medir a temperatura de uma massa de água. O termostato T fica imerso na água e sua resistência elétrica varia com a temperatura, conforme exibe o gráfico temperatura da água em função da resistência.\n\nGráfico/Tabela: Desenho de um circuito elétrico com resistores $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$, um voltímetro V e um termostato T. Há também um gráfico \"Temperatura x resistência\" mostrando a temperatura (°C) no eixo Y e a resistência (kΩ) no eixo X, com uma curva ascendente.\n\nConhecendo-se o valor das resistências: $1_{1}_{}$ = 1 KΩ, $1_{2}_{}$ = 500 Ω e $1_{3}_{}$ = 1,8 kΩ e da tensão U = 6 V, pode-se afirmar que, quando o voltímetro indicar zero volts, a água deverá estar a uma temperatura, em °C, de\n(Considere o voltímetro ideal.)",
+      principal: "QUESTÃO 33\nO circuito elétrico representado no desenho abaixo é utilizado para medir a temperatura de uma massa de água. O termostato T fica imerso na água e sua resistência elétrica varia com a temperatura, conforme exibe o gráfico temperatura da água em função da resistência.\n\nGrá$\\\\frac{fico}{Tabela}$: Desenho de um circuito elétrico com resistores R_{1}, R_{2}, R_{3}, um voltímetro V e um termostato T. Há também um gráfico \"Temperatura x resistência\" mostrando a temperatura (°C) no eixo Y e a resistência (kΩ) no eixo X, com uma curva ascendente.\n\nConhecendo-se o valor das resistências: R_{1} = 1 KΩ, R_{2} = 500 Ω e R_{3} = 1,8 kΩ e da tensão U = 6 V, pode-se afirmar que, quando o voltímetro indicar zero volts, a água deverá estar a uma temperatura, em °C, de\n(Considere o voltímetro ideal.)",
       subItens: []
     },
     options: ["25","38","50","90","270"],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 34\nEssencialmente, a produção de raios-X, tão úteis para a medicina e a odontologia, é feita com uma máquina representada pela imagem abaixo.\n\nGráfico/Tabela: Diagrama de uma ampola de raios-X, mostrando filamento, cátodo, ânodo, alvo de tungstênio, feixe de elétrons, feixe de raios-X, copo focalizador, janela e alta tensão.\n\nA ideia é acelerar elétrons, utilizando um intenso campo elétrico e garantindo que eles colidam com um alvo, na imagem acima, de Tungstênio. Na colisão, os elétrons desaceleram e transferem a energia perdida, emitindo fótons (partículas). Classificamos os fótons com frequência entre 3.1016 Hz e 3.1019 Hz como raios-X. Para que seja obtido um fóton com a energia máxima de um raio-X, a partir da colisão de um elétron que desacelera por 0,2 s, o módulo do campo elétrico, em N/C, que deve ser aplicado na situação, considerando que após a colisão a energia cinética dos elétrons é desprezível, é\n(Dados: (1) considere √10 = 3,16, a carga elétrica do elétron igual a 1,6.10-19 C, e a massa do elétron igual a 9.10-31 kg; (2) não considere os efeitos relativísticos; e (3) a energia E de um fóton é dada por E = hf, sendo h = 20/3.10-34 Js e f a sua frequência.)",
+      principal: "QUESTÃO 34\nEssencialmente, a produção de raios-X, tão úteis para a medicina e a odontologia, é feita com uma máquina representada pela imagem abaixo.\n\nGrá$\\\\frac{fico}{Tabela}$: Diagrama de uma ampola de raios-X, mostrando filamento, cátodo, ânodo, alvo de tungstênio, feixe de elétrons, feixe de raios-X, copo focalizador, janela e alta tensão.\n\nA ideia é acelerar elétrons, utilizando um intenso campo elétrico e garantindo que eles colidam com um alvo, na imagem acima, de Tungstênio. Na colisão, os elétrons desaceleram e transferem a energia perdida, emitindo fótons (partículas). Classificamos os fótons com frequência entre 3.1016 Hz e 3.1019 Hz como raios-X. Para que seja obtido um fóton com a energia máxima de um raio-X, a partir da colisão de um elétron que desacelera por 0,2 s, o módulo do campo elétrico, em $\\\\frac{N}{C}$, que deve ser aplicado na situação, considerando que após a colisão a energia cinética dos elétrons é desprezível, é\n(Dados: (1) considere √10 = 3,16, a carga elétrica do elétron igual a 1,6.10-19 C, e a massa do elétron igual a 9.10-31 kg; (2) não considere os efeitos relativísticos; e (3) a energia E de um fóton é dada por E = hf, sendo h = $\\\\frac{20}{3}$.10-34 Js e f a sua frequência.)",
       subItens: []
     },
     options: ["1,8.10-4","1,8.10-3","2,4.10-12","5,9.10-3","5,9.10-4"],
@@ -513,7 +513,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 35\nA transformação de energia cinética em energia elétrica é explicada pela lei de indução eletromagnética de Faraday. Um experimento simples pode reproduzir o fenômeno: imagine que um estudante aproxima um imã perpendicularmente a uma bobina de 10 cm de diâmetro, com um amperímetro medindo a corrente elétrica induzida na bobina, conforme representado no desenho abaixo. A variação do campo magnético pode ser mais bem representada pelo gráfico intensidade do campo magnético B em função do tempo t abaixo.\n\nGráfico/Tabela: Desenho de um imã se aproximando de uma bobina conectada a um amperímetro. Gráfico da intensidade do campo magnético B(T) em função do tempo t(s), mostrando uma reta crescente de (0,0) a (0.5, 0.8).\n\nTabela: Efeitos da corrente elétrica no corpo humano. Intensidade de corrente elétrica (60Hz) e Efeitos possíveis durante o choque (Limiar da percepção, Contração muscular e dor, Paralisia respiratória, inconsciência e fibrilação ventricular, Marcas visíveis).\n\nCaso fosse aplicada a um corpo humano de resistência elétrica igual a 0,1 kΩ a mesma força eletromotriz gerada na bobina do experimento, os possíveis efeitos da passagem dessa corrente pelo corpo humano, segundo a tabela abaixo, seriam do tipo\n(Considere: π = 3.)",
+      principal: "QUESTÃO 35\nA transformação de energia cinética em energia elétrica é explicada pela lei de indução eletromagnética de Faraday. Um experimento simples pode reproduzir o fenômeno: imagine que um estudante aproxima um imã perpendicularmente a uma bobina de 10 cm de diâmetro, com um amperímetro medindo a corrente elétrica induzida na bobina, conforme representado no desenho abaixo. A variação do campo magnético pode ser mais bem representada pelo gráfico intensidade do campo magnético B em função do tempo t abaixo.\n\nGrá$\\\\frac{fico}{Tabela}$: Desenho de um imã se aproximando de uma bobina conectada a um amperímetro. Gráfico da intensidade do campo magnético B(T) em função do tempo t(s), mostrando uma reta crescente de (0,0) a (0.5, 0.8).\n\nTabela: Efeitos da corrente elétrica no corpo humano. Intensidade de corrente elétrica (60Hz) e Efeitos possíveis durante o choque (Limiar da percepção, Contração muscular e dor, Paralisia respiratória, inconsciência e fibrilação ventricular, Marcas visíveis).\n\nCaso fosse aplicada a um corpo humano de resistência elétrica igual a 0,1 kΩ a mesma força eletromotriz gerada na bobina do experimento, os possíveis efeitos da passagem dessa corrente pelo corpo humano, segundo a tabela abaixo, seriam do tipo\n(Considere: π = 3.)",
       subItens: []
     },
     options: ["I.","II.","III.","IV.","V."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 38\nConsidere a seguinte árvore filogenética hipotética arrolando a espécie humana e espécies viventes de macacos do velho mundo e dos grandes macacos:\n\nGráfico/Tabela: Árvore filogenética mostrando as relações de parentesco entre macacos do velho mundo, gibão, gorila, chimpanzé, bonobo, homem e orangotango.\n\nA interpretação dessa árvore filogenética permite afirmar que",
+      principal: "QUESTÃO 38\nConsidere a seguinte árvore filogenética hipotética arrolando a espécie humana e espécies viventes de macacos do velho mundo e dos grandes macacos:\n\nGrá$\\\\frac{fico}{Tabela}$: Árvore filogenética mostrando as relações de parentesco entre macacos do velho mundo, gibão, gorila, chimpanzé, bonobo, homem e orangotango.\n\nA interpretação dessa árvore filogenética permite afirmar que",
       subItens: []
     },
     options: ["chimpanzés e bonobos são ancestrais do homem.","macacos do velho mundo e gibões não são relacionados.","o grupo que se diversificou mais recentemente é o humano.","chimpanzés e humanos são mais relacionados do que gorilas e chimpanzés.","o orangotango é o macaco antropoide que tem o maior parentesco com o homem."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 39\nO esquema busca representar o eixo hipotalâmico-hipofisário-adrenal e um dos processos de produção hormonal na glândula suprarrenal:\n\nGráfico/Tabela: Diagrama do eixo hipotalâmico-hipofisário-adrenal. Hipotálamo estimula Hipófise que produz ACTH. ACTH estimula Glândula Supra-Renal, que a partir de Colesterol produz Andrógenos, Progesterona (com 21-H envolvido) e Cortisol.\n\nQuando, devido a uma herança autossômica recessiva, a enzima 21-H é defeituosa, manifesta-se uma doença chamada hiperplasia adrenal congênita (HAC). Uma das formas de diagnóstico da HAC é a administração do hormônio adenocorticotrófico ou ACTH. O teste tem as seguintes etapas:\nI. coleta e análise de uma amostra de sangue, para determinação dos níveis basais de andrógenos, progesterona e/ou cortisol;\nII. administração de ACTH;\nIII. após 60 minutos, coleta e análise de nova amostra de sangue para determinação do níveis de andrógenos, progesterona e/ou cortisol.\nNos indivíduos com 21-H defeituosa, os níveis esperados de andrógeno (X), progesterona (Y) e cortisol (Z) após a administração de ACTH, em comparação com os níveis basais, seriam:",
+      principal: "QUESTÃO 39\nO esquema busca representar o eixo hipotalâmico-hipofisário-adrenal e um dos processos de produção hormonal na glândula suprarrenal:\n\nGrá$\\\\frac{fico}{Tabela}$: Diagrama do eixo hipotalâmico-hipofisário-adrenal. Hipotálamo estimula Hipófise que produz ACTH. ACTH estimula Glândula Supra-Renal, que a partir de Colesterol produz Andrógenos, Progesterona (com 21-H envolvido) e Cortisol.\n\nQuando, devido a uma herança autossômica recessiva, a enzima 21-H é defeituosa, manifesta-se uma doença chamada hiperplasia adrenal congênita (HAC). Uma das formas de diagnóstico da HAC é a administração do hormônio adenocorticotrófico ou ACTH. O teste tem as seguintes etapas:\nI. coleta e análise de uma amostra de sangue, para determinação dos níveis basais de andrógenos, progesterona $\\\\frac{e}{ou}$ cortisol;\nII. administração de ACTH;\nIII. após 60 minutos, coleta e análise de nova amostra de sangue para determinação do níveis de andrógenos, progesterona $\\\\frac{e}{ou}$ cortisol.\nNos indivíduos com 21-H defeituosa, os níveis esperados de andrógeno (X), progesterona (Y) e cortisol (Z) após a administração de ACTH, em comparação com os níveis basais, seriam:",
       subItens: []
     },
     options: ["X - praticamente os mesmos; Y – maiores; Z menores.","X - maiores; Y – maiores; Z – praticamente os mesmos.","X – maiores; Y – praticamente os mesmos; Z – maiores.","X - menores; Y – maiores; Z – praticamente os mesmos.","X - praticamente os mesmos; Y – maiores; Z menores."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 40\nConsidere a seguinte árvore genealógica:\n\nGráfico/Tabela: Árvore genealógica com João e Maria como pais, Pedro e Ana (filhos de João e Maria), Lucas, Paula (filhos de Pedro e Ana), Gabriel, Helena (filhos de Lucas e Paula), Mateus (filho de Gabriel e Helena), Daniel e Flávio (filhos de Mateus).\n\nNa situação apresentada, há várias pessoas que são portadoras do mesmo DNA mitocondrial. Entre elas estão",
+      principal: "QUESTÃO 40\nConsidere a seguinte árvore genealógica:\n\nGrá$\\\\frac{fico}{Tabela}$: Árvore genealógica com João e Maria como pais, Pedro e Ana (filhos de João e Maria), Lucas, Paula (filhos de Pedro e Ana), Gabriel, Helena (filhos de Lucas e Paula), Mateus (filho de Gabriel e Helena), Daniel e Flávio (filhos de Mateus).\n\nNa situação apresentada, há várias pessoas que são portadoras do mesmo DNA mitocondrial. Entre elas estão",
       subItens: []
     },
     options: ["JOÃO e MARIA.","PAULA, MATEUS e GABRIEL.","PEDRO, LUCAS e GABRIEL.","MATEUS, DANIEL e FLÁVIO.","MARIA, HELENA, PAULA e ANA."],
@@ -606,7 +606,7 @@ createQuestion({
       principal: "QUESTÃO 41\nO diabetes melito é um distúrbio hormonal em que as células beta das ilhotas pancreáticas não produzem quantidades normais de insulina. Nessa situação, entre outras alterações, a pessoa apresenta níveis elevados de glicose e de corpos cetônicos no sangue, estes decorrentes de vias metabólicas alternativas para obtenção de energia.\nOs corpos cetônicos decorrem da metabolização de lipídios, representados em:",
       subItens: []
     },
-    options: ["H-C-C-C-H (com OH em cada C)","Estrutura de um álcool, com CH2OH-CH2OH, e OH","Estrutura com anel benzeno, $1_{2}$, C, $1_{3}$, OH","Estrutura de um fosfolipídio com cadeia de $1_{2}$ e grupos fosfato","Cadeia longa de carbonos com H e OH"],
+    options: ["H-C-C-C-H (com OH em cada C)","Estrutura de um álcool, com CH2OH-CH2OH, e OH","Estrutura com anel benzeno, NH2, C, CH3, OH","Estrutura de um fosfolipídio com cadeia de CH2 e grupos fosfato","Cadeia longa de carbonos com H e OH"],
     correctAnswer: 4,
     materia: "Biologia – Bioquímica",
     conteudo: "Biologia – Metabolismo",
@@ -618,7 +618,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 42\nObserve as imagens de dois organismos:\n\nGráfico/Tabela: Imagens de \"Armadillidium vulgare\" (tatu-bolinha) e \"Tolypeutes tricinctus\" (tatu-bola).\n\nEm termos de classificação biológica, pode-se afirmar que o",
+      principal: "QUESTÃO 42\nObserve as imagens de dois organismos:\n\nGrá$\\\\frac{fico}{Tabela}$: Imagens de \"Armadillidium vulgare\" (tatu-bolinha) e \"Tolypeutes tricinctus\" (tatu-bola).\n\nEm termos de classificação biológica, pode-se afirmar que o",
       subItens: []
     },
     options: ["tatu-bola e o tatu-bolinha são, ambos, animais cordados.","tatu-bolinha e o tatu-bola pertencem a classes diferentes, mas são do mesmo filo.","tatu-bolinha e o tatu-bola pertencem a ordens diferentes, mas são da mesma classe.","tatu-bola é um mamífero terrestre e o tatu-bolinha é um equinoderma com hábitos terrestres.","tatu-bolinha pertence ao mesmo filo das borboletas, enquanto o tatu-bola pertence à mesma classe dos morcegos."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 46\nLeia o texto.\nAustrália inventa mini rim a partir de células tronco\nPesquisadores da Universidade Murdoch desenvolveram mini rins a partir de células tronco. Os mini rins possuem centenas de néfrons e veias, assim como o órgão original. No entanto, eles não conseguem ainda desempenhar funções de um rim adulto. Ainda assim, esta é uma descoberta que poderá trazer esperança a milhares de pessoas que hoje amargam uma longa espera na fila por um rim. Os pesquisadores esperam ser capazes de aumentar o tamanho e criar um órgão inteiro. Através deste método, as pessoas poderiam doar as próprias células e o problema de incompatibilidade e rejeição de órgãos cessaria.\n(Adaptado de: https://www.epochtimes.com.br/australia-inventa-mini-rim-a-partir-de-celulas-tronco/ Acesso em 03 maio 2018.)\nA rejeição de órgãos transplantados resulta principalmente de um ataque",
+      principal: "QUESTÃO 46\nLeia o texto.\nAustrália inventa mini rim a partir de células tronco\nPesquisadores da Universidade Murdoch desenvolveram mini rins a partir de células tronco. Os mini rins possuem centenas de néfrons e veias, assim como o órgão original. No entanto, eles não conseguem ainda desempenhar funções de um rim adulto. Ainda assim, esta é uma descoberta que poderá trazer esperança a milhares de pessoas que hoje amargam uma longa espera na fila por um rim. Os pesquisadores esperam ser capazes de aumentar o tamanho e criar um órgão inteiro. Através deste método, as pessoas poderiam doar as próprias células e o problema de incompatibilidade e rejeição de órgãos cessaria.\n(Adaptado de: https://www.epochtimes.com.$\\\\frac{br}{australia}$-inventa-mini-rim-a-partir-de-celulas-tronco/ Acesso em 03 maio 2018.)\nA rejeição de órgãos transplantados resulta principalmente de um ataque",
       subItens: []
     },
     options: ["ao órgão doado por linfócitos B do receptor.","ao órgão doado por linfócitos T do receptor.","ao órgão doado por linfócitos de memória do receptor.","aos linfócitos do receptor por macrófagos do órgão transplantado.","aos anticorpos do receptor por anticorpos do órgão transplantado."],
@@ -693,7 +693,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 47\nNo esquema abaixo, I, II e III são substâncias produzidas pela oxidação da glicose. Os processos Y e Z ocorrem, respectivamente, em leveduras e células animais, nas situações em que há limitação de $1_{2}_{}$.\n\nGráfico/Tabela: Esquema de via metabólica. Glicose passa por Processo X, produzindo I. I pode ir para Processo Y (produzindo II) ou Processo Z (produzindo III).\n\nNas vias metabólicas representadas, o processo X ocorre",
+      principal: "QUESTÃO 47\nNo esquema abaixo, I, II e III são substâncias produzidas pela oxidação da glicose. Os processos Y e Z ocorrem, respectivamente, em leveduras e células animais, nas situações em que há limitação de O_{2}.\n\nGrá$\\\\frac{fico}{Tabela}$: Esquema de via metabólica. Glicose passa por Processo X, produzindo I. I pode ir para Processo Y (produzindo II) ou Processo Z (produzindo III).\n\nNas vias metabólicas representadas, o processo X ocorre",
       subItens: []
     },
     options: ["no citoplasma; e I, II e III identificam, respectivamente, o etanol, o ácido pirúvico e o ácido lático.","no citoplasma; e I, II e III identificam, respectivamente, o ácido lático, o etanol e o ácido pirúvico.","no citoplasma; e I, II e III identificam, respectivamente, o ácido pirúvico, o etanol e o ácido lático.","na mitocôndria; e I, II e III identificam, respectivamente, o etanol, o ácido lático e o ácido pirúvico.","na mitocondria; e I, II e III identificam, respectivamente, o ácido lático, o ácido pirúvico e o etanol."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 48\nConsidere a seguinte sequência de bases que codifica um peptídeo com 10 aminoácidos:\nCAAGAGUCUGAGGAGGGUUCUCAAGAGUCU\nQuando o peptídeo é completamente hidrolisado, obtém-se o seguinte:\n\nGráfico/Tabela: Tabela de Aminoácido e Quantidade (símbolos para aminoácidos: quadrado, losango, triângulo, círculo, estrela, e suas respectivas quantidades: 1, 2, 3, 4).\n\nA sequência correta dos aminoácidos no peptídeo é:",
+      principal: "QUESTÃO 48\nConsidere a seguinte sequência de bases que codifica um peptídeo com 10 aminoácidos:\nCAAGAGUCUGAGGAGGGUUCUCAAGAGUCU\nQuando o peptídeo é completamente hidrolisado, obtém-se o seguinte:\n\nGrá$\\\\frac{fico}{Tabela}$: Tabela de Aminoácido e Quantidade (símbolos para aminoácidos: quadrado, losango, triângulo, círculo, estrela, e suas respectivas quantidades: 1, 2, 3, 4).\n\nA sequência correta dos aminoácidos no peptídeo é:",
       subItens: []
     },
     options: ["Quadrado-Losango-Triângulo-Estrela-Círculo-Círculo-Losango-Triângulo-Círculo-Losango","Triângulo-Estrela-Losango-Círculo-Círculo-Triângulo-Quadrado-Triângulo-Quadrado-Círculo","Estrela-Triângulo-Losango-Quadrado-Estrela-Losango-Círculo-Círculo-Triângulo-Triângulo","Losango-Círculo-Estrela-Triângulo-Quadrado-Quadrado-Estrela-Círculo-Triângulo-Círculo","Triângulo-Círculo-Estrela-Losango-Quadrado-Losango-Triângulo-Círculo-Círculo-Estrela"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 49\nA figura abaixo tem relação com a representação de um reflexo medular típico de mamíferos:\n\nGráfico/Tabela: Imagem esquemática de um arco reflexo medular, mostrando o impulso sensitivo entrando pela raiz dorsal e o impulso motor saindo pela raiz ventral da medula espinhal.\n\nNesse mecanismo, fundamental na proteção do organismo,",
+      principal: "QUESTÃO 49\nA figura abaixo tem relação com a representação de um reflexo medular típico de mamíferos:\n\nGrá$\\\\frac{fico}{Tabela}$: Imagem esquemática de um arco reflexo medular, mostrando o impulso sensitivo entrando pela raiz dorsal e o impulso motor saindo pela raiz ventral da medula espinhal.\n\nNesse mecanismo, fundamental na proteção do organismo,",
       subItens: []
     },
     options: ["o impulso nervoso sensitivo chega à medula pela raiz dorsal e o impulso nervoso motor deixa a medula pela raiz ventral.","o impulso nervoso sensitivo chega à medula pela raiz ventral e o impulso nervoso motor deixa a medula pela raiz dorsal.","o impulso nervoso sensitivo deixa a medula pela raiz dorsal e o impulso nervoso motor deixa a medula pela raiz ventral.","o impulso nervoso motor chega à medula pela raiz ventral e o impulso nervoso sensitivo deixa a medula pela raiz dorsal.","tanto o impulso nervoso motor quanto o sensitivo chegam à medula pela raiz dorsal e dela saem pela raiz ventral."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 50\nO esquema ilustra de maneira simplificada a reprodução dos dois grandes grupos de plantas criptógamas:\n\nGráfico/Tabela: Esquema do ciclo de vida de plantas criptógamas. Caminhos de Esporófito para Gametófitos (passando por Esporângio e Esporo, via 1) e de Esporófito para Prótalo (passando por Esporângio e Esporo, via 2).\n\nNo ciclo de vida dessas plantas, os esporos originam",
+      principal: "QUESTÃO 50\nO esquema ilustra de maneira simplificada a reprodução dos dois grandes grupos de plantas criptógamas:\n\nGrá$\\\\frac{fico}{Tabela}$: Esquema do ciclo de vida de plantas criptógamas. Caminhos de Esporófito para Gametófitos (passando por Esporângio e Esporo, via 1) e de Esporófito para Prótalo (passando por Esporângio e Esporo, via 2).\n\nNo ciclo de vida dessas plantas, os esporos originam",
       subItens: []
     },
     options: ["estruturas haploides tanto nas briófitas quanto nas pteridófitas.","estruturas diploides tanto nas briófitas quanto nas pteridófitas.","uma estrutura haploide nas briófitas e outra diploide nas pteridófitas.","uma estrutura diploide nas briófitas e outra haploide nas pteridófitas.","os esporófitos, tanto em briófitas quanto em pteridófitas."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 51\nAnalise o seguinte idiograma:\n\nGráfico/Tabela: Idiograma de um cariótipo, mostrando cromossomos sexuais XX para A, B, C, D, E, F e G. Em cada letra (A a G) há representações de cromossomos XX.\n\nA pessoa à qual pertence o cariótipo representado acima possui um alelo ligado ao cromossomo X. Essa pessoa transmitirá tal alelo, na geração $1_{1}_{}$,",
+      principal: "QUESTÃO 51\nAnalise o seguinte idiograma:\n\nGrá$\\\\frac{fico}{Tabela}$: Idiograma de um cariótipo, mostrando cromossomos sexuais XX para A, B, C, D, E, F e G. Em cada letra (A a G) há representações de cromossomos XX.\n\nA pessoa à qual pertence o cariótipo representado acima possui um alelo ligado ao cromossomo X. Essa pessoa transmitirá tal alelo, na geração F_{1},",
       subItens: []
     },
     options: ["a todos os seus descendentes do sexo masculino e do sexo feminino.","a todos os seus descendentes do sexo masculino.","a todos os seus descendentes do sexo feminino.","à metade dos seus descendentes do sexo masculino.","à metade dos seus descendentes do sexo feminino."],
@@ -771,7 +771,7 @@ createQuestion({
       principal: "QUESTÃO 52\nO ciclo celular de uma célula se refere ao período que vai do surgimento da célula por divisão até a própria célula dividir-se em duas. Em termos de etapas e processos, o ciclo celular de uma célula somática consiste de",
       subItens: []
     },
-    options: ["prófase, metáfase, anáfase e telófase.","fase $1_{1}_{}$, fase S, fase $1_{2}_{}$ e citocinese.","fase $1_{1}_{}$, fase S, fase $1_{2}_{}$ e meiose.","interfase, mitose e citocinese.","meiose e mitose."],
+    options: ["prófase, metáfase, anáfase e telófase.","fase G1, fase S, fase G2 e citocinese.","fase G1, fase S, fase G2 e meiose.","interfase, mitose e citocinese.","meiose e mitose."],
     correctAnswer: 3,
     materia: "Biologia – Biologia Celular",
     conteudo: "",
@@ -783,7 +783,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 53\nDurante a meiose é possível que ocorram anormalidades cromossômicas denominadas aneuploidias. O conjunto de alterações anatômicas e fisiológicas decorrentes das aneuploidias são usualmente referidas como síndromes. Duas dessas síndromes são bem conhecidas pelo nome dos médicos que as descreveram: síndrome de Turner (descrita em 1938 por Henry Turner); e síndrome de Klinefelter (descrita em 1942 por Harry Klinefelter).\nConsidere os seguintes parâmetros:\nI. par cromossômico afetado: 18, 21 ou 23;\nII. tipo de aneuploidia: por adição ou por deleção; e\nIII. sexo dos indivíduos afetados: masculino, feminino ou ambos.\nA alternativa que relaciona corretamente a síndrome e os respectivos parâmetros é:\n\nGráfico/Tabela: Tabela comparando Síndrome de Turner e Síndrome de Klinefelter em relação a parâmetros I, II, III.\n\nSÍNDROME DE TURNER | SÍNDROME DE KLINEFELTER\n| I | II | III | I | II | III |\nA) | 21 | deleção | masculino | 23 | adição | masculino e feminino |\nB) | 23 | adição | feminino | 21 | deleção | masculino |\nC) | 23 | deleção | feminino | 23 | adição | masculino |\nD) | 21 | adição | feminino | 18 | deleção | feminino |\nE) | 18 | deleção | masculino e feminino | 21 | adição | masculino |",
+      principal: "QUESTÃO 53\nDurante a meiose é possível que ocorram anormalidades cromossômicas denominadas aneuploidias. O conjunto de alterações anatômicas e fisiológicas decorrentes das aneuploidias são usualmente referidas como síndromes. Duas dessas síndromes são bem conhecidas pelo nome dos médicos que as descreveram: síndrome de Turner (descrita em 1938 por Henry Turner); e síndrome de Klinefelter (descrita em 1942 por Harry Klinefelter).\nConsidere os seguintes parâmetros:\nI. par cromossômico afetado: 18, 21 ou 23;\nII. tipo de aneuploidia: por adição ou por deleção; e\nIII. sexo dos indivíduos afetados: masculino, feminino ou ambos.\nA alternativa que relaciona corretamente a síndrome e os respectivos parâmetros é:\n\nGrá$\\\\frac{fico}{Tabela}$: Tabela comparando Síndrome de Turner e Síndrome de Klinefelter em relação a parâmetros I, II, III.\n\nSÍNDROME DE TURNER | SÍNDROME DE KLINEFELTER\n| I | II | III | I | II | III |\nA) | 21 | deleção | masculino | 23 | adição | masculino e feminino |\nB) | 23 | adição | feminino | 21 | deleção | masculino |\nC) | 23 | deleção | feminino | 23 | adição | masculino |\nD) | 21 | adição | feminino | 18 | deleção | feminino |\nE) | 18 | deleção | masculino e feminino | 21 | adição | masculino |",
       subItens: []
     },
     options: ["SÍNDROME DE TURNER: I=21, II=deleção, III=masculino; SÍNDROME DE KLINEFELTER: I=23, II=adição, III=masculino e feminino","SÍNDROME DE TURNER: I=23, II=adição, III=feminino; SÍNDROME DE KLINEFELTER: I=21, II=deleção, III=masculino","SÍNDROME DE TURNER: I=23, II=deleção, III=feminino; SÍNDROME DE KLINEFELTER: I=23, II=adição, III=masculino","SÍNDROME DE TURNER: I=21, II=adição, III=feminino; SÍNDROME DE KLINEFELTER: I=18, II=deleção, III=feminino","SÍNDROME DE TURNER: I=18, II=deleção, III=masculino e feminino; SÍNDROME DE KLINEFELTER: I=21, II=adição, III=masculino"],
@@ -798,7 +798,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 54\nHá diferentes interações entre duas espécies de uma comunidade. Algumas são mutuamente proveitosas e outras são mutuamente prejudiciais. Há interações que beneficiam apenas uma espécie, sem prejuízo à outra; e há aquelas que também beneficiam apenas uma espécie, mas com prejuízo à outra. A tabela apresenta oito conceitos de interação biológica, atribuindo-se um símbolo para cada qual.\n\nGráfico/Tabela: Tabela com Conceito e Simbologia para interações biológicas: Benefício para ambos - obrigatório (+/+ ob), Benefício para ambos - facultativo (+/+ fa), Benefício unilateral, sem prejuízo para outra espécie (+/0), Benefício para o parasita com prejuízo para o hospedeiro (+/-), Benefício para o predador com prejuízo para a presa (+/-), Prejuízo para a espécie inibida sem benefício para a espécie inibidora (0/-), Prejuízo para a espécie inibida com benefício para a espécie inibidora (+/-), Prejuízo para ambas as espécies (-/-).\n\nConsidere, agora, as seguintes relações ecológicas:\nI - remôra / tubarão-lima\nII - cipó-chumbo / palmeira\nIII - caranguejo-eremita / anêmona-do-mar\nIV - animais marinhos / dinoflagelados (na maré vermelha)\nV - planta / fungo (nas micorrizas)\nConsiderando a simbologia aplicada aos conceitos, I, II, III, IV e V são relações ecológicas que podem ser representadas por:",
+      principal: "QUESTÃO 54\nHá diferentes interações entre duas espécies de uma comunidade. Algumas são mutuamente proveitosas e outras são mutuamente prejudiciais. Há interações que beneficiam apenas uma espécie, sem prejuízo à outra; e há aquelas que também beneficiam apenas uma espécie, mas com prejuízo à outra. A tabela apresenta oito conceitos de interação biológica, atribuindo-se um símbolo para cada qual.\n\nGrá$\\\\frac{fico}{Tabela}$: Tabela com Conceito e Simbologia para interações biológicas: Benefício para ambos - obrigatório (+/+ ob), Benefício para ambos - facultativo (+/+ fa), Benefício unilateral, sem prejuízo para outra espécie (+/0), Benefício para o parasita com prejuízo para o hospedeiro (+/-), Benefício para o predador com prejuízo para a presa (+/-), Prejuízo para a espécie inibida sem benefício para a espécie inibidora (0/-), Prejuízo para a espécie inibida com benefício para a espécie inibidora (+/-), Prejuízo para ambas as espécies (-/-).\n\nConsidere, agora, as seguintes relações ecológicas:\nI - remôra / tubarão-lima\nII - cipó-chumbo / palmeira\nIII - caranguejo-eremita / anêmona-do-mar\nIV - animais marinhos / dinoflagelados (na maré vermelha)\nV - planta / fungo (nas micorrizas)\nConsiderando a simbologia aplicada aos conceitos, I, II, III, IV e V são relações ecológicas que podem ser representadas por:",
       subItens: []
     },
     options: ["I: +/0, II: +/-, III: +/+ fa, IV: -/0, V: +/+ ob","I: +/+ fa, II: +/-, III: +/+ ob, IV: +/-, V: +/+ fa","I: +/+ ob, II: +/-, III: +/+ fa, IV: -/-, V: +/+ ob","I: +/0, II: -/-, III: +/+ fa, IV: -/0, V: +/+ ob","I: +/+ fa, II: +/-, III: +/0, IV: -/-, V: +/+ ob"],
@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 56\nConsidere uma mistura de óxido de ferro (III), $1_{2}O_{3}$, óxido de cromo (III), $1_{2}O_{3}$, e alumínio metálico, todos sob forma de pó e em proporções de massa estequiométricas. Após ignição, essa mistura reagiu completamente, com grande liberação de energia térmica, produzindo ferro metálico, cromo metálico e óxido de alumínio, conforme a equação química:\nFe2O3(s) + $1_{2}O_{3}$(s) + 4Al(s) → 2Fe(l) + 2Cr(l) + 2Al2O3(s) + energia\nA mistura dos metais líquidos produzida, após solidificação, resultou em uma liga metálica cuja composição em massa é dada por:\n(massas molares em g/mol: O = 16; Al = 27; Cr = 52; Fe = 56)",
+      principal: "QUESTÃO 56\nConsidere uma mistura de óxido de ferro (III), Fe_{2}O_{3}, óxido de cromo (III), Cr_{2}O_{3}, e alumínio metálico, todos sob forma de pó e em proporções de massa estequiométricas. Após ignição, essa mistura reagiu completamente, com grande liberação de energia térmica, produzindo ferro metálico, cromo metálico e óxido de alumínio, conforme a equação química:\nFe_{2}O_{3}(s) + Cr_{2}O_{3}(s) + 4Al(s) → 2Fe(l) + 2Cr(l) + 2Al2O3(s) + energia\nA mistura dos metais líquidos produzida, após solidificação, resultou em uma liga metálica cuja composição em massa é dada por:\n(massas molares em $\\\\frac{g}{mol}$: O = 16; Al = 27; Cr = 52; Fe = 56)",
       subItens: []
     },
     options: ["Fe 72,63%; Cr 27,37%.","Fe 61,25%; Cr 38,75%.","Fe 51,85%; Cr 48,15%.","Fe 48,15%; Cr 51,85%.","Fe 27,37%; Cr 72,63%."],
@@ -843,10 +843,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 57\nConsidere as substâncias: Sn, Hg, KCI, $1_{4}$ e $1_{3}$. As duas que apresentam boa condutibilidade elétrica no estado líquido e praticamente não conduzem eletricidade no estado sólido são",
+      principal: "QUESTÃO 57\nConsidere as substâncias: Sn, Hg, KCI, CCl_{4} e NaNO_{3}. As duas que apresentam boa condutibilidade elétrica no estado líquido e praticamente não conduzem eletricidade no estado sólido são",
       subItens: []
     },
-    options: ["KCI e $1_{4}$.","KCI e $1_{3}$.","Sn e Hg.","Sn e KCI.","Hg e $1_{3}$."],
+    options: ["KCI e CCI4.","KCI e NaNO3.","Sn e Hg.","Sn e KCI.","Hg e NaNO3."],
     correctAnswer: 1,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Condutibilidade Elétrica",
@@ -858,10 +858,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 58\nConsidere as seguintes informações sobre dois elementos químicos:\n\nGráfico/Tabela: Tabela de Eletronegatividade (escala de Pauling) e Número de elétrons da camada de valência para os elementos X e Y.\nElemento | Eletronegatividade (escala de Pauling) | Número de elétrons da camada de valência do átomo no estado fundamental\nX | 0,89 | 2\nY | 3,44 | 6\n\nA ligação química entre os átomos desses dois elementos é _____ e a fórmula do composto formado é _____\nAs lacunas do enunciado, na ordem em que aparecem, são corretamente preenchidas por:",
+      principal: "QUESTÃO 58\nConsidere as seguintes informações sobre dois elementos químicos:\n\nGrá$\\\\frac{fico}{Tabela}$: Tabela de Eletronegatividade (escala de Pauling) e Número de elétrons da camada de valência para os elementos X e Y.\nElemento | Eletronegatividade (escala de Pauling) | Número de elétrons da camada de valência do átomo no estado fundamental\nX | 0,89 | 2\nY | 3,44 | 6\n\nA ligação química entre os átomos desses dois elementos é _____ e a fórmula do composto formado é _____\nAs lacunas do enunciado, na ordem em que aparecem, são corretamente preenchidas por:",
       subItens: []
     },
-    options: ["iônica e XY.","iônica e $1_{3}Y_{2}$.","covalente simples e XY.","covalente dupla e XY.","covalente tripla e $1_{2}Y_{3}$."],
+    options: ["iônica e XY.","iônica e X3Y2.","covalente simples e XY.","covalente dupla e XY.","covalente tripla e X2Y3."],
     correctAnswer: 0,
     materia: "Química – Ligações Químicas",
     conteudo: "",
@@ -873,7 +873,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 59\nA densidade do nitrogênio líquido a 70 K, sob pressão de 1 atm, é cerca de 0,84 g/mL. Quando 10 mL desse líquido passam para o estado gasoso, em um ambiente que se encontra a 300 K, nessa mesma pressão, o volume ocupado pelo nitrogênio gasoso, em relação ao ocupado pelo nitrogênio líquido, é, aproximadamente,\n(Dados: massa molar N = 14 g/mol; Constante Universal dos Gases, R = 0,082 atm. L.K-1.mol-1.)",
+      principal: "QUESTÃO 59\nA densidade do nitrogênio líquido a 70 K, sob pressão de 1 atm, é cerca de 0,84 $\\\\frac{g}{mL}$. Quando 10 mL desse líquido passam para o estado gasoso, em um ambiente que se encontra a 300 K, nessa mesma pressão, o volume ocupado pelo nitrogênio gasoso, em relação ao ocupado pelo nitrogênio líquido, é, aproximadamente,\n(Dados: massa molar N = 14 $\\\\frac{g}{mol}$; Constante Universal dos Gases, R = 0,082 atm. L.K-1.mol-1.)",
       subItens: []
     },
     options: ["360 vezes menor.","740 vezes menor.","360 vezes maior.","740 vezes maior.","1 480 vezes maior."],
@@ -888,7 +888,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 60\nO hidróxido de cálcio é uma substância inscrita como adstringente na 5ª edição da Farmacopeia Brasileira. De acordo com essa publicação, o hidróxido de cálcio para fins farmacêuticos, sob a forma de pó fino, deve apresentar, no mínimo, um teor de 95% de pureza.\nPara verificar esse teor, a Farmacopeia recomenda a realização de uma titulação de uma amostra de 1,5 g de hidróxido de cálcio com ácido clorídrico 1,0 mol/L. Caso a amostra apresente pureza igual a 100%, o volume de ácido clorídrico gasto na titulação será de\n(massas molares em g/mol: Ca = 40; O = 16; H = 1)",
+      principal: "QUESTÃO 60\nO hidróxido de cálcio é uma substância inscrita como adstringente na 5ª edição da Farmacopeia Brasileira. De acordo com essa publicação, o hidróxido de cálcio para fins farmacêuticos, sob a forma de pó fino, deve apresentar, no mínimo, um teor de 95% de pureza.\nPara verificar esse teor, a Farmacopeia recomenda a realização de uma titulação de uma amostra de 1,5 g de hidróxido de cálcio com ácido clorídrico 1,0 $\\\\frac{mol}{L}$. Caso a amostra apresente pureza igual a 100%, o volume de ácido clorídrico gasto na titulação será de\n(massas molares em $\\\\frac{g}{mol}$: Ca = 40; O = 16; H = 1)",
       subItens: []
     },
     options: ["10 mL.","20 mL.","30 mL.","40 mL.","50 mL."],
@@ -903,10 +903,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 61\nHá diversos óxidos de nitrogênio. A análise de um deles levou à composição centesimal representada pela fórmula $1_{63}_{}$,64%$1_{36}_{}$,36%. Esse óxido analisado pode ser o\n(Dados: massas molares em g/mol: N = 14; O = 16)",
+      principal: "QUESTÃO 61\nHá diversos óxidos de nitrogênio. A análise de um deles levou à composição centesimal representada pela fórmula N_{63},64%O_{36},36%. Esse óxido analisado pode ser o\n(Dados: massas molares em $\\\\frac{g}{mol}$: N = 14; O = 16)",
       subItens: []
     },
-    options: ["NO.","$1_{2}$.","$1_{2}O_{}$.","$1_{2}O_{3}$.","$1_{2}O_{5}$."],
+    options: ["NO.","NO2.","N2O.","N2O3.","N2O5."],
     correctAnswer: 2,
     materia: "Química – Estequiometria",
     conteudo: "Química – Fórmulas Químicas",
@@ -918,10 +918,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 62\nApresentam os mesmos pares de valores, para as propriedades coligativas de cada substância, soluções aquosas 1 mol/L de",
+      principal: "QUESTÃO 62\nApresentam os mesmos pares de valores, para as propriedades coligativas de cada substância, soluções aquosas 1 $\\\\frac{mol}{L}$ de",
       subItens: []
     },
-    options: ["$1_{2}SO_{4}$ e $1_{2}$.","KBr e $1_{2}$.","C6H12O6 (glicose) e NaOH.","$1_{2}SO_{4}$ e $1_{4}$.","$1_{2}SO_{4}$ e $1_{3}$."],
+    options: ["K2SO4 e CaCl2.","KBr e BaCl2.","C6H12O6 (glicose) e NaOH.","Na2SO4 e MgSO4.","H2SO4 e HNO3."],
     correctAnswer: 0,
     materia: "Química – Soluções",
     conteudo: "Química – Propriedades Coligativas",
@@ -933,7 +933,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 63\nA medida do pH de uma solução aquosa 1 mol/L de amônia a 25 °C mostrou o valor 11,5. Sabendo-se que o produto iônico da água (Kw), nessa temperatura, vale $1 \times 10^{-14}$, estima-se que o valor da constante de ionização da amônia em solução aquosa, Kb, é da ordem de",
+      principal: "QUESTÃO 63\nA medida do pH de uma solução aquosa 1 $\\\\frac{mol}{L}$ de amônia a 25 °C mostrou o valor 11,5. Sabendo-se que o produto iônico da água (Kw), nessa temperatura, vale $1 \\\\times 10^{-14}$, estima-se que o valor da constante de ionização da amônia em solução aquosa, Kb, é da ordem de",
       subItens: []
     },
     options: ["10-1.","10-2.","10-3.","10-4.","10-5."],
@@ -948,10 +948,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 64\nNos rótulos das bebidas alcoólicas há a indicação de seu teor alcoólico, expresso na forma de porcentagem em volume de etanol, C2H5OH. Sendo assim, considere um vinho cujo teor alcoólico seja de 12%. Sabendo-se que a densidade do etanol é 0,8 g/mL e que a constante de Avogadro é igual a $1 \times 10^{23}$ mol-1, é correto afirmar que o número de moléculas de etanol que entra no organismo de uma pessoa que ingere 200 mL desse vinho é\n(massas molares em g/mol: C=12; O=16; H=1)",
+      principal: "QUESTÃO 64\nNos rótulos das bebidas alcoólicas há a indicação de seu teor alcoólico, expresso na forma de porcentagem em volume de etanol, C_{2}H5OH. Sendo assim, considere um vinho cujo teor alcoólico seja de 12%. Sabendo-se que a densidade do etanol é 0,8 $\\\\frac{g}{mL}$ e que a constante de Avogadro é igual a $1 \\\\times 10^{23}$ mol-1, é correto afirmar que o número de moléculas de etanol que entra no organismo de uma pessoa que ingere 200 mL desse vinho é\n(massas molares em $\\\\frac{g}{mol}$: C=12; O=16; H=1)",
       subItens: []
     },
-    options: ["$1 \times 10^{23}$.","$1 \times 10^{23}$.","$1 \times 10^{22}$.","$1 \times 10^{21}$.","$1 \times 10^{20}$."],
+    options: ["1,4 x 1023.","2,5 x 1023.","4,0 x 1022.","4,8 x 1021.","2,2 x 1020."],
     correctAnswer: 1,
     materia: "Química – Estequiometria",
     conteudo: "Química – Soluções",
@@ -963,7 +963,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 65\nConsidere as seguintes equações termoquímicas:\nI. Na(s) + 1/2 $1_{2}_{}$(g) + C(s) + 3/2 $1_{2}_{}$(g) → $1_{3}$(s) + 948 kJ\nII. 2 Na(s) + C(s) + 3/2 $1_{2}_{}$(g) → $1_{2}CO_{3}$(s) + 1 131 kJ\nIII. $1_{2}_{}$(g) + 1/2 $1_{2}_{}$(g) → $1_{2}O_{}$(g) + 242 kJ\nIV. C(s) + $1_{2}_{}$(g) → $1_{2}$(g) + 394 kJ\nO bicarbonato de sódio, um dos componentes do fermento químico, se decompõe por aquecimento em um forno, produzindo carbonato de sódio, gás carbônico e vapor de água. O ΔH dessa transformação, expresso em kJ/mol de carbonato de sódio produzido, é igual a",
+      principal: "QUESTÃO 65\nConsidere as seguintes equações termoquímicas:\nI. Na(s) + $\\\\frac{1}{2}$ H_{2}(g) + C(s) + $\\\\frac{3}{2}$ O_{2}(g) → NaHCO_{3}(s) + 948 kJ\nII. 2 Na(s) + C(s) + $\\\\frac{3}{2}$ O_{2}(g) → Na_{2}CO_{3}(s) + 1 131 kJ\nIII. H_{2}(g) + $\\\\frac{1}{2}$ O_{2}(g) → H_{2}O(g) + 242 kJ\nIV. C(s) + O_{2}(g) → CO_{2}(g) + 394 kJ\nO bicarbonato de sódio, um dos componentes do fermento químico, se decompõe por aquecimento em um forno, produzindo carbonato de sódio, gás carbônico e vapor de água. O ΔH dessa transformação, expresso em $\\\\frac{kJ}{mol}$ de carbonato de sódio produzido, é igual a",
       subItens: []
     },
     options: ["- 1 947.","- 129.","+ 129.","+ 425.","+ 1 947."],
@@ -978,10 +978,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 66\nA solubilidade em água do hidróxido de magnésio, princípio ativo do leite de magnésia, a 18 °C, é 0,009 g/L. A partir desse dado, estima-se que o produto de solubilidade, Kps, do hidróxido de magnésio naquela temperatura seja próximo de\n(massas molares em g/mol: Mg = 24; O = 16; H = 1)",
+      principal: "QUESTÃO 66\nA solubilidade em água do hidróxido de magnésio, princípio ativo do leite de magnésia, a 18 °C, é 0,009 $\\\\frac{g}{L}$. A partir desse dado, estima-se que o produto de solubilidade, Kps, do hidróxido de magnésio naquela temperatura seja próximo de\n(massas molares em $\\\\frac{g}{mol}$: Mg = 24; O = 16; H = 1)",
       subItens: []
     },
-    options: ["$1 \times 10^{-13}$.","$1 \times 10^{-11}$.","$1 \times 10^{-10}$.","$1 \times 10^{-9}$.","$1 \times 10^{-8}$."],
+    options: ["1 x 10-13.","2 x 10-11.","3 x 10-10.","4 x 10-9.","5 x 10-8."],
     correctAnswer: 1,
     materia: "Química – Equilíbrio Iônico",
     conteudo: "Química – Solubilidade",
@@ -993,10 +993,10 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 67\nConsidere o seguinte mecanismo pelo qual o acetaldeído se decompõe em metano e monóxido de carbono:\nEtapa 1: CH3CHO + $1_{2}_{}$ → CH3I + HI + CO\nEtapa 2: CH3I + HI → $1_{4}$ + $1_{2}_{}$\nReação global: CH3CHO → $1_{4}$ + CO\nNesse mecanismo, a espécie química que atua como catalisador é representada pela fórmula",
+      principal: "QUESTÃO 67\nConsidere o seguinte mecanismo pelo qual o acetaldeído se decompõe em metano e monóxido de carbono:\nEtapa 1: CH3CHO + I_{2} → CH3I + HI + CO\nEtapa 2: CH3I + HI → CH_{4} + I_{2}\nReação global: CH3CHO → CH_{4} + CO\nNesse mecanismo, a espécie química que atua como catalisador é representada pela fórmula",
       subItens: []
     },
-    options: ["CH3CHO.","$1_{2}_{}$.","CH3I.","HI.","CO."],
+    options: ["CH3CHO.","I2.","CH3I.","HI.","CO."],
     correctAnswer: 1,
     materia: "Química – Cinética Química",
     conteudo: "",
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 69\nA fórmula a seguir representa a estrutura molecular do oseltamivir, o princípio ativo do fármaco antiviral que foi amplamente utilizado durante a pandemia da gripe A ($1_{1}N_{1}$) em 2009.\n\nGráfico/Tabela: Estrutura molecular do oseltamivir.\n\nAs funções orgânicas presentes nessa estrutura são",
+      principal: "QUESTÃO 69\nA fórmula a seguir representa a estrutura molecular do oseltamivir, o princípio ativo do fármaco antiviral que foi amplamente utilizado durante a pandemia da gripe A (H_{1}N_{1}) em 2009.\n\nGrá$\\\\frac{fico}{Tabela}$: Estrutura molecular do oseltamivir.\n\nAs funções orgânicas presentes nessa estrutura são",
       subItens: []
     },
     options: ["amida, amina primária, éter e cetona.","amida, amina primária, éter e éster.","amida, amina secundária, éter e éster.","amina primária, amina secundária, éter e cetona.","amina primária, amina secundária, éter e éster."],
@@ -1038,7 +1038,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 70\nO borbulhamento de cloro gasoso em uma solução aquosa de hidróxido de sódio resulta na reação química representada por:\$1_{2}$(g) + 2 NaOH(aq) → NaCl(aq) + NaClO(aq) + $1_{2}O_{}$(l)\nNessa reação, cujos reagentes são obtidos industrialmente por _______ da salmoura, o número de oxidação do elemento cloro varia de _______ no cloro gasoso para _______ no cloreto de sódio e _______ no hipoclorito de sódio.\nAs lacunas desse enunciado são corretamente preenchidas, na ordem em que aparecem, por:",
+      principal: "QUESTÃO 70\nO borbulhamento de cloro gasoso em uma solução aquosa de hidróxido de sódio resulta na reação química representada por:\nCl_{2}(g) + 2 NaOH(aq) → NaCl(aq) + NaClO(aq) + H_{2}O(l)\nNessa reação, cujos reagentes são obtidos industrialmente por _______ da salmoura, o número de oxidação do elemento cloro varia de _______ no cloro gasoso para _______ no cloreto de sódio e _______ no hipoclorito de sódio.\nAs lacunas desse enunciado são corretamente preenchidas, na ordem em que aparecem, por:",
       subItens: []
     },
     options: ["cristalização, -1,+1 e zero.","cristalização, zero, -1 e +1.","eletrólise, -1,+1 e zero.","eletrólise, zero, -1 e +1.","eletrólise, zero, +1 e -1."],
@@ -1068,7 +1068,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 72\nLeia o texto.\nAustrália inventa mini rim a partir de células tronco\nO Facebook perdeu US$ 100 bilhões (R$ 330 bilhões) em valor de mercado desde o início de fevereiro e está sendo investigado pela suposta influência que informações e perfis falsos na rede social tiveram sobre diversos temas relacionados à política internacional, com duras críticas pela forma como os dados de milhões de usuários foram coletados e usados pela consultoria política Cambridge Analytica.\nEm seus termos de uso, o Facebook afirma não vender informações de usuários para outras empresas, mas compartilha dados brutos – sempre como amostragens, sem revelar a identidade real dos usuários.\nA empresa diz estar trabalhando nos últimos anos para detectar, combater e prevenir violações de suas regras e para dar mais controle ao usuário sobre as informações que são compartilhadas e como elas são usadas.\n(Disponível em: http://www.bbc.com/portuguese/geral-43597903 Publicado 02-04-2018. Acesso: 13 maio 2018. Adaptado.)\nO escândalo envolvendo o Facebook e a empresa Cambridge Analytica caracterizou-se",
+      principal: "QUESTÃO 72\nLeia o texto.\nAustrália inventa mini rim a partir de células tronco\nO Facebook perdeu US$ 100 bilhões (R$ 330 bilhões) em valor de mercado desde o início de fevereiro e está sendo investigado pela suposta influência que informações e perfis falsos na rede social tiveram sobre diversos temas relacionados à política internacional, com duras críticas pela forma como os dados de milhões de usuários foram coletados e usados pela consultoria política Cambridge Analytica.\nEm seus termos de uso, o Facebook afirma não vender informações de usuários para outras empresas, mas compartilha dados brutos – sempre como amostragens, sem revelar a identidade real dos usuários.\nA empresa diz estar trabalhando nos últimos anos para detectar, combater e prevenir violações de suas regras e para dar mais controle ao usuário sobre as informações que são compartilhadas e como elas são usadas.\n(Disponível em: http://www.bbc.$\\\\frac{com}{portuguese}$/geral-43597903 Publicado 02-04-2018. Acesso: 13 maio 2018. Adaptado.)\nO escândalo envolvendo o Facebook e a empresa Cambridge Analytica caracterizou-se",
       subItens: []
     },
     options: ["pelo uso de dados de usuários e seus amigos, por meio de um teste psicológico que circulava nas redes sociais, demonstrando a vulnerabilidade relativa à segurança dos usuários.","pelo uso de dados e informações de usuários das redes sociais, realizado inadvertidamente pela consultoria, engajada politicamente na campanha de Donald Trump.","por ser Fake News, na medida em que não existe possibilidade de uma rede social como o Facebook captar e negociar dados de seus usuários com finalidade comercial ou política.","por demonstrar a inexistência de legislação que proteja usuários de redes sociais quanto à privacidade de seus dados pessoais, já que o Congresso Americano não se responsabilizou pelo uso desses dados.","como uma ocorrência fortuita a que estão sujeitos todos os usuários de redes sociais, na medida em que, voluntariamente, disponibilizam seus dados e aceitam termos de responsabilidade ao ingressar na rede social."],
@@ -1128,7 +1128,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 76\nO gráfico, a seguir, obtido por meio da Pesquisa Nacional sobre o uso do crack, realizada pela Fiocruz, retrata o perfil étnico do usuário de crack no Brasil.\n\nGráfico/Tabela: Gráfico de barras \"Cor/raça dos usuários de crack e/ou similares, Brasil, 2012\", mostrando Brancos com 20,85% e Não Brancos com 79,15%.\n\nA população da pesquisa é constituída por pessoas brasileiras de 18 anos ou mais, que usaram crack e/ou similares, pelo menos 25 dias, nos últimos seis meses. O universo da pesquisa categorizou usuários brancos e não brancos. Os dados do gráfico permitem que realizemos a seguinte analogia entre os usuários pesquisados e o contexto sócio-histórico da população brasileira:",
+      principal: "QUESTÃO 76\nO gráfico, a seguir, obtido por meio da Pesquisa Nacional sobre o uso do crack, realizada pela Fiocruz, retrata o perfil étnico do usuário de crack no Brasil.\n\nGrá$\\\\frac{fico}{Tabela}$: Gráfico de barras \"$\\\\frac{Cor}{ra}$ça dos usuários de crack $\\\\frac{e}{ou}$ similares, Brasil, 2012\", mostrando Brancos com 20,85% e Não Brancos com 79,15%.\n\nA população da pesquisa é constituída por pessoas brasileiras de 18 anos ou mais, que usaram crack $\\\\frac{e}{ou}$ similares, pelo menos 25 dias, nos últimos seis meses. O universo da pesquisa categorizou usuários brancos e não brancos. Os dados do gráfico permitem que realizemos a seguinte analogia entre os usuários pesquisados e o contexto sócio-histórico da população brasileira:",
       subItens: []
     },
     options: ["O consumo de crack é um problema de saúde pública de grande abrangência que não pode ser balizado por aspectos étnicos, pois isso se caracterizaria como preconceito.","Os dados que relacionam o consumo de crack com etnia desconsideram as condições socioeconômicas, já que a maioria dos usuários possui emprego fixo.","O predomínio do uso da substância pela população de afrodescendentes explica a correlação entre exclusão social e quadros de violência versus consumo de crack no Brasil.","Os consumidores de crack são, em sua maioria, trabalhadores com endereço fixo e residentes em grandes cidades e, portanto, não há relação entre consumo, etnia e condição social.","Os dados sobre a distribuição de renda no Brasil desconsideram a relação entre pobreza e origem étnica, o que torna os resultados da pesquisa pouco confiáveis."],
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 77\nO Relatório Mundial do Câncer 2014, divulgado pela Organização Mundial da Saúde (OMS), estima que o número de novos casos de câncer aumente de 14 milhões em 2012 para 22 milhões em 2030. Isso significa que as políticas públicas deveriam focar em medidas preventivas, atuando na detecção precoce da doença, ou mesmo interferindo diretamente em fatores ambientais relacionados à ocorrência da doença. O câncer colorretal é um dos mais frequentes na população brasileira. O mapa a seguir contém dados a respeito dessa doença.\n\nGráfico/Tabela: Mapa do Brasil com incidência de câncer colorretal por 100 mil habitantes, diferenciado por homens e mulheres, em diversas regiões (Sudeste, Nordeste, Sul, Norte, Centro-Oeste).\n\nOs dados contidos no mapa, relativos à ocorrência de câncer colorretal na população brasileira e às características culturais regionais, podem ser assim compreendidos:",
+      principal: "QUESTÃO 77\nO Relatório Mundial do Câncer 2014, divulgado pela Organização Mundial da Saúde (OMS), estima que o número de novos casos de câncer aumente de 14 milhões em 2012 para 22 milhões em 2030. Isso significa que as políticas públicas deveriam focar em medidas preventivas, atuando na detecção precoce da doença, ou mesmo interferindo diretamente em fatores ambientais relacionados à ocorrência da doença. O câncer colorretal é um dos mais frequentes na população brasileira. O mapa a seguir contém dados a respeito dessa doença.\n\nGrá$\\\\frac{fico}{Tabela}$: Mapa do Brasil com incidência de câncer colorretal por 100 mil habitantes, diferenciado por homens e mulheres, em diversas regiões (Sudeste, Nordeste, Sul, Norte, Centro-Oeste).\n\nOs dados contidos no mapa, relativos à ocorrência de câncer colorretal na população brasileira e às características culturais regionais, podem ser assim compreendidos:",
       subItens: []
     },
     options: ["Estados do Norte e Nordeste possuem alta incidência do problema, já que o IDH dessas regiões demonstra farto acesso à comida industrializada, o que também seria considerado fator de risco.","O Sudeste possui baixa incidência da doença, pois a influência de culinárias diversificadas favorece a adoção de padrões alimentares saudáveis pela maioria da população urbana.","A forte influência da cultura europeia no sul do Brasil e a adoção de alimentação mediterrânea explicam os baixos índices da doença nos estados do Sul, fazendo da região um modelo alimentar.","A doença, no território brasileiro, ocorre predominantemente na população masculina, o que demonstra que os homens cuidam menos do que as mulheres da alimentação e saúde.","O Sul e o Sudeste do Brasil, regiões que possuem maior consumo de carnes e gorduras, têm alta incidência da doença, o que significa que os hábitos alimentares têm relação direta com o problema."],
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 78\nLeia o texto.\nO gás Sarin inibe a ação de uma enzima que desativa os sinais que as células nervosas humanas transmitem aos músculos para relaxá-los. Isso faz com que o coração e outros músculos - incluindo os envolvidos na respiração – tenham espasmos. A exposição ao gás pode causar desmaios, convulsões e levar à morte por asfixia em minutos. Investigadores da Organização das Nações Unidas concluíram que o governo sírio foi responsável por ataque com gás Sarin no mês de abril de 2017 contra a cidade de Khan Sheikhoun, o que deixou mais de 80 mortos e mais de 200 feridos. Entre as vítimas, estavam várias crianças.\n(Disponível em: https://$1_{1}$.globo.com/mundo/noticia/onu-diz-que-governo-sirio-foi-responsavel-por-ataque-com-gas-sarin.ghtml Acesso: 13 maio 2018.)\nO uso de armas químicas, da perspectiva da ONU, é considerado",
+      principal: "QUESTÃO 78\nLeia o texto.\nO gás Sarin inibe a ação de uma enzima que desativa os sinais que as células nervosas humanas transmitem aos músculos para relaxá-los. Isso faz com que o coração e outros músculos - incluindo os envolvidos na respiração – tenham espasmos. A exposição ao gás pode causar desmaios, convulsões e levar à morte por asfixia em minutos. Investigadores da Organização das Nações Unidas concluíram que o governo sírio foi responsável por ataque com gás Sarin no mês de abril de 2017 contra a cidade de Khan Sheikhoun, o que deixou mais de 80 mortos e mais de 200 feridos. Entre as vítimas, estavam várias crianças.\n(Disponível em: https://g_{1}.globo.$\\\\frac{com}{mundo}$/$\\\\frac{noticia}{onu}$-diz-que-governo-sirio-foi-responsavel-por-ataque-com-gas-sarin.ghtml Acesso: 13 maio 2018.)\nO uso de armas químicas, da perspectiva da ONU, é considerado",
       subItens: []
     },
     options: ["estratégia de guerra, portanto, de livre escolha.","guerra tecnológica, portanto, forma moderna de confronto.","crime de guerra, portanto, passível de sanções.","ação de choque, portanto, forma paralisante de guerra.","ponto de estrangulamento, portanto, limitante de locomoção."],
@@ -1188,7 +1188,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 80\nLeia o texto.\nNo decorrer da história do mundo ocidental, as pessoas que não se submetem aos padrões aceitos como comportamentos normais, apresentando comportamentos distintos ou questionando tais padrões, sempre incomodaram, sendo alvo de perseguições. (...) Até o século XVI, autoridades eclesiásticas torturavam e condenavam à morte ateus, hereges e bruxas. Com o advento da ciência moderna, a medicina passa a ocupar os espaços do saber e do poder, tornando-se a autoridade para exercer as mesmas ações. (...) Com relação à articulação com a medicalização de crianças e adolescentes, ocorre a medicalização da educação na invenção das doenças do não-aprender e a medicalização do comportamento. A medicina afirma que os graves e crônicos problemas do sistema educacional seriam decorrentes de doenças que ela, medicina, seria capaz de resolver; cria-se, assim, a demanda por seus serviços, ampliando a medicalização.\n(Disponível em: https://revistas.ufrj.br/index.php/desidades/article/view/2456/2090 Acesso: 13 maio 2018. Adaptado.)\nA leitura do texto aponta para um problema da sociedade atual, relacionado à medicalização, que, em alguns casos, torna-se um processo",
+      principal: "QUESTÃO 80\nLeia o texto.\nNo decorrer da história do mundo ocidental, as pessoas que não se submetem aos padrões aceitos como comportamentos normais, apresentando comportamentos distintos ou questionando tais padrões, sempre incomodaram, sendo alvo de perseguições. (...) Até o século XVI, autoridades eclesiásticas torturavam e condenavam à morte ateus, hereges e bruxas. Com o advento da ciência moderna, a medicina passa a ocupar os espaços do saber e do poder, tornando-se a autoridade para exercer as mesmas ações. (...) Com relação à articulação com a medicalização de crianças e adolescentes, ocorre a medicalização da educação na invenção das doenças do não-aprender e a medicalização do comportamento. A medicina afirma que os graves e crônicos problemas do sistema educacional seriam decorrentes de doenças que ela, medicina, seria capaz de resolver; cria-se, assim, a demanda por seus serviços, ampliando a medicalização.\n(Disponível em: https://revistas.ufrj.$\\\\frac{br}{index}$.$\\\\frac{php}{desidades}$/$\\\\frac{article}{view}$/$\\\\frac{2456}{2090}$ Acesso: 13 maio 2018. Adaptado.)\nA leitura do texto aponta para um problema da sociedade atual, relacionado à medicalização, que, em alguns casos, torna-se um processo",
       subItens: []
     },
     options: ["necessário, que visa ajustar condutas individuais, repreensíveis em determinado momento histórico e social.","que retrata o avanço da medicina, capaz de moldar os indivíduos para o desenvolvimento produtivo da sociedade.","de inclusão, capaz de promover a integração social de indivíduos antes desajustados, como loucos e criminosos.","que interfere nos comportamentos sociais, transformando a percepção do mundo, os valores e a conduta dos indivíduos.","de tratamento, que visa proporcionar liberdade a indivíduos com comportamentos antissociais."],

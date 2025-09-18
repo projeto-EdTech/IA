@@ -18,7 +18,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "Considere que a ≠ 0, b ≠ 0 e (a + b) ≠ 0. Sabendo-se que b/a + a/b = 3, determine o valor de a²+b²/2(a+b)².",
+      principal: "Considere que a ≠ 0, b ≠ 0 e (a + b) ≠ 0. Sabendo-se que $\\\\frac{b}{a}$ + $\\\\frac{a}{b}$ = 3, determine o valor de a²+b²/2(a+b)².",
       subItens: []
     },
     options: ["0,1","0,3","0,6","0,8","1,0"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "Seja f : D → ℝ uma função onde D = {x ∈ ℝ | x ≠ 0 e x ≠ 1} e que satisfaz a equação f(1/x) + f(x) – x = 2. O valor de f(2) é:",
+      principal: "Seja f : D → ℝ uma função onde D = {x ∈ ℝ | x ≠ 0 e x ≠ 1} e que satisfaz a equação f($\\\\frac{1}{x}$) + f(x) – x = 2. O valor de f(2) é:",
       subItens: []
     },
     options: ["5/4","1/4","1/2","1","7/2"],
@@ -123,7 +123,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "Há um torneio de xadrez com 6 participantes. Cada participante joga com cada um dos outros uma única partida. Não ocorrem empates. Cada participante tem 50% de chance de vencer cada partida. Os resultados são independentes. O vencedor em cada partida ganha um ponto e o perdedor zero. Deste modo, o total é acumulado para montar o ranking. No primeiro jogo do torneio José vence Maria. Se a probabilidade de José chegar à frente de Maria ao final do torneio é p/q, com p e q primos entre si, o valor de p + q é:",
+      principal: "Há um torneio de xadrez com 6 participantes. Cada participante joga com cada um dos outros uma única partida. Não ocorrem empates. Cada participante tem 50% de chance de vencer cada partida. Os resultados são independentes. O vencedor em cada partida ganha um ponto e o perdedor zero. Deste modo, o total é acumulado para montar o ranking. No primeiro jogo do torneio José vence Maria. Se a probabilidade de José chegar à frente de Maria ao final do torneio é $\\\\frac{p}{q}$, com p e q primos entre si, o valor de p + q é:",
       subItens: []
     },
     options: ["5","19","257","419","4097"],
@@ -228,7 +228,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "Durante a fabricação de cubos de resina com arestas de 4,5 cm, formaram-se cavidades com 50,0 cm³ de ar no interior de cada um deles. Um artesão agrupa oito cubos, gerando um cubo maior. Em seguida, envolve essa peça com uma camada de liga metálica, formando um cubo metálico com arestas de 10,0 cm, conforme mostra o corte da Figura 1. Dados: massa específica da • água: 1,0 g/cm³; • resina: 0,8 g/cm³; e • liga metálica: 2,0 g/cm³. Se esse cubo metálico for colocado na água e estiver em equilíbrio, conforme mostra a Figura 2, o valor do comprimento L, em cm, que este ficará submerso será, aproximadamente:\nFigura 1: Diagrama mostrando um corte de um cubo metálico com cavidades de resina e ar em seu interior. Dimensões: aresta total de 10,0 cm, cubos de resina com arestas de 4,5 cm.\nFigura 2: Diagrama mostrando o cubo metálico parcialmente submerso em água, com o comprimento L submerso indicado.",
+      principal: "Durante a fabricação de cubos de resina com arestas de 4,5 cm, formaram-se cavidades com 50,0 cm³ de ar no interior de cada um deles. Um artesão agrupa oito cubos, gerando um cubo maior. Em seguida, envolve essa peça com uma camada de liga metálica, formando um cubo metálico com arestas de 10,0 cm, conforme mostra o corte da Figura 1. Dados: massa específica da • água: 1,0 $\\\\frac{g}{cm}$³; • resina: 0,8 $\\\\frac{g}{cm}$³; e • liga metálica: 2,0 $\\\\frac{g}{cm}$³. Se esse cubo metálico for colocado na água e estiver em equilíbrio, conforme mostra a Figura 2, o valor do comprimento L, em cm, que este ficará submerso será, aproximadamente:\nFigura 1: Diagrama mostrando um corte de um cubo metálico com cavidades de resina e ar em seu interior. Dimensões: aresta total de 10,0 cm, cubos de resina com arestas de 4,5 cm.\nFigura 2: Diagrama mostrando o cubo metálico parcialmente submerso em água, com o comprimento L submerso indicado.",
       subItens: []
     },
     options: ["7,3","7,7","8,1","8,4","8,7"],
@@ -288,7 +288,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "Analise as afirmativas abaixo, referentes ao funcionamento de duas máquinas de Carnot, em que uma é ciclo motor e a outra, ciclo de refrigeração. 1: Levando em conta as temperaturas dos reservatórios térmicos e supondo que 80% da potência disponibilizada do ciclo motor seja empregada para o acionamento do ciclo de refrigeração, a quantidade de calor removida da fonte fria nesse ciclo será 120 kJ/min. 2: Considerando apenas o ciclo motor, se a temperatura da fonte fria for duplicada e, simultaneamente, a temperatura da fonte quente for quadruplicada, o motor térmico violará a Segunda Lei da Termodinâmica. 3: Se a temperatura da fonte quente do ciclo motor for modificada para 500 K, a quantidade máxima de calor removido da fonte fria do ciclo de refrigeração terá o mesmo valor numérico do apresentado na Afirmativa 1. Dados: • temperaturas, respectivamente, da fonte quente e da fonte fria do ciclo motor: 600 K e 300 K; • temperaturas, respectivamente, da fonte quente e da fonte fria do ciclo de refrigeração: 300 K e 268 K; e • calor adicionado à máquina térmica do ciclo motor: 2400/67 kJ/min. Considerando que a operação do refrigerador térmico é efetuada pela potência disponibilizada pelo motor térmico, está(ão) correta(s) a(s) afirmativa(s)",
+      principal: "Analise as afirmativas abaixo, referentes ao funcionamento de duas máquinas de Carnot, em que uma é ciclo motor e a outra, ciclo de refrigeração. 1: Levando em conta as temperaturas dos reservatórios térmicos e supondo que 80% da potência disponibilizada do ciclo motor seja empregada para o acionamento do ciclo de refrigeração, a quantidade de calor removida da fonte fria nesse ciclo será 120 $\\\\frac{kJ}{min}$. 2: Considerando apenas o ciclo motor, se a temperatura da fonte fria for duplicada e, simultaneamente, a temperatura da fonte quente for quadruplicada, o motor térmico violará a Segunda Lei da Termodinâmica. 3: Se a temperatura da fonte quente do ciclo motor for modificada para 500 K, a quantidade máxima de calor removido da fonte fria do ciclo de refrigeração terá o mesmo valor numérico do apresentado na Afirmativa 1. Dados: • temperaturas, respectivamente, da fonte quente e da fonte fria do ciclo motor: 600 K e 300 K; • temperaturas, respectivamente, da fonte quente e da fonte fria do ciclo de refrigeração: 300 K e 268 K; e • calor adicionado à máquina térmica do ciclo motor: $\\\\frac{2400}{67}$ $\\\\frac{kJ}{min}$. Considerando que a operação do refrigerador térmico é efetuada pela potência disponibilizada pelo motor térmico, está(ão) correta(s) a(s) afirmativa(s)",
       subItens: []
     },
     options: ["1, apenas.","2, apenas.","3, apenas.","1 e 3, apenas.","1, 2 e 3."],
@@ -351,7 +351,7 @@ createQuestion({
       principal: "Na figura, ilustra-se um anteparo e um capacitor de placas paralelas cujo dielétrico é o ar. A luz de um laser incide no capacitor, paralelamente às placas. A figura de difração resultante é observada em um anteparo distante. Dados: • permissividade elétrica do ar: ɛ₀; • área das placas: A; e • comprimento de onda da luz do laser: λ. Se o primeiro mínimo da figura de difração é verificado para um ângulo θ, a capacitância do capacitor é:\nDiagrama mostrando a luz de um laser incidindo em um capacitor de placas paralelas, com um anteparo à distância onde se observa o padrão de difração. O ângulo θ do primeiro mínimo de difração é indicado.",
       subItens: []
     },
-    options: ["ɛ₀Asenθ / (2λ)","ɛ₀Asenθ / λ","ɛ₀Acosθ / (2λ)","ɛ₀Acosθ / λ","ɛ₀$1_{2}_{}$θ / (2λ)"],
+    options: ["ɛ₀Asenθ / (2λ)","ɛ₀Asenθ / λ","ɛ₀Acosθ / (2λ)","ɛ₀Acosθ / λ","ɛ₀Asen2θ / (2λ)"],
     correctAnswer: 1,
     materia: "Física – Eletrostática",
     conteudo: "Física – Capacitores",
@@ -363,7 +363,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "Um projetil atinge um colete balístico sem perfurá-lo. A ação da fibra do tecido balístico no projetil está representada na figura acima. A deformação da fibra é transmitida pela propagação de pulsos longitudinais e transversais que se afastam radialmente do ponto de impacto, em que o projetil produz uma deformação em forma de cone no tecido. O pulso longitudinal, que se propaga ao longo da fibra, faz com que ela se deforme, afinando na direção radial. O pulso transversal, que se propaga com velocidade menor que a velocidade longitudinal, está associado à depressão. À medida que o projetil penetra no tecido, o raio r da depressão aumenta fazendo com que o material do colete se mova na mesma direção do projetil, mantendo o ângulo θ. Sabe-se que a velocidade do projetil logo após atingir o colete é dada pela função horária v(t) = 250 – 5 × 10⁸t [m/s]. Dados: • velocidade do projétil antes do impacto: 250 m/s; • velocidade do pulso longitudinal na fibra: 2000 m/s; e • ângulo θ = 60°. No instante em que a velocidade do projétil for nula, os raios aproximados das regiões deformadas pelo pulso transversal (r) e pelo longitudinal (R), são, respectivamente:\nFigura 1: Vista superior do projétil imediatamente antes do impacto com a fibra do tecido, mostrando o vetor velocidade do projétil.\nFigura 2: Vista superior do projétil após o impacto com a fibra do tecido, mostrando a deformação em forma de cone com raio r (transversal) e R (longitudinal) e ângulo θ.",
+      principal: "Um projetil atinge um colete balístico sem perfurá-lo. A ação da fibra do tecido balístico no projetil está representada na figura acima. A deformação da fibra é transmitida pela propagação de pulsos longitudinais e transversais que se afastam radialmente do ponto de impacto, em que o projetil produz uma deformação em forma de cone no tecido. O pulso longitudinal, que se propaga ao longo da fibra, faz com que ela se deforme, afinando na direção radial. O pulso transversal, que se propaga com velocidade menor que a velocidade longitudinal, está associado à depressão. À medida que o projetil penetra no tecido, o raio r da depressão aumenta fazendo com que o material do colete se mova na mesma direção do projetil, mantendo o ângulo θ. Sabe-se que a velocidade do projetil logo após atingir o colete é dada pela função horária v(t) = 250 – 5 × 10⁸t [$\\\\frac{m}{s}$]. Dados: • velocidade do projétil antes do impacto: 250 $\\\\frac{m}{s}$; • velocidade do pulso longitudinal na fibra: 2000 $\\\\frac{m}{s}$; e • ângulo θ = 60°. No instante em que a velocidade do projétil for nula, os raios aproximados das regiões deformadas pelo pulso transversal (r) e pelo longitudinal (R), são, respectivamente:\nFigura 1: Vista superior do projétil imediatamente antes do impacto com a fibra do tecido, mostrando o vetor velocidade do projétil.\nFigura 2: Vista superior do projétil após o impacto com a fibra do tecido, mostrando a deformação em forma de cone com raio r (transversal) e R (longitudinal) e ângulo θ.",
       subItens: []
     },
     options: ["0,1 e 0,01","0,01 e 0,01","0,01 e 0,1","0,1 e 0,001","0,001 e 0,1"],
@@ -393,7 +393,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "Um físico precisa fundir 50 kg de um determinado material. Pensando em não desperdiçar energia, ele pega um bloco extra de 1 kg desse material como amostra, inicialmente na temperatura de 20°C, e realiza duas etapas sucessivas de aquecimento, fornecendo 16 kcal em cada uma delas. Suas anotações são mostradas na tabela a seguir:\nEtapas de Aquecimento (16 kcal)\$1_{1}$ª Etapa: Massa final do bloco 1 kg, Temperatura final do sistema 60 °C\$1_{2}$ª Etapa: Massa final do bloco 0,92 kg, Temperatura final do sistema 90 °C\nConsiderando a temperatura inicial do material em 20 °C e que sua temperatura de fusão é constante, a quantidade mínima de energia, em kcal, necessária para fundir os 50 kg de material, é:",
+      principal: "Um físico precisa fundir 50 kg de um determinado material. Pensando em não desperdiçar energia, ele pega um bloco extra de 1 kg desse material como amostra, inicialmente na temperatura de 20°C, e realiza duas etapas sucessivas de aquecimento, fornecendo 16 kcal em cada uma delas. Suas anotações são mostradas na tabela a seguir:\nEtapas de Aquecimento (16 kcal)\n1ª Etapa: Massa final do bloco 1 kg, Temperatura final do sistema 60 °C\n2ª Etapa: Massa final do bloco 0,92 kg, Temperatura final do sistema 90 °C\nConsiderando a temperatura inicial do material em 20 °C e que sua temperatura de fusão é constante, a quantidade mínima de energia, em kcal, necessária para fundir os 50 kg de material, é:",
       subItens: []
     },
     options: ["800","1400","1600","2500","3900"],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "Uma solução de Ba(OH)₂ foi adicionada a 300 cm³ de uma solução 0,5 M de HNO₃. Houve a precipitação de um sal, mas o meio permaneceu ácido. Conseguiu-se a neutralização por meio da adição de 200 cm³ de uma solução 0,25 M de KOH, que foi totalmente consumido. Dados: • Massa Molar Ba = 137 g/mol; • Massa Molar O = 16 g/mol; • Massa Molar H = 1 g/mol; • Massa Molar K = 39 g/mol; e • Massa Molar N = 14 g/mol. Assim, pode-se afirmar que a massa, em gramas, de Ba(OH)₂ presente na solução adicionada era aproximadamente:",
+      principal: "Uma solução de Ba(OH)₂ foi adicionada a 300 cm³ de uma solução 0,5 M de HNO₃. Houve a precipitação de um sal, mas o meio permaneceu ácido. Conseguiu-se a neutralização por meio da adição de 200 cm³ de uma solução 0,25 M de KOH, que foi totalmente consumido. Dados: • Massa Molar Ba = 137 $\\\\frac{g}{mol}$; • Massa Molar O = 16 $\\\\frac{g}{mol}$; • Massa Molar H = 1 $\\\\frac{g}{mol}$; • Massa Molar K = 39 $\\\\frac{g}{mol}$; e • Massa Molar N = 14 $\\\\frac{g}{mol}$. Assim, pode-se afirmar que a massa, em gramas, de Ba(OH)₂ presente na solução adicionada era aproximadamente:",
       subItens: []
     },
     options: ["2,5","4,3","6,1","8,6","9,4"],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "Considere a representação esquemática dos nuclídeos abaixo: A/Z D, A₁/Z₁ E, A/Z₂ G, A₂/Z J, A₃/Z₃ L. Sabe-se que: A – Z = N ; A₁ – Z₁ = N₁ ; A – Z₂ = N₂ ; A₂ – Z = N₁ ; A₃ – Z₃ = N. É possível afirmar que",
+      principal: "Considere a representação esquemática dos nuclídeos abaixo: $\\\\frac{A}{Z}$ D, A₁/Z₁ E, $\\\\frac{A}{Z}$₂ G, A₂/Z J, A₃/Z₃ L. Sabe-se que: A – Z = N ; A₁ – Z₁ = N₁ ; A – Z₂ = N₂ ; A₂ – Z = N₁ ; A₃ – Z₃ = N. É possível afirmar que",
       subItens: []
     },
     options: ["D e G são isótonos.","L e D são isótopos.","G e L são isótopos.","E e J são isótonos.","D e G são isótopos."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2021,
     text: {
-      principal: "A respeito dos elementos do Grupo 13 da Tabela Periódica (B₅, Al₁₃, Ga₃₁, In₄₉, Tl₈₁), considere as seguintes afirmativas: I. os valores da primeira energia de ionização diminuem do B para o Al, a partir daí, essa diminuição não é mais tão proeminente pois os subníveis (n-1)d e/ou (n-2)f, que começam a surgir do Ga em diante, são menos efetivos para blindar a carga nuclear. II. o efeito do par inerte é bem pronunciado, nos elementos mais pesados do grupo, fazendo com que esses elementos apresentem carga iônica duas unidades a mais do que o esperado. III. os raios atômicos crescem com o aumento do número atômico no grupo, embora não tão acentuadamente como nos grupos 1 e 2. Está(ão) correta(s) a(s) afirmativa(s):",
+      principal: "A respeito dos elementos do Grupo 13 da Tabela Periódica (B₅, Al₁₃, Ga₃₁, In₄₉, Tl₈₁), considere as seguintes afirmativas: I. os valores da primeira energia de ionização diminuem do B para o Al, a partir daí, essa diminuição não é mais tão proeminente pois os subníveis (n-1)d $\\\\frac{e}{ou}$ (n-2)f, que começam a surgir do Ga em diante, são menos efetivos para blindar a carga nuclear. II. o efeito do par inerte é bem pronunciado, nos elementos mais pesados do grupo, fazendo com que esses elementos apresentem carga iônica duas unidades a mais do que o esperado. III. os raios atômicos crescem com o aumento do número atômico no grupo, embora não tão acentuadamente como nos grupos 1 e 2. Está(ão) correta(s) a(s) afirmativa(s):",
       subItens: []
     },
     options: ["I, apenas.","I e II, apenas.","II, apenas.","I e III, apenas.","II e III, apenas."],

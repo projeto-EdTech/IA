@@ -48,7 +48,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2023,
     text: {
-      principal: "A equação arctg(z) + arctg(z + 1) = arctg (4/3), em que arctg(x) é o arco tangente de x, apresenta:",
+      principal: "A equação arctg(z) + arctg(z + 1) = arctg ($\\\\frac{4}{3}$), em que arctg(x) é o arco tangente de x, apresenta:",
       subItens: []
     },
     options: ["duas soluções reais sendo uma positiva e outra negativa.","duas soluções reais positivas.","duas soluções reais negativas.","uma única solução real, sendo esta positiva.","uma única solução real, sendo esta negativa."],
@@ -183,7 +183,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2023,
     text: {
-      principal: "Seja a equação\$1_{144}$ˣ + 324ˣ / 64ˣ + 729ˣ = 6/7\nA soma dos módulos das soluções reais desta equação é",
+      principal: "Seja a equação\n144ˣ + 324ˣ / 64ˣ + 729ˣ = $\\\\frac{6}{7}$\nA soma dos módulos das soluções reais desta equação é",
       subItens: []
     },
     options: ["1","2","3","8","9"],
@@ -228,7 +228,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2023,
     text: {
-      principal: "Um cubo de arestas de comprimento L é fabricado a partir de uma chapa metálica fina de densidade superficial de massa S. O cubo encontra-se bem vedado e possui 20% de seu volume interior preenchido com óleo e o restante preenchido com ar. Em certo momento, o cubo é colocado dentro de um reservatório de água e permanece em equilíbrio na posição ilustrada na figura. Dados: • massa específica da água: 1 g/cm³; • massa específica do óleo: 0,8 g/cm³. Observações: • a massa do ar no interior do cubo é desprezível; • a espessura da chapa é desprezível em relação ao comprimento L das arestas; • a unidade de L é cm; • a unidade de S é g/cm². A relação L/S, em cm³/g, é:",
+      principal: "Um cubo de arestas de comprimento L é fabricado a partir de uma chapa metálica fina de densidade superficial de massa S. O cubo encontra-se bem vedado e possui 20% de seu volume interior preenchido com óleo e o restante preenchido com ar. Em certo momento, o cubo é colocado dentro de um reservatório de água e permanece em equilíbrio na posição ilustrada na figura. Dados: • massa específica da água: 1 $\\\\frac{g}{cm}$³; • massa específica do óleo: 0,8 $\\\\frac{g}{cm}$³. Observações: • a massa do ar no interior do cubo é desprezível; • a espessura da chapa é desprezível em relação ao comprimento L das arestas; • a unidade de L é cm; • a unidade de S é $\\\\frac{g}{cm}$². A relação $\\\\frac{L}{S}$, em cm³/g, é:",
       subItens: []
     },
     options: ["6","7","8","9","10"],
@@ -243,7 +243,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2023,
     text: {
-      principal: "Na figura mostra-se um tanque sendo alimentado por uma bomba d'água, um agitador e um sistema de aquecimento. Dados: • massa específica da água: 1 g/cm³; • calor específico da água: 1 cal/(g. °C); • vazão de água da bomba: 10 L/min; • 1 cal = 4,2 J. Observações: • não há perdas de calor pelo tanque; • toda energia dissipada pela resistência aquece a água; • o agitador mistura toda a água do tanque, mantendo-a numa mesma temperatura. A água do tanque e a fornecida pela bomba encontram-se a 20 °C. Em determinado instante, o tanque contém 220 L de água e a chave S do sistema de aquecimento é fechada. O tempo, em minutos, para que a água do tanque atinja 60 °C será:",
+      principal: "Na figura mostra-se um tanque sendo alimentado por uma bomba d'água, um agitador e um sistema de aquecimento. Dados: • massa específica da água: 1 $\\\\frac{g}{cm}$³; • calor específico da água: 1 cal/(g. °C); • vazão de água da bomba: 10 $\\\\frac{L}{min}$; • 1 cal = 4,2 J. Observações: • não há perdas de calor pelo tanque; • toda energia dissipada pela resistência aquece a água; • o agitador mistura toda a água do tanque, mantendo-a numa mesma temperatura. A água do tanque e a fornecida pela bomba encontram-se a 20 °C. Em determinado instante, o tanque contém 220 L de água e a chave S do sistema de aquecimento é fechada. O tempo, em minutos, para que a água do tanque atinja 60 °C será:",
       subItens: []
     },
     options: ["8","11","14","17","20"],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2023,
     text: {
-      principal: "Em dois experimentos, A e B, uma partícula foi fixada à esquerda e outra partícula à direita foi solta com velocidade nula, conforme geometrias apresentadas nas figuras acima. Em cada experimento, mediu-se a velocidade final que a partícula da direita alcançou muito tempo após ser solta. Observação: • os movimentos das partículas nos experimentos ocorrem sempre na horizontal e sem a influência da gravidade. Definindo v_A como a velocidade escalar final da partícula solta no experimento A e v_B como a velocidade escalar final da partícula solta no experimento B, a razão v_A/v_B é",
+      principal: "Em dois experimentos, A e B, uma partícula foi fixada à esquerda e outra partícula à direita foi solta com velocidade nula, conforme geometrias apresentadas nas figuras acima. Em cada experimento, mediu-se a velocidade final que a partícula da direita alcançou muito tempo após ser solta. Observação: • os movimentos das partículas nos experimentos ocorrem sempre na horizontal e sem a influência da gravidade. Definindo v_A como a velocidade escalar final da partícula solta no experimento A e v_B como a velocidade escalar final da partícula solta no experimento B, a razão $\\\\frac{v_A}{v_B}$ é",
       subItens: []
     },
     options: ["16/9","√2","2","4","2√3/3"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2023,
     text: {
-      principal: "Três partículas carregadas, inicialmente em repouso no plano da página, estão posicionadas sobre uma região do espaço submetida a uma densidade de fluxo magnético uniforme B, que aponta para dentro do plano da página. No instante t = 0, a partícula localizada no ponto 1 é submetida a um impulso I e descreve a trajetória indicada pela linha tracejada na figura, até ocorrer um choque perfeitamente inelástico com a partícula localizada no ponto 2. Pouco depois, outro choque perfeitamente inelástico ocorrerá com a partícula localizada na posição 3. Dados: • massa de cada partícula: m; • carga da partícula inicialmente na posição 1: Q; • carga da partícula inicialmente na posição 2: 2Q; • carga da partícula inicialmente na posição 3: 3Q; • módulo da densidade de fluxo magnético: B; • intensidade do impulso: I. Observações: • não há efeito gravitacional; • o sinal de Q está em conformidade com a geometria da figura; • todas as forças de repulsão entre as partículas são desprezíveis; • a trajetória tracejada na figura é composta pela união de três arcos de 1/4 de circunferência. A distância total percorrida pela partícula impulsionada desde a posição 1 até o ponto identificado como final é:",
+      principal: "Três partículas carregadas, inicialmente em repouso no plano da página, estão posicionadas sobre uma região do espaço submetida a uma densidade de fluxo magnético uniforme B, que aponta para dentro do plano da página. No instante t = 0, a partícula localizada no ponto 1 é submetida a um impulso I e descreve a trajetória indicada pela linha tracejada na figura, até ocorrer um choque perfeitamente inelástico com a partícula localizada no ponto 2. Pouco depois, outro choque perfeitamente inelástico ocorrerá com a partícula localizada na posição 3. Dados: • massa de cada partícula: m; • carga da partícula inicialmente na posição 1: Q; • carga da partícula inicialmente na posição 2: 2Q; • carga da partícula inicialmente na posição 3: 3Q; • módulo da densidade de fluxo magnético: B; • intensidade do impulso: I. Observações: • não há efeito gravitacional; • o sinal de Q está em conformidade com a geometria da figura; • todas as forças de repulsão entre as partículas são desprezíveis; • a trajetória tracejada na figura é composta pela união de três arcos de $\\\\frac{1}{4}$ de circunferência. A distância total percorrida pela partícula impulsionada desde a posição 1 até o ponto identificado como final é:",
       subItens: []
     },
     options: ["Iπ / 2QB","Iπ / 4QB","Iπ / 8QB","7Iπ / 4QB","7Iπ / 12QB"],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2023,
     text: {
-      principal: "Em uma célula voltaica a energia de Gibbs padrão de reação é determinada pela expressão: ΔG° = -nFE°_cel em que n é um número adimensional que representa a quantidade de mols de elétrons transferidos nas semirreações de oxidação e de redução combinadas, F é a constante de Faraday e E°_cel é o potencial-padrão da célula. Considere F = 96500 C/mol e os potenciais-padrão de redução do ferro e do alumínio, a 298 K, indicados abaixo. Fe²⁺(aq) + 2e⁻ → Fe(s) E° = -0,44 V Al³⁺(aq) + 3e⁻ → Al(s) E° = -1,66 V Para uma célula voltaica formada pelo contato de dois metais quando uma peça de ferro é fixada com parafusos de alumínio, a 298 K, avalie as asserções a seguir. I. O valor numérico de n é 5. II. Com o passar do tempo, a peça fixada irá cair devido à corrosão do ferro. III. Com o passar do tempo, a peça fixada irá cair devido à corrosão do alumínio. IV. A energia de Gibbs padrão de reação da célula é igual a —706 kJ/mol. V. Na célula voltaica formada, a oxidação do ferro é um processo espontâneo. Assinale a opção que apresenta APENAS as afirmativas verdadeiras.",
+      principal: "Em uma célula voltaica a energia de Gibbs padrão de reação é determinada pela expressão: ΔG° = -nFE°_cel em que n é um número adimensional que representa a quantidade de mols de elétrons transferidos nas semirreações de oxidação e de redução combinadas, F é a constante de Faraday e E°_cel é o potencial-padrão da célula. Considere F = 96500 $\\\\frac{C}{mol}$ e os potenciais-padrão de redução do ferro e do alumínio, a 298 K, indicados abaixo. Fe²⁺(aq) + 2e⁻ → Fe(s) E° = -0,44 V Al³⁺(aq) + 3e⁻ → Al(s) E° = -1,66 V Para uma célula voltaica formada pelo contato de dois metais quando uma peça de ferro é fixada com parafusos de alumínio, a 298 K, avalie as asserções a seguir. I. O valor numérico de n é 5. II. Com o passar do tempo, a peça fixada irá cair devido à corrosão do ferro. III. Com o passar do tempo, a peça fixada irá cair devido à corrosão do alumínio. IV. A energia de Gibbs padrão de reação da célula é igual a —706 $\\\\frac{kJ}{mol}$. V. Na célula voltaica formada, a oxidação do ferro é um processo espontâneo. Assinale a opção que apresenta APENAS as afirmativas verdadeiras.",
       subItens: []
     },
     options: ["I, II e V.","I e III.","II e III.","III e IV.","II, IV e V."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2023,
     text: {
-      principal: "Dois reatores A e B, com volumes invariáveis de 20 litros cada um, são aquecidos até atingir a temperatura de 819 °C. Cada um dos reatores possui uma válvula de segurança: a do reator A se abre automaticamente quando são produzidas em seu interior pressões iguais ou superiores a 1,5 atm, enquanto que a do reator B se abre automaticamente quando são produzidas em seu interior pressões iguais ou superiores a 3,5 atm. No reator A foi armazenada hidrazina líquida (N₂H₄), que se decompôs inteiramente em 0,163 mol de gás hidrogênio e 0,082 mol de gás nitrogênio a 819 °C. No reator B encontram-se em equilíbrio, amônia, 1,03×10⁻² mol/L de N₂ e 1,62×10⁻² mol/L de H₂, a 819 °C, com um valor de K_p (constante de equilíbrio em termos de pressão parcial) igual a 0,25. Dados: • massas atômicas: H = 1 u; N = 14 u; • R = 0,082 atm.L/(mol.K); e • os gases se comportam idealmente. Se aumentarmos em 10 °C a temperatura do reator A, podemos afirmar que:",
+      principal: "Dois reatores A e B, com volumes invariáveis de 20 litros cada um, são aquecidos até atingir a temperatura de 819 °C. Cada um dos reatores possui uma válvula de segurança: a do reator A se abre automaticamente quando são produzidas em seu interior pressões iguais ou superiores a 1,5 atm, enquanto que a do reator B se abre automaticamente quando são produzidas em seu interior pressões iguais ou superiores a 3,5 atm. No reator A foi armazenada hidrazina líquida (N₂H₄), que se decompôs inteiramente em 0,163 mol de gás hidrogênio e 0,082 mol de gás nitrogênio a 819 °C. No reator B encontram-se em equilíbrio, amônia, 1,03×10⁻² $\\\\frac{mol}{L}$ de N₂ e 1,62×10⁻² $\\\\frac{mol}{L}$ de H₂, a 819 °C, com um valor de K_p (constante de equilíbrio em termos de pressão parcial) igual a 0,25. Dados: • massas atômicas: H = 1 u; N = 14 u; • R = 0,082 atm.L/(mol.K); e • os gases se comportam idealmente. Se aumentarmos em 10 °C a temperatura do reator A, podemos afirmar que:",
       subItens: []
     },
     options: ["a válvula do reator A se abre e a do reator B permanece aberta.","a válvula do reator A se abre e a do reator B permanece fechada.","a válvula do reator A permanece fechada e a do reator B permanece aberta.","as válvulas de ambos os reatores permanecem fechadas.","as válvulas de ambos os reatores permanecem abertas."],

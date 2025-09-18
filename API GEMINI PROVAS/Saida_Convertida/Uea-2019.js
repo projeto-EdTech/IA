@@ -303,7 +303,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2019,
     text: {
-      principal: "Examine a figura.\n\n[Image: Diagram of Earth with movement of the sun, rotation of Earth, and angles indicating time zones/fusos horários]\n\n(Levon Boligian e Andressa T. A. Boligian. Geografia espaço e vivência, 2011.)\n\nA figura esquemática da Terra mostra a sua divisão segundo",
+      principal: "Examine a figura.\n\n[Image: Diagram of Earth with movement of the sun, rotation of Earth, and angles indicating time $\\\\frac{zones}{fusos}$ horários]\n\n(Levon Boligian e Andressa T. A. Boligian. Geografia espaço e vivência, 2011.)\n\nA figura esquemática da Terra mostra a sua divisão segundo",
       subItens: []
     },
     options: ["as horas fracionadas.","os fusos horários.","as latitudes.","os paralelos.","as coordenadas geográficas."],
@@ -441,7 +441,7 @@ createQuestion({
       principal: "O texto faz referência a problemas que surgem no corpo humano quando há deficiência de",
       subItens: []
     },
-    options: ["vitamina C.","vitamina $1_{12}_{}$.","vitamina D.","vitamina A.","vitamina E."],
+    options: ["vitamina C.","vitamina B12.","vitamina D.","vitamina A.","vitamina E."],
     correctAnswer: 0,
     materia: "Biologia – Nutrição",
     conteudo: "Biologia – Vitaminas",
@@ -543,7 +543,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2019,
     text: {
-      principal: "Em uma madrugada, a razão entre o número de adultos e o número de crianças atendidas em um pronto-socorro foi igual a 2/5. Se o total de pessoas atendidas nessa madrugada foi igual a 84, o número de crianças atendidas foi",
+      principal: "Em uma madrugada, a razão entre o número de adultos e o número de crianças atendidas em um pronto-socorro foi igual a $\\\\frac{2}{5}$. Se o total de pessoas atendidas nessa madrugada foi igual a 84, o número de crianças atendidas foi",
       subItens: []
     },
     options: ["50.","55.","60.","65.","70."],
@@ -696,7 +696,7 @@ createQuestion({
       principal: "A grandeza física denominada trabalho é definida pelo produto entre a força e a distância, sendo a força definida pelo produto entre a massa e a aceleração. Com base nas unidades do Sistema Internacional, a unidade de trabalho é",
       subItens: []
     },
-    options: ["kg · m · s","kg · m² · s-2","kg-1 · m · $1_{2}$","kg · m · s-2","kg-2 · m-1 · $1_{2}$"],
+    options: ["kg · m · s","kg · m² · s-2","kg-1 · m · s2","kg · m · s-2","kg-2 · m-1 · s2"],
     correctAnswer: 1,
     materia: "Física – Dinâmica",
     conteudo: "Física – Trabalho e Energia",
@@ -723,7 +723,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2019,
     text: {
-      principal: "Enquanto instalava uma antena na laje do prédio, o zelador acidentalmente esbarrou em um parafuso que estava sobre a mureta, arremessando-o horizontalmente para fora do prédio, com velocidade de 2 m/s.\n\n[Image: Diagram of a screw falling horizontally from a building]\n\nConsidere que a aceleração da gravidade no local seja 10 m/s² e que a resistência do ar seja desprezível. Sabendo que a altu-ra da mureta até o chão era de 20 m, a distância d, entre a base do prédio e o ponto P em que o parafuso caiu, foi de",
+      principal: "Enquanto instalava uma antena na laje do prédio, o zelador acidentalmente esbarrou em um parafuso que estava sobre a mureta, arremessando-o horizontalmente para fora do prédio, com velocidade de 2 $\\\\frac{m}{s}$.\n\n[Image: Diagram of a screw falling horizontally from a building]\n\nConsidere que a aceleração da gravidade no local seja 10 $\\\\frac{m}{s}$² e que a resistência do ar seja desprezível. Sabendo que a altu-ra da mureta até o chão era de 20 m, a distância d, entre a base do prédio e o ponto P em que o parafuso caiu, foi de",
       subItens: []
     },
     options: ["2 m.","4 m.","5 m.","6 m.","8 m."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2019,
     text: {
-      principal: "Um bloco com 500 kg é erguido verticalmente para cima, por um cabo ideal acoplado a um guindaste, como mostra a figura.\n\n[Image: Diagram of a block being lifted by a crane]\n\nSendo a aceleração da gravidade 10 m/s², o valor da força constante, aplicada verticalmente pelo cabo, para que o bloco suba com aceleração de 0,2 m/s² em relação ao solo, é",
+      principal: "Um bloco com 500 kg é erguido verticalmente para cima, por um cabo ideal acoplado a um guindaste, como mostra a figura.\n\n[Image: Diagram of a block being lifted by a crane]\n\nSendo a aceleração da gravidade 10 $\\\\frac{m}{s}$², o valor da força constante, aplicada verticalmente pelo cabo, para que o bloco suba com aceleração de 0,2 $\\\\frac{m}{s}$² em relação ao solo, é",
       subItens: []
     },
     options: ["4000 N.","4900 N.","5000 N.","5100 N.","6000 N."],
@@ -798,10 +798,10 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2019,
     text: {
-      principal: "Relatórios sobre a poluição atmosférica em grandes cida-des indicam a presença dos gases dióxido de enxofre ($1_{2}$), monóxido de carbono (CO) e ozônio ($1_{3}_{}$) em quantidades que podem ser prejudiciais à saúde.\n\n(http://cetesb.sp.gov.br. Adaptado.)\n\nNa atmosfera, esses gases poluentes formam uma mistura ___. Dentre esses poluentes, o ___ é uma substância simples. Assinale a alternativa que preenche as lacunas do texto.",
+      principal: "Relatórios sobre a poluição atmosférica em grandes cida-des indicam a presença dos gases dióxido de enxofre (SO_{2}), monóxido de carbono (CO) e ozônio (O_{3}) em quantidades que podem ser prejudiciais à saúde.\n\n(http://cetesb.sp.gov.br. Adaptado.)\n\nNa atmosfera, esses gases poluentes formam uma mistura ___. Dentre esses poluentes, o ___ é uma substância simples. Assinale a alternativa que preenche as lacunas do texto.",
       subItens: []
     },
-    options: ["homogênea - CO","homogênea - $1_{3}_{}$","homogênea - $1_{2}$","heterogênea - $1_{3}_{}$","heterogênea - CO"],
+    options: ["homogênea - CO","homogênea - O3","homogênea - SO2","heterogênea - O3","heterogênea - CO"],
     correctAnswer: 1,
     materia: "Química – Classificação da Matéria",
     conteudo: "Química – Meio Ambiente",
@@ -873,10 +873,10 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2019,
     text: {
-      principal: "O ácido clorídrico interage quimicamente com metais e com bases. As equações a seguir representam exemplos dessas reações.\n\n2HCl (aq) + Zn (s) → produto I (g) + $1_{2}$ (aq)\nHCl (aq) + NaOH (aq) → produto II (l) + NaCl (aq)\n\nOs produtos I e II são, respectivamente,",
+      principal: "O ácido clorídrico interage quimicamente com metais e com bases. As equações a seguir representam exemplos dessas reações.\n\n2HCl (aq) + Zn (s) → produto I (g) + ZnCl_{2} (aq)\nHCl (aq) + NaOH (aq) → produto II (l) + NaCl (aq)\n\nOs produtos I e II são, respectivamente,",
       subItens: []
     },
-    options: ["H₂O e $1_{2}_{}$","Cl₂ e H₂O","Cl₂ e H₂","H₂ e H₂O","H₂ e Cl₂"],
+    options: ["H₂O e Cl2","Cl₂ e H₂O","Cl₂ e H₂","H₂ e H₂O","H₂ e Cl₂"],
     correctAnswer: 3,
     materia: "Química – Reações Químicas",
     conteudo: "Química – Ácidos e Bases",
@@ -888,10 +888,10 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2019,
     text: {
-      principal: "A polaridade das moléculas é um fator importante para a sua solubilidade em água. Dentre as moléculas $1_{2}_{}$, HCl, $1_{2}$, $1_{4}$ e $1_{3}$, a que apresenta a mesma característica de polaridade que a água é",
+      principal: "A polaridade das moléculas é um fator importante para a sua solubilidade em água. Dentre as moléculas I_{2}, HCl, CO_{2}, CH_{4} e BF_{3}, a que apresenta a mesma característica de polaridade que a água é",
       subItens: []
     },
-    options: ["$1_{2}_{}$","HCl","$1_{2}$","$1_{4}$","$1_{3}$"],
+    options: ["I2","HCl","CO2","CH4","BF3"],
     correctAnswer: 1,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Polaridade de Moléculas",

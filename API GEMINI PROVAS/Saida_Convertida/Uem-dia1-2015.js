@@ -108,10 +108,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Assinale o que for correto sobre a fotossíntese, cuja equação geral (não balanceada) está representada abaixo.\$1_{2}$ + $1_{2}O_{}$ Luz → Plantas C6H12O6 + $1_{2}_{}$",
+      principal: "Assinale o que for correto sobre a fotossíntese, cuja equação geral (não balanceada) está representada abaixo.\nCO_{2} + H_{2}O Luz → Plantas C_{6}H12O6 + O_{2}",
       subItens: []
     },
-    options: ["01) Os cloroplastos, locais onde a fotossíntese ocorre, estão presentes em células de plantas e algas.","02) A clorofila recupera os elétrons perdidos durante a fotossíntese a partir da decomposição de moléculas de $1_{2}$.","04) Na etapa de fixação do carbono, o NADPH e o ATP produzidos nas etapas iniciais da fotossíntese fornecem, respectivamente, hidrogênio e energia para a produção de glicídios a partir do gás carbônico.","08) Uma vez balanceada a equação e supondo que o processo ocorra com 100% de rendimento, é correto afirmar que a reação de 36 g de $1_{2}$ com $1_{2}O_{}$ em excesso produzirá 182,3 g de C6H12O6.","16) A substância C6H12O6 é um hidrato de carbono. Os hidratos de carbono possuem fórmula geral Cx($1_{2}O_{}$)y."],
+    options: ["01) Os cloroplastos, locais onde a fotossíntese ocorre, estão presentes em células de plantas e algas.","02) A clorofila recupera os elétrons perdidos durante a fotossíntese a partir da decomposição de moléculas de CO2.","04) Na etapa de fixação do carbono, o NADPH e o ATP produzidos nas etapas iniciais da fotossíntese fornecem, respectivamente, hidrogênio e energia para a produção de glicídios a partir do gás carbônico.","08) Uma vez balanceada a equação e supondo que o processo ocorra com 100% de rendimento, é correto afirmar que a reação de 36 g de CO2 com H2O em excesso produzirá 182,3 g de C6H12O6.","16) A substância C6H12O6 é um hidrato de carbono. Os hidratos de carbono possuem fórmula geral Cx(H2O)y."],
     correctAnswer: null,
     materia: "Biologia – Fotossíntese",
     conteudo: "Química – Estequiometria",
@@ -126,7 +126,7 @@ createQuestion({
       principal: "Pesquisas têm mostrado que aproximadamente 80% dos recifes de corais do Brasil estão ameaçados de extinção devido à extração, ao aquecimento global (que causa o aumento da temperatura média dos oceanos) e às poluições doméstica e industrial. Sobre o assunto, assinale o que for correto.",
       subItens: []
     },
-    options: ["01) O aumento da temperatura da água dos oceanos causa o branqueamento dos corais, resultado da expulsão das zooxantelas.","02) Os pólipos dos corais formadores dos recifes, embora sejam heterótrofos, dependem também do alimento produzido pelas zooxantelas.","04) A acidificação das águas oceânicas é resultado do aumento dos níveis de $1_{2}$, que reage com a água formando o ácido carbônico.","08) O carbonato de cálcio ($1_{3}$), constituinte do esqueleto de corais, é um exemplo de substância orgânica por conter carbono.","16) A produção de $1_{2}$ na queima de combustíveis e nas queimadas provoca o aumento desse gás na atmosfera, diminuindo o efeito estufa, com consequente redução da temperatura média do planeta."],
+    options: ["01) O aumento da temperatura da água dos oceanos causa o branqueamento dos corais, resultado da expulsão das zooxantelas.","02) Os pólipos dos corais formadores dos recifes, embora sejam heterótrofos, dependem também do alimento produzido pelas zooxantelas.","04) A acidificação das águas oceânicas é resultado do aumento dos níveis de CO2, que reage com a água formando o ácido carbônico.","08) O carbonato de cálcio (CaCO3), constituinte do esqueleto de corais, é um exemplo de substância orgânica por conter carbono.","16) A produção de CO2 na queima de combustíveis e nas queimadas provoca o aumento desse gás na atmosfera, diminuindo o efeito estufa, com consequente redução da temperatura média do planeta."],
     correctAnswer: null,
     materia: "Biologia – Ecologia Marinha",
     conteudo: "Geografia – Impactos Ambientais",
@@ -216,7 +216,7 @@ createQuestion({
       principal: "Sobre as funções nitrogenadas, assinale o que for correto.",
       subItens: []
     },
-    options: ["01) As proteínas pertencem ao grupo de compostos orgânicos denominado de amidas, cuja característica é a presença de uma carbonila ligada a um nitrogênio.","02) A ureia presente na urina dos seres humanos, quando decomposta em solução aquosa, dá origem a gás carbônico e amônia.","04) O nitrometano ($1_{3}C_{}$-$1_{2}$) é um exemplo de composto halogenado usado em aparelhos de ar condicionado.","08) No processo de decomposição, realizado por certas bactérias e fungos, o nitrogênio presente nos organismos mortos é transformado em amônia ($1_{3}$).","16) As bactérias do gênero Nitrosomonas são responsáveis pela transformação dos nitratos ($1_{3}$) em gás nitrogênio ($1_{2}_{}$). Esse processo é conhecido por nitrosação."],
+    options: ["01) As proteínas pertencem ao grupo de compostos orgânicos denominado de amidas, cuja característica é a presença de uma carbonila ligada a um nitrogênio.","02) A ureia presente na urina dos seres humanos, quando decomposta em solução aquosa, dá origem a gás carbônico e amônia.","04) O nitrometano (H3C-NO2) é um exemplo de composto halogenado usado em aparelhos de ar condicionado.","08) No processo de decomposição, realizado por certas bactérias e fungos, o nitrogênio presente nos organismos mortos é transformado em amônia (NH3).","16) As bactérias do gênero Nitrosomonas são responsáveis pela transformação dos nitratos (NO3) em gás nitrogênio (N2). Esse processo é conhecido por nitrosação."],
     correctAnswer: null,
     materia: "Química – Funções Nitrogenadas",
     conteudo: "Química – Ciclo do Nitrogênio",
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Para fazer ultrapassagens em estradas de pista simples é necessário trafegar pela contramão. Para uma manobra segura o condutor deve iniciar a ultrapassagem indo para a pista contrária quando a dianteira do seu veículo estiver a uma distância de 10 metros da traseira do veículo da frente e voltar para a pista quando a sua traseira estiver 5 metros à frente da dianteira do outro veículo. Considere um carro de 5 metros de comprimento, viajando a 108 km/h, que deseja ultrapassar um caminhão de 30 metros de comprimento trafegando a 72 km/h. Sobre essa manobra, assinale o que for correto (Obs.: desconsidere os movimentos laterais do carro).",
+      principal: "Para fazer ultrapassagens em estradas de pista simples é necessário trafegar pela contramão. Para uma manobra segura o condutor deve iniciar a ultrapassagem indo para a pista contrária quando a dianteira do seu veículo estiver a uma distância de 10 metros da traseira do veículo da frente e voltar para a pista quando a sua traseira estiver 5 metros à frente da dianteira do outro veículo. Considere um carro de 5 metros de comprimento, viajando a 108 $\\\\frac{km}{h}$, que deseja ultrapassar um caminhão de 30 metros de comprimento trafegando a 72 $\\\\frac{km}{h}$. Sobre essa manobra, assinale o que for correto (Obs.: desconsidere os movimentos laterais do carro).",
       subItens: []
     },
     options: ["01) O tempo entre o início e o fim da manobra será de 5 segundos.","02) O carro irá percorrer 180 metros entre o início e o fim da manobra.","04) A distância, em metros, entre a dianteira do carro e a traseira do caminhão, t segundos após o início da manobra, é dada por d(t)=10|1-t|.","08) A distância, em metros, entre a traseira do carro e a dianteira do caminhão, t segundos após o início da manobra, é dada por d(t) = 5.|10-2t|.","16) Se quiser ultrapassar o caminhão na metade do tempo que levaria nas condições citadas, o carro precisaria dobrar a sua velocidade."],
@@ -501,7 +501,7 @@ createQuestion({
       principal: "Assinale o que for correto.",
       subItens: []
     },
-    options: ["01) Uma solução preparada pela dissolução de 136 gramas de NaCl em água suficiente para 500 cm³ de solução possui concentração igual a aproximadamente 0,27 gramas/litro. (Dado: densidade da solução igual a 1 grama/mililitro).","02) A concentração em quantidade de matéria por litro para uma solução preparada pela dissolução de 20 gramas de NaOH em 5 quilogramas de água é igual a 4 x 10⁻³ mol/litro. (Dado: densidade da água igual a 1 grama/mililitro).","04) Ao se dissolver mais soluto em uma solução de densidade inicialmente igual a 1,5 g/cm³, desconsiderando o aumento de volume, temos um aumento da densidade da solução.","08) Ao se dissolverem 0,2 miligramas de MgCl₂ em 50 gramas de água, obtém-se uma solução com concentração em MgCl₂ igual a 4 ppm.","16) Ao se adicionarem 3 litros de água a 1 litro de uma solução aquosa de $1_{1}$ de concentração igual a 1×10⁻⁴ mol/litro, o pH da solução resultante dobra de valor."],
+    options: ["01) Uma solução preparada pela dissolução de 136 gramas de NaCl em água suficiente para 500 cm³ de solução possui concentração igual a aproximadamente 0,27 gramas/litro. (Dado: densidade da solução igual a 1 grama/mililitro).","02) A concentração em quantidade de matéria por litro para uma solução preparada pela dissolução de 20 gramas de NaOH em 5 quilogramas de água é igual a 4 x 10⁻³ mol/litro. (Dado: densidade da água igual a 1 grama/mililitro).","04) Ao se dissolver mais soluto em uma solução de densidade inicialmente igual a 1,5 g/cm³, desconsiderando o aumento de volume, temos um aumento da densidade da solução.","08) Ao se dissolverem 0,2 miligramas de MgCl₂ em 50 gramas de água, obtém-se uma solução com concentração em MgCl₂ igual a 4 ppm.","16) Ao se adicionarem 3 litros de água a 1 litro de uma solução aquosa de HC1 de concentração igual a 1×10⁻⁴ mol/litro, o pH da solução resultante dobra de valor."],
     correctAnswer: null,
     materia: "Química – Soluções e Concentração",
     conteudo: "Química – pH e Diluição",
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Dois mols de gás oxigênio ($1_{2}_{}$) à temperatura de 27 °C estão confinados em um recipiente ao nível do mar. O recipiente possui um êmbolo de massa igual a 2 quilogramas e área igual a 2×10⁻⁴ m², que pode se deslocar livremente sem atrito. Considerando que o gás apresenta comportamento ideal, assinale o que for correto. Dados: R=8,31 J/mol.K. Considere 1 atm = 10⁵ N/m² e g = 10 m/s².",
+      principal: "Dois mols de gás oxigênio (O_{2}) à temperatura de 27 °C estão confinados em um recipiente ao nível do mar. O recipiente possui um êmbolo de massa igual a 2 quilogramas e área igual a 2×10⁻⁴ m², que pode se deslocar livremente sem atrito. Considerando que o gás apresenta comportamento ideal, assinale o que for correto. Dados: R=8,31 $\\\\frac{J}{mol}$.K. Considere 1 atm = 10⁵ $\\\\frac{N}{m}$² e g = 10 $\\\\frac{m}{s}$².",
       subItens: []
     },
     options: ["01) A pressão à qual o gás está submetido é aproximadamente igual a 1×10⁵ N/m².","02) A altura da extremidade inferior do êmbolo em relação à base do recipiente é de aproximadamente 125 metros.","04) Se o gás O₂ fosse substituído pelo gás He, nas mesmas condições descritas, a energia interna do gás He seria menor quando comparada com a energia interna do gás O₂.","08) Se o gás receber calor do meio externo, a volume constante, a temperatura e a pressão diminuem.","16) Todas as moléculas de oxigênio contidas no recipiente apresentam a mesma agitação térmica."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Uma bolinha é atirada para o alto a partir do chão e fica quicando, realizando movimentos de subir e descer. Suponha que a velocidade da bola ao ser lançada seja de 4 m/s, e que a cada vez que toca o chão ela perca 2% de sua energia mecânica. Desprezando a resistência do ar, assinale o que for correto. Considere g = 9,8 m/s².",
+      principal: "Uma bolinha é atirada para o alto a partir do chão e fica quicando, realizando movimentos de subir e descer. Suponha que a velocidade da bola ao ser lançada seja de 4 $\\\\frac{m}{s}$, e que a cada vez que toca o chão ela perca 2% de sua energia mecânica. Desprezando a resistência do ar, assinale o que for correto. Considere g = 9,8 $\\\\frac{m}{s}$².",
       subItens: []
     },
     options: ["01) A altura máxima atingida pela bola após quicar pela primeira vez é 80 cm.","02) A velocidade escalar da bola ao tocar o chão na primeira vez é, em módulo, menor do que 4 m/s.","04) A velocidade escalar da bola no instante logo após quicar pela segunda vez é, em módulo, 3,92 m/s.","08) A sequência dada pela altura máxima atingida pela bola após cada vez que toca o chão é uma progressão geométrica.","16) A distância total percorrida pela bola é 40 metros."],

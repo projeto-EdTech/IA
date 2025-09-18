@@ -78,7 +78,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2019,
     text: {
-      principal: "Estima-se que um mosquito seja capaz de voar 3,0 km por dia, como informa o texto. Nessas condições, a velocidade média do mosquito corresponde, em km/h, a:",
+      principal: "Estima-se que um mosquito seja capaz de voar 3,0 km por dia, como informa o texto. Nessas condições, a velocidade média do mosquito corresponde, em $\\\\frac{km}{h}$, a:",
       subItens: []
     },
     options: ["0,125","0,250","0,600","0,800"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2019,
     text: {
-      principal: "Em uma mesa de sinuca, as bolas A e B, ambas com massa igual a 140 g, deslocam-se com velocidades Vᴀ e Vʙ, na mesma direção e sentido. O gráfico abaixo representa essas velocidades ao longo do tempo. Após uma colisão entre as bolas, a quantidade de movimento total, em kg.m/s, é igual a:\n\n[Gráfico de velocidade (m/s) versus tempo (s). Bola A tem velocidade constante de 10 m/s. Bola B tem velocidade constante de 6 m/s.]",
+      principal: "Em uma mesa de sinuca, as bolas A e B, ambas com massa igual a 140 g, deslocam-se com velocidades Vᴀ e Vʙ, na mesma direção e sentido. O gráfico abaixo representa essas velocidades ao longo do tempo. Após uma colisão entre as bolas, a quantidade de movimento total, em kg.$\\\\frac{m}{s}$, é igual a:\n\n[Gráfico de velocidade ($\\\\frac{m}{s}$) versus tempo (s). Bola A tem velocidade constante de 10 $\\\\frac{m}{s}$. Bola B tem velocidade constante de 6 $\\\\frac{m}{s}$.]",
       subItens: []
     },
     options: ["0,56","0,84","1,60","2,24"],
@@ -678,7 +678,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2019,
     text: {
-      principal: "Para a remoção de um esmalte, um laboratório precisa preparar 200 mL de uma solução aquosa de propanona na concentração de 0,2 mol/L. Admita que a densidade da propanona pura é igual a 0,8 kg/L. Nesse caso, o volume de propanona pura, em mililitros, necessário ao preparo da solução corresponde a:",
+      principal: "Para a remoção de um esmalte, um laboratório precisa preparar 200 mL de uma solução aquosa de propanona na concentração de 0,2 $\\\\frac{mol}{L}$. Admita que a densidade da propanona pura é igual a 0,8 $\\\\frac{kg}{L}$. Nesse caso, o volume de propanona pura, em mililitros, necessário ao preparo da solução corresponde a:",
       subItens: []
     },
     options: ["2,9","3,6","5,8","6,7"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2019,
     text: {
-      principal: "MUDANÇA NO COMÉRCIO DE BENS DOS ESTADOS UNIDOS:\nIMPORTAÇÕES POR PAÍSES\n\n[Gráfico de barras duplas mostrando o percentual de importações de bens dos Estados Unidos por país/região em 1993 e 2016. Países/regiões: $1_{15}$*, Canadá, México, China, Japão. *$1_{15}$: conjunto das trocas com as 15 maiores economias da Europa Ocidental.]\n\nO processo de globalização das últimas décadas vem redefinindo os fluxos de bens entre os países. A partir do gráfico, a mudança dos locais de origem dos bens pode ser explicada pela seguinte característica do processo de globalização:",
+      principal: "MUDANÇA NO COMÉRCIO DE BENS DOS ESTADOS UNIDOS:\nIMPORTAÇÕES POR PAÍSES\n\n[Gráfico de barras duplas mostrando o percentual de importações de bens dos Estados Unidos por paí$\\\\frac{s}{regi}$ão em 1993 e 2016. Paí$\\\\frac{ses}{regi}$ões: UE_{15}*, Canadá, México, China, Japão. *UE_{15}: conjunto das trocas com as 15 maiores economias da Europa Ocidental.]\n\nO processo de globalização das últimas décadas vem redefinindo os fluxos de bens entre os países. A partir do gráfico, a mudança dos locais de origem dos bens pode ser explicada pela seguinte característica do processo de globalização:",
       subItens: []
     },
     options: ["difusão espacial das fontes de matéria-prima","integração nacional dos centros de tecnologia","redistribuição territorial das atividades industriais","concentração regional dos mercados consumidores"],
@@ -798,7 +798,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2019,
     text: {
-      principal: "Quando chegar o feliz momento da abolição, não será devido nunca à inclinação sincera do povo ou do governo, a menos que venham a sofrer grande mudança. Pois quase me aventuraria a dizer que não há dez pessoas em todo o Império que considerem esse comércio um crime ou o encarem sob outro aspecto que não seja o de ganho e perda, de simples especulação mercantil, que deve continuar ou cessar conforme for vantajoso ou não. Acostumados a não fazer nada, os brasileiros em geral estão convencidos de que os escravos são necessários como animais de carga, sem os quais os brancos não poderiam viver.\nHENRY CHAMBERLAIN, agente diplomático britânico, em 31/12/1823.\n\nApós a emancipação política do Império do Brasil, o debate sobre o fim do tráfico intercontinental de escravos e da escravidão esteve em pauta, como abordado por Henry Chamberlain em 1823. Naquele contexto, de acordo com o diplomata britânico, as resistências à abolição do tráfico e da escravidão estavam associadas à conjuntura de:",
+      principal: "Quando chegar o feliz momento da abolição, não será devido nunca à inclinação sincera do povo ou do governo, a menos que venham a sofrer grande mudança. Pois quase me aventuraria a dizer que não há dez pessoas em todo o Império que considerem esse comércio um crime ou o encarem sob outro aspecto que não seja o de ganho e perda, de simples especulação mercantil, que deve continuar ou cessar conforme for vantajoso ou não. Acostumados a não fazer nada, os brasileiros em geral estão convencidos de que os escravos são necessários como animais de carga, sem os quais os brancos não poderiam viver.\nHENRY CHAMBERLAIN, agente diplomático britânico, em $\\\\frac{31}{12}$/1823.\n\nApós a emancipação política do Império do Brasil, o debate sobre o fim do tráfico intercontinental de escravos e da escravidão esteve em pauta, como abordado por Henry Chamberlain em 1823. Naquele contexto, de acordo com o diplomata britânico, as resistências à abolição do tráfico e da escravidão estavam associadas à conjuntura de:",
       subItens: []
     },
     options: ["desqualificação do trabalho braçal","vigência da sociedade burguesa","instabilidade do regime jurídico","decadência da estrutura agrária"],
@@ -828,7 +828,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2019,
     text: {
-      principal: "WASHINGTON, OUTUBRO DE 1967\nPARIS, MAIO DE 1968\nRIO DE JANEIRO, JUNHO DE 1968\nCIDADE DO MÉXICO, AGOSTO DE 1968\n\n[Quatro imagens de protestos:\$1_{1}$. Washington, Outubro de 1967: Mulher (Jan Rose Kasmire) oferece uma flor a soldados com baionetas, em protesto contra a Guerra do Vietnã.\$1_{2}$. Paris, Maio de 1968: Faixa com a frase \"estudantes, professores, trabalhadores, solidários\" em protesto.\$1_{3}$. Rio de Janeiro, Junho de 1968: Multidão em uma passeata (\"Passeata dos Cem Mil\").\$1_{4}$. Cidade do México, Agosto de 1968: Estudantes protestando em uma praça com tanque de guerra ao fundo.]\n\nEntre 1967 e 1968, com destaque para o ano de 1968, ocorreram em vários países movimentos de contestação de grandes proporções e com motivações variadas, como retratado nas fotos. Um dos aspectos comuns entre esses movimentos foi:",
+      principal: "WASHINGTON, OUTUBRO DE 1967\nPARIS, MAIO DE 1968\nRIO DE JANEIRO, JUNHO DE 1968\nCIDADE DO MÉXICO, AGOSTO DE 1968\n\n[Quatro imagens de protestos:\n1. Washington, Outubro de 1967: Mulher (Jan Rose Kasmire) oferece uma flor a soldados com baionetas, em protesto contra a Guerra do Vietnã.\n2. Paris, Maio de 1968: Faixa com a frase \"estudantes, professores, trabalhadores, solidários\" em protesto.\n3. Rio de Janeiro, Junho de 1968: Multidão em uma passeata (\"Passeata dos Cem Mil\").\n4. Cidade do México, Agosto de 1968: Estudantes protestando em uma praça com tanque de guerra ao fundo.]\n\nEntre 1967 e 1968, com destaque para o ano de 1968, ocorreram em vários países movimentos de contestação de grandes proporções e com motivações variadas, como retratado nas fotos. Um dos aspectos comuns entre esses movimentos foi:",
       subItens: []
     },
     options: ["crítica dos partidos políticos à bipolaridade internacional","oposição de segmentos sociais a decisões governamentais","repressão dos protestos populares pelas autoridades militares","agravamento de problemas financeiros pelo mercado mundializado"],
@@ -888,7 +888,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2019,
     text: {
-      principal: "Fronteiras reais\nAs fronteiras reais desrespeitam fronteiras cartográficas e geopolíticas e serpenteiam pelo mundo, dividindo povos e classes. Para cruzar uma fronteira real, não é preciso passaporte ou qualquer outra formalidade. Com um passo, você atravessa uma fronteira econômica, às vezes sem nem se dar conta. Num país como o Brasil, para usar um triste exemplo, pode-se sair de um mundo e entrar em outro ao dobrar uma esquina. Botswana aqui, Miami logo ali.\nLUIS FERNANDO VERISSIMO\nO Globo, 10/09/2015.\n\nCom base na reflexão do escritor, um exemplo de fronteira real dos dias atuais está presente em:\n\n[Quatro imagens:\n(A) Rio dividindo Brasil, Paraguai e Argentina.\n(B) Uma rodovia e, ao lado, uma favela.\n(C) Posto de fronteira internacional com bandeiras.\n(D) Um condomínio de alto padrão adjacente a uma favela.]",
+      principal: "Fronteiras reais\nAs fronteiras reais desrespeitam fronteiras cartográficas e geopolíticas e serpenteiam pelo mundo, dividindo povos e classes. Para cruzar uma fronteira real, não é preciso passaporte ou qualquer outra formalidade. Com um passo, você atravessa uma fronteira econômica, às vezes sem nem se dar conta. Num país como o Brasil, para usar um triste exemplo, pode-se sair de um mundo e entrar em outro ao dobrar uma esquina. Botswana aqui, Miami logo ali.\nLUIS FERNANDO VERISSIMO\nO Globo, $\\\\frac{10}{09}$/2015.\n\nCom base na reflexão do escritor, um exemplo de fronteira real dos dias atuais está presente em:\n\n[Quatro imagens:\n(A) Rio dividindo Brasil, Paraguai e Argentina.\n(B) Uma rodovia e, ao lado, uma favela.\n(C) Posto de fronteira internacional com bandeiras.\n(D) Um condomínio de alto padrão adjacente a uma favela.]",
       subItens: []
     },
     options: ["[Imagem de rio dividindo Brasil, Paraguai e Argentina.]","[Imagem de uma rodovia e, ao lado, uma favela.]","[Imagem de um posto de fronteira internacional com bandeiras.]","[Imagem de um condomínio de alto padrão adjacente a uma favela.]"],

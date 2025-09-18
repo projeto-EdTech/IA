@@ -33,10 +33,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Sejam $1_{1}_{}$ e $1_{2}_{}$ números complexos tais que $1_{2}_{}$ é imaginário puro e |Z₁−Z₂|=|$1_{21}_{}$. Para quaisquer valores de $1_{1}_{}$ e $1_{2}_{}$ que atendam a essas condições tem-se que:",
+      principal: "Sejam Z_{1} e Z_{2} números complexos tais que Z_{2} é imaginário puro e |Z₁−Z₂|=|Z_{21}. Para quaisquer valores de Z_{1} e Z_{2} que atendam a essas condições tem-se que:",
       subItens: []
     },
-    options: ["Im($1_{2}_{}$) > 0","Im($1_{2}_{}$)≤0","Z₁|≤2|Z₂","Re(Z₁) ≥0","ReZ₁)≤Im₂)"],
+    options: ["Im(Z2) > 0","Im(Z2)≤0","Z₁|≤2|Z₂","Re(Z₁) ≥0","ReZ₁)≤Im₂)"],
     correctAnswer: 2,
     materia: "Matemática – Números Complexos",
     conteudo: "",
@@ -48,7 +48,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "No desenvolvimento de\n(x.sen2p+1/x $1_{2}$ẞ)¹⁰\no valor do termo independente de x é igual a 63/256 . Considerando que ẞé um número real, com 0 < β < π/8 e x ≠ 0, o valor de ẞ é:",
+      principal: "No desenvolvimento de\n(x.sen2p+$\\\\frac{1}{x}$ cos_{2}ẞ)¹⁰\no valor do termo independente de x é igual a $\\\\frac{63}{256}$ . Considerando que ẞé um número real, com 0 < β < π/8 e x ≠ 0, o valor de ẞ é:",
       subItens: []
     },
     options: ["π/9","π/12","π/16","π/18","π/24"],
@@ -123,7 +123,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Sejam x, y e z números complexos que satisfazem ao sistema de equações abaixo:\n\nx+y+z=7\nx² + y² + z² = 25\$1_{1}$/x + 1/y + 1/z = 1/4\n\nO valor da soma x³ + y³ + z³ é:",
+      principal: "Sejam x, y e z números complexos que satisfazem ao sistema de equações abaixo:\n\nx+y+z=7\nx² + y² + z² = 25\n$\\\\frac{1}{x}$ + $\\\\frac{1}{y}$ + $\\\\frac{1}{z}$ = $\\\\frac{1}{4}$\n\nO valor da soma x³ + y³ + z³ é:",
       subItens: []
     },
     options: ["210","235","250","320","325"],
@@ -168,7 +168,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Sejam os pontos A(0,0), B(-1,1), C(1,2), D(4,1) e E(3, 1/2). A reta r passa por A e corta o lado CD, dividindo o pentágono ABCDE em dois polígonos de mesma área. Determine a soma das coordenadas do ponto de interseção da reta r com a reta que liga C e D.",
+      principal: "Sejam os pontos A(0,0), B(-1,1), C(1,2), D(4,1) e E(3, $\\\\frac{1}{2}$). A reta r passa por A e corta o lado CD, dividindo o pentágono ABCDE em dois polígonos de mesma área. Determine a soma das coordenadas do ponto de interseção da reta r com a reta que liga C e D.",
       subItens: []
     },
     options: ["25/7","51/14","26/7","53/14","27/7"],
@@ -183,7 +183,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Dado um quadrado ABCD, de lado a, marcam-se os pontos E sobre o lado AB, F sobre o lado BC, G sobre o lado CD e H sobre o lado AD, de modo que os segmentos formados AE, BF, CG e DH tenham comprimento igual a 3a/4. A área do novo quadrilátero formado pelas interseções dos segmentos AF, BG, CH, e DE mede:",
+      principal: "Dado um quadrado ABCD, de lado a, marcam-se os pontos E sobre o lado AB, F sobre o lado BC, G sobre o lado CD e H sobre o lado AD, de modo que os segmentos formados AE, BF, CG e DH tenham comprimento igual a $\\\\frac{3a}{4}$. A área do novo quadrilátero formado pelas interseções dos segmentos AF, BG, CH, e DE mede:",
       subItens: []
     },
     options: ["a²/25","a²/18","a²/16","a²/9","2a²/9"],
@@ -228,7 +228,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Um meteorologista mediu por duas vezes em um mesmo dia a umidade relativa do ar e a temperatura do ar quando estava em um pequeno barco a remo no meio de um grande lago. Os dados encontram-se apresentados na tabela a seguir:\n\nMedida | Período do dia | Umidade relativa | Temperatura do ar\n-------|----------------|------------------|------------------\$1_{1}$      | Manhã          | 40%              | 300 K\$1_{2}$      | Tarde          | 70%              | 300 K\n\nDiante do exposto, a razão entre as taxas de evaporação de água do lago calculadas na primeira e na segunda medida de umidade relativa do ar é:",
+      principal: "Um meteorologista mediu por duas vezes em um mesmo dia a umidade relativa do ar e a temperatura do ar quando estava em um pequeno barco a remo no meio de um grande lago. Os dados encontram-se apresentados na tabela a seguir:\n\nMedida | Período do dia | Umidade relativa | Temperatura do ar\n-------|----------------|------------------|------------------\n1      | Manhã          | 40%              | 300 K\n2      | Tarde          | 70%              | 300 K\n\nDiante do exposto, a razão entre as taxas de evaporação de água do lago calculadas na primeira e na segunda medida de umidade relativa do ar é:",
       subItens: []
     },
     options: ["16/13","17/14","2","7/4","4"],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Um patinador em velocidade constante de 18 km/h vai ao encontro de uma escadaria, batendo palma. O som produzido pela palma é refletido horizontalmente em cada degrau de 1m de largura, fazendo com que o patinador perceba um som composto por vários tons. A menor componente de frequência da onda sonora refletida percebida com um máximo de intensidade pelo patinador, em Hz, é:\nDado:\nvelocidade de propagação do som: 340 m/s.",
+      principal: "Um patinador em velocidade constante de 18 $\\\\frac{km}{h}$ vai ao encontro de uma escadaria, batendo palma. O som produzido pela palma é refletido horizontalmente em cada degrau de 1m de largura, fazendo com que o patinador perceba um som composto por vários tons. A menor componente de frequência da onda sonora refletida percebida com um máximo de intensidade pelo patinador, em Hz, é:\nDado:\nvelocidade de propagação do som: 340 $\\\\frac{m}{s}$.",
       subItens: []
     },
     options: ["167,5","170,0","172,5","340,0","345,0"],
@@ -303,7 +303,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "A figura acima apresenta uma estrutura em equilíbrio, formada por uma barra horizontal CE e duas barras verticais rotuladas AC e BD. Todas as barras possuem material uniforme e homogêneo e as barras AC e BD têm peso desprezível, enquanto a barra CE tem densidade linear de massa μ. Na extremidade da barra CE, há uma carga concentrada vertical, de cima para baixo, de 1,8 kN. Para que a força de tração na barra BD seja 8,1 kN, a densidade linear de massa μ da barra CE, em kg/m, e a força em módulo na barra AC, em kN, devem ser iguais a:\nDado:\naceleração da gravidade: g = 10 m/s².",
+      principal: "A figura acima apresenta uma estrutura em equilíbrio, formada por uma barra horizontal CE e duas barras verticais rotuladas AC e BD. Todas as barras possuem material uniforme e homogêneo e as barras AC e BD têm peso desprezível, enquanto a barra CE tem densidade linear de massa μ. Na extremidade da barra CE, há uma carga concentrada vertical, de cima para baixo, de 1,8 kN. Para que a força de tração na barra BD seja 8,1 kN, a densidade linear de massa μ da barra CE, em $\\\\frac{kg}{m}$, e a força em módulo na barra AC, em kN, devem ser iguais a:\nDado:\naceleração da gravidade: g = 10 $\\\\frac{m}{s}$².",
       subItens: []
     },
     options: ["40 e 3,6","40 e 4,5","60 e 3,6","400 e 4,5","600 e 3,5"],
@@ -318,10 +318,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "A figura acima apresenta um bloco preso a um cabo inextensível e apoiado em um plano inclinado. O cabo passa por uma roldana de dimensões desprezíveis, tendo sua outra extremidade presa à estrutura de um sistema de vasos comunicantes. Os vasos estão preenchidos com um líquido e fechados por dois pistões de massas desprezíveis e equilibrados à mesma altura. O sistema é montado de forma que a força de tração no cabo seja paralela ao plano inclinado e que não haja esforço de flexão na haste que prende a roldana. A expressão da força F que mantém o sistema em equilíbrio, em função dos dados a seguir, é:\nDados:\nAceleração da gravidade: g;\nMassa do corpo: m;\nInclinação do plano de apoio: θ;\nÁreas dos pistões: $1_{1}_{}$ e $1_{2}_{}$.",
+      principal: "A figura acima apresenta um bloco preso a um cabo inextensível e apoiado em um plano inclinado. O cabo passa por uma roldana de dimensões desprezíveis, tendo sua outra extremidade presa à estrutura de um sistema de vasos comunicantes. Os vasos estão preenchidos com um líquido e fechados por dois pistões de massas desprezíveis e equilibrados à mesma altura. O sistema é montado de forma que a força de tração no cabo seja paralela ao plano inclinado e que não haja esforço de flexão na haste que prende a roldana. A expressão da força F que mantém o sistema em equilíbrio, em função dos dados a seguir, é:\nDados:\nAceleração da gravidade: g;\nMassa do corpo: m;\nInclinação do plano de apoio: θ;\nÁreas dos pistões: A_{1} e A_{2}.",
       subItens: []
     },
-    options: ["($1_{1}_{}$/$1_{2}_{}$)mgsen²(θ)","($1_{1}_{}$/$1_{2}_{}$)mgcos²(θ)","(2A1/$1_{2}_{}$)mgsen²(θ)","(2A1/$1_{2}_{}$)mgcos²(θ)","($1_{1}_{}$/$1_{2}_{}$)mgsen(2θ)"],
+    options: ["(A1/A2)mgsen²(θ)","(A1/A2)mgcos²(θ)","(2A1/A2)mgsen²(θ)","(2A1/A2)mgcos²(θ)","(A1/A2)mgsen(2θ)"],
     correctAnswer: 2,
     materia: "Física – Hidrostática",
     conteudo: "Física – Leis de Newton",
@@ -348,10 +348,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Uma corda mista sobre o eixo horizontal tem uma densidade linear para a coordenada x < 0 e outra para x ≥ 0. Uma onda harmônica, dada por Asen(wt – k₁x), onde t é o instante de tempo, propaga-se na região onde x < 0 e é parcialmente refletida e parcialmente transmitida em x = 0. Se a onda refletida e a transmitida são dadas por Bsen(wt + k₁x) e Csen(wt - k₂x), respectivamente, onde w, k₁ e k₂ são constantes, então a razão entre as amplitudes da onda refletida e da incidente, dada por |B/A|, é igual a:\nObservação:\nconsidere sen(ax)/x = a, para |x| próximo a zero.",
+      principal: "Uma corda mista sobre o eixo horizontal tem uma densidade linear para a coordenada x < 0 e outra para x ≥ 0. Uma onda harmônica, dada por Asen(wt – k₁x), onde t é o instante de tempo, propaga-se na região onde x < 0 e é parcialmente refletida e parcialmente transmitida em x = 0. Se a onda refletida e a transmitida são dadas por Bsen(wt + k₁x) e Csen(wt - k₂x), respectivamente, onde w, k₁ e k₂ são constantes, então a razão entre as amplitudes da onda refletida e da incidente, dada por |$\\\\frac{B}{A}$|, é igual a:\nObservação:\nconsidere sen(ax)/x = a, para |x| próximo a zero.",
       subItens: []
     },
-    options: ["|$1_{1}$-$1_{2}$| / |$1_{1}$+2k2|","|$1_{1}$-$1_{2}$| / |2k1+$1_{2}$|","|$1_{1}$-$1_{2}$| / $1_{1}_{}$","|$1_{1}$-$1_{2}$| / $1_{2}_{}$","|$1_{1}$-$1_{2}$| / |$1_{1}$+$1_{2}$|"],
+    options: ["|k1-k2| / |k1+2k2|","|k1-k2| / |2k1+k2|","|k1-k2| / K1","|k1-k2| / K2","|k1-k2| / |k1+k2|"],
     correctAnswer: 4,
     materia: "Física – Ondulatória",
     conteudo: "Física – Reflexão e Refração de Ondas",
@@ -393,10 +393,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Uma partícula de carga positiva +Q penetra numa região de comprimento d₁ sujeita a um campo magnético de baixa intensidade e ortogonal ao plano da figura acima. Em seguida, penetra numa região de comprimento d₂, onde não existe campo magnético. Ao longo das regiões de comprimento d₁ e d₂, a partícula percorre a trajetória indicada pela linha tracejada da figura acima. Dadas as informações a seguir, a distância a, indicada na figura entre a origem e o ponto de passagem da partícula pelo eixo Y, é aproximadamente:\nDados:\nvelocidade inicial da partícula: ortogonal ao eixo Y e de módulo v;\nmódulo do campo magnético da região: B;\ndistância entre o fim da região do campo magnético e o eixo Y: $1_{2}$;\nmassa da partícula: m;\$1_{2}$ >> $1_{1}$;\ndeslocamento vertical da partícula dentro da região magnetizada << d₁.",
+      principal: "Uma partícula de carga positiva +Q penetra numa região de comprimento d₁ sujeita a um campo magnético de baixa intensidade e ortogonal ao plano da figura acima. Em seguida, penetra numa região de comprimento d₂, onde não existe campo magnético. Ao longo das regiões de comprimento d₁ e d₂, a partícula percorre a trajetória indicada pela linha tracejada da figura acima. Dadas as informações a seguir, a distância a, indicada na figura entre a origem e o ponto de passagem da partícula pelo eixo Y, é aproximadamente:\nDados:\nvelocidade inicial da partícula: ortogonal ao eixo Y e de módulo v;\nmódulo do campo magnético da região: B;\ndistância entre o fim da região do campo magnético e o eixo Y: d_{2};\nmassa da partícula: m;\nd_{2} >> d_{1};\ndeslocamento vertical da partícula dentro da região magnetizada << d₁.",
       subItens: []
     },
-    options: ["d1d2QB/mv","d2mv/$1_{1}$","2d1d2QB/mv","d2mv/2QBd1","d1d2QB/2mv"],
+    options: ["d1d2QB/mv","d2mv/QBd1","2d1d2QB/mv","d2mv/2QBd1","d1d2QB/2mv"],
     correctAnswer: 0,
     materia: "Física – Eletromagnetismo",
     conteudo: "Física – Força Magnética",
@@ -423,7 +423,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Um projétil é lançado obliquamente de um canhão, atingindo um alcance igual a 1000 m no plano horizontal que contém a boca do canhão. Nesse canhão, o projétil parte do repouso executando um movimento uniformemente variado dentro do tubo até sair pela boca do canhão. Ademais, a medida que o projétil se desloca no interior do tubo, ele executa um movimento uniformemente variado de rotação, coaxial ao tubo. Tendo sido o projétil rotacionado de 1 rad durante seu deslocamento dentro do canhão, sua aceleração angular, em rad/s², ao deixar o canhão é:\nDados:\nângulo do tubo do canhão em relação à horizontal: 45º;\ncomprimento do tubo: 2 m;\naceleração da gravidade: g = 10 m/s².\nConsideração:\ndespreze a resistência do ar.",
+      principal: "Um projétil é lançado obliquamente de um canhão, atingindo um alcance igual a 1000 m no plano horizontal que contém a boca do canhão. Nesse canhão, o projétil parte do repouso executando um movimento uniformemente variado dentro do tubo até sair pela boca do canhão. Ademais, a medida que o projétil se desloca no interior do tubo, ele executa um movimento uniformemente variado de rotação, coaxial ao tubo. Tendo sido o projétil rotacionado de 1 rad durante seu deslocamento dentro do canhão, sua aceleração angular, em $\\\\frac{rad}{s}$², ao deixar o canhão é:\nDados:\nângulo do tubo do canhão em relação à horizontal: 45º;\ncomprimento do tubo: 2 m;\naceleração da gravidade: g = 10 $\\\\frac{m}{s}$².\nConsideração:\ndespreze a resistência do ar.",
       subItens: []
     },
     options: ["12,5","25","1250","2500","500"],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Considere um feixe homogêneo de pequenos projéteis deslocando-se na mesma direção e na mesma velocidade constante até atingir a superfície de uma esfera que está sempre em repouso.\nA esfera pode ter um ou dois tipos de superfícies: uma superfície totalmente refletora (colisão perfeitamente elástica entre a esfera e o projétil) e/ou uma superfície totalmente absorvedora (colisão perfeitamente inelástica entre a esfera e o projétil).\nEm uma das superfícies (refletora ou absorvedora), o ângulo α da figura pertence ao intervalo [0,β], enquanto na outra superfície (absorvedora ou refletora) α pertence ao intervalo (β, π/2].\nPara que a força aplicada pelos projéteis sobre a esfera seja máxima, o(s) tipo(s) de superfície(s) é(são):",
+      principal: "Considere um feixe homogêneo de pequenos projéteis deslocando-se na mesma direção e na mesma velocidade constante até atingir a superfície de uma esfera que está sempre em repouso.\nA esfera pode ter um ou dois tipos de superfícies: uma superfície totalmente refletora (colisão perfeitamente elástica entre a esfera e o projétil) $\\\\frac{e}{ou}$ uma superfície totalmente absorvedora (colisão perfeitamente inelástica entre a esfera e o projétil).\nEm uma das superfícies (refletora ou absorvedora), o ângulo α da figura pertence ao intervalo [0,β], enquanto na outra superfície (absorvedora ou refletora) α pertence ao intervalo (β, π/2].\nPara que a força aplicada pelos projéteis sobre a esfera seja máxima, o(s) tipo(s) de superfície(s) é(são):",
       subItens: []
     },
     options: ["refletora em [0, π/3] e absorvedora em (π/3, π/2].","refletora em [0, π/4] e absorvedora em (π/4, π/2].","absorvedora em [0, π/6] e refletora em (π/6, π/2].","absorvedora em [0, π/4] e refletora em (π/4, π/2].","absorvedora em [0, π/2]."],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Para o grafite, p = 2250 kg/m³, H° = 0 e S° = 5,7 x 10⁻³ kJ/(mol.K). Para o diamante, p = 3500 kg/m³, H° ≠ 0 e S° = 2,4 x 10⁻³ kJ/(mol.K). Na conversão do grafite em diamante, ∆G° = 2900 kJ/mol. Com base nestas informações, é correto afirmar que:",
+      principal: "Para o grafite, p = 2250 $\\\\frac{kg}{m}$³, H° = 0 e S° = 5,7 x 10⁻³ kJ/(mol.K). Para o diamante, p = 3500 $\\\\frac{kg}{m}$³, H° ≠ 0 e S° = 2,4 x 10⁻³ kJ/(mol.K). Na conversão do grafite em diamante, ∆G° = 2900 $\\\\frac{kJ}{mol}$. Com base nestas informações, é correto afirmar que:",
       subItens: []
     },
     options: ["grafite e diamante são exemplos de carbono puro, mas não são formas alotrópicas de um mesmo elemento.","em altas pressões, o diamante é menos estável que o grafite.","o diamante pode se transformar, de forma espontânea, em grafite.","a conversão do grafite em diamante é exotérmica.","altas pressões favorecem a formação de grafite."],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "A figura a seguir representa as curvas de solubilidade de duas substâncias A e B.\n\n[Gráfico de Solubilidade (g/100g de H₂O) vs Temperatura (°C) para substâncias A e B, com pontos 1, 2, 3]\n\nCom base nela, pode-se afirmar que:",
+      principal: "A figura a seguir representa as curvas de solubilidade de duas substâncias A e B.\n\n[Gráfico de Solubilidade ($\\\\frac{g}{100g}$ de H₂O) vs Temperatura (°C) para substâncias A e B, com pontos 1, 2, 3]\n\nCom base nela, pode-se afirmar que:",
       subItens: []
     },
     options: ["No ponto 1, as soluções apresentam a mesma temperatura mas as solubilidades de A e B são diferentes.","A solução da substância A está supersaturada no ponto 2.","As soluções são instáveis no ponto 3.","As curvas de solubilidade não indicam mudanças na estrutura dos solutos.","A solubilidade da substância B segue o perfil esperado para a solubilidade de gases em água."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "Uma empresa de galvanoplastia produz peças especiais recobertas com zinco. Sabendo que cada peça recebe 7 g de Zn, que é utilizada uma corrente elétrica de 0,7 A e que a massa molar do zinco é igual a 65 g/mol, qual o tempo necessário para o recobrimento dessa peça especial?\n(Constante de Faraday: 1 F = 96500 C.mol⁻¹)",
+      principal: "Uma empresa de galvanoplastia produz peças especiais recobertas com zinco. Sabendo que cada peça recebe 7 g de Zn, que é utilizada uma corrente elétrica de 0,7 A e que a massa molar do zinco é igual a 65 $\\\\frac{g}{mol}$, qual o tempo necessário para o recobrimento dessa peça especial?\n(Constante de Faraday: 1 F = 96500 C.mol⁻¹)",
       subItens: []
     },
     options: ["4 h e 45 min.","6 h e 30 min.","8 h e 15 min.","10 h e 30 min.","12 h e 45 min."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2016,
     text: {
-      principal: "“A Olimpíada deve ser disputada sem o fantasma da fraude química, dentro do princípio de que, tanto quanto é importante competir, vencer é prova de competência”. (Jornal “O Globo”, 28/05/2016)\nConsidere que um atleta tenha consumido 64 mg de um anabolizante e que, após 4 dias, o exame antidoping tenha detectado apenas 0,25 mg deste composto. Assumindo que a degradação do anabolizante no organismo segue uma cinética de 1ª ordem, assinale a alternativa que apresenta o tempo de meia-vida da substância no organismo do atleta.",
+      principal: "“A Olimpíada deve ser disputada sem o fantasma da fraude química, dentro do princípio de que, tanto quanto é importante competir, vencer é prova de competência”. (Jornal “O Globo”, $\\\\frac{28}{05}$/2016)\nConsidere que um atleta tenha consumido 64 mg de um anabolizante e que, após 4 dias, o exame antidoping tenha detectado apenas 0,25 mg deste composto. Assumindo que a degradação do anabolizante no organismo segue uma cinética de 1ª ordem, assinale a alternativa que apresenta o tempo de meia-vida da substância no organismo do atleta.",
       subItens: []
     },
     options: ["4 horas","6 horas","8 horas","12 horas","48 horas"],

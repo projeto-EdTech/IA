@@ -138,7 +138,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Considere que p(t) = t³ -$1_{2}$ -t+1 representa a porcentagem de indivíduos em uma determinada população, os quais foram identificados com daltonismo. Considere ainda que t∈ {1,2,3,4} e indica o ano. Assinale o que for correto.",
+      principal: "Considere que p(t) = t³ -t_{2} -t+1 representa a porcentagem de indivíduos em uma determinada população, os quais foram identificados com daltonismo. Considere ainda que t∈ {1,2,3,4} e indica o ano. Assinale o que for correto.",
       subItens: []
     },
     options: ["A expressão que representa esse fenômeno é um polinômio de grau 3 com exatamente 3 raízes complexas.","O daltonismo é um tipo de cegueira relacionado às cores, que torna os indivíduos incapazes de distinguir entre as cores vermelha e verde.","Durante 3 anos consecutivos, a porcentagem de indivíduos identificados com daltonismo foi nula.","Durante esses 4 anos, a porcentagem de indivíduos identificados com daltonismo foi sempre inferior a 1%.","Cerca de 50% dos filhos homens de uma mulher heterozigótica para o daltonismo herdará o cromossomo portador de alelo alterado e será daltônico."],
@@ -153,10 +153,10 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Cerca de 79% do volume de ar contido na atmosfera é composto por $1_{2}_{}$, forma em que não é utilizável biologicamente. Para que seja absorvido pelos seres vivos, passa por transformações. Sobre os compostos formados e os processos envolvidos nessas transformações, assinale o que for correto.",
+      principal: "Cerca de 79% do volume de ar contido na atmosfera é composto por N_{2}, forma em que não é utilizável biologicamente. Para que seja absorvido pelos seres vivos, passa por transformações. Sobre os compostos formados e os processos envolvidos nessas transformações, assinale o que for correto.",
       subItens: []
     },
-    options: ["O processo de fixação biológica do $1_{2}_{}$ consiste na conversão do nitrogênio em ($1_{4}$)2SO4 (sulfato de amônio), forma mais utilizada pelos vegetais.","Durante a decomposição, o nitrogênio presente sob a forma orgânica nos organismos mortos é transformado em $1_{3}$, em um mecanismo denominado de amonificação.","A nitrificação é um processo realizado em duas fases por bactérias que vivem livremente no solo: a fase de nitrosação ($1_{3}$ → $1_{2}$) e a fase de nitrificação (NO₂ → $1_{3}$¯).","As aminas são compostos orgânicos derivados da amônia.","A molécula de ($1_{2}$)2CO (ureia) excretada por alguns animais pertence ao grupo funcional das amidas."],
+    options: ["O processo de fixação biológica do N2 consiste na conversão do nitrogênio em (NH4)2SO4 (sulfato de amônio), forma mais utilizada pelos vegetais.","Durante a decomposição, o nitrogênio presente sob a forma orgânica nos organismos mortos é transformado em NH3, em um mecanismo denominado de amonificação.","A nitrificação é um processo realizado em duas fases por bactérias que vivem livremente no solo: a fase de nitrosação (NH3 → NO2) e a fase de nitrificação (NO₂ → NO3¯).","As aminas são compostos orgânicos derivados da amônia.","A molécula de (NH2)2CO (ureia) excretada por alguns animais pertence ao grupo funcional das amidas."],
     correctAnswer: null,
     materia: "Biologia – Ciclo do Nitrogênio",
     conteudo: "Química – Funções Orgânicas Nitrogenadas",
@@ -198,7 +198,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Uma carga positiva de módulo Q está localizada na origem do plano cartesiano. Uma segunda carga, negativa e de módulo $1_{2}_{}$, é posicionada ao longo do eixo x, no primeiro quadrante, a uma distância de 3m da carga Q. Sobre o potencial elétrico dessa configuração de cargas, assinale o que for correto.",
+      principal: "Uma carga positiva de módulo Q está localizada na origem do plano cartesiano. Uma segunda carga, negativa e de módulo Q_{2}, é posicionada ao longo do eixo x, no primeiro quadrante, a uma distância de 3m da carga Q. Sobre o potencial elétrico dessa configuração de cargas, assinale o que for correto.",
       subItens: []
     },
     options: ["Se Q₁ = 2Q₂, então os pontos ao longo da circunferência de raio 2m, que está centrada no ponto (4,0), apresentam potencial nulo.","Se Q = Q₂, então os pontos ao longo da reta x = 3/2 têm potencial igual a zero.","Caso a carga Q₂ seja removida, as circunferências centradas na origem serão curvas equipotenciais.","Caso a carga Q₁ seja removida, as circunferências centradas no ponto (3,0) serão curvas equipotenciais.","Se Q₁ = 20×10⁻¹⁰C e Q₂ =4×10⁻¹⁰C, então o potencial no ponto (3,4) é igual a 20V. Use k = 9×10⁹N.m²/C², em que k é a constante eletrostática do vácuo."],
@@ -213,10 +213,10 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "O detergente utilizado para lavar louças pode ser obtido a partir de reações de substituição eletrofílica aromática. Com base na estrutura química do detergente representado abaixo, assinale o que for correto.\nC12H25\$1_{3}$- $1^+$",
+      principal: "O detergente utilizado para lavar louças pode ser obtido a partir de reações de substituição eletrofílica aromática. Com base na estrutura química do detergente representado abaixo, assinale o que for correto.\nC_{12}H_{25}\nSO_{3}- Na^+$",
       subItens: []
     },
-    options: ["Partindo do benzeno, o detergente pode ser sintetizado a partir de uma reação de sulfonação, seguida de alquilação e de posterior reação ácido-base.","Na estrutura do detergente existe uma extremidade apolar ($1_{12}H_{25}$) e uma extremidade polar (SO3Na), as quais possuem afinidade com a gordura e com a água, respectivamente.","Na etapa de alquilação, conhecida como alquilação de Friedel Crafts, é necessário utilizar um ácido de Lewis como catalisador.","Na reação ácido-base que ocorre com o ácido sulfônico (SO3H), a base utilizada é a amônia.","A reação de cloração do detergente na presença de luz e de aquecimento ocorre no grupo dodecila, não havendo reação no anel benzênico."],
+    options: ["Partindo do benzeno, o detergente pode ser sintetizado a partir de uma reação de sulfonação, seguida de alquilação e de posterior reação ácido-base.","Na estrutura do detergente existe uma extremidade apolar (C12H25) e uma extremidade polar (SO3Na), as quais possuem afinidade com a gordura e com a água, respectivamente.","Na etapa de alquilação, conhecida como alquilação de Friedel Crafts, é necessário utilizar um ácido de Lewis como catalisador.","Na reação ácido-base que ocorre com o ácido sulfônico (SO3H), a base utilizada é a amônia.","A reação de cloração do detergente na presença de luz e de aquecimento ocorre no grupo dodecila, não havendo reação no anel benzênico."],
     correctAnswer: null,
     materia: "Química – Química Orgânica",
     conteudo: "",
@@ -228,10 +228,10 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "O ácido lático encontrado no leite possui os substituintes $1_{3}$, COOH, OH e H (dispostos nos vértices de um tetraedro), ligados a um carbono assimétrico.\nH\nH\nH₂CC*—\nCOOH HOOC\nC*\$1_{3}$\nOH\nHO\nEspelho Plano\nConsiderando essa estrutura molecular, assinale o que for correto.",
+      principal: "O ácido lático encontrado no leite possui os substituintes CH_{3}, COOH, OH e H (dispostos nos vértices de um tetraedro), ligados a um carbono assimétrico.\nH\nH\nH₂CC*—\nCOOH HOOC\nC*\nCH_{3}\nOH\nHO\nEspelho Plano\nConsiderando essa estrutura molecular, assinale o que for correto.",
       subItens: []
     },
-    options: ["O par de enantiômeros representado na figura tem todas as propriedades físicas iguais, exceto o desvio do plano da luz polarizada.","Os enantiômeros do par representado na figura são do ácido lático dextrogiro e do ácido lático levogiro.","O tetraedro, que tem nos vértices os substituintes $1_{3}C_{}$, COOH, OH e o carbono assimétrico C*, é regular.","Chama-se carbono assimétrico o átomo de carbono que está ligado a quatro grupos diferentes entre si.","Os ângulos formados pelos segmentos de reta que ligam o carbono assimétrico aos substituintes $1_{3}$, COOH, OH e H são congruentes."],
+    options: ["O par de enantiômeros representado na figura tem todas as propriedades físicas iguais, exceto o desvio do plano da luz polarizada.","Os enantiômeros do par representado na figura são do ácido lático dextrogiro e do ácido lático levogiro.","O tetraedro, que tem nos vértices os substituintes H3C, COOH, OH e o carbono assimétrico C*, é regular.","Chama-se carbono assimétrico o átomo de carbono que está ligado a quatro grupos diferentes entre si.","Os ângulos formados pelos segmentos de reta que ligam o carbono assimétrico aos substituintes CH3, COOH, OH e H são congruentes."],
     correctAnswer: null,
     materia: "Química – Química Orgânica",
     conteudo: "",
@@ -246,7 +246,7 @@ createQuestion({
       principal: "Considere que 1,0mL de uma solução química desconhecida foi diluída a 100mL e que a única informação que se tem é que, nessa diluição, seu pH passou de 3,0 para 5,0. Assinale o que for correto.",
       subItens: []
     },
-    options: ["A solução inicial tem concentração de íons hidrônio ($1_{3}O_{}$+) de 1,0 x 10⁻³ mol/L.","A solução química desconhecida é uma solução tampão.","O gráfico da função que descreve o pH em termos de volume da diluição final da solução é uma reta com coeficiente angular negativo.","Para uma diluição que resulte em volume final de 100L, o pH deve ser igual a 8,0.","A solução final é mais ácida que a solução inicial."],
+    options: ["A solução inicial tem concentração de íons hidrônio (H3O+) de 1,0 x 10⁻³ mol/L.","A solução química desconhecida é uma solução tampão.","O gráfico da função que descreve o pH em termos de volume da diluição final da solução é uma reta com coeficiente angular negativo.","Para uma diluição que resulte em volume final de 100L, o pH deve ser igual a 8,0.","A solução final é mais ácida que a solução inicial."],
     correctAnswer: 0,
     materia: "Química – Físico-Química",
     conteudo: "",

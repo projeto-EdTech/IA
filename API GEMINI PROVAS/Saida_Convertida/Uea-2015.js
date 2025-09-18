@@ -348,7 +348,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "Esta obra é dividida em dois tramos. O Solimões, que se estende de Tabatinga/AM a Manaus/AM, tendo aproximadamente 1600 km, e o Amazonas, que vai de Manaus/AM a Belém/PA, com 1650 km. O primeiro tramo possui calado mínimo de 6 metros e o segundo com calados de 10 metros.\n(dnit.gov.br. Adaptado.)\n\nO texto trata de um empreendimento na área de trans-portes construído na região Norte do Brasil. Segundo as informações fornecidas, tal obra é um modal do tipo",
+      principal: "Esta obra é dividida em dois tramos. O Solimões, que se estende de $\\\\frac{Tabatinga}{AM}$ a $\\\\frac{Manaus}{AM}$, tendo aproximadamente 1600 km, e o Amazonas, que vai de $\\\\frac{Manaus}{AM}$ a Belé$\\\\frac{m}{PA}$, com 1650 km. O primeiro tramo possui calado mínimo de 6 metros e o segundo com calados de 10 metros.\n(dnit.gov.br. Adaptado.)\n\nO texto trata de um empreendimento na área de trans-portes construído na região Norte do Brasil. Segundo as informações fornecidas, tal obra é um modal do tipo",
       subItens: []
     },
     options: ["aeroviário.","ferroviário.","rodoviário.","aquaviário.","dutoviário."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "A figura ilustra três diferentes mecanismos de transporte através da membrana celular, indicados pelos números 1, 2 e 3.\n\n[IMAGEM] A imagem mostra um diagrama da membrana celular com três tipos de transporte: 1. substâncias não polares ($1_{2}_{}$, $1_{2}_{}$) passando diretamente pela bicamada; 2. moléculas polares sem carga ($1_{2}$) passando diretamente; 3. aminoácidos e glicose passando por uma proteína de canal. Um gradiente de concentração é indicado.\n(www.biologiasur.org. Adaptado.)\n\nSobre os processos numerados, é correto afirmar que",
+      principal: "A figura ilustra três diferentes mecanismos de transporte através da membrana celular, indicados pelos números 1, 2 e 3.\n\n[IMAGEM] A imagem mostra um diagrama da membrana celular com três tipos de transporte: 1. substâncias não polares (O_{2}, N_{2}) passando diretamente pela bicamada; 2. moléculas polares sem carga (CO_{2}) passando diretamente; 3. aminoácidos e glicose passando por uma proteína de canal. Um gradiente de concentração é indicado.\n(www.biologiasur.org. Adaptado.)\n\nSobre os processos numerados, é correto afirmar que",
       subItens: []
     },
     options: ["1 é denominado osmose, pois ocorre a favor do gra-diente de concentração.","3 é um mecanismo ativo por ser mediado por uma proteína.","1 e 2 são denominados difusão facilitada.","1 e 2 são mecanismos ativos por não serem mediados por proteínas.","1, 2 e 3 são mecanismos que não consomem energia."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "Em um cesto há mangas, tangerinas e carambolas, no total de 40 frutas, sendo (1/5) de mangas. Sabendo que a razão entre o número de tangerinas e o número de caram-bolas é (3/5), é correto afirmar que, após serem retiradas do cesto 4 tangerinas e 4 carambolas, a nova razão entre o número de tangerinas e o número de carambolas é",
+      principal: "Em um cesto há mangas, tangerinas e carambolas, no total de 40 frutas, sendo ($\\\\frac{1}{5}$) de mangas. Sabendo que a razão entre o número de tangerinas e o número de caram-bolas é ($\\\\frac{3}{5}$), é correto afirmar que, após serem retiradas do cesto 4 tangerinas e 4 carambolas, a nova razão entre o número de tangerinas e o número de carambolas é",
       subItens: []
     },
     options: ["1/5","1/2","3/5","2/3","3/4"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "O cupuaçuzeiro é uma fruteira nativa da região ama-zônica e seus frutos (cupuaçu) são muito apreciados pelo sabor típico e aproveitados pelas indústrias alimentícias e de cosméticos.\nPara um maior aproveitamento do solo, as mudas dessa árvore devem ser plantadas em espaçamentos que variam de 5 x 5 m até 8 x 8 m em forma de triângulo equi-látero.\n(www.ceplac.gov.br. Adaptado.)\n\n[IMAGEM] A imagem mostra um cupuaçu no galho da árvore.\n(www.portalamazonia.com.br)\n\nA figura mostra um espaçamento feito em forma de triân-gulos equiláteros com 8 m de lado, sendo que em cada vértice dos triângulos há uma muda.\n[IMAGEM] A imagem mostra um esquema de triângulos equiláteros em uma grade, com pontos A e B marcados, e ângulos de 19° e 60°. Uma tabela de senos e cossenos para 19° e 60° é fornecida.\n\nângulos | seno | cosseno\$1_{19}$° | 0,33 | 0,94\$1_{60}$° | 0,86 | 0,50\n\nUsando √3=1,73 e os dados da tabela, é correto con-cluir que a distância aproximada, em metros, entre as mudas A e B é",
+      principal: "O cupuaçuzeiro é uma fruteira nativa da região ama-zônica e seus frutos (cupuaçu) são muito apreciados pelo sabor típico e aproveitados pelas indústrias alimentícias e de cosméticos.\nPara um maior aproveitamento do solo, as mudas dessa árvore devem ser plantadas em espaçamentos que variam de 5 x 5 m até 8 x 8 m em forma de triângulo equi-látero.\n(www.ceplac.gov.br. Adaptado.)\n\n[IMAGEM] A imagem mostra um cupuaçu no galho da árvore.\n(www.portalamazonia.com.br)\n\nA figura mostra um espaçamento feito em forma de triân-gulos equiláteros com 8 m de lado, sendo que em cada vértice dos triângulos há uma muda.\n[IMAGEM] A imagem mostra um esquema de triângulos equiláteros em uma grade, com pontos A e B marcados, e ângulos de 19° e 60°. Uma tabela de senos e cossenos para 19° e 60° é fornecida.\n\nângulos | seno | cosseno\n19° | 0,33 | 0,94\n60° | 0,86 | 0,50\n\nUsando √3=1,73 e os dados da tabela, é correto con-cluir que a distância aproximada, em metros, entre as mudas A e B é",
       subItens: []
     },
     options: ["25.","24.","23.","22.","21."],
@@ -666,7 +666,7 @@ createQuestion({
       principal: "Em determinado dia, choveu 10 mm na cidade de Manaus, o que significa uma precipitação de 10 litros de água por metro quadrado.\n\n[IMAGEM] A imagem é um mapa da região central de Manaus, mostrando ruas e alguns pontos de referência como o Teatro Amazonas e o Colégio Militar de Manaus.\n(http://maps.google.com.br)\n\nConsiderando apenas a região da cidade representada na figura, cuja área é de 360 000 m², a ordem de grandeza da quantidade de água, em litros, precipitada nessa região foi de",
       subItens: []
     },
-    options: ["$1^{4}$.","$1^{5}$.","$1^{6}$.","$1^{7}$.","$1^{8}$."],
+    options: ["10^4.","10^5.","10^6.","10^7.","10^8."],
     correctAnswer: 3,
     materia: "Matemática – Notação Científica",
     conteudo: "Geografia – Climatologia",
@@ -693,10 +693,10 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "Existem asteroides que, em determinado trecho de suas órbitas, ficam mais próximos do Sol do que a Terra. Um desses asteroides é Apophis, cuja massa estimada é $1 \times 10^{15}$ kg.\nSendo a massa da Terra $1 \times 10^{24}$ kg, a razão entre as intensidades das forças gravitacionais que o Sol exerce sobre a Terra e sobre Apophis, (FT / FA), quando ambos estão à mesma distância do Sol, é aproximadamente",
+      principal: "Existem asteroides que, em determinado trecho de suas órbitas, ficam mais próximos do Sol do que a Terra. Um desses asteroides é Apophis, cuja massa estimada é $1 \\\\times 10^{15}$ kg.\nSendo a massa da Terra $1 \\\\times 10^{24}$ kg, a razão entre as intensidades das forças gravitacionais que o Sol exerce sobre a Terra e sobre Apophis, (FT / FA), quando ambos estão à mesma distância do Sol, é aproximadamente",
       subItens: []
     },
-    options: ["$1 \times 10^{-9}$.","$1 \times 10^{-9}$.","$1 \times 10^{5}$.","$1 \times 10^{9}$.","$1 \times 10^{9}$."],
+    options: ["0,25 × 10^-9.","0,50 × 10^-9.","1,0 × 10^5.","2,0 × 10^9.","4,0 × 10^9."],
     correctAnswer: 3,
     materia: "Física – Gravitação Universal",
     conteudo: "",
@@ -708,7 +708,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "Nos Jogos Pan-americanos de 2011, em Guadalajara, México, o remador amazonense Aílson Eráclito da Silva compôs a equipe brasileira que competiu na prova Quatro Sem Timoneiro e que completou o percurso de 2000 m em 6 min e 12 s.\n(http://info.$1_{2011}$.org.mx)\n\nConsiderando que, após a largada da prova, o barco da equipe brasileira, partindo do repouso, atingiu rapida-mente a velocidade que manteve constante durante todo o percurso, o gráfico que representa esse movimento está representado em\n\n[IMAGEM] A imagem mostra 5 gráficos de distância (d) em função do tempo (t) para analisar o movimento de um barco. Os gráficos variam em formato, representando diferentes tipos de movimento. As alternativas mostram os eixos d(m) e t(min) e diferentes curvas (A, B, C, D, E) com o tempo máximo de 6,0 min e distância de 2000m.",
+      principal: "Nos Jogos Pan-americanos de 2011, em Guadalajara, México, o remador amazonense Aílson Eráclito da Silva compôs a equipe brasileira que competiu na prova Quatro Sem Timoneiro e que completou o percurso de 2000 m em 6 min e 12 s.\n(http://info.guadalajara_{2011}.org.mx)\n\nConsiderando que, após a largada da prova, o barco da equipe brasileira, partindo do repouso, atingiu rapida-mente a velocidade que manteve constante durante todo o percurso, o gráfico que representa esse movimento está representado em\n\n[IMAGEM] A imagem mostra 5 gráficos de distância (d) em função do tempo (t) para analisar o movimento de um barco. Os gráficos variam em formato, representando diferentes tipos de movimento. As alternativas mostram os eixos d(m) e t(min) e diferentes curvas (A, B, C, D, E) com o tempo máximo de 6,0 min e distância de 2000m.",
       subItens: []
     },
     options: ["d (m) 2000 | 6,0 t (min) - Gráfico de distância constante.","d (m) 2000 | 6,0 t (min) - Gráfico de distância aumentando linearmente após aceleração inicial.","d (m) 2000 | 6,0 t (min) - Gráfico de distância aumentando exponencialmente.","d (m) 2000 | 6,0 t (min) - Gráfico de distância aumentando quadraticamente.","d (m) 2000 | 6,0 t (min) - Gráfico de distância aumentando e depois se estabilizando em um patamar menor que 2000."],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "Num intervalo de tempo de 30 segundos, uma lancha de massa 120000 kg é acelerada a partir do repouso até a velocidade de 15 m/s. A força resultante média, em newtons, que atuou sobre a lancha nesse intervalo de tempo foi de",
+      principal: "Num intervalo de tempo de 30 segundos, uma lancha de massa 120000 kg é acelerada a partir do repouso até a velocidade de 15 $\\\\frac{m}{s}$. A força resultante média, em newtons, que atuou sobre a lancha nesse intervalo de tempo foi de",
       subItens: []
     },
     options: ["15000.","30000.","60000.","90000.","120000."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "A vantagem de se construir bases de lançamento de fogue-tes nas proximidades da linha do equador terrestre é que o foguete já parte com uma velocidade maior, dada pela rotação da Terra. No Brasil, o Centro de Lançamento de Alcântara (CLA) apresenta esse requisito.\n\n[IMAGEM] A imagem mostra uma vista aérea de uma base de lançamento de foguetes com várias estruturas e uma área de lançamento circular.\n(www.cta.br. Adaptado.)\n\nSendo a velocidade angular de rotação da Terra ω = (π/12) rad/h e supondo que no CLA o raio de rotação seja de 6360 km, a velocidade escalar, em km/h, de um foguete instalado na superfície do CLA é",
+      principal: "A vantagem de se construir bases de lançamento de fogue-tes nas proximidades da linha do equador terrestre é que o foguete já parte com uma velocidade maior, dada pela rotação da Terra. No Brasil, o Centro de Lançamento de Alcântara (CLA) apresenta esse requisito.\n\n[IMAGEM] A imagem mostra uma vista aérea de uma base de lançamento de foguetes com várias estruturas e uma área de lançamento circular.\n(www.cta.br. Adaptado.)\n\nSendo a velocidade angular de rotação da Terra ω = (π/12) $\\\\frac{rad}{h}$ e supondo que no CLA o raio de rotação seja de 6360 km, a velocidade escalar, em $\\\\frac{km}{h}$, de um foguete instalado na superfície do CLA é",
       subItens: []
     },
     options: ["π/530","π/350","12 ⋅ π","350 ⋅ π","530 ⋅ π"],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "O cilindro da figura tem massa 32,0 kg, volume 0,04 m³ e área da base 0,08 m².\n\n[IMAGEM] A imagem mostra um cilindro vertical de cor dourada.\n\nConsiderando a aceleração gravitacional igual a 10 m/s², a densidade do cilindro, em kg/m³, e a pressão que ele exerce na superfície, em pascals, quando apoiado como na figura, valem, respectivamente,",
+      principal: "O cilindro da figura tem massa 32,0 kg, volume 0,04 m³ e área da base 0,08 m².\n\n[IMAGEM] A imagem mostra um cilindro vertical de cor dourada.\n\nConsiderando a aceleração gravitacional igual a 10 $\\\\frac{m}{s}$², a densidade do cilindro, em $\\\\frac{kg}{m}$³, e a pressão que ele exerce na superfície, em pascals, quando apoiado como na figura, valem, respectivamente,",
       subItens: []
     },
     options: ["1,38 e 25,6.","25,6 e 1,38.","400 e 800.","800 e 400.","800 e 4000."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "Considere o embarque de doze pessoas em uma canoa como a da figura e que, após o embarque dessas pessoas, o volume submerso da canoa aumente 0,72 m³.\n\n[IMAGEM] A imagem mostra uma canoa longa e estreita com várias pessoas a bordo, navegando em um rio com vegetação densa nas margens.\n(www.tripadvisor.com)\n\nSendo a aceleração gravitacional igual a 10 m/s² e a massa específica da água 1000 kg/m³, o peso médio, em newtons, das pessoas que embarcaram é",
+      principal: "Considere o embarque de doze pessoas em uma canoa como a da figura e que, após o embarque dessas pessoas, o volume submerso da canoa aumente 0,72 m³.\n\n[IMAGEM] A imagem mostra uma canoa longa e estreita com várias pessoas a bordo, navegando em um rio com vegetação densa nas margens.\n(www.tripadvisor.com)\n\nSendo a aceleração gravitacional igual a 10 $\\\\frac{m}{s}$² e a massa específica da água 1000 $\\\\frac{kg}{m}$³, o peso médio, em newtons, das pessoas que embarcaram é",
       subItens: []
     },
     options: ["570.","600.","630.","680.","720."],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "Leia as informações sobre o nióbio para responder às questões de números 53 a 56.\n\nNIÓBIO (Nb)\nO que é\nElemento químico metálico, de símbolo Nb. O nome deriva da deusa grega Níobe, filha de Tântalo.\n\nCaracterísticas\nÉ um dos metais que mais resistem à corrosão e é um elemento supercondutor.\nPonto de fusão ou derretimento: 2468 °C\nPonto de evaporação: 4744 °C\n\nAplicações\nÉ usado principalmente na produção de ligas de aço de alta resistên-cia, com aplicações na construção civil, na indústria mecânica, aero-espacial, naval, automobilística e nuclear, entre outras.\n\nOnde é encontrado\nO Brasil detém as maiores reservas conhecidas de nióbio (98,43%), seguido pelo Canadá (1,11%) e Austrália (0,46%). No país, a jazidas conhecidas estão em Minas Gerais (75,08% – Araxã e Tapira), Ama-zonas (21,34% – São Gabriel da Cachoeira e Presidente Figueiredo) e em Goiás (3,85% – Catalão e Ouvidor).\n\nDesde a década de 70, não há comercialização do miné-rio bruto ou do concentrado de nióbio (pirocloro) no mercado interno ou externo. O metal é vendido, sobretudo, na forma da liga ferro-nióbio (FeNb STD, com 66% de teor de nióbio e 30% de ferro), obtida a partir de diversas etapas de processa-mento. Segundo o governo, as exportações de ferro-liga de nióbio atingiram em 2012 aproximadamente 71 mil tonela-das, no valor de US$ 1,8 bilhão.\n(http://$1_{1}$.globo.com. Adaptado.)\n\nO isótopo natural do nióbio é o 93Nb. O número de nêu-trons desse isótopo é",
+      principal: "Leia as informações sobre o nióbio para responder às questões de números 53 a 56.\n\nNIÓBIO (Nb)\nO que é\nElemento químico metálico, de símbolo Nb. O nome deriva da deusa grega Níobe, filha de Tântalo.\n\nCaracterísticas\nÉ um dos metais que mais resistem à corrosão e é um elemento supercondutor.\nPonto de fusão ou derretimento: 2468 °C\nPonto de evaporação: 4744 °C\n\nAplicações\nÉ usado principalmente na produção de ligas de aço de alta resistên-cia, com aplicações na construção civil, na indústria mecânica, aero-espacial, naval, automobilística e nuclear, entre outras.\n\nOnde é encontrado\nO Brasil detém as maiores reservas conhecidas de nióbio (98,43%), seguido pelo Canadá (1,11%) e Austrália (0,46%). No país, a jazidas conhecidas estão em Minas Gerais (75,08% – Araxã e Tapira), Ama-zonas (21,34% – São Gabriel da Cachoeira e Presidente Figueiredo) e em Goiás (3,85% – Catalão e Ouvidor).\n\nDesde a década de 70, não há comercialização do miné-rio bruto ou do concentrado de nióbio (pirocloro) no mercado interno ou externo. O metal é vendido, sobretudo, na forma da liga ferro-nióbio (FeNb STD, com 66% de teor de nióbio e 30% de ferro), obtida a partir de diversas etapas de processa-mento. Segundo o governo, as exportações de ferro-liga de nióbio atingiram em 2012 aproximadamente 71 mil tonela-das, no valor de US$ 1,8 bilhão.\n(http://g_{1}.globo.com. Adaptado.)\n\nO isótopo natural do nióbio é o 93Nb. O número de nêu-trons desse isótopo é",
       subItens: []
     },
     options: ["41.","52.","93.","134.","144."],
@@ -798,7 +798,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "Leia as informações sobre o nióbio para responder às questões de números 53 a 56.\n\nNIÓBIO (Nb)\nO que é\nElemento químico metálico, de símbolo Nb. O nome deriva da deusa grega Níobe, filha de Tântalo.\n\nCaracterísticas\nÉ um dos metais que mais resistem à corrosão e é um elemento supercondutor.\nPonto de fusão ou derretimento: 2468 °C\nPonto de evaporação: 4744 °C\n\nAplicações\nÉ usado principalmente na produção de ligas de aço de alta resistên-cia, com aplicações na construção civil, na indústria mecânica, aero-espacial, naval, automobilística e nuclear, entre outras.\n\nOnde é encontrado\nO Brasil detém as maiores reservas conhecidas de nióbio (98,43%), seguido pelo Canadá (1,11%) e Austrália (0,46%). No país, a jazidas conhecidas estão em Minas Gerais (75,08% – Araxã e Tapira), Ama-zonas (21,34% – São Gabriel da Cachoeira e Presidente Figueiredo) e em Goiás (3,85% – Catalão e Ouvidor).\n\nDesde a década de 70, não há comercialização do miné-rio bruto ou do concentrado de nióbio (pirocloro) no mercado interno ou externo. O metal é vendido, sobretudo, na forma da liga ferro-nióbio (FeNb STD, com 66% de teor de nióbio e 30% de ferro), obtida a partir de diversas etapas de processa-mento. Segundo o governo, as exportações de ferro-liga de nióbio atingiram em 2012 aproximadamente 71 mil tonela-das, no valor de US$ 1,8 bilhão.\n(http://$1_{1}$.globo.com. Adaptado.)\n\nConsiderando as posições do ferro e do nióbio na Classi-ficação Periódica, é correto afirmar que",
+      principal: "Leia as informações sobre o nióbio para responder às questões de números 53 a 56.\n\nNIÓBIO (Nb)\nO que é\nElemento químico metálico, de símbolo Nb. O nome deriva da deusa grega Níobe, filha de Tântalo.\n\nCaracterísticas\nÉ um dos metais que mais resistem à corrosão e é um elemento supercondutor.\nPonto de fusão ou derretimento: 2468 °C\nPonto de evaporação: 4744 °C\n\nAplicações\nÉ usado principalmente na produção de ligas de aço de alta resistên-cia, com aplicações na construção civil, na indústria mecânica, aero-espacial, naval, automobilística e nuclear, entre outras.\n\nOnde é encontrado\nO Brasil detém as maiores reservas conhecidas de nióbio (98,43%), seguido pelo Canadá (1,11%) e Austrália (0,46%). No país, a jazidas conhecidas estão em Minas Gerais (75,08% – Araxã e Tapira), Ama-zonas (21,34% – São Gabriel da Cachoeira e Presidente Figueiredo) e em Goiás (3,85% – Catalão e Ouvidor).\n\nDesde a década de 70, não há comercialização do miné-rio bruto ou do concentrado de nióbio (pirocloro) no mercado interno ou externo. O metal é vendido, sobretudo, na forma da liga ferro-nióbio (FeNb STD, com 66% de teor de nióbio e 30% de ferro), obtida a partir de diversas etapas de processa-mento. Segundo o governo, as exportações de ferro-liga de nióbio atingiram em 2012 aproximadamente 71 mil tonela-das, no valor de US$ 1,8 bilhão.\n(http://g_{1}.globo.com. Adaptado.)\n\nConsiderando as posições do ferro e do nióbio na Classi-ficação Periódica, é correto afirmar que",
       subItens: []
     },
     options: ["os átomos estão unidos por ligações iônicas na liga FeNb.","os átomos formam uma rede covalente na liga FeNb.","os dois elementos têm a mesma densidade.","o ferro é mais eletronegativo que o nióbio.","o ferro tem carga nuclear maior que a do nióbio."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "Leia as informações sobre o nióbio para responder às questões de números 53 a 56.\n\nNIÓBIO (Nb)\nO que é\nElemento químico metálico, de símbolo Nb. O nome deriva da deusa grega Níobe, filha de Tântalo.\n\nCaracterísticas\nÉ um dos metais que mais resistem à corrosão e é um elemento supercondutor.\nPonto de fusão ou derretimento: 2468 °C\nPonto de evaporação: 4744 °C\n\nAplicações\nÉ usado principalmente na produção de ligas de aço de alta resistên-cia, com aplicações na construção civil, na indústria mecânica, aero-espacial, naval, automobilística e nuclear, entre outras.\n\nOnde é encontrado\nO Brasil detém as maiores reservas conhecidas de nióbio (98,43%), seguido pelo Canadá (1,11%) e Austrália (0,46%). No país, a jazidas conhecidas estão em Minas Gerais (75,08% – Araxã e Tapira), Ama-zonas (21,34% – São Gabriel da Cachoeira e Presidente Figueiredo) e em Goiás (3,85% – Catalão e Ouvidor).\n\nDesde a década de 70, não há comercialização do miné-rio bruto ou do concentrado de nióbio (pirocloro) no mercado interno ou externo. O metal é vendido, sobretudo, na forma da liga ferro-nióbio (FeNb STD, com 66% de teor de nióbio e 30% de ferro), obtida a partir de diversas etapas de processa-mento. Segundo o governo, as exportações de ferro-liga de nióbio atingiram em 2012 aproximadamente 71 mil tonela-das, no valor de US$ 1,8 bilhão.\n(http://$1_{1}$.globo.com. Adaptado.)\n\nO nióbio está presente nas jazidas de São Gabriel da Ca-choeira, AM, como elemento constituinte do mineral piro-cloro, cuja fórmula porcentual é\nNa_9,75% Ca_5,66% Nb_52,51% H_0,21% O_30,52% F_1,34%\n\nConsiderando que não haja perdas, é correto afirmar que a massa de pirocloro necessária para obter 1,0 t da liga FeNb STD é, em t, aproximadamente,",
+      principal: "Leia as informações sobre o nióbio para responder às questões de números 53 a 56.\n\nNIÓBIO (Nb)\nO que é\nElemento químico metálico, de símbolo Nb. O nome deriva da deusa grega Níobe, filha de Tântalo.\n\nCaracterísticas\nÉ um dos metais que mais resistem à corrosão e é um elemento supercondutor.\nPonto de fusão ou derretimento: 2468 °C\nPonto de evaporação: 4744 °C\n\nAplicações\nÉ usado principalmente na produção de ligas de aço de alta resistên-cia, com aplicações na construção civil, na indústria mecânica, aero-espacial, naval, automobilística e nuclear, entre outras.\n\nOnde é encontrado\nO Brasil detém as maiores reservas conhecidas de nióbio (98,43%), seguido pelo Canadá (1,11%) e Austrália (0,46%). No país, a jazidas conhecidas estão em Minas Gerais (75,08% – Araxã e Tapira), Ama-zonas (21,34% – São Gabriel da Cachoeira e Presidente Figueiredo) e em Goiás (3,85% – Catalão e Ouvidor).\n\nDesde a década de 70, não há comercialização do miné-rio bruto ou do concentrado de nióbio (pirocloro) no mercado interno ou externo. O metal é vendido, sobretudo, na forma da liga ferro-nióbio (FeNb STD, com 66% de teor de nióbio e 30% de ferro), obtida a partir de diversas etapas de processa-mento. Segundo o governo, as exportações de ferro-liga de nióbio atingiram em 2012 aproximadamente 71 mil tonela-das, no valor de US$ 1,8 bilhão.\n(http://g_{1}.globo.com. Adaptado.)\n\nO nióbio está presente nas jazidas de São Gabriel da Ca-choeira, AM, como elemento constituinte do mineral piro-cloro, cuja fórmula porcentual é\nNa_9,75% Ca_5,66% Nb_52,51% H_0,21% O_30,52% F_1,34%\n\nConsiderando que não haja perdas, é correto afirmar que a massa de pirocloro necessária para obter 1,0 t da liga FeNb STD é, em t, aproximadamente,",
       subItens: []
     },
     options: ["1,85.","1,26.","0,66.","0,52.","0,33."],
@@ -828,7 +828,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "Leia as informações sobre o nióbio para responder às questões de números 53 a 56.\n\nNIÓBIO (Nb)\nO que é\nElemento químico metálico, de símbolo Nb. O nome deriva da deusa grega Níobe, filha de Tântalo.\n\nCaracterísticas\nÉ um dos metais que mais resistem à corrosão e é um elemento supercondutor.\nPonto de fusão ou derretimento: 2468 °C\nPonto de evaporação: 4744 °C\n\nAplicações\nÉ usado principalmente na produção de ligas de aço de aço de alta resistên-cia, com aplicações na construção civil, na indústria mecânica, aero-espacial, naval, automobilística e nuclear, entre outras.\n\nOnde é encontrado\nO Brasil detém as maiores reservas conhecidas de nióbio (98,43%), seguido pelo Canadá (1,11%) e Austrália (0,46%). No país, a jazidas conhecidas estão em Minas Gerais (75,08% – Araxã e Tapira), Ama-zonas (21,34% – São Gabriel da Cachoeira e Presidente Figueiredo) e em Goiás (3,85% – Catalão e Ouvidor).\n\nDesde a década de 70, não há comercialização do miné-rio bruto ou do concentrado de nióbio (pirocloro) no mercado interno ou externo. O metal é vendido, sobretudo, na forma da liga ferro-nióbio (FeNb STD, com 66% de teor de nióbio e 30% de ferro), obtida a partir de diversas etapas de processa-mento. Segundo o governo, as exportações de ferro-liga de nióbio atingiram em 2012 aproximadamente 71 mil tonela-das, no valor de US$ 1,8 bilhão.\n(http://$1_{1}$.globo.com. Adaptado.)\n\nO nióbio metálico pode ser obtido pelo processo conheci-do como aluminotermia. Nesse processo, pentóxido de ni-óbio e alumínio, ambos em pó finamente dividido, reagem formando o nióbio metálico e óxido de alumínio, conforme a equação:\nx $1_{2}O_{5}$ (s) + y Al (s) → z Nb (s) + w $1_{2}O_{3}$ (s)\n\nNessa equação, os coeficientes estequiométricos x, y, z e w valem, respectivamente,",
+      principal: "Leia as informações sobre o nióbio para responder às questões de números 53 a 56.\n\nNIÓBIO (Nb)\nO que é\nElemento químico metálico, de símbolo Nb. O nome deriva da deusa grega Níobe, filha de Tântalo.\n\nCaracterísticas\nÉ um dos metais que mais resistem à corrosão e é um elemento supercondutor.\nPonto de fusão ou derretimento: 2468 °C\nPonto de evaporação: 4744 °C\n\nAplicações\nÉ usado principalmente na produção de ligas de aço de aço de alta resistên-cia, com aplicações na construção civil, na indústria mecânica, aero-espacial, naval, automobilística e nuclear, entre outras.\n\nOnde é encontrado\nO Brasil detém as maiores reservas conhecidas de nióbio (98,43%), seguido pelo Canadá (1,11%) e Austrália (0,46%). No país, a jazidas conhecidas estão em Minas Gerais (75,08% – Araxã e Tapira), Ama-zonas (21,34% – São Gabriel da Cachoeira e Presidente Figueiredo) e em Goiás (3,85% – Catalão e Ouvidor).\n\nDesde a década de 70, não há comercialização do miné-rio bruto ou do concentrado de nióbio (pirocloro) no mercado interno ou externo. O metal é vendido, sobretudo, na forma da liga ferro-nióbio (FeNb STD, com 66% de teor de nióbio e 30% de ferro), obtida a partir de diversas etapas de processa-mento. Segundo o governo, as exportações de ferro-liga de nióbio atingiram em 2012 aproximadamente 71 mil tonela-das, no valor de US$ 1,8 bilhão.\n(http://g_{1}.globo.com. Adaptado.)\n\nO nióbio metálico pode ser obtido pelo processo conheci-do como aluminotermia. Nesse processo, pentóxido de ni-óbio e alumínio, ambos em pó finamente dividido, reagem formando o nióbio metálico e óxido de alumínio, conforme a equação:\nx Nb_{2}O_{5} (s) + y Al (s) → z Nb (s) + w Al_{2}O_{3} (s)\n\nNessa equação, os coeficientes estequiométricos x, y, z e w valem, respectivamente,",
       subItens: []
     },
     options: ["1, 2, 2 e 1.","3, 2, 6 e 1.","2, 5, 4 e 10.","1, 10, 4 e 5.","3, 10, 6 e 5."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "As questões de números 57 e 58 referem-se ao acetileno, $1_{2}H_{2}$, um gás extremamente inflamável, empregado em maçaricos oxi-acetileno, que os funileiros utilizam para corte e solda de metais. Esse gás pode ser obtido pela reação de carbeto de cálcio com água, de acordo com a equação:\$1_{2}$ (s) + 2 $1_{2}O_{}$ (l) → $1_{2}H_{2}$ (g) + Ca(OH)2 (s)\n\nQuanto à polaridade e à geometria molecular, é correto afirmar que as moléculas de acetileno são",
+      principal: "As questões de números 57 e 58 referem-se ao acetileno, C_{2}H_{2}, um gás extremamente inflamável, empregado em maçaricos oxi-acetileno, que os funileiros utilizam para corte e solda de metais. Esse gás pode ser obtido pela reação de carbeto de cálcio com água, de acordo com a equação:\nCaC_{2} (s) + 2 H_{2}O (l) → C_{2}H_{2} (g) + Ca(OH)2 (s)\n\nQuanto à polaridade e à geometria molecular, é correto afirmar que as moléculas de acetileno são",
       subItens: []
     },
     options: ["apolares e lineares.","apolares e angulares.","apolares e tetraédricas.","polares e lineares.","polares e tetraédricas."],
@@ -858,7 +858,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2015,
     text: {
-      principal: "As questões de números 57 e 58 referem-se ao acetileno, $1_{2}H_{2}$, um gás extremamente inflamável, empregado em maçaricos oxi-acetileno, que os funileiros utilizam para corte e solda de metais. Esse gás pode ser obtido pela reação de carbeto de cálcio com água, de acordo com a equação:\$1_{2}$ (s) + 2 $1_{2}O_{}$ (l) → $1_{2}H_{2}$ (g) + Ca(OH)2 (s)\n\nConsiderando que a reação tenha um rendimento de 80%, a massa de acetileno formada pela transformação de 12,8 kg de carbeto de cálcio é, em kg, igual a",
+      principal: "As questões de números 57 e 58 referem-se ao acetileno, C_{2}H_{2}, um gás extremamente inflamável, empregado em maçaricos oxi-acetileno, que os funileiros utilizam para corte e solda de metais. Esse gás pode ser obtido pela reação de carbeto de cálcio com água, de acordo com a equação:\nCaC_{2} (s) + 2 H_{2}O (l) → C_{2}H_{2} (g) + Ca(OH)2 (s)\n\nConsiderando que a reação tenha um rendimento de 80%, a massa de acetileno formada pela transformação de 12,8 kg de carbeto de cálcio é, em kg, igual a",
       subItens: []
     },
     options: ["0,26.","0,52.","0,42.","4,16.","5,20."],
@@ -876,7 +876,7 @@ createQuestion({
       principal: "Sulfato de cobre(II) e óxido de cobre(I) são duas substân-cias químicas amplamente utilizadas na agricultura para o combate a pragas. As fórmulas dessas duas substâncias são, respectivamente,",
       subItens: []
     },
-    options: ["CuS e CuO.","$1_{2}S_{}$ e Cu₂O.","Cu₂SO₄ e CuO.","$1_{4}$ e CuO.","$1_{4}$ e $1_{2}O_{}$."],
+    options: ["CuS e CuO.","Cu2S e Cu₂O.","Cu₂SO₄ e CuO.","CuSO4 e CuO.","CuSO4 e Cu2O."],
     correctAnswer: 4,
     materia: "Química – Funções Inorgânicas",
     conteudo: "Química – Nomenclatura Química",

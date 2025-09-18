@@ -153,7 +153,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Read the text to answer questions 11 to 14. High-flying ideas? A camera-equipped drone flies around the outskirts of Seoul, South Korea, hovering near an industrial plant and capturing video of pollutants. Below, on the crowded, litter-covered streets, residents wear white and black masks that cover their noses and mouths. A gray haze hangs in the sky. The unmanned aerial vehicle, or UAV, is part of a pilot program by South Korea's Ministry of Environment. Tasked with inspecting factory emissions in the capital's greater metropolitan area, it's the latest in a series of tech solutions aimed at solving Seoul's dust dilemma. In fact, the fine dust has South Koreans so concerned they've cited it as their No. 1 stressor in life – more distressing than the country's economic stagnation, its rapidly aging population and even North Korea's erratic dictator and nuclear weapons program. Their worries are well-founded. The World Health Organization (WHO) advises exposure to fine dust, or $1_{10}$, of no more than a daily average of 50 micrograms per cubic meter, and to ultra-fine dust, or $1_{2}$.5, of no more than 25. At one point in 2017, Seoul's $1_{10}$ hit 179. In late March 2018, Seoul's $1_{2}$.5 soared to over 100. $1_{2}$.5 is of greatest concern. So small it can get lodged into the lungs and penetrate the lining to enter the bloodstream, $1_{2}$.5 is comprised of black carbon, nitrates, ammonia and other harmful compounds linked to respiratory diseases and cancer. The WHO has classified fine and ultra-fine dust as carcinogenic since 2013. Developed by the government-run National Institute of Environmental Research, the drone is the first of what the environment ministry intends to be a fleet deployed nationwide. Some South Korean tech companies, too, are stepping in with their own innovations. Although much of the new tech appears promising, Greenpeace's Seoul office stresses the importance of addressing the root of the problem. Part of the solution is getting residents to recognize their own role in curbing carbon output. So, even though the new fixes may do a good job of measuring dust, what about actually busting it? That's where the technology hasn't quite caught up yet. (Ann Babe. www.usnews.com, 08.08.2018. Adapted.) The text deals with a main public interest issue in South Korea related to",
+      principal: "Read the text to answer questions 11 to 14. High-flying ideas? A camera-equipped drone flies around the outskirts of Seoul, South Korea, hovering near an industrial plant and capturing video of pollutants. Below, on the crowded, litter-covered streets, residents wear white and black masks that cover their noses and mouths. A gray haze hangs in the sky. The unmanned aerial vehicle, or UAV, is part of a pilot program by South Korea's Ministry of Environment. Tasked with inspecting factory emissions in the capital's greater metropolitan area, it's the latest in a series of tech solutions aimed at solving Seoul's dust dilemma. In fact, the fine dust has South Koreans so concerned they've cited it as their No. 1 stressor in life – more distressing than the country's economic stagnation, its rapidly aging population and even North Korea's erratic dictator and nuclear weapons program. Their worries are well-founded. The World Health Organization (WHO) advises exposure to fine dust, or PM_{10}, of no more than a daily average of 50 micrograms per cubic meter, and to ultra-fine dust, or PM_{2}.5, of no more than 25. At one point in 2017, Seoul's PM_{10} hit 179. In late March 2018, Seoul's PM_{2}.5 soared to over 100. PM_{2}.5 is of greatest concern. So small it can get lodged into the lungs and penetrate the lining to enter the bloodstream, PM_{2}.5 is comprised of black carbon, nitrates, ammonia and other harmful compounds linked to respiratory diseases and cancer. The WHO has classified fine and ultra-fine dust as carcinogenic since 2013. Developed by the government-run National Institute of Environmental Research, the drone is the first of what the environment ministry intends to be a fleet deployed nationwide. Some South Korean tech companies, too, are stepping in with their own innovations. Although much of the new tech appears promising, Greenpeace's Seoul office stresses the importance of addressing the root of the problem. Part of the solution is getting residents to recognize their own role in curbing carbon output. So, even though the new fixes may do a good job of measuring dust, what about actually busting it? That's where the technology hasn't quite caught up yet. (Ann Babe. www.usnews.com, 08.08.2018. Adapted.) The text deals with a main public interest issue in South Korea related to",
       subItens: []
     },
     options: ["the dirt and dust deriving from the overcrowded streets in the country's capital.","air pollution, and the health risks brought about by fine-dust particulates.","a variety of factors impacting on the South Koreans' quality of life in the present days.","the great number of camera-equipped drones flying all around Seoul's skies.","the many types of pollutants produced by the country's industries and residents."],
@@ -183,10 +183,10 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "According to the third paragraph, $1_{2}$.5 is currently a topic of greatest concern in Seoul because",
+      principal: "According to the third paragraph, PM_{2}.5 is currently a topic of greatest concern in Seoul because",
       subItens: []
     },
-    options: ["it has recently reached levels far beyond those the WHO admits as safe for humans to live with.","its particles have just been discovered to be even tinier than the average $1_{10}$ particles.","it has, in the latest years, surpassed $1_{10}$ in numbers and as the origin of incurable diseases.","it is composed of black carbon, nitrates and ammonia, a combination inevitably resulting in deadly side-effects.","it has been announced by the WHO as the main cause for respiratory diseases and cancer in the country."],
+    options: ["it has recently reached levels far beyond those the WHO admits as safe for humans to live with.","its particles have just been discovered to be even tinier than the average PM10 particles.","it has, in the latest years, surpassed PM10 in numbers and as the origin of incurable diseases.","it is composed of black carbon, nitrates and ammonia, a combination inevitably resulting in deadly side-effects.","it has been announced by the WHO as the main cause for respiratory diseases and cancer in the country."],
     correctAnswer: 0,
     materia: "Inglês – Reading comprehension",
     conteudo: "",
@@ -333,7 +333,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Analise a imagem. (Imagem mostrando um deslizamento de terra/colapso de encosta próximo a casas). (www.folha.uol.com.br) O evento geomorfológico retratado na imagem foi desencadeado por um ______ índice de chuva sazonal, que ______ o solo e criou um ambiente geológico instável, propício à ocorrência de um ______. As lacunas do texto devem ser preenchidas por:",
+      principal: "Analise a imagem. (Imagem mostrando um deslizamento de $\\\\frac{terra}{colapso}$ de encosta próximo a casas). (www.folha.uol.com.br) O evento geomorfológico retratado na imagem foi desencadeado por um ______ índice de chuva sazonal, que ______ o solo e criou um ambiente geológico instável, propício à ocorrência de um ______. As lacunas do texto devem ser preenchidas por:",
       subItens: []
     },
     options: ["baixo - impermeabilizou – assoreamento.","baixo impermeabilizou - diastrofismo.","alto - encharcou - terraceamento.","alto - saturou – soerguimento.","alto - saturou - deslizamento."],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Analise os mapas. (Dois mapas intitulados \"Até 1960\" e \"1960-2000\" mostrando a distribuição da Mata Atlântica no Brasil. Uma legenda com números 1-6 indica diferentes tipos de vegetação/uso da terra). (Graça M. L. Ferreira. Atlas geográfico, 2013. Adaptado.) Da análise dos mapas, conclui-se que o número 6, indicado na legenda, corresponde a",
+      principal: "Analise os mapas. (Dois mapas intitulados \"Até 1960\" e \"1960-2000\" mostrando a distribuição da Mata Atlântica no Brasil. Uma legenda com números 1-6 indica diferentes tipos de vegetaçã$\\\\frac{o}{uso}$ da terra). (Graça M. L. Ferreira. Atlas geográfico, 2013. Adaptado.) Da análise dos mapas, conclui-se que o número 6, indicado na legenda, corresponde a",
       subItens: []
     },
     options: ["remanescentes da Mata Atlântica.","áreas antropizadas.","corredores ecológicos nacionais.","áreas de florestas secundárias.","unidades de conservação."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Uma forma de reduzir a poluição atmosférica provocada pelo gás dióxido de enxofre ($1_{2}$), produzido em certas atividades industriais, é realizar a lavagem dos gases de exaustão com uma suspensão aquosa de cal hidratada [Ca(OH)2]. Com isso, ocorre uma reação química em que se formam sulfito de cálcio ($1_{3}$) sólido e água (H₂O) líquida, evitando a emissão do poluente para o ar. Considerando que o volume molar de gás nas Condições Ambiente de Temperatura e Pressão (CATP) é igual a 25 L/mol, para cada 1,2 kg de sulfito de cálcio formado, o volume de dióxido de enxofre, medido nessas condições, que deixa de ser emitido para a atmosfera é de",
+      principal: "Uma forma de reduzir a poluição atmosférica provocada pelo gás dióxido de enxofre (SO_{2}), produzido em certas atividades industriais, é realizar a lavagem dos gases de exaustão com uma suspensão aquosa de cal hidratada [Ca(OH)2]. Com isso, ocorre uma reação química em que se formam sulfito de cálcio (CaSO_{3}) sólido e água (H₂O) líquida, evitando a emissão do poluente para o ar. Considerando que o volume molar de gás nas Condições Ambiente de Temperatura e Pressão (CATP) é igual a 25 $\\\\frac{L}{mol}$, para cada 1,2 kg de sulfito de cálcio formado, o volume de dióxido de enxofre, medido nessas condições, que deixa de ser emitido para a atmosfera é de",
       subItens: []
     },
     options: ["250 L.","125 L.","12,5 L.","25 L.","1250 L."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Considere as informações: • No estado de Sergipe, encontram-se as maiores reservas brasileiras de minerais de potássio, constituídas principalmente por silvinita, composta pela associação dos minerais halita (NaCl) e silvita (KCl). O teor médio de íons potássio na silvinita é cerca de 8% em massa. • Na água do mar, a concentração média de íons potássio é cerca de 0,4 g/L. O volume de água do mar que contém a mesma massa de íons potássio existente em cada tonelada de silvinita é",
+      principal: "Considere as informações: • No estado de Sergipe, encontram-se as maiores reservas brasileiras de minerais de potássio, constituídas principalmente por silvinita, composta pela associação dos minerais halita (NaCl) e silvita (KCl). O teor médio de íons potássio na silvinita é cerca de 8% em massa. • Na água do mar, a concentração média de íons potássio é cerca de 0,4 $\\\\frac{g}{L}$. O volume de água do mar que contém a mesma massa de íons potássio existente em cada tonelada de silvinita é",
       subItens: []
     },
     options: ["2000000 L.","200000 L.","200 L.","2000 L.","20000 L."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Examine a estrutura do glutamato monossódico, composto utilizado para realçar o sabor de alimentos. (Imagem da estrutura química do glutamato monossódico, C5H8NO4Na, com a fórmula e nome abaixo). O número de átomos de carbono quiral presente na estrutura do glutamato monossódico é",
+      principal: "Examine a estrutura do glutamato monossódico, composto utilizado para realçar o sabor de alimentos. (Imagem da estrutura química do glutamato monossódico, C_{5}H8NO4Na, com a fórmula e nome abaixo). O número de átomos de carbono quiral presente na estrutura do glutamato monossódico é",
       subItens: []
     },
     options: ["3.","2.","4.","5.","1."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Para provocar a transformação gasosa ABC, representada no diagrama P × V, em determinada massa constante de gás ideal, foi necessário fornecer-lhe 1400 J de energia em forma de calor, dos quais 300 J transformaram-se em energia interna do gás, devido ao seu aquecimento nesse processo. (Diagrama PxV mostrando um processo termodinâmico ABC, com A em (1.0, 1.2), B em (1.0, 3.0) e C em (5.0, 3.0). As unidades são P($1^{5}$ Pa) e V(10^-3 $1^{3}$)). Considerando não ter havido perda de energia, o trabalho realizado pelas forças exercidas pelo gás no trecho AB dessa transformação foi de",
+      principal: "Para provocar a transformação gasosa ABC, representada no diagrama P × V, em determinada massa constante de gás ideal, foi necessário fornecer-lhe 1400 J de energia em forma de calor, dos quais 300 J transformaram-se em energia interna do gás, devido ao seu aquecimento nesse processo. (Diagrama PxV mostrando um processo termodinâmico ABC, com A em (1.0, 1.2), B em (1.0, 3.0) e C em (5.0, 3.0). As unidades são P(10^{5}$ Pa) e V(10^-3 m^{3}$)). Considerando não ter havido perda de energia, o trabalho realizado pelas forças exercidas pelo gás no trecho AB dessa transformação foi de",
       subItens: []
     },
     options: ["600 J.","400 J.","500 J.","1100 J.","800 J."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Em um laboratório didático, foi montado um banco óptico formado por uma lente esférica convergente L de distância focal igual a 20 cm, um espelho plano E e uma lanterna acesa, funcionando como o objeto O. A fotografia representa esse sistema com as distâncias entre seus elementos, fora de escala. (Foto de um banco óptico com lente, espelho e fonte de luz, mostrando distâncias de 30 cm e 80 cm). Em seguida, o professor propõe um exercício com a figura a seguir, que resume o experimento realizado. Nessa figura, a lâmpada acesa da lanterna é representada pela seta O, a seta I₁ representa a imagem dessa lâmpada formada pela lente L, e I₂ representa a imagem da seta I₁, formada pelo espelho E. (Diagrama da montagem óptica, com objeto O, lente L a 30 cm, e espelho E a 80 cm, e as imagens $1_{1}_{}$ e $1_{2}_{}$ indicadas). Considerando válidas as condições de nitidez de Gauss, a distância d, entre O e I₂, é",
+      principal: "Em um laboratório didático, foi montado um banco óptico formado por uma lente esférica convergente L de distância focal igual a 20 cm, um espelho plano E e uma lanterna acesa, funcionando como o objeto O. A fotografia representa esse sistema com as distâncias entre seus elementos, fora de escala. (Foto de um banco óptico com lente, espelho e fonte de luz, mostrando distâncias de 30 cm e 80 cm). Em seguida, o professor propõe um exercício com a figura a seguir, que resume o experimento realizado. Nessa figura, a lâmpada acesa da lanterna é representada pela seta O, a seta I₁ representa a imagem dessa lâmpada formada pela lente L, e I₂ representa a imagem da seta I₁, formada pelo espelho E. (Diagrama da montagem óptica, com objeto O, lente L a 30 cm, e espelho E a 80 cm, e as imagens I_{1} e I_{2} indicadas). Considerando válidas as condições de nitidez de Gauss, a distância d, entre O e I₂, é",
       subItens: []
     },
     options: ["1,6 m.","1,4 m.","1,5 m.","1,3 m.","1,8 m."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Um bloco de massa m = 4 kg é mantido em repouso, preso a uma corda de densidade linear de massa μ = $1 \times 10^{-3}$ kg/m, que tem sua outra extremidade fixa no ponto A de uma parede vertical. Essa corda passa por uma roldana ideal presa em uma barra fixa na parede, formando um ângulo de 60° com a barra. Considere que um diapasão seja colocado para vibrar próximo desse sistema e que ondas estacionárias se estabeleçam no trecho AB da corda. (Diagrama mostrando um bloco de massa m=4kg pendurado, conectado por uma corda que passa por uma roldana e se estende até um ponto fixo A, formando um ângulo de 60° com uma barra horizontal. O comprimento do segmento AB é 0,5m). Sabendo que a velocidade de propagação de uma onda por uma corda de densidade linear de massa μ, submetida a uma força de tração T, é dada por v = √T/μ, que g = 10 m/s², que cos 60° = sen 30° = 0,5 e considerando as informações da figura, pode-se afirmar que a frequência fundamental de ondas estacionárias no trecho AB da corda é",
+      principal: "Um bloco de massa m = 4 kg é mantido em repouso, preso a uma corda de densidade linear de massa μ = $1 \\\\times 10^{-3}$ $\\\\frac{kg}{m}$, que tem sua outra extremidade fixa no ponto A de uma parede vertical. Essa corda passa por uma roldana ideal presa em uma barra fixa na parede, formando um ângulo de 60° com a barra. Considere que um diapasão seja colocado para vibrar próximo desse sistema e que ondas estacionárias se estabeleçam no trecho AB da corda. (Diagrama mostrando um bloco de massa m=4kg pendurado, conectado por uma corda que passa por uma roldana e se estende até um ponto fixo A, formando um ângulo de 60° com uma barra horizontal. O comprimento do segmento AB é 0,5m). Sabendo que a velocidade de propagação de uma onda por uma corda de densidade linear de massa μ, submetida a uma força de tração T, é dada por v = √T/μ, que g = 10 $\\\\frac{m}{s}$², que cos 60° = sen 30° = 0,5 e considerando as informações da figura, pode-se afirmar que a frequência fundamental de ondas estacionárias no trecho AB da corda é",
       subItens: []
     },
     options: ["56 Hz.","50 Hz.","35 Hz.","48 Hz.","40 Hz."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Utilize o texto para responder às questões 45 e 46. O princípio de Hardy-Weinberg é utilizado no estudo da genética de populações. Por meio desse princípio, é possível predizer as frequências genotípicas de homozigotos e heterozigotos, a partir da frequência dos alelos observada em uma amostra da população. Considerando que a frequência do alelo A é p e que a frequência do alelo a é q, de modo que p + q = 1, as frequências (f) para cada um dos possíveis genótipos (AA, Aa e aa) podem ser descritas pelas curvas presentes no gráfico: (Gráfico com frequência (f) no eixo y e frequência alélica (p/q) no eixo x, mostrando as curvas para os genótipos AA (p²), Aa (2pq) e aa (q²)). Se em uma população a frequência p é 0,7, então a frequência do genótipo AA é",
+      principal: "Utilize o texto para responder às questões 45 e 46. O princípio de Hardy-Weinberg é utilizado no estudo da genética de populações. Por meio desse princípio, é possível predizer as frequências genotípicas de homozigotos e heterozigotos, a partir da frequência dos alelos observada em uma amostra da população. Considerando que a frequência do alelo A é p e que a frequência do alelo a é q, de modo que p + q = 1, as frequências (f) para cada um dos possíveis genótipos (AA, Aa e aa) podem ser descritas pelas curvas presentes no gráfico: (Gráfico com frequência (f) no eixo y e frequência alélica ($\\\\frac{p}{q}$) no eixo x, mostrando as curvas para os genótipos AA (p²), Aa (2pq) e aa (q²)). Se em uma população a frequência p é 0,7, então a frequência do genótipo AA é",
       subItens: []
     },
     options: ["0,36.","0,49.","0,42.","0,21.","0,09."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "O gráfico mostra a evolução e a projeção do custo (em dólares por kWh) e da densidade energética (em Wh por L) das baterias utilizadas em carros elétricos. (Gráfico com duas linhas: uma representando o \"Custo da bateria (dólares por kWh)\" que diminui ao longo dos anos, e outra representando a \"Densidade energética (Wh/L)\" que aumenta ao longo dos anos. O eixo X mostra os anos de 2009 a 2022). Com base no gráfico, no ano de 2009, uma bateria de 30 kWh custava em torno 28 000 dólares e tinha volume de 500 litros. Dado que 1 kWh é igual a 1 000 Wh, e de acordo com essa projeção, no ano de 2022, uma bateria de 30 kWh terá um custo e um volume iguais a",
+      principal: "O gráfico mostra a evolução e a projeção do custo (em dólares por kWh) e da densidade energética (em Wh por L) das baterias utilizadas em carros elétricos. (Gráfico com duas linhas: uma representando o \"Custo da bateria (dólares por kWh)\" que diminui ao longo dos anos, e outra representando a \"Densidade energética ($\\\\frac{Wh}{L}$)\" que aumenta ao longo dos anos. O eixo X mostra os anos de 2009 a 2022). Com base no gráfico, no ano de 2009, uma bateria de 30 kWh custava em torno 28 000 dólares e tinha volume de 500 litros. Dado que 1 kWh é igual a 1 000 Wh, e de acordo com essa projeção, no ano de 2022, uma bateria de 30 kWh terá um custo e um volume iguais a",
       subItens: []
     },
     options: ["4200 dólares e 75 litros.","4200 dólares e 37,5 litros.","3600 dólares e 75 litros.","2100 dólares e 75 litros.","2100 dólares e 37,5 litros."],

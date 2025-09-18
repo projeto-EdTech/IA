@@ -3,7 +3,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 01 A 04\nCOMPRAR É UM ATO POLÍTICO\n\"Clicktivismo\" é um termo em voga. É o ato de se\nmobilizar pelas redes sociais para algum objetivo. E o discur-\nso está saindo da internet, segundo Michael Shank, um pro-\nfessor e PhD em desenvolvimento sustentável. Em entrevista\nao Fast Company, ele alertou as empresas: as pessoas estão\nusando sua carteira como um ato político. Quer exemplos?\nComo represália a comentários machistas do presi-\ndente norte-americano, Donald Trump, consumidores para-\nram de comprar produtos da marca Ivanka Trump, uma de\nsuas filhas. A quebra foi de 32%.\nO Uber perdeu mais de 200 mil clientes nos Estados\nUnidos por seus laços com o governo dos Estados Unidos e\npor um episódio controverso. Quando taxistas pararam em\nprotesto à proibição de entrada de refugiados e nativos de\nsete países de maioria muçulmana nos EUA, em fevereiro, o\napp melhorou seus preços. A ação foi encarada como uma\nquebra na greve.\nPara Shank, é hora de o consumidor agir com o bol-\nso. \"Apoiar produtos e companhias preocupadas com ecologia\ne negar apoio a abusadores sociais e do meio ambiente são\nformas que temos de moldar o comportamento de nossas\nempresas.\"\nAdaptado de: Jornal Gazeta do Povo de 22/23.04.2017,\nsuplemento Vida e Cidadania, coluna Consumo, página 4.\nAssinale o que for correto quanto ao conteúdo do texto.",
+      principal: "TEXTO PARA AS QUESTÕES 01 A 04\nCOMPRAR É UM ATO POLÍTICO\n\"Clicktivismo\" é um termo em voga. É o ato de se\nmobilizar pelas redes sociais para algum objetivo. E o discur-\nso está saindo da internet, segundo Michael Shank, um pro-\nfessor e PhD em desenvolvimento sustentável. Em entrevista\nao Fast Company, ele alertou as empresas: as pessoas estão\nusando sua carteira como um ato político. Quer exemplos?\nComo represália a comentários machistas do presi-\ndente norte-americano, Donald Trump, consumidores para-\nram de comprar produtos da marca Ivanka Trump, uma de\nsuas filhas. A quebra foi de 32%.\nO Uber perdeu mais de 200 mil clientes nos Estados\nUnidos por seus laços com o governo dos Estados Unidos e\npor um episódio controverso. Quando taxistas pararam em\nprotesto à proibição de entrada de refugiados e nativos de\nsete países de maioria muçulmana nos EUA, em fevereiro, o\napp melhorou seus preços. A ação foi encarada como uma\nquebra na greve.\nPara Shank, é hora de o consumidor agir com o bol-\nso. \"Apoiar produtos e companhias preocupadas com ecologia\ne negar apoio a abusadores sociais e do meio ambiente são\nformas que temos de moldar o comportamento de nossas\nempresas.\"\nAdaptado de: Jornal Gazeta do Povo de $\\\\frac{22}{23}$.04.2017,\nsuplemento Vida e Cidadania, coluna Consumo, página 4.\nAssinale o que for correto quanto ao conteúdo do texto.",
       subItens: []
     },
     options: ["A escolha consciente de produtos ou companhias pode diminuir o descaso com o meio ambiente e a sociedade por parte das empresas.","Com a greve dos táxis, o Uber ofereceu um preço menor para aumentar sua clientela, e essa ação foi interpretada como uma retaliação à greve dos taxistas.","O consumidor, ao gastar seu dinheiro na aquisição de bens necessários, pode interferir no comportamento empresarial no que diz respeito a sua relação com o meio ambiente em que está inserido.","Michael Shank, criador do termo \"clicktivismo\", introduziu o consumo sustentável nas redes sociais, o que foi imediatamente adotado pelos consumidores do mundo todo."],
@@ -18,7 +18,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Na frase abaixo foi empregada uma metonímia, pois \"carteira\" substitui o termo \"dinheiro\", com o qual tem uma relação de continente/conteúdo. Assinale a(s) alternativa(s) em que foi empregada essa mesma figura de linguagem.\n\"... as pessoas estão usando sua carteira como um ato político.\"",
+      principal: "Na frase abaixo foi empregada uma metonímia, pois \"carteira\" substitui o termo \"dinheiro\", com o qual tem uma relação de $\\\\frac{continente}{conte}$údo. Assinale a(s) alternativa(s) em que foi empregada essa mesma figura de linguagem.\n\"... as pessoas estão usando sua carteira como um ato político.\"",
       subItens: []
     },
     options: ["Atualmente, os consumidores têm cabeça para decidir sobre suas aquisições.","Os microfones foram atrás do professor para que ele concedesse uma entrevista sobre o assunto.","Para atualizar todos os programas, os computadores trabalharam intensamente no final de semana.","Os supermercados estão de olho nas mudanças de perfil do consumidor e nas tendências de consumo."],
@@ -93,7 +93,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Sobre os elementos formadores do som e da música/composição articulados à História da Música, assinale o que for correto.",
+      principal: "Sobre os elementos formadores do som e da mú$\\\\frac{sica}{composi}$ção articulados à História da Música, assinale o que for correto.",
       subItens: []
     },
     options: ["A música religiosa, do período medieval, possuía ritmos irregulares, de acordo com as acentuações das palavras da língua latina.","A música das etnias indígenas brasileiras se define pela ausência de ritmo.","No período renascentista, as melodias eram exclusivamente monofônicas.","No período barroco, as melodias apresentam-se com muitos ornamentos, como, por exemplo, os trinados."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Em uma estrada plana e horizontal, um veículo trafega com velocidade de 72 km/h, descrevendo uma trajetória curva, cujo raio é 20 metros. Considerando que o coeficiente de atrito entre os pneus e a estrada vale 0,50 e que a massa do veículo é de 1200 kg, assinale o que for correto.",
+      principal: "Em uma estrada plana e horizontal, um veículo trafega com velocidade de 72 $\\\\frac{km}{h}$, descrevendo uma trajetória curva, cujo raio é 20 metros. Considerando que o coeficiente de atrito entre os pneus e a estrada vale 0,50 e que a massa do veículo é de 1200 kg, assinale o que for correto.",
       subItens: []
     },
     options: ["Para que o veículo consiga fazer a curva, deve atuar nele uma força centrípeta de 24 x 10³ N.","O veículo não conseguirá fazer a curva na estrada sem derrapar, pois não consegue vencer a força centrípeta.","Caso o raio da curva fosse reduzido pela metade, o veículo ainda não conseguiria fazer a curva e iria derrapar.","Para que consiga fazer a curva sem derrapar, o veículo deve desenvolver uma velocidade máxima de 36 km/h."],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Vem aumentando a presença dos softwares durante as partidas de futebol. No lançamento oblíquo da bola em direção ao gol, foi detectado pelo software, uma velocidade de 30 m/s, formando um ângulo de 45° com a horizontal. Desprezando a resistência do ar, assinale o que for correto.\nAdote: g = 10 m/s²; cos 45° = sen 45° = 0,7",
+      principal: "Vem aumentando a presença dos softwares durante as partidas de futebol. No lançamento oblíquo da bola em direção ao gol, foi detectado pelo software, uma velocidade de 30 $\\\\frac{m}{s}$, formando um ângulo de 45° com a horizontal. Desprezando a resistência do ar, assinale o que for correto.\nAdote: g = 10 $\\\\frac{m}{s}$²; cos 45° = sen 45° = 0,7",
       subItens: []
     },
     options: ["A velocidade inicial, em módulo, das componentes vertical e horizontal, é igual a 21 m/s.","Para um instante t = 2s durante o percurso, o módulo da velocidade da bola será de aproximadamente 21 m/s.","A distância horizontal entre o ponto do chute na bola pelo jogador e o ponto em que a mesma cai próxima ao gol é denominado de alcance, e será máximo, para o ângulo de 45°.","Após o chute na bola pelo jogador, o percurso de subida que a bola faz, leva um tempo maior do que o percurso de descida."],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Considere dois móveis de mesma massa que, partindo do repouso, atingem a mesma velocidade de 100 km/h. Para que isso aconteça, deve ser transferida energia ao móvel pelo motor. O primeiro móvel leva 40 segundos para chegar aos 100 km/h e o segundo móvel leva 20 segundos para chegar aos 100 km/h. De acordo com o enunciado, assinale o que for correto.",
+      principal: "Considere dois móveis de mesma massa que, partindo do repouso, atingem a mesma velocidade de 100 $\\\\frac{km}{h}$. Para que isso aconteça, deve ser transferida energia ao móvel pelo motor. O primeiro móvel leva 40 segundos para chegar aos 100 $\\\\frac{km}{h}$ e o segundo móvel leva 20 segundos para chegar aos 100 $\\\\frac{km}{h}$. De acordo com o enunciado, assinale o que for correto.",
       subItens: []
     },
     options: ["No Sistema Internacional (SI), a potência é medida em hp (horse-power) ou cv (cavalo-vapor), ambas unidades equivalentes entre si.","O segundo móvel pode desenvolver maior potência, dependendo da distância que percorre no trajeto.","O trabalho da força resultante será maior sobre o segundo móvel.","Ambos os móveis sofreram a mesma variação de energia cinética."],

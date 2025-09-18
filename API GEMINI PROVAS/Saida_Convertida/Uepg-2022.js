@@ -348,7 +348,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "O estudo dos movimentos constitui o ramo da Física chamado Cinemática. Para analisarmos os tipos de movimentos nesse âmbito são necessários alguns conceitos básicos, sobre os quais são feitas as afirmações a seguir. Assinale o que for correto. 01) O fato de o deslocamento de um móvel ser positivo não significa que o movimento tenha sido sempre a favor da trajetória. 02) Considerando a distância de Ponta Grossa a Curitiba igual a 110 km, podemos afirmar que, se um carro vai de Ponta Grossa a Curitiba e depois volta a Ponta Grossa pelo mesmo caminho, seu deslocamento foi nulo e a distância percorrida foi igual a 220 km. 04) Em uma estrada onde a velocidade máxima permitida é de 110 km/h, um caminhão que se desloca a 40 m/s estará acima da velocidade máxima permitida. 08) Os conceitos de repouso e de movimento são sempre relativos a um referencial.",
+      principal: "O estudo dos movimentos constitui o ramo da Física chamado Cinemática. Para analisarmos os tipos de movimentos nesse âmbito são necessários alguns conceitos básicos, sobre os quais são feitas as afirmações a seguir. Assinale o que for correto. 01) O fato de o deslocamento de um móvel ser positivo não significa que o movimento tenha sido sempre a favor da trajetória. 02) Considerando a distância de Ponta Grossa a Curitiba igual a 110 km, podemos afirmar que, se um carro vai de Ponta Grossa a Curitiba e depois volta a Ponta Grossa pelo mesmo caminho, seu deslocamento foi nulo e a distância percorrida foi igual a 220 km. 04) Em uma estrada onde a velocidade máxima permitida é de 110 $\\\\frac{km}{h}$, um caminhão que se desloca a 40 $\\\\frac{m}{s}$ estará acima da velocidade máxima permitida. 08) Os conceitos de repouso e de movimento são sempre relativos a um referencial.",
       subItens: []
     },
     options: ["O fato de o deslocamento de um móvel ser positivo não significa que o movimento tenha sido sempre a favor da trajetória.","Considerando a distância de Ponta Grossa a Curitiba igual a 110 km, podemos afirmar que, se um carro vai de Ponta Grossa a Curitiba e depois volta a Ponta Grossa pelo mesmo caminho, seu deslocamento foi nulo e a distância percorrida foi igual a 220 km.","Em uma estrada onde a velocidade máxima permitida é de 110 km/h, um caminhão que se desloca a 40 m/s estará acima da velocidade máxima permitida.","Os conceitos de repouso e de movimento são sempre relativos a um referencial."],
@@ -393,10 +393,10 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "O gráfico a seguir representa a variação de temperatura no decorrer do tempo para um corpo de massa 50 g que se encontra inicialmente no estado sólido e é constituído por uma só substância. A potência da fonte é constante e vale 30 cal/s. A partir desses dados, assinale o que for correto.\nT(°C)\$1_{50}$\$1_{10}$\$1_{10}$ 30 40 55\nt(s)\n-20\$1_{01}$) A transformação que ocorre na faixa de tempe-ratura de 50 °C é chamada de liquefação. 02) O calor específico da substância que constitui o corpo, no estado sólido, vale 0,2 cal/g°C. 04) A grandeza potência, citada no enunciado da questão, tem como equação dimensional [P]=ML-2 $1_{3}_{}$. 08) Mesmo recebendo calor, em certos intervalos de tempo representados no gráfico, a temperatura do corpo permaneceu constante.",
+      principal: "O gráfico a seguir representa a variação de temperatura no decorrer do tempo para um corpo de massa 50 g que se encontra inicialmente no estado sólido e é constituído por uma só substância. A potência da fonte é constante e vale 30 $\\\\frac{cal}{s}$. A partir desses dados, assinale o que for correto.\nT(°C)\n50\n10\n10 30 40 55\nt(s)\n-20\n01) A transformação que ocorre na faixa de tempe-ratura de 50 °C é chamada de liquefação. 02) O calor específico da substância que constitui o corpo, no estado sólido, vale 0,2 $\\\\frac{cal}{g}$°C. 04) A grandeza potência, citada no enunciado da questão, tem como equação dimensional [P]=ML-2 T_{3}. 08) Mesmo recebendo calor, em certos intervalos de tempo representados no gráfico, a temperatura do corpo permaneceu constante.",
       subItens: []
     },
-    options: ["A transformação que ocorre na faixa de tempe-ratura de 50 °C é chamada de liquefação.","O calor específico da substância que constitui o corpo, no estado sólido, vale 0,2 cal/g°C.","A grandeza potência, citada no enunciado da questão, tem como equação dimensional [P]=ML-2 $1_{3}_{}$.","Mesmo recebendo calor, em certos intervalos de tempo representados no gráfico, a temperatura do corpo permaneceu constante."],
+    options: ["A transformação que ocorre na faixa de tempe-ratura de 50 °C é chamada de liquefação.","O calor específico da substância que constitui o corpo, no estado sólido, vale 0,2 cal/g°C.","A grandeza potência, citada no enunciado da questão, tem como equação dimensional [P]=ML-2 T3.","Mesmo recebendo calor, em certos intervalos de tempo representados no gráfico, a temperatura do corpo permaneceu constante."],
     correctAnswer: null,
     materia: "Física – Termologia",
     conteudo: "Física – Calorimetria",
@@ -423,10 +423,10 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Entre as alternativas apresentadas abaixo, identifique aquelas que trazem exemplos de substâncias simples e compostas, respectivamente, e assinale o que for correto. 01) $1_{2}_{}$ e $1_{2}O_{}$. 02) $1_{2}$ e $1_{4}$. 04) $1_{2}_{}$ e $1_{3}$. 08) $1_{2}_{}$ e C2H6O.",
+      principal: "Entre as alternativas apresentadas abaixo, identifique aquelas que trazem exemplos de substâncias simples e compostas, respectivamente, e assinale o que for correto. 01) O_{2} e H_{2}O. 02) CO_{2} e CH_{4}. 04) H_{2} e NH_{3}. 08) N_{2} e C_{2}H6O.",
       subItens: []
     },
-    options: ["$1_{2}_{}$ e $1_{2}O_{}$.","$1_{2}$ e $1_{4}$.","$1_{2}_{}$ e $1_{3}$.","$1_{2}_{}$ e C2H6O."],
+    options: ["O2 e H2O.","CO2 e CH4.","H2 e NH3.","N2 e C2H6O."],
     correctAnswer: null,
     materia: "Química – Classificação de substâncias",
     conteudo: "Química – Substâncias simples e compostas",
@@ -438,10 +438,10 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Identifique as associações adequadas entre as fórmulas químicas e os nomes das substâncias apresentadas abaixo e assinale o que for correto. 01) $1_{2}SO_{3}$: sulfato de sódio. 02) $1_{2}O_{3}$: óxido ferroso. 04) $1_{3}PO_{4}$: ácido fosfórico. 08) NH4OH: hidróxido de amônio.",
+      principal: "Identifique as associações adequadas entre as fórmulas químicas e os nomes das substâncias apresentadas abaixo e assinale o que for correto. 01) Na_{2}SO_{3}: sulfato de sódio. 02) Fe_{2}O_{3}: óxido ferroso. 04) H_{3}PO_{4}: ácido fosfórico. 08) NH4OH: hidróxido de amônio.",
       subItens: []
     },
-    options: ["$1_{2}SO_{3}$: sulfato de sódio.","$1_{2}O_{3}$: óxido ferroso.","$1_{3}PO_{4}$: ácido fosfórico.","NH4OH: hidróxido de amônio."],
+    options: ["Na2SO3: sulfato de sódio.","Fe2O3: óxido ferroso.","H3PO4: ácido fosfórico.","NH4OH: hidróxido de amônio."],
     correctAnswer: null,
     materia: "Química – Nomenclatura de compostos inorgânicos",
     conteudo: "",
@@ -453,10 +453,10 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Considere as equações abaixo, que representam reações em meio aquoso e, após os balanceamentos, assinale o que for correto. I) $1_{2}SO_{4}$ + $1_{2}CO_{3}$ → $1_{2}SO_{4}$ + $1_{2}CO_{3}$ II) $1_{3}$ + NaOH → $1_{2}SO_{4}$ + $1_{2}O_{}$ 01) Entre os reagentes, temos um ácido inorgânico na reação I e um óxido ácido na reação II. 02) A reação I é classificada como reação de dupla troca. 04) Na reação II, verifica-se que, para cada mol de $1_{3}$, reagem 2 mols da base. 08) Em ambas as reações ocorre a formação de sulfato de sódio, que é um sal inorgânico.",
+      principal: "Considere as equações abaixo, que representam reações em meio aquoso e, após os balanceamentos, assinale o que for correto. I) H_{2}SO_{4} + Na_{2}CO_{3} → Na_{2}SO_{4} + H_{2}CO_{3} II) SO_{3} + NaOH → Na_{2}SO_{4} + H_{2}O 01) Entre os reagentes, temos um ácido inorgânico na reação I e um óxido ácido na reação II. 02) A reação I é classificada como reação de dupla troca. 04) Na reação II, verifica-se que, para cada mol de SO_{3}, reagem 2 mols da base. 08) Em ambas as reações ocorre a formação de sulfato de sódio, que é um sal inorgânico.",
       subItens: []
     },
-    options: ["Entre os reagentes, temos um ácido inorgânico na reação I e um óxido ácido na reação II.","A reação I é classificada como reação de dupla troca.","Na reação II, verifica-se que, para cada mol de $1_{3}$, reagem 2 mols da base.","Em ambas as reações ocorre a formação de sulfato de sódio, que é um sal inorgânico."],
+    options: ["Entre os reagentes, temos um ácido inorgânico na reação I e um óxido ácido na reação II.","A reação I é classificada como reação de dupla troca.","Na reação II, verifica-se que, para cada mol de SO3, reagem 2 mols da base.","Em ambas as reações ocorre a formação de sulfato de sódio, que é um sal inorgânico."],
     correctAnswer: null,
     materia: "Química – Reações químicas",
     conteudo: "Química – Balanceamento de equações",
@@ -468,10 +468,10 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Com relação às forças intermoleculares existentes entre as moléculas, assinale o que for correto. 01) No HCN líquido, as atrações intermoleculares são do tipo dipolo-dipolo, pois essa é uma molécula polar. 02) As moléculas de $1_{2}$ apresentam interações intermoleculares do tipo dipolo induzido ou força de London, que ocorrem em moléculas apolares. 04) As moléculas de $1_{2}_{}$ apresentam interações do tipo dipolo-dipolo. 08) As moléculas de HCl apresentam ligações de hidrogênio.",
+      principal: "Com relação às forças intermoleculares existentes entre as moléculas, assinale o que for correto. 01) No HCN líquido, as atrações intermoleculares são do tipo dipolo-dipolo, pois essa é uma molécula polar. 02) As moléculas de CO_{2} apresentam interações intermoleculares do tipo dipolo induzido ou força de London, que ocorrem em moléculas apolares. 04) As moléculas de I_{2} apresentam interações do tipo dipolo-dipolo. 08) As moléculas de HCl apresentam ligações de hidrogênio.",
       subItens: []
     },
-    options: ["No HCN líquido, as atrações intermoleculares são do tipo dipolo-dipolo, pois essa é uma molécula polar.","As moléculas de $1_{2}$ apresentam interações intermoleculares do tipo dipolo induzido ou força de London, que ocorrem em moléculas apolares.","As moléculas de $1_{2}_{}$ apresentam interações do tipo dipolo-dipolo.","As moléculas de HCl apresentam ligações de hidrogênio."],
+    options: ["No HCN líquido, as atrações intermoleculares são do tipo dipolo-dipolo, pois essa é uma molécula polar.","As moléculas de CO2 apresentam interações intermoleculares do tipo dipolo induzido ou força de London, que ocorrem em moléculas apolares.","As moléculas de I2 apresentam interações do tipo dipolo-dipolo.","As moléculas de HCl apresentam ligações de hidrogênio."],
     correctAnswer: null,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Forças intermoleculares",
@@ -513,7 +513,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "A matriz abaixo,\$1_{1}$ªsem 2ªsem 3ªsem\nAna [$1_{11}$ $1_{12}$ $1_{13}$]\nBete [$1_{21}$ $1_{22}$ $1_{23}$]\nCarla [$1_{31}$ $1_{32}$ $1_{33}$]\ndisposta em linhas (pessoas) e colunas (semanas), representa os registros da soma dos tempos de realizações de exercícios físicos de Ana, Bete e Carla em três semanas consecutivas. Sendo i a ordem das linhas e j a ordem das colunas e aij = 3i + 2j o elemento genérico dessa matriz, com i e j dados em horas, assinale o que for correto. 01) Na terceira semana, Bete realizou 12 horas de exercícios físicos. 02) Ana realizou 7 horas de exercícios físicos na segunda semana. 04) Na primeira semana, Carla fez menos tempo de exercícios físicos do que Bete fez na terceira semana. 08) Na segunda semana, Bete fez o dobro de tempo de exercícios físicos do que Ana fez na primeira semana.",
+      principal: "A matriz abaixo,\n1ªsem 2ªsem 3ªsem\nAna [a_{11} a_{12} a_{13}]\nBete [a_{21} a_{22} a_{23}]\nCarla [a_{31} a_{32} a_{33}]\ndisposta em linhas (pessoas) e colunas (semanas), representa os registros da soma dos tempos de realizações de exercícios físicos de Ana, Bete e Carla em três semanas consecutivas. Sendo i a ordem das linhas e j a ordem das colunas e aij = 3i + 2j o elemento genérico dessa matriz, com i e j dados em horas, assinale o que for correto. 01) Na terceira semana, Bete realizou 12 horas de exercícios físicos. 02) Ana realizou 7 horas de exercícios físicos na segunda semana. 04) Na primeira semana, Carla fez menos tempo de exercícios físicos do que Bete fez na terceira semana. 08) Na segunda semana, Bete fez o dobro de tempo de exercícios físicos do que Ana fez na primeira semana.",
       subItens: []
     },
     options: ["Na terceira semana, Bete realizou 12 horas de exercícios físicos.","Ana realizou 7 horas de exercícios físicos na segunda semana.","Na primeira semana, Carla fez menos tempo de exercícios físicos do que Bete fez na terceira semana.","Na segunda semana, Bete fez o dobro de tempo de exercícios físicos do que Ana fez na primeira semana."],
@@ -558,10 +558,10 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Assinale o que for correto. 01) Se a taxa de inflação no Brasil em 2018 foi de aproximadamente 3,75% a.a.; em 2019 foi de 4,31% a.a.; em 2020 foi de 4,52% a.a.; e em 2021 foi de 10,06% a.a., então a taxa de inflação acumulada nesse período pertence ao intervalo [24,25]. 02) A solução da equação $1_{3}$ (x + 3) - $1_{3}$ (x - 7) = 1 é um número divisível por 4. 04) Se em um disco rígido de 1 GB é possível armazenar 8,6 bilhões de bits, ou seja, 8,6 bilhões de sinais, então um computador com um disco rígido de 4,5 GB consegue guardar 38,7 bilhões de bits. 08) A expressão (5^(x-5) * 5^(x-7)) / (5^(2x-3) * 5^(2x+4)) é igual a um número primo.",
+      principal: "Assinale o que for correto. 01) Se a taxa de inflação no Brasil em 2018 foi de aproximadamente 3,75% a.a.; em 2019 foi de 4,31% a.a.; em 2020 foi de 4,52% a.a.; e em 2021 foi de 10,06% a.a., então a taxa de inflação acumulada nesse período pertence ao intervalo [24,25]. 02) A solução da equação log_{3} (x + 3) - log_{3} (x - 7) = 1 é um número divisível por 4. 04) Se em um disco rígido de 1 GB é possível armazenar 8,6 bilhões de bits, ou seja, 8,6 bilhões de sinais, então um computador com um disco rígido de 4,5 GB consegue guardar 38,7 bilhões de bits. 08) A expressão (5^(x-5) * 5^(x-7)) / (5^(2x-3) * 5^(2x+4)) é igual a um número primo.",
       subItens: []
     },
-    options: ["Se a taxa de inflação no Brasil em 2018 foi de aproximadamente 3,75% a.a.; em 2019 foi de 4,31% a.a.; em 2020 foi de 4,52% a.a.; e em 2021 foi de 10,06% a.a., então a taxa de inflação acumulada nesse período pertence ao intervalo [24,25].","A solução da equação $1_{3}$ (x + 3) - $1_{3}$ (x - 7) = 1 é um número divisível por 4.","Se em um disco rígido de 1 GB é possível armazenar 8,6 bilhões de bits, ou seja, 8,6 bilhões de sinais, então um computador com um disco rígido de 4,5 GB consegue guardar 38,7 bilhões de bits.","A expressão (5^(x-5) * 5^(x-7)) / (5^(2x-3) * 5^(2x+4)) é igual a um número primo."],
+    options: ["Se a taxa de inflação no Brasil em 2018 foi de aproximadamente 3,75% a.a.; em 2019 foi de 4,31% a.a.; em 2020 foi de 4,52% a.a.; e em 2021 foi de 10,06% a.a., então a taxa de inflação acumulada nesse período pertence ao intervalo [24,25].","A solução da equação log3 (x + 3) - log3 (x - 7) = 1 é um número divisível por 4.","Se em um disco rígido de 1 GB é possível armazenar 8,6 bilhões de bits, ou seja, 8,6 bilhões de sinais, então um computador com um disco rígido de 4,5 GB consegue guardar 38,7 bilhões de bits.","A expressão (5^(x-5) * 5^(x-7)) / (5^(2x-3) * 5^(2x+4)) é igual a um número primo."],
     correctAnswer: null,
     materia: "Matemática – Logaritmos",
     conteudo: "Matemática – Potências",
@@ -573,7 +573,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "A tabela abaixo mostra o número de reprovações dos meninos e das meninas, numa turma do Colégio OBA, na disciplina de Física. Como exemplo, podemos afirmar, de acordo com a última linha da tabela, que dois meninos e três meninas dessa turma reprovaram três vezes na disciplina de Física. Com base nas informações apresentadas, assinale o que for correto.\nNúmero de Reprovações Meninos Meninas\$1_{0}$ 4 10\$1_{1}$ 8 6\$1_{2}$ 3 5\$1_{3}$ 2 3\$1_{01}$) A moda do número de reprovações foi menor no grupo das meninas do que no grupo dos meninos. 02) A moda do número de reprovações foi menor no grupo dos meninos do que no grupo das meninas. 04) A média do número de reprovações foi maior no grupo dos meninos do que no grupo das meninas. 08) A mediana do número de reprovações foi a mesma no grupo dos meninos e no grupo das meninas.",
+      principal: "A tabela abaixo mostra o número de reprovações dos meninos e das meninas, numa turma do Colégio OBA, na disciplina de Física. Como exemplo, podemos afirmar, de acordo com a última linha da tabela, que dois meninos e três meninas dessa turma reprovaram três vezes na disciplina de Física. Com base nas informações apresentadas, assinale o que for correto.\nNúmero de Reprovações Meninos Meninas\n0 4 10\n1 8 6\n2 3 5\n3 2 3\n01) A moda do número de reprovações foi menor no grupo das meninas do que no grupo dos meninos. 02) A moda do número de reprovações foi menor no grupo dos meninos do que no grupo das meninas. 04) A média do número de reprovações foi maior no grupo dos meninos do que no grupo das meninas. 08) A mediana do número de reprovações foi a mesma no grupo dos meninos e no grupo das meninas.",
       subItens: []
     },
     options: ["A moda do número de reprovações foi menor no grupo das meninas do que no grupo dos meninos.","A moda do número de reprovações foi menor no grupo dos meninos do que no grupo das meninas.","A média do número de reprovações foi maior no grupo dos meninos do que no grupo das meninas.","A mediana do número de reprovações foi a mesma no grupo dos meninos e no grupo das meninas."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Na música “Oração ao Tempo\" (Álbum Cinema Transcedental, Gravadora Phillips, 1979), o cantor e compositor Caetano Veloso diz: \"És um senhor tão bonito quanto a cara do meu filho/Tempo tempo tempo tempo, vou te fazer um pedido/Tempo tempo tempo tempo... Compositor de destinos, tambor de todos os ritmos/Tempo tempo tempo tempo, entro num acordo contigo/Tempo tempo tempo tempo... Por seres tão inventivo e pareceres contínuo/Tempo tempo tempo tempo, és um dos deuses mais lindos/Tempo tempo tempo tempo...\" Nessa canção, Veloso fala da passagem do tempo na vida de uma pessoa, mas sabe-se que o conceito de tempo pode ser compreendido de diferentes maneiras, em especial quando pensamos em um período histórico específico e na maneira como uma determinada sociedade se relaciona com a questão temporal. Ou seja, tempo é um conceito fundamental para se compreender e estudar a História. A respeito do tema, assinale o que for correto. 01) As sociedades somente começaram a se preocupar com as questões do tempo a partir da emergência do capitalismo e da invenção do relógio com ponteiros marcando horas e minutos. 02) Cada civilização ou matriz cultural pode conceber o tempo de formas diferentes. É possível, por exemplo, encontrarmos percepções cíclicas ou lineares do tempo ao longo da história. 04) Desde o surgimento da noção de tempo social, o único calendário utilizado pela humanidade é o chamado Calendário Gregoriano (que divide o ano em 365 dias). 08) A natureza serviu, em diferentes contextos históricos, como um elemento essencial de medição do tempo e de regulação de práticas e ações coletivas.",
+      principal: "Na música “Oração ao Tempo\" (Álbum Cinema Transcedental, Gravadora Phillips, 1979), o cantor e compositor Caetano Veloso diz: \"És um senhor tão bonito quanto a cara do meu $\\\\frac{filho}{Tempo}$ tempo tempo tempo, vou te fazer um $\\\\frac{pedido}{Tempo}$ tempo tempo tempo... Compositor de destinos, tambor de todos os $\\\\frac{ritmos}{Tempo}$ tempo tempo tempo, entro num acordo $\\\\frac{contigo}{Tempo}$ tempo tempo tempo... Por seres tão inventivo e pareceres contí$\\\\frac{nuo}{Tempo}$ tempo tempo tempo, és um dos deuses mais $\\\\frac{lindos}{Tempo}$ tempo tempo tempo...\" Nessa canção, Veloso fala da passagem do tempo na vida de uma pessoa, mas sabe-se que o conceito de tempo pode ser compreendido de diferentes maneiras, em especial quando pensamos em um período histórico específico e na maneira como uma determinada sociedade se relaciona com a questão temporal. Ou seja, tempo é um conceito fundamental para se compreender e estudar a História. A respeito do tema, assinale o que for correto. 01) As sociedades somente começaram a se preocupar com as questões do tempo a partir da emergência do capitalismo e da invenção do relógio com ponteiros marcando horas e minutos. 02) Cada civilização ou matriz cultural pode conceber o tempo de formas diferentes. É possível, por exemplo, encontrarmos percepções cíclicas ou lineares do tempo ao longo da história. 04) Desde o surgimento da noção de tempo social, o único calendário utilizado pela humanidade é o chamado Calendário Gregoriano (que divide o ano em 365 dias). 08) A natureza serviu, em diferentes contextos históricos, como um elemento essencial de medição do tempo e de regulação de práticas e ações coletivas.",
       subItens: []
     },
     options: ["As sociedades somente começaram a se preocupar com as questões do tempo a partir da emergência do capitalismo e da invenção do relógio com ponteiros marcando horas e minutos.","Cada civilização ou matriz cultural pode conceber o tempo de formas diferentes. É possível, por exemplo, encontrarmos percepções cíclicas ou lineares do tempo ao longo da história.","Desde o surgimento da noção de tempo social, o único calendário utilizado pela humanidade é o chamado Calendário Gregoriano (que divide o ano em 365 dias).","A natureza serviu, em diferentes contextos históricos, como um elemento essencial de medição do tempo e de regulação de práticas e ações coletivas."],

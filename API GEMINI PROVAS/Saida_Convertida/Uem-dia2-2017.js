@@ -201,7 +201,7 @@ createQuestion({
       principal: "Não podemos deixar o motor de veículos ligado em ambientes fechados. Sobre essa afirmação, e utilizando conhecimentos de Química e de Biologia, assinale o que for correto.",
       subItens: []
     },
-    options: ["A combustão incompleta de combustíveis automotores leva à formação de CO, um óxido tóxico.","A morte por asfixia ocorre pela formação de carboxiemoglobina (HbCO) no sangue, que é mais estável que a oxiemoglobina ($1_{2}$).","As reações normais da hemoglobina no organismo são:\$1_{2}$ + Hb = $1_{2}$, com reação direta via pulmões e\nreação reversa via tecidos, e $1_{2}$ + Hb = $1_{2}$, com\nreação direta via tecidos e reação reversa via pulmões.","O CO caracteriza-se como óxido iônico básico.","As trocas gasosas que ocorrem por processo de dissociação nas superfícies respiratórias não são influenciadas pelas pressões parciais dos gases (pCO, $1_{2}$ e $1_{2}$)."],
+    options: ["A combustão incompleta de combustíveis automotores leva à formação de CO, um óxido tóxico.","A morte por asfixia ocorre pela formação de carboxiemoglobina (HbCO) no sangue, que é mais estável que a oxiemoglobina (HbO2).","As reações normais da hemoglobina no organismo são:\nO2 + Hb = HbO2, com reação direta via pulmões e\nreação reversa via tecidos, e CO2 + Hb = HbCO2, com\nreação direta via tecidos e reação reversa via pulmões.","O CO caracteriza-se como óxido iônico básico.","As trocas gasosas que ocorrem por processo de dissociação nas superfícies respiratórias não são influenciadas pelas pressões parciais dos gases (pCO, pCO2 e pO2)."],
     correctAnswer: null,
     materia: "Química – Reações Químicas",
     conteudo: "Biologia – Fisiologia Respiratória",
@@ -216,7 +216,7 @@ createQuestion({
       principal: "Sobre a regulação hídrica nos animais de ambiente aquático, assinale o que for correto.",
       subItens: []
     },
-    options: ["Quando uma solução aquosa está separada da água pura por uma membrana permeável a qualquer líquido, o valor exato da pressão que se deve aplicar sobre a solução para facilitar a osmose é denominado de pressão osmótica.","A pressão osmótica da água doce é superior à do sangue dos peixes, o que provoca a entrada de água e de sais no sangue por osmose.","Gaivotas, pinguins e tartarugas possuem, na base da cauda, glândulas de sal que secretam uma solução fraca de cloreto de sódio (NaCl).","Os peixes ósseos marinhos excretam a amônia ($1_{3}$) e eliminam o sal que ingerem junto com a água pelas brânquias.","Os anfibios marinhos excretam ureia por meio de urina muito concentrada."],
+    options: ["Quando uma solução aquosa está separada da água pura por uma membrana permeável a qualquer líquido, o valor exato da pressão que se deve aplicar sobre a solução para facilitar a osmose é denominado de pressão osmótica.","A pressão osmótica da água doce é superior à do sangue dos peixes, o que provoca a entrada de água e de sais no sangue por osmose.","Gaivotas, pinguins e tartarugas possuem, na base da cauda, glândulas de sal que secretam uma solução fraca de cloreto de sódio (NaCl).","Os peixes ósseos marinhos excretam a amônia (NH3) e eliminam o sal que ingerem junto com a água pelas brânquias.","Os anfibios marinhos excretam ureia por meio de urina muito concentrada."],
     correctAnswer: null,
     materia: "Biologia – Fisiologia Animal",
     conteudo: "Biologia – Osmorregulação",
@@ -246,7 +246,7 @@ createQuestion({
       principal: "Suponha que uma pessoa está a 2,0m de um espelho plano e que P₁ é a posição da imagem da pessoa, refletida no espelho. Considerando esses dados, assinale o que for correto.",
       subItens: []
     },
-    options: ["A distância do espelho até P₁ é de 4,0m.","Se a pessoa se afasta 1,0m do espelho, a distância da pessoa até sua imagem será de 6,0m.","Se o espelho é afastado da pessoa 1,0m, a imagem da pessoa se afasta 1,0m da posição $1_{1}_{}$.","Se a distância de P₁ até uma nova posição P₂ da imagem é 1,0m mais distante do espelho que P₁, então o espelho pode ter se afastado 0,5m da pessoa.","Se a pessoa se aproxima 1,0m da posição do espelho e, em seguida, o espelho é afastado 0,5m da sua posição anterior, então a imagem permanecerá na posição $1_{1}_{}$."],
+    options: ["A distância do espelho até P₁ é de 4,0m.","Se a pessoa se afasta 1,0m do espelho, a distância da pessoa até sua imagem será de 6,0m.","Se o espelho é afastado da pessoa 1,0m, a imagem da pessoa se afasta 1,0m da posição P1.","Se a distância de P₁ até uma nova posição P₂ da imagem é 1,0m mais distante do espelho que P₁, então o espelho pode ter se afastado 0,5m da pessoa.","Se a pessoa se aproxima 1,0m da posição do espelho e, em seguida, o espelho é afastado 0,5m da sua posição anterior, então a imagem permanecerá na posição P1."],
     correctAnswer: null,
     materia: "Física – Óptica Geométrica",
     conteudo: "Física – Espelhos Planos",
@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Em países de inverno rigoroso, os lagos e os rios congelam-se na superfície, e a água de máxima densidade, isto é, a 4°C, encontra-se no fundo. Esse fato é de fundamental importância para a preservação da fauna e da flora locais. Considerando que a entalpia de fusão da água é de 7,3kJ/mol e usando conceitos físico-químicos, assinale o que for correto.",
+      principal: "Em países de inverno rigoroso, os lagos e os rios congelam-se na superfície, e a água de máxima densidade, isto é, a 4°C, encontra-se no fundo. Esse fato é de fundamental importância para a preservação da fauna e da flora locais. Considerando que a entalpia de fusão da água é de 7,$\\\\frac{3kJ}{mol}$ e usando conceitos físico-químicos, assinale o que for correto.",
       subItens: []
     },
     options: ["A água entre 0°C e 4°C apresenta coeficiente de dilatação volumétrica negativo.","Na escala absoluta (Kelvin), a água, a aproximadamente 277K, está com densidade máxima.","Rios e lagos descongelam mais facilmente devido ao baixo calor específico da água.","36,5kJ de calor seriam suficientes para fundir 5mols de água.","Em lagos de água salgada a água não congela a 0°C."],
@@ -303,7 +303,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "A partir das informações contidas nos itens I e II e na tabela a seguir, e considerando conceitos de Termoquímica, assinale o que for correto. \nI) A entalpia de neutralização de um ácido forte por uma base forte é de -58kJ/mol de água formada.\nII) Cl - Cl(g) + H - O - H(g) → H – Cl(g) + H − O – Cl(g)\nLigação             Energia de ligação (kJ/mol) a 25°C e latm\nCl - Cl             243\nH-O                464\nH-Cl               431\nCl-O               205",
+      principal: "A partir das informações contidas nos itens I e II e na tabela a seguir, e considerando conceitos de Termoquímica, assinale o que for correto. \nI) A entalpia de neutralização de um ácido forte por uma base forte é de -$\\\\frac{58kJ}{mol}$ de água formada.\nII) Cl - Cl(g) + H - O - H(g) → H – Cl(g) + H − O – Cl(g)\nLigação             Energia de ligação ($\\\\frac{kJ}{mol}$) a 25°C e latm\nCl - Cl             243\nH-O                464\nH-Cl               431\nCl-O               205",
       subItens: []
     },
     options: ["A neutralização do HCl por NaOH terá variação de entalpia de -58kJ, enquanto a neutralização do HOCl liberará menor energia.","A variação de entalpia da reação química do item II será de +71 kJ.","Dentre todos os componentes da reação mostrada no item II, aquele que consome maior energia em sua decomposição é a água.","A energia de ligação é a energia absorvida na quebra de ligações em qualquer que seja o estado físico dos reagentes.","O processo que envolve a formação das ligações químicas é exotérmico."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Foram misturados 400mL de uma solução aquosa (que era 3% em massa de NaOH) com 600mL de uma solução aquosa (que era 10% em massa de KOH). Considerando as densidades das soluções inicial e final iguais a 1g/mL, assinale o que for correto.",
+      principal: "Foram misturados 400mL de uma solução aquosa (que era 3% em massa de NaOH) com 600mL de uma solução aquosa (que era 10% em massa de KOH). Considerando as densidades das soluções inicial e final iguais a $\\\\frac{1g}{mL}$, assinale o que for correto.",
       subItens: []
     },
     options: ["A solução inicial de NaOH era constituída por 376g de água e por 24g de NaOH.","A massa total da solução final é 1 kg.","O título da solução final é de 6% em KOH e de 1,2% em NaOH.","As concentrações inicial e final de NaOH equivalem a 0,75mol/L e a 0,3mol/L, respectivamente.","A solução final encontra-se mais concentrada que as soluções iniciais."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Assinale o que for correto sobre o poema abaixo e sobre seu autor, Cruz e Sousa.\n\"Música da morte...\"\nA música da Morte, a nebulosa,\nEstranha, imensa música sombria,\nPassa a tremer pela minh'alma e fria\nGela, fica a tremer, maravilhosa...\nOnda nervosa e atroz, onda nervosa,\nLetes sinistro e torvo da agonia,\nRecresce a lancinante sinfonia,\nSobe, numa volúpia dolorosa...\nSobe, recresce, tumultuando e amarga,\nTremenda, absurda, imponderada e larga,\nDe pavores e trevas alucina...\nE alucinando e em trevas delirando,\nComo um ópio letal, vertiginando,\nOs meus nervos, letárgica, fascina...\n(CRUZ E SOUSA, J. Poesias completas. São Paulo: Ediouro,\$1_{1997}$, p. 104)\nVocabulário\nLetes: rio mitológico cujas águas, uma vez bebidas,\npromoviam o esquecimento.\nLancinante: muito dolorosa.\nLetárgica: adormecida, insensível, indiferente.",
+      principal: "Assinale o que for correto sobre o poema abaixo e sobre seu autor, Cruz e Sousa.\n\"Música da morte...\"\nA música da Morte, a nebulosa,\nEstranha, imensa música sombria,\nPassa a tremer pela minh'alma e fria\nGela, fica a tremer, maravilhosa...\nOnda nervosa e atroz, onda nervosa,\nLetes sinistro e torvo da agonia,\nRecresce a lancinante sinfonia,\nSobe, numa volúpia dolorosa...\nSobe, recresce, tumultuando e amarga,\nTremenda, absurda, imponderada e larga,\nDe pavores e trevas alucina...\nE alucinando e em trevas delirando,\nComo um ópio letal, vertiginando,\nOs meus nervos, letárgica, fascina...\n(CRUZ E SOUSA, J. Poesias completas. São Paulo: Ediouro,\n1997, p. 104)\nVocabulário\nLetes: rio mitológico cujas águas, uma vez bebidas,\npromoviam o esquecimento.\nLancinante: muito dolorosa.\nLetárgica: adormecida, insensível, indiferente.",
       subItens: []
     },
     options: ["A obra de Cruz e Sousa, em uma tendência que pode ser verificada no poema “Música da morte...”, reitera a visão segundo a qual o intelecto deve se sobrepor a qualquer forma de evasão, postura esta evidenciada na crítica moralizadora frente a drogas, como o ópio presente na última estrofe.","O poema apresenta seu tema (a inevitabilidade orgânica da morte) por meio de imagens simples e diretas, evitando o caráter sugestivo e em consonância com o cientificismo do início do século XIX.","A utilização, no poema \"Música da morte...\", de uma forma fixa como a balada, bem como a opção pelo verso regular alexandrino, marca uma exceção na produção poética em verso de Cruz e Sousa, muito mais afeita à liberdade formal.","O poema apresenta aspectos marcantes da escola simbolista, tais como a expressiva musicalidade que pode ser verificada na repetição sonora presente, considerando-se apenas a primeira estrofe, em vocábulos como \"música\", \"Morte\", \"imensa”, “tremer”, “minha\", \"alma\" e \"maravilhosa\".","O poema “Música da morte...” é ilustrativo da adesão de Cruz e Sousa ao projeto literário simbolista. Realidade subjetiva, linguagem carregada de símbolos, musicalidade e uso de reticências são algumas das marcas da sua produção artística."],

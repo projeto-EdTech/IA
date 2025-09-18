@@ -273,7 +273,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2018,
     text: {
-      principal: "O som do rádio chega até nós codificado nas ondas eletromagnéticas emitidas pelas antenas das emissoras. Sabendo que 1 MHz é igual a 10⁶ Hz e considerando a velocidade de propagação das ondas eletromagnéticas no ar igual a 3,0 × 10⁸ m/s, o comprimento de onda e o período das ondas emitidas por uma emissora de rádio que opera com frequência de 100 MHz são, respectivamente,",
+      principal: "O som do rádio chega até nós codificado nas ondas eletromagnéticas emitidas pelas antenas das emissoras. Sabendo que 1 MHz é igual a 10⁶ Hz e considerando a velocidade de propagação das ondas eletromagnéticas no ar igual a 3,0 × 10⁸ $\\\\frac{m}{s}$, o comprimento de onda e o período das ondas emitidas por uma emissora de rádio que opera com frequência de 100 MHz são, respectivamente,",
       subItens: []
     },
     options: ["1,0 m e 1,0 × 10⁻⁸ s.","1,0 m e 3,0 × 10⁻⁸ s.","3,0 m e 1,0 × 10⁻⁶ s.","3,0 m e 3,0 × 10⁻⁶ s.","3,0 m e 1,0 × 10⁻⁸ s."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2018,
     text: {
-      principal: "Um objeto foi lançado obliquamente a partir de uma superfície plana e horizontal de modo que o valor da componente vertical de sua velocidade inicial era voy = 30 m/s e o da componente horizontal era vox = 8,0 m/s. Considerando a aceleração gravitacional igual a 10 m/s² e desprezando a resistência do ar, o alcance horizontal do objeto foi",
+      principal: "Um objeto foi lançado obliquamente a partir de uma superfície plana e horizontal de modo que o valor da componente vertical de sua velocidade inicial era voy = 30 $\\\\frac{m}{s}$ e o da componente horizontal era vox = 8,0 $\\\\frac{m}{s}$. Considerando a aceleração gravitacional igual a 10 $\\\\frac{m}{s}$² e desprezando a resistência do ar, o alcance horizontal do objeto foi",
       subItens: []
     },
     options: ["12 m.","24 m.","48 m.","78 m.","240 m."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2018,
     text: {
-      principal: "No interior das válvulas que comandavam os tubos dos antigos televisores, os elétrons eram acelerados por um campo elétrico. Suponha que um desses campos, uniforme e de intensidade 4,0 × 10² N/C, acelerasse um elétron durante um percurso de 5,0 × 10⁻⁴ m. Sabendo que o módulo da carga elétrica do elétron é 1,6 × 10⁻¹⁹ C, a energia adquirida pelo elétron nesse deslocamento era de",
+      principal: "No interior das válvulas que comandavam os tubos dos antigos televisores, os elétrons eram acelerados por um campo elétrico. Suponha que um desses campos, uniforme e de intensidade 4,0 × 10² $\\\\frac{N}{C}$, acelerasse um elétron durante um percurso de 5,0 × 10⁻⁴ m. Sabendo que o módulo da carga elétrica do elétron é 1,6 × 10⁻¹⁹ C, a energia adquirida pelo elétron nesse deslocamento era de",
       subItens: []
     },
     options: ["2,0 x 10⁻²⁵ J.","3,2 × 10⁻²⁰ J.","8,0 × 10⁻¹⁹ J.","1,6 × 10⁻¹⁷ J.","1,3 × 10⁻¹³ J."],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2018,
     text: {
-      principal: "Para que um satélite seja utilizado para transmissões de televisão, quando em órbita, deve ter a mesma velocidade angular de rotação da Terra, de modo que se mantenha sempre sobre um mesmo ponto da superfície terrestre.\nConsiderando R o raio da órbita do satélite, dado em km, o módulo da velocidade escalar do satélite, em km/h, em torno do centro de sua órbita, considerada circular, é",
+      principal: "Para que um satélite seja utilizado para transmissões de televisão, quando em órbita, deve ter a mesma velocidade angular de rotação da Terra, de modo que se mantenha sempre sobre um mesmo ponto da superfície terrestre.\nConsiderando R o raio da órbita do satélite, dado em km, o módulo da velocidade escalar do satélite, em $\\\\frac{km}{h}$, em torno do centro de sua órbita, considerada circular, é",
       subItens: []
     },
     options: ["(π/24) . R.","(π/12) . R.","π. R.","2π. R.","12π. R."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2018,
     text: {
-      principal: "Os xaropes são soluções concentradas de açúcar (sacarose). Em uma receita caseira, são utilizados 500 g de açúcar para cada 1,5 L de água. Nesse caso, a concentração mol/L de sacarose nesse xarope é de, aproximadamente,\nDado:\nMassa molar da sacarose = 342 g/mol",
+      principal: "Os xaropes são soluções concentradas de açúcar (sacarose). Em uma receita caseira, são utilizados 500 g de açúcar para cada 1,5 L de água. Nesse caso, a concentração $\\\\frac{mol}{L}$ de sacarose nesse xarope é de, aproximadamente,\nDado:\nMassa molar da sacarose = 342 $\\\\frac{g}{mol}$",
       subItens: []
     },
     options: ["2,5.","1,5.","2,0.","1,0.","3,0."],

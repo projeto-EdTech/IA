@@ -123,7 +123,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Diversos modelos de placas de identificação de veículos já foram adotados no Brasil. Considere os seguintes modelos de placas e a descrição de sua composição alfanumérica:\nModelo 1: $1_{123}$ (duas letras seguidas de três números)\nModelo 2: $1_{1234}$ (duas letras seguidas de quatro números)\nModelo 3: $1_{1234}$ (três letras seguidas de quatro números)\nModelo 4: ABC1D23 (três letras seguidas de um número, uma letra e dois números)\nSejam $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$ e $1_{4}_{}$ as quantidades das combinações alfanuméricas possíveis para os modelos 1, 2, 3 e 4, respectivamente. Os números $1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$ e $1_{4}_{}$ são termos de uma progressão aritmética com infinitos termos com a maior razão possível. A soma dos algarismos da razão dessa progressão é:\nObservação: • considere o alfabeto com 26 letras.",
+      principal: "Diversos modelos de placas de identificação de veículos já foram adotados no Brasil. Considere os seguintes modelos de placas e a descrição de sua composição alfanumérica:\nModelo 1: AB_{123} (duas letras seguidas de três números)\nModelo 2: AB_{1234} (duas letras seguidas de quatro números)\nModelo 3: ABC_{1234} (três letras seguidas de quatro números)\nModelo 4: ABC1D23 (três letras seguidas de um número, uma letra e dois números)\nSejam C_{1}, C_{2}, C_{3} e C_{4} as quantidades das combinações alfanuméricas possíveis para os modelos 1, 2, 3 e 4, respectivamente. Os números C_{1}, C_{2}, C_{3} e C_{4} são termos de uma progressão aritmética com infinitos termos com a maior razão possível. A soma dos algarismos da razão dessa progressão é:\nObservação: • considere o alfabeto com 26 letras.",
       subItens: []
     },
     options: ["11","12","14","16","19"],
@@ -138,10 +138,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Considere a progressão geométrica $1_{1}$, $1_{2}$,…,an,… e a progressão aritmética $1_{1}$, $1_{2}$,…, bn,… com as condições:\na₁ > 0;\$1_{2}$/$1_{1}$ > 1; e\$1_{2}$-b₁ > 0\nPara que [loga(an) – bn] não dependa de n, o valor de a deverá ser:",
+      principal: "Considere a progressão geométrica a_{1}, a_{2},…,an,… e a progressão aritmética b_{1}, b_{2},…, bn,… com as condições:\na₁ > 0;\n$\\\\frac{a_{2}}{a_{1}}$ > 1; e\nb_{2}-b₁ > 0\nPara que [loga(an) – bn] não dependa de n, o valor de a deverá ser:",
       subItens: []
     },
-    options: ["($1_{2}$/a₁)^(1/$1_{2}$)","($1_{2}$/$1_{1}$)^(1/b₁)","($1_{2}$/a₁)^(1/($1_{2}$-b₁))","($1_{2}$/a₁)^(1/($1_{1}$-$1_{2}$))","($1_{2}$/a₁)^(1/b1b2)"],
+    options: ["(a2/a₁)^(1/b2)","(a2/a1)^(1/b₁)","(a2/a₁)^(1/(b2-b₁))","(a2/a₁)^(1/(b1-b2))","(a2/a₁)^(1/b1b2)"],
     correctAnswer: 2,
     materia: "Matemática – Progressão Geométrica",
     conteudo: "Matemática – Progressão Aritmética",
@@ -153,7 +153,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Todos os arcos entre 0 e 2π radianos que satisfazem a desigualdade\nsenx - 1/2 > cosx + √3/2\nestão compreendidos entre:",
+      principal: "Todos os arcos entre 0 e 2π radianos que satisfazem a desigualdade\nsenx - $\\\\frac{1}{2}$ > cosx + √$\\\\frac{3}{2}$\nestão compreendidos entre:",
       subItens: []
     },
     options: ["π/12 e π/6","5π/12 e 7π/12","2π/3 e 5π/6","π e π/2","5π/6 e 11π/12"],
@@ -198,7 +198,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Em um cubo regular de aresta a, os pontos M, N e L pertencentes às três arestas distintas que partem do vértice A estão a uma distância x de A tal que 0 < x ≤ a/2. Para que plano MNL seja tangente à esfera inscrita no cubo, o valor de x é:",
+      principal: "Em um cubo regular de aresta a, os pontos M, N e L pertencentes às três arestas distintas que partem do vértice A estão a uma distância x de A tal que 0 < x ≤ $\\\\frac{a}{2}$. Para que plano MNL seja tangente à esfera inscrita no cubo, o valor de x é:",
       subItens: []
     },
     options: ["a/2(√3 - 1)","a/2(3 - √3)","a/2(2 - √3)","a/2(4 - 2√3)","a√3/2"],
@@ -228,7 +228,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Uma fonte sonora de frequência fo é arremessada verticalmente para cima, com velocidade inicial vo, de um ponto da superfície terrestre no qual a aceleração da gravidade é g.\nDados:\n• aceleração da gravidade: g = 9,8 m/s²; e\n• velocidade inicial da fonte sonora: vo = 98 m/s.\nNota: despreze a resistência do ar e a variação da aceleração da gravidade com a altitude.\nA frequência f percebida 10 segundos mais tarde por um observador estático situado no local do arremesso é tal que",
+      principal: "Uma fonte sonora de frequência fo é arremessada verticalmente para cima, com velocidade inicial vo, de um ponto da superfície terrestre no qual a aceleração da gravidade é g.\nDados:\n• aceleração da gravidade: g = 9,8 $\\\\frac{m}{s}$²; e\n• velocidade inicial da fonte sonora: vo = 98 $\\\\frac{m}{s}$.\nNota: despreze a resistência do ar e a variação da aceleração da gravidade com a altitude.\nA frequência f percebida 10 segundos mais tarde por um observador estático situado no local do arremesso é tal que",
       subItens: []
     },
     options: ["0 < f < fo","f = fo","fo < f < 2 fo","f = 2 fo","f > 2 fo"],
@@ -243,7 +243,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Um sistema mecânico, composto por um corpo de massa M conectado a uma mola, está inicialmente em equilíbrio mecânico e em repouso sobre uma superfície horizontal sem atrito, conforme mostra a figura. Um projétil esférico de massa m é disparado na direção horizontal contra a massa M, provocando um choque perfeitamente inelástico que inicia uma oscilação no sistema.\nDados:\n• M = 10 kg;\n• m = 2 kg;\n• amplitude de oscilação do sistema = 0,4 m; e\n• frequência angular = 2 rad/s\nA velocidade do projétil antes do choque entre as massas M e m, em m/s, é:",
+      principal: "Um sistema mecânico, composto por um corpo de massa M conectado a uma mola, está inicialmente em equilíbrio mecânico e em repouso sobre uma superfície horizontal sem atrito, conforme mostra a figura. Um projétil esférico de massa m é disparado na direção horizontal contra a massa M, provocando um choque perfeitamente inelástico que inicia uma oscilação no sistema.\nDados:\n• M = 10 kg;\n• m = 2 kg;\n• amplitude de oscilação do sistema = 0,4 m; e\n• frequência angular = 2 $\\\\frac{rad}{s}$\nA velocidade do projétil antes do choque entre as massas M e m, em $\\\\frac{m}{s}$, é:",
       subItens: []
     },
     options: ["0,8","1,6","2,4","4,8","9,6"],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Em um experimento, uma fonte laser emite um pulso luminoso instantâneo, que é refletido por um espelho plano (MR), girando em velocidade angular constante ω. Um outro espelho fixo, côncavo e circular (MF), encontra-se acima da fonte laser, ambos localizados a uma distância L = 3 km de MR, conforme mostra a figura. O centro de curvatura (C) de MF localiza-se no ponto onde a luz do laser encontra MR e coincide com seu centro de rotação.\nDado:\n• velocidade da luz: c = 3 x 10⁸ m/s.\nObservações:\n• a posição de MR e MF são tais que o feixe consegue chegar a MF, pelo menos, duas vezes; e\n• despreze o comprimento da fonte laser.\nPara que o pulso luminoso seja refletido em MF pela 2ª vez, a um comprimento de arco Δs = 30 cm do 1º ponto de reflexão, o valor de ω, em rad/s, é:",
+      principal: "Em um experimento, uma fonte laser emite um pulso luminoso instantâneo, que é refletido por um espelho plano (MR), girando em velocidade angular constante ω. Um outro espelho fixo, côncavo e circular (MF), encontra-se acima da fonte laser, ambos localizados a uma distância L = 3 km de MR, conforme mostra a figura. O centro de curvatura (C) de MF localiza-se no ponto onde a luz do laser encontra MR e coincide com seu centro de rotação.\nDado:\n• velocidade da luz: c = 3 x 10⁸ $\\\\frac{m}{s}$.\nObservações:\n• a posição de MR e MF são tais que o feixe consegue chegar a MF, pelo menos, duas vezes; e\n• despreze o comprimento da fonte laser.\nPara que o pulso luminoso seja refletido em MF pela 2ª vez, a um comprimento de arco Δs = 30 cm do 1º ponto de reflexão, o valor de ω, em $\\\\frac{rad}{s}$, é:",
       subItens: []
     },
     options: ["1,25","2,50","3,33","5,00","10,00"],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2020,
     text: {
-      principal: "Uma fonte luminosa A emite uma luz com comprimento de onda λ = 500 nm, no vácuo, na direção de um anteparo localizado em C. Em frente ao espelho localizado em B, encontra-se a película P₁ com índice de refração n₁ = 1,25 e, em frente ao espelho localizado em D, encontra-se uma a película $1_{2}_{}$ com índice de refração $1_{2}$.\nObservações:\n• os espelhos equidistam do centro do anteparo C;\n• após ser emitido do ponto A, o feixe de luz reflete em direção a B e refrata em direção a D;\n• após refletir em B, o feixe refrata diretamente em direção a E; e\n• após refletir em D, o feixe volta a refletir totalmente em C em direção a E.\nO menor índice de refração n₂ para que ocorra interferência totalmente destrutiva para um observador localizado em E, é",
+      principal: "Uma fonte luminosa A emite uma luz com comprimento de onda λ = 500 nm, no vácuo, na direção de um anteparo localizado em C. Em frente ao espelho localizado em B, encontra-se a película P₁ com índice de refração n₁ = 1,25 e, em frente ao espelho localizado em D, encontra-se uma a película P_{2} com índice de refração n_{2}.\nObservações:\n• os espelhos equidistam do centro do anteparo C;\n• após ser emitido do ponto A, o feixe de luz reflete em direção a B e refrata em direção a D;\n• após refletir em B, o feixe refrata diretamente em direção a E; e\n• após refletir em D, o feixe volta a refletir totalmente em C em direção a E.\nO menor índice de refração n₂ para que ocorra interferência totalmente destrutiva para um observador localizado em E, é",
       subItens: []
     },
     options: ["1,00","1,05","1,15","1,20","1,25"],

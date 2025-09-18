@@ -23,95 +23,87 @@ function letraParaIndice(letra) {
 }
 
 /**
- * Função que replica a lógica do script Python para formatar fórmulas para LaTeX.
- * Aplica uma série de substituições baseadas em regex.
+ * Função aprimorada para formatar fórmulas para LaTeX, segura para JSON.
+ * A chave é "escapar" as barras invertidas para que elas sobrevivam ao JSON.stringify.
  * @param {string} texto O conteúdo a ser formatado.
- * @returns {string} O conteúdo com as fórmulas formatadas.
+ * @returns {string} O conteúdo com as fórmulas formatadas para LaTeX.
  */
 function formatarFormulasLatex(texto) {
-  // Dicionário de regras de substituição: [padrão_regex, substituição_latex]
-  // A ordem é importante: das mais específicas para as mais gerais.
+  // ADICIONE AQUI NOVAS REGRAS PARA CORRIGIR ERROS FUTUROS
   const substituicoes = [
+    // --- Regra para escapar barras invertidas existentes (importante rodar primeiro) ---
+    // Se o texto já tiver um \theta, garante que ele vire \\theta
+    [/\\(theta|frac|sin|vec|cdot|rightarrow|le|Delta)/g, '\\\\$1'],
+    
     // --- Notação Científica --- Ex: 1,0 x 10^-8  ->  $1,0 \times 10^{-8}$
+    // Nota: A substituição agora usa \\ para escapar a barra invertida do \times.
     [/(\d[\d,.]*)\s*[x×]\s*10\^?(-?\d+)/g, '$$1 \\times 10^{$2}$'],
 
-    // --- Equações Químicas completas --- Ex: CH4 + 2O2 -> CO2 + 2H2O
-    // Usamos uma função de callback para processamento mais complexo
-    [/([A-Z0-9\s()]+)\s*->\s*([A-Z0-9\s+()]+)/g, (match) => {
-      let eq = match.replace(/->/g, '\\rightarrow');
-      eq = eq.replace(/([A-Za-z])(\d+)/g, '$1_{$2}'); // Adiciona subscrito
+    // --- Equações Químicas (Ex: 2H2 + O2 -> 2H2O) ---
+    // A função de callback agora insere \\rightarrow e formata subscritos
+    [/([A-Z0-9\s()+]+?)\s*->\s*([A-Z0-9\s+()]+)/g, (match, reagentes, produtos) => {
+      const formatarLado = (lado) => lado.trim().replace(/\b([A-Za-z]+)(\d+)/g, '$1_{$2}');
+      const eq = `${formatarLado(reagentes)} \\rightarrow ${formatarLado(produtos)}`;
       return `$$${eq}$$`;
     }],
 
-    // --- Símbolos e Variáveis Específicas ---
-    [/\b(lambda|theta|heta|alpha|pi)\b/g,(match) => {
-        const comandoCorreto = (match === 'heta') ? 'theta' : match;
-        return `$\\${comandoCorreto}$`;
-      }
-    ],
+    // --- Símbolos e Variáveis (Ex: heta, theta_L, sen theta_L = n2/n1) ---
+    // Regra corrigida para 'heta' e outros símbolos
+    [/\b(lambda|theta|heta|alpha|pi)\b/g, (match) => {
+      const comandoCorreto = (match === 'heta') ? 'theta' : match;
+      return `$\\${comandoCorreto}$`;
+    }],
+    // Regra para frações (Ex: n2/n1)
+    [/\b(\w+)\/(\w+)\b/g, '$\\frac{$1}{$2}$'],
+    
+    // --- Demais regras do seu script original ---
     [/\bDelta_L\b/g, '$\\Delta L$'],
-    [/<=/g, '\\le'],
-
-    // --- Fórmulas Químicas (ex: H2O, CO2, NaHCO3) ---
-    [/\b([A-Z][a-z]*)(\d+)([A-Z]*)(\d*)\b/g, '$$1_{$2}$3_{$4}$'],
-    [/\b([A-Z])(\d+)\b/g, '$$1_{$2}$'],
-
-    // --- Íons (ex: Li+, Na+) ---
-    [/\b(Li|Na)\+/g, '$$1^+$'],
-
-    // --- Variáveis com números (ex: a1, T0, Vco2) ---
-    [/\b([A-Za-z]+)(\d+)\b/g, '$$1_{$2}$'],
-
-    // --- Funções com expoentes (ex: x^2, 1s^2) ---
-    [/(\w+)\^(\d+)\b/g, '$$1^{$2}$'],
+    [/<=/g, '$\\le$'],
+    [/\b([A-Z][a-z]?)(\d+)/g, '$1_{$2}'],
+    [/\b(Li|Na)\+/g, '$1^+$'],
+    [/\b([A-Za-z]+)(\d+)\b/g, '$1_{$2}'],
+    [/(\w+)\^(\d+)\b/g, '$1^{$2}$'],
   ];
 
   let textoFormatado = texto;
-  // Aplica cada regra de substituição
   for (const [padrao, substituicao] of substituicoes) {
     textoFormatado = textoFormatado.replace(padrao, substituicao);
   }
 
-  return textoFormatado;
+  // Etapa final: Escapar todas as barras para a string JS final
+  // Transforma `$\theta$` em `$\\theta$` para que o JS leia corretamente.
+  // Esta é uma garantia extra.
+  return textoFormatado.replace(/\\/g, '\\\\');
 }
 
 
-// Lê todos os arquivos do diretório de entrada
-fs.readdir(inputDir, (err, files) => {
-  if (err) {
-    return console.error('Não foi possível ler o diretório:', err);
+/**
+ * NOVA FUNÇÃO: Processa um único objeto de questão e retorna a string formatada.
+ * @param {object} q - O objeto da questão do JSON.
+ * @param {object} data - Os dados gerais da prova (nome, ano).
+ * @returns {string} A string formatada `createQuestion({...})`.
+ */
+function processarQuestao(q, data) {
+  // 1. Extrai o enunciado principal e os sub-itens
+  const subItens = [];
+  const regex = /(Texto\s+\d+)([\s\S]*?)(?=Texto\s+\d+|$)/gi;
+  let match;
+  const enunciadoOriginal = q.enunciado || '';
+  while ((match = regex.exec(enunciadoOriginal)) !== null) {
+    subItens.push({
+      titulo: match[1].trim(),
+      conteudo: match[2].trim()
+    });
   }
+  let principal = enunciadoOriginal.replace(regex, '').trim();
 
-  // Filtra apenas por arquivos .json
-  files.filter(file => path.extname(file) === '.json').forEach(file => {
-    const inputFilePath = path.join(inputDir, file);
-    const outputFileName = path.basename(file, '.json') + '.js';
-    const outputFilePath = path.join(outputDir, outputFileName);
+  // 2. Aplica a formatação LaTeX APENAS no texto do enunciado
+  principal = formatarFormulasLatex(principal);
+  // Você também pode aplicar nos subItens se necessário
+  // subItens.forEach(item => item.conteudo = formatarFormulasLatex(item.conteudo));
 
-    try {
-      // Lê o arquivo JSON original
-      const data = JSON.parse(fs.readFileSync(inputFilePath, 'utf8'));
-
-      if (!data.questoes || !Array.isArray(data.questoes)) {
-        console.warn(`Arquivo ${file} não tem a estrutura esperada. Pulando.`);
-        return;
-      }
-
-      // 1. CONSTRÓI A SAÍDA no formato createQuestion
-      const outputInicial = data.questoes.map(q => {
-        const subItens = [];
-        const regex = /(Texto\s+\d+)([\s\S]*?)(?=Texto\s+\d+|$)/gi;
-        let match;
-        const enunciadoLimpo = q.enunciado || '';
-        while ((match = regex.exec(enunciadoLimpo)) !== null) {
-          subItens.push({
-            titulo: match[1].trim(),
-            conteudo: match[2].trim()
-          });
-        }
-        const principal = enunciadoLimpo.replace(/Texto\s+\d+[\s\S]*?(?=Texto\s+\d+|$)/gi, '').trim();
-
-        return `createQuestion({
+  // 3. Monta a string de saída, usando JSON.stringify para segurança
+  const questaoFormatada = `createQuestion({
     id: ${q.numeroEnunciado},
     university: "${data.nomeProva}",
     year: ${data.ano},
@@ -121,18 +113,38 @@ fs.readdir(inputDir, (err, files) => {
     },
     options: ${JSON.stringify((q.alternativas || []).map(a => a.texto))},
     correctAnswer: ${letraParaIndice(q.opcaoCorreta)},
-    materia: "${(q.conteudo && q.conteudo[0]) || ''}",
-    conteudo: "${(q.conteudo && q.conteudo[1]) || ''}",
+    materia: "${(q.conteudo && q.conteudo[0]) ? q.conteudo[0] : ''}",
+    conteudo: "${(q.conteudo && q.conteudo[1]) ? q.conteudo[1] : ''}",
     imageNames: []
   }),`;
-      }).join('\n\n');
+  
+  return questaoFormatada;
+}
 
-      // 2. APLICA A FORMATAÇÃO LATEX na saída gerada
-      console.log(`Formatando fórmulas LaTeX para ${outputFileName}...`);
-      const outputFinalFormatado = formatarFormulasLatex(outputInicial);
 
-      // 3. SALVA A SAÍDA final formatada
-      fs.writeFileSync(outputFilePath, outputFinalFormatado, 'utf8');
+// --- FLUXO PRINCIPAL (MAIS LIMPO) ---
+fs.readdir(inputDir, (err, files) => {
+  if (err) {
+    return console.error('Não foi possível ler o diretório:', err);
+  }
+
+  files.filter(file => path.extname(file) === '.json').forEach(file => {
+    const inputFilePath = path.join(inputDir, file);
+    const outputFileName = path.basename(file, '.json') + '.js';
+    const outputFilePath = path.join(outputDir, outputFileName);
+
+    try {
+      const data = JSON.parse(fs.readFileSync(inputFilePath, 'utf8'));
+
+      if (!data.questoes || !Array.isArray(data.questoes)) {
+        console.warn(`Arquivo ${file} não tem a estrutura esperada. Pulando.`);
+        return;
+      }
+
+      // Mapeia cada questão usando a nova função de processamento
+      const outputFinal = data.questoes.map(q => processarQuestao(q, data)).join('\n\n');
+
+      fs.writeFileSync(outputFilePath, outputFinal, 'utf8');
       console.log(`Arquivo convertido e formatado: ${outputFileName}`);
 
     } catch (parseError) {

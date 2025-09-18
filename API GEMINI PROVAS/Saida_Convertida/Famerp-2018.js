@@ -738,7 +738,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 50\nO quadro ilustra um experimento que utilizou ervilhas de cheiro, em que as plantas parentais (P) eram de linhagens puras.\n\nTABELA:\nP: ervilha lisa e amarela ($1_{1}_{}$) x ervilha rugosa e verde ($1_{2}_{}$)\$1_{1}$: 100% ervilha lisa e amarela\$1_{1}$ x $1_{2}_{}$: ervilha lisa e amarela x ervilha rugosa e verde\$1_{2}$: 25% ervilha lisa e amarela, 25% ervilha lisa e verde, 25% ervilha rugosa e amarela, 25% ervilha rugosa e verde\n\nOs resultados obtidos em $1_{2}_{}$ permitiram concluir que os genes que determinam a forma e os genes que determinam a cor das ervilhas",
+      principal: "QUESTÃO 50\nO quadro ilustra um experimento que utilizou ervilhas de cheiro, em que as plantas parentais (P) eram de linhagens puras.\n\nTABELA:\nP: ervilha lisa e amarela (P_{1}) x ervilha rugosa e verde (P_{2})\nF_{1}: 100% ervilha lisa e amarela\nF_{1} x P_{2}: ervilha lisa e amarela x ervilha rugosa e verde\nF_{2}: 25% ervilha lisa e amarela, 25% ervilha lisa e verde, 25% ervilha rugosa e amarela, 25% ervilha rugosa e verde\n\nOs resultados obtidos em F_{2} permitiram concluir que os genes que determinam a forma e os genes que determinam a cor das ervilhas",
       subItens: []
     },
     options: ["estão no mesmo par de cromossomos homólogos.","se combinaram de tal modo que revelaram um desacordo com a 2ª Lei de Mendel.","se combinaram de diferentes formas por causa da permutação.","distam 25 centimorgans por estarem no mesmo par de cromossomos homólogos.","estão em diferentes pares de cromossomos homólogos."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 52\nAnalise a tabela, que mostra a composição de alguns minerais de ferro.\n\nTABELA: Minerais de ferro, sua Composição e Massa molar (g/mol).\n- Goethita: Fe₂O₃.H₂O, 178 g/mol\n- Hematita: Fe₂O₃, 160 g/mol\n- Pirita: FeS₂, 120 g/mol\n- Siderita: FeCO₃, 116 g/mol\n\nOs minerais que apresentam maior e menor porcentagem em massa de ferro são, respectivamente,",
+      principal: "QUESTÃO 52\nAnalise a tabela, que mostra a composição de alguns minerais de ferro.\n\nTABELA: Minerais de ferro, sua Composição e Massa molar ($\\\\frac{g}{mol}$).\n- Goethita: Fe₂O₃.H₂O, 178 $\\\\frac{g}{mol}$\n- Hematita: Fe₂O₃, 160 $\\\\frac{g}{mol}$\n- Pirita: FeS₂, 120 $\\\\frac{g}{mol}$\n- Siderita: FeCO₃, 116 $\\\\frac{g}{mol}$\n\nOs minerais que apresentam maior e menor porcentagem em massa de ferro são, respectivamente,",
       subItens: []
     },
     options: ["hematita e pirita.","goethita e hematita.","hematita e siderita.","goethita e pirita.","pirita e siderita."],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 53\nUm isqueiro descartável contém gás isobutano (C₄H₁₀). Mesmo após o uso total desse isqueiro, resta um resíduo do gás em seu interior. Considerando que o volume desse resíduo seja igual a 1 mL e que o volume molar de gás nas condições de pressão e temperatura no interior do isqueiro seja 25 L/mol, a massa de isobutano restante no isqueiro é, aproximadamente,",
+      principal: "QUESTÃO 53\nUm isqueiro descartável contém gás isobutano (C₄H₁₀). Mesmo após o uso total desse isqueiro, resta um resíduo do gás em seu interior. Considerando que o volume desse resíduo seja igual a 1 mL e que o volume molar de gás nas condições de pressão e temperatura no interior do isqueiro seja 25 $\\\\frac{L}{mol}$, a massa de isobutano restante no isqueiro é, aproximadamente,",
       subItens: []
     },
     options: ["3 mg.","4 mg.","1 mg.","2 mg.","5 mg."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 55\nSoluções aquosas de amônia e de soda cáustica, de iguais concentrações em mol/L,",
+      principal: "QUESTÃO 55\nSoluções aquosas de amônia e de soda cáustica, de iguais concentrações em $\\\\frac{mol}{L}$,",
       subItens: []
     },
     options: ["conduzem igualmente corrente elétrica.","apresentam pH < 7 a 25 °С.","reagem com ácidos gerando sais e água.","são neutralizadas com água de cal.","têm a mesma concentração de íons OH-."],
@@ -903,7 +903,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 61\nNo interior de um vagão hermeticamente fechado que se move horizontalmente em trajetória retilínea com velocidade 4,0 m/s em relação ao solo, uma pessoa arremessa uma pequena esfera verticalmente para cima, com velocidade 3,0 m/s em relação ao vagão.\n\nIMAGEM: Três figuras de um vagão em movimento, mostrando uma pessoa arremessando uma esfera para cima. A esfera retorna à mão da pessoa, apesar do vagão estar em movimento. Velocidade do vagão indicada como 4,0 m/s. Vetor de velocidade da esfera em relação ao vagão indicado como 3,0 m/s para cima.\n\n(http://portaldoprofessor.mec.gov.br. Adaptado.)\n\nDesprezando o atrito com o ar, os módulos das velocidades da esfera, em relação ao solo, no ponto mais alto de sua trajetória e no instante em que retorna à mão da pessoa são, respectivamente,",
+      principal: "QUESTÃO 61\nNo interior de um vagão hermeticamente fechado que se move horizontalmente em trajetória retilínea com velocidade 4,0 $\\\\frac{m}{s}$ em relação ao solo, uma pessoa arremessa uma pequena esfera verticalmente para cima, com velocidade 3,0 $\\\\frac{m}{s}$ em relação ao vagão.\n\nIMAGEM: Três figuras de um vagão em movimento, mostrando uma pessoa arremessando uma esfera para cima. A esfera retorna à mão da pessoa, apesar do vagão estar em movimento. Velocidade do vagão indicada como 4,0 $\\\\frac{m}{s}$. Vetor de velocidade da esfera em relação ao vagão indicado como 3,0 $\\\\frac{m}{s}$ para cima.\n\n(http://portaldoprofessor.mec.gov.br. Adaptado.)\n\nDesprezando o atrito com o ar, os módulos das velocidades da esfera, em relação ao solo, no ponto mais alto de sua trajetória e no instante em que retorna à mão da pessoa são, respectivamente,",
       subItens: []
     },
     options: ["4,0 m/s e 3,0 m/s.","zero e 5,0 m/s.","4,0 m/s e 5,0 m/s.","zero e 3,0 m/s.","5,0 m/s e zero."],
@@ -951,7 +951,7 @@ createQuestion({
       principal: "QUESTÃO 64\nUm satélite de massa m foi colocado em órbita ao redor da Terra a uma altitude h em relação à superfície do planeta, com velocidade angular ω.\n\nIMAGEM: Desenho esquemático da Terra com um satélite orbitando. O satélite tem massa 'm' e está a uma altitude 'h' da superfície terrestre. O raio da Terra (R) e a distância do centro da Terra ao satélite (R+h) são indicados.\n\n(www.inpe.br. Adaptado.)\n\nPara que um satélite de massa 2∙m possa ser colocado em órbita ao redor da Terra, na mesma altitude h, sua velocidade angular deve ser",
       subItens: []
     },
-    options: ["3.ω\$1_{4}$","ω","2ω","ω\$1_{2}$","4.ω\$1_{3}$"],
+    options: ["3.ω\n4","ω","2ω","ω\n2","4.ω\n3"],
     correctAnswer: 1,
     materia: "Física – Gravitação Universal",
     conteudo: "",
@@ -1008,7 +1008,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 68\nA tabela mostra a classificação das ondas eletromagnéticas em função das suas frequências.\n\nTABELA: Região do espectro eletromagnético e Faixa de frequência (Hz).\n- Ondas de rádio: < 3,0 x 10⁹\n- Micro-ondas: 3,0 x 10⁹ a 3,0 × 10¹²\n- Infravermelho: 3,0 x 10¹² a 4,3 × 10¹⁴\n- Visível: 4,3 x 10¹⁴ a 7,5 × 10¹⁴\n- Ultravioleta: 7,5 x 10¹⁴ a 3,0 × 10¹⁷\n- Raios X: 3,0 x 10¹⁷ a 3,0 × 10¹⁹\n- Raios gama: > 3,0 x 10¹⁹\n\n(www.if.ufrgs.br. Adaptado.)\n\nConsidere que as ondas eletromagnéticas se propagam pelo ar com velocidade 3,0 × 10⁸ m/s aproximadamente e que um radar emite ondas eletromagnéticas de comprimento 2,0 cm. As ondas emitidas por esse radar são",
+      principal: "QUESTÃO 68\nA tabela mostra a classificação das ondas eletromagnéticas em função das suas frequências.\n\nTABELA: Região do espectro eletromagnético e Faixa de frequência (Hz).\n- Ondas de rádio: < 3,0 x 10⁹\n- Micro-ondas: 3,0 x 10⁹ a 3,0 × 10¹²\n- Infravermelho: 3,0 x 10¹² a 4,3 × 10¹⁴\n- Visível: 4,3 x 10¹⁴ a 7,5 × 10¹⁴\n- Ultravioleta: 7,5 x 10¹⁴ a 3,0 × 10¹⁷\n- Raios X: 3,0 x 10¹⁷ a 3,0 × 10¹⁹\n- Raios gama: > 3,0 x 10¹⁹\n\n(www.if.ufrgs.br. Adaptado.)\n\nConsidere que as ondas eletromagnéticas se propagam pelo ar com velocidade 3,0 × 10⁸ $\\\\frac{m}{s}$ aproximadamente e que um radar emite ondas eletromagnéticas de comprimento 2,0 cm. As ondas emitidas por esse radar são",
       subItens: []
     },
     options: ["infravermelho.","ultravioleta.","raios X.","micro-ondas.","ondas de rádio."],
@@ -1071,7 +1071,7 @@ createQuestion({
       principal: "QUESTÃO 72\nA figura indica um prisma reto triangular e uma pirâmide regular de base quadrada. A altura desses sólidos, em relação ao plano em que ambos estão apoiados, é igual a 4 cm, como indicam as figuras.\n\nIMAGEM: Dois sólidos geométricos: um prisma reto triangular e uma pirâmide regular de base quadrada. A altura de ambos é 4 cm. A base do prisma é um triângulo equilátero de lado 3 cm. A base da pirâmide é um quadrado, com lado não especificado.\n\nSe os sólidos possuírem o mesmo volume, a aresta da base da pirâmide, em centímetros, será igual a",
       subItens: []
     },
-    options: ["4√3\$1_{3}$","3√3\$1_{2}$","√3","3√3","6√3\$1_{3}$"],
+    options: ["4√3\n3","3√3\n2","√3","3√3","6√3\n3"],
     correctAnswer: 3,
     materia: "Matemática – Geometria Espacial",
     conteudo: "",
@@ -1098,7 +1098,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 74\nSendo x um número inteiro, a mediana do conjunto {3, 7, 2, –3, 13, 9, –1, x} de oito números é igual a 7/2. Dessa forma, x é igual a",
+      principal: "QUESTÃO 74\nSendo x um número inteiro, a mediana do conjunto {3, 7, 2, –3, 13, 9, –1, x} de oito números é igual a $\\\\frac{7}{2}$. Dessa forma, x é igual a",
       subItens: []
     },
     options: ["7.","3.","4.","6.","5."],
@@ -1116,7 +1116,7 @@ createQuestion({
       principal: "QUESTÃO 75\nAs figuras indicam uma sequência de empilhamentos de cubos de 1 cm³. Da primeira pilha em diante, os volumes das pilhas, em cm³, são iguais a 1, 5, 14, 30, 55, e assim sucessivamente.\n\nIMAGEM: Sequência de pilhas de cubos. A primeira tem 1 cubo (volume 1). A segunda tem 1 cubo na base e 4 em cima (total 5). A terceira tem 1+4+9 cubos (total 14). A quarta tem 1+4+9+16 (total 30).\n\nSabe-se que a soma 1 + 2² + 3² + 4² + 5² + ... + x² é um polinômio do terceiro grau, dado por P(x) = mx³ + nx² + px, com m, n e p racionais. Portanto, P(1) = 1, P(2) = 5, P(3) = 14, P(4) = 30 e assim por diante. Nas condições dadas, m é igual a",
       subItens: []
     },
-    options: ["1\$1_{2}$","5\$1_{6}$","2\$1_{3}$","1\$1_{6}$","1\$1_{3}$"],
+    options: ["1\n2","5\n6","2\n3","1\n6","1\n3"],
     correctAnswer: 4,
     materia: "Matemática – Progressões",
     conteudo: "Matemática – Polinômios",
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "QUESTÃO 77\nSabendo-se que uma das raízes da equação algébrica 2x³ – 3x² – 72x – 35 = 0 é –1/2, a soma das outras duas raízes é igual a",
+      principal: "QUESTÃO 77\nSabendo-se que uma das raízes da equação algébrica 2x³ – 3x² – 72x – 35 = 0 é –$\\\\frac{1}{2}$, a soma das outras duas raízes é igual a",
       subItens: []
     },
     options: ["-3.","3.","-2.","1.","2."],
@@ -1176,7 +1176,7 @@ createQuestion({
       principal: "QUESTÃO 79\nAs tomografias computadorizadas envolvem sobreposição de imagens e, em algumas situações, é necessário conhecer a área da região de intersecção das imagens sobrepostas. Na figura, um triângulo equilátero ABC se sobrepõe a um círculo de centro N e raio NB = NC = NM, com M e N sendo pontos médios, respectivamente, de AB e BC.\n\nIMAGEM: Diagrama de um triângulo equilátero ABC com um círculo. N é o centro do círculo e ponto médio de BC. M é o ponto médio de AB. O raio do círculo é NB = NC = NM. A área da intersecção é sombreada.\n\nSendo a área de triângulo equilátero de lado l igual a (l²√3)/4 e a área de círculo de raio r igual a πr², se o lado do triângulo ABC medir 4 cm, então, a área de intersecção entre o triângulo e o círculo, em cm², será igual a",
       subItens: []
     },
-    options: ["π+3√3","π+3√3\$1_{2}$","π + √3","2π +6√3\$1_{3}$","π+ 2√3"],
+    options: ["π+3√3","π+3√3\n2","π + √3","2π +6√3\n3","π+ 2√3"],
     correctAnswer: 3,
     materia: "Matemática – Geometria Plana",
     conteudo: "",
@@ -1191,7 +1191,7 @@ createQuestion({
       principal: "QUESTÃO 80\nObserve os gráficos das funções reais f e g, definidas por f(x) = 2sen x e g(x) = 4cos x.\n\nIMAGEM: Gráfico de duas funções, f(x) (linha mais sinuosa, parece senoidal) e g(x) (linha que começa alta e desce, parece cosseno). Há um ponto P(xp, yp) onde os gráficos se interceptam, com xp no primeiro quadrante.\n\nConsidere P(xp, yp) um ponto comum aos gráficos das funções f e g tal que xp, em radianos, é um ângulo do primeiro quadrante. Nessas condições, cos xp é igual a",
       subItens: []
     },
-    options: ["√3\$1_{4}$","√2\$1_{3}$","√6\$1_{4}$","√5\$1_{5}$","√5\$1_{4}$"],
+    options: ["√3\n4","√2\n3","√6\n4","√5\n5","√5\n4"],
     correctAnswer: 3,
     materia: "Matemática – Funções Trigonométricas",
     conteudo: "",

@@ -318,7 +318,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Analise o gráfico.\n\nEvolução da população (em mil) de acordo com\na autodeclaração de cor ou raça\n\$1_{120}$\$1_{100}$\$1_{80}$\$1_{60}$\$1_{40}$\$1_{20}$\$1_{0}$\$1_{2012}$ 2013 2014 2015 2016 2017 2018 2019\n→ Brancos Pardos Pretos\n\n(https://$1_{1}$.globo.com, 06.05.2020. Adaptado.)\n\nConsiderando a análise do gráfico e conhecimentos sobre a população brasileira, verifica-se aumento no quantitativo do grupo de autodeclarados",
+      principal: "Analise o gráfico.\n\nEvolução da população (em mil) de acordo com\na autodeclaração de cor ou raça\n\n120\n100\n80\n60\n40\n20\n0\n2012 2013 2014 2015 2016 2017 2018 2019\n→ Brancos Pardos Pretos\n\n(https://g_{1}.globo.com, 06.05.2020. Adaptado.)\n\nConsiderando a análise do gráfico e conhecimentos sobre a população brasileira, verifica-se aumento no quantitativo do grupo de autodeclarados",
       subItens: []
     },
     options: ["brancos, devido à política de branqueamento implantada no país após 1990.","pretos, em virtude das políticas públicas de ações afirmativas.","pardos, em razão do processo de emigração de haitianos.","brancos, por efeito do empoderamento da cultura eurocêntrica.","pretos, em função do processo de miscigenação no país após 1990."],
@@ -333,7 +333,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Analise a tabela.\n\nConflitos por terra (2012-2021)\n\nAno\nOcorrências\nde conflitos\nAssassinatos\nno campo\$1_{2012}$\$1_{828}$\$1_{34}$\$1_{2013}$\$1_{802}$\$1_{30}$\$1_{2014}$\$1_{820}$\$1_{37}$\$1_{2015}$\$1_{828}$\$1_{49}$\$1_{2016}$\$1_{1112}$\$1_{61}$\$1_{2017}$\$1_{1033}$\$1_{70}$\$1_{2018}$\$1_{1000}$\$1_{27}$\$1_{2019}$\$1_{1260}$\$1_{27}$\$1_{2020}$\$1_{1576}$\$1_{14}$\$1_{2021}$\$1_{1242}$\$1_{35}$\n\n(www.cptnacional.org. Adaptado.)\n\nDuas ações políticas que podem amenizar a problemática retratada na tabela é",
+      principal: "Analise a tabela.\n\nConflitos por terra (2012-2021)\n\nAno\nOcorrências\nde conflitos\nAssassinatos\nno campo\n2012\n828\n34\n2013\n802\n30\n2014\n820\n37\n2015\n828\n49\n2016\n1112\n61\n2017\n1033\n70\n2018\n1000\n27\n2019\n1260\n27\n2020\n1576\n14\n2021\n1242\n35\n\n(www.cptnacional.org. Adaptado.)\n\nDuas ações políticas que podem amenizar a problemática retratada na tabela é",
       subItens: []
     },
     options: ["a fixação da fronteira agrícola e a desapropriação de terras produtivas.","a demarcação de terras indígenas e o direito à especulação imobiliária.","a anistia aos grileiros e a legitimação da ocupação ilegal de terras.","a recuperação de terras devolutas e a implementação da reforma agrária.","o financiamento de propriedades e a extinção da função social da terra."],
@@ -348,7 +348,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Em julho de 2022, a China sediou três eventos de relevância mundial: a 14ª Cúpula dos BRICS, o Diálogo de Alto Nível sobre Desenvolvimento Global e o Fórum Empresarial dos BRICS. Em um dos discursos, o presidente da China Xi Jinping disse que é hora de abandonar a mentalidade da Guerra Fria e do confronto entre blocos ideológicos, rejeitar sanções unilaterais e abusivas e prezar a \"grande família” da comunidade de futuro compartilhado em vez de formar grupos ditados pela hegemonia.\n\n(www.$1_{360}$.com.br, 08.07.2022. Adaptado.)\n\nO discurso do presidente chinês é uma crítica às ações",
+      principal: "Em julho de 2022, a China sediou três eventos de relevância mundial: a 14ª Cúpula dos BRICS, o Diálogo de Alto Nível sobre Desenvolvimento Global e o Fórum Empresarial dos BRICS. Em um dos discursos, o presidente da China Xi Jinping disse que é hora de abandonar a mentalidade da Guerra Fria e do confronto entre blocos ideológicos, rejeitar sanções unilaterais e abusivas e prezar a \"grande família” da comunidade de futuro compartilhado em vez de formar grupos ditados pela hegemonia.\n\n(www.poder_{360}.com.br, 08.07.2022. Adaptado.)\n\nO discurso do presidente chinês é uma crítica às ações",
       subItens: []
     },
     options: ["imperialistas dos EUA em Taiwan para assegurar que esse país tenha maior comércio com o Ocidente.","unilaterais dos EUA que visam implementar barreiras para a expansão comercial e geopolítica da China.","ineficientes dos BRICS em promover o multilateralismo entre os países em desenvolvimento e periféricos.","político-econômicas da União Europeia para aumentar sua influência nos países da África do Norte.","multilaterais da União Europeia, já que os países-membros desse bloco implementam práticas protecionistas para assegurar a concorrência intrabloco."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Os governos do Brasil e da Argentina entraram em acordo para reduzir em 10% a Tarifa Externa Comum (TEC) do Mercosul bloco econômico que também inclui os vizinhos Paraguai e Uruguai. A Tarifa Externa Comum é uma alíquota de importação unificada entre os países do bloco. Essa unificação ajuda a evitar disputas tarifárias dentro do Mercosul mas especialistas criticam a variedade de exceções impostas à regra.\n\n(https://$1_{1}$.globo.com. 08.10.2021.)\n\nO processo de estruturação dos blocos econômicos por um conjunto de países é constituído por diferentes etapas de integração. Dessa forma, a etapa de integração que implementa a Tarifa Externa Comum citada nesse excerto é",
+      principal: "Os governos do Brasil e da Argentina entraram em acordo para reduzir em 10% a Tarifa Externa Comum (TEC) do Mercosul bloco econômico que também inclui os vizinhos Paraguai e Uruguai. A Tarifa Externa Comum é uma alíquota de importação unificada entre os países do bloco. Essa unificação ajuda a evitar disputas tarifárias dentro do Mercosul mas especialistas criticam a variedade de exceções impostas à regra.\n\n(https://g_{1}.globo.com. 08.10.2021.)\n\nO processo de estruturação dos blocos econômicos por um conjunto de países é constituído por diferentes etapas de integração. Dessa forma, a etapa de integração que implementa a Tarifa Externa Comum citada nesse excerto é",
       subItens: []
     },
     options: ["a área de livre comércio.","a livre circulação de pessoas.","a união aduaneira.","o mercado comum.","a união econômica."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Quase 700 migrantes foram resgatados no dia 23.07.2022, na costa sul da Itália, segundo comunicado emitido pela guarda costeira do país, em uma demonstração do crescimento do fluxo migratório no Mediterrâneo. Dezesseis pessoas morreram após um navio que transportava imigrantes haitianos virar na costa das Bahamas, disseram autoridades, no dia 24.07.2022, em meio a uma onda contínua de migração marítima em direção aos Estados Unidos. Quatro mulheres e 17 homens foram resgatados do incidente.\n\n($1_{1}$.folha.uol.com.br, 24.07.2022. Adaptado.)\n\nOs episódios citados no excerto apresentam movimentos populacionais que têm como uma de suas causas",
+      principal: "Quase 700 migrantes foram resgatados no dia 23.07.2022, na costa sul da Itália, segundo comunicado emitido pela guarda costeira do país, em uma demonstração do crescimento do fluxo migratório no Mediterrâneo. Dezesseis pessoas morreram após um navio que transportava imigrantes haitianos virar na costa das Bahamas, disseram autoridades, no dia 24.07.2022, em meio a uma onda contínua de migração marítima em direção aos Estados Unidos. Quatro mulheres e 17 homens foram resgatados do incidente.\n\n(www_{1}.folha.uol.com.br, 24.07.2022. Adaptado.)\n\nOs episódios citados no excerto apresentam movimentos populacionais que têm como uma de suas causas",
       subItens: []
     },
     options: ["as políticas de oferta de emprego nos países de destino.","a excelência do sistema de saúde pública nos países de destino.","o auxílio à qualificação profissional nos países de origem.","as crises econômicas nos países de destino.","a instabilidade política nos países de origem."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Um triângulo retângulo tem catetos de medidas 6 cm e 8 cm e sua hipotenusa é o lado de um triângulo em que os outros lados medem 3 cm e x, conforme mostra a figura.\n\$1_{8}$ cm\nX\$1_{6}$ cm\$1_{60}$°/3 cm\n\nDado que o cos 60° = 0,5, o valor de x é",
+      principal: "Um triângulo retângulo tem catetos de medidas 6 cm e 8 cm e sua hipotenusa é o lado de um triângulo em que os outros lados medem 3 cm e x, conforme mostra a figura.\n\n8 cm\nX\n6 cm\n60°/3 cm\n\nDado que o cos 60° = 0,5, o valor de x é",
       subItens: []
     },
     options: ["√59 cm","√79 cm","√99 cm","√109 cm","√139 cm"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Em um triângulo ABC, o ponto F está sobre o lado BC e o ponto G está sobre o lado BA, de maneira que o ângulo BFG é congruente ao ângulo BAC, conforme mostra a figura.\n\nC\nA\$1_{7}$ cm\$1_{4}$ cm\nβ\nβ\nB\nG\n\nSabendo que a medida do lado BA é 3 cm maior do que a medida do lado BC e que o perímetro do triângulo BFG é igual a 16 cm, a medida do segmento BF é, aproximadamente,",
+      principal: "Em um triângulo ABC, o ponto F está sobre o lado BC e o ponto G está sobre o lado BA, de maneira que o ângulo BFG é congruente ao ângulo BAC, conforme mostra a figura.\n\nC\nA\n7 cm\n4 cm\nβ\nβ\nB\nG\n\nSabendo que a medida do lado BA é 3 cm maior do que a medida do lado BC e que o perímetro do triângulo BFG é igual a 16 cm, a medida do segmento BF é, aproximadamente,",
       subItens: []
     },
     options: ["6,3 cm.","6,6 cm.","6,9 cm.","7,2 cm.","7,5 cm."],
@@ -618,7 +618,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Considere um retângulo de lados de medidas 12 cm e 6 cm e suas diagonais. Um quadrilátero, destacado na figura, tem a extremidade de um de seus lados sobre o ponto médio de um lado do retângulo e a outra extremidade sobre uma diagonal do retângulo, conforme mostra a figura.\n\$1_{12}$ cm\$1_{3}$ cm\$1_{2}$ cm\$1_{1}$ cm\$1_{2}$ cm\n\nA área do quadrilátero destacado é",
+      principal: "Considere um retângulo de lados de medidas 12 cm e 6 cm e suas diagonais. Um quadrilátero, destacado na figura, tem a extremidade de um de seus lados sobre o ponto médio de um lado do retângulo e a outra extremidade sobre uma diagonal do retângulo, conforme mostra a figura.\n\n12 cm\n3 cm\n2 cm\n1 cm\n2 cm\n\nA área do quadrilátero destacado é",
       subItens: []
     },
     options: ["8 cm².","9 cm².","10 cm².","12 cm².","15 cm²."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Em uma fábrica, pães de mel são conduzidos por uma esteira para dentro do forno, com velocidade média de 0,05 m/s.\n\nMovimento da esteira\nForno\n\nEnquanto atravessam o interior do forno de 24 m de comprimento, os pães de mel são assados com bastante precisão, garantindo a qualidade do produto.\n\nO tempo necessário para que um pão de mel seja perfeitamente assado é mais próximo de",
+      principal: "Em uma fábrica, pães de mel são conduzidos por uma esteira para dentro do forno, com velocidade média de 0,05 $\\\\frac{m}{s}$.\n\nMovimento da esteira\nForno\n\nEnquanto atravessam o interior do forno de 24 m de comprimento, os pães de mel são assados com bastante precisão, garantindo a qualidade do produto.\n\nO tempo necessário para que um pão de mel seja perfeitamente assado é mais próximo de",
       subItens: []
     },
     options: ["240 s.","300 s.","360 s.","480 s.","600 s."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Uma pequena esfera é presa por uma corda ao teto de uma sala. A corda possui 1 m de comprimento, massa desprezível e é inextensível. A esfera é abandonada do repouso na posição indicada na figura, que está demarcada por uma malha quadriculada com quadrados de 0,2 m de lado.\n\nTeto da sala\n\nConsiderando g = 10 m/s² e admitindo que não haja perda de energia mecânica, a velocidade da esfera, ao passar pelo ponto mais baixo de sua trajetória, será",
+      principal: "Uma pequena esfera é presa por uma corda ao teto de uma sala. A corda possui 1 m de comprimento, massa desprezível e é inextensível. A esfera é abandonada do repouso na posição indicada na figura, que está demarcada por uma malha quadriculada com quadrados de 0,2 m de lado.\n\nTeto da sala\n\nConsiderando g = 10 $\\\\frac{m}{s}$² e admitindo que não haja perda de energia mecânica, a velocidade da esfera, ao passar pelo ponto mais baixo de sua trajetória, será",
       subItens: []
     },
     options: ["2,0 m/s.","2,5 m/s.","3,0 m/s.","3,5 m/s.","4,0 m/s."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Para demonstrar o comportamento de uma mola mediante o aumento da intensidade da força que a tensiona, um professor usou uma espiral de caderno, um pequeno saco plástico e moedas idênticas de peso P, medido em N. Esse professor amarrou o saco plástico em um dos extremos da mola e enganchou o outro extremo em um grande parafuso que já estava preso na moldura da lousa. Como o parafuso era bem longo, a espiral de caderno não se encostava no plano da lousa, evitando-se atritos. Antes de qualquer ação, ele marcou, com um giz na lousa, a posição do ponto de junção do saquinho com a espiral de caderno. O professor começou a experiência acrescentando gradativamente, no interior do saco plástico, uma moeda por vez, anotando, a cada moeda acrescentada, o tamanho da deformação total obtida na espiral do caderno em relação à primeira marcação feita na lousa. Esses valores possibilitaram a criação da seguinte tabela:\n\nNúmero de moedas\$1_{1}$\$1_{2}$\$1_{3}$\nDeformação da espiral (m)\$1_{0}$,04\$1_{0}$,08\$1_{0}$,12\n\nSabendo que os dados da tabela foram obtidos para condições de equilíbrio, ou seja, quando a força da mola se iguala à força peso das moedas, o valor da constante k da mola, em função de P, é",
+      principal: "Para demonstrar o comportamento de uma mola mediante o aumento da intensidade da força que a tensiona, um professor usou uma espiral de caderno, um pequeno saco plástico e moedas idênticas de peso P, medido em N. Esse professor amarrou o saco plástico em um dos extremos da mola e enganchou o outro extremo em um grande parafuso que já estava preso na moldura da lousa. Como o parafuso era bem longo, a espiral de caderno não se encostava no plano da lousa, evitando-se atritos. Antes de qualquer ação, ele marcou, com um giz na lousa, a posição do ponto de junção do saquinho com a espiral de caderno. O professor começou a experiência acrescentando gradativamente, no interior do saco plástico, uma moeda por vez, anotando, a cada moeda acrescentada, o tamanho da deformação total obtida na espiral do caderno em relação à primeira marcação feita na lousa. Esses valores possibilitaram a criação da seguinte tabela:\n\nNúmero de moedas\n1\n2\n3\nDeformação da espiral (m)\n0,04\n0,08\n0,12\n\nSabendo que os dados da tabela foram obtidos para condições de equilíbrio, ou seja, quando a força da mola se iguala à força peso das moedas, o valor da constante k da mola, em função de P, é",
       subItens: []
     },
     options: ["10 × P N/m.","15 × P N/m.","20 × P N/m.","25 × P N/m.","30 × P N/m."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Uma vez que o som se propaga pelo ar com velocidade igual a 340 m/s, o tempo para que ele deixe sua fonte sonora, em repouso, atinja uma parede distante 340 m dela e, refletido, retorne ao ponto em que foi emitido é de",
+      principal: "Uma vez que o som se propaga pelo ar com velocidade igual a 340 $\\\\frac{m}{s}$, o tempo para que ele deixe sua fonte sonora, em repouso, atinja uma parede distante 340 m dela e, refletido, retorne ao ponto em que foi emitido é de",
       subItens: []
     },
     options: ["1,0 s.","1,7 s.","2,0 s.","3,4 s.","6,8 s."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Um pequeno motor emprega 4000 J de energia para erguer um objeto por uma altura de 4 m. Como a velocidade da ascensão do objeto é constante e a aceleração da gravidade é 10 m/s², a massa do objeto que está sendo erguido é",
+      principal: "Um pequeno motor emprega 4000 J de energia para erguer um objeto por uma altura de 4 m. Como a velocidade da ascensão do objeto é constante e a aceleração da gravidade é 10 $\\\\frac{m}{s}$², a massa do objeto que está sendo erguido é",
       subItens: []
     },
     options: ["10 kg.","20 kg.","40 kg.","50 kg.","100 kg."],
@@ -783,7 +783,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Considere as seguintes misturas de substâncias:\n\$1_{1}$. água + pó de giz\$1_{2}$. água + óleo de cozinha\$1_{3}$. água + álcool etílico\n\nAs misturas 1, 2 e 3 são caracterizadas, respectivamente, como",
+      principal: "Considere as seguintes misturas de substâncias:\n\n1. água + pó de giz\n2. água + óleo de cozinha\n3. água + álcool etílico\n\nAs misturas 1, 2 e 3 são caracterizadas, respectivamente, como",
       subItens: []
     },
     options: ["homogênea, homogênea e homogênea.","homogênea, homogênea e heterogênea.","heterogênea, heterogênea e heterogênea.","heterogênea, heterogênea e homogênea.","heterogênea, homogênea e homogênea."],
@@ -828,7 +828,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Aquecendo-se carbonato de cobre(II), este se decompõe produzindo óxido de cobre(II) e dióxido de carbono, de acordo com a equação:\n\$1_{3}$ (s) → CuO (s) + $1_{2}$ (g)\n\nEm um cadinho de massa igual a 18,0 g, foram colocados 2,5 g de $1_{3}$ (s). O cadinho com seu conteúdo foi aquecido prolongadamente. Após o resfriamento do cadinho, foi novamente determinada a massa do conjunto (cadinho + conteúdo final), encontrando como resultado o valor de 19,6 g. A massa de dióxido de carbono produzida nessa reação foi, portanto, igual a",
+      principal: "Aquecendo-se carbonato de cobre(II), este se decompõe produzindo óxido de cobre(II) e dióxido de carbono, de acordo com a equação:\n\nCuCO_{3} (s) → CuO (s) + CO_{2} (g)\n\nEm um cadinho de massa igual a 18,0 g, foram colocados 2,5 g de CuCO_{3} (s). O cadinho com seu conteúdo foi aquecido prolongadamente. Após o resfriamento do cadinho, foi novamente determinada a massa do conjunto (cadinho + conteúdo final), encontrando como resultado o valor de 19,6 g. A massa de dióxido de carbono produzida nessa reação foi, portanto, igual a",
       subItens: []
     },
     options: ["0,16 g.","0,25 g.","0,9 g.","1,2 g.","1,6 g."],
@@ -858,7 +858,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Recentemente, ocorreu no Líbano um grave desastre provocado pela explosão de grande quantidade de nitrato de amônio que estava armazenada em um galpão no porto de Beirute. A equação química, não completamente balanceada, que representa essa explosão é\n\n2NH4NO3 (s) → $1_{2}$ (g) + $1_{2}$ (g) + zH2O (g) + energia térmica\n\nEssa equação fica corretamente balanceada substituindo-se x, y e z, respectivamente, por",
+      principal: "Recentemente, ocorreu no Líbano um grave desastre provocado pela explosão de grande quantidade de nitrato de amônio que estava armazenada em um galpão no porto de Beirute. A equação química, não completamente balanceada, que representa essa explosão é\n\n2NH4NO3 (s) → xN_{2} (g) + yO_{2} (g) + zH2O (g) + energia térmica\n\nEssa equação fica corretamente balanceada substituindo-se x, y e z, respectivamente, por",
       subItens: []
     },
     options: ["2, 1 e 2.","2, 1 e 4.","2, 2 e 4.","1, 1 e 2.","1, 1 e 4."],
@@ -873,7 +873,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Entre as substâncias comumente empregadas no tratamento da água de abastecimento público, estão as seguintes:\n\$1_{1}$. cloro\$1_{2}$. fluoreto de sódio\$1_{3}$. sulfato de alumínio\$1_{4}$. cal hidratada\n\nDessas substâncias, são utilizadas na etapa de floculação",
+      principal: "Entre as substâncias comumente empregadas no tratamento da água de abastecimento público, estão as seguintes:\n\n1. cloro\n2. fluoreto de sódio\n3. sulfato de alumínio\n4. cal hidratada\n\nDessas substâncias, são utilizadas na etapa de floculação",
       subItens: []
     },
     options: ["a 1 e a 2.","a 1 e a 3.","a 1 e a 4.","a 2 e a 3.","a 3 e a 4."],

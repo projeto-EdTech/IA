@@ -33,7 +33,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "[Imagem: Cartaz do documentário “Ailton Krenak e o sonho da pedra”, exibindo o rosto de Ailton Krenak e informações sobre o filme: Documentário - RJ - Brasil - 2017 - 52 min - $1_{10}_{}$. De Marco Altberg. Com Darcy Ribeiro, Vincent Carelli, Rodrigo Arajeju, Alvaro Tukano, Daiara Tukano, Juca Ferreira, Marcos Terena, Mário Juruna, Marcos Vinício Chein. O documentário traça o pensamento e a trajetória de Ailton Krenak, líder indígena natural de Minas Gerais, descendente da etnia Krenak.]\n“O problema é que faz muito tempo que nós começamos a achar que todos os lugares são lugares para serem ocupados pelos humanos. Pelos humanos e pelas suas tralhas. Pelos humanos e as suas tralhas tecnológicas, seu aparato, seu maquinário, suas cidades estúpidas.\"\nAdaptado de canalcurta.tv.br.\nNo trecho citado do documentário, Ailton Krenak faz uma crítica às “tralhas tecnológicas\" da humanidade. Essa crítica está associada à defesa da:",
+      principal: "[Imagem: Cartaz do documentário “Ailton Krenak e o sonho da pedra”, exibindo o rosto de Ailton Krenak e informações sobre o filme: Documentário - RJ - Brasil - 2017 - 52 min - A_{10}. De Marco Altberg. Com Darcy Ribeiro, Vincent Carelli, Rodrigo Arajeju, Alvaro Tukano, Daiara Tukano, Juca Ferreira, Marcos Terena, Mário Juruna, Marcos Vinício Chein. O documentário traça o pensamento e a trajetória de Ailton Krenak, líder indígena natural de Minas Gerais, descendente da etnia Krenak.]\n“O problema é que faz muito tempo que nós começamos a achar que todos os lugares são lugares para serem ocupados pelos humanos. Pelos humanos e pelas suas tralhas. Pelos humanos e as suas tralhas tecnológicas, seu aparato, seu maquinário, suas cidades estúpidas.\"\nAdaptado de canalcurta.tv.br.\nNo trecho citado do documentário, Ailton Krenak faz uma crítica às “tralhas tecnológicas\" da humanidade. Essa crítica está associada à defesa da:",
       subItens: []
     },
     options: ["integração dos povos tradicionais","paralisação das práticas científicas","restauração do planejamento urbano","interrupção da degradação ambiental"],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "O sistema solar é formado por planetas que apresentam diferentes acelerações da gravidade. Admita que um corpo é solto em queda livre na Terra a uma altura h e atinge a superfície do planeta com velocidade de 5 m/s. Admita ainda um planeta P, também do sistema solar, em que o mesmo corpo é solto, à mesma altura h, e atinge velocidade final de 8 m/s. Sabe-se que o quadrado da velocidade com a qual um corpo em queda livre atinge a superfície é diretamente proporcional à aceleração da gravidade do planeta. Considere os valores aproximados apresentados na tabela:\nPLANETA | ACELERAÇÃO DA GRAVIDADE (m/s²)\nJúpiter | 25\nMarte | 4\nNetuno | 11\nTerra | 10\nVênus | 9\nCom base nessas informações, o planeta que apresenta a aceleração da gravidade mais próxima à do planeta P é:",
+      principal: "O sistema solar é formado por planetas que apresentam diferentes acelerações da gravidade. Admita que um corpo é solto em queda livre na Terra a uma altura h e atinge a superfície do planeta com velocidade de 5 $\\\\frac{m}{s}$. Admita ainda um planeta P, também do sistema solar, em que o mesmo corpo é solto, à mesma altura h, e atinge velocidade final de 8 $\\\\frac{m}{s}$. Sabe-se que o quadrado da velocidade com a qual um corpo em queda livre atinge a superfície é diretamente proporcional à aceleração da gravidade do planeta. Considere os valores aproximados apresentados na tabela:\nPLANETA | ACELERAÇÃO DA GRAVIDADE ($\\\\frac{m}{s}$²)\nJúpiter | 25\nMarte | 4\nNetuno | 11\nTerra | 10\nVênus | 9\nCom base nessas informações, o planeta que apresenta a aceleração da gravidade mais próxima à do planeta P é:",
       subItens: []
     },
     options: ["Júpiter","Marte","Netuno","Vênus"],
@@ -288,7 +288,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Observe o ângulo central α do círculo trigonométrico a seguir:\n[Imagem de um círculo trigonométrico com um ângulo α no primeiro quadrante.]\nAdmitindo que 0 ≤ α < π/2 e cos α = 4/5, o valor de sen (2π – α) é igual a:",
+      principal: "Observe o ângulo central α do círculo trigonométrico a seguir:\n[Imagem de um círculo trigonométrico com um ângulo α no primeiro quadrante.]\nAdmitindo que 0 ≤ α < π/2 e cos α = $\\\\frac{4}{5}$, o valor de sen (2π – α) é igual a:",
       subItens: []
     },
     options: ["3/5","1/2","-3/5","-1/2"],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Considere a seguinte equação: x + x/3 + x/9 + ... = 18, x ∈ R\nSabendo que o primeiro membro dessa equação é a soma dos termos de uma progressão geométrica infinita, o valor de x é igual a:",
+      principal: "Considere a seguinte equação: x + $\\\\frac{x}{3}$ + $\\\\frac{x}{9}$ + ... = 18, x ∈ R\nSabendo que o primeiro membro dessa equação é a soma dos termos de uma progressão geométrica infinita, o valor de x é igual a:",
       subItens: []
     },
     options: ["6","8","10","12"],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Fome no Brasil: número de brasileiros sem ter o que comer quase dobra em dois anos de pandemia. A fome avança cada vez mais rápido pelo Brasil. Um levantamento divulgado mostra que o país soma atualmente cerca de 33,1 milhões de pessoas sem ter o que comer diariamente, quase o dobro do contingente em situação de fome estimado em 2020.\nAdaptado de $1_{1}$.globo.com, 08/06/2022.\nA ausência de nutrientes para a manutenção do organismo humano prejudica o funcionamento celular, gerando consequências para a saúde integral dos indivíduos. Quando submetidas a longos períodos de desnutrição, as células passam pelo seguinte processo:",
+      principal: "Fome no Brasil: número de brasileiros sem ter o que comer quase dobra em dois anos de pandemia. A fome avança cada vez mais rápido pelo Brasil. Um levantamento divulgado mostra que o país soma atualmente cerca de 33,1 milhões de pessoas sem ter o que comer diariamente, quase o dobro do contingente em situação de fome estimado em 2020.\nAdaptado de g_{1}.globo.com, $\\\\frac{08}{06}$/2022.\nA ausência de nutrientes para a manutenção do organismo humano prejudica o funcionamento celular, gerando consequências para a saúde integral dos indivíduos. Quando submetidas a longos períodos de desnutrição, as células passam pelo seguinte processo:",
       subItens: []
     },
     options: ["exocitose","autofagia","anabolismo","glicosilação"],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Leite e bebida láctea: o que são e suas diferenças nutricionais. Supermercados têm comercializado a bebida láctea, mais barata que o leite, na mesma prateleira do leite comum. Apesar de ser confundida com o leite, essa bebida é na verdade uma mistura de leite com soro de leite. As bebidas lácteas podem ser consumidas normalmente pelas pessoas, mas têm uma qualidade nutricional menor, quando comparadas com o leite de vaca integral. Observe, na tabela ao lado, a diferença nutricional entre leite e bebida láctea para 1 copo de 200 ml.\n[Tabela comparando Leite integral e Bebida láctea (porção de 200ml) em Proteínas, Gorduras, Lactose e Cálcio. Valores: Proteínas (6,6g / 2,4g), Gorduras (8,0g / 4,0g), Lactose (9,8g / 9,8g), Cálcio (280,0mg / 95,0mg).]\n*Cálculo feito com base na tabela nutricional da bebida láctea da marca Cristina, que contém 60% de soro de leite. Fonte: Abraleite\nAdaptado de $1_{1}$.globo.com, 07/07/2022.\nA partir da análise dos dados nutricionais apresentados, pode-se concluir que apenas um dos processos biológicos listados abaixo é igualmente assegurado pelo consumo tanto de leite integral quanto de bebida láctea. Esse processo é:",
+      principal: "Leite e bebida láctea: o que são e suas diferenças nutricionais. Supermercados têm comercializado a bebida láctea, mais barata que o leite, na mesma prateleira do leite comum. Apesar de ser confundida com o leite, essa bebida é na verdade uma mistura de leite com soro de leite. As bebidas lácteas podem ser consumidas normalmente pelas pessoas, mas têm uma qualidade nutricional menor, quando comparadas com o leite de vaca integral. Observe, na tabela ao lado, a diferença nutricional entre leite e bebida láctea para 1 copo de 200 ml.\n[Tabela comparando Leite integral e Bebida láctea (porção de 200ml) em Proteínas, Gorduras, Lactose e Cálcio. Valores: Proteínas (6,6g / 2,4g), Gorduras (8,0g / 4,0g), Lactose (9,8g / 9,8g), Cálcio (280,0mg / 95,0mg).]\n*Cálculo feito com base na tabela nutricional da bebida láctea da marca Cristina, que contém 60% de soro de leite. Fonte: Abraleite\nAdaptado de g_{1}.globo.com, $\\\\frac{07}{07}$/2022.\nA partir da análise dos dados nutricionais apresentados, pode-se concluir que apenas um dos processos biológicos listados abaixo é igualmente assegurado pelo consumo tanto de leite integral quanto de bebida láctea. Esse processo é:",
       subItens: []
     },
     options: ["produção de ATP na glicólise","fornecimento de reservas de energia","reconstrução das fibras dos músculos","mineralização dos ossos no organismo"],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Ao longo de uma estrada retilínea, um automóvel trafega durante certo intervalo de tempo, variando sua velocidade V linearmente em função do tempo t, como representado no gráfico.\n[Gráfico de velocidade (m/s) em função do tempo (s). A velocidade aumenta linearmente de 0 m/s em t=0s para 24 m/s em t=15s.]\nNo intervalo de tempo compreendido entre t = 0 e t = 15 s, a velocidade média do automóvel, em m/s, é igual a:",
+      principal: "Ao longo de uma estrada retilínea, um automóvel trafega durante certo intervalo de tempo, variando sua velocidade V linearmente em função do tempo t, como representado no gráfico.\n[Gráfico de velocidade ($\\\\frac{m}{s}$) em função do tempo (s). A velocidade aumenta linearmente de 0 $\\\\frac{m}{s}$ em t=0s para 24 $\\\\frac{m}{s}$ em t=15s.]\nNo intervalo de tempo compreendido entre t = 0 e t = 15 s, a velocidade média do automóvel, em $\\\\frac{m}{s}$, é igual a:",
       subItens: []
     },
     options: ["7","11","14","18"],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Para um experimento de estudo das leis de Newton, um recipiente com massa de 100 kg foi colocado sobre um carrinho em uma superfície plana. Três grupos de pessoas exerceram forças distintas sobre esse sistema, conforme representado na imagem I. As forças aplicadas sobre o mesmo sistema visto de cima estão representadas na imagem II.\n[Imagem I: Ilustração de um carrinho com três pessoas exercendo forças em diferentes direções. Imagem II: Diagrama vetorial das forças em um plano cartesiano. Forças de 40 N (horizontal), 90 N (vertical para baixo) e 160 N (vertical para cima, parece que se opõe a 90N, mas na imagem II são em x e y, uma 40N no x+, uma 90N no y- e uma 160N no x+).] (Revisando a imagem II, as forças são: uma de 40N no sentido positivo do eixo x, uma de 160N no sentido positivo do eixo x e uma de 90N no sentido negativo do eixo y.)\nConsiderando apenas a força resultante exercida pelos três grupos, o módulo da aceleração, em m/s², que atua sobre o recipiente é igual a:",
+      principal: "Para um experimento de estudo das leis de Newton, um recipiente com massa de 100 kg foi colocado sobre um carrinho em uma superfície plana. Três grupos de pessoas exerceram forças distintas sobre esse sistema, conforme representado na imagem I. As forças aplicadas sobre o mesmo sistema visto de cima estão representadas na imagem II.\n[Imagem I: Ilustração de um carrinho com três pessoas exercendo forças em diferentes direções. Imagem II: Diagrama vetorial das forças em um plano cartesiano. Forças de 40 N (horizontal), 90 N (vertical para baixo) e 160 N (vertical para cima, parece que se opõe a 90N, mas na imagem II são em x e y, uma 40N no x+, uma 90N no y- e uma 160N no x+).] (Revisando a imagem II, as forças são: uma de 40N no sentido positivo do eixo x, uma de 160N no sentido positivo do eixo x e uma de 90N no sentido negativo do eixo y.)\nConsiderando apenas a força resultante exercida pelos três grupos, o módulo da aceleração, em $\\\\frac{m}{s}$², que atua sobre o recipiente é igual a:",
       subItens: []
     },
     options: ["2,9","2,4","1,5","1,3"],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Em uma praça, uma criança com massa de 30 kg desce por um escorrega. A altura considerada do topo do escorrega até seu ponto mais baixo é de 2,0 m, como ilustra a figura a seguir.\n[Imagem de uma criança em um escorrega, com a altura do escorrega indicada como 2,0 m.]\nSabe-se que a aceleração da gravidade é igual a 10 m/s² e que, durante a descida da criança, ocorre uma perda de energia mecânica de 60%. Ao atingir o ponto mais baixo do escorrega, a velocidade da criança, em m/s, é igual a:",
+      principal: "Em uma praça, uma criança com massa de 30 kg desce por um escorrega. A altura considerada do topo do escorrega até seu ponto mais baixo é de 2,0 m, como ilustra a figura a seguir.\n[Imagem de uma criança em um escorrega, com a altura do escorrega indicada como 2,0 m.]\nSabe-se que a aceleração da gravidade é igual a 10 $\\\\frac{m}{s}$² e que, durante a descida da criança, ocorre uma perda de energia mecânica de 60%. Ao atingir o ponto mais baixo do escorrega, a velocidade da criança, em $\\\\frac{m}{s}$, é igual a:",
       subItens: []
     },
     options: ["4,0","5,0","7,0","8,0"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "O composto de fórmula $1_{3}$ é empregado no tratamento de águas por conta de sua ação coagulante sobre impurezas. Esse composto pertence à seguinte função inorgânica:",
+      principal: "O composto de fórmula FeCl_{3} é empregado no tratamento de águas por conta de sua ação coagulante sobre impurezas. Esse composto pertence à seguinte função inorgânica:",
       subItens: []
     },
     options: ["sal","base","ácido","óxido"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "A reação química entre metano e cloro molecular produz ácido clorídrico e diclorometano, sendo este segundo composto empregado como solvente em processos industriais. Os valores de energia de ligação envolvidos na reação estão apresentados na tabela a seguir.\nLIGAÇÃO | ENERGIA DE LIGAÇÃO (kJ/mol)\nC–H | 410\nCl–Cl | 240\nC–Cl | 330\nH–Cl | 430\nA energia, em quilojoules, liberada na formação de 1,0 mol de diclorometano é igual a:",
+      principal: "A reação química entre metano e cloro molecular produz ácido clorídrico e diclorometano, sendo este segundo composto empregado como solvente em processos industriais. Os valores de energia de ligação envolvidos na reação estão apresentados na tabela a seguir.\nLIGAÇÃO | ENERGIA DE LIGAÇÃO ($\\\\frac{kJ}{mol}$)\nC–H | 410\nCl–Cl | 240\nC–Cl | 330\nH–Cl | 430\nA energia, em quilojoules, liberada na formação de 1,0 mol de diclorometano é igual a:",
       subItens: []
     },
     options: ["220","400","640","850"],
@@ -648,10 +648,10 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Considere a reação de equilíbrio químico representada abaixo, que ocorre na atmosfera e envolve dois óxidos de nitrogênio: $1_{2}O_{4}$ (g) ⇌ 2 $1_{2}$ (g)\nA partir de um experimento, foram registradas as variações das concentrações desses óxidos em função do tempo. Observe o gráfico:\n[Gráfico mostrando a concentração (mol/L) de $1_{2}O_{4}$ e $1_{2}$ em função do tempo. $1_{2}O_{4}$ diminui de 0,042 para 0,030 e $1_{2}$ aumenta de 0 para 0,024 até o equilíbrio.]\nCom base nos dados obtidos, o valor da constante de equilíbrio em função das concentrações é igual a:",
+      principal: "Considere a reação de equilíbrio químico representada abaixo, que ocorre na atmosfera e envolve dois óxidos de nitrogênio: N_{2}O_{4} (g) ⇌ 2 NO_{2} (g)\nA partir de um experimento, foram registradas as variações das concentrações desses óxidos em função do tempo. Observe o gráfico:\n[Gráfico mostrando a concentração ($\\\\frac{mol}{L}$) de N_{2}O_{4} e NO_{2} em função do tempo. N_{2}O_{4} diminui de 0,042 para 0,030 e NO_{2} aumenta de 0 para 0,024 até o equilíbrio.]\nCom base nos dados obtidos, o valor da constante de equilíbrio em função das concentrações é igual a:",
       subItens: []
     },
-    options: ["$1 \times 10^{-3}$","$1 \times 10^{-3}$","$1 \times 10^{-1}$","$1 \times 10^{-1}$"],
+    options: ["3,2 x 10^-3","4,8 x 10^-3","3,3 x 10^-1","4,0 x 10^-1"],
     correctAnswer: 1,
     materia: "Química – Equilíbrio Químico",
     conteudo: "Constante de Equilíbrio",
@@ -678,7 +678,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Considere a reação química representada abaixo, utilizada para produzir determinado desinfetante.\n[Esquema de reação química: Propan-2-ol (álcool secundário) reage com $1_{2}O_{2}$ (peróxido de hidrogênio) formando Propanona (cetona) e $1_{2}O_{}$ (água).]\nO nome do reagente orgânico presente nessa reação é:",
+      principal: "Considere a reação química representada abaixo, utilizada para produzir determinado desinfetante.\n[Esquema de reação química: Propan-2-ol (álcool secundário) reage com H_{2}O_{2} (peróxido de hidrogênio) formando Propanona (cetona) e H_{2}O (água).]\nO nome do reagente orgânico presente nessa reação é:",
       subItens: []
     },
     options: ["etanol","propanona","ácido etanoico","propanoato de metila"],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Muitos nos círculos financeiros disseram que o esforço das indústrias americanas para reduzir suas cadeias de fornecimento e trazer a produção de volta para casa duraria pouco. Assim que a pandemia desse uma trégua, e as cadeias globais de logística e transporte voltassem a funcionar, a moda passaria, argumentavam. Mas, dois anos e meio depois do início da pandemia da covid-19, essa tendência parece estar mais forte do que nunca. Diante da guerra na Ucrânia e das levas mais recentes de lockdowns na China para conter novos surtos do coronavírus, nunca os executivos americanos mencionaram tanto os planos de realocar a produção de suas empresas. Em oposição ao offshoring, termo que ficou famoso nos anos de ouro da globalização como sinônimo de levar a fabricação de partes do produto ou até do item completo para subsidiárias em países de mão de obra mais barata – sobretudo a China –, o onshoring significa produzir no país onde o bem será consumido. Reshoring, por sua vez, é trazer de volta para o país de origem da empresa a produção que, no passado, estava em offshoring.\nAdaptado de oglobo.globo.com, 06/07/2022.\nA mudança na estratégia locacional das grandes corporações, mencionada na reportagem, tem como explicação a dificuldade em preservar algumas práticas do atual modelo produtivo. Uma dessas práticas está apontada em:",
+      principal: "Muitos nos círculos financeiros disseram que o esforço das indústrias americanas para reduzir suas cadeias de fornecimento e trazer a produção de volta para casa duraria pouco. Assim que a pandemia desse uma trégua, e as cadeias globais de logística e transporte voltassem a funcionar, a moda passaria, argumentavam. Mas, dois anos e meio depois do início da pandemia da covid-19, essa tendência parece estar mais forte do que nunca. Diante da guerra na Ucrânia e das levas mais recentes de lockdowns na China para conter novos surtos do coronavírus, nunca os executivos americanos mencionaram tanto os planos de realocar a produção de suas empresas. Em oposição ao offshoring, termo que ficou famoso nos anos de ouro da globalização como sinônimo de levar a fabricação de partes do produto ou até do item completo para subsidiárias em países de mão de obra mais barata – sobretudo a China –, o onshoring significa produzir no país onde o bem será consumido. Reshoring, por sua vez, é trazer de volta para o país de origem da empresa a produção que, no passado, estava em offshoring.\nAdaptado de oglobo.globo.com, $\\\\frac{06}{07}$/2022.\nA mudança na estratégia locacional das grandes corporações, mencionada na reportagem, tem como explicação a dificuldade em preservar algumas práticas do atual modelo produtivo. Uma dessas práticas está apontada em:",
       subItens: []
     },
     options: ["manutenção de estoques reduzidos","implementação de tecnologias inovadoras","contratação de trabalhadores qualificados","disseminação de mercadorias descartáveis"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "[Imagem: Fotografia de uma pessoa segurando a bandeira Whipala.]\nUm pedaço de tecido quadrado colorido, como um xadrez pintado a sete cores. Assim é a Whipala, bandeira típica dos povos andando. Criada no período pré-colonial por sociedades que compunham o Império Inca, era um símbolo sagrado usado na agricultura, em festas, cerimônias e outros eventos sociais. Após a colonização espanhola, foi também associada à resistência política indígena. A Whipala resistiu ao tempo e hoje é representativa dos costumes e de manifestações políticas de indígenas na Bolívia, no Peru, no norte da Argentina e do Chile, no sul do Equador e no oeste do Paraguai. Símbolo de identificação e diversidade dos povos da região dos Andes, ela representa a unidade, a solidariedade e a harmonia. A estrutura do desenho, simétrica, expressa a igualdade criada entre esses povos, que rejeitam conceitos como o do individualismo.\nMARIANA VICK Adaptado de nexojornal.com.br, 24/06/2019.\nO conjunto de representações associadas à bandeira Whipala fortalece a formação de um tipo de identidade territorial. Essa identidade territorial está fundamentada no seguinte conceito:",
+      principal: "[Imagem: Fotografia de uma pessoa segurando a bandeira Whipala.]\nUm pedaço de tecido quadrado colorido, como um xadrez pintado a sete cores. Assim é a Whipala, bandeira típica dos povos andando. Criada no período pré-colonial por sociedades que compunham o Império Inca, era um símbolo sagrado usado na agricultura, em festas, cerimônias e outros eventos sociais. Após a colonização espanhola, foi também associada à resistência política indígena. A Whipala resistiu ao tempo e hoje é representativa dos costumes e de manifestações políticas de indígenas na Bolívia, no Peru, no norte da Argentina e do Chile, no sul do Equador e no oeste do Paraguai. Símbolo de identificação e diversidade dos povos da região dos Andes, ela representa a unidade, a solidariedade e a harmonia. A estrutura do desenho, simétrica, expressa a igualdade criada entre esses povos, que rejeitam conceitos como o do individualismo.\nMARIANA VICK Adaptado de nexojornal.com.br, $\\\\frac{24}{06}$/2019.\nO conjunto de representações associadas à bandeira Whipala fortalece a formação de um tipo de identidade territorial. Essa identidade territorial está fundamentada no seguinte conceito:",
       subItens: []
     },
     options: ["comunismo","teocentrismo","nacionalismo","multiculturalismo"],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "[Imagem: Charge política intitulada \"Surrealistas\", mostrando uma metáfora visual da invasão da Ucrânia. Contém uma pipa com a frase \"Isto não é um cachimbo\" (alusão a Magritte) e um mapa da Ucrânia com a frase \"Isto não é uma invasão\", com áreas de Luhansk e Donetsk (1) e Kiev (2) indicadas.]\nOLIVER Adaptado de courrierinternational.com, 26/03/2022.\nO evento geopolítico ironizado na charge vem sendo justificado por discursos ideológicos produzidos pelo governo da nação invasora. Nesses discursos, destaca-se a seguinte característica social das áreas 1 e 2, assinaladas no mapa:",
+      principal: "[Imagem: Charge política intitulada \"Surrealistas\", mostrando uma metáfora visual da invasão da Ucrânia. Contém uma pipa com a frase \"Isto não é um cachimbo\" (alusão a Magritte) e um mapa da Ucrânia com a frase \"Isto não é uma invasão\", com áreas de Luhansk e Donetsk (1) e Kiev (2) indicadas.]\nOLIVER Adaptado de courrierinternational.com, $\\\\frac{26}{03}$/2022.\nO evento geopolítico ironizado na charge vem sendo justificado por discursos ideológicos produzidos pelo governo da nação invasora. Nesses discursos, destaca-se a seguinte característica social das áreas 1 e 2, assinaladas no mapa:",
       subItens: []
     },
     options: ["ausência da etnia eslava","predomínio da língua russa","persistência do regime comunista","rejeição do sistema parlamentarista"],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "[Imagem: Mapa coroplético mostrando a \"PROPORÇÃO DE PESSOAS COM MAIS DE 65 ANOS NA INGLATERRA E EM GALES (2021)\". O mapa utiliza diferentes tons de cor para indicar a proporção de idosos por município, com uma legenda de 5% a 34%. Londres é apontada no mapa e aparece com uma proporção menor de idosos.]\nAdaptado de dailymail.co.uk, 29/06/2022.\nUm fator demográfico que contribui para explicar a proporção de idosos na região metropolitana de Londres é:",
+      principal: "[Imagem: Mapa coroplético mostrando a \"PROPORÇÃO DE PESSOAS COM MAIS DE 65 ANOS NA INGLATERRA E EM GALES (2021)\". O mapa utiliza diferentes tons de cor para indicar a proporção de idosos por município, com uma legenda de 5% a 34%. Londres é apontada no mapa e aparece com uma proporção menor de idosos.]\nAdaptado de dailymail.co.uk, $\\\\frac{29}{06}$/2022.\nUm fator demográfico que contribui para explicar a proporção de idosos na região metropolitana de Londres é:",
       subItens: []
     },
     options: ["alto índice de natalidade","baixa taxa de nupcialidade","elevado fluxo de imigração","reduzida expectativa de vida"],
@@ -798,7 +798,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "Oito centímetros impediram o sepultamento de D. Pedro I. O governo militar, sob a chefia do general Emílio Garrastazu Médici, não poupou esforços para transformar as comemorações dos 150 anos da Independência numa enorme celebração nacional. Seu ponto alto? A vinda de Portugal dos restos mortais de nosso primeiro imperador, Dom Pedro I. Em 1971, o presidente de Portugal concordou em transladar e presentear o Brasil com os restos mortais do imperador, deixando claro que o coração não viria e permaneceria na cidade do Porto, já que o próprio D. Pedro o deixou, em testamento, à cidade. O presidente Médici expressou, em rede nacional de televisão e rádio: “Brasileiros, não posso esconder minha emoção. Fala por si mesmo este fato que nenhuma eloquência poderia superar: no ano em que celebramos o Sesquicentenário da nossa Independência, regressará ao Brasil o corpo daquele que, em Sete de Setembro, às margens do Ipiranga, com a bravura, o arroubo e a paixão que eram a marca de sua personalidade, proclamou livres estas terras.\" Mas, quase como uma anedota, o caixão feito em Portugal não coube no lugar onde deveria ser colocado na Capela Imperial, no Ipiranga. Apenas quatro anos depois do Sesquicentenário da Independência, o sarcófago de D. Pedro I foi devidamente disposto no mausoléu para ele construído.\nLIZ BATISTA Adaptado de m.acervo.estadao.com.br, 15/02/2013.\nConserva de imperador. O governo brasileiro requereu a Portugal que, no âmbito das comemorações dos 200 anos da Independência, enviasse para o Brasil o coração de Dom Pedro, guardado numa igreja da cidade do Porto. O pedido tem o seu quê de bizarro. Imagino que a miudeza real vá ser exposta e contemplada no Brasil, o que me parece sinceramente ficar aquém da data. Uma celebração competente do Bicentenário da Independência devia incluir, além do coração de Dom Pedro, um rim de José Bonifácio, o pâncreas de Thomas Cochrane, o fígado de Cipriano Barata e, talvez para dar um toque de ironia à cerimônia, um dente de Tiradentes. Creio que, com esse rodízio de vísceras, ficaria a efeméride mais bem assinalada.\nRICARDO ARAÚJO PEREIRA Adaptado de m.folha.uol.com.br, 09/07/2022.\nOs textos apresentam ações governamentais associadas ao Sesquicentário da Independência do Brasil, em 1972, e a seu Bicentenário, em 2022. Um aspecto comum dessas ações governamentais é:",
+      principal: "Oito centímetros impediram o sepultamento de D. Pedro I. O governo militar, sob a chefia do general Emílio Garrastazu Médici, não poupou esforços para transformar as comemorações dos 150 anos da Independência numa enorme celebração nacional. Seu ponto alto? A vinda de Portugal dos restos mortais de nosso primeiro imperador, Dom Pedro I. Em 1971, o presidente de Portugal concordou em transladar e presentear o Brasil com os restos mortais do imperador, deixando claro que o coração não viria e permaneceria na cidade do Porto, já que o próprio D. Pedro o deixou, em testamento, à cidade. O presidente Médici expressou, em rede nacional de televisão e rádio: “Brasileiros, não posso esconder minha emoção. Fala por si mesmo este fato que nenhuma eloquência poderia superar: no ano em que celebramos o Sesquicentenário da nossa Independência, regressará ao Brasil o corpo daquele que, em Sete de Setembro, às margens do Ipiranga, com a bravura, o arroubo e a paixão que eram a marca de sua personalidade, proclamou livres estas terras.\" Mas, quase como uma anedota, o caixão feito em Portugal não coube no lugar onde deveria ser colocado na Capela Imperial, no Ipiranga. Apenas quatro anos depois do Sesquicentenário da Independência, o sarcófago de D. Pedro I foi devidamente disposto no mausoléu para ele construído.\nLIZ BATISTA Adaptado de m.acervo.estadao.com.br, $\\\\frac{15}{02}$/2013.\nConserva de imperador. O governo brasileiro requereu a Portugal que, no âmbito das comemorações dos 200 anos da Independência, enviasse para o Brasil o coração de Dom Pedro, guardado numa igreja da cidade do Porto. O pedido tem o seu quê de bizarro. Imagino que a miudeza real vá ser exposta e contemplada no Brasil, o que me parece sinceramente ficar aquém da data. Uma celebração competente do Bicentenário da Independência devia incluir, além do coração de Dom Pedro, um rim de José Bonifácio, o pâncreas de Thomas Cochrane, o fígado de Cipriano Barata e, talvez para dar um toque de ironia à cerimônia, um dente de Tiradentes. Creio que, com esse rodízio de vísceras, ficaria a efeméride mais bem assinalada.\nRICARDO ARAÚJO PEREIRA Adaptado de m.folha.uol.com.br, $\\\\frac{09}{07}$/2022.\nOs textos apresentam ações governamentais associadas ao Sesquicentário da Independência do Brasil, em 1972, e a seu Bicentenário, em 2022. Um aspecto comum dessas ações governamentais é:",
       subItens: []
     },
     options: ["culto ufanista de protagonistas oficiais","enaltecimento patriótico da unidade lusa","reparação histórica de heranças europeias","reabilitação contemporânea da continuidade monárquica"],
@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2023,
     text: {
-      principal: "[Imagem: Charge de Laerte, com pessoas exaustas remando um barco com o título \"AH! A BRISA DA MODERNIDADE TRABALHISTA!\".]\nLAERTE blogdosakamoto.blogosfera.uol.com.br, 22/10/2017\nA charge de Laerte ironiza mudanças recentes no campo dos direitos trabalhistas, em sociedades capitalistas contemporâneas. Essas mudanças provocam o seguinte efeito para o mundo do trabalho:",
+      principal: "[Imagem: Charge de Laerte, com pessoas exaustas remando um barco com o título \"AH! A BRISA DA MODERNIDADE TRABALHISTA!\".]\nLAERTE blogdosakamoto.blogosfera.uol.com.br, $\\\\frac{22}{10}$/2017\nA charge de Laerte ironiza mudanças recentes no campo dos direitos trabalhistas, em sociedades capitalistas contemporâneas. Essas mudanças provocam o seguinte efeito para o mundo do trabalho:",
       subItens: []
     },
     options: ["erradicação de condições laborais análogas à escravidão","restrição de práticas econômicas associadas à uberização","ratificação de ações empresariais relacionadas à exploração","substituição de recursos humanos complementares à mecanização"],

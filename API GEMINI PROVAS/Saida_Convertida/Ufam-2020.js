@@ -108,7 +108,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2020,
     text: {
-      principal: "Leia os versos a seguir, pertencentes ao poema Juca Mulato, de Menotti del Picchia:\$1_{1}$. Juca Mulato cisma. Olha a lua e estremece.\$1_{2}$. Dentro dele um desejo abre-se em flor e cresce\$1_{3}$. e ele pensa, ao sentir esses sonhos ignotos,\$1_{4}$. que a alma é como uma planta, os sonhos, como brotos,\$1_{5}$. vão rebentando nele e se abrindo em floradas...\$1_{6}$. Franjam de ouro o ocidente as chamas das queimadas.\$1_{7}$. Mal se pode conter de inquieto e satisfeito.\$1_{8}$. Adivinha que tem qualquer coisa no peito\$1_{9}$. e, às promessas do amor, a alma escancara ansiado\$1_{10}$. como os áureos portais de um palácio encantado!...\$1_{11}$. Mas a mágoa, que ronda a alegria de perto,\$1_{12}$. entra no coração sempre que o encontra aberto...\nAssinale a alternativa INCORRETA:",
+      principal: "Leia os versos a seguir, pertencentes ao poema Juca Mulato, de Menotti del Picchia:\n1. Juca Mulato cisma. Olha a lua e estremece.\n2. Dentro dele um desejo abre-se em flor e cresce\n3. e ele pensa, ao sentir esses sonhos ignotos,\n4. que a alma é como uma planta, os sonhos, como brotos,\n5. vão rebentando nele e se abrindo em floradas...\n6. Franjam de ouro o ocidente as chamas das queimadas.\n7. Mal se pode conter de inquieto e satisfeito.\n8. Adivinha que tem qualquer coisa no peito\n9. e, às promessas do amor, a alma escancara ansiado\n10. como os áureos portais de um palácio encantado!...\n11. Mas a mágoa, que ronda a alegria de perto,\n12. entra no coração sempre que o encontra aberto...\nAssinale a alternativa INCORRETA:",
       subItens: []
     },
     options: ["Exercem a função de sujeito: “um desejo” (verso 2) e \"as chamas das queimadas” (verso 6).","O verbo \"franger” (verso 6) está conjugado na terceira pessoa do plural do presente do indicativo.","O sujeito das orações constantes dos versos 7, 8 e 9 está oculto, mas foi enunciado antes.","São vocábulos que apresentam hiato: “lua” (verso 1) e \"inquieto\" (verso 7).","O \"que”, no verso 11, é um pronome relativo com função de sujeito."],
@@ -258,7 +258,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2020,
     text: {
-      principal: "Sobre as civilizações/povos da antiguidade, assinale a alternativa INCORRETA:",
+      principal: "Sobre as civilizaçõ$\\\\frac{es}{povos}$ da antiguidade, assinale a alternativa INCORRETA:",
       subItens: []
     },
     options: ["Em momentos, tempos e espaços distintos, os agrupamentos humanos começaram a trocar a caça e a coleta pela pecuária e pela agricultura. Isso possibilitou o surgimento das primeiras aldeias.","No fim do período Neolítico, diversas cidades já haviam sido criadas na Mesopotamia, todas elas autônomas e habitadas por sumérios, povo oriundo do planalto do Irã.","A necessidade da água, recurso essencial à vida, levou as primeiras civilizações a se estabelecerem em regiões banhadas por grandes rios.","Na Mesopotamia, a religião não desempenhava papel importante, pois era uma sociedade eminentemente materialista.","No Vale do Nilo desenvolveu-se uma economia baseada na agricultura irrigada, onde se cultivava trigo, cevada, linho, papiro, legumes e frutas e criavam-se bois, carneiros, cabras, aves e porcos."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2020,
     text: {
-      principal: "\"A História da África é importante para nós brasileiros porque ajuda a explicar-nos. Mas é importante também por seu valor próprio e porque nos faz melhor compreender o grande continente que fica em nossa fronteira leste e de onde proveio quase a metade dos nossos antepassados.\"\n(SILVA, Alberto da Costa. Um rio chamado Atlântico: África no Brasil e o Brasil na África. Rio de Janeiro: Nova Fronteira/UFRJ, 2003, p. 240)\nO autor do excerto acima destaca a importância dos estudos sobre as Áfricas, não apenas para a compreensão da(s) identidade(s) brasileira(s), uma vez que nossas raízes estão profundamente entrelaçadas, mas também porque desmistifica a ideia de homogeneidade daquele vasto continente, desconstruindo memórias unívocas e equivocadas e valorizando suas histórias.\nDentre as afirmativas a seguir, relacionadas à História das Áfricas, assinale a alternativa INCORRETA:",
+      principal: "\"A História da África é importante para nós brasileiros porque ajuda a explicar-nos. Mas é importante também por seu valor próprio e porque nos faz melhor compreender o grande continente que fica em nossa fronteira leste e de onde proveio quase a metade dos nossos antepassados.\"\n(SILVA, Alberto da Costa. Um rio chamado Atlântico: África no Brasil e o Brasil na África. Rio de Janeiro: Nova $\\\\frac{Fronteira}{UFRJ}$, 2003, p. 240)\nO autor do excerto acima destaca a importância dos estudos sobre as Áfricas, não apenas para a compreensão da(s) identidade(s) brasileira(s), uma vez que nossas raízes estão profundamente entrelaçadas, mas também porque desmistifica a ideia de homogeneidade daquele vasto continente, desconstruindo memórias unívocas e equivocadas e valorizando suas histórias.\nDentre as afirmativas a seguir, relacionadas à História das Áfricas, assinale a alternativa INCORRETA:",
       subItens: []
     },
     options: ["O comércio transaariano entre árabes e africanos realizado na região do Sudão possibilitou o contato dos povos que viviam naquela região com o Islã, que a harmonizou com crenças e práticas locais e possibilitou a formação de grandes reinos, sendo que o Reino de Gana e o Reino do Mali foram os mais importantes.","No século XV e início do XVI, a \"mercadoria negra\" tinha como principal mercado a Europa, principalmente Portugal e os países sob dominação espanhola. Entretanto, o tráfico negreiro só se expandiu plenamente na medida em que foram criadas as plantações de cana-de-açúcar na América.","Dos povos trazidos para a Bahia para serem escravizados, uma minoria tinha ascendência ioruba (nagôs) e, por isso, tem sido difícil, para os pesquisadores, identificar suas marcas na cultura afro-brasileira.","Os orixás, divindades cultuadas pelos iorubas, são associadas a elementos da natureza - água, terra, ar, floresta, trovão - e tinham grande poder divino perante o deus criador, Olodumarê. O Culto aos orixás chegou ao Brasil no período colonial, através dos africanos escravizados.","Embora a escravidão na África date de tempos remotos, é necessário compreender que seus objetivos mudaram e ganharam maior impulso com o comércio transatlântico de escravos realizado pela coroa portuguesa e em acordo com chefes das elites africanas. A venda de escravos negros para colônias europeias na América tornou-se uma importante fonte de lucro para Portugal."],
@@ -456,7 +456,7 @@ createQuestion({
       principal: "Sobre a geração e a propagação do potencial de ação (PA) nos neurônios, é INCORRETO afirmar que:",
       subItens: []
     },
-    options: ["na despolarização da membrana há a abertura dos canais de $1^+$ regulados por voltagem.","o atraso no fechamento dos canais de K+ explica a hiperpolarização observada no gráfico do PA.","a abertura dos canais de Ca++ regulados por voltagem próximos ao botão sináptico é fundamental para a migração das vesículas contendo neurotransmissores.","os receptores na membrana pós-sináptica podem ser ionotrópicos ou metabotrópicos.","a diferença de voltagem através da membrana está diretamente relacionada à grande quantidade de canais de $1^+$ (sem porta) abertos."],
+    options: ["na despolarização da membrana há a abertura dos canais de Na+ regulados por voltagem.","o atraso no fechamento dos canais de K+ explica a hiperpolarização observada no gráfico do PA.","a abertura dos canais de Ca++ regulados por voltagem próximos ao botão sináptico é fundamental para a migração das vesículas contendo neurotransmissores.","os receptores na membrana pós-sináptica podem ser ionotrópicos ou metabotrópicos.","a diferença de voltagem através da membrana está diretamente relacionada à grande quantidade de canais de Na+ (sem porta) abertos."],
     correctAnswer: 4,
     materia: "Biologia – Fisiologia Humana",
     conteudo: "Biologia – Sistema Nervoso",
@@ -546,7 +546,7 @@ createQuestion({
       principal: "A regra do octeto afirma que, quando os átomos estão envolvidos numa ligação, eles tendem a alcançar um octeto de elétrons em sua camada externa (de valência). Parte-se do princípio que na natureza todos os sistemas tendem a adquirir a maior estabilidade possível. Das alternativas a seguir, qual composto faz com que todos os átomos (ou íons) obedeçam à regra do octeto?",
       subItens: []
     },
-    options: ["NaH","$1_{4}$","$1_{3}$","$1_{2}_{}$","$1_{3}$"],
+    options: ["NaH","TiCl4","BF3","Pbl2","XeO3"],
     correctAnswer: 1,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Regra do Octeto",
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2020,
     text: {
-      principal: "O pai de João o leva de carro até a escola, sempre respeitando as leis de trânsito. Quando João ingressou no ensino médio e começou a ter aulas de Física, afirmou, numa discussão com o pai, que se a velocidade média do carro fosse três vezes maior, eles chegariam ao destino três vezes mais rápido. Para testar se o filho está correto, o pai foi com o carro para uma pista controlada e realizou os seguintes testes: (1) com o carro em movimento retilíneo e uniforme, partiu do ponto A e chegou ao ponto B às 11h30min. (2) ainda em movimento retilíneo e uniforme e ajustando o horário para a situação anterior, triplicou a velocidade do carro e, partindo do ponto A, chegou ao ponto B às 09h30min.\nSejam as afirmativas:\nI. O carro saiu do ponto A às 8h30min.\nII. Partindo do ponto A na velocidade de 11m/s e, depois, na velocidade de 33m/s, é possível concluir que a distância entre os pontos A e B é de 118,8km.\nIII. A velocidade em ambos os casos não foi constante.\nAssinale a alternativa correta:",
+      principal: "O pai de João o leva de carro até a escola, sempre respeitando as leis de trânsito. Quando João ingressou no ensino médio e começou a ter aulas de Física, afirmou, numa discussão com o pai, que se a velocidade média do carro fosse três vezes maior, eles chegariam ao destino três vezes mais rápido. Para testar se o filho está correto, o pai foi com o carro para uma pista controlada e realizou os seguintes testes: (1) com o carro em movimento retilíneo e uniforme, partiu do ponto A e chegou ao ponto B às 11h30min. (2) ainda em movimento retilíneo e uniforme e ajustando o horário para a situação anterior, triplicou a velocidade do carro e, partindo do ponto A, chegou ao ponto B às 09h30min.\nSejam as afirmativas:\nI. O carro saiu do ponto A às 8h30min.\nII. Partindo do ponto A na velocidade de $\\\\frac{11m}{s}$ e, depois, na velocidade de $\\\\frac{33m}{s}$, é possível concluir que a distância entre os pontos A e B é de 118,8km.\nIII. A velocidade em ambos os casos não foi constante.\nAssinale a alternativa correta:",
       subItens: []
     },
     options: ["Somente a afirmativa I está correta.","Somente a afirmativa II está correta.","Somente a afirmativa III está correta.","Somente as afirmativas I e II estão corretas.","Todas as afirmativas estão corretas."],
@@ -603,10 +603,10 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2020,
     text: {
-      principal: "A NASA vem noticiando a descoberta de novos planetas em nosso sistema solar e também fora dele, planetas que devem obedecer às leis da gravitação e da Física. Um suposto planeta descoberto recentemente foi estudado e verificou-se que ele possui um raio de 2 × 10m, com uma massa de $1 \times 10^{22}$ kg. Seja um objeto que pesa, na superfície do planeta Terra, 100N. Um dos estudos foi encontrar o peso deste objeto na superfície deste suposto planeta. A seguir, foi feita uma comparação entre o peso encontrado e a distância do centro do planeta Terra em que o objeto deveria estar para ter o mesmo peso. Os valores encontrados foram:",
+      principal: "A NASA vem noticiando a descoberta de novos planetas em nosso sistema solar e também fora dele, planetas que devem obedecer às leis da gravitação e da Física. Um suposto planeta descoberto recentemente foi estudado e verificou-se que ele possui um raio de 2 × 10m, com uma massa de $1 \\\\times 10^{22}$ kg. Seja um objeto que pesa, na superfície do planeta Terra, 100N. Um dos estudos foi encontrar o peso deste objeto na superfície deste suposto planeta. A seguir, foi feita uma comparação entre o peso encontrado e a distância do centro do planeta Terra em que o objeto deveria estar para ter o mesmo peso. Os valores encontrados foram:",
       subItens: []
     },
-    options: ["6N e $1 \times 10^{7}$m","6N e $1 \times 10^{7}$m","12N e $1 \times 10^{7}$m","12N e $1 \times 10^{7}$m","16N e $1 \times 10^{7}$m"],
+    options: ["6N e 1,7 × 107m","6N e 7,1 × 107m","12N e 1,7 × 107m","12N e 7,1 × 107m","16N e 1,7 × 107m"],
     correctAnswer: 2,
     materia: "Física – Gravitação",
     conteudo: "Física – Leis de Newton",
@@ -648,7 +648,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2020,
     text: {
-      principal: "Considere a sequência de números reais não nulos:\$1_{5}$/2, 9/4, 2,...\nA diferença entre o sétimo e o primeiro termo dessa progressão aritmética é igual a:",
+      principal: "Considere a sequência de números reais não nulos:\n$\\\\frac{5}{2}$, $\\\\frac{9}{4}$, 2,...\nA diferença entre o sétimo e o primeiro termo dessa progressão aritmética é igual a:",
       subItens: []
     },
     options: ["-3/2","-7/2","7/4","1","3/4"],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2020,
     text: {
-      principal: "Maria foi internada num hospital e recebeu, ao meio dia, uma injeção com 10mg (dez miligramas) de determinado remédio. A bula do remédio informa que o organismo elimina naturalmente metade da quantidade do remédio presente em cada período de 4 horas. Sendo assim, pode-se concluir que a quantidade Q do remédio presente no organismo de Maria após t horas é dada pela função exponencial: Q(t) = 10 × (0,5)t/4. Considerando √2 = 1,41, podemos afirmar que 2 horas após a aplicação, a quantidade do remédio presente na paciente será de aproximadamente:",
+      principal: "Maria foi internada num hospital e recebeu, ao meio dia, uma injeção com 10mg (dez miligramas) de determinado remédio. A bula do remédio informa que o organismo elimina naturalmente metade da quantidade do remédio presente em cada período de 4 horas. Sendo assim, pode-se concluir que a quantidade Q do remédio presente no organismo de Maria após t horas é dada pela função exponencial: Q(t) = 10 × (0,5)$\\\\frac{t}{4}$. Considerando √2 = 1,41, podemos afirmar que 2 horas após a aplicação, a quantidade do remédio presente na paciente será de aproximadamente:",
       subItens: []
     },
     options: ["7,05mg","7,50mg","8,05mg","8,46mg","8,50mg"],

@@ -3,7 +3,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "A figura exemplifica o comportamento de povos indígenas que viveram no Brasil há 1.000 anos. Eles construíam suas casas escavadas na terra, faziam fogueiras e manuseavam objetos. (Imagem: Uma ilustração mostra casas escavadas na terra, em formato de iglus, com a descrição: \"A casa era escavada na terra para proteger do frio, com até 8m de profundidade e diâmetro entre 4 e 20m, abrigando até 8 pessoas.\" Outra ilustração menor mostra uma 'cozinha' com fogueira e cerâmicas, com a descrição: \"Na 'cozinha', havia fogueira e cerâmicas de diferentes tamanhos para cozinhar e guardar alimentos.\") Escavações revelam hábitos de antigos povos que ocuparam o Sul do país. Folha de S.Paulo. 20/03/2016. Adaptado. Com base nos dados apresentados e em seus conhecimentos, assinale a alternativa correta quanto à época geológica desses sítios arqueológicos, quanto ao elemento químico analisado coerente com as práticas humanas exemplificadas na figura e quanto ao método de datação.",
+      principal: "A figura exemplifica o comportamento de povos indígenas que viveram no Brasil há 1.000 anos. Eles construíam suas casas escavadas na terra, faziam fogueiras e manuseavam objetos. (Imagem: Uma ilustração mostra casas escavadas na terra, em formato de iglus, com a descrição: \"A casa era escavada na terra para proteger do frio, com até 8m de profundidade e diâmetro entre 4 e 20m, abrigando até 8 pessoas.\" Outra ilustração menor mostra uma 'cozinha' com fogueira e cerâmicas, com a descrição: \"Na 'cozinha', havia fogueira e cerâmicas de diferentes tamanhos para cozinhar e guardar alimentos.\") Escavações revelam hábitos de antigos povos que ocuparam o Sul do país. Folha de S.Paulo. $\\\\frac{20}{03}$/2016. Adaptado. Com base nos dados apresentados e em seus conhecimentos, assinale a alternativa correta quanto à época geológica desses sítios arqueológicos, quanto ao elemento químico analisado coerente com as práticas humanas exemplificadas na figura e quanto ao método de datação.",
       subItens: []
     },
     options: ["Holoceno, silício e datação por quantificação de isótopos estáveis.","Jurássico, carbono e datação por decaimento radioativo de isótopos.","Holoceno, carbono e datação por decaimento radioativo de isótopos.","Jurássico, silício e datação por decaimento radioativo de isótopos.","Jurássico, carbono e datação por quantificação de isótopos estáveis."],
@@ -48,7 +48,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "A curva de temperatura do ar ilustrada na figura caracteriza um fenômeno meteorológico que é mais frequente no outono e no inverno. Em ambientes urbanos com elevado número de indústrias e poluição veicular, esse fenômeno pode ocasionar quadros de elevadas concentrações de poluentes, provocando problemas à saúde da população e danos à fauna e à flora.\n(Gráfico: Um gráfico mostra a \"Altura (km)\" no eixo y e \"Temperatura do ar (°C)\" no eixo x. A linha da temperatura diminui com a altura, mas apresenta uma inversão onde a temperatura aumenta com a altura em uma faixa específica de altitude.)\nCETESB. https://cetesb.sp.gov.br/qualidade-ar/\nO texto e a ilustração apresentados referem-se",
+      principal: "A curva de temperatura do ar ilustrada na figura caracteriza um fenômeno meteorológico que é mais frequente no outono e no inverno. Em ambientes urbanos com elevado número de indústrias e poluição veicular, esse fenômeno pode ocasionar quadros de elevadas concentrações de poluentes, provocando problemas à saúde da população e danos à fauna e à flora.\n(Gráfico: Um gráfico mostra a \"Altura (km)\" no eixo y e \"Temperatura do ar (°C)\" no eixo x. A linha da temperatura diminui com a altura, mas apresenta uma inversão onde a temperatura aumenta com a altura em uma faixa específica de altitude.)\nCETESB. https://cetesb.sp.gov.$\\\\frac{br}{qualidade}$-ar/\nO texto e a ilustração apresentados referem-se",
       subItens: []
     },
     options: ["à camada de ozônio.","à inversão térmica.","ao efeito estufa natural.","à chuva ácida.","ao smog fotoquímico."],
@@ -93,7 +93,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), anualmente, 1,3 bilhão de toneladas de alimentos (30% da produção total no planeta) é perdido em dois processos: o desperdício que se relaciona ao descarte de alimentos em bom estado e a perda ao longo da cadeia produtiva. O desperdício representa 46% e é muito maior nas regiões mais ricas. As perdas relativas ao circuito de produção representam 54% do total e são maiores nos países em desenvolvimento.\nhttps://nacoesunidas.org/fao-30-de-toda-a-comida-produzida-no-mundo-vai-parar-no-lixo. Adaptado.\n(Tabela: \"Percentual de pessoas em estado de insegurança alimentar grave*\" com as colunas \"Local\" (África, América Latina, Ásia, América Setentrional e Europa, Mundo) e \"% 2017\".)\nFAO. El estado de la seguridad alimentaria y la nutrición en el mundo. 2018. Adaptado.\n*pessoa que está sem alimento e/ou que ficou um dia todo sem comer várias vezes ao ano.\nCom base nas informações da FAO e em seus conhecimentos, indique a afirmação correta.",
+      principal: "Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), anualmente, 1,3 bilhão de toneladas de alimentos (30% da produção total no planeta) é perdido em dois processos: o desperdício que se relaciona ao descarte de alimentos em bom estado e a perda ao longo da cadeia produtiva. O desperdício representa 46% e é muito maior nas regiões mais ricas. As perdas relativas ao circuito de produção representam 54% do total e são maiores nos países em desenvolvimento.\nhttps://nacoesunidas.$\\\\frac{org}{fao}$-30-de-toda-a-comida-produzida-no-mundo-vai-parar-no-lixo. Adaptado.\n(Tabela: \"Percentual de pessoas em estado de insegurança alimentar grave*\" com as colunas \"Local\" (África, América Latina, Ásia, América Setentrional e Europa, Mundo) e \"% 2017\".)\nFAO. El estado de la seguridad alimentaria y la nutrición en el mundo. 2018. Adaptado.\n*pessoa que está sem alimento $\\\\frac{e}{ou}$ que ficou um dia todo sem comer várias vezes ao ano.\nCom base nas informações da FAO e em seus conhecimentos, indique a afirmação correta.",
       subItens: []
     },
     options: ["A produção de alimentos vem decaindo mundialmente devido aos problemas na logística de produção, o que tem provocado aumento da insegurança alimentar.","Nos continentes mais desenvolvidos, a perda de alimentos devido ao sistema de transporte e armazenamento é a principal causa da inexistência da insegurança alimentar.","O fato de parte significativa da população africana estar em estado de insegurança alimentar ocorre devido ao desperdício das monoculturas de cereais.","O controle rigoroso do desperdício explica o baixo percentual de pessoas em situação de insegurança alimentar na América Setentrional e na Europa.","Os dois diferentes processos que causam a enorme perda de alimentos no mundo refletem as desigualdades econômicas e sociais existentes entre os continentes."],
@@ -168,7 +168,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "À medida que a parcela de ar se eleva na atmosfera, nos limites da troposfera, a temperatura do ar decai a uma razão de 1 °C a cada 100 metros (Razão Adiabática Seca - RAS) ou 0,6 °C a cada 100 metros (Razão Adiabática Úmida - RAU).\n(Ilustração: Um perfil de montanha mostrando uma vertente a barlavento com condensação, ar quente e úmido (Tar=20°C) e formação de Cumulus clouds a 200m, subindo até 400m. Do outro lado, uma vertente a sotavento, com pontos $1_{1}_{}$ (1.400m) e $1_{2}_{}$ (Nível médio do mar) indicados.)\nConsiderando os conceitos e a ilustração, é correto afirmar que as temperaturas do ar, em graus Celsius, $1_{1}_{}$ e $1_{2}_{}$, são, respectivamente,\nNote e adote:\nUtilize RAS ou RAU de acordo com a presença ou não de ar saturado.\nTar: temperatura do ar.",
+      principal: "À medida que a parcela de ar se eleva na atmosfera, nos limites da troposfera, a temperatura do ar decai a uma razão de 1 °C a cada 100 metros (Razão Adiabática Seca - RAS) ou 0,6 °C a cada 100 metros (Razão Adiabática Úmida - RAU).\n(Ilustração: Um perfil de montanha mostrando uma vertente a barlavento com condensação, ar quente e úmido (Tar=20°C) e formação de Cumulus clouds a 200m, subindo até 400m. Do outro lado, uma vertente a sotavento, com pontos T_{1} (1.400m) e T_{2} (Nível médio do mar) indicados.)\nConsiderando os conceitos e a ilustração, é correto afirmar que as temperaturas do ar, em graus Celsius, T_{1} e T_{2}, são, respectivamente,\nNote e adote:\nUtilize RAS ou RAU de acordo com a presença ou não de ar saturado.\nTar: temperatura do ar.",
       subItens: []
     },
     options: ["8,0 e 26,0.","12,8 e 28,0.","12,0 e 26,0.","12,0 e 20,4.","11,6 e 20,4."],
@@ -228,7 +228,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Dois corpos de massas iguais são soltos, ao mesmo tempo, a partir do repouso, da altura h₁ e percorrem os diferentes trajetos (A) e (B), mostrados na figura, onde $1_{1}$ > $1_{2}_{}$ e h₁ > $1_{2}$.\n(Diagramas: Duas situações, (A) e (B), mostrando um corpo deslizando por uma rampa. Em (A), o corpo começa de uma altura $1_{1}$ e percorre uma distância horizontal $1_{1}$. Em (B), o corpo começa de uma altura $1_{2}$ (menor que $1_{1}$) e percorre uma distância horizontal $1_{2}$ (menor que $1_{1}$), mas a rampa é mais curta.)\nConsidere as seguintes afirmações:\nI. As energias cinéticas finais dos corpos em (A) e em (B) são diferentes.\nII. As energias mecânicas dos corpos, logo antes de começarem a subir a rampa, são iguais.\nIII. O tempo para completar o percurso independe da trajetória.\nIV. O corpo em (B) chega primeiro ao final da trajetória.\nV. O trabalho realizado pela força peso é o mesmo nos dois casos.\nÉ correto somente o que se afirma em\nNote e adote:\nDesconsidere forças dissipativas.",
+      principal: "Dois corpos de massas iguais são soltos, ao mesmo tempo, a partir do repouso, da altura h₁ e percorrem os diferentes trajetos (A) e (B), mostrados na figura, onde x_{1} > X_{2} e h₁ > h_{2}.\n(Diagramas: Duas situações, (A) e (B), mostrando um corpo deslizando por uma rampa. Em (A), o corpo começa de uma altura h_{1} e percorre uma distância horizontal x_{1}. Em (B), o corpo começa de uma altura h_{2} (menor que h_{1}) e percorre uma distância horizontal x_{2} (menor que x_{1}), mas a rampa é mais curta.)\nConsidere as seguintes afirmações:\nI. As energias cinéticas finais dos corpos em (A) e em (B) são diferentes.\nII. As energias mecânicas dos corpos, logo antes de começarem a subir a rampa, são iguais.\nIII. O tempo para completar o percurso independe da trajetória.\nIV. O corpo em (B) chega primeiro ao final da trajetória.\nV. O trabalho realizado pela força peso é o mesmo nos dois casos.\nÉ correto somente o que se afirma em\nNote e adote:\nDesconsidere forças dissipativas.",
       subItens: []
     },
     options: ["I e III.","II e V.","IV e V.","II e III.","l e V."],
@@ -243,10 +243,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Um rapaz de massa m₁ corre numa pista horizontal e pula sobre um skate de massa $1_{2}$, que se encontra inicialmente em repouso. Com o impacto, o skate adquire velocidade e o conjunto rapaz+skate segue em direção a uma rampa e atinge uma altura máxima h. A velocidade do rapaz, imediatamente antes de tocar no skate, é dada por\nNote e adote:\nConsidere que o sistema rapaz + skate não perde energia devido a forças dissipativas, após a colisão.\n(Expressões matemáticas para a velocidade:)\n(A) ($1_{1}$ + $1_{2}$) √gh / $1_{2}$\n(B) ($1_{1}$+ $1_{2}$) √gh / 2m1\n(C) $1_{1}$ √2gh / $1_{2}$\n(D) ($1_{1}$+ $1_{2}$) √2gh / $1_{1}$\n(E) (2m1+ $1_{2}$) √gh / $1_{1}$",
+      principal: "Um rapaz de massa m₁ corre numa pista horizontal e pula sobre um skate de massa m_{2}, que se encontra inicialmente em repouso. Com o impacto, o skate adquire velocidade e o conjunto rapaz+skate segue em direção a uma rampa e atinge uma altura máxima h. A velocidade do rapaz, imediatamente antes de tocar no skate, é dada por\nNote e adote:\nConsidere que o sistema rapaz + skate não perde energia devido a forças dissipativas, após a colisão.\n(Expressões matemáticas para a velocidade:)\n(A) (m_{1} + m_{2}) √gh / m_{2}\n(B) (m_{1}+ m_{2}) √gh / 2m1\n(C) m_{1} √2gh / m_{2}\n(D) (m_{1}+ m_{2}) √2gh / m_{1}\n(E) (2m1+ m_{2}) √gh / m_{1}",
       subItens: []
     },
-    options: ["($1_{1}$ + $1_{2}$) √gh / $1_{2}$","($1_{1}$+ $1_{2}$) √gh / 2m1","$1_{1}$ √2gh / $1_{2}$","($1_{1}$+ $1_{2}$) √2gh / $1_{1}$","(2m1+ $1_{2}$) √gh / $1_{1}$"],
+    options: ["(m1 + m2) √gh / m2","(m1+ m2) √gh / 2m1","m1 √2gh / m2","(m1+ m2) √2gh / m1","(2m1+ m2) √gh / m1"],
     correctAnswer: 3,
     materia: "Física – Colisões e Conservação de Energia",
     conteudo: "",
@@ -303,7 +303,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Em uma garrafa térmica, são colocados 200 g de água à temperatura de 30 °C e uma pedra de gelo de 50 g, à temperatura de -10 °C. Após o equilíbrio térmico,\nNote e adote:\ncalor latente de fusão do gelo = 80 cal/g;\ncalor específico do gelo = 0,5 cal/g °C;\ncalor específico da água = 1,0 cal/g °C.",
+      principal: "Em uma garrafa térmica, são colocados 200 g de água à temperatura de 30 °C e uma pedra de gelo de 50 g, à temperatura de -10 °C. Após o equilíbrio térmico,\nNote e adote:\ncalor latente de fusão do gelo = 80 $\\\\frac{cal}{g}$;\ncalor específico do gelo = 0,5 $\\\\frac{cal}{g}$ °C;\ncalor específico da água = 1,0 $\\\\frac{cal}{g}$ °C.",
       subItens: []
     },
     options: ["todo o gelo derreteu e a temperatura de equilíbrio é 7 °C.","todo o gelo derreteu e a temperatura de equilíbrio é 0,4 °C.","todo o gelo derreteu e a temperatura de equilíbrio é 20 °C.","nem todo o gelo derreteu e a temperatura de equilíbrio é 0 °C.","o gelo não derreteu e a temperatura de equilíbrio é -2 °C."],
@@ -333,7 +333,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Três amigos vão acampar e descobrem que nenhum deles trouxe fósforos. Para acender o fogo e fazer o almoço, resolvem improvisar e prendem um pedaço de filme plástico transparente num aro de \"cipó\". Colocam um pouco de água sobre o plástico, formando uma poça de aproximadamente 14 cm de diâmetro e 1 cm de profundidade máxima, cuja forma pode ser aproximada pela de uma calota esférica. Quando o sol está a pino, para aproveitamento máximo da energia solar, a distância, em cm, entre o centro do filme e a palha seca usada para iniciar o fogo, é, aproximadamente,\nNote e adote:\nPara uma lente plano-convexa, 1/f = (n − 1) / R, sendo n o índice de refração da lente e R o seu raio de curvatura.\nÍndice de refração da água = 1,33.",
+      principal: "Três amigos vão acampar e descobrem que nenhum deles trouxe fósforos. Para acender o fogo e fazer o almoço, resolvem improvisar e prendem um pedaço de filme plástico transparente num aro de \"cipó\". Colocam um pouco de água sobre o plástico, formando uma poça de aproximadamente 14 cm de diâmetro e 1 cm de profundidade máxima, cuja forma pode ser aproximada pela de uma calota esférica. Quando o sol está a pino, para aproveitamento máximo da energia solar, a distância, em cm, entre o centro do filme e a palha seca usada para iniciar o fogo, é, aproximadamente,\nNote e adote:\nPara uma lente plano-convexa, $\\\\frac{1}{f}$ = (n − 1) / R, sendo n o índice de refração da lente e R o seu raio de curvatura.\nÍndice de refração da água = 1,33.",
       subItens: []
     },
     options: ["75","50","25","14","7"],
@@ -438,10 +438,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "O gráfico representa a concentração de alguns hormônios observados durante a gravidez de uma mulher.\n(Gráfico: \"Concentração do hormônio no sangue\" no eixo y e \"Tempo de gestação\" no eixo x, mostrando as curvas de dois hormônios, $1_{1}_{}$ e $1_{2}_{}$. $1_{1}_{}$ cresce acentuadamente no início e decai bruscamente ao final da gestação. $1_{2}_{}$ apresenta picos no início e no final, e um vale no meio da gestação, ou se mantém baixo durante a maior parte da gestação e sobe ao final.)\nIdentifique os hormônios $1_{1}_{}$ e $1_{2}_{}$, respectivamente, e o motivo da queda abrupta de suas concentrações no sangue ao final do período de gestação.",
+      principal: "O gráfico representa a concentração de alguns hormônios observados durante a gravidez de uma mulher.\n(Gráfico: \"Concentração do hormônio no sangue\" no eixo y e \"Tempo de gestação\" no eixo x, mostrando as curvas de dois hormônios, H_{1} e H_{2}. H_{1} cresce acentuadamente no início e decai bruscamente ao final da gestação. H_{2} apresenta picos no início e no final, e um vale no meio da gestação, ou se mantém baixo durante a maior parte da gestação e sobe ao final.)\nIdentifique os hormônios H_{1} e H_{2}, respectivamente, e o motivo da queda abrupta de suas concentrações no sangue ao final do período de gestação.",
       subItens: []
     },
-    options: ["$1_{1}_{}$: progesterona, $1_{2}_{}$: FSH, Motivo: eliminação da placenta","$1_{1}_{}$: FSH, $1_{2}_{}$: LH, Motivo: reinício da menstruação","$1_{1}_{}$: FSH, $1_{2}_{}$: estrógeno, Motivo: reinício da menstruação","$1_{1}_{}$: progesterona, $1_{2}_{}$: estrógeno, Motivo: eliminação da placenta","$1_{1}_{}$: FSH, $1_{2}_{}$: progesterona, Motivo: início da lactação"],
+    options: ["H1: progesterona, H2: FSH, Motivo: eliminação da placenta","H1: FSH, H2: LH, Motivo: reinício da menstruação","H1: FSH, H2: estrógeno, Motivo: reinício da menstruação","H1: progesterona, H2: estrógeno, Motivo: eliminação da placenta","H1: FSH, H2: progesterona, Motivo: início da lactação"],
     correctAnswer: 3,
     materia: "Biologia – Fisiologia Humana e Hormônios",
     conteudo: "",
@@ -483,7 +483,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Uma alteração genética é determinada por um gene com herança autossômica recessiva. O heredograma mostra famílias em que essa condição está presente.\n(Heredograma: Diagrama de pedigree mostrando três gerações. Indivíduos afetados são sombreados. O casal $1_{2}$ e $1_{3}$ são não afetados, mas a questão pede a probabilidade de um filho afetado. Há indicação de que o indivíduo II-1 é afetado e III-1 não.)\nO casal $1_{2}$ e $1_{3}$ está esperando um menino. Considerando que, nessa população, uma em cada 50 pessoas é heterozigótica para essa alteração, a probabilidade de que esse menino seja afetado é",
+      principal: "Uma alteração genética é determinada por um gene com herança autossômica recessiva. O heredograma mostra famílias em que essa condição está presente.\n(Heredograma: Diagrama de pedigree mostrando três gerações. Indivíduos afetados são sombreados. O casal III_{2} e III_{3} são não afetados, mas a questão pede a probabilidade de um filho afetado. Há indicação de que o indivíduo II-1 é afetado e III-1 não.)\nO casal III_{2} e III_{3} está esperando um menino. Considerando que, nessa população, uma em cada 50 pessoas é heterozigótica para essa alteração, a probabilidade de que esse menino seja afetado é",
       subItens: []
     },
     options: ["1/100","1/200","1/1.000","1/25.000","1/40.000"],
@@ -528,7 +528,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Uma amostra sólida, sem cavidades ou poros, poderia ser constituída por um dos seguintes materiais metálicos: alumínio, bronze, chumbo, ferro ou titânio. Para identificá-la, utilizou-se uma balança, um recipiente de volume constante e água. Efetuaram-se as seguintes operações: 1) pesou-se a amostra; 2) pesou-se o recipiente completamente cheio de água; 3) colocou-se a amostra no recipiente vazio, completando seu volume com água e determinou-se a massa desse conjunto. Os resultados obtidos foram os seguintes:\n(Diagrama: Três balanças. Na primeira, \"Amostra\" = 44,0 g. Na segunda, \"Recipiente + Água\" = 350,0 g. Na terceira, \"Recipiente + Água + Amostra\" = 389,0 g.)\nDadas as densidades da água e dos metais, pode-se concluir que a amostra desconhecida é constituída de\nNote e adote:\nDensidades (g/cm³):\nágua = 1,0; alumínio = 2,7; bronze = 8,8; chumbo = 11,3; ferro = 7,9; titânio = 4,5.",
+      principal: "Uma amostra sólida, sem cavidades ou poros, poderia ser constituída por um dos seguintes materiais metálicos: alumínio, bronze, chumbo, ferro ou titânio. Para identificá-la, utilizou-se uma balança, um recipiente de volume constante e água. Efetuaram-se as seguintes operações: 1) pesou-se a amostra; 2) pesou-se o recipiente completamente cheio de água; 3) colocou-se a amostra no recipiente vazio, completando seu volume com água e determinou-se a massa desse conjunto. Os resultados obtidos foram os seguintes:\n(Diagrama: Três balanças. Na primeira, \"Amostra\" = 44,0 g. Na segunda, \"Recipiente + Água\" = 350,0 g. Na terceira, \"Recipiente + Água + Amostra\" = 389,0 g.)\nDadas as densidades da água e dos metais, pode-se concluir que a amostra desconhecida é constituída de\nNote e adote:\nDensidades ($\\\\frac{g}{cm}$³):\nágua = 1,0; alumínio = 2,7; bronze = 8,8; chumbo = 11,3; ferro = 7,9; titânio = 4,5.",
       subItens: []
     },
     options: ["alumínio.","bronze.","chumbo.","ferro.","titânio."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Considerando que baterias de Li-$1_{2}$ podem gerar uma voltagem nominal de 1,5 V, o que as torna úteis no cotidiano e que a primeira reação de descarga dessas baterias é 2 Li + $1_{2}$ → Li₂$1_{2}$, é correto afirmar:",
+      principal: "Considerando que baterias de Li-FeS_{2} podem gerar uma voltagem nominal de 1,5 V, o que as torna úteis no cotidiano e que a primeira reação de descarga dessas baterias é 2 Li + FeS_{2} → Li₂FeS_{2}, é correto afirmar:",
       subItens: []
     },
     options: ["O lítio metálico é oxidado na primeira descarga.","O ferro é oxidado e o lítio é reduzido na primeira descarga.","O lítio é o cátodo dessa bateria.","A primeira reação de descarga forma lítio metálico.","O lítio metálico e o dissulfeto ferroso estão em contato direto dentro da bateria."],
@@ -618,7 +618,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "O cinamaldeído é um dos principais compostos que dão o sabor e o aroma da canela. Quando exposto ao ar, ou seja, conforme a equação balanceada:\n(Equação química: Um composto orgânico (cinamaldeído) reage com O₂ formando outro composto orgânico.)\nUma amostra de 19,80 g desse composto puro foi exposta ao ar por 74 dias e, depois pesada novamente, sendo que a massa final aumentou em 1,20 g. A porcentagem desse composto que foi oxidada no período foi de\nNote e adote:\nMassa molar (g/mol): C = 12; H = 1; O = 16.\nConsidere que não houve perda de cinamaldeído ou de produto de oxidação por evaporação.",
+      principal: "O cinamaldeído é um dos principais compostos que dão o sabor e o aroma da canela. Quando exposto ao ar, ou seja, conforme a equação balanceada:\n(Equação química: Um composto orgânico (cinamaldeído) reage com O₂ formando outro composto orgânico.)\nUma amostra de 19,80 g desse composto puro foi exposta ao ar por 74 dias e, depois pesada novamente, sendo que a massa final aumentou em 1,20 g. A porcentagem desse composto que foi oxidada no período foi de\nNote e adote:\nMassa molar ($\\\\frac{g}{mol}$): C = 12; H = 1; O = 16.\nConsidere que não houve perda de cinamaldeído ou de produto de oxidação por evaporação.",
       subItens: []
     },
     options: ["10%","25%","50%","75%","90%"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Um grão de milho de pipoca, visto a olho nu, apresenta duas regiões distintas, representadas por A e B na figura. Em A, ocorre o tecido acumulador de amido, usado, pela planta, para nutrir o embrião. Em B, os tecidos vegetais possuem maior teor de água. Ao ser aquecida, parte da água transforma-se em vapor, aumentando a pressão interna do grão. Quando a temperatura atinge 177°C, a pressão se torna suficiente para romper o grão, que vira uma pipoca. Um estudo feito por um grupo de pesquisadores determinou que o interior do grão tem 4,5 mg de água da qual, no momento imediatamente anterior ao seu rompimento, apenas 9% está na fase vapor, atuando como um gás ideal e ocupando 0,1 mL. Dessa forma, foi possível calcular a pressão Pfinal no momento imediatamente anterior ao rompimento do grão. A associação correta entre região do milho e Pfinal é dada por:\nNote e adote:\nConstante universal dos gases: R = 0,082 L.atm/(K.mol);\nK = °C + 273;\nMassas molares (g/mol): H = 1; O = 16.\n(Diagrama: Um corte esquemático de um grão de milho de pipoca com duas regiões A e B indicadas.)",
+      principal: "Um grão de milho de pipoca, visto a olho nu, apresenta duas regiões distintas, representadas por A e B na figura. Em A, ocorre o tecido acumulador de amido, usado, pela planta, para nutrir o embrião. Em B, os tecidos vegetais possuem maior teor de água. Ao ser aquecida, parte da água transforma-se em vapor, aumentando a pressão interna do grão. Quando a temperatura atinge 177°C, a pressão se torna suficiente para romper o grão, que vira uma pipoca. Um estudo feito por um grupo de pesquisadores determinou que o interior do grão tem 4,5 mg de água da qual, no momento imediatamente anterior ao seu rompimento, apenas 9% está na fase vapor, atuando como um gás ideal e ocupando 0,1 mL. Dessa forma, foi possível calcular a pressão Pfinal no momento imediatamente anterior ao rompimento do grão. A associação correta entre região do milho e Pfinal é dada por:\nNote e adote:\nConstante universal dos gases: R = 0,082 L.atm/(K.mol);\nK = °C + 273;\nMassas molares ($\\\\frac{g}{mol}$): H = 1; O = 16.\n(Diagrama: Um corte esquemático de um grão de milho de pipoca com duas regiões A e B indicadas.)",
       subItens: []
     },
     options: ["A = endosperma e Pfinal = 8,3 atm.","B = endosperma e Pfinal = 5,9 atm.","A = xilema e Pfinal = 22,1 atm.","B = xilema e Pfinal = 5,9 atm.","B = endosperma e Pfinal = 92,0 atm."],
@@ -783,7 +783,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Se log₂ y = 1/2 + 2log₂ x, para x > 0, então",
+      principal: "Se log₂ y = $\\\\frac{1}{2}$ + 2log₂ x, para x > 0, então",
       subItens: []
     },
     options: ["y = √x / 2","y = x / √2","y = 1 / (√2x)","y = √2 * √x","y = x√2x"],
@@ -933,7 +933,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "I. Diante da dificuldade, municípios de diferentes regiões do país realizaram um segundo \"dia D” neste sábado. O primeiro ocorreu em 18 de agosto. A adesão, no entanto, ainda ficou abaixo do esperado. Agora, a recomendação é que estados e municípios façam busca ativa para garantir que todo o público-alvo da campanha seja vacinado.\nFolha de S. Paulo. São Paulo. 03/09/2018.\nII. Pensar sobre a vaga, buscar conhecer a empresa e o que ela busca já faz de você alguém especial. Muitos que procuram o balcão de emprego não compreendem que os detalhes são fundamentais para conseguir a recolocação. Agora, não pense que você vai conseguir na primeira investida, a busca por um novo emprego requer paciência e persistência, tenha você 20 anos ou 50.\nBalcão de Emprego. Disponível em: <https://empregabrasil.com.br/>\nO termo \"Agora\" pode ser substituído, respectivamente, em I e II e sem prejuízo de sentidos nos dois textos, por",
+      principal: "I. Diante da dificuldade, municípios de diferentes regiões do país realizaram um segundo \"dia D” neste sábado. O primeiro ocorreu em 18 de agosto. A adesão, no entanto, ainda ficou abaixo do esperado. Agora, a recomendação é que estados e municípios façam busca ativa para garantir que todo o público-alvo da campanha seja vacinado.\nFolha de S. Paulo. São Paulo. $\\\\frac{03}{09}$/2018.\nII. Pensar sobre a vaga, buscar conhecer a empresa e o que ela busca já faz de você alguém especial. Muitos que procuram o balcão de emprego não compreendem que os detalhes são fundamentais para conseguir a recolocação. Agora, não pense que você vai conseguir na primeira investida, a busca por um novo emprego requer paciência e persistência, tenha você 20 anos ou 50.\nBalcão de Emprego. Disponível em: <https://empregabrasil.com.br/>\nO termo \"Agora\" pode ser substituído, respectivamente, em I e II e sem prejuízo de sentidos nos dois textos, por",
       subItens: []
     },
     options: ["Neste momento; Por conseguinte.","Neste ínterim; De fato.","Portanto; Ademais.","Todavia; Então.","Doravante; Mas."],
@@ -1323,7 +1323,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2019,
     text: {
-      principal: "Observe as imagens das duas charges de Angelo Agostini publicadas no periódico Vida Fluminense. Ambas oferecem representações sobre a Guerra do Paraguai, que causaram forte impacto na opinião pública. A imagem I retrata Solano López como o \"Nero do século XIX\"; a imagem II figura um soldado brasileiro que retorna dos campos de batalha.\n(Imagens: Charge I: Figura de Solano López vestido à romana e incendiando um mapa, com a legenda \"12/06/1869\". Charge II: Um soldado brasileiro maltrapilho retorna para casa, com a legenda \"11/06/1870\".)\nSobre as imagens, é correto afirmar, respectivamente:",
+      principal: "Observe as imagens das duas charges de Angelo Agostini publicadas no periódico Vida Fluminense. Ambas oferecem representações sobre a Guerra do Paraguai, que causaram forte impacto na opinião pública. A imagem I retrata Solano López como o \"Nero do século XIX\"; a imagem II figura um soldado brasileiro que retorna dos campos de batalha.\n(Imagens: Charge I: Figura de Solano López vestido à romana e incendiando um mapa, com a legenda \"$\\\\frac{12}{06}$/1869\". Charge II: Um soldado brasileiro maltrapilho retorna para casa, com a legenda \"$\\\\frac{11}{06}$/1870\".)\nSobre as imagens, é correto afirmar, respectivamente:",
       subItens: []
     },
     options: ["Atribui um caráter redentor ao chefe da tropa paraguaia; fixa o assombro do soldado brasileiro ao constatar a persistência da opressão escravista.","Denuncia os efeitos da guerra entre a população brasileira; ilustra a manutenção da violência entre a população cativa.","Reconhece os méritos militares do general López; denota a incongruência entre o recrutamento de negros libertos e a manutenção da escravidão.","Personifica o culpado pelo morticínio do povo paraguaio; estimula o debate sobre o fim do trabalho escravo no Brasil.","Fixa atributos de barbárie ao ditador Solano López; sublinha a incompatibilidade entre o Exército e o exercício da cidadania."],

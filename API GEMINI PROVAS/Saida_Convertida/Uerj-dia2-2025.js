@@ -18,7 +18,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Mas é aí que está o problema: estamos tão familiarizados com o conceito de linearidade que\nimpomos nossa referência de visão linear sobre o que observamos no mundo real. (l. 15-16)\nDIVISÃO DA HISTÓRIA\nPré-história\nIdade Média\nIdade Contemporânea\$1_{1}$\$1_{2}$\$1_{3}$\$1_{4}$\$1_{5}$\nIdade Antiga\nIdade Moderna\nAdaptado de mundoeducacao.uol.com.br.\nNa imagem, a divisão da História como conhecimento sobre experiências de sociedades e povos\nestá representada de maneira linear, ratificando a afirmação do fragmento do texto.\nEssa divisão da História é derivada da seguinte concepção:",
+      principal: "Mas é aí que está o problema: estamos tão familiarizados com o conceito de linearidade que\nimpomos nossa referência de visão linear sobre o que observamos no mundo real. (l. 15-16)\nDIVISÃO DA HISTÓRIA\nPré-história\nIdade Média\nIdade Contemporânea\n1\n2\n3\n4\n5\nIdade Antiga\nIdade Moderna\nAdaptado de mundoeducacao.uol.com.br.\nNa imagem, a divisão da História como conhecimento sobre experiências de sociedades e povos\nestá representada de maneira linear, ratificando a afirmação do fragmento do texto.\nEssa divisão da História é derivada da seguinte concepção:",
       subItens: []
     },
     options: ["antropocêntrica","eurocêntrica","materialista","naturalista"],
@@ -63,7 +63,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Em 2024, o governo brasileiro limitou os juros do cartão de crédito, cobrados quando não se paga\no valor integral de uma fatura. Com o limite estabelecido, não se pode ultrapassar a cobrança de\$1_{100}$% de juros sobre a dívida do cartão.\nObserve na tabela os fatores F que, aplicados à dívida de um cartão de crédito, determinam o valor\nda dívida total até o mês M.\nM (meses)\$1_{1}$\$1_{2}$\$1_{3}$\$1_{4}$\$1_{5}$\$1_{6}$\$1_{7}$\$1_{8}$\$1_{9}$\$1_{10}$\$1_{11}$\$1_{12}$\nF (fatores) 1,15 1,32 1,52 1,75 2,01 2,31 2,66 3,06 3,52 4,05 4,65 5,35\nCom base na análise da tabela, o mês M em que a dívida desse cartão atinge juros de 100% é:",
+      principal: "Em 2024, o governo brasileiro limitou os juros do cartão de crédito, cobrados quando não se paga\no valor integral de uma fatura. Com o limite estabelecido, não se pode ultrapassar a cobrança de\n100% de juros sobre a dívida do cartão.\nObserve na tabela os fatores F que, aplicados à dívida de um cartão de crédito, determinam o valor\nda dívida total até o mês M.\nM (meses)\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\nF (fatores) 1,15 1,32 1,52 1,75 2,01 2,31 2,66 3,06 3,52 4,05 4,65 5,35\nCom base na análise da tabela, o mês M em que a dívida desse cartão atinge juros de 100% é:",
       subItens: []
     },
     options: ["8","7","6","5"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "A reação química elementar de decomposição do dióxido de nitrogênio, representada a seguir,\né um exemplo de modelo cinético não linear.\$1_{2}$ $1_{2}$ (g) → 2 NO (g) + $1_{2}_{}$ (g)\nObserve no gráfico a variação da velocidade dessa reação em função da concentração de dióxido\nde nitrogênio:\n(Graph: velocidade da reação (mol/L.s) vs. concentração de $1_{2}$ (mol/L))\nConsiderando os dados, a constante cinética da reação, em L/mol.s, corresponde a:",
+      principal: "A reação química elementar de decomposição do dióxido de nitrogênio, representada a seguir,\né um exemplo de modelo cinético não linear.\n2 NO_{2} (g) → 2 NO (g) + O_{2} (g)\nObserve no gráfico a variação da velocidade dessa reação em função da concentração de dióxido\nde nitrogênio:\n(Graph: velocidade da reação ($\\\\frac{mol}{L}$.s) vs. concentração de NO_{2} ($\\\\frac{mol}{L}$))\nConsiderando os dados, a constante cinética da reação, em $\\\\frac{L}{mol}$.s, corresponde a:",
       subItens: []
     },
     options: ["0,1","0,3","0,5","0,7"],
@@ -438,10 +438,10 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Considere o triângulo retângulo ABC, representado a seguir:\n(Image of a right triangle ABC with angle bisector AD)\nSabe-se que:\n• BC é perpendicular a AC;\n• AD é a bissetriz do ângulo CAB;\n• ABC é igual a 30°;\n• BD mede 20 cm.\nA razão AC/DC é igual a:",
+      principal: "Considere o triângulo retângulo ABC, representado a seguir:\n(Image of a right triangle ABC with angle bisector AD)\nSabe-se que:\n• BC é perpendicular a AC;\n• AD é a bissetriz do ângulo CAB;\n• ABC é igual a 30°;\n• BD mede 20 cm.\nA razão $\\\\frac{AC}{DC}$ é igual a:",
       subItens: []
     },
-    options: ["√3","√2","√3\$1_{2}$","√2\$1_{2}$"],
+    options: ["√3","√2","√3\n2","√2\n2"],
     correctAnswer: 0,
     materia: "Matemática – Geometria Plana",
     conteudo: "Matemática – Trigonometria",
@@ -468,7 +468,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Observe os gráficos das funções reais f e g, definidas por f(x) = 2x e g(x) = (1/8)^(x-1), sendo x ∈ IR:\n(Graph showing intersection point A(Xo, Yo))\nSendo A(xo, yo) o ponto de interseção desses gráficos, (xo, yo) é:",
+      principal: "Observe os gráficos das funções reais f e g, definidas por f(x) = 2x e g(x) = ($\\\\frac{1}{8}$)^(x-1), sendo x ∈ IR:\n(Graph showing intersection point A(Xo, Yo))\nSendo A(xo, yo) o ponto de interseção desses gráficos, (xo, yo) é:",
       subItens: []
     },
     options: ["(3/4, √8)","(3/2, √8)","(3/4, √2)","(3/2, √2)"],
@@ -498,7 +498,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "No $\pi$ão representado a seguir, VAB é a seção meridiana de um cone circular reto, e a geratriz do\ncone mede 12 cm. Assim, VA = VB = 12 cm e AB é o diâmetro da base do cone.\nAo ser lançado, esse $\pi$ão cai sobre o plano horizontal e rola, sem deslizar, com a sua geratriz\napoiada nesse plano. O $\pi$ão dá apenas uma volta completa em torno do seu eixo, descrevendo o\nsetor circular AVP de centro V e ângulo central de 120°.\n(Image of a cone and its flattened sector)\nA medida do diâmetro AB, em centímetros, é igual a:",
+      principal: "No $\\\\pi$ão representado a seguir, VAB é a seção meridiana de um cone circular reto, e a geratriz do\ncone mede 12 cm. Assim, VA = VB = 12 cm e AB é o diâmetro da base do cone.\nAo ser lançado, esse $\\\\pi$ão cai sobre o plano horizontal e rola, sem deslizar, com a sua geratriz\napoiada nesse plano. O $\\\\pi$ão dá apenas uma volta completa em torno do seu eixo, descrevendo o\nsetor circular AVP de centro V e ângulo central de 120°.\n(Image of a cone and its flattened sector)\nA medida do diâmetro AB, em centímetros, é igual a:",
       subItens: []
     },
     options: ["6","8","10","12"],
@@ -543,7 +543,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Atri-iodotironina e a tiroxina são hormônios produzidos pela tireoide, conhecidos, respectivamente,\ncomo $1_{3}_{}$ e $1_{4}_{}$, em função do número de átomos de iodo presentes em cada molécula. Observe\nsuas fórmulas estruturais:\n(Images of tri-iodotironina ($1_{3}_{}$) and tiroxina ($1_{4}_{}$) structures)\nEm relação ao $1_{4}_{}$, o hormônio $1_{3}_{}$ apresenta maior número de átomos do seguinte elemento químico:",
+      principal: "Atri-iodotironina e a tiroxina são hormônios produzidos pela tireoide, conhecidos, respectivamente,\ncomo T_{3} e T_{4}, em função do número de átomos de iodo presentes em cada molécula. Observe\nsuas fórmulas estruturais:\n(Images of tri-iodotironina (T_{3}) and tiroxina (T_{4}) structures)\nEm relação ao T_{4}, o hormônio T_{3} apresenta maior número de átomos do seguinte elemento químico:",
       subItens: []
     },
     options: ["hidrogênio","nitrogênio","oxigênio","carbono"],
@@ -588,7 +588,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "O mineral apatita, utilizado como matéria-prima na produção de fertilizantes, contém diferentes\nsais de cálcio, dentre eles o $1_{3}_{}$($1_{4}$)2.\nNesse sal, o ânion presente é denominado:",
+      principal: "O mineral apatita, utilizado como matéria-prima na produção de fertilizantes, contém diferentes\nsais de cálcio, dentre eles o Ca_{3}(PO_{4})2.\nNesse sal, o ânion presente é denominado:",
       subItens: []
     },
     options: ["hipofosfato","hipofosfito","fosfito","fosfato"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Considere que toda a energia liberada em um intervalo de tempo de 1 s pelas duas bombas\ncorresponde a $1 \times 10^{14}$ J.\nO gráfico que representa a potência média dessas bombas ao explodirem é:\n(Graph options A, B, C, D showing U(V) vs i(A))",
+      principal: "Considere que toda a energia liberada em um intervalo de tempo de 1 s pelas duas bombas\ncorresponde a $1 \\\\times 10^{14}$ J.\nO gráfico que representa a potência média dessas bombas ao explodirem é:\n(Graph options A, B, C, D showing U(V) vs i(A))",
       subItens: []
     },
     options: ["(Graph A)","(Graph B)","(Graph C)","(Graph D)"],
@@ -648,7 +648,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "O CO₂ produzido na respiração atua no equilíbrio do pH do sangue, conforme a equação:\$1_{2}$ (aq) + $1_{2}O_{}$ (l) \le> H+ (aq) + $1_{3}$-(aq)\nEm um estudo, foi analisada a alteração que quatro fármacos podem produzir sobre esse equilíbrio.\nObserve a tabela:\n(Table with FÁRMACO W, X, Y, Z and corresponding pH values)\nA concentração de íons $1_{3}$-, no equilíbrio, é aumentada quando o seguinte fármaco entra em\ncontato com o sangue:",
+      principal: "O CO₂ produzido na respiração atua no equilíbrio do pH do sangue, conforme a equação:\nCO_{2} (aq) + H_{2}O (l) $\\\\le$> H+ (aq) + HCO_{3}-(aq)\nEm um estudo, foi analisada a alteração que quatro fármacos podem produzir sobre esse equilíbrio.\nObserve a tabela:\n(Table with FÁRMACO W, X, Y, Z and corresponding pH values)\nA concentração de íons HCO_{3}-, no equilíbrio, é aumentada quando o seguinte fármaco entra em\ncontato com o sangue:",
       subItens: []
     },
     options: ["W","X","Y","Z"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Para variar em 60 °C a temperatura de m quilogramas de água, foi utilizada toda a energia produzida\npela queima de 100 g de etanol. Para essas condições, considere os seguintes valores:\n• poder calorífico do etanol igual a 30,00 kJ/g;\n• calor específico da água igual a 4,20 J/g °C.\nO valor de m, em quilogramas, é aproximadamente igual a:",
+      principal: "Para variar em 60 °C a temperatura de m quilogramas de água, foi utilizada toda a energia produzida\npela queima de 100 g de etanol. Para essas condições, considere os seguintes valores:\n• poder calorífico do etanol igual a 30,00 $\\\\frac{kJ}{g}$;\n• calor específico da água igual a 4,20 $\\\\frac{J}{g}$ °C.\nO valor de m, em quilogramas, é aproximadamente igual a:",
       subItens: []
     },
     options: ["36","24","18","12"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "A ANTIGA CIVILIZAÇÃO DO TEMPO DESPERDIÇADO\n(Image: Political cartoon showing fossilized people watching TV)\nCACO GALHARDO\nAdaptado de Folha de S. Paulo, 22/05/2024.\nO artista Caco Galhardo faz uma crítica a comportamentos sociais de diversas sociedades\ncontemporâneas, apresentando relações entre passado e futuro.\nDe acordo com a charge, a condição que impacta diretamente no comportamento social\ncontemporâneo é:",
+      principal: "A ANTIGA CIVILIZAÇÃO DO TEMPO DESPERDIÇADO\n(Image: Political cartoon showing fossilized people watching TV)\nCACO GALHARDO\nAdaptado de Folha de S. Paulo, $\\\\frac{22}{05}$/2024.\nO artista Caco Galhardo faz uma crítica a comportamentos sociais de diversas sociedades\ncontemporâneas, apresentando relações entre passado e futuro.\nDe acordo com a charge, a condição que impacta diretamente no comportamento social\ncontemporâneo é:",
       subItens: []
     },
     options: ["demanda política de propaganda","hierarquização classista de mercado","tecnologia digital de entretenimento","imposição cultural de empregabilidade"],
@@ -738,7 +738,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Com 1,4 bilhão de habitantes, não dá para juntar 11 atletas num time competitivo? É o que se\nperguntam os torcedores chineses, frustrados mais uma vez por verem a Copa do Mundo sem a\nsua seleção.\nO fracasso tem algo a ensinar sobre a sociedade chinesa e o futebol. A centralização foi muito eficaz\npara atingir as metas do governo e tornar a China uma potência econômica, militar e tecnológica.\nO futebol tornou-se uma dessas metas quando Xi Jinping assumiu o poder. Mas nem o estímulo\ndo líder mais poderoso desde Mao Tsé-tung foi suficiente para a China acertar o pé.\nO sistema centrado na obediência não ajuda a gestar criatividade. Jogadores e treinadores\nestrangeiros que atuaram na China notaram nessa diferença cultural um obstáculo à excelência.\nFoi um choque sobretudo para os brasileiros, ensinados a associar futebol à improvisação, ver\ncomo a reverência à hierarquia afetava tomadas de decisão desde o roupeiro até seus companheiros\nem campo, avessos a qualquer ação fora do roteiro.\nÉ uma mentalidade que favorece o desempenho nas modalidades em que a repetição mecânica é\npremiada, como natação e ginástica – nessas os chineses se destacam. Mas não funciona no futebol.\nMARCELO NINIO\nAdaptado de O Globo, 22/11/2022.\nDe acordo com o autor, o fracasso dos chineses no futebol deve ser atribuído à seguinte característica\npresente naquela sociedade:",
+      principal: "Com 1,4 bilhão de habitantes, não dá para juntar 11 atletas num time competitivo? É o que se\nperguntam os torcedores chineses, frustrados mais uma vez por verem a Copa do Mundo sem a\nsua seleção.\nO fracasso tem algo a ensinar sobre a sociedade chinesa e o futebol. A centralização foi muito eficaz\npara atingir as metas do governo e tornar a China uma potência econômica, militar e tecnológica.\nO futebol tornou-se uma dessas metas quando Xi Jinping assumiu o poder. Mas nem o estímulo\ndo líder mais poderoso desde Mao Tsé-tung foi suficiente para a China acertar o pé.\nO sistema centrado na obediência não ajuda a gestar criatividade. Jogadores e treinadores\nestrangeiros que atuaram na China notaram nessa diferença cultural um obstáculo à excelência.\nFoi um choque sobretudo para os brasileiros, ensinados a associar futebol à improvisação, ver\ncomo a reverência à hierarquia afetava tomadas de decisão desde o roupeiro até seus companheiros\nem campo, avessos a qualquer ação fora do roteiro.\nÉ uma mentalidade que favorece o desempenho nas modalidades em que a repetição mecânica é\npremiada, como natação e ginástica – nessas os chineses se destacam. Mas não funciona no futebol.\nMARCELO NINIO\nAdaptado de O Globo, $\\\\frac{22}{11}$/2022.\nDe acordo com o autor, o fracasso dos chineses no futebol deve ser atribuído à seguinte característica\npresente naquela sociedade:",
       subItens: []
     },
     options: ["autoritarismo político","nacionalismo ufanista","controle populacional","sentimento xenofóbico"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Agravada este ano pelo fenômeno El Niño, a seca sazonal da Amazônia, que levou os rios aos\nmenores níveis da história, atrapalha o transporte de pessoas e mercadorias num momento em\nque os portos das regiões Norte e Nordeste, que formam o chamado Arco Norte, respondem por\nmais de 37% das exportações de soja e milho, principais itens da safra nacional de grãos. Nos\núltimos dez anos, essa rota de escoamento mais do que duplicou sua participação na logística\nnacional. Os portos das regiões Sudeste e Sul formam o Arco Sul, sendo o Porto de Santos (SP)\nainda a principal porta de saída de grãos. Mas a tendência é que a via no norte do país siga\nganhando importância porque, quanto mais acima do paralelo 16° Sul estiver a mercadoria,\nmais vale a pena exportar pelo Arco Norte.\nO CAMINHO DAS EXPORTAÇÕES DE GRÃOS\n(participação percentual nas exportações de soja e milho)\n(Bar chart: Arco Norte vs Arco Sul percentage from 2009-2022)\nVINICIUS NEDER\nAdaptado de O Globo, 05/11/2023.\nEm menos de duas décadas, verifica-se uma alteração logística na exportação de grãos no\nterritório brasileiro.\nEssa alteração é explicada, principalmente, pelo seguinte processo socioespacial:",
+      principal: "Agravada este ano pelo fenômeno El Niño, a seca sazonal da Amazônia, que levou os rios aos\nmenores níveis da história, atrapalha o transporte de pessoas e mercadorias num momento em\nque os portos das regiões Norte e Nordeste, que formam o chamado Arco Norte, respondem por\nmais de 37% das exportações de soja e milho, principais itens da safra nacional de grãos. Nos\núltimos dez anos, essa rota de escoamento mais do que duplicou sua participação na logística\nnacional. Os portos das regiões Sudeste e Sul formam o Arco Sul, sendo o Porto de Santos (SP)\nainda a principal porta de saída de grãos. Mas a tendência é que a via no norte do país siga\nganhando importância porque, quanto mais acima do paralelo 16° Sul estiver a mercadoria,\nmais vale a pena exportar pelo Arco Norte.\nO CAMINHO DAS EXPORTAÇÕES DE GRÃOS\n(participação percentual nas exportações de soja e milho)\n(Bar chart: Arco Norte vs Arco Sul percentage from 2009-2022)\nVINICIUS NEDER\nAdaptado de O Globo, $\\\\frac{05}{11}$/2023.\nEm menos de duas décadas, verifica-se uma alteração logística na exportação de grãos no\nterritório brasileiro.\nEssa alteração é explicada, principalmente, pelo seguinte processo socioespacial:",
       subItens: []
     },
     options: ["utilização de modernas tecnologias de cultivo","incorporação de novos espaços produtivos","eliminação de antigas práticas predatórias","recuperação de velhas ferrovias de carga"],
@@ -798,7 +798,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "ENCHENTES EM PORTO ALEGRE: IMAGENS AÉREAS DO MERCADO PÚBLICO\n(Image: 1941 and 2024 aerial views of Porto Alegre market, 2024 showing flood)\nApós 83 anos, a cidade de Porto Alegre voltou a registrar uma grande enchente. Em 1941, a capital\ngaúcha enfrentou um alagamento histórico, que deixou cerca de 70 mil pessoas desabrigadas. Na\nocasião, o nível do Guaíba, cuja cota de inundação é de 3 metros, chegou a uma altura entre 4,75 e\$1_{4}$,76 metros, segundo registros da época. Desta vez, o nível do Guaíba passou de 5,3 metros e, no\ndia 8 de maio de 2024, atingiu 5,07 metros.\ncnnbrasil.com.br\nAs grandes enchentes que afetaram Porto Alegre, nos anos de 1941 e 2024, mencionadas na\nreportagem, indicam a incidência desse problema na capital gaúcha.\nNa atualidade, o agravamento desse problema está relacionado ao contexto de:",
+      principal: "ENCHENTES EM PORTO ALEGRE: IMAGENS AÉREAS DO MERCADO PÚBLICO\n(Image: 1941 and 2024 aerial views of Porto Alegre market, 2024 showing flood)\nApós 83 anos, a cidade de Porto Alegre voltou a registrar uma grande enchente. Em 1941, a capital\ngaúcha enfrentou um alagamento histórico, que deixou cerca de 70 mil pessoas desabrigadas. Na\nocasião, o nível do Guaíba, cuja cota de inundação é de 3 metros, chegou a uma altura entre 4,75 e\n4,76 metros, segundo registros da época. Desta vez, o nível do Guaíba passou de 5,3 metros e, no\ndia 8 de maio de 2024, atingiu 5,07 metros.\ncnnbrasil.com.br\nAs grandes enchentes que afetaram Porto Alegre, nos anos de 1941 e 2024, mencionadas na\nreportagem, indicam a incidência desse problema na capital gaúcha.\nNa atualidade, o agravamento desse problema está relacionado ao contexto de:",
       subItens: []
     },
     options: ["intensificação da crise climática","exploração de recursos minerais","degradação do bioma do Pampa","permeabilização do solo da cidade"],
@@ -813,7 +813,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "(Image: Indigenous leaders with banner \"CONSTITUINTES: QUEREMOS NOSSOS\nDIREITOS NÃO À ACULTURAÇÃO\" during 1988 Constitution negotiations)\nAdaptado de Folha de S. Paulo, 14/02/2024.\nA mobilização política de povos indígenas garantiu direitos para essas populações na Constituição\nBrasileira promulgada em 1988.\nNaquele contexto, a garantia do direito constitucional apresentado na fotografia representou a\ndefesa da ideia de:",
+      principal: "(Image: Indigenous leaders with banner \"CONSTITUINTES: QUEREMOS NOSSOS\nDIREITOS NÃO À ACULTURAÇÃO\" during 1988 Constitution negotiations)\nAdaptado de Folha de S. Paulo, $\\\\frac{14}{02}$/2024.\nA mobilização política de povos indígenas garantiu direitos para essas populações na Constituição\nBrasileira promulgada em 1988.\nNaquele contexto, a garantia do direito constitucional apresentado na fotografia representou a\ndefesa da ideia de:",
       subItens: []
     },
     options: ["estatização","apropriação","emancipação","autodeterminação"],
@@ -843,7 +843,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Nos dias 1º e 2 de novembro de 2023, ocorreu no Reino Unido a Conferência de Segurança sobre\nInteligência Artificial (IA), que reuniu representantes de governos, empresas e sociedade civil de\nvárias partes do mundo e culminou com uma declaração conjunta emitida pelos países participantes.\n(Image: Political cartoon on AI safety conference)\nKAL\nAdaptado de economist.com, 02/11/2023.\nO autor da charge ironiza o resultado da conferência ao apontar uma possível contradição de\nalguns países participantes.\nEssa contradição envolve os seguintes fatores:",
+      principal: "Nos dias 1º e 2 de novembro de 2023, ocorreu no Reino Unido a Conferência de Segurança sobre\nInteligência Artificial (IA), que reuniu representantes de governos, empresas e sociedade civil de\nvárias partes do mundo e culminou com uma declaração conjunta emitida pelos países participantes.\n(Image: Political cartoon on AI safety conference)\nKAL\nAdaptado de economist.com, $\\\\frac{02}{11}$/2023.\nO autor da charge ironiza o resultado da conferência ao apontar uma possível contradição de\nalguns países participantes.\nEssa contradição envolve os seguintes fatores:",
       subItens: []
     },
     options: ["direitos humanos – ordenamentos jurídicos","acordos comerciais – práticas monopolistas","desenvolvimento econômico – poderio militar","posicionamento diplomático – interesse estratégico"],
@@ -858,7 +858,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "Na Nova Holanda, comunidade do Complexo da Maré, no Rio de Janeiro, terraços cobertos por\nalumínio e fibrocimento (antigo amianto) predominam, em comparação com os de PVC, mais\ncaros. E aquecem mais durante os dias de calorão turbinado pelo aquecimento global. Segundo\na tese de doutorado do arquiteto e urbanista Lucivaldo Dias Bastos, predominam temperaturas\nmais elevadas sob as telhas mais baratas até mesmo em relação a um ponto medido na avenida\nBrasil, próximo à favela, apesar da quantidade de cimento e da falta de árvores na via expressa.\nO estudo revela uma dura realidade: os que vivem em áreas carentes sofrem mais os efeitos do\ncalor do que aqueles que moram em localidades consideradas mais nobres. Áreas dos subúrbios\nda Central e da Leopoldina – onde estão os complexos da Maré, da Penha e do Alemão – são as\nmais quentes da cidade, levando em conta tanto a temperatura da superfície, captada por satélites,\ncomo a do ar, registrada por aferições de campo.\nSELMA SCHMIDT\nAdaptado de O Globo, 07/01/2024.\nA reportagem relata um fenômeno que é espacialmente diferenciado.\nIsso se deve a uma situação de:",
+      principal: "Na Nova Holanda, comunidade do Complexo da Maré, no Rio de Janeiro, terraços cobertos por\nalumínio e fibrocimento (antigo amianto) predominam, em comparação com os de PVC, mais\ncaros. E aquecem mais durante os dias de calorão turbinado pelo aquecimento global. Segundo\na tese de doutorado do arquiteto e urbanista Lucivaldo Dias Bastos, predominam temperaturas\nmais elevadas sob as telhas mais baratas até mesmo em relação a um ponto medido na avenida\nBrasil, próximo à favela, apesar da quantidade de cimento e da falta de árvores na via expressa.\nO estudo revela uma dura realidade: os que vivem em áreas carentes sofrem mais os efeitos do\ncalor do que aqueles que moram em localidades consideradas mais nobres. Áreas dos subúrbios\nda Central e da Leopoldina – onde estão os complexos da Maré, da Penha e do Alemão – são as\nmais quentes da cidade, levando em conta tanto a temperatura da superfície, captada por satélites,\ncomo a do ar, registrada por aferições de campo.\nSELMA SCHMIDT\nAdaptado de O Globo, $\\\\frac{07}{01}$/2024.\nA reportagem relata um fenômeno que é espacialmente diferenciado.\nIsso se deve a uma situação de:",
       subItens: []
     },
     options: ["inversão térmica","injustiça ambiental","poluição atmosférica","macrocefalia urbana"],
@@ -873,7 +873,7 @@ createQuestion({
     university: "2º Exame de Qualificação",
     year: 2025,
     text: {
-      principal: "(Image of Estação Ferroviária Leopoldina)\nA Estação Ferroviária Leopoldina não abriga o mais belo dos aspectos visuais, visto que sua\nhistórica fachada está pichada, suja e mal conservada. No entanto, em outros tempos, essa parada\nda cidade do Rio de Janeiro simbolizou o que havia de mais charmoso no Brasil. “A linha que\npartia dessa estação unia o centro do Rio a Petrópolis e a Três Rios. As viagens, no início, eram\ncheias de requinte”, conta o historiador Maurício Santos.\nInaugurada em 1926, era chamada de Barão de Mauá, para homenagear Irineu Evangelista de\nSouza, um dos pioneiros da construção de ferrovias no país. A estação foi elogiada inclusive por\nestrangeiros admiradores de boa arquitetura, segundo o historiador. Em 2002, deixou de ser\nutilizada definitivamente para embarque de passageiros, que passaram a embarcar na estação\nDom Pedro II, conhecida como Central do Brasil.\nQUINTINO GOMES FREIRE\nAdaptado de diariodorio.com, 18/03/2015.\nAs estações de trem representaram um modelo exitoso de investimento em meios de transporte,\nno decorrer dos séculos XIX até meados do século XX.\nA desativação da Estação Ferroviária Leopoldina, no início do século XXI, decorre do seguinte\naspecto das transformações urbanas na cidade do Rio de Janeiro:",
+      principal: "(Image of Estação Ferroviária Leopoldina)\nA Estação Ferroviária Leopoldina não abriga o mais belo dos aspectos visuais, visto que sua\nhistórica fachada está pichada, suja e mal conservada. No entanto, em outros tempos, essa parada\nda cidade do Rio de Janeiro simbolizou o que havia de mais charmoso no Brasil. “A linha que\npartia dessa estação unia o centro do Rio a Petrópolis e a Três Rios. As viagens, no início, eram\ncheias de requinte”, conta o historiador Maurício Santos.\nInaugurada em 1926, era chamada de Barão de Mauá, para homenagear Irineu Evangelista de\nSouza, um dos pioneiros da construção de ferrovias no país. A estação foi elogiada inclusive por\nestrangeiros admiradores de boa arquitetura, segundo o historiador. Em 2002, deixou de ser\nutilizada definitivamente para embarque de passageiros, que passaram a embarcar na estação\nDom Pedro II, conhecida como Central do Brasil.\nQUINTINO GOMES FREIRE\nAdaptado de diariodorio.com, $\\\\frac{18}{03}$/2015.\nAs estações de trem representaram um modelo exitoso de investimento em meios de transporte,\nno decorrer dos séculos XIX até meados do século XX.\nA desativação da Estação Ferroviária Leopoldina, no início do século XXI, decorre do seguinte\naspecto das transformações urbanas na cidade do Rio de Janeiro:",
       subItens: []
     },
     options: ["crescimento de ações para a ocupação de periferias e favelas","deslocamento de verbas para a circulação de automóveis e ônibus","ordenamento de iniciativas para a geração de empregos e serviços","aprimoramento de práticas para a integração de indústrias e finanças"],

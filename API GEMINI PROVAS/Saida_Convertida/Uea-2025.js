@@ -228,7 +228,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2025,
     text: {
-      principal: "Uma estátua de Mahatma Gandhi foi inaugurada em 2015 em Londres. A estátua de bronze fica diante do Big Ben e do Parlamento, em meio a monumentos em homenagem a personalidades como Nelson Mandela e Abraham Lincoln. O primeiro-ministro britânico David Cameron afirmou que a estátua constitui “uma vibrante homenagem a uma das figuras mais importantes da história mundial”. “Ao colocar Gandhi nesta praça ilustre, oferecemos a ele uma presença eterna em nosso país”, disse.\n(https://$1_{1}$.globo.com, 14.03.2015. Adaptado.)\n\nO excerto noticia um ato em homenagem a Mahatma Gandhi por sua atuação",
+      principal: "Uma estátua de Mahatma Gandhi foi inaugurada em 2015 em Londres. A estátua de bronze fica diante do Big Ben e do Parlamento, em meio a monumentos em homenagem a personalidades como Nelson Mandela e Abraham Lincoln. O primeiro-ministro britânico David Cameron afirmou que a estátua constitui “uma vibrante homenagem a uma das figuras mais importantes da história mundial”. “Ao colocar Gandhi nesta praça ilustre, oferecemos a ele uma presença eterna em nosso país”, disse.\n(https://g_{1}.globo.com, 14.03.2015. Adaptado.)\n\nO excerto noticia um ato em homenagem a Mahatma Gandhi por sua atuação",
       subItens: []
     },
     options: ["na consolidação da monarquia parlamentarista inglesa.","na luta pelo fim da segregação racial sul-africana.","na libertação indiana em relação à colonização inglesa.","na abolição da escravidão em território estadunidense.","em guerras travadas pela independência afro-asiática."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2025,
     text: {
-      principal: "Examine o mapa que apresenta a espacialidade da população residente em área urbana na Amazônia Legal.\n\n[MAPA]\n\n(https://$1_{2030}$.org.br)\n\nConsiderando o mapa e conhecimentos sobre a urbanização brasileira, a rede urbana amazônica caracteriza-se",
+      principal: "Examine o mapa que apresenta a espacialidade da população residente em área urbana na Amazônia Legal.\n\n[MAPA]\n\n(https://amazonia_{2030}.org.br)\n\nConsiderando o mapa e conhecimentos sobre a urbanização brasileira, a rede urbana amazônica caracteriza-se",
       subItens: []
     },
     options: ["pela formação de megalópoles próximas às hidrovias, o que expande a integração econômica entre as cidades.","pelo espaçamento entre as cidades de pequeno porte, o que reflete na expansão do processo de metropolização.","pelas grandes distâncias entre as cidades de grande e de pequeno porte, o que limita os fluxos de bens, pessoas e serviços.","pelo processo de conurbação entre as cidades de pequeno porte, o que dinamiza o acesso a serviços públicos.","pela rapidez do processo de desmetropolização regional, o que revela a opção da população em migrar para outras regiões."],
@@ -633,7 +633,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2025,
     text: {
-      principal: "A distribuição dos salários dos funcionários de uma empresa é dada pela tabela a seguir.\n\nNúmero de funcionários | Salário em R$\n----------------------|--------------\$1_{15}$                    | 3.100,00\$1_{22}$                    | 2.900,00\$1_{35}$                    | 2.500,00\$1_{28}$                    | 1.800,00\n\nA mediana dos salários desses funcionários é",
+      principal: "A distribuição dos salários dos funcionários de uma empresa é dada pela tabela a seguir.\n\nNúmero de funcionários | Salário em R$\n----------------------|--------------\n15                    | 3.100,00\n22                    | 2.900,00\n35                    | 2.500,00\n28                    | 1.800,00\n\nA mediana dos salários desses funcionários é",
       subItens: []
     },
     options: ["R$ 2.482,00.","R$ 2.500,00.","R$ 2.575,00.","R$ 2.700,00.","R$ 2.792,00."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2025,
     text: {
-      principal: "Durante uma viagem, um ônibus percorreu uma distância de 240 km, com velocidade escalar média de 120 km/h, da cidade P até um posto de serviços, onde ficou parado por 30 minutos. Após a parada, o ônibus se deslocou até a cidade Q com uma velocidade escalar média de 80 km/h. Sabendo que a distância total da viagem, entre as cidades P e Q, era de 440 km, a velocidade escalar média desenvolvida pelo ônibus do momento da saída de P até a chegada em Q foi de",
+      principal: "Durante uma viagem, um ônibus percorreu uma distância de 240 km, com velocidade escalar média de 120 $\\\\frac{km}{h}$, da cidade P até um posto de serviços, onde ficou parado por 30 minutos. Após a parada, o ônibus se deslocou até a cidade Q com uma velocidade escalar média de 80 $\\\\frac{km}{h}$. Sabendo que a distância total da viagem, entre as cidades P e Q, era de 440 km, a velocidade escalar média desenvolvida pelo ônibus do momento da saída de P até a chegada em Q foi de",
       subItens: []
     },
     options: ["76 km/h.","82 km/h.","88 km/h.","94 km/h.","102 km/h."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2025,
     text: {
-      principal: "O painel solar da figura possui uma eficiência de 80% ao converter energia solar em energia elétrica.\n\n[DIAGRAMA]\n\nConsidere que a quantidade de energia solar por metro quadrado que incide sobre a superfície de um painel solar, dada em J/m², seja representada por p. A relação que fornece a quantidade de energia solar convertida em energia elétrica, Eel, em joules, para uma residência que utiliza 5 desses painéis é:",
+      principal: "O painel solar da figura possui uma eficiência de 80% ao converter energia solar em energia elétrica.\n\n[DIAGRAMA]\n\nConsidere que a quantidade de energia solar por metro quadrado que incide sobre a superfície de um painel solar, dada em $\\\\frac{J}{m}$², seja representada por p. A relação que fornece a quantidade de energia solar convertida em energia elétrica, Eel, em joules, para uma residência que utiliza 5 desses painéis é:",
       subItens: []
     },
     options: ["Eel = 2 * (a * b / p)","Eel = 5 * (p / (a * b))","Eel = 8 * (p / (a * b))","Eel = 4 * p * a * b","Eel = 5 * p * a * b"],
@@ -771,7 +771,7 @@ createQuestion({
       principal: "Analise o circuito formado por interruptores e lâmpadas idênticas e uma fonte de energia.\n\n[DIAGRAMA]\n\nFechando-se os interruptores Ch₁, Ch₂ e Ch₃ e sabendo que nenhuma lâmpada se queima, ficarão acesas as lâmpadas",
       subItens: []
     },
-    options: ["L₁ e $1_{3}_{}$, apenas.","$1_{2}_{}$ e $1_{4}_{}$, apenas.","$1_{3}_{}$ e $1_{4}_{}$, apenas.","$1_{1}_{}$, $1_{2}_{}$ e $1_{3}_{}$, apenas.","$1_{1}_{}$, $1_{2}_{}$, $1_{3}_{}$ e $1_{4}_{}$."],
+    options: ["L₁ e L3, apenas.","L2 e L4, apenas.","L3 e L4, apenas.","L1, L2 e L3, apenas.","L1, L2, L3 e L4."],
     correctAnswer: 0,
     materia: "Física – Eletricidade",
     conteudo: "",

@@ -708,7 +708,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2022,
     text: {
-      principal: "O esquema ilustra de forma resumida o efeito de um gene recessivo pleiotrópico, cujo efeito primário é produzir uma deficiência na enzima fenilalanina hidroxilase. Nota-se no esquema que as enzimas fenilalanina hidroxilase e tirosinase atuam em conversões de algumas substâncias.\n\n[IMAGEM: Diagrama que mostra o metabolismo da fenilalanina. Proteína ou aminoácido$$ \rightarrow F$$enilalanina$$ \rightarrow ($$com Fenilalanina hidroxilase$$) \rightarrow T$$irosina$$ \rightarrow ($$com Tirosinase$$) \rightarrow M$$elanina. Fenilalanina também pode ir para Ácido fenilpirúvico (sem Fenilalanina hidroxilase). Tirosina também pode ir para Fenilcetonúria (sem Tirosinase, ligado a Fenilcetonúria). Fenilcetonúria leva a Pele pigmentada e Fenilcetonúria.]\n\nDe acordo com o esquema e conhecimentos sobre mecanismos genéticos,",
+      principal: "O esquema ilustra de forma resumida o efeito de um gene recessivo pleiotrópico, cujo efeito primário é produzir uma deficiência na enzima fenilalanina hidroxilase. Nota-se no esquema que as enzimas fenilalanina hidroxilase e tirosinase atuam em conversões de algumas substâncias.\n\n[IMAGEM: Diagrama que mostra o metabolismo da fenilalanina. Proteína ou aminoácido$$ \\\\rightarrow F$$enilalanina$$ \\\\rightarrow ($$com Fenilalanina hidroxilase$$) \\\\rightarrow T$$irosina$$ \\\\rightarrow ($$com Tirosinase$$) \\\\rightarrow M$$elanina. Fenilalanina também pode ir para Ácido fenilpirúvico (sem Fenilalanina hidroxilase). Tirosina também pode ir para Fenilcetonúria (sem Tirosinase, ligado a Fenilcetonúria). Fenilcetonúria leva a Pele pigmentada e Fenilcetonúria.]\n\nDe acordo com o esquema e conhecimentos sobre mecanismos genéticos,",
       subItens: []
     },
     options: ["uma pessoa de genótipo aa terá acúmulo de ácido fenilpirúvico no corpo.","uma pessoa de genótipo Aa terá fenilcetonúria e a sua pele será pigmentada.","as duas enzimas sofrem influência do pH do meio, mas não da temperatura.","as duas enzimas são sintetizadas no núcleo celular por um único alelo pleiotrópico.","uma pessoa com fenilcetonúria não deve ingerir proteínas ou aminoácidos."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2022,
     text: {
-      principal: "Acefato é o nome de um inseticida de fórmula molecular C₄H₁₀NO₃PS (M = 183 g/mol), indicado para aplicação em culturas de algodão, soja e feijão. A formulação recomendada para uso é de 0,75 a 1 kg dissolvido em 300 a 400 L de água. Assim, a concentração em mol/L da solução mais diluída desse inseticida é igual a",
+      principal: "Acefato é o nome de um inseticida de fórmula molecular C₄H₁₀NO₃PS (M = 183 $\\\\frac{g}{mol}$), indicado para aplicação em culturas de algodão, soja e feijão. A formulação recomendada para uso é de 0,75 a 1 kg dissolvido em 300 a 400 L de água. Assim, a concentração em $\\\\frac{mol}{L}$ da solução mais diluída desse inseticida é igual a",
       subItens: []
     },
     options: ["1,8 x 10⁻².","1,3 x 10⁻².","4,5 x 10⁻³.","1,0 × 10⁻².","7,3 x 10⁻³."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2022,
     text: {
-      principal: "Quando ferro metálico é mergulhado em uma solução de ácido clorídrico, ocorre a seguinte reação:\n\nFe + 2HCl → FeCl₂ + H₂\nΔΗ = -88 kJ/mol\n\nConsiderando o volume molar dos gases igual a 25 L/mol e que em um experimento realizado à temperatura ambiente foram liberados 7,04 kJ de energia, o volume de gás hidrogênio produzido nesse experimento foi de",
+      principal: "Quando ferro metálico é mergulhado em uma solução de ácido clorídrico, ocorre a seguinte reação:\n\nFe + 2HCl → FeCl₂ + H₂\nΔΗ = -88 $\\\\frac{kJ}{mol}$\n\nConsiderando o volume molar dos gases igual a 25 $\\\\frac{L}{mol}$ e que em um experimento realizado à temperatura ambiente foram liberados 7,04 kJ de energia, o volume de gás hidrogênio produzido nesse experimento foi de",
       subItens: []
     },
     options: ["0,16 L.","1,00 L.","2,50 L.","2,00 L.","0,08 L."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2022,
     text: {
-      principal: "O hipoclorito de sódio (NaClO) apresenta propriedades bactericidas por promover a oxidação de proteínas, lipídeos e carboidratos existentes nas células bacterianas. A equação mostra a reação entre a glicina e o íon hipoclorito (ClO⁻).\n\n[IMAGEM: Reação química entre H-C(-OH)(=O)-NH₂ (glicina) + ClO⁻ (hipoclorito$$) \rightarrow H$$-C(-Cl)(=O)-NH₂ + OH⁻.]\n\nNessa reação, verifica-se que o átomo de carbono do __________ glicina é __________ pelo íon hipoclorito e o átomo de cloro tem seu número de oxidação alterado de __________ para __________. As lacunas do texto são preenchidas, respectivamente, por:",
+      principal: "O hipoclorito de sódio (NaClO) apresenta propriedades bactericidas por promover a oxidação de proteínas, lipídeos e carboidratos existentes nas células bacterianas. A equação mostra a reação entre a glicina e o íon hipoclorito (ClO⁻).\n\n[IMAGEM: Reação química entre H-C(-OH)(=O)-NH₂ (glicina) + ClO⁻ (hipoclorito$$) \\\\rightarrow H$$-C(-Cl)(=O)-NH₂ + OH⁻.]\n\nNessa reação, verifica-se que o átomo de carbono do __________ glicina é __________ pelo íon hipoclorito e o átomo de cloro tem seu número de oxidação alterado de __________ para __________. As lacunas do texto são preenchidas, respectivamente, por:",
       subItens: []
     },
     options: ["ácido graxo; oxidado; 2+ e zero","aminoácido; oxidado; 1+ e 1-","aminoácido; reduzido; 1+ e 1–","ácido graxo; reduzido; zero e 1+","carboidrato; oxidado; 2+ e 1-"],
@@ -903,7 +903,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2022,
     text: {
-      principal: "Alguns relógios analógicos possuem uma escala chamada taquímetro, ou tachymeter, em inglês, tal qual o relógio representado na imagem. Essa escala pode ser utilizada para medir taxas temporais, como a variação de distância percorrida por um carro em determinado período, isto é, sua velocidade.\n\n[IMAGEM: Um relógio de pulso analógico com um taquímetro na borda do mostrador. O ponteiro dos segundos está em 45s, e a marca no taquímetro correspondente é 80.]\n\n(www.citizenwatch-global.com. Adaptado.)\n\nNa imagem, a seta representa o caminho percorrido pelo ponteiro dos segundos após o taquímetro ser acionado durante um tempo Δt = 45 s. O número 80, para o qual o ponteiro aponta, indica a taxa temporal, em h⁻¹. Se um carro percorresse uma distância de 1 km nesse período, o taquímetro estaria informando que sua velocidade média era de 80 km/h. Portanto, o taquímetro relaciona o tempo medido, Δt, em segundos, com a taxa temporal, em h⁻¹, por meio da expressão",
+      principal: "Alguns relógios analógicos possuem uma escala chamada taquímetro, ou tachymeter, em inglês, tal qual o relógio representado na imagem. Essa escala pode ser utilizada para medir taxas temporais, como a variação de distância percorrida por um carro em determinado período, isto é, sua velocidade.\n\n[IMAGEM: Um relógio de pulso analógico com um taquímetro na borda do mostrador. O ponteiro dos segundos está em 45s, e a marca no taquímetro correspondente é 80.]\n\n(www.citizenwatch-global.com. Adaptado.)\n\nNa imagem, a seta representa o caminho percorrido pelo ponteiro dos segundos após o taquímetro ser acionado durante um tempo Δt = 45 s. O número 80, para o qual o ponteiro aponta, indica a taxa temporal, em h⁻¹. Se um carro percorresse uma distância de 1 km nesse período, o taquímetro estaria informando que sua velocidade média era de 80 $\\\\frac{km}{h}$. Portanto, o taquímetro relaciona o tempo medido, Δt, em segundos, com a taxa temporal, em h⁻¹, por meio da expressão",
       subItens: []
     },
     options: ["3600 / Δt","Δt / 3600","3600 . Δt","Δt / 60","60 / Δt"],
@@ -918,7 +918,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2022,
     text: {
-      principal: "Um garoto, com o auxílio de um transferidor, tenta calcular a velocidade de um avião que passa por cima de sua casa. Esse garoto repara que o avião, que antes passava pela vertical, acima de sua cabeça, após 10 s está a 30° em relação a essa vertical, como representado na imagem.\n\n[IMAGEM: Diagrama mostrando um avião voando sobre uma casa. Um ponto vertical acima da casa e a posição do avião 10 segundos depois formam um triângulo. A altura do avião é 3000m e o ângulo com a vertical é 30°.]\n\nCom uma breve pesquisa na internet, esse garoto descobre que os aviões sobrevoam a região de sua casa em linha reta, a uma altitude constante de 3000 metros e com velocidade constante. Assim, desprezando a própria altura e utilizando tg 30° = √3/3, os cálculos corretos o levariam a encontrar que a velocidade do avião por ele observado era de",
+      principal: "Um garoto, com o auxílio de um transferidor, tenta calcular a velocidade de um avião que passa por cima de sua casa. Esse garoto repara que o avião, que antes passava pela vertical, acima de sua cabeça, após 10 s está a 30° em relação a essa vertical, como representado na imagem.\n\n[IMAGEM: Diagrama mostrando um avião voando sobre uma casa. Um ponto vertical acima da casa e a posição do avião 10 segundos depois formam um triângulo. A altura do avião é 3000m e o ângulo com a vertical é 30°.]\n\nCom uma breve pesquisa na internet, esse garoto descobre que os aviões sobrevoam a região de sua casa em linha reta, a uma altitude constante de 3000 metros e com velocidade constante. Assim, desprezando a própria altura e utilizando tg 30° = √$\\\\frac{3}{3}$, os cálculos corretos o levariam a encontrar que a velocidade do avião por ele observado era de",
       subItens: []
     },
     options: ["400√2 km/h","420√3 km/h","360√3 km/h","480√2 km/h","400√3 km/h"],
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2022,
     text: {
-      principal: "A lavadora ultrassônica, ou cuba ultrassônica, como a da imagem, é um dos equipamentos utilizados em consultórios e hospitais para a pré-limpeza de equipamentos cirúrgicos e odontológicos. Essa lavadora produz ondas mecânicas, com frequência na faixa do ultrassom, que são transmitidas para uma solução em seu interior. Isso faz com que as moléculas da solução se agitem e, por meio de um processo chamado cavitação, acabem por dissociar as impurezas nas superfícies dos materiais submersos na cuba.\n\n[IMAGEM: Uma lavadora ultrassônica.]\n\n(www.blog.suryadental.com.br. Adaptado.)\n\nSabendo que um valor típico para a frequência de operação dessas cubas é de 40 kHz e que as ondas produzidas se propagam na solução com uma velocidade de 1480 m/s, o comprimento de onda associado a essas ondas é de",
+      principal: "A lavadora ultrassônica, ou cuba ultrassônica, como a da imagem, é um dos equipamentos utilizados em consultórios e hospitais para a pré-limpeza de equipamentos cirúrgicos e odontológicos. Essa lavadora produz ondas mecânicas, com frequência na faixa do ultrassom, que são transmitidas para uma solução em seu interior. Isso faz com que as moléculas da solução se agitem e, por meio de um processo chamado cavitação, acabem por dissociar as impurezas nas superfícies dos materiais submersos na cuba.\n\n[IMAGEM: Uma lavadora ultrassônica.]\n\n(www.blog.suryadental.com.br. Adaptado.)\n\nSabendo que um valor típico para a frequência de operação dessas cubas é de 40 kHz e que as ondas produzidas se propagam na solução com uma velocidade de 1480 $\\\\frac{m}{s}$, o comprimento de onda associado a essas ondas é de",
       subItens: []
     },
     options: ["2,7 x 10¹ m.","3,7 x 10⁻² m.","2,7 × 10⁻³ m.","3,7 × 10² m.","2,7 x 10³ m."],
@@ -1173,7 +1173,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2022,
     text: {
-      principal: "A figura mostra os gráficos das funções f e g, definidas de IR em IR, dadas por f(x) = 2ˣ - 8 e g(x) = 1/2ˣ - 4. O ponto P indica a intersecção dos gráficos dessas funções.\n\n[IMAGEM: Gráfico cartesiano com duas curvas, f e g, e o ponto de intersecção P. f(x) = 2^x - 8 e g(x) = 1/2^x - 4.]\n\nA abscissa x, do ponto P, é igual a",
+      principal: "A figura mostra os gráficos das funções f e g, definidas de IR em IR, dadas por f(x) = 2ˣ - 8 e g(x) = $\\\\frac{1}{2}$ˣ - 4. O ponto P indica a intersecção dos gráficos dessas funções.\n\n[IMAGEM: Gráfico cartesiano com duas curvas, f e g, e o ponto de intersecção P. f(x) = 2^x - 8 e g(x) = $\\\\frac{1}{2}$^x - 4.]\n\nA abscissa x, do ponto P, é igual a",
       subItens: []
     },
     options: ["log₂(2+√5)","log₂(2 + √2)","log₂(1+2√2)","log₂(3+√3)","log₂(3 + √5)"],

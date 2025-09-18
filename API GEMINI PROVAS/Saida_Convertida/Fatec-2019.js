@@ -63,7 +63,7 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2019,
     text: {
-      principal: "Observe a imagem. A imagem retrata a festa em homenagem à santa padroeira da irmandade religiosa de Nossa Senhora do Rosário dos Homens Pretos, em Minas Gerais, no século XVIII. Segundo o historiador Caio Boch, \"as irmandades foram a mais viva expressão social das Minas Gerais do século XVIII\". De modo geral, as irmandades são definidas como associações constituídas por religiosos leigos e fiéis de diferentes classes sociais que se dedicavam ao culto de um padroeiro. Na região das Minas Gerais, no século XVIII, essas associações se caracterizavam pela Johann Moritz Rugendas. Festa de Nossa Senhora do Rosário, Patrona dos Negros, c.1835. <https://tinyurl.com/ybj66a52> Acesso em: 20/10/2018. Original colorido.",
+      principal: "Observe a imagem. A imagem retrata a festa em homenagem à santa padroeira da irmandade religiosa de Nossa Senhora do Rosário dos Homens Pretos, em Minas Gerais, no século XVIII. Segundo o historiador Caio Boch, \"as irmandades foram a mais viva expressão social das Minas Gerais do século XVIII\". De modo geral, as irmandades são definidas como associações constituídas por religiosos leigos e fiéis de diferentes classes sociais que se dedicavam ao culto de um padroeiro. Na região das Minas Gerais, no século XVIII, essas associações se caracterizavam pela Johann Moritz Rugendas. Festa de Nossa Senhora do Rosário, Patrona dos Negros, c.1835. <https://tinyurl.$\\\\frac{com}{ybj66a52}$> Acesso em: $\\\\frac{20}{10}$/2018. Original colorido.",
       subItens: []
     },
     options: ["organização da vida social, construção de igrejas e de cemitérios, organização de festas, cuidados com os necessitados e formação profissional com o ensino dos ofícios mecânicos e das artes.","organização da vida econômica, construção e manutenção de estradas, criação dos órgãos de fiscalização e cobrança de impostos, e administração dos seminários coloniais, responsáveis pela formação de novos padres.","organização da vida política, construção de hospitais e de escolas de educação básica, administração do patrimônio do Vaticano no Brasil e organização de bazares e feiras para arrecadação de donativos para os necessitados.","criação e fiscalização do cumprimento das leis referentes à moral e aos costumes dos moradores de Minas Gerais, celebração semanal do rito da missa e administração de sacramentos, como o batismo, o casamento e a extrema unção.","criação dos órgãos de controle metropolitano sobre a população de escravos e libertos, regulamentação das práticas do Candomblé, construção de casas para os irmãos de baixa renda e desenvolvimento de sistemas de ensino religioso ecumênico."],
@@ -78,10 +78,10 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2019,
     text: {
-      principal: "Leia o texto para responder às questões de números 20 e 21. Um incêndio atingiu uma fábrica de resíduos industriais em Itapevi, na Grande São Paulo. O local armazenava três toneladas de fosfeto de alumínio (AlP). De acordo com a Companhia Ambiental do Estado de São Paulo (Cetesb), o fosfeto de alumínio reagiu com a água usada para apagar as chamas, produzindo hidróxido de alumínio e fosfina ($1_{3}$). A fosfina é um gás tóxico, incolor, e não reage com a água, porém reage rapidamente com o oxigênio liberando calor e produzindo pentóxido de difosfóro ($1_{2}O_{5}$). Segundo os médicos, a inalação do $1_{2}O_{5}$ pode causar queimadura tanto na pele quanto nas vias respiratórias devido à formação de ácido fosfórico. <https://tinyurl.com/yafzufbo> Acesso em: 11.10.18. Adaptado. A reação química da produção da fosfina pode ser representada pela equação AlP (s) + 3 $1_{2}O_{}$ (l) → Al(OH)3 (s) + $1_{3}$ (g) Considerando que toda a massa de fosfeto de alumínio reagiu com a água e que o rendimento da reação é 100%, o volume aproximado de fosfina produzido no local, em litros, é Dados: Volume molar dos gases nas condições descritas: 30 L/mol Massas molares em g/mol: Al = 27, P = 31",
+      principal: "Leia o texto para responder às questões de números 20 e 21. Um incêndio atingiu uma fábrica de resíduos industriais em Itapevi, na Grande São Paulo. O local armazenava três toneladas de fosfeto de alumínio (AlP). De acordo com a Companhia Ambiental do Estado de São Paulo (Cetesb), o fosfeto de alumínio reagiu com a água usada para apagar as chamas, produzindo hidróxido de alumínio e fosfina (PH_{3}). A fosfina é um gás tóxico, incolor, e não reage com a água, porém reage rapidamente com o oxigênio liberando calor e produzindo pentóxido de difosfóro (P_{2}O_{5}). Segundo os médicos, a inalação do P_{2}O_{5} pode causar queimadura tanto na pele quanto nas vias respiratórias devido à formação de ácido fosfórico. <https://tinyurl.$\\\\frac{com}{yafzufbo}$> Acesso em: 11.10.18. Adaptado. A reação química da produção da fosfina pode ser representada pela equação AlP (s) + 3 H_{2}O (l) → Al(OH)3 (s) + PH_{3} (g) Considerando que toda a massa de fosfeto de alumínio reagiu com a água e que o rendimento da reação é 100%, o volume aproximado de fosfina produzido no local, em litros, é Dados: Volume molar dos gases nas condições descritas: 30 $\\\\frac{L}{mol}$ Massas molares em $\\\\frac{g}{mol}$: Al = 27, P = 31",
       subItens: []
     },
-    options: ["$1 \times 10^{2}$.","$1 \times 10^{3}$.","$1 \times 10^{6}$.","$1 \times 10^{3}$.","$1 \times 10^{6}$."],
+    options: ["3,33 x 102.","3,33 x 103.","3,33 x 106.","1,55 x 103.","1,55 × 106."],
     correctAnswer: 4,
     materia: "Química – Estequiometria",
     conteudo: "Química – Gases",
@@ -96,7 +96,7 @@ createQuestion({
       principal: "Os gráficos 1, 2 e 3 representam a variação da energia em função do caminho da reação para três transformações químicas, sendo R o reagente e P o produto de cada reação. Entre os gráficos 1, 2 e 3, aquele que representa corretamente a reação da fosfina com o oxigênio, descrita no texto, é o",
       subItens: []
     },
-    options: ["gráfico 1, pois a reação é endotérmica e apresenta ArΗ° < 0.","gráfico 1, pois a reação é exotérmica e apresenta ArΗ° < 0.","gráfico 2, pois a reação é endotérmica e apresenta $1_{0}$ > 0.","gráfico 2, pois a reação é exotérmica e apresenta ArΗ° < 0.","gráfico 3, pois a reação é endotérmica e apresenta $1_{0}$ > 0."],
+    options: ["gráfico 1, pois a reação é endotérmica e apresenta ArΗ° < 0.","gráfico 1, pois a reação é exotérmica e apresenta ArΗ° < 0.","gráfico 2, pois a reação é endotérmica e apresenta ArH0 > 0.","gráfico 2, pois a reação é exotérmica e apresenta ArΗ° < 0.","gráfico 3, pois a reação é endotérmica e apresenta ArH0 > 0."],
     correctAnswer: 1,
     materia: "Química – Termoquímica",
     conteudo: "Química – Reações Exotérmicas e Endotérmicas",
@@ -111,7 +111,7 @@ createQuestion({
       principal: "Uma das substâncias que pode neutralizar o ácido fosfórico é o hidróxido de magnésio, Mg(OH)2. A equação química balanceada que representa a reação de neutralização total que ocorre entre essas substâncias é",
       subItens: []
     },
-    options: ["$1_{3}PO_{4}$ (aq) + Mg(OH)2 (s) → $1_{4}$ (s) + $1_{2}O_{}$ (l).","2 $1_{3}PO_{4}$ (aq) + 3 Mg(OH)2 (s) → $1_{3}_{}$($1_{4}$)2 (s) + 6 $1_{2}O_{}$ (l).","3 $1_{3}PO_{3}$(aq) + 2 Mg(OH)2 (s) → $1_{2}_{}$($1_{3}$)3 (s) + 6H2O (l).","2 $1_{3}PO_{3}$ (aq) + 3 Mg(OH)2 (s) → $1_{3}_{}$($1_{3}$)2 (s) + 6H2O (l).","$1_{3}PO_{3}$(aq) + Mg(OH)2 (s) → $1_{3}$ (s) + H₂O (l)."],
+    options: ["H3PO4 (aq) + Mg(OH)2 (s) → MgPO4 (s) + H2O (l).","2 H3PO4 (aq) + 3 Mg(OH)2 (s) → Mg3(PO4)2 (s) + 6 H2O (l).","3 H3PO3(aq) + 2 Mg(OH)2 (s) → Mg2(PO3)3 (s) + 6H2O (l).","2 H3PO3 (aq) + 3 Mg(OH)2 (s) → Mg3(PO3)2 (s) + 6H2O (l).","H3PO3(aq) + Mg(OH)2 (s) → MgPO3 (s) + H₂O (l)."],
     correctAnswer: 1,
     materia: "Química – Reações de Neutralização",
     conteudo: "Química – Balanceamento de Equações",
@@ -123,10 +123,10 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2019,
     text: {
-      principal: "A reação que ocorre entre a fosfina e o oxigênio é representada pela equação química 2 $1_{3}$ (g) + 4 $1_{2}_{}$ (g) → $1_{2}O_{5}$ (g) + 3 $1_{2}O_{}$ (g) As substâncias que atuam como agente oxidante e agente redutor desse processo são, respectivamente,",
+      principal: "A reação que ocorre entre a fosfina e o oxigênio é representada pela equação química 2 PH_{3} (g) + 4 O_{2} (g) → P_{2}O_{5} (g) + 3 H_{2}O (g) As substâncias que atuam como agente oxidante e agente redutor desse processo são, respectivamente,",
       subItens: []
     },
-    options: ["$1_{2}_{}$ e $1_{3}$.","O₂ e H₂O.","$1_{2}_{}$ e $1_{2}O_{5}$.","$1_{3}$ e H₂O.","$1_{3}$ e $1_{2}O_{5}$."],
+    options: ["O2 e PH3.","O₂ e H₂O.","O2 e P2O5.","PH3 e H₂O.","PH3 e P2O5."],
     correctAnswer: 0,
     materia: "Química – Reações Redox",
     conteudo: "Química – Agentes Oxidantes e Redutores",
@@ -138,10 +138,10 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2019,
     text: {
-      principal: "A amônia ($1_{3}$), molécula de estrutura semelhante à da fosfina, reage com água produzindo uma solução de caráter básico. A reação que ocorre pode ser representada pela equação química $1_{3}$ (g) + $1_{2}O_{}$ (l) = $1_{4}$+ (aq) + OH¯(aq) Uma solução aquosa de $1_{3}$ apresenta concentração inicial de 0,02 mol/L a 25°C. Nessas condições, o valor da concentração de íons OH, em mol/L, é Dado: Constante de basicidade da amônia a 25°C: Kb = $1 \times 10^{-5}$",
+      principal: "A amônia (NH_{3}), molécula de estrutura semelhante à da fosfina, reage com água produzindo uma solução de caráter básico. A reação que ocorre pode ser representada pela equação química NH_{3} (g) + H_{2}O (l) = NH_{4}+ (aq) + OH¯(aq) Uma solução aquosa de NH_{3} apresenta concentração inicial de 0,02 $\\\\frac{mol}{L}$ a 25°C. Nessas condições, o valor da concentração de íons OH, em $\\\\frac{mol}{L}$, é Dado: Constante de basicidade da amônia a 25°C: Kb = $1 \\\\times 10^{-5}$",
       subItens: []
     },
-    options: ["$1 \times 10^{-4}$","$1 \times 10^{-4}$","$1 \times 10^{-4}$","$1 \times 10^{-4}$","$1 \times 10^{-4}$"],
+    options: ["2 × 10-4","3 × 10-4","4 x 10-4","5 × 10-4","6 × 10-4"],
     correctAnswer: 4,
     materia: "Química – Equilíbrio Iônico",
     conteudo: "Química – Soluções",
@@ -303,7 +303,7 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2019,
     text: {
-      principal: "Leia a notícia, divulgada em maio 2017, para responder às questões de números 35 a 36. Navio autônomo e elétrico O primeiro navio autônomo – e, além disso, totalmente elétrico – já tem data marcada para começar a navegar. O Yara Birkeland (homenagem ao cientista norueguês Kristian Birkeland) deverá começar a operar na segunda metade de 2018, levando produtos da fábrica de fertilizantes da Yara, em Porsgrunn, até as cidades de Brevik e Larvik – todas na Noruega. O navio elétrico e autônomo deverá substituir 100 caminhões que fazem 40000 viagens por ano. Ele operará exclusivamente nessa rota, um trajeto de 12 milhas náuticas, pouco mais de 22 km. Com 70 metros de calado¹ e 4500 toneladas de porte bruto, o navio autônomo poderá atingir até 18,5 km/h (10 nós), mas deverá operar em velocidade de cruzeiro de 11 km/h (6 nós). Ele será impulsionado por dois mecanismos azimutais, em que o motor inteiro se movimenta para fazer o navio virar. Seu conjunto de baterias pode prover até 4 MWh. A navegação autônoma se baseará em um extenso conjunto de sensores redundantes, incluindo câmeras no visível e no infravermelho, RADAR (Radio Detection And Ranging), LIDAR (Light Detection And Ranging) e AIS (Automatic Identification System), um sistema de monitoramento de curto alcance já utilizado em navios e serviços de tráfego de embarcações. <https://tinyurl.com/yapk5b5f> Acesso em: 10.10.2018. Adaptado. ¹Calado – distância vertical entre a superfície da água e a parte mais baixa do navio naquele ponto. Desconsiderando as acelerações de saída e de chegada do navio nos portos de Brevik e Larvik, é correto afirmar que",
+      principal: "Leia a notícia, divulgada em maio 2017, para responder às questões de números 35 a 36. Navio autônomo e elétrico O primeiro navio autônomo – e, além disso, totalmente elétrico – já tem data marcada para começar a navegar. O Yara Birkeland (homenagem ao cientista norueguês Kristian Birkeland) deverá começar a operar na segunda metade de 2018, levando produtos da fábrica de fertilizantes da Yara, em Porsgrunn, até as cidades de Brevik e Larvik – todas na Noruega. O navio elétrico e autônomo deverá substituir 100 caminhões que fazem 40000 viagens por ano. Ele operará exclusivamente nessa rota, um trajeto de 12 milhas náuticas, pouco mais de 22 km. Com 70 metros de calado¹ e 4500 toneladas de porte bruto, o navio autônomo poderá atingir até 18,5 $\\\\frac{km}{h}$ (10 nós), mas deverá operar em velocidade de cruzeiro de 11 $\\\\frac{km}{h}$ (6 nós). Ele será impulsionado por dois mecanismos azimutais, em que o motor inteiro se movimenta para fazer o navio virar. Seu conjunto de baterias pode prover até 4 MWh. A navegação autônoma se baseará em um extenso conjunto de sensores redundantes, incluindo câmeras no visível e no infravermelho, RADAR (Radio Detection And Ranging), LIDAR (Light Detection And Ranging) e AIS (Automatic Identification System), um sistema de monitoramento de curto alcance já utilizado em navios e serviços de tráfego de embarcações. <https://tinyurl.$\\\\frac{com}{yapk5b5f}$> Acesso em: 10.10.2018. Adaptado. ¹Calado – distância vertical entre a superfície da água e a parte mais baixa do navio naquele ponto. Desconsiderando as acelerações de saída e de chegada do navio nos portos de Brevik e Larvik, é correto afirmar que",
       subItens: []
     },
     options: ["1 nó é igual a aproximadamente 1,85 km.","milha náutica é também unidade de medida pertencente ao SI.","a velocidade média do navio nessa rota seria, obrigatoriamente, 8 nós.","o menor tempo possível da viagem nesse percurso seria exatamente 1 h.","o navio, mantendo a velocidade de cruzeiro, levaria aproximadamente 2 h no percurso."],
@@ -318,10 +318,10 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2019,
     text: {
-      principal: "Se o navio, considerado estável, percorre um trecho qualquer em velocidade de cruzeiro, podemos concluir que a quantidade de movimento, em kg.m/s, nesse trecho especificado é, aproximadamente,",
+      principal: "Se o navio, considerado estável, percorre um trecho qualquer em velocidade de cruzeiro, podemos concluir que a quantidade de movimento, em kg.$\\\\frac{m}{s}$, nesse trecho especificado é, aproximadamente,",
       subItens: []
     },
-    options: ["$1 \times 10^{4}$","$1 \times 10^{4}$","$1 \times 10^{4}$","$1 \times 10^{7}$","$1 \times 10^{7}$"],
+    options: ["1,37 × 104","4,95 x 104","8,32 × 104","1,37 x 107","4,95 × 107"],
     correctAnswer: 3,
     materia: "Física – Dinâmica",
     conteudo: "Física – Quantidade de Movimento",
@@ -336,7 +336,7 @@ createQuestion({
       principal: "Relacionando as informações do texto com os respectivos conceitos físicos, está correto afirmar que",
       subItens: []
     },
-    options: ["4 MWh equivale à potência máxima da bateria em condições normais.","podemos considerar que, em condições de estabilidade estática e repouso, o empuxo aplicado no navio equivale a $1 \times 10^{7}$ Ν.","as \"câmeras no visível e no infravermelho\" referem-se a câmeras que operam com ondas eletromagnéticas nas frequências do visível e do infravermelho e, portanto, não funcionam à noite.","o sistema de detecção RADAR funciona por emissão de ondas mecânicas de rádio na frequência da luz visível.","o sistema de detecção LIDAR torna-se mais lento e menos preciso em comparação a outros métodos por operar com pulsos de luz laser."],
+    options: ["4 MWh equivale à potência máxima da bateria em condições normais.","podemos considerar que, em condições de estabilidade estática e repouso, o empuxo aplicado no navio equivale a 4,5 × 107 Ν.","as \"câmeras no visível e no infravermelho\" referem-se a câmeras que operam com ondas eletromagnéticas nas frequências do visível e do infravermelho e, portanto, não funcionam à noite.","o sistema de detecção RADAR funciona por emissão de ondas mecânicas de rádio na frequência da luz visível.","o sistema de detecção LIDAR torna-se mais lento e menos preciso em comparação a outros métodos por operar com pulsos de luz laser."],
     correctAnswer: 1,
     materia: "Física – Hidrostática",
     conteudo: "Física – Empuxo",
@@ -438,7 +438,7 @@ createQuestion({
     university: "Processo Seletivo Vestibular",
     year: 2019,
     text: {
-      principal: "Leia o texto. Klaus Schwab, fundador do Fórum Econômico Mundial (FEM), escreveu, em artigo publicado na \"Foreign Affairs\", que: A 1ª revolução industrial usou água e vapor para mecanizar a produção entre o meio do século XVIII e o meio do século XIX. A 2ª revolução industrial usou a eletricidade para criar produção em massa a partir do meio do século XIX. A 3ª revolução industrial usou os eletrônicos e a tecnologia da informação para automatizar a produção na segunda metade do século XX. Agora, no século XXI, a 4ª revolução industrial é caracterizada pela fusão de tecnologias entre as esferas física, digital e biológica. https://tinyurl.com/y72sm8v5> Acesso em: 17.09.2018. Adaptado. De acordo com a tendência expressa no texto, a última revolução industrial citada pelo autor caracteriza-se por",
+      principal: "Leia o texto. Klaus Schwab, fundador do Fórum Econômico Mundial (FEM), escreveu, em artigo publicado na \"Foreign Affairs\", que: A 1ª revolução industrial usou água e vapor para mecanizar a produção entre o meio do século XVIII e o meio do século XIX. A 2ª revolução industrial usou a eletricidade para criar produção em massa a partir do meio do século XIX. A 3ª revolução industrial usou os eletrônicos e a tecnologia da informação para automatizar a produção na segunda metade do século XX. Agora, no século XXI, a 4ª revolução industrial é caracterizada pela fusão de tecnologias entre as esferas física, digital e biológica. https://tinyurl.$\\\\frac{com}{y72sm8v5}$> Acesso em: 17.09.2018. Adaptado. De acordo com a tendência expressa no texto, a última revolução industrial citada pelo autor caracteriza-se por",
       subItens: []
     },
     options: ["redes aéreas de comunicação e pela intensificação do uso do fordismo.","viagens interespaciais e pelo grande emprego de carvão mineral.","cabeamento telegráfico submarino e pela adoção do taylorismo.","computadores a válvula e pela utilização de linhas de produção.","internet móvel e pela inteligência artificial."],

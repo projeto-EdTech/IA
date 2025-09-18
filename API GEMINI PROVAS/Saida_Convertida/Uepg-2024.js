@@ -36,7 +36,7 @@ createQuestion({
       principal: "A nutricionista Fernanda Serra Granado, mencionada no texto de Thaís Carrança, aponta alguns fatores que motivaram a modificação da dieta do brasileiro. Baseando-se nas observações da profissional no texto \"Por que feijão está sumindo do prato dos brasileiros\", assinale o que for correto.",
       subItens: []
     },
-    options: ["Apesar de o feijão ser rico em vitaminas, proteínas e minerais, inclusive ferro, além de fibras solúveis e insolúveis, que ajudam no funcionamento da digestão, pesquisas recentes apontaram que somente outros vegetais oferecem a vitamina $1_{12}_{}$.","A entrada de transnacionais do setor de alimentos e a maior participação das mulheres no mercado de trabalho, na década de 1980, mudaram o perfil de consumo da população, que passou a enxergar nos ultraprocessados uma alternativa mais prática para o cotidiano.","Práticas culinárias e receitas que, antigamente, eram passadas de geração a geração, começaram a desaparecer e a cair em desuso na contemporaneidade.","Alimentos como o feijão têm sido cada vez menos plantados devido à maior lucratividade da comercialização internacional de produtos como a soja e o milho, o que causou um aumento de preços do feijão acima da inflação nos últimos onze anos."],
+    options: ["Apesar de o feijão ser rico em vitaminas, proteínas e minerais, inclusive ferro, além de fibras solúveis e insolúveis, que ajudam no funcionamento da digestão, pesquisas recentes apontaram que somente outros vegetais oferecem a vitamina B12.","A entrada de transnacionais do setor de alimentos e a maior participação das mulheres no mercado de trabalho, na década de 1980, mudaram o perfil de consumo da população, que passou a enxergar nos ultraprocessados uma alternativa mais prática para o cotidiano.","Práticas culinárias e receitas que, antigamente, eram passadas de geração a geração, começaram a desaparecer e a cair em desuso na contemporaneidade.","Alimentos como o feijão têm sido cada vez menos plantados devido à maior lucratividade da comercialização internacional de produtos como a soja e o milho, o que causou um aumento de preços do feijão acima da inflação nos últimos onze anos."],
     correctAnswer: null,
     materia: "Língua Portuguesa – Compreensão de Texto",
     conteudo: "",
@@ -168,7 +168,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "A Lei n.º 9.615/98, conhecida como \"Lei Pelé\", define o esporte em diferentes dimensões/manifestações. Identifique essas dimensões/manifestações e assinale o que for correto.",
+      principal: "A Lei n.º 9.$\\\\frac{615}{98}$, conhecida como \"Lei Pelé\", define o esporte em diferentes dimensõ$\\\\frac{es}{manifesta}$ções. Identifique essas dimensõ$\\\\frac{es}{manifesta}$ções e assinale o que for correto.",
       subItens: []
     },
     options: ["Esporte educacional.","Esporte rendimento.","Esporte de desenvolvimento.","Esporte desportivo."],
@@ -228,7 +228,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Identifique técnicas para a avaliação antropométrica e/ou de composição corporal e assinale o que for correto.",
+      principal: "Identifique técnicas para a avaliação antropométrica $\\\\frac{e}{ou}$ de composição corporal e assinale o que for correto.",
       subItens: []
     },
     options: ["Medida de dobras cutâneas.","Bioimpedância.","Medida de circunferências corporais.","Medida de estatura."],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Analise as três situações descritas abaixo e, em seguida, assinale o que for correto.\n\nDado: π = 3\n\nI – Um caminhão faz uma viagem de 600 km. Os primeiros 250 km são percorridos a uma velocidade média de 80 km/h. O motorista estaciona para um lanche durante 30 minutos. Em seguida, percorre o restante da viagem a uma velocidade média de 100 km/h.\n\nII – Um ciclista dá 20 voltas em torno de uma praça circular de perímetro (C) a uma velocidade constante de 36 km/h, num tempo (t).\n\nIII – Um carro faz uma viagem de 40 minutos em uma estrada retilínea e horizontal a uma velocidade constante de 72 km/h.",
+      principal: "Analise as três situações descritas abaixo e, em seguida, assinale o que for correto.\n\nDado: π = 3\n\nI – Um caminhão faz uma viagem de 600 km. Os primeiros 250 km são percorridos a uma velocidade média de 80 $\\\\frac{km}{h}$. O motorista estaciona para um lanche durante 30 minutos. Em seguida, percorre o restante da viagem a uma velocidade média de 100 $\\\\frac{km}{h}$.\n\nII – Um ciclista dá 20 voltas em torno de uma praça circular de perímetro (C) a uma velocidade constante de 36 $\\\\frac{km}{h}$, num tempo (t).\n\nIII – Um carro faz uma viagem de 40 minutos em uma estrada retilínea e horizontal a uma velocidade constante de 72 $\\\\frac{km}{h}$.",
       subItens: []
     },
     options: ["Somente as situações II e III não apresentam aceleração.","O raio do circuito circular da situação II vale 0,3 t.","Na situação I, a velocidade média na viagem completa foi de 90 km/h.","A distância percorrida na situação III foi de 48 km."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Analise as opções abaixo e assinale o que for correto.\n\nDado: Cágua = 1 cal/g°C\nµágua = 1 g/cm³",
+      principal: "Analise as opções abaixo e assinale o que for correto.\n\nDado: Cágua = 1 $\\\\frac{cal}{g}$°C\nµágua = 1 $\\\\frac{g}{cm}$³",
       subItens: []
     },
     options: ["Capacidade térmica de um corpo é uma grandeza definida como sendo a razão entre a quantidade de calor trocada por esse corpo e a consequente variação de temperatura sofrida por ele. Logo, no SI, sua unidade será J.K.","Para aquecer 0,5 L de água de 20 °C até 60 °C, são necessárias 2 x 10⁴ cal.","Quando um gás ideal sofre uma transformação isotérmica, se sua pressão passar a ser o triplo da pressão inicial, seu volume também irá triplicar.","No diagrama de fases de substância pura temos um ponto denominado crítico, que corresponde a uma determinada temperatura e pressão. Quando a substância está acima dessa temperatura, ela é um gás e não pode se liquefazer se somente aumentarmos sua pressão."],
@@ -393,7 +393,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Um carro parte do repouso com aceleração constante de 2 m/s², percorrendo uma trajetória retilínea e horizontal, em movimento progressivo. Após 8 s, o motor é desligado e, devido ao atrito, o carro para após 40 s. Com base nesses dados, analise o movimento completo do carro e assinale o que for correto.",
+      principal: "Um carro parte do repouso com aceleração constante de 2 $\\\\frac{m}{s}$², percorrendo uma trajetória retilínea e horizontal, em movimento progressivo. Após 8 s, o motor é desligado e, devido ao atrito, o carro para após 40 s. Com base nesses dados, analise o movimento completo do carro e assinale o que for correto.",
       subItens: []
     },
     options: ["A aceleração constante devida ao atrito tem módulo igual a 0,4 m/s².","Se, por hipótese, fossem eliminados todos os tipos de atritos, após ser desligado o motor, a velocidade do carro passaria a ser constante e igual a 16 m/s.","O gráfico v x t para o movimento, nos últimos 40 s, é uma reta decrescente.","A distância total percorrida pelo carro até parar foi maior que 380 m."],
@@ -543,10 +543,10 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "B é uma matriz quadrada e BT denota a sua transposta. Se BT = -B, então B é dita matriz antissimétrica. Considerando que\n\n[MATRIX: A = (4+a a b; $1_{21}$ b+2 c; $1_{31}$ $1_{32}$ 2c-8) 3x3]\n\né uma matriz antissimétrica, assinale o que for correto.",
+      principal: "B é uma matriz quadrada e BT denota a sua transposta. Se BT = -B, então B é dita matriz antissimétrica. Considerando que\n\n[MATRIX: A = (4+a a b; a_{21} b+2 c; a_{31} a_{32} 2c-8) 3x3]\n\né uma matriz antissimétrica, assinale o que for correto.",
       subItens: []
     },
-    options: ["$1_{21}_{}$ = 4.","$1_{31}_{}$ + $1_{21}_{}$ = 6.","$1_{32}_{}$ < 0.","a + b + c < 0."],
+    options: ["A21 = 4.","A31 + A21 = 6.","A32 < 0.","a + b + c < 0."],
     correctAnswer: null,
     materia: "Matemática – Matrizes",
     conteudo: "Matemática – Propriedades de Matrizes",
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Considerando que `a` representa a solução da equação (1/5)ˣ = 32 e que `b` e `c`, com `b < c`, representam as soluções da equação (log₂x)² – 9.log₈x = 4, assinale o que for correto.",
+      principal: "Considerando que `a` representa a solução da equação ($\\\\frac{1}{5}$)ˣ = 32 e que `b` e `c`, com `b < c`, representam as soluções da equação (log₂x)² – 9.log₈x = 4, assinale o que for correto.",
       subItens: []
     },
     options: ["a < b.","b - a < 0.","a + b + c é um número racional.","b⁴ = c."],

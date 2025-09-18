@@ -153,7 +153,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "A descoberta das terras ameríndias, particularmente as brasileiras, motivou diversas expedições com objetivos específicos: descrição da terra e do povo; catalogação das espécies da fauna e da flora para fins econômicos. Nesse contexto, muitos relatos foram feitos pelos expedicionários. Leia o excerto a seguir e depois considere as afirmativas que seguem:\n\"Capítulo sexto – Das fruitas da terra\nTambém ha huma fruta que lhe chamão Bananas, e pela língua dos indios Pacovas: ha na terra muita abundancia dellas: perecem-se na feição com pepinos, nascem numas arvores mui tenras e não são muito altas, nem têm ramos senão folhas mui compridas e largas. [...] Esta he huma fruita mui sabrosa e das boas que ha na terra, tem huma pelle como de figo, a qual lhes lanção fora quando as querem comer e se come muitas dellas fazem dano á saude e causão febre a quem se desmanda nellas. Com esta fruita se mantem a maior parte dos escravos desta terra, porque assadas verdes passão por mantimento e quasi tem sustancia de pão. Ha duas qualidades desta fruita, humas são pequenas como figos berjaçotes, as outras são maiores e mais compridas. Estas pequenas têm dentro em si huma cousa estranha, a qual he que quando as cortão pelo meio com huma faca ou por qualquer parte que seja acha-se nellas hum signal à maneira de Crucifixo, e assi totalmente o parecem. [...]\"\nPero de Magalhães Gandavo, Tratado da Terra do Brasil/ História da Província Santa Cruz. Belo Horizonte: Itatiaia/São Paulo: Edusp, 1980. P. 50-51.\n(Fragmentado).\nAnalise as afirmativas a seguir:\nI. Embora seja um fruto indigesto, quando consumida em exagero, o autor sugere que se enviem bananas a Portugal para mantimento, considerando seu potencial nutritivo e medicinal.\nII. A banana deve ser sacralizada uma vez que traz o crucifixo, símbolo do cristianismo, em seu interior.\nIII. O excerto cumpre a função de informar à corte portuguesa sobre elementos da flora brasileira e seu potencial econômico.\nIV. A linguagem usada pelo autor retrata uma realidade desconhecida e estranha aos europeus e, para aproximar o leitor da realidade retratada, recorre à comparação a frutos europeus.\nV. A partir da descrição do cronista de uma terra exótica e misteriosa, sugere-se a visão de um paraíso abençoado por Deus.\nAssinale a alternativa correta:",
+      principal: "A descoberta das terras ameríndias, particularmente as brasileiras, motivou diversas expedições com objetivos específicos: descrição da terra e do povo; catalogação das espécies da fauna e da flora para fins econômicos. Nesse contexto, muitos relatos foram feitos pelos expedicionários. Leia o excerto a seguir e depois considere as afirmativas que seguem:\n\"Capítulo sexto – Das fruitas da terra\nTambém ha huma fruta que lhe chamão Bananas, e pela língua dos indios Pacovas: ha na terra muita abundancia dellas: perecem-se na feição com pepinos, nascem numas arvores mui tenras e não são muito altas, nem têm ramos senão folhas mui compridas e largas. [...] Esta he huma fruita mui sabrosa e das boas que ha na terra, tem huma pelle como de figo, a qual lhes lanção fora quando as querem comer e se come muitas dellas fazem dano á saude e causão febre a quem se desmanda nellas. Com esta fruita se mantem a maior parte dos escravos desta terra, porque assadas verdes passão por mantimento e quasi tem sustancia de pão. Ha duas qualidades desta fruita, humas são pequenas como figos berjaçotes, as outras são maiores e mais compridas. Estas pequenas têm dentro em si huma cousa estranha, a qual he que quando as cortão pelo meio com huma faca ou por qualquer parte que seja acha-se nellas hum signal à maneira de Crucifixo, e assi totalmente o parecem. [...]\"\nPero de Magalhães Gandavo, Tratado da Terra do Brasil/ História da Província Santa Cruz. Belo Horizonte: $\\\\frac{Itatiaia}{S}$ão Paulo: Edusp, 1980. P. 50-51.\n(Fragmentado).\nAnalise as afirmativas a seguir:\nI. Embora seja um fruto indigesto, quando consumida em exagero, o autor sugere que se enviem bananas a Portugal para mantimento, considerando seu potencial nutritivo e medicinal.\nII. A banana deve ser sacralizada uma vez que traz o crucifixo, símbolo do cristianismo, em seu interior.\nIII. O excerto cumpre a função de informar à corte portuguesa sobre elementos da flora brasileira e seu potencial econômico.\nIV. A linguagem usada pelo autor retrata uma realidade desconhecida e estranha aos europeus e, para aproximar o leitor da realidade retratada, recorre à comparação a frutos europeus.\nV. A partir da descrição do cronista de uma terra exótica e misteriosa, sugere-se a visão de um paraíso abençoado por Deus.\nAssinale a alternativa correta:",
       subItens: []
     },
     options: ["Somente as afirmativas I, II e V são verdadeiras.","Somente as afirmativas I, III e IV são verdadeiras.","Somente as afirmativas I e IV são verdadeiras.","Somente as afirmativas II e V são verdadeiras.","Somente as afirmativas III e IV são verdadeiras."],
@@ -336,7 +336,7 @@ createQuestion({
       principal: "Qual dos grupos a seguir deliberou pelo repasse financeiro para ajudar no combate às queimadas na Amazônia, em 2019?",
       subItens: []
     },
-    options: ["NAFTA","BRICS","APEC","CARICOM","$1_{7}_{}$"],
+    options: ["NAFTA","BRICS","APEC","CARICOM","G7"],
     correctAnswer: 4,
     materia: "Geografia – Geopolítica e Meio Ambiente",
     conteudo: "",
@@ -471,7 +471,7 @@ createQuestion({
       principal: "O que há de especial na membrana externa das mitocôndrias que permite a passagem de pequenas moléculas?",
       subItens: []
     },
-    options: ["Porinas","ATPase $1^+$/K+","Canais de Ca++ dependentes de voltagem","Excesso de colesterol","Complexos do poro"],
+    options: ["Porinas","ATPase Na+/K+","Canais de Ca++ dependentes de voltagem","Excesso de colesterol","Complexos do poro"],
     correctAnswer: 0,
     materia: "Biologia – Biologia Celular",
     conteudo: "",
@@ -528,7 +528,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "\"O manganês é um dos dez elementos mais abundantes na crosta terrestre, com concentrações geralmente superiores a 0,1% em peso na crosta continental média. Em ambientes naturais, a atividade hidrotérmica, intemperismo continental e precipitação química em soluções alcalinas são os principais processos responsáveis pela mobilidade do manganês. Similarmente aos óxidos / hidróxidos de Mn, os silicatos de Mn, como a braunita (fórmula geral 3Mn2O3 $1_{3}$), são minerais muito comuns em diferentes ambientes geológicos porque sua formação ocorre por vários processos geológicos\".\nSinisi, Rosa et al. Ore Geology Reviews 94 (2018), p.1-11.\nDetermine a porcentagem de manganês na braunita e seus estados de oxidação na ordem de apresentação na fórmula química (Mn = 54,94; O = 15,99; Si = 28,08):",
+      principal: "\"O manganês é um dos dez elementos mais abundantes na crosta terrestre, com concentrações geralmente superiores a 0,1% em peso na crosta continental média. Em ambientes naturais, a atividade hidrotérmica, intemperismo continental e precipitação química em soluções alcalinas são os principais processos responsáveis pela mobilidade do manganês. Similarmente aos óxidos / hidróxidos de Mn, os silicatos de Mn, como a braunita (fórmula geral 3Mn2O3 MnSiO_{3}), são minerais muito comuns em diferentes ambientes geológicos porque sua formação ocorre por vários processos geológicos\".\nSinisi, Rosa et al. Ore Geology Reviews 94 (2018), p.1-11.\nDetermine a porcentagem de manganês na braunita e seus estados de oxidação na ordem de apresentação na fórmula química (Mn = 54,94; O = 15,99; Si = 28,08):",
       subItens: []
     },
     options: ["9,1%; +3; +3","16,0%; +2; +3","28,0%; +3; +2","54,94%; +2; +3","63,6%; +3; +2"],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "Energia de ionização é a energia necessária para remover um elétron de um átomo específico. É medida em kJ/mol, que é uma unidade de energia. Para qualquer átomo, os elétrons de valência mais externos terão energias de ionização mais baixas do que os elétrons do núcleo da casca interna. À medida que mais elétrons são adicionados a um núcleo, os elétrons externos ficam protegidos do núcleo pelos elétrons da casca interna. Isso é chamado de blindagem eletrônica. O gráfico a seguir mostra a energia de ionização de remoção sucessiva dos oito primeiros elétrons de um determinado elemento:\nQue provável elemento deve ser esse?",
+      principal: "Energia de ionização é a energia necessária para remover um elétron de um átomo específico. É medida em $\\\\frac{kJ}{mol}$, que é uma unidade de energia. Para qualquer átomo, os elétrons de valência mais externos terão energias de ionização mais baixas do que os elétrons do núcleo da casca interna. À medida que mais elétrons são adicionados a um núcleo, os elétrons externos ficam protegidos do núcleo pelos elétrons da casca interna. Isso é chamado de blindagem eletrônica. O gráfico a seguir mostra a energia de ionização de remoção sucessiva dos oito primeiros elétrons de um determinado elemento:\nQue provável elemento deve ser esse?",
       subItens: []
     },
     options: ["F","K","S","Sr","Ar"],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "Considerando as moléculas $1_{2}$, $1_{3}$ e $1_{2}$, assinale a alternativa que indica as geometrias dessas moléculas, na ordem dada:",
+      principal: "Considerando as moléculas SCI_{2}, SO_{3} e SOCI_{2}, assinale a alternativa que indica as geometrias dessas moléculas, na ordem dada:",
       subItens: []
     },
     options: ["Linear, trigonal plana, trigonal piramidal","Linear, trigonal piramidal, trigonal plana","Angular, trigonal plana, linear","Angular, trigonal plana, trigonal piramidal","Angular, trigonal piramidal, trigonal plana"],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "Uma estudante em pé no solo arremessa um caroço de tucumã verticalmente para cima. O caroço sai da mão da estudante no momento em que se encontra 2,00m acima do solo com velocidade de 54km/h. Desprezando qualquer efeito do ar no movimento do caroço e sabendo que a estudante tira sua mão da trajetória do caroço, podemos afirmar que a distância que o caroço de tucumã percorrerá no ar antes de atingir o solo será de:",
+      principal: "Uma estudante em pé no solo arremessa um caroço de tucumã verticalmente para cima. O caroço sai da mão da estudante no momento em que se encontra 2,00m acima do solo com velocidade de $\\\\frac{54km}{h}$. Desprezando qualquer efeito do ar no movimento do caroço e sabendo que a estudante tira sua mão da trajetória do caroço, podemos afirmar que a distância que o caroço de tucumã percorrerá no ar antes de atingir o solo será de:",
       subItens: []
     },
     options: ["9,25m","13,25m","22,5m","24,5m","26,5m"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "O despachante de bagagem de um aeroporto deixa cair uma mala com 23kg sobre a esteira rolante que está passando abaixo a 2,0m/s. Os valores dos coeficientes de atrito estático e cinético, entre a mala e a esteira, valem, respectivamente, µe = 0,50 e µc = 0,25. A partir dessas informações, podemos afirmar que a distância que a mala irá escorregar sobre a superfície da esteira, até passar a deslocar-se junto dela, sem escorregar, será de:",
+      principal: "O despachante de bagagem de um aeroporto deixa cair uma mala com 23kg sobre a esteira rolante que está passando abaixo a 2,$\\\\frac{0m}{s}$. Os valores dos coeficientes de atrito estático e cinético, entre a mala e a esteira, valem, respectivamente, µe = 0,50 e µc = 0,25. A partir dessas informações, podemos afirmar que a distância que a mala irá escorregar sobre a superfície da esteira, até passar a deslocar-se junto dela, sem escorregar, será de:",
       subItens: []
     },
     options: ["80cm","60cm","50cm","40cm","30cm"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2021,
     text: {
-      principal: "A definição de planeta evoluiu ao longo da história, desde as estrelas errantes divinas da Antiguidade até 2006, quando a União Astronômica Internacional (UAI) estabeleceu parâmetros para a definição do que deve ser chamado de planeta. Segundo a UAI, planeta é um corpo celeste que orbita uma estrela ou um remanescente de estrela, com massa suficiente para se tornar esférico pela sua própria gravidade, mas não ao ponto de causar fusão termonuclear, e que tenha limpado de planetesimais sua dominância orbital. Sejam dois planetas hipotéticos A e B, com o planeta B tendo raio cinco vezes maior que o raio do planeta A e a metade da densidade do planeta A. Desprezando quaisquer efeitos ligados às rotações dos planetas e, sabendo que o volume de uma esfera de raio R é dado por V = ⁴⁄₃πR³, podemos afirmar que a razão entre os módulos das acelerações da gravidade à superfície, gB/gA, dos planetas B e A, é igual a:",
+      principal: "A definição de planeta evoluiu ao longo da história, desde as estrelas errantes divinas da Antiguidade até 2006, quando a União Astronômica Internacional (UAI) estabeleceu parâmetros para a definição do que deve ser chamado de planeta. Segundo a UAI, planeta é um corpo celeste que orbita uma estrela ou um remanescente de estrela, com massa suficiente para se tornar esférico pela sua própria gravidade, mas não ao ponto de causar fusão termonuclear, e que tenha limpado de planetesimais sua dominância orbital. Sejam dois planetas hipotéticos A e B, com o planeta B tendo raio cinco vezes maior que o raio do planeta A e a metade da densidade do planeta A. Desprezando quaisquer efeitos ligados às rotações dos planetas e, sabendo que o volume de uma esfera de raio R é dado por V = ⁴⁄₃πR³, podemos afirmar que a razão entre os módulos das acelerações da gravidade à superfície, $\\\\frac{gB}{gA}$, dos planetas B e A, é igual a:",
       subItens: []
     },
     options: ["5/2","5/4","1/5","2/5","4/5"],

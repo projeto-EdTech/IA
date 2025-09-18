@@ -216,7 +216,7 @@ createQuestion({
       principal: "Do ponto de vista temático, o texto de Montaigne dialoga especialmente com a seguinte citação:",
       subItens: []
     },
-    options: ["\"Sou um homem; não considero alheio a mim nada do\nque é humano.\" (Terêncio, 185-159 a.C.)","\"Não se deve indagar sobre tudo: é melhor que muitas\ncoisas permaneçam ocultas.” (Sófocles, 486-406 a.C.)","\"Nunca acontece algo que, por natureza, não sejamos\ncapazes de suportar.\" (Marco Aurélio, 121-180 d.C.)","“O hábito é o melhor mestre em todas as coisas.” (Plínio,\$1_{23}$-79 d.C.)","“E amanhã não seremos o que fomos, nem o que somos.\"\n(Ovídio, 43 a.C.-18 d.C.)"],
+    options: ["\"Sou um homem; não considero alheio a mim nada do\nque é humano.\" (Terêncio, 185-159 a.C.)","\"Não se deve indagar sobre tudo: é melhor que muitas\ncoisas permaneçam ocultas.” (Sófocles, 486-406 a.C.)","\"Nunca acontece algo que, por natureza, não sejamos\ncapazes de suportar.\" (Marco Aurélio, 121-180 d.C.)","“O hábito é o melhor mestre em todas as coisas.” (Plínio,\n23-79 d.C.)","“E amanhã não seremos o que fomos, nem o que somos.\"\n(Ovídio, 43 a.C.-18 d.C.)"],
     correctAnswer: 4,
     materia: "Filosofia – Filosofia Moderna (Montaigne)",
     conteudo: "Filosofia – Pensamento Filosófico",
@@ -681,7 +681,7 @@ createQuestion({
       principal: "Em 2009, em sua primeira Reunião de Cúpula, países emergentes que compartilhavam grandes perspectivas econômicas firmaram acordos de cooperação econômico-financeira. Esses países correspondem",
       subItens: []
     },
-    options: ["ao MERCOSUL, bloco econômico que integrou infraes-\ntruturas de transporte regionais.","ao $1_{8}_{}$, bloco econômico que modernizou setores de ciên-\ncia, educação e inovação.","ao USCMA, grupo que descentralizou a produção para\nganhar competitividade no mercado global.","ao BRICS, grupo que articulou projetos em áreas de tec-\nnologia, saúde e energia.","ao $1_{20}_{}$, coletivo que estabeleceu metas para o fortaleci-\nmento de seus setores agrícola e extrativista."],
+    options: ["ao MERCOSUL, bloco econômico que integrou infraes-\ntruturas de transporte regionais.","ao G8, bloco econômico que modernizou setores de ciên-\ncia, educação e inovação.","ao USCMA, grupo que descentralizou a produção para\nganhar competitividade no mercado global.","ao BRICS, grupo que articulou projetos em áreas de tec-\nnologia, saúde e energia.","ao G20, coletivo que estabeleceu metas para o fortaleci-\nmento de seus setores agrícola e extrativista."],
     correctAnswer: 3,
     materia: "Geografia – Geopolítica",
     conteudo: "Geografia – Blocos Econômicos",
@@ -753,7 +753,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "A produção de metano ($1_{4}$), chamado de “gás dos pântanos\", na Amazônia representou 8% de suas emissões globais. Cerca de três quartos desse gás liberado na região, que corta nove países e concentra 60% de sua área no Brasil, foram produzidos por um processo natural, em razão da decomposição de biomassa, essencialmente árvores e vegetação, em áreas parcial ou totalmente alagadas durante o ano.\n\n(https://revistapesquisa.fapesp.br. Adaptado.)\n\nNa Amazônia, o \"gás dos pântanos\" está associado, dentre outros fatores,",
+      principal: "A produção de metano (CH_{4}), chamado de “gás dos pântanos\", na Amazônia representou 8% de suas emissões globais. Cerca de três quartos desse gás liberado na região, que corta nove países e concentra 60% de sua área no Brasil, foram produzidos por um processo natural, em razão da decomposição de biomassa, essencialmente árvores e vegetação, em áreas parcial ou totalmente alagadas durante o ano.\n\n(https://revistapesquisa.fapesp.br. Adaptado.)\n\nNa Amazônia, o \"gás dos pântanos\" está associado, dentre outros fatores,",
       subItens: []
     },
     options: ["ao processo de lixiviação.","à incorporação da água de afluentes.","ao assoreamento dos rios.","à transposição de rios.","aos reservatórios das usinas hidrelétricas."],
@@ -981,7 +981,7 @@ createQuestion({
       principal: "Analise o esquema de um jogo de palavras cruzadas.\n\n[Diagrama de palavras cruzadas com as palavras horizontais \"CÉLULA\", \"PROCARIOTO\", \"CROSSING OVER\" e \"NUCLÉOLO\" e espaços para preenchimento numerados como 1, 2 e 3.]\n\nAs informações para que as sequências 1, 2 e 3 sejam preenchidas com os termos que completam as palavras cruzadas são:",
       subItens: []
     },
-    options: ["1: região de acúmulo de RNA ribossômico recém-\n-sintetizado\$1_{2}$: conteúdo dos lisossomos\$1_{3}$: unidade estrutural e funcional dos seres vivos","1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\$1_{2}$: conteúdo dos lisossomos\$1_{3}$: órgãos que apresentam células que sofrem meioses","1: unidade estrutural e funcional dos seres vivos\$1_{2}$: órgãos que apresentam células que sofrem meioses\$1_{3}$: conteúdo dos lisossomos","1: organela em que se dá a síntese proteica\$1_{2}$: o mesmo que permutação cromossômica\$1_{3}$: órgãos que apresentam células que sofrem meioses","1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\$1_{2}$: organela em que se dá a síntese proteica\$1_{3}$: região de acúmulo de RNA ribossômico recém-sintetizado"],
+    options: ["1: região de acúmulo de RNA ribossômico recém-\n-sintetizado\n2: conteúdo dos lisossomos\n3: unidade estrutural e funcional dos seres vivos","1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\n2: conteúdo dos lisossomos\n3: órgãos que apresentam células que sofrem meioses","1: unidade estrutural e funcional dos seres vivos\n2: órgãos que apresentam células que sofrem meioses\n3: conteúdo dos lisossomos","1: organela em que se dá a síntese proteica\n2: o mesmo que permutação cromossômica\n3: órgãos que apresentam células que sofrem meioses","1: proteínas que participam da espiralização e compactação\ndo DNA na formação dos cromossomos\n2: organela em que se dá a síntese proteica\n3: região de acúmulo de RNA ribossômico recém-sintetizado"],
     correctAnswer: 1,
     materia: "Biologia – Citologia",
     conteudo: "Biologia – Genética (Cromossomos e Meiose)",
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "No Brasil, enfatiza-se que o Valor Máximo Permitido (VMP), destacado na portaria MS nº 2.914/2011, que dispõe sobre normas e padrão de potabilidade da água para consumo humano, relacionado com os fluoretos, é de 1,5 mg de F por litro de água.\n\n(Fundação Nacional de Saúde.\nManual de fluoretação da água para consumo humano, 2012. Adaptado.)\n\nUma Estação de Tratamento de Água (ETA), que utiliza o fluoreto de sódio (NaF) como único fluoreto, trata 100 milhões de litros de água por dia. Assim, a massa máxima de NaF que essa ETA deve utilizar por dia é próxima de",
+      principal: "No Brasil, enfatiza-se que o Valor Máximo Permitido (VMP), destacado na portaria MS nº 2.$\\\\frac{914}{2011}$, que dispõe sobre normas e padrão de potabilidade da água para consumo humano, relacionado com os fluoretos, é de 1,5 mg de F por litro de água.\n\n(Fundação Nacional de Saúde.\nManual de fluoretação da água para consumo humano, 2012. Adaptado.)\n\nUma Estação de Tratamento de Água (ETA), que utiliza o fluoreto de sódio (NaF) como único fluoreto, trata 100 milhões de litros de água por dia. Assim, a massa máxima de NaF que essa ETA deve utilizar por dia é próxima de",
       subItens: []
     },
     options: ["220 kg.","330 kg.","110 kg.","440 kg.","550 kg."],
@@ -1068,7 +1068,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Considere as seguintes informações sobre o óleo diesel, uma mistura de hidrocarbonetos de fórmula geral CnH2n+2:\n\nFórmula molecular média: C₁₂H₂₆\nMassa molar média: 170 g/mol\nPoder calorífico aproximado: 45000 kJ/kg\n\nUm gerador de potência igual a 180 kW trabalhou sob regime de potência máxima durante 1 hora. Caso fosse possível transformar em energia elétrica toda a energia que se obtém pela queima do óleo diesel, a quantidade de óleo diesel consumida pelo gerador em uma hora seria próxima de",
+      principal: "Considere as seguintes informações sobre o óleo diesel, uma mistura de hidrocarbonetos de fórmula geral CnH2n+2:\n\nFórmula molecular média: C₁₂H₂₆\nMassa molar média: 170 $\\\\frac{g}{mol}$\nPoder calorífico aproximado: 45000 $\\\\frac{kJ}{kg}$\n\nUm gerador de potência igual a 180 kW trabalhou sob regime de potência máxima durante 1 hora. Caso fosse possível transformar em energia elétrica toda a energia que se obtém pela queima do óleo diesel, a quantidade de óleo diesel consumida pelo gerador em uma hora seria próxima de",
       subItens: []
     },
     options: ["254 mol.","169 mol.","42 mol.","85 mol.","210 mol."],
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Quando cianeto de hidrogênio, um gás extremamente tóxico, é borbulhado em água, ocorre a produção de uma solução aquosa de ácido cianídrico, que se ioniza conforme a equação:\n\nHCN (aq) ⇌ H⁺ (aq) + CN¯ (aq)\n\nUma solução aquosa 0,2 mol/L de ácido cianídrico apresenta pH = 5 na temperatura de 25 °C. A partir desse dado, pode-se estimar o valor da constante K desse ácido nessa temperatura. Esse valor é, aproximadamente,",
+      principal: "Quando cianeto de hidrogênio, um gás extremamente tóxico, é borbulhado em água, ocorre a produção de uma solução aquosa de ácido cianídrico, que se ioniza conforme a equação:\n\nHCN (aq) ⇌ H⁺ (aq) + CN¯ (aq)\n\nUma solução aquosa 0,2 $\\\\frac{mol}{L}$ de ácido cianídrico apresenta pH = 5 na temperatura de 25 °C. A partir desse dado, pode-se estimar o valor da constante K desse ácido nessa temperatura. Esse valor é, aproximadamente,",
       subItens: []
     },
     options: ["1 x 10⁻¹⁰.","2 x 10⁻¹.","5 × 10⁻¹⁰.","2 x 10⁻⁵.","5 × 10⁻¹."],
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Funcionários de um mercado utilizam um dinamômetro funcionando como uma balança. Esse instrumento é constituído por uma mola ideal vertical e por um prato horizontal de massa 200 g, preso, em repouso, na extremidade inferior dessa mola por cabos de massas desprezíveis.\n\nAo utilizar esse dinamômetro, um funcionário deixa um pacote de café cair verticalmente, a partir do repouso, no centro do prato, de uma altura de 45 cm em relação a ele, conforme a figura. O pacote colide inelasticamente com o prato, e o conjunto começa a oscilar na direção vertical, apresentando uma velocidade de 2 m/s imediatamente após a colisão.\n\n[Diagrama de um dinamômetro com um prato, e um pacote de café caindo sobre ele. A altura de queda é indicada como 45 cm.]\n\nConsiderando que o conjunto constituído pelo prato e pelo pacote de café seja isolado de forças externas nessa colisão, que g seja igual a 10 m/s² e desprezando a resistência do ar, a massa do pacote de café é de",
+      principal: "Funcionários de um mercado utilizam um dinamômetro funcionando como uma balança. Esse instrumento é constituído por uma mola ideal vertical e por um prato horizontal de massa 200 g, preso, em repouso, na extremidade inferior dessa mola por cabos de massas desprezíveis.\n\nAo utilizar esse dinamômetro, um funcionário deixa um pacote de café cair verticalmente, a partir do repouso, no centro do prato, de uma altura de 45 cm em relação a ele, conforme a figura. O pacote colide inelasticamente com o prato, e o conjunto começa a oscilar na direção vertical, apresentando uma velocidade de 2 $\\\\frac{m}{s}$ imediatamente após a colisão.\n\n[Diagrama de um dinamômetro com um prato, e um pacote de café caindo sobre ele. A altura de queda é indicada como 45 cm.]\n\nConsiderando que o conjunto constituído pelo prato e pelo pacote de café seja isolado de forças externas nessa colisão, que g seja igual a 10 $\\\\frac{m}{s}$² e desprezando a resistência do ar, a massa do pacote de café é de",
       subItens: []
     },
     options: ["300 g.","500 g.","600 g.","200 g.","400 g."],
@@ -1173,7 +1173,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "O gráfico representa a frequência média de oscilação (f) das pernas de um animal em função do comprimento de suas pernas (L), quando ele caminha de forma natural. Esse mesmo gráfico pode ser utilizado para uma pessoa caminhando nas mesmas condições.\n\n[Gráfico da frequência (f em passos/s) vs. comprimento (L em cm), mostrando uma curva decrescente.]\n\n(https://wp.ufpel.edu.br)\n\nConsidere uma pessoa adulta de 80 kg, cujas pernas medem 1 m, caminhando em um parque sobre uma superfície plana e horizontal, com velocidade escalar constante. Se, em determinado trecho dessa caminhada, para cada passo dado essa pessoa deslocar-se 90 cm, sua energia cinética será de",
+      principal: "O gráfico representa a frequência média de oscilação (f) das pernas de um animal em função do comprimento de suas pernas (L), quando ele caminha de forma natural. Esse mesmo gráfico pode ser utilizado para uma pessoa caminhando nas mesmas condições.\n\n[Gráfico da frequência (f em $\\\\frac{passos}{s}$) vs. comprimento (L em cm), mostrando uma curva decrescente.]\n\n(https://wp.ufpel.edu.br)\n\nConsidere uma pessoa adulta de 80 kg, cujas pernas medem 1 m, caminhando em um parque sobre uma superfície plana e horizontal, com velocidade escalar constante. Se, em determinado trecho dessa caminhada, para cada passo dado essa pessoa deslocar-se 90 cm, sua energia cinética será de",
       subItens: []
     },
     options: ["40,0 J.","32,4 J.","64,8 J.","36,0 J.","16,2 J."],
@@ -1281,7 +1281,7 @@ createQuestion({
       principal: "Na figura, BELO é um losango com vértices E e O nos lados BA e LU, respectivamente, do retângulo BALU. A diagonal BL de BALU forma um ângulo de 30° com o lado LU, como mostra a figura.\n\n[Diagrama de um retângulo BALU com um losango BELO inscrito, e a diagonal BL formando um ângulo de 30° com o lado LU.]\n\nSe a medida do lado do losango BELO é igual a 2 cm, a área do retângulo BALU será igual a:",
       subItens: []
     },
-    options: ["3√3 cm²\$1_{2}$","3√3 cm²","5√3 cm²","7√3 cm²\$1_{2}$","2√3 cm²"],
+    options: ["3√3 cm²\n2","3√3 cm²","5√3 cm²","7√3 cm²\n2","2√3 cm²"],
     correctAnswer: 1,
     materia: "Matemática – Geometria Plana",
     conteudo: "Matemática – Trigonometria",
@@ -1293,7 +1293,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Observe a figura, formada por um triângulo PQR inscrito em uma circunferência de diâmetro PR = 10 m, em que PQ = 6 m. Uma partícula se move sobre a linha contínua, iniciando seu movimento em P, passando por Q, depois por R e, finalmente, voltando a P, como mostram as setas sobre a trajetória.\n\n[Diagrama de uma circunferência com um triângulo PQR inscrito. Uma partícula se move ao longo do arco P-Q-R-P.]\n\nA partícula parte de P com velocidade inicial de 8 m/s, e o módulo de sua velocidade aumenta uniformemente ao longo da trajetória, até chegar novamente em P, com velocidade de 10 m/s. Adotando π = 3, o módulo da aceleração escalar dessa partícula ao longo de todo seu percurso é de:",
+      principal: "Observe a figura, formada por um triângulo PQR inscrito em uma circunferência de diâmetro PR = 10 m, em que PQ = 6 m. Uma partícula se move sobre a linha contínua, iniciando seu movimento em P, passando por Q, depois por R e, finalmente, voltando a P, como mostram as setas sobre a trajetória.\n\n[Diagrama de uma circunferência com um triângulo PQR inscrito. Uma partícula se move ao longo do arco P-Q-R-P.]\n\nA partícula parte de P com velocidade inicial de 8 $\\\\frac{m}{s}$, e o módulo de sua velocidade aumenta uniformemente ao longo da trajetória, até chegar novamente em P, com velocidade de 10 $\\\\frac{m}{s}$. Adotando π = 3, o módulo da aceleração escalar dessa partícula ao longo de todo seu percurso é de:",
       subItens: []
     },
     options: ["36/89 m/s²","3/25 m/s²","2/11 m/s²","18/29 m/s²","1/11 m/s²"],

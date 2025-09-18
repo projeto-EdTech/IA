@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Observe a charge de Storni, publicada na revista Careta em\$1_{19}$.02.1927.\nAS PRÓXIMAS ELEIÇÕES... “DE CABRESTO\"\nELLA - É O ZÉ BESTA?\nELLE – NÃO, É O ZÉ BURRO\"\n(Apud Renato Lemos (org.). Uma história do Brasil\natravés da caricatura: 1840-2006, 2006.)\nDivulgada durante a Primeira República brasileira, a charge\nfaz referência a uma\n(A) ação corrupta que permitia o desvio de verbas públicas.\n(B) prática política que facilitava a continuidade do domínio\noligárquico.\n(C) proposição constitucional que determinava a obrigatorie-\ndade do voto.\n(D) experiência política que favorecia a soberania do voto\npopular.\n(E) lei eleitoral que visava garantir a fidelidade do eleitor.",
+      principal: "Observe a charge de Storni, publicada na revista Careta em\n19.02.1927.\nAS PRÓXIMAS ELEIÇÕES... “DE CABRESTO\"\nELLA - É O ZÉ BESTA?\nELLE – NÃO, É O ZÉ BURRO\"\n(Apud Renato Lemos (org.). Uma história do Brasil\natravés da caricatura: 1840-2006, 2006.)\nDivulgada durante a Primeira República brasileira, a charge\nfaz referência a uma\n(A) ação corrupta que permitia o desvio de verbas públicas.\n(B) prática política que facilitava a continuidade do domínio\noligárquico.\n(C) proposição constitucional que determinava a obrigatorie-\ndade do voto.\n(D) experiência política que favorecia a soberania do voto\npopular.\n(E) lei eleitoral que visava garantir a fidelidade do eleitor.",
       subItens: []
     },
     options: ["ação corrupta que permitia o desvio de verbas públicas.","prática política que facilitava a continuidade do domínio\noligárquico.","proposição constitucional que determinava a obrigatorie-\ndade do voto.","experiência política que favorecia a soberania do voto\npopular.","lei eleitoral que visava garantir a fidelidade do eleitor."],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Observe a charge de Lan, publicada no Jornal do Brasil em\$1_{13}$.06.1963.\nSANTO ANTÔNIO CASAMENTEIRO\nESQUERDA\nCENTRO\nDIREITA\n(Apud Rodrigo Patto Sá Motta. Jango e o golpe de 1964 na caricatura,\$1_{2006}$.)\nA charge representa o então presidente João Goulart,\n(A) ironizando sua indefinição político-ideológica.\n(B) destacando sua fé e sua religiosidade.\n(C) satirizando sua complicada vida familiar.\n(D) valorizando sua capacidade de mediação política.\n(E) enfatizando a neutralidade de sua posição partidária.",
+      principal: "Observe a charge de Lan, publicada no Jornal do Brasil em\n13.06.1963.\nSANTO ANTÔNIO CASAMENTEIRO\nESQUERDA\nCENTRO\nDIREITA\n(Apud Rodrigo Patto Sá Motta. Jango e o golpe de 1964 na caricatura,\n2006.)\nA charge representa o então presidente João Goulart,\n(A) ironizando sua indefinição político-ideológica.\n(B) destacando sua fé e sua religiosidade.\n(C) satirizando sua complicada vida familiar.\n(D) valorizando sua capacidade de mediação política.\n(E) enfatizando a neutralidade de sua posição partidária.",
       subItens: []
     },
     options: ["ironizando sua indefinição político-ideológica.","destacando sua fé e sua religiosidade.","satirizando sua complicada vida familiar.","valorizando sua capacidade de mediação política.","enfatizando a neutralidade de sua posição partidária."],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Analise o quadro que compara três modais para o transporte\nde uma carga com 6000 toneladas.\nIndicador\nModal 1\nModal 2\nModal 3\nConsumo médio de combustível\npara transportar uma tonelada\npor mil quilômetros\$1_{4}$,1 litros\$1_{5}$,7 litros\$1_{15}$,4 litros\nEmissão de gás carbônico\n($1_{2}$/TKU)\$1_{20}$,0\$1_{23}$,3\$1_{101}$,2\nCusto médio de transporte,\ncarga geral por 1000 km (R$/t)\nR$ 50,74\nR$ 67,54\nR$ 239,74\n(Cássio A. N. Teixeira et al. BNDES Setorial, nº 47, março de 2018. Adaptado.)\nConsiderando os indicadores de eficiência apresentados, o\nmodal\n(A) 2 corresponde ao modelo rodoviário, viável por operar\ncom reduzida emissão de gases de efeito estufa.\n(B) 1 corresponde à navegação de cabotagem, eficiente para\no transporte em grandes distâncias.\n(C) 1 corresponde ao deslocamento aéreo, competitivo no\ntransporte de mercadorias de alto valor agregado.\n(D) 3 corresponde ao sistema ferroviário, capaz de absorver\nos impactos econômicos no transporte de rejeitos indus-\ntriais.\n(E) 2 corresponde ao complexo dutoviário, vantajoso para o\ntransporte de grãos em cinturões agrícolas.",
+      principal: "Analise o quadro que compara três modais para o transporte\nde uma carga com 6000 toneladas.\nIndicador\nModal 1\nModal 2\nModal 3\nConsumo médio de combustível\npara transportar uma tonelada\npor mil quilômetros\n4,1 litros\n5,7 litros\n15,4 litros\nEmissão de gás carbônico\n($\\\\frac{gCO_{2}}{TKU}$)\n20,0\n23,3\n101,2\nCusto médio de transporte,\ncarga geral por 1000 km (R$/t)\nR$ 50,74\nR$ 67,54\nR$ 239,74\n(Cássio A. N. Teixeira et al. BNDES Setorial, nº 47, março de 2018. Adaptado.)\nConsiderando os indicadores de eficiência apresentados, o\nmodal\n(A) 2 corresponde ao modelo rodoviário, viável por operar\ncom reduzida emissão de gases de efeito estufa.\n(B) 1 corresponde à navegação de cabotagem, eficiente para\no transporte em grandes distâncias.\n(C) 1 corresponde ao deslocamento aéreo, competitivo no\ntransporte de mercadorias de alto valor agregado.\n(D) 3 corresponde ao sistema ferroviário, capaz de absorver\nos impactos econômicos no transporte de rejeitos indus-\ntriais.\n(E) 2 corresponde ao complexo dutoviário, vantajoso para o\ntransporte de grãos em cinturões agrícolas.",
       subItens: []
     },
     options: ["2 corresponde ao modelo rodoviário, viável por operar\ncom reduzida emissão de gases de efeito estufa.","1 corresponde à navegação de cabotagem, eficiente para\no transporte em grandes distâncias.","1 corresponde ao deslocamento aéreo, competitivo no\ntransporte de mercadorias de alto valor agregado.","3 corresponde ao sistema ferroviário, capaz de absorver\nos impactos econômicos no transporte de rejeitos indus-\ntriais.","2 corresponde ao complexo dutoviário, vantajoso para o\ntransporte de grãos em cinturões agrícolas."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Analise o climograma.\nTemperatura (°C)\$1_{40}$\$1_{30}$\$1_{20}$\$1_{10}$\no\n-10\n-20\nJFMAMJJASOND\n(meses)\$1_{80}$\$1_{60}$\$1_{40}$\$1_{20}$\$1_{0}$\nPrecipitação (mm)\n(James O. Tamdjian. Geografia, 2013. Adaptado.)\nAssinale a alternativa que apresenta a vegetação correspon-\ndente ao climograma.\n(A)\n(B)\n(C)\n(D)\n(E)",
+      principal: "Analise o climograma.\nTemperatura (°C)\n40\n30\n20\n10\no\n-10\n-20\nJFMAMJJASOND\n(meses)\n80\n60\n40\n20\n0\nPrecipitação (mm)\n(James O. Tamdjian. Geografia, 2013. Adaptado.)\nAssinale a alternativa que apresenta a vegetação correspon-\ndente ao climograma.\n(A)\n(B)\n(C)\n(D)\n(E)",
       subItens: []
     },
     options: ["","","","",""],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Um novo estudo realizado pela Escola Nacional de Saúde\nPública Sergio Arouca (ENSP/Fiocruz) na população indíge-\nna Yanomami constatou a presença de mercúrio nas amos-\ntras de cabelo de 56% das mulheres e crianças da região de\nMaturacá, no Amazonas, em níveis acima do tolerado pela\nOrganização Mundial da Saúde. \"O mercúrio é disseminado\npelas águas dos rios e a contaminação de seres humanos\nse dá, especialmente, por meio da ingestão de peixes conta-\nminados\", afirmou o coordenador da pesquisa, Paulo Basta.\n(Filipe Leonel. \"Contaminação por mercúrio se alastra na população\nYanomami\". www.ensp.fiocruz.br, 16.08.2019. Adaptado.)\nA contaminação por mercúrio apresentada no excerto está\nassociada\n(A) à calagem para eliminar a acidez do solo.\n(B) ao terraceamento sem o controle de erosão.\n(C) ao garimpo ilegal para a extração de ouro.\n(D) à laterização para a extração da canga.\n(E) a aterros sanitários sem a impermeabilização do terreno.",
+      principal: "Um novo estudo realizado pela Escola Nacional de Saúde\nPública Sergio Arouca ($\\\\frac{ENSP}{Fiocruz}$) na população indíge-\nna Yanomami constatou a presença de mercúrio nas amos-\ntras de cabelo de 56% das mulheres e crianças da região de\nMaturacá, no Amazonas, em níveis acima do tolerado pela\nOrganização Mundial da Saúde. \"O mercúrio é disseminado\npelas águas dos rios e a contaminação de seres humanos\nse dá, especialmente, por meio da ingestão de peixes conta-\nminados\", afirmou o coordenador da pesquisa, Paulo Basta.\n(Filipe Leonel. \"Contaminação por mercúrio se alastra na população\nYanomami\". www.ensp.fiocruz.br, 16.08.2019. Adaptado.)\nA contaminação por mercúrio apresentada no excerto está\nassociada\n(A) à calagem para eliminar a acidez do solo.\n(B) ao terraceamento sem o controle de erosão.\n(C) ao garimpo ilegal para a extração de ouro.\n(D) à laterização para a extração da canga.\n(E) a aterros sanitários sem a impermeabilização do terreno.",
       subItens: []
     },
     options: ["à calagem para eliminar a acidez do solo.","ao terraceamento sem o controle de erosão.","ao garimpo ilegal para a extração de ouro.","à laterização para a extração da canga.","a aterros sanitários sem a impermeabilização do terreno."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Capacidade hidrelétrica instalada\npor sub-bacia hidrográfica, 2003\nPotencial total instalada (MW)\npor sub-bacia hidrográfica\nmenos de 200\$1_{201}$ a 1000\$1_{1001}$ a 5000\$1_{5001}$ a 10000\nLimite das bacias\nLimite das sub-bacias\n(Agência Nacional de Energia Elétrica.\nAtlas de energia elétrica do Brasil, 2005. Adaptado.)\nConsiderando o mapa e conhecimentos sobre a produção de\nenergia hidráulica brasileira, pode-se afirmar que\n(A) o relevo de planícies explica o baixo aproveitamento hi-\ndráulico da Bacia do Amazonas.\n(B) a grande distância dos centros consumidores explica o alto\naproveitamento hidráulico da Bacia do Paraná-Paraguai.\n(C) o relevo de depressões explica o baixo aproveitamento\nhidráulico da Bacia do Atlântico Leste.\n(D) a grande diversidade biológica explica o alto aproveita-\nmento hidráulico da Bacia do Atlântico Nordeste-Norte.\n(E) a retração da frente pioneira explica o alto aproveitamen-\nto hidráulico da Bacia do Tocantins.",
+      principal: "Capacidade hidrelétrica instalada\npor sub-bacia hidrográfica, 2003\nPotencial total instalada (MW)\npor sub-bacia hidrográfica\nmenos de 200\n201 a 1000\n1001 a 5000\n5001 a 10000\nLimite das bacias\nLimite das sub-bacias\n(Agência Nacional de Energia Elétrica.\nAtlas de energia elétrica do Brasil, 2005. Adaptado.)\nConsiderando o mapa e conhecimentos sobre a produção de\nenergia hidráulica brasileira, pode-se afirmar que\n(A) o relevo de planícies explica o baixo aproveitamento hi-\ndráulico da Bacia do Amazonas.\n(B) a grande distância dos centros consumidores explica o alto\naproveitamento hidráulico da Bacia do Paraná-Paraguai.\n(C) o relevo de depressões explica o baixo aproveitamento\nhidráulico da Bacia do Atlântico Leste.\n(D) a grande diversidade biológica explica o alto aproveita-\nmento hidráulico da Bacia do Atlântico Nordeste-Norte.\n(E) a retração da frente pioneira explica o alto aproveitamen-\nto hidráulico da Bacia do Tocantins.",
       subItens: []
     },
     options: ["o relevo de planícies explica o baixo aproveitamento hi-\ndráulico da Bacia do Amazonas.","a grande distância dos centros consumidores explica o alto\naproveitamento hidráulico da Bacia do Paraná-Paraguai.","o relevo de depressões explica o baixo aproveitamento\nhidráulico da Bacia do Atlântico Leste.","a grande diversidade biológica explica o alto aproveita-\nmento hidráulico da Bacia do Atlântico Nordeste-Norte.","a retração da frente pioneira explica o alto aproveitamen-\nto hidráulico da Bacia do Tocantins."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Examine o esquema.\$1_{165}$° 180°\$1_{165}$°\$1_{150}$°\$1_{22}$\$1_{150}$°\n+1\$1_{135}$°\$1_{135}$°\$1_{120}$°\$1_{120}$°\$1_{105}$°\$1_{105}$°\$1_{90}$°\$1_{90}$°\$1_{75}$°\$1_{75}$°\$1_{60}$°\$1_{60}$°\$1_{45}$°\$1_{45}$°\$1_{00}$\$1_{30}$°\$1_{30}$°\n+11\$1_{15}$°\$1_{15}$°\nMeridiano de\nGreenwich\n(Paulo A. Duarte. Fundamentos de cartografia, 2008. Adaptado.)\nO esquema corresponde\n(A) à inclinação dos raios solares, ângulo que orienta as qua-\ntro estações do ano.\n(B) aos fusos horários, fragmentação que estabelece as\ncoordenadas geográficas na Terra.\n(C) à inclinação dos raios solares, condição que determina\nos períodos diurno e noturno.\n(D) aos fusos horários, sistema que responde ao movimento\nde rotação da Terra.\n(E) aos fusos horários, convenção que determina os parale-\nlos que cortam a Terra.",
+      principal: "Examine o esquema.\n165° 180°\n165°\n150°\n22\n150°\n+1\n135°\n135°\n120°\n120°\n105°\n105°\n90°\n90°\n75°\n75°\n60°\n60°\n45°\n45°\n00\n30°\n30°\n+11\n15°\n15°\nMeridiano de\nGreenwich\n(Paulo A. Duarte. Fundamentos de cartografia, 2008. Adaptado.)\nO esquema corresponde\n(A) à inclinação dos raios solares, ângulo que orienta as qua-\ntro estações do ano.\n(B) aos fusos horários, fragmentação que estabelece as\ncoordenadas geográficas na Terra.\n(C) à inclinação dos raios solares, condição que determina\nos períodos diurno e noturno.\n(D) aos fusos horários, sistema que responde ao movimento\nde rotação da Terra.\n(E) aos fusos horários, convenção que determina os parale-\nlos que cortam a Terra.",
       subItens: []
     },
     options: ["à inclinação dos raios solares, ângulo que orienta as qua-\ntro estações do ano.","aos fusos horários, fragmentação que estabelece as\ncoordenadas geográficas na Terra.","à inclinação dos raios solares, condição que determina\nos períodos diurno e noturno.","aos fusos horários, sistema que responde ao movimento\nde rotação da Terra.","aos fusos horários, convenção que determina os parale-\nlos que cortam a Terra."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A figura ilustra, de forma simplificada, a reprodução de um\npinheiro.\nEstróbilo\novulado\$1_{2}$\$1_{1}$\nEstróbilo\nmasculino\$1_{3}$\nGametófito feminino\$1_{4}$\nOosferas\nGrão de pólen Semente 5\n(Murray W. Nabors. Introdução à Botânica, 2012. Adaptado.)\nOs eventos biológicos que ocorrem nas etapas indicadas por\$1_{1}$, 2, 3, 4 e 5 são, respectivamente,\n(A) dispersão, mitose, polinização, fecundação e meiose.\n(B) meiose, fecundação, dispersão, polinização e mitose.\n(C) meiose, polinização, fecundação, dispersão e mitose.\n(D) polinização, dispersão, mitose, fecundação e meiose.\n(E) dispersão, polinização, meiose, fecundação e mitose.",
+      principal: "A figura ilustra, de forma simplificada, a reprodução de um\npinheiro.\nEstróbilo\novulado\n2\n1\nEstróbilo\nmasculino\n3\nGametófito feminino\n4\nOosferas\nGrão de pólen Semente 5\n(Murray W. Nabors. Introdução à Botânica, 2012. Adaptado.)\nOs eventos biológicos que ocorrem nas etapas indicadas por\n1, 2, 3, 4 e 5 são, respectivamente,\n(A) dispersão, mitose, polinização, fecundação e meiose.\n(B) meiose, fecundação, dispersão, polinização e mitose.\n(C) meiose, polinização, fecundação, dispersão e mitose.\n(D) polinização, dispersão, mitose, fecundação e meiose.\n(E) dispersão, polinização, meiose, fecundação e mitose.",
       subItens: []
     },
     options: ["dispersão, mitose, polinização, fecundação e meiose.","meiose, fecundação, dispersão, polinização e mitose.","meiose, polinização, fecundação, dispersão e mitose.","polinização, dispersão, mitose, fecundação e meiose.","dispersão, polinização, meiose, fecundação e mitose."],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A genealogia ilustra uma família em que as pessoas destaca-\ndas apresentam uma doença autossômica monogênica.\nIII\$1_{1}$\$1_{2}$\$1_{3}$\$1_{4}$\$1_{1}$\$1_{2}$\$1_{3}$\$1_{4}$\$1_{5}$\$1_{6}$\$1_{1}$\$1_{2}$\$1_{3}$\nA análise dessa genealogia permite concluir que a probabili-\ndade de\n(A) os indivíduos I-2, II-5 e III-1 serem heterozigotos é de 2/3.\n(B) os indivíduos I-1 e II-4 apresentarem o alelo para a\ndoença é de 1/2.\n(C) o próximo filho do casal 1-3 e 1-4 ser uma criança doente\né de 1/6.\n(D) o próximo filho do casal II-3 e II-4 ser uma menina doente\né de 1/8.\n(E) os indivíduos II-1 e III-3 apresentarem o alelo para a\ndoença é de 1/4.",
+      principal: "A genealogia ilustra uma família em que as pessoas destaca-\ndas apresentam uma doença autossômica monogênica.\nIII\n1\n2\n3\n4\n1\n2\n3\n4\n5\n6\n1\n2\n3\nA análise dessa genealogia permite concluir que a probabili-\ndade de\n(A) os indivíduos I-2, II-5 e III-1 serem heterozigotos é de $\\\\frac{2}{3}$.\n(B) os indivíduos I-1 e II-4 apresentarem o alelo para a\ndoença é de $\\\\frac{1}{2}$.\n(C) o próximo filho do casal 1-3 e 1-4 ser uma criança doente\né de $\\\\frac{1}{6}$.\n(D) o próximo filho do casal II-3 e II-4 ser uma menina doente\né de $\\\\frac{1}{8}$.\n(E) os indivíduos II-1 e III-3 apresentarem o alelo para a\ndoença é de $\\\\frac{1}{4}$.",
       subItens: []
     },
     options: ["os indivíduos I-2, II-5 e III-1 serem heterozigotos é de 2/3.","os indivíduos I-1 e II-4 apresentarem o alelo para a\ndoença é de 1/2.","o próximo filho do casal 1-3 e 1-4 ser uma criança doente\né de 1/6.","o próximo filho do casal II-3 e II-4 ser uma menina doente\né de 1/8.","os indivíduos II-1 e III-3 apresentarem o alelo para a\ndoença é de 1/4."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Um resíduo de 200 mL de solução de ácido sulfúrico ($1_{2}SO_{4}$),\nde concentração 0,1 mol/L, precisava ser neutralizado antes\ndo descarte. Para tanto, foi utilizado bicarbonato de sódio\n($1_{3}$), conforme a equação a seguir:\nH2SO4 + 2NaHCO3 → $1_{2}SO_{4}$ + 2H2O + 2CO2\nA massa de bicarbonato de sódio necessária para a neutra-\nlização completa do ácido sulfúrico contido nessa solução é\nigual a\n(A) 1,68 g.\n(B) 16,8 g.\n(C) 8,4 g.\n(D) 33,6 g.\n(E) 3,36 g.",
+      principal: "Um resíduo de 200 mL de solução de ácido sulfúrico (H_{2}SO_{4}),\nde concentração 0,1 $\\\\frac{mol}{L}$, precisava ser neutralizado antes\ndo descarte. Para tanto, foi utilizado bicarbonato de sódio\n(NaHCO_{3}), conforme a equação a seguir:\nH_{2}SO_{4} + 2NaHCO3 → Na_{2}SO_{4} + 2H2O + 2CO2\nA massa de bicarbonato de sódio necessária para a neutra-\nlização completa do ácido sulfúrico contido nessa solução é\nigual a\n(A) 1,68 g.\n(B) 16,8 g.\n(C) 8,4 g.\n(D) 33,6 g.\n(E) 3,36 g.",
       subItens: []
     },
     options: ["1,68 g.","16,8 g.","8,4 g.","33,6 g.","3,36 g."],
@@ -798,7 +798,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "O óxido de propileno é uma substância utilizada na produção\nde polímeros, como o poliuretano. Sua fórmula estrutural está\nrepresentada a seguir.\$1_{3}$\nΟ\nóxido de propileno\nA massa molar dessa substância é\n(A) 45 g/mol.\n(B) 42 g/mol.\n(C) 46 g/mol.\n(D) 55 g/mol.\n(E) 58 g/mol.",
+      principal: "O óxido de propileno é uma substância utilizada na produção\nde polímeros, como o poliuretano. Sua fórmula estrutural está\nrepresentada a seguir.\nCH_{3}\nΟ\nóxido de propileno\nA massa molar dessa substância é\n(A) 45 $\\\\frac{g}{mol}$.\n(B) 42 $\\\\frac{g}{mol}$.\n(C) 46 $\\\\frac{g}{mol}$.\n(D) 55 $\\\\frac{g}{mol}$.\n(E) 58 $\\\\frac{g}{mol}$.",
       subItens: []
     },
     options: ["45 g/mol.","42 g/mol.","46 g/mol.","55 g/mol.","58 g/mol."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A tabela apresenta as pressões de vapor, à mesma tempera-\ntura, de três substâncias polares I, II e III.\nSubstância\n|\nPressão de vapor (mmHg)\$1_{60}$\n||\$1_{200}$\nIII\$1_{260}$\nConsiderando as informações fornecidas, pode-se afirmar\nque\n(A) a substância II estará no estado gasoso à temperatura\nambiente.\n(B) a substância III apresentará menor pressão de vapor em\nmaior altitude.\n(C) a substância I apresenta a maior intensidade de intera-\nções entre suas moléculas.\n(D) a substância I apresentará maior temperatura de ebulição\nse for adicionada a ela certa quantidade da substância II.\n(E) a substância III apresenta a maior temperatura de ebu-\nlição.",
+      principal: "A tabela apresenta as pressões de vapor, à mesma tempera-\ntura, de três substâncias polares I, II e III.\nSubstância\n|\nPressão de vapor (mmHg)\n60\n||\n200\nIII\n260\nConsiderando as informações fornecidas, pode-se afirmar\nque\n(A) a substância II estará no estado gasoso à temperatura\nambiente.\n(B) a substância III apresentará menor pressão de vapor em\nmaior altitude.\n(C) a substância I apresenta a maior intensidade de intera-\nções entre suas moléculas.\n(D) a substância I apresentará maior temperatura de ebulição\nse for adicionada a ela certa quantidade da substância II.\n(E) a substância III apresenta a maior temperatura de ebu-\nlição.",
       subItens: []
     },
     options: ["a substância II estará no estado gasoso à temperatura\nambiente.","a substância III apresentará menor pressão de vapor em\nmaior altitude.","a substância I apresenta a maior intensidade de intera-\nções entre suas moléculas.","a substância I apresentará maior temperatura de ebulição\nse for adicionada a ela certa quantidade da substância II.","a substância III apresenta a maior temperatura de ebu-\nlição."],
@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Uma solução de hidróxido de sódio (NaOH) apresenta pH\nigual a 9. Considerando-se o valor de Kw igual a 10⁻¹⁴, a\nconcentração de íons OH⁻ nessa solução é igual a\n(A) 10⁻⁷ mol/L.\n(B) 10⁻⁸ mol/L.\n(C) 10⁻⁵ mol/L.\n(D) 10⁻⁹ mol/L.\n(E) 10⁻⁶ mol/L.",
+      principal: "Uma solução de hidróxido de sódio (NaOH) apresenta pH\nigual a 9. Considerando-se o valor de Kw igual a 10⁻¹⁴, a\nconcentração de íons OH⁻ nessa solução é igual a\n(A) 10⁻⁷ $\\\\frac{mol}{L}$.\n(B) 10⁻⁸ $\\\\frac{mol}{L}$.\n(C) 10⁻⁵ $\\\\frac{mol}{L}$.\n(D) 10⁻⁹ $\\\\frac{mol}{L}$.\n(E) 10⁻⁶ $\\\\frac{mol}{L}$.",
       subItens: []
     },
     options: ["10⁻⁷ mol/L.","10⁻⁸ mol/L.","10⁻⁵ mol/L.","10⁻⁹ mol/L.","10⁻⁶ mol/L."],
@@ -843,10 +843,10 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A decomposição térmica do carbonato de zinco ($1_{3}$) em\nseus óxidos tem uma entalpia positiva de 71,5 kJ/mol de\$1_{3}$. A equação termoquímica que representa essa rea-\nção é\n(A) $1_{3}$ (s) → ZnO (s) + CO (g) (9)+202 + 102 (g) + 71,5 kJ\n(B) $1_{3}$ (s) + 71,5 kJ → ZnO (s) + CO (g) + 102(g) = $1_{2}_{}$ (g)\n(C) $1_{3}$ (s) + 71,5 kJ → $1_{2}$ (s) + CO (g)\n(D) $1_{3}$ (s) → ZnO (s) + $1_{2}$ (g) + 71,5 kJ\n(E) $1_{3}$ (s) + 71,5 kJ → ZnO (s) + $1_{2}$ (g)",
+      principal: "A decomposição térmica do carbonato de zinco (ZnCO_{3}) em\nseus óxidos tem uma entalpia positiva de 71,5 $\\\\frac{kJ}{mol}$ de\nZnCO_{3}. A equação termoquímica que representa essa rea-\nção é\n(A) ZnCO_{3} (s) → ZnO (s) + CO (g) (9)+202 + 102 (g) + 71,5 kJ\n(B) ZnCO_{3} (s) + 71,5 kJ → ZnO (s) + CO (g) + 102(g) = O_{2} (g)\n(C) ZnCO_{3} (s) + 71,5 kJ → ZnO_{2} (s) + CO (g)\n(D) ZnCO_{3} (s) → ZnO (s) + CO_{2} (g) + 71,5 kJ\n(E) ZnCO_{3} (s) + 71,5 kJ → ZnO (s) + CO_{2} (g)",
       subItens: []
     },
-    options: ["$1_{3}$ (s) → ZnO (s) + CO (g) (9)+202 + 102 (g) + 71,5 kJ","$1_{3}$ (s) + 71,5 kJ → ZnO (s) + CO (g) + 102(g) = $1_{2}_{}$ (g)","$1_{3}$ (s) + 71,5 kJ → $1_{2}$ (s) + CO (g)","$1_{3}$ (s) → ZnO (s) + $1_{2}$ (g) + 71,5 kJ","$1_{3}$ (s) + 71,5 kJ → ZnO (s) + $1_{2}$ (g)"],
+    options: ["ZnCO3 (s) → ZnO (s) + CO (g) (9)+202 + 102 (g) + 71,5 kJ","ZnCO3 (s) + 71,5 kJ → ZnO (s) + CO (g) + 102(g) = O2 (g)","ZnCO3 (s) + 71,5 kJ → ZnO2 (s) + CO (g)","ZnCO3 (s) → ZnO (s) + CO2 (g) + 71,5 kJ","ZnCO3 (s) + 71,5 kJ → ZnO (s) + CO2 (g)"],
     correctAnswer: 4,
     materia: "Química – Termoquímica",
     conteudo: "",
@@ -858,10 +858,10 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A figura representa uma célula galvânica constituída por um\neletrodo padrão de hidrogênio mergulhado em uma solução\ncom [H+] = 1,0 mol/L e por um eletrodo de ouro mergulhado\nem solução contendo íons $1_{2}_{}$+ e íons $1_{3}_{}$+.\$1_{2}$\nV\nEletrodo\nde Pt\nEletrodo\nde Au\$1_{2}$+\$1_{3}$+\n[H+] = 1,0 mol/L\nFio de cobre\nMembrana porosa\n(https://mycourses.aalto.fi. Adaptado.)\nConsidere os eletrodos de platina e de ouro inertes e os po-\ntenciais de redução das espécies químicas presentes nas\nsoluções:\n2H+ + 2e-  $1_{2}_{}$\nE° = 0,00 V\$1_{3}$+ + e  $1_{2}_{}$+\nE° = +0,77 V\nDurante o funcionamento da célula galvânica representada\nna figura,\n(A) o gás hidrogênio atuará como agente oxidante.\n(B) os elétrons migrarão pelo fio de cobre no sentido do ele-\ntrodo de ouro.\n(C) a ddp da célula será de +1,54 V.\n(D) ocorrerá oxidação no eletrodo de platina.\n(E) ocorrerá aumento da concentração de íons $1_{3}_{}$+.",
+      principal: "A figura representa uma célula galvânica constituída por um\neletrodo padrão de hidrogênio mergulhado em uma solução\ncom [H+] = 1,0 $\\\\frac{mol}{L}$ e por um eletrodo de ouro mergulhado\nem solução contendo íons Fe_{2}+ e íons Fe_{3}+.\nH_{2}\nV\nEletrodo\nde Pt\nEletrodo\nde Au\nFe_{2}+\nFe_{3}+\n[H+] = 1,0 $\\\\frac{mol}{L}$\nFio de cobre\nMembrana porosa\n(https://mycourses.aalto.fi. Adaptado.)\nConsidere os eletrodos de platina e de ouro inertes e os po-\ntenciais de redução das espécies químicas presentes nas\nsoluções:\n2H+ + 2e-  H_{2}\nE° = 0,00 V\nFe_{3}+ + e  Fe_{2}+\nE° = +0,77 V\nDurante o funcionamento da célula galvânica representada\nna figura,\n(A) o gás hidrogênio atuará como agente oxidante.\n(B) os elétrons migrarão pelo fio de cobre no sentido do ele-\ntrodo de ouro.\n(C) a ddp da célula será de +1,54 V.\n(D) ocorrerá oxidação no eletrodo de platina.\n(E) ocorrerá aumento da concentração de íons Fe_{3}+.",
       subItens: []
     },
-    options: ["o gás hidrogênio atuará como agente oxidante.","os elétrons migrarão pelo fio de cobre no sentido do ele-\ntrodo de ouro.","a ddp da célula será de +1,54 V.","ocorrerá oxidação no eletrodo de platina.","ocorrerá aumento da concentração de íons $1_{3}_{}$+."],
+    options: ["o gás hidrogênio atuará como agente oxidante.","os elétrons migrarão pelo fio de cobre no sentido do ele-\ntrodo de ouro.","a ddp da célula será de +1,54 V.","ocorrerá oxidação no eletrodo de platina.","ocorrerá aumento da concentração de íons Fe3+."],
     correctAnswer: 1,
     materia: "Química – Eletroquímica",
     conteudo: "Química – Pilhas",
@@ -888,7 +888,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Um hidrocarboneto insaturado, ao sofrer oxidação com per-\nmanganato de potássio em meio ácido, produziu três com-\npostos diferentes, conforme a equação:\nHidrocarboneto\$1_{4}$/H+\n→ $1_{3}$-COOH + HOOC-$1_{2}$-COOH + $1_{2}$\nA fórmula estrutural desse hidrocarboneto é\n(A)\n(B)\n(C)\n(D)\n(E)",
+      principal: "Um hidrocarboneto insaturado, ao sofrer oxidação com per-\nmanganato de potássio em meio ácido, produziu três com-\npostos diferentes, conforme a equação:\nHidrocarboneto\n$\\\\frac{KMnO_{4}}{H}$+\n→ CH_{3}-COOH + HOOC-CH_{2}-COOH + CO_{2}\nA fórmula estrutural desse hidrocarboneto é\n(A)\n(B)\n(C)\n(D)\n(E)",
       subItens: []
     },
     options: ["","","","",""],
@@ -903,7 +903,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Existem várias versões do Caminho de Santiago, que são tra-\njetos percorridos anualmente por milhares de peregrinos que\nse dirigem à cidade de Santiago de Compostela, na Espanha,\ncom a finalidade de venerar o apóstolo Santiago Maior. Con-\nsidere que uma pessoa percorreu um desses caminhos em\$1_{32}$ dias, andando a distância total de 800 km e caminhando\ncom velocidade média de 3,0 km/h. O tempo que essa pes-\nsoa caminhou por dia, em média, foi de\n(A) 7 horas e 20 minutos.\n(B) 8 horas e 20 minutos.\n(C) 7 horas e 40 minutos.\n(D) 8 horas e 40 minutos.\n(E) 9 horas e 40 minutos.",
+      principal: "Existem várias versões do Caminho de Santiago, que são tra-\njetos percorridos anualmente por milhares de peregrinos que\nse dirigem à cidade de Santiago de Compostela, na Espanha,\ncom a finalidade de venerar o apóstolo Santiago Maior. Con-\nsidere que uma pessoa percorreu um desses caminhos em\n32 dias, andando a distância total de 800 km e caminhando\ncom velocidade média de 3,0 $\\\\frac{km}{h}$. O tempo que essa pes-\nsoa caminhou por dia, em média, foi de\n(A) 7 horas e 20 minutos.\n(B) 8 horas e 20 minutos.\n(C) 7 horas e 40 minutos.\n(D) 8 horas e 40 minutos.\n(E) 9 horas e 40 minutos.",
       subItens: []
     },
     options: ["7 horas e 20 minutos.","8 horas e 20 minutos.","7 horas e 40 minutos.","8 horas e 40 minutos.","9 horas e 40 minutos."],
@@ -918,7 +918,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Em um local em que a aceleração gravitacional vale 10 m/s²,\numa pessoa eleva um objeto de peso 400 N por meio de uma\nroldana fixa, conforme mostra a figura, utilizando uma corda\nque suporta, no máximo, uma tração igual a 520 N.\n(https://brasilescola.uol.com.br.)\nA máxima aceleração que a pessoa pode imprimir ao objeto\ndurante a subida, sem que a corda se rompa, é\n(A) 6,0 m/s².\n(B) 13 m/s².\n(C) 8,0 m/s².\n(D) 2,0 m/s².\n(E) 3,0 m/s².",
+      principal: "Em um local em que a aceleração gravitacional vale 10 $\\\\frac{m}{s}$²,\numa pessoa eleva um objeto de peso 400 N por meio de uma\nroldana fixa, conforme mostra a figura, utilizando uma corda\nque suporta, no máximo, uma tração igual a 520 N.\n(https://brasilescola.uol.com.br.)\nA máxima aceleração que a pessoa pode imprimir ao objeto\ndurante a subida, sem que a corda se rompa, é\n(A) 6,0 $\\\\frac{m}{s}$².\n(B) 13 $\\\\frac{m}{s}$².\n(C) 8,0 $\\\\frac{m}{s}$².\n(D) 2,0 $\\\\frac{m}{s}$².\n(E) 3,0 $\\\\frac{m}{s}$².",
       subItens: []
     },
     options: ["6,0 m/s².","13 m/s².","8,0 m/s².","2,0 m/s².","3,0 m/s²."],
@@ -978,7 +978,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Colocou-se certa massa de água a 80 °C em um recipiente de\nalumínio de massa 420 g que estava à temperatura de 20 °C.\nApós certo tempo, a temperatura do conjunto atingiu o equi-\nlíbrio em 70 °C. Considerando que a troca de calor ocorreu\napenas entre a água e o recipiente, que não houve per-\nda de calor para o ambiente e que os calores específicos\ndo alumínio e da água sejam, respectivamente, iguais a\n$1 \times 10^{2}$ J/(kg °C) e $1 \times 10^{3}$ J/(kg· °C), a quantidade de\nágua colocada no recipiente foi\n(A) 220 g.\n(B) 450 g.\n(C) 330 g.\n(D) 520 g.\n(E) 280 g.",
+      principal: "Colocou-se certa massa de água a 80 °C em um recipiente de\nalumínio de massa 420 g que estava à temperatura de 20 °C.\nApós certo tempo, a temperatura do conjunto atingiu o equi-\nlíbrio em 70 °C. Considerando que a troca de calor ocorreu\napenas entre a água e o recipiente, que não houve per-\nda de calor para o ambiente e que os calores específicos\ndo alumínio e da água sejam, respectivamente, iguais a\n$1 \\\\times 10^{2}$ J/(kg °C) e $1 \\\\times 10^{3}$ J/(kg· °C), a quantidade de\nágua colocada no recipiente foi\n(A) 220 g.\n(B) 450 g.\n(C) 330 g.\n(D) 520 g.\n(E) 280 g.",
       subItens: []
     },
     options: ["220 g.","450 g.","330 g.","520 g.","280 g."],
@@ -1038,7 +1038,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "O gráfico mostra a intensidade da corrente elétrica que per-\ncorre o filamento de uma pequena lâmpada incandescente\nem função da diferença de potencial aplicada entre seus ter-\nminais.\ni (A)\$1_{0}$,5\$1_{0}$,3\$1_{0}$,1+\$1_{0}$\$1_{2}$,0\$1_{4}$,0\$1_{6}$,0 U (V)\nA potência elétrica dissipada pelo filamento dessa lâmpada,\nquando ele é percorrido por uma corrente elétrica de intensi-\ndade 0,4 A, é\n(A) 5,00 W.\n(B) 0,68 W.\n(C) 3,20 W.\n(D) 0,20 W.\n(E) 0,80 W.",
+      principal: "O gráfico mostra a intensidade da corrente elétrica que per-\ncorre o filamento de uma pequena lâmpada incandescente\nem função da diferença de potencial aplicada entre seus ter-\nminais.\ni (A)\n0,5\n0,3\n0,1+\n0\n2,0\n4,0\n6,0 U (V)\nA potência elétrica dissipada pelo filamento dessa lâmpada,\nquando ele é percorrido por uma corrente elétrica de intensi-\ndade 0,4 A, é\n(A) 5,00 W.\n(B) 0,68 W.\n(C) 3,20 W.\n(D) 0,20 W.\n(E) 0,80 W.",
       subItens: []
     },
     options: ["5,00 W.","0,68 W.","3,20 W.","0,20 W.","0,80 W."],
@@ -1068,10 +1068,10 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Dois cubos idênticos, de aresta igual a 1 dm, foram unidos\ncom sobreposição perfeita de duas das suas faces. P é vérti-\nce de um dos cubos, Q é vértice do outro cubo e R é vértice\ncompartilhado por ambos os cubos, conforme indica a figura.\nP\nR\nQ\nA área do triângulo de vértices P, Q e R é igual a\n(A)√6\$1_{2}$\$1_{2}$\ndm²\n(B) √6 dm²\$1_{3}$\n(C) √3\$1_{2}$\$1_{2}$\ndm²\n(D) √6 dm²\$1_{6}$\n(E) 2√3\$1_{3}$\ndm²",
+      principal: "Dois cubos idênticos, de aresta igual a 1 dm, foram unidos\ncom sobreposição perfeita de duas das suas faces. P é vérti-\nce de um dos cubos, Q é vértice do outro cubo e R é vértice\ncompartilhado por ambos os cubos, conforme indica a figura.\nP\nR\nQ\nA área do triângulo de vértices P, Q e R é igual a\n(A)√6\n2\n2\ndm²\n(B) √6 dm²\n3\n(C) √3\n2\n2\ndm²\n(D) √6 dm²\n6\n(E) 2√3\n3\ndm²",
       subItens: []
     },
-    options: ["√6\$1_{2}$\$1_{2}$\ndm²","√6 dm²\$1_{3}$","√3\$1_{2}$\$1_{2}$\ndm²","√6 dm²\$1_{6}$","2√3\$1_{3}$\ndm²"],
+    options: ["√6\n2\n2\ndm²","√6 dm²\n3","√3\n2\n2\ndm²","√6 dm²\n6","2√3\n3\ndm²"],
     correctAnswer: 0,
     materia: "Matemática – Geometria Espacial",
     conteudo: "Matemática – Geometria Analítica",
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Dado um número real x, o símbolo x☐ indica o maior\nnúmero inteiro que\né\nΧ.\nmenor ou igual a\nPor exemplo, = 2, [π = 3 e 5 = 5. Utilizando-se\$1_{11}$\nessa definição, a soma dos termos da sequência\n[-4] + [-3,9] + [-3,8] + [-3,7] + ... + [2]é\nigual a\n(A) -92.\n(B) -34.\n(C) -88.\n(D) -52.\n(E) -90.",
+      principal: "Dado um número real x, o símbolo x☐ indica o maior\nnúmero inteiro que\né\nΧ.\nmenor ou igual a\nPor exemplo, = 2, [π = 3 e 5 = 5. Utilizando-se\n11\nessa definição, a soma dos termos da sequência\n[-4] + [-3,9] + [-3,8] + [-3,7] + ... + [2]é\nigual a\n(A) -92.\n(B) -34.\n(C) -88.\n(D) -52.\n(E) -90.",
       subItens: []
     },
     options: ["-92.","-34.","-88.","-52.","-90."],
@@ -1098,10 +1098,10 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Em um plano cartesiano, dois vértices de um triângulo equi-\nlátero estão sobre a reta de equação y = 2x - 2. O terceiro\nvértice desse triângulo está sobre a reta de equação y = 2x + 2.\nA altura desse triângulo, na mesma unidade de medida dos\neixos cartesianos ortogonais, é igual a\n(A) 4√3\$1_{5}$\n(B) 3√3\$1_{4}$\n(C) 2√5\$1_{5}$\n(D) 4√5\$1_{5}$\n(E) √3\$1_{2}$",
+      principal: "Em um plano cartesiano, dois vértices de um triângulo equi-\nlátero estão sobre a reta de equação y = 2x - 2. O terceiro\nvértice desse triângulo está sobre a reta de equação y = 2x + 2.\nA altura desse triângulo, na mesma unidade de medida dos\neixos cartesianos ortogonais, é igual a\n(A) 4√3\n5\n(B) 3√3\n4\n(C) 2√5\n5\n(D) 4√5\n5\n(E) √3\n2",
       subItens: []
     },
-    options: ["4√3\$1_{5}$","3√3\$1_{4}$","2√5\$1_{5}$","4√5\$1_{5}$","√3\$1_{2}$"],
+    options: ["4√3\n5","3√3\n4","2√5\n5","4√5\n5","√3\n2"],
     correctAnswer: 3,
     materia: "Matemática – Geometria Analítica",
     conteudo: "Matemática – Geometria Plana",
@@ -1113,10 +1113,10 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Admita que cada um dos tons de qualquer uma das três co-\nres primárias seja definido por um número inteiro de 0 a 255.\nSobrepondo-se duas cores primárias diferentes, com seus\nrespectivos tons, o resultado sempre será uma cor inédita.\nSobrepondo-se uma cor primária a ela mesma, o resultado\nserá uma cor inédita apenas quando a sobreposição for entre\ncores primárias iguais mas de tons diferentes. Nessas condi-\nções, o número de cores inéditas que podemos produzir com\na sobreposição de duas cores primárias, sejam elas iguais ou\ndiferentes, é\n(A) $1^{16}$. 3 + $1^{17}$ = 327680\n(B) $1^{15}$. 3 + $1^{17}$ = 229376\n(C) $1^{8}$ ($1^{81}$) 3 + $1^{16}$ . 3 = 392448\n(D) $1^{8}$ ($1^{81}$) 3 + $1^{17}$ = 326912\n(E) $1^{173}$ = 393216",
+      principal: "Admita que cada um dos tons de qualquer uma das três co-\nres primárias seja definido por um número inteiro de 0 a 255.\nSobrepondo-se duas cores primárias diferentes, com seus\nrespectivos tons, o resultado sempre será uma cor inédita.\nSobrepondo-se uma cor primária a ela mesma, o resultado\nserá uma cor inédita apenas quando a sobreposição for entre\ncores primárias iguais mas de tons diferentes. Nessas condi-\nções, o número de cores inéditas que podemos produzir com\na sobreposição de duas cores primárias, sejam elas iguais ou\ndiferentes, é\n(A) 2^{16}$. 3 + 2^{17}$ = 327680\n(B) 2^{15}$. 3 + 2^{17}$ = 229376\n(C) 2^{8}$ (2^{81}$) 3 + 2^{16}$ . 3 = 392448\n(D) 2^{8}$ (2^{81}$) 3 + 2^{17}$ = 326912\n(E) 2^{173}$ = 393216",
       subItens: []
     },
-    options: ["$1^{16}$. 3 + $1^{17}$ = 327680","$1^{15}$. 3 + $1^{17}$ = 229376","$1^{8}$ ($1^{81}$) 3 + $1^{16}$ . 3 = 392448","$1^{8}$ ($1^{81}$) 3 + $1^{17}$ = 326912","$1^{173}$ = 393216"],
+    options: ["2^16. 3 + 2^17 = 327680","2^15. 3 + 2^17 = 229376","2^8 (2^81) 3 + 2^16 . 3 = 392448","2^8 (2^81) 3 + 2^17 = 326912","2^173 = 393216"],
     correctAnswer: 2,
     materia: "Matemática – Análise Combinatória",
     conteudo: "",
@@ -1128,10 +1128,10 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Seja k um número real e y = kx + 14,\ny = x + 28\num sistema de equa-\nções nas incógnitas x e y. Os valores de k para que a solução\ngráfica desse sistema pertença ao interior do terceiro qua-\ndrante do plano cartesiano são dados pelo intervalo\n(A)-1<k<0\n(B) 1\$1_{2}$\n<k<1\n(C)\$1_{1}$\n-1<k<->\$1_{2}$\n(D) k <-\n(E) k <1\$1_{1}$\$1_{2}$",
+      principal: "Seja k um número real e y = kx + 14,\ny = x + 28\num sistema de equa-\nções nas incógnitas x e y. Os valores de k para que a solução\ngráfica desse sistema pertença ao interior do terceiro qua-\ndrante do plano cartesiano são dados pelo intervalo\n(A)-1<k<0\n(B) 1\n2\n<k<1\n(C)\n1\n-1<k<->\n2\n(D) k <-\n(E) k <1\n1\n2",
       subItens: []
     },
-    options: ["-1<k<0","1\$1_{2}$\n<k<1","\$1_{1}$\n-1<k<->","k <-\$1_{1}$\$1_{2}$","k <1"],
+    options: ["-1<k<0","1\n2\n<k<1","\n1\n-1<k<->","k <-\n1\n2","k <1"],
     correctAnswer: 1,
     materia: "Matemática – Geometria Analítica",
     conteudo: "Matemática – Sistemas Lineares",
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "José deseja fazer uma poupança mensal durante 10 anos,\nsempre acrescentando 0,5% a mais em relação ao valor\npoupado no mês anterior. Adotando 1,$1^{120}$ = 1,819 em seu\ncálculo final, se José começar sua poupança depositando\nR$ 100,00 no primeiro mês, ao final do último mês de depósi-\nto ele terá depositado um total de\n(A) R$ 69.600,00.\n(B) R$ 6.645,00.\n(C) R$ 32.760,00.\n(D) R$ 16.380,00.\n(E) R$ 6.500,00.",
+      principal: "José deseja fazer uma poupança mensal durante 10 anos,\nsempre acrescentando 0,5% a mais em relação ao valor\npoupado no mês anterior. Adotando 1,005^{120}$ = 1,819 em seu\ncálculo final, se José começar sua poupança depositando\nR$ 100,00 no primeiro mês, ao final do último mês de depósi-\nto ele terá depositado um total de\n(A) R$ 69.600,00.\n(B) R$ 6.645,00.\n(C) R$ 32.760,00.\n(D) R$ 16.380,00.\n(E) R$ 6.500,00.",
       subItens: []
     },
     options: ["R$ 69.600,00.","R$ 6.645,00.","R$ 32.760,00.","R$ 16.380,00.","R$ 6.500,00."],
@@ -1173,7 +1173,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A figura indica o retângulo FAME e o losango MERP dese-\nnhados, respectivamente, em uma parede e no chão a ela\nperpendicular. O ângulo MÊR mede 120°, ME = 2 m e a área\ndo retângulo FAME é igual a 12 m².\nF\nA\nE\nM\$1_{120}$°\nR\nP\nfora de escala\nNa situação descrita, a medida de RA é\n(A) 3√3 m\n(B) 4√3 m\n(C) 5√2 m\n(D) 3√2 m\n(E) 4√2 m",
+      principal: "A figura indica o retângulo FAME e o losango MERP dese-\nnhados, respectivamente, em uma parede e no chão a ela\nperpendicular. O ângulo MÊR mede 120°, ME = 2 m e a área\ndo retângulo FAME é igual a 12 m².\nF\nA\nE\nM\n120°\nR\nP\nfora de escala\nNa situação descrita, a medida de RA é\n(A) 3√3 m\n(B) 4√3 m\n(C) 5√2 m\n(D) 3√2 m\n(E) 4√2 m",
       subItens: []
     },
     options: ["3√3 m","4√3 m","5√2 m","3√2 m","4√2 m"],
@@ -1188,7 +1188,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A figura indica os gráficos de uma reta r e uma senoide s, de\$1_{5}$\nequações y y=ey=1+ = e 3 sen (2x), em um plano cartesiano\$1_{2}$\nde eixos ortogonais.\ny\nS\nP r\n#\$1_{0}$\nSendo P um ponto de intersecção dos gráficos, conforme\nmostra a figura, sua abscissa, convertida para graus, é igual a\n(A) 275°\n(B) 240°\n(C) 225°\n(D) 210°\n(Ε) 195°",
+      principal: "A figura indica os gráficos de uma reta r e uma senoide s, de\n5\nequações y y=ey=1+ = e 3 sen (2x), em um plano cartesiano\n2\nde eixos ortogonais.\ny\nS\nP r\n#\n0\nSendo P um ponto de intersecção dos gráficos, conforme\nmostra a figura, sua abscissa, convertida para graus, é igual a\n(A) 275°\n(B) 240°\n(C) 225°\n(D) 210°\n(Ε) 195°",
       subItens: []
     },
     options: ["275°","240°","225°","210°","195°"],

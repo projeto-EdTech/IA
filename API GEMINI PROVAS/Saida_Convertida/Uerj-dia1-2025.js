@@ -63,7 +63,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Os aparelhos foram colocados, durante a estação seca, em torno de water holes – pequenos lagos, às vezes temporários, que são a principal fonte de água para a fauna da região em períodos de pouca chuva. (l. 19-21)\nO estudo científico descrito no texto foi realizado em um bioma comumente associado ao continente africano. Suas características ambientais, em especial o clima típico desse bioma, favoreceram a concentração espacial das espécies cujo comportamento foi analisado.\nO climograma anual que representa adequadamente esse bioma é:\n\n(C)\n°C\$1_{25}$\$1_{10}$\$1_{5}$\$1_{0}$-\$1_{20}$\n(A)\n°C\$1_{35}$\$1_{15}$\$1_{30}$\$1_{25}$\nmm\n(B)\n°C\$1_{140}$\$1_{35}$\$1_{120}$\$1_{30}$\$1_{100}$\$1_{25}$\nmm\$1_{210}$\$1_{180}$\$1_{20}$\$1_{80}$\$1_{20}$\$1_{120}$\$1_{10}$\$1_{5}$\$1_{0}$ㅜ\nJan\nFev\nMar\nAbr\nMai\n특\nAgo\nSet\nOut\nNov\nDez\$1_{60}$\$1_{15}$\$1_{40}$\$1_{10}$\$1_{20}$\$1_{5}$\n-0\$1_{0}$-\nmm\n(D)\n°C\$1_{125}$\$1_{35}$\$1_{30}$\$1_{100}$\nJan\nFev\nMar\nAbr\nMai\n특\nAgo\nSet\nOut\nNov\nDez\nmm\$1_{385}$\$1_{25}$\$1_{275}$\$1_{15}$\$1_{75}$\$1_{20}$\$1_{220}$\nJan\nFev\nMar\nAbr\nMai\nJun\nJul\nAgo\nSet\nOut\nNov\nDez\$1_{50}$\$1_{15}$\$1_{10}$\$1_{25}$\$1_{5}$\$1_{0}$\$1_{0}$\nJan\nFev\nMar\nAbr\nMai\nJun\nJul\nAgo\nSet\nOut\nNov\nVestibular Estadual 2025\$1_{1}$º Exame de Qualificação\nDez\$1_{165}$\$1_{110}$\$1_{55}$\$1_{5}$\$1_{330}$\$1_{90}$\$1_{60}$\$1_{30}$\$1_{150}$",
+      principal: "Os aparelhos foram colocados, durante a estação seca, em torno de water holes – pequenos lagos, às vezes temporários, que são a principal fonte de água para a fauna da região em períodos de pouca chuva. (l. 19-21)\nO estudo científico descrito no texto foi realizado em um bioma comumente associado ao continente africano. Suas características ambientais, em especial o clima típico desse bioma, favoreceram a concentração espacial das espécies cujo comportamento foi analisado.\nO climograma anual que representa adequadamente esse bioma é:\n\n(C)\n°C\n25\n10\n5\n0-\n20\n(A)\n°C\n35\n15\n30\n25\nmm\n(B)\n°C\n140\n35\n120\n30\n100\n25\nmm\n210\n180\n20\n80\n20\n120\n10\n5\n0ㅜ\nJan\nFev\nMar\nAbr\nMai\n특\nAgo\nSet\nOut\nNov\nDez\n60\n15\n40\n10\n20\n5\n-0\n0-\nmm\n(D)\n°C\n125\n35\n30\n100\nJan\nFev\nMar\nAbr\nMai\n특\nAgo\nSet\nOut\nNov\nDez\nmm\n385\n25\n275\n15\n75\n20\n220\nJan\nFev\nMar\nAbr\nMai\nJun\nJul\nAgo\nSet\nOut\nNov\nDez\n50\n15\n10\n25\n5\n0\n0\nJan\nFev\nMar\nAbr\nMai\nJun\nJul\nAgo\nSet\nOut\nNov\nVestibular Estadual 2025\n1º Exame de Qualificação\nDez\n165\n110\n55\n5\n330\n90\n60\n30\n150",
       subItens: []
     },
     options: ["(A) [Climograma A]","(B) [Climograma B]","(C) [Climograma C]","(D) [Climograma D]"],
@@ -93,7 +93,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "CONSIDERE AS INFORMAÇÕES DO TRECHO A SEGUIR PARA RESPONDER ÀS QUESTÕES 06 E 07.\nDiante das gravações de conversas entre pessoas, os visitantes dos water holes tinham probabilidade 200% maior de fugir e se escafediam com velocidade 40% maior do que diante de sons de leões. (l. 30-32)\nConsidere uma girafa que, ao ouvir o rugido de um leão, fuja correndo à velocidade média de 54 km/h.\nAo ouvir a voz humana, essa girafa percore 105 m no seguinte intervalo de tempo, em segundos:",
+      principal: "CONSIDERE AS INFORMAÇÕES DO TRECHO A SEGUIR PARA RESPONDER ÀS QUESTÕES 06 E 07.\nDiante das gravações de conversas entre pessoas, os visitantes dos water holes tinham probabilidade 200% maior de fugir e se escafediam com velocidade 40% maior do que diante de sons de leões. (l. 30-32)\nConsidere uma girafa que, ao ouvir o rugido de um leão, fuja correndo à velocidade média de 54 $\\\\frac{km}{h}$.\nAo ouvir a voz humana, essa girafa percore 105 m no seguinte intervalo de tempo, em segundos:",
       subItens: []
     },
     options: ["7","6","5","4"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Carga de 19 mil bois do Brasil infesta o ar de cidade da África do Sul\n\nA passagem de um navio com 19 mil bois exportados vivos do Brasil para o Iraque levou um \"fedor inimaginável” para a Cidade do Cabo, na África do Sul, onde a embarcação fez uma parada de abastecimento. O Conselho Nacional de Sociedades para a Prevenção da Crueldade contra Animais, organização sul-africana de proteção aos animais, encontrou bois doentes e mortos na embarcação, classificando o cenário como “abominável”. Os animais estavam saudáveis antes do embarque.\n\"Cada boi produz em média 30 quilos de esterco por dia, mas, sem ter como descartá-los, os animais têm que conviver com fezes e amônia, uma substância tóxica presente na urina, explica George Sturaro, gerente de investigações da Mercy For Animals, organização internacional de defesa animal. As principais causas de morte ao longo das viagens são infecções respiratórias e estresse térmico. Para Sturaro, as péssimas condições são inerentes a essa modalidade de exportação.\nAdaptado de reporterbrasil.org.br, 21/02/2024.\nO Brasil é um dos principais exportadores de carne bovina, realizando também o comércio de animais vivos para o abate em outros países.\nA reportagem acima, assim como o texto inicial, levanta discussões acerca da relação entre seres humanos e animais em sociedades urbanas na contemporaneidade.\nCom base na reportagem, essa relação tem sido mediada pela seguinte perspectiva econômica:",
+      principal: "Carga de 19 mil bois do Brasil infesta o ar de cidade da África do Sul\n\nA passagem de um navio com 19 mil bois exportados vivos do Brasil para o Iraque levou um \"fedor inimaginável” para a Cidade do Cabo, na África do Sul, onde a embarcação fez uma parada de abastecimento. O Conselho Nacional de Sociedades para a Prevenção da Crueldade contra Animais, organização sul-africana de proteção aos animais, encontrou bois doentes e mortos na embarcação, classificando o cenário como “abominável”. Os animais estavam saudáveis antes do embarque.\n\"Cada boi produz em média 30 quilos de esterco por dia, mas, sem ter como descartá-los, os animais têm que conviver com fezes e amônia, uma substância tóxica presente na urina, explica George Sturaro, gerente de investigações da Mercy For Animals, organização internacional de defesa animal. As principais causas de morte ao longo das viagens são infecções respiratórias e estresse térmico. Para Sturaro, as péssimas condições são inerentes a essa modalidade de exportação.\nAdaptado de reporterbrasil.org.br, $\\\\frac{21}{02}$/2024.\nO Brasil é um dos principais exportadores de carne bovina, realizando também o comércio de animais vivos para o abate em outros países.\nA reportagem acima, assim como o texto inicial, levanta discussões acerca da relação entre seres humanos e animais em sociedades urbanas na contemporaneidade.\nCom base na reportagem, essa relação tem sido mediada pela seguinte perspectiva econômica:",
       subItens: []
     },
     options: ["integração de mercados globais","prevalência de práticas capitalistas","substituição de insumos industriais","racionalização de interesses extrativistas"],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Das dez avaliações aplicadas em um curso, um aluno, por motivos de saúde, faltou à nona e à décima. O professor decidiu então substituir a ausência de cada nota pela moda x das oito primeiras avaliações, conforme registrado a seguir.\nAVALIAÇÕES\nNotas\n1a\$1_{4}$,0\$1_{2}$ª\$1_{5}$,0\$1_{3}$ª\$1_{8}$,0\n4a\$1_{6}$,0\$1_{5}$ª\$1_{6}$,0\$1_{6}$ª\$1_{7}$,0\n7a\$1_{9}$,0\$1_{8}$ª\$1_{6}$,0\n9a\nX\$1_{10}$ª\nX\nA média aritmética final desse aluno foi:\n(A) 5,8\n(B) 6,3\n(C) 6,8\n(D) 7,3",
+      principal: "Das dez avaliações aplicadas em um curso, um aluno, por motivos de saúde, faltou à nona e à décima. O professor decidiu então substituir a ausência de cada nota pela moda x das oito primeiras avaliações, conforme registrado a seguir.\nAVALIAÇÕES\nNotas\n1a\n4,0\n2ª\n5,0\n3ª\n8,0\n4a\n6,0\n5ª\n6,0\n6ª\n7,0\n7a\n9,0\n8ª\n6,0\n9a\nX\n10ª\nX\nA média aritmética final desse aluno foi:\n(A) 5,8\n(B) 6,3\n(C) 6,8\n(D) 7,3",
       subItens: []
     },
     options: ["5,8","6,3","6,8","7,3"],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "A figura a seguir ilustra o deslocamento de uma partícula pelo percurso FGHI, partindo de F, sobre os arcos e sobre a reta, conforme a indicação abaixo.\n\nG\nF\nObserve:\n• CD = re CE = 2r;\nH\n• DCI = 30° e ECF = 60°;\n• as retas DE e HG são perpendiculares no ponto C;\n• os arcos de circunferência DIH e EFG possuem centro C.\nC\nD\nE\nO comprimento total do percurso FGHI, feito pela partícula, é igual a:\$1_{2}$πγ\n(A)\n+ r\$1_{3}$\$1_{2}$πι\n(B)\n+ 2r\$1_{3}$\nπι\n(C)\n+ 2r\$1_{3}$\nπγ\n(D)\n+ r\$1_{3}$",
+      principal: "A figura a seguir ilustra o deslocamento de uma partícula pelo percurso FGHI, partindo de F, sobre os arcos e sobre a reta, conforme a indicação abaixo.\n\nG\nF\nObserve:\n• CD = re CE = 2r;\nH\n• DCI = 30° e ECF = 60°;\n• as retas DE e HG são perpendiculares no ponto C;\n• os arcos de circunferência DIH e EFG possuem centro C.\nC\nD\nE\nO comprimento total do percurso FGHI, feito pela partícula, é igual a:\n2πγ\n(A)\n+ r\n3\n2πι\n(B)\n+ 2r\n3\nπι\n(C)\n+ 2r\n3\nπγ\n(D)\n+ r\n3",
       subItens: []
     },
     options: ["2πγ/3 + r","2πr/3 + 2r","πr/3 + 2r","πr/3 + r"],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "A função quadrática f, definida por f(x) = – (3/2)x² + 6x + 4, sendo x um número real, é representada graficamente pela seguinte parábola:\n\nу\n\nP\nQ\nX\nNa parábola, o ponto P, que representa a interseção com o eixo das ordenadas, e o ponto Q formam o segmento PQ, paralelo ao eixo das abscissas.\nA distância entre os pontos P e Q mede:\n(A) 9/2\n(B) 4\n(C) 7/2\n(D) 3",
+      principal: "A função quadrática f, definida por f(x) = – ($\\\\frac{3}{2}$)x² + 6x + 4, sendo x um número real, é representada graficamente pela seguinte parábola:\n\nу\n\nP\nQ\nX\nNa parábola, o ponto P, que representa a interseção com o eixo das ordenadas, e o ponto Q formam o segmento PQ, paralelo ao eixo das abscissas.\nA distância entre os pontos P e Q mede:\n(A) $\\\\frac{9}{2}$\n(B) 4\n(C) $\\\\frac{7}{2}$\n(D) 3",
       subItens: []
     },
     options: ["9/2","4","7/2","3"],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Para construir um alvo de dardos como o da figura 1, foram traçados dois círculos de centro D, um de raio r e outro de raio 2r, conforme ilustra a figura 2. Duas regiões são observadas no alvo: I, definida pelo círculo menor; II, a da coroa circular.\n\nFigura 1\nFigura 2\n\nD\nregião I\nregião II\nConsidere que um dardo lançado por uma pessoa sempre atinge o alvo em qualquer ponto das regiões I ou II, sendo a probabilidade de acertar cada região diretamente proporcional à sua respectiva área.\nAssim, ao lançar um dardo, a probabilidade de essa pessoa acertar a região II é igual a:\$1_{5}$\n(A)\$1_{6}$\$1_{2}$\n(B)\$1_{3}$\$1_{3}$\n(C)\$1_{4}$\$1_{1}$\n(D)\$1_{2}$",
+      principal: "Para construir um alvo de dardos como o da figura 1, foram traçados dois círculos de centro D, um de raio r e outro de raio 2r, conforme ilustra a figura 2. Duas regiões são observadas no alvo: I, definida pelo círculo menor; II, a da coroa circular.\n\nFigura 1\nFigura 2\n\nD\nregião I\nregião II\nConsidere que um dardo lançado por uma pessoa sempre atinge o alvo em qualquer ponto das regiões I ou II, sendo a probabilidade de acertar cada região diretamente proporcional à sua respectiva área.\nAssim, ao lançar um dardo, a probabilidade de essa pessoa acertar a região II é igual a:\n5\n(A)\n6\n2\n(B)\n3\n3\n(C)\n4\n1\n(D)\n2",
       subItens: []
     },
     options: ["5/6","2/3","3/4","1/2"],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Considere o gráfico abaixo, que representa a variação da corrente elétrica i, em ampères, em função do tempo t, em segundos, observada nos condutores X e Y.\n\ni (A)\n\$1_{12}$\n\ncondutor X\ncondutor Y\$1_{2}$\$1_{5}$\nt (s)\nSabe-se que Qₓ e Qᵧ correspondem aos valores da carga elétrica que passa por uma seção transversal de cada condutor.\nQuando t = 5 s, o módulo da diferença entre Qₓ e Qᵧ, em coulombs, é igual a:",
+      principal: "Considere o gráfico abaixo, que representa a variação da corrente elétrica i, em ampères, em função do tempo t, em segundos, observada nos condutores X e Y.\n\ni (A)\n\n12\n\ncondutor X\ncondutor Y\n2\n5\nt (s)\nSabe-se que Qₓ e Qᵧ correspondem aos valores da carga elétrica que passa por uma seção transversal de cada condutor.\nQuando t = 5 s, o módulo da diferença entre Qₓ e Qᵧ, em coulombs, é igual a:",
       subItens: []
     },
     options: ["22","20","18","16"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Um dos animais de maior massa já identificado no planeta Terra é a baleia azul. Admita que uma baleia dessa espécie tenha massa de 90 toneladas e volume de 86,5 m³.\nA densidade dessa baleia, em g/cm³, é aproximadamente de:",
+      principal: "Um dos animais de maior massa já identificado no planeta Terra é a baleia azul. Admita que uma baleia dessa espécie tenha massa de 90 toneladas e volume de 86,5 m³.\nA densidade dessa baleia, em $\\\\frac{g}{cm}$³, é aproximadamente de:",
       subItens: []
     },
     options: ["1,36","1,04","0,95","0,88"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "A cada batimento, o coração humano bombeia cerca de 85 g de sangue. Admita que a velocidade de saída do sangue bombeado pelo coração seja de 0,4 m/s.\nA quantidade de movimento do sangue, em kg.m/s, produzida pelo coração em um batimento, corresponde aproximadamente a:",
+      principal: "A cada batimento, o coração humano bombeia cerca de 85 g de sangue. Admita que a velocidade de saída do sangue bombeado pelo coração seja de 0,4 $\\\\frac{m}{s}$.\nA quantidade de movimento do sangue, em kg.$\\\\frac{m}{s}$, produzida pelo coração em um batimento, corresponde aproximadamente a:",
       subItens: []
     },
     options: ["0,064","0,048","0,034","0,018"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Em um laboratório, com sistema fechado sob condições isobáricas, realizou-se o estudo da seguinte reação química:\$1_{3}$ O₂ (g) ⇌ 2 O₃ (g)\nAo longo do estudo, foram monitorados cinco parâmetros: volume, massa, pressão, quantidade de átomos e número de moléculas. Observe no gráfico a variação do volume em função do tempo:\n\nvolume\ntempo\nA variação do volume registrada decorre da redução do seguinte parâmetro monitorado:",
+      principal: "Em um laboratório, com sistema fechado sob condições isobáricas, realizou-se o estudo da seguinte reação química:\n3 O₂ (g) ⇌ 2 O₃ (g)\nAo longo do estudo, foram monitorados cinco parâmetros: volume, massa, pressão, quantidade de átomos e número de moléculas. Observe no gráfico a variação do volume em função do tempo:\n\nvolume\ntempo\nA variação do volume registrada decorre da redução do seguinte parâmetro monitorado:",
       subItens: []
     },
     options: ["massa","pressão","quantidade de átomos","número de moléculas"],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Recentemente, a prefeitura de Maceió-AL decretou situação de emergência diante do iminente colapso em uma das minas de sal-gema do município. A exploração dessas minas envolve a escavação de poços até a camada de sal, que pode estar a mais de mil metros de profundidade. Então, injeta-se água para dissolver o sal-gema e formar uma solução saturada, que será trazida, por pressão, até a superfície.\nAdaptado de agenciabrasil.ebc.com.br, 03/12/2023.\nSabe-se que o principal componente do sal-gema é o cloreto de sódio, cuja solubilidade em água é de 36 g de NaCl por 100 g de H₂O, à temperatura de 20 °C.\nA essa mesma temperatura, a quantidade de matéria, em mols, de cloreto de sódio dissolvido em 2000 kg de água, formando uma solução saturada, corresponde aproximadamente a:",
+      principal: "Recentemente, a prefeitura de Maceió-AL decretou situação de emergência diante do iminente colapso em uma das minas de sal-gema do município. A exploração dessas minas envolve a escavação de poços até a camada de sal, que pode estar a mais de mil metros de profundidade. Então, injeta-se água para dissolver o sal-gema e formar uma solução saturada, que será trazida, por pressão, até a superfície.\nAdaptado de agenciabrasil.ebc.com.br, $\\\\frac{03}{12}$/2023.\nSabe-se que o principal componente do sal-gema é o cloreto de sódio, cuja solubilidade em água é de 36 g de NaCl por 100 g de H₂O, à temperatura de 20 °C.\nA essa mesma temperatura, a quantidade de matéria, em mols, de cloreto de sódio dissolvido em 2000 kg de água, formando uma solução saturada, corresponde aproximadamente a:",
       subItens: []
     },
     options: ["12300","24600","36900","61 500"],
@@ -693,7 +693,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "NELSON SARGENTO\nprefeitura.rio\nNelson Sargento – um compositor que pinta\nNelson Sargento (1924-2021), nome artístico de Nelson Mattos, foi compositor, cantor, pesquisador, artista plástico, ator e escritor. Morou no Morro da Mangueira, no Rio de Janeiro, desde os 12 anos. Notabilizou-se como um dos mais importantes sambistas da Estação Primeira de Mangueira, onde integrou e presidiu a Ala de Compositores, além de ter sido presidente de honra da escola. Ao contrário da arte musical que, segundo ele, fez parte de sua infância, a pintura aconteceu mais tarde: \"Comecei a pintar em 1973, utilizando um apanhado de massa plástica (que usava como pintor de parede), em cima de um caixote. Assim nasceu meu primeiro trabalho. Hoje, já tenho cerca de 300 obras espalhadas, principalmente entre meus amigos. Porém, faço questão de afirmar que sou um compositor que pinta, pois o meu reconhecimento como compositor está ajudando na divulgação de minha pintura.\nMARCELO OLIVEIRA\nAdaptado de memoriaverderosa.com.br, 06/04/2023.\nVárias criações artísticas de Nelson Sargento fazem referência a patrimônios históricos da cidade do Rio de Janeiro.\nA pintura de sua autoria, acima reproduzida, enfatiza o seguinte aspecto desses patrimônios:",
+      principal: "NELSON SARGENTO\nprefeitura.rio\nNelson Sargento – um compositor que pinta\nNelson Sargento (1924-2021), nome artístico de Nelson Mattos, foi compositor, cantor, pesquisador, artista plástico, ator e escritor. Morou no Morro da Mangueira, no Rio de Janeiro, desde os 12 anos. Notabilizou-se como um dos mais importantes sambistas da Estação Primeira de Mangueira, onde integrou e presidiu a Ala de Compositores, além de ter sido presidente de honra da escola. Ao contrário da arte musical que, segundo ele, fez parte de sua infância, a pintura aconteceu mais tarde: \"Comecei a pintar em 1973, utilizando um apanhado de massa plástica (que usava como pintor de parede), em cima de um caixote. Assim nasceu meu primeiro trabalho. Hoje, já tenho cerca de 300 obras espalhadas, principalmente entre meus amigos. Porém, faço questão de afirmar que sou um compositor que pinta, pois o meu reconhecimento como compositor está ajudando na divulgação de minha pintura.\nMARCELO OLIVEIRA\nAdaptado de memoriaverderosa.com.br, $\\\\frac{06}{04}$/2023.\nVárias criações artísticas de Nelson Sargento fazem referência a patrimônios históricos da cidade do Rio de Janeiro.\nA pintura de sua autoria, acima reproduzida, enfatiza o seguinte aspecto desses patrimônios:",
       subItens: []
     },
     options: ["caracterização de hierarquias sociais","existência de segregações territoriais","valorização de culturas afro-brasileiras","registro de manifestações tradicionalistas"],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "O documento cartográfico abaixo surgiu e se disseminou na época do III Reich alemão (1933-1945).\nA tradução de seu título é: “A raça nórdica e os germânicos como difusores de cultura”.\n\nDIE NORDISCHE RASSE UND DIE GERMANEN ALS KULTURTRÄGER\nNordamerika\nu. Australien\nヤーローSüdafrika\nu.Südamerika\nSpanische\nSelsachs\nAntr\nFranzös\nGermanische\nREES\nCHE\nbezw.\neutsche\n----\n←--\nRusscher ---- Sibirieート\nAltsla Schek\n-----\nn. China A\nbis na\nSvotischek\nAltas\$1_{0}$\nn. Indien\nersischeк\n←erische K\nAdaptado de reddit.com.\nConsiderando o contexto histórico da época, a disseminação do documento permite identificar o uso da cartografia com a seguinte finalidade principal:",
+      principal: "O documento cartográfico abaixo surgiu e se disseminou na época do III Reich alemão (1933-1945).\nA tradução de seu título é: “A raça nórdica e os germânicos como difusores de cultura”.\n\nDIE NORDISCHE RASSE UND DIE GERMANEN ALS KULTURTRÄGER\nNordamerika\nu. Australien\nヤーローSüdafrika\nu.Südamerika\nSpanische\nSelsachs\nAntr\nFranzös\nGermanische\nREES\nCHE\nbezw.\neutsche\n----\n←--\nRusscher ---- Sibirieート\nAltsla Schek\n-----\nn. China A\nbis na\nSvotischek\nAltas\n0\nn. Indien\nersischeк\n←erische K\nAdaptado de reddit.com.\nConsiderando o contexto histórico da época, a disseminação do documento permite identificar o uso da cartografia com a seguinte finalidade principal:",
       subItens: []
     },
     options: ["assegurar associação política","exercer regulação econômica","estabelecer liderança científica","fomentar propaganda ideológica"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "A verdadeira história de “Peter Chicoteado\"\nO filme Emancipation – uma história de liberdade conta a história real de “Peter Chicoteado” e sua jornada da escravidão ao Exército. Esse escravizado fugitivo posou de forma desafiadora para um retrato em 1863.\nNo auge da Guerra Civil dos Estados Unidos, a fotografia revelou a verdade inegável. Mostrava que “estas eram pessoas reais com experiências reais (...) a história desse homem que entende que a Guerra Civil é uma oportunidade de literalmente tomar posse de seu corpo e de sua vida, diz Barbara Krauthamer, historiadora da escravidão e emancipação dos E.U.A.\nO ator Will Smith, que protagonizou Gordon/\"Peter Chicoteado\", disse a jornalistas no lançamento do filme: \"Este não é outro filme de escravizados. Este é um filme de liberdade. Acho que é uma história que todos nós precisamos ver, ouvir e sentir.”\nCHELSEA BAILEY\nAdaptado de bbc.com, 13/12/2022.\nNos E.U.A., o fim da escravidão ocorreu no contexto da Guerra Civil (1861-1865). O filme Emancipation apresenta uma abordagem diferenciada dessa guerra por trazer como protagonista o homem retratado na fotografia.\nA história de “Peter Chicoteado” revela que a crise da escravidão nos E.U.A. esteve associada, dentre outros fatores, à denúncia da:",
+      principal: "A verdadeira história de “Peter Chicoteado\"\nO filme Emancipation – uma história de liberdade conta a história real de “Peter Chicoteado” e sua jornada da escravidão ao Exército. Esse escravizado fugitivo posou de forma desafiadora para um retrato em 1863.\nNo auge da Guerra Civil dos Estados Unidos, a fotografia revelou a verdade inegável. Mostrava que “estas eram pessoas reais com experiências reais (...) a história desse homem que entende que a Guerra Civil é uma oportunidade de literalmente tomar posse de seu corpo e de sua vida, diz Barbara Krauthamer, historiadora da escravidão e emancipação dos E.U.A.\nO ator Will Smith, que protagonizou Gordon/\"Peter Chicoteado\", disse a jornalistas no lançamento do filme: \"Este não é outro filme de escravizados. Este é um filme de liberdade. Acho que é uma história que todos nós precisamos ver, ouvir e sentir.”\nCHELSEA BAILEY\nAdaptado de bbc.com, $\\\\frac{13}{12}$/2022.\nNos E.U.A., o fim da escravidão ocorreu no contexto da Guerra Civil (1861-1865). O filme Emancipation apresenta uma abordagem diferenciada dessa guerra por trazer como protagonista o homem retratado na fotografia.\nA história de “Peter Chicoteado” revela que a crise da escravidão nos E.U.A. esteve associada, dentre outros fatores, à denúncia da:",
       subItens: []
     },
     options: ["naturalização da violência","precarização da imigração","propagação do republicanismo","desestruturação da agroexportação"],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "(...) Temperatura sufocante. Ο ar está irrespirável. O país está sendo varrido por fortes ventos. Máx.: 38°, em Brasília. Mín.: 5°, nas Laranjeiras.\nJORNAL DO BRASIL\nAN LEIRIE\nOntem foi\ndas Cegos\$1_{12}$\nGoverno baixa Ato Institucional e coloca\nCongresso em recesso por tempo ilimitado\nO Ato Lastigacional nº 5\nArt. 5º - A suspensão dos direitos políticos com base neste Ato importa simultâneamente em:\$1_{1}$°) cessação de privilégio de fôro por prerrogativa de função;\$1_{2}$°) suspensão do direito de votar e ser votado nas eleições sindicais;\$1_{3}$°) proibição de atividades e manifestações sôbre assuntos de natureza política;\$1_{4}$°) aplicação, quando necessária, das seguintes medidas de segurança:\na) liberdade vigiada;\nb) proibição de frequentar determinados lugares;\nc) domicílio determinado.\nO Ato Complementar n. 38\nP\na Garis Ov\nBonifácio declara que Ato\nresulta de várias crises\nARVEL\njb.com.br\nEm 13 de dezembro de 1968, o governo militar brasileiro decretou o Ato Institucional nº 5. A notícia circulou no dia seguinte nos principais meios de comunicação do país.\nNos trechos destacados acima, da primeira página da edição do Jornal do Brasil que noticiou o fato, são identificados os seguintes aspectos daquela conjuntura política:",
+      principal: "(...) Temperatura sufocante. Ο ar está irrespirável. O país está sendo varrido por fortes ventos. Máx.: 38°, em Brasília. Mín.: 5°, nas Laranjeiras.\nJORNAL DO BRASIL\nAN LEIRIE\nOntem foi\ndas Cegos\n12\nGoverno baixa Ato Institucional e coloca\nCongresso em recesso por tempo ilimitado\nO Ato Lastigacional nº 5\nArt. 5º - A suspensão dos direitos políticos com base neste Ato importa simultâneamente em:\n1°) cessação de privilégio de fôro por prerrogativa de função;\n2°) suspensão do direito de votar e ser votado nas eleições sindicais;\n3°) proibição de atividades e manifestações sôbre assuntos de natureza política;\n4°) aplicação, quando necessária, das seguintes medidas de segurança:\na) liberdade vigiada;\nb) proibição de frequentar determinados lugares;\nc) domicílio determinado.\nO Ato Complementar n. 38\nP\na Garis Ov\nBonifácio declara que Ato\nresulta de várias crises\nARVEL\njb.com.br\nEm 13 de dezembro de 1968, o governo militar brasileiro decretou o Ato Institucional nº 5. A notícia circulou no dia seguinte nos principais meios de comunicação do país.\nNos trechos destacados acima, da primeira página da edição do Jornal do Brasil que noticiou o fato, são identificados os seguintes aspectos daquela conjuntura política:",
       subItens: []
     },
     options: ["consolidação da ordem autoritária – ampliação da censura","regulação do equilíbrio democrático – garantia da revolução","manutenção do preceito constitucional – defesa da legislatura","reestruturação da jurisprudência criminal – limitação do estatismo"],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "EXPANSÃO DA AGLOMERAÇÃO URBANA DE BUENOS AIRES\n\$1_{1867}$\$1_{1892}$\n\$1_{1918}$\$1_{1943}$\n\$1_{1964}$\$1_{2000}$\nDisponível em reddit.com.\nNa sequência de imagens, registra-se o seguinte processo socioespacial:",
+      principal: "EXPANSÃO DA AGLOMERAÇÃO URBANA DE BUENOS AIRES\n\n1867\n1892\n\n1918\n1943\n\n1964\n2000\nDisponível em reddit.com.\nNa sequência de imagens, registra-se o seguinte processo socioespacial:",
       subItens: []
     },
     options: ["colonização","verticalização","industrialização","metropolização"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "DISTANCIAMENTO\nSOCIALSEMPRE\nEXISTIU\nBEMVINDOS\nAD BRAZIL\nLAERTE\nLAERTE\nFolha de S. Paulo, 16/11/2023.\nNa charge de Laerte, evidencia-se um ponto de vista acerca do período geológico denominado Antropoceno.\nDe acordo com esse ponto de vista, o período é marcado pelo seguinte fator:",
+      principal: "DISTANCIAMENTO\nSOCIALSEMPRE\nEXISTIU\nBEMVINDOS\nAD BRAZIL\nLAERTE\nLAERTE\nFolha de S. Paulo, $\\\\frac{16}{11}$/2023.\nNa charge de Laerte, evidencia-se um ponto de vista acerca do período geológico denominado Antropoceno.\nDe acordo com esse ponto de vista, o período é marcado pelo seguinte fator:",
       subItens: []
     },
     options: ["progresso da indústria de automóveis","autodestruição da espécie humana","desertificação de recurso natural","equilíbrio de consumo de bens"],
@@ -813,7 +813,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "ANTROPOCENO - TEMPORADA FINAL\n\nLAERTE\nFolha de S. Paulo, 16/11/2023.\nNa charge de Laerte, evidencia-se um ponto de vista acerca do período geológico denominado Antropoceno.\nDe acordo com esse ponto de vista, o período é marcado pelo seguinte fator:",
+      principal: "ANTROPOCENO - TEMPORADA FINAL\n\nLAERTE\nFolha de S. Paulo, $\\\\frac{16}{11}$/2023.\nNa charge de Laerte, evidencia-se um ponto de vista acerca do período geológico denominado Antropoceno.\nDe acordo com esse ponto de vista, o período é marcado pelo seguinte fator:",
       subItens: []
     },
     options: ["progresso da indústria de automóveis","autodestruição da espécie humana","desertificação de recurso natural","equilíbrio de consumo de bens"],
@@ -873,7 +873,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "ΜΑΡΑ 1\nΜΑΡΑ 2\n\nAdaptado de dailyyonder.com.\nmais de 30% ■10-20%\$1_{5}$-10%\nAdaptado de reddit.com.\nNo mapa 1, estão destacadas todas as áreas metropolitanas dos Estados Unidos; já no mapa 2, destacam-se apenas áreas metropolitanas nas quais o transporte público para ir ao trabalho é utilizado por uma parcela superior a 5% da população metropolitana.\nA partir da comparação entre os mapas 1 e 2, ambos de 2021, infere-se que a maioria das áreas metropolitanas do país apresenta a seguinte característica socioespacial:",
+      principal: "ΜΑΡΑ 1\nΜΑΡΑ 2\n\nAdaptado de dailyyonder.com.\nmais de 30% ■10-20%\n5-10%\nAdaptado de reddit.com.\nNo mapa 1, estão destacadas todas as áreas metropolitanas dos Estados Unidos; já no mapa 2, destacam-se apenas áreas metropolitanas nas quais o transporte público para ir ao trabalho é utilizado por uma parcela superior a 5% da população metropolitana.\nA partir da comparação entre os mapas 1 e 2, ambos de 2021, infere-se que a maioria das áreas metropolitanas do país apresenta a seguinte característica socioespacial:",
       subItens: []
     },
     options: ["elevada poluição atmosférica","reduzida movimentação pendular","acentuada verticalização comercial","moderada suburbanização residencial"],
@@ -888,7 +888,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "O noticiário político foi tomado por discussões sobre a taxação dos brasileiros com maior renda no país, os “super-ricos”. A proposta de tributação impactaria 2 500 brasileiros que, juntos, acumulam patrimônio de R$ 756,8 bilhões. No último dia 30 de agosto, o recém-lançado Observatório Brasileiro das Desigualdades trouxe um dado extremamente contrastante: cerca de 7,6 milhões de brasileiros vivem com uma renda domiciliar per capita mensal menor do que R$ 150.\nEm outro dado do Observatório, é possível conferir os abismos, a partir do maior e do menor indicador: uma mulher negra, no estado de Alagoas, está oito vezes mais em situação de insegurança alimentar que um homem branco, em Brasília. Além de serem anticonstitucionais, injustas e potencialmente mortais, as desigualdades encontradas no país colocam em risco a própria democracia.\nMARGARIDA GORECKI\nAdaptado de nexojornal.com.br, 11/09/2023.\nO contexto socioeconômico brasileiro apresentado na notícia é um obstáculo à concretização de um princípio dos sistemas democráticos.\nEsse princípio é denominado:",
+      principal: "O noticiário político foi tomado por discussões sobre a taxação dos brasileiros com maior renda no país, os “super-ricos”. A proposta de tributação impactaria 2 500 brasileiros que, juntos, acumulam patrimônio de R$ 756,8 bilhões. No último dia 30 de agosto, o recém-lançado Observatório Brasileiro das Desigualdades trouxe um dado extremamente contrastante: cerca de 7,6 milhões de brasileiros vivem com uma renda domiciliar per capita mensal menor do que R$ 150.\nEm outro dado do Observatório, é possível conferir os abismos, a partir do maior e do menor indicador: uma mulher negra, no estado de Alagoas, está oito vezes mais em situação de insegurança alimentar que um homem branco, em Brasília. Além de serem anticonstitucionais, injustas e potencialmente mortais, as desigualdades encontradas no país colocam em risco a própria democracia.\nMARGARIDA GORECKI\nAdaptado de nexojornal.com.br, $\\\\frac{11}{09}$/2023.\nO contexto socioeconômico brasileiro apresentado na notícia é um obstáculo à concretização de um princípio dos sistemas democráticos.\nEsse princípio é denominado:",
       subItens: []
     },
     options: ["garantia de elegibilidade","liberdade de expressão","limitação de poderes","isonomia de direitos"],

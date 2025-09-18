@@ -498,7 +498,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Grilagem de terras no Maranhão\n\nUm grupo criminoso é responsável por promover desmatamento para abertura de vias de acesso e compartimentação do terreno em diversas parcelas, que se assemelham a lotes, e, com isso, passar a promover sua ocupação, seja por meio de venda desses lotes a terceiros, seja por incentivo à alteração e supressão dos marcos já existentes, visando a dar aparência de posse regular.\n\n(www.$1_{1}$.com.br, 21.08.2024. Adaptado.)\n\nA grilagem é uma prática histórica no Brasil que consiste na",
+      principal: "Grilagem de terras no Maranhão\n\nUm grupo criminoso é responsável por promover desmatamento para abertura de vias de acesso e compartimentação do terreno em diversas parcelas, que se assemelham a lotes, e, com isso, passar a promover sua ocupação, seja por meio de venda desses lotes a terceiros, seja por incentivo à alteração e supressão dos marcos já existentes, visando a dar aparência de posse regular.\n\n(www.g_{1}.com.br, 21.08.2024. Adaptado.)\n\nA grilagem é uma prática histórica no Brasil que consiste na",
       subItens: []
     },
     options: ["apropriação de terras por meio de documentos falsificados.","regularização fundiária por meio da lei de terras devolutas.","demarcação de terras indígenas por meio da aplicação do Estatuto da Terra.","redistribuição de terras por meio da Reforma Agrária.","invasão de propriedades por meio do princípio da função social da terra."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "O Parlamento da Catalunha elegeu Salvador Illa como novo líder do governo na região. Illa, aliado ao primeiro-ministro espanhol, Pedro Sánchez, foi escolhido depois de obter a maioria dos votos nas eleições regionais de maio.\n\n(www.$1_{360}$.com.br, 08.08.2024. Adaptado.)\n\nUma das implicações da vitória de Salvador Illa é",
+      principal: "O Parlamento da Catalunha elegeu Salvador Illa como novo líder do governo na região. Illa, aliado ao primeiro-ministro espanhol, Pedro Sánchez, foi escolhido depois de obter a maioria dos votos nas eleições regionais de maio.\n\n(www.poder_{360}.com.br, 08.08.2024. Adaptado.)\n\nUma das implicações da vitória de Salvador Illa é",
       subItens: []
     },
     options: ["a retirada da Catalunha da Otan pelo governo espanhol.","o controle político do povo curdo na Catalunha.","a diminuição do poder do movimento separatista da Catalunha.","o fim da guerra civil de caráter religioso na Catalunha.","a inserção da Catalunha na zona do euro da União Europeia."],
@@ -693,7 +693,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "O fentanil é um potente opioide sintético que atua no sistema central humano como anestésico. Uma vez que atinge o cérebro, o fentanil interage com os receptores opioides, facilitando a liberação de dopamina, anulando a dor, gerando sensação de prazer, de calma e a redução da ansiedade. O tronco cerebral, que controla a função respiratória, também possui receptores opioides. E, quando eles são inundados com fentanil, \"você pode parar de respirar, mesmo se estiver consciente\", explica Daniel Sitar, professor da Faculdade de Ciências da Saúde da Universidade de Manitoba, no Canadá.\n\n(https://$1_{1}$.globo.com. Adaptado.)\n\nDe acordo com o excerto, o fentanil atua",
+      principal: "O fentanil é um potente opioide sintético que atua no sistema central humano como anestésico. Uma vez que atinge o cérebro, o fentanil interage com os receptores opioides, facilitando a liberação de dopamina, anulando a dor, gerando sensação de prazer, de calma e a redução da ansiedade. O tronco cerebral, que controla a função respiratória, também possui receptores opioides. E, quando eles são inundados com fentanil, \"você pode parar de respirar, mesmo se estiver consciente\", explica Daniel Sitar, professor da Faculdade de Ciências da Saúde da Universidade de Manitoba, no Canadá.\n\n(https://g_{1}.globo.com. Adaptado.)\n\nDe acordo com o excerto, o fentanil atua",
       subItens: []
     },
     options: ["nas terminações axoniais dos neurônios ao bloquear a liberação de neurotransmissores pela membrana da célula.","no núcleo do neurônio ao inibir a expressão do gene responsável pela síntese de neurotransmissores.","na bainha de mielina dos neurônios ao interromper a condução dos impulsos nervosos pelo bloqueio de receptores nos axônios.","na sinapse neural ao interagir com as proteínas de membrana presentes na superfície externa dos dendritos nos neurônios.","nos axônios dos neurônios ao inibir o transporte de neurotransmissores ao longo dessas estruturas celulares."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Os elementos químicos artificiais são produzidos em instalações de pesquisa, por meio do uso de aceleradores de partículas. Para a obtenção do elemento livermório-290 (²⁹⁰Lv), um feixe acelerado do átomo leve de titânio-50 é lançado sobre um alvo de um átomo pesado. Com a fusão desses dois átomos, forma-se um produto de fusão instável, livermório-294, que emite 4 nêutrons originando o novo elemento, livermório-290. A figura representa esse processo.\n\n(Diagrama da reação de fusão: Feixe de átomos leves (Titânio-50) + Átomo pesado alvo$$ (X) \rightarrow P$$roduto da fusão (Livermório-$$294) \rightarrow E$$missão de 4 nêutrons$$ \rightarrow N$$ovo elemento (Livermório-290). - www.chemistryworld.com. Adaptado.)\n\nO símbolo do elemento utilizado como átomo pesado, alvo nesse processo, e o número de nêutrons do átomo de livermório-290 são, respectivamente,",
+      principal: "Os elementos químicos artificiais são produzidos em instalações de pesquisa, por meio do uso de aceleradores de partículas. Para a obtenção do elemento livermório-290 (²⁹⁰Lv), um feixe acelerado do átomo leve de titânio-50 é lançado sobre um alvo de um átomo pesado. Com a fusão desses dois átomos, forma-se um produto de fusão instável, livermório-294, que emite 4 nêutrons originando o novo elemento, livermório-290. A figura representa esse processo.\n\n(Diagrama da reação de fusão: Feixe de átomos leves (Titânio-50) + Átomo pesado alvo$$(X) \\\\rightarrow P$$roduto da fusão (Livermório-$$294) \\\\rightarrow E$$missão de 4 nêutrons$$ \\\\rightarrow N$$ovo elemento (Livermório-290). - www.chemistryworld.com. Adaptado.)\n\nO símbolo do elemento utilizado como átomo pesado, alvo nesse processo, e o número de nêutrons do átomo de livermório-290 são, respectivamente,",
       subItens: []
     },
     options: ["Pu e 174.","Fm e 178.","Ds e 150.","Pu e 178.","Fm e 174."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Em um experimento de química, dois líquidos, 1 e 2, foram adicionados a um tubo de ensaio, conforme representado na figura.\n\n(Diagrama de um tubo de ensaio com dois líquidos imiscíveis, Líquido 1 acima de Líquido 2, indicando que Líquido 2 é mais denso.)\n\nNa tabela são apresentadas algumas propriedades de substâncias que são líquidas em temperatura ambiente.\n\n(Tabela com Substância, Fórmula Estrutural, Densidade (g/cm³): Metanol (0,79), Água (1,00), Tetracloreto de carbono (1,59), Pentano (0,62).)\n\nOs líquidos 1 e 2 são, respectivamente,",
+      principal: "Em um experimento de química, dois líquidos, 1 e 2, foram adicionados a um tubo de ensaio, conforme representado na figura.\n\n(Diagrama de um tubo de ensaio com dois líquidos imiscíveis, Líquido 1 acima de Líquido 2, indicando que Líquido 2 é mais denso.)\n\nNa tabela são apresentadas algumas propriedades de substâncias que são líquidas em temperatura ambiente.\n\n(Tabela com Substância, Fórmula Estrutural, Densidade ($\\\\frac{g}{cm}$³): Metanol (0,79), Água (1,00), Tetracloreto de carbono (1,59), Pentano (0,62).)\n\nOs líquidos 1 e 2 são, respectivamente,",
       subItens: []
     },
     options: ["metanol e água.","água e tetracloreto de carbono.","metanol e pentano.","água e pentano.","pentano e tetracloreto de carbono."],
@@ -783,10 +783,10 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Em um laboratório químico existem três cilindros de gases com iguais capacidades volumétricas, conforme mostra a figura.\n\n(Figura mostrando três cilindros, identificados como $1_{2}$, $1_{3}_{}$ e $1_{2}_{}$, todos com o mesmo volume.)\n\nNos cilindros, estão contidos, separadamente, os gases $1_{2}$, $1_{3}_{}$ e $1_{2}_{}$ sob a mesma condição de temperatura e pressão. A relação entre as massas dos três gases no interior dos cilindros ($1_{2}$, $1_{3}$ e $1_{2}$) é:",
+      principal: "Em um laboratório químico existem três cilindros de gases com iguais capacidades volumétricas, conforme mostra a figura.\n\n(Figura mostrando três cilindros, identificados como SO_{2}, O_{3} e O_{2}, todos com o mesmo volume.)\n\nNos cilindros, estão contidos, separadamente, os gases SO_{2}, O_{3} e O_{2} sob a mesma condição de temperatura e pressão. A relação entre as massas dos três gases no interior dos cilindros (mSO_{2}, mO_{3} e mO_{2}) é:",
       subItens: []
     },
-    options: ["$1_{2}$ < $1_{3}$ > $1_{2}$","mSO₂ = $1_{3}$ > $1_{2}$","mSO₂ > $1_{3}$ < $1_{2}$","mSO₂ = $1_{3}$ = $1_{2}$","mSO₂ > $1_{3}$ > $1_{2}$"],
+    options: ["mSO2 < mO3 > mO2","mSO₂ = mO3 > mO2","mSO₂ > mO3 < mO2","mSO₂ = mO3 = mO2","mSO₂ > mO3 > mO2"],
     correctAnswer: 4,
     materia: "Química – Gases",
     conteudo: "Química – Estequiometria",
@@ -798,7 +798,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Uma das formas elementares do fósforo é uma molécula de fórmula $1_{4}_{}$ denominada fósforo branco. Sua obtenção é feita pelo aquecimento da mistura de fosfato de cálcio ($1_{3}_{}$($1_{4}$)2) com areia ($1_{2}$) e coque (C) por meio da reação representada na equação química:\$1_{3}$($1_{4}$)2 (s) + $1_{2}$ (s) + zC (s) → $1_{4}_{}$ (g) + 6CaSiO3 (l) + 10CO (g)\n\nA soma dos coeficientes estequiométricos representados por x, y e z na equação da reação para obtenção de 1 mol de $1_{4}_{}$ é igual a",
+      principal: "Uma das formas elementares do fósforo é uma molécula de fórmula P_{4} denominada fósforo branco. Sua obtenção é feita pelo aquecimento da mistura de fosfato de cálcio (Ca_{3}(PO_{4})2) com areia (SiO_{2}) e coque (C) por meio da reação representada na equação química:\nxCa_{3}(PO_{4})2 (s) + ySiO_{2} (s) + zC (s) → P_{4} (g) + 6CaSiO3 (l) + 10CO (g)\n\nA soma dos coeficientes estequiométricos representados por x, y e z na equação da reação para obtenção de 1 mol de P_{4} é igual a",
       subItens: []
     },
     options: ["20.","14.","16.","18.","12."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "As folhas de boldo (Peumus boldus M.) são utilizadas para a preparação de infusões recomendadas para alívio de desconfortos gástricos. O princípio ativo presente nas folhas de boldo é a boldina (C19H21O4N) e, em laboratório químico, essa substância é solubilizada, em temperatura ambiente, no solvente líquido dietilamina.\n\n(Estruturas químicas da boldina e da dietilamina.)\n\nA principal interação intermolecular que se estabelece entre a boldina e a dietilamina na solução é a",
+      principal: "As folhas de boldo (Peumus boldus M.) são utilizadas para a preparação de infusões recomendadas para alívio de desconfortos gástricos. O princípio ativo presente nas folhas de boldo é a boldina (C_{19}H21O4N) e, em laboratório químico, essa substância é solubilizada, em temperatura ambiente, no solvente líquido dietilamina.\n\n(Estruturas químicas da boldina e da dietilamina.)\n\nA principal interação intermolecular que se estabelece entre a boldina e a dietilamina na solução é a",
       subItens: []
     },
     options: ["interação dipolo permanente – dipolo permanente.","interação íon – dipolo permanente.","interação dipolo permanente – dipolo induzido.","ligação de hidrogênio.","ligação iônica."],
@@ -828,7 +828,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Em uma aula de química, 5 grupos de alunos realizaram um experimento que consistiu em reagir 1 g de ferro com 150 mL de solução de ácido clorídrico (HCl). Para o experimento foi empregado aço, que é uma liga do ferro. Essa reação ocorre de acordo com a equação química:\nFe (s) + 2HCl (aq) → $1_{2}$ (aq) + $1_{2}_{}$ (g)\n\nOs materiais disponibilizados para essa reação estão representados no quadro.\n\n(Quadro mostrando Lâminas de aço e Palha de aço como materiais, e Solução de HCl como reagente.)\n\nNa tabela são apresentadas as condições dos experimentos realizados pelos 5 grupos de alunos.\n\n(Tabela com Grupo, Amostra de ferro, Concentração da solução de HCl e Temperatura: Grupo 1 (Lâminas de aço, 6 mol/L, 30 °C), Grupo 2 (Lâminas de aço, 1 mol/L, 50 °C), Grupo 3 (Lâminas de aço, 0,5 mol/L, 40 °C), Grupo 4 (Palha de aço, 6 mol/L, 50 °C), Grupo 5 (Palha de aço, 1 mol/L, 30 °C).)\n\nO grupo cujo experimento se processou com maior rapidez é o de número",
+      principal: "Em uma aula de química, 5 grupos de alunos realizaram um experimento que consistiu em reagir 1 g de ferro com 150 mL de solução de ácido clorídrico (HCl). Para o experimento foi empregado aço, que é uma liga do ferro. Essa reação ocorre de acordo com a equação química:\nFe (s) + 2HCl (aq) → FeCl_{2} (aq) + H_{2} (g)\n\nOs materiais disponibilizados para essa reação estão representados no quadro.\n\n(Quadro mostrando Lâminas de aço e Palha de aço como materiais, e Solução de HCl como reagente.)\n\nNa tabela são apresentadas as condições dos experimentos realizados pelos 5 grupos de alunos.\n\n(Tabela com Grupo, Amostra de ferro, Concentração da solução de HCl e Temperatura: Grupo 1 (Lâminas de aço, 6 $\\\\frac{mol}{L}$, 30 °C), Grupo 2 (Lâminas de aço, 1 $\\\\frac{mol}{L}$, 50 °C), Grupo 3 (Lâminas de aço, 0,5 $\\\\frac{mol}{L}$, 40 °C), Grupo 4 (Palha de aço, 6 $\\\\frac{mol}{L}$, 50 °C), Grupo 5 (Palha de aço, 1 $\\\\frac{mol}{L}$, 30 °C).)\n\nO grupo cujo experimento se processou com maior rapidez é o de número",
       subItens: []
     },
     options: ["4.","1.","2.","3.","5."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Determinado leite em pó, comercializado em embalagens com 200 g de produto, apresenta no rótulo a seguinte informação nutricional:\n\$1_{25}$ g de leite em pó contém 228 mg de cálcio\n\nA quantidade de cálcio contida na massa total do leite em pó da embalagem é, aproximadamente,",
+      principal: "Determinado leite em pó, comercializado em embalagens com 200 g de produto, apresenta no rótulo a seguinte informação nutricional:\n\n25 g de leite em pó contém 228 mg de cálcio\n\nA quantidade de cálcio contida na massa total do leite em pó da embalagem é, aproximadamente,",
       subItens: []
     },
     options: ["2,3 × 10⁻³ mol.","4,6 x 10⁻³ mol.","4,6 × 10⁻² mol.","2,3 x 10⁻² mol.","5,7 x 10⁻³ mol."],
@@ -903,7 +903,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "Uma empresa de transportes mantém uma linha de ônibus que partem de um terminal e percorrem 30 km até retornar ao mesmo terminal, desenvolvendo, nesse percurso, a velocidade média de 20 km/h. Sabendo que o intervalo de tempo entre as saídas consecutivas de dois ônibus dessa linha é de 20 min, o número mínimo de ônibus que a empresa deve manter nessa linha para cumprir esse cronograma é de",
+      principal: "Uma empresa de transportes mantém uma linha de ônibus que partem de um terminal e percorrem 30 km até retornar ao mesmo terminal, desenvolvendo, nesse percurso, a velocidade média de 20 $\\\\frac{km}{h}$. Sabendo que o intervalo de tempo entre as saídas consecutivas de dois ônibus dessa linha é de 20 min, o número mínimo de ônibus que a empresa deve manter nessa linha para cumprir esse cronograma é de",
       subItens: []
     },
     options: ["5.","4.","3.","6.","7."],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "PROVA DE CONHECIMENTOS GERAIS",
     year: 2025,
     text: {
-      principal: "A tabela indica a relação candidato/vaga no processo seletivo de acesso à pós-graduação de quatro cursos de uma universidade:\n\n(Tabela com Curso, Número de vagas e Relação candidato/vaga: Medicina (4 vagas, 32,5 C/V), Engenharia (2 vagas, 31,5 C/V), Enfermagem (1 vaga, 2 C/V), Direito (5 vagas, 7 C/V).)\n\nDo total de candidatos que participaram do processo seletivo nesses quatro cursos, a porcentagem dos que participaram no curso de Engenharia ficou entre",
+      principal: "A tabela indica a relação $\\\\frac{candidato}{vaga}$ no processo seletivo de acesso à pós-graduação de quatro cursos de uma universidade:\n\n(Tabela com Curso, Número de vagas e Relação $\\\\frac{candidato}{vaga}$: Medicina (4 vagas, 32,5 $\\\\frac{C}{V}$), Engenharia (2 vagas, 31,5 $\\\\frac{C}{V}$), Enfermagem (1 vaga, 2 $\\\\frac{C}{V}$), Direito (5 vagas, 7 $\\\\frac{C}{V}$).)\n\nDo total de candidatos que participaram do processo seletivo nesses quatro cursos, a porcentagem dos que participaram no curso de Engenharia ficou entre",
       subItens: []
     },
     options: ["27% e 28%.","31% e 32%.","16% e 17%.","36% e 37%.","43% e 44%."],

@@ -468,7 +468,7 @@ createQuestion({
     university: "Exame de Qualificação",
     year: 2016,
     text: {
-      principal: "Admita a seguinte sequência numérica para o número natural n:\na₁ = 1/3 e an = an-1 + 3\nSendo 2 ≤ n ≤ 10, os dez elementos dessa sequência, em que a₁ = 1/3 e a₁₀ = 82/3, são:\n(1/3, 10/3, 19/3, 28/3, 37/3, a₆, a₇, a₈, a₉, a₁₀)\nA média aritmética dos quatro últimos elementos da sequência é igual a:",
+      principal: "Admita a seguinte sequência numérica para o número natural n:\na₁ = $\\\\frac{1}{3}$ e an = an-1 + 3\nSendo 2 ≤ n ≤ 10, os dez elementos dessa sequência, em que a₁ = $\\\\frac{1}{3}$ e a₁₀ = $\\\\frac{82}{3}$, são:\n($\\\\frac{1}{3}$, $\\\\frac{10}{3}$, $\\\\frac{19}{3}$, $\\\\frac{28}{3}$, $\\\\frac{37}{3}$, a₆, a₇, a₈, a₉, a₁₀)\nA média aritmética dos quatro últimos elementos da sequência é igual a:",
       subItens: []
     },
     options: ["238/12","137/6","219/4","657/9"],
@@ -513,7 +513,7 @@ createQuestion({
     university: "Exame de Qualificação",
     year: 2016,
     text: {
-      principal: "Admita que a ordem de grandeza de uma medida x é uma potência de base 10, com expoente n inteiro, para 10^(n - 1/2) ≤ x < 10^(n + 1/2).\nConsidere que um terremoto tenha liberado uma energia E, em joules, cujo valor numérico é tal que log₁₀ E = 15,3.\nA ordem de grandeza de E, em joules, equivale a:",
+      principal: "Admita que a ordem de grandeza de uma medida x é uma potência de base 10, com expoente n inteiro, para 10^(n - $\\\\frac{1}{2}$) ≤ x < 10^(n + $\\\\frac{1}{2}$).\nConsidere que um terremoto tenha liberado uma energia E, em joules, cujo valor numérico é tal que log₁₀ E = 15,3.\nA ordem de grandeza de E, em joules, equivale a:",
       subItens: []
     },
     options: ["10¹⁴","10¹⁵","10¹⁶","10¹⁷"],
@@ -798,7 +798,7 @@ createQuestion({
     university: "Exame de Qualificação",
     year: 2016,
     text: {
-      principal: "No preparo de pães e bolos, é comum o emprego de fermentos químicos, que agem liberando gás carbônico, responsável pelo crescimento da massa. Um dos principais compostos desses fermentos é o bicarbonato de sódio, que se decompõe sob a ação do calor, de acordo com a seguinte equação química:\$1_{2}$ NaHCO₃(s) → Na₂CO₃(s) + H₂O (g) + CO₂ (g)\nConsidere o preparo de dois bolos com as mesmas quantidades de ingredientes e sob as mesmas condições, diferindo apenas na temperatura do forno: um foi cozido a 160 °C e o outro a 220 °C. Em ambos, todo o fermento foi consumido.\nO gráfico que relaciona a massa de CO₂ formada em função do tempo de cozimento, em cada uma dessas temperaturas de preparo, está apresentado em:\n[Quatro gráficos (A, B, C, D) de massa de CO₂ versus tempo para diferentes temperaturas]",
+      principal: "No preparo de pães e bolos, é comum o emprego de fermentos químicos, que agem liberando gás carbônico, responsável pelo crescimento da massa. Um dos principais compostos desses fermentos é o bicarbonato de sódio, que se decompõe sob a ação do calor, de acordo com a seguinte equação química:\n2 NaHCO₃(s) → Na₂CO₃(s) + H₂O (g) + CO₂ (g)\nConsidere o preparo de dois bolos com as mesmas quantidades de ingredientes e sob as mesmas condições, diferindo apenas na temperatura do forno: um foi cozido a 160 °C e o outro a 220 °C. Em ambos, todo o fermento foi consumido.\nO gráfico que relaciona a massa de CO₂ formada em função do tempo de cozimento, em cada uma dessas temperaturas de preparo, está apresentado em:\n[Quatro gráficos (A, B, C, D) de massa de CO₂ versus tempo para diferentes temperaturas]",
       subItens: []
     },
     options: ["Gráfico A","Gráfico B","Gráfico C","Gráfico D"],
@@ -843,7 +843,7 @@ createQuestion({
     university: "Exame de Qualificação",
     year: 2016,
     text: {
-      principal: "A Lei Federal nº 9.433/1997 estabelece que serão cobrados os usos dos recursos hídricos sujeitos à concessão do Estado. Tal regulamentação modificou substancialmente as bases operacionais e econômicas da utilização da água bruta. Essa cobrança, embora criticada por alguns setores, foi um instrumento benéfico, tanto em termos de conservação dos recursos hídricos, por estimular a gestão da demanda, como em termos de proteção ambiental.\nAté a aprovação dessa lei, as indústrias não pagavam pela captação da água diretamente de um manancial, a chamada água bruta, para utilizá-la em seus processos produtivos.\nO instrumento de cobrança pela água bruta utilizada industrialmente obteve os resultados mencionados no texto porque:",
+      principal: "A Lei Federal nº 9.$\\\\frac{433}{1997}$ estabelece que serão cobrados os usos dos recursos hídricos sujeitos à concessão do Estado. Tal regulamentação modificou substancialmente as bases operacionais e econômicas da utilização da água bruta. Essa cobrança, embora criticada por alguns setores, foi um instrumento benéfico, tanto em termos de conservação dos recursos hídricos, por estimular a gestão da demanda, como em termos de proteção ambiental.\nAté a aprovação dessa lei, as indústrias não pagavam pela captação da água diretamente de um manancial, a chamada água bruta, para utilizá-la em seus processos produtivos.\nO instrumento de cobrança pela água bruta utilizada industrialmente obteve os resultados mencionados no texto porque:",
       subItens: []
     },
     options: ["estimulou o reúso do bem","ampliou a dispersão do consumo","reduziu a desigualdade de acesso","inibiu o assoreamento de nascentes"],

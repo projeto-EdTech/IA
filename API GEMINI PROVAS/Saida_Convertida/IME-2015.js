@@ -18,7 +18,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "Sejam x e y números reais não nulos tais que: log_x y^π + log_y x^e = a, 1/log_x y^{-1} - 1/log_x y^e^{-1} = b. O valor de x^(a+b+2e) / y^(a-b+2π) é:",
+      principal: "Sejam x e y números reais não nulos tais que: log_x y^π + log_y x^e = a, $\\\\frac{1}{log_x}$ y^{-1} - $\\\\frac{1}{log_x}$ y^e^{-1} = b. O valor de x^(a+b+2e) / y^(a-b+2π) é:",
       subItens: []
     },
     options: ["1","√π/e","√a.e/b.π","a-b","(a+b)^e / π"],
@@ -153,7 +153,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "O lugar geométrico no plano complexo de w = z + 1/z, sendo z número complexo tal que |z| = k e k > 1, é um(a):",
+      principal: "O lugar geométrico no plano complexo de w = z + $\\\\frac{1}{z}$, sendo z número complexo tal que |z| = k e k > 1, é um(a):",
       subItens: []
     },
     options: ["segmento de reta","circunferência","hipérbole","elipse","parábola"],
@@ -228,7 +228,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "Uma chapa rígida e homogênea encontra-se em equilíbrio. Com base nas dimensões apresentadas na figura, o valor da razão x/a é",
+      principal: "Uma chapa rígida e homogênea encontra-se em equilíbrio. Com base nas dimensões apresentadas na figura, o valor da razão $\\\\frac{x}{a}$ é",
       subItens: []
     },
     options: ["10,5975","11,5975","12,4025","12,5975","13,5975"],
@@ -258,7 +258,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "A figura acima apresenta um pêndulo simples constituído por um corpo de massa 4 g e carga + 50 μC e um fio inextensível de 1 m. Esse sistema se encontra sob a ação de um campo elétrico E de 128 kN/C, indicado na figura. Considerando que o pêndulo oscile com amplitude pequena e que o campo gravitacional seja desprezível, o período de oscilação, em segundos, é",
+      principal: "A figura acima apresenta um pêndulo simples constituído por um corpo de massa 4 g e carga + 50 μC e um fio inextensível de 1 m. Esse sistema se encontra sob a ação de um campo elétrico E de 128 $\\\\frac{kN}{C}$, indicado na figura. Considerando que o pêndulo oscile com amplitude pequena e que o campo gravitacional seja desprezível, o período de oscilação, em segundos, é",
       subItens: []
     },
     options: ["π/20","π/10","π/5","2π/5","4π/5"],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "A figura acima mostra um conjunto massa-mola conectado a uma roldana por meio de um cabo. Na extremidade do cabo há um recipiente na forma de um tronco de cone de 10 cm x 20 cm x 30 cm de dimensões (diâmetro da base superior x diâmetro da base inferior x altura) e com peso desprezível. O cabo é inextensível e também tem peso desprezível. Não há atrito entre o cabo e a roldana. No estado inicial, o carro encontra-se em uma posição tal que o alongamento na mola é nulo e o cabo não se encontra tracionado. A partir de um instante, o recipiente começa a ser completado lentamente com um fluido com massa específica de 3000 kg/m³. Sabendo que o coeficiente de rigidez da mola é 3300 N/m e a aceleração da gravidade é 10 m/s², o alongamento da mola no instante em que o recipiente se encontrar totalmente cheio, em cm, é igual a",
+      principal: "A figura acima mostra um conjunto massa-mola conectado a uma roldana por meio de um cabo. Na extremidade do cabo há um recipiente na forma de um tronco de cone de 10 cm x 20 cm x 30 cm de dimensões (diâmetro da base superior x diâmetro da base inferior x altura) e com peso desprezível. O cabo é inextensível e também tem peso desprezível. Não há atrito entre o cabo e a roldana. No estado inicial, o carro encontra-se em uma posição tal que o alongamento na mola é nulo e o cabo não se encontra tracionado. A partir de um instante, o recipiente começa a ser completado lentamente com um fluido com massa específica de 3000 $\\\\frac{kg}{m}$³. Sabendo que o coeficiente de rigidez da mola é 3300 $\\\\frac{N}{m}$ e a aceleração da gravidade é 10 $\\\\frac{m}{s}$², o alongamento da mola no instante em que o recipiente se encontrar totalmente cheio, em cm, é igual a",
       subItens: []
     },
     options: ["0,5","1,5","5,0","10,0","15,0"],
@@ -363,7 +363,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "A Figura 1 apresenta um sistema composto por um trilho fixo em U e uma barra móvel que se desloca na vertical com velocidade v suspensa por um balão de massa desprezível. O trilho e a barra são condutores elétricos e permanecem sempre em contato sem atrito. Este conjunto está em uma região sujeita a uma densidade de fluxo magnético B que forma com a horizontal uma ângulo θ, como ilustrado na Figura 2. Diante do exposto, o valor da corrente induzida no sistema, em ampères, no estado estacionário é: Dados: massa da barra: 1 kg; aceleração da gravidade g: 10 m/s²; ângulo θ entre a horizontal e o vetor B: 60°; massa específica do ar: 1,2 kg/m³; volume constante do balão: 0,5 m³; comprimento da barra entre os trilhos: 0,2 m; densidade de fluxo magnético B: 4 T. Observação: despreze a massa do balão com o hélio e o atrito entre a barra e os trilhos.",
+      principal: "A Figura 1 apresenta um sistema composto por um trilho fixo em U e uma barra móvel que se desloca na vertical com velocidade v suspensa por um balão de massa desprezível. O trilho e a barra são condutores elétricos e permanecem sempre em contato sem atrito. Este conjunto está em uma região sujeita a uma densidade de fluxo magnético B que forma com a horizontal uma ângulo θ, como ilustrado na Figura 2. Diante do exposto, o valor da corrente induzida no sistema, em ampères, no estado estacionário é: Dados: massa da barra: 1 kg; aceleração da gravidade g: 10 $\\\\frac{m}{s}$²; ângulo θ entre a horizontal e o vetor B: 60°; massa específica do ar: 1,2 $\\\\frac{kg}{m}$³; volume constante do balão: 0,5 m³; comprimento da barra entre os trilhos: 0,2 m; densidade de fluxo magnético B: 4 T. Observação: despreze a massa do balão com o hélio e o atrito entre a barra e os trilhos.",
       subItens: []
     },
     options: ["5,7","10,0","23,0","30,0","40,0"],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "A figura acima apresenta um circuito elétrico e um sistema de balança. O circuito é composto por uma Fonte em U, cinco resistores, um capacitor, um quadrado formado por um fio homogêneo, duas chaves e um eletroímã interligados por fios de resistência desprezível. O sistema de balança é composto por um bloco e um balde de massa desprezível que está sendo preenchido por água através de um dispositivo. Sabe-se que, imediatamente após o carregamento do capacitor, a chave Cha se abrirá e a chave Chb se fechará, fazendo com que o capacitor alimente o eletroímã, de modo que este acione um dispositivo que interromperá o fluxo de água para o balde. O valor do capacitor para que o sistema balde e bloco fique em equilíbrio e a energia dissipada no fio a partir do momento em que o capacitor esteja completamente carregado até o vigésimo segundo são, respectivamente. Dados: U = 100 V; resistência total do fio: 32 kΩ; fluxo de água: 200 ml/s; massa específica da água = 1 g/cm³; massa do bloco: 0,8 kg. Observações: despreze a massa do balde; considere o capacitor carregado em um tempo correspondente a cinco vezes a constante de tempo.",
+      principal: "A figura acima apresenta um circuito elétrico e um sistema de balança. O circuito é composto por uma Fonte em U, cinco resistores, um capacitor, um quadrado formado por um fio homogêneo, duas chaves e um eletroímã interligados por fios de resistência desprezível. O sistema de balança é composto por um bloco e um balde de massa desprezível que está sendo preenchido por água através de um dispositivo. Sabe-se que, imediatamente após o carregamento do capacitor, a chave Cha se abrirá e a chave Chb se fechará, fazendo com que o capacitor alimente o eletroímã, de modo que este acione um dispositivo que interromperá o fluxo de água para o balde. O valor do capacitor para que o sistema balde e bloco fique em equilíbrio e a energia dissipada no fio a partir do momento em que o capacitor esteja completamente carregado até o vigésimo segundo são, respectivamente. Dados: U = 100 V; resistência total do fio: 32 kΩ; fluxo de água: 200 $\\\\frac{ml}{s}$; massa específica da água = 1 $\\\\frac{g}{cm}$³; massa do bloco: 0,8 kg. Observações: despreze a massa do balde; considere o capacitor carregado em um tempo correspondente a cinco vezes a constante de tempo.",
       subItens: []
     },
     options: ["6 µF e 10 J","8 µF e 10 J","8 µF e 20 J","10 µF e 10 J","10 µF e 20 J"],
@@ -423,10 +423,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "Um volume V₁ de uma solução aquosa de HCl 6 mol/L contém inicialmente uma massa mo de íons Fe+3. São realizadas n extrações utilizando, em cada uma delas, o mesmo volume V₂ de éter etílico, o qual é um solvente seletivo para $1_{3}$. Sabendo que o coeficiente de partição do ferro entre o éter e a solução aquosa de HCl vale K, qual das expressões abaixo é equivalente à massa de íons Fe+3 remanescente na fase aquosa ao final do processo? Suponha que a extração do soluto não altera o volume da solução de HCl.",
+      principal: "Um volume V₁ de uma solução aquosa de HCl 6 $\\\\frac{mol}{L}$ contém inicialmente uma massa mo de íons Fe+3. São realizadas n extrações utilizando, em cada uma delas, o mesmo volume V₂ de éter etílico, o qual é um solvente seletivo para FeCl_{3}. Sabendo que o coeficiente de partição do ferro entre o éter e a solução aquosa de HCl vale K, qual das expressões abaixo é equivalente à massa de íons Fe+3 remanescente na fase aquosa ao final do processo? Suponha que a extração do soluto não altera o volume da solução de HCl.",
       subItens: []
     },
-    options: ["mo * (6KV1 / ($1_{2}_{}$ + $1_{1}$))^n","mo * ($1_{1}_{}$ / ($1_{2}_{}$ + $1_{1}$))^n","mo * (6KV1 / ($1_{2}_{}$ + $1_{1}_{}$))^n","mo * ($1_{1}_{}$ / ($1_{2}_{}$ + 6KV1))^n","mo * ($1_{1}_{}$ / ($1_{1}$ + $1_{2}_{}$))^n"],
+    options: ["mo * (6KV1 / (V2 + KV1))^n","mo * (V1 / (V2 + KV1))^n","mo * (6KV1 / (V2 + V1))^n","mo * (V1 / (V2 + 6KV1))^n","mo * (V1 / (KV1 + V2))^n"],
     correctAnswer: 4,
     materia: "Química – Físico-Química",
     conteudo: "Química – Extração Líquido-Líquido",
@@ -438,7 +438,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "Um pesquisador verificou, em uma determinada posição geográfica, por meio da análise de amostras de água do mar extraídas do local, que a massa específica média da água do mar era 1,05 g/mL, a concentração média de espécies dissolvidas era 0,80 mol/L e a temperatura média era de 290 K. O mesmo pesquisador, com o objetivo de colher água doce em seu estudo, planeja envolver, com uma membrana semipermeável ideal, uma das extremidades abertas de um longo tubo, a qual será imersa na água do mar. A que profundidade mínima, em metros, o tubo deveria ser imerso? Dados: R = 0,08 atm.L/K.mol = 8,3 J/K.mol = 62,3 mmHg.L/K.mol; g = 10,0 m/s².",
+      principal: "Um pesquisador verificou, em uma determinada posição geográfica, por meio da análise de amostras de água do mar extraídas do local, que a massa específica média da água do mar era 1,05 $\\\\frac{g}{mL}$, a concentração média de espécies dissolvidas era 0,80 $\\\\frac{mol}{L}$ e a temperatura média era de 290 K. O mesmo pesquisador, com o objetivo de colher água doce em seu estudo, planeja envolver, com uma membrana semipermeável ideal, uma das extremidades abertas de um longo tubo, a qual será imersa na água do mar. A que profundidade mínima, em metros, o tubo deveria ser imerso? Dados: R = 0,08 atm.$\\\\frac{L}{K}$.mol = 8,3 $\\\\frac{J}{K}$.mol = 62,3 mmHg.$\\\\frac{L}{K}$.mol; g = 10,0 $\\\\frac{m}{s}$².",
       subItens: []
     },
     options: ["1930,0.","183,4.","73,7.","19,4.","9,7."],
@@ -513,10 +513,10 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "Considere as etapas sequenciais de mistura/filtração do processo não contínuo a seguir. No Misturador 1, antes da adição de 100 mL de uma solução aquosa de sulfato de amônio 20 g/L, encontram-se 100 mL de uma solução aquosa composta por massas iguais de nitrato de prata, nitrato cúprico e nitrato de chumbo (II), de concentração total 60 g/L. Ao Misturador 2, que contém o material passante do Filtro 1, adicionam-se 100 mL de uma solução aquosa de carbonato de sódio 40 g/L e uma pequena quantidade de uma solução de hidróxido de sódio objetivando o adequado ajuste do pH de precipitação para, em seguida, proceder a filtração. Sobre os produtos de filtração, pode se dizer que:",
+      principal: "Considere as etapas sequenciais de $\\\\frac{mistura}{filtra}$ção do processo não contínuo a seguir. No Misturador 1, antes da adição de 100 mL de uma solução aquosa de sulfato de amônio 20 $\\\\frac{g}{L}$, encontram-se 100 mL de uma solução aquosa composta por massas iguais de nitrato de prata, nitrato cúprico e nitrato de chumbo (II), de concentração total 60 $\\\\frac{g}{L}$. Ao Misturador 2, que contém o material passante do Filtro 1, adicionam-se 100 mL de uma solução aquosa de carbonato de sódio 40 $\\\\frac{g}{L}$ e uma pequena quantidade de uma solução de hidróxido de sódio objetivando o adequado ajuste do pH de precipitação para, em seguida, proceder a filtração. Sobre os produtos de filtração, pode se dizer que:",
       subItens: []
     },
-    options: ["o precipitado retido no Filtro 2 é uma mistura heterogênea.","o precipitado retido no Filtro 1, conhecido como galena, é um sólido iônico resultante da reação: Pb($1_{3}$)2(aq) + ($1_{4}$)2S(aq) = PbS(s) + 2NH4NO3(aq)","no misturador 2 observam-se os seguintes equilíbrios iônicos: 2Ag+(aq) + $1_{32}$-(aq) = $1_{2}CO_{3}$(s) e 2Cu+(aq) + $1_{32}$-(aq) = $1_{2}CO_{3}$(s)","o chumbo no estado sólido pode ser obtido espontaneamente através do sólido retido no Filtro 1, conforme a reação comum às baterias de chumbo: 2PbSO4(s) + 2H2O(l) = $1_{2}$(s) + Pb(s) + 2SO42-(aq) + 4H+(aq)","o precipitado retido no Filtro 2 é um sólido molecular, metaestável, com baixo ponto de fusão e com excelentes propriedades de condução térmica e elétrica."],
+    options: ["o precipitado retido no Filtro 2 é uma mistura heterogênea.","o precipitado retido no Filtro 1, conhecido como galena, é um sólido iônico resultante da reação: Pb(NO3)2(aq) + (NH4)2S(aq) = PbS(s) + 2NH4NO3(aq)","no misturador 2 observam-se os seguintes equilíbrios iônicos: 2Ag+(aq) + CO32-(aq) = Ag2CO3(s) e 2Cu+(aq) + CO32-(aq) = Cu2CO3(s)","o chumbo no estado sólido pode ser obtido espontaneamente através do sólido retido no Filtro 1, conforme a reação comum às baterias de chumbo: 2PbSO4(s) + 2H2O(l) = PbO2(s) + Pb(s) + 2SO42-(aq) + 4H+(aq)","o precipitado retido no Filtro 2 é um sólido molecular, metaestável, com baixo ponto de fusão e com excelentes propriedades de condução térmica e elétrica."],
     correctAnswer: 0,
     materia: "Química – Química Analítica",
     conteudo: "Química – Reações de Precipitação",
@@ -528,7 +528,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2015,
     text: {
-      principal: "Considere a rota sintética descrita na sequência abaixo onde cada etapa ocorre em temperatura e pressão adequadas: 1ª Etapa: o composto A (C7H6O) sofre oxidação em solução básica de permanganato de potássio. O produto gerado, após neutralizado, é o ácido benzoico; 2ª Etapa: o ácido benzoico reage com etanol em solução ácida, produzindo o composto B e água; 3ª Etapa: o composto B sofre forte redução com hidreto de lítio-alumínio em éter, gerando dois produtos que, depois de neutralizados, formam então o composto C e o etanol. Considerando as etapas supracitadas, são feitas as seguintes afirmações: I) o composto A e o composto C são isômeros. II) o composto B é um éster. III) o composto B é o acetato de benzila. Com base na análise das afirmações acima, assinale a opção correta.",
+      principal: "Considere a rota sintética descrita na sequência abaixo onde cada etapa ocorre em temperatura e pressão adequadas: 1ª Etapa: o composto A (C_{7}H6O) sofre oxidação em solução básica de permanganato de potássio. O produto gerado, após neutralizado, é o ácido benzoico; 2ª Etapa: o ácido benzoico reage com etanol em solução ácida, produzindo o composto B e água; 3ª Etapa: o composto B sofre forte redução com hidreto de lítio-alumínio em éter, gerando dois produtos que, depois de neutralizados, formam então o composto C e o etanol. Considerando as etapas supracitadas, são feitas as seguintes afirmações: I) o composto A e o composto C são isômeros. II) o composto B é um éster. III) o composto B é o acetato de benzila. Com base na análise das afirmações acima, assinale a opção correta.",
       subItens: []
     },
     options: ["Todas as afirmações são falsas.","Apenas as afirmações I e II são verdadeiras.","Existe apenas uma afirmação verdadeira.","Apenas as afirmações II e III são verdadeiras.","Todas as afirmações são verdadeiras."],

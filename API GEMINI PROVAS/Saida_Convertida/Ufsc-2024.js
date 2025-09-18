@@ -321,7 +321,7 @@ createQuestion({
       principal: "Determine a soma dos números associados à(s) proposição(ões) correta(s) e transfira o resultado para o cartão-resposta.",
       subItens: []
     },
-    options: ["Se a função f(x) = ax + b, com a e b reais, satisfaz f(4) = 6 e f(−2) = 3, então a taxa de variação da função é 2.","Se k < 1, então a função quadrática f(x) = (k − 1)x² + (2k + 1)x + k é negativa para todo xER.","Se x, y ∈ R são tais que logx – logy = $1_{3}$ e 9^(x-2y) = 27, então x + y é múltiplo de 6.","Se a função ƒ definida por f(x) = |x + a| + b, com a e b reais, tem gráfico dado como na figura abaixo, então (a+b)/2 é um número irracional.","Se f,g e h são funções reais tais que f(x) = 2x + 7, h(x) = 2x² + 2x − 1 e h(x) = (f°g)(x), então g(2) é um número primo.","Se f: R→ R é definida por f(x) = 3x + 2, então f é bijetora e f-1(11) = 2."],
+    options: ["Se a função f(x) = ax + b, com a e b reais, satisfaz f(4) = 6 e f(−2) = 3, então a taxa de variação da função é 2.","Se k < 1, então a função quadrática f(x) = (k − 1)x² + (2k + 1)x + k é negativa para todo xER.","Se x, y ∈ R são tais que logx – logy = log3 e 9^(x-2y) = 27, então x + y é múltiplo de 6.","Se a função ƒ definida por f(x) = |x + a| + b, com a e b reais, tem gráfico dado como na figura abaixo, então (a+b)/2 é um número irracional.","Se f,g e h são funções reais tais que f(x) = 2x + 7, h(x) = 2x² + 2x − 1 e h(x) = (f°g)(x), então g(2) é um número primo.","Se f: R→ R é definida por f(x) = 3x + 2, então f é bijetora e f-1(11) = 2."],
     correctAnswer: null,
     materia: "Matemática – Funções (Afim, Quadrática, Logarítmica, Modular, Inversa, Composta)",
     conteudo: "Matemática – Equações",
@@ -336,7 +336,7 @@ createQuestion({
       principal: "Determine a soma dos números associados à(s) proposição(ões) correta(s) e transfira o resultado para o cartão-resposta.",
       subItens: []
     },
-    options: ["Se A e B são matrizes quadradas de mesma ordem, então det(A・B) = det(B・A).","Existe k∈ R tal que o sistema linear {x - 2y + z = 1; y - z = 2; x + 2ky + z = 3} é indeterminado.","Se A é uma matriz triangular superior, então A não é triangular inferior.","Existe apenas um xe ER tal que as matrizes A = (3^(x²-121) $1_{5}$ 1) e B = (sqrt(27) 1; 2x-15 0) satisfazem A = B.","A matriz A = (sen(θ) -cos(θ) 0; -cos(θ) sen(θ) 0; 2 3 4) é inversível para qualquer θ∈R.","Se A = (-1/√2 0 1; 0 1/√2 0; 1 0 1/√2), então a inversa de A e a transposta de A são iguais."],
+    options: ["Se A e B são matrizes quadradas de mesma ordem, então det(A・B) = det(B・A).","Existe k∈ R tal que o sistema linear {x - 2y + z = 1; y - z = 2; x + 2ky + z = 3} é indeterminado.","Se A é uma matriz triangular superior, então A não é triangular inferior.","Existe apenas um xe ER tal que as matrizes A = (3^(x²-121) log5 1) e B = (sqrt(27) 1; 2x-15 0) satisfazem A = B.","A matriz A = (sen(θ) -cos(θ) 0; -cos(θ) sen(θ) 0; 2 3 4) é inversível para qualquer θ∈R.","Se A = (-1/√2 0 1; 0 1/√2 0; 1 0 1/√2), então a inversa de A e a transposta de A são iguais."],
     correctAnswer: null,
     materia: "Matemática – Matrizes",
     conteudo: "Matemática – Determinantes",
@@ -498,13 +498,13 @@ createQuestion({
     university: "Vestibular UNIFICADO",
     year: 2024,
     text: {
-      principal: "A proteína $1_{53}$ tem papel central no controle da resposta celular a circunstâncias adversas, como sinais hiperproliferativos e dano ao DNA, podendo levar à parada do ciclo celular ou à apoptose. O gene que codifica essa proteína supressora de tumor é mutado em cerca de 50% dos cânceres humanos. Essa situação é retratada na tirinha ao lado. Sobre os assuntos relacionados à tirinha, é correto afirmar que:",
+      principal: "A proteína p_{53} tem papel central no controle da resposta celular a circunstâncias adversas, como sinais hiperproliferativos e dano ao DNA, podendo levar à parada do ciclo celular ou à apoptose. O gene que codifica essa proteína supressora de tumor é mutado em cerca de 50% dos cânceres humanos. Essa situação é retratada na tirinha ao lado. Sobre os assuntos relacionados à tirinha, é correto afirmar que:",
       subItens: []
     },
-    options: ["a apoptose é o reparo dos danos presentes no DNA, tornando a célula temporariamente inativa.","a possível consequência da “desobediência” da célula com o DNA danificado retratada na tirinha é a origem de um câncer.","a falta da função da proteína $1_{53}$ permite que a célula cancerosa sobreviva e se prolifere mesmo quando seu DNA está danificado.","a proteína $1_{53}$ pode induzir a apoptose em uma célula com danos irreparáveis, tornando-a uma célula cancerígena.","o mecanismo ilustrado no final da tirinha estabelece uma relação alternativa para promover a integridade dos tecidos."],
+    options: ["a apoptose é o reparo dos danos presentes no DNA, tornando a célula temporariamente inativa.","a possível consequência da “desobediência” da célula com o DNA danificado retratada na tirinha é a origem de um câncer.","a falta da função da proteína p53 permite que a célula cancerosa sobreviva e se prolifere mesmo quando seu DNA está danificado.","a proteína p53 pode induzir a apoptose em uma célula com danos irreparáveis, tornando-a uma célula cancerígena.","o mecanismo ilustrado no final da tirinha estabelece uma relação alternativa para promover a integridade dos tecidos."],
     correctAnswer: null,
     materia: "Biologia – Citologia (Ciclo Celular, Apoptose)",
-    conteudo: "Biologia – Oncologia (Câncer, Gene $1_{53}$)",
+    conteudo: "Biologia – Oncologia (Câncer, Gene p53)",
     imageNames: []
   }),
 

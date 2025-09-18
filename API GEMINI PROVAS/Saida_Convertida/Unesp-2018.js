@@ -123,7 +123,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2018,
     text: {
-      principal: "A poesia dos antigos era a da posse, a dos novos é a da saudade (e anseio); aquela se ergue, firme, no chão do presente; esta oscila entre recordação e pressentimen-to. O ideal grego era a concórdia e o equilíbrio perfeitos de todas as forças; a harmonia natural. Os novos, porém, adquiriram a consciência da fragmentação interna que torna impossível este ideal; por isso, a sua poesia aspira a reconciliar os dois mundos em que se sentem divididos, o espiritual e o sensível, fundindo-os de um modo indis-solúvel. Os antigos solucionam a sua tarefa, chegando à perfeição; os novos só pela aproximação podem satisfa-zer o seu anseio do infinito.\n(August Schlegel apud Anatol Rosenfeld. Texto/Contexto I, 1996. Adaptado.)\nOs \"novos” a que se refere o escritor alemão August Sch-legel são os poetas",
+      principal: "A poesia dos antigos era a da posse, a dos novos é a da saudade (e anseio); aquela se ergue, firme, no chão do presente; esta oscila entre recordação e pressentimen-to. O ideal grego era a concórdia e o equilíbrio perfeitos de todas as forças; a harmonia natural. Os novos, porém, adquiriram a consciência da fragmentação interna que torna impossível este ideal; por isso, a sua poesia aspira a reconciliar os dois mundos em que se sentem divididos, o espiritual e o sensível, fundindo-os de um modo indis-solúvel. Os antigos solucionam a sua tarefa, chegando à perfeição; os novos só pela aproximação podem satisfa-zer o seu anseio do infinito.\n(August Schlegel apud Anatol Rosenfeld. $\\\\frac{Texto}{Contexto}$ I, 1996. Adaptado.)\nOs \"novos” a que se refere o escritor alemão August Sch-legel são os poetas",
       subItens: []
     },
     options: ["românticos.","modernistas.","árcades.","clássicos.","naturalistas."],
@@ -1038,7 +1038,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2018,
     text: {
-      principal: "Bicarbonato de sódio sólido aquecido se decompõe, pro-duzindo carbonato de sódio sólido, além de água e dióxi-do de carbono gasosos. O gráfico mostra os resultados de um experimento em que foram determinadas as massas de carbonato de sódio obtidas pela decomposição de di-ferentes massas de bicarbonato de sódio.\n[Gráfico de mNa2CO3/g vs. $1_{3}$/g]\nOs dados do gráfico permitem concluir que as massas de carbonato de sódio e bicarbonato de sódio nessa reação estão relacionadas pela equação mNa2CO3=$1_{3}$, e que o valor aproximado de k é",
+      principal: "Bicarbonato de sódio sólido aquecido se decompõe, pro-duzindo carbonato de sódio sólido, além de água e dióxi-do de carbono gasosos. O gráfico mostra os resultados de um experimento em que foram determinadas as massas de carbonato de sódio obtidas pela decomposição de di-ferentes massas de bicarbonato de sódio.\n[Gráfico de $\\\\frac{mNa2CO3}{g}$ vs. $\\\\frac{MNaHCO_{3}}{g}$]\nOs dados do gráfico permitem concluir que as massas de carbonato de sódio e bicarbonato de sódio nessa reação estão relacionadas pela equação mNa2CO3=kMNaHCO_{3}, e que o valor aproximado de k é",
       subItens: []
     },
     options: ["0,3.","1,0.","0,2.","0,7.","1,2."],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2018,
     text: {
-      principal: "De acordo com o Relatório Anual de 2016 da Qualidade da Água, publicado pela Sabesp, a concentração de cloro na água potável da rede de distribuição deve estar entre 0,2 mg/L, limite mínimo, e 5,0 mg/L, limite máximo. Consi-derando que a densidade da água potável seja igual à da água pura, calcula-se que o valor médio desses limites, expresso em partes por milhão, seja",
+      principal: "De acordo com o Relatório Anual de 2016 da Qualidade da Água, publicado pela Sabesp, a concentração de cloro na água potável da rede de distribuição deve estar entre 0,2 $\\\\frac{mg}{L}$, limite mínimo, e 5,0 $\\\\frac{mg}{L}$, limite máximo. Consi-derando que a densidade da água potável seja igual à da água pura, calcula-se que o valor médio desses limites, expresso em partes por milhão, seja",
       subItens: []
     },
     options: ["5,2 ppm.","18 ppm.","2,6 ppm.","26 ppm.","1,8 ppm."],
@@ -1068,7 +1068,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2018,
     text: {
-      principal: "Sob temperatura constante, acrescentou-se cloreto de só-dio em água até sobrar sal sem se dissolver, como corpo de fundo. Estabeleceu-se assim o seguinte equilíbrio:\nNaCl (s) \le> $1^+$ (aq) + Cl-(aq)\nMantendo a temperatura constante, foi acrescentada mais uma porção de NaCl (s). Com isso, observa-se que a con-dutibilidade elétrica da solução sobrenadante _________, a quantidade de corpo de fundo _________ e a concen-tração de íons em solução _________.\nAs lacunas do texto devem ser preenchidas, respectiva-mente, por:",
+      principal: "Sob temperatura constante, acrescentou-se cloreto de só-dio em água até sobrar sal sem se dissolver, como corpo de fundo. Estabeleceu-se assim o seguinte equilíbrio:\nNaCl (s) $\\\\le$> Na^+$ (aq) + Cl-(aq)\nMantendo a temperatura constante, foi acrescentada mais uma porção de NaCl (s). Com isso, observa-se que a con-dutibilidade elétrica da solução sobrenadante _________, a quantidade de corpo de fundo _________ e a concen-tração de íons em solução _________.\nAs lacunas do texto devem ser preenchidas, respectiva-mente, por:",
       subItens: []
     },
     options: ["não se altera – aumenta – aumenta","não se altera – não se altera – não se altera","não se altera – aumenta – não se altera","aumenta – diminui – aumenta","diminui - aumenta – aumenta"],
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2018,
     text: {
-      principal: "Analise os três diagramas de entalpia.\n[Diagramas de entalpia para $1_{2}H_{2}$(g), C(s) + $1_{2}_{}$(g) e $1_{2}_{}$(g) + ½ $1_{2}_{}$(g)]\nΟ ΔΗ da combustão completa de 1 mol de acetileno, $1_{2}H_{2}$ (g), produzindo $1_{2}$ (g) e $1_{2}O_{}$ (l) é",
+      principal: "Analise os três diagramas de entalpia.\n[Diagramas de entalpia para C_{2}H_{2}(g), C(s) + O_{2}(g) e H_{2}(g) + ½ O_{2}(g)]\nΟ ΔΗ da combustão completa de 1 mol de acetileno, C_{2}H_{2} (g), produzindo CO_{2} (g) e H_{2}O (l) é",
       subItens: []
     },
     options: ["+ 1140 kJ.","+ 820 kJ.","- 1299 kJ.","– 510 kJ.","– 635 kJ."],
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2018,
     text: {
-      principal: "Uma minicama elástica é constituída por uma superfície elástica presa a um aro lateral por 32 molas idênticas, como mostra a figura. Quando uma pessoa salta sobre esta minicama, transfere para ela uma quantidade de energia que é absorvida pela superfície elástica e pelas molas.\n[Imagem de uma pessoa pulando em um trampolim]\nConsidere que, ao saltar sobre uma dessas minicamas, uma pessoa transfira para ela uma quantidade de ener-gia igual a 160 J, que 45% dessa energia seja distribuída igualmente entre as 32 molas e que cada uma delas se distenda 3,0 mm. Nessa situação, a constante elástica de cada mola, em N/m, vale",
+      principal: "Uma minicama elástica é constituída por uma superfície elástica presa a um aro lateral por 32 molas idênticas, como mostra a figura. Quando uma pessoa salta sobre esta minicama, transfere para ela uma quantidade de energia que é absorvida pela superfície elástica e pelas molas.\n[Imagem de uma pessoa pulando em um trampolim]\nConsidere que, ao saltar sobre uma dessas minicamas, uma pessoa transfira para ela uma quantidade de ener-gia igual a 160 J, que 45% dessa energia seja distribuída igualmente entre as 32 molas e que cada uma delas se distenda 3,0 mm. Nessa situação, a constante elástica de cada mola, em $\\\\frac{N}{m}$, vale",
       subItens: []
     },
     options: ["5,0 × 10⁵.","1,6 x 10¹.","3,2 x 10³.","5,0 × 10³.","3,2 × 10º."],
@@ -1203,7 +1203,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2018,
     text: {
-      principal: "Define-se a intensidade de uma onda (I) como potência transmitida por unidade de área disposta perpendicular-mente à direção de propagação da onda. Porém, essa definição não é adequada para medir nossa percepção de sons, pois nosso sistema auditivo não responde de forma linear à intensidade das ondas incidentes, mas de forma logarítmica. Define-se, então, nível sonoro (β) como β = 10 log(I/I₀), sendo β dado em decibels (dB) e I₀ = 10⁻¹² W/m².\nSupondo que uma pessoa, posicionada de forma que a área de 6,0 × 10⁻⁵ m² de um de seus tímpanos esteja perpendicular à direção de propagação da onda, ouça um som contínuo de nível sonoro igual a 60 dB durante 5,0 s, a quantidade de energia que atingiu seu tímpano nesse intervalo de tempo foi",
+      principal: "Define-se a intensidade de uma onda (I) como potência transmitida por unidade de área disposta perpendicular-mente à direção de propagação da onda. Porém, essa definição não é adequada para medir nossa percepção de sons, pois nosso sistema auditivo não responde de forma linear à intensidade das ondas incidentes, mas de forma logarítmica. Define-se, então, nível sonoro (β) como β = 10 log($\\\\frac{I}{I}$₀), sendo β dado em decibels (dB) e I₀ = 10⁻¹² $\\\\frac{W}{m}$².\nSupondo que uma pessoa, posicionada de forma que a área de 6,0 × 10⁻⁵ m² de um de seus tímpanos esteja perpendicular à direção de propagação da onda, ouça um som contínuo de nível sonoro igual a 60 dB durante 5,0 s, a quantidade de energia que atingiu seu tímpano nesse intervalo de tempo foi",
       subItens: []
     },
     options: ["1,8 × 10⁻⁸ J.","3,0 × 10⁻¹² J.","3,0 × 10⁻¹⁰ J.","1,8 × 10⁻¹⁴ J.","6,0 × 10⁻⁹ J."],

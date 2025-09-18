@@ -3,7 +3,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "INCOME TAXES\nE=MC²\nWAS EASIER!\nINCOME\nDAVE GRANLUND www.davegranlund.com\n(Adaptado de http://www.politicalcartoons.com/cartoon/69af1b15-2271-45d4-$1_{10}$-320535f6aa6c.html. Acessado em 15/05/2014.)\nO personagem do cartum",
+      principal: "INCOME TAXES\nE=MC²\nWAS EASIER!\nINCOME\nDAVE GRANLUND www.davegranlund.com\n(Adaptado de http://www.politicalcartoons.$\\\\frac{com}{cartoon}$/69af1b15-2271-45d4-be_{10}-320535f6aa6c.html. Acessado em $\\\\frac{15}{05}$/2014.)\nO personagem do cartum",
       subItens: []
     },
     options: ["considera tão difícil o processo de criação da fórmula E=mc² quanto calcular o imposto de renda.","compara o processo de criação da fórmula E=mc² e o cálculo do imposto de renda.","prefere realizar tarefas que lhe cabem como cidadão às atividades que realiza como físico.","qualifica como mais fácil calcular o imposto de renda do que o processo de criação da fórmula E=mc²."],
@@ -18,7 +18,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "TRIBUNI\nNO E-HARMONY? NO FACEBOOK? HOW DID YOU AND GRANDMA EVER MANAGE TO MEET EACH OTHER?\n(Disponível em: http://issuu.com/$1_{2010}$/docs/backstage_-_carimac_times_2010. Acessado em 28/10/2014.)\nPara o menino do cartum é surpreendente que seus avós",
+      principal: "TRIBUNI\nNO E-HARMONY? NO FACEBOOK? HOW DID YOU AND GRANDMA EVER MANAGE TO MEET EACH OTHER?\n(Disponível em: http://issuu.$\\\\frac{com}{carimactimes_{2010}}$/$\\\\frac{docs}{backstage_}$-_carimac_times_2010. Acessado em $\\\\frac{28}{10}$/2014.)\nPara o menino do cartum é surpreendente que seus avós",
       subItens: []
     },
     options: ["já possuam contas nas redes virtuais de relacionamento.","tenham se conhecido nas redes virtuais de relacionamento.","ainda não consigam gerenciar suas relações sociais nas redes virtuais de relacionamento.","tenham conseguido se conhecer fora das redes virtuais de relacionamento."],
@@ -48,7 +48,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "A imagem abaixo reproduz uma troca de mensagens eletrônicas entre uma mãe e seu filho.\nMessages\nMom\nEdit\nCall\nFaceTime\nContact >\n\"What does IDK, LY &\nTTYL mean?\"\nI don't know, love you,\ntalk to you later.\nOK, I will ask your sister.\n(Disponível em http://www.lifebuzz.com/funny-texts/#!SsbFU. Acessado em 02/02/2014.)\nDepreende-se dessa troca de mensagens que",
+      principal: "A imagem abaixo reproduz uma troca de mensagens eletrônicas entre uma mãe e seu filho.\nMessages\nMom\nEdit\nCall\nFaceTime\nContact >\n\"What does IDK, LY &\nTTYL mean?\"\nI don't know, love you,\ntalk to you later.\nOK, I will ask your sister.\n(Disponível em http://www.lifebuzz.$\\\\frac{com}{funny}$-texts/#!SsbFU. Acessado em $\\\\frac{02}{02}$/2014.)\nDepreende-se dessa troca de mensagens que",
       subItens: []
     },
     options: ["a mãe ficou satisfeita com a resposta dada pelo filho à pergunta que ela lhe fez.","o filho não entendeu a pergunta feita a ele por sua mãe.","a mãe não foi capaz de interpretar adequadamente a resposta do seu filho.","o filho se dispôs a responder à pergunta feita pela mãe mais tarde."],
@@ -63,7 +63,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Tyrannosaurus rex\nTyrannosaurus rex was one of the largest meat-eating dinosaurs that ever lived. Fossil evidence shows that T. rex was about 12 meters long and about 4.6 to 6 meters tall. Its robust thighs and long, powerful tail helped it move quickly.\nT. rex's serrated, conical teeth were used to pierce and grip flesh, which it then ripped away with its strong neck muscles. Its two-fingered forearms could probably seize prey, but they were too short to reach its mouth.\n(Adaptado de http://animals.nationalgeographic.com/animals/prehistoric/tyrannosaurus-rex/. Acessado em 15/06/2014.)\nSegundo o texto,",
+      principal: "Tyrannosaurus rex\nTyrannosaurus rex was one of the largest meat-eating dinosaurs that ever lived. Fossil evidence shows that T. rex was about 12 meters long and about 4.6 to 6 meters tall. Its robust thighs and long, powerful tail helped it move quickly.\nT. rex's serrated, conical teeth were used to pierce and grip flesh, which it then ripped away with its strong neck muscles. Its two-fingered forearms could probably seize prey, but they were too short to reach its mouth.\n(Adaptado de http://animals.nationalgeographic.$\\\\frac{com}{animals}$/$\\\\frac{prehistoric}{tyrannosaurus}$-rex/. Acessado em $\\\\frac{15}{06}$/2014.)\nSegundo o texto,",
       subItens: []
     },
     options: ["fósseis comprovam que um Tyrannosaurus rex podia alcançar doze metros de altura.","apesar de seus braços curtos, um Tyrannosaurus rex era capaz de levar uma presa a sua boca.","os dentes e o pescoço de um Tyrannosaurus rex estavam adaptados a sua dieta.","a cauda vigorosa de um Tyrannosaurus rex impedia-o de se mover mais agilmente."],
@@ -78,7 +78,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Feline Intelligence\nDog and cat lovers seem to relish unending debates over which animal is \"smarter.\" Dog owners often cap their arguments with the fact that dogs have the ability to perform tricks, while cat people counter with the claim that their pets are too intelligent to perform on command. In truth, such methods of pet comparison are useless animal-world versions of mixing apples and oranges. Dogs are motivated by a strong need to follow and please their masters in order to receive praise. The solitary cat answers to no one; nevertheless, if trainability may not be the feline's forte, cleverness and adaptability certainly are.\n(Adaptado de http://www.animalplanet.com/pets/cat-intelligence.htm. Acessado em 14/06/2014.)\nSegundo o texto,",
+      principal: "Feline Intelligence\nDog and cat lovers seem to relish unending debates over which animal is \"smarter.\" Dog owners often cap their arguments with the fact that dogs have the ability to perform tricks, while cat people counter with the claim that their pets are too intelligent to perform on command. In truth, such methods of pet comparison are useless animal-world versions of mixing apples and oranges. Dogs are motivated by a strong need to follow and please their masters in order to receive praise. The solitary cat answers to no one; nevertheless, if trainability may not be the feline's forte, cleverness and adaptability certainly are.\n(Adaptado de http://www.animalplanet.$\\\\frac{com}{pets}$/cat-intelligence.htm. Acessado em $\\\\frac{14}{06}$/2014.)\nSegundo o texto,",
       subItens: []
     },
     options: ["comparar a inteligência de animais tão diferentes como cães e gatos não faz nenhum sentido.","os cachorros são mais inteligentes que os gatos porque conseguem cumprir ordens de seus donos.","donos de gatos reclamam que seus animais de estimação não obedecem às suas ordens.","se cães e gatos forem bem treinados, demonstrarão a mesma inteligência e adaptabilidade."],
@@ -93,7 +93,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "IT'S PRETTY AMAZING THAT OUR SOCIETY HAS REACHED A POINT WHERE THE EFFORT NECESSARY TO\nEXTRACT OIL FROM THE GROUND, SHIP IT TO A REFINERY. TURN IT INTO PLASTIC, SHAPE IT APPROPRIATELY. TRUCK IT TO A STORE. BUY IT, AND BRING IT HOME\nIS CONSIDERED TO BE LESS EFFORT THAN WHAT IT TAKES TO JUST WASH THE SPOON WHEN YOU'RE DONE WITH IT.\n(Disponível em https://www.adbusters.org/content/everything-that's-wrong-our-oil-soaked-industrial-economy. Acessado em 12/06/2014.)\nO cartaz acima critica, de forma irônica,",
+      principal: "IT'S PRETTY AMAZING THAT OUR SOCIETY HAS REACHED A POINT WHERE THE EFFORT NECESSARY TO\nEXTRACT OIL FROM THE GROUND, SHIP IT TO A REFINERY. TURN IT INTO PLASTIC, SHAPE IT APPROPRIATELY. TRUCK IT TO A STORE. BUY IT, AND BRING IT HOME\nIS CONSIDERED TO BE LESS EFFORT THAN WHAT IT TAKES TO JUST WASH THE SPOON WHEN YOU'RE DONE WITH IT.\n(Disponível em https://www.adbusters.$\\\\frac{org}{content}$/everything-that's-wrong-our-oil-soaked-industrial-economy. Acessado em $\\\\frac{12}{06}$/2014.)\nO cartaz acima critica, de forma irônica,",
       subItens: []
     },
     options: ["a utilização excessiva de combustíveis que poluem o meio ambiente.","as objeções dos ecologistas ao uso do plástico nas sociedades contemporâneas.","o gasto de dinheiro público para financiar projetos que poluem o meio ambiente.","o uso irresponsável de materiais descartáveis nas sociedades contemporâneas."],
@@ -108,7 +108,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Earthquakes\nSome 80 percent of all the planet's earthquakes occur along the rim of the Pacific Ocean, called the \"Ring of Fire\" because of the preponderance of volcanic activity there. Most earthquakes occur at fault zones, where tectonic plates – giant rock slabs that make up the Earth's upper layer – collide or slide against each other. These impacts are usually gradual and unnoticeable on the surface; however, immense stress can build up between plates. When this stress is released quickly, it sends massive vibrations, called seismic waves, often hundreds of miles through the rock and up to the surface.\n(Adaptado de http://environment.nationalgeographic.com/environment/natural-disasters/earthquake-profile/. Acessado em 22/06/2014.)\nDe acordo com o texto,",
+      principal: "Earthquakes\nSome 80 percent of all the planet's earthquakes occur along the rim of the Pacific Ocean, called the \"Ring of Fire\" because of the preponderance of volcanic activity there. Most earthquakes occur at fault zones, where tectonic plates – giant rock slabs that make up the Earth's upper layer – collide or slide against each other. These impacts are usually gradual and unnoticeable on the surface; however, immense stress can build up between plates. When this stress is released quickly, it sends massive vibrations, called seismic waves, often hundreds of miles through the rock and up to the surface.\n(Adaptado de http://environment.nationalgeographic.$\\\\frac{com}{environment}$/natural-$\\\\frac{disasters}{earthquake}$-profile/. Acessado em $\\\\frac{22}{06}$/2014.)\nDe acordo com o texto,",
       subItens: []
     },
     options: ["maremotos ocorrem quando a energia acumulada entre placas tectônicas é liberada de modo abrupto, vindo, então, rapidamente à superfície.","terremotos podem ser imperceptíveis na superfície, ainda que tenha havido, de fato, colisão ou deslizamento de placas tectônicas.","maremotos, também denominados ondas sísmicas, ocorrem quando placas tectônicas colidem ou deslizam.","terremotos são mais frequentes na zona costeira do Oceano Pacífico devido à baixa incidência de atividades vulcânicas na região."],
@@ -123,7 +123,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "How Crops Are Genetically Modified\n(1) Traditional Breeding\nCrossing plants and selecting offspring\n(2) Mutagenesis\nExposing crops to chemicals or radiation\n(3) RNA Interference\nSwitching off selected genes with RNA\n(4) Transgenics\nInserting selected genes using recombinant DNA methods\n(Adaptado de http://randomrationality.com/tag/biotech/. Acessado em 16/07/2014.)\nQual das técnicas descritas no infográfico acima foi utilizada por Gregor Mendel (1822-1884) em seus experimentos?",
+      principal: "How Crops Are Genetically Modified\n(1) Traditional Breeding\nCrossing plants and selecting offspring\n(2) Mutagenesis\nExposing crops to chemicals or radiation\n(3) RNA Interference\nSwitching off selected genes with RNA\n(4) Transgenics\nInserting selected genes using recombinant DNA methods\n(Adaptado de http://randomrationality.$\\\\frac{com}{tag}$/biotech/. Acessado em $\\\\frac{16}{07}$/2014.)\nQual das técnicas descritas no infográfico acima foi utilizada por Gregor Mendel (1822-1884) em seus experimentos?",
       subItens: []
     },
     options: ["(1).","(2).","(3).","(4)."],
@@ -138,7 +138,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Texto para as questões 10 e 11.\nSeca faz cidades do interior de SP decretarem emergência.\nA falta de água enfrentada pelo Sudeste do país tem feito cada vez mais cidades de São Paulo e de Minas Gerais adotarem o racionamento, para reduzir o consumo de água, ou decretarem estado de emergência. Além do desabastecimento, a seca tem prejudicado também setores como a agricultura, a indústria, a saúde e o turismo dessas cidades.\n(Adaptado de http://noticias.uol.com.br/ultimas-noticias/agencia-estado/2014/07/07/seca-faz-cidades-do-interior-decretarem-emergencia.htm. Acessado em 16/07/2014.)\nA situação de seca citada na reportagem é determinada por mudanças no ciclo hidrológico, em que as plantas têm papel determinante, uma vez que representam uma fonte de vapor d'água para a atmosfera. Os vasos que conduzem a água das raízes até as folhas são os",
+      principal: "Texto para as questões 10 e 11.\nSeca faz cidades do interior de SP decretarem emergência.\nA falta de água enfrentada pelo Sudeste do país tem feito cada vez mais cidades de São Paulo e de Minas Gerais adotarem o racionamento, para reduzir o consumo de água, ou decretarem estado de emergência. Além do desabastecimento, a seca tem prejudicado também setores como a agricultura, a indústria, a saúde e o turismo dessas cidades.\n(Adaptado de http://noticias.uol.com.$\\\\frac{br}{ultimas}$-$\\\\frac{noticias}{agencia}$-$\\\\frac{estado}{2014}$/$\\\\frac{07}{07}$/seca-faz-cidades-do-interior-decretarem-emergencia.htm. Acessado em $\\\\frac{16}{07}$/2014.)\nA situação de seca citada na reportagem é determinada por mudanças no ciclo hidrológico, em que as plantas têm papel determinante, uma vez que representam uma fonte de vapor d'água para a atmosfera. Os vasos que conduzem a água das raízes até as folhas são os",
       subItens: []
     },
     options: ["floemáticos e a transpiração ocorre pelos estômatos.","floemáticos e a transpiração ocorre pelos tricomas.","xilemáticos e a transpiração ocorre pelos tricomas.","xilemáticos e a transpiração ocorre pelos estômatos."],
@@ -393,7 +393,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "O relato a seguir é parte da biografia de um homem que passou sua infância no atual Mali.\nEm novembro de 1918, a África, como a metrópole, festejou o fim da Grande Guerra Mundial e a vitória da França e seus aliados (...). Estávamos orgulhosos do papel desempenhado pelos soldados africanos na frente de batalha. (...) Os sobreviventes que voltaram em 1918-1919 foram a causa de um novo fenômeno social que influiu na evolução da mentalidade nativa. Estou falando do fim do mito do homem branco como ser invencível e sem defeitos.\n(Amadou Hampâté Bâ, Amkoullel, o menino fula. São Paulo: Palas Athena/Casa das Áfricas, 2003, p. 312-313.)\nConsiderando o relato acima, é correto afirmar que",
+      principal: "O relato a seguir é parte da biografia de um homem que passou sua infância no atual Mali.\nEm novembro de 1918, a África, como a metrópole, festejou o fim da Grande Guerra Mundial e a vitória da França e seus aliados (...). Estávamos orgulhosos do papel desempenhado pelos soldados africanos na frente de batalha. (...) Os sobreviventes que voltaram em 1918-1919 foram a causa de um novo fenômeno social que influiu na evolução da mentalidade nativa. Estou falando do fim do mito do homem branco como ser invencível e sem defeitos.\n(Amadou Hampâté Bâ, Amkoullel, o menino fula. São Paulo: Palas $\\\\frac{Athena}{Casa}$ das Áfricas, 2003, p. 312-313.)\nConsiderando o relato acima, é correto afirmar que",
       subItens: []
     },
     options: ["a presença dos soldados africanos contribuiu para construir uma identidade africana sustentada nos princípios bélicos do imperialismo europeu.","a presença de soldados africanos nos conflitos contribuiu para o questionamento do mito da superioridade do homem branco.","o autor, ao apresentar a fragilidade do homem branco, instaurou um discurso inverso de superioridade dos africanos.","o autor, ao apresentar o norte da África como parte da França, exaltou o projeto imperialista francês e suas estratégias de integração cultural."],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Texto para as questões 31, 32 e 33.\nRecentemente, uma equipe de astrônomos afirmou ter identificado uma estrela com dimensões comparáveis às da Terra, composta predominantemente de diamante. Por ser muito frio, o astro, possivelmente uma estrela anã branca, teria tido o carbono de sua composição cristalizado em forma de um diamante praticamente do tamanho da Terra.\nOs astrônomos estimam que a estrela estaria situada a uma distância d = $1 \times 10^{18}$ m da Terra. Considerando um foguete que se desloca a uma velocidade v = $1 \times 10^{4}$ m/s, o tempo de viagem do foguete da Terra até essa estrela seria de\n(1 ano ≈ $1 \times 10^{7}$ s)",
+      principal: "Texto para as questões 31, 32 e 33.\nRecentemente, uma equipe de astrônomos afirmou ter identificado uma estrela com dimensões comparáveis às da Terra, composta predominantemente de diamante. Por ser muito frio, o astro, possivelmente uma estrela anã branca, teria tido o carbono de sua composição cristalizado em forma de um diamante praticamente do tamanho da Terra.\nOs astrônomos estimam que a estrela estaria situada a uma distância d = $1 \\\\times 10^{18}$ m da Terra. Considerando um foguete que se desloca a uma velocidade v = $1 \\\\times 10^{4}$ $\\\\frac{m}{s}$, o tempo de viagem do foguete da Terra até essa estrela seria de\n(1 ano ≈ $1 \\\\times 10^{7}$ s)",
       subItens: []
     },
     options: ["2.000 anos.","300.000 anos.","6.000.000 anos.","20.000.000 anos."],
@@ -483,10 +483,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Os cálculos dos pesquisadores sugerem que a temperatura média dessa estrela é de T₁ = 2.700 °C. Considere uma estrela como um corpo homogêneo de massa M = $1 \times 10^{24}$ kg constituída de um material com calor específico c = 0,5 kJ/(kg °C). A quantidade de calor que deve ser perdida pela estrela para que ela atinja uma temperatura final de T₁ = 700 °C é igual a",
+      principal: "Os cálculos dos pesquisadores sugerem que a temperatura média dessa estrela é de T₁ = 2.700 °C. Considere uma estrela como um corpo homogêneo de massa M = $1 \\\\times 10^{24}$ kg constituída de um material com calor específico c = 0,5 kJ/(kg °C). A quantidade de calor que deve ser perdida pela estrela para que ela atinja uma temperatura final de T₁ = 700 °C é igual a",
       subItens: []
     },
-    options: ["$1 \times 10^{27}$ kJ.","$1 \times 10^{27}$ kJ.","$1 \times 10^{27}$ kJ.","$1 \times 10^{27}$ kJ."],
+    options: ["24,0 x 10^27 kJ.","6,0 x 10^27 kJ.","8,1 x 10^27 kJ.","2,1 x 10^27 kJ."],
     correctAnswer: 2,
     materia: "Física – Calorimetria",
     conteudo: "",
@@ -501,7 +501,7 @@ createQuestion({
       principal: "Considere um computador que armazena informações em um disco rígido que gira a uma frequência de 120 Hz. Cada unidade de informação ocupa um comprimento físico de 0,2 µm na direção do movimento de rotação do disco. Quantas informações magnéticas passam, por segundo, pela cabeça de leitura, se ela estiver posicionada a 3 cm do centro de seu eixo, como mostra o esquema simplificado apresentado abaixo?\n(Considere ㅠ ≈ 3.)",
       subItens: []
     },
-    options: ["$1 \times 10^{8}$.","$1 \times 10^{6}$.","$1 \times 10^{8}$.","$1 \times 10^{8}$."],
+    options: ["1,62 x 10^8.","1,8 x 10^6.","64,8 x 10^8.","1,08 x 10^8."],
     correctAnswer: 2,
     materia: "Física – Movimento Circular",
     conteudo: "",
@@ -528,10 +528,10 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Qual o trabalho executado pela força de atrito entre o pneu e o solo para parar um carro de massa m = 1.000 kg, inicialmente a v = 72 km/h, sabendo que os pneus travam no instante da frenagem, deixando de girar, e o carro desliza durante todo o tempo de frenagem?",
+      principal: "Qual o trabalho executado pela força de atrito entre o pneu e o solo para parar um carro de massa m = 1.000 kg, inicialmente a v = 72 $\\\\frac{km}{h}$, sabendo que os pneus travam no instante da frenagem, deixando de girar, e o carro desliza durante todo o tempo de frenagem?",
       subItens: []
     },
-    options: ["$1 \times 10^{4}$ J.","$1 \times 10^{5}$ J.","$1 \times 10^{5}$ J.","$1 \times 10^{6}$ J."],
+    options: ["3,6 x 10^4 J.","2,0 x 10^5 J.","4,0 x 10^5 J.","2,6 x 10^6 J."],
     correctAnswer: 3,
     materia: "Física – Trabalho e Energia",
     conteudo: "",
@@ -648,7 +648,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "A gestão pública e empresarial mantém relações complexas, hierárquicas, de controle entre centros urbanos, propagando decisões, definindo relações e destinando investimentos.\n(Adaptado de Regiões de Influência das cidades 2007. IBGE. Disponível em www.mma.gov.br/estrutura/PZEE_/arquivos/regra_28.pdf.)\nSegundo o IBGE, os três principais centros de gestão empresarial que exercem acentuado comando sobre o conjunto do território brasileiro são, em ordem de importância,",
+      principal: "A gestão pública e empresarial mantém relações complexas, hierárquicas, de controle entre centros urbanos, propagando decisões, definindo relações e destinando investimentos.\n(Adaptado de Regiões de Influência das cidades 2007. IBGE. Disponível em www.mma.gov.$\\\\frac{br}{estrutura}$/$\\\\frac{PZEE_}{arquivos}$/regra_28.pdf.)\nSegundo o IBGE, os três principais centros de gestão empresarial que exercem acentuado comando sobre o conjunto do território brasileiro são, em ordem de importância,",
       subItens: []
     },
     options: ["Brasília, São Paulo, Rio de Janeiro.","Rio de Janeiro, São Paulo, Brasília.","São Paulo, Rio de Janeiro, Brasília.","Brasília, Rio de Janeiro, São Paulo."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Paisagem de uma metrópole brasileira\n(Fonte: Tuca Vieira. Disponível em www.tucavieira.com.br. Acessado em 10/06/2014.)\nConsiderando a imagem, assinale a alternativa correta.",
+      principal: "Paisagem de uma metrópole brasileira\n(Fonte: Tuca Vieira. Disponível em www.tucavieira.com.br. Acessado em $\\\\frac{10}{06}$/2014.)\nConsiderando a imagem, assinale a alternativa correta.",
       subItens: []
     },
     options: ["A organização do espaço geográfico nas metrópoles brasileiras caracteriza-se, na atualidade, pela tendência à homogeneização das formas de habitar, em função da existência de políticas urbanas e sociais exitosas.","Os moradores do condomínio fechado e os moradores da favela compartilham áreas comuns de lazer, fato que expressa o enfraquecimento dos conflitos entre as diferentes classes sociais na metrópole.","A concentração da riqueza permite a uma pequena parcela da sociedade viver em condomínios fechados de alto padrão, que, fortificados por aparatos de segurança, aprofundam a fragmentação do espaço urbano.","A favela é um espaço monofuncional, exclusivamente residencial, desprovido de serviços urbanos básicos como energia elétrica, água, saneamento, limpeza e, portanto, equilibradamente coeso à malha urbana."],
@@ -888,7 +888,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Um artigo científico recente relata um processo de produção de gás hidrogênio e dióxido de carbono a partir de metanol e água. Uma vantagem dessa descoberta é que o hidrogênio poderia assim ser gerado em um carro e ali consumido na queima com oxigênio. Dois possíveis processos de uso do metanol como combustível num carro – combustão direta ou geração e queima do hidrogênio – podem ser equacionados conforme o esquema abaixo:\nCH₃OH(g)+ 3/2 O₂(g) → CO₂(g) + 2 H₂O(g) combustão direta\nCH₃OH(g)+H₂O(g) →CO₂(g) + 3H₂(g)\nH₂(g)+ 1/2 O₂(g) → H₂O(g)\ngeração e queima de hidrogênio\nDe acordo com essas equações, o processo de geração e queima de hidrogênio apresentaria uma variação de energia",
+      principal: "Um artigo científico recente relata um processo de produção de gás hidrogênio e dióxido de carbono a partir de metanol e água. Uma vantagem dessa descoberta é que o hidrogênio poderia assim ser gerado em um carro e ali consumido na queima com oxigênio. Dois possíveis processos de uso do metanol como combustível num carro – combustão direta ou geração e queima do hidrogênio – podem ser equacionados conforme o esquema abaixo:\nCH₃OH(g)+ $\\\\frac{3}{2}$ O₂(g) → CO₂(g) + 2 H₂O(g) combustão direta\nCH₃OH(g)+H₂O(g) →CO₂(g) + 3H₂(g)\nH₂(g)+ $\\\\frac{1}{2}$ O₂(g) → H₂O(g)\ngeração e queima de hidrogênio\nDe acordo com essas equações, o processo de geração e queima de hidrogênio apresentaria uma variação de energia",
       subItens: []
     },
     options: ["diferente do que ocorre na combustão direta do metanol, já que as equações globais desses dois processos são diferentes.","igual à da combustão direta do metanol, apesar de as equações químicas globais desses dois processos serem diferentes.","diferente do que ocorre na combustão direta do metanol, mesmo considerando que as equações químicas globais desses dois processos sejam iguais.","igual à da combustão direta do metanol, já que as equações químicas globais desses dois processos são iguais."],
@@ -963,7 +963,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "O cartaz a seguir foi usado em uma campanha pública para doação de sangue.\nUMA DOAÇÃO PODE SALVAR ATÉ 3 PESSOAS\nROLEZINHO NO HEMORIO\nA META: 1.000 DOAÇÕES EM 1 DIA\nSÁBADO HEMORIO\$1_{1}$.FEV - 9H R. FREI CANECA 9\nANONYMOUS RIOT\n(Disponível em www.facebook.com/pages/HEMORIO/144978045579742?fref=ts. Acessado em 08/09/2014.)\nGlossário\nRolezinho: diminutivo de rolê ou rolé; em linguagem informal, significa \"pequeno passeio\". Recentemente, tem designado encontros simultâneos de centenas de pessoas em locais como praças, parques públicos e shopping centers, organizados via internet.\nAnonymous riot: rebelião anônima.\nConsiderando como os sentidos são produzidos no cartaz e o seu caráter persuasivo, pode-se afirmar que:",
+      principal: "O cartaz a seguir foi usado em uma campanha pública para doação de sangue.\nUMA DOAÇÃO PODE SALVAR ATÉ 3 PESSOAS\nROLEZINHO NO HEMORIO\nA META: 1.000 DOAÇÕES EM 1 DIA\nSÁBADO HEMORIO\n1.FEV - 9H R. FREI CANECA 9\nANONYMOUS RIOT\n(Disponível em www.facebook.$\\\\frac{com}{pages}$/$\\\\frac{HEMORIO}{144978045579742}$?fref=ts. Acessado em $\\\\frac{08}{09}$/2014.)\nGlossário\nRolezinho: diminutivo de rolê ou rolé; em linguagem informal, significa \"pequeno passeio\". Recentemente, tem designado encontros simultâneos de centenas de pessoas em locais como praças, parques públicos e shopping centers, organizados via internet.\nAnonymous riot: rebelião anônima.\nConsiderando como os sentidos são produzidos no cartaz e o seu caráter persuasivo, pode-se afirmar que:",
       subItens: []
     },
     options: ["As figuras humanas estilizadas, semelhantes umas às outras, remetem ao grupo homogêneo das pessoas que podem ajudar e ser ajudadas.","A expressão “rolezinho” remete à meta de se reunir muitas pessoas, em um só dia, para doar sangue.","O termo \"até” indica o limite mínimo de pessoas a serem beneficiadas a partir da ação de um só indivíduo.","O destaque visual dado à expressão “ROLEZINHO NO HEMORIO\" tem a função de enfatizar a participação individual na campanha."],
@@ -1008,7 +1008,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto.\nRobô comandado por paraplégico foi mostrado na abertura da Copa. Equipamento transforma força do pensamento em movimentos mecânicos.\nEm entrevista ao $1_{1}_{}$, o neurocientista brasileiro Miguel Nicolelis comentou que inicialmente estava previsto um jovem paraplégico se levantar da cadeira de rodas, andar alguns passos e dar um chute na bola, que seria o \"pontapé inicial\" do Mundial do Brasil. Mas a estratégia foi revista após a Fifa informar que o grupo teria 29 segundos para realizar a demonstração científica.\nNa última quinta-feira, o voluntário Juliano Pinto, de 29 anos, deu um chute simbólico na bola da Copa usando o exoesqueleto. Na transmissão oficial, exibida por emissoras em todo o mundo, a cena durou apenas sete segundos.\nO neurocientista minimizou as críticas recebidas após a rápida apresentação na Arena Corinthians: \"Tenham calma, não olhem para isso como se fosse um jogo de futebol. Tem que conhecer tecnicamente e saber o esforço. Robótica não é filme de Hollywood, tem limitações que nós conhecemos. O limite desse trabalho foi alcançado. Os oito pacientes atingiram um grau de proficiência e controle mental muito altos, e tudo isso será publicado\", garante.\n(Adaptado de Eduardo Carvalho, 'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto. Disponível em http://$1_{1}$.globo.com/ciencia-e-saude/noticia/2014/06/robotica-nao-e-filme-de-hollywood-diz-nicolelis-sobre-o-exoesqueleto.html. Acessado em 18/06/2014.)\nConsiderando a notícia transcrita acima, pode-se dizer que a afirmação reproduzida no título (\"Robótica não é filme de Hollywood\").",
+      principal: "'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto.\nRobô comandado por paraplégico foi mostrado na abertura da Copa. Equipamento transforma força do pensamento em movimentos mecânicos.\nEm entrevista ao G_{1}, o neurocientista brasileiro Miguel Nicolelis comentou que inicialmente estava previsto um jovem paraplégico se levantar da cadeira de rodas, andar alguns passos e dar um chute na bola, que seria o \"pontapé inicial\" do Mundial do Brasil. Mas a estratégia foi revista após a Fifa informar que o grupo teria 29 segundos para realizar a demonstração científica.\nNa última quinta-feira, o voluntário Juliano Pinto, de 29 anos, deu um chute simbólico na bola da Copa usando o exoesqueleto. Na transmissão oficial, exibida por emissoras em todo o mundo, a cena durou apenas sete segundos.\nO neurocientista minimizou as críticas recebidas após a rápida apresentação na Arena Corinthians: \"Tenham calma, não olhem para isso como se fosse um jogo de futebol. Tem que conhecer tecnicamente e saber o esforço. Robótica não é filme de Hollywood, tem limitações que nós conhecemos. O limite desse trabalho foi alcançado. Os oito pacientes atingiram um grau de proficiência e controle mental muito altos, e tudo isso será publicado\", garante.\n(Adaptado de Eduardo Carvalho, 'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto. Disponível em http://g_{1}.globo.$\\\\frac{com}{ciencia}$-e-$\\\\frac{saude}{noticia}$/$\\\\frac{2014}{06}$/robotica-nao-e-filme-de-hollywood-diz-nicolelis-sobre-o-exoesqueleto.html. Acessado em $\\\\frac{18}{06}$/2014.)\nConsiderando a notícia transcrita acima, pode-se dizer que a afirmação reproduzida no título (\"Robótica não é filme de Hollywood\").",
       subItens: []
     },
     options: ["reitera a baixa qualidade técnica das imagens da demonstração com o exoesqueleto, depreciando a própria realização do experimento com voluntários.","destaca a grande receptividade da demonstração com o exoesqueleto junto ao público da Copa, superior à dos filmes produzidos em Hollywood.","aponta a necessidade de maiores investimentos financeiros na geração de imagens que possam valorizar a importância de conquistas científicas na mídia.","sugere que os resultados desse feito científico são muito mais complexos do que as imagens veiculadas pela televisão permitiram ver."],
@@ -1128,7 +1128,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Dados numéricos e recursos linguísticos colaboram para a construção dos sentidos de um texto. Leia os títulos de notícias a seguir sobre as vendas do comércio no último Dia dos Pais.\nVenda para o Dia dos Pais cresceu 2% em relação ao ano passado.\n(Adaptado de O Diário Online, 15/08/2014. Disponível em http://www.odiarioonline.com.br/noticia/26953/. Acessado em 20/08/2014.)\nSó 4 em cada 10 brasileiros compraram presentes no Dia dos Pais.\n(Época São Paulo, 17/08/2014. Disponível em http://epoca.globo.com/regional/sp/Consumo. Acessado em 20/08/2014.)\nPodemos afirmar que:",
+      principal: "Dados numéricos e recursos linguísticos colaboram para a construção dos sentidos de um texto. Leia os títulos de notícias a seguir sobre as vendas do comércio no último Dia dos Pais.\nVenda para o Dia dos Pais cresceu 2% em relação ao ano passado.\n(Adaptado de O Diário Online, $\\\\frac{15}{08}$/2014. Disponível em http://www.odiarioonline.com.$\\\\frac{br}{noticia}$/26953/. Acessado em $\\\\frac{20}{08}$/2014.)\nSó 4 em cada 10 brasileiros compraram presentes no Dia dos Pais.\n(Época São Paulo, $\\\\frac{17}{08}$/2014. Disponível em http://epoca.globo.$\\\\frac{com}{regional}$/$\\\\frac{sp}{Consumo}$. Acessado em $\\\\frac{20}{08}$/2014.)\nPodemos afirmar que:",
       subItens: []
     },
     options: ["As informações apresentadas nos títulos fornecem análises convergentes sobre as vendas.","A avaliação sobre as vendas expressa no segundo título é confirmada pela proporção apresentada no primeiro título.","Uma avaliação pessimista das vendas no Dia dos Pais é apresentada no segundo título.","O crescimento de 2% mencionado no primeiro título garante que as vendas este ano foram satisfatórias."],

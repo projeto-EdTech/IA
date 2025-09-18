@@ -3,7 +3,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Leia o texto.\nGentrificação, neologismo do termo gentrification, que deriva de gentry e genterise – de origem gentil, nobre – é entendido como um processo de reestruturação de espaços urbanos por meio de um conjunto de melhorias físicas e materiais, bem como de mudanças imateriais (econômica, social e cultural), que resulta em elevação do status da região que passa a ser ocupada pela classe média de alta remuneração, deslocando dos grandes centros a população de baixa renda.\n(CRUZ, Camila. In: Gentrificação no contexto das políticas públicas no Brasil. Fundação Getúlio Vargas. Publicado em 2016. Adaptado. Disponível: http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/17482/Trabalho_Individual_gentrificaçao_Camila_vfinal. Acesso: 18 jun. 2017.)\nQUESTÃO 1\nDentre os especialistas, as consequências da gentrificação são controversas, pois as melhorias urbanísticas implementadas acabam por",
+      principal: "Leia o texto.\nGentrificação, neologismo do termo gentrification, que deriva de gentry e genterise – de origem gentil, nobre – é entendido como um processo de reestruturação de espaços urbanos por meio de um conjunto de melhorias físicas e materiais, bem como de mudanças imateriais (econômica, social e cultural), que resulta em elevação do status da região que passa a ser ocupada pela classe média de alta remuneração, deslocando dos grandes centros a população de baixa renda.\n(CRUZ, Camila. In: Gentrificação no contexto das políticas públicas no Brasil. Fundação Getúlio Vargas. Publicado em 2016. Adaptado. Disponível: http://bibliotecadigital.fgv.$\\\\frac{br}{dspace}$/$\\\\frac{bitstream}{handle}$/$\\\\frac{10438}{17482}$/Trabalho_Individual_gentrificaçao_Camila_vfinal. Acesso: 18 jun. 2017.)\nQUESTÃO 1\nDentre os especialistas, as consequências da gentrificação são controversas, pois as melhorias urbanísticas implementadas acabam por",
       subItens: []
     },
     options: ["constituir um processo típico de especulação imobiliária, com emprego de grande investimento e respaldo do poder público para atender a uma demanda de interesse privado.","apresentar como objetivo principal a verticalização urbana, proporcionando condições materiais mais adequadas a um maior número de moradores.","promover a especulação imobiliária nos bairros em que ocorre e, via de regra, a maior integração entre moradores que possuem maior padrão econômico.","utilizar recursos públicos para favorecer a fixação da população residente, promovendo grandes investimentos e expansão dos aparatos sociais para parte específica da população.","promover a mudança de patamar socioeconômico dos moradores dessas localidades, na medida em que os imóveis passam a ter maior valor comercial, aumentando a renda de poucas famílias."],
@@ -18,7 +18,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Leia o texto.\nA fuga do chavismo, associada ao fim das Forças Armadas Revolucionárias da Colômbia (Farc), inverteu a tendência histórica do fluxo migratório entre dois países, que dividem 2.219 quilômetros de fronteira. Os colombianos costumavam migrar para a \"Venezuela Saudita\", que desfrutava da riqueza proveniente do petróleo, nos anos 70. Na década de 90 e início deste século, fugiram dos horrores do conflito armado entre Estado, guerrilheiros e grupos paramilitares. A estimativa mais conservadora é que 1 milhão de colombianos passaram à Venezuela. Agora são os venezuelanos que fogem da violência.\n(TORRADO, Santiago. Disponível: http://internacional.estadao.com.br/noticias/geral, fim-das-farc-e-fuga-do-regime-chavista-invertem-fluxo-migratorio-entre-paises, 70001891741. Acesso: 18 jun. 2017.)\nQUESTÃO 2\nOs venezuelanos passaram a integrar as estatísticas de refugiados da atualidade. Dentre os motivos que promovem o fluxo imigratório da Venezuela para a Colômbia, encontra-se a",
+      principal: "Leia o texto.\nA fuga do chavismo, associada ao fim das Forças Armadas Revolucionárias da Colômbia (Farc), inverteu a tendência histórica do fluxo migratório entre dois países, que dividem 2.219 quilômetros de fronteira. Os colombianos costumavam migrar para a \"Venezuela Saudita\", que desfrutava da riqueza proveniente do petróleo, nos anos 70. Na década de 90 e início deste século, fugiram dos horrores do conflito armado entre Estado, guerrilheiros e grupos paramilitares. A estimativa mais conservadora é que 1 milhão de colombianos passaram à Venezuela. Agora são os venezuelanos que fogem da violência.\n(TORRADO, Santiago. Disponível: http://internacional.estadao.com.$\\\\frac{br}{noticias}$/geral, fim-das-farc-e-fuga-do-regime-chavista-invertem-fluxo-migratorio-entre-paises, 70001891741. Acesso: 18 jun. 2017.)\nQUESTÃO 2\nOs venezuelanos passaram a integrar as estatísticas de refugiados da atualidade. Dentre os motivos que promovem o fluxo imigratório da Venezuela para a Colômbia, encontra-se a",
       subItens: []
     },
     options: ["crise política relacionada à chegada de Nicolás Maduro ao poder por meio de um golpe de Estado, sem apoio popular.","violência do Estado em relação aos opositores do regime e retração do preço do petróleo, principal commoditie do país.","crise econômica, particularmente relacionada à produção de etanol, exportado para a América Latina.","crescente aprovação do governo pela maioria dos venezuelanos, o que leva os insatisfeitos a emigrarem para a Colômbia.","oposição política realizada pelos chavistas ao governo, por desejarem o fim do poder do Partido Socialista Unido da Venezuela."],
@@ -33,7 +33,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Leia a imagem e o texto.\nO PRÓXIMO!\nA promulgação da Constituição Cidadã, em 1988, cria o SUS, Sistema Único de Saúde. Segundo o artigo 4º da Lei Orgânica da Saúde 080, de 1990, ο SUS é constituído pelo \"conjunto de ações e serviços de saúde, prestados por órgãos e instituições públicas federais, estaduais e municipais, da Administração direta e indireta e das fundações mantidas pelo Poder Público\". Na perspectiva do SUS, a saúde é vinculada à ideia de territorialização, compreendida como um instrumento para se entender OS contextos de uso do território em todos os níveis das atividades humanas; um caminho metodológico de aproximação e análise sucessivas da realidade para a produção social da saúde.\n(Disponível: http://www.folhadedourados.com.br/media/images/7787/15979/tmp/wmX-400x320x4-51e6902c0c88511913778e81455b8860485e4730052c5.jpg. Acesso: 18 jun. 2017.)\nQUESTÃO 3\nTexto e imagem constituem diferentes narrativas em relação ao modelo de saúde vigente no Brasil, podendo ser compreendidas como paradoxais. A complexidade desse paradoxo está relacionada",
+      principal: "Leia a imagem e o texto.\nO PRÓXIMO!\nA promulgação da Constituição Cidadã, em 1988, cria o SUS, Sistema Único de Saúde. Segundo o artigo 4º da Lei Orgânica da Saúde 080, de 1990, ο SUS é constituído pelo \"conjunto de ações e serviços de saúde, prestados por órgãos e instituições públicas federais, estaduais e municipais, da Administração direta e indireta e das fundações mantidas pelo Poder Público\". Na perspectiva do SUS, a saúde é vinculada à ideia de territorialização, compreendida como um instrumento para se entender OS contextos de uso do território em todos os níveis das atividades humanas; um caminho metodológico de aproximação e análise sucessivas da realidade para a produção social da saúde.\n(Disponível: http://www.folhadedourados.com.$\\\\frac{br}{media}$/$\\\\frac{images}{7787}$/$\\\\frac{15979}{tmp}$/wmX-400x320x4-51e6902c0c88511913778e81455b8860485e4730052c5.jpg. Acesso: 18 jun. 2017.)\nQUESTÃO 3\nTexto e imagem constituem diferentes narrativas em relação ao modelo de saúde vigente no Brasil, podendo ser compreendidas como paradoxais. A complexidade desse paradoxo está relacionada",
       subItens: []
     },
     options: ["ao conceito de territorialidade, que ignora as diferenças socioeconômicas e culturais entre profissionais da saúde e pessoas atendidas pelo serviço público.","à implementação do SUS, que planifica o modelo de saúde ignorando as especificidades populacionais e regionais das pessoas atendidas, em diferentes localidades do território nacional.","à dificuldade de acesso dos profissionais do SUS a novas tecnologias da área da saúde, fator responsável pelo atendimento tradicional e conservador da população.","à falta de recursos, que impossibilita, na prática, a implementação das diretrizes de saúde previstas em lei, tornando o serviço público ineficaz para a maioria da população.","à formação precária dos profissionais da área de saúde, explicação principal para a baixa funcionalidade do sistema de saúde."],
@@ -48,7 +48,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Analise o esquema a seguir, que descreve o processo de formação dos rios voadores.\$1_{4}$ passos para os rios voadores\nEssas nuvens carregadas fazem chover sobre a floresta\nA água que se acumulou no solo e nas arvores evapora.. fornecendo água para a formação de nuvens\$1_{4}$\nAs novas nuvens vão para o centro-oeste, sudeste e sul, fazendo chover nessas regiões, e seguem viagem pela América do Sul\nA água evapora do Oceano Atlântico e forma nuvens que são levadas pelos ventos para a floresta Amazônica\n(Disponível: http://info.opersan.com.br/os-rios-voadores-e-a-importancia-da-floresta-amazonica. Acesso: 18 jun. 2017.)\nQUESTÃO 4\nAs informações contidas no esquema permitem a seguinte conclusão:",
+      principal: "Analise o esquema a seguir, que descreve o processo de formação dos rios voadores.\n4 passos para os rios voadores\nEssas nuvens carregadas fazem chover sobre a floresta\nA água que se acumulou no solo e nas arvores evapora.. fornecendo água para a formação de nuvens\n4\nAs novas nuvens vão para o centro-oeste, sudeste e sul, fazendo chover nessas regiões, e seguem viagem pela América do Sul\nA água evapora do Oceano Atlântico e forma nuvens que são levadas pelos ventos para a floresta Amazônica\n(Disponível: http://info.opersan.com.$\\\\frac{br}{os}$-rios-voadores-e-a-importancia-da-floresta-amazonica. Acesso: 18 jun. 2017.)\nQUESTÃO 4\nAs informações contidas no esquema permitem a seguinte conclusão:",
       subItens: []
     },
     options: ["a Bacia Amazônica é a principal responsável pela formação dos fluxos de chuva, mantendo a descarga pluviométrica restrita à região Amazônica, no norte do Brasil.","inexiste relação entre os ventos alísios e a formação de rios voadores, já que o fluxo pluviométrico, que ocorre a partir da região centro-sul, é influenciado pela Patagônia.","os rios voadores são cursos d'água atmosféricos, formados por massas líquidas que carregam a umidade da Bacia Amazônica para o Centro-Oeste, o Sudeste e o Sul do Brasil.","não é possível estabelecer relações entre o desmatamento da Amazônia e os rios voadores, já que a sua formação depende exclusivamente das águas do Atlântico.","a posição da Cordilheira dos Andes evidencia que essa característica geográfica não interfere na formação dos rios voadores, que passam por sobre a cordilheira."],
@@ -63,7 +63,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Analise o gráfico.\nmenos de 7 consultas\$1_{7}$ consultas e mais\$1_{100}$,0\$1_{80}$,0 35,4 40,6 54.0\$1_{62}$,9 65,6\$1_{60}$,0\$1_{74}$,9\$1_{73}$,8\n%\$1_{91}$,9\$1_{40}$,0\$1_{59}$,4\$1_{54}$,6\$1_{20}$,0\$1_{36}$,7\$1_{37}$.0\$1_{34}$,3\$1_{25}$,0\$1_{11}$,3\$1_{8}$,1\$1_{0}$,0\n0a3 4a7 8a11 12 anos\n0a3 4a7 8 a 11 12 anos\nanos anos anos e mais\nanos anos anos e mais\$1_{2001}$\$1_{2010}$\nFonte: SINASC/CEInfo/SMS-SP, fev. 2011\nEscolaridade da Mãe\nMães residentes no municipio de São Paulo\n(Indicadores sociodemográficos e de saúde no Brasil. Disponível: http://biblioteca.ibge.gov.br/visualizacao/livros/$1_{42597}$.pdf. Acesso: 18 jun. 2017.)\nQUESTÃO 5\nOs dados contidos no gráfico relacionam o número de consultas de pré-natal ao nível de escolaridade das mães (indicado pelo período que frequentaram a escola), no Município de São Paulo, nos últimos 10 anos. Os resultados demonstram que",
+      principal: "Analise o gráfico.\nmenos de 7 consultas\n7 consultas e mais\n100,0\n80,0 35,4 40,6 54.0\n62,9 65,6\n60,0\n74,9\n73,8\n%\n91,9\n40,0\n59,4\n54,6\n20,0\n36,7\n37.0\n34,3\n25,0\n11,3\n8,1\n0,0\n0a3 4a7 8a11 12 anos\n0a3 4a7 8 a 11 12 anos\nanos anos anos e mais\nanos anos anos e mais\n2001\n2010\nFonte: $\\\\frac{SINASC}{CEInfo}$/SMS-SP, fev. 2011\nEscolaridade da Mãe\nMães residentes no municipio de São Paulo\n(Indicadores sociodemográficos e de saúde no Brasil. Disponível: http://biblioteca.ibge.gov.$\\\\frac{br}{visualizacao}$/$\\\\frac{livros}{liv_{42597}}$.pdf. Acesso: 18 jun. 2017.)\nQUESTÃO 5\nOs dados contidos no gráfico relacionam o número de consultas de pré-natal ao nível de escolaridade das mães (indicado pelo período que frequentaram a escola), no Município de São Paulo, nos últimos 10 anos. Os resultados demonstram que",
       subItens: []
     },
     options: ["as gestantes com menor e maior escolaridade tiveram acesso ao mesmo número de consultas no serviço público em dez anos, o que comprova não existir relação entre os fatores.","em dez anos o número de gestantes que tiveram acesso ao ensino básico, que dura 9 anos no Brasil, manteve-se equilibrado, não interferindo na quantidade de atendimentos médicos.","em todos os níveis de escolaridade há o aumento do número de consultas de pré-natal, o que confirma um melhor atendimento da gestante e da criança pelo serviço público.","o atendimento às gestantes independe dos níveis de escolaridade, já que no Brasil o serviço público de saúde é eficiente, o que fica comprovado pelo aumento nos atendimentos de pré-natal.","a maior variação percentual entre 2001 e 2010 revela-se entre as gestantes com maiores níveis de escolaridade e observa-se, nesse ponto, a manutenção da quantidade de atendimentos."],
@@ -78,7 +78,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Leia o texto.\nSegundo estudiosos, dos anos 1950 para cá, as atividades humanas teriam causado alterações nos processos geológicos da Terra, muito mais intensas do que as que ocorrem naturalmente. Uma característica marcante desse novo estágio na história da Terra, chamada de Antropoceno, seria a presença cada vez mais abundante de um sedimento artificial, formado por lama e areia misturadas com grãos de materiais sintéticos, em especial o plástico, vindos do lixo produzido pelo ser humano. (...) as principais evidências levantadas vêm sendo divulgadas e discutidas há algum tempo.\n(Revista Fapesp n. 243. Publicada em maio de 2016. Adaptado. Disponível: http://revistapesquisa.fapesp.br/2016/05/19/a-era-humana/.Acesso: 18 jun. 2017.)\nQUESTÃO 6\nA teoria do Antropoceno, descrita no texto, é considerada",
+      principal: "Leia o texto.\nSegundo estudiosos, dos anos 1950 para cá, as atividades humanas teriam causado alterações nos processos geológicos da Terra, muito mais intensas do que as que ocorrem naturalmente. Uma característica marcante desse novo estágio na história da Terra, chamada de Antropoceno, seria a presença cada vez mais abundante de um sedimento artificial, formado por lama e areia misturadas com grãos de materiais sintéticos, em especial o plástico, vindos do lixo produzido pelo ser humano. (...) as principais evidências levantadas vêm sendo divulgadas e discutidas há algum tempo.\n(Revista Fapesp n. 243. Publicada em maio de 2016. Adaptado. Disponível: http://revistapesquisa.fapesp.$\\\\frac{br}{2016}$/$\\\\frac{05}{19}$/a-era-humana/.Acesso: 18 jun. 2017.)\nQUESTÃO 6\nA teoria do Antropoceno, descrita no texto, é considerada",
       subItens: []
     },
     options: ["polêmica, pois não leva em conta a importância dos avanços tecnológicos.","promissora, na medida em que valoriza as tecnologias de produção.","duvidosa, já que está baseada mais em especulação do que em dados.","recente, e os estudiosos a relacionam à produção industrial.","sustentável, mesclando aspectos de produção com meio ambiente."],
@@ -93,7 +93,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Analise a imagem e o texto.\nMundo\$1_{16}$,2% rural**\$1_{51}$% urbana\$1_{49}$% rural\$1_{83}$,75% urbana**\nBrasil\nTOTAL\$1_{6}$,829 bilhões\$1_{192}$ milhões\$1_{9}$,150 bilhões*\$1_{218}$ milhões*\nEm 2050\nEm 2050\nFontes: IBGE e ONU\n* Não há estimativas sobre projeção de população rural em 2050\n** Dados de 2008, quando a diferenciação entre população urbana e rural era feita pelo IBGE\n(Disponível: http://istoe.com.br/56628_O+FUTURO+DAS+CIDADES+E+VERDE/. Acesso: 19 jun. 2017.)\nDe acordo com o Programa das Nações Unidas para Assentamentos Humanos (UN-Habitat), a população urbana foi multiplicada por cinco entre 1950 e 2011 no mundo todo. Foi em 2007 que, pela primeira vez na história da humanidade, o número de pessoas vivendo em cidades ultrapassou a cifra daquelas baseadas no campo.\n(Disponível: http://www.oeco.org.br/colunas/colunistas-convidados/27229-o-crescimento-urbano-e-o-problema-do-seculo/. Acesso: 19 jul. 2017.)\nQUESTÃO 7\nSegundo os dados apresentados no texto e na imagem, o crescimento da população urbana é um fenômeno mundial. Esses dados permitem identificar o seguinte desafio para as cidades nas próximas décadas:",
+      principal: "Analise a imagem e o texto.\nMundo\n16,2% rural**\n51% urbana\n49% rural\n83,75% urbana**\nBrasil\nTOTAL\n6,829 bilhões\n192 milhões\n9,150 bilhões*\n218 milhões*\nEm 2050\nEm 2050\nFontes: IBGE e ONU\n* Não há estimativas sobre projeção de população rural em 2050\n** Dados de 2008, quando a diferenciação entre população urbana e rural era feita pelo IBGE\n(Disponível: http://istoe.com.$\\\\frac{br}{56628_O}$+FUTURO+DAS+CIDADES+E+VERDE/. Acesso: 19 jun. 2017.)\nDe acordo com o Programa das Nações Unidas para Assentamentos Humanos (UN-Habitat), a população urbana foi multiplicada por cinco entre 1950 e 2011 no mundo todo. Foi em 2007 que, pela primeira vez na história da humanidade, o número de pessoas vivendo em cidades ultrapassou a cifra daquelas baseadas no campo.\n(Disponível: http://www.oeco.org.$\\\\frac{br}{colunas}$/colunistas-$\\\\frac{convidados}{27229}$-o-crescimento-urbano-e-o-problema-do-seculo/. Acesso: 19 jul. 2017.)\nQUESTÃO 7\nSegundo os dados apresentados no texto e na imagem, o crescimento da população urbana é um fenômeno mundial. Esses dados permitem identificar o seguinte desafio para as cidades nas próximas décadas:",
       subItens: []
     },
     options: ["promoção do êxodo urbano, voltado à ocupação das zonas rurais.","estímulo ao controle da natalidade, para refrear o aumento populacional nos centros urbanos.","valorização do homem do campo, criando novas frentes de trabalho rural.","crescimento econômico sustentável, que possibilite qualidade de vida.","contenção do consumo energético, por meio do aumento de tarifas públicas."],
@@ -108,7 +108,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Leia o texto.\nA Declaração Universal do Direito ao Meio Ambiente e ao Desenvolvimento Sustentável consagra respectivamente nos seus Princípios 24 e 25 que \"A guerra é, por definição, contrária ao desenvolvimento sustentável. Os Estados devem, por conseguinte, respeitar o Direito Internacional aplicável à proteção do meio ambiente em tempos de conflito armado, e cooperar para seu desenvolvimento, quando necessário” e que “A paz, o desenvolvimento e a proteção ambiental são interdependentes e indivisíveis\".\n(FARIAS, Talden Queiroz. As guerras e OS impactos sobre 0 meio ambiente. Disponível: http://www.ambito-juridico.com.br/site/index.php?n_link=revista_artigos_leitura&artigo_id=1668. Acesso: 19 jun. 2017.)\nQUESTÃO 8\nA experiência humana levou à adoção de medidas visando minimizar o impacto das guerras no ambiente, como a",
+      principal: "Leia o texto.\nA Declaração Universal do Direito ao Meio Ambiente e ao Desenvolvimento Sustentável consagra respectivamente nos seus Princípios 24 e 25 que \"A guerra é, por definição, contrária ao desenvolvimento sustentável. Os Estados devem, por conseguinte, respeitar o Direito Internacional aplicável à proteção do meio ambiente em tempos de conflito armado, e cooperar para seu desenvolvimento, quando necessário” e que “A paz, o desenvolvimento e a proteção ambiental são interdependentes e indivisíveis\".\n(FARIAS, Talden Queiroz. As guerras e OS impactos sobre 0 meio ambiente. Disponível: http://www.ambito-juridico.com.$\\\\frac{br}{site}$/index.php?n_link=revista_artigos_leitura&artigo_id=1668. Acesso: 19 jun. 2017.)\nQUESTÃO 8\nA experiência humana levou à adoção de medidas visando minimizar o impacto das guerras no ambiente, como a",
       subItens: []
     },
     options: ["escolha de táticas de guerra rápidas e intensas, com bombas químicas, reduzindo o efeito provocado por conflitos de longa duração.","proibição da utilização de estratégias bacteriológicas que possam afetar pessoas e contaminar o ecossistema.","utilização de práticas sustentáveis, objetivando a diminuir os efeitos do conflito bélico no espaço geográfico.","exclusão de práticas de guerra de longo prazo, pois é a duração do conflito que afeta negativamente o meio ambiente.","garantia da liberdade, de cada envolvido no conflito, de escolher suas táticas, desde que não ocorra interferência no meio ambiente."],
@@ -123,7 +123,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Analise a charge que se refere à política externa implementada pelo ditador norte-coreano, Kim Jong-un, na atualidade.\nHAPPY\nMEMETORN\nDisponível: https://www.cartoonmovement.com/cartoon/9809. Acesso: 19 jun. 2017.)\nQUESTÃO 9\nPode-se deduzir da charge que",
+      principal: "Analise a charge que se refere à política externa implementada pelo ditador norte-coreano, Kim Jong-un, na atualidade.\nHAPPY\nMEMETORN\nDisponível: https://www.cartoonmovement.$\\\\frac{com}{cartoon}$/9809. Acesso: 19 jun. 2017.)\nQUESTÃO 9\nPode-se deduzir da charge que",
       subItens: []
     },
     options: ["os EUA têm investido recursos na Coreia do Norte, o que possibilita o desenvolvimento do programa nuclear norte-coreano e vulnerabiliza os vizinhos da Coreia do Sul, alvo preferencial do ditador Kim Jong-un.","a política internacional da Guerra Fria modulou, desde seu início, as relações entre as duas Coreias e tem fomentado, historicamente, a possibilidade de um conflito armado da Coreia do Norte contra a Coreia do Sul e os EUA.","as relações entre as duas Coreias e os EUA, em razão da assinatura de acordos de paz, após o fim da Guerra da Coreia, que terminou em 1953, são pacíficas.","o final da Guerra Fria fortaleceu politicamente os EUA, o que favorece, até os dias atuais, as ações bélicas da Coreia do Norte contra os EUA, seu inimigo histórico.","as ameaças norte-coreanas de conflito armado pressupõem o uso de tecnologias bélicas ultrapassadas e de curto alcance, fato que não aflige a Coreia do Sul e os EUA."],
@@ -138,7 +138,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Leia o texto.\nEntre 1500 e 1856, a cada cinco pessoas no mundo que foram escravizadas, uma colocou os pés no Rio de Janeiro. Por muito tempo, imaginou-se que pouco mais de um milhão de escravos desembarcaram na cidade e mais 2,6 milhões teriam sido levados para outros pontos do litoral brasileiro. Agora, estudiosos afirmam que o número relativo ao Rio é muito maior que o estimado por vários historiadores. Estudos recentes, baseados em minucioso banco de dados criado pela Universidade de Emory, em Atlanta, nos Estados Unidos, reúnem registros portuários feitos ao longo de três séculos e meio. Esses dados recentes nos dão a dimensão quantitativa da presença de africanos escravizados no Brasil.\n(FRANÇA, Renan. O Globo. Publicado 06-04-2016. Disponível: https://oglobo.globo.com/rio/pesquisa-americana-indica-que-rio-recebeu-2-milhoes-de-escravos-africanos-15784551. Adaptado. Acesso: 20 jun. 2017.)\nQUESTÃO 10\nA análise citada no texto, vinculada ao Sítio Arqueológico Cais do Valongo, localizado na zona portuária do Rio de Janeiro e que ganhou o título de Patrimônio Mundial pela UNESCO em 2017, dá a dimensão da importância da mão de obra africana escravizada no Brasil. O período citado no texto inclui o início das políticas de combate ao sistema de exploração de mão de obra escrava iniciado pela Inglaterra, no princípio do século XIX. O resultado dessas políticas no Brasil foi",
+      principal: "Leia o texto.\nEntre 1500 e 1856, a cada cinco pessoas no mundo que foram escravizadas, uma colocou os pés no Rio de Janeiro. Por muito tempo, imaginou-se que pouco mais de um milhão de escravos desembarcaram na cidade e mais 2,6 milhões teriam sido levados para outros pontos do litoral brasileiro. Agora, estudiosos afirmam que o número relativo ao Rio é muito maior que o estimado por vários historiadores. Estudos recentes, baseados em minucioso banco de dados criado pela Universidade de Emory, em Atlanta, nos Estados Unidos, reúnem registros portuários feitos ao longo de três séculos e meio. Esses dados recentes nos dão a dimensão quantitativa da presença de africanos escravizados no Brasil.\n(FRANÇA, Renan. O Globo. Publicado 06-04-2016. Disponível: https://oglobo.globo.$\\\\frac{com}{rio}$/pesquisa-americana-indica-que-rio-recebeu-2-milhoes-de-escravos-africanos-15784551. Adaptado. Acesso: 20 jun. 2017.)\nQUESTÃO 10\nA análise citada no texto, vinculada ao Sítio Arqueológico Cais do Valongo, localizado na zona portuária do Rio de Janeiro e que ganhou o título de Patrimônio Mundial pela UNESCO em 2017, dá a dimensão da importância da mão de obra africana escravizada no Brasil. O período citado no texto inclui o início das políticas de combate ao sistema de exploração de mão de obra escrava iniciado pela Inglaterra, no princípio do século XIX. O resultado dessas políticas no Brasil foi",
       subItens: []
     },
     options: ["rápido, observado por meio da adoção de medidas legais pelo governo brasileiro, que levaram à extinção do sistema, ainda na primeira metade do século XIX.","gradual, na medida em que as leis decorrentes da pressão inglesa apenas retardaram o término da escravidão, ocorrida somente no final do século XIX.","radical, adotando a Lei do Ventre Livre, que passou a vigorar para todos os escravos que haviam nascido no Brasil, mesmo antes da referida lei entrar em vigor.","ineficaz, já que continuaram a entrar africanos escravizados no Brasil, inclusive por contrabando, reforçando o uso do sistema escravocrata de trabalho até o século XX.","consensual entre a elite brasileira, já que esta para substituir a escravidão, passou a adotar medidas de assalariamento, absorvendo a maior parte dos ex-escravos como empregados."],
@@ -168,7 +168,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 12\nO elemento chumbo apresenta quatro isótopos naturais. A tabela mostra esses isótopos e a abundância de cada um deles na natureza.\nIsótopo\nAbundância natural (%)\n204Pb\$1_{1}$,4\n206Pb\$1_{24}$,1\n207Pb\$1_{22}$,1\n208Pb\$1_{52}$,4\nA partir desses dados, é possível estimar o valor da massa atômica do elemento chumbo, que é, aproximadamente,",
+      principal: "QUESTÃO 12\nO elemento chumbo apresenta quatro isótopos naturais. A tabela mostra esses isótopos e a abundância de cada um deles na natureza.\nIsótopo\nAbundância natural (%)\n204Pb\n1,4\n206Pb\n24,1\n207Pb\n22,1\n208Pb\n52,4\nA partir desses dados, é possível estimar o valor da massa atômica do elemento chumbo, que é, aproximadamente,",
       subItens: []
     },
     options: ["205,5.","206,3.","206,7.","207,2.","208,0."],
@@ -213,7 +213,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 15\nA tabela mostra propriedades de duas substâncias químicas de uso corrente em laboratório.\nSubstância\nSolubilidade em água\n(a 20 °C)\nSolubilidade em etanol\n(a 20 °C)\nK2CO3\$1_{1}$ 300 g/L\ninsolúvel\nKOH\$1_{1}$ 130 g/L\$1_{400}$ g/L\nAcidentalmente, uma porção de 100 g de carbonato de potássio sólido foi colocada em um recipiente que continha 100 g de hidróxido de potássio sólido. Para separar essa mistura, obtendo novamente as duas substâncias, pode-se acrescentar à mistura",
+      principal: "QUESTÃO 15\nA tabela mostra propriedades de duas substâncias químicas de uso corrente em laboratório.\nSubstância\nSolubilidade em água\n(a 20 °C)\nSolubilidade em etanol\n(a 20 °C)\nK_{2}CO_{3}\n1 300 $\\\\frac{g}{L}$\ninsolúvel\nKOH\n1 130 $\\\\frac{g}{L}$\n400 $\\\\frac{g}{L}$\nAcidentalmente, uma porção de 100 g de carbonato de potássio sólido foi colocada em um recipiente que continha 100 g de hidróxido de potássio sólido. Para separar essa mistura, obtendo novamente as duas substâncias, pode-se acrescentar à mistura",
       subItens: []
     },
     options: ["50 mL de água, filtrar e evaporar o filtrado.","300 mL de água, filtrar e evaporar o filtrado.","300 mL de etanol, filtrar e evaporar o filtrado.","50 mL de etanol e centrifugar a mistura obtida.","300 mL de água e centrifugar a mistura obtida."],
@@ -228,7 +228,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 16\nConsidere as seguintes composições de ligas metálicas, em que o cobre é o metal presente em maior porcentagem: Cu/Zn, Cu/Sn e Cu/Ni. Essas três ligas são conhecidas, respectivamente, pelos nomes:",
+      principal: "QUESTÃO 16\nConsidere as seguintes composições de ligas metálicas, em que o cobre é o metal presente em maior porcentagem: $\\\\frac{Cu}{Zn}$, $\\\\frac{Cu}{Sn}$ e $\\\\frac{Cu}{Ni}$. Essas três ligas são conhecidas, respectivamente, pelos nomes:",
       subItens: []
     },
     options: ["latão, bronze e cuproníquel.","latão, bronze e metal Monel.","latão, metal Monel e bronze.","bronze, latão e cuproníquel.","bronze, metal Monel e cuproníquel."],
@@ -273,7 +273,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 19\nPara a realização de um experimento, um professor precisou misturar 100 mL de uma solução de NaOH a 20% (massa/volume) com 400 mL de uma solução de NaOH de concentração 2,5 mol/L. A concentração da solução preparada pelo professor é igual a",
+      principal: "QUESTÃO 19\nPara a realização de um experimento, um professor precisou misturar 100 mL de uma solução de NaOH a 20% ($\\\\frac{massa}{volume}$) com 400 mL de uma solução de NaOH de concentração 2,5 $\\\\frac{mol}{L}$. A concentração da solução preparada pelo professor é igual a",
       subItens: []
     },
     options: ["0,75 mol/L.","1,5 mol/L.","3,0 mol/L.","4,5 mol/L.","6,0 mol/L.\n(Dados - massas molares em g/mol: Na = 23; O = 16; H = 1)"],
@@ -318,10 +318,10 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 22\nCerto vinagre apresenta pH = 2,5 a 25 °C. A concentração de ácido acético nesse vinagre é 0,5 mol/L. O valor da constante de ionização do ácido acético (Ka), nessa temperatura, calculado a partir desses dados é",
+      principal: "QUESTÃO 22\nCerto vinagre apresenta pH = 2,5 a 25 °C. A concentração de ácido acético nesse vinagre é 0,5 $\\\\frac{mol}{L}$. O valor da constante de ionização do ácido acético (Ka), nessa temperatura, calculado a partir desses dados é",
       subItens: []
     },
-    options: ["$1 \times 10^{-2}$,5.","$1 \times 10^{-5}$.","$1 \times 10^{-5}$.","$1 \times 10^{-6}$.","$1 \times 10^{-6}$."],
+    options: ["1 x 10-2,5.","2 x 10-5.","1 x 10-5.","1 x 10-6.","2 x 10-6."],
     correctAnswer: 1,
     materia: "Química – Equilíbrio Químico",
     conteudo: "",
@@ -363,10 +363,10 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 25\nTrinitrotolueno (TNT) e trinitrofenol (ácido pícrico) são explosivos obtidos pela nitração do tolueno e do fenol, respectivamente.\$1_{3}$\nO2N\$1_{2}$\$1_{2}$\nTNT\nOH\nO2N\$1_{2}$\$1_{2}$\nácido pícrico\nAs posições dos grupos -$1_{3}$, -OH e -$1_{2}$ no anel benzênico desses dois explosivos são explicadas pelo efeito direcional desses grupos, sendo que os grupos",
+      principal: "QUESTÃO 25\nTrinitrotolueno (TNT) e trinitrofenol (ácido pícrico) são explosivos obtidos pela nitração do tolueno e do fenol, respectivamente.\nCH_{3}\nO_{2}N\nNO_{2}\nNO_{2}\nTNT\nOH\nO_{2}N\nNO_{2}\nNO_{2}\nácido pícrico\nAs posições dos grupos -CH_{3}, -OH e -NO_{2} no anel benzênico desses dois explosivos são explicadas pelo efeito direcional desses grupos, sendo que os grupos",
       subItens: []
     },
-    options: ["-$1_{3}$ e -OH são orto-para dirigentes, e o grupo -$1_{2}$ é meta dirigente.","-$1_{3}$ e -$1_{2}$ são orto-para dirigentes, e o grupo -OH é meta dirigente.","-$1_{2}$ e -OH são orto-para dirigentes, e o grupo -$1_{3}$ é meta dirigente.","-$1_{3}$, $1_{2}$ e -OH são orto-para dirigentes.","-$1_{3}$, -$1_{2}$ e -OH são meta dirigentes."],
+    options: ["-CH3 e -OH são orto-para dirigentes, e o grupo -NO2 é meta dirigente.","-CH3 e -NO2 são orto-para dirigentes, e o grupo -OH é meta dirigente.","-NO2 e -OH são orto-para dirigentes, e o grupo -CH3 é meta dirigente.","-CH3, NO2 e -OH são orto-para dirigentes.","-CH3, -NO2 e -OH são meta dirigentes."],
     correctAnswer: 0,
     materia: "Química – Química Orgânica",
     conteudo: "",
@@ -378,7 +378,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 26\nAo tocar seu violão, Raphael Rabello, um importante violonista brasileiro, gravou o som produzido por seu instrumento. A análise da gravação permite obter o gráfico de variação e pressão em função do tempo, conforme segue:\nΔΡ\$1_{15}$ 30 45 60 75 90 105 tempo (ms)\nA tabela a seguir associa as notas musicais às respectivas frequências:\nNota\nDó\nRé\nMi\nFá\nSol\nLá\nSi\nDó\nFrequência (Hz) 32,7 36,7 41,2 43,7 49,0 55,0 61,7 65,4\nAnalisando o gráfico e a tabela, assinale a alternativa que melhor representa a nota tocada pelo músico e o respectivo comprimento de onda.\nAssuma que a velocidade de propagação do som no ar é de 340 m/s.",
+      principal: "QUESTÃO 26\nAo tocar seu violão, Raphael Rabello, um importante violonista brasileiro, gravou o som produzido por seu instrumento. A análise da gravação permite obter o gráfico de variação e pressão em função do tempo, conforme segue:\nΔΡ\n15 30 45 60 75 90 105 tempo (ms)\nA tabela a seguir associa as notas musicais às respectivas frequências:\nNota\nDó\nRé\nMi\nFá\nSol\nLá\nSi\nDó\nFrequência (Hz) 32,7 36,7 41,2 43,7 49,0 55,0 61,7 65,4\nAnalisando o gráfico e a tabela, assinale a alternativa que melhor representa a nota tocada pelo músico e o respectivo comprimento de onda.\nAssuma que a velocidade de propagação do som no ar é de 340 $\\\\frac{m}{s}$.",
       subItens: []
     },
     options: ["Dó e 10,4 m","Ré e 9,3 m","Mi e 8,5 m","Dó e 9,3 m","Ré e 10,4 m"],
@@ -393,7 +393,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 27\nBRA\n(Disponível: http://www.moveitsports.com.br/portal/noticias-geral/exibir/id/472/Brasil-supera-Coreia-no-bobsled-feminino.html\nAcesso: 26 jul. 2017.)\nA fim de projetar uma pista de treinamento de bobsled (esporte em que equipes, por meio de um trenó, trilham descidas cronometradas em uma pista de gelo), um engenheiro planeja sua queda final, de 10 metros de altura, seguida de uma superfície horizontal, com atrito, de tal forma que, 20 metros após entrar na reta horizontal, toda a energia cinética seja dissipada, fazendo com que o conjunto de 500kg, composto pelo trenó e seus atletas pare completamente.\nAssinale a alternativa que representa o menor valor para o coeficiente de atrito entre as lâminas do trenó e a superfície horizontal de frenagem.\nDespreze todas as forças dissipativas ao longo da descida.",
+      principal: "QUESTÃO 27\nBRA\n(Disponível: http://www.moveitsports.com.$\\\\frac{br}{portal}$/noticias-$\\\\frac{geral}{exibir}$/$\\\\frac{id}{472}$/Brasil-supera-Coreia-no-bobsled-feminino.html\nAcesso: 26 jul. 2017.)\nA fim de projetar uma pista de treinamento de bobsled (esporte em que equipes, por meio de um trenó, trilham descidas cronometradas em uma pista de gelo), um engenheiro planeja sua queda final, de 10 metros de altura, seguida de uma superfície horizontal, com atrito, de tal forma que, 20 metros após entrar na reta horizontal, toda a energia cinética seja dissipada, fazendo com que o conjunto de 500kg, composto pelo trenó e seus atletas pare completamente.\nAssinale a alternativa que representa o menor valor para o coeficiente de atrito entre as lâminas do trenó e a superfície horizontal de frenagem.\nDespreze todas as forças dissipativas ao longo da descida.",
       subItens: []
     },
     options: ["0,2.","0,4.","0,5.","2,0.","200,0."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 28\nVisando investigar a influência de diferentes manejos de solo e de luminosidade no crescimento de uma planta, importante para a produção de medicamentos, um botânico realizou um experimento em que monitorou, durante todo o mês de julho, a velocidade de crescimento a partir de duas sementes idênticas, mas com diferentes condições. Após finalizar o experimento, o cientista produziu o gráfico abaixo:\nv (cm/s)\$1_{10}$\nPlanta 1\$1_{20}$\nPlanta 2\$1_{30}$\nt (dias)\nA partir da leitura do gráfico, comparando as duas plantas, é correto afirmar que",
+      principal: "QUESTÃO 28\nVisando investigar a influência de diferentes manejos de solo e de luminosidade no crescimento de uma planta, importante para a produção de medicamentos, um botânico realizou um experimento em que monitorou, durante todo o mês de julho, a velocidade de crescimento a partir de duas sementes idênticas, mas com diferentes condições. Após finalizar o experimento, o cientista produziu o gráfico abaixo:\nv ($\\\\frac{cm}{s}$)\n10\nPlanta 1\n20\nPlanta 2\n30\nt (dias)\nA partir da leitura do gráfico, comparando as duas plantas, é correto afirmar que",
       subItens: []
     },
     options: ["apesar dos comportamentos das velocidades de crescimento das plantas variarem ao longo do mês, ambas morreram ao final de todo o processo.","a planta 2 começou crescendo muito rapidamente, passou por um longo período sem crescer praticamente nada e, no fim de sua vida, diminuiu de tamanho até morrer.","a planta 1 foi a que atingiu maior tamanho ao longo de sua vida, como evidencia o maior pico das curvas apresentadas.","a planta 2 foi a que atingiu maior tamanho ao longo de sua vida, como evidencia a maior área sob a curva das curvas apresentadas.","a planta 1 passou cerca de metade do tempo de sua vida aumentando de tamanho e a outra metade, diminuindo."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 29\nAo estudar os fundamentos da mecânica de Newton, Leonardo, um aluno do curso de física, faz as seguintes afirmativas:\$1_{1}$. O princípio de inércia enuncia que, quando submetido à força resultante nula, um corpo mantém-se em movimento retilíneo e uniforme.\nII. Para que um corpo se mantenha em movimento, é necessário que a resultante das forças que atuam nele seja diferente de zero.\nIII. Após lançar uma bola de tênis verticalmente para cima, em um contexto em que as forças dissipativas são desprezíveis, é correto afirmar que, ao longo da subida, a única força que atua na bola é a sua força peso, vertical para baixo.\nÉ correto o que se afirma em",
+      principal: "QUESTÃO 29\nAo estudar os fundamentos da mecânica de Newton, Leonardo, um aluno do curso de física, faz as seguintes afirmativas:\n1. O princípio de inércia enuncia que, quando submetido à força resultante nula, um corpo mantém-se em movimento retilíneo e uniforme.\nII. Para que um corpo se mantenha em movimento, é necessário que a resultante das forças que atuam nele seja diferente de zero.\nIII. Após lançar uma bola de tênis verticalmente para cima, em um contexto em que as forças dissipativas são desprezíveis, é correto afirmar que, ao longo da subida, a única força que atua na bola é a sua força peso, vertical para baixo.\nÉ correto o que se afirma em",
       subItens: []
     },
     options: ["I, apenas.","II, apenas.","I e III, apenas.","II e III, apenas.","I, II e III."],
@@ -468,10 +468,10 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 32\nEmbora não pareça, tudo está atraindo tudo gravitacionalmente! Duas pessoas de 60 kg de massa cada uma, distantes 2 m entre si, estão se atraindo mutuamente. Não percebemos esta força, pois ela é imensamente menor do que a força que empregamos para, por exemplo, erguer com velocidade constante uma xícara de café de 50 g de massa até a boca.\nAdote Aceleração da gravidade: g = 10 m/$1_{2}$ $1_{2}$ e Constante gravitacional: G = 20. 10-11 N. m²/$1_{2}$\$1_{3}$\nÉ correto dizer que a razão entre a força gravitacional de atração entre essas pessoas e a força que fazemos para erguer a xícara vale",
+      principal: "QUESTÃO 32\nEmbora não pareça, tudo está atraindo tudo gravitacionalmente! Duas pessoas de 60 kg de massa cada uma, distantes 2 m entre si, estão se atraindo mutuamente. Não percebemos esta força, pois ela é imensamente menor do que a força que empregamos para, por exemplo, erguer com velocidade constante uma xícara de café de 50 g de massa até a boca.\nAdote Aceleração da gravidade: g = 10 $\\\\frac{m}{s_{2}}$ s_{2} e Constante gravitacional: G = 20. 10-11 N. m²/kg_{2}\n3\nÉ correto dizer que a razão entre a força gravitacional de atração entre essas pessoas e a força que fazemos para erguer a xícara vale",
       subItens: []
     },
-    options: ["3,0 x 10 -7","$1 \times 10^{-10}$","6,0 x 10 -8","1,2 x 10 -9","1,2 x 10 -7"],
+    options: ["3,0 x 10 -7","1,2 x 10-10","6,0 x 10 -8","1,2 x 10 -9","1,2 x 10 -7"],
     correctAnswer: 4,
     materia: "Física – Gravitação",
     conteudo: "",
@@ -498,10 +498,10 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 34\nUm estudante, desafiado a projetar um chuveiro elétrico, utilizou cinco resistências elétricas ôhmicas idênticas, associando-as conforme o circuito:\nR\nN\nR\nR\nR\$1_{1}$\$1_{2}$\$1_{3}$\nWW\nWW\nR\nO estudante incluiu uma chave seletora de três posições, que altera os pontos de aplicação da mesma tensão elétrica (U) entre os pontos Ne 1, Ne 2, e Ne 3, para obter três temperaturas diferentes de água.\nAo analisar o projeto do estudante, o professor concluiu corretamente que, para uma mesma vazão, as temperaturas da água $1_{1}_{}$, $1_{2}_{}$ e $1_{3}_{}$, obtidas ao posicionar a chave nas posições 1, 2 e 3, respectivamente, seriam:",
+      principal: "QUESTÃO 34\nUm estudante, desafiado a projetar um chuveiro elétrico, utilizou cinco resistências elétricas ôhmicas idênticas, associando-as conforme o circuito:\nR\nN\nR\nR\nR\n1\n2\n3\nWW\nWW\nR\nO estudante incluiu uma chave seletora de três posições, que altera os pontos de aplicação da mesma tensão elétrica (U) entre os pontos Ne 1, Ne 2, e Ne 3, para obter três temperaturas diferentes de água.\nAo analisar o projeto do estudante, o professor concluiu corretamente que, para uma mesma vazão, as temperaturas da água T_{1}, T_{2} e T_{3}, obtidas ao posicionar a chave nas posições 1, 2 e 3, respectivamente, seriam:",
       subItens: []
     },
-    options: ["$1_{1}_{}$ = $1_{2}_{}$ < $1_{3}_{}$","$1_{1}_{}$ $1_{2}_{}$ $1_{3}_{}$","$1_{1}_{}$ = $1_{2}_{}$ = $1_{3}_{}$","$1_{1}_{}$ = $1_{2}_{}$ $1_{3}_{}$","$1_{1}_{}$ = $1_{3}_{}$ > $1_{2}_{}$"],
+    options: ["T1 = T2 < T3","T1 T2 T3","T1 = T2 = T3","T1 = T2 T3","T1 = T3 > T2"],
     correctAnswer: 3,
     materia: "Física – Eletrodinâmica",
     conteudo: "",
@@ -513,7 +513,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 35\nA quantidade de energia gerada por um sistema fotovoltaico depende, entre outros fatores, da quantidade de radiação solar que incide na superfície das células solares. Buscando estudar uma possível otimização na geração de energia, um pesquisador comparou a produção de dois módulos fotovoltaicos idênticos, um com inclinação fixa e outro dotado de um sistema eletromecânico, que dissipa internamente 50 W, para seguir o Sol ao longo do dia, movendo a superfície de modo a posicioná-la sempre perpendicularmente à incidência da radiação solar.\nA figura abaixo mostra, graficamente, a potência gerada ao longo do dia, devido à incidência solar, para cada caso considerado.\nPot (W)\$1_{160}$-\$1_{140}$-\$1_{120}$\$1_{100}$\$1_{80}$\$1_{60}$-\$1_{40}$-\$1_{20}$-\$1_{2}$\$1_{4}$\$1_{6}$\$1_{8}$\$1_{10}$\$1_{12}$\$1_{14}$\$1_{16}$\$1_{18}$\nt (h)\nSistema com inclinação fixa\nPot (W)\$1_{160}$\$1_{140}$-\$1_{120}$\$1_{100}$\$1_{80}$\$1_{60}$-\$1_{40}$-\$1_{20}$\$1_{2}$\$1_{4}$\$1_{6}$\$1_{8}$\$1_{10}$\$1_{12}$\$1_{14}$\$1_{16}$\$1_{18}$\nt (h)\nSistema com inclinação móvel\nQual das alternativas abaixo apresenta uma afirmação que interpreta corretamente estes resultados?",
+      principal: "QUESTÃO 35\nA quantidade de energia gerada por um sistema fotovoltaico depende, entre outros fatores, da quantidade de radiação solar que incide na superfície das células solares. Buscando estudar uma possível otimização na geração de energia, um pesquisador comparou a produção de dois módulos fotovoltaicos idênticos, um com inclinação fixa e outro dotado de um sistema eletromecânico, que dissipa internamente 50 W, para seguir o Sol ao longo do dia, movendo a superfície de modo a posicioná-la sempre perpendicularmente à incidência da radiação solar.\nA figura abaixo mostra, graficamente, a potência gerada ao longo do dia, devido à incidência solar, para cada caso considerado.\nPot (W)\n160-\n140-\n120\n100\n80\n60-\n40-\n20-\n2\n4\n6\n8\n10\n12\n14\n16\n18\nt (h)\nSistema com inclinação fixa\nPot (W)\n160\n140-\n120\n100\n80\n60-\n40-\n20\n2\n4\n6\n8\n10\n12\n14\n16\n18\nt (h)\nSistema com inclinação móvel\nQual das alternativas abaixo apresenta uma afirmação que interpreta corretamente estes resultados?",
       subItens: []
     },
     options: ["Os resultados experimentais obtidos mostram que a ideia do pesquisador é boa, pois se verifica que o módulo acoplado ao sistema de seguimento solar, considerado o balanço energético, ainda gera mais energia que o módulo fixo.","A energia gerada pelo módulo com sistema de seguimento solar é menor do que a energia gerada pelo módulo fixo, diminuindo o desempenho do sistema. Portanto, conclui-se que não vale a pena usar seguimento solar.","Os gráficos obtidos mostram que o consumo de energia do sistema de seguimento solar é menor do que a energia gerada pelo módulo nas duas situações testadas. Como a energia gerada foi maior no módulo com seguimento solar, conclui-se que vale a pena usar sistemas de seguimento solar.","Os resultados mostram que o consumo de energia do sistema de seguimento solar é maior que o aumento da geração promovida por ele. Assim, a ideia só será válida se for possível movimentar o módulo com menor consumo de energia.","A energia gerada pelo módulo com sistema de seguimento solar é maior do que a gerada pelo módulo fixo, mas menor do que a energia consumida para movimentá-lo. Portanto, é melhor não movimentar o módulo."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 36\nUm motor elétrico de um trem de passageiros é alimentado por uma tensão elétrica disponível entre os seus trilhos. Para que esse motor tenha um bom funcionamento, ele deve ter, entre seus terminais A e B, uma tensão mínima de 500 kV com uma potência de 1 MW. Sabendo que a resistência elétrica do trilho, com comportamento ôhmico, cresce linearmente à razão de 0,5 Ω/m, para garantir um bom funcionamento, a distância máxima que este trem pode se afastar da fonte de energia de 600 kV, é, em km, de\nA\$1_{600}$ KV\nTrem\nM\nB\nTrilhos",
+      principal: "QUESTÃO 36\nUm motor elétrico de um trem de passageiros é alimentado por uma tensão elétrica disponível entre os seus trilhos. Para que esse motor tenha um bom funcionamento, ele deve ter, entre seus terminais A e B, uma tensão mínima de 500 kV com uma potência de 1 MW. Sabendo que a resistência elétrica do trilho, com comportamento ôhmico, cresce linearmente à razão de 0,5 Ω/m, para garantir um bom funcionamento, a distância máxima que este trem pode se afastar da fonte de energia de 600 kV, é, em km, de\nA\n600 KV\nTrem\nM\nB\nTrilhos",
       subItens: []
     },
     options: ["1000","1000000","50","720","100"],
@@ -543,7 +543,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 37\nEntre as diversas técnicas de separação dos fragmentos de DNA, a mais utilizada é a eletroforese através de géis de agarose (EGA). O método consiste em aplicar um campo elétrico nos fragmentos de DNA, por um determinado período de tempo, para que se desloquem através do gel. Os resultados evidenciam que os menores fragmentos realizam deslocamentos mais longos do que os fragmentos maiores. Numa EGA, um fragmento de DNA, com carga elétrica negativa de módulo q, ao ser submetido a um campo elétrico uniforme Ẻ, deslocou-se 0,05 m, com velocidade constante. O campo E foi gerado por duas finas placas metálicas planas, paralelas entre si, distantes 0,1 m e ligadas a uma fonte com diferença de potencial de 100 V.\nAssinale a alternativa que representa corretamente os vetores força elétrica (F) e força de atrito (F) que atuaram no fragmento de DNA, bem como o módulo da F.\nDesconsidere os efeitos do gel na capacitância.\$1_{100}$ V\nFragmentos\nde DNA\nGel\nPlacas metálicas",
+      principal: "QUESTÃO 37\nEntre as diversas técnicas de separação dos fragmentos de DNA, a mais utilizada é a eletroforese através de géis de agarose (EGA). O método consiste em aplicar um campo elétrico nos fragmentos de DNA, por um determinado período de tempo, para que se desloquem através do gel. Os resultados evidenciam que os menores fragmentos realizam deslocamentos mais longos do que os fragmentos maiores. Numa EGA, um fragmento de DNA, com carga elétrica negativa de módulo q, ao ser submetido a um campo elétrico uniforme Ẻ, deslocou-se 0,05 m, com velocidade constante. O campo E foi gerado por duas finas placas metálicas planas, paralelas entre si, distantes 0,1 m e ligadas a uma fonte com diferença de potencial de 100 V.\nAssinale a alternativa que representa corretamente os vetores força elétrica (F) e força de atrito (F) que atuaram no fragmento de DNA, bem como o módulo da F.\nDesconsidere os efeitos do gel na capacitância.\n100 V\nFragmentos\nde DNA\nGel\nPlacas metálicas",
       subItens: []
     },
     options: ["","","","","O vetor quantidade de movimento de cada fóton é nulo."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 39\nA figura 1 abaixo ilustra um galvanômetro, constituído por um imã, uma bobina plana móvel, com um leve ponteiro a ela acoplado, e uma mola. O valor do campo magnético do imã na região da bobina é constante e tem módulo de 0,5 T. A bobina quadrada tem 2 cm de lado e 200 voltas de fio; e a mola tem constante elástica K = 1,8 N/m. Quando a mola se distende 4 cm, o ponteiro é defletido em 30°.\nFigura 1 - Galvanômetro\nBobina\nmóvel\nN\nS\$1_{0000000000}$\nF=0\nMola\nFigura 2 - Galvanômetro com ponteiro defletido\nBobina\$1_{1}$ cm\$1_{30}$\nTT\nPonteira\$1_{5}$ cm\$1_{4}$ cm\nBobina\nMola\nWWW\na\nvista em perspectiva\nvista frontal\nPara que o ponteiro se mantenha em repouso nesta posição, a corrente que atravessa a bobina vale, em miliampéres",
+      principal: "QUESTÃO 39\nA figura 1 abaixo ilustra um galvanômetro, constituído por um imã, uma bobina plana móvel, com um leve ponteiro a ela acoplado, e uma mola. O valor do campo magnético do imã na região da bobina é constante e tem módulo de 0,5 T. A bobina quadrada tem 2 cm de lado e 200 voltas de fio; e a mola tem constante elástica K = 1,8 $\\\\frac{N}{m}$. Quando a mola se distende 4 cm, o ponteiro é defletido em 30°.\nFigura 1 - Galvanômetro\nBobina\nmóvel\nN\nS\n0000000000\nF=0\nMola\nFigura 2 - Galvanômetro com ponteiro defletido\nBobina\n1 cm\n30\nTT\nPonteira\n5 cm\n4 cm\nBobina\nMola\nWWW\na\nvista em perspectiva\nvista frontal\nPara que o ponteiro se mantenha em repouso nesta posição, a corrente que atravessa a bobina vale, em miliampéres",
       subItens: []
     },
     options: ["0,02","0,40","1,00\nUse: cos 30° = 0,9","2,00","4,00"],
@@ -588,7 +588,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 40\nA pele humana reage à exposição aos raios ultravioleta (UV) produzindo melanina que, em alguns casos, pode estar relacionada ao câncer de pele. Fazendo uma foto da pele com uma máquina fotográfica que não filtra os raios UV, é possível revelar a melanina depositada sob a pele. As fotografias abaixo foram tiradas no mesmo instante, com filtro UV (esquerda) e sem filtro UV (direita), de um mesmo rosto iluminado pela luz solar.\nSem raios UV\nCom raios UV\nAo analisar a imagem da direita (com UV), uma pessoa fez três afirmações:\$1_{1}$. A melanina refletiu os raios UV da luz solar.\nII. Para tirar essa foto, a máquina fotográfica teve que emitir raios UV.\nIII. As manchas escuras da imagem foram produzidas nos pontos onde houve baixa incidência de UV ingressando na lente da câmera.\nÉ correto o que se afirma apenas em",
+      principal: "QUESTÃO 40\nA pele humana reage à exposição aos raios ultravioleta (UV) produzindo melanina que, em alguns casos, pode estar relacionada ao câncer de pele. Fazendo uma foto da pele com uma máquina fotográfica que não filtra os raios UV, é possível revelar a melanina depositada sob a pele. As fotografias abaixo foram tiradas no mesmo instante, com filtro UV (esquerda) e sem filtro UV (direita), de um mesmo rosto iluminado pela luz solar.\nSem raios UV\nCom raios UV\nAo analisar a imagem da direita (com UV), uma pessoa fez três afirmações:\n1. A melanina refletiu os raios UV da luz solar.\nII. Para tirar essa foto, a máquina fotográfica teve que emitir raios UV.\nIII. As manchas escuras da imagem foram produzidas nos pontos onde houve baixa incidência de UV ingressando na lente da câmera.\nÉ correto o que se afirma apenas em",
       subItens: []
     },
     options: ["Ι.","II.","III.","l e III.","II e III."],
@@ -633,7 +633,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 43\nO gráfico mostra a distribuição da população de uma cidade de acordo com o estado civil de seus habitantes.\ncasado\$1_{25}$%\nViúvo\$1_{10}$%\ndivorciado\$1_{5}$%\nsolteiro\$1_{60}$%\nSabe-se que 3% das pessoas solteiras têm condições econômicas para cursar uma faculdade e que há 2500 pessoas viúvas. O total de solteiros sem condições econômicas de acesso ao ensino superior é",
+      principal: "QUESTÃO 43\nO gráfico mostra a distribuição da população de uma cidade de acordo com o estado civil de seus habitantes.\ncasado\n25%\nViúvo\n10%\ndivorciado\n5%\nsolteiro\n60%\nSabe-se que 3% das pessoas solteiras têm condições econômicas para cursar uma faculdade e que há 2500 pessoas viúvas. O total de solteiros sem condições econômicas de acesso ao ensino superior é",
       subItens: []
     },
     options: ["15000.","14550.","13250.","12600.","10500."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 44\nConsidere a equação:\$1_{3}$ x³ = 312\nO produto das raízes desta equação é",
+      principal: "QUESTÃO 44\nConsidere a equação:\nxlog_{3} x³ = 312\nO produto das raízes desta equação é",
       subItens: []
     },
     options: ["1/3.","1/2.","1.","9.","12."],
@@ -693,7 +693,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 47\nEntre os operários de uma indústria, a relação entre o número de homens e o número de mulheres era de 8/9. No mês de julho, esta relação foi de 25/21, porque 20 operários homens e 30% das mulheres foram demitidos.\nA diferença entre o total de operários antes de julho e o total deles depois desse mês é",
+      principal: "QUESTÃO 47\nEntre os operários de uma indústria, a relação entre o número de homens e o número de mulheres era de $\\\\frac{8}{9}$. No mês de julho, esta relação foi de $\\\\frac{25}{21}$, porque 20 operários homens e 30% das mulheres foram demitidos.\nA diferença entre o total de operários antes de julho e o total deles depois desse mês é",
       subItens: []
     },
     options: ["95.","110.","128.","201.","213."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 50\nMarque a alternativa que mostra o sistema de inequações que representa a área assinalada na figura seguinte:\nY\$1_{5}$\$1_{3}$\$1_{3}$\nX\$1_{5}$",
+      principal: "QUESTÃO 50\nMarque a alternativa que mostra o sistema de inequações que representa a área assinalada na figura seguinte:\nY\n5\n3\n3\nX\n5",
       subItens: []
     },
     options: ["{\nx² + y² ≤ 25\nx² + y² ≥ 9\nx ≥ 0","{\n(x − 3)2 + (y − 5)² ≤ 4\nx ≥ 0","{\n(x - 2)2 / 2 ≤ 4\nx ≥ 0","{\nx² + y² ≤ 4\nx² + y² ≥ 2\nx ≥ 0","(x² + y² ≤ 16\nx² + y² ≥ 9\nx ≥ 0"],
@@ -753,10 +753,10 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 51\nAssinale a alternativa que indica, respectivamente, as representações gráficas dos sistemas $1_{1}_{}$ e $1_{2}_{}$.\$1_{1}$\n3x+y = 4\n3x = 6 - y\$1_{2}$\n2x - y = 0\nx + 3y = 7",
+      principal: "QUESTÃO 51\nAssinale a alternativa que indica, respectivamente, as representações gráficas dos sistemas S_{1} e S_{2}.\nS_{1}\n3x+y = 4\n3x = 6 - y\nS_{2}\n2x - y = 0\nx + 3y = 7",
       subItens: []
     },
-    options: ["$1_{1}_{}$\nYA\n(1, 4)\$1_{14}$\$1_{1}$\$1_{1}$\nX\$1_{2}$\nYA\$1_{1}$\$1_{1}$\nX","$1_{1}_{}$\nYA\$1_{1}$\$1_{1}$\nX\n(3,-2)\$1_{2}$\nY\nYA\$1_{1}$\n+\$1_{1}$\nX","$1_{1}_{}$\nYA\n(1, 4)\$1_{1}$\n+\$1_{1}$\nX\$1_{2}$\nYA\$1_{1}$\n+\nX","$1_{1}_{}$\nYA\$1_{1}$\n+\nX\$1_{2}$\nYA\n+\$1_{1}$\$1_{1}$\nX","$1_{1}_{}$\nYA\$1_{1}$\$1_{1}$\nX\n(3,-2)\$1_{2}$\nYA\$1_{1}$\nX"],
+    options: ["S1\nYA\n(1, 4)\n14\n1\n1\nX\nS2\nYA\n1\n1\nX","S1\nYA\n1\n1\nX\n(3,-2)\nS2\nY\nYA\n1\n+\n1\nX","S1\nYA\n(1, 4)\n1\n+\n1\nX\nS2\nYA\n1\n+\nX","S1\nYA\n1\n+\nX\nS2\nYA\n+\n1\n1\nX","S1\nYA\n1\n1\nX\n(3,-2)\nS2\nYA\n1\nX"],
     correctAnswer: 3,
     materia: "Matemática – Sistemas de Equações Lineares",
     conteudo: "",
@@ -798,7 +798,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 54\nConsidere a notação Cm,n para simbolizar a combinação de m elementos tomados n a n. Usando esta notação, assinale a alternativa que mostra a solução x da equação seguinte:\n4Cx,5 2\n4Cx,6\$1_{3}$",
+      principal: "QUESTÃO 54\nConsidere a notação Cm,n para simbolizar a combinação de m elementos tomados n a n. Usando esta notação, assinale a alternativa que mostra a solução x da equação seguinte:\n4Cx,5 2\n4Cx,6\n3",
       subItens: []
     },
     options: ["10.","12.","14.","16.","18."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 55\nAssinale a alternativa que indica, respectivamente, a média aritmética MA e a mediana ME da distribuição dada por\nIntervalo (li) Frequência (fi)\$1_{0}$-10\$1_{60}$\$1_{10}$-20\$1_{80}$\$1_{20}$-30\$1_{30}$\$1_{30}$-100\$1_{20}$\$1_{100}$-500\$1_{10}$",
+      principal: "QUESTÃO 55\nAssinale a alternativa que indica, respectivamente, a média aritmética MA e a mediana ME da distribuição dada por\nIntervalo (li) Frequência (fi)\n0-10\n60\n10-20\n80\n20-30\n30\n30-100\n20\n100-500\n10",
       subItens: []
     },
     options: ["28 e 10.","32 e 10.","32,75 e 15.","38,5 e 13.","40 e 15."],
@@ -888,7 +888,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Leia o texto.\nGERTRUDE STEIN – A ESTRUTURA DA LINGUAGEM\nAntes de ser uma artista de vanguarda, Gertrude Stein foi uma cientista. Seu primeiro artigo (de 1898) resumia a pesquisa em Harvard, onde explorava a escrita automática. Stein queria escrever as primeiras palavras que lhe viessem à mente. Como era esperado, o resultado foi ridículo. Em vez de revelar o interior reprimido da mente, as experiências com a escrita automática geraram um monte de falas espontâneas sem sentido. Enchia páginas e páginas com frases incompreensíveis. Após a análise dos dados, Stein chegou à conclusão de que não significavam nada. Sua experiência não funcionara.\nNo entanto, o fracasso da experiência fez Stein começar a pensar. Mesmo quando escrevia sobre absolutamente nada, o que ocorria na maior parte do tempo, esse nada permanecia gramatical. As frases eram todas sem sentido, porém ainda assim obedeciam às regras padrão de sintaxe. Os sujeitos concordavam corretamente com os verbos, os adjetivos modificavam os substantivos e tudo estava no tempo verbal certo. Embora tivesse a esperança de que a experiência libertasse a linguagem de suas limitações, acabou descobrindo a limitação da qual não havia como fugir. Nossa linguagem tem uma estrutura, e esta estrutura está enraizada em nosso cérebro. Essas estruturas profundas são as fontes secretas de nossas frases, suas regras abstratas ordenam tudo que dizemos.\n(LEHRER, Jonah. Proust foi um neurocientista - Como a arte antecipa a ciência. Trad. de Fátima Santos. Rio de Janeiro: BestSeller, 2010. Adaptado.)\nQUESTÃO 60\nAcerca da escolha e do papel dos conectivos para a estruturação do texto apresentam-se as seguintes afirmações:\$1_{1}$. No primeiro parágrafo, a expressão “Em vez de” estabelece uma relação de oposição com o período anterior, podendo ser devidamente substituída por “Ao invés de”, sem que haja alteração significativa de sentido.\nII. No segundo parágrafo, o conectivo “No entanto\" expressa uma relação de adversidade com o período que encerra o parágrafo anterior; do mesmo modo, o conectivo “porém” estabelece relação de oposição com a oração principal que o antecede, no mesmo período.\nIII. No segundo parágrafo, a conjunção “embora” estabelece no período a ideia de concessão, ocasionando que o conteúdo da oração principal represente o contrário do que a artista espera.\nÉ correto o que se afirma apenas em",
+      principal: "Leia o texto.\nGERTRUDE STEIN – A ESTRUTURA DA LINGUAGEM\nAntes de ser uma artista de vanguarda, Gertrude Stein foi uma cientista. Seu primeiro artigo (de 1898) resumia a pesquisa em Harvard, onde explorava a escrita automática. Stein queria escrever as primeiras palavras que lhe viessem à mente. Como era esperado, o resultado foi ridículo. Em vez de revelar o interior reprimido da mente, as experiências com a escrita automática geraram um monte de falas espontâneas sem sentido. Enchia páginas e páginas com frases incompreensíveis. Após a análise dos dados, Stein chegou à conclusão de que não significavam nada. Sua experiência não funcionara.\nNo entanto, o fracasso da experiência fez Stein começar a pensar. Mesmo quando escrevia sobre absolutamente nada, o que ocorria na maior parte do tempo, esse nada permanecia gramatical. As frases eram todas sem sentido, porém ainda assim obedeciam às regras padrão de sintaxe. Os sujeitos concordavam corretamente com os verbos, os adjetivos modificavam os substantivos e tudo estava no tempo verbal certo. Embora tivesse a esperança de que a experiência libertasse a linguagem de suas limitações, acabou descobrindo a limitação da qual não havia como fugir. Nossa linguagem tem uma estrutura, e esta estrutura está enraizada em nosso cérebro. Essas estruturas profundas são as fontes secretas de nossas frases, suas regras abstratas ordenam tudo que dizemos.\n(LEHRER, Jonah. Proust foi um neurocientista - Como a arte antecipa a ciência. Trad. de Fátima Santos. Rio de Janeiro: BestSeller, 2010. Adaptado.)\nQUESTÃO 60\nAcerca da escolha e do papel dos conectivos para a estruturação do texto apresentam-se as seguintes afirmações:\n1. No primeiro parágrafo, a expressão “Em vez de” estabelece uma relação de oposição com o período anterior, podendo ser devidamente substituída por “Ao invés de”, sem que haja alteração significativa de sentido.\nII. No segundo parágrafo, o conectivo “No entanto\" expressa uma relação de adversidade com o período que encerra o parágrafo anterior; do mesmo modo, o conectivo “porém” estabelece relação de oposição com a oração principal que o antecede, no mesmo período.\nIII. No segundo parágrafo, a conjunção “embora” estabelece no período a ideia de concessão, ocasionando que o conteúdo da oração principal represente o contrário do que a artista espera.\nÉ correto o que se afirma apenas em",
       subItens: []
     },
     options: ["le ll.","II e III.","l e III.","II.","III."],
@@ -903,7 +903,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 61\nOs leucócitos são células sanguíneas com funções importantes, com destaque para os mecanismos de defesa do organismo. Numa amostra de sangue, previamente preparada para observação de leucócitos, é possível visualizar células que contêm e outras que não contêm grânulos citoplasmáticos, característica relevante para o papel que têm nos processos biológicos.\nO quadro mostra as quantidades dos diferentes elementos figurados, obtidas a partir de um exame de sangue de rotina.\nElementos\nfigurados\nQuantidade\nmm³ de sangue\npor\nEritrócitos\$1_{5}$.300.000\nNeutrófilos\$1_{4}$.700\nLinfócitos\$1_{2}$.300\nBasófilos\$1_{60}$\nEosinófilos\$1_{220}$\nMonócitos\$1_{580}$\nTrombócitos\$1_{240}$.000\nA quantidade total de leucócitos granulócitos por mm³ de sangue no exame em questão é",
+      principal: "QUESTÃO 61\nOs leucócitos são células sanguíneas com funções importantes, com destaque para os mecanismos de defesa do organismo. Numa amostra de sangue, previamente preparada para observação de leucócitos, é possível visualizar células que contêm e outras que não contêm grânulos citoplasmáticos, característica relevante para o papel que têm nos processos biológicos.\nO quadro mostra as quantidades dos diferentes elementos figurados, obtidas a partir de um exame de sangue de rotina.\nElementos\nfigurados\nQuantidade\nmm³ de sangue\npor\nEritrócitos\n5.300.000\nNeutrófilos\n4.700\nLinfócitos\n2.300\nBasófilos\n60\nEosinófilos\n220\nMonócitos\n580\nTrombócitos\n240.000\nA quantidade total de leucócitos granulócitos por mm³ de sangue no exame em questão é",
       subItens: []
     },
     options: ["860","2.880","4.980","7.000","5.540.000"],
@@ -933,7 +933,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 63\nAnalise a seguinte teia alimentar hipotética:\$1_{3}$\$1_{6}$\$1_{8}$\$1_{4}$\$1_{1}$\$1_{7}$\$1_{2}$\$1_{5}$\nNa situação apresentada, a biomassa de + seria",
+      principal: "QUESTÃO 63\nAnalise a seguinte teia alimentar hipotética:\n3\n6\n8\n4\n1\n7\n2\n5\nNa situação apresentada, a biomassa de + seria",
       subItens: []
     },
     options: ["maior do que a biomassa de","maior do que a biomassa de 2","menor do que a biomassa de + 2.","menor do que a biomassa de 6.","menor do que a biomassa de"],
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 69\nUm determinado banco de sangue dispõe de 51 litros de sangue para transfusão, distribuídos da seguinte maneira:\nA+\$1_{5}$ L\nA-\$1_{4}$ L\nB+\$1_{6}$ L\nB-\$1_{3}$ L\nO+\$1_{12}$ L\nO-\$1_{9}$ L\nAB+\$1_{4}$ L\nAB-\$1_{8}$ L\nQual o volume de sangue disponível para cada um dos tipos sanguíneos?",
+      principal: "QUESTÃO 69\nUm determinado banco de sangue dispõe de 51 litros de sangue para transfusão, distribuídos da seguinte maneira:\nA+\n5 L\nA-\n4 L\nB+\n6 L\nB-\n3 L\nO+\n12 L\nO-\n9 L\nAB+\n4 L\nAB-\n8 L\nQual o volume de sangue disponível para cada um dos tipos sanguíneos?",
       subItens: []
     },
     options: ["30 L 13 L 30 L 12 L 51 L 24 L 21 L 9 L","30 L 12 L 24 L 9 L 8 L 51 L 12 L 17 L","17 L 13 L 18 L 12 L 33 L 24 L 21 L 9 L","21 L 9 L 30 L 18 L 33 L 51 L 21 L 17 L","30 L 13 L 21 L 12 L 51 L 24 L 12 L 9L"],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 71\nO cariótipo ou exame citogenético é um recurso que permite detectar anomalias cromossômicas numéricas e/ou morfológicas. Em conjunto, as alterações anatômicas e fisológicas decorrentes de anomalias cromossômicas são chamadas de síndromes.\nAdiante estão reproduzidos os idiogramas de três exames citogenéticos com aneuploidias.\$1_{1}$\nII\nIII\$1_{1}$ 2 3 4 5\$1_{1}$ 2 3 4 5\$1_{1}$ 2 3 4 5\$1_{6}$ 7 8 9 10 11 12\$1_{6}$ 7 8 9 10 11 12\$1_{6}$ 7 8 9 10 11 12\$1_{13}$ 14 15 16 17 18\$1_{13}$ 14 15 16 17 18\$1_{13}$ 14 15 16 17 18\$1_{11}$\$1_{11}$\$1_{11}$ \"\nKi\$1_{11}$\$1_{11}$\n(\$1_{19}$ 20 21 22 X\$1_{19}$ 20 21 22 X Y\$1_{19}$ 20 21 22 X\nOs idiogramas I, II e III correspondem, respectivamente, à",
+      principal: "QUESTÃO 71\nO cariótipo ou exame citogenético é um recurso que permite detectar anomalias cromossômicas numéricas $\\\\frac{e}{ou}$ morfológicas. Em conjunto, as alterações anatômicas e fisológicas decorrentes de anomalias cromossômicas são chamadas de síndromes.\nAdiante estão reproduzidos os idiogramas de três exames citogenéticos com aneuploidias.\n1\nII\nIII\n1 2 3 4 5\n1 2 3 4 5\n1 2 3 4 5\n6 7 8 9 10 11 12\n6 7 8 9 10 11 12\n6 7 8 9 10 11 12\n13 14 15 16 17 18\n13 14 15 16 17 18\n13 14 15 16 17 18\n11\n11\n11 \"\nKi\n11\n11\n(\n19 20 21 22 X\n19 20 21 22 X Y\n19 20 21 22 X\nOs idiogramas I, II e III correspondem, respectivamente, à",
       subItens: []
     },
     options: ["síndrome de Down / síndrome de Turner / síndrome de Klinefelter.","síndrome de Turner / síndrome de Klinefelter / síndrome de Down.","síndrome de Klinefelter / síndrome de Down / síndrome de Turner.","síndrome de Down / síndrome de Klinefelter / síndrome de Turner.","síndrome de Klinefelter / síndrome de Turner / síndrome de Down."],
@@ -1068,10 +1068,10 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 72\nA conversão da energia luminosa em energia química é um processo biológico vital na natureza. A equação química que representa esse processo é 6 $1_{2}$ + 6 $1_{2}O_{}$ → C6H12O6 + 6 02\nÉ possível determinar, em pequena escala, o rendimento desse processo em termos de massa de glicose e volume de gás oxigênio produzidos, em função do volume de gás carbônico consumido.\nConsidere que tenham sido consumidos 480 L de gás carbônico. A massa de glicose produzida no processo é",
+      principal: "QUESTÃO 72\nA conversão da energia luminosa em energia química é um processo biológico vital na natureza. A equação química que representa esse processo é 6 CO_{2} + 6 H_{2}O → C_{6}H12O6 + 6 02\nÉ possível determinar, em pequena escala, o rendimento desse processo em termos de massa de glicose e volume de gás oxigênio produzidos, em função do volume de gás carbônico consumido.\nConsidere que tenham sido consumidos 480 L de gás carbônico. A massa de glicose produzida no processo é",
       subItens: []
     },
-    options: ["180 g.","264 g.","444 g.","600 g.\nDados: C = 12 g/mol; O = 16 g/mol; H = 1 g/mol; volume molar do $1_{2}$ é 24 L/mol","880 g."],
+    options: ["180 g.","264 g.","444 g.","600 g.\nDados: C = 12 g/mol; O = 16 g/mol; H = 1 g/mol; volume molar do CO2 é 24 L/mol","880 g."],
     correctAnswer: 3,
     materia: "Química – Estequiometria",
     conteudo: "Biologia – Bioquímica",
@@ -1098,7 +1098,7 @@ createQuestion({
     university: "MEDICINA - VESTIBULAR",
     year: 2017,
     text: {
-      principal: "QUESTÃO 74\nParadoxalmente, a radiação ultravioleta causa mutações nos seres vivos, mas é exatamente a responsável pela formação do ozônio ($1_{3}_{}$), que a absorve, funcionando como um eficiente filtro solar para o planeta. A destruição da camada de ozônio, decorrente de ações antrópicas, é um tema prevalente nas agendas mundiais que tratam de desenvolvimento sustentável e proteção ambiental.\nSobre esse tema, são feitas as seguintes afirmações\nI. À temperatura de 0°C, sob uma pressão de 1 atm, a camada de ozônio teria uma espessura de poucos milímetros.\nII. Cerca de 90% do ozônio se concentra na mesosfera, entre 60 e 80 km acima da superfície terrestre.\nIII. Apesar de ser benéfico na alta atmosfera, o ozônio é um poluente nas camadas inferiores, podendo causar irritação nos olhos e problemas respiratórios.\nÉ correto o que se afirma em",
+      principal: "QUESTÃO 74\nParadoxalmente, a radiação ultravioleta causa mutações nos seres vivos, mas é exatamente a responsável pela formação do ozônio (O_{3}), que a absorve, funcionando como um eficiente filtro solar para o planeta. A destruição da camada de ozônio, decorrente de ações antrópicas, é um tema prevalente nas agendas mundiais que tratam de desenvolvimento sustentável e proteção ambiental.\nSobre esse tema, são feitas as seguintes afirmações\nI. À temperatura de 0°C, sob uma pressão de 1 atm, a camada de ozônio teria uma espessura de poucos milímetros.\nII. Cerca de 90% do ozônio se concentra na mesosfera, entre 60 e 80 km acima da superfície terrestre.\nIII. Apesar de ser benéfico na alta atmosfera, o ozônio é um poluente nas camadas inferiores, podendo causar irritação nos olhos e problemas respiratórios.\nÉ correto o que se afirma em",
       subItens: []
     },
     options: ["II, apenas.","I e II, apenas.","I e III, apenas.","II e III, apenas.","I, II e III."],

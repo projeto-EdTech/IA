@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Choose the alternative(s) in which the underlined word(s) and/or expression(s) is (are) related to the spacecraft.",
+      principal: "Choose the alternative(s) in which the underlined word(s) $\\\\frac{and}{or}$ expression(s) is (are) related to the spacecraft.",
       subItens: []
     },
     options: ["“... it will make a particularly close approach” (line 48).","“Fly to an asteroid, grab some of the rock and bring it back to Earth” (lines 6 and 7).","“A sampling head, which looks like an automobile air filter, will shoot a burst of nitrogen to kick up dirt” (lines 32-34).","“It’s a time capsule from the earliest stages of solar system formation” (lines 22 and 23).","“... dropping off a capsule with the samples that will land via parachute in a Utah desert.” (lines 41-43)."],

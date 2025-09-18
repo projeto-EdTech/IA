@@ -288,7 +288,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Analise a foto, tirada em 16 de agosto de 2021 no palácio presidencial do Afeganistão.\n\n[IMAGEM: Uma foto mostra um grupo de homens barbudos, alguns armados, sentados em cadeiras em um cômodo que parece ser um escritório ou sala de reuniões. Eles estão em trajes tradicionais e alguns usam turbantes. A mobília é simples, e há um brasão na parede ao fundo. A imagem sugere uma reunião ou tomada de poder.\n($1_{1}$.folha.uol.com.br/mundo)]\n\nEssa foto ilustra a recente retomada do poder, no Afeganistão, pelo grupo Taleban, o qual",
+      principal: "Analise a foto, tirada em 16 de agosto de 2021 no palácio presidencial do Afeganistão.\n\n[IMAGEM: Uma foto mostra um grupo de homens barbudos, alguns armados, sentados em cadeiras em um cômodo que parece ser um escritório ou sala de reuniões. Eles estão em trajes tradicionais e alguns usam turbantes. A mobília é simples, e há um brasão na parede ao fundo. A imagem sugere uma reunião ou tomada de poder.\n(www_{1}.folha.uol.com.$\\\\frac{br}{mundo}$)]\n\nEssa foto ilustra a recente retomada do poder, no Afeganistão, pelo grupo Taleban, o qual",
       subItens: []
     },
     options: ["é formado pela união de grupos palestinos de extrema-esquerda e defende o fim da influência cultural ocidental no Afeganistão.","alcançou notoriedade após condenar o ataque terrorista ao World Trade Center, sendo depois perseguido por tropas sírias e indianas.","conquistou o poder no Afeganistão no final do século XX com o apoio da Índia, perdendo esse controle após realizar atos terroristas na França e na Alemanha.","baseia-se em pressupostos fundamentalistas islâmicos e luta contra a hegemonia mundial da China, da Rússia e dos Estados Unidos.","ascendeu ao poder no Afeganistão após o período de ocupação soviética, permanecendo no controle até a invasão norte-americana, no início do século XXI."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Uma pesquisa feita em 2019 pelo Alto Comissariado das Nações Unidas para Refugiados (Acnur) mostra que 20% dos estrangeiros refugiados no Brasil vêm procurando trabalho, mas sem sucesso. Trata-se praticamente do dobro da taxa nacional de desemprego, que, segundo o IBGE, é de 12% da população economicamente ativa.\n(Ricardo Westin. $1_{12}$.senado.leg.br, 14.10.2019. Adaptado.)\n\nA condição dos refugiados no Brasil, retratada no excerto, é explicada",
+      principal: "Uma pesquisa feita em 2019 pelo Alto Comissariado das Nações Unidas para Refugiados (Acnur) mostra que 20% dos estrangeiros refugiados no Brasil vêm procurando trabalho, mas sem sucesso. Trata-se praticamente do dobro da taxa nacional de desemprego, que, segundo o IBGE, é de 12% da população economicamente ativa.\n(Ricardo Westin. www_{12}.senado.leg.br, 14.10.2019. Adaptado.)\n\nA condição dos refugiados no Brasil, retratada no excerto, é explicada",
       subItens: []
     },
     options: ["pelas ações de valorização e regularização da condição dos imigrantes no Brasil.","pela dificuldade de os imigrantes se adaptarem às características do mercado de trabalho brasileiro.","pelos estereótipos que envolvem os imigrantes e pela desinformação das empresas contratantes.","pelo preconceito linguístico e pela classe social em que os imigrantes se originam.","pela política que impede a substituição da mão de obra brasileira por imigrantes."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Analise a fórmula estrutural do aspartame.\n\n[IMAGEM: Fórmula estrutural do aspartame. A estrutura mostra um grupo carboxila (COOH) ligado a um carbono quiral. Este carbono está ligado a um grupo amina ($1_{2}$), a um hidrogênio (H) e a uma cadeia lateral que inclui um anel benzênico ligado a um éster metílico ($1_{3}$).\n\nO grupo funcional circulado na figura é o grupo amina ligado diretamente ao carbono quiral (Cα), que também está ligado ao grupo carboxila e ao hidrogênio, e então à outra parte da molécula.\n\n[Texto da figura: aspartame]\n\nA geometria do carbono presente na carboxila e o grupo funcional circulado na figura são, respectivamente,",
+      principal: "Analise a fórmula estrutural do aspartame.\n\n[IMAGEM: Fórmula estrutural do aspartame. A estrutura mostra um grupo carboxila (COOH) ligado a um carbono quiral. Este carbono está ligado a um grupo amina (NH_{2}), a um hidrogênio (H) e a uma cadeia lateral que inclui um anel benzênico ligado a um éster metílico (OCH_{3}).\n\nO grupo funcional circulado na figura é o grupo amina ligado diretamente ao carbono quiral (Cα), que também está ligado ao grupo carboxila e ao hidrogênio, e então à outra parte da molécula.\n\n[Texto da figura: aspartame]\n\nA geometria do carbono presente na carboxila e o grupo funcional circulado na figura são, respectivamente,",
       subItens: []
     },
     options: ["tetraédrica e amida.","trigonal plana e amida.","trigonal plana e amina.","angular e amida.","angular e amina."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Antocianinas são pigmentos presentes em muitas plantas e que apresentam colorações diferentes em função das concentrações de H⁺ e OH⁻ nas soluções, conforme a tabela:\n\n[TABELA: Tabela com duas colunas: pH e Cor da antocianina.\npH: 1 – 2, Cor: Vermelha\npH: 2 – 6, Cor: Incolor\npH: 6 – 8, Cor: Violeta\npH: 8 – 12, Cor: Azul\npH: 12 – 14, Cor: Amarela]\n\nA um béquer contendo 80 mL de solução de hidróxido de sódio (NaOH) de concentração 10⁻¹ mol/L e gotas de solução de antocianina adiciona-se 140 mL de solução de ácido clorídrico (HCl) de concentração 5 × 10⁻² mol/L. Considerando log 4,5 = 0,7 e K_w = 10⁻¹⁴, as colorações da solução inicial e da solução final são, respectivamente,",
+      principal: "Antocianinas são pigmentos presentes em muitas plantas e que apresentam colorações diferentes em função das concentrações de H⁺ e OH⁻ nas soluções, conforme a tabela:\n\n[TABELA: Tabela com duas colunas: pH e Cor da antocianina.\npH: 1 – 2, Cor: Vermelha\npH: 2 – 6, Cor: Incolor\npH: 6 – 8, Cor: Violeta\npH: 8 – 12, Cor: Azul\npH: 12 – 14, Cor: Amarela]\n\nA um béquer contendo 80 mL de solução de hidróxido de sódio (NaOH) de concentração 10⁻¹ $\\\\frac{mol}{L}$ e gotas de solução de antocianina adiciona-se 140 mL de solução de ácido clorídrico (HCl) de concentração 5 × 10⁻² $\\\\frac{mol}{L}$. Considerando log 4,5 = 0,7 e K_w = 10⁻¹⁴, as colorações da solução inicial e da solução final são, respectivamente,",
       subItens: []
     },
     options: ["azul e incolor.","amarela e violeta.","amarela e azul.","vermelha e incolor.","azul e violeta."],
@@ -498,10 +498,10 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "As figuras 1 e 2 representam o equilíbrio _________ entre carbonato de cálcio (CaCO₃), óxido de cálcio (CaO) e dióxido de carbono (CO₂). Nesse equilíbrio, verifica-se que a pressão parcial do gás _________ da quantidade de sólidos presente no sistema e que a constante de equilíbrio para a decomposição do CaCO₃ é expressa por _________.\n\n[IMAGEM: Duas figuras, Figura 1 e Figura 2. Ambas mostram um sistema fechado contendo um sólido no fundo de um recipiente (CaO e $1_{3}$) e um gás ($1_{2}$) na fase gasosa. Na Figura 1, há menos sólido $1_{3}$ e mais $1_{2}$ gasoso. Na Figura 2, há mais sólido $1_{3}$ e menos $1_{2}$ gasoso. Ambos os recipientes têm a legenda \"CaO CaCO₃\" abaixo.\n(Theodore L. Brown et al. Química, a ciência central, 2005.)]\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      principal: "As figuras 1 e 2 representam o equilíbrio _________ entre carbonato de cálcio (CaCO₃), óxido de cálcio (CaO) e dióxido de carbono (CO₂). Nesse equilíbrio, verifica-se que a pressão parcial do gás _________ da quantidade de sólidos presente no sistema e que a constante de equilíbrio para a decomposição do CaCO₃ é expressa por _________.\n\n[IMAGEM: Duas figuras, Figura 1 e Figura 2. Ambas mostram um sistema fechado contendo um sólido no fundo de um recipiente (CaO e CaCO_{3}) e um gás (CO_{2}) na fase gasosa. Na Figura 1, há menos sólido CaCO_{3} e mais CO_{2} gasoso. Na Figura 2, há mais sólido CaCO_{3} e menos CO_{2} gasoso. Ambos os recipientes têm a legenda \"CaO CaCO₃\" abaixo.\n(Theodore L. Brown et al. Química, a ciência central, 2005.)]\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
       subItens: []
     },
-    options: ["heterogêneo; independe; Kc = [CO₂]","heterogêneo; independe; K = C\n[CaO]-[$1_{2}$]\n[$1_{3}$]","homogêneo; independe; K = C\n[CO₂]","heterogêneo; depende; K = C\n[CO₂]","homogêneo; depende; K = C\n[CaO]-[$1_{2}$]\n[$1_{3}$]"],
+    options: ["heterogêneo; independe; Kc = [CO₂]","heterogêneo; independe; K = C\n[CaO]-[CO2]\n[CaCO3]","homogêneo; independe; K = C\n[CO₂]","heterogêneo; depende; K = C\n[CO₂]","homogêneo; depende; K = C\n[CaO]-[CO2]\n[CaCO3]"],
     correctAnswer: 0,
     materia: "Química – Físico-Química",
     conteudo: "",
@@ -516,7 +516,7 @@ createQuestion({
       principal: "O eugenol, anestésico natural encontrado no cravo-da-índia, pode ser utilizado por dentistas. Esse composto apresenta baixa solubilidade em água, mas é muito solúvel em etanol e em solventes orgânicos apolares. Isso ocorre porque, apesar de poder fazer uma ponte de hidrogênio, o eugenol apresenta a maior parte da molécula com forte caráter apolar.\nDe acordo com essas informações sobre o eugenol, a fórmula estrutural desse composto é representada por:",
       subItens: []
     },
-    options: ["[IMAGEM: Estrutura química de um éter com dois grupos metil e um grupo etil, sem anel aromático.]","[IMAGEM: Estrutura química de um éter com um grupo metil e um grupo hidroxila (álcool) ligado a um anel benzênico.]","[IMAGEM: Estrutura química de um álcool com um grupo etil e um grupo metil, sem anel aromático.]","[IMAGEM: Estrutura química do Eugenol, contendo um anel benzênico com um grupo metóxi (-$1_{3}$), um grupo hidroxila (-OH) ligado ao anel, e uma cadeia de propenila (-$1_{2}$-CH=$1_{2}$) ligada ao anel. Isso corresponde à estrutura correta do eugenol.]","[IMAGEM: Estrutura química de um hidrocarboneto policíclico aromático, sem grupos funcionais polares como -OH ou -$1_{3}$.]"],
+    options: ["[IMAGEM: Estrutura química de um éter com dois grupos metil e um grupo etil, sem anel aromático.]","[IMAGEM: Estrutura química de um éter com um grupo metil e um grupo hidroxila (álcool) ligado a um anel benzênico.]","[IMAGEM: Estrutura química de um álcool com um grupo etil e um grupo metil, sem anel aromático.]","[IMAGEM: Estrutura química do Eugenol, contendo um anel benzênico com um grupo metóxi (-OCH3), um grupo hidroxila (-OH) ligado ao anel, e uma cadeia de propenila (-CH2-CH=CH2) ligada ao anel. Isso corresponde à estrutura correta do eugenol.]","[IMAGEM: Estrutura química de um hidrocarboneto policíclico aromático, sem grupos funcionais polares como -OH ou -OCH3.]"],
     correctAnswer: 3,
     materia: "Química – Química Orgânica",
     conteudo: "",
@@ -543,7 +543,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "Determinada massa constante de gás ideal sofre a transformação cíclica ABCDA, representada no diagrama Pressão × Volume.\n\n[IMAGEM: Gráfico de Pressão (P) versus Volume (V). O eixo de Pressão vai de 0 a 4P0, e o eixo de Volume vai de 0 a 4V0. A transformação cíclica começa no ponto A ($1_{0}_{}$, 2V0), vai para B (4P0, 2V0), depois para C (4P0, 4V0), então para D ($1_{0}_{}$, 4V0), e finalmente retorna a A.\n]\n\nSendo T a temperatura absoluta desse gás em cada um dos estados indicados no diagrama, afirma-se que",
+      principal: "Determinada massa constante de gás ideal sofre a transformação cíclica ABCDA, representada no diagrama Pressão × Volume.\n\n[IMAGEM: Gráfico de Pressão (P) versus Volume (V). O eixo de Pressão vai de 0 a 4P0, e o eixo de Volume vai de 0 a 4V0. A transformação cíclica começa no ponto A (P_{0}, 2V0), vai para B (4P0, 2V0), depois para C (4P0, 4V0), então para D (P_{0}, 4V0), e finalmente retorna a A.\n]\n\nSendo T a temperatura absoluta desse gás em cada um dos estados indicados no diagrama, afirma-se que",
       subItens: []
     },
     options: ["T = B T = C","T = C T = D","T = B T = D","T = A T = C","T = A T = B"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Vestibular",
     year: 2022,
     text: {
-      principal: "A reta r passa pela origem (0, 0) do sistema cartesiano de eixos ortogonais e pelos pontos A e B, de ordenadas 4/3 e 2, respectivamente. P é um ponto de coordenadas (xp, 2) e também é colinear aos pontos A e D, como mostra a figura.\n\n[IMAGEM: Gráfico de um sistema de coordenadas cartesianas com eixos x e y. Uma reta \"r\" passa pela origem (0,0). Os pontos A, B, D e P são marcados. O ponto A está na reta r, com ordenada 4/3. O ponto B está na reta r, com ordenada 2. O ponto D está no eixo x. O ponto P está na reta que passa por A e D, e sua ordenada é 2. Um trapézio retângulo ABCD é formado, com vértices A, B, C e D. O lado DC está contido no eixo das abscissas.]\n\nEstando DC contido no eixo das abscissas, a área do trapézio retângulo ABCD, em função de xp, é igual a",
+      principal: "A reta r passa pela origem (0, 0) do sistema cartesiano de eixos ortogonais e pelos pontos A e B, de ordenadas $\\\\frac{4}{3}$ e 2, respectivamente. P é um ponto de coordenadas (xp, 2) e também é colinear aos pontos A e D, como mostra a figura.\n\n[IMAGEM: Gráfico de um sistema de coordenadas cartesianas com eixos x e y. Uma reta \"r\" passa pela origem (0,0). Os pontos A, B, D e P são marcados. O ponto A está na reta r, com ordenada $\\\\frac{4}{3}$. O ponto B está na reta r, com ordenada 2. O ponto D está no eixo x. O ponto P está na reta que passa por A e D, e sua ordenada é 2. Um trapézio retângulo ABCD é formado, com vértices A, B, C e D. O lado DC está contido no eixo das abscissas.]\n\nEstando DC contido no eixo das abscissas, a área do trapézio retângulo ABCD, em função de xp, é igual a",
       subItens: []
     },
     options: ["4xp\n/ 3","3xp\n/ 2","5xp\n/ 6","5xp\n/ 9","2xp\n/ 3"],

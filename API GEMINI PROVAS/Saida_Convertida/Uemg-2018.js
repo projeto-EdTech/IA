@@ -63,7 +63,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Assinale a alternativa correta.\n(Image: A three-panel comic strip titled \"ROTINA\" (Routine) by \"CHEGALLI\".\nPanel 1: \"TODOS OS DIAS, DANIEL ACORDA, VAI PRA EMPRESA, TOMA UM CAFÉ E PASSA A TARDE TODA TRABALHANDO. TODOS OS DIAS A MESMA COISA. MAS HOJE... HOJE ELE NÃO AGUENTA MAIS.\" (Every day, Daniel wakes up, goes to work, has coffee and spends the whole afternoon working. Every day the same thing. But today... Today he can't take it anymore.) Daniel is shown at his desk, head in hands.\nPanel 2: Daniel is shown breaking free from his desk, chair flying, with the word \"CREC!\" (crack!). A voice bubble says \"CHEGALLI\".\nPanel 3: Daniel is shown happily at a cafe table, with a speech bubble \"QUE SE DANE! HOJE VOU TOMAR DOIS CAFÉS!\" (Screw it! Today I'm going to have two coffees!).\nSource: \"Disponível em: <https://digofreitas.com/hq/outros-78-rotina/>. Acesso em: 10 nov. 2017.\")",
+      principal: "Assinale a alternativa correta.\n(Image: A three-panel comic strip titled \"ROTINA\" (Routine) by \"CHEGALLI\".\nPanel 1: \"TODOS OS DIAS, DANIEL ACORDA, VAI PRA EMPRESA, TOMA UM CAFÉ E PASSA A TARDE TODA TRABALHANDO. TODOS OS DIAS A MESMA COISA. MAS HOJE... HOJE ELE NÃO AGUENTA MAIS.\" (Every day, Daniel wakes up, goes to work, has coffee and spends the whole afternoon working. Every day the same thing. But today... Today he can't take it anymore.) Daniel is shown at his desk, head in hands.\nPanel 2: Daniel is shown breaking free from his desk, chair flying, with the word \"CREC!\" (crack!). A voice bubble says \"CHEGALLI\".\nPanel 3: Daniel is shown happily at a cafe table, with a speech bubble \"QUE SE DANE! HOJE VOU TOMAR DOIS CAFÉS!\" (Screw it! Today I'm going to have two coffees!).\nSource: \"Disponível em: <https://digofreitas.$\\\\frac{com}{hq}$/outros-78-rotina/>. Acesso em: 10 nov. 2017.\")",
       subItens: []
     },
     options: ["No primeiro quadrinho do texto \"Rotina\", o narrador coordena várias orações, gerando um efeito de sentido que remete a ações rotineiras. Isso é reforçado pela locução adverbial de tempo.","O uso da expressão \"todos os dias” (Texto “Rotina”, primeiro quadrinho) remete ao sentido de “tenho tempo livre” (Texto “Trabalivre”, penúltimo verso), sentido esse que está ao mesmo tempo implícito na última fala do personagem “Hoje vou tomar dois cafés” (Texto “Rotina”, terceiro quadrinho).","O humor do texto “Rotina” se revela na reação do personagem Daniel diante das atividades maçantes de seu dia a dia, agindo com inconformismo.","A expressão “Chega!!!” (Texto “Rotina”, segundo quadrinho) é formada por um verbo bitransitivo, para o qual há dois complementos implícitos, o objeto direto oracional “que se dane” e o objeto indireto oracional \"de trabalhar\"."],
@@ -198,7 +198,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Considere a seguinte figura:\n(Image: A collage of still frames from the movie \"2001, A Space Odyssey\" showing astronaut David Bowman entering the spherical mother ship from a smaller spherical module, without a helmet. Text overlay: \"EMERGENCY HATCH CLOSE\").\nFonte: http://www.aerospaceweb.org/question/atmosphere/$1_{0291}$.shtml\nA cena resume, fotograficamente, o momento mais marcante do filme \"2001, uma Odisseia no Espaço”, de Stanley Kubrick. É o momento em que o astronauta David Bowman entra na nave-mãe (nave esférica maior) após acoplar, por avizinhamento, seu módulo de voo (nave esférica menor). A cena mostra o astronauta prestes a entrar na nave sem o capacete característico do traje espacial. A cena de entrada dura menos de 10 segundos. É correto afirmar que o astronauta, caso esse fosse um acontecimento real,",
+      principal: "Considere a seguinte figura:\n(Image: A collage of still frames from the movie \"2001, A Space Odyssey\" showing astronaut David Bowman entering the spherical mother ship from a smaller spherical module, without a helmet. Text overlay: \"EMERGENCY HATCH CLOSE\").\nFonte: http://www.aerospaceweb.$\\\\frac{org}{question}$/$\\\\frac{atmosphere}{q_{0291}}$.shtml\nA cena resume, fotograficamente, o momento mais marcante do filme \"2001, uma Odisseia no Espaço”, de Stanley Kubrick. É o momento em que o astronauta David Bowman entra na nave-mãe (nave esférica maior) após acoplar, por avizinhamento, seu módulo de voo (nave esférica menor). A cena mostra o astronauta prestes a entrar na nave sem o capacete característico do traje espacial. A cena de entrada dura menos de 10 segundos. É correto afirmar que o astronauta, caso esse fosse um acontecimento real,",
       subItens: []
     },
     options: ["morreria ou ficaria seriamente ferido, porque seu corpo poderia implodir com a diferença de pressão com o espaço sideral.","viveria, porque seu corpo conseguiria controlar os processos de embolia, hipertemia e aumento de temperatura.","morreria, porque seria incinerado no espaço.","morreria ou ficaria seriamente ferido, porque, devido à temperatura extremamente baixa e à pressão externa, seu corpo sofreria com o congelamento e com os efeitos de alta pressão corpórea em relação à baixíssima pressão do espaço."],
@@ -213,7 +213,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Em uma viagem a Júpiter, deseja-se construir uma nave espacial com uma seção rotacional para simular, por efeitos centrífugos, a gravidade. A seção terá um raio de 90 metros. Quantas rotações por minuto (RPM) deverá ter essa seção para simular a gravidade terrestre? (considere g = 10 m/s²).",
+      principal: "Em uma viagem a Júpiter, deseja-se construir uma nave espacial com uma seção rotacional para simular, por efeitos centrífugos, a gravidade. A seção terá um raio de 90 metros. Quantas rotações por minuto (RPM) deverá ter essa seção para simular a gravidade terrestre? (considere g = 10 $\\\\frac{m}{s}$²).",
       subItens: []
     },
     options: ["10 / π","2/ π","20 / π","15 / π"],
@@ -258,7 +258,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Ao conceber um ser cujas faculdades são tão aguçadas que ele consegue acompanhar cada molécula em seu curso, esse ser, cujos atributos são ainda essencialmente tão finitos quanto os nossos, seria capaz de fazer o que atualmente nos é impossível fazer. Consideramos que as moléculas em um recipiente cheio de ar, a uma temperatura uniforme, movem-se com velocidades que não são de modo algum uniformes. Suponhamos agora que tal recipiente é separado em duas porções, A e B, por meio de uma divisória na qual há um pequeno orifício, e que um ser, que pode ver as moléculas individuais, abre e fecha esse orifício, de forma a permitir que somente as moléculas mais rápidas passem de A para B, e somente as mais lentas passem de B para A. Ele irá, portanto, sem nenhum trabalho, elevar a temperatura de B e baixar a de A, contradizendo a 2ª lei da termodinâmica.\nFonte: https://www.scientiaplena.org.br/sp/article/download/635/296 (Adaptado).\nO enunciado refere-se ao experimento mental intitulado",
+      principal: "Ao conceber um ser cujas faculdades são tão aguçadas que ele consegue acompanhar cada molécula em seu curso, esse ser, cujos atributos são ainda essencialmente tão finitos quanto os nossos, seria capaz de fazer o que atualmente nos é impossível fazer. Consideramos que as moléculas em um recipiente cheio de ar, a uma temperatura uniforme, movem-se com velocidades que não são de modo algum uniformes. Suponhamos agora que tal recipiente é separado em duas porções, A e B, por meio de uma divisória na qual há um pequeno orifício, e que um ser, que pode ver as moléculas individuais, abre e fecha esse orifício, de forma a permitir que somente as moléculas mais rápidas passem de A para B, e somente as mais lentas passem de B para A. Ele irá, portanto, sem nenhum trabalho, elevar a temperatura de B e baixar a de A, contradizendo a 2ª lei da termodinâmica.\nFonte: https://www.scientiaplena.org.$\\\\frac{br}{sp}$/$\\\\frac{article}{download}$/$\\\\frac{635}{296}$ (Adaptado).\nO enunciado refere-se ao experimento mental intitulado",
       subItens: []
     },
     options: ["Gato de Schrödinger.","Matéria e energia escuras.","Demônio de Maxwell.","Paradoxo de Olbers."],
@@ -303,7 +303,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "\"As denúncias de que o exército brasileiro ao lutar na guerra (1864-1870) era formado por escravos não são novas. Ao contrário, têm pelo menos cento e vinte anos. Seus primeiros autores foram os redatores dos jornais paraguaios da época que tratavam de menosprezar o exército brasileiro com base no duvidoso argumento de que, por ser formado por negros, deveria ser de qualidade inferior\". TORAL, André Amaral de. A participação dos negros escravos na guerra do Paraguai. Estudos Avançados. v. 9, nº 24, São Paulo, May/Aug. 1995 (Adaptado). Sobre os negros como partícipes da Guerra do Paraguai, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. Os exércitos paraguaio, brasileiro e uruguaio tinham alguns batalhões formados exclusivamente por negros. Como exemplos, tem-se o Corpo dos Zuavos da Bahia e o batalhão uruguaio Florida.\nII. Na época da Guerra do Paraguai, não existiam negros escravos ou ex-escravos no exército paraguaio. A escravidão havia sido abolida no Paraguai em 1842, por Carlos Lopes, pai de Francisco Solano López.\nIII. Na época da guerra (1864-1870), no Paraguai, o negro brasileiro era representado como inimigo. O exército brasileiro era o exército macacuno e seus líderes, segundo a propaganda lopizta, eram macacos que pretendiam escravizar o povo paraguaio, conduzindo-os da liberdade à escravidão.\nIV. Havia negros no exército brasileiro na Guerra do Paraguai, mas eles já tinham sido libertos.",
+      principal: "\"As denúncias de que o exército brasileiro ao lutar na guerra (1864-1870) era formado por escravos não são novas. Ao contrário, têm pelo menos cento e vinte anos. Seus primeiros autores foram os redatores dos jornais paraguaios da época que tratavam de menosprezar o exército brasileiro com base no duvidoso argumento de que, por ser formado por negros, deveria ser de qualidade inferior\". TORAL, André Amaral de. A participação dos negros escravos na guerra do Paraguai. Estudos Avançados. v. 9, nº 24, São Paulo, $\\\\frac{May}{Aug}$. 1995 (Adaptado). Sobre os negros como partícipes da Guerra do Paraguai, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. Os exércitos paraguaio, brasileiro e uruguaio tinham alguns batalhões formados exclusivamente por negros. Como exemplos, tem-se o Corpo dos Zuavos da Bahia e o batalhão uruguaio Florida.\nII. Na época da Guerra do Paraguai, não existiam negros escravos ou ex-escravos no exército paraguaio. A escravidão havia sido abolida no Paraguai em 1842, por Carlos Lopes, pai de Francisco Solano López.\nIII. Na época da guerra (1864-1870), no Paraguai, o negro brasileiro era representado como inimigo. O exército brasileiro era o exército macacuno e seus líderes, segundo a propaganda lopizta, eram macacos que pretendiam escravizar o povo paraguaio, conduzindo-os da liberdade à escravidão.\nIV. Havia negros no exército brasileiro na Guerra do Paraguai, mas eles já tinham sido libertos.",
       subItens: []
     },
     options: ["Apenas I e III.","Apenas II e IV.","Apenas I e IV.","Apenas I, II e III."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Sobre trigonometria, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. cos(x) = 2 cos² (x/2) - 1.\nII. O valor de (1 + cotg²x)(1 – cos²x), para x ≠ kn, com k inteiro, é igual a 1.\nIII. A medida do arco trigonométrico da 1ª volta positiva, côngruo ao arco de medida -40°, é 40°.\nIV. tg 50°.$1_{310}$° < 0.",
+      principal: "Sobre trigonometria, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. cos(x) = 2 cos² ($\\\\frac{x}{2}$) - 1.\nII. O valor de (1 + cotg²x)(1 – cos²x), para x ≠ kn, com k inteiro, é igual a 1.\nIII. A medida do arco trigonométrico da 1ª volta positiva, côngruo ao arco de medida -40°, é 40°.\nIV. tg 50°.tg_{310}° < 0.",
       subItens: []
     },
     options: ["Apenas I, II e IV.","Apenas I, II e III.","Apenas I e IV.","Apenas II e III."],
@@ -456,7 +456,7 @@ createQuestion({
       principal: "O formaldeído é um gás incolor, muito solúvel em água, com odor muito forte e irritante. Em geral, é usado como solução aquosa contendo 40% de formaldeído, sendo assim chamado de formol ou formalina. Na medicina, é utilizado como conservador de cadáveres e peças anatômicas, além do uso como desinfetante. De acordo com a estrutura e as propriedades do formaldeído, assinale a alternativa correta.",
       subItens: []
     },
-    options: ["Na presença de um oxidante, em meio ácido, o formaldeído se converte em ácido acético.","O número de oxidação (Nox) correspondente ao átomo de carbono na molécula de formaldeído é igual a +1.","A molécula do formaldeído possui uma ligação $\pi$ (π) e três ligações sigma.","A estrutura molecular do formaldeído é a pirâmide trigonal."],
+    options: ["Na presença de um oxidante, em meio ácido, o formaldeído se converte em ácido acético.","O número de oxidação (Nox) correspondente ao átomo de carbono na molécula de formaldeído é igual a +1.","A molécula do formaldeído possui uma ligação pi (π) e três ligações sigma.","A estrutura molecular do formaldeído é a pirâmide trigonal."],
     correctAnswer: 2,
     materia: "Química – Química Orgânica (Aldeídos)",
     conteudo: "Química – Ligações Químicas",
@@ -468,7 +468,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Para a produção de gás hidrogênio, em um recipiente fechado e à temperatura constante, introduziu-se monóxido de carbono e vapor de água, os quais apresentavam pressões parciais iguais, de 0,90 atm cada. Após um determinado tempo, o equilíbrio químico foi atingido, CO(g) + $1_{2}O_{}$(g) ⇌ $1_{2}$(g) + $1_{2}_{}$(g), e medindo-se a pressão parcial do monóxido de carbono obteve-se 0,60 atm. Diante dessa afirmação, assinale a alternativa que apresenta o valor da constante de equilíbrio, Kp, para a reação exposta.",
+      principal: "Para a produção de gás hidrogênio, em um recipiente fechado e à temperatura constante, introduziu-se monóxido de carbono e vapor de água, os quais apresentavam pressões parciais iguais, de 0,90 atm cada. Após um determinado tempo, o equilíbrio químico foi atingido, CO(g) + H_{2}O(g) ⇌ CO_{2}(g) + H_{2}(g), e medindo-se a pressão parcial do monóxido de carbono obteve-se 0,60 atm. Diante dessa afirmação, assinale a alternativa que apresenta o valor da constante de equilíbrio, Kp, para a reação exposta.",
       subItens: []
     },
     options: ["1/4","1/9","0,44","4,0"],
@@ -486,7 +486,7 @@ createQuestion({
       principal: "Em relação às propriedades de ácidos e bases e às possíveis reações entre eles, assinale a alternativa correta.",
       subItens: []
     },
-    options: ["O hidróxido de alumínio, Al(OH)3, é uma base fraca, porém muito solúvel em água.","A reação entre o ácido fosfórico e o hidróxido de cálcio forma o sal fosfato de cálcio, de fórmula $1_{2}_{}$($1_{4}$)3.","O hidróxido férrico possui a fórmula molecular Fe(OH)2.","A reação entre hidróxido de potássio com hidróxido de sódio e ácido sulfúrico forma o sulfato duplo de potássio e sódio (KNaSO₄)."],
+    options: ["O hidróxido de alumínio, Al(OH)3, é uma base fraca, porém muito solúvel em água.","A reação entre o ácido fosfórico e o hidróxido de cálcio forma o sal fosfato de cálcio, de fórmula Ca2(PO4)3.","O hidróxido férrico possui a fórmula molecular Fe(OH)2.","A reação entre hidróxido de potássio com hidróxido de sódio e ácido sulfúrico forma o sulfato duplo de potássio e sódio (KNaSO₄)."],
     correctAnswer: 1,
     materia: "Química – Funções Inorgânicas (Ácidos e Bases)",
     conteudo: "Química – Reações Químicas (Neutralização)",
@@ -498,7 +498,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "O selênio, um não metal do grupo dos calcogênios, possui extrema importância biológica, pois é um micronutriente indispensável para todas as formas de vida. É formado por átomos que possuem a representação $1_{79}_{}$. É correto afirmar que o selênio apresenta",
+      principal: "O selênio, um não metal do grupo dos calcogênios, possui extrema importância biológica, pois é um micronutriente indispensável para todas as formas de vida. É formado por átomos que possuem a representação Se_{79}. É correto afirmar que o selênio apresenta",
       subItens: []
     },
     options: ["45 partículas nucleares.","113 partículas nucleares.","6 elétrons na camada de valência.","2 elétrons na camada de valência."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Em um balão volumétrico, foram adicionados 60 mL de uma solução de $1_{3}$ de concentração desconhecida e 40 mL de solução de KOH 0,4 mol/L. Sabendo-se que o pH final da mistura é igual a 12, é correto afirmar que a molaridade da solução de ácido nítrico era de",
+      principal: "Em um balão volumétrico, foram adicionados 60 mL de uma solução de HNO_{3} de concentração desconhecida e 40 mL de solução de KOH 0,4 $\\\\frac{mol}{L}$. Sabendo-se que o pH final da mistura é igual a 12, é correto afirmar que a molaridade da solução de ácido nítrico era de",
       subItens: []
     },
     options: ["0,1 mol/L.","0,25 mol/L.","0,4 mol/L.","0,55 mol/L."],
@@ -528,10 +528,10 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Considerando as seguintes semirreações, em uma célula galvânica com eletrodos de alumínio e chumbo, é correto afirmar que $1_{3}_{}$+ + 3e- ⇄ $1_{0}_{}$ E°red = -0,13 V $1_{2}_{}$+ + 2e- ⇄ $1_{0}_{}$ E°red = -1,66 V",
+      principal: "Considerando as seguintes semirreações, em uma célula galvânica com eletrodos de alumínio e chumbo, é correto afirmar que Al_{3}+ + 3e- ⇄ Al_{0} E°red = -0,13 V Pb_{2}+ + 2e- ⇄ Pb_{0} E°red = -1,66 V",
       subItens: []
     },
-    options: ["$1_{3}_{}$+ é agente redutor e Pbº é agente oxidante.","$1_{2}_{}$+ é a espécie que reduz.","a ddp da célula galvânica é igual a -1,79 V.","a soma dos coeficientes estequiométricos da reação global equivale a 10."],
+    options: ["Al3+ é agente redutor e Pbº é agente oxidante.","Pb2+ é a espécie que reduz.","a ddp da célula galvânica é igual a -1,79 V.","a soma dos coeficientes estequiométricos da reação global equivale a 10."],
     correctAnswer: 3,
     materia: "Química – Eletroquímica (Células Galvânicas)",
     conteudo: "Química – Potenciais de Redução",
@@ -663,7 +663,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "\"O acidente em Mariana ficou conhecido no Brasil como o maior desastre ambiental da história e deixou 19 pessoas mortas, além de destruir o distrito de Bento Rodrigues, contaminar a Bacia Hidrográfica do Rio Doce e comprometer o abastecimento de água e a produção de alimentos em diversas cidades da região.\" Disponível em: <http://agenciabrasil.ebc.com.br/geral/noticia/2017-08/juiz-suspende-acao-criminal-contra-mineradoras-por-acidente-em-mariana>. Acesso em: 21 nov. 2017. Sobre o rompimento da Barragem Fundão em Mariana, é correto afirmar que",
+      principal: "\"O acidente em Mariana ficou conhecido no Brasil como o maior desastre ambiental da história e deixou 19 pessoas mortas, além de destruir o distrito de Bento Rodrigues, contaminar a Bacia Hidrográfica do Rio Doce e comprometer o abastecimento de água e a produção de alimentos em diversas cidades da região.\" Disponível em: <http://agenciabrasil.ebc.com.$\\\\frac{br}{geral}$/$\\\\frac{noticia}{2017}$-$\\\\frac{08}{juiz}$-suspende-acao-criminal-contra-mineradoras-por-acidente-em-mariana>. Acesso em: 21 nov. 2017. Sobre o rompimento da Barragem Fundão em Mariana, é correto afirmar que",
       subItens: []
     },
     options: ["desastres socioambientais ligados às atividades mineradoras, no Brasil e no mundo, são fenômenos raros.","Os rejeitos contaminantes que acompanharam o rastro de morte na bacia hidrográfica do Rio Doce eram de bauxita e nióbio.","As principais controladoras da SAMARCO são as empresas VALE e a anglo-australiana BHP Billiton.","A destruição dos corpos hídricos se concentrou a montante do leito de vazão do Rio Doce."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "\"A Espanha, assim como inúmeros outros Estados atualmente constituídos, é um território multinacional, ou seja, é formada por várias nações ou por diversos grupos étnicos regionais com identidade nacional diferenciada àquela do país ao qual pertencem. Nesse sentido, esse território é um dos principais locais do mundo em que há movimentos separatistas, com um forte clamor pela independência local em busca da constituição de um novo país.\" Disponível em: <http://mundoeducacao.bol.uol.com.br/geografia/movimentos-separatistas-na-catalunha.htm>. Acesso em: 23 nov. 2017. Referente às diversas nacionalidades que coexistem no território estatal da Espanha, assinale a alternativa correta.",
+      principal: "\"A Espanha, assim como inúmeros outros Estados atualmente constituídos, é um território multinacional, ou seja, é formada por várias nações ou por diversos grupos étnicos regionais com identidade nacional diferenciada àquela do país ao qual pertencem. Nesse sentido, esse território é um dos principais locais do mundo em que há movimentos separatistas, com um forte clamor pela independência local em busca da constituição de um novo país.\" Disponível em: <http://mundoeducacao.bol.uol.com.$\\\\frac{br}{geografia}$/movimentos-separatistas-na-catalunha.htm>. Acesso em: 23 nov. 2017. Referente às diversas nacionalidades que coexistem no território estatal da Espanha, assinale a alternativa correta.",
       subItens: []
     },
     options: ["A segunda maior comunidade populacional da Espanha é a Catalã, a qual só é inferior à comunidade Andaluzia.","As comunidades autônomas na Espanha começaram a existir logo após o fim da Guerra Civil espanhola em 1939.","Dentre as comunidades autônomas que lutam oficialmente pelo separatismo na Espanha, estão grupos étnicos Bascos, Catalães, Madrilenhos e Galegos.","O quadro Guernica de Pablo Picasso buscou representar exatamente a diversidade étnica espanhola durante a 1ª Guerra Mundial."],
@@ -693,7 +693,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Texto referente à questão nº 47.\nDESENREDO\nAdélia Prado\nGrande admiração me causam os navios\ne a letra de certas pessoas que esforço por imitar.\nDos meus, só eu conheço o mar.\nConto e reconto, eles dizem \"anh\".\nE continuam cercando o galinheiro de tela.\nFalo da espuma, do tamanho cansativo das águas,\neles nem lembram que tem o Quênia,\nnem de leve adivinham que estou pensando em Tanzânia.\nAfainosos me mostram o lote: aqui vai ser a cozinha,\nlogo ali a horta de couve.\nNão sei o que fazer com o litoral.\nFazia tarde bonita quando me inseri na janela, entre meus tios,\ne vi o homem com a braguilha aberta,\no pé de rosa-doida enjerizado de rosas.\nHoras e horas conversamos inconscientemente em português\ncomo se fora esta a única língua do mundo.\nAntes e depois da fé eu pergunto cadê os meus que se foram,\nporque sou humana, com capricho tampo o restinho de molho na panela.\nSaberemos viver uma vida melhor que esta,\nquando mesmo chorando é tão bom estarmos juntos?\nSofrer não é em língua nenhuma.\nSofri e sofro em Minas Gerais e na beira do oceano.\nEstarreço de estar viva. Ó luar do sertão,\nó matas que não preciso ver pra me perder,\nó cidades grandes, Estados do Brasil que amo como se os tivesse inventado.\nSer brasileiro me determina de modo emocionante\ne isto, que posso chamar de destino, sem pecar,\ndescansa meu bem querer.\nTudo junto é inteligível demais e eu não suporto.\nValha-me noite que me cobre de sono.\nO pensamento da morte não se acostuma comigo.\nEstremecerei de susto até dormir.\nE no entanto é tudo tão pequeno.\nPara o desejo do meu coração\no mar é uma gota.\nDisponível em: <http://bernardesdemoura.blogspot.com.br/2004/12/adlia-prado.html>. Acesso em: 24 nov. 2017.\nAo ler o poema apresentado, que faz uma leitura do Brasil considerando vários elementos da paisagem, do território e da formação do País a partir da perspectiva de uma geografia histórica, é correto afirmar que",
+      principal: "Texto referente à questão nº 47.\nDESENREDO\nAdélia Prado\nGrande admiração me causam os navios\ne a letra de certas pessoas que esforço por imitar.\nDos meus, só eu conheço o mar.\nConto e reconto, eles dizem \"anh\".\nE continuam cercando o galinheiro de tela.\nFalo da espuma, do tamanho cansativo das águas,\neles nem lembram que tem o Quênia,\nnem de leve adivinham que estou pensando em Tanzânia.\nAfainosos me mostram o lote: aqui vai ser a cozinha,\nlogo ali a horta de couve.\nNão sei o que fazer com o litoral.\nFazia tarde bonita quando me inseri na janela, entre meus tios,\ne vi o homem com a braguilha aberta,\no pé de rosa-doida enjerizado de rosas.\nHoras e horas conversamos inconscientemente em português\ncomo se fora esta a única língua do mundo.\nAntes e depois da fé eu pergunto cadê os meus que se foram,\nporque sou humana, com capricho tampo o restinho de molho na panela.\nSaberemos viver uma vida melhor que esta,\nquando mesmo chorando é tão bom estarmos juntos?\nSofrer não é em língua nenhuma.\nSofri e sofro em Minas Gerais e na beira do oceano.\nEstarreço de estar viva. Ó luar do sertão,\nó matas que não preciso ver pra me perder,\nó cidades grandes, Estados do Brasil que amo como se os tivesse inventado.\nSer brasileiro me determina de modo emocionante\ne isto, que posso chamar de destino, sem pecar,\ndescansa meu bem querer.\nTudo junto é inteligível demais e eu não suporto.\nValha-me noite que me cobre de sono.\nO pensamento da morte não se acostuma comigo.\nEstremecerei de susto até dormir.\nE no entanto é tudo tão pequeno.\nPara o desejo do meu coração\no mar é uma gota.\nDisponível em: <http://bernardesdemoura.blogspot.com.$\\\\frac{br}{2004}$/$\\\\frac{12}{adlia}$-prado.html>. Acesso em: 24 nov. 2017.\nAo ler o poema apresentado, que faz uma leitura do Brasil considerando vários elementos da paisagem, do território e da formação do País a partir da perspectiva de uma geografia histórica, é correto afirmar que",
       subItens: []
     },
     options: ["a oposição entre Sertão e Litoral teve papel determinante no pensamento social brasileiro.","os \"Estados do Brasil\" resultam de um processo natural, não podendo ter sido inventados.","a natureza foi desconsiderada no processo de formação identitária da nação brasileira.","Minas Gerais, distante do Mar, não manteve relações com a África em sua formação socioterritorial."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "A propalada crise climática global atual tem, como uma de suas causas, a emissão de dióxido de carbono ($1_{2}$) na atmosfera. A criação de Créditos de Carbono foi umas das supostas saídas encontradas para o problema. Sobre os Créditos de Carbono, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.\n() Cada Crédito de Carbono é equivalente a 1T (uma tonelada) de CO² não emitida ou retirada da atmosfera por um País.\n() Os Créditos de Carbono foram criados, em 1997, no Japão, quando houve a assinatura do Protocolo de Kyoto pelos países que se comprometeram a assinar esse acordo.\n() Os Estados Unidos, maior emissor de gases poluentes do mundo, lidera a aplicação das políticas definidas no Protocolo de Kyoto.\n() Créditos de Carbono são certificados negociados como mercadorias nas bolsas de valores.",
+      principal: "A propalada crise climática global atual tem, como uma de suas causas, a emissão de dióxido de carbono (CO_{2}) na atmosfera. A criação de Créditos de Carbono foi umas das supostas saídas encontradas para o problema. Sobre os Créditos de Carbono, informe se é verdadeiro (V) ou falso (F) o que se afirma a seguir e assinale a alternativa com a sequência correta.\n() Cada Crédito de Carbono é equivalente a 1T (uma tonelada) de CO² não emitida ou retirada da atmosfera por um País.\n() Os Créditos de Carbono foram criados, em 1997, no Japão, quando houve a assinatura do Protocolo de Kyoto pelos países que se comprometeram a assinar esse acordo.\n() Os Estados Unidos, maior emissor de gases poluentes do mundo, lidera a aplicação das políticas definidas no Protocolo de Kyoto.\n() Créditos de Carbono são certificados negociados como mercadorias nas bolsas de valores.",
       subItens: []
     },
     options: ["F – V – F – V.","V – F – V – F.","V – V – F – V.","V – F – F – F."],
@@ -798,7 +798,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2018,
     text: {
-      principal: "Taking into account the following image and the comment made by the husband, what will probably be Loretta's gift this Christmas?\n(Image: A comic strip by Hoest and Reiner, \"The Lockhorns\", dated 12-16. Loretta is shown looking at a fancy vase in a store window. Leroy, her husband, is looking away from her, rolling his eyes, saying: \"THIS CHRISTMAS, LORETTA, LET'S JUST EXCHANGE GLANCES.”).\nSource: <http://comicskingdom.com/blog/2014/12/02/tuesday-s-top-ten-comics-holiday-shopping-gift-giving>. Acesso em: 15 nov. 2017.",
+      principal: "Taking into account the following image and the comment made by the husband, what will probably be Loretta's gift this Christmas?\n(Image: A comic strip by Hoest and Reiner, \"The Lockhorns\", dated 12-16. Loretta is shown looking at a fancy vase in a store window. Leroy, her husband, is looking away from her, rolling his eyes, saying: \"THIS CHRISTMAS, LORETTA, LET'S JUST EXCHANGE GLANCES.”).\nSource: <http://comicskingdom.$\\\\frac{com}{blog}$/$\\\\frac{2014}{12}$/$\\\\frac{02}{tuesday}$-s-top-ten-comics-holiday-shopping-gift-giving>. Acesso em: 15 nov. 2017.",
       subItens: []
     },
     options: ["She'll probably get a set of wine glasses.","She'll probably get a fancy vase.","She'll probably exchange cards with her husband.","She'll probably exchange a quick look with her husband."],

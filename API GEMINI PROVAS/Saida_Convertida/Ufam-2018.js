@@ -441,7 +441,7 @@ createQuestion({
       principal: "São vitaminas hidrossolúveis e lipossolúveis, respectivamente:",
       subItens: []
     },
-    options: ["B₁ e $1_{2}_{}$.","Retinol e tiamina.","Niacina e tocoferol.","Ácido pantotênico e $1_{12}_{}$.","Filoquinona e ácido ascórbico."],
+    options: ["B₁ e B2.","Retinol e tiamina.","Niacina e tocoferol.","Ácido pantotênico e B12.","Filoquinona e ácido ascórbico."],
     correctAnswer: 2,
     materia: "Biologia – Fisiologia Humana",
     conteudo: "Biologia – Vitaminas",
@@ -561,7 +561,7 @@ createQuestion({
       principal: "A regra do octeto é amplamente utilizada para explicar as ligações químicas. É uma regra química que afirma que os átomos de baixo número atômico tendem a combinar ou tornar-se íons de modo que cada um deles tem oito elétrons em sua camada de valência, dando-lhes a mesma configuração eletrônica como um gás nobre (e, portanto, mais estabilidade). Mas existem algumas exceções que violam a regra do octeto. Nesse caso, em qual das seguintes espécies químicas a “regra do octeto\" é violada?",
       subItens: []
     },
-    options: ["$1_{2}$","$1_{2}$","$1_{2}$-","$1_{4}$","$1_{2}O_{3}$"],
+    options: ["NO2","CO2","NH2-","SO4","Al2O3"],
     correctAnswer: 0,
     materia: "Química – Ligações Químicas",
     conteudo: "",
@@ -573,7 +573,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "Os óxidos são compostos binários, ou seja, formados por dois elementos, sendo o oxigênio o mais eletronegativo entre eles. Eles são classificados em função do seu comportamento na presença de água, bases e ácidos. Associe CORRETAMENTE a segunda coluna com a primeira:\nI. AS2O3 () óxido ácido\nII. CO () óxido anfótero\nIII. $1_{3}O_{4}$ () óxido básico\nIV. $1_{2}O_{5}$\nV. Sro () óxido duplo ou misto\n() óxido neutro\nAssinale a alternativa que apresenta a sequência correta de cima para baixo:",
+      principal: "Os óxidos são compostos binários, ou seja, formados por dois elementos, sendo o oxigênio o mais eletronegativo entre eles. Eles são classificados em função do seu comportamento na presença de água, bases e ácidos. Associe CORRETAMENTE a segunda coluna com a primeira:\nI. AS2O3 () óxido ácido\nII. CO () óxido anfótero\nIII. Fe_{3}O_{4} () óxido básico\nIV. N_{2}O_{5}\nV. Sro () óxido duplo ou misto\n() óxido neutro\nAssinale a alternativa que apresenta a sequência correta de cima para baixo:",
       subItens: []
     },
     options: ["II, III, IV, I e V","IV, I, V, III e II","IV, II, III, V e I","V, III, IV, I e II","V, IV, III, I e II"],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "Em 1789, Nicolas Leblanc (1742-1806) conseguiu desenvolver um processo, na época considerado muito bom, para produzir carbonato de sódio a partir do NaCl. As equações químicas do processo são mostradas a seguir:\$1_{1}$. 2NaCl(s) + $1_{2}SO_{4}$(aq) → X + 2HCl(g)\nII. X + 4C(s) → Y + 4CO(g)\nIII. Y + $1_{3}$(s) → $1_{2}CO_{3}$(s) + Z\nComplete CORRETAMENTE as equações químicas, identificando os produtos X, Y e Z, respectivamente:",
+      principal: "Em 1789, Nicolas Leblanc (1742-1806) conseguiu desenvolver um processo, na época considerado muito bom, para produzir carbonato de sódio a partir do NaCl. As equações químicas do processo são mostradas a seguir:\n1. 2NaCl(s) + H_{2}SO_{4}(aq) → X + 2HCl(g)\nII. X + 4C(s) → Y + 4CO(g)\nIII. Y + CaCO_{3}(s) → Na_{2}CO_{3}(s) + Z\nComplete CORRETAMENTE as equações químicas, identificando os produtos X, Y e Z, respectivamente:",
       subItens: []
     },
     options: ["sulfato de sódio, sulfeto de sódio e sulfeto de cálcio","sulfeto de sódio, sulfato de sódio e sulfeto de cálcio","sulfeto de sódio, sulfeto de cálcio e sulfato de sódio","sulfeto de cálcio, sulfato de sódio e sulfeto de sódio","sulfito de sódio, sulfeto de sódio e sulfeto de cálcio"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "Considere a situação na qual uma pessoa, por descuido, deixa cair um objeto de um balão de ar quente, subindo verticalmente a uma taxa de 6m/s. Considerando que o objeto estava numa altura de 78,2m acima do solo quando foi solto, e desprezando o arrasto com o ar, podemos afirmar que o intervalo de tempo decorrido até que o objeto atinja o solo foi de:",
+      principal: "Considere a situação na qual uma pessoa, por descuido, deixa cair um objeto de um balão de ar quente, subindo verticalmente a uma taxa de $\\\\frac{6m}{s}$. Considerando que o objeto estava numa altura de 78,2m acima do solo quando foi solto, e desprezando o arrasto com o ar, podemos afirmar que o intervalo de tempo decorrido até que o objeto atinja o solo foi de:",
       subItens: []
     },
     options: ["3,6s","3,8s","3,9s","4,0s","4,6s"],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "Um menino amarra uma pedra de 100g na extremidade de um fio e coloca-a para girar acima de sua cabeça, descrevendo uma circunferência horizontal com 1,25m de raio e velocidade escalar constante de 18km/h. Analise as afirmativas a seguir:\nI. Sendo a velocidade escalar da pedra constante, não há aceleração no movimento circular.\nII. A intensidade da força de tração no fio é igual a 2N.\nIII. O período de revolução do movimento da pedra é de 1,5s.\nIV. Se o raio do movimento circular da pedra for reduzido para 1,0m, a intensidade da força de tração no fio aumenta para 2,25N.\nAssinale a alternativa correta:",
+      principal: "Um menino amarra uma pedra de 100g na extremidade de um fio e coloca-a para girar acima de sua cabeça, descrevendo uma circunferência horizontal com 1,25m de raio e velocidade escalar constante de $\\\\frac{18km}{h}$. Analise as afirmativas a seguir:\nI. Sendo a velocidade escalar da pedra constante, não há aceleração no movimento circular.\nII. A intensidade da força de tração no fio é igual a 2N.\nIII. O período de revolução do movimento da pedra é de 1,5s.\nIV. Se o raio do movimento circular da pedra for reduzido para 1,0m, a intensidade da força de tração no fio aumenta para 2,25N.\nAssinale a alternativa correta:",
       subItens: []
     },
     options: ["Somente as afirmativas I e III estão corretas","Somente as afirmativas I e IV estão corretas","Somente as afirmativas II e III estão corretas","Somente as afirmativas II, III e IV estão corretas","Todas as afirmativas estão corretas"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "O termo \"exoplaneta” refere-se a um planeta que orbita uma estrela que não seja o Sol. A descoberta dos primeiros exoplanetas foi anunciada em 1989, com a maioria dos exoplanetas possuindo condições inóspitas à existência da vida, tal como a conhecemos na Terra. O exoplaneta Kepler-186f, descoberto em 17/04/2014, possui tamanho semelhante ao da Terra e orbita a estrela ană vermelha Kepler-186, numa zona habitável. Kepler-186f possui raio igual a 1,1 vezes do raio da Terra e período de revolução de 129,9 dias terrestres, mas sua massa ainda é desconhecida. Supondo que a massa de Kepler-186f seja igual à da Terra, podemos afirmar que a aceleração da gravidade na superfície da Terra é:",
+      principal: "O termo \"exoplaneta” refere-se a um planeta que orbita uma estrela que não seja o Sol. A descoberta dos primeiros exoplanetas foi anunciada em 1989, com a maioria dos exoplanetas possuindo condições inóspitas à existência da vida, tal como a conhecemos na Terra. O exoplaneta Kepler-186f, descoberto em $\\\\frac{17}{04}$/2014, possui tamanho semelhante ao da Terra e orbita a estrela ană vermelha Kepler-186, numa zona habitável. Kepler-186f possui raio igual a 1,1 vezes do raio da Terra e período de revolução de 129,9 dias terrestres, mas sua massa ainda é desconhecida. Supondo que a massa de Kepler-186f seja igual à da Terra, podemos afirmar que a aceleração da gravidade na superfície da Terra é:",
       subItens: []
     },
     options: ["21% menor que a aceleração da gravidade na superfície de Kepler-186f.","igual à aceleração da gravidade na superfície de Kepler-186f.","10% maior que a aceleração da gravidade na superfície de Kepler-186f.","21% maior que a aceleração da gravidade na superfície de Kepler-186f.","10% menor que a aceleração da gravidade na superfície de Kepler-186f."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "Areia movediça se forma quando a água se mistura com a areia, separando os grãos e eliminando o atrito que os impede de se mover uns em relação aos outros. Poços de areia movediça podem se formar quando a água se infiltra em bolsões de areia, podendo ocorrer em locais como margens de rios, praias, etc. Nos filmes de ação, vemos a situação na qual uma pessoa cai num poço de areia movediça e afunda aos poucos até submergir completamente. Considerando que a massa específica da areia movediça de um poço profundo vale 1,9g/cm³ e que a massa específica do corpo humano seja uniforme e igual a 95% da massa específica da água, podemos afirmar que, se uma pessoa cair num poço de areia movediça, ela irá:",
+      principal: "Areia movediça se forma quando a água se mistura com a areia, separando os grãos e eliminando o atrito que os impede de se mover uns em relação aos outros. Poços de areia movediça podem se formar quando a água se infiltra em bolsões de areia, podendo ocorrer em locais como margens de rios, praias, etc. Nos filmes de ação, vemos a situação na qual uma pessoa cai num poço de areia movediça e afunda aos poucos até submergir completamente. Considerando que a massa específica da areia movediça de um poço profundo vale 1,$\\\\frac{9g}{cm}$³ e que a massa específica do corpo humano seja uniforme e igual a 95% da massa específica da água, podemos afirmar que, se uma pessoa cair num poço de areia movediça, ela irá:",
       subItens: []
     },
     options: ["flutuar com 50% de seu corpo submerso.","flutuar com 95% de seu corpo submerso.","flutuar com 75% de seu corpo submerso.","flutuar com 90% de seu corpo submerso.","submergir completamente, como nos filmes de ação."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "Resolvendo em R a inequação\$1_{25}$(x² – x) > $1_{25}$(2x + 10)\ndeve-se obter como solução (S):",
+      principal: "Resolvendo em R a inequação\nlog_{25}(x² – x) > log_{25}(2x + 10)\ndeve-se obter como solução (S):",
       subItens: []
     },
     options: ["S = {x ∈ R|-5<x< -2 ou x > 5}","S = {x ∈ R|-5<x<0ou x > 1}","S = {x ∈ R | x < -2 ou x > 5}","S = {x ∈ R|-5<x<-5}","S = Ø"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2018,
     text: {
-      principal: "Considere as progressões geométricas infinitas (1/2, 1/4, 1/8, 1/16, ...) e (1/3, 1/9, 1/27, 1/81,...). Se a e b são as respectivas somas destas progressões, então o valor de a+b é:",
+      principal: "Considere as progressões geométricas infinitas ($\\\\frac{1}{2}$, $\\\\frac{1}{4}$, $\\\\frac{1}{8}$, $\\\\frac{1}{16}$, ...) e ($\\\\frac{1}{3}$, $\\\\frac{1}{9}$, $\\\\frac{1}{27}$, $\\\\frac{1}{81}$,...). Se a e b são as respectivas somas destas progressões, então o valor de a+b é:",
       subItens: []
     },
     options: ["2/3","3/2","4/3","5/3","7/3"],

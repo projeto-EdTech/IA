@@ -288,7 +288,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "O texto a seguir, da jornalista Luciana Coelho, foi publicado no Caderno de Turismo da Folha de São Paulo em 21/09/2006. Refere-se a Istambul, cidade turca com terras em dois continentes, que até já foi destaque em folhetim da Rede Globo que explorou o tráfico humano.\n\"[...] capital de dois impérios o bizantino e o otomano , Istambul aparece na história com os nomes de Bizâncio e Constantinopla [...]. É como se cada peça do mosaico, ou cada esquina, exalasse a história de uma época diferente [...]. Elementos, que à primeira vista parecem tão díspares, se encaixam à perfeição [...]. No atravessar de uma ponte [...] os gritos que convocam os muçulmanos para a reza confundem-se com o burburinho de uma rua comercial europeizada. De ambos os lados, véus coloridíssimos sobre a cabeça das muçulmanas perambulam junto a minissaias e maquiagem exagerada, como se o abismo Ocidente-Oriente que em outros pontos alimenta guerras aqui servisse apenas para explicar que a convivência [...] pode ser harmônica. Mais do que harmônica, cativante. Os istambulis são hospitaleiros e amigáveis – sorridentes, prontos para dar informações, conversar ou oferecer uma xícara de chá\".\nO que podemos afirmar sobre a história de Istambul na época em que ela se chamava Constantinopla?\nI. Teve o seu apogeu com o governo de Constantino, que ao rebatizá-la com o seu próprio nome, transformou na única capital do Império Romano em detrimento de Roma e Ravena.\nII. Foi palco da revolta de Niké (vitória), manifestação popular contra os altos impostos e o abuso de autoridade do imperador Justiniano.\nIII. Desempenhou papel fundamental no comércio entre Ocidente e Oriente durante todo o Medievo.\nIV. Jamais caiu nas mãos dos invasores \"bárbaros\" e os reis germânicos nunca substituíram os imperadores bizantinos.\nAssinale a alternativa correta:",
+      principal: "O texto a seguir, da jornalista Luciana Coelho, foi publicado no Caderno de Turismo da Folha de São Paulo em $\\\\frac{21}{09}$/2006. Refere-se a Istambul, cidade turca com terras em dois continentes, que até já foi destaque em folhetim da Rede Globo que explorou o tráfico humano.\n\"[...] capital de dois impérios o bizantino e o otomano , Istambul aparece na história com os nomes de Bizâncio e Constantinopla [...]. É como se cada peça do mosaico, ou cada esquina, exalasse a história de uma época diferente [...]. Elementos, que à primeira vista parecem tão díspares, se encaixam à perfeição [...]. No atravessar de uma ponte [...] os gritos que convocam os muçulmanos para a reza confundem-se com o burburinho de uma rua comercial europeizada. De ambos os lados, véus coloridíssimos sobre a cabeça das muçulmanas perambulam junto a minissaias e maquiagem exagerada, como se o abismo Ocidente-Oriente que em outros pontos alimenta guerras aqui servisse apenas para explicar que a convivência [...] pode ser harmônica. Mais do que harmônica, cativante. Os istambulis são hospitaleiros e amigáveis – sorridentes, prontos para dar informações, conversar ou oferecer uma xícara de chá\".\nO que podemos afirmar sobre a história de Istambul na época em que ela se chamava Constantinopla?\nI. Teve o seu apogeu com o governo de Constantino, que ao rebatizá-la com o seu próprio nome, transformou na única capital do Império Romano em detrimento de Roma e Ravena.\nII. Foi palco da revolta de Niké (vitória), manifestação popular contra os altos impostos e o abuso de autoridade do imperador Justiniano.\nIII. Desempenhou papel fundamental no comércio entre Ocidente e Oriente durante todo o Medievo.\nIV. Jamais caiu nas mãos dos invasores \"bárbaros\" e os reis germânicos nunca substituíram os imperadores bizantinos.\nAssinale a alternativa correta:",
       subItens: []
     },
     options: ["Somente a afirmativa I está errada.","Somente a afirmativa II está errada.","Somente a afirmativa III está errada.","Somente a afirmativa IV está errada.","Todas as afirmativas estão erradas."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "A crise econômica dos séculos XIV-XV produziu uma profunda inquietação intelectual, que se traduziu, nos campos filosófico, artístico e literário, pela idéia de renovação cultural. Este fenômeno, parte integrante de um processo histórico mais amplo - o início da transição feudalismo/capitalismo iniciou-se nas Repúblicas Italianas, por volta de 1350, estendendo-se mais tarde, a outras áreas da Europa Ocidental. A expressão Renascimento é comumente utilizada para designar esta idéia de renovação, profundamente comprometida com a ressurreição das letras e das artes da Antiguidade Clássica, e que, segundo os humanistas da época renascentista, teria representado uma ruptura com a 'ignorância bárbara', que prevalecera durante a Idade Média. São características do movimento renascentista, EXCETO:",
+      principal: "A crise econômica dos séculos XIV-XV produziu uma profunda inquietação intelectual, que se traduziu, nos campos filosófico, artístico e literário, pela idéia de renovação cultural. Este fenômeno, parte integrante de um processo histórico mais amplo - o início da transição $\\\\frac{feudalismo}{capitalismo}$ iniciou-se nas Repúblicas Italianas, por volta de 1350, estendendo-se mais tarde, a outras áreas da Europa Ocidental. A expressão Renascimento é comumente utilizada para designar esta idéia de renovação, profundamente comprometida com a ressurreição das letras e das artes da Antiguidade Clássica, e que, segundo os humanistas da época renascentista, teria representado uma ruptura com a 'ignorância bárbara', que prevalecera durante a Idade Média. São características do movimento renascentista, EXCETO:",
       subItens: []
     },
     options: ["A utilização das novas línguas nacionais, derivadas do latim, como o espanhol, o português, o francês e o italiano.","A renovação do romance de cavalaria, valorizando o amor cortês.","A valorização do hedonismo em detrimento do ascetismo e misticismo medievais.","A grande preocupação com a figura humana, valorizando-se o nu, além do realismo, da harmonia, do senso de equilíbrio e proporção na arte.","A busca de uma interpretação do mundo através de novas teorias como o racionalismo, fugindo às explicações religiosas do período anterior."],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "GPS é a sigla do Sistema de Posicionamento Global. Por meio deste aparelho, podemos navegar e obter informações sobre os pontos da superfície terrestre. Sobre a utilização deste sistema é CORRETO afirmar que:\nI. É um sistema composto por três segmentos: o espacial na constelação de satélites em órbita das correntes aéreas, o controle terrestre, visto nas estações rodoviárias e os usuários, grupos sociais que utilizam a rede de localização.\nII. No inicio de 2010 existiam dois sistemas de operação: um norte americano, o NAVSTAR/GPS (Navigation Satellite with Time and Ranging) e um russo o GLONASS (Global Navigation Satellite System).\nIII. Durante a Guerra Fria, estes aparelhos foram usados, na corrida armamentista contra os países da União Soviética e o Vietnã.\nIV.O Galileo é um destes sistemas que está em fase inicial de desenvolvimento pela União Européia.\nAssinale a alternativa correta:",
+      principal: "GPS é a sigla do Sistema de Posicionamento Global. Por meio deste aparelho, podemos navegar e obter informações sobre os pontos da superfície terrestre. Sobre a utilização deste sistema é CORRETO afirmar que:\nI. É um sistema composto por três segmentos: o espacial na constelação de satélites em órbita das correntes aéreas, o controle terrestre, visto nas estações rodoviárias e os usuários, grupos sociais que utilizam a rede de localização.\nII. No inicio de 2010 existiam dois sistemas de operação: um norte americano, o $\\\\frac{NAVSTAR}{GPS}$ (Navigation Satellite with Time and Ranging) e um russo o GLONASS (Global Navigation Satellite System).\nIII. Durante a Guerra Fria, estes aparelhos foram usados, na corrida armamentista contra os países da União Soviética e o Vietnã.\nIV.O Galileo é um destes sistemas que está em fase inicial de desenvolvimento pela União Européia.\nAssinale a alternativa correta:",
       subItens: []
     },
     options: ["Somente as afirmativas I e IV estão corretas.","Somente as afirmativas I e V estão corretas.","Somente as afirmativas II e III estão corretas.","Somente as afirmativas II e IV estão corretas.","Somente as afirmativas III e IV estão corretas."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "Observe o gráfico sobre \"ilha de calor\" e assinale a afirmativa INCORRETA sobre este tema:\n°F\$1_{92}$\$1_{91}$\$1_{90}$\$1_{89}$\$1_{88}$\$1_{87}$\$1_{86}$\$1_{85}$\n°C\$1_{33}$\$1_{32}$\$1_{31}$\$1_{30}$\nRural\nComercial CENTRO\nResidencial Urbano\nResidencial Suburbano",
+      principal: "Observe o gráfico sobre \"ilha de calor\" e assinale a afirmativa INCORRETA sobre este tema:\n°F\n92\n91\n90\n89\n88\n87\n86\n85\n°C\n33\n32\n31\n30\nRural\nComercial CENTRO\nResidencial Urbano\nResidencial Suburbano",
       subItens: []
     },
     options: ["A ilha de calor é um fenômeno das grandes metrópoles.","Este é um fenômeno climático igual o da \"inversão térmica\".","O fenômeno resulta da elevação de temperaturas médias em áreas urbanas.","As áreas vizinhas às faixas urbanas não apresentam temperaturas tão elevadas.","A formação de ilhas de calor é agravada por excesso de áreas pavimentadas."],
@@ -513,10 +513,10 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "Uma das causas da chuva ácida é a combustão do enxofre, elemento químico presente como impureza nos combustíveis fosseis. A combustão do enxofre leva a formação de dióxido de enxofre ($1_{2}$) e trióxido de enxofre ($1_{3}$) na atmosfera, que podem precipitar na forma de $1_{2}SO_{3}$ e $1_{2}SO_{4}$. Sobre o dióxido de enxofre e o trioxido de enxofre é CORRETO afirmar:",
+      principal: "Uma das causas da chuva ácida é a combustão do enxofre, elemento químico presente como impureza nos combustíveis fosseis. A combustão do enxofre leva a formação de dióxido de enxofre (SO_{2}) e trióxido de enxofre (SO_{3}) na atmosfera, que podem precipitar na forma de H_{2}SO_{3} e H_{2}SO_{4}. Sobre o dióxido de enxofre e o trioxido de enxofre é CORRETO afirmar:",
       subItens: []
     },
-    options: ["Ambos são óxidos ácidos.","Ambos são compostos iônicos.","O $1_{2}$ possui geometria trigonal plana e o $1_{3}$ possui geometria tetraédrica.","O número de oxidação do enxofre no $1_{2}$ e no $1_{3}$ é respectivamente -4 e -6.","Ambos reagem com ácidos para formar sal e água."],
+    options: ["Ambos são óxidos ácidos.","Ambos são compostos iônicos.","O SO2 possui geometria trigonal plana e o SO3 possui geometria tetraédrica.","O número de oxidação do enxofre no SO2 e no SO3 é respectivamente -4 e -6.","Ambos reagem com ácidos para formar sal e água."],
     correctAnswer: 0,
     materia: "Química – Química Ambiental (Chuva Ácida)",
     conteudo: "Química – Funções Inorgânicas (Óxidos)",
@@ -528,7 +528,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "A classificação periódica dos elementos surgiu da necessidade de classificá-los de acordo com suas propriedades. Uma das propriedades periódicas é a energia de ionização. No quadro a seguir estão os valores da 1ª energia de ionização para alguns elementos do 2º período da tabela periódica:\nElementos: B C N O F\$1_{1}$ª energia de ionização em kJ: 801 1086 1402 1314 1681\nContrariando a tendência geral, a 1ª energia de ionização do nitrogênio é maior que a 1ª energia de ionização do oxigênio; tal fato ocorre devido:",
+      principal: "A classificação periódica dos elementos surgiu da necessidade de classificá-los de acordo com suas propriedades. Uma das propriedades periódicas é a energia de ionização. No quadro a seguir estão os valores da 1ª energia de ionização para alguns elementos do 2º período da tabela periódica:\nElementos: B C N O F\n1ª energia de ionização em kJ: 801 1086 1402 1314 1681\nContrariando a tendência geral, a 1ª energia de ionização do nitrogênio é maior que a 1ª energia de ionização do oxigênio; tal fato ocorre devido:",
       subItens: []
     },
     options: ["Ao nitrogênio ser um elemento representativo.","À configuração eletrônica do nitrogênio ser mais estável.","Ao nitrogênio se apresentar no estado gasoso nas condições ambiente.","Ao nitrogênio ocorrer na atmosfera na forma de moléculas diatômicas.","Ao nitrogênio ser um elemento de transição."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "O aquecimento global é um fenômeno climático de aumento da temperatura média dos oceanos e do ar próximo à superfície do planeta terra. O aumento das emissões de dióxido de carbono ($1_{2}$) é apontado como um dos principais responsáveis por este fenômeno. Sobre o dióxido de carbono é INCORRETO afirmar:",
+      principal: "O aquecimento global é um fenômeno climático de aumento da temperatura média dos oceanos e do ar próximo à superfície do planeta terra. O aumento das emissões de dióxido de carbono (CO_{2}) é apontado como um dos principais responsáveis por este fenômeno. Sobre o dióxido de carbono é INCORRETO afirmar:",
       subItens: []
     },
     options: ["Os átomos de carbono e oxigênio, na molécula de dióxido de carbono, estão unidos por ligações covalentes polares.","A molécula de dióxido de carbono possui geometria angular.","A molécula de dióxido de carbono é apolar.","No estado sólido, as moléculas de dióxido de carbono estão unidas por ligações do tipo dipolo instantâneo - dipolo induzido.","Na molécula de dióxido de carbono, o átomo de carbono não apresenta pares de elétrons não ligantes na sua camada de valência."],
@@ -573,10 +573,10 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "O magnésio é utilizado como matéria prima em diversas indústrias. Podemos destacar a produção de tijolos refratários, ligas metálicas e pigmentos. Ocorre naturalmente em alguns minerais, por exemplo, na Magnesita de fórmula química $1_{3}$. Sobre o $1_{3}$ é correto afirmar:",
+      principal: "O magnésio é utilizado como matéria prima em diversas indústrias. Podemos destacar a produção de tijolos refratários, ligas metálicas e pigmentos. Ocorre naturalmente em alguns minerais, por exemplo, na Magnesita de fórmula química MgCO_{3}. Sobre o MgCO_{3} é correto afirmar:",
       subItens: []
     },
-    options: ["É um hidróxido.","É um hidracido.","Possui 15,5% de magnésio em massa.","Possui 25,3% de carbono em massa.","Possui 47,8% de MgO e 52,2% de $1_{2}$ em massa"],
+    options: ["É um hidróxido.","É um hidracido.","Possui 15,5% de magnésio em massa.","Possui 25,3% de carbono em massa.","Possui 47,8% de MgO e 52,2% de CO2 em massa"],
     correctAnswer: 4,
     materia: "Química – Funções Inorgânicas (Sais, Óxidos)",
     conteudo: "Química – Cálculos Estequiométricos (Composição Percentual)",
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "O sulfato de alumínio $1_{2}_{}$($1_{4}$)3 é um produto químico amplamente utilizado na indústria de papel e nas estações de tratamento de água. O $1_{2}_{}$($1_{4}$)3 pode ser produzido reagindo bauxita, rica em $1_{2}O_{3}$ com ácido sulfúrico $1_{2}SO_{4}$, de acordo com a reação não balanceada:\nAl2O3 + $1_{2}SO_{4}$ → $1_{2}_{}$($1_{4}$)3 + $1_{2}O_{}$\nPartindo-se de 306g de $1_{2}O_{3}$ e quantidade de $1_{2}SO_{4}$ suficiente, a quantidade máxima de $1_{2}_{}$($1_{4}$)3 formada é:",
+      principal: "O sulfato de alumínio Al_{2}(SO_{4})3 é um produto químico amplamente utilizado na indústria de papel e nas estações de tratamento de água. O Al_{2}(SO_{4})3 pode ser produzido reagindo bauxita, rica em Al_{2}O_{3} com ácido sulfúrico H_{2}SO_{4}, de acordo com a reação não balanceada:\nAl_{2}O_{3} + H_{2}SO_{4} → Al_{2}(SO_{4})3 + H_{2}O\nPartindo-se de 306g de Al_{2}O_{3} e quantidade de H_{2}SO_{4} suficiente, a quantidade máxima de Al_{2}(SO_{4})3 formada é:",
       subItens: []
     },
     options: ["536g","684g","898g","1026g","1280g"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "O italiano Galileu Galilei (1564-1642) observou que, desprezando a resistência do ar, todos os corpos caem com a mesma aceleração, não importando seu tamanho, peso ou constituição. Se a altura de queda não for muito grande, a aceleração de queda permanecerá constante durante todo o movimento. Este movimento ideal, no qual são desprezadas a resistência do ar e alguma variação da aceleração com a altitude, é chamado de queda livre. Seja a seguinte situação: por descuido, um operário deixa cair um martelo do alto de um prédio em construção e o martelo atinge o solo com velocidade de 72km/h. Considerando a situação de queda livre, podemos concluir que o martelo caiu de uma altura de I e demorou II para atingir o solo.\nEscolha a alternativa que completa as lacunas do texto:",
+      principal: "O italiano Galileu Galilei (1564-1642) observou que, desprezando a resistência do ar, todos os corpos caem com a mesma aceleração, não importando seu tamanho, peso ou constituição. Se a altura de queda não for muito grande, a aceleração de queda permanecerá constante durante todo o movimento. Este movimento ideal, no qual são desprezadas a resistência do ar e alguma variação da aceleração com a altitude, é chamado de queda livre. Seja a seguinte situação: por descuido, um operário deixa cair um martelo do alto de um prédio em construção e o martelo atinge o solo com velocidade de $\\\\frac{72km}{h}$. Considerando a situação de queda livre, podemos concluir que o martelo caiu de uma altura de I e demorou II para atingir o solo.\nEscolha a alternativa que completa as lacunas do texto:",
       subItens: []
     },
     options: ["I-20m II - 2s","I-20m II - 4s","1-36m II - 4s","1-36m II - 2s","I-20m II - 5s"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "Numa partida de futebol a bola é chutada a partir do chão com uma velocidade inicial de 20m/s, com o vetor velocidade de seu centro de massa fazendo um ângulo de 30° com gramado. No mesmo instante, um jogador do time, a 44,8m de distância, começa a correr na direção do ponto em que a bola foi chutada, de modo que alcance a bola imediatamente antes que toque o gramado. Nesta situação, para que este jogador consiga tocar na bola, deve correr numa velocidade média de:",
+      principal: "Numa partida de futebol a bola é chutada a partir do chão com uma velocidade inicial de $\\\\frac{20m}{s}$, com o vetor velocidade de seu centro de massa fazendo um ângulo de 30° com gramado. No mesmo instante, um jogador do time, a 44,8m de distância, começa a correr na direção do ponto em que a bola foi chutada, de modo que alcance a bola imediatamente antes que toque o gramado. Nesta situação, para que este jogador consiga tocar na bola, deve correr numa velocidade média de:",
       subItens: []
     },
     options: ["5 km/h","10 km/h","15 km/h","18 km/h","20 km/h"],
@@ -693,7 +693,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "Com o objetivo de combater a proliferação do mosquito transmissor da dengue, estão sendo produzidos em laboratório aedes aegyptis machos geneticamente modificados.\nEles possuem dois genes adicionais. Quando são soltos se reproduzem com fêmeas que vivem livres na natureza. Depois de cruzar elas vão produzir ovos, que se transformam em larvas e pupas, mas toda a nova geração de mosquitos vai morrer antes de se reproduzir. Com o passar do tempo, a população de aedes aegypti diminuirá drasticamente.\nSupondo que em um determinado bairro após a soltura destes mosquitos modificados, a diminuição da população de aedes aegypti se dá segundo a função N(t) = N₀e^(-t/5), onde N₀ indica a população inicial de mosquitos (t = 0) e t o tempo medido em meses.\nO tempo necessário para que a população de aedes aegypti neste bairro se reduza à metade é de:\nObs. Considere ln 2 = 0,7",
+      principal: "Com o objetivo de combater a proliferação do mosquito transmissor da dengue, estão sendo produzidos em laboratório aedes aegyptis machos geneticamente modificados.\nEles possuem dois genes adicionais. Quando são soltos se reproduzem com fêmeas que vivem livres na natureza. Depois de cruzar elas vão produzir ovos, que se transformam em larvas e pupas, mas toda a nova geração de mosquitos vai morrer antes de se reproduzir. Com o passar do tempo, a população de aedes aegypti diminuirá drasticamente.\nSupondo que em um determinado bairro após a soltura destes mosquitos modificados, a diminuição da população de aedes aegypti se dá segundo a função N(t) = N₀e^(-$\\\\frac{t}{5}$), onde N₀ indica a população inicial de mosquitos (t = 0) e t o tempo medido em meses.\nO tempo necessário para que a população de aedes aegypti neste bairro se reduza à metade é de:\nObs. Considere ln 2 = 0,7",
       subItens: []
     },
     options: ["2 meses","2 meses e meio","3 meses","3 meses e meio","4 meses"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "A lei que melhor representa a função afim expressa pelo gráfico a seguir é dada por:\$1_{10}$\$1_{2}$\nX",
+      principal: "A lei que melhor representa a função afim expressa pelo gráfico a seguir é dada por:\n10\n2\nX",
       subItens: []
     },
     options: ["f(x) = 10 – 2x","f(x) = 10x + 10","f(x) = 10 −5x","f(x) = 5x + 10","f(x) = 5-10x"],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2016,
     text: {
-      principal: "O piso de uma sala possui a forma de um paralelogramo como na figura a seguir.\n20m\n10m\$1_{45}$°\nA área deste piso, em metros quadrados, mede:\nObs: Considere √2 = 1,41",
+      principal: "O piso de uma sala possui a forma de um paralelogramo como na figura a seguir.\n20m\n10m\n45°\nA área deste piso, em metros quadrados, mede:\nObs: Considere √2 = 1,41",
       subItens: []
     },
     options: ["0,141","1,41","14,1","141","1410"],

@@ -243,7 +243,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Leia o pôster de uma campanha do grupo \"Dementia Together Northern Ireland\" para responder às questões de 17 a 19.\nI have dementia but I'm STILL ME #STILLME\nDementia changes a person's life, but there are many ways you can help to support them. For example, talk to the person, don't just talk to other people about them.\nTo find more ways to support someone with dementia, go to nidirect.gov.uk/dementia\nLife changes, but it can still be good with dementia.\nAccording to the poster, the #stillme campaign intends to",
+      principal: "Leia o pôster de uma campanha do grupo \"Dementia Together Northern Ireland\" para responder às questões de 17 a 19.\nI have dementia but I'm STILL ME #STILLME\nDementia changes a person's life, but there are many ways you can help to support them. For example, talk to the person, don't just talk to other people about them.\nTo find more ways to support someone with dementia, go to nidirect.gov.$\\\\frac{uk}{dementia}$\nLife changes, but it can still be good with dementia.\nAccording to the poster, the #stillme campaign intends to",
       subItens: []
     },
     options: ["draw attention to the common causes of dementia.","raise awareness about the different types of dementia.","fight the stigma associated with dementia.","explain how to reduce the risk factors for dementia.","warn about the early stages of dementia."],
@@ -258,7 +258,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Leia o pôster de uma campanha do grupo \"Dementia Together Northern Ireland\" para responder às questões de 17 a 19.\nI have dementia but I'm STILL ME #STILLME\nDementia changes a person's life, but there are many ways you can help to support them. For example, talk to the person, don't just talk to other people about them.\nTo find more ways to support someone with dementia, go to nidirect.gov.uk/dementia\nLife changes, but it can still be good with dementia.\nNo título do pôster \"I have dementia but I'm still me\", o termo sublinhado foi empregado com o mesmo sentido em:",
+      principal: "Leia o pôster de uma campanha do grupo \"Dementia Together Northern Ireland\" para responder às questões de 17 a 19.\nI have dementia but I'm STILL ME #STILLME\nDementia changes a person's life, but there are many ways you can help to support them. For example, talk to the person, don't just talk to other people about them.\nTo find more ways to support someone with dementia, go to nidirect.gov.$\\\\frac{uk}{dementia}$\nLife changes, but it can still be good with dementia.\nNo título do pôster \"I have dementia but I'm still me\", o termo sublinhado foi empregado com o mesmo sentido em:",
       subItens: []
     },
     options: ["I affirm that I will tell nothing but the truth.","I said never say never but I was wrong.","Nobody but Jessica would wear a mini-dress at a formal dinner.","They've done nothing but argue all afternoon.","On holiday he eats nothing but hamburgers."],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Leia o pôster de uma campanha do grupo \"Dementia Together Northern Ireland\" para responder às questões de 17 a 19.\nI have dementia but I'm STILL ME #STILLME\nDementia changes a person's life, but there are many ways you can help to support them. For example, talk to the person, don't just talk to other people about them.\nTo find more ways to support someone with dementia, go to nidirect.gov.uk/dementia\nLife changes, but it can still be good with dementia.\nIn the excerpt \"you can help to support them\", the underlined word can be replaced, without meaning change, by",
+      principal: "Leia o pôster de uma campanha do grupo \"Dementia Together Northern Ireland\" para responder às questões de 17 a 19.\nI have dementia but I'm STILL ME #STILLME\nDementia changes a person's life, but there are many ways you can help to support them. For example, talk to the person, don't just talk to other people about them.\nTo find more ways to support someone with dementia, go to nidirect.gov.$\\\\frac{uk}{dementia}$\nLife changes, but it can still be good with dementia.\nIn the excerpt \"you can help to support them\", the underlined word can be replaced, without meaning change, by",
       subItens: []
     },
     options: ["give up on.","trick.","count on.","assist.","rely on."],
@@ -396,7 +396,7 @@ createQuestion({
       principal: "Observe a foto, que mostra a Avenida Central, no Rio de Janeiro, em 1905.\n(Foto da Avenida Central, Rio de Janeiro, 1905)\n(In: Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2018.)\nA imagem mostra dois aspectos importantes do processo de reurbanização da Capital brasileira, desenvolvido na primeira década do século XX:",
       subItens: []
     },
-    options: ["a redução das desigualdades sociais e a melhoria das condições de higiene e de moradia da população tra- balhadora.","a verticalização das edificações e a adoção dos modelos urbanísticos das principais metrópoles norte-americanas.","a ampliação da facilidade de circulação de pessoas e mercadorias e a constituição de espaços de sociabili- dade burguesa.","a modernização e o alargamento do porto e a permissão de ocupação dos morros pela população pobre da cidade.","a implantação de sistema de iluminação pública por lam- $\pi$ões e a criação do sistema de bondes de tração animal."],
+    options: ["a redução das desigualdades sociais e a melhoria das condições de higiene e de moradia da população tra- balhadora.","a verticalização das edificações e a adoção dos modelos urbanísticos das principais metrópoles norte-americanas.","a ampliação da facilidade de circulação de pessoas e mercadorias e a constituição de espaços de sociabili- dade burguesa.","a modernização e o alargamento do porto e a permissão de ocupação dos morros pela população pobre da cidade.","a implantação de sistema de iluminação pública por lam- piões e a criação do sistema de bondes de tração animal."],
     correctAnswer: 2,
     materia: "História – Primeira República",
     conteudo: "Geografia – Urbanização",
@@ -513,7 +513,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Analise os perfis 1 e 2 de solo.\n(Imagens de Perfil 1 e Perfil 2 de solo, com camadas e descrições)\n(https://igeologico.com.br. Adaptado.)\nConsiderando as imagens, as diferenças entre os perfis 1 $1_{2}$ de solo indicam que",
+      principal: "Analise os perfis 1 e 2 de solo.\n(Imagens de Perfil 1 e Perfil 2 de solo, com camadas e descrições)\n(https://igeologico.com.br. Adaptado.)\nConsiderando as imagens, as diferenças entre os perfis 1 e_{2} de solo indicam que",
       subItens: []
     },
     options: ["as cactáceas no perfil 2 indicam maior influência da maté- ria orgânica no intemperismo do que no perfil 1.","as características climáticas apresentam pouca influên- cia nos horizontes do perfil 1.","a maior profundidade do perfil 2 envolve o fato de este ser mais drenado do que o perfil 1.","o perfil 2 demonstra ser mais afetado por intemperismo químico do que o perfil 1.","o perfil 1 apresenta maior profundidade devido à influên- cia do clima úmido no intemperismo."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Analise a imagem.\n(Imagem com 5 benefícios: 1. Aumenta a nutrição e a saúde; 2. Integra diferentes tipos de conhecimentos; 3. Preserva os recursos naturais e a biodiversidade; 4. Produz mais com menos recursos; 5. Melhora a resiliência das pessoas rurais. Logo FAO/Organização das Nações Unidas para a Alimentação e a Agricultura)\n(https://petengambufc.wordpress.com, 23.04.2021. Adaptado.)\nA imagem indica os benefícios da técnica agrícola sustentá- vel denominada",
+      principal: "Analise a imagem.\n(Imagem com 5 benefícios: 1. Aumenta a nutrição e a saúde; 2. Integra diferentes tipos de conhecimentos; 3. Preserva os recursos naturais e a biodiversidade; 4. Produz mais com menos recursos; 5. Melhora a resiliência das pessoas rurais. Logo $\\\\frac{FAO}{Organiza}$ção das Nações Unidas para a Alimentação e a Agricultura)\n(https://petengambufc.wordpress.com, 23.04.2021. Adaptado.)\nA imagem indica os benefícios da técnica agrícola sustentá- vel denominada",
       subItens: []
     },
     options: ["adubação química.","terraceamento.","agroecologia.","plantio indireto.","monocultura."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Analise o mapa.\n(Mapa mundi com projeção polar/azimutal)\n(https://atlasescolar.ibge.gov.br. Adaptado.)\nO processo de elaboração da projeção cartográfica desse mapa é ilustrado em:\n(Imagem da projeção cartográfica que melhor ilustra o mapa dado)",
+      principal: "Analise o mapa.\n(Mapa mundi com projeção $\\\\frac{polar}{azimutal}$)\n(https://atlasescolar.ibge.gov.br. Adaptado.)\nO processo de elaboração da projeção cartográfica desse mapa é ilustrado em:\n(Imagem da projeção cartográfica que melhor ilustra o mapa dado)",
       subItens: []
     },
     options: ["(Imagem de projeção cônica)","(Imagem de projeção cilíndrica)","(Imagem de projeção polar plana)","(Imagem de projeção plana/azimutal)","(Imagem de projeção cônica)"],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Em novembro de 2021, uma mulher grávida que esta- va indo para a maternidade ficou presa em um engarrafa- mento causado por um acidente entre dois caminhões. Ela foi levada para o quartel do Corpo de Bombeiros em Niterói, na Região Metropolitana do Rio de Janeiro, e já chegou em trabalho de parto. O bebê acabou nascendo dentro do carro, com a ajuda dos bombeiros.\n(https://$1_{1}$.globo.com. Adaptado.)\nO parto natural fora do ambiente hospitalar pode acontecer devido a eventos fisiológicos de natureza involuntária. Esse processo ocorre devido à liberação",
+      principal: "Em novembro de 2021, uma mulher grávida que esta- va indo para a maternidade ficou presa em um engarrafa- mento causado por um acidente entre dois caminhões. Ela foi levada para o quartel do Corpo de Bombeiros em Niterói, na Região Metropolitana do Rio de Janeiro, e já chegou em trabalho de parto. O bebê acabou nascendo dentro do carro, com a ajuda dos bombeiros.\n(https://g_{1}.globo.com. Adaptado.)\nO parto natural fora do ambiente hospitalar pode acontecer devido a eventos fisiológicos de natureza involuntária. Esse processo ocorre devido à liberação",
       subItens: []
     },
     options: ["da progesterona, pelo útero, que induz a descamação do endométrio.","da ocitocina, pela neuroipófise, que estimula as contra- ções uterinas.","da prolactina, pela tireoide, que provoca o relaxamento do colo uterino.","do cortisol, pelas adrenais, que induz a desintegração vascular do útero.","da gonadotrofina coriônica, pelos ovários, que estimula a dilatação da vagina."],
@@ -783,10 +783,10 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Leia o texto para responder às questões 53 e 54.\nA pólvora negra é um explosivo bastante comum e antigo, formado por uma mistura sólida de nitrato de potássio ($1_{3}$), carvão (C) e enxofre (S).\nOs componentes de uma amostra de pólvora negra foram isolados a partir do procedimento esquematizado a seguir.\n(Diagrama de separação de misturas de pólvora negra em Líquido A, Sólido B, Vapor C, Sólido D, Líquido E, Sólido F, Líquido G, Sólido H)\nO quadro apresenta a solubilidade dos componentes da pól- vora negra em água e em dissulfeto de carbono ($1_{2}$).\n(Tabela de Solubilidade em H₂O e CS₂ para C, KNO₃, S)\nNo processo de separação apresentado, os sólidos D, Fe H são, respectivamente:",
+      principal: "Leia o texto para responder às questões 53 e 54.\nA pólvora negra é um explosivo bastante comum e antigo, formado por uma mistura sólida de nitrato de potássio (KNO_{3}), carvão (C) e enxofre (S).\nOs componentes de uma amostra de pólvora negra foram isolados a partir do procedimento esquematizado a seguir.\n(Diagrama de separação de misturas de pólvora negra em Líquido A, Sólido B, Vapor C, Sólido D, Líquido E, Sólido F, Líquido G, Sólido H)\nO quadro apresenta a solubilidade dos componentes da pól- vora negra em água e em dissulfeto de carbono (CS_{2}).\n(Tabela de Solubilidade em H₂O e CS₂ para C, KNO₃, S)\nNo processo de separação apresentado, os sólidos D, Fe H são, respectivamente:",
       subItens: []
     },
-    options: ["C, $1_{3}$ e S","$1_{3}$, C e S","$1_{3}$, S e C","C, S e $1_{3}$","S, C e $1_{3}$"],
+    options: ["C, KNO3 e S","KNO3, C e S","KNO3, S e C","C, S e KNO3","S, C e KNO3"],
     correctAnswer: 1,
     materia: "Química – Separação de Misturas",
     conteudo: "Química – Soluções",
@@ -798,10 +798,10 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Leia o texto para responder às questões 53 e 54.\nA pólvora negra é um explosivo bastante comum e antigo, formado por uma mistura sólida de nitrato de potássio ($1_{3}$), carvão (C) e enxofre (S).\nNa ignição da pólvora negra ocorre a transformação química representada a seguir:\n10KNO3(s) + 3S (s) + 8C (s) → 2K2CO3(s) + 3K₂SO₄ (s) + 6CO2 (g) + 5N2 (g)\nO fenômeno representado é uma reação de oxirredução em que",
+      principal: "Leia o texto para responder às questões 53 e 54.\nA pólvora negra é um explosivo bastante comum e antigo, formado por uma mistura sólida de nitrato de potássio (KNO_{3}), carvão (C) e enxofre (S).\nNa ignição da pólvora negra ocorre a transformação química representada a seguir:\n10KNO3(s) + 3S (s) + 8C (s) → 2K2CO3(s) + 3K₂SO₄ (s) + 6CO2 (g) + 5N2 (g)\nO fenômeno representado é uma reação de oxirredução em que",
       subItens: []
     },
-    options: ["$1_{3}$ e S são os oxidantes, enquanto C é o redutor.","$1_{3}$ é o oxidante, C é o redutor, enquanto o S não par- ticipa da transferência de elétrons.","$1_{3}$ é o oxidante, enquanto C e S atuam como redutores.","C e S são os oxidantes, enquanto $1_{3}$ é o redutor.","C é o oxidante, enquanto $1_{3}$ e S atuam como redutores."],
+    options: ["KNO3 e S são os oxidantes, enquanto C é o redutor.","KNO3 é o oxidante, C é o redutor, enquanto o S não par- ticipa da transferência de elétrons.","KNO3 é o oxidante, enquanto C e S atuam como redutores.","C e S são os oxidantes, enquanto KNO3 é o redutor.","C é o oxidante, enquanto KNO3 e S atuam como redutores."],
     correctAnswer: 2,
     materia: "Química – Reações Químicas",
     conteudo: "",
@@ -813,7 +813,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "A combustão completa do acetileno (C₂H₂) gera exclusiva- mente gás carbônico ($1_{2}$) e água (H₂O), conforme a reação representada:\n2C2H2(g) + 502 (g) → 4CO2 (g) + 2H2O (l)\nDevido ao grande desprendimento de energia nesse proces- so, o acetileno é utilizado como combustível em maçaricos para corte de metais ou fabricação de objetos de vidro (solda oxiacetilênica).\nConsidere 14,0 L de mistura em quantidades estequiomé- tricas dos gases acetileno e oxigênio armazenada a 20 °Cе 1,5 atm. Após a completa combustão, o volume máximo de gás carbônico recolhido nessa mesma condição de tempera- tura e pressão será",
+      principal: "A combustão completa do acetileno (C₂H₂) gera exclusiva- mente gás carbônico (CO_{2}) e água (H₂O), conforme a reação representada:\n2C2H2(g) + 502 (g) → 4CO2 (g) + 2H2O (l)\nDevido ao grande desprendimento de energia nesse proces- so, o acetileno é utilizado como combustível em maçaricos para corte de metais ou fabricação de objetos de vidro (solda oxiacetilênica).\nConsidere 14,0 L de mistura em quantidades estequiomé- tricas dos gases acetileno e oxigênio armazenada a 20 °Cе 1,5 atm. Após a completa combustão, o volume máximo de gás carbônico recolhido nessa mesma condição de tempera- tura e pressão será",
       subItens: []
     },
     options: ["14,0 L.","12,0 L.","4,0 L.","28,0 L.","8,0 L."],
@@ -828,7 +828,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "A tabela nutricional de determinado refrigerante indica a pre- sença de 21 g de sacarose (C12H22O11) a cada 200 mL da bebida. Considerando que a massa molar da sacarose é 342 g/mol, a concentração desse soluto no refrigerante é de, aproximadamente,",
+      principal: "A tabela nutricional de determinado refrigerante indica a pre- sença de 21 g de sacarose (C_{12}H22O11) a cada 200 mL da bebida. Considerando que a massa molar da sacarose é 342 $\\\\frac{g}{mol}$, a concentração desse soluto no refrigerante é de, aproximadamente,",
       subItens: []
     },
     options: ["0,2 mol/L.","1,0 mol/L.","0,5 mol/L.","0,3 mol/L.","0,1 mol/L."],
@@ -843,10 +843,10 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "A carga comum dos íons mononucleares de elementos repre- sentativos é uma propriedade periódica e está relacionada com a distribuição eletrônica de cada elemento. As fórmu- las de alguns ânions polinucleares estão representadas na tabela.\n(Tabela com Ânions e Fórmulas: Sulfato $1_{42}$-, Hidroxila OH-, Carbonato $1_{32}$-)\nA partir da Classificação Periódica e das informações forneci- das, as fórmulas dos compostos iônicos sulfato de alumínio, hidróxido de alumínio, carbonato de lítio e fluoreto de cálcio são, respectivamente,",
+      principal: "A carga comum dos íons mononucleares de elementos repre- sentativos é uma propriedade periódica e está relacionada com a distribuição eletrônica de cada elemento. As fórmu- las de alguns ânions polinucleares estão representadas na tabela.\n(Tabela com Ânions e Fórmulas: Sulfato SO_{42}-, Hidroxila OH-, Carbonato CO_{32}-)\nA partir da Classificação Periódica e das informações forneci- das, as fórmulas dos compostos iônicos sulfato de alumínio, hidróxido de alumínio, carbonato de lítio e fluoreto de cálcio são, respectivamente,",
       subItens: []
     },
-    options: ["$1_{4}$, AlOH, $1_{3}$, CaF","$1_{2}_{}$($1_{4}$)3, Al(OH)3, $1_{2}CO_{3}$, $1_{2}$","$1_{3}SO_{4}$, Al(OH)2, $1_{3}CO_{3}$, $1_{2}$","Al($1_{4}$)3, Al(OH)3, Li($1_{3}$)2, $1_{2}F_{}$","$1_{2}_{}$($1_{4}$)3, Al(OH)2, $1_{2}CO_{3}$, $1_{2}F_{}$"],
+    options: ["AlSO4, AlOH, LICO3, CaF","Al2(SO4)3, Al(OH)3, Li2CO3, CaF2","Al3SO4, Al(OH)2, Li3CO3, CaF2","Al(SO4)3, Al(OH)3, Li(CO3)2, Ca2F","Al2(SO4)3, Al(OH)2, Li2CO3, Ca2F"],
     correctAnswer: 1,
     materia: "Química – Ligações Químicas",
     conteudo: "Química – Tabela Periódica",
@@ -858,10 +858,10 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Para determinar a fórmula de um hidrocarboneto gasoso, uma amostra de 0,6 L dessa substância foi completamente queimada na presença de excesso de gás oxigênio, gerando exclusivamente 4,4 g de gás carbônico (CO₂) e 1,8 g de água (H₂O). Considere que, nas condições em que essa deter- minação foi realizada, o volume molar dos gases é igual a 24,0 L/mol.\nA fórmula molecular do hidrocarboneto em questão é:",
+      principal: "Para determinar a fórmula de um hidrocarboneto gasoso, uma amostra de 0,6 L dessa substância foi completamente queimada na presença de excesso de gás oxigênio, gerando exclusivamente 4,4 g de gás carbônico (CO₂) e 1,8 g de água (H₂O). Considere que, nas condições em que essa deter- minação foi realizada, o volume molar dos gases é igual a 24,0 $\\\\frac{L}{mol}$.\nA fórmula molecular do hidrocarboneto em questão é:",
       subItens: []
     },
-    options: ["$1_{2}H_{6}$","$1_{2}H_{4}$","$1_{3}H_{8}$","$1_{4}H_{8}$","$1_{4}$"],
+    options: ["C2H6","C2H4","C3H8","C4H8","CH4"],
     correctAnswer: 3,
     materia: "Química – Estequiometria",
     conteudo: "Química – Química Orgânica",
@@ -963,7 +963,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Após ver uma maçã flutuando na água, um garoto ficou curio- so para saber a densidade dessa maçã. Não dispondo de uma balança, colocou 400 mL de água em um recipiente gra- duado, pôs a maçã na água e verificou que o volume indica- do passou a ser 520 mL. Em seguida, afundou totalmente a maçã na água do recipiente e o volume indicado foi 550 mL. A partir desses dados, e sabendo que a densidade da água é 1,0 g/mL, o garoto calculou a densidade da maçã obtendo o valor de",
+      principal: "Após ver uma maçã flutuando na água, um garoto ficou curio- so para saber a densidade dessa maçã. Não dispondo de uma balança, colocou 400 mL de água em um recipiente gra- duado, pôs a maçã na água e verificou que o volume indica- do passou a ser 520 mL. Em seguida, afundou totalmente a maçã na água do recipiente e o volume indicado foi 550 mL. A partir desses dados, e sabendo que a densidade da água é 1,0 $\\\\frac{g}{mL}$, o garoto calculou a densidade da maçã obtendo o valor de",
       subItens: []
     },
     options: ["0,70 g/mL.","0,75 g/mL.","0,85 g/mL.","0,90 g/mL.","0,80 g/mL."],
@@ -978,7 +978,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "Na internet, encontra-se a informação que para gelar 20 gar- rafas de refrigerante são necessários 10 kg de gelo. Conside- re que as temperaturas iniciais do gelo e das garrafas sejam, respectivamente, 0 °C e 25 °C, que todo o gelo se funda e que a temperatura final de equilíbrio seja 0 °C. Sabendo que todo o calor cedido pelo gelo foi absorvido pelas garrafas e que o calor latente de fusão do gelo é 80 cal/g, a capacidade térmica de cada garrafa de refrigerante é",
+      principal: "Na internet, encontra-se a informação que para gelar 20 gar- rafas de refrigerante são necessários 10 kg de gelo. Conside- re que as temperaturas iniciais do gelo e das garrafas sejam, respectivamente, 0 °C e 25 °C, que todo o gelo se funda e que a temperatura final de equilíbrio seja 0 °C. Sabendo que todo o calor cedido pelo gelo foi absorvido pelas garrafas e que o calor latente de fusão do gelo é 80 $\\\\frac{cal}{g}$, a capacidade térmica de cada garrafa de refrigerante é",
       subItens: []
     },
     options: ["1200 cal/°C.","3200 cal/°C.","32000 cal/°C.","1600 cal/°C.","40000 cal/°C."],
@@ -1038,7 +1038,7 @@ createQuestion({
     university: "Prova de Conhecimentos Gerais",
     year: 2023,
     text: {
-      principal: "No modelo do átomo de hidrogênio proposto por Bohr, os elétrons só podem ocupar certos estados estacionários e a energia de cada um desses estados é dada, em elétron-volts (eV), por Eₙ = -13,6/n², sendo n o número quântico principal do estado considerado. Apenas ao passar de um estado para outro o elétron absorve ou emite uma quantidade de energia que corresponde à diferença entre as energias desses dois estados.\nNesse modelo, quando um elétron faz uma transição do esta- do n = 2 para o estado n = 3, ele absorve uma quantidade de energia que é de, aproximadamente,",
+      principal: "No modelo do átomo de hidrogênio proposto por Bohr, os elétrons só podem ocupar certos estados estacionários e a energia de cada um desses estados é dada, em elétron-volts (eV), por Eₙ = -13,$\\\\frac{6}{n}$², sendo n o número quântico principal do estado considerado. Apenas ao passar de um estado para outro o elétron absorve ou emite uma quantidade de energia que corresponde à diferença entre as energias desses dois estados.\nNesse modelo, quando um elétron faz uma transição do esta- do n = 2 para o estado n = 3, ele absorve uma quantidade de energia que é de, aproximadamente,",
       subItens: []
     },
     options: ["1,89 eV.","1,51 eV.","2,72 eV.","3,40 eV.","4,53 eV."],

@@ -423,10 +423,10 @@ createQuestion({
     university: "Prova Geral",
     year: 2023,
     text: {
-      principal: "A quantidade de energia elétrica, em kWh, produzida por uma usina é dada pela multiplicação da potência da usina, em kW, pelo tempo em que a usina ficou em funcionamento, em horas. Sabendo que 1 GW corresponde $1^{9}$ W e supondo que todas as usinas eólicas instaladas no Brasil funcionassem ininterruptamente durante um dia, a quantidade de energia elétrica produzida por elas, nesse período, seria de",
+      principal: "A quantidade de energia elétrica, em kWh, produzida por uma usina é dada pela multiplicação da potência da usina, em kW, pelo tempo em que a usina ficou em funcionamento, em horas. Sabendo que 1 GW corresponde 10^{9}$ W e supondo que todas as usinas eólicas instaladas no Brasil funcionassem ininterruptamente durante um dia, a quantidade de energia elétrica produzida por elas, nesse período, seria de",
       subItens: []
     },
-    options: ["$1 \times 10^{6}$ kWh","$1 \times 10^{8}$ kWh","$1 \times 10^{8}$ kWh","$1 \times 10^{13}$ kWh","$1 \times 10^{13}$ kWh"],
+    options: ["2,4 x 10^6 kWh","1,2 x 10^8 kWh","2,4 × 10^8 kWh","1,2 x 10^13 kWh","2,4 x 10^13 kWh"],
     correctAnswer: 2,
     materia: "Física – Eletricidade",
     conteudo: "Física – Energia",
@@ -438,7 +438,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2023,
     text: {
-      principal: "Os dados coletados pelo TEJW são enviados à Terra por meio de ondas eletromagnéticas, que se propagam no vácuo com velocidade de 300.000 km/s. O intervalo de tempo entre a emissão de um dado pelo TEJW e a chegada desse dado à Terra é de",
+      principal: "Os dados coletados pelo TEJW são enviados à Terra por meio de ondas eletromagnéticas, que se propagam no vácuo com velocidade de 300.000 $\\\\frac{km}{s}$. O intervalo de tempo entre a emissão de um dado pelo TEJW e a chegada desse dado à Terra é de",
       subItens: []
     },
     options: ["0,05 s.","0,45 s.","45 s.","5,0 s.","50 s."],
@@ -543,10 +543,10 @@ createQuestion({
     university: "Prova Geral",
     year: 2023,
     text: {
-      principal: "A maior concentração encontrada do paracetamol corresponde à concentração, em mol/L, de, aproximadamente,\nDados:\nMassas moleculares (g/mol)\nH = 1,0\nC = 12,0\nN = 14,0\nO = 16,0",
+      principal: "A maior concentração encontrada do paracetamol corresponde à concentração, em $\\\\frac{mol}{L}$, de, aproximadamente,\nDados:\nMassas moleculares ($\\\\frac{g}{mol}$)\nH = 1,0\nC = 12,0\nN = 14,0\nO = 16,0",
       subItens: []
     },
-    options: ["$1 \times 10^{-4}$","$1 \times 10^{-3}$","$1 \times 10^{-4}$","$1 \times 10^{-6}$","$1 \times 10^{-5}$"],
+    options: ["1,5 × 10^-4","4,5 × 10^-3","3,2 x 10^-4","1,5 x 10^-6","4,5 × 10^-5"],
     correctAnswer: 3,
     materia: "Química – Estequiometria",
     conteudo: "Química – Soluções",
@@ -573,7 +573,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2023,
     text: {
-      principal: "Além do metano, $1_{4}$, a pecuária também contribui com a liberação para o ambiente de outro gás estufa, o $1_{2}O_{}$, o óxido nitroso, que é formado pela transformação microbiana de compostos nitrogenados encontrados em dejetos animais (fezes e urina), presentes no pasto.\nAs moléculas do metano e do óxido nitroso apresentam, respectivamente, as geometrias moleculares",
+      principal: "Além do metano, CH_{4}, a pecuária também contribui com a liberação para o ambiente de outro gás estufa, o N_{2}O, o óxido nitroso, que é formado pela transformação microbiana de compostos nitrogenados encontrados em dejetos animais (fezes e urina), presentes no pasto.\nAs moléculas do metano e do óxido nitroso apresentam, respectivamente, as geometrias moleculares",
       subItens: []
     },
     options: ["tetraédrica e linear.","octaédrica e linear.","piramidal e linear.","piramidal e angular.","tetraédrica e angular."],

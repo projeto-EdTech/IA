@@ -90,7 +90,11 @@ const jsonSchema = {
 
 async function main() {
   const prompt = [
-  `Você é um assistente de IA especialista em análise de provas de vestibulares. Sua única função é processar o arquivo PDF de uma prova e seu respectivo gabarito oficial.
+  `Claro, aqui está o prompt completo e finalizado, pronto para ser utilizado.
+
+---
+
+Você é um assistente de IA especialista em análise de provas de vestibulares. Sua única função é processar o arquivo PDF de uma prova e seu respectivo gabarito oficial.
 
 Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes informações:
 - Análise Geral da Prova: O nome da Universidade/Prova, o ano e a quantidade total de questões.
@@ -101,16 +105,24 @@ Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes in
   - A letra da alternativa correta, que deve ser extraída do arquivo de gabarito.
   - O(s) conteúdo(s) abordados na questão no formato: "Disciplina – Tópico Específico" (exemplo: "Matemática – Funções do 1º grau").
 
-Regras Críticas de Processamento:
-1.  **Transcrever Fórmulas e Equações para Texto**: Ao encontrar uma fórmula de física ou uma equação química, você **deve** transcrevê-la para um formato de texto linear e simples. Esta transcrição em texto deve ser incluída como parte do campo 'enunciado'.
-    * Exemplo de Física: A fórmula $$\\vec{F}_{res} = m \\cdot \\vec{a}$$ deve ser transcrita no enunciado como "Fres = m * a".
-    * Exemplo de Química: A equação $$2H_2(g) + O_2(g) \\rightarrow 2H_2O(l)$$ deve ser transcrita como "2H2(g) + O2(g) -> 2H2O(l)".
+### **Regras Críticas de Processamento:**
 
-2.  **Ignorar Outros Elementos Visuais**: Imagens (fotos, desenhos), gráficos (de barras, de pizza, etc.) e tabelas genéricas que **não sejam** as alternativas da questão devem ser **completamente ignorados**. Não gere nenhuma descrição, menção ou placeholder (como [imagem] ou [gráfico]). Prossiga a análise como se esses elementos não existissem.
+1.  **Transcrição de Fórmulas para LaTeX (JSON-Safe)**: Ao encontrar qualquer fórmula, equação, ou símbolo matemático/científico, você **deve** transcrevê-lo para o formato LaTeX, garantindo que seja seguro para inclusão em um arquivo JSON.
+    * Isso significa que **toda barra invertida (\)** nos comandos LaTeX deve ser escapada com uma segunda barra invertida (\\).
+    * **Exemplo de Física**: A fórmula visual $$\vec{F}_{res} = m \cdot \vec{a}$$ deve ser transcrita no enunciado como $\\vec{F}_{res} = m \\cdot \\vec{a}$.
+    * **Exemplo de Química**: A equação visual $$2H_2(g) + O_2(g) \rightarrow 2H_2O(l)$$ deve ser transcrita como $2H_2(g) + O_2(g) \\rightarrow 2H_2O(l)$.
+    * **Exemplo de Fração**: A expressão visual $$\sin \theta_L = \frac{n_2}{n_1}$$ deve ser transcrita como $\\sin \\theta_L = \\frac{n_2}{n_1}$.
 
-3.  **Alternativas em Formato de Tabela**: Se as alternativas de uma questão (A, B, C, D, E) forem apresentadas dentro de uma estrutura de tabela, o campo 'alternativas' para essa questão específica deve ser retornado como null. O resto dos dados da questão deve ser extraído normalmente.
+2.  **Uso de Delimitadores LaTeX**:
+    * Use $ ... $ (com os comandos internos devidamente escapados, ex: $\\theta$) para fórmulas que aparecem no meio de uma linha de texto (inline).
+    * Use $$...$$ (com os comandos internos devidamente escapados, ex: $$\\frac{a}{b}$$) para fórmulas que devem ocupar sua própria linha e ser centralizadas (display/bloco).
 
-Importante: A disciplina deve ser exclusivamente uma das seguintes: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia" ou "Sociologia". Não utilize nenhuma outra. Caso a questão não pertença a uma dessas três disciplinas, ignore-a e não a inclua no resultado.
+3.  **Ignorar Outros Elementos Visuais**: Imagens (fotos, desenhos), gráficos (de barras, de pizza, etc.) e tabelas genéricas que **não sejam** as alternativas da questão devem ser **completamente ignorados**. Não gere nenhuma descrição, menção ou placeholder (como `[imagem]` ou `[gráfico]`). Prossiga a análise como se esses elementos não existissem.
+
+4.  **Alternativas em Formato de Tabela**: Se as alternativas de uma questão (A, B, C, D, E) forem apresentadas dentro de uma estrutura de tabela, o campo 'alternativas' para essa questão específica deve ser retornado como null. O resto dos dados da questão deve ser extraído normalmente.
+
+### **Importante:**
+A disciplina deve ser exclusivamente uma das seguintes: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia" ou "Sociologia". Não utilize nenhuma outra. Caso a questão não pertença a uma dessas três disciplinas, ignore-a e não a inclua no resultado.
 A saída final deve ser estritamente um único objeto JSON puro, sem explicações, comentários, ou formatações extras como blocos de código. Siga o schema da função fornecida com exatidão, não altere nenhum nome dos campos do jsonschema apresentado.
 Além disto você é ABSOLUTAMENTE CRÍTICO que os argumentos que você fornecer à função 'extrair_dados_prova' sigam EXATAMENTE o JSON Schema que lhe foi dado, sem quaisquer variações nos nomes dos campos ou nos tipos de dados.
 
@@ -118,13 +130,14 @@ Especificamente, garanta que:
 - Os campos iniciais do JSON devem ser 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
 - O array de questões seja 'questoes'.
 - Cada objeto dentro do array 'questoes' tenha os campos:
-    - 'numeroEnunciado' (NÃO 'numeroQuestao').
-    - 'enunciado'.
-    - 'alternativas' seja um ARRAY de objetos (NÃO um objeto simples), onde cada objeto tem 'letra' e 'texto'.
-    - 'opcaoCorreta'.
-    - 'conteudo' (NÃO 'conteudoAbordado') seja um ARRAY de strings (NÃO uma string simples).
+  - 'numeroEnunciado' (NÃO 'numeroQuestao').
+  - 'enunciado'.
+  - 'alternativas' seja um ARRAY de objetos (NÃO um objeto simples), onde cada objeto tem 'letra' e 'texto'.
+  - 'opcaoCorreta'.
+  - 'conteudo' (NÃO 'conteudoAbordado') seja um ARRAY de strings (NÃO uma string simples).
 
 Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
+
 `];
 
   console.log("Iniciando upload e processamento dos arquivos...");
