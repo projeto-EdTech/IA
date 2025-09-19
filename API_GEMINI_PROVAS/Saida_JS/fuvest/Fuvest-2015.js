@@ -87,7 +87,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "Examine a seguinte imagem, que foi inspirada pela situação da Índia de 1946.\nLeslie Illingworth, 1946. Adaptado.\nLegenda:\nMOSLEM: muçulmano;\nNEW CONSTITUTION: nova Constituição;\nCIVIL WAR: guerra civil;\nFAMINE: fome.\nA leitura correta da imagem permite concluir que ela constitui uma crítica",
+      principal: "Examine a seguinte imagem, que foi inspirada pela situação da Índia de 1946.\nLeslie Illingworth, 1946. Adaptado.\nLegenda:\nMOSLEM: $\\mu$çulmano;\nNEW CONSTITUTION: nova Constituição;\nCIVIL WAR: guerra civil;\nFAMINE: fome.\nA leitura correta da imagem permite concluir que ela constitui uma crítica",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-deficit/hyperactivity disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nO foco principal do texto são as",
+      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-$deficit/hyperactivity$ disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nO foco principal do texto são as",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-deficit/hyperactivity disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nSegundo estudo publicado no Journal of Neuroscience, mencionado no texto,",
+      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-$deficit/hyperactivity$ disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nSegundo estudo publicado no Journal of Neuroscience, mencionado no texto,",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-deficit/hyperactivity disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nDe acordo com o texto, a pesquisa mencionada pode",
+      principal: "TEXTO PARA AS QUESTÕES DE 40 A 42\nYou know the exit is somewhere along this stretch of highway, but you have never taken it before and do not want to miss it. As you carefully scan the side of the road for the exit sign, numerous distractions intrude on your visual field: billboards, a snazzy convertible, a cell phone buzzing on the dashboard. How does your brain focus on the task at hand? To answer this question, neuroscientists generally study the way the brain strengthens its response to what you are looking for – jolting itself with an especially large electrical pulse when you see it. Another mental trick may be just as important, according to a study published in April in the Journal of Neuroscience: the brain deliberately weakens its reaction to everything else so that the target seems more important in comparison. Such research may eventually help scientists understand what is happening in the brains of people with attention problems, such as attention-$deficit/hyperactivity$ disorder. And in a world increasingly permeated by distractions – a major contributor to traffic accidents – any insights into how the brain pays attention should get ours.\nScientific American, July 2014. Adaptado.\nDe acordo com o texto, a pesquisa mencionada pode",
       subItens: []
     },
     options: [
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "O sólido da figura é formado pela pirâmide SABCD sobre o paralelepípedo reto ABCDEFGH. Sabe-se que S pertence à reta determinada por A e E e que AE = 2 cm, AD = 4 cm e AB = 5 cm. A medida do segmento SA que faz com que o volume do sólido seja igual a 4/3 do volume da pirâmide SEFGH é",
+      principal: "O sólido da figura é formado pela pirâmide SABCD sobre o paralelepípedo reto ABCDEFGH. Sabe-se que S pertence à reta determinada por A e E e que AE = 2 cm, AD = 4 cm e AB = 5 cm. A medida do segmento SA que faz com que o volume do sólido seja igual a $4/3$ do volume da pirâmide SEFGH é",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "Sabe-se que existem números reais A e xo, sendo A > 0, tais que sen x + 2 cos x = A cos(x – xo) para todo x real. O valor de A é igual a",
+      principal: "Sabe-se que existem números reais A e xo, sendo A > 0, tais que $\\sin$ x + 2 $\\cos$ x = A $\\cos$(x – xo) para todo x real. O valor de A é igual a",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "Dadas as sequências an = n² + 4n + 4, bn = 2n², Cn = An+1 - an e dn = bn+1/bn, definidas para valores inteiros positivos de n, considere as seguintes afirmações:\nI. an é uma progressão geométrica;\nII. bn é uma progressão geométrica;\nIII. Cn é uma progressão aritmética;\nIV. dn é uma progressão geométrica.\nSão verdadeiras apenas",
+      principal: "Dadas as sequências an = n² + 4n + 4, bn = 2n², Cn = An+1 - an e dn = bn+$1/bn$, definidas para valores inteiros positivos de n, considere as seguintes afirmações:\nI. an é uma progressão geométrica;\nII. bn é uma progressão geométrica;\nIII. Cn é uma progressão aritmética;\nIV. dn é uma progressão geométrica.\nSão verdadeiras apenas",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "A grafite de um lápis tem quinze centímetros de comprimento e dois milímetros de espessura. Dentre os valores abaixo, o que mais se aproxima do número de átomos presentes nessa grafite é\nNote:\n1) Assuma que a grafite é um cilindro circular reto, feito de grafita pura. A espessura da grafite é o diâmetro da base do cilindro.\n2) Adote os valores aproximados de:\n• 2,2 g/cm³ para a densidade da grafita;\n• 12 g/mol para a massa molar do carbono;\n• 6,0 × 10^23 mol⁻¹ para a constante de Avogadro.",
+      principal: "A grafite de um lápis tem quinze centímetros de comprimento e dois milímetros de espessura. Dentre os valores abaixo, o que mais se aproxima do número de átomos presentes nessa grafite é\nNote:\n1) Assuma que a grafite é um cilindro circular reto, feito de grafita pura. A espessura da grafite é o diâmetro da base do cilindro.\n2) Adote os valores aproximados de:\n• 2,2 $g/cm$³ para a densidade da grafita;\n• 12 $g/mol$ para a massa molar do carbono;\n• 6,0 × $10^23$ mol⁻¹ para a constante de Avogadro.",
       subItens: []
     },
     options: [
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "Para impedir que a pressão interna de uma panela de pressão ultrapasse um certo valor, em sua tampa há um dispositivo formado por um pino acoplado a um tubo cilíndrico, como esquematizado na figura ao lado. Enquanto a força resultante sobre o pino for dirigida para baixo, a panela está perfeitamente vedada. Considere o diâmetro interno do tubo cilíndrico igual a 4 mm e a massa do pino igual a 48 g. Na situação em que apenas a força gravitacional, a pressão atmosférica e a exercida pelos gases na panela atuam no pino, a pressão absoluta máxima no interior da panela é\nNote e adote:\nπ = 3\n1 atm = 10^5 N/m²\naceleração local da gravidade = 10 m/s²",
+      principal: "Para impedir que a pressão interna de uma panela de pressão ultrapasse um certo valor, em sua tampa há um dispositivo formado por um pino acoplado a um tubo cilíndrico, como esquematizado na figura ao lado. Enquanto a força resultante sobre o pino for dirigida para baixo, a panela está perfeitamente vedada. Considere o diâmetro interno do tubo cilíndrico igual a 4 mm e a massa do pino igual a 48 g. Na situação em que apenas a força gravitacional, a pressão atmosférica e a exercida pelos gases na panela atuam no pino, a pressão absoluta máxima no interior da panela é\nNote e adote:\nπ = 3\n1 atm = $10^5$ $N/m$²\naceleração local da gravidade = 10 $m/s$²",
       subItens: []
     },
     options: [
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "A notícia \"Satélite brasileiro cai na Terra após lançamento falhar\", veiculada pelo jornal O Estado de S. Paulo de 10/12/2013, relata que o satélite CBERS-3, desenvolvido em parceria entre Brasil e China, foi lançado no espaço a uma altitude de 720 km (menor do que a planejada) e com uma velocidade abaixo da necessária para colocá-lo em órbita em torno da Terra. Para que o satélite pudesse ser colocado em órbita circular na altitude de 720 km, o módulo de sua velocidade (com direção tangente à órbita) deveria ser de, aproximadamente,\nNote e adote:\nraio da Terra = 6 x 10^3 km\nmassa da Terra = 6 × 10^24 kg\nconstante de gravitação universal G = 6,7 x 10^-11 m³ / (s² kg)",
+      principal: "A notícia \"Satélite brasileiro cai na Terra após lançamento falhar\", veiculada pelo jornal O Estado de S. Paulo de 10/12/2013, relata que o satélite CBERS-3, desenvolvido em parceria entre Brasil e China, foi lançado no espaço a uma altitude de 720 km (menor do que a planejada) e com uma velocidade abaixo da necessária para colocá-lo em órbita em torno da Terra. Para que o satélite pudesse ser colocado em órbita circular na altitude de 720 km, o módulo de sua velocidade (com direção tangente à órbita) deveria ser de, aproximadamente,\nNote e adote:\nraio da Terra = 6 x $10^3$ km\nmassa da Terra = 6 × $10^24$ kg\nconstante de gravitação universal G = 6,7 x 10^-11 m³ / (s² kg)",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "Em uma aula de laboratório de Física, para estudar propriedades de cargas elétricas, foi realizado um experimento em que pequenas esferas eletrizadas são injetadas na parte superior de uma câmara, em vácuo, onde há um campo elétrico uniforme na mesma direção e sentido da aceleração local da gravidade. Observou-se que, com campo elétrico de módulo igual a 2 x 10³ V/m, uma das esferas, de massa 3,2 x 10^-15 kg, permanecia com velocidade constante no interior da câmara. Essa esfera tem\nNote e adote:\ncarga do elétron = – 1,6 x 10^-19 C\ncarga do próton = + 1,6 x 10^-19 C\naceleração local da gravidade = 10 m/s²",
+      principal: "Em uma aula de laboratório de Física, para estudar propriedades de cargas elétricas, foi realizado um experimento em que pequenas esferas eletrizadas são injetadas na parte superior de uma câmara, em vácuo, onde há um campo elétrico uniforme na mesma direção e sentido da aceleração local da gravidade. Observou-se que, com campo elétrico de módulo igual a 2 x 10³ $V/m$, uma das esferas, de massa 3,2 x 10^-15 kg, permanecia com velocidade constante no interior da câmara. Essa esfera tem\nNote e adote:\ncarga do elétron = – 1,6 x 10^-19 C\ncarga do próton = + 1,6 x 10^-19 C\naceleração local da gravidade = 10 $m/s$²",
       subItens: []
     },
     options: [
@@ -1389,7 +1389,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "A figura acima mostra parte do teclado de um piano. Os valores das frequências das notas sucessivas, incluindo os sustenidos, representados pelo símbolo #, obedecem a uma progressão geométrica crescente da esquerda para a direita; a razão entre as frequências de duas notas Dó consecutivas vale 2; a frequência da nota Lá do teclado da figura é 440 Hz. O comprimento de onda, no ar, da nota Sol indicada na figura é próximo de\nNote e adote:\n2^(1/12) = 1,059\n(1,059)² = 1,12\nvelocidade do som no ar = 340 m/s",
+      principal: "A figura acima mostra parte do teclado de um piano. Os valores das frequências das notas sucessivas, incluindo os sustenidos, representados pelo símbolo #, obedecem a uma progressão geométrica crescente da esquerda para a direita; a razão entre as frequências de duas notas Dó consecutivas vale 2; a frequência da nota Lá do teclado da figura é 440 Hz. O comprimento de onda, no ar, da nota Sol indicada na figura é próximo de\nNote e adote:\n2^($1/12$) = 1,059\n(1,059)² = 1,12\nvelocidade do som no ar = 340 $m/s$",
       subItens: []
     },
     options: [
@@ -1536,7 +1536,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "Um estudante utilizou um programa de computador para testar seus conhecimentos sobre concentração de soluções. No programa de simulação, ele deveria escolher um soluto para dissolver em água, a quantidade desse soluto, em mol, e o volume da solução. Uma vez escolhidos os valores desses parâmetros, o programa apresenta, em um mostrador, a concentração da solução. A tela inicial do simulador é mostrada a seguir.\nO estudante escolheu um soluto e moveu os cursores A e B até que o mostrador de concentração indicasse o valor 0,50 mol/L. Quando esse valor foi atingido, os cursores A e B poderiam estar como mostrado em",
+      principal: "Um estudante utilizou um programa de computador para testar seus conhecimentos sobre concentração de soluções. No programa de simulação, ele deveria escolher um soluto para dissolver em água, a quantidade desse soluto, em mol, e o volume da solução. Uma vez escolhidos os valores desses parâmetros, o programa apresenta, em um mostrador, a concentração da solução. A tela inicial do simulador é mostrada a seguir.\nO estudante escolheu um soluto e moveu os cursores A e B até que o mostrador de concentração indicasse o valor 0,50 $mol/L$. Quando esse valor foi atingido, os cursores A e B poderiam estar como mostrado em",
       subItens: []
     },
     options: [
@@ -1599,7 +1599,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "Uma estudante de Química realizou o seguinte experimento: pesou um tubo de ensaio vazio, colocou nele um pouco de NaHCO3 (s) e pesou novamente. Em seguida, adicionou ao tubo de ensaio excesso de solução aquosa de HCl, o que provocou a reação química representada por NaHCO3 (s) + HCl (aq) → NaCl (aq) + CO2 (g) + H2O (l) Após a reação ter-se completado, a estudante aqueceu o sistema cuidadosamente, até que restasse apenas um sólido seco no tubo de ensaio. Deixou o sistema resfriar até a temperatura ambiente e o pesou novamente. A estudante anotou os resultados desse experimento em seu caderno, juntamente com dados obtidos consultando um manual de Química:\nDados obtidos no experimento:\nMassa do tubo de ensaio vazio: 8,70 g\nMassa do tubo de ensaio + NaHCO3(s): 11,20 g\nMassa do tubo de ensaio + produto sólido nele contido ao final do experimento: 10,45 g\nDados obtidos consultando um manual de Química:\nmassas molares (g/mol)\nH = 1,00, Na = 23,0, C = 12,0, Cl = 35,5, O = 16,0\nA estudante desejava determinar a massa de\nI. HCl que não reagiu;\nII. NaCl que se formou;\nIII. CO2 que se formou.\nConsiderando as anotações feitas pela estudante, é possível determinar a massa de",
+      principal: "Uma estudante de Química realizou o seguinte experimento: pesou um tubo de ensaio vazio, colocou nele um pouco de NaHCO3 (s) e pesou novamente. Em seguida, adicionou ao tubo de ensaio excesso de solução aquosa de HCl, o que provocou a reação química representada por NaHCO3 (s) + HCl (aq) → NaCl (aq) + CO2 (g) + H2O (l) Após a reação ter-se completado, a estudante aqueceu o sistema cuidadosamente, até que restasse apenas um sólido seco no tubo de ensaio. Deixou o sistema resfriar até a temperatura ambiente e o pesou novamente. A estudante anotou os resultados desse experimento em seu caderno, juntamente com dados obtidos consultando um manual de Química:\nDados obtidos no experimento:\nMassa do tubo de ensaio vazio: 8,70 g\nMassa do tubo de ensaio + NaHCO3(s): 11,20 g\nMassa do tubo de ensaio + produto sólido nele contido ao final do experimento: 10,45 g\nDados obtidos consultando um manual de Química:\nmassas molares ($g/mol$)\nH = 1,00, Na = 23,0, C = 12,0, Cl = 35,5, O = 16,0\nA estudante desejava determinar a massa de\nI. HCl que não reagiu;\nII. NaCl que se formou;\nIII. CO2 que se formou.\nConsiderando as anotações feitas pela estudante, é possível determinar a massa de",
       subItens: []
     },
     options: [
@@ -1620,7 +1620,7 @@ createQuestion({
     university: "fuvest",
     year: 2015,
     text: {
-      principal: "Soluções aquosas de ácido clorídrico, HCl (aq), e de ácido acético, H3CCOOH (aq), ambas de concentração 0,10 mol/L, apresentam valores de pH iguais a 1,0 e 2,9, respectivamente.\nEm experimentos separados, volumes iguais de cada uma dessas soluções foram titulados com uma solução aquosa de hidróxido de sódio, NaOH (aq), de concentração adequada. Nessas titulações, a solução de NaOH foi adicionada lentamente ao recipiente contendo a solução ácida, até reação completa. Sejam V₁ o volume da solução de NaOH para reação completa com a solução de HCl e V2 o volume da solução de NaOH para reação completa com a solução de H3CCOOH. A relação entre V₁ e V2 é",
+      principal: "Soluções aquosas de ácido clorídrico, HCl (aq), e de ácido acético, H3CCOOH (aq), ambas de concentração 0,10 $mol/L$, apresentam valores de pH iguais a 1,0 e 2,9, respectivamente.\nEm experimentos separados, volumes iguais de cada uma dessas soluções foram titulados com uma solução aquosa de hidróxido de sódio, NaOH (aq), de concentração adequada. Nessas titulações, a solução de NaOH foi adicionada lentamente ao recipiente contendo a solução ácida, até reação completa. Sejam V₁ o volume da solução de NaOH para reação completa com a solução de HCl e V2 o volume da solução de NaOH para reação completa com a solução de H3CCOOH. A relação entre V₁ e V2 é",
       subItens: []
     },
     options: [

@@ -123,7 +123,7 @@ createQuestion({
     university: "ufg",
     year: 2021,
     text: {
-      principal: "Leia o texto a seguir.\n\nAmor e medo\n\nQuanto eu te fujo e me desvio cauto\nDa luz de fogo que te cerca, oh! bela,\nContigo dizes, suspirando amores:\n\"- Meu Deus! que gelo, que frieza aquela.\"\n\nComo te enganas! meu amor é chama\nQue se alimenta no voraz segredo,\nE se te fujo é que te adoro louco...\nÉs bela – eu moço; tens amor – eu medo!\n[...]\nAi! se eu te visse, Magdalena pura,\nSobre o veludo reclinada a meio,\nOlhos cerrados na volúpia doce,\nOs braços frouxos – palpitante o seio!...\n\nAi! se eu te visse em languidez sublime,\nNa face as rosas virginais do pejo,\nTrêmula a fala a protestar baixinho...\nVermelha a boca, soluçando um beijo!...\n\nDiz: - que seria da pureza d'anjo,\nDas vestes alvas, do candor das asas?\n- Tu te queimaras, a pisar descalça,\nCriança louca, – sobre um chão de brasas!\n\nNo fogo vivo eu me abrasara inteiro!\nÉbrio e sedento na fugaz vertigem\nVil, machucara com meu dedo impuro\nAs pobres flores da grinalda virgem!\n\nVampiro infame, eu sorveria em beijos\nToda a inocência que teu lábio encerra,\nE tu serias no lascivo abraço\nAnjo enlodado nos pauis da terra.\nDepois... desperta no febril delírio,\n\nOlhos pisados – como um vão lamento,\nTu perguntaras: – qu'é da minha c'roa?...\nEu te diria: - desfolhou-a o vento!...\n\nOh! não me chames coração de gelo!\nBem vês: traí-me no fatal segredo.\nSe de ti fujo é que te adoro e muito,\nÉs bela – eu moço; tens amor, eu – medo!...\n\nABREU, Casimiro. As primaveras. São Paulo: Livraria Editora Martins S/A,\n1972. p. 54-56.\n\nNo poema transcrito, o medo de amar confessado pelo eu\nlírico é coerente com o ideal feminino dos poetas\nultrarromânticos. Sendo assim, a fuga da realização do\namor se justifica porque esse ato",
+      principal: "Leia o texto a seguir.\n\nAmor e medo\n\nQuanto eu te fujo e me desvio cauto\nDa luz de fogo que te cerca, oh! bela,\nContigo dizes, suspirando amores:\n\"- Meu Deus! que gelo, que frieza aquela.\"\n\nComo te enganas! meu amor é chama\nQue se alimenta no voraz segredo,\nE se te fujo é que te adoro louco...\nÉs bela – eu moço; tens amor – eu medo!\n[...]\nAi! se eu te visse, Magdalena pura,\nSobre o veludo reclinada a meio,\nOlhos cerrados na volúpia doce,\nOs braços frouxos – palpitante o seio!...\n\nAi! se eu te visse em languidez sublime,\nNa face as rosas virginais do pejo,\nTrêmula a fala a protestar baixinho...\nVermelha a boca, soluçando um beijo!...\n\nDiz: - que seria da pureza d'anjo,\nDas vestes alvas, do candor das asas?\n- Tu te queimaras, a pisar descalça,\nCriança louca, – sobre um chão de brasas!\n\nNo fogo vivo eu me abrasara inteiro!\nÉbrio e sedento na fugaz vertigem\nVil, machucara com meu dedo impuro\nAs pobres flores da grinalda virgem!\n\nVampiro infame, eu sorveria em beijos\nToda a inocência que teu lábio encerra,\nE tu serias no lascivo abraço\nAnjo enlodado nos pauis da terra.\nDepois... desperta no febril delírio,\n\nOlhos pisados – como um vão lamento,\nTu perguntaras: – qu'é da minha c'roa?...\nEu te diria: - desfolhou-a o vento!...\n\nOh! não me chames coração de gelo!\nBem vês: traí-me no fatal segredo.\nSe de ti fujo é que te adoro e muito,\nÉs bela – eu moço; tens amor, eu – medo!...\n\nABREU, Casimiro. As primaveras. São Paulo: Livraria Editora Martins $S/A$,\n1972. p. 54-56.\n\nNo poema transcrito, o medo de amar confessado pelo eu\nlírico é coerente com o ideal feminino dos poetas\nultrarromânticos. Sendo assim, a fuga da realização do\namor se justifica porque esse ato",
       subItens: []
     },
     options: [
@@ -643,7 +643,7 @@ createQuestion({
     university: "ufg",
     year: 2021,
     text: {
-      principal: "Leia o texto a seguir.\n\nSegundo a Organização Mundial da Saúde (OMS), a gestação\nna adolescência é uma condição que eleva a prevalência de\ncomplicações para a mãe, para o feto e para o recém-nascido,\nalém de agravar problemas socioeconômicos já existentes. A\ntaxa de gestação na adolescência no Brasil é alta, com 400 mil\ncasos/ano. Quanto à faixa etária, os dados revelam que em\n2014 nasceram 28.244 filhos de meninas entre 10 e 14 anos e\n534.364 crianças de mães com idade entre 15 e 19 anos. Além\nda desinformação sobre sexualidade e direitos sexuais e\nreprodutivos, o uso inadequado de contraceptivos piora essa\ncondição.\n\nDisponível em: <http://bvsms.saude.gov.br/ultimas-noticias/3123-01-a-08-02-\nsemana-nacional-de-prevencao-da-gravidez-na-adolescencia>. Acesso em: 4 dez.\n2020. (Adaptado).\n\nNesse contexto, o método contraceptivo artificial menos\ninvasivo, e relativamente seguro, indicado para prevenção\nda gravidez nessa faixa etária é:",
+      principal: "Leia o texto a seguir.\n\nSegundo a Organização Mundial da Saúde (OMS), a gestação\nna adolescência é uma condição que eleva a prevalência de\ncomplicações para a mãe, para o feto e para o recém-nascido,\nalém de agravar problemas socioeconômicos já existentes. A\ntaxa de gestação na adolescência no Brasil é alta, com 400 mil\n$casos/ano$. Quanto à faixa etária, os dados revelam que em\n2014 nasceram 28.244 filhos de meninas entre 10 e 14 anos e\n534.364 crianças de mães com idade entre 15 e 19 anos. Além\nda desinformação sobre sexualidade e direitos sexuais e\nreprodutivos, o uso inadequado de contraceptivos piora essa\ncondição.\n\nDisponível em: <http://bvsms.saude.gov.$br/ultimas$-$noticias/3123$-01-a-08-02-\nsemana-nacional-de-prevencao-da-gravidez-na-adolescencia>. Acesso em: 4 dez.\n2020. (Adaptado).\n\nNesse contexto, o método contraceptivo artificial menos\ninvasivo, e relativamente seguro, indicado para prevenção\nda gravidez nessa faixa etária é:",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "ufg",
     year: 2021,
     text: {
-      principal: "Analise o cartum a seguir, em que há ênfase no\nconsumismo disseminado por meio da obsolescência\nprogramada.\n\nESSE IPOD NOVO\nTEM MAIS DE\nMIL FUNÇÕES!\n\nPRINCIPALMENTE\nA DE PIFAR\nLOGO PRA EU\nLUCRAR!\n\nDisponível em: <http://portaldoprofessor.mec.gov.br/fichaTecnicaAula.html?\naula=58812>. Acesso em: 30 nov. 2020.\n\nA consequência do problema representado é:",
+      principal: "Analise o cartum a seguir, em que há ênfase no\nconsumismo disseminado por meio da obsolescência\nprogramada.\n\nESSE IPOD NOVO\nTEM MAIS DE\nMIL FUNÇÕES!\n\nPRINCIPALMENTE\nA DE PIFAR\nLOGO PRA EU\nLUCRAR!\n\nDisponível em: <http://portaldoprofessor.mec.gov.$br/fichaTecnicaAula$.html?\naula=58812>. Acesso em: 30 nov. 2020.\n\nA consequência do problema representado é:",
       subItens: []
     },
     options: [
@@ -863,7 +863,7 @@ createQuestion({
     university: "ufg",
     year: 2021,
     text: {
-      principal: "A densidade do ouro é de 19.3 g/cm³. Ao analisar uma\namostra de metal dourado, um químico colocou essa\namostra em uma proveta com água e observou o\ndeslocamento de 0,5 ml de água. Ao pesar a amostra em\numa balança analítica, comprovou que era ouro ao obter a\nmassa de",
+      principal: "A densidade do ouro é de 19.3 $g/cm$³. Ao analisar uma\namostra de metal dourado, um químico colocou essa\namostra em uma proveta com água e observou o\ndeslocamento de 0,5 ml de água. Ao pesar a amostra em\numa balança analítica, comprovou que era ouro ao obter a\nmassa de",
       subItens: []
     },
     options: [
@@ -903,7 +903,7 @@ createQuestion({
     university: "ufg",
     year: 2021,
     text: {
-      principal: "Observe o quadro a seguir que apresenta o nível de\ninstrução no Brasil, em 2019, das pessoas com 25 anos ou\nmais.\n\n(Bar chart showing education levels for people 25 years or older in Brazil - 2019, with percentages for each level from 'Sem instrução' to 'Ensino Superior completo'.)\n\nFonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios Contínua 2012-2019.\n\nDisponível em: <https://educa.ibge.gov.br/jovens>. Acesso em: 6 dez. 2020.\n(Adaptado).\n\nConsidere que a população brasileira com 25 anos ou mais\nseja de 134 milhões. Nessas condições, o número de\npessoas, em milhões, que concluíram no mínimo o ensino\nmédio foi igual a",
+      principal: "Observe o quadro a seguir que apresenta o nível de\ninstrução no Brasil, em 2019, das pessoas com 25 anos ou\nmais.\n\n(Bar chart showing education levels for people 25 years or older in Brazil - 2019, with percentages for each level from 'Sem instrução' to 'Ensino Superior completo'.)\n\nFonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios Contínua 2012-2019.\n\nDisponível em: <https://educa.ibge.gov.$br/jovens$>. Acesso em: 6 dez. 2020.\n(Adaptado).\n\nConsidere que a população brasileira com 25 anos ou mais\nseja de 134 milhões. Nessas condições, o número de\npessoas, em milhões, que concluíram no mínimo o ensino\nmédio foi igual a",
       subItens: []
     },
     options: [
@@ -923,7 +923,7 @@ createQuestion({
     university: "ufg",
     year: 2021,
     text: {
-      principal: "Leia o texto a seguir.\n\nA safra de grãos 2020/2021 do Brasil deve chegar a 268,7\nmilhões de toneladas. Isso representa 4,2% sobre a produção de\n2019/2020, um recorde de produção.\n\nDisponível em: <https://www.canalrural.com.br/noticias/agricultura>. Acesso\nem: 6 dez. 2020. (Adaptado).\n\nDe acordo com os dados apresentados, a produção da safra\n2019/2020 no Brasil, em milhões de toneladas, foi\naproximadamente igual a",
+      principal: "Leia o texto a seguir.\n\nA safra de grãos $2020/2021$ do Brasil deve chegar a 268,7\nmilhões de toneladas. Isso representa 4,2% sobre a produção de\n$2019/2020$, um recorde de produção.\n\nDisponível em: <https://www.canalrural.com.br/noticias/agricultura>. Acesso\nem: 6 dez. 2020. (Adaptado).\n\nDe acordo com os dados apresentados, a produção da safra\n$2019/2020$ no Brasil, em milhões de toneladas, foi\naproximadamente igual a",
       subItens: []
     },
     options: [
@@ -1067,10 +1067,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/6-1/8.",
-      "1/6-1/6.",
-      "3/2-1/6.",
-      "3/2-1/8."
+      "$1/6$-$1/8$.",
+      "$1/6$-$1/6$.",
+      "$3/2$-$1/6$.",
+      "$3/2$-$1/8$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1103,14 +1103,14 @@ createQuestion({
     university: "ufg",
     year: 2021,
     text: {
-      principal: "Considerando os números complexos\nz₁ = 1 − i; z₂ = √2 ρί.π/4\nentão, a razão entre as raízes z2/z₁ é igual a",
+      principal: "Considerando os números complexos\nz₁ = 1 − i; z₂ = √2 ρί.π/4\nentão, a razão entre as raízes $z2/z$₁ é igual a",
       subItens: []
     },
     options: [
       "-i.",
       "i.",
-      "-i/2.",
-      "i/2."
+      "-$i/2$.",
+      "$i/2$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1123,7 +1123,7 @@ createQuestion({
     university: "ufg",
     year: 2021,
     text: {
-      principal: "Leia o texto a seguir.\n\nA Secretaria da Saúde de Goiás (SES-GO) informou que, até 4\nde dezembro de 2020, havia 285 465 casos de Covid-19 no\nterritório goiano. Destes, há o registro de 274 412 pessoas\nrecuperadas e 6 438 óbitos confirmados.\n\nDisponível em: <https://www.goias.gov.br/servico>. Acesso em: 6 dez. 2020.\n(Adaptado).\n\nDe acordo com os dados apresentados, a taxa de letalidade\né aproximadamente igual a",
+      principal: "Leia o texto a seguir.\n\nA Secretaria da Saúde de Goiás (SES-GO) informou que, até 4\nde dezembro de 2020, havia 285 465 casos de Covid-19 no\nterritório goiano. Destes, há o registro de 274 412 pessoas\nrecuperadas e 6 438 óbitos confirmados.\n\nDisponível em: <https://www.goias.gov.$br/servico$>. Acesso em: 6 dez. 2020.\n(Adaptado).\n\nDe acordo com os dados apresentados, a taxa de letalidade\né aproximadamente igual a",
       subItens: []
     },
     options: [
@@ -1147,10 +1147,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1-1/ln(3).",
-      "1-1/3.",
-      "e-1/ln(3).",
-      "e-1/3."
+      "1-$1/ln$(3).",
+      "1-$1/3$.",
+      "e-$1/ln$(3).",
+      "e-$1/3$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1183,7 +1183,7 @@ createQuestion({
     university: "ufg",
     year: 2021,
     text: {
-      principal: "Uma haste ABC, com articulação em B, tem medidas dos\nbraços AB = 3 e BC = 4. Uma mola deve ser selecionada\npara ligar as extremidades A e C. As dimensões mínima e\nmáxima da mola devem ser escolhidas de modo que a\nmedida x do ângulo de vértice em B possa variar apenas de\n60 a 90 graus. Pela Lei dos Cossenos tem-se que\nAC² = AB² + BC² – 2AB.BC.cos (x).\n\nEntão, a mola AC deverá ter medida do comprimento com\na variação mínima e máxima de, respectivamente,",
+      principal: "Uma haste ABC, com articulação em B, tem medidas dos\nbraços AB = 3 e BC = 4. Uma mola deve ser selecionada\npara ligar as extremidades A e C. As dimensões mínima e\nmáxima da mola devem ser escolhidas de modo que a\nmedida x do ângulo de vértice em B possa variar apenas de\n60 a 90 graus. Pela Lei dos Cossenos tem-se que\nAC² = AB² + BC² – 2AB.BC.$\\cos$ (x).\n\nEntão, a mola AC deverá ter medida do comprimento com\na variação mínima e máxima de, respectivamente,",
       subItens: []
     },
     options: [

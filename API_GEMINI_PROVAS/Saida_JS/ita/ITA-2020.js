@@ -66,15 +66,15 @@ createQuestion({
     university: "ita",
     year: 2020,
     text: {
-      principal: "Por uma mangueira de diâmetro D₁ flui água a uma velocidade de 360 m/min, conectando-se na sua extremidade a 30 outras mangueiras iguais entre si, de diâmetro D2 < D1. Assinale a relação D2/D1 para que os jatos de água na saída das mangueiras tenham alcance horizontal máximo de 40 m.",
+      principal: "Por uma mangueira de diâmetro D₁ flui água a uma velocidade de 360 $m/min$, conectando-se na sua extremidade a 30 outras mangueiras iguais entre si, de diâmetro D2 < D1. Assinale a relação $D2/D1$ para que os jatos de água na saída das mangueiras tenham alcance horizontal máximo de 40 m.",
       subItens: []
     },
     options: [
-      "1/10.",
-      "√3/10.",
-      "4/5.",
-      "1/2.",
-      "√2/3."
+      "$1/10$.",
+      "√$3/10$.",
+      "$4/5$.",
+      "$1/2$.",
+      "√$2/3$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -87,15 +87,15 @@ createQuestion({
     university: "ita",
     year: 2020,
     text: {
-      principal: "Um satélite artificial viaja em direção a um planeta ao longo de uma trajetória parabólica. A uma distância d desse corpo celeste, propulsores são acionados de modo a, a partir daquele instante, mudar o módulo da velocidade do satélite de vp para ve e também a sua trajetória, que passa a ser elíptica em torno do planeta, com semieixo maior a. Sendo a massa do satélite desproporcionalmente menor que a do planeta, a razão ve/vp é dada por",
+      principal: "Um satélite artificial viaja em direção a um planeta ao longo de uma trajetória parabólica. A uma distância d desse corpo celeste, propulsores são acionados de modo a, a partir daquele instante, mudar o módulo da velocidade do satélite de vp para ve e também a sua trajetória, que passa a ser elíptica em torno do planeta, com semieixo maior a. Sendo a massa do satélite desproporcionalmente menor que a do planeta, a razão $ve/vp$ é dada por",
       subItens: []
     },
     options: [
-      "1-d/2a",
-      "2d/a",
-      "1-d/2a",
-      "1 + d/2α",
-      "1-d/a"
+      "1-$d/2a$",
+      "$2d/a$",
+      "1-$d/2a$",
+      "1 + $d/2$α",
+      "1-$d/a$"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -171,15 +171,15 @@ createQuestion({
     university: "ita",
     year: 2020,
     text: {
-      principal: "Uma certa quantidade de gás com temperatura inicial To, pressão Po e volume Vo, é aquecida por uma corrente elétrica que flui por um fio de platina num intervalo de tempo At. Esse procedimento é feito duas vezes: primeiro, com volume constante Vo e pressão variando de Po para P₁ e, a seguir, com pressão constante Po e volume variando de Vo para V₁. Assinale a alternativa que explicita a relação Cp/Cv do gás.",
+      principal: "Uma certa quantidade de gás com temperatura inicial To, pressão Po e volume Vo, é aquecida por uma corrente elétrica que flui por um fio de platina num intervalo de tempo At. Esse procedimento é feito duas vezes: primeiro, com volume constante Vo e pressão variando de Po para P₁ e, a seguir, com pressão constante Po e volume variando de Vo para V₁. Assinale a alternativa que explicita a relação $Cp/Cv$ do gás.",
       subItens: []
     },
     options: [
-      "(Po/V1 - 1) / (P1/Vo - 1)",
-      "(P1/Po - 1) / (V1/Vo - 1)",
-      "(2Po/P1 - 1) / (Vo/V1 - 1)",
-      "(2P1/Po - 1) / (2V1/Vo - 1)",
-      "(P1/Po - 1) / (2V1/Vo - 1)"
+      "($Po/V1$ - 1) / ($P1/Vo$ - 1)",
+      "($P1/Po$ - 1) / ($V1/Vo$ - 1)",
+      "($2Po/P1$ - 1) / ($Vo/V1$ - 1)",
+      "($2P1/Po$ - 1) / ($2V1/Vo$ - 1)",
+      "($P1/Po$ - 1) / ($2V1/Vo$ - 1)"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -217,11 +217,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5,0×102 m/s",
-      "2,5×102 m/s",
-      "1,0×103 m/s",
-      "2,0×103 m/s",
-      "3,4×102 m/s"
+      "5,0×102 $m/s$",
+      "2,5×102 $m/s$",
+      "1,0×103 $m/s$",
+      "2,0×103 $m/s$",
+      "3,4×102 $m/s$"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -240,8 +240,8 @@ createQuestion({
     options: [
       "1,5 mC.",
       "75 μC.",
-      "75x µC/cm.",
-      "15x µC/cm.",
+      "75x µ$C/cm$.",
+      "15x µ$C/cm$.",
       "7,5 μC."
     ],
     correctAnswer: 0,
@@ -259,10 +259,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "l√(12πεοmg senθ cos θ).",
+      "l√(12πεοmg $\\sin$θ $\\cos$ θ).",
       "l√(4περmg tg0√3).",
-      "l senθ√ 4περmg tg0√3.",
-      "l senθ √(4πε0mg tg 0 / √3)",
+      "l $\\sin$θ√ 4περmg tg0√3.",
+      "l $\\sin$θ √(4πε0mg $\\tan$ 0 / √3)",
       "lsen θ√ 4περmg tg0."
     ],
     correctAnswer: 2,
@@ -281,10 +281,10 @@ createQuestion({
     },
     options: [
       "1 mm.",
-      "√2/2 mm.",
-      "(1-√2/2) mm.",
-      "√3/3 mm.",
-      "(1 - √3/3) mm."
+      "√$2/2$ mm.",
+      "(1-√$2/2$) mm.",
+      "√$3/3$ mm.",
+      "(1 - √$3/3$) mm."
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -675,7 +675,7 @@ createQuestion({
     university: "ita",
     year: 2020,
     text: {
-      principal: "As questões de 33 a 35 referem-se ao texto destacado a seguir. If there is any doubt about the persistent power of literature in the face of digital culture, it should be banished by the recent climb of George Orwell's 1984 up the Amazon \"Movers and Shakers\" list. There is much that's resonant for us in Orwell's dystopia in the face of Edward Snowden's revelations about the NSA [...]. We look to 1984 as a clear cautionary tale, even a prophecy, of systematic abuse of power taken to the end of the line. [...] However, after “THE END\" of his dystopian novel 1984, George Orwell includes another chapter, an appendix, called “The Principles of Newspeak.\" Since it has the trappings of a tedious scholarly treatise, readers often skip the appendix. But it changes our whole understanding of the novel. Written from some unspecified point in the future, it suggests that Big Brother was eventually defeated. The victory is attributed not to individual rebels or to The Brotherhood, an anonymous resistance group, but rather to language itself. The appendix details Oceania's attempt to replace Oldspeak, or English, with Newspeak, a linguistic shorthand that reduces the world of ideas to a set of simple, stark words. \"The whole aim of Newspeak is to narrow the range of thought.” It will render dissent “literally impossible, because there will be no words in which to express it.\" Fonte: Frost, Laura. http://qz.com/95696. Adaptado. Acesso em agosto de 2019. Questão 33. De acordo com o texto, em geral, os leitores do clássico 1984, de George Orwell, dispensam a leitura do apêndice da obra porque",
+      principal: "As questões de 33 a 35 referem-se ao texto destacado a seguir. If there is any doubt about the persistent power of literature in the face of digital culture, it should be banished by the recent climb of George Orwell's 1984 up the Amazon \"Movers and Shakers\" list. There is much that's resonant for us in Orwell's dystopia in the face of Edward Snowden's revelations about the NSA [...]. We look to 1984 as a clear cautionary tale, even a prophecy, of systematic abuse of power taken to the end of the line. [...] However, after “THE END\" of his dystopian novel 1984, George Orwell includes another chapter, an appendix, called “The Principles of Newspeak.\" Since it has the trappings of a tedious scholarly treatise, readers often skip the appendix. But it changes our whole understanding of the novel. Written from some unspecified point in the future, it suggests that Big Brother was eventually defeated. The victory is attributed not to individual rebels or to The Brotherhood, an anonymous resistance group, but rather to language itself. The appendix details Oceania's attempt to replace Oldspeak, or English, with Newspeak, a linguistic shorthand that reduces the world of ideas to a set of simple, stark words. \"The whole aim of Newspeak is to narrow the range of thought.” It will render dissent “literally impossible, because there will be no words in which to express it.\" Fonte: Frost, Laura. http://qz.$com/95696$. Adaptado. Acesso em agosto de 2019. Questão 33. De acordo com o texto, em geral, os leitores do clássico 1984, de George Orwell, dispensam a leitura do apêndice da obra porque",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "ita",
     year: 2020,
     text: {
-      principal: "As questões de 36 a 38 referem-se ao texto destacado: \"Of course they're fake videos, everyone can see they're not real. All the same, they really did say those things, didn't they?\" These are the words of Vivienne Rook, the fictional politician played by Emma Thompson in the brilliant dystopian BBC TV drama Years and Years. The episode in question, set in 2027, tackles the subject of \"deepfakes\" videos in which a living person's face and voice are digitally manipulated to say anything the programmer wants. Rook perfectly sums up the problem with these videos - even if you know they are fake, they leave a lingering impression. And her words are all the more compelling because deepfakes are real and among us already. Last year, several deepfake porn videos emerged online, appearing to show celebrities such as Emma Watson, Gal Gadot and Taylor Swift in explicit situations. [...] In some cases, the deepfakes are almost indistinguishable from the real thing - which is particularly worrying for politicians and other people in the public eye. Videos that may initially been created for laughs could easily be misinterpreted by viewers. Earlier this year, for example, a digitally altered video appeared to show Nancy Pelosi, the speaker of the US House of Representatives, slurring drunkenly through a speech. The video was widely shared on Facebook and YouTube, before being tweeted by President Donald Trump with the caption: “PELOSI STAMMERS THROUGH NEWS CONFERENCE\". The video was debunked, but not before it had been viewed millions of times. Trump has still not deleted the tweet, which has been retweeted over 30,000 times. The current approach of social media companies is to filter out and reduce the distribution of deepfake videos, rather than outright removing them - unless they are pornographic. This can result in victims suffering severe reputational damage, not to mention ongoing humiliation and ridicule from viewers. \"Deepfakes are one of the most alarming trends I have witnessed as a Congresswoman to date,\" said US Congresswoman Yvette Clarke in a recent article for Quartz. \"If the American public can be made to believe and trust altered videos of presidential candidates, our democracy is in grave danger. We need to work together to stop deepfakes from becoming the defining feature of the 2020 elections.\" Of course, it's not just democracy that is at risk, but also the economy, the legal system and even individuals themselves. Clarke warns that, if deepfake technology continues to evolve without a check, video evidence could lose its credibility during trials. It is not hard to imagine it being used by disgruntled ex-lovers, employees and random people on the internet to exact revenge and ruin people's reputations. The software for creating these videos is already widely available. Fonte: Curtis, Sophie. https://www.mirror.co.uk/tech/deepfake-videos-creepy-new-internet-18289900. Adaptado. Acessado em Agosto/2019. Questão 36. De acordo com o texto, é correto afirmar que",
+      principal: "As questões de 36 a 38 referem-se ao texto destacado: \"Of course they're fake videos, everyone can see they're not real. All the same, they really did say those things, didn't they?\" These are the words of Vivienne Rook, the fictional politician played by Emma Thompson in the brilliant dystopian BBC TV drama Years and Years. The episode in question, set in 2027, tackles the subject of \"deepfakes\" videos in which a living person's face and voice are digitally manipulated to say anything the programmer wants. Rook perfectly sums up the problem with these videos - even if you know they are fake, they leave a lingering impression. And her words are all the more compelling because deepfakes are real and among us already. Last year, several deepfake porn videos emerged online, appearing to show celebrities such as Emma Watson, Gal Gadot and Taylor Swift in explicit situations. [...] In some cases, the deepfakes are almost indistinguishable from the real thing - which is particularly worrying for politicians and other people in the public eye. Videos that may initially been created for laughs could easily be misinterpreted by viewers. Earlier this year, for example, a digitally altered video appeared to show Nancy Pelosi, the speaker of the US House of Representatives, slurring drunkenly through a speech. The video was widely shared on Facebook and YouTube, before being tweeted by President Donald Trump with the caption: “PELOSI STAMMERS THROUGH NEWS CONFERENCE\". The video was debunked, but not before it had been viewed millions of times. Trump has still not deleted the tweet, which has been retweeted over 30,000 times. The current approach of social media companies is to filter out and reduce the distribution of deepfake videos, rather than outright removing them - unless they are pornographic. This can result in victims suffering severe reputational damage, not to mention ongoing humiliation and ridicule from viewers. \"Deepfakes are one of the most alarming trends I have witnessed as a Congresswoman to date,\" said US Congresswoman Yvette Clarke in a recent article for Quartz. \"If the American public can be made to believe and trust altered videos of presidential candidates, our democracy is in grave danger. We need to work together to stop deepfakes from becoming the defining feature of the 2020 elections.\" Of course, it's not just democracy that is at risk, but also the economy, the legal system and even individuals themselves. Clarke warns that, if deepfake technology continues to evolve without a check, video evidence could lose its credibility during trials. It is not hard to imagine it being used by disgruntled ex-lovers, employees and random people on the internet to exact revenge and ruin people's reputations. The software for creating these videos is already widely available. Fonte: Curtis, Sophie. https://www.mirror.co.uk/tech/deepfake-videos-creepy-new-internet-18289900. Adaptado. Acessado em $Agosto/2019$. Questão 36. De acordo com o texto, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -800,7 +800,7 @@ createQuestion({
     university: "ita",
     year: 2020,
     text: {
-      principal: "As questões 39 e 40 referem-se ao texto destacado: About seven years ago, three researchers at the University of Toronto built a system that could analyze thousands of photos and teach itself to recognize everyday objects, like dogs, cars and flowers. The system was so effective that Google bought the tiny start-up these researchers were only just getting off the ground. And soon, their system sparked a technological revolution. Suddenly, machines could \"see\" in a way that was not possible in the past. This made it easier for a smartphone app to search your personal photos and find the images you were looking for. It accelerated the progress of driverless cars and other robotics. And it improved the accuracy of facial recognition services, for social networks like Facebook and for the country's law enforcement agencies. But soon, researchers noticed that these facial recognition services were less accurate when used with women and people of color. Activists raised concerns over how companies were collecting the huge amounts of data needed to train these kinds of systems. Others worried these systems would eventually lead to mass surveillance or autonomous weapons. Fonte: Matz, Cade. Seeking Ground Rules for A. I. www.nytimes.com, 01/03/2019. Adaptado. Acessado em Agosto/2019.) Questão 39. De acordo com as informações do texto, selecione a alternativa que melhor complete a afirmação: The new system proved to be less precise when",
+      principal: "As questões 39 e 40 referem-se ao texto destacado: About seven years ago, three researchers at the University of Toronto built a system that could analyze thousands of photos and teach itself to recognize everyday objects, like dogs, cars and flowers. The system was so effective that Google bought the tiny start-up these researchers were only just getting off the ground. And soon, their system sparked a technological revolution. Suddenly, machines could \"see\" in a way that was not possible in the past. This made it easier for a smartphone app to search your personal photos and find the images you were looking for. It accelerated the progress of driverless cars and other robotics. And it improved the accuracy of facial recognition services, for social networks like Facebook and for the country's law enforcement agencies. But soon, researchers noticed that these facial recognition services were less accurate when used with women and people of color. Activists raised concerns over how companies were collecting the huge amounts of data needed to train these kinds of systems. Others worried these systems would eventually lead to mass surveillance or autonomous weapons. Fonte: Matz, Cade. Seeking Ground Rules for A. I. www.nytimes.com, 01/03/2019. Adaptado. Acessado em $Agosto/2019$.) Questão 39. De acordo com as informações do texto, selecione a alternativa que melhor complete a afirmação: The new system proved to be less precise when",
       subItens: []
     },
     options: [
@@ -884,15 +884,15 @@ createQuestion({
     university: "ita",
     year: 2020,
     text: {
-      principal: "A parte real da soma infinita da progressão geométrica cujo termo geral an é dado por an = (cos n + i sen n) / 2n, n = 1, 2, 3, ... é igual a",
+      principal: "A parte real da soma infinita da progressão geométrica cujo termo geral an é dado por an = ($\\cos$ n + i $\\sin$ n) / 2n, n = 1, 2, 3, ... é igual a",
       subItens: []
     },
     options: [
-      "(-1 + 2 cos 1) / (5 - 4 cos 1)",
-      "(-2 + 4 cos 1) / (5 - 4 cos 1)",
-      "(4 - 2 cos 1) / (5 - 4 cos 1)",
-      "(1 + 2 cos 1) / (5 - 4 cos 1)",
-      "(2 + 4 cos 1) / (5 - 4 cos 1)"
+      "(-1 + 2 $\\cos$ 1) / (5 - 4 $\\cos$ 1)",
+      "(-2 + 4 $\\cos$ 1) / (5 - 4 $\\cos$ 1)",
+      "(4 - 2 $\\cos$ 1) / (5 - 4 $\\cos$ 1)",
+      "(1 + 2 $\\cos$ 1) / (5 - 4 $\\cos$ 1)",
+      "(2 + 4 $\\cos$ 1) / (5 - 4 $\\cos$ 1)"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -968,7 +968,7 @@ createQuestion({
     university: "ita",
     year: 2020,
     text: {
-      principal: "Seja a um número real satisfazendo 0 < a < π/2. Então, a soma de todos os valores de x ∈ [0, 2π] que satisfazem a equação cos x sen(a + x) = sen a é igual a",
+      principal: "Seja a um número real satisfazendo 0 < a < π/2. Então, a soma de todos os valores de x ∈ [0, 2π] que satisfazem a equação $\\cos$ x $\\sin$(a + x) = $\\sin$ a é igual a",
       subItens: []
     },
     options: [
@@ -1031,15 +1031,15 @@ createQuestion({
     university: "ita",
     year: 2020,
     text: {
-      principal: "Seja p(x) = ax⁴ + bx³ + cx² + dx + e um polinômio com coeficientes reais. Sabendo que: I. p(x) é divisível por x² – 4; III. o produto das raízes de p(x) é igual a 3; II. a soma das raízes de p(x) é igual a 1; IV. p(-1) = -15/4; então, p(1) é igual a",
+      principal: "Seja p(x) = ax⁴ + bx³ + cx² + dx + e um polinômio com coeficientes reais. Sabendo que: I. p(x) é divisível por x² – 4; III. o produto das raízes de p(x) é igual a 3; II. a soma das raízes de p(x) é igual a 1; IV. p(-1) = -$15/4$; então, p(1) é igual a",
       subItens: []
     },
     options: [
-      "17/2",
-      "-19/4",
-      "-3/2",
-      "-9/4",
-      "9/2"
+      "$17/2$",
+      "-$19/4$",
+      "-$3/2$",
+      "-$9/4$",
+      "$9/2$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1140,11 +1140,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/3.",
-      "1/5.",
-      "4/15.",
-      "13/30.",
-      "29/30."
+      "$1/3$.",
+      "$1/5$.",
+      "$4/15$.",
+      "$13/30$.",
+      "$29/30$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1409,7 +1409,7 @@ createQuestion({
     university: "ita",
     year: 2020,
     text: {
-      principal: "Considerando que o aré composto aproximadamente de 21% de O2 e 79% de N2 em volume, tem-se que a razão molar ar/combustível da combustão completa de um determinado alcano é igual a 59,5. A partir desse dado, assinale a alternativa que corresponde à soma dos coeficientes estequiométricos de todas as substâncias presentes nessa reação.",
+      principal: "Considerando que o aré composto aproximadamente de 21% de O2 e 79% de N2 em volume, tem-se que a razão molar $ar/combust$ível da combustão completa de um determinado alcano é igual a 59,5. A partir desse dado, assinale a alternativa que corresponde à soma dos coeficientes estequiométricos de todas as substâncias presentes nessa reação.",
       subItens: []
     },
     options: [

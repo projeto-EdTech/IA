@@ -162,7 +162,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Literatura Brasileira (Comparação de Textos/Estilos Literários)", "Gêneros Textuais (Poesia)"],
+    conteudo: ["Literatura Brasileira (Comparação de $Textos/Estilos$ Literários)", "Gêneros Textuais (Poesia)"],
     imageNames: []
 }),
 
@@ -171,7 +171,7 @@ createQuestion({
     university: "uerr",
     year: 2025,
     text: {
-      principal: "Mas, como digo, a mais engenhosa de todas as nossas experiências foi a de Diogo Meireles. Lavrava então na cidade uma singular doença, que consistia em fazer inchar os narizes, tanto e tanto, que tomavam metade e mais da cara ao paciente, e não só a punham horrenda, senão que era molesto carregar tamanho peso. Conquanto os físicos da terra propusessem extrair os narizes inchados, para alívio e melhoria dos enfermos, nenhum destes consentia em prestar-se ao curativo, preferindo o excesso à lacuna, e tendo por mais aborrecível que nenhuma outra coisa a ausência daquele órgão. Diogo Meireles, que desde algum tempo praticava a medicina, segundo ficou dito atrás, estudou a moléstia e reconheceu que não havia perigo em desnarigar os doentes, antes era vantajoso por lhes levar o mal, sem trazer fealdade, pois tanto valia um nariz disforme e pesado como nenhum; não alcançou, todavia, persuadir os infelizes ao sacrifício. Então ocorreu-lhe uma graciosa invenção. Assim foi que, reunindo muitos físicos, filósofos, bonzos, autoridades e povo, comunicou-lhes que tinha um segredo para eliminar o órgão; e esse segredo era nada menos que substituir o nariz achacado por um nariz são, mas de pura natureza metafísica, isto é, inacessível aos sentidos humanos, e contudo tão verdadeiro ou ainda mais do que o cortado; cura esta praticada por ele em várias partes, e muito aceita aos físicos de Malabar. A assembleia aclamou a Diogo Meireles; e os doentes começaram de buscá-lo, em tanta cópia, que ele não tinha mãos a medir. Diogo Meireles desnarigava-os com muitíssima arte; depois estendia delicadamente os dedos a uma caixa, onde fingia ter os narizes substitutos, colhia um e aplicava-o ao lugar vazio. Os enfermos, assim curados e supridos, olhavam uns para os outros, e não viam nada no lugar do órgão cortado; mas, certos e certíssimos de que ali estava o órgão substituto, e que este era inacessível aos sentidos humanos, não se davam por defraudados, e tornavam aos seus ofícios.\nMachado de Assis. O segredo do Bonzo. In: 50 Contos de Machado de Assis. Selecionados por John Gledson. São Paulo: Companhia das Letras, 2007, p. 95.\nOs elementos temáticos e estruturais do texto precedente permitem afirmar que tal composição",
+      principal: "Mas, como digo, a mais engenhosa de todas as nossas experiências foi a de Diogo Meireles. Lavrava então na cidade uma singular doença, que consistia em fazer inchar os narizes, tanto e tanto, que tomavam metade e mais da cara ao paciente, e não só a punham horrenda, $\\sin$ão que era molesto carregar tamanho peso. Conquanto os físicos da terra propusessem extrair os narizes inchados, para alívio e melhoria dos enfermos, nenhum destes consentia em prestar-se ao curativo, preferindo o excesso à lacuna, e tendo por mais aborrecível que nenhuma outra coisa a ausência daquele órgão. Diogo Meireles, que desde algum tempo praticava a medicina, segundo ficou dito atrás, estudou a moléstia e reconheceu que não havia perigo em desnarigar os doentes, antes era vantajoso por lhes levar o mal, sem trazer fealdade, pois tanto valia um nariz disforme e pesado como nenhum; não alcançou, todavia, persuadir os infelizes ao sacrifício. Então ocorreu-lhe uma graciosa invenção. Assim foi que, reunindo muitos físicos, filósofos, bonzos, autoridades e povo, comunicou-lhes que tinha um segredo para eliminar o órgão; e esse segredo era nada menos que substituir o nariz achacado por um nariz são, mas de pura natureza metafísica, isto é, inacessível aos sentidos humanos, e contudo tão verdadeiro ou ainda mais do que o cortado; cura esta praticada por ele em várias partes, e muito aceita aos físicos de Malabar. A assembleia aclamou a Diogo Meireles; e os doentes começaram de buscá-lo, em tanta cópia, que ele não tinha mãos a medir. Diogo Meireles desnarigava-os com muitíssima arte; depois estendia delicadamente os dedos a uma caixa, onde fingia ter os narizes substitutos, colhia um e aplicava-o ao lugar vazio. Os enfermos, assim curados e supridos, olhavam uns para os outros, e não viam nada no lugar do órgão cortado; mas, certos e certíssimos de que ali estava o órgão substituto, e que este era inacessível aos sentidos humanos, não se davam por defraudados, e tornavam aos seus ofícios.\nMachado de Assis. O segredo do Bonzo. In: 50 Contos de Machado de Assis. Selecionados por John Gledson. São Paulo: Companhia das Letras, 2007, p. 95.\nOs elementos temáticos e estruturais do texto precedente permitem afirmar que tal composição",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "uerr",
     year: 2025,
     text: {
-      principal: "Imagem com o seguinte texto: \"¿EN SERIO CREES QUE MERECE LA PENA DEBATIR CON NEGACIONISTAS DEL CAMBIO CLIMÁTICO? ESTOOO... YO HE TRAÍDO MIS ARGUMENTOS. CHAS VUVUVURACA CHAS VAVUVA RACA CHAS DRACA BU BUM BUM CA. CLIMÁTICA\"\nA partir de la viñeta anterior, se puede inferir que debatir con las personas que rechazan la idea del cambio climático resulta",
+      principal: "Imagem com o seguinte texto: \"¿EN SERIO CREES QUE MERECE LA PENA DEBATIR CON NEGACIONISTAS DEL CAMBIO CLIMÁTICO? ESTOOO... YO HE TRAÍDO MIS ARGUMENTOS. CHAS VUVUVURACA CHAS VAVUVA RACA CHAS DRACA BU BUM BUM CA. CLIMÁTICA\"\nA partir de la viñ$\\eta$ anterior, se puede inferir que debatir con las personas que rechazan la idea del cambio climático resulta",
       subItens: []
     },
     options: [
@@ -570,15 +570,15 @@ createQuestion({
     university: "uerr",
     year: 2025,
     text: {
-      principal: "Em uma prova de arremesso de peso, um atleta, em sua melhor tentativa, alcançou a marca de 18 metros. A altura do peso durante o melhor lançamento, em metros, foi modelada pela função quadrática f(x) = -1/10 x² + bx + 9/5 para 0 ≤ x ≤ 18, em que x é a distância horizontal, em metros, percorrida pelo peso durante o lançamento.\nCom base nessa situação, é correto concluir que a altura máxima que o peso atingiu durante o melhor lançamento, em metros, foi igual a",
+      principal: "Em uma prova de arremesso de peso, um atleta, em sua melhor tentativa, alcançou a marca de 18 metros. A altura do peso durante o melhor lançamento, em metros, foi modelada pela função quadrática f(x) = -$1/10$ x² + bx + $9/5$ para 0 ≤ x ≤ 18, em que x é a distância horizontal, em metros, percorrida pelo peso durante o lançamento.\nCom base nessa situação, é correto concluir que a altura máxima que o peso atingiu durante o melhor lançamento, em metros, foi igual a",
       subItens: []
     },
     options: [
-      "361/100",
-      "17/2",
-      "361/40",
-      "9/5",
-      "17/10"
+      "$361/100$",
+      "$17/2$",
+      "$361/40$",
+      "$9/5$",
+      "$17/10$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -742,11 +742,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "y = -1/3 x + 1",
-      "y = -1/3 x + 13/3",
-      "y = x + 13/3",
-      "y = 1/3 x + 1",
-      "y = -1/3 x + 11/3"
+      "y = -$1/3$ x + 1",
+      "y = -$1/3$ x + $13/3$",
+      "y = x + $13/3$",
+      "y = $1/3$ x + 1",
+      "y = -$1/3$ x + $11/3$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -785,9 +785,9 @@ createQuestion({
     options: [
       "√3.",
       "1/√3.",
-      "√2/2.",
-      "1/2.",
-      "√3/2."
+      "√$2/2$.",
+      "$1/2$.",
+      "√$3/2$."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -800,7 +800,7 @@ createQuestion({
     university: "uerr",
     year: 2025,
     text: {
-      principal: "Texto 1A7-II\nEm determinada sala de um laboratório de física, onde é possível controlar a densidade do ar, são realizados experimentos de queda livre para uma pequena bola de isopor, cuja densidade é de 10 kg/m³. Nesse ambiente, mediu-se o valor da aceleração da gravidade como sendo g = 9,80 m/s², para o caso em que a bola de isopor cai em queda livre em um ambiente em que há vácuo, isto é, quando a densidade de ar da sala é considerada nula.\nSe a bola de isopor da situação do texto 1A7-II for largada, do repouso, de uma altura inicial de 2 m, então, a altura h dessa bola em função do tempo do momento em que essa boa é solta até o momento imediatamente antes de ela atingir o solo será igual a",
+      principal: "Texto 1A7-II\nEm determinada sala de um laboratório de física, onde é possível controlar a densidade do ar, são realizados experimentos de queda livre para uma pequena bola de isopor, cuja densidade é de 10 $kg/m$³. Nesse ambiente, mediu-se o valor da aceleração da gravidade como sendo g = 9,80 $m/s$², para o caso em que a bola de isopor cai em queda livre em um ambiente em que há vácuo, isto é, quando a densidade de ar da sala é considerada nula.\nSe a bola de isopor da situação do texto 1A7-II for largada, do repouso, de uma altura inicial de 2 m, então, a altura h dessa bola em função do tempo do momento em que essa boa é solta até o momento imediatamente antes de ela atingir o solo será igual a",
       subItens: []
     },
     options: [
@@ -821,15 +821,15 @@ createQuestion({
     university: "uerr",
     year: 2025,
     text: {
-      principal: "Na situação do texto 1A7-II, a intensidade da aceleração da bola de isopor em queda vertical, quando a densidade do ar da sala do laboratório é igual a 1 kg/m³, é dada por",
+      principal: "Na situação do texto 1A7-II, a intensidade da aceleração da bola de isopor em queda vertical, quando a densidade do ar da sala do laboratório é igual a 1 $kg/m$³, é dada por",
       subItens: []
     },
     options: [
-      "8,10 m/s².",
-      "8,34 m/s².",
-      "8,82 m/s².",
-      "8,91 m/s².",
-      "9,12 m/s²."
+      "8,10 $m/s$².",
+      "8,34 $m/s$².",
+      "8,82 $m/s$².",
+      "8,91 $m/s$².",
+      "9,12 $m/s$²."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -842,7 +842,7 @@ createQuestion({
     university: "uerr",
     year: 2025,
     text: {
-      principal: "Texto 1A7-III\nUm tipo de macaco hidráulico é constituído por um tubo em forma de U, preenchido por água com densidade p = 1,0 g/cm³. No lado direito do tubo, a superfície da água está em contato com um gás ideal, que está a uma pressão p, com temperatura Tgás e contido em um recipiente de volume Vgás. No lado esquerdo, a superfície da água suporta um peso total de W = 200 N. O sistema está em equilíbrio e o fluido (a água) em repouso. O desnível de altura h entre as superfícies do fluido nos dois lados do tubo é mostrado na figura. A área da superfície do fluido do lado direito, que suporta o peso W é de A = 1,0 m².\n[Imagem de um sistema de macaco hidráulico em formato de U, com um lado com peso W = 200 N e área A = 1,0 m², e o outro lado com gás, pressão p = 10^4 Pa, volume Vgás = 3,5 m³ e temperatura Tgás = 77 °C. Há um desnível h entre as superfícies da água.]\nAssinale a opção que apresenta a diferença de altura entre as superfícies dos fluidos nos dois lados do tubo da situação do texto 1A7-III, considerando a aceleração da gravidade g = 9,8 m/s².",
+      principal: "Texto 1A7-III\nUm tipo de macaco hidráulico é constituído por um tubo em forma de U, preenchido por água com densidade p = 1,0 $g/cm$³. No lado direito do tubo, a superfície da água está em contato com um gás ideal, que está a uma pressão p, com temperatura $\\tan$ás e contido em um recipiente de volume Vgás. No lado esquerdo, a superfície da água suporta um peso total de W = 200 N. O sistema está em equilíbrio e o fluido (a água) em repouso. O desnível de altura h entre as superfícies do fluido nos dois lados do tubo é mostrado na figura. A área da superfície do fluido do lado direito, que suporta o peso W é de A = 1,0 m².\n[Imagem de um sistema de macaco hidráulico em formato de U, com um lado com peso W = 200 N e área A = 1,0 m², e o outro lado com gás, pressão p = $10^4$ Pa, volume Vgás = 3,5 m³ e temperatura $\\tan$ás = 77 °C. Há um desnível h entre as superfícies da água.]\nAssinale a opção que apresenta a diferença de altura entre as superfícies dos fluidos nos dois lados do tubo da situação do texto 1A7-III, considerando a aceleração da gravidade g = 9,8 $m/s$².",
       subItens: []
     },
     options: [
@@ -909,11 +909,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2",
+      "$1/2$",
       "√2",
       "√3",
-      "√2/2",
-      "√3/2"
+      "√$2/2$",
+      "√$3/2$"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -1430,7 +1430,7 @@ createQuestion({
     university: "uerr",
     year: 2025,
     text: {
-      principal: "O governo federal encerrou 2024 com avanços expressivos na proteção da Terra Indígena Yanomami (TIY), localizada no estado de Roraima. Sob a coordenação da Casa de Governo, instalada na capital Boa Vista em março daquele ano, foram realizadas mais de 3.488 operações em apenas nove meses de atuação, consolidando a retirada de invasores, a redução da contaminação por mercúrio, a destruição da logística criminosa e a assistência às comunidades indígenas.\nInternet: <agenciagov.ebc.com.br> (com adaptações).\nO texto refere-se aos avanços na proteção da Terra Yanomami contra",
+      principal: "O governo federal encerrou 2024 com avanços expressivos na proteção da Terra Indígena Yanomami (TIY), localizada no estado de Roraima. Sob a coordenação da Casa de Governo, instalada na capital Boa Vista em março daquele ano, foram realizadas mais de 3.488 operações em apenas nove meses de atuação, consolidando a retirada de invasores, a redução da contaminação por mercúrio, a destruição da $\\log$ística criminosa e a assistência às comunidades indígenas.\nInternet: <agenciagov.ebc.com.br> (com adaptações).\nO texto refere-se aos avanços na proteção da Terra Yanomami contra",
       subItens: []
     },
     options: [

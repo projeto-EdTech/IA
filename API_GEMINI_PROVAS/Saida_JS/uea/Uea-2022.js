@@ -87,7 +87,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "Para responder às questões de 05 a 08, leia o trecho do \"Sermão do bom ladrão\", de Antônio Vieira, proferido em 1655. \n\nE para que um discurso tão importante e tão grave vá assentado sobre fundamentos sólidos e irrefragáveis¹, suponho primeiramente que sem restituição do alheio não pode haver salvação. [...] Quer dizer: se o alheio que se tomou ou retém, se pode restituir e não se restitui, a penitência deste e dos outros pecados não é verdadeira penitência, senão simulada e fingida, porque se não perdoa o pecado sem se restituir o roubado, quando quem o roubou tem possibilidade de o restituir. Esta única exceção da regra foi a felicidade do bom ladrão, e esta a razão por que ele se salvou, e também o mau se pudera salvar sem restituírem. Como ambos saíram do naufrágio desta vida despidos, e pegados a um pau, só esta sua extrema pobreza os podia absolver dos latrocínios que tinham cometido, porque impossibilitados à restituição ficavam desobrigados dela. Porém se o bom ladrão tivera bens com que restituir, ou em todo, ou em parte o que roubou, toda a sua fé e toda a sua penitência tão celebrada dos santos, não bastara a o salvar, se não restituísse. Duas coisas lhe faltavam a este venturoso homem para se salvar: uma como ladrão que tinha sido, outra como cristão que começava a ser. Como ladrão que tinha sido, faltava-lhe com que restituir: como cristão que começava a ser, faltava-lhe o batismo, mas assim como o sangue que derramou na cruz, lhe supriu o batismo, assim a sua desnudez, e a sua impossibilidade lhe supriu a restituição, e por isso se salvou. Vejam agora, de caminho, os que roubaram na vida; e nem na vida, nem na morte restituíram, antes na morte testaram de muitos bens, e deixaram grossas heranças a seus sucessores; vejam aonde irão ou terão ido suas almas, e se se podiam salvar. \n(Antônio Vieira. Essencial, 2011. Adaptado.)\n¹ irrefragável: irrefutável.\n\nDepreende-se do sermão que o bom ladrão se salvou porque, além de arrepender-se,",
+      principal: "Para responder às questões de 05 a 08, leia o trecho do \"Sermão do bom ladrão\", de Antônio Vieira, proferido em 1655. \n\nE para que um discurso tão importante e tão grave vá assentado sobre fundamentos sólidos e irrefragáveis¹, suponho primeiramente que sem restituição do alheio não pode haver salvação. [...] Quer dizer: se o alheio que se tomou ou retém, se pode restituir e não se restitui, a penitência deste e dos outros pecados não é verdadeira penitência, $\\sin$ão simulada e fingida, porque se não perdoa o pecado sem se restituir o roubado, quando quem o roubou tem possibilidade de o restituir. Esta única exceção da regra foi a felicidade do bom ladrão, e esta a razão por que ele se salvou, e também o mau se pudera salvar sem restituírem. Como ambos saíram do naufrágio desta vida despidos, e pegados a um pau, só esta sua extrema pobreza os podia absolver dos latrocínios que tinham cometido, porque impossibilitados à restituição ficavam desobrigados dela. Porém se o bom ladrão tivera bens com que restituir, ou em todo, ou em parte o que roubou, toda a sua fé e toda a sua penitência tão celebrada dos santos, não bastara a o salvar, se não restituísse. Duas coisas lhe faltavam a este venturoso homem para se salvar: uma como ladrão que tinha sido, outra como cristão que começava a ser. Como ladrão que tinha sido, faltava-lhe com que restituir: como cristão que começava a ser, faltava-lhe o batismo, mas assim como o sangue que derramou na cruz, lhe supriu o batismo, assim a sua desnudez, e a sua impossibilidade lhe supriu a restituição, e por isso se salvou. Vejam agora, de caminho, os que roubaram na vida; e nem na vida, nem na morte restituíram, antes na morte testaram de muitos bens, e deixaram grossas heranças a seus sucessores; vejam aonde irão ou terão ido suas almas, e se se podiam salvar. \n(Antônio Vieira. Essencial, 2011. Adaptado.)\n¹ irrefragável: irrefutável.\n\nDepreende-se do sermão que o bom ladrão se salvou porque, além de arrepender-se,",
       subItens: []
     },
     options: [
@@ -276,7 +276,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "Desejando ver o rosto da moça, Aladim se escondeu atrás da porta dos banhos. Quando a filha do sultão chegou perto da porta, tirou o véu, e Aladim pôde ver seu rosto através de uma fresta. Era a primeira vez em sua vida que Aladim via uma mulher sem véu que não sua mãe. Ficou encantado com aquela visão. \n(Paulo Sérgio de Vasconcellos. As mil e uma noites: contos selecionados.)\n\nO excerto retrata um dos costumes mais conhecidos no ocidente em relação às mulheres muçulmanas: o uso do véu. A recomendação deste preceito, de acordo com a cultura muçulmana, relaciona-se",
+      principal: "Desejando ver o rosto da moça, Aladim se escondeu atrás da porta dos banhos. Quando a filha do sultão chegou perto da porta, tirou o véu, e Aladim pôde ver seu rosto através de uma fresta. Era a primeira vez em sua vida que Aladim via uma mulher sem véu que não sua mãe. Ficou encantado com aquela visão. \n(Paulo Sérgio de Vasconcellos. As mil e uma noites: contos selecionados.)\n\nO excerto retrata um dos costumes mais conhecidos no ocidente em relação às mulheres $\\mu$çulmanas: o uso do véu. A recomendação deste preceito, de acordo com a cultura $\\mu$çulmana, relaciona-se",
       subItens: []
     },
     options: [
@@ -570,7 +570,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "Analise o gráfico. \n\nURSS - Evolução da taxa de crescimento\ndo produto nacional bruto (1956-1992)\n5,9%\n5,3%\n5%\n3,7%\n2,7%\n2,6%\n2,2%\n1989\n1990\n1991\n1992*\nJupiterUnlimited/ImagePlus\n1956-60\n1961-65\n1966-70\n1971-75\n1976-80\n1981-84\n1985-88\n-2%\n-6%\n-11%\n* Dados da Rússia\n-19%\n\n(Elian Alabi Lucci. Território e sociedade no mundo globalizado, 2010.)\n\nOs dados analisados, no período de 1956 a 1992, sobre a União Soviética e a Rússia estão relacionados",
+      principal: "Analise o gráfico. \n\nURSS - Evolução da taxa de crescimento\ndo produto nacional bruto (1956-1992)\n5,9%\n5,3%\n5%\n3,7%\n2,7%\n2,6%\n2,2%\n1989\n1990\n1991\n1992*\n$JupiterUnlimited/ImagePlus$\n1956-60\n1961-65\n1966-70\n1971-75\n1976-80\n1981-84\n1985-88\n-2%\n-6%\n-11%\n* Dados da Rússia\n-19%\n\n(Elian Alabi Lucci. Território e sociedade no mundo globalizado, 2010.)\n\nOs dados analisados, no período de 1956 a 1992, sobre a União Soviética e a Rússia estão relacionados",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "Em um sistema de coordenadas cartesianas, considere o gráfico da função f(x) = log₂ x, um ponto A de abscissa 1 e os pontos B e C, ambos de abscissa 8, conforme mostra a figura. \n\ny\n1\n0\n1-2\n2\n3\n4\n5\n6\n7\n8\nX\nA\nB\nC\n\nNesse sistema, sabendo que os pontos A e C têm a mesma ordenada, a diferença entre as ordenadas dos pontos B e C é",
+      principal: "Em um sistema de coordenadas cartesianas, considere o gráfico da função f(x) = $\\log$₂ x, um ponto A de abscissa 1 e os pontos B e C, ambos de abscissa 8, conforme mostra a figura. \n\ny\n1\n0\n1-2\n2\n3\n4\n5\n6\n7\n8\nX\nA\nB\nC\n\nNesse sistema, sabendo que os pontos A e C têm a mesma ordenada, a diferença entre as ordenadas dos pontos B e C é",
       subItens: []
     },
     options: [
@@ -843,15 +843,15 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "Considere os triângulos retângulos ABC e CBD, que têm o lado BC em comum, conforme mostra a figura, que também indica as medidas dos lados AC, BD e CD. \n\nα\nA\n2√13 cm\nC\nβ\nB\n3 cm\n5 cm\nD\n\nO valor de tg α + sen β é igual a:",
+      principal: "Considere os triângulos retângulos ABC e CBD, que têm o lado BC em comum, conforme mostra a figura, que também indica as medidas dos lados AC, BD e CD. \n\nα\nA\n2√13 cm\nC\nβ\nB\n3 cm\n5 cm\nD\n\nO valor de $\\tan$ α + $\\sin$ β é igual a:",
       subItens: []
     },
     options: [
-      "18/13",
-      "19/14",
-      "22/15",
-      "23/16",
-      "24/17"
+      "$18/13$",
+      "$19/14$",
+      "$22/15$",
+      "$23/16$",
+      "$24/17$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -885,7 +885,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "Considere as funções f(x) = sen(x) e g(x) = 3cos(x) e que α e β são dois números reais. O maior valor possível para f(α) + g(β) é",
+      principal: "Considere as funções f(x) = $\\sin$(x) e g(x) = 3cos(x) e que α e β são dois números reais. O maior valor possível para f(α) + g(β) é",
       subItens: []
     },
     options: [
@@ -911,7 +911,7 @@ createQuestion({
     },
     options: [
       "f(x) = -2cos(x) – 1",
-      "f(x) = cos(x) – 2",
+      "f(x) = $\\cos$(x) – 2",
       "f(x) = -3tg(x) + 1",
       "f(x) = 2sen(x) – 2",
       "f(x) = -3sen(x) + 1"
@@ -948,7 +948,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "Movendo-se com uma velocidade de 3 m/s em relação ao solo, as cinzas de um incêndio foram conduzidas pelo vento, do local do incêndio até um bairro vizinho, em um tempo de meia hora. Considerando que esta velocidade seja constante e que as cinzas percorreram um trajeto retilíneo sempre à mesma altura do solo, a distância do local do incêndio até o bairro vizinho, onde as cinzas foram detectadas, foi de",
+      principal: "Movendo-se com uma velocidade de 3 $m/s$ em relação ao solo, as cinzas de um incêndio foram conduzidas pelo vento, do local do incêndio até um bairro vizinho, em um tempo de meia hora. Considerando que esta velocidade seja constante e que as cinzas percorreram um trajeto retilíneo sempre à mesma altura do solo, a distância do local do incêndio até o bairro vizinho, onde as cinzas foram detectadas, foi de",
       subItens: []
     },
     options: [
@@ -969,15 +969,15 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "O aprimoramento do arco e flecha fez surgir a besta ou balestra, arma capaz de lançar flechas com velocidades expressivas, possibilitando a sua penetração em armaduras. \n\n(www.turbosquid.com)\n\nNa besta, quando o cordame do arco é liberado, a flecha é impulsionada com aceleração constante por uma distância de 25 cm, fazendo com que ela alcance a velocidade de 180 km/h. A aceleração com a qual a flecha é impulsionada é de",
+      principal: "O aprimoramento do arco e flecha fez surgir a besta ou balestra, arma capaz de lançar flechas com velocidades expressivas, possibilitando a sua penetração em armaduras. \n\n(www.turbosquid.com)\n\nNa besta, quando o cordame do arco é liberado, a flecha é impulsionada com aceleração constante por uma distância de 25 cm, fazendo com que ela alcance a velocidade de 180 $km/h$. A aceleração com a qual a flecha é impulsionada é de",
       subItens: []
     },
     options: [
-      "2400 m/s².",
-      "3600 m/s².",
-      "4000 m/s².",
-      "4500 m/s².",
-      "5000 m/s²."
+      "2400 $m/s$².",
+      "3600 $m/s$².",
+      "4000 $m/s$².",
+      "4500 $m/s$².",
+      "5000 $m/s$²."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -990,7 +990,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "O cano de uma arma de fogo foi mantido na direção horizontal, a 1,8 m do chão plano e horizontal, quando foi dado um tiro em que a velocidade do projétil, ao sair pela boca do cano, era de 60 m/s. Levando-se em consideração que a aceleração da gravidade é 10 m/s², a distância aproximada em que o projétil atingiu o chão, em relação à boca do cano da arma, foi de",
+      principal: "O cano de uma arma de fogo foi mantido na direção horizontal, a 1,8 m do chão plano e horizontal, quando foi dado um tiro em que a velocidade do projétil, ao sair pela boca do cano, era de 60 $m/s$. Levando-se em consideração que a aceleração da gravidade é 10 $m/s$², a distância aproximada em que o projétil atingiu o chão, em relação à boca do cano da arma, foi de",
       subItens: []
     },
     options: [
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "Suponha que o italiano Galileu Galilei tivesse de fato subido à torre de Pisa para demonstrar que duas esferas feitas de materiais diferentes, quando abandonadas do repouso no mesmo instante e de uma mesma altura de 58 m, atingem juntas o chão ao mesmo tempo. Considerando que a aceleração da gravidade vale 10 m/s², o tempo de queda dessas duas esferas seria de, aproximadamente,",
+      principal: "Suponha que o italiano Galileu Galilei tivesse de fato subido à torre de Pisa para demonstrar que duas esferas feitas de materiais diferentes, quando abandonadas do repouso no mesmo instante e de uma mesma altura de 58 m, atingem juntas o chão ao mesmo tempo. Considerando que a aceleração da gravidade vale 10 $m/s$², o tempo de queda dessas duas esferas seria de, aproximadamente,",
       subItens: []
     },
     options: [
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "Um dispositivo foi projetado para medir a velocidade do ar, baseando-se na diferença de pressão dentro de um tubo. Em determinada ocasião, conforme o ar em movimento entra pelo orifício direito do tubo, o êmbolo é empurrado para baixo fazendo com que o fluido no lado esquerdo do tubo suba 4 cm, como mostra a figura. \n\nAr\n4 cm\nÊmbolo\nFluido\n\nSabendo que a densidade desse fluido é de 900 kg/m³, que a aceleração da gravidade é 10 m/s² e que o peso do êmbolo é desprezível, a diferença de pressão entre o nível do fluido na parte esquerda do tubo e o fluido sob o êmbolo, após ser empurrado para baixo, é de",
+      principal: "Um dispositivo foi projetado para medir a velocidade do ar, baseando-se na diferença de pressão dentro de um tubo. Em determinada ocasião, conforme o ar em movimento entra pelo orifício direito do tubo, o êmbolo é empurrado para baixo fazendo com que o fluido no lado esquerdo do tubo suba 4 cm, como mostra a figura. \n\nAr\n4 cm\nÊmbolo\nFluido\n\nSabendo que a densidade desse fluido é de 900 $kg/m$³, que a aceleração da gravidade é 10 $m/s$² e que o peso do êmbolo é desprezível, a diferença de pressão entre o nível do fluido na parte esquerda do tubo e o fluido sob o êmbolo, após ser empurrado para baixo, é de",
       subItens: []
     },
     options: [
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "A vitamina C é uma substância muito importante para a manutenção da saúde do nosso sistema imunológico. Essa molécula, de massa molar 176 g/mol, é constituída por átomos de carbono, hidrogênio e oxigênio (C₃H₄O₃) e sua fórmula mínima é C₃H₄O₃. \nA fórmula molecular da vitamina C é:",
+      principal: "A vitamina C é uma substância muito importante para a manutenção da saúde do nosso sistema imunológico. Essa molécula, de massa molar 176 $g/mol$, é constituída por átomos de carbono, hidrogênio e oxigênio (C₃H₄O₃) e sua fórmula mínima é C₃H₄O₃. \nA fórmula molecular da vitamina C é:",
       subItens: []
     },
     options: [
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "uea",
     year: 2022,
     text: {
-      principal: "O carbonato de cálcio (CaCO₃), de massa molar 100 g/mol, é obtido das rochas calcáreas e é empregado na fabricação da cal (CaO), de massa molar 56 g/mol, por meio da reação de decomposição representada na equação: \n\nCaCO₃(s) Δ→ CaO (s) + CO₂(g)\n\nO dióxido de carbono (CO₂) é o subproduto dessa reação e sua massa molar é 44 g/mol. \nUma amostra de 200 g de carbonato de cálcio foi aquecida e foram coletados 56 g de cal. O rendimento desse processo foi de",
+      principal: "O carbonato de cálcio (CaCO₃), de massa molar 100 $g/mol$, é obtido das rochas calcáreas e é empregado na fabricação da cal (CaO), de massa molar 56 $g/mol$, por meio da reação de decomposição representada na equação: \n\nCaCO₃(s) Δ→ CaO (s) + CO₂(g)\n\nO dióxido de carbono (CO₂) é o subproduto dessa reação e sua massa molar é 44 $g/mol$. \nUma amostra de 200 g de carbonato de cálcio foi aquecida e foram coletados 56 g de cal. O rendimento desse processo foi de",
       subItens: []
     },
     options: [

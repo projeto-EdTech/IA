@@ -87,15 +87,15 @@ createQuestion({
     university: "ufam",
     year: 2023,
     text: {
-      principal: "Tratando da reconquista da península Ibérica pelos cristãos, episódio fundamental no estudo da história do idioma português, Evanildo Bechara (na Gramática escolar da língua portuguesa, Rio de Janeiro: Lucerna, 2002, p. 689), escreveu o trecho a seguir transcrito:\nO processo de reconquista propagou um falar comum à Galiza e ao território portugalense, em direção ao sul, sobrepondo-se aos dialetos dos moçárabes aí correntes. Já com a ajuda de cruzados ingleses, alemães, franceses e flamengos, e sob a bandeira portuguesa, prosseguiu a reconquista de novas cidades do sul, tomadas aos muçulmanos.\nVerifica-se no texto a palavra \"moçárabes\", que deve ser necessariamente entendida por quem estuda o processo de formação de nossa língua. Assinale a alternativa que faz o registro CORRETO de seu significado:",
+      principal: "Tratando da reconquista da península Ibérica pelos cristãos, episódio fundamental no estudo da história do idioma português, Evanildo Bechara (na Gramática escolar da língua portuguesa, Rio de Janeiro: Lucerna, 2002, p. 689), escreveu o trecho a seguir transcrito:\nO processo de reconquista propagou um falar comum à Galiza e ao território portugalense, em direção ao sul, sobrepondo-se aos dialetos dos moçárabes aí correntes. Já com a ajuda de cruzados ingleses, alemães, franceses e flamengos, e sob a bandeira portuguesa, prosseguiu a reconquista de novas cidades do sul, tomadas aos $\\mu$çulmanos.\nVerifica-se no texto a palavra \"moçárabes\", que deve ser necessariamente entendida por quem estuda o processo de formação de nossa língua. Assinale a alternativa que faz o registro CORRETO de seu significado:",
       subItens: []
     },
     options: [
-      "Muçulmanos que divulgavam sua fé entre os cristãos.",
+      "$\\mu$çulmanos que divulgavam sua fé entre os cristãos.",
       "Bárbaros vindos do norte, cujas línguas se misturaram à portuguesa.",
       "Cristãos que viviam entre os mouros durante o domínio árabe.",
       "Visigodos e vândalos que vieram ajudar os cristãos na reconquista.",
-      "Muçulmanos em fase de mudança de religião, convertendo-se ao Cristianismo."
+      "$\\mu$çulmanos em fase de mudança de religião, convertendo-se ao Cristianismo."
     ],
     correctAnswer: 2,
     materia: ["Língua Portuguesa", "História"],
@@ -255,7 +255,7 @@ createQuestion({
     university: "ufam",
     year: 2023,
     text: {
-      principal: "Leia o poema a seguir, de Gregório de Matos:\nAnjo no nome, Angélica na cara!\nIsso é ser flor, e Anjo juntamente:\nSer Angélica flor, e Anjo florente,\nEm quem, senão em vós, se uniformara:\nQuem vira uma tal flor, que a não cortara,\nDe verde pé, da rama fluorescente;\nE quem um Anjo vira tão luzente,\nQue por seu Deus o não idolatrara?\nSe pois como Anjo sois dos meus altares,\nFôreis o meu Custódio, e a minha guarda,\nLivrara eu de diabólicos azares.\nMas vejo, que por bela, e por galharda,\nPosto que os Anjos nunca dão pesares,\nSois Anjo, que me tenta, e não me guarda.\nConsidere as seguintes afirmativas:\nI. O poema cria uma imagem de mulher divinizada, idealizada e distante da realidade, ao mesmo tempo, porém, revela o desejo que essa imagem desperta no eu-lírico.\nII. A construção do poema à base de oposições (antíteses e paradoxos) é típica do Barroco, que tem como característica fundamental o dualismo.\nIII. A representação dessa mulher idealizada contrasta com imagens criadas pelo poeta em outros poemas que trazem figuras de mulheres escravizadas, como objetos de desejo carnal e servis, apresentadas de maneira pejorativa e satírica.\nAssinale a alternativa CORRETA:",
+      principal: "Leia o poema a seguir, de Gregório de Matos:\nAnjo no nome, Angélica na cara!\nIsso é ser flor, e Anjo juntamente:\nSer Angélica flor, e Anjo florente,\nEm quem, $\\sin$ão em vós, se uniformara:\nQuem vira uma tal flor, que a não cortara,\nDe verde pé, da rama fluorescente;\nE quem um Anjo vira tão luzente,\nQue por seu Deus o não idolatrara?\nSe pois como Anjo sois dos meus altares,\nFôreis o meu Custódio, e a minha guarda,\nLivrara eu de diabólicos azares.\nMas vejo, que por bela, e por galharda,\nPosto que os Anjos nunca dão pesares,\nSois Anjo, que me tenta, e não me guarda.\nConsidere as seguintes afirmativas:\nI. O poema cria uma imagem de mulher divinizada, idealizada e distante da realidade, ao mesmo tempo, porém, revela o desejo que essa imagem desperta no eu-lírico.\nII. A construção do poema à base de oposições (antíteses e paradoxos) é típica do Barroco, que tem como característica fundamental o dualismo.\nIII. A representação dessa mulher idealizada contrasta com imagens criadas pelo poeta em outros poemas que trazem figuras de mulheres escravizadas, como objetos de desejo carnal e servis, apresentadas de maneira pejorativa e satírica.\nAssinale a alternativa CORRETA:",
       subItens: []
     },
     options: [
@@ -465,7 +465,7 @@ createQuestion({
     university: "ufam",
     year: 2023,
     text: {
-      principal: "A fotogrametria aérea ou aerofotogrametria é uma subdivisão da fotogrametria na qual as fotografias do terreno são tomadas por uma câmara de precisão montada em uma aeronave (TOMMASELLI, A.M.G., Fotogrametria Básica – Introdução, 2009, p. 2). Os tipos de fotografia aérea, segundo a orientação do eixo óptico da câmara, podem ser verticais ou oblíquas. Observe a imagem da cidade de Manaus:\nFonte: https://www.alamy.com/stock-photo/foto-aerea-do-centro-de-manaus.html.\nA imagem representa uma foto:",
+      principal: "A fotogrametria aérea ou aerofotogrametria é uma subdivisão da fotogrametria na qual as fotografias do terreno são tomadas por uma câmara de precisão montada em uma aeronave (TOMMASELLI, A.M.G., Fotogrametria Básica – Introdução, 2009, p. 2). Os tipos de fotografia aérea, segundo a orientação do eixo óptico da câmara, podem ser verticais ou oblíquas. Observe a imagem da cidade de Manaus:\nFonte: https://www.alamy.$com/stock$-$photo/foto$-aerea-do-centro-de-manaus.html.\nA imagem representa uma foto:",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "ufam",
     year: 2023,
     text: {
-      principal: "Considere as seguintes afirmativas sobre o código genético:\nI. O código genético possui três características importantes: especificidade, universalidade e degenerado/redundância.\nII. O códon iniciador corresponde à sequência UUU que fornece o quadro de leitura em que o RNA mensageiro será traduzido.\nIII. Entende-se por código genético a relação entre as bases nitrogenadas e os aminoácidos.\nIV. O anticódon corresponde ao grupo de três nucleotídeos do RNA transportador que se liga ao códon correspondente no RNA mensageiro através do pareamento de bases.\nV. O códon iniciador corresponde ao aminoácido triptofano carregado para o interior do ribossomo por um RNA transportador iniciador especial.\nAssinale a alternativa CORRETA:",
+      principal: "Considere as seguintes afirmativas sobre o código genético:\nI. O código genético possui três características importantes: especificidade, universalidade e $degenerado/redund$ância.\nII. O códon iniciador corresponde à sequência UUU que fornece o quadro de leitura em que o RNA mensageiro será traduzido.\nIII. Entende-se por código genético a relação entre as bases nitrogenadas e os aminoácidos.\nIV. O anticódon corresponde ao grupo de três nucleotídeos do RNA transportador que se liga ao códon correspondente no RNA mensageiro através do pareamento de bases.\nV. O códon iniciador corresponde ao aminoácido triptofano carregado para o interior do ribossomo por um RNA transportador iniciador especial.\nAssinale a alternativa CORRETA:",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "ufam",
     year: 2023,
     text: {
-      principal: "Na tabela a seguir são apresentados os produtos comerciais/industriais e as funções inorgânicas:\nProduto comercial/industrial\nI. Cal\nII. Detergente\nIII. Fertilizante\nIV. Leite de magnésia\nV. Mármore\nVI. Solução de bateria\nFunção inorgânica\n1. Ácido\n2. Base\n3. Óxido\n4. Sal\nConsiderando a substância ativa conhecida, correlacione, CORRETAMENTE, cada produto comercial/industrial com a respectiva função inorgânica:",
+      principal: "Na tabela a seguir são apresentados os produtos $comerciais/industriais$ e as funções inorgânicas:\nProduto $comercial/industrial$\nI. Cal\nII. Detergente\nIII. Fertilizante\nIV. Leite de magnésia\nV. Mármore\nVI. Solução de bateria\nFunção inorgânica\n1. Ácido\n2. Base\n3. Óxido\n4. Sal\nConsiderando a substância ativa conhecida, correlacione, CORRETAMENTE, cada produto $comercial/industrial$ com a respectiva função inorgânica:",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "ufam",
     year: 2023,
     text: {
-      principal: "Frequentemente usado para expressar distâncias astronômicas, o ano-luz é definido como a distância percorrida pela luz no vácuo em um ano. Considerando a velocidade da luz no vácuo igual a 300000 km/s, podemos afirmar que a ordem de grandeza de um ano-luz, em metros, é:\na) 1012\nb) 1013\nc) 1015\nd) 1016\ne) 1018",
+      principal: "Frequentemente usado para expressar distâncias astronômicas, o ano-luz é definido como a distância percorrida pela luz no vácuo em um ano. Considerando a velocidade da luz no vácuo igual a 300000 $km/s$, podemos afirmar que a ordem de grandeza de um ano-luz, em metros, é:\na) 1012\nb) 1013\nc) 1015\nd) 1016\ne) 1018",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "ufam",
     year: 2023,
     text: {
-      principal: "A expressão \"navegar é preciso, viver não é preciso\" é conhecida por conta do poeta português Fernando Pessoa (1888 – 1935). Navegar é o processo que permite uma embarcação ou aeronave alcançar um local específico. Assim, a correta orientação de uma embarcação é fator essencial quando se deseja atravessar um rio com correnteza. Dependendo da direção e sentido do movimento da embarcação, a correnteza irá desviá-la de sua trajetória num efeito conhecido como deriva. Considere a situação, típica da região amazônica, na qual uma canoa, equipada com um motor do tipo \"rabeta\", atravessa um trecho de rio com velocidade, em relação ao rio, de 4m/s numa direção perpendicular à correnteza. Se a largura do rio é de 800m e a velocidade da correnteza neste trecho é de 3m/s, podemos afirmar que o tempo de travessia e o deslocamento de deriva da canoa, em relação ao ponto oposto ao de partida na outra margem do rio, valem, respectivamente:\na) 3min20s e 400m.\nb) 4min20s e 300m.\nc) 3min20s e 300m.\nd) 4min20s e 600m.\ne) 3min20s e 600m.",
+      principal: "A expressão \"navegar é preciso, viver não é preciso\" é conhecida por conta do poeta português Fernando Pessoa (1888 – 1935). Navegar é o processo que permite uma embarcação ou aeronave alcançar um local específico. Assim, a correta orientação de uma embarcação é fator essencial quando se deseja atravessar um rio com correnteza. Dependendo da direção e sentido do movimento da embarcação, a correnteza irá desviá-la de sua trajetória num efeito conhecido como deriva. Considere a situação, típica da região amazônica, na qual uma canoa, equipada com um motor do tipo \"rabeta\", atravessa um trecho de rio com velocidade, em relação ao rio, de $4m/s$ numa direção perpendicular à correnteza. Se a largura do rio é de 800m e a velocidade da correnteza neste trecho é de $3m/s$, podemos afirmar que o tempo de travessia e o deslocamento de deriva da canoa, em relação ao ponto oposto ao de partida na outra margem do rio, valem, respectivamente:\na) 3min20s e 400m.\nb) 4min20s e 300m.\nc) 3min20s e 300m.\nd) 4min20s e 600m.\ne) 3min20s e 600m.",
       subItens: []
     },
     options: [
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "ufam",
     year: 2023,
     text: {
-      principal: "O domínio da função f(x) = log(x−5)(x + 3) é o conjunto:\na) D(f) = {x ∈ R | x ≥ 3 ex ≠ −3}\nb) D(f) = {x ∈ R | x > 5 e x ≠ 6}\nc) D(f) = {x ∈ R | x ≥ 5 e x ≠ 6}\nd) D(f) = {x ∈ R | x > 5 ex = −3}\ne) D(f) = {x ∈ R | x > 3 e x ≠ 6}",
+      principal: "O domínio da função f(x) = $\\log$(x−5)(x + 3) é o conjunto:\na) D(f) = {x ∈ R | x ≥ 3 ex ≠ −3}\nb) D(f) = {x ∈ R | x > 5 e x ≠ 6}\nc) D(f) = {x ∈ R | x ≥ 5 e x ≠ 6}\nd) D(f) = {x ∈ R | x > 5 ex = −3}\ne) D(f) = {x ∈ R | x > 3 e x ≠ 6}",
       subItens: []
     },
     options: [
@@ -1032,15 +1032,15 @@ createQuestion({
     university: "ufam",
     year: 2023,
     text: {
-      principal: "Em um triângulo retângulo de ângulos agudos α e γ, a tangente de α é igual a 4/3. Então o seno de γ será igual a:\na) 4/5\nb) 2/5\nc) 1/2\nd) 4/7\ne) 3/5",
+      principal: "Em um triângulo retângulo de ângulos agudos α e γ, a tangente de α é igual a $4/3$. Então o seno de γ será igual a:\na) $4/5$\nb) $2/5$\nc) $1/2$\nd) $4/7$\ne) $3/5$",
       subItens: []
     },
     options: [
-      "4/5",
-      "2/5",
-      "1/2",
-      "4/7",
-      "3/5"
+      "$4/5$",
+      "$2/5$",
+      "$1/2$",
+      "$4/7$",
+      "$3/5$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],

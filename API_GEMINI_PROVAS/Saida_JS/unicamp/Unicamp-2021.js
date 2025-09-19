@@ -94,7 +94,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Literatura Brasileira (Júlia Lopes de Almeida - Naturalismo/Realismo)"],
+    conteudo: ["Literatura Brasileira (Júlia Lopes de Almeida - $Naturalismo/Realismo$)"],
     imageNames: []
 }),
 
@@ -183,7 +183,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "Entre todas as palavras do momento, a mais flamejante talvez seja desigualdade. E nem é uma boa palavra, incomoda. Começa com des. Des de desalento, des de desespero, des de desesperança. Des, definitivamente, não é um bom prefixo.\nDesigualdade. A palavra do ano, talvez da década, não importa em que dicionário. Doravante ouviremos falar muito nela.\nDe-si-gual-da-de. Há quem não veja nem soletre, mas está escrita no destino de todos os busões da cidade, sentido centro/subúrbio, na linha reta de um trem. Solano Trindade, no sinal fechado, fez seu primeiro rap, \"tem gente com fome, tem gente com fome, tem gente com fome\", somente com esses substantivos. Você ainda não conhece o Solano? Corra, dá tempo. Dá tempo para você entender que vivemos essa desigualdade. Pegue um busão da Avenida Paulista para a Cidade Tiradentes, passe o vale-transporte na catraca e simbora – mais de 30 quilômetros.\nO patrão jardinesco vive 23 anos a mais, em média, do que um humaníssimo habitante da Cidade Tiradentes, por todas as razões sociais que a gente bem conhece.\nEvitei as estatísticas nessa crônica. Podia matar de desesperança os leitores, os números rendem manchete, mas carecem de rostos humanos. Pega a visão, imprensa, só há uma possibilidade de fazer a grande cobertura: mire-se na desigualdade, talvez não haja mais jeito de achar que os pontos da bolsa de valores signifiquem a ideia de fazer um país.\n(Adaptado de Xico Sá, A vidinha sururu da desigualdade brasileira. Em El País, 28/10/2019. Disponível em https://brasil.elpais.com/brasil/2019/10/28/opinion/1572287747_637859.html?fbclid=IwAR1VPA7qDYs1Q0llcdy6UGAJTWBO_snMDUAw4yZpZ3zyA1ExQx_XB9Kq2qU. Acessado em 25/05/2020.)\n\nA crônica instiga o leitor a ficar atento à desigualdade na cidade de São Paulo. Assinale a alternativa que identifica corretamente os recursos expressivos (estilísticos e literários) de que se vale o autor.",
+      principal: "Entre todas as palavras do momento, a mais flamejante talvez seja desigualdade. E nem é uma boa palavra, incomoda. Começa com des. Des de desalento, des de desespero, des de desesperança. Des, definitivamente, não é um bom prefixo.\nDesigualdade. A palavra do ano, talvez da década, não importa em que dicionário. Doravante ouviremos falar muito nela.\nDe-si-gual-da-de. Há quem não veja nem soletre, mas está escrita no destino de todos os busões da cidade, sentido $centro/sub$úrbio, na linha reta de um trem. Solano Trindade, no sinal fechado, fez seu primeiro rap, \"tem gente com fome, tem gente com fome, tem gente com fome\", somente com esses substantivos. Você ainda não conhece o Solano? Corra, dá tempo. Dá tempo para você entender que vivemos essa desigualdade. Pegue um busão da Avenida Paulista para a Cidade Tiradentes, passe o vale-transporte na catraca e simbora – mais de 30 quilômetros.\nO patrão jardinesco vive 23 anos a mais, em média, do que um humaníssimo habitante da Cidade Tiradentes, por todas as razões sociais que a gente bem conhece.\nEvitei as estatísticas nessa crônica. Podia matar de desesperança os leitores, os números rendem manchete, mas carecem de rostos humanos. Pega a visão, imprensa, só há uma possibilidade de fazer a grande cobertura: mire-se na desigualdade, talvez não haja mais jeito de achar que os pontos da bolsa de valores signifiquem a ideia de fazer um país.\n(Adaptado de Xico Sá, A vidinha sururu da desigualdade brasileira. Em El País, 28/10/2019. Disponível em https://brasil.elpais.com/brasil/2019/10/28/opinion/1572287747_637859.html?fbclid=$IwAR1VPA7qDYs1Q0llcdy6UGAJTWBO_snMDUAw4yZpZ3zyA1ExQx_XB9Kq2qU$. Acessado em 25/05/2020.)\n\nA crônica instiga o leitor a ficar atento à desigualdade na cidade de São Paulo. Assinale a alternativa que identifica corretamente os recursos expressivos (estilísticos e literários) de que se vale o autor.",
       subItens: []
     },
     options: [
@@ -263,7 +263,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "A página Greengo Dictionary apresenta, em inglês, interpretações bem-humoradas de expressões do português do Brasil.\n\n[Imagem: Captura de tela de um dicionário online chamado greengodictionary. O verbete é 'little lecture /palestrinha/ (n.)'. A definição é: '1 defines a person who talks excessively, not letting others have their turn to speak. 2 a Brazilian term for \"mansplaining\" and \"manterrupting\".']\n\n(Disponível em https://www.instagram.com/greengodictionary. Acessado em 26/05/2020.)\n\nPode-se dizer que a expressão \"little lecture\"",
+      principal: "A página Greengo Dictionary apresenta, em inglês, interpretações bem-humoradas de expressões do português do Brasil.\n\n[Imagem: Captura de tela de um dicionário online chamado greengodictionary. O verbete é 'little lecture /palestrinha/ (n.)'. A definição é: '1 defines a person who talks excessively, not letting others have their turn to speak. 2 a Brazilian term for \"mansplaining\" and \"manterrupting\".']\n\n(Disponível em https://www.instagram.$com/greengodictionary$. Acessado em 26/05/2020.)\n\nPode-se dizer que a expressão \"little lecture\"",
       subItens: []
     },
     options: [
@@ -423,14 +423,14 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "A soma dos valores de x que resolvem a equação\n\n[Equação: (1/(x-1) + 1/(x-2)) / (1/(x-4) + 1/x) = 2/3]\n\né igual a",
+      principal: "A soma dos valores de x que resolvem a equação\n\n[Equação: (1/(x-1) + 1/(x-2)) / (1/(x-4) + $1/x$) = $2/3$]\n\né igual a",
       subItens: []
     },
     options: [
-      "14/3.",
-      "16/3.",
-      "18/3.",
-      "20/3."
+      "$14/3$.",
+      "$16/3$.",
+      "$18/3$.",
+      "$20/3$."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -503,7 +503,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "Se f(x) = log₁₀(x) e x > 0, então f (1/x) + f (100x) é igual a",
+      principal: "Se f(x) = $\\log$₁₀(x) e x > 0, então f ($1/x$) + f (100x) é igual a",
       subItens: []
     },
     options: [
@@ -543,7 +543,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "A figura abaixo exibe um quadrado ABCD em que M é o ponto médio do lado CD.\n\n[Imagem: Diagrama de um quadrado ABCD. O ponto M é o ponto médio do lado CD. O ângulo θ é formado entre o vértice A, D e B (ângulo ADB). O ângulo α é formado entre o vértice A, M e B (ângulo AMB).]\n\nCom base na figura, tg(θ) + tg(α) é igual a",
+      principal: "A figura abaixo exibe um quadrado ABCD em que M é o ponto médio do lado CD.\n\n[Imagem: Diagrama de um quadrado ABCD. O ponto M é o ponto médio do lado CD. O ângulo θ é formado entre o vértice A, D e B (ângulo ADB). O ângulo α é formado entre o vértice A, M e B (ângulo AMB).]\n\nCom base na figura, $\\tan$(θ) + $\\tan$(α) é igual a",
       subItens: []
     },
     options: [
@@ -563,7 +563,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "Considere a, b, c, d termos consecutivos de uma progressão aritmética de números reais com razão r ≠ 0. Denote por D o determinante da matriz\n\n[Matriz: [[a, b], [c, d]]]\n\nÉ correto afirmar que D/r² vale",
+      principal: "Considere a, b, c, d termos consecutivos de uma progressão aritmética de números reais com razão r ≠ 0. Denote por D o determinante da matriz\n\n[Matriz: [[a, b], [c, d]]]\n\nÉ correto afirmar que $D/r$² vale",
       subItens: []
     },
     options: [
@@ -587,9 +587,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "3/2.",
+      "$3/2$.",
       "2.",
-      "5/2.",
+      "$5/2$.",
       "3."
     ],
     correctAnswer: 1,
@@ -643,7 +643,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "Nas questões de 33 a 40, sempre que necessário, use π = 3 e g = 10 m/s².\n\nAo passar pelo sensor magnético, a velocidade linear de um ponto de uma fita cassete é v = 0,045 m/s. Depois de passar pelo sensor, a fita é enrolada em uma bobina circular de diâmetro d = 6,0 cm. Em quanto tempo a bobina completa uma volta?",
+      principal: "Nas questões de 33 a 40, sempre que necessário, use π = 3 e g = 10 $m/s$².\n\nAo passar pelo sensor magnético, a velocidade linear de um ponto de uma fita cassete é v = 0,045 $m/s$. Depois de passar pelo sensor, a fita é enrolada em uma bobina circular de diâmetro d = 6,0 cm. Em quanto tempo a bobina completa uma volta?",
       subItens: []
     },
     options: [
@@ -683,7 +683,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "A força normal aplicada pela agulha de um toca-discos sobre o disco tem módulo igual a |N| = 2,0 × 10⁻² N. A área de contato entre a agulha e o disco é igual a 1,6 × 10⁻³ mm². Qual é a pressão exercida pela agulha sobre o disco?\nDado: 1,0 atm = 1,0 × 10⁵ N/m².",
+      principal: "A força normal aplicada pela agulha de um toca-discos sobre o disco tem módulo igual a |N| = 2,0 × 10⁻² N. A área de contato entre a agulha e o disco é igual a 1,6 × 10⁻³ mm². Qual é a pressão exercida pela agulha sobre o disco?\nDado: 1,0 atm = 1,0 × 10⁵ $N/m$².",
       subItens: []
     },
     options: [
@@ -703,7 +703,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "A força de atrito cinético entre a agulha e um disco de vinil tem módulo F_at = 8,0 × 10⁻³ N. Sendo o módulo da força normal |N| = 2,0 × 10⁻² N, o coeficiente de atrito cinético, µ_c, entre a agulha e o disco é igual a",
+      principal: "A força de atrito cinético entre a agulha e um disco de vinil tem módulo $F_at$ = 8,0 × 10⁻³ N. Sendo o módulo da força normal |N| = 2,0 × 10⁻² N, o coeficiente de atrito cinético, µ_c, entre a agulha e o disco é igual a",
       subItens: []
     },
     options: [
@@ -723,7 +723,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "Em fevereiro de 2020, a estação meteorológica de Key West, na Flórida (EUA), registrou uma revoada de pássaros migrantes que se assemelhava a uma grande tempestade. Considere uma nuvem de pássaros de forma cilíndrica, de raio R = 145000 m e altura h = 100 m, e densidade de pássaros d_p = 6,0 × 10⁻⁷ pássaros/m³. Suponha ainda que cada pássaro tenha massa m_p = 0,5 kg e velocidade v = 20 m/s, todos voando na mesma direção e sentido. Assim, a energia cinética da revoada de pássaros é igual a",
+      principal: "Em fevereiro de 2020, a estação meteorológica de Key West, na Flórida (EUA), registrou uma revoada de pássaros migrantes que se assemelhava a uma grande tempestade. Considere uma nuvem de pássaros de forma cilíndrica, de raio R = 145000 m e altura h = 100 m, e densidade de pássaros $d_p$ = 6,0 × 10⁻⁷ pá$ssaros/m$³. Suponha ainda que cada pássaro tenha massa $m_p$ = 0,5 kg e velocidade v = 20 $m/s$, todos voando na mesma direção e sentido. Assim, a energia cinética da revoada de pássaros é igual a",
       subItens: []
     },
     options: [
@@ -743,7 +743,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "Um microchip de massa m = 2,0 × 10⁻⁶ g é composto majoritariamente de silício. Durante um minuto de funcionamento, o circuito elétrico do dispositivo dissipa, na forma térmica, uma quantidade de energia Q = 0,96 mJ. Considere que o calor específico do silício é C_si = 800 J/kg °C. Caso não houvesse nenhum mecanismo de escoamento de calor para fora do dispositivo, em quanto sua temperatura aumentaria após esse tempo de funcionamento?",
+      principal: "Um microchip de massa m = 2,0 × 10⁻⁶ g é composto majoritariamente de silício. Durante um minuto de funcionamento, o circuito elétrico do dispositivo dissipa, na forma térmica, uma quantidade de energia Q = 0,96 mJ. Considere que o calor específico do silício é $C_si$ = 800 $J/kg$ °C. Caso não houvesse nenhum mecanismo de escoamento de calor para fora do dispositivo, em quanto sua temperatura aumentaria após esse tempo de funcionamento?",
       subItens: []
     },
     options: [
@@ -763,7 +763,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "A diferença de potencial elétrico, U, é proporcional à corrente elétrica, i, em um trecho de um circuito elétrico resistivo, com constante de proporcionalidade dada pela resistência equivalente, R_eq, no trecho do circuito. Além disso, no caso de resistores dispostos em série, a resistência equivalente é dada pela soma das resistências (R_eq = R₁ + R₂ +...). A corrente elétrica, i_B, no trecho B do circuito abaixo é três vezes maior que a corrente elétrica no trecho A, ou seja, i_B/i_A = 3. Quanto vale a resistência R_B2?\n\n[Imagem: Diagrama de dois circuitos elétricos.\nCircuito A: Uma fonte de tensão U = 12 V conectada a um resistor R_A = 24 Ω.\nCircuito B: Uma fonte de tensão U = 12 V conectada a dois resistores em série, R_B1 = 6,0 Ω e R_B2 (valor desconhecido).]",
+      principal: "A diferença de potencial elétrico, U, é proporcional à corrente elétrica, i, em um trecho de um circuito elétrico resistivo, com constante de proporcionalidade dada pela resistência equivalente, $R_eq$, no trecho do circuito. Além disso, no caso de resistores dispostos em série, a resistência equivalente é dada pela soma das resistências ($R_eq$ = R₁ + R₂ +...). A corrente elétrica, $i_B$, no trecho B do circuito abaixo é três vezes maior que a corrente elétrica no trecho A, ou seja, $i_B/i_A$ = 3. Quanto vale a resistência $R_B2$?\n\n[Imagem: Diagrama de dois circuitos elétricos.\nCircuito A: Uma fonte de tensão U = 12 V conectada a um resistor $R_A$ = 24 Ω.\nCircuito B: Uma fonte de tensão U = 12 V conectada a dois resistores em série, $R_B1$ = 6,0 Ω e $R_B2$ (valor desconhecido).]",
       subItens: []
     },
     options: [
@@ -783,7 +783,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "Um dos fatores que determinam a capacidade de armazenamento de dados nos discos laser é o comprimento de onda do laser usado para gravação e leitura (ver figura abaixo). Isto porque o diâmetro d do feixe laser no ponto de leitura no disco é diretamente proporcional ao comprimento de onda, λ. No caso do Blu-Ray, usa-se um comprimento de onda na faixa azul (daí o nome, em inglês), que é menor que o do CD e o do DVD. As lentes usadas no leitor de Blu-Ray são tais que vale a relação d_BR ≈ 1,2 λ_BR\n\n[Imagem: Diagramas comparativos de CD, DVD e Blu-Ray. Cada um mostra o diâmetro do feixe laser (d) e a relação de comprimento de onda (λ).\nCD: d_CD = 1600 nm, com λ_CD indicado.\nDVD: d_DVD = 1100 nm, com λ_DVD indicado.\nBlu-Ray: d_BR = 480 nm, com λ_BR indicado.\nAbaixo dos diagramas, a relação: λ_CD > λ_DVD > λ_BR.]\n\nA partir das informações da figura, conclui-se que a frequência do laser usado no leitor Blu-Ray é",
+      principal: "Um dos fatores que determinam a capacidade de armazenamento de dados nos discos laser é o comprimento de onda do laser usado para gravação e leitura (ver figura abaixo). Isto porque o diâmetro d do feixe laser no ponto de leitura no disco é diretamente proporcional ao comprimento de onda, λ. No caso do Blu-Ray, usa-se um comprimento de onda na faixa azul (daí o nome, em inglês), que é menor que o do CD e o do DVD. As lentes usadas no leitor de Blu-Ray são tais que vale a relação $d_BR$ ≈ 1,2 λ_BR\n\n[Imagem: Diagramas comparativos de CD, DVD e Blu-Ray. Cada um mostra o diâmetro do feixe laser (d) e a relação de comprimento de onda (λ).\nCD: $d_CD$ = 1600 nm, com λ_CD indicado.\nDVD: $d_DVD$ = 1100 nm, com λ_DVD indicado.\nBlu-Ray: $d_BR$ = 480 nm, com λ_BR indicado.\nAbaixo dos diagramas, a relação: λ_CD > λ_DVD > λ_BR.]\n\nA partir das informações da figura, conclui-se que a frequência do laser usado no leitor Blu-Ray é",
       subItens: []
     },
     options: [
@@ -823,7 +823,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "É comum encontrarmos, nos supermercados, produtos semelhantes em suas finalidades, porém em quantidades, concentrações de ingredientes e preços bem variados. Imagine três produtos com propriedades desinfetantes, com o mesmo princípio ativo. Os produtos têm as seguintes características:\nProduto A: 0,45% (massa/massa) do princípio ativo, conteúdo de 1 L, valor R$ 11,90;\nProduto B: 0,17% (massa/massa) do princípio ativo, conteúdo de 0,5 L, valor R$ 2,49;\nProduto C: 0,33% (massa/massa) do princípio ativo, conteúdo de 2 L, valor R$ 5,19.\nOs produtos que oferecem a melhor relação custo/benefício seriam, em ordem crescente,",
+      principal: "É comum encontrarmos, nos supermercados, produtos semelhantes em suas finalidades, porém em quantidades, concentrações de ingredientes e preços bem variados. Imagine três produtos com propriedades desinfetantes, com o mesmo princípio ativo. Os produtos têm as seguintes características:\nProduto A: 0,45% ($massa/massa$) do princípio ativo, conteúdo de 1 L, valor R$ 11,90;\nProduto B: 0,17% ($massa/massa$) do princípio ativo, conteúdo de 0,5 L, valor R$ 2,49;\nProduto C: 0,33% ($massa/massa$) do princípio ativo, conteúdo de 2 L, valor R$ 5,19.\nOs produtos que oferecem a melhor relação $custo/benef$ício seriam, em ordem crescente,",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "A calagem é uma prática de manejo do solo que consiste na utilização de calcário para proporcionar às plantas um ambiente de crescimento radicular adequado. Isso diminui a atividade de elementos potencialmente tóxicos em elevadas concentrações (Al e Mn) e favorece a disponibilidade de elementos essenciais (N, P e K) no solo. O gráfico a seguir apresenta o grau de disponibilidade de diversos elementos de acordo com o pH do solo.\n\n[Imagem: Gráfico 'Grau de Disponibilidade' versus 'pH'. O eixo X varia de 5,0 a 8,5. O eixo Y é o Grau de Disponibilidade. Quatro curvas são apresentadas: A, B, C, D.\nCurva A: Alta disponibilidade em pH baixo, diminuindo com o aumento do pH.\nCurva B: Baixa disponibilidade em pH baixo, aumentando com o aumento do pH e atingindo o pico em pH neutro/alcalino.\nCurva C: Disponibilidade moderada em pH baixo, diminuindo ligeiramente e depois aumentando com o aumento do pH.\nCurva D: Alta disponibilidade em pH médio/alto, diminuindo em pH muito baixo ou muito alto.]\n\nConsiderando essas informações e os conhecimentos de química, é correto afirmar que a calagem atua em solos",
+      principal: "A calagem é uma prática de manejo do solo que consiste na utilização de calcário para proporcionar às plantas um ambiente de crescimento radicular adequado. Isso diminui a atividade de elementos potencialmente tóxicos em elevadas concentrações (Al e Mn) e favorece a disponibilidade de elementos essenciais (N, P e K) no solo. O gráfico a seguir apresenta o grau de disponibilidade de diversos elementos de acordo com o pH do solo.\n\n[Imagem: Gráfico 'Grau de Disponibilidade' versus 'pH'. O eixo X varia de 5,0 a 8,5. O eixo Y é o Grau de Disponibilidade. Quatro curvas são apresentadas: A, B, C, D.\nCurva A: Alta disponibilidade em pH baixo, diminuindo com o aumento do pH.\nCurva B: Baixa disponibilidade em pH baixo, aumentando com o aumento do pH e atingindo o pico em pH $neutro/alcalino$.\nCurva C: Disponibilidade moderada em pH baixo, diminuindo ligeiramente e depois aumentando com o aumento do pH.\nCurva D: Alta disponibilidade em pH mé$dio/alto$, diminuindo em pH muito baixo ou muito alto.]\n\nConsiderando essas informações e os conhecimentos de química, é correto afirmar que a calagem atua em solos",
       subItens: []
     },
     options: [
@@ -883,7 +883,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "A figura a seguir mostra uma das formas de se contabilizar as tendências no uso de fertilizantes por hectare e por tonelada de grão em uma fazenda no Brasil em determinado período. A partir desse tipo de informação pode-se saber, por exemplo, como a prática agrícola de um sistema de cultivo está influenciando o uso de nutrientes e a produtividade do solo para o cultivo.\n\n[Imagem: Dois gráficos de linha. O primeiro gráfico mostra 'Fertilizante NPK (kg/ha)' no eixo Y, variando de 80 a 180, contra 'Ano' (2004 a 2009) no eixo X. A linha azul mostra um aumento constante do uso de fertilizante por hectare ao longo dos anos.\nO segundo gráfico mostra 'Fertilizante NPK (kg/t de grão)' no eixo Y, variando de 20 a 40, contra 'Ano' (2004 a 2009) no eixo X. A linha vermelha mostra uma diminuição do uso de fertilizante por tonelada de grão ao longo dos anos.]\n\n(The state of agricultural commodity markets. Agricultural trade, climate change and foot security. Roma: FAO, 2018. Disponível em http://www.fao.org/3/19542EN/i9542en.pdf.)\n\nConsiderando o caso representado pela figura, pode-se concluir que o sistema de cultivo adotado está influenciando",
+      principal: "A figura a seguir mostra uma das formas de se contabilizar as tendências no uso de fertilizantes por hectare e por tonelada de grão em uma fazenda no Brasil em determinado período. A partir desse tipo de informação pode-se saber, por exemplo, como a prática agrícola de um sistema de cultivo está influenciando o uso de nutrientes e a produtividade do solo para o cultivo.\n\n[Imagem: Dois gráficos de linha. O primeiro gráfico mostra 'Fertilizante NPK ($kg/ha$)' no eixo Y, variando de 80 a 180, contra 'Ano' (2004 a 2009) no eixo X. A linha azul mostra um aumento constante do uso de fertilizante por hectare ao longo dos anos.\nO segundo gráfico mostra 'Fertilizante NPK ($kg/t$ de grão)' no eixo Y, variando de 20 a 40, contra 'Ano' (2004 a 2009) no eixo X. A linha vermelha mostra uma diminuição do uso de fertilizante por tonelada de grão ao longo dos anos.]\n\n(The state of agricultural commodity markets. Agricultural trade, climate change and foot security. Roma: FAO, 2018. Disponível em http://www.fao.org/3/19542EN/i9542en.pdf.)\n\nConsiderando o caso representado pela figura, pode-se concluir que o sistema de cultivo adotado está influenciando",
       subItens: []
     },
     options: [
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "Segundos os historiadores, pela primeira vez, uma potência europeia desenvolveu um projeto planetário que abrangia quatro continentes, a fim de assentar as pretensões universais da monarquia. Para isso, os juristas espanhóis invocaram a noção de extensão geográfica sem precedentes de suas possessões. Com a monarquia católica surgiram a primeira economia mundial e um regime capitalista e comercial intercontinental.\n(Adaptado de Serge Gruzinski, \"Babel no século XVI. A mundialização e Globalização das Línguas\", em Eddy Stols, Iris Kantor, Werner Thomas e Júnia Furtado (orgs.), Um Mundo sobre Papel. São Paulo/Belo Horizonte: EDUSP/Editora UFMG, 2014, p. 385.)\n\nCom base no texto do historiador Serge Gruzinski sobre as monarquias católicas, assinale a alternativa correta.",
+      principal: "Segundos os historiadores, pela primeira vez, uma potência europeia desenvolveu um projeto planetário que abrangia quatro continentes, a fim de assentar as pretensões universais da monarquia. Para isso, os juristas espanhóis invocaram a noção de extensão geográfica sem precedentes de suas possessões. Com a monarquia católica surgiram a primeira economia mundial e um regime capitalista e comercial intercontinental.\n(Adaptado de Serge Gruzinski, \"Babel no século XVI. A mundialização e Globalização das Línguas\", em Eddy Stols, Iris Kantor, Werner Thomas e Júnia Furtado (orgs.), Um Mundo sobre Papel. São $Paulo/Belo$ Horizonte: $EDUSP/Editora$ UFMG, 2014, p. 385.)\n\nCom base no texto do historiador Serge Gruzinski sobre as monarquias católicas, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1303,7 +1303,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "[Tabela: 'Concentração de Renda. Participação do 1% mais rico na renda total do país e do mundo (em %)'. Duas colunas: 'País' e '1%'. Linhas: 1° Qatar (29,0), 2° Brasil (28,3), 3° Chile (23,7), 4° Líbano (23,4), 5° Emirados Árabes (23,1), 6° Iraque (22,0), 7° Turquia (21,5), 8° Índia (21,3), 9° Rússia (20,2), 10° Kwait (19,9), Mundo (20,6).]\n\nDados do World Inequality Database, atualizados de 2015. Acessado em 10/04/2019. (Disponível em https://temas.folha.uol.com.br/desigualdade-global/brasil/super-ricos-no-brasil-lideram-concentracao-de-renda-global.shtml).\n\nO gráfico anterior apresenta a concentração de renda no topo da pirâmide social. No Brasil, o 1% de super-ricos (aproximadamente 1,4 milhão de adultos) captura 28,3% dos rendimentos brutos totais do país, e recebe individualmente, em média, R$ 106,3 mil por mês pelo conjunto de todas suas rendas (dados de 2015).\n\nCom base no gráfico e em seus conhecimentos, assinale a alternativa correta.",
+      principal: "[Tabela: 'Concentração de Renda. Participação do 1% mais rico na renda total do país e do mundo (em %)'. Duas colunas: 'País' e '1%'. Linhas: 1° Qatar (29,0), 2° Brasil (28,3), 3° Chile (23,7), 4° Líbano (23,4), 5° Emirados Árabes (23,1), 6° Iraque (22,0), 7° Turquia (21,5), 8° Índia (21,3), 9° Rússia (20,2), 10° Kwait (19,9), Mundo (20,6).]\n\nDados do World Inequality Database, atualizados de 2015. Acessado em 10/04/2019. (Disponível em https://temas.folha.uol.com.$br/desigualdade$-global/brasil/super-ricos-no-brasil-lideram-concentracao-de-renda-global.shtml).\n\nO gráfico anterior apresenta a concentração de renda no topo da pirâmide social. No Brasil, o 1% de super-ricos (aproximadamente 1,4 milhão de adultos) captura 28,3% dos rendimentos brutos totais do país, e recebe individualmente, em média, R$ 106,3 mil por mês pelo conjunto de todas suas rendas (dados de 2015).\n\nCom base no gráfico e em seus conhecimentos, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1343,7 +1343,7 @@ createQuestion({
     university: "unicamp",
     year: 2021,
     text: {
-      principal: "Os mapas anteriores apresentam três culturas temporárias de extrema importância para os mercados interno e externo. Com base na sua espacialização, podemos afirmar que os mapas 1, 2, e 3 representam, respectivamente, as culturas de\n\n[Imagem: Mapa 1 do Brasil com áreas sombreadas. Concentrações maiores de produção no Nordeste, especialmente no interior, e no Sul. Produção de 1.000 a 88.472 toneladas.]\n\n[Imagem: Mapa 2 do Brasil com áreas sombreadas. Concentrações maiores de produção no Sul do Brasil e algumas áreas isoladas no Sudeste e Centro-Oeste. Produção de 11 a 109 toneladas.]\n\n[Imagem: Mapa 3 do Brasil com áreas sombreadas. Concentrações maiores de produção no Sudeste (São Paulo e Paraná) e Sul, com algumas áreas no Nordeste e Centro-Oeste. Produção de 100 a 382.091 toneladas.]\n\n(Atlas Escolar do IBGE. Disponível em https://mapas.ibge.gov.br/escolares/ensino-medio/brasil.html.) Acessado em 17/09/2020.)",
+      principal: "Os mapas anteriores apresentam três culturas temporárias de extrema importância para os mercados interno e externo. Com base na sua espacialização, podemos afirmar que os mapas 1, 2, e 3 representam, respectivamente, as culturas de\n\n[Imagem: Mapa 1 do Brasil com áreas sombreadas. Concentrações maiores de produção no Nordeste, especialmente no interior, e no Sul. Produção de 1.000 a 88.472 toneladas.]\n\n[Imagem: Mapa 2 do Brasil com áreas sombreadas. Concentrações maiores de produção no Sul do Brasil e algumas áreas isoladas no Sudeste e Centro-Oeste. Produção de 11 a 109 toneladas.]\n\n[Imagem: Mapa 3 do Brasil com áreas sombreadas. Concentrações maiores de produção no Sudeste (São Paulo e Paraná) e Sul, com algumas áreas no Nordeste e Centro-Oeste. Produção de 100 a 382.091 toneladas.]\n\n(Atlas Escolar do IBGE. Disponível em https://mapas.ibge.gov.br/escolares/ensino-$medio/brasil$.html.) Acessado em 17/09/2020.)",
       subItens: []
     },
     options: [

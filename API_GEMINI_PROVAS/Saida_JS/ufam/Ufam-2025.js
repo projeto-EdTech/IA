@@ -3,7 +3,7 @@ createQuestion({
     university: "ufam",
     year: 2025,
     text: {
-      principal: "Considere, a seguir, para responder às questões de 01 a 04, os excertos extraídos de umas das obras de Ailton Krenak e uma tira publicada em rede social:\n\nO amanhã não está à venda\nParei de andar mundo afora, cancelei compromissos. Estou com a minha família na aldeia Krenak, no médio rio Doce. Há quase um mês, nossa reserva indígena está isolada. Quem estava ausente regressou, e sabemos bem qual é o risco de receber pessoas de fora. Sabemos o perigo de ter contato com pessoas assintomáticas. Estamos todos aqui e até agora não tivemos nenhuma ocorrência.\n[...] Vivemos hoje esta experiência de isolamento social, como está sendo definido o confinamento, em que todas as pessoas têm de se recolher. Se durante um tempo éramos nós, os povos indígenas, que estávamos ameaçados da ruptura ou da extinção do sentido da nossa vida, hoje estamos todos diante da iminência de a Terra não suportar a nossa demanda. Assistimos a uma tragédia de gente morrendo em diferentes lugares do planeta, a ponto de na Itália os corpos serem transportados para a incineração em caminhões. [...]\nFonte: Krenak, Ailton. O amanhã não está à venda. São Paulo: Companhia das Letras, 2020, p. 3.\n\n[IMAGEM: Amor, você conferiu o bilhete da loteria?]\n\nDisponível em: https://www.facebook.com/share/p/NjPc8KvfUpxJiQB9/?mibextid=oFDknk\n\n01. Nem todas as informações aparecem, de forma explícita, em um texto, mas podem ser inferidas. Tendo isso em conta, analise as afirmativas a seguir:\n\nI. Não é possível concluir, com as informações dadas, que os excertos do texto de Ailton Krenak estejam se referindo à pandemia da covid-19 nem que a tira deixe evidente que a pessoa a quem o personagem se dirige tenha conferido o bilhete da loteria.\n\nII. Não é possível concluir, com as informações dadas, que o texto de Ailton Krenak trate da pandemia da covid-19, mas, em relação à tira, é evidente que a pessoa a quem o personagem se dirige conferiu o bilhete da loteria.\n\nIII. Tanto as informações presentes nos excertos do texto de Ailton Krenak quanto as que compõem a tira permitem concluir que Ailton Krenak está tratando da pandemia da covid-19 e que a pessoa a quem o personagem da tira se dirige conferiu o bilhete da loteria.\n\nIV. Expressões/palavras como \"pessoas assintomáticas\", \"isolamento social\" e \"confinamento\", nos excertos do texto de Ailton Krenak, são marcas linguísticas que remetem à pandemia da covid-19. Por outro lado, na tira, a mera ausência na cama da pessoa a quem o personagem se dirige não é indício suficiente de que essa pessoa tenha conferido o bilhete da loteria.\n\nV. Informações como as que diziam respeito a pessoas mortas sendo transportadas em caminhões, na Itália, foram divulgadas durante períodos críticos da pandemia da covid-19, o que reforça ser esse um tema deduzível no texto de Ailton Krenak. Quanto à tira, além da ausência na cama da pessoa a quem o personagem se dirige, o guarda-roupa com cabides vazios e a carta sobre o travesseiro são indícios que, somados, evidenciam que essa pessoa não apenas conferiu o bilhete da loteria, mas também se apossou dele e foi embora.\n\nAssinale a alternativa CORRETA:",
+      principal: "Considere, a seguir, para responder às questões de 01 a 04, os excertos extraídos de umas das obras de Ailton Krenak e uma tira publicada em rede social:\n\nO amanhã não está à venda\nParei de andar mundo afora, cancelei compromissos. Estou com a minha família na aldeia Krenak, no médio rio Doce. Há quase um mês, nossa reserva indígena está isolada. Quem estava ausente regressou, e sabemos bem qual é o risco de receber pessoas de fora. Sabemos o perigo de ter contato com pessoas assintomáticas. Estamos todos aqui e até agora não tivemos nenhuma ocorrência.\n[...] Vivemos hoje esta experiência de isolamento social, como está sendo definido o confinamento, em que todas as pessoas têm de se recolher. Se durante um tempo éramos nós, os povos indígenas, que estávamos ameaçados da ruptura ou da extinção do sentido da nossa vida, hoje estamos todos diante da iminência de a Terra não suportar a nossa demanda. Assistimos a uma tragédia de gente morrendo em diferentes lugares do planeta, a ponto de na Itália os corpos serem transportados para a incineração em caminhões. [...]\nFonte: Krenak, Ailton. O amanhã não está à venda. São Paulo: Companhia das Letras, 2020, p. 3.\n\n[IMAGEM: Amor, você conferiu o bilhete da loteria?]\n\nDisponível em: https://www.facebook.com/share/p/NjPc8KvfUpxJiQB9/?mibextid=oFDknk\n\n01. Nem todas as informações aparecem, de forma explícita, em um texto, mas podem ser inferidas. Tendo isso em conta, analise as afirmativas a seguir:\n\nI. Não é possível concluir, com as informações dadas, que os excertos do texto de Ailton Krenak estejam se referindo à pandemia da covid-19 nem que a tira deixe evidente que a pessoa a quem o personagem se dirige tenha conferido o bilhete da loteria.\n\nII. Não é possível concluir, com as informações dadas, que o texto de Ailton Krenak trate da pandemia da covid-19, mas, em relação à tira, é evidente que a pessoa a quem o personagem se dirige conferiu o bilhete da loteria.\n\nIII. Tanto as informações presentes nos excertos do texto de Ailton Krenak quanto as que compõem a tira permitem concluir que Ailton Krenak está tratando da pandemia da covid-19 e que a pessoa a quem o personagem da tira se dirige conferiu o bilhete da loteria.\n\nIV. Expressõ$es/palavras$ como \"pessoas assintomáticas\", \"isolamento social\" e \"confinamento\", nos excertos do texto de Ailton Krenak, são marcas linguísticas que remetem à pandemia da covid-19. Por outro lado, na tira, a mera ausência na cama da pessoa a quem o personagem se dirige não é indício suficiente de que essa pessoa tenha conferido o bilhete da loteria.\n\nV. Informações como as que diziam respeito a pessoas mortas sendo transportadas em caminhões, na Itália, foram divulgadas durante períodos críticos da pandemia da covid-19, o que reforça ser esse um tema deduzível no texto de Ailton Krenak. Quanto à tira, além da ausência na cama da pessoa a quem o personagem se dirige, o guarda-roupa com cabides vazios e a carta sobre o travesseiro são indícios que, somados, evidenciam que essa pessoa não apenas conferiu o bilhete da loteria, mas também se apossou dele e foi embora.\n\nAssinale a alternativa CORRETA:",
       subItens: []
     },
     options: [
@@ -150,7 +150,7 @@ createQuestion({
     university: "ufam",
     year: 2025,
     text: {
-      principal: "08. Os períodos \"Em lugar dos campos cultivados, a capa verde da mata se espreguiçava ao longo das praias. O sol dourava a pele, em vez do astro frio que, salvo no verão, mal esquentava os corpos.\" poderiam ser CORRETAMENTE associados, por meio de expressões/palavras de conexão, sem perda de coesão e de coerência, do seguinte modo:",
+      principal: "08. Os períodos \"Em lugar dos campos cultivados, a capa verde da mata se espreguiçava ao longo das praias. O sol dourava a pele, em vez do astro frio que, salvo no verão, mal esquentava os corpos.\" poderiam ser CORRETAMENTE associados, por meio de expressõ$es/palavras$ de conexão, sem perda de coesão e de coerência, do seguinte modo:",
       subItens: []
     },
     options: [
@@ -255,7 +255,7 @@ createQuestion({
     university: "ufam",
     year: 2025,
     text: {
-      principal: "As questões 13 e 14, a seguir, são baseadas em poemas de Gregório de Matos.\n\n13. Ofendi-vos, Meu Deus, bem é verdade,\nÉ verdade, meu Deus, que hei delinquido,\nDelinquido vos tenho, e ofendido,\nOfendido vos tem minha maldade.\n\nMaldade, que encaminha à vaidade,\nVaidade, que todo me há vencido;\nVencido quero ver-me, e arrependido,\nArrependido a tanta enormidade.\n\nArrependido estou de coração,\nDe coração vos busco, dai-me os braços,\nAbraços, que me rendem vossa luz.\n\nLuz, que claro me mostra a salvação,\nA salvação pretendo em tais abraços,\nMisericórdia, Amor, Jesus, Jesus\n(Obras completas de Gregório de Matos. Volume I. Salvador: Ed. Janaína, s/d, p. 46)\n\nCom base na leitura do poema, assinale a alternativa INCORRETTA:",
+      principal: "As questões 13 e 14, a seguir, são baseadas em poemas de Gregório de Matos.\n\n13. Ofendi-vos, Meu Deus, bem é verdade,\nÉ verdade, meu Deus, que hei delinquido,\nDelinquido vos tenho, e ofendido,\nOfendido vos tem minha maldade.\n\nMaldade, que encaminha à vaidade,\nVaidade, que todo me há vencido;\nVencido quero ver-me, e arrependido,\nArrependido a tanta enormidade.\n\nArrependido estou de coração,\nDe coração vos busco, dai-me os braços,\nAbraços, que me rendem vossa luz.\n\nLuz, que claro me mostra a salvação,\nA salvação pretendo em tais abraços,\nMisericórdia, Amor, Jesus, Jesus\n(Obras completas de Gregório de Matos. Volume I. Salvador: Ed. Janaína, $s/d$, p. 46)\n\nCom base na leitura do poema, assinale a alternativa INCORRETTA:",
       subItens: []
     },
     options: [
@@ -276,7 +276,7 @@ createQuestion({
     university: "ufam",
     year: 2025,
     text: {
-      principal: "14. Desenganos da Vida Humana Metaforicamente\n\nÉ a vaidade, Fábio, nesta vida,\nRosa, que da manhã lisonjeada,\nPúrpuras mil, com ambição dourada,\nAirosa rompe, arrasta presumida.\n\nÉ planta, que de abril favorecida,\nPor mares de soberba desatada,\nFlorida galeota empavesada,\nSulca ufana, navega destemida.\n\nÉ nau enfim, que em breve ligeireza\nCom presunção de Fênix generosa,\nGalhardias apresta, alentos preza:\n\nMas ser planta, ser rosa, nau vistosa\nDe que importa, se aguarda sem defesa\nPenha a nau, ferro a planta, tarde a rosa?\n(Obras completas de Gregório de Matos. Volume I. Salvador: Ed. Janaína, s/d.)\n\nSobre o poema, é INCORRETO afirmar que",
+      principal: "14. Desenganos da Vida Humana Metaforicamente\n\nÉ a vaidade, Fábio, nesta vida,\nRosa, que da manhã lisonjeada,\nPúrpuras mil, com ambição dourada,\nAirosa rompe, arrasta presumida.\n\nÉ planta, que de abril favorecida,\nPor mares de soberba desatada,\nFlorida galeota empavesada,\nSulca ufana, navega destemida.\n\nÉ nau enfim, que em breve ligeireza\nCom presunção de Fênix generosa,\nGalhardias apresta, alentos preza:\n\nMas ser planta, ser rosa, nau vistosa\nDe que importa, se aguarda sem defesa\nPenha a nau, ferro a planta, tarde a rosa?\n(Obras completas de Gregório de Matos. Volume I. Salvador: Ed. Janaína, $s/d$.)\n\nSobre o poema, é INCORRETO afirmar que",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "ufam",
     year: 2025,
     text: {
-      principal: "22. \"Desenvolver relações amistosas entre as nações, baseadas no respeito ao princípio de igualdade de direitos e de autodeterminação dos povos, e tomar outras medidas apropriadas ao fortalecimento da paz universal.\" (Carta da ONU, 1945).\nDisponível em: https://brasil.un.org/sites/default/files/2022-05/Carta-ONU.pdf.\nAcesso em 13/03/24.\n\nO trecho em destaque trata de um dos objetivos expressos na Carta das Nações Unidas, criada oficialmente em 1945 e que, naquele contexto, teve como propósito:",
+      principal: "22. \"Desenvolver relações amistosas entre as nações, baseadas no respeito ao princípio de igualdade de direitos e de autodeterminação dos povos, e tomar outras medidas apropriadas ao fortalecimento da paz universal.\" (Carta da ONU, 1945).\nDisponível em: https://brasil.un.org/sites/default/files/2022-$05/Carta$-ONU.pdf.\nAcesso em 13/03/24.\n\nO trecho em destaque trata de um dos objetivos expressos na Carta das Nações Unidas, criada oficialmente em 1945 e que, naquele contexto, teve como propósito:",
       subItens: []
     },
     options: [
@@ -469,7 +469,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "ele apresenta informações bem organizadas e/ou topicalizadas.",
+      "ele apresenta informações bem organizadas $e/ou$ topicalizadas.",
       "ele mescla a linguagem verbal (uso de palavras) com a não verbal (uso de elementos visuais), sendo, portanto, multimodal.",
       "etimologicamente, a palavra vem dos termos em inglês information graphic, que significam “informação gráfica”.",
       "vários temas e assuntos podem ser representados em um único infográfico por meio de dados e de estatísticas.",
@@ -528,7 +528,7 @@ createQuestion({
     university: "ufam",
     year: 2025,
     text: {
-      principal: "26. A seguir é reproduzida uma projeção cartográfica conforme:\n\n[IMAGEM: Mapa-múndi em projeção cilíndrica de Mercator]\n\nFonte: https://atlasescolar.ibge.gov.br/conceitos-gerais/o-que-e-cartografia/as-projec-o-es-cartogra-ficas.html\n\nÉ CORRETO afirmar que",
+      principal: "26. A seguir é reproduzida uma projeção cartográfica conforme:\n\n[IMAGEM: Mapa-múndi em projeção cilíndrica de Mercator]\n\nFonte: https://atlasescolar.ibge.gov.$br/conceitos$-$gerais/o$-que-e-$cartografia/as$-projec-o-es-cartogra-ficas.html\n\nÉ CORRETO afirmar que",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "ufam",
     year: 2025,
     text: {
-      principal: "40. Uma Estação de Tratamento de Água (ETA) é uma poderosa unidade para tratamento e purificação da água proveniente de diferentes fontes de abastecimento: poços artesianos, rios, lagos, açudes, represas e água de chuva. A missão de uma ETA é garantir o fornecimento de água potável para cidades e empresas. Em uma ETA, os produtos sulfato de alumínio e cal hidratada são adicionados na fase de coagulação, porque o sulfato de alumínio",
+      principal: "40. Uma Estação de Tratamento de Água ($\\eta$) é uma poderosa unidade para tratamento e purificação da água proveniente de diferentes fontes de abastecimento: poços artesianos, rios, lagos, açudes, represas e água de chuva. A missão de uma $\\eta$ é garantir o fornecimento de água potável para cidades e empresas. Em uma $\\eta$, os produtos sulfato de alumínio e cal hidratada são adicionados na fase de coagulação, porque o sulfato de alumínio",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "ufam",
     year: 2025,
     text: {
-      principal: "FÍSICA\nNas questões em que forem necessárias, para o uso da aceleração da gravidade, adote g = 10 m/s², e adote a densidade da água igual a 1,0g/cm³.\nQuando necessário, adote, ainda, os seguintes valores:\nsen30° = cos60° = 1/2 = 0,50\nsen60° = cos30° = √3/2 = 0,87\nsen45° = cos45° = √2/2 = 0,71\n\n41. O gráfico a seguir representa o comportamento do movimento de um corpo em movimento harmônico simples. Nele encontra-se representada a sua posição x(t) (linha preta), velocidade v(t) (linha tracejada) e aceleração a(t) (linha cinza) em função do tempo.\n\n[IMAGEM: Gráfico de posição, velocidade e aceleração versus tempo para um movimento harmônico simples]\n\nConsidere as afirmativas a seguir:\nI- O período do movimento é de 10s.\nII - O corpo partiu do repouso no início da contagem de tempo.\nIII - Nos extremos do movimento o objeto encontra-se parado.\nIV - Nos extremos do movimento a aceleração do corpo é máxima.\nV - A aceleração do objeto ao passar pelo ponto de equilíbrio é zero.\n\nConsiderando as afirmativas acima, pode-se concluir que:",
+      principal: "FÍSICA\nNas questões em que forem necessárias, para o uso da aceleração da gravidade, adote g = 10 $m/s$², e adote a densidade da água igual a 1,$0g/cm$³.\nQuando necessário, adote, ainda, os seguintes valores:\nsen30° = cos60° = $1/2$ = 0,50\nsen60° = cos30° = √$3/2$ = 0,87\nsen45° = cos45° = √$2/2$ = 0,71\n\n41. O gráfico a seguir representa o comportamento do movimento de um corpo em movimento harmônico simples. Nele encontra-se representada a sua posição x(t) (linha preta), velocidade v(t) (linha tracejada) e aceleração a(t) (linha cinza) em função do tempo.\n\n[IMAGEM: Gráfico de posição, velocidade e aceleração versus tempo para um movimento harmônico simples]\n\nConsidere as afirmativas a seguir:\nI- O período do movimento é de 10s.\nII - O corpo partiu do repouso no início da contagem de tempo.\nIII - Nos extremos do movimento o objeto encontra-se parado.\nIV - Nos extremos do movimento a aceleração do corpo é máxima.\nV - A aceleração do objeto ao passar pelo ponto de equilíbrio é zero.\n\nConsiderando as afirmativas acima, pode-se concluir que:",
       subItens: []
     },
     options: [
@@ -868,7 +868,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "A e B, removendo-se o semicírculo ADCB, é maior que πRo/2.",
+      "A e B, removendo-se o semicírculo ADCB, é maior que π$Ro/2$.",
       "A e C, removendo-se o semicírculo ADC, é 2πR₀/(2+π).",
       "A e C, removendo-se os fios retos AC e BD, é πR₀.",
       "A e B, removendo-se os fios retos AC e BD, é maior que πR₀/2.",
@@ -906,7 +906,7 @@ createQuestion({
     university: "ufam",
     year: 2025,
     text: {
-      principal: "44. Um equipamento utiliza um sistema de refrigeração a ar ou água para evitar seu superaquecimento. A massa de ar m₁ e a massa de água m₂ sofrem a mesma variação de temperatura e proporcionam a mesma refrigeração ao equipamento. Nesse caso, a razão m1/m2 é:\nDados: calor específico da água = 1,0 cal/g.°C; calor específico do ar = 0,25 cal/g.°C.",
+      principal: "44. Um equipamento utiliza um sistema de refrigeração a ar ou água para evitar seu superaquecimento. A massa de ar m₁ e a massa de água m₂ sofrem a mesma variação de temperatura e proporcionam a mesma refrigeração ao equipamento. Nesse caso, a razão $m1/m2$ é:\nDados: calor específico da água = 1,0 $cal/g$.°C; calor específico do ar = 0,25 $cal/g$.°C.",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "ufam",
     year: 2025,
     text: {
-      principal: "52. Uma turma de trabalhadores construiu 3/5 de uma obra em 15 dias. A partir desse momento, 6 trabalhadores deixaram a obra, que terminou com 4 dias de atraso. A quantidade de trabalhadores no início da obra era de:",
+      principal: "52. Uma turma de trabalhadores construiu $3/5$ de uma obra em 15 dias. A partir desse momento, 6 trabalhadores deixaram a obra, que terminou com 4 dias de atraso. A quantidade de trabalhadores no início da obra era de:",
       subItens: []
     },
     options: [

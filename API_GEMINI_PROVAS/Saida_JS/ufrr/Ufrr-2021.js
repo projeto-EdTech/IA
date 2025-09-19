@@ -66,15 +66,15 @@ createQuestion({
     university: "ufrr",
     year: 2021,
     text: {
-      principal: "Se x e y são números reais positivos, então a expressão log\n(x⁴ + y³)\n_______ \nx³√y\né igual a:",
+      principal: "Se x e y são números reais positivos, então a expressão $\\log$\n(x⁴ + y³)\n_______ \nx³√y\né igual a:",
       subItens: []
     },
     options: [
-      "3/2 log(x⁴) log(y³) - 1/4 logx - logy",
-      "3/2 log(x⁴) + log(y³) - 1/2 logx - logy",
-      "log(x⁴ + y³) + logx + logy",
-      "3/2 log(x⁴) + log(y³) + 1/2 logx + logy",
-      "3/2 log(x⁴ + y³) - logx - logy"
+      "$3/2$ $\\log$(x⁴) $\\log$(y³) - $1/4$ logx - logy",
+      "$3/2$ $\\log$(x⁴) + $\\log$(y³) - $1/2$ logx - logy",
+      "$\\log$(x⁴ + y³) + logx + logy",
+      "$3/2$ $\\log$(x⁴) + $\\log$(y³) + $1/2$ logx + logy",
+      "$3/2$ $\\log$(x⁴ + y³) - logx - logy"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -170,7 +170,7 @@ createQuestion({
     university: "ufrr",
     year: 2021,
     text: {
-      principal: "Estudo brasileiro comprova que o vírus SARS-CoV-2 é capaz de infectar células do tecido cerebral, tendo como principal alvo os astrócitos. Os resultados revelam ainda que mesmo os indivíduos que tiveram a forma leve da COVID-19 podem apresentar alterações significativas na estrutura do córtex – região do cérebro mais rica em neurônios e responsável por funções complexas como memória, atenção, consciência e linguagem. A investigação foi conduzida por diversos grupos da Universidade Estadual de Campinas (Unicamp) e da Universidade de São Paulo (USP). Também colaboraram pesquisadores do Laboratório Nacional de Biociências (LNBio), do Instituto D'Or de Pesquisa e Ensino (IDOR) e da Universidade Federal do Rio de Janeiro (UFRJ). Texto adaptado de https://agencia.fapesp.br/estudo-comprova-que-novo-coronavirus-afeta-o-cerebro-e-detalha-seus-efeitos-nas-celulas-nervosas/34364/. Acesso em 06/12/2020.\nSobre as células do sistema nervoso que, segundo o texto, são o principal alvo do SARS-CoV-2, é CORRETO afirmar que elas:",
+      principal: "Estudo brasileiro comprova que o vírus SARS-CoV-2 é capaz de infectar células do tecido cerebral, tendo como principal alvo os astrócitos. Os resultados revelam ainda que mesmo os indivíduos que tiveram a forma leve da COVID-19 podem apresentar alterações significativas na estrutura do córtex – região do cérebro mais rica em neurônios e responsável por funções complexas como memória, atenção, consciência e linguagem. A investigação foi conduzida por diversos grupos da Universidade Estadual de Campinas (Unicamp) e da Universidade de São Paulo (USP). Também colaboraram pesquisadores do Laboratório Nacional de Biociências (LNBio), do Instituto D'Or de Pesquisa e Ensino (IDOR) e da Universidade Federal do Rio de Janeiro (UFRJ). Texto adaptado de https://agencia.fapesp.$br/estudo$-comprova-que-novo-coronavirus-afeta-o-cerebro-e-detalha-seus-efeitos-nas-celulas-nervosas/34364/. Acesso em 06/12/2020.\nSobre as células do sistema nervoso que, segundo o texto, são o principal alvo do SARS-CoV-2, é CORRETO afirmar que elas:",
       subItens: []
     },
     options: [
@@ -191,7 +191,7 @@ createQuestion({
     university: "ufrr",
     year: 2021,
     text: {
-      principal: "Um objeto é abandonado a partir de uma altura de 100 m do solo. Durante a queda, o objeto sofre a influência da força da resistência do ar (força de arrasto). Sabendo que o módulo da força de arrasto é numericamente igual ao dobro da massa do objeto, quanto tempo dura a queda do objeto até o solo? Adote a aceleração da gravidade g=10m/s².",
+      principal: "Um objeto é abandonado a partir de uma altura de 100 m do solo. Durante a queda, o objeto sofre a influência da força da resistência do ar (força de arrasto). Sabendo que o módulo da força de arrasto é numericamente igual ao dobro da massa do objeto, quanto tempo dura a queda do objeto até o solo? Adote a aceleração da gravidade g=$10m/s$².",
       subItens: []
     },
     options: [
@@ -212,7 +212,7 @@ createQuestion({
     university: "ufrr",
     year: 2021,
     text: {
-      principal: "Um carro elétrico de 400 Kg se move a partir do repouso com aceleração constante de 2 m/s², nos primeiros 100 m. Após os 100 m iniciais, o carro é frenado com uma desaceleração constante e para após 4 s. Supondo que toda a energia cinética do carro seja convertida em energia elétrica e transferida às baterias durante a frenagem, qual a potência média fornecida desde o início da frenagem até o carro parar?",
+      principal: "Um carro elétrico de 400 Kg se move a partir do repouso com aceleração constante de 2 $m/s$², nos primeiros 100 m. Após os 100 m iniciais, o carro é frenado com uma desaceleração constante e para após 4 s. Supondo que toda a energia cinética do carro seja convertida em energia elétrica e transferida às baterias durante a frenagem, qual a potência média fornecida desde o início da frenagem até o carro parar?",
       subItens: []
     },
     options: [
@@ -233,7 +233,7 @@ createQuestion({
     university: "ufrr",
     year: 2021,
     text: {
-      principal: "Três exploradores decidem construir uma jangada para atravessar o Rio Branco, durante uma expedição. Os ocupantes da jangada possuem massas m₁ =60 Kg, m2 =70 Kg e m3 =70 Kg, respectivamente. Antes de pôr a jangada no rio, eles decidem testá-la em uma piscina. Durante o teste, baseando-se no princípio de Arquimedes, eles mediram o nível de água deslocada pela jangada com os três tripulantes embarcados. Eles perceberam que a água da piscina se elevou em 5 cm. A piscina possui as seguintes medidas: 2 m de largura e 3 m comprimento. A partir das informações fornecidas, podemos afirmar que a massa da jangada é:\nConsidere: densidade da água ρ=1000 Kg/m³ e g=10 m/s²",
+      principal: "Três exploradores decidem construir uma jangada para atravessar o Rio Branco, durante uma expedição. Os ocupantes da jangada possuem massas m₁ =60 Kg, m2 =70 Kg e m3 =70 Kg, respectivamente. Antes de pôr a jangada no rio, eles decidem testá-la em uma piscina. Durante o teste, baseando-se no princípio de Arquimedes, eles mediram o nível de água deslocada pela jangada com os três tripulantes embarcados. Eles perceberam que a água da piscina se elevou em 5 cm. A piscina possui as seguintes medidas: 2 m de largura e 3 m comprimento. A partir das informações fornecidas, podemos afirmar que a massa da jangada é:\nConsidere: densidade da água ρ=1000 $Kg/m$³ e g=10 $m/s$²",
       subItens: []
     },
     options: [
@@ -296,15 +296,15 @@ createQuestion({
     university: "ufrr",
     year: 2021,
     text: {
-      principal: "Observe as imagens a seguir referentes a formas de relevo.\nI)\nII)\nIII)\n(Adaptado de: IBGE. Manual técnico de geomorfologia. 2. Ed. Rio de Janeiro: Coordenação de Recursos Naturais e Estudos Ambientais/IBGE, 2009).\nA alternativa que corresponde CORRETAMENTE a cada forma de relevo representada nas imagens I, II e III, é:",
+      principal: "Observe as imagens a seguir referentes a formas de relevo.\nI)\nII)\nIII)\n(Adaptado de: IBGE. Manual técnico de geomorfologia. 2. Ed. Rio de Janeiro: Coordenação de Recursos Naturais e Estudos $Ambientais/IBGE$, 2009).\nA alternativa que corresponde CORRETAMENTE a cada forma de relevo representada nas imagens I, II e III, é:",
       subItens: []
     },
     options: [
-      "I- Morro Testemunho, II – Delta, III – Sumidouro.",
+      "I- Morro Testemunho, II – $\\delta$, III – Sumidouro.",
       "I - Falésia, II – Recife, III – Restinga.",
       "I- Falésia, II – Restinga, III – Recife.",
       "I- Morro Testemunho, II – Falésia, III – Restinga.",
-      "I- Falha, II – Sumidouro, III – Delta."
+      "I- Falha, II – Sumidouro, III – $\\delta$."
     ],
     correctAnswer: 2,
     materia: ["Geografia"],
@@ -338,7 +338,7 @@ createQuestion({
     university: "ufrr",
     year: 2021,
     text: {
-      principal: "\"Além do termo imperium, toda a estrutura do Império Romano sobreviveu na história como um 'modelo cognitivo' de identificação de império. Tornou-se um referencial de apropriações para a construção de novas ideologias imperiais na Idade Média, nas eras napoleônica e vitoriana, para a experiência fascista e de nossa contemporaneidade e até para a ficção futurista, como provam as alegorias utilizadas pela trilogia cinematográfica de Guerras nas Estrelas. Com base na apropriação do termo imperium, a historiografia do século XIX construiu a definição de império como a política expansionista e incorporadora, empreendida por Estados, que passavam a exercer por conquista a soberania sobre ampla extensão territorial. Tal definição nos remete à noção de impérios como fenômenos eminentemente políticos. No entanto, novos tipos de abordagens e de problemas podem ser construídos pelo estudo comparativo de diferentes tipos de impérios, apesar de considerarmos a especificidade de cada um.\" (Fonte: MENDES, Norma Musco; BUSTAMANTE, Regina Maria da Cunha; DAVIDSON, Jorge. \"A experiência imperialista romana: teorias e práticas\". Tempo, Niterói, v. 9, n. 18, p. 17-41, Junho 2005. Disponível em <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1413-77042005000100002&lng=en&nrm=iso>. Acesso: 08/12/2020. http://dx.doi.org/10.1590/S1413-77042005000100002)\nSobre a expansão romana na Antiguidade, assinale a alternativa que apresenta um dos conflitos militares cujas consequências diretas foram fundamentais nesse processo.",
+      principal: "\"Além do termo imperium, toda a estrutura do Império Romano sobreviveu na história como um 'modelo cognitivo' de identificação de império. Tornou-se um referencial de apropriações para a construção de novas ideologias imperiais na Idade Média, nas eras napoleônica e vitoriana, para a experiência fascista e de nossa contemporaneidade e até para a ficção futurista, como provam as alegorias utilizadas pela trilogia cinematográfica de Guerras nas Estrelas. Com base na apropriação do termo imperium, a historiografia do século XIX construiu a definição de império como a política expansionista e incorporadora, empreendida por Estados, que passavam a exercer por conquista a soberania sobre ampla extensão territorial. Tal definição nos remete à noção de impérios como fenômenos eminentemente políticos. No entanto, novos tipos de abordagens e de problemas podem ser construídos pelo estudo comparativo de diferentes tipos de impérios, apesar de considerarmos a especificidade de cada um.\" (Fonte: MENDES, Norma Musco; BUSTAMANTE, Regina Maria da Cunha; DAVIDSON, Jorge. \"A experiência imperialista romana: teorias e práticas\". Tempo, Niterói, v. 9, n. 18, p. 17-41, Junho 2005. Disponível em <http://www.scielo.$br/scielo$.php?script=$sci_arttext$&pid=S1413-77042005000100002&lng=en&nrm=iso>. Acesso: 08/12/2020. http://dx.doi.$org/10$.$1590/S1413$-77042005000100002)\nSobre a expansão romana na Antiguidade, assinale a alternativa que apresenta um dos conflitos militares cujas consequências diretas foram fundamentais nesse processo.",
       subItens: []
     },
     options: [

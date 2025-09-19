@@ -28,11 +28,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Al - PI - AI – N – PI",
-      "Al-N-AI – N – PI",
-      "Al-N-PI – PI – AI",
-      "PI-PI-N – AI – PI",
-      "PI-AI-N – PI – Al"
+      "Al - $\\pi$ - AI – N – $\\pi$",
+      "Al-N-AI – N – $\\pi$",
+      "Al-N-$\\pi$ – $\\pi$ – AI",
+      "$\\pi$-$\\pi$-N – AI – $\\pi$",
+      "$\\pi$-AI-N – $\\pi$ – Al"
     ],
     correctAnswer: 3,
     materia: ["Língua Portuguesa"],
@@ -178,7 +178,7 @@ createQuestion({
       "Ele não possue o diploma de curso superior, por isso não pôde se inscrever no concurso",
       "O avanço discomunal das empresas virtuais vem fechando as que só atuam no mundo real",
       "Consuelo ganhou de presente um colar artesanal indígena e uma planta com o sugestivo nome de giboia",
-      "No novo restaurante, ontem à noite, saboreamos uma maravilhosa pizza de muçarela e presunto",
+      "No novo restaurante, ontem à noite, saboreamos uma maravilhosa pizza de $\\mu$çarela e presunto",
       "As pesquizas de opinião pública, quando bem realizadas, mostram com exatidão as tendências do eleitorado"
     ],
     correctAnswer: 3,
@@ -346,7 +346,7 @@ createQuestion({
       "O definitivo desaparecimento da cultura paleo-indígena.",
       "O surgimento dos cacicados complexos: tapajônico e marajoara.",
       "O rompimento das rígidas hierarquias políticas dos bandos arcaicos.",
-      "O nascimento do sistema de cacicado complexo entre os omáguas, no delta do rio Amazonas.",
+      "O nascimento do sistema de cacicado complexo entre os omáguas, no $\\delta$ do rio Amazonas.",
       "As populações davam ênfase à caça de mega-fauna: preguiça gigante, grandes tatus e antas."
     ],
     correctAnswer: 1,
@@ -423,7 +423,7 @@ createQuestion({
     university: "ufam",
     year: 2018,
     text: {
-      principal: "No ano de 732 da Era Cristã, tropas muçulmanas do califado omíada, sediado em Damasco, atravessaram a cadeia montanhosa dos Pirineus, invadindo o território dos francos (na atual França) a partir de suas bases na Espanha. Foram detidas e derrotadas pela infantaria franca comandada por Carlos Martel, em célebre batalha, sendo esta invasão o ponto extremo da marcha muçulmana para o Ocidente.\nAssinale a alternativa CORRETA quanto à localidade onde os muçulmanos foram detidos e derrotados:",
+      principal: "No ano de 732 da Era Cristã, tropas $\\mu$çulmanas do califado omíada, sediado em Damasco, atravessaram a cadeia montanhosa dos Pirineus, invadindo o território dos francos (na atual França) a partir de suas bases na Espanha. Foram detidas e derrotadas pela infantaria franca comandada por Carlos Martel, em célebre batalha, sendo esta invasão o ponto extremo da marcha $\\mu$çulmana para o Ocidente.\nAssinale a alternativa CORRETA quanto à localidade onde os $\\mu$çulmanos foram detidos e derrotados:",
       subItens: []
     },
     options: [
@@ -435,7 +435,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["História"],
-    conteudo: ["História Medieval", "Expansão Muçulmana"],
+    conteudo: ["História Medieval", "Expansão $\\mu$çulmana"],
     imageNames: []
 }),
 
@@ -864,7 +864,7 @@ createQuestion({
     university: "ufam",
     year: 2018,
     text: {
-      principal: "Considere a situação na qual uma pessoa, por descuido, deixa cair um objeto de um balão de ar quente, subindo verticalmente a uma taxa de 6m/s. Considerando que o objeto estava numa altura de 78,2m acima do solo quando foi solto, e desprezando o arrasto com o ar, podemos afirmar que o intervalo de tempo decorrido até que o objeto atinja o solo foi de:",
+      principal: "Considere a situação na qual uma pessoa, por descuido, deixa cair um objeto de um balão de ar quente, subindo verticalmente a uma taxa de $6m/s$. Considerando que o objeto estava numa altura de 78,2m acima do solo quando foi solto, e desprezando o arrasto com o ar, podemos afirmar que o intervalo de tempo decorrido até que o objeto atinja o solo foi de:",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "ufam",
     year: 2018,
     text: {
-      principal: "Um menino amarra uma pedra de 100g na extremidade de um fio e coloca-a para girar acima de sua cabeça, descrevendo uma circunferência horizontal com 1,25m de raio e velocidade escalar constante de 18km/h. Analise as afirmativas a seguir:\nI. Sendo a velocidade escalar da pedra constante, não há aceleração no movimento circular.\nII. A intensidade da força de tração no fio é igual a 2N.\nIII. O período de revolução do movimento da pedra é de 1,5s.\nIV. Se o raio do movimento circular da pedra for reduzido para 1,0m, a intensidade da força de tração no fio aumenta para 2,25N.\nAssinale a alternativa correta:",
+      principal: "Um menino amarra uma pedra de 100g na extremidade de um fio e coloca-a para girar acima de sua cabeça, descrevendo uma circunferência horizontal com 1,25m de raio e velocidade escalar constante de $18km/h$. Analise as afirmativas a seguir:\nI. Sendo a velocidade escalar da pedra constante, não há aceleração no movimento circular.\nII. A intensidade da força de tração no fio é igual a 2N.\nIII. O período de revolução do movimento da pedra é de 1,5s.\nIV. Se o raio do movimento circular da pedra for reduzido para 1,0m, a intensidade da força de tração no fio aumenta para 2,25N.\nAssinale a alternativa correta:",
       subItens: []
     },
     options: [
@@ -948,7 +948,7 @@ createQuestion({
     university: "ufam",
     year: 2018,
     text: {
-      principal: "Areia movediça se forma quando a água se mistura com a areia, separando os grãos e eliminando o atrito que os impede de se mover uns em relação aos outros. Poços de areia movediça podem se formar quando a água se infiltra em bolsões de areia, podendo ocorrer em locais como margens de rios, praias, etc. Nos filmes de ação, vemos a situação na qual uma pessoa cai num poço de areia movediça e afunda aos poucos até submergir completamente. Considerando que a massa específica da areia movediça de um poço profundo vale 1,9g/cm³ e que a massa específica do corpo humano seja uniforme e igual a 95% da massa específica da água, podemos afirmar que, se uma pessoa cair num poço de areia movediça, ela irá:",
+      principal: "Areia movediça se forma quando a água se mistura com a areia, separando os grãos e eliminando o atrito que os impede de se mover uns em relação aos outros. Poços de areia movediça podem se formar quando a água se infiltra em bolsões de areia, podendo ocorrer em locais como margens de rios, praias, etc. Nos filmes de ação, vemos a situação na qual uma pessoa cai num poço de areia movediça e afunda aos poucos até submergir completamente. Considerando que a massa específica da areia movediça de um poço profundo vale 1,$9g/cm$³ e que a massa específica do corpo humano seja uniforme e igual a 95% da massa específica da água, podemos afirmar que, se uma pessoa cair num poço de areia movediça, ela irá:",
       subItens: []
     },
     options: [
@@ -1017,8 +1017,8 @@ createQuestion({
     options: [
       "2",
       "1",
-      "1/2",
-      "1/4",
+      "$1/2$",
+      "$1/4$",
       "- 1"
     ],
     correctAnswer: 1,
@@ -1095,15 +1095,15 @@ createQuestion({
     university: "ufam",
     year: 2018,
     text: {
-      principal: "Considere as progressões geométricas infinitas (1/2, 1/4, 1/8, 1/16, ...) e (1/3, 1/9, 1/27, 1/81,...). Se a e b são as respectivas somas destas progressões, então o valor de a+b é:",
+      principal: "Considere as progressões geométricas infinitas ($1/2$, $1/4$, $1/8$, $1/16$, ...) e ($1/3$, $1/9$, $1/27$, $1/81$,...). Se a e b são as respectivas somas destas progressões, então o valor de a+b é:",
       subItens: []
     },
     options: [
-      "2/3",
-      "3/2",
-      "4/3",
-      "5/3",
-      "7/3"
+      "$2/3$",
+      "$3/2$",
+      "$4/3$",
+      "$5/3$",
+      "$7/3$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],

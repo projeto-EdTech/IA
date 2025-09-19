@@ -171,7 +171,7 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "A poesia dos antigos era a da posse, a dos novos é a da saudade (e anseio); aquela se ergue, firme, no chão do presente; esta oscila entre recordação e pressentimen-to. O ideal grego era a concórdia e o equilíbrio perfeitos de todas as forças; a harmonia natural. Os novos, porém, adquiriram a consciência da fragmentação interna que torna impossível este ideal; por isso, a sua poesia aspira a reconciliar os dois mundos em que se sentem divididos, o espiritual e o sensível, fundindo-os de um modo indis-solúvel. Os antigos solucionam a sua tarefa, chegando à perfeição; os novos só pela aproximação podem satisfa-zer o seu anseio do infinito.\n(August Schlegel apud Anatol Rosenfeld. Texto/Contexto I, 1996. Adaptado.)\nOs \"novos” a que se refere o escritor alemão August Sch-legel são os poetas",
+      principal: "A poesia dos antigos era a da posse, a dos novos é a da saudade (e anseio); aquela se ergue, firme, no chão do presente; esta oscila entre recordação e pressentimen-to. O ideal grego era a concórdia e o equilíbrio perfeitos de todas as forças; a harmonia natural. Os novos, porém, adquiriram a consciência da fragmentação interna que torna impossível este ideal; por isso, a sua poesia aspira a reconciliar os dois mundos em que se sentem divididos, o espiritual e o sensível, fundindo-os de um modo indis-solúvel. Os antigos solucionam a sua tarefa, chegando à perfeição; os novos só pela aproximação podem satisfa-zer o seu anseio do infinito.\n(August Schlegel apud Anatol Rosenfeld. $Texto/Contexto$ I, 1996. Adaptado.)\nOs \"novos” a que se refere o escritor alemão August Sch-legel são os poetas",
       subItens: []
     },
     options: [
@@ -192,7 +192,7 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "Leia o trecho do conto \"Pai contra mãe\", de Machado de Assis (1839-1908), para responder às questões de 10 a 16.\nA escravidão levou consigo ofícios e aparelhos, como terá sucedido a outras instituições sociais. Não cito alguns aparelhos senão por se ligarem a certo ofício. Um deles era o ferro ao pescoço, outro o ferro ao pé; havia também a máscara de folha de flandres. A máscara fazia perder o vício da embriaguez aos escravos, por lhes tapar a boca. Tinha só três buracos, dois para ver, um para respirar, e era fechada atrás da cabeça por um cadeado. Com o vício de beber, perdiam a tentação de furtar, porque geralmente era dos vinténs do senhor que eles tiravam com que ma-tar a sede, e aí ficavam dois pecados extintos, e a sobrie-dade e a honestidade certas. Era grotesca tal máscara, mas a ordem social e humana nem sempre se alcança sem o grotesco, e alguma vez o cruel. Os funileiros as tinham penduradas, à venda, na porta das lojas. Mas não cuidemos de máscaras.\nO ferro ao pescoço era aplicado aos escravos fujões. Imaginai uma coleira grossa, com a haste grossa também, à direita ou à esquerda, até ao alto da cabeça e fechada atrás com chave. Pesava, naturalmente, mas era menos castigo que sinal. Escravo que fugia assim, onde quer que andasse, mostrava um reincidente, e com pouco era pe-gado.\nHá meio século, os escravos fugiam com frequência. Eram muitos, e nem todos gostavam da escravidão. Su-cedia ocasionalmente apanharem pancada, e nem todos gostavam de apanhar pancada. Grande parte era apenas repreendida; havia alguém de casa que servia de padri-nho, e o mesmo dono não era mau; além disso, o senti-mento da propriedade moderava a ação, porque dinheiro também dói. A fuga repetia-se, entretanto. Casos houve, ainda que raros, em que o escravo de contrabando, ape-nas comprado no Valongo, deitava a correr, sem conhecer as ruas da cidade. Dos que seguiam para casa, não raro, apenas ladinos, pediam ao senhor que lhes marcasse alu-guel, e iam ganhá-lo fora, quitandando.\nQuem perdia um escravo por fuga dava algum dinhei-ro a quem lho levasse. Punha anúncios nas folhas públi-cas, com os sinais do fugido, o nome, a roupa, o defeito físico, se o tinha, o bairro por onde andava e a quantia de gratificação. Quando não vinha a quantia, vinha promes-sa: \"gratificar-se-á generosamente\" ou \"receberá uma boa gratificação”. Muita vez o anúncio trazia em cima ou ao lado uma vinheta, figura de preto, descalço, correndo, vara ao ombro, e na ponta uma trouxa. Protestava-se com todo o rigor da lei contra quem o acoitasse.\nOra, pegar escravos fugidios era um ofício do tempo. Não seria nobre, mas por ser instrumento da força com que se mantêm a lei e a propriedade, trazia esta outra nobreza implícita das ações reivindicadoras. Ninguém se metia em tal ofício por desfastio ou estudo; a pobreza, a necessidade de uma achega, a inaptidão para outros tra-balhos, o acaso, e alguma vez o gosto de servir também, ainda que por outra via, davam o impulso ao homem que se sentia bastante rijo para pôr ordem à desordem.\n(Contos: uma antologia, 1998.)\nA perspectiva do narrador diante das situações e dos fa-tos relacionados à escravidão é marcada, sobretudo,",
+      principal: "Leia o trecho do conto \"Pai contra mãe\", de Machado de Assis (1839-1908), para responder às questões de 10 a 16.\nA escravidão levou consigo ofícios e aparelhos, como terá sucedido a outras instituições sociais. Não cito alguns aparelhos $\\sin$ão por se ligarem a certo ofício. Um deles era o ferro ao pescoço, outro o ferro ao pé; havia também a máscara de folha de flandres. A máscara fazia perder o vício da embriaguez aos escravos, por lhes tapar a boca. Tinha só três buracos, dois para ver, um para respirar, e era fechada atrás da cabeça por um cadeado. Com o vício de beber, perdiam a tentação de furtar, porque geralmente era dos vinténs do senhor que eles tiravam com que ma-tar a sede, e aí ficavam dois pecados extintos, e a sobrie-dade e a honestidade certas. Era grotesca tal máscara, mas a ordem social e humana nem sempre se alcança sem o grotesco, e alguma vez o cruel. Os funileiros as tinham penduradas, à venda, na porta das lojas. Mas não cuidemos de máscaras.\nO ferro ao pescoço era aplicado aos escravos fujões. Imaginai uma coleira grossa, com a haste grossa também, à direita ou à esquerda, até ao alto da cabeça e fechada atrás com chave. Pesava, naturalmente, mas era menos castigo que sinal. Escravo que fugia assim, onde quer que andasse, mostrava um reincidente, e com pouco era pe-gado.\nHá meio século, os escravos fugiam com frequência. Eram muitos, e nem todos gostavam da escravidão. Su-cedia ocasionalmente apanharem pancada, e nem todos gostavam de apanhar pancada. Grande parte era apenas repreendida; havia alguém de casa que servia de padri-nho, e o mesmo dono não era mau; além disso, o senti-mento da propriedade moderava a ação, porque dinheiro também dói. A fuga repetia-se, entretanto. Casos houve, ainda que raros, em que o escravo de contrabando, ape-nas comprado no Valongo, deitava a correr, sem conhecer as ruas da cidade. Dos que seguiam para casa, não raro, apenas ladinos, pediam ao senhor que lhes marcasse alu-guel, e iam ganhá-lo fora, quitandando.\nQuem perdia um escravo por fuga dava algum dinhei-ro a quem lho levasse. Punha anúncios nas folhas públi-cas, com os sinais do fugido, o nome, a roupa, o defeito físico, se o tinha, o bairro por onde andava e a quantia de gratificação. Quando não vinha a quantia, vinha promes-sa: \"gratificar-se-á generosamente\" ou \"receberá uma boa gratificação”. Muita vez o anúncio trazia em cima ou ao lado uma vinheta, figura de preto, descalço, correndo, vara ao ombro, e na ponta uma trouxa. Protestava-se com todo o rigor da lei contra quem o acoitasse.\nOra, pegar escravos fugidios era um ofício do tempo. Não seria nobre, mas por ser instrumento da força com que se mantêm a lei e a propriedade, trazia esta outra nobreza implícita das ações reivindicadoras. Ninguém se metia em tal ofício por desfastio ou estudo; a pobreza, a necessidade de uma achega, a inaptidão para outros tra-balhos, o acaso, e alguma vez o gosto de servir também, ainda que por outra via, davam o impulso ao homem que se sentia bastante rijo para pôr ordem à desordem.\n(Contos: uma antologia, 1998.)\nA perspectiva do narrador diante das situações e dos fa-tos relacionados à escravidão é marcada, sobretudo,",
       subItens: []
     },
     options: [
@@ -204,7 +204,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Realismo/Naturalismo (Machado de Assis)"],
+    conteudo: ["$Realismo/Naturalismo$ (Machado de Assis)"],
     imageNames: []
 }),
 
@@ -219,7 +219,7 @@ createQuestion({
     options: [
       "\"A fuga repetia-se, entretanto. Casos houve, ainda que raros, em que o escravo de contrabando, apenas comprado no Valongo, deitava a correr, sem conhecer as ruas da cidade.\" (3º parágrafo)",
       "“Quando não vinha a quantia, vinha promessa: 'gratifi-car-se-á generosamente' – ou 'receberá uma boa gra-tificação'. Muita vez o anúncio trazia em cima ou ao lado uma vinheta, figura de preto, descalço, correndo, vara ao ombro, e na ponta uma trouxa.” (4º parágrafo)",
-      "\"Não cito alguns aparelhos senão por se ligarem a certo ofício. Um deles era o ferro ao pescoço, outro o ferro ao pé; havia também a máscara de folha de flandres.\" (1º parágrafo)",
+      "\"Não cito alguns aparelhos $\\sin$ão por se ligarem a certo ofício. Um deles era o ferro ao pescoço, outro o ferro ao pé; havia também a máscara de folha de flandres.\" (1º parágrafo)",
       "\"O ferro ao pescoço era aplicado aos escravos fujões. Imaginai uma coleira grossa, com a haste grossa tam-bém, à direita ou à esquerda, até ao alto da cabeça e fechada atrás com chave.” (2º parágrafo)",
       "\"Era grotesca tal máscara, mas a ordem social e hu-mana nem sempre se alcança sem o grotesco, e algu-ma vez o cruel. Os funileiros as tinham penduradas, à venda, na porta das lojas.\" (1º parágrafo)"
     ],
@@ -267,7 +267,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Narrador-personagem/Observador"],
+    conteudo: ["Narrador-$personagem/Observador$"],
     imageNames: []
 }),
 
@@ -360,7 +360,7 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "Leia o trecho do livro Bem-vindo ao deserto do real!, de Slavoj Žižek, para responder às questões 18 e 19.\nNuma antiga anedota que circulava na hoje falecida República Democrática Alemã, um operário alemão con-segue um emprego na Sibéria; sabendo que toda corres-pondência será lida pelos censores, ele combina com os amigos: \"Vamos combinar um código: se uma carta esti-ver escrita em tinta azul, o que ela diz é verdade; se es-tiver escrita em tinta vermelha, tudo é mentira.\" Um mês depois, os amigos recebem uma carta escrita em tinta azul: \"Tudo aqui é maravilhoso: as lojas vivem cheias, a comida é abundante, os apartamentos são grandes e bem aquecidos, os cinemas exibem filmes do Ocidente, há muitas garotas, sempre prontas para um programa – o único senão é que não se consegue encontrar tinta ver-melha.\" Neste caso, a estrutura é mais refinada do que indicam as aparências: apesar de não ter como usar o código combinado para indicar que tudo o que está dito é mentira, mesmo assim ele consegue passar a mensagem. Como? Pela introdução da referência ao código, como um de seus elementos, na própria mensagem codificada.\n(Bem-vindo ao deserto do real!, 2003.)\nA \"introdução da referência ao código, como um de seus elementos, na própria mensagem codificada\" constitui um exemplo de",
+      principal: "Leia o trecho do livro Bem-vindo ao deserto do real!, de Slavoj Žižek, para responder às questões 18 e 19.\nNuma antiga anedota que circulava na hoje falecida República Democrática Alemã, um operário alemão con-segue um emprego na Sibéria; sabendo que toda corres-pondência será lida pelos censores, ele combina com os amigos: \"Vamos combinar um código: se uma carta esti-ver escrita em tinta azul, o que ela diz é verdade; se es-tiver escrita em tinta vermelha, tudo é mentira.\" Um mês depois, os amigos recebem uma carta escrita em tinta azul: \"Tudo aqui é maravilhoso: as lojas vivem cheias, a comida é abundante, os apartamentos são grandes e bem aquecidos, os cinemas exibem filmes do Ocidente, há muitas garotas, sempre prontas para um programa – o único $\\sin$ão é que não se consegue encontrar tinta ver-melha.\" Neste caso, a estrutura é mais refinada do que indicam as aparências: apesar de não ter como usar o código combinado para indicar que tudo o que está dito é mentira, mesmo assim ele consegue passar a mensagem. Como? Pela introdução da referência ao código, como um de seus elementos, na própria mensagem codificada.\n(Bem-vindo ao deserto do real!, 2003.)\nA \"introdução da referência ao código, como um de seus elementos, na própria mensagem codificada\" constitui um exemplo de",
       subItens: []
     },
     options: [
@@ -654,15 +654,15 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "A migração de Maomé e seus seguidores, em 622, de Meca para Medina permitiu a consolidação da religião muçulmana que incluía, entre outros princípios,",
+      principal: "A migração de Maomé e seus seguidores, em 622, de Meca para Medina permitiu a consolidação da religião $\\mu$çulmana que incluía, entre outros princípios,",
       subItens: []
     },
     options: [
-      "a recomendação de que os muçulmanos não escravi-zassem ou atacassem outros muçulmanos, pois eles pertencem à mesma irmandade de fé.",
-      "a proibição de que os muçulmanos exercessem ativi-dades comerciais, pois o manejo cotidiano de riquezas era considerado impuro.",
-      "a proibição de que os muçulmanos visitassem Meca, pois o solo puro e sagrado dessa cidade deveria perma-necer intocado.",
-      "a recomendação de que os muçulmanos não limitassem seu culto a um só Deus, pois o criador multiplica-se em diversas formas e faces.",
-      "a proibição de que os muçulmanos saíssem da Penín-sula Arábica, pois eles sofriam perseguições em outros territórios."
+      "a recomendação de que os $\\mu$çulmanos não escravi-zassem ou atacassem outros $\\mu$çulmanos, pois eles pertencem à mesma irmandade de fé.",
+      "a proibição de que os $\\mu$çulmanos exercessem ativi-dades comerciais, pois o manejo cotidiano de riquezas era considerado impuro.",
+      "a proibição de que os $\\mu$çulmanos visitassem Meca, pois o solo puro e sagrado dessa cidade deveria perma-necer intocado.",
+      "a recomendação de que os $\\mu$çulmanos não limitassem seu culto a um só Deus, pois o criador multiplica-se em diversas formas e faces.",
+      "a proibição de que os $\\mu$çulmanos saíssem da Penín-sula Arábica, pois eles sofriam perseguições em outros territórios."
     ],
     correctAnswer: 0,
     materia: ["História"],
@@ -679,7 +679,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "a definição da superioridade militar e religiosa do Oci-dente cristão e o início da perseguição sistemática a judeus e muçulmanos.",
+      "a definição da superioridade militar e religiosa do Oci-dente cristão e o início da perseguição sistemática a judeus e $\\mu$çulmanos.",
       "a demonstração da teoria de Cristóvão Colombo sobre a esfericidade da Terra e o fracasso dos novos instru-mentos de navegação.",
       "o encerramento das relações comerciais da Europa com o Oriente e o imediato declínio da venda das es-peciarias produzidas na Índia.",
       "o encontro e o choque entre culturas e o gradual des-locamento do eixo do comércio mundial para o Oceano Atlântico.",
@@ -911,7 +911,7 @@ createQuestion({
     },
     options: [
       "ao uso indiscriminado de agrotóxicos no processo tra-dicional de produção agrícola.",
-      "ao precário monitoramento de resíduos de agrotóxi-cos em alimentos nos EUA e na União Europeia.",
+      "ao precário monitoramento de resíduos de agrotó$\\xi$-$\\cos$ em alimentos nos EUA e na União Europeia.",
       "ao protecionismo dos países centrais em relação aos produtos cultivados nos países periféricos.",
       "aos limites técnicos da agricultura familiar na produ-ção de alimentos in natura.",
       "ao descumprimento das normas de cultivo orgânico propostas pela Revolução Verde."
@@ -1296,7 +1296,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Biologia"],
-    conteudo: ["Fisiologia Humana (Sistema Endócrino/Reprodução)"],
+    conteudo: ["Fisiologia Humana (Sistema Endó$crino/Reprodu$ção)"],
     imageNames: []
 }),
 
@@ -1376,7 +1376,7 @@ createQuestion({
       "armazenar os resíduos metabólicos tóxicos que se-riam lançados diretamente na água.",
       "permitir que ocorram trocas gasosas que garantam a respiração do embrião.",
       "permitir que o embrião se desenvolva protegido de choques mecânicos e dessecação.",
-      "desenvolver uma rede de vasos que transportem nu-trientes para o embrião."
+      "desenvolver uma rede de vasos que transportem $\\nu$-trientes para o embrião."
     ],
     correctAnswer: 3,
     materia: ["Biologia"],
@@ -1452,7 +1452,7 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "Bicarbonato de sódio sólido aquecido se decompõe, pro-duzindo carbonato de sódio sólido, além de água e dióxi-do de carbono gasosos. O gráfico mostra os resultados de um experimento em que foram determinadas as massas de carbonato de sódio obtidas pela decomposição de di-ferentes massas de bicarbonato de sódio.\n[Gráfico de mNa2CO3/g vs. MNaHCO3/g]\nOs dados do gráfico permitem concluir que as massas de carbonato de sódio e bicarbonato de sódio nessa reação estão relacionadas pela equação mNa2CO3=kMNaHCO3, e que o valor aproximado de k é",
+      principal: "Bicarbonato de sódio sólido aquecido se decompõe, pro-duzindo carbonato de sódio sólido, além de água e dió$\\xi$-do de carbono gasosos. O gráfico mostra os resultados de um experimento em que foram determinadas as massas de carbonato de sódio obtidas pela decomposição de di-ferentes massas de bicarbonato de sódio.\n[Gráfico de $mNa2CO3/g$ vs. $MNaHCO3/g$]\nOs dados do gráfico permitem concluir que as massas de carbonato de sódio e bicarbonato de sódio nessa reação estão relacionadas pela equação mNa2CO3=kMNaHCO3, e que o valor aproximado de k é",
       subItens: []
     },
     options: [
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "De acordo com o Relatório Anual de 2016 da Qualidade da Água, publicado pela Sabesp, a concentração de cloro na água potável da rede de distribuição deve estar entre 0,2 mg/L, limite mínimo, e 5,0 mg/L, limite máximo. Consi-derando que a densidade da água potável seja igual à da água pura, calcula-se que o valor médio desses limites, expresso em partes por milhão, seja",
+      principal: "De acordo com o Relatório Anual de 2016 da Qualidade da Água, publicado pela Sabesp, a concentração de cloro na água potável da rede de distribuição deve estar entre 0,2 $mg/L$, limite mínimo, e 5,0 $mg/L$, limite máximo. Consi-derando que a densidade da água potável seja igual à da água pura, calcula-se que o valor médio desses limites, expresso em partes por milhão, seja",
       subItens: []
     },
     options: [
@@ -1599,7 +1599,7 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "Uma minicama elástica é constituída por uma superfície elástica presa a um aro lateral por 32 molas idênticas, como mostra a figura. Quando uma pessoa salta sobre esta minicama, transfere para ela uma quantidade de energia que é absorvida pela superfície elástica e pelas molas.\n[Imagem de uma pessoa pulando em um trampolim]\nConsidere que, ao saltar sobre uma dessas minicamas, uma pessoa transfira para ela uma quantidade de ener-gia igual a 160 J, que 45% dessa energia seja distribuída igualmente entre as 32 molas e que cada uma delas se distenda 3,0 mm. Nessa situação, a constante elástica de cada mola, em N/m, vale",
+      principal: "Uma minicama elástica é constituída por uma superfície elástica presa a um aro lateral por 32 molas idênticas, como mostra a figura. Quando uma pessoa salta sobre esta minicama, transfere para ela uma quantidade de energia que é absorvida pela superfície elástica e pelas molas.\n[Imagem de uma pessoa pulando em um trampolim]\nConsidere que, ao saltar sobre uma dessas minicamas, uma pessoa transfira para ela uma quantidade de ener-gia igual a 160 J, que 45% dessa energia seja distribuída igualmente entre as 32 molas e que cada uma delas se distenda 3,0 mm. Nessa situação, a constante elástica de cada mola, em $N/m$, vale",
       subItens: []
     },
     options: [
@@ -1620,7 +1620,7 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "A figura mostra a trajetória de um projétil lançado obliqua-mente e cinco pontos equidistantes entre si e localizados sobre o solo horizontal. Os pontos e a trajetória do projétil estão em um mesmo plano vertical.\n[Imagem de uma trajetória parabólica com pontos numerados no eixo horizontal]\nNo instante em que atingiu o ponto mais alto da trajetória, o projétil explodiu, dividindo-se em dois fragmentos, A e B, de massas M_A e M_B, respectivamente, tal que M_A = 2M_B. Desprezando a resistência do ar e considerando que a velocidade do projétil imediatamente antes da explosão era V_B e que, imediatamente após a explosão, o fragmen-to B adquiriu velocidade V_B = 5V_H, com mesma direção e sentido de V_H, o fragmento A atingiu o solo no ponto",
+      principal: "A figura mostra a trajetória de um projétil lançado obliqua-mente e cinco pontos equidistantes entre si e localizados sobre o solo horizontal. Os pontos e a trajetória do projétil estão em um mesmo plano vertical.\n[Imagem de uma trajetória parabólica com pontos numerados no eixo horizontal]\nNo instante em que atingiu o ponto mais alto da trajetória, o projétil explodiu, dividindo-se em dois fragmentos, A e B, de massas $M_A$ e $M_B$, respectivamente, tal que $M_A$ = $2M_B$. Desprezando a resistência do ar e considerando que a velocidade do projétil imediatamente antes da explosão era $V_B$ e que, imediatamente após a explosão, o fragmen-to B adquiriu velocidade $V_B$ = $5V_H$, com mesma direção e sentido de $V_H$, o fragmento A atingiu o solo no ponto",
       subItens: []
     },
     options: [
@@ -1683,7 +1683,7 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "Define-se a intensidade de uma onda (I) como potência transmitida por unidade de área disposta perpendicular-mente à direção de propagação da onda. Porém, essa definição não é adequada para medir nossa percepção de sons, pois nosso sistema auditivo não responde de forma linear à intensidade das ondas incidentes, mas de forma logarítmica. Define-se, então, nível sonoro (β) como β = 10 log(I/I₀), sendo β dado em decibels (dB) e I₀ = 10⁻¹² W/m².\nSupondo que uma pessoa, posicionada de forma que a área de 6,0 × 10⁻⁵ m² de um de seus tímpanos esteja perpendicular à direção de propagação da onda, ouça um som contínuo de nível sonoro igual a 60 dB durante 5,0 s, a quantidade de energia que atingiu seu tímpano nesse intervalo de tempo foi",
+      principal: "Define-se a intensidade de uma onda (I) como potência transmitida por unidade de área disposta perpendicular-mente à direção de propagação da onda. Porém, essa definição não é adequada para medir nossa percepção de sons, pois nosso sistema auditivo não responde de forma linear à intensidade das ondas incidentes, mas de forma logarítmica. Define-se, então, nível sonoro (β) como β = 10 $\\log$($I/I$₀), sendo β dado em decibels (dB) e I₀ = 10⁻¹² $W/m$².\nSupondo que uma pessoa, posicionada de forma que a área de 6,0 × 10⁻⁵ m² de um de seus tímpanos esteja perpendicular à direção de propagação da onda, ouça um som contínuo de nível sonoro igual a 60 dB durante 5,0 s, a quantidade de energia que atingiu seu tímpano nesse intervalo de tempo foi",
       subItens: []
     },
     options: [
@@ -1767,7 +1767,7 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "Os estudantes 1, 2 e 3 concorreram a um mesmo cargo da diretoria do grêmio de uma faculdade da UNESP, sen-do que 1 obteve 6,25% do total de votos que os três rece-beram para esse cargo. Na figura, a área de cada um dos três retângulos representa a porcentagem de votos obti-dos pelo candidato correspondente. Juntos, os retângulos compõem um quadrado, cuja área representa o total dos votos recebidos pelos três candidatos.\n[Imagem de um quadrado dividido em três retângulos representando votos]\nDo total de votos recebidos pelos três candidatos, o can-didato 2 obteve",
+      principal: "Os estudantes 1, 2 e 3 concorreram a um mesmo cargo da diretoria do grêmio de uma faculdade da UNESP, $\\sin$-do que 1 obteve 6,25% do total de votos que os três rece-beram para esse cargo. Na figura, a área de cada um dos três retângulos representa a porcentagem de votos obti-dos pelo candidato correspondente. Juntos, os retângulos compõem um quadrado, cuja área representa o total dos votos recebidos pelos três candidatos.\n[Imagem de um quadrado dividido em três retângulos representando votos]\nDo total de votos recebidos pelos três candidatos, o can-didato 2 obteve",
       subItens: []
     },
     options: [
@@ -1813,11 +1813,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "625/81",
-      "640/81",
-      "125/27",
-      "605/81",
-      "215/27"
+      "$625/81$",
+      "$640/81$",
+      "$125/27$",
+      "$605/81$",
+      "$215/27$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1851,7 +1851,7 @@ createQuestion({
     university: "unesp",
     year: 2018,
     text: {
-      principal: "A figura indica os gráficos das funções I, II e III. Os pon-tos A(72°, 0,309), B(x_B, −0,309) e C(x_C, 0,309) são alguns dos pontos de intersecção dos gráficos.\n[Gráfico de y = cos x, y = 0,309 e y = –0,309 com pontos A, B, C]\nNas condições dadas, X_B + X_C é igual a",
+      principal: "A figura indica os gráficos das funções I, II e III. Os pon-tos A(72°, 0,309), B($x_B$, −0,309) e C($x_C$, 0,309) são alguns dos pontos de intersecção dos gráficos.\n[Gráfico de y = $\\cos$ x, y = 0,309 e y = –0,309 com pontos A, B, C]\nNas condições dadas, $X_B$ + $X_C$ é igual a",
       subItens: []
     },
     options: [

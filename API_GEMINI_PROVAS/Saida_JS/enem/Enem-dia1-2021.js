@@ -234,7 +234,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "ESSE PET É DESCARTÁVEL. ESSE NÃO. ABANDONO É CRIME. LEI FEDERAL Nº 9 605/98\nDisponível em: www.deskgram.org. Acesso em: 12 dez. 2018 (adaptado).\n\nA associação entre o texto verbal e as imagens da garrafa e do cão configura recurso expressivo que busca",
+      principal: "ESSE PET É DESCARTÁVEL. ESSE NÃO. ABANDONO É CRIME. LEI FEDERAL Nº 9 $605/98$\nDisponível em: www.deskgram.org. Acesso em: 12 dez. 2018 (adaptado).\n\nA associação entre o texto verbal e as imagens da garrafa e do cão configura recurso expressivo que busca",
       subItens: []
     },
     options: [
@@ -402,7 +402,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "Que tal transformar a internet em palco para a dança?\nR\nO coreógrafo e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. Mini@tures é uma experiência emblemática entre movimento, computador, internet e vídeo. Com os recursos da computação gráfica, a dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como palco, o processo de criação das miniaturas de dança levou em consideração os limites de tempo de download e o tamanho de arquivo, para que um número maior de \"espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação entre mídias: corpo/dança/computação gráfica/internet. De fato, é a rede que faz a maior diferença nesse grupo. Mini@tures explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.\nSPANGHERO, M. A dança dos encéfalos acesos.\nSão Paulo: Itaú Cultural, 2003 (adaptado).\n\nConsiderado o primeiro projeto de dança contemporânea concebido para a rede, esse trabalho é apresentado como inovador por",
+      principal: "Que tal transformar a internet em palco para a dança?\nR\nO coreógrafo e bailarino Didier Mulleras se destaca como um dos criadores que descobriram a dança de outro ponto de vista. Mini@tures é uma experiência emblemática entre movimento, computador, internet e vídeo. Com os recursos da computação gráfica, a dança das miniaturas pode caber na palma da mão. Pelo fato de usar a internet como palco, o processo de criação das miniaturas de dança levou em consideração os limites de tempo de download e o tamanho de arquivo, para que um número maior de \"espectadores” pudesse assistir. A graça das miniaturas está justamente na contaminação entre mídias: $corpo/dan$ç$a/computa$ção grá$fica/internet$. De fato, é a rede que faz a maior diferença nesse grupo. Mini@tures explora uma nova dimensão que descobre o espaço-tempo da web e conquista um novo território para a dança contemporânea. A qualquer hora, dança on-line.\nSPANGHERO, M. A dança dos encéfalos acesos.\nSão Paulo: Itaú Cultural, 2003 (adaptado).\n\nConsiderado o primeiro projeto de dança contemporânea concebido para a rede, esse trabalho é apresentado como inovador por",
       subItens: []
     },
     options: [
@@ -1456,7 +1456,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "prática agrícola para a logística nacional.",
+      "prática agrícola para a $\\log$ística nacional.",
       "cultivo de hortaliças para o consumo urbano.",
       "saber tradicional para a conservação ambiental.",
       "criação de gado para o aprimoramento genético.",
@@ -1494,7 +1494,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "A participação social no planejamento e na gestão urbanos ganhou impulso a partir do Estatuto da Cidade (Lei n. 10.257/2001), que estabeleceu condições para elaboração de planos diretores participativos, instrumentos esses indutores da expansão urbana e do ordenamento territorial que, a princípio, devem buscar representar os interesses dos diversos segmentos da sociedade. No entanto, é notório o limite à representação dos interesses das camadas sociais menos favorecidas nesse processo. Este rumo deve ser corrigido e deve-se continuar buscando mecanismos de inclusão dos interesses de toda a sociedade.\nCaderno Objetivos de Desenvolvimento Sustentável ODS n. 11: tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis. Brasília: Ipea, 2019.\n\nQual medida promove a participação social descrita no texto?",
+      principal: "A participação social no planejamento e na gestão urbanos ganhou impulso a partir do Estatuto da Cidade (Lei n. 10.$257/2001$), que estabeleceu condições para elaboração de planos diretores participativos, instrumentos esses indutores da expansão urbana e do ordenamento territorial que, a princípio, devem buscar representar os interesses dos diversos segmentos da sociedade. No entanto, é notório o limite à representação dos interesses das camadas sociais menos favorecidas nesse processo. Este rumo deve ser corrigido e deve-se continuar buscando mecanismos de inclusão dos interesses de toda a sociedade.\nCaderno Objetivos de Desenvolvimento Sustentável ODS n. 11: tornar as cidades e os assentamentos humanos inclusivos, seguros, resilientes e sustentáveis. Brasília: Ipea, 2019.\n\nQual medida promove a participação social descrita no texto?",
       subItens: []
     },
     options: [
@@ -1746,7 +1746,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "O torém dependia de organização familiar, sendo brincado por pessoas com vínculos de parentesco e afinidade que viviam no local. Era visto como uma brincadeira, um entretenimento feito para os próprios participantes e seus conhecidos. O tempo do caju era o pretexto para sua realização, sendo chamadas várias pessoas da região a fim de tomar mocororó, bebida fermentada do caju.\nVALLE, C. G. O. Torém/Toré: tradições e invenção no quadro de multiplicidade étnica do Ceará contemporâneo. In: GRÜNEWALD, R. A. (Org.). Toré: regime encantado dos índios do Nordeste. Recife: Fundaj-Massangana, 2005.\n\nO ritual mencionado no texto atribui à manifestação cultural de grupos indígenas do Nordeste brasileiro a função de",
+      principal: "O torém dependia de organização familiar, sendo brincado por pessoas com vínculos de parentesco e afinidade que viviam no local. Era visto como uma brincadeira, um entretenimento feito para os próprios participantes e seus conhecidos. O tempo do caju era o pretexto para sua realização, sendo chamadas várias pessoas da região a fim de tomar mocororó, bebida fermentada do caju.\nVALLE, C. G. O. Toré$m/Tor$é: tradições e invenção no quadro de multiplicidade étnica do Ceará contemporâneo. In: GRÜNEWALD, R. A. (Org.). Toré: regime encantado dos índios do Nordeste. Recife: Fundaj-Massangana, 2005.\n\nO ritual mencionado no texto atribui à manifestação cultural de grupos indígenas do Nordeste brasileiro a função de",
       subItens: []
     },
     options: [

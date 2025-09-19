@@ -486,7 +486,7 @@ createQuestion({
     university: "uea",
     year: 2023,
     text: {
-      principal: "Em julho de 2022, a China sediou três eventos de relevância mundial: a 14ª Cúpula dos BRICS, o Diálogo de Alto Nível sobre Desenvolvimento Global e o Fórum Empresarial dos BRICS. Em um dos discursos, o presidente da China Xi Jinping disse que é hora de abandonar a mentalidade da Guerra Fria e do confronto entre blocos ideológicos, rejeitar sanções unilaterais e abusivas e prezar a \"grande família” da comunidade de futuro compartilhado em vez de formar grupos ditados pela hegemonia.\n\n(www.poder360.com.br, 08.07.2022. Adaptado.)\n\nO discurso do presidente chinês é uma crítica às ações",
+      principal: "Em julho de 2022, a China sediou três eventos de relevância mundial: a 14ª Cúpula dos BRICS, o Diálogo de Alto Nível sobre Desenvolvimento Global e o Fórum Empresarial dos BRICS. Em um dos discursos, o presidente da China $\\xi$ Jinping disse que é hora de abandonar a mentalidade da Guerra Fria e do confronto entre blocos ideológicos, rejeitar sanções unilaterais e abusivas e prezar a \"grande família” da comunidade de futuro compartilhado em vez de formar grupos ditados pela hegemonia.\n\n(www.poder360.com.br, 08.07.2022. Adaptado.)\n\nO discurso do presidente chinês é uma crítica às ações",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "uea",
     year: 2023,
     text: {
-      principal: "Um triângulo retângulo tem catetos de medidas 6 cm e 8 cm e sua hipotenusa é o lado de um triângulo em que os outros lados medem 3 cm e x, conforme mostra a figura.\n\n8 cm\nX\n6 cm\n60°/3 cm\n\nDado que o cos 60° = 0,5, o valor de x é",
+      principal: "Um triângulo retângulo tem catetos de medidas 6 cm e 8 cm e sua hipotenusa é o lado de um triângulo em que os outros lados medem 3 cm e x, conforme mostra a figura.\n\n8 cm\nX\n6 cm\n60°/3 cm\n\nDado que o $\\cos$ 60° = 0,5, o valor de x é",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
     university: "uea",
     year: 2023,
     text: {
-      principal: "Em uma fábrica, pães de mel são conduzidos por uma esteira para dentro do forno, com velocidade média de 0,05 m/s.\n\nMovimento da esteira\nForno\n\nEnquanto atravessam o interior do forno de 24 m de comprimento, os pães de mel são assados com bastante precisão, garantindo a qualidade do produto.\n\nO tempo necessário para que um pão de mel seja perfeitamente assado é mais próximo de",
+      principal: "Em uma fábrica, pães de mel são conduzidos por uma esteira para dentro do forno, com velocidade média de 0,05 $m/s$.\n\nMovimento da esteira\nForno\n\nEnquanto atravessam o interior do forno de 24 m de comprimento, os pães de mel são assados com bastante precisão, garantindo a qualidade do produto.\n\nO tempo necessário para que um pão de mel seja perfeitamente assado é mais próximo de",
       subItens: []
     },
     options: [
@@ -948,15 +948,15 @@ createQuestion({
     university: "uea",
     year: 2023,
     text: {
-      principal: "Uma pequena esfera é presa por uma corda ao teto de uma sala. A corda possui 1 m de comprimento, massa desprezível e é inextensível. A esfera é abandonada do repouso na posição indicada na figura, que está demarcada por uma malha quadriculada com quadrados de 0,2 m de lado.\n\nTeto da sala\n\nConsiderando g = 10 m/s² e admitindo que não haja perda de energia mecânica, a velocidade da esfera, ao passar pelo ponto mais baixo de sua trajetória, será",
+      principal: "Uma pequena esfera é presa por uma corda ao teto de uma sala. A corda possui 1 m de comprimento, massa desprezível e é inextensível. A esfera é abandonada do repouso na posição indicada na figura, que está demarcada por uma malha quadriculada com quadrados de 0,2 m de lado.\n\nTeto da sala\n\nConsiderando g = 10 $m/s$² e admitindo que não haja perda de energia mecânica, a velocidade da esfera, ao passar pelo ponto mais baixo de sua trajetória, será",
       subItens: []
     },
     options: [
-      "2,0 m/s.",
-      "2,5 m/s.",
-      "3,0 m/s.",
-      "3,5 m/s.",
-      "4,0 m/s."
+      "2,0 $m/s$.",
+      "2,5 $m/s$.",
+      "3,0 $m/s$.",
+      "3,5 $m/s$.",
+      "4,0 $m/s$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -994,11 +994,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "10 × P N/m.",
-      "15 × P N/m.",
-      "20 × P N/m.",
-      "25 × P N/m.",
-      "30 × P N/m."
+      "10 × P $N/m$.",
+      "15 × P $N/m$.",
+      "20 × P $N/m$.",
+      "25 × P $N/m$.",
+      "30 × P $N/m$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "uea",
     year: 2023,
     text: {
-      principal: "Uma vez que o som se propaga pelo ar com velocidade igual a 340 m/s, o tempo para que ele deixe sua fonte sonora, em repouso, atinja uma parede distante 340 m dela e, refletido, retorne ao ponto em que foi emitido é de",
+      principal: "Uma vez que o som se propaga pelo ar com velocidade igual a 340 $m/s$, o tempo para que ele deixe sua fonte sonora, em repouso, atinja uma parede distante 340 m dela e, refletido, retorne ao ponto em que foi emitido é de",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "uea",
     year: 2023,
     text: {
-      principal: "Um pequeno motor emprega 4000 J de energia para erguer um objeto por uma altura de 4 m. Como a velocidade da ascensão do objeto é constante e a aceleração da gravidade é 10 m/s², a massa do objeto que está sendo erguido é",
+      principal: "Um pequeno motor emprega 4000 J de energia para erguer um objeto por uma altura de 4 m. Como a velocidade da ascensão do objeto é constante e a aceleração da gravidade é 10 $m/s$², a massa do objeto que está sendo erguido é",
       subItens: []
     },
     options: [

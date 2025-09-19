@@ -13,7 +13,7 @@ createQuestion({
       "A expressão “andarmos todos nus” é empregada no sentido denotativo com a finalidade de ironizar a questão temática do texto.",
       "A ideia de vulnerabilidade presente no título do texto é reafirmada de maneira explícita em: “Estamos vulneráveis tal como deve se sentir uma pessoa nua, a caminhar pelas ruas de uma grande cidade.\" (linhas 76-78)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Semântica"],
     imageNames: []
@@ -34,7 +34,7 @@ createQuestion({
       "No segundo parágrafo, a autora apresenta argumentos favoráveis à ideia de que o bilhete único pode se tornar um instrumento para a vigilância massiva.",
       "O uso da expressão \"No entanto\" (linha 32) indica um movimento de contra-argumentação feito pela autora, ao afirmar que o uso maléfico ou benéfico das tecnologias é definido pelos interesses predominantes na sociedade."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Coesão e Coerência"],
     imageNames: []
@@ -55,7 +55,7 @@ createQuestion({
       "Na linha 42, o uso das aspas em “evangelizadores” reforça o ponto de vista da autora de que a tecnologia, quase como uma religião, é a solução para todos os problemas sociais.",
       "No trecho \"seja o avião, que serve para transporte ou bombardeio, ...\" (linhas 37 e 38), o uso das vírgulas delimita uma sentença que denota uma explicação de um termo anteriormente mencionado."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Pontuação", "Sintaxe"],
     imageNames: []
@@ -76,7 +76,7 @@ createQuestion({
       "A expressão “categórica” (linha 64) caracteriza a maneira de Malkia Cyrill fazer uma afirmação a respeito do tema em questão, podendo ser substituída, sem prejuízo de sentido, por \"contundente\".",
       "Em \"... devem ser feitas neste momento pelos brasileiros\" (linhas 72 e 73), a expressão em negrito estabelece relação semântica de causa."
     ],
-    correctAnswer: -8,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Sintaxe", "Semântica"],
     imageNames: []
@@ -97,7 +97,7 @@ createQuestion({
       "Em \"Todas essas problematizações” (linha 72), a autora, ao fazer uso da expressão em negrito, remete o leitor às discussões apresentadas anteriormente ao longo do texto sobre os perigos de não se ter uma política de privacidade na internet.",
       "Na pergunta “Perderão os pobres e as minorias oprimidas?” (linhas 52 e 53), a inversão da ordem de posicionamento do sujeito em relação ao predicado produz uma quebra sintática que reforça o valor semântico do verbo “perder”."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Coesão e Coerência", "Morfossintaxe"],
     imageNames: []
@@ -118,7 +118,7 @@ createQuestion({
       "Na linha 19, a locução “no entanto\" pode ser substituída, sem prejuízo sintático ao texto, pela conjunção “mas”.",
       "Em \"Para usá-lo, o cidadão deve fazer um cadastro com seus dados pessoais\" (linhas 2 e 3), o vocábulo “Para” não apresenta conteúdo semântico, sendo simplesmente um conectivo sintático."
     ],
-    correctAnswer: -10,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Conectivos", "Semântica", "Sintaxe"],
     imageNames: []
@@ -139,7 +139,7 @@ createQuestion({
       "No nono parágrafo, o verbo “dever” expressa um sentido de necessidade na forma “devem\" (linha 72), o que não ocorre em “deve\" (linha 76).",
       "O uso da forma verbal “pesa” (linha 91) significa que o ato de a balança pesar para o lado errado é algo restrito ao momento de produção do texto, não se aplicando a momento anterior nem a posterior ao da escrita."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Semântica", "Análise Sintática"],
     imageNames: []
@@ -160,7 +160,7 @@ createQuestion({
       "No último parágrafo, o uso do advérbio “vertiginosamente\" (linha 90) atenua semanticamente a ideia de expansão contida no verbo “aumentam” (linha 90).",
       "Em “O fato é que ela viola o direito à privacidade de toda uma comunidade\" (linhas 69 e 70), o pronome “ela” retoma sintaticamente uma expressão com traço gramatical de não pessoa, a saber: \"vigilância massiva” (linhas 67 e 68)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Semântica", "Coesão Referencial"],
     imageNames: []
@@ -181,7 +181,7 @@ createQuestion({
       "Na opinião da autora, a utilização das novas tecnologias com objetivos de segregação e exclusão é algo que ainda não é questionado pela sociedade civil.",
       "De acordo com o texto, os beneficiários do Bolsa Família são os mais afetados pela falta de leis que regulem o acesso aos dados na internet."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -202,7 +202,7 @@ createQuestion({
       "Em \"Aqui, no país do homem cordial\" (linhas 73 e 74), apresenta-se um elogio a essa característica do povo brasileiro, reafirmando o comprometimento do governo com uma política de proteção de dados pessoais na internet.",
       "O período “A balança pesa para o lado errado” (linhas 90 e 91), por meio do uso de linguagem conotativa, permite ao leitor inferir que, se não há regulação, pode ocorrer um uso inadequado de novas tecnologias."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Gêneros Textuais", "Figuras de Linguagem"],
     imageNames: []
@@ -223,7 +223,7 @@ createQuestion({
       "Após o surgimento confuso da “ideia”, ainda em estado paralítico, a mesma passa por um percurso de descida das regiões fantasiosas do cérebro e atinge a materialidade dos mecanismos do aparelho fonador no corpo humano. A \"ideia\" se desgasta em cada estágio de concretização de seu conceito até chegar à produção física do som. No entanto, por meio da língua, que é o ápice da realização da \"ideia\", o conceito inicial recupera seu vigor original.",
       "A \"ideia\" é classificada no verso onze como “Tísica, tênue, mínima, raquítica...”, termos reveladores da visão pessimista de Augusto do Anjos em relação ao ser humano. Assim como o corpo do homem sujeita-se a um lento processo de decomposição, a “ideia” também passa pelo mesmo processo de esfacelamento até chegar à língua, que, paralítica”, não é capaz de cumprir o papel de “libertar\" a ideia."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Simbolismo", "Poesia", "Análise Literária"],
     imageNames: []
@@ -244,7 +244,7 @@ createQuestion({
       "Embora o eu lírico não esperasse pelo amor, o poema mostra que ainda há fôlego para viver essa experiência. A última estrofe desenvolve um certo caráter erótico, que se anuncia ao final do último verso do primeiro terceto, que se encerra com a repetição da palavra \"corpo\". Insinua-se, assim, nas aliterações em “p”, o ritmo cardíaco acelerado e o cavalgar pelo “peito de quem ama”, que fecha o poema.",
       "O poema de Drummond representa o amor fora de época tão tradicional na história da literatura. O eu lírico também é um homem maduro, que se apaixona por uma moça mais jovem, representada pelas metáforas da “pétala\", da \"flor\" e das \"nuvens\". Imagens que remetem à adolescência e à ingenuidade do ser que é objeto do amor."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Modernismo", "Poesia", "Análise Literária"],
     imageNames: []
@@ -265,7 +265,7 @@ createQuestion({
       "Ao dar a alguns personagens nomes como \"Abelardo\" e \"Heloísa\", e ao trabalhar exageradamente o aspecto sentimental dos amantes, Oswald de Andrade abriu espaço para a principal crítica feita à peça: o fato de, em pleno Modernismo, adotar uma dicção e uma proposta típicas do ultrarromantismo, o que valeu à produção oswaldiana da década de 1940 (caso de O rei da vela) a pecha de \"neo-romântica\".",
       "O rei da vela é uma das principais obras do Modernismo brasileiro no que tange à mistura explícita de gêneros literários: apesar de se propor como obra dramática, o fato de a peça ter sido escrita em versos, bem como sua natureza eminentemente narrativa (com dezenas de longas didascálias, compostas de várias páginas, que elaboram o enredo), fazem com que essa obra seja considerada vanguardista em termos formais."
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Modernismo", "Teatro Brasileiro"],
     imageNames: []
@@ -286,7 +286,7 @@ createQuestion({
       "Questões relacionadas ao negro, ao seu papel na sociedade brasileira do século XIX, encontram espaço em Memórias póstumas de Brás Cubas. Emblemáticos, nesse sentido, são as passagens nas quais se destacam a figura de Prudêncio e sua condição de oprimido e de opressor.",
       "Apesar de sua capacidade de construção de personagens, Machado de Assis, em Memórias póstumas de Brás Cubas, reitera uma característica negativa apontada pela crítica: o fato de apenas seus personagens narradores possuírem profundidade psicológica. Tal fato, exemplificado por Brás Cubas, encontra eco em personagens como Bentinho, o único bem desenvolvido em Dom Casmurro."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Realismo", "Machado de Assis"],
     imageNames: []
@@ -307,7 +307,7 @@ createQuestion({
       "Mário de Andrade ilustra, em seus Contos novos, uma tendência de autores da primeira geração modernista, como Manuel Bandeira e Guimarães Rosa: o abandono de temáticas nacionais em prol de um universalismo cosmopolita que enfocasse apenas questões oriundas de contextos estrangeiros.",
       "Dois irmãos, de Milton Hatoum, figura ainda hoje como um dos mais importantes romances da segunda geração modernista no Brasil. Exemplo raro do Surrealismo na literatura nacional, o enredo, no qual o personagem principal se desdobra em um “gêmeo”, aproxima o autor de seus seguidores mais conhecidos, como o romancista Murilo Mendes."
     ],
-    correctAnswer: -10,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira", "Barroco", "Romantismo", "Modernismo"],
     imageNames: []
@@ -328,7 +328,7 @@ createQuestion({
       "The words more than in “... for more than a year...” (line 27) is used as superlative.",
       "The verbs fly, grab and bring in \"Fly to an asteroid, grab some of the rock and bring it back to Earth...” (lines 6 and 7) are examples of imperative."
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto", "Vocabulário", "Gramática"],
     imageNames: []
@@ -349,7 +349,7 @@ createQuestion({
       "The spacecraft is going to touch the surface of the asteroid to get the rocks.",
       "The spacecraft will finally come back and stay on Earth in 2023."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -370,7 +370,7 @@ createQuestion({
       "“... Bennu passes fairly close every six years...” (lines 46 and 47).",
       "“... the asteroid that is thought to have killed off the dinosaurs 66 million years ago was about six miles wide” (lines 55-57)."
     ],
-    correctAnswer: -10,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto", "Tempos Verbais"],
     imageNames: []
@@ -381,7 +381,7 @@ createQuestion({
     university: "uem",
     year: 2016,
     text: {
-      principal: "Choose the alternative(s) in which the underlined word(s) and/or expression(s) is (are) related to the spacecraft.",
+      principal: "Choose the alternative(s) in which the underlined word(s) $and/or$ expression(s) is (are) related to the spacecraft.",
       subItens: []
     },
     options: [
@@ -391,7 +391,7 @@ createQuestion({
       "“It’s a time capsule from the earliest stages of solar system formation” (lines 22 and 23).",
       "“... dropping off a capsule with the samples that will land via parachute in a Utah desert.” (lines 41-43)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário", "Compreensão de Texto"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "1999 is the year the spacecraft will reach the asteroid.",
       "The material collected from the asteroid will be dropped on Earth via parachute."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto", "Gramática"],
     imageNames: []

@@ -49,7 +49,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2",
+      "$1/2$",
       "√3",
       "1",
       "2",
@@ -72,7 +72,7 @@ createQuestion({
     options: [
       "√5",
       "√10",
-      "5/2",
+      "$5/2$",
       "5",
       "10"
     ],
@@ -129,13 +129,13 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "Sejam as funções f(x) = 2ˣ, g(x) = 4x e h(x) = log₂ x. A função composta u = h ◦ g ◦ f é uma função afim. Assinale a alternativa que corresponde ao coeficiente angular da função u.",
+      principal: "Sejam as funções f(x) = 2ˣ, g(x) = 4x e h(x) = $\\log$₂ x. A função composta u = h ◦ g ◦ f é uma função afim. Assinale a alternativa que corresponde ao coeficiente angular da função u.",
       subItens: []
     },
     options: [
-      "1/3",
-      "2/3",
-      "4/3",
+      "$1/3$",
+      "$2/3$",
+      "$4/3$",
       "1",
       "2"
     ],
@@ -150,15 +150,15 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "Sabendo que sen x = 3/5, assinale a alternativa que corresponde ao valor de cos (2x).",
+      principal: "Sabendo que $\\sin$ x = $3/5$, assinale a alternativa que corresponde ao valor de $\\cos$ (2x).",
       subItens: []
     },
     options: [
-      "2/25",
-      "3/25",
-      "7/25",
-      "9/25",
-      "16/25"
+      "$2/25$",
+      "$3/25$",
+      "$7/25$",
+      "$9/25$",
+      "$16/25$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -192,7 +192,7 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "O texto a seguir é referência para as questões 10 a 12.\nUm objeto de massa constante m = 0,2 kg desloca-se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração a é medida em função do tempo t, obtendo-se, então, o gráfico a seguir:\nGráfico a (m/s²) vs t (s): O eixo Y representa a aceleração (a) em m/s² e o eixo X representa o tempo (t) em s. O gráfico apresenta os seguintes pontos conectados por segmentos de reta: (0,0), (10,0), (20,4), (30,4), (40,2), (50,2), (60,0), (70,0), (80,2), (90,0).\n\nConsiderando os dados expostos no enunciado e no gráfico, assinale a alternativa que apresenta corretamente a intensidade F da força resultante aplicada sobre a partícula no instante t = 30 s.",
+      principal: "O texto a seguir é referência para as questões 10 a 12.\nUm objeto de massa constante m = 0,2 kg desloca-se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração a é medida em função do tempo t, obtendo-se, então, o gráfico a seguir:\nGráfico a ($m/s$²) vs t (s): O eixo Y representa a aceleração (a) em $m/s$² e o eixo X representa o tempo (t) em s. O gráfico apresenta os seguintes pontos conectados por segmentos de reta: (0,0), (10,0), (20,4), (30,4), (40,2), (50,2), (60,0), (70,0), (80,2), (90,0).\n\nConsiderando os dados expostos no enunciado e no gráfico, assinale a alternativa que apresenta corretamente a intensidade F da força resultante aplicada sobre a partícula no instante t = 30 s.",
       subItens: []
     },
     options: [
@@ -213,15 +213,15 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "O texto a seguir é referência para as questões 10 a 12.\nUm objeto de massa constante m = 0,2 kg desloca-se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração a é medida em função do tempo t, obtendo-se, então, o gráfico a seguir:\nGráfico a (m/s²) vs t (s): O eixo Y representa a aceleração (a) em m/s² e o eixo X representa o tempo (t) em s. O gráfico apresenta os seguintes pontos conectados por segmentos de reta: (0,0), (10,0), (20,4), (30,4), (40,2), (50,2), (60,0), (70,0), (80,2), (90,0).\n\nSabe-se que a velocidade do objeto no instante t = 40 s vale v₁ = 25 m/s. Com base nos dados fornecidos no enunciado e no gráfico, assinale a alternativa que apresenta corretamente a velocidade v₂ do objeto no instante t = 50 s.",
+      principal: "O texto a seguir é referência para as questões 10 a 12.\nUm objeto de massa constante m = 0,2 kg desloca-se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração a é medida em função do tempo t, obtendo-se, então, o gráfico a seguir:\nGráfico a ($m/s$²) vs t (s): O eixo Y representa a aceleração (a) em $m/s$² e o eixo X representa o tempo (t) em s. O gráfico apresenta os seguintes pontos conectados por segmentos de reta: (0,0), (10,0), (20,4), (30,4), (40,2), (50,2), (60,0), (70,0), (80,2), (90,0).\n\nSabe-se que a velocidade do objeto no instante t = 40 s vale v₁ = 25 $m/s$. Com base nos dados fornecidos no enunciado e no gráfico, assinale a alternativa que apresenta corretamente a velocidade v₂ do objeto no instante t = 50 s.",
       subItens: []
     },
     options: [
-      "v2 = 35 m/s",
-      "v2 = 45 m/s",
-      "v2 = 55 m/s",
-      "v2 = 65 m/s",
-      "v2 = 75 m/s"
+      "v2 = 35 $m/s$",
+      "v2 = 45 $m/s$",
+      "v2 = 55 $m/s$",
+      "v2 = 65 $m/s$",
+      "v2 = 75 $m/s$"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -234,7 +234,7 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "O texto a seguir é referência para as questões 10 a 12.\nUm objeto de massa constante m = 0,2 kg desloca-se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração a é medida em função do tempo t, obtendo-se, então, o gráfico a seguir:\nGráfico a (m/s²) vs t (s): O eixo Y representa a aceleração (a) em m/s² e o eixo X representa o tempo (t) em s. O gráfico apresenta os seguintes pontos conectados por segmentos de reta: (0,0), (10,0), (20,4), (30,4), (40,2), (50,2), (60,0), (70,0), (80,2), (90,0).\n\nConsiderando os dados fornecidos no enunciado e no gráfico, assinale a alternativa que apresenta corretamente o valor do trabalho total W realizado sobre o objeto entre os instantes t = 60 s e t = 70 s.",
+      principal: "O texto a seguir é referência para as questões 10 a 12.\nUm objeto de massa constante m = 0,2 kg desloca-se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração a é medida em função do tempo t, obtendo-se, então, o gráfico a seguir:\nGráfico a ($m/s$²) vs t (s): O eixo Y representa a aceleração (a) em $m/s$² e o eixo X representa o tempo (t) em s. O gráfico apresenta os seguintes pontos conectados por segmentos de reta: (0,0), (10,0), (20,4), (30,4), (40,2), (50,2), (60,0), (70,0), (80,2), (90,0).\n\nConsiderando os dados fornecidos no enunciado e no gráfico, assinale a alternativa que apresenta corretamente o valor do trabalho total W realizado sobre o objeto entre os instantes t = 60 s e t = 70 s.",
       subItens: []
     },
     options: [
@@ -301,11 +301,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "v = 6,25 m/s",
-      "v = 12,5 m/s",
-      "v = 50,0 m/s",
-      "v = 100 m/s",
-      "v = 200 m/s"
+      "v = 6,25 $m/s$",
+      "v = 12,5 $m/s$",
+      "v = 50,0 $m/s$",
+      "v = 100 $m/s$",
+      "v = 200 $m/s$"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -318,15 +318,15 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "O texto a seguir é referência para as questões 16 e 17.\nUma dada quantidade de gás ideal executa o processo termodinâmico apresentado no gráfico a seguir, iniciando no ponto A e terminando no ponto B:\nGráfico P (kPa) vs V (m³): O eixo Y representa a pressão (P) em kPa e o eixo X representa o volume (V) em m³. O gráfico mostra um processo do ponto A (V=1.0, P=80) para o ponto B (V=3.0, P=40), conectados por uma linha reta.\n\nConsidere que a temperatura do gás no ponto A vale TA, e a temperatura no ponto B vale TB. Com base nas informações fornecidas no enunciado e no gráfico, assinale a alternativa que apresenta corretamente o valor da razão TB/TA entre as temperaturas dos pontos B e A.",
+      principal: "O texto a seguir é referência para as questões 16 e 17.\nUma dada quantidade de gás ideal executa o processo termodinâmico apresentado no gráfico a seguir, iniciando no ponto A e terminando no ponto B:\nGráfico P (kPa) vs V (m³): O eixo Y representa a pressão (P) em kPa e o eixo X representa o volume (V) em m³. O gráfico mostra um processo do ponto A (V=1.0, P=80) para o ponto B (V=3.0, P=40), conectados por uma linha reta.\n\nConsidere que a temperatura do gás no ponto A vale TA, e a temperatura no ponto B vale TB. Com base nas informações fornecidas no enunciado e no gráfico, assinale a alternativa que apresenta corretamente o valor da razão $TB/TA$ entre as temperaturas dos pontos B e A.",
       subItens: []
     },
     options: [
-      "TB/TA = 3/4",
-      "TB/TA = 4/3",
-      "TB/TA = 2/3",
-      "TB/TA = 1/2",
-      "TB/TA = 3/2"
+      "$TB/TA$ = $3/4$",
+      "$TB/TA$ = $4/3$",
+      "$TB/TA$ = $2/3$",
+      "$TB/TA$ = $1/2$",
+      "$TB/TA$ = $3/2$"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -402,7 +402,7 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "Recentemente, pesquisadores publicaram resultados sobre compostos de promécio (Pm), um dos elementos mais raros da tabela periódica. Estima-se que menos de um quilograma da substância pode ser encontrado naturalmente na crosta terrestre. A sua existência foi comprovada apenas em 1945, por meio da análise dos subprodutos da fissão do urânio. O promécio é produzido por bombardeamento de neodímio-146 por uma partícula (A), formando neodímio-147, que por sua vez decai a promécio-147.\n\nO esquema a seguir ilustra esse processo:\n146/60 Nd + A → 147/60 Nd → 147/61 Pm + β\n\nConsiderando as informações apresentadas, a espécie indicada por A, no esquema, corresponde a um(a):",
+      principal: "Recentemente, pesquisadores publicaram resultados sobre compostos de promécio (Pm), um dos elementos mais raros da tabela periódica. Estima-se que menos de um quilograma da substância pode ser encontrado naturalmente na crosta terrestre. A sua existência foi comprovada apenas em 1945, por meio da análise dos subprodutos da fissão do urânio. O promécio é produzido por bombardeamento de neodímio-146 por uma partícula (A), formando neodímio-147, que por sua vez decai a promécio-147.\n\nO esquema a seguir ilustra esse processo:\n$146/60$ Nd + A → $147/60$ Nd → $147/61$ Pm + β\n\nConsiderando as informações apresentadas, a espécie indicada por A, no esquema, corresponde a um(a):",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "Na busca por combustíveis menos danosos ao meio ambiente, a amônia (NH₃) tem sido considerada uma possível alternativa. Sua combustão no motor não libera gás carbônico para a atmosfera e produz bastante calor, como mostra a Reação 1:\n4NH₃ + 3O₂ → 2N₂ + 6H₂O\tΔH₁ = –1268 kJ (Reação 1)\nEntretanto, a adoção da amônia encontra vários obstáculos técnicos, como o fato de sua combustão também produzir óxidos de nitrogênio altamente tóxicos. A produção do óxido de nitrogênio mais simples (NO) é mostrada na Reação 2:\n4NH₃ + 5O₂ → 4NO + 6H₂O\tΔH₂ = –904 kJ (Reação 2)\nPor outro lado, o óxido de nitrogênio é produzido por qualquer motor de combustão interna a partir do nitrogênio atmosférico, como mostra a Reação 3:\nN₂ + O₂ → 2NO\tΔH₃ = ? (Reação 3)\nUtilizando os dados fornecidos, assinale a alternativa que apresenta corretamente o valor da variação da entalpia da Reação 3 (ΔH₃), em kJ.",
+      principal: "Na busca por combustíveis menos danosos ao meio ambiente, a amônia (NH₃) tem sido considerada uma possível alternativa. Sua combustão no motor não libera gás carbônico para a atmosfera e produz bastante calor, como mostra a Reação 1:\n4NH₃ + 3O₂ → 2N₂ + 6H₂O	ΔH₁ = –1268 kJ (Reação 1)\nEntretanto, a adoção da amônia encontra vários obstáculos técnicos, como o fato de sua combustão também produzir óxidos de nitrogênio altamente tóxicos. A produção do óxido de nitrogênio mais simples (NO) é mostrada na Reação 2:\n4NH₃ + 5O₂ → 4NO + 6H₂O	ΔH₂ = –904 kJ (Reação 2)\nPor outro lado, o óxido de nitrogênio é produzido por qualquer motor de combustão interna a partir do nitrogênio atmosférico, como mostra a Reação 3:\nN₂ + O₂ → 2NO	ΔH₃ = ? (Reação 3)\nUtilizando os dados fornecidos, assinale a alternativa que apresenta corretamente o valor da variação da entalpia da Reação 3 (ΔH₃), em kJ.",
       subItens: []
     },
     options: [
@@ -570,7 +570,7 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "As doenças crônicas não transmissíveis (DCNT) atualmente constituem os principais problemas de saúde pública no Brasil e no mundo, causando grande número de mortes prematuras e perda de qualidade de vida. Muitas dessas doenças estão associadas a desequilíbrios metabólicos, detectáveis em exames laboratoriais. A tabela a seguir apresenta os valores para variáveis metabólicas mensuradas a partir da coleta de sangue de 3 indivíduos adultos fictícios:\n\nVariáveis\nIndivíduo 1\nIndivíduo 2\nIndivíduo 3\nGlicose em jejum (mg/dL)\n80\n150\n150\nInsulina em jejum (µU/mL)\n10\n0,4\n40\nHOMA-IR\n1,9\n0,1\n13,5\n\nHOMA-IR: modelo matemático de avaliação da homeostase para resistência à insulina.\nReferências para análise dos resultados:\nGlicose normal: 70 a 99 mg/dL\nInsulina normal: 2 a 13 μU/mL\nHOMA-IR > 2,7 indica resistência à ação da insulina\n\nSobre a relação entre as variáveis apresentadas e as possíveis consequências para a saúde dos indivíduos apresentados na tabela, é correto afirmar:",
+      principal: "As doenças crônicas não transmissíveis (DCNT) atualmente constituem os principais problemas de saúde pública no Brasil e no mundo, causando grande número de mortes prematuras e perda de qualidade de vida. Muitas dessas doenças estão associadas a desequilíbrios metabólicos, detectáveis em exames laboratoriais. A tabela a seguir apresenta os valores para variáveis metabólicas mensuradas a partir da coleta de sangue de 3 indivíduos adultos fictícios:\n\nVariáveis\nIndivíduo 1\nIndivíduo 2\nIndivíduo 3\nGlicose em jejum ($mg/dL$)\n80\n150\n150\nInsulina em jejum (µ$U/mL$)\n10\n0,4\n40\nHOMA-IR\n1,9\n0,1\n13,5\n\nHOMA-IR: modelo matemático de avaliação da homeostase para resistência à insulina.\nReferências para análise dos resultados:\nGlicose normal: 70 a 99 $mg/dL$\nInsulina normal: 2 a 13 μ$U/mL$\nHOMA-IR > 2,7 indica resistência à ação da insulina\n\nSobre a relação entre as variáveis apresentadas e as possíveis consequências para a saúde dos indivíduos apresentados na tabela, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -742,11 +742,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2",
-      "1/4",
-      "3/4",
-      "6/16",
-      "9/16"
+      "$1/2$",
+      "$1/4$",
+      "$3/4$",
+      "$6/16$",
+      "$9/16$"
     ],
     correctAnswer: 3,
     materia: ["Biologia"],
@@ -864,12 +864,12 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "\"No Egito, em 1960, 30% de todas as crianças morriam antes do quinto aniversário. O delta do rio [Nilo] era uma miséria para as crianças, com todo tipo de doenças graves e subnutrição. Então [...] os egípcios construíram a represa de Aswan, levaram eletricidade às casas das pessoas, melhoraram a educação, construíram um sistema de assistência médica primária, erradicaram a malária e tornaram a água potável. Hoje, a taxa de mortalidade infantil do Egito, 2,3%, é menor do que era na França ou no Reino Unido em 1960.\"\nRosling, H. Factfulness: o hábito libertador de só ter opiniões baseadas em fatos. 2. ed. Rio de Janeiro; São Paulo: Record, 2019. p. 102.\n\nSobre os fatores que afetam as mudanças expressas nos indicadores de qualidade de vida, assinale a alternativa correta.",
+      principal: "\"No Egito, em 1960, 30% de todas as crianças morriam antes do quinto aniversário. O $\\delta$ do rio [Nilo] era uma miséria para as crianças, com todo tipo de doenças graves e subnutrição. Então [...] os egípcios construíram a represa de Aswan, levaram eletricidade às casas das pessoas, melhoraram a educação, construíram um sistema de assistência médica primária, erradicaram a malária e tornaram a água potável. Hoje, a taxa de mortalidade infantil do Egito, 2,3%, é menor do que era na França ou no Reino Unido em 1960.\"\nRosling, H. Factfulness: o hábito libertador de só ter opiniões baseadas em fatos. 2. ed. Rio de Janeiro; São Paulo: Record, 2019. p. 102.\n\nSobre os fatores que afetam as mudanças expressas nos indicadores de qualidade de vida, assinale a alternativa correta.",
       subItens: []
     },
     options: [
       "O Egito exemplifica um processo mundial de melhora das condições de vida causada pela combinação de crescimento econômico com progresso tecnológico.",
-      "A redução da mortalidade infantil é um avanço social que impôs o desafio de enfrentar o aumento das taxas de crescimento demográfico em países muçulmanos.",
+      "A redução da mortalidade infantil é um avanço social que impôs o desafio de enfrentar o aumento das taxas de crescimento demográfico em países $\\mu$çulmanos.",
       "A melhora das condições de saúde foi mais rápida na África do que na Ásia e América Latina devido às campanhas de vacinação contra a malária, doença que era epidêmica no continente africano.",
       "O salto de qualidade de vida descrito ocorreu nos países subdesenvolvidos exportadores de petróleo, como o Egito.",
       "A comparação entre os países citados mostra que as desigualdades internacionais aumentaram, pois os indicadores de saúde dos países ricos melhoram mais rapidamente."
@@ -932,7 +932,7 @@ createQuestion({
     },
     options: [
       "os laços diplomáticos estabelecidos com as regiões do norte da Europa cristã, especialmente o tratado entre o califado abássida e o reino franco de Carlos Martel.",
-      "a permissão de que povos conquistados mantivessem suas religiões mediante o pagamento da jizia, imposto cobrado de súditos não muçulmanos.",
+      "a permissão de que povos conquistados mantivessem suas religiões mediante o pagamento da jizia, imposto cobrado de súditos não $\\mu$çulmanos.",
       "o fundamentalismo religioso dos árabes, que eram movidos pelo fervor da jihad, termo que pode ser traduzido como \"guerra santa\".",
       "a realocação da capital dos califados para Constantinopla, cidade bizantina conquistada pelas forças islâmicas e localizada entre a Ásia e a Europa.",
       "a conversão voluntária de judeus, especialmente no norte da África e na península Ibérica, que ficaram conhecidos como moçárabes."
@@ -976,7 +976,7 @@ createQuestion({
       "A organização política e econômica feudal, que se espalhou das regiões francesas para a península Itálica especialmente nos séculos XV e XVI.",
       "A doutrina de Despotismo Esclarecido, que embasava a legitimidade dos governantes no Medievo e manteve-se firme nos séculos seguintes.",
       "A religiosidade cristã, marcante nos séculos medievais e perceptível em diversas obras artísticas e textos do Renascimento no Ocidente.",
-      "O espírito cruzadístico, que moveu diversas campanhas militares desde o século XI e, no Renascimento, delimitou o movimento inquisitorial.",
+      "O espírito cruzadístico, que moveu diversas campanhas militares desde o século $\\xi$ e, no Renascimento, delimitou o movimento inquisitorial.",
       "A ideia de antropocentrismo, que foi amplamente discutida nos mosteiros medievais e ganhou verniz cultural com os artistas do Renascimento."
     ],
     correctAnswer: 2,
@@ -1116,7 +1116,7 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "O texto a seguir é referência para as questões 55 a 58.\nTragédia no RS apaga pessoas negras e escancara racismo ambiental\nNo início dos anos 2000, viajei a Mato Grosso do Sul para participar de um evento universitário. Lembro que na época eu causei espanto em alguns participantes ao dizer que eu era de Porto Alegre. A surpresa vinha acompanhada de um questionamento: \"Não sabia que tinha negros no Rio Grande Sul\". Ao longo dos anos experimentei essa reação diversas vezes, em contextos e lugares diferentes.\nEssa percepção faz parte de um senso comum bastante arraigado no Brasil, e é fruto de um projeto de embranquecimento e apagamento das comunidades negras no estado. Um projeto bem-sucedido que há séculos invisibiliza não só a presença de pessoas negras, como também sua contribuição crucial na construção do estado.\nO imaginário popular é este: o Rio Grande do Sul é branco, constituído por uma grande colônia alemã, de ares europeus, lugar em que os moradores nem falam português. Um estereótipo que é reforçado pelas imagens dos municípios como Gramado e Canela, com seus chalés, fábricas de chocolates, vinhos e cafés coloniais.\nObviamente que existe uma inegável contribuição da colonização europeia na formação do estado, no entanto, o que se coloca aqui é a supervalorização dessa cultura e o apagamento de outras.\nSegundo dados do próprio governo do estado, o Rio Grande do Sul tem uma população negra de 21%. Os levantamentos também mostram que os negros são os mais pobres, ganham salários mais baixos e têm menos acesso à educação e à saúde quando comparados aos brancos. Além disso, a representatividade na política é pequena: apenas na última eleição foi eleita a primeira bancada negra de Porto Alegre.\nAs enchentes no Rio Grande do Sul revelam a existência de uma segregação racial no estado. A tragédia atingiu de maneira significativa a região metropolitana de Porto Alegre, por exemplo, um lugar onde reside grande parte da população negra e periférica. Portanto, são comunidades inteiras pertencentes a uma classe operária, que ocupam áreas de risco e que estão propensas a serem as primeiras vítimas das catástrofes climáticas.\nNão se pode falar em reconstrução de um estado sem levar em consideração os efeitos do racismo ambiental. A reconstrução deve se dar num contexto compreendendo que, historicamente, as comunidades periféricas, negras, quilombolas e indígenas não tiveram acesso a serviços básicos como saneamento, água potável, luz, acesso à internet, saúde e educação de qualidade.\nAs enchentes escancararam o racismo ambiental, portanto, será preciso dar atenção ainda maior às desigualdades raciais para uma reconstrução justa e humana.\nDisponível em: https://www.geledes.org.br/tragedia-no-rs-apaga-pessoas-negras-e-escancara-racismo-ambiental. Adaptado.\n\nAssinale a alternativa que indica expressões do texto com significados convergentes.",
+      principal: "O texto a seguir é referência para as questões 55 a 58.\nTragédia no RS apaga pessoas negras e escancara racismo ambiental\nNo início dos anos 2000, viajei a Mato Grosso do Sul para participar de um evento universitário. Lembro que na época eu causei espanto em alguns participantes ao dizer que eu era de Porto Alegre. A surpresa vinha acompanhada de um questionamento: \"Não sabia que tinha negros no Rio Grande Sul\". Ao longo dos anos experimentei essa reação diversas vezes, em contextos e lugares diferentes.\nEssa percepção faz parte de um senso comum bastante arraigado no Brasil, e é fruto de um projeto de embranquecimento e apagamento das comunidades negras no estado. Um projeto bem-sucedido que há séculos invisibiliza não só a presença de pessoas negras, como também sua contribuição crucial na construção do estado.\nO imaginário popular é este: o Rio Grande do Sul é branco, constituído por uma grande colônia alemã, de ares europeus, lugar em que os moradores nem falam português. Um estereótipo que é reforçado pelas imagens dos municípios como Gramado e Canela, com seus chalés, fábricas de chocolates, vinhos e cafés coloniais.\nObviamente que existe uma inegável contribuição da colonização europeia na formação do estado, no entanto, o que se coloca aqui é a supervalorização dessa cultura e o apagamento de outras.\nSegundo dados do próprio governo do estado, o Rio Grande do Sul tem uma população negra de 21%. Os levantamentos também mostram que os negros são os mais pobres, ganham salários mais baixos e têm menos acesso à educação e à saúde quando comparados aos brancos. Além disso, a representatividade na política é pequena: apenas na última eleição foi eleita a primeira bancada negra de Porto Alegre.\nAs enchentes no Rio Grande do Sul revelam a existência de uma segregação racial no estado. A tragédia atingiu de maneira significativa a região metropolitana de Porto Alegre, por exemplo, um lugar onde reside grande parte da população negra e periférica. Portanto, são comunidades inteiras pertencentes a uma classe operária, que ocupam áreas de risco e que estão propensas a serem as primeiras vítimas das catástrofes climáticas.\nNão se pode falar em reconstrução de um estado sem levar em consideração os efeitos do racismo ambiental. A reconstrução deve se dar num contexto compreendendo que, historicamente, as comunidades periféricas, negras, quilombolas e indígenas não tiveram acesso a serviços básicos como saneamento, água potável, luz, acesso à internet, saúde e educação de qualidade.\nAs enchentes escancararam o racismo ambiental, portanto, será preciso dar atenção ainda maior às desigualdades raciais para uma reconstrução justa e humana.\nDisponível em: https://www.geledes.org.$br/tragedia$-no-rs-apaga-pessoas-negras-e-escancara-racismo-ambiental. Adaptado.\n\nAssinale a alternativa que indica expressões do texto com significados convergentes.",
       subItens: []
     },
     options: [
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "ufpr",
     year: 2025,
     text: {
-      principal: "O texto a seguir é referência para as questões 60 e 61.\nEntenda os juros\nJuros são o valor do dinheiro no tempo. Ou seja, funcionam como se fossem o aluguel do dinheiro. Os bancos e outras instituições financeiras fazem a intermediação entre quem tem dinheiro (poupador ou investidor) e quem precisa de dinheiro (tomador ou devedor). Se você é um poupador/investidor, o dinheiro que você aplicou na instituição financeira será emprestado ao tomador/devedor, que pagará o valor, mais juros ao banco. O banco, por sua vez, fica com parcela do valor pago como remuneração e devolve a você a quantia com juros no momento futuro, conforme combinado. O tomador vai devolver ao banco um valor superior ao que tomou emprestado e o poupador vai receber um montante maior do que o investido.\nTaxa de juros\nÉ o preço do \"aluguel” do dinheiro por um período de tempo; percentual calculado pela divisão dos juros contratados pelo capital emprestado/poupado. Se os juros cobrados pelo empréstimo de R$1.000 durante um ano forem R$80, significa que o tomador pagou uma taxa de juros de 8% a.a. (ao ano). O cálculo é feito da seguinte forma: juros/capital, ou seja 80/1.000 = 8/100 por ano = 8% a.a. Por outro lado, considere o cenário em que um investimento de R$ 1.000 renda à taxa de juros de 5% a.a. (ao ano). Assim, o investidor receberá R$5 por cada R$100 investidos (5/100) durante um ano, o que, ao final do período, totalizará o montante de R$1.050.\nDisponível em: https://www.bcb.gov.br/cidadaniafinanceira/entendajuro.\n\nConsidere as seguintes afirmativas:\n1. As instituições financeiras atuam no meio do processo entre o investidor e o devedor.\n2. O devedor é o participante que sai lucrando no processo de empréstimo de dinheiro dos bancos.\n3. A taxa de juros define o valor da administração bancária na gestão de investimentos financeiros.\n4. O valor do juros pago pelo devedor é igual ao valor lucrado pelo investidor.\nAssinale a alternativa correta.",
+      principal: "O texto a seguir é referência para as questões 60 e 61.\nEntenda os juros\nJuros são o valor do dinheiro no tempo. Ou seja, funcionam como se fossem o aluguel do dinheiro. Os bancos e outras instituições financeiras fazem a intermediação entre quem tem dinheiro (poupador ou investidor) e quem precisa de dinheiro (tomador ou devedor). Se você é um $poupador/investidor$, o dinheiro que você aplicou na instituição financeira será emprestado ao $tomador/devedor$, que pagará o valor, mais juros ao banco. O banco, por sua vez, fica com parcela do valor pago como remuneração e devolve a você a quantia com juros no momento futuro, conforme combinado. O tomador vai devolver ao banco um valor superior ao que tomou emprestado e o poupador vai receber um montante maior do que o investido.\nTaxa de juros\nÉ o preço do \"aluguel” do dinheiro por um período de tempo; percentual calculado pela divisão dos juros contratados pelo capital $emprestado/poupado$. Se os juros cobrados pelo empréstimo de R$1.000 durante um ano forem R$80, significa que o tomador pagou uma taxa de juros de 8% a.a. (ao ano). O cálculo é feito da seguinte forma: $juros/capital$, ou seja $80/1$.000 = $8/100$ por ano = 8% a.a. Por outro lado, considere o cenário em que um investimento de R$ 1.000 renda à taxa de juros de 5% a.a. (ao ano). Assim, o investidor receberá R$5 por cada R$100 investidos ($5/100$) durante um ano, o que, ao final do período, totalizará o montante de R$1.050.\nDisponível em: https://www.bcb.gov.br/cidadaniafinanceira/entendajuro.\n\nConsidere as seguintes afirmativas:\n1. As instituições financeiras atuam no meio do processo entre o investidor e o devedor.\n2. O devedor é o participante que sai lucrando no processo de empréstimo de dinheiro dos bancos.\n3. A taxa de juros define o valor da administração bancária na gestão de investimentos financeiros.\n4. O valor do juros pago pelo devedor é igual ao valor lucrado pelo investidor.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [

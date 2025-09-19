@@ -83,7 +83,7 @@ createQuestion({
     university: "uemg",
     year: 2023,
     text: {
-      principal: "05. Em se tratando de variações linguísticas, marque (V) verdadeiro ou (F) falso e assinale a alternativa correta.\n() Variações linguísticas no Nordeste: O sotaque nordestino é a variante mais utilizada nos Estados do Nordeste Brasileiro, entretanto, quando o assunto são expressões e gírias, cada região tem a sua própria. Canhenga, usado para caracterizar uma pessoa que não gosta de gastar dinheiro; Ligeiro, significa rápido; Encabulado, quer dizer algo vergonhoso; Rangar, significa comer; Oxê, ou Oxente, são expressões de surpresa, espanto; Mainha/Painho, são mãe e pai.\n() Variações linguísticas no Sudeste: As variações linguísticas da região sudeste predominam o jeito caipira no sotaque do interior de São Paulo, mas o Sudeste não se resume apenas a isso, mas também com as mais diversas gírias em outros estados, como o Rio de Janeiro. Bolado, quer dizer estar preocupado com algo; Da hora, significa legal; É fria, quer dizer perigoso; Larica, expressão usada para dizer que está com fome; Quebrado, significa estar sem dinheiro.\n() Variações linguísticas no Sul: As variações linguísticas na região Sul são caracterizadas pela harmonia e redução na voz. Em alguns locais, por exemplo, é comum que os falantes pronunciam a letra “e” em palavras cujo a sílaba final possui a vogal, enquanto em outras regiões do país pronuncia-se como “i”. Conheça algumas expressões da região Sul. Alçar a perna, quer dizer monta a cavalo; Cacetinho, o pão francês que mencionamos no início desse artigo; Embretar-se, entrar, ou se meter em apuros; Guri, significa menino; Lindeiro, quer dizer vizinho; Solito, uma pessoa sozinha, isolada.\n() Variações linguísticas no Centro-Oeste: As variações linguísticas e o sotaque da Região Centro-Oeste são bastante marcados pelo contato do português colonizado com as línguas indígenas da região. Por exemplo, no Estado do Mato Grosso, os falantes não falam chuva com o som de chu, mas sim tchuva, mesma coisa com a palavra peixe, a pronúncia é petche. Vale ressaltar que esse dialeto é típico dessa região, não só ele, como os jargões a seguir. Arruinou, quer dizer que está ruim de saúde; Carreta, significa carro; Dormir no macio, quer dizer viver folgado; Empatar, quer dizer atrapalhar.\n() Existem quatro tipos de variantes linguísticas: as variações diatópicas (geográficas), variações diacrônicas (históricas), variações diastráticas (grupos sociais), variações diafásicas (formal x informal). São as variações relacionadas ao espaço geográfico em que estão inseridas.",
+      principal: "05. Em se tratando de variações linguísticas, marque (V) verdadeiro ou (F) falso e assinale a alternativa correta.\n() Variações linguísticas no Nordeste: O sotaque nordestino é a variante mais utilizada nos Estados do Nordeste Brasileiro, entretanto, quando o assunto são expressões e gírias, cada região tem a sua própria. Canhenga, usado para caracterizar uma pessoa que não gosta de gastar dinheiro; Ligeiro, significa rápido; Encabulado, quer dizer algo vergonhoso; Rangar, significa comer; Oxê, ou Oxente, são expressões de surpresa, espanto; $Mainha/Painho$, são mãe e pai.\n() Variações linguísticas no Sudeste: As variações linguísticas da região sudeste predominam o jeito caipira no sotaque do interior de São Paulo, mas o Sudeste não se resume apenas a isso, mas também com as mais diversas gírias em outros estados, como o Rio de Janeiro. Bolado, quer dizer estar preocupado com algo; Da hora, significa legal; É fria, quer dizer perigoso; Larica, expressão usada para dizer que está com fome; Quebrado, significa estar sem dinheiro.\n() Variações linguísticas no Sul: As variações linguísticas na região Sul são caracterizadas pela harmonia e redução na voz. Em alguns locais, por exemplo, é comum que os falantes pronunciam a letra “e” em palavras cujo a sílaba final possui a vogal, enquanto em outras regiões do país pronuncia-se como “i”. Conheça algumas expressões da região Sul. Alçar a perna, quer dizer monta a cavalo; Cacetinho, o pão francês que mencionamos no início desse artigo; Embretar-se, entrar, ou se meter em apuros; Guri, significa menino; Lindeiro, quer dizer vizinho; Solito, uma pessoa sozinha, isolada.\n() Variações linguísticas no Centro-Oeste: As variações linguísticas e o sotaque da Região Centro-Oeste são bastante marcados pelo contato do português colonizado com as línguas indígenas da região. Por exemplo, no Estado do Mato Grosso, os falantes não falam chuva com o som de chu, mas sim tchuva, mesma coisa com a palavra peixe, a pronúncia é petche. Vale ressaltar que esse dialeto é típico dessa região, não só ele, como os jargões a seguir. Arruinou, quer dizer que está ruim de saúde; Carreta, significa carro; Dormir no macio, quer dizer viver folgado; Empatar, quer dizer atrapalhar.\n() Existem quatro tipos de variantes linguísticas: as variações diatópicas (geográficas), variações diacrônicas (históricas), variações diastráticas (grupos sociais), variações diafásicas (formal x informal). São as variações relacionadas ao espaço geográfico em que estão inseridas.",
       subItens: []
     },
     options: [
@@ -243,7 +243,7 @@ createQuestion({
     university: "uemg",
     year: 2023,
     text: {
-      principal: "FÍSICA.\n13. Ao observarmos o céu noturno podemos ver uma diversidade de estrelas, com cores, brilhos e tamanhos variados. Apesar do Sol ser a estrela mais próxima da Terra, e por isso aparentar um tamanho considerável que se sobrepõem às outras, em uma análise feita a olho nu, encontramos dentro e fora da nossa galáxia, estrelas com dimensões várias vezes maior que a dele. Considerando uma estrela A, 5 milhões de vezes maior que o Sol e uma estrela B, 300 vezes maior que A, é correto afirmar que a estrela B será quantas vezes maior que o Sol?",
+      principal: "FÍSICA.\n13. Ao observarmos o céu noturno podemos ver uma diversidade de estrelas, com cores, brilhos e tamanhos variados. Apesar do Sol ser a estrela mais próxima da Terra, e por isso aparentar um tamanho considerável que se sobrepõem às outras, em uma análise feita a olho $\\nu$, encontramos dentro e fora da nossa galáxia, estrelas com dimensões várias vezes maior que a dele. Considerando uma estrela A, 5 milhões de vezes maior que o Sol e uma estrela B, 300 vezes maior que A, é correto afirmar que a estrela B será quantas vezes maior que o Sol?",
       subItens: []
     },
     options: [
@@ -263,7 +263,7 @@ createQuestion({
     university: "uemg",
     year: 2023,
     text: {
-      principal: "14. Um professor de física realizou um campeonato de lançamento de foguetes com seus alunos. Para a etapa final foram classificadas as 3 equipes de melhor rendimento na competição, no último lançamento os foguetes foram abastecidos com a mesma quantidade de ar e água, e lançados com uma velocidade de 20 m/s. As equipes tiveram a liberdade de escolher o ângulo de lançamento, de forma que, as equipes azul e vermelha escolheram o ângulo de 45º e a equipe verde de 30º. Com relação aos resultados obtidos pelas equipes pode-se afirmar que:\n(Dados: g= 10 m/s 2; sen 30º= 0,5; sen 45°= 0,7; sen 60°= 0,86; sen 90º = 1).",
+      principal: "14. Um professor de física realizou um campeonato de lançamento de foguetes com seus alunos. Para a etapa final foram classificadas as 3 equipes de melhor rendimento na competição, no último lançamento os foguetes foram abastecidos com a mesma quantidade de ar e água, e lançados com uma velocidade de 20 $m/s$. As equipes tiveram a liberdade de escolher o ângulo de lançamento, de forma que, as equipes azul e vermelha escolheram o ângulo de 45º e a equipe verde de 30º. Com relação aos resultados obtidos pelas equipes pode-se afirmar que:\n(Dados: g= 10 $m/s$ 2; $\\sin$ 30º= 0,5; $\\sin$ 45°= 0,7; $\\sin$ 60°= 0,86; $\\sin$ 90º = 1).",
       subItens: []
     },
     options: [
@@ -469,8 +469,8 @@ createQuestion({
     options: [
       "O níquel é o ânodo, pois é de onde saem os elétrons.",
       "O ferro é o ânodo, pois é de onde saem os elétrons.",
-      "A força eletromotriz da pilha níquel/ferro é ∆Ε°=- 1,01 V",
-      "A força eletromotriz da pilha níquel/ferro é ∆Ε°= 0,53 V"
+      "A força eletromotriz da pilha ní$quel/ferro$ é ∆Ε°=- 1,01 V",
+      "A força eletromotriz da pilha ní$quel/ferro$ é ∆Ε°= 0,53 V"
     ],
     correctAnswer: 0,
     materia: ["Química"],
@@ -543,14 +543,14 @@ createQuestion({
     university: "uemg",
     year: 2023,
     text: {
-      principal: "28. Um casal pensando em ter filhos buscou um laboratório de análises genéticas para que pudessem saber as probabilidades da criança nascer do sexo feminino com genes Cc, gene responsável por uma característica pessoal do casal, para facilitar tais análises. O laboratório concluiu que o homem/pai possui genótipo CcDdEE e a mulher CCddEe. A alternativa que melhor representa o percentual da possível criança com a escolha do casal é:",
+      principal: "28. Um casal pensando em ter filhos buscou um laboratório de análises genéticas para que pudessem saber as probabilidades da criança nascer do sexo feminino com genes Cc, gene responsável por uma característica pessoal do casal, para facilitar tais análises. O laboratório concluiu que o $homem/pai$ possui genótipo CcDdEE e a mulher CCddEe. A alternativa que melhor representa o percentual da possível criança com a escolha do casal é:",
       subItens: []
     },
     options: [
-      "1/8.",
-      "1/4.",
-      "1/3.",
-      "1/2."
+      "$1/8$.",
+      "$1/4$.",
+      "$1/3$.",
+      "$1/2$."
     ],
     correctAnswer: 1,
     materia: ["Biologia", "Matemática"],
@@ -803,7 +803,7 @@ createQuestion({
     university: "uemg",
     year: 2023,
     text: {
-      principal: "41. “Três razões fazem ver que este governo é o melhor. A primeira é que é o mais natural e se perpetua por si próprio. A segunda razão é que este governo é o que interessa mais na conservação do Estado e dos poderes que o constituem: o príncipe, que trabalha para o seu Estado, trabalha para os seus filhos, e o amor que tem pelo seu reino, confunde com o que tem pela sua família, torna-se-lhe natural. A terceira razão tira-se da dignidade das casas reais. A inveja, que se tem, naturalmente, daqueles que estão acima de nós, torna-se aqui em amor e respeito: os próprios grandes obedecem sem repugnância a uma família que sempre viram como superior e à qual se não conhece outra que a possa igualar. O trono real não é o trono de um homem, mas o trono do próprio Deus.” (BOSSUET, J. Política tirada da Sagrada Escritura. In.: FREITAS, G. 900 textos e documentos de História. Lisboa: Plátano, s/d. p. 201).\nO texto refere-se:",
+      principal: "41. “Três razões fazem ver que este governo é o melhor. A primeira é que é o mais natural e se perpetua por si próprio. A segunda razão é que este governo é o que interessa mais na conservação do Estado e dos poderes que o constituem: o príncipe, que trabalha para o seu Estado, trabalha para os seus filhos, e o amor que tem pelo seu reino, confunde com o que tem pela sua família, torna-se-lhe natural. A terceira razão tira-se da dignidade das casas reais. A inveja, que se tem, naturalmente, daqueles que estão acima de nós, torna-se aqui em amor e respeito: os próprios grandes obedecem sem repugnância a uma família que sempre viram como superior e à qual se não conhece outra que a possa igualar. O trono real não é o trono de um homem, mas o trono do próprio Deus.” (BOSSUET, J. Política tirada da Sagrada Escritura. In.: FREITAS, G. 900 textos e documentos de História. Lisboa: Plátano, $s/d$. p. 201).\nO texto refere-se:",
       subItens: []
     },
     options: [
@@ -943,7 +943,7 @@ createQuestion({
     university: "uemg",
     year: 2023,
     text: {
-      principal: "48. Seja A= [[Sen x, 1], [Cos x, 1]], com 0<x<2π e sabendo que det A = 0, temos que x=",
+      principal: "48. Seja A= [[$\\sin$ x, 1], [$\\cos$ x, 1]], com 0<x<2π e sabendo que det A = 0, temos que x=",
       subItens: []
     },
     options: [

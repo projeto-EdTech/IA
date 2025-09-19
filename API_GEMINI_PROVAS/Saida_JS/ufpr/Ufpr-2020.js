@@ -238,11 +238,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/5.",
-      "1/15.",
-      "1/75.",
-      "1/125.",
-      "1/225."
+      "$1/5$.",
+      "$1/15$.",
+      "$1/75$.",
+      "$1/125$.",
+      "$1/225$."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -339,7 +339,7 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "A maior variação de maré do Brasil ocorre na baía de São Marcos, no estado do Maranhão. A diferença entre o nível mais alto e o nível mais baixo atingidos pela maré pode chegar a 8 metros em algumas épocas do ano. Suponha que em determinado dia do ano o nível da maré da baía de São Marcos possa ser descrito pela expressão n(t) = 3 sen((t − 5)π/6) + 4, com t ∈ [0, 24] sendo t o tempo (medido em horas) e n(t) o nível da maré no instante t (dado em metros). Com base nessas informações, considere as seguintes afirmativas: 1. O nível mais alto é atingido duas vezes durante o dia. 2. Às 11 h é atingido o nível mais baixo da maré. 3. Às 5 h é atingido o nível mais alto da maré. 4. A diferença entre o nível mais alto e o nível mais baixo é de 3 metros. Assinale a alternativa correta.",
+      principal: "A maior variação de maré do Brasil ocorre na baía de São Marcos, no estado do Maranhão. A diferença entre o nível mais alto e o nível mais baixo atingidos pela maré pode chegar a 8 metros em algumas épocas do ano. Suponha que em determinado dia do ano o nível da maré da baía de São Marcos possa ser descrito pela expressão n(t) = 3 $\\sin$((t − 5)π/6) + 4, com t ∈ [0, 24] sendo t o tempo (medido em horas) e n(t) o nível da maré no instante t (dado em metros). Com base nessas informações, considere as seguintes afirmativas: 1. O nível mais alto é atingido duas vezes durante o dia. 2. Às 11 h é atingido o nível mais baixo da maré. 3. Às 5 h é atingido o nível mais alto da maré. 4. A diferença entre o nível mais alto e o nível mais baixo é de 3 metros. Assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -407,7 +407,7 @@ createQuestion({
     },
     options: [
       "Revela a supremacia da união entre guerreiros e trabalhadores sobre os membros do clero.",
-      "Representa a sociedade trifuncional tal qual foi concebida pelo bispo Adalberão de Laon, no século XI.",
+      "Representa a sociedade trifuncional tal qual foi concebida pelo bispo Adalberão de Laon, no século $\\xi$.",
       "Expressa uma concepção de sociedade no medievo.",
       "Representa uma configuração social baseada na cooperação e no serviço para a harmonia social no medievo.",
       "Não expressa a sociedade medieval em sua configuração social variada."
@@ -465,7 +465,7 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "Considere o texto abaixo: A emancipação fora conseguida num contexto de violência generalizada, que causara a morte de centenas de milhares de pessoas, em especial na Colômbia, na Venezuela, no México e no Haiti. Os países que sofreram menos baixas foram Brasil, Equador, Paraguai e os da América Central. Os sofrimentos da população foram agravados pelos deslocamentos, como o \"êxodo oriental\" no Uruguai em 1811 e a fuga em massa dos partidários da independência do Chile, que tiveram de emigrar de Concepción para Santiago em 1817. (DEL POZO, José. História da América Latina e do Caribe: dos processos de independência aos dias atuais. Trad. Ricardo Rosenbusch. Petrópolis/RJ: Editora Vozes, 2009, p. 41.) Considerando as informações do trecho acima, os conhecimentos sobre o contexto histórico e os aspectos sociais e políticos da independência dos países latino-americanos e do Caribe, é correto afirmar:",
+      principal: "Considere o texto abaixo: A emancipação fora conseguida num contexto de violência generalizada, que causara a morte de centenas de milhares de pessoas, em especial na Colômbia, na Venezuela, no México e no Haiti. Os países que sofreram menos baixas foram Brasil, Equador, Paraguai e os da América Central. Os sofrimentos da população foram agravados pelos deslocamentos, como o \"êxodo oriental\" no Uruguai em 1811 e a fuga em massa dos partidários da independência do Chile, que tiveram de emigrar de Concepción para Santiago em 1817. (DEL POZO, José. História da América Latina e do Caribe: dos processos de independência aos dias atuais. Trad. Ricardo Rosenbusch. Petró$polis/RJ$: Editora Vozes, 2009, p. 41.) Considerando as informações do trecho acima, os conhecimentos sobre o contexto histórico e os aspectos sociais e políticos da independência dos países latino-americanos e do Caribe, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -576,9 +576,9 @@ createQuestion({
     options: [
       "Q = m√2gH.",
       "Q = √2mgH.",
-      "Q = m√2gH tg θ.",
-      "Q = m√2gH sen θ.",
-      "Q = √2mgH cos θ."
+      "Q = m√2gH $\\tan$ θ.",
+      "Q = m√2gH $\\sin$ θ.",
+      "Q = √2mgH $\\cos$ θ."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -612,7 +612,7 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "Um observador inercial analisa o movimento de um dado objeto de massa m constante e constrói o gráfico v x t mostrado ao lado, em que v é a velocidade do objeto e t é o tempo. O movimento ocorre numa linha reta. Levando em consideração os dados apresentados no gráfico, assinale a alternativa que apresenta corretamente o valor do deslocamento Δx do objeto entre os instantes t = 0 e t = 5 s. (Gráfico: Velocidade (m/s) vs. Tempo (s), mostrando uma linha reta de 0 a 5s, depois constante)",
+      principal: "Um observador inercial analisa o movimento de um dado objeto de massa m constante e constrói o gráfico v x t mostrado ao lado, em que v é a velocidade do objeto e t é o tempo. O movimento ocorre numa linha reta. Levando em consideração os dados apresentados no gráfico, assinale a alternativa que apresenta corretamente o valor do deslocamento Δx do objeto entre os instantes t = 0 e t = 5 s. (Gráfico: Velocidade ($m/s$) vs. Tempo (s), mostrando uma linha reta de 0 a 5s, depois constante)",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "Uma onda sonora se propaga num meio em que sua velocidade, em módulo, vale 500 m/s. Sabe-se que o período dessa onda é de 20 μs. Considerando os dados apresentados, a onda nesse meio apresenta o seguinte comprimento de onda (λ):",
+      principal: "Uma onda sonora se propaga num meio em que sua velocidade, em módulo, vale 500 $m/s$. Sabe-se que o período dessa onda é de 20 μs. Considerando os dados apresentados, a onda nesse meio apresenta o seguinte comprimento de onda (λ):",
       subItens: []
     },
     options: [
@@ -700,11 +700,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "c = 2 J/g°C.",
-      "c = 4 J/g°C.",
-      "c = 8 J/g°C.",
-      "c = 16 J/g°C.",
-      "c = 20 J/g°C."
+      "c = 2 $J/g$°C.",
+      "c = 4 $J/g$°C.",
+      "c = 8 $J/g$°C.",
+      "c = 16 $J/g$°C.",
+      "c = 20 $J/g$°C."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -717,14 +717,14 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "Um objeto de massa m = 10 kg está suspenso por dois cabos que exercem trações T₁ e T₂ de mesma intensidade T, de modo que |T₁| = |T₂| = T. As trações exercidas pelos cabos estão dispostas conforme mostra a figura ao lado, fazendo um ângulo de 30° com a direção horizontal. O objeto está em equilíbrio estático e sujeito à atração gravitacional da Terra. Nesse local, a aceleração gravitacional é g = 10 m/s². As medições no local são executadas por um observador inercial. Sabe-se que sen 30° = cos 60° = 1/2, e que sen 60° = cos 30° = √3/2. Levando em consideração os dados apresentados, assinale a alternativa que apresenta corretamente o valor do módulo da tração exercida por cada cabo. (Imagem: Objeto de 10 kg suspenso por dois cabos a 30° da horizontal)",
+      principal: "Um objeto de massa m = 10 kg está suspenso por dois cabos que exercem trações T₁ e T₂ de mesma intensidade T, de modo que |T₁| = |T₂| = T. As trações exercidas pelos cabos estão dispostas conforme mostra a figura ao lado, fazendo um ângulo de 30° com a direção horizontal. O objeto está em equilíbrio estático e sujeito à atração gravitacional da Terra. Nesse local, a aceleração gravitacional é g = 10 $m/s$². As medições no local são executadas por um observador inercial. Sabe-se que $\\sin$ 30° = $\\cos$ 60° = $1/2$, e que $\\sin$ 60° = $\\cos$ 30° = √$3/2$. Levando em consideração os dados apresentados, assinale a alternativa que apresenta corretamente o valor do módulo da tração exercida por cada cabo. (Imagem: Objeto de 10 kg suspenso por dois cabos a 30° da horizontal)",
       subItens: []
     },
     options: [
-      "T = 50√3/3 N.",
-      "T = 100√3/3 N.",
+      "T = 50√$3/3$ N.",
+      "T = 100√$3/3$ N.",
       "T = 100 N.",
-      "T = 200√3/3 N.",
+      "T = 200√$3/3$ N.",
       "T = 200 N."
     ],
     correctAnswer: 2,
@@ -843,7 +843,7 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "O texto a seguir é referência para as questões 41 a 43. O jogo do salário mínimo [...] Em menos de trinta minutos, dois times centenários do futebol carioca, Bonsucesso e Olaria, vão se enfrentar num jogo-treino, na preparação para a disputa da segunda divisão do campeonato do Rio. Na arena vazia, os jogadores vivem a desigualdade salarial do futebol brasileiro. Na esperança de chegar a um clube grande, os 22 atletas em campo correm no estádio em troca de um salário mínimo (998 reais) na carteira assinada - isso quando não há atraso no pagamento. Juntos, ganham cerca de 22 mil reais menos de 2% do salário mensal de uma estrela como o atacante Gabriel Barbosa, o Gabigol, do Flamengo. Longe do glamour dos estádios padrão Fifa, os 22 em campo no chamado Clássico da Leopoldina, em referência à antiga linha de trem, são um retrato do precário mercado de trabalho da bola no Brasil. Levantamento do antigo Ministério do Trabalho revela que a maioria (54%) dos jogadores de futebol do país empregados em 2017 recebia até três salários mínimos (2.811 reais). Os dados constam da RAIS (Relação Anual de Informações Sociais) de 2017. [...] A estatística do antigo Ministério do Trabalho é o único levantamento que tenta mapear os salários no futebol brasileiro. A CBF fazia uma pesquisa parecida, mas deixou de publicar por causa das distorções criadas pelos contratos de direito de imagem. Segundo a última edição do trabalho da entidade que comanda o futebol nacional, mais de 80% dos jogadores de futebol ganhavam até 1 mil reais por mês em 2016. Sem citar nomes, a CBF informou que apenas um jogador recebia mais de 500 mil reais, mas o número estava longe da realidade, e o mesmo se pode dizer dos dados da RAIS. O salário em carteira é só uma parte do que os atletas recebem, pois o principal vem dos direitos de imagem e patrocínios. Mas essa é uma realidade dos clubes grandes. Em clubes como Bonsucesso e Olaria, não há direitos de imagem, já que não há imagem a ser vendida. Os patrocinadores estão mais para pequenos comerciantes locais do que para grandes financiadores do futebol. (Sérgio Rangel. Disponível em: https://piaui.folha.uol.com.br/o-jogo-do-salario-minimo/. 31/05/2019.) Com base no texto de Rangel, considere as seguintes afirmativas: 1. Em \"Os patrocinadores estão mais para pequenos comerciantes locais do que para grandes financiadores do futebol\", temos uma relação de contraposição. 2. Os baixos salários, somados aos atrasos nos pagamentos, são aspectos da precariedade do mercado da bola no Brasil. 3. Os dados salariais dos jogadores brasileiros, apontados pela RAIS, apresentam distorções porque a maioria dos jogadores recebem até três salários mínimos por mês, enquanto outros recebem até quinhentos mil reais por mês. 4. A ausência de comercialização de imagens de jogadores de clubes como Bonsucesso e Olaria decorre do fato de esses jogadores não terem direitos de imagem como o jogador Gabigol, por exemplo. Assinale a alternativa correta.",
+      principal: "O texto a seguir é referência para as questões 41 a 43. O jogo do salário mínimo [...] Em menos de trinta minutos, dois times centenários do futebol carioca, Bonsucesso e Olaria, vão se enfrentar num jogo-treino, na preparação para a disputa da segunda divisão do campeonato do Rio. Na arena vazia, os jogadores vivem a desigualdade salarial do futebol brasileiro. Na esperança de chegar a um clube grande, os 22 atletas em campo correm no estádio em troca de um salário mínimo (998 reais) na carteira assinada - isso quando não há atraso no pagamento. Juntos, ganham cerca de 22 mil reais menos de 2% do salário mensal de uma estrela como o atacante Gabriel Barbosa, o Gabigol, do Flamengo. Longe do glamour dos estádios padrão Fifa, os 22 em campo no chamado Clássico da Leopoldina, em referência à antiga linha de trem, são um retrato do precário mercado de trabalho da bola no Brasil. Levantamento do antigo Ministério do Trabalho revela que a maioria (54%) dos jogadores de futebol do país empregados em 2017 recebia até três salários mínimos (2.811 reais). Os dados constam da RAIS (Relação Anual de Informações Sociais) de 2017. [...] A estatística do antigo Ministério do Trabalho é o único levantamento que tenta mapear os salários no futebol brasileiro. A CBF fazia uma pesquisa parecida, mas deixou de publicar por causa das distorções criadas pelos contratos de direito de imagem. Segundo a última edição do trabalho da entidade que comanda o futebol nacional, mais de 80% dos jogadores de futebol ganhavam até 1 mil reais por mês em 2016. Sem citar nomes, a CBF informou que apenas um jogador recebia mais de 500 mil reais, mas o número estava longe da realidade, e o mesmo se pode dizer dos dados da RAIS. O salário em carteira é só uma parte do que os atletas recebem, pois o principal vem dos direitos de imagem e patrocínios. Mas essa é uma realidade dos clubes grandes. Em clubes como Bonsucesso e Olaria, não há direitos de imagem, já que não há imagem a ser vendida. Os patrocinadores estão mais para pequenos comerciantes locais do que para grandes financiadores do futebol. (Sérgio Rangel. Disponível em: https://piaui.folha.uol.com.$br/o$-jogo-do-salario-minimo/. 31/05/2019.) Com base no texto de Rangel, considere as seguintes afirmativas: 1. Em \"Os patrocinadores estão mais para pequenos comerciantes locais do que para grandes financiadores do futebol\", temos uma relação de contraposição. 2. Os baixos salários, somados aos atrasos nos pagamentos, são aspectos da precariedade do mercado da bola no Brasil. 3. Os dados salariais dos jogadores brasileiros, apontados pela RAIS, apresentam distorções porque a maioria dos jogadores recebem até três salários mínimos por mês, enquanto outros recebem até quinhentos mil reais por mês. 4. A ausência de comercialização de imagens de jogadores de clubes como Bonsucesso e Olaria decorre do fato de esses jogadores não terem direitos de imagem como o jogador Gabigol, por exemplo. Assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -969,7 +969,7 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "O texto a seguir é referência para as questões 47 e 48. Por que as Lhamas podem guardar o segredo para combater a gripe Cientistas americanos recrutaram uma curiosa aliada para desenvolver tratamentos contra a gripe: a lhama. O sangue desse animal sul-americano foi utilizado para produzir uma nova terapia com anticorpos que têm o potencial de combater todos os tipos de gripe. A gripe é uma das doenças mais hábeis na hora de mudar de forma. Constantemente, modifica sua aparência para despistar nosso sistema imunológico. Isso explica porque as vacinas nem sempre são efetivas e, a cada inverno, é necessário receber uma nova injeção para prevenir a doença. Por isso, a ciência está à procura de uma forma de acabar com todos os tipos de gripe, não importando de qual cepa provenha ou o quanto possa sofrer mutações. É aí que entra a lhama. Esses animais, nativos dos Andes, têm anticorpos incrivelmente pequenos em comparação com os dos humanos. Os anticorpos são as armas do sistema imunológico, e aderem às proteínas que sobressaem na superfície dos vírus. Os anticorpos humanos tendem a atacar as pontas dessas proteínas, ___ essa é a parte em que o vírus da gripe muda com mais rapidez. ___ os anticorpos da Ihama, com seu tamanho diminuto, conseguem atacar as partes do vírus da gripe que não sofrem mutação. Uma equipe do Instituto Scripps, nos Estados Unidos, infectou lhamas com múltiplos tipos de gripe, para estimular uma resposta do seu sistema imunológico. Em seguida, analisou o sangue dos animais, procurando pelos anticorpos mais potentes, que poderiam atacar uma ampla variedade de vírus. Os cientistas, ___ identificaram quatro anticorpos das Ihamas. Depois, começaram a desenvolver um anticorpo sintético, que une elementos desses quatro tipos. O trabalho, que foi publicado na revista científica Science, ainda está em estágios muito iniciais. A equipe de cientistas pretende realizar mais experimentos antes de fazer testes com humanos. \"Ter um tratamento que possa funcionar contra uma variedade de cepas diferentes do vírus da gripe é algo muito desejado. É o Santo Graal da gripe”, afirma o professor Jonathan Ball, da Universidade de Nottingham. (James Gallagher, Correspondente de Saúde e Ciência, BBC News. Disponível em: https://www.bbc.com/portuguese/geral-46101443?ocid=socialflow_facebook&fbclid=IwAR1Bj0yRbAN1yzVPG9X8H0KC2B5159XTXbPwX7w0kk9O4kfMlop3H-wjmIY. Acesso em 07/07/2019. Adaptado.) Assinale a alternativa que preenche corretamente as lacunas acima, na ordem em que aparecem no texto.",
+      principal: "O texto a seguir é referência para as questões 47 e 48. Por que as Lhamas podem guardar o segredo para combater a gripe Cientistas americanos recrutaram uma curiosa aliada para desenvolver tratamentos contra a gripe: a lhama. O sangue desse animal sul-americano foi utilizado para produzir uma nova terapia com anticorpos que têm o potencial de combater todos os tipos de gripe. A gripe é uma das doenças mais hábeis na hora de mudar de forma. Constantemente, modifica sua aparência para despistar nosso sistema imunológico. Isso explica porque as vacinas nem sempre são efetivas e, a cada inverno, é necessário receber uma nova injeção para prevenir a doença. Por isso, a ciência está à procura de uma forma de acabar com todos os tipos de gripe, não importando de qual cepa provenha ou o quanto possa sofrer mutações. É aí que entra a lhama. Esses animais, nativos dos Andes, têm anticorpos incrivelmente pequenos em comparação com os dos humanos. Os anticorpos são as armas do sistema imunológico, e aderem às proteínas que sobressaem na superfície dos vírus. Os anticorpos humanos tendem a atacar as pontas dessas proteínas, ___ essa é a parte em que o vírus da gripe muda com mais rapidez. ___ os anticorpos da Ihama, com seu tamanho diminuto, conseguem atacar as partes do vírus da gripe que não sofrem mutação. Uma equipe do Instituto Scripps, nos Estados Unidos, infectou lhamas com múltiplos tipos de gripe, para estimular uma resposta do seu sistema imunológico. Em seguida, analisou o sangue dos animais, procurando pelos anticorpos mais potentes, que poderiam atacar uma ampla variedade de vírus. Os cientistas, ___ identificaram quatro anticorpos das Ihamas. Depois, começaram a desenvolver um anticorpo sintético, que une elementos desses quatro tipos. O trabalho, que foi publicado na revista científica Science, ainda está em estágios muito iniciais. A equipe de cientistas pretende realizar mais experimentos antes de fazer testes com humanos. \"Ter um tratamento que possa funcionar contra uma variedade de cepas diferentes do vírus da gripe é algo muito desejado. É o Santo Graal da gripe”, afirma o professor Jonathan Ball, da Universidade de Nottingham. (James Gallagher, Correspondente de Saúde e Ciência, BBC News. Disponível em: https://www.bbc.com/portuguese/geral-46101443?ocid=$socialflow_facebook$&fbclid=IwAR1Bj0yRbAN1yzVPG9X8H0KC2B5159XTXbPwX7w0kk9O4kfMlop3H-wjmIY. Acesso em 07/07/2019. Adaptado.) Assinale a alternativa que preenche corretamente as lacunas acima, na ordem em que aparecem no texto.",
       subItens: []
     },
     options: [
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "A estrutura química mostrada abaixo é a de um neurotransmissor que age como inibidor no sistema nervoso central. Quando esse neurotransmissor se liga ao seu receptor cerebral, experimenta-se um efeito calmante, que ajuda em casos de ansiedade, estresse ou medo. Trata-se de um γ-aminoácido comumente conhecido como GABA, do inglês Gamma AminoButyric Acid. O nome desse composto, segundo a nomenclatura da IUPAC, é: (Imagem: Estrutura química do GABA - H₂N-(CH₂)₂-COOH)",
+      principal: "A estrutura química mostrada abaixo é a de um neurotransmissor que age como inibidor no sistema nervoso central. Quando esse neurotransmissor se liga ao seu receptor cerebral, experimenta-se um efeito calmante, que ajuda em casos de ansiedade, estresse ou medo. Trata-se de um γ-aminoácido comumente conhecido como GABA, do inglês $\\gamma$ AminoButyric Acid. O nome desse composto, segundo a nomenclatura da IUPAC, é: (Imagem: Estrutura química do GABA - H₂N-(CH₂)₂-COOH)",
       subItens: []
     },
     options: [
@@ -1267,11 +1267,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4 e 1/2",
-      "1/8 e 1/4",
-      "1/16 e 1/8",
-      "1/32 e 1/16",
-      "1/64 e 1/32"
+      "$1/4$ e $1/2$",
+      "$1/8$ e $1/4$",
+      "$1/16$ e $1/8$",
+      "$1/32$ e $1/16$",
+      "$1/64$ e $1/32$"
     ],
     correctAnswer: 4,
     materia: ["Física", "Matemática"],
@@ -1536,7 +1536,7 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "A compra da remota Ilha da Groenlândia proposta pelo presidente dos EUA, Donald Trump, pode soar estranha. Afinal, trata-se do território menos povoado da Terra, com mais de 2 milhões de quilômetros quadrados - mais ou menos um quarto da área do Brasil e apenas 57 mil habitantes. (Disponível em: noticias.uol.com.br/ultimas-noticias/bbc/2019/08/22/por-que-remota-groenlandia-interessa-tanto-aos-eua-e-a-china.htm.) Ponderando a dimensão e o alcance geopolítico do tema, considere as seguintes afirmativas:",
+      principal: "A compra da remota Ilha da Groenlândia proposta pelo presidente dos EUA, Donald Trump, pode soar estranha. Afinal, trata-se do território menos povoado da Terra, com mais de 2 milhões de quilômetros quadrados - mais ou menos um quarto da área do Brasil e apenas 57 mil habitantes. (Disponível em: noticias.uol.com.$br/ultimas$-noticias/bbc/2019/08/22/por-que-remota-groenlandia-interessa-tanto-aos-eua-e-a-china.htm.) Ponderando a dimensão e o alcance geopolítico do tema, considere as seguintes afirmativas:",
       subItens: []
     },
     options: [
@@ -1641,7 +1641,7 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "O filósofo Gérard Lebrun, em seu livro intitulado O que é o poder, discorre sobre diferentes abordagens do conceito de poder. Na apresentação da obra, tece considerações sobre o binômio poder/dominação, tendo como referência a obra de Michel Foucault. Escreve Lebrun: Quando a questão é compreender como foi e continua sendo possível a resignação, quase ilimitada, dos homens perante os excessos do poder, não basta invocar as disciplinas e as mil fórmulas de adestramento que, como mostra Foucault, são achados relativamente recentes da modernidade. Sua origem e seu sucesso talvez se devam a um sentimento atávico dos deserdados, de serem por natureza excluídos do poder, estranhos a este - talvez derivem da convicção de que opor-se a ele seria loucura comparável a opor-se aos fenômenos atmosféricos. Ainda que o poder não seja uma coisa, ele se torna uma, pois é assim que a maioria dos homens o representa. É preciso situar a tese de Foucault dentro de seus devidos limites: o homem condicionado, adestrado pelos poderes, é o privilegiado, o europeu. Não é o colonizado, não é o proletário do Terceiro Mundo (assim como não era o proletário europeu do século XIX). Estes, o poder não pensa sequer em domesticar: domina-os e muito de cima. (LEBRUN, Gérard. O que é poder. São Paulo: Brasiliense, 2004, p. 08.) Com base na reflexão desenvolvida por Lebrun, é correto afirmar que:",
+      principal: "O filósofo Gérard Lebrun, em seu livro intitulado O que é o poder, discorre sobre diferentes abordagens do conceito de poder. Na apresentação da obra, tece considerações sobre o binômio $poder/domina$ção, tendo como referência a obra de Michel Foucault. Escreve Lebrun: Quando a questão é compreender como foi e continua sendo possível a resignação, quase ilimitada, dos homens perante os excessos do poder, não basta invocar as disciplinas e as mil fórmulas de adestramento que, como mostra Foucault, são achados relativamente recentes da modernidade. Sua origem e seu sucesso talvez se devam a um sentimento atávico dos deserdados, de serem por natureza excluídos do poder, estranhos a este - talvez derivem da convicção de que opor-se a ele seria loucura comparável a opor-se aos fenômenos atmosféricos. Ainda que o poder não seja uma coisa, ele se torna uma, pois é assim que a maioria dos homens o representa. É preciso situar a tese de Foucault dentro de seus devidos limites: o homem condicionado, adestrado pelos poderes, é o privilegiado, o europeu. Não é o colonizado, não é o proletário do Terceiro Mundo (assim como não era o proletário europeu do século XIX). Estes, o poder não pensa sequer em domesticar: domina-os e muito de cima. (LEBRUN, Gérard. O que é poder. São Paulo: Brasiliense, 2004, p. 08.) Com base na reflexão desenvolvida por Lebrun, é correto afirmar que:",
       subItens: []
     },
     options: [
@@ -1746,7 +1746,7 @@ createQuestion({
     university: "ufpr",
     year: 2020,
     text: {
-      principal: "Based on the text, consider the following items: 1. The name of the person who established a small bookstore in Germany. 2. The procedures a person has to undergo in order to open a bookstore in Germany. 3. Some of the activities Krumulus can make available for children. 4. The neighborhood where the entrepreneur decided to open her bookstore. The item(s) that can be found in the text is/are:",
+      principal: "Based on the text, consider the following items: 1. The name of the person who established a small bookstore in Germany. 2. The procedures a person has to undergo in order to open a bookstore in Germany. 3. Some of the activities Krumulus can make available for children. 4. The neighborhood where the entrepreneur decided to open her bookstore. The item(s) that can be found in the text $is/are$:",
       subItens: []
     },
     options: [

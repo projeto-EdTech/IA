@@ -297,7 +297,7 @@ createQuestion({
     university: "uerr",
     year: 2016,
     text: {
-      principal: "INGLÊS\nText 1\nTyphoon, Hurricane, Cyclone: What's the Difference?\nBy Ker Than, for National Geographic\nPublished September 25, 2013.\n\nA powerful typhoon that struck Hong Kong on Sunday killed at least 30 people and forced the evacuation of thousands of people on the China mainland, and hundreds of flights were canceled. Typhoon Usagi-Japanese for rabbit is the third and strongest Pacific typhoon to form this year. It was classified as a severe, or \"super,\" typhoon after meteorologists recorded gusts of up to 160 miles per hour (260 kilometers per hour).\n\nIf you've never lived in Asia, you might be wondering what it feels like to experience a typhoon. But if you've ever survived a hurricane or cyclone, you already know the answer. That's because hurricanes, cyclones, and typhoons are all the same weather phenomenon. Scientists just call these storms different things depending on where they occur.\n\nIn the Atlantic and northern Pacific, the storms are called \"hurricanes,\" after the Caribbean god of evil, named Hurrican. In the northwestern Pacific, the same powerful storms are called \"typhoons.\" In the southeastern Indian Ocean and southwestern Pacific, they are called \"severe tropical cyclones. In the northern Indian Ocean, they're called \"severe cyclonic storms.\" In the southwestern Indian Ocean, they're just \"tropical cyclones.\"\n\nTo be classified as a hurricane, typhoon, or cyclone, a storm must reach wind speeds of at least 74 miles per hour (119 kilometers per hour). If a hurricane's winds reach speeds of 111 miles per hour (179 kilometers per hour), it is upgraded to an \"intense hurricane.\" If a typhoon hits 150 miles per hour (241 kilometers per hour)—as Usagi did—then it becomes a \"supertyphoon.\"\n\n(Excerpt from the site:\nhttp://news.nationalgeographic.com/news/2013/09/130923-typhoon-hurricane-cycloneprimernaturaldisaster/?source=hp_dl2 news typhoon e xplainer 20130924. Researched on: October 2015).\n\nMark the FALSE idea from the text.",
+      principal: "INGLÊS\nText 1\nTyphoon, Hurricane, Cyclone: What's the Difference?\nBy Ker Than, for National Geographic\nPublished September 25, 2013.\n\nA powerful typhoon that struck Hong Kong on Sunday killed at least 30 people and forced the evacuation of thousands of people on the China mainland, and hundreds of flights were canceled. Typhoon Usagi-Japanese for rabbit is the third and strongest Pacific typhoon to form this year. It was classified as a severe, or \"super,\" typhoon after meteorologists recorded gusts of up to 160 miles per hour (260 kilometers per hour).\n\nIf you've never lived in Asia, you might be wondering what it feels like to experience a typhoon. But if you've ever survived a hurricane or cyclone, you already know the answer. That's because hurricanes, cyclones, and typhoons are all the same weather phenomenon. Scientists just call these storms different things depending on where they occur.\n\nIn the Atlantic and northern Pacific, the storms are called \"hurricanes,\" after the Caribbean god of evil, named Hurrican. In the northwestern Pacific, the same powerful storms are called \"typhoons.\" In the southeastern Indian Ocean and southwestern Pacific, they are called \"severe tropical cyclones. In the northern Indian Ocean, they're called \"severe cyclonic storms.\" In the southwestern Indian Ocean, they're just \"tropical cyclones.\"\n\nTo be classified as a hurricane, typhoon, or cyclone, a storm must reach wind speeds of at least 74 miles per hour (119 kilometers per hour). If a hurricane's winds reach speeds of 111 miles per hour (179 kilometers per hour), it is upgraded to an \"intense hurricane.\" If a typhoon hits 150 miles per hour (241 kilometers per hour)—as Usagi did—then it becomes a \"supertyphoon.\"\n\n(Excerpt from the site:\nhttp://news.nationalgeographic.com/news/2013/09/130923-typhoon-hurricane-cycloneprimernaturaldisaster/?source=$hp_dl2$ news typhoon e xplainer 20130924. Researched on: October 2015).\n\nMark the FALSE idea from the text.",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "uerr",
     year: 2016,
     text: {
-      principal: "INGLÊS\nText 1\nTyphoon, Hurricane, Cyclone: What's the Difference?\nBy Ker Than, for National Geographic\nPublished September 25, 2013.\n\nA powerful typhoon that struck Hong Kong on Sunday killed at least 30 people and forced the evacuation of thousands of people on the China mainland, and hundreds of flights were canceled. Typhoon Usagi-Japanese for rabbit is the third and strongest Pacific typhoon to form this year. It was classified as a severe, or \"super,\" typhoon after meteorologists recorded gusts of up to 160 miles per hour (260 kilometers per hour).\n\nIf you've never lived in Asia, you might be wondering what it feels like to experience a typhoon. But if you've ever survived a hurricane or cyclone, you already know the answer. That's because hurricanes, cyclones, and typhoons are all the same weather phenomenon. Scientists just call these storms different things depending on where they occur.\n\nIn the Atlantic and northern Pacific, the storms are called \"hurricanes,\" after the Caribbean god of evil, named Hurrican. In the northwestern Pacific, the same powerful storms are called \"typhoons.\" In the southeastern Indian Ocean and southwestern Pacific, they are called \"severe tropical cyclones. In the northern Indian Ocean, they're called \"severe cyclonic storms.\" In the southwestern Indian Ocean, they're just \"tropical cyclones.\"\n\nTo be classified as a hurricane, typhoon, or cyclone, a storm must reach wind speeds of at least 74 miles per hour (119 kilometers per hour). If a hurricane's winds reach speeds of 111 miles per hour (179 kilometers per hour), it is upgraded to an \"intense hurricane.\" If a typhoon hits 150 miles per hour (241 kilometers per hour)—as Usagi did—then it becomes a \"supertyphoon.\"\n\n(Excerpt from the site:\nhttp://news.nationalgeographic.com/news/2013/09/130923-typhoon-hurricane-cycloneprimernaturaldisaster/?source=hp_dl2 news typhoon e xplainer 20130924. Researched on: October 2015).\n\nMark the CORRECT alternative about the text:",
+      principal: "INGLÊS\nText 1\nTyphoon, Hurricane, Cyclone: What's the Difference?\nBy Ker Than, for National Geographic\nPublished September 25, 2013.\n\nA powerful typhoon that struck Hong Kong on Sunday killed at least 30 people and forced the evacuation of thousands of people on the China mainland, and hundreds of flights were canceled. Typhoon Usagi-Japanese for rabbit is the third and strongest Pacific typhoon to form this year. It was classified as a severe, or \"super,\" typhoon after meteorologists recorded gusts of up to 160 miles per hour (260 kilometers per hour).\n\nIf you've never lived in Asia, you might be wondering what it feels like to experience a typhoon. But if you've ever survived a hurricane or cyclone, you already know the answer. That's because hurricanes, cyclones, and typhoons are all the same weather phenomenon. Scientists just call these storms different things depending on where they occur.\n\nIn the Atlantic and northern Pacific, the storms are called \"hurricanes,\" after the Caribbean god of evil, named Hurrican. In the northwestern Pacific, the same powerful storms are called \"typhoons.\" In the southeastern Indian Ocean and southwestern Pacific, they are called \"severe tropical cyclones. In the northern Indian Ocean, they're called \"severe cyclonic storms.\" In the southwestern Indian Ocean, they're just \"tropical cyclones.\"\n\nTo be classified as a hurricane, typhoon, or cyclone, a storm must reach wind speeds of at least 74 miles per hour (119 kilometers per hour). If a hurricane's winds reach speeds of 111 miles per hour (179 kilometers per hour), it is upgraded to an \"intense hurricane.\" If a typhoon hits 150 miles per hour (241 kilometers per hour)—as Usagi did—then it becomes a \"supertyphoon.\"\n\n(Excerpt from the site:\nhttp://news.nationalgeographic.com/news/2013/09/130923-typhoon-hurricane-cycloneprimernaturaldisaster/?source=$hp_dl2$ news typhoon e xplainer 20130924. Researched on: October 2015).\n\nMark the CORRECT alternative about the text:",
       subItens: []
     },
     options: [
@@ -339,7 +339,7 @@ createQuestion({
     university: "uerr",
     year: 2016,
     text: {
-      principal: "INGLÊS\nText 1\nTyphoon, Hurricane, Cyclone: What's the Difference?\nBy Ker Than, for National Geographic\nPublished September 25, 2013.\n\nA powerful typhoon that struck Hong Kong on Sunday killed at least 30 people and forced the evacuation of thousands of people on the China mainland, and hundreds of flights were canceled. Typhoon Usagi-Japanese for rabbit is the third and strongest Pacific typhoon to form this year. It was classified as a severe, or \"super,\" typhoon after meteorologists recorded gusts of up to 160 miles per hour (260 kilometers per hour).\n\nIf you've never lived in Asia, you might be wondering what it feels like to experience a typhoon. But if you've ever survived a hurricane or cyclone, you already know the answer. That's because hurricanes, cyclones, and typhoons are all the same weather phenomenon. Scientists just call these storms different things depending on where they occur.\n\nIn the Atlantic and northern Pacific, the storms are called \"hurricanes,\" after the Caribbean god of evil, named Hurrican. In the northwestern Pacific, the same powerful storms are called \"typhoons.\" In the southeastern Indian Ocean and southwestern Pacific, they are called \"severe tropical cyclones. In the northern Indian Ocean, they're called \"severe cyclonic storms.\" In the southwestern Indian Ocean, they're just \"tropical cyclones.\"\n\nTo be classified as a hurricane, typhoon, or cyclone, a storm must reach wind speeds of at least 74 miles per hour (119 kilometers per hour). If a hurricane's winds reach speeds of 111 miles per hour (179 kilometers per hour), it is upgraded to an \"intense hurricane.\" If a typhoon hits 150 miles per hour (241 kilometers per hour)—as Usagi did—then it becomes a \"supertyphoon.\"\n\n(Excerpt from the site:\nhttp://news.nationalgeographic.com/news/2013/09/130923-typhoon-hurricane-cycloneprimernaturaldisaster/?source=hp_dl2 news typhoon e xplainer 20130924. Researched on: October 2015).\n\nIn the excerpt “A powerful typhoon that struck Hong Kong on Sunday\" the CORRECT synonym for the underlined word is:",
+      principal: "INGLÊS\nText 1\nTyphoon, Hurricane, Cyclone: What's the Difference?\nBy Ker Than, for National Geographic\nPublished September 25, 2013.\n\nA powerful typhoon that struck Hong Kong on Sunday killed at least 30 people and forced the evacuation of thousands of people on the China mainland, and hundreds of flights were canceled. Typhoon Usagi-Japanese for rabbit is the third and strongest Pacific typhoon to form this year. It was classified as a severe, or \"super,\" typhoon after meteorologists recorded gusts of up to 160 miles per hour (260 kilometers per hour).\n\nIf you've never lived in Asia, you might be wondering what it feels like to experience a typhoon. But if you've ever survived a hurricane or cyclone, you already know the answer. That's because hurricanes, cyclones, and typhoons are all the same weather phenomenon. Scientists just call these storms different things depending on where they occur.\n\nIn the Atlantic and northern Pacific, the storms are called \"hurricanes,\" after the Caribbean god of evil, named Hurrican. In the northwestern Pacific, the same powerful storms are called \"typhoons.\" In the southeastern Indian Ocean and southwestern Pacific, they are called \"severe tropical cyclones. In the northern Indian Ocean, they're called \"severe cyclonic storms.\" In the southwestern Indian Ocean, they're just \"tropical cyclones.\"\n\nTo be classified as a hurricane, typhoon, or cyclone, a storm must reach wind speeds of at least 74 miles per hour (119 kilometers per hour). If a hurricane's winds reach speeds of 111 miles per hour (179 kilometers per hour), it is upgraded to an \"intense hurricane.\" If a typhoon hits 150 miles per hour (241 kilometers per hour)—as Usagi did—then it becomes a \"supertyphoon.\"\n\n(Excerpt from the site:\nhttp://news.nationalgeographic.com/news/2013/09/130923-typhoon-hurricane-cycloneprimernaturaldisaster/?source=$hp_dl2$ news typhoon e xplainer 20130924. Researched on: October 2015).\n\nIn the excerpt “A powerful typhoon that struck Hong Kong on Sunday\" the CORRECT synonym for the underlined word is:",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "uerr",
     year: 2016,
     text: {
-      principal: "A representação decimal de 7/8, exatamente, é:",
+      principal: "A representação decimal de $7/8$, exatamente, é:",
       subItens: []
     },
     options: [
@@ -847,10 +847,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2/3.",
-      "1/6.",
-      "1/7.",
-      "1/9.",
+      "$2/3$.",
+      "$1/6$.",
+      "$1/7$.",
+      "$1/9$.",
       "N.D.A."
     ],
     correctAnswer: 13,
@@ -913,7 +913,7 @@ createQuestion({
       "2√3 cm.",
       "4√3 cm.",
       "6√3 cm.",
-      "8/3 cm.",
+      "$8/3$ cm.",
       "N.D.A."
     ],
     correctAnswer: 1,
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "uerr",
     year: 2016,
     text: {
-      principal: "Um ônibus de excursão com 10 m de comprimento leva um grupo de turistas para visitar o lago do Caracaranã e atravessa a Ponte dos Macuxis que possui 1200m de comprimento. Sabendo-se que a velocidade do ônibus é constante e igual a 72km/h, o tempo gasto para que o ônibus atravesse completamente a ponte é de aproximadamente:",
+      principal: "Um ônibus de excursão com 10 m de comprimento leva um grupo de turistas para visitar o lago do Caracaranã e atravessa a Ponte dos Macuxis que possui 1200m de comprimento. Sabendo-se que a velocidade do ônibus é constante e igual a $72km/h$, o tempo gasto para que o ônibus atravesse completamente a ponte é de aproximadamente:",
       subItens: []
     },
     options: [
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "uerr",
     year: 2016,
     text: {
-      principal: "Seja o gráfico abaixo que mostra a variação do módulo da força resultante FR, aplicada a um corpo de massa 5,0kg com velocidade inicial de 5,0m/s. A força atua sempre na mesma direção e sentido da velocidade do corpo.\n\n[Image Description: Gráfico de Força (F em N) versus Tempo (t em s). A linha começa em (0,0), sobe linearmente até (5,20) e se mantém constante em F=20N até (10,20).]\n\nQual o módulo do impulso da força FR, no intervalo de tempo de 0 a 5,0 s?",
+      principal: "Seja o gráfico abaixo que mostra a variação do módulo da força resultante FR, aplicada a um corpo de massa 5,0kg com velocidade inicial de 5,$0m/s$. A força atua sempre na mesma direção e sentido da velocidade do corpo.\n\n[Image Description: Gráfico de Força (F em N) versus Tempo (t em s). A linha começa em (0,0), sobe linearmente até (5,20) e se mantém constante em F=20N até (10,20).]\n\nQual o módulo do impulso da força FR, no intervalo de tempo de 0 a 5,0 s?",
       subItens: []
     },
     options: [

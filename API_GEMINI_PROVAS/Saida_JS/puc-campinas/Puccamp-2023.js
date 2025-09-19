@@ -511,11 +511,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "3/16",
-      "1/5",
-      "1/16",
-      "1/4",
-      "1/8"
+      "$3/16$",
+      "$1/5$",
+      "$1/16$",
+      "$1/4$",
+      "$1/8$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -570,7 +570,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2023,
     text: {
-      principal: "A tabela apresenta a capacidade instalada para gerar energia eólica para alguns estados brasileiros e os respectivos números de parques eólicos.\nEstado | Capacidade instalada (MW) | Parques\nRN | 4066,1 | 151\nBA | 3951,0 | 154\nCE | 2045,4 | 79\nRS | 1831,8 | 80\nPI | 1638,1 | 60\nA partir da tabela, o estado com a maior capacidade instalada média por parque é",
+      principal: "A tabela apresenta a capacidade instalada para gerar energia eólica para alguns estados brasileiros e os respectivos números de parques eólicos.\nEstado | Capacidade instalada (MW) | Parques\nRN | 4066,1 | 151\nBA | 3951,0 | 154\nCE | 2045,4 | 79\nRS | 1831,8 | 80\n$\\pi$ | 1638,1 | 60\nA partir da tabela, o estado com a maior capacidade instalada média por parque é",
       subItens: []
     },
     options: [
@@ -578,7 +578,7 @@ createQuestion({
       "BA",
       "CE",
       "RS",
-      "PI"
+      "$\\pi$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -591,15 +591,15 @@ createQuestion({
     university: "puc-campinas",
     year: 2023,
     text: {
-      principal: "A quantidade de energia elétrica, em kWh, produzida por uma usina é dada pela multiplicação da potência da usina, em kW, pelo tempo em que a usina ficou em funcionamento, em horas. Sabendo que 1 GW corresponde 10^9 W e supondo que todas as usinas eólicas instaladas no Brasil funcionassem ininterruptamente durante um dia, a quantidade de energia elétrica produzida por elas, nesse período, seria de",
+      principal: "A quantidade de energia elétrica, em kWh, produzida por uma usina é dada pela multiplicação da potência da usina, em kW, pelo tempo em que a usina ficou em funcionamento, em horas. Sabendo que 1 GW corresponde $10^9$ W e supondo que todas as usinas eólicas instaladas no Brasil funcionassem ininterruptamente durante um dia, a quantidade de energia elétrica produzida por elas, nesse período, seria de",
       subItens: []
     },
     options: [
-      "2,4 x 10^6 kWh",
-      "1,2 x 10^8 kWh",
-      "2,4 × 10^8 kWh",
-      "1,2 x 10^13 kWh",
-      "2,4 x 10^13 kWh"
+      "2,4 x $10^6$ kWh",
+      "1,2 x $10^8$ kWh",
+      "2,4 × $10^8$ kWh",
+      "1,2 x $10^13$ kWh",
+      "2,4 x $10^13$ kWh"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -612,7 +612,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2023,
     text: {
-      principal: "Os dados coletados pelo TEJW são enviados à Terra por meio de ondas eletromagnéticas, que se propagam no vácuo com velocidade de 300.000 km/s. O intervalo de tempo entre a emissão de um dado pelo TEJW e a chegada desse dado à Terra é de",
+      principal: "Os dados coletados pelo TEJW são enviados à Terra por meio de ondas eletromagnéticas, que se propagam no vácuo com velocidade de 300.000 $km/s$. O intervalo de tempo entre a emissão de um dado pelo TEJW e a chegada desse dado à Terra é de",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2023,
     text: {
-      principal: "A maior concentração encontrada do paracetamol corresponde à concentração, em mol/L, de, aproximadamente,\nDados:\nMassas moleculares (g/mol)\nH = 1,0\nC = 12,0\nN = 14,0\nO = 16,0",
+      principal: "A maior concentração encontrada do paracetamol corresponde à concentração, em $mol/L$, de, aproximadamente,\nDados:\nMassas moleculares ($g/mol$)\nH = 1,0\nC = 12,0\nN = 14,0\nO = 16,0",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2023,
     text: {
-      principal: "A datação por radiocarbono utiliza o isótopo 14 do carbono, 14C . Esse isótopo, ao sofrer decaimento, emite uma partícula beta (_⁰−₁β) para formar um novo elemento de número atômico I e número de massa II.\nAs lacunas I e II são preenchidas, correta e respectivamente, por:",
+      principal: "A datação por radiocarbono utiliza o isótopo 14 do carbono, 14C . Esse isótopo, ao sofrer decaimento, emite uma partícula $\\beta$ (_⁰−₁β) para formar um novo elemento de número atômico I e número de massa II.\nAs lacunas I e II são preenchidas, correta e respectivamente, por:",
       subItens: []
     },
     options: [

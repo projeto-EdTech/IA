@@ -45,7 +45,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Um veículo viaja entre dois povoados da Serra da Mantiqueira, percorrendo a primeira terça parte do trajeto à velocidade média de 60 km/h, a terça parte seguinte a 40 km/h e o restante do percurso a 20 km/h. O valor que melhor aproxima a velocidade média do veículo nessa viagem, em km/h, é",
+      principal: "Um veículo viaja entre dois povoados da Serra da Mantiqueira, percorrendo a primeira terça parte do trajeto à velocidade média de 60 $km/h$, a terça parte seguinte a 40 $km/h$ e o restante do percurso a 20 $km/h$. O valor que melhor aproxima a velocidade média do veículo nessa viagem, em $km/h$, é",
       subItens: []
     },
     options: [
@@ -66,14 +66,14 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "A igualdade correta para quaisquer a e b, números reais maiores do que zero, é\na) √a³ + b³ = a + b\nb) 1 / (a - √(a² + b²)) = 1 / b\nc) (√a - √b)² = a - b\nd) 1 / (a + b) = 1/a + 1/b\ne) (a³ - b³) / (a² + ab + b²) = a - b",
+      principal: "A igualdade correta para quaisquer a e b, números reais maiores do que zero, é\na) √a³ + b³ = a + b\nb) 1 / (a - √(a² + b²)) = 1 / b\nc) (√a - √b)² = a - b\nd) 1 / (a + b) = $1/a$ + $1/b$\ne) (a³ - b³) / (a² + ab + b²) = a - b",
       subItens: []
     },
     options: [
       "√a³ + b³ = a + b",
       "1 / (a - √(a² + b²)) = 1 / b",
       "(√a - √b)² = a - b",
-      "1 / (a + b) = 1/a + 1/b",
+      "1 / (a + b) = $1/a$ + $1/b$",
       "(a³ - b³) / (a² + ab + b²) = a - b"
     ],
     correctAnswer: 4,
@@ -87,7 +87,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Em um experimento probabilístico, Joana retirará aleatoriamente 2 bolas de uma caixa contendo bolas azuis e bolas vermelhas. Ao montar-se o experimento, colocam-se 6 bolas azuis na caixa. Quantas bolas vermelhas devem ser acrescentadas para que a probabilidade de Joana obter 2 azuis seja 1/3?",
+      principal: "Em um experimento probabilístico, Joana retirará aleatoriamente 2 bolas de uma caixa contendo bolas azuis e bolas vermelhas. Ao montar-se o experimento, colocam-se 6 bolas azuis na caixa. Quantas bolas vermelhas devem ser acrescentadas para que a probabilidade de Joana obter 2 azuis seja $1/3$?",
       subItens: []
     },
     options: [
@@ -171,15 +171,15 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Use as propriedades do logaritmo para simplificar a expressão S = 1/(2·log₂2016) + 1/(5·log₃2016) + 1/(10·log₅2016). O valor de S é",
+      principal: "Use as propriedades do logaritmo para simplificar a expressão S = 1/(2·$\\log$₂2016) + 1/(5·$\\log$₃2016) + 1/(10·$\\log$₅2016). O valor de S é",
       subItens: []
     },
     options: [
-      "1/2",
-      "1/3",
-      "1/5",
-      "1/7",
-      "1/10"
+      "$1/2$",
+      "$1/3$",
+      "$1/5$",
+      "$1/7$",
+      "$1/10$"
     ],
     correctAnswer: 4,
     materia: [],
@@ -234,15 +234,15 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Quando a Lua está em quarto crescente ou quarto minguante, o triângulo formado pela Terra, pelo Sol e pela Lua é retângulo, com a Lua no vértice do ângulo reto. O astrônomo grego Aristarco, do século III a.C., usou este fato para obter um valor aproximado da razão entre as distâncias da Terra à Lua, dL, e da Terra ao Sol, dS.\nÉ possível estimar a medida do ângulo α, relativo ao vértice da Terra, nessas duas fases, a partir da observação de que o tempo t₁, decorrido de uma lua quarto crescente a uma lua quarto minguante, é um pouco maior do que o tempo t₂, decorrido de uma lua quarto minguante a uma lua quarto crescente. Supondo que a Lua descreva em torno da Terra um movimento circular uniforme, tomando t₁ = 14,9 dias e t₂ = 14,8 dias, conclui-se que a razão dL/dS seria aproximadamente dada por",
+      principal: "Quando a Lua está em quarto crescente ou quarto minguante, o triângulo formado pela Terra, pelo Sol e pela Lua é retângulo, com a Lua no vértice do ângulo reto. O astrônomo grego Aristarco, do século III a.C., usou este fato para obter um valor aproximado da razão entre as distâncias da Terra à Lua, dL, e da Terra ao Sol, dS.\nÉ possível estimar a medida do ângulo α, relativo ao vértice da Terra, nessas duas fases, a partir da observação de que o tempo t₁, decorrido de uma lua quarto crescente a uma lua quarto minguante, é um pouco maior do que o tempo t₂, decorrido de uma lua quarto minguante a uma lua quarto crescente. Supondo que a Lua descreva em torno da Terra um movimento circular uniforme, tomando t₁ = 14,9 dias e t₂ = 14,8 dias, conclui-se que a razão $dL/dS$ seria aproximadamente dada por",
       subItens: []
     },
     options: [
-      "cos 77,7°",
-      "cos 80,7°",
-      "cos 83,7°",
-      "cos 86,7°",
-      "cos 89,7°"
+      "$\\cos$ 77,7°",
+      "$\\cos$ 80,7°",
+      "$\\cos$ 83,7°",
+      "$\\cos$ 86,7°",
+      "$\\cos$ 89,7°"
     ],
     correctAnswer: 4,
     materia: [],
@@ -297,7 +297,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "O biogás pode substituir a gasolina na geração de energia. Sabe-se que 60%, em volume, do biogás são constituídos de metano, cuja combustão completa libera cerca de 900 kJ/mol. Uma usina produtora gera 2.000 litros de biogás por dia. Para produzir a mesma quantidade de energia liberada pela queima de todo o metano contido nesse volume de biogás, será necessária a seguinte quantidade aproximada (em litros) de gasolina:\nNote e adote:\nVolume molar nas condições de produção de biogás: 24 L/mol;\nenergia liberada na combustão completa da gasolina: 4,5 x 10⁴ kJ/L.",
+      principal: "O biogás pode substituir a gasolina na geração de energia. Sabe-se que 60%, em volume, do biogás são constituídos de metano, cuja combustão completa libera cerca de 900 $kJ/mol$. Uma usina produtora gera 2.000 litros de biogás por dia. Para produzir a mesma quantidade de energia liberada pela queima de todo o metano contido nesse volume de biogás, será necessária a seguinte quantidade aproximada (em litros) de gasolina:\nNote e adote:\nVolume molar nas condições de produção de biogás: 24 $L/mol$;\nenergia liberada na combustão completa da gasolina: 4,5 x 10⁴ $kJ/L$.",
       subItens: []
     },
     options: [
@@ -360,7 +360,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Um dirigível experimental usa hélio como fluido ascensional e octano (C₈H₁₈) como combustível em seu motor, para propulsão. Suponha que, no motor, ocorra a combustão completa do octano: C₈H₁₈(g) + (25/2) O₂(g) → 8 CO₂(g) + 9 H₂O(g). Para compensar a perda de massa do dirigível à medida que o combustível é queimado, parte da água contida nos gases de exaustão do motor é condensada e armazenada como lastro. O restante do vapor de água e o gás carbônico são liberados para a atmosfera. Qual é a porcentagem aproximada da massa de vapor de água formado que deve ser retida para que a massa de combustível queimado seja compensada?\nNote e adote:\nMassa molar (g/mol): H₂O ..... 18\nO₂ ......... 32\nCO₂ ........ 44\nC₈H₁₈ ..... 114",
+      principal: "Um dirigível experimental usa hélio como fluido ascensional e octano (C₈H₁₈) como combustível em seu motor, para propulsão. Suponha que, no motor, ocorra a combustão completa do octano: C₈H₁₈(g) + ($25/2$) O₂(g) → 8 CO₂(g) + 9 H₂O(g). Para compensar a perda de massa do dirigível à medida que o combustível é queimado, parte da água contida nos gases de exaustão do motor é condensada e armazenada como lastro. O restante do vapor de água e o gás carbônico são liberados para a atmosfera. Qual é a porcentagem aproximada da massa de vapor de água formado que deve ser retida para que a massa de combustível queimado seja compensada?\nNote e adote:\nMassa molar ($g/mol$): H₂O ..... 18\nO₂ ......... 32\nCO₂ ........ 44\nC₈H₁₈ ..... 114",
       subItens: []
     },
     options: [
@@ -402,7 +402,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Sabe-se que os metais ferro (Feº), magnésio (Mgº) e estanho (Snº) reagem com soluções de ácidos minerais, liberando gás hidrogênio e formando íons divalentes em solução. Foram feitos três experimentos em que três amostras metálicas de mesma massa reagiram, separada e completamente, com uma solução aquosa de ácido clorídrico (HCl (aq)) de concentração 0,1 mol/L. Os resultados obtidos foram:\nTabela:\nExperimento Massa da amostra metálica (g) Composição da amostra metálica Volume da solução de HCl (aq) (0,1 mol/L) gasto na reação completa\n1           5,6                  Feº puro                       V1\n2           5,6                  Feº contendo Mgº como impureza      V2\n3           5,6                  Feº contendo Snº como impureza      V3\nColocando-se os valores de V1, V2 e V3 em ordem decrescente, obtém-se\nNote e adote:\nMassa molar (g/mol): Mg ........ 24\nFe ........ 56\nSn ........ 119",
+      principal: "Sabe-se que os metais ferro (Feº), magnésio (Mgº) e estanho (Snº) reagem com soluções de ácidos minerais, liberando gás hidrogênio e formando íons divalentes em solução. Foram feitos três experimentos em que três amostras metálicas de mesma massa reagiram, separada e completamente, com uma solução aquosa de ácido clorídrico (HCl (aq)) de concentração 0,1 $mol/L$. Os resultados obtidos foram:\nTabela:\nExperimento Massa da amostra metálica (g) Composição da amostra metálica Volume da solução de HCl (aq) (0,1 $mol/L$) gasto na reação completa\n1           5,6                  Feº puro                       V1\n2           5,6                  Feº contendo Mgº como impureza      V2\n3           5,6                  Feº contendo Snº como impureza      V3\nColocando-se os valores de V1, V2 e V3 em ordem decrescente, obtém-se\nNote e adote:\nMassa molar ($g/mol$): Mg ........ 24\nFe ........ 56\nSn ........ 119",
       subItens: []
     },
     options: [
@@ -490,11 +490,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "(1/4)mg(h-ho) + (1/2)mv²",
-      "(1/2)mg(h-ho) + (1/2)mv²",
-      "(1/2)mg(h-ho) + 2mv²",
-      "mgh + (1/2)mv²",
-      "mg(h-ho) + (1/2)mv²"
+      "($1/4$)mg(h-ho) + ($1/2$)mv²",
+      "($1/2$)mg(h-ho) + ($1/2$)mv²",
+      "($1/2$)mg(h-ho) + 2mv²",
+      "mgh + ($1/2$)mv²",
+      "mg(h-ho) + ($1/2$)mv²"
     ],
     correctAnswer: 4,
     materia: [],
@@ -532,11 +532,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2π√(L/g)",
-      "2π√(L/2g)",
-      "π√(L/g) + √(L/2g)",
-      "2π√(L/g) + √(L/2g)",
-      "π√(L/g) + √(L/2g)"
+      "2π√($L/g$)",
+      "2π√($L/2g$)",
+      "π√($L/g$) + √($L/2g$)",
+      "2π√($L/g$) + √($L/2g$)",
+      "π√($L/g$) + √($L/2g$)"
     ],
     correctAnswer: 4,
     materia: [],
@@ -570,15 +570,15 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "A Estação Espacial Internacional orbita a Terra em uma altitude h. A aceleração da gravidade terrestre dentro dessa espaçonave é\nNote e adote:\ngR é a aceleração da gravidade na superfície da Terra.\nR_T é o raio da Terra.",
+      principal: "A Estação Espacial Internacional orbita a Terra em uma altitude h. A aceleração da gravidade terrestre dentro dessa espaçonave é\nNote e adote:\ngR é a aceleração da gravidade na superfície da Terra.\n$R_T$ é o raio da Terra.",
       subItens: []
     },
     options: [
       "nula.",
-      "g_R (R_T/h)²",
-      "g_R (R_T/(R_T+h))²",
-      "g_R (R_T/(R_T+h))²",
-      "g_R ((R_T-h)/(R_T+h))²"
+      "$g_R$ ($R_T/h$)²",
+      "$g_R$ (R_T/($R_T$+h))²",
+      "$g_R$ (R_T/($R_T$+h))²",
+      "$g_R$ (($R_T$-h)/($R_T$+h))²"
     ],
     correctAnswer: 3,
     materia: [],
@@ -612,7 +612,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Um objeto homogêneo colocado em um recipiente com água tem 32% de seu volume submerso; já em um recipiente com óleo, tem 40% de seu volume submerso. A densidade desse óleo, em g/cm³, é\nNote e adote:\nDensidade da água = 1 g/cm³",
+      principal: "Um objeto homogêneo colocado em um recipiente com água tem 32% de seu volume submerso; já em um recipiente com óleo, tem 40% de seu volume submerso. A densidade desse óleo, em $g/cm$³, é\nNote e adote:\nDensidade da água = 1 $g/cm$³",
       subItens: []
     },
     options: [
@@ -633,7 +633,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "O elétron e sua antipartícula, o pósitron, possuem massas iguais e cargas opostas. Em uma reação em que o elétron e o pósitron, em repouso, se aniquilam, dois fótons de mesma energia são emitidos em sentidos opostos. A energia de cada fóton produzido é, em MeV, aproximadamente,\nNote e adote:\nRelação de Einstein entre energia (E) e massa (m): E = mc²\nMassa do elétron = 9 × 10⁻³¹ kg\nVelocidade da luz c = 3,0 x 10⁸ m/s\n1 eV = 1,6 x 10⁻¹⁹ J\n1 MeV = 10⁶ eV\nNo processo de aniquilação, toda a massa das partículas é transformada em energia dos fótons.",
+      principal: "O elétron e sua antipartícula, o pósitron, possuem massas iguais e cargas opostas. Em uma reação em que o elétron e o pósitron, em repouso, se aniquilam, dois fótons de mesma energia são emitidos em sentidos opostos. A energia de cada fóton produzido é, em MeV, aproximadamente,\nNote e adote:\nRelação de Einstein entre energia (E) e massa (m): E = mc²\nMassa do elétron = 9 × 10⁻³¹ kg\nVelocidade da luz c = 3,0 x 10⁸ $m/s$\n1 eV = 1,6 x 10⁻¹⁹ J\n1 MeV = 10⁶ eV\nNo processo de aniquilação, toda a massa das partículas é transformada em energia dos fótons.",
       subItens: []
     },
     options: [
@@ -654,7 +654,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Uma moeda está no centro do fundo de uma caixa d'água cilíndrica de 0,87 m de altura e base circular com 1,0 m de diâmetro, totalmente preenchida com água, como esquematizado na figura.\n(Diagrama de caixa d'água e feixe de luz)\nSe um feixe de luz laser incidir em uma direção que passa pela borda da caixa, fazendo um ângulo θ com a vertical, ele só poderá iluminar a moeda se\nNote e adote:\nÍndice de refração da água: 1,4\nn₁ sen(θ₁) = n₂ sen(θ₂)\nsen(20°) = cos(70°) = 0,35\nsen(30°) = cos(60°) = 0,50\nsen(45°) = cos(45°) = 0,70\nsen(60°) = cos(30°) = 0,87\nsen(70°) = cos(20°) = 0,94",
+      principal: "Uma moeda está no centro do fundo de uma caixa d'água cilíndrica de 0,87 m de altura e base circular com 1,0 m de diâmetro, totalmente preenchida com água, como esquematizado na figura.\n(Diagrama de caixa d'água e feixe de luz)\nSe um feixe de luz laser incidir em uma direção que passa pela borda da caixa, fazendo um ângulo θ com a vertical, ele só poderá iluminar a moeda se\nNote e adote:\nÍndice de refração da água: 1,4\nn₁ $\\sin$(θ₁) = n₂ $\\sin$(θ₂)\n$\\sin$(20°) = $\\cos$(70°) = 0,35\n$\\sin$(30°) = $\\cos$(60°) = 0,50\n$\\sin$(45°) = $\\cos$(45°) = 0,70\n$\\sin$(60°) = $\\cos$(30°) = 0,87\n$\\sin$(70°) = $\\cos$(20°) = 0,94",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Chumaços de algodão embebidos em uma solução de vermelho de cresol, de cor rosa, foram colocados em três recipientes de vidro, I, II e III, idênticos e transparentes. Em I e II, havia plantas e, em III, rãs. Os recipientes foram vedados e iluminados durante um mesmo intervalo de tempo com luz de mesma intensidade, sendo que I e III foram iluminados com luz de frequência igual a 7,0 x 10¹⁴ Hz, e II, com luz de frequência igual a 5,0 x 10¹⁴ Hz. O gráfico mostra a taxa de fotossíntese das clorofilas a e b em função do comprimento de onda da radiação eletromagnética. Considere que, para essas plantas, o ponto de compensação fótica corresponde a 20% do percentual de absorção.\n(Gráfico: Percentual de absorção vs. Comprimento de onda para Clorofila a e Clorofila b)\nÉ correto afirmar que, após o período de iluminação, as cores dos chumaços de algodão embebidos em solução de cresol dos recipientes I, II e III ficaram, respectivamente,\nNote e adote:\nAs plantas e as rãs permaneceram vivas durante o experimento.\nAs cores da solução de cresol em ambientes com dióxido de carbono com concentração menor, igual e maior que a da atmosfera são, respectivamente, roxa, rosa e amarela.\nVelocidade da luz = 3 x 10⁸ m/s\n1 nm = 10⁻⁹ m",
+      principal: "Chumaços de algodão embebidos em uma solução de vermelho de cresol, de cor rosa, foram colocados em três recipientes de vidro, I, II e III, idênticos e transparentes. Em I e II, havia plantas e, em III, rãs. Os recipientes foram vedados e iluminados durante um mesmo intervalo de tempo com luz de mesma intensidade, sendo que I e III foram iluminados com luz de frequência igual a 7,0 x 10¹⁴ Hz, e II, com luz de frequência igual a 5,0 x 10¹⁴ Hz. O gráfico mostra a taxa de fotossíntese das clorofilas a e b em função do comprimento de onda da radiação eletromagnética. Considere que, para essas plantas, o ponto de compensação fótica corresponde a 20% do percentual de absorção.\n(Gráfico: Percentual de absorção vs. Comprimento de onda para Clorofila a e Clorofila b)\nÉ correto afirmar que, após o período de iluminação, as cores dos chumaços de algodão embebidos em solução de cresol dos recipientes I, II e III ficaram, respectivamente,\nNote e adote:\nAs plantas e as rãs permaneceram vivas durante o experimento.\nAs cores da solução de cresol em ambientes com dióxido de carbono com concentração menor, igual e maior que a da atmosfera são, respectivamente, roxa, rosa e amarela.\nVelocidade da luz = 3 x 10⁸ $m/s$\n1 nm = 10⁻⁹ m",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "A escolha do local para instalação de parques eólicos depende, dentre outros fatores, da velocidade média dos ventos que sopram na região. Examine este mapa das diferentes velocidades médias de ventos no Brasil e, em seguida, o gráfico da potência fornecida por um aerogerador em função da velocidade do vento.\n(Mapa: Brasil - Velocidade Média dos Ventos)\n(Gráfico: Potência (kW) vs. Velocidade do vento (m/s))\nDe acordo com as informações fornecidas, esse aerogerador poderia produzir, em um ano, 8,8 GWh de energia, se fosse instalado no\nNote e adote:\n1 GW = 10⁹ W\n1 ano = 8800 horas",
+      principal: "A escolha do local para instalação de parques eólicos depende, dentre outros fatores, da velocidade média dos ventos que sopram na região. Examine este mapa das diferentes velocidades médias de ventos no Brasil e, em seguida, o gráfico da potência fornecida por um aerogerador em função da velocidade do vento.\n(Mapa: Brasil - Velocidade Média dos Ventos)\n(Gráfico: Potência (kW) vs. Velocidade do vento ($m/s$))\nDe acordo com as informações fornecidas, esse aerogerador poderia produzir, em um ano, 8,8 GWh de energia, se fosse instalado no\nNote e adote:\n1 GW = 10⁹ W\n1 ano = 8800 horas",
       subItens: []
     },
     options: [
@@ -785,10 +785,10 @@ createQuestion({
     },
     options: [
       "0",
-      "1/4",
-      "1/3",
-      "1/2",
-      "2/3"
+      "$1/4$",
+      "$1/3$",
+      "$1/2$",
+      "$2/3$"
     ],
     correctAnswer: 4,
     materia: [],
@@ -948,7 +948,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Examine este cartum para responder às questões 46 e 47.\n(Imagem de um cartum com pessoas e animais de estimação)\n\"As crianças não passam de substitutos patéticos para as pessoas que não podem ter bichos\". Robert Mankoff, New Yorker/Veja. Para obter o efeito de humor presente no cartum, o autor se vale, entre outros, do seguinte recurso:",
+      principal: "Examine este cartum para responder às questões 46 e 47.\n(Imagem de um cartum com pessoas e animais de estimação)\n\"As crianças não passam de substitutos patéticos para as pessoas que não podem ter bichos\". Robert Mankoff, New $Yorker/Veja$. Para obter o efeito de humor presente no cartum, o autor se vale, entre outros, do seguinte recurso:",
       subItens: []
     },
     options: [
@@ -1326,15 +1326,15 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "A partir das imagens a seguir, pode-se inferir a progressão do delta do rio Huang Ho (Rio Amarelo), na costa leste da China, famoso pelo transporte de sedimentos conhecidos por loess. De 1979 a 2000, alterou-se consideravelmente a morfologia do delta, com o aparecimento de feições recentes sobrepostas a outras, que levaram milhões de anos para se formar.\n(Imagens de satélite do delta do rio Huang Ho em 1979 e 2000)\nTerra Frágil: O que está acontecendo com o nosso planeta? São Paulo: Editora Senac, 2009. Adaptado.\nCom base na comparação entre as imagens de satélite e em seus conhecimentos, assinale a afirmação correta.",
+      principal: "A partir das imagens a seguir, pode-se inferir a progressão do $\\delta$ do rio Huang Ho (Rio Amarelo), na costa leste da China, famoso pelo transporte de sedimentos conhecidos por loess. De 1979 a 2000, alterou-se consideravelmente a morfologia do $\\delta$, com o aparecimento de feições recentes sobrepostas a outras, que levaram milhões de anos para se formar.\n(Imagens de satélite do $\\delta$ do rio Huang Ho em 1979 e 2000)\nTerra Frágil: O que está acontecendo com o nosso planeta? São Paulo: Editora Senac, 2009. Adaptado.\nCom base na comparação entre as imagens de satélite e em seus conhecimentos, assinale a afirmação correta.",
       subItens: []
     },
     options: [
-      "A situação verificada deve-se aos efeitos das ondas e marés que comandam a deposição de sedimentos no delta, sem haver influência continental no processo, já que a topografia costeira permite que o oceano alcance o interior do continente.",
-      "A modificação na morfologia deve-se às grandes chuvas que ocorrem a montante desse delta e, por tratar-se de drenagem endorreica, o rio carrega considerável volume de sedimentos grosseiros e blocos rochosos, que, aos poucos, depositam-se ao longo da costa.",
+      "A situação verificada deve-se aos efeitos das ondas e marés que comandam a deposição de sedimentos no $\\delta$, sem haver influência continental no processo, já que a topografia costeira permite que o oceano alcance o interior do continente.",
+      "A modificação na morfologia deve-se às grandes chuvas que ocorrem a montante desse $\\delta$ e, por tratar-se de drenagem endorreica, o rio carrega considerável volume de sedimentos grosseiros e blocos rochosos, que, aos poucos, depositam-se ao longo da costa.",
       "Além de haver nesse sistema deltaico uma característica carga detrítica fina que, praticamente, excede a capacidade do rio de transportar material erodido e carregado, a modificação verificada foi ampliada pela ocupação antrópica, influenciando o regime deposicional.",
-      "O delta é resultante de mudanças climáticas provocadas pela ação humana na exploração de recursos no golfo chinês, nas estações mais quentes e chuvosas, ocasionando a retração da foz e o rebaixamento dos níveis das marés, com o aparecimento dos bancos de areia sobressalentes.",
-      "As modificações no delta devem-se ao fato de essa região caracterizar-se como um sistema lacustre, onde há acumulação de matéria orgânica decorrente das inundações provocadas pela construção da barragem da usina hidrelétrica de Três Gargantas."
+      "O $\\delta$ é resultante de mudanças climáticas provocadas pela ação humana na exploração de recursos no golfo chinês, nas estações mais quentes e chuvosas, ocasionando a retração da foz e o rebaixamento dos níveis das marés, com o aparecimento dos bancos de areia sobressalentes.",
+      "As modificações no $\\delta$ devem-se ao fato de essa região caracterizar-se como um sistema lacustre, onde há acumulação de matéria orgânica decorrente das inundações provocadas pela construção da barragem da usina hidrelétrica de Três Gargantas."
     ],
     correctAnswer: 2,
     materia: [],
@@ -1372,8 +1372,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "O México é o país com maior produção de carvão, cuja exportação é controlada por capital canadense. Para tal situação, o padrão de dominação Norte/Sul na DIT, mencionado pelo autor, é praticado no mesmo continente.",
-      "A Colômbia ocupa o primeiro lugar na produção mundial de manganês, por meio de empresas privatizadas nos dois últimos governos bolivarianos, o que realça sua posição no cenário econômico internacional, rompendo a dominação Norte/Sul.",
+      "O México é o país com maior produção de carvão, cuja exportação é controlada por capital canadense. Para tal situação, o padrão de dominação $Norte/Sul$ na DIT, mencionado pelo autor, é praticado no mesmo continente.",
+      "A Colômbia ocupa o primeiro lugar na produção mundial de manganês, por meio de empresas privatizadas nos dois últimos governos bolivarianos, o que realça sua posição no cenário econômico internacional, rompendo a dominação $Norte/Sul$.",
       "O Chile destaca-se pela extração de cobre, principalmente na sua porção centro-norte, que é, em parte, explorado por empresas transnacionais, o que reitera o padrão da DIT mencionado pelo autor.",
       "A Bolívia destaca-se como um dos maiores produtores de ferro da América Latina, e, recentemente, o controle de sua produção passou a ser feito por Conselhos Indígenas. Essa autonomia do País permitiu o rompimento da dominação estadunidense.",
       "O Uruguai é o principal produtor mundial de prata, e o controle de sua extração é feito por empresas transnacionais. Nesse caso, mantém-se o padrão da inserção do país na DIT mencionada pelo autor."
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "É preocupante a detecção de resíduos de agrotóxicos no planalto mato-grossense [Planaltos e Chapada dos Parecis], onde nascem o rio Paraguai e parte de seus afluentes, cujos cursos dirigem-se para a Planície do Pantanal. Em termos ecológicos, o efeito crônico da contaminação, mesmo sob baixas concentrações, implica efeitos na saúde e no ambiente a médio e longo prazos, como a diminuição do potencial biológico de espécies animais e vegetais. Dossiê Abrasco - Associação Brasileira de Saúde Coletiva, Rio de Janeiro/São Paulo: EPSJV/Expressão Popular, 2012. Adaptado. Com base no texto e em seus conhecimentos, é correto afirmar:",
+      principal: "É preocupante a detecção de resíduos de agrotóxicos no planalto mato-grossense [Planaltos e Chapada dos Parecis], onde nascem o rio Paraguai e parte de seus afluentes, cujos cursos dirigem-se para a Planície do Pantanal. Em termos ecológicos, o efeito crônico da contaminação, mesmo sob baixas concentrações, implica efeitos na saúde e no ambiente a médio e longo prazos, como a diminuição do potencial biológico de espécies animais e vegetais. Dossiê Abrasco - Associação Brasileira de Saúde Coletiva, Rio de $Janeiro/S$ão Paulo: $EPSJV/Express$ão Popular, 2012. Adaptado. Com base no texto e em seus conhecimentos, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -1494,7 +1494,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Observe os mapas.\nMIGRAÇÃO ENTRE AS REGIÕES BRASILEIRAS (2004-2009)\n(Mapas de migração entre as regiões brasileiras)\nOrigem e destino dos fluxos migratórios nas regiões brasileiras.\nIBGE/OESP, 16/07/2011.\nDentre as seguintes alternativas, a única que apresenta a principal causa para o correspondente fluxo migratório é:",
+      principal: "Observe os mapas.\nMIGRAÇÃO ENTRE AS REGIÕES BRASILEIRAS (2004-2009)\n(Mapas de migração entre as regiões brasileiras)\nOrigem e destino dos fluxos migratórios nas regiões brasileiras.\n$IBGE/OESP$, 16/07/2011.\nDentre as seguintes alternativas, a única que apresenta a principal causa para o correspondente fluxo migratório é:",
       subItens: []
     },
     options: [
@@ -1599,7 +1599,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Assim como o camponês, o mercador está a princípio submetido, na sua atividade profissional, ao tempo meteorológico, ao ciclo das estações, à imprevisibilidade das intempéries e dos cataclismos naturais. Como, durante muito tempo, não houve nesse domínio senão necessidade de submissão à ordem da natureza e de Deus, o mercador só teve como meio de ação as preces e as práticas supersticiosas. Mas, quando se organiza uma rede comercial, o tempo se torna objeto de medida. A duração de uma viagem por mar ou por terra, ou de um lugar para outro, o problema dos preços que, no curso de uma mesma operação comercial, mais ainda quando o circuito se complica, sobem ou descem – tudo isso se impõe cada vez mais à sua atenção. Mudança também importante: o mercador descobre o preço do tempo no mesmo momento em que ele explora o espaço, pois para ele a duração essencial é aquela de um trajeto. Jacques Le Goff. Para uma outra Idade Média. Petrópolis: Vozes, 2013. Adaptado. O texto associa a mudança da percepção do tempo pelos mercadores medievais ao",
+      principal: "Assim como o camponês, o mercador está a princípio submetido, na sua atividade profissional, ao tempo meteorológico, ao ciclo das estações, à imprevisibilidade das intempéries e dos cataclismos naturais. Como, durante muito tempo, não houve nesse domínio $\\sin$ão necessidade de submissão à ordem da natureza e de Deus, o mercador só teve como meio de ação as preces e as práticas supersticiosas. Mas, quando se organiza uma rede comercial, o tempo se torna objeto de medida. A duração de uma viagem por mar ou por terra, ou de um lugar para outro, o problema dos preços que, no curso de uma mesma operação comercial, mais ainda quando o circuito se complica, sobem ou descem – tudo isso se impõe cada vez mais à sua atenção. Mudança também importante: o mercador descobre o preço do tempo no mesmo momento em que ele explora o espaço, pois para ele a duração essencial é aquela de um trajeto. Jacques Le Goff. Para uma outra Idade Média. Petrópolis: Vozes, 2013. Adaptado. O texto associa a mudança da percepção do tempo pelos mercadores medievais ao",
       subItens: []
     },
     options: [
@@ -1662,7 +1662,7 @@ createQuestion({
     university: "fuvest",
     year: 2016,
     text: {
-      principal: "Somos produto de 500 anos de luta: primeiro, contra a escravidão, na Guerra de Independência contra a Espanha, encabeçada pelos insurgentes; depois, para evitar sermos absorvidos pelo expansionismo norte-americano; em seguida, para promulgar nossa Constituição e expulsar o Império Francês de nosso solo; depois, a ditadura porfirista nos negou a aplicação justa das leis de Reforma e o povo se rebelou criando seus próprios líderes; assim surgiram Villa e Zapata, homens pobres como nós, a quem se negou a preparação mais elementar, para assim utilizar-nos como bucha de canhão e saquear as riquezas de nossa pátria, sem importar que estejamos morrendo de fome e enfermidades curáveis, sem importar que não tenhamos nada, absolutamente nada, nem um teto digno, nem terra, nem trabalho, nem saúde, nem alimentação, nem educação, sem ter direito a eleger livre e democraticamente nossas autoridades, sem independência dos estrangeiros, sem paz nem justiça para nós e nossos filhos. \"Primeira declaração da Selva Lacandona\" (janeiro de 1994), in Massimo di Felice e Cristoval Muñoz (orgs.). A revolução invencível. Subcomandante Marcos e Exército Zapatista de Libertação Nacional. Cartas e comunicados. São Paulo: Boitempo, 1998. Adaptado. O documento, divulgado no início de 1994 pelo Exército Zapatista de Libertação Nacional, refere-se, entre outros processos históricos, à",
+      principal: "Somos produto de 500 anos de luta: primeiro, contra a escravidão, na Guerra de Independência contra a Espanha, encabeçada pelos insurgentes; depois, para evitar sermos absorvidos pelo expansionismo norte-americano; em seguida, para promulgar nossa Constituição e expulsar o Império Francês de nosso solo; depois, a ditadura porfirista nos negou a aplicação justa das leis de Reforma e o povo se rebelou criando seus próprios líderes; assim surgiram Villa e Zapata, homens pobres como nós, a quem se negou a preparação mais elementar, para assim utilizar-nos como bucha de canhão e saquear as riquezas de nossa pátria, sem importar que estejamos morrendo de fome e enfermidades curáveis, sem importar que não tenhamos nada, absolutamente nada, nem um teto digno, nem terra, nem trabalho, nem saúde, nem alimentação, nem educação, sem ter direito a eleger livre e democraticamente nossas autoridades, sem independência dos estrangeiros, sem paz nem justiça para nós e nossos filhos. \"Primeira declaração da Selva Lacandona\" (janeiro de 1994), in Massimo di Felice e Cristoval $\\mu$ñoz (orgs.). A revolução invencível. Subcomandante Marcos e Exército Zapatista de Libertação Nacional. Cartas e comunicados. São Paulo: Boitempo, 1998. Adaptado. O documento, divulgado no início de 1994 pelo Exército Zapatista de Libertação Nacional, refere-se, entre outros processos históricos, à",
       subItens: []
     },
     options: [

@@ -108,7 +108,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Nos automóveis, é importante garantir que o centro de massa (CM) de cada conjunto roda/pneu coincida com o seu centro geométrico. Esse processo é realizado em uma máquina de balanceamento, na qual o conjunto roda e pneu é colocado para girar a uma velocidade de valor constante. Com base nas oscilações medidas, a máquina indica a posição do centro de massa do conjunto, e pequenas peças de chumbo são fixadas em lugares específicos da roda até que as vibrações diminuam. Durante o treinamento de sua equipe, a fim de corrigir a posição do centro de massa indicada pela máquina, um mecânico apresenta o esquema a seguir, com cinco possíveis pontos da roda para posicionar uma peça de chumbo.\n[Imagem: Representação esquemática de uma roda de automóvel com um ponto C.M. (centro de massa) deslocado do centro geométrico. Cinco pontos (1, 2, 3, 4, 5) são indicados na borda para fixação de pesos.]\nEm qual ponto deve ser fixada a peça de chumbo para corrigir a posição do centro de massa desse conjunto roda/pneu?",
+      principal: "Nos automóveis, é importante garantir que o centro de massa (CM) de cada conjunto $roda/pneu$ coincida com o seu centro geométrico. Esse processo é realizado em uma máquina de balanceamento, na qual o conjunto roda e pneu é colocado para girar a uma velocidade de valor constante. Com base nas oscilações medidas, a máquina indica a posição do centro de massa do conjunto, e pequenas peças de chumbo são fixadas em lugares específicos da roda até que as vibrações diminuam. Durante o treinamento de sua equipe, a fim de corrigir a posição do centro de massa indicada pela máquina, um mecânico apresenta o esquema a seguir, com cinco possíveis pontos da roda para posicionar uma peça de chumbo.\n[Imagem: Representação esquemática de uma roda de automóvel com um ponto C.M. (centro de massa) deslocado do centro geométrico. Cinco pontos (1, 2, 3, 4, 5) são indicados na borda para fixação de pesos.]\nEm qual ponto deve ser fixada a peça de chumbo para corrigir a posição do centro de massa desse conjunto $roda/pneu$?",
       subItens: []
     },
     options: [
@@ -129,7 +129,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "O soro caseiro serve para combater a desidratação por meio da reposição da água e sais minerais perdidos, por exemplo, por diarreia. Uma receita simples para a sua preparação consiste em utilizar duas colheres grandes (de sopa) de açúcar e duas colheres pequenas (de café) de sal de cozinha, dissolvidos em 2 L de água fervida, obtendo-se uma solução com concentração de íon sódio de 1,4 mg/mL.\nConsidere as massas molares: NaCl = 58,5 g/mol; Na = 23 g/mol.\nQual é o valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena?",
+      principal: "O soro caseiro serve para combater a desidratação por meio da reposição da água e sais minerais perdidos, por exemplo, por diarreia. Uma receita simples para a sua preparação consiste em utilizar duas colheres grandes (de sopa) de açúcar e duas colheres pequenas (de café) de sal de cozinha, dissolvidos em 2 L de água fervida, obtendo-se uma solução com concentração de íon sódio de 1,4 $mg/mL$.\nConsidere as massas molares: NaCl = 58,5 $g/mol$; Na = 23 $g/mol$.\nQual é o valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena?",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Um dos agentes que mais contribui para a poluição do ar é o automóvel a combustão interna. Em áreas urbanas, isso é demonstrado dramaticamente pela fumaça fotoquímica, resultante da interação entre óxidos de nitrogênio, hidrocarbonetos e luz solar, para formar produtos de oxidação, que causam irritação aos olhos, ao aparelho respiratório e danos às plantas. As condições de operação de motores a combustão, como a razão da mistura ar/combustível no cilindro, influenciam na composição dos gases lançados pelo escapamento na atmosfera. O gráfico ilustra a variação nas composições dos principais gases, dióxido de carbono (CO2), hidrocarbonetos (HC), monóxido de carbono (CO), monóxido de nitrogênio (NO) e oxigênio molecular (O2), emitidos por um motor a gasolina, em diferentes razões ar/combustível, em massa.\n[Imagem: Gráfico de Razão ar/combustível (massa/massa) no eixo X versus Concentrações dos gases (O2, CO2, CO em % volume e NO, HC em 10^3 vppm e 10^2 vppm, respectivamente) no eixo Y. Apresenta regiões de Deficiência e Excesso, e Razão estequiométrica.]\nRANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos no controle da qualidade do ar. Química Nova, v. 26, 2003 (adaptado).\nNa condição de razão ar/combustível igual a 18, haverá uma emissão",
+      principal: "Um dos agentes que mais contribui para a poluição do ar é o automóvel a combustão interna. Em áreas urbanas, isso é demonstrado dramaticamente pela fumaça fotoquímica, resultante da interação entre óxidos de nitrogênio, hidrocarbonetos e luz solar, para formar produtos de oxidação, que causam irritação aos olhos, ao aparelho respiratório e danos às plantas. As condições de operação de motores a combustão, como a razão da mistura $ar/combust$ível no cilindro, influenciam na composição dos gases lançados pelo escapamento na atmosfera. O gráfico ilustra a variação nas composições dos principais gases, dióxido de carbono (CO2), hidrocarbonetos (HC), monóxido de carbono (CO), monóxido de nitrogênio (NO) e oxigênio molecular (O2), emitidos por um motor a gasolina, em diferentes razões $ar/combust$ível, em massa.\n[Imagem: Gráfico de Razão $ar/combust$ível ($massa/massa$) no eixo X versus Concentrações dos gases (O2, CO2, CO em % volume e NO, HC em $10^3$ vppm e $10^2$ vppm, respectivamente) no eixo Y. Apresenta regiões de Deficiência e Excesso, e Razão estequiométrica.]\nRANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos no controle da qualidade do ar. Química Nova, v. 26, 2003 (adaptado).\nNa condição de razão $ar/combust$ível igual a 18, haverá uma emissão",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "O biogás é uma alternativa energética muito importante, pois, além de reduzir a dependência por combustíveis fósseis, sua obtenção pode ser realizada a partir de resíduos da produção agroindustrial. Considere que o biogás produzido em um empreendimento de suinocultura contém 70% em volume de metano (massa molar 16 g/mol; volume molar 22 L/mol). Ele será utilizado para geração de energia em substituição ao etanol (massa molar 46 g/mol) em um gerador no qual 1 m³ de biogás de origem suína substitui 0,59 L de etanol anidro (densidade 0,78 g/mL).\nNessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de",
+      principal: "O biogás é uma alternativa energética muito importante, pois, além de reduzir a dependência por combustíveis fósseis, sua obtenção pode ser realizada a partir de resíduos da produção agroindustrial. Considere que o biogás produzido em um empreendimento de suinocultura contém 70% em volume de metano (massa molar 16 $g/mol$; volume molar 22 $L/mol$). Ele será utilizado para geração de energia em substituição ao etanol (massa molar 46 $g/mol$) em um gerador no qual 1 m³ de biogás de origem suína substitui 0,59 L de etanol anidro (densidade 0,78 $g/mL$).\nNessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de",
       subItens: []
     },
     options: [
@@ -910,11 +910,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1,0 x 10^4 ton",
-      "3,9 x 10^5 ton",
-      "5,0 x 10^5 ton",
-      "1,9 x 10^6 ton",
-      "2,0 x 10^7 ton"
+      "1,0 x $10^4$ ton",
+      "3,9 x $10^5$ ton",
+      "5,0 x $10^5$ ton",
+      "1,9 x $10^6$ ton",
+      "2,0 x $10^7$ ton"
     ],
     correctAnswer: 3,
     materia: ["Química", "Matemática"],
@@ -1057,11 +1057,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "3 x 2^19",
-      "3 x 2^20",
-      "3 x 2^21",
-      "3 x 2^20 - 1",
-      "3 x 2^20 - 3"
+      "3 x $2^19$",
+      "3 x $2^20$",
+      "3 x $2^21$",
+      "3 x $2^20$ - 1",
+      "3 x $2^20$ - 3"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Uma professora de matemática utiliza em suas aulas uma “máquina caça-números” para verificar os conhecimentos de seus estudantes sobre representações de números racionais. Essa máquina tem um visor dividido em seis compartimentos e, na lateral, uma alavanca. Cada estudante puxa a alavanca, aguardou que os compartimentos parassem de girar e observou os números apresentados no visor. A configuração da máquina naquele instante está apresentada na imagem.\n[Imagem: Visor de uma 'máquina caça-números' dividido em seis compartimentos (I a VI) mostrando os valores: 1/4, 1/2, 10, 18/4, 4, 4.5. O enunciado pede para encontrar três quantidades iguais.]\nEsse estudante respondeu corretamente à pergunta da professora.\nAs posições indicadas pelo estudante foram",
+      principal: "Uma professora de matemática utiliza em suas aulas uma “máquina caça-números” para verificar os conhecimentos de seus estudantes sobre representações de números racionais. Essa máquina tem um visor dividido em seis compartimentos e, na lateral, uma alavanca. Cada estudante puxa a alavanca, aguardou que os compartimentos parassem de girar e observou os números apresentados no visor. A configuração da máquina naquele instante está apresentada na imagem.\n[Imagem: Visor de uma 'máquina caça-números' dividido em seis compartimentos (I a VI) mostrando os valores: $1/4$, $1/2$, 10, $18/4$, 4, 4.5. O enunciado pede para encontrar três quantidades iguais.]\nEsse estudante respondeu corretamente à pergunta da professora.\nAs posições indicadas pelo estudante foram",
       subItens: []
     },
     options: [
@@ -1179,11 +1179,11 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Uma caneca com água fervendo é retirada de um forno de micro-ondas. A temperatura T, em grau Celsius, da caneca, em função do tempo t, em minuto, pode ser modelada pela função T(t) = a + 80 * b^t, representada no gráfico a seguir.\n[Imagem: Gráfico de temperatura (em grau Celsius) versus tempo (em minuto). A curva decresce de 100 °C em t=0 e se aproxima de 40 °C conforme o tempo avança.]\nOs valores das constantes a e b são",
+      principal: "Uma caneca com água fervendo é retirada de um forno de micro-ondas. A temperatura T, em grau Celsius, da caneca, em função do tempo t, em minuto, pode ser modelada pela função T(t) = a + 80 * $b^t$, representada no gráfico a seguir.\n[Imagem: Gráfico de temperatura (em grau Celsius) versus tempo (em minuto). A curva decresce de 100 °C em t=0 e se aproxima de 40 °C conforme o tempo avança.]\nOs valores das constantes a e b são",
       subItens: []
     },
     options: [
-      "a = 20; b = log(0,5)",
+      "a = 20; b = $\\log$(0,5)",
       "a = 100; b = 0,5",
       "a = 20; b = (0,5)^10",
       "a = 20; b = (40)^10 / 80",
@@ -1389,7 +1389,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Em uma loja de defensivos agrícolas, os preços de alguns produtos foram divulgados em um cartaz.\n[Imagem: Anúncio de promoção de defensivos agrícolas: 'Compre pelo menos 35 litros de defensivos do TIPO A e ganhe a máscara para aplicação.' Preços: Defensivo Tipo A - R$ 4,20/litro; Defensivo Tipo B - R$ 3,00/litro; Máscara para aplicação - R$ 12,50.]\nSabe-se que 1 litro de defensivo do Tipo A é suficiente para aplicação em 0,5 hectare (ha), enquanto que 1 litro de defensivo do Tipo B é suficiente para aplicação em 0,4 ha. Um agricultor precisa comprar, nessa loja, uma quantidade de litros de defensivo suficiente para aplicar em uma área de 20 ha, além de levar uma máscara para aplicação.\nO valor mínimo, em real, a ser gasto pelo agricultor é",
+      principal: "Em uma loja de defensivos agrícolas, os preços de alguns produtos foram divulgados em um cartaz.\n[Imagem: Anúncio de promoção de defensivos agrícolas: 'Compre pelo menos 35 litros de defensivos do TIPO A e ganhe a máscara para aplicação.' Preços: Defensivo Tipo A - R$ 4,$20/litro$; Defensivo Tipo B - R$ 3,$00/litro$; Máscara para aplicação - R$ 12,50.]\nSabe-se que 1 litro de defensivo do Tipo A é suficiente para aplicação em 0,5 hectare (ha), enquanto que 1 litro de defensivo do Tipo B é suficiente para aplicação em 0,4 ha. Um agricultor precisa comprar, nessa loja, uma quantidade de litros de defensivo suficiente para aplicar em uma área de 20 ha, além de levar uma máscara para aplicação.\nO valor mínimo, em real, a ser gasto pelo agricultor é",
       subItens: []
     },
     options: [
@@ -1452,7 +1452,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na sua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura.\n[Imagem: Desenho em perspectiva de um tanque em formato de paralelepípedo, dividido em três seções por dois anteparos verticais de diferentes alturas (H/2 e H/4), com uma entrada para abastecimento no topo.]\nEsses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três retângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido por uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias 12 horas para finalizar o seu enchimento.\nO gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas ao longo do enchimento do tanque, é",
+      principal: "Um tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na sua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura.\n[Imagem: Desenho em perspectiva de um tanque em formato de paralelepípedo, dividido em três seções por dois anteparos verticais de diferentes alturas ($H/2$ e $H/4$), com uma entrada para abastecimento no topo.]\nEsses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três retângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido por uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias 12 horas para finalizar o seu enchimento.\nO gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas ao longo do enchimento do tanque, é",
       subItens: []
     },
     options: [
@@ -1536,7 +1536,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Para melhorar o fluxo de ônibus em uma avenida que tem dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de 15 segundos a cada 60 segundos. Admita que o instante de chegada de um ônibus a cada semáforo é aleatório. O engenheiro de tráfego da prefeitura calculou a probabilidade de um ônibus encontrar cada um deles vermelho, obtendo 15/60. A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundo, em que cada sinal ficará vermelho, de maneira que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a 4/100, considerando os eventos independentes.\nPara isso, a redução do tempo em que o sinal ficará vermelho, em segundo, estabelecida pelo engenheiro foi de",
+      principal: "Para melhorar o fluxo de ônibus em uma avenida que tem dois semáforos, a prefeitura reduzirá o tempo em que cada sinal ficará vermelho, que atualmente é de 15 segundos a cada 60 segundos. Admita que o instante de chegada de um ônibus a cada semáforo é aleatório. O engenheiro de tráfego da prefeitura calculou a probabilidade de um ônibus encontrar cada um deles vermelho, obtendo $15/60$. A partir daí, estabeleceu uma mesma redução na quantidade do tempo, em segundo, em que cada sinal ficará vermelho, de maneira que a probabilidade de um ônibus encontrar ambos os sinais vermelhos numa mesma viagem seja igual a $4/100$, considerando os eventos independentes.\nPara isso, a redução do tempo em que o sinal ficará vermelho, em segundo, estabelecida pelo engenheiro foi de",
       subItens: []
     },
     options: [
@@ -1561,11 +1561,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "d(Q) = 1/4 d(R)",
-      "d(Q) = 1/2 d(R)",
-      "d(Q) = 3/4 d(R)",
-      "d(Q) = 3/2 d(R)",
-      "d(Q) = 2/3 d(R)"
+      "d(Q) = $1/4$ d(R)",
+      "d(Q) = $1/2$ d(R)",
+      "d(Q) = $3/4$ d(R)",
+      "d(Q) = $3/2$ d(R)",
+      "d(Q) = $2/3$ d(R)"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1578,7 +1578,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Atualmente, há telefones celulares com telas de diversos tamanhos e em formatos retangulares. Alguns deles apresentam telas medindo 3 1/2 polegadas, com determinadas especificações técnicas. Além disso, em muitos modelos, com a inclusão de novas funções no celular, suas telas ficaram maiores, sendo muito comum encontrarmos atualmente telas medindo 4 5/6 polegadas, conforme a figura.\n[Imagem: Duas ilustrações de celulares, 'Celular 1' com tela de 3 1/2 polegadas e 'Celular 2' com tela de 4 5/6 polegadas.]\nDisponível em: www.tecmundo.com.br. Acesso em: 5 nov. 2014 (adaptado).\nA diferença de tamanho, em valor absoluto, entre as medidas, em polegada, das telas do celular 2 e do celular 1, representada apenas com uma casa decimal, é",
+      principal: "Atualmente, há telefones celulares com telas de diversos tamanhos e em formatos retangulares. Alguns deles apresentam telas medindo 3 $1/2$ polegadas, com determinadas especificações técnicas. Além disso, em muitos modelos, com a inclusão de novas funções no celular, suas telas ficaram maiores, sendo muito comum encontrarmos atualmente telas medindo 4 $5/6$ polegadas, conforme a figura.\n[Imagem: Duas ilustrações de celulares, 'Celular 1' com tela de 3 $1/2$ polegadas e 'Celular 2' com tela de 4 $5/6$ polegadas.]\nDisponível em: www.tecmundo.com.br. Acesso em: 5 nov. 2014 (adaptado).\nA diferença de tamanho, em valor absoluto, entre as medidas, em polegada, das telas do celular 2 e do celular 1, representada apenas com uma casa decimal, é",
       subItens: []
     },
     options: [
@@ -1624,11 +1624,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/25 + 1/25 + 1/25",
-      "24/25 + 23/24 + 1/23",
-      "1/25 * 1/24 * 1/23",
-      "24/25 * 23/25 * 1/25",
-      "24/25 * 23/24 * 1/23"
+      "$1/25$ + $1/25$ + $1/25$",
+      "$24/25$ + $23/24$ + $1/23$",
+      "$1/25$ * $1/24$ * $1/23$",
+      "$24/25$ * $23/25$ * $1/25$",
+      "$24/25$ * $23/24$ * $1/23$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1641,7 +1641,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes M1 e M2, medidos segundo a escala Richter, e liberaram energias iguais a E1 e E2, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por M2 - M1 = (2/3) log (E2/E1).\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M1 = 6,9 e a energia liberada foi um décimo da observada no segundo terremoto.\nO valor aproximado da magnitude M2 do segundo terremoto, expresso com uma casa decimal, é igual a",
+      principal: "Em uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram magnitudes M1 e M2, medidos segundo a escala Richter, e liberaram energias iguais a E1 e E2, respectivamente. Entre os estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por M2 - M1 = ($2/3$) $\\log$ ($E2/E1$).\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M1 = 6,9 e a energia liberada foi um décimo da observada no segundo terremoto.\nO valor aproximado da magnitude M2 do segundo terremoto, expresso com uma casa decimal, é igual a",
       subItens: []
     },
     options: [
@@ -1683,7 +1683,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que partem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9000 metros, e o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem diferentes partes do trecho, conforme o esquema.\n[Imagem: Esquema de uma via com 'Terminal 1' e 'Terminal 2', dividida em 5 segmentos (I, II, III, IV, V), com os respectivos alcances de cada câmera: câmera I: 1/5 do percurso; câmera II: 3/10 do percurso; câmera III: 1/10 do percurso; câmera IV: 1/10 do percurso; câmera V: 3/10 do percurso.]\nEm determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de 250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min.\nQual câmera registra o momento em que os ônibus A e B se encontram?",
+      principal: "Um aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que partem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9000 metros, e o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem diferentes partes do trecho, conforme o esquema.\n[Imagem: Esquema de uma via com 'Terminal 1' e 'Terminal 2', dividida em 5 segmentos (I, II, III, IV, V), com os respectivos alcances de cada câmera: câmera I: $1/5$ do percurso; câmera II: $3/10$ do percurso; câmera III: $1/10$ do percurso; câmera IV: $1/10$ do percurso; câmera V: $3/10$ do percurso.]\nEm determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de 250 $m/min$; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 $m/min$.\nQual câmera registra o momento em que os ônibus A e B se encontram?",
       subItens: []
     },
     options: [
@@ -1704,7 +1704,7 @@ createQuestion({
     university: "enem",
     year: 2024,
     text: {
-      principal: "Uma empresa tem 400 funcionários, distribuídos em três setores: administrativo, logística e produção. O gráfico apresenta a distribuição quantitativa desses funcionários, por setor e por faixa etária.\n[Imagem: Gráfico de barras empilhadas que mostra a quantidade de funcionários por setor (Administrativo, Logística, Produção) e por faixa etária (Até 25 anos, Entre 25 e 45 anos, A partir de 45 anos), com as quantidades absolutas e porcentagens de cada grupo.]\nUma viagem de férias será sorteada entre esses funcionários, de forma que todos terão igual probabilidade de serem sorteados.\nA maior probabilidade é que o funcionário sorteado esteja na faixa etária",
+      principal: "Uma empresa tem 400 funcionários, distribuídos em três setores: administrativo, $\\log$ística e produção. O gráfico apresenta a distribuição quantitativa desses funcionários, por setor e por faixa etária.\n[Imagem: Gráfico de barras empilhadas que mostra a quantidade de funcionários por setor (Administrativo, $\\log$ística, Produção) e por faixa etária (Até 25 anos, Entre 25 e 45 anos, A partir de 45 anos), com as quantidades absolutas e porcentagens de cada grupo.]\nUma viagem de férias será sorteada entre esses funcionários, de forma que todos terão igual probabilidade de serem sorteados.\nA maior probabilidade é que o funcionário sorteado esteja na faixa etária",
       subItens: []
     },
     options: [

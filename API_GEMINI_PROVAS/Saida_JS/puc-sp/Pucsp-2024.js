@@ -3,7 +3,7 @@ createQuestion({
     university: "puc-sp",
     year: 2024,
     text: {
-      principal: "O nível de intensidade sonora, β, medido em decibéis (dB), em homenagem a Alexandre Graham Bell (1847-1922), é definido em escala logarítmica [...] pelo fato de que o ser humano possui a particularidade de que sua sensibilidade varia linearmente enquanto o estímulo respectivo varia exponencialmente. Isso significa que o ouvido só percebe variações de intensidade como lineares se as amplitudes variarem exponencialmente.\nO nível de intensidade sonora ẞ é dado por: B = 10log (1). Nessa função logarítmica, I e lo são intensidades sonoras, em W/m². E [...] Io = 10-12 W/m², que equivale à mínima intensidade sonora audível para um ser humano.\nFonte: SOARES, Diogo Oliveira. Logaritmos e função logarítmica na Matemática Escolar Brasileira. 2017. 98 f. Dissertação (Mestrado Profissional em Ensino de Matemática) - Instituto de Matemática e Estatística, Universidade de São Paulo, São Paulo, 2017. p. 66. (adaptado).\nConsiderando as informações apresentadas no texto, o nível de intensidade sonora de uma fonte cuja intensidade produzida é de 103 W/m² é, em decibéis, de",
+      principal: "O nível de intensidade sonora, β, medido em decibéis (dB), em homenagem a Alexandre Graham Bell (1847-1922), é definido em escala logarítmica [...] pelo fato de que o ser humano possui a particularidade de que sua sensibilidade varia linearmente enquanto o estímulo respectivo varia exponencialmente. Isso significa que o ouvido só percebe variações de intensidade como lineares se as amplitudes variarem exponencialmente.\nO nível de intensidade sonora ẞ é dado por: B = 10log (1). Nessa função logarítmica, I e lo são intensidades sonoras, em $W/m$². E [...] Io = 10-12 $W/m$², que equivale à mínima intensidade sonora audível para um ser humano.\nFonte: SOARES, Diogo Oliveira. Logaritmos e função logarítmica na Matemática Escolar Brasileira. 2017. 98 f. Dissertação (Mestrado Profissional em Ensino de Matemática) - Instituto de Matemática e Estatística, Universidade de São Paulo, São Paulo, 2017. p. 66. (adaptado).\nConsiderando as informações apresentadas no texto, o nível de intensidade sonora de uma fonte cuja intensidade produzida é de 103 $W/m$² é, em decibéis, de",
       subItens: []
     },
     options: [
@@ -192,7 +192,7 @@ createQuestion({
     university: "puc-sp",
     year: 2024,
     text: {
-      principal: "A exposição ambiental ao metilmercúrio (MeHg) via cadeia alimentar é preocupante, uma vez que esse metal apresenta alta toxicidade e capacidade de sofrer biomagnificação ao longo das cadeias tróficas. Para avaliar esse fenômeno, pesquisadores realizaram coletas de espécies na Baía de Guanabara e mediram suas concentrações de metilmercúrio. Os resultados estão expostos no quadro.\n[Table: Organismo, Hábito alimentar, [MeHg] (µg/kg)]\nOs resultados demonstram que, dentre as analisadas, a espécie que ocupa o maior nível trófico é a",
+      principal: "A exposição ambiental ao metilmercúrio (MeHg) via cadeia alimentar é preocupante, uma vez que esse metal apresenta alta toxicidade e capacidade de sofrer biomagnificação ao longo das cadeias tróficas. Para avaliar esse fenômeno, pesquisadores realizaram coletas de espécies na Baía de Guanabara e mediram suas concentrações de metilmercúrio. Os resultados estão expostos no quadro.\n[Table: Organismo, Hábito alimentar, [MeHg] (µ$g/kg$)]\nOs resultados demonstram que, dentre as analisadas, a espécie que ocupa o maior nível trófico é a",
       subItens: []
     },
     options: [
@@ -276,7 +276,7 @@ createQuestion({
     university: "puc-sp",
     year: 2024,
     text: {
-      principal: "Para realizar um determinado percurso, um ciclista deu nove pedaladas completas usando uma bicicleta de marchas com o câmbio cruzado, que consiste em utilizar o menor câmbio do passador esquerdo, que define a coroa, e o câmbio de maior diâmetro do direito, que define a catraca (conectada concentricamente ao pneu traseiro). A figura a seguir mostra os dois sistemas de engrenagens da bicicleta, que são conectados entre si por uma corrente, e os tamanhos de alguns dos câmbios:\n[Image showing bicycle gears, Coroas (3rd, 2nd, 1st câmbio) and Catracas (9th, 1st câmbio), with D and D/2 indicated]\nAo final do percurso, a roda traseira da bicicleta terá dado um número de voltas completas igual a",
+      principal: "Para realizar um determinado percurso, um ciclista deu nove pedaladas completas usando uma bicicleta de marchas com o câmbio cruzado, que consiste em utilizar o menor câmbio do passador esquerdo, que define a coroa, e o câmbio de maior diâmetro do direito, que define a catraca (conectada concentricamente ao pneu traseiro). A figura a seguir mostra os dois sistemas de engrenagens da bicicleta, que são conectados entre si por uma corrente, e os tamanhos de alguns dos câmbios:\n[Image showing bicycle gears, Coroas (3rd, 2nd, 1st câmbio) and Catracas (9th, 1st câmbio), with D and $D/2$ indicated]\nAo final do percurso, a roda traseira da bicicleta terá dado um número de voltas completas igual a",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "puc-sp",
     year: 2024,
     text: {
-      principal: "Os óleos vegetais são gorduras extraídas das plantas. Apesar de outras partes, como raízes, galhos e folhas, poderem ser utilizadas na obtenção do óleo vegetal, a extração se dá quase que exclusivamente a partir de semente oleaginosa. Os óleos são formados por trigliceróis (que é a união de três ácidos graxos a uma molécula de glicerol) e, por isso, têm natureza química apolar. A diversidade de fontes de óleos vegetais leva a uma grande variabilidade dos percentuais de extração. As tecnologias usuais são as de extração por prensagem mecânica, com escalas e ordens de investimento menores, e de extração química, com escalas e investimentos maiores, que utilizam solventes para isso, já as mais avançadas realizam a extração utilizando fluido supercrítico e enzimas.\nFonte: CONHEÇA as técnicas de extração de óleos vegetais. Ecycle. Disponível em: https://www.ecycle.com.br/extracao-de-oleos-vegetais/. Acesso em: 9 out. 2023. (adaptado).\nNo processo de extração química, o solvente de cadeia curta mais adequado é um composto da função orgânica",
+      principal: "Os óleos vegetais são gorduras extraídas das plantas. Apesar de outras partes, como raízes, galhos e folhas, poderem ser utilizadas na obtenção do óleo vegetal, a extração se dá quase que exclusivamente a partir de semente oleaginosa. Os óleos são formados por trigliceróis (que é a união de três ácidos graxos a uma molécula de glicerol) e, por isso, têm natureza química apolar. A diversidade de fontes de óleos vegetais leva a uma grande variabilidade dos percentuais de extração. As tecnologias usuais são as de extração por prensagem mecânica, com escalas e ordens de investimento menores, e de extração química, com escalas e investimentos maiores, que utilizam solventes para isso, já as mais avançadas realizam a extração utilizando fluido supercrítico e enzimas.\nFonte: CONHEÇA as técnicas de extração de óleos vegetais. Ecycle. Disponível em: https://www.ecycle.com.$br/extracao$-de-oleos-vegetais/. Acesso em: 9 out. 2023. (adaptado).\nNo processo de extração química, o solvente de cadeia curta mais adequado é um composto da função orgânica",
       subItens: []
     },
     options: [
@@ -343,11 +343,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "duas pilhas Zn/Cu conectadas em paralelo.",
-      "três pilhas Zn/Cu conectadas em paralelo.",
-      "quatro pilhas Zn/Cu conectadas em série.",
-      "duas pilhas Zn/Cu conectadas em série.",
-      "três pilhas Zn/Cu conectadas em série."
+      "duas pilhas $Zn/Cu$ conectadas em paralelo.",
+      "três pilhas $Zn/Cu$ conectadas em paralelo.",
+      "quatro pilhas $Zn/Cu$ conectadas em série.",
+      "duas pilhas $Zn/Cu$ conectadas em série.",
+      "três pilhas $Zn/Cu$ conectadas em série."
     ],
     correctAnswer: 3,
     materia: ["Química", "Física"],
@@ -465,7 +465,7 @@ createQuestion({
     university: "puc-sp",
     year: 2024,
     text: {
-      principal: "Em meio à onda de calor que afeta quase todo o país, o Amazonas enfrenta uma estiagem histórica. Dos 62 municípios do estado, 59 sofrem com a seca dos rios.\nNa imagem ao lado, uma canoa navega pelo Rio Negro com níveis de água muito baixos, no Distrito de Cacau Pirera, em Iranduba, no Amazonas, em 25 de setembro de 2023.\n[Image of a canoe on a very low river level]\nFonte: ALVES, Renato. Seca histórica no Amazonas [...]. O tempo, 26 set. 2023. Disponível em: https://www.otempo.com.br/politica/governo/ seca-historica-no-amazonas[...]. Acesso em: 11 out. 2023. (adaptado).\nA situação retratada na reportagem ocasiona problemas logísticos que afetam diretamente as populações ribeirinhas, pois prejudicam o(a)",
+      principal: "Em meio à onda de calor que afeta quase todo o país, o Amazonas enfrenta uma estiagem histórica. Dos 62 municípios do estado, 59 sofrem com a seca dos rios.\nNa imagem ao lado, uma canoa navega pelo Rio Negro com níveis de água muito baixos, no Distrito de Cacau Pirera, em Iranduba, no Amazonas, em 25 de setembro de 2023.\n[Image of a canoe on a very low river level]\nFonte: ALVES, Renato. Seca histórica no Amazonas [...]. O tempo, 26 set. 2023. Disponível em: https://www.otempo.com.br/politica/governo/ seca-historica-no-amazonas[...]. Acesso em: 11 out. 2023. (adaptado).\nA situação retratada na reportagem ocasiona problemas $\\log$ísticos que afetam diretamente as populações ribeirinhas, pois prejudicam o(a)",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "puc-sp",
     year: 2024,
     text: {
-      principal: "TEXTO I\nO Censo Agropecuário de 2017 contou com 5 milhões de estabelecimentos agropecuários que perfazem 350,2 milhões de hectares. Desses, os estabelecimentos com mais de 1.000 hectares são 1% dos estabelecimentos e englobam 47,5% das terras. Por outro lado, há um grande número de estabelecimentos cuja área é extremamente pequena: aqueles com menos de 5 hectares, mesmo sendo 37,3% dos estabelecimentos, ocupam somente 0,98% da área. Os produtores sem área específica eram 76.671 em 2017.\nFonte: BRASIL. Estrutura Fundiária. In: BRASIL. Atlas do espaço rural brasileiro. 2. ed. Rio de Janeiro: IBGE, 2020. p. 47. (adaptado).\nTEXTO II\nConflitos no campo bateram recorde em 2020, aponta levantamento\nUm levantamento feito pela Comissão Pastoral da Terra (CPT) e divulgado nesta segunda-feira (31/5) apontou que em 2020 o número de conflitos fundiários bateu recorde no país, com 2.054 ocorrências, aumento de 8% ante o observado em 2019. Desse total, 1.576 ocorrências envolveram diretamente disputa por terras, aumento de 25% na mesma comparação sendo quase metade deles relacionados a povos indígenas (656 ocorrências).\nFonte: CONFLITOS no campo bateram recorde em 2020. Globo Rural, 31 maio 2021. Disponível em: https://globorural.globo.com/Noticias/Politica/noticia/2021/05/conflitos-no- campo-bateram-recorde-em-2020-aponta-levantamento.html. Acesso em: 18 out. 2023. (adaptado).\nConsiderando a estrutura fundiária apresentada no Texto I, infere-se que os conflitos noticiados no Texto II estão relacionados",
+      principal: "TEXTO I\nO Censo Agropecuário de 2017 contou com 5 milhões de estabelecimentos agropecuários que perfazem 350,2 milhões de hectares. Desses, os estabelecimentos com mais de 1.000 hectares são 1% dos estabelecimentos e englobam 47,5% das terras. Por outro lado, há um grande número de estabelecimentos cuja área é extremamente pequena: aqueles com menos de 5 hectares, mesmo sendo 37,3% dos estabelecimentos, ocupam somente 0,98% da área. Os produtores sem área específica eram 76.671 em 2017.\nFonte: BRASIL. Estrutura Fundiária. In: BRASIL. Atlas do espaço rural brasileiro. 2. ed. Rio de Janeiro: IBGE, 2020. p. 47. (adaptado).\nTEXTO II\nConflitos no campo bateram recorde em 2020, aponta levantamento\nUm levantamento feito pela Comissão Pastoral da Terra (CPT) e divulgado nesta segunda-feira ($31/5$) apontou que em 2020 o número de conflitos fundiários bateu recorde no país, com 2.054 ocorrências, aumento de 8% ante o observado em 2019. Desse total, 1.576 ocorrências envolveram diretamente disputa por terras, aumento de 25% na mesma comparação sendo quase metade deles relacionados a povos indígenas (656 ocorrências).\nFonte: CONFLITOS no campo bateram recorde em 2020. Globo Rural, 31 maio 2021. Disponível em: https://globorural.globo.com/Noticias/Politica/noticia/2021/05/conflitos-no- campo-bateram-recorde-em-2020-aponta-levantamento.html. Acesso em: 18 out. 2023. (adaptado).\nConsiderando a estrutura fundiária apresentada no Texto I, infere-se que os conflitos noticiados no Texto II estão relacionados",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "puc-sp",
     year: 2024,
     text: {
-      principal: "Duarte observou que o processo de subducção está ocorrendo em uma escala de até cinco milhões de anos e provavelmente continuará por talvez 10 milhões de anos. [...] Para o geólogo, a descoberta da nova zona de subducção – na área entre a placa africana e a placa eurasiana – não deve ser motivo de alarme. O processo de subducção gera uma divisão horizontal na crosta. As placas têm duas camadas e, devido à subducção, a camada inferior afunda sob outra placa – mas a camada superior permanece na superfície para evitar uma brecha. Em outras palavras, a placa está “descascando”. A subducção ocorre no fundo do mar, a mais de 200 km do Cabo de São Vicente, no extremo sul de Portugal.\nFonte: MARTINS, Alejandra. Como Portugal teve terremotos tão fortes mesmo estando longe das grandes falhas geológicas?. BBC News, 16 maio 2019. Disponível em: https://www.bbc.com/ portuguese/geral-48236102. Acesso em: 18 nov. 2023. (adaptado).\nCom base no texto, o fenômeno geológico definido é resultante dos(as)",
+      principal: "Duarte observou que o processo de subducção está ocorrendo em uma escala de até cinco milhões de anos e provavelmente continuará por talvez 10 milhões de anos. [...] Para o geólogo, a descoberta da nova zona de subducção – na área entre a placa africana e a placa eurasiana – não deve ser motivo de alarme. O processo de subducção gera uma divisão horizontal na crosta. As placas têm duas camadas e, devido à subducção, a camada inferior afunda sob outra placa – mas a camada superior permanece na superfície para evitar uma brecha. Em outras palavras, a placa está “descascando”. A subducção ocorre no fundo do mar, a mais de 200 km do Cabo de São Vicente, no extremo sul de Portugal.\nFonte: MARTINS, Alejandra. Como Portugal teve terremotos tão fortes mesmo estando longe das grandes falhas geológicas?. BBC News, 16 maio 2019. Disponível em: https://www.bbc.com/ $portuguese/geral$-48236102. Acesso em: 18 nov. 2023. (adaptado).\nCom base no texto, o fenômeno geológico definido é resultante dos(as)",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "puc-sp",
     year: 2024,
     text: {
-      principal: "Studies have shown that social media use is associated with lower self-esteem, body dissatisfaction, and comparison with others. Social media influencers often promote an unrealistic standard of beauty that can impact the way young people view themselves. It can also be a breeding ground for cyberbullying and other negative social interactions. We see many influencers and other users checking the engagement on their last post which is not healthy. Not receiving the amount of praise you thought would start to negatively impact people. It is important for young people to be aware of the impact social media can have on their self-esteem and to make healthy choices about their social media use.\nFonte: MILLER, Chase. Social Media Influencers: Their Impact on Youth. Young Entertainment Magazine, 17 ago. 2022. Disponível em: https://youngentertainmentmag.com/social- media-influencers-impact-youth/. Acesso em: 8 out. 2023. (adaptado).\nO texto anterior tem como principal finalidade",
+      principal: "Studies have shown that social media use is associated with lower self-esteem, body dissatisfaction, and comparison with others. Social media influencers often promote an unrealistic standard of beauty that can impact the way young people view themselves. It can also be a breeding ground for cyberbullying and other negative social interactions. We see many influencers and other users checking the engagement on their last post which is not healthy. Not receiving the amount of praise you thought would start to negatively impact people. It is important for young people to be aware of the impact social media can have on their self-esteem and to make healthy choices about their social media use.\nFonte: MILLER, Chase. Social Media Influencers: Their Impact on Youth. Young Entertainment Magazine, 17 ago. 2022. Disponível em: https://youngentertainmentmag.$com/social$- media-influencers-impact-youth/. Acesso em: 8 out. 2023. (adaptado).\nO texto anterior tem como principal finalidade",
       subItens: []
     },
     options: [

@@ -363,7 +363,7 @@ createQuestion({
     university: "uerj",
     year: 2023,
     text: {
-      principal: "O sistema solar é formado por planetas que apresentam diferentes acelerações da gravidade. Admita que um corpo é solto em queda livre na Terra a uma altura h e atinge a superfície do planeta com velocidade de 5 m/s. Admita ainda um planeta P, também do sistema solar, em que o mesmo corpo é solto, à mesma altura h, e atinge velocidade final de 8 m/s. Sabe-se que o quadrado da velocidade com a qual um corpo em queda livre atinge a superfície é diretamente proporcional à aceleração da gravidade do planeta. Considere os valores aproximados apresentados na tabela:\nPLANETA | ACELERAÇÃO DA GRAVIDADE (m/s²)\nJúpiter | 25\nMarte | 4\nNetuno | 11\nTerra | 10\nVênus | 9\nCom base nessas informações, o planeta que apresenta a aceleração da gravidade mais próxima à do planeta P é:",
+      principal: "O sistema solar é formado por planetas que apresentam diferentes acelerações da gravidade. Admita que um corpo é solto em queda livre na Terra a uma altura h e atinge a superfície do planeta com velocidade de 5 $m/s$. Admita ainda um planeta P, também do sistema solar, em que o mesmo corpo é solto, à mesma altura h, e atinge velocidade final de 8 $m/s$. Sabe-se que o quadrado da velocidade com a qual um corpo em queda livre atinge a superfície é diretamente proporcional à aceleração da gravidade do planeta. Considere os valores aproximados apresentados na tabela:\nPLANETA | ACELERAÇÃO DA GRAVIDADE ($m/s$²)\nJúpiter | 25\nMarte | 4\nNetuno | 11\nTerra | 10\nVênus | 9\nCom base nessas informações, o planeta que apresenta a aceleração da gravidade mais próxima à do planeta P é:",
       subItens: []
     },
     options: [
@@ -383,14 +383,14 @@ createQuestion({
     university: "uerj",
     year: 2023,
     text: {
-      principal: "Observe o ângulo central α do círculo trigonométrico a seguir:\n[Imagem de um círculo trigonométrico com um ângulo α no primeiro quadrante.]\nAdmitindo que 0 ≤ α < π/2 e cos α = 4/5, o valor de sen (2π – α) é igual a:",
+      principal: "Observe o ângulo central α do círculo trigonométrico a seguir:\n[Imagem de um círculo trigonométrico com um ângulo α no primeiro quadrante.]\nAdmitindo que 0 ≤ α < π/2 e $\\cos$ α = $4/5$, o valor de $\\sin$ (2π – α) é igual a:",
       subItens: []
     },
     options: [
-      "3/5",
-      "1/2",
-      "-3/5",
-      "-1/2"
+      "$3/5$",
+      "$1/2$",
+      "-$3/5$",
+      "-$1/2$"
     ],
     correctAnswer: 2,
     materia: ["Matemática", "Círculo Trigonométrico"],
@@ -427,10 +427,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/6",
-      "1/5",
-      "1/4",
-      "1/3"
+      "$1/6$",
+      "$1/5$",
+      "$1/4$",
+      "$1/3$"
     ],
     correctAnswer: 0,
     materia: ["Matemática", "Volume de Pirâmides"],
@@ -443,7 +443,7 @@ createQuestion({
     university: "uerj",
     year: 2023,
     text: {
-      principal: "Considere a seguinte equação: x + x/3 + x/9 + ... = 18, x ∈ R\nSabendo que o primeiro membro dessa equação é a soma dos termos de uma progressão geométrica infinita, o valor de x é igual a:",
+      principal: "Considere a seguinte equação: x + $x/3$ + $x/9$ + ... = 18, x ∈ R\nSabendo que o primeiro membro dessa equação é a soma dos termos de uma progressão geométrica infinita, o valor de x é igual a:",
       subItens: []
     },
     options: [
@@ -487,10 +487,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "7/18",
-      "11/18",
-      "7/36",
-      "11/36"
+      "$7/18$",
+      "$11/18$",
+      "$7/36$",
+      "$11/36$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -703,7 +703,7 @@ createQuestion({
     university: "uerj",
     year: 2023,
     text: {
-      principal: "Ao longo de uma estrada retilínea, um automóvel trafega durante certo intervalo de tempo, variando sua velocidade V linearmente em função do tempo t, como representado no gráfico.\n[Gráfico de velocidade (m/s) em função do tempo (s). A velocidade aumenta linearmente de 0 m/s em t=0s para 24 m/s em t=15s.]\nNo intervalo de tempo compreendido entre t = 0 e t = 15 s, a velocidade média do automóvel, em m/s, é igual a:",
+      principal: "Ao longo de uma estrada retilínea, um automóvel trafega durante certo intervalo de tempo, variando sua velocidade V linearmente em função do tempo t, como representado no gráfico.\n[Gráfico de velocidade ($m/s$) em função do tempo (s). A velocidade aumenta linearmente de 0 $m/s$ em t=0s para 24 $m/s$ em t=15s.]\nNo intervalo de tempo compreendido entre t = 0 e t = 15 s, a velocidade média do automóvel, em $m/s$, é igual a:",
       subItens: []
     },
     options: [
@@ -743,7 +743,7 @@ createQuestion({
     university: "uerj",
     year: 2023,
     text: {
-      principal: "Para um experimento de estudo das leis de Newton, um recipiente com massa de 100 kg foi colocado sobre um carrinho em uma superfície plana. Três grupos de pessoas exerceram forças distintas sobre esse sistema, conforme representado na imagem I. As forças aplicadas sobre o mesmo sistema visto de cima estão representadas na imagem II.\n[Imagem I: Ilustração de um carrinho com três pessoas exercendo forças em diferentes direções. Imagem II: Diagrama vetorial das forças em um plano cartesiano. Forças de 40 N (horizontal), 90 N (vertical para baixo) e 160 N (vertical para cima, parece que se opõe a 90N, mas na imagem II são em x e y, uma 40N no x+, uma 90N no y- e uma 160N no x+).] (Revisando a imagem II, as forças são: uma de 40N no sentido positivo do eixo x, uma de 160N no sentido positivo do eixo x e uma de 90N no sentido negativo do eixo y.)\nConsiderando apenas a força resultante exercida pelos três grupos, o módulo da aceleração, em m/s², que atua sobre o recipiente é igual a:",
+      principal: "Para um experimento de estudo das leis de Newton, um recipiente com massa de 100 kg foi colocado sobre um carrinho em uma superfície plana. Três grupos de pessoas exerceram forças distintas sobre esse sistema, conforme representado na imagem I. As forças aplicadas sobre o mesmo sistema visto de cima estão representadas na imagem II.\n[Imagem I: Ilustração de um carrinho com três pessoas exercendo forças em diferentes direções. Imagem II: Diagrama vetorial das forças em um plano cartesiano. Forças de 40 N (horizontal), 90 N (vertical para baixo) e 160 N (vertical para cima, parece que se opõe a 90N, mas na imagem II são em x e y, uma 40N no x+, uma 90N no y- e uma 160N no x+).] (Revisando a imagem II, as forças são: uma de 40N no sentido positivo do eixo x, uma de 160N no sentido positivo do eixo x e uma de 90N no sentido negativo do eixo y.)\nConsiderando apenas a força resultante exercida pelos três grupos, o módulo da aceleração, em $m/s$², que atua sobre o recipiente é igual a:",
       subItens: []
     },
     options: [
@@ -763,7 +763,7 @@ createQuestion({
     university: "uerj",
     year: 2023,
     text: {
-      principal: "Em uma praça, uma criança com massa de 30 kg desce por um escorrega. A altura considerada do topo do escorrega até seu ponto mais baixo é de 2,0 m, como ilustra a figura a seguir.\n[Imagem de uma criança em um escorrega, com a altura do escorrega indicada como 2,0 m.]\nSabe-se que a aceleração da gravidade é igual a 10 m/s² e que, durante a descida da criança, ocorre uma perda de energia mecânica de 60%. Ao atingir o ponto mais baixo do escorrega, a velocidade da criança, em m/s, é igual a:",
+      principal: "Em uma praça, uma criança com massa de 30 kg desce por um escorrega. A altura considerada do topo do escorrega até seu ponto mais baixo é de 2,0 m, como ilustra a figura a seguir.\n[Imagem de uma criança em um escorrega, com a altura do escorrega indicada como 2,0 m.]\nSabe-se que a aceleração da gravidade é igual a 10 $m/s$² e que, durante a descida da criança, ocorre uma perda de energia mecânica de 60%. Ao atingir o ponto mais baixo do escorrega, a velocidade da criança, em $m/s$, é igual a:",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "uerj",
     year: 2023,
     text: {
-      principal: "A reação química entre metano e cloro molecular produz ácido clorídrico e diclorometano, sendo este segundo composto empregado como solvente em processos industriais. Os valores de energia de ligação envolvidos na reação estão apresentados na tabela a seguir.\nLIGAÇÃO | ENERGIA DE LIGAÇÃO (kJ/mol)\nC–H | 410\nCl–Cl | 240\nC–Cl | 330\nH–Cl | 430\nA energia, em quilojoules, liberada na formação de 1,0 mol de diclorometano é igual a:",
+      principal: "A reação química entre metano e cloro molecular produz ácido clorídrico e diclorometano, sendo este segundo composto empregado como solvente em processos industriais. Os valores de energia de ligação envolvidos na reação estão apresentados na tabela a seguir.\nLIGAÇÃO | ENERGIA DE LIGAÇÃO ($kJ/mol$)\nC–H | 410\nCl–Cl | 240\nC–Cl | 330\nH–Cl | 430\nA energia, em quilojoules, liberada na formação de 1,0 mol de diclorometano é igual a:",
       subItens: []
     },
     options: [
@@ -863,7 +863,7 @@ createQuestion({
     university: "uerj",
     year: 2023,
     text: {
-      principal: "Considere a reação de equilíbrio químico representada abaixo, que ocorre na atmosfera e envolve dois óxidos de nitrogênio: N2O4 (g) ⇌ 2 NO2 (g)\nA partir de um experimento, foram registradas as variações das concentrações desses óxidos em função do tempo. Observe o gráfico:\n[Gráfico mostrando a concentração (mol/L) de N2O4 e NO2 em função do tempo. N2O4 diminui de 0,042 para 0,030 e NO2 aumenta de 0 para 0,024 até o equilíbrio.]\nCom base nos dados obtidos, o valor da constante de equilíbrio em função das concentrações é igual a:",
+      principal: "Considere a reação de equilíbrio químico representada abaixo, que ocorre na atmosfera e envolve dois óxidos de nitrogênio: N2O4 (g) ⇌ 2 NO2 (g)\nA partir de um experimento, foram registradas as variações das concentrações desses óxidos em função do tempo. Observe o gráfico:\n[Gráfico mostrando a concentração ($mol/L$) de N2O4 e NO2 em função do tempo. N2O4 diminui de 0,042 para 0,030 e NO2 aumenta de 0 para 0,024 até o equilíbrio.]\nCom base nos dados obtidos, o valor da constante de equilíbrio em função das concentrações é igual a:",
       subItens: []
     },
     options: [
@@ -943,7 +943,7 @@ createQuestion({
     university: "uerj",
     year: 2023,
     text: {
-      principal: "Muitos nos círculos financeiros disseram que o esforço das indústrias americanas para reduzir suas cadeias de fornecimento e trazer a produção de volta para casa duraria pouco. Assim que a pandemia desse uma trégua, e as cadeias globais de logística e transporte voltassem a funcionar, a moda passaria, argumentavam. Mas, dois anos e meio depois do início da pandemia da covid-19, essa tendência parece estar mais forte do que nunca. Diante da guerra na Ucrânia e das levas mais recentes de lockdowns na China para conter novos surtos do coronavírus, nunca os executivos americanos mencionaram tanto os planos de realocar a produção de suas empresas. Em oposição ao offshoring, termo que ficou famoso nos anos de ouro da globalização como sinônimo de levar a fabricação de partes do produto ou até do item completo para subsidiárias em países de mão de obra mais barata – sobretudo a China –, o onshoring significa produzir no país onde o bem será consumido. Reshoring, por sua vez, é trazer de volta para o país de origem da empresa a produção que, no passado, estava em offshoring.\nAdaptado de oglobo.globo.com, 06/07/2022.\nA mudança na estratégia locacional das grandes corporações, mencionada na reportagem, tem como explicação a dificuldade em preservar algumas práticas do atual modelo produtivo. Uma dessas práticas está apontada em:",
+      principal: "Muitos nos círculos financeiros disseram que o esforço das indústrias americanas para reduzir suas cadeias de fornecimento e trazer a produção de volta para casa duraria pouco. Assim que a pandemia desse uma trégua, e as cadeias globais de $\\log$ística e transporte voltassem a funcionar, a moda passaria, argumentavam. Mas, dois anos e meio depois do início da pandemia da covid-19, essa tendência parece estar mais forte do que nunca. Diante da guerra na Ucrânia e das levas mais recentes de lockdowns na China para conter novos surtos do coronavírus, nunca os executivos americanos mencionaram tanto os planos de realocar a produção de suas empresas. Em oposição ao offshoring, termo que ficou famoso nos anos de ouro da globalização como sinônimo de levar a fabricação de partes do produto ou até do item completo para subsidiárias em países de mão de obra mais barata – sobretudo a China –, o onshoring significa produzir no país onde o bem será consumido. Reshoring, por sua vez, é trazer de volta para o país de origem da empresa a produção que, no passado, estava em offshoring.\nAdaptado de oglobo.globo.com, 06/07/2022.\nA mudança na estratégia locacional das grandes corporações, mencionada na reportagem, tem como explicação a dificuldade em preservar algumas práticas do atual modelo produtivo. Uma dessas práticas está apontada em:",
       subItens: []
     },
     options: [

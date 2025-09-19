@@ -3,7 +3,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "A toxicidade de algumas substâncias é normalmente representada por um índice conhecido como DL50 (dose letal mediana). Ele representa a dosagem aplicada a uma população de seres vivos que mata 50% desses indivíduos e é normalmente medido utilizando-se ratos como cobaias. Esse índice é muito importante para os seres humanos, pois ao se extrapolar os dados obtidos com o uso de cobaias, pode-se determinar o nível tolerável de contaminação de alimentos, para que possam ser consumidos de forma segura pelas pessoas. O quadro apresenta três pesticidas e suas toxicidades. A unidade mg/kg indica a massa da substância ingerida pela massa da cobaia.\n\nQuadro:\nPesticidas | DL50 (mg/kg)\nDiazinon | 70\nMalation | 1 000\nAtrazina | 3 100\n\nSessenta ratos, com massa de 200 g cada, foram divididos em três grupos de vinte. Três amostras de ração, contaminadas, cada uma delas com um dos pesticidas indicados no quadro, na concentração de 3 mg por grama de ração, foram administradas para cada grupo de cobaias. Cada rato consumiu 100 g de ração.\n\nQual(ais) grupo(s) terá(ão) uma mortalidade mínima de 10 ratos?",
+      principal: "A toxicidade de algumas substâncias é normalmente representada por um índice conhecido como DL50 (dose letal mediana). Ele representa a dosagem aplicada a uma população de seres vivos que mata 50% desses indivíduos e é normalmente medido utilizando-se ratos como cobaias. Esse índice é muito importante para os seres humanos, pois ao se extrapolar os dados obtidos com o uso de cobaias, pode-se determinar o nível tolerável de contaminação de alimentos, para que possam ser consumidos de forma segura pelas pessoas. O quadro apresenta três pesticidas e suas toxicidades. A unidade $mg/kg$ indica a massa da substância ingerida pela massa da cobaia.\n\nQuadro:\nPesticidas | DL50 ($mg/kg$)\nDiazinon | 70\nMalation | 1 000\nAtrazina | 3 100\n\nSessenta ratos, com massa de 200 g cada, foram divididos em três grupos de vinte. Três amostras de ração, contaminadas, cada uma delas com um dos pesticidas indicados no quadro, na concentração de 3 mg por grama de ração, foram administradas para cada grupo de cobaias. Cada rato consumiu 100 g de ração.\n\nQual(ais) grupo(s) terá(ão) uma mortalidade mínima de 10 ratos?",
       subItens: []
     },
     options: [
@@ -108,7 +108,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "Uma grande virada na moderna história da agricultura ocorreu depois da Segunda Guerra Mundial. Após a guerra, os governos haviam se deparado com um enorme excedente de nitrato de amônio, ingrediente usado na fabricação de explosivos. A partir daí as fábricas de munição foram adaptadas para começar a produzir fertilizantes tendo como componente principal os nitratos.\n\nFonte: SOUZA, F. A. Agricultura natural/orgânica como instrumento de fixação biológica e manutenção do nitrogênio no solo: um modelo sustentável de MDL. Disponível em: www.planetaorganico.com.br. Acesso em: 17 jul. 2015 (adaptado).\n\nNo ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na etapa de",
+      principal: "Uma grande virada na moderna história da agricultura ocorreu depois da Segunda Guerra Mundial. Após a guerra, os governos haviam se deparado com um enorme excedente de nitrato de amônio, ingrediente usado na fabricação de explosivos. A partir daí as fábricas de munição foram adaptadas para começar a produzir fertilizantes tendo como componente principal os nitratos.\n\nFonte: SOUZA, F. A. Agricultura $natural/org$ânica como instrumento de fixação biológica e manutenção do nitrogênio no solo: um modelo sustentável de MDL. Disponível em: www.planetaorganico.com.br. Acesso em: 17 jul. 2015 (adaptado).\n\nNo ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na etapa de",
       subItens: []
     },
     options: [
@@ -171,7 +171,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "Em uma colisão frontal entre dois automóveis, a força que o cinto de segurança exerce sobre o tórax e abdômen do motorista pode causar lesões graves nos órgãos internos. Pensando na segurança do seu produto, um fabricante de automóveis realizou testes em cinco modelos diferentes de cinto. Os testes simularam uma colisão de 0,30 segundo de duração, e os bonecos que representavam os ocupantes foram equipados com acelerômetros. Esse equipamento registra o módulo da desaceleração do boneco em função do tempo. Os parâmetros como massa dos bonecos, dimensões dos cintos e velocidade imediatamente antes e após o impacto foram os mesmos para todos os testes. O resultado final obtido está no gráfico de aceleração por tempo.\n\nGráfico: Aceleração (m/s²) versus Tempo (s)\nEixo X: Tempo (s) de 0,00 a 0,30\nEixo Y: Aceleração (m/s²) de 0 a 200\nO gráfico apresenta 5 curvas, Cinto 1 a Cinto 5, mostrando picos de aceleração em diferentes valores e tempos. Cinto 1 tem o pico mais alto (aprox. 180 m/s²). Cinto 2 tem o segundo menor pico (aprox. 80 m/s²). Cinto 3 tem o maior pico (aprox. 190 m/s²). Cinto 4 tem o menor pico (aprox. 60 m/s²). Cinto 5 tem o terceiro menor pico (aprox. 120 m/s²).\n\nQual modelo de cinto oferece menor risco de lesão interna ao motorista?",
+      principal: "Em uma colisão frontal entre dois automóveis, a força que o cinto de segurança exerce sobre o tórax e abdômen do motorista pode causar lesões graves nos órgãos internos. Pensando na segurança do seu produto, um fabricante de automóveis realizou testes em cinco modelos diferentes de cinto. Os testes simularam uma colisão de 0,30 segundo de duração, e os bonecos que representavam os ocupantes foram equipados com acelerômetros. Esse equipamento registra o módulo da desaceleração do boneco em função do tempo. Os parâmetros como massa dos bonecos, dimensões dos cintos e velocidade imediatamente antes e após o impacto foram os mesmos para todos os testes. O resultado final obtido está no gráfico de aceleração por tempo.\n\nGráfico: Aceleração ($m/s$²) versus Tempo (s)\nEixo X: Tempo (s) de 0,00 a 0,30\nEixo Y: Aceleração ($m/s$²) de 0 a 200\nO gráfico apresenta 5 curvas, Cinto 1 a Cinto 5, mostrando picos de aceleração em diferentes valores e tempos. Cinto 1 tem o pico mais alto (aprox. 180 $m/s$²). Cinto 2 tem o segundo menor pico (aprox. 80 $m/s$²). Cinto 3 tem o maior pico (aprox. 190 $m/s$²). Cinto 4 tem o menor pico (aprox. 60 $m/s$²). Cinto 5 tem o terceiro menor pico (aprox. 120 $m/s$²).\n\nQual modelo de cinto oferece menor risco de lesão interna ao motorista?",
       subItens: []
     },
     options: [
@@ -255,7 +255,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "Em uma linha de transmissão de informações por fibra óptica, quando um sinal diminui sua intensidade para valores inferiores a 10 dB, este precisa ser retransmitido. No entanto, intensidades superiores a 100 dB não podem ser transmitidas adequadamente. A figura apresenta como se dá a perda de sinal (perda óptica) para diferentes comprimentos de onda para certo tipo de fibra óptica.\n\nGráfico: Perda óptica (dB/km) versus Comprimento de onda (μm)\nEixo X: Comprimento de onda (μm) de 0,8 a 1,8\nEixo Y: Perda óptica (dB/km) de 0 a 6\nO gráfico mostra uma curva com perda óptica variando com o comprimento de onda, com um mínimo de perda em torno de 1,5 μm, onde a perda é de 0,1 dB/km.\n\nFonte: Atenuação e limitações das fibras ópticas. Disponível em: www.gta.ufrj.br. Acesso em: 25 maio 2017 (adaptado).\n\nQual é a máxima distância, em km, que um sinal pode ser enviado nessa fibra sem ser necessária uma retransmissão?",
+      principal: "Em uma linha de transmissão de informações por fibra óptica, quando um sinal diminui sua intensidade para valores inferiores a 10 dB, este precisa ser retransmitido. No entanto, intensidades superiores a 100 dB não podem ser transmitidas adequadamente. A figura apresenta como se dá a perda de sinal (perda óptica) para diferentes comprimentos de onda para certo tipo de fibra óptica.\n\nGráfico: Perda óptica ($dB/km$) versus Comprimento de onda (μm)\nEixo X: Comprimento de onda (μm) de 0,8 a 1,8\nEixo Y: Perda óptica ($dB/km$) de 0 a 6\nO gráfico mostra uma curva com perda óptica variando com o comprimento de onda, com um mínimo de perda em torno de 1,5 μm, onde a perda é de 0,1 $dB/km$.\n\nFonte: Atenuação e limitações das fibras ópticas. Disponível em: www.gta.ufrj.br. Acesso em: 25 maio 2017 (adaptado).\n\nQual é a máxima distância, em km, que um sinal pode ser enviado nessa fibra sem ser necessária uma retransmissão?",
       subItens: []
     },
     options: [
@@ -276,7 +276,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "A técnica do carbono-14 permite a datação de fósseis pela medição dos valores de emissão beta desse isótopo presente no fóssil. Para um ser em vida, o máximo são 15 emissões beta/(min g). Após a morte, a quantidade de ¹⁴C se reduz pela metade a cada 5 730 anos.\n\nFonte: A prova do carbono 14. Disponível em: http://noticias.terra.com.br. Acesso em: 9 nov. 2013 (adaptado).\n\nConsidere que um fragmento fóssil de massa igual a 30 g foi encontrado em um sítio arqueológico, e a medição de radiação apresentou 6 750 emissões beta por hora. A idade desse fóssil, em anos, é",
+      principal: "A técnica do carbono-14 permite a datação de fósseis pela medição dos valores de emissão $\\beta$ desse isótopo presente no fóssil. Para um ser em vida, o máximo são 15 emissões beta/(min g). Após a morte, a quantidade de ¹⁴C se reduz pela metade a cada 5 730 anos.\n\nFonte: A prova do carbono 14. Disponível em: http://noticias.terra.com.br. Acesso em: 9 nov. 2013 (adaptado).\n\nConsidere que um fragmento fóssil de massa igual a 30 g foi encontrado em um sítio arqueológico, e a medição de radiação apresentou 6 750 emissões $\\beta$ por hora. A idade desse fóssil, em anos, é",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "O trombone de Quincke é um dispositivo experimental utilizado para demonstrar o fenômeno da interferência de ondas sonoras. Uma fonte emite ondas sonoras de determinada frequência na entrada do dispositivo. Essas ondas se dividem pelos dois caminhos (ADC e AEC) e se encontram no ponto C, a saída do dispositivo, onde se posiciona um detector. O trajeto ADC pode ser aumentado pelo deslocamento dessa parte do dispositivo. Com o trajeto ADC igual ao AEC, capta-se um som muito intenso na saída. Entretanto, aumentando-se gradativamente o trajeto ADC, até que ele fique como mostrado na figura, a intensidade do som na saída fica praticamente nula. Desta forma, conhecida a velocidade do som no interior do tubo (320 m/s), é possível determinar o valor da frequência do som produzido pela fonte.\n\nDiagrama do Trombone de Quincke: Tubo em forma de 'U' invertido com entrada de som à esquerda, detector à direita. Caminho ADC é reto, caminho AEC é curvo. Uma parte do tubo de ADC pode ser estendida por 30 cm para aumentar o trajeto, indicado por uma seta. Uma régua indica 40 cm de comprimento total no lado da extensão.\n\nO valor da frequência, em hertz, do som produzido pela fonte sonora é",
+      principal: "O trombone de Quincke é um dispositivo experimental utilizado para demonstrar o fenômeno da interferência de ondas sonoras. Uma fonte emite ondas sonoras de determinada frequência na entrada do dispositivo. Essas ondas se dividem pelos dois caminhos (ADC e AEC) e se encontram no ponto C, a saída do dispositivo, onde se posiciona um detector. O trajeto ADC pode ser aumentado pelo deslocamento dessa parte do dispositivo. Com o trajeto ADC igual ao AEC, capta-se um som muito intenso na saída. Entretanto, aumentando-se gradativamente o trajeto ADC, até que ele fique como mostrado na figura, a intensidade do som na saída fica praticamente nula. Desta forma, conhecida a velocidade do som no interior do tubo (320 $m/s$), é possível determinar o valor da frequência do som produzido pela fonte.\n\nDiagrama do Trombone de Quincke: Tubo em forma de 'U' invertido com entrada de som à esquerda, detector à direita. Caminho ADC é reto, caminho AEC é curvo. Uma parte do tubo de ADC pode ser estendida por 30 cm para aumentar o trajeto, indicado por uma seta. Uma régua indica 40 cm de comprimento total no lado da extensão.\n\nO valor da frequência, em hertz, do som produzido pela fonte sonora é",
       subItens: []
     },
     options: [
@@ -591,12 +591,12 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "Diversos produtos naturais podem ser obtidos de plantas por processo de extração. O lapachol é da classe das naftoquinonas. Sua estrutura apresenta uma hidroxila enólica (pKₐ = 6,0) que permite que este composto seja isolado da serragem dos ipês por extração com solução adequada, seguida de filtração simples. Considere que pKₐ = -log Kₐ, em que Kₐ é a constante ácida da reação de ionização do lapachol.\n\nImagem: Estrutura química do Lapachol (naftoquinona com hidroxila enólica).\n\nFonte: COSTA, P. R. R. et al. Ácidos e bases em química orgânica. Porto Alegre: Bookman, 2005 (adaptado).\n\nQual solução deve ser usada para extração do lapachol da serragem do ipê com maior eficiência?",
+      principal: "Diversos produtos naturais podem ser obtidos de plantas por processo de extração. O lapachol é da classe das naftoquinonas. Sua estrutura apresenta uma hidroxila enólica (pKₐ = 6,0) que permite que este composto seja isolado da serragem dos ipês por extração com solução adequada, seguida de filtração simples. Considere que pKₐ = -$\\log$ Kₐ, em que Kₐ é a constante ácida da reação de ionização do lapachol.\n\nImagem: Estrutura química do Lapachol (naftoquinona com hidroxila enólica).\n\nFonte: COSTA, P. R. R. et al. Ácidos e bases em química orgânica. Porto Alegre: Bookman, 2005 (adaptado).\n\nQual solução deve ser usada para extração do lapachol da serragem do ipê com maior eficiência?",
       subItens: []
     },
     options: [
       "Solução de Na₂CO₃ para formar um sal de lapachol.",
-      "Solução-tampão ácido acético/acetato de sódio (pH = 4,5).",
+      "Solução-tampão ácido acé$tico/acetato$ de sódio (pH = 4,5).",
       "Solução de NaCl a fim de aumentar a força iônica do meio.",
       "Solução de Na₂SO₄ para formar um par iônico com lapachol.",
       "Solução de HCl a fim de extraí-lo por meio de reação ácido-base."
@@ -637,11 +637,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Diagrama de uma pilha de Grafite/Ce⁴⁺,Ce³⁺ e outra de Ni/Ni²⁺, conectadas em série.",
-      "Diagrama de uma pilha de Grafite/Cr₂O₇²⁻,Cr³⁺,H⁺ e outra de Zn/Zn²⁺, conectadas em série.",
-      "Diagrama de uma pilha de Grafite/Ce⁴⁺,Ce³⁺ e outra de Grafite/Cr₂O₇²⁻,Cr³⁺,H⁺, conectadas em série.",
-      "Diagrama de uma pilha de Grafite/Ce⁴⁺,Ce³⁺ e outra de Zn/Zn²⁺, conectadas em série.",
-      "Diagrama de uma pilha de Grafite/Cr₂O₇²⁻,Cr³⁺,H⁺ e outra de Ni/Ni²⁺, conectadas em série."
+      "Diagrama de uma pilha de $Grafite/Ce$⁴⁺,Ce³⁺ e outra de $Ni/Ni$²⁺, conectadas em série.",
+      "Diagrama de uma pilha de $Grafite/Cr$₂O₇²⁻,Cr³⁺,H⁺ e outra de $Zn/Zn$²⁺, conectadas em série.",
+      "Diagrama de uma pilha de $Grafite/Ce$⁴⁺,Ce³⁺ e outra de $Grafite/Cr$₂O₇²⁻,Cr³⁺,H⁺, conectadas em série.",
+      "Diagrama de uma pilha de $Grafite/Ce$⁴⁺,Ce³⁺ e outra de $Zn/Zn$²⁺, conectadas em série.",
+      "Diagrama de uma pilha de $Grafite/Cr$₂O₇²⁻,Cr³⁺,H⁺ e outra de $Ni/Ni$²⁺, conectadas em série."
     ],
     correctAnswer: 2,
     materia: ["Química"],
@@ -654,7 +654,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "O ácido acetilsalicílico, AAS (massa molar igual a 180 g/mol), é sintetizado a partir da reação do ácido salicílico (massa molar igual a 138 g/mol) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a equação química:\n\nEquação: Ácido Salicílico + Anidrido Acético --(H₂SO₄)--> Ácido Acetilsalicílico + Ácido Acético.\n\nApós a síntese, o AAS é purificado e o rendimento final é de aproximadamente 50%. Devido às suas propriedades farmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na forma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância.\n\nUma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do texto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?",
+      principal: "O ácido acetilsalicílico, AAS (massa molar igual a 180 $g/mol$), é sintetizado a partir da reação do ácido salicílico (massa molar igual a 138 $g/mol$) com anidrido acético, usando-se ácido sulfúrico como catalisador, conforme a equação química:\n\nEquação: Ácido Salicílico + Anidrido Acético --(H₂SO₄)--> Ácido Acetilsalicílico + Ácido Acético.\n\nApós a síntese, o AAS é purificado e o rendimento final é de aproximadamente 50%. Devido às suas propriedades farmacológicas (antitérmico, analgésico, anti-inflamatório e antitrombótico), o AAS é utilizado como medicamento na forma de comprimidos, nos quais se emprega tipicamente uma massa de 500 mg dessa substância.\n\nUma indústria farmacêutica pretende fabricar um lote de 900 mil comprimidos, de acordo com as especificações do texto. Qual é a massa de ácido salicílico, em kg, que deve ser empregada para esse fim?",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe₂O₃), a magnetita (Fe₃O₄) e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química:\n\nFeO (s) + CO (g) → Fe (s) + CO₂ (g)\n\nConsidere as seguintes equações termoquímicas:\nFe₂O₃ (s) + 3 CO (g) → 2 Fe (s) + 3 CO₂ (g) | ∆H⁰ = −25 kJ/mol de Fe₂O₃\n3 FeO (s) + CO₂ (g) → Fe₃O₄ (s) + CO (g) | ∆H⁰ = −36 kJ/mol de CO₂\n2 Fe₃O₄ (s) + CO₂ (g) → 3 Fe₂O₃ (s) + CO (g) | ∆H⁰ = +47 kJ/mol de CO₂\n\nO valor mais próximo de ∆H⁰, em kJ/mol de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é",
+      principal: "O ferro é encontrado na natureza na forma de seus minérios, tais como a hematita (α-Fe₂O₃), a magnetita (Fe₃O₄) e a wustita (FeO). Na siderurgia, o ferro-gusa é obtido pela fusão de minérios de ferro em altos fornos em condições adequadas. Uma das etapas nesse processo é a formação de monóxido de carbono. O CO (gasoso) é utilizado para reduzir o FeO (sólido), conforme a equação química:\n\nFeO (s) + CO (g) → Fe (s) + CO₂ (g)\n\nConsidere as seguintes equações termoquímicas:\nFe₂O₃ (s) + 3 CO (g) → 2 Fe (s) + 3 CO₂ (g) | ∆H⁰ = −25 $kJ/mol$ de Fe₂O₃\n3 FeO (s) + CO₂ (g) → Fe₃O₄ (s) + CO (g) | ∆H⁰ = −36 $kJ/mol$ de CO₂\n2 Fe₃O₄ (s) + CO₂ (g) → 3 Fe₂O₃ (s) + CO (g) | ∆H⁰ = +47 $kJ/mol$ de CO₂\n\nO valor mais próximo de ∆H⁰, em $kJ/mol$ de FeO, para a reação indicada do FeO (sólido) com o CO (gasoso) é",
       subItens: []
     },
     options: [
@@ -759,15 +759,15 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "No manual fornecido pelo fabricante de uma ducha elétrica de 220 V é apresentado um gráfico com a variação da temperatura da água em função da vazão para três condições (morno, quente e superquente). Na condição superquente, a potência dissipada é de 6 500 W. Considere o calor específico da água igual a 4 200 J/(kg °C) e densidade da água igual a 1 kg/L.\n\nGráfico: Elevação de temperatura × Curva vazão\nEixo X: Vazão (L/min) de 1 a 10\nEixo Y: ∆T (°C) de 0 a 40\nTrês curvas são mostradas: 1 - MORNO, 2 - QUENTE, 3 - SUPERQUENTE. A curva 3 (superquente) mostra uma elevação de temperatura de 29°C para vazão de 1 L/min e diminuindo para 4°C para vazão de 10 L/min. A curva 1 (morno) mostra uma elevação de temperatura de 10°C para vazão de 1 L/min e diminuindo para 1°C para vazão de 10 L/min.\n\nCom base nas informações dadas, a potência na condição morno corresponde a que fração da potência na condição superquente?",
+      principal: "No manual fornecido pelo fabricante de uma ducha elétrica de 220 V é apresentado um gráfico com a variação da temperatura da água em função da vazão para três condições (morno, quente e superquente). Na condição superquente, a potência dissipada é de 6 500 W. Considere o calor específico da água igual a 4 200 J/(kg °C) e densidade da água igual a 1 $kg/L$.\n\nGráfico: Elevação de temperatura × Curva vazão\nEixo X: Vazão ($L/min$) de 1 a 10\nEixo Y: ∆T (°C) de 0 a 40\nTrês curvas são mostradas: 1 - MORNO, 2 - QUENTE, 3 - SUPERQUENTE. A curva 3 (superquente) mostra uma elevação de temperatura de 29°C para vazão de 1 $L/min$ e diminuindo para 4°C para vazão de 10 $L/min$. A curva 1 (morno) mostra uma elevação de temperatura de 10°C para vazão de 1 $L/min$ e diminuindo para 1°C para vazão de 10 $L/min$.\n\nCom base nas informações dadas, a potência na condição morno corresponde a que fração da potência na condição superquente?",
       subItens: []
     },
     options: [
-      "1/3",
-      "1/5",
-      "3/5",
-      "3/8",
-      "5/8"
+      "$1/3$",
+      "$1/5$",
+      "$3/5$",
+      "$3/8$",
+      "$5/8$"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -822,7 +822,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "A cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes de uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e a fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver até 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel, também líquida (partição líquido-líquido). Os componentes capazes de formar interações intermoleculares mais fortes com a fase estacionária migram mais lentamente.\n\nUma mistura de hexano com 5% (v/v) de acetona foi utilizada como fase móvel na separação dos componentes de um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas.\n\nEstruturas químicas: Licopeno, α-caroteno, γ-caroteno, Capsorubina, α-criptoxantina.\n\nFonte: RIBEIRO, N. M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel. Química Nova na Escola, n. 29, ago. 2008 (adaptado).\n\nA substância presente na mistura que migra mais lentamente é o(a)",
+      principal: "A cromatografia em papel é um método de separação que se baseia na migração diferencial dos componentes de uma mistura entre duas fases imiscíveis. Os componentes da amostra são separados entre a fase estacionária e a fase móvel em movimento no papel. A fase estacionária consiste de celulose praticamente pura, que pode absorver até 22% de água. É a água absorvida que funciona como fase estacionária líquida e que interage com a fase móvel, também líquida (partição líquido-líquido). Os componentes capazes de formar interações intermoleculares mais fortes com a fase estacionária migram mais lentamente.\n\nUma mistura de hexano com 5% ($v/v$) de acetona foi utilizada como fase móvel na separação dos componentes de um extrato vegetal obtido a partir de pimentões. Considere que esse extrato contém as substâncias representadas.\n\nEstruturas químicas: Licopeno, α-caroteno, γ-caroteno, Capsorubina, α-criptoxantina.\n\nFonte: RIBEIRO, N. M.; NUNES, C. R. Análise de pigmentos de pimentões por cromatografia em papel. Química Nova na Escola, n. 29, ago. 2008 (adaptado).\n\nA substância presente na mistura que migra mais lentamente é o(a)",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "Um motorista que atende a uma chamada de celular é levado à desatenção, aumentando a possibilidade de acidentes ocorrerem em razão do aumento de seu tempo de reação. Considere dois motoristas, o primeiro atento e o segundo utilizando o celular enquanto dirige. Eles aceleram seus carros inicialmente a 1,00 m/s². Em resposta a uma emergência, freiam com uma desaceleração igual a 5,00 m/s². O motorista atento aciona o freio à velocidade de 14,0 m/s, enquanto o desatento, em situação análoga, leva 1,00 segundo a mais para iniciar a frenagem.\n\nQue distância o motorista desatento percorre a mais do que o motorista atento, até a parada total dos carros?",
+      principal: "Um motorista que atende a uma chamada de celular é levado à desatenção, aumentando a possibilidade de acidentes ocorrerem em razão do aumento de seu tempo de reação. Considere dois motoristas, o primeiro atento e o segundo utilizando o celular enquanto dirige. Eles aceleram seus carros inicialmente a 1,00 $m/s$². Em resposta a uma emergência, freiam com uma desaceleração igual a 5,00 $m/s$². O motorista atento aciona o freio à velocidade de 14,0 $m/s$, enquanto o desatento, em situação análoga, leva 1,00 segundo a mais para iniciar a frenagem.\n\nQue distância o motorista desatento percorre a mais do que o motorista atento, até a parada total dos carros?",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "A ozonólise, reação utilizada na indústria madeireira para a produção de papel, é também utilizada em escala de laboratório na síntese de aldeídos e cetonas. As duplas ligações dos alcenos são clivadas pela oxidação com o ozônio (O₃), em presença de água e zinco metálico, e a reação produz aldeídos e/ou cetonas, dependendo do grau de substituição da ligação dupla. Ligações duplas dissustituídas geram cetonas, enquanto as ligações duplas terminais ou monossubstituídas dão origem a aldeídos, como mostra o esquema.\n\nEsquema de Ozonólise: But-1-eno (CH₂=CH-CH₂-CH₃) reage com O₃, H₂O, Zn, produzindo Propanal (CH₃-CH₂-CHO) e Metanal (HCHO).\n\nConsidere a ozonólise do composto 1-fenil-2-metilprop-1-eno:\nEstrutura química: 1-fenil-2-metilprop-1-eno (Anel benzênico ligado a um carbono com dupla ligação para outro carbono que possui um metil e um hidrogênio).\n\nFonte: MARTINO, A. Química, a ciência global. Goiânia: Editora W, 2014 (adaptado).\n\nQuais são os produtos formados nessa reação?",
+      principal: "A ozonólise, reação utilizada na indústria madeireira para a produção de papel, é também utilizada em escala de laboratório na síntese de aldeídos e cetonas. As duplas ligações dos alcenos são clivadas pela oxidação com o ozônio (O₃), em presença de água e zinco metálico, e a reação produz aldeídos $e/ou$ cetonas, dependendo do grau de substituição da ligação dupla. Ligações duplas dissustituídas geram cetonas, enquanto as ligações duplas terminais ou monossubstituídas dão origem a aldeídos, como mostra o esquema.\n\nEsquema de Ozonólise: But-1-eno (CH₂=CH-CH₂-CH₃) reage com O₃, H₂O, Zn, produzindo Propanal (CH₃-CH₂-CHO) e Metanal (HCHO).\n\nConsidere a ozonólise do composto 1-fenil-2-metilprop-1-eno:\nEstrutura química: 1-fenil-2-metilprop-1-eno (Anel benzênico ligado a um carbono com dupla ligação para outro carbono que possui um metil e um hidrogênio).\n\nFonte: MARTINO, A. Química, a ciência global. Goiânia: Editora W, 2014 (adaptado).\n\nQuais são os produtos formados nessa reação?",
       subItens: []
     },
     options: [
@@ -952,11 +952,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "P [1 + 1/(1+i/100) + 1/(1+i/100)²]",
-      "P [1 + 1/(1+i/100) + 1/(1+2i/100)]",
-      "P [1 + 1/(1+i/100)² + 1/(1+i/100)⁻²]",
-      "P [1/(1+i/100) + 1/(1+2i/100) + 1/(1+3i/100)]",
-      "P [1/(1+i/100)³ + 1/(1+i/100)² + 1/(1+i/100)]"
+      "P [1 + 1/(1+$i/100$) + 1/(1+$i/100$)²]",
+      "P [1 + 1/(1+$i/100$) + 1/(1+$2i/100$)]",
+      "P [1 + 1/(1+$i/100$)² + 1/(1+$i/100$)⁻²]",
+      "P [1/(1+$i/100$) + 1/(1+$2i/100$) + 1/(1+$3i/100$)]",
+      "P [1/(1+$i/100$)³ + 1/(1+$i/100$)² + 1/(1+$i/100$)]"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -969,7 +969,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "Para realizar a viagem dos sonhos, uma pessoa precisava fazer um empréstimo no valor de R$ 5 000,00. Para pagar as prestações, dispõe de, no máximo, R$ 400,00 mensais. Para esse valor de empréstimo, o valor da prestação (P) é calculado em função do número de prestações (n) segundo a fórmula\n\nP = (5 000 × 1,013ⁿ × 0,013) / (1,013ⁿ - 1)\n\nSe necessário, utilize 0,005 como aproximação para log 1,013; 2,602 como aproximação para log 400; 2,525 como aproximação para log 335.\n\nDe acordo com a fórmula dada, o menor número de parcelas cujos valores não comprometem o limite definido pela pessoa é",
+      principal: "Para realizar a viagem dos sonhos, uma pessoa precisava fazer um empréstimo no valor de R$ 5 000,00. Para pagar as prestações, dispõe de, no máximo, R$ 400,00 mensais. Para esse valor de empréstimo, o valor da prestação (P) é calculado em função do número de prestações (n) segundo a fórmula\n\nP = (5 000 × 1,013ⁿ × 0,013) / (1,013ⁿ - 1)\n\nSe necessário, utilize 0,005 como aproximação para $\\log$ 1,013; 2,602 como aproximação para $\\log$ 400; 2,525 como aproximação para $\\log$ 335.\n\nDe acordo com a fórmula dada, o menor número de parcelas cujos valores não comprometem o limite definido pela pessoa é",
       subItens: []
     },
     options: [
@@ -990,7 +990,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "Raios de luz solar estão atingindo a superfície de um lago formando um ângulo x com a sua superfície, conforme indica a figura.\n\nImagem: Raio de luz solar atingindo a superfície da água de um lago. O ângulo x é formado entre o raio e a superfície do lago.\n\nEm determinadas condições, pode-se supor que a intensidade luminosa desses raios, na superfície do lago, seja dada aproximadamente por I(x) = k ⋅ sen(x) sendo k uma constante, e supondo-se que x está entre 0° e 90°.\n\nQuando x = 30°, a intensidade luminosa se reduz a qual percentual de seu valor máximo?",
+      principal: "Raios de luz solar estão atingindo a superfície de um lago formando um ângulo x com a sua superfície, conforme indica a figura.\n\nImagem: Raio de luz solar atingindo a superfície da água de um lago. O ângulo x é formado entre o raio e a superfície do lago.\n\nEm determinadas condições, pode-se supor que a intensidade luminosa desses raios, na superfície do lago, seja dada aproximadamente por I(x) = k ⋅ $\\sin$(x) sendo k uma constante, e supondo-se que x está entre 0° e 90°.\n\nQuando x = 30°, a intensidade luminosa se reduz a qual percentual de seu valor máximo?",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "Em uma cantina, o sucesso de venda no verão são sucos preparados à base de polpa de frutas. Um dos sucos mais vendidos é o de morango com acerola, que é preparado com 2/3 de polpa de morango e 1/3 de polpa de acerola.\n\nPara o comerciante, as polpas são vendidas em embalagens de igual volume. Atualmente, a embalagem da polpa de morango custa R$ 18,00 e a de acerola, R$ 14,70. Porém, está prevista uma alta no preço da embalagem da polpa de acerola no próximo mês, passando a custar R$ 15,30.\n\nPara não aumentar o preço do suco, o comerciante negociou com o fornecedor uma redução no preço da embalagem da polpa de morango.\n\nA redução, em real, no preço da embalagem da polpa de morango deverá ser de",
+      principal: "Em uma cantina, o sucesso de venda no verão são sucos preparados à base de polpa de frutas. Um dos sucos mais vendidos é o de morango com acerola, que é preparado com $2/3$ de polpa de morango e $1/3$ de polpa de acerola.\n\nPara o comerciante, as polpas são vendidas em embalagens de igual volume. Atualmente, a embalagem da polpa de morango custa R$ 18,00 e a de acerola, R$ 14,70. Porém, está prevista uma alta no preço da embalagem da polpa de acerola no próximo mês, passando a custar R$ 15,30.\n\nPara não aumentar o preço do suco, o comerciante negociou com o fornecedor uma redução no preço da embalagem da polpa de morango.\n\nA redução, em real, no preço da embalagem da polpa de morango deverá ser de",
       subItens: []
     },
     options: [
@@ -1540,11 +1540,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/4",
-      "1/4",
-      "4/3",
-      "1/3",
-      "4/5"
+      "$5/4$",
+      "$1/4$",
+      "$4/3$",
+      "$1/3$",
+      "$4/5$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1562,10 +1562,10 @@ createQuestion({
     },
     options: [
       "0",
-      "1/2",
+      "$1/2$",
       "1",
-      "1/5",
-      "8/35"
+      "$1/5$",
+      "$8/35$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1624,11 +1624,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "16/3",
-      "31/5",
-      "25/4",
-      "25/3",
-      "75/2"
+      "$16/3$",
+      "$31/5$",
+      "$25/4$",
+      "$25/3$",
+      "$75/2$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1662,7 +1662,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "Neste modelo de termômetro, os filetes na cor preta registram as temperaturas mínima e máxima do dia anterior e os filetes na cor cinza registram a temperatura ambiente atual, ou seja, no momento da leitura do termômetro.\n\nImagem: Termômetro com duas colunas de mercúrio/álcool. A coluna da esquerda (min/max) e a coluna da direita (atual). Os números na esquerda são crescentes de cima para baixo (-30 a 50°C), e na direita são crescentes de baixo para cima (-30 a 50°C).\n\nLeitura:\n- Temperatura mínima: filete preto inferior da coluna esquerda (aprox. -5°C).\n- Temperatura máxima: filete preto inferior da coluna direita (aprox. 15°C).\n- Temperatura atual: filete cinza superior das duas colunas (aprox. 5°C).\n\nFonte: Disponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado).\n\nQual é a temperatura máxima mais aproximada registrada nesse termômetro?",
+      principal: "Neste modelo de termômetro, os filetes na cor preta registram as temperaturas mínima e máxima do dia anterior e os filetes na cor cinza registram a temperatura ambiente atual, ou seja, no momento da leitura do termômetro.\n\nImagem: Termômetro com duas colunas de mercúrio/álcool. A coluna da esquerda ($min/max$) e a coluna da direita (atual). Os números na esquerda são crescentes de cima para baixo (-30 a 50°C), e na direita são crescentes de baixo para cima (-30 a 50°C).\n\nLeitura:\n- Temperatura mínima: filete preto inferior da coluna esquerda (aprox. -5°C).\n- Temperatura máxima: filete preto inferior da coluna direita (aprox. 15°C).\n- Temperatura atual: filete cinza superior das duas colunas (aprox. 5°C).\n\nFonte: Disponível em: www.if.ufrgs.br. Acesso em: 28 ago. 2014 (adaptado).\n\nQual é a temperatura máxima mais aproximada registrada nesse termômetro?",
       subItens: []
     },
     options: [
@@ -1731,7 +1731,7 @@ createQuestion({
     options: [
       "20",
       "0,075",
-      "20/0,75",
+      "$20/0$,75",
       "20 × 0,075",
       "20 × 0,75"
     ],
@@ -1746,7 +1746,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "O gráfico apresenta a taxa de desemprego (em %) para o período de março de 2008 a abril de 2009, obtida com base nos dados observados nas regiões metropolitanas de Recife, Salvador, Belo Horizonte, Rio de Janeiro, São Paulo e Porto Alegre.\n\nGráfico: Taxa de desemprego (%) ao longo dos meses.\nEixo X: Meses de Mar/08 a Abr/09.\nEixo Y: Taxa de desemprego (%) de 6,6 a 9,0.\nPontos de dados: Mar/08 (8,6), Abr/08 (8,5), Mai/08 (8,1), Jun/08 (7,7), Jul/08 (7,6), Ago/08 (7,9), Set/08 (7,9), Out/08 (7,6), Nov/08 (7,5), Dez/08 (6,8), Jan/09 (8,2), Fev/09 (8,5), Mar/09 (8,9), Abr/09 (9,0).\n\nFonte: IBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br. Acesso em: 30 jul. 2012 (adaptado).\n\nA mediana dessa taxa de desemprego, no período de março de 2008 a abril de 2009, foi de",
+      principal: "O gráfico apresenta a taxa de desemprego (em %) para o período de março de 2008 a abril de 2009, obtida com base nos dados observados nas regiões metropolitanas de Recife, Salvador, Belo Horizonte, Rio de Janeiro, São Paulo e Porto Alegre.\n\nGráfico: Taxa de desemprego (%) ao longo dos meses.\nEixo X: Meses de $Mar/08$ a $Abr/09$.\nEixo Y: Taxa de desemprego (%) de 6,6 a 9,0.\nPontos de dados: $Mar/08$ (8,6), $Abr/08$ (8,5), $Mai/08$ (8,1), $Jun/08$ (7,7), $Jul/08$ (7,6), $Ago/08$ (7,9), $Set/08$ (7,9), $Out/08$ (7,6), $Nov/08$ (7,5), $Dez/08$ (6,8), $Jan/09$ (8,2), $Fev/09$ (8,5), $Mar/09$ (8,9), $Abr/09$ (9,0).\n\nFonte: IBGE. Pesquisa mensal de emprego. Disponível em: www.ibge.gov.br. Acesso em: 30 jul. 2012 (adaptado).\n\nA mediana dessa taxa de desemprego, no período de março de 2008 a abril de 2009, foi de",
       subItens: []
     },
     options: [
@@ -1767,15 +1767,15 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "Numa avenida existem 10 semáforos. Por causa de uma pane no sistema, os semáforos ficaram sem controle durante uma hora, e fixaram suas luzes unicamente em verde ou vermelho. Os semáforos funcionam de forma independente; a probabilidade de acusar a cor verde é de 2/3 e a de acusar a cor vermelha é de 1/3. Uma pessoa percorreu a pé toda essa avenida durante o período da pane, observando a cor da luz de cada um desses semáforos.\n\nQual a probabilidade de que esta pessoa tenha observado exatamente um sinal na cor verde?",
+      principal: "Numa avenida existem 10 semáforos. Por causa de uma pane no sistema, os semáforos ficaram sem controle durante uma hora, e fixaram suas luzes unicamente em verde ou vermelho. Os semáforos funcionam de forma independente; a probabilidade de acusar a cor verde é de $2/3$ e a de acusar a cor vermelha é de $1/3$. Uma pessoa percorreu a pé toda essa avenida durante o período da pane, observando a cor da luz de cada um desses semáforos.\n\nQual a probabilidade de que esta pessoa tenha observado exatamente um sinal na cor verde?",
       subItens: []
     },
     options: [
-      "10 × (2/3)⁹",
+      "10 × ($2/3$)⁹",
       "(10 × 2⁹)/3¹⁰",
       "2¹⁰/3¹⁰",
       "2⁹/3¹⁰",
-      "2/3¹⁰"
+      "$2/3$¹⁰"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],

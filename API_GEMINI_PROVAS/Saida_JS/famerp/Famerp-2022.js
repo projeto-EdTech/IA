@@ -87,7 +87,7 @@ createQuestion({
     university: "famerp",
     year: 2022,
     text: {
-      principal: "Leia o trecho do romance Memórias póstumas de Brás Cubas, de Machado de Assis, para responder às questões de 05 a 07.\n\nA propósito das botas\n\nMeu pai, que não me esperava, abraçou-me cheio de ternura e agradecimento. “— Agora é deveras?, disse ele. Posso enfim...?”\n\nDeixei-o nessa reticência, e fui descalçar as botas, que estavam apertadas. Uma vez aliviado, respirei à larga, e deitei-me a fio comprido, enquanto os pés, e todo eu atrás deles, entrávamos numa relativa bem-aventurança. Então considerei que as botas apertadas são uma das maiores venturas da Terra, porque, fazendo doer os pés, dão azo ao prazer de as descalçar. Mortifica os pés, desgraçado, desmortifica-os depois, e aí tens a felicidade barata, ao sabor dos sapateiros e de Epicuro¹. [...] Quatro ou cinco dias depois, saboreava esse rápido, inefável e incoercível momento de gozo, que sucede a uma dor pungente, a uma preocupação, a um incômodo... Daqui inferi eu que a vida é o mais engenhoso dos fenômenos, porque só aguça a fome, com o fim de deparar a ocasião de comer, e não inventou os calos, senão porque eles aperfeiçoam a felicidade terrestre. Em verdade vos digo que toda a sabedoria humana não vale um par de botas curtas.\n\nTu, minha Eugênia, é que não as descalçaste nunca; foste aí pela estrada da vida, manquejando da perna e do amor, triste como os enterros pobres, solitária, calada, laboriosa, até que vieste também para esta outra margem...\n\n(Memórias póstumas de Brás Cubas, 2008.)\n\n¹Epicuro: Filósofo grego (341 a.C. – 271 a.C.).\n\nO trecho exemplifica um procedimento típico de Machado de Assis:",
+      principal: "Leia o trecho do romance Memórias póstumas de Brás Cubas, de Machado de Assis, para responder às questões de 05 a 07.\n\nA propósito das botas\n\nMeu pai, que não me esperava, abraçou-me cheio de ternura e agradecimento. “— Agora é deveras?, disse ele. Posso enfim...?”\n\nDeixei-o nessa reticência, e fui descalçar as botas, que estavam apertadas. Uma vez aliviado, respirei à larga, e deitei-me a fio comprido, enquanto os pés, e todo eu atrás deles, entrávamos numa relativa bem-aventurança. Então considerei que as botas apertadas são uma das maiores venturas da Terra, porque, fazendo doer os pés, dão azo ao prazer de as descalçar. Mortifica os pés, desgraçado, desmortifica-os depois, e aí tens a felicidade barata, ao sabor dos sapateiros e de Epicuro¹. [...] Quatro ou cinco dias depois, saboreava esse rápido, inefável e incoercível momento de gozo, que sucede a uma dor pungente, a uma preocupação, a um incômodo... Daqui inferi eu que a vida é o mais engenhoso dos fenômenos, porque só aguça a fome, com o fim de deparar a ocasião de comer, e não inventou os calos, $\\sin$ão porque eles aperfeiçoam a felicidade terrestre. Em verdade vos digo que toda a sabedoria humana não vale um par de botas curtas.\n\nTu, minha Eugênia, é que não as descalçaste nunca; foste aí pela estrada da vida, manquejando da perna e do amor, triste como os enterros pobres, solitária, calada, laboriosa, até que vieste também para esta outra margem...\n\n(Memórias póstumas de Brás Cubas, 2008.)\n\n¹Epicuro: Filósofo grego (341 a.C. – 271 a.C.).\n\nO trecho exemplifica um procedimento típico de Machado de Assis:",
       subItens: []
     },
     options: [
@@ -150,7 +150,7 @@ createQuestion({
     university: "famerp",
     year: 2022,
     text: {
-      principal: "Leia o texto de Eduardo Bueno para responder às questões de 08 a 10.\n\nNo Brasil, como no restante do Novo Mundo, o que separa a história da pré-história é mais do que um mero prefixo. Existe, entre os dois períodos, um abismo de desconhecimento e incompreensão. Embora o trabalho dos arqueólogos literalmente se aprofunde cada vez mais, restam ainda imensas lacunas a respeito dos habitantes que, em tempos remotos, ocuparam o território que viria a ser o Brasil. O que já se sabe, porém, permite afirmar que a herança \"pré-histórica” – ou seja, o legado dos povos que por no mínimo dez milênios aqui viveram — é bem mais sólida e está muito mais presente do que o senso comum em geral supõe.\n\nÉ preciso não esquecer, afinal, que, por pelo menos cem séculos, esses povos ancestrais – cuja própria origem ainda não pôde ser inteiramente esclarecida – testaram um repertório de alternativas e um leque de possibilidades alimentares, ecológicas e logísticas que os conquistadores europeus, sob risco de colocarem em perigo a própria sobrevivência, não puderam descartar desde o instante em que desembarcaram no então \"novo\" e desconhecido território, oficialmente em abril de 1500.\n\nPode-se afirmar que as trilhas e os caminhos pelos quais o país se expandiu, os sítios onde se erguem suas grandes cidades, inúmeros produtos agrícolas que hoje saciam a fome da nação, bem como vários hábitos e costumes nacionais, são fruto direto de um conhecimento milenar – que, embora esteja dessa forma preservado, na essência se perdeu. É preciso ter em mente, portanto, que uma compreensão mais plena do Brasil impõe um mergulho no passado – e que esse passado é muito mais profundo do que apenas os últimos cinco séculos.\n\n(Brasil: uma história: cinco séculos de um país em construção, 2012.)\n\nSegundo o autor,",
+      principal: "Leia o texto de Eduardo Bueno para responder às questões de 08 a 10.\n\nNo Brasil, como no restante do Novo Mundo, o que separa a história da pré-história é mais do que um mero prefixo. Existe, entre os dois períodos, um abismo de desconhecimento e incompreensão. Embora o trabalho dos arqueólogos literalmente se aprofunde cada vez mais, restam ainda imensas lacunas a respeito dos habitantes que, em tempos remotos, ocuparam o território que viria a ser o Brasil. O que já se sabe, porém, permite afirmar que a herança \"pré-histórica” – ou seja, o legado dos povos que por no mínimo dez milênios aqui viveram — é bem mais sólida e está muito mais presente do que o senso comum em geral supõe.\n\nÉ preciso não esquecer, afinal, que, por pelo menos cem séculos, esses povos ancestrais – cuja própria origem ainda não pôde ser inteiramente esclarecida – testaram um repertório de alternativas e um leque de possibilidades alimentares, ecológicas e $\\log$ísticas que os conquistadores europeus, sob risco de colocarem em perigo a própria sobrevivência, não puderam descartar desde o instante em que desembarcaram no então \"novo\" e desconhecido território, oficialmente em abril de 1500.\n\nPode-se afirmar que as trilhas e os caminhos pelos quais o país se expandiu, os sítios onde se erguem suas grandes cidades, inúmeros produtos agrícolas que hoje saciam a fome da nação, bem como vários hábitos e costumes nacionais, são fruto direto de um conhecimento milenar – que, embora esteja dessa forma preservado, na essência se perdeu. É preciso ter em mente, portanto, que uma compreensão mais plena do Brasil impõe um mergulho no passado – e que esse passado é muito mais profundo do que apenas os últimos cinco séculos.\n\n(Brasil: uma história: cinco séculos de um país em construção, 2012.)\n\nSegundo o autor,",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "famerp",
     year: 2022,
     text: {
-      principal: "Privado o Brasil do mercado geral das nações e, por conseguinte, da sua concorrência, que encarecia as compras e abarataria as vendas, nenhum outro recurso lhe restava senão mandar suas mercadorias aos portos da metrópole e estimular assim, cada vez mais, a sórdida cobiça e prepotência de seus tiranos.\n\n(Apud: Miriam Dolhnikoff. História do Brasil Império, 2019.)\n\nO excerto, retirado de um manifesto enviado pelo príncipe-regente D. Pedro às nações amigas em 6 de agosto de 1822,",
+      principal: "Privado o Brasil do mercado geral das nações e, por conseguinte, da sua concorrência, que encarecia as compras e abarataria as vendas, nenhum outro recurso lhe restava $\\sin$ão mandar suas mercadorias aos portos da metrópole e estimular assim, cada vez mais, a sórdida cobiça e prepotência de seus tiranos.\n\n(Apud: Miriam Dolhnikoff. História do Brasil Império, 2019.)\n\nO excerto, retirado de um manifesto enviado pelo príncipe-regente D. Pedro às nações amigas em 6 de agosto de 1822,",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "famerp",
     year: 2022,
     text: {
-      principal: "Acefato é o nome de um inseticida de fórmula molecular C₄H₁₀NO₃PS (M = 183 g/mol), indicado para aplicação em culturas de algodão, soja e feijão. A formulação recomendada para uso é de 0,75 a 1 kg dissolvido em 300 a 400 L de água. Assim, a concentração em mol/L da solução mais diluída desse inseticida é igual a",
+      principal: "Acefato é o nome de um inseticida de fórmula molecular C₄H₁₀NO₃PS (M = 183 $g/mol$), indicado para aplicação em culturas de algodão, soja e feijão. A formulação recomendada para uso é de 0,75 a 1 kg dissolvido em 300 a 400 L de água. Assim, a concentração em $mol/L$ da solução mais diluída desse inseticida é igual a",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "famerp",
     year: 2022,
     text: {
-      principal: "Quando ferro metálico é mergulhado em uma solução de ácido clorídrico, ocorre a seguinte reação:\n\nFe + 2HCl → FeCl₂ + H₂\nΔΗ = -88 kJ/mol\n\nConsiderando o volume molar dos gases igual a 25 L/mol e que em um experimento realizado à temperatura ambiente foram liberados 7,04 kJ de energia, o volume de gás hidrogênio produzido nesse experimento foi de",
+      principal: "Quando ferro metálico é mergulhado em uma solução de ácido clorídrico, ocorre a seguinte reação:\n\nFe + 2HCl → FeCl₂ + H₂\nΔΗ = -88 $kJ/mol$\n\nConsiderando o volume molar dos gases igual a 25 $L/mol$ e que em um experimento realizado à temperatura ambiente foram liberados 7,04 kJ de energia, o volume de gás hidrogênio produzido nesse experimento foi de",
       subItens: []
     },
     options: [
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "famerp",
     year: 2022,
     text: {
-      principal: "Alguns relógios analógicos possuem uma escala chamada taquímetro, ou tachymeter, em inglês, tal qual o relógio representado na imagem. Essa escala pode ser utilizada para medir taxas temporais, como a variação de distância percorrida por um carro em determinado período, isto é, sua velocidade.\n\n[IMAGEM: Um relógio de pulso analógico com um taquímetro na borda do mostrador. O ponteiro dos segundos está em 45s, e a marca no taquímetro correspondente é 80.]\n\n(www.citizenwatch-global.com. Adaptado.)\n\nNa imagem, a seta representa o caminho percorrido pelo ponteiro dos segundos após o taquímetro ser acionado durante um tempo Δt = 45 s. O número 80, para o qual o ponteiro aponta, indica a taxa temporal, em h⁻¹. Se um carro percorresse uma distância de 1 km nesse período, o taquímetro estaria informando que sua velocidade média era de 80 km/h. Portanto, o taquímetro relaciona o tempo medido, Δt, em segundos, com a taxa temporal, em h⁻¹, por meio da expressão",
+      principal: "Alguns relógios analógicos possuem uma escala chamada taquímetro, ou tachymeter, em inglês, tal qual o relógio representado na imagem. Essa escala pode ser utilizada para medir taxas temporais, como a variação de distância percorrida por um carro em determinado período, isto é, sua velocidade.\n\n[IMAGEM: Um relógio de pulso analógico com um taquímetro na borda do mostrador. O ponteiro dos segundos está em 45s, e a marca no taquímetro correspondente é 80.]\n\n(www.citizenwatch-global.com. Adaptado.)\n\nNa imagem, a seta representa o caminho percorrido pelo ponteiro dos segundos após o taquímetro ser acionado durante um tempo Δt = 45 s. O número 80, para o qual o ponteiro aponta, indica a taxa temporal, em h⁻¹. Se um carro percorresse uma distância de 1 km nesse período, o taquímetro estaria informando que sua velocidade média era de 80 $km/h$. Portanto, o taquímetro relaciona o tempo medido, Δt, em segundos, com a taxa temporal, em h⁻¹, por meio da expressão",
       subItens: []
     },
     options: [
@@ -1284,15 +1284,15 @@ createQuestion({
     university: "famerp",
     year: 2022,
     text: {
-      principal: "Um garoto, com o auxílio de um transferidor, tenta calcular a velocidade de um avião que passa por cima de sua casa. Esse garoto repara que o avião, que antes passava pela vertical, acima de sua cabeça, após 10 s está a 30° em relação a essa vertical, como representado na imagem.\n\n[IMAGEM: Diagrama mostrando um avião voando sobre uma casa. Um ponto vertical acima da casa e a posição do avião 10 segundos depois formam um triângulo. A altura do avião é 3000m e o ângulo com a vertical é 30°.]\n\nCom uma breve pesquisa na internet, esse garoto descobre que os aviões sobrevoam a região de sua casa em linha reta, a uma altitude constante de 3000 metros e com velocidade constante. Assim, desprezando a própria altura e utilizando tg 30° = √3/3, os cálculos corretos o levariam a encontrar que a velocidade do avião por ele observado era de",
+      principal: "Um garoto, com o auxílio de um transferidor, tenta calcular a velocidade de um avião que passa por cima de sua casa. Esse garoto repara que o avião, que antes passava pela vertical, acima de sua cabeça, após 10 s está a 30° em relação a essa vertical, como representado na imagem.\n\n[IMAGEM: Diagrama mostrando um avião voando sobre uma casa. Um ponto vertical acima da casa e a posição do avião 10 segundos depois formam um triângulo. A altura do avião é 3000m e o ângulo com a vertical é 30°.]\n\nCom uma breve pesquisa na internet, esse garoto descobre que os aviões sobrevoam a região de sua casa em linha reta, a uma altitude constante de 3000 metros e com velocidade constante. Assim, desprezando a própria altura e utilizando $\\tan$ 30° = √$3/3$, os cálculos corretos o levariam a encontrar que a velocidade do avião por ele observado era de",
       subItens: []
     },
     options: [
-      "400√2 km/h",
-      "420√3 km/h",
-      "360√3 km/h",
-      "480√2 km/h",
-      "400√3 km/h"
+      "400√2 $km/h$",
+      "420√3 $km/h$",
+      "360√3 $km/h$",
+      "480√2 $km/h$",
+      "400√3 $km/h$"
     ],
     correctAnswer: 2,
     materia: ["Física", "Matemática"],
@@ -1330,11 +1330,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "50 m/s.",
-      "100 m/s.",
-      "125 m/s.",
-      "75 m/s.",
-      "25 m/s."
+      "50 $m/s$.",
+      "100 $m/s$.",
+      "125 $m/s$.",
+      "75 $m/s$.",
+      "25 $m/s$."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1431,7 +1431,7 @@ createQuestion({
     university: "famerp",
     year: 2022,
     text: {
-      principal: "A lavadora ultrassônica, ou cuba ultrassônica, como a da imagem, é um dos equipamentos utilizados em consultórios e hospitais para a pré-limpeza de equipamentos cirúrgicos e odontológicos. Essa lavadora produz ondas mecânicas, com frequência na faixa do ultrassom, que são transmitidas para uma solução em seu interior. Isso faz com que as moléculas da solução se agitem e, por meio de um processo chamado cavitação, acabem por dissociar as impurezas nas superfícies dos materiais submersos na cuba.\n\n[IMAGEM: Uma lavadora ultrassônica.]\n\n(www.blog.suryadental.com.br. Adaptado.)\n\nSabendo que um valor típico para a frequência de operação dessas cubas é de 40 kHz e que as ondas produzidas se propagam na solução com uma velocidade de 1480 m/s, o comprimento de onda associado a essas ondas é de",
+      principal: "A lavadora ultrassônica, ou cuba ultrassônica, como a da imagem, é um dos equipamentos utilizados em consultórios e hospitais para a pré-limpeza de equipamentos cirúrgicos e odontológicos. Essa lavadora produz ondas mecânicas, com frequência na faixa do ultrassom, que são transmitidas para uma solução em seu interior. Isso faz com que as moléculas da solução se agitem e, por meio de um processo chamado cavitação, acabem por dissociar as impurezas nas superfícies dos materiais submersos na cuba.\n\n[IMAGEM: Uma lavadora ultrassônica.]\n\n(www.blog.suryadental.com.br. Adaptado.)\n\nSabendo que um valor típico para a frequência de operação dessas cubas é de 40 kHz e que as ondas produzidas se propagam na solução com uma velocidade de 1480 $m/s$, o comprimento de onda associado a essas ondas é de",
       subItens: []
     },
     options: [
@@ -1627,8 +1627,8 @@ createQuestion({
       "-17",
       "-189",
       "189",
-      "1/289",
-      "1/17"
+      "$1/289$",
+      "$1/17$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1641,15 +1641,15 @@ createQuestion({
     university: "famerp",
     year: 2022,
     text: {
-      principal: "A figura mostra os gráficos das funções f e g, definidas de IR em IR, dadas por f(x) = 2ˣ - 8 e g(x) = 1/2ˣ - 4. O ponto P indica a intersecção dos gráficos dessas funções.\n\n[IMAGEM: Gráfico cartesiano com duas curvas, f e g, e o ponto de intersecção P. f(x) = 2^x - 8 e g(x) = 1/2^x - 4.]\n\nA abscissa x, do ponto P, é igual a",
+      principal: "A figura mostra os gráficos das funções f e g, definidas de IR em IR, dadas por f(x) = 2ˣ - 8 e g(x) = $1/2$ˣ - 4. O ponto P indica a intersecção dos gráficos dessas funções.\n\n[IMAGEM: Gráfico cartesiano com duas curvas, f e g, e o ponto de intersecção P. f(x) = $2^x$ - 8 e g(x) = 1/2^x - 4.]\n\nA abscissa x, do ponto P, é igual a",
       subItens: []
     },
     options: [
-      "log₂(2+√5)",
-      "log₂(2 + √2)",
-      "log₂(1+2√2)",
-      "log₂(3+√3)",
-      "log₂(3 + √5)"
+      "$\\log$₂(2+√5)",
+      "$\\log$₂(2 + √2)",
+      "$\\log$₂(1+2√2)",
+      "$\\log$₂(3+√3)",
+      "$\\log$₂(3 + √5)"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],

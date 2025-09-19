@@ -150,7 +150,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "A manutenção da estabilidade do ambiente com o meio interno (fisiológico) de um organismo é exercida por diversos sistemas; este mecanismo recebe o nome de homeostase. Assinale a alternativa que contenha tecidos e/ou sistemas que auxiliam na homeostase:",
+      principal: "A manutenção da estabilidade do ambiente com o meio interno (fisiológico) de um organismo é exercida por diversos sistemas; este mecanismo recebe o nome de homeostase. Assinale a alternativa que contenha tecidos $e/ou$ sistemas que auxiliam na homeostase:",
       subItens: []
     },
     options: [
@@ -219,9 +219,9 @@ createQuestion({
     options: [
       "15,10cm³/s N",
       "20,75N.s",
-      "10,00Kg/m",
+      "10,$00Kg/m$",
       "10,00N",
-      "13,00m/s"
+      "13,$00m/s$"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -339,7 +339,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "O Estado Islâmico destrói estátuas milenares de civilizações passadas, cristãos, protestantes brasileiros atiram pedras em adeptos de candomblé e umbanda, cristãos coptas são assassinados no norte da África, Judeus impedem com violência a circulação de muçulmanos no oriente médio. Ao mesmo tempo, sofrem preconceito em outros cantos do mundo inteiro. São apenas alguns exemplos do avanço da intolerância religiosa. Sobre as consequências da atualizada associação entre juventude e medieval, em se tratando de religião na chamada Idade Média, assinale o que foi INCORRETO.",
+      principal: "O Estado Islâmico destrói estátuas milenares de civilizações passadas, cristãos, protestantes brasileiros atiram pedras em adeptos de candomblé e umbanda, cristãos coptas são assassinados no norte da África, Judeus impedem com violência a circulação de $\\mu$çulmanos no oriente médio. Ao mesmo tempo, sofrem preconceito em outros cantos do mundo inteiro. São apenas alguns exemplos do avanço da intolerância religiosa. Sobre as consequências da atualizada associação entre juventude e medieval, em se tratando de religião na chamada Idade Média, assinale o que foi INCORRETO.",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Hiking here is not hard and you can also get help from the indigenous population, as they organize tour guides in exchange for a small sum of money. If you are on your own, however, try to leave at least four days for this fantastic journey, as there are plenty of things to see and enjoy up there. Mount Roraima is said to have some of the highest peaks in the world. (Text continues). You should not leave after 2 p.m. from the village as trekkers are no longer allowed after this hour. At the beginning of your climb, your baggage will be strictly checked and you can not take more than 15 kilos with you. So careful how you organize things. Being given that this is a national park , you are not permitted to take rocks or plants along the way. The top of the mountain measures a tent 27/2m. It offers amazing landscapes and establishing a tent around here is possible. However, you should know the weather changes suddenly in this area so be prepared. Which alternative below contains an adjective in the superlative form that best complete the gap in the text?",
+      principal: "Hiking here is not hard and you can also get help from the indigenous population, as they organize tour guides in exchange for a small sum of money. If you are on your own, however, try to leave at least four days for this fantastic journey, as there are plenty of things to see and enjoy up there. Mount Roraima is said to have some of the highest peaks in the world. (Text continues). You should not leave after 2 p.m. from the village as trekkers are no longer allowed after this hour. At the beginning of your climb, your baggage will be strictly checked and you can not take more than 15 kilos with you. So careful how you organize things. Being given that this is a national park , you are not permitted to take rocks or plants along the way. The top of the mountain measures a tent $27/2m$. It offers amazing landscapes and establishing a tent around here is possible. However, you should know the weather changes suddenly in this area so be prepared. Which alternative below contains an adjective in the superlative form that best complete the gap in the text?",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Leia o fragmento a seguir para responder às questões 1 e 2.\nTEXTO I\nO que pensam os brasileiros sobre os índios brasileiros\nHistoricamente os índios têm sido objeto de múltiplas imagens e conceituações por parte dos não-índios e, em consequência, dos próprios índios, marcadas profundamente por preconceitos e ignorância. Desde a chegada dos portugueses e outros europeus que por aqui se instalaram, os habitantes nativos foram alvo de diferentes percepções e julgamentos quanto às características, aos comportamentos, às capacidades e à natureza biológica e espiritual que lhes são próprias. Alguns religiosos europeus, por exemplo, duvidavam que os índios tivessem alma. Outros não acreditavam que os nativos pertencessem à natureza humana pois, segundo eles, os indígenas mais pareciam animais selvagens. Estas são algumas maneiras diferentes de como \"os brancos\" concebem a totalidade dos povos indígenas a partir da visão etnocêntrica predominante no mundo ocidental europeu.\nDessa visão limitada e discriminatória, que pautou a relação entre índios e brancos no Brasil desde 1500, resultou uma série de ambiguidades e contradições ainda hoje presentes no imaginário da sociedade brasileira e dos próprios povos indígenas. A sociedade brasileira majoritária, permeada pela visão evolucionista da história e das culturas, continua considerando os povos indígenas como culturas em estágios inferiores, cuja única perspectiva é a integração e a assimilação à cultura global. Os povos indígenas, com forte sentimento de inferioridade, enfrentam duplo desafio: lutar pela autoafirmação identitária e pela conquista de direitos e de cidadania nacional e global.\nLUCIANO, Gersem dos Santos. O índio brasileiro: o que você precisa saber sobre os povos indígenas no Brasil de hoje. Brasília: MEC/SECAD; LACED/Museu Nacional, 2006. 233p. (Coleção Educação Para Todos. Série Vias dos Saberes n. 1.\nCom base no texto, selecione a alternativa correta:",
+      principal: "Leia o fragmento a seguir para responder às questões 1 e 2.\nTEXTO I\nO que pensam os brasileiros sobre os índios brasileiros\nHistoricamente os índios têm sido objeto de múltiplas imagens e conceituações por parte dos não-índios e, em consequência, dos próprios índios, marcadas profundamente por preconceitos e ignorância. Desde a chegada dos portugueses e outros europeus que por aqui se instalaram, os habitantes nativos foram alvo de diferentes percepções e julgamentos quanto às características, aos comportamentos, às capacidades e à natureza biológica e espiritual que lhes são próprias. Alguns religiosos europeus, por exemplo, duvidavam que os índios tivessem alma. Outros não acreditavam que os nativos pertencessem à natureza humana pois, segundo eles, os indígenas mais pareciam animais selvagens. Estas são algumas maneiras diferentes de como \"os brancos\" concebem a totalidade dos povos indígenas a partir da visão etnocêntrica predominante no mundo ocidental europeu.\nDessa visão limitada e discriminatória, que pautou a relação entre índios e brancos no Brasil desde 1500, resultou uma série de ambiguidades e contradições ainda hoje presentes no imaginário da sociedade brasileira e dos próprios povos indígenas. A sociedade brasileira majoritária, permeada pela visão evolucionista da história e das culturas, continua considerando os povos indígenas como culturas em estágios inferiores, cuja única perspectiva é a integração e a assimilação à cultura global. Os povos indígenas, com forte sentimento de inferioridade, enfrentam duplo desafio: lutar pela autoafirmação identitária e pela conquista de direitos e de cidadania nacional e global.\nLUCIANO, Gersem dos Santos. O índio brasileiro: o que você precisa saber sobre os povos indígenas no Brasil de hoje. Brasília: $MEC/SECAD$; $LACED/Museu$ Nacional, 2006. 233p. (Coleção Educação Para Todos. Série Vias dos Saberes n. 1.\nCom base no texto, selecione a alternativa correta:",
       subItens: []
     },
     options: [
@@ -591,15 +591,15 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Sipriano é o pescador da comunidade em que ele vive e na última pescaria, pescou apenas 6 peixes (somente aracu e pacu). Se a probabilidade de Sipriano pescar aracu é 1/3 e de pescar pacu é 2/3, então a probabilidade de Sipriano ter pescado 3 aracus e 3 pacus é igual a:",
+      principal: "Sipriano é o pescador da comunidade em que ele vive e na última pescaria, pescou apenas 6 peixes (somente aracu e pacu). Se a probabilidade de Sipriano pescar aracu é $1/3$ e de pescar pacu é $2/3$, então a probabilidade de Sipriano ter pescado 3 aracus e 3 pacus é igual a:",
       subItens: []
     },
     options: [
-      "20/27",
-      "8/27",
-      "160/729",
-      "8/729",
-      "1/8"
+      "$20/27$",
+      "$8/27$",
+      "$160/729$",
+      "$8/729$",
+      "$1/8$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -696,7 +696,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Um recipiente cilíndrico munido de um pistão contém um gás ideal à temperatura ambiente, pressão de 1,02 x 10⁵ N/m² e volume de 2,00 x 10⁻² m³. Uma força externa F atua sobre o pistão, reduzindo o volume do gás para 1,98 x 10⁻² m³. A pressão se mantém constante durante o processo. O trabalho realizado sobre o gás foi de:",
+      principal: "Um recipiente cilíndrico munido de um pistão contém um gás ideal à temperatura ambiente, pressão de 1,02 x 10⁵ $N/m$² e volume de 2,00 x 10⁻² m³. Uma força externa F atua sobre o pistão, reduzindo o volume do gás para 1,98 x 10⁻² m³. A pressão se mantém constante durante o processo. O trabalho realizado sobre o gás foi de:",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "As fibras ópticas são fios extremamente finos, flexíveis e transparentes. São constituídos geralmente por náilon ou vidro. Quando um sinal luminoso é lançado nesses fios, a luz percorrerá a estrutura com velocidade próxima à que desenvolve no vácuo e, ao se chocar com a superfície de separação vidro/ar, não sofrerá refração. Pois, o ângulo de incidência do raio de luz será sempre superior ao do ângulo limite, devido a espessura mínima do fio. Como consequência, haverá o fenômeno indicado corretamente na alternativa:",
+      principal: "As fibras ópticas são fios extremamente finos, flexíveis e transparentes. São constituídos geralmente por náilon ou vidro. Quando um sinal luminoso é lançado nesses fios, a luz percorrerá a estrutura com velocidade próxima à que desenvolve no vácuo e, ao se chocar com a superfície de separação $vidro/ar$, não sofrerá refração. Pois, o ângulo de incidência do raio de luz será sempre superior ao do ângulo limite, devido a espessura mínima do fio. Como consequência, haverá o fenômeno indicado corretamente na alternativa:",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "[Imagem com legendas: 1-CASA GRANDE - morada do senhor do engenho e da sua família; 2-SENZALA - habitação dos escravos; 3-CASA DO ENGENHO - instalações onde se encontram os aparelhos destinados à fabricação do açúcar]\nFonte: \"Imagens de Brasil colonial engenhos\", https://www.google.com.br/search?q=brasil+colonial+engenho&espv=2&biw=1680&bih=925&tbm=isch&tbo=u&source=univ&sa=X&ved=0CCMQsARqFQoTCNrB2fnQ1scCFYkKkAodsAsEzQ&dpr=1, acessado em 28/08/2015.\nA IMAGEM ACIMA CARACTERIZA:",
+      principal: "[Imagem com legendas: 1-CASA GRANDE - morada do senhor do engenho e da sua família; 2-SENZALA - habitação dos escravos; 3-CASA DO ENGENHO - instalações onde se encontram os aparelhos destinados à fabricação do açúcar]\nFonte: \"Imagens de Brasil colonial engenhos\", https://www.google.com.$br/search$?q=brasil+colonial+engenho&espv=2&biw=1680&bih=925&tbm=isch&tbo=u&source=univ&sa=X&ved=0CCMQsARqFQoTCNrB2fnQ1scCFYkKkAodsAsEzQ&dpr=1, acessado em 28/08/2015.\nA IMAGEM ACIMA CARACTERIZA:",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Leia o fragmento a seguir para responder às questões 4 e 5.\nTEXTO II\nO que pensam os brasileiros sobre os índios brasileiros\nHistoricamente os índios têm sido objeto de múltiplas imagens e conceituações por parte dos não-índios e, em consequência, dos próprios índios, marcadas profundamente por preconceitos e ignorância. Desde a chegada dos portugueses e outros europeus que por aqui se instalaram, os habitantes nativos foram alvo de diferentes percepções e julgamentos quanto às características, aos comportamentos, às capacidades e à natureza biológica e espiritual que lhes são próprias. Alguns religiosos europeus, por exemplo, duvidavam que os índios tivessem alma. Outros não acreditavam que os nativos pertencessem à natureza humana pois, segundo eles, os indígenas mais pareciam animais selvagens. Estas são algumas maneiras diferentes de como \"os brancos\" concebem a totalidade dos povos indígenas a partir da visão etnocêntrica predominante no mundo ocidental europeu.\nDessa visão limitada e discriminatória, que pautou a relação entre índios e brancos no Brasil desde 1500, resultou uma série de ambiguidades e contradições ainda hoje presentes no imaginário da sociedade brasileira e dos próprios povos indígenas. A sociedade brasileira majoritária, permeada pela visão evolucionista da história e das culturas, continua considerando os povos indígenas como culturas em estágios inferiores, cuja única perspectiva é a integração e a assimilação à cultura global. Os povos indígenas, com forte sentimento de inferioridade, enfrentam duplo desafio: lutar pela autoafirmação identitária e pela conquista de direitos e de cidadania nacional e global.\nLUCIANO, Gersem dos Santos. O índio brasileiro: o que você precisa saber sobre os povos indígenas no Brasil de hoje. Brasília: MEC/SECAD; LACED/Museu Nacional, 2006. 233p. (Coleção Educação Para Todos. Série Vias dos Saberes n. 1.\nCom base no texto, selecione a alternativa correta:",
+      principal: "Leia o fragmento a seguir para responder às questões 4 e 5.\nTEXTO II\nO que pensam os brasileiros sobre os índios brasileiros\nHistoricamente os índios têm sido objeto de múltiplas imagens e conceituações por parte dos não-índios e, em consequência, dos próprios índios, marcadas profundamente por preconceitos e ignorância. Desde a chegada dos portugueses e outros europeus que por aqui se instalaram, os habitantes nativos foram alvo de diferentes percepções e julgamentos quanto às características, aos comportamentos, às capacidades e à natureza biológica e espiritual que lhes são próprias. Alguns religiosos europeus, por exemplo, duvidavam que os índios tivessem alma. Outros não acreditavam que os nativos pertencessem à natureza humana pois, segundo eles, os indígenas mais pareciam animais selvagens. Estas são algumas maneiras diferentes de como \"os brancos\" concebem a totalidade dos povos indígenas a partir da visão etnocêntrica predominante no mundo ocidental europeu.\nDessa visão limitada e discriminatória, que pautou a relação entre índios e brancos no Brasil desde 1500, resultou uma série de ambiguidades e contradições ainda hoje presentes no imaginário da sociedade brasileira e dos próprios povos indígenas. A sociedade brasileira majoritária, permeada pela visão evolucionista da história e das culturas, continua considerando os povos indígenas como culturas em estágios inferiores, cuja única perspectiva é a integração e a assimilação à cultura global. Os povos indígenas, com forte sentimento de inferioridade, enfrentam duplo desafio: lutar pela autoafirmação identitária e pela conquista de direitos e de cidadania nacional e global.\nLUCIANO, Gersem dos Santos. O índio brasileiro: o que você precisa saber sobre os povos indígenas no Brasil de hoje. Brasília: $MEC/SECAD$; $LACED/Museu$ Nacional, 2006. 233p. (Coleção Educação Para Todos. Série Vias dos Saberes n. 1.\nCom base no texto, selecione a alternativa correta:",
       subItens: []
     },
     options: [
@@ -1284,15 +1284,15 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Sipriano é o pescador da comunidade em que ele vive e na última pescaria, pescou apenas 6 peixes (somente aracu e pacu). Se a probabilidade de Sipriano pescar aracu é 1/3 e de pescar pacu é 2/3, então a probabilidade de Sipriano ter pescado 3 aracus e 3 pacus é igual a:\nA) 8/27\nB) 160/729\nC) 20/27\nD) 8/729\nE) 1/8",
+      principal: "Sipriano é o pescador da comunidade em que ele vive e na última pescaria, pescou apenas 6 peixes (somente aracu e pacu). Se a probabilidade de Sipriano pescar aracu é $1/3$ e de pescar pacu é $2/3$, então a probabilidade de Sipriano ter pescado 3 aracus e 3 pacus é igual a:\nA) $8/27$\nB) $160/729$\nC) $20/27$\nD) $8/729$\nE) $1/8$",
       subItens: []
     },
     options: [
-      "8/27",
-      "160/729",
-      "20/27",
-      "8/729",
-      "1/8"
+      "$8/27$",
+      "$160/729$",
+      "$20/27$",
+      "$8/729$",
+      "$1/8$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1368,12 +1368,12 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "A reta de equação s : y = 2x + k intercepta o círculo C de centro (X₀, Y₀) e raio r nos pontos A(Xᴀ, Yᴀ) e B(Xʙ, Yʙ). Sabendo-se que a distância horizontal entre A e B é ₁/₂, podemos afirmar que o comprimento do segmento AB vale:\nA) √3/2\nB) √5/2\nC) 3\nD) 4\nE) √3",
+      principal: "A reta de equação s : y = 2x + k intercepta o círculo C de centro (X₀, Y₀) e raio r nos pontos A(Xᴀ, Yᴀ) e B(Xʙ, Yʙ). Sabendo-se que a distância horizontal entre A e B é ₁/₂, podemos afirmar que o comprimento do segmento AB vale:\nA) √$3/2$\nB) √$5/2$\nC) 3\nD) 4\nE) √3",
       subItens: []
     },
     options: [
-      "√3/2",
-      "√5/2",
+      "√$3/2$",
+      "√$5/2$",
       "3",
       "4",
       "√3"
@@ -1389,7 +1389,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "A manutenção da estabilidade do ambiente com o meio interno (fisiológico) de um organismo é exercida por diversos sistemas; este mecanismo recebe o nome de homeostase. Assinale a alternativa que contenha tecidos e/ou sistemas que auxiliam na homeostase:\nA) Sistema reprodutivo e mitocondrias.\nB) Meiose e citoplasma.\nC) Organogênese e tecido muscular.\nD) Mitose e dinoflagelados.\nE) Sistema excretor e tecido epitelial.",
+      principal: "A manutenção da estabilidade do ambiente com o meio interno (fisiológico) de um organismo é exercida por diversos sistemas; este mecanismo recebe o nome de homeostase. Assinale a alternativa que contenha tecidos $e/ou$ sistemas que auxiliam na homeostase:\nA) Sistema reprodutivo e mitocondrias.\nB) Meiose e citoplasma.\nC) Organogênese e tecido muscular.\nD) Mitose e dinoflagelados.\nE) Sistema excretor e tecido epitelial.",
       subItens: []
     },
     options: [
@@ -1578,15 +1578,15 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Uma bola de futebol de massa m = 2,50kg é arremessada contra uma parede que se encontra a uma distância d = 5,00m do arremessador, considerando que a bola leva um tempo total t = 1,20s para retornar as mãos do arremessador. Assumindo velocidade constante, o módulo do momento linear transferido à parede pela bola será:\nA) 10,00Kg/m\nB) 15,10cm²/s²N\nC) 20,75N.s\nD) 10,00N\nE) 13,00m/s",
+      principal: "Uma bola de futebol de massa m = 2,50kg é arremessada contra uma parede que se encontra a uma distância d = 5,00m do arremessador, considerando que a bola leva um tempo total t = 1,20s para retornar as mãos do arremessador. Assumindo velocidade constante, o módulo do momento linear transferido à parede pela bola será:\nA) 10,$00Kg/m$\nB) 15,10cm²/s²N\nC) 20,75N.s\nD) 10,00N\nE) 13,$00m/s$",
       subItens: []
     },
     options: [
-      "10,00Kg/m",
+      "10,$00Kg/m$",
       "15,10cm²/s²N",
       "20,75N.s",
       "10,00N",
-      "13,00m/s"
+      "13,$00m/s$"
     ],
     correctAnswer: 13,
     materia: ["Física"],
@@ -1662,7 +1662,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "As fibras ópticas são fios extremamente finos, flexíveis e transparentes. São constituídos geralmente por náilon ou vidro. Quando um sinal luminoso é lançado nesses fios, a luz percorrerá a estrutura com velocidade próxima à que desenvolve no vácuo e, ao se chocar com a superfície de separação vidro/ar, não sofrerá refração. Pois, o ângulo de incidência do raio de luz será sempre superior ao do ângulo limite, devido a espessura mínima do fio. Como consequência, haverá o fenômeno indicado corretamente na alternativa:\nA) difusão;\nB) interferência;\nC) dispersão;\nD) refração;\nE) reflexão total.",
+      principal: "As fibras ópticas são fios extremamente finos, flexíveis e transparentes. São constituídos geralmente por náilon ou vidro. Quando um sinal luminoso é lançado nesses fios, a luz percorrerá a estrutura com velocidade próxima à que desenvolve no vácuo e, ao se chocar com a superfície de separação $vidro/ar$, não sofrerá refração. Pois, o ângulo de incidência do raio de luz será sempre superior ao do ângulo limite, devido a espessura mínima do fio. Como consequência, haverá o fenômeno indicado corretamente na alternativa:\nA) difusão;\nB) interferência;\nC) dispersão;\nD) refração;\nE) reflexão total.",
       subItens: []
     },
     options: [
@@ -1683,7 +1683,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Um recipiente cilíndrico munido de um pistão contém um gás ideal à temperatura ambiente, pressão de 1,02 x 10⁵ N/m² e volume de 2,00 x 10⁻³m³. Uma força externa F atua sobre o pistão, reduzindo o volume do gás para 1,98 x 10⁻³m³. A pressão se mantém constante durante o processo. O trabalho realizado sobre o gás foi de:\nA) 20,40 J\nB) -20,40 J\nC) 24,00 J\nD) -24,00 J\nE) -0,24 J",
+      principal: "Um recipiente cilíndrico munido de um pistão contém um gás ideal à temperatura ambiente, pressão de 1,02 x 10⁵ $N/m$² e volume de 2,00 x 10⁻³m³. Uma força externa F atua sobre o pistão, reduzindo o volume do gás para 1,98 x 10⁻³m³. A pressão se mantém constante durante o processo. O trabalho realizado sobre o gás foi de:\nA) 20,40 J\nB) -20,40 J\nC) 24,00 J\nD) -24,00 J\nE) -0,24 J",
       subItens: []
     },
     options: [
@@ -1704,15 +1704,15 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Um plano retangular de área A, no sistema internacional (SI), é carregado com carga elétrica +Q, distribuída uniformemente em toda a superfície. Qual será a densidade de carga elétrica dessa região?\nA) Valor variável em unidades de coulomb/m\nB) +Q/A coulomb/m²\nC) +Q coulomb/m²\nD) –Q coulomb/m³\nE) 10 Q coulomb/m",
+      principal: "Um plano retangular de área A, no sistema internacional (SI), é carregado com carga elétrica +Q, distribuída uniformemente em toda a superfície. Qual será a densidade de carga elétrica dessa região?\nA) Valor variável em unidades de $coulomb/m$\nB) +$Q/A$ $coulomb/m$²\nC) +Q $coulomb/m$²\nD) –Q $coulomb/m$³\nE) 10 Q $coulomb/m$",
       subItens: []
     },
     options: [
-      "Valor variável em unidades de coulomb/m",
-      "+Q/A coulomb/m²",
-      "+Q coulomb/m²",
-      "–Q coulomb/m³",
-      "10 Q coulomb/m"
+      "Valor variável em unidades de $coulomb/m$",
+      "+$Q/A$ $coulomb/m$²",
+      "+Q $coulomb/m$²",
+      "–Q $coulomb/m$³",
+      "10 Q $coulomb/m$"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1977,7 +1977,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "O Estado Islâmico destrói estátuas milenares de civilizações passadas, cristãos protestantes brasileiros atiram pedras em adeptos de candomblé e umbanda, cristãos coptas são assassinados no norte da África, Judeus impedem com violência a cidadania de muçulmanos no Oriente Médio e, ao mesmo tempo, sofrem preconceito em outros cantos do mundo inteiro. São apenas alguns exemplos do avanço da intolerância religiosa.\nPires, Yuri. \"Nós, idade média e tolerância religiosa.\" 05/03/2015. Disponível em http://www.ideafixa.com/nos-idade-media-e-tolerancia-religiosa. - ADAPTADO.\nSão comuns, na atualidade, associações entre os eventos de intolerância religiosa e uma suposta \"mentalidade medieval\". Em se tratando de religião na chamada Idade Média, assinale o que for INCORRETO.",
+      principal: "O Estado Islâmico destrói estátuas milenares de civilizações passadas, cristãos protestantes brasileiros atiram pedras em adeptos de candomblé e umbanda, cristãos coptas são assassinados no norte da África, Judeus impedem com violência a cidadania de $\\mu$çulmanos no Oriente Médio e, ao mesmo tempo, sofrem preconceito em outros cantos do mundo inteiro. São apenas alguns exemplos do avanço da intolerância religiosa.\nPires, Yuri. \"Nós, idade média e tolerância religiosa.\" 05/03/2015. Disponível em http://www.ideafixa.$com/nos$-idade-media-e-tolerancia-religiosa. - ADAPTADO.\nSão comuns, na atualidade, associações entre os eventos de intolerância religiosa e uma suposta \"mentalidade medieval\". Em se tratando de religião na chamada Idade Média, assinale o que for INCORRETO.",
       subItens: []
     },
     options: [
@@ -2040,7 +2040,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "[Image of a sugar cane plantation with Casa Grande, Senzala, Engenho]\nFonte: \"Imagens de Brasil colonial engenhos\", https://www.google.com.br/search?q=brasil+colonial+engenho&espv=2&biw=1680&bih=925&tbm=isch&tbo=u&source=univ&sa=X&ved=0CCMQsARqFQoTCNrB2fnQ1scCFYkKkAodsAsEzQ&dpr=1, acessado em 28/08/2015.\nA IMAGEM ACIMA CARACTERIZA:",
+      principal: "[Image of a sugar cane plantation with Casa Grande, Senzala, Engenho]\nFonte: \"Imagens de Brasil colonial engenhos\", https://www.google.com.$br/search$?q=brasil+colonial+engenho&espv=2&biw=1680&bih=925&tbm=isch&tbo=u&source=univ&sa=X&ved=0CCMQsARqFQoTCNrB2fnQ1scCFYkKkAodsAsEzQ&dpr=1, acessado em 28/08/2015.\nA IMAGEM ACIMA CARACTERIZA:",
       subItens: []
     },
     options: [
@@ -2124,7 +2124,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Sobre a ditadura civil/militar brasileira instituída em 1964, pode-se afirmar que:\nA) o executivo federal era ocupado por militares que não tinham seus mandatos legitimados pelo voto direto;\nB) ao longo do período dos governos militares as liberdades individuais e de imprensa foram respeitadas;\nC) no plano externo, os governos militares se associaram de forma firme à extinta União Soviética;\nD) nos governos militares, a prática de torturas não existia e os direitos humanos eram completamente respeitados;\nE) ao final do ciclo dos governos militares a inflação encontrava-se em índices muito baixos.",
+      principal: "Sobre a ditadura $civil/militar$ brasileira instituída em 1964, pode-se afirmar que:\nA) o executivo federal era ocupado por militares que não tinham seus mandatos legitimados pelo voto direto;\nB) ao longo do período dos governos militares as liberdades individuais e de imprensa foram respeitadas;\nC) no plano externo, os governos militares se associaram de forma firme à extinta União Soviética;\nD) nos governos militares, a prática de torturas não existia e os direitos humanos eram completamente respeitados;\nE) ao final do ciclo dos governos militares a inflação encontrava-se em índices muito baixos.",
       subItens: []
     },
     options: [
@@ -2292,7 +2292,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "\"A tradicional \"Festa da Damurida\" acontece todos os anos no mês de novembro, num período de três dias, onde todos os índios da Comunidade Malacacheta, moradores da região [Sudeste do Estado de Roraima, na Região do Município do Cantá], se reúnem em festividade de danças e rituais próprios e se alimentam da Damurida (peixe cozido apimentado).\"\nBARROS, K. Marco Teórico: A comunidade Malacacheta. In: As percepções sobre o ambiente na comunidade indígena malacacheta: realidade e perespectivas diante da presença dos não indígenas. 2010. 127 f. Dissertação (Mestrado em Ensino de Ciências e Matemática) - Universidade Luterana do Brasil, Canoas/2010.38 р.\nO ingrediente principal da Damurida é a pimenta. A piperina e a capsaicina são duas substâncias químicas responsáveis pela sensação de ardor causada pelas pimentas. Observe as duas estruturas abaixo e analise as seguintes proposições:\n[Images of chemical structures for Capsaicina and Piperina]\nI - a piperina possui dois anéis aromáticos em sua estrutura;\nII - a capsaicina apresenta fórmula molecular C₁₈H₂₇NO₃, átomos de carbono com hibridização sp² e 5 (cinco) ligações π (pi);\nIII - a capsaicina e a piperina possuem isomeria geométrica com configuração trans;\nIV - a capsaicina apresenta carbono quiral;\nV - a capsaicina e a piperina, submetidas à ação da água na presença de catalisador, obtêm-se compostos contendo na cadeia lateral do anel aromático carbonos com hibridização do tipo sp³ com arranjo geométrico tetraédrico;\nDas afirmações feitas, estão corretas:\nA) apenas I, III, IV\nB) apenas I, II, III e V\nC) apenas I, II\nD) apenas II, III\nE) apenas II, III e V",
+      principal: "\"A tradicional \"Festa da Damurida\" acontece todos os anos no mês de novembro, num período de três dias, onde todos os índios da Comunidade Malacacheta, moradores da região [Sudeste do Estado de Roraima, na Região do Município do Cantá], se reúnem em festividade de danças e rituais próprios e se alimentam da Damurida (peixe cozido apimentado).\"\nBARROS, K. Marco Teórico: A comunidade Malacacheta. In: As percepções sobre o ambiente na comunidade indígena malacacheta: realidade e perespectivas diante da presença dos não indígenas. 2010. 127 f. Dissertação (Mestrado em Ensino de Ciências e Matemática) - Universidade Luterana do Brasil, $Canoas/2010$.38 р.\nO ingrediente principal da Damurida é a pimenta. A piperina e a capsaicina são duas substâncias químicas responsáveis pela sensação de ardor causada pelas pimentas. Observe as duas estruturas abaixo e analise as seguintes proposições:\n[Images of chemical structures for Capsaicina and Piperina]\nI - a piperina possui dois anéis aromáticos em sua estrutura;\nII - a capsaicina apresenta fórmula molecular C₁₈H₂₇NO₃, átomos de carbono com hibridização sp² e 5 (cinco) ligações π ($\\pi$);\nIII - a capsaicina e a piperina possuem isomeria geométrica com configuração trans;\nIV - a capsaicina apresenta carbono quiral;\nV - a capsaicina e a piperina, submetidas à ação da água na presença de catalisador, obtêm-se compostos contendo na cadeia lateral do anel aromático carbonos com hibridização do tipo sp³ com arranjo geométrico tetraédrico;\nDas afirmações feitas, estão corretas:\nA) apenas I, III, IV\nB) apenas I, II, III e V\nC) apenas I, II\nD) apenas II, III\nE) apenas II, III e V",
       subItens: []
     },
     options: [
@@ -2355,7 +2355,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Mount Roraima is a fascinating lost world\nIt's a real lost world. On this flat-topped mountain in Venezuela, cut off from civilisation, prehistoric castaways have evolved into unique species found nowhere else on the planet.\nWelcome to the Mount Roraima, a spectacular sight which Lonely Planet has explored for the new book The World's Great Wonders.\nWaterfalls spilling down sheer cliff faces into clouds. Labyrinths of stone pinnacles. Valleys carpeted with crystals. Carnivorous pitcher plants. Exquisite rare orchids.\nWhen you gazed up at the fortress of stone from the base of the mountain, you didn't know what to expect from this plateau floating high above the Amazon jungle. Now that you're on the summit, it feels as if you've stepped into some archaic land. A world untouched by humankind. A forgotten world.\nPitching your tent for the night inside the caves, you hunker down, your dreams filled with images of gushing waterfalls, strange shifting landscapes and prehistoric creatures.\n(http://www.news.com.au/travel/world-travel/mount-roraima-is-a-fascinating-lost-world/story-e6frfqcr-1226928325804 Acesso em 01/09/2015)\nThe word CUT OFF highlighted in the text may be substituted by:",
+      principal: "Mount Roraima is a fascinating lost world\nIt's a real lost world. On this flat-topped mountain in Venezuela, cut off from civilisation, prehistoric castaways have evolved into unique species found nowhere else on the planet.\nWelcome to the Mount Roraima, a spectacular sight which Lonely Planet has explored for the new book The World's Great Wonders.\nWaterfalls spilling down sheer cliff faces into clouds. Labyrinths of stone pinnacles. Valleys carpeted with crystals. Carnivorous pitcher plants. Exquisite rare orchids.\nWhen you gazed up at the fortress of stone from the base of the mountain, you didn't know what to expect from this plateau floating high above the Amazon jungle. Now that you're on the summit, it feels as if you've stepped into some archaic land. A world untouched by humankind. A forgotten world.\nPitching your tent for the night inside the caves, you hunker down, your dreams filled with images of gushing waterfalls, strange shifting landscapes and prehistoric creatures.\n(http://www.news.com.au/travel/world-$travel/mount$-roraima-is-a-fascinating-lost-$world/story$-e6frfqcr-1226928325804 Acesso em 01/09/2015)\nThe word CUT OFF highlighted in the text may be substituted by:",
       subItens: []
     },
     options: [
@@ -2376,7 +2376,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Mount Roraima, a Mystified Hiking Experience\nHiking here is not hard and you can also get help from the indigenous population, as they organize tour guides in exchange for a small sum of money. If you are on your own however, try to reserve at least four days for this fantastic journey, as there are plenty of things to see and enjoy up there. Mount Roraima is said to have some of _________ hiking trails in the world.\nYou should not leave after 2 p.m. from the village as trekkers are no longer allowed after this hour. At the beginning of your climb, your baggages will be strictly checked and you can not take more than 15 kilos with you. So careful how you organize things. Being given that this is a national park, you are not permitted to take rocks or plants along the way.\nThe top of the mountain measures 2772m, it offers amazing landscapes and establishing a tent around here is possible. However, you should know the weather changes suddenly in this area so be prepared.\n(http://www.tourismontheedge.com/best-of/mount-roraima-a-mystified-hiking-experience.html Acesso em 01/09/2015)\nWhich alternative below contains an adjective in the superlative form that best complete the gap in the text?",
+      principal: "Mount Roraima, a Mystified Hiking Experience\nHiking here is not hard and you can also get help from the indigenous population, as they organize tour guides in exchange for a small sum of money. If you are on your own however, try to reserve at least four days for this fantastic journey, as there are plenty of things to see and enjoy up there. Mount Roraima is said to have some of _________ hiking trails in the world.\nYou should not leave after 2 p.m. from the village as trekkers are no longer allowed after this hour. At the beginning of your climb, your baggages will be strictly checked and you can not take more than 15 kilos with you. So careful how you organize things. Being given that this is a national park, you are not permitted to take rocks or plants along the way.\nThe top of the mountain measures 2772m, it offers amazing landscapes and establishing a tent around here is possible. However, you should know the weather changes suddenly in this area so be prepared.\n(http://www.tourismontheedge.$com/best$-$of/mount$-roraima-a-mystified-hiking-experience.html Acesso em 01/09/2015)\nWhich alternative below contains an adjective in the superlative form that best complete the gap in the text?",
       subItens: []
     },
     options: [
@@ -2460,7 +2460,7 @@ createQuestion({
     university: "ufrr",
     year: 2016,
     text: {
-      principal: "Read the following passage and answer the question\nRoraima is an interesting mountain located in the Guiana Highlands. The peak actually shares the border with Venezuela, Brazil, and Guyana, but the mountain is almost always approached from the Venezuela side. The Brazil and Guyana sides are much more difficult. The mountain's highest point is Maverick Rock which is at and on the Venezuela side.\nhttp://www.summitpost.org/monte-roraima/151790 acess on 01/09/2015.\nMark the alternative which contains a FALSE COGNATE:",
+      principal: "Read the following passage and answer the question\nRoraima is an interesting mountain located in the Guiana Highlands. The peak actually shares the border with Venezuela, Brazil, and Guyana, but the mountain is almost always approached from the Venezuela side. The Brazil and Guyana sides are much more difficult. The mountain's highest point is Maverick Rock which is at and on the Venezuela side.\nhttp://www.summitpost.$org/monte$-$roraima/151790$ acess on 01/09/2015.\nMark the alternative which contains a FALSE COGNATE:",
       subItens: []
     },
     options: [

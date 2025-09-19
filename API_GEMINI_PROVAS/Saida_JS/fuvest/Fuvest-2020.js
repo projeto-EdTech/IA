@@ -3,7 +3,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Em Xangai, uma loja especializada em café oferece uma opção diferente para adoçar a bebida. A chamada sweet little rain consiste em uma xícara de café sobre a qual é pendurado um algodão-doce, material rico em sacarose, o que passa a impressão de existir uma nuvem pairando sobre o café, conforme ilustrado na imagem. Disponível em https://www.boredpanda.com/.\nO café quente é então adicionado na xícara e, passado um tempo, gotículas começam a pingar sobre a bebida, simulando uma chuva doce e reconfortante. A adição de café quente inicia o processo descrito, pois\nNote e adote:\nTemperatura de fusão da sacarose à pressão ambiente = 186 °C;\nSolubilidade da sacarose a 20 °C = 1,97 kg/L de água.",
+      principal: "Em Xangai, uma loja especializada em café oferece uma opção diferente para adoçar a bebida. A chamada sweet little rain consiste em uma xícara de café sobre a qual é pendurado um algodão-doce, material rico em sacarose, o que passa a impressão de existir uma nuvem pairando sobre o café, conforme ilustrado na imagem. Disponível em https://www.boredpanda.com/.\nO café quente é então adicionado na xícara e, passado um tempo, gotículas começam a pingar sobre a bebida, simulando uma chuva doce e reconfortante. A adição de café quente inicia o processo descrito, pois\nNote e adote:\nTemperatura de fusão da sacarose à pressão ambiente = 186 °C;\nSolubilidade da sacarose a 20 °C = 1,97 $kg/L$ de água.",
       subItens: []
     },
     options: [
@@ -24,7 +24,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Equipamentos domésticos chamados de vaporizadores para roupa utilizam o vapor de água gerado por um sistema de resistências elétricas a partir de água líquida. Um equipamento com potência nominal de 1.600 W foi utilizado para passar roupas por 20 minutos, consumindo 540 mL de água. Em relação ao gasto total de energia do equipamento, o gasto de energia utilizado apenas para vaporizar a água, após ela já ter atingido a temperatura de ebulição, equivale a, aproximadamente,\nNote e adote:\nEntalpia de vaporização da água a 100 °C = 40 kJ/mol;\nMassa molar da água = 18 g/mol;\nDensidade da água = 1 g/mL.",
+      principal: "Equipamentos domésticos chamados de vaporizadores para roupa utilizam o vapor de água gerado por um sistema de resistências elétricas a partir de água líquida. Um equipamento com potência nominal de 1.600 W foi utilizado para passar roupas por 20 minutos, consumindo 540 mL de água. Em relação ao gasto total de energia do equipamento, o gasto de energia utilizado apenas para vaporizar a água, após ela já ter atingido a temperatura de ebulição, equivale a, aproximadamente,\nNote e adote:\nEntalpia de vaporização da água a 100 °C = 40 $kJ/mol$;\nMassa molar da água = 18 $g/mol$;\nDensidade da água = 1 $g/mL$.",
       subItens: []
     },
     options: [
@@ -66,7 +66,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Ao se preparar molho de tomate (considere apenas a fervura de tomate batido com água e azeite), é possível observar que a fração aquosa (fase inferior) fica vermelha logo no início e a fração oleosa (fase superior), inicialmente com a cor característica do azeite, começa a ficar avermelhada conforme o preparo do molho. Por outro lado, ao se preparar uma sopa de beterraba (considere apenas a fervura de beterraba batida com água e azeite), a fração aquosa (fase inferior) fica com a cor rosada e a fração oleosa (fase superior) permanece com sua coloração típica durante todo o processo, não tendo sua cor alterada.\nSão apresentadas duas figuras. A primeira mostra um “Molho de tomate” com uma camada superior de “fração oleosa” e uma camada inferior de “fração aquosa”. Abaixo, a estrutura do “Licopeno - principal corante do tomate” é exibida. A segunda figura mostra uma “Sopa de beterraba” com camadas semelhantes e a estrutura da “Betanina - principal corante da beterraba” é exibida.\nNote e adote:\nMassas molares (g/mol):\nLicopeno = 537; betanina = 551.\nConsiderando as informações apresentadas no texto e no quadro, a principal razão para a diferença de coloração descrita é que a fração oleosa",
+      principal: "Ao se preparar molho de tomate (considere apenas a fervura de tomate batido com água e azeite), é possível observar que a fração aquosa (fase inferior) fica vermelha logo no início e a fração oleosa (fase superior), inicialmente com a cor característica do azeite, começa a ficar avermelhada conforme o preparo do molho. Por outro lado, ao se preparar uma sopa de beterraba (considere apenas a fervura de beterraba batida com água e azeite), a fração aquosa (fase inferior) fica com a cor rosada e a fração oleosa (fase superior) permanece com sua coloração típica durante todo o processo, não tendo sua cor alterada.\nSão apresentadas duas figuras. A primeira mostra um “Molho de tomate” com uma camada superior de “fração oleosa” e uma camada inferior de “fração aquosa”. Abaixo, a estrutura do “Licopeno - principal corante do tomate” é exibida. A segunda figura mostra uma “Sopa de beterraba” com camadas semelhantes e a estrutura da “Betanina - principal corante da beterraba” é exibida.\nNote e adote:\nMassas molares ($g/mol$):\nLicopeno = 537; betanina = 551.\nConsiderando as informações apresentadas no texto e no quadro, a principal razão para a diferença de coloração descrita é que a fração oleosa",
       subItens: []
     },
     options: [
@@ -87,7 +87,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Numa determinada condição experimental e com o catalisador adequado, ocorre uma reação, conforme representada no gráfico, que relaciona porcentagem do composto pelo tempo de reação.\nO gráfico exibe a “Quantidade (%)” de limoneno, p-cimeno e α-terpineno em função do “Tempo (minutos)”. A linha de limoneno (reagente) começa em 100% e diminui ao longo do tempo. A linha de p-cimeno (intermediário/produto) começa em 0%, aumenta e depois diminui. A linha de α-terpineno (produto final) começa em 0% e aumenta continuamente.\nUma representação adequada para esse processo é:",
+      principal: "Numa determinada condição experimental e com o catalisador adequado, ocorre uma reação, conforme representada no gráfico, que relaciona porcentagem do composto pelo tempo de reação.\nO gráfico exibe a “Quantidade (%)” de limoneno, p-cimeno e α-terpineno em função do “Tempo (minutos)”. A linha de limoneno (reagente) começa em 100% e diminui ao longo do tempo. A linha de p-cimeno (intermediá$rio/produto$) começa em 0%, aumenta e depois diminui. A linha de α-terpineno (produto final) começa em 0% e aumenta continuamente.\nUma representação adequada para esse processo é:",
       subItens: []
     },
     options: [
@@ -108,7 +108,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Os chamados \"remédios homeopáticos\" são produzidos seguindo a farmacotécnica homeopática, que se baseia em diluições sequenciais de determinados compostos naturais. A dosagem utilizada desses produtos é da ordem de poucos mL. Uma das técnicas de diluição homeopática é chamada de diluição centesimal (CH), ou seja, uma parte da solução é diluída em 99 partes de solvente e a solução resultante é homogeneizada (ver esquema).\nO esquema ilustra o processo de diluição centesimal (CH), começando com uma “Solução de partida” de 1,0 mL, que é diluída com 99 mL para formar a 1CH. O processo se repete, pegando 1,0 mL da solução anterior e diluindo com 99 mL, para formar 2CH, 3CH, até nCH.\nNote e adote:\nNúmero de Avogadro = 6×10^23.\nConsiderando uma solução de partida de 100 mL com concentração 1 mol/L de princípio ativo, a partir de qual diluição centesimal a solução passa a não ter, em média, nem mesmo uma molécula do princípio ativo?",
+      principal: "Os chamados \"remédios homeopáticos\" são produzidos seguindo a farmacotécnica homeopática, que se baseia em diluições sequenciais de determinados compostos naturais. A dosagem utilizada desses produtos é da ordem de poucos mL. Uma das técnicas de diluição homeopática é chamada de diluição centesimal (CH), ou seja, uma parte da solução é diluída em 99 partes de solvente e a solução resultante é homogeneizada (ver esquema).\nO esquema ilustra o processo de diluição centesimal (CH), começando com uma “Solução de partida” de 1,0 mL, que é diluída com 99 mL para formar a 1CH. O processo se repete, pegando 1,0 mL da solução anterior e diluindo com 99 mL, para formar 2CH, 3CH, até nCH.\nNote e adote:\nNúmero de Avogadro = 6×$10^23$.\nConsiderando uma solução de partida de 100 mL com concentração 1 $mol/L$ de princípio ativo, a partir de qual diluição centesimal a solução passa a não ter, em média, nem mesmo uma molécula do princípio ativo?",
       subItens: []
     },
     options: [
@@ -129,7 +129,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "O gás hélio disponível comercialmente pode ser gerado pelo decaimento radioativo, sobretudo do urânio, conforme esquematizado pela série de decaimento. Desde a formação da Terra, há 4,5 bilhões de anos, apenas metade do ^238U decaiu para a formação de He.\nA série de decaimento do Urânio (^238U) é apresentada, mostrando as transformações nucleares, incluindo decaimentos alfa (α) e beta (β), passando por vários elementos como Tório (Th), Protactínio (Pa), Rádio (Ra), Radônio (Rn), Polônio (Po), Bismuto (Bi), Chumbo (Pb), até chegar ao isótopo estável ^206Pb.\nCom base nessas informações e em seus conhecimentos, é correto afirmar:",
+      principal: "O gás hélio disponível comercialmente pode ser gerado pelo decaimento radioativo, sobretudo do urânio, conforme esquematizado pela série de decaimento. Desde a formação da Terra, há 4,5 bilhões de anos, apenas metade do ^238U decaiu para a formação de He.\nA série de decaimento do Urânio (^238U) é apresentada, mostrando as transformações nucleares, incluindo decaimentos alfa (α) e $\\beta$ (β), passando por vários elementos como Tório (Th), Protactínio (Pa), Rádio (Ra), Radônio (Rn), Polônio (Po), Bismuto (Bi), Chumbo (Pb), até chegar ao isótopo estável ^206Pb.\nCom base nessas informações e em seus conhecimentos, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -234,15 +234,15 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Para exemplificar probabilidade, um grupo de estudantes fez uma atividade envolvendo química, conforme o procedimento descrito.\nCada estudante recebeu um recipiente contendo 800 mL de água destilada com algumas gotas do indicador de pH alaranjado de metila e soluções de HCl e NaOH em diversas concentrações.\nCada estudante deveria jogar apenas uma vez dois dados, um amarelo e um vermelho, ambos contendo os números de 1 a 6.\n• Ao jogar o dado vermelho, o estudante deveria adicionar ao recipiente 100 mL de solução do ácido clorídrico na concentração 10⁻ⁿ mol/L, sendo n o número marcado no dado (por exemplo, se saísse o número 1 no dado, a solução seria de 10⁻¹ mol/L; se saísse 6, a solução seria de 10⁻⁶ mol/L).\n• Ao jogar o dado amarelo, o estudante deveria executar o mesmo procedimento, mas substituindo o ácido por NaOH, totalizando assim 1,0 L de solução.\n• O estudante deveria observar a cor da solução ao final do experimento.\nA professora mostrou a tabela com alguns valores de pH resultantes conforme os números tirados nos dados. Ela pediu, então, aos estudantes que utilizassem seus conhecimentos e a tabela para prever em quais combinações de dados a cor final do indicador seria vermelha.\nA tabela \"Dado amarelo (adição de base)\" mostra valores de pH para cada combinação de resultados dos dados vermelho (adição de ácido) e amarelo (adição de base), variando de 1 a 6 para ambos.\nNote e adote:\nConsidere a seguinte relação entre pH do meio e coloração do indicador alaranjado de metila:\nMenor que 3,3 -> Vermelho\n3,3 a 4,4 -> Laranja\nMaior que 4,4 -> Amarelo\nÉ apresentada uma escala de pH de 0 a 14 com as regiões de cor para o alaranjado de metila.\nA probabilidade de, após realizar o procedimento descrito, a solução final preparada por um estudante ser vermelha é de:",
+      principal: "Para exemplificar probabilidade, um grupo de estudantes fez uma atividade envolvendo química, conforme o procedimento descrito.\nCada estudante recebeu um recipiente contendo 800 mL de água destilada com algumas gotas do indicador de pH alaranjado de metila e soluções de HCl e NaOH em diversas concentrações.\nCada estudante deveria jogar apenas uma vez dois dados, um amarelo e um vermelho, ambos contendo os números de 1 a 6.\n• Ao jogar o dado vermelho, o estudante deveria adicionar ao recipiente 100 mL de solução do ácido clorídrico na concentração 10⁻ⁿ $mol/L$, sendo n o número marcado no dado (por exemplo, se saísse o número 1 no dado, a solução seria de 10⁻¹ $mol/L$; se saísse 6, a solução seria de 10⁻⁶ $mol/L$).\n• Ao jogar o dado amarelo, o estudante deveria executar o mesmo procedimento, mas substituindo o ácido por NaOH, totalizando assim 1,0 L de solução.\n• O estudante deveria observar a cor da solução ao final do experimento.\nA professora mostrou a tabela com alguns valores de pH resultantes conforme os números tirados nos dados. Ela pediu, então, aos estudantes que utilizassem seus conhecimentos e a tabela para prever em quais combinações de dados a cor final do indicador seria vermelha.\nA tabela \"Dado amarelo (adição de base)\" mostra valores de pH para cada combinação de resultados dos dados vermelho (adição de ácido) e amarelo (adição de base), variando de 1 a 6 para ambos.\nNote e adote:\nConsidere a seguinte relação entre pH do meio e coloração do indicador alaranjado de metila:\nMenor que 3,3 -> Vermelho\n3,3 a 4,4 -> Laranja\nMaior que 4,4 -> Amarelo\nÉ apresentada uma escala de pH de 0 a 14 com as regiões de cor para o alaranjado de metila.\nA probabilidade de, após realizar o procedimento descrito, a solução final preparada por um estudante ser vermelha é de:",
       subItens: []
     },
     options: [
-      "1/12",
-      "1/6",
-      "1/4",
-      "11/36",
-      "5/12"
+      "$1/12$",
+      "$1/6$",
+      "$1/4$",
+      "$11/36$",
+      "$5/12$"
     ],
     correctAnswer: 2,
     materia: ["Matemática", "Química"],
@@ -318,7 +318,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Um objeto é formado por 4 hastes rígidas conectadas em seus extremos por articulações, cujos centros são os vértices de um paralelogramo. As hastes movimentam-se de tal forma que o paralelogramo permanece sempre no mesmo plano. A cada configuração desse objeto, associa-se θ, a medida do menor ângulo interno do paralelogramo. A área da região delimitada pelo paralelogramo quando θ = 90° é A.\nA imagem mostra um paralelogramo onde um dos ângulos internos é marcado como θ. Há também um quadrado, com a mesma base do paralelogramo, e sua área é indicada como A, correspondendo ao caso em que θ = 90°.\nPara que a área da região delimitada pelo paralelogramo seja A/2, o valor de θ é, necessariamente, igual a",
+      principal: "Um objeto é formado por 4 hastes rígidas conectadas em seus extremos por articulações, cujos centros são os vértices de um paralelogramo. As hastes movimentam-se de tal forma que o paralelogramo permanece sempre no mesmo plano. A cada configuração desse objeto, associa-se θ, a medida do menor ângulo interno do paralelogramo. A área da região delimitada pelo paralelogramo quando θ = 90° é A.\nA imagem mostra um paralelogramo onde um dos ângulos internos é marcado como θ. Há também um quadrado, com a mesma base do paralelogramo, e sua área é indicada como A, correspondendo ao caso em que θ = 90°.\nPara que a área da região delimitada pelo paralelogramo seja $A/2$, o valor de θ é, necessariamente, igual a",
       subItens: []
     },
     options: [
@@ -490,11 +490,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "10/3 e 10.",
-      "10/3, 5 e 10.",
-      "10/3, 10.",
-      "5/3 e 10.",
-      "10/3 e 5."
+      "$10/3$ e 10.",
+      "$10/3$, 5 e 10.",
+      "$10/3$, 10.",
+      "$5/3$ e 10.",
+      "$10/3$ e 5."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -843,7 +843,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "O Twitter é uma das redes sociais mais importantes no Brasil e no mundo. (...) Um estudo identificou que as fake news são 70% mais propensas a serem retweetadas do que fatos verdadeiros. (...) Outra conclusão importante do trabalho diz respeito aos famosos bots: ao contrário do que muitos pensam, esses robôs não são os grandes responsáveis por disseminar notícias falsas. Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.\nSuper Interessante, \"No Twitter, fake news se espalham 6 vezes mais rápido que notícias verdadeiras\". Maio/2019.\nNo período \"Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.\", os dois-pontos são utilizados para introduzir uma",
+      principal: "O Twitter é uma das redes sociais mais importantes no Brasil e no mundo. (...) Um estudo identificou que as fake news são 70% mais propensas a serem retweetadas do que fatos verdadeiros. (...) Outra conclusão importante do trabalho diz respeito aos famosos bots: ao contrário do que muitos pensam, esses robôs não são os grandes responsáveis por disseminar notícias falsas. Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.\nSuper Interessante, \"No Twitter, fake news se espalham 6 vezes mais rápido que notícias verdadeiras\". $Maio/2019$.\nNo período \"Nem mesmo comparando com outros robozinhos: tanto os que espalham informações mentirosas quanto aqueles que divulgam dados verdadeiros alcançaram o mesmo número de pessoas.\", os dois-pontos são utilizados para introduzir uma",
       subItens: []
     },
     options: [
@@ -876,7 +876,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Literatura Brasileira", "Realismo/Modernismo"],
+    conteudo: ["Literatura Brasileira", "$Realismo/Modernismo$"],
     imageNames: []
 }),
 
@@ -906,7 +906,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 44 E 45\nE Sofia? interroga impaciente a leitora, tal qual Orgon: Et Tartufe? Ai, amiga minha, a resposta é naturalmente a mesma, — também ela comia bem, dormia largo e fofo, — coisas que, aliás, não impedem que uma pessoa ame, quando quer amar. Se esta última reflexão é o motivo secreto da vossa pergunta, deixai que vos diga que sois muito indiscreta, e que eu não me quero senão com dissimulados.\nRepito, comia bem, dormia largo e fofo. Chegara ao fim da comissão das Alagoas, com elogios da imprensa; a Atalaia chamou-lhe “o anjo da consolação”. E não se pense que este nome a alegrou, posto que a lisonjeasse; ao contrário, resumindo em Sofia toda a ação da caridade, podia mortificar as novas amigas, e fazer-lhe perder em um dia o trabalho de longos meses. Assim se explica o artigo que a mesma folha trouxe no número seguinte, nomeando, particularizando e glorificando as outras comissárias — “estrelas de primeira grandeza”.\nMachado de Assis, Quincas Borba.\nNo excerto, o autor recorre à intertextualidade, dialogando com a comédia de Molière, Tartufo (1664), cuja personagem central é um impostor da fé. Tal é a fama da peça que o nome próprio se incorporou ao vocabulário, inclusive em português, como substantivo comum, para designar o \"indivíduo hipócrita\" ou o \"falso devoto\". No contexto maior do romance, sugere-se que a tartufice",
+      principal: "TEXTO PARA AS QUESTÕES 44 E 45\nE Sofia? interroga impaciente a leitora, tal qual Orgon: Et Tartufe? Ai, amiga minha, a resposta é naturalmente a mesma, — também ela comia bem, dormia largo e fofo, — coisas que, aliás, não impedem que uma pessoa ame, quando quer amar. Se esta última reflexão é o motivo secreto da vossa pergunta, deixai que vos diga que sois muito indiscreta, e que eu não me quero $\\sin$ão com dissimulados.\nRepito, comia bem, dormia largo e fofo. Chegara ao fim da comissão das Alagoas, com elogios da imprensa; a Atalaia chamou-lhe “o anjo da consolação”. E não se pense que este nome a alegrou, posto que a lisonjeasse; ao contrário, resumindo em Sofia toda a ação da caridade, podia mortificar as novas amigas, e fazer-lhe perder em um dia o trabalho de longos meses. Assim se explica o artigo que a mesma folha trouxe no número seguinte, nomeando, particularizando e glorificando as outras comissárias — “estrelas de primeira grandeza”.\nMachado de Assis, Quincas Borba.\nNo excerto, o autor recorre à intertextualidade, dialogando com a comédia de Molière, Tartufo (1664), cuja personagem central é um impostor da fé. Tal é a fama da peça que o nome próprio se incorporou ao vocabulário, inclusive em português, como substantivo comum, para designar o \"indivíduo hipócrita\" ou o \"falso devoto\". No contexto maior do romance, sugere-se que a tartufice",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 44 E 45\nE Sofia? interroga impaciente a leitora, tal qual Orgon: Et Tartufe? Ai, amiga minha, a resposta é naturalmente a mesma, — também ela comia bem, dormia largo e fofo, — coisas que, aliás, não impedem que uma pessoa ame, quando quer amar. Se esta última reflexão é o motivo secreto da vossa pergunta, deixai que vos diga que sois muito indiscreta, e que eu não me quero senão com dissimulados.\nRepito, comia bem, dormia largo e fofo. Chegara ao fim da comissão das Alagoas, com elogios da imprensa; a Atalaia chamou-lhe “o anjo da consolação”. E não se pense que este nome a alegrou, posto que a lisonjeasse; ao contrário, resumindo em Sofia toda a ação da caridade, podia mortificar as novas amigas, e fazer-lhe perder em um dia o trabalho de longos meses. Assim se explica o artigo que a mesma folha trouxe no número seguinte, nomeando, particularizando e glorificando as outras comissárias — “estrelas de primeira grandeza”.\nMachado de Assis, Quincas Borba.\nConsiderando o contexto, o trecho “E não se pense que este nome a alegrou, posto que a lisonjeasse\" (L.10-11) pode ser reescrito, sem prejuízo de sentido, da seguinte maneira: E não se pense que este nome a alegrou,",
+      principal: "TEXTO PARA AS QUESTÕES 44 E 45\nE Sofia? interroga impaciente a leitora, tal qual Orgon: Et Tartufe? Ai, amiga minha, a resposta é naturalmente a mesma, — também ela comia bem, dormia largo e fofo, — coisas que, aliás, não impedem que uma pessoa ame, quando quer amar. Se esta última reflexão é o motivo secreto da vossa pergunta, deixai que vos diga que sois muito indiscreta, e que eu não me quero $\\sin$ão com dissimulados.\nRepito, comia bem, dormia largo e fofo. Chegara ao fim da comissão das Alagoas, com elogios da imprensa; a Atalaia chamou-lhe “o anjo da consolação”. E não se pense que este nome a alegrou, posto que a lisonjeasse; ao contrário, resumindo em Sofia toda a ação da caridade, podia mortificar as novas amigas, e fazer-lhe perder em um dia o trabalho de longos meses. Assim se explica o artigo que a mesma folha trouxe no número seguinte, nomeando, particularizando e glorificando as outras comissárias — “estrelas de primeira grandeza”.\nMachado de Assis, Quincas Borba.\nConsiderando o contexto, o trecho “E não se pense que este nome a alegrou, posto que a lisonjeasse\" (L.10-11) pode ser reescrito, sem prejuízo de sentido, da seguinte maneira: E não se pense que este nome a alegrou,",
       subItens: []
     },
     options: [
@@ -990,7 +990,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 48 E 49\nÓbitos por cepas de bactérias resistentes a antibióticos vêm crescendo. Um estudo do governo britânico estima que, em escala global, os óbitos por cepas resistentes já cheguem a 700 mil por ano. E as coisas têm piorado. Além das bactérias, já estão surgindo fungos resistentes, como a Candida auris.\nQualquer solução passa por um esforço multinacional de ações coordenadas. O crescente número de governos isolacionistas e até antidarwinistas não dá razões para otimismo. Há urgência. O estudo britânico calcula que, se nada for feito, em 2050, as mortes por infecções resistentes chegarão a 10 milhões ao ano.\nHélio Schwartsman, \"Mortes anunciadas\". Folha de São Paulo, Abril/2019. Adaptado.\nO autor expressa preocupação com o fato de que as soluções para o problema apontado passam por um esforço multinacional, em face ao crescente número de governos isolacionistas, porque",
+      principal: "TEXTO PARA AS QUESTÕES 48 E 49\nÓbitos por cepas de bactérias resistentes a antibióticos vêm crescendo. Um estudo do governo britânico estima que, em escala global, os óbitos por cepas resistentes já cheguem a 700 mil por ano. E as coisas têm piorado. Além das bactérias, já estão surgindo fungos resistentes, como a Candida auris.\nQualquer solução passa por um esforço multinacional de ações coordenadas. O crescente número de governos isolacionistas e até antidarwinistas não dá razões para otimismo. Há urgência. O estudo britânico calcula que, se nada for feito, em 2050, as mortes por infecções resistentes chegarão a 10 milhões ao ano.\nHélio Schwartsman, \"Mortes anunciadas\". Folha de São Paulo, $Abril/2019$. Adaptado.\nO autor expressa preocupação com o fato de que as soluções para o problema apontado passam por um esforço multinacional, em face ao crescente número de governos isolacionistas, porque",
       subItens: []
     },
     options: [
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Um paciente, com câncer sanguíneo (linfoma) e infectado por HIV, fez quimioterapia e recebeu um transplante de células-tronco da medula óssea de um doador resistente ao HIV. Como resultado, tanto o câncer como o HIV retroagiram neste paciente. O receptor mais usado pelo HIV para entrar nas células do corpo é o CCR5. Um pequeno número de pessoas resistentes ao HIV tem duas cópias mutadas do gene do receptor CCR5. Isso significa que o vírus não pode penetrar nas células sanguíneas do corpo que costumam ser infectadas. O paciente recebeu células-tronco da medula óssea de um doador que tem essa mutação genética específica, o que fez com que também ficasse resistente ao HIV.\nDisponível em https://www.bbc.com/. Março/2019. Adaptado.\nA terapia celular a que o texto se refere",
+      principal: "Um paciente, com câncer sanguíneo (linfoma) e infectado por HIV, fez quimioterapia e recebeu um transplante de células-tronco da medula óssea de um doador resistente ao HIV. Como resultado, tanto o câncer como o HIV retroagiram neste paciente. O receptor mais usado pelo HIV para entrar nas células do corpo é o CCR5. Um pequeno número de pessoas resistentes ao HIV tem duas cópias mutadas do gene do receptor CCR5. Isso significa que o vírus não pode penetrar nas células sanguíneas do corpo que costumam ser infectadas. O paciente recebeu células-tronco da medula óssea de um doador que tem essa mutação genética específica, o que fez com que também ficasse resistente ao HIV.\nDisponível em https://www.bbc.com/. Març$o/2019$. Adaptado.\nA terapia celular a que o texto se refere",
       subItens: []
     },
     options: [
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Pesquisadores do Museu Nacional, no Rio de Janeiro, encontraram o crânio e uma parte do fêmur de Luzia, o esqueleto humano mais antigo descoberto na América que revolucionou as teorias científicas sobre a ocupação do continente. Os fósseis foram achados há alguns dias (não foi divulgado quando) junto aos escombros do edifício, parcialmente destruído por um incêndio em 2 de setembro. O crânio está fragmentado, porque a cola que mantinha os seus pedaços juntos se foi com o calor, mas a equipe está bastante otimista com suas condições.\nJúlia Barbon, Folha de São Paulo, Outubro/2018. Adaptado.\nO esqueleto de Luzia,",
+      principal: "Pesquisadores do Museu Nacional, no Rio de Janeiro, encontraram o crânio e uma parte do fêmur de Luzia, o esqueleto humano mais antigo descoberto na América que revolucionou as teorias científicas sobre a ocupação do continente. Os fósseis foram achados há alguns dias (não foi divulgado quando) junto aos escombros do edifício, parcialmente destruído por um incêndio em 2 de setembro. O crânio está fragmentado, porque a cola que mantinha os seus pedaços juntos se foi com o calor, mas a equipe está bastante otimista com suas condições.\nJúlia Barbon, Folha de São Paulo, $Outubro/2018$. Adaptado.\nO esqueleto de Luzia,",
       subItens: []
     },
     options: [
@@ -1229,7 +1229,7 @@ createQuestion({
       "Originou-se no Oriente, penetrou no continente europeu pelos portos e manteve-se restrita à Península Itálica.",
       "Foi provocada pela fome e pela desnutrição dos camponeses e favoreceu o processo de centralização política.",
       "Foi contida pelo caráter de subsistência da economia europeia, que dificultava o contato humano e, assim, o contágio.",
-      "Estimulou as investidas contra os territórios muçulmanos no movimento conhecido como Segunda Cruzada."
+      "Estimulou as investidas contra os territórios $\\mu$çulmanos no movimento conhecido como Segunda Cruzada."
     ],
     correctAnswer: 0,
     materia: ["História"],
@@ -1368,7 +1368,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Documentos da Agência Central de Inteligência Americana (CIA) mostram que o Brasil quis liderar a Operação Condor e só não conseguiu porque enfrentou resistência dos outros países membros Argentina, Chile, Uruguai, Paraguai e Bolívia. (...) Os documentos da CIA fazem parte do Projeto de Desclassificação Argentina (The Dirty War, 1976-1983), do governo americano, e incluem mais de 40 mil páginas. Duas dezenas delas fazem menções ao Brasil (...).\nMarcelo Godoy, O Estado de São Paulo. Abril/2019.\nA respeito da Operação Condor, é correto afirmar:",
+      principal: "Documentos da Agência Central de Inteligência Americana (CIA) mostram que o Brasil quis liderar a Operação Condor e só não conseguiu porque enfrentou resistência dos outros países membros Argentina, Chile, Uruguai, Paraguai e Bolívia. (...) Os documentos da CIA fazem parte do Projeto de Desclassificação Argentina (The Dirty War, 1976-1983), do governo americano, e incluem mais de 40 mil páginas. Duas dezenas delas fazem menções ao Brasil (...).\nMarcelo Godoy, O Estado de São Paulo. $Abril/2019$.\nA respeito da Operação Condor, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -1457,9 +1457,9 @@ createQuestion({
     },
     options: [
       "kg m²/s",
-      "kg s/m²",
-      "m²s/kg",
-      "kg s/m",
+      "kg $s/m$²",
+      "m²$s/kg$",
+      "kg $s/m$",
       "kg m²/s³"
     ],
     correctAnswer: 0,
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "A transmissão de dados de telefonia celular por meio de ondas eletromagnéticas está sujeita a perdas que aumentam com a distância d entre a antena transmissora e a antena receptora. Uma aproximação frequentemente usada para expressar a perda L, em decibéis (dB), do sinal em função de d, no espaço livre de obstáculos, é dada pela expressão\nL = 20 log₁₀ (4πd / λ)\nem que λ é o comprimento de onda do sinal. O gráfico a seguir mostra L (em dB) versus d (em metros) para um determinado comprimento de onda λ.\nO gráfico exibe a perda L (em dB) em função da distância d (em metros). A curva é ascendente e passa pelos pontos aproximadamente (1, 35 dB), (2, 40 dB), (4, 46 dB), (8, 52 dB), (10, 54 dB).\nNote e adote:\nVelocidade da luz no vácuo: c = 3×10⁸ m/s;\nπ = 3;\n1 GHz = 10⁹ Hz.\nCom base no gráfico, a frequência do sinal é aproximadamente",
+      principal: "A transmissão de dados de telefonia celular por meio de ondas eletromagnéticas está sujeita a perdas que aumentam com a distância d entre a antena transmissora e a antena receptora. Uma aproximação frequentemente usada para expressar a perda L, em decibéis (dB), do sinal em função de d, no espaço livre de obstáculos, é dada pela expressão\nL = 20 $\\log$₁₀ (4πd / λ)\nem que λ é o comprimento de onda do sinal. O gráfico a seguir mostra L (em dB) versus d (em metros) para um determinado comprimento de onda λ.\nO gráfico exibe a perda L (em dB) em função da distância d (em metros). A curva é ascendente e passa pelos pontos aproximadamente (1, 35 dB), (2, 40 dB), (4, 46 dB), (8, 52 dB), (10, 54 dB).\nNote e adote:\nVelocidade da luz no vácuo: c = 3×10⁸ $m/s$;\nπ = 3;\n1 GHz = 10⁹ Hz.\nCom base no gráfico, a frequência do sinal é aproximadamente",
       subItens: []
     },
     options: [
@@ -1498,11 +1498,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "51 m/s e 51 m/s",
-      "51 m/s e 57 m/s",
-      "57 m/s e 57 m/s",
-      "57 m/s e 68 m/s",
-      "68 m/s e 68 m/s"
+      "51 $m/s$ e 51 $m/s$",
+      "51 $m/s$ e 57 $m/s$",
+      "57 $m/s$ e 57 $m/s$",
+      "57 $m/s$ e 68 $m/s$",
+      "68 $m/s$ e 68 $m/s$"
     ],
     correctAnswer: 3,
     materia: ["Física", "Biologia"],
@@ -1536,15 +1536,15 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Um equipamento de bungee jumping está sendo projetado para ser utilizado em um viaduto de 30 m de altura. O elástico utilizado tem comprimento relaxado de 10 m. Qual deve ser o mínimo valor da constante elástica desse elástico para que ele possa ser utilizado com segurança no salto por uma pessoa cuja massa, somada à do equipamento de proteção a ela conectado, seja de 120 kg?\nNote e adote:\nDespreze a massa do elástico, as forças dissipativas e as dimensões da pessoa;\nAceleração da gravidade = 10 m/s².",
+      principal: "Um equipamento de bungee jumping está sendo projetado para ser utilizado em um viaduto de 30 m de altura. O elástico utilizado tem comprimento relaxado de 10 m. Qual deve ser o mínimo valor da constante elástica desse elástico para que ele possa ser utilizado com segurança no salto por uma pessoa cuja massa, somada à do equipamento de proteção a ela conectado, seja de 120 kg?\nNote e adote:\nDespreze a massa do elástico, as forças dissipativas e as dimensões da pessoa;\nAceleração da gravidade = 10 $m/s$².",
       subItens: []
     },
     options: [
-      "30 N/m",
-      "80 N/m",
-      "90 N/m",
-      "160 N/m",
-      "180 N/m"
+      "30 $N/m$",
+      "80 $N/m$",
+      "90 $N/m$",
+      "160 $N/m$",
+      "180 $N/m$"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -1557,7 +1557,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Um fabricante projetou resistores para utilizar em uma lâmpada de resistência L. Cada um deles deveria ter resistência R. Após a fabricação, ele notou que alguns deles foram projetados erroneamente, de forma que cada um deles possui uma resistência R_D = R/2. Tendo em vista que a lâmpada queimará se for percorrida por uma corrente elétrica superior a V/(R + L), em qual(is) dos circuitos a lâmpada queimará?\nSão apresentados três circuitos elétricos. Cada circuito contém uma fonte de tensão V, resistores R_D e uma lâmpada L. Os resistores R_D valem R/2. As configurações dos resistores e da lâmpada variam em cada circuito.",
+      principal: "Um fabricante projetou resistores para utilizar em uma lâmpada de resistência L. Cada um deles deveria ter resistência R. Após a fabricação, ele notou que alguns deles foram projetados erroneamente, de forma que cada um deles possui uma resistência $R_D$ = $R/2$. Tendo em vista que a lâmpada queimará se for percorrida por uma corrente elétrica superior a V/(R + L), em qual(is) dos circuitos a lâmpada queimará?\nSão apresentados três circuitos elétricos. Cada circuito contém uma fonte de tensão V, resistores $R_D$ e uma lâmpada L. Os resistores $R_D$ valem $R/2$. As configurações dos resistores e da lâmpada variam em cada circuito.",
       subItens: []
     },
     options: [
@@ -1578,7 +1578,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "No dia 10 de abril de 2019, a equipe do Event Horizon Telescope (EHT, “Telescópio Horizonte de Eventos\") divulgou a primeira imagem de um buraco negro, localizado no centro da galáxia M87, obtida por um conjunto de telescópios com diâmetro efetivo equivalente ao da Terra, de 12.700 km. Devido ao fenômeno físico da difração, instrumentos óticos possuem um limite de resolução angular, que corresponde à mínima separação angular entre dois objetos que podem ser identificados separadamente quando observados à distância. O gráfico mostra o limite de resolução de um telescópio, medido em radianos, como função do seu diâmetro, para ondas luminosas de comprimento de onda de 1,3 mm, igual ao daquelas captadas pelo EHT. Note a escala logarítmica dos eixos do gráfico.\nO gráfico exibe a \"Resolução angular (em radianos)\" em função do \"Diâmetro efetivo do telescópio (em km)\" em uma escala logarítmica para ambos os eixos. A curva mostra que a resolução angular diminui à medida que o diâmetro do telescópio aumenta, seguindo uma relação linear em escala log-log.\nSabe-se que o tamanho equivalente a um pixel na foto do buraco negro corresponde ao valor da menor distância entre dois objetos naquela galáxia para que eles possam ser identificados separadamente pelo EHT. Com base nas informações anteriores e na análise do gráfico, e sabendo que a distância da Terra até a galáxia M87 é de 5 × 10²⁰ km, indique o valor mais próximo do tamanho do pixel.",
+      principal: "No dia 10 de abril de 2019, a equipe do Event Horizon Telescope (EHT, “Telescópio Horizonte de Eventos\") divulgou a primeira imagem de um buraco negro, localizado no centro da galáxia M87, obtida por um conjunto de telescópios com diâmetro efetivo equivalente ao da Terra, de 12.700 km. Devido ao fenômeno físico da difração, instrumentos óticos possuem um limite de resolução angular, que corresponde à mínima separação angular entre dois objetos que podem ser identificados separadamente quando observados à distância. O gráfico mostra o limite de resolução de um telescópio, medido em radianos, como função do seu diâmetro, para ondas luminosas de comprimento de onda de 1,3 mm, igual ao daquelas captadas pelo EHT. Note a escala logarítmica dos eixos do gráfico.\nO gráfico exibe a \"Resolução angular (em radianos)\" em função do \"Diâmetro efetivo do telescópio (em km)\" em uma escala logarítmica para ambos os eixos. A curva mostra que a resolução angular diminui à medida que o diâmetro do telescópio aumenta, seguindo uma relação linear em escala $\\log$-$\\log$.\nSabe-se que o tamanho equivalente a um pixel na foto do buraco negro corresponde ao valor da menor distância entre dois objetos naquela galáxia para que eles possam ser identificados separadamente pelo EHT. Com base nas informações anteriores e na análise do gráfico, e sabendo que a distância da Terra até a galáxia M87 é de 5 × 10²⁰ km, indique o valor mais próximo do tamanho do pixel.",
       subItens: []
     },
     options: [
@@ -1599,15 +1599,15 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Um solenoide muito longo é percorrido por uma corrente elétrica I, conforme mostra a figura 1.\nA Figura 1 mostra um solenoide percorrido por uma corrente elétrica I no sentido horário, vista de uma das extremidades.\nEm um determinado instante, uma partícula de carga q positiva desloca-se com velocidade instantânea v perpendicular ao eixo do solenoide, na presença de um campo elétrico na direção do eixo do solenoide. A figura 2 ilustra essa situação, em uma seção reta definida por um plano que contém o eixo do solenoide.\nA Figura 2 mostra uma seção transversal do solenoide. A corrente I é indicada pelos círculos com ponto (saindo do plano) e círculos com 'X' (entrando no plano). Um campo elétrico E atua para cima (no sentido +q). Uma partícula de carga +q se move com velocidade v para a direita, perpendicular ao eixo do solenoide.\nO diagrama que representa corretamente as forças elétrica F_E e magnética F_B atuando sobre a partícula é:\nAs alternativas (A) a (E) mostram diagramas de forças (F_E e F_B) e o vetor velocidade v sobre uma partícula de carga +q, em diferentes direções, em relação ao campo elétrico E (para cima) e ao campo magnético (criado pelo solenoide).",
+      principal: "Um solenoide muito longo é percorrido por uma corrente elétrica I, conforme mostra a figura 1.\nA Figura 1 mostra um solenoide percorrido por uma corrente elétrica I no sentido horário, vista de uma das extremidades.\nEm um determinado instante, uma partícula de carga q positiva desloca-se com velocidade instantânea v perpendicular ao eixo do solenoide, na presença de um campo elétrico na direção do eixo do solenoide. A figura 2 ilustra essa situação, em uma seção reta definida por um plano que contém o eixo do solenoide.\nA Figura 2 mostra uma seção transversal do solenoide. A corrente I é indicada pelos círculos com ponto (saindo do plano) e círculos com 'X' (entrando no plano). Um campo elétrico E atua para cima (no sentido +q). Uma partícula de carga +q se move com velocidade v para a direita, perpendicular ao eixo do solenoide.\nO diagrama que representa corretamente as forças elétrica $F_E$ e magnética $F_B$ atuando sobre a partícula é:\nAs alternativas (A) a (E) mostram diagramas de forças ($F_E$ e $F_B$) e o vetor velocidade v sobre uma partícula de carga +q, em diferentes direções, em relação ao campo elétrico E (para cima) e ao campo magnético (criado pelo solenoide).",
       subItens: []
     },
     options: [
-      "Diagrama (A) mostra F_E para cima, F_B para baixo, e v para a direita.",
-      "Diagrama (B) mostra F_E para cima, F_B para cima, e v para a direita.",
-      "Diagrama (C) mostra F_E para cima, F_B para fora do plano, e v para a direita.",
-      "Diagrama (D) mostra F_E para cima, F_B para dentro do plano, e v para a direita.",
-      "Diagrama (E) mostra F_E para baixo, F_B para baixo, e v para a direita."
+      "Diagrama (A) mostra $F_E$ para cima, $F_B$ para baixo, e v para a direita.",
+      "Diagrama (B) mostra $F_E$ para cima, $F_B$ para cima, e v para a direita.",
+      "Diagrama (C) mostra $F_E$ para cima, $F_B$ para fora do plano, e v para a direita.",
+      "Diagrama (D) mostra $F_E$ para cima, $F_B$ para dentro do plano, e v para a direita.",
+      "Diagrama (E) mostra $F_E$ para baixo, $F_B$ para baixo, e v para a direita."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1809,7 +1809,7 @@ createQuestion({
     university: "fuvest",
     year: 2020,
     text: {
-      principal: "Em Barcelona, em 2012 e 2013, a cada 15 minutos uma família recebia ordem de despejo. Desde então, o panorama da habitação mudou totalmente. \"(...) Estamos assistindo uma onda de especulação imobiliária (...) que agora se foca no aluguel”, explica Daniel Pardo da Associação de Moradores para um Turismo Sustentável. \"Este fenômeno pôs em marcha um processo acelerado e violento de expulsão de inquilinos”, acrescenta. Onde a pressão da especulação imobiliária internacional e a indústria do turismo causaram um aumento substancial nos preços dos aluguéis, os catalães têm hoje de gastar mais de 46% dos seus salários com o aluguel. Para os jovens até os 35 anos, a taxa de esforço aumenta até os 65% (...).\n“Não queremos que os habitantes de Barcelona sejam substituídos por pessoas com maior poder de compra\", diz a porta-voz do Sindicato dos Inquilinos. Só em Barcelona, 15 fundos de investimento imobiliário possuem 3.000 apartamentos.\n\"Os habitantes querem a sua cidade de volta\". Reportagem de Ulrike Prinz para o Goethe-Institut Madrid. Maio/2018. Adaptado.\nOs conceitos que explicam as dinâmicas urbanas descritas no excerto são:",
+      principal: "Em Barcelona, em 2012 e 2013, a cada 15 minutos uma família recebia ordem de despejo. Desde então, o panorama da habitação mudou totalmente. \"(...) Estamos assistindo uma onda de especulação imobiliária (...) que agora se foca no aluguel”, explica Daniel Pardo da Associação de Moradores para um Turismo Sustentável. \"Este fenômeno pôs em marcha um processo acelerado e violento de expulsão de inquilinos”, acrescenta. Onde a pressão da especulação imobiliária internacional e a indústria do turismo causaram um aumento substancial nos preços dos aluguéis, os catalães têm hoje de gastar mais de 46% dos seus salários com o aluguel. Para os jovens até os 35 anos, a taxa de esforço aumenta até os 65% (...).\n“Não queremos que os habitantes de Barcelona sejam substituídos por pessoas com maior poder de compra\", diz a porta-voz do Sindicato dos Inquilinos. Só em Barcelona, 15 fundos de investimento imobiliário possuem 3.000 apartamentos.\n\"Os habitantes querem a sua cidade de volta\". Reportagem de Ulrike Prinz para o Goethe-Institut Madrid. $Maio/2018$. Adaptado.\nOs conceitos que explicam as dinâmicas urbanas descritas no excerto são:",
       subItens: []
     },
     options: [

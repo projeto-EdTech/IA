@@ -281,7 +281,7 @@ createQuestion({
     },
     options: [
       "Se Q₁ = 2Q₂, então os pontos ao longo da circunferência de raio 2m, que está centrada no ponto (4,0), apresentam potencial nulo.",
-      "Se Q = Q₂, então os pontos ao longo da reta x = 3/2 têm potencial igual a zero.",
+      "Se Q = Q₂, então os pontos ao longo da reta x = $3/2$ têm potencial igual a zero.",
       "Caso a carga Q₂ seja removida, as circunferências centradas na origem serão curvas equipotenciais.",
       "Caso a carga Q₁ seja removida, as circunferências centradas no ponto (3,0) serão curvas equipotenciais.",
       "Se Q₁ = 20×10⁻¹⁰C e Q₂ =4×10⁻¹⁰C, então o potencial no ponto (3,4) é igual a 20V. Use k = 9×10⁹N.m²/C², em que k é a constante eletrostática do vácuo."
@@ -343,7 +343,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "A solução inicial tem concentração de íons hidrônio (H3O+) de 1,0 x 10⁻³ mol/L.",
+      "A solução inicial tem concentração de íons hidrônio (H3O+) de 1,0 x 10⁻³ $mol/L$.",
       "A solução química desconhecida é uma solução tampão.",
       "O gráfico da função que descreve o pH em termos de volume da diluição final da solução é uma reta com coeficiente angular negativo.",
       "Para uma diluição que resulte em volume final de 100L, o pH deve ser igual a 8,0.",

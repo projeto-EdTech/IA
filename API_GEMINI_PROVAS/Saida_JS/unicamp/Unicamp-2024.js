@@ -187,10 +187,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "11/8.",
-      "13/8.",
-      "15/8.",
-      "17/8."
+      "$11/8$.",
+      "$13/8$.",
+      "$15/8$.",
+      "$17/8$."
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -267,10 +267,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "7/13.",
-      "5/13.",
-      "11/52.",
-      "7/52."
+      "$7/13$.",
+      "$5/13$.",
+      "$11/52$.",
+      "$7/52$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -363,7 +363,7 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "Texto 1\nI have a dream that one day down in Alabama, with its vicious racists, with its governor having his lips dripping with the words of interposition and nullification; that one day right down in Alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers (Martin Luther King, 1963). (Adaptado de: https://kr.usembassy.gov/martin-luther-king-jr-dream-speech-1963/. Acesso em 26/05/2023.)\nTexto 2\n[Image description: A poster with the text 'QUICK, HIRE ONE. Anti-Black racism happens here. Let's confront it.' The poster features a person's face split vertically, showing different skin tones.]\nConsidere os dois textos e assinale a alternativa correta.",
+      principal: "Texto 1\nI have a dream that one day down in Alabama, with its vicious racists, with its governor having his lips dripping with the words of interposition and nullification; that one day right down in Alabama little black boys and black girls will be able to join hands with little white boys and white girls as sisters and brothers (Martin Luther King, 1963). (Adaptado de: https://kr.usembassy.$gov/martin$-luther-king-jr-dream-speech-1963/. Acesso em 26/05/2023.)\nTexto 2\n[Image description: A poster with the text 'QUICK, HIRE ONE. Anti-Black racism happens here. Let's confront it.' The poster features a person's face split vertically, showing different skin tones.]\nConsidere os dois textos e assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -389,8 +389,8 @@ createQuestion({
     options: [
       "[Image of a headdress featuring geometric patterns]",
       "[Image of a headdress featuring small human figures]",
-      "[Image of a headdress featuring a large face/mask]",
-      "[Image of a headdress featuring horns/antlers and feathers]"
+      "[Image of a headdress featuring a large $face/mask$]",
+      "[Image of a headdress featuring $horns/antlers$ and feathers]"
     ],
     correctAnswer: 3,
     materia: ["Inglês", "Arte"],
@@ -443,7 +443,7 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "Netflix's \"Wednesday\" draws many real-world parallels. It features unusual creatures (werewolves and psychics) collectively referred to as Outcasts, while they refer to non-supernatural humans as Normies. The Outcasts are stand-ins for anyone othered by society, such as indigenous people, People of Color, the LGBT+, and the neurodivergent. Every so often, the Normies' distrust in the Outcasts boils over into hatred and violence, and the othering and dehumanization normalizes violence against the Outcasts in day-to-day life. In the show, the town's colonial era saw Outcasts not only being \"othered\", but also murdered by Pilgrims. These acts of butchery were all but erased from their history books. It's a distressingly familiar story. (Adaptado de: https://atribecalledgeek.com/woe-to-the-colonizer-an-indigenous-perspective-of-wednesday/. Acesso em 12/05/2023.)\nA análise do autor sobre \"Wednesday\" se apoia em",
+      principal: "Netflix's \"Wednesday\" draws many real-world parallels. It features unusual creatures (werewolves and psychics) collectively referred to as Outcasts, while they refer to non-supernatural humans as Normies. The Outcasts are stand-ins for anyone othered by society, such as indigenous people, People of Color, the LGBT+, and the neurodivergent. Every so often, the Normies' distrust in the Outcasts boils over into hatred and violence, and the othering and dehumanization normalizes violence against the Outcasts in day-to-day life. In the show, the town's colonial era saw Outcasts not only being \"othered\", but also murdered by Pilgrims. These acts of butchery were all but erased from their history books. It's a distressingly familiar story. (Adaptado de: https://atribecalledgeek.$com/woe$-to-the-colonizer-an-indigenous-perspective-of-wednesday/. Acesso em 12/05/2023.)\nA análise do autor sobre \"Wednesday\" se apoia em",
       subItens: []
     },
     options: [
@@ -503,7 +503,7 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "Texto comum às questões 26, 27, 28 e 29.\nUma das etapas mais difíceis de um voo espacial tripulado é a reentrada na atmosfera terrestre. Ao reencontrar as camadas mais altas da atmosfera, a nave sofre forte desaceleração e sua temperatura externa atinge milhares de graus Celsius. Caso a reentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo risco de ela ser lançada de volta ao espaço.\nLogo ao reentrar na atmosfera terrestre, uma cápsula espacial passa a descrever, durante certo tempo, um movimento retilíneo uniformemente variado em que ela é freada com aceleração_a = −5,0 m/s². Se no início dessa etapa (t = 0) do movimento a velocidade da cápsula é v° = 7000 m/s, qual é a distância percorrida até o tempo t = 200 s?",
+      principal: "Texto comum às questões 26, 27, 28 e 29.\nUma das etapas mais difíceis de um voo espacial tripulado é a reentrada na atmosfera terrestre. Ao reencontrar as camadas mais altas da atmosfera, a nave sofre forte desaceleração e sua temperatura externa atinge milhares de graus Celsius. Caso a reentrada não ocorra dentro das condições apropriadas, há risco de graves danos à nave, inclusive de explosão, e até mesmo risco de ela ser lançada de volta ao espaço.\nLogo ao reentrar na atmosfera terrestre, uma cápsula espacial passa a descrever, durante certo tempo, um movimento retilíneo uniformemente variado em que ela é freada com aceleraçã$o_a$ = −5,0 $m/s$². Se no início dessa etapa (t = 0) do movimento a velocidade da cápsula é v° = 7000 $m/s$, qual é a distância percorrida até o tempo t = 200 s?",
       subItens: []
     },
     options: [
@@ -523,14 +523,14 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "Após viajar pela atmosfera por determinado tempo, o módulo da velocidade da cápsula, que inicialmente era Vo= = 7000 m/s, fica reduzido a v = 5000 m/s. Sendo a massa da cápsula m = 3000 kg, qual foi o trabalho da força resultante sobre a cápsula durante esse tempo?",
+      principal: "Após viajar pela atmosfera por determinado tempo, o módulo da velocidade da cápsula, que inicialmente era Vo= = 7000 $m/s$, fica reduzido a v = 5000 $m/s$. Sendo a massa da cápsula m = 3000 kg, qual foi o trabalho da força resultante sobre a cápsula durante esse tempo?",
       subItens: []
     },
     options: [
-      "-11,1 × 10^10 J.",
-      "-3,60 x 10^10 J.",
-      "-6,00 x 10^6 J.",
-      "-3,00 x 10^6 J."
+      "-11,1 × $10^10$ J.",
+      "-3,60 x $10^10$ J.",
+      "-6,00 x $10^6$ J.",
+      "-3,00 x $10^6$ J."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -543,7 +543,7 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "O ar atmosférico comporta-se como um gás perfeito. Sendo a pressão e a temperatura do ar, numa determinada posição da alta atmosfera, dadas por p = 2,0 Pa e T = 180 K (sem a presença da cápsula na vizinhança), e sendo a constante universal dos gases perfeitos R = 8 J/mol.K, qual é o volume ocupado por um mol de ar naquela posição?",
+      principal: "O ar atmosférico comporta-se como um gás perfeito. Sendo a pressão e a temperatura do ar, numa determinada posição da alta atmosfera, dadas por p = 2,0 Pa e T = 180 K (sem a presença da cápsula na vizinhança), e sendo a constante universal dos gases perfeitos R = 8 $J/mol$.K, qual é o volume ocupado por um mol de ar naquela posição?",
       subItens: []
     },
     options: [
@@ -563,7 +563,7 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "A temperatura extremamente elevada no exterior da cápsula ioniza o ar atmosférico à sua volta. Esses íons blindam a cápsula como uma gaiola de Faraday, impedindo, por alguns minutos, a comunicação por ondas eletromagnéticas de rádio (conversas entre a tripulação e a base na Terra, comandos à distância para ajustes de navegação, etc.). O gráfico da figura a seguir mostra que, quanto maior a temperatura do ar externo, Tar, maior é a frequência limite da onda eletromagnética, fo, abaixo da qual não se pode estabelecer comunicação com a cápsula. Se a temperatura do ar for Tar = 4800 K, qual é o comprimento de onda λ correspondente à frequência limite fo?\nDado: Velocidade da luz no vácuo: c = 3,0 ×10^8 m/s.\n[Graph description: A line graph titled 'Frequência Limite, fo (GHz) vs Temperatura (K)'. X-axis: Temperatura (K) from 4000 to 5500. Y-axis: Frequência Limite, fo (GHz) from 1 to 10. The line passes through approximately (4000, 2), (4500, 4), (5000, 7.5), (5500, 10). From the graph, for Tar = 4800 K, fo is approximately 6 GHz.]",
+      principal: "A temperatura extremamente elevada no exterior da cápsula ioniza o ar atmosférico à sua volta. Esses íons blindam a cápsula como uma gaiola de Faraday, impedindo, por alguns minutos, a comunicação por ondas eletromagnéticas de rádio (conversas entre a tripulação e a base na Terra, comandos à distância para ajustes de navegação, etc.). O gráfico da figura a seguir mostra que, quanto maior a temperatura do ar externo, Tar, maior é a frequência limite da onda eletromagnética, fo, abaixo da qual não se pode estabelecer comunicação com a cápsula. Se a temperatura do ar for Tar = 4800 K, qual é o comprimento de onda λ correspondente à frequência limite fo?\nDado: Velocidade da luz no vácuo: c = 3,0 ×$10^8$ $m/s$.\n[Graph description: A line graph titled 'Frequência Limite, fo (GHz) vs Temperatura (K)'. X-axis: Temperatura (K) from 4000 to 5500. Y-axis: Frequência Limite, fo (GHz) from 1 to 10. The line passes through approximately (4000, 2), (4500, 4), (5000, 7.5), (5500, 10). From the graph, for Tar = 4800 K, fo is approximately 6 GHz.]",
       subItens: []
     },
     options: [
@@ -623,14 +623,14 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "Em um experimento destinado a investigar propriedades elásticas, uma diminuta ponta aplica uma força F na superfície do neurônio, produzindo uma deformação ΔL de forma análoga a uma mola (ver figura). Foram estudados dois neurônios distintos, designados pelos índices 1 e 2, que foram submetidos à ação de forças idênticas (F₁ = F₂). As deformações observadas foram ΔL₁ = 20 nm e ΔL₂ = 30 nm. Se k₁ = 9,0 × 10⁻⁶ N/m é a constante elástica para o neurônio 1, pode-se deduzir que o valor de k₂ é\n[Image description: A diagram showing a spring attached to a 'neurônio' (neuron). An arrow 'F' points downwards from the spring, and a double-headed arrow 'ΔL' indicates the displacement.]",
+      principal: "Em um experimento destinado a investigar propriedades elásticas, uma diminuta ponta aplica uma força F na superfície do neurônio, produzindo uma deformação ΔL de forma análoga a uma mola (ver figura). Foram estudados dois neurônios distintos, designados pelos índices 1 e 2, que foram submetidos à ação de forças idênticas (F₁ = F₂). As deformações observadas foram ΔL₁ = 20 nm e ΔL₂ = 30 nm. Se k₁ = 9,0 × 10⁻⁶ $N/m$ é a constante elástica para o neurônio 1, pode-se deduzir que o valor de k₂ é\n[Image description: A diagram showing a spring attached to a 'neurônio' (neuron). An arrow 'F' points downwards from the spring, and a double-headed arrow 'ΔL' indicates the displacement.]",
       subItens: []
     },
     options: [
-      "4,0 x 10⁻⁶ N/m.",
-      "6,0 x 10⁻⁶ N/m.",
-      "13,5 × 10⁻⁶ N/m.",
-      "20,25 × 10⁻⁶ N/m."
+      "4,0 x 10⁻⁶ $N/m$.",
+      "6,0 x 10⁻⁶ $N/m$.",
+      "13,5 × 10⁻⁶ $N/m$.",
+      "20,25 × 10⁻⁶ $N/m$."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -883,7 +883,7 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "Algumas baterias transformam certas substâncias em outras, gerando energia elétrica. Isso permite, por exemplo, o funcionamento de equipamentos tendo como base essa energia (carros elétricos) ou então auxilia o funcionamento de equipamentos (carros de combustão interna). É por isso que os carros elétricos precisam se abastecer de energia elétrica de tempos em tempos e os de combustão não, já que a bateria desses últimos é carregada durante seu funcionamento. Na descarga da bateria, dois comportamentos são importantes: curva de tensão (Figura A) e ciclo de vida (Figura B), sendo esse último a quantidade de vezes que a bateria pode ser recarregada em função da profundidade de sua descarga.\n[Figure A description: A line graph 'Tensão da bateria (V) vs Profundidade de descarga (%)'. X-axis: Profundidade de descarga (%) from 0 to 100. Y-axis: Tensão da bateria (V) from 9.5 to 13.5. Two curves are shown: 'Curva X' (starts higher, drops faster) and 'Curva Y' (starts lower, drops slower).\nFigure B description: A line graph 'Ciclos de Vida vs Profundidade de descarga (%)'. X-axis: Profundidade de descarga (%) from 0 to 80. Y-axis: Ciclos de Vida (log scale) from 100 to 1,000,000. Two curves are shown: 'Curva I' (higher number of cycles for given discharge depth) and 'Curva II' (lower number of cycles for given discharge depth).]\nLevando em conta essas informações, seria apropriado escolher para equipar um carro",
+      principal: "Algumas baterias transformam certas substâncias em outras, gerando energia elétrica. Isso permite, por exemplo, o funcionamento de equipamentos tendo como base essa energia (carros elétricos) ou então auxilia o funcionamento de equipamentos (carros de combustão interna). É por isso que os carros elétricos precisam se abastecer de energia elétrica de tempos em tempos e os de combustão não, já que a bateria desses últimos é carregada durante seu funcionamento. Na descarga da bateria, dois comportamentos são importantes: curva de tensão (Figura A) e ciclo de vida (Figura B), sendo esse último a quantidade de vezes que a bateria pode ser recarregada em função da profundidade de sua descarga.\n[Figure A description: A line graph 'Tensão da bateria (V) vs Profundidade de descarga (%)'. X-axis: Profundidade de descarga (%) from 0 to 100. Y-axis: Tensão da bateria (V) from 9.5 to 13.5. Two curves are shown: 'Curva X' (starts higher, drops faster) and 'Curva Y' (starts lower, drops slower).\nFigure B description: A line graph 'Ciclos de Vida vs Profundidade de descarga (%)'. X-axis: Profundidade de descarga (%) from 0 to 80. Y-axis: Ciclos de Vida ($\\log$ scale) from 100 to 1,000,000. Two curves are shown: 'Curva I' (higher number of cycles for given discharge depth) and 'Curva II' (lower number of cycles for given discharge depth).]\nLevando em conta essas informações, seria apropriado escolher para equipar um carro",
       subItens: []
     },
     options: [
@@ -943,7 +943,7 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "O litoral brasileiro tem uma história fisiográfica e ecológica rica e complexa, influenciada por uma variedade de fatores e processos interligados. O Brasil conta com um litoral intertropical e subtropical onde é possível observar uma diversidade de ocorrências geomorfológicas e paisagísticas que se sucedem ao longo de sua costa. (Adaptado de: AB'SABER, A. Litoral do Brasil/Brazilian coast. São Paulo: Metalivros, p. 281, 2005.)\nA partir de seus conhecimentos sobre o litoral brasileiro, assinale a alternativa correta.",
+      principal: "O litoral brasileiro tem uma história fisiográfica e ecológica rica e complexa, influenciada por uma variedade de fatores e processos interligados. O Brasil conta com um litoral intertropical e subtropical onde é possível observar uma diversidade de ocorrências geomorfológicas e paisagísticas que se sucedem ao longo de sua costa. (Adaptado de: AB'SABER, A. Litoral do $Brasil/Brazilian$ coast. São Paulo: Metalivros, p. 281, 2005.)\nA partir de seus conhecimentos sobre o litoral brasileiro, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -963,7 +963,7 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "Moradores em situação de rua em São Paulo/SP\n[Image description: A photograph of several tents and makeshift shelters set up on a sidewalk or public space, indicative of a homeless encampment in an urban setting.]\nNas grandes cidades de todo o planeta, com maior ou menor intensidade, cresce o número de pessoas em situação de rua. No caso brasileiro, todavia, essa é uma realidade urbana perene, agravada em momentos de crise. Segundo estimativa do Instituto de Pesquisa Econômica Aplicada (IPEA), em 2022, existiam 281.472 pessoas em situação de rua no Brasil. (MONTFERRE, H., População em situação de rua supera 281,4 mil pessoas no Brasil. IPEA, 08/12/2022)\nO fenômeno descrito no excerto, e reportado na imagem, se constituiu historicamente nas cidades brasileiras em função",
+      principal: "Moradores em situação de rua em São $Paulo/SP$\n[Image description: A photograph of several tents and makeshift shelters set up on a sidewalk or public space, indicative of a homeless encampment in an urban setting.]\nNas grandes cidades de todo o planeta, com maior ou menor intensidade, cresce o número de pessoas em situação de rua. No caso brasileiro, todavia, essa é uma realidade urbana perene, agravada em momentos de crise. Segundo estimativa do Instituto de Pesquisa Econômica Aplicada (IPEA), em 2022, existiam 281.472 pessoas em situação de rua no Brasil. (MONTFERRE, H., População em situação de rua supera 281,4 mil pessoas no Brasil. IPEA, 08/12/2022)\nO fenômeno descrito no excerto, e reportado na imagem, se constituiu historicamente nas cidades brasileiras em função",
       subItens: []
     },
     options: [
@@ -1423,7 +1423,7 @@ createQuestion({
     university: "unicamp",
     year: 2024,
     text: {
-      principal: "Imagem postada em março de 2023 no Reddit, uma comunidade de fóruns, na página específica do Midjourney. Essa página reúne criações feitas na ferramenta de Inteligência Artificial, ferramenta que permite criar imagens hiper-realistas a partir de uma descrição em texto. A imagem viralizou a partir do Twitter. O Papa nunca usou aquele casaco branco.\n[Image description: A highly realistic image of Pope Francis wearing a stylish white puffy coat, generated by AI.]\nJe ne respire plus que pour toi un baiser, mon bel Ange! (Biblioteca Nacional da França, sem data, RES 8-LB39-12153. Disponível em: https://gallica.bnf.fr/ark:/12148/btv1b6942376r.item. Acesso em 04/05/2023.)\nTradução da legenda: Eu apenas respiro por você. Um beijo, meu belo anjo!\nPanfleto anônimo produzido na França pré-revolucionária do final do século XVIII retratando a rainha Maria Antonieta em um romance com a sua amiga, a duquesa Yolande de Polignac.\n[Image description: An old engraving showing a woman (Marie Antoinette) kissing another woman.]\nCom propósitos diferentes, ambas as imagens promovem a desinformação. Comparando historicamente os dois exemplos de desinformação, é correto afirmar que",
+      principal: "Imagem postada em março de 2023 no Reddit, uma comunidade de fóruns, na página específica do Midjourney. Essa página reúne criações feitas na ferramenta de Inteligência Artificial, ferramenta que permite criar imagens hiper-realistas a partir de uma descrição em texto. A imagem viralizou a partir do Twitter. O Papa nunca usou aquele casaco branco.\n[Image description: A highly realistic image of Pope Francis wearing a stylish white puffy coat, generated by AI.]\nJe ne respire plus que pour toi un baiser, mon bel Ange! (Biblioteca Nacional da França, sem data, RES 8-LB39-12153. Disponível em: https://gallica.bnf.$fr/ark$:/12148/btv1b6942376r.item. Acesso em 04/05/2023.)\nTradução da legenda: Eu apenas respiro por você. Um beijo, meu belo anjo!\nPanfleto anônimo produzido na França pré-revolucionária do final do século XVIII retratando a rainha Maria Antonieta em um romance com a sua amiga, a duquesa Yolande de Polignac.\n[Image description: An old engraving showing a woman (Marie Antoinette) kissing another woman.]\nCom propósitos diferentes, ambas as imagens promovem a desinformação. Comparando historicamente os dois exemplos de desinformação, é correto afirmar que",
       subItens: []
     },
     options: [

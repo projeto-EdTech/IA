@@ -66,14 +66,14 @@ createQuestion({
     university: "ufpr",
     year: 2024,
     text: {
-      principal: "Sejam p(x) = x + a e q(x) = x² − b funções, com a e b números reais. Sabendo que r = 1/2 é a única raiz da função composta f(x) = q(p(x)), assinale a alternativa que corresponde à soma a + b.",
+      principal: "Sejam p(x) = x + a e q(x) = x² − b funções, com a e b números reais. Sabendo que r = $1/2$ é a única raiz da função composta f(x) = q(p(x)), assinale a alternativa que corresponde à soma a + b.",
       subItens: []
     },
     options: [
       "-2",
       "-1",
-      "-1/2",
-      "1/2",
+      "-$1/2$",
+      "$1/2$",
       "2"
     ],
     correctAnswer: 2,
@@ -87,7 +87,7 @@ createQuestion({
     university: "ufpr",
     year: 2024,
     text: {
-      principal: "Sabendo que sen(2x) = 3/5, assinale a alternativa que corresponde ao valor de [sen(x) + cos(x)]².",
+      principal: "Sabendo que $\\sin$(2x) = $3/5$, assinale a alternativa que corresponde ao valor de [$\\sin$(x) + $\\cos$(x)]².",
       subItens: []
     },
     options: [
@@ -150,7 +150,7 @@ createQuestion({
     university: "ufpr",
     year: 2024,
     text: {
-      principal: "Um bolo é retirado do forno e começa a resfriar segundo a expressão T(t) = 30 + 150a⁻⁰ʹ⁰⁵ ᵗ, com a > 1, sendo T a temperatura do bolo e t o tempo decorrido em minutos. Assinale a alternativa que corresponde ao tempo em que o bolo atingirá a metade da temperatura inicial que apresentava quando foi retirado do forno em t = 0. (Use se necessário logₐ 2 = 0,7 e logₐ 5 = 1,6).",
+      principal: "Um bolo é retirado do forno e começa a resfriar segundo a expressão T(t) = 30 + 150a⁻⁰ʹ⁰⁵ ᵗ, com a > 1, sendo T a temperatura do bolo e t o tempo decorrido em minutos. Assinale a alternativa que corresponde ao tempo em que o bolo atingirá a metade da temperatura inicial que apresentava quando foi retirado do forno em t = 0. (Use se necessário $\\log$ₐ 2 = 0,7 e $\\log$ₐ 5 = 1,6).",
       subItens: []
     },
     options: [
@@ -238,11 +238,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "F₂/F₁ = 1/2",
+      "F₂/F₁ = $1/2$",
       "F₂/F₁ = 1",
       "F₂/F₁ = 2",
       "F₂/F₁ = 4",
-      "F₂/F₁ = 1/4"
+      "F₂/F₁ = $1/4$"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -255,7 +255,7 @@ createQuestion({
     university: "ufpr",
     year: 2024,
     text: {
-      principal: "Deseja-se produzir uma onda sonora num dado meio onde a velocidade do som vale v = 350 m/s. A frequência ƒ dessa onda sonora deve ser ƒ = 50 kHz. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do comprimento de onda λ dessa onda.",
+      principal: "Deseja-se produzir uma onda sonora num dado meio onde a velocidade do som vale v = 350 $m/s$. A frequência ƒ dessa onda sonora deve ser ƒ = 50 kHz. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do comprimento de onda λ dessa onda.",
       subItens: []
     },
     options: [
@@ -276,7 +276,7 @@ createQuestion({
     university: "ufpr",
     year: 2024,
     text: {
-      principal: "Um dado objeto de massa constante m = 300 g está a uma temperatura T₀ = 30 °C. Seu calor específico vale c = 0,4 J/g.°C. Esse objeto passa por um processo termodinâmico que retira uma dada quantidade de calor Q, de modo que o objeto chega à temperatura T = 10 °C sem sofrer mudanças de estado físico. Em todo esse processo, seu calor específico é considerado constante. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor da quantidade de calor Q retirada do objeto durante o processo.",
+      principal: "Um dado objeto de massa constante m = 300 g está a uma temperatura T₀ = 30 °C. Seu calor específico vale c = 0,4 $J/g$.°C. Esse objeto passa por um processo termodinâmico que retira uma dada quantidade de calor Q, de modo que o objeto chega à temperatura T = 10 °C sem sofrer mudanças de estado físico. Em todo esse processo, seu calor específico é considerado constante. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor da quantidade de calor Q retirada do objeto durante o processo.",
       subItens: []
     },
     options: [
@@ -297,15 +297,15 @@ createQuestion({
     university: "ufpr",
     year: 2024,
     text: {
-      principal: "Uma partícula contendo uma carga Q = 1,6 × 10⁻¹⁹ C entra numa região onde há um campo magnético de intensidade B = 1,0 T com uma velocidade de módulo v. Sobre ela, passa a agir uma força magnética de intensidade F = 3,2 × 10⁻¹⁶ N. O ângulo entre os vetores velocidade e campo magnético vale θ, e sabe-se que cos θ = √3/2 e sen θ = 1/2. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do módulo v da velocidade da partícula.",
+      principal: "Uma partícula contendo uma carga Q = 1,6 × 10⁻¹⁹ C entra numa região onde há um campo magnético de intensidade B = 1,0 T com uma velocidade de módulo v. Sobre ela, passa a agir uma força magnética de intensidade F = 3,2 × 10⁻¹⁶ N. O ângulo entre os vetores velocidade e campo magnético vale θ, e sabe-se que $\\cos$ θ = √$3/2$ e $\\sin$ θ = $1/2$. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do módulo v da velocidade da partícula.",
       subItens: []
     },
     options: [
-      "v = 4√3 × 10³ m/s",
-      "v = 4,0 × 10³ m/s",
-      "v = 2,0 × 10³ m/s",
-      "v = 2√3 × 10³ m/s",
-      "v = 1,0 × 10³ m/s"
+      "v = 4√3 × 10³ $m/s$",
+      "v = 4,0 × 10³ $m/s$",
+      "v = 2,0 × 10³ $m/s$",
+      "v = 2√3 × 10³ $m/s$",
+      "v = 1,0 × 10³ $m/s$"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -364,11 +364,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "a = 1 km/h²",
-      "a = -3 km/h²",
-      "a = 2 km/h²",
-      "a = 5 km/h²",
-      "a = 4 km/h²"
+      "a = 1 $km/h$²",
+      "a = -3 $km/h$²",
+      "a = 2 $km/h$²",
+      "a = 5 $km/h$²",
+      "a = 4 $km/h$²"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -682,7 +682,7 @@ createQuestion({
       "Apesar de o sarampo estar erradicado no território brasileiro, medidas como o saneamento básico são importantes para prevenção da doença.",
       "Os principais vetores da febre maculosa são vírus do gênero Rickettsia, que podem ser transmitidos pela picada de carrapatos contaminados.",
       "O ser humano é o vetor da malária, portanto as medidas de isolamento individual são formas efetivas de evitar o contágio da doença.",
-      "A principal via de transmissão da Aids/HIV é a sexual, portanto o uso de pílulas anticoncepcionais e dispositivos intrauterinos contribuem para sua prevenção.",
+      "A principal via de transmissão da $Aids/HIV$ é a sexual, portanto o uso de pílulas anticoncepcionais e dispositivos intrauterinos contribuem para sua prevenção.",
       "A melhoria de condições ambientais, como o saneamento básico, contribui para a prevenção da poliomielite, causada pelo poliovírus."
     ],
     correctAnswer: 4,
@@ -931,7 +931,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Até 1989, o comunismo era a ideologia que dava unidade à Iugoslávia, e a substituição dessa ideologia pelo fundamentalismo muçulmano gerou conflitos com as minorias cristãs na região dos Cárpatos.",
+      "Até 1989, o comunismo era a ideologia que dava unidade à Iugoslávia, e a substituição dessa ideologia pelo fundamentalismo $\\mu$çulmano gerou conflitos com as minorias cristãs na região dos Cárpatos.",
       "A África tem grandes espaços cobertos por desertos e savanas e riquezas minerais concentradas em poucas áreas, de modo que a pobreza e a carência de recursos levam a guerras.",
       "Os conflitos na Irlanda do Norte opunham a maioria protestante que deseja que esse país continue integrado ao Reino Unido à minoria católica que quer a integração com a Irlanda do Sul.",
       "Após o fim da URSS, a República da Ucrânia recusou-se a entregar o arsenal nuclear soviético instalado em seu território, fato que é apontado como uma ameaça à segurança da Rússia.",
@@ -1186,7 +1186,7 @@ createQuestion({
       "O século XVIII marcou-se, no Brasil, pela propagação das línguas gerais desde a Amazônia e entorno de São Paulo até o sertão e o Nordeste.",
       "O português brasileiro é resultado das modificações que negros e mestiços produziram na língua aprendida.",
       "Segundo o texto, um dos fatores determinantes da difusão das línguas gerais, no Brasil, foram os ciclos econômicos.",
-      "Nossa paisagem linguística atual resulta de um processo marcado pela uniformidade/regularidade.",
+      "Nossa paisagem linguística atual resulta de um processo marcado pela $uniformidade/regularidade$.",
       "Segundo o texto, o português que se estabeleceu no Brasil após o século XVIII irradiou-se pelas praias do Nordeste."
     ],
     correctAnswer: 1,

@@ -3,7 +3,7 @@ createQuestion({
     university: "ufpr",
     year: 2021,
     text: {
-      principal: "The following text refers to questions 01 to 04.\n\nThere have been 18 opioid-related deaths in Nova Scotia so far this year\n\nParamedics in Nova Scotia used naloxone to save 165 people from opioid overdoses in 2018 and 188 people in 2019. In 2020, 102 people were saved as of July 31.\nEight years ago, Matthew Bonn watched his friend turn blue and become deathly quiet as fentanyl flooded his body. Bonn jumped in, performing rescue breathing until paramedics arrived. That was the first time Bonn fought to keep someone alive during an overdose.\nBut it wouldn't be his last. Over the years, he tried more dangerous ways to snap people out of an overdose.\n\"I remember doing crazy things like throwing people in bathtubs, or, you know, giving them cocaine. As we know now, that doesn't help,\" said Bonn, a harm-reduction advocate in Halifax. \"But ... in those panic modes, you try to do whatever you can to keep that person alive.\"\nThis was before naloxone – a drug that can reverse an opioid overdose – became widely available to the public. In 2017, the Nova Scotia government made kits with the drug available for free at pharmacies.\nWhether used by community members or emergency crews, naloxone has helped save hundreds of lives in the province.\nMatthew Bonn is a program co-ordinator with the Canadian Association of People Who Use Drugs, and a current drug user himself.\nAlmost every other day in Nova Scotia, paramedics and medical first responders in the province use the drug to reverse an opioid overdose, according to Emergency Health Services (EHS).\n\n(Available in: https://www.cbc.ca/news/canada/nova-scotia/ehs-naloxone-opioids-drug-use-emergency-care-1.5745907.)\n\n01 - According to the text, it is correct to say that in the province of Nova Scotia:",
+      principal: "The following text refers to questions 01 to 04.\n\nThere have been 18 opioid-related deaths in Nova Scotia so far this year\n\nParamedics in Nova Scotia used naloxone to save 165 people from opioid overdoses in 2018 and 188 people in 2019. In 2020, 102 people were saved as of July 31.\nEight years ago, Matthew Bonn watched his friend turn blue and become deathly quiet as fentanyl flooded his body. Bonn jumped in, performing rescue breathing until paramedics arrived. That was the first time Bonn fought to keep someone alive during an overdose.\nBut it wouldn't be his last. Over the years, he tried more dangerous ways to snap people out of an overdose.\n\"I remember doing crazy things like throwing people in bathtubs, or, you know, giving them cocaine. As we know now, that doesn't help,\" said Bonn, a harm-reduction advocate in Halifax. \"But ... in those panic modes, you try to do whatever you can to keep that person alive.\"\nThis was before naloxone – a drug that can reverse an opioid overdose – became widely available to the public. In 2017, the Nova Scotia government made kits with the drug available for free at pharmacies.\nWhether used by community members or emergency crews, naloxone has helped save hundreds of lives in the province.\nMatthew Bonn is a program co-ordinator with the Canadian Association of People Who Use Drugs, and a current drug user himself.\nAlmost every other day in Nova Scotia, paramedics and medical first responders in the province use the drug to reverse an opioid overdose, according to Emergency Health Services (EHS).\n\n(Available in: https://www.cbc.ca/news/canada/nova-$scotia/ehs$-naloxone-opioids-drug-use-emergency-care-1.5745907.)\n\n01 - According to the text, it is correct to say that in the province of Nova Scotia:",
       subItens: []
     },
     options: [
@@ -192,7 +192,7 @@ createQuestion({
     university: "ufpr",
     year: 2021,
     text: {
-      principal: "O texto a seguir é referência para as questões 10 e 11.\n\nDo que tanto ri esse tal de Scorsese?\nSergio Del Molino\n\n1 Com o humor acontece algo que não ocorre com nenhuma forma de arte: só é valorizado se você acha engraçado. Qualquer\n2 crítico pode reconhecer o valor de um livro ou um filme de que não gosta ou até detesta. Uma pessoa pode dizer que David Lynch\n3 é chato e destacar, ao mesmo tempo, que o considera um dos grandes artistas do século. _________ se um humorista não fizer\n4 você rir, será muito difícil que você encontre a generosidade, a paciência e a equanimidade necessárias para afirmar que aprecia\n5 seu talento e entender que outros riam com suas piadas.\n6 Porque o humor, como diz o clichê dos críticos preguiçosos, não deixa ninguém indiferente. Se não é engraçado, irrita. Nada\n7 incomoda mais do que um engraçadinho. Isso explica algumas reações às opiniões de Fran Lebowitz. Existem muitas pessoas\n8 desconcertadas pela força das gargalhadas de Martin Scorsese na série 'Faz de conta que NY é uma cidade', da Netflix. \"Do que\n9 ele ri?\", perguntam-se. Ginia Bellafante fez essa pergunta no The New York Times, intrigada pelos jovens que lotam teatros para\n10 escutar o que, para ela, não são mais do que resmungos de uma velha.\n11 O que dói mesmo é que Scorsese se divirta mostrando os dentes. Pode-se desprezar o gosto das pessoas comuns, mas não\n12 o de um deus maior do Parnaso. Se os filmes do diretor significarem algo para você, a admiração passional que ele tem por uma\n13 humorista que você despreza é quase uma traição. Ou Scorsese demonstra ser um grosseiro que não merece os louros, ou você\n14 está deixando de captar algo sutil e profundo. Ou ele é um idiota ou você é que é, e como a primeira opção parece muito improvável,\n15 a aterradora possibilidade da segunda o enfurece tanto que você não percebe que o humor é visceral e não se curva a nenhuma\n16 crítica.\n\n(Disponível em: https://brasil.elpais.com/cultura/2021-01-28/do-que-tanto-ri-esse-tal-de-scorsese.html?event_log=oklogin&o=cerrbr&prod=REGCRARTBR.)\n\n10 - Assinale a alternativa que preenche corretamente a lacuna na linha 3 do texto.",
+      principal: "O texto a seguir é referência para as questões 10 e 11.\n\nDo que tanto ri esse tal de Scorsese?\nSergio Del Molino\n\n1 Com o humor acontece algo que não ocorre com nenhuma forma de arte: só é valorizado se você acha engraçado. Qualquer\n2 crítico pode reconhecer o valor de um livro ou um filme de que não gosta ou até detesta. Uma pessoa pode dizer que David Lynch\n3 é chato e destacar, ao mesmo tempo, que o considera um dos grandes artistas do século. _________ se um humorista não fizer\n4 você rir, será muito difícil que você encontre a generosidade, a paciência e a equanimidade necessárias para afirmar que aprecia\n5 seu talento e entender que outros riam com suas piadas.\n6 Porque o humor, como diz o clichê dos críticos preguiçosos, não deixa ninguém indiferente. Se não é engraçado, irrita. Nada\n7 incomoda mais do que um engraçadinho. Isso explica algumas reações às opiniões de Fran Lebowitz. Existem muitas pessoas\n8 desconcertadas pela força das gargalhadas de Martin Scorsese na série 'Faz de conta que NY é uma cidade', da Netflix. \"Do que\n9 ele ri?\", perguntam-se. Ginia Bellafante fez essa pergunta no The New York Times, intrigada pelos jovens que lotam teatros para\n10 escutar o que, para ela, não são mais do que resmungos de uma velha.\n11 O que dói mesmo é que Scorsese se divirta mostrando os dentes. Pode-se desprezar o gosto das pessoas comuns, mas não\n12 o de um deus maior do Parnaso. Se os filmes do diretor significarem algo para você, a admiração passional que ele tem por uma\n13 humorista que você despreza é quase uma traição. Ou Scorsese demonstra ser um grosseiro que não merece os louros, ou você\n14 está deixando de captar algo sutil e profundo. Ou ele é um idiota ou você é que é, e como a primeira opção parece muito improvável,\n15 a aterradora possibilidade da segunda o enfurece tanto que você não percebe que o humor é visceral e não se curva a nenhuma\n16 crítica.\n\n(Disponível em: https://brasil.elpais.com/cultura/2021-01-$28/do$-que-tanto-ri-esse-tal-de-scorsese.html?$event_log$=oklogin&o=cerrbr&prod=REGCRARTBR.)\n\n10 - Assinale a alternativa que preenche corretamente a lacuna na linha 3 do texto.",
       subItens: []
     },
     options: [
@@ -325,7 +325,7 @@ createQuestion({
       "A narração do atropelamento da menina Soraya exemplifica o registro predominante ao longo de todo o romance: relatos de memórias, apresentados em linguagem poética, contendo lacunas que impedem saber exatamente o que aconteceu.",
       "A leitura em conjunto dos vários depoimentos que compõem a obra esclarece detalhes desconhecidos de um ou outro narrador, desfazendo, assim, os mistérios relativos ao passado da família de libaneses cuja matriarca, Emilie, teve morte trágica.",
       "A obra é representativa da literatura regionalista de cunho social por ter como tema a desagregação de uma família de imigrantes libaneses motivada pelo prejuízo econômico que tiveram em suas atividades comerciais; assim como Manaus, eles não resistiram ao declínio causado pelo fim do ciclo da borracha.",
-      "Alguns descendentes de Emilie foram excluídos do convívio familiar por adotarem atitudes rebeldes, motivadas por diferenças religiosas: uns optaram pela religião muçulmana do pai, enquanto outros adotaram o cristianismo da matriarca.",
+      "Alguns descendentes de Emilie foram excluídos do convívio familiar por adotarem atitudes rebeldes, motivadas por diferenças religiosas: uns optaram pela religião $\\mu$çulmana do pai, enquanto outros adotaram o cristianismo da matriarca.",
       "O romance alterna a apresentação de espaços considerados exóticos, como a floresta amazônica e a Cidade Flutuante, com cenas que se passam em paisagens urbanas europeias, nas cidades onde a narradora principal e seu irmão biológico moraram."
     ],
     correctAnswer: 0,
@@ -430,7 +430,7 @@ createQuestion({
       "Os confederados defendiam o extermínio dos indígenas e a independência das 13 colônias em relação à Inglaterra, razão pela qual os símbolos confederados são considerados uma defesa do genocídio indígena.",
       "Os confederados defendiam a manutenção da escravidão e a separação do Sul em relação ao Norte dos Estados Unidos no contexto da Guerra Civil Americana (1861-1865), motivo pelo qual os símbolos confederados são considerados racistas.",
       "Os confederados defendiam a expulsão dos judeus e o rompimento de relações com o Estado de Israel no contexto da Guerra dos Seis Dias (1967), razão pela qual os símbolos confederados são considerados antissemitas.",
-      "Os confederados defendiam o banimento de muçulmanos e a suspensão da entrada de imigrantes islâmicos no território americano no contexto da Guerra do Golfo (1991), motivo pelo qual os símbolos confederados são considerados islamofóbicos.",
+      "Os confederados defendiam o banimento de $\\mu$çulmanos e a suspensão da entrada de imigrantes islâmicos no território americano no contexto da Guerra do Golfo (1991), motivo pelo qual os símbolos confederados são considerados islamofóbicos.",
       "Os confederados defendiam a deportação dos mexicanos e a construção de um muro separando os Estados Unidos do México no contexto da Guerra Hispano-Americana (1898), motivo pelo qual os símbolos confederados são considerados xenófobos."
     ],
     correctAnswer: 1,
@@ -717,7 +717,7 @@ createQuestion({
     university: "ufpr",
     year: 2021,
     text: {
-      principal: "O texto a seguir é referência para as questões 35 a 40.\n\nEm todas as questões, as medições são feitas por um referencial inercial.\nO módulo da aceleração gravitacional é representado por g. Onde for necessário, use g = 10 m/s² para o módulo da aceleração gravitacional.\n\n35 - Na representação de grandezas físicas, são utilizados diferentes sistemas de unidades, sendo que o SI (Sistema Internacional de Unidades) é o sistema padrão utilizado pela comunidade científica. Uma unidade básica do SI, a unidade de medida do comprimento, é:",
+      principal: "O texto a seguir é referência para as questões 35 a 40.\n\nEm todas as questões, as medições são feitas por um referencial inercial.\nO módulo da aceleração gravitacional é representado por g. Onde for necessário, use g = 10 $m/s$² para o módulo da aceleração gravitacional.\n\n35 - Na representação de grandezas físicas, são utilizados diferentes sistemas de unidades, sendo que o SI (Sistema Internacional de Unidades) é o sistema padrão utilizado pela comunidade científica. Uma unidade básica do SI, a unidade de medida do comprimento, é:",
       subItens: []
     },
     options: [
@@ -759,11 +759,11 @@ createQuestion({
     university: "ufpr",
     year: 2021,
     text: {
-      principal: "37 - Um objeto de massa m está em repouso a uma altura H acima da superfície da Terra. Sujeito à força gravitacional, num dado momento, ele cai verticalmente em direção à Terra. Desprezando qualquer força dissipativa e considerando que a aceleração gravitacional se mantém constante durante todo o movimento, assinale a alternativa que apresenta corretamente o valor do módulo da velocidade v do objeto quando ele está a uma altura H/2 acima da superfície da Terra.",
+      principal: "37 - Um objeto de massa m está em repouso a uma altura H acima da superfície da Terra. Sujeito à força gravitacional, num dado momento, ele cai verticalmente em direção à Terra. Desprezando qualquer força dissipativa e considerando que a aceleração gravitacional se mantém constante durante todo o movimento, assinale a alternativa que apresenta corretamente o valor do módulo da velocidade v do objeto quando ele está a uma altura $H/2$ acima da superfície da Terra.",
       subItens: []
     },
     options: [
-      "v = √(gH/2)",
+      "v = √($gH/2$)",
       "v = √2gH.",
       "v = 2√gH.",
       "v = √gH.",
@@ -780,7 +780,7 @@ createQuestion({
     university: "ufpr",
     year: 2021,
     text: {
-      principal: "38 - Uma onda é produzida numa corda de modo que a velocidade de propagação vale v = 5 m/s. Sabe-se que a distância entre dois nós sucessivos dessa onda é de 5 mm. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o período τ da onda na corda.",
+      principal: "38 - Uma onda é produzida numa corda de modo que a velocidade de propagação vale v = 5 $m/s$. Sabe-se que a distância entre dois nós sucessivos dessa onda é de 5 mm. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o período τ da onda na corda.",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
     university: "ufpr",
     year: 2021,
     text: {
-      principal: "45 - O gráfico ao lado descreve o deslocamento em metros, em relação ao tempo em segundos, de duas partículas A e B, ambas movendo-se em linha reta. A respeito dessas partículas, considere as seguintes afirmativas:\n\n1. A partícula B percorreu √50 metros em 7 segundos.\n2. O deslocamento da partícula A é dado pela função x(t) = 5 - t/2.\n3. As partículas A e B estão se aproximando ao longo do deslocamento.\n4. A velocidade da partícula A é o dobro da velocidade da partícula B.\n\nAssinale a alternativa correta.",
+      principal: "45 - O gráfico ao lado descreve o deslocamento em metros, em relação ao tempo em segundos, de duas partículas A e B, ambas movendo-se em linha reta. A respeito dessas partículas, considere as seguintes afirmativas:\n\n1. A partícula B percorreu √50 metros em 7 segundos.\n2. O deslocamento da partícula A é dado pela função x(t) = 5 - $t/2$.\n3. As partículas A e B estão se aproximando ao longo do deslocamento.\n4. A velocidade da partícula A é o dobro da velocidade da partícula B.\n\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -973,11 +973,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "π√3/3",
+      "π√$3/3$",
       "2π/3",
-      "2π√3/9",
-      "π√3/6",
-      "4π√3/9"
+      "2π√$3/9$",
+      "π√$3/6$",
+      "4π√$3/9$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1015,11 +1015,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/12",
-      "1/6",
-      "1/4",
-      "1/3",
-      "1/2"
+      "$1/12$",
+      "$1/6$",
+      "$1/4$",
+      "$1/3$",
+      "$1/2$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],

@@ -234,7 +234,7 @@ createQuestion({
     university: "ufam",
     year: 2022,
     text: {
-      principal: "Sobre a importância da literatura na sociedade, leia o excerto a seguir:\nO papel da literatura no mundo de hoje\nSegundo o especialista Antônio Cândido, em seu texto Direitos humanos e literatura, a literatura é, ou deveria ser, um direito básico do ser humano, pois a ficção atua no caráter e na formação crítica do ser humano.\nEle destaca que a literatura deveria estar inserida entre os direitos básicos do ser humano, pois desde os primórdios da humanidade o ser humano tem a necessidade de se alimentar intelectualmente de algum tipo de ficção. Ele defende que nenhum ser humano é capaz de viver sem algum tipo de ficção, mesmo em uma parte de seu dia, todos os dias; aponta que a literatura é uma necessidade do ser humano, sendo assim, todos deveriam ter direito à literatura, assim como moradia, alimentação, saúde, segurança e os demais direitos que possuímos registrados na lei dos direitos humanos. [...]\nSegundo ele, a literatura se manifesta universalmente através do ser humano, e em todos os tempos, tem função e papel humanizador. A literatura tem suma importância na construção de uma sociedade. [...]\nDisponível em: https://homoliteratus.com/literatura-no-mundo-de-hoje/\nRelacione as estrofes a seguir (retiradas de leituras obrigatórias) com o excerto lido e identifique aquela que cumpre a função e papel humanizador atribuído à Literatura:",
+      principal: "Sobre a importância da literatura na sociedade, leia o excerto a seguir:\nO papel da literatura no mundo de hoje\nSegundo o especialista Antônio Cândido, em seu texto Direitos humanos e literatura, a literatura é, ou deveria ser, um direito básico do ser humano, pois a ficção atua no caráter e na formação crítica do ser humano.\nEle destaca que a literatura deveria estar inserida entre os direitos básicos do ser humano, pois desde os primórdios da humanidade o ser humano tem a necessidade de se alimentar intelectualmente de algum tipo de ficção. Ele defende que nenhum ser humano é capaz de viver sem algum tipo de ficção, mesmo em uma parte de seu dia, todos os dias; aponta que a literatura é uma necessidade do ser humano, sendo assim, todos deveriam ter direito à literatura, assim como moradia, alimentação, saúde, segurança e os demais direitos que possuímos registrados na lei dos direitos humanos. [...]\nSegundo ele, a literatura se manifesta universalmente através do ser humano, e em todos os tempos, tem função e papel humanizador. A literatura tem suma importância na construção de uma sociedade. [...]\nDisponível em: https://homoliteratus.$com/literatura$-no-mundo-de-hoje/\nRelacione as estrofes a seguir (retiradas de leituras obrigatórias) com o excerto lido e identifique aquela que cumpre a função e papel humanizador atribuído à Literatura:",
       subItens: []
     },
     options: [
@@ -402,7 +402,7 @@ createQuestion({
     university: "ufam",
     year: 2022,
     text: {
-      principal: "“O fortalecimento gradual do poder dos reis entre os séculos XI e XVI é conhecido como processo de formação do Estado Moderno. Em cada país da Europa esse processo teve tempo e ritmos próprios.”\nBOULOS JÚNIOR, A. História sociedade & cidadania, 1. São Paulo: FTD, 2016. p. 240.\nEm Portugal e na Espanha, a formação dos Estados Nacionais esteve inserida no contexto de lutas entre cristãos e muçulmanos pelo controle dos territórios. Assim, o surgimento da monarquia nacional na península Ibérica esteve ligado ao processo da chamada:",
+      principal: "“O fortalecimento gradual do poder dos reis entre os séculos $\\xi$ e XVI é conhecido como processo de formação do Estado Moderno. Em cada país da Europa esse processo teve tempo e ritmos próprios.”\nBOULOS JÚNIOR, A. História sociedade & cidadania, 1. São Paulo: FTD, 2016. p. 240.\nEm Portugal e na Espanha, a formação dos Estados Nacionais esteve inserida no contexto de lutas entre cristãos e $\\mu$çulmanos pelo controle dos territórios. Assim, o surgimento da monarquia nacional na península Ibérica esteve ligado ao processo da chamada:",
       subItens: []
     },
     options: [
@@ -847,11 +847,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "6 km/h",
-      "12 km/h",
-      "15 km/h",
-      "22 km/h",
-      "24 km/h"
+      "6 $km/h$",
+      "12 $km/h$",
+      "15 $km/h$",
+      "22 $km/h$",
+      "24 $km/h$"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -864,7 +864,7 @@ createQuestion({
     university: "ufam",
     year: 2022,
     text: {
-      principal: "Um perito foi chamado para investigar um acidente numa construção no qual um cabo de aço se rompeu enquanto o guindaste estava erguendo uma carga de 4.500kg. Ele iniciou a investigação verificando que o guindaste foi projetado para não exceder a velocidade de 3,0m/s ou a aceleração de 1,0m/s² enquanto ergue cargas. Verificou, também, que o fabricante do cabo de aço indica que ele pode ser submetido a uma tensão máxima de 50.000N. A partir dessas informações, considere as seguintes afirmativas que o perito poderá, CORRETAMENTE, colocar em seu relatório:\nI. O cabo de aço estava defeituoso, pois ao iniciar o procedimento de erguer a carga de 4.500kg com aceleração de 1,0m/s², a tensão no cabo de aço estava 500N abaixo do valor máximo indicado pelo fabricante.\nII. O operador do guindaste excedeu a tensão máxima indicada pelo fabricante do cabo de aço ao iniciar o procedimento de erguer a carga de 4.500kg com aceleração de 1,0m/s².\nIII. No momento em que a velocidade da carga que estava sendo erguida atingiu o valor constante de 3,0m/s, a tensão no cabo de aço ultrapassou o valor máximo de 50.000N.\nAssinale a alternativa CORRETA:",
+      principal: "Um perito foi chamado para investigar um acidente numa construção no qual um cabo de aço se rompeu enquanto o guindaste estava erguendo uma carga de 4.500kg. Ele iniciou a investigação verificando que o guindaste foi projetado para não exceder a velocidade de 3,$0m/s$ ou a aceleração de 1,$0m/s$² enquanto ergue cargas. Verificou, também, que o fabricante do cabo de aço indica que ele pode ser submetido a uma tensão máxima de 50.000N. A partir dessas informações, considere as seguintes afirmativas que o perito poderá, CORRETAMENTE, colocar em seu relatório:\nI. O cabo de aço estava defeituoso, pois ao iniciar o procedimento de erguer a carga de 4.500kg com aceleração de 1,$0m/s$², a tensão no cabo de aço estava 500N abaixo do valor máximo indicado pelo fabricante.\nII. O operador do guindaste excedeu a tensão máxima indicada pelo fabricante do cabo de aço ao iniciar o procedimento de erguer a carga de 4.500kg com aceleração de 1,$0m/s$².\nIII. No momento em que a velocidade da carga que estava sendo erguida atingiu o valor constante de 3,$0m/s$, a tensão no cabo de aço ultrapassou o valor máximo de 50.000N.\nAssinale a alternativa CORRETA:",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "ufam",
     year: 2022,
     text: {
-      principal: "Carlos e João receberam bolsa de iniciação científica de mesmo valor. No final do mês, Carlos havia gasto 1/3 do valor total de sua bolsa, João havia gasto 1/2 do valor total de sua bolsa, sendo que Carlos ficou com R$100,00 a mais que João. O valor da bolsa era de:",
+      principal: "Carlos e João receberam bolsa de iniciação científica de mesmo valor. No final do mês, Carlos havia gasto $1/3$ do valor total de sua bolsa, João havia gasto $1/2$ do valor total de sua bolsa, sendo que Carlos ficou com R$100,00 a mais que João. O valor da bolsa era de:",
       subItens: []
     },
     options: [
@@ -990,7 +990,7 @@ createQuestion({
     university: "ufam",
     year: 2022,
     text: {
-      principal: "Chama-se custo médio de fabricação Cme (x) o valor de fabricação de um produto de um lote de x produtos. Assim, o custo médio é calculado dividindo-se o custo total pelo número de produtos fabricados: Cme(x) = C(x)/x. Se o custo médio de fabricação de x unidades fabricadas é dado por Cme(x) = -x + 4 + 20/x e a função receita é dado por R(x) = 13x - 2x² (x é dado em milhares), então número de produtos a serem fabricados para que o lucro seja máximo deve ser de:",
+      principal: "Chama-se custo médio de fabricação Cme (x) o valor de fabricação de um produto de um lote de x produtos. Assim, o custo médio é calculado dividindo-se o custo total pelo número de produtos fabricados: Cme(x) = C(x)/x. Se o custo médio de fabricação de x unidades fabricadas é dado por Cme(x) = -x + 4 + $20/x$ e a função receita é dado por R(x) = 13x - 2x² (x é dado em milhares), então número de produtos a serem fabricados para que o lucro seja máximo deve ser de:",
       subItens: []
     },
     options: [

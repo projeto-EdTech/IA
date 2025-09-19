@@ -133,7 +133,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "01) A descoberta do grande grupo de estátuas de terracota dos Guerreiros de Xi'an, da Dinastia Han, demonstra uma influência renascentista sobre as artes orientais.",
+      "01) A descoberta do grande grupo de estátuas de terracota dos Guerreiros de $\\xi$'an, da Dinastia Han, demonstra uma influência renascentista sobre as artes orientais.",
       "02) O Humanismo, no sentido de valorização do ser humano, considerado uma criação privilegiada de Deus, foi uma característica fundamental do Renascimento.",
       "04) O profundo racionalismo que caracterizou o Renascimento levou a um abandono, por parte dos pintores e escultores renascentistas, das representações de temas religiosos.",
       "08) No campo das ciências, as observações astronômicas realizadas por meio do telescópio levaram Galileu Galilei a defender a teoria heliocêntrica de Nicolau Copérnico.",
@@ -218,7 +218,7 @@ createQuestion({
     },
     options: [
       "01) Segundo o modelo, a velocidade dos glóbulos é maior nas extremidades da artéria.",
-      "02) A velocidade de um glóbulo a uma distância igual a R/2 da parede da artéria é de 75% da velocidade de um glóbulo no eixo central (x = R ).",
+      "02) A velocidade de um glóbulo a uma distância igual a $R/2$ da parede da artéria é de 75% da velocidade de um glóbulo no eixo central (x = R ).",
       "04) A unidade de medida da constante C é cm⁻¹s⁻¹.",
       "08) A leucocitose é frequente nos indivíduos portadores de infecção, caso em que o organismo aumenta a produção de glóbulos brancos.",
       "16) As hemácias dos mamíferos são anucleadas, retangulares, formadas no plasma sanguíneo, e permanecem na corrente sanguínea durante toda a vida do animal."
@@ -533,7 +533,7 @@ createQuestion({
     },
     options: [
       "01) Quando um núcleo de ²³⁸U transforma-se em ²³⁴Th ocorre a emissão de uma partícula alfa.",
-      "02) Quando o ²³⁴Th transforma-se em ²³⁴Pa ocorre a emissão de duas partículas beta.",
+      "02) Quando o ²³⁴Th transforma-se em ²³⁴Pa ocorre a emissão de duas partículas $\\beta$.",
       "04) Se a massa de um determinado isótopo radioativo se reduz a 6,25% da massa inicial após 16 meses, então sua meia-vida é 4 meses.",
       "08) Se a meia-vida de um isótopo radioativo é igual a 3 dias, então 1 grama desse isótopo decai para 0,125 gramas em 9 dias.",
       "16) O bombardeamento de um núcleo de ¹⁴N com uma partícula alfa provoca a transmutação do ¹⁴N para ¹⁷O e a emissão de um pósitron."
@@ -617,9 +617,9 @@ createQuestion({
     },
     options: [
       "01) A equação que descreve a trajetória da partícula e a equação que escreve a função horária da posição da partícula no eixo horizontal são equações de segundo grau.",
-      "02) A partícula atinge o solo no instante √2h/g segundos.",
-      "04) A distância percorrida pela partícula no eixo horizontal, do instante em que ela é lançada até o instante em que ela toca o solo, é de vo√2h/g metros.",
-      "08) Se o módulo da velocidade inicial for duplicado, 2vo, a partícula irá atingir o solo no instante √4h/g segundos.",
+      "02) A partícula atinge o solo no instante √$2h/g$ segundos.",
+      "04) A distância percorrida pela partícula no eixo horizontal, do instante em que ela é lançada até o instante em que ela toca o solo, é de vo√$2h/g$ metros.",
+      "08) Se o módulo da velocidade inicial for duplicado, 2vo, a partícula irá atingir o solo no instante √$4h/g$ segundos.",
       "16) A energia cinética da partícula no instante em que ela toca o solo é m(v₀²/2 + gh) joules."
     ],
     correctAnswer: 1,
@@ -654,7 +654,7 @@ createQuestion({
     university: "uem",
     year: 2015,
     text: {
-      principal: "Para fazer ultrapassagens em estradas de pista simples é necessário trafegar pela contramão. Para uma manobra segura o condutor deve iniciar a ultrapassagem indo para a pista contrária quando a dianteira do seu veículo estiver a uma distância de 10 metros da traseira do veículo da frente e voltar para a pista quando a sua traseira estiver 5 metros à frente da dianteira do outro veículo. Considere um carro de 5 metros de comprimento, viajando a 108 km/h, que deseja ultrapassar um caminhão de 30 metros de comprimento trafegando a 72 km/h. Sobre essa manobra, assinale o que for correto (Obs.: desconsidere os movimentos laterais do carro).",
+      principal: "Para fazer ultrapassagens em estradas de pista simples é necessário trafegar pela contramão. Para uma manobra segura o condutor deve iniciar a ultrapassagem indo para a pista contrária quando a dianteira do seu veículo estiver a uma distância de 10 metros da traseira do veículo da frente e voltar para a pista quando a sua traseira estiver 5 metros à frente da dianteira do outro veículo. Considere um carro de 5 metros de comprimento, viajando a 108 $km/h$, que deseja ultrapassar um caminhão de 30 metros de comprimento trafegando a 72 $km/h$. Sobre essa manobra, assinale o que for correto (Obs.: desconsidere os movimentos laterais do carro).",
       subItens: []
     },
     options: [
@@ -700,11 +700,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "01) Uma solução preparada pela dissolução de 136 gramas de NaCl em água suficiente para 500 cm³ de solução possui concentração igual a aproximadamente 0,27 gramas/litro. (Dado: densidade da solução igual a 1 grama/mililitro).",
-      "02) A concentração em quantidade de matéria por litro para uma solução preparada pela dissolução de 20 gramas de NaOH em 5 quilogramas de água é igual a 4 x 10⁻³ mol/litro. (Dado: densidade da água igual a 1 grama/mililitro).",
-      "04) Ao se dissolver mais soluto em uma solução de densidade inicialmente igual a 1,5 g/cm³, desconsiderando o aumento de volume, temos um aumento da densidade da solução.",
+      "01) Uma solução preparada pela dissolução de 136 gramas de NaCl em água suficiente para 500 cm³ de solução possui concentração igual a aproximadamente 0,27 $gramas/litro$. (Dado: densidade da solução igual a 1 $grama/mililitro$).",
+      "02) A concentração em quantidade de matéria por litro para uma solução preparada pela dissolução de 20 gramas de NaOH em 5 quilogramas de água é igual a 4 x 10⁻³ $mol/litro$. (Dado: densidade da água igual a 1 $grama/mililitro$).",
+      "04) Ao se dissolver mais soluto em uma solução de densidade inicialmente igual a 1,5 $g/cm$³, desconsiderando o aumento de volume, temos um aumento da densidade da solução.",
       "08) Ao se dissolverem 0,2 miligramas de MgCl₂ em 50 gramas de água, obtém-se uma solução com concentração em MgCl₂ igual a 4 ppm.",
-      "16) Ao se adicionarem 3 litros de água a 1 litro de uma solução aquosa de HC1 de concentração igual a 1×10⁻⁴ mol/litro, o pH da solução resultante dobra de valor."
+      "16) Ao se adicionarem 3 litros de água a 1 litro de uma solução aquosa de HC1 de concentração igual a 1×10⁻⁴ $mol/litro$, o pH da solução resultante dobra de valor."
     ],
     correctAnswer: 2,
     materia: ["Química"],
@@ -738,11 +738,11 @@ createQuestion({
     university: "uem",
     year: 2015,
     text: {
-      principal: "Dois mols de gás oxigênio (O2) à temperatura de 27 °C estão confinados em um recipiente ao nível do mar. O recipiente possui um êmbolo de massa igual a 2 quilogramas e área igual a 2×10⁻⁴ m², que pode se deslocar livremente sem atrito. Considerando que o gás apresenta comportamento ideal, assinale o que for correto. Dados: R=8,31 J/mol.K. Considere 1 atm = 10⁵ N/m² e g = 10 m/s².",
+      principal: "Dois mols de gás oxigênio (O2) à temperatura de 27 °C estão confinados em um recipiente ao nível do mar. O recipiente possui um êmbolo de massa igual a 2 quilogramas e área igual a 2×10⁻⁴ m², que pode se deslocar livremente sem atrito. Considerando que o gás apresenta comportamento ideal, assinale o que for correto. Dados: R=8,31 $J/mol$.K. Considere 1 atm = 10⁵ $N/m$² e g = 10 $m/s$².",
       subItens: []
     },
     options: [
-      "01) A pressão à qual o gás está submetido é aproximadamente igual a 1×10⁵ N/m².",
+      "01) A pressão à qual o gás está submetido é aproximadamente igual a 1×10⁵ $N/m$².",
       "02) A altura da extremidade inferior do êmbolo em relação à base do recipiente é de aproximadamente 125 metros.",
       "04) Se o gás O₂ fosse substituído pelo gás He, nas mesmas condições descritas, a energia interna do gás He seria menor quando comparada com a energia interna do gás O₂.",
       "08) Se o gás receber calor do meio externo, a volume constante, a temperatura e a pressão diminuem.",
@@ -801,13 +801,13 @@ createQuestion({
     university: "uem",
     year: 2015,
     text: {
-      principal: "Uma bolinha é atirada para o alto a partir do chão e fica quicando, realizando movimentos de subir e descer. Suponha que a velocidade da bola ao ser lançada seja de 4 m/s, e que a cada vez que toca o chão ela perca 2% de sua energia mecânica. Desprezando a resistência do ar, assinale o que for correto. Considere g = 9,8 m/s².",
+      principal: "Uma bolinha é atirada para o alto a partir do chão e fica quicando, realizando movimentos de subir e descer. Suponha que a velocidade da bola ao ser lançada seja de 4 $m/s$, e que a cada vez que toca o chão ela perca 2% de sua energia mecânica. Desprezando a resistência do ar, assinale o que for correto. Considere g = 9,8 $m/s$².",
       subItens: []
     },
     options: [
       "01) A altura máxima atingida pela bola após quicar pela primeira vez é 80 cm.",
-      "02) A velocidade escalar da bola ao tocar o chão na primeira vez é, em módulo, menor do que 4 m/s.",
-      "04) A velocidade escalar da bola no instante logo após quicar pela segunda vez é, em módulo, 3,92 m/s.",
+      "02) A velocidade escalar da bola ao tocar o chão na primeira vez é, em módulo, menor do que 4 $m/s$.",
+      "04) A velocidade escalar da bola no instante logo após quicar pela segunda vez é, em módulo, 3,92 $m/s$.",
       "08) A sequência dada pela altura máxima atingida pela bola após cada vez que toca o chão é uma progressão geométrica.",
       "16) A distância total percorrida pela bola é 40 metros."
     ],

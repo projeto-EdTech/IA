@@ -31,7 +31,7 @@ createQuestion({
       "f₁ <f₂ e v₁ < V2.",
       "f₁ < f₂e v₁ = V2.",
       "f₁ <f₂ e v₁ > V2.",
-      "f₁ > f₂ e_v₁ = V2.",
+      "f₁ > f₂ $e_v$₁ = V2.",
       "f₁ > f₂ e v₁ > V2."
     ],
     correctAnswer: 3,
@@ -66,15 +66,15 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "A figura foi extraída de um antigo jogo para computadores, chamado Bang! Bang!\n\n[IMAGEM DE UM CANHÃO DISPARANDO UMA BALA NUM JOGO COM COORDENADAS]\n\nNo jogo, dois competidores controlam os canhões A e B, disparando balas alternadamente com o objetivo de atingir o canhão do adversário; para isso, atribuem valores estimados para o módulo da velocidade inicial de disparo (u) e para o ângulo de disparo (θ).\nEm determinado momento de uma partida, o competidor B deve disparar; ele sabe que a bala disparada anteriormente, θ = 53°, passou tangenciando o ponto P.\nNo jogo, |g| é igual a 10 m/s². Considere sen 53°= 0,8, cos 53° = 0,6 e desprezível a ação de forças dissipativas.\nCom base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de u que permitiria ao disparo efetuado pelo canhão B atingir o canhão A?",
+      principal: "A figura foi extraída de um antigo jogo para computadores, chamado Bang! Bang!\n\n[IMAGEM DE UM CANHÃO DISPARANDO UMA BALA NUM JOGO COM COORDENADAS]\n\nNo jogo, dois competidores controlam os canhões A e B, disparando balas alternadamente com o objetivo de atingir o canhão do adversário; para isso, atribuem valores estimados para o módulo da velocidade inicial de disparo (u) e para o ângulo de disparo (θ).\nEm determinado momento de uma partida, o competidor B deve disparar; ele sabe que a bala disparada anteriormente, θ = 53°, passou tangenciando o ponto P.\nNo jogo, |g| é igual a 10 $m/s$². Considere $\\sin$ 53°= 0,8, $\\cos$ 53° = 0,6 e desprezível a ação de forças dissipativas.\nCom base nas distâncias dadas e mantendo o último ângulo de disparo, qual deveria ser, aproximadamente, o menor valor de u que permitiria ao disparo efetuado pelo canhão B atingir o canhão A?",
       subItens: []
     },
     options: [
-      "30 m/s.",
-      "35 m/s.",
-      "40 m/s.",
-      "45 m/s.",
-      "50 m/s."
+      "30 $m/s$.",
+      "35 $m/s$.",
+      "40 $m/s$.",
+      "45 $m/s$.",
+      "50 $m/s$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "A obtenção de etanol utilizando a cana-de-açúcar envolve a fermentação dos monossacarídeos formadores da sacarose contida no melaço. Um desses formadores é a glicose (C6H12O6), cuja fermentação produz cerca de 50 g de etanol a partir de 100 g de glicose, conforme a equação química descrita.\n\nC6H12O6 → 2 CH3CH2OH + 2 CO₂\n\nEm uma condição específica de fermentação, obtém-se 80% de conversão em etanol que, após sua purificação, apresenta densidade igual a 0,80 g/mL.\nO melaço utilizado apresentou 50 kg de monossacarídeos na forma de glicose.\nO volume de etanol, em litro, obtido nesse processo é mais próximo de",
+      principal: "A obtenção de etanol utilizando a cana-de-açúcar envolve a fermentação dos monossacarídeos formadores da sacarose contida no melaço. Um desses formadores é a glicose (C6H12O6), cuja fermentação produz cerca de 50 g de etanol a partir de 100 g de glicose, conforme a equação química descrita.\n\nC6H12O6 → 2 CH3CH2OH + 2 CO₂\n\nEm uma condição específica de fermentação, obtém-se 80% de conversão em etanol que, após sua purificação, apresenta densidade igual a 0,80 $g/mL$.\nO melaço utilizado apresentou 50 kg de monossacarídeos na forma de glicose.\nO volume de etanol, em litro, obtido nesse processo é mais próximo de",
       subItens: []
     },
     options: [
@@ -339,7 +339,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "Analisando a ficha técnica de um automóvel popular, verificam-se algumas características em relação ao seu desempenho. Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a gasolina, tem-se os dados apresentados no quadro, em relação ao desempenho de cada motor.\n\nParâmetro\nMotor a gasolina\nMotor a álcool\nAceleração\nde 0 a 100 km/h em 13,4 s\nde 0 a 100 km/h em 12,9 s\nVelocidade máxima\n165 km/h\n163 km/h\n\nConsiderando desprezível a resistência do ar, qual versão apresenta a maior potência?",
+      principal: "Analisando a ficha técnica de um automóvel popular, verificam-se algumas características em relação ao seu desempenho. Considerando o mesmo automóvel em duas versões, uma delas funcionando a álcool e outra, a gasolina, tem-se os dados apresentados no quadro, em relação ao desempenho de cada motor.\n\nParâmetro\nMotor a gasolina\nMotor a álcool\nAceleração\nde 0 a 100 $km/h$ em 13,4 s\nde 0 a 100 $km/h$ em 12,9 s\nVelocidade máxima\n165 $km/h$\n163 $km/h$\n\nConsiderando desprezível a resistência do ar, qual versão apresenta a maior potência?",
       subItens: []
     },
     options: [
@@ -347,7 +347,7 @@ createQuestion({
       "Como a versão a gasolina atinge o maior valor de energia cinética, esta é a que desenvolve a maior potência.",
       "Como a versão a álcool apresenta a maior taxa de variação de energia cinética, esta é a que desenvolve a maior potência.",
       "Como ambas as versões apresentam a mesma variação de velocidade no cálculo da aceleração, a potência desenvolvida é a mesma.",
-      "Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 km/h, esta é a que desenvolve a maior potência."
+      "Como a versão a gasolina fica com o motor trabalhando por mais tempo para atingir os 100 $km/h$, esta é a que desenvolve a maior potência."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -507,7 +507,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "Na montagem de uma cozinha para um restaurante, a escolha do material correto para as panelas é importante, pois a panela que conduz mais calor é capaz de cozinhar os alimentos mais rapidamente e, com isso, há economia de gás. A taxa de condução do calor depende da condutividade k do material, de sua área A, da diferença de temperatura ∆T e da espessura d do material, sendo dada pela relação ΔQ/Δt = k A ΔT/d. Em panelas com dois materiais, a taxa de condução é dada por ΔQ/Δt = A ΔT / (d₁/k₁ + d₂/k₂) em que d₁ e d₂ são as espessuras dos dois materiais, e k₁ e k₂ são as condutividades de cada material. Os materiais mais comuns no mercado para panelas são o alumínio (k = 20 W/m K), o ferro (k = 8 W/m K) e o aço (k = 5 W/m K) combinado com o cobre (k = 40 W/m K).\nCompara-se uma panela de ferro, uma de alumínio e uma composta de 1/2 da espessura em cobre e 1/2 da espessura em aço, todas com a mesma espessura total e com a mesma área de fundo.\nA ordem crescente da mais econômica para a menos econômica é",
+      principal: "Na montagem de uma cozinha para um restaurante, a escolha do material correto para as panelas é importante, pois a panela que conduz mais calor é capaz de cozinhar os alimentos mais rapidamente e, com isso, há economia de gás. A taxa de condução do calor depende da condutividade k do material, de sua área A, da diferença de temperatura ∆T e da espessura d do material, sendo dada pela relação ΔQ/Δt = k A Δ$T/d$. Em panelas com dois materiais, a taxa de condução é dada por ΔQ/Δt = A ΔT / (d₁/k₁ + d₂/k₂) em que d₁ e d₂ são as espessuras dos dois materiais, e k₁ e k₂ são as condutividades de cada material. Os materiais mais comuns no mercado para panelas são o alumínio (k = 20 $W/m$ K), o ferro (k = 8 $W/m$ K) e o aço (k = 5 $W/m$ K) combinado com o cobre (k = 40 $W/m$ K).\nCompara-se uma panela de ferro, uma de alumínio e uma composta de $1/2$ da espessura em cobre e $1/2$ da espessura em aço, todas com a mesma espessura total e com a mesma área de fundo.\nA ordem crescente da mais econômica para a menos econômica é",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "Com o objetivo de identificar a melhor espécie produtora de madeira para construção (com resistência mecânica e à degradação), foram analisadas as estruturas anatômicas de cinco espécies, conforme o quadro.\n\nEspécie\nTecido analisado\nPeriderme/Esclerênquima\nFloema/Esclerênquima\nXilema\nAlburno\nCerne\n1\n+/+\n+/-\n+\n+++\n2\n+/-\n+/-\n+++\n-\n3\n++/-\n+++/+\n+\n-\n4\n+++/+\n+++/-\n+\n-\n5\n+++/+\n+++/+\n++\n+\nLegenda: (-) ausente, (+) presente em pequena quantidade, (++) presente em média quantidade, (+++) presente em grande quantidade.\n\nQual espécie corresponde ao objetivo proposto?",
+      principal: "Com o objetivo de identificar a melhor espécie produtora de madeira para construção (com resistência mecânica e à degradação), foram analisadas as estruturas anatômicas de cinco espécies, conforme o quadro.\n\nEspécie\nTecido analisado\n$Periderme/Escler$ênquima\n$Floema/Escler$ênquima\nXilema\nAlburno\nCerne\n1\n+/+\n+/-\n+\n+++\n2\n+/-\n+/-\n+++\n-\n3\n++/-\n+++/+\n+\n-\n4\n+++/+\n+++/-\n+\n-\n5\n+++/+\n+++/+\n++\n+\nLegenda: (-) ausente, (+) presente em pequena quantidade, (++) presente em média quantidade, (+++) presente em grande quantidade.\n\nQual espécie corresponde ao objetivo proposto?",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "O emprego de células de combustível a hidrogênio pode ser uma tecnologia adequada ao transporte automotivo. O quadro apresenta características de cinco tecnologias mais proeminentes de células de combustível.\n\nTipo de célula de combustível\nTemperatura operacional (°C)\nEletrólito\nSemirreações nos eletrodos\nAFC\n90 - 100\nHidróxido de potássio aquoso\nH₂ + 2 OH⁻→ 2 H₂O + 2 e⁻\n1/2 O₂ + H₂O + 2e⁻→ 2 OH⁻\nMSFC\n600 - 1 000\nCarbonatos de lítio, sódio e/ou potássio fundidos\nH₂ + CO₃²⁻→ H₂O + CO₂ + 2 e⁻\n1/2 O₂ + CO₂ + 2e⁻→ CO₃²⁻\nPEM\n60 - 100\nÁcido poliperfluorossulfônico sólido\nH₂ → 2 H⁺ + 2 e⁻\n1/2 O₂ + 2H⁺ + 2e⁻→ H₂O\nPAFC\n175 - 200\nÁcido fosfórico líquido\n\nSOFC\n600 - 1000\nÓxido de zircônio(IV) sólido\n\nTestes operacionais com esses tipos de células têm indicado que as melhores alternativas para veículos são as que operam em baixos níveis de energia térmica, são formadas por membranas de eletrólitos poliméricos e ocorrem em meio ácido.\nA tecnologia testada mais adequada para o emprego em veículos automotivos é a célula de combustível",
+      principal: "O emprego de células de combustível a hidrogênio pode ser uma tecnologia adequada ao transporte automotivo. O quadro apresenta características de cinco tecnologias mais proeminentes de células de combustível.\n\nTipo de célula de combustível\nTemperatura operacional (°C)\nEletrólito\nSemirreações nos eletrodos\nAFC\n90 - 100\nHidróxido de potássio aquoso\nH₂ + 2 OH⁻→ 2 H₂O + 2 e⁻\n$1/2$ O₂ + H₂O + 2e⁻→ 2 OH⁻\nMSFC\n600 - 1 000\nCarbonatos de lítio, sódio $e/ou$ potássio fundidos\nH₂ + CO₃²⁻→ H₂O + CO₂ + 2 e⁻\n$1/2$ O₂ + CO₂ + 2e⁻→ CO₃²⁻\nPEM\n60 - 100\nÁcido poliperfluorossulfônico sólido\nH₂ → 2 H⁺ + 2 e⁻\n$1/2$ O₂ + 2H⁺ + 2e⁻→ H₂O\nPAFC\n175 - 200\nÁcido fosfórico líquido\n\nSOFC\n600 - 1000\nÓxido de zircônio(IV) sólido\n\nTestes operacionais com esses tipos de células têm indicado que as melhores alternativas para veículos são as que operam em baixos níveis de energia térmica, são formadas por membranas de eletrólitos poliméricos e ocorrem em meio ácido.\nA tecnologia testada mais adequada para o emprego em veículos automotivos é a célula de combustível",
       subItens: []
     },
     options: [
@@ -780,7 +780,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "Carros elétricos estão cada vez mais baratos, no entanto, os órgãos governamentais e a indústria se preocupam com o tempo de recarga das baterias, que é muito mais lento quando comparado ao tempo gasto para encher o tanque de combustível. Portanto, os usuários de transporte individual precisam se conscientizar dos ganhos ambientais dessa mudança e planejar com antecedência seus percursos, pensando em pausas necessárias para recargas.\nApós realizar um percurso de 110 km, um motorista pretende recarregar as baterias de seu carro elétrico, que tem um desempenho médio de 5,0 km/kWh, usando um carregador ideal que opera a uma tensão de 220 V e é percorrido por uma corrente de 20 A.\nQuantas horas são necessárias para recarregar a energia utilizada nesse percurso?",
+      principal: "Carros elétricos estão cada vez mais baratos, no entanto, os órgãos governamentais e a indústria se preocupam com o tempo de recarga das baterias, que é muito mais lento quando comparado ao tempo gasto para encher o tanque de combustível. Portanto, os usuários de transporte individual precisam se conscientizar dos ganhos ambientais dessa mudança e planejar com antecedência seus percursos, pensando em pausas necessárias para recargas.\nApós realizar um percurso de 110 km, um motorista pretende recarregar as baterias de seu carro elétrico, que tem um desempenho médio de 5,0 $km/kWh$, usando um carregador ideal que opera a uma tensão de 220 V e é percorrido por uma corrente de 20 A.\nQuantas horas são necessárias para recarregar a energia utilizada nesse percurso?",
       subItens: []
     },
     options: [
@@ -885,7 +885,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.\n\nDispositivo eletrônico\nFaixa de força eletromotriz (V)\nI Relógio de parede\n1,2 a 1,5\nII Celular\n3,5 a 3,8\nIII Câmera digital\n7,5 a 7,8\nIV Carrinho de controle remoto\n10,5 a 10,9\nV Notebook/Laptop\n19,5 a 20,0\n\nConsidere que uma bateria é construída pela associação em série de três pilhas de lítio-iodo, nas condições-padrão, conforme as semiequações de redução apresentadas.\n\nI₂ + 2 e⁻ → 2I⁻ E° = +0,54 V\nLi⁺ + e⁻ → Li E° = -3,05 V\n\nEssa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
+      principal: "O quadro lista alguns dispositivos eletrônicos que estão presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.\n\nDispositivo eletrônico\nFaixa de força eletromotriz (V)\nI Relógio de parede\n1,2 a 1,5\nII Celular\n3,5 a 3,8\nIII Câmera digital\n7,5 a 7,8\nIV Carrinho de controle remoto\n10,5 a 10,9\nV $Notebook/Laptop$\n19,5 a 20,0\n\nConsidere que uma bateria é construída pela associação em série de três pilhas de lítio-iodo, nas condições-padrão, conforme as semiequações de redução apresentadas.\n\nI₂ + 2 e⁻ → 2I⁻ E° = +0,54 V\nLi⁺ + e⁻ → Li E° = -3,05 V\n\nEssa bateria é adequada para o funcionamento de qual dispositivo eletrônico?",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "O alcoolômetro Gay Lussac é um instrumento destinado a medir o teor de álcool, em porcentagem de volume (v/v), de soluções de água e álcool na faixa de 0 °GL a 100 °GL, com divisões de 0,1 °GL. A concepção do alcoolômetro se baseia no princípio de flutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala do instrumento é aferida a 20 °C, sendo necessária a correção da medida, caso a temperatura da solução não esteja na temperatura de aferição. É apresentada parte da tabela de correção de um alcoolômetro, com a temperatura.\n\nTabela de correção do alcoolômetro com temperatura 20 °C\nLeitura da temperatura (°C)\n°GL\n20\n21\n22\n23\n24\n25\n35\n35,0\n34,6\n34,2\n33,8\n33,4\n33,0\n36\n36,0\n35,6\n35,2\n34,8\n34,4\n34,0\n\nÉ necessária a correção da medida do instrumento, pois um aumento na temperatura promove o(a)",
+      principal: "O alcoolômetro Gay Lussac é um instrumento destinado a medir o teor de álcool, em porcentagem de volume ($v/v$), de soluções de água e álcool na faixa de 0 °GL a 100 °GL, com divisões de 0,1 °GL. A concepção do alcoolômetro se baseia no princípio de flutuabilidade de Arquimedes, semelhante ao funcionamento de um densímetro. A escala do instrumento é aferida a 20 °C, sendo necessária a correção da medida, caso a temperatura da solução não esteja na temperatura de aferição. É apresentada parte da tabela de correção de um alcoolômetro, com a temperatura.\n\nTabela de correção do alcoolômetro com temperatura 20 °C\nLeitura da temperatura (°C)\n°GL\n20\n21\n22\n23\n24\n25\n35\n35,0\n34,6\n34,2\n33,8\n33,4\n33,0\n36\n36,0\n35,6\n35,2\n34,8\n34,4\n34,0\n\nÉ necessária a correção da medida do instrumento, pois um aumento na temperatura promove o(a)",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, 7/9 de probabilidade de acertar um dardo no alvo.\nA fim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a probabilidade de um jogador pontuar em uma rodada seja igual ou superior a 2/10. Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada.\nCom base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
+      principal: "O organizador de uma competição de lançamento de dardos pretende tornar o campeonato mais competitivo. Pelas regras atuais da competição, numa rodada, o jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador considera que, em média, os jogadores têm, em cada lançamento, $7/9$ de probabilidade de acertar um dardo no alvo.\nA fim de tornar o jogo mais atrativo, planeja modificar as regras de modo que a probabilidade de um jogador pontuar em uma rodada seja igual ou superior a $2/10$. Para isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada.\nCom base nos valores considerados pelo organizador da competição, a quantidade mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais atrativo é",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "Um zootecnista pretende testar se uma nova ração para coelhos é mais eficiente do que a que ele vem utilizando atualmente. A ração atual proporciona uma massa média de 10 kg por coelho, com um desvio padrão de 1 kg, alimentado com essa ração durante um período de três meses. O zootecnista selecionou uma amostra de coelhos e os alimentou com a nova ração pelo mesmo período de tempo. Ao final, anotou a massa de cada coelho, obtendo um desvio padrão de 1,5 kg para a distribuição das massas dos coelhos dessa amostra. Para avaliar a eficiência dessa ração, ele utilizará o coeficiente de variação (CV) que é uma medida de dispersão definida por CV = s/x, em que s representa o desvio padrão e x, a média das massas dos coelhos que foram alimentados com uma determinada ração.\nO zootecnista substituirá a ração que vinha utilizando pela nova, caso o coeficiente de variação da distribuição das massas dos coelhos que foram alimentados com a nova ração for menor do que o coeficiente de variação da distribuição das massas dos coelhos que foram alimentados com a ração atual.\nA substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da amostra, em quilograma, for superior a",
+      principal: "Um zootecnista pretende testar se uma nova ração para coelhos é mais eficiente do que a que ele vem utilizando atualmente. A ração atual proporciona uma massa média de 10 kg por coelho, com um desvio padrão de 1 kg, alimentado com essa ração durante um período de três meses. O zootecnista selecionou uma amostra de coelhos e os alimentou com a nova ração pelo mesmo período de tempo. Ao final, anotou a massa de cada coelho, obtendo um desvio padrão de 1,5 kg para a distribuição das massas dos coelhos dessa amostra. Para avaliar a eficiência dessa ração, ele utilizará o coeficiente de variação (CV) que é uma medida de dispersão definida por CV = $s/x$, em que s representa o desvio padrão e x, a média das massas dos coelhos que foram alimentados com uma determinada ração.\nO zootecnista substituirá a ração que vinha utilizando pela nova, caso o coeficiente de variação da distribuição das massas dos coelhos que foram alimentados com a nova ração for menor do que o coeficiente de variação da distribuição das massas dos coelhos que foram alimentados com a ração atual.\nA substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da amostra, em quilograma, for superior a",
       subItens: []
     },
     options: [
@@ -1347,15 +1347,15 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição P (em cm) da massa m em função do tempo t (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo P(t) = ± A cos (ωt) ou P(t) = ± A sen (ωt), em que A > 0 é a amplitude de deslocamento máximo e ω é a frequência, que se relaciona com o período T pela fórmula ω = 2π/T. Considere a ausência de quaisquer forças dissipativas.\n\n[IMAGENS DE SISTEMA MASSA-MOLA E GRÁFICO DE POSIÇÃO X TEMPO]\n\nA expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo, no gráfico, é",
+      principal: "Uma mola é solta da posição distendida conforme a figura. A figura à direita representa o gráfico da posição P (em cm) da massa m em função do tempo t (em segundo) em um sistema de coordenadas cartesianas. Esse movimento periódico é descrito por uma expressão do tipo P(t) = ± A $\\cos$ (ωt) ou P(t) = ± A $\\sin$ (ωt), em que A > 0 é a amplitude de deslocamento máximo e ω é a frequência, que se relaciona com o período T pela fórmula ω = 2π/T. Considere a ausência de quaisquer forças dissipativas.\n\n[IMAGENS DE SISTEMA MASSA-MOLA E GRÁFICO DE POSIÇÃO X TEMPO]\n\nA expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo, no gráfico, é",
       subItens: []
     },
     options: [
-      "-3 cos (2t)",
-      "-3 sen (2t)",
-      "3 cos (2t)",
-      "-6 cos (2t)",
-      "6 sen (2t)"
+      "-3 $\\cos$ (2t)",
+      "-3 $\\sin$ (2t)",
+      "3 $\\cos$ (2t)",
+      "-6 $\\cos$ (2t)",
+      "6 $\\sin$ (2t)"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1536,7 +1536,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "Um automóvel apresenta um desempenho médio de 16 km/L. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 20 km percorridos.\nO valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é",
+      principal: "Um automóvel apresenta um desempenho médio de 16 $km/L$. Um engenheiro desenvolveu um novo motor a combustão que economiza, em relação ao consumo do motor anterior, 0,1 L de combustível a cada 20 km percorridos.\nO valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro, expresso com uma casa decimal, é",
       subItens: []
     },
     options: [
@@ -1557,7 +1557,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "O projeto de um contêiner, em forma de paralelepípedo reto retangular, previa a pintura dos dois lados (interno e externo) de cada uma das quatro paredes com tinta acrílica e a pintura do piso interno com tinta epóxi. O construtor havia pedido, a cinco fornecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra, resolveu mudar o projeto original, alterando o comprimento e a largura para o dobro do originalmente previsto, mantendo inalterada a altura. Ao pedir novos orçamentos aos fornecedores, para as novas dimensões, cada um deu uma resposta diferente sobre as novas quantidades de tinta necessárias.\nEm relação ao previsto para o projeto original, as novas quantidades de tinta necessárias informadas pelos fornecedores foram as seguintes:\n• Fornecedor I: \"O dobro, tanto para as paredes quanto para o piso.\"\n• Fornecedor II: \"O dobro para as paredes e quatro vezes para o piso.\"\n• Fornecedor III: \"Quatro vezes, tanto para as paredes quanto para o piso.\"\n• Fornecedor IV: \"Quatro vezes para as paredes e o dobro para o piso.\"\n• Fornecedor V: \"Oito vezes para as paredes e quatro vezes para o piso.\"\nAnalisando as informações dos fornecedores, o construtor providenciará a quantidade adequada de material. Considere a porta de acesso do contêiner como parte de uma das paredes.\nQual dos fornecedores prestou as informações adequadas, devendo ser o escolhido pelo construtor para a aquisição do material?",
+      principal: "O projeto de um contêiner, em forma de paralelepípedo reto retangular, previa a pintura dos dois lados (interno e externo) de cada uma das quatro paredes com tinta acrílica e a pintura do piso interno com tinta epó$\\xi$. O construtor havia pedido, a cinco fornecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra, resolveu mudar o projeto original, alterando o comprimento e a largura para o dobro do originalmente previsto, mantendo inalterada a altura. Ao pedir novos orçamentos aos fornecedores, para as novas dimensões, cada um deu uma resposta diferente sobre as novas quantidades de tinta necessárias.\nEm relação ao previsto para o projeto original, as novas quantidades de tinta necessárias informadas pelos fornecedores foram as seguintes:\n• Fornecedor I: \"O dobro, tanto para as paredes quanto para o piso.\"\n• Fornecedor II: \"O dobro para as paredes e quatro vezes para o piso.\"\n• Fornecedor III: \"Quatro vezes, tanto para as paredes quanto para o piso.\"\n• Fornecedor IV: \"Quatro vezes para as paredes e o dobro para o piso.\"\n• Fornecedor V: \"Oito vezes para as paredes e quatro vezes para o piso.\"\nAnalisando as informações dos fornecedores, o construtor providenciará a quantidade adequada de material. Considere a porta de acesso do contêiner como parte de uma das paredes.\nQual dos fornecedores prestou as informações adequadas, devendo ser o escolhido pelo construtor para a aquisição do material?",
       subItens: []
     },
     options: [
@@ -1767,7 +1767,7 @@ createQuestion({
     university: "enem",
     year: 2021,
     text: {
-      principal: "O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto:\nQuatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe símbolo correspondente ao zero;\n2. Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos valores. Exemplo: IX = 10 − 1 = 9;\n4. Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores. Exemplo: XI = 10 + 1 = 11.\nEm uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em 2050?",
+      principal: "O sistema de numeração romano ainda é utilizado na indicação de capítulos e volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de mesmo nome. São utilizadas sete letras do alfabeto:\nQuatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000).\nTrês secundárias: V (vale 5); L (vale 50) e D (vale 500).\nAs regras para escrever números romanos são:\n1. Não existe símbolo correspondente ao zero;\n2. Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são adicionados. Exemplo: XXX = 30;\n3. Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos valores. Exemplo: IX = 10 − 1 = 9;\n4. Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores. Exemplo: $\\xi$ = 10 + 1 = 11.\nEm uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX.\nQuantos anos de fundação essa cidade comemorará em 2050?",
       subItens: []
     },
     options: [

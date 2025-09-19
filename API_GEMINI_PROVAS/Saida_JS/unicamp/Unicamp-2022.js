@@ -63,7 +63,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "Na ribeira do Eufrates assentado,\nDiscorrendo me achei pela memória\nAquele breve bem, aquela glória,\nQue em ti, doce Sião, tinha passado.\nDa causa de meus males perguntado\nMe foi: Como não cantas a história\nDe teu passado bem e da vitória\nQue sempre de teu mal hás alcançado?\nNão sabes, que a quem canta se lhe esquece\nO mal, inda que grave e rigoroso?\nCanta, pois, e não chores dessa sorte.\nRespondi com suspiros: Quando cresce\nA muita saudade, o piedoso\nRemédio é não cantar senão a morte.\n(Luís de Camões, 20 sonetos. Org. Sheila Hue. Campinas: Editora da Unicamp, 2018, p.113).\nConsiderando as características formais e o núcleo temático, é correto afirmar que o poema retoma o dito popular",
+      principal: "Na ribeira do Eufrates assentado,\nDiscorrendo me achei pela memória\nAquele breve bem, aquela glória,\nQue em ti, doce Sião, tinha passado.\nDa causa de meus males perguntado\nMe foi: Como não cantas a história\nDe teu passado bem e da vitória\nQue sempre de teu mal hás alcançado?\nNão sabes, que a quem canta se lhe esquece\nO mal, inda que grave e rigoroso?\nCanta, pois, e não chores dessa sorte.\nRespondi com suspiros: Quando cresce\nA muita saudade, o piedoso\nRemédio é não cantar $\\sin$ão a morte.\n(Luís de Camões, 20 sonetos. Org. Sheila Hue. Campinas: Editora da Unicamp, 2018, p.113).\nConsiderando as características formais e o núcleo temático, é correto afirmar que o poema retoma o dito popular",
       subItens: []
     },
     options: [
@@ -123,7 +123,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "USE OS TEXTOS I e II PARA RESPONDER ÀS QUESTÕES 7 E 8.\nTexto I\n[Image: A mural with abstract figures and plants, in shades of blue, green, and red. A prominent part shows a large figure with a stylized headdress, holding a staff. Below it, a phrase: \"Repovoamento da memória de uma cidade-floresta\".]\n(Denilson Baniwa, Repovoamento da memória de uma cidade-floresta, 2021, Mural Lambe-lambe, 3,80m x 12m. Disponível em https://www.premiopipa.com/wp-content/uploads/2019/03/23-Denilson-Baniwa.jpeg .Acessado em 05/07/2021.)\nTexto II\nPara que as memórias e tradições permaneçam vivas, o Museu da Pessoa, a Rádio Yandê e Ailton Krenak vão realizar uma formação virtual em memória e mídias para que jovens das comunidades originárias registrem as histórias de vida de seus anciãos e anciãs.\nO ditado \"Cada ancião que morre é uma biblioteca que se queima” é válido para os povos indígenas, portanto nosso lema é \"Cada ancião que se preserva é uma biblioteca que se salva\". Na tradição dos povos indígenas, todo conhecimento de plantas, de cura, de mitos e narrativas é produzido de maneira oral. \"A gente não sabe até quando que vão ter esse conhecimento completo. A gente vai morrendo e vai se apagando tudo. A gente não é igual vocês, que fica tudo guardado em algum lugar (...)\" (Awapataku Waura, ancião e pajé do povo Waura).\n(Adaptado de \"Projeto Vidas Indígenas\", vídeo institucional do Museu da Pessoa, sobre registro de narrativas orais indígenas. Disponível em: https://benfeitoria.com/vidasindigenas. Acessado em 04/04/2021.)\nO mural criado pelo artista Denilson Baniwa (texto I) e o excerto da apresentação do Projeto Vidas Indígenas (texto II) tratam da memória dos povos indígenas. Assinale a alternativa que sintetiza os dois textos.",
+      principal: "USE OS TEXTOS I e II PARA RESPONDER ÀS QUESTÕES 7 E 8.\nTexto I\n[Image: A mural with abstract figures and plants, in shades of blue, green, and red. A prominent part shows a large figure with a stylized headdress, holding a staff. Below it, a phrase: \"Repovoamento da memória de uma cidade-floresta\".]\n(Denilson Baniwa, Repovoamento da memória de uma cidade-floresta, 2021, Mural Lambe-lambe, 3,80m x 12m. Disponível em https://www.premiopipa.$com/wp$-content/uploads/2019/03/23-Denilson-Baniwa.jpeg .Acessado em 05/07/2021.)\nTexto II\nPara que as memórias e tradições permaneçam vivas, o Museu da Pessoa, a Rádio Yandê e Ailton Krenak vão realizar uma formação virtual em memória e mídias para que jovens das comunidades originárias registrem as histórias de vida de seus anciãos e anciãs.\nO ditado \"Cada ancião que morre é uma biblioteca que se queima” é válido para os povos indígenas, portanto nosso lema é \"Cada ancião que se preserva é uma biblioteca que se salva\". Na tradição dos povos indígenas, todo conhecimento de plantas, de cura, de mitos e narrativas é produzido de maneira oral. \"A gente não sabe até quando que vão ter esse conhecimento completo. A gente vai morrendo e vai se apagando tudo. A gente não é igual vocês, que fica tudo guardado em algum lugar (...)\" (Awapataku Waura, ancião e pajé do povo Waura).\n(Adaptado de \"Projeto Vidas Indígenas\", vídeo institucional do Museu da Pessoa, sobre registro de narrativas orais indígenas. Disponível em: https://benfeitoria.$com/vidasindigenas$. Acessado em 04/04/2021.)\nO mural criado pelo artista Denilson Baniwa (texto I) e o excerto da apresentação do Projeto Vidas Indígenas (texto II) tratam da memória dos povos indígenas. Assinale a alternativa que sintetiza os dois textos.",
       subItens: []
     },
     options: [
@@ -223,7 +223,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "O texto a seguir faz parte de um glossário publicado nas redes sociais do Alto-comissariado das Nações Unidas para os Refugiados (ACNUR).\nRefugiado\nPessoas refugiadas são aquelas que estão fora de seu país de origem por medo de perseguição relacionada a questões de raça, religião, nacionalidade, opinião política ou pertencimento a determinado grupo social, como também à grave violação de direitos humanos e violência generalizada (conceito este aplicado pela Declaração de Cartagena de 1984).\nMigrante\nRefere-se à pessoa que se desloca dentro de seu próprio país, mas também pode ser usada para falar dos deslocamentos internacionais, sobre quem busca melhores condições de vida, motivada por fatores econômicos ou educacionais, podendo retornar com segurança ao seu país de origem, caso assim desejem.\n[Image: UNHCR ACNUR logo]\n(Fonte: Perfil de Instagram do ACNUR Brasil: Disponível em: https://www.instagram.com/acnurbrasil. Acessado em 26/06/2021.)\nSobre os verbetes do glossário do ACNUR, é correto dizer que",
+      principal: "O texto a seguir faz parte de um glossário publicado nas redes sociais do Alto-comissariado das Nações Unidas para os Refugiados (ACNUR).\nRefugiado\nPessoas refugiadas são aquelas que estão fora de seu país de origem por medo de perseguição relacionada a questões de raça, religião, nacionalidade, opinião política ou pertencimento a determinado grupo social, como também à grave violação de direitos humanos e violência generalizada (conceito este aplicado pela Declaração de Cartagena de 1984).\nMigrante\nRefere-se à pessoa que se desloca dentro de seu próprio país, mas também pode ser usada para falar dos deslocamentos internacionais, sobre quem busca melhores condições de vida, motivada por fatores econômicos ou educacionais, podendo retornar com segurança ao seu país de origem, caso assim desejem.\n[Image: UNHCR ACNUR logo]\n(Fonte: Perfil de Instagram do ACNUR Brasil: Disponível em: https://www.instagram.$com/acnurbrasil$. Acessado em 26/06/2021.)\nSobre os verbetes do glossário do ACNUR, é correto dizer que",
       subItens: []
     },
     options: [
@@ -243,7 +243,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "Certo país adquiriu 5.000.000 de doses das vacinas Alfa, Beta e Gama, pagando um preço de $40.000.000,00 pelo total. Cada dose das vacinas Alfa, Beta e Gama custou $5,00, $10,00 e $20,00, respectivamente. Sabendo que o número de doses adquiridas da vacina Beta é o triplo do número de doses adquiridas da vacina Gama, o número de doses adquiridas da vacina Alfa foi de:",
+      principal: "Certo país adquiriu 5.000.000 de doses das vacinas Alfa, $\\beta$ e Gama, pagando um preço de $40.000.000,00 pelo total. Cada dose das vacinas Alfa, $\\beta$ e Gama custou $5,00, $10,00 e $20,00, respectivamente. Sabendo que o número de doses adquiridas da vacina $\\beta$ é o triplo do número de doses adquiridas da vacina Gama, o número de doses adquiridas da vacina Alfa foi de:",
       subItens: []
     },
     options: [
@@ -263,7 +263,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "Certo modelo de carro é vendido em duas versões: uma a gasolina e outra híbrida. Essa última versão conta com um motor elétrico para funcionar em baixas velocidades, reduzindo, assim, o consumo de combustível e também os índices de poluição.\nA versão a gasolina custa R$ 150.000,00 e a versão híbrida custa R$ 180.000,00. A tabela a seguir indica o consumo de combustível de cada uma das versões:\n[Table: Consumo de combustível das versões de carro. Headers: Uso na cidade, Uso na estrada. Rows: Versão a gasolina (12 km/l cidade, 14 km/l estrada), Versão híbrida (18 km/l cidade, 16 km/l estrada).]\nNote que a versão híbrida é mais econômica, porém custa mais caro.\nUm motorista faz diariamente um percurso de 36 km na cidade e de 56 km na estrada. Considerando que cada litro de gasolina custa R$ 5,00 e que, ao longo do tempo, esse preço será constante e o percurso não se alterará, quantos anos de uso serão necessários para que a economia no abastecimento compense o preço mais alto pago inicialmente pelo carro híbrido?",
+      principal: "Certo modelo de carro é vendido em duas versões: uma a gasolina e outra híbrida. Essa última versão conta com um motor elétrico para funcionar em baixas velocidades, reduzindo, assim, o consumo de combustível e também os índices de poluição.\nA versão a gasolina custa R$ 150.000,00 e a versão híbrida custa R$ 180.000,00. A tabela a seguir indica o consumo de combustível de cada uma das versões:\n[Table: Consumo de combustível das versões de carro. Headers: Uso na cidade, Uso na estrada. Rows: Versão a gasolina (12 $km/l$ cidade, 14 $km/l$ estrada), Versão híbrida (18 $km/l$ cidade, 16 $km/l$ estrada).]\nNote que a versão híbrida é mais econômica, porém custa mais caro.\nUm motorista faz diariamente um percurso de 36 km na cidade e de 56 km na estrada. Considerando que cada litro de gasolina custa R$ 5,00 e que, ao longo do tempo, esse preço será constante e o percurso não se alterará, quantos anos de uso serão necessários para que a economia no abastecimento compense o preço mais alto pago inicialmente pelo carro híbrido?",
       subItens: []
     },
     options: [
@@ -303,14 +303,14 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "Dados os números reais positivos a1, a2, ..., an, a média geométrica M destes termos é calculada por:\nM = √(a1 * ... * an).\nA média geométrica de 1, 10, 100, ..., 10^22 é:",
+      principal: "Dados os números reais positivos a1, a2, ..., an, a média geométrica M destes termos é calculada por:\nM = √(a1 * ... * an).\nA média geométrica de 1, 10, 100, ..., $10^22$ é:",
       subItens: []
     },
     options: [
-      "10^11.",
-      "10^12.",
-      "10^13.",
-      "10^14."
+      "$10^11$.",
+      "$10^12$.",
+      "$10^13$.",
+      "$10^14$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -407,10 +407,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "16/27.",
-      "17/27.",
-      "18/27.",
-      "19/27."
+      "$16/27$.",
+      "$17/27$.",
+      "$18/27$.",
+      "$19/27$."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -427,10 +427,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2/3.",
-      "3/4.",
-      "4/3.",
-      "3/2."
+      "$2/3$.",
+      "$3/4$.",
+      "$4/3$.",
+      "$3/2$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -463,7 +463,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "No dia 23 de março de 2021, um navio encalhou no canal de Suez, no Egito. A embarcação tinha 400 metros de comprimento e 60 metros de largura. No ponto onde aconteceu o acidente, o canal de Suez não tem mais do que 200 metros de largura. Abaixo apresentamos uma foto de satélite e uma figura representando a situação. O ângulo α indicado na figura abaixo mede 67,5°.\n[Image: Satellite photo of a ship stuck in the Suez Canal.]\n[Image: Diagram of the Suez Canal with a ship, showing dimensions: 400m (ship length), 30m, 30m, angle α, and unknown length L.]\nA largura do canal, medida em metros e indicada por L na figura anterior, é:\nDados:\n• cos(2θ) = 2 cos²(θ) − 1\n• sen(2θ) = 2sen(θ) cos(θ).",
+      principal: "No dia 23 de março de 2021, um navio encalhou no canal de Suez, no Egito. A embarcação tinha 400 metros de comprimento e 60 metros de largura. No ponto onde aconteceu o acidente, o canal de Suez não tem mais do que 200 metros de largura. Abaixo apresentamos uma foto de satélite e uma figura representando a situação. O ângulo α indicado na figura abaixo mede 67,5°.\n[Image: Satellite photo of a ship stuck in the Suez Canal.]\n[Image: Diagram of the Suez Canal with a ship, showing dimensions: 400m (ship length), 30m, 30m, angle α, and unknown length L.]\nA largura do canal, medida em metros e indicada por L na figura anterior, é:\nDados:\n• $\\cos$(2θ) = 2 $\\cos$²(θ) − 1\n• $\\sin$(2θ) = 2sen(θ) $\\cos$(θ).",
       subItens: []
     },
     options: [
@@ -483,7 +483,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "A palavra \"cringe” viralizou nas redes sociais no Brasil em 2021. Observe sua definição, em português, apontada pelo \"Dicionário Informal\" on-line:\nVergonha alheia;\nExemplo de uso da palavra cringe:\nA cena que presenciamos ontem foi muito cringe.\nÉ cada situação cringe que presenciamos.\nNão consigo nem ver, de tão cringe.\nVeja, agora, a definição da mesma palavra pelo \"Cambridge Dictionary\", também em versão on-line:\nto suddenly move away from someone or something because you are frightened\nto feel very embarrassed:\n• I cringed at the sight of my dad dancing.\n(Disponível em: https://www.dicionarioinformal.com.br/diferenca-entre/cringe/inglês/; https://dictionary.cambridge.org/us/dictionary/english/cringe. Acessado em 05/07/2021.)\nCom base nessas duas definições, pode-se dizer que, em português, a palavra “cringe\" ",
+      principal: "A palavra \"cringe” viralizou nas redes sociais no Brasil em 2021. Observe sua definição, em português, apontada pelo \"Dicionário Informal\" on-line:\nVergonha alheia;\nExemplo de uso da palavra cringe:\nA cena que presenciamos ontem foi muito cringe.\nÉ cada situação cringe que presenciamos.\nNão consigo nem ver, de tão cringe.\nVeja, agora, a definição da mesma palavra pelo \"Cambridge Dictionary\", também em versão on-line:\nto suddenly move away from someone or something because you are frightened\nto feel very embarrassed:\n• I cringed at the sight of my dad dancing.\n(Disponível em: https://www.dicionarioinformal.com.$br/diferenca$-entre/cringe/inglês/; https://dictionary.cambridge.org/us/dictionary/english/cringe. Acessado em 05/07/2021.)\nCom base nessas duas definições, pode-se dizer que, em português, a palavra “cringe\" ",
       subItens: []
     },
     options: [
@@ -503,7 +503,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "Em artigo publicado em 14 de junho de 2020, o jornal The Straits Times, de Singapura, apresentou os resultados de uma pesquisa sobre a percepção dos respondentes a respeito das profissões mais essenciais durante a pandemia. A imagem a seguir revela algumas estatísticas obtidas com base nessas respostas.\n[Image: Bar chart showing 'Top 5 essential jobs' (Doctor/Nurse 86%, Cleaner 78%, Telemarketer 69%) and 'Top 5 non-essential jobs' (Artist 71%). Note: The image shows 'Artist 71%' as non-essential and 'Telemarketer 69%' as essential, which is a bit confusing based on typical classifications, but the prompt says 'Top 5 essential jobs' and 'Top 5 non-essential jobs'. For Telemarketer, it should be 69% for non-essential based on how it's placed. However, the exact percentage for Telemarketer on the image is next to 69% on the right column (non-essential), and 86% for Doctor/Nurse on the left column (essential), Cleaner 78% also essential.]\nEm um post em sua rede social, o comediante Rishi Budhrani comentou esses resultados:\n[Image: Social media post by rishibudhrani, with a profile picture of a man. The text reads: \"There are MANY talking points in this survey compilation; but let's just address ONE! If, assuming this survey is done with a truly \"representative sample across gender and income groups in SG\", and 70% of the nationally representative respondents feel that the No. 1 non-essential job is that of an artist, then I would challenge the nation to do the following; 1. Delete Netflix 2. Cancel Spotify 3. Sell all your TV's 4. Stop showing your kids the ipad to occupy them 5. Stop listening to music during your workouts/break times 6. Stop watching any movies/music videos on YouTube\".]\n(Disponível em https://creativefolk.co.uk/artists-topping-poll-as-non-essential-sparks-outrage/. Acessado em 09/06/2021.)\nPode-se dizer que Budhrani",
+      principal: "Em artigo publicado em 14 de junho de 2020, o jornal The Straits Times, de Singapura, apresentou os resultados de uma pesquisa sobre a percepção dos respondentes a respeito das profissões mais essenciais durante a pandemia. A imagem a seguir revela algumas estatísticas obtidas com base nessas respostas.\n[Image: Bar chart showing 'Top 5 essential jobs' ($Doctor/Nurse$ 86%, Cleaner 78%, Telemarketer 69%) and 'Top 5 non-essential jobs' (Artist 71%). Note: The image shows 'Artist 71%' as non-essential and 'Telemarketer 69%' as essential, which is a bit confusing based on typical classifications, but the prompt says 'Top 5 essential jobs' and 'Top 5 non-essential jobs'. For Telemarketer, it should be 69% for non-essential based on how it's placed. However, the exact percentage for Telemarketer on the image is next to 69% on the right column (non-essential), and 86% for $Doctor/Nurse$ on the left column (essential), Cleaner 78% also essential.]\nEm um post em sua rede social, o comediante Rishi Budhrani comentou esses resultados:\n[Image: Social media post by rishibudhrani, with a profile picture of a man. The text reads: \"There are MANY talking points in this survey compilation; but let's just address ONE! If, assuming this survey is done with a truly \"representative sample across gender and income groups in SG\", and 70% of the nationally representative respondents feel that the No. 1 non-essential job is that of an artist, then I would challenge the nation to do the following; 1. Delete Netflix 2. Cancel Spotify 3. Sell all your TV's 4. Stop showing your kids the ipad to occupy them 5. Stop listening to music during your $workouts/break$ times 6. Stop watching any $movies/music$ videos on YouTube\".]\n(Disponível em https://creativefolk.co.$uk/artists$-topping-poll-as-non-essential-sparks-outrage/. Acessado em 09/06/2021.)\nPode-se dizer que Budhrani",
       subItens: []
     },
     options: [
@@ -683,7 +683,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "Usando um modelo típico da termodinâmica, os autores de um trabalho científico fazem previsões sobre a exposição de pessoas a vapores de substâncias adsorvidas em material sólido particulado (MP) ou a vapores de MP semivolátil. O estudo se refere a exposições aos vapores (gases) no interior climatizado (20-25°C) de residências e escritórios em países industrializados, já que essas pessoas passam 90% de seu tempo nesses ambientes. O estudo considerou também as condições climáticas do ambiente interno e externo. Levando-se em conta as informações dadas, pode-se concluir que os lados A e B da figura a seguir, correspondem, respectivamente, a\n[Image: Diagram showing two boxes, A and B. From A, 'GASES' flows out. From B, 'GASES' flows out. Inside A and B, 'PARTÍCULAS' are shown with arrows pointing to them and away, indicating adsorption/desorption. Below the two boxes, it says 'AMBIENTE CLIMATIZADO'.]\n",
+      principal: "Usando um modelo típico da termodinâmica, os autores de um trabalho científico fazem previsões sobre a exposição de pessoas a vapores de substâncias adsorvidas em material sólido particulado (MP) ou a vapores de MP semivolátil. O estudo se refere a exposições aos vapores (gases) no interior climatizado (20-25°C) de residências e escritórios em países industrializados, já que essas pessoas passam 90% de seu tempo nesses ambientes. O estudo considerou também as condições climáticas do ambiente interno e externo. Levando-se em conta as informações dadas, pode-se concluir que os lados A e B da figura a seguir, correspondem, respectivamente, a\n[Image: Diagram showing two boxes, A and B. From A, 'GASES' flows out. From B, 'GASES' flows out. Inside A and B, 'PARTÍCULAS' are shown with arrows pointing to them and away, indicating $adsorption/desorption$. Below the two boxes, it says 'AMBIENTE CLIMATIZADO'.]\n",
       subItens: []
     },
     options: [
@@ -703,7 +703,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "USE O TEXTO A SEGUIR PARA RESPONDER ÀS QUESTÕES 36 E 37.\nResíduos de papel contribuem para que o clima mude mais do que a maioria das pessoas pensam. A Blue Planet Ink anunciou que sua tinta de impressora autoapagável Paper Saver® agora está disponível em cartuchos remanufaturados para uso em impressoras de uma determinada marca. A tinta autoapagável (economizadora de papel) é uma tinta roxa de base aquosa, que pode ser impressa em papel sulfite normal. Um cartucho rende a impressão de até 4000 folhas. Com a exposição ao ar, ao absorver dióxido de carbono e vapor de água, o componente ativo (corante) da tinta perde sua cor, a impressão torna-se não visível e o papel fica branco, tornando possível sua reutilização.\nSabe-se que o componente ativo da tinta Paper Saver® é o indicador o-cresolftaleína. As formas estruturais A e B, a seguir, representam o componente ativo quando se mostra incolor e quando se mostra roxo, não necessariamente nessa sequência.\n[Image: Chemical structure A, a molecule with two phenolic groups and a central carbon atom with two benzene rings connected to a lactone ring, and methyl groups. It is the colorless form of o-cresolphthalein.]\n[Image: Chemical structure B, a molecule that is the quinoid form of o-cresolphthalein, with a deprotonated phenolic group and an extended conjugated system, which is the colored (purple/red) form.]\nDessa forma, pode-se afirmar que na mudança da cor roxa para incolor ocorreu um",
+      principal: "USE O TEXTO A SEGUIR PARA RESPONDER ÀS QUESTÕES 36 E 37.\nResíduos de papel contribuem para que o clima mude mais do que a maioria das pessoas pensam. A Blue Planet Ink anunciou que sua tinta de impressora autoapagável Paper Saver® agora está disponível em cartuchos remanufaturados para uso em impressoras de uma determinada marca. A tinta autoapagável (economizadora de papel) é uma tinta roxa de base aquosa, que pode ser impressa em papel sulfite normal. Um cartucho rende a impressão de até 4000 folhas. Com a exposição ao ar, ao absorver dióxido de carbono e vapor de água, o componente ativo (corante) da tinta perde sua cor, a impressão torna-se não visível e o papel fica branco, tornando possível sua reutilização.\nSabe-se que o componente ativo da tinta Paper Saver® é o indicador o-cresolftaleína. As formas estruturais A e B, a seguir, representam o componente ativo quando se mostra incolor e quando se mostra roxo, não necessariamente nessa sequência.\n[Image: Chemical structure A, a molecule with two phenolic groups and a central carbon atom with two benzene rings connected to a lactone ring, and methyl groups. It is the colorless form of o-cresolphthalein.]\n[Image: Chemical structure B, a molecule that is the quinoid form of o-cresolphthalein, with a deprotonated phenolic group and an extended conjugated system, which is the colored ($purple/red$) form.]\nDessa forma, pode-se afirmar que na mudança da cor roxa para incolor ocorreu um",
       subItens: []
     },
     options: [
@@ -743,7 +743,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "O crescente interesse em combustíveis renováveis, derivados tanto da cana de açúcar quanto da cana de energia, tem impulsionado estudos no sentido de permitir o maior aproveitamento desses dois tipos de cana na produção de bioetanol de primeira e segunda geração, sendo este último um biocombustível produzido a partir de fibras presentes na cana. Em um simpósio brasileiro sobre bioetanol e biorrefino, realizado em 2017, foram apresentados dados relativos à produção de bioetanol a partir de cana de açúcar e cana de energia. Um pequeno extrato desses dados encontra-se na tabela a seguir.\n[Table: Characterística, Cana de açúcar, Cana de energia. Rows: Teor de fibra (%) (14, 25), Massa de fibra (t/ha) (11, 45), Teor de açúcar (%) (14, 8), Massa de açúcar (t/ha) (11, 14).]\nComparando-se os dados, pode-se concluir que a vantagem da cana de energia em relação à cana de açúcar reside em uma maior produção de bioetanol de",
+      principal: "O crescente interesse em combustíveis renováveis, derivados tanto da cana de açúcar quanto da cana de energia, tem impulsionado estudos no sentido de permitir o maior aproveitamento desses dois tipos de cana na produção de bioetanol de primeira e segunda geração, sendo este último um biocombustível produzido a partir de fibras presentes na cana. Em um simpósio brasileiro sobre bioetanol e biorrefino, realizado em 2017, foram apresentados dados relativos à produção de bioetanol a partir de cana de açúcar e cana de energia. Um pequeno extrato desses dados encontra-se na tabela a seguir.\n[Table: Characterística, Cana de açúcar, Cana de energia. Rows: Teor de fibra (%) (14, 25), Massa de fibra ($t/ha$) (11, 45), Teor de açúcar (%) (14, 8), Massa de açúcar ($t/ha$) (11, 14).]\nComparando-se os dados, pode-se concluir que a vantagem da cana de energia em relação à cana de açúcar reside em uma maior produção de bioetanol de",
       subItens: []
     },
     options: [
@@ -763,7 +763,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "Os benefícios da reciclagem são consideráveis e se situam para além de uma sensação de realização pessoal, advinda de uma responsável deposição de embalagens e demais produtos plásticos separados do restante do lixo. A figura a seguir registra o consumo e o destino de materiais plásticos nos Estados Unidos da América, o que não é muito diferente de outros locais ao redor do mundo.\n[Graph: Line chart titled 'BRASIL - Evolução da participação relativa das exportações por fator agregado (2005-2015)'. X-axis: Ano (1960-2020). Y-axis: Quantidade (10^6 t). Three lines representing Aterro Sanitário (landfill), Combustão para gerar energia (combustion for energy), Reciclado (recycled). All show increasing trends over time, but their relative proportions change. The 'Reciclado' line shows the smallest quantity, while 'Aterro Sanitário' and 'Combustão para gerar energia' are much higher.]\nDe acordo com essa figura, o consumo de plásticos vem aumentando,",
+      principal: "Os benefícios da reciclagem são consideráveis e se situam para além de uma sensação de realização pessoal, advinda de uma responsável deposição de embalagens e demais produtos plásticos separados do restante do lixo. A figura a seguir registra o consumo e o destino de materiais plásticos nos Estados Unidos da América, o que não é muito diferente de outros locais ao redor do mundo.\n[Graph: Line chart titled 'BRASIL - Evolução da participação relativa das exportações por fator agregado (2005-2015)'. X-axis: Ano (1960-2020). Y-axis: Quantidade ($10^6$ t). Three lines representing Aterro Sanitário (landfill), Combustão para gerar energia (combustion for energy), Reciclado (recycled). All show increasing trends over time, but their relative proportions change. The 'Reciclado' line shows the smallest quantity, while 'Aterro Sanitário' and 'Combustão para gerar energia' are much higher.]\nDe acordo com essa figura, o consumo de plásticos vem aumentando,",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "Na economia do Chile, entre outros aspectos, destacam-se as indústrias vitivinícola, agrícola, pesqueira e mineira. Houve um ciclo muito forte de exportação de matérias-primas que produziu um grande crescimento econômico, no chamado \"milagre chileno\", a partir dos anos 1980. Segundo o Banco Mundial, o paradoxo foi o aumento brutal da desigualdade. As consequências surgiram em 2019, com protestos sociais que culminaram com uma Assembleia Constituinte para rever a Constituição vigente, ainda um resquício do período da ditadura.\n(Adaptado de https://brasil.elpais.com/internacional/2021-07-04/chile-inicia-um-novo-ciclo-e-comeca-a-redigir-a-constituicao-que-substituira-a-de-pinochet.html. Acessado em 03/07/2021.)\nSobre a formação socioespacial chilena, é correto afirmar que",
+      principal: "Na economia do Chile, entre outros aspectos, destacam-se as indústrias vitivinícola, agrícola, pesqueira e mineira. Houve um ciclo muito forte de exportação de matérias-primas que produziu um grande crescimento econômico, no chamado \"milagre chileno\", a partir dos anos 1980. Segundo o Banco Mundial, o paradoxo foi o aumento brutal da desigualdade. As consequências surgiram em 2019, com protestos sociais que culminaram com uma Assembleia Constituinte para rever a Constituição vigente, ainda um resquício do período da ditadura.\n(Adaptado de https://brasil.elpais.com/internacional/2021-07-$04/chile$-inicia-um-novo-ciclo-e-comeca-a-redigir-a-constituicao-que-substituira-a-de-pinochet.html. Acessado em 03/07/2021.)\nSobre a formação socioespacial chilena, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -883,7 +883,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "O mapa a seguir apresenta países com mais de 5 milhões de habitantes vivendo em favelas (ou outras formas de habitação precária).\nPOPULAÇÃO URBANA VIVENDO\nEM HABITAÇÕES PRECÁRIAS E FAVELAS\n[Image: World map showing countries colored according to 'Quantidade (em milhões)' of urban population living in precarious housing/favelas (inferior a 5, 5 a 10, 10.01 a 50, 50.01 a 191, superior a 191, ausência de dados) and 'Participação (em %)' (5.4 a 24%, 24.01 a 42%, 42.01 a 61%, 61.01 a 96%, ausência de dados). Darker shades usually represent higher quantities/percentages. Africa and parts of Asia and Latin America show high percentages.]\n(Adaptado de: https://espace-mondial-atlas.sciencespo.fr. Acessado em 02/07/2021.)\nCom base nas informações do mapa e em seu conhecimento sobre a população urbana que vive em habitações precárias e favelas, assinale a alternativa correta.",
+      principal: "O mapa a seguir apresenta países com mais de 5 milhões de habitantes vivendo em favelas (ou outras formas de habitação precária).\nPOPULAÇÃO URBANA VIVENDO\nEM HABITAÇÕES PRECÁRIAS E FAVELAS\n[Image: World map showing countries colored according to 'Quantidade (em milhões)' of urban population living in precarious $housing/favelas$ (inferior a 5, 5 a 10, 10.01 a 50, 50.01 a 191, superior a 191, ausência de dados) and 'Participação (em %)' (5.4 a 24%, 24.01 a 42%, 42.01 a 61%, 61.01 a 96%, ausência de dados). Darker shades usually represent higher $quantities/percentages$. Africa and parts of Asia and Latin America show high percentages.]\n(Adaptado de: https://espace-mondial-atlas.sciencespo.fr. Acessado em 02/07/2021.)\nCom base nas informações do mapa e em seu conhecimento sobre a população urbana que vive em habitações precárias e favelas, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1123,7 +1123,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "USE O TEXTO A SEGUIR PARA RESPONDER ÀS QUESTÕES 57 E 58.\nEm 2018, a NASA lançou a sonda Solar Parker com o objetivo de estudar o Sol. Para isso, ao longo de suas órbitas, a sonda se aproximará gradativamente da estrela, coletando dados a cada passagem. Em abril de 2021, a Solar Parker fez sua oitava aproximação, atingindo dois novos recordes de artefatos realizados pelo homem: maior velocidade e máxima aproximação do Sol.\nUma sonda viaja a uma velocidade de módulo constante igual a v = 5×10⁵ km/h (aproximadamente a velocidade atingida pela sonda em abril de 2021), tangenciando a superfície da Terra ao longo da Linha do Equador. Em uma hora, aproximadamente quantas voltas a sonda dá em torno da Terra?\nDado: Raio da Terra Rₜₑₑₑₑ = 6,0 × 10³ km.",
+      principal: "USE O TEXTO A SEGUIR PARA RESPONDER ÀS QUESTÕES 57 E 58.\nEm 2018, a NASA lançou a sonda Solar Parker com o objetivo de estudar o Sol. Para isso, ao longo de suas órbitas, a sonda se aproximará gradativamente da estrela, coletando dados a cada passagem. Em abril de 2021, a Solar Parker fez sua oitava aproximação, atingindo dois novos recordes de artefatos realizados pelo homem: maior velocidade e máxima aproximação do Sol.\nUma sonda viaja a uma velocidade de módulo constante igual a v = 5×10⁵ $km/h$ (aproximadamente a velocidade atingida pela sonda em abril de 2021), tangenciando a superfície da Terra ao longo da Linha do Equador. Em uma hora, aproximadamente quantas voltas a sonda dá em torno da Terra?\nDado: Raio da Terra Rₜₑₑₑₑ = 6,0 × 10³ km.",
       subItens: []
     },
     options: [
@@ -1143,14 +1143,14 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "A força gravitacional exercida pelo Sol sobre a sonda Solar Parker tem módulo dado por Fₛₒₗ = GMm/r², sendo G = 6,7 × 10⁻¹¹ N.m²/kg² a constante gravitacional universal, M = 2,0×10³⁰ kg a massa do Sol, m a massa da sonda, e r a distância entre a sonda e o centro do Sol. Sendo r = 1,0×10⁷ km (aproximadamente a distância atingida pela sonda em abril de 2021), qual é o módulo da aceleração gravitacional do Sol na referida posição?",
+      principal: "A força gravitacional exercida pelo Sol sobre a sonda Solar Parker tem módulo dado por Fₛₒₗ = $GMm/r$², sendo G = 6,7 × 10⁻¹¹ N.m²/kg² a constante gravitacional universal, M = 2,0×10³⁰ kg a massa do Sol, m a massa da sonda, e r a distância entre a sonda e o centro do Sol. Sendo r = 1,0×10⁷ km (aproximadamente a distância atingida pela sonda em abril de 2021), qual é o módulo da aceleração gravitacional do Sol na referida posição?",
       subItens: []
     },
     options: [
-      "6,7×10⁻²⁷ m/s².",
-      "1,34 m/s².",
-      "9,8 m/s².",
-      "2,0×10¹⁰ m/s²."
+      "6,7×10⁻²⁷ $m/s$².",
+      "1,34 $m/s$².",
+      "9,8 $m/s$².",
+      "2,0×10¹⁰ $m/s$²."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1163,7 +1163,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "USE O TEXTO A SEGUIR PARA RESPONDER ÀS QUESTÕES 59 E 60.\nEm abril de 2021 faleceu o astronauta norte-americano Michael Collins, integrante da missão Apolo 11, que levou o primeiro homem à Lua. Enquanto os dois outros astronautas da missão, Neil Armstrong e Buzz Aldrin, desceram até a superfície lunar, Collins permaneceu em órbita lunar pilotando o Módulo de Comando Columbia.\nA órbita do Columbia era aproximadamente circular, e o módulo da aceleração gravitacional na órbita era gorbit = 1,4 m/s². A força resultante centrípeta é desempenhada pela força gravitacional exercida pela Lua, ou seja, Fₒₚ = mᴴᵒᴯᵒᵟᵟᵞᵃ gorbit. Sendo o módulo da velocidade do Columbia v = 1600m/s, qual foi aproximadamente o período T da órbita?",
+      principal: "USE O TEXTO A SEGUIR PARA RESPONDER ÀS QUESTÕES 59 E 60.\nEm abril de 2021 faleceu o astronauta norte-americano Michael Collins, integrante da missão Apolo 11, que levou o primeiro homem à Lua. Enquanto os dois outros astronautas da missão, Neil Armstrong e Buzz Aldrin, desceram até a superfície lunar, Collins permaneceu em órbita lunar pilotando o Módulo de Comando Columbia.\nA órbita do Columbia era aproximadamente circular, e o módulo da aceleração gravitacional na órbita era gorbit = 1,4 $m/s$². A força resultante centrípeta é desempenhada pela força gravitacional exercida pela Lua, ou seja, Fₒₚ = mᴴᵒᴯᵒᵟᵟᵞᵃ gorbit. Sendo o módulo da velocidade do Columbia v = $1600m/s$, qual foi aproximadamente o período T da órbita?",
       subItens: []
     },
     options: [
@@ -1183,7 +1183,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "A viagem desde o Columbia até a superfície da Lua foi realizada no Módulo Lunar Eagle, formado por dois estágios: um usado na descida e outro, na subida. A massa seca do estágio de subida, ou seja, sem contar a massa do combustível (quase totalmente consumido na viagem de volta), era m = 2500 kg. Considere que o módulo da aceleração gravitacional seja aproximadamente constante e dado por g = gorbit = 1,4 m/s² desde a superfície lunar até a órbita do Columbia, que se situava a uma altitude h = 110 km. Qual é a variação da energia potencial gravitacional do estágio de subida (massa seca que reencontra o Columbia) na viagem de volta?",
+      principal: "A viagem desde o Columbia até a superfície da Lua foi realizada no Módulo Lunar Eagle, formado por dois estágios: um usado na descida e outro, na subida. A massa seca do estágio de subida, ou seja, sem contar a massa do combustível (quase totalmente consumido na viagem de volta), era m = 2500 kg. Considere que o módulo da aceleração gravitacional seja aproximadamente constante e dado por g = gorbit = 1,4 $m/s$² desde a superfície lunar até a órbita do Columbia, que se situava a uma altitude h = 110 km. Qual é a variação da energia potencial gravitacional do estágio de subida (massa seca que reencontra o Columbia) na viagem de volta?",
       subItens: []
     },
     options: [
@@ -1243,7 +1243,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "As máscaras de proteção N95 e PFF2 se tornaram ferramentas importantes no combate à disseminação do novo coronavírus durante a pandemia da Covid-19. Essas máscaras possuem fibras compostas de um material com campo elétrico permanente e são capazes de realizar uma filtragem eletrostática das partículas ou gotículas dispersas no ar. Considere um campo elétrico uniforme de módulo E₀ = 4,0×10⁻² V/m em uma região do espaço. A diferença de potencial elétrico entre duas linhas tracejadas paralelas entre si e perpendiculares à direção desse campo elétrico, separadas por uma distância d, conforme mostra a figura a seguir, é igual a\n[Image: Diagram showing two parallel dashed lines, separated by a distance d = 5.0 × 10⁻⁶ m. An electric field E₀ points from the left line to the right line, perpendicular to the lines.]",
+      principal: "As máscaras de proteção N95 e PFF2 se tornaram ferramentas importantes no combate à disseminação do novo coronavírus durante a pandemia da Covid-19. Essas máscaras possuem fibras compostas de um material com campo elétrico permanente e são capazes de realizar uma filtragem eletrostática das partículas ou gotículas dispersas no ar. Considere um campo elétrico uniforme de módulo E₀ = 4,0×10⁻² $V/m$ em uma região do espaço. A diferença de potencial elétrico entre duas linhas tracejadas paralelas entre si e perpendiculares à direção desse campo elétrico, separadas por uma distância d, conforme mostra a figura a seguir, é igual a\n[Image: Diagram showing two parallel dashed lines, separated by a distance d = 5.0 × 10⁻⁶ m. An electric field E₀ points from the left line to the right line, perpendicular to the lines.]",
       subItens: []
     },
     options: [
@@ -1363,7 +1363,7 @@ createQuestion({
     university: "unicamp",
     year: 2022,
     text: {
-      principal: "Teorias sobre como o novo coronavírus (SARS-CoV-2) que passou a infectar os humanos surgiram em 2019. Foi aventada a possibilidade de transmissão zoonótica. Um estudo filogenético, com mais de 2 mil genomas únicos de coronavírus, apresentou a provável descendência de alguns coronavírus e alertou sobre a importância de investigar OS vírus, como estratégia global de monitoramento de endemias, e não apenas em situações de emergência sanitária.\n(Adaptado de Denis Jacob Machado e outros. Cladistics, Londres, v. 37, out. 2021, p. 461-488.)\nO cladograma a seguir apresenta as relações filogenéticas entre os diversos vírus do gênero Betacoronavirus (Beta-CoV), incluindo seus respectivos hospedeiros.\n[Image: Cladogram titled 'Betacoronavirus'. Branches show relationships between different betacoronaviruses (HCOV-HKU1, HCOV-OC43, HCOV-4408, SARS-CoV-2, SARS-CoV, MERS-CoV) and their host animals, which include Artiodáctilos, Lebres e coelhos, Carnívoros, Morcegos, Musaranhos e ouriços, Roedores, Pangolins, Humanos, Primatas.]\n(Adaptado de https://www1.folha.uol.com.br/ciencia/2021/05/maior-estudo-evolutivo-de-coronavirus [...]. Acessado em 15/06/2021.)\nA partir do cladograma, é correto afirmar que os betacoronavírus de",
+      principal: "Teorias sobre como o novo coronavírus (SARS-CoV-2) que passou a infectar os humanos surgiram em 2019. Foi aventada a possibilidade de transmissão zoonótica. Um estudo filogenético, com mais de 2 mil genomas únicos de coronavírus, apresentou a provável descendência de alguns coronavírus e alertou sobre a importância de investigar OS vírus, como estratégia global de monitoramento de endemias, e não apenas em situações de emergência sanitária.\n(Adaptado de Denis Jacob Machado e outros. Cladistics, Londres, v. 37, out. 2021, p. 461-488.)\nO cladograma a seguir apresenta as relações filogenéticas entre os diversos vírus do gênero Betacoronavirus ($\\beta$-CoV), incluindo seus respectivos hospedeiros.\n[Image: Cladogram titled 'Betacoronavirus'. Branches show relationships between different betacoronaviruses (HCOV-HKU1, HCOV-OC43, HCOV-4408, SARS-CoV-2, SARS-CoV, MERS-CoV) and their host animals, which include Artiodáctilos, Lebres e coelhos, Carnívoros, Morcegos, Musaranhos e ouriços, Roedores, Pangolins, Humanos, Primatas.]\n(Adaptado de https://www1.folha.uol.com.br/ciencia/2021/05/maior-estudo-evolutivo-de-coronavirus [...]. Acessado em 15/06/2021.)\nA partir do cladograma, é correto afirmar que os betacoronavírus de",
       subItens: []
     },
     options: [

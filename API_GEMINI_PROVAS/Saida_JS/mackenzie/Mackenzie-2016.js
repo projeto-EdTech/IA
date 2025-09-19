@@ -175,11 +175,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "revela um amor platonizante e transcendente, adotando um tom herdado da\npoesia palaciana, como em “E vivemos partindo, ela de mim/E eu dela\".\n(versos 09 e 10)",
+      "revela um amor platonizante e transcendente, adotando um tom herdado da\npoesia palaciana, como em “E vivemos partindo, ela de $mim/E$ eu dela\".\n(versos 09 e 10)",
       "conjuga a linguagem coloquial, alegórica e declamatória ao estilo livre e\ncaudaloso da poética de Vinícius de Moraes.",
       "segue o molde da estética camoniana, valorizando a sonoridade e explorando\nas rimas em detrimento da temática central, como em “Distante o meu amor,\nse me afigura” (verso 01)",
       "apresenta um amor cotidiano, realista, sujeito às mudanças que são impostas\npelo tempo.",
-      "canta o amor em seu desespero e paixão, como em “Mas tranquila ela sabe,\ne eu sei tranquilo/Que se um fica o outro parte a redimi-lo.”(versos 13 e 14)"
+      "canta o amor em seu desespero e paixão, como em “Mas tranquila ela sabe,\ne eu sei $tranquilo/Que$ se um fica o outro parte a redimi-lo.”(versos 13 e 14)"
     ],
     correctAnswer: 3,
     materia: ["Língua Portuguesa"],
@@ -381,15 +381,15 @@ createQuestion({
     university: "mackenzie",
     year: 2016,
     text: {
-      principal: "Questão nº 19\nNa figura acima, ABC e AED são triângulos retângulos. Se m(AC) = l,\nm(BÂC) = a, m(ADE) = β e m(ABC) = m (DÂE) = 90°, então\nm(BD) é\na)\nl cos a\nb)\nl . sen² a\nc)\nl cos a sen β\nd)\nl cos² a\nsen β\ne)\nl sen² a\ncos β",
+      principal: "Questão nº 19\nNa figura acima, ABC e AED são triângulos retângulos. Se m(AC) = l,\nm(BÂC) = a, m(ADE) = β e m(ABC) = m (DÂE) = 90°, então\nm(BD) é\na)\nl $\\cos$ a\nb)\nl . $\\sin$² a\nc)\nl $\\cos$ a $\\sin$ β\nd)\nl $\\cos$² a\n$\\sin$ β\ne)\nl $\\sin$² a\n$\\cos$ β",
       subItens: []
     },
     options: [
-      "l cos a",
-      "l . sen² a",
-      "l cos a sen ẞ",
-      "l cos² a\nsen β",
-      "l sen² a\ncos β"
+      "l $\\cos$ a",
+      "l . $\\sin$² a",
+      "l $\\cos$ a $\\sin$ ẞ",
+      "l $\\cos$² a\n$\\sin$ β",
+      "l $\\sin$² a\n$\\cos$ β"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "mackenzie",
     year: 2016,
     text: {
-      principal: "Questão n° 21\nA equação do 2º grau x² + x-log t + 0,5-log t = 0 tem duas raízes reais\ndistintas, se",
+      principal: "Questão n° 21\nA equação do 2º grau x² + x-$\\log$ t + 0,5-$\\log$ t = 0 tem duas raízes reais\ndistintas, se",
       subItens: []
     },
     options: [
@@ -469,11 +469,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/36",
-      "12/108",
-      "5/54",
-      "7/72",
-      "15/216"
+      "$5/36$",
+      "$12/108$",
+      "$5/54$",
+      "$7/72$",
+      "$15/216$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -486,7 +486,7 @@ createQuestion({
     university: "mackenzie",
     year: 2016,
     text: {
-      principal: "Questão nº 24\nSe f (sen (x)) = sen (3x), para todo x ∈ R e A(y), para y ∈ R, é a matriz 3 x 3,\n(Matriz com elementos:\nLinha 1: 1, f(cos(π/6)), 1\nLinha 2: f(cos(π/6)), y, f(cos(π/6))\nLinha 3: 1/2, f(cos(π/6)), 1)\no valor de y que satisfaz a equação det(A (y)) = 2 é",
+      principal: "Questão nº 24\nSe f ($\\sin$ (x)) = $\\sin$ (3x), para todo x ∈ R e A(y), para y ∈ R, é a matriz 3 x 3,\n(Matriz com elementos:\nLinha 1: 1, f($\\cos$(π/6)), 1\nLinha 2: f($\\cos$(π/6)), y, f($\\cos$(π/6))\nLinha 3: $1/2$, f($\\cos$(π/6)), 1)\no valor de y que satisfaz a equação det(A (y)) = 2 é",
       subItens: []
     },
     options: [
@@ -633,7 +633,7 @@ createQuestion({
     university: "mackenzie",
     year: 2016,
     text: {
-      principal: "Questão nº 31\n(Mapa de parte do estado de São Paulo e Paraná, destacando o Parque Estadual Turístico do Alto Ribeira (PETAR))\nFonte da imagem: (http://www.pousadacasadepedra.com.br/petarcomochegar.html)\nO Parque Turístico do Alto da Ribeira (PETAR) é a região de maior concentração\nde cavernas do Estado de São Paulo. Possui 32 mil hectares e está localizado\nno sul do Estado de São Paulo. Além da grande biodiversidade da Mata\nAtlântica remanescente, o parque possui cachoeiras e é uma importante região\nespeleológica do Brasil, com cerca de 250 cavernas registradas.\nA respeito de formações espeleológicas, julgue as afirmações a seguir.\nI. Os espeleotemas ocorrem comumente em terrenos constituídos por rochas\nsedimentares e relevo cárstico e são resultado da corrosão das rochas\npor ácidos dissolvidos na água, principalmente ácido carbônico, resultante\nda combinação da água com o CO₂ da atmosfera ou do solo.\nII. Os tipos mais comuns de espeleotemas surgem a partir da metamorfização\nde rochas graníticas que datam de formações geológicas Cenozoicas, do\nperíodo Terciário, predominantes no Brasil.\nIII. São denominadas estalactites, quando estão fixas no teto de uma caverna e\nestalagmites quando estão em seu piso. Ambas são formações decorrentes\ndo gotejamento de água das fendas das paredes das cavernas de rocha\ncalcária.\nAssinale a alternativa correta.",
+      principal: "Questão nº 31\n(Mapa de parte do estado de São Paulo e Paraná, destacando o Parque Estadual Turístico do Alto Ribeira (PETAR))\nFonte da imagem: (http://www.pousadacasadepedra.com.$br/petarcomochegar$.html)\nO Parque Turístico do Alto da Ribeira (PETAR) é a região de maior concentração\nde cavernas do Estado de São Paulo. Possui 32 mil hectares e está localizado\nno sul do Estado de São Paulo. Além da grande biodiversidade da Mata\nAtlântica remanescente, o parque possui cachoeiras e é uma importante região\nespeleológica do Brasil, com cerca de 250 cavernas registradas.\nA respeito de formações espeleológicas, julgue as afirmações a seguir.\nI. Os espeleotemas ocorrem comumente em terrenos constituídos por rochas\nsedimentares e relevo cárstico e são resultado da corrosão das rochas\npor ácidos dissolvidos na água, principalmente ácido carbônico, resultante\nda combinação da água com o CO₂ da atmosfera ou do solo.\nII. Os tipos mais comuns de espeleotemas surgem a partir da metamorfização\nde rochas graníticas que datam de formações geológicas Cenozoicas, do\nperíodo Terciário, predominantes no Brasil.\nIII. São denominadas estalactites, quando estão fixas no teto de uma caverna e\nestalagmites quando estão em seu piso. Ambas são formações decorrentes\ndo gotejamento de água das fendas das paredes das cavernas de rocha\ncalcária.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -654,7 +654,7 @@ createQuestion({
     university: "mackenzie",
     year: 2016,
     text: {
-      principal: "Questão nº 32\n(Mapa do Continente Europeu com os Mares numerados de 1 a 4. 1: Mar do Norte, 2: Mar Cáspio, 3: Mar Adriático, 4: Mar Mediterrâneo)\nFonte de pesquisa: http://rendelhistoria.blogspot.com.br/2013_04_01_archive.html\nOs mares europeus, historicamente, facilitaram o desenvolvimento econômico,\nsocial e político do continente.\nConsidere as afirmações a respeito dos mares europeus numerados no mapa.\nI. O número 1 corresponde ao Mar do Norte. Nele, desaguam importantes rios\ncomo o Tâmisa, Elba e Reno.\nII. O número 2 corresponde ao Mar Cáspio. Os rios Volga e Ural desaguam\nneste mar, que é ligado também ao mar de Azov por um estreito canal.\nIII. O número 3 corresponde ao Mar Adriático. Suas águas banham as regiões\ncosteiras dos seguintes países: Itália, Eslovênia, Croácia, Bósnia e\nHerzegovina, Montenegro e Albânia.\nIV. O número 4 corresponde ao Mar Mediterrâneo. Desde a Antiguidade,\nrepresentou uma zona privilegiada de contatos culturais, intensas relações\ncomerciais e de constantes confrontos políticos. Comunica-se com o oceano\nAtlântico pelo estreito de Gibraltar.\nEstão corretas,",
+      principal: "Questão nº 32\n(Mapa do Continente Europeu com os Mares numerados de 1 a 4. 1: Mar do Norte, 2: Mar Cáspio, 3: Mar Adriático, 4: Mar Mediterrâneo)\nFonte de pesquisa: http://rendelhistoria.blogspot.com.$br/2013_04_01_archive$.html\nOs mares europeus, historicamente, facilitaram o desenvolvimento econômico,\nsocial e político do continente.\nConsidere as afirmações a respeito dos mares europeus numerados no mapa.\nI. O número 1 corresponde ao Mar do Norte. Nele, desaguam importantes rios\ncomo o Tâmisa, Elba e Reno.\nII. O número 2 corresponde ao Mar Cáspio. Os rios Volga e Ural desaguam\nneste mar, que é ligado também ao mar de Azov por um estreito canal.\nIII. O número 3 corresponde ao Mar Adriático. Suas águas banham as regiões\ncosteiras dos seguintes países: Itália, Eslovênia, Croácia, Bósnia e\nHerzegovina, Montenegro e Albânia.\nIV. O número 4 corresponde ao Mar Mediterrâneo. Desde a Antiguidade,\nrepresentou uma zona privilegiada de contatos culturais, intensas relações\ncomerciais e de constantes confrontos políticos. Comunica-se com o oceano\nAtlântico pelo estreito de Gibraltar.\nEstão corretas,",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "mackenzie",
     year: 2016,
     text: {
-      principal: "Questão nº 33\nEm condições apropriadas, são realizadas as três reações orgânicas, representadas\nabaixo.\nI. (Benzeno) + CH3Br -> (Produto Orgânico I) (Catalisador: FeBr3)\nII. H3C-CH(OH)-CH3 + HO-CH2-CH3 -> (Produto Orgânico II) (Catalisador: H+)\nIII. H3C-C(CH3)2-CH3 + O3 -> (Produto Orgânico III) (Catalisador: H2O/Zn)\nAssim, os produtos orgânicos obtidos em I, II e III, são respectivamente,",
+      principal: "Questão nº 33\nEm condições apropriadas, são realizadas as três reações orgânicas, representadas\nabaixo.\nI. (Benzeno) + CH3Br -> (Produto Orgânico I) (Catalisador: FeBr3)\nII. H3C-CH(OH)-CH3 + HO-CH2-CH3 -> (Produto Orgânico II) (Catalisador: H+)\nIII. H3C-C(CH3)2-CH3 + O3 -> (Produto Orgânico III) (Catalisador: $H2O/Zn$)\nAssim, os produtos orgânicos obtidos em I, II e III, são respectivamente,",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "mackenzie",
     year: 2016,
     text: {
-      principal: "Questão nº 55\n(Imagem de um sistema de polias e fios com dois blocos, A em um plano inclinado e B suspenso. Bloco A está no plano inclinado com ângulo θ. Bloco B está pendurado por um fio passando por uma polia no topo do plano inclinado.)\nNa figura esquematizada acima, os corpos A e B encontram-se em equilíbrio.\nO coeficiente de atrito estático entre o corpo A e o plano inclinado vale\nμ = 0,500 e o peso do corpo B é PB = 200 N. Considere os fios e as polias ideais\ne o fio que liga o corpo A é paralelo ao plano inclinado. Sendo senθ = 0,600 e\ncosθ = 0,800, o peso máximo que o corpo A pode assumir é",
+      principal: "Questão nº 55\n(Imagem de um sistema de polias e fios com dois blocos, A em um plano inclinado e B suspenso. Bloco A está no plano inclinado com ângulo θ. Bloco B está pendurado por um fio passando por uma polia no topo do plano inclinado.)\nNa figura esquematizada acima, os corpos A e B encontram-se em equilíbrio.\nO coeficiente de atrito estático entre o corpo A e o plano inclinado vale\nμ = 0,500 e o peso do corpo B é PB = 200 N. Considere os fios e as polias ideais\ne o fio que liga o corpo A é paralelo ao plano inclinado. Sendo $\\sin$θ = 0,600 e\n$\\cos$θ = 0,800, o peso máximo que o corpo A pode assumir é",
       subItens: []
     },
     options: [
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "mackenzie",
     year: 2016,
     text: {
-      principal: "Questão n° 58\n(Imagem de um recipiente com gelo e um termômetro, sendo aquecido por uma fonte térmica).\nUm recipiente de capacidade térmica desprezível contém 100 g de gelo à\ntemperatura de -10,0 °C. O conjunto é aquecido até a temperatura de +10,0 °C\natravés de uma fonte térmica que fornece calor à razão constante de 1000 cal/min .\nDados: calor específico do gelo: cg = 0,50 cal/g·°C\ncalor específico da água: ca = 1,0 cal/g·°C\ncalor latente de fusão do gelo: Lf = 80 cal/g\nA temperatura do conjunto (θ) em função do tempo (t) de aquecimento é melhor\nrepresentado por",
+      principal: "Questão n° 58\n(Imagem de um recipiente com gelo e um termômetro, sendo aquecido por uma fonte térmica).\nUm recipiente de capacidade térmica desprezível contém 100 g de gelo à\ntemperatura de -10,0 °C. O conjunto é aquecido até a temperatura de +10,0 °C\natravés de uma fonte térmica que fornece calor à razão constante de 1000 $cal/min$ .\nDados: calor específico do gelo: cg = 0,50 $cal/g$·°C\ncalor específico da água: ca = 1,0 $cal/g$·°C\ncalor latente de fusão do gelo: Lf = 80 $cal/g$\nA temperatura do conjunto (θ) em função do tempo (t) de aquecimento é melhor\nrepresentado por",
       subItens: []
     },
     options: [
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "mackenzie",
     year: 2016,
     text: {
-      principal: "Questão nº 59\nNo laboratório de uma fábrica de perfumes, as essências são armazenadas em\nfrascos que possuem o mesmo volume. Em um recipiente, são misturados três\nfrascos com essência de densidade 3,00 g/cm³ e três frascos com essência de\ndensidade 2,00 g/cm³. A densidade da mistura homogênea, em g/cm³, é igual a",
+      principal: "Questão nº 59\nNo laboratório de uma fábrica de perfumes, as essências são armazenadas em\nfrascos que possuem o mesmo volume. Em um recipiente, são misturados três\nfrascos com essência de densidade 3,00 $g/cm$³ e três frascos com essência de\ndensidade 2,00 $g/cm$³. A densidade da mistura homogênea, em $g/cm$³, é igual a",
       subItens: []
     },
     options: [

@@ -3,7 +3,7 @@ createQuestion({
     university: "ufrgs",
     year: 2017,
     text: {
-      principal: "Considere que uma pedra é lançada verticalmente para cima e atinge uma altura máxima H. Despreze a resistência do ar e considere um referencial com origem no solo e sentido positivo do eixo vertical orientado para cima. Assinale o gráfico que melhor representa o valor da aceleração sofrida pela pedra, desde o lançamento até o retorno ao ponto de partida.\n[Imagem: Uma série de cinco gráficos (A a E) de aceleração (eixo Y) versus tempo (eixo X). O gráfico (A) mostra uma linha triangular (aceleração varia de zero a um pico e volta a zero). O gráfico (B) mostra uma linha horizontal constante positiva. O gráfico (C) mostra uma linha horizontal constante em zero. O gráfico (D) mostra uma linha horizontal constante negativa. O gráfico (E) mostra uma linha horizontal constante positiva, iniciando em t_H.]",
+      principal: "Considere que uma pedra é lançada verticalmente para cima e atinge uma altura máxima H. Despreze a resistência do ar e considere um referencial com origem no solo e sentido positivo do eixo vertical orientado para cima. Assinale o gráfico que melhor representa o valor da aceleração sofrida pela pedra, desde o lançamento até o retorno ao ponto de partida.\n[Imagem: Uma série de cinco gráficos (A a E) de aceleração (eixo Y) versus tempo (eixo X). O gráfico (A) mostra uma linha triangular (aceleração varia de zero a um pico e volta a zero). O gráfico (B) mostra uma linha horizontal constante positiva. O gráfico (C) mostra uma linha horizontal constante em zero. O gráfico (D) mostra uma linha horizontal constante negativa. O gráfico (E) mostra uma linha horizontal constante positiva, iniciando em $t_H$.]",
       subItens: []
     },
     options: [
@@ -11,7 +11,7 @@ createQuestion({
       "Gráfico que mostra aceleração constante e positiva.",
       "Gráfico que mostra aceleração constante e igual a zero.",
       "Gráfico que mostra aceleração constante e negativa.",
-      "Gráfico que mostra aceleração constante e positiva a partir de um instante t_H."
+      "Gráfico que mostra aceleração constante e positiva a partir de um instante $t_H$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -24,7 +24,7 @@ createQuestion({
     university: "ufrgs",
     year: 2017,
     text: {
-      principal: "Um atleta, partindo do repouso, percorre 100 m em uma pista horizontal retilínea, em 10 s, e mantém a aceleração constante durante todo o percurso. Desprezando a resistência do ar, considere as afirmações abaixo, sobre esse movimento.\nI - O módulo de sua velocidade média é 36 km/h.\nII - O módulo de sua aceleração é 10 m/s2.\nIII- O módulo de sua maior velocidade instantânea é 10 m/s.\nQuais estão corretas?",
+      principal: "Um atleta, partindo do repouso, percorre 100 m em uma pista horizontal retilínea, em 10 s, e mantém a aceleração constante durante todo o percurso. Desprezando a resistência do ar, considere as afirmações abaixo, sobre esse movimento.\nI - O módulo de sua velocidade média é 36 $km/h$.\nII - O módulo de sua aceleração é 10 $m/s2$.\nIII- O módulo de sua maior velocidade instantânea é 10 $m/s$.\nQuais estão corretas?",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "ufrgs",
     year: 2017,
     text: {
-      principal: "Sendo a e b números reais, considere as afirmações a seguir.\nI) Se a < b então -a > -b.\nII) Se a > b então 1/a < 1/b.\nIII) Se a < b então a² < b².\nQuais estão corretas?",
+      principal: "Sendo a e b números reais, considere as afirmações a seguir.\nI) Se a < b então -a > -b.\nII) Se a > b então $1/a$ < $1/b$.\nIII) Se a < b então a² < b².\nQuais estão corretas?",
       subItens: []
     },
     options: [

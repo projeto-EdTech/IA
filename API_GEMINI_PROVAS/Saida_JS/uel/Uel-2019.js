@@ -57,7 +57,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Sociologia"],
-    conteudo: ["Política/Estado", "Dominação e Poder"],
+    conteudo: ["Polí$tica/Estado$", "Dominação e Poder"],
     imageNames: []
 }),
 
@@ -66,7 +66,7 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "O bisfenol A é uma substância empregada na síntese de policarbonato e resinas epóxi, com aplicações que vão desde computadores e eletrodomésticos até revestimentos para latas de alimentos e bebidas. Estudos apontam que a substância, por possuir similaridade com um hormônio feminino da tireoide, atua como um interferente endócrino. No Brasil, desde 2012 é proibida a venda de mamadeiras ou outros utensílios que contenham bisfenol A. O 2,2-difenilpropano, de estrutura similar ao bisfenol A, é um hidrocarboneto com grau de toxicidade ainda maior que o bisfenol A. As fórmulas estruturais dessas substâncias são apresentadas a seguir.\n[Imagem: Estruturas químicas do Bisfenol A e 2,2-difenilpropano]\nCom base nas propriedades físico-químicas dessas substâncias, considere as afirmativas a seguir.\nI. A solubilidade do bisfenol A em solução alcalina é maior que em água pura.\nII. Ligações de hidrogênio e interações π ㅠ são forças intermoleculares que atuam entre moléculas de bisfenol A.\nIII. A solubilidade do 2,2-difenilpropano em água é maior do que em hexano.\nIV. O ponto de fusão do 2,2-difenilpropano é maior que do bisfenol A.\nAssinale a alternativa correta.",
+      principal: "O bisfenol A é uma substância empregada na síntese de policarbonato e resinas epó$\\xi$, com aplicações que vão desde computadores e eletrodomésticos até revestimentos para latas de alimentos e bebidas. Estudos apontam que a substância, por possuir similaridade com um hormônio feminino da tireoide, atua como um interferente endócrino. No Brasil, desde 2012 é proibida a venda de mamadeiras ou outros utensílios que contenham bisfenol A. O 2,2-difenilpropano, de estrutura similar ao bisfenol A, é um hidrocarboneto com grau de toxicidade ainda maior que o bisfenol A. As fórmulas estruturais dessas substâncias são apresentadas a seguir.\n[Imagem: Estruturas químicas do Bisfenol A e 2,2-difenilpropano]\nCom base nas propriedades físico-químicas dessas substâncias, considere as afirmativas a seguir.\nI. A solubilidade do bisfenol A em solução alcalina é maior que em água pura.\nII. Ligações de hidrogênio e interações π ㅠ são forças intermoleculares que atuam entre moléculas de bisfenol A.\nIII. A solubilidade do 2,2-difenilpropano em água é maior do que em hexano.\nIV. O ponto de fusão do 2,2-difenilpropano é maior que do bisfenol A.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -114,7 +114,7 @@ createQuestion({
     options: [
       "Celso Furtado identifica que as origens da desigualdade brasileira decorrem de nossa tradição autocrática, que impediu a formação de uma burguesia autônoma.",
       "Malthus atribui a causa da pobreza à baixa taxa de natalidade, o que reduziria a massa salarial das famílias de baixa renda.",
-      "Amartya Sen considera que a eliminação da pobreza depende diretamente do crescimento econômico, pois este assegura benefício a todos os grupos sociais.",
+      "Amartya $\\sin$ considera que a eliminação da pobreza depende diretamente do crescimento econômico, pois este assegura benefício a todos os grupos sociais.",
       "Hayek propõe a redução do Estado como meio de gerar maior eficiência econômica, contrapondo-se assim às políticas do Welfare State.",
       "Keynes aponta que a redução dos gastos públicos é uma variável essencial para o estabelecimento do crescimento econômico e do bem-estar social."
     ],
@@ -183,7 +183,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Sociologia"],
-    conteudo: ["Relação homem/natureza: a questão do trabalho na perspectiva antropológica e sociológica"],
+    conteudo: ["Relação $homem/natureza$: a questão do trabalho na perspectiva antropológica e sociológica"],
     imageNames: []
 }),
 
@@ -288,7 +288,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Sociologia"],
-    conteudo: ["Mudança/transformação social/movimentos sociais/direitos/cidadania"],
+    conteudo: ["Mudanç$a/transforma$ção $social/movimentos$ sociais/direitos/cidadania"],
     imageNames: []
 }),
 
@@ -318,7 +318,7 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "Na Copa do Mundo de 2018, observou-se que, para a maioria dos torcedores, um dos fatores que encantou foi o jogo bem jogado, ao passo que o desencanto ficou por conta de partidas com colisões violentas. Muitas dessas colisões travavam as jogadas e, não raramente, causavam lesões nos atletas. A charge a seguir ilustra a narração de um suposto jogo da Copa, feita por físicos:\n[Charge: E SE UM JOGO DE FUTEBOL FOSSE NARRADO POR FÍSICOS? Uma forte colisão parcialmente inelástica acaba de levar a zero a aceleração do jogador, confere, Galileu? Correto, Albert. Os jogadores J1 e J2 não calcularam corretamente a energia cinética empregada e acabaram em uma colisão nem um pouco ideal. Nosso repórter de campo, Newton, tem mais detalhes sobre a gravidade da situação. Ela foi de 9,8m/s². Albert.]\numsabadoqualquer.com\nCom base na charge e nos conhecimentos sobre colisões e supondo que, em um jogo de futebol, os jogadores se comportam como um sistema de partículas ideais, é correto afirmar que, em uma colisão",
+      principal: "Na Copa do Mundo de 2018, observou-se que, para a maioria dos torcedores, um dos fatores que encantou foi o jogo bem jogado, ao passo que o desencanto ficou por conta de partidas com colisões violentas. Muitas dessas colisões travavam as jogadas e, não raramente, causavam lesões nos atletas. A charge a seguir ilustra a narração de um suposto jogo da Copa, feita por físicos:\n[Charge: E SE UM JOGO DE FUTEBOL FOSSE NARRADO POR FÍSICOS? Uma forte colisão parcialmente inelástica acaba de levar a zero a aceleração do jogador, confere, Galileu? Correto, Albert. Os jogadores J1 e J2 não calcularam corretamente a energia cinética empregada e acabaram em uma colisão nem um pouco ideal. Nosso repórter de campo, Newton, tem mais detalhes sobre a gravidade da situação. Ela foi de 9,$8m/s$². Albert.]\numsabadoqualquer.com\nCom base na charge e nos conhecimentos sobre colisões e supondo que, em um jogo de futebol, os jogadores se comportam como um sistema de partículas ideais, é correto afirmar que, em uma colisão",
       subItens: []
     },
     options: [
@@ -339,7 +339,7 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "Uma estratégia para obter efeito humorístico em quadrinhos é atribuir a objetos abstratos características e ações tipicamente humanas. A figura a seguir é um exemplo de aplicação desse recurso.\n[Charge: Confissões... Sou complexo! Sou irracional! (Com imagens de números complexos e logaritmos)]\nAdaptado de somatematica.com.br\nSupondo que cada número diga uma verdade matemática sobre si mesmo, relacione as frases (de I a IV) aos balões de diálogo (de A a D).\nI. Meu cubo é irracional.\nII. Sou racional.\nIII. Sou puramente imaginário.\nIV. Meu inverso multiplicativo coincide com meu conjugado.\n[Imagens: A: (1+i√3)/2; B: √2i; C: 9/2 log base √2 of 2; D: √7³]\nAssinale a alternativa que contém a associação correta.",
+      principal: "Uma estratégia para obter efeito humorístico em quadrinhos é atribuir a objetos abstratos características e ações tipicamente humanas. A figura a seguir é um exemplo de aplicação desse recurso.\n[Charge: Confissões... Sou complexo! Sou irracional! (Com imagens de números complexos e logaritmos)]\nAdaptado de somatematica.com.br\nSupondo que cada número diga uma verdade matemática sobre si mesmo, relacione as frases (de I a IV) aos balões de diálogo (de A a D).\nI. Meu cubo é irracional.\nII. Sou racional.\nIII. Sou puramente imaginário.\nIV. Meu inverso multiplicativo coincide com meu conjugado.\n[Imagens: A: (1+i√3)/2; B: √2i; C: $9/2$ $\\log$ base √2 of 2; D: √7³]\nAssinale a alternativa que contém a associação correta.",
       subItens: []
     },
     options: [
@@ -360,7 +360,7 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "Convenciona-se que o tamanho dos televisores, de tela plana e retangular, é medido pelo comprimento da diagonal da tela, expresso em polegadas. Define-se a proporção dessa tela como sendo o quociente do lado menor pelo lado maior, também em polegadas. Essas informações estão dispostas na figura a seguir.\n[Diagrama de TV com lado maior, lado menor e diagonal]\nSuponha que Eurico e Hermengarda tenham televisores como dado na figura e de proporção 3/4. Sabendo que o tamanho do televisor de Hermengarda é 5 polegadas maior que o de Eurico, assinale a alternativa que apresenta, corretamente, quantas polegadas o lado maior da tela do televisor de Hermengarda excede o lado correspondente do televisor de Eurico.",
+      principal: "Convenciona-se que o tamanho dos televisores, de tela plana e retangular, é medido pelo comprimento da diagonal da tela, expresso em polegadas. Define-se a proporção dessa tela como sendo o quociente do lado menor pelo lado maior, também em polegadas. Essas informações estão dispostas na figura a seguir.\n[Diagrama de TV com lado maior, lado menor e diagonal]\nSuponha que Eurico e Hermengarda tenham televisores como dado na figura e de proporção $3/4$. Sabendo que o tamanho do televisor de Hermengarda é 5 polegadas maior que o de Eurico, assinale a alternativa que apresenta, corretamente, quantas polegadas o lado maior da tela do televisor de Hermengarda excede o lado correspondente do televisor de Eurico.",
       subItens: []
     },
     options: [
@@ -385,11 +385,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "15 m/s devido à aplicação de um impulso resultante de 0,12 x 10² N/s.",
-      "40 m/s quando o jogador aplica uma força de 1,6 x 10² N durante um intervalo de tempo de 0,1 s.",
-      "60 m/s quando uma força de 1,2 x 10² N é aplicada durante um intervalo de tempo de 0,1 s.",
-      "90 km/h devido à aplicação de um impulso de 0,12 x 10² N/s.",
-      "108 km/h quando o jogador aplica uma força de 1,6 x 10² N durante um intervalo de tempo de 0,1 s."
+      "15 $m/s$ devido à aplicação de um impulso resultante de 0,12 x 10² $N/s$.",
+      "40 $m/s$ quando o jogador aplica uma força de 1,6 x 10² N durante um intervalo de tempo de 0,1 s.",
+      "60 $m/s$ quando uma força de 1,2 x 10² N é aplicada durante um intervalo de tempo de 0,1 s.",
+      "90 $km/h$ devido à aplicação de um impulso de 0,12 x 10² $N/s$.",
+      "108 $km/h$ quando o jogador aplica uma força de 1,6 x 10² N durante um intervalo de tempo de 0,1 s."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "O acetato de etila (CH3COOCH2CH3) é um éster simples, usado, no passado, como antiespasmódico e hoje como solvente industrial e removedor de esmalte de unha. A acetona (CH3(CO)CH3) também é usada como removedor de esmaltes, mas devido a sua elevada solubilidade em água, quando em contato com a pele, pode desidratá-la. Sabe-se que estes solventes possuem cheiros parecidos, tornando difícil a identificação pelo olfato.\nConsiderando um frasco contendo acetato de etila e acetona em quantidades equimolares, assinale a alternativa que apresenta, corretamente, o procedimento para a separação da mistura.\nDados:\nPonto de ebulição do acetato de etila a 1 atm =77,1 °C e densidade = 902 Kg/m³\nPonto de ebulição da acetona a 1 atm = 56,0 °C e densidade = 784 Kg/m³",
+      principal: "O acetato de etila (CH3COOCH2CH3) é um éster simples, usado, no passado, como antiespasmódico e hoje como solvente industrial e removedor de esmalte de unha. A acetona (CH3(CO)CH3) também é usada como removedor de esmaltes, mas devido a sua elevada solubilidade em água, quando em contato com a pele, pode desidratá-la. Sabe-se que estes solventes possuem cheiros parecidos, tornando difícil a identificação pelo olfato.\nConsiderando um frasco contendo acetato de etila e acetona em quantidades equimolares, assinale a alternativa que apresenta, corretamente, o procedimento para a separação da mistura.\nDados:\nPonto de ebulição do acetato de etila a 1 atm =77,1 °C e densidade = 902 $Kg/m$³\nPonto de ebulição da acetona a 1 atm = 56,0 °C e densidade = 784 $Kg/m$³",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "Na contemporaneidade, vivemos o predomínio das imagens visuais, conforme sugere a figura 1. Nesse aspecto, percebê-las como portadoras de conceitos e sentidos leva teóricos a discutirem sobre a necessidade da alfabetização visual. Tanto a imagem quanto a sua leitura produzem conceitos e transformam a percepção da realidade e seu contexto cultural.\nCom base nas concepções de leitura de imagem e cultura visual, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n( ) Ao ler a imagem, cruzamos informações do objeto, suas características formais, cromáticas, com informações do leitor, seu conhecimento, suas deduções, imaginação. Dessa forma, a leitura implica o que vemos e o que conhecemos.\n( ) Ao ler a imagem, percebemos que não existem receptores nem leitores, mas construtores de significados que leem a partir de suas referências culturais.\n( ) Ao ler a imagem, consideramos que os objetos de estudo e a produção envolvem os modos de ver, sentir e imaginar, e que a percepção é uma interpretação, significação dada pelo espectador/observador.\n( ) Ao ler a imagem, compreendemos que ela constitui um modo de linguagem na composição e envolve a compreensão das mensagens em diversos níveis, considerando os seus elementos estruturais.\n( ) Ao ler a imagem, identificamos um sinal com significado único, os símbolos visuais são dispostos a fim de representar as imagens de modo sistemático e baseado nas regras da linguagem articulada.\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
+      principal: "Na contemporaneidade, vivemos o predomínio das imagens visuais, conforme sugere a figura 1. Nesse aspecto, percebê-las como portadoras de conceitos e sentidos leva teóricos a discutirem sobre a necessidade da alfabetização visual. Tanto a imagem quanto a sua leitura produzem conceitos e transformam a percepção da realidade e seu contexto cultural.\nCom base nas concepções de leitura de imagem e cultura visual, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n( ) Ao ler a imagem, cruzamos informações do objeto, suas características formais, cromáticas, com informações do leitor, seu conhecimento, suas deduções, imaginação. Dessa forma, a leitura implica o que vemos e o que conhecemos.\n( ) Ao ler a imagem, percebemos que não existem receptores nem leitores, mas construtores de significados que leem a partir de suas referências culturais.\n( ) Ao ler a imagem, consideramos que os objetos de estudo e a produção envolvem os modos de ver, sentir e imaginar, e que a percepção é uma interpretação, significação dada pelo $espectador/observador$.\n( ) Ao ler a imagem, compreendemos que ela constitui um modo de linguagem na composição e envolve a compreensão das mensagens em diversos níveis, considerando os seus elementos estruturais.\n( ) Ao ler a imagem, identificamos um sinal com significado único, os símbolos visuais são dispostos a fim de representar as imagens de modo sistemático e baseado nas regras da linguagem articulada.\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
       subItens: []
     },
     options: [
@@ -540,7 +540,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Arte"],
-    conteudo: ["Arte Contemporânea", "A relação espectador/objeto"],
+    conteudo: ["Arte Contemporânea", "A relação $espectador/objeto$"],
     imageNames: []
 }),
 
@@ -612,7 +612,7 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "Os vírus dependem de uma célula hospedeira susceptível para se multiplicarem. Seja e > 2 uma constante real.\nSuponha que P : R+ → R represente a quantidade de partículas virais no interior de uma célula hospedeira no instante t≥ 0, de forma que P(t) = 5·10⁴ / (1+200e^(-t/10)).\nO gráfico de P no intervalo 0 ≤ t ≤ 100 é dado a seguir.\n[Gráfico de P(t) vs t, mostrando uma curva de crescimento logístico]\nCom base no texto, na equação e no gráfico, atribua (V) verdadeiro ou (F) falso às afirmativas a seguir.\n( ) De acordo com a função, o número de partículas virais nunca atinge 5·10⁴.\n( ) No instante inicial t = 0, existem 25 partículas virais dentro da célula.\n( ) P é uma função decrescente.\n( ) O número de partículas virais atinge 10.000 unidades antes do instante t = 60.\n( ) A função P : R+ → R é sobrejetora.\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
+      principal: "Os vírus dependem de uma célula hospedeira susceptível para se multiplicarem. Seja e > 2 uma constante real.\nSuponha que P : R+ → R represente a quantidade de partículas virais no interior de uma célula hospedeira no instante t≥ 0, de forma que P(t) = 5·10⁴ / (1+200e^(-$t/10$)).\nO gráfico de P no intervalo 0 ≤ t ≤ 100 é dado a seguir.\n[Gráfico de P(t) vs t, mostrando uma curva de crescimento $\\log$ístico]\nCom base no texto, na equação e no gráfico, atribua (V) verdadeiro ou (F) falso às afirmativas a seguir.\n( ) De acordo com a função, o número de partículas virais nunca atinge 5·10⁴.\n( ) No instante inicial t = 0, existem 25 partículas virais dentro da célula.\n( ) P é uma função decrescente.\n( ) O número de partículas virais atinge 10.000 unidades antes do instante t = 60.\n( ) A função P : R+ → R é sobrejetora.\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
       subItens: []
     },
     options: [
@@ -654,15 +654,15 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "Conforme um fármaco é injetado, a partir do instante t = 0, sua concentração no sangue aumenta até atingir um máximo C em t = Tm. Considere que, na sequência, o rim inicie o processo de excreção do fármaco, fazendo com que sua concentração no sangue caia progressivamente. Suponha que a função f : R+ → R determine a concentração f (t) desse fármaco no sangue em um instante de tempo t ≥ 0. Sabendo que f(t) = C(t/Tm)² se t < Tm, e considerando que f(t) = C2Tm⁻²t se t ≥ Tm, com Tm e C constantes positivas, assinale a alternativa que apresenta, corretamente, os dois instantes de tempo em que a concentração desse fármaco no sangue é C/2.",
+      principal: "Conforme um fármaco é injetado, a partir do instante t = 0, sua concentração no sangue aumenta até atingir um máximo C em t = Tm. Considere que, na sequência, o rim inicie o processo de excreção do fármaco, fazendo com que sua concentração no sangue caia progressivamente. Suponha que a função f : R+ → R determine a concentração f (t) desse fármaco no sangue em um instante de tempo t ≥ 0. Sabendo que f(t) = C($t/Tm$)² se t < Tm, e considerando que f(t) = C2Tm⁻²t se t ≥ Tm, com Tm e C constantes positivas, assinale a alternativa que apresenta, corretamente, os dois instantes de tempo em que a concentração desse fármaco no sangue é $C/2$.",
       subItens: []
     },
     options: [
-      "Tm e Tm/2",
-      "Tm e C/2",
+      "Tm e $Tm/2$",
+      "Tm e $C/2$",
       "2Tm e Tm-2",
       "Tm/√2 e 1 + Tm",
-      "1-Tm e log(√2Tm)"
+      "1-Tm e $\\log$(√2Tm)"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -708,7 +708,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["Sociologia"],
-    conteudo: ["Indivíduo, Identidade e Socialização", "Mudança/Transformação Social/Movimentos Sociais/Direitos/Cidadania"],
+    conteudo: ["Indivíduo, Identidade e Socialização", "Mudanç$a/Transforma$ção $Social/Movimentos$ Sociais/Direitos/Cidadania"],
     imageNames: []
 }),
 
@@ -780,7 +780,7 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "Leia o texto a seguir.\nE se escrevo em francês, que é a língua de meu país, e não em latim, que é a de meus preceptores, é porque espero que aqueles que se servem apenas de sua razão natural inteiramente pura julgarão melhor minhas opiniões do que aqueles que não acreditam senão nos livros dos antigos. E quanto aos que unem o bom senso ao estudo, os únicos que desejo para meus juízes, não serão de modo algum, tenho certeza, tão parciais a favor do latim que recusem ouvir minhas razões, porque as explico em língua vulgar.\nDESCARTES, R. Discurso do Método. Trad. J. Guinsburg e Bento Prado Jr. São Paulo: Abril Cultural, 1973. Coleção \"Os pensadores\". p. 79.\nCom base nos conhecimentos sobre Descartes e o surgimento da filosofia moderna, assinale a alternativa correta.",
+      principal: "Leia o texto a seguir.\nE se escrevo em francês, que é a língua de meu país, e não em latim, que é a de meus preceptores, é porque espero que aqueles que se servem apenas de sua razão natural inteiramente pura julgarão melhor minhas opiniões do que aqueles que não acreditam $\\sin$ão nos livros dos antigos. E quanto aos que unem o bom senso ao estudo, os únicos que desejo para meus juízes, não serão de modo algum, tenho certeza, tão parciais a favor do latim que recusem ouvir minhas razões, porque as explico em língua vulgar.\nDESCARTES, R. Discurso do Método. Trad. J. Guinsburg e Bento Prado Jr. São Paulo: Abril Cultural, 1973. Coleção \"Os pensadores\". p. 79.\nCom base nos conhecimentos sobre Descartes e o surgimento da filosofia moderna, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -948,7 +948,7 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "Leia o texto a seguir.\nFoi ali no meio da praça. [...] Zuzé Paraza, pintor reformado, tossiu sacudindo a magreza do seu todo corpo. Então, assim contam os que viram, ele vomitou um corvo vivo. O pássaro saiu inteiro das entranhas dele. [...] Estivera tanto tempo lá dentro que já sabia falar.\nCOUTO, Mia. O último aviso do corvo falador. In: Vozes anoitecidas. São Paulo: Companhia das Letras, 2015. p. 29.\nZuzé desafiou o corvo falador. De dentro de seu gabinete, Zuzé mostrou ao corvo a seguinte tabela.\nA | B | C\n7 | 9 | 0\n20 | 5 | 1\n24 | 6 | 2\n2 | 13 | 3\nZuzé solicita ao corvo que pense em uma equação matemática que relacione, linha a linha, os números das colunas A, B e C da tabela. Prontamente o corvo falante responde: i^(A+B) = i^C, onde i é a unidade imaginária.\nCom base na equação dita pelo corvo e sabendo que A, B e C são números naturais, considere as afirmativas a seguir.\nI. Se A + B é múltiplo de 4 e C = 4, então A, B e C satisfazem a equação.\nII. Se A = 26, B = 44 e C = 30, então A, B e C satisfazem a equação.\nIII. Se A = B = 1, então a única possibilidade para que A, B e C satisfaçam a equação é C = 6.\nIV. Se A e B são números ímpares e C = 1, então A, B e C satisfazem a equação.\nAssinale a alternativa correta.",
+      principal: "Leia o texto a seguir.\nFoi ali no meio da praça. [...] Zuzé Paraza, pintor reformado, tossiu sacudindo a magreza do seu todo corpo. Então, assim contam os que viram, ele vomitou um corvo vivo. O pássaro saiu inteiro das entranhas dele. [...] Estivera tanto tempo lá dentro que já sabia falar.\nCOUTO, Mia. O último aviso do corvo falador. In: Vozes anoitecidas. São Paulo: Companhia das Letras, 2015. p. 29.\nZuzé desafiou o corvo falador. De dentro de seu gabinete, Zuzé mostrou ao corvo a seguinte tabela.\nA | B | C\n7 | 9 | 0\n20 | 5 | 1\n24 | 6 | 2\n2 | 13 | 3\nZuzé solicita ao corvo que pense em uma equação matemática que relacione, linha a linha, os números das colunas A, B e C da tabela. Prontamente o corvo falante responde: i^(A+B) = $i^C$, onde i é a unidade imaginária.\nCom base na equação dita pelo corvo e sabendo que A, B e C são números naturais, considere as afirmativas a seguir.\nI. Se A + B é múltiplo de 4 e C = 4, então A, B e C satisfazem a equação.\nII. Se A = 26, B = 44 e C = 30, então A, B e C satisfazem a equação.\nIII. Se A = B = 1, então a única possibilidade para que A, B e C satisfaçam a equação é C = 6.\nIV. Se A e B são números ímpares e C = 1, então A, B e C satisfazem a equação.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "uel",
     year: 2019,
     text: {
-      principal: "Na Primeira Guerra Mundial, quando se confrontaram as potências imperialistas europeias, o mundo assistiu com horror o uso de uma tecnologia bélica de elevado poder destrutivo, desacreditando o discurso no qual se considerava que a Europa possuia uma cultura superior. Com o término da Primeira Guerra, buscou-se um reencantamento do mundo por meio de acordos de paz, logo superados pela Segunda Guerra, culminando com o ataque atômico ao Japão. Após esses episódios, vários outros conflitos se disseminaram pelo mundo até a atualidade.\nCom base nos conhecimentos históricos sobre esses conflitos, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n( ) A utilização de armas químicas foi regulamentada no decorrer da Segunda Guerra pelo tratado de Paz de Vestfalia.\n( ) O projeto da arma nuclear foi desenvolvido nos EUA por uma equipe de cientistas sob o governo Truman, que autorizou o seu uso.\n( ) No México, o Exército Zapatista de Libertação Nacional, orientado pela doutrina libertária, defende o direito dos povos nativos.\n( ) O grupo Al Quaeda de libertação do Afeganistão teve sua organização ideológica fundamentada pelas doutrinas de Gramsci.\n( ) O governo indiano acusa o Paquistão de fomentar grupos separatistas muçulmanos no seu território da Caxemira.\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
+      principal: "Na Primeira Guerra Mundial, quando se confrontaram as potências imperialistas europeias, o mundo assistiu com horror o uso de uma tecnologia bélica de elevado poder destrutivo, desacreditando o discurso no qual se considerava que a Europa possuia uma cultura superior. Com o término da Primeira Guerra, buscou-se um reencantamento do mundo por meio de acordos de paz, logo superados pela Segunda Guerra, culminando com o ataque atômico ao Japão. Após esses episódios, vários outros conflitos se disseminaram pelo mundo até a atualidade.\nCom base nos conhecimentos históricos sobre esses conflitos, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n( ) A utilização de armas químicas foi regulamentada no decorrer da Segunda Guerra pelo tratado de Paz de Vestfalia.\n( ) O projeto da arma nuclear foi desenvolvido nos EUA por uma equipe de cientistas sob o governo Truman, que autorizou o seu uso.\n( ) No México, o Exército Zapatista de Libertação Nacional, orientado pela doutrina libertária, defende o direito dos povos nativos.\n( ) O grupo Al Quaeda de libertação do Afeganistão teve sua organização ideológica fundamentada pelas doutrinas de Gramsci.\n( ) O governo indiano acusa o Paquistão de fomentar grupos separatistas $\\mu$çulmanos no seu território da Caxemira.\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
       subItens: []
     },
     options: [

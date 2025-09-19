@@ -183,7 +183,7 @@ createQuestion({
     university: "puc-sp",
     year: 2017,
     text: {
-      principal: "Para os exercícios de Física, adote os seguintes valores quando necessário: Módulo da aceleração da gravidade (g) = 10m.s⁻²; 1 quilograma-força (kgf) = 10N; 1 cal = 4J; 1 c.v. = 740W; 1 tonelada = 10³kg; 1 atm = 1.10⁵ N.m⁻². Um motor de potência 2,5 c.v. absorve 925 cal/s de uma fonte térmica quente, cuja temperatura é de 927°C. Sendo a temperatura da fonte fria de 80,6°F, determine a razão entre o rendimento de um motor de Carnot que operasse entre essas mesmas fontes térmicas e o rendimento do referido motor.",
+      principal: "Para os exercícios de Física, adote os seguintes valores quando necessário: Módulo da aceleração da gravidade (g) = 10m.s⁻²; 1 quilograma-força (kgf) = 10N; 1 cal = 4J; 1 c.v. = 740W; 1 tonelada = 10³kg; 1 atm = 1.10⁵ N.m⁻². Um motor de potência 2,5 c.v. absorve 925 $cal/s$ de uma fonte térmica quente, cuja temperatura é de 927°C. Sendo a temperatura da fonte fria de 80,6°F, determine a razão entre o rendimento de um motor de Carnot que operasse entre essas mesmas fontes térmicas e o rendimento do referido motor.",
       subItens: []
     },
     options: [
@@ -243,7 +243,7 @@ createQuestion({
     university: "puc-sp",
     year: 2017,
     text: {
-      principal: "Um veículo percorre a distância entre duas cidades de tal forma que, quando percorre a primeira metade desse trajeto com velocidade constante e igual a 15 m/s, gasta 2h a mais do que quando o percorre, também com velocidade constante e igual a 25 m/s. A segunda metade desse trajeto é sempre percorrido com velocidade constante e igual à média aritmética das duas velocidades anteriores. Nestas condições, quando o veículo percorrer a primeira metade do trajeto com velocidade constante de 25 m/s, a velocidade média, em km/h, ao longo de todo o trajeto, a distância, em km, entre as cidades e o tempo gasto, em h, na primeira metade do trajeto quando a velocidade vale 15 m/s valem, respectivamente,",
+      principal: "Um veículo percorre a distância entre duas cidades de tal forma que, quando percorre a primeira metade desse trajeto com velocidade constante e igual a 15 $m/s$, gasta 2h a mais do que quando o percorre, também com velocidade constante e igual a 25 $m/s$. A segunda metade desse trajeto é sempre percorrido com velocidade constante e igual à média aritmética das duas velocidades anteriores. Nestas condições, quando o veículo percorrer a primeira metade do trajeto com velocidade constante de 25 $m/s$, a velocidade média, em $km/h$, ao longo de todo o trajeto, a distância, em km, entre as cidades e o tempo gasto, em h, na primeira metade do trajeto quando a velocidade vale 15 $m/s$ valem, respectivamente,",
       subItens: []
     },
     options: [
@@ -263,7 +263,7 @@ createQuestion({
     university: "puc-sp",
     year: 2017,
     text: {
-      principal: "Uma xícara contém 30mL de café a 60°C. Qual a quantidade, em mL, de leite frio, cuja temperatura é de 10°C, que devemos despejar nessa xícara para obtermos uma mistura de café com leite a 40°C? Considere as trocas de calor apenas entre o café e o leite, seus calores específicos iguais e suas densidades iguais a 1g/cm³.",
+      principal: "Uma xícara contém 30mL de café a 60°C. Qual a quantidade, em mL, de leite frio, cuja temperatura é de 10°C, que devemos despejar nessa xícara para obtermos uma mistura de café com leite a 40°C? Considere as trocas de calor apenas entre o café e o leite, seus calores específicos iguais e suas densidades iguais a $1g/cm$³.",
       subItens: []
     },
     options: [
@@ -343,7 +343,7 @@ createQuestion({
     university: "puc-sp",
     year: 2017,
     text: {
-      principal: "Um aluno resolve colocar em prática seus conhecimentos de Física enquanto brinca com os colegas em um balanço de corda única de comprimento L (figura 1). Ele deseja que, ao passar pelo ponto mais baixo da trajetória, a tração na corda corresponda a 3/2 de seu peso. Após alguns cálculos, ele, depois de sentar-se no balanço, pede para que um colega posicione o balanço conforme indicado na figura 2. Considerando desprezíveis todas as formas de atrito e que, no início do movimento, o balanço está com a corda esticada, parte do repouso e descreve uma trajetória circular, qual o ângulo α encontrado por ele? [IMAGENS: Figura 1 - Vista frontal de um balanço com uma pessoa. Figura 2 - Vista lateral do balanço, indicando o ângulo α com a vertical na posição inicial e a altura h. TABELA: Valores de α e seu seno correspondente.]",
+      principal: "Um aluno resolve colocar em prática seus conhecimentos de Física enquanto brinca com os colegas em um balanço de corda única de comprimento L (figura 1). Ele deseja que, ao passar pelo ponto mais baixo da trajetória, a tração na corda corresponda a $3/2$ de seu peso. Após alguns cálculos, ele, depois de sentar-se no balanço, pede para que um colega posicione o balanço conforme indicado na figura 2. Considerando desprezíveis todas as formas de atrito e que, no início do movimento, o balanço está com a corda esticada, parte do repouso e descreve uma trajetória circular, qual o ângulo α encontrado por ele? [IMAGENS: Figura 1 - Vista frontal de um balanço com uma pessoa. Figura 2 - Vista lateral do balanço, indicando o ângulo α com a vertical na posição inicial e a altura h. TABELA: Valores de α e seu seno correspondente.]",
       subItens: []
     },
     options: [
@@ -483,7 +483,7 @@ createQuestion({
     university: "puc-sp",
     year: 2017,
     text: {
-      principal: "Leia este trecho de entrevista para responder às questões 25 e 26. \"Nada pode justificar os atentados, mas temos que entender por que esses franceses se tornaram terroristas, para não deixar outros de nossos filhos caírem nessa barbaridade. Estamos colocando R$ 1,5 trilhão na segurança antiterrorista, que é necessária, mas deveríamos investir também nos guetos, que abrigam quase só imigrantes e filhos de imigrantes nascidos na França. Há guetos com quatro mil apartamentos, onde se vive em condições horríveis. Essas construções foram um erro e temos que assumir isso.\" (Revista BRASILEIROS. Uma consulesa além dos brioches. São Paulo: Brasileiros Editora, n° 91, fevereiro/2015. p. 38) A entrevista é de uma consulesa da França no Brasil. O tema são os atentados terroristas na França perpetrados por franceses filhos de imigrantes. Sobre esse tema e a inserção dos imigrantes na França é correto dizer que",
+      principal: "Leia este trecho de entrevista para responder às questões 25 e 26. \"Nada pode justificar os atentados, mas temos que entender por que esses franceses se tornaram terroristas, para não deixar outros de nossos filhos caírem nessa barbaridade. Estamos colocando R$ 1,5 trilhão na segurança antiterrorista, que é necessária, mas deveríamos investir também nos guetos, que abrigam quase só imigrantes e filhos de imigrantes nascidos na França. Há guetos com quatro mil apartamentos, onde se vive em condições horríveis. Essas construções foram um erro e temos que assumir isso.\" (Revista BRASILEIROS. Uma consulesa além dos brioches. São Paulo: Brasileiros Editora, n° 91, $fevereiro/2015$. p. 38) A entrevista é de uma consulesa da França no Brasil. O tema são os atentados terroristas na França perpetrados por franceses filhos de imigrantes. Sobre esse tema e a inserção dos imigrantes na França é correto dizer que",
       subItens: []
     },
     options: [
@@ -523,7 +523,7 @@ createQuestion({
     university: "puc-sp",
     year: 2017,
     text: {
-      principal: "\"Os campos de altitude da Serra Geral, no sul do Brasil, são encontrados sobre platôs cada vez mais altos, à medida que avançam para a borda leste, onde a serra de repente despenca em imensos cânions.\" (Gilberto STAM. A riqueza dos campos de altitude. São Paulo: Pesquisa FAPESP, 01/2016. p. 61) As formações vegetais que se desenvolvem nesse ambiente guardam estreita relação com o relevo e com as características climáticas. Sobre elas pode ser dito que [IMAGEM: Aspectos da Serra Geral, Sul do Brasil, mostrando uma paisagem de campos de altitude.]",
+      principal: "\"Os campos de altitude da Serra Geral, no sul do Brasil, são encontrados sobre platôs cada vez mais altos, à medida que avançam para a borda leste, onde a serra de repente despenca em imensos cânions.\" (Gilberto STAM. A riqueza dos campos de altitude. São Paulo: Pesquisa FAPESP, $01/2016$. p. 61) As formações vegetais que se desenvolvem nesse ambiente guardam estreita relação com o relevo e com as características climáticas. Sobre elas pode ser dito que [IMAGEM: Aspectos da Serra Geral, Sul do Brasil, mostrando uma paisagem de campos de altitude.]",
       subItens: []
     },
     options: [
@@ -1030,7 +1030,7 @@ createQuestion({
       "sua imagem pertence ao 3º quadrante do plano complexo.",
       "é imaginário puro.",
       "o módulo de z é igual a 4.",
-      "seu argumento é igual ao argumento do número complexo v = 1/2 - (√3/2)i."
+      "seu argumento é igual ao argumento do número complexo v = $1/2$ - (√$3/2$)i."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1043,7 +1043,7 @@ createQuestion({
     university: "puc-sp",
     year: 2017,
     text: {
-      principal: "O jornal Folha de S. Paulo publicou em 11 de outubro de 2016, a seguinte informação: [GRÁFICO: ATROPELAMENTOS - Probabilidade de lesão fatal em %. Eixo X: Velocidade da colisão em km/h (0 a 80). Eixo Y: Probabilidade de lesão fatal (%). Uma curva que mostra que a probabilidade de lesão fatal aumenta com a velocidade, com destaque para pontos de 20 km/h (~20%) e 50 km/h (~80%).] De acordo com as informações apresentadas, suponha que para uma velocidade de 35 km/h a probabilidade de lesão fatal seja de 5% e que para velocidades no intervalo [35;55] o gráfico obedeça a uma função do 1º grau. Nessas condições, se um motorista dirigindo a 55 km/h, quiser reduzir a probabilidade de lesão fatal por atropelamento à metade, ele terá que reduzir a sua velocidade em, aproximadamente,",
+      principal: "O jornal Folha de S. Paulo publicou em 11 de outubro de 2016, a seguinte informação: [GRÁFICO: ATROPELAMENTOS - Probabilidade de lesão fatal em %. Eixo X: Velocidade da colisão em $km/h$ (0 a 80). Eixo Y: Probabilidade de lesão fatal (%). Uma curva que mostra que a probabilidade de lesão fatal aumenta com a velocidade, com destaque para pontos de 20 $km/h$ (~20%) e 50 $km/h$ (~80%).] De acordo com as informações apresentadas, suponha que para uma velocidade de 35 $km/h$ a probabilidade de lesão fatal seja de 5% e que para velocidades no intervalo [35;55] o gráfico obedeça a uma função do 1º grau. Nessas condições, se um motorista dirigindo a 55 $km/h$, quiser reduzir a probabilidade de lesão fatal por atropelamento à metade, ele terá que reduzir a sua velocidade em, aproximadamente,",
       subItens: []
     },
     options: [
@@ -1203,7 +1203,7 @@ createQuestion({
     university: "puc-sp",
     year: 2017,
     text: {
-      principal: "Durante uma transformação química as concentrações das substâncias participantes foram determinadas ao longo do tempo. O gráfico a seguir resume os dados obtidos ao longo do experimento. [GRÁFICO: Concentração (mol/L) versus Tempo. Curvas A e B mostram diminuição de concentração ao longo do tempo, enquanto a curva C mostra aumento de concentração.] A respeito do experimento, foram feitas algumas afirmações: I. A e B são reagentes e C é o produto da reação estudada. II. A reação química estudada é corretamente representada pela equação: B + 2C → A. III. Não houve consumo completo dos reagentes, sendo atingido o equilíbrio químico. IV. A constante de equilíbrio dessa reação, no sentido da formação de A, nas condições do experimento é menor do que 1. Estão corretas apenas as afirmações:",
+      principal: "Durante uma transformação química as concentrações das substâncias participantes foram determinadas ao longo do tempo. O gráfico a seguir resume os dados obtidos ao longo do experimento. [GRÁFICO: Concentração ($mol/L$) versus Tempo. Curvas A e B mostram diminuição de concentração ao longo do tempo, enquanto a curva C mostra aumento de concentração.] A respeito do experimento, foram feitas algumas afirmações: I. A e B são reagentes e C é o produto da reação estudada. II. A reação química estudada é corretamente representada pela equação: B + 2C → A. III. Não houve consumo completo dos reagentes, sendo atingido o equilíbrio químico. IV. A constante de equilíbrio dessa reação, no sentido da formação de A, nas condições do experimento é menor do que 1. Estão corretas apenas as afirmações:",
       subItens: []
     },
     options: [
@@ -1274,7 +1274,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Literatura Portuguesa", "Realismo/Pós-Realismo"],
+    conteudo: ["Literatura Portuguesa", "$Realismo/P$ós-Realismo"],
     imageNames: []
 }),
 

@@ -29,7 +29,7 @@ createQuestion({
     options: [
       "geométrica: trata-se de uma linha demarcada por formas geográficas tais como muros, cercas ou vias de circulação.",
       "política: trata-se de uma zona definida por meio de disputas e acordos internacionais pelo direito de uso de um determi-nado território.",
-      "natural: trata-se de uma linha demarcada por meio de mar-cos geográficos tais como rios, mares, lagos, geleiras e mon-tanhas.",
+      "natural: trata-se de uma linha demarcada por meio de mar-$\\cos$ geográficos tais como rios, mares, lagos, geleiras e mon-tanhas.",
       "técnica: trata-se de uma zona definida por tratados e con-venções locais que protegem a soberania do Estado-nação."
     ],
     correctAnswer: 1,
@@ -43,7 +43,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Os dez maiores produtores de grãos de cacau no mundo em mil toneladas (2022)\nToneladas\n2500\n2000\n1500\n1000\n500\n0\nCosta do Marfim\nGana\nIndonésia\nEquador\nCamarões\nNigéria\nBrasil\nPeru\nRepública Dominicana\nColômbia\n(https://www.fao.org/faostat/es/#rankings/countries_by_commodity. Acesso em 23/05/2024.)\nOriginário do continente americano, o cacau pôde se difundir em regiões africanas com características naturais similares às en-contradas na América do Sul, de tal modo que, na atualidade, o continente africano se tornou o maior produtor e exportador de cacau do mundo, sendo elo fundamental dos circuitos espaciais de produção, distribuição e consumo do chocolate no mundo.\nIndique a principal região cacaueira do continente africano, associando-a às condições socioambientais de produção.",
+      principal: "Os dez maiores produtores de grãos de cacau no mundo em mil toneladas (2022)\nToneladas\n2500\n2000\n1500\n1000\n500\n0\nCosta do Marfim\nGana\nIndonésia\nEquador\nCamarões\nNigéria\nBrasil\nPeru\nRepública Dominicana\nColômbia\n(https://www.fao.org/faostat/es/#$rankings/countries_by_commodity$. Acesso em 23/05/2024.)\nOriginário do continente americano, o cacau pôde se difundir em regiões africanas com características naturais similares às en-contradas na América do Sul, de tal modo que, na atualidade, o continente africano se tornou o maior produtor e exportador de cacau do mundo, sendo elo fundamental dos circuitos espaciais de produção, distribuição e consumo do chocolate no mundo.\nIndique a principal região cacaueira do continente africano, associando-a às condições socioambientais de produção.",
       subItens: []
     },
     options: [
@@ -83,7 +83,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Leia o texto e observe a figura a seguir para responder às questões 5 e 6.\nOs meses de abril e maio de 2024 foram marcados tanto pela ocorrência de ondas de calor, que elevaram acima da média as temperaturas em estados das regiões Centro-Oeste, Sudeste e parte do Sul, quanto pela ocorrência de precipitações intensas e concentradas, que desencadearam alagamentos, inundações e movimentos gravitacionais de massa no Rio Grande do Sul. Es-sas regiões são marcadamente urbanizadas, abrigando grande contingente da população brasileira que vive em cidades, agora sujeitas à incidência de eventos extremos.\nFrente a esse cenário, são imprescindíveis, no enfrentamento dos problemas a curto, médio e longo prazos, as ações de planejamento territorial.\nCondições meteorológicas do Brasil em 09/05/2024\nLegenda:\nOndas de Calor:\nÁreas com temperaturas com mais de 5ºC acima da média\nÁreas com temperaturas entre 3º e 5°C acima da média\nSistemas Sinóticos Atuantes:\nFrente fria A) Alta Pressão B) Baixa Pressão\n(Elaboração COMVEST (2024), baseado nas seguintes fontes: https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/04/30/calor-espantoso-onda-nao-da-tregua-e-sp-pode--bater-recorde-historico.htm/; https://www.marinha.mil.br/chm/dados-do-smm-cartas--sinoticas/cartas-sinoticas. Acesso em 10/05/2024.)\nConsiderando os fenômenos meteorológicos atuantes no Brasil e tendo em vista as informações do texto e da figura anterior, pode-se afirmar que a ocorrência das",
+      principal: "Leia o texto e observe a figura a seguir para responder às questões 5 e 6.\nOs meses de abril e maio de 2024 foram marcados tanto pela ocorrência de ondas de calor, que elevaram acima da média as temperaturas em estados das regiões Centro-Oeste, Sudeste e parte do Sul, quanto pela ocorrência de precipitações intensas e concentradas, que desencadearam alagamentos, inundações e movimentos gravitacionais de massa no Rio Grande do Sul. Es-sas regiões são marcadamente urbanizadas, abrigando grande contingente da população brasileira que vive em cidades, agora sujeitas à incidência de eventos extremos.\nFrente a esse cenário, são imprescindíveis, no enfrentamento dos problemas a curto, médio e longo prazos, as ações de planejamento territorial.\nCondições meteorológicas do Brasil em 09/05/2024\nLegenda:\nOndas de Calor:\nÁreas com temperaturas com mais de 5ºC acima da média\nÁreas com temperaturas entre 3º e 5°C acima da média\nSistemas Sinóticos Atuantes:\nFrente fria A) Alta Pressão B) Baixa Pressão\n(Elaboração COMVEST (2024), baseado nas seguintes fontes: https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/04/30/calor-espantoso-onda-nao-da-tregua-e-sp-pode--bater-recorde-historico.htm/; https://www.marinha.mil.br/chm/dados-do-smm-cartas--$sinoticas/cartas$-sinoticas. Acesso em 10/05/2024.)\nConsiderando os fenômenos meteorológicos atuantes no Brasil e tendo em vista as informações do texto e da figura anterior, pode-se afirmar que a ocorrência das",
       subItens: []
     },
     options: [
@@ -143,14 +143,14 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Mudanças climáticas têm influenciado correntes de ar na alta atmosfera. Em particular, na região do Atlântico Norte, onde ventos fortes geralmente sopram de oeste para leste, os tem-pos de voos têm sofrido alterações. Em uma viagem de Balti-more (EUA) a Londres (Reino Unido), o tempo total de voo é igual a oito horas quando não há vento em toda a trajetória. Considere agora uma viagem subdividida em três trechos (A, B e C), conforme a figura a seguir. No trecho B, na direção de oeste para leste, há vento com velocidade constante de módulo |vec{v}_{vento, solo}| = 250 km/h, em relação ao solo.\nA\n\\nabla_{vento, solo} = 0\nB\n|\\nabla_{vento, solo} | = 250 km/h\nC\n\\nabla_{vento, solo} | = 0\nOESTE\nBaltimore\n2000 km\nLESTE\nLondres\nSendo, nos três trechos, o módulo da velocidade média do avião em relação ao vento |\\nabla_{avião, vento}| = 750 km/h, podemos afirmar que",
+      principal: "Mudanças climáticas têm influenciado correntes de ar na alta atmosfera. Em particular, na região do Atlântico Norte, onde ventos fortes geralmente sopram de oeste para leste, os tem-pos de voos têm sofrido alterações. Em uma viagem de Balti-more (EUA) a Londres (Reino Unido), o tempo total de voo é igual a oito horas quando não há vento em toda a trajetória. Considere agora uma viagem subdividida em três trechos (A, B e C), conforme a figura a seguir. No trecho B, na direção de oeste para leste, há vento com velocidade constante de módulo |vec{v}_{vento, solo}| = 250 $km/h$, em relação ao solo.\nA\n\\nabla_{vento, solo} = 0\nB\n|\\nabla_{vento, solo} | = 250 $km/h$\nC\n\\nabla_{vento, solo} | = 0\nOESTE\nBaltimore\n2000 km\nLESTE\nLondres\nSendo, nos três trechos, o módulo da velocidade média do avião em relação ao vento |\\nabla_{avião, vento}| = 750 $km/h$, podemos afirmar que",
       subItens: []
     },
     options: [
-      "o módulo da velocidade média do avião em relação ao solo no trecho B é |\\vec{v}_{avião, solo}| = 500 km/h, e o tempo de viagem no mesmo trecho é Δt = 4,0 h.",
-      "o módulo da velocidade média do avião em relação ao solo no trecho B é |\\vec{v}_{avião, solo}| = 500 km/h, e o tempo de viagem no mesmo trecho é Δt = 2,0 h.",
-      "o módulo da velocidade média do avião em relação ao solo no trecho B é |\\vec{v}_{avião, solo}| = 1000 km/h, e o tempo de viagem no mesmo trecho é Δt = 4,0 h.",
-      "o módulo da velocidade média do avião em relação ao solo no trecho B é |\\vec{v}_{avião, solo}| = 1000 km/h, e o tempo de viagem no mesmo trecho é Δt = 2,0 h."
+      "o módulo da velocidade média do avião em relação ao solo no trecho B é |$\\vec${v}_{avião, solo}| = 500 $km/h$, e o tempo de viagem no mesmo trecho é Δt = 4,0 h.",
+      "o módulo da velocidade média do avião em relação ao solo no trecho B é |$\\vec${v}_{avião, solo}| = 500 $km/h$, e o tempo de viagem no mesmo trecho é Δt = 2,0 h.",
+      "o módulo da velocidade média do avião em relação ao solo no trecho B é |$\\vec${v}_{avião, solo}| = 1000 $km/h$, e o tempo de viagem no mesmo trecho é Δt = 4,0 h.",
+      "o módulo da velocidade média do avião em relação ao solo no trecho B é |$\\vec${v}_{avião, solo}| = 1000 $km/h$, e o tempo de viagem no mesmo trecho é Δt = 2,0 h."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -167,10 +167,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "256,6 m/s.",
-      "1540 m/s.",
-      "3696 km/s.",
-      "5544 km/s."
+      "256,6 $m/s$.",
+      "1540 $m/s$.",
+      "3696 $km/s$.",
+      "5544 $km/s$."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -183,7 +183,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Ao longo da linha que une o centro da Terra ao da Lua (ver figura A), há um ponto P para o qual as forças gravitacionais da Terra, F_Terra, e da Lua, F_Lua, exercidas sobre uma sonda, têm módulos iguais e sentidos opostos. Isso significa que, no ponto P, essas duas forças se cancelam.\nTerra P Lua\n0 r 1\nd\n(Figura A)\nO gráfico da figura B representa a componente da aceleração resultante a das forças F_Terra e F_Lua ao longo da referida linha, sendo r a distância ao centro da Terra e d = 380 000 km a dis-tância Terra-Lua. Valores positivos de a indicam que o vetor aceleração aponta para a Lua, enquanto que valores negativos de a implicam que esse vetor aponta para a Terra.\n0,01\n0\n-0,01\na (m/s²)\n-0,02\n-0,03\n-0,04\n0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9\nr\nd\n(Figura B)\nO ponto P fica aproximadamente a que distância do centro da Lua?",
+      principal: "Ao longo da linha que une o centro da Terra ao da Lua (ver figura A), há um ponto P para o qual as forças gravitacionais da Terra, $F_Terra$, e da Lua, $F_Lua$, exercidas sobre uma sonda, têm módulos iguais e sentidos opostos. Isso significa que, no ponto P, essas duas forças se cancelam.\nTerra P Lua\n0 r 1\nd\n(Figura A)\nO gráfico da figura B representa a componente da aceleração resultante a das forças $F_Terra$ e $F_Lua$ ao longo da referida linha, sendo r a distância ao centro da Terra e d = 380 000 km a dis-tância Terra-Lua. Valores positivos de a indicam que o vetor aceleração aponta para a Lua, enquanto que valores negativos de a implicam que esse vetor aponta para a Terra.\n0,01\n0\n-0,01\na ($m/s$²)\n-0,02\n-0,03\n-0,04\n0,2 0,3 0,4 0,5 0,6 0,7 0,8 0,9\nr\nd\n(Figura B)\nO ponto P fica aproximadamente a que distância do centro da Lua?",
       subItens: []
     },
     options: [
@@ -263,7 +263,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "A área de um painel solar que gera uma potência elétrica P = 462 W é A = 2,5 m². A intensidade da radiação solar que incide no painel, ou seja, a potência da radiação solar por uni-dade de área do painel, é I_{solar} = 924 W/m². Qual é a eficiência do painel solar, ou seja, qual é a razão entre a energia elétrica gerada e a energia solar que incide no painel num dado inter-valo de tempo?",
+      principal: "A área de um painel solar que gera uma potência elétrica P = 462 W é A = 2,5 m². A intensidade da radiação solar que incide no painel, ou seja, a potência da radiação solar por uni-dade de área do painel, é I_{solar} = 924 $W/m$². Qual é a eficiência do painel solar, ou seja, qual é a razão entre a energia elétrica gerada e a energia solar que incide no painel num dado inter-valo de tempo?",
       subItens: []
     },
     options: [
@@ -303,7 +303,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "A imagem a seguir apresenta a transcrição de um diálogo em um vídeo publicado no Instagram.\nI used to have trouble talking to my younger patients.\nUnfortunately, the X-ray reveals a compound fracture.\nI don't understand.\nBut thanks to Duolingo, I learned fluent Gen Z!\nBro, I'll spill the tea: vibes are sus. These test results are not giving. Don't worry, we finna give your leg a high key glow up. No cap!\nGo off, bestie!\n(Adaptado de https://www.instagram.com/dhar.mann. Acesso em 12/04/2024.)\nNo diálogo, a principal característica da reformulação da fala da médica é a inserção de",
+      principal: "A imagem a seguir apresenta a transcrição de um diálogo em um vídeo publicado no Instagram.\nI used to have trouble talking to my younger patients.\nUnfortunately, the X-ray reveals a compound fracture.\nI don't understand.\nBut thanks to Duolingo, I learned fluent Gen Z!\nBro, I'll spill the tea: vibes are sus. These test results are not giving. Don't worry, we finna give your leg a high key glow up. No cap!\nGo off, bestie!\n(Adaptado de https://www.instagram.$com/dhar$.mann. Acesso em 12/04/2024.)\nNo diálogo, a principal característica da reformulação da fala da médica é a inserção de",
       subItens: []
     },
     options: [
@@ -403,7 +403,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Leia o resumo de uma pesquisa que, em 2021, já alertava para questões climáticas e fatores a elas relacionados.\nPolitics of attributing extreme events to climate change\nClimate change shapes weather events. However, describing it as the cause of disasters can be misleading, since disasters are caused by pre-existing fragilities and inequalities on the ground. Attribution is not neutral. Hence, analytic frames that attribute disaster to climate can divert attention from place-based vul-nerabilities and their sociopolitical causes. While politicians may blame climate change, the public may hold the government accountable for inadequate investments in flood or drought prevention. To be strategic and moral, framing choices must therefore be sensitive to context and to how the values implicit within analytic frames about the causes of disasters shape policy responses. Such sensitivity requires multicausal analysis of weather-linked disasters to reduce the damages. Through examples from around the world, especially Brazil, we discuss how and why climate-centric disaster framing can erase from view—and, thus, from policy agendas—the very socioeconomic and political factors that centrally cause vulnerability and suffering in weather extremes.\n(Adaptado de https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcc.750. Acesso em 15/05/2024.)\nQual alternativa expressa corretamente os argumentos dos au-tores do texto?",
+      principal: "Leia o resumo de uma pesquisa que, em 2021, já alertava para questões climáticas e fatores a elas relacionados.\nPolitics of attributing extreme events to climate change\nClimate change shapes weather events. However, describing it as the cause of disasters can be misleading, since disasters are caused by pre-existing fragilities and inequalities on the ground. Attribution is not neutral. Hence, analytic frames that attribute disaster to climate can divert attention from place-based vul-nerabilities and their sociopolitical causes. While politicians may blame climate change, the public may hold the government accountable for inadequate investments in flood or drought prevention. To be strategic and moral, framing choices must therefore be sensitive to context and to how the values implicit within analytic frames about the causes of disasters shape policy responses. Such sensitivity requires multicausal analysis of weather-linked disasters to reduce the damages. Through examples from around the world, especially Brazil, we discuss how and why climate-centric disaster framing can erase from view—and, thus, from policy agendas—the very socioeconomic and political factors that centrally cause vulnerability and suffering in weather extremes.\n(Adaptado de https://wires.onlinelibrary.wiley.com/doi/full/10.$1002/wcc$.750. Acesso em 15/05/2024.)\nQual alternativa expressa corretamente os argumentos dos au-tores do texto?",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Sócrates: - [...] Pois segundo entendo, no limite do cognoscível é que se avista, a custo, a ideia do Bem; e, uma vez avistada, compreende-se que ela é para todos a causa de quanto há de justo e belo; que no mundo visível, foi ela que criou a luz, da qual é senhora; e que no mundo inteligível, é ela a senhora da verdade e da inteligência, e que é preciso vê-la para se ser sen-sato na vida particular e pública.\nGlauco: - Concordo também, até onde sou capaz de seguir a tua imagem.\n(Adaptado de PLATÃO. A República. Lisboa: Fundação Calouste Gulbenkian, 517b6-c5.)\nO diálogo anterior aparece em uma passagem da obra A Re-pública, de Platão, trecho que ficou conhecido como \"o mito da caverna\". Sobre esse diálogo, assinale a alternativa correta.",
+      principal: "Sócrates: - [...] Pois segundo entendo, no limite do cognoscível é que se avista, a custo, a ideia do Bem; e, uma vez avistada, compreende-se que ela é para todos a causa de quanto há de justo e belo; que no mundo visível, foi ela que criou a luz, da qual é senhora; e que no mundo inteligível, é ela a senhora da verdade e da inteligência, e que é preciso vê-la para se ser $\\sin$-sato na vida particular e pública.\nGlauco: - Concordo também, até onde sou capaz de seguir a tua imagem.\n(Adaptado de PLATÃO. A República. Lisboa: Fundação Calouste Gulbenkian, 517b6-c5.)\nO diálogo anterior aparece em uma passagem da obra A Re-pública, de Platão, trecho que ficou conhecido como \"o mito da caverna\". Sobre esse diálogo, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -490,7 +490,7 @@ createQuestion({
       "Desde o século XIX, os estudiosos defendem que o conceito de \"cidadania\" e o de \"política\" na democracia ateniense eram frágeis, sendo pertinentes aos homens da elite.",
       "Estudiosos afirmam que, na democracia ateniense, a cida-dania e a política eram conceitos desvinculados; portanto, as mulheres atenienses estavam afastadas da vida pública.",
       "Desde os anos de 2000, os estudiosos passaram a reconhe-cer as mulheres da Antiguidade Clássica nascidas de pai e mãe atenienses como cidadãs plenas com direito ao voto.",
-      "Novas pesquisas debatem os conceitos de \"cidadania\" e de \"política\", bem como a relação desses conceitos com as mu-lheres atenienses que poderiam ser definidas como cidadãs."
+      "Novas pesquisas debatem os conceitos de \"cidadania\" e de \"política\", bem como a relação desses conceitos com as $\\mu$-lheres atenienses que poderiam ser definidas como cidadãs."
     ],
     correctAnswer: 3,
     materia: ["História"],
@@ -583,7 +583,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "A maioria dos países africanos tornaram-se independentes en-tre 1950 e 1975. Amílcar Cabral foi uma das lideranças que formularam projetos políticos para criar unidades nacionais no pós-independência. Ele havia nascido na Guiné-Bissau em 1924; depois de seu nascimento, sua família se mudou para Cabo Verde. Em 1945, obteve bolsa para estudar em Portu-gal; na Europa, entrou, então, em contato com as teorias do movimento da negritude, panafricanismo e marxismo. De volta à África em 1952, ajudou a fundar o Partido Africano para a Independência de Guiné e Cabo Verde (PAIGC, 1953), iniciando a luta armada contra a metrópole em 1963. Em um discurso, Cabral afirmou: \"No nosso Partido ninguém dividiu; pelo con-trário, cada dia nos unimos mais. Aqui não há papel, nem fula, nem mandinga, nem filhos de caboverdianos, nada disso.\"\n(Adaptado de MALACCO, F. Unidade nacional e unidade continental: uma discussão acerca dos projetos políticos de Amílcar Cabral e Kwame Nkrumah. Revista Ars Historica, 17, p. 78-100, jul/dez 2018.)\nCom base no excerto, marque a alternativa correta sobre o ideário nacional proposto por Amílcar Cabral e pelo movimento por ele liderado.",
+      principal: "A maioria dos países africanos tornaram-se independentes en-tre 1950 e 1975. Amílcar Cabral foi uma das lideranças que formularam projetos políticos para criar unidades nacionais no pós-independência. Ele havia nascido na Guiné-Bissau em 1924; depois de seu nascimento, sua família se mudou para Cabo Verde. Em 1945, obteve bolsa para estudar em Portu-gal; na Europa, entrou, então, em contato com as teorias do movimento da negritude, panafricanismo e marxismo. De volta à África em 1952, ajudou a fundar o Partido Africano para a Independência de Guiné e Cabo Verde (PAIGC, 1953), iniciando a luta armada contra a metrópole em 1963. Em um discurso, Cabral afirmou: \"No nosso Partido ninguém dividiu; pelo con-trário, cada dia nos unimos mais. Aqui não há papel, nem fula, nem mandinga, nem filhos de caboverdianos, nada disso.\"\n(Adaptado de MALACCO, F. Unidade nacional e unidade continental: uma discussão acerca dos projetos políticos de Amílcar Cabral e Kwame Nkrumah. Revista Ars Historica, 17, p. 78-100, $jul/dez$ 2018.)\nCom base no excerto, marque a alternativa correta sobre o ideário nacional proposto por Amílcar Cabral e pelo movimento por ele liderado.",
       subItens: []
     },
     options: [
@@ -643,7 +643,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Texto 1\nCONSTITUINTE\n(Charge do cartunista Henfil que trata da participação da sociedade civil na Assembleia Nacional Constituinte, convocada em 1985 e cujos trabalhos resultaram na Constituição de 1988. Disponível em: https://museudarepublica.museus.gov.br/com-32-anos-a-constituicao-brasileira-esta-disponivel-na-colecao-memoria-da-constituinte/. Acesso em 20/08/2024.)\nTexto 2 A reinvenção da democracia é um questionamento posto no Brasil há bastante tempo e leva em conta a necessidade de aprofundá-la e radicalizá-la, no sentido de estendê-la às rela-ções sociais no seu conjunto. A Constituição de 1988 é um mar-co dessa reinvenção, pois, ao considerar o direito à diferença, redefiniu a noção de cidadania. Não há como falar em igualdade se as diferenças persistirem e forem usadas como base para a desigualdade e a discriminação.\n(Adaptado de DAGNINO, E. Para retomar a reinvenção democrática: qual cidadania, qual participação?. Fórum Social Nordestino, Recife, p. 1, 2004).\nDe acordo com os textos 1 e 2, é correto afirmar que a Consti-tuinte de 1988 ajudou a reinventar a democracia brasileira, pois",
+      principal: "Texto 1\nCONSTITUINTE\n(Charge do cartunista Henfil que trata da participação da sociedade civil na Assembleia Nacional Constituinte, convocada em 1985 e cujos trabalhos resultaram na Constituição de 1988. Disponível em: https://museudarepublica.museus.gov.$br/com$-32-anos-a-constituicao-brasileira-esta-disponivel-na-colecao-memoria-da-constituinte/. Acesso em 20/08/2024.)\nTexto 2 A reinvenção da democracia é um questionamento posto no Brasil há bastante tempo e leva em conta a necessidade de aprofundá-la e radicalizá-la, no sentido de estendê-la às rela-ções sociais no seu conjunto. A Constituição de 1988 é um mar-co dessa reinvenção, pois, ao considerar o direito à diferença, redefiniu a noção de cidadania. Não há como falar em igualdade se as diferenças persistirem e forem usadas como base para a desigualdade e a discriminação.\n(Adaptado de DAGNINO, E. Para retomar a reinvenção democrática: qual cidadania, qual participação?. Fórum Social Nordestino, Recife, p. 1, 2004).\nDe acordo com os textos 1 e 2, é correto afirmar que a Consti-tuinte de 1988 ajudou a reinventar a democracia brasileira, pois",
       subItens: []
     },
     options: [
@@ -743,7 +743,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Enquanto o povo da cidade se sentia muito importante, eu, por minha vez, me sentia necessário. Eles, porém, não me viam como alguém necessário, me viam como alguém útil. Para eles eu era um servidor, um serviçal. Eu era útil, mas poderia ser substituído porque não era necessário. Percebi que o povo da cidade tinha relações de utilidade e importância, mas não tinha relações de necessidade. Para nós, a pessoa que é importante não é quase nada. É aquela pessoa que se acha ótima, mas não serve. O termo que tem valor para nós é necessário. Há pessoas que são necessárias e há pessoas que são importantes. As pes-soas que são importantes acham que as outras pessoas existem para servi-las. As pessoas necessárias são diferentes, são pes-soas que fazem falta. Pessoas que precisam estar presentes, de quem se vai atrás.\n(SANTOS, Antônio Bispo dos. A terra dá, a terra quer. São Paulo: UBU/Piseagrama, p. 24, 2023.)\nConsiderando o ponto de vista apresentado no texto de Antô-nio Bispo dos Santos sobre os \"tipos de pessoa\", a personagem que fala nos quadrinhos de Wesley Samp pode ser caracteriza-da como alguém que",
+      principal: "Enquanto o povo da cidade se sentia muito importante, eu, por minha vez, me sentia necessário. Eles, porém, não me viam como alguém necessário, me viam como alguém útil. Para eles eu era um servidor, um serviçal. Eu era útil, mas poderia ser substituído porque não era necessário. Percebi que o povo da cidade tinha relações de utilidade e importância, mas não tinha relações de necessidade. Para nós, a pessoa que é importante não é quase nada. É aquela pessoa que se acha ótima, mas não serve. O termo que tem valor para nós é necessário. Há pessoas que são necessárias e há pessoas que são importantes. As pes-soas que são importantes acham que as outras pessoas existem para servi-las. As pessoas necessárias são diferentes, são pes-soas que fazem falta. Pessoas que precisam estar presentes, de quem se vai atrás.\n(SANTOS, Antônio Bispo dos. A terra dá, a terra quer. São Paulo: $UBU/Piseagrama$, p. 24, 2023.)\nConsiderando o ponto de vista apresentado no texto de Antô-nio Bispo dos Santos sobre os \"tipos de pessoa\", a personagem que fala nos quadrinhos de Wesley Samp pode ser caracteriza-da como alguém que",
       subItens: []
     },
     options: [
@@ -847,7 +847,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "pelo par \"olheiras/abraço”, o medo feminino diante dos problemas econômicos e ecológicos do Sul Global.",
+      "pelo par \"$olheiras/abra$ço”, o medo feminino diante dos problemas econômicos e ecológicos do Sul Global.",
       "pelo par \"espelho/águas\", o narcisismo feminino em um ambiente sociocultural altamente desigual.",
       "pela relação entre as águas e as lágrimas, a submissão fe-minina diante dos problemas econômicos e ecológicos do Sul Global.",
       "pela relação entre as águas e as lágrimas, o desamparo fe-minino em um ambiente sociocultural altamente desigual."
@@ -923,7 +923,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "O texto e o gráfico a seguir foram adaptados do documento \"Notas sobre o Brasil no PISA 2022\", do INEP/MEC: No Brasil, 27% dos estudantes atingiram pelo menos o Nível 2 de proficiência em matemática, percentagem significativamen-te menor do que a média dos estudantes entre os países da OCDE, que é de 69%. No mínimo, esses estudantes podem interpretar e reconhecer, sem instruções diretas, como uma si-tuação simples pode ser representada matematicamente (por exemplo, comparar a distância total de duas rotas alternativas ou converter preços em uma moeda diferente).\nAlunos de baixo desempenho (pontuação abaixo do Nível 2)\nAlunos de alto desempenho (pontuação no Nível 5 ou superior)\nBrasil\nMatemática\nMédia\nOCDE\n31\n9\nBrasil\nCiências\n50\n2\nMédia\nOCDE\n26\n7\nBrasil\nLeitura\nMédia\nOCDE\n55\n7\n24\n0%\n25%\n50%\n75%\n100%\nConsiderando o texto e o gráfico – que tratam do desempenho dos estudantes brasileiros no PISA 2022 –, é correto afirmar que o percentual de alunos do Brasil",
+      principal: "O texto e o gráfico a seguir foram adaptados do documento \"Notas sobre o Brasil no PISA 2022\", do $INEP/MEC$: No Brasil, 27% dos estudantes atingiram pelo menos o Nível 2 de proficiência em matemática, percentagem significativamen-te menor do que a média dos estudantes entre os países da OCDE, que é de 69%. No mínimo, esses estudantes podem interpretar e reconhecer, sem instruções diretas, como uma si-tuação simples pode ser representada matematicamente (por exemplo, comparar a distância total de duas rotas alternativas ou converter preços em uma moeda diferente).\nAlunos de baixo desempenho (pontuação abaixo do Nível 2)\nAlunos de alto desempenho (pontuação no Nível 5 ou superior)\nBrasil\nMatemática\nMédia\nOCDE\n31\n9\nBrasil\nCiências\n50\n2\nMédia\nOCDE\n26\n7\nBrasil\nLeitura\nMédia\nOCDE\n55\n7\n24\n0%\n25%\n50%\n75%\n100%\nConsiderando o texto e o gráfico – que tratam do desempenho dos estudantes brasileiros no PISA 2022 –, é correto afirmar que o percentual de alunos do Brasil",
       subItens: []
     },
     options: [
@@ -947,10 +947,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "868/2025",
-      "289/2025",
-      "675/2025",
-      "951/2025"
+      "$868/2025$",
+      "$289/2025$",
+      "$675/2025$",
+      "$951/2025$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -983,14 +983,14 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "As funções trigonométricas cos(x) e sen(x) são muito estuda-das no Ensino Médio. A exposição deste importante conteúdo costuma contar, nas aulas, com a apresentação de gráficos e tabelas que expõem em arcos – chamados \"arcos notáveis\", como por exemplo π/3, π/4 e π/6 – os valores dessas funções. É possível, no entanto, calcular, em outros arcos, os valores destas funções, utilizando algumas identidades trigonométri-cas. Considerando a relação cos(x/2) = √(1+cos(x)) / 2 e a iden-tidade fundamental da trigonometria, é possível afirmar que o valor de sen(π/12) é",
+      principal: "As funções trigonométricas $\\cos$(x) e $\\sin$(x) são muito estuda-das no Ensino Médio. A exposição deste importante conteúdo costuma contar, nas aulas, com a apresentação de gráficos e tabelas que expõem em arcos – chamados \"arcos notáveis\", como por exemplo π/3, π/4 e π/6 – os valores dessas funções. É possível, no entanto, calcular, em outros arcos, os valores destas funções, utilizando algumas identidades trigonométri-cas. Considerando a relação $\\cos$($x/2$) = √(1+$\\cos$(x)) / 2 e a iden-tidade fundamental da trigonometria, é possível afirmar que o valor de $\\sin$(π/12) é",
       subItens: []
     },
     options: [
-      "√2-√3/2",
-      "√2+√3/2",
-      "√3-√3/2",
-      "√3+√3/2"
+      "√2-√$3/2$",
+      "√2+√$3/2$",
+      "√3-√$3/2$",
+      "√3+√$3/2$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1003,14 +1003,14 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Uma lanchonete recebeu uma encomenda de 65 copos de su-cos de frutas. Até 3 sabores podem ser misturados dentro do copo, sendo eles: abacaxi, laranja e morango.\nO diagrama a seguir representa algumas quantidades produzi-das de cada tipo de suco. Por exemplo, foram pedidos 10 sucos exclusivamente de abacaxi e 6 sucos usando somente laranja e morango.\nAbacaxi\nLaranja\n? 10\n15\n7\n? 6\n8\nMorango\nOs sucos foram colocados em copos não rotulados. Se uma pes-soa escolher um copo ao acaso, qual a probabilidade de que ela tome um suco que tenha exatamente dois sabores?",
+      principal: "Uma lanchonete recebeu uma encomenda de 65 copos de su-$\\cos$ de frutas. Até 3 sabores podem ser misturados dentro do copo, sendo eles: abacaxi, laranja e morango.\nO diagrama a seguir representa algumas quantidades produzi-das de cada tipo de suco. Por exemplo, foram pedidos 10 sucos exclusivamente de abacaxi e 6 sucos usando somente laranja e morango.\nAbacaxi\nLaranja\n? 10\n15\n7\n? 6\n8\nMorango\nOs sucos foram colocados em copos não rotulados. Se uma pes-soa escolher um copo ao acaso, qual a probabilidade de que ela tome um suco que tenha exatamente dois sabores?",
       subItens: []
     },
     options: [
-      "5/13.",
-      "1/10.",
-      "7/22.",
-      "2/7."
+      "$5/13$.",
+      "$1/10$.",
+      "$7/22$.",
+      "$2/7$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1087,10 +1087,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "121/20.",
-      "111/20.",
-      "102/15.",
-      "98/15."
+      "$121/20$.",
+      "$111/20$.",
+      "$102/15$.",
+      "$98/15$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1103,7 +1103,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Seja (a_n)_(n∈N) = (a₁, a₂, a₃,...) uma progressão aritmética de razão r e seja (S1, S2, S3,...) a sequência definida por S_n = a₁ + ... + a_n, isto é, o seu n-ésimo termo é a soma dos n primeiros termos da sequência (a_n)_(n∈N). Sabendo que 168, 220 e 279 são termos consecutivos da sequência (S_n)_(n∈N), a razão da progressão aritmé-tica (a_n)_(n∈N) é:",
+      principal: "Seja ($a_n$)_(n∈N) = (a₁, a₂, a₃,...) uma progressão aritmética de razão r e seja (S1, S2, S3,...) a sequência definida por $S_n$ = a₁ + ... + $a_n$, isto é, o seu n-ésimo termo é a soma dos n primeiros termos da sequência ($a_n$)_(n∈N). Sabendo que 168, 220 e 279 são termos consecutivos da sequência ($S_n$)_(n∈N), a razão da progressão aritmé-tica ($a_n$)_(n∈N) é:",
       subItens: []
     },
     options: [
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "A poluição de rios, lagos e lagoas é um dos grandes problemas enfrentados pela sociedade moderna. Ao longo das últimas dé-cadas, vários mecanismos têm sido utilizados para minimizar os danos causados por ela. Uma indústria despeja numa lagoa, de forma indevida, água contaminada por um poluente a uma certa taxa. Dependendo da vazão da lagoa e da concentração do poluente, é possível verificar que a quantidade total desse contaminante na lagoa num tempo t, denotada por Q(t), é dada por Q(t) = 20 + 2 sen( πt ) – 4 cos(πt), em que t representa o tempo medido em anos e Q(t) é medido em quilos. O gráfico que melhor representa a função Q(t), ou seja, a quantidade total do poluente na lagoa num tempo t é:\n25\n20\n15\n10\n5\n0\n2\n4\n6\n8\nt\n25\n20\n15\n10\n5\n0\n2\n4\n6\n8\nt\n25\n20\n15\n10\n5\n0\n2\n4\n6\n8\nt\n25\n20\n15\n10\n5\n0\n2\n4\n6\n8\nt",
+      principal: "A poluição de rios, lagos e lagoas é um dos grandes problemas enfrentados pela sociedade moderna. Ao longo das últimas dé-cadas, vários mecanismos têm sido utilizados para minimizar os danos causados por ela. Uma indústria despeja numa lagoa, de forma indevida, água contaminada por um poluente a uma certa taxa. Dependendo da vazão da lagoa e da concentração do poluente, é possível verificar que a quantidade total desse contaminante na lagoa num tempo t, denotada por Q(t), é dada por Q(t) = 20 + 2 $\\sin$( πt ) – 4 $\\cos$(πt), em que t representa o tempo medido em anos e Q(t) é medido em quilos. O gráfico que melhor representa a função Q(t), ou seja, a quantidade total do poluente na lagoa num tempo t é:\n25\n20\n15\n10\n5\n0\n2\n4\n6\n8\nt\n25\n20\n15\n10\n5\n0\n2\n4\n6\n8\nt\n25\n20\n15\n10\n5\n0\n2\n4\n6\n8\nt\n25\n20\n15\n10\n5\n0\n2\n4\n6\n8\nt",
       subItens: []
     },
     options: [
@@ -1167,10 +1167,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "A cor verde, se usada tanto na bicicleta quanto na roupa da ciclista, estaria de acordo com outros elementos presentes no conjunto bicicleta/ciclista. A concepção da ciclista sobre transição energética está correta.",
-      "A cor verde, se usada tanto na bicicleta quanto na roupa da ciclista, estaria de acordo com outros elementos presentes no conjunto bicicleta/ciclista. A concepção da ciclista sobre transição energética está incorreta.",
-      "A cor cinza, se usada tanto na bicicleta quanto na roupa da ciclista, estaria de acordo com outros elementos presentes no conjunto bicicleta/ciclista. A concepção da ciclista sobre transição energética está correta.",
-      "A cor cinza, se usada tanto na bicicleta quanto na roupa da ciclista, estaria de acordo com outros elementos presentes no conjunto bicicleta/ciclista. A concepção da ciclista sobre transição energética está incorreta."
+      "A cor verde, se usada tanto na bicicleta quanto na roupa da ciclista, estaria de acordo com outros elementos presentes no conjunto $bicicleta/ciclista$. A concepção da ciclista sobre transição energética está correta.",
+      "A cor verde, se usada tanto na bicicleta quanto na roupa da ciclista, estaria de acordo com outros elementos presentes no conjunto $bicicleta/ciclista$. A concepção da ciclista sobre transição energética está incorreta.",
+      "A cor cinza, se usada tanto na bicicleta quanto na roupa da ciclista, estaria de acordo com outros elementos presentes no conjunto $bicicleta/ciclista$. A concepção da ciclista sobre transição energética está correta.",
+      "A cor cinza, se usada tanto na bicicleta quanto na roupa da ciclista, estaria de acordo com outros elementos presentes no conjunto $bicicleta/ciclista$. A concepção da ciclista sobre transição energética está incorreta."
     ],
     correctAnswer: 1,
     materia: ["Arte"],
@@ -1203,7 +1203,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Para a safra de 2023/2024, prevê-se uma produção de 34 bi-lhões de litros de etanol, com geração de 408 bilhões de litros de vinhaça, subproduto de alto teor de matéria orgânica. Nas últimas décadas, visando à sustentabilidade, o emprego da vi-nhaça in natura evoluiu: seu descarte direto em rios e em áreas de sacrifício deu lugar à fertirrigação direta (devido ao alto teor de potássio do subproduto). A partir de 2015, empregando bio-digestores anaeróbicos, a vinhaça in natura passou a ser con-vertida em biogás, o qual, após purificação, é denominado gás natural renovável. Em média, 1 m³ de vinhaça produz até 14 m³ de biogás, e o subproduto desse processo é a vinhaça líquida biodigerida, que continua sendo utilizada na fertirrigação. Em vista dessas informações, pode-se concluir que a sustentabi-lidade do processo de biodigestão da vinhaça in natura é devida à geração de energia renovável a partir da queima do",
+      principal: "Para a safra de $2023/2024$, prevê-se uma produção de 34 bi-lhões de litros de etanol, com geração de 408 bilhões de litros de vinhaça, subproduto de alto teor de matéria orgânica. Nas últimas décadas, visando à sustentabilidade, o emprego da vi-nhaça in natura evoluiu: seu descarte direto em rios e em áreas de sacrifício deu lugar à fertirrigação direta (devido ao alto teor de potássio do subproduto). A partir de 2015, empregando bio-digestores anaeróbicos, a vinhaça in natura passou a ser con-vertida em biogás, o qual, após purificação, é denominado gás natural renovável. Em média, 1 m³ de vinhaça produz até 14 m³ de biogás, e o subproduto desse processo é a vinhaça líquida biodigerida, que continua sendo utilizada na fertirrigação. Em vista dessas informações, pode-se concluir que a sustentabi-lidade do processo de biodigestão da vinhaça in natura é devida à geração de energia renovável a partir da queima do",
       subItens: []
     },
     options: [
@@ -1243,14 +1243,14 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "A bula do medicamento genérico \"cloridrato de venlafaxina” informa apresentações de cápsulas de liberação controlada, cada uma contendo 42,4 mg dessa substância, o que corres-ponde a 37,5 mg de venlafaxina neutra. O cloridrato de venlafaxina corresponde à molécula venlafaxina neutra associada ao HCl. Isso confere ao cloridrato de venlafaxina uma massa molar e uma solubilidade maiores em água (quando compara-do com a venlafaxina neutra). Considerando essas informações, pode-se afirmar que a cada molécula de venlafaxina neutra se associa(m) Dado: massa molar do HCl = 36,5 g/mol.",
+      principal: "A bula do medicamento genérico \"cloridrato de venlafaxina” informa apresentações de cápsulas de liberação controlada, cada uma contendo 42,4 mg dessa substância, o que corres-ponde a 37,5 mg de venlafaxina neutra. O cloridrato de venlafaxina corresponde à molécula venlafaxina neutra associada ao HCl. Isso confere ao cloridrato de venlafaxina uma massa molar e uma solubilidade maiores em água (quando compara-do com a venlafaxina neutra). Considerando essas informações, pode-se afirmar que a cada molécula de venlafaxina neutra se associa(m) Dado: massa molar do HCl = 36,5 $g/mol$.",
       subItens: []
     },
     options: [
-      "uma molécula de HCl, então a massa molar da venlafaxina neutra é de aproximadamente 140 g/mol.",
-      "uma molécula de HCl, então a massa molar da venlafaxina neutra é de aproximadamente 279 g/mol.",
-      "duas moléculas de HCl, então a massa molar da venlafaxina neutra é de aproximadamente 279 g/mol.",
-      "duas moléculas de HCl, então a massa molar da venlafaxina neutra é de aproximadamente 140 g/mol."
+      "uma molécula de HCl, então a massa molar da venlafaxina neutra é de aproximadamente 140 $g/mol$.",
+      "uma molécula de HCl, então a massa molar da venlafaxina neutra é de aproximadamente 279 $g/mol$.",
+      "duas moléculas de HCl, então a massa molar da venlafaxina neutra é de aproximadamente 279 $g/mol$.",
+      "duas moléculas de HCl, então a massa molar da venlafaxina neutra é de aproximadamente 140 $g/mol$."
     ],
     correctAnswer: 1,
     materia: ["Química"],
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "No combate a arboviroses – tais como dengue, zika e chicungu-nha -, a ação de possíveis fármacos antivirais tem sido avaliada por pesquisadores brasileiros. Um aspecto fundamental nesse estudo é verificar o tempo que esses fármacos permanecem ati-vos no organismo, porque se um fármaco funciona bem com uma estrutura química, e se essa se modifica rapidamente, en-tão o fármaco pode deixar de ser ativo. Compostos de platina que se mostraram eficazes contra arboviroses foram, então, avaliados quanto à velocidade de troca de moléculas de dime-tilsulfóxido (DMSO) – presentes em suas estruturas originais – por moléculas de DMSO deuterado (DMSO-d6), em solução. Os resultados de concentrações em função do tempo para as diferentes espécies em solução são apresentados na figura a se-guir. Cada traçado corresponde a uma espécie (não identificada na figura).\n0.0250\n0.0225\n0.0200\n0.0175\n0.0150\n0.0125\n0.0100\n0.0075\nConcentração de DMSO (mol/L)\n0.0050\n0.0025\n0\n-DMSO ligado à platina versus DMSO livre em solução para PtL1\n-DMSO ligado à platina versus DMSO livre em solução para PtL2\n-DMSO ligado à platina versus DMSO livre em solução para PtL3\n0 1800 3600 5400 7200 9000 10800 12600 14400\nTempo (s)\nConsiderando que quanto menor a velocidade de troca, maior é a eficiência do fármaco, pode-se concluir que",
+      principal: "No combate a arboviroses – tais como dengue, zika e chicungu-nha -, a ação de possíveis fármacos antivirais tem sido avaliada por pesquisadores brasileiros. Um aspecto fundamental nesse estudo é verificar o tempo que esses fármacos permanecem ati-vos no organismo, porque se um fármaco funciona bem com uma estrutura química, e se essa se modifica rapidamente, en-tão o fármaco pode deixar de ser ativo. Compostos de platina que se mostraram eficazes contra arboviroses foram, então, avaliados quanto à velocidade de troca de moléculas de dime-tilsulfóxido (DMSO) – presentes em suas estruturas originais – por moléculas de DMSO deuterado (DMSO-d6), em solução. Os resultados de concentrações em função do tempo para as diferentes espécies em solução são apresentados na figura a se-guir. Cada traçado corresponde a uma espécie (não identificada na figura).\n0.0250\n0.0225\n0.0200\n0.0175\n0.0150\n0.0125\n0.0100\n0.0075\nConcentração de DMSO ($mol/L$)\n0.0050\n0.0025\n0\n-DMSO ligado à platina versus DMSO livre em solução para PtL1\n-DMSO ligado à platina versus DMSO livre em solução para PtL2\n-DMSO ligado à platina versus DMSO livre em solução para PtL3\n0 1800 3600 5400 7200 9000 10800 12600 14400\nTempo (s)\nConsiderando que quanto menor a velocidade de troca, maior é a eficiência do fármaco, pode-se concluir que",
       subItens: []
     },
     options: [
@@ -1283,7 +1283,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Os repelentes tópicos para a pele foram projetados para pro-teger - por contato ou à pequena distância - contra picadas de insetos. Além desses, há os repelentes ditos \"espaciais\", compostos cuja ação repelente é garantida para distâncias um pouco maiores. Um repelente espacial cria uma zona livre de mosquitos causadores de arboviroses. Óleo de cravo, icaridina e transflutrina foram então testados para a prevenção contra fêmeas do mosquito Aedes aegypti, que são as responsáveis pela transmissão dessas doenças. Os resultados desses testes são mostrados na figura a seguir.\nTransflutrina (repelência)\nIcaradina (repelência)\nÓleo de cravo (repelência)\nTransflutrina (mortalidade após 24 h)\nIcaradina (mortalidade após 24 h)\nÓleo de cravo (mortalidade após 24 h)\n100\n80\n60\n40\n20\n0\n0.001 mg 0.003 mg 0.01 mg 0.03 mg 0.1 mg 0.3 mg 1 mg 3 mg 6 mg 15 mg 30 mg 60 mg\nEfeito Repelente\nEfeito Inseticida\nConcentração (mg de princípio ativo/80 L)\nCom base nos resultados experimentais, é correto afirmar que, na faixa considerada,",
+      principal: "Os repelentes tópicos para a pele foram projetados para pro-teger - por contato ou à pequena distância - contra picadas de insetos. Além desses, há os repelentes ditos \"espaciais\", compostos cuja ação repelente é garantida para distâncias um pouco maiores. Um repelente espacial cria uma zona livre de mosquitos causadores de arboviroses. Óleo de cravo, icaridina e transflutrina foram então testados para a prevenção contra fêmeas do mosquito Aedes aegypti, que são as responsáveis pela transmissão dessas doenças. Os resultados desses testes são mostrados na figura a seguir.\nTransflutrina (repelência)\nIcaradina (repelência)\nÓleo de cravo (repelência)\nTransflutrina (mortalidade após 24 h)\nIcaradina (mortalidade após 24 h)\nÓleo de cravo (mortalidade após 24 h)\n100\n80\n60\n40\n20\n0\n0.001 mg 0.003 mg 0.01 mg 0.03 mg 0.1 mg 0.3 mg 1 mg 3 mg 6 mg 15 mg 30 mg 60 mg\nEfeito Repelente\nEfeito Inseticida\nConcentração (mg de princípio $ativo/80$ L)\nCom base nos resultados experimentais, é correto afirmar que, na faixa considerada,",
       subItens: []
     },
     options: [
@@ -1303,7 +1303,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Rosana Paulino é uma artista visual brasileira e suas obras têm foco nas questões sociais, étnicas e de gênero. A obra a se-guir foi exposta na 35ª Bienal de São Paulo (2023) e promove a integração da arte com a natureza brasileira, retratando um importante ecossistema costeiro.\n(Adaptado de https://www.rosanapaulino.com.br/blank-5. Acesso em 02/04/2024.)\nTendo em vista seus conhecimentos sobre biologia e conside-rando a obra apresentada, é correto afirmar que",
+      principal: "Rosana Paulino é uma artista visual brasileira e suas obras têm foco nas questões sociais, étnicas e de gênero. A obra a se-guir foi exposta na 35ª Bienal de São Paulo (2023) e promove a integração da arte com a natureza brasileira, retratando um importante ecossistema costeiro.\n(Adaptado de https://www.rosanapaulino.com.$br/blank$-5. Acesso em 02/04/2024.)\nTendo em vista seus conhecimentos sobre biologia e conside-rando a obra apresentada, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -1323,7 +1323,7 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Em mulheres, ocorre a compactação e a inativação de um cro-mossomo X, formando uma estrutura pequena e densa, cha-mada de corpúsculo de Barr. Sabe-se que a inativação de um dos cromossomos X em embriões humanos é um processo fun-damental para sua viabilidade.\n(Adaptado de https://agencia.fapesp.br/inativacao-do-cromossomo-x-ocorre-mais-cedo--em-humanos. Acesso em 02/04/2024.)\nAssinale a alternativa que preenche corretamente as lacunas no excerto a seguir.\nEm humanos, o sexo é determinado pela presença dos cro-mossomos sexuais X e Y, que são considerados parcialmente (i) ______. A inativação de um cromossomo X é um processo aleatório e foi demonstrado que os (ii) ______ no corpús-culo de Barr são inativos, o que significa que eles não serão (iii) ______. A inativação do cromossomo X é um processo de controle epigenético, que molda o funcionamento do (iv) ______ sem alterá-lo, e iguala a atividade gênica das mulhe-res à dos homens.",
+      principal: "Em mulheres, ocorre a compactação e a inativação de um cro-mossomo X, formando uma estrutura pequena e densa, cha-mada de corpúsculo de Barr. Sabe-se que a inativação de um dos cromossomos X em embriões humanos é um processo fun-damental para sua viabilidade.\n(Adaptado de https://agencia.fapesp.$br/inativacao$-do-cromossomo-x-ocorre-mais-cedo--em-humanos. Acesso em 02/04/2024.)\nAssinale a alternativa que preenche corretamente as lacunas no excerto a seguir.\nEm humanos, o sexo é determinado pela presença dos cro-mossomos sexuais X e Y, que são considerados parcialmente (i) ______. A inativação de um cromossomo X é um processo aleatório e foi demonstrado que os (ii) ______ no corpús-culo de Barr são inativos, o que significa que eles não serão (iii) ______. A inativação do cromossomo X é um processo de controle epigenético, que molda o funcionamento do (iv) ______ sem alterá-lo, e iguala a atividade gênica das mulhe-res à dos homens.",
       subItens: []
     },
     options: [
@@ -1390,7 +1390,7 @@ createQuestion({
       "A deriva genética é um componente da especiação, levando a uma maior diversidade genética devido ao fluxo de genes entre populações.",
       "A seleção natural contribui para a adaptação ecológica tanto na presença como na ausência de isolamento geográfico entre populações.",
       "A especiação é induzida por barreiras de fluxo gênico entre populações, sendo resultante da seleção convergente base-ada na ecologia entre ambientes.",
-      "O isolamento geográfico é necessário para que ocorra a es-peciação, com as novas espécies ocupando nichos ecológi-cos distintos."
+      "O isolamento geográfico é necessário para que ocorra a es-peciação, com as novas espécies ocupando nichos ecológi-$\\cos$ distintos."
     ],
     correctAnswer: 1,
     materia: ["Biologia"],
@@ -1423,14 +1423,14 @@ createQuestion({
     university: "unicamp",
     year: 2025,
     text: {
-      principal: "Em 1913, Alfred Sturtevant – em seu estudo com Drosophila melanogaster (mosca-das-frutas) – estabeleceu o primeiro mapa genético capaz de determinar a posição relativa e a ordem de genes nessa espécie. O mapa genético do terceiro cromossomo da mosca mostra que os alelos da cor dos olhos (A/a), da cor do corpo (B/b) e das cerdas (C/c) estão ligados nessa sequência. Na figura a seguir, encontram-se as quantidades de gametas pro-duzidos por uma mosca macho, considerando apenas o terceiro cromossomo.\nA\na\nA\na\nB\nb\nB\nb\nIC\nC\nC\nC\n3453\n3453\n476\n476\ngametas\ngametas\ngametas\ngametas\nA\na\nA\na\nb\nB\nb\nB\nC\nC\nC\nIC\n6\n6\n134\n134\ngametas\ngametas\ngametas\ngametas\nEm vista das informações apresentadas, é correto afirmar que os cromossomos recombinantes apresentam",
+      principal: "Em 1913, Alfred Sturtevant – em seu estudo com Drosophila melanogaster (mosca-das-frutas) – estabeleceu o primeiro mapa genético capaz de determinar a posição relativa e a ordem de genes nessa espécie. O mapa genético do terceiro cromossomo da mosca mostra que os alelos da cor dos olhos ($A/a$), da cor do corpo ($B/b$) e das cerdas ($C/c$) estão ligados nessa sequência. Na figura a seguir, encontram-se as quantidades de gametas pro-duzidos por uma mosca macho, considerando apenas o terceiro cromossomo.\nA\na\nA\na\nB\nb\nB\nb\nIC\nC\nC\nC\n3453\n3453\n476\n476\ngametas\ngametas\ngametas\ngametas\nA\na\nA\na\nb\nB\nb\nB\nC\nC\nC\nIC\n6\n6\n134\n134\ngametas\ngametas\ngametas\ngametas\nEm vista das informações apresentadas, é correto afirmar que os cromossomos recombinantes apresentam",
       subItens: []
     },
     options: [
-      "crossing-over único. A distância entre os genes da cor dos olhos (A/a) e os da cor do corpo (B/b) é maior que a distância entre os genes da cor do corpo (B/b) e os das cerdas (C/c).",
-      "crossing-over único ou duplo. A distância entre os genes da cor dos olhos (A/a) e os da cor do corpo (B/b) é maior que a distância entre os genes da cor do corpo (B/b) e os das cerdas (C/c).",
-      "crossing-over único. A distância entre os genes da cor dos olhos (A/a) e os da cor do corpo (B/b) é menor que a dis-tância entre os genes da cor do corpo (B/b) e os das cerdas (C/c).",
-      "crossing-over único ou duplo. A distância entre os genes da cor dos olhos (A/a) e os da cor do corpo (B/b) é menor que a distância entre os genes da cor do corpo (B/b) e os das cerdas (C/c)."
+      "crossing-over único. A distância entre os genes da cor dos olhos ($A/a$) e os da cor do corpo ($B/b$) é maior que a distância entre os genes da cor do corpo ($B/b$) e os das cerdas ($C/c$).",
+      "crossing-over único ou duplo. A distância entre os genes da cor dos olhos ($A/a$) e os da cor do corpo ($B/b$) é maior que a distância entre os genes da cor do corpo ($B/b$) e os das cerdas ($C/c$).",
+      "crossing-over único. A distância entre os genes da cor dos olhos ($A/a$) e os da cor do corpo ($B/b$) é menor que a dis-tância entre os genes da cor do corpo ($B/b$) e os das cerdas ($C/c$).",
+      "crossing-over único ou duplo. A distância entre os genes da cor dos olhos ($A/a$) e os da cor do corpo ($B/b$) é menor que a distância entre os genes da cor do corpo ($B/b$) e os das cerdas ($C/c$)."
     ],
     correctAnswer: 3,
     materia: ["Biologia"],

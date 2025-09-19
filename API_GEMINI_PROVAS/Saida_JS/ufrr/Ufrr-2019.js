@@ -150,7 +150,7 @@ createQuestion({
     university: "ufrr",
     year: 2019,
     text: {
-      principal: "Um corpo de massa 10 kg encontra-se sobre uma mesa e a 80 cm do solo. Se tomarmos o solo como referência, a energia potencial gravitacional associada ao corpo é de: Dados: energia potencial gravitacional de referência no solo = 20 J; g= 10 m/s².",
+      principal: "Um corpo de massa 10 kg encontra-se sobre uma mesa e a 80 cm do solo. Se tomarmos o solo como referência, a energia potencial gravitacional associada ao corpo é de: Dados: energia potencial gravitacional de referência no solo = 20 J; g= 10 $m/s$².",
       subItens: []
     },
     options: [
@@ -171,15 +171,15 @@ createQuestion({
     university: "ufrr",
     year: 2019,
     text: {
-      principal: "Um bloco de massa M está apoiado em um plano inclinado conforme o desenho (imagem de um bloco em um plano inclinado com ângulo de 30°). O ângulo que o plano forma com a horizontal pode ser variado por meio de um mecanismo especial. O bloco começa a deslizar sobre o plano quando o ângulo atinge 30°. Considere que, no instante em o que o bloco começa a deslizar, o somatório das forças sobre ele é zero. Nessas condições, podemos afirmar que o valor do coeficiente de atrito estático entre o bloco e o plano é igual a: Dados: Sen 30° = 1/2; cos 30° = √3/2",
+      principal: "Um bloco de massa M está apoiado em um plano inclinado conforme o desenho (imagem de um bloco em um plano inclinado com ângulo de 30°). O ângulo que o plano forma com a horizontal pode ser variado por meio de um mecanismo especial. O bloco começa a deslizar sobre o plano quando o ângulo atinge 30°. Considere que, no instante em o que o bloco começa a deslizar, o somatório das forças sobre ele é zero. Nessas condições, podemos afirmar que o valor do coeficiente de atrito estático entre o bloco e o plano é igual a: Dados: $\\sin$ 30° = $1/2$; $\\cos$ 30° = √$3/2$",
       subItens: []
     },
     options: [
       "√3",
-      "1/2",
-      "√2/2",
+      "$1/2$",
+      "√$2/2$",
       "1",
-      "√3/3"
+      "√$3/3$"
     ],
     correctAnswer: 4,
     materia: ["Física"],

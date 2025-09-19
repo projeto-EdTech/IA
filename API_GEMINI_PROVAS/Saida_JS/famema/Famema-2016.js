@@ -234,7 +234,7 @@ createQuestion({
     university: "famema",
     year: 2016,
     text: {
-      principal: "Em um dia, um banco de sangue recebeu determinado nú-mero de doadores e constatou que a razão entre o número de doadores de sangue tipo O e o número de doadores dos de-mais tipos de sangue foi 1/8. Se esse banco de sangue tivesse recebido mais quatro doadores de sangue tipo O, a razão entre o número de doadores tipo O e o número de doadores dos demais tipos teria sido 1/6. O número total de doadores de sangue recebidos por esse banco, nesse dia, foi",
+      principal: "Em um dia, um banco de sangue recebeu determinado nú-mero de doadores e constatou que a razão entre o número de doadores de sangue tipo O e o número de doadores dos de-mais tipos de sangue foi $1/8$. Se esse banco de sangue tivesse recebido mais quatro doadores de sangue tipo O, a razão entre o número de doadores tipo O e o número de doadores dos demais tipos teria sido $1/6$. O número total de doadores de sangue recebidos por esse banco, nesse dia, foi",
       subItens: []
     },
     options: [
@@ -297,7 +297,7 @@ createQuestion({
     university: "famema",
     year: 2016,
     text: {
-      principal: "A probabilidade de uma criança não cair ao andar de bicicleta é 3/5 e a probabilidade dessa criança se machucar na queda é 3/4. A probabilidade dessa criança cair ao andar de bicicleta e não se machucar é de",
+      principal: "A probabilidade de uma criança não cair ao andar de bicicleta é $3/5$ e a probabilidade dessa criança se machucar na queda é $3/4$. A probabilidade dessa criança cair ao andar de bicicleta e não se machucar é de",
       subItens: []
     },
     options: [
@@ -343,11 +343,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "y = (2x/3) - 12",
-      "y = (2x/3) - 16",
-      "y = (-3x/2) + 16",
-      "y = (3x/2) - 12",
-      "y = (-2x/3) + 16"
+      "y = ($2x/3$) - 12",
+      "y = ($2x/3$) - 16",
+      "y = (-$3x/2$) + 16",
+      "y = ($3x/2$) - 12",
+      "y = (-$2x/3$) + 16"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -360,7 +360,7 @@ createQuestion({
     university: "famema",
     year: 2016,
     text: {
-      principal: "Considere as funções f(x) = 3^(x-k) e g(x) = log₂ x, sendo k um número real. Usando log₁₀ 2 = 0,30, log₁₀ 3 = 0,48 e sabendo que f(g(8)) = 3, o valor de g(f(5)) é",
+      principal: "Considere as funções f(x) = 3^(x-k) e g(x) = $\\log$₂ x, sendo k um número real. Usando $\\log$₁₀ 2 = 0,30, $\\log$₁₀ 3 = 0,48 e sabendo que f(g(8)) = 3, o valor de g(f(5)) é",
       subItens: []
     },
     options: [
@@ -582,7 +582,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["História"],
-    conteudo: ["Imperialismo/Neocolonialismo", "Crises Econômicas"],
+    conteudo: ["$Imperialismo/Neocolonialismo$", "Crises Econômicas"],
     imageNames: []
 }),
 
@@ -633,7 +633,7 @@ createQuestion({
     university: "famema",
     year: 2016,
     text: {
-      principal: "Leia o texto para responder às questões de 31 a 35.\nScientists grow primitive human kidneys in a dish\nOctober 07, 2015\n[Imagem de um mini-rim formado em uma placa de laboratório]\n(Minoru Takasato/Nature)\nFor the first time, primitive human kidneys have been\ncreated in a laboratory dish, by using stem cells. Although the\nkidneys cannot perform the functions of a fully formed adult\nkidney, the researchers hope the achievement will someday\nlead to new ways to treat people suffering from kidney\nfailure. \"It's really exciting,\" says Melissa Little, who heads\nthe Kidney Research Laboratory at the Murdoch Children's\nResearch Institute in Australia. She led the research, which\nwas published Wednesday in the journal Nature. \"I think this\nis a really big advance.\"\nKidneys are essential for life. They perform a host of\ncrucial bodily functions, including filtering toxins from the\nblood and regulating blood pressure and bone density. But\nkidneys can fail for a variety of reasons, including poisonings,\ninfections and other diseases.\n\"The problem is that if something goes wrong with your\nkidneys, there are only two options and these have been the\nsame for 50 years: You either have a transplant or go onto\ndialysis,\" Little says. \"So we really need alternative options.\"\nTo find alternatives, Little and others have been trying for\nyears to grow kidneys in the lab using cells known as induced\npluripotent stem (iPS) cells. \"Almost 10 years ago now it was\nshown that you could take any cell from anybody – like you or\nme – and actually convince it to go back into the state that's\nessentially like the fertilized egg, so it is able to turn into any\ntissue type,\" Little says.\nWhile scientists have been able to use iPS cells to create\nmany types of human cells, using them to create a kidney\nhas proved difficult. The problem has been finding just the\nright combination of chemical signals to trigger iPS cells into\nmaking the various tissues in a kidney. \"It's like a recipe,” Little\nsays. \"We put different concentrations and types of growth\nfactors in a certain order into the dish. And then when it gets\nto a certain size we take all the cells and make it into a ball.\"\nAfter that, the cells talk to each other, she says. One type of\ncell will signal to its neighbor, and its neighbor will signal back,\nand that actually makes them form the appropriate shape.\n(www.npr.org. Adaptado.)\nSegundo o texto, a pesquisa liderada por Melissa Little",
+      principal: "Leia o texto para responder às questões de 31 a 35.\nScientists grow primitive human kidneys in a dish\nOctober 07, 2015\n[Imagem de um mini-rim formado em uma placa de laboratório]\n(Minoru $Takasato/Nature$)\nFor the first time, primitive human kidneys have been\ncreated in a laboratory dish, by using stem cells. Although the\nkidneys cannot perform the functions of a fully formed adult\nkidney, the researchers hope the achievement will someday\nlead to new ways to treat people suffering from kidney\nfailure. \"It's really exciting,\" says Melissa Little, who heads\nthe Kidney Research Laboratory at the Murdoch Children's\nResearch Institute in Australia. She led the research, which\nwas published Wednesday in the journal Nature. \"I think this\nis a really big advance.\"\nKidneys are essential for life. They perform a host of\ncrucial bodily functions, including filtering toxins from the\nblood and regulating blood pressure and bone density. But\nkidneys can fail for a variety of reasons, including poisonings,\ninfections and other diseases.\n\"The problem is that if something goes wrong with your\nkidneys, there are only two options and these have been the\nsame for 50 years: You either have a transplant or go onto\ndialysis,\" Little says. \"So we really need alternative options.\"\nTo find alternatives, Little and others have been trying for\nyears to grow kidneys in the lab using cells known as induced\npluripotent stem (iPS) cells. \"Almost 10 years ago now it was\nshown that you could take any cell from anybody – like you or\nme – and actually convince it to go back into the state that's\nessentially like the fertilized egg, so it is able to turn into any\ntissue type,\" Little says.\nWhile scientists have been able to use iPS cells to create\nmany types of human cells, using them to create a kidney\nhas proved difficult. The problem has been finding just the\nright combination of chemical signals to trigger iPS cells into\nmaking the various tissues in a kidney. \"It's like a recipe,” Little\nsays. \"We put different concentrations and types of growth\nfactors in a certain order into the dish. And then when it gets\nto a certain size we take all the cells and make it into a ball.\"\nAfter that, the cells talk to each other, she says. One type of\ncell will signal to its neighbor, and its neighbor will signal back,\nand that actually makes them form the appropriate shape.\n(www.npr.org. Adaptado.)\nSegundo o texto, a pesquisa liderada por Melissa Little",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "famema",
     year: 2016,
     text: {
-      principal: "Um brinquedo consiste em um fole acoplado a um tubo plás-tico horizontal que se encaixa na traseira de um carrinho, inicialmente em repouso. Quando uma criança pisa no fole, comprimindo-o até o final, o ar expelido impulsiona o carrinho.\n[Imagem de um carrinho com fole, indicando F_med e movimento]\nConsidere que a massa do carrinho seja de 300 g, que o tem-po necessário para que a criança comprima completamente o fole seja de 0,2 s e que ao final desse intervalo de tempo o carrinho adquira uma velocidade de 8 m/s. Admitindo despre-zíveis todas as forças de resistência ao movimento do carri-nho, o módulo da força média (Fmed) aplicada pelo ar expelido pelo tubo sobre o carrinho, nesse intervalo de tempo, é igual a",
+      principal: "Um brinquedo consiste em um fole acoplado a um tubo plás-tico horizontal que se encaixa na traseira de um carrinho, inicialmente em repouso. Quando uma criança pisa no fole, comprimindo-o até o final, o ar expelido impulsiona o carrinho.\n[Imagem de um carrinho com fole, indicando $F_med$ e movimento]\nConsidere que a massa do carrinho seja de 300 g, que o tem-po necessário para que a criança comprima completamente o fole seja de 0,2 s e que ao final desse intervalo de tempo o carrinho adquira uma velocidade de 8 $m/s$. Admitindo despre-zíveis todas as forças de resistência ao movimento do carri-nho, o módulo da força média (Fmed) aplicada pelo ar expelido pelo tubo sobre o carrinho, nesse intervalo de tempo, é igual a",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "famema",
     year: 2016,
     text: {
-      principal: "Com o objetivo de simular as ondas no mar, foram geradas, em uma cuba de ondas de um laboratório, as ondas bidimen-sionais representadas na figura, que se propagam de uma região mais funda (região 1) para uma região mais rasa (re-gião 2).\n[Imagem de ondas passando de uma região mais funda (região 1) para uma mais rasa (região 2), com comprimentos de onda de 2m e 0.8m]\nSabendo que quando as ondas passam de uma região para a outra sua frequência de oscilação não se altera e conside-rando as medidas indicadas na figura, é correto afirmar que a razão V1/V2 entre as velocidades de propagação das ondas nas regiões 1 e 2 é igual a",
+      principal: "Com o objetivo de simular as ondas no mar, foram geradas, em uma cuba de ondas de um laboratório, as ondas bidimen-sionais representadas na figura, que se propagam de uma região mais funda (região 1) para uma região mais rasa (re-gião 2).\n[Imagem de ondas passando de uma região mais funda (região 1) para uma mais rasa (região 2), com comprimentos de onda de 2m e 0.8m]\nSabendo que quando as ondas passam de uma região para a outra sua frequência de oscilação não se altera e conside-rando as medidas indicadas na figura, é correto afirmar que a razão $V1/V2$ entre as velocidades de propagação das ondas nas regiões 1 e 2 é igual a",
       subItens: []
     },
     options: [

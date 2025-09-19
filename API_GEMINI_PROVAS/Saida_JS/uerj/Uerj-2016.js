@@ -114,7 +114,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Interpretação de Imagens", "Gêneros Textuais (Tira/HQ)"],
+    conteudo: ["Interpretação de Imagens", "Gêneros Textuais ($Tira/HQ$)"],
     imageNames: []
 }),
 
@@ -327,14 +327,14 @@ createQuestion({
       subItens: []
     },
     options: [
-      "puedo ayudarlo (viñeta 1)",
-      "podría descripcionarme (viñeta 3)",
-      "No sé,...cualquiera (viñeta 4)",
-      "Aguarde un instante (viñeta 7)"
+      "puedo ayudarlo (viñ$\\eta$ 1)",
+      "podría descripcionarme (viñ$\\eta$ 3)",
+      "No sé,...cualquiera (viñ$\\eta$ 4)",
+      "Aguarde un instante (viñ$\\eta$ 7)"
     ],
     correctAnswer: 2,
     materia: ["Espanhol"],
-    conteudo: ["Variação Linguística (Registro Formal/Informal)", "Interpretação de Tiras"],
+    conteudo: ["Variação Linguística (Registro $Formal/Informal$)", "Interpretação de Tiras"],
     imageNames: []
 }),
 
@@ -363,7 +363,7 @@ createQuestion({
     university: "uerj",
     year: 2016,
     text: {
-      principal: "La tira es un género que se apoya en diferentes recursos gráficos y visuales.\nEn la viñeta 3, la expresión corporal del cliente aporta el siguiente sentido:",
+      principal: "La tira es un género que se apoya en diferentes recursos gráficos y visuales.\nEn la viñ$\\eta$ 3, la expresión corporal del cliente aporta el siguiente sentido:",
       subItens: []
     },
     options: [
@@ -383,7 +383,7 @@ createQuestion({
     university: "uerj",
     year: 2016,
     text: {
-      principal: "O sea, efectuar un transfer de ideas. (viñeta 12)\nEl término subrayado tiene la función de introducir una idea de:",
+      principal: "O sea, efectuar un transfer de ideas. (viñ$\\eta$ 12)\nEl término subrayado tiene la función de introducir una idea de:",
       subItens: []
     },
     options: [
@@ -403,7 +403,7 @@ createQuestion({
     university: "uerj",
     year: 2016,
     text: {
-      principal: "¡Pobre, es que la gente, a esa edad, ya está desneuronizada! / ¡Eso, y no sabe expresionar bien lo que desea! (última viñeta)\nEl enunciado subrayado establece una relación de sentido con el anterior que se puede comprender como:",
+      principal: "¡Pobre, es que la gente, a esa edad, ya está desneuronizada! / ¡Eso, y no sabe expresionar bien lo que desea! (última viñ$\\eta$)\nEl enunciado subrayado establece una relación de sentido con el anterior que se puede comprender como:",
       subItens: []
     },
     options: [
@@ -623,14 +623,14 @@ createQuestion({
     university: "uerj",
     year: 2016,
     text: {
-      principal: "Admita a seguinte sequência numérica para o número natural n:\na₁ = 1/3 e an = an-1 + 3\nSendo 2 ≤ n ≤ 10, os dez elementos dessa sequência, em que a₁ = 1/3 e a₁₀ = 82/3, são:\n(1/3, 10/3, 19/3, 28/3, 37/3, a₆, a₇, a₈, a₉, a₁₀)\nA média aritmética dos quatro últimos elementos da sequência é igual a:",
+      principal: "Admita a seguinte sequência numérica para o número natural n:\na₁ = $1/3$ e an = an-1 + 3\nSendo 2 ≤ n ≤ 10, os dez elementos dessa sequência, em que a₁ = $1/3$ e a₁₀ = $82/3$, são:\n($1/3$, $10/3$, $19/3$, $28/3$, $37/3$, a₆, a₇, a₈, a₉, a₁₀)\nA média aritmética dos quatro últimos elementos da sequência é igual a:",
       subItens: []
     },
     options: [
-      "238/12",
-      "137/6",
-      "219/4",
-      "657/9"
+      "$238/12$",
+      "$137/6$",
+      "$219/4$",
+      "$657/9$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -683,7 +683,7 @@ createQuestion({
     university: "uerj",
     year: 2016,
     text: {
-      principal: "Admita que a ordem de grandeza de uma medida x é uma potência de base 10, com expoente n inteiro, para 10^(n - 1/2) ≤ x < 10^(n + 1/2).\nConsidere que um terremoto tenha liberado uma energia E, em joules, cujo valor numérico é tal que log₁₀ E = 15,3.\nA ordem de grandeza de E, em joules, equivale a:",
+      principal: "Admita que a ordem de grandeza de uma medida x é uma potência de base 10, com expoente n inteiro, para 10^(n - $1/2$) ≤ x < 10^(n + $1/2$).\nConsidere que um terremoto tenha liberado uma energia E, em joules, cujo valor numérico é tal que $\\log$₁₀ E = 15,3.\nA ordem de grandeza de E, em joules, equivale a:",
       subItens: []
     },
     options: [
@@ -1123,7 +1123,7 @@ createQuestion({
     university: "uerj",
     year: 2016,
     text: {
-      principal: "A Lei Federal nº 9.433/1997 estabelece que serão cobrados os usos dos recursos hídricos sujeitos à concessão do Estado. Tal regulamentação modificou substancialmente as bases operacionais e econômicas da utilização da água bruta. Essa cobrança, embora criticada por alguns setores, foi um instrumento benéfico, tanto em termos de conservação dos recursos hídricos, por estimular a gestão da demanda, como em termos de proteção ambiental.\nAté a aprovação dessa lei, as indústrias não pagavam pela captação da água diretamente de um manancial, a chamada água bruta, para utilizá-la em seus processos produtivos.\nO instrumento de cobrança pela água bruta utilizada industrialmente obteve os resultados mencionados no texto porque:",
+      principal: "A Lei Federal nº 9.$433/1997$ estabelece que serão cobrados os usos dos recursos hídricos sujeitos à concessão do Estado. Tal regulamentação modificou substancialmente as bases operacionais e econômicas da utilização da água bruta. Essa cobrança, embora criticada por alguns setores, foi um instrumento benéfico, tanto em termos de conservação dos recursos hídricos, por estimular a gestão da demanda, como em termos de proteção ambiental.\nAté a aprovação dessa lei, as indústrias não pagavam pela captação da água diretamente de um manancial, a chamada água bruta, para utilizá-la em seus processos produtivos.\nO instrumento de cobrança pela água bruta utilizada industrialmente obteve os resultados mencionados no texto porque:",
       subItens: []
     },
     options: [

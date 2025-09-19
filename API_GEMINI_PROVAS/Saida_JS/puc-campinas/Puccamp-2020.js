@@ -570,7 +570,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2020,
     text: {
-      principal: "O produto comercial conhecido como \"calcário líquido” é uma mistura utilizada para reduzir a acidez do solo, a qual possui cerca de 17,5% de Ca, em massa. A quantidade de íons de cálcio, em mol, presente em 1 kg do produto é, aproximadamente,\nDado:\nMassa molar (g/mol)\nCa = 40",
+      principal: "O produto comercial conhecido como \"calcário líquido” é uma mistura utilizada para reduzir a acidez do solo, a qual possui cerca de 17,5% de Ca, em massa. A quantidade de íons de cálcio, em mol, presente em 1 kg do produto é, aproximadamente,\nDado:\nMassa molar ($g/mol$)\nCa = 40",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2020,
     text: {
-      principal: "Para manutenção da qualidade e aumento no tempo de armazenamento de frutas climatéricas como a pera, uma das estratégias é a utilização do 1-metilciclopropeno (1-MCP), que reduz os efeitos do etileno (C2H4), o qual é responsável pelo amadurecimento dos frutos.\n[Imagem da estrutura de 1-MCP]\nA razão entre a massa da molécula de 1-MCP e a massa da molécula de etileno é, aproximadamente,\nDado:\nMassa molar (g/mol)\nH = 1,0\nC = 12,0",
+      principal: "Para manutenção da qualidade e aumento no tempo de armazenamento de frutas climatéricas como a pera, uma das estratégias é a utilização do 1-metilciclopropeno (1-MCP), que reduz os efeitos do etileno (C2H4), o qual é responsável pelo amadurecimento dos frutos.\n[Imagem da estrutura de 1-MCP]\nA razão entre a massa da molécula de 1-MCP e a massa da molécula de etileno é, aproximadamente,\nDado:\nMassa molar ($g/mol$)\nH = 1,0\nC = 12,0",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2020,
     text: {
-      principal: "Suponha que uma geleira tivesse o formato de uma esfera de raio igual a 1.000 metros e que, com o efeito do aquecimento global, ela tenha derretido, reduzindo-se a uma esfera com 1/8 do volume original. O raio da geleira após o derretimento passou a ser, em metros:",
+      principal: "Suponha que uma geleira tivesse o formato de uma esfera de raio igual a 1.000 metros e que, com o efeito do aquecimento global, ela tenha derretido, reduzindo-se a uma esfera com $1/8$ do volume original. O raio da geleira após o derretimento passou a ser, em metros:",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2020,
     text: {
-      principal: "A elevação do nível do mar causa um aumento de pressão no fundo do oceano. Considerando uma região em que as águas oceânicas estejam em repouso, que a aceleração gravitacional seja 10 m/s² e que a densidade da água do mar seja 1,03 g/cm³, o aumento da pressão hidrostática no fundo do oceano causada pela elevação do nível do mar ocorrida no século 20 nessa região foi de, aproximadamente,",
+      principal: "A elevação do nível do mar causa um aumento de pressão no fundo do oceano. Considerando uma região em que as águas oceânicas estejam em repouso, que a aceleração gravitacional seja 10 $m/s$² e que a densidade da água do mar seja 1,03 $g/cm$³, o aumento da pressão hidrostática no fundo do oceano causada pela elevação do nível do mar ocorrida no século 20 nessa região foi de, aproximadamente,",
       subItens: []
     },
     options: [

@@ -28,8 +28,8 @@ createQuestion({
     },
     options: [
       "Conforme o texto, segundo a Lei 8.213, datada de 1991, as empresas que têm uma centena de funcionários ou mais são obrigadas a abrir vagas para pessoas com deficiência.",
-      "De acordo com o texto, segundo a Lei 8.213/91, só podem fazer marketing as empresas que abrirem de 2% a 5% de suas vagas para pessoas com deficiência.",
-      "Além da Lei 8.213/91, a autora explica que também existe a Lei de Cotas, ou seja, são dois instrumentos legais diferentes que servem para estimular a contratação de pessoas com deficiência.",
+      "De acordo com o texto, segundo a Lei 8.$213/91$, só podem fazer marketing as empresas que abrirem de 2% a 5% de suas vagas para pessoas com deficiência.",
+      "Além da Lei 8.$213/91$, a autora explica que também existe a Lei de Cotas, ou seja, são dois instrumentos legais diferentes que servem para estimular a contratação de pessoas com deficiência.",
       "Apesar de contarem com o apoio da legislação, de acordo com a autora, as pessoas com deficiência ainda enfrentam dificuldades no momento de buscar um emprego devido ao capacitismo."
     ],
     correctAnswer: 3,
@@ -87,7 +87,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "O teatro foi utilizado com recorrência pelos jesuítas como um instrumento de catequização dos indígenas. A intenção pedagógica do Auto de São Lourenço pode ser percebida ao longo de todo o texto, pois os demônios são associados aos pecados, atitudes condenáveis, enquanto as virtudes são exaltadas. A indicação para que os indígenas abandonem suas próprias crenças e tradições se faz premente em vários momentos do texto, como no trecho que segue, em que São Lourenço explica que os pecados antigos podem ser perdoados pelos padres para que todos possam trilhar o caminho da salvação: \"Se depois de arrependidos/os índios vão confessar/dizendo: 'Quero trilhar/o caminho dos remidos'/- o padre os vai abençoar\" (ANCHIETA, 1973, р.19).",
+      "O teatro foi utilizado com recorrência pelos jesuítas como um instrumento de catequização dos indígenas. A intenção pedagógica do Auto de São Lourenço pode ser percebida ao longo de todo o texto, pois os demônios são associados aos pecados, atitudes condenáveis, enquanto as virtudes são exaltadas. A indicação para que os indígenas abandonem suas próprias crenças e tradições se faz premente em vários momentos do texto, como no trecho que segue, em que São Lourenço explica que os pecados antigos podem ser perdoados pelos padres para que todos possam trilhar o caminho da salvação: \"Se depois de $arrependidos/os$ índios vão $confessar/dizendo$: 'Quero $trilhar/o$ caminho dos remidos'/- o padre os vai abençoar\" (ANCHIETA, 1973, р.19).",
       "Composto como uma peça teatral, o Auto de São Lourenço, escrito por José de Anchieta, apresenta características comuns às produções da época, como a representação do embate entre o bem e o mal por meio de personagens que simbolizam as virtudes e os pecados. Contudo, o Auto não é estruturado como um texto típico do gênero teatral, pois não apresenta rubricas (instruções para a encenação), tampouco as tradicionais indicações de fala.",
       "Manuel Maria Barbosa du Bocage é apontado como uma das figuras de maior expressão da literatura portuguesa. Apesar da fama de crítico e satírico que decorre de escritos irreverentes e políticos, Bocage é o grande nome da poesia árcade em Portugal, tendo produzido versos que são considerados os mais belos poemas líricos.",
       "Em Sonetos e outros poemas, Bocage institui um narrador personagem em primeira pessoa, que interpela o leitor a todo tempo, desde os primeiros versos. O narrador conversa com o leitor do início ao fim do texto, inclusive convidando-o a expressar sua opinião em alguns momentos. Essa estratégia narrativa foi muito utilizada também por Machado de Assis, de quem Bocage era conterrâneo e discípulo."
@@ -429,8 +429,8 @@ createQuestion({
     options: [
       "A frequência do movimento vale 0,5 Hz.",
       "A força centrípeta que age sobre essa massa tem valor igual a 45 N.",
-      "A velocidade angular desse móvel é igual a π rad/s.",
-      "Utilizando para (π) o valor aproximado igual a 3, pode-se afirmar que sua velocidade linear vale 108 km/h."
+      "A velocidade angular desse móvel é igual a π $rad/s$.",
+      "Utilizando para (π) o valor aproximado igual a 3, pode-se afirmar que sua velocidade linear vale 108 $km/h$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -628,7 +628,7 @@ createQuestion({
     },
     options: [
       "f(x) é uma função crescente para x > -1.",
-      "b é a solução da equação exponencial 2^(2x-7) . 2^x = 8.",
+      "b é a solução da equação exponencial 2^(2x-7) . $2^x$ = 8.",
       "f(b) é um número ímpar.",
       "c é a solução da equação logarítmica log2 (6-x) = 4."
     ],
@@ -647,10 +647,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Se f(x) = a b^x, então f(1) = 15.",
-      "log_d (1 + a + b) = 1.",
+      "Se f(x) = a $b^x$, então f(1) = 15.",
+      "$\\log_d$ (1 + a + b) = 1.",
       "a² = b² + c².",
-      "V = {3} é a solução da equação 2^x - 2c = 0."
+      "V = {3} é a solução da equação $2^x$ - 2c = 0."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -668,9 +668,9 @@ createQuestion({
     },
     options: [
       "O quarto termo da P.A. (a - 2b, 4a - 3b, ...) é 10a - 5b.",
-      "O décimo termo da P.G. (100, 50, 25, ...) é o número 25/128.",
+      "O décimo termo da P.G. (100, 50, 25, ...) é o número $25/128$.",
       "O décimo primeiro termo da P.A. (82, 76, 70,...) é o número 22.",
-      "A soma dos termos da P.G. (3, -2, 4/3, ...) é o número 13."
+      "A soma dos termos da P.G. (3, -2, $4/3$, ...) é o número 13."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],

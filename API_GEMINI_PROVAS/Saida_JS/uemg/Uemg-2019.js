@@ -23,7 +23,7 @@ createQuestion({
     university: "uemg",
     year: 2019,
     text: {
-      principal: "Em relação à composição estrutural e/ou aos elementos linguísticos do Texto 1, assinale a alternativa CORRETA:",
+      principal: "Em relação à composição estrutural $e/ou$ aos elementos linguísticos do Texto 1, assinale a alternativa CORRETA:",
       subItens: []
     },
     options: [
@@ -43,7 +43,7 @@ createQuestion({
     university: "uemg",
     year: 2019,
     text: {
-      principal: "Leia o cartum a seguir:\n\nVIOLÊNCIA CRESCE NO INTERIOR DO PAÍS\nVAI PASSANDO\nA CARTEIRA,\nCAIPIRA!\nNUM FALEI\nPROCÊ QUE UM\nDIA O PROGRESSO\nCHEGAVA AQUI,\nMUIE?\nSANDRO\nDisponível em: https://www.google.com.br/search?q=cartum&.\nAcesso: 11 dez. 2018.\n\nSobre o cartum, assinale a alternativa CORRETA.",
+      principal: "Leia o cartum a seguir:\n\nVIOLÊNCIA CRESCE NO INTERIOR DO PAÍS\nVAI PASSANDO\nA CARTEIRA,\nCAIPIRA!\nNUM FALEI\nPROCÊ QUE UM\nDIA O PROGRESSO\nCHEGAVA AQUI,\nMUIE?\nSANDRO\nDisponível em: https://www.google.com.$br/search$?q=cartum&.\nAcesso: 11 dez. 2018.\n\nSobre o cartum, assinale a alternativa CORRETA.",
       subItens: []
     },
     options: [
@@ -163,7 +163,7 @@ createQuestion({
     university: "uemg",
     year: 2019,
     text: {
-      principal: "Leia este poema.\n\nDIALÉTICA\nÉ claro que a vida é boa\nE a alegria, a única indizível emoção\nÉ claro que te acho linda\nEm ti bendigo o amor das coisas simples\nÉ claro que te amo\nE tenho tudo para ser feliz\nMas acontece que eu sou triste...\nMORAES, Vinícius. Disponível em:\nhttp://www.viniciusdemoraes.com.br/pt-br/poesia/poesias-avulsas/dialetica. Acesso: 11 dez. 2018.\n\nEm relação a esse texto, escrito pelo poeta e compositor Vinícius de Moraes, é CORRETO afirmar que:",
+      principal: "Leia este poema.\n\nDIALÉTICA\nÉ claro que a vida é boa\nE a alegria, a única indizível emoção\nÉ claro que te acho linda\nEm ti bendigo o amor das coisas simples\nÉ claro que te amo\nE tenho tudo para ser feliz\nMas acontece que eu sou triste...\nMORAES, Vinícius. Disponível em:\nhttp://www.viniciusdemoraes.com.$br/pt$-br/poesia/poesias-$avulsas/dialetica$. Acesso: 11 dez. 2018.\n\nEm relação a esse texto, escrito pelo poeta e compositor Vinícius de Moraes, é CORRETO afirmar que:",
       subItens: []
     },
     options: [
@@ -343,7 +343,7 @@ createQuestion({
     university: "uemg",
     year: 2019,
     text: {
-      principal: "QUESTÃO 18\nLeia o trecho a seguir:\nO efeito fotoelétrico foi descoberto em 1886 pelo físico alemão Heinrich Hertz (1857-1894). Na ocasião, Hertz percebeu que a incidência da luz ultravioleta em chapas metálicas auxiliava a produção de faíscas. A explicação teórica para o efeito fotoelétrico, entretanto, só foi apresentada pelo físico alemão Albert Einstein em 1905.\nA dúvida que existia na época estava relacionada com a energia cinética dos elétrons que eram ejetados do metal: essa grandeza não dependia do(a) __________ da luz incidente. Einstein percebeu que o agente responsável pela ejeção de cada elétron era um único fóton, uma partícula de luz que transferia aos elétrons uma parte de sua energia, ejetando-o do material, desde que seu(sua) __________ fosse grande o suficiente para tal.\nDisponível em: https://brasilescola.uol.com.br/o-que-e/fisica/o-que-e-efeito-fotoeletrico.htm\nAcesso: 11 dez. 2018. (Fragmento: Adaptado).\n\nAssinale a alternativa que preenche CORRETAMENTE as lacunas.",
+      principal: "QUESTÃO 18\nLeia o trecho a seguir:\nO efeito fotoelétrico foi descoberto em 1886 pelo físico alemão Heinrich Hertz (1857-1894). Na ocasião, Hertz percebeu que a incidência da luz ultravioleta em chapas metálicas auxiliava a produção de faíscas. A explicação teórica para o efeito fotoelétrico, entretanto, só foi apresentada pelo físico alemão Albert Einstein em 1905.\nA dúvida que existia na época estava relacionada com a energia cinética dos elétrons que eram ejetados do metal: essa grandeza não dependia do(a) __________ da luz incidente. Einstein percebeu que o agente responsável pela ejeção de cada elétron era um único fóton, uma partícula de luz que transferia aos elétrons uma parte de sua energia, ejetando-o do material, desde que seu(sua) __________ fosse grande o suficiente para tal.\nDisponível em: https://brasilescola.uol.com.$br/o$-que-e/fisica/o-que-e-efeito-fotoeletrico.htm\nAcesso: 11 dez. 2018. (Fragmento: Adaptado).\n\nAssinale a alternativa que preenche CORRETAMENTE as lacunas.",
       subItens: []
     },
     options: [
@@ -403,7 +403,7 @@ createQuestion({
     university: "uemg",
     year: 2019,
     text: {
-      principal: "QUESTÃO 21\nObserve a imagem a seguir:\n\nHere's the roomy G-E Refrigerator my family won't outgrow\nDisponível em:\nhttps://www.flickr.com/photos/25152449@N06/3007836828.\nAcesso: 11 dez. 2018.\n\nA imagem faz parte de um anúncio publicitário de refrigerador, publicado na revista feminina estadunidense McCall's no ano de 1952, que buscava evidenciar que, EXCETO:",
+      principal: "QUESTÃO 21\nObserve a imagem a seguir:\n\nHere's the roomy G-E Refrigerator my family won't outgrow\nDisponível em:\nhttps://www.flickr.com/photos/25152449@$N06/3007836828$.\nAcesso: 11 dez. 2018.\n\nA imagem faz parte de um anúncio publicitário de refrigerador, publicado na revista feminina estadunidense McCall's no ano de 1952, que buscava evidenciar que, EXCETO:",
       subItens: []
     },
     options: [
@@ -523,7 +523,7 @@ createQuestion({
     university: "uemg",
     year: 2019,
     text: {
-      principal: "QUESTÃO 27\nEm um novo projeto de iniciação científica, o estudante de designer João está fabricando uma peça para exposição, na qual ele utiliza uma placa quadrada de um metal cuja densidade é de 9000Kg/m³, com 5000mm de lado. Sabe-se que essa chapa tem a espessura de 2,5cm e que inicialmente o profissional recorta um círculo de diâmetro máximo. Em seguida, ele recorta desse círculo um quadrado de dimensão máxima.\n\nA massa em toneladas desse quadrado recortado é de aproximadamente:",
+      principal: "QUESTÃO 27\nEm um novo projeto de iniciação científica, o estudante de designer João está fabricando uma peça para exposição, na qual ele utiliza uma placa quadrada de um metal cuja densidade é de $9000Kg/m$³, com 5000mm de lado. Sabe-se que essa chapa tem a espessura de 2,5cm e que inicialmente o profissional recorta um círculo de diâmetro máximo. Em seguida, ele recorta desse círculo um quadrado de dimensão máxima.\n\nA massa em toneladas desse quadrado recortado é de aproximadamente:",
       subItens: []
     },
     options: [
@@ -623,7 +623,7 @@ createQuestion({
     university: "uemg",
     year: 2019,
     text: {
-      principal: "QUESTÃO 32\nVinagre é uma mistura homogênea cujo principal constituinte é o ácido acético. Um estudante de química analisou uma amostra de uma garrafa de 500mL de vinagre de maçã, em que, no rótulo, há a informação de que o teor do ácido acético presente na solução é de 4,2% m/v.\n\nConsiderando que o ácido acético é o único composto de caráter ácido do vinagre, analise as proposições sugeridas pelo estudante após as análises.\n\nI- A molaridade do ácido acético na amostra analisada é 0,7mol/L.\nII- Ao titular 20mL desse vinagre com hidróxido de sódio 1mol/L, foram gastos 50mL da base.\nIII- Uma cozinheira que utiliza 6,3g de vinagre por dia, durante 30 dias, irá utilizar 9 garrafas.\n\nEstá(ão) CORRETA(S) a(s) afirmativa(s):",
+      principal: "QUESTÃO 32\nVinagre é uma mistura homogênea cujo principal constituinte é o ácido acético. Um estudante de química analisou uma amostra de uma garrafa de 500mL de vinagre de maçã, em que, no rótulo, há a informação de que o teor do ácido acético presente na solução é de 4,2% $m/v$.\n\nConsiderando que o ácido acético é o único composto de caráter ácido do vinagre, analise as proposições sugeridas pelo estudante após as análises.\n\nI- A molaridade do ácido acético na amostra analisada é 0,$7mol/L$.\nII- Ao titular 20mL desse vinagre com hidróxido de sódio $1mol/L$, foram gastos 50mL da base.\nIII- Uma cozinheira que utiliza 6,3g de vinagre por dia, durante 30 dias, irá utilizar 9 garrafas.\n\nEstá(ão) CORRETA(S) a(s) afirmativa(s):",
       subItens: []
     },
     options: [
@@ -649,7 +649,7 @@ createQuestion({
     options: [
       "A reação de oxidação da hidroxila do linalol com KMnO4 em meio ácido produzirá cetona.",
       "Um teste apropriado para diferenciar o citronelal e o anetol é o reagente de Tollens.",
-      "Um teste apropriado para diferenciar o eugenol e o anetol é o teste da solução de bromo (Br2/CH4).",
+      "Um teste apropriado para diferenciar o eugenol e o anetol é o teste da solução de bromo ($Br2/CH4$).",
       "A reação de oxidação da hidroxila do eugenol com KMnO4 em meio ácido produzirá cetona."
     ],
     correctAnswer: 1,
@@ -663,14 +663,14 @@ createQuestion({
     university: "uemg",
     year: 2019,
     text: {
-      principal: "QUESTÃO 34\nUma fábrica de sucos realizou analises físico-químicas em um laboratório de controle de qualidade do suco de limão com manjericão e do suco de tomate e obteve os seguintes resultados:\n\n• Suco de limão com manjericão: pH = 2,3.\n• Suco de tomate: pH = 4,3.\n\nDados: log 5= 0,7\n\nCom base nos resultados, é CORRETO afirmar que:",
+      principal: "QUESTÃO 34\nUma fábrica de sucos realizou analises físico-químicas em um laboratório de controle de qualidade do suco de limão com manjericão e do suco de tomate e obteve os seguintes resultados:\n\n• Suco de limão com manjericão: pH = 2,3.\n• Suco de tomate: pH = 4,3.\n\nDados: $\\log$ 5= 0,7\n\nCom base nos resultados, é CORRETO afirmar que:",
       subItens: []
     },
     options: [
       "O suco de limão com manjericão é 2 vezes mais ácido que o suco de tomate.",
       "A concentração de OH - nos dois sucos é igual a zero.",
       "No suco de tomate a [H+]/[ OH-] = 1.",
-      "A concentração de H⁺ no suco de limão com manjericão é igual a 5 X 10-3 mol/L."
+      "A concentração de H⁺ no suco de limão com manjericão é igual a 5 X 10-3 $mol/L$."
     ],
     correctAnswer: 3,
     materia: ["Química"],
@@ -727,10 +727,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/32.",
-      "9/32.",
-      "9/16.",
-      "1/16."
+      "$1/32$.",
+      "$9/32$.",
+      "$9/16$.",
+      "$1/16$."
     ],
     correctAnswer: 1,
     materia: ["Biologia"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "uemg",
     year: 2019,
     text: {
-      principal: "QUESTÃO 40\nHá mais de 100 anos, em 1904, aconteceu a primeira campanha de vacinação em massa feita no Brasil. Idealizada por Oswaldo Cruz, o fundador da saúde pública no país, a campanha tinha o objetivo de controlar a varíola, que então dizimava boa parte da população do Rio de Janeiro. Porém, as ações de imunização eram caracterizadas pela descontinuidade e pela baixa área de cobertura.\n\nAtualmente, são oferecidas à população brasileira 19 vacinas recomendadas pela Organização Mundial da Saúde (OMS). São mais de 300 milhões de doses, por ano, todas adquiridas pelo Ministério da Saúde e distribuídas aos estados e municípios visando à imunização de crianças, adolescentes, adultos e idosos.\nDisponível em: http://www.blog.saude.gov.br/index.php/promocao-da-saude/ Acesso: 11 dez. 2018 (Fragmento: Adaptado).\n\nOs cientistas estão em constante pesquisa para desenvolverem vacinas para a imunização da população humana contra diversos agentes causadores que podem ser vírus, bactérias, protozoários, fungos e outros.\n\nRelacione os agentes causadores enumerados na COLUNA I com as doenças apresentados na COLUNA II:\n\nCOLUNA I\n1- Protozoários.\n2- Fungos.\n3- Bactérias.\n4- Vírus.\n\nCOLUNA II\n() Tracoma.\n() Hidrófobia.\n() Hanseníase.\n() Histoplasmose.\n() Toxoplasmose.\n() Caxumba.\n\nAssinale a alternativa que apresenta a sequência CORRETA:",
+      principal: "QUESTÃO 40\nHá mais de 100 anos, em 1904, aconteceu a primeira campanha de vacinação em massa feita no Brasil. Idealizada por Oswaldo Cruz, o fundador da saúde pública no país, a campanha tinha o objetivo de controlar a varíola, que então dizimava boa parte da população do Rio de Janeiro. Porém, as ações de imunização eram caracterizadas pela descontinuidade e pela baixa área de cobertura.\n\nAtualmente, são oferecidas à população brasileira 19 vacinas recomendadas pela Organização Mundial da Saúde (OMS). São mais de 300 milhões de doses, por ano, todas adquiridas pelo Ministério da Saúde e distribuídas aos estados e municípios visando à imunização de crianças, adolescentes, adultos e idosos.\nDisponível em: http://www.blog.saude.gov.$br/index$.$php/promocao$-da-saude/ Acesso: 11 dez. 2018 (Fragmento: Adaptado).\n\nOs cientistas estão em constante pesquisa para desenvolverem vacinas para a imunização da população humana contra diversos agentes causadores que podem ser vírus, bactérias, protozoários, fungos e outros.\n\nRelacione os agentes causadores enumerados na COLUNA I com as doenças apresentados na COLUNA II:\n\nCOLUNA I\n1- Protozoários.\n2- Fungos.\n3- Bactérias.\n4- Vírus.\n\nCOLUNA II\n() Tracoma.\n() Hidrófobia.\n() Hanseníase.\n() Histoplasmose.\n() Toxoplasmose.\n() Caxumba.\n\nAssinale a alternativa que apresenta a sequência CORRETA:",
       subItens: []
     },
     options: [

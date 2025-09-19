@@ -115,7 +115,7 @@ createQuestion({
       "“– Mas a galinha que a gente come é igual a esta aqui?\" (6º parágrafo).",
       "\"Depois veio a mulher dizer que ele esquecesse a galinha ao molho pardo. / – A empregada não sabe fazer?\" (9°/10° parágrafos).",
       "“– Somos uma civilização de frouxos! — sentenciou o doutor.\" (21º parágrafo).",
-      "\"Foi para o poço do edifício e repetiu: / — Frouxos! Perdemos o contato com o barro da vida!\" (22/23º parágrafos).",
+      "\"Foi para o poço do edifício e repetiu: / — Frouxos! Perdemos o contato com o barro da vida!\" ($22/23$º parágrafos).",
       "“Há anos que não comia uma galinha ao molho pardo. A empregada sabia como se preparava galinha ao molho pardo?\" (9º parágrafo)."
     ],
     correctAnswer: 4,
@@ -654,7 +654,7 @@ createQuestion({
     university: "albert einstein",
     year: 2024,
     text: {
-      principal: "Para a realização de testes laboratoriais foram preparados 4 tubos de ensaio com os conteúdos indicados na tabela. Tubo de Ensaio Volume de água adicionado a 20 °C (mL) Massa de K₂Cr₂O₇ adicionada(g) 1 20 1,0 2 20 3,0 3 20 5,0 4 20 7,0 Sabendo que a solubilidade do sal K₂Cr₂O₇ é igual a 12,5 g/100 mL de água a 20 °C, após o conteúdo de cada tubo ter sido homogeneizado e colocado em repouso, observou-se que",
+      principal: "Para a realização de testes laboratoriais foram preparados 4 tubos de ensaio com os conteúdos indicados na tabela. Tubo de Ensaio Volume de água adicionado a 20 °C (mL) Massa de K₂Cr₂O₇ adicionada(g) 1 20 1,0 2 20 3,0 3 20 5,0 4 20 7,0 Sabendo que a solubilidade do sal K₂Cr₂O₇ é igual a 12,5 $g/100$ mL de água a 20 °C, após o conteúdo de cada tubo ter sido homogeneizado e colocado em repouso, observou-se que",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "albert einstein",
     year: 2024,
     text: {
-      principal: "Leia o texto para responder às questões de 33 a 35. Em 2022, a Real Academia Sueca de Ciências concedeu a Carolyn R. Bertozzi, Morten Meldal e K. Barry Sharpless o Prêmio Nobel de Química, pelo desenvolvimento da chamada click chemistry (química de cliques) e da química bioortogonal. De modo geral, por meio de uma reação denominada cicloadição de azida-alcino catalisada por cobre, os químicos podem unir duas moléculas diferentes, com relativa facilidade, a partir de um grupo azida (R-N3) em uma molécula e um grupo alcino (R'-=) na outra com a ajuda de íons de cobre(I), em que Re R' são grupos diversos. As reações de clique facilitaram de forma fantástica a produção de novos materiais adequados a diversas finalidades. Na reação de clique, considerada padrão, representada pela equação a seguir, duas moléculas com anéis aromáticos são unidas com grande eficiência, combinada com a robustez e a facilidade de operação. CuSO₄·5H₂O Na-ascorbato N₃+ H₂O/BUOH N=N 25 °C (www.nobelprize.org. Adaptado.) Nessa reação de clique a espécie ativa de cobre (CuI) revelou-se um notável catalisador que acelera a reação de cicloadição em até 10⁷ vezes. Com relação aos íons cobre(I), afirma-se que",
+      principal: "Leia o texto para responder às questões de 33 a 35. Em 2022, a Real Academia Sueca de Ciências concedeu a Carolyn R. Bertozzi, Morten Meldal e K. Barry Sharpless o Prêmio Nobel de Química, pelo desenvolvimento da chamada click chemistry (química de cliques) e da química bioortogonal. De modo geral, por meio de uma reação denominada cicloadição de azida-alcino catalisada por cobre, os químicos podem unir duas moléculas diferentes, com relativa facilidade, a partir de um grupo azida (R-N3) em uma molécula e um grupo alcino (R'-=) na outra com a ajuda de íons de cobre(I), em que Re R' são grupos diversos. As reações de clique facilitaram de forma fantástica a produção de novos materiais adequados a diversas finalidades. Na reação de clique, considerada padrão, representada pela equação a seguir, duas moléculas com anéis aromáticos são unidas com grande eficiência, combinada com a robustez e a facilidade de operação. CuSO₄·5H₂O Na-ascorbato N₃+ H₂$O/BUOH$ N=N 25 °C (www.nobelprize.org. Adaptado.) Nessa reação de clique a espécie ativa de cobre (CuI) revelou-se um notável catalisador que acelera a reação de cicloadição em até 10⁷ vezes. Com relação aos íons cobre(I), afirma-se que",
       subItens: []
     },
     options: [
@@ -742,11 +742,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2,0 m/s.",
-      "2,5 m/s.",
-      "3,5 m/s.",
-      "3,0 m/s.",
-      "1,5 m/s."
+      "2,0 $m/s$.",
+      "2,5 $m/s$.",
+      "3,5 $m/s$.",
+      "3,0 $m/s$.",
+      "1,5 $m/s$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -759,7 +759,7 @@ createQuestion({
     university: "albert einstein",
     year: 2024,
     text: {
-      principal: "Um móbile é composto de duas hastes, cinco fios e três objetos pendentes, um representando a Terra, de massa mₜ, outro representando o Sol, de massa mₛ, e outro representando a Lua, de massa mₗ. 20 cm 50 cm MT 30 cm 60 cm ms ML Sabendo que o móbile está em equilíbrio com as hastes na posição horizontal, desprezando as massas das hastes e dos fios e considerando as medidas indicadas na figura, a razão M_L / M_S é",
+      principal: "Um móbile é composto de duas hastes, cinco fios e três objetos pendentes, um representando a Terra, de massa mₜ, outro representando o Sol, de massa mₛ, e outro representando a Lua, de massa mₗ. 20 cm 50 cm MT 30 cm 60 cm ms ML Sabendo que o móbile está em equilíbrio com as hastes na posição horizontal, desprezando as massas das hastes e dos fios e considerando as medidas indicadas na figura, a razão $M_L$ / $M_S$ é",
       subItens: []
     },
     options: [
@@ -780,7 +780,7 @@ createQuestion({
     university: "albert einstein",
     year: 2024,
     text: {
-      principal: "Uma nebulosa planetária é uma nuvem composta de hidrogênio, com uma densidade muito baixa, de modo que esse gás pode ser tratado como ideal. Como exemplo, temos a Nebulosa do Anel, com densidade média de 3 × 10⁻¹⁸ kg/m³ e uma temperatura média de 10000 K. Nebulosa do Anel (https://oal.ul.pt) Adotando o valor R = 8 J/(mol·K) para a constante universal dos gases ideais e M = 2 × 10⁻³ kg/mol para a massa molar do hidrogênio, a pressão média no interior da Nebulosa do Anel é",
+      principal: "Uma nebulosa planetária é uma nuvem composta de hidrogênio, com uma densidade muito baixa, de modo que esse gás pode ser tratado como ideal. Como exemplo, temos a Nebulosa do Anel, com densidade média de 3 × 10⁻¹⁸ $kg/m$³ e uma temperatura média de 10000 K. Nebulosa do Anel (https://oal.ul.pt) Adotando o valor R = 8 J/(mol·K) para a constante universal dos gases ideais e M = 2 × 10⁻³ $kg/mol$ para a massa molar do hidrogênio, a pressão média no interior da Nebulosa do Anel é",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "albert einstein",
     year: 2024,
     text: {
-      principal: "Tubarões apresentam estruturas sensoriais próximas aos seus focinhos chamadas de ampolas de Lorenzini, com a capacidade de detectar campos elétricos muito sutis, gerados por outros animais. São eletrorreceptores que, além de facilitar a caça de suas presas, possibilitam-lhes orientar-se durante a navegação. Ampolas de Lorenzini (https://lemundo.com.br) Alguns tubarões podem detectar campos elétricos muito fracos, da ordem de 10⁻⁶ V/m. Para se ter uma ideia da grande sensibilidade elétrica dos sensores desses animais, considere que esse mesmo campo elétrico seja produzido entre duas placas metálicas paralelas ligadas a uma pilha AA comum, de 1,5 V, como mostrado na figura. d 1,5 V Nesse caso, a distância d entre essas placas deverá ser de",
+      principal: "Tubarões apresentam estruturas sensoriais próximas aos seus focinhos chamadas de ampolas de Lorenzini, com a capacidade de detectar campos elétricos muito sutis, gerados por outros animais. São eletrorreceptores que, além de facilitar a caça de suas presas, possibilitam-lhes orientar-se durante a navegação. Ampolas de Lorenzini (https://lemundo.com.br) Alguns tubarões podem detectar campos elétricos muito fracos, da ordem de 10⁻⁶ $V/m$. Para se ter uma ideia da grande sensibilidade elétrica dos sensores desses animais, considere que esse mesmo campo elétrico seja produzido entre duas placas metálicas paralelas ligadas a uma pilha AA comum, de 1,5 V, como mostrado na figura. d 1,5 V Nesse caso, a distância d entre essas placas deverá ser de",
       subItens: []
     },
     options: [
@@ -931,11 +931,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/12",
-      "12/5",
-      "-12/5",
-      "-5/12",
-      "28/5"
+      "$5/12$",
+      "$12/5$",
+      "-$12/5$",
+      "-$5/12$",
+      "$28/5$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -952,11 +952,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "3/13",
-      "99/487",
-      "1/13",
-      "1/400",
-      "1/26"
+      "$3/13$",
+      "$99/487$",
+      "$1/13$",
+      "$1/400$",
+      "$1/26$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -990,15 +990,15 @@ createQuestion({
     university: "albert einstein",
     year: 2024,
     text: {
-      principal: "Na figura, os pontos P, Q e R são os centros de três faces de um paralelepipedo reto-retângulo de dimensões 6 cm, 8 cm e 10 cm. P, Q e R também são vértices de um triângulo, sendo α o ângulo de lados QP e QR. 6 cm R P α Q 8 cm 10 cm Em tais condições, o valor de cos α é",
+      principal: "Na figura, os pontos P, Q e R são os centros de três faces de um paralelepipedo reto-retângulo de dimensões 6 cm, 8 cm e 10 cm. P, Q e R também são vértices de um triângulo, sendo α o ângulo de lados QP e QR. 6 cm R P α Q 8 cm 10 cm Em tais condições, o valor de $\\cos$ α é",
       subItens: []
     },
     options: [
-      "9√34/170",
-      "9/25",
-      "5√34/85",
-      "3√34/85",
-      "7/170"
+      "9√$34/170$",
+      "$9/25$",
+      "5√$34/85$",
+      "3√$34/85$",
+      "$7/170$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "albert einstein",
     year: 2024,
     text: {
-      principal: "Considere que um sinal, que viaje a velocidade da luz (300 000 km/s) leve 10 anos-luz para ir da Terra até seu destino final. Adotando-se a aproximação de que 1 ano-luz corresponde a 9,45 trilhões de quilômetros, o tempo que esse sinal leva da Terra até seu destino final, em horas, é de",
+      principal: "Considere que um sinal, que viaje a velocidade da luz (300 000 $km/s$) leve 10 anos-luz para ir da Terra até seu destino final. Adotando-se a aproximação de que 1 ano-luz corresponde a 9,45 trilhões de quilômetros, o tempo que esse sinal leva da Terra até seu destino final, em horas, é de",
       subItens: []
     },
     options: [

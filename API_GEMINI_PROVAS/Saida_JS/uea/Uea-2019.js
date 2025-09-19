@@ -15,7 +15,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Literatura", "Arcadismo/Neoclassicismo"],
+    conteudo: ["Literatura", "$Arcadismo/Neoclassicismo$"],
     imageNames: []
 }),
 
@@ -36,7 +36,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Literatura", "Arcadismo/Neoclassicismo"],
+    conteudo: ["Literatura", "$Arcadismo/Neoclassicismo$"],
     imageNames: []
 }),
 
@@ -360,7 +360,7 @@ createQuestion({
     university: "uea",
     year: 2019,
     text: {
-      principal: "Entre as motivações das Cruzadas, realizadas entre os séculos XI e XIII, é correto citar",
+      principal: "Entre as motivações das Cruzadas, realizadas entre os séculos $\\xi$ e XIII, é correto citar",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "uea",
     year: 2019,
     text: {
-      principal: "Examine a figura.\n\n[Image: Diagram of Earth with movement of the sun, rotation of Earth, and angles indicating time zones/fusos horários]\n\n(Levon Boligian e Andressa T. A. Boligian. Geografia espaço e vivência, 2011.)\n\nA figura esquemática da Terra mostra a sua divisão segundo",
+      principal: "Examine a figura.\n\n[Image: Diagram of Earth with movement of the sun, rotation of Earth, and angles indicating time $zones/fusos$ horários]\n\n(Levon Boligian e Andressa T. A. Boligian. Geografia espaço e vivência, 2011.)\n\nA figura esquemática da Terra mostra a sua divisão segundo",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "uea",
     year: 2019,
     text: {
-      principal: "Em uma madrugada, a razão entre o número de adultos e o número de crianças atendidas em um pronto-socorro foi igual a 2/5. Se o total de pessoas atendidas nessa madrugada foi igual a 84, o número de crianças atendidas foi",
+      principal: "Em uma madrugada, a razão entre o número de adultos e o número de crianças atendidas em um pronto-socorro foi igual a $2/5$. Se o total de pessoas atendidas nessa madrugada foi igual a 84, o número de crianças atendidas foi",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "uea",
     year: 2019,
     text: {
-      principal: "A figura representa o gráfico da função exponencial y = b^x - 4, em que b é uma constante real.\n\n[Image: Graph of an exponential function]\n\nA constante b está compreendida entre",
+      principal: "A figura representa o gráfico da função exponencial y = $b^x$ - 4, em que b é uma constante real.\n\n[Image: Graph of an exponential function]\n\nA constante b está compreendida entre",
       subItens: []
     },
     options: [
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "uea",
     year: 2019,
     text: {
-      principal: "Enquanto instalava uma antena na laje do prédio, o zelador acidentalmente esbarrou em um parafuso que estava sobre a mureta, arremessando-o horizontalmente para fora do prédio, com velocidade de 2 m/s.\n\n[Image: Diagram of a screw falling horizontally from a building]\n\nConsidere que a aceleração da gravidade no local seja 10 m/s² e que a resistência do ar seja desprezível. Sabendo que a altu-ra da mureta até o chão era de 20 m, a distância d, entre a base do prédio e o ponto P em que o parafuso caiu, foi de",
+      principal: "Enquanto instalava uma antena na laje do prédio, o zelador acidentalmente esbarrou em um parafuso que estava sobre a mureta, arremessando-o horizontalmente para fora do prédio, com velocidade de 2 $m/s$.\n\n[Image: Diagram of a screw falling horizontally from a building]\n\nConsidere que a aceleração da gravidade no local seja 10 $m/s$² e que a resistência do ar seja desprezível. Sabendo que a altu-ra da mureta até o chão era de 20 m, a distância d, entre a base do prédio e o ponto P em que o parafuso caiu, foi de",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "uea",
     year: 2019,
     text: {
-      principal: "Um bloco com 500 kg é erguido verticalmente para cima, por um cabo ideal acoplado a um guindaste, como mostra a figura.\n\n[Image: Diagram of a block being lifted by a crane]\n\nSendo a aceleração da gravidade 10 m/s², o valor da força constante, aplicada verticalmente pelo cabo, para que o bloco suba com aceleração de 0,2 m/s² em relação ao solo, é",
+      principal: "Um bloco com 500 kg é erguido verticalmente para cima, por um cabo ideal acoplado a um guindaste, como mostra a figura.\n\n[Image: Diagram of a block being lifted by a crane]\n\nSendo a aceleração da gravidade 10 $m/s$², o valor da força constante, aplicada verticalmente pelo cabo, para que o bloco suba com aceleração de 0,2 $m/s$² em relação ao solo, é",
       subItens: []
     },
     options: [

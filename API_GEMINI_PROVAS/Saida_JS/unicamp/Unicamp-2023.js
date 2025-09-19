@@ -43,13 +43,13 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Leia o texto a seguir para responder às questões 3 e 4.\nQuebrando o silêncio dos hospícios\nStella do Patrocínio, apesar de ser reconhecida postumamente como poeta, nunca se definiu assim e não escreveu nenhuma das linhas que estão no livro Reino dos bichos e dos animais é o meu nome, pelo qual ficou conhecida. A potência de suas pa-lavras se encontra no seu falatório (como chamava suas falas), que foi preservado em fitas de áudio pela artista plástica Carla Guagliardi. As conversas entre as duas foram gravadas durante oficinas de arte para pacientes psiquiátricos, entre 1986 e 1988, e o livro, publicado muitos anos depois da morte de Patrocínio, é um recorte de frases dela, transcritas desses diálogos.\nAs falas de Patrocínio são de uma mulher negra e pobre que foi levada à força pela polícia e internada, no Centro Pedro 2º e de-pois na Colônia Juliano Moreira, no Rio de Janeiro, onde ficou por trinta anos; quando morreu, foi enterrada como indigente. A história de Patrocínio é a história de milhares de vítimas que foram encarceradas nos hospícios brasileiros por serem conside-radas \"desajustadas\". Em sua maioria negras. Ali, elas sofreram abusos, violências e torturas, além de serem abandonadas pelo Estado.\n(Adaptado de: Quebrando o silêncio dos hospícios. Quatro cinco um, 05/2022, p. 27.)\n\nExaminando a relação do título com o corpo do excerto da re-portagem de revista, o que representa a quebra do \"silêncio dos hospícios\"?",
+      principal: "Leia o texto a seguir para responder às questões 3 e 4.\nQuebrando o silêncio dos hospícios\nStella do Patrocínio, apesar de ser reconhecida postumamente como poeta, nunca se definiu assim e não escreveu nenhuma das linhas que estão no livro Reino dos bichos e dos animais é o meu nome, pelo qual ficou conhecida. A potência de suas pa-lavras se encontra no seu falatório (como chamava suas falas), que foi preservado em fitas de áudio pela artista plástica Carla Guagliardi. As conversas entre as duas foram gravadas durante oficinas de arte para pacientes psiquiátricos, entre 1986 e 1988, e o livro, publicado muitos anos depois da morte de Patrocínio, é um recorte de frases dela, transcritas desses diálogos.\nAs falas de Patrocínio são de uma mulher negra e pobre que foi levada à força pela polícia e internada, no Centro Pedro 2º e de-pois na Colônia Juliano Moreira, no Rio de Janeiro, onde ficou por trinta anos; quando morreu, foi enterrada como indigente. A história de Patrocínio é a história de milhares de vítimas que foram encarceradas nos hospícios brasileiros por serem conside-radas \"desajustadas\". Em sua maioria negras. Ali, elas sofreram abusos, violências e torturas, além de serem abandonadas pelo Estado.\n(Adaptado de: Quebrando o silêncio dos hospícios. Quatro cinco um, $05/2022$, p. 27.)\n\nExaminando a relação do título com o corpo do excerto da re-portagem de revista, o que representa a quebra do \"silêncio dos hospícios\"?",
       subItens: []
     },
     options: [
       "A morte esquecida de Stella do Patrocínio em uma institui-ção para reclusão de pessoas com transtornos mentais (ou assim consideradas).",
       "As oficinas de arte que permitiram a Stella do Patrocínio tornar pública a sua voz e as histórias de mulheres encarce-radas em instituições manicomiais.",
-      "O livro de Stella do Patrocínio que narra as histórias de mu-lheres vítimas de violência manicomial, abandonadas pelo Estado.",
+      "O livro de Stella do Patrocínio que narra as histórias de $\\mu$-lheres vítimas de violência manicomial, abandonadas pelo Estado.",
       "As falas gravadas de Stella do Patrocínio que expressam tanto o seu percurso individual quanto a história de outras mulheres."
     ],
     correctAnswer: 3,
@@ -63,7 +63,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Leia o texto a seguir para responder às questões 3 e 4.\nQuebrando o silêncio dos hospícios\nStella do Patrocínio, apesar de ser reconhecida postumamente como poeta, nunca se definiu assim e não escreveu nenhuma das linhas que estão no livro Reino dos bichos e dos animais é o meu nome, pelo qual ficou conhecida. A potência de suas pa-lavras se encontra no seu falatório (como chamava suas falas), que foi preservado em fitas de áudio pela artista plástica Carla Guagliardi. As conversas entre as duas foram gravadas durante oficinas de arte para pacientes psiquiátricos, entre 1986 e 1988, e o livro, publicado muitos anos depois da morte de Patrocínio, é um recorte de frases dela, transcritas desses diálogos.\nAs falas de Patrocínio são de uma mulher negra e pobre que foi levada à força pela polícia e internada, no Centro Pedro 2º e de-pois na Colônia Juliano Moreira, no Rio de Janeiro, onde ficou por trinta anos; quando morreu, foi enterrada como indigente. A história de Patrocínio é a história de milhares de vítimas que foram encarceradas nos hospícios brasileiros por serem conside-radas \"desajustadas\". Em sua maioria negras. Ali, elas sofreram abusos, violências e torturas, além de serem abandonadas pelo Estado.\n(Adaptado de: Quebrando o silêncio dos hospícios. Quatro cinco um, 05/2022, p. 27.)\n\nCom base ainda no texto, \"falatório\" pode ser considerado como",
+      principal: "Leia o texto a seguir para responder às questões 3 e 4.\nQuebrando o silêncio dos hospícios\nStella do Patrocínio, apesar de ser reconhecida postumamente como poeta, nunca se definiu assim e não escreveu nenhuma das linhas que estão no livro Reino dos bichos e dos animais é o meu nome, pelo qual ficou conhecida. A potência de suas pa-lavras se encontra no seu falatório (como chamava suas falas), que foi preservado em fitas de áudio pela artista plástica Carla Guagliardi. As conversas entre as duas foram gravadas durante oficinas de arte para pacientes psiquiátricos, entre 1986 e 1988, e o livro, publicado muitos anos depois da morte de Patrocínio, é um recorte de frases dela, transcritas desses diálogos.\nAs falas de Patrocínio são de uma mulher negra e pobre que foi levada à força pela polícia e internada, no Centro Pedro 2º e de-pois na Colônia Juliano Moreira, no Rio de Janeiro, onde ficou por trinta anos; quando morreu, foi enterrada como indigente. A história de Patrocínio é a história de milhares de vítimas que foram encarceradas nos hospícios brasileiros por serem conside-radas \"desajustadas\". Em sua maioria negras. Ali, elas sofreram abusos, violências e torturas, além de serem abandonadas pelo Estado.\n(Adaptado de: Quebrando o silêncio dos hospícios. Quatro cinco um, $05/2022$, p. 27.)\n\nCom base ainda no texto, \"falatório\" pode ser considerado como",
       subItens: []
     },
     options: [
@@ -88,7 +88,7 @@ createQuestion({
     },
     options: [
       "A imaginação, em desenho, do ponto de vista da selfie que é tematizada na foto.",
-      "A adulteração, no desenho, do significado da foto pela mu-dança de perspectiva.",
+      "A adulteração, no desenho, do significado da foto pela $\\mu$-dança de perspectiva.",
       "A cópia, em ilustração, de uma fotografia que mostra a pro-dução de uma selfie.",
       "A recriação, em fotografia, da ilustração que simula uma selfie em grupo."
     ],
@@ -209,7 +209,7 @@ createQuestion({
     options: [
       "a reiteração de um mesmo tipo de frase no final de cada estrofe acentua o idealismo e a rememoração.",
       "a metáfora da árvore faz uso de um vocabulário botânico, que evoca o cientificismo da época.",
-      "as frases nominais do início das estrofes contradizem os sen-tidos de cada estrofe anterior.",
+      "as frases nominais do início das estrofes contradizem os $\\sin$-tidos de cada estrofe anterior.",
       "o paralelismo estrutural entre as estrofes de \"Ciclo\" evoca o desgaste dos recursos do poeta."
     ],
     correctAnswer: 0,
@@ -243,7 +243,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Um artigo científico relata a construção e a eficiência de um re-ator fotocatalítico de fluxo contínuo para a degradação de hor-mônios presentes em águas tratadas para consumo humano. Num trecho desse estudo, os autores afirmam: \"é interessante notar que 80% de estrogênio foram removidos numa alimen-tação a 200 ng/L, 25 mW/cm² e 300 L/(m² h), enquanto que as remoções de progesterona e testosterona ficaram em 44% e 33%, respectivamente\".\n\nDe acordo com essas informações, pode-se inferir que o reator é capaz de degradar",
+      principal: "Um artigo científico relata a construção e a eficiência de um re-ator fotocatalítico de fluxo contínuo para a degradação de hor-mônios presentes em águas tratadas para consumo humano. Num trecho desse estudo, os autores afirmam: \"é interessante notar que 80% de estrogênio foram removidos numa alimen-tação a 200 $ng/L$, 25 $mW/cm$² e 300 L/(m² h), enquanto que as remoções de progesterona e testosterona ficaram em 44% e 33%, respectivamente\".\n\nDe acordo com essas informações, pode-se inferir que o reator é capaz de degradar",
       subItens: []
     },
     options: [
@@ -263,13 +263,13 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Leia os textos 1 e 2, a seguir, para responder às questões 14 e 15.\nTexto 1\nA Química Verde é uma área multidisciplinar que cria, desen-volve e aplica produtos e processos químicos que visam à redu-ção ou eliminação do uso e da geração de substâncias nocivas ao meio ambiente e ao homem. Em 2019, para reunir várias ações relativas à Química Verde, os pesquisadores Paul T. Anas-tas e Julie B. Zimmerman propuseram a Tabela Periódica dos Elementos Figurativos da Química Verde e Sustentável – TPQVS (figura abaixo). Assim como na Tabela Periódica dos Elementos Químicos, a TPQVS apresenta \"elementos\", os quais, porém, representam ações associadas aos preceitos da Química Verde, sendo que cada grupo (G) da TPQVS reúne ações com os mes-mos preceitos.\n(Table: Elementos humanitários, Elementos da Química Verde e da Engenharia Verde, Elementos de habilitação das condições de sistema, Elementos nobres, and groups G1-G10 with their descriptions)\n\nTexto 2\n\"A Química é pura beleza;\nOs átomos e as moléculas são a realeza,\nreagindo no compasso da natureza\npara transformar o mundo com delicadeza.\nSou um simples menestrel da ciência\nque defende suas ideias com veemência.\nComo Químico, quero atuar com sapiência,\ndesenvolvendo processos de alta eficiência.\n\nA Química não é mais poluição;\npara o fóssil ela tem a substituição;\nrenovando o verde como solução.\n\nVivemos num tempo de ambiguidade,\nonde a terra, a água e o ar estão em vulnerabilidade.\nFaçamos da Química o caminho para a sustentabilidade\"\n(MOTA, Claudio J. A. Conferência de Abertura da 45ª. Reunião Anual da Sociedade Bra-sileira de Química, 2022.)\n\nUm dos princípios da Química Verde, ilustrado por um dos gru-pos na TPQVS (texto I), é a economia atômica, dada pela razão da massa do produto de interesse pela massa total dos reagen-tes, sendo que quanto mais próximo de 1 é seu valor, maior é a economia atômica. Considerando as reações de produção dos dois principais biocombustíveis utilizados no contexto brasileiro,\nSíntese do biodiesel:\nC57H104O6 + 3 C2H5OH → 3 C20H38O2 + C3H8O3\n\nSíntese do etanol:\nC12H22O11 + H2O → 4 C2H5OH + 4 CO2\n\npode-se afirmar que há uma maior economia de átomos e\nDados de Massa Molar (g/mol): C57H104O6 = 884; C2H5OH = 46; C20H38O2 = 310; C3H8O3 = 92; C12H22O11 = 342; H2O = 18; CO2 = 44.",
+      principal: "Leia os textos 1 e 2, a seguir, para responder às questões 14 e 15.\nTexto 1\nA Química Verde é uma área multidisciplinar que cria, desen-volve e aplica produtos e processos químicos que visam à redu-ção ou eliminação do uso e da geração de substâncias nocivas ao meio ambiente e ao homem. Em 2019, para reunir várias ações relativas à Química Verde, os pesquisadores Paul T. Anas-tas e Julie B. Zimmerman propuseram a Tabela Periódica dos Elementos Figurativos da Química Verde e Sustentável – TPQVS (figura abaixo). Assim como na Tabela Periódica dos Elementos Químicos, a TPQVS apresenta \"elementos\", os quais, porém, representam ações associadas aos preceitos da Química Verde, sendo que cada grupo (G) da TPQVS reúne ações com os mes-mos preceitos.\n(Table: Elementos humanitários, Elementos da Química Verde e da Engenharia Verde, Elementos de habilitação das condições de sistema, Elementos nobres, and groups G1-G10 with their descriptions)\n\nTexto 2\n\"A Química é pura beleza;\nOs átomos e as moléculas são a realeza,\nreagindo no compasso da natureza\npara transformar o mundo com delicadeza.\nSou um simples menestrel da ciência\nque defende suas ideias com veemência.\nComo Químico, quero atuar com sapiência,\ndesenvolvendo processos de alta eficiência.\n\nA Química não é mais poluição;\npara o fóssil ela tem a substituição;\nrenovando o verde como solução.\n\nVivemos num tempo de ambiguidade,\nonde a terra, a água e o ar estão em vulnerabilidade.\nFaçamos da Química o caminho para a sustentabilidade\"\n(MOTA, Claudio J. A. Conferência de Abertura da 45ª. Reunião Anual da Sociedade Bra-sileira de Química, 2022.)\n\nUm dos princípios da Química Verde, ilustrado por um dos gru-pos na TPQVS (texto I), é a economia atômica, dada pela razão da massa do produto de interesse pela massa total dos reagen-tes, sendo que quanto mais próximo de 1 é seu valor, maior é a economia atômica. Considerando as reações de produção dos dois principais biocombustíveis utilizados no contexto brasileiro,\nSíntese do biodiesel:\nC57H104O6 + 3 C2H5OH → 3 C20H38O2 + C3H8O3\n\nSíntese do etanol:\nC12H22O11 + H2O → 4 C2H5OH + 4 CO2\n\npode-se afirmar que há uma maior economia de átomos e\nDados de Massa Molar ($g/mol$): C57H104O6 = 884; C2H5OH = 46; C20H38O2 = 310; C3H8O3 = 92; C12H22O11 = 342; H2O = 18; CO2 = 44.",
       subItens: []
     },
     options: [
-      "maior geração de subprodutos (mol de subprodutos/mol de substrato) na síntese do etanol.",
+      "maior geração de subprodutos (mol de $subprodutos/mol$ de substrato) na síntese do etanol.",
       "menor geração de subprodutos (mol de subprodutos/ mol de substrato) na síntese do etanol.",
-      "maior geração de subprodutos (mol de subprodutos/mol de substrato) na síntese do biodiesel.",
+      "maior geração de subprodutos (mol de $subprodutos/mol$ de substrato) na síntese do biodiesel.",
       "menor geração de subprodutos (mol de subprodutos/ mol de substrato) na síntese do biodiesel."
     ],
     correctAnswer: 3,
@@ -323,7 +323,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Os cigarros eletrônicos, de modo geral, contêm uma cápsula com uma solução líquida de nicotina e aromatizantes que são vaporizados e posteriormente inalados pelo usuário. Apesar de as propagandas afirmarem que a concentração de substâncias tóxicas nos cigarros eletrônicos é menor, a principal substância causadora da dependência, a nicotina, está presente em grande parte desses produtos. A nicotina é inicialmente absorvida e, em seguida, metabolizada no organismo. Após um período, a diminuição de sua concentração no plasma sanguíneo faz com que o usuário sinta a necessidade da inalação de uma nova dose. O gráfico abaixo mostra a concentração de nicotina no plasma sanguíneo de três indivíduos, em função do tempo, após utilização de um cigarro eletrônico, aspirando a mesma dosagem da substância.\n(Graph: Nicotina no plasma (ng/mL) vs. Tempo após a inalação (min) for Indivíduo X, Y, Z.)\n\nCom base nessas informações, pode-se inferir que, para o perí-odo de estudo, a velocidade de absorção da nicotina é",
+      principal: "Os cigarros eletrônicos, de modo geral, contêm uma cápsula com uma solução líquida de nicotina e aromatizantes que são vaporizados e posteriormente inalados pelo usuário. Apesar de as propagandas afirmarem que a concentração de substâncias tóxicas nos cigarros eletrônicos é menor, a principal substância causadora da dependência, a nicotina, está presente em grande parte desses produtos. A nicotina é inicialmente absorvida e, em seguida, metabolizada no organismo. Após um período, a diminuição de sua concentração no plasma sanguíneo faz com que o usuário sinta a necessidade da inalação de uma nova dose. O gráfico abaixo mostra a concentração de nicotina no plasma sanguíneo de três indivíduos, em função do tempo, após utilização de um cigarro eletrônico, aspirando a mesma dosagem da substância.\n(Graph: Nicotina no plasma ($ng/mL$) vs. Tempo após a inalação (min) for Indivíduo X, Y, Z.)\n\nCom base nessas informações, pode-se inferir que, para o perí-odo de estudo, a velocidade de absorção da nicotina é",
       subItens: []
     },
     options: [
@@ -343,7 +343,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "A caiação ou pintura com cal hidratada (Ca(OH)₂) é uma das formas mais antigas para o revestimento da fachada de edifí-cios. A cal virgem (CaO) – produzida a partir do aquecimento do calcário (CaCO₃) –, ao ser colocada em água, forma a cal hidratada que, uma vez aplicada à parede e em contato com o CO₂ do ar atmosférico, vai se transformando em seu precursor, o carbonato de cálcio. Dessa forma, o carbonato de cálcio fica aderido à parede, protegendo-a, conservando-a e embelezan-do-a.\nConsidere as equações a seguir:\ni) CaCO₃ → CaO + CO₂ ; ∆H = 178 kJ/mol\nii) CaO + H₂O → Ca(OH)₂ ; ∆H = -109 kJ/mol\niii) Ca(OH)₂ + CO₂ → CaCO₃ + H₂O ; ΔΗ= ?\n\nLevando em conta apenas as equações do processo de trans-formação e produção do carbonato de cálcio (equações i a iii), pode-se afirmar que o processo",
+      principal: "A caiação ou pintura com cal hidratada (Ca(OH)₂) é uma das formas mais antigas para o revestimento da fachada de edifí-cios. A cal virgem (CaO) – produzida a partir do aquecimento do calcário (CaCO₃) –, ao ser colocada em água, forma a cal hidratada que, uma vez aplicada à parede e em contato com o CO₂ do ar atmosférico, vai se transformando em seu precursor, o carbonato de cálcio. Dessa forma, o carbonato de cálcio fica aderido à parede, protegendo-a, conservando-a e embelezan-do-a.\nConsidere as equações a seguir:\ni) CaCO₃ → CaO + CO₂ ; ∆H = 178 $kJ/mol$\nii) CaO + H₂O → Ca(OH)₂ ; ∆H = -109 $kJ/mol$\niii) Ca(OH)₂ + CO₂ → CaCO₃ + H₂O ; ΔΗ= ?\n\nLevando em conta apenas as equações do processo de trans-formação e produção do carbonato de cálcio (equações i a iii), pode-se afirmar que o processo",
       subItens: []
     },
     options: [
@@ -363,7 +363,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Num estudo cientifico publicado em 2022 no Chemical Science, os autores aqueceram amostras de casca seca de banana, utili-zando, num curto período de tempo, uma lâmpada de alta in-tensidade luminosa. Essa técnica de aquecimento denomina-se pirólise por luz. Essa irradiação promoveu a formação de um tipo de carvão e produtos gasosos. Em um experimento, a quantificação dos gases produzidos encontra-se na figura abai-xo.\n(Bar graph: Rendimento em L/kg de casca de banana for H2, CH4, CO, C2H4, CH3CHO, CO2)\n\nA partir dessas informações, pode-se inferir que um possível in-teresse dos autores era obter combustíveis a partir de biomassa. Sendo assim, pode-se dizer que o objetivo foi alcançado para hidrocarbonetos",
+      principal: "Num estudo cientifico publicado em 2022 no Chemical Science, os autores aqueceram amostras de casca seca de banana, utili-zando, num curto período de tempo, uma lâmpada de alta in-tensidade luminosa. Essa técnica de aquecimento denomina-se pirólise por luz. Essa irradiação promoveu a formação de um tipo de carvão e produtos gasosos. Em um experimento, a quantificação dos gases produzidos encontra-se na figura abai-xo.\n(Bar graph: Rendimento em $L/kg$ de casca de banana for H2, CH4, CO, C2H4, CH3CHO, CO2)\n\nA partir dessas informações, pode-se inferir que um possível in-teresse dos autores era obter combustíveis a partir de biomassa. Sendo assim, pode-se dizer que o objetivo foi alcançado para hidrocarbonetos",
       subItens: []
     },
     options: [
@@ -443,7 +443,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Subsidência é um tipo de colapso em uma superfície, caracte-rizado por deformação quase vertical do terreno ou pela rea-comodação dos materiais em subsuperfície. Os solos muito ar-gilosos estão entre os materiais mais suscetíveis à subsidência. Na cidade de Maceió (AL), esse fenômeno tem afetado diversos bairros da cidade.\n(Image: Subsidência vs. Zona Estável, showing molecular changes in argila with water and expansion/contraction)\n\nA partir do texto e da figura anterior, é correto afirmar que a",
+      principal: "Subsidência é um tipo de colapso em uma superfície, caracte-rizado por deformação quase vertical do terreno ou pela rea-comodação dos materiais em subsuperfície. Os solos muito ar-gilosos estão entre os materiais mais suscetíveis à subsidência. Na cidade de Maceió (AL), esse fenômeno tem afetado diversos bairros da cidade.\n(Image: Subsidência vs. Zona Estável, showing molecular changes in argila with water and $expansion/contraction$)\n\nA partir do texto e da figura anterior, é correto afirmar que a",
       subItens: []
     },
     options: [
@@ -563,14 +563,14 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Use os valores aproximados: g = 10 m/s² e π = 3.\n\nA prática esportiva de \"pular corda” vem conquistando muitos adeptos e se tornando uma modalidade de competição. Numa prova de velocidade, um atleta consegue dar 105 saltos em 30 segundos. Considerando que o ponto da corda que passa sob os pés e acima da cabeça do praticante descreve uma trajetória circular de raio r = 90 cm, qual é a velocidade escalar desse ponto da corda?\n(Image: person jumping rope with trajectory indicated)",
+      principal: "Use os valores aproximados: g = 10 $m/s$² e π = 3.\n\nA prática esportiva de \"pular corda” vem conquistando muitos adeptos e se tornando uma modalidade de competição. Numa prova de velocidade, um atleta consegue dar 105 saltos em 30 segundos. Considerando que o ponto da corda que passa sob os pés e acima da cabeça do praticante descreve uma trajetória circular de raio r = 90 cm, qual é a velocidade escalar desse ponto da corda?\n(Image: person jumping rope with trajectory indicated)",
       subItens: []
     },
     options: [
-      "0,18 m/s.",
-      "3,15 m/s.",
-      "18,9 m/s.",
-      "567 m/s."
+      "0,18 $m/s$.",
+      "3,15 $m/s$.",
+      "18,9 $m/s$.",
+      "567 $m/s$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -587,10 +587,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2,0 m/s².",
-      "4,0 m/s².",
-      "0,05 m/s².",
-      "0,1 m/s²."
+      "2,0 $m/s$².",
+      "4,0 $m/s$².",
+      "0,05 $m/s$².",
+      "0,1 $m/s$²."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -623,7 +623,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o mundo, oferece um belo espetáculo para os observadores no solo. Um maçarico é usado para aquecer o ar no interior do balão, o que faz variar a densidade do ar, permitindo o controle do movimento de subida e descida do balão.\n\nUm balão tem um volume V = 1,6 x 10³ m³ de ar quente no seu interior na temperatura T = 400 K e na pressão atmosférica po = 1,0 atm = 1,0 × 10⁵ Pa. Sabendo-se que o ar quente se comporta como um gás ideal e que a constante universal dos gases é R = 8 J/mol.K, quantos mols de ar n há no interior do balão?",
+      principal: "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o mundo, oferece um belo espetáculo para os observadores no solo. Um maçarico é usado para aquecer o ar no interior do balão, o que faz variar a densidade do ar, permitindo o controle do movimento de subida e descida do balão.\n\nUm balão tem um volume V = 1,6 x 10³ m³ de ar quente no seu interior na temperatura T = 400 K e na pressão atmosférica po = 1,0 atm = 1,0 × 10⁵ Pa. Sabendo-se que o ar quente se comporta como um gás ideal e que a constante universal dos gases é R = 8 $J/mol$.K, quantos mols de ar n há no interior do balão?",
       subItens: []
     },
     options: [
@@ -643,7 +643,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "A pele humana detecta simultaneamente, com uma sensibilida-de que sistemas artificiais não conseguem reproduzir, vibrações, forças estáticas, textura e escorregamento de objetos sobre sua superfície. Sensores tácteis que apresentassem respostas análo-gas à pele humana seriam muito desejáveis. A figura a seguir ilustra um modelo simples, utilizado no estudo da resposta da pele humana. Na referida figura, estão representados o peso P do bloco, a força normal Ñ, a força de atrito, aplicada pela superfície da pele no bloco de massa m e uma força exter-na F aplicada na mola. A constante de mola é k = 10 N/m, e a massa do bloco é m = 4 g. Na iminência de movimento, a deformação da mola é Δx = 3 mm em relação ao seu comprimento de equilíbrio. Qual é o coeficiente de atrito estático entre o bloco e a pele?\n(Image: Diagram of a block on a surface labeled 'pele' with forces P, N, fat, F and spring)",
+      principal: "A pele humana detecta simultaneamente, com uma sensibilida-de que sistemas artificiais não conseguem reproduzir, vibrações, forças estáticas, textura e escorregamento de objetos sobre sua superfície. Sensores tácteis que apresentassem respostas análo-gas à pele humana seriam muito desejáveis. A figura a seguir ilustra um modelo simples, utilizado no estudo da resposta da pele humana. Na referida figura, estão representados o peso P do bloco, a força normal Ñ, a força de atrito, aplicada pela superfície da pele no bloco de massa m e uma força exter-na F aplicada na mola. A constante de mola é k = 10 $N/m$, e a massa do bloco é m = 4 g. Na iminência de movimento, a deformação da mola é Δx = 3 mm em relação ao seu comprimento de equilíbrio. Qual é o coeficiente de atrito estático entre o bloco e a pele?\n(Image: Diagram of a block on a surface labeled 'pele' with forces P, N, fat, F and spring)",
       subItens: []
     },
     options: [
@@ -663,7 +663,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "O planeta anão Ceres foi descoberto em 1801 por Giuseppe Piazzi. Resultados científicos recentes indicam que Ceres te-ria sido formado nas zonas mais afastadas do Sistema Solar e posteriormente lançado para a região onde se encontra atu-almente, entre as órbitas de Marte e Júpiter. A tabela abaixo apresenta o período de translação T, a distância média ao Sol R, bem como T², R³ e a razão (T²/R³) para alguns planetas do Sistema Solar. De acordo com a 3ª Lei de Kepler, a razão (T²/R³) é constante. A partir dos dados da tabela, pode-se concluir que o período orbital de Ceres, T_Ceres, é aproximadamente igual a\n(Table: Planeta, T (anos), R (u.a.), T², R³, (T²/R³) for Vênus, Terra, Marte, Ceres, Júpiter, Saturno, with missing values for Ceres.)",
+      principal: "O planeta anão Ceres foi descoberto em 1801 por Giuseppe Piazzi. Resultados científicos recentes indicam que Ceres te-ria sido formado nas zonas mais afastadas do Sistema Solar e posteriormente lançado para a região onde se encontra atu-almente, entre as órbitas de Marte e Júpiter. A tabela abaixo apresenta o período de translação T, a distância média ao Sol R, bem como T², R³ e a razão (T²/R³) para alguns planetas do Sistema Solar. De acordo com a 3ª Lei de Kepler, a razão (T²/R³) é constante. A partir dos dados da tabela, pode-se concluir que o período orbital de Ceres, $T_Ceres$, é aproximadamente igual a\n(Table: Planeta, T (anos), R (u.a.), T², R³, (T²/R³) for Vênus, Terra, Marte, Ceres, Júpiter, Saturno, with missing values for Ceres.)",
       subItens: []
     },
     options: [
@@ -803,7 +803,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Cientistas desvendaram o mecanismo causador da síndrome de Pitt-Hopkins, uma disfunção neuropsiquiátrica que tem ca-racterísticas do transtorno do espectro autista. A síndrome de Pitt-Hopkins tem como origem uma mutação no gene TCF4 e causa déficit cognitivo, atraso motor profundo, ausência de fala funcional e anormalidades respiratórias. O genoma huma-no tem duas cópias de cada gene. A síndrome de Pitt-Hopkins ocorre quando uma das cópias do TCF4 não funciona. Os cien-tistas buscam alternativas para inserir uma terceira cópia ou fazer com que a única cópia funcional expresse mais proteína para compensar a cópia defeituosa.\n(Adaptado de https://agencia.fapesp.br/estudo-abre-novas-possibilidades-de-tratamen-to-para-forma-de-autismo/38524/. Acesso em 23/05/2022.)\n\nConsiderando as informações apresentadas e seus conhecimen-tos, é correto afirmar que a síndrome é causada em",
+      principal: "Cientistas desvendaram o mecanismo causador da síndrome de Pitt-Hopkins, uma disfunção neuropsiquiátrica que tem ca-racterísticas do transtorno do espectro autista. A síndrome de Pitt-Hopkins tem como origem uma mutação no gene TCF4 e causa déficit cognitivo, atraso motor profundo, ausência de fala funcional e anormalidades respiratórias. O genoma huma-no tem duas cópias de cada gene. A síndrome de Pitt-Hopkins ocorre quando uma das cópias do TCF4 não funciona. Os cien-tistas buscam alternativas para inserir uma terceira cópia ou fazer com que a única cópia funcional expresse mais proteína para compensar a cópia defeituosa.\n(Adaptado de https://agencia.fapesp.$br/estudo$-abre-novas-possibilidades-de-tratamen-to-para-forma-de-autismo/38524/. Acesso em 23/05/2022.)\n\nConsiderando as informações apresentadas e seus conhecimen-tos, é correto afirmar que a síndrome é causada em",
       subItens: []
     },
     options: [
@@ -823,14 +823,14 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "As relações ecológicas podem ser representadas por modelos de fluxo de energia, cujas principais vantagens são as repre-sentações dos decompositores, da matéria orgânica armaze-nada no sistema e da energia dispendida para a manutenção dos organismos. O modelo hipotético a seguir indica os valores (kcal/m²/ano) de produtividade primária bruta (PPB), de produ-tividade primária líquida (PPL), de produtividade secundária lí-quida (PSL) e do fluxo de energia (setas). Os valores dentro das setas indicam a energia assimilada pelo próximo nível trófico.\n(Image: Diagram showing energy flow with PPB, PPL, PSL values, decomposers and energy transfers between trophic levels)\n\nConsiderando os dados apresentados, é correto afirmar que a energia",
+      principal: "As relações ecológicas podem ser representadas por modelos de fluxo de energia, cujas principais vantagens são as repre-sentações dos decompositores, da matéria orgânica armaze-nada no sistema e da energia dispendida para a manutenção dos organismos. O modelo hipotético a seguir indica os valores ($kcal/m$²/ano) de produtividade primária bruta (PPB), de produ-tividade primária líquida (PPL), de produtividade secundária lí-quida (PSL) e do fluxo de energia (setas). Os valores dentro das setas indicam a energia assimilada pelo próximo nível trófico.\n(Image: Diagram showing energy flow with PPB, PPL, PSL values, decomposers and energy transfers between trophic levels)\n\nConsiderando os dados apresentados, é correto afirmar que a energia",
       subItens: []
     },
     options: [
-      "utilizada para a manutenção do consumidor primário é de 40 kcal/m²/ano.",
-      "direcionada aos decompositores é de 352 kcal/m²/ano.",
-      "consumida na manutenção dos autotróficos é de 700 kcal/m²/ano.",
-      "assimilada pelos carnívoros é de 270 kcal/m²/ano."
+      "utilizada para a manutenção do consumidor primário é de 40 $kcal/m$²/ano.",
+      "direcionada aos decompositores é de 352 $kcal/m$²/ano.",
+      "consumida na manutenção dos autotróficos é de 700 $kcal/m$²/ano.",
+      "assimilada pelos carnívoros é de 270 $kcal/m$²/ano."
     ],
     correctAnswer: 1,
     materia: ["Biologia"],
@@ -843,7 +843,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Estudos revelaram como a disbiose - desequilíbrio da micro-biota intestinal – pode influenciar no desenvolvimento de dis-túrbios neurodegenerativos como a doença de Parkinson. As pessoas acometidas por essa doença apresentam alterações significativas nos centros motores do cérebro.\n\nAssinale a alternativa que preenche corretamente as lacunas no excerto a seguir.\nA agregação da proteína α-sinucleína nos (i) ______ está re-lacionada com a doença de Parkinson. Foi demonstrado que células específicas do tecido (ii) ______ da mucosa intestinal podem expressar essa proteína. A disbiose pode levar ao au-mento de espécies de (iii) ______ que, eventualmente, contri-buem para agregação da α-sinucleína no intestino, e essa prote-ína pode migrar para o (iv) ______ configurando um possível mecanismo de surgimento da doença de Parkinson esporádica.\n(Adaptado de https://agencia.fapesp.br/estudo-revela-como-o-desequilibrio-da-micro-biota-intestinal-pode-levar-a-doenca-de-parkinson/38159/. Acesso em 07/06/2022.)",
+      principal: "Estudos revelaram como a disbiose - desequilíbrio da micro-biota intestinal – pode influenciar no desenvolvimento de dis-túrbios neurodegenerativos como a doença de Parkinson. As pessoas acometidas por essa doença apresentam alterações significativas nos centros motores do cérebro.\n\nAssinale a alternativa que preenche corretamente as lacunas no excerto a seguir.\nA agregação da proteína α-sinucleína nos (i) ______ está re-lacionada com a doença de Parkinson. Foi demonstrado que células específicas do tecido (ii) ______ da mucosa intestinal podem expressar essa proteína. A disbiose pode levar ao au-mento de espécies de (iii) ______ que, eventualmente, contri-buem para agregação da α-sinucleína no intestino, e essa prote-ína pode migrar para o (iv) ______ configurando um possível mecanismo de surgimento da doença de Parkinson esporádica.\n(Adaptado de https://agencia.fapesp.$br/estudo$-revela-como-o-desequilibrio-da-micro-biota-intestinal-pode-levar-a-doenca-de-parkinson/38159/. Acesso em 07/06/2022.)",
       subItens: []
     },
     options: [
@@ -903,7 +903,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "A seguir, são apresentadas quatro funções, definidas para x ∈ IR; são também apresentados quatro esboços de gráficos.\nFunções:\nf(x) = sen(x) + π / 4\ng(x)=cos(x+π/4) - sen(x+π/4)\nh(x) = sen(x – π / 4)\np(x) = cos(x) + sen(x)\nGráficos:\n(i) (Graph of a trigonometric function)\n(ii) (Graph of a trigonometric function)\n(iii) (Graph of a trigonometric function)\n(iv) (Graph of a trigonometric function)\n\nA opção que descreve corretamente a correspondência entre as funções e seus gráficos é:",
+      principal: "A seguir, são apresentadas quatro funções, definidas para x ∈ IR; são também apresentados quatro esboços de gráficos.\nFunções:\nf(x) = $\\sin$(x) + π / 4\ng(x)=$\\cos$(x+π/4) - $\\sin$(x+π/4)\nh(x) = $\\sin$(x – π / 4)\np(x) = $\\cos$(x) + $\\sin$(x)\nGráficos:\n(i) (Graph of a trigonometric function)\n(ii) (Graph of a trigonometric function)\n(iii) (Graph of a trigonometric function)\n(iv) (Graph of a trigonometric function)\n\nA opção que descreve corretamente a correspondência entre as funções e seus gráficos é:",
       subItens: []
     },
     options: [
@@ -948,7 +948,7 @@ createQuestion({
     },
     options: [
       "1.",
-      "1/8.",
+      "$1/8$.",
       "-1.",
       "6."
     ],
@@ -989,8 +989,8 @@ createQuestion({
     options: [
       "2R.",
       "R.",
-      "R/3.",
-      "2R/3."
+      "$R/3$.",
+      "$2R/3$."
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -1008,7 +1008,7 @@ createQuestion({
     },
     options: [
       "f⁻¹(x) = f(x), para x≠1 .",
-      "f⁻¹(x)=1/f(x), para x ≠ ±1.",
+      "f⁻¹(x)=$1/f$(x), para x ≠ ±1.",
       "f⁻¹(x) = -f(x), para x≠1.",
       "f⁻¹(x) = f(-x), para x≠1."
     ],
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Leia o texto a seguir para responder às questões 51 e 52.\nUma transformação de Möbius é um quociente de polinômios de grau 1. Essas transformações são muito importantes em computação gráfica e também na área da engenharia conheci-da como \"processamento de sinais\".\n\nConsidere a função y = f(x) = (x+1)/(x-1) definida para x ∈ R, x ≠ 1, que é uma versão simplificada de uma transformação de Möbius.\n\nConsidere a sequência x₁, x₂,..., definida por x₁ = 6, e para cada n≥1, temos x_n+1 = f(x_n), ou seja,\n• x₁ = 6,\n• x₂ = f(x₁) = 7/5,\n• x₃ = f(x₂),\ne assim sucessivamente. Então, a soma dos 100 primeiros ter-mos desta sequência vale",
+      principal: "Leia o texto a seguir para responder às questões 51 e 52.\nUma transformação de Möbius é um quociente de polinômios de grau 1. Essas transformações são muito importantes em computação gráfica e também na área da engenharia conheci-da como \"processamento de sinais\".\n\nConsidere a função y = f(x) = (x+1)/(x-1) definida para x ∈ R, x ≠ 1, que é uma versão simplificada de uma transformação de Möbius.\n\nConsidere a sequência x₁, x₂,..., definida por x₁ = 6, e para cada n≥1, temos $x_n$+1 = f($x_n$), ou seja,\n• x₁ = 6,\n• x₂ = f(x₁) = $7/5$,\n• x₃ = f(x₂),\ne assim sucessivamente. Então, a soma dos 100 primeiros ter-mos desta sequência vale",
       subItens: []
     },
     options: [
@@ -1063,14 +1063,14 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "A figura seguinte mostra um triângulo retângulo ABC. O ponto M é o ponto médio do lado AB, que é a hipotenusa.\n(Image: Right triangle ABC, M is midpoint of hypotenuse AB, side lengths 6 and 5, angle α at C)\n\nO valor de sen α é",
+      principal: "A figura seguinte mostra um triângulo retângulo ABC. O ponto M é o ponto médio do lado AB, que é a hipotenusa.\n(Image: Right triangle ABC, M is midpoint of hypotenuse AB, side lengths 6 and 5, angle α at C)\n\nO valor de $\\sin$ α é",
       subItens: []
     },
     options: [
-      "24/25.",
-      "5/6.",
-      "1/2.",
-      "√3/2."
+      "$24/25$.",
+      "$5/6$.",
+      "$1/2$.",
+      "√$3/2$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1223,7 +1223,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "\"Como pode um povo vivo\nViver nesta carestia\nComo poderei viver\nComo poderei viver\nDia e noite, noite e dia\nCom a barriga vazia\nComo pode um operário\nViver com esse salário\nComo pode a criançada\nEstudar sem comer nada\"\n(\"Programa oficial do lançamento geral do abaixo-assinado\" do Movimento do Custo de Vida, 12/03/1978. Doc. 039_4. Fundo ECO_PRE, Centro Pastoral Vergueiro. Citado em: MONTEIRO, Thiago Nunes. Como pode um povo vivo viver nesta carestia: 0 Movimento do Custo de Vida em São Paulo (1973-1982). São Paulo: Humanitas, 2017.)\n\nA letra acima foi utilizada pela campanha coordenada pelo Mo-vimento Custo de Vida, iniciado por mulheres das periferias da cidade de São Paulo, em 1978. Sobre as lutas por melhores condições de vida durante a década de 1970 na ditadura militar (1964-85), é correto afirmar que",
+      principal: "\"Como pode um povo vivo\nViver nesta carestia\nComo poderei viver\nComo poderei viver\nDia e noite, noite e dia\nCom a barriga vazia\nComo pode um operário\nViver com esse salário\nComo pode a criançada\nEstudar sem comer nada\"\n(\"Programa oficial do lançamento geral do abaixo-assinado\" do Movimento do Custo de Vida, 12/03/1978. Doc. $039_4$. Fundo $ECO_PRE$, Centro Pastoral Vergueiro. Citado em: MONTEIRO, Thiago Nunes. Como pode um povo vivo viver nesta carestia: 0 Movimento do Custo de Vida em São Paulo (1973-1982). São Paulo: Humanitas, 2017.)\n\nA letra acima foi utilizada pela campanha coordenada pelo Mo-vimento Custo de Vida, iniciado por mulheres das periferias da cidade de São Paulo, em 1978. Sobre as lutas por melhores condições de vida durante a década de 1970 na ditadura militar (1964-85), é correto afirmar que",
       subItens: []
     },
     options: [
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "A palavra Antropoceno aparece hoje no título de centenas de livros e artigos científicos, em milhares de citações, e seu uso continua a crescer nos meios de comunicação. Referindo-se à época em que as ações humanas começaram a provocar altera-ções biofísicas em escala planetária, o termo foi criado nos anos de 1980 e popularizado na década de 2000. Grupos de espe-cialistas constataram que essas alterações afetavam o Sistema Terra do relativo equilíbrio observado desde o início do Holoce-no, há 11.700 anos. Para marcar o início dessa nova era, tais grupos escolheram simbolicamente o ano de 1784, momento do aperfeiçoamento da máquina a vapor e sua popularização. O contexto também corresponde ao início da revolução indus-trial e da utilização dos combustíveis fósseis.\n(Adaptado de LÉNA, Philippe; ISSBERNER, Liz-Rejane. Antropoceno: os desafios essen-ciais de um debate científico. Correio da Unesco. Suplemento online. Unesco Courrier. 2018-2. Disponível em: https://pt.unesco.org/courier/2018-2/antropoceno-os-desafios--essenciais-um-debate-cientifico. Acesso em 03/05/2022.)\n\nCom base na leitura do texto acima e em seus conhecimentos, assinale a alternativa correta.",
+      principal: "A palavra Antropoceno aparece hoje no título de centenas de livros e artigos científicos, em milhares de citações, e seu uso continua a crescer nos meios de comunicação. Referindo-se à época em que as ações humanas começaram a provocar altera-ções biofísicas em escala planetária, o termo foi criado nos anos de 1980 e popularizado na década de 2000. Grupos de espe-cialistas constataram que essas alterações afetavam o Sistema Terra do relativo equilíbrio observado desde o início do Holoce-no, há 11.700 anos. Para marcar o início dessa nova era, tais grupos escolheram simbolicamente o ano de 1784, momento do aperfeiçoamento da máquina a vapor e sua popularização. O contexto também corresponde ao início da revolução indus-trial e da utilização dos combustíveis fósseis.\n(Adaptado de LÉNA, Philippe; ISSBERNER, Liz-Rejane. Antropoceno: os desafios essen-ciais de um debate científico. Correio da Unesco. Suplemento online. Unesco Courrier. 2018-2. Disponível em: https://pt.unesco.org/courier/2018-$2/antropoceno$-os-desafios--essenciais-um-debate-cientifico. Acesso em 03/05/2022.)\n\nCom base na leitura do texto acima e em seus conhecimentos, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1323,7 +1323,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "O texto a seguir focaliza o termo \"audism”, que pode ser traduzido para o português como “ouvintismo”.\nAudism is an attitude based on thinking that results in a negative stigma toward anyone who does not hear. Like racism or sexism, audism judges, labels, and limits individuals based on whether a person hears and speaks. Audism reflects the medical view of deafness as a disability that must be fixed. It is rooted in the historical belief that deaf people were savages without language. Because many deaf people grew up in hearing families who did not learn to sign, audism may be ingrained.\n\nAudism occurs when one:\n- Asks a deaf person to read your lips or write when s/he has indicated this isn't preferred.\n- Asks a deaf person to \"tone down\" their facial expressions because they make others uncomfortable.\n- Devotes a significant amount of instructional time for a deaf child to lipreading and speech therapy, rather than educa-tional subjects.\n(Adaptado de: https://vawnet.org/sc/audism-oppression-lives-deaf-individuals. Acesso em 21/06/2022.)\n\nÉ correto afirmar que o texto",
+      principal: "O texto a seguir focaliza o termo \"audism”, que pode ser traduzido para o português como “ouvintismo”.\nAudism is an attitude based on thinking that results in a negative stigma toward anyone who does not hear. Like racism or sexism, audism judges, labels, and limits individuals based on whether a person hears and speaks. Audism reflects the medical view of deafness as a disability that must be fixed. It is rooted in the historical belief that deaf people were savages without language. Because many deaf people grew up in hearing families who did not learn to sign, audism may be ingrained.\n\nAudism occurs when one:\n- Asks a deaf person to read your lips or write when $s/he$ has indicated this isn't preferred.\n- Asks a deaf person to \"tone down\" their facial expressions because they make others uncomfortable.\n- Devotes a significant amount of instructional time for a deaf child to lipreading and speech therapy, rather than educa-tional subjects.\n(Adaptado de: https://vawnet.org/sc/audism-oppression-lives-deaf-individuals. Acesso em 21/06/2022.)\n\nÉ correto afirmar que o texto",
       subItens: []
     },
     options: [
@@ -1343,7 +1343,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Leia os textos a seguir para responder às questões 68 e 69.\nTexto 1\nIn history, the rise of street art around the world has mirrored multiple waves of political unrest. The use of this avant-garde art style for political activism has spread to the Bay Area, California. As an influx of white upper-class residents displaced low-income households, the anger of local people fueled a movement to take back the streets via spray paint, video projections, stenciling any street art medium. Bay Area activists are weaponizing street art to unite the masses and reclaim their communities' stolen narratives, re-imagining better futures alongside comrades across the nation. Their freeing and colorful art combats the virulent systems of oppression that white supremacy has entrenched in our society, those same systems which mark their craft as illegal under the guise of vandalism. Street art democratizes public spaces and takes back the streets as effectively as physical protests. As a street artist, Nancypili Hernandez says that her art transforms \"locations that feel like a parking lot or private property, to feeling like a collective community commons.\"\n(Adaptado de: https://harvardpolitics.com/street-art-activism/. Acesso em 20/06/2022.)\n\nTexto 2\n(Image: Street sign that reads \"PARKING\" but has \"ART\" written below it, creating a new meaning.)\n\nSegundo o Texto 1, é correto afirmar que a arte de rua é",
+      principal: "Leia os textos a seguir para responder às questões 68 e 69.\nTexto 1\nIn history, the rise of street art around the world has mirrored multiple waves of political unrest. The use of this avant-garde art style for political activism has spread to the Bay Area, California. As an influx of white upper-class residents displaced low-income households, the anger of local people fueled a movement to take back the streets via spray paint, video projections, stenciling any street art medium. Bay Area activists are weaponizing street art to unite the masses and reclaim their communities' stolen narratives, re-imagining better futures alongside comrades across the nation. Their freeing and colorful art combats the virulent systems of oppression that white supremacy has entrenched in our society, those same systems which mark their craft as illegal under the guise of vandalism. Street art democratizes public spaces and takes back the streets as effectively as physical protests. As a street artist, Nancypili Hernandez says that her art transforms \"locations that feel like a parking lot or private property, to feeling like a collective community commons.\"\n(Adaptado de: https://harvardpolitics.$com/street$-art-activism/. Acesso em 20/06/2022.)\n\nTexto 2\n(Image: Street sign that reads \"PARKING\" but has \"ART\" written below it, creating a new meaning.)\n\nSegundo o Texto 1, é correto afirmar que a arte de rua é",
       subItens: []
     },
     options: [
@@ -1363,7 +1363,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "Leia os textos a seguir para responder às questões 68 e 69.\nTexto 1\nIn history, the rise of street art around the world has mirrored multiple waves of political unrest. The use of this avant-garde art style for political activism has spread to the Bay Area, California. As an influx of white upper-class residents displaced low-income households, the anger of local people fueled a movement to take back the streets via spray paint, video projections, stenciling any street art medium. Bay Area activists are weaponizing street art to unite the masses and reclaim their communities' stolen narratives, re-imagining better futures alongside comrades across the nation. Their freeing and colorful art combats the virulent systems of oppression that white supremacy has entrenched in our society, those same systems which mark their craft as illegal under the guise of vandalism. Street art democratizes public spaces and takes back the streets as effectively as physical protests. As a street artist, Nancypili Hernandez says that her art transforms \"locations that feel like a parking lot or private property, to feeling like a collective community commons.\"\n(Adaptado de: https://harvardpolitics.com/street-art-activism/. Acesso em 20/06/2022.)\n\nTexto 2\n(Image: Street sign that reads \"PARKING\" but has \"ART\" written below it, creating a new meaning.)\n\nConsiderando os Textos 1 e 2, assinale a alternativa que preen-che corretamente as lacunas do trecho a seguir. A construção de sentidos na fotografia (Texto 2) se dá, entre outras coisas, por meio da (i) _______ da palavra pintada no muro. Além disso, a fotografia retrata (ii) _______ citada no texto apresentado anteriormente (Texto 1).",
+      principal: "Leia os textos a seguir para responder às questões 68 e 69.\nTexto 1\nIn history, the rise of street art around the world has mirrored multiple waves of political unrest. The use of this avant-garde art style for political activism has spread to the Bay Area, California. As an influx of white upper-class residents displaced low-income households, the anger of local people fueled a movement to take back the streets via spray paint, video projections, stenciling any street art medium. Bay Area activists are weaponizing street art to unite the masses and reclaim their communities' stolen narratives, re-imagining better futures alongside comrades across the nation. Their freeing and colorful art combats the virulent systems of oppression that white supremacy has entrenched in our society, those same systems which mark their craft as illegal under the guise of vandalism. Street art democratizes public spaces and takes back the streets as effectively as physical protests. As a street artist, Nancypili Hernandez says that her art transforms \"locations that feel like a parking lot or private property, to feeling like a collective community commons.\"\n(Adaptado de: https://harvardpolitics.$com/street$-art-activism/. Acesso em 20/06/2022.)\n\nTexto 2\n(Image: Street sign that reads \"PARKING\" but has \"ART\" written below it, creating a new meaning.)\n\nConsiderando os Textos 1 e 2, assinale a alternativa que preen-che corretamente as lacunas do trecho a seguir. A construção de sentidos na fotografia (Texto 2) se dá, entre outras coisas, por meio da (i) _______ da palavra pintada no muro. Além disso, a fotografia retrata (ii) _______ citada no texto apresentado anteriormente (Texto 1).",
       subItens: []
     },
     options: [
@@ -1383,7 +1383,7 @@ createQuestion({
     university: "unicamp",
     year: 2023,
     text: {
-      principal: "COVID AND SMELL LOSS: SOME ANSWERS EMERGE. Researchers are making headway in understanding how coronavirus causes loss of smell. Several potential treatments to tackle the condition are undergoing clinical trials, including steroids and blood plasma. Recently, a study surveyed 616,318 people in the United States who have had COVID-19. It found that, compared with those who had been infected with the original virus, people who had contracted the Alpha variant were 50% as likely to have chemosensory disruption. This probability fell to 44% for the Delta variant, and to 17% for Omicron. However, a significant portion of people infected early in the pandemic still experience chemosensory effects. A 2021 study followed 100 people who had had mild cases of COVID-19 and 100 people who repeatedly tested negative. More than a year after their infections, 46% of those who had had COVID-19 still had smell problems; by contrast, just 10% of the control group had developed some smell loss, but for other reasons. Furthermore, 7% of those who had been infected still had total smell loss, or 'anosmia', at the end of the year. Given that more than 500 million cases of COVID-19 have been confirmed worldwide, tens of millions of people probably have lingering smell problems.\n(Adaptado de: https://www.nature.com/articles/d41586-022-01589-z. Acesso em 22/06/2022.)\n\nSegundo o texto,",
+      principal: "COVID AND SMELL LOSS: SOME ANSWERS EMERGE. Researchers are making headway in understanding how coronavirus causes loss of smell. Several potential treatments to tackle the condition are undergoing clinical trials, including steroids and blood plasma. Recently, a study surveyed 616,318 people in the United States who have had COVID-19. It found that, compared with those who had been infected with the original virus, people who had contracted the $\\alpha$ variant were 50% as likely to have chemosensory disruption. This probability fell to 44% for the $\\delta$ variant, and to 17% for Omicron. However, a significant portion of people infected early in the pandemic still experience chemosensory effects. A 2021 study followed 100 people who had had mild cases of COVID-19 and 100 people who repeatedly tested negative. More than a year after their infections, 46% of those who had had COVID-19 still had smell problems; by contrast, just 10% of the control group had developed some smell loss, but for other reasons. Furthermore, 7% of those who had been infected still had total smell loss, or 'anosmia', at the end of the year. Given that more than 500 million cases of COVID-19 have been confirmed worldwide, tens of millions of people probably have lingering smell problems.\n(Adaptado de: https://www.nature.com/articles/d41586-022-01589-z. Acesso em 22/06/2022.)\n\nSegundo o texto,",
       subItens: []
     },
     options: [
@@ -1408,7 +1408,7 @@ createQuestion({
     },
     options: [
       "ilustrar atitudes sexistas vivenciadas por mulheres negras e brancas.",
-      "problematizar a diferença de tratamento dispensado a mu-Theres negras e brancas.",
+      "problematizar a diferença de tratamento dispensado a $\\mu$-Theres negras e brancas.",
       "advogar pela igualdade de direitos entre homens e mulhe-res.",
       "criticar a separação entre brancos e negros de diferentes classes sociais."
     ],

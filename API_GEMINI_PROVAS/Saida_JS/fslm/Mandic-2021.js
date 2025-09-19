@@ -7,11 +7,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "10^4 + 10^5 + 10^6",
-      "10^4 x 10^5 x 10^6",
+      "$10^4$ + $10^5$ + $10^6$",
+      "$10^4$ x $10^5$ x $10^6$",
       "10!/6! + 10!/5! + 10!/4!",
       "10!/6! x 10!/5! x 10!/4!",
-      "4^10 + 5^10 + 6^10"
+      "$4^10$ + $5^10$ + $6^10$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -29,10 +29,10 @@ createQuestion({
     },
     options: [
       "Até 19/04/2021 mais de um terço da população adulta vacinada já recebeu a 2ª dose.",
-      "3,25.10^7 foi o total de vacinas aplicadas no Brasil até 19/04/2021.",
+      "3,25.$10^7$ foi o total de vacinas aplicadas no Brasil até 19/04/2021.",
       "Pouco mais de 20% da população adulta brasileira foi vacinada até 19/04/2021.",
       "Até 19/04/2021 mais de 15% da população adulta tomou a 1ª dose no Brasil.",
-      "8,4.10^6 foi o total de 2ª dose da vacina aplicadas no Brasil até 19/04/2021."
+      "8,4.$10^6$ foi o total de 2ª dose da vacina aplicadas no Brasil até 19/04/2021."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "fslm",
     year: 2021,
     text: {
-      principal: "A temperatura em graus Celsius de uma cidade em determinado dia é dada pela função a seguir, sendo t o número de horas após a meia noite:\n\nT(t) = 7,5 sen (π/12 (t-10)) + 10,5\n\nA temperatura máxima e a temperatura mínima registradas neste dia foram, respectivamente",
+      principal: "A temperatura em graus Celsius de uma cidade em determinado dia é dada pela função a seguir, sendo t o número de horas após a meia noite:\n\nT(t) = 7,5 $\\sin$ (π/12 (t-10)) + 10,5\n\nA temperatura máxima e a temperatura mínima registradas neste dia foram, respectivamente",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "fslm",
     year: 2021,
     text: {
-      principal: "Observe a tabela e as reações exemplo.\n\nTabela. Íons e valores de constante de estabilidade por etapas e valor de βn\n\n[Tabela de Íons e valores de constante de estabilidade por etapas e valor de βn, com colunas: Íon, Ligante, k1, k2, k3, k4, k5, k6, βn. Dados para Ag+ NH3, Zn2+ NH3, Cu2+ NH3, Ni2+ NH3, Cu2+ en, Ni2+ en, Ni2+ EDTA.]\n\nReações exemplo:\n\nK1\nM^n+ (íon metálico) + 1NH3(ligante) ⇌ [M(NH3)]^n+ (complexo) 1) reação parcial\n\nK2\n[M(NH3)]^n+ (complexo) + 1NH3(ligante) ⇌ [M(NH3)2]^n+ (complexo) 2) reação parcial\n\nβn\nM^n+ (íon metálico) + 2NH3(ligante) ⇌ [M(NH3)2]^n+ (complexo) 3) reação global\n\nKequilíbrio = k1 X k2 = βn = 1,6x10^7.\n\nConsiderando os conceitos de equilíbrio químico para a formação de espécies complexas pouco dissociadas, apresentados na tabela e pelas reações exemplo, apresentadas a seguir, é correto afirmar, com relação ao produto final da reação, que quanto:",
+      principal: "Observe a tabela e as reações exemplo.\n\nTabela. Íons e valores de constante de estabilidade por etapas e valor de βn\n\n[Tabela de Íons e valores de constante de estabilidade por etapas e valor de βn, com colunas: Íon, Ligante, k1, k2, k3, k4, k5, k6, βn. Dados para Ag+ NH3, Zn2+ NH3, Cu2+ NH3, Ni2+ NH3, Cu2+ en, Ni2+ en, Ni2+ EDTA.]\n\nReações exemplo:\n\nK1\n$M^n$+ (íon metálico) + 1NH3(ligante) ⇌ [M(NH3)]^n+ (complexo) 1) reação parcial\n\nK2\n[M(NH3)]^n+ (complexo) + 1NH3(ligante) ⇌ [M(NH3)2]^n+ (complexo) 2) reação parcial\n\nβn\n$M^n$+ (íon metálico) + 2NH3(ligante) ⇌ [M(NH3)2]^n+ (complexo) 3) reação global\n\nKequilíbrio = k1 X k2 = βn = 1,$6x10^7$.\n\nConsiderando os conceitos de equilíbrio químico para a formação de espécies complexas pouco dissociadas, apresentados na tabela e pelas reações exemplo, apresentadas a seguir, é correto afirmar, com relação ao produto final da reação, que quanto:",
       subItens: []
     },
     options: [
@@ -381,7 +381,7 @@ createQuestion({
     university: "fslm",
     year: 2021,
     text: {
-      principal: "Leia o texto para responder à questão.\n\n\"Sediada em Nova York (EUA), a Organização das Nações Unidas (ONU) é formada por 193 países. O organismo foi fundado em 24 de outubro de 1945 para trabalhar pela paz e desenvolvimento com a ratificação da Carta das Nações Unidas pela China, Estados Unidos, França, Reino Unido e a ex-União Soviética, bem como pela maioria dos signatários. O Brasil é um dos 51 membros fundadores.\"\n\nFonte: https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2019/09/onu-surgiu-para-garantir-a-paz-e-seguranca-do-mundo\n\nDentro da ONU existem diversas agências especializadas com finalidades distintas. Assinale a alternativa que não contenha uma agência especializada da ONU.",
+      principal: "Leia o texto para responder à questão.\n\n\"Sediada em Nova York (EUA), a Organização das Nações Unidas (ONU) é formada por 193 países. O organismo foi fundado em 24 de outubro de 1945 para trabalhar pela paz e desenvolvimento com a ratificação da Carta das Nações Unidas pela China, Estados Unidos, França, Reino Unido e a ex-União Soviética, bem como pela maioria dos signatários. O Brasil é um dos 51 membros fundadores.\"\n\nFonte: https://www.gov.br/planalto/pt-$br/acompanhe$-o-planalto/noticias/2019/09/onu-surgiu-para-garantir-a-paz-e-seguranca-do-mundo\n\nDentro da ONU existem diversas agências especializadas com finalidades distintas. Assinale a alternativa que não contenha uma agência especializada da ONU.",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "fslm",
     year: 2021,
     text: {
-      principal: "Leia o texto para responder à questão.\n\nDez anos de Flip\n\nAo mesmo tempo, poucos eventos culturais despertam reações tão contraditórias quanto a Flip, desde que, há dez anos, ela fez de Paraty uma das capitais mundiais da literatura. Recorrendo à polarização proposta por Umberto Eco décadas atrás, há os apocalípticos e os integrados. Para os primeiros, a Flip é um show midiático patrocinado pelas grandes corporações da vida editorial, uma prova de como o capitalismo compra e corrompe tudo e podemos encontrar sinais de \"apocalipse\" até no insuspeito escritor Jonathan Franzen (capa da Time como \"o romancista da América\"); em sua palestra lembrou que, ao chegar a Paraty, encontrou placas enormes com propaganda de um cartão de crédito e, sussurrou, conspirador, \"isso já diz muita coisa\". Os americanos também adoram falar mal do dinheiro.\n\nFranzen é um realista de carteirinha. Mas outro grande escritor, este de vocação nefelibata, o espanhol Enrique Vila-Matas, denuncia com uma certa volúpia a \"extinção da literatura\", entregue hoje ao horror das leis do mercado. Bem, não tomemos ao pé da letra a afirmação, uma licença poética transcendente segundo o clássico gosto ibérico, a realidade é uma consequência do desejo, e não o contrário. A ideia apocalíptica pressupõe uma utopia poética, mas também política, redentora e pura, onde a arte, enfim, brilhará como um diamante intocado pelo mundo real.\n\nEnquanto isso não acontece, os integrados leem livros, pedem autógrafos, lotam as tendas da Flip, bebem cachaça, passeiam pela cidade histórica, conversam fiado, odeiam alguns autores e amam outros; há um clima de devoção e um culto das celebridades que faz parte do pacote (a diária num hotel de Paraty durante a Flip é uma das mais caras do mundo).\n\nFonte: https://www.gazetadopovo.com.br/vida-e-cidadania/dez-anos-de-flip-2g4u32kc7xz6chsk0mxrioymm/\n\nNo período: \"A ideia apocalíptica pressupõe uma utopia poética, mas também política, redentora e pura, onde a arte, enfim, brilhará como um diamante intocado pelo mundo real.\", a expressão destacada expressa a ideia de",
+      principal: "Leia o texto para responder à questão.\n\nDez anos de Flip\n\nAo mesmo tempo, poucos eventos culturais despertam reações tão contraditórias quanto a Flip, desde que, há dez anos, ela fez de Paraty uma das capitais mundiais da literatura. Recorrendo à polarização proposta por Umberto Eco décadas atrás, há os apocalípticos e os integrados. Para os primeiros, a Flip é um show midiático patrocinado pelas grandes corporações da vida editorial, uma prova de como o capitalismo compra e corrompe tudo e podemos encontrar sinais de \"apocalipse\" até no insuspeito escritor Jonathan Franzen (capa da Time como \"o romancista da América\"); em sua palestra lembrou que, ao chegar a Paraty, encontrou placas enormes com propaganda de um cartão de crédito e, sussurrou, conspirador, \"isso já diz muita coisa\". Os americanos também adoram falar mal do dinheiro.\n\nFranzen é um realista de carteirinha. Mas outro grande escritor, este de vocação nefelibata, o espanhol Enrique Vila-Matas, denuncia com uma certa volúpia a \"extinção da literatura\", entregue hoje ao horror das leis do mercado. Bem, não tomemos ao pé da letra a afirmação, uma licença poética transcendente segundo o clássico gosto ibérico, a realidade é uma consequência do desejo, e não o contrário. A ideia apocalíptica pressupõe uma utopia poética, mas também política, redentora e pura, onde a arte, enfim, brilhará como um diamante intocado pelo mundo real.\n\nEnquanto isso não acontece, os integrados leem livros, pedem autógrafos, lotam as tendas da Flip, bebem cachaça, passeiam pela cidade histórica, conversam fiado, odeiam alguns autores e amam outros; há um clima de devoção e um culto das celebridades que faz parte do pacote (a diária num hotel de Paraty durante a Flip é uma das mais caras do mundo).\n\nFonte: https://www.gazetadopovo.com.$br/vida$-e-$cidadania/dez$-anos-de-flip-2g4u32kc7xz6chsk0mxrioymm/\n\nNo período: \"A ideia apocalíptica pressupõe uma utopia poética, mas também política, redentora e pura, onde a arte, enfim, brilhará como um diamante intocado pelo mundo real.\", a expressão destacada expressa a ideia de",
       subItens: []
     },
     options: [

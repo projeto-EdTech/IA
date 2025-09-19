@@ -93,7 +93,7 @@ createQuestion({
     options: [
       "ma-qui-na-ri-a, ne-ce-ssá-ri-o",
       "cir-cuns-pec-to, ex-ce-sso",
-      "psi-qui-a-tra, su-bli-nhar",
+      "$\\psi$-qui-a-tra, su-bli-nhar",
       "me-io, Pneu-mo-tó-rax",
       "ab-rup-to, vo-o"
     ],
@@ -423,7 +423,7 @@ createQuestion({
     university: "ufam",
     year: 2017,
     text: {
-      principal: "\"Naquele dia santíssimo da Natividade do Senhor, quando o rei se ergueu depois de orar na missa em frente do túmulo do bem-aventurado Pedro apóstolo, o Papa Leão colocou-lhe uma coroa na cabeça e todo o povo dos Romanos o aclamou: 'Vida e vitória para Carlos Augusto, coroado por Deus grande e pacífico Imperador dos Romanos!'. E depois deste louvor foi adorado pelo apostólico à maneira dos antigos príncipes e, posta à parte a denominação de patrício, foi chamado imperador e augusto” (Anais Laurisenses. In PEDRERO-SÁNCHEZ, Maria Guadalupe. História da Idade Média. Textos e testemunhas. São Paulo, Editora UNESP, 2000, p. 70-71). Este texto remete à cerimônia de coroação de Carlos Magno, rei dos francos, como novo Imperador romano, ato oficiado pelo papa Leão III em 25 de dezembro do ano 800.\n\nSobre esse evento político-religioso, envolvendo a Igreja romana e o reino franco em fins do século VIII e princípios do século IX, analise as afirmativas a seguir:\n\nI. A coroação de Carlos Magno por Leão III confirmava a aliança estabelecida entre o bispado de Roma e o rei franco Pepino, o Breve, em 754, quando este teve sua própria coroação reconhecida pela Igreja romana.\nII. A coroação de Carlos Magno por Leão III foi o ato de agradecimento da Igreja romana às guerras de conquista empreendidas pelo rei franco nos territórios muçulmanos do norte da África.\nIII. A coroação de Carlos Magno iniciou um processo de rompimento entre o bispado de Roma e o Império Romano do Oriente, sediado em Constantinopla.\nIV. A coroação de Carlos Magno por Leão III foi o ato de agradecimento da Igreja romana às guerras de conquista empreendidas pelo rei franco nos territórios muçulmanos do Oriente Médio.\nV. A coroação de Carlos Magno por Leão III significou a emergência do papado como verdadeiro poder, no século IX, na medida em que a aliança com o imperador franco também possibilitou ao papado a constituição do \"Patrimônio de São Pedro\" (território que atravessava a Itália central, de Roma a Ravena).\n\nAssinale a alternativa correta:",
+      principal: "\"Naquele dia santíssimo da Natividade do Senhor, quando o rei se ergueu depois de orar na missa em frente do túmulo do bem-aventurado Pedro apóstolo, o Papa Leão colocou-lhe uma coroa na cabeça e todo o povo dos Romanos o aclamou: 'Vida e vitória para Carlos Augusto, coroado por Deus grande e pacífico Imperador dos Romanos!'. E depois deste louvor foi adorado pelo apostólico à maneira dos antigos príncipes e, posta à parte a denominação de patrício, foi chamado imperador e augusto” (Anais Laurisenses. In PEDRERO-SÁNCHEZ, Maria Guadalupe. História da Idade Média. Textos e testemunhas. São Paulo, Editora UNESP, 2000, p. 70-71). Este texto remete à cerimônia de coroação de Carlos Magno, rei dos francos, como novo Imperador romano, ato oficiado pelo papa Leão III em 25 de dezembro do ano 800.\n\nSobre esse evento político-religioso, envolvendo a Igreja romana e o reino franco em fins do século VIII e princípios do século IX, analise as afirmativas a seguir:\n\nI. A coroação de Carlos Magno por Leão III confirmava a aliança estabelecida entre o bispado de Roma e o rei franco Pepino, o Breve, em 754, quando este teve sua própria coroação reconhecida pela Igreja romana.\nII. A coroação de Carlos Magno por Leão III foi o ato de agradecimento da Igreja romana às guerras de conquista empreendidas pelo rei franco nos territórios $\\mu$çulmanos do norte da África.\nIII. A coroação de Carlos Magno iniciou um processo de rompimento entre o bispado de Roma e o Império Romano do Oriente, sediado em Constantinopla.\nIV. A coroação de Carlos Magno por Leão III foi o ato de agradecimento da Igreja romana às guerras de conquista empreendidas pelo rei franco nos territórios $\\mu$çulmanos do Oriente Médio.\nV. A coroação de Carlos Magno por Leão III significou a emergência do papado como verdadeiro poder, no século IX, na medida em que a aliança com o imperador franco também possibilitou ao papado a constituição do \"Patrimônio de São Pedro\" (território que atravessava a Itália central, de Roma a Ravena).\n\nAssinale a alternativa correta:",
       subItens: []
     },
     options: [
@@ -570,7 +570,7 @@ createQuestion({
     university: "ufam",
     year: 2017,
     text: {
-      principal: "Sobre a localização das reservas minerais no estado do Amazonas, assinale a alternativa que apresenta a associação CORRETA.\n\nReserva Mineral\tLocalização\na) Gás\tArari\nb) Silvinita\tCaburí\nc) Nióbio\tSeis Lagos\nd) Estanho\tUrucu\ne) Sais de Potássio\tPitinga",
+      principal: "Sobre a localização das reservas minerais no estado do Amazonas, assinale a alternativa que apresenta a associação CORRETA.\n\nReserva Mineral	Localização\na) Gás	Arari\nb) Silvinita	Caburí\nc) Nióbio	Seis Lagos\nd) Estanho	Urucu\ne) Sais de Potássio	Pitinga",
       subItens: []
     },
     options: [
@@ -843,15 +843,15 @@ createQuestion({
     university: "ufam",
     year: 2017,
     text: {
-      principal: "Em todas as questões que forem necessárias o uso da aceleração da gravidade, adote g = 10m/s², e da densidade da água, adote p = 1g / cm³.\n\nUm estudante precisava obter, experimentalmente, o período de um pêndulo simples, T. No entanto, não lembrava a expressão física desta grandeza, apenas lembrava-se das explicações de seu professor de que o período é medido em unidade de tempo, e depende apenas do comprimento do pêndulo e da aceleração da gravidade local. Decidiu assumir que T = k lᵃgᵇ, onde k é uma constante adimensional, l é o comprimento do pêndulo e g a aceleração da gravidade. Por meio de análise dimensional, que é uma poderosa ferramenta para evitar memorizar equações físicas, o estudante encontrou os seguintes valores das constantes a e b na expressão proposta para o período:",
+      principal: "Em todas as questões que forem necessárias o uso da aceleração da gravidade, adote g = $10m/s$², e da densidade da água, adote p = 1g / cm³.\n\nUm estudante precisava obter, experimentalmente, o período de um pêndulo simples, T. No entanto, não lembrava a expressão física desta grandeza, apenas lembrava-se das explicações de seu professor de que o período é medido em unidade de tempo, e depende apenas do comprimento do pêndulo e da aceleração da gravidade local. Decidiu assumir que T = k lᵃgᵇ, onde k é uma constante adimensional, l é o comprimento do pêndulo e g a aceleração da gravidade. Por meio de análise dimensional, que é uma poderosa ferramenta para evitar memorizar equações físicas, o estudante encontrou os seguintes valores das constantes a e b na expressão proposta para o período:",
       subItens: []
     },
     options: [
-      "a = 1/2 e b = −1/2",
-      "a = 1/2 e b = −1",
-      "a = 1 e b = −1/2",
-      "a = -1/2 e b = 1/2",
-      "a = 1/2 e b = 1/2"
+      "a = $1/2$ e b = −$1/2$",
+      "a = $1/2$ e b = −1",
+      "a = 1 e b = −$1/2$",
+      "a = -$1/2$ e b = $1/2$",
+      "a = $1/2$ e b = $1/2$"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -864,7 +864,7 @@ createQuestion({
     university: "ufam",
     year: 2017,
     text: {
-      principal: "Qual o consumo anual de gasolina no Brasil? Estime a ordem de grandeza desse consumo anual assumindo que a população do Brasil é de 200 milhões e que existe 1 carro para cada 4 habitantes. Assuma ainda que o consumo de gasolina por carro seja 10 km/l e que cada carro viaje anualmente 16 mil quilômetros. A ordem de grandeza é:",
+      principal: "Qual o consumo anual de gasolina no Brasil? Estime a ordem de grandeza desse consumo anual assumindo que a população do Brasil é de 200 milhões e que existe 1 carro para cada 4 habitantes. Assuma ainda que o consumo de gasolina por carro seja 10 $km/l$ e que cada carro viaje anualmente 16 mil quilômetros. A ordem de grandeza é:",
       subItens: []
     },
     options: [
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "ufam",
     year: 2017,
     text: {
-      principal: "A curva do gráfico a seguir representa a função f:R+ → R dada por f(x) = log₁/₂ x. Se B dista 4cm da origem, a área do triângulo ABC é igual a:\n\n[Imagem de um gráfico cartesiano com uma função logarítmica decrescente f(x)=log_1/2(x), e um triângulo ABC, onde A=(1,0), B é um ponto no eixo x, e C é um ponto na curva e na vertical de B. O ponto B está a 4cm da origem.]",
+      principal: "A curva do gráfico a seguir representa a função f:R+ → R dada por f(x) = $\\log$₁/₂ x. Se B dista 4cm da origem, a área do triângulo ABC é igual a:\n\n[Imagem de um gráfico cartesiano com uma função logarítmica decrescente f(x)=$\\log_1/2$(x), e um triângulo ABC, onde A=(1,0), B é um ponto no eixo x, e C é um ponto na curva e na vertical de B. O ponto B está a 4cm da origem.]",
       subItens: []
     },
     options: [
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "ufam",
     year: 2017,
     text: {
-      principal: "Apenas três degraus dão acesso à porta de uma escola, sendo que cada um tem 20 cm de altura. Para atender portadores de necessidades especiais, será construída uma rampa respeitando a legislação em vigor. A rampa deve formar, com o solo, um ângulo de 6º, conforme mostra a figura a seguir.\n\n[Imagem de uma rampa sendo construída sobre degraus. Os degraus têm altura total e a rampa forma um ângulo de 6 graus com o solo. A letra C indica o comprimento da rampa.]\n\nO comprimento C desta rampa em metros será aproximadamente de:\n\nDados: sen 6° ≈ 0,1045, cos 6° ≈ 0,9945",
+      principal: "Apenas três degraus dão acesso à porta de uma escola, sendo que cada um tem 20 cm de altura. Para atender portadores de necessidades especiais, será construída uma rampa respeitando a legislação em vigor. A rampa deve formar, com o solo, um ângulo de 6º, conforme mostra a figura a seguir.\n\n[Imagem de uma rampa sendo construída sobre degraus. Os degraus têm altura total e a rampa forma um ângulo de 6 graus com o solo. A letra C indica o comprimento da rampa.]\n\nO comprimento C desta rampa em metros será aproximadamente de:\n\nDados: $\\sin$ 6° ≈ 0,1045, $\\cos$ 6° ≈ 0,9945",
       subItens: []
     },
     options: [

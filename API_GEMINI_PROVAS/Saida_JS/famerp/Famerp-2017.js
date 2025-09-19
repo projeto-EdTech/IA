@@ -45,7 +45,7 @@ createQuestion({
     university: "famerp",
     year: 2017,
     text: {
-      principal: "De acordo com a Organização Mundial da Saúde, a população adulta deveria consumir, no máximo, até 2 gramas de sódio por dia, o que equivale, para cada indivíduo adulto, a uma colher de chá rasa de sal de cozinha refinado por dia.\n(www.sbh.org.br. Adaptado.)\nConsiderando-se que a população adulta brasileira consuma, em média, uma colher de sopa rasa de sal de cozinha refinado por dia, o que equivale a 12/5 de uma colher de chá rasa por indivíduo, é correto afirmar que a estimativa do consumo médio diário de sódio da população adulta brasileira, em gramas, é igual a",
+      principal: "De acordo com a Organização Mundial da Saúde, a população adulta deveria consumir, no máximo, até 2 gramas de sódio por dia, o que equivale, para cada indivíduo adulto, a uma colher de chá rasa de sal de cozinha refinado por dia.\n(www.sbh.org.br. Adaptado.)\nConsiderando-se que a população adulta brasileira consuma, em média, uma colher de sopa rasa de sal de cozinha refinado por dia, o que equivale a $12/5$ de uma colher de chá rasa por indivíduo, é correto afirmar que a estimativa do consumo médio diário de sódio da população adulta brasileira, em gramas, é igual a",
       subItens: []
     },
     options: [
@@ -87,7 +87,7 @@ createQuestion({
     university: "famerp",
     year: 2017,
     text: {
-      principal: "Em uma circunferência trigonométrica de centro C e origem dos arcos em O, foram marcados os pontos P e Q, sendo que as medidas dos arcos OP e OQ são iguais, respectivamente, a α e 2α, conforme indica a figura.\n\nQ'\nQ\n2α\nλ\nP\nα\nC\n1\nO\nX\n\nSabendo-se que Q' é a projeção ortogonal de Q sobre o eixo y, que λ é uma semicircunferência de diâmetro CQ' e que sen α = 1/3, a área da região colorida na figura é",
+      principal: "Em uma circunferência trigonométrica de centro C e origem dos arcos em O, foram marcados os pontos P e Q, sendo que as medidas dos arcos OP e OQ são iguais, respectivamente, a α e 2α, conforme indica a figura.\n\nQ'\nQ\n2α\nλ\nP\nα\nC\n1\nO\nX\n\nSabendo-se que Q' é a projeção ortogonal de Q sobre o eixo y, que λ é uma semicircunferência de diâmetro CQ' e que $\\sin$ α = $1/3$, a área da região colorida na figura é",
       subItens: []
     },
     options: [
@@ -108,15 +108,15 @@ createQuestion({
     university: "famerp",
     year: 2017,
     text: {
-      principal: "O banco de sangue de um hospital possui 100 bolsas de sangue, cada uma obtida de um doador diferente. As bolsas estão distribuídas por grupo sanguíneo, conforme mostra a tabela.\n\nGrupo sanguíneo | Número de bolsas\n------------------|------------------\nO                 | 45\nA                 | 29\nB                 | 22\nAB                | 4\nTotal             | 100\n\nDois dos 100 doadores das bolsas indicadas na tabela pretendem voltar ao hospital para fazer nova doação de uma bolsa de sangue cada um. Considerando que os dados da tabela não tenham se alterado até que essas duas pessoas voltem a fazer sua doação, a probabilidade de que a proporção de bolsas do grupo sanguíneo AB, desse hospital, passe a ser igual a 1/17 do total de bolsas após essas duas novas doações é de",
+      principal: "O banco de sangue de um hospital possui 100 bolsas de sangue, cada uma obtida de um doador diferente. As bolsas estão distribuídas por grupo sanguíneo, conforme mostra a tabela.\n\nGrupo sanguíneo | Número de bolsas\n------------------|------------------\nO                 | 45\nA                 | 29\nB                 | 22\nAB                | 4\nTotal             | 100\n\nDois dos 100 doadores das bolsas indicadas na tabela pretendem voltar ao hospital para fazer nova doação de uma bolsa de sangue cada um. Considerando que os dados da tabela não tenham se alterado até que essas duas pessoas voltem a fazer sua doação, a probabilidade de que a proporção de bolsas do grupo sanguíneo AB, desse hospital, passe a ser igual a $1/17$ do total de bolsas após essas duas novas doações é de",
       subItens: []
     },
     options: [
-      "1/425",
-      "1/625",
-      "1/289",
-      "1/825",
-      "1/51"
+      "$1/425$",
+      "$1/625$",
+      "$1/289$",
+      "$1/825$",
+      "$1/51$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -133,11 +133,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "36/5",
+      "$36/5$",
       "7",
-      "37/5",
-      "34/5",
-      "32/5"
+      "$37/5$",
+      "$34/5$",
+      "$32/5$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -196,11 +196,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "20/6,25",
-      "log₁․₆ 20",
-      "log₂₀ 6,25",
-      "log₂₀ 1,6",
-      "20/1,6"
+      "$20/6$,25",
+      "$\\log$₁․₆ 20",
+      "$\\log$₂₀ 6,25",
+      "$\\log$₂₀ 1,6",
+      "$20/1$,6"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -633,15 +633,15 @@ createQuestion({
     university: "famerp",
     year: 2017,
     text: {
-      principal: "Uma bola rola sobre uma bancada horizontal e a abandona, com velocidade V₀, caindo até o chão. As figuras representam a visão de cima e a visão de frente desse movimento, mostrando a bola em instantes diferentes durante sua queda, até o momento em que ela toca o solo.\n\nVisão de cima\nVisão de frente\nV₀\n+g=10m/s²\n2,4 m\n1,25 m\n\nDesprezando a resistência do ar e considerando as informações das figuras, o módulo de V₀ é igual a",
+      principal: "Uma bola rola sobre uma bancada horizontal e a abandona, com velocidade V₀, caindo até o chão. As figuras representam a visão de cima e a visão de frente desse movimento, mostrando a bola em instantes diferentes durante sua queda, até o momento em que ela toca o solo.\n\nVisão de cima\nVisão de frente\nV₀\n+g=$10m/s$²\n2,4 m\n1,25 m\n\nDesprezando a resistência do ar e considerando as informações das figuras, o módulo de V₀ é igual a",
       subItens: []
     },
     options: [
-      "2,4 m/s.",
-      "0,6 m/s.",
-      "1,2 m/s.",
-      "4,8 m/s.",
-      "3,6 m/s."
+      "2,4 $m/s$.",
+      "0,6 $m/s$.",
+      "1,2 $m/s$.",
+      "4,8 $m/s$.",
+      "3,6 $m/s$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -654,7 +654,7 @@ createQuestion({
     university: "famerp",
     year: 2017,
     text: {
-      principal: "Em uma exibição de acrobacias aéreas, um avião pilotado por uma pessoa de 80 kg faz manobras e deixa no ar um rastro de fumaça indicando sua trajetória. Na figura, está representado um looping circular de raio 50 m contido em um plano vertical, descrito por esse avião.\n\n50 m\nA\nfora de escala\n\nAdotando g = 10 m/s² e considerando que ao passar pelo ponto A, ponto mais alto da trajetória circular, a velocidade do avião é de 180 km/h, a intensidade da força exercida pelo assento sobre o piloto, nesse ponto, é igual a",
+      principal: "Em uma exibição de acrobacias aéreas, um avião pilotado por uma pessoa de 80 kg faz manobras e deixa no ar um rastro de fumaça indicando sua trajetória. Na figura, está representado um looping circular de raio 50 m contido em um plano vertical, descrito por esse avião.\n\n50 m\nA\nfora de escala\n\nAdotando g = 10 $m/s$² e considerando que ao passar pelo ponto A, ponto mais alto da trajetória circular, a velocidade do avião é de 180 $km/h$, a intensidade da força exercida pelo assento sobre o piloto, nesse ponto, é igual a",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "famerp",
     year: 2017,
     text: {
-      principal: "Dois pulsos transversais, 1 e 2, propagam-se por uma mesma corda elástica, em sentidos opostos, com velocidades escalares constantes e iguais, de módulos 60 cm/s. No instante t = 0, a corda apresenta-se com a configuração representada na figura 1.\n\nFIGURA 1\npulso 1\n10 cm\npulso 2\n10 cm\n\nApós a superposição desses dois pulsos, a corda se apresentará com a configuração representada na figura 2.\n\nFIGURA 2\n\nConsiderando a superposição apenas desses dois pulsos, a configuração da corda será a representada na figura 2, pela primeira vez, no instante",
+      principal: "Dois pulsos transversais, 1 e 2, propagam-se por uma mesma corda elástica, em sentidos opostos, com velocidades escalares constantes e iguais, de módulos 60 $cm/s$. No instante t = 0, a corda apresenta-se com a configuração representada na figura 1.\n\nFIGURA 1\npulso 1\n10 cm\npulso 2\n10 cm\n\nApós a superposição desses dois pulsos, a corda se apresentará com a configuração representada na figura 2.\n\nFIGURA 2\n\nConsiderando a superposição apenas desses dois pulsos, a configuração da corda será a representada na figura 2, pela primeira vez, no instante",
       subItens: []
     },
     options: [
@@ -850,7 +850,7 @@ createQuestion({
       "não impediu o avanço de outras formas de religiosidade, e o paganismo, apesar de reprimido, continuou a crescer e manteve-se hegemônico.",
       "deu-se a partir das conquistas romanas na Palestina e revelou a correção e a supremacia religiosa da fé cristã frente às antigas religiões.",
       "não impediu a manifestação de outras formas de religiosidade e, apesar de terem ocorrido tensões, algumas antigas práticas religiosas persistiram.",
-      "deu-se a partir das cruzadas, que levaram a fé cristã aos pagãos, judeus e muçulmanos que controlavam as terras do Oriente Próximo.",
+      "deu-se a partir das cruzadas, que levaram a fé cristã aos pagãos, judeus e $\\mu$çulmanos que controlavam as terras do Oriente Próximo.",
       "deu-se a partir do extermínio dos grupos que professavam crenças antigas e da eliminação dos materiais que contivessem referências ao paganismo."
     ],
     correctAnswer: 2,
@@ -864,7 +864,7 @@ createQuestion({
     university: "famerp",
     year: 2017,
     text: {
-      principal: "Aparece na literatura medieval, no final do século IX, para florescer no século XI, até se tornar um lugar comum no século XII, um tema que descreve a sociedade que se divide em três categorias ou ordens.\n(Jacques Le Goff. Para uma outra Idade Média, 2013.)\nAs \"três categorias ou ordens\" citadas no texto são, respectivamente,",
+      principal: "Aparece na literatura medieval, no final do século IX, para florescer no século $\\xi$, até se tornar um lugar comum no século XII, um tema que descreve a sociedade que se divide em três categorias ou ordens.\n(Jacques Le Goff. Para uma outra Idade Média, 2013.)\nAs \"três categorias ou ordens\" citadas no texto são, respectivamente,",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "famerp",
     year: 2017,
     text: {
-      principal: "Leia o texto para responder às questões 52 e 53.\nO elemento estrôncio ocorre na natureza como componente de dois minerais: a estroncianita, SrCO₃ (massa molar 147,6 g/mol), e a celestita, SrSO₄ (massa molar 183,6 g/mol). A partir desses minerais são obtidos os sais de estrôncio, utilizados na pirotecnia para conferir a cor vermelho-carmim intensa a fogos de artifício.\nNos minerais estroncianita e celestita, o elemento estrôncio se apresenta sob a forma de",
+      principal: "Leia o texto para responder às questões 52 e 53.\nO elemento estrôncio ocorre na natureza como componente de dois minerais: a estroncianita, SrCO₃ (massa molar 147,6 $g/mol$), e a celestita, SrSO₄ (massa molar 183,6 $g/mol$). A partir desses minerais são obtidos os sais de estrôncio, utilizados na pirotecnia para conferir a cor vermelho-carmim intensa a fogos de artifício.\nNos minerais estroncianita e celestita, o elemento estrôncio se apresenta sob a forma de",
       subItens: []
     },
     options: [
@@ -1191,7 +1191,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Química"],
-    conteudo: ["Óxidos", "pH e Caráter Ácido/Básico"],
+    conteudo: ["Óxidos", "pH e Caráter Á$cido/B$ásico"],
     imageNames: []
 }),
 
@@ -1410,7 +1410,7 @@ createQuestion({
     university: "famerp",
     year: 2017,
     text: {
-      principal: "Leia o texto de Carlos Ranulfo Melo para responder às questões de 68 a 70.\nCorrupção eleitoral\nAs democracias contemporâneas são arranjos representativos. A representação foi a \"solução encontrada\" para um dilema. Tão logo firmado o princípio da igualdade política entre os indivíduos, regimes políticos baseados na tradição, na origem de classe ou na condição de status perderam a legitimidade. Por outro lado, o tamanho das sociedades e a complexidade cada vez maior das questões em discussão – demandando acesso a informações, disponibilidade de tempo e condições de negociação – tornaram proibitiva a ideia de que todos participassem das decisões a serem coletivizadas. A escolha de um corpo de representantes em eleições livres, justas e periódicas – e que incluam a todo o eleitorado adulto – passou a ser algo que, sem esgotar a noção contemporânea de democracia, firmou-se como sua pedra angular. Ao se dirigirem às urnas os cidadãos reafirmam sua condição de igualdade perante um ato fundamental do Estado. Ao organizar as eleições e transformar os votos em postos executivos e/ou legislativos, o aparato institucional das democracias permite que, em maior ou menor grau, os mais diversos interesses, opiniões e valores sejam vocalizados no curso do processo decisório. Tal processo, no entanto, pode apresentar problemas que ameacem corromper o corpo político constituído, comprometendo sua legitimidade e diminuindo sua capacidade de oferecer à coletividade os resultados esperados.\nA corrupção eleitoral ou a reiterada incidência de fenômenos capazes de desvirtuar o processo de constituição de um corpo de representantes sempre significou um problema para as democracias. A condição para que seu enfrentamento se tornasse possível foi a constituição de uma Justiça Eleitoral dotada de autonomia face aos poderes político e econômico, com recursos suficientes para organizar e poderes necessários para regulamentar os processos eleitorais. Mas mesmo as democracias consolidadas não conseguiram impedir de forma cabal que determinados interesses pudessem, utilizando os recursos que tivessem à mão, obter vantagens diferenciadas em função de sua participação nas eleições.\n(Corrupção, 2008. Adaptado.)\nNo mundo contemporâneo, a representação política é",
+      principal: "Leia o texto de Carlos Ranulfo Melo para responder às questões de 68 a 70.\nCorrupção eleitoral\nAs democracias contemporâneas são arranjos representativos. A representação foi a \"solução encontrada\" para um dilema. Tão logo firmado o princípio da igualdade política entre os indivíduos, regimes políticos baseados na tradição, na origem de classe ou na condição de status perderam a legitimidade. Por outro lado, o tamanho das sociedades e a complexidade cada vez maior das questões em discussão – demandando acesso a informações, disponibilidade de tempo e condições de negociação – tornaram proibitiva a ideia de que todos participassem das decisões a serem coletivizadas. A escolha de um corpo de representantes em eleições livres, justas e periódicas – e que incluam a todo o eleitorado adulto – passou a ser algo que, sem esgotar a noção contemporânea de democracia, firmou-se como sua pedra angular. Ao se dirigirem às urnas os cidadãos reafirmam sua condição de igualdade perante um ato fundamental do Estado. Ao organizar as eleições e transformar os votos em postos executivos $e/ou$ legislativos, o aparato institucional das democracias permite que, em maior ou menor grau, os mais diversos interesses, opiniões e valores sejam vocalizados no curso do processo decisório. Tal processo, no entanto, pode apresentar problemas que ameacem corromper o corpo político constituído, comprometendo sua legitimidade e diminuindo sua capacidade de oferecer à coletividade os resultados esperados.\nA corrupção eleitoral ou a reiterada incidência de fenômenos capazes de desvirtuar o processo de constituição de um corpo de representantes sempre significou um problema para as democracias. A condição para que seu enfrentamento se tornasse possível foi a constituição de uma Justiça Eleitoral dotada de autonomia face aos poderes político e econômico, com recursos suficientes para organizar e poderes necessários para regulamentar os processos eleitorais. Mas mesmo as democracias consolidadas não conseguiram impedir de forma cabal que determinados interesses pudessem, utilizando os recursos que tivessem à mão, obter vantagens diferenciadas em função de sua participação nas eleições.\n(Corrupção, 2008. Adaptado.)\nNo mundo contemporâneo, a representação política é",
       subItens: []
     },
     options: [
@@ -1548,7 +1548,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Inglês"],
-    conteudo: ["Compreensão de Texto", "Referência Pronominal/Lexical"],
+    conteudo: ["Compreensão de Texto", "Referência $Pronominal/Lexical$"],
     imageNames: []
 }),
 

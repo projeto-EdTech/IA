@@ -177,9 +177,9 @@ createQuestion({
     options: [
       "I-F / II-E / III-A / IV-C / V-B / VI-D;",
       "I-A / II-D / III-B / IV-C / V-E / VI-F;",
-      "I-C/II-F / III-E / IV-A / V-D / VI-B;",
+      "I-$C/II$-F / III-E / IV-A / V-D / VI-B;",
       "I-B / II-E / III-D / IV-F / V-A / VI-C;",
-      "I-D / II-C / III-A/IV-B / V-E / VI-F."
+      "I-D / II-C / III-$A/IV$-B / V-E / VI-F."
     ],
     correctAnswer: 2,
     materia: ["Biologia"],
@@ -192,15 +192,15 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Um automóvel sai de Boa Vista às 8:00 horas e chega em Manaus às 21:30 horas. Calcule a velocidade média do automóvel, no SI, usando a distância de 780km entre Boa Vista e Manaus, sabendo-se que o automóvel fez 4 paradas: (1.ª parada) 32,0 minutos no município de Mucajaí/RR, para um lanche; (2.ª parada) 71,0 minutos em um restaurante no município de Rorainópolis/RR, para almoçar; (3.ª parada), 22,0 minutos, na loja de artesanato, na entrada da reserva Waimiri-Atroari/RR, para aquisição de lembranças; e (4.ª parada) 61,0 minutos em um restaurante no município de Presidente Figueiredo/AM, para jantar. Com base nas informações, é correto afirmar que a velocidade média é de:",
+      principal: "Um automóvel sai de Boa Vista às 8:00 horas e chega em Manaus às 21:30 horas. Calcule a velocidade média do automóvel, no SI, usando a distância de 780km entre Boa Vista e Manaus, sabendo-se que o automóvel fez 4 paradas: (1.ª parada) 32,0 minutos no município de Mucajaí/RR, para um lanche; (2.ª parada) 71,0 minutos em um restaurante no município de Rorainó$polis/RR$, para almoçar; (3.ª parada), 22,0 minutos, na loja de artesanato, na entrada da reserva Waimiri-$Atroari/RR$, para aquisição de lembranças; e (4.ª parada) 61,0 minutos em um restaurante no município de Presidente $Figueiredo/AM$, para jantar. Com base nas informações, é correto afirmar que a velocidade média é de:",
       subItens: []
     },
     options: [
-      "20,8m/s",
-      "17,0m/s",
-      "28,0m/s",
-      "7,5m/s",
-      "32km/h"
+      "20,$8m/s$",
+      "17,$0m/s$",
+      "28,$0m/s$",
+      "7,$5m/s$",
+      "$32km/h$"
     ],
     correctAnswer: 13,
     materia: ["Física"],
@@ -234,7 +234,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "O teorema da energia cinética diz que, o trabalho total efetuado sobre uma partícula é igual a variação da energia cinética da partícula. Se uma partícula de massa m = 2000,00g tem velocidade inicial de vi = 2,50m/s e depois passados um certo tempo tem velocidade final de vf = 5,00m/s.\nO trabalho total t, em Joule, realizado sobre a partícula será de:",
+      principal: "O teorema da energia cinética diz que, o trabalho total efetuado sobre uma partícula é igual a variação da energia cinética da partícula. Se uma partícula de massa m = 2000,00g tem velocidade inicial de vi = 2,$50m/s$ e depois passados um certo tempo tem velocidade final de vf = 5,$00m/s$.\nO trabalho total t, em Joule, realizado sobre a partícula será de:",
       subItens: []
     },
     options: [
@@ -346,7 +346,7 @@ createQuestion({
       "as Cruzadas foram grandes batalhas contra os povos não cristãos que habitavam o norte da Europa, numa tentativa de convertê-los ao cristianismo através da força, contradizendo todo o ensinamento bíblico que se pautava numa religião pacífica;",
       "o movimento das Cruzadas teve como principal objetivo a conquista de Jerusalém e do Santo Sepulcro, onde Jesus teria sido sepultado;",
       "as Cruzadas iniciaram-se no Concílio de Clermont, quando o papa Urbano II convocou os cristãos para partirem rumo a Terra Santa, em um período da Idade Média que durou quase dois séculos;",
-      "entre os séculos XI e XIII partiram da Europa oito Cruzadas que envolveram milhares de pessoas, desde a nobreza até os mendigos;",
+      "entre os séculos $\\xi$ e XIII partiram da Europa oito Cruzadas que envolveram milhares de pessoas, desde a nobreza até os mendigos;",
       "além do objetivo religioso, de tomar lugares sagrados para os cristãos, as Cruzadas serviram a outros interesses, como a conquista de novas terras pela nobreza feudal e a ampliação das atividades mercantis."
     ],
     correctAnswer: 0,
@@ -444,7 +444,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Complete with the appropriate adverb in this sentence:\nYou speak English very_______.",
+      principal: "Complete with the appropriate adverb in this sentence:\nYou speak English $very_______$.",
       subItens: []
     },
     options: [
@@ -465,7 +465,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Choose the alternative which contains the correct form of the verbs to fill the gaps in the following sentence: \"When_______ up this morning, it_______ raining, so I_______ my umbrella to_______ to work.\"",
+      principal: "Choose the alternative which contains the correct form of the verbs to fill the gaps in the following sentence: \"$When_______$ up this morning, $it_______$ raining, so $I_______$ my umbrella $to_______$ to work.\"",
       subItens: []
     },
     options: [
@@ -578,7 +578,7 @@ createQuestion({
       "1",
       "π",
       "2π",
-      "1/2"
+      "$1/2$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -717,7 +717,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Em um experimento, temos uma placa de vidro que é atravessada por um feixe de luz. Nesta placa de vidro, em especial, a velocidade da luz é 2,5 x 10⁸ m/s. Considerando a velocidade da luz no vácuo como sendo igual a 3,0 x 10⁸ m/s, marque a alternativa que corresponde ao índice de refração do vidro neste experimento.",
+      principal: "Em um experimento, temos uma placa de vidro que é atravessada por um feixe de luz. Nesta placa de vidro, em especial, a velocidade da luz é 2,5 x 10⁸ $m/s$. Considerando a velocidade da luz no vácuo como sendo igual a 3,0 x 10⁸ $m/s$, marque a alternativa que corresponde ao índice de refração do vidro neste experimento.",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "O conceito de concentração fundiária é central para a compreensão dos argumentos apresentados pelos autores no texto a seguir:\n\"O Brasil é um país reconhecido internacionalmente pelos problemas históricos de distribuição de terras. Organizações internacionais como a ONU (Organização das Nações Unidas) e o Bird (Banco Internacional para Reconstrução e o Desenvolvimento - Banco Mundial) veiculam, através de sucessivos relatórios, a concentração fundiária do Brasil como um empecilho para o desenvolvimento, embora que nos moldes ideológicos que eles professam. Até a própria legislação reconhece essa problemática, visto que a Constituição Federal de 1988 prevê disposições legais de ação por parte do Governo, com aparato ao Estatuto da Terra, de 1964. Entres as causas fundamentais estão as formas de parcelamento da terra no período colonial e a manutenção do projeto de latifundiário de produção no campo pelo estado elitista.\"\n(In: CAVALCANTE, M; FERNANDES, B. M. Territorialização do agronegócio e concentração fundiária. Revista NERA, ano 11, número 13, julho/dezembro de 2008).\nAssinale a alternativa que discute adequadamente a ideia de concentração fundiária:",
+      principal: "O conceito de concentração fundiária é central para a compreensão dos argumentos apresentados pelos autores no texto a seguir:\n\"O Brasil é um país reconhecido internacionalmente pelos problemas históricos de distribuição de terras. Organizações internacionais como a ONU (Organização das Nações Unidas) e o Bird (Banco Internacional para Reconstrução e o Desenvolvimento - Banco Mundial) veiculam, através de sucessivos relatórios, a concentração fundiária do Brasil como um empecilho para o desenvolvimento, embora que nos moldes ideológicos que eles professam. Até a própria legislação reconhece essa problemática, visto que a Constituição Federal de 1988 prevê disposições legais de ação por parte do Governo, com aparato ao Estatuto da Terra, de 1964. Entres as causas fundamentais estão as formas de parcelamento da terra no período colonial e a manutenção do projeto de latifundiário de produção no campo pelo estado elitista.\"\n(In: CAVALCANTE, M; FERNANDES, B. M. Territorialização do agronegócio e concentração fundiária. Revista NERA, ano 11, número 13, $julho/dezembro$ de 2008).\nAssinale a alternativa que discute adequadamente a ideia de concentração fundiária:",
       subItens: []
     },
     options: [
@@ -780,7 +780,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Observe o mapa abaixo e leia o texto a seguir para responder a questão:\nNossas Bacias Produtoras Marítimas e Terrestres\n\"No atual contexto exploratório brasileiro, a possibilidade de ocorrência do conjunto de rochas com potencial para gerar e acumular petróleo na camada pré-sal, encontra-se na chamada província pré-sal, uma área com aproximadamente 800 km de extensão por 200 km de largura, no litoral entre os estados de Santa Catarina e Espírito Santo. As reservas dessa província ficam a 300 km da região Sudeste, que concentra 55% do Produto Interno Bruto (soma de toda a produção de bens e serviços do país). A área total da província do pré-sal (149 mil km2) corresponde a quase três vezes e meia o estado do Rio de Janeiro.\"\nFonte: http://www.petrobras.com.br/pt/nossas-atividades/areas-de-atuacao/exploracao-e-producao-de-petroleo-e-gas/pre-sal/. Acessado em 22 set. 2014.\nApós a leitura do mapa e do texto, assinale a alternativa que indique, respectivamente, a localização da província com o maior potencial de exploração do pré-sal e o tipo de estrutura geológica correspondente.",
+      principal: "Observe o mapa abaixo e leia o texto a seguir para responder a questão:\nNossas Bacias Produtoras Marítimas e Terrestres\n\"No atual contexto exploratório brasileiro, a possibilidade de ocorrência do conjunto de rochas com potencial para gerar e acumular petróleo na camada pré-sal, encontra-se na chamada província pré-sal, uma área com aproximadamente 800 km de extensão por 200 km de largura, no litoral entre os estados de Santa Catarina e Espírito Santo. As reservas dessa província ficam a 300 km da região Sudeste, que concentra 55% do Produto Interno Bruto (soma de toda a produção de bens e serviços do país). A área total da província do pré-sal (149 mil km2) corresponde a quase três vezes e meia o estado do Rio de Janeiro.\"\nFonte: http://www.petrobras.com.br/pt/nossas-$atividades/areas$-de-$atuacao/exploracao$-e-producao-de-petroleo-e-$gas/pre$-sal/. Acessado em 22 set. 2014.\nApós a leitura do mapa e do texto, assinale a alternativa que indique, respectivamente, a localização da província com o maior potencial de exploração do pré-sal e o tipo de estrutura geológica correspondente.",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Considere a reação de combustão completa do metano (não balanceada):\nCH₄(g) + O₂(g) → CO₂(g) + H₂O(l)\nSe admitirmos que a velocidade média constante de consumo de metano é de 0,25 mol/min, a massa de gás carbônico, em gramas, produzida em 1 hora será de:",
+      principal: "Considere a reação de combustão completa do metano (não balanceada):\nCH₄(g) + O₂(g) → CO₂(g) + H₂O(l)\nSe admitirmos que a velocidade média constante de consumo de metano é de 0,25 $mol/min$, a massa de gás carbônico, em gramas, produzida em 1 hora será de:",
       subItens: []
     },
     options: [
@@ -1271,7 +1271,7 @@ createQuestion({
       "1",
       "π",
       "2π",
-      "1/2"
+      "$1/2$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1351,11 +1351,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "z = (√2)³[cos(3π/4) + isen(3π/4)]",
-      "z = 2√2[cos(3π/4) + isen(3π/4)]",
-      "z = 3√2[cos(3π/4) + isen(3π/4)]",
-      "z = √2[cos(7π/4) + isen(7π/4)]",
-      "z = (√3)[cos(π/4) + isen(π/4)]"
+      "z = (√2)³[$\\cos$(3π/4) + isen(3π/4)]",
+      "z = 2√2[$\\cos$(3π/4) + isen(3π/4)]",
+      "z = 3√2[$\\cos$(3π/4) + isen(3π/4)]",
+      "z = √2[$\\cos$(7π/4) + isen(7π/4)]",
+      "z = (√3)[$\\cos$(π/4) + isen(π/4)]"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1431,7 +1431,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Considerando as organelas citoplasmáticas qual é a sequência que representa corretamente a associação entre as organelas e as suas funções:\nOrganelas\nI Centríolos\nII Ribossomos\nIII Lisossomos\nIV Mitocôndrias\nV Cloroplastos\nVI Complexo de golgiense\n\nFunções\nA Respiração\nB Acúmulo e eliminação de secreções\nC Formação de cílios e flagelos\nD Fotossíntese\nE Digestão intracelular\nF Síntese proteica\n\nA) I-F / II-E / III-A / IV-C / V-B / VI-D;\nB) I-A / II-D / III-B / IV-C / V-E / VI-F;\nC) I-C / II-F / III-E / IV-A / V-D / VI-B;\nD) I-B / II-E / III-D / IV-F / V-A / VI-C;\nE) I-D / II-C / III-A/IV-B / V-E / VI-F.",
+      principal: "Considerando as organelas citoplasmáticas qual é a sequência que representa corretamente a associação entre as organelas e as suas funções:\nOrganelas\nI Centríolos\nII Ribossomos\nIII Lisossomos\nIV Mitocôndrias\nV Cloroplastos\nVI Complexo de golgiense\n\nFunções\nA Respiração\nB Acúmulo e eliminação de secreções\nC Formação de cílios e flagelos\nD Fotossíntese\nE Digestão intracelular\nF Síntese proteica\n\nA) I-F / II-E / III-A / IV-C / V-B / VI-D;\nB) I-A / II-D / III-B / IV-C / V-E / VI-F;\nC) I-C / II-F / III-E / IV-A / V-D / VI-B;\nD) I-B / II-E / III-D / IV-F / V-A / VI-C;\nE) I-D / II-C / III-$A/IV$-B / V-E / VI-F.",
       subItens: []
     },
     options: [
@@ -1439,7 +1439,7 @@ createQuestion({
       "I-A / II-D / III-B / IV-C / V-E / VI-F;",
       "I-C / II-F / III-E / IV-A / V-D / VI-B;",
       "I-B / II-E / III-D / IV-F / V-A / VI-C;",
-      "I-D / II-C / III-A/IV-B / V-E / VI-F."
+      "I-D / II-C / III-$A/IV$-B / V-E / VI-F."
     ],
     correctAnswer: 2,
     materia: ["Biologia"],
@@ -1578,15 +1578,15 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Um automóvel sai de Boa Vista às 8:00 horas e chega em Manaus às 21:30 horas. Calcule a velocidade média do automóvel, no SI, usando a distância de 780km entre Boa Vista e Manaus, sabendo-se que o automóvel fez 4 paradas: (1.ª parada) 32,0 minutos no município de Mucajaí/RR, para um lanche; (2.ª parada) 71,0 minutos em um restaurante no município de Rorainópolis/RR, para almoçar; (3.ª parada), 22,0 minutos, na loja de artesanato, na entrada da reserva Waimiri-Atroari/RR, para aquisição de lembranças; e (4.ª parada) 61,0 minutos em um restaurante no município de Presidente Figueiredo/AM, para jantar. Com base nas informações, é correto afirmar que a velocidade média é de:",
+      principal: "Um automóvel sai de Boa Vista às 8:00 horas e chega em Manaus às 21:30 horas. Calcule a velocidade média do automóvel, no SI, usando a distância de 780km entre Boa Vista e Manaus, sabendo-se que o automóvel fez 4 paradas: (1.ª parada) 32,0 minutos no município de Mucajaí/RR, para um lanche; (2.ª parada) 71,0 minutos em um restaurante no município de Rorainó$polis/RR$, para almoçar; (3.ª parada), 22,0 minutos, na loja de artesanato, na entrada da reserva Waimiri-$Atroari/RR$, para aquisição de lembranças; e (4.ª parada) 61,0 minutos em um restaurante no município de Presidente $Figueiredo/AM$, para jantar. Com base nas informações, é correto afirmar que a velocidade média é de:",
       subItens: []
     },
     options: [
-      "20,8m/s",
-      "17,0m/s",
-      "28,0m/s",
-      "7,5m/s",
-      "32km/h"
+      "20,$8m/s$",
+      "17,$0m/s$",
+      "28,$0m/s$",
+      "7,$5m/s$",
+      "$32km/h$"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1620,7 +1620,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "O teorema da energia cinética diz que, o trabalho total efetuado sobre uma partícula é igual a variação da energia cinética da partícula. Se uma partícula de massa m = 2000,00g tem velocidade inicial de vi = 2,50m/s e depois passados um certo tempo tem velocidade final de vf = 5,00m/s.\nO trabalho total τ, em Joule, realizado sobre a partícula será de:",
+      principal: "O teorema da energia cinética diz que, o trabalho total efetuado sobre uma partícula é igual a variação da energia cinética da partícula. Se uma partícula de massa m = 2000,00g tem velocidade inicial de vi = 2,$50m/s$ e depois passados um certo tempo tem velocidade final de vf = 5,$00m/s$.\nO trabalho total τ, em Joule, realizado sobre a partícula será de:",
       subItens: []
     },
     options: [
@@ -1683,7 +1683,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Em um experimento, temos uma placa de vidro que é atravessada por um feixe de luz. Nesta placa de vidro, em especial, a velocidade da luz é 2,5 x 10⁸ m/s. Considerando a velocidade da luz no vácuo como sendo igual a 3,0 x 10⁸ m/s, marque a alternativa que corresponde ao índice de refração do vidro neste experimento.",
+      principal: "Em um experimento, temos uma placa de vidro que é atravessada por um feixe de luz. Nesta placa de vidro, em especial, a velocidade da luz é 2,5 x 10⁸ $m/s$. Considerando a velocidade da luz no vácuo como sendo igual a 3,0 x 10⁸ $m/s$, marque a alternativa que corresponde ao índice de refração do vidro neste experimento.",
       subItens: []
     },
     options: [
@@ -1725,7 +1725,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Quando uma partícula carregada Q é lançada com velocidade v numa região que contém um campo magnético uniforme B, a partícula poderá descrever uma trajetória circular de raio R perfazendo um movimento circular uniforme, pois, nesse tipo de movimento, não altera o módulo, mas apenas a direção e/ou sentido da velocidade. Nessas condições, a força magnética Fm é perpendicular ao plano definido pelo vetor campo magnético B e pelo vetor velocidade v e ângulo definido entre eles.\nPode-se, então, afirmar que o trabalho τ realizado sob a partícula devido à presença do campo magnético será:",
+      principal: "Quando uma partícula carregada Q é lançada com velocidade v numa região que contém um campo magnético uniforme B, a partícula poderá descrever uma trajetória circular de raio R perfazendo um movimento circular uniforme, pois, nesse tipo de movimento, não altera o módulo, mas apenas a direção $e/ou$ sentido da velocidade. Nessas condições, a força magnética Fm é perpendicular ao plano definido pelo vetor campo magnético B e pelo vetor velocidade v e ângulo definido entre eles.\nPode-se, então, afirmar que o trabalho τ realizado sob a partícula devido à presença do campo magnético será:",
       subItens: []
     },
     options: [
@@ -1830,7 +1830,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "O conceito de concentração fundiária é central para a compreensão dos argumentos apresentados pelos autores no texto a seguir:\n\"O Brasil é um país reconhecido internacionalmente pelos problemas históricos de distribuição de terras. Organizações internacionais como a ONU (Organização das Nações Unidas) e o Bird (Banco Internacional para Reconstrução e o Desenvolvimento - Banco Mundial) veiculam, através de sucessivos relatórios, a concentração fundiária do Brasil como um empecilho para o desenvolvimento, embora que nos moldes ideológicos que eles professam. Até a própria legislação reconhece essa problemática, visto que a Constituição Federal de 1988 prevê disposições legais de ação por parte do Governo, com aparato ao Estatuto da Terra, de 1964. Entres as causas fundamentais estão as formas de parcelamento da terra no período colonial e a manutenção do projeto de latifundiário de produção no campo pelo estado elitista.\"\n(In: CAVALCANTE, M; FERNANDES, B. M. Territorialização do agronegócio e concentração fundiária. Revista NERA, ano 11, número 13, julho/dezembro de 2008).\nAssinale a alternativa que discute adequadamente a ideia de concentração fundiária:",
+      principal: "O conceito de concentração fundiária é central para a compreensão dos argumentos apresentados pelos autores no texto a seguir:\n\"O Brasil é um país reconhecido internacionalmente pelos problemas históricos de distribuição de terras. Organizações internacionais como a ONU (Organização das Nações Unidas) e o Bird (Banco Internacional para Reconstrução e o Desenvolvimento - Banco Mundial) veiculam, através de sucessivos relatórios, a concentração fundiária do Brasil como um empecilho para o desenvolvimento, embora que nos moldes ideológicos que eles professam. Até a própria legislação reconhece essa problemática, visto que a Constituição Federal de 1988 prevê disposições legais de ação por parte do Governo, com aparato ao Estatuto da Terra, de 1964. Entres as causas fundamentais estão as formas de parcelamento da terra no período colonial e a manutenção do projeto de latifundiário de produção no campo pelo estado elitista.\"\n(In: CAVALCANTE, M; FERNANDES, B. M. Territorialização do agronegócio e concentração fundiária. Revista NERA, ano 11, número 13, $julho/dezembro$ de 2008).\nAssinale a alternativa que discute adequadamente a ideia de concentração fundiária:",
       subItens: []
     },
     options: [
@@ -1851,7 +1851,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Observe o mapa abaixo e leia o texto a seguir para responder à questão:\nNossas Bacias Produtoras Marítimas e Terrestres\nFonte: http://www.petrobras.com.br/pt/nossas-atividades/principais-operacoes/bacias/. Acessado em 22 set. 2014.\n\"No atual contexto exploratório brasileiro, a possibilidade de ocorrência do conjunto de rochas com potencial para gerar e acumular petróleo na camada pré-sal, encontra-se na chamada província pré-sal, uma área com aproximadamente 800 km de extensão por 200 km de largura, no litoral entre os estados de Santa Catarina e Espírito Santo. As reservas dessa província ficam a 300 km da região Sudeste, que concentra 55% do Produto Interno Bruto (soma de toda a produção de bens e serviços do país). A área total da província do pré-sal (149 mil km2) corresponde a quase três vezes e meia o estado do Rio de Janeiro.\"\nFonte: http://www.petrobras.com.br/pt/nossas-activities/areas-de-atuacao/exploracao-e-producao-de-petroleo-e-gas/pre-sal/. Acessado em 22 set. 2014.\nApós a leitura do mapa e do texto, assinale a alternativa que indique, respectivamente, a localização da província com o maior potencial de exploração do pré-sal e o tipo de estrutura geológica correspondente.",
+      principal: "Observe o mapa abaixo e leia o texto a seguir para responder à questão:\nNossas Bacias Produtoras Marítimas e Terrestres\nFonte: http://www.petrobras.com.br/pt/nossas-$atividades/principais$-operacoes/bacias/. Acessado em 22 set. 2014.\n\"No atual contexto exploratório brasileiro, a possibilidade de ocorrência do conjunto de rochas com potencial para gerar e acumular petróleo na camada pré-sal, encontra-se na chamada província pré-sal, uma área com aproximadamente 800 km de extensão por 200 km de largura, no litoral entre os estados de Santa Catarina e Espírito Santo. As reservas dessa província ficam a 300 km da região Sudeste, que concentra 55% do Produto Interno Bruto (soma de toda a produção de bens e serviços do país). A área total da província do pré-sal (149 mil km2) corresponde a quase três vezes e meia o estado do Rio de Janeiro.\"\nFonte: http://www.petrobras.com.br/pt/nossas-$activities/areas$-de-$atuacao/exploracao$-e-producao-de-petroleo-e-$gas/pre$-sal/. Acessado em 22 set. 2014.\nApós a leitura do mapa e do texto, assinale a alternativa que indique, respectivamente, a localização da província com o maior potencial de exploração do pré-sal e o tipo de estrutura geológica correspondente.",
       subItens: []
     },
     options: [
@@ -1900,7 +1900,7 @@ createQuestion({
       "IRA na Irlanda e na Inglaterra;",
       "Talebans no Afeganistão e no Paquistão;",
       "Estado Islâmico no Iraque e na Síria;",
-      "ETA na Espanha e Portugal;",
+      "$\\eta$ na Espanha e Portugal;",
       "Al Qaeda nos Estados Unidos e na Inglaterra."
     ],
     correctAnswer: 2,
@@ -1914,7 +1914,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Observe o mapa:\nA região indicada com a seta representa a Caxemira, que ocupa um extenso vale fértil habitada, principalmente, por população muçulmana. Desde 1947, quando esses dois países conquistaram a independência da Inglaterra, já ocorreram duas guerras envolvendo a disputa por essa região. Os países que brigam pela dominação da Caxemira são:",
+      principal: "Observe o mapa:\nA região indicada com a seta representa a Caxemira, que ocupa um extenso vale fértil habitada, principalmente, por população $\\mu$çulmana. Desde 1947, quando esses dois países conquistaram a independência da Inglaterra, já ocorreram duas guerras envolvendo a disputa por essa região. Os países que brigam pela dominação da Caxemira são:",
       subItens: []
     },
     options: [
@@ -1977,14 +1977,14 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "As cruzadas, ocorridas durante a Idade Média, são analisadas por muitos historiadores como um evento \"pouco glorioso e condenável”, como ilustra a citação abaixo:\n\"O cristianismo, tal como era ensinado por Jesus e o Novo Testamento (o Evangelho), era uma religião pacífica. Entre os primeiros cristãos, muitos foram perseguidos pelos romanos porque não queriam ir à guerra. Mas à medida que se tornavam cristãos, os bárbaros introduziram seus costumes guerreiros no cristianismo\" (LE GOFF, Jacques. A Idade Média explicada aos meus filhos. Rio de Janeiro: Agir, 2007).\nCom base nessas informações, assinale a alternativa INCORRETA:\nA) as Cruzadas foram grandes batalhas contra os povos não cristãos que habitavam o norte da Europa, numa tentativa de convertê-los ao cristianismo através da força, contradizendo todo o ensinamento bíblico que se pautava numa religião pacífica;\nB) o movimento das Cruzadas teve como principal objetivo a conquista de Jerusalém e do Santo Sepulcro, onde Jesus teria sido sepultado;\nC) as Cruzadas iniciaram-se no Concílio de Clermont, quando o papa Urbano II convocou os cristãos para partirem rumo a Terra Santa, em um período da Idade Média que durou quase dois séculos;\nD) entre os séculos XI e XIII partiram da Europa oito Cruzadas que envolveram milhares de pessoas, desde a nobreza até os mendigos;\nE) além do objetivo religioso, de tomar lugares sagrados para os cristãos, as Cruzadas serviram a outros interesses, como a conquista de novas terras pela nobreza feudal e a ampliação das atividades mercantis.",
+      principal: "As cruzadas, ocorridas durante a Idade Média, são analisadas por muitos historiadores como um evento \"pouco glorioso e condenável”, como ilustra a citação abaixo:\n\"O cristianismo, tal como era ensinado por Jesus e o Novo Testamento (o Evangelho), era uma religião pacífica. Entre os primeiros cristãos, muitos foram perseguidos pelos romanos porque não queriam ir à guerra. Mas à medida que se tornavam cristãos, os bárbaros introduziram seus costumes guerreiros no cristianismo\" (LE GOFF, Jacques. A Idade Média explicada aos meus filhos. Rio de Janeiro: Agir, 2007).\nCom base nessas informações, assinale a alternativa INCORRETA:\nA) as Cruzadas foram grandes batalhas contra os povos não cristãos que habitavam o norte da Europa, numa tentativa de convertê-los ao cristianismo através da força, contradizendo todo o ensinamento bíblico que se pautava numa religião pacífica;\nB) o movimento das Cruzadas teve como principal objetivo a conquista de Jerusalém e do Santo Sepulcro, onde Jesus teria sido sepultado;\nC) as Cruzadas iniciaram-se no Concílio de Clermont, quando o papa Urbano II convocou os cristãos para partirem rumo a Terra Santa, em um período da Idade Média que durou quase dois séculos;\nD) entre os séculos $\\xi$ e XIII partiram da Europa oito Cruzadas que envolveram milhares de pessoas, desde a nobreza até os mendigos;\nE) além do objetivo religioso, de tomar lugares sagrados para os cristãos, as Cruzadas serviram a outros interesses, como a conquista de novas terras pela nobreza feudal e a ampliação das atividades mercantis.",
       subItens: []
     },
     options: [
       "as Cruzadas foram grandes batalhas contra os povos não cristãos que habitavam o norte da Europa, numa tentativa de convertê-los ao cristianismo através da força, contradizendo todo o ensinamento bíblico que se pautava numa religião pacífica;",
       "o movimento das Cruzadas teve como principal objetivo a conquista de Jerusalém e do Santo Sepulcro, onde Jesus teria sido sepultado;",
       "as Cruzadas iniciaram-se no Concílio de Clermont, quando o papa Urbano II convocou os cristãos para partirem rumo a Terra Santa, em um período da Idade Média que durou quase dois séculos;",
-      "entre os séculos XI e XIII partiram da Europa oito Cruzadas que envolveram milhares de pessoas, desde a nobreza até os mendigos;",
+      "entre os séculos $\\xi$ e XIII partiram da Europa oito Cruzadas que envolveram milhares de pessoas, desde a nobreza até os mendigos;",
       "além do objetivo religioso, de tomar lugares sagrados para os cristãos, as Cruzadas serviram a outros interesses, como a conquista de novas terras pela nobreza feudal e a ampliação das atividades mercantis."
     ],
     correctAnswer: 0,
@@ -2229,7 +2229,7 @@ createQuestion({
     university: "ufrr",
     year: 2015,
     text: {
-      principal: "Considere a reação de combustão completa do metano (não balanceada):\nCH₄(g)+O₂(g) →CO₂(g) + H₂O(l)\nSe admitirmos que a velocidade média constante de consumo de metano é de 0,25 mol/min, a massa de gás carbônico, em gramas, produzida em 1 hora será de:",
+      principal: "Considere a reação de combustão completa do metano (não balanceada):\nCH₄(g)+O₂(g) →CO₂(g) + H₂O(l)\nSe admitirmos que a velocidade média constante de consumo de metano é de 0,25 $mol/min$, a massa de gás carbônico, em gramas, produzida em 1 hora será de:",
       subItens: []
     },
     options: [

@@ -28,7 +28,7 @@ createQuestion({
     },
     options: [
       "Citação e intertextualidade.",
-      "Paráfrase e raciocínio de causa/consequência.",
+      "Paráfrase e raciocínio de $causa/consequ$ência.",
       "Paródia e contra-argumentação.",
       "Contraposição de termos e alusão histórica."
     ],
@@ -94,7 +94,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Interpretação de Cartuns/Tirinhas", "Sintaxe (Verbos)", "Semântica"],
+    conteudo: ["Interpretação de $Cartuns/Tirinhas$", "Sintaxe (Verbos)", "Semântica"],
     imageNames: []
 }),
 
@@ -283,7 +283,7 @@ createQuestion({
     university: "uemg",
     year: 2018,
     text: {
-      principal: "Em uma viagem a Júpiter, deseja-se construir uma nave espacial com uma seção rotacional para simular, por efeitos centrífugos, a gravidade. A seção terá um raio de 90 metros. Quantas rotações por minuto (RPM) deverá ter essa seção para simular a gravidade terrestre? (considere g = 10 m/s²).",
+      principal: "Em uma viagem a Júpiter, deseja-se construir uma nave espacial com uma seção rotacional para simular, por efeitos centrífugos, a gravidade. A seção terá um raio de 90 metros. Quantas rotações por minuto (RPM) deverá ter essa seção para simular a gravidade terrestre? (considere g = 10 $m/s$²).",
       subItens: []
     },
     options: [
@@ -327,10 +327,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "h/7.",
-      "h/9.",
-      "h/5.",
-      "h/3."
+      "$h/7$.",
+      "$h/9$.",
+      "$h/5$.",
+      "$h/3$."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -403,7 +403,7 @@ createQuestion({
     university: "uemg",
     year: 2018,
     text: {
-      principal: "\"As denúncias de que o exército brasileiro ao lutar na guerra (1864-1870) era formado por escravos não são novas. Ao contrário, têm pelo menos cento e vinte anos. Seus primeiros autores foram os redatores dos jornais paraguaios da época que tratavam de menosprezar o exército brasileiro com base no duvidoso argumento de que, por ser formado por negros, deveria ser de qualidade inferior\". TORAL, André Amaral de. A participação dos negros escravos na guerra do Paraguai. Estudos Avançados. v. 9, nº 24, São Paulo, May/Aug. 1995 (Adaptado). Sobre os negros como partícipes da Guerra do Paraguai, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. Os exércitos paraguaio, brasileiro e uruguaio tinham alguns batalhões formados exclusivamente por negros. Como exemplos, tem-se o Corpo dos Zuavos da Bahia e o batalhão uruguaio Florida.\nII. Na época da Guerra do Paraguai, não existiam negros escravos ou ex-escravos no exército paraguaio. A escravidão havia sido abolida no Paraguai em 1842, por Carlos Lopes, pai de Francisco Solano López.\nIII. Na época da guerra (1864-1870), no Paraguai, o negro brasileiro era representado como inimigo. O exército brasileiro era o exército macacuno e seus líderes, segundo a propaganda lopizta, eram macacos que pretendiam escravizar o povo paraguaio, conduzindo-os da liberdade à escravidão.\nIV. Havia negros no exército brasileiro na Guerra do Paraguai, mas eles já tinham sido libertos.",
+      principal: "\"As denúncias de que o exército brasileiro ao lutar na guerra (1864-1870) era formado por escravos não são novas. Ao contrário, têm pelo menos cento e vinte anos. Seus primeiros autores foram os redatores dos jornais paraguaios da época que tratavam de menosprezar o exército brasileiro com base no duvidoso argumento de que, por ser formado por negros, deveria ser de qualidade inferior\". TORAL, André Amaral de. A participação dos negros escravos na guerra do Paraguai. Estudos Avançados. v. 9, nº 24, São Paulo, $May/Aug$. 1995 (Adaptado). Sobre os negros como partícipes da Guerra do Paraguai, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. Os exércitos paraguaio, brasileiro e uruguaio tinham alguns batalhões formados exclusivamente por negros. Como exemplos, tem-se o Corpo dos Zuavos da Bahia e o batalhão uruguaio Florida.\nII. Na época da Guerra do Paraguai, não existiam negros escravos ou ex-escravos no exército paraguaio. A escravidão havia sido abolida no Paraguai em 1842, por Carlos Lopes, pai de Francisco Solano López.\nIII. Na época da guerra (1864-1870), no Paraguai, o negro brasileiro era representado como inimigo. O exército brasileiro era o exército macacuno e seus líderes, segundo a propaganda lopizta, eram macacos que pretendiam escravizar o povo paraguaio, conduzindo-os da liberdade à escravidão.\nIV. Havia negros no exército brasileiro na Guerra do Paraguai, mas eles já tinham sido libertos.",
       subItens: []
     },
     options: [
@@ -547,10 +547,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "3/11",
-      "4/11",
-      "5/11",
-      "6/11"
+      "$3/11$",
+      "$4/11$",
+      "$5/11$",
+      "$6/11$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -563,7 +563,7 @@ createQuestion({
     university: "uemg",
     year: 2018,
     text: {
-      principal: "Sobre trigonometria, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. cos(x) = 2 cos² (x/2) - 1.\nII. O valor de (1 + cotg²x)(1 – cos²x), para x ≠ kn, com k inteiro, é igual a 1.\nIII. A medida do arco trigonométrico da 1ª volta positiva, côngruo ao arco de medida -40°, é 40°.\nIV. tg 50°.tg310° < 0.",
+      principal: "Sobre trigonometria, analise as assertivas e assinale a alternativa que aponta as corretas.\nI. $\\cos$(x) = 2 $\\cos$² ($x/2$) - 1.\nII. O valor de (1 + $\\cot$²x)(1 – $\\cos$²x), para x ≠ kn, com k inteiro, é igual a 1.\nIII. A medida do arco trigonométrico da 1ª volta positiva, côngruo ao arco de medida -40°, é 40°.\nIV. $\\tan$ 50°.tg310° < 0.",
       subItens: []
     },
     options: [
@@ -583,7 +583,7 @@ createQuestion({
     university: "uemg",
     year: 2018,
     text: {
-      principal: "Júlio dispõe de uma quantia Q, em reais, e pretende aplicá-la, no sistema de juros compostos, à taxa de 4% ao mês. Considerando log 2 = 0,3010 e log 1,04 = 0,0086, quanto tempo será necessário para que essa quantia seja quadruplicada?",
+      principal: "Júlio dispõe de uma quantia Q, em reais, e pretende aplicá-la, no sistema de juros compostos, à taxa de 4% ao mês. Considerando $\\log$ 2 = 0,3010 e $\\log$ 1,04 = 0,0086, quanto tempo será necessário para que essa quantia seja quadruplicada?",
       subItens: []
     },
     options: [
@@ -609,7 +609,7 @@ createQuestion({
     options: [
       "Na presença de um oxidante, em meio ácido, o formaldeído se converte em ácido acético.",
       "O número de oxidação (Nox) correspondente ao átomo de carbono na molécula de formaldeído é igual a +1.",
-      "A molécula do formaldeído possui uma ligação pi (π) e três ligações sigma.",
+      "A molécula do formaldeído possui uma ligação $\\pi$ (π) e três ligações $\\sigma$.",
       "A estrutura molecular do formaldeído é a pirâmide trigonal."
     ],
     correctAnswer: 2,
@@ -627,8 +627,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4",
-      "1/9",
+      "$1/4$",
+      "$1/9$",
       "0,44",
       "4,0"
     ],
@@ -683,14 +683,14 @@ createQuestion({
     university: "uemg",
     year: 2018,
     text: {
-      principal: "Em um balão volumétrico, foram adicionados 60 mL de uma solução de HNO3 de concentração desconhecida e 40 mL de solução de KOH 0,4 mol/L. Sabendo-se que o pH final da mistura é igual a 12, é correto afirmar que a molaridade da solução de ácido nítrico era de",
+      principal: "Em um balão volumétrico, foram adicionados 60 mL de uma solução de HNO3 de concentração desconhecida e 40 mL de solução de KOH 0,4 $mol/L$. Sabendo-se que o pH final da mistura é igual a 12, é correto afirmar que a molaridade da solução de ácido nítrico era de",
       subItens: []
     },
     options: [
-      "0,1 mol/L.",
-      "0,25 mol/L.",
-      "0,4 mol/L.",
-      "0,55 mol/L."
+      "0,1 $mol/L$.",
+      "0,25 $mol/L$.",
+      "0,4 $mol/L$.",
+      "0,55 $mol/L$."
     ],
     correctAnswer: 1,
     materia: ["Química"],
@@ -883,7 +883,7 @@ createQuestion({
     university: "uemg",
     year: 2018,
     text: {
-      principal: "\"O acidente em Mariana ficou conhecido no Brasil como o maior desastre ambiental da história e deixou 19 pessoas mortas, além de destruir o distrito de Bento Rodrigues, contaminar a Bacia Hidrográfica do Rio Doce e comprometer o abastecimento de água e a produção de alimentos em diversas cidades da região.\" Disponível em: <http://agenciabrasil.ebc.com.br/geral/noticia/2017-08/juiz-suspende-acao-criminal-contra-mineradoras-por-acidente-em-mariana>. Acesso em: 21 nov. 2017. Sobre o rompimento da Barragem Fundão em Mariana, é correto afirmar que",
+      principal: "\"O acidente em Mariana ficou conhecido no Brasil como o maior desastre ambiental da história e deixou 19 pessoas mortas, além de destruir o distrito de Bento Rodrigues, contaminar a Bacia Hidrográfica do Rio Doce e comprometer o abastecimento de água e a produção de alimentos em diversas cidades da região.\" Disponível em: <http://agenciabrasil.ebc.com.br/geral/noticia/2017-$08/juiz$-suspende-acao-criminal-contra-mineradoras-por-acidente-em-mariana>. Acesso em: 21 nov. 2017. Sobre o rompimento da Barragem Fundão em Mariana, é correto afirmar que",
       subItens: []
     },
     options: [

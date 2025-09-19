@@ -387,9 +387,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4/5",
-      "1/5",
-      "1/24",
+      "$4/5$",
+      "$1/5$",
+      "$1/24$",
       "0"
     ],
     correctAnswer: 3,
@@ -463,14 +463,14 @@ createQuestion({
     university: "uerj",
     year: 2021,
     text: {
-      principal: "A figura a seguir representa uma circunferência de centro O e raio 1. Considere AC, BD e PQ diâmetros, com AC e BD perpendiculares. Observe-se ainda, que o ponto P pertence ao arco BC e o ponto R, ao raio OD; o segmento QR é paralelo a AC; e a é a medida do ângulo CÔP. [IMAGEM: Diagrama de uma circunferência com centro O, raio 1. Diâmetros AC e BD perpendiculares. P no arco BC. R no raio OD. QR paralelo a AC. Ângulo CÔP marcado como α].\nSabendo que sen 2a = 2 sena . cosa, a área do triângulo PQR é igual a:",
+      principal: "A figura a seguir representa uma circunferência de centro O e raio 1. Considere AC, BD e PQ diâmetros, com AC e BD perpendiculares. Observe-se ainda, que o ponto P pertence ao arco BC e o ponto R, ao raio OD; o segmento QR é paralelo a AC; e a é a medida do ângulo CÔP. [IMAGEM: Diagrama de uma circunferência com centro O, raio 1. Diâmetros AC e BD perpendiculares. P no arco BC. R no raio OD. QR paralelo a AC. Ângulo CÔP marcado como α].\nSabendo que $\\sin$ 2a = 2 sena . cosa, a área do triângulo PQR é igual a:",
       subItens: []
     },
     options: [
-      "sen 2a / 2",
-      "cos 2a / 2",
-      "sen 2a",
-      "cos 2a"
+      "$\\sin$ 2a / 2",
+      "$\\cos$ 2a / 2",
+      "$\\sin$ 2a",
+      "$\\cos$ 2a"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -583,7 +583,7 @@ createQuestion({
     university: "uerj",
     year: 2021,
     text: {
-      principal: "O gráfico abaixo representa o percentual de absorção da luz dos diferentes comprimentos de onda do espectro luminoso pelas clorofilas a e b. [GRÁFICO: Eixo X: comprimento de onda (nm) de 400 a 700 (violeta, azul, verde, amarela, laranja, vermelha); Eixo Y: percentual de absorção da luz (%). Curvas para clorofila a e clorofila b, mostrando picos de absorção em violeta/azul e vermelho, e baixa absorção em verde].\nAdaptado de researchgate.net.\nAdmita as seguintes profundidades de penetração das diferentes cores do espectro visível em águas oceânicas totalmente transparentes, sem qualquer turbidez. [GRÁFICO: Eixo X: cores (violeta, azul, verde, amarela, laranja, vermelha); Eixo Y: profundidade (0m, 100m, 200m, 250m). Mostra que violeta e azul penetram mais fundo, seguido por verde, e que laranja e vermelho penetram pouco].\nAdaptado de assigmentexpert.com.\nConsidere as profundidades superiores a 100 m e nas quais penetrem somente comprimentos de onda maiores que 480 nm.\nCom base na análise dos gráficos, é possível chegar à seguinte conclusão sobre a presença das clorofilas a e b nas algas encontradas nessas profundidades:",
+      principal: "O gráfico abaixo representa o percentual de absorção da luz dos diferentes comprimentos de onda do espectro luminoso pelas clorofilas a e b. [GRÁFICO: Eixo X: comprimento de onda (nm) de 400 a 700 (violeta, azul, verde, amarela, laranja, vermelha); Eixo Y: percentual de absorção da luz (%). Curvas para clorofila a e clorofila b, mostrando picos de absorção em $violeta/azul$ e vermelho, e baixa absorção em verde].\nAdaptado de researchgate.net.\nAdmita as seguintes profundidades de penetração das diferentes cores do espectro visível em águas oceânicas totalmente transparentes, sem qualquer turbidez. [GRÁFICO: Eixo X: cores (violeta, azul, verde, amarela, laranja, vermelha); Eixo Y: profundidade (0m, 100m, 200m, 250m). Mostra que violeta e azul penetram mais fundo, seguido por verde, e que laranja e vermelho penetram pouco].\nAdaptado de assigmentexpert.com.\nConsidere as profundidades superiores a 100 m e nas quais penetrem somente comprimentos de onda maiores que 480 nm.\nCom base na análise dos gráficos, é possível chegar à seguinte conclusão sobre a presença das clorofilas a e b nas algas encontradas nessas profundidades:",
       subItens: []
     },
     options: [
@@ -643,7 +643,7 @@ createQuestion({
     university: "uerj",
     year: 2021,
     text: {
-      principal: "Observe a reprodução da tela Cena rural, de Cândido Portinari, na qual um trabalhador faz uso de uma enxada. [IMAGEM: Reprodução da tela Cena rural, de Cândido Portinari, que retrata um trabalhador rural com uma enxada].\nConsidere que um lavrador utiliza uma enxada de massa igual a 1,3 kg. Para realizar determinada tarefa, ele faz um movimento com a enxada que desloca seu centro de massa C entre os pontos x e y, sucessivamente, em uma altura h média de 0,8 m. Esse movimento é repetido 50 vezes, de modo que, ao final da tarefa, a força exercida pelo lavrador realiza o trabalho T. Observe o esquema: [IMAGEM: Diagrama simplificado mostrando uma enxada em movimento, com o centro de massa C deslocando-se entre pontos x e y, e uma altura h = 0,8 m indicada entre x e y].\nConsiderando a aceleração da gravidade g = 10 m/s², o valor mínimo de T, em joules, é igual a:",
+      principal: "Observe a reprodução da tela Cena rural, de Cândido Portinari, na qual um trabalhador faz uso de uma enxada. [IMAGEM: Reprodução da tela Cena rural, de Cândido Portinari, que retrata um trabalhador rural com uma enxada].\nConsidere que um lavrador utiliza uma enxada de massa igual a 1,3 kg. Para realizar determinada tarefa, ele faz um movimento com a enxada que desloca seu centro de massa C entre os pontos x e y, sucessivamente, em uma altura h média de 0,8 m. Esse movimento é repetido 50 vezes, de modo que, ao final da tarefa, a força exercida pelo lavrador realiza o trabalho T. Observe o esquema: [IMAGEM: Diagrama simplificado mostrando uma enxada em movimento, com o centro de massa C deslocando-se entre pontos x e y, e uma altura h = 0,8 m indicada entre x e y].\nConsiderando a aceleração da gravidade g = 10 $m/s$², o valor mínimo de T, em joules, é igual a:",
       subItens: []
     },
     options: [
@@ -663,7 +663,7 @@ createQuestion({
     university: "uerj",
     year: 2021,
     text: {
-      principal: "Uma empresa testou quatro molas para utilização em um sistema de fechamento automático de portas. Para avaliar sua eficiência, elas foram fixadas a uma haste horizontal e, em suas extremidades livres, foram fixados corpos com diferentes massas. [IMAGEM: Desenhos esquemáticos de quatro molas (I, II, III, IV) fixadas em uma extremidade e com um corpo pendurado na outra].\nObserve na tabela os valores tanto das constantes elásticas K das molas quanto das massas dos corpos.\n[TABELA: MOLA | K (N/cm) | MASSA DO CORPO FIXADO (kg)\nI | 0,9 | 0,9\nII | 0,8 | 1,2\nIII | 0,6 | 1,8\nIV | 0,7 | 1,4]\nPara que o sistema de fechamento funcione com mais eficiência, a mola a ser utilizada deve ser a que apresentou maior deformação no teste.\nEssa mola está identificada pelo seguinte número:",
+      principal: "Uma empresa testou quatro molas para utilização em um sistema de fechamento automático de portas. Para avaliar sua eficiência, elas foram fixadas a uma haste horizontal e, em suas extremidades livres, foram fixados corpos com diferentes massas. [IMAGEM: Desenhos esquemáticos de quatro molas (I, II, III, IV) fixadas em uma extremidade e com um corpo pendurado na outra].\nObserve na tabela os valores tanto das constantes elásticas K das molas quanto das massas dos corpos.\n[TABELA: MOLA | K ($N/cm$) | MASSA DO CORPO FIXADO (kg)\nI | 0,9 | 0,9\nII | 0,8 | 1,2\nIII | 0,6 | 1,8\nIV | 0,7 | 1,4]\nPara que o sistema de fechamento funcione com mais eficiência, a mola a ser utilizada deve ser a que apresentou maior deformação no teste.\nEssa mola está identificada pelo seguinte número:",
       subItens: []
     },
     options: [
@@ -703,7 +703,7 @@ createQuestion({
     university: "uerj",
     year: 2021,
     text: {
-      principal: "Na figura a seguir, está representado um decantador utilizado em um processo de remoção de impurezas da água, como partículas de terra e de areia fina. Observa-se que, da altura onde se inicia a decantação até o fundo do decantador, há uma distância de 36 cm. [IMAGEM: Diagrama de um decantador com 'início da decantação' no topo, 'fundo do decantador' na base e '36 cm' entre eles. Mostra as partículas 'terra' e 'areia' descendo].\nConsiderem-se os seguintes dados:\n[TABELA: PARTÍCULA | VELOCIDADE DE DECANTAÇÃO (m/s) | TEMPO DE DESCIDA ATÉ O FUNDO DO DECANTADOR (s)\nTerra | 0,01 | tT\nAreia | 0,24 | tA]\nNessas condições, a diferença tₜ – tᴬ, em segundos, corresponde a:",
+      principal: "Na figura a seguir, está representado um decantador utilizado em um processo de remoção de impurezas da água, como partículas de terra e de areia fina. Observa-se que, da altura onde se inicia a decantação até o fundo do decantador, há uma distância de 36 cm. [IMAGEM: Diagrama de um decantador com 'início da decantação' no topo, 'fundo do decantador' na base e '36 cm' entre eles. Mostra as partículas 'terra' e 'areia' descendo].\nConsiderem-se os seguintes dados:\n[TABELA: PARTÍCULA | VELOCIDADE DE DECANTAÇÃO ($m/s$) | TEMPO DE DESCIDA ATÉ O FUNDO DO DECANTADOR (s)\nTerra | 0,01 | tT\nAreia | 0,24 | tA]\nNessas condições, a diferença tₜ – tᴬ, em segundos, corresponde a:",
       subItens: []
     },
     options: [
@@ -743,7 +743,7 @@ createQuestion({
     university: "uerj",
     year: 2021,
     text: {
-      principal: "Um elétron E de massa m e carga q executa um movimento circular uniforme devido à ação de um campo magnético constante de intensidade B = 3 × 10⁻⁵ T. Observe no esquema a orientação do campo e o sentido do deslocamento do elétron. [IMAGEM: Diagrama de um elétron (E) em movimento circular, com um vetor de campo magnético (B₀) apontando para dentro da página e o sentido de giro do elétron indicado].\nAdmita que a razão q/m = 1,6 × 10¹¹ C/kg.\nNessas condições, a velocidade angular ω, em rad/s, desenvolvida pelo elétron, é igual a:",
+      principal: "Um elétron E de massa m e carga q executa um movimento circular uniforme devido à ação de um campo magnético constante de intensidade B = 3 × 10⁻⁵ T. Observe no esquema a orientação do campo e o sentido do deslocamento do elétron. [IMAGEM: Diagrama de um elétron (E) em movimento circular, com um vetor de campo magnético (B₀) apontando para dentro da página e o sentido de giro do elétron indicado].\nAdmita que a razão $q/m$ = 1,6 × 10¹¹ $C/kg$.\nNessas condições, a velocidade angular ω, em $rad/s$, desenvolvida pelo elétron, é igual a:",
       subItens: []
     },
     options: [
@@ -863,7 +863,7 @@ createQuestion({
     university: "uerj",
     year: 2021,
     text: {
-      principal: "Em um estudo de cinética química, foram realizados os experimentos W, X, Y e Z, nos quais o gás hidrogênio foi obtido a partir da reação química entre níquel e ácido clorídrico, conforme representado abaixo.\nNi (s) + 2 HCl (aq) → NiCl₂ (aq) + H₂ (g)\nEm cada experimento, foram alteradas tanto a concentração do ácido clorídrico quanto a temperatura do sistema, mantendo-se a massa de níquel e o volume de solução do ácido constantes. Observe o gráfico: [GRÁFICO: Concentração (mol/L) vs Temperatura (°C), com pontos W, X, Y, Z marcados em diferentes concentrações e temperaturas].\nA maior velocidade inicial de formação de gás hidrogênio foi verificada no seguinte experimento:",
+      principal: "Em um estudo de cinética química, foram realizados os experimentos W, X, Y e Z, nos quais o gás hidrogênio foi obtido a partir da reação química entre níquel e ácido clorídrico, conforme representado abaixo.\nNi (s) + 2 HCl (aq) → NiCl₂ (aq) + H₂ (g)\nEm cada experimento, foram alteradas tanto a concentração do ácido clorídrico quanto a temperatura do sistema, mantendo-se a massa de níquel e o volume de solução do ácido constantes. Observe o gráfico: [GRÁFICO: Concentração ($mol/L$) vs Temperatura (°C), com pontos W, X, Y, Z marcados em diferentes concentrações e temperaturas].\nA maior velocidade inicial de formação de gás hidrogênio foi verificada no seguinte experimento:",
       subItens: []
     },
     options: [
@@ -903,7 +903,7 @@ createQuestion({
     university: "uerj",
     year: 2021,
     text: {
-      principal: "O ânion fenolato, empregado na produção de corantes, é formado na ionização do fenol em solução aquosa, conforme representado abaixo: [IMAGEM: Reação de ionização do fenol: Fenol + H₂O ⇌ Fenolato⁻ + H⁺].\nConsidere um processamento no qual houve a dissolução completa de 0,01 mol de fenol em água para formar 1 L de solução a 20 °C. Nessa temperatura, a constante de acidez do fenol é igual a 10⁻¹⁰.\nAtingido o equilíbrio químico da ionização, a concentração de ânion fenolato, em mol/L, na solução, é aproximadamente igual a:",
+      principal: "O ânion fenolato, empregado na produção de corantes, é formado na ionização do fenol em solução aquosa, conforme representado abaixo: [IMAGEM: Reação de ionização do fenol: Fenol + H₂O ⇌ Fenolato⁻ + H⁺].\nConsidere um processamento no qual houve a dissolução completa de 0,01 mol de fenol em água para formar 1 L de solução a 20 °C. Nessa temperatura, a constante de acidez do fenol é igual a 10⁻¹⁰.\nAtingido o equilíbrio químico da ionização, a concentração de ânion fenolato, em $mol/L$, na solução, é aproximadamente igual a:",
       subItens: []
     },
     options: [
@@ -968,7 +968,7 @@ createQuestion({
     },
     options: [
       "[IMAGEM: Carro esportivo]",
-      "[IMAGEM: Blazer/paletó]",
+      "[IMAGEM: $Blazer/palet$ó]",
       "[IMAGEM: Colheitadeira]",
       "[IMAGEM: Geladeira]"
     ],
@@ -1003,7 +1003,7 @@ createQuestion({
     university: "uerj",
     year: 2021,
     text: {
-      principal: "Piñera pede \"perdão\" e anuncia medidas para conter protestos no Chile\nO presidente chileno, Sebastián Piñera, prometeu aumentar a aposentadoria, melhorar o atendimento de saúde e aplicar impostos aos que ganham mais, uma tentativa de acalmar uma onda de distúrbios e protestos contra a desigualdade que vem sacudindo um dos países mais estáveis da América Latina. Entre as medidas anunciadas, está o aumento imediato das pensões e elevações adicionais dentro de dois anos, assim como melhorias nas aposentadorias da classe média, das mulheres e de idosos deficientes. O presidente propôs ainda a criação de seguros para conter os gastos de saúde das famílias, um aumento de 16% no salário mínimo e um mecanismo para frear a alta recente das tarifas elétricas.\nNATALIA MIRANDA E FABIÁN CAMBERO\nAdaptado de noticias.uol.com.br, 23/10/2019.\nAs medidas anunciadas pelo presidente chileno para conter os intensos e duradouros protestos de 2019 apontam para um programa de reconfiguração do país baseado na ampliação da:",
+      principal: "$\\pi$ñera pede \"perdão\" e anuncia medidas para conter protestos no Chile\nO presidente chileno, Sebastián $\\pi$ñera, prometeu aumentar a aposentadoria, melhorar o atendimento de saúde e aplicar impostos aos que ganham mais, uma tentativa de acalmar uma onda de distúrbios e protestos contra a desigualdade que vem sacudindo um dos países mais estáveis da América Latina. Entre as medidas anunciadas, está o aumento imediato das pensões e elevações adicionais dentro de dois anos, assim como melhorias nas aposentadorias da classe média, das mulheres e de idosos deficientes. O presidente propôs ainda a criação de seguros para conter os gastos de saúde das famílias, um aumento de 16% no salário mínimo e um mecanismo para frear a alta recente das tarifas elétricas.\nNATALIA MIRANDA E FABIÁN CAMBERO\nAdaptado de noticias.uol.com.br, 23/10/2019.\nAs medidas anunciadas pelo presidente chileno para conter os intensos e duradouros protestos de 2019 apontam para um programa de reconfiguração do país baseado na ampliação da:",
       subItens: []
     },
     options: [

@@ -3,7 +3,7 @@ createQuestion({
     university: "ita",
     year: 2024,
     text: {
-      principal: "Quando necessário, use os seguintes valores para as constantes:\nAceleração local da gravidade g = 10 m/s².\nVelocidade da luz no vácuo c = 3,0×10⁸ m/s.\nConstante de gravitação universal G = 6,7 ×10⁻¹¹ N.m²/kg³.\nMassa da Terra MTerra = 6,0 ×10²⁴ kg.\nRaio da Terra RTerra = 6,4 ×10⁶ m.\nAproximações numéricas: √60 ≈ 7,7. (1 + x)ⁿ ≈ 1 + nx quando |x| ≪ 1.\n\nQuestão 1. Em um centro de pesquisa foram desenvolvidos três equipamentos para medições de tempo, comprimento e massa, cujas leituras são Et, Ec, Em, respectivamente. As curvas de calibração de cada equipamento estão apresentadas na figura. Esses equipamentos foram utilizados para medir o movimento retilíneo uniforme de uma partícula pontual. A medição da massa indicou leitura de 3 contagens, e a medição do movimento mostrou que ele percorreu uma distância entre as posições indicadas pelas contagens 6 e 2, em um intervalo de tempo de 0 a 1 contagens.\nPode-se afirmar que a energia cinética da partícula é:\n\n[IMAGEM: Três gráficos. O primeiro mostra 'Et (contagem)' vs 'tempo(s)'. O segundo mostra 'Ec (contagem)' vs 'comprimento(cm)'. O terceiro mostra 'Em (contagem)' vs 'massa(g)'. Todas as curvas são lineares e crescentes.]",
+      principal: "Quando necessário, use os seguintes valores para as constantes:\nAceleração local da gravidade g = 10 $m/s$².\nVelocidade da luz no vácuo c = 3,0×10⁸ $m/s$.\nConstante de gravitação universal G = 6,7 ×10⁻¹¹ N.m²/kg³.\nMassa da Terra MTerra = 6,0 ×10²⁴ kg.\nRaio da Terra RTerra = 6,4 ×10⁶ m.\nAproximações numéricas: √60 ≈ 7,7. (1 + x)ⁿ ≈ 1 + nx quando |x| ≪ 1.\n\nQuestão 1. Em um centro de pesquisa foram desenvolvidos três equipamentos para medições de tempo, comprimento e massa, cujas leituras são Et, Ec, Em, respectivamente. As curvas de calibração de cada equipamento estão apresentadas na figura. Esses equipamentos foram utilizados para medir o movimento retilíneo uniforme de uma partícula pontual. A medição da massa indicou leitura de 3 contagens, e a medição do movimento mostrou que ele percorreu uma distância entre as posições indicadas pelas contagens 6 e 2, em um intervalo de tempo de 0 a 1 contagens.\nPode-se afirmar que a energia cinética da partícula é:\n\n[IMAGEM: Três gráficos. O primeiro mostra 'Et (contagem)' vs 'tempo(s)'. O segundo mostra 'Ec (contagem)' vs 'comprimento(cm)'. O terceiro mostra 'Em (contagem)' vs 'massa(g)'. Todas as curvas são lineares e crescentes.]",
       subItens: []
     },
     options: [
@@ -24,7 +24,7 @@ createQuestion({
     university: "ita",
     year: 2024,
     text: {
-      principal: "Questão 2. Uma fonte luminosa está presa ao teto de um recinto fechado, a uma altura H do solo, conforme mostra a figura. No recinto há um objeto de altura h (h < H/2) a uma distância 2a de uma das paredes. A lâmpada desprende-se, iniciando um movimento de queda livre, e atinge o solo a uma distância 3a da parede. Considere que o efeito de reflexão de luz nas paredes é desprezível e que a fonte de luz é pontual.\nAssinale a alternativa que apresenta a expressão correta do módulo da velocidade da sombra a partir do instante em que esta começa a ser projetada sobre a parede.\n\n[IMAGEM: Diagrama de um cômodo com um teto, um chão, uma parede esquerda e um objeto cúbico no centro. No teto, há uma fonte de luz. As distâncias são indicadas: H para a altura do teto, h para a altura do objeto, 'a' para a distância do objeto à parede da direita e 'a' para a distância da fonte de luz ao centro do teto. A distância da queda da fonte de luz é 3a na parede da direita.]",
+      principal: "Questão 2. Uma fonte luminosa está presa ao teto de um recinto fechado, a uma altura H do solo, conforme mostra a figura. No recinto há um objeto de altura h (h < $H/2$) a uma distância 2a de uma das paredes. A lâmpada desprende-se, iniciando um movimento de queda livre, e atinge o solo a uma distância 3a da parede. Considere que o efeito de reflexão de luz nas paredes é desprezível e que a fonte de luz é pontual.\nAssinale a alternativa que apresenta a expressão correta do módulo da velocidade da sombra a partir do instante em que esta começa a ser projetada sobre a parede.\n\n[IMAGEM: Diagrama de um cômodo com um teto, um chão, uma parede esquerda e um objeto cúbico no centro. No teto, há uma fonte de luz. As distâncias são indicadas: H para a altura do teto, h para a altura do objeto, 'a' para a distância do objeto à parede da direita e 'a' para a distância da fonte de luz ao centro do teto. A distância da queda da fonte de luz é 3a na parede da direita.]",
       subItens: []
     },
     options: [
@@ -45,7 +45,7 @@ createQuestion({
     university: "ita",
     year: 2024,
     text: {
-      principal: "Questão 3. Uma esfera de raio R possui uma cavidade esférica interna de raio R/2 conforme mostra a figura. A cavidade tangencia internamente a esfera no seu ápice A, que está a uma altura H = 15R do ponto S, localizado no solo verticalmente abaixo. Os dois centros de curvatura e o ponto A se encontram na linha vertical que passa por S. A esfera é então abandonada de seu repouso em queda livre, atinge o solo em S e inverte seu movimento.\nConsiderando que a distribuição de massa é homogênea na região sólida do objeto e que o coeficiente de restituição da colisão é 0,80, a altura máxima alcançada pelo centro de massa da esfera após a colisão é aproximadamente igual a:\n\n[IMAGEM: Diagrama de uma esfera grande de raio R com uma cavidade esférica menor de raio R/2 em seu interior, tangenciando o ponto mais alto A. O centro da esfera está alinhado verticalmente com um ponto S no solo. A altura total até o ponto A é H=15R. As dimensões R e R/2 são indicadas.]",
+      principal: "Questão 3. Uma esfera de raio R possui uma cavidade esférica interna de raio $R/2$ conforme mostra a figura. A cavidade tangencia internamente a esfera no seu ápice A, que está a uma altura H = 15R do ponto S, localizado no solo verticalmente abaixo. Os dois centros de curvatura e o ponto A se encontram na linha vertical que passa por S. A esfera é então abandonada de seu repouso em queda livre, atinge o solo em S e inverte seu movimento.\nConsiderando que a distribuição de massa é homogênea na região sólida do objeto e que o coeficiente de restituição da colisão é 0,80, a altura máxima alcançada pelo centro de massa da esfera após a colisão é aproximadamente igual a:\n\n[IMAGEM: Diagrama de uma esfera grande de raio R com uma cavidade esférica menor de raio $R/2$ em seu interior, tangenciando o ponto mais alto A. O centro da esfera está alinhado verticalmente com um ponto S no solo. A altura total até o ponto A é H=15R. As dimensões R e $R/2$ são indicadas.]",
       subItens: []
     },
     options: [
@@ -150,15 +150,15 @@ createQuestion({
     university: "ita",
     year: 2024,
     text: {
-      principal: "Questão 8. Considere que no experimento de Young da dupla fenda, uma lente, composta de um material com índice de refração n (1 < n < 2), no formato de um semicírculo de raio R, é colocada na saída de uma das fendas, conforme mostra a figura. Sabendo que o comprimento de onda λ é maior que R e que a distância entre o anteparo e as fendas, L, é muito maior do que λ, assinale a alternativa que corresponde à expressão da posição xm do m-ésimo pico do padrão de interferência acima do máximo central.\n\n[IMAGEM: Diagrama do experimento da dupla fenda de Young. Duas fendas paralelas (a/2 de separação entre seus centros, com um semicírculo de raio R cobrindo uma delas) estão a uma distância L de um anteparo. As fendas são iluminadas, e o padrão de interferência é mostrado no anteparo.]",
+      principal: "Questão 8. Considere que no experimento de Young da dupla fenda, uma lente, composta de um material com índice de refração n (1 < n < 2), no formato de um semicírculo de raio R, é colocada na saída de uma das fendas, conforme mostra a figura. Sabendo que o comprimento de onda λ é maior que R e que a distância entre o anteparo e as fendas, L, é muito maior do que λ, assinale a alternativa que corresponde à expressão da posição xm do m-ésimo pico do padrão de interferência acima do máximo central.\n\n[IMAGEM: Diagrama do experimento da dupla fenda de Young. Duas fendas paralelas ($a/2$ de separação entre seus centros, com um semicírculo de raio R cobrindo uma delas) estão a uma distância L de um anteparo. As fendas são iluminadas, e o padrão de interferência é mostrado no anteparo.]",
       subItens: []
     },
     options: [
-      "λL/2a (m + (n-1)R)",
-      "λL/2a (λm-nR)",
-      "λmL/2a+(n-1)R",
-      "λL/2a (m+nR)",
-      "λL/2a (λm-nR)"
+      "λ$L/2a$ (m + (n-1)R)",
+      "λ$L/2a$ (λm-nR)",
+      "λ$mL/2a$+(n-1)R",
+      "λ$L/2a$ (m+nR)",
+      "λ$L/2a$ (λm-nR)"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -171,7 +171,7 @@ createQuestion({
     university: "ita",
     year: 2024,
     text: {
-      principal: "Questão 9. Ao redor de uma carga elétrica Q, localizada no ponto (0, R/2), existe uma casca metálica aterrada de raio R e com centro localizado na origem do sistema de coordenadas, conforme ilustrado na figura.\nA respeito dessa situação física, são feitas as seguintes afirmações.\nI. O campo elétrico no exterior da casca metálica é nulo.\nII. A carga elétrica induzida na casca metálica é igual a -Q.\nIII. O campo elétrico no ponto (0,3R/4) é mais intenso do que o campo elétrico no ponto (0, R/4).\nAssinale a alternativa que contém todas as afirmações corretas com respeito ao sistema descrito.\n\n[IMAGEM: Gráfico cartesiano X-Y. Uma casca metálica aterrada de raio R está centrada na origem. Uma carga pontual Q está localizada no ponto (0, R/2) dentro da casca.]",
+      principal: "Questão 9. Ao redor de uma carga elétrica Q, localizada no ponto (0, $R/2$), existe uma casca metálica aterrada de raio R e com centro localizado na origem do sistema de coordenadas, conforme ilustrado na figura.\nA respeito dessa situação física, são feitas as seguintes afirmações.\nI. O campo elétrico no exterior da casca metálica é nulo.\nII. A carga elétrica induzida na casca metálica é igual a -Q.\nIII. O campo elétrico no ponto (0,$3R/4$) é mais intenso do que o campo elétrico no ponto (0, $R/4$).\nAssinale a alternativa que contém todas as afirmações corretas com respeito ao sistema descrito.\n\n[IMAGEM: Gráfico cartesiano X-Y. Uma casca metálica aterrada de raio R está centrada na origem. Uma carga pontual Q está localizada no ponto (0, $R/2$) dentro da casca.]",
       subItens: []
     },
     options: [
@@ -192,15 +192,15 @@ createQuestion({
     university: "ita",
     year: 2024,
     text: {
-      principal: "Questão 10. Um próton com posição inicial x = R e velocidade inicial v0 na direção y (v0 ≪ c) adentra uma região (x > 0 e y > 0) onde atua um campo magnético perpendicular ao plano xy, conforme mostra a figura. Considere que logo após acessar esta região a trajetória do próton apresenta um raio de curvatura R (L/2 < R < L) e que um detetor suficientemente estreito é posicionado para sua contagem em y = L/2. Determine a posição em x que o detetor deve estar para a contagem deste próton.\n\n[IMAGEM: Gráfico cartesiano X-Y. Um próton com velocidade inicial v0 (no eixo Y positivo) entra em uma região com campo magnético (indicado por 'X's, o que sugere campo entrando na página). O próton começa em x=R. Um detector está posicionado em y=L/2. A trajetória do próton é curva.]",
+      principal: "Questão 10. Um próton com posição inicial x = R e velocidade inicial v0 na direção y (v0 ≪ c) adentra uma região (x > 0 e y > 0) onde atua um campo magnético perpendicular ao plano xy, conforme mostra a figura. Considere que logo após acessar esta região a trajetória do próton apresenta um raio de curvatura R ($L/2$ < R < L) e que um detetor suficientemente estreito é posicionado para sua contagem em y = $L/2$. Determine a posição em x que o detetor deve estar para a contagem deste próton.\n\n[IMAGEM: Gráfico cartesiano X-Y. Um próton com velocidade inicial v0 (no eixo Y positivo) entra em uma região com campo magnético (indicado por 'X's, o que sugere campo entrando na página). O próton começa em x=R. Um detector está posicionado em y=$L/2$. A trajetória do próton é curva.]",
       subItens: []
     },
     options: [
-      "Rcos(arcsen(L/R))",
+      "Rcos(arcsen($L/R$))",
       "0",
       "Rsen(arccos(L/(2R)))",
       "Rcos(arcsen(L/(2R)))",
-      "Rsen(arccos(L/R))"
+      "Rsen(arccos($L/R$))"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "ita",
     year: 2024,
     text: {
-      principal: "Questão 11. Uma sonda composta por um conjunto de m espiras de raio r é colocada no interior de um solenoide de n espiras circulares e comprimento L. O solenoide é conectado a um circuito C composto por uma fonte de tensão variável U e um resistor de resistência elétrica R. A tensão da fonte cresce linearmente com o tempo t, conforme a relação: U = (U₀/t₀)t, (U₀/t₀) > 0.\nA sonda é conectada a um voltímetro e orientada de modo que o eixo axial de suas espiras seja paralelo ao campo magnético. Considere que R é muito maior do que a resistência/impedância proporcionada pelo solenoide e que a permeabilidade magnética do interior do solenoide é μ₀.\nA magnitude da tensão medida pelo voltímetro é:\n\n[IMAGEM: Diagrama de um solenoide conectado a um circuito com uma fonte de tensão U e um resistor R. Uma sonda com um voltímetro está inserida no interior do solenoide. Vistas superior e lateral são mostradas.]",
+      principal: "Questão 11. Uma sonda composta por um conjunto de m espiras de raio r é colocada no interior de um solenoide de n espiras circulares e comprimento L. O solenoide é conectado a um circuito C composto por uma fonte de tensão variável U e um resistor de resistência elétrica R. A tensão da fonte cresce linearmente com o tempo t, conforme a relação: U = (U₀/t₀)t, (U₀/t₀) > 0.\nA sonda é conectada a um voltímetro e orientada de modo que o eixo axial de suas espiras seja paralelo ao campo magnético. Considere que R é muito maior do que a resistê$ncia/imped$ância proporcionada pelo solenoide e que a permeabilidade magnética do interior do solenoide é μ₀.\nA magnitude da tensão medida pelo voltímetro é:\n\n[IMAGEM: Diagrama de um solenoide conectado a um circuito com uma fonte de tensão U e um resistor R. Uma sonda com um voltímetro está inserida no interior do solenoide. Vistas superior e lateral são mostradas.]",
       subItens: []
     },
     options: [
@@ -234,7 +234,7 @@ createQuestion({
     university: "ita",
     year: 2024,
     text: {
-      principal: "Questão 12. Um foguete de 700 m de comprimento se afasta de uma estação espacial a uma velocidade de 3 × 10³ km/s. Em cada extremo do foguete há um emissor de ondas de rádio que, para um observador no foguete, emitem pulsos simultâneos.\nDetermine o intervalo temporal entre as emissões dos sinais observado por um astronauta na estação espacial.",
+      principal: "Questão 12. Um foguete de 700 m de comprimento se afasta de uma estação espacial a uma velocidade de 3 × 10³ $km/s$. Em cada extremo do foguete há um emissor de ondas de rádio que, para um observador no foguete, emitem pulsos simultâneos.\nDetermine o intervalo temporal entre as emissões dos sinais observado por um astronauta na estação espacial.",
       subItens: []
     },
     options: [
@@ -801,15 +801,15 @@ createQuestion({
     university: "ita",
     year: 2024,
     text: {
-      principal: "Questão 39. Determine o valor de cos (2 arctg (4/3)) + sen (2 arctg (4/3)).",
+      principal: "Questão 39. Determine o valor de $\\cos$ (2 arctg ($4/3$)) + $\\sin$ (2 arctg ($4/3$)).",
       subItens: []
     },
     options: [
-      "17/25",
-      "4/5",
-      "24/25",
-      "28/25",
-      "31/25"
+      "$17/25$",
+      "$4/5$",
+      "$24/25$",
+      "$28/25$",
+      "$31/25$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -847,11 +847,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "17125/4",
+      "$17125/4$",
       "-1800.",
       "-360.",
-      "351/2",
-      "101/4"
+      "$351/2$",
+      "$101/4$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -889,11 +889,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "(1, 5/4)",
-      "(5/4, 2)",
-      "(3/2, 7/4)",
-      "(7/4, 2)",
-      "(2, 5/2)"
+      "(1, $5/4$)",
+      "($5/4$, 2)",
+      "($3/2$, $7/4$)",
+      "($7/4$, 2)",
+      "(2, $5/2$)"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],

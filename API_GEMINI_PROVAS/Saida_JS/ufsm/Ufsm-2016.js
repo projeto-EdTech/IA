@@ -24,7 +24,7 @@ createQuestion({
     university: "ufsm",
     year: 2016,
     text: {
-      principal: "Leia o texto sobre letramento científico no Brasil.\nEnquanto o Brasil tornava-se bicampeão mundial de futebol em 1958 e 1962, o transistor já havia sido inventado em 1948; o Sputnik I foi lançado ao espaço em 1957; o laser foi inventado em 1960 e a fibra ótica foi aperfeiçoada na mesma década; e em 1969 o homem pisou na lua. Enquanto a explosão do ensino superior no Brasil só veio ocorrer na década de 1970, a Europa e os Estados Unidos já contavam com instituições de excelência desde o século XIX. A Argentina teve sua primeira universidade criada em 1821, e a Universidade do Chile foi criada em 1842. As instituições de ensino superior são as principais responsáveis pela formação de recursos humanos qualificados em áreas de ponta, particularmente nas ciências e engenharias. Os estudantes que chegam às universidades precisam estar bem qualificados, e isto requer uma aprendizagem de qualidade nos anos iniciais e finais do ensino fundamental, na atual nomenclatura brasileira, bem como no ensino médio.\nFonte: GOMES, A. S. L. (Org.). Letramento Científico: um indicador para o Brasil. Instituto Abramundo, 2015. Disponível em: <http://institutoabramundo.org.br/wp-content/uploads/2015/09/ILC_Letramento%20cientifico_um%20indicador%20para%200%20Brasil.pdf>. Acesso em: ago. 2016. (Adaptado)\nDe acordo com seus conhecimentos e as informações contidas no texto, assinale a alternativa correta.",
+      principal: "Leia o texto sobre letramento científico no Brasil.\nEnquanto o Brasil tornava-se bicampeão mundial de futebol em 1958 e 1962, o transistor já havia sido inventado em 1948; o Sputnik I foi lançado ao espaço em 1957; o laser foi inventado em 1960 e a fibra ótica foi aperfeiçoada na mesma década; e em 1969 o homem pisou na lua. Enquanto a explosão do ensino superior no Brasil só veio ocorrer na década de 1970, a Europa e os Estados Unidos já contavam com instituições de excelência desde o século XIX. A Argentina teve sua primeira universidade criada em 1821, e a Universidade do Chile foi criada em 1842. As instituições de ensino superior são as principais responsáveis pela formação de recursos humanos qualificados em áreas de ponta, particularmente nas ciências e engenharias. Os estudantes que chegam às universidades precisam estar bem qualificados, e isto requer uma aprendizagem de qualidade nos anos iniciais e finais do ensino fundamental, na atual nomenclatura brasileira, bem como no ensino médio.\nFonte: GOMES, A. S. L. (Org.). Letramento Científico: um indicador para o Brasil. Instituto Abramundo, 2015. Disponível em: <http://institutoabramundo.org.$br/wp$-content/uploads/2015/09/ILC_Letramento%$20cientifico_um$%20indicador%20para%200%20Brasil.pdf>. Acesso em: ago. 2016. (Adaptado)\nDe acordo com seus conhecimentos e as informações contidas no texto, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -171,7 +171,7 @@ createQuestion({
     university: "ufsm",
     year: 2016,
     text: {
-      principal: "O teatro brasileiro contemporâneo é atravessado por uma multiplicidade de propostas cênicas que visam, sobremaneira, uma relação ativa na realidade social, política e cultural do país. A partir das décadas de 1990 e 2000, expandiu-se um tipo de prática artística que, direcionando o olhar ao outro, exigiu uma relação de alteridade no teatro: seja no processo de criação, seja no espetáculo teatral. Esse tipo de relação pode ser observada em processos criativos em que o ato político se deu a partir da \"investigação das realidades sociais do outro e na interrogação dos muitos territórios da alteridade e da exclusão social\" (FERNANDES, 2013, p.353).\nO Grupo Teatro da Vertigem/SP é um dos precursores desse tipo de processo, chamado de processo de criação",
+      principal: "O teatro brasileiro contemporâneo é atravessado por uma multiplicidade de propostas cênicas que visam, sobremaneira, uma relação ativa na realidade social, política e cultural do país. A partir das décadas de 1990 e 2000, expandiu-se um tipo de prática artística que, direcionando o olhar ao outro, exigiu uma relação de alteridade no teatro: seja no processo de criação, seja no espetáculo teatral. Esse tipo de relação pode ser observada em processos criativos em que o ato político se deu a partir da \"investigação das realidades sociais do outro e na interrogação dos muitos territórios da alteridade e da exclusão social\" (FERNANDES, 2013, p.353).\nO Grupo Teatro da $Vertigem/SP$ é um dos precursores desse tipo de processo, chamado de processo de criação",
       subItens: []
     },
     options: [
@@ -192,7 +192,7 @@ createQuestion({
     university: "ufsm",
     year: 2016,
     text: {
-      principal: "O desenvolvimento musical de uma pessoa depende das oportunidades de contato com a atividade musical. Em geral, as oportunidades iniciais acontecem em família, com amigos ou em núcleos comunitários como igrejas, escolas municipais, escolas particulares, entre outros. O início do contato com a atividade musical em família é particularmente importante para uma pessoa. A prática musical em família é, possivelmente, pouco realizada em relação ao número de jovens no país. Uma das realizações musicais em família mais comum ocorre na comemoração de aniversários. A canção \"Parabéns a Você\" é frequentemente utilizada nesta comemoração. Em 2015 ela foi considerada de domínio público – antes disso a empresa Warner/Chappell Music recebia direitos autorais pela execução da canção. Sobre a canção \"Parabéns a Você\", considere as afirmativas a seguir.\nI → Ela é, em geral, cantada em métrica ternária, ou seja, com três tempos por compasso, e usualmente com acompanhamento de palmas a cada tempo.\nII → Para ser cantada em uníssono ou em oitavas justas, é preciso escolher uma tonalidade e começar com o 5º grau da escala referente a esta tonalidade.\nIII → É possível acompanhar a canção ao violão ou teclado usando apenas três acordes.\nIV → A altura da primeira e da última notas da melodia é a mesma.\nEstá(ão) correta(s)",
+      principal: "O desenvolvimento musical de uma pessoa depende das oportunidades de contato com a atividade musical. Em geral, as oportunidades iniciais acontecem em família, com amigos ou em núcleos comunitários como igrejas, escolas municipais, escolas particulares, entre outros. O início do contato com a atividade musical em família é particularmente importante para uma pessoa. A prática musical em família é, possivelmente, pouco realizada em relação ao número de jovens no país. Uma das realizações musicais em família mais comum ocorre na comemoração de aniversários. A canção \"Parabéns a Você\" é frequentemente utilizada nesta comemoração. Em 2015 ela foi considerada de domínio público – antes disso a empresa $Warner/Chappell$ Music recebia direitos autorais pela execução da canção. Sobre a canção \"Parabéns a Você\", considere as afirmativas a seguir.\nI → Ela é, em geral, cantada em métrica ternária, ou seja, com três tempos por compasso, e usualmente com acompanhamento de palmas a cada tempo.\nII → Para ser cantada em uníssono ou em oitavas justas, é preciso escolher uma tonalidade e começar com o 5º grau da escala referente a esta tonalidade.\nIII → É possível acompanhar a canção ao violão ou teclado usando apenas três acordes.\nIV → A altura da primeira e da última notas da melodia é a mesma.\nEstá(ão) correta(s)",
       subItens: []
     },
     options: [
@@ -549,7 +549,7 @@ createQuestion({
     university: "ufsm",
     year: 2016,
     text: {
-      principal: "Observe o gráfico.\n(Gráfico de barras intitulado \"Taxa de analfabetismo das pessoas de 10 anos ou mais de idade, conforme as regiões do país 2000/2010\", comparando os anos de 2000 e 2010 para o Brasil e as regiões Norte, Nordeste, Sudeste, Sul e Centro-Oeste.)\nFonte: GUERINO, L. A. Geografia - Adinâmica do espaço brasileiro. Curitiba: Positivo, 2013. p. 99. (Adaptado)\nDe acordo com os seus conhecimentos e as informações contidas no gráfico, considere as afirmativas a seguir.\nI → Os resultados e as estatísticas educacionais mostram taxas de analfabetismo bastante homogêneas entre as regiões brasileiras.\nII → As políticas educacionais mais recentes conseguiram diminuir a quantidade de analfabetos no Brasil, mas não evitaram que jovens saíssem da escola sem saber ler ou escrever.\nIII → Apenas a região Nordeste possui taxas acima da média nacional, significando que as demais regiões brasileiras têm se empenhado na erradicação do analfabetismo.\nIV → As políticas educacionais ainda não venceram as desigualdades históricas do país.\nEstão corretas",
+      principal: "Observe o gráfico.\n(Gráfico de barras intitulado \"Taxa de analfabetismo das pessoas de 10 anos ou mais de idade, conforme as regiões do país $2000/2010$\", comparando os anos de 2000 e 2010 para o Brasil e as regiões Norte, Nordeste, Sudeste, Sul e Centro-Oeste.)\nFonte: GUERINO, L. A. Geografia - Adinâmica do espaço brasileiro. Curitiba: Positivo, 2013. p. 99. (Adaptado)\nDe acordo com os seus conhecimentos e as informações contidas no gráfico, considere as afirmativas a seguir.\nI → Os resultados e as estatísticas educacionais mostram taxas de analfabetismo bastante homogêneas entre as regiões brasileiras.\nII → As políticas educacionais mais recentes conseguiram diminuir a quantidade de analfabetos no Brasil, mas não evitaram que jovens saíssem da escola sem saber ler ou escrever.\nIII → Apenas a região Nordeste possui taxas acima da média nacional, significando que as demais regiões brasileiras têm se empenhado na erradicação do analfabetismo.\nIV → As políticas educacionais ainda não venceram as desigualdades históricas do país.\nEstão corretas",
       subItens: []
     },
     options: [
@@ -658,11 +658,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "(5/2, 15/2)",
-      "(15/2, 5/2)",
-      "(15/2, -5/2)",
-      "(35/4, 5/4)",
-      "(35/4, -5/4)"
+      "($5/2$, $15/2$)",
+      "($15/2$, $5/2$)",
+      "($15/2$, -$5/2$)",
+      "($35/4$, $5/4$)",
+      "($35/4$, -$5/4$)"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -911,7 +911,7 @@ createQuestion({
     },
     options: [
       "No verso \"A antirrosa atômica\", a aproximação entre \"rosa\" e \"atômica\" pode ser entendida como uma maneira de relativizar o caráter negativo da guerra, já que a flor é, tradicionalmente, associada à beleza.",
-      "O verso \"A rosa hereditária\" enfatiza as consequências trágicas da bomba de Hiroxima, as quais afetaram/afetam gerações.",
+      "O verso \"A rosa hereditária\" enfatiza as consequências trágicas da bomba de Hiroxima, as quais $afetaram/afetam$ gerações.",
       "Os versos, ao ressaltarem os efeitos nefastos da bomba atômica, revelam que a ciência e a tecnologia também podem ser usadas para a destruição.",
       "O fragmento revela uma visão pacifista, já que a bomba é qualificada como \"Estúpida e inválida\" e como \"rosa com cirrose\".",
       "\"A rosa de Hiroxima\" revela uma preocupação didática (já que alerta o leitor sobre as consequências da guerra) e estética (já que as palavras suscitam imagens belas e inusitadas)."

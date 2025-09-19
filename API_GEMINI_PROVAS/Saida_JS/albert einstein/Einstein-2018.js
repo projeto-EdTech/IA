@@ -123,7 +123,7 @@ createQuestion({
     university: "albert einstein",
     year: 2018,
     text: {
-      principal: "Alguns balões foram preenchidos com diferentes gases. Os gases utilizados foram o hélio, o gás carbônico, o metano e o hidrogênio. A massa molar aparente do ar é 28,96 g/mol e, segundo a Lei de Graham, a velocidade com que um gás atravessa uma membrana é inversamente proporcional à raiz quadrada de sua massa molar.\n\nAssinale a alternativa CORRETA do gás presente no balão que não irá flutuar em ar e do gás presente no balão que muchará primeiro, respectivamente.",
+      principal: "Alguns balões foram preenchidos com diferentes gases. Os gases utilizados foram o hélio, o gás carbônico, o metano e o hidrogênio. A massa molar aparente do ar é 28,96 $g/mol$ e, segundo a Lei de Graham, a velocidade com que um gás atravessa uma membrana é inversamente proporcional à raiz quadrada de sua massa molar.\n\nAssinale a alternativa CORRETA do gás presente no balão que não irá flutuar em ar e do gás presente no balão que muchará primeiro, respectivamente.",
       subItens: []
     },
     options: [
@@ -143,14 +143,14 @@ createQuestion({
     university: "albert einstein",
     year: 2018,
     text: {
-      principal: "Observe a equação de formação de etanol a seguir:\n2 Cgraf + 3 H₂₍g₎ + 1/2 O₂₍g₎ → C₂H₆O₍l₎\n\nCom base nas equações abaixo que resultam na reação de interesse, calcule o ΔH da reação de formação do etanol.\n\nI. Cgraf + O₂₍g₎ → CO₂₍g₎ ΔH = -394 kJ/mol\nII. H₂₍g₎ + 1/2 O₂₍g₎ → H₂O₍l₎ ∆H = -286 kJ/mol\nIII. C₂H₆O₍l₎ + 3 O₂₍g₎ → 2 CO₂₍g₎ + 3 H₂O₍l₎ ΔH = -1368 kJ/mol",
+      principal: "Observe a equação de formação de etanol a seguir:\n2 Cgraf + 3 H₂₍g₎ + $1/2$ O₂₍g₎ → C₂H₆O₍l₎\n\nCom base nas equações abaixo que resultam na reação de interesse, calcule o ΔH da reação de formação do etanol.\n\nI. Cgraf + O₂₍g₎ → CO₂₍g₎ ΔH = -394 $kJ/mol$\nII. H₂₍g₎ + $1/2$ O₂₍g₎ → H₂O₍l₎ ∆H = -286 $kJ/mol$\nIII. C₂H₆O₍l₎ + 3 O₂₍g₎ → 2 CO₂₍g₎ + 3 H₂O₍l₎ ΔH = -1368 $kJ/mol$",
       subItens: []
     },
     options: [
-      "-278 kJ/mol.",
-      "-2048 kJ/mol.",
-      "-688 kJ/mol.",
-      "+294 kJ/mol."
+      "-278 $kJ/mol$.",
+      "-2048 $kJ/mol$.",
+      "-688 $kJ/mol$.",
+      "+294 $kJ/mol$."
     ],
     correctAnswer: 0,
     materia: ["Química"],
@@ -227,10 +227,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "51/101",
-      "53/103",
-      "55/105",
-      "57/107"
+      "$51/101$",
+      "$53/103$",
+      "$55/105$",
+      "$57/107$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -267,10 +267,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "13/27",
-      "15/32",
-      "19/40",
-      "21/53"
+      "$13/27$",
+      "$15/32$",
+      "$19/40$",
+      "$21/53$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -307,10 +307,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/8",
-      "1/6",
-      "1/4",
-      "1/2"
+      "$1/8$",
+      "$1/6$",
+      "$1/4$",
+      "$1/2$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -467,10 +467,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "d = (2.g.v₀²) / (senθ + μ.cos θ)\ne\nt = v₀ / (g.senθ + μ.cos θ)",
-      "d = v₀² / (2.g.(senθ + µ.cos θ))\ne\nt = v₀ / (g.(senθ + µ.cos θ))",
-      "d = (2.μ.v₀²) / (g.(senθ + cos θ))\ne\nt = (g.μ.v₀) / (senθ + cos θ)",
-      "d = (2.v₀²) / (μ.g.(senθ + cos θ))\ne\nt = (μ.v₀) / (g.(senθ + cos θ))"
+      "d = (2.g.v₀²) / ($\\sin$θ + μ.$\\cos$ θ)\ne\nt = v₀ / (g.$\\sin$θ + μ.$\\cos$ θ)",
+      "d = v₀² / (2.g.($\\sin$θ + µ.$\\cos$ θ))\ne\nt = v₀ / (g.($\\sin$θ + µ.$\\cos$ θ))",
+      "d = (2.μ.v₀²) / (g.($\\sin$θ + $\\cos$ θ))\ne\nt = (g.μ.v₀) / ($\\sin$θ + $\\cos$ θ)",
+      "d = (2.v₀²) / (μ.g.($\\sin$θ + $\\cos$ θ))\ne\nt = (μ.v₀) / (g.($\\sin$θ + $\\cos$ θ))"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -483,7 +483,7 @@ createQuestion({
     university: "albert einstein",
     year: 2018,
     text: {
-      principal: "Um recipiente contendo 1 litro de água, a 20°C, é colocado no interior de um forno de micro-ondas. O aparelho é ligado a uma tensão de 110V e percorrido por uma corrente elétrica de 10A. Após 40 minutos, verifica-se que ainda resta 1⁄4 de litro de água líquida no recipiente. Determine o rendimento percentual aproximado desse aparelho.\n\nDados:\npressão atmosférica: 1 atm\ndensidade da água: 1 g/cm³\ncalor latente de vaporização da água: 540 cal/g\ncalor específico da água: 1 cal/g°C\n1 caloria = 4,2 joules",
+      principal: "Um recipiente contendo 1 litro de água, a 20°C, é colocado no interior de um forno de micro-ondas. O aparelho é ligado a uma tensão de 110V e percorrido por uma corrente elétrica de 10A. Após 40 minutos, verifica-se que ainda resta 1⁄4 de litro de água líquida no recipiente. Determine o rendimento percentual aproximado desse aparelho.\n\nDados:\npressão atmosférica: 1 atm\ndensidade da água: 1 $g/cm$³\ncalor latente de vaporização da água: 540 $cal/g$\ncalor específico da água: 1 $cal/g$°C\n1 caloria = 4,2 joules",
       subItens: []
     },
     options: [
@@ -547,10 +547,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "O povo rohingya é originário da Índia e do Paquistão e migrou para Mianmar durante o século XX devido às perseguições que sofriam por serem muçulmanos. Em Mianmar, foram aceitos pelos budistas que não temem sua religião, mas, nos últimos tempos, passaram a exigir a autonomia do território em que vivem, causando o conflito.",
-      "Em Mianmar, a minoria rohingya é considerada como “imigrantes ilegais de Bangladesh”, trazidos pelos colonizadores britânicos que governaram Mianmar até 1948. Porém, os historiadores apontam para uma presença de muçulmanos na região que remonta ao século XI. Rohingya significa \"habitante de Rohang\", o nome pelo qual era conhecida Rakhine.",
-      "Os rohingya são um grupo muçulmano que migrou do Paquistão para Mianmar nos últimos vinte anos com o objetivo de impor sua religião aos budistas da região de Rakhine, ao norte de Mianmar, sendo sustentados por grupos fundamentalistas do Paquistão que pretendem ampliar sua ação em território asiático.",
-      "O exército de Mianmar é acusado de promover uma limpeza étnica com a perseguição e morte de centenas de rohingyas, grupo minoritário muçulmano originário do norte do país e que, inconformados com a forma como são tratados pela população e governo, exigem a autonomia da região de Rakhine"
+      "O povo rohingya é originário da Índia e do Paquistão e migrou para Mianmar durante o século XX devido às perseguições que sofriam por serem $\\mu$çulmanos. Em Mianmar, foram aceitos pelos budistas que não temem sua religião, mas, nos últimos tempos, passaram a exigir a autonomia do território em que vivem, causando o conflito.",
+      "Em Mianmar, a minoria rohingya é considerada como “imigrantes ilegais de Bangladesh”, trazidos pelos colonizadores britânicos que governaram Mianmar até 1948. Porém, os historiadores apontam para uma presença de $\\mu$çulmanos na região que remonta ao século $\\xi$. Rohingya significa \"habitante de Rohang\", o nome pelo qual era conhecida Rakhine.",
+      "Os rohingya são um grupo $\\mu$çulmano que migrou do Paquistão para Mianmar nos últimos vinte anos com o objetivo de impor sua religião aos budistas da região de Rakhine, ao norte de Mianmar, sendo sustentados por grupos fundamentalistas do Paquistão que pretendem ampliar sua ação em território asiático.",
+      "O exército de Mianmar é acusado de promover uma limpeza étnica com a perseguição e morte de centenas de rohingyas, grupo minoritário $\\mu$çulmano originário do norte do país e que, inconformados com a forma como são tratados pela população e governo, exigem a autonomia da região de Rakhine"
     ],
     correctAnswer: 1,
     materia: ["Geografia"],
@@ -649,7 +649,7 @@ createQuestion({
     options: [
       "análogas, em razão das formas variadas de luta, que iam desde a união entre brancos e negros nos movimentos de rua, até ações para o convencimento de grupos de congressistas brancos, capazes de defender os direitos constitucionais dos negros.",
       "complementares, na medida em que as ações de Martin Luther King buscavam apaziguar os negros depois do enfrentamento nos movimentos de rua liderados por Malcolm X, e permitiam as mudanças constitucionais necessárias.",
-      "divergentes pois, enquanto Martin Luther King pregava a convivência entre brancos e negros e o pacifismo, com base em princípios cristãos, Malcolm X incitava a luta aberta dos negros contra os brancos, orientado por uma forte espiritualidade muçulmana.",
+      "divergentes pois, enquanto Martin Luther King pregava a convivência entre brancos e negros e o pacifismo, com base em princípios cristãos, Malcolm X incitava a luta aberta dos negros contra os brancos, orientado por uma forte espiritualidade $\\mu$çulmana.",
       "convergentes, já que partiam do princípio da não-violência e apenas interferiam no andamento dos processos constitucionais através da representação de congressistas negros e, eventualmente, de senadores brancos democratas."
     ],
     correctAnswer: 2,
@@ -703,7 +703,7 @@ createQuestion({
     university: "albert einstein",
     year: 2018,
     text: {
-      principal: "Utilize o infográfico para responder as questões 36 e 37.\n\n(Infográfico com o título \"BULLY FREE\" e subtítulos como \"IT STARTS WITH ME\", e estatísticas sobre cyberbullying: \"More than 1 in 3 young people have experienced cyberthreats online.\", \"More than 1/2 of young people do not tell their parents when cyber bullying occurs.\", \"More than 25% of adolescents and teens have been bullied repeatedly through their cell phones or the Internet.\". Contém também um convite \"Take the Pledge To Stand Up For Bullied Students at nea.org/bullyfree\".)\n\nO infográfico tem como objetivo principal",
+      principal: "Utilize o infográfico para responder as questões 36 e 37.\n\n(Infográfico com o título \"BULLY FREE\" e subtítulos como \"IT STARTS WITH ME\", e estatísticas sobre cyberbullying: \"More than 1 in 3 young people have experienced cyberthreats online.\", \"More than $1/2$ of young people do not tell their parents when cyber bullying occurs.\", \"More than 25% of adolescents and teens have been bullied repeatedly through their cell phones or the Internet.\". Contém também um convite \"Take the Pledge To Stand Up For Bullied Students at nea.$org/bullyfree$\".)\n\nO infográfico tem como objetivo principal",
       subItens: []
     },
     options: [
@@ -903,7 +903,7 @@ createQuestion({
     university: "albert einstein",
     year: 2018,
     text: {
-      principal: "Os dois textos a seguir – Era digital desafia exercício profissional e Conselho não cassa registro por quebra de sigilo médico – servirão de base para você responder às cinco questões objetivas de Língua Portuguesa (de 46 a 50) e elaborar sua Redação.\n\nEra digital desafia exercício profissional\n\"A medicina não sobreviverá ao velho método do médico de família, mas terá que se adaptar\". A afirmação é do desembargador do Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), Diaulas Costa Ribeiro, proferida durante a mesa-redonda \"Panorama atual das mídias sociais e aplicativos na medicina contemporânea\". Para ele, as novas tecnologias trazem desafios que precisam ser colocados em perspectiva para garantir a ética e o sigilo.\n\"Possivelmente vamos chegar a uma medicina sem gosto, distanciada, mas que também funciona. Talvez este não seja o fim, mas um recomeço”, ponderou Ribeiro. Segundo ele, antes de gerar um novo modelo de atendimento médico, o \"dr. Google\" - termo que utilizou para indicar as buscas por informações médicas na internet – gerou um novo tipo de paciente, que passou a conhecer mais sobre as doenças e, por isso, exige um novo relacionamento com seu médico.\nO desembargador ainda reforçou a necessidade de se rediscutir questões como o uso da internet nessa relação médico-paciente e a segurança do sigilo médico neste cenário. “Precisamos refletir sobre algumas questões importantes. Quem guardará o sigilo? Ou não haverá sigilo? O sigilo médico será mantido ou valerá o direito público à informação? Os conflitos serão reinventados ou serão os mesmos? A solução para os problemas será a de sempre?\", indagou.\n\nÉtica - Na perspectiva do médico legista e professor da Universidade de Brasília (UnB), Malthus Galvão, embora acredite que algumas mudanças serão inevitáveis e necessárias, é preciso defender os princípios fundamentais instituídos pelo Código de ética médica (CEM).\n\"As novas mídias devem ser entendidas como um sistema de interação social, de compartilhamento e criação colaborativa de informação nos mais diversos formatos e não podemos perder essa oportunidade”, destacou. Ele lembra, por exemplo, que desde a Resolução CFM 1.643/2002, que define e disciplina a prestação de serviços através da telemedicina, alguns avanços colaborativos foram possíveis.\nGalvão apresentou ainda preceitos da Resolução CFM 1.974/2011 e também da Lei do Ato Médico (12.842/2013), chamando a atenção para alguns cuidados que o médico deve ter ao divulgar conteúdo de forma sensacionalista. \"Segundo o CEM, é vedada a divulgação de informação sobre assunto médico de forma sensacionalista, promocional ou de conteúdo inverídico. A internet deve ser usada como um instrumento de promoção da saúde e orientação à população”, reforçou.\nEditorial do Jornal Medicina - Publicação oficial do Conselho Federal de Medicina (CFM). Brasília, jul. 2017, p. 7.\n\nNo primeiro parágrafo do editorial do CFM, as aspas são empregadas, respectivamente, para demarcar",
+      principal: "Os dois textos a seguir – Era digital desafia exercício profissional e Conselho não cassa registro por quebra de sigilo médico – servirão de base para você responder às cinco questões objetivas de Língua Portuguesa (de 46 a 50) e elaborar sua Redação.\n\nEra digital desafia exercício profissional\n\"A medicina não sobreviverá ao velho método do médico de família, mas terá que se adaptar\". A afirmação é do desembargador do Tribunal de Justiça do Distrito Federal e Territórios (TJDFT), Diaulas Costa Ribeiro, proferida durante a mesa-redonda \"Panorama atual das mídias sociais e aplicativos na medicina contemporânea\". Para ele, as novas tecnologias trazem desafios que precisam ser colocados em perspectiva para garantir a ética e o sigilo.\n\"Possivelmente vamos chegar a uma medicina sem gosto, distanciada, mas que também funciona. Talvez este não seja o fim, mas um recomeço”, ponderou Ribeiro. Segundo ele, antes de gerar um novo modelo de atendimento médico, o \"dr. Google\" - termo que utilizou para indicar as buscas por informações médicas na internet – gerou um novo tipo de paciente, que passou a conhecer mais sobre as doenças e, por isso, exige um novo relacionamento com seu médico.\nO desembargador ainda reforçou a necessidade de se rediscutir questões como o uso da internet nessa relação médico-paciente e a segurança do sigilo médico neste cenário. “Precisamos refletir sobre algumas questões importantes. Quem guardará o sigilo? Ou não haverá sigilo? O sigilo médico será mantido ou valerá o direito público à informação? Os conflitos serão reinventados ou serão os mesmos? A solução para os problemas será a de sempre?\", indagou.\n\nÉtica - Na perspectiva do médico legista e professor da Universidade de Brasília (UnB), Malthus Galvão, embora acredite que algumas mudanças serão inevitáveis e necessárias, é preciso defender os princípios fundamentais instituídos pelo Código de ética médica (CEM).\n\"As novas mídias devem ser entendidas como um sistema de interação social, de compartilhamento e criação colaborativa de informação nos mais diversos formatos e não podemos perder essa oportunidade”, destacou. Ele lembra, por exemplo, que desde a Resolução CFM 1.$643/2002$, que define e disciplina a prestação de serviços através da telemedicina, alguns avanços colaborativos foram possíveis.\nGalvão apresentou ainda preceitos da Resolução CFM 1.$974/2011$ e também da Lei do Ato Médico (12.$842/2013$), chamando a atenção para alguns cuidados que o médico deve ter ao divulgar conteúdo de forma sensacionalista. \"Segundo o CEM, é vedada a divulgação de informação sobre assunto médico de forma sensacionalista, promocional ou de conteúdo inverídico. A internet deve ser usada como um instrumento de promoção da saúde e orientação à população”, reforçou.\nEditorial do Jornal Medicina - Publicação oficial do Conselho Federal de Medicina (CFM). Brasília, jul. 2017, p. 7.\n\nNo primeiro parágrafo do editorial do CFM, as aspas são empregadas, respectivamente, para demarcar",
       subItens: []
     },
     options: [

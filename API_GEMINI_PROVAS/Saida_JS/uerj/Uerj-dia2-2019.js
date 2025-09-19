@@ -183,7 +183,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "Física\nColho esta luz solar à minha volta,\nNo meu prisma a disperso e recomponho:\nRumor de sete cores, silêncio branco.\nJOSÉ SARAMAGO\n\nNa imagem a seguir, o triângulo ABC representa uma seção plana paralela à base de um prisma reto. As retas n e n' são perpendiculares aos lados AC e AB, respectivamente, e BẬC = 80°.\n[IMAGE: Triangle ABC with perpendicular lines n and n' and angle theta]\nA medida do ângulo θ entre n e n' é:",
+      principal: "Física\nColho esta luz solar à minha volta,\nNo meu prisma a disperso e recomponho:\nRumor de sete cores, silêncio branco.\nJOSÉ SARAMAGO\n\nNa imagem a seguir, o triângulo ABC representa uma seção plana paralela à base de um prisma reto. As retas n e n' são perpendiculares aos lados AC e AB, respectivamente, e BẬC = 80°.\n[IMAGE: Triangle ABC with perpendicular lines n and n' and angle $\\theta$]\nA medida do ângulo θ entre n e n' é:",
       subItens: []
     },
     options: [
@@ -563,7 +563,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "PROJEÇÃO PARA 2020 DOS MAIORES PRODUTORES DE PETRÓLEO\n(em milhões de barris/dia)\n[TABLE: Country, Production in 2011 (million barrels/day), Production in 2020 (million barrels/day)]\nAdaptado de fernandonogueiradacosta.wordpress.com.\nDe acordo com a projeção apresentada na tabela, no período de 2011 a 2020, o país com maior aumento percentual na produção de petróleo seria o Iraque.\nO segundo país com maior aumento percentual seria:",
+      principal: "PROJEÇÃO PARA 2020 DOS MAIORES PRODUTORES DE PETRÓLEO\n(em milhões de $barris/dia$)\n[TABLE: Country, Production in 2011 (million $barrels/day$), Production in 2020 (million $barrels/day$)]\nAdaptado de fernandonogueiradacosta.wordpress.com.\nDe acordo com a projeção apresentada na tabela, no período de 2011 a 2020, o país com maior aumento percentual na produção de petróleo seria o Iraque.\nO segundo país com maior aumento percentual seria:",
       subItens: []
     },
     options: [
@@ -607,10 +607,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "(28/5, 21/5)",
-      "(31/5, 26/5)",
-      "(33/5, 29/5)",
-      "(36/5, 37/5)"
+      "($28/5$, $21/5$)",
+      "($31/5$, $26/5$)",
+      "($33/5$, $29/5$)",
+      "($36/5$, $37/5$)"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -647,10 +647,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/49",
-      "2/49",
-      "1/7",
-      "2/7"
+      "$1/49$",
+      "$2/49$",
+      "$1/7$",
+      "$2/7$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -703,7 +703,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "A lactose é hidrolisada no leite \"sem lactose”, formando dois carboidratos, conforme a equação química:\nlactose + água → glicose + galactose\nSe apenas os carboidratos forem considerados, o valor calórico de 1 litro tanto do leite integral quanto do leite “sem lactose” é igual a –90 kcal, que corresponde à entalpia-padrão de combustão de 1 mol de lactose.\nAssumindo que as entalpias-padrão de combustão da glicose e da galactose são iguais, a entalpia de combustão da glicose, em kcal/mol, é igual a:",
+      principal: "A lactose é hidrolisada no leite \"sem lactose”, formando dois carboidratos, conforme a equação química:\nlactose + água → glicose + galactose\nSe apenas os carboidratos forem considerados, o valor calórico de 1 litro tanto do leite integral quanto do leite “sem lactose” é igual a –90 kcal, que corresponde à entalpia-padrão de combustão de 1 mol de lactose.\nAssumindo que as entalpias-padrão de combustão da glicose e da galactose são iguais, a entalpia de combustão da glicose, em $kcal/mol$, é igual a:",
       subItens: []
     },
     options: [
@@ -763,7 +763,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "Considere as informações a seguir sobre a perfluorodecalina, substância utilizada no preparo de sangue artificial.\nFórmula mínima: C₅F₉\nMassa molar: 462 g/mol.\nSua fórmula molecular é representada por:",
+      principal: "Considere as informações a seguir sobre a perfluorodecalina, substância utilizada no preparo de sangue artificial.\nFórmula mínima: C₅F₉\nMassa molar: 462 $g/mol$.\nSua fórmula molecular é representada por:",
       subItens: []
     },
     options: [
@@ -803,7 +803,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "Observe no gráfico a curva representativa do movimento de um veículo ao longo do tempo, traçada a partir das posições registradas durante seu deslocamento.\n[GRAPH: Deslocamento (m) vs. Tempo (s) showing position of vehicle and representative curve of movement]\nO valor estimado da velocidade média do veículo, em m/s, corresponde a:",
+      principal: "Observe no gráfico a curva representativa do movimento de um veículo ao longo do tempo, traçada a partir das posições registradas durante seu deslocamento.\n[GRAPH: Deslocamento (m) vs. Tempo (s) showing position of vehicle and representative curve of movement]\nO valor estimado da velocidade média do veículo, em $m/s$, corresponde a:",
       subItens: []
     },
     options: [
@@ -903,7 +903,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "Um canudo de plástico e outro de vidro borossilicato possuem mesmo volume e densidades de 0,90 g/cm³ e 2,25 g/cm³, respectivamente.\nA razão entre as massas do canudo de plástico e do canudo de vidro corresponde a:",
+      principal: "Um canudo de plástico e outro de vidro borossilicato possuem mesmo volume e densidades de 0,90 $g/cm$³ e 2,25 $g/cm$³, respectivamente.\nA razão entre as massas do canudo de plástico e do canudo de vidro corresponde a:",
       subItens: []
     },
     options: [
@@ -1123,7 +1123,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "BRASIL: USO DE AGROTÓXICOS POR CULTURA (2015)\n[GRAPH: Pie chart showing percentage of agrochemical use by culture (soja, cana, milho, algodão, trigo, café, pastagem, arroz, feijão, outros)]\nAdaptado de BOMBARDI, L. M. Geografia do uso de agrotóxicos no Brasil e conexões com a União Europeia.\nSão Paulo: FFLCH/USP, 2017.\n\nUma característica econômica comum aos quatro cultivos brasileiros nos quais os agrotóxicos são mais utilizados é a expressiva:",
+      principal: "BRASIL: USO DE AGROTÓXICOS POR CULTURA (2015)\n[GRAPH: Pie chart showing percentage of agrochemical use by culture (soja, cana, milho, algodão, trigo, café, pastagem, arroz, feijão, outros)]\nAdaptado de BOMBARDI, L. M. Geografia do uso de agrotóxicos no Brasil e conexões com a União Europeia.\nSão Paulo: $FFLCH/USP$, 2017.\n\nUma característica econômica comum aos quatro cultivos brasileiros nos quais os agrotóxicos são mais utilizados é a expressiva:",
       subItens: []
     },
     options: [

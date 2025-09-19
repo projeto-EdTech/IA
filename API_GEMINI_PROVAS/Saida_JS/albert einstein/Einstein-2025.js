@@ -24,7 +24,7 @@ createQuestion({
     university: "albert einstein",
     year: 2025,
     text: {
-      principal: "Para responder às questões de 02 a 05, leia a crônica \"Dever de casa\", de Otto Lara Resende, publicada originalmente em 13.09.1992.\n\nUm fiapo de gente e um feixe de problemas. Agora é uma perguntação que não tem mais fim. Papai, o plural de segunda-feira? Tira os óculos, para de ler a revista. Daqui a pouco é hora do telejornal. Dia cansativo, mas pai é pai. Segunda-feira, segunda-feira. Murmurinha, como se procu-rasse na memória algo que não sabe o que é. Segunda-feira, pai. Ah, sim. O plural dos nomes compostos. Ao menos isso não terá mudado.\nMudam tudo neste país. Depois querem ter jurisprudên-cia. Ainda hoje andou lendo um acórdão. Ementa malfeita. Segunda-feira no plural. Não tem mais o que inventar. Segun-das-feiras. Variam os dois elementos. Fácil, óbvio. Entendeu?\nNem tinha retomado a leitura e lá vem outra perguntinha. Quarta-feira é abstrato ou concreto? Essa, agora. Primeiro vamos saber se é mesmo substantivo. Nenhuma dúvida. É substantivo. Abstrato?\nConcreto. A professora disse que é concreto. Pai é pai. Põe tudo de lado e sai sem bater a porta. Concreto, está lá no Celso Cunha, é o substantivo que designa um ser pro-priamente dito. Nomes de pessoas, de lugares, de institui-ções. Etc. Quarta-feira. Vamos raciocinar. Nome de um dia. Abstrato designa noção, ação, estado e qualidade. Desde que considerados como seres. Quarta-feira é um ser? Se é um dia, é um ser. Mas concreto? Abstrato. Deve ser abstrato.\nUm dia de matar, o trânsito engarrafado. A dorzinha de cabeça já se instalou. Quarta-feira, papai. Afinal? Outro dia era o aliás. Até que teve sua graça. Que é aliás? Bom, como categoria gramatical, me parece que. Pausa. Mudaram a nomenclatura gramatical toda. [...] Aliás, advérbio não é. Ou melhor, é controvertido. Vem do latim. Quer dizer quer dizer, como disse o outro. Será advérbio?\nEsses meninos de hoje, francamente. Gramática nin-guém estuda mais. A língua andrajosa, um monte de sole-cismos. Mas quarta-feira é substantivo abstrato? Concreto, disse a professora. Ora, pinoia. Está começando o telejornal. Mais um fantasma. Mandado de segurança. Mandado e não mandato. Preste atenção, meu filho. Aliás, só faltava essa. [...] Fantasma é concreto? Eta Brasil complicado! Aliás, hoje é quarta-feira. Abstrata? Uma vergonha!\n(Otto Lara Resende. Bom dia para nascer, 2011.)\n\nVerificam-se nos trechos \"Murmurinha, como se procurasse na memória algo que não sabe o que é.\" (1º parágrafo), “Não tem mais o que inventar.\" (2º parágrafo) e \"Essa, agora.\" (3º parágrafo) as vozes, respectivamente,",
+      principal: "Para responder às questões de 02 a 05, leia a crônica \"Dever de casa\", de Otto Lara Resende, publicada originalmente em 13.09.1992.\n\nUm fiapo de gente e um feixe de problemas. Agora é uma perguntação que não tem mais fim. Papai, o plural de segunda-feira? Tira os óculos, para de ler a revista. Daqui a pouco é hora do telejornal. Dia cansativo, mas pai é pai. Segunda-feira, segunda-feira. Murmurinha, como se procu-rasse na memória algo que não sabe o que é. Segunda-feira, pai. Ah, sim. O plural dos nomes compostos. Ao menos isso não terá mudado.\nMudam tudo neste país. Depois querem ter jurisprudên-cia. Ainda hoje andou lendo um acórdão. Ementa malfeita. Segunda-feira no plural. Não tem mais o que inventar. Segun-das-feiras. Variam os dois elementos. Fácil, óbvio. Entendeu?\nNem tinha retomado a leitura e lá vem outra perguntinha. Quarta-feira é abstrato ou concreto? Essa, agora. Primeiro vamos saber se é mesmo substantivo. Nenhuma dúvida. É substantivo. Abstrato?\nConcreto. A professora disse que é concreto. Pai é pai. Põe tudo de lado e sai sem bater a porta. Concreto, está lá no Celso Cunha, é o substantivo que designa um ser pro-priamente dito. Nomes de pessoas, de lugares, de institui-ções. Etc. Quarta-feira. Vamos raciocinar. Nome de um dia. Abstrato designa noção, ação, estado e qualidade. Desde que considerados como seres. Quarta-feira é um ser? Se é um dia, é um ser. Mas concreto? Abstrato. Deve ser abstrato.\nUm dia de matar, o trânsito engarrafado. A dorzinha de cabeça já se instalou. Quarta-feira, papai. Afinal? Outro dia era o aliás. Até que teve sua graça. Que é aliás? Bom, como categoria gramatical, me parece que. Pausa. Mudaram a nomenclatura gramatical toda. [...] Aliás, advérbio não é. Ou melhor, é controvertido. Vem do latim. Quer dizer quer dizer, como disse o outro. Será advérbio?\nEsses meninos de hoje, francamente. Gramática nin-guém estuda mais. A língua andrajosa, um monte de sole-cismos. Mas quarta-feira é substantivo abstrato? Concreto, disse a professora. Ora, pinoia. Está começando o telejornal. Mais um fantasma. Mandado de segurança. Mandado e não mandato. Preste atenção, meu filho. Aliás, só faltava essa. [...] Fantasma é concreto? $\\eta$ Brasil complicado! Aliás, hoje é quarta-feira. Abstrata? Uma vergonha!\n(Otto Lara Resende. Bom dia para nascer, 2011.)\n\nVerificam-se nos trechos \"Murmurinha, como se procurasse na memória algo que não sabe o que é.\" (1º parágrafo), “Não tem mais o que inventar.\" (2º parágrafo) e \"Essa, agora.\" (3º parágrafo) as vozes, respectivamente,",
       subItens: []
     },
     options: [
@@ -681,8 +681,8 @@ createQuestion({
     options: [
       "m₂ = 8m₁",
       "m₂ = 4m₁",
-      "m₂ = 1/8 m₁",
-      "m₂ = 1/4 m₁",
+      "m₂ = $1/8$ m₁",
+      "m₂ = $1/4$ m₁",
       "m₂ = 2m₁"
     ],
     correctAnswer: 1,
@@ -700,11 +700,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "30,0 g/L.",
-      "63,5 g/L.",
-      "22,5 g/L.",
-      "7,5 g/L.",
-      "90,0 g/L."
+      "30,0 $g/L$.",
+      "63,5 $g/L$.",
+      "22,5 $g/L$.",
+      "7,5 $g/L$.",
+      "90,0 $g/L$."
     ],
     correctAnswer: 4,
     materia: ["Química"],
@@ -738,7 +738,7 @@ createQuestion({
     university: "albert einstein",
     year: 2025,
     text: {
-      principal: "O fenômeno da fadiga térmica pode ocorrer no sistema de freios de um veículo pesado, se o condutor utilizar os freios para controlar continuamente a velocidade desse veículo, em um longo trecho de declive. Ao final desse trecho, o atrito entre as pastilhas e os discos de freio pode não ser suficiente para frear o veículo porque o grande aquecimento provocado por esse atrito diminui o coeficiente de atrito entre os materiais do freio. O gráfico mostra como varia o coeficiente de atrito entre o aço do disco de freio e o material que recobre as pastilhas do freio de um caminhão, em função da temperatura.\n\n[Gráfico de Coeficiente de atrito vs Temperatura (°C). O coeficiente de atrito diminui linearmente à medida que a temperatura aumenta, de 0.35 a 200°C para 0.20 a 350°C.]\n\nConsidere que, em uma frenagem contínua em um longo trecho de declive de uma rodovia, as forças de compres-são entre as pastilhas e os discos de freio das rodas desse caminhão se mantenham constantes. Se, nessa frenagem, a temperatura do freio aumentar de 200 °C para 350 °C, as intensidades das forças de atrito entre as pastilhas e os dis-cos de freio sofrerão uma redução de",
+      principal: "O fenômeno da fadiga térmica pode ocorrer no sistema de freios de um veículo pesado, se o condutor utilizar os freios para controlar continuamente a velocidade desse veículo, em um longo trecho de declive. Ao final desse trecho, o atrito entre as pastilhas e os discos de freio pode não ser suficiente para frear o veículo porque o grande aquecimento provocado por esse atrito diminui o coeficiente de atrito entre os materiais do freio. O gráfico mostra como varia o coeficiente de atrito entre o aço do disco de freio e o material que recobre as pastilhas do freio de um caminhão, em função da temperatura.\n\n[Gráfico de Coeficiente de atrito vs Temperatura (°C). O coeficiente de atrito diminui linearmente à medida que a temperatura aumenta, de 0.35 a 200°C para 0.20 a 350°C.]\n\nConsidere que, em uma frenagem contínua em um longo trecho de declive de uma rodovia, as forças de compres-são entre as pastilhas e os discos de freio das rodas desse caminhão se mantenham constantes. Se, nessa frenagem, a temperatura do freio aumentar de 200 °C para 350 °C, as intensidades das forças de atrito entre as pastilhas e os dis-$\\cos$ de freio sofrerão uma redução de",
       subItens: []
     },
     options: [
@@ -885,15 +885,15 @@ createQuestion({
     university: "albert einstein",
     year: 2025,
     text: {
-      principal: "No plano cartesiano, a reta r, de equação y = -5/2 x + 12, intersecta a reta s, de equação y = x + 5, no ponto P. A reta r intersecta o eixo x no ponto R, e a reta s intersecta o eixo y no ponto S, como na figura.\n\n[Gráfico de duas retas no plano cartesiano. Reta r: decrescente, passando por (0,12) e (4.8,0). Reta s: crescente, passando por (0,5) e (-5,0). As retas se intersectam em P. R é a intersecção de r com o eixo x. S é a intersecção de s com o eixo y.]\n\nA área do triângulo de vértices PRS é",
+      principal: "No plano cartesiano, a reta r, de equação y = -$5/2$ x + 12, intersecta a reta s, de equação y = x + 5, no ponto P. A reta r intersecta o eixo x no ponto R, e a reta s intersecta o eixo y no ponto S, como na figura.\n\n[Gráfico de duas retas no plano cartesiano. Reta r: decrescente, passando por (0,12) e (4.8,0). Reta s: crescente, passando por (0,5) e (-5,0). As retas se intersectam em P. R é a intersecção de r com o eixo x. S é a intersecção de s com o eixo y.]\n\nA área do triângulo de vértices PRS é",
       subItens: []
     },
     options: [
-      "44/5",
-      "47/5",
-      "51/5",
-      "54/5",
-      "49/5"
+      "$44/5$",
+      "$47/5$",
+      "$51/5$",
+      "$54/5$",
+      "$49/5$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -927,14 +927,14 @@ createQuestion({
     university: "albert einstein",
     year: 2025,
     text: {
-      principal: "Geraldo depositou R$ 1.000,00 em uma conta de investi-mento que rende p% por ano. Não tendo feito mais nenhum depósito nessa conta, após 30 anos, o saldo era de R$ 120.000,00. Usando log₁₀ 2 = 0,301, log₁₀ 3 = 0,477 e 10⁰,⁰²³¹ = K, o valor de p é",
+      principal: "Geraldo depositou R$ 1.000,00 em uma conta de investi-mento que rende p% por ano. Não tendo feito mais nenhum depósito nessa conta, após 30 anos, o saldo era de R$ 120.000,00. Usando $\\log$₁₀ 2 = 0,301, $\\log$₁₀ 3 = 0,477 e 10⁰,⁰²³¹ = K, o valor de p é",
       subItens: []
     },
     options: [
       "100 (K³ – 1)",
-      "100 (1 – 1/K²)",
+      "100 (1 – $1/K$²)",
       "100 (K² – 1)",
-      "100 (1 – 1/K³)",
+      "100 (1 – $1/K$³)",
       "100 (K – 1)"
     ],
     correctAnswer: 0,
@@ -948,13 +948,13 @@ createQuestion({
     university: "albert einstein",
     year: 2025,
     text: {
-      principal: "No plano, as retas r e s são perpendiculares e se cruzam no ponto P, que pertence à circunferência δ. A reta r passa pelo centro O de δ e contém o ponto R de δ. A reta s forma um ângulo de medida θ com o segmento PQ, em que Q é um ponto de δ, como na figura.\n\n[Figura de uma circunferência δ com centro O. Reta r passa por R, O, P. Reta s passa por Q, P. Segmento PQ forma ângulo θ com reta s. R, Q e P são pontos da circunferência.]\n\nSabendo que cos θ = 5/8 e que o raio de δ mede 12 cm, a distância entre os pontos R e Q é de",
+      principal: "No plano, as retas r e s são perpendiculares e se cruzam no ponto P, que pertence à circunferência δ. A reta r passa pelo centro O de δ e contém o ponto R de δ. A reta s forma um ângulo de medida θ com o segmento PQ, em que Q é um ponto de δ, como na figura.\n\n[Figura de uma circunferência δ com centro O. Reta r passa por R, O, P. Reta s passa por Q, P. Segmento PQ forma ângulo θ com reta s. R, Q e P são pontos da circunferência.]\n\nSabendo que $\\cos$ θ = $5/8$ e que o raio de δ mede 12 cm, a distância entre os pontos R e Q é de",
       subItens: []
     },
     options: [
       "15 cm",
-      "50/3 cm",
-      "95/6 cm",
+      "$50/3$ cm",
+      "$95/6$ cm",
       "16 cm",
       "18 cm"
     ],
@@ -973,10 +973,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "9√6/2 cm²",
+      "9√$6/2$ cm²",
       "6√3 cm²",
       "11 cm²",
-      "22√2/3 cm²",
+      "22√$2/3$ cm²",
       "10 cm²"
     ],
     correctAnswer: 1,
@@ -994,11 +994,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "125/216",
-      "16/25",
-      "3/4",
-      "25/36",
-      "64/125"
+      "$125/216$",
+      "$16/25$",
+      "$3/4$",
+      "$25/36$",
+      "$64/125$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],

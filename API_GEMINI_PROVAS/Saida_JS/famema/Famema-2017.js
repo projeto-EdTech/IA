@@ -280,11 +280,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2",
-      "1/3",
-      "1/4",
-      "1/5",
-      "1/6"
+      "$1/2$",
+      "$1/3$",
+      "$1/4$",
+      "$1/5$",
+      "$1/6$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -318,7 +318,7 @@ createQuestion({
     university: "famema",
     year: 2017,
     text: {
-      principal: "Considere a progressão aritmética (a₁, 4, a₃, a₄, a₅, 16, ...) de razão r e a progressão geométrica (b₁, b₂, b₃, b₄, 4, ...) de razão q.\nSabendo que r/q = 6, o valor de a₃ - b₃ é",
+      principal: "Considere a progressão aritmética (a₁, 4, a₃, a₄, a₅, 16, ...) de razão r e a progressão geométrica (b₁, b₂, b₃, b₄, 4, ...) de razão q.\nSabendo que $r/q$ = 6, o valor de a₃ - b₃ é",
       subItens: []
     },
     options: [
@@ -402,7 +402,7 @@ createQuestion({
     university: "famema",
     year: 2017,
     text: {
-      principal: "Um cilindro circular reto A, com raio da base igual a 6 cm e altura H, possui a mesma área lateral que um cilindro circular reto B, com raio da base r e altura h, conforme mostram as figuras.\n[Imagem de dois cilindros, A e B, com dimensões indicadas (raios e alturas).]\nSabendo que h/H = 1,2 e que o volume do cilindro B é 240π cm³, é correto afirmar que a diferença entre os volumes dos cilindros é",
+      principal: "Um cilindro circular reto A, com raio da base igual a 6 cm e altura H, possui a mesma área lateral que um cilindro circular reto B, com raio da base r e altura h, conforme mostram as figuras.\n[Imagem de dois cilindros, A e B, com dimensões indicadas (raios e alturas).]\nSabendo que $h/H$ = 1,2 e que o volume do cilindro B é 240π cm³, é correto afirmar que a diferença entre os volumes dos cilindros é",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "famema",
     year: 2017,
     text: {
-      principal: "Um helicóptero sobrevoa horizontalmente o solo com velocidade constante e, no ponto A, abandona um objeto de dimensões desprezíveis que, a partir desse instante, cai sob ação exclusiva da força peso e toca o solo plano e horizontal no ponto B. Na figura, o helicóptero e o objeto são representados em quatro instantes diferentes.\n[Imagem de um helicóptero lançando um objeto horizontalmente, mostrando a trajetória parabólica e indicando distâncias horizontais 'd' e altura vertical 'h'. A imagem também indica g = 10 m/s² e uma queda vertical de 20m para um trecho de 'd' horizontal.]\nConsiderando as informações fornecidas, é correto afirmar que a altura h de sobrevoo desse helicóptero é igual a",
+      principal: "Um helicóptero sobrevoa horizontalmente o solo com velocidade constante e, no ponto A, abandona um objeto de dimensões desprezíveis que, a partir desse instante, cai sob ação exclusiva da força peso e toca o solo plano e horizontal no ponto B. Na figura, o helicóptero e o objeto são representados em quatro instantes diferentes.\n[Imagem de um helicóptero lançando um objeto horizontalmente, mostrando a trajetória parabólica e indicando distâncias horizontais 'd' e altura vertical 'h'. A imagem também indica g = 10 $m/s$² e uma queda vertical de 20m para um trecho de 'd' horizontal.]\nConsiderando as informações fornecidas, é correto afirmar que a altura h de sobrevoo desse helicóptero é igual a",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "famema",
     year: 2017,
     text: {
-      principal: "A figura representa, em corte, parte de uma instalação utilizada para demonstrações de experimentos. Um corpo de dimensões desprezíveis escorrega pela superfície inclinada e atinge o ponto A com velocidade escalar igual a 10 m/s. Considere o atrito e a resistência do ar desprezíveis e g = 10 m/s².\n[Imagem de um corpo descendo uma superfície inclinada, com um nível de referência abaixo do ponto A.]\nEm relação ao nível de referência indicado na figura, a altura, na superfície inclinada, em que a energia cinética do corpo é igual ao triplo de sua energia potencial gravitacional é",
+      principal: "A figura representa, em corte, parte de uma instalação utilizada para demonstrações de experimentos. Um corpo de dimensões desprezíveis escorrega pela superfície inclinada e atinge o ponto A com velocidade escalar igual a 10 $m/s$. Considere o atrito e a resistência do ar desprezíveis e g = 10 $m/s$².\n[Imagem de um corpo descendo uma superfície inclinada, com um nível de referência abaixo do ponto A.]\nEm relação ao nível de referência indicado na figura, a altura, na superfície inclinada, em que a energia cinética do corpo é igual ao triplo de sua energia potencial gravitacional é",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "famema",
     year: 2017,
     text: {
-      principal: "Na figura, O é um ponto objeto virtual, vértice de um pincel de luz cônico convergente que incide sobre um espelho esférico côncavo E de distância focal f. Depois de refletidos no espelho, os raios desse pincel convergem para o ponto I sobre o eixo principal do espelho, a uma distância f/4 de seu vértice.\n[Imagem de um espelho esférico côncavo com raios de luz convergentes formando um objeto virtual O e uma imagem I.]\nConsiderando válidas as condições de nitidez de Gauss, é correto afirmar que a distância focal desse espelho é igual a",
+      principal: "Na figura, O é um ponto objeto virtual, vértice de um pincel de luz cônico convergente que incide sobre um espelho esférico côncavo E de distância focal f. Depois de refletidos no espelho, os raios desse pincel convergem para o ponto I sobre o eixo principal do espelho, a uma distância $f/4$ de seu vértice.\n[Imagem de um espelho esférico côncavo com raios de luz convergentes formando um objeto virtual O e uma imagem I.]\nConsiderando válidas as condições de nitidez de Gauss, é correto afirmar que a distância focal desse espelho é igual a",
       subItens: []
     },
     options: [

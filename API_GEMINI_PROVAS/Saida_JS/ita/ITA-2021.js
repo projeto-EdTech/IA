@@ -24,7 +24,7 @@ createQuestion({
     university: "ita",
     year: 2021,
     text: {
-      principal: "Um trem parte do repouso sobre uma linha horizontal e deve alcançar a velocidade de 72 km/h. Até atingir essa velocidade, o movimento do trem tem aceleração constante de 0,50 m/s², sendo que resistências passivas absorvem 5,0% da energia fornecida pela locomotiva. O esforço médio, em N, fornecido pela locomotiva para transportar uma carga de 1,0 ton é",
+      principal: "Um trem parte do repouso sobre uma linha horizontal e deve alcançar a velocidade de 72 $km/h$. Até atingir essa velocidade, o movimento do trem tem aceleração constante de 0,50 $m/s$², sendo que resistências passivas absorvem 5,0% da energia fornecida pela locomotiva. O esforço médio, em N, fornecido pela locomotiva para transportar uma carga de 1,0 ton é",
       subItens: []
     },
     options: [
@@ -71,10 +71,10 @@ createQuestion({
     },
     options: [
       "√(3Gm/(2d))",
-      "√(Gm/d)",
+      "√($Gm/d$)",
       "√(Gm/(2d))",
       "√(Gm/(3d))",
-      "√(3Gm/d)"
+      "√($3Gm/d$)"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -112,8 +112,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "TA/3.",
-      "TA/2.",
+      "$TA/3$.",
+      "$TA/2$.",
       "TA.",
       "2TA.",
       "3TA."
@@ -135,7 +135,7 @@ createQuestion({
     options: [
       "MAf/(2m)",
       "√(2MAf)/(2m)",
-      "MAf/m",
+      "$MAf/m$",
       "√(2MAf)/m",
       "√(MAf)/m"
     ],
@@ -234,7 +234,7 @@ createQuestion({
     university: "ita",
     year: 2021,
     text: {
-      principal: "Deseja-se capturar uma foto que ilustre um projétil, viajando a 500 m/s, atravessando uma maçã. Para isso, é necessário usar um flash de luz com duração compatível com o intervalo de tempo necessário para que o projétil atravesse a fruta. A intensidade do flash de luz está associada à descarga de um capacitor eletricamente carregado, de capacitância C, através de um tubo de resistência elétrica dada por 10 Ω. Assinale a alternativa com o valor de capacitância mais adequado para a aplicação descrita.",
+      principal: "Deseja-se capturar uma foto que ilustre um projétil, viajando a 500 $m/s$, atravessando uma maçã. Para isso, é necessário usar um flash de luz com duração compatível com o intervalo de tempo necessário para que o projétil atravesse a fruta. A intensidade do flash de luz está associada à descarga de um capacitor eletricamente carregado, de capacitância C, através de um tubo de resistência elétrica dada por 10 Ω. Assinale a alternativa com o valor de capacitância mais adequado para a aplicação descrita.",
       subItens: []
     },
     options: [
@@ -255,15 +255,15 @@ createQuestion({
     university: "ita",
     year: 2021,
     text: {
-      principal: "Um cilindro condutor oco de comprimento muito longo, cuja secção transversal tem raio interno R/2 e raio externo R, é atravessado por uma densidade de corrente elétrica uniforme e paralela ao eixo do cilindro. Qual representação gráfica abaixo melhor descreve a intensidade do campo magnético |B| como função da coordenada radial r a partir do eixo de simetria do sistema?\n(Gráficos de intensidade do campo magnético B em função da coordenada radial r)",
+      principal: "Um cilindro condutor oco de comprimento muito longo, cuja secção transversal tem raio interno $R/2$ e raio externo R, é atravessado por uma densidade de corrente elétrica uniforme e paralela ao eixo do cilindro. Qual representação gráfica abaixo melhor descreve a intensidade do campo magnético |B| como função da coordenada radial r a partir do eixo de simetria do sistema?\n(Gráficos de intensidade do campo magnético B em função da coordenada radial r)",
       subItens: []
     },
     options: [
-      "Gráfico com B=0 para r<R/2, B crescendo para R/2 < r < R, e B decrescendo para r > R",
-      "Gráfico com B=0 para r<R/2, B crescendo linearmente para R/2 < r < R, e B decrescendo para r > R",
-      "Gráfico com B=0 para r<R/2, B constante para R/2 < r < R, e B decrescendo para r > R",
-      "Gráfico com B=0 para r<R/2, B constante em um valor máximo para R/2 < r < R, e B decrescendo para r > R",
-      "Gráfico com B=0 para r<R/2, B decrescendo para R/2 < r < R, e B constante para r > R"
+      "Gráfico com B=0 para r<$R/2$, B crescendo para $R/2$ < r < R, e B decrescendo para r > R",
+      "Gráfico com B=0 para r<$R/2$, B crescendo linearmente para $R/2$ < r < R, e B decrescendo para r > R",
+      "Gráfico com B=0 para r<$R/2$, B constante para $R/2$ < r < R, e B decrescendo para r > R",
+      "Gráfico com B=0 para r<$R/2$, B constante em um valor máximo para $R/2$ < r < R, e B decrescendo para r > R",
+      "Gráfico com B=0 para r<$R/2$, B decrescendo para $R/2$ < r < R, e B constante para r > R"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -885,7 +885,7 @@ createQuestion({
     university: "ita",
     year: 2021,
     text: {
-      principal: "Considere um triângulo ABC tal que m(AB) = 14, cos (BAC) = 5/13 e cos (ABC) = 5/13. Então, o raio da circunferência inscrita ao triângulo é igual a:",
+      principal: "Considere um triângulo ABC tal que m(AB) = 14, $\\cos$ (BAC) = $5/13$ e $\\cos$ (ABC) = $5/13$. Então, o raio da circunferência inscrita ao triângulo é igual a:",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "ita",
     year: 2021,
     text: {
-      principal: "Seja S o subconjunto do plano cartesiano constituído pela união dos gráficos das funções f(x) = 2^x, g(x) = 2^-x e h(x) = log₂ x, com x > 0. Para cada k > 0 seja n o número de interseções da reta y = kx com S. Podemos afirmar que:",
+      principal: "Seja S o subconjunto do plano cartesiano constituído pela união dos gráficos das funções f(x) = $2^x$, g(x) = 2^-x e h(x) = $\\log$₂ x, com x > 0. Para cada k > 0 seja n o número de interseções da reta y = kx com S. Podemos afirmar que:",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
     university: "ita",
     year: 2021,
     text: {
-      principal: "A única solução real da equação 7^x = 59^(x-1) pertence ao intervalo:",
+      principal: "A única solução real da equação $7^x$ = 59^(x-1) pertence ao intervalo:",
       subItens: []
     },
     options: [
@@ -1036,11 +1036,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "3/100.",
-      "3/95.",
-      "3/190.",
-      "1/2.",
-      "2/3."
+      "$3/100$.",
+      "$3/95$.",
+      "$3/190$.",
+      "$1/2$.",
+      "$2/3$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],

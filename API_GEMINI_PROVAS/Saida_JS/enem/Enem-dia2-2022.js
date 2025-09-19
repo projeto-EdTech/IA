@@ -3,7 +3,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "A figura ilustra esquematicamente um processo de remediação de solos contaminados com tricloroeteno (TCE), um agente desengraxante. Em razão de vazamentos de tanques de estocagem ou de manejo inapropriado de resíduos industriais, ele se encontra presente em águas subterrâneas, nas quais forma uma fase líquida densa não aquosa (DNAPL) que se deposita no fundo do aquífero. Essa tecnologia de descontaminação emprega o íon persulfato (S₂O₈²⁻), que é convertido no radical •SO₄⁻ por minerais que contêm Fe(III). O esquema representa de forma simplificada o mecanismo de ação química sobre o TCE e a formação dos produtos de degradação.\n[Image of chemical reaction flow diagram with TCE, S₂O₈²⁻, Fe(III), H₂O/CO₂/CI, DNAPL, SOLUBILIZAÇÃO, ÁGUA SUBTERRANEA, MONITORAMENTO, SOLO]\nBERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato: remediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado).\nEsse procedimento de remediação de águas subterrâneas baseia-se em reações de",
+      principal: "A figura ilustra esquematicamente um processo de remediação de solos contaminados com tricloroeteno (TCE), um agente desengraxante. Em razão de vazamentos de tanques de estocagem ou de manejo inapropriado de resíduos industriais, ele se encontra presente em águas subterrâneas, nas quais forma uma fase líquida densa não aquosa (DNAPL) que se deposita no fundo do aquífero. Essa tecnologia de descontaminação emprega o íon persulfato (S₂O₈²⁻), que é convertido no radical •SO₄⁻ por minerais que contêm Fe(III). O esquema representa de forma simplificada o mecanismo de ação química sobre o TCE e a formação dos produtos de degradação.\n[Image of chemical reaction flow diagram with TCE, S₂O₈²⁻, Fe(III), H₂$O/CO$₂/CI, DNAPL, SOLUBILIZAÇÃO, ÁGUA SUBTERRANEA, MONITORAMENTO, SOLO]\nBERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato: remediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021 (adaptado).\nEsse procedimento de remediação de águas subterrâneas baseia-se em reações de",
       subItens: []
     },
     options: [
@@ -45,7 +45,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "Em 2017, foi inaugurado, no estado da Bahia, o Parque Solar Lapa, composto por duas usinas (Bom Jesus da Lapa e Lapa) e capaz de gerar cerca de 300 GWh de energia por ano. Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a irradiância solar média é de 1 500 W/m² e que a eficiência dos painéis é de 20%.\nParque Solar Lapa entra em operação. Disponível em: www.canalbioenergia.com.br. Acesso em: 9 jun. 2022 (adaptado).\nNessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
+      principal: "Em 2017, foi inaugurado, no estado da Bahia, o Parque Solar Lapa, composto por duas usinas (Bom Jesus da Lapa e Lapa) e capaz de gerar cerca de 300 GWh de energia por ano. Considere que cada usina apresente potência igual a 75 MW, com o parque totalizando uma potência instalada de 150 MW. Considere ainda que a irradiância solar média é de 1 500 $W/m$² e que a eficiência dos painéis é de 20%.\nParque Solar Lapa entra em operação. Disponível em: www.canalbioenergia.com.br. Acesso em: 9 jun. 2022 (adaptado).\nNessas condições, a área total dos painéis solares que compõem o Parque Solar Lapa é mais próxima de:",
       subItens: []
     },
     options: [
@@ -150,7 +150,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para o tratamento da distrofia hereditária da retina. O procedimento é recomendado para crianças acima de 12 meses e adultos com perda de visão causada pela mutação do gene humano RPE65. O produto, elaborado por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.\nANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado).\nO sucesso dessa terapia advém do fato de que o produto favorecerá a",
+      principal: "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para o tratamento da distrofia hereditária da retina. O procedimento é recomendado para crianças acima de 12 meses e adultos com perda de visão causada pela mutação do gene humano RPE65. O produto, elaborado por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.\nANVISA. Disponível em: www.gov.$br/anvisa$. Acesso em: 4 dez. 2021 (adaptado).\nO sucesso dessa terapia advém do fato de que o produto favorecerá a",
       subItens: []
     },
     options: [
@@ -255,7 +255,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes produtos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força F, conforme ilustra a imagem, em que CM representa o centro de massa da muleta.\n[Image of a muleta under a vertical force F, with its center of mass CM]\nMantendo-se a força F paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso (P), normal (N) e de atrito estático (f_e).\nO esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
+      principal: "Tribologia é o estudo da interação entre duas superfícies em contato, como desgaste e atrito, sendo de extrema importância na avaliação de diferentes produtos e de bens de consumo em geral. Para testar a conformidade de uma muleta, realiza-se um ensaio tribológico, pressionando-a verticalmente contra o piso com uma força F, conforme ilustra a imagem, em que CM representa o centro de massa da muleta.\n[Image of a muleta under a vertical force F, with its center of mass CM]\nMantendo-se a força F paralela à muleta, varia-se lentamente o ângulo entre a muleta e a vertical, até o máximo ângulo imediatamente anterior ao de escorregamento, denominado ângulo crítico. Esse ângulo também pode ser calculado a partir da identificação dos pontos de aplicação, da direção e do sentido das forças peso (P), normal (N) e de atrito estático ($f_e$).\nO esquema que representa corretamente todas as forças que atuam sobre a muleta quando ela atinge o ângulo crítico é:",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados: \n• carboxila: –COOH, cujo pK_a é igual a 1,8; \n• amino: –NH₂, que pode ser convertido em amínio (–NH₃⁺, cujo pK_a é igual a 7,9); \n• tiol: –SH, cujo pK_a é igual a 10,5. \nSabe-se que pK_a = –log K_a.\n[Image of Penicilamina chemical structure]\nQual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
+      principal: "A penicilamina é um medicamento de uso oral utilizado no tratamento de várias doenças. Esse composto é excretado na urina, cujo pH se situa entre 5 e 7. A penicilamina, cuja fórmula estrutural plana está apresentada, possui três grupos funcionais que podem ser ionizados: \n• carboxila: –COOH, cujo $pK_a$ é igual a 1,8; \n• amino: –NH₂, que pode ser convertido em amínio (–NH₃⁺, cujo $pK_a$ é igual a 7,9); \n• tiol: –SH, cujo $pK_a$ é igual a 10,5. \nSabe-se que $pK_a$ = –$\\log$ $K_a$.\n[Image of Penicilamina chemical structure]\nQual estrutura derivada da penicilamina é predominantemente encontrada na urina?",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "O eixo de rotação da Terra apresenta uma inclinação em relação ao plano de sua órbita em torno do Sol, interferindo na duração do dia e da noite ao longo do ano.\n[Image: Diagram of Earth's tilt and sunlight distribution on December 21st, showing Polo Norte, Trópico de Câncer, Equador, Trópico de Capricórnio, Polo Sul, Círculo Polar Ártico, Círculo Polar Antártico, with DIA and NOITE regions.]\nUma pessoa instala em sua residência uma placa fotovoltaica, que transforma energia solar em elétrica. Ela monitora a energia total produzida por essa placa em 4 dias do ano, ensolarados e sem nuvens, e lança os resultados no gráfico.\n[Graph: Energia (y-axis) vs Dia (x-axis) showing decreasing energy production over dates 10/01, 10/04, 10/07, 10/10.]\nPróximo a que região se situa a residência onde as placas foram instaladas?",
+      principal: "O eixo de rotação da Terra apresenta uma inclinação em relação ao plano de sua órbita em torno do Sol, interferindo na duração do dia e da noite ao longo do ano.\n[Image: Diagram of Earth's tilt and sunlight distribution on December 21st, showing Polo Norte, Trópico de Câncer, Equador, Trópico de Capricórnio, Polo Sul, Círculo Polar Ártico, Círculo Polar Antártico, with DIA and NOITE regions.]\nUma pessoa instala em sua residência uma placa fotovoltaica, que transforma energia solar em elétrica. Ela monitora a energia total produzida por essa placa em 4 dias do ano, ensolarados e sem nuvens, e lança os resultados no gráfico.\n[Graph: Energia (y-axis) vs Dia (x-axis) showing decreasing energy production over dates $10/01$, $10/04$, $10/07$, $10/10$.]\nPróximo a que região se situa a residência onde as placas foram instaladas?",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "Um pai faz um balanço utilizando dois segmentos paralelos e iguais da mesma corda para fixar uma tábua a uma barra horizontal. Por segurança, opta por um tipo de corda cuja tensão de ruptura seja 25% superior à tensão máxima calculada nas seguintes condições:\n• O ângulo máximo atingido pelo balanço em relação à vertical é igual a 90°;\n• Os filhos utilizarão o balanço até que tenham uma massa de 24 kg.\nAlém disso, ele aproxima o movimento do balanço para o movimento circular uniforme, considera que a aceleração da gravidade é igual a 10 m/s² e despreza forças dissipativas.\nQual é a tensão de ruptura da corda escolhida?",
+      principal: "Um pai faz um balanço utilizando dois segmentos paralelos e iguais da mesma corda para fixar uma tábua a uma barra horizontal. Por segurança, opta por um tipo de corda cuja tensão de ruptura seja 25% superior à tensão máxima calculada nas seguintes condições:\n• O ângulo máximo atingido pelo balanço em relação à vertical é igual a 90°;\n• Os filhos utilizarão o balanço até que tenham uma massa de 24 kg.\nAlém disso, ele aproxima o movimento do balanço para o movimento circular uniforme, considera que a aceleração da gravidade é igual a 10 $m/s$² e despreza forças dissipativas.\nQual é a tensão de ruptura da corda escolhida?",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados:\n[Table: Substância (Água, Concreto), Densidade (kg/m³), Calor específico (J/g°C)]\nROMERO, M. A. B. et al. Mudanças climáticas e ilhas de calor urbanas. Brasília: UnB; ETB, 2019 (adaptado).\nA razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
+      principal: "A variação da incidência de radiação solar sobre a superfície da Terra resulta em uma variação de temperatura ao longo de um dia denominada amplitude térmica. Edificações e pavimentações realizadas nas áreas urbanas contribuem para alterar as amplitudes térmicas dessas regiões, em comparação com regiões que mantêm suas características naturais, com presença de vegetação e água, já que o calor específico do concreto é inferior ao da água. Assim, parte da avaliação do impacto ambiental que a presença de concreto proporciona às áreas urbanas consiste em considerar a substituição da área concretada por um mesmo volume de água e comparar as variações de temperatura devido à absorção da radiação solar nas duas situações (concretada e alagada). Desprezando os efeitos da evaporação e considerando que toda a radiação é absorvida, essa avaliação pode ser realizada com os seguintes dados:\n[Table: Substância (Água, Concreto), Densidade ($kg/m$³), Calor específico ($J/g$°C)]\nROMERO, M. A. B. et al. Mudanças climáticas e ilhas de calor urbanas. Brasília: UnB; ETB, 2019 (adaptado).\nA razão entre as variações de temperatura nas áreas concretada e alagada é mais próxima de",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n[Table: Vazão (L/min), ΔT (°C) for Morno, Quente, Superquente]\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 J/(g°C) e densidade de 1000 g/L.\nO disjuntor adequado para a proteção dessa ducha é especificado por:",
+      principal: "O manual de uma ducha elétrica informa que seus três níveis de aquecimento (morno, quente e superquente) apresentam as seguintes variações de temperatura da água em função de sua vazão:\n[Table: Vazão ($L/min$), ΔT (°C) for Morno, Quente, Superquente]\nUtiliza-se um disjuntor para proteger o circuito dessa ducha contra sobrecargas elétricas em qualquer nível de aquecimento. Por padrão, o disjuntor é especificado pela corrente nominal igual ao múltiplo de 5 A imediatamente superior à corrente máxima do circuito. Considere que a ducha deve ser ligada em 220 V e que toda a energia é dissipada através da resistência do chuveiro e convertida em energia térmica transferida para a água, que apresenta calor específico de 4,2 J/(g°C) e densidade de 1000 $g/L$.\nO disjuntor adequado para a proteção dessa ducha é especificado por:",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido de hidrogênio (H₂O₂), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.\n[Table: Ensaio, Temperatura (°C), Decomposição de H₂O₂ (10⁻¹² mol/min)]\nOs diferentes resultados dos ensaios justificam-se pelo(a)",
+      principal: "Em uma aula prática de bioquímica, para medir a atividade catalítica da enzima catalase, foram realizados seis ensaios independentes, nas mesmas condições, variando-se apenas a temperatura. A catalase decompõe o peróxido de hidrogênio (H₂O₂), produzindo água e oxigênio. Os resultados dos ensaios estão apresentados no quadro.\n[Table: Ensaio, Temperatura (°C), Decomposição de H₂O₂ (10⁻¹² $mol/min$)]\nOs diferentes resultados dos ensaios justificam-se pelo(a)",
       subItens: []
     },
     options: [
@@ -780,7 +780,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "A fim de classificar as melhores rotas em um aplicativo de trânsito, um pesquisador propõe um modelo com base em circuitos elétricos. Nesse modelo, a corrente representa o número de carros que passam por um ponto da pista no intervalo de 1 s. A diferença de potencial (d.d.p.) corresponde à quantidade de energia por carro necessária para o deslocamento de 1 m. De forma análoga à lei de Ohm, cada via é classificada pela sua resistência, sendo a de maior resistência a mais congestionada. O aplicativo mostra as rotas em ordem crescente, ou seja, da rota de menor para a de maior resistência.\nComo teste para o sistema, são utilizadas três possíveis vias para uma viagem de A até B, com os valores de d.d.p. e corrente conforme a tabela.\n[Table: Rota, d.d.p. (J/carro·m), Corrente (carro/s)]\nNesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
+      principal: "A fim de classificar as melhores rotas em um aplicativo de trânsito, um pesquisador propõe um modelo com base em circuitos elétricos. Nesse modelo, a corrente representa o número de carros que passam por um ponto da pista no intervalo de 1 s. A diferença de potencial (d.d.p.) corresponde à quantidade de energia por carro necessária para o deslocamento de 1 m. De forma análoga à lei de Ohm, cada via é classificada pela sua resistência, sendo a de maior resistência a mais congestionada. O aplicativo mostra as rotas em ordem crescente, ou seja, da rota de menor para a de maior resistência.\nComo teste para o sistema, são utilizadas três possíveis vias para uma viagem de A até B, com os valores de d.d.p. e corrente conforme a tabela.\n[Table: Rota, d.d.p. ($J/carro$·m), Corrente ($carro/s$)]\nNesse teste, a ordenação das rotas indicadas pelo aplicativo será:",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "O sinal sonoro oriundo da queda de um grande bloco de gelo de uma geleira é detectado por dois dispositivos situados em um barco, sendo que o detector A está imerso em água e o B, na proa da embarcação. Sabe-se que a velocidade do som na água é de 1 540 m/s e no ar é de 340 m/s.\n[Graph: Sinal (y-axis) vs Tempo (s) (x-axis) for detector A and detector B, showing distinct arrival times for a sound wave.]\nOs gráficos indicam, em tempo real, o sinal sonoro detectado pelos dois dispositivos, os quais foram ligados simultaneamente em um instante anterior à queda do bloco de gelo. Ao comparar pontos correspondentes desse sinal em cada dispositivo, é possível obter informações sobre a onda sonora.\nA distância L, em metro, entre o barco e a geleira é mais próxima de",
+      principal: "O sinal sonoro oriundo da queda de um grande bloco de gelo de uma geleira é detectado por dois dispositivos situados em um barco, sendo que o detector A está imerso em água e o B, na proa da embarcação. Sabe-se que a velocidade do som na água é de 1 540 $m/s$ e no ar é de 340 $m/s$.\n[Graph: Sinal (y-axis) vs Tempo (s) (x-axis) for detector A and detector B, showing distinct arrival times for a sound wave.]\nOs gráficos indicam, em tempo real, o sinal sonoro detectado pelos dois dispositivos, os quais foram ligados simultaneamente em um instante anterior à queda do bloco de gelo. Ao comparar pontos correspondentes desse sinal em cada dispositivo, é possível obter informações sobre a onda sonora.\nA distância L, em metro, entre o barco e a geleira é mais próxima de",
       subItens: []
     },
     options: [
@@ -969,15 +969,15 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão.\nConsidere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre 1/2.\nQual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?",
+      principal: "A World Series é a decisão do campeonato norte-americano de beisebol. Os dois times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times que completar quatro vitórias é declarado campeão.\nConsidere que, em todas as partidas, a probabilidade de qualquer um dos dois times vencer é sempre $1/2$.\nQual é a probabilidade de o time campeão ser aquele que venceu a primeira partida da World Series?",
       subItens: []
     },
     options: [
-      "35/64",
-      "40/64",
-      "42/64",
-      "44/64",
-      "52/64"
+      "$35/64$",
+      "$40/64$",
+      "$42/64$",
+      "$44/64$",
+      "$52/64$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -1058,10 +1058,10 @@ createQuestion({
     },
     options: [
       "1/(46*45)",
-      "1/46 + 2/(46*45)",
-      "1/46 + 8/(46*45)",
-      "1/46 + 43/(46*45)",
-      "1/46 + 49/(46*45)"
+      "$1/46$ + 2/(46*45)",
+      "$1/46$ + 8/(46*45)",
+      "$1/46$ + 43/(46*45)",
+      "$1/46$ + 49/(46*45)"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1200,15 +1200,15 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "A luminosidade L de uma estrela está relacionada com o raio R e com a temperatura T dessa estrela segundo a Lei de Stefan-Boltzmann: L = c · R² · T⁴, em que c é uma constante igual para todas as estrelas.\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\nConsidere duas estrelas E e F, sendo que a estrela E tem metade do raio da estrela F e o dobro da temperatura de F.\nIndique por L_E e L_F suas respectivas luminosidades.\nA relação entre as luminosidades dessas duas estrelas é dada por",
+      principal: "A luminosidade L de uma estrela está relacionada com o raio R e com a temperatura T dessa estrela segundo a Lei de Stefan-Boltzmann: L = c · R² · T⁴, em que c é uma constante igual para todas as estrelas.\nDisponível em: http://ciencia.hsw.uol.com.br. Acesso em: 22 nov. 2013 (adaptado).\nConsidere duas estrelas E e F, sendo que a estrela E tem metade do raio da estrela F e o dobro da temperatura de F.\nIndique por $L_E$ e $L_F$ suas respectivas luminosidades.\nA relação entre as luminosidades dessas duas estrelas é dada por",
       subItens: []
     },
     options: [
-      "L_E = L_F / 2",
-      "L_E = L_F / 4",
-      "L_E = L_F",
-      "L_E = 4L_F",
-      "L_E = 8L_F"
+      "$L_E$ = $L_F$ / 2",
+      "$L_E$ = $L_F$ / 4",
+      "$L_E$ = $L_F$",
+      "$L_E$ = $4L_F$",
+      "$L_E$ = $8L_F$"
     ],
     correctAnswer: 3,
     materia: ["Física", "Matemática"],
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola y = -x²/6 + 7x/3 + 12, em que y representa a altura da bola em relação ao eixo x (das abscissas) que está localizado a 1,5 m do piso da quadra, como representado na figura. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.\n[Graph: Trajectory of a ball in a gymnasium, showing x and y axes, 1.5m initial height.]\nA equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas em um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:\n• ginásio I: 17 m;\n• ginásio II: 18 m;\n• ginásio III: 19 m;\n• ginásio IV: 21 m;\n• ginásio V: 40 m.\nO saque desse atleta foi invalidado",
+      principal: "Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura. Seu recorde foi quando a batida do saque se iniciou a uma altura de 1,5 m do piso da quadra, e a trajetória da bola foi descrita pela parábola y = -x²/6 + $7x/3$ + 12, em que y representa a altura da bola em relação ao eixo x (das abscissas) que está localizado a 1,5 m do piso da quadra, como representado na figura. Suponha que em todas as partidas algum saque desse jogador atinja a mesma altura do seu recorde.\n[Graph: Trajectory of a ball in a gymnasium, showing x and y axes, 1.5m initial height.]\nA equipe desse jogador participou de um torneio de voleibol no qual jogou cinco partidas, cada uma delas em um ginásio diferente. As alturas dos tetos desses ginásios, em relação aos pisos das quadras, são:\n• ginásio I: 17 m;\n• ginásio II: 18 m;\n• ginásio III: 19 m;\n• ginásio IV: 21 m;\n• ginásio V: 40 m.\nO saque desse atleta foi invalidado",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:\n• Distância mínima (D_min) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (L) da tela.\n• Distância máxima (D_max) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.\nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de poltronas em duas fileiras consecutivas.\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\nUma sala de cinema, cuja largura da tela mede 12 m, está montada em conformidade com as normas da ABNT e tem suas dimensões especificadas na figura.\n[Image: Cinema layout with Dmax, Dmin, L, and 1m spacing, showing Area de instalação de novas poltronas and Fileira rows.]\nPretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas, ampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas.\nQuantas fileiras de poltronas a sala comportará após essa ampliação?",
+      principal: "Em uma sala de cinema, para garantir que os espectadores vejam toda a imagem projetada na tela, a disposição das poltronas deve obedecer à norma técnica da Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:\n• Distância mínima ($D_min$) entre a tela de projeção e o encosto da poltrona da primeira fileira deve ser de, pelo menos, 60% da largura (L) da tela.\n• Distância máxima ($D_max$) entre a tela de projeção e o encosto da poltrona da última fileira deve ser o dobro da largura (L) da tela, sendo aceitável uma distância de até 2,9 vezes a largura (L) da tela.\nPara o espaçamento entre as fileiras de poltronas, é considerada a distância de 1 metro entre os encostos de poltronas em duas fileiras consecutivas.\nDisponível em: www.ctav.gov.br. Acesso em: 14 nov. 2013.\nUma sala de cinema, cuja largura da tela mede 12 m, está montada em conformidade com as normas da ABNT e tem suas dimensões especificadas na figura.\n[Image: Cinema layout with Dmax, Dmin, L, and 1m spacing, showing Area de instalação de novas poltronas and Fileira rows.]\nPretende-se ampliar essa sala, mantendo-se na mesma posição a tela e todas as poltronas já instaladas, ampliando-se ao máximo a sala para os fundos (área de instalação de novas poltronas), respeitando-se o limite aceitável da norma da ABNT. A intenção é aumentar, ao máximo, a quantidade de poltronas da sala, instalando-se novas unidades, iguais às já instaladas.\nQuantas fileiras de poltronas a sala comportará após essa ampliação?",
       subItens: []
     },
     options: [
@@ -1368,7 +1368,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:\n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n[Images: Figure 1 (folding square), Figure 2 (second fold), Figure 3 (folded paper)]\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto R, sobre o segmento OM, sendo M o ponto médio do lado do quadrado original, de modo que OR = 1/4 OM, traçar um arco de circunferência de raio medindo 1/2 OM com centro no ponto R, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n[Images: Figure 4 (marking R, M, OM and arc), Figure 5 (cut paper)]\nApós desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
+      principal: "O professor de artes orientou seus estudantes a realizarem a seguinte sequência de atividades:\n• Dobrar uma folha de papel em formato quadrado duas vezes, em sequência, ao longo das linhas tracejadas, conforme ilustrado nas figuras 1 e 2, para obter o papel dobrado, conforme Figura 3.\n[Images: Figure 1 (folding square), Figure 2 (second fold), Figure 3 (folded paper)]\n• Em seguida, no papel dobrado da Figura 3, considerar o ponto R, sobre o segmento OM, sendo M o ponto médio do lado do quadrado original, de modo que OR = $1/4$ OM, traçar um arco de circunferência de raio medindo $1/2$ OM com centro no ponto R, obtendo a Figura 4. Por último, recortar o papel ao longo do arco de circunferência e excluir a parte que contém o setor circular, obtendo o papel dobrado, conforme Figura 5.\n[Images: Figure 4 (marking R, M, OM and arc), Figure 5 (cut paper)]\nApós desdobrado o papel que restou na Figura 5, a figura plana que os estudantes obterão será",
       subItens: []
     },
     options: [
@@ -1410,7 +1410,7 @@ createQuestion({
     university: "enem",
     year: 2022,
     text: {
-      principal: "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino T₁, treino T₂, treino T₃, treino T₄ e treino T₅. A sequência dos treinamentos deve seguir esta ordem:\n[Table: Dia (1º to 13º), Treino (T_X or R)]\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino T₁ e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições.\nA sequência de treinamentos que o atleta realizará na 24ª semana de treinos é",
+      principal: "Um atleta iniciou seu treinamento visando as competições de fim de ano. Seu treinamento consiste em cinco tipos diferentes de treinos: treino T₁, treino T₂, treino T₃, treino T₄ e treino T₅. A sequência dos treinamentos deve seguir esta ordem:\n[Table: Dia (1º to 13º), Treino ($T_X$ or R)]\nA letra R significa repouso. Após completar a sequência de treinamentos, o atleta começa novamente a sequência a partir do treino T₁ e segue a ordem descrita. Após 24 semanas completas de treinamento, se dará o início das competições.\nA sequência de treinamentos que o atleta realizará na 24ª semana de treinos é",
       subItens: []
     },
     options: [

@@ -24,7 +24,7 @@ createQuestion({
     university: "uea",
     year: 2025,
     text: {
-      principal: "Para responder às questões de 02 a 05, leia o trecho do \"Sermão do Mandato\", de Antônio Vieira, pregado em Lisboa, no Hospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o amor humano, que é inconstante; sobre o amor humano, que não se governa por razão, senão por apetite; sobre o amor humano, que, ainda quando parece mais fino, é grosseiro e imperfeito. O amor, a quem remediou e pôde curar o tempo, bem poderá ser que fosse doença; mas não é amor. O amor perfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do tempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar Salomão, diz Santo Agostinho, que o amor que é verdadeiro tem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras coisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca foi. Deixastes de amar, pois nunca amastes. O amor que não é de todo o tempo, e de todos os tempos, não é amor, nem foi; porque, se chegou a ter fim, nunca teve princípio. É como a eternidade, que se por impossível tivera fim, não teria sido eternidade.\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nNesse trecho do sermão, o orador Antônio Vieira caracteriza o amor humano como",
+      principal: "Para responder às questões de 02 a 05, leia o trecho do \"Sermão do Mandato\", de Antônio Vieira, pregado em Lisboa, no Hospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o amor humano, que é inconstante; sobre o amor humano, que não se governa por razão, $\\sin$ão por apetite; sobre o amor humano, que, ainda quando parece mais fino, é grosseiro e imperfeito. O amor, a quem remediou e pôde curar o tempo, bem poderá ser que fosse doença; mas não é amor. O amor perfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do tempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar Salomão, diz Santo Agostinho, que o amor que é verdadeiro tem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras coisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca foi. Deixastes de amar, pois nunca amastes. O amor que não é de todo o tempo, e de todos os tempos, não é amor, nem foi; porque, se chegou a ter fim, nunca teve princípio. É como a eternidade, que se por impossível tivera fim, não teria sido eternidade.\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nNesse trecho do sermão, o orador Antônio Vieira caracteriza o amor humano como",
       subItens: []
     },
     options: [
@@ -927,15 +927,15 @@ createQuestion({
     university: "uea",
     year: 2025,
     text: {
-      principal: "Durante uma viagem, um ônibus percorreu uma distância de 240 km, com velocidade escalar média de 120 km/h, da cidade P até um posto de serviços, onde ficou parado por 30 minutos. Após a parada, o ônibus se deslocou até a cidade Q com uma velocidade escalar média de 80 km/h. Sabendo que a distância total da viagem, entre as cidades P e Q, era de 440 km, a velocidade escalar média desenvolvida pelo ônibus do momento da saída de P até a chegada em Q foi de",
+      principal: "Durante uma viagem, um ônibus percorreu uma distância de 240 km, com velocidade escalar média de 120 $km/h$, da cidade P até um posto de serviços, onde ficou parado por 30 minutos. Após a parada, o ônibus se deslocou até a cidade Q com uma velocidade escalar média de 80 $km/h$. Sabendo que a distância total da viagem, entre as cidades P e Q, era de 440 km, a velocidade escalar média desenvolvida pelo ônibus do momento da saída de P até a chegada em Q foi de",
       subItens: []
     },
     options: [
-      "76 km/h.",
-      "82 km/h.",
-      "88 km/h.",
-      "94 km/h.",
-      "102 km/h."
+      "76 $km/h$.",
+      "82 $km/h$.",
+      "88 $km/h$.",
+      "94 $km/h$.",
+      "102 $km/h$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -973,11 +973,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "g.sen α",
-      "g. cos α",
-      "g / sen α",
-      "g / cos α",
-      "g / tg α"
+      "g.$\\sin$ α",
+      "g. $\\cos$ α",
+      "g / $\\sin$ α",
+      "g / $\\cos$ α",
+      "g / $\\tan$ α"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "uea",
     year: 2025,
     text: {
-      principal: "O painel solar da figura possui uma eficiência de 80% ao converter energia solar em energia elétrica.\n\n[DIAGRAMA]\n\nConsidere que a quantidade de energia solar por metro quadrado que incide sobre a superfície de um painel solar, dada em J/m², seja representada por p. A relação que fornece a quantidade de energia solar convertida em energia elétrica, Eel, em joules, para uma residência que utiliza 5 desses painéis é:",
+      principal: "O painel solar da figura possui uma eficiência de 80% ao converter energia solar em energia elétrica.\n\n[DIAGRAMA]\n\nConsidere que a quantidade de energia solar por metro quadrado que incide sobre a superfície de um painel solar, dada em $J/m$², seja representada por p. A relação que fornece a quantidade de energia solar convertida em energia elétrica, Eel, em joules, para uma residência que utiliza 5 desses painéis é:",
       subItens: []
     },
     options: [
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "uea",
     year: 2025,
     text: {
-      principal: "O retorno, ao fabricante, de materiais já utilizados para o processo produtivo é uma prática conhecida como logística reversa. Apesar de não ser um processo de baixo custo, muitas empresas utilizam a logística reversa como parte de suas operações. A logística reversa é verificada quando",
+      principal: "O retorno, ao fabricante, de materiais já utilizados para o processo produtivo é uma prática conhecida como $\\log$ística reversa. Apesar de não ser um processo de baixo custo, muitas empresas utilizam a $\\log$ística reversa como parte de suas operações. A $\\log$ística reversa é verificada quando",
       subItens: []
     },
     options: [

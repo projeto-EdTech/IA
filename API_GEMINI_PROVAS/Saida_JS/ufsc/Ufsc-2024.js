@@ -14,7 +14,7 @@ createQuestion({
       "o trecho \"aqueles furos no universo em que a matéria desaparece” (linha 06) é aposto de \"buracos negros”.",
       "em \"coisas da vizinhança próxima que parecem não ter nada a ver com nossas vidas têm muito\" (linhas 15-16), o verbo sublinhado está flexionado no plural para concordar com o sujeito \"nossas vidas\"."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de texto", "Sintaxe", "Morfologia", "Semântica"],
     imageNames: []
@@ -36,7 +36,7 @@ createQuestion({
       "o texto 1 estabelece uma relação de antítese entre “buracos negros” e “café com leite”.",
       "em \"contas ofishór” (linhas 17-18), o termo sublinhado é o registro de um estrangeirismo grafado conforme sua pronúncia em língua portuguesa."
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de texto", "Coesão e Coerência", "Morfologia", "Semântica"],
     imageNames: []
@@ -57,7 +57,7 @@ createQuestion({
       "no terceiro quadro do texto 2, a frase “Que bárbaro!” expressa a empolgação da personagem em relação a um novo conceito de verdade.",
       "no trecho \"Muito mais bárbaro do que você imagina\", no texto 2, o adjetivo “bárbaro” está flexionado, comparando a realidade dada na tirinha com o que se supõe ser imaginado pelo interlocutor."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de texto", "Semântica", "Morfossintaxe"],
     imageNames: []
@@ -79,7 +79,7 @@ createQuestion({
       "no texto 3, ocorre a interação de diversos fatores sociais, como faixa etária, gênero, classe, formação acadêmica e atuação profissional, que definem a personagem, mas todos se revelam subordinados a questões étnico-raciais.",
       "a autora subverte as regras de paragrafação ao eliminar o recuo para sinalizar os diálogos entre as personagens."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de texto", "Figuras de Linguagem", "Literatura Brasileira Contemporânea"],
     imageNames: []
@@ -100,7 +100,7 @@ createQuestion({
       "João do Rio é considerado pioneiro da crônica-reportagem, dado o procedimento incomum à época de escrever matérias reais em forma de crônicas.",
       "a não compreensão do significado das palavras “vates” (linha 06), “versejadores” (linha 07) e \"nefelibatas” (linha 07) impossibilita o estabelecimento das relações sintáticas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de texto", "Literatura Brasileira (Pré-Modernismo)", "Gramática (Sintaxe e Ortografia)"],
     imageNames: []
@@ -123,7 +123,7 @@ createQuestion({
       "o que no texto 6 é identificado como boato na epidemia da gripe espanhola pode ser relacionado ao que foi chamado de fake news na epidemia da covid-19.",
       "a obra tem como tema principal os acontecimentos do final da Primeira Guerra Mundial, tendo como pano de fundo o surto da gripe espanhola ocorrido na Curitiba de 1918."
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de texto", "Literatura Brasileira Contemporânea", "Variação Linguística"],
     imageNames: []
@@ -145,7 +145,7 @@ createQuestion({
       "a preposição “sobre” relaciona os termos “as charges” e “censura” com ideia de lugar.",
       "o emprego da forma verbal “estão” indica que a censura é um ato para além do sujeito que executa a ação de retirar o cartaz."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Gramática (Morfossintaxe, Pontuação, Variação Linguística)", "Semântica"],
     imageNames: []
@@ -168,7 +168,7 @@ createQuestion({
       "a cena do jogo, descrita no texto 8, se torna importante para Mauro por marcar o momento tão esperado do retorno de sua mãe.",
       "Edgar é apresentado no roteiro como um símbolo de resistência à ditadura, com a representação do goleiro que defende tudo: “De soco, de mão trocada, com os pés, com a cabeça...\" (linha 04)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de texto", "Gramática (Sintaxe, Concordância verbal)", "Literatura Brasileira Contemporânea"],
     imageNames: []
@@ -190,7 +190,7 @@ createQuestion({
       "no texto 9, as letras em destaque no primeiro e no terceiro quadro são empregadas como um recurso para indicar o desespero do goleiro, contrastando com a fala dos espectadores.",
       "o emprego do verbo 'ir', no primeiro quadro, indica marcação de tempo futuro."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de texto", "Elementos da Narrativa", "Gramática (Coesão textual)"],
     imageNames: []
@@ -211,7 +211,7 @@ createQuestion({
       "publicada em pleno Romantismo, a obra incorpora a idealização dos protagonistas, a valorização da natureza e a dramatização das ações.",
       "em \"aquilo que Deus lhe dera\" (linha 14), a referência religiosa reforça a crença de Túlio no candomblé."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de texto", "Literatura Brasileira (Romantismo)", "Gramática (Pronomes)"],
     imageNames: []
@@ -232,7 +232,7 @@ createQuestion({
       "em \"diferente dos donos dali, que não conheciam muita coisa do que tinham, que talvez não soubessem cavoucar a terra” (linhas 05-06), os termos sublinhados podem ser substituídos por \"os quais” sem prejuízo ao sentido do texto.",
       "se depreende dos textos o tratamento da temática da privação da liberdade em diferentes acepções: no texto 10, resultante do modelo escravagista; no texto 11, do modelo capitalista."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de texto", "Literatura Brasileira (Romantismo e Contemporânea)", "Semântica"],
     imageNames: []
@@ -251,10 +251,10 @@ createQuestion({
       "os textos 2 e 9 são conhecidos como TIRAS ou TIRINHAS, que circulam na esfera JORNALÍSTICA em jornais ou revistas, comumente em seção ou caderno de diversão, de amenidades, de caráter recreativo, por vezes reflexivo.",
       "o texto 7 é uma CHARGE, que circula na esfera JORNALÍSTICA, geralmente para expressar de forma irônica o posicionamento editorial do veículo acerca de situações do cotidiano.",
       "o texto 8 faz parte de um ROTEIRO, gênero exclusivo da esfera CINEMATOGRÁFICA, pois indica e sistematiza informações que servirão de guia para a produção de um filme.",
-      "os textos 1, 3 e 4 são (partes de) CRÔNICAS, que circularam na esfera JORNALÍSTICA e passaram a ser considerados CONTOS ao circularem na esfera LITERÁRIA/ARTÍSTICA.",
-      "os textos 10 e 11 fazem parte de ROMANCES, caracterizados por uma escrita narrativa composta por enredos, que circulam na esfera LITERÁRIA/ARTÍSTICA, tal como conto, poema, lenda, entre outros."
+      "os textos 1, 3 e 4 são (partes de) CRÔNICAS, que circularam na esfera JORNALÍSTICA e passaram a ser considerados CONTOS ao circularem na esfera LITERÁ$RIA/ART$ÍSTICA.",
+      "os textos 10 e 11 fazem parte de ROMANCES, caracterizados por uma escrita narrativa composta por enredos, que circulam na esfera LITERÁ$RIA/ART$ÍSTICA, tal como conto, poema, lenda, entre outros."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Gêneros Textuais", "Esferas de Circulação"],
     imageNames: []
@@ -275,7 +275,7 @@ createQuestion({
       "the text displays information about the movie genre.",
       "the movie studio that produced the film appears in the text."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de texto"],
     imageNames: []
@@ -297,7 +297,7 @@ createQuestion({
       "how the audience evaluates the movie.",
       "the movie length."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de texto"],
     imageNames: []
@@ -318,7 +318,7 @@ createQuestion({
       "release date: data de lançamento",
       "rating: classificação"
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário", "Tradução"],
     imageNames: []
@@ -339,7 +339,7 @@ createQuestion({
       "Edward Cole has been divorced two times.",
       "Carter Chambers is a History teacher."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de texto"],
     imageNames: []
@@ -360,7 +360,7 @@ createQuestion({
       "Carter and Edward have been friends since childhood.",
       "In the movie, Carter and Edward travel around the world."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de texto"],
     imageNames: []
@@ -382,7 +382,7 @@ createQuestion({
       "cultured: educated",
       "tormenting: torturing"
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário", "Sinônimos"],
     imageNames: []
@@ -404,7 +404,7 @@ createQuestion({
       "\"Don't pity me!\" shows use of nonstandard English grammar.",
       "\"I'm the same person I was back then\" presents a verb in the passive voice."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de texto", "Gramática (Variação Linguística, Contractions, Verb Tenses)"],
     imageNames: []
@@ -426,7 +426,7 @@ createQuestion({
       "the book review focuses on the book characters.",
       "the second paragraph explains how the writer's professional experience inspired the book."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de texto"],
     imageNames: []
@@ -443,12 +443,12 @@ createQuestion({
     options: [
       "Em uma pequena fábrica de bolas, 4 máquinas juntas produzem 1.000 bolas em 15 dias. Um cliente solicitou 1.800 bolas. Se a fábrica adquirir mais 2 máquinas trabalhando com a mesma capacidade de produção das existentes, então serão necessários 18 dias para atender o pedido do cliente.",
       "Em uma loja de departamento trabalham 280 funcionários, sendo 30% homens e os demais, mulheres. Entre as mulheres, 50% são casadas. Se 60% do total de funcionários são casados, então o número de homens não casados é 14.",
-      "Se x, y ∈ R são tais que y ≠ 0, então  sqrt(x²/y) = y² e z = 2^(-3/2), então x = ±4.",
-      "Se x = y², y = (1/3)³ + (32)^(2/5) e z = 2^(-3/2), então x = ±4.",
-      "Se z₁ e z₂ são números complexos dados por z₁ = 1 + 3i e z₂ = 2 – i, então z₁/z₂ = -1/5 + 7/5 i.",
-      "Em R, o conjunto solução da inequação 3/(x+1) ≥ 5/(x-2) é (-∞, -11/2]."
+      "Se x, y ∈ R são tais que y ≠ 0, então  sqrt(x²/y) = y² e z = 2^(-$3/2$), então x = ±4.",
+      "Se x = y², y = ($1/3$)³ + (32)^($2/5$) e z = 2^(-$3/2$), então x = ±4.",
+      "Se z₁ e z₂ são números complexos dados por z₁ = 1 + 3i e z₂ = 2 – i, então z₁/z₂ = -$1/5$ + $7/5$ i.",
+      "Em R, o conjunto solução da inequação 3/(x+1) ≥ 5/(x-2) é (-∞, -$11/2$]."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Regra de Três Composta", "Porcentagem", "Expressões Algébricas", "Números Complexos", "Inequações"],
     imageNames: []
@@ -470,7 +470,7 @@ createQuestion({
       "Se f,g e h são funções reais tais que f(x) = 2x + 7, h(x) = 2x² + 2x − 1 e h(x) = (f°g)(x), então g(2) é um número primo.",
       "Se f: R→ R é definida por f(x) = 3x + 2, então f é bijetora e f-1(11) = 2."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções (Afim, Quadrática, Logarítmica, Modular, Inversa, Composta)", "Equações", "Logaritmos"],
     imageNames: []
@@ -489,10 +489,10 @@ createQuestion({
       "Existe k∈ R tal que o sistema linear {x - 2y + z = 1; y - z = 2; x + 2ky + z = 3} é indeterminado.",
       "Se A é uma matriz triangular superior, então A não é triangular inferior.",
       "Existe apenas um xe ER tal que as matrizes A = (3^(x²-121) log5 1) e B = (sqrt(27) 1; 2x-15 0) satisfazem A = B.",
-      "A matriz A = (sen(θ) -cos(θ) 0; -cos(θ) sen(θ) 0; 2 3 4) é inversível para qualquer θ∈R.",
+      "A matriz A = ($\\sin$(θ) -$\\cos$(θ) 0; -$\\cos$(θ) $\\sin$(θ) 0; 2 3 4) é inversível para qualquer θ∈R.",
       "Se A = (-1/√2 0 1; 0 1/√2 0; 1 0 1/√2), então a inversa de A e a transposta de A são iguais."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Matrizes", "Determinantes", "Sistemas Lineares", "Álgebra Linear"],
     imageNames: []
@@ -509,12 +509,12 @@ createQuestion({
     options: [
       "Considere a sequência cujo termo geral é dado por an = n² – 2n + 3 com n ∈ N*. O número 627 pertence à sequência dada.",
       "Se em uma progressão aritmética a soma do 4º termo com o 37º termo é 81, então a soma dos 40 primeiros termos dessa progressão é 1.620.",
-      "Se a sequência (x, y, 10) é uma progressão aritmética e a sequência (1/x, 1/y, 1/(x+10)) é uma progressão geométrica, então x é o dobro de y.",
+      "Se a sequência (x, y, 10) é uma progressão aritmética e a sequência ($1/x$, $1/y$, 1/(x+10)) é uma progressão geométrica, então x é o dobro de y.",
       "Considerando os algarismos 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9, podemos formar 3.742 números de quatro algarismos maiores que 6.257.",
       "Em N*, o conjunto solução da equação (n+2)!-(n+1)! / n(n-1)! = 49 é unitário.",
-      "Um casal pretende ter três filhos. Se a primeira criança que nasceu foi uma menina, então a probabilidade de o casal ter apenas um menino é no máximo 1/2."
+      "Um casal pretende ter três filhos. Se a primeira criança que nasceu foi uma menina, então a probabilidade de o casal ter apenas um menino é no máximo $1/2$."
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Sequências (PA, PG)", "Análise Combinatória", "Equações (Fatoriais)", "Probabilidade"],
     imageNames: []
@@ -529,13 +529,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "A equação cos x = 1 admite quatro soluções no intervalo [0,4π].",
-      "A equação sen(2x) = sen x admite três soluções no intervalo [0, π].",
-      "Se x ∈ (0, π), então cos x > 0.",
-      "A função f(x) = cos(x³) é uma função ímpar.",
-      "cos(3°) = sen(87°)."
+      "A equação $\\cos$ x = 1 admite quatro soluções no intervalo [0,4π].",
+      "A equação $\\sin$(2x) = $\\sin$ x admite três soluções no intervalo [0, π].",
+      "Se x ∈ (0, π), então $\\cos$ x > 0.",
+      "A função f(x) = $\\cos$(x³) é uma função ímpar.",
+      "$\\cos$(3°) = $\\sin$(87°)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Trigonometria", "Funções Trigonométricas", "Equações Trigonométricas"],
     imageNames: []
@@ -553,10 +553,10 @@ createQuestion({
       "Se A e C são funções de uma variável r tais que A(r) é a área de um círculo com raio r e C(r) é o comprimento de uma circunferência com raio r, então A - C é um polinômio na variável r com duas raízes positivas distintas.",
       "O polinômio p(x) = x⁴ – 16 é divisível pelo polinômio q(x) = x² + 4.",
       "Se p(x) e q(x) são polinômios de grau 6, então p(x) + q(x) é um polinômio de grau pelo menos 6.",
-      "A soma de todas as raízes reais da equação 4^(2x) – 10 · 4^x = −16 é igual a 2.",
+      "A soma de todas as raízes reais da equação 4^(2x) – 10 · $4^x$ = −16 é igual a 2.",
       "A função f(x) = x³ + 1 é inversa da função g(x) = ³√(x − 1)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Polinômios", "Funções (Inversa)", "Equações Exponenciais"],
     imageNames: []
@@ -577,7 +577,7 @@ createQuestion({
       "A parábola x = y² – 1 intercepta a hipérbole x² – y² = 1 em exatamente três pontos distintos.",
       "Se três números reais positivos distintos estão em progressão aritmética, então eles são comprimentos dos lados de algum triângulo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Analítica (Hipérbole, Parábola)", "Estatística (Interpretação de Gráficos)", "Geometria Espacial (Cone, Cilindro, Cubo)", "Progressão Aritmética", "Geometria Plana (Triângulos)"],
     imageNames: []
@@ -592,14 +592,14 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Se um cubo tem volume 27 cm³, então o raio da esfera circunscrita a ele mede 3√3/2 cm.",
+      "Se um cubo tem volume 27 cm³, então o raio da esfera circunscrita a ele mede 3√$3/2$ cm.",
       "Se os pontos P(1,2), Q(2,3) e R(a,b) são colineares, então b - a = 1.",
       "Se cada aresta de um tetraedro regular mede 2 cm, então a área de sua superfície é 4√3 cm².",
       "A reta r: √3 x + y = 2 é tangente à circunferência x² + y² = 1.",
-      "As retas r: 4x + 5y = 1 e s: 1/4 x – 5y = 6 são perpendiculares.",
+      "As retas r: 4x + 5y = 1 e s: $1/4$ x – 5y = 6 são perpendiculares.",
       "As retas r: -3x + 2y = 1 e s: −6y + 9x = −3 se interceptam no primeiro quadrante."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Espacial (Cubo, Esfera, Tetraedro)", "Geometria Analítica (Pontos Colineares, Retas, Circunferência)"],
     imageNames: []
@@ -620,7 +620,7 @@ createQuestion({
       "A área do trapézio ACDE é igual a (5+4√2)/2.",
       "A área do triângulo ABC é igual a (2+√2)²/2."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Plana (Círculos, Triângulos, Áreas)", "Geometria Analítica"],
     imageNames: []
@@ -642,7 +642,7 @@ createQuestion({
       "pirâmides de energia indicam a produtividade do ecossistema, por isso nunca ficam invertidas.",
       "em um dado momento, a biomassa de zooplâncton pode ser maior que a de fitoplâncton, cuja velocidade de reprodução permite uma rápida renovação."
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ecologia (Cadeias Alimentares, Pirâmides Ecológicas, Relações Ecológicas, Ciclo da Matéria)"],
     imageNames: []
@@ -664,7 +664,7 @@ createQuestion({
       "a distância de mapa gênico entre genes A e B é de oito centimorgans.",
       "se espera um percentual de 42% dos descendentes com frutas lisas e brilhosa."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Genética (Hereditariedade, Linkage, Mapa Gênico, Cruzamento Teste)"],
     imageNames: []
@@ -687,7 +687,7 @@ createQuestion({
       "Proposição V: bivalves, poliquetas e cracas retiram da água partículas alimentares em suspensão, porém os bivalves são moluscos, os poliquetas são anelídeos e as cracas são crustáceos.",
       "Proposição III: o plâncton marinho é constituído por seres que se deslocam passivamente na água, arrastados pelas ondas e correntes marinhas."
     ],
-    correctAnswer: -8,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Zoologia (Classificação, Filos, Embriologia, Fisiologia Animal)"],
     imageNames: []
@@ -709,7 +709,7 @@ createQuestion({
       "a enzima de restrição é utilizada nos processos da transcrição reversa e da PCR.",
       "o fragmento amplificado por PCR migra para o polo positivo na eletroforese."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Biotecnologia (Biologia Molecular, PCR, Eletroforese)", "Vírus (HIV)"],
     imageNames: []
@@ -730,7 +730,7 @@ createQuestion({
       "a proteína p53 pode induzir a apoptose em uma célula com danos irreparáveis, tornando-a uma célula cancerígena.",
       "o mecanismo ilustrado no final da tirinha estabelece uma relação alternativa para promover a integridade dos tecidos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia (Ciclo Celular, Apoptose)", "Oncologia (Câncer, Gene p53)"],
     imageNames: []
@@ -751,7 +751,7 @@ createQuestion({
       "em contraste às células animais, as células de vegetais, bactérias e fungos possuem paredes celulares que limitam o seu volume e evitam que elas se rompam na situação B.",
       "na situação A, não ocorre o rompimento da membrana plasmática em protozoários por causa do vacúolo pulsátil."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia (Membrana Plasmática, Transporte através da Membrana, Osmose, Célula Animal e Vegetal)"],
     imageNames: []
@@ -773,7 +773,7 @@ createQuestion({
       "os animais pseudocelomados têm órgãos contidos em uma cavidade, porém esta não se apresenta totalmente delineada pelo mesoderma.",
       "os animais A, B e C podem ser, respectivamente, um cnidário, um platelminto e um nematódeo."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Embriologia (Folhetos Embrionários, Celoma, Simetria)", "Zoologia (Classificação Animal)"],
     imageNames: []
@@ -794,7 +794,7 @@ createQuestion({
       "alguns fungos evoluíram em conjunto com algas ou cianobactérias, desenvolvendo uma relação mutualística que beneficia ambas as espécies, o que forma os líquens.",
       "nas hifas, a passagem livre de citoplasma e de organelas entre células acontece somente nos fungos com hifas septadas, já que estas não apresentam divisões entre as células."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Micologia (Fungos, Micoses, Classificação de Fungos, Reprodução de Fungos)"],
     imageNames: []
@@ -816,7 +816,7 @@ createQuestion({
       "no processo evolutivo interespecífico entre parasita e hospedeiro não ocorre a seleção natural, já que todo parasita consegue incorporar partes de DNA do hospedeiro em seu próprio DNA, transmitindo essa informação genética para os seus descendentes.",
       "as solitárias são endoparasitas do sistema digestório humano que têm o corpo dividido em duas regiões (escólex e proglótides); a contaminação pode ocorrer pelo consumo de carne de animais contaminada com o cisticerco do nematódeo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Parasitologia (Doenças Parasitárias, Agentes Transmissores, Ciclos de Vida)", "Saúde Pública"],
     imageNames: []
@@ -837,7 +837,7 @@ createQuestion({
       "o súber tem origem nos tecidos do felogênio, conforme indicado no esquema B.",
       "o esquema B está incorreto, pois o colênquima e o esclerênquima são tecidos derivados do parênquima."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Botânica (Histologia Vegetal, Meristemas, Tecidos de Condução, Tecidos de Revestimento, Crescimento Secundário)"],
     imageNames: []

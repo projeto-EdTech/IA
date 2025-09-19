@@ -3,7 +3,7 @@ createQuestion({
     university: "uem",
     year: 2015,
     text: {
-      principal: "Assinale o que for correto quanto aos elementos linguísticos do texto.\n\nTEXTO\nEXCESSO DE REGRAS\nJoão Ubaldo Ribeiro ironiza normas legais em sua última coluna\n19 de julho de 2014, 12h30\nO escritor João Ubaldo Ribeiro, que morreu na última sexta-feira (18/7) aos 73 anos, ironizou em seu último texto a quantidade de novas regras que vêm sendo fixadas na sociedade. \"Imagino que a escolha da posição do rolo do papel higiênico pode ser regulamentada, depois que um estudo científico comprovar que, se a saída do papel for pelo lado de cima, haverá um desperdício geral de 3.28 por cento\", afirma o imortal da Academia Brasileira de Letras na coluna que havia preparado para a edição do próximo domingo (20/7) do jornal O Globo.\nLeia a íntegra do texto:\nO correto uso do papel higiênico\nO título acima é meio enganoso, porque não posso considerar-me uma autoridade no uso de papel higiênico, nem o leitor encontrará aqui alguma dica imperdível sobre o assunto. Mas é que estive pensando nos tempos que vivemos e me ocorreu que, dentro em breve, por iniciativa do Executivo ou de algum legislador, podemos esperar que sejam baixadas normas para, em banheiros públicos ou domésticos, ter certeza de que estamos levando em conta não só o que é melhor para nós como para a coletividade e o ambiente. Por exemplo, imagino que a escolha da posição do rolo do papel higiênico pode ser regulamentada, depois que um estudo científico comprovar que, se a saída do papel for pelo lado de cima, haverá um desperdício geral de 3.28 por cento, com a consequência de que mais lixo será gerado e mais árvores serão derrubadas para fazer mais papel. E a maneira certa de passar o papel higiênico também precisa ter suas regras, notadamente no caso das damas, segundo aprendi outro dia, num programa de tevê.\nTudo simples, como em todas as medidas que agora vivem tomando, para nos proteger dos muitos perigos que nos rondam, inclusive nossos próprios hábitos e preferências pessoais. Nos banheiros públicos, como os de aeroportos e rodoviárias, instalarão câmeras de monitoramento, com aplicação de multas imediatas aos infratores. Nos banheiros domésticos, enquanto não passa no Congresso um projeto obrigando todo mundo a instalar uma câmera por banheiro, as recém-criadas Brigadas Sanitárias (milhares de novos empregos em todo o Brasil) farão uma fiscalização por escolha aleatória. Nos casos de reincidência em delitos como esfregada ilegal, colocação imprópria do rolo e usos não autorizados, tais como assoar o nariz ou enrolar um pedacinho para limpar o ouvido, os culpados serão encaminhados para um curso de educação sanitária. Nova reincidência, aí, paciência, só cadeia mesmo.\nAgora me contam que, não sei se em algum Estado ou no País todo, estão planejando proibir que os fabricantes de gulodices para crianças ofereçam brinquedinhos de brinde, porque isso estimula o consumo de várias substâncias pouco sadias e pode levar à obesidade, diabetes e muitos outros males. Justíssimo, mas vejo um defeito. Por que os brasileiros adultos ficam excluídos dessa proteção? O certo será, para quem, insensata e desorientadamente, quiser comprar e consumir alimentos industrializados, apresentar atestado médico do SUS, comprovando que não se trata de diabético ou hipertenso e não tem taxas de colesterol altas. O mesmo aconteceria com restaurantes, botecos e similares. Depois de algum debate, em que alguns radicais terão proposto o Cardápio Único Nacional, a lei estabelecerá que, em todos os menus, constem, em letras vermelhas e destacadas, as necessárias advertências quanto a possíveis efeitos deletérios dos ingredientes, bem como fotos coloridas de gente passando mal, depois de exagerar em comidas excessivamente calóricas ou bebidas indigestas. O que nós fazemos nesse terreno é um absurdo e, se o Estado não nos tomar providências, não sei onde vamos parar.\nAinda é cedo para avaliar a chamada lei da palmada, mas tenho certeza de que, protegendo as nossas crianças, ela se tornará um exemplo para o mundo. Pelo que eu sei, se o pai der umas palmadas no filho, pode ser denunciado à polícia e até preso. Mas, antes disso, é intimado a fazer uma consulta ou tratamento psicológico. Se, ainda assim, persistir em seu comportamento delituoso, não só vai preso mesmo, como a criança é entregue aos cuidados de uma instituição que cuidará dela exemplarmente, livre de um pai cruel e de uma mãe cúmplice. Pai na cadeia e mãe proibida de vê-la, educada por profissionais especializados e dedicados, a criança crescerá para tornar-se um cidadão modelo. E a lei certamente se aperfeiçoará com a prática, tornando-se mais abrangente. Para citar uma circunstância em que o aperfeiçoamento é indispensável, lembremos que a tortura física, seja lá em que hedionda forma chinelada, cascudo, beliscão, puxão de orelha, quiçá um piparote -, muitas vezes não é tão séria quanto a tortura psicológica. Que terríveis sensações não terá a criança, ao ver o pai de cara amarrada ou irritado? E os pais discutindo e até brigando? O egoísmo dos pais, prejudicando a criança dessa maneira desumana, tem que ser coibido, nada de aborrecimentos ou brigas em casa, a criança não tem nada a ver com os problemas dos adultos, polícia neles.\nSei que esta descrição do funcionamento da lei da palmada é exagerada, e o que inventei aí não deve ocorrer na prática. Mas é seu resultado lógico e faz parte do espírito desmiolado, arrogante, pretensioso, inconsequente, desrespeitoso, irresponsável e ignorante com que esse tipo de coisa vem prosperando entre nós, com gente estabelecendo regras para o que nos permitem ver nos balcões das farmácias, policiando o que dizemos em voz alta ou publicamos e podendo punir até uma risada que alguém considere hostil ou desrespeitosa para com alguma categoria social. Não parece estar longe o dia em que a maioria das piadas será clandestina e quem contar piadas vai virar uma espécie de conspirador, reunido com amigos pelos cantos e suspeitando de estranhos. Temos que ser protegidos até da leitura desavisada de livros. Cada livro será acompanhado de um texto especial, uma espécie de bula, que dirá do que devemos gostar e do que devemos discordar e como o livro deverá ser comentado na perspectiva adequada, para não mencionar as ocasiões em que precisará ser reescrito, a fim de garantir o indispensável acesso de pessoas de vocabulário neandertaloide. Por enquanto, não baixaram normas para os relacionamentos sexuais, mas é prudente verificar se o que vocês andam aprontando está correto e não resultará na cassação de seus direitos de cama, precatem-se.\n(Fonte: Revista Consultor Jurídico, 19 de julho de 2014, 12h30. Disponível em: http://www.conjur.com.br/2014-jul-19/joao-ubaldo-ribeiro-ironiza-normas-legais-ultima-coluna. Acesso em 05/11/2015)",
+      principal: "Assinale o que for correto quanto aos elementos linguísticos do texto.\n\nTEXTO\nEXCESSO DE REGRAS\nJoão Ubaldo Ribeiro ironiza normas legais em sua última coluna\n19 de julho de 2014, 12h30\nO escritor João Ubaldo Ribeiro, que morreu na última sexta-feira ($18/7$) aos 73 anos, ironizou em seu último texto a quantidade de novas regras que vêm sendo fixadas na sociedade. \"Imagino que a escolha da posição do rolo do papel higiênico pode ser regulamentada, depois que um estudo científico comprovar que, se a saída do papel for pelo lado de cima, haverá um desperdício geral de 3.28 por cento\", afirma o imortal da Academia Brasileira de Letras na coluna que havia preparado para a edição do próximo domingo ($20/7$) do jornal O Globo.\nLeia a íntegra do texto:\nO correto uso do papel higiênico\nO título acima é meio enganoso, porque não posso considerar-me uma autoridade no uso de papel higiênico, nem o leitor encontrará aqui alguma dica imperdível sobre o assunto. Mas é que estive pensando nos tempos que vivemos e me ocorreu que, dentro em breve, por iniciativa do Executivo ou de algum legislador, podemos esperar que sejam baixadas normas para, em banheiros públicos ou domésticos, ter certeza de que estamos levando em conta não só o que é melhor para nós como para a coletividade e o ambiente. Por exemplo, imagino que a escolha da posição do rolo do papel higiênico pode ser regulamentada, depois que um estudo científico comprovar que, se a saída do papel for pelo lado de cima, haverá um desperdício geral de 3.28 por cento, com a consequência de que mais lixo será gerado e mais árvores serão derrubadas para fazer mais papel. E a maneira certa de passar o papel higiênico também precisa ter suas regras, notadamente no caso das damas, segundo aprendi outro dia, num programa de tevê.\nTudo simples, como em todas as medidas que agora vivem tomando, para nos proteger dos muitos perigos que nos rondam, inclusive nossos próprios hábitos e preferências pessoais. Nos banheiros públicos, como os de aeroportos e rodoviárias, instalarão câmeras de monitoramento, com aplicação de multas imediatas aos infratores. Nos banheiros domésticos, enquanto não passa no Congresso um projeto obrigando todo mundo a instalar uma câmera por banheiro, as recém-criadas Brigadas Sanitárias (milhares de novos empregos em todo o Brasil) farão uma fiscalização por escolha aleatória. Nos casos de reincidência em delitos como esfregada ilegal, colocação imprópria do rolo e usos não autorizados, tais como assoar o nariz ou enrolar um pedacinho para limpar o ouvido, os culpados serão encaminhados para um curso de educação sanitária. Nova reincidência, aí, paciência, só cadeia mesmo.\nAgora me contam que, não sei se em algum Estado ou no País todo, estão planejando proibir que os fabricantes de gulodices para crianças ofereçam brinquedinhos de brinde, porque isso estimula o consumo de várias substâncias pouco sadias e pode levar à obesidade, diabetes e muitos outros males. Justíssimo, mas vejo um defeito. Por que os brasileiros adultos ficam excluídos dessa proteção? O certo será, para quem, insensata e desorientadamente, quiser comprar e consumir alimentos industrializados, apresentar atestado médico do SUS, comprovando que não se trata de diabético ou hipertenso e não tem taxas de colesterol altas. O mesmo aconteceria com restaurantes, botecos e similares. Depois de algum debate, em que alguns radicais terão proposto o Cardápio Único Nacional, a lei estabelecerá que, em todos os menus, constem, em letras vermelhas e destacadas, as necessárias advertências quanto a possíveis efeitos deletérios dos ingredientes, bem como fotos coloridas de gente passando mal, depois de exagerar em comidas excessivamente calóricas ou bebidas indigestas. O que nós fazemos nesse terreno é um absurdo e, se o Estado não nos tomar providências, não sei onde vamos parar.\nAinda é cedo para avaliar a chamada lei da palmada, mas tenho certeza de que, protegendo as nossas crianças, ela se tornará um exemplo para o mundo. Pelo que eu sei, se o pai der umas palmadas no filho, pode ser denunciado à polícia e até preso. Mas, antes disso, é intimado a fazer uma consulta ou tratamento psicológico. Se, ainda assim, persistir em seu comportamento delituoso, não só vai preso mesmo, como a criança é entregue aos cuidados de uma instituição que cuidará dela exemplarmente, livre de um pai cruel e de uma mãe cúmplice. Pai na cadeia e mãe proibida de vê-la, educada por profissionais especializados e dedicados, a criança crescerá para tornar-se um cidadão modelo. E a lei certamente se aperfeiçoará com a prática, tornando-se mais abrangente. Para citar uma circunstância em que o aperfeiçoamento é indispensável, lembremos que a tortura física, seja lá em que hedionda forma chinelada, cascudo, beliscão, puxão de orelha, quiçá um piparote -, muitas vezes não é tão séria quanto a tortura psicológica. Que terríveis sensações não terá a criança, ao ver o pai de cara amarrada ou irritado? E os pais discutindo e até brigando? O egoísmo dos pais, prejudicando a criança dessa maneira desumana, tem que ser coibido, nada de aborrecimentos ou brigas em casa, a criança não tem nada a ver com os problemas dos adultos, polícia neles.\nSei que esta descrição do funcionamento da lei da palmada é exagerada, e o que inventei aí não deve ocorrer na prática. Mas é seu resultado lógico e faz parte do espírito desmiolado, arrogante, pretensioso, inconsequente, desrespeitoso, irresponsável e ignorante com que esse tipo de coisa vem prosperando entre nós, com gente estabelecendo regras para o que nos permitem ver nos balcões das farmácias, policiando o que dizemos em voz alta ou publicamos e podendo punir até uma risada que alguém considere hostil ou desrespeitosa para com alguma categoria social. Não parece estar longe o dia em que a maioria das piadas será clandestina e quem contar piadas vai virar uma espécie de conspirador, reunido com amigos pelos cantos e suspeitando de estranhos. Temos que ser protegidos até da leitura desavisada de livros. Cada livro será acompanhado de um texto especial, uma espécie de bula, que dirá do que devemos gostar e do que devemos discordar e como o livro deverá ser comentado na perspectiva adequada, para não mencionar as ocasiões em que precisará ser reescrito, a fim de garantir o indispensável acesso de pessoas de vocabulário neandertaloide. Por enquanto, não baixaram normas para os relacionamentos sexuais, mas é prudente verificar se o que vocês andam aprontando está correto e não resultará na cassação de seus direitos de cama, precatem-se.\n(Fonte: Revista Consultor Jurídico, 19 de julho de 2014, 12h30. Disponível em: http://www.conjur.com.$br/2014$-jul-$19/joao$-ubaldo-ribeiro-ironiza-normas-legais-ultima-coluna. Acesso em 05/11/2015)",
       subItens: []
     },
     options: [
@@ -13,7 +13,7 @@ createQuestion({
       "Construções sintáticas utilizadas no texto, tais como \"Temos que ser protegidos\" (linhas 128 e 129) e “é prudente verificar” (linha 138), indicam manifestações de ironia na medida em que o sentido que se deve entender é o contrário do que está sendo dito.",
       "Em \"O mesmo aconteceria com restaurantes, botecos e similares.\" (linhas 75 e 76), a forma verbal em negrito expressa uma circunstância de condição ligada à hipotética aprovação do chamado Cardápio Único Nacional."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Semântica", "Morfologia"],
     imageNames: []
@@ -34,7 +34,7 @@ createQuestion({
       "Na linha 7, a primeira sílaba (“sex”) do vocábulo “sexta” (de “sexta-feira”) é formada por uma consoante, uma vogal e uma consoante. Na linha 56, a primeira sílaba do vocábulo \"fiscalização\" \"fis\" é formada por uma consoante, uma vogal e uma consoante. A letra \"x\", no final da sílaba “sex” (do vocábulo “sexta”) e a letra \"s\", no final da sílaba \"fis\" (do vocábulo “fiscalização”) representam o mesmo fonema /s/.",
       "No vocábulo “higiênico” (linha 26), temos 9 letras e9 fonemas. No vocábulo “hábitos\" (linha 48), temos 7 letras e 7 fonemas. No vocábulo “chamada” (linha 87), temos 7 letras e 7 fonemas. A correspondência entre a quantidade de letras e a de fonemas em cada um dos exemplos apresentados assegura que, como letra e fonema não são elementos distintos, o número de letras corresponde ao número de fonemas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Fonologia", "Ortografia"],
     imageNames: []
@@ -51,11 +51,11 @@ createQuestion({
     options: [
       "No último trecho do texto (linha 140), a oração “precatem-se\" caracteriza a função de linguagem denominada conativa ou apelativa. Uma das marcas gramaticais que caracteriza esta função é o emprego de verbos no imperativo, o que enfatiza a intenção do produtor da mensagem de influenciar, de envolver e de persuadir o destinatário.",
       "No trecho \"levar à obesidade\" (linha 68), o “a” recebe acento grave indicativo de crase, pois o termo regente (\"levar\") exige a preposição “a” e o termo regido (\"obesidade\") admite o artigo “a”.",
-      "No trecho \"O mesmo aconteceria com restaurantes, botecos e similares.\" (linhas 75 e 76), temos a figura de linguagem/pensamento denominada hipérbole, já que a sequência de termos “restaurantes, botecos e similares\" consiste numa alteração de significados baseada em traços de similaridade entre dois conceitos.",
+      "No trecho \"O mesmo aconteceria com restaurantes, botecos e similares.\" (linhas 75 e 76), temos a figura de $linguagem/pensamento$ denominada hipérbole, já que a sequência de termos “restaurantes, botecos e similares\" consiste numa alteração de significados baseada em traços de similaridade entre dois conceitos.",
       "No trecho \"- chinelada, cascudo, beliscão, puxão de orelha, quiçá um piparote -,\" (linhas 104-106), o uso do duplo travessão tem a intenção de dar ênfase ou destaque aos termos intercalados.",
-      "A relação de sentidos estabelecida entre as expressões \"que morreu\" (linha 6) e “o imortal” (linha 16) caracteriza a figura de linguagem/pensamento denominada gradação, que consiste em substituir uma expressão por outra atenuante, menos brusca, para suavizar uma asserção desagradável."
+      "A relação de sentidos estabelecida entre as expressões \"que morreu\" (linha 6) e “o imortal” (linha 16) caracteriza a figura de $linguagem/pensamento$ denominada gradação, que consiste em substituir uma expressão por outra atenuante, menos brusca, para suavizar uma asserção desagradável."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Funções da Linguagem", "Crase", "Figuras de Linguagem", "Pontuação"],
     imageNames: []
@@ -74,9 +74,9 @@ createQuestion({
       "Em “Não parece estar longe o dia em que a maioria das piadas será clandestina” (linhas 124-126), a forma verbal em negrito pode também ir para o plural, concordando com o substantivo núcleo da expressão partitiva “piadas”.",
       "Em \"perigos que nos rondam\" (linha 47) e “se o Estado não nos tomar providências” (linha 85), a próclise, ou seja, a colocação do pronome antes do verbo é facultativa.",
       "Em \"haverá um desperdício geral de 3.28 por cento,\", (linha 38), se o vocábulo em destaque estivesse no plural, o verbo concordaria com o vocábulo e teria que ser flexionado para a forma “haverão”.",
-      "Em \"O escritor João Ubaldo Ribeiro, que morreu na última sexta-feira (18/7) aos 73 anos,\" (linhas 6 e 7), a oração em negrito é classificada como oração subordinada adjetiva restritiva, pois delimita o sentido da oração principal."
+      "Em \"O escritor João Ubaldo Ribeiro, que morreu na última sexta-feira ($18/7$) aos 73 anos,\" (linhas 6 e 7), a oração em negrito é classificada como oração subordinada adjetiva restritiva, pois delimita o sentido da oração principal."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Concordância", "Regência"],
     imageNames: []
@@ -97,7 +97,7 @@ createQuestion({
       "Na sequência textual “na cassação de seus direitos de cama\" (linhas 139 e 140), o pronome possessivo “seus” refere-se à expressão “pessoas de vocabulário neandertaloide” (linhas 135 e 136).",
       "Em \"Temos que ser protegidos até da leitura desavisada de livros\" (linhas 128 e 129), o vocábulo em negrito indica o argumento mais forte dentro de uma sequência de argumentos elencados pelo autor do texto."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Coesão e Coerência", "Semântica"],
     imageNames: []
@@ -118,7 +118,7 @@ createQuestion({
       "O vocábulo “como” (linha 33) estabelece um sentido de causalidade que liga o uso correto de banheiros públicos ou privados a um estudo científico a ser realizado sobre o eficiente uso do papel higiênico.",
       "O vocábulo “insensata\" (linha 71) exerce função de adjetivo, pois qualifica a expressão nominal “dessa proteção” (linha 70), atribuindo-lhe uma dada qualidade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Conjunções", "Verbos", "Advérbios", "Morfologia"],
     imageNames: []
@@ -139,7 +139,7 @@ createQuestion({
       "Em \"imagino que a escolha da posição do rolo do papel higiênico pode ser regulamentada” (linhas 34-36), temos um período composto por duas orações: a primeira (\"imagino\") é classificada como oração principal e a segunda oração, “que a escolha da posição do rolo pode ser regulamentada”, é uma oração subordinada substantiva objetiva direta.",
       "O trecho \"enquanto não passa no Congresso um projeto obrigando todo mundo a instalar uma câmera por banheiro\" (linhas 52-54) apresenta uma oração subordinada adverbial temporal, marcada pela conjunção temporal \"enquanto”, e exprime ideia de tempo, momento, período de ocorrência de um fato."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe do Período", "Orações"],
     imageNames: []
@@ -160,7 +160,7 @@ createQuestion({
       "O vocábulo “Mas” (linha 91) é classificado como advérbio de intensidade, por isso pode ser substituído por “mais\", sem que haja prejuízo semântico ao trecho no qual está inserido.",
       "Os vocábulos “desmiolado, arrogante, pretensioso, inconsequente, desrespeitoso, irresponsável e ignorante” (linhas 117 e 118) pertencem à classe de palavras denominada advérbio (ou adverbial) e são classificados como de negação porque possuem sentido negativo e atribuem tal sentido ao vocábulo ao qual se referem, qual seja: \"resultado\" (linha 116)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Classes de Palavras"],
     imageNames: []
@@ -181,7 +181,7 @@ createQuestion({
       "Em \"hábitos” (linha 48), “públicos” (linha 49) e “câmeras” (linha 50), temos três palavras paroxítonas acentuadas porque são terminadas por \"s”.",
       "No vocábulo “milhares\" (linha 55) e no vocábulo \"escolha\" (linha 56), temos o dígrafo \"lh\", pois as duas consoantes juntas representam um único fonema. Este fonema pode ser realizado de forma diferente da convencional, caracterizando assim a variação linguística. Nesse caso, em decorrência de fatores regionais ou de hábitos linguísticos, a pronúncia pode ser “miiares” e \"escoia\"."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Fonética", "Fonologia", "Ortografia"],
     imageNames: []
@@ -202,7 +202,7 @@ createQuestion({
       "Em \"medidas que agora vivem tomando, para nos proteger dos muitos perigos que nos rondam\" (linhas 45-47), a posição do autor é a de concordar com a prática paternalista do Estado, que visa, com tais leis, à proteção da população.",
       "Nos trechos \"Não parece estar longe o dia em que a maioria das piadas será clandestina” (linhas 124-126), \"Cada livro será acompanhado de um texto especial, uma espécie de bula\" (linhas 129-131) e “cassação de seus direitos de cama\" (linhas 139 e 140), o autor conjectura sobre formas de controle extremas que absurdamente afetariam as liberdades individuais das pessoas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Tipologia Textual"],
     imageNames: []
@@ -244,7 +244,7 @@ createQuestion({
       "A peça O rei da vela foi encenada no Teatro Municipal de São Paulo em fevereiro de 1932, contribuindo para o sucesso da Semana de Arte Moderna, da qual Oswald de Andrade relutou em participar. O texto conta a história de um triângulo amoroso composto pelos personagens Abelardo I, Abelardo II e Heloísa. A peça foi montada em um palco com três planos: o plano da realidade, o plano da alucinação e o plano da memória.",
       "A peça O rei da vela constitui uma representação da sociedade brasileira dos anos de 1930 e, segundo a crítica, funda uma nova dramaturgia no Brasil, revolucionando técnicas teatrais. Embora tenha sido montada só em 1967, a peça ainda foi considerada, pela crítica, como obra vanguardista."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Modernismo", "Oswald de Andrade", "Teatro"],
     imageNames: []
@@ -265,7 +265,7 @@ createQuestion({
       "Dois irmãos é um romance autobiográfico escrito por Mário de Andrade no início do século XX, momento em que afloravam os movimentos vanguardistas no Brasil. A narrativa, marcada por elementos futuristas, surrealistas e dadaístas, foi inspirada no percurso literário dos irmãos Mário de Andrade e Oswald de Andrade.",
       "Olavo Bilac, poeta da segunda geração do Romantismo, foi fortemente influenciado por Lord Byron. Compôs suas poesias buscando a evasão tanto no tempo quanto no espaço. É por isso que a temática do poema “Macário\" está ligada ao ideal de “arte pela arte”."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Pré-Modernismo", "Modernismo", "Realismo", "Romantismo", "Gêneros Literários"],
     imageNames: []
@@ -286,7 +286,7 @@ createQuestion({
       "A produção literária de Augusto dos Anjos, embora habitualmente situada no contexto do Pré-Modernismo brasileiro, representa um problema de classificação estética, de modo que sua obra na qual se encontram influências do Naturalismo e do Simbolismo – constitui fenômeno particular e original.",
       "No poema “Psicologia de um vencido”, os versos \"Eu, filho do carbono e do amoníaco, / Monstro de escuridão e rutilância, / Sofro, desde a epigênesis da infância, / A influência má dos signos do zodíaco” – revelam uma visão sofredora do mundo, da vida. O \"eu\" lírico angustia-se diante da previsão da própria morte e do destino reservado ao cadáver, conforme o verso \"Na frialdade inorgânica da terra\" (ANJOS, Augusto. Eu e outras poesias. São Paulo: Martin Claret, 2002, p. 38)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Pré-Modernismo", "Augusto dos Anjos", "Poesia"],
     imageNames: []
@@ -307,7 +307,7 @@ createQuestion({
       "O poeta José de Alencar produziu pelo menos uma obra paradigmática do ultrarromantismo: a peça de teatro O navio negreiro. Ficou marcado por ter transitado pela geração condoreira ao compor o poema Canção do exílio.",
       "O Romantismo brasileiro, em função de sua variedade de autores e tendências, teve duração de mais de dois séculos, partindo das décadas finais do século XVIII e chegando ao início do século XX, com autores como Graciliano Ramos e João Cabral de Melo Neto."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Romantismo", "José de Alencar", "Indianismo"],
     imageNames: []
@@ -328,7 +328,7 @@ createQuestion({
       "In the past, American people used to admire people such as doctors and lawyers more than athletes.",
       "Fame in sports gives athletes the chance of being a good influence for the future generation."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -349,7 +349,7 @@ createQuestion({
       "\"decay\" (line 12): gradual destruction of ideas, beliefs etc.",
       "\"heavyweight boxing champ\" (line 15): a boxer who weighs between 59 and 61 kilograms and is not very successful."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário"],
     imageNames: []
@@ -370,7 +370,7 @@ createQuestion({
       "The word “Greece” (line 15) refers to the nationality and \"Greek\" (line 16) to the country.",
       "In the extract \"other Syrians I'd met\" (line 18), the contracted form underlined means \"I had\"."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto", "Gramática"],
     imageNames: []
@@ -391,7 +391,7 @@ createQuestion({
       "survived the journey, but many of his mates died of infectious illnesses.",
       "descends from a Turkish family."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -402,7 +402,7 @@ createQuestion({
     university: "uem",
     year: 2015,
     text: {
-      principal: "According to text 3, choose the correct alternative(s).\n\nTEXT 3\nOne of UK's top jokes\nA magician was working on a cruise ship in the Caribbean. The audience was different each week so he did the same tricks over and over.\nThe problem was that the captain's parrot saw all the shows and began to understand how the magician did every trick.\nHe started shouting in the middle of the show: \"Look, it's not the same hat. Look, he's hiding the flowers under the table. Hey, why are all the cards the ace of spades?\". The magician was furious but, as it was the captain's parrot, he could do nothing. Then one day the ship sank and the magician found himself floating on a piece of wood with the parrot.\nThey glared at each other but said nothing.\nFinally, after a week, the parrot said: 'OK, I give up. Where's the boat?'\n(Disponível em <http://www.dailymail.co.uk/news/article-90990/The-UKs-jokes.html>. Acesso em 03/11/15)",
+      principal: "According to text 3, choose the correct alternative(s).\n\nTEXT 3\nOne of UK's top jokes\nA magician was working on a cruise ship in the Caribbean. The audience was different each week so he did the same tricks over and over.\nThe problem was that the captain's parrot saw all the shows and began to understand how the magician did every trick.\nHe started shouting in the middle of the show: \"Look, it's not the same hat. Look, he's hiding the flowers under the table. Hey, why are all the cards the ace of spades?\". The magician was furious but, as it was the captain's parrot, he could do nothing. Then one day the ship sank and the magician found himself floating on a piece of wood with the parrot.\nThey glared at each other but said nothing.\nFinally, after a week, the parrot said: 'OK, I give up. Where's the boat?'\n(Disponível em <http://www.dailymail.co.uk/news/article-$90990/The$-UKs-jokes.html>. Acesso em 03/11/15)",
       subItens: []
     },
     options: [
@@ -412,7 +412,7 @@ createQuestion({
       "In the end, the parrot surrendered as he thought it had been the only trick he had not understood.",
       "In the extract \"They glared at each other but said nothing\" (line 14), the underlined part could be rewritten as \"but did not say anything” with no change in meaning."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto", "Gramática"],
     imageNames: []

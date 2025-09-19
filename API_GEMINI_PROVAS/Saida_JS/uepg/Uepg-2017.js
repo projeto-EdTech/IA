@@ -3,7 +3,7 @@ createQuestion({
     university: "uepg",
     year: 2017,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 01 A 04\nCOMPRAR É UM ATO POLÍTICO\n\"Clicktivismo\" é um termo em voga. É o ato de se\nmobilizar pelas redes sociais para algum objetivo. E o discur-\nso está saindo da internet, segundo Michael Shank, um pro-\nfessor e PhD em desenvolvimento sustentável. Em entrevista\nao Fast Company, ele alertou as empresas: as pessoas estão\nusando sua carteira como um ato político. Quer exemplos?\nComo represália a comentários machistas do presi-\ndente norte-americano, Donald Trump, consumidores para-\nram de comprar produtos da marca Ivanka Trump, uma de\nsuas filhas. A quebra foi de 32%.\nO Uber perdeu mais de 200 mil clientes nos Estados\nUnidos por seus laços com o governo dos Estados Unidos e\npor um episódio controverso. Quando taxistas pararam em\nprotesto à proibição de entrada de refugiados e nativos de\nsete países de maioria muçulmana nos EUA, em fevereiro, o\napp melhorou seus preços. A ação foi encarada como uma\nquebra na greve.\nPara Shank, é hora de o consumidor agir com o bol-\nso. \"Apoiar produtos e companhias preocupadas com ecologia\ne negar apoio a abusadores sociais e do meio ambiente são\nformas que temos de moldar o comportamento de nossas\nempresas.\"\nAdaptado de: Jornal Gazeta do Povo de 22/23.04.2017,\nsuplemento Vida e Cidadania, coluna Consumo, página 4.\nAssinale o que for correto quanto ao conteúdo do texto.",
+      principal: "TEXTO PARA AS QUESTÕES 01 A 04\nCOMPRAR É UM ATO POLÍTICO\n\"Clicktivismo\" é um termo em voga. É o ato de se\nmobilizar pelas redes sociais para algum objetivo. E o discur-\nso está saindo da internet, segundo Michael Shank, um pro-\nfessor e PhD em desenvolvimento sustentável. Em entrevista\nao Fast Company, ele alertou as empresas: as pessoas estão\nusando sua carteira como um ato político. Quer exemplos?\nComo represália a comentários machistas do presi-\ndente norte-americano, Donald Trump, consumidores para-\nram de comprar produtos da marca Ivanka Trump, uma de\nsuas filhas. A quebra foi de 32%.\nO Uber perdeu mais de 200 mil clientes nos Estados\nUnidos por seus laços com o governo dos Estados Unidos e\npor um episódio controverso. Quando taxistas pararam em\nprotesto à proibição de entrada de refugiados e nativos de\nsete países de maioria $\\mu$çulmana nos EUA, em fevereiro, o\napp melhorou seus preços. A ação foi encarada como uma\nquebra na greve.\nPara Shank, é hora de o consumidor agir com o bol-\nso. \"Apoiar produtos e companhias preocupadas com ecologia\ne negar apoio a abusadores sociais e do meio ambiente são\nformas que temos de moldar o comportamento de nossas\nempresas.\"\nAdaptado de: Jornal Gazeta do Povo de $22/23$.04.2017,\nsuplemento Vida e Cidadania, coluna Consumo, página 4.\nAssinale o que for correto quanto ao conteúdo do texto.",
       subItens: []
     },
     options: [
@@ -12,7 +12,7 @@ createQuestion({
       "O consumidor, ao gastar seu dinheiro na aquisição de bens necessários, pode interferir no comportamento empresarial no que diz respeito a sua relação com o meio ambiente em que está inserido.",
       "Michael Shank, criador do termo \"clicktivismo\", introduziu o consumo sustentável nas redes sociais, o que foi imediatamente adotado pelos consumidores do mundo todo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -23,7 +23,7 @@ createQuestion({
     university: "uepg",
     year: 2017,
     text: {
-      principal: "Na frase abaixo foi empregada uma metonímia, pois \"carteira\" substitui o termo \"dinheiro\", com o qual tem uma relação de continente/conteúdo. Assinale a(s) alternativa(s) em que foi empregada essa mesma figura de linguagem.\n\"... as pessoas estão usando sua carteira como um ato político.\"",
+      principal: "Na frase abaixo foi empregada uma metonímia, pois \"carteira\" substitui o termo \"dinheiro\", com o qual tem uma relação de $continente/conte$údo. Assinale a(s) alternativa(s) em que foi empregada essa mesma figura de linguagem.\n\"... as pessoas estão usando sua carteira como um ato político.\"",
       subItens: []
     },
     options: [
@@ -32,7 +32,7 @@ createQuestion({
       "Para atualizar todos os programas, os computadores trabalharam intensamente no final de semana.",
       "Os supermercados estão de olho nas mudanças de perfil do consumidor e nas tendências de consumo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Figuras de Linguagem", "Semântica"],
     imageNames: []
@@ -52,7 +52,7 @@ createQuestion({
       "As aspas usadas no início do 1º parágrafo e na última frase do último parágrafo são para indicar citações presentes no texto.",
       "No último parágrafo \"... negar apoio a abusadores sociais ...\", se a palavra em destaque fosse empregada no feminino plural, seria empregada a crase no \"a\"."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Coesão e Coerência", "Semântica"],
     imageNames: []
@@ -72,7 +72,7 @@ createQuestion({
       "\"quando\" (2º período do 3º parágrafo) - relação de causa.",
       "\"segundo\" (3º período do 1º parágrafo) - relação de conformidade."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Conectivos e Relações de Sentido"],
     imageNames: []
@@ -92,7 +92,7 @@ createQuestion({
       "Na poesia de Gregório de Matos, nosso maior poeta do Barroco, pode-se encontrar tanto o delicado lirismo amoroso como a tensa temática religiosa. Mas também ocorre, em contraste, a sátira a pessoas, instituições e costumes, feita, às vezes, de maneira leve e bem-humorada, outras vezes, manifestada de forma violenta e até mesmo grosseira – e esta poesia satírica lhe valeu o apelido de Boca do Inferno.",
       "Em seus sonetos, escritos com técnica rigorosa e numa linguagem culta e elevada, conforme os padrões do Classicismo, o grande poeta português Luís de Camões celebrou, sobretudo, as conquistas marítimas e territoriais do seu povo, ocorridas durante o período das Grandes Navegações, como se percebe neste conhecido verso de um de seus sonetos: \"Por mares de antes nunca navegados.\""
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira - Barroco", "Literatura Brasileira - Classicismo"],
     imageNames: []
@@ -112,7 +112,7 @@ createQuestion({
       "As esculturas gregas mais antigas eram esquemáticas com uma estrutura derivada das estátuas egípcias.",
       "As máscaras, no teatro grego, eram usadas pelos atores para exprimir diferentes estados de espírito, para servir de caixa de ressonância e para tornar mais forte o tom da voz."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Arte Antiga - Grécia"],
     imageNames: []
@@ -123,7 +123,7 @@ createQuestion({
     university: "uepg",
     year: 2017,
     text: {
-      principal: "Sobre os elementos formadores do som e da música/composição articulados à História da Música, assinale o que for correto.",
+      principal: "Sobre os elementos formadores do som e da mú$sica/composi$ção articulados à História da Música, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -132,7 +132,7 @@ createQuestion({
       "No período renascentista, as melodias eram exclusivamente monofônicas.",
       "No período barroco, as melodias apresentam-se com muitos ornamentos, como, por exemplo, os trinados."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História da Música"],
     imageNames: []
@@ -152,7 +152,7 @@ createQuestion({
       "A cor se forma através da ausência da luz.",
       "A percepção da cor é objetiva determinada e não sofre nenhum tipo de influência."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Elementos da Linguagem Visual"],
     imageNames: []
@@ -172,7 +172,7 @@ createQuestion({
       "No teatro medieval há misturas de tons e estilos, com a fusão dos contrários: o sagrado e o sublime convivem com o profano e com o grotesco; o passado está mesclado no presente e no futuro.",
       "A farsa, a sottie e o entremez são formas teatrais presentes no teatro profano medieval."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História do Teatro"],
     imageNames: []
@@ -192,7 +192,7 @@ createQuestion({
       "Os primeiros objetos artísticos pré-históricos foram feitos para adornar o corpo e usar artefatos de cerâmica para fins utilitários.",
       "Os arquitetos romanos foram os pioneiros no uso do concreto em suas construções."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História da Arte"],
     imageNames: []
@@ -212,7 +212,7 @@ createQuestion({
       "Jongo.",
       "Maculelê."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Dança e Cultura Corporal"],
     imageNames: []
@@ -232,7 +232,7 @@ createQuestion({
       "O Brasil conquistou medalhas na modalidade handebol, masculino e feminino, em todas as ocasiões em que este foi disputado nos Jogos Pan-Americanos.",
       "Na última edição dos Jogos Pan-Americanos, que ocorreu em Buenos Aires, em 2015, o Brasil conquistou medalhas nas modalidades beisebol, hóquei sobre grama e softbol."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Esportes Coletivos"],
     imageNames: []
@@ -252,7 +252,7 @@ createQuestion({
       "São consideradas provas de campo: o arremesso de peso, o lançamento de disco, o lançamento de dardo e o lançamento do martelo.",
       "São consideradas corridas de velocidade: 100 m, 200 m, 100 m com barreiras e 110 m com barreiras."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Atletismo"],
     imageNames: []
@@ -272,7 +272,7 @@ createQuestion({
       "A Capoeira Regional tem um jogo mais lento do que a Capoeira Angola.",
       "A Capoeira Angola apresenta uma variedade maior de golpes e é jogada com um ritmo mais acelerado do berimbau."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Lutas e Artes Marciais"],
     imageNames: []
@@ -292,7 +292,7 @@ createQuestion({
       "Acrobacias.",
       "Meditação."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Ginástica"],
     imageNames: []
@@ -312,7 +312,7 @@ createQuestion({
       "As estruturas A e têm função de formar as fibras do fuso de divisão celular e respiração celular, respectivamente.",
       "Graças aos ribossomos presentes em suas membranas, a estrutura B participa da síntese de algumas proteínas celulares."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia", "Organelas Celulares"],
     imageNames: []
@@ -332,7 +332,7 @@ createQuestion({
       "O impulso nervoso se propaga no neurônio no sentido axônio → dendrito → corpo celular.",
       "Os neurônios apresentam um corpo celular com intensa atividade metabólica. É portador de um grande núcleo com nucléolo bem desenvolvido, citoplasma com retículo endoplasmático granuloso e complexo golgiense também bem desenvolvidos, além de numerosas mitocôndrias."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Histologia Animal", "Sistema Nervoso"],
     imageNames: []
@@ -352,7 +352,7 @@ createQuestion({
       "Na anáfase mitótica, as cromátides-irmãs são puxadas para polos opostos pelo encurtamento dos microtúbulos do fuso, separando-se.",
       "Durante a telófase I (meiose I), os cromossomos começam a sua condensação e a carioteca se desorganiza."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Divisão Celular - Mitose", "Divisão Celular - Meiose"],
     imageNames: []
@@ -372,7 +372,7 @@ createQuestion({
       "O estágio do desenvolvimento embrionário em que ocorre a formação do tubo nervoso é chamado de nêurula. Nos embriões dos vertebrados, a região anterior do tubo nervoso se dilata e origina o encéfalo. O restante do tubo permanece fino e dá origem à medula espinhal.",
       "Na fase de gástrula, as células do embrião que darão origem aos músculos e aos órgãos internos do animal migram para o interior do embrião, enquanto as células que originarão a pele e o sistema nervoso ficam dispostas na superfície."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Embriologia"],
     imageNames: []
@@ -392,7 +392,7 @@ createQuestion({
       "Os vegetais fabricam todos os aminoácidos de que necessitam. Em humanos, os aminoácidos essenciais são aqueles que não produzimos e devem estar, obrigatoriamente, presentes na alimentação.",
       "A vitamina A facilita o depósito de sais de cálcio e fósforo nos ossos e pode ser encontrada nos laticínios. A vitamina D é importante para a visão, pois está presente na formação de uma substância da retina. Já a vitamina E tem efeito antioxidante e pode ser encontrada somente em carnes vermelhas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Bioquímica", "Nutrição"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "A força peso do corpo é uma força conservativa, ou seja, uma força cujo cálculo de seu trabalho depende da trajetória de seu ponto de aplicação.",
       "Essa energia, relacionada com a posição inicial do corpo e que se transformou em energia cinética durante o movimento, é denominada energia potencial gravitacional."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Energia Mecânica", "Forças Conservativas"],
     imageNames: []
@@ -423,16 +423,16 @@ createQuestion({
     university: "uepg",
     year: 2017,
     text: {
-      principal: "Em uma estrada plana e horizontal, um veículo trafega com velocidade de 72 km/h, descrevendo uma trajetória curva, cujo raio é 20 metros. Considerando que o coeficiente de atrito entre os pneus e a estrada vale 0,50 e que a massa do veículo é de 1200 kg, assinale o que for correto.",
+      principal: "Em uma estrada plana e horizontal, um veículo trafega com velocidade de 72 $km/h$, descrevendo uma trajetória curva, cujo raio é 20 metros. Considerando que o coeficiente de atrito entre os pneus e a estrada vale 0,50 e que a massa do veículo é de 1200 kg, assinale o que for correto.",
       subItens: []
     },
     options: [
       "Para que o veículo consiga fazer a curva, deve atuar nele uma força centrípeta de 24 x 10³ N.",
       "O veículo não conseguirá fazer a curva na estrada sem derrapar, pois não consegue vencer a força centrípeta.",
       "Caso o raio da curva fosse reduzido pela metade, o veículo ainda não conseguiria fazer a curva e iria derrapar.",
-      "Para que consiga fazer a curva sem derrapar, o veículo deve desenvolver uma velocidade máxima de 36 km/h."
+      "Para que consiga fazer a curva sem derrapar, o veículo deve desenvolver uma velocidade máxima de 36 $km/h$."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Dinâmica do Movimento Circular", "Força de Atrito"],
     imageNames: []
@@ -443,16 +443,16 @@ createQuestion({
     university: "uepg",
     year: 2017,
     text: {
-      principal: "Vem aumentando a presença dos softwares durante as partidas de futebol. No lançamento oblíquo da bola em direção ao gol, foi detectado pelo software, uma velocidade de 30 m/s, formando um ângulo de 45° com a horizontal. Desprezando a resistência do ar, assinale o que for correto.\nAdote: g = 10 m/s²; cos 45° = sen 45° = 0,7",
+      principal: "Vem aumentando a presença dos softwares durante as partidas de futebol. No lançamento oblíquo da bola em direção ao gol, foi detectado pelo software, uma velocidade de 30 $m/s$, formando um ângulo de 45° com a horizontal. Desprezando a resistência do ar, assinale o que for correto.\nAdote: g = 10 $m/s$²; $\\cos$ 45° = $\\sin$ 45° = 0,7",
       subItens: []
     },
     options: [
-      "A velocidade inicial, em módulo, das componentes vertical e horizontal, é igual a 21 m/s.",
-      "Para um instante t = 2s durante o percurso, o módulo da velocidade da bola será de aproximadamente 21 m/s.",
+      "A velocidade inicial, em módulo, das componentes vertical e horizontal, é igual a 21 $m/s$.",
+      "Para um instante t = 2s durante o percurso, o módulo da velocidade da bola será de aproximadamente 21 $m/s$.",
       "A distância horizontal entre o ponto do chute na bola pelo jogador e o ponto em que a mesma cai próxima ao gol é denominado de alcance, e será máximo, para o ângulo de 45°.",
       "Após o chute na bola pelo jogador, o percurso de subida que a bola faz, leva um tempo maior do que o percurso de descida."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Lançamento Oblíquo"],
     imageNames: []
@@ -463,7 +463,7 @@ createQuestion({
     university: "uepg",
     year: 2017,
     text: {
-      principal: "Considere dois móveis de mesma massa que, partindo do repouso, atingem a mesma velocidade de 100 km/h. Para que isso aconteça, deve ser transferida energia ao móvel pelo motor. O primeiro móvel leva 40 segundos para chegar aos 100 km/h e o segundo móvel leva 20 segundos para chegar aos 100 km/h. De acordo com o enunciado, assinale o que for correto.",
+      principal: "Considere dois móveis de mesma massa que, partindo do repouso, atingem a mesma velocidade de 100 $km/h$. Para que isso aconteça, deve ser transferida energia ao móvel pelo motor. O primeiro móvel leva 40 segundos para chegar aos 100 $km/h$ e o segundo móvel leva 20 segundos para chegar aos 100 $km/h$. De acordo com o enunciado, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -472,7 +472,7 @@ createQuestion({
       "O trabalho da força resultante será maior sobre o segundo móvel.",
       "Ambos os móveis sofreram a mesma variação de energia cinética."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Trabalho e Energia", "Potência"],
     imageNames: []
@@ -492,7 +492,7 @@ createQuestion({
       "As mudanças do movimento são proporcionais à força motriz impressa, e se faz segundo a linha reta pela qual se imprime esta força - situação que envolve a 2ª Lei de Newton.",
       "A combustão dos gases provoca uma ejeção destes pela turbina do foguete. O foguete age sobre os gases da combustão, forçando-os verticalmente para baixo, e os gases reagem a essa força, impulsionando o foguete para cima - situação que não envolve a 3ª Lei de Newton."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Leis de Newton"],
     imageNames: []
@@ -512,7 +512,7 @@ createQuestion({
       "Um átomo no estado fundamental que apresenta 20 prótons em seu núcleo tem igual número de elétrons na eletrosfera.",
       "Os átomos pertencentes a elementos de transição interna apresentam elétron de diferenciação com número quântico secundário l =2."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Estrutura Atômica", "Configuração Eletrônica"],
     imageNames: []
@@ -532,7 +532,7 @@ createQuestion({
       "A energia necessária para retirar 1 elétron de um átomo de sódio Na(Z=11) é igual a energia para retirar 1 elétron de um átomo de enxofre S(Z=16), pois ambos são átomos com três camadas eletrônicas.",
       "A família dos Halogênios (Grupo 17 ou 7A) apresenta átomos mais eletronegativos do que os Metais Alcalinos (Grupo 1 ou 1A)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Tabela Periódica", "Propriedades Periódicas"],
     imageNames: []
@@ -552,7 +552,7 @@ createQuestion({
       "O número de massa do elemento D é 33.",
       "O elemento A é isótopo do elemento X."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Atomística", "Relações Atômicas"],
     imageNames: []
@@ -572,7 +572,7 @@ createQuestion({
       "FeCl₃ e FeCl₂ são sais de ferro, denominados cloreto de ferro (III) e cloreto de ferro (II), respectivamente.",
       "CO₂ é a fórmula de um óxido, conhecido como gás carbônico."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Funções Inorgânicas", "Nomenclatura"],
     imageNames: []
@@ -592,7 +592,7 @@ createQuestion({
       "Comparativamente, átomos de sódio são mais eletronegativos do que átomos de cloro.",
       "A dissociação iônica do sulfeto de sódio forma íons sulfeto (S²⁻) e os íons sódio (Na⁺)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Ligações Químicas", "Funções Inorgânicas", "Eletronegatividade"],
     imageNames: []
@@ -612,7 +612,7 @@ createQuestion({
       "f⁻¹(g(10)) + g(f⁻¹(0)) = 0.",
       "[f(x) + g(x)] > 0 para todo x real."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções do 1º grau"],
     imageNames: []
@@ -632,7 +632,7 @@ createQuestion({
       "f(9)-f(-5) < 0.",
       "f(x) > 0 para x no intervalo real x ∈ R - [1,5]."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções do 2º grau"],
     imageNames: []
@@ -648,11 +648,11 @@ createQuestion({
     },
     options: [
       "Existem 128 múltiplos de 7 entre 100 e 1000.",
-      "A soma dos termos da PA (1+n/n, 2+n/n, 3+n/n, ...) é Sn = 3n+2/2.",
+      "A soma dos termos da PA (1+$n/n$, 2+$n/n$, 3+$n/n$, ...) é Sn = 3n+$2/2$.",
       "A soma dos dois primeiros termos de uma PG é 3 e a soma do 2º e 3º termos é -6. Então o primeiro termo dessa PG é -3 e a razão é -2.",
       "x = 3,6 é solução da equação x + 0,1x + 0,01x + 0,001x+... = 40."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Progressão Aritmética", "Progressão Geométrica"],
     imageNames: []
@@ -663,7 +663,7 @@ createQuestion({
     university: "uepg",
     year: 2017,
     text: {
-      principal: "Considere as funções. f(x) = log (x+1) (x² + 3x − 18) g(x) = log (x²-x-12) / (x²-2x+1) h(x) = √2x−1−1 Com relação ao domínio das funções acima, assinale o que for correto.",
+      principal: "Considere as funções. f(x) = $\\log$ (x+1) (x² + 3x − 18) g(x) = $\\log$ (x²-x-12) / (x²-2x+1) h(x) = √2x−1−1 Com relação ao domínio das funções acima, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -672,7 +672,7 @@ createQuestion({
       "(Dh U Dg) ∩ Df = {x ∈ R/ x ≥ 3}.",
       "Df ∩ Dg ∩ Dh = Df ∩ Dg."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções Logarítmicas", "Domínio de Função"],
     imageNames: []
@@ -692,7 +692,7 @@ createQuestion({
       "50 clientes não gostam de cajuzinho.",
       "O número de clientes que gostam apenas de brigadeiro é igual ao número de clientes que gostam de beijinho e brigadeiro."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Conjuntos", "Problemas de Contagem"],
     imageNames: []
@@ -712,7 +712,7 @@ createQuestion({
       "Fontes históricas podem ser visuais, escritas ou orais.",
       "Fotografias, pinturas, gravuras, selos e até mesmo filmes podem ser utilizados como fontes históricas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Historiografia", "Fontes Históricas"],
     imageNames: []
@@ -732,7 +732,7 @@ createQuestion({
       "Do ponto de vista social, o que se verificou durante a República Romana foi a diminuição dos conflitos entre patrícios e plebeus, bem como a redução do número de escravos naquela sociedade.",
       "Devido ao seu caráter pacífico, a República Romana praticamente extinguiu o exército, diminuindo gradativamente a obrigatoriedade do alistamento militar por parte dos plebeus."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Roma Antiga", "República Romana"],
     imageNames: []
@@ -752,7 +752,7 @@ createQuestion({
       "Uma das hipóteses sobre a origem dos povos ameríndios é a de que eles vieram da Ásia e da Oceania, chegando ao continente americano após atravessar o Oceano Pacífico.",
       "Charruas, incas, apaches, maias, esquimós e moicanos são alguns dos povos ameríndios espalhados pelo continente americano."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Povos Indígenas Americanos", "Pré-Colonial"],
     imageNames: []
@@ -772,7 +772,7 @@ createQuestion({
       "O tropeirismo foi uma atividade econômica de grande importância no Paraná do século XIX. A passagem dos tropeiros, em especial pelos Campos Gerais, foi decisiva para o nascimento de diversas vilas e cidades na região.",
       "A abertura (ou colonização) do norte do Paraná ocorreu a partir de meados do século XX e foi baseada em um intenso processo de industrialização, em especial, vinculada ao beneficiamento da madeira e da erva-mate."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História do Paraná"],
     imageNames: []
@@ -792,7 +792,7 @@ createQuestion({
       "Conjunto de leis que vigorou na Babilônia, o Código de Hamurabi era baseado na lei de talião e teve como objetivo unificar regras e punições àquela sociedade.",
       "A região conhecida na antiguidade como Mesopotâmia, ficava entre os rios Nilo e Eufrates."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Mesopotâmia"],
     imageNames: []
@@ -812,7 +812,7 @@ createQuestion({
       "Ocorre devido aos terremotos no mundo, relacionados ao calor interno do manto da Terra.",
       "Corresponde a temperaturas mais elevadas em áreas centrais do que em áreas periféricas de muitas cidades do mundo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Climatologia", "Urbanização"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "Todos os estados do sul do Brasil possuem, atualmente, registro de Mata Atlântica.",
       "Com grande biodiversidade, a Mata Atlântica possui entre suas espécies vegetais o cedro, o pau-brasil e o ipê."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Biogeografia", "Mata Atlântica"],
     imageNames: []
@@ -852,7 +852,7 @@ createQuestion({
       "Bacias hidrográficas são compostas por um rio principal, sem afluentes, que desaguam nos oceanos.",
       "Pluviosidade média é o termo utilizado para calcular a vazão de um rio perene para os oceanos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Hidrografia"],
     imageNames: []
@@ -872,7 +872,7 @@ createQuestion({
       "O Haiti, um dos países mais pobres da América, possui o francês como idioma oficial.",
       "O catolicismo é a principal crença cristã presente no Brasil e no México, ambos na América Latina."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geografia Humana", "Cultural e Regional"],
     imageNames: []
@@ -892,7 +892,7 @@ createQuestion({
       "Forças provenientes do interior da Terra podem gerar movimentos orogênicos, como os dobramentos.",
       "O território onde está localizado o Brasil não sofreu ação de processos do interior da Terra na formação do relevo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geologia", "Geomorfologia"],
     imageNames: []
@@ -912,7 +912,7 @@ createQuestion({
       "Os filósofos pré-socráticos buscavam, por meio do logos (razão), o princípio substancial (a arché, em grego) existente entre todos os seres materiais.",
       "O mito busca explicar verdades nas reflexões de regras universais, podendo assim, caracterizar-se por um conhecimento de base científica."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Introdução à Filosofia", "Pré-Socráticos"],
     imageNames: []
@@ -932,7 +932,7 @@ createQuestion({
       "O ato de admiração, questionamento e problematização das coisas que parecem óbvias, é caracterizado como uma virtude filosófica, representada pela busca incessante pelo saber racional.",
       "O pensamento filosófico, iniciado na Grécia antiga, trouxe como princípio o saber racional (logos)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Natureza da Filosofia", "Filosofia Antiga"],
     imageNames: []
@@ -952,7 +952,7 @@ createQuestion({
       "Parmênides de Eleia se opôs ao pensamento de Heráclito, afirmando que só podemos pensar sobre aquilo que permanece idêntico.",
       "O conceito devir, destacado no pensamento de Heráclito, seria uma maneira de provocar a continuidade de um ciclo que poderia ser extensivo a todas as coisas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Pré-Socráticos"],
     imageNames: []
@@ -972,7 +972,7 @@ createQuestion({
       "Segundo o filósofo Immanuel Kant, a mente humana é limitada dentro do aspecto de dois mundos: dos fenômenos e dos númenos.",
       "Segundo o racionalismo cartesiano, pode-se afirmar que é apenas por meio dos dados da experiência que o intelecto produz ideias com princípios lógicos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Teoria do Conhecimento", "Empirismo", "Racionalismo"],
     imageNames: []
@@ -992,7 +992,7 @@ createQuestion({
       "No mundo inteligível, as ideias estão classificadas segundo sua importância ontológica.",
       "O verdadeiro conhecimento da realidade só pode ser adquirido por meio do raciocínio."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Platão", "Teoria das Ideias"],
     imageNames: []
@@ -1012,7 +1012,7 @@ createQuestion({
       "Revolução Inglesa, marcada pelo apelo à independência.",
       "Revolução Industrial, marcada pelo avanço científico."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Origem da Sociologia"],
     imageNames: []
@@ -1032,7 +1032,7 @@ createQuestion({
       "Para Durkheim, o suicídio não poderia ser considerado um fato social, por se tratar de uma ação estritamente individual.",
       "São normas e regras individuais que orientam o coletivo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Émile Durkheim", "Fato Social"],
     imageNames: []
@@ -1052,7 +1052,7 @@ createQuestion({
       "Weber via na sociologia a ciência que pretendia interpretar a ação social.",
       "É qualquer ação realizada por um sujeito que tenha sentido determinado exclusivamente pelo próprio sujeito."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Max Weber", "Ação Social"],
     imageNames: []
@@ -1072,7 +1072,7 @@ createQuestion({
       "É um fenômeno histórico, socialmente construído e não \"natural\".",
       "São também crenças, arte, moral, costumes adquiridos pelo homem como membro de uma sociedade."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Cultura"],
     imageNames: []
@@ -1092,7 +1092,7 @@ createQuestion({
       "O Brasil é rico em diversidade cultural.",
       "Etnocentrismo vê, na sua cultura, superioridade entre as demais."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Etnocentrismo", "Diversidade Cultural"],
     imageNames: []
@@ -1112,7 +1112,7 @@ createQuestion({
       "\"like leaves blown by the wind.\"",
       "\"like leaves falling on the ground.\""
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação Textual"],
     imageNames: []
@@ -1132,7 +1132,7 @@ createQuestion({
       "Borboletas, as mais variadas, convivem por toda parte da floresta com grilos que servem de alimento para elas.",
       "DeVries compara o voo das Haeterini com folhas que flutuam em uma correnteza."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação Textual"],
     imageNames: []
@@ -1152,7 +1152,7 @@ createQuestion({
       "O ground effect aumenta a capacidade de flutuar e diminui o empuxo para baixo.",
       "É um fenômeno que ocorre quando asas estão próximas de uma superfície fixa."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -1172,7 +1172,7 @@ createQuestion({
       "DeVries e seus colegas perceberam que todas as espécies de borboletas Haeterini, exceto uma, voam rente ao chão.",
       "Em florestas neotropicais não se encontram essas borboletas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -1192,7 +1192,7 @@ createQuestion({
       "No contexto em que se encontram, todos são adjetivos.",
       "Se retirarmos os afixos, tem-se os termos: tropical (adjetivo), usual (substantivo e adjetivo) e evolution (substantivo)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário", "Gramática"],
     imageNames: []

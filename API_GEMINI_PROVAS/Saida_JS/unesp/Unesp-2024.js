@@ -120,7 +120,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Língua Portuguesa", "Arte"],
-    conteudo: ["Intertextualidade", "Tirinhas/Quadrinhos"],
+    conteudo: ["Intertextualidade", "$Tirinhas/Quadrinhos$"],
     imageNames: []
 }),
 
@@ -351,7 +351,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["História", "Arte", "Sociologia"],
-    conteudo: ["Conflitos Contemporâneos", "Charge/Cartum", "Mídia e Sociedade"],
+    conteudo: ["Conflitos Contemporâneos", "$Charge/Cartum$", "Mídia e Sociedade"],
     imageNames: []
 }),
 
@@ -906,7 +906,7 @@ createQuestion({
     university: "unesp",
     year: 2024,
     text: {
-      principal: "Leia as manchetes. Com o premiado filme \"Parasita\", Coreia do Sul espalha seu \"soft power\" pelo mundo\n\n(https://tab.uol.com.br, 07.11.2019. Adaptado.)\n\nDa banda de música pop \"BTS\" ao filme \"Parasita\", entenda como a Coreia do Sul aplica o \"soft power\"\n\n(www.poder360.com.br, 05.04.2022. Adaptado.)\n\nDa série \"Round 6\" ao estilo musical “K-pop\", cultura sul--coreana é novo vetor do \"soft power\" de Seul\n\n(www.rfi.fr/br, 14.10.2021. Adaptado.)\n\nO \"soft power\" citado nas manchetes corresponde",
+      principal: "Leia as manchetes. Com o premiado filme \"Parasita\", Coreia do Sul espalha seu \"soft power\" pelo mundo\n\n(https://tab.uol.com.br, 07.11.2019. Adaptado.)\n\nDa banda de música pop \"BTS\" ao filme \"Parasita\", entenda como a Coreia do Sul aplica o \"soft power\"\n\n(www.poder360.com.br, 05.04.2022. Adaptado.)\n\nDa série \"Round 6\" ao estilo musical “K-pop\", cultura sul--coreana é novo vetor do \"soft power\" de Seul\n\n(www.rfi.$fr/br$, 14.10.2021. Adaptado.)\n\nO \"soft power\" citado nas manchetes corresponde",
       subItens: []
     },
     options: [
@@ -1002,7 +1002,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Geografia", "Sociologia", "Arte"],
-    conteudo: ["Demografia", "Políticas Públicas", "Charge/Cartum"],
+    conteudo: ["Demografia", "Políticas Públicas", "$Charge/Cartum$"],
     imageNames: []
 }),
 
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "unesp",
     year: 2024,
     text: {
-      principal: "O sistema Li/MnO2 é o exemplo mais representativo das pilhas primárias (de uso único) de lítio.\n\n[IMAGEM]\n\n(www.smartkits.com.br)\n\nEssas pilhas empregam eletrólitos dissolvidos em solventes não aquosos, em recipientes selados. O processo de descarga dessa pilha envolve a reação 4Li + MnO2 → 2Li2O + Mn Essa pilha fornece uma diferença de potencial (voltagem) em torno de 3,0 V à temperatura ambiente, mas mostra excelente desempenho em temperaturas superiores. A grande vantagem das pilhas à base de lítio é a ausência de metais pesados reconhecidamente danosos ao meio ambiente, como mercúrio, cádmio e chumbo. Porém, os perigos relativos à pilha Li/MnO2 são de outra natureza, estando relacionados ao seu descarte e reciclagem. Após a corrosão do invólucro externo, é liberado o solvente não aquoso, inflamável e tóxico. O lítio metálico não reagido, em contato com água e umidade do ar, desprende calor e gás inflamável (hidrogênio), podendo levar à ignição do produto descartado. Por isso, a presença de voltagem residual nesse resíduo é um problema, pois significa a presença de lítio metálico. As características listadas para a pilha de lítio tornam a disposição final inadequada e até mesmo a reciclagem uma operação de risco, pela possibilidade de fogo e explosão.\n\n(Jéssica Frontino Paulino et al. \"Processamento de pilhas Li/MnO2 usadas\". Quim. Nova, vol. 30, 2007. Adaptado.)\n\nPara tornar a reciclagem dessa pilha mais segura, o ideal seria o seu descarregamento completo antes do descarte, evitando assim a",
+      principal: "O sistema $Li/MnO2$ é o exemplo mais representativo das pilhas primárias (de uso único) de lítio.\n\n[IMAGEM]\n\n(www.smartkits.com.br)\n\nEssas pilhas empregam eletrólitos dissolvidos em solventes não aquosos, em recipientes selados. O processo de descarga dessa pilha envolve a reação 4Li + MnO2 → 2Li2O + Mn Essa pilha fornece uma diferença de potencial (voltagem) em torno de 3,0 V à temperatura ambiente, mas mostra excelente desempenho em temperaturas superiores. A grande vantagem das pilhas à base de lítio é a ausência de metais pesados reconhecidamente danosos ao meio ambiente, como mercúrio, cádmio e chumbo. Porém, os perigos relativos à pilha $Li/MnO2$ são de outra natureza, estando relacionados ao seu descarte e reciclagem. Após a corrosão do invólucro externo, é liberado o solvente não aquoso, inflamável e tóxico. O lítio metálico não reagido, em contato com água e umidade do ar, desprende calor e gás inflamável (hidrogênio), podendo levar à ignição do produto descartado. Por isso, a presença de voltagem residual nesse resíduo é um problema, pois significa a presença de lítio metálico. As características listadas para a pilha de lítio tornam a disposição final inadequada e até mesmo a reciclagem uma operação de risco, pela possibilidade de fogo e explosão.\n\n(Jéssica Frontino Paulino et al. \"Processamento de pilhas $Li/MnO2$ usadas\". Quim. Nova, vol. 30, 2007. Adaptado.)\n\nPara tornar a reciclagem dessa pilha mais segura, o ideal seria o seu descarregamento completo antes do descarte, evitando assim a",
       subItens: []
     },
     options: [
@@ -1515,7 +1515,7 @@ createQuestion({
     university: "unesp",
     year: 2024,
     text: {
-      principal: "Analise a tabela, que apresenta valores da entalpia padrão de combustão completa (∆Hº) de três substâncias diferentes.\n\n[TABELA]\n\nA partir desses valores de entalpia de combustão, é possível calcular a entalpia de formação do ácido acético, que é, em kJ/mol, igual a",
+      principal: "Analise a tabela, que apresenta valores da entalpia padrão de combustão completa (∆Hº) de três substâncias diferentes.\n\n[TABELA]\n\nA partir desses valores de entalpia de combustão, é possível calcular a entalpia de formação do ácido acético, que é, em $kJ/mol$, igual a",
       subItens: []
     },
     options: [
@@ -1536,7 +1536,7 @@ createQuestion({
     university: "unesp",
     year: 2024,
     text: {
-      principal: "Água de cal é o nome dado à solução aquosa saturada de cal hidratada [hidróxido de cálcio, Ca(OH)₂]. A concentração dessa solução saturada a 20 °C é de 1,7 g/L. A partir desse dado, estima-se que o valor da constante do produto de solubilidade em água (Kps) nessa temperatura é próximo de",
+      principal: "Água de cal é o nome dado à solução aquosa saturada de cal hidratada [hidróxido de cálcio, Ca(OH)₂]. A concentração dessa solução saturada a 20 °C é de 1,7 $g/L$. A partir desse dado, estima-se que o valor da constante do produto de solubilidade em água (Kps) nessa temperatura é próximo de",
       subItens: []
     },
     options: [
@@ -1620,7 +1620,7 @@ createQuestion({
     university: "unesp",
     year: 2024,
     text: {
-      principal: "Em uma brincadeira, uma pessoa coloca um copo com a boca para baixo, encostada na superfície parada da água de uma piscina e, cuidadosamente, o afunda 2,5 m abaixo da superfície da água, onde mantém o copo em repouso, ainda de boca para baixo, com um pouco de ar aprisionado em seu interior e com um pouco de água que entrou no copo. A figura mostra o copo nessas duas posições.\n\n[IMAGEM]\n\nConsidere o ar um gás ideal e os valores 10³ kg/m³ para a densidade da água da piscina, 10⁵ Pa para a pressão atmosférica local e 10 m/s² para a aceleração da gravidade. Sendo V₁ o volume ocupado pelo ar no copo na posição inicial, V₂ o volume ocupado pelo ar no copo na posição final, e considerando a temperatura do ar dentro do copo constante nesse processo, o valor da razão V₂/V₁ é",
+      principal: "Em uma brincadeira, uma pessoa coloca um copo com a boca para baixo, encostada na superfície parada da água de uma piscina e, cuidadosamente, o afunda 2,5 m abaixo da superfície da água, onde mantém o copo em repouso, ainda de boca para baixo, com um pouco de ar aprisionado em seu interior e com um pouco de água que entrou no copo. A figura mostra o copo nessas duas posições.\n\n[IMAGEM]\n\nConsidere o ar um gás ideal e os valores 10³ $kg/m$³ para a densidade da água da piscina, 10⁵ Pa para a pressão atmosférica local e 10 $m/s$² para a aceleração da gravidade. Sendo V₁ o volume ocupado pelo ar no copo na posição inicial, V₂ o volume ocupado pelo ar no copo na posição final, e considerando a temperatura do ar dentro do copo constante nesse processo, o valor da razão V₂/V₁ é",
       subItens: []
     },
     options: [
@@ -1641,15 +1641,15 @@ createQuestion({
     university: "unesp",
     year: 2024,
     text: {
-      principal: "A escala Brix, com valores expressos em °Bx (graus brix), é uma escala numérica que indica a quantidade de sólidos solúveis em uma solução de sacarose. Essa escala é utilizada na indústria de alimentos para medir a porcentagem aproximada de açúcares em sucos de fruta, vinhos, bebidas carbonatadas etc. Uma solução de 25 °Bx, por exemplo, tem 25 gramas de açúcar de sacarose por 100 gramas da solução. O gráfico mostra a relação entre a escala Brix e o índice de refração absoluto de uma solução de sacarose.\n\n[GRÁFICO]\n\n(www.omega.com. Adaptado.)\n\nConsidere um raio de luz monocromática que, propagando-se pelo ar, incide na superfície que separa o ar de uma solução de sacarose de 40 °Bx. Adotando c = 3 × 10⁸ m/s, quando esse raio refratar-se para a solução de sacarose, terá velocidade de propagação de, aproximadamente,",
+      principal: "A escala Brix, com valores expressos em °Bx (graus brix), é uma escala numérica que indica a quantidade de sólidos solúveis em uma solução de sacarose. Essa escala é utilizada na indústria de alimentos para medir a porcentagem aproximada de açúcares em sucos de fruta, vinhos, bebidas carbonatadas etc. Uma solução de 25 °Bx, por exemplo, tem 25 gramas de açúcar de sacarose por 100 gramas da solução. O gráfico mostra a relação entre a escala Brix e o índice de refração absoluto de uma solução de sacarose.\n\n[GRÁFICO]\n\n(www.$\\omega$.com. Adaptado.)\n\nConsidere um raio de luz monocromática que, propagando-se pelo ar, incide na superfície que separa o ar de uma solução de sacarose de 40 °Bx. Adotando c = 3 × 10⁸ $m/s$, quando esse raio refratar-se para a solução de sacarose, terá velocidade de propagação de, aproximadamente,",
       subItens: []
     },
     options: [
-      "1,0 × 10⁸ m/s.",
-      "2,8 × 10⁸ m/s.",
-      "2,1 x 10⁸ m/s.",
-      "1,2 × 10⁸ m/s.",
-      "0,8 x 10⁸ m/s."
+      "1,0 × 10⁸ $m/s$.",
+      "2,8 × 10⁸ $m/s$.",
+      "2,1 x 10⁸ $m/s$.",
+      "1,2 × 10⁸ $m/s$.",
+      "0,8 x 10⁸ $m/s$."
     ],
     correctAnswer: 2,
     materia: ["Física", "Matemática"],
@@ -1662,7 +1662,7 @@ createQuestion({
     university: "unesp",
     year: 2024,
     text: {
-      principal: "A icterícia, condição bastante comum em recém-nascidos, é caracterizada pela cor amarelada da pele. Esse problema relaciona-se à dificuldade do fígado para metabolizar a bilirrubina, um pigmento gerado pelo metabolismo das células vermelhas do sangue. A principal terapia em uso para icterícia é a fototerapia, com a exposição do recém-nascido a uma fonte luminosa. Devido às propriedades da bilirrubina e da pele, a luz mais efetiva para esse tratamento é a com comprimentos de onda predominantemente entre 425 nm e 475 nm, no espectro da cor azul. Luzes de outras cores, como a verde, têm espectro de emissão fora do espectro de absorção da molécula de bilirrubina. Já a luz ultravioleta emitida pelas lâmpadas de fototerapia é praticamente absorvida em sua totalidade pelo vidro da lâmpada e pela cobertura da unidade de fototerapia.\n\n(Scientia Medica, v. 15, abril/junho de 2005. Adaptado.)\n\nA figura mostra a curva de absorção da bilirrubina em função do comprimento de onda da luz.\n\n[GRÁFICO]\n\n(www.sarda.org.ar. Adaptado.)\n\nAdotando-se c = 3 × 10⁸ m/s, sabendo que 1 nm = 10⁻⁹ m e de acordo com as informações do texto e da figura, tem-se que",
+      principal: "A icterícia, condição bastante comum em recém-nascidos, é caracterizada pela cor amarelada da pele. Esse problema relaciona-se à dificuldade do fígado para metabolizar a bilirrubina, um pigmento gerado pelo metabolismo das células vermelhas do sangue. A principal terapia em uso para icterícia é a fototerapia, com a exposição do recém-nascido a uma fonte luminosa. Devido às propriedades da bilirrubina e da pele, a luz mais efetiva para esse tratamento é a com comprimentos de onda predominantemente entre 425 nm e 475 nm, no espectro da cor azul. Luzes de outras cores, como a verde, têm espectro de emissão fora do espectro de absorção da molécula de bilirrubina. Já a luz ultravioleta emitida pelas lâmpadas de fototerapia é praticamente absorvida em sua totalidade pelo vidro da lâmpada e pela cobertura da unidade de fototerapia.\n\n(Scientia Medica, v. 15, $abril/junho$ de 2005. Adaptado.)\n\nA figura mostra a curva de absorção da bilirrubina em função do comprimento de onda da luz.\n\n[GRÁFICO]\n\n(www.sarda.org.ar. Adaptado.)\n\nAdotando-se c = 3 × 10⁸ $m/s$, sabendo que 1 nm = 10⁻⁹ m e de acordo com as informações do texto e da figura, tem-se que",
       subItens: []
     },
     options: [
@@ -1771,11 +1771,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "0 < n < 1/4",
-      "n < 1/4",
-      "-1/4 < n < 1/4",
-      "n > 1/4",
-      "1/4 < n < 0"
+      "0 < n < $1/4$",
+      "n < $1/4$",
+      "-$1/4$ < n < $1/4$",
+      "n > $1/4$",
+      "$1/4$ < n < 0"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1813,11 +1813,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/3",
-      "2/3",
-      "4/9",
-      "3/8",
-      "5/9"
+      "$1/3$",
+      "$2/3$",
+      "$4/9$",
+      "$3/8$",
+      "$5/9$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1830,7 +1830,7 @@ createQuestion({
     university: "unesp",
     year: 2024,
     text: {
-      principal: "Três insetos da mesma espécie foram introduzidos em um ambiente no instante zero. Sete meses depois, constatou-se que havia uma população de 18000 desses insetos no ambiente. Considere que o modelo de crescimento da população desses insetos é exponencial, dado por f(x) = t•uˣ, em que t e u são constantes reais e f(x) é a população de insetos após x meses do início da cultura. Observe o gráfico da função g(x) = 6000/x, em que x é um número inteiro maior do que 2, e que apresenta os valores aproximados das ordenadas de alguns de seus pontos.\n\n[GRÁFICO]\n\nCom os dados fornecidos, segue que t + u é, aproximadamente,",
+      principal: "Três insetos da mesma espécie foram introduzidos em um ambiente no instante zero. Sete meses depois, constatou-se que havia uma população de 18000 desses insetos no ambiente. Considere que o modelo de crescimento da população desses insetos é exponencial, dado por f(x) = t•uˣ, em que t e u são constantes reais e f(x) é a população de insetos após x meses do início da cultura. Observe o gráfico da função g(x) = $6000/x$, em que x é um número inteiro maior do que 2, e que apresenta os valores aproximados das ordenadas de alguns de seus pontos.\n\n[GRÁFICO]\n\nCom os dados fornecidos, segue que t + u é, aproximadamente,",
       subItens: []
     },
     options: [
@@ -1855,11 +1855,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "77/8 e 30° < α < 31°",
-      "77/6 e 30° < α < 31°",
-      "77/8 e 23° < α < 24°",
-      "77/8 e 26° < α < 27°",
-      "77/6 e 31° < α < 32°"
+      "$77/8$ e 30° < α < 31°",
+      "$77/6$ e 30° < α < 31°",
+      "$77/8$ e 23° < α < 24°",
+      "$77/8$ e 26° < α < 27°",
+      "$77/6$ e 31° < α < 32°"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],

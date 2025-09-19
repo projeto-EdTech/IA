@@ -402,7 +402,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2024,
     text: {
-      principal: "No ano de 1929, o ditador fascista italiano Benito Mussolini e o papa Pio XI assinaram o Tratado de Latrão, que pôs fim a mais de meio século de atrito entre a Santa Sé e o governo italiano, atrito iniciado desde a unificação da Itália em 1870. Sobre o tratado em questão, é correto afirmar:",
+      principal: "No ano de 1929, o ditador fascista italiano Benito Mussolini e o papa Pio $\\xi$ assinaram o Tratado de Latrão, que pôs fim a mais de meio século de atrito entre a Santa Sé e o governo italiano, atrito iniciado desde a unificação da Itália em 1870. Sobre o tratado em questão, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2024,
     text: {
-      principal: "Um escritório comercial funciona em 2 andares e a razão entre o número de funcionários que trabalham no primeiro andar e o\nnúmero de funcionários que trabalham no segundo andar é 3/4. Uma reforma será feita no segundo andar e por isso\n77 funcionários desse andar serão transferidos provisoriamente para o primeiro andar, de maneira que a razão indicada passará\na ser, durante a reforma, igual a 5/3. O número de funcionários desse escritório está compreendido entre:",
+      principal: "Um escritório comercial funciona em 2 andares e a razão entre o número de funcionários que trabalham no primeiro andar e o\nnúmero de funcionários que trabalham no segundo andar é $3/4$. Uma reforma será feita no segundo andar e por isso\n77 funcionários desse andar serão transferidos provisoriamente para o primeiro andar, de maneira que a razão indicada passará\na ser, durante a reforma, igual a $5/3$. O número de funcionários desse escritório está compreendido entre:",
       subItens: []
     },
     options: [
@@ -570,7 +570,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2024,
     text: {
-      principal: "O pentágono ABCDE, de área 89 cm², tem os vértices A, E e C alinhados, conforme mostra a figura.\n[Imagem de um pentágono ABCDE com uma divisão formando um triângulo, ângulo alfa e lado de 10 cm]\nSabendo que tg a = 1/2, o perímetro desse pentágono, em cm, é igual a:",
+      principal: "O pentágono ABCDE, de área 89 cm², tem os vértices A, E e C alinhados, conforme mostra a figura.\n[Imagem de um pentágono ABCDE com uma divisão formando um triângulo, ângulo alfa e lado de 10 cm]\nSabendo que $\\tan$ a = $1/2$, o perímetro desse pentágono, em cm, é igual a:",
       subItens: []
     },
     options: [
@@ -612,15 +612,15 @@ createQuestion({
     university: "puc-campinas",
     year: 2024,
     text: {
-      principal: "O comprimento disponível para decolagem da pista do aeroporto de Viracopos, em Campinas, é de 3200 m. Um avião, cuja velocidade necessária para decolagem é de 80 m/s e que parte do repouso na cabeceira dessa pista, decola com segurança nessa pista se sua aceleração média durante a decolagem for, no mínimo, igual a:",
+      principal: "O comprimento disponível para decolagem da pista do aeroporto de Viracopos, em Campinas, é de 3200 m. Um avião, cuja velocidade necessária para decolagem é de 80 $m/s$ e que parte do repouso na cabeceira dessa pista, decola com segurança nessa pista se sua aceleração média durante a decolagem for, no mínimo, igual a:",
       subItens: []
     },
     options: [
-      "2,0 m/s²",
-      "1,0 m/s²",
-      "1,5 m/s²",
-      "0,5 m/s²",
-      "3,0 m/s²"
+      "2,0 $m/s$²",
+      "1,0 $m/s$²",
+      "1,5 $m/s$²",
+      "0,5 $m/s$²",
+      "3,0 $m/s$²"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -654,7 +654,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2024,
     text: {
-      principal: "Atenção: Para responder às questões de números 32 a 34, considere o texto a seguir.\nAo soprarmos um balão até enchê-lo, a pressão do ar dentro dele é a combinação das pressões parciais de todos os gases\ncontidos no ar expirado, durante a respiração. Na tabela a seguir, encontra-se a composição básica do ar inspirado (ar atmosférico) e\nexpiro durante o processo de respiração.\n[Tabela de Composição de Gases no Ar Inspirado e Expirado]\nDados:\nMassas molares (g/mol):\nH = 1,0;\nO = 16,0;\nMn = 55,0\nVolume molar de qualquer gás, nas CNTP (L/mol):\n22,4\nSabe-se que, depois de cheio, o ar no interior do balão tinha volume igual a 2,5 × 10⁻³ m³, pressão de 1,0 × 10⁵ Pa e\ntemperatura de 27 °C. Sendo a equação de estado dos gases ideais dada por PV=nRT, com R = 8,3 J/mol⋅K,\ndesprezando a quantidade de ar inicialmente dentro do balão e considerando o ar um gás ideal, o número de mols de ar soprado\ndentro do balão foi, aproximadamente:",
+      principal: "Atenção: Para responder às questões de números 32 a 34, considere o texto a seguir.\nAo soprarmos um balão até enchê-lo, a pressão do ar dentro dele é a combinação das pressões parciais de todos os gases\ncontidos no ar expirado, durante a respiração. Na tabela a seguir, encontra-se a composição básica do ar inspirado (ar atmosférico) e\nexpiro durante o processo de respiração.\n[Tabela de Composição de Gases no Ar Inspirado e Expirado]\nDados:\nMassas molares ($g/mol$):\nH = 1,0;\nO = 16,0;\nMn = 55,0\nVolume molar de qualquer gás, nas CNTP ($L/mol$):\n22,4\nSabe-se que, depois de cheio, o ar no interior do balão tinha volume igual a 2,5 × 10⁻³ m³, pressão de 1,0 × 10⁵ Pa e\ntemperatura de 27 °C. Sendo a equação de estado dos gases ideais dada por PV=nRT, com R = 8,3 $J/mol$⋅K,\ndesprezando a quantidade de ar inicialmente dentro do balão e considerando o ar um gás ideal, o número de mols de ar soprado\ndentro do balão foi, aproximadamente:",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2024,
     text: {
-      principal: "Para calcular o volume de solução de NaOH 0,010 mol/L que seria gasto em uma titulação de suco de acerola, um químico\nmediu seu pH encontrando o valor 3. Para titular 25,0 mL desse suco, ele concluiu que gastaria, em mL, um volume da solução\nde NaOH de, aproximadamente:",
+      principal: "Para calcular o volume de solução de NaOH 0,010 $mol/L$ que seria gasto em uma titulação de suco de acerola, um químico\nmediu seu pH encontrando o valor 3. Para titular 25,0 mL desse suco, ele concluiu que gastaria, em mL, um volume da solução\nde NaOH de, aproximadamente:",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2024,
     text: {
-      principal: "Para obter dióxido de manganês eletrolítico, utilizou-se uma solução contendo 115 g/L de íons Mn²⁺, segundo a reação repre-\nsentada por:\nMn²⁺(aq) + 2H₂O(l) → MnO₂(s) + 2H⁺(aq) + H₂(g)\nSabendo que a eficiência do processo foi de 94%, o volume de H₂(g), nas CNTP, obtido da eletrólise total de 1 litro da solução\nfoi de, aproximadamente:\nDados:\nMassas molares (g/mol):\nH = 1,0;\nO = 16,0;\nMn = 55,0\nVolume molar de qualquer gás, nas CNTP (L/mol):\n22,4",
+      principal: "Para obter dióxido de manganês eletrolítico, utilizou-se uma solução contendo 115 $g/L$ de íons Mn²⁺, segundo a reação repre-\nsentada por:\nMn²⁺(aq) + 2H₂O(l) → MnO₂(s) + 2H⁺(aq) + H₂(g)\nSabendo que a eficiência do processo foi de 94%, o volume de H₂(g), nas CNTP, obtido da eletrólise total de 1 litro da solução\nfoi de, aproximadamente:\nDados:\nMassas molares ($g/mol$):\nH = 1,0;\nO = 16,0;\nMn = 55,0\nVolume molar de qualquer gás, nas CNTP ($L/mol$):\n22,4",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2024,
     text: {
-      principal: "De acordo com o padrão de potabilidade de águas para consumo humano, é obrigatória a manutenção de, no mínimo, 0,2 mg/L\nde cloro residual livre ou 2 mg/L de cloro residual combinado ou de 0,2 mg/L de dióxido de cloro em toda a extensão do sistema\nde distribuição (reservatório e rede) e nos pontos de consumo. Considerando a desinfecção feita com o dióxido de cloro, ClO₂, o\nnúmero de moléculas dessa substância que deve existir, para cada litro de água, é de, aproximadamente:\nDados:\nMassas molares (g.mol⁻¹):\nO = 16,0;\nCl = 35,5.\nConstante de Avogadro = 6,0 × 10²³ mol⁻¹.",
+      principal: "De acordo com o padrão de potabilidade de águas para consumo humano, é obrigatória a manutenção de, no mínimo, 0,2 $mg/L$\nde cloro residual livre ou 2 $mg/L$ de cloro residual combinado ou de 0,2 $mg/L$ de dióxido de cloro em toda a extensão do sistema\nde distribuição (reservatório e rede) e nos pontos de consumo. Considerando a desinfecção feita com o dióxido de cloro, ClO₂, o\nnúmero de moléculas dessa substância que deve existir, para cada litro de água, é de, aproximadamente:\nDados:\nMassas molares (g.mol⁻¹):\nO = 16,0;\nCl = 35,5.\nConstante de Avogadro = 6,0 × 10²³ mol⁻¹.",
       subItens: []
     },
     options: [

@@ -43,7 +43,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "O site \"Urban Dictionary\" apresenta definições de palavras\ne expressões que, apesar de serem usadas popularmente,\nainda não foram oficialmente dicionarizadas. O exemplo\nabaixo faz alusão ao Brexit, isto é, à saída do Reino Unido\nda União Europeia.\n\nTOP DEFINITION\nDoing the Brexit\nMaking others aware you're going to leave a party and ending up staying a lot\nlonger than expected. The opposite of a french exit.\nf>\nA: Did Taylor say goodbye to you as well? I swear he was still around 3 hours later.\nB: Yeah. He was doing the brexit.\n#brexit #leaving #party\nby J. Mentos March 29, 2019\n11011\n(Disponível em https://www.urbandictionary.com/define.php?term=Doing%20the%20Brexit.\nAcessado em 11/05/2019.)\n\nCom relação ao exemplo apresentado, entende-se que\nTaylor estava \"fazendo o Brexit\" porque",
+      principal: "O site \"Urban Dictionary\" apresenta definições de palavras\ne expressões que, apesar de serem usadas popularmente,\nainda não foram oficialmente dicionarizadas. O exemplo\nabaixo faz alusão ao Brexit, isto é, à saída do Reino Unido\nda União Europeia.\n\nTOP DEFINITION\nDoing the Brexit\nMaking others aware you're going to leave a party and ending up staying a lot\nlonger than expected. The opposite of a french exit.\nf>\nA: Did Taylor say goodbye to you as well? I swear he was still around 3 hours later.\nB: Yeah. He was doing the brexit.\n#brexit #leaving #party\nby J. Mentos March 29, 2019\n11011\n(Disponível em https://www.urbandictionary.$com/define$.php?term=Doing%20the%20Brexit.\nAcessado em 11/05/2019.)\n\nCom relação ao exemplo apresentado, entende-se que\nTaylor estava \"fazendo o Brexit\" porque",
       subItens: []
     },
     options: [
@@ -83,7 +83,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "A Associação Canadense de Saúde Mental é uma\norganização sem fins lucrativos que combate o estigma\nsobre a saúde mental, promovendo ações em favor de\npessoas que sofrem com doenças dessa natureza. Ο\ncartaz abaixo, direcionado à população em geral, foi\npublicado no site dessa associação.\n\nUse STOP to recognize\nmental health stigma.\n\nDoes the attitude or action:\nStereotype people with mental health conditions?\nTrivialize people with mental health conditions and/or\nthe condition itself?\nOffend people with mental health conditions?\nPatronize people with mental health conditions by\ntreating them as if they were not as good as other people?\n\nSpeak up\nagainst stigma\nCanadian Mental\nHealth Association\nMental health for all\n\n(Disponível em https://ontario.cmha.ca/documents. Acessado em 22/08/2019.)\n\nO cartaz apresentado tem o intuito de",
+      principal: "A Associação Canadense de Saúde Mental é uma\norganização sem fins lucrativos que combate o estigma\nsobre a saúde mental, promovendo ações em favor de\npessoas que sofrem com doenças dessa natureza. Ο\ncartaz abaixo, direcionado à população em geral, foi\npublicado no site dessa associação.\n\nUse STOP to recognize\nmental health stigma.\n\nDoes the attitude or action:\nStereotype people with mental health conditions?\nTrivialize people with mental health conditions $and/or$\nthe condition itself?\nOffend people with mental health conditions?\nPatronize people with mental health conditions by\ntreating them as if they were not as good as other people?\n\nSpeak up\nagainst stigma\nCanadian Mental\nHealth Association\nMental health for all\n\n(Disponível em https://ontario.cmha.$ca/documents$. Acessado em 22/08/2019.)\n\nO cartaz apresentado tem o intuito de",
       subItens: []
     },
     options: [
@@ -123,7 +123,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "John Milton and Freedom of Speech on Campus\nBy Daniel F. Sullivan\nA few years ago, at a seminar meant to help college\npresidents think about the issues they face as campus\nleaders, I read John Milton's Areopagitica: A speech for the\nliberty of unlicensed printing to the parliament of England.\nOriginally published in 1644, Areopagitica makes a\npowerful argument for freedom of speech and against\ncensorship in publishing. After twenty years as a college\npresident, having experienced and observed many calls to\ncensor, I've come to believe that there is not much to know\non the topic beyond what Milton wrote over 350 years ago.\nAreopagitica was published in response \"to Parliament's\nordinance for licensing the press of June 14, 1643.\" The\neffect of the ordinance against which Milton wrote \"was to\ngive Archbishop Laud, who was also Chancellor of the\nUniversity of Oxford, control over every press in England,\nwith power to stop publication of any book contrary to the\nDoctrine of the Church of England.\" This was disturbing to\nMilton, who wrote, \"as good almost kill a man as kill a good\nbook: [he] who kills a man kills a reasonable creature; but\nhe who destroys a good book, kills reason itself.\"\n(Adaptado de https://www.questia.com/magazine/1P3-1048971311/milton-s-areopagitica-freed\nom-of-speech-on-campus. Acessado em 15/05/2019.)\n\nA relação entre o posicionamento do autor do texto e o de\nJohn Milton na publicação mencionada é de",
+      principal: "John Milton and Freedom of Speech on Campus\nBy Daniel F. Sullivan\nA few years ago, at a seminar meant to help college\npresidents think about the issues they face as campus\nleaders, I read John Milton's Areopagitica: A speech for the\nliberty of unlicensed printing to the parliament of England.\nOriginally published in 1644, Areopagitica makes a\npowerful argument for freedom of speech and against\ncensorship in publishing. After twenty years as a college\npresident, having experienced and observed many calls to\ncensor, I've come to believe that there is not much to know\non the topic beyond what Milton wrote over 350 years ago.\nAreopagitica was published in response \"to Parliament's\nordinance for licensing the press of June 14, 1643.\" The\neffect of the ordinance against which Milton wrote \"was to\ngive Archbishop Laud, who was also Chancellor of the\nUniversity of Oxford, control over every press in England,\nwith power to stop publication of any book contrary to the\nDoctrine of the Church of England.\" This was disturbing to\nMilton, who wrote, \"as good almost kill a man as kill a good\nbook: [he] who kills a man kills a reasonable creature; but\nhe who destroys a good book, kills reason itself.\"\n(Adaptado de https://www.questia.com/magazine/1P3-$1048971311/milton$-s-areopagitica-freed\nom-of-speech-on-campus. Acessado em 15/05/2019.)\n\nA relação entre o posicionamento do autor do texto e o de\nJohn Milton na publicação mencionada é de",
       subItens: []
     },
     options: [
@@ -203,7 +203,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "Graças às campanhas de vacinação, a poliomielite foi\nconsiderada erradicada no Brasil: o último caso foi\nregistrado em 1989. Contudo, o Ministério da Saúde\nconstatou cobertura vacinal alarmante (abaixo de 50%) em\n312 municípios brasileiros em 2018. A vacinação é a única\nforma de prevenção da poliomielite; é uma questão de\nresponsabilidade social contemplada no Programa\nNacional de Imunizações do Ministério da Saúde.\n(Fonte: portalms.saude.gov.br/noticias/agencia-saude/43797-ministerio-da-saude-alerta-para-\nbaixas-coberturas-vacinais-para-polio.)\n\nAssinale a alternativa que caracteriza corretamente a\npoliomielite.",
+      principal: "Graças às campanhas de vacinação, a poliomielite foi\nconsiderada erradicada no Brasil: o último caso foi\nregistrado em 1989. Contudo, o Ministério da Saúde\nconstatou cobertura vacinal alarmante (abaixo de 50%) em\n312 municípios brasileiros em 2018. A vacinação é a única\nforma de prevenção da poliomielite; é uma questão de\nresponsabilidade social contemplada no Programa\nNacional de Imunizações do Ministério da Saúde.\n(Fonte: portalms.saude.gov.br/noticias/agencia-$saude/43797$-ministerio-da-saude-alerta-para-\nbaixas-coberturas-vacinais-para-polio.)\n\nAssinale a alternativa que caracteriza corretamente a\npoliomielite.",
       subItens: []
     },
     options: [
@@ -223,7 +223,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "Em um estudo, foram avaliadas quatro amostras\nencontradas em diferentes locais, representados na figura\nabaixo.\n\nAmbiente\nterrestre\nPlataforma continental\nDeclive Plataforma\ncontinental\nabissal\n\n(Adaptado de http://wiki.aapg.org/Temporal_and_environmental_distribution_of_microfossils.\nAcessado em 15/05/2019.)\n\nAmostra A: há foraminíferos, algas e dinoflagelados.\nAmostra B: há pólen e não existem seres marinhos.\nAmostra C: há grande concentração de plâncton.\nAmostra D: há grande concentração de bentos.\n\nAssinale a alternativa que associa corretamente o local de\ncoleta com a característica da amostra.",
+      principal: "Em um estudo, foram avaliadas quatro amostras\nencontradas em diferentes locais, representados na figura\nabaixo.\n\nAmbiente\nterrestre\nPlataforma continental\nDeclive Plataforma\ncontinental\nabissal\n\n(Adaptado de http://wiki.aapg.$org/Temporal_and_environmental_distribution_of_microfossils$.\nAcessado em 15/05/2019.)\n\nAmostra A: há foraminíferos, algas e dinoflagelados.\nAmostra B: há pólen e não existem seres marinhos.\nAmostra C: há grande concentração de plâncton.\nAmostra D: há grande concentração de bentos.\n\nAssinale a alternativa que associa corretamente o local de\ncoleta com a característica da amostra.",
       subItens: []
     },
     options: [
@@ -443,7 +443,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "Moçambique foi atingido por três ciclones tropicais entre\nmarço e abril de 2019. Ciclone tropical é um termo geral\npara grandes e complexas tempestades que giram em\ntorno de uma área de baixa pressão formada em águas\noceânicas tropicais ou subtropicais quentes. A formação de\num ciclone tropical requer enormes quantidades de calor\nna superfície da água, que devem atingir no mínimo\n26,5°C, e ventos de pelo menos 119 km/h em algum ponto\nda tempestade.\n\nA partir do exposto, assinale a alternativa que explica a\ngênese dos ciclones tropicais na costa de Moçambique.",
+      principal: "Moçambique foi atingido por três ciclones tropicais entre\nmarço e abril de 2019. Ciclone tropical é um termo geral\npara grandes e complexas tempestades que giram em\ntorno de uma área de baixa pressão formada em águas\noceânicas tropicais ou subtropicais quentes. A formação de\num ciclone tropical requer enormes quantidades de calor\nna superfície da água, que devem atingir no mínimo\n26,5°C, e ventos de pelo menos 119 $km/h$ em algum ponto\nda tempestade.\n\nA partir do exposto, assinale a alternativa que explica a\ngênese dos ciclones tropicais na costa de Moçambique.",
       subItens: []
     },
     options: [
@@ -663,14 +663,14 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "Um atleta participa de um torneio composto por três\nprovas. Em cada prova, a probabilidade de ele ganhar é de\n2/3, independentemente do resultado das outras provas.\nPara vencer o torneio, é preciso ganhar pelo menos duas\nprovas. A probabilidade de o atleta vencer o torneio é igual\na",
+      principal: "Um atleta participa de um torneio composto por três\nprovas. Em cada prova, a probabilidade de ele ganhar é de\n$2/3$, independentemente do resultado das outras provas.\nPara vencer o torneio, é preciso ganhar pelo menos duas\nprovas. A probabilidade de o atleta vencer o torneio é igual\na",
       subItens: []
     },
     options: [
-      "2/3.",
-      "4/9.",
-      "20/27.",
-      "16/81."
+      "$2/3$.",
+      "$4/9$.",
+      "$20/27$.",
+      "$16/81$."
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -688,8 +688,8 @@ createQuestion({
     },
     options: [
       "a = -1.",
-      "a = -1/2.",
-      "a = 1/2.",
+      "a = -$1/2$.",
+      "a = $1/2$.",
       "a = 1."
     ],
     correctAnswer: 0,
@@ -807,10 +807,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2.",
-      "1/3.",
-      "1/4.",
-      "1/5."
+      "$1/2$.",
+      "$1/3$.",
+      "$1/4$.",
+      "$1/5$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -923,7 +923,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "O Termômetro de Galileu (Figura A) é uma forma criativa\nde se estimar a temperatura ambiente. Ele consiste em\numa coluna de vidro preenchida com um líquido. Em seu\ninterior, são colocadas várias bolas de vidro colorido\ncalibradas e marcadas para a leitura da temperatura. As\nbolas de vidro sobem ou descem em função da\ntemperatura. A sensibilidade do Termômetro de Galileu\nreside na sua capacidade de separar duas leituras de\ntemperaturas. A figura B é um gráfico de densidade em\nfunção da temperatura para água e etanol, dois líquidos\nque poderiam ser usados no termômetro.\n\nDensidade (g/cm³)\nÁgua\n1,005\n1,000\n0,995\n0,990\n0,985\n0,980\n0,975\n0,800\n0,795\nEtanol\n0,790\n0,785\n0,780\n0,775\nFigura A\n10 12 14 16 18 20 22 24 26 28 30\nTemperatura (°C)\nFigura B\n\nDe acordo com essas informações e os conhecimentos de\nquímica, a leitura correta da temperatura do termômetro\nrepresentado na Figura A pode ser indicada pela bola de\nvidro que se situa",
+      principal: "O Termômetro de Galileu (Figura A) é uma forma criativa\nde se estimar a temperatura ambiente. Ele consiste em\numa coluna de vidro preenchida com um líquido. Em seu\ninterior, são colocadas várias bolas de vidro colorido\ncalibradas e marcadas para a leitura da temperatura. As\nbolas de vidro sobem ou descem em função da\ntemperatura. A sensibilidade do Termômetro de Galileu\nreside na sua capacidade de separar duas leituras de\ntemperaturas. A figura B é um gráfico de densidade em\nfunção da temperatura para água e etanol, dois líquidos\nque poderiam ser usados no termômetro.\n\nDensidade ($g/cm$³)\nÁgua\n1,005\n1,000\n0,995\n0,990\n0,985\n0,980\n0,975\n0,800\n0,795\nEtanol\n0,790\n0,785\n0,780\n0,775\nFigura A\n10 12 14 16 18 20 22 24 26 28 30\nTemperatura (°C)\nFigura B\n\nDe acordo com essas informações e os conhecimentos de\nquímica, a leitura correta da temperatura do termômetro\nrepresentado na Figura A pode ser indicada pela bola de\nvidro que se situa",
       subItens: []
     },
     options: [
@@ -983,7 +983,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "Um medicamento se apresenta na forma de comprimidos\nde 750 mg ou como suspensão oral na concentração de\n100 mg/mL. A bula do remédio informa que o comprimido\nnão pode ser partido, aberto ou mastigado e que, para\ncrianças abaixo de 12 anos, a dosagem máxima é de 15\nmg/kg/dose. Considerando apenas essas informações,\nconclui-se que uma criança de 11 anos, pesando 40 kg,\npoderia ingerir com segurança, no máximo,",
+      principal: "Um medicamento se apresenta na forma de comprimidos\nde 750 mg ou como suspensão oral na concentração de\n100 $mg/mL$. A bula do remédio informa que o comprimido\nnão pode ser partido, aberto ou mastigado e que, para\ncrianças abaixo de 12 anos, a dosagem máxima é de 15\nmg/kg/dose. Considerando apenas essas informações,\nconclui-se que uma criança de 11 anos, pesando 40 kg,\npoderia ingerir com segurança, no máximo,",
       subItens: []
     },
     options: [
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "Texto I\nOs idiomas e suas regras são coisas vivas, que vão se\nmodificando de maneira dinâmica, de acordo com o\nmomento em que a sociedade vive. Um exemplo disso é a\nadoção do termo \"maratonar\", quando os telespectadores\npodem assistir a vários ou a todos os episódios de uma\nsérie de uma só vez. Contudo, ao que parece, a plataforma\nNetflix não quer mais estar associada à \"maratona\" de\nséries. A maior razão seria a tendência atual que as\ngigantes da tecnologia têm seguido para evitar o consumo\nexcessivo e melhorar a saúde dos usuários.\n(Adaptado de Claudio Yuge, \"Você notou? Netflix parece estar evitando o termo 'maratonar'.\"\nDisponível em https://www.tecmundo.com.br/ internet/133690-voce-notou-net flix-parece-\nevitando-termo-maratonar.htm. Acessado em 01/06/2019.)\n\nTexto II\nACABEI DE\nMARATONAR\nUMA SÉRIE, VÓ!\n\"MARATONOU\nHUNF!\nWILLTIRANDO.Com.BR\nM\nSOU DO TEMPO EM\nQUE MARATONA\nSİGNİFİCAVA\n\"PROVA DE RESİS-\nTÊNCIA E ESFORÇO\nFÍSICO\"...\n...E NÃO\n\"FICAR O DIA\nTODO NO SOFÁ\nVENDO TV!\n(Disponível em http://www.willtirando.com.br/anesia-417/. Acessado em 01/06/2019.)\n\nEmbora os dois textos tratem do termo \"maratonar\" a partir\nde perspectivas distintas, é possível afirmar que o Texto II\nretoma aspectos apresentados no Texto I porque",
+      principal: "Texto I\nOs idiomas e suas regras são coisas vivas, que vão se\nmodificando de maneira dinâmica, de acordo com o\nmomento em que a sociedade vive. Um exemplo disso é a\nadoção do termo \"maratonar\", quando os telespectadores\npodem assistir a vários ou a todos os episódios de uma\nsérie de uma só vez. Contudo, ao que parece, a plataforma\nNetflix não quer mais estar associada à \"maratona\" de\nséries. A maior razão seria a tendência atual que as\ngigantes da tecnologia têm seguido para evitar o consumo\nexcessivo e melhorar a saúde dos usuários.\n(Adaptado de Claudio Yuge, \"Você notou? Netflix parece estar evitando o termo 'maratonar'.\"\nDisponível em https://www.tecmundo.com.br/ $internet/133690$-voce-notou-net flix-parece-\nevitando-termo-maratonar.htm. Acessado em 01/06/2019.)\n\nTexto II\nACABEI DE\nMARATONAR\nUMA SÉRIE, VÓ!\n\"MARATONOU\nHUNF!\nWILLTIRANDO.Com.BR\nM\nSOU DO TEMPO EM\nQUE MARATONA\nSİGNİFİCAVA\n\"PROVA DE RESİS-\nTÊNCIA E ESFORÇO\nFÍSICO\"...\n...E NÃO\n\"FICAR O DIA\nTODO NO SOFÁ\nVENDO TV!\n(Disponível em http://www.willtirando.com.$br/anesia$-417/. Acessado em 01/06/2019.)\n\nEmbora os dois textos tratem do termo \"maratonar\" a partir\nde perspectivas distintas, é possível afirmar que o Texto II\nretoma aspectos apresentados no Texto I porque",
       subItens: []
     },
     options: [
@@ -1323,7 +1323,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "Texto I\n\nGo Equal @GoEqual_13 de jun\n#BRAXAUS não é a única rivalidadade que\nas mulheres têm de enfrentar no esporte hoje.\nMarta está jogando com uma chuteira\nsem patrocínio e com um símbolo pela\nequidade no esporte.\n\nTexto II\nO que levou Marta, seis vezes a melhor do mundo, a enfrentar\na Austrália de chuteiras pretas? Adianto, não foi o futebol\n\"raiz\". Marta não fechou patrocínio com nenhuma das gigantes\ndo mercado esportivo. Não recebeu nenhuma proposta à\naltura do seu futebol. Isso diz muito sobre o machismo no\nesporte. A partir disso, a atleta decidiu calçar a luta pela\ndiversidade.\n(Fonte: https://www.hypeness.com.br/2019/06/chuteira-sem-logo-e-com-simbolo-de-igualdade\n-de-genero-foi-mais-um-golaco-de-marta/. Acessado em 18/06/2019.)\n\nConsiderando o tweet e o texto acima, é correto afirmar\nque a atleta",
+      principal: "Texto I\n\nGo Equal @$GoEqual_13$ de jun\n#BRAXAUS não é a única rivalidadade que\nas mulheres têm de enfrentar no esporte hoje.\nMarta está jogando com uma chuteira\nsem patrocínio e com um símbolo pela\nequidade no esporte.\n\nTexto II\nO que levou Marta, seis vezes a melhor do mundo, a enfrentar\na Austrália de chuteiras pretas? Adianto, não foi o futebol\n\"raiz\". Marta não fechou patrocínio com nenhuma das gigantes\ndo mercado esportivo. Não recebeu nenhuma proposta à\naltura do seu futebol. Isso diz muito sobre o machismo no\nesporte. A partir disso, a atleta decidiu calçar a luta pela\ndiversidade.\n(Fonte: https://www.hypeness.com.br/2019/06/chuteira-sem-logo-e-com-simbolo-de-igualdade\n-de-genero-foi-mais-um-golaco-de-marta/. Acessado em 18/06/2019.)\n\nConsiderando o tweet e o texto acima, é correto afirmar\nque a atleta",
       subItens: []
     },
     options: [
@@ -1403,7 +1403,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "As agências espaciais NASA (norte-americana) e ESA\n(europeia) desenvolvem um projeto para desviar a\ntrajetória de um asteroide através da colisão com uma\nsonda especialmente enviada para esse fim. A previsão é\nque a sonda DART (do inglês, \"Teste de Redirecionamento\nde Asteroides Duplos\") será lançada com a finalidade de se\nchocar, em 2022, com Didymoon, um pequeno asteroide\nque orbita um asteroide maior chamado Didymos.\n\nA massa da sonda DART será de msonda = 300 kg, e ela\ndeverá ter a velocidade V sonda = 6 km/s imediatamente\nantes de atingir Didymoon. Assim, a energia cinética da\nsonda antes da colisão será igual a",
+      principal: "As agências espaciais NASA (norte-americana) e ESA\n(europeia) desenvolvem um projeto para desviar a\ntrajetória de um asteroide através da colisão com uma\nsonda especialmente enviada para esse fim. A previsão é\nque a sonda DART (do inglês, \"Teste de Redirecionamento\nde Asteroides Duplos\") será lançada com a finalidade de se\nchocar, em 2022, com Didymoon, um pequeno asteroide\nque orbita um asteroide maior chamado Didymos.\n\nA massa da sonda DART será de msonda = 300 kg, e ela\ndeverá ter a velocidade V sonda = 6 $km/s$ imediatamente\nantes de atingir Didymoon. Assim, a energia cinética da\nsonda antes da colisão será igual a",
       subItens: []
     },
     options: [
@@ -1447,10 +1447,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "8,0×10¹ km/h².",
-      "4,0×10¹ km/h².",
-      "3,125×10¹ km/h².",
-      "6,667×10-2 km/h²."
+      "8,0×10¹ $km/h$².",
+      "4,0×10¹ $km/h$².",
+      "3,125×10¹ $km/h$².",
+      "6,667×10-2 $km/h$²."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1467,9 +1467,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "F₁ cos p = Fcos0 e F₁ send₄ + F send = mg.",
-      "Fp sen op = F sende F₁ cos0p + F cosec = mg.",
-      "Fp cos p = F¿cosde_F₄ + F = mg.",
+      "F₁ $\\cos$ p = Fcos0 e F₁ send₄ + F send = mg.",
+      "Fp $\\sin$ op = F sende F₁ cos0p + F cosec = mg.",
+      "Fp $\\cos$ p = F¿$\\cosde_F$₄ + F = mg.",
       "F = Fe Fp send + F send = mg."
     ],
     correctAnswer: 0,
@@ -1483,7 +1483,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "O CO2 dissolvido em bebidas carbonatadas, como\nrefrigerantes e cervejas, é o responsável pela formação da\nespuma nessas bebidas e pelo aumento da pressão\ninterna das garrafas, tornando-a superior à pressão\natmosférica. O volume de gás no \"pescoço” de uma garrafa\ncom uma bebida carbonatada a 7°C é igual a 24 ml, e a\npressão no interior da garrafa é de 2,8×105 Pa. Trate o\ngás do \"pescoço” da garrafa como um gás perfeito.\nConsidere que a constante universal dos gases é de\naproximadamente 8 J/mol K e que as temperaturas nas\nescalas Kelvin e Celsius relacionam-se da forma\nT(K) = θ(°C)+273. O número de moles de gás no\n\"pescoço” da garrafa é igual a",
+      principal: "O CO2 dissolvido em bebidas carbonatadas, como\nrefrigerantes e cervejas, é o responsável pela formação da\nespuma nessas bebidas e pelo aumento da pressão\ninterna das garrafas, tornando-a superior à pressão\natmosférica. O volume de gás no \"pescoço” de uma garrafa\ncom uma bebida carbonatada a 7°C é igual a 24 ml, e a\npressão no interior da garrafa é de 2,8×105 Pa. Trate o\ngás do \"pescoço” da garrafa como um gás perfeito.\nConsidere que a constante universal dos gases é de\naproximadamente 8 $J/mol$ K e que as temperaturas nas\nescalas Kelvin e Celsius relacionam-se da forma\nT(K) = θ(°C)+273. O número de moles de gás no\n\"pescoço” da garrafa é igual a",
       subItens: []
     },
     options: [
@@ -1563,14 +1563,14 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "Em analogia com um circuito elétrico, a transpiração foliar\né regulada pelo conjunto de resistências (medidas em\nsegundos/metro) existentes na rota do vapor d'água entre\nos sítios de evaporação próximos à parede celular no\ninterior da folha e a atmosfera. Simplificadamente, há as\nresistências dos espaços intercelulares de ar (reia), as\ninduzidas pela presença dos estômatos (rest) e da cutícula\n(rcut) e a promovida pela massa de ar próxima à superfície\ndas folhas (ra). O esquema abaixo representa as\nresistências mencionadas.\n\nSítio de reia rest\nEvaporação\nrcl\nAtmosfera\nrcut C\n\nA tabela a seguir apresenta os valores das resistências de\nduas espécies de plantas (espécie 1 e espécie 2).\n\nResistências\n(segundos/metro)\nreia\nrest\nrcut\nrcl\nEspécie\n1\n10\n30\n120\n50\nEspécie\n2\n30\n10\n280\n15\n\nTendo em vista os dados apresentados e considerando\nque a condutância é o inverso da resistência, assinale a\nalternativa que indica a espécie com menor transpiração e\nsua respectiva condutância total à difusão do vapor d'água\nentre os sítios de evaporação e a atmosfera.",
+      principal: "Em analogia com um circuito elétrico, a transpiração foliar\né regulada pelo conjunto de resistências (medidas em\n$segundos/metro$) existentes na rota do vapor d'água entre\nos sítios de evaporação próximos à parede celular no\ninterior da folha e a atmosfera. Simplificadamente, há as\nresistências dos espaços intercelulares de ar (reia), as\ninduzidas pela presença dos estômatos (rest) e da cutícula\n(rcut) e a promovida pela massa de ar próxima à superfície\ndas folhas (ra). O esquema abaixo representa as\nresistências mencionadas.\n\nSítio de reia rest\nEvaporação\nrcl\nAtmosfera\nrcut C\n\nA tabela a seguir apresenta os valores das resistências de\nduas espécies de plantas (espécie 1 e espécie 2).\n\nResistências\n($segundos/metro$)\nreia\nrest\nrcut\nrcl\nEspécie\n1\n10\n30\n120\n50\nEspécie\n2\n30\n10\n280\n15\n\nTendo em vista os dados apresentados e considerando\nque a condutância é o inverso da resistência, assinale a\nalternativa que indica a espécie com menor transpiração e\nsua respectiva condutância total à difusão do vapor d'água\nentre os sítios de evaporação e a atmosfera.",
       subItens: []
     },
     options: [
-      "espécie 1; 48 x 104 m/s.",
-      "espécie 1; 125 x 104 m/s.",
-      "espécie 2; 30 x 104 m/s.",
-      "espécie 2; 200 x 10 m/s."
+      "espécie 1; 48 x 104 $m/s$.",
+      "espécie 1; 125 x 104 $m/s$.",
+      "espécie 2; 30 x 104 $m/s$.",
+      "espécie 2; 200 x 10 $m/s$."
     ],
     correctAnswer: 1,
     materia: ["Biologia"],
@@ -1583,7 +1583,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "\"(...) as palavras tomam significados distintos daqueles\nutilizados no cotidiano. Por exemplo, utiliza-se, com\nfrequência, nas aulas sobre frações, a frase reduzir ao\nmesmo denominador.\"\n(Edi Jussara Candido Lorensatti, Linguagem matemática e Língua Portuguesa: esa: diálogo\nnecessário na resolução de problemas matemáticos. Conjectura: Filosofia e Educação.\nCaxias do Sul, v. 14, n. 2, p. 91, maio/ago. 2009.)\n\nCada ciência usa uma linguagem própria e com um grau\nde precisão terminológica necessário para o seu exercício.\nTendo em vista os significados distintos que as palavras\nassumem nas situações concretas em que são\nempregadas, o verbo \"reduzir\", no uso cotidiano, significa",
+      principal: "\"(...) as palavras tomam significados distintos daqueles\nutilizados no cotidiano. Por exemplo, utiliza-se, com\nfrequência, nas aulas sobre frações, a frase reduzir ao\nmesmo denominador.\"\n(Edi Jussara Candido Lorensatti, Linguagem matemática e Língua Portuguesa: esa: diálogo\nnecessário na resolução de problemas matemáticos. Conjectura: Filosofia e Educação.\nCaxias do Sul, v. 14, n. 2, p. 91, $maio/ago$. 2009.)\n\nCada ciência usa uma linguagem própria e com um grau\nde precisão terminológica necessário para o seu exercício.\nTendo em vista os significados distintos que as palavras\nassumem nas situações concretas em que são\nempregadas, o verbo \"reduzir\", no uso cotidiano, significa",
       subItens: []
     },
     options: [
@@ -1663,7 +1663,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "Em 1516, Thomas Morus criou a ideia de utopia, ao\ndescrever uma ilha imaginária. Surgia um gênero literário,\nassociado à história, à filosofia e à política. A lógica dessa\nideia levou à construção de critérios universalmente válidos\npara cada atividade, com normas e códigos. Surgiram\nassim os tratados sobre o perfeito cortesão, sobre o\nperfeito homem do mundo, sobre a cidade perfeita.\n(Adaptado de Carlos Eduardo O. Berriel, \"Cidades Utópicas do Renascimento\". Ciência e\nCultura, São Paulo, v. 56, n. 2. abr./jun. 2004. Disponível em http://cienciaecultura.bvs.br\n/scielo.php?script=sci_arttext&pid=S0009-67252004000200021.)\n\nConsiderando o texto acima e seus conhecimentos,\nassinale a alternativa correta.",
+      principal: "Em 1516, Thomas Morus criou a ideia de utopia, ao\ndescrever uma ilha imaginária. Surgia um gênero literário,\nassociado à história, à filosofia e à política. A lógica dessa\nideia levou à construção de critérios universalmente válidos\npara cada atividade, com normas e códigos. Surgiram\nassim os tratados sobre o perfeito cortesão, sobre o\nperfeito homem do mundo, sobre a cidade perfeita.\n(Adaptado de Carlos Eduardo O. Berriel, \"Cidades Utópicas do Renascimento\". Ciência e\nCultura, São Paulo, v. 56, n. 2. abr./jun. 2004. Disponível em http://cienciaecultura.bvs.br\n/scielo.php?script=$sci_arttext$&pid=S0009-67252004000200021.)\n\nConsiderando o texto acima e seus conhecimentos,\nassinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1683,7 +1683,7 @@ createQuestion({
     university: "unicamp",
     year: 2020,
     text: {
-      principal: "Na América Portuguesa do século XVI, a política europeia\npara os indígenas pressupunha também a existência de\numa política indígena frente aos europeus, já que os\nTamoios e os Tupiniquins tinham seus próprios motivos\npara se aliarem aos franceses ou aos portugueses.\n(Adaptado de Manuela Carneiro da Cunha, Introdução a uma história indígena. São Paulo:\nCompanhia das Letras/Fapesp, 1992, p. 18.)\n\nCom base no excerto e nos seus conhecimentos sobre os\nprimeiros contatos entre europeus e indígenas no Brasil,\nassinale a alternativa correta.",
+      principal: "Na América Portuguesa do século XVI, a política europeia\npara os indígenas pressupunha também a existência de\numa política indígena frente aos europeus, já que os\nTamoios e os Tupiniquins tinham seus próprios motivos\npara se aliarem aos franceses ou aos portugueses.\n(Adaptado de Manuela Carneiro da Cunha, Introdução a uma história indígena. São Paulo:\nCompanhia das $Letras/Fapesp$, 1992, p. 18.)\n\nCom base no excerto e nos seus conhecimentos sobre os\nprimeiros contatos entre europeus e indígenas no Brasil,\nassinale a alternativa correta.",
       subItens: []
     },
     options: [

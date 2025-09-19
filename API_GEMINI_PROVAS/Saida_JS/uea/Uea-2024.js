@@ -45,7 +45,7 @@ createQuestion({
     university: "uea",
     year: 2024,
     text: {
-      principal: "Para responder às questões de 03 a 07, leia o trecho do \"Sermão do bom ladrão\", de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655. Assim como Cristo, Senhor nosso, disse a Dimas¹: \"Hoje serás comigo no Paraíso\", assim disse a Zaqueu²: \"Hoje entrou a salvação nesta tua casa\". Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, senão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença. (Antônio Vieira. Essencial, 2011. Adaptado.) 1 Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano. Segundo Antônio Vieira, Jesus Cristo não prometeu logo a salvação a Zaqueu porque este",
+      principal: "Para responder às questões de 03 a 07, leia o trecho do \"Sermão do bom ladrão\", de Antônio Vieira, pregado na Igreja da Misericórdia de Lisboa, no ano de 1655. Assim como Cristo, Senhor nosso, disse a Dimas¹: \"Hoje serás comigo no Paraíso\", assim disse a Zaqueu²: \"Hoje entrou a salvação nesta tua casa\". Mas o que muito se deve notar, é que a Dimas prometeu-lhe o Senhor a salvação logo, e a Zaqueu não logo, $\\sin$ão muito depois. E por que, se ambos eram ladrões, e ambos convertidos? Porque Dimas era ladrão pobre, e não tinha com que restituir o que roubara; Zaqueu era ladrão rico, e tinha muito com que restituir, diz o evangelista. E ainda que ele o não dissera, o estado de um e outro ladrão o declarava assaz. Por quê? Porque Dimas era ladrão condenado e se ele fora rico, claro está que não havia de chegar à forca; porém Zaqueu era ladrão tolerado, e a sua mesma riqueza era a imunidade que tinha para roubar sem castigo, e ainda sem culpa. E como Dimas era ladrão pobre, e não tinha com que restituir, também não tinha impedimento a sua salvação, e por isso Cristo lha concedeu no mesmo momento. Pelo contrário: Zaqueu como era ladrão rico, e tinha muito com que restituir, não lhe podia Cristo segurar a salvação antes que restituísse, e por isso lhe dilatou a promessa. A mesma narração do Evangelho é a melhor prova desta diferença. (Antônio Vieira. Essencial, 2011. Adaptado.) 1 Dimas, conhecido como “o bom ladrão”, foi um dos ladrões crucificados ao lado de Jesus Cristo. 2 Zaqueu era um coletor de impostos corrupto. Os coletores de impostos eram odiados pelos seus compatriotas judeus, que os viam como traidores trabalhando para o Império Romano. Segundo Antônio Vieira, Jesus Cristo não prometeu logo a salvação a Zaqueu porque este",
       subItens: []
     },
     options: [
@@ -492,7 +492,7 @@ createQuestion({
     options: [
       "formação de tecnopolos, com o controle de bens de consumo.",
       "substituição de importação, com o fornecimento de gêneros agropecuários.",
-      "instalação de centros logísticos, com a isenção de impostos.",
+      "instalação de centros $\\log$ísticos, com a isenção de impostos.",
       "criação de áreas de livre comércio, com a disponibilidade de mão de obra barata.",
       "difusão das exportações, com a instalação de empresas multinacionais."
     ],
@@ -759,15 +759,15 @@ createQuestion({
     university: "uea",
     year: 2024,
     text: {
-      principal: "Bianca ganhou uma coleção com 264 revistas em quadrinhos e, após uma semana de leitura dessas revistas, a razão entre o número de revistas que ela leu para o número de revistas que não leu era 3/8. Na semana seguinte, ela leu, dessa coleção, 27 revistas que ainda não tinha lido, de maneira que a razão entre o número de revistas que Bianca leu para o número de revistas que não leu passou a ser",
+      principal: "Bianca ganhou uma coleção com 264 revistas em quadrinhos e, após uma semana de leitura dessas revistas, a razão entre o número de revistas que ela leu para o número de revistas que não leu era $3/8$. Na semana seguinte, ela leu, dessa coleção, 27 revistas que ainda não tinha lido, de maneira que a razão entre o número de revistas que Bianca leu para o número de revistas que não leu passou a ser",
       subItens: []
     },
     options: [
-      "1/3",
-      "2/3",
-      "3/4",
-      "3/5",
-      "4/5"
+      "$1/3$",
+      "$2/3$",
+      "$3/4$",
+      "$3/5$",
+      "$4/5$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -805,11 +805,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "f(x) = -2x/5 + 4/5",
+      "f(x) = -$2x/5$ + $4/5$",
       "f(x) = -3x + 2",
       "f(x) = -3x - 2",
-      "f(x) = 3x/5 + 2/5",
-      "f(x) = -3x/5 + 2/5"
+      "f(x) = $3x/5$ + $2/5$",
+      "f(x) = -$3x/5$ + $2/5$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -864,7 +864,7 @@ createQuestion({
     university: "uea",
     year: 2024,
     text: {
-      principal: "Considere que em uma circunferência de raio R está inscrito um triângulo que tenha um ângulo de medida α oposto a um lado do triângulo de medida l, conforme figura 1. A lei dos senos afirma que l = 2R sen α. (FIGURA 1: Círculo com um triângulo inscrito, mostrando o raio R, um lado l e o ângulo α oposto a l.) Um triângulo que tem um lado de medida aproximadamente igual a 7,9 cm está inscrito em uma circunferência de raio 4 cm, conforme mostra a figura 2. (FIGURA 2: Círculo com um triângulo inscrito. Um lado do triângulo mede 7,9 cm. O ângulo oposto a este lado é de 30°. Outro ângulo do triângulo é identificado como β. O raio da circunferência é 4 cm.) Sabendo que sen β = √15/16, o perímetro do triângulo da figura 2 é, aproximadamente,",
+      principal: "Considere que em uma circunferência de raio R está inscrito um triângulo que tenha um ângulo de medida α oposto a um lado do triângulo de medida l, conforme figura 1. A lei dos senos afirma que l = 2R $\\sin$ α. (FIGURA 1: Círculo com um triângulo inscrito, mostrando o raio R, um lado l e o ângulo α oposto a l.) Um triângulo que tem um lado de medida aproximadamente igual a 7,9 cm está inscrito em uma circunferência de raio 4 cm, conforme mostra a figura 2. (FIGURA 2: Círculo com um triângulo inscrito. Um lado do triângulo mede 7,9 cm. O ângulo oposto a este lado é de 30°. Outro ângulo do triângulo é identificado como β. O raio da circunferência é 4 cm.) Sabendo que $\\sin$ β = √$15/16$, o perímetro do triângulo da figura 2 é, aproximadamente,",
       subItens: []
     },
     options: [
@@ -931,11 +931,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5 km/h.",
-      "7 km/h.",
-      "9 km/h.",
-      "12 km/h.",
-      "15 km/h."
+      "5 $km/h$.",
+      "7 $km/h$.",
+      "9 $km/h$.",
+      "12 $km/h$.",
+      "15 $km/h$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -948,15 +948,15 @@ createQuestion({
     university: "uea",
     year: 2024,
     text: {
-      principal: "Um escorregador foi encerado como medida de proteção contra intempéries e como consequência sua superfície ficou extremamente lisa. Considere que uma criança, ao brincar nesse escorregador, inicie sua descida com velocidade nula a partir do topo do escorregador, a 2,45 m de distância do chão. Admitindo que a aceleração da gravidade seja 10 m/s² e que não houve atrito entre a criança e o escorregador, a velocidade escalar de chegada da criança ao chão foi de",
+      principal: "Um escorregador foi encerado como medida de proteção contra intempéries e como consequência sua superfície ficou extremamente lisa. Considere que uma criança, ao brincar nesse escorregador, inicie sua descida com velocidade nula a partir do topo do escorregador, a 2,45 m de distância do chão. Admitindo que a aceleração da gravidade seja 10 $m/s$² e que não houve atrito entre a criança e o escorregador, a velocidade escalar de chegada da criança ao chão foi de",
       subItens: []
     },
     options: [
-      "3 m/s.",
-      "4 m/s.",
-      "5 m/s.",
-      "7 m/s.",
-      "9 m/s."
+      "3 $m/s$.",
+      "4 $m/s$.",
+      "5 $m/s$.",
+      "7 $m/s$.",
+      "9 $m/s$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -994,11 +994,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "0,1 m/s².",
-      "0,2 m/s².",
-      "0,4 m/s².",
-      "1,2 m/s².",
-      "1,8 m/s²."
+      "0,1 $m/s$².",
+      "0,2 $m/s$².",
+      "0,4 $m/s$².",
+      "1,2 $m/s$².",
+      "1,8 $m/s$²."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "uea",
     year: 2024,
     text: {
-      principal: "Um navio em repouso emite um bip de sonar para detectar a profundidade do fundo do oceano e recebe o reflexo desse bip 0,4 s após sua emissão, conforme ilustrado na figura. (Imagem: Diagrama de um navio no oceano, com um bip sendo emitido para baixo e um bip refletido sendo recebido, indicando o trajeto do som.) Sabendo que a velocidade de propagação do som na água é de 1450 m/s, o fundo do oceano, no local abaixo do ponto em que o navio se encontra, está à profundidade de",
+      principal: "Um navio em repouso emite um bip de sonar para detectar a profundidade do fundo do oceano e recebe o reflexo desse bip 0,4 s após sua emissão, conforme ilustrado na figura. (Imagem: Diagrama de um navio no oceano, com um bip sendo emitido para baixo e um bip refletido sendo recebido, indicando o trajeto do som.) Sabendo que a velocidade de propagação do som na água é de 1450 $m/s$, o fundo do oceano, no local abaixo do ponto em que o navio se encontra, está à profundidade de",
       subItens: []
     },
     options: [
@@ -1116,7 +1116,7 @@ createQuestion({
     university: "uea",
     year: 2024,
     text: {
-      principal: "Uma cooperativa de reciclagem de resíduos sólidos recebe diversos plásticos, que são polímeros com diferentes densidades. Na tabela são apresentados os nomes desses plásticos, suas siglas e seus valores de densidade. (Tabela: Plástico | Sigla | Densidade (g/mL) - Polietileno de baixa densidade | PEBD | 0,92; Polietileno de alta densidade | PEAD | 0,96; Polietileno tereftalato | PET | 1,36; Policloreto de vinila | PVC | 1,40). Para a reciclagem dos plásticos, a cooperativa realiza a trituração dos resíduos sólidos e, para fazer a separação desses resíduos, a mistura de plásticos é colocada em um recipiente contendo uma solução com densidade apropriada, executando-se a seguinte sequência de operações, com a remoção do material sobrenadante em cada etapa. (Diagrama de um processo de separação de plásticos por densidade utilizando 3 soluções: Solução 1, Solução 2, Solução 3. O diagrama mostra os plásticos PEBD, PEAD, PET, PVC sendo separados sequencialmente.) Considerando que a cooperativa tem à disposição as soluções de álcool 45% (d = 0,94 g/mL), salmoura (d = 1,38 g/mL) e água de torneira (d = 1,05 g/mL) para realizar a sequência de operações a serem executadas, as soluções 1, 2 e 3 devem ser, respectivamente,",
+      principal: "Uma cooperativa de reciclagem de resíduos sólidos recebe diversos plásticos, que são polímeros com diferentes densidades. Na tabela são apresentados os nomes desses plásticos, suas siglas e seus valores de densidade. (Tabela: Plástico | Sigla | Densidade ($g/mL$) - Polietileno de baixa densidade | PEBD | 0,92; Polietileno de alta densidade | PEAD | 0,96; Polietileno tereftalato | PET | 1,36; Policloreto de vinila | PVC | 1,40). Para a reciclagem dos plásticos, a cooperativa realiza a trituração dos resíduos sólidos e, para fazer a separação desses resíduos, a mistura de plásticos é colocada em um recipiente contendo uma solução com densidade apropriada, executando-se a seguinte sequência de operações, com a remoção do material sobrenadante em cada etapa. (Diagrama de um processo de separação de plásticos por densidade utilizando 3 soluções: Solução 1, Solução 2, Solução 3. O diagrama mostra os plásticos PEBD, PEAD, PET, PVC sendo separados sequencialmente.) Considerando que a cooperativa tem à disposição as soluções de álcool 45% (d = 0,94 $g/mL$), salmoura (d = 1,38 $g/mL$) e água de torneira (d = 1,05 $g/mL$) para realizar a sequência de operações a serem executadas, as soluções 1, 2 e 3 devem ser, respectivamente,",
       subItens: []
     },
     options: [
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "uea",
     year: 2024,
     text: {
-      principal: "A temperatura de ebulição de substâncias está relacionada à força de atração existente entre as moléculas que as constituem. Essa força de atração, por sua vez, tem componentes como a massa das moléculas e a interação intermolecular existente entre elas. Considere as moléculas de três substâncias orgânicas e suas respectivas temperaturas de ebulição: (Tabela: Substância | Massa molar (g/mol) | Fórmula estrutural | Temperatura de ebulição (°C) - Éter dimetílico | 46 | H₃C−O−CH₃ | −25; Etanol | 46 | H₃C−CH₂OH | 78; Propan-1-ol | 60 | H₃C−CH₂−CH₂OH | 97). Analisando as fórmulas estruturais e as temperaturas de ebulição das substâncias apresentadas na tabela, verifica-se que a diferença de temperaturas de ebulição",
+      principal: "A temperatura de ebulição de substâncias está relacionada à força de atração existente entre as moléculas que as constituem. Essa força de atração, por sua vez, tem componentes como a massa das moléculas e a interação intermolecular existente entre elas. Considere as moléculas de três substâncias orgânicas e suas respectivas temperaturas de ebulição: (Tabela: Substância | Massa molar ($g/mol$) | Fórmula estrutural | Temperatura de ebulição (°C) - Éter dimetílico | 46 | H₃C−O−CH₃ | −25; Etanol | 46 | H₃C−CH₂OH | 78; Propan-1-ol | 60 | H₃C−CH₂−CH₂OH | 97). Analisando as fórmulas estruturais e as temperaturas de ebulição das substâncias apresentadas na tabela, verifica-se que a diferença de temperaturas de ebulição",
       subItens: []
     },
     options: [

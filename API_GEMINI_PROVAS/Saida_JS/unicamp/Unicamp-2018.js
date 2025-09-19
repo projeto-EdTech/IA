@@ -367,10 +367,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2.",
-      "5/9.",
-      "2/3.",
-      "3/5."
+      "$1/2$.",
+      "$5/9$.",
+      "$2/3$.",
+      "$3/5$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "A figura abaixo exibe um setor circular dividido em duas regiões de mesma área. A razão a/b é igual a [Imagem de um setor circular com duas regiões e segmentos 'a' e 'b']",
+      principal: "A figura abaixo exibe um setor circular dividido em duas regiões de mesma área. A razão $a/b$ é igual a [Imagem de um setor circular com duas regiões e segmentos 'a' e 'b']",
       subItens: []
     },
     options: [
@@ -463,7 +463,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Seja x um número real tal que sen x + cosx = 0,2. Logo, | sen x - cos x| é igual a",
+      principal: "Seja x um número real tal que $\\sin$ x + cosx = 0,2. Logo, | $\\sin$ x - $\\cos$ x| é igual a",
       subItens: []
     },
     options: [
@@ -583,7 +583,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Entre as inadequações no uso do inglês observadas nas figuras 1 e 2, podemos citar: [Figura 1: Contrafilé à brasileira, com tradução \"Against the Brazilian Beef\". Descrição: \"Contra filé grelhado, farofa à brasileira, batata frita, banana à milanesa e arroz branco\" traduzida como \"Against grilled steak, farofa the Brazilian french fries, breaded bananas and rice\". Figura 2: Pão com Frios, traduzido como \"Bread with cold\". (Adaptado de 16 Traduções hilárias de placas e avisos em inglês feitos para a copa. Mega Curioso, 07/06/2014. Disponível em http://www.megacurioso.com.br/copa-do-mundo-2014/44531-16-traducoes-hilarias-de-placas-e-avisos-em-ingles-feitos-para-a-copa.htm. Acessado em 10/07/2017.)]",
+      principal: "Entre as inadequações no uso do inglês observadas nas figuras 1 e 2, podemos citar: [Figura 1: Contrafilé à brasileira, com tradução \"Against the Brazilian Beef\". Descrição: \"Contra filé grelhado, farofa à brasileira, batata frita, banana à milanesa e arroz branco\" traduzida como \"Against grilled steak, farofa the Brazilian french fries, breaded bananas and rice\". Figura 2: Pão com Frios, traduzido como \"Bread with cold\". (Adaptado de 16 Traduções hilárias de placas e avisos em inglês feitos para a copa. Mega Curioso, 07/06/2014. Disponível em http://www.megacurioso.com.$br/copa$-do-mundo-$2014/44531$-16-traducoes-hilarias-de-placas-e-avisos-em-ingles-feitos-para-a-copa.htm. Acessado em 10/07/2017.)]",
       subItens: []
     },
     options: [
@@ -623,7 +623,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Os panfletos acima foram distribuídos na entrada de uma assembleia de estudantes universitários, reunidos para discutir um pedido de reforma nos banheiros do campus. Assinale a opção correta. [Panfleto A: GENDER-NEUTRAL RESTROOM. Panfleto B: GET YELLED AT, GET BEAT UP (com seta para banheiros masculino e feminino). (Adaptado de https://i0.wp.com/www.davescomputertips.com/wp-content/uploads/2014/10/gender-neutral_restroom.png e http://cougarnews.org/7469/student-life/time-for-change-gender-neutral-bathrooms/. Acessado em 10/07/2017.)]",
+      principal: "Os panfletos acima foram distribuídos na entrada de uma assembleia de estudantes universitários, reunidos para discutir um pedido de reforma nos banheiros do campus. Assinale a opção correta. [Panfleto A: GENDER-NEUTRAL RESTROOM. Panfleto B: GET YELLED AT, GET BEAT UP (com seta para banheiros masculino e feminino). (Adaptado de https://i0.wp.$com/www$.davescomputertips.$com/wp$-content/uploads/2014/10/gender-$neutral_restroom$.png e http://cougarnews.org/7469/student-$life/time$-for-change-gender-neutral-bathrooms/. Acessado em 10/07/2017.)]",
       subItens: []
     },
     options: [
@@ -723,7 +723,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Considerando o texto e seus conhecimentos, assinale a alternativa correta. Os recifes de corais estão seriamente ameaçados pela combinação dos seguintes fatores: [Texto: Coral reefs are colorful underwater forests which teem with life and act as a natural protective barrier for coastal regions. The fishes and plants which call them home belong to some of the most diverse and fragile ecosystems on the planet. Higher sea temperatures from global warming have already caused major coral bleaching events. Bleaching occurs when corals respond to the stress of warmer temperatures by expelling the colorful algae that live within them. Increased levels of atmospheric carbon dioxide result in higher levels of CO2 in the water, leading to ocean acidification, which is also a threat to coral. As the oceans become more acidic, the corals' ability to form skeletons through calcification is inhibited, causing their growth to slow. Increasing sea levels caused by melting sea ice could also cause problems for some reefs by making them too deep to receive adequate sunlight, another factor important for survival. (Adaptado de Coral Reefs, The National Wildlife Federation. Disponível em https://www.nwf.org/Wildlife/Threats-to-Wildlife/Global-Warming/Effects-on-Wildlife-and-Habitat/Coral-Reefs.aspx. Acessado em 26/07/2017.)]",
+      principal: "Considerando o texto e seus conhecimentos, assinale a alternativa correta. Os recifes de corais estão seriamente ameaçados pela combinação dos seguintes fatores: [Texto: Coral reefs are colorful underwater forests which teem with life and act as a natural protective barrier for coastal regions. The fishes and plants which call them home belong to some of the most diverse and fragile ecosystems on the planet. Higher sea temperatures from global warming have already caused major coral bleaching events. Bleaching occurs when corals respond to the stress of warmer temperatures by expelling the colorful algae that live within them. Increased levels of atmospheric carbon dioxide result in higher levels of CO2 in the water, leading to ocean acidification, which is also a threat to coral. As the oceans become more acidic, the corals' ability to form skeletons through calcification is inhibited, causing their growth to slow. Increasing sea levels caused by melting sea ice could also cause problems for some reefs by making them too deep to receive adequate sunlight, another factor important for survival. (Adaptado de Coral Reefs, The National Wildlife Federation. Disponível em https://www.nwf.org/Wildlife/Threats-to-$Wildlife/Global$-$Warming/Effects$-on-Wildlife-and-$Habitat/Coral$-Reefs.aspx. Acessado em 26/07/2017.)]",
       subItens: []
     },
     options: [
@@ -763,12 +763,12 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "A figura abaixo ilustra uma alavanca que gira em torno do ponto O. Dois triângulos, do mesmo material e de mesma espessura, estão presos por fios de massa desprezível nos extremos da alavanca. Um triângulo é equilátero; o outro é retângulo e isósceles, e sua hipotenusa tem o mesmo comprimento que os lados do triângulo equilátero. Note que, neste caso, o peso dos objetos é proporcional à sua área. Conclui-se que, na condição de equilíbrio da alavanca, a razão das distâncias, i/e, é igual a [Imagem de uma alavanca em equilíbrio com um triângulo equilátero e um triângulo retângulo isósceles. (e e i são as distâncias dos triângulos ao ponto O)]",
+      principal: "A figura abaixo ilustra uma alavanca que gira em torno do ponto O. Dois triângulos, do mesmo material e de mesma espessura, estão presos por fios de massa desprezível nos extremos da alavanca. Um triângulo é equilátero; o outro é retângulo e isósceles, e sua hipotenusa tem o mesmo comprimento que os lados do triângulo equilátero. Note que, neste caso, o peso dos objetos é proporcional à sua área. Conclui-se que, na condição de equilíbrio da alavanca, a razão das distâncias, $i/e$, é igual a [Imagem de uma alavanca em equilíbrio com um triângulo equilátero e um triângulo retângulo isósceles. (e e i são as distâncias dos triângulos ao ponto O)]",
       subItens: []
     },
     options: [
       "√3.",
-      "√3/3.",
+      "√$3/3$.",
       "2.",
       "3."
     ],
@@ -783,14 +783,14 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Sabendo que as torres de Chankillo se posicionam ao longo de 300 metros no eixo norte-sul, a velocidade escalar média com a qual a posição do nascer do Sol se desloca através das torres é de aproximadamente [Texto: Situado na costa peruana, Chankillo, o mais antigo observatório das Américas, é composto por treze torres que se alinham de norte a sul ao longo de uma colina. Em 21 de dezembro, quando ocorre o solstício de verão no Hemisfério Sul, o Sol nasce à direita da primeira torre (sul), na extrema direita, a partir de um ponto de observação definido. À medida que os dias passam, a posição em que o Sol nasce se desloca entre as torres rumo à esquerda (norte). Pode-se calcular o dia do ano, observando-se qual torre coincide com a posição do Sol ao amanhecer. Em 21 de junho, solstício de inverno no Hemisfério Sul, o Sol nasce à esquerda da última torre na extrema esquerda e, à medida que os dias passam, vai se movendo rumo à direita, para reiniciar o ciclo no dezembro seguinte. Imagem: paisagem com torres e o sol nascendo. (Disponível em sites variados, exemplo: http://www.arqueoastronomia.com/chankillo.htm. Acessado em 24/10/2017.)]",
+      principal: "Sabendo que as torres de Chankillo se posicionam ao longo de 300 metros no eixo norte-sul, a velocidade escalar média com a qual a posição do nascer do Sol se desloca através das torres é de aproximadamente [Texto: Situado na costa peruana, Chankillo, o mais antigo observatório das Américas, é composto por treze torres que se alinham de norte a sul ao longo de uma colina. Em 21 de dezembro, quando ocorre o solstício de verão no Hemisfério Sul, o Sol nasce à direita da primeira torre (sul), na extrema direita, a partir de um ponto de observação definido. À medida que os dias passam, a posição em que o Sol nasce se desloca entre as torres rumo à esquerda (norte). Pode-se calcular o dia do ano, observando-se qual torre coincide com a posição do Sol ao amanhecer. Em 21 de junho, solstício de inverno no Hemisfério Sul, o Sol nasce à esquerda da última torre na extrema esquerda e, à medida que os dias passam, vai se movendo rumo à direita, para reiniciar o ciclo no dezembro seguinte. Imagem: paisagem com torres e o sol nascendo. (Disponível em sites variados, exemplo: http://www.arqueoastronomia.$com/chankillo$.htm. Acessado em 24/10/2017.)]",
       subItens: []
     },
     options: [
-      "0,8 m/dia.",
-      "1,6 m/dia.",
-      "25 m/dia.",
-      "50 m/dia."
+      "0,8 $m/dia$.",
+      "1,6 $m/dia$.",
+      "25 $m/dia$.",
+      "50 $m/dia$."
     ],
     correctAnswer: 1,
     materia: ["Física", "Geografia"],
@@ -803,14 +803,14 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Recentemente, a agência espacial americana anunciou a descoberta de um planeta a trinta e nove anos-luz da Terra, orbitando uma estrela anã vermelha que faz parte da constelação de Cetus. O novo planeta possui dimensões e massa pouco maiores do que as da Terra e se tornou um dos principais candidatos a abrigar vida fora do sistema solar. Considere este novo planeta esférico com um raio igual a Rp = 2RT e massa Mp = 8MT, em que RT e MT são o raio e a massa da Terra, respectivamente. Para planetas esféricos de massa M e raio R, a aceleração da gravidade na superfície do planeta é dada por g = GM/R², em que G é uma constante universal. Assim, considerando a Terra esférica e usando a aceleração da gravidade na sua superfície, o valor da aceleração da gravidade na superfície do novo planeta será de",
+      principal: "Recentemente, a agência espacial americana anunciou a descoberta de um planeta a trinta e nove anos-luz da Terra, orbitando uma estrela anã vermelha que faz parte da constelação de Cetus. O novo planeta possui dimensões e massa pouco maiores do que as da Terra e se tornou um dos principais candidatos a abrigar vida fora do sistema solar. Considere este novo planeta esférico com um raio igual a Rp = 2RT e massa Mp = 8MT, em que RT e MT são o raio e a massa da Terra, respectivamente. Para planetas esféricos de massa M e raio R, a aceleração da gravidade na superfície do planeta é dada por g = $GM/R$², em que G é uma constante universal. Assim, considerando a Terra esférica e usando a aceleração da gravidade na sua superfície, o valor da aceleração da gravidade na superfície do novo planeta será de",
       subItens: []
     },
     options: [
-      "5 m/s².",
-      "20 m/s².",
-      "40 m/s².",
-      "80 m/s²."
+      "5 $m/s$².",
+      "20 $m/s$².",
+      "40 $m/s$².",
+      "80 $m/s$²."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -823,7 +823,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "O primeiro satélite geoestacionário brasileiro foi lançado ao espaço em 2017 e será utilizado para comunicações estratégicas do governo e na ampliação da oferta de comunicação de banda larga. O foguete que levou o satélite ao espaço foi lançado do Centro Espacial de Kourou, na Guiana Francesa. A massa do satélite é constante desde o lançamento até a entrada em órbita e vale m = 6,0×10³ kg. O módulo de sua velocidade orbital é igual a vor = 3,0×10³ m/s. Desprezando a velocidade inicial do satélite em razão do movimento de rotação da Terra, o trabalho da força resultante sobre o satélite para levá-lo até a sua órbita é igual a",
+      principal: "O primeiro satélite geoestacionário brasileiro foi lançado ao espaço em 2017 e será utilizado para comunicações estratégicas do governo e na ampliação da oferta de comunicação de banda larga. O foguete que levou o satélite ao espaço foi lançado do Centro Espacial de Kourou, na Guiana Francesa. A massa do satélite é constante desde o lançamento até a entrada em órbita e vale m = 6,0×10³ kg. O módulo de sua velocidade orbital é igual a vor = 3,0×10³ $m/s$. Desprezando a velocidade inicial do satélite em razão do movimento de rotação da Terra, o trabalho da força resultante sobre o satélite para levá-lo até a sua órbita é igual a",
       subItens: []
     },
     options: [
@@ -847,10 +847,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5x10³ N/m².",
-      "6x10³ N/m².",
-      "1,5x10⁶ N/m².",
-      "1,5x10⁵ N/m²."
+      "5x10³ $N/m$².",
+      "6x10³ $N/m$².",
+      "1,5x10⁶ $N/m$².",
+      "1,5x10⁵ $N/m$²."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -883,7 +883,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Um conjunto de placas de aquecimento solar eleva a temperatura da água de um reservatório de 500 litros de 20 °C para 47 °C em algumas horas. Se no lugar das placas solares fosse usada uma resistência elétrica, quanta energia elétrica seria consumida para produzir o mesmo aquecimento? Adote 1,0 kg/litro para a densidade e 4,0 kJ/(kg·°C) para o calor específico da água. Além disso, use 1 kWh = 10³ W x 3.600 s = 3,6 x 10⁶ J.",
+      principal: "Um conjunto de placas de aquecimento solar eleva a temperatura da água de um reservatório de 500 litros de 20 °C para 47 °C em algumas horas. Se no lugar das placas solares fosse usada uma resistência elétrica, quanta energia elétrica seria consumida para produzir o mesmo aquecimento? Adote 1,0 $kg/litro$ para a densidade e 4,0 kJ/(kg·°C) para o calor específico da água. Além disso, use 1 kWh = 10³ W x 3.600 s = 3,6 x 10⁶ J.",
       subItens: []
     },
     options: [
@@ -903,7 +903,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Nos últimos anos, materiais exóticos conhecidos como isolantes topológicos se tornaram objeto de intensa investigação científica em todo o mundo. De forma simplificada, esses materiais se caracterizam por serem isolantes elétricos no seu interior, mas condutores na sua superfície. Desta forma, se um isolante topológico for submetido a uma diferença de potencial U, teremos uma resistência efetiva na superfície diferente da resistência do seu volume, como mostra o circuito equivalente da figura abaixo. Nessa situação, a razão F = iS/iV entre a corrente iS que atravessa a porção condutora na superfície e a corrente iV que atravessa a porção isolante no interior do material vale [Diagrama de circuito elétrico com dois resistores em paralelo, Rs = 0,2 Ω e Rv = 100 Ω, conectados a uma fonte U]",
+      principal: "Nos últimos anos, materiais exóticos conhecidos como isolantes topológicos se tornaram objeto de intensa investigação científica em todo o mundo. De forma simplificada, esses materiais se caracterizam por serem isolantes elétricos no seu interior, mas condutores na sua superfície. Desta forma, se um isolante topológico for submetido a uma diferença de potencial U, teremos uma resistência efetiva na superfície diferente da resistência do seu volume, como mostra o circuito equivalente da figura abaixo. Nessa situação, a razão F = $iS/iV$ entre a corrente iS que atravessa a porção condutora na superfície e a corrente iV que atravessa a porção isolante no interior do material vale [Diagrama de circuito elétrico com dois resistores em paralelo, Rs = 0,2 Ω e Rv = 100 Ω, conectados a uma fonte U]",
       subItens: []
     },
     options: [
@@ -923,7 +923,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Materiais termoelétricos são aqueles com alto potencial de transformar calor em energia elétrica. A capacidade de conversão de calor em eletricidade é quantificada pela grandeza F = S²T/ρκ, que é adimensional e função da temperatura T e das propriedades do material: resistividade elétrica ρ, condutividade térmica κ e coeficiente Seebeck S. O gráfico a seguir mostra ρ em função de T para certo material termoelétrico. Analisando o gráfico e considerando κ = 2,0 W/(m·K) e S = 300 μV/K para esse material, a uma temperatura T = 300 K, conclui-se que a grandeza F desse material a essa temperatura vale [Gráfico da resistividade elétrica (ρ) em função da Temperatura (T) para um material termoelétrico]",
+      principal: "Materiais termoelétricos são aqueles com alto potencial de transformar calor em energia elétrica. A capacidade de conversão de calor em eletricidade é quantificada pela grandeza F = S²T/ρκ, que é adimensional e função da temperatura T e das propriedades do material: resistividade elétrica ρ, condutividade térmica κ e coeficiente Seebeck S. O gráfico a seguir mostra ρ em função de T para certo material termoelétrico. Analisando o gráfico e considerando κ = 2,0 W/(m·K) e S = 300 μ$V/K$ para esse material, a uma temperatura T = 300 K, conclui-se que a grandeza F desse material a essa temperatura vale [Gráfico da resistividade elétrica (ρ) em função da Temperatura (T) para um material termoelétrico]",
       subItens: []
     },
     options: [
@@ -943,7 +943,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Uma lente de Fresnel é composta por um conjunto de anéis concêntricos com uma das faces plana e a outra inclinada, como mostra a figura (a). Essas lentes, geralmente mais finas que as convencionais, são usadas principalmente para concentrar um feixe luminoso em determinado ponto, ou para colimar a luz de uma fonte luminosa, produzindo um feixe paralelo, como ilustra a figura (b). Exemplos desta última aplicação são os faróis de automóveis e os faróis costeiros. O diagrama da figura (c) mostra um raio luminoso que passa por um dos anéis de uma lente de Fresnel de acrílico e sai paralelamente ao seu eixo. Se sen(θ₁) = 0,5 e sen(θ₂) = 0,75, o valor do índice de refração do acrílico é de [Figuras ilustrando a estrutura (a), aplicação (b) e refração de um raio de luz (c) de uma lente de Fresnel]",
+      principal: "Uma lente de Fresnel é composta por um conjunto de anéis concêntricos com uma das faces plana e a outra inclinada, como mostra a figura (a). Essas lentes, geralmente mais finas que as convencionais, são usadas principalmente para concentrar um feixe luminoso em determinado ponto, ou para colimar a luz de uma fonte luminosa, produzindo um feixe paralelo, como ilustra a figura (b). Exemplos desta última aplicação são os faróis de automóveis e os faróis costeiros. O diagrama da figura (c) mostra um raio luminoso que passa por um dos anéis de uma lente de Fresnel de acrílico e sai paralelamente ao seu eixo. Se $\\sin$(θ₁) = 0,5 e $\\sin$(θ₂) = 0,75, o valor do índice de refração do acrílico é de [Figuras ilustrando a estrutura (a), aplicação (b) e refração de um raio de luz (c) de uma lente de Fresnel]",
       subItens: []
     },
     options: [
@@ -983,14 +983,14 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "O sistema centro/periferia é aplicável ao estudo da Cristandade Medieval, já que os feudos constituíam o centro da vida econômica e cultural enquanto mantenedores da ordem social. [As alternativas foram transcritas como parte do enunciado no OCR original. Re-extraindo as alternativas do PDF:]",
+      principal: "O sistema $centro/periferia$ é aplicável ao estudo da Cristandade Medieval, já que os feudos constituíam o centro da vida econômica e cultural enquanto mantenedores da ordem social. [As alternativas foram transcritas como parte do enunciado no OCR original. Re-extraindo as alternativas do PDF:]",
       subItens: []
     },
     options: [
-      "O sistema centro/periferia é aplicável ao estudo da Cristandade Medieval, já que os feudos constituíam o centro da vida econômica e cultural enquanto mantenedores da ordem social.",
-      "O sistema centro/periferia aplicado durante a Era Medieval espelhava o sistema de orientação de valores e de poder da sociedade, no qual o clero e a nobreza se configuravam como os polos centrais, e os camponeses e artesãos, como a periferia.",
-      "O sistema centro/periferia durante a Era Medieval representava a disputa entre a Igreja e o Estado, com a Igreja representando a periferia e o Estado, o centro.",
-      "O sistema centro/periferia não é aplicável ao estudo da Cristandade Medieval, porque os feudos não se constituíam como centros econômicos e culturais, mas sim como unidades autossuficientes e isoladas."
+      "O sistema $centro/periferia$ é aplicável ao estudo da Cristandade Medieval, já que os feudos constituíam o centro da vida econômica e cultural enquanto mantenedores da ordem social.",
+      "O sistema $centro/periferia$ aplicado durante a Era Medieval espelhava o sistema de orientação de valores e de poder da sociedade, no qual o clero e a nobreza se configuravam como os polos centrais, e os camponeses e artesãos, como a periferia.",
+      "O sistema $centro/periferia$ durante a Era Medieval representava a disputa entre a Igreja e o Estado, com a Igreja representando a periferia e o Estado, o centro.",
+      "O sistema $centro/periferia$ não é aplicável ao estudo da Cristandade Medieval, porque os feudos não se constituíam como centros econômicos e culturais, mas sim como unidades autossuficientes e isoladas."
     ],
     correctAnswer: 1,
     materia: ["História"],
@@ -1003,7 +1003,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Considerando o texto acima e seus conhecimentos, assinale a alternativa correta. O sistema centro/periferia é aplicável ao estudo da Cristandade Medieval, já que os feudos constituíam o centro da vida econômica e cultural enquanto mantenedores da ordem social. [Texto associado à questão 51 que se refere a uma análise geral da prova, mas não é uma questão de fato. Esta questão 51 está no corpo do PDF na página 15, e trata de Estrutura Social da Cristandade Medieval. É a Q51 no gabarito, não Q50. O enunciado da Q51 do PDF é: \"Em alguns casos, as organelas celulares podem transformar-se e perder a funcionalidade, como acontece com os cloroplastos. Em plantas com alta atividade de fotossíntese, mas com crescimento paralisado e sem drenos ativos (como flores e frutos), os cloroplastos podem dar origem a\"] Ah, ok, the OCR from the initial prompt was still confusing. I need to get the actual Q51 from the PDF image on page 15, which is different from the text that appears *before* the Q51 on OCR (which was Q50's text). Let's be very careful and use the image of the PDF for all questions. I will use the actual content from page 15 of the PDF for Q51.",
+      principal: "Considerando o texto acima e seus conhecimentos, assinale a alternativa correta. O sistema $centro/periferia$ é aplicável ao estudo da Cristandade Medieval, já que os feudos constituíam o centro da vida econômica e cultural enquanto mantenedores da ordem social. [Texto associado à questão 51 que se refere a uma análise geral da prova, mas não é uma questão de fato. Esta questão 51 está no corpo do PDF na página 15, e trata de Estrutura Social da Cristandade Medieval. É a Q51 no gabarito, não Q50. O enunciado da Q51 do PDF é: \"Em alguns casos, as organelas celulares podem transformar-se e perder a funcionalidade, como acontece com os cloroplastos. Em plantas com alta atividade de fotossíntese, mas com crescimento paralisado e sem drenos ativos (como flores e frutos), os cloroplastos podem dar origem a\"] Ah, ok, the OCR from the initial prompt was still confusing. I need to get the actual Q51 from the PDF image on page 15, which is different from the text that appears *before* the Q51 on OCR (which was Q50's text). Let's be very careful and use the image of the PDF for all questions. I will use the actual content from page 15 of the PDF for Q51.",
       subItens: []
     },
     options: [
@@ -1103,7 +1103,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Considerando a imagem acima e seus conhecimentos acerca dos Movimentos de Direitos Civis, assinale a alternativa correta. [Imagem: A foto mostra, da esquerda para a direita, os atletas Peter Norman (australiano), John Carlos e Tommie Smith (norte-americanos), no pódio dos 200 metros rasos das Olimpíadas de 1968, no México. (Disponível em http://www.gettyimages.co.uk/detail/news-photo/the-american-sprinters-tommie-smith-john-carlos-and-peter-news-photo/186173327#the-american-sprinters-tommie-smithjohn-carlos-and-peter-norman-the-picture-id186173327. Acessado em 01/08/2017.)]",
+      principal: "Considerando a imagem acima e seus conhecimentos acerca dos Movimentos de Direitos Civis, assinale a alternativa correta. [Imagem: A foto mostra, da esquerda para a direita, os atletas Peter Norman (australiano), John Carlos e Tommie Smith (norte-americanos), no pódio dos 200 metros rasos das Olimpíadas de 1968, no México. (Disponível em http://www.gettyimages.co.uk/detail/news-$photo/the$-american-sprinters-tommie-smith-john-carlos-and-peter-news-$photo/186173327$#the-american-sprinters-tommie-smithjohn-carlos-and-peter-norman-the-picture-id186173327. Acessado em 01/08/2017.)]",
       subItens: []
     },
     options: [
@@ -1727,9 +1727,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4, 1/4, 1/4 e 1/4.",
-      "1/2, 0, 0 e 1/2.",
-      "1/2, 0, 1/2 e 0.",
+      "$1/4$, $1/4$, $1/4$ e $1/4$.",
+      "$1/2$, 0, 0 e $1/2$.",
+      "$1/2$, 0, $1/2$ e 0.",
       "1, 0, 0 e 0."
     ],
     correctAnswer: 2,
@@ -1743,7 +1743,7 @@ createQuestion({
     university: "unicamp",
     year: 2018,
     text: {
-      principal: "Um estudo mostrou que na localidade A são encontradas sete (7) espécies de camarões-pistola. Na localidade B são encontradas outras sete (7) espécies, sendo que cada espécie do local A tem uma espécie-irmã correspondente no local B (espécies-irmãs são espécies originadas de um mesmo ancestral comum recente). É correto afirmar que [Mapa mostrando duas áreas oceânicas, A e B, na América Central/Sul. (Fonte: Google Maps. Acessado em 10/07/2017.)]",
+      principal: "Um estudo mostrou que na localidade A são encontradas sete (7) espécies de camarões-pistola. Na localidade B são encontradas outras sete (7) espécies, sendo que cada espécie do local A tem uma espécie-irmã correspondente no local B (espécies-irmãs são espécies originadas de um mesmo ancestral comum recente). É correto afirmar que [Mapa mostrando duas áreas oceânicas, A e B, na América $Central/Sul$. (Fonte: Google Maps. Acessado em 10/07/2017.)]",
       subItens: []
     },
     options: [

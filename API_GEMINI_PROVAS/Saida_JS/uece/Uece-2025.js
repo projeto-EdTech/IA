@@ -3,7 +3,7 @@ createQuestion({
     university: "uece",
     year: 2025,
     text: {
-      principal: "TEXTO I\nLei brasileira de inclusão da pessoa com deficiência completa 10 anos: avanços, desafios e o papel do Tribunal de Contas da União\n\nEm 2025, a lei brasileira de inclusão da pessoa com deficiência completa 10 anos, com avanços em educação, acessibilidade e trabalho. O TCU contribui na fiscalização e implementação.\n\n01 Em 2025, a lei brasileira de inclusão da pessoa com deficiência (lei 13.146/15), conhecida como Estatuto da Pessoa com Deficiência, celebra uma década de existência. Reconhecida como um marco na defesa dos direitos das pessoas com deficiência, a LBI trouxe avanços significativos em áreas como educação, mercado de trabalho, acessibilidade urbana e inclusão social, promovendo igualdade de oportunidades e maior participação social. Atualmente, quase 19 milhões de brasileiros - aproximadamente 9% da população, segundo o último censo - declaram ter algum tipo de deficiência.\n\n12 Desde a promulgação da LBI, medidas concretas foram implementadas para assegurar a acessibilidade e a inclusão, e o TCU tem desempenhado um papel fundamental nesse processo. Por meio de auditorias e fiscalização de políticas públicas, o TCU contribui para avaliar a efetividade das ações governamentais voltadas às pessoas com deficiência, identificando falhas, propondo melhorias e garantindo maior transparência na execução 20 dessas políticas.\n\n21 Na área de educação, a LBI reforçou o direito fundamental ao ensino inclusivo, buscou assegurar que crianças e jovens com deficiência possam estudar em escolas regulares, com o suporte adequado para atender suas necessidades específicas. No campo da mobilidade urbana, a lei impulsionou melhorias significativas na acessibilidade de espaços públicos e no transporte coletivo, embora ainda existam lacunas a serem superadas.\n\n29 Entre as ações destacadas do TCU está a realização de auditorias operacionais para avaliar a acessibilidade em 31 prédios públicos, a inclusão de pessoas com deficiência no 32 mercado de trabalho e a efetiva implementação de um 33 ensino inclusivo em escolas públicas. O TCU também 34 promove iniciativas voltadas à conscientização e ao 35 fortalecimento das políticas públicas, como o lançamento, 36 na semana passada, do Ano da Pessoa com Deficiência no Controle Externo Brasileiro, que busca ampliar o debate sobre os direitos e os desafios dessa parcela da população.\n\n39 A celebração dos dez anos da LBI e as ações do TCU nesse contexto reforçam a importância de fortalecer as políticas 41 públicas, promover a inclusão e garantir que as conquistas 42 legislativas obtidas ao longo da última década tenham 43 resultados práticos na vida dos cidadãos e sirvam como 44 base para uma sociedade cada vez mais justa, acessível e 45 livre de preconceitos.\n\nROST, Maria Augusta. Lei brasileira de inclusão da pessoa com deficiência completa 10 anos: avanços, desafios e o papel do Tribunal de Contas da União. Migalhas. 28 fev. 2025. Disponível em: https://www.migalhas.com.br/depeso/425505/lei-de-inclusao-a-pcd-completa-10-anos-avancos-desafios-e-o-tcu. Acesso em: 25 mar. 2025.\n\n01. É objetivo do texto I",
+      principal: "TEXTO I\nLei brasileira de inclusão da pessoa com deficiência completa 10 anos: avanços, desafios e o papel do Tribunal de Contas da União\n\nEm 2025, a lei brasileira de inclusão da pessoa com deficiência completa 10 anos, com avanços em educação, acessibilidade e trabalho. O TCU contribui na fiscalização e implementação.\n\n01 Em 2025, a lei brasileira de inclusão da pessoa com deficiência (lei 13.$146/15$), conhecida como Estatuto da Pessoa com Deficiência, celebra uma década de existência. Reconhecida como um marco na defesa dos direitos das pessoas com deficiência, a LBI trouxe avanços significativos em áreas como educação, mercado de trabalho, acessibilidade urbana e inclusão social, promovendo igualdade de oportunidades e maior participação social. Atualmente, quase 19 milhões de brasileiros - aproximadamente 9% da população, segundo o último censo - declaram ter algum tipo de deficiência.\n\n12 Desde a promulgação da LBI, medidas concretas foram implementadas para assegurar a acessibilidade e a inclusão, e o TCU tem desempenhado um papel fundamental nesse processo. Por meio de auditorias e fiscalização de políticas públicas, o TCU contribui para avaliar a efetividade das ações governamentais voltadas às pessoas com deficiência, identificando falhas, propondo melhorias e garantindo maior transparência na execução 20 dessas políticas.\n\n21 Na área de educação, a LBI reforçou o direito fundamental ao ensino inclusivo, buscou assegurar que crianças e jovens com deficiência possam estudar em escolas regulares, com o suporte adequado para atender suas necessidades específicas. No campo da mobilidade urbana, a lei impulsionou melhorias significativas na acessibilidade de espaços públicos e no transporte coletivo, embora ainda existam lacunas a serem superadas.\n\n29 Entre as ações destacadas do TCU está a realização de auditorias operacionais para avaliar a acessibilidade em 31 prédios públicos, a inclusão de pessoas com deficiência no 32 mercado de trabalho e a efetiva implementação de um 33 ensino inclusivo em escolas públicas. O TCU também 34 promove iniciativas voltadas à conscientização e ao 35 fortalecimento das políticas públicas, como o lançamento, 36 na semana passada, do Ano da Pessoa com Deficiência no Controle Externo Brasileiro, que busca ampliar o debate sobre os direitos e os desafios dessa parcela da população.\n\n39 A celebração dos dez anos da LBI e as ações do TCU nesse contexto reforçam a importância de fortalecer as políticas 41 públicas, promover a inclusão e garantir que as conquistas 42 legislativas obtidas ao longo da última década tenham 43 resultados práticos na vida dos cidadãos e sirvam como 44 base para uma sociedade cada vez mais justa, acessível e 45 livre de preconceitos.\n\nROST, Maria Augusta. Lei brasileira de inclusão da pessoa com deficiência completa 10 anos: avanços, desafios e o papel do Tribunal de Contas da União. Migalhas. 28 fev. 2025. Disponível em: https://www.migalhas.com.br/depeso/425505/lei-de-inclusao-a-pcd-completa-10-anos-avancos-desafios-e-o-tcu. Acesso em: 25 mar. 2025.\n\n01. É objetivo do texto I",
       subItens: []
     },
     options: [
@@ -127,7 +127,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "\"Em 2025, a lei brasileira de inclusão da pessoa com deficiência (lei 13.146/15), conhecida como Estatuto da Pessoa com Deficiência, celebra uma década de existência.\" (Linhas 01-03) - A primeira vírgula é obrigatória, pois isola termo temporal deslocado, enquanto as duas vírgulas seguintes são opcionais para isolar expressão adjetiva.",
+      "\"Em 2025, a lei brasileira de inclusão da pessoa com deficiência (lei 13.$146/15$), conhecida como Estatuto da Pessoa com Deficiência, celebra uma década de existência.\" (Linhas 01-03) - A primeira vírgula é obrigatória, pois isola termo temporal deslocado, enquanto as duas vírgulas seguintes são opcionais para isolar expressão adjetiva.",
       "\"Atualmente, quase 19 milhões de brasileiros - aproximadamente 9% da população, segundo o último censo - declaram ter algum tipo de deficiência.\" (Linhas 09-11) – Os traços médios são usados para isolar expressão locativa.",
       "\"Na área de educação, a LBI reforçou o direito fundamental ao ensino inclusivo, buscou assegurar que crianças e jovens com deficiência possam estudar em escolas regulares, com o suporte adequado para atender suas necessidades específicas.\" (Linhas 21-25) - Todas as vírgulas do período são usadas para separar elementos de uma enumeração.",
       "\"O TCU também promove iniciativas voltadas à conscientização e ao fortalecimento das políticas públicas, como o lançamento, na semana passada, do Ano da Pessoa com Deficiência no Controle Externo Brasileiro, que busca ampliar o debate sobre os direitos e os desafios dessa parcela da população.\" (Linhas 33-38) - A primeira vírgula é usada para separar um elemento de natureza exemplificativa, enquanto a última vírgula é empregada antes de termo de valor explicativo."
@@ -208,7 +208,7 @@ createQuestion({
     },
     options: [
       "Coração - Constrói-se, a partir da relação entre os usos literal e metafórico do termo, o sentido de que, por causa de uma decepção amorosa profunda, não é possível amar novamente.",
-      "Pessoa - O efeito de sentido é construído a partir de usos eufemísticos de adjetivos, de forma que a pessoa é considerada incapaz de amar outras pessoas senão aquela com a qual se relaciona.",
+      "Pessoa - O efeito de sentido é construído a partir de usos eufemísticos de adjetivos, de forma que a pessoa é considerada incapaz de amar outras pessoas $\\sin$ão aquela com a qual se relaciona.",
       "Médico - Atribui-se, ao profissional de saúde, a responsabilidade pelo cuidado do coração das pessoas, em sentido literal, de forma que ele não é apto para o amor.",
       "Casal - A partir de usos literais de adjetivos, constrói-se o efeito de sentido de que o casal não é capaz de amar na mesma medida, uma vez que tem problemas conjugais."
     ],
@@ -403,7 +403,7 @@ createQuestion({
     university: "uece",
     year: 2025,
     text: {
-      principal: "21. Seja f: R-{0} → R a função definida por f(x) = x + 1/x . Sobre as características e as propriedades da função f, é possível afirmar:\nI. A imagem da função f é o conjunto é o R-{0}\nII. A reta cuja equação, no sistema de coordenadas cartesianas ortogonal usual, é x + y = 0 não intercepta o gráfico de f.\nIII. f é uma função ímpar, isto é, f(-x) = − f(x) para todo x no domínio de f.\nIV. A função f é periódica, com período igual a 2.\nO número de afirmativas verdadeiras é\nNota: R é o conjunto dos números reais.",
+      principal: "21. Seja f: R-{0} → R a função definida por f(x) = x + $1/x$ . Sobre as características e as propriedades da função f, é possível afirmar:\nI. A imagem da função f é o conjunto é o R-{0}\nII. A reta cuja equação, no sistema de coordenadas cartesianas ortogonal usual, é x + y = 0 não intercepta o gráfico de f.\nIII. f é uma função ímpar, isto é, f(-x) = − f(x) para todo x no domínio de f.\nIV. A função f é periódica, com período igual a 2.\nO número de afirmativas verdadeiras é\nNota: R é o conjunto dos números reais.",
       subItens: []
     },
     options: [
@@ -443,7 +443,7 @@ createQuestion({
     university: "uece",
     year: 2025,
     text: {
-      principal: "23. Nem todos os habitantes da Europa Ocidental, na época feudal, viviam em castelos, solares ou aldeias rurais. Milhares deles residiam em cidades e em vilas e, pelo menos desde o século XI, as atividades das classes urbanas foram tão importantes quanto as lutas e os galanteios dos nobres ou a faina agitada dos camponeses.\nSobre as cidades medievais, marque V ou F.\n() As mais antigas cidades medievais da Europa Ocidental foram, sem dúvidas, aquelas que haviam sido construídas logo após o colapso do Império Romano.\n() Na maioria das cidades medievais, as condições sanitárias eram muito inferiores às da Roma Antiga.\n() As instituições econômicas básicas das cidades medievais eram as corporações.\n() A teoria econômica em que se baseava o sistema corporativo era muito semelhante à que domina a sociedade capitalista.\n() Ainda que centro de uma atividade econômica vibrante, no fim da Idade Média, as cidades da Europa Ocidental ainda viviam sob controle feudal.\nAssinale a alternativa que apresenta a sequência correta.",
+      principal: "23. Nem todos os habitantes da Europa Ocidental, na época feudal, viviam em castelos, solares ou aldeias rurais. Milhares deles residiam em cidades e em vilas e, pelo menos desde o século $\\xi$, as atividades das classes urbanas foram tão importantes quanto as lutas e os galanteios dos nobres ou a faina agitada dos camponeses.\nSobre as cidades medievais, marque V ou F.\n() As mais antigas cidades medievais da Europa Ocidental foram, sem dúvidas, aquelas que haviam sido construídas logo após o colapso do Império Romano.\n() Na maioria das cidades medievais, as condições sanitárias eram muito inferiores às da Roma Antiga.\n() As instituições econômicas básicas das cidades medievais eram as corporações.\n() A teoria econômica em que se baseava o sistema corporativo era muito semelhante à que domina a sociedade capitalista.\n() Ainda que centro de uma atividade econômica vibrante, no fim da Idade Média, as cidades da Europa Ocidental ainda viviam sob controle feudal.\nAssinale a alternativa que apresenta a sequência correta.",
       subItens: []
     },
     options: [
@@ -643,7 +643,7 @@ createQuestion({
     university: "uece",
     year: 2025,
     text: {
-      principal: "33. Leia com atenção a passagem a seguir.\n\"Moradores de Juazeiro do Norte, no interior do Ceará, sofrem com transtornos das fortes chuvas ocorridas durante a madrugada desta terça-feira (21/1). Conforme a Fundação Cearense de Meteorologia e Recursos Hídricos (Funceme), houve chuva de 120 milímetros no município. No bairro Lagoa Seca, um dos mais afetados, a água subiu mais de um metro de altura, deixando carros submersos. A lagoa da região transbordou, alagando dezenas de casas e estabelecimentos comerciais da região. O trânsito foi interditado. População disse que, toda vez que chove, a lagoa transborda e invade a Avenida Plácido Aderaldo Castelo. Na Avenida Padre Cícero, em poucos minutos de chuva, a água transformou a via em um rio. Alguns carros apresentaram problemas mecânicos e, para seguir caminho, alguns motociclistas utilizam a ciclovia.\nRedação G1 CE. Carro fica submerso após forte chuva em Juazeiro do Norte. G1, 21 jan. 2025.\n\nCom base no texto, assinale a alternativa correta.",
+      principal: "33. Leia com atenção a passagem a seguir.\n\"Moradores de Juazeiro do Norte, no interior do Ceará, sofrem com transtornos das fortes chuvas ocorridas durante a madrugada desta terça-feira ($21/1$). Conforme a Fundação Cearense de Meteorologia e Recursos Hídricos (Funceme), houve chuva de 120 milímetros no município. No bairro Lagoa Seca, um dos mais afetados, a água subiu mais de um metro de altura, deixando carros submersos. A lagoa da região transbordou, alagando dezenas de casas e estabelecimentos comerciais da região. O trânsito foi interditado. População disse que, toda vez que chove, a lagoa transborda e invade a Avenida Plácido Aderaldo Castelo. Na Avenida Padre Cícero, em poucos minutos de chuva, a água transformou a via em um rio. Alguns carros apresentaram problemas mecânicos e, para seguir caminho, alguns motociclistas utilizam a ciclovia.\nRedação G1 CE. Carro fica submerso após forte chuva em Juazeiro do Norte. G1, 21 jan. 2025.\n\nCom base no texto, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -663,7 +663,7 @@ createQuestion({
     university: "uece",
     year: 2025,
     text: {
-      principal: "34. \"Maior economia do Nordeste, Fortaleza é também o maior paraíso nordestino para quem aprecia shopping centers. A cidade cearense possui 13 shoppings e lidera o ranking regional do setor, conforme aponta o Censo Brasileiro de Shopping Centers 2024/2025, elaborado pela Associação Brasileira de Shopping Centers (Abrasce). Considerando o total de 22 empreendimentos do Ceará contabilizados pelo Censo, Fortaleza concentra mais da metade. Em segundo lugar no ranking do Nordeste, está Salvador, com 11 centros comerciais. A terceira posição pertence a João Pessoa, com 7 shoppings. Com mais de 400 mil metros quadrados de Área Bruta Locável (ABL), ou seja, espaços destinados a lojas, restaurantes e demais operações comerciais, Fortaleza possui o equivalente a 60 campos de futebol em shoppings\".\nXIMENES, Vitor. Fortaleza é a cidade do Nordeste com mais shopping centers. Diário do Nordeste, 19 fev. 2025.\n\nCom base na passagem anterior, assinale V ou F nas sentenças a seguir.\n() A difusão de shopping centers no território brasileiro revela a inserção do país na sociedade de consumo, ampliando o alcance da lógica da globalização nos mais diversos espaços geográficos.\n() Os shopping centers são espaços democráticos e públicos que tornam a vida urbana mais agradável e segura, e todos têm acesso ao consumo dos mais diversos produtos, das mercadorias e dos serviços, independentemente de classe social e de renda.\n() A lógica da sociedade de consumo se materializa na expansão de novos espaços comerciais, como os shopping centers, aumentando as clivagens sociais e produzindo efeitos perversos na vida urbana, como a reprodução das desigualdades urbanas.\n() Os shopping centers retratam a descentralização de atividades econômicas, de comércio e de serviços, modificando a estrutura espacial da cidade e tornando mais complexo o espaço urbano em termos de atividades terciárias, do trabalho e do consumo.\nEstá correta, de cima para baixo, a sequência",
+      principal: "34. \"Maior economia do Nordeste, Fortaleza é também o maior paraíso nordestino para quem aprecia shopping centers. A cidade cearense possui 13 shoppings e lidera o ranking regional do setor, conforme aponta o Censo Brasileiro de Shopping Centers $2024/2025$, elaborado pela Associação Brasileira de Shopping Centers (Abrasce). Considerando o total de 22 empreendimentos do Ceará contabilizados pelo Censo, Fortaleza concentra mais da metade. Em segundo lugar no ranking do Nordeste, está Salvador, com 11 centros comerciais. A terceira posição pertence a João Pessoa, com 7 shoppings. Com mais de 400 mil metros quadrados de Área Bruta Locável (ABL), ou seja, espaços destinados a lojas, restaurantes e demais operações comerciais, Fortaleza possui o equivalente a 60 campos de futebol em shoppings\".\nXIMENES, Vitor. Fortaleza é a cidade do Nordeste com mais shopping centers. Diário do Nordeste, 19 fev. 2025.\n\nCom base na passagem anterior, assinale V ou F nas sentenças a seguir.\n() A difusão de shopping centers no território brasileiro revela a inserção do país na sociedade de consumo, ampliando o alcance da lógica da globalização nos mais diversos espaços geográficos.\n() Os shopping centers são espaços democráticos e públicos que tornam a vida urbana mais agradável e segura, e todos têm acesso ao consumo dos mais diversos produtos, das mercadorias e dos serviços, independentemente de classe social e de renda.\n() A lógica da sociedade de consumo se materializa na expansão de novos espaços comerciais, como os shopping centers, aumentando as clivagens sociais e produzindo efeitos perversos na vida urbana, como a reprodução das desigualdades urbanas.\n() Os shopping centers retratam a descentralização de atividades econômicas, de comércio e de serviços, modificando a estrutura espacial da cidade e tornando mais complexo o espaço urbano em termos de atividades terciárias, do trabalho e do consumo.\nEstá correta, de cima para baixo, a sequência",
       subItens: []
     },
     options: [
@@ -768,8 +768,8 @@ createQuestion({
     },
     options: [
       "V.",
-      "H/T.",
-      "A/T.",
+      "$H/T$.",
+      "$A/T$.",
       "Vsenθ."
     ],
     correctAnswer: 2,
@@ -863,14 +863,14 @@ createQuestion({
     university: "uece",
     year: 2025,
     text: {
-      principal: "44. Uma lente convergente confeccionada em vidro apresenta, quando imersa no ar, uma distância focal igual a X. No entanto, quando imersa em água, essa mesma lente apresenta uma distância focal igual a Y. Sabendo que o índice de refração da água é 4/3 e que o índice de refração do vidro é 3/2, a razão X/Y é dada por",
+      principal: "44. Uma lente convergente confeccionada em vidro apresenta, quando imersa no ar, uma distância focal igual a X. No entanto, quando imersa em água, essa mesma lente apresenta uma distância focal igual a Y. Sabendo que o índice de refração da água é $4/3$ e que o índice de refração do vidro é $3/2$, a razão $X/Y$ é dada por",
       subItens: []
     },
     options: [
       "1.",
       "2.",
-      "1/2.",
-      "1/4."
+      "$1/2$.",
+      "$1/4$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -883,7 +883,7 @@ createQuestion({
     university: "uece",
     year: 2025,
     text: {
-      principal: "45. Um tubo em formato de U, aberto nas extremidades, é utilizado em laboratório para obtenção da densidade d de um líquido desconhecido a partir da densidade d' de um líquido conhecido. O tubo, de seção transversal uniforme, possui como características um ramo esquerdo E, um trecho horizontal de comprimento L e um ramo direito D de mesmo comprimento que o esquerdo E. São despejados no tubo volumes iguais de dois líquidos, admitidamente imiscíveis, e aguarda-se o equilíbrio. Atingido o equilíbrio, observa-se que o ramo esquerdo E encontra-se preenchido até uma altura X com o líquido de densidade d, ao passo que o ramo direito D encontra-se preenchido até uma altura Y com o líquido de densidade d'. A razão d/d' para que o trecho horizontal do tubo também se encontre preenchido com o líquido de densidade d' é",
+      principal: "45. Um tubo em formato de U, aberto nas extremidades, é utilizado em laboratório para obtenção da densidade d de um líquido desconhecido a partir da densidade d' de um líquido conhecido. O tubo, de seção transversal uniforme, possui como características um ramo esquerdo E, um trecho horizontal de comprimento L e um ramo direito D de mesmo comprimento que o esquerdo E. São despejados no tubo volumes iguais de dois líquidos, admitidamente imiscíveis, e aguarda-se o equilíbrio. Atingido o equilíbrio, observa-se que o ramo esquerdo E encontra-se preenchido até uma altura X com o líquido de densidade d, ao passo que o ramo direito D encontra-se preenchido até uma altura Y com o líquido de densidade d'. A razão $d/d$' para que o trecho horizontal do tubo também se encontre preenchido com o líquido de densidade d' é",
       subItens: []
     },
     options: [
@@ -910,7 +910,7 @@ createQuestion({
       "B/(2A).",
       "2AB/(A²+B²).",
       "AB/(A+B).",
-      "1/A+1/B."
+      "$1/A$+$1/B$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1163,7 +1163,7 @@ createQuestion({
     university: "uece",
     year: 2025,
     text: {
-      principal: "59. \"Vincent Van Gogh, certamente, é um dos mais importantes personagens da história da arte e um dos mais populares. Dentre diversas questões que surgiram com o passar dos anos, o motivo pelo qual o holandês utilizava tanto o amarelo é uma das que mais geram inquietações entre os amantes da arte. [...] Provavelmente, o pintor tinha preferência pelo amarelo em razão do uso de uma planta medicinal chamada dedaleira, utilizada para tratar de suas crises de epilepsia e suas confusões mentais, o que teria causado uma contaminação\", levando à doença conhecida como xantopsia. https://aventurasnahistoria.com.br/noticia/reportagem/por-que-o-amarelo-estava-tao-presente-nas-pinturas-de-van-gogh.phtml#google_vignette. (Adaptado)\nConsiderando os conhecimentos acerca dos conceitos biológicos que envolvem essa alteração fisiológica, assinale a alternativa correta.",
+      principal: "59. \"Vincent Van Gogh, certamente, é um dos mais importantes personagens da história da arte e um dos mais populares. Dentre diversas questões que surgiram com o passar dos anos, o motivo pelo qual o holandês utilizava tanto o amarelo é uma das que mais geram inquietações entre os amantes da arte. [...] Provavelmente, o pintor tinha preferência pelo amarelo em razão do uso de uma planta medicinal chamada dedaleira, utilizada para tratar de suas crises de epilepsia e suas confusões mentais, o que teria causado uma contaminação\", levando à doença conhecida como xantopsia. https://aventurasnahistoria.com.br/noticia/reportagem/por-que-o-amarelo-estava-tao-presente-nas-pinturas-de-van-gogh.phtml#$google_vignette$. (Adaptado)\nConsiderando os conhecimentos acerca dos conceitos biológicos que envolvem essa alteração fisiológica, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1603,7 +1603,7 @@ createQuestion({
     university: "uece",
     year: 2025,
     text: {
-      principal: "81. Dr. Shmerling explains that chronic inflammation is a condition that remains active for years, leading the immune system to attack healthy cells/tissues. Its appearance can be associated, among other factors, to",
+      principal: "81. Dr. Shmerling explains that chronic inflammation is a condition that remains active for years, leading the immune system to attack healthy $cells/tissues$. Its appearance can be associated, among other factors, to",
       subItens: []
     },
     options: [
@@ -1663,7 +1663,7 @@ createQuestion({
     university: "uece",
     year: 2025,
     text: {
-      principal: "84. As to recommendations of types of exercises to reduce chronic inflammation, the text suggests resistance/strength training specially to people who are losing muscle mass in the process of aging because this type of exercise would contribute to",
+      principal: "84. As to recommendations of types of exercises to reduce chronic inflammation, the text suggests $resistance/strength$ training specially to people who are losing muscle mass in the process of aging because this type of exercise would contribute to",
       subItens: []
     },
     options: [

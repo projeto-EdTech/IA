@@ -385,8 +385,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4",
-      "1/2",
+      "$1/4$",
+      "$1/2$",
       "1",
       "2",
       "4"
@@ -465,7 +465,7 @@ createQuestion({
     university: "enem",
     year: 2023,
     text: {
-      principal: "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π. Para que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em W/m², é mais próximo de",
+      principal: "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a 2,4 mW e possibilitam conectar dois dispositivos distanciados até 10 m. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere 3 como valor aproximado para π. Para que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em $W/m$², é mais próximo de",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "enem",
     year: 2023,
     text: {
-      principal: "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 m/s² e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 m/s². Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e o assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 m/s², as tensões iniciais nas cordas iguais a zero e as duas cordas ideais. [Imagem de um caminhão com uma caixa M presa por duas cordas 1 e 2]. Nas situações de aceleração e frenagem do caminhão, as tensões nas cordas 1 e 2, em newton, serão",
+      principal: "Uma equipe de segurança do transporte de uma empresa avalia o comportamento das tensões que aparecem em duas cordas, 1 e 2, usadas para prender uma carga de massa M = 200 kg na carroceria, conforme a ilustração. Quando o caminhão parte do repouso, sua aceleração é constante e igual a 3 $m/s$² e, quando ele é freado bruscamente, sua frenagem é constante e igual a 5 $m/s$². Em ambas as situações, a carga encontra-se na iminência de movimento, e o sentido do movimento do caminhão está indicado na figura. O coeficiente de atrito estático entre a caixa e o assoalho da carroceria é igual a 0,2. Considere a aceleração da gravidade igual a 10 $m/s$², as tensões iniciais nas cordas iguais a zero e as duas cordas ideais. [Imagem de um caminhão com uma caixa M presa por duas cordas 1 e 2]. Nas situações de aceleração e frenagem do caminhão, as tensões nas cordas 1 e 2, em newton, serão",
       subItens: []
     },
     options: [
@@ -549,7 +549,7 @@ createQuestion({
     university: "enem",
     year: 2023,
     text: {
-      principal: "Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se o sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, o que pode representar um problema para as tripulações de aeronaves. Recentemente, foram realizadas medições acuradas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma. Os resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 µSv/h. As normas internacionais da aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv. RUAS, A. C. O tripulante de aeronaves e a radiação ionizante. São Paulo: Edição do Autor, 2019 (adaptado). A quantas radiografias torácicas corresponde a dose de radiação ionizante à qual um tripulante que atue no trecho Rio de Janeiro-Roma é exposto ao longo de um ano?",
+      principal: "Os raios cósmicos são fontes de radiação ionizante potencialmente perigosas para o organismo humano. Para quantificar a dose de radiação recebida, utiliza-se o sievert (Sv), definido como a unidade de energia recebida por unidade de massa. A exposição à radiação proveniente de raios cósmicos aumenta com a altitude, o que pode representar um problema para as tripulações de aeronaves. Recentemente, foram realizadas medições acuradas das doses de radiação ionizante para voos entre Rio de Janeiro e Roma. Os resultados têm indicado que a dose média de radiação recebida na fase de cruzeiro (que geralmente representa 80% do tempo total de voo) desse trecho intercontinental é 2 µ$Sv/h$. As normas internacionais da aviação civil limitam em 1 000 horas por ano o tempo de trabalho para as tripulações que atuem em voos intercontinentais. Considere que a dose de radiação ionizante para uma radiografia torácica é estimada em 0,2 mSv. RUAS, A. C. O tripulante de aeronaves e a radiação ionizante. São Paulo: Edição do Autor, 2019 (adaptado). A quantas radiografias torácicas corresponde a dose de radiação ionizante à qual um tripulante que atue no trecho Rio de Janeiro-Roma é exposto ao longo de um ano?",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "enem",
     year: 2023,
     text: {
-      principal: "De acordo com a Constituição Federal, é competência dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem. ZYCHIS, S.; MANSUR, V. J. Cartilha de limpeza urbana. Disponível em: www.bragancapaulista.sp.gov.br. Acesso em: 13 maio 2017 (adaptado). Suponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão. Considere: R = 0,082 L·atm/mol·K. A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
+      principal: "De acordo com a Constituição Federal, é competência dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem. ZYCHIS, S.; MANSUR, V. J. Cartilha de limpeza urbana. Disponível em: www.bragancapaulista.sp.gov.br. Acesso em: 13 maio 2017 (adaptado). Suponha um frasco metálico de um aerossol de capacidade igual a 100 mL, contendo 0,1 mol de produtos gasosos à temperatura de 650 °C, no momento da explosão. Considere: R = 0,082 L·$atm/mol$·K. A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "enem",
     year: 2023,
     text: {
-      principal: "Uma concessionária é responsável por um trecho de 480 quilômetros de uma rodovia. Nesse trecho, foram construídos 10 praças de pedágio, onde funcionários recebem os pagamentos nas cabines de cobrança. Também existe o serviço automático, em que os veículos providos de um dispositivo passam por uma cancela, que se abre automaticamente, liberando (no máximo) o tempo de passagem. Segundo a concessionária, o tempo médio para efetuar a passagem em uma cabine é de 3 minutos, e as velocidades máximas permitidas na rodovia são 100 km/h, para veículos leves, e 80 km/h, para veículos de grande porte. Considere um carro e um caminhão viajando, ambos com velocidades constantes e iguais às máximas permitidas, e que somente o caminhão tenha o serviço automático de cobrança. Comparado ao caminhão, quantos minutos a menos o carro leva para percorrer toda a rodovia?",
+      principal: "Uma concessionária é responsável por um trecho de 480 quilômetros de uma rodovia. Nesse trecho, foram construídos 10 praças de pedágio, onde funcionários recebem os pagamentos nas cabines de cobrança. Também existe o serviço automático, em que os veículos providos de um dispositivo passam por uma cancela, que se abre automaticamente, liberando (no máximo) o tempo de passagem. Segundo a concessionária, o tempo médio para efetuar a passagem em uma cabine é de 3 minutos, e as velocidades máximas permitidas na rodovia são 100 $km/h$, para veículos leves, e 80 $km/h$, para veículos de grande porte. Considere um carro e um caminhão viajando, ambos com velocidades constantes e iguais às máximas permitidas, e que somente o caminhão tenha o serviço automático de cobrança. Comparado ao caminhão, quantos minutos a menos o carro leva para percorrer toda a rodovia?",
       subItens: []
     },
     options: [
@@ -1057,11 +1057,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2",
-      "1/3",
-      "1/8",
-      "2/9",
-      "3/8"
+      "$1/2$",
+      "$1/3$",
+      "$1/8$",
+      "$2/9$",
+      "$3/8$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1204,7 +1204,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "22√3/3",
+      "22√$3/3$",
       "11√2",
       "12√2",
       "12√3",
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "enem",
     year: 2023,
     text: {
-      principal: "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível N de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo N = log₁₀(I/I₀), I a intensidade do som e I₀ = 10⁻¹² W/m². Disponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado). Quando o som é considerado baixo, ou seja, N = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando N está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a N no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se N estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com N maior que 115 dB, deve-se utilizar a medida preventiva V. Uma nova máquina, com I = 8 × 10⁻⁸ W/m², foi adquirida e será classificada de acordo com o nível de ruído que produz. Considere 0,3 como aproximação para log₁₀2. O funcionário que operará a nova máquina deverá adotar a medida preventiva",
+      principal: "A exposição a alguns níveis sonoros pode causar lesões auditivas. Por isso, em uma indústria, são adotadas medidas preventivas de acordo com a máquina que o funcionário opera e o nível N de intensidade do som, medido em decibel (dB), a que o operário é exposto, sendo N = $\\log$₁₀($I/I$₀), I a intensidade do som e I₀ = 10⁻¹² $W/m$². Disponível em: www.sofisica.com.br. Acesso em: 8 jul. 2015 (adaptado). Quando o som é considerado baixo, ou seja, N = 48 dB ou menos, deve ser utilizada a medida preventiva I. No caso de o som ser moderado, quando N está no intervalo (48 dB, 55 dB), deve ser utilizada a medida preventiva II. Quando o som é moderado alto, que equivale a N no intervalo (55 dB, 80 dB), a medida preventiva a ser usada é a III. Se N estiver no intervalo (80 dB, 115 dB), quando o som é considerado alto, deve ser utilizada a medida preventiva IV. E se o som é considerado muito alto, com N maior que 115 dB, deve-se utilizar a medida preventiva V. Uma nova máquina, com I = 8 × 10⁻⁸ $W/m$², foi adquirida e será classificada de acordo com o nível de ruído que produz. Considere 0,3 como aproximação para $\\log$₁₀2. O funcionário que operará a nova máquina deverá adotar a medida preventiva",
       subItens: []
     },
     options: [
@@ -1578,7 +1578,7 @@ createQuestion({
     university: "enem",
     year: 2023,
     text: {
-      principal: "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade. Dias da semana | Caminhar | Correr | Andar de bicicleta | Jogar futebol: Segunda-feira | 1,0 | 0,5 | 0,0 | 2,0; Terça-feira | 0,5 | 1,0 | 0,5 | 1,0; Quarta-feira | 0,0 | 1,5 | 1,0 | 0,5; Quinta-feira | 0,0 | 2,0 | 0,0 | 0,0; Sexta-feira | 0,0 | 0,5 | 0,0 | 2,5. Ela deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora (cal/h) são os seguintes. Atividade física | Caminhar | Correr | Andar de bicicleta | Jogar futebol: Gasto calórico (cal/h) | 248 | 764 | 356 | 492. O dia da semana em que será comemorado o aniversário é",
+      principal: "Uma pessoa pratica quatro atividades físicas — caminhar, correr, andar de bicicleta e jogar futebol — como parte de seu programa de emagrecimento. Essas atividades são praticadas semanalmente de acordo com o quadro, que apresenta o número de horas diárias por atividade. Dias da semana | Caminhar | Correr | Andar de bicicleta | Jogar futebol: Segunda-feira | 1,0 | 0,5 | 0,0 | 2,0; Terça-feira | 0,5 | 1,0 | 0,5 | 1,0; Quarta-feira | 0,0 | 1,5 | 1,0 | 0,5; Quinta-feira | 0,0 | 2,0 | 0,0 | 0,0; Sexta-feira | 0,0 | 0,5 | 0,0 | 2,5. Ela deseja comemorar seu aniversário e escolhe o dia da semana em que o gasto calórico com as atividades físicas praticadas for o maior. Para tanto, considera que os valores dos gastos calóricos das atividades por hora ($cal/h$) são os seguintes. Atividade física | Caminhar | Correr | Andar de bicicleta | Jogar futebol: Gasto calórico ($cal/h$) | 248 | 764 | 356 | 492. O dia da semana em que será comemorado o aniversário é",
       subItens: []
     },
     options: [
@@ -1624,11 +1624,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/50 e 1/60",
-      "1/50 e 1/50",
-      "1/50 e 1/10",
-      "1/55 e 1/54",
-      "1/100 e 1/100"
+      "$1/50$ e $1/60$",
+      "$1/50$ e $1/50$",
+      "$1/50$ e $1/10$",
+      "$1/55$ e $1/54$",
+      "$1/100$ e $1/100$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1645,11 +1645,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/9 L₀",
-      "16/27 L₀",
-      "32/243 L₀",
-      "64/729 L₀",
-      "128/2187 L₀"
+      "$1/9$ L₀",
+      "$16/27$ L₀",
+      "$32/243$ L₀",
+      "$64/729$ L₀",
+      "$128/2187$ L₀"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1731,9 +1731,9 @@ createQuestion({
     options: [
       "min/(mL.kg)",
       "mL/(min.kg)",
-      "min.mL/kg",
-      "min.kg/mL",
-      "mL.kg/min"
+      "min.$mL/kg$",
+      "min.$kg/mL$",
+      "mL.$kg/min$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1872,7 +1872,7 @@ createQuestion({
     university: "enem",
     year: 2023,
     text: {
-      principal: "Um tipo de semente necessita de bastante água nos dois primeiros meses após o plantio. Um produtor pretende estabelecer o melhor momento para o plantio desse tipo de semente, nos meses de outubro a março. Após consultar a previsão do índice mensal de precipitação de chuva (ImPC) da região onde ocorrerá o plantio, para o período chuvoso de 2020-2021, ele obteve os seguintes dados: • outubro/2020: ImPC = 250 mm; • novembro/2020: ImPC = 150 mm; • dezembro/2020: ImPC = 200 mm; • janeiro/2021: ImPC = 450 mm; • fevereiro/2021: ImPC = 100 mm; • março/2021: ImPC = 200 mm. Com base nessas previsões, ele precisa escolher dois meses consecutivos em que a média mensal de precipitação seja a maior possível. No início de qual desses meses o produtor deverá plantar esse tipo de semente?",
+      principal: "Um tipo de semente necessita de bastante água nos dois primeiros meses após o plantio. Um produtor pretende estabelecer o melhor momento para o plantio desse tipo de semente, nos meses de outubro a março. Após consultar a previsão do índice mensal de precipitação de chuva (ImPC) da região onde ocorrerá o plantio, para o período chuvoso de 2020-2021, ele obteve os seguintes dados: • $outubro/2020$: ImPC = 250 mm; • $novembro/2020$: ImPC = 150 mm; • $dezembro/2020$: ImPC = 200 mm; • $janeiro/2021$: ImPC = 450 mm; • $fevereiro/2021$: ImPC = 100 mm; • març$o/2021$: ImPC = 200 mm. Com base nessas previsões, ele precisa escolher dois meses consecutivos em que a média mensal de precipitação seja a maior possível. No início de qual desses meses o produtor deverá plantar esse tipo de semente?",
       subItens: []
     },
     options: [

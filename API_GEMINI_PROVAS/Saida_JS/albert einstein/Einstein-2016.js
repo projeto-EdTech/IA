@@ -47,10 +47,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "recessiva e ligada ao sexo, e a probabilidade de o casal indicado por II2 e II3 ter uma criança do sexo masculino com a característica é de 1/2.",
-      "dominante e ligada ao sexo, e a probabilidade de o casal indicado por II2 e 113 ter uma criança do sexo masculino com a característica é de 1/2.",
-      "autossômica dominante e, supondo que a mulher indicada por II1se case com um homem afetado pela característica, a probabilidade de esse casal ter filhos com a característica é de 3/4.",
-      "autossômica recessiva, e a probabilidade de a mulher indicada por III1 ser heterozigótica é de 2/3."
+      "recessiva e ligada ao sexo, e a probabilidade de o casal indicado por II2 e II3 ter uma criança do sexo masculino com a característica é de $1/2$.",
+      "dominante e ligada ao sexo, e a probabilidade de o casal indicado por II2 e 113 ter uma criança do sexo masculino com a característica é de $1/2$.",
+      "autossômica dominante e, supondo que a mulher indicada por II1se case com um homem afetado pela característica, a probabilidade de esse casal ter filhos com a característica é de $3/4$.",
+      "autossômica recessiva, e a probabilidade de a mulher indicada por III1 ser heterozigótica é de $2/3$."
     ],
     correctAnswer: 3,
     materia: ["Biologia"],
@@ -103,7 +103,7 @@ createQuestion({
     university: "albert einstein",
     year: 2016,
     text: {
-      principal: "Jetpack para corredores os fará correr 1,6 km em quatro minutos\nTrata-se do 4 Minute Mile (4MM), um acessório capaz de aumentar a velocidade de corrida de uma pessoa que esteja a pé. Foi desenvolvido por estudantes da Arizona State University.\nEnquanto pesquisava próteses para amputados, a equipe notou que poderia trabalhar no design de um protótipo que ajudasse o ser humano a correr mais rápido. Como aplicar as forças? Até mesmo um exoesqueleto foi pensado para gerar a força necessária para aumentar a velocidade, mas o resultado final foi o Jetpack.\nComo o nome sugere, o objetivo é fazer com que seja possível correr uma milha (aproximadamente 1,6 km) em quatro minutos. Os testes têm sido promissores. O tempo gasto por um atleta, usando o Jetpack, em corridas de 200 metros, foi 3 segundos mais rápido que o normal, mesmo carregando esse peso extra.\nOutra ideia é usar o Jetpack em missões militares, como infiltrações e ofensivas que necessitem de rápido deslocamento. Por enquanto, o projeto ainda não passou da fase de protótipo.\nDisponível em: http://www.tecmundo.com.br/. Adaptado.\nCom base nas informações do texto, determine a velocidade média aproximada, em km/h, de uma pessoa que, usando o Jetpack 4MM, tenha percorrido uma milha dentro do tempo previsto pelos estudantes da Arizona State University.",
+      principal: "Jetpack para corredores os fará correr 1,6 km em quatro minutos\nTrata-se do 4 Minute Mile (4MM), um acessório capaz de aumentar a velocidade de corrida de uma pessoa que esteja a pé. Foi desenvolvido por estudantes da Arizona State University.\nEnquanto pesquisava próteses para amputados, a equipe notou que poderia trabalhar no design de um protótipo que ajudasse o ser humano a correr mais rápido. Como aplicar as forças? Até mesmo um exoesqueleto foi pensado para gerar a força necessária para aumentar a velocidade, mas o resultado final foi o Jetpack.\nComo o nome sugere, o objetivo é fazer com que seja possível correr uma milha (aproximadamente 1,6 km) em quatro minutos. Os testes têm sido promissores. O tempo gasto por um atleta, usando o Jetpack, em corridas de 200 metros, foi 3 segundos mais rápido que o normal, mesmo carregando esse peso extra.\nOutra ideia é usar o Jetpack em missões militares, como infiltrações e ofensivas que necessitem de rápido deslocamento. Por enquanto, o projeto ainda não passou da fase de protótipo.\nDisponível em: http://www.tecmundo.com.br/. Adaptado.\nCom base nas informações do texto, determine a velocidade média aproximada, em $km/h$, de uma pessoa que, usando o Jetpack 4MM, tenha percorrido uma milha dentro do tempo previsto pelos estudantes da Arizona State University.",
       subItens: []
     },
     options: [
@@ -123,7 +123,7 @@ createQuestion({
     university: "albert einstein",
     year: 2016,
     text: {
-      principal: "Em 1816 o médico francês René Laënnec, durante um exame clínico numa senhora, teve a ideia de enrolar uma folha de papel bem apertada e colocar seu ouvido numa das extremidades, deixando a outra livre para ser encostada na paciente.\nDessa forma, não só era evitado o contato indesejado com a paciente, como os sons se tornavam muito mais audíveis. Estava criada assim a ideia fundamental do estetoscópio [do grego, \"stêthos\" (peito) \"skopéo\" (olhar)].\nÉ utilizado por diversos profissionais, como médicos e enfermeiros, para auscultar (termo técnico correspondente a escutar) sons vasculares, respiratórios ou de outra natureza em diversas regiões do corpo.\nÉ composto por três partes fundamentais. A peça auricular tem formato anatômico para adaptar-se ao canal auditivo. Os tubos condutores do som a conectam à peça auscultatória. E, por fim, a peça auscultatória, componente metálico colocado em contato com o corpo do paciente. Essa peça é composta por uma campânula, que transmite melhor os sons de baixa frequência como as batidas do coração - e o diafragma, que transmite melhor os sons de alta frequência, como os do pulmão e do abdômen.\nA folha de papel enrolada pelo médico francês René Laënnec pode ser interpretada como um tubo sonoro aberto. Considerando o comprimento desse tubo igual a 34cm e que, ao auscultar um paciente, houve a formação, no interior desse tubo, de uma onda estacionária longitudinal de segundo harmônico e que se propagava com uma velocidade de 340m/s, qual a frequência dessa onda, em hertz?",
+      principal: "Em 1816 o médico francês René Laënnec, durante um exame clínico numa senhora, teve a ideia de enrolar uma folha de papel bem apertada e colocar seu ouvido numa das extremidades, deixando a outra livre para ser encostada na paciente.\nDessa forma, não só era evitado o contato indesejado com a paciente, como os sons se tornavam muito mais audíveis. Estava criada assim a ideia fundamental do estetoscópio [do grego, \"stêthos\" (peito) \"skopéo\" (olhar)].\nÉ utilizado por diversos profissionais, como médicos e enfermeiros, para auscultar (termo técnico correspondente a escutar) sons vasculares, respiratórios ou de outra natureza em diversas regiões do corpo.\nÉ composto por três partes fundamentais. A peça auricular tem formato anatômico para adaptar-se ao canal auditivo. Os tubos condutores do som a conectam à peça auscultatória. E, por fim, a peça auscultatória, componente metálico colocado em contato com o corpo do paciente. Essa peça é composta por uma campânula, que transmite melhor os sons de baixa frequência como as batidas do coração - e o diafragma, que transmite melhor os sons de alta frequência, como os do pulmão e do abdômen.\nA folha de papel enrolada pelo médico francês René Laënnec pode ser interpretada como um tubo sonoro aberto. Considerando o comprimento desse tubo igual a 34cm e que, ao auscultar um paciente, houve a formação, no interior desse tubo, de uma onda estacionária longitudinal de segundo harmônico e que se propagava com uma velocidade de $340m/s$, qual a frequência dessa onda, em hertz?",
       subItens: []
     },
     options: [
@@ -183,7 +183,7 @@ createQuestion({
     university: "albert einstein",
     year: 2016,
     text: {
-      principal: "Por decisão da Assembleia Geral da Unesco, realizada em dezembro de 2013, a luz e as tecnologias nela baseadas serão celebradas ao longo de 2015, que passará a ser referido simplesmente como Ano Internacional da Luz. O trabalho de Albert Einstein sobre o efeito fotoelétrico (1905) foi fundamental para a ciência e a tecnologia desenvolvidas a partir de 1950, incluindo a fotônica, tida como a tecnologia do século 21. Com o intuito de homenagear o célebre cientista, um eletricista elabora um inusitado aquecedor conforme mostra a figura abaixo. Esse aquecedor será submetido a uma tensão elétrica de 120V, entre seus terminais A e B, e será utilizado, totalmente imerso, para aquecer a água que enche completamente um aquário de dimensões 30cm x 50cm x 80cm. Desprezando qualquer tipo de perda, supondo constante a potência do aquecedor e considerando que a distribuição de calor para a água se dê de maneira uniforme, determine após quantas horas de funcionamento, aproximadamente, ele será capaz de provocar uma variação de temperatura de 36°F na água desse aquário.\nAdote:\nPressão atmosférica = 1 atm\nDensidade da água = 1 g/cm³\nCalor específico da água = 1 cal.g⁻¹.°c⁻¹\n1 cal = 4,2 J\n= resistor de 1 Ω\n(Imagem de um aquecedor elétrico)",
+      principal: "Por decisão da Assembleia Geral da Unesco, realizada em dezembro de 2013, a luz e as tecnologias nela baseadas serão celebradas ao longo de 2015, que passará a ser referido simplesmente como Ano Internacional da Luz. O trabalho de Albert Einstein sobre o efeito fotoelétrico (1905) foi fundamental para a ciência e a tecnologia desenvolvidas a partir de 1950, incluindo a fotônica, tida como a tecnologia do século 21. Com o intuito de homenagear o célebre cientista, um eletricista elabora um inusitado aquecedor conforme mostra a figura abaixo. Esse aquecedor será submetido a uma tensão elétrica de 120V, entre seus terminais A e B, e será utilizado, totalmente imerso, para aquecer a água que enche completamente um aquário de dimensões 30cm x 50cm x 80cm. Desprezando qualquer tipo de perda, supondo constante a potência do aquecedor e considerando que a distribuição de calor para a água se dê de maneira uniforme, determine após quantas horas de funcionamento, aproximadamente, ele será capaz de provocar uma variação de temperatura de 36°F na água desse aquário.\nAdote:\nPressão atmosférica = 1 atm\nDensidade da água = 1 $g/cm$³\nCalor específico da água = 1 cal.g⁻¹.°c⁻¹\n1 cal = 4,2 J\n= resistor de 1 Ω\n(Imagem de um aquecedor elétrico)",
       subItens: []
     },
     options: [
@@ -243,7 +243,7 @@ createQuestion({
     university: "albert einstein",
     year: 2016,
     text: {
-      principal: "\"No Brasil o fenômeno metropolitano chega ao seu ápice a partir da década de 1960, quando o processo de urbanização alcança novo patamar, baseado no aumento das cidades milionárias (...)\"\n(Milton Santos. A urbanização brasileira. São Paulo: Editora Hucitec, 1996. p. 66/67)\nConsiderando o momento que vivemos pode-se dizer que o fenômeno metropolitano no Brasil",
+      principal: "\"No Brasil o fenômeno metropolitano chega ao seu ápice a partir da década de 1960, quando o processo de urbanização alcança novo patamar, baseado no aumento das cidades milionárias (...)\"\n(Milton Santos. A urbanização brasileira. São Paulo: Editora Hucitec, 1996. p. $66/67$)\nConsiderando o momento que vivemos pode-se dizer que o fenômeno metropolitano no Brasil",
       subItens: []
     },
     options: [
@@ -363,7 +363,7 @@ createQuestion({
     university: "albert einstein",
     year: 2016,
     text: {
-      principal: "\"Depois que a Guerra do Vietnã demonstrou que o mais caro, mais avançado e mais destrutivo aparato militar que o mundo já vira era inteiramente incapaz de dobrar a vontade de um dos povos mais pobres da Terra, o governo norte-americano perdeu temporariamente a maior parte, senão toda a sua credibilidade como vigilante do mundo livre. O resultado foi um vazio de poder, que as forças locais, em conluio franco ou tácito com a União Soviética e seus aliados, exploraram prontamente, de várias maneiras: para completar o processo de libertação nacional dos últimos resíduos do colonialismo europeu, para guerrear entre si na tentativa de reorganizar o espaço político das regiões circunvizinhas e para expulsar do poder os governos que eram clientes dos Estados Unidos.\"\nGiovanni Arrighi. O longo século XX. Rio de Janeiro/São Paulo: Contraponto/Unesp, 1996, p. 333. Adaptado.\nA partir do que afirma o texto, pode-se dizer que a derrota militar dos Estados Unidos no Vietnã provocou, entre outros efeitos diretos ou indiretos,",
+      principal: "\"Depois que a Guerra do Vietnã demonstrou que o mais caro, mais avançado e mais destrutivo aparato militar que o mundo já vira era inteiramente incapaz de dobrar a vontade de um dos povos mais pobres da Terra, o governo norte-americano perdeu temporariamente a maior parte, $\\sin$ão toda a sua credibilidade como vigilante do mundo livre. O resultado foi um vazio de poder, que as forças locais, em conluio franco ou tácito com a União Soviética e seus aliados, exploraram prontamente, de várias maneiras: para completar o processo de libertação nacional dos últimos resíduos do colonialismo europeu, para guerrear entre si na tentativa de reorganizar o espaço político das regiões circunvizinhas e para expulsar do poder os governos que eram clientes dos Estados Unidos.\"\nGiovanni Arrighi. O longo século XX. Rio de $Janeiro/S$ão Paulo: $Contraponto/Unesp$, 1996, p. 333. Adaptado.\nA partir do que afirma o texto, pode-se dizer que a derrota militar dos Estados Unidos no Vietnã provocou, entre outros efeitos diretos ou indiretos,",
       subItens: []
     },
     options: [
@@ -403,7 +403,7 @@ createQuestion({
     university: "albert einstein",
     year: 2016,
     text: {
-      principal: "Graph 1: Total suspected, probable, and confirmed cases of Ebola virus disease in Guinea, Liberia, and Sierra Leone, March 25, 2014 – August 23, 2015, by date of WHO Situation Report, n=28005\n(Gráfico com o número de casos de Ebola por país ao longo do tempo)\n(Disponível em http://www.cdc.gov/vhf/ebola/outbreaks/2014-west-africa/cumulative-cases-graphs.html Acessado em 28/08/205)\nOlhando o gráfico acima você diria que ele",
+      principal: "Graph 1: Total suspected, probable, and confirmed cases of Ebola virus disease in Guinea, Liberia, and Sierra Leone, March 25, 2014 – August 23, 2015, by date of WHO Situation Report, n=28005\n(Gráfico com o número de casos de Ebola por país ao longo do tempo)\n(Disponível em http://www.cdc.gov/vhf/ebola/outbreaks/2014-west-$africa/cumulative$-cases-graphs.html Acessado em 28/08/205)\nOlhando o gráfico acima você diria que ele",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "albert einstein",
     year: 2016,
     text: {
-      principal: "(Tirinha com três quadros: No primeiro, a pessoa da esquerda pergunta 'ARE YOU BLAMING THE VOICE INSIDE YOUR HEAD FOR STEALING ALL THAT MONEY?'. No segundo, a pessoa da direita responde 'NOT AT ALL... I DID THAT ON MY OWN INITIATIVE.'. No terceiro, a pessoa da direita continua 'I'M BLAMING THE VOICE INSIDE MY HEAD FOR TELLING ME TO INVEST THE MONEY I STOLE IN LOW-YIELD BONDS.')\n(Disponível em http://comics.azcentral.com/slideshow?comic Lawyer&feature_id=Lawyer Acessado em 19/08/2015)\nNa tirinha acima, o personagem da direita",
+      principal: "(Tirinha com três quadros: No primeiro, a pessoa da esquerda pergunta 'ARE YOU BLAMING THE VOICE INSIDE YOUR HEAD FOR STEALING ALL THAT MONEY?'. No segundo, a pessoa da direita responde 'NOT AT ALL... I DID THAT ON MY OWN INITIATIVE.'. No terceiro, a pessoa da direita continua 'I'M BLAMING THE VOICE INSIDE MY HEAD FOR TELLING ME TO INVEST THE MONEY I STOLE IN LOW-YIELD BONDS.')\n(Disponível em http://comics.azcentral.$com/slideshow$?comic Lawyer&$feature_id$=Lawyer Acessado em 19/08/2015)\nNa tirinha acima, o personagem da direita",
       subItens: []
     },
     options: [
@@ -443,7 +443,7 @@ createQuestion({
     university: "albert einstein",
     year: 2016,
     text: {
-      principal: "The headline that better suits the article illustrated by the picture below is:\n(Imagem de uma mulher obesa sentada em uma cadeira)\nAn overweight woman sits on a chair in Times Square in New York, May 8, 2012. Reuters/Lucas Jackson\nDisponível em: http://www.reuters.com/article/2015/05/15/us-health-stroke-obesity-idUSKBN0O027420150515. Acessado em 25/05/2015. Adaptado para fins educacionais.",
+      principal: "The headline that better suits the article illustrated by the picture below is:\n(Imagem de uma mulher obesa sentada em uma cadeira)\nAn overweight woman sits on a chair in Times Square in New York, May 8, 2012. $Reuters/Lucas$ Jackson\nDisponível em: http://www.reuters.com/article/2015/05/15/us-health-stroke-obesity-idUSKBN0O027420150515. Acessado em 25/05/2015. Adaptado para fins educacionais.",
       subItens: []
     },
     options: [
@@ -614,7 +614,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Literatura"],
-    conteudo: ["Realismo/Naturalismo (Portugal)", "Eça de Queirós"],
+    conteudo: ["$Realismo/Naturalismo$ (Portugal)", "Eça de Queirós"],
     imageNames: []
 }),
 
@@ -783,7 +783,7 @@ createQuestion({
     university: "albert einstein",
     year: 2016,
     text: {
-      principal: "Suponha que, em certo país, observou-se que o número de exames por imagem, em milhões por ano, havia crescido segundo os termos de uma progressão aritmética de razão 6, chegando a 94 milhões/ano, ao final de 10 anos. Nessas condições, o aumento percentual do número de tais exames, desde o ano da observação até ao final do período considerado, foi de",
+      principal: "Suponha que, em certo país, observou-se que o número de exames por imagem, em milhões por ano, havia crescido segundo os termos de uma progressão aritmética de razão 6, chegando a 94 milhõ$es/ano$, ao final de 10 anos. Nessas condições, o aumento percentual do número de tais exames, desde o ano da observação até ao final do período considerado, foi de",
       subItens: []
     },
     options: [
@@ -807,10 +807,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/14",
-      "3/7",
-      "4/7",
-      "9/14"
+      "$5/14$",
+      "$3/7$",
+      "$4/7$",
+      "$9/14$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],

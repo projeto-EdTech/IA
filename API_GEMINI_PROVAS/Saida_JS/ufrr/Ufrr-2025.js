@@ -91,11 +91,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "L²(1 - π/3 + √3/4)",
-      "L²(1 + π/3 + √3/4)",
-      "L²(1 + π/4 - √3/8)",
-      "L²(1 - π/6 - √3/8)",
-      "L²(1 - π/3 - √3/4)"
+      "L²(1 - π/3 + √$3/4$)",
+      "L²(1 + π/3 + √$3/4$)",
+      "L²(1 + π/4 - √$3/8$)",
+      "L²(1 - π/6 - √$3/8$)",
+      "L²(1 - π/3 - √$3/4$)"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -192,14 +192,14 @@ createQuestion({
     university: "ufrr",
     year: 2025,
     text: {
-      principal: "Um corpo de massa M está suspenso por um fio de comprimento L. Uma força horizontal de módulo Fé exercida sobre o corpo fazendo com que este se afaste horizontalmente uma distância x de sua posição inicial, ficando equilíbrio a uma altura y, em relação à posição inicialmente ocupada, conforme a figura. Sabendo que x = h/2 e que a aceleração da gravidade é g, o módulo da força F vale:\n\n[IMAGEM: Diagrama de um corpo de massa M suspenso por um fio de comprimento L, deslocado por uma força horizontal F. A posição inicial de equilíbrio está indicada. A nova posição tem um deslocamento horizontal x e está a uma altura y em relação à posição inicial. A distância vertical da sustentação superior até a nova posição é indicada como h. A força F é aplicada horizontalmente ao corpo M.]",
+      principal: "Um corpo de massa M está suspenso por um fio de comprimento L. Uma força horizontal de módulo Fé exercida sobre o corpo fazendo com que este se afaste horizontalmente uma distância x de sua posição inicial, ficando equilíbrio a uma altura y, em relação à posição inicialmente ocupada, conforme a figura. Sabendo que x = $h/2$ e que a aceleração da gravidade é g, o módulo da força F vale:\n\n[IMAGEM: Diagrama de um corpo de massa M suspenso por um fio de comprimento L, deslocado por uma força horizontal F. A posição inicial de equilíbrio está indicada. A nova posição tem um deslocamento horizontal x e está a uma altura y em relação à posição inicial. A distância vertical da sustentação superior até a nova posição é indicada como h. A força F é aplicada horizontalmente ao corpo M.]",
       subItens: []
     },
     options: [
       "F = Mg",
       "F = 2 Mg",
       "F= √Mg",
-      "F = Mg/2",
+      "F = $Mg/2$",
       "F = √2 Mg"
     ],
     correctAnswer: 3,
@@ -213,7 +213,7 @@ createQuestion({
     university: "ufrr",
     year: 2025,
     text: {
-      principal: "Um recipiente cilíndrico fechado, de altura igual a h = 10/π cm e base de raio r, está completamente cheio com líquido de massa específica µ = 0,3 g/cm³. A força exercida pelo líquido no fundo do recipiente vale F = 3 N. Qual o valor de r? Considere π = 3,14 e g= 10 m/s².",
+      principal: "Um recipiente cilíndrico fechado, de altura igual a h = 10/π cm e base de raio r, está completamente cheio com líquido de massa específica µ = 0,3 $g/cm$³. A força exercida pelo líquido no fundo do recipiente vale F = 3 N. Qual o valor de r? Considere π = 3,14 e g= 10 $m/s$².",
       subItens: []
     },
     options: [
@@ -234,7 +234,7 @@ createQuestion({
     university: "ufrr",
     year: 2025,
     text: {
-      principal: "Em um sistema isolado de forças externas, um corpo de massa m, inicialmente com uma velocidade de 5 m/s, se choca contra uma mola de constante K = 10 N/m. O tempo de contato do corpo com a mola é de 0,015 segundos. Durante esse intervalo de tempo a mola aplica sobre o corpo uma força média de 10 N. Após perder o contato com a mola, o corpo atinge uma velocidade de 10 m/s, no sentido oposto ao movimento inicial. Qual a massa do corpo?",
+      principal: "Em um sistema isolado de forças externas, um corpo de massa m, inicialmente com uma velocidade de 5 $m/s$, se choca contra uma mola de constante K = 10 $N/m$. O tempo de contato do corpo com a mola é de 0,015 segundos. Durante esse intervalo de tempo a mola aplica sobre o corpo uma força média de 10 N. Após perder o contato com a mola, o corpo atinge uma velocidade de 10 $m/s$, no sentido oposto ao movimento inicial. Qual a massa do corpo?",
       subItens: []
     },
     options: [
@@ -406,11 +406,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Após a transformação isocórica, a nova pressão P2 é dada por P2=P1V1/V2.",
-      "Após a transformação isobárica, o novo volume V3 é dado por V3=V1P2/P1.",
-      "Durante a transformação isotérmica, a pressão final P3 é dada por P3=P2T3/T2.",
+      "Após a transformação isocórica, a nova pressão P2 é dada por P2=$P1V1/V2$.",
+      "Após a transformação isobárica, o novo volume V3 é dado por V3=$V1P2/P1$.",
+      "Durante a transformação isotérmica, a pressão final P3 é dada por P3=$P2T3/T2$.",
       "A temperatura T3 deve ser menor que T₁ para que a pressão final P3 seja igual a P1.",
-      "Após a transformação isotérmica, a nova pressão P2 é dada por P2=P1V1/V2."
+      "Após a transformação isotérmica, a nova pressão P2 é dada por P2=$P1V1/V2$."
     ],
     correctAnswer: 4,
     materia: ["Química"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "ufrr",
     year: 2025,
     text: {
-      principal: "Uma amostra impura de 10,0 g de óxido de cálcio, contendo 80% de pureza, é misturada com 100,0 mL de uma solução de ácido sulfúrico 1,0 mol/L. Após a reação, foram isolados 8,0 g de sulfato de cálcio. Com base nesses dados, analise as seguintes afirmações e escolha a alternativa CORRETA.",
+      principal: "Uma amostra impura de 10,0 g de óxido de cálcio, contendo 80% de pureza, é misturada com 100,0 mL de uma solução de ácido sulfúrico 1,0 $mol/L$. Após a reação, foram isolados 8,0 g de sulfato de cálcio. Com base nesses dados, analise as seguintes afirmações e escolha a alternativa CORRETA.",
       subItens: []
     },
     options: [

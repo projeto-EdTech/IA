@@ -45,15 +45,15 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "Seja i tal que i² = −1. O valor do número real α que satisfaz à equação cis(7π/6) – 2cis(-7π/6) = [[-√3, -i, 0], [√3/2, -√3, α], [i², √3, -i/2]] é:",
+      principal: "Seja i tal que i² = −1. O valor do número real α que satisfaz à equação cis(7π/6) – 2cis(-7π/6) = [[-√3, -i, 0], [√$3/2$, -√3, α], [i², √3, -$i/2$]] é:",
       subItens: []
     },
     options: [
       "3",
-      "√3/2",
-      "√3/4",
-      "√3/8",
-      "√3/16"
+      "√$3/2$",
+      "√$3/4$",
+      "√$3/8$",
+      "√$3/16$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -91,8 +91,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "√2 - 1/2",
-      "1/2",
+      "√2 - $1/2$",
+      "$1/2$",
       "√2",
       "-1 + √2",
       "1"
@@ -108,14 +108,14 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "Uma matriz quadrada M é dita ortogonal se M × Mᵀ = I, em que I é a matriz identidade. O conjunto solução S contendo os valores de a, b e c para que a matriz [[0, 0, 1, 0], [√3/2, a, 0, 0], [b, 1/4, 2b, 0], [c, 0, 0, √3/2]] seja ortogonal é:",
+      principal: "Uma matriz quadrada M é dita ortogonal se M × Mᵀ = I, em que I é a matriz identidade. O conjunto solução S contendo os valores de a, b e c para que a matriz [[0, 0, 1, 0], [√$3/2$, a, 0, 0], [b, $1/4$, 2b, 0], [c, 0, 0, √$3/2$]] seja ortogonal é:",
       subItens: []
     },
     options: [
-      "S = {a = 1/2; b = -√3/2; c = 1}",
-      "S = {a = 1/2; b = √3/2; c = 1}",
-      "S = {a = 1/2; b = √3/2; c = -1}",
-      "S = {a = -1/2; b = √3/2; c = -1}",
+      "S = {a = $1/2$; b = -√$3/2$; c = 1}",
+      "S = {a = $1/2$; b = √$3/2$; c = 1}",
+      "S = {a = $1/2$; b = √$3/2$; c = -1}",
+      "S = {a = -$1/2$; b = √$3/2$; c = -1}",
       "S = Ø"
     ],
     correctAnswer: 4,
@@ -150,7 +150,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "O intervalo que contém os valores de x tais que 0,09^(4+x) * (1/√3)^(x^2) < x² - (x+1)(x-1) é:",
+      principal: "O intervalo que contém os valores de x tais que 0,09^(4+x) * (1/√3)^($x^2$) < x² - (x+1)(x-1) é:",
       subItens: []
     },
     options: [
@@ -196,11 +196,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2/3",
-      "1/6",
-      "7/36",
-      "5/12",
-      "3/16"
+      "$2/3$",
+      "$1/6$",
+      "$7/36$",
+      "$5/12$",
+      "$3/16$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "O valor de n ∈ N tal que arctg(1/3) + arctg(1/4) + arctg(1/5) + arctg(1/n) = π/4 é:",
+      principal: "O valor de n ∈ N tal que arctg($1/3$) + arctg($1/4$) + arctg($1/5$) + arctg($1/n$) = π/4 é:",
       subItens: []
     },
     options: [
@@ -255,7 +255,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "Considere uma barra AB de comprimento L fixada na posição vertical sobre um muro de altura L/2, que está assentado sobre um plano horizontal. Desprezando a altura do observador O, o ângulo máximo AOB enquanto o observador O caminha sobre o plano horizontal é:",
+      principal: "Considere uma barra AB de comprimento L fixada na posição vertical sobre um muro de altura $L/2$, que está assentado sobre um plano horizontal. Desprezando a altura do observador O, o ângulo máximo AOB enquanto o observador O caminha sobre o plano horizontal é:",
       subItens: []
     },
     options: [
@@ -281,10 +281,10 @@ createQuestion({
     },
     options: [
       "1",
-      "3/2",
-      "√3/2",
-      "√3/3",
-      "1/3"
+      "$3/2$",
+      "√$3/2$",
+      "√$3/3$",
+      "$1/3$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -297,7 +297,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "Em uma escada, uma bola lançada do i-ésimo degrau irá parar em qualquer degrau mais baixo com probabilidade 1/i. Por exemplo, ao lançarmos uma bola do 3º degrau, a bola tem 1/3 de chances de parar no 2º degrau, 1/3 de chances de parar no 1º degrau e 1/3 de chances de parar no degrau 0. Nessa escada lançamos uma bola preta do degrau m, m > 0, e uma bola branca do degrau n, n > m. A probabilidade de a bola branca parar em um degrau mais baixo do que a bola preta é:",
+      principal: "Em uma escada, uma bola lançada do i-ésimo degrau irá parar em qualquer degrau mais baixo com probabilidade $1/i$. Por exemplo, ao lançarmos uma bola do 3º degrau, a bola tem $1/3$ de chances de parar no 2º degrau, $1/3$ de chances de parar no 1º degrau e $1/3$ de chances de parar no degrau 0. Nessa escada lançamos uma bola preta do degrau m, m > 0, e uma bola branca do degrau n, n > m. A probabilidade de a bola branca parar em um degrau mais baixo do que a bola preta é:",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "Um projétil de chumbo está a uma temperatura de 175 °C quando atinge uma parede e nela se aloja. Considere que 25% da energia cinética do projétil imediatamente antes da colisão permaneça nele como energia interna. Dados: • calor específico do chumbo: 125 J/(kg.°C); • temperatura de fusão do chumbo: 327 °C; • calor latente de fusão do chumbo: 26.000 J/kg. Se a energia interna que permanece após o projétil atingir a parede é justamente a mínima para que ocorra a fusão total do chumbo, a velocidade do projétil imediatamente antes da colisão, em m/s, é:",
+      principal: "Um projétil de chumbo está a uma temperatura de 175 °C quando atinge uma parede e nela se aloja. Considere que 25% da energia cinética do projétil imediatamente antes da colisão permaneça nele como energia interna. Dados: • calor específico do chumbo: 125 J/(kg.°C); • temperatura de fusão do chumbo: 327 °C; • calor latente de fusão do chumbo: 26.000 $J/kg$. Se a energia interna que permanece após o projétil atingir a parede é justamente a mínima para que ocorra a fusão total do chumbo, a velocidade do projétil imediatamente antes da colisão, em $m/s$, é:",
       subItens: []
     },
     options: [
@@ -343,8 +343,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Kh/3",
-      "Kh/6",
+      "$Kh/3$",
+      "$Kh/6$",
       "Kh",
       "3Kh",
       "2Kh"
@@ -381,7 +381,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "O sistema da figura é montado com o objetivo de determinar a resistência elétrica de uma espira condutora de área A. O centro dessa espira descreve uma trajetória circular de raio R e período τ, à velocidade angular constante, ao redor de um fio também condutor com uma corrente elétrica contínua I. A corrente elétrica na espira é medida e seu valor oscila harmonicamente entre +i e -i. Dados: • área da espira: A = 1 cm²; • raio da trajetória do centro da espira: R = 10 cm; • período da trajetória circular do centro da espira: τ = 2 s; • corrente elétrica contínua do fio condutor: I = 50 A; • amplitude da corrente elétrica induzida medida na espira: i = 1 mA; • permeabilidade magnética no vácuo: μ = 4π.10⁻⁷ T.m/A. Observações: • o sistema segue a orientação dos eixos xyz desenhados na figura; • o fio condutor é paralelo ao eixo z; • o eixo da espira está sempre paralelo ao eixo y; • o plano da espira é sempre paralelo ao plano xz; • o plano da trajetória do centro da espira é paralelo ao plano xy; • considere que as linhas de campo magnético que atravessam a espira estejam paralelas; • para toda frequência f', considere Δ(sen(2πf't)) / Δt = 2πf'cos(2πf't). A resistência da espira, em μΩ, é:",
+      principal: "O sistema da figura é montado com o objetivo de determinar a resistência elétrica de uma espira condutora de área A. O centro dessa espira descreve uma trajetória circular de raio R e período τ, à velocidade angular constante, ao redor de um fio também condutor com uma corrente elétrica contínua I. A corrente elétrica na espira é medida e seu valor oscila harmonicamente entre +i e -i. Dados: • área da espira: A = 1 cm²; • raio da trajetória do centro da espira: R = 10 cm; • período da trajetória circular do centro da espira: τ = 2 s; • corrente elétrica contínua do fio condutor: I = 50 A; • amplitude da corrente elétrica induzida medida na espira: i = 1 mA; • permeabilidade magnética no vácuo: μ = 4π.10⁻⁷ T.$m/A$. Observações: • o sistema segue a orientação dos eixos xyz desenhados na figura; • o fio condutor é paralelo ao eixo z; • o eixo da espira está sempre paralelo ao eixo y; • o plano da espira é sempre paralelo ao plano xz; • o plano da trajetória do centro da espira é paralelo ao plano xy; • considere que as linhas de campo magnético que atravessam a espira estejam paralelas; • para toda frequência f', considere Δ($\\sin$(2πf't)) / Δt = 2πf'$\\cos$(2πf't). A resistência da espira, em μΩ, é:",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "Um sistema de distribuição em corrente contínua contém um circuito com 2 cabos condutores rígidos idênticos ligados em paralelo, fixados por isoladores de borracha e posicionados conforme mostra a figura. Dados: • distância entre os centros dos cabos: 5 cm; • permeabilidade magnética do meio: 8π.10⁻⁷ T.m/A; • força máxima admissível nos isoladores por unidade de área: 625.10⁴ N/m²; • comprimento de cada cabo: 10 m; • área da seção transversal dos isoladores: 10 mm². Observação: • use a aproximação de fios infinitos para o cálculo dos campos magnéticos. A máxima corrente do circuito I, em A, que pode circular simultaneamente em cada um dos cabos, sem o rompimento dos isoladores, é:",
+      principal: "Um sistema de distribuição em corrente contínua contém um circuito com 2 cabos condutores rígidos idênticos ligados em paralelo, fixados por isoladores de borracha e posicionados conforme mostra a figura. Dados: • distância entre os centros dos cabos: 5 cm; • permeabilidade magnética do meio: 8π.10⁻⁷ T.$m/A$; • força máxima admissível nos isoladores por unidade de área: 625.10⁴ $N/m$²; • comprimento de cada cabo: 10 m; • área da seção transversal dos isoladores: 10 mm². Observação: • use a aproximação de fios infinitos para o cálculo dos campos magnéticos. A máxima corrente do circuito I, em A, que pode circular simultaneamente em cada um dos cabos, sem o rompimento dos isoladores, é:",
       subItens: []
     },
     options: [
@@ -465,7 +465,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "A figura apresenta uma estrutura formada pelas barras AB, BC e CA. Essa estrutura está apoiada na parede vertical nos pontos A e B. O apoio A permite reações apenas na direção do eixo x, enquanto o apoio B permite reações nas direções dos eixos x e y. Na extremidade C da estrutura está posicionada uma partícula de carga Q e massa M. A estrutura está em uma região do espaço submetida a um campo elétrico vertical de módulo E e sentido de cima para baixo. Dados: • comprimento da barra BC: 4 m; • comprimento da barra AB: 3 m; • massa da barra BC: 2,5 kg; • massa da partícula: M = 0,3 kg; • carga da partícula: Q = −5 C; • intensidade do campo elétrico: 4,6 N/C; • aceleração da gravidade: g = 10 m/s². Observações: • os apoios não admitem torque; • as massas das barras AB e AC são desprezíveis; • a distribuição de massa da barra BC é uniforme. O módulo da reação no apoio A, em N, é aproximadamente:",
+      principal: "A figura apresenta uma estrutura formada pelas barras AB, BC e CA. Essa estrutura está apoiada na parede vertical nos pontos A e B. O apoio A permite reações apenas na direção do eixo x, enquanto o apoio B permite reações nas direções dos eixos x e y. Na extremidade C da estrutura está posicionada uma partícula de carga Q e massa M. A estrutura está em uma região do espaço submetida a um campo elétrico vertical de módulo E e sentido de cima para baixo. Dados: • comprimento da barra BC: 4 m; • comprimento da barra AB: 3 m; • massa da barra BC: 2,5 kg; • massa da partícula: M = 0,3 kg; • carga da partícula: Q = −5 C; • intensidade do campo elétrico: 4,6 $N/C$; • aceleração da gravidade: g = 10 $m/s$². Observações: • os apoios não admitem torque; • as massas das barras AB e AC são desprezíveis; • a distribuição de massa da barra BC é uniforme. O módulo da reação no apoio A, em N, é aproximadamente:",
       subItens: []
     },
     options: [
@@ -511,11 +511,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "0,59√(GM/r)",
-      "1,41√(GM/r)",
-      "0,41√(GM/r)",
-      "2,41√(GM/r)",
-      "2,82√(GM/r)"
+      "0,59√($GM/r$)",
+      "1,41√($GM/r$)",
+      "0,41√($GM/r$)",
+      "2,41√($GM/r$)",
+      "2,82√($GM/r$)"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -549,7 +549,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "Um navio de guerra encontra-se parado com um marinheiro de vigia em um posto de observação 9 m acima do nível do mar. Em um determinado instante, esse marinheiro avista um submarino aproximando-se na direção do eixo x, à velocidade constante e a 4 m de profundidade, conforme ilustra a figura. No instante em que o submarino é avistado, uma carga de profundidade é liberada do navio e, depois de um certo tempo, o submarino é destruído ao ser atingido pela carga de profundidade. Dados: • velocidade inicial da carga de profundidade: 0 m/s; • aceleração da gravidade: 10 m/s²; • volume da carga de profundidade: 0,001 m³; • massa específica da água: 1000 kg/m³; • massa da carga de profundidade: 1,8 kg; • índice de refração do ar: 1; • índice de refração da água: 4/3. Observação: • considere constante o empuxo sobre a carga de profundidade. Diante do exposto, a velocidade do submarino, em m/s, era de:",
+      principal: "Um navio de guerra encontra-se parado com um marinheiro de vigia em um posto de observação 9 m acima do nível do mar. Em um determinado instante, esse marinheiro avista um submarino aproximando-se na direção do eixo x, à velocidade constante e a 4 m de profundidade, conforme ilustra a figura. No instante em que o submarino é avistado, uma carga de profundidade é liberada do navio e, depois de um certo tempo, o submarino é destruído ao ser atingido pela carga de profundidade. Dados: • velocidade inicial da carga de profundidade: 0 $m/s$; • aceleração da gravidade: 10 $m/s$²; • volume da carga de profundidade: 0,001 m³; • massa específica da água: 1000 $kg/m$³; • massa da carga de profundidade: 1,8 kg; • índice de refração do ar: 1; • índice de refração da água: $4/3$. Observação: • considere constante o empuxo sobre a carga de profundidade. Diante do exposto, a velocidade do submarino, em $m/s$, era de:",
       subItens: []
     },
     options: [
@@ -570,7 +570,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "Na figura, uma partícula S e os pontos extremos A e B de um espelho plano movem-se no plano xy de acordo com as seguintes equações paramétricas para as coordenadas (em metros) em função do instante t > 0 (em segundos): xA(t) = 5+t, yA(t) = -5 - 2t; xB(t) = 10+t, yB(t) = -5 - 2t; xS(t) = sen(t), yS(t) = cos(t). Observação: • o plano do espelho é ortogonal ao plano xy. A maior velocidade escalar atingida pela imagem da partícula no espelho, em m/s, é:",
+      principal: "Na figura, uma partícula S e os pontos extremos A e B de um espelho plano movem-se no plano xy de acordo com as seguintes equações paramétricas para as coordenadas (em metros) em função do instante t > 0 (em segundos): xA(t) = 5+t, yA(t) = -5 - 2t; xB(t) = 10+t, yB(t) = -5 - 2t; xS(t) = $\\sin$(t), yS(t) = $\\cos$(t). Observação: • o plano do espelho é ortogonal ao plano xy. A maior velocidade escalar atingida pela imagem da partícula no espelho, em $m/s$, é:",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "A espaçonave CEOS passa pelo corpo celeste Al-Quds com velocidade relativa de 0,6 c, onde c é a velocidade da luz no vácuo. No instante em que CEOS e Al-Quds estão alinhados, os relógios do comandante da espaçonave (tCEOS) e de um observador situado em Al-Quds (tQUDS) são sincronizados e zerados. A espaçonave emite uma luz muito intensa no instante em que o comandante da espaçonave marca tCEOS = 4 s após sua passagem por Al-Quds. Dado: • c = 3 × 10⁸ m/s. Observação: • admita o corpo celeste Al-Quds como sendo um referencial inercial e que a espaçonave se movimente sempre em linha reta. Tomando como referencial o observador em Al-Quds, o instante tQUDS do início da emissão da luz pela CEOS e a distância percorrida pela CEOS desde a passagem por Al-Quds até esse instante são, respectivamente:",
+      principal: "A espaçonave CEOS passa pelo corpo celeste Al-Quds com velocidade relativa de 0,6 c, onde c é a velocidade da luz no vácuo. No instante em que CEOS e Al-Quds estão alinhados, os relógios do comandante da espaçonave (tCEOS) e de um observador situado em Al-Quds (tQUDS) são sincronizados e zerados. A espaçonave emite uma luz muito intensa no instante em que o comandante da espaçonave marca tCEOS = 4 s após sua passagem por Al-Quds. Dado: • c = 3 × 10⁸ $m/s$. Observação: • admita o corpo celeste Al-Quds como sendo um referencial inercial e que a espaçonave se movimente sempre em linha reta. Tomando como referencial o observador em Al-Quds, o instante tQUDS do início da emissão da luz pela CEOS e a distância percorrida pela CEOS desde a passagem por Al-Quds até esse instante são, respectivamente:",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "Um drone submarino estava navegando a 90 m de profundidade e a uma pressão de 10 atm, quando o casco sofreu uma avaria. Para trazê-lo à superfície, foi acionado um dispositivo de emergência, que produz hidrogênio por uma célula eletroquímica contendo 2 L de solução aquosa de H₂SO₄ com concentração 2 mol/L. A eletrólise foi encerrada quando o drone atingiu a superfície. Nesse momento, o restante da solução aquosa de H₂SO₄ foi analisado nas CNTP, tendo sido verificado que sua concentração era de 8 mol/L. A única alternativa correta é:",
+      principal: "Um drone submarino estava navegando a 90 m de profundidade e a uma pressão de 10 atm, quando o casco sofreu uma avaria. Para trazê-lo à superfície, foi acionado um dispositivo de emergência, que produz hidrogênio por uma célula eletroquímica contendo 2 L de solução aquosa de H₂SO₄ com concentração 2 $mol/L$. A eletrólise foi encerrada quando o drone atingiu a superfície. Nesse momento, o restante da solução aquosa de H₂SO₄ foi analisado nas CNTP, tendo sido verificado que sua concentração era de 8 $mol/L$. A única alternativa correta é:",
       subItens: []
     },
     options: [
@@ -759,14 +759,14 @@ createQuestion({
     university: "ime",
     year: 2024,
     text: {
-      principal: "Uma alíquota de 100 mL de uma solução que contém íons de Cr²⁺ e Cr³⁺ foi titulada com 200 mL de KMnO₄ com concentração 0,01 mol/L (em ácido sulfúrico diluído), tendo sido todos os íons de Cr²⁺ oxidados a íons Cr³⁺. Em seguida, uma outra alíquota de 100 mL da solução original foi tratada com Fe metálico para converter todos os íons de Cr³⁺ em íons de Cr²⁺. A solução obtida consumiu 300 mL da mesma solução de KMnO₄ para a oxidação de todos os íons a Cr³⁺. A equação iônica simplificada é: KMnO₄ + 5Cr²⁺ → Mn²⁺ + 5Cr³⁺ + 4H₂O + K⁺. As concentrações molares de Cr²⁺ e de Cr³⁺ na solução original são:",
+      principal: "Uma alíquota de 100 mL de uma solução que contém íons de Cr²⁺ e Cr³⁺ foi titulada com 200 mL de KMnO₄ com concentração 0,01 $mol/L$ (em ácido sulfúrico diluído), tendo sido todos os íons de Cr²⁺ oxidados a íons Cr³⁺. Em seguida, uma outra alíquota de 100 mL da solução original foi tratada com Fe metálico para converter todos os íons de Cr³⁺ em íons de Cr²⁺. A solução obtida consumiu 300 mL da mesma solução de KMnO₄ para a oxidação de todos os íons a Cr³⁺. A equação iônica simplificada é: KMnO₄ + 5Cr²⁺ → Mn²⁺ + 5Cr³⁺ + 4H₂O + K⁺. As concentrações molares de Cr²⁺ e de Cr³⁺ na solução original são:",
       subItens: []
     },
     options: [
-      "[Cr²⁺] = 0,05 mol/L e [Cr³⁺] = 0,1 mol/L.",
-      "[Cr²⁺] = 0,1 mol/L e [Cr³⁺] = 0,05 mol/L.",
-      "[Cr²⁺] = 0,004 mol/L e [Cr³⁺] = 0,002 mol/L.",
-      "[Cr²⁺] = 0,1 mol/L e [Cr³⁺] = 0,15 mol/L.",
+      "[Cr²⁺] = 0,05 $mol/L$ e [Cr³⁺] = 0,1 $mol/L$.",
+      "[Cr²⁺] = 0,1 $mol/L$ e [Cr³⁺] = 0,05 $mol/L$.",
+      "[Cr²⁺] = 0,004 $mol/L$ e [Cr³⁺] = 0,002 $mol/L$.",
+      "[Cr²⁺] = 0,1 $mol/L$ e [Cr³⁺] = 0,15 $mol/L$.",
       "Não é possível calcular as concentrações sem conhecer a razão entre elas na solução original."
     ],
     correctAnswer: 1,

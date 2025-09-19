@@ -234,7 +234,7 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Com esforço muito intenso uma pessoa sedentária realizou a fermentação láctica do músculo. O gráfico a seguir apresenta as concentrações químicas de ácido e de glicose resultantes desse esforço. Com base no gráfico dado em µmol/L por minuto, assinale o que for correto.\nGráfico: Concentrações (µmol/L por minuto) de Láctico, Pirúvico e Glicose em função do tempo (t).\nLáctico: 0min=0, 1min=5, 2min=10, 3min=15, 4min=18, 5min=15, 6min=10, 7min=5, 8min=0, 9min=-5.\nPirúvico: 0min=0, 1min=-2, 2min=-4, 3min=-6, 4min=-8, 5min=-6, 6min=-4, 7min=-2, 8min=0, 9min=2.\nGlicose: 0min=18, 1min=17, 2min=16, 3min=15, 4min=14, 5min=13, 6min=12, 7min=11, 8min=10, 9min=9.\n01) A quantidade de ácido láctico em t = 3min de 200mL de sangue é 200mol.\n02) O rim é o órgão responsável pela conversão de ácido láctico em pirúvico.\n04) As concentrações dos ácidos se equiparam em t = 6min.\n08) O ápice da dor e da fadiga muscular ocorre exatamente aos 4 minutos.\n16) Gliconeogênese é o processo de transformação do ácido pirúvico em glicose.",
+      principal: "Com esforço muito intenso uma pessoa sedentária realizou a fermentação láctica do músculo. O gráfico a seguir apresenta as concentrações químicas de ácido e de glicose resultantes desse esforço. Com base no gráfico dado em µ$mol/L$ por minuto, assinale o que for correto.\nGráfico: Concentrações (µ$mol/L$ por minuto) de Láctico, Pirúvico e Glicose em função do tempo (t).\nLáctico: 0min=0, 1min=5, 2min=10, 3min=15, 4min=18, 5min=15, 6min=10, 7min=5, 8min=0, 9min=-5.\nPirúvico: 0min=0, 1min=-2, 2min=-4, 3min=-6, 4min=-8, 5min=-6, 6min=-4, 7min=-2, 8min=0, 9min=2.\nGlicose: 0min=18, 1min=17, 2min=16, 3min=15, 4min=14, 5min=13, 6min=12, 7min=11, 8min=10, 9min=9.\n01) A quantidade de ácido láctico em t = 3min de 200mL de sangue é 200mol.\n02) O rim é o órgão responsável pela conversão de ácido láctico em pirúvico.\n04) As concentrações dos ácidos se equiparam em t = 6min.\n08) O ápice da dor e da fadiga muscular ocorre exatamente aos 4 minutos.\n16) Gliconeogênese é o processo de transformação do ácido pirúvico em glicose.",
       subItens: []
     },
     options: [
@@ -297,7 +297,7 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Considere um grande cilindro vertical de raio R e comprimento L, suspenso a uma altura h do solo em relação à sua base. Esse cilindro tem uma capacidade de girar em torno de seu eixo vertical com uma rotação tão alta que uma pessoa dentro dele é mantida presa à parede quando o piso (base) do cilindro é afastado durante o movimento de rotação. O coeficiente de atrito entre essa pessoa e a parede do cilindro é µ, e a aceleração da gravidade tem módulo g = 10m/s2. Desconsidere o atrito no eixo do cilindro e o atrito com o ar. Assinale o que for correto.\n01) Ao se afastar o piso do cilindro durante o movimento de rotação, a pessoa não cairá se a força de atrito e a força peso forem iguais em módulo.\n02) O período de revolução necessário para evitar que a pessoa caia durante o movimento de rotação deve ser menor ou igual a (4π^2 Rμ)/g.\n04) A pessoa cairá durante o movimento de rotação se a velocidade angular do cilindro for menor que √(g/μR).\n08) Considerando-se R = 4m, μ = 0,4 e n = 3, o maior tempo de uma volta completa que a pessoa dará para que ela não caia é de 2,4s.\n16) Durante o movimento de rotação do cilindro, a força normal que sua parede exerce sobre a pessoa é nula.",
+      principal: "Considere um grande cilindro vertical de raio R e comprimento L, suspenso a uma altura h do solo em relação à sua base. Esse cilindro tem uma capacidade de girar em torno de seu eixo vertical com uma rotação tão alta que uma pessoa dentro dele é mantida presa à parede quando o piso (base) do cilindro é afastado durante o movimento de rotação. O coeficiente de atrito entre essa pessoa e a parede do cilindro é µ, e a aceleração da gravidade tem módulo g = $10m/s2$. Desconsidere o atrito no eixo do cilindro e o atrito com o ar. Assinale o que for correto.\n01) Ao se afastar o piso do cilindro durante o movimento de rotação, a pessoa não cairá se a força de atrito e a força peso forem iguais em módulo.\n02) O período de revolução necessário para evitar que a pessoa caia durante o movimento de rotação deve ser menor ou igual a (4π^2 Rμ)/g.\n04) A pessoa cairá durante o movimento de rotação se a velocidade angular do cilindro for menor que √(g/μR).\n08) Considerando-se R = 4m, μ = 0,4 e n = 3, o maior tempo de uma volta completa que a pessoa dará para que ela não caia é de 2,4s.\n16) Durante o movimento de rotação do cilindro, a força normal que sua parede exerce sobre a pessoa é nula.",
       subItens: []
     },
     options: [
@@ -318,15 +318,15 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Três partículas (A, B e C) percorrem o mesmo caminho linear em velocidades instantâneas constantes, VA = 6m/s, VB = 4m/s e vc = 5m/s. Suponha que no tempo t = 0s os seus respectivos pontos de partida sejam S_A = -120m, S_B = -80m e S_C = -100m. Considerando S_A(t), S_B(t) e S_C(t) as posições das partículas A, B e C, respectivamente, em metros, em função do tempo t, em segundo, assinale o que for correto.\n01) As partículas encontrar-se-ão no marco zero espacial em t = 20s.\n02) Em t = 35s as partículas A, B e C estarão nas posições 90m, 60m e 75m, respectivamente.\n04) O movimento de cada partícula é um movimento uniforme.\n08) O sistema de equações decorrente das igualdades S_A(t) = S_B(t) = S_C(t) = s é linear, possível e determinado nas incógnitas s e t.\n16) O sistema linear formado apenas pela equação S_A(t) = s nas incógnitas s e t é um sistema linear impossível.",
+      principal: "Três partículas (A, B e C) percorrem o mesmo caminho linear em velocidades instantâneas constantes, VA = $6m/s$, VB = $4m/s$ e vc = $5m/s$. Suponha que no tempo t = 0s os seus respectivos pontos de partida sejam $S_A$ = -120m, $S_B$ = -80m e $S_C$ = -100m. Considerando $S_A$(t), $S_B$(t) e $S_C$(t) as posições das partículas A, B e C, respectivamente, em metros, em função do tempo t, em segundo, assinale o que for correto.\n01) As partículas encontrar-se-ão no marco zero espacial em t = 20s.\n02) Em t = 35s as partículas A, B e C estarão nas posições 90m, 60m e 75m, respectivamente.\n04) O movimento de cada partícula é um movimento uniforme.\n08) O sistema de equações decorrente das igualdades $S_A$(t) = $S_B$(t) = $S_C$(t) = s é linear, possível e determinado nas incógnitas s e t.\n16) O sistema linear formado apenas pela equação $S_A$(t) = s nas incógnitas s e t é um sistema linear impossível.",
       subItens: []
     },
     options: [
       "As partículas encontrar-se-ão no marco zero espacial em t = 20s.",
       "Em t = 35s as partículas A, B e C estarão nas posições 90m, 60m e 75m, respectivamente.",
       "O movimento de cada partícula é um movimento uniforme.",
-      "O sistema de equações decorrente das igualdades S_A(t) = S_B(t) = S_C(t) = s é linear, possível e determinado nas incógnitas s e t.",
-      "O sistema linear formado apenas pela equação S_A(t) = s nas incógnitas s e t é um sistema linear impossível."
+      "O sistema de equações decorrente das igualdades $S_A$(t) = $S_B$(t) = $S_C$(t) = s é linear, possível e determinado nas incógnitas s e t.",
+      "O sistema linear formado apenas pela equação $S_A$(t) = s nas incógnitas s e t é um sistema linear impossível."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -346,7 +346,7 @@ createQuestion({
       "No instante inicial dos movimentos 1 e 2, t = 0s, o corpo está na origem do sistema de coordenadas.",
       "No movimento 1, o corpo levará 2s para percorrer 4m.",
       "O determinante da matriz transposta de M é igual a 2.",
-      "No movimento 2, a velocidade do corpo é de 2m/s.",
+      "No movimento 2, a velocidade do corpo é de $2m/s$.",
       "A velocidade do movimento 2 é o dobro da velocidade do movimento 1."
     ],
     correctAnswer: 1,
@@ -360,14 +360,14 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "A água oxigenada é uma solução de H2O2, muito utilizada em salões de beleza, que se decompõe lentamente em O2 e H2O. A concentração de uma solução de água oxigenada é definida em razão do volume de O2 liberado nas CNTP por unidade de volume da solução. Usando um arredondamento na última casa decimal, quando necessário, assinale o que for correto.\n01) H2O2 é a fórmula do peróxido de hidrogênio.\n02) A massa de água oxigenada que libera 30L de O2 nas CNTP é igual a 91,1g.\n04) O número de mol de O2 produzidos pela decomposição de 1L de uma solução de água oxigenada 10 volumes é 0,45.\n08) Sabendo que em um frasco de água oxigenada a concentração de H2O2 diminui de 0,8mol/L para 0,5mol/L em um intervalo de tempo de 10 minutos, pode-se afirmar que sua velocidade de decomposição é de 5 × 10^-3 mol/L.s.\n16) Para preparar água oxigenada 10 volumes a partir de água oxigenada 30 volumes basta adicionar 3L de água a 1L da solução 30 volumes.",
+      principal: "A água oxigenada é uma solução de H2O2, muito utilizada em salões de beleza, que se decompõe lentamente em O2 e H2O. A concentração de uma solução de água oxigenada é definida em razão do volume de O2 liberado nas CNTP por unidade de volume da solução. Usando um arredondamento na última casa decimal, quando necessário, assinale o que for correto.\n01) H2O2 é a fórmula do peróxido de hidrogênio.\n02) A massa de água oxigenada que libera 30L de O2 nas CNTP é igual a 91,1g.\n04) O número de mol de O2 produzidos pela decomposição de 1L de uma solução de água oxigenada 10 volumes é 0,45.\n08) Sabendo que em um frasco de água oxigenada a concentração de H2O2 diminui de 0,$8mol/L$ para 0,$5mol/L$ em um intervalo de tempo de 10 minutos, pode-se afirmar que sua velocidade de decomposição é de 5 × 10^-3 $mol/L$.s.\n16) Para preparar água oxigenada 10 volumes a partir de água oxigenada 30 volumes basta adicionar 3L de água a 1L da solução 30 volumes.",
       subItens: []
     },
     options: [
       "H2O2 é a fórmula do peróxido de hidrogênio.",
       "A massa de água oxigenada que libera 30L de O2 nas CNTP é igual a 91,1g.",
       "O número de mol de O2 produzidos pela decomposição de 1L de uma solução de água oxigenada 10 volumes é 0,45.",
-      "Sabendo que em um frasco de água oxigenada a concentração de H2O2 diminui de 0,8mol/L para 0,5mol/L em um intervalo de tempo de 10 minutos, pode-se afirmar que sua velocidade de decomposição é de 5 × 10^-3 mol/L.s.",
+      "Sabendo que em um frasco de água oxigenada a concentração de H2O2 diminui de 0,$8mol/L$ para 0,$5mol/L$ em um intervalo de tempo de 10 minutos, pode-se afirmar que sua velocidade de decomposição é de 5 × 10^-3 $mol/L$.s.",
       "Para preparar água oxigenada 10 volumes a partir de água oxigenada 30 volumes basta adicionar 3L de água a 1L da solução 30 volumes."
     ],
     correctAnswer: 0,
@@ -381,12 +381,12 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Um recipiente contendo água e óleo à temperatura ambiente desliza sobre um plano inclinado sem atrito (como na figura a seguir). Esse recipiente possui dois orificios (I e II) em diferentes alturas, por onde podem escoar os líquidos. Esses orifícios podem ser abertos ou fechados, de acordo com nosso interesse. Desconsidere o atrito e assinale o que for correto. (Dados: massa do recipiente: m_r = 100g; densidade da água: d_água = 1,0g/cm³; densidade do óleo: d_óleo = 0,9g/cm³; volume de cada líquido: v = 200mL).\nImagem de um recipiente em um plano inclinado, com dois orifícios I (superior) e II (inferior).\n01) A mistura de água e óleo é heterogênea, formando duas fases.\n02) Caso os dois orificios estejam fechados e θ seja igual a 30°, a aceleração desse recipiente será de 4,9√3m/s².\n04) Caso o orificio I esteja aberto e o orificio II esteja fechado, a água escoará pelo orificio I.\n08) Considerando-se os dois orificios fechados, o recipiente apenas com água apresentaria uma aceleração maior do que se nele houvesse apenas óleo.\n16) Caso o orificio I seja aberto enquanto o recipiente está em movimento, com parte do fluido sendo escoado, a velocidade do recipiente diminuirá ao longo do percurso.",
+      principal: "Um recipiente contendo água e óleo à temperatura ambiente desliza sobre um plano inclinado sem atrito (como na figura a seguir). Esse recipiente possui dois orificios (I e II) em diferentes alturas, por onde podem escoar os líquidos. Esses orifícios podem ser abertos ou fechados, de acordo com nosso interesse. Desconsidere o atrito e assinale o que for correto. (Dados: massa do recipiente: $m_r$ = 100g; densidade da água: d_água = 1,$0g/cm$³; densidade do óleo: d_óleo = 0,$9g/cm$³; volume de cada líquido: v = 200mL).\nImagem de um recipiente em um plano inclinado, com dois orifícios I (superior) e II (inferior).\n01) A mistura de água e óleo é heterogênea, formando duas fases.\n02) Caso os dois orificios estejam fechados e θ seja igual a 30°, a aceleração desse recipiente será de 4,9√$3m/s$².\n04) Caso o orificio I esteja aberto e o orificio II esteja fechado, a água escoará pelo orificio I.\n08) Considerando-se os dois orificios fechados, o recipiente apenas com água apresentaria uma aceleração maior do que se nele houvesse apenas óleo.\n16) Caso o orificio I seja aberto enquanto o recipiente está em movimento, com parte do fluido sendo escoado, a velocidade do recipiente diminuirá ao longo do percurso.",
       subItens: []
     },
     options: [
       "A mistura de água e óleo é heterogênea, formando duas fases.",
-      "Caso os dois orificios estejam fechados e θ seja igual a 30°, a aceleração desse recipiente será de 4,9√3m/s².",
+      "Caso os dois orificios estejam fechados e θ seja igual a 30°, a aceleração desse recipiente será de 4,9√$3m/s$².",
       "Caso o orificio I esteja aberto e o orificio II esteja fechado, a água escoará pelo orificio I.",
       "Considerando-se os dois orificios fechados, o recipiente apenas com água apresentaria uma aceleração maior do que se nele houvesse apenas óleo.",
       "Caso o orificio I seja aberto enquanto o recipiente está em movimento, com parte do fluido sendo escoado, a velocidade do recipiente diminuirá ao longo do percurso."
@@ -423,7 +423,7 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Considere a reação química a seguir, não balanceada, e assinale o que for correto.\nxAl(OH)3 + H2SO4 → zAl2(SO4)3 + wH2O\n01) Na reação ocorre a decomposição do hidróxido de alumínio.\n02) A reação de 4mol de Al(OH)3 com 6mol de H2SO4 leva à formação de 342g de Al2(SO4)3.\n04) Se os coeficientes da equação balanceada forem os menores valores inteiros possíveis a média aritmética deles será 3.\n08) Na reação balanceada, se x = 10, então w = 30.\n16) A reação de 156g de Al(OH)3 consome 18 × 10^23 moléculas de H2SO4.",
+      principal: "Considere a reação química a seguir, não balanceada, e assinale o que for correto.\nxAl(OH)3 + H2SO4 → zAl2(SO4)3 + wH2O\n01) Na reação ocorre a decomposição do hidróxido de alumínio.\n02) A reação de 4mol de Al(OH)3 com 6mol de H2SO4 leva à formação de 342g de Al2(SO4)3.\n04) Se os coeficientes da equação balanceada forem os menores valores inteiros possíveis a média aritmética deles será 3.\n08) Na reação balanceada, se x = 10, então w = 30.\n16) A reação de 156g de Al(OH)3 consome 18 × $10^23$ moléculas de H2SO4.",
       subItens: []
     },
     options: [
@@ -431,7 +431,7 @@ createQuestion({
       "A reação de 4mol de Al(OH)3 com 6mol de H2SO4 leva à formação de 342g de Al2(SO4)3.",
       "Se os coeficientes da equação balanceada forem os menores valores inteiros possíveis a média aritmética deles será 3.",
       "Na reação balanceada, se x = 10, então w = 30.",
-      "A reação de 156g de Al(OH)3 consome 18 × 10^23 moléculas de H2SO4."
+      "A reação de 156g de Al(OH)3 consome 18 × $10^23$ moléculas de H2SO4."
     ],
     correctAnswer: 2,
     materia: ["Química"],
@@ -528,7 +528,7 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Assinale o que for correto em relação ao texto, um artigo de opinião.\n01) Os dois últimos parágrafos (linhas 52-67) fogem à estrutura comum de um artigo de opinião, visto que a conclusão (no texto de Angélica Caniello) se encontra nas linhas 47-51, ou seja, é antecipada. A autora não fecha seu artigo conforme a estrutura comum do gênero artigo de opinião.\n02) Uma das características do artigo de opinião é o emprego textual de formas verbais no imperativo (\"sejam\", linha 28; \"queira\", linha 29).\n04) O texto apresenta um tema, sobre o qual a autora se posiciona, apresentando argumentos que sustentam sua tese.\n08) No segundo parágrafo, a autora já se posiciona a respeito da interferência negativa dos games no desempenho escolar.\n16) No quarto parágrafo a autora aproxima educação e games, defendendo que estes últimos são o caminho para a diversão e a socialização de jogadores/alunos.",
+      principal: "Assinale o que for correto em relação ao texto, um artigo de opinião.\n01) Os dois últimos parágrafos (linhas 52-67) fogem à estrutura comum de um artigo de opinião, visto que a conclusão (no texto de Angélica Caniello) se encontra nas linhas 47-51, ou seja, é antecipada. A autora não fecha seu artigo conforme a estrutura comum do gênero artigo de opinião.\n02) Uma das características do artigo de opinião é o emprego textual de formas verbais no imperativo (\"sejam\", linha 28; \"queira\", linha 29).\n04) O texto apresenta um tema, sobre o qual a autora se posiciona, apresentando argumentos que sustentam sua tese.\n08) No segundo parágrafo, a autora já se posiciona a respeito da interferência negativa dos games no desempenho escolar.\n16) No quarto parágrafo a autora aproxima educação e games, defendendo que estes últimos são o caminho para a diversão e a socialização de $jogadores/alunos$.",
       subItens: []
     },
     options: [
@@ -536,7 +536,7 @@ createQuestion({
       "Uma das características do artigo de opinião é o emprego textual de formas verbais no imperativo (\"sejam\", linha 28; \"queira\", linha 29).",
       "O texto apresenta um tema, sobre o qual a autora se posiciona, apresentando argumentos que sustentam sua tese.",
       "No segundo parágrafo, a autora já se posiciona a respeito da interferência negativa dos games no desempenho escolar.",
-      "No quarto parágrafo a autora aproxima educação e games, defendendo que estes últimos são o caminho para a diversão e a socialização de jogadores/alunos."
+      "No quarto parágrafo a autora aproxima educação e games, defendendo que estes últimos são o caminho para a diversão e a socialização de $jogadores/alunos$."
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],
@@ -696,11 +696,11 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Sobre o soneto a seguir, assinale o que for correto. XIV Quem deixa o trato pastoril amado Pela ingrata, civil correspondência, Ou desconhece o rosto da violência, Ou do retiro a paz não tem provado. Que bem é ver nos campos trasladado No gênio do pastor, o da inocência! E que mal é no trato, e na aparência Ver sempre o cortesão dissimulado! Ali respira amor sinceridade; Aqui sempre a traição seu rosto encobre; Um só trata a mentira, outro a verdade. Ali não há fortuna, que soçobre; Aqui quanto se observa, é variedade: Oh ventura do rico! Oh bem do pobre! COSTA, C. M. da. Melhores poemas. São Paulo: Global, 2012. Vocabulário:\ncortesão: adulador, bajulador, palaciano;\nfortuna: destino;\nsoçobre: inverta, mude, revolva;\ntrasladado: mudado de lugar, transferido;\ntrato pastoril: atividade de pastoreio; campo.\n01) Em todas as estrofes do soneto há palavras antônimas: paz/violência, bem/mal, sinceridade/traição, verdade/mentira, rico/pobre. São expressões representativas da oposição campo/cidade, construída pelo eu lírico nesse poema por meio da figura de linguagem denominada antítese.\n02) Nos dois primeiros versos do segundo quarteto, o eu lírico, pastor cujo pseudônimo era Dirceu, procura convencer sua musa Marília a admirar o campo e a reconhecer a singularidade de sua beleza por meio da idealização da natureza, tão frequente na terceira fase do Romantismo.\n04) Formado por quatro estrofes de padrões semelhantes, o soneto XIV tem versos construídos com redondilhas maiores, cujo ritmo varia entre as sequências de sílabas poéticas 2-4-7 e 3-4-7. As rimas, sempre cruzadas, são ricas, formadas por palavras de diferentes classes gramaticais.\n08) Assim como os poemas realistas, a terceira estrofe do soneto descreve com objetividade a realidade da vida campestre, anulando qualquer artificialidade ou idealização. Essa objetividade faz parte do ideário barroco e é destacada pelo emprego dos advérbios de intensidade “Aqui” e “Ali” e pelos adjetivos \"verdade\" e \"mentira\".\n16) O Arcadismo, também conhecido como Neoclassicismo, busca referências na Antiguidade Greco-Latina. O soneto XIV representa com fidelidade as convenções literárias desse movimento, pois ilustra um dos temas árcades mais conhecidos e sintetizados na expressão latina fugere urbem.",
+      principal: "Sobre o soneto a seguir, assinale o que for correto. XIV Quem deixa o trato pastoril amado Pela ingrata, civil correspondência, Ou desconhece o rosto da violência, Ou do retiro a paz não tem provado. Que bem é ver nos campos trasladado No gênio do pastor, o da inocência! E que mal é no trato, e na aparência Ver sempre o cortesão dissimulado! Ali respira amor sinceridade; Aqui sempre a traição seu rosto encobre; Um só trata a mentira, outro a verdade. Ali não há fortuna, que soçobre; Aqui quanto se observa, é variedade: Oh ventura do rico! Oh bem do pobre! COSTA, C. M. da. Melhores poemas. São Paulo: Global, 2012. Vocabulário:\ncortesão: adulador, bajulador, palaciano;\nfortuna: destino;\nsoçobre: inverta, mude, revolva;\ntrasladado: mudado de lugar, transferido;\ntrato pastoril: atividade de pastoreio; campo.\n01) Em todas as estrofes do soneto há palavras antônimas: $paz/viol$ência, $bem/mal$, $sinceridade/trai$ção, $verdade/mentira$, $rico/pobre$. São expressões representativas da oposição $campo/cidade$, construída pelo eu lírico nesse poema por meio da figura de linguagem denominada antítese.\n02) Nos dois primeiros versos do segundo quarteto, o eu lírico, pastor cujo pseudônimo era Dirceu, procura convencer sua musa Marília a admirar o campo e a reconhecer a singularidade de sua beleza por meio da idealização da natureza, tão frequente na terceira fase do Romantismo.\n04) Formado por quatro estrofes de padrões semelhantes, o soneto XIV tem versos construídos com redondilhas maiores, cujo ritmo varia entre as sequências de sílabas poéticas 2-4-7 e 3-4-7. As rimas, sempre cruzadas, são ricas, formadas por palavras de diferentes classes gramaticais.\n08) Assim como os poemas realistas, a terceira estrofe do soneto descreve com objetividade a realidade da vida campestre, anulando qualquer artificialidade ou idealização. Essa objetividade faz parte do ideário barroco e é destacada pelo emprego dos advérbios de intensidade “Aqui” e “Ali” e pelos adjetivos \"verdade\" e \"mentira\".\n16) O Arcadismo, também conhecido como Neoclassicismo, busca referências na Antiguidade Greco-Latina. O soneto XIV representa com fidelidade as convenções literárias desse movimento, pois ilustra um dos temas árcades mais conhecidos e sintetizados na expressão latina fugere urbem.",
       subItens: []
     },
     options: [
-      "Em todas as estrofes do soneto há palavras antônimas: paz/violência, bem/mal, sinceridade/traição, verdade/mentira, rico/pobre. São expressões representativas da oposição campo/cidade, construída pelo eu lírico nesse poema por meio da figura de linguagem denominada antítese.",
+      "Em todas as estrofes do soneto há palavras antônimas: $paz/viol$ência, $bem/mal$, $sinceridade/trai$ção, $verdade/mentira$, $rico/pobre$. São expressões representativas da oposição $campo/cidade$, construída pelo eu lírico nesse poema por meio da figura de linguagem denominada antítese.",
       "Nos dois primeiros versos do segundo quarteto, o eu lírico, pastor cujo pseudônimo era Dirceu, procura convencer sua musa Marília a admirar o campo e a reconhecer a singularidade de sua beleza por meio da idealização da natureza, tão frequente na terceira fase do Romantismo.",
       "Formado por quatro estrofes de padrões semelhantes, o soneto XIV tem versos construídos com redondilhas maiores, cujo ritmo varia entre as sequências de sílabas poéticas 2-4-7 e 3-4-7. As rimas, sempre cruzadas, são ricas, formadas por palavras de diferentes classes gramaticais.",
       "Assim como os poemas realistas, a terceira estrofe do soneto descreve com objetividade a realidade da vida campestre, anulando qualquer artificialidade ou idealização. Essa objetividade faz parte do ideário barroco e é destacada pelo emprego dos advérbios de intensidade “Aqui” e “Ali” e pelos adjetivos \"verdade\" e \"mentira\".",
@@ -759,7 +759,7 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "According to text 3, mark the correct affirmative(s).\nText 3: Take Charge of Your Health: A Guide for Teenagers by Dr. Aaron Kelly\nAs you get older, you're able to start making your own decisions about a lot of things that matter most to you. You may choose your own clothes, music, and friends. You also may be ready to make decisions about your body and health. Your body needs energy to function and grow. Calories from food and drinks give you that energy. Think of food as energy to charge up your battery for the day. Throughout the day, you use energy from the battery to think and move, so you need to eat and drink to stay powered up. Balancing the energy you take in through food and beverages with the energy you use for growth, activity, and daily living is called “energy balance.\" Energy balance may help you stay in a healthy weight. The number of calories you need depends on whether you are male or female, your genes, how old you are, your height and weight, whether you are still growing, and how active you are, which may not be the same every day. Some teens try to lose weight by eating very little; cutting out whole groups of foods like foods with carbohydrates, or \"carbs;\" skipping meals; or fasting. These approaches to losing weight could be unhealthy because they may leave out important nutrients your body needs. Unhealthy dieting could also affect your mood and how you grow. Healthy eating involves taking control of how much and what types of food you eat, as well as the beverages you drink. Try to replace foods high in sugar, salt, and unhealthy fats with fruits, vegetables, whole grains, low-fat protein foods, and fat-free or low-fat dairy foods.\nAdapted from: https://www.niddk.nih.gov/health-information/weight-management/take-charge-health-guide-teenagers#energy.\n01) If you keep energy balance you'll probably have a healthy weight.\n02) The amount of daily calories is the same for everybody, no matter the person's gender, age, height, weight etc.\n04) Eating no carbohydrates and skipping meals, for example, are healthy strategies for losing weight.\n08) Diets which are unhealthy can interfere in your mood and growth.\n16) The text presents pieces of advice for keeping healthy eating habits.",
+      principal: "According to text 3, mark the correct affirmative(s).\nText 3: Take Charge of Your Health: A Guide for Teenagers by Dr. Aaron Kelly\nAs you get older, you're able to start making your own decisions about a lot of things that matter most to you. You may choose your own clothes, music, and friends. You also may be ready to make decisions about your body and health. Your body needs energy to function and grow. Calories from food and drinks give you that energy. Think of food as energy to charge up your battery for the day. Throughout the day, you use energy from the battery to think and move, so you need to eat and drink to stay powered up. Balancing the energy you take in through food and beverages with the energy you use for growth, activity, and daily living is called “energy balance.\" Energy balance may help you stay in a healthy weight. The number of calories you need depends on whether you are male or female, your genes, how old you are, your height and weight, whether you are still growing, and how active you are, which may not be the same every day. Some teens try to lose weight by eating very little; cutting out whole groups of foods like foods with carbohydrates, or \"carbs;\" skipping meals; or fasting. These approaches to losing weight could be unhealthy because they may leave out important nutrients your body needs. Unhealthy dieting could also affect your mood and how you grow. Healthy eating involves taking control of how much and what types of food you eat, as well as the beverages you drink. Try to replace foods high in sugar, salt, and unhealthy fats with fruits, vegetables, whole grains, low-fat protein foods, and fat-free or low-fat dairy foods.\nAdapted from: https://www.niddk.nih.$gov/health$-$information/weight$-$management/take$-charge-health-guide-teenagers#energy.\n01) If you keep energy balance you'll probably have a healthy weight.\n02) The amount of daily calories is the same for everybody, no matter the person's gender, age, height, weight etc.\n04) Eating no carbohydrates and skipping meals, for example, are healthy strategies for losing weight.\n08) Diets which are unhealthy can interfere in your mood and growth.\n16) The text presents pieces of advice for keeping healthy eating habits.",
       subItens: []
     },
     options: [
@@ -832,7 +832,7 @@ createQuestion({
       "As formas escultóricas representaram o máximo da vitalidade, do movimento e da dinâmica que um artista pode esculpir em um bloco de mármore.",
       "Dramaturgos, encenadores e escritores possuíam uma visão positivista do mundo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Barroco"],
     imageNames: []
@@ -853,7 +853,7 @@ createQuestion({
       "De acordo com Rousseau, a consciência moral nasceu do convívio dos seres humanos em sociedade pelo uso da razão utilitária na criação da propriedade privada.",
       "Hegel e Kant concordam com a teoria de que a consciência moral nasce do sentimento de complacência dos seres humanos como fenômeno subjetivo, motivo pelo qual torna impossível qualquer juízo normativo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Ética e Moral", "Filosofia Moderna"],
     imageNames: []
@@ -874,7 +874,7 @@ createQuestion({
       "Dentre os socialistas científicos estavam os positivistas e os defensores do liberalismo econômico, como Karl Marx e Friedrich Engels.",
       "O feminismo reivindica igualdade de direitos entre os sexos, direito à educação de qualidade para mulheres, defesa da livre associação entre trabalhadores, legalização do divórcio, sufrágio universal."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["História", "Sociologia"],
     conteudo: ["Ideologias do Século XIX e XX", "Movimentos Sociais"],
     imageNames: []
@@ -895,7 +895,7 @@ createQuestion({
       "Com a vinda de colonos para a Província do Paraná, o governo objetivou estimular o desenvolvimento da agricultura de subsistência e garantir o abastecimento dos núcleos urbanos com produtos agrícolas.",
       "Durante o século XIX, os imigrantes alemães passaram pelas terras do Paraná, mas não constituíram núcleos coloniais. Seu objetivo era se estabelecer em regiões mais meridionais do Brasil devido ao clima, mais parecido com o da Alemanha."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Imigração no Brasil", "História do Paraná"],
     imageNames: []
@@ -916,7 +916,7 @@ createQuestion({
       "Na segunda metade do século XIX o cacau e a borracha passaram a se destacar na produção agrícola brasileira, pois possuíam um expressivo valor comercial no mercado externo.",
       "Ao longo do século XIX a produção de algodão brasileiro enfrentou forte concorrência do algodão produzido no sul dos Estados Unidos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Brasil Império", "Economia e Sociedade no Brasil Imperial"],
     imageNames: []
@@ -937,7 +937,7 @@ createQuestion({
       "Quilombos, ou mocambos consistiam em uma forma de resistência à escravidão negra típica e restrita à América Portuguesa.",
       "Quilombo dos Palmares é considerado o maior, o mais importante e o mais duradouro dos quilombos conhecidos na América Portuguesa."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Escravidão no Brasil Colonial", "Resistência Escrava"],
     imageNames: []
@@ -958,7 +958,7 @@ createQuestion({
       "O alto custo do transporte hidroviário inviabiliza sua utilização.",
       "A distribuição equivalente da malha rodoviária entre as regiões é a principal característica do transporte rodoviário brasileiro."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Transportes no Brasil", "Geografia Econômica"],
     imageNames: []
@@ -979,7 +979,7 @@ createQuestion({
       "Em sociedades complexas somos solidários, não por sermos iguais, mas justamente por sermos diferentes.",
       "A diferenciação de atividades e ocupações, quando ocorre de forma abrupta, contribui para o equilíbrio social."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Émile Durkheim", "Anomia e Solidariedade Social"],
     imageNames: []
@@ -1000,7 +1000,7 @@ createQuestion({
       "Os jogos eletrônicos assumiram um importante papel na sociedade, seja de forma competitiva, seja de forma cooperativa.",
       "A prática dos e-Sports (que se baseiam principalmente em jogos eletrônicos cooperativos) é bastante popular."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Cultura e Lazer", "E-sports"],
     imageNames: []
@@ -1021,7 +1021,7 @@ createQuestion({
       "No enunciado de comando da questão são citados dois artrópodes: um inseto e um aracnídeo.",
       "Os ácaros possuem corpo dividido em cabeça, tórax e abdômen; têm antenas e são peçonhentos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Polinização", "Classificação dos Seres Vivos", "Ecologia"],
     imageNames: []
@@ -1042,7 +1042,7 @@ createQuestion({
       "O calor recebido na pele de um humano exposto ao Sol também é levado para o interior do corpo pela circulação sanguínea. Essa forma de transferência de calor é denominada condução térmica.",
       "Os horários citados no enunciado de comando da questão são recomendados porque, nessa intensidade solar, o calor recebido não contribui para o aumento da entropia do humano exposto ao Sol."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Fisiologia Humana", "Efeitos da Radiação"],
     imageNames: []
@@ -1063,7 +1063,7 @@ createQuestion({
       "Savanas possuem ocorrência associada a regiões com maior índice pluviométrico, como as de Florestas Tropicais.",
       "A extensão das raízes das plantas típicas do Cerrado impede o desenvolvimento da vegetação nos períodos de estiagem."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Domínios Morfoclimáticos Brasileiros", "Biogeografia"],
     imageNames: []
@@ -1074,17 +1074,17 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Considere a seguinte situação hipotética. Uma dose de 750mg de um antibiótico é administrada em um paciente à meia-noite. Observações empíricas mostram que a concentração do antibiótico no sangue durante a absorção é dada por uma função linear que depende do tempo, atingindo a concentração máxima de 50mg/mL às 2h (da madrugada). Devido à metabolização do antibiótico pelo fígado, depois de atingir a concentração máxima, há um decréscimo dessa concentração, que é dada por uma função afim, que também depende do tempo. O antibiótico é totalmente eliminado, ou seja, a concentração atinge 0mg/mL oito horas após a administração da dose. Em relação a essa situação, e a assuntos correlatos, assinale o que for correto.",
+      principal: "Considere a seguinte situação hipotética. Uma dose de 750mg de um antibiótico é administrada em um paciente à meia-noite. Observações empíricas mostram que a concentração do antibiótico no sangue durante a absorção é dada por uma função linear que depende do tempo, atingindo a concentração máxima de $50mg/mL$ às 2h (da madrugada). Devido à metabolização do antibiótico pelo fígado, depois de atingir a concentração máxima, há um decréscimo dessa concentração, que é dada por uma função afim, que também depende do tempo. O antibiótico é totalmente eliminado, ou seja, a concentração atinge $0mg/mL$ oito horas após a administração da dose. Em relação a essa situação, e a assuntos correlatos, assinale o que for correto.",
       subItens: []
     },
     options: [
-      "A concentração de antibiótico à 1h30min (da madrugada) era de 25mg/mL.",
+      "A concentração de antibiótico à 1h30min (da madrugada) era de $25mg/mL$.",
       "O gráfico da função que descreve a concentração de antibiótico no intervalo fechado [1h, 4h] é formado por dois segmentos de reta: um é ascendente; e o outro, descendente.",
       "Para cada instante de tempo t no intervalo fechado [0h, 2h], há um instante de tempo t' no período fechado [2h, 8h] de modo que a concentração de antibiótico em t e t'é igual.",
       "A taxa de variação da concentração de antibiótico no sangue no intervalo fechado de tempo [2h, 8h] é variável.",
-      "A imagem da função que descreve a concentração de antibiótico é o intervalo [0,750mg/mL]."
+      "A imagem da função que descreve a concentração de antibiótico é o intervalo [0,$750mg/mL$]."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções Lineares e Afim", "Modelagem Matemática"],
     imageNames: []
@@ -1105,7 +1105,7 @@ createQuestion({
       "O aumento da concentração de CO2 no corpo humano causa a sua alcalinização, ou seja, o aumento do pH.",
       "Nas trocas gasosas o CO2 em contato com a água gera H2CO3."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Química"],
     conteudo: ["Fisiologia Animal", "Equilíbrio Ácido-Base"],
     imageNames: []
@@ -1126,7 +1126,7 @@ createQuestion({
       "Em humanos, a acetilcolina é um neurotransmissor secretado no sistema circulatório para ativar seu alvo.",
       "O sistema endócrino age em conjunto com o sistema nervoso, também produzindo e secretando neurotransmissores."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Sistema Nervoso", "Sistema Endócrino", "Neurotransmissores"],
     imageNames: []
@@ -1147,7 +1147,7 @@ createQuestion({
       "Em uma transformação isobárica entre dois estados A e B, para TB = 2TA, o volume do estado B será o dobro do volume do estado A.",
       "Se o gás sofrer duas transformações termodinâmicas, uma do estado A para o estado B à pressão constante p, seguida de outra do estado B para o estado C a volume constante, o trabalho realizado pelo gás para ir do estado A ao estado C será dado por τ = p(VB - VA)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica", "Gases Ideais"],
     imageNames: []
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Três objetos maciços de mesma massa são fabricados a partir de dois metais diferentes, ouro e prata, nas seguintes proporções: objeto A (100% ouro); objeto B (100% prata); objeto C (mistura dos dois metais em proporção desconhecida). (Dados: dau = 19g/cm³; dag =10g/cm³; EºAu = + 1,50V; EºAg = +0,80V). Assinale o que for correto.",
+      principal: "Três objetos maciços de mesma massa são fabricados a partir de dois metais diferentes, ouro e prata, nas seguintes proporções: objeto A (100% ouro); objeto B (100% prata); objeto C (mistura dos dois metais em proporção desconhecida). (Dados: dau = $19g/cm$³; dag =$10g/cm$³; EºAu = + 1,50V; EºAg = +0,80V). Assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -1168,7 +1168,7 @@ createQuestion({
       "O objeto B é oxidado mais facilmente que o objeto A.",
       "Se o objeto A for mergulhado em uma solução de AgNO3, ocorrerá uma reação de oxirredução."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Densidade", "Eletroquímica"],
     imageNames: []
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Considere a reação de decomposição de HCl a seguir: 2 HCl(g) → H2 (g) + Cl2 (g) ΔΗ = +184,6kJ/mol. Assinale o que for correto. (Dados: MH = 1g/mol, Mc₁= 35,5g/mol, 1cal = 4,18J).",
+      principal: "Considere a reação de decomposição de HCl a seguir: 2 HCl(g) → H2 (g) + Cl2 (g) ΔΗ = +184,$6kJ/mol$. Assinale o que for correto. (Dados: MH = $1g/mol$, Mc₁= 35,$5g/mol$, 1cal = 4,18J).",
       subItens: []
     },
     options: [
@@ -1189,7 +1189,7 @@ createQuestion({
       "Caso a reação descrita no enunciado de comando da questão ocorra em um recipiente (expansível, com excelente capacidade de troca de calor) imerso em água, esta será resfriada pela energia envolvida na reação.",
       "Ao elevar a temperatura do sistema, as moléculas de H2 e Cl2 poderão voltar a compor duas moléculas de HCl."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Termoquímica"],
     imageNames: []
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "O valor energético dos carboidratos e das proteínas é de 17kJ/g, enquanto o das gorduras é de 38kJ/g. Considere que os demais componentes dos alimentos listados a seguir possuem valores energéticos desprezíveis e que 1cal = 4,18J. Assinale o que for correto.\n\nComposição centesimal de alguns alimentos\nSorvete\nBolo\nQueijo prato\nPasta de amendoim\nMaionese\nManteiga\nÓleo de soja\n0 20 40 60 80 100 120\nGordura Carboidrato Proteína",
+      principal: "O valor energético dos carboidratos e das proteínas é de $17kJ/g$, enquanto o das gorduras é de $38kJ/g$. Considere que os demais componentes dos alimentos listados a seguir possuem valores energéticos desprezíveis e que 1cal = 4,18J. Assinale o que for correto.\n\nComposição centesimal de alguns alimentos\nSorvete\nBolo\nQueijo prato\nPasta de amendoim\nMaionese\nManteiga\nÓleo de soja\n0 20 40 60 80 100 120\nGordura Carboidrato Proteína",
       subItens: []
     },
     options: [
@@ -1210,7 +1210,7 @@ createQuestion({
       "Dentre os alimentos tabelados, a pasta de amendoim tem o conteúdo energético total que mais se assemelha ao óleo de soja.",
       "Uma porção de 200g de sorvete tem menos calorias do que 50g de pasta de amendoim."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Bioquímica", "Nutrição Humana"],
     imageNames: []
@@ -1231,7 +1231,7 @@ createQuestion({
       "A função que rege o decaimento da dipirona no organismo é dada por Dt = Do(½)^t/7, em que Do é a concentração inicial de dipirona, e t é o tempo medido em horas.",
       "O gráfico obtido do decaimento de concentração da dipirona em relação ao tempo é uma curva exponencial."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções Exponenciais"],
     imageNames: []
@@ -1252,7 +1252,7 @@ createQuestion({
       "Para todo x ≤ 4, f(x) ≥ 0.",
       "Para todo número real x, h(x) ≥ 0."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções", "Gráficos de Funções"],
     imageNames: []
@@ -1273,7 +1273,7 @@ createQuestion({
       "Com a palavra AULAS podemos formar exatamente 60 anagramas distintos.",
       "Em um hotel há 15 quartos vagos. Há pelo menos um milhão de maneiras distintas de se acomodar (individualmente) 6 pessoas nesses 15 quartos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Análise Combinatória"],
     imageNames: []
@@ -1294,7 +1294,7 @@ createQuestion({
       "A soma das medidas das hipotenusas dos triângulos ADD' e BCC' é menor que (10 + 8√2)cm.",
       "Os ângulos C'BC e C'ĈB medem ambos 45°."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Plana"],
     imageNames: []
@@ -1315,7 +1315,7 @@ createQuestion({
       "No sistema capitalista, a inatividade ou tempo de ócio é entendido como um tempo voltado ao trabalho.",
       "Os usuários entendem os \"likes\" recebidos como um sinal de perdão para os seus pecados digitais."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão e Interpretação de Texto"],
     imageNames: []
@@ -1336,7 +1336,7 @@ createQuestion({
       "A estrutura composicional da entrevista é marcada pela presença de sequências descritivas.",
       "A finalidade do gênero entrevista é obter informações e opiniões de uma pessoa a respeito de um determinado tema."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Gêneros Textuais", "Tipologia Textual"],
     imageNames: []
@@ -1357,7 +1357,7 @@ createQuestion({
       "Em \"Isso nos adoece.\" (linha 84), a próclise do pronome “nos” ocorre devido à presença do pronome demonstrativo “Isso”.",
       "Em “Mas o homem não se define” (linhas 91 e 92), a próclise do pronome \"se\" se justifica pela presença do advérbio de negação."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Colocação Pronominal", "Concordância Pronominal"],
     imageNames: []
@@ -1378,7 +1378,7 @@ createQuestion({
       "Em \"Todo dispositivo, toda técnica de dominação gera\", a forma verbal destacada pode estar no plural, para concordar com \"Todo dispositivo, toda técnica de dominação”.",
       "Em \"age como um rosário e suas contas\" temos a figura de linguagem denominada comparação."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Análise Sintática", "Figuras de Linguagem"],
     imageNames: []
@@ -1399,7 +1399,7 @@ createQuestion({
       "Em \"Assim, infelizmente, a vivência presencial se perde.\" (linhas 57 e 58), o conectivo \"Assim\" aponta para uma exemplificação que vem à frente.",
       "Em \"De fato, o smartphone nos prometia certa liberdade. Não se transformou em uma longa corrente que nos aprisiona onde quer que estejamos?\" (linhas 19-22), temos um exemplo de paradoxo."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Semântica", "Figuras de Linguagem"],
     imageNames: []
@@ -1420,7 +1420,7 @@ createQuestion({
       "A construção “Giramos em círculo\" é um exemplo de hipérbole, visto que girar e circular são expressões sinônimas.",
       "Em \"desconectamos do mundo” e “representação pobre do mundo\" as expressões destacadas desempenham a mesma função sintática (objeto indireto)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Análise Sintática", "Advérbios", "Figuras de Linguagem"],
     imageNames: []
@@ -1441,7 +1441,7 @@ createQuestion({
       "O termo \"derivada” (linha 47) está no feminino para concordar com a expressão “produção” (linha 49).",
       "Em \"Precisamos de uma política de inatividade.\" (linha 49), a forma verbal \"Precisamos\" requer um objeto indireto."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Regência Verbal e Nominal", "Concordância Nominal e Verbal"],
     imageNames: []
@@ -1462,7 +1462,7 @@ createQuestion({
       "Em um dos episódios do conto, Castelo, protagonista dos acontecimentos narrados, conta a história de Raimundo Flamel, jovem e conceituado novo morador de Tubiacanga, que descobriu uma fórmula para transformar ossos humanos em ouro. À noite, às escondidas, Raimundo e Castelo violavam sepulturas do cemitério da cidade com o objetivo de roubar ossos.",
       "Esse conto de Lima Barreto dialoga com a realidade contemporânea. Ao centrar seu enredo no falso saber de Castelo, que engana toda a sociedade ao seu redor, o conto ainda hoje serve de crítica a charlatanices e a vigarices presentes em nossa sociedade."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira", "Lima Barreto"],
     imageNames: []
@@ -1483,7 +1483,7 @@ createQuestion({
       "O poema apresenta impassibilidade, característica que mantém o distanciamento do eu lírico, não permitindo sua inclusão no conteúdo expresso do poema. Próximo das marcas da poesia de Augusto dos Anjos, \"Voz interior\" refere-se aos grandes genocídios da História e à destruição da natureza, contrariando o ideário árcade.",
       "A utilização do símbolo (coração) reduz a racionalidade e a objetividade (próprias da estética realista) e propõe a sondagem e a avaliação de impressões e sentimentos perceptíveis mais pela intuição do que pela razão. O eu lírico procura, mas só encontra no próprio coração uma voz desconhecida que, secretamente, reafirma o Bem em face das sensações do trágico e do monstruoso que lhe ecoam na mente."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Portuguesa", "Romantismo"],
     imageNames: []
@@ -1504,7 +1504,7 @@ createQuestion({
       "O princípio ético presente na crônica de costumes está relacionado à valorização da ancestralidade, pois se trata de uma história contada, originalmente, pelo avô Bento. Os fatos narrados são reais e podem, inclusive, ser conferidos em arquivos jornalísticos da época dos acontecimentos.",
       "Os jacalupis eram primos próximos dos lupis. Embora fossem muito maiores e aparentemente perigosos, apresentavam comportamento amistoso e usavam a sua força em benefício da coletividade. Foram os responsáveis pela expulsão dos rinocerontes que invadiram a montanha."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Luso-Africana"],
     imageNames: []
@@ -1525,7 +1525,7 @@ createQuestion({
       "La autora del texto realiza varias preguntas con el objetivo de llamar la atención de los padres.",
       "Hay un ejemplo de una chica joven que quiere comprar todas las revistas de un quiosco."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -1546,7 +1546,7 @@ createQuestion({
       "El permiso para que los jóvenes o niños naveguen en la red es concedido al pagar el servicio de Internet.",
       "Los hijos sólo utilizan la red para entrar en sus redes sociales."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -1567,7 +1567,7 @@ createQuestion({
       "\"tengan\" (línea 12) es la conjugación del verbo tener en tercera persona del plural en presente de indicativo.",
       "\"lean\" y \"vean” (línea 27) son conjugaciones verbales en imperativo afirmativo en tercera persona del plural."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Gramática"],
     imageNames: []
@@ -1588,7 +1588,7 @@ createQuestion({
       "\"Ellos\" (línea 33) es la forma plural de la palabra ello.",
       "El singular de la palabra \"peces” (línea 42) es pez."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Gramática"],
     imageNames: []
@@ -1609,7 +1609,7 @@ createQuestion({
       "\"muchas\" (línea 25) es la forma apocopada de mucho.",
       "\"Aunque\" (línea 24) es una conjunción."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Gramática"],
     imageNames: []
@@ -1630,7 +1630,7 @@ createQuestion({
       "Malala gave her first speech at the age of 15.",
       "Gul Makai was the name used by Malala when she started to write for BBC."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension"],
     imageNames: []
@@ -1651,7 +1651,7 @@ createQuestion({
       "\"Her\" in \"Her father\" (line 8) refers to Malala's father and \"his\" in \"his path\" (line 11) refers to her father's path.",
       "\"women\" (line 15) is the plural form of the word woman and lives is the plural form of the word \"life\" (line 27)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Grammar", "Vocabulary"],
     imageNames: []
@@ -1672,7 +1672,7 @@ createQuestion({
       "The pronoun “which” (line 22) refers to school closings.",
       "In the sentence “she was going home from school.\" (line 43), the structure \"was going\" refers to a planned action in the future."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Grammar", "Verb Tenses"],
     imageNames: []
@@ -1693,7 +1693,7 @@ createQuestion({
       "The pronoun “their” in “their safety\" (line 18) refers to Malala and her father.",
       "\"Yousafzai made her first television appearance\" (line 32) means that it was the first time Yousafzai was seen on TV."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension", "Vocabulary"],
     imageNames: []
@@ -1714,7 +1714,7 @@ createQuestion({
       "Malala got recognition only when she won the Nobel Peace Prize in 2014.",
       "The TTP tried to kill Malala when she was going to school."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension", "Vocabulary"],
     imageNames: []
@@ -1735,7 +1735,7 @@ createQuestion({
       "Os festivais de música popular brasileira se propuseram à divulgação de gêneros musicais que polarizavam a audiência, como a Música Popular Brasileira (MPB), a música de protesto e o tropicalismo, em oposição ao estilo iê-iê-iê.",
       "Os festivais de música, a partir de 1969, perderam a importância pelo endurecimento da ditadura militar no Brasil, que levou muitos dos principais artistas ao exílio."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Arte", "História"],
     conteudo: ["Música Brasileira e Movimentos Culturais", "Ditadura Militar no Brasil"],
     imageNames: []
@@ -1756,7 +1756,7 @@ createQuestion({
       "Por meio da massificação a indústria cultural submeteu as artes às regras do mercado capitalista como produtos culturais fabricados em série e destinados ao entretenimento, à diversão.",
       "Desde a Antiguidade até hoje as obras de arte têm um valor intrínseco religioso, que se intensificou a partir do século XX com a crise ética gerada pelas guerras mundiais."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia", "Arte"],
     conteudo: ["Estética", "Teoria da Arte"],
     imageNames: []
@@ -1777,7 +1777,7 @@ createQuestion({
       "As conquistas trabalhistas incorporadas ao texto constitucional foram pouco expressivas: a licença maternidade de dois meses não foi ampliada; o Estado podia intervir nos sindicatos e proibir a organização de greves por parte dos trabalhadores; e a jornada de trabalho não foi revista, atendendo a um pedido da classe patronal.",
       "Pela Carta Constitucional de 1988 o Poder Legislativo foi reforçado, e o Poder Judiciário passou a desfrutar de independência política. Essa Carta permitiu ao Poder Judiciário julgar e anular atos do Poder Executivo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História", "Sociologia"],
     conteudo: ["História do Brasil (República)", "Constituição e Direitos"],
     imageNames: []
@@ -1798,7 +1798,7 @@ createQuestion({
       "Os movimentos antiglobalização são constituídos de forma heterogênea e abrangem grupos de ambientalistas, de sindicalistas, de estudantes, de militantes de grupos de esquerda e outros segmentos sociais.",
       "A Doutrina Bush consistiu em criar políticas públicas que valorizassem a manutenção da paz e reivindicassem o fim das políticas armamentistas. Essas medidas caracterizaram o governo do democrata George W. Bush na segunda metade da década de 1990."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia", "História"],
     conteudo: ["Nova Ordem Mundial", "Relações Internacionais (Guerra Fria e Pós-Guerra Fria)"],
     imageNames: []
@@ -1819,7 +1819,7 @@ createQuestion({
       "O cultivo das denominadas Agroflorestas tem sido incentivado no litoral e no Vale da Ribeira. Nessas regiões se encontram grandes áreas com cobertura florestal nativa.",
       "Em meados do século XX, a industrialização da capital paranaense atraiu milhões de nordestinos para a Região Metropolitana de Curitiba."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia", "História"],
     conteudo: ["Geografia do Paraná", "História do Paraná"],
     imageNames: []
@@ -1840,7 +1840,7 @@ createQuestion({
       "Comunidades quilombolas são encontradas em áreas urbanas e rurais.",
       "No estado do Paraná há cidades que se formaram a partir de colônias de imigrantes ucranianos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["População e Cultura do Brasil"],
     imageNames: []
@@ -1861,7 +1861,7 @@ createQuestion({
       "O desenvolvimento do capitalismo e o reconhecimento das desigualdades sociais evidenciaram que a igualdade jurídica entre as pessoas, apesar de fundamental, é insuficiente para garantir os Direitos Humanos.",
       "Os Direitos Humanos são uma constituição formal e um conjunto de regras pétreas que estabelecem parâmetros fixos, sem relação com os contextos históricos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Direitos Humanos"],
     imageNames: []
@@ -1882,7 +1882,7 @@ createQuestion({
       "Considerando-se o exercício físico e a nutrição, é necessário promover um balanço calórico positivo para a redução da gordura corporal.",
       "A diminuição no nível de atividade física diária se correlaciona com o aumento do metabolismo basal que, por sua vez, promove aumento na deposição de gordura nos adipócitos, estimulando, então, o desenvolvimento da obesidade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia", "Educação Física"],
     conteudo: ["Saúde e Bem-estar", "Exercício Físico e Doenças"],
     imageNames: []
@@ -1903,7 +1903,7 @@ createQuestion({
       "Para minimizar os efeitos da produção de lixo pelos humanos deve-se queimar esse lixo, processo que não traz prejuízos ao meio ambiente.",
       "Um dos recursos utilizados pelo ser humano para proteção e manutenção da biodiversidade é a criação de áreas denominadas unidades de conservação."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia", "Biologia"],
     conteudo: ["Problemas Ambientais", "Ecologia e Meio Ambiente"],
     imageNames: []
@@ -1924,7 +1924,7 @@ createQuestion({
       "Um exemplo de reflexão é quando a quantidade de luz que penetra abaixo de uma mancha de óleo é maior que a quantidade de luz que penetra em águas claras. Esse fenômeno provoca um aumento da taxa de fotossíntese com consequente desequilíbrio na cadeia alimentar.",
       "A poluição sonora é propagada por ondas mecânicas, pois ela só se propaga em meios materiais, não havendo possibilidade de propagação no vácuo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Ondas", "Acústica", "Eletromagnetismo"],
     imageNames: []
@@ -1945,7 +1945,7 @@ createQuestion({
       "A média do número de predadores, considerando-se os dados do primeiro dia de cada mês, foi superior a 70 indivíduos.",
       "Em condições naturais, a predação é o único fator que limita o crescimento de uma população."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia", "Matemática"],
     conteudo: ["Ecologia de Populações", "Geometria Espacial"],
     imageNames: []
@@ -1966,7 +1966,7 @@ createQuestion({
       "A energia que flui entre os seres vivos consumidores está baseada nos compostos orgânicos que compõem cada ser vivo da cadeia alimentar.",
       "Grafite (C[graf]), diamante (C[diam]), Na2CO3 e CaCO3 são moléculas orgânicas encontradas na litosfera."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia", "Química"],
     conteudo: ["Evolução", "Compostos Orgânicos", "Poluição Ambiental"],
     imageNames: []
@@ -1987,7 +1987,7 @@ createQuestion({
       "Despreze a interação entre os ímãs e considere que eles estão dentro de um solenoide cujo eixo está alinhado perpendicularmente à figura. Se uma corrente elétrica constante percorrer o solenoide, os três ímãs (quando livres para girar) atingirão o equilíbrio ao se orientarem paralelamente ao eixo do solenoide.",
       "Considere que os ímãs (quando livres para girar) se encontram em uma configuração espacial de equilíbrio na ausência de campo magnético externo. Essa mesma configuração de equilíbrio será mantida na presença de campo magnético externo uniforme."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Magnetismo", "Eletromagnetismo"],
     imageNames: []
@@ -2004,11 +2004,11 @@ createQuestion({
     options: [
       "As cargas Q₂ e q se atraem.",
       "A força resultante sobre a carga q tem a direção do eixo y.",
-      "Se os módulos das cargas Q1 e Q2 forem iguais a 2µC, então o módulo da força de atração entre as cargas Q1 e Q2 é igual a 4/2109N.",
+      "Se os módulos das cargas Q1 e Q2 forem iguais a 2µC, então o módulo da força de atração entre as cargas Q1 e Q2 é igual a $4/2109N$.",
       "A circunferência de equação (x − 6)² + (y − 3)² = 29 passa pelo ponto médio do segmento AB.",
       "A área do triângulo ABC é igual a 20cm²."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física", "Matemática"],
     conteudo: ["Eletrostática", "Geometria Analítica"],
     imageNames: []
@@ -2029,7 +2029,7 @@ createQuestion({
       "Para que esse feixe refletido pelo espelho passe pelo ponto (6m, 4m), é necessário girar o espelho no sentido horário em ângulo de 22,5°, considerando-se seu centro como o eixo de rotação.",
       "Sem fazer qualquer alteração no alinhamento do laser, apenas deslocando-se o espelho para a posição entre os pontos (2m, 2m) e (4m, 2m), o feixe será refletido para o ponto (10m, 10m)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física", "Matemática"],
     conteudo: ["Óptica Geométrica", "Geometria Analítica"],
     imageNames: []
@@ -2050,7 +2050,7 @@ createQuestion({
       "Morder um pedaço de papel-alumínio com dente restaurado por amálgama pode provocar uma pequena descarga elétrica causada pela formação de uma célula galvânica.",
       "Dentre os metais citados o mais oxidante é o Alumínio."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química", "Física"],
     conteudo: ["Eletroquímica", "Materiais", "Condutores"],
     imageNames: []
@@ -2071,7 +2071,7 @@ createQuestion({
       "O ponto de ebulição da acetona é maior do que o do butano, pois na acetona há um grupo carbonila que pode estabelecer interações dipolo-dipolo permanentes.",
       "A substância desconhecida pode ser o 2,2-dimetilbutano que, por ter uma cadeia ramificada, apresenta interações de Van der Waals mais fracas que o hexano e, consequentemente, tem um menor ponto de ebulição."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Propriedades Físicas de Compostos Orgânicos"],
     imageNames: []
@@ -2082,7 +2082,7 @@ createQuestion({
     university: "uem",
     year: 2023,
     text: {
-      principal: "Uma empresa de tratamento de piscinas avaliou o pH de cinco delas durante uma semana chuvosa, sem adição extra de tratamento químico, fato que tornou a água verde por volta do 4.º dia nas piscinas C e D e por volta do 5.º dia nas piscinas A, B e E, por causa da proliferação de algas. Foram feitas as medidas de pH durante os sete dias, e os dados estão compilados no quadro a seguir. Sabendo que os subprodutos ativos da adição de cloro à água são o HCIO e o ClO e que sua predominância depende do pH do meio reacional, assinale o que for correto, levando-se em consideração os conceitos de equilíbrio iônico em solução aquosa.\n\n| Piscina/dia | 1.° | 2.° | 3.° | 4.° | 5.° | 6.° | 7.° |\n|-----------|-----|-----|-----|-----|-----|-----|-----|\n| A         | 7,6 | 7,2 | 7,0 | 6,8 | 6,5 | 6,4 | 6,3 |\n| B         | 7,4 | 7,3 | 7,2 | 7,0 | 6,5 | 6,5 | 6,5 |\n| C         | 7,5 | 7,3 | 7,0 | 6,5 | 6,3 | 6,3 | 6,2 |\n| D         | 7,0 | 7,0 | 6,8 | 6,5 | 6,2 | 6,2 | 6,1 |\n| E         | 7,6 | 7,4 | 7,2 | 7,0 | 6,5 | 6,5 | 6,5 |\n\n",
+      principal: "Uma empresa de tratamento de piscinas avaliou o pH de cinco delas durante uma semana chuvosa, sem adição extra de tratamento químico, fato que tornou a água verde por volta do 4.º dia nas piscinas C e D e por volta do 5.º dia nas piscinas A, B e E, por causa da proliferação de algas. Foram feitas as medidas de pH durante os sete dias, e os dados estão compilados no quadro a seguir. Sabendo que os subprodutos ativos da adição de cloro à água são o HCIO e o ClO e que sua predominância depende do pH do meio reacional, assinale o que for correto, levando-se em consideração os conceitos de equilíbrio iônico em solução aquosa.\n\n| $\\piscina/dia$ | 1.° | 2.° | 3.° | 4.° | 5.° | 6.° | 7.° |\n|-----------|-----|-----|-----|-----|-----|-----|-----|\n| A         | 7,6 | 7,2 | 7,0 | 6,8 | 6,5 | 6,4 | 6,3 |\n| B         | 7,4 | 7,3 | 7,2 | 7,0 | 6,5 | 6,5 | 6,5 |\n| C         | 7,5 | 7,3 | 7,0 | 6,5 | 6,3 | 6,3 | 6,2 |\n| D         | 7,0 | 7,0 | 6,8 | 6,5 | 6,2 | 6,2 | 6,1 |\n| E         | 7,6 | 7,4 | 7,2 | 7,0 | 6,5 | 6,5 | 6,5 |\n\n",
       subItens: []
     },
     options: [
@@ -2092,7 +2092,7 @@ createQuestion({
       "No 5.º dia, a média de pH entre as piscinas é 6,4; a moda e a mediana são 6,5.",
       "Para a piscina D a distribuição de valores de pH é bimodal; e, para a piscina A, não há moda."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Equilíbrio Iônico", "pH e Soluções"],
     imageNames: []
@@ -2113,7 +2113,7 @@ createQuestion({
       "O argumento do número representado por P3 é 30°.",
       "A soma dos números complexos representados por P₁ e P2 é representada no plano complexo por P4(1,4)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Números Complexos"],
     imageNames: []
@@ -2134,7 +2134,7 @@ createQuestion({
       "A expressão “digamos assim” (linha 25) pode ser retirada sem prejuízo ao sentido do texto.",
       "Em \"acaba sendo vitimada por esse processo de degradação” (linhas 48 e 49), a sequência destacada funciona como complemento nominal da expressão “vitimada\"."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Semântica", "Sintaxe"],
     imageNames: []
@@ -2155,7 +2155,7 @@ createQuestion({
       "O fragmento “e até um mito criado em torno da questão ambiental\" apresenta, implicitamente, a forma verbal “Há”, já explicitamente presente na oração “Há um senso comum”.",
       "Em \"de que ela nos atinge a todos igualmente\", \"a todos\" desempenha função de objeto indireto, assim como o pronome \"nos\"."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Análise Sintática", "Orações Subordinadas"],
     imageNames: []
@@ -2176,7 +2176,7 @@ createQuestion({
       "As expressões \"discriminação” (no fragmento) e descriminação (não presente no fragmento) são exemplos de palavras parônimas, ou seja, palavras que apresentam grafia ou som semelhantes, mas significados distintos.",
       "A expressão “você” remete, genericamente, àqueles que maltratam o ambiente jogando resíduos, dejetos, degradando o ambiente."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Semântica", "Morfologia", "Recursos Expressivos"],
     imageNames: []
@@ -2197,7 +2197,7 @@ createQuestion({
       "O abismo social se torna ainda mais profundo à medida que a população mais vulnerável deixa de ter acesso a serviços públicos básicos, como os de saneamento.",
       "O racismo ambiental é causado pelas injustiças sociais, mas não atua diretamente na criação e no crescimento dessas injustiças."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa", "Sociologia"],
     conteudo: ["Interpretação Textual", "Racismo Ambiental"],
     imageNames: []
@@ -2218,7 +2218,7 @@ createQuestion({
       "Em \"essa degradação a tinha\" (linha 25), o pronome em destaque retoma a expressão “a questão” (linha 22).",
       "A sequência “é que\" (linha 23) realça o fato de a população negra ser a mais vitimada pela degradação ambiental."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Análise Sintática", "Conjunções e Pronomes"],
     imageNames: []
@@ -2239,7 +2239,7 @@ createQuestion({
       "Como a Penélope mítica, a personagem homônima do conto de Dalton Trevisan (Vozes do Retrato: quinze histórias de mentiras e verdades) também realiza as ações de tecer e desmanchar, além de lavar roupas para fora. A diferença consiste em que a primeira tecia uma túnica enquanto a senhora curitibana tricotava uma colcha para a cama do casal. No fim da história, o casal se divorcia.",
       "No poema, a seguir, de Paulo Leminski (Toda poesia. São Paulo: Companhia das Letras, 2013): \"cansei da frase polida / por anjos de cara pálida / palmeiras batendo palmas / ao passarem paradas / agora eu quero a pedrada / chuva de pedras palavras / distribuindo pauladas\" o eu lírico, indignado e utilizando recursos da expressão poética (metalinguagem, prosopopeia, assonâncias), confere às palavras o poder que as pedradas têm e manifesta, no poema, o desejo de ser agressivo por meio da literatura. A repetição da letra \"p\", no início das palavras que encerram cada verso, além de configurar aliteração, sugere a ideia de situações conflituosas e de obstáculos, unindo forma e conteúdo no poema."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira"],
     imageNames: []
@@ -2260,7 +2260,7 @@ createQuestion({
       "A linguagem figurada é uma importante característica da obra da autora. O conto apresenta, por exemplo, o eufemismo quando se refere à fala de Davenga, que usa a expressão “fazer um serviço” com o sentido de praticar um crime.",
       "Di Lixão, um dos amigos de Ana Davenga, é um idoso cuja aposentadoria é insuficiente para sustentar a si mesmo e aos netos que cria. Por essa razão, frequenta diariamente o lixão da cidade para buscar alimentos reaproveitáveis e materiais recicláveis para vender. Daí o motivo do apelido que recebera dos moradores da comunidade."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira Contemporânea"],
     imageNames: []
@@ -2281,7 +2281,7 @@ createQuestion({
       "According to one of the girl's interview, YouTube is not a positive way to study online.",
       "Nearly 30% of the teens interviewed affirm that social media contribute to socializing."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension"],
     imageNames: []
@@ -2302,7 +2302,7 @@ createQuestion({
       "In \"Nearly half describe the benefits of socializing on these platforms\" (lines 41 and 42), the expression \"Nearly half\" is the amount of teens who describe the benefits of this action.",
       "\"uniformly\" (line 28) and “personally\" (line 40) are examples of adjectives, giving qualities to the words \"positive\" (line 29) and “teens” (line 39), respectively."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Grammar", "Vocabulary"],
     imageNames: []
@@ -2323,7 +2323,7 @@ createQuestion({
       "One of the teen boy says that the social media has become part of his life.",
       "One of the teen girl recognizes the bad effects on her life after using the social media, giving examples of her emotions."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension"],
     imageNames: []
@@ -2344,7 +2344,7 @@ createQuestion({
       "\"Indeed\" (line 11) is an adverb used to introduce an additional statement.",
       "In the sentence \"teen girls being more likely than teen boys to report that things they come across” (lines 31 and 32), “more likely\" indicates that something will not probably happen."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Grammar", "Vocabulary"],
     imageNames: []
@@ -2365,7 +2365,7 @@ createQuestion({
       "A parte interna dos templos priorizava o espaço para oração; havia bancos para melhor conforto e permanência de fiéis.",
       "O granito foi o material utilizado nas esculturas por ser mais flexível que o bronze."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Arte Grega"],
     imageNames: []
@@ -2386,7 +2386,7 @@ createQuestion({
       "Na Rússia, foi marcado por apresentações dinâmicas e criativas, mas sem rejeitar a escola clássica.",
       "As posições básicas dos pés, acompanhadas pelas posições dos braços e da cabeça, são importantes para que bailarinos clássicos realizem os movimentos com equilíbrio."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História da Dança", "Balé"],
     imageNames: []
@@ -2407,7 +2407,7 @@ createQuestion({
       "Entre as diversas comédias e tragédias que sobreviveram até os dias atuais, as mais relevantes são de autoria de Platão, Aristóteles e Édipo.",
       "Os espaços para encenação eram ao ar livre, onde havia preocupação com a visibilidade do público que ocupava as arquibancadas dispostas em torno de uma área circular."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Teatro Grego"],
     imageNames: []
@@ -2428,7 +2428,7 @@ createQuestion({
       "Os hieróglifos eram elementos estáticos, esculpidos nas fachadas e nas colunas dos templos; faziam parte da ornamentação arquitetônica, e sua função era deixar gravados para a posteridade os feitos dos faraós.",
       "As pirâmides são obras monumentais de grande escala. Foram utilizados, como técnica construtiva, blocos de pedras empilhados. Serviam para ostentar a grandiosidade e a imponência dos poderes político e religioso do faraó."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Arte Egípcia"],
     imageNames: []
@@ -2449,7 +2449,7 @@ createQuestion({
       "O balé clássico possui elementos marcantes que podem ser facilmente reconhecidos, como a postura e a posição dos pés e das mãos. Há peças solo, nas quais somente um bailarino ou bailarina fica em destaque. Há também apresentações de corpos de baile e em duplas.",
       "Alguns fatores do movimento corporal foram sistematizados em quatro categorias: fluência, espaço, peso e tempo. Esses são parâmetros para as ações que são realizadas pelo esforço dos corpos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Dança e Expressão Corporal"],
     imageNames: []
@@ -2470,7 +2470,7 @@ createQuestion({
       "Na síntese do butanoato de etila também ocorre formação de água como produto.",
       "O butanoato de etila também pode ser obtido a partir da reação do etanoato de etila com butanol em meio ácido."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Reações Orgânicas (Esterificação)", "Equilíbrio Químico"],
     imageNames: []
@@ -2491,7 +2491,7 @@ createQuestion({
       "O estireno é um hidrocarboneto aromático.",
       "A reação de polimerização consiste na união de muitas unidades de monômeros."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica (Polímeros)", "Ligações Químicas"],
     imageNames: []
@@ -2512,7 +2512,7 @@ createQuestion({
       "As paredes de ferro poroso são sistemas que não têm custos de manutenção.",
       "O valor de y é sempre 2."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Eletroquímica (Reações Redox)", "Química Ambiental"],
     imageNames: []
@@ -2533,7 +2533,7 @@ createQuestion({
       "Com aumento do consumo de alimentos ricos em cálcio iônico, o princípio de Le Chatelier prevê o aumento da cristalização desses sais através do efeito do íon comum.",
       "Nos equilíbrios químicos de solubilidade, a velocidade de dissolução é menor que a velocidade de precipitação, por isso há sempre a presença de cristais dessas substâncias de baixa solubilidade."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Equilíbrio Iônico (Solubilidade)", "Bioquímica"],
     imageNames: []
@@ -2554,7 +2554,7 @@ createQuestion({
       "A reação do diclofenaco com NaOH produz o diclofenaco de sódio (um sal orgânico), que é mais solúvel em água que o diclofenaco.",
       "Após a ingestão do diclofenaco ocorre sua hidrólise no organismo, levando à formação do produto A."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Funções Orgânicas", "Reações Químicas"],
     imageNames: []

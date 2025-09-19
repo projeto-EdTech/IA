@@ -549,7 +549,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "Pesquisadores dos Estados Unidos desenvolveram uma nova técnica, que utiliza raios de luz infravermelha (invisíveis a olho nu) para destruir tumores. Primeiramente, o paciente recebe uma injeção com versões modificadas de anticorpos que têm a capacidade de “grudar” apenas nas células cancerosas. Sozinhos, eles não fazem nada contra o tumor. Entretanto, esses anticorpos estão ligados a uma molécula, denominada IR700, que funcionará como uma “microbomba”, que irá destruir o câncer. Em seguida, o paciente recebe raios infravermelhos. Esses raios penetram no corpo e chegam até a molécula IR700, que é ativada e libera uma substância que ataca a célula cancerosa.\nDisponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012 (adaptado).\n\nCom base nas etapas de desenvolvimento, o nome apropriado para a técnica descrita é:",
+      principal: "Pesquisadores dos Estados Unidos desenvolveram uma nova técnica, que utiliza raios de luz infravermelha (invisíveis a olho $\\nu$) para destruir tumores. Primeiramente, o paciente recebe uma injeção com versões modificadas de anticorpos que têm a capacidade de “grudar” apenas nas células cancerosas. Sozinhos, eles não fazem nada contra o tumor. Entretanto, esses anticorpos estão ligados a uma molécula, denominada IR700, que funcionará como uma “microbomba”, que irá destruir o câncer. Em seguida, o paciente recebe raios infravermelhos. Esses raios penetram no corpo e chegam até a molécula IR700, que é ativada e libera uma substância que ataca a célula cancerosa.\nDisponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012 (adaptado).\n\nCom base nas etapas de desenvolvimento, o nome apropriado para a técnica descrita é:",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "Pesquisadores coletaram amostras de água de um rio em pontos diferentes, distantes alguns quilômetros um do outro. Ao longo do rio, há locais de águas limpas, como também locais que recebem descarga de esgoto de área urbana, e locais onde há decomposição ativa com ausência de peixes. Os pesquisadores analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO) em cada ponto de coleta de água, obtendo o gráfico:\n\nGráfico de OD e DBO (mg L⁻¹) em função de Pontos de amostragem (1 a 5). A legenda indica que * representa OD e + representa DBO.\nValores limites permitidos para águas doces destinadas ao abastecimento para o consumo humano após tratamento convencional, segundo Resolução Conama n. 357/2005: OD ≥ 5 mg L⁻¹ e DBO ≤ 5 mg L⁻¹.\n\nO OD é proveniente da atmosfera e da fotossíntese que ocorre no curso-d’água e sua concentração é função das variáveis físicas, químicas e bioquímicas locais. A DBO é a quantidade de oxigênio consumido por microrganismos em condições aeróbicas para degradar uma determinada quantidade de matéria orgânica, durante um período de tempo, numa temperatura de incubação específica.\nDisponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado).\n\nQual ponto de amostragem da água do rio está mais próximo ao local em que o rio recebe despejo de esgoto?",
+      principal: "Pesquisadores coletaram amostras de água de um rio em pontos diferentes, distantes alguns quilômetros um do outro. Ao longo do rio, há locais de águas limpas, como também locais que recebem descarga de esgoto de área urbana, e locais onde há decomposição ativa com ausência de peixes. Os pesquisadores analisaram dois parâmetros: oxigênio dissolvido (OD) e demanda bioquímica de oxigênio (DBO) em cada ponto de coleta de água, obtendo o gráfico:\n\nGráfico de OD e DBO (mg L⁻¹) em função de Pontos de amostragem (1 a 5). A legenda indica que * representa OD e + representa DBO.\nValores limites permitidos para águas doces destinadas ao abastecimento para o consumo humano após tratamento convencional, segundo Resolução Conama n. $357/2005$: OD ≥ 5 mg L⁻¹ e DBO ≤ 5 mg L⁻¹.\n\nO OD é proveniente da atmosfera e da fotossíntese que ocorre no curso-d’água e sua concentração é função das variáveis físicas, químicas e bioquímicas locais. A DBO é a quantidade de oxigênio consumido por microrganismos em condições aeróbicas para degradar uma determinada quantidade de matéria orgânica, durante um período de tempo, numa temperatura de incubação específica.\nDisponível em: www.programaaguaazul.rn.gov.br. Acesso em: 16 ago. 2014 (adaptado).\n\nQual ponto de amostragem da água do rio está mais próximo ao local em que o rio recebe despejo de esgoto?",
       subItens: []
     },
     options: [
@@ -746,7 +746,7 @@ createQuestion({
       "Fusão nuclear do hidrogênio, provocada por prótons.",
       "Desintegração nuclear do plutônio, provocada por elétrons.",
       "Associação em cadeia de chumbo, provocada por pósitrons.",
-      "Decaimento radioativo do carbono, provocado por partículas beta."
+      "Decaimento radioativo do carbono, provocado por partículas $\\beta$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -851,7 +851,7 @@ createQuestion({
       "A + B → C + D (a reação é fortemente endotérmica).",
       "A + 3B → C (a reação ocorre com uso de solvente orgânico).",
       "3A + 2B → 2C → 3D + 2E (a reação ocorre sob pressão atmosférica).",
-      "A + 1/2 B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico)."
+      "A + $1/2$ B → C (a reação ocorre com o uso de um catalisador contendo um metal não tóxico)."
     ],
     correctAnswer: 4,
     materia: ["Química"],
@@ -952,11 +952,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "16/42",
-      "16/26",
-      "26/42",
-      "42/26",
-      "42/16"
+      "$16/42$",
+      "$16/26$",
+      "$26/42$",
+      "$42/26$",
+      "$42/16$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1057,11 +1057,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/12",
-      "7/12",
-      "1/8",
-      "5/6",
-      "1/4"
+      "$1/12$",
+      "$7/12$",
+      "$1/8$",
+      "$5/6$",
+      "$1/4$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1158,14 +1158,14 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "Muitos modelos atuais de veículos possuem computador de bordo. Os computadores informam em uma tela diversas variações de grandezas associadas ao desempenho do carro, dentre elas o consumo médio de combustível. Um veículo, de um determinado modelo, pode vir munido de um dos dois tipos de computadores de bordo:\n• Tipo A: informa a quantidade X de litro de combustível gasto para percorrer 100 quilômetros;\n• Tipo B: informa a quantidade de quilômetro que o veículo é capaz de percorrer com um litro de combustível.\n\nUm veículo utiliza o computador do Tipo A, e ao final de uma viagem o condutor viu apresentada na tela a informação “X/100”.\n\nCaso o seu veículo utilizasse o computador do Tipo B, o valor informado na tela seria obtido pela operação",
+      principal: "Muitos modelos atuais de veículos possuem computador de bordo. Os computadores informam em uma tela diversas variações de grandezas associadas ao desempenho do carro, dentre elas o consumo médio de combustível. Um veículo, de um determinado modelo, pode vir munido de um dos dois tipos de computadores de bordo:\n• Tipo A: informa a quantidade X de litro de combustível gasto para percorrer 100 quilômetros;\n• Tipo B: informa a quantidade de quilômetro que o veículo é capaz de percorrer com um litro de combustível.\n\nUm veículo utiliza o computador do Tipo A, e ao final de uma viagem o condutor viu apresentada na tela a informação “$X/100$”.\n\nCaso o seu veículo utilizasse o computador do Tipo B, o valor informado na tela seria obtido pela operação",
       subItens: []
     },
     options: [
       "X · 100",
-      "X/100",
-      "100/X",
-      "1/X",
+      "$X/100$",
+      "$100/X$",
+      "$1/X$",
       "1 · X"
     ],
     correctAnswer: 2,
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma pesquisa feita anualmente pelo IBGE, exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais e/ou acadêmicas. Os resultados da pesquisa estão indicados no gráfico.\n\nGráfico de barras \"Jovens em atividade entre 15 e 29 anos (%)\".\nSomente estuda: 21,6%\nTrabalha e estuda: 13,6%\nSomente trabalha: 45,2%\nNão trabalha nem estuda: 19,6%\n\nDisponível em: http://noticias.uol.com.br. Acesso em: 20 ago. 2014.\n\nDe acordo com as informações dadas, o número de jovens entrevistados que trabalha é",
+      principal: "A Pesquisa Nacional por Amostra de Domicílios (Pnad) é uma pesquisa feita anualmente pelo IBGE, exceto nos anos em que há Censo. Em um ano, foram entrevistados 363 mil jovens para fazer um levantamento sobre suas atividades profissionais $e/ou$ acadêmicas. Os resultados da pesquisa estão indicados no gráfico.\n\nGráfico de barras \"Jovens em atividade entre 15 e 29 anos (%)\".\nSomente estuda: 21,6%\nTrabalha e estuda: 13,6%\nSomente trabalha: 45,2%\nNão trabalha nem estuda: 19,6%\n\nDisponível em: http://noticias.uol.com.br. Acesso em: 20 ago. 2014.\n\nDe acordo com as informações dadas, o número de jovens entrevistados que trabalha é",
       subItens: []
     },
     options: [
@@ -1200,15 +1200,15 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência (f) de uma palavra em um dado texto com o seu ranking (r). Ela é dada por f = A / rᴮ.\n\nO ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, r = 1 para a palavra mais frequente, r = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas.\nDiponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adatpado).\n\nCom base nos valores de X = log (r) e Y = log (f), é possível estimar valores para A e B.\n\nNo caso hipotético em que a lei é verificada exatamente, a relação entre Y e X é",
+      principal: "A Lei de Zipf, batizada com o nome do linguista americano George Zipf, é uma lei empírica que relaciona a frequência (f) de uma palavra em um dado texto com o seu ranking (r). Ela é dada por f = A / rᴮ.\n\nO ranking da palavra é a sua posição ao ordenar as palavras por ordem de frequência. Ou seja, r = 1 para a palavra mais frequente, r = 2 para a segunda palavra mais frequente e assim sucessivamente. A e B são constantes positivas.\nDiponível em: http://klein.sbm.org.br. Acesso em: 12 ago. 2020 (adatpado).\n\nCom base nos valores de X = $\\log$ (r) e Y = $\\log$ (f), é possível estimar valores para A e B.\n\nNo caso hipotético em que a lei é verificada exatamente, a relação entre Y e X é",
       subItens: []
     },
     options: [
-      "Y = log (A) - B · X",
-      "Y = log (A) / (X + log (B))",
-      "Y = log (A) / B - X",
-      "Y = log (A) / (B · X)",
-      "Y = log (A) / (Xᴮ)"
+      "Y = $\\log$ (A) - B · X",
+      "Y = $\\log$ (A) / (X + $\\log$ (B))",
+      "Y = $\\log$ (A) / B - X",
+      "Y = $\\log$ (A) / (B · X)",
+      "Y = $\\log$ (A) / (Xᴮ)"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "Um processo de aeração, que consiste na introdução de ar num líquido, acontece do seguinte modo: uma bomba B retira o líquido de um tanque T1 e o faz passar pelo aerador A1, que aumenta o volume do líquido em 15%, e em seguida pelo aerador A2, ganhando novo aumento de volume de 10%. Ao final, ele fica armazenado num tanque T2, de acordo com a figura.\n\nDiagrama do processo de aeração. O líquido de T1 passa por A1 e A2 e é armazenado em T2. T1 é um prisma reto de base retangular de comprimento c e largura L. T2 é um prisma reto de base retangular de comprimento c/2 e largura 2L.\n\nPara finalizar o processo de aeração sem derramamento do líquido em T2, o responsável deve saber a relação entre a altura da coluna de líquido que já saiu de T1, denotada por x, e a altura da coluna de líquido que chegou a T2, denotada por y.\nDisponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015.\n\nA equação que relaciona as medidas das alturas y e x é dada por",
+      principal: "Um processo de aeração, que consiste na introdução de ar num líquido, acontece do seguinte modo: uma bomba B retira o líquido de um tanque T1 e o faz passar pelo aerador A1, que aumenta o volume do líquido em 15%, e em seguida pelo aerador A2, ganhando novo aumento de volume de 10%. Ao final, ele fica armazenado num tanque T2, de acordo com a figura.\n\nDiagrama do processo de aeração. O líquido de T1 passa por A1 e A2 e é armazenado em T2. T1 é um prisma reto de base retangular de comprimento c e largura L. T2 é um prisma reto de base retangular de comprimento $c/2$ e largura 2L.\n\nPara finalizar o processo de aeração sem derramamento do líquido em T2, o responsável deve saber a relação entre a altura da coluna de líquido que já saiu de T1, denotada por x, e a altura da coluna de líquido que chegou a T2, denotada por y.\nDisponível em: www.dec.ufcg.edu.br. Acesso em: 21 abr. 2015.\n\nA equação que relaciona as medidas das alturas y e x é dada por",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:\n• seguir num ônibus, percorrendo 2,0 km;\n• alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.\n\nO quadro fornece as velocidades médias do ônibus e da bicicleta, em km/h, no trajeto metrô-universidade.\n\nTabela: Velocidade média\nDia da semana | Ônibus (km/h) | Bicicleta (km/h)\nSegunda-feira | 9 | 15\nTerça-feira | 20 | 22\nQuarta-feira | 15 | 24\nQuinta-feira | 12 | 15\nSexta-feira | 10 | 18\nSábado | 30 | 16\n\nA fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?",
+      principal: "Para chegar à universidade, um estudante utiliza um metrô e, depois, tem duas opções:\n• seguir num ônibus, percorrendo 2,0 km;\n• alugar uma bicicleta, ao lado da estação do metrô, seguindo 3,0 km pela ciclovia.\n\nO quadro fornece as velocidades médias do ônibus e da bicicleta, em $km/h$, no trajeto metrô-universidade.\n\nTabela: Velocidade média\nDia da semana | Ônibus ($km/h$) | Bicicleta ($km/h$)\nSegunda-feira | 9 | 15\nTerça-feira | 20 | 22\nQuarta-feira | 15 | 24\nQuinta-feira | 12 | 15\nSexta-feira | 10 | 18\nSábado | 30 | 16\n\nA fim de poupar tempo no deslocamento para a universidade, em quais dias o aluno deve seguir pela ciclovia?",
       subItens: []
     },
     options: [
@@ -1326,15 +1326,15 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "O artista gráfico holandês Maurits Cornelius Escher criou belíssimas obras nas quais as imagens se repetiam, com diferentes tamanhos, induzindo ao raciocínio de repetição infinita das imagens. Inspirado por ele, um artista fez um rascunho de uma obra na qual propunha a ideia de construção de uma sequência de infinitos quadrados, cada vez menores, uns sob os outros, conforme indicado na figura.\n\nFigura com uma sequência de quadrados encaixados. O quadrado maior (PRST) tem lado 1. Abaixo dele, um quadrado menor é construído com lado 1/2. Abaixo deste, outro com lado 1/4, e assim sucessivamente.\n\nO quadrado PRST, com lado de medida 1, é o ponto de partida. O segundo quadrado é construído sob ele tomando-se o ponto médio da base do quadrado anterior e criando-se um novo quadrado, cujo lado corresponde à metade dessa base. Essa sequência de construção se repete recursivamente.\n\nQual é a medida do lado do centésimo quadrado construído de acordo com esse padrão?",
+      principal: "O artista gráfico holandês Maurits Cornelius Escher criou belíssimas obras nas quais as imagens se repetiam, com diferentes tamanhos, induzindo ao raciocínio de repetição infinita das imagens. Inspirado por ele, um artista fez um rascunho de uma obra na qual propunha a ideia de construção de uma sequência de infinitos quadrados, cada vez menores, uns sob os outros, conforme indicado na figura.\n\nFigura com uma sequência de quadrados encaixados. O quadrado maior (PRST) tem lado 1. Abaixo dele, um quadrado menor é construído com lado $1/2$. Abaixo deste, outro com lado $1/4$, e assim sucessivamente.\n\nO quadrado PRST, com lado de medida 1, é o ponto de partida. O segundo quadrado é construído sob ele tomando-se o ponto médio da base do quadrado anterior e criando-se um novo quadrado, cujo lado corresponde à metade dessa base. Essa sequência de construção se repete recursivamente.\n\nQual é a medida do lado do centésimo quadrado construído de acordo com esse padrão?",
       subItens: []
     },
     options: [
-      "(1/2)¹⁰⁰",
-      "(1/2)⁹⁹",
-      "(1/2)⁹⁷",
-      "(1/2)⁻⁹⁸",
-      "(1/2)⁻⁹⁹"
+      "($1/2$)¹⁰⁰",
+      "($1/2$)⁹⁹",
+      "($1/2$)⁹⁷",
+      "($1/2$)⁻⁹⁸",
+      "($1/2$)⁻⁹⁹"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1435,7 +1435,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "R/2",
+      "$R/2$",
       "2R",
       "4R",
       "5R",
@@ -1624,11 +1624,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2",
-      "1/3",
-      "1/9",
-      "2/3",
-      "4/3"
+      "$1/2$",
+      "$1/3$",
+      "$1/9$",
+      "$2/3$",
+      "$4/3$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1641,7 +1641,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "Azulejo designa peça de cerâmica vitrificada e/ou esmaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos.\nDisponível em: www.itaucultural.org.br. Acesso em: 31 jul. 2012.\n\nAzulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura.\n\nImagem de um painel coberto com octógonos regulares. Os espaços entre os octógonos e nas bordas são brancos, formando figuras triangulares e quadradas.\n\nEntre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos:\n1 – Triângulo retângulo isósceles;\n2 – Triângulo equilátero;\n3 – Quadrado.\n\nOs azulejos necessários para o devido preenchimento das áreas em branco desse painel são os de formato",
+      principal: "Azulejo designa peça de cerâmica vitrificada $e/ou$ esmaltada usada, sobretudo, no revestimento de paredes. A origem das técnicas de fabricação de azulejos é oriental, mas sua expansão pela Europa traz consigo uma diversificação de estilos, padrões e usos, que podem ser decorativos, utilitários e arquitetônicos.\nDisponível em: www.itaucultural.org.br. Acesso em: 31 jul. 2012.\n\nAzulejos no formato de octógonos regulares serão utilizados para cobrir um painel retangular conforme ilustrado na figura.\n\nImagem de um painel coberto com octógonos regulares. Os espaços entre os octógonos e nas bordas são brancos, formando figuras triangulares e quadradas.\n\nEntre os octógonos e na borda lateral dessa área, será necessária a colocação de 15 azulejos de outros formatos para preencher os 15 espaços em branco do painel. Uma loja oferece azulejos nos seguintes formatos:\n1 – Triângulo retângulo isósceles;\n2 – Triângulo equilátero;\n3 – Quadrado.\n\nOs azulejos necessários para o devido preenchimento das áreas em branco desse painel são os de formato",
       subItens: []
     },
     options: [

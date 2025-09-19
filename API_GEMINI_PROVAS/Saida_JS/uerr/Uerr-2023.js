@@ -255,7 +255,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "Infographic for questions 13 to 15.\n\nCoronavirus: an unexpected silver lining\n\n(Infographic image with text elements:\n- % of internet users who read more books/audiobooks due to Coronavirus\n- Read significantly more\n- The global pandemic and subsequent lockdowns and social distancing has caused 35% of the world to read more, with 14% of people saying that they read significantly more.\n- There were 1.51 billion visits to book and literature ecommerce sites across the world in March. This was an increase of 8.5% from February (before lockdown).\n- Not surprisingly, physical book sales have dropped in favor of digital books\n  - In France, physical book sales dropped by 57%. But 25% of French adults have bought a book online since lockdown.\n  - In the United States, physical book sales dropped 38% despite 33% reading more due to Coronavirus.\n  - New Zealand saw a 50% rise in online library memberships.\n  - Book sales in Turkey increased by 30% during their lockdown.\n- Apocalyptic fiction is a big hit\n  - Since the coronavirus, readers have been flocking to apocalyptic literary fiction like The Stand by Stephen King, a 1,200-page behemoth about a particularly deadly strain of influenza.\n- Which generation read more books because of the coronavirus?\n  - Gen Z, Millennials, Gen X, Baby Boomers with percentages.\n- The rise of the homeschoolers\n  - 1.3 billion children worldwide were unable to attend to school due to coronavirus. 90% of the world's students were affected by school closures.\n  - Educational book sales have increased 234% in the UK.\n- Two books that 'predicted' the coronavirus pandemic\n  - End of Days (2008) by Sylvia Browne\n  - The Eyes of Darkness (1981) by Dean Koontz\nInternet: <geediting.com> (adapted).\n\nThe expression \"an unexpected silver lining\" in the title of the infographic refers to a consequence of the coronavirus pandemic which can be considered positive. The title is refering to the fact that",
+      principal: "Infographic for questions 13 to 15.\n\nCoronavirus: an unexpected silver lining\n\n(Infographic image with text elements:\n- % of internet users who read more $books/audiobooks$ due to Coronavirus\n- Read significantly more\n- The global pandemic and subsequent lockdowns and social distancing has caused 35% of the world to read more, with 14% of people saying that they read significantly more.\n- There were 1.51 billion visits to book and literature ecommerce sites across the world in March. This was an increase of 8.5% from February (before lockdown).\n- Not surprisingly, physical book sales have dropped in favor of digital books\n  - In France, physical book sales dropped by 57%. But 25% of French adults have bought a book online since lockdown.\n  - In the United States, physical book sales dropped 38% despite 33% reading more due to Coronavirus.\n  - New Zealand saw a 50% rise in online library memberships.\n  - Book sales in Turkey increased by 30% during their lockdown.\n- Apocalyptic fiction is a big hit\n  - Since the coronavirus, readers have been flocking to apocalyptic literary fiction like The Stand by Stephen King, a 1,200-page behemoth about a particularly deadly strain of influenza.\n- Which generation read more books because of the coronavirus?\n  - Gen Z, Millennials, Gen X, Baby Boomers with percentages.\n- The rise of the homeschoolers\n  - 1.3 billion children worldwide were unable to attend to school due to coronavirus. 90% of the world's students were affected by school closures.\n  - Educational book sales have increased 234% in the UK.\n- Two books that 'predicted' the coronavirus pandemic\n  - End of Days (2008) by Sylvia Browne\n  - The Eyes of Darkness (1981) by Dean Koontz\nInternet: <geediting.com> (adapted).\n\nThe expression \"an unexpected silver lining\" in the title of the infographic refers to a consequence of the coronavirus pandemic which can be considered positive. The title is refering to the fact that",
       subItens: []
     },
     options: [
@@ -448,11 +448,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/18.",
-      "25/126.",
-      "3/8.",
-      "2/7.",
-      "3/16."
+      "$1/18$.",
+      "$25/126$.",
+      "$3/8$.",
+      "$2/7$.",
+      "$3/16$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -469,11 +469,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2/3.",
-      "3/4.",
-      "3/8.",
-      "3/2.",
-      "8/3."
+      "$2/3$.",
+      "$3/4$.",
+      "$3/8$.",
+      "$3/2$.",
+      "$8/3$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -507,15 +507,15 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "Sabe-se que o pH de uma solução é dado em função da concentração de íons H⁺, em mols por litro, pela fórmula pH = – log [H+]. Se determinado refrigerante tem pH igual a 2,5, a sua concentração de H⁺ é igual a",
+      principal: "Sabe-se que o pH de uma solução é dado em função da concentração de íons H⁺, em mols por litro, pela fórmula pH = – $\\log$ [H+]. Se determinado refrigerante tem pH igual a 2,5, a sua concentração de H⁺ é igual a",
       subItens: []
     },
     options: [
-      "2,5 mol/L.",
-      "25 mol/L.",
-      "–102,5 mol/L.",
-      "10-2,5 mol/L.",
-      "102,5 mol/L."
+      "2,5 $mol/L$.",
+      "25 $mol/L$.",
+      "–102,5 $mol/L$.",
+      "10-2,5 $mol/L$.",
+      "102,5 $mol/L$."
     ],
     correctAnswer: 3,
     materia: ["Química"],
@@ -570,7 +570,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "Texto para as questões de 28 a 31.\n\nA tabela a seguir apresenta as informações contidas no rótulo de uma garrafa de água mineral.\n\n(Table: componente | composição química (mg/L) | sulfato de bário | 0,51 | sulfato de estrôncio | 0,21 | sulfato de cálcio | 2,53 | bicarbonato de cálcio | 59,86 | bicarbonato de magnésio | 34,66 | bicarbonato de potássio | 5,63 | bicarbonato de sódio | 9,73 | nitrato de sódio | 6,51 | cloreto de sódio | 6,53)\n\nAcerca dos componentes da água mineral apresentados na tabela, é correto afirmar que",
+      principal: "Texto para as questões de 28 a 31.\n\nA tabela a seguir apresenta as informações contidas no rótulo de uma garrafa de água mineral.\n\n(Table: componente | composição química ($mg/L$) | sulfato de bário | 0,51 | sulfato de estrôncio | 0,21 | sulfato de cálcio | 2,53 | bicarbonato de cálcio | 59,86 | bicarbonato de magnésio | 34,66 | bicarbonato de potássio | 5,63 | bicarbonato de sódio | 9,73 | nitrato de sódio | 6,51 | cloreto de sódio | 6,53)\n\nAcerca dos componentes da água mineral apresentados na tabela, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "O íon Ca2+ é essencial para a transmissão nervosa, a coagulação do sangue, a contração muscular, a respiração celular e a formação e a manutenção de ossos e dentes, sendo um dos elementos mais abundantes no corpo humano.\n\nA partir das informações do texto, e sabendo-se que MH = 1 g/mol, Mc = 12 g/mol, Mo = 16 g/mol, Ms = 32 g/mol, Mca = 40 g/mol, infere-se que 500 mL de água mineral contém uma quantidade de Ca2+",
+      principal: "O íon Ca2+ é essencial para a transmissão nervosa, a coagulação do sangue, a contração muscular, a respiração celular e a formação e a manutenção de ossos e dentes, sendo um dos elementos mais abundantes no corpo humano.\n\nA partir das informações do texto, e sabendo-se que MH = 1 $g/mol$, Mc = 12 $g/mol$, Mo = 16 $g/mol$, Ms = 32 $g/mol$, Mca = 40 $g/mol$, infere-se que 500 mL de água mineral contém uma quantidade de Ca2+",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "A partir da reação descrita no texto, e considerando-se que MC6H1206 = 180 g/mol e MC2H5OH = 46 g/mol, é correto concluir que, para produzir uma tonelada de etanol, são necessários",
+      principal: "A partir da reação descrita no texto, e considerando-se que MC6H1206 = 180 $g/mol$ e MC2H5OH = 46 $g/mol$, é correto concluir que, para produzir uma tonelada de etanol, são necessários",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "O peso do indivíduo com o objeto é igual a 800N.\nA₁ = 0,1A2.\nPi e A¡ são as pressões e áreas nos respectivos cilindros.\n(Image of a hydraulic lift system with a person on a small piston A1 and a car on a larger piston A2. P1 and P2 indicate pressures.)\nNa situação do diagrama acima, a força exercida no carro é igual a",
+      principal: "O peso do indivíduo com o objeto é igual a 800N.\nA₁ = 0,1A2.\n$\\pi$ e A¡ são as pressões e áreas nos respectivos cilindros.\n(Image of a hydraulic lift system with a person on a small piston A1 and a car on a larger piston A2. P1 and P2 indicate pressures.)\nNa situação do diagrama acima, a força exercida no carro é igual a",
       subItens: []
     },
     options: [
@@ -826,9 +826,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "T = P/2",
-      "T = P√2/2",
-      "T = P√3/2",
+      "T = $P/2$",
+      "T = P√$2/2$",
+      "T = P√$3/2$",
       "T = P",
       "T < P"
     ],
@@ -906,7 +906,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "A água tem índice de refração absoluto para um feixe de luz monocromática igual a 4/3. Se a velocidade da luz no vácuo é 300.000 km/s, então a velocidade da luz, em 10⁵ km/s, na água é",
+      principal: "A água tem índice de refração absoluto para um feixe de luz monocromática igual a $4/3$. Se a velocidade da luz no vácuo é 300.000 $km/s$, então a velocidade da luz, em 10⁵ $km/s$, na água é",
       subItens: []
     },
     options: [
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "Fotografia tirada em 1897, após uma expedição colonial britânica ao Benin, na África Ocidental. Disponível em: <www.dw.com/pt-002/alemanha-prepara-se-para-restituir-bronzes-do-benim/a-57063708>. Acesso em: 11/2021.\n\nEm 1897, os britânicos invadiram a Cidade do Benin. Exilaram o rei, atearam fogo à cidade e saquearam milhares de objetos de arte, incluindo 3.500 a 4.000 trabalhos em bronze. Cerca de 1.100 desses artefatos chegaram à Alemanha como aquisições. Em Berlim há 440 peças de bronze do Benim, é a segunda maior coleção do mundo. Embora pertençam legalmente a alemães, os críticos questionam a legitimidade da propriedade devido à forma como os objetos foram obtidos. Pouco depois do massacre de 1897, o então Reino do Benim exigiu a restituição dos bronzes. Desde a independência, em 1960, que a Nigéria luta para recuperar os artefatos. Até agora, sem sucesso. Mas avistam-se mudanças desde o início de 2020: o ministro dos Negócios Estrangeiros alemão, Heiko Maas, pronunciou-se a favor de uma restituição adequada e de uma abordagem honesta do passado colonial. DW. Alemanha prepara-se para restituir Bronzes do Benim? 21/3/2021. Disponível em: <www.dw.com/pt-002/alemanha-prepara-se-para-restituir-bronzes-do-benim/a-57063708> Acesso em: 11/2021.\n\nAo discutir a devolução dos objetos de arte saqueados do Benin, no final do século XIX, o texto anterior aborda alguns dos efeitos do imperialismo europeu e das independências em África, que se caracterizam sobretudo",
+      principal: "Fotografia tirada em 1897, após uma expedição colonial britânica ao Benin, na África Ocidental. Disponível em: <www.dw.$com/pt$-$002/alemanha$-prepara-se-para-restituir-bronzes-do-$benim/a$-57063708>. Acesso em: $11/2021$.\n\nEm 1897, os britânicos invadiram a Cidade do Benin. Exilaram o rei, atearam fogo à cidade e saquearam milhares de objetos de arte, incluindo 3.500 a 4.000 trabalhos em bronze. Cerca de 1.100 desses artefatos chegaram à Alemanha como aquisições. Em Berlim há 440 peças de bronze do Benim, é a segunda maior coleção do mundo. Embora pertençam legalmente a alemães, os críticos questionam a legitimidade da propriedade devido à forma como os objetos foram obtidos. Pouco depois do massacre de 1897, o então Reino do Benim exigiu a restituição dos bronzes. Desde a independência, em 1960, que a Nigéria luta para recuperar os artefatos. Até agora, sem sucesso. Mas avistam-se mudanças desde o início de 2020: o ministro dos Negócios Estrangeiros alemão, Heiko Maas, pronunciou-se a favor de uma restituição adequada e de uma abordagem honesta do passado colonial. DW. Alemanha prepara-se para restituir Bronzes do Benim? 21/3/2021. Disponível em: <www.dw.$com/pt$-$002/alemanha$-prepara-se-para-restituir-bronzes-do-$benim/a$-57063708> Acesso em: $11/2021$.\n\nAo discutir a devolução dos objetos de arte saqueados do Benin, no final do século XIX, o texto anterior aborda alguns dos efeitos do imperialismo europeu e das independências em África, que se caracterizam sobretudo",
       subItens: []
     },
     options: [
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "Integrantes da juventude hitlerista em saudação característica do nazismo nos anos 30 do século XX. Disponível em: <www.infoescola.com/historia/juventude-hitlerista/>.. Acesso em: 11/2021.\n\nCasos de apologia ao nazismo registrados em GO, MG, SP, RJ, PR, SC e RS\nParaná e Minas Gerais são os estados que tiveram maior número de registros\n(Graph: Number of registrations of apology for Nazism by year, 2011-2021)\nFONTE: TJRS e Secretarias Estaduais de Segurança Pública (via Lei de Acesso à Informação) Casos de apologia ao nazismo registrados nos últimos 10 anos em diversos estados brasileiros. Disponível em: <www.cnnbrasil.com.br/nacional/crimes-de-apologia-ao-nazismo-crescem-no-brasil-nos-ultimos-dois-anos/>. Acesso em: nov. 2021.\n\nSabemos que o poder da atração exercido pelo fascismo não foi anulado com a derrota dos nazistas de Hitler e de seus aliados. Os vestígios dos nazistas são onipresentes e as imagens apressadas a seu respeito oferecem débeis marcadores morais num mundo cruel que parece frequentemente destituído de ética política. Novas suásticas aparecem vez ou outra grafitadas nos muros ao longo do meu percurso pela cidade onde vivo e trabalho. Seja lá qual for a intenção de seus autores, e suas intenções insultuosas podem ser muito complexas, não há nenhuma maneira legítima de alegar ignorância em relação aos males inevitavelmente referidos por aqueles símbolos. Onde quer que as suásticas apareçam, as formas populistas do pensamento de raça e do ultranacionalismo nunca estão distantes. GILROY, Paul. Entre Campos. Nações, Cultural e o fascínio da raça. São Paulo: Annablume, 2007, p. 177-179 (com adaptações).\n\nAs imagens e o texto anteriores abordam algumas das manifestações de dois movimentos políticos e ideológicos dos séculos XX e XXI:",
+      principal: "Integrantes da juventude hitlerista em saudação característica do nazismo nos anos 30 do século XX. Disponível em: <www.infoescola.com/historia/juventude-hitlerista/>.. Acesso em: $11/2021$.\n\nCasos de apologia ao nazismo registrados em GO, MG, SP, RJ, PR, SC e RS\nParaná e Minas Gerais são os estados que tiveram maior número de registros\n(Graph: Number of registrations of apology for Nazism by year, 2011-2021)\nFONTE: TJRS e Secretarias Estaduais de Segurança Pública (via Lei de Acesso à Informação) Casos de apologia ao nazismo registrados nos últimos 10 anos em diversos estados brasileiros. Disponível em: <www.cnnbrasil.com.br/nacional/crimes-de-apologia-ao-nazismo-crescem-no-brasil-nos-ultimos-dois-anos/>. Acesso em: nov. 2021.\n\nSabemos que o poder da atração exercido pelo fascismo não foi anulado com a derrota dos nazistas de Hitler e de seus aliados. Os vestígios dos nazistas são onipresentes e as imagens apressadas a seu respeito oferecem débeis marcadores morais num mundo cruel que parece frequentemente destituído de ética política. Novas suásticas aparecem vez ou outra grafitadas nos muros ao longo do meu percurso pela cidade onde vivo e trabalho. Seja lá qual for a intenção de seus autores, e suas intenções insultuosas podem ser muito complexas, não há nenhuma maneira legítima de alegar ignorância em relação aos males inevitavelmente referidos por aqueles símbolos. Onde quer que as suásticas apareçam, as formas populistas do pensamento de raça e do ultranacionalismo nunca estão distantes. GILROY, Paul. Entre Campos. Nações, Cultural e o fascínio da raça. São Paulo: Annablume, 2007, p. 177-179 (com adaptações).\n\nAs imagens e o texto anteriores abordam algumas das manifestações de dois movimentos políticos e ideológicos dos séculos XX e XXI:",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "Estudantes utilizam máscaras para ir à escola nos Estados Unidos durante a pandemia de gripe espanhola, em 1918. Foto: Florida Memory/ State Archives of Florida. Disponível em: <www.cnnbrasil.com.br/saude/o-que-a-pandemia-de-gripe-espanhola-de-1918-pode-nos-ensinar-sobre-a-covid-19/>. Acesso em: 11/2021.\n\n\"Atchin!...Atchin!...\": essa era a manchete irônica estampada no jornal O Combate, no início do mês de julho de 1918. A notícia referia-se a um estranho surto de gripe que havia paralisado o esforço de guerra na Alemanha. A Grande Guerra (1914-1918) foi uma luta bárbara pelo poder, na qual entrou em cena uma maneira nova de combater. Quando terminou, entre 20 e 30 milhões de pessoas haviam morrido. E de repente surgiu do nada outra \"arma\" que arrasou a sociedade alemã em apenas três meses: a gripe. Aquela era, mesmo, uma doença esquisita. Em mais ou menos noventa dias, iria infectar um quinto da população mundial e matar de 20 a 50 milhões de pessoas, ultrapassando o resultado de quatro anos de guerra global ininterrupta. O alerta inicial veio da Espanha, o primeiro país a dar publicidade à virulência e à carnificina características da doença. Por essa razão, a moléstia entrou para a história com o nome de \"gripe espanhola\". E havia quem acreditasse em notícias falsas, nos Estados Unidos - e também no Brasil -, de que a gripe era uma arma química, inventada na Alemanha, fabricada pelo laboratório farmacêutico Bayer e espalhada por espiões que desembarcavam de madrugada dos submarinos alemães e destampavam cuidadosamente os tubos de ensaio repletos de germes. SCHWARCZ, L.; STARLING, H. A bailarina da morte. A gripe espanhola no Brasil. São Paulo: Companhia das Letras, 2020, p. 11-15 (com adaptações).\n\nConsiderando-se os contextos relacionados às pandemias de Gripe Espanhola (1918-1920) e da covid-19 (2019-2021), a imagem e o texto apresentados abordam elementos que permitem concluir que",
+      principal: "Estudantes utilizam máscaras para ir à escola nos Estados Unidos durante a pandemia de gripe espanhola, em 1918. Foto: Florida Memory/ State Archives of Florida. Disponível em: <www.cnnbrasil.com.br/saude/o-que-a-pandemia-de-gripe-espanhola-de-1918-pode-nos-ensinar-sobre-a-covid-19/>. Acesso em: $11/2021$.\n\n\"Atchin!...Atchin!...\": essa era a manchete irônica estampada no jornal O Combate, no início do mês de julho de 1918. A notícia referia-se a um estranho surto de gripe que havia paralisado o esforço de guerra na Alemanha. A Grande Guerra (1914-1918) foi uma luta bárbara pelo poder, na qual entrou em cena uma maneira nova de combater. Quando terminou, entre 20 e 30 milhões de pessoas haviam morrido. E de repente surgiu do nada outra \"arma\" que arrasou a sociedade alemã em apenas três meses: a gripe. Aquela era, mesmo, uma doença esquisita. Em mais ou menos noventa dias, iria infectar um quinto da população mundial e matar de 20 a 50 milhões de pessoas, ultrapassando o resultado de quatro anos de guerra global ininterrupta. O alerta inicial veio da Espanha, o primeiro país a dar publicidade à virulência e à carnificina características da doença. Por essa razão, a moléstia entrou para a história com o nome de \"gripe espanhola\". E havia quem acreditasse em notícias falsas, nos Estados Unidos - e também no Brasil -, de que a gripe era uma arma química, inventada na Alemanha, fabricada pelo laboratório farmacêutico Bayer e espalhada por espiões que desembarcavam de madrugada dos submarinos alemães e destampavam cuidadosamente os tubos de ensaio repletos de germes. SCHWARCZ, L.; STARLING, H. A bailarina da morte. A gripe espanhola no Brasil. São Paulo: Companhia das Letras, 2020, p. 11-15 (com adaptações).\n\nConsiderando-se os contextos relacionados às pandemias de Gripe Espanhola (1918-1920) e da covid-19 (2019-2021), a imagem e o texto apresentados abordam elementos que permitem concluir que",
       subItens: []
     },
     options: [
@@ -1305,7 +1305,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "A imagem acima é uma montagem. Nela a representação de Toussaint L'Ouverture (um dos líderes da Revolução Haitiana) é apresentada com um mapa do Haiti ao fundo. Disponível em: <brasilescola.uol.com.br/historia-da-america/independencia-haiti.htm>. Acesso em: 11/2021.\n\nDe todos os territórios ocupados pela França nenhum alcançou tanta prosperidade quanto a ilha de São Domingos (atual Haiti), que era um dos maiores produtores mundiais de açúcar e café e contava com uma população majoritariamente composta por escravos e negros. A insurreição que levou à independência teve início durante a Revolução Francesa e transformou-se em uma revolução, na qual se envolveram, direta ou indiretamente, a França, a Espanha e a Inglaterra. A rebelião ocorrida na parte oeste da ilha foi a única feita por africanos (e seus descendentes) na história americana que destruiu o sistema escravista de plantação e transformou o Haiti no primeiro país fundado por ex-escravos e seus descendentes fora da África. De maneira geral, a revolução haitiana mostrou aos senhores de escravos da América que guerras civis internas ou mesmo guerras de independência contra o poder metropolitano poderiam levar à destruição dos regimes coloniais e (ou) escravistas. A revolução haitiana também trouxe um endurecimento das leis escravistas e dos mecanismos coercitivos. Para uma parcela dos escravos, mostrou que era possível construir um movimento de libertação que os levasse à tomada do poder. NASCIMENTO, Washington Santos. Além do medo: a construção de imagens sobre a revolução haitiana no Brasil escravista (1791-1840). In: Cadernos de Ciências Humanas - Especiaria. v. 10, n.18, jul.-dez. 2007, p. 469-488 (com adaptações).\n\nConsiderando-se as informações do texto precedente e o contexto histórico em que ocorreram as independências americanas, é correto afirmar que",
+      principal: "A imagem acima é uma montagem. Nela a representação de Toussaint L'Ouverture (um dos líderes da Revolução Haitiana) é apresentada com um mapa do Haiti ao fundo. Disponível em: <brasilescola.uol.com.$br/historia$-da-$america/independencia$-haiti.htm>. Acesso em: $11/2021$.\n\nDe todos os territórios ocupados pela França nenhum alcançou tanta prosperidade quanto a ilha de São Domingos (atual Haiti), que era um dos maiores produtores mundiais de açúcar e café e contava com uma população majoritariamente composta por escravos e negros. A insurreição que levou à independência teve início durante a Revolução Francesa e transformou-se em uma revolução, na qual se envolveram, direta ou indiretamente, a França, a Espanha e a Inglaterra. A rebelião ocorrida na parte oeste da ilha foi a única feita por africanos (e seus descendentes) na história americana que destruiu o sistema escravista de plantação e transformou o Haiti no primeiro país fundado por ex-escravos e seus descendentes fora da África. De maneira geral, a revolução haitiana mostrou aos senhores de escravos da América que guerras civis internas ou mesmo guerras de independência contra o poder metropolitano poderiam levar à destruição dos regimes coloniais e (ou) escravistas. A revolução haitiana também trouxe um endurecimento das leis escravistas e dos mecanismos coercitivos. Para uma parcela dos escravos, mostrou que era possível construir um movimento de libertação que os levasse à tomada do poder. NASCIMENTO, Washington Santos. Além do medo: a construção de imagens sobre a revolução haitiana no Brasil escravista (1791-1840). In: Cadernos de Ciências Humanas - Especiaria. v. 10, n.18, jul.-dez. 2007, p. 469-488 (com adaptações).\n\nConsiderando-se as informações do texto precedente e o contexto histórico em que ocorreram as independências americanas, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -1326,7 +1326,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "A rejeição dos venezuelanos que emigraram em massa nos últimos anos cresce em toda a América Latina, em um contexto econômico sombrio e de pandemia do novo coronavirus. As saídas dos venezuelanos de seu país começaram após a eleição de Nicolás Maduro, após a morte de Hugo Chávez em 2013, e se intensificaram entre 2014 e 2015, com uma crise econômica que arruinou o poder de compra e fez com que mais de cinco milhões de venezuelanos abandonassem a Venezuela em busca de melhores condições de vida. Internet: <www.correiobraziliense.com.br/mundo/2021/05/4924747-odio-a-imigrantes-venezuelanos-se-espalha-pela-america-latina.html>. Acesso em: 8/2021 (com adaptações).\n\nConsiderando o assunto tratado no texto, assinale a opção correta, a respeito da migração na América Latina e de xenofobia.",
+      principal: "A rejeição dos venezuelanos que emigraram em massa nos últimos anos cresce em toda a América Latina, em um contexto econômico sombrio e de pandemia do novo coronavirus. As saídas dos venezuelanos de seu país começaram após a eleição de Nicolás Maduro, após a morte de Hugo Chávez em 2013, e se intensificaram entre 2014 e 2015, com uma crise econômica que arruinou o poder de compra e fez com que mais de cinco milhões de venezuelanos abandonassem a Venezuela em busca de melhores condições de vida. Internet: <www.correiobraziliense.com.br/mundo/2021/05/4924747-odio-a-imigrantes-venezuelanos-se-espalha-pela-america-latina.html>. Acesso em: $8/2021$ (com adaptações).\n\nConsiderando o assunto tratado no texto, assinale a opção correta, a respeito da migração na América Latina e de xenofobia.",
       subItens: []
     },
     options: [
@@ -1459,8 +1459,8 @@ createQuestion({
       "pode ser definido como uma perturbação de escala sinótica associada a cavados (sistemas de baixa pressão) e à temperatura elevada da superfície do mar.",
       "alcança, em sua marcha anual, posição mais ao norte durante o verão do Hemisfério Norte e posição mais ao sul durante o verão do Hemisfério Sul.",
       "atua no sentido de transferir calor e umidade dos níveis inferiores da atmosfera das regiões tropicais para os níveis superiores da troposfera e para as médias e altas latitudes.",
-      "é de escala sinótica, que se forma na média/alta troposfera e que apresenta circulação ciclônica e um centro mais frio que sua periferia.",
-      "constitui uma banda persistente de nebulosidade e precipitação orientada no sentido noroeste-sudeste, desde o sul/sudeste da região Amazônica até o sudoeste do oceano Atlântico Sul."
+      "é de escala sinótica, que se forma na mé$dia/alta$ troposfera e que apresenta circulação ciclônica e um centro mais frio que sua periferia.",
+      "constitui uma banda persistente de nebulosidade e precipitação orientada no sentido noroeste-sudeste, desde o $sul/sudeste$ da região Amazônica até o sudoeste do oceano Atlântico Sul."
     ],
     correctAnswer: 4,
     materia: ["Geografia"],
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "uerr",
     year: 2023,
     text: {
-      principal: "Entre 1894 e 1930, a economia no Brasil promoveu uma poupança interna que permitiu a expansão capitalista. A economia criou condições autossustentáveis, na medida em que foi implementada uma rede de cidades que deram suporte a essa atividade econômica, como também a diversificação dos investimentos econômicos. O início da montagem do parque industrial, nessas cidades, provocou grandes deslocamentos de população em sua direção e seu consequente processo de expansão. CARVALHO, E. de. Cidades brasileiras, crescimento e desigualdade social. Org & Demoi, 11.3, p. 45-54, 2002. Disponível em: <revistas.marilia.unesp.br/index.php/orgdemo/article/view/439> (com adaptações).\n\nA atividade que possibilitou a promoção de \"uma poupança interna que permitiu a expansão capitalista\" no período mencionado no início do texto foi",
+      principal: "Entre 1894 e 1930, a economia no Brasil promoveu uma poupança interna que permitiu a expansão capitalista. A economia criou condições autossustentáveis, na medida em que foi implementada uma rede de cidades que deram suporte a essa atividade econômica, como também a diversificação dos investimentos econômicos. O início da montagem do parque industrial, nessas cidades, provocou grandes deslocamentos de população em sua direção e seu consequente processo de expansão. CARVALHO, E. de. Cidades brasileiras, crescimento e desigualdade social. Org & Demoi, 11.3, p. 45-54, 2002. Disponível em: <revistas.marilia.unesp.$br/index$.php/orgdemo/article/view/439> (com adaptações).\n\nA atividade que possibilitou a promoção de \"uma poupança interna que permitiu a expansão capitalista\" no período mencionado no início do texto foi",
       subItens: []
     },
     options: [

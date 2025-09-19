@@ -66,7 +66,7 @@ createQuestion({
     university: "fuvest",
     year: 2019,
     text: {
-      principal: "A curva de temperatura do ar ilustrada na figura caracteriza um fenômeno meteorológico que é mais frequente no outono e no inverno. Em ambientes urbanos com elevado número de indústrias e poluição veicular, esse fenômeno pode ocasionar quadros de elevadas concentrações de poluentes, provocando problemas à saúde da população e danos à fauna e à flora.\n(Gráfico: Um gráfico mostra a \"Altura (km)\" no eixo y e \"Temperatura do ar (°C)\" no eixo x. A linha da temperatura diminui com a altura, mas apresenta uma inversão onde a temperatura aumenta com a altura em uma faixa específica de altitude.)\nCETESB. https://cetesb.sp.gov.br/qualidade-ar/\nO texto e a ilustração apresentados referem-se",
+      principal: "A curva de temperatura do ar ilustrada na figura caracteriza um fenômeno meteorológico que é mais frequente no outono e no inverno. Em ambientes urbanos com elevado número de indústrias e poluição veicular, esse fenômeno pode ocasionar quadros de elevadas concentrações de poluentes, provocando problemas à saúde da população e danos à fauna e à flora.\n(Gráfico: Um gráfico mostra a \"Altura (km)\" no eixo y e \"Temperatura do ar (°C)\" no eixo x. A linha da temperatura diminui com a altura, mas apresenta uma inversão onde a temperatura aumenta com a altura em uma faixa específica de altitude.)\nCETESB. https://cetesb.sp.gov.$br/qualidade$-ar/\nO texto e a ilustração apresentados referem-se",
       subItens: []
     },
     options: [
@@ -95,7 +95,7 @@ createQuestion({
       "A maioria provém da África, devido aos processos de desertificação, e tem como destino o Oriente Médio e a Europa.",
       "O Irã recebe majoritariamente refugiados de países da África Subsaariana, dentre os quais se destacam o Sudão e o Sudão do Sul.",
       "Os de origem síria são a maior população nesta condição, e estão sendo acolhidos em vários países do Extremo Oriente e da África, os quais apoiam o governo sírio na guerra civil que ocorre nesse país desde 2011.",
-      "São majoritariamente provenientes do Oriente Médio, África e Ásia, deslocam-se, forçadamente, devido a longas guerras, em grande parte para países e/ou regiões fronteiriços."
+      "São majoritariamente provenientes do Oriente Médio, África e Ásia, deslocam-se, forçadamente, devido a longas guerras, em grande parte para países $e/ou$ regiões fronteiriços."
     ],
     correctAnswer: 4,
     materia: ["Geografia"],
@@ -129,11 +129,11 @@ createQuestion({
     university: "fuvest",
     year: 2019,
     text: {
-      principal: "Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), anualmente, 1,3 bilhão de toneladas de alimentos (30% da produção total no planeta) é perdido em dois processos: o desperdício que se relaciona ao descarte de alimentos em bom estado e a perda ao longo da cadeia produtiva. O desperdício representa 46% e é muito maior nas regiões mais ricas. As perdas relativas ao circuito de produção representam 54% do total e são maiores nos países em desenvolvimento.\nhttps://nacoesunidas.org/fao-30-de-toda-a-comida-produzida-no-mundo-vai-parar-no-lixo. Adaptado.\n(Tabela: \"Percentual de pessoas em estado de insegurança alimentar grave*\" com as colunas \"Local\" (África, América Latina, Ásia, América Setentrional e Europa, Mundo) e \"% 2017\".)\nFAO. El estado de la seguridad alimentaria y la nutrición en el mundo. 2018. Adaptado.\n*pessoa que está sem alimento e/ou que ficou um dia todo sem comer várias vezes ao ano.\nCom base nas informações da FAO e em seus conhecimentos, indique a afirmação correta.",
+      principal: "Segundo a Organização das Nações Unidas para a Alimentação e a Agricultura (FAO), anualmente, 1,3 bilhão de toneladas de alimentos (30% da produção total no planeta) é perdido em dois processos: o desperdício que se relaciona ao descarte de alimentos em bom estado e a perda ao longo da cadeia produtiva. O desperdício representa 46% e é muito maior nas regiões mais ricas. As perdas relativas ao circuito de produção representam 54% do total e são maiores nos países em desenvolvimento.\nhttps://nacoesunidas.$org/fao$-30-de-toda-a-comida-produzida-no-mundo-vai-parar-no-lixo. Adaptado.\n(Tabela: \"Percentual de pessoas em estado de insegurança alimentar grave*\" com as colunas \"Local\" (África, América Latina, Ásia, América Setentrional e Europa, Mundo) e \"% 2017\".)\nFAO. El estado de la seguridad alimentaria y la nutrición en el mundo. 2018. Adaptado.\n*pessoa que está sem alimento $e/ou$ que ficou um dia todo sem comer várias vezes ao ano.\nCom base nas informações da FAO e em seus conhecimentos, indique a afirmação correta.",
       subItens: []
     },
     options: [
-      "A produção de alimentos vem decaindo mundialmente devido aos problemas na logística de produção, o que tem provocado aumento da insegurança alimentar.",
+      "A produção de alimentos vem decaindo mundialmente devido aos problemas na $\\log$ística de produção, o que tem provocado aumento da insegurança alimentar.",
       "Nos continentes mais desenvolvidos, a perda de alimentos devido ao sistema de transporte e armazenamento é a principal causa da inexistência da insegurança alimentar.",
       "O fato de parte significativa da população africana estar em estado de insegurança alimentar ocorre devido ao desperdício das monoculturas de cereais.",
       "O controle rigoroso do desperdício explica o baixo percentual de pessoas em situação de insegurança alimentar na América Setentrional e na Europa.",
@@ -423,7 +423,7 @@ createQuestion({
     university: "fuvest",
     year: 2019,
     text: {
-      principal: "Em uma garrafa térmica, são colocados 200 g de água à temperatura de 30 °C e uma pedra de gelo de 50 g, à temperatura de -10 °C. Após o equilíbrio térmico,\nNote e adote:\ncalor latente de fusão do gelo = 80 cal/g;\ncalor específico do gelo = 0,5 cal/g °C;\ncalor específico da água = 1,0 cal/g °C.",
+      principal: "Em uma garrafa térmica, são colocados 200 g de água à temperatura de 30 °C e uma pedra de gelo de 50 g, à temperatura de -10 °C. Após o equilíbrio térmico,\nNote e adote:\ncalor latente de fusão do gelo = 80 $cal/g$;\ncalor específico do gelo = 0,5 $cal/g$ °C;\ncalor específico da água = 1,0 $cal/g$ °C.",
       subItens: []
     },
     options: [
@@ -465,7 +465,7 @@ createQuestion({
     university: "fuvest",
     year: 2019,
     text: {
-      principal: "Três amigos vão acampar e descobrem que nenhum deles trouxe fósforos. Para acender o fogo e fazer o almoço, resolvem improvisar e prendem um pedaço de filme plástico transparente num aro de \"cipó\". Colocam um pouco de água sobre o plástico, formando uma poça de aproximadamente 14 cm de diâmetro e 1 cm de profundidade máxima, cuja forma pode ser aproximada pela de uma calota esférica. Quando o sol está a pino, para aproveitamento máximo da energia solar, a distância, em cm, entre o centro do filme e a palha seca usada para iniciar o fogo, é, aproximadamente,\nNote e adote:\nPara uma lente plano-convexa, 1/f = (n − 1) / R, sendo n o índice de refração da lente e R o seu raio de curvatura.\nÍndice de refração da água = 1,33.",
+      principal: "Três amigos vão acampar e descobrem que nenhum deles trouxe fósforos. Para acender o fogo e fazer o almoço, resolvem improvisar e prendem um pedaço de filme plástico transparente num aro de \"cipó\". Colocam um pouco de água sobre o plástico, formando uma poça de aproximadamente 14 cm de diâmetro e 1 cm de profundidade máxima, cuja forma pode ser aproximada pela de uma calota esférica. Quando o sol está a pino, para aproveitamento máximo da energia solar, a distância, em cm, entre o centro do filme e a palha seca usada para iniciar o fogo, é, aproximadamente,\nNote e adote:\nPara uma lente plano-convexa, $1/f$ = (n − 1) / R, sendo n o índice de refração da lente e R o seu raio de curvatura.\nÍndice de refração da água = 1,33.",
       subItens: []
     },
     options: [
@@ -679,11 +679,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/100",
-      "1/200",
-      "1/1.000",
-      "1/25.000",
-      "1/40.000"
+      "$1/100$",
+      "$1/200$",
+      "$1/1$.000",
+      "$1/25$.000",
+      "$1/40$.000"
     ],
     correctAnswer: 1,
     materia: ["Biologia"],
@@ -738,7 +738,7 @@ createQuestion({
     university: "fuvest",
     year: 2019,
     text: {
-      principal: "Uma amostra sólida, sem cavidades ou poros, poderia ser constituída por um dos seguintes materiais metálicos: alumínio, bronze, chumbo, ferro ou titânio. Para identificá-la, utilizou-se uma balança, um recipiente de volume constante e água. Efetuaram-se as seguintes operações: 1) pesou-se a amostra; 2) pesou-se o recipiente completamente cheio de água; 3) colocou-se a amostra no recipiente vazio, completando seu volume com água e determinou-se a massa desse conjunto. Os resultados obtidos foram os seguintes:\n(Diagrama: Três balanças. Na primeira, \"Amostra\" = 44,0 g. Na segunda, \"Recipiente + Água\" = 350,0 g. Na terceira, \"Recipiente + Água + Amostra\" = 389,0 g.)\nDadas as densidades da água e dos metais, pode-se concluir que a amostra desconhecida é constituída de\nNote e adote:\nDensidades (g/cm³):\nágua = 1,0; alumínio = 2,7; bronze = 8,8; chumbo = 11,3; ferro = 7,9; titânio = 4,5.",
+      principal: "Uma amostra sólida, sem cavidades ou poros, poderia ser constituída por um dos seguintes materiais metálicos: alumínio, bronze, chumbo, ferro ou titânio. Para identificá-la, utilizou-se uma balança, um recipiente de volume constante e água. Efetuaram-se as seguintes operações: 1) pesou-se a amostra; 2) pesou-se o recipiente completamente cheio de água; 3) colocou-se a amostra no recipiente vazio, completando seu volume com água e determinou-se a massa desse conjunto. Os resultados obtidos foram os seguintes:\n(Diagrama: Três balanças. Na primeira, \"Amostra\" = 44,0 g. Na segunda, \"Recipiente + Água\" = 350,0 g. Na terceira, \"Recipiente + Água + Amostra\" = 389,0 g.)\nDadas as densidades da água e dos metais, pode-se concluir que a amostra desconhecida é constituída de\nNote e adote:\nDensidades ($g/cm$³):\nágua = 1,0; alumínio = 2,7; bronze = 8,8; chumbo = 11,3; ferro = 7,9; titânio = 4,5.",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "fuvest",
     year: 2019,
     text: {
-      principal: "O cinamaldeído é um dos principais compostos que dão o sabor e o aroma da canela. Quando exposto ao ar, ou seja, conforme a equação balanceada:\n(Equação química: Um composto orgânico (cinamaldeído) reage com O₂ formando outro composto orgânico.)\nUma amostra de 19,80 g desse composto puro foi exposta ao ar por 74 dias e, depois pesada novamente, sendo que a massa final aumentou em 1,20 g. A porcentagem desse composto que foi oxidada no período foi de\nNote e adote:\nMassa molar (g/mol): C = 12; H = 1; O = 16.\nConsidere que não houve perda de cinamaldeído ou de produto de oxidação por evaporação.",
+      principal: "O cinamaldeído é um dos principais compostos que dão o sabor e o aroma da canela. Quando exposto ao ar, ou seja, conforme a equação balanceada:\n(Equação química: Um composto orgânico (cinamaldeído) reage com O₂ formando outro composto orgânico.)\nUma amostra de 19,80 g desse composto puro foi exposta ao ar por 74 dias e, depois pesada novamente, sendo que a massa final aumentou em 1,20 g. A porcentagem desse composto que foi oxidada no período foi de\nNote e adote:\nMassa molar ($g/mol$): C = 12; H = 1; O = 16.\nConsidere que não houve perda de cinamaldeído ou de produto de oxidação por evaporação.",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
     university: "fuvest",
     year: 2019,
     text: {
-      principal: "Um grão de milho de pipoca, visto a olho nu, apresenta duas regiões distintas, representadas por A e B na figura. Em A, ocorre o tecido acumulador de amido, usado, pela planta, para nutrir o embrião. Em B, os tecidos vegetais possuem maior teor de água. Ao ser aquecida, parte da água transforma-se em vapor, aumentando a pressão interna do grão. Quando a temperatura atinge 177°C, a pressão se torna suficiente para romper o grão, que vira uma pipoca. Um estudo feito por um grupo de pesquisadores determinou que o interior do grão tem 4,5 mg de água da qual, no momento imediatamente anterior ao seu rompimento, apenas 9% está na fase vapor, atuando como um gás ideal e ocupando 0,1 mL. Dessa forma, foi possível calcular a pressão Pfinal no momento imediatamente anterior ao rompimento do grão. A associação correta entre região do milho e Pfinal é dada por:\nNote e adote:\nConstante universal dos gases: R = 0,082 L.atm/(K.mol);\nK = °C + 273;\nMassas molares (g/mol): H = 1; O = 16.\n(Diagrama: Um corte esquemático de um grão de milho de pipoca com duas regiões A e B indicadas.)",
+      principal: "Um grão de milho de pipoca, visto a olho $\\nu$, apresenta duas regiões distintas, representadas por A e B na figura. Em A, ocorre o tecido acumulador de amido, usado, pela planta, para nutrir o embrião. Em B, os tecidos vegetais possuem maior teor de água. Ao ser aquecida, parte da água transforma-se em vapor, aumentando a pressão interna do grão. Quando a temperatura atinge 177°C, a pressão se torna suficiente para romper o grão, que vira uma pipoca. Um estudo feito por um grupo de pesquisadores determinou que o interior do grão tem 4,5 mg de água da qual, no momento imediatamente anterior ao seu rompimento, apenas 9% está na fase vapor, atuando como um gás ideal e ocupando 0,1 mL. Dessa forma, foi possível calcular a pressão Pfinal no momento imediatamente anterior ao rompimento do grão. A associação correta entre região do milho e Pfinal é dada por:\nNote e adote:\nConstante universal dos gases: R = 0,082 L.atm/(K.mol);\nK = °C + 273;\nMassas molares ($g/mol$): H = 1; O = 16.\n(Diagrama: Um corte esquemático de um grão de milho de pipoca com duas regiões A e B indicadas.)",
       subItens: []
     },
     options: [
@@ -973,7 +973,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "x/2",
+      "$x/2$",
       "x²",
       "2x",
       "2x + 3",
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "fuvest",
     year: 2019,
     text: {
-      principal: "Se log₂ y = 1/2 + 2log₂ x, para x > 0, então",
+      principal: "Se $\\log$₂ y = $1/2$ + 2log₂ x, para x > 0, então",
       subItens: []
     },
     options: [
@@ -1141,11 +1141,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/9",
-      "17/81",
-      "1/3",
-      "51/125",
-      "243/125"
+      "$1/9$",
+      "$17/81$",
+      "$1/3$",
+      "$51/125$",
+      "$243/125$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1326,7 +1326,7 @@ createQuestion({
     university: "fuvest",
     year: 2019,
     text: {
-      principal: "Nos fragmentos I e II, aqui adaptados, o crítico Antonio Candido avalia duas obras literárias, que são, respectivamente,\nI. Surge então a pergunta: se a fantasia funciona como realidade; se não conseguimos agir senão mutilando o nosso eu; se o que há de mais profundo em nós é no fim de contas a opinião dos outros; se estamos condenados a não atingir o que nos parece realmente valioso -, qual a diferença entre o bem e o mal, o justo e o injusto, o certo e o errado? O autor passou a vida a ilustrar esta pergunta, que é modulada de maneira exemplar no primeiro e mais conhecido dos seus grandes romances de maturidade.\nII. É preciso todavia lembrar que essa ligação com o problema geográfico e social só adquire significado pleno, isto é, só atua sobre o leitor, graças à elevada qualidade artística do livro. O seu autor soube transpor o ritmo mesológico para a própria estrutura da narrativa, mobilizando recursos que a fazem parecer movida pela mesma fatalidade sem saída. (...) Da consciência mortiça da personagem podem emergir os transes periódicos em que se estorce o homem esmagado pela paisagem e pelos outros homens.",
+      principal: "Nos fragmentos I e II, aqui adaptados, o crítico Antonio Candido avalia duas obras literárias, que são, respectivamente,\nI. Surge então a pergunta: se a fantasia funciona como realidade; se não conseguimos agir $\\sin$ão mutilando o nosso eu; se o que há de mais profundo em nós é no fim de contas a opinião dos outros; se estamos condenados a não atingir o que nos parece realmente valioso -, qual a diferença entre o bem e o mal, o justo e o injusto, o certo e o errado? O autor passou a vida a ilustrar esta pergunta, que é modulada de maneira exemplar no primeiro e mais conhecido dos seus grandes romances de maturidade.\nII. É preciso todavia lembrar que essa ligação com o problema geográfico e social só adquire significado pleno, isto é, só atua sobre o leitor, graças à elevada qualidade artística do livro. O seu autor soube transpor o ritmo mesológico para a própria estrutura da narrativa, mobilizando recursos que a fazem parecer movida pela mesma fatalidade sem saída. (...) Da consciência mortiça da personagem podem emergir os transes periódicos em que se estorce o homem esmagado pela paisagem e pelos outros homens.",
       subItens: []
     },
     options: [
@@ -1653,7 +1653,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Inglês"],
-    conteudo: ["Compreensão Textual e Contexto Histórico/Social"],
+    conteudo: ["Compreensão Textual e Contexto Histó$rico/Social$"],
     imageNames: []
 }),
 

@@ -486,7 +486,7 @@ createQuestion({
     university: "uerr",
     year: 2018,
     text: {
-      principal: "In the sentence “He_proved, by flying a kite, that lightning is electricity, and he invented a rod to tame it. He devised clean-burning stoves\" the underlined verbs are in the:",
+      principal: "In the sentence “$He_proved$, by flying a kite, that lightning is electricity, and he invented a rod to tame it. He devised clean-burning stoves\" the underlined verbs are in the:",
       subItens: []
     },
     options: [
@@ -764,7 +764,7 @@ createQuestion({
     },
     options: [
       "Substância pura simples não pode ser decomposta por métodos químicos.",
-      "Mistura possuem ponto de fusão e/ou ponto de ebulição constantes.",
+      "Mistura possuem ponto de fusão $e/ou$ ponto de ebulição constantes.",
       "Os pontos de fusão, ebulição e densidade são propriedades específicas físicas.",
       "Cada átomo de um determinado elemento é representado por um símbolo. No símbolo, a primeira letra é sempre maiúscula, e a segunda, quando houver, será sempre minúscula.",
       "Fenômeno químico quando ocorre uma reação química."
@@ -785,7 +785,7 @@ createQuestion({
     },
     options: [
       "O diamante é um cristal sob uma forma alotrópica do carbono. Alotropia é o fenômeno que ocorre quando um elemento químico forma duas ou mais substâncias compostas diferentes.",
-      "O diamante é o sólido mais duro (difícil de ser riscado) que se conhece; conduz eletricidade e tem densidade igual a 3,51 g/cm³ (essa densidade indica estrutura cristalina mais compacta).",
+      "O diamante é o sólido mais duro (difícil de ser riscado) que se conhece; conduz eletricidade e tem densidade igual a 3,51 $g/cm$³ (essa densidade indica estrutura cristalina mais compacta).",
       "O ouro puro é mole para ser utilizado. Por essa razão, geralmente é endurecido formando liga metálica com prata e cobre.",
       "Grafite e diamante são macromoléculas iônicas.",
       "Os compostos iônicos possuem altos pontos de fusão e ebulição, são geralmente sólidos, conduzem corrente elétrica no estado sólido e líquido."
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "uerr",
     year: 2018,
     text: {
-      principal: "Seja uma esfera condutora, carregada e de raio 3x10⁻²m. O campo elétrico produzido por esta esfera a uma distância 6x10⁻²m, a partir da superfície, é de 5N/m, com sentido se afastando da esfera. Assinale a única alternativa correta para o valor da carga elétrica na superfície da esfera.",
+      principal: "Seja uma esfera condutora, carregada e de raio 3x10⁻²m. O campo elétrico produzido por esta esfera a uma distância 6x10⁻²m, a partir da superfície, é de $5N/m$, com sentido se afastando da esfera. Assinale a única alternativa correta para o valor da carga elétrica na superfície da esfera.",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "uerr",
     year: 2018,
     text: {
-      principal: "Uma partícula de carga elétrica 4,0 µC e velocidade de 200 m/s é lançada, fazendo 30º com a direção de um campo magnético de intensidade 2,5 x 10² T. A intensidade da força magnética que atuará sobre a partícula será igual a:",
+      principal: "Uma partícula de carga elétrica 4,0 µC e velocidade de 200 $m/s$ é lançada, fazendo 30º com a direção de um campo magnético de intensidade 2,5 x 10² T. A intensidade da força magnética que atuará sobre a partícula será igual a:",
       subItens: []
     },
     options: [
@@ -1078,11 +1078,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2,0 N/C.",
-      "3,0 N/C.",
-      "4,0 N/C.",
-      "5,0 N/C.",
-      "6,0 N/C."
+      "2,0 $N/C$.",
+      "3,0 $N/C$.",
+      "4,0 $N/C$.",
+      "5,0 $N/C$.",
+      "6,0 $N/C$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1326,7 +1326,7 @@ createQuestion({
     university: "uerr",
     year: 2018,
     text: {
-      principal: "O pensador liberal Alexis de Tocqueville descreveu as causas da revolução de 1848:\n\"A Revolução industrial, que em trinta anos tinha feito de Paris a maior cidade da França, atraiu para seus muros toda uma nova população de operários...; a doença da democrática da inveja, que trabalhava surdamente; as teorias econômicas e políticas que começavam a se evidenciar, tendo a fazer crer que as misérias humanas eram resultado das leis e não da Providência, que era possível suprimir a pobreza mudando a base da sociedade; o desprezo em que havia caído a classe governante e sobre todos os homens que se encontravam a sua frente...; a centralização que reduzia as operações revolucionárias à conquista de Paris e à tomada da máquina governamental ; a mobilidade; enfim, de todas as coisas, instituições, ideias, homens e costumes numa sociedade móvel...\".\nCitado por Raymond Aron. Etapas do Pensamento Sociológico. São Paulo: Martins Fontes/UnB, 1987, pp.261-262.\nComo base no texto de Tocqueville, porque a Revolução Industrial pôde ser considerada causa da revolução de 1848?",
+      principal: "O pensador liberal Alexis de Tocqueville descreveu as causas da revolução de 1848:\n\"A Revolução industrial, que em trinta anos tinha feito de Paris a maior cidade da França, atraiu para seus muros toda uma nova população de operários...; a doença da democrática da inveja, que trabalhava surdamente; as teorias econômicas e políticas que começavam a se evidenciar, tendo a fazer crer que as misérias humanas eram resultado das leis e não da Providência, que era possível suprimir a pobreza mudando a base da sociedade; o desprezo em que havia caído a classe governante e sobre todos os homens que se encontravam a sua frente...; a centralização que reduzia as operações revolucionárias à conquista de Paris e à tomada da máquina governamental ; a mobilidade; enfim, de todas as coisas, instituições, ideias, homens e costumes numa sociedade móvel...\".\nCitado por Raymond Aron. Etapas do Pensamento Sociológico. São Paulo: Martins $Fontes/UnB$, 1987, pp.261-262.\nComo base no texto de Tocqueville, porque a Revolução Industrial pôde ser considerada causa da revolução de 1848?",
       subItens: []
     },
     options: [
@@ -1557,7 +1557,7 @@ createQuestion({
     university: "uerr",
     year: 2018,
     text: {
-      principal: "A Rodovia Transoceânica liga o Brasil, por meio do Acre, aos portos do Oceano Pacífico, no Peru, trata-se de uma solução aos entraves fronteiriços, pois, através da rodovia, o Brasil terá um impacto positivo no processo logístico do comércio internacional, principalmente nas exportações. A referida rodovia atravessa duas áreas geograficamente importantes no cenário sul-americano, uma geológica-geomorfológica e outra biogeográfica.",
+      principal: "A Rodovia Transoceânica liga o Brasil, por meio do Acre, aos portos do Oceano Pacífico, no Peru, trata-se de uma solução aos entraves fronteiriços, pois, através da rodovia, o Brasil terá um impacto positivo no processo $\\log$ístico do comércio internacional, principalmente nas exportações. A referida rodovia atravessa duas áreas geograficamente importantes no cenário sul-americano, uma geológica-geomorfológica e outra biogeográfica.",
       subItens: []
     },
     options: [
@@ -1599,7 +1599,7 @@ createQuestion({
     university: "uerr",
     year: 2018,
     text: {
-      principal: "Em agosto de 2017, o furacão Irma foi considerado por especialistas o mais poderoso da década no Atlântico. À medida que avançou para o Caribe, chegou a categoria 5, que é a mais alta, quando os ventos superam a marca dos 252 km/h, similar à velocidade de alguns trens de alta velocidade.\nSobre os furacões é correto afirmar que:",
+      principal: "Em agosto de 2017, o furacão Irma foi considerado por especialistas o mais poderoso da década no Atlântico. À medida que avançou para o Caribe, chegou a categoria 5, que é a mais alta, quando os ventos superam a marca dos 252 $km/h$, similar à velocidade de alguns trens de alta velocidade.\nSobre os furacões é correto afirmar que:",
       subItens: []
     },
     options: [
@@ -1607,7 +1607,7 @@ createQuestion({
       "Quando se forma na região próximo ao Trópico de Capricórnio, é conhecido como tufão.",
       "Se forma a partir da evaporação de água para a atmosfera combinada com a pressão atmosférica.",
       "Quando chega a categoria 4, é chamado de ciclone extra-tropical.",
-      "Quando chega a 177 km/h, é chamado de depressão tropical."
+      "Quando chega a 177 $km/h$, é chamado de depressão tropical."
     ],
     correctAnswer: 2,
     materia: ["Geografia"],

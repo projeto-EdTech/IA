@@ -486,7 +486,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "QUESTÃO 24\nE aqui, antes de continuar este espetáculo, é\nnecessário que façamos uma advertência a todos e a\ncada um. Neste momento, achamos fundamental que\ncada um tome uma posição definida. Sem que cada um\ntome uma posição definida, não é possível continuarmos.\nÉ fundamental que cada um tome uma posição, seja para\na esquerda, seja para a direita. Admitimos mesmo que\nalguns tomem uma posição neutra, fiquem de braços\ncruzados. Mas é preciso que cada um, uma vez tomada\nsua posição, fique nela! Porque senão, companheiros, as\ncadeiras do teatro rangem muito e ninguém ouve nada.\nFERNANDES, M.; RANGEL, F. Liberdade, liberdade. Porto Alegre: L&PM, 2009.\nA peça Liberdade, liberdade, encenada em 1964,\napresenta o impasse vivido pela sociedade brasileira em\nface do regime vigente. Esse impasse é representado no\nfragmento pelo(a)",
+      principal: "QUESTÃO 24\nE aqui, antes de continuar este espetáculo, é\nnecessário que façamos uma advertência a todos e a\ncada um. Neste momento, achamos fundamental que\ncada um tome uma posição definida. Sem que cada um\ntome uma posição definida, não é possível continuarmos.\nÉ fundamental que cada um tome uma posição, seja para\na esquerda, seja para a direita. Admitimos mesmo que\nalguns tomem uma posição neutra, fiquem de braços\ncruzados. Mas é preciso que cada um, uma vez tomada\nsua posição, fique nela! Porque $\\sin$ão, companheiros, as\ncadeiras do teatro rangem muito e ninguém ouve nada.\nFERNANDES, M.; RANGEL, F. Liberdade, liberdade. Porto Alegre: L&PM, 2009.\nA peça Liberdade, liberdade, encenada em 1964,\napresenta o impasse vivido pela sociedade brasileira em\nface do regime vigente. Esse impasse é representado no\nfragmento pelo(a)",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "QUESTÃO 33\nJoão/Zero (Wagner Moura) é um cientista genial, mas\ninfeliz porque há 20 anos atrás foi humilhado publicamente\ndurante uma festa e perdeu Helena (Alinne Moraes), uma\nantiga e eterna paixão. Certo dia, uma experiência com\num de seus inventos permite que ele faça uma viagem no\ntempo, retornando para aquela época e podendo interferir\nno seu destino. Mas quando ele retorna, descobre que\nsua vida mudou totalmente e agora precisa encontrar um\njeito de mudar essa história, nem que para isso tenha que\nvoltar novamente ao passado. Será que ele conseguirá\nacertar as coisas?\nDisponível em: http://adorocinema.com. Acesso em: 4 out. 2011.\nQual aspecto da organização gramatical atualiza os\neventos apresentados na resenha, contribuindo para\ndespertar o interesse do leitor pelo filme?",
+      principal: "QUESTÃO 33\nJoã$o/Zero$ (Wagner Moura) é um cientista genial, mas\ninfeliz porque há 20 anos atrás foi humilhado publicamente\ndurante uma festa e perdeu Helena (Alinne Moraes), uma\nantiga e eterna paixão. Certo dia, uma experiência com\num de seus inventos permite que ele faça uma viagem no\ntempo, retornando para aquela época e podendo interferir\nno seu destino. Mas quando ele retorna, descobre que\nsua vida mudou totalmente e agora precisa encontrar um\njeito de mudar essa história, nem que para isso tenha que\nvoltar novamente ao passado. Será que ele conseguirá\nacertar as coisas?\nDisponível em: http://adorocinema.com. Acesso em: 4 out. 2011.\nQual aspecto da organização gramatical atualiza os\neventos apresentados na resenha, contribuindo para\ndespertar o interesse do leitor pelo filme?",
       subItens: []
     },
     options: [
@@ -683,7 +683,7 @@ createQuestion({
       "A descrição dos fatos com verbos no presente do\nindicativo, como “retorna” e “descobre”.",
       "A repetição do emprego da conjunção “mas” para\ncontrapor ideias.",
       "A finalização do texto com a frase de efeito “Será que\nele conseguirá acertar as coisas?”.",
-      "O uso do pronome de terceira pessoa “ele” ao\nlongo do texto para fazer referência ao protagonista\n“João/Zero”."
+      "O uso do pronome de terceira pessoa “ele” ao\nlongo do texto para fazer referência ao protagonista\n“Joã$o/Zero$”."
     ],
     correctAnswer: 1,
     materia: ["Língua Portuguesa"],
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "QUESTÃO 52\nA configuração do espaço urbano da região do\nEntorno do Distrito Federal assemelha-se às demais\naglomerações urbanas e regiões metropolitanas do país,\nonde é facilmente identificável a constituição de um\ncentro dinâmico e desenvolvido, onde se concentram\nas oportunidades de trabalho e os principais serviços,\ne a constituição de uma região periférica concentradora\nde população de baixa renda, com acesso restrito às\nprincipais atividades com capacidade de acumulação\ne produtividade, e aos serviços sociais e infraestrutura\nbásica.\nCAIADO, M. C. A migração intrametropolitana e o processo de estruturação do espaço urbano\nda Região Integrada de Desenvolvimento do Distrito Federal e Entorno. In: HOGAN, D. J. et al.\n(Org.). Migração e ambiente nas aglomerações urbanas. Campinas: Nepo/Unicamp, 2002.\nA organização interna do aglomerado urbano descrito é\nresultado da ocorrência do processo de",
+      principal: "QUESTÃO 52\nA configuração do espaço urbano da região do\nEntorno do Distrito Federal assemelha-se às demais\naglomerações urbanas e regiões metropolitanas do país,\nonde é facilmente identificável a constituição de um\ncentro dinâmico e desenvolvido, onde se concentram\nas oportunidades de trabalho e os principais serviços,\ne a constituição de uma região periférica concentradora\nde população de baixa renda, com acesso restrito às\nprincipais atividades com capacidade de acumulação\ne produtividade, e aos serviços sociais e infraestrutura\nbásica.\nCAIADO, M. C. A migração intrametropolitana e o processo de estruturação do espaço urbano\nda Região Integrada de Desenvolvimento do Distrito Federal e Entorno. In: HOGAN, D. J. et al.\n(Org.). Migração e ambiente nas aglomerações urbanas. Campinas: $Nepo/Unicamp$, 2002.\nA organização interna do aglomerado urbano descrito é\nresultado da ocorrência do processo de",
       subItens: []
     },
     options: [
@@ -1116,7 +1116,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "QUESTÃO 54\n(Tabela com Tipologia de área e % de chuva retida no local e escoada: Bacias naturais/florestas (80-100% retida, 0-20% escoada), Bacias com ocupação agrícola/cultivos (40-60% retida, 40-60% escoada), Bacias com ocupação residencial (40-50% retida, 50-60% escoada), Bacias com ocupação urbana pesada (0-10% retida, 90-100% escoada).)\nMACHADO, P. J. O.; TORRES, F. T. P. Introdução à hidrogeografia.\nSão Paulo: Cengage Learning, 2012 (adaptado).\nA leitura dos dados revela que as áreas com maior\ncobertura vegetal têm o potencial de intensificar o\nprocesso de",
+      principal: "QUESTÃO 54\n(Tabela com Tipologia de área e % de chuva retida no local e escoada: Bacias $naturais/florestas$ (80-100% retida, 0-20% escoada), Bacias com ocupação agrí$cola/cultivos$ (40-60% retida, 40-60% escoada), Bacias com ocupação residencial (40-50% retida, 50-60% escoada), Bacias com ocupação urbana pesada (0-10% retida, 90-100% escoada).)\nMACHADO, P. J. O.; TORRES, F. T. P. Introdução à hidrogeografia.\nSão Paulo: Cengage Learning, 2012 (adaptado).\nA leitura dos dados revela que as áreas com maior\ncobertura vegetal têm o potencial de intensificar o\nprocesso de",
       subItens: []
     },
     options: [
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "QUESTÃO 56\nOs maiores consumidores da infraestrutura logística\npara exportação no Brasil são os produtos a granel,\ndentre os quais se destacam o minério de ferro, petróleo\ne seus derivados e a soja, que, por possuírem baixo\nvalor agregado, e por serem movimentados em grandes\nvolumes, necessitam de uma infraestrutura de grande\nporte e baixos custos. No caso da soja, a infraestrutura\ndeixa muito a desejar, resultando em enormes filas de\nnavios, caminhões e trens, que, por ficarem grande parte\ndo tempo ociosos nas filas, têm seu custo majorado,\nonerando fortemente o exportador, afetando sua\nmargem de lucro e ameaçando nossa competitividade\ninternacional.\nFLEURY, P. F. A infraestrutura e os desafios logísticos das exportações brasileiras.\nRio de Janeiro: CEL; Coppead; UFRJ, 2005 (adaptado).\nNo contexto do início do século XXI, uma ação para\nsolucionar os problemas logísticos da soja apresentados\nno texto seria a",
+      principal: "QUESTÃO 56\nOs maiores consumidores da infraestrutura $\\log$ística\npara exportação no Brasil são os produtos a granel,\ndentre os quais se destacam o minério de ferro, petróleo\ne seus derivados e a soja, que, por possuírem baixo\nvalor agregado, e por serem movimentados em grandes\nvolumes, necessitam de uma infraestrutura de grande\nporte e baixos custos. No caso da soja, a infraestrutura\ndeixa muito a desejar, resultando em enormes filas de\nnavios, caminhões e trens, que, por ficarem grande parte\ndo tempo ociosos nas filas, têm seu custo majorado,\nonerando fortemente o exportador, afetando sua\nmargem de lucro e ameaçando nossa competitividade\ninternacional.\nFLEURY, P. F. A infraestrutura e os desafios $\\log$ísticos das exportações brasileiras.\nRio de Janeiro: CEL; Coppead; UFRJ, 2005 (adaptado).\nNo contexto do início do século XXI, uma ação para\nsolucionar os problemas $\\log$ísticos da soja apresentados\nno texto seria a",
       subItens: []
     },
     options: [
@@ -1170,7 +1170,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Geografia"],
-    conteudo: ["Logística", "Economia brasileira"],
+    conteudo: ["$\\log$ística", "Economia brasileira"],
     imageNames: []
 }),
 
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "enem",
     year: 2017,
     text: {
-      principal: "QUESTÃO 60\nProcuramos demonstrar que o desenvolvimento\npode ser visto como um processo de expansão das\nliberdades reais que as pessoas desfrutam. O enfoque\nnas liberdades humanas contrasta com visões mais\nrestritas de desenvolvimento, como as que identificam\ndesenvolvimento com crescimento do Produto Nacional\nBruto, ou industrialização. O crescimento do PNB pode\nser muito importante como um meio de expandir as\nliberdades. Mas as liberdades dependem também de\noutros determinantes, como os serviços de educação e\nsaúde e os direitos civis.\nSEN, A. Desenvolvimento como liberdade. São Paulo: Cia. das Letras, 2010.\nA concepção de desenvolvimento proposta no texto\nfundamenta-se no vínculo entre",
+      principal: "QUESTÃO 60\nProcuramos demonstrar que o desenvolvimento\npode ser visto como um processo de expansão das\nliberdades reais que as pessoas desfrutam. O enfoque\nnas liberdades humanas contrasta com visões mais\nrestritas de desenvolvimento, como as que identificam\ndesenvolvimento com crescimento do Produto Nacional\nBruto, ou industrialização. O crescimento do PNB pode\nser muito importante como um meio de expandir as\nliberdades. Mas as liberdades dependem também de\noutros determinantes, como os serviços de educação e\nsaúde e os direitos civis.\n$\\sin$, A. Desenvolvimento como liberdade. São Paulo: Cia. das Letras, 2010.\nA concepção de desenvolvimento proposta no texto\nfundamenta-se no vínculo entre",
       subItens: []
     },
     options: [

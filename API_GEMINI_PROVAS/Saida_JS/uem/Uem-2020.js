@@ -108,7 +108,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Com o crescimento populacional ocorrido a partir do final do século X, os limites dos territórios habitados na Europa Ocidental se expandiram geograficamente, gerando transformações significativas na dinâmica social e econômica. Sobre o período que se seguiu (século XI ao século XV), denominado Baixa Idade Média, assinale o que for correto.\n01) Nesse período, o comércio se tornou uma importante atividade econômica. Levas populacionais partiram em direção aos centros urbanos ou para regiões ao redor de feiras comerciais.\n02) Nos séculos XIII e XIV, a fome, a peste negra e a guerra despovoaram os campos e provocaram a escassez de mão de obra. Os senhores feudais ficaram enfraquecidos, pois deixaram de receber tributos. Com isso, impuseram um recrudescimento da exploração do trabalho servil, gerando revoltas camponesas.\n04) Do século XIV ao século XV, na Inglaterra, os camponeses tiveram de migrar para as cidades à procura de meios de subsistência.\n08) Na Europa Ocidental, a transformação de florestas temperadas em áreas de cultivo contribuiu para mudanças climáticas que levaram à extinção de plantas e animais.\n16) A aristocracia feudal, principalmente da região de Flandres, formada por mercadores, donos de oficinas artesanais e banqueiros, perdeu os privilégios e deixou de exercer o poder sobre a burguesia local.",
+      principal: "Com o crescimento populacional ocorrido a partir do final do século X, os limites dos territórios habitados na Europa Ocidental se expandiram geograficamente, gerando transformações significativas na dinâmica social e econômica. Sobre o período que se seguiu (século $\\xi$ ao século XV), denominado Baixa Idade Média, assinale o que for correto.\n01) Nesse período, o comércio se tornou uma importante atividade econômica. Levas populacionais partiram em direção aos centros urbanos ou para regiões ao redor de feiras comerciais.\n02) Nos séculos XIII e XIV, a fome, a peste negra e a guerra despovoaram os campos e provocaram a escassez de mão de obra. Os senhores feudais ficaram enfraquecidos, pois deixaram de receber tributos. Com isso, impuseram um recrudescimento da exploração do trabalho servil, gerando revoltas camponesas.\n04) Do século XIV ao século XV, na Inglaterra, os camponeses tiveram de migrar para as cidades à procura de meios de subsistência.\n08) Na Europa Ocidental, a transformação de florestas temperadas em áreas de cultivo contribuiu para mudanças climáticas que levaram à extinção de plantas e animais.\n16) A aristocracia feudal, principalmente da região de Flandres, formada por mercadores, donos de oficinas artesanais e banqueiros, perdeu os privilégios e deixou de exercer o poder sobre a burguesia local.",
       subItens: []
     },
     options: [
@@ -339,12 +339,12 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Um corpo de massa 2kg está inicialmente em repouso sobre uma superfície plana e horizontal. Uma força resultante F (paralela à horizontal) que passa a agir no corpo faz que ele se mova ao longo do eixo Ox, na mesma direção e no mesmo sentido da força. O gráfico abaixo representa a intensidade F (em newtons) da força resultante em função da posição (em metros) x.\n(O gráfico mostra uma função F(N) no eixo y e x(m) no eixo x, com pontos (0,0), (3,6) e (6,0) formando um triângulo. O vértice da parábola seria em x=3, F=6.)\nDesprezando o atrito, assinale o que for correto.\n01) O trabalho realizado pela força quando o corpo se desloca de sua posição original para a posição x = 2m é 8J.\n02) A aceleração do corpo quando ele está na posição x = 6m é 6m/s².\n04) O gráfico fornecido é o gráfico da função F(x) = | 2x-6 | no intervalo [0,6].\n08) O gráfico fornecido corresponde ao gráfico de uma função injetora.\n16) Em x = 3m o corpo está novamente em repouso.",
+      principal: "Um corpo de massa 2kg está inicialmente em repouso sobre uma superfície plana e horizontal. Uma força resultante F (paralela à horizontal) que passa a agir no corpo faz que ele se mova ao longo do eixo Ox, na mesma direção e no mesmo sentido da força. O gráfico abaixo representa a intensidade F (em newtons) da força resultante em função da posição (em metros) x.\n(O gráfico mostra uma função F(N) no eixo y e x(m) no eixo x, com pontos (0,0), (3,6) e (6,0) formando um triângulo. O vértice da parábola seria em x=3, F=6.)\nDesprezando o atrito, assinale o que for correto.\n01) O trabalho realizado pela força quando o corpo se desloca de sua posição original para a posição x = 2m é 8J.\n02) A aceleração do corpo quando ele está na posição x = 6m é $6m/s$².\n04) O gráfico fornecido é o gráfico da função F(x) = | 2x-6 | no intervalo [0,6].\n08) O gráfico fornecido corresponde ao gráfico de uma função injetora.\n16) Em x = 3m o corpo está novamente em repouso.",
       subItens: []
     },
     options: [
       "O trabalho realizado pela força quando o corpo se desloca de sua posição original para a posição x = 2m é 8J.",
-      "A aceleração do corpo quando ele está na posição x = 6m é 6m/s².",
+      "A aceleração do corpo quando ele está na posição x = 6m é $6m/s$².",
       "O gráfico fornecido é o gráfico da função F(x) = | 2x-6 | no intervalo [0,6].",
       "O gráfico fornecido corresponde ao gráfico de uma função injetora.",
       "Em x = 3m o corpo está novamente em repouso."
@@ -360,7 +360,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "No instante t = 0s, uma partícula de massa M é lançada de uma superfície plana, horizontal e infinita, a uma velocidade v₀ que faz um ângulo θ com a horizontal. Desprezando os atritos e considerando θ menor que 90°, assinale o que for correto.\n01) A equação que descreve a velocidade da partícula na vertical é uma função quadrática.\n02) Na altura máxima alcançada pela partícula, sua energia cinética é nula.\n04) A trajetória da partícula é uma parábola.\n08) As velocidades horizontais da partícula no ponto de lançamento e no ponto que ela voltar a tocar a superfície são iguais.\n16) No instante t = v₀senθ / g a partícula está em sua altura máxima.",
+      principal: "No instante t = 0s, uma partícula de massa M é lançada de uma superfície plana, horizontal e infinita, a uma velocidade v₀ que faz um ângulo θ com a horizontal. Desprezando os atritos e considerando θ menor que 90°, assinale o que for correto.\n01) A equação que descreve a velocidade da partícula na vertical é uma função quadrática.\n02) Na altura máxima alcançada pela partícula, sua energia cinética é nula.\n04) A trajetória da partícula é uma parábola.\n08) As velocidades horizontais da partícula no ponto de lançamento e no ponto que ela voltar a tocar a superfície são iguais.\n16) No instante t = v₀$\\sin$θ / g a partícula está em sua altura máxima.",
       subItens: []
     },
     options: [
@@ -368,7 +368,7 @@ createQuestion({
       "Na altura máxima alcançada pela partícula, sua energia cinética é nula.",
       "A trajetória da partícula é uma parábola.",
       "As velocidades horizontais da partícula no ponto de lançamento e no ponto que ela voltar a tocar a superfície são iguais.",
-      "No instante t = v₀senθ / g a partícula está em sua altura máxima."
+      "No instante t = v₀$\\sin$θ / g a partícula está em sua altura máxima."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -381,13 +381,13 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Assinale o que for correto.\n01) A massa gravitacional é uma grandeza física escalar atribuída a um corpo e pode ser obtida pela comparação desse corpo com um padrão.\n02) A massa inercial é uma grandeza escalar que fornece uma medida da inércia de um corpo.\n04) A unidade de massa atômica é definida como sendo igual a 1/12 da massa de um átomo do isótopo ¹²C.\n08) A massa atômica é igual à massa contida em uma certa quantidade de material e é igual à massa gravitacional.\n16) A massa molecular de uma substância corresponde à massa de uma molécula dessa substância.",
+      principal: "Assinale o que for correto.\n01) A massa gravitacional é uma grandeza física escalar atribuída a um corpo e pode ser obtida pela comparação desse corpo com um padrão.\n02) A massa inercial é uma grandeza escalar que fornece uma medida da inércia de um corpo.\n04) A unidade de massa atômica é definida como sendo igual a $1/12$ da massa de um átomo do isótopo ¹²C.\n08) A massa atômica é igual à massa contida em uma certa quantidade de material e é igual à massa gravitacional.\n16) A massa molecular de uma substância corresponde à massa de uma molécula dessa substância.",
       subItens: []
     },
     options: [
       "A massa gravitacional é uma grandeza física escalar atribuída a um corpo e pode ser obtida pela comparação desse corpo com um padrão.",
       "A massa inercial é uma grandeza escalar que fornece uma medida da inércia de um corpo.",
-      "A unidade de massa atômica é definida como sendo igual a 1/12 da massa de um átomo do isótopo ¹²C.",
+      "A unidade de massa atômica é definida como sendo igual a $1/12$ da massa de um átomo do isótopo ¹²C.",
       "A massa atômica é igual à massa contida em uma certa quantidade de material e é igual à massa gravitacional.",
       "A massa molecular de uma substância corresponde à massa de uma molécula dessa substância."
     ],
@@ -402,7 +402,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Quando uma pessoa que está parada e em pé espirra, uma mistura contendo ar, partículas de água, sais minerais e microorganismos é expelida na direção horizontal, podendo atingir uma velocidade de até 160km/h. Considerando g = 10m/s² e desprezando a resistência do ar atmosférico, assinale o que for correto.\n01) Nessas condições, a mistura expelida por uma pessoa de 1,8m de altura percorre uma distância horizontal maior do que aquela expelida por uma pessoa de 1,5m de altura.\n02) Os sais minerais expelidos durante o espirro estão dissolvidos em água por meio de ligações de hidrogênio.\n04) Uma criança de 1,25m de altura, ao espirrar, pode projetar partículas da mistura a uma distância maior que 20m.\n08) As partículas de água expelidas durante o espirro estão em fase gasosa, considerando-se um ambiente a 40°C.\n16) O sal mineral fosfato de cálcio, Ca₃(PO₄)₂, um dos componentes da mistura, é formado por meio da ligação iônica entre os íons Ca²⁺ e PO₄³⁻, em que o cálcio metálico perde dois elétrons e passa a ter raio atômico menor.",
+      principal: "Quando uma pessoa que está parada e em pé espirra, uma mistura contendo ar, partículas de água, sais minerais e microorganismos é expelida na direção horizontal, podendo atingir uma velocidade de até $160km/h$. Considerando g = $10m/s$² e desprezando a resistência do ar atmosférico, assinale o que for correto.\n01) Nessas condições, a mistura expelida por uma pessoa de 1,8m de altura percorre uma distância horizontal maior do que aquela expelida por uma pessoa de 1,5m de altura.\n02) Os sais minerais expelidos durante o espirro estão dissolvidos em água por meio de ligações de hidrogênio.\n04) Uma criança de 1,25m de altura, ao espirrar, pode projetar partículas da mistura a uma distância maior que 20m.\n08) As partículas de água expelidas durante o espirro estão em fase gasosa, considerando-se um ambiente a 40°C.\n16) O sal mineral fosfato de cálcio, Ca₃(PO₄)₂, um dos componentes da mistura, é formado por meio da ligação iônica entre os íons Ca²⁺ e PO₄³⁻, em que o cálcio metálico perde dois elétrons e passa a ter raio atômico menor.",
       subItens: []
     },
     options: [
@@ -444,15 +444,15 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "A loratadina (C22H23ClN2O2) é uma substância química presente em medicamentos utilizados para o tratamento de alergias. Essa substância é comercializada na forma de xarope ou de comprimido. Na forma de xarope a concentração é de 1mg/mL, e a recomendação diária é de até 5mL para crianças de 2 a 12 anos. Com base nessas informações, assinale o que for correto.\n01) Um frasco de 100mL contendo 3/4 de xarope de loratadina é suficiente para o tratamento de 15 dias, considerando-se a recomendação diária.\n02) Na fórmula molecular da loratadina, 0,025 dos átomos são de oxigênio.\n04) 500g de loratadina contêm aproximadamente 1,5 x 10²⁴ átomos de nitrogênio.\n08) Em 2mol de loratadina há 28g de nitrogênio.\n16) Considerando 100mL de loratadina e a dose diária máxima recomendada, após a décima sexta dose do medicamento restará no frasco 1/5 do xarope.",
+      principal: "A loratadina (C22H23ClN2O2) é uma substância química presente em medicamentos utilizados para o tratamento de alergias. Essa substância é comercializada na forma de xarope ou de comprimido. Na forma de xarope a concentração é de $1mg/mL$, e a recomendação diária é de até 5mL para crianças de 2 a 12 anos. Com base nessas informações, assinale o que for correto.\n01) Um frasco de 100mL contendo $3/4$ de xarope de loratadina é suficiente para o tratamento de 15 dias, considerando-se a recomendação diária.\n02) Na fórmula molecular da loratadina, 0,025 dos átomos são de oxigênio.\n04) 500g de loratadina contêm aproximadamente 1,5 x 10²⁴ átomos de nitrogênio.\n08) Em 2mol de loratadina há 28g de nitrogênio.\n16) Considerando 100mL de loratadina e a dose diária máxima recomendada, após a décima sexta dose do medicamento restará no frasco $1/5$ do xarope.",
       subItens: []
     },
     options: [
-      "Um frasco de 100mL contendo 3/4 de xarope de loratadina é suficiente para o tratamento de 15 dias, considerando-se a recomendação diária.",
+      "Um frasco de 100mL contendo $3/4$ de xarope de loratadina é suficiente para o tratamento de 15 dias, considerando-se a recomendação diária.",
       "Na fórmula molecular da loratadina, 0,025 dos átomos são de oxigênio.",
       "500g de loratadina contêm aproximadamente 1,5 x 10²⁴ átomos de nitrogênio.",
       "Em 2mol de loratadina há 28g de nitrogênio.",
-      "Considerando 100mL de loratadina e a dose diária máxima recomendada, após a décima sexta dose do medicamento restará no frasco 1/5 do xarope."
+      "Considerando 100mL de loratadina e a dose diária máxima recomendada, após a décima sexta dose do medicamento restará no frasco $1/5$ do xarope."
     ],
     correctAnswer: 0,
     materia: ["Química", "Matemática"],
@@ -696,7 +696,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Sobre o poema de Gregório de Matos, assinale o que for correto.\n\"Queixa-se o poeta em que o mundo vai errado, e querendo emendá-lo o tem por empresa dificultosa\"\nSONETO\nCarregado de mim ando no mundo,\nE o grande peso embarga-me as passadas,\nQue como ando por vias desusadas,\nFaço o peso crescer, e vou-me ao fundo.\nO remédio será seguir o imundo\nCaminho, onde dos mais vejo as pisadas,\nQue as bestas andam juntas mais ornadas,\nDo que anda só o engenho mais profundo.\nNão é fácil viver entre os insanos,\nErra, quem presumir, que sabe tudo,\nSe o atalho não soube dos seus danos.\nO prudente varão há de ser mudo,\nQue é melhor neste mundo o mar de enganos\nSer louco cos demais, que ser sisudo.\n(MATOS, G. de. Antologia. Seleção e notas de Higino Barros. Porto Alegre: L&PM, 2009, p. 107).\nVocabulário:\nornada: colocada em ordem, adornada, enfeitada.\nengenho: faculdade inventiva, talento, habilidade, sutileza.\ninsano: insensato, demente.\nvarão: homem adulto, homem respeitável.\nsisudo: sério, grave, sensato, moderado.\n01) O eu lírico condena a vaidade e a hipocrisia da aristocracia e da classe política baiana da época do Brasil Colônia por meio de uma crítica mordaz. Como reparação, sugere o pastoralismo, o locus amoenus e o inutilia truncat, orientações máximas do Barroco.\n02) A temática remete para o desconcerto do mundo. O eu lírico expressa sua preocupação acerca da sociedade por meio de ironia e de crítica social de caráter satírico, expressando seu aborrecimento contra os “insanos\", desprovidos de conhecimento e de discernimento.\n04) O poema apresenta o contraste entre o eu lírico e a sociedade. Andando por caminhos incomuns, entre os quais se pode considerar a própria poesia satírica, o eu aumenta, metaforicamente, seu próprio peso. As inversões sintáticas, como no verso “Carregado de mim ando no mundo\", confirmam o conflito instaurado no texto.\n08) O eu lírico defende a ideia de que é preciso ser sisudo em um mundo onde predominam os loucos, e escolhe, por livre vontade, envolver-se no modo de pensar e agir mundano, como atestam os versos “O remédio será seguir o imundo / Caminho, onde dos mais vejo as pisadas”.\n16) Escrito em linguagem culta, usando versos decassílabos (a medida nova), rimas interpoladas e figuras como metáforas e hipérbatos, além de encadeamento (como nos versos um e dois da segunda estrofe), o soneto reforça, na forma, a turbulência e o contraste entre o eu e a sociedade.",
+      principal: "Sobre o poema de Gregório de Matos, assinale o que for correto.\n\"Queixa-se o poeta em que o mundo vai errado, e querendo emendá-lo o tem por empresa dificultosa\"\nSONETO\nCarregado de mim ando no mundo,\nE o grande peso embarga-me as passadas,\nQue como ando por vias desusadas,\nFaço o peso crescer, e vou-me ao fundo.\nO remédio será seguir o imundo\nCaminho, onde dos mais vejo as pisadas,\nQue as bestas andam juntas mais ornadas,\nDo que anda só o engenho mais profundo.\nNão é fácil viver entre os insanos,\nErra, quem presumir, que sabe tudo,\nSe o atalho não soube dos seus danos.\nO prudente varão há de ser mudo,\nQue é melhor neste mundo o mar de enganos\nSer louco $\\cos$ demais, que ser sisudo.\n(MATOS, G. de. Antologia. Seleção e notas de Higino Barros. Porto Alegre: L&PM, 2009, p. 107).\nVocabulário:\nornada: colocada em ordem, adornada, enfeitada.\nengenho: faculdade inventiva, talento, habilidade, sutileza.\ninsano: insensato, demente.\nvarão: homem adulto, homem respeitável.\nsisudo: sério, grave, sensato, moderado.\n01) O eu lírico condena a vaidade e a hipocrisia da aristocracia e da classe política baiana da época do Brasil Colônia por meio de uma crítica mordaz. Como reparação, sugere o pastoralismo, o locus amoenus e o inutilia truncat, orientações máximas do Barroco.\n02) A temática remete para o desconcerto do mundo. O eu lírico expressa sua preocupação acerca da sociedade por meio de ironia e de crítica social de caráter satírico, expressando seu aborrecimento contra os “insanos\", desprovidos de conhecimento e de discernimento.\n04) O poema apresenta o contraste entre o eu lírico e a sociedade. Andando por caminhos incomuns, entre os quais se pode considerar a própria poesia satírica, o eu aumenta, metaforicamente, seu próprio peso. As inversões sintáticas, como no verso “Carregado de mim ando no mundo\", confirmam o conflito instaurado no texto.\n08) O eu lírico defende a ideia de que é preciso ser sisudo em um mundo onde predominam os loucos, e escolhe, por livre vontade, envolver-se no modo de pensar e agir mundano, como atestam os versos “O remédio será seguir o imundo / Caminho, onde dos mais vejo as pisadas”.\n16) Escrito em linguagem culta, usando versos decassílabos (a medida nova), rimas interpoladas e figuras como metáforas e hipérbatos, além de encadeamento (como nos versos um e dois da segunda estrofe), o soneto reforça, na forma, a turbulência e o contraste entre o eu e a sociedade.",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Com base no poema abaixo e na produção poética de Cláudio Manuel da Costa, assinale o que for correto.\nLXII\nTorno a ver-nos, ó montes; o destino\nAqui me torna a pôr nestes oiteiros;\nOnde um tempo os gabões deixei grosseiros\nPelo traje da Corte rico, e fino.\nAqui estou entre Almendro, entre Corino,\nOs meus fiéis, meus doces companheiros,\nVendo correr os míseros vaqueiros\nAtrás de seu cansado desatino.\nSe o bem desta choupana pode tanto,\nQue chega a ter mais preço, e mais valia,\nQue da cidade o lisonjeiro encanto;\nAqui descanse a louca fantasia;\nE o que té agora se tornava em pranto,\nSe converta em afetos de alegria.\n(COSTA, C. M. da. Melhores poemas. Seleção Francisco Iglésias. São Paulo: Global, 2012, p. 91).\nVocabulário:\noiteiro/outeiro: pequeno monte, colina.\ngabão: capote de mangas ou casacão.\nchoupana: cabana.\n01) O poema representa o eu lírico vivenciando \"afetos de alegria\" pela oportunidade que teve de deixar o ambiente rude do campo, representado pelos gabões grosseiros, para apreciar a vida urbana rica e refinada da Corte. Agora, repleto de cultura e de trajes elegantes, ao retornar ao campo está feliz por perceber que fizera a escolha certa ao não optar por aquela vida rústica dos míseros vaqueiros.\n02) O poema apresenta-se como exceção na poesia do Arcadismo, uma vez que se trata de um soneto, forma poética clássica que foi rechaçada pelos autores árcades, pois era utilizada nas produções dos artistas cultos da elite urbana. Coerente com a valorização da simplicidade e da vida no campo, os poetas árcades se expressaram basicamente por formas poéticas da cultura popular.\n04) O poema descreve a expressão do eu lírico que, tendo trocado a vida no campo pela experiência urbana na Corte e, depois, retornado ao espaço campestre, reconhece o valor daquela vida simples, \"Que chega a ter mais preço, e mais valia, / Que da cidade o lisonjeio encanto”. É por esse motivo que ele se mostra comovido alegremente, como demonstra o último verso do poema.\n08) O poema destaca aspectos característicos da poesia árcade, como a ambientação campestre em um cenário de natureza tranquila e de vida simples, considerado mais valioso do que o luxo e o requinte urbanos. Nesse sentido, conceitos como bucolismo, aurea mediocritas e fugere urbem mostram-se presentes.\n16) O poema é composto por versos decassílabos, aspecto que demonstra um padrão de regularidade métrica. Há presença de rimas, as quais, no que diz respeito à disposição gráfica no poema, seguem o esquema ABBA, nos quartetos, e CDC DCD, nos tercetos.",
+      principal: "Com base no poema abaixo e na produção poética de Cláudio Manuel da Costa, assinale o que for correto.\nLXII\nTorno a ver-nos, ó montes; o destino\nAqui me torna a pôr nestes oiteiros;\nOnde um tempo os gabões deixei grosseiros\nPelo traje da Corte rico, e fino.\nAqui estou entre Almendro, entre Corino,\nOs meus fiéis, meus doces companheiros,\nVendo correr os míseros vaqueiros\nAtrás de seu cansado desatino.\nSe o bem desta choupana pode tanto,\nQue chega a ter mais preço, e mais valia,\nQue da cidade o lisonjeiro encanto;\nAqui descanse a louca fantasia;\nE o que té agora se tornava em pranto,\nSe converta em afetos de alegria.\n(COSTA, C. M. da. Melhores poemas. Seleção Francisco Iglésias. São Paulo: Global, 2012, p. 91).\nVocabulário:\n$oiteiro/outeiro$: pequeno monte, colina.\ngabão: capote de mangas ou casacão.\nchoupana: cabana.\n01) O poema representa o eu lírico vivenciando \"afetos de alegria\" pela oportunidade que teve de deixar o ambiente rude do campo, representado pelos gabões grosseiros, para apreciar a vida urbana rica e refinada da Corte. Agora, repleto de cultura e de trajes elegantes, ao retornar ao campo está feliz por perceber que fizera a escolha certa ao não optar por aquela vida rústica dos míseros vaqueiros.\n02) O poema apresenta-se como exceção na poesia do Arcadismo, uma vez que se trata de um soneto, forma poética clássica que foi rechaçada pelos autores árcades, pois era utilizada nas produções dos artistas cultos da elite urbana. Coerente com a valorização da simplicidade e da vida no campo, os poetas árcades se expressaram basicamente por formas poéticas da cultura popular.\n04) O poema descreve a expressão do eu lírico que, tendo trocado a vida no campo pela experiência urbana na Corte e, depois, retornado ao espaço campestre, reconhece o valor daquela vida simples, \"Que chega a ter mais preço, e mais valia, / Que da cidade o lisonjeio encanto”. É por esse motivo que ele se mostra comovido alegremente, como demonstra o último verso do poema.\n08) O poema destaca aspectos característicos da poesia árcade, como a ambientação campestre em um cenário de natureza tranquila e de vida simples, considerado mais valioso do que o luxo e o requinte urbanos. Nesse sentido, conceitos como bucolismo, aurea mediocritas e fugere urbem mostram-se presentes.\n16) O poema é composto por versos decassílabos, aspecto que demonstra um padrão de regularidade métrica. Há presença de rimas, as quais, no que diz respeito à disposição gráfica no poema, seguem o esquema ABBA, nos quartetos, e CDC DCD, nos tercetos.",
       subItens: []
     },
     options: [
@@ -853,7 +853,7 @@ createQuestion({
       "Os artistas buscavam retratar a exaltação dos sentimentos e a dramaticidade nas esculturas e na arquitetura, com o uso de diversos elementos decorativos aplicados, de ondulações e da assimetria nos edifícios.",
       "As igrejas mineiras estabelecidas no período da exploração do ouro no Brasil são consideradas exemplos da arquitetura renascentista italiana."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Renascimento", "Arquitetura Renascentista", "Escultura Renascentista", "Pintura Renascentista"],
     imageNames: []
@@ -874,7 +874,7 @@ createQuestion({
       "A preservação das florestas nativas diminui a produtividade da agricultura, da pecuária e da mineração, setores estratégicos para a economia mundial.",
       "A preservação das florestas nativas ajuda a enfrentar o progressivo desequilíbrio ambiental, um desafio urgente no contexto da mudança climática atual."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Ética Ambiental", "Bioética"],
     imageNames: []
@@ -895,7 +895,7 @@ createQuestion({
       "No Tratado da natureza humana Hume desenvolveu uma moral do sentimento, na qual são as paixões que determinam as escolhas das pessoas, e não a razão.",
       "Immanuel Kant formulou a concepção de natureza humana como sensível e ao mesmo tempo como inteligível, superando com essa concepção o conflito entre liberdade e dever moral."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Ética e Moral", "Pensamento Moderno", "Iluminismo", "Humanismo", "Hume", "Kant"],
     imageNames: []
@@ -916,7 +916,7 @@ createQuestion({
       "No século XIX, os Estados Unidos adquiriram dimensões continentais devido à anexação de terras mexicanas e à incorporação de territórios por meio da compra de áreas coloniais que pertenciam à Rússia e a países europeus, como França e Espanha.",
       "A Doutrina Monroe, formulada na primeira metade do século XIX, pregava a realização de ações conjuntas entre os Estados Unidos e os países europeus, com o objetivo de solucionar problemas políticos internos do continente americano."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História dos Estados Unidos", "Expansão Territorial EUA", "Guerra Civil Americana"],
     imageNames: []
@@ -937,7 +937,7 @@ createQuestion({
       "Na segunda metade do século XIX o espaço rural da província de São Paulo se tornou o principal centro produtor de café do Brasil, em função da crescente demanda do produto no mercado internacional, da utilização da mão de obra escravizada e dos imigrantes e das boas condições do solo.",
       "Na monocultura, a disseminação das pragas pode afetar lentamente o desenvolvimento da lavoura. Em decorrência dessa proliferação controlada, o uso de agrotóxicos é reduzido."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Espaço Rural Brasileiro", "Impactos Ambientais", "Agricultura no Brasil"],
     imageNames: []
@@ -958,7 +958,7 @@ createQuestion({
       "A colônia de Assungui foi fundada na segunda metade do século XIX, ao norte de Curitiba, na região do vale do Ribeira, área de terras férteis. Como era uma região de difícil acesso e carente de infraestrutura adequada para o escoamento da produção agrícola, essa colônia não prosperou.",
       "No século XIX, imigrantes franceses fundaram a colônia Tereza Cristina às margens do rio Ivaí, um dos principais rios do Paraná. Os moradores foram organizados a partir de princípios do socialismo utópico."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Geografia", "História"],
     conteudo: ["Migrações", "Geografia do Paraná", "Imigração no Brasil"],
     imageNames: []
@@ -979,7 +979,7 @@ createQuestion({
       "O clima tropical de altitude abrange as terras mais elevadas e serranas da região Sudeste; diferencia-se do clima tropical pela maior pluviosidade anual, pelos verões amenos e pelos invernos mais frios.",
       "O clima tropical semiárido abrange as áreas desérticas do Brasil; possui ação regular da massa tropical atlântica (mTa)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Climas do Brasil", "Climas Tropicais"],
     imageNames: []
@@ -1000,7 +1000,7 @@ createQuestion({
       "A mobilização de recursos econômicos, de bens materiais para influenciar a conduta de pessoas, da sociedade e de instituições, é exemplo do exercício do poder ideológico.",
       "O poder político baseia-se na produção de consenso acerca dos instrumentos que imporão uma determinada vontade a uma coletividade."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Poder", "Relações Sociais", "Controle Social"],
     imageNames: []
@@ -1021,7 +1021,7 @@ createQuestion({
       "Pererecas e lagartos apresentam o desenvolvimento direto devido ao surgimento do ovo amniótico, que permitiu sua independência da água para a reprodução.",
       "Macacos são animais que, além das glândulas mamárias, apresentam outras estruturas epidérmicas como as glândulas sebáceas e as glândulas sudoríparas."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Classificação dos Seres Vivos", "Botânica", "Zoologia", "Ecologia"],
     imageNames: []
@@ -1042,7 +1042,7 @@ createQuestion({
       "Anfibios, répteis, aves e mamíferos possuem dois átrios no coração. O número de ventrículos pode variar de um a dois nesses grupos.",
       "O bombeamento de sangue ocorre somente no sistema circulatório fechado."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Sistema Circulatório"],
     imageNames: []
@@ -1063,7 +1063,7 @@ createQuestion({
       "A incapacidade de distinguir tons de vermelho e verde (daltonismo) está associada a defeitos genéticos que afetam os cones da retina.",
       "A lente, ou cristalino, é uma estrutura proteica que se assemelha a uma lente biconvexa que pode ser modificada pela ação de músculos ciliares, de modo a focalizar a imagem corretamente no fundo do bulbo do olho."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia", "Física"],
     conteudo: ["Sistema Sensorial", "Olho Humano", "Óptica da Visão"],
     imageNames: []
@@ -1084,7 +1084,7 @@ createQuestion({
       "As ferrugens que afetam as folhas dos pés de café são exemplos de espécies de fungos do grupo dos basidiomicetos. Ao parasitar vegetais, esses fungos causam prejuízos à produção agrícola.",
       "O uso dos fungos como bioinseticidas no combate às pragas agrícolas tem a desvantagem de causar a morte de insetos polinizadores. Os agrotóxicos são mais específicos, por isso, quando utilizados, evitam a morte de outros insetos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Agronegócio", "Fitopatologia", "Controle Biológico"],
     imageNames: []
@@ -1095,17 +1095,17 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Sabe-se que uma das vantagens da vacinação é a produção de anticorpos contra antígenos específicos, habilitando o organismo a reagir a infecções causadas por vírus. Considere a função f(t) = sen(t)+1 como um modelo matemático que representa a concentração de anticorpos específicos para um determinado antígeno no organismo, após a introdução de uma vacina. Assumindo que 0≤ t ≤ 3π/2, medido em radianos, indica aproximadamente os meses para o período considerado, assinale o que for correto.\n01) O modelo matemático apresentado indica que o pico da concentração de anticorpos no organismo ocorre imediatamente após a introdução da vacina.\n02) Os soros, assim como as vacinas, estimulam a produção de anticorpos contra antígenos específicos no organismo.\n04) Segundo o modelo matemático, a concentração de anticorpos é maior após um mês da introdução da vacina, se comparada à concentração de anticorpos imediatamente após a sua introdução.\n08) O modelo matemático apresentado é o mesmo da função f(t) = sen (t+1), em que 0<t≤3π/2.\n16) O modelo matemático indica que a concentração de anticorpos no organismo com a introdução da vacina diminui após determinado tempo, daí a necessidade de tomar outra dose.",
+      principal: "Sabe-se que uma das vantagens da vacinação é a produção de anticorpos contra antígenos específicos, habilitando o organismo a reagir a infecções causadas por vírus. Considere a função f(t) = $\\sin$(t)+1 como um modelo matemático que representa a concentração de anticorpos específicos para um determinado antígeno no organismo, após a introdução de uma vacina. Assumindo que 0≤ t ≤ 3π/2, medido em radianos, indica aproximadamente os meses para o período considerado, assinale o que for correto.\n01) O modelo matemático apresentado indica que o pico da concentração de anticorpos no organismo ocorre imediatamente após a introdução da vacina.\n02) Os soros, assim como as vacinas, estimulam a produção de anticorpos contra antígenos específicos no organismo.\n04) Segundo o modelo matemático, a concentração de anticorpos é maior após um mês da introdução da vacina, se comparada à concentração de anticorpos imediatamente após a sua introdução.\n08) O modelo matemático apresentado é o mesmo da função f(t) = $\\sin$ (t+1), em que 0<t≤3π/2.\n16) O modelo matemático indica que a concentração de anticorpos no organismo com a introdução da vacina diminui após determinado tempo, daí a necessidade de tomar outra dose.",
       subItens: []
     },
     options: [
       "O modelo matemático apresentado indica que o pico da concentração de anticorpos no organismo ocorre imediatamente após a introdução da vacina.",
       "Os soros, assim como as vacinas, estimulam a produção de anticorpos contra antígenos específicos no organismo.",
       "Segundo o modelo matemático, a concentração de anticorpos é maior após um mês da introdução da vacina, se comparada à concentração de anticorpos imediatamente após a sua introdução.",
-      "O modelo matemático apresentado é o mesmo da função f(t) = sen (t+1), em que 0<t≤3π/2.",
+      "O modelo matemático apresentado é o mesmo da função f(t) = $\\sin$ (t+1), em que 0<t≤3π/2.",
       "O modelo matemático indica que a concentração de anticorpos no organismo com a introdução da vacina diminui após determinado tempo, daí a necessidade de tomar outra dose."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Matemática"],
     conteudo: ["Imunologia", "Vacinas", "Funções Trigonométricas"],
     imageNames: []
@@ -1126,7 +1126,7 @@ createQuestion({
       "A urina é uma solução não eletrolítica.",
       "Uma das propriedades coligativas, a osmose, é utilizada como fundamento na aplicação terapêutica da hemodiálise para pacientes com insuficiência renal."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Química"],
     conteudo: ["Sistema Urinário", "Soluções", "Propriedades Coligativas"],
     imageNames: []
@@ -1147,7 +1147,7 @@ createQuestion({
       "Pela gasometria pode-se avaliar o pH do sangue.",
       "No sangue humano todo o CO2 se combina com a H2O, formando H2CO3, um composto orgânico."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia", "Química"],
     conteudo: ["Fisiologia Humana", "Fisiologia Vegetal", "Equilíbrio Químico"],
     imageNames: []
@@ -1168,7 +1168,7 @@ createQuestion({
       "O módulo do empuxo exercido sobre um corpo mergulhado em um líquido é igual ao volume do líquido deslocado por esse corpo.",
       "A variação da pressão entre dois pontos no interior de um líquido é proporcional ao produto da densidade do líquido pela aceleração gravitacional e pela diferença de profundidade entre esses dois pontos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Hidrostática", "Pressão", "Empuxo"],
     imageNames: []
@@ -1189,7 +1189,7 @@ createQuestion({
       "O fluxo de calor aumenta sempre na mesma proporção que θ2.",
       "Sob as mesmas condições do enunciado de comando, o fluxo de calor através de uma certa barra de 24cm é de 10cal s⁻¹. Se somente o comprimento da barra for alterado, para que o fluxo seja de 12cal s⁻¹, é necessário que o novo comprimento seja de 20cm."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica", "Condução de Calor"],
     imageNames: []
@@ -1200,17 +1200,17 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Um raio de luz monocromático, propagando-se no ar, incide sobre um bloco de vidro transparente, fazendo um ângulo θAI com a Normal do plano do vidro. Parte desse raio é refletido fazendo um ângulo θAR com a Normal e a parte que passa para o vidro é refratada, fazendo um ângulo θR com a Normal. Considerando os conceitos de óptica, assinale o que for correto.\n01) O raio de luz incidente e o raio de luz refratado se propagam no mesmo plano geométrico.\n02) A razão sen θAI / sen θR é dependente do ângulo de incidência θAI e é independente do comprimento de onda do raio de luz monocromático incidente.\n04) θAI e θAR são sempre iguais e não dependem do comprimento de onda do raio de luz monocromático incidente.\n08) O fenômeno de refração ocorre devido a diferentes velocidades de propagação do raio de luz em meios diferentes.\n16) O índice de refração absoluto de um meio é definido pela razão entre a velocidade da luz no vácuo e a velocidade da luz no meio.",
+      principal: "Um raio de luz monocromático, propagando-se no ar, incide sobre um bloco de vidro transparente, fazendo um ângulo θAI com a Normal do plano do vidro. Parte desse raio é refletido fazendo um ângulo θAR com a Normal e a parte que passa para o vidro é refratada, fazendo um ângulo θR com a Normal. Considerando os conceitos de óptica, assinale o que for correto.\n01) O raio de luz incidente e o raio de luz refratado se propagam no mesmo plano geométrico.\n02) A razão $\\sin$ θAI / $\\sin$ θR é dependente do ângulo de incidência θAI e é independente do comprimento de onda do raio de luz monocromático incidente.\n04) θAI e θAR são sempre iguais e não dependem do comprimento de onda do raio de luz monocromático incidente.\n08) O fenômeno de refração ocorre devido a diferentes velocidades de propagação do raio de luz em meios diferentes.\n16) O índice de refração absoluto de um meio é definido pela razão entre a velocidade da luz no vácuo e a velocidade da luz no meio.",
       subItens: []
     },
     options: [
       "O raio de luz incidente e o raio de luz refratado se propagam no mesmo plano geométrico.",
-      "A razão sen θAI / sen θR é dependente do ângulo de incidência θAI e é independente do comprimento de onda do raio de luz monocromático incidente.",
+      "A razão $\\sin$ θAI / $\\sin$ θR é dependente do ângulo de incidência θAI e é independente do comprimento de onda do raio de luz monocromático incidente.",
       "θAI e θAR são sempre iguais e não dependem do comprimento de onda do raio de luz monocromático incidente.",
       "O fenômeno de refração ocorre devido a diferentes velocidades de propagação do raio de luz em meios diferentes.",
       "O índice de refração absoluto de um meio é definido pela razão entre a velocidade da luz no vácuo e a velocidade da luz no meio."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Óptica", "Reflexão", "Refração"],
     imageNames: []
@@ -1231,7 +1231,7 @@ createQuestion({
       "Qualquer substância presente na atmosfera que ultrapasse a concentração de O2 em uma determinada região é considerada um poluente atmosférico.",
       "Os poluentes atmosféricos migram de um lugar para outro por meio do processo de efusão."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química", "Física"],
     conteudo: ["Atmosfera", "Propriedades dos Gases", "Pressão Atmosférica"],
     imageNames: []
@@ -1252,7 +1252,7 @@ createQuestion({
       "Quando uma substância muda de estado físico em uma fusão, que ocorre à pressão e temperatura constantes, o calor latente de fusão é igual à entropia de fusão.",
       "A vaporização da água é caracterizada como uma mudança de estado físico em que tanto a entropia quanto a entalpia do sistema sofrem alteração."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Termodinâmica", "Entalpia", "Estados da Matéria"],
     imageNames: []
@@ -1273,7 +1273,7 @@ createQuestion({
       "Para reagentes que estão em diferentes fases, a superfície de contato é fator determinante na velocidade das reações químicas.",
       "O efeito observado pela presença de um catalisador nas reações químicas se deve ao aumento da energia de ativação causado por ele."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Cinética Química"],
     imageNames: []
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Os alimentos são processados pelo organismo e liberam a energia que utilizamos para as mais variadas atividades. A quantidade de energia liberada é característica para cada alimento. Analise a seguir a tabela de valor energético de alguns alimentos e assinale o que for correto. (Dado: 1 kcal ≈ 4,2kJ).\nAlimento | kJ/g\nVegetais verdes | 1,0\nBatata frita | 24,0\nArroz | 15,0\nFrango grelhado | 6,0\nSorvete | 11,0\n01) A energia fornecida por 100g de sorvete é a mesma de 1,1kg de vegetais verdes.\n02) 100g de arroz fornecem energia de aproximadamente 35,7kcal.\n04) A diferença entre as energias liberadas por cada classe de alimentos está relacionada com a energia contida nas ligações químicas das substâncias que a compõem.\n08) Quando os alimentos são processados pelo organismo se estabelece um processo endotérmico.\n16) O frango grelhado fornece apenas 25% das calorias quando comparado à mesma quantidade em massa de batata frita.",
+      principal: "Os alimentos são processados pelo organismo e liberam a energia que utilizamos para as mais variadas atividades. A quantidade de energia liberada é característica para cada alimento. Analise a seguir a tabela de valor energético de alguns alimentos e assinale o que for correto. (Dado: 1 kcal ≈ 4,2kJ).\nAlimento | $kJ/g$\nVegetais verdes | 1,0\nBatata frita | 24,0\nArroz | 15,0\nFrango grelhado | 6,0\nSorvete | 11,0\n01) A energia fornecida por 100g de sorvete é a mesma de 1,1kg de vegetais verdes.\n02) 100g de arroz fornecem energia de aproximadamente 35,7kcal.\n04) A diferença entre as energias liberadas por cada classe de alimentos está relacionada com a energia contida nas ligações químicas das substâncias que a compõem.\n08) Quando os alimentos são processados pelo organismo se estabelece um processo endotérmico.\n16) O frango grelhado fornece apenas 25% das calorias quando comparado à mesma quantidade em massa de batata frita.",
       subItens: []
     },
     options: [
@@ -1294,7 +1294,7 @@ createQuestion({
       "Quando os alimentos são processados pelo organismo se estabelece um processo endotérmico.",
       "O frango grelhado fornece apenas 25% das calorias quando comparado à mesma quantidade em massa de batata frita."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Química"],
     conteudo: ["Bioquímica", "Metabolismo", "Calorimetria"],
     imageNames: []
@@ -1305,17 +1305,17 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Sobre trigonometria, assinale o que for correto.\n01) A equação 2sen(2x)-cos(4x) = 3 possui somente uma solução para 0 ≤ x < 2π.\n02) sen(x + π)·cos x ≤ 0 para todo número real x.\n04) O período da função sen(x+π/2) é π/2.\n08) Nenhum número ímpar está no domínio da função y = tg(πx/2).\n16) A equação 3sen²x + cos²x = 4 admite solução real.",
+      principal: "Sobre trigonometria, assinale o que for correto.\n01) A equação 2sen(2x)-$\\cos$(4x) = 3 possui somente uma solução para 0 ≤ x < 2π.\n02) $\\sin$(x + π)·$\\cos$ x ≤ 0 para todo número real x.\n04) O período da função $\\sin$(x+π/2) é π/2.\n08) Nenhum número ímpar está no domínio da função y = $\\tan$(π$x/2$).\n16) A equação 3sen²x + $\\cos$²x = 4 admite solução real.",
       subItens: []
     },
     options: [
-      "A equação 2sen(2x)-cos(4x) = 3 possui somente uma solução para 0 ≤ x < 2π.",
-      "sen(x + π)·cos x ≤ 0 para todo número real x.",
-      "O período da função sen(x+π/2) é π/2.",
-      "Nenhum número ímpar está no domínio da função y = tg(πx/2).",
-      "A equação 3sen²x + cos²x = 4 admite solução real."
+      "A equação 2sen(2x)-$\\cos$(4x) = 3 possui somente uma solução para 0 ≤ x < 2π.",
+      "$\\sin$(x + π)·$\\cos$ x ≤ 0 para todo número real x.",
+      "O período da função $\\sin$(x+π/2) é π/2.",
+      "Nenhum número ímpar está no domínio da função y = $\\tan$(π$x/2$).",
+      "A equação 3sen²x + $\\cos$²x = 4 admite solução real."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Trigonometria", "Equações Trigonométricas", "Funções Trigonométricas"],
     imageNames: []
@@ -1326,7 +1326,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Seja S um sistema linear definido no conjunto dos números reais e descrito pela equação matricial A∙X = B, em que A=(aij)m×m, B=(bi)m×1 e X = (xi)m×1 com 1≤i,j≤m, m∈N. Assinale o que for correto.\n01) Se A é a matriz definida por aij = {1, se i = j; 0, se i ≠ j}, então S não admite solução.\n02) Se A = (4 3 / -2 1) e B = (4 / -2), então o ponto P de coordenadas (1,0) é a interseção das retas determinadas pelas equações de S.\n04) Se A for uma matriz tal que det A = 0, então S é um sistema homogêneo.\n08) Se m = 3 e a2j = 0 para todo j, então S é um sistema possível e determinado.\n16) Se m=3 e A for a matriz diagonal em que aii = 3i – j e B = (2 / 4 / 6), então (1,1,1) é uma solução para S.",
+      principal: "Seja S um sistema linear definido no conjunto dos números reais e descrito pela equação matricial A∙X = B, em que A=(aij)m×m, B=(bi)m×1 e X = ($\\xi$)m×1 com 1≤i,j≤m, m∈N. Assinale o que for correto.\n01) Se A é a matriz definida por aij = {1, se i = j; 0, se i ≠ j}, então S não admite solução.\n02) Se A = (4 3 / -2 1) e B = (4 / -2), então o ponto P de coordenadas (1,0) é a interseção das retas determinadas pelas equações de S.\n04) Se A for uma matriz tal que det A = 0, então S é um sistema homogêneo.\n08) Se m = 3 e a2j = 0 para todo j, então S é um sistema possível e determinado.\n16) Se m=3 e A for a matriz diagonal em que aii = 3i – j e B = (2 / 4 / 6), então (1,1,1) é uma solução para S.",
       subItens: []
     },
     options: [
@@ -1336,7 +1336,7 @@ createQuestion({
       "Se m = 3 e a2j = 0 para todo j, então S é um sistema possível e determinado.",
       "Se m=3 e A for a matriz diagonal em que aii = 3i – j e B = (2 / 4 / 6), então (1,1,1) é uma solução para S."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Matrizes", "Sistemas Lineares"],
     imageNames: []
@@ -1347,17 +1347,17 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Em uma padaria há um cesto com 3 pães de 45g cada, 4 pães de 50g cada e 2 pães de 55g cada. São os únicos pães disponíveis para a venda em um determinado dia. Considere que, uma vez retirado um pão desse cesto, ele não pode ser devolvido a esse cesto. Assinale o que for correto.\n01) Comprando 3 pães aleatoriamente, a probabilidade de que o conjunto pese exatamente 150g é 1/3.\n02) Comprando 8 pães aleatoriamente, a probabilidade de que o conjunto pese exatamente 400g é 1/9.\n04) Retirando 2 pães do cesto, a probabilidade de que o segundo pese 55g é 16/81.\n08) Comprando 2 pães aleatoriamente, a probabilidade de que pelo menos um deles pese exatamente 50g é 13/18.\n16) Se no final do dia restou um único desses pães sem ser vendido, a probabilidade de que ele pese 55g é 2/9.",
+      principal: "Em uma padaria há um cesto com 3 pães de 45g cada, 4 pães de 50g cada e 2 pães de 55g cada. São os únicos pães disponíveis para a venda em um determinado dia. Considere que, uma vez retirado um pão desse cesto, ele não pode ser devolvido a esse cesto. Assinale o que for correto.\n01) Comprando 3 pães aleatoriamente, a probabilidade de que o conjunto pese exatamente 150g é $1/3$.\n02) Comprando 8 pães aleatoriamente, a probabilidade de que o conjunto pese exatamente 400g é $1/9$.\n04) Retirando 2 pães do cesto, a probabilidade de que o segundo pese 55g é $16/81$.\n08) Comprando 2 pães aleatoriamente, a probabilidade de que pelo menos um deles pese exatamente 50g é $13/18$.\n16) Se no final do dia restou um único desses pães sem ser vendido, a probabilidade de que ele pese 55g é $2/9$.",
       subItens: []
     },
     options: [
-      "Comprando 3 pães aleatoriamente, a probabilidade de que o conjunto pese exatamente 150g é 1/3.",
-      "Comprando 8 pães aleatoriamente, a probabilidade de que o conjunto pese exatamente 400g é 1/9.",
-      "Retirando 2 pães do cesto, a probabilidade de que o segundo pese 55g é 16/81.",
-      "Comprando 2 pães aleatoriamente, a probabilidade de que pelo menos um deles pese exatamente 50g é 13/18.",
-      "Se no final do dia restou um único desses pães sem ser vendido, a probabilidade de que ele pese 55g é 2/9."
+      "Comprando 3 pães aleatoriamente, a probabilidade de que o conjunto pese exatamente 150g é $1/3$.",
+      "Comprando 8 pães aleatoriamente, a probabilidade de que o conjunto pese exatamente 400g é $1/9$.",
+      "Retirando 2 pães do cesto, a probabilidade de que o segundo pese 55g é $16/81$.",
+      "Comprando 2 pães aleatoriamente, a probabilidade de que pelo menos um deles pese exatamente 50g é $13/18$.",
+      "Se no final do dia restou um único desses pães sem ser vendido, a probabilidade de que ele pese 55g é $2/9$."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Probabilidade", "Análise Combinatória"],
     imageNames: []
@@ -1378,7 +1378,7 @@ createQuestion({
       "O autor do texto critica a velocidade surpreendente da internet, que faz as histórias pessoais se espalharem rapidamente.",
       "O autor do texto é contra o ensino das ciências nas escolas e mostra-se favorável ao ensino da religião, que tem ocupado o papel da política."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão de Texto", "Leitura Crítica"],
     imageNames: []
@@ -1399,7 +1399,7 @@ createQuestion({
       "As expressões “antes” (linha 26) e “agora\" (linha 28) contrapõem dois momentos temporais.",
       "Em \"Ficou muito conhecido por questionar os preceitos positivistas da época\" (linhas 2-4), o sujeito é oculto."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Análise Sintática", "Morfologia"],
     imageNames: []
@@ -1420,7 +1420,7 @@ createQuestion({
       "A forma verbal “propagam” (linha 71) pode ser substituída, sem prejuízo de sentido, por aproximam.",
       "Em \"Portanto, não basta ensinar ciência” (linha 92), a forma verbal sublinhada está na forma infinitiva."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Verbos", "Classes de Palavras"],
     imageNames: []
@@ -1441,7 +1441,7 @@ createQuestion({
       "Em \"a necessidade de mostrar resultados pode comprometer a autonomia\" (linhas 60 e 61), o ponto de vista da autora não é expresso de modo categórico por conta do emprego da forma verbal “pode”.",
       "Na expressão “ainda mais\" (linha 100), se invertêssemos a ordem dos elementos, continuaríamos tendo uma expressão adverbial com valor semântico de intensidade."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Semântica", "Advérbios"],
     imageNames: []
@@ -1462,7 +1462,7 @@ createQuestion({
       "O vocábulo “ambas” (linha 80) é empregado no gênero feminino e no número plural, pois sua referência aponta para duas entidades do gênero gramatical feminino, a saber: \"religião” (linha 79) e “ciência” (linha 80).",
       "Em “É necessário que as pessoas percebam sua importância” (linhas 93 e 94), o possessivo “sua” faz referência a \"pessoas”, o que permite a seguinte paráfrase: É necessário que as pessoas percebam a importância de si mesmas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Classes de Palavras", "Coerência e Coesão"],
     imageNames: []
@@ -1483,7 +1483,7 @@ createQuestion({
       "A preposição “por” (linha 3) introduz o elemento agente da oração passiva “Ficou muito conhecido” (linhas 2 e 3).",
       "Em \"preocupação dos cientistas em se comunicar melhor\" (linhas 52 e 53), o vocábulo “se” é um pronome reflexivo que aponta para “cientistas\"."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Morfologia Verbal"],
     imageNames: []
@@ -1504,7 +1504,7 @@ createQuestion({
       "Segundo a pesquisa da Wellcome Global Monitor, os brasileiros confiam mais na religião do que na ciência, porque esta é realizada por uma maioria de pessoas que não professa religião alguma.",
       "De acordo com o texto, o combate à desinformação e aos boatos depende, exclusivamente, de uma recusa a todo saber e conhecimento que estejam fora da esfera científica."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Argumentação"],
     imageNames: []
@@ -1515,7 +1515,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Com base no texto abaixo e na produção poética de Álvares de Azevedo, assinale o que for correto.\nNamoro a cavalo\nEu moro em Catumbi. Mas a desgraça\nQue rege minha vida malfadada,\nPôs lá no fim da rua do Catete\nA minha Dulcinéia namorada.\n\nAlugo (três mil réis) por uma tarde\nUm cavalo de trote (que esparrela!)\nSó para erguer meus olhos suspirando\nÀ minha namorada na janela...\n\nTodo o meu ordenado vai-se em flores\nE em lindas folhas de papel bordado,\nOnde eu escrevo trêmulo, amoroso,\nAlgum verso bonito... mas furtado.\n\nMorro pela menina, junto dela\nNem ouso suspirar de acanhamento...\nSe ela quisesse eu acabava a história\nComo toda a Comédia em casamento...\n\nOntem tinha chovido... Que desgraça!\nEu ia a trote inglês ardendo em chama,\nMas lá vai senão quando uma carroça\nMinhas roupas tafuis encheu de lama...\n\nEu não desanimei. Se Dom Quixote\nNo Rossinante erguendo a larga espada\nNunca voltou de medo, eu, mais valente,\nFui mesmo sujo ver a namorada...\n\nMas eis que no passar pelo sobrado,\nOnde habita nas lojas minha bela,\nPor ver-me tão lodoso ela irritada\nBateu-me sobre as ventas a janela...\n\nO cavalo ignorante de namoros\nEntre dentes tomou a bofetada,\nArrepia-se, pula, e dá-me um tombo\nCom pernas para o ar, sobre a calçada...\n\nDei ao diabo os namoros. Escovado\nMeu chapéu que sofrera no pagode,\nDei de pernas corrido e cabisbaixo\nE berrando de raiva como um bode.\n\nCircunstância agravante. A calça inglesa\nRasgou-se no cair de meio a meio,\nO sangue pelas ventas me corria\nEm paga do amoroso devaneio!\n\n(AZEVEDO, A. de. Melhores poemas. Seleção Antonio Candido. São\nPaulo: Global, p. 79-81.)\n\nVocabulário\nmalfadado: desafortunado.\nesparrela: cilada, engano.\ntaful: traje velho.\nRossinante: nome do cavalo de D. Quixote.\n\n01) O poema apresenta características recorrentes na geração ultrarromântica, da qual o poeta Álvares de Azevedo é um dos mais importantes. A idealização do amor e o anseio pela relação amorosa, que mais cedo ou mais tarde sempre se concretizam, são algumas dessas marcas.\n02) Seguindo o padrão da poesia romântica, o eu lírico possui diversas virtudes que remetem ao perfil dos cavaleiros medievais, admirados por seus feitos ousados e sempre cobiçados pelas donzelas. O verso “Todo o meu ordenado vai-se em flores\" reitera a imagem do galã que não mede esforços para cativar seu amor, motivo pelo qual logo colherá seus frutos.\n04) O poema afasta-se das características recorrentes na poesia da segunda geração romântica, uma vez que rompe com a imagem do amor idealizado. A tentativa frustrada do galanteio amoroso, bem como as caracterizações do eu lírico fogem ao padrão romântico convencional, mais afetado, sentimental.\n08) O poema é composto por dez estrofes com a presença de rimas entre o segundo e o quarto versos de cada estrofe. As estrofes são compostas por versos brancos e versos rimados, de forma alternada.\n16) Álvares de Azevedo, poeta inserido na segunda geração da poesia romântica brasileira, é considerado o precursor da poesia simbolista no país ao trabalhar com versos brancos – que se definem pela ausência de regularidade métrica. O poema em questão, composto com versos eneassílabos, decassílabos e endecassílabos, é fecundo exemplo disso.",
+      principal: "Com base no texto abaixo e na produção poética de Álvares de Azevedo, assinale o que for correto.\nNamoro a cavalo\nEu moro em Catumbi. Mas a desgraça\nQue rege minha vida malfadada,\nPôs lá no fim da rua do Catete\nA minha Dulcinéia namorada.\n\nAlugo (três mil réis) por uma tarde\nUm cavalo de trote (que esparrela!)\nSó para erguer meus olhos suspirando\nÀ minha namorada na janela...\n\nTodo o meu ordenado vai-se em flores\nE em lindas folhas de papel bordado,\nOnde eu escrevo trêmulo, amoroso,\nAlgum verso bonito... mas furtado.\n\nMorro pela menina, junto dela\nNem ouso suspirar de acanhamento...\nSe ela quisesse eu acabava a história\nComo toda a Comédia em casamento...\n\nOntem tinha chovido... Que desgraça!\nEu ia a trote inglês ardendo em chama,\nMas lá vai $\\sin$ão quando uma carroça\nMinhas roupas tafuis encheu de lama...\n\nEu não desanimei. Se Dom Quixote\nNo Rossinante erguendo a larga espada\nNunca voltou de medo, eu, mais valente,\nFui mesmo sujo ver a namorada...\n\nMas eis que no passar pelo sobrado,\nOnde habita nas lojas minha bela,\nPor ver-me tão lodoso ela irritada\nBateu-me sobre as ventas a janela...\n\nO cavalo ignorante de namoros\nEntre dentes tomou a bofetada,\nArrepia-se, pula, e dá-me um tombo\nCom pernas para o ar, sobre a calçada...\n\nDei ao diabo os namoros. Escovado\nMeu chapéu que sofrera no pagode,\nDei de pernas corrido e cabisbaixo\nE berrando de raiva como um bode.\n\nCircunstância agravante. A calça inglesa\nRasgou-se no cair de meio a meio,\nO sangue pelas ventas me corria\nEm paga do amoroso devaneio!\n\n(AZEVEDO, A. de. Melhores poemas. Seleção Antonio Candido. São\nPaulo: Global, p. 79-81.)\n\nVocabulário\nmalfadado: desafortunado.\nesparrela: cilada, engano.\ntaful: traje velho.\nRossinante: nome do cavalo de D. Quixote.\n\n01) O poema apresenta características recorrentes na geração ultrarromântica, da qual o poeta Álvares de Azevedo é um dos mais importantes. A idealização do amor e o anseio pela relação amorosa, que mais cedo ou mais tarde sempre se concretizam, são algumas dessas marcas.\n02) Seguindo o padrão da poesia romântica, o eu lírico possui diversas virtudes que remetem ao perfil dos cavaleiros medievais, admirados por seus feitos ousados e sempre cobiçados pelas donzelas. O verso “Todo o meu ordenado vai-se em flores\" reitera a imagem do galã que não mede esforços para cativar seu amor, motivo pelo qual logo colherá seus frutos.\n04) O poema afasta-se das características recorrentes na poesia da segunda geração romântica, uma vez que rompe com a imagem do amor idealizado. A tentativa frustrada do galanteio amoroso, bem como as caracterizações do eu lírico fogem ao padrão romântico convencional, mais afetado, sentimental.\n08) O poema é composto por dez estrofes com a presença de rimas entre o segundo e o quarto versos de cada estrofe. As estrofes são compostas por versos brancos e versos rimados, de forma alternada.\n16) Álvares de Azevedo, poeta inserido na segunda geração da poesia romântica brasileira, é considerado o precursor da poesia simbolista no país ao trabalhar com versos brancos – que se definem pela ausência de regularidade métrica. O poema em questão, composto com versos eneassílabos, decassílabos e endecassílabos, é fecundo exemplo disso.",
       subItens: []
     },
     options: [
@@ -1525,7 +1525,7 @@ createQuestion({
       "O poema é composto por dez estrofes com a presença de rimas entre o segundo e o quarto versos de cada estrofe. As estrofes são compostas por versos brancos e versos rimados, de forma alternada.",
       "Álvares de Azevedo, poeta inserido na segunda geração da poesia romântica brasileira, é considerado o precursor da poesia simbolista no país ao trabalhar com versos brancos – que se definem pela ausência de regularidade métrica. O poema em questão, composto com versos eneassílabos, decassílabos e endecassílabos, é fecundo exemplo disso."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira", "Romantismo", "Álvares de Azevedo"],
     imageNames: []
@@ -1546,7 +1546,7 @@ createQuestion({
       "O romance é considerado um exemplar do empenho em criar uma literatura nacional, uma vez que consiste em uma representação da realidade brasileira de meados do século XIX, registrando, por meio de uma perspectiva crítica, costumes, valores e fatos históricos, como a epidemia de febre amarela.",
       "Lúcia, personagem plana, cujo nome verdadeiro é Ana da Glória, é atormentada pelo sentimento de culpa por ter se tornado cortesã, ainda que por força das circunstâncias. Não podendo oferecer um filho a Paulo, é abandonada por ele e só encontra alívio na morte (desfecho comum no Romantismo)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira", "José de Alencar", "Romantismo Urbano"],
     imageNames: []
@@ -1567,7 +1567,7 @@ createQuestion({
       "O culto do panteísmo e o rigor formal, aliados a expressões como \"as cítaras ferindo\", \"Dos etéreos\" e \"cânticos alados\", revelam um retorno aos ideais clássicos e certa similaridade com a estética parnasiana, especialmente no que se refere às características de impassibilidade e de racionalidade.",
       "Os efeitos cromáticos, evidenciados principalmente nas cores azul e branca, e a utilização de vocabulário religioso, recorrente na estética simbolista (\"cortejo\", \"turíbulos\", \"arcanjos\"), acentuam o clima nebuloso, de mistério e de transcendência do poema."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira", "Simbolismo", "Cruz e Sousa"],
     imageNames: []
@@ -1588,7 +1588,7 @@ createQuestion({
       "Just one story does not happen at school.",
       "All books present young protagonists."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -1609,7 +1609,7 @@ createQuestion({
       "In They wish they were us the protagonist suspects of the wrong person.",
       "You should see me in a crown discusses problems on paying for education."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -1630,7 +1630,7 @@ createQuestion({
       "The words “means” (line 31), “meets\" (line 32) and \"secrets\" (line 34) are all plural forms.",
       "The verb \"might” (line 43) indicates a possibility."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Classes de Palavras"],
     imageNames: []
@@ -1651,7 +1651,7 @@ createQuestion({
       "Liz, no livro You should see me in a crown, procura outros recursos e meios para continuar estudando.",
       "No livro You should see me in a crown, Liz vence a competição da sua escola e ganha a coroa."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -1672,7 +1672,7 @@ createQuestion({
       "Os verbos \"killing\" (linha 15) e “winning\" (linha 42) seguem a mesma regra para o acréscimo do gerúndio -ing.",
       "Os pronomes “them” (linha 9) e “its” (linha 38) referem-se a \"books\" (linha 7) e “school” (linha 38), respectivamente."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Verbos", "Pronomes"],
     imageNames: []
@@ -1693,7 +1693,7 @@ createQuestion({
       "Dança-teatro é uma expressão artística que utiliza recursos inspirados em artes cênicas, além de elementos musicais; combina a expressão corporal da dança com oralidade e expressões teatrais.",
       "Encontramos manifestações artísticas que utilizam mais de uma linguagem também nas culturas indígenas. O Da-nho’re é uma manifestação coletiva (da tribo Xavante, no Brasil), que combina o canto e a dança."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Manifestações Artísticas"],
     imageNames: []
@@ -1714,7 +1714,7 @@ createQuestion({
       "Immanuel Kant critica a metafísica clássica e afirma que não é possível provar a existência de Deus como ente real e nem mesmo a existência das coisas como são em si mesmas, pois tudo o que podemos conhecer são os objetos dados a nós no espaço e no tempo por meio da sensibilidade.",
       "Martin Heidegger afirma que fenômenos sobrenaturais não podem ser explicados cientificamente, mas podem ser conhecidos como efeitos de causas reais, os seres espirituais \"ônticos”."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Metafísica"],
     imageNames: []
@@ -1735,7 +1735,7 @@ createQuestion({
       "A Frente Agrária Paranaense (FAP) foi uma organização criada pela Igreja Católica na década de 1960, para combater a influência e a disseminação do ideário comunista no movimento dos trabalhadores rurais.",
       "A alta lucratividade da cafeicultura paranaense, na década de 1970, impediu o desenvolvimento da cultura de soja, uma vez que atraiu um baixo interesse dos grandes proprietários rurais em cultivá-la e nela investir recursos financeiros."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História Regional do Paraná"],
     imageNames: []
@@ -1756,7 +1756,7 @@ createQuestion({
       "Os fluxos da economia mundial baseada na nova Divisão Internacional do Trabalho intensificaram o deslocamento de indústrias que utilizam grande quantidade de mão de obra para países desenvolvidos e, consequentemente, o fluxo de trabalhadores para essas áreas aumentou significativamente.",
       "Como resultado do avanço tecnológico nas telecomunicações e na informática, o dinheiro tornou-se eletrônico, desmaterializado, virtual, e transformou-se em mais uma informação; seu fluxo ganhou mobilidade por meio de linhas e torres de transmissão, cabos oceânicos e satélites artificiais."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Globalização"],
     imageNames: []
@@ -1777,7 +1777,7 @@ createQuestion({
       "A busca por custos operacionais mais baixos, por maior produtividade e por maiores lucros, levou as empresas a adotarem a fragmentação do processo produtivo industrial, passando a dividir as etapas de produção e a montagem entre diferentes filiais espalhadas pelo mundo.",
       "As empresas transnacionais que atuam no setor de indústrias de alta tecnologia, devido à rápida obsolescência das máquinas industriais impostas pela Revolução 4.0 e à necessidade de grandes investimentos, localizam-se apenas em países mais desenvolvidos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Capitalismo e Reorganização Espacial"],
     imageNames: []
@@ -1798,7 +1798,7 @@ createQuestion({
       "Maringá é uma metrópole, pois apresenta uma capacidade de polarizar uma série de municípios interligados pela expansão periférica de sua malha urbana e pela integração socioeconômica comandada pela forte industrialização.",
       "São Paulo é uma metrópole nacional e também é considerada uma cidade global por estar fortemente integrada aos fluxos mundiais. Atualmente, a metrópole paulista se refuncionaliza pela sua capacidade de concentrar atividades de produção, coleta, classificação e redistribuição de informações."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Espaço Urbano Brasileiro"],
     imageNames: []
@@ -1819,7 +1819,7 @@ createQuestion({
       "Os aspectos geográficos são definitivos na elaboração das culturas.",
       "A transmissão dos valores culturais ocorre por meios biológicos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Cultura"],
     imageNames: []
@@ -1840,7 +1840,7 @@ createQuestion({
       "O ciclo da matéria nos ecossistemas envolve organismos como os fungos e as bactérias, que realizam a decomposição e a mineralização de compostos orgânicos.",
       "O nitrogênio, o carbono, o fósforo e a água são elementos minerais relacionados com a matéria e a energia; esses elementos circulam nos meios terrestres, aquáticos e atmosféricos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ecologia e Ciclos Biogeoquímicos"],
     imageNames: []
@@ -1861,7 +1861,7 @@ createQuestion({
       "A radiação laser, muito utilizada em processos cirúrgicos, tem frequências maiores que a radiação gama e, dessa forma, possui baixa intensidade e pequena energia por unidade de área.",
       "Nas ondas eletromagnéticas, quanto maior a frequência da onda, maior é o comprimento de onda."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física", "Biologia"],
     conteudo: ["Ondas Eletromagnéticas", "Fotossíntese"],
     imageNames: []
@@ -1882,7 +1882,7 @@ createQuestion({
       "O processo de especiação alopátrica é o único responsável pela formação de novas espécies.",
       "Em determinado momento do período considerado, a frequência de plantas com e sem espinhos nas folhas foi igual."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia", "Matemática"],
     conteudo: ["Evolução e Especiação", "Funções e Gráficos"],
     imageNames: []
@@ -1903,7 +1903,7 @@ createQuestion({
       "As chuvas ácidas são provenientes da reação entre a água da atmosfera e os gases dióxido de nitrogênio e dióxido de enxofre, liberados pela queima de combustíveis fósseis.",
       "Além da eutrofização, decorrente do aumento de nutrientes, especialmente fosfatos e nitratos, o lançamento de esgotos domésticos na água de rios e lagos acarreta a propagação de doenças causadas por bactérias e vírus."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Química Ambiental", "Ciclos Biogeoquímicos"],
     imageNames: []
@@ -1924,7 +1924,7 @@ createQuestion({
       "A energia dissipada por efeito Joule na associação de resistores Sé duas vezes maior que a dissipada na associação de resistores P.",
       "A potência elétrica dissipada em cada resistor das associações de resistores S e Pé de, respectivamente, 3W e 24W."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Eletrodinâmica", "Circuitos Elétricos"],
     imageNames: []
@@ -1945,7 +1945,7 @@ createQuestion({
       "A direção do vetor indução magnética não se altera quando invertemos o sentido da corrente no fio condutor.",
       "Se posicionarmos um segundo fio condutor reto e extenso, percorrido por uma corrente elétrica de mesma intensidade e mesmo sentido que no condutor descrito no enunciado (caput), mas agora interceptando perpendicularmente o plano cartesiano no ponto (1,-1), então o vetor indução magnética no ponto (1,0), resultante da combinação dos dois condutores, terá o dobro da intensidade em relação à situação com apenas o fio descrito no enunciado (caput)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física", "Matemática"],
     conteudo: ["Eletromagnetismo", "Geometria Analítica"],
     imageNames: []
@@ -1966,7 +1966,7 @@ createQuestion({
       "Para uma mesma área de secção transversal, quanto maior for o comprimento de um condutor ôhmico, maior será sua resistência elétrica.",
       "No Sistema Internacional de Unidades (S.I.) as unidades de resistência, de corrente e de tensão elétricas são, respectivamente, Ohm, Ampère e Volt."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Eletrodinâmica"],
     imageNames: []
@@ -1987,7 +1987,7 @@ createQuestion({
       "O aparelho utilizado para medir a corrente elétrica que passa pelo sistema em um determinado instante de tempo é o amperímetro.",
       "A carga de 1F é suficiente para depositar 58,7g de Ni(s) em uma peça."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Eletroquímica"],
     imageNames: []
@@ -2002,13 +2002,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "O aciclovir possui 3 ligações pi.",
+      "O aciclovir possui 3 ligações $\\pi$.",
       "O átomo de carbono 2 possui hibridização sp².",
       "Na cadeia acíclica todos os carbonos são secundários.",
       "As funções orgânicas presentes na estrutura são amina, álcool e cetona.",
       "A oxidação parcial da cadeia acíclica leva à formação de um aldeído."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Funções Orgânicas"],
     imageNames: []
@@ -2029,7 +2029,7 @@ createQuestion({
       "Toda pirâmide regular é um exemplo para a representação geométrica das fórmulas estruturais desses isômeros.",
       "Na representação geométrica das fórmulas estruturais desses isômeros os vértices são ocupados pelos quatro grupos ligantes."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Estereoisomeria", "Geometria Molecular"],
     imageNames: []
@@ -2040,7 +2040,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Um químico precisava determinar a presença de alguns elementos tóxicos em um efluente industrial (pH neutro) proveniente de uma indústria metalúrgica. Para tal, em um recipiente cilíndrico de 6cm de diâmetro e 10cm de altura ele coletou a amostra (até a borda), lacrou e levou para o laboratório. No laboratório a amostra foi dividida em alguns tubos de ensaio para os testes. De posse de duas soluções (HCl e NaOH, ambas a 1,0mol/L), e de uma tabela de produtos de solubilidade, ele fez alguns testes, cujos resultados estão plotados no quadro a seguir. De acordo com as informações dadas, assinale o que for correto.\n[Tabela de Kps, Adição de HCl, Adição de NaOH para PbCl2, CrCl3, AgCl, NiCl2, CdCl2, Cd(OH)2, Ni(OH)2, AgOH, Cr(OH)3]",
+      principal: "Um químico precisava determinar a presença de alguns elementos tóxicos em um efluente industrial (pH neutro) proveniente de uma indústria metalúrgica. Para tal, em um recipiente cilíndrico de 6cm de diâmetro e 10cm de altura ele coletou a amostra (até a borda), lacrou e levou para o laboratório. No laboratório a amostra foi dividida em alguns tubos de ensaio para os testes. De posse de duas soluções (HCl e NaOH, ambas a 1,$0mol/L$), e de uma tabela de produtos de solubilidade, ele fez alguns testes, cujos resultados estão plotados no quadro a seguir. De acordo com as informações dadas, assinale o que for correto.\n[Tabela de Kps, Adição de HCl, Adição de NaOH para PbCl2, CrCl3, AgCl, NiCl2, CdCl2, Cd(OH)2, Ni(OH)2, AgOH, Cr(OH)3]",
       subItens: []
     },
     options: [
@@ -2050,7 +2050,7 @@ createQuestion({
       "Apenas pela adição de NaOH às amostras pode-se verificar com certeza a presença de Cd, Ni, Ag e Cr na solução de efluente.",
       "O pH da solução de efluente foi alterado pela adição de HCl e NaOH, obtendo-se valores maiores e menores que 7, respectivamente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Solubilidade", "pH", "Precipitação"],
     imageNames: []
@@ -2061,7 +2061,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Sejam p₁(x) = x² + bx2 + cx + d um polinômio de grau 3 e p2(x) um polinômio de grau 2, ambos com coeficientes reais. Sabe-se que a₁ =1e_a₂ = −2_são raízes de p₁(x) e que as raízes de p₂(x) são todas complexas e não reais, denotando por a uma terceira raiz de p₁ (x). Assinale o que for correto.",
+      principal: "Sejam p₁(x) = x² + bx2 + cx + d um polinômio de grau 3 e p2(x) um polinômio de grau 2, ambos com coeficientes reais. Sabe-se que a₁ =$1e_a$₂ = −$2_s$ão raízes de p₁(x) e que as raízes de p₂(x) são todas complexas e não reais, denotando por a uma terceira raiz de p₁ (x). Assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -2071,7 +2071,7 @@ createQuestion({
       "É possível dividir p₁(x) por p₂(x) com resto zero.",
       "O polinômio produto p₁(x) p2(x) possui somente duas raízes reais."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Polinômios", "Raízes de Polinômios"],
     imageNames: []
@@ -2090,9 +2090,9 @@ createQuestion({
       "Segundo os autores, a dinâmica das atividades dos criminosos foi afetada na pandemia, e pode-se observar uma diminuição nos crimes patrimoniais e nos crimes relacionados ao comércio de drogas.",
       "Conforme os autores, houve redução nas ações ilícitas alheias ao espaço urbano, aquelas que se dão no ambiente a que todos se recolhem em seus refúgios virtuais da pandemia: o ambiente cibernético.",
       "De acordo com os autores, a grande novidade nos tempos da pandemia é a ameaça dos cibercrimes.",
-      "Os autores assinalam que as ações ilícitas no ambiente cibernético são todos os tipos penais que podem ser praticados por meio virtual, principalmente o estelionato, além dos previstos na Lei n.º 12.737/2012."
+      "Os autores assinalam que as ações ilícitas no ambiente cibernético são todos os tipos penais que podem ser praticados por meio virtual, principalmente o estelionato, além dos previstos na Lei n.º 12.$737/2012$."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -2113,7 +2113,7 @@ createQuestion({
       "Em “é indiscutível que o contexto atual torna a situação ainda mais delicada.",
       "Em \"Cibercriminosos também estão confinados em isolamento social, e organizações criminosas estão sofrendo com a diminuição de receitas ilícitas\" (linhas 120-123), as orações são coordenadas sindéticas alternativas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Semântica"],
     imageNames: []
@@ -2134,7 +2134,7 @@ createQuestion({
       "Em \"todos se recolhem em seus refúgios virtuais da pandemia: o ambiente cibernético.” (linhas 24-26), os dois pontos servem para esclarecer um fato.",
       "Em \"Essas vulnerabilidades merecem especial atenção quando se tem em conta que, de acordo com dados do Senado Federal, o Brasil é o segundo país do mundo\" (linhas 73-75), as vírgulas separam uma oração subordinada adverbial comparativa."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Pontuação"],
     imageNames: []
@@ -2155,7 +2155,7 @@ createQuestion({
       "O acento indicativo de crase em “à” (linha 52) se justifica em razão da contração fonética entre a preposição “a” e o artigo definido feminino que antecede “segurança” (linha 52).",
       "O advérbio “aí” (linha 60) não se refere a um espaço físico, mas sim à situação de se confundir o ambiente virtual da empresa com o espaço privado dos funcionários."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Sintaxe", "Semântica"],
     imageNames: []
@@ -2176,7 +2176,7 @@ createQuestion({
       "Se, na linha 112, tivéssemos adotar em vez de “adoção”, haveria uma mudança sintática de regência, culminando na eliminação da preposição “de”, que precede “protocolos\" (linha 112).",
       "Tanto na linha 41 quanto na linha 88, o vocábulo “que” classifica-se como pronome relativo, já que, nos dois casos, retoma elementos textuais já mencionados."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Semântica", "Sintaxe"],
     imageNames: []
@@ -2197,7 +2197,7 @@ createQuestion({
       "Em \"Viagem a Petrópolis\", uma senhora idosa, cujo apelido era Mocinha, sofre ao experimentar a rejeição, o isolamento, o abandono e a solidão. Durante a viagem, rememora seu passado, comparando os tempos de sua juventude com a velhice. No desfecho do conto, recupera a alegria de viver, após reencontrar seus filhos.",
       "Em \"A solução”, o estado emocional de Almira mostra-se instável. A personagem procura agradar sua colega de trabalho, mas só recebe indiferença. No refeitório, ao ser chamada de \"gorda\", Almira fere o pescoço de Alice e acaba na prisão."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira"],
     imageNames: []
@@ -2208,7 +2208,7 @@ createQuestion({
     university: "uem",
     year: 2020,
     text: {
-      principal: "Com base no poema a seguir e na produção poética de Manuel Bandeira, assinale o que for correto.\nCéu\nA criança olha\nPara o céu azul.\nLevanta a mãozinha.\nQuer tocar o céu.\nNão sente a criança\nQue o céu é ilusão:\nCrê que o não alcança,\nQuando o tem na mão.\n(BANDEIRA, M. Melhores poemas. Seleção Francisco de Assis Barbosa. São Paulo: Global/Gaia, 2008, p. 136).",
+      principal: "Com base no poema a seguir e na produção poética de Manuel Bandeira, assinale o que for correto.\nCéu\nA criança olha\nPara o céu azul.\nLevanta a mãozinha.\nQuer tocar o céu.\nNão sente a criança\nQue o céu é ilusão:\nCrê que o não alcança,\nQuando o tem na mão.\n(BANDEIRA, M. Melhores poemas. Seleção Francisco de Assis Barbosa. São Paulo: $Global/Gaia$, 2008, p. 136).",
       subItens: []
     },
     options: [
@@ -2218,7 +2218,7 @@ createQuestion({
       "O poema, aparentemente singelo, possui como traço central o pessimismo. Na perspectiva do eu lírico, a vida é encarada como uma caminhada dolorida, e ser criança torna-se algo negativo, devido a todo o sofrimento futuro a ser vivenciado, estando a felicidade presente apenas em instantes ilusórios. Os versos “Não sente a criança / Que o céu é ilusão” mostram essa perspectiva e remetem à ingenuidade da percepção infantil.",
       "O texto estrutura-se com duas quadras, compostas por versos classificados como redondilhas menores, gerando expressivo efeito de musicalidade. Esse aspecto se alinha a formas de expressão da cultura popular, como ocorre nas cantigas de roda, recorrentes no universo infantil. Evidencia-se, assim, uma correspondência entre conteúdo e forma."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira", "Análise Poética"],
     imageNames: []
@@ -2239,7 +2239,7 @@ createQuestion({
       "The words \"social\" (line 22) and \"heavily\" (line 29) are both adverbs.",
       "The pronoun “they” (line 13) refers to the “Teens” (line 10)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática"],
     imageNames: []
@@ -2260,7 +2260,7 @@ createQuestion({
       "James Steyer says the findings of the survey cause worries about what kind of news influence teens' decisions.",
       "19% of teens say they rely on alternative sources and on media plataforms like Instagram, Facebook and Youtube."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -2281,7 +2281,7 @@ createQuestion({
       "The word \"news” (line 27) is an example of an uncountable noun.",
       "The adjective “current” (line 25) means present."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário", "Gramática"],
     imageNames: []
@@ -2302,7 +2302,7 @@ createQuestion({
       "A radiação laser, muito utilizada em processos cirúrgicos, tem frequências maiores que a radiação gama e, dessa forma, possui baixa intensidade e pequena energia por unidade de área.",
       "Nas ondas eletromagnéticas, quanto maior a frequência da onda, maior é o comprimento de onda."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Análise de Texto", "Vocabulário"],
     imageNames: []
@@ -2323,7 +2323,7 @@ createQuestion({
       "As populações de diferentes espécies de plantas, animais e líquens constituem a comunidade dessa ilha.",
       "A competição por recursos alimentares entre insetos herbívoros e insetos carnívoros é uma interação que favorece o processo de sucessão ecológica na ilha."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ecologia e Sucessão Ecológica"],
     imageNames: []
@@ -2344,7 +2344,7 @@ createQuestion({
       "De acordo com a primeira lei de Mendel, cada característica hereditária é determinada por dois fatores, um herdado do genitor materno, e outro, do genitor paterno. Os fatores de cada par se separam na produção de gametas.",
       "Os fatores para duas ou mais características se segregam no híbrido, distribuindo-se independentemente para OS gametas, onde se combinam ao acaso. Essa frase enuncia a segunda lei de Mendel."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Genética e Leis de Mendel"],
     imageNames: []
@@ -2365,7 +2365,7 @@ createQuestion({
       "A caracterização evolutiva de órgãos análogos se dá exclusivamente pela análise comparativa de fósseis e pela morfologia das espécies atuais.",
       "Órgãos vestigiais são exemplos de órgãos análogos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Evolução"],
     imageNames: []
@@ -2386,7 +2386,7 @@ createQuestion({
       "Ocorre competição entre os macacos-prego e as piraputangas, pois ambos utilizam o mesmo recurso alimentar.",
       "Ao se alimentarem de frutos e dispersarem as sementes os macacos-prego estabelecem relação de mutualismo com as espécies vegetais."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ecologia e Biomas Brasileiros"],
     imageNames: []
@@ -2407,7 +2407,7 @@ createQuestion({
       "Os genes responsáveis pela hemofilia estão localizados no cromossomo Y humano, caracterizando a transmissão dessa doença como herança ligada ao sexo.",
       "Nos mamíferos o gene SRY localiza-se nos autossomos."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Genética e Cromossomos Sexuais"],
     imageNames: []
@@ -2428,7 +2428,7 @@ createQuestion({
       "Em uma reação em que o AH é de +50kJ, o aumento de temperatura deslocará o equilíbrio no sentido da maior formação de produtos.",
       "Um catalisador acelera a reação química, mas não aumenta seu rendimento."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Equilíbrio Químico"],
     imageNames: []
@@ -2449,7 +2449,7 @@ createQuestion({
       "Ocorre alteração do número de oxidação do cloro nas duas etapas.",
       "A substância reveladora recebe elétrons dos átomos de cloro."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Reações de Oxirredução"],
     imageNames: []
@@ -2470,7 +2470,7 @@ createQuestion({
       "A reação do ortocresol com cloro (Cl2) na presença de luz fornece o produto de halogenação do grupo metila.",
       "Os cresóis possuem um grupo ativante e um grupo desativante, ligados ao anel benzênico."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Funções Orgânicas", "Isomeria"],
     imageNames: []
@@ -2491,7 +2491,7 @@ createQuestion({
       "A reação química do triptofano com HCl leva à formação de um sal.",
       "O aumento da quantidade da enzima E3 desloca o equilíbrio para a formação da melatonina."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Reações Orgânicas", "Bioquímica"],
     imageNames: []
@@ -2512,7 +2512,7 @@ createQuestion({
       "Os ácidos carboxílicos utilizados na preparação dos ésteres de maçã e abacaxi possuem a mesma solubilidade em água.",
       "Os ésteres com odores de abacaxi e maçã são isômeros."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Ésteres"],
     imageNames: []

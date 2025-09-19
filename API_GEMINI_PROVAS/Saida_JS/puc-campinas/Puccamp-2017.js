@@ -29,8 +29,8 @@ createQuestion({
     },
     options: [
       "(parágrafo 1) e aliás está munido de um celular que The coloca o mundo nas mãos a qualquer momen-to / ideia que reforça a dificuldade do cronista em atualizar o interesse em um velho tema: o leitor de jornal ou de revista já dispõe de acesso, e mais rá-pido, a um determinado assunto do que uma crônica sobre o mesmo tema poderia possibilitar.",
-      "(parágrafo 2) Lá vai o cronista caçar assunto no computador/frase em que a ironia é arma de ata-que a cronistas sem assunto que buscam facilitar seu trabalho utilizando informações organizadas por empresa estrangeira que desconhece a cultura bra-sileira.",
-      "(parágrafo 3) O velho bifinho da tia ou o saudoso pi-cadinho da vovó, receitas domésticas guardadas no segredo das bocas, viraram nomes estrangeiros, sob molhos complicados, de apelido francês/frase que exprime, por meio da exploração do risível nas for-mas diminutivas, que dificilmente seremos um país povoado [...] por chefs de cuisine.",
+      "(parágrafo 2) Lá vai o cronista caçar assunto no $computador/frase$ em que a ironia é arma de ata-que a cronistas sem assunto que buscam facilitar seu trabalho utilizando informações organizadas por empresa estrangeira que desconhece a cultura bra-sileira.",
+      "(parágrafo 3) O velho bifinho da tia ou o saudoso $\\pi$-cadinho da vovó, receitas domésticas guardadas no segredo das bocas, viraram nomes estrangeiros, sob molhos complicados, de apelido francê$s/frase$ que exprime, por meio da exploração do risível nas for-mas diminutivas, que dificilmente seremos um país povoado [...] por chefs de cuisine.",
       "(parágrafo 4) Que sentido mesmo tiveram a aboli-ção da escravatura e a proclamação da Repúbli-ca?/indagação que evidencia que o campo da edu-cação, no Brasil, é frágil, visto que episódios histó-ricos relevantes nem mesmo são bem compreen-didos por grande parte do público brasileiro, o que dificulta a escolha de temas pelo cronista.",
       "(parágrafo 7) O mesmo ocorre com o material das fi-tas, dos CDs e DVDs: o mundo digital armazena tu-do e propaga tudo instantaneamente / afirmação pela qual se defende que a transitoriedade, que atin-girá o papel como suporte de comunicação, também atingirá o mundo digital, o que justifica a previsão do apocalipse profissional do cronista."
     ],
@@ -301,7 +301,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "intenção moralizante da narrativa, de modo a garantir a boa formação do leitor/cidadão.",
+      "intenção moralizante da narrativa, de modo a garantir a boa formação do $leitor/cidad$ão.",
       "exploração de um tema de interesse geral colhido entre experiências da vida comum.",
       "multiplicação dos mais variados estilos num mesmo texto pedagógico.",
       "investimento no caráter experimental e de vanguar-da da linguagem literária.",
@@ -451,7 +451,7 @@ createQuestion({
       "4+6√5.",
       "8.",
       "12√2+4.",
-      "16/3",
+      "$16/3$",
       "12√2-8."
     ],
     correctAnswer: 0,
@@ -490,11 +490,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2/9",
-      "2/11",
-      "3/11",
-      "1/3",
-      "1/5"
+      "$2/9$",
+      "$2/11$",
+      "$3/11$",
+      "$1/3$",
+      "$1/5$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -595,7 +595,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "as extensas depressões que ocupam 2/3 da área to-tal recortadas por rios e densa vegetação tropófita nas áreas de várzeas.",
+      "as extensas depressões que ocupam $2/3$ da área to-tal recortadas por rios e densa vegetação tropófita nas áreas de várzeas.",
       "a presença de planaltos cristalinos que sustentam densa vegetação tropófita adaptada ao clima com duas estações distintas.",
       "o predomínio de terras baixas recobertas de vege-tação latifoliada e grandes extensões de solos de baixa fertilidade.",
       "o predomínio da planície fluvial onde ocorrem solos arenosos e pobres cobertos por vegetação perene e higrófita.",
@@ -843,7 +843,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2017,
     text: {
-      principal: "Um chef de cuisine precisa transformar 10 g de gelo a 0 °C em água a 40 °C em 10 minutos. Para isto utiliza uma resistência elétrica percorrida por uma corrente elétrica que fornecerá calor para o gelo. Suppondo-se que todo calor fornecido pela resistência seja absorvido pelo gelo e desprezando-se perdas de calor para o meio ambiente e para o frasco que contém o gelo, a potência desta resistência deve ser, em watts, no mínimo, igual a:\nDados da água:\nCalor específico no estado sólido: 0,50cal/g°C\nCalor específico no estado líquido: 1,0 cal/g°C\nCalor latente de fusão do gelo: 80cal/g\nAdote 1 cal = 4 J",
+      principal: "Um chef de cuisine precisa transformar 10 g de gelo a 0 °C em água a 40 °C em 10 minutos. Para isto utiliza uma resistência elétrica percorrida por uma corrente elétrica que fornecerá calor para o gelo. Suppondo-se que todo calor fornecido pela resistência seja absorvido pelo gelo e desprezando-se perdas de calor para o meio ambiente e para o frasco que contém o gelo, a potência desta resistência deve ser, em watts, no mínimo, igual a:\nDados da água:\nCalor específico no estado sólido: 0,$50cal/g$°C\nCalor específico no estado líquido: 1,0 $cal/g$°C\nCalor latente de fusão do gelo: $80cal/g$\nAdote 1 cal = 4 J",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2017,
     text: {
-      principal: "Na formação escolar é comum tratarmos de problemas ideais, como lançamentos verticais de objetos nos quais se despreza a resistência do ar. Mas podemos também abordar um problema destes sem esta simplificação.\nUm objeto é lançado verticalmente pra cima, a partir do solo, com velocidade 20 m/s. Na subida este objeto sofre uma perda de 15% em sua energia mecânica devido às forças dissipativas.\nAdotando-se g = 10 m/s², a altura máxima que será atingi-da por este objeto em relação ao solo será, em metros, de:",
+      principal: "Na formação escolar é comum tratarmos de problemas ideais, como lançamentos verticais de objetos nos quais se despreza a resistência do ar. Mas podemos também abordar um problema destes sem esta simplificação.\nUm objeto é lançado verticalmente pra cima, a partir do solo, com velocidade 20 $m/s$. Na subida este objeto sofre uma perda de 15% em sua energia mecânica devido às forças dissipativas.\nAdotando-se g = 10 $m/s$², a altura máxima que será atingi-da por este objeto em relação ao solo será, em metros, de:",
       subItens: []
     },
     options: [

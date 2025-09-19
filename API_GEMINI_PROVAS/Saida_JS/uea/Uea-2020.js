@@ -171,7 +171,7 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric Gaillard/Reuters)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nDe acordo com o primeiro parágrafo, na Inglaterra, canudos e mexedores de plástico para bebidas, além de cotonetes com hastes de plástico,",
+      principal: "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric $Gaillard/Reuters$)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nDe acordo com o primeiro parágrafo, na Inglaterra, canudos e mexedores de plástico para bebidas, além de cotonetes com hastes de plástico,",
       subItens: []
     },
     options: [
@@ -192,7 +192,7 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric Gaillard/Reuters)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nDe acordo com o texto, o objetivo da medida do governo inglês é",
+      principal: "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric $Gaillard/Reuters$)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nDe acordo com o texto, o objetivo da medida do governo inglês é",
       subItens: []
     },
     options: [
@@ -213,7 +213,7 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric Gaillard/Reuters)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nNo trecho do segundo parágrafo \"Huge numbers of these items\", a expressão sublinhada refere-se a:",
+      principal: "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric $Gaillard/Reuters$)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nNo trecho do segundo parágrafo \"Huge numbers of these items\", a expressão sublinhada refere-se a:",
       subItens: []
     },
     options: [
@@ -234,7 +234,7 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric Gaillard/Reuters)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nDe acordo com o terceiro parágrafo, a melhor alternativa ao uso de canudos plásticos é",
+      principal: "Leia o texto para responder às questões de 09 a 12.\n\nPlastic straws, cotton buds and drink stirrers to be banned in England\n\n(Imagem: Fotografia de canudos e hastes plásticas empilhados, de Eric $Gaillard/Reuters$)\n\nPlastic straws and drink stirrers, and cotton buds with plastic stems will be banned from sale and use in England from next April, the government has confirmed. The move, which has been in the offing for more than a year, is hoped to vastly reduce the litter and other environmental impacts of the nearly 5 billion plastic straws currently used each year in England, along with more than 300 million plastic stirrers and close to 2 billion cotton buds with plastic stems.\n\nHuge numbers of these items, particularly cotton buds, are flushed down toilets or otherwise end up in litter – surveys have recently found waterways across the UK full of plastic, putting wildlife at risk.\n\nAlternatives are available, including serving drinks without straws or stirrers, which is preferable, or using paper straws and biodegradable products in place of plastic stirrers and cotton buds. The only exceptions to the new rule will be for people with a medical need or disability, for whom plastic straws and other materials will be available upon request.\n\n(Fiona Harvey. www.theguardian.com, 22.05.2019. Adaptado.)\n\nDe acordo com o terceiro parágrafo, a melhor alternativa ao uso de canudos plásticos é",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "Examine a tabela.\n\n(Tabela: Carga orgânica doméstica remanescente da Região Hidrográfica do Amazonas, com unidades hidrográficas e suas respectivas cargas de esgoto doméstico em t DBO/dia.)\n\n(www.agg.ufba.br, 2002. Adaptado.)\n\n¹ toneladas de esgoto doméstico lançadas por dia.\n\nA poluição por esgoto doméstico lançado diariamente nos rios amazônicos ocorre de forma",
+      principal: "Examine a tabela.\n\n(Tabela: Carga orgânica doméstica remanescente da Região Hidrográfica do Amazonas, com unidades hidrográficas e suas respectivas cargas de esgoto doméstico em t $DBO/dia$.)\n\n(www.agg.ufba.br, 2002. Adaptado.)\n\n¹ toneladas de esgoto doméstico lançadas por dia.\n\nA poluição por esgoto doméstico lançado diariamente nos rios amazônicos ocorre de forma",
       subItens: []
     },
     options: [
@@ -763,11 +763,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2/5",
-      "2/3",
-      "3/4",
-      "3/2",
-      "5/2"
+      "$2/5$",
+      "$2/3$",
+      "$3/4$",
+      "$3/2$",
+      "$5/2$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -906,7 +906,7 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "Considere o gráfico da função f(x) = sen(4x) / 4. No intervalo fechado [0, 2π], o número de vezes que o gráfico de f intersecta o eixo x é",
+      principal: "Considere o gráfico da função f(x) = $\\sin$(4x) / 4. No intervalo fechado [0, 2π], o número de vezes que o gráfico de f intersecta o eixo x é",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "O gráfico representa as velocidades de um objeto que se desloca ao longo de uma trajetória retilínea.\n\n(Gráfico: Velocidade (m/s) em função do tempo (min). O gráfico mostra um movimento com velocidade constante de 40 m/s de 0 a 1 min.)\n\nA distância percorrida por esse objeto no decorrer do primeiro minuto de seu movimento é",
+      principal: "O gráfico representa as velocidades de um objeto que se desloca ao longo de uma trajetória retilínea.\n\n(Gráfico: Velocidade ($m/s$) em função do tempo (min). O gráfico mostra um movimento com velocidade constante de 40 $m/s$ de 0 a 1 min.)\n\nA distância percorrida por esse objeto no decorrer do primeiro minuto de seu movimento é",
       subItens: []
     },
     options: [
@@ -948,7 +948,7 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "Um pescador posicionado no ponto A, situado à margem sul de um rio, acionou o motor de seu barco em direção à margem norte, mantendo a proa de seu barco nesse sentido. No momento da partida, a proa do barco apontava diretamente para o ponto B, conforme mostra a figura. As margens desse rio eram paralelas e distantes 80,0 m entre si e suas águas moviam-se de oeste para leste com velocidade constante de 0,4 m/s em relação às margens. Sabendo que o motor do barco garante uma velocidade constante de 2,0 m/s em relação às águas, o ponto C, onde de fato o pescador chegou à margem norte, está distante de B\n\n(Imagem: Esquemático de um rio com margens paralelas. Um barco parte do ponto A na margem sul, com sua proa apontando para B na margem norte, mas a correnteza o leva para o ponto C.)",
+      principal: "Um pescador posicionado no ponto A, situado à margem sul de um rio, acionou o motor de seu barco em direção à margem norte, mantendo a proa de seu barco nesse sentido. No momento da partida, a proa do barco apontava diretamente para o ponto B, conforme mostra a figura. As margens desse rio eram paralelas e distantes 80,0 m entre si e suas águas moviam-se de oeste para leste com velocidade constante de 0,4 $m/s$ em relação às margens. Sabendo que o motor do barco garante uma velocidade constante de 2,0 $m/s$ em relação às águas, o ponto C, onde de fato o pescador chegou à margem norte, está distante de B\n\n(Imagem: Esquemático de um rio com margens paralelas. Um barco parte do ponto A na margem sul, com sua proa apontando para B na margem norte, mas a correnteza o leva para o ponto C.)",
       subItens: []
     },
     options: [
@@ -969,15 +969,15 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "Na Lua a aceleração da gravidade é aproximadamente 1,6 m/s². Se um corpo for abandonado em queda livre na Lua, a 20 m de altura do solo lunar, o valor absoluto da velocidade, instantes antes desse corpo tocar o solo lunar, será",
+      principal: "Na Lua a aceleração da gravidade é aproximadamente 1,6 $m/s$². Se um corpo for abandonado em queda livre na Lua, a 20 m de altura do solo lunar, o valor absoluto da velocidade, instantes antes desse corpo tocar o solo lunar, será",
       subItens: []
     },
     options: [
-      "2 m/s.",
-      "4 m/s.",
-      "5 m/s.",
-      "6 m/s.",
-      "8 m/s."
+      "2 $m/s$.",
+      "4 $m/s$.",
+      "5 $m/s$.",
+      "6 $m/s$.",
+      "8 $m/s$."
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -994,10 +994,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2k/3",
-      "3k/2",
-      "k/3",
-      "5k/2",
+      "$2k/3$",
+      "$3k/2$",
+      "$k/3$",
+      "$5k/2$",
       "3k"
     ],
     correctAnswer: 0,
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "Em um movimento brusco, um estudante esbarra em seu corretor líquido que se encontrava sobre o tampo plano e horizontal de sua mesa, a 80 cm do solo. Quando o corretor líquido passa pela extremidade do tampo da mesa, sua velocidade horizontal é de 0,5 m/s, conforme mostra a figura. Desprezando-se a resistência do ar e assumindo que a aceleração da gravidade vale 10 m/s², a distância d a que o corretor líquido atinge o solo é\n\n(Imagem: Diagrama de um lançamento horizontal de um objeto de uma mesa, com altura de 80 cm e velocidade horizontal inicial de 0,5 m/s, mostrando a distância horizontal d que o objeto percorre.)",
+      principal: "Em um movimento brusco, um estudante esbarra em seu corretor líquido que se encontrava sobre o tampo plano e horizontal de sua mesa, a 80 cm do solo. Quando o corretor líquido passa pela extremidade do tampo da mesa, sua velocidade horizontal é de 0,5 $m/s$, conforme mostra a figura. Desprezando-se a resistência do ar e assumindo que a aceleração da gravidade vale 10 $m/s$², a distância d a que o corretor líquido atinge o solo é\n\n(Imagem: Diagrama de um lançamento horizontal de um objeto de uma mesa, com altura de 80 cm e velocidade horizontal inicial de 0,5 $m/s$, mostrando a distância horizontal d que o objeto percorre.)",
       subItens: []
     },
     options: [
@@ -1032,15 +1032,15 @@ createQuestion({
     university: "uea",
     year: 2020,
     text: {
-      principal: "Em um passeio de triciclo, um ou dois passageiros podem ser conduzidos e levados pela força de um ciclista. Quando o triciclo não está levando passageiros, sua massa mais a do ciclista equivalem a 100 kg e, para mover esse conjunto em linha reta e com aceleração escalar constante de 0,20 m/s², é necessária uma força resultante de intensidade F. Considerando que um passageiro de 60 kg suba no triciclo e que, agora, o conjunto formado pelo triciclo, ciclista e passageiro seja movido com a mesma força resultante constante de intensidade F, a aceleração escalar constante desenvolvida será de, aproximadamente,",
+      principal: "Em um passeio de triciclo, um ou dois passageiros podem ser conduzidos e levados pela força de um ciclista. Quando o triciclo não está levando passageiros, sua massa mais a do ciclista equivalem a 100 kg e, para mover esse conjunto em linha reta e com aceleração escalar constante de 0,20 $m/s$², é necessária uma força resultante de intensidade F. Considerando que um passageiro de 60 kg suba no triciclo e que, agora, o conjunto formado pelo triciclo, ciclista e passageiro seja movido com a mesma força resultante constante de intensidade F, a aceleração escalar constante desenvolvida será de, aproximadamente,",
       subItens: []
     },
     options: [
-      "0,08 m/s².",
-      "0,11 m/s².",
-      "0,13 m/s².",
-      "0,15 m/s².",
-      "0,18 m/s²."
+      "0,08 $m/s$².",
+      "0,11 $m/s$².",
+      "0,13 $m/s$².",
+      "0,15 $m/s$².",
+      "0,18 $m/s$²."
     ],
     correctAnswer: 2,
     materia: ["Física"],

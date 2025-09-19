@@ -402,7 +402,7 @@ createQuestion({
     university: "albert einstein",
     year: 2022,
     text: {
-      principal: "Analise a foto, tirada em 16 de agosto de 2021 no palácio presidencial do Afeganistão.\n\n[IMAGEM: Uma foto mostra um grupo de homens barbudos, alguns armados, sentados em cadeiras em um cômodo que parece ser um escritório ou sala de reuniões. Eles estão em trajes tradicionais e alguns usam turbantes. A mobília é simples, e há um brasão na parede ao fundo. A imagem sugere uma reunião ou tomada de poder.\n(www1.folha.uol.com.br/mundo)]\n\nEssa foto ilustra a recente retomada do poder, no Afeganistão, pelo grupo Taleban, o qual",
+      principal: "Analise a foto, tirada em 16 de agosto de 2021 no palácio presidencial do Afeganistão.\n\n[IMAGEM: Uma foto mostra um grupo de homens barbudos, alguns armados, sentados em cadeiras em um cômodo que parece ser um escritório ou sala de reuniões. Eles estão em trajes tradicionais e alguns usam turbantes. A mobília é simples, e há um brasão na parede ao fundo. A imagem sugere uma reunião ou tomada de poder.\n(www1.folha.uol.com.$br/mundo$)]\n\nEssa foto ilustra a recente retomada do poder, no Afeganistão, pelo grupo Taleban, o qual",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "albert einstein",
     year: 2022,
     text: {
-      principal: "Dinitroanilinas são uma família de herbicidas que interagem com as tubulinas beta, impedindo-as de se associar às tubulinas alfa, ambas existentes no citoplasma das células vegetais. Essa interferência causada por esses herbicidas prejudica uma planta daninha porque pode afetar",
+      principal: "Dinitroanilinas são uma família de herbicidas que interagem com as tubulinas $\\beta$, impedindo-as de se associar às tubulinas alfa, ambas existentes no citoplasma das células vegetais. Essa interferência causada por esses herbicidas prejudica uma planta daninha porque pode afetar",
       subItens: []
     },
     options: [
@@ -638,8 +638,8 @@ createQuestion({
     },
     options: [
       "captura de partícula alfa pelo 234Th.",
-      "captura de partícula beta pelo 234Th.",
-      "emissão de partícula beta pelo 238U.",
+      "captura de partícula $\\beta$ pelo 234Th.",
+      "emissão de partícula $\\beta$ pelo 238U.",
       "emissão de nêutrons pelo 238U.",
       "emissão de partícula alfa pelo 238U."
     ],
@@ -675,7 +675,7 @@ createQuestion({
     university: "albert einstein",
     year: 2022,
     text: {
-      principal: "Antocianinas são pigmentos presentes em muitas plantas e que apresentam colorações diferentes em função das concentrações de H⁺ e OH⁻ nas soluções, conforme a tabela:\n\n[TABELA: Tabela com duas colunas: pH e Cor da antocianina.\npH: 1 – 2, Cor: Vermelha\npH: 2 – 6, Cor: Incolor\npH: 6 – 8, Cor: Violeta\npH: 8 – 12, Cor: Azul\npH: 12 – 14, Cor: Amarela]\n\nA um béquer contendo 80 mL de solução de hidróxido de sódio (NaOH) de concentração 10⁻¹ mol/L e gotas de solução de antocianina adiciona-se 140 mL de solução de ácido clorídrico (HCl) de concentração 5 × 10⁻² mol/L. Considerando log 4,5 = 0,7 e K_w = 10⁻¹⁴, as colorações da solução inicial e da solução final são, respectivamente,",
+      principal: "Antocianinas são pigmentos presentes em muitas plantas e que apresentam colorações diferentes em função das concentrações de H⁺ e OH⁻ nas soluções, conforme a tabela:\n\n[TABELA: Tabela com duas colunas: pH e Cor da antocianina.\npH: 1 – 2, Cor: Vermelha\npH: 2 – 6, Cor: Incolor\npH: 6 – 8, Cor: Violeta\npH: 8 – 12, Cor: Azul\npH: 12 – 14, Cor: Amarela]\n\nA um béquer contendo 80 mL de solução de hidróxido de sódio (NaOH) de concentração 10⁻¹ $mol/L$ e gotas de solução de antocianina adiciona-se 140 mL de solução de ácido clorídrico (HCl) de concentração 5 × 10⁻² $mol/L$. Considerando $\\log$ 4,5 = 0,7 e $K_w$ = 10⁻¹⁴, as colorações da solução inicial e da solução final são, respectivamente,",
       subItens: []
     },
     options: [
@@ -724,7 +724,7 @@ createQuestion({
       "[IMAGEM: Estrutura química de um éter com dois grupos metil e um grupo etil, sem anel aromático.]",
       "[IMAGEM: Estrutura química de um éter com um grupo metil e um grupo hidroxila (álcool) ligado a um anel benzênico.]",
       "[IMAGEM: Estrutura química de um álcool com um grupo etil e um grupo metil, sem anel aromático.]",
-      "[IMAGEM: Estrutura química do Eugenol, contendo um anel benzênico com um grupo metóxi (-OCH3), um grupo hidroxila (-OH) ligado ao anel, e uma cadeia de propenila (-CH2-CH=CH2) ligada ao anel. Isso corresponde à estrutura correta do eugenol.]",
+      "[IMAGEM: Estrutura química do Eugenol, contendo um anel benzênico com um grupo metó$\\xi$ (-OCH3), um grupo hidroxila (-OH) ligado ao anel, e uma cadeia de propenila (-CH2-CH=CH2) ligada ao anel. Isso corresponde à estrutura correta do eugenol.]",
       "[IMAGEM: Estrutura química de um hidrocarboneto policíclico aromático, sem grupos funcionais polares como -OH ou -OCH3.]"
     ],
     correctAnswer: 3,
@@ -780,7 +780,7 @@ createQuestion({
     university: "albert einstein",
     year: 2022,
     text: {
-      principal: "Em pé, sobre a borda de uma piscina de 5 m de profundidade, uma pessoa aponta um laser para uma boia dentro da água, que está presa por um fio de comprimento L no fundo dessa piscina. Porém, devido ao desvio sofrido pelo laser, ele atinge o fundo da piscina exatamente no ponto em que o fio que prende a boia está fixo.\n\n[IMAGEM: Diagrama de uma piscina com 5m de profundidade. Uma pessoa está na borda superior (acima da água) e aponta um laser para a água. O feixe de luz do laser forma um ângulo de 45° com a normal à superfície da água. A luz refrata ao entrar na água, e o raio refratado atinge um ponto no fundo da piscina. Uma boia está na superfície da água, e um fio de comprimento L a prende no fundo da piscina, exatamente no ponto atingido pelo laser. Uma linha tracejada vertical indica a posição da boia e do ponto de amarração do fio no fundo.]\n\nSabendo que o índice de refração do ar e da água são, respectivamente, nar = 1,0 e nÁgua = 1,4, que sen 30° = 0,5 e adotando sen 45° = 0,7 e tg 30º = 0,6, o comprimento do fio que prende a boia ao fundo da piscina é",
+      principal: "Em pé, sobre a borda de uma piscina de 5 m de profundidade, uma pessoa aponta um laser para uma boia dentro da água, que está presa por um fio de comprimento L no fundo dessa piscina. Porém, devido ao desvio sofrido pelo laser, ele atinge o fundo da piscina exatamente no ponto em que o fio que prende a boia está fixo.\n\n[IMAGEM: Diagrama de uma piscina com 5m de profundidade. Uma pessoa está na borda superior (acima da água) e aponta um laser para a água. O feixe de luz do laser forma um ângulo de 45° com a normal à superfície da água. A luz refrata ao entrar na água, e o raio refratado atinge um ponto no fundo da piscina. Uma boia está na superfície da água, e um fio de comprimento L a prende no fundo da piscina, exatamente no ponto atingido pelo laser. Uma linha tracejada vertical indica a posição da boia e do ponto de amarração do fio no fundo.]\n\nSabendo que o índice de refração do ar e da água são, respectivamente, nar = 1,0 e nÁgua = 1,4, que $\\sin$ 30° = 0,5 e adotando $\\sin$ 45° = 0,7 e $\\tan$ 30º = 0,6, o comprimento do fio que prende a boia ao fundo da piscina é",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "albert einstein",
     year: 2022,
     text: {
-      principal: "A reta r passa pela origem (0, 0) do sistema cartesiano de eixos ortogonais e pelos pontos A e B, de ordenadas 4/3 e 2, respectivamente. P é um ponto de coordenadas (xp, 2) e também é colinear aos pontos A e D, como mostra a figura.\n\n[IMAGEM: Gráfico de um sistema de coordenadas cartesianas com eixos x e y. Uma reta \"r\" passa pela origem (0,0). Os pontos A, B, D e P são marcados. O ponto A está na reta r, com ordenada 4/3. O ponto B está na reta r, com ordenada 2. O ponto D está no eixo x. O ponto P está na reta que passa por A e D, e sua ordenada é 2. Um trapézio retângulo ABCD é formado, com vértices A, B, C e D. O lado DC está contido no eixo das abscissas.]\n\nEstando DC contido no eixo das abscissas, a área do trapézio retângulo ABCD, em função de xp, é igual a",
+      principal: "A reta r passa pela origem (0, 0) do sistema cartesiano de eixos ortogonais e pelos pontos A e B, de ordenadas $4/3$ e 2, respectivamente. P é um ponto de coordenadas (xp, 2) e também é colinear aos pontos A e D, como mostra a figura.\n\n[IMAGEM: Gráfico de um sistema de coordenadas cartesianas com eixos x e y. Uma reta \"r\" passa pela origem (0,0). Os pontos A, B, D e P são marcados. O ponto A está na reta r, com ordenada $4/3$. O ponto B está na reta r, com ordenada 2. O ponto D está no eixo x. O ponto P está na reta que passa por A e D, e sua ordenada é 2. Um trapézio retângulo ABCD é formado, com vértices A, B, C e D. O lado DC está contido no eixo das abscissas.]\n\nEstando DC contido no eixo das abscissas, a área do trapézio retângulo ABCD, em função de xp, é igual a",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "albert einstein",
     year: 2022,
     text: {
-      principal: "ABD é um triângulo retângulo com ângulo de medida α no vértice B, e ABC é um triângulo retângulo com ângulo de medida 2α no vértice C, como indica a figura.\n\n[IMAGEM: Diagrama de dois triângulos retângulos. O triângulo ABD é retângulo em D. O ângulo no vértice B é α. O triângulo ABC é retângulo em C. O ângulo no vértice C é 2α. Os lados AB e CD têm comprimento 6 cm. A figura mostra A, B, C, D como vértices, com C e D no mesmo segmento horizontal.]\n\nSabendo que tg (2x) = 2tgx / (1 - tg²x) e que AB = CD = 6 cm, o perímetro do triângulo BCD é igual a",
+      principal: "ABD é um triângulo retângulo com ângulo de medida α no vértice B, e ABC é um triângulo retângulo com ângulo de medida 2α no vértice C, como indica a figura.\n\n[IMAGEM: Diagrama de dois triângulos retângulos. O triângulo ABD é retângulo em D. O ângulo no vértice B é α. O triângulo ABC é retângulo em C. O ângulo no vértice C é 2α. Os lados AB e CD têm comprimento 6 cm. A figura mostra A, B, C, D como vértices, com C e D no mesmo segmento horizontal.]\n\nSabendo que $\\tan$ (2x) = 2tgx / (1 - $\\tan$²x) e que AB = CD = 6 cm, o perímetro do triângulo BCD é igual a",
       subItens: []
     },
     options: [
@@ -990,7 +990,7 @@ createQuestion({
     university: "albert einstein",
     year: 2022,
     text: {
-      principal: "Os fatores do produto P obedecem sempre o mesmo padrão descrito:\n\nP = log₂ 3 ⋅ log₃ 4 ⋅ log₄ 5 ⋅ ... ⋅ log₂₀₂₁ 2022\n\nNessa condição, P é um número real entre",
+      principal: "Os fatores do produto P obedecem sempre o mesmo padrão descrito:\n\nP = $\\log$₂ 3 ⋅ $\\log$₃ 4 ⋅ $\\log$₄ 5 ⋅ ... ⋅ $\\log$₂₀₂₁ 2022\n\nNessa condição, P é um número real entre",
       subItens: []
     },
     options: [
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "albert einstein",
     year: 2022,
     text: {
-      principal: "Uma embalagem de pizza tem a forma de um prisma reto-regular de base octogonal, conforme mostram as figuras. Sabe-se que AE é a maior diagonal da parte superior da tampa, medindo 32 cm, e que HI é a aresta lateral da embalagem, medindo 4 cm.\n\n[IMAGEM: Duas vistas de um prisma octogonal regular. A primeira imagem mostra uma vista em perspectiva, destacando a base superior (A, B, C, D, E, F, G, H) e a aresta lateral HI. A segunda imagem mostra a base octogonal superior vista de cima, com os vértices A, B, C, D, E, F, G, H, e uma diagonal traçada de A a E. A aresta lateral HI tem 4 cm. A diagonal AE tem 32 cm.]\n\nDesconsiderando os encaixes e a espessura do material de que é feita a embalagem e utilizando, se necessário, a fórmula sen(2x) = 2 sen(x) cos(x), o volume dessa embalagem é igual a",
+      principal: "Uma embalagem de pizza tem a forma de um prisma reto-regular de base octogonal, conforme mostram as figuras. Sabe-se que AE é a maior diagonal da parte superior da tampa, medindo 32 cm, e que HI é a aresta lateral da embalagem, medindo 4 cm.\n\n[IMAGEM: Duas vistas de um prisma octogonal regular. A primeira imagem mostra uma vista em perspectiva, destacando a base superior (A, B, C, D, E, F, G, H) e a aresta lateral HI. A segunda imagem mostra a base octogonal superior vista de cima, com os vértices A, B, C, D, E, F, G, H, e uma diagonal traçada de A a E. A aresta lateral HI tem 4 cm. A diagonal AE tem 32 cm.]\n\nDesconsiderando os encaixes e a espessura do material de que é feita a embalagem e utilizando, se necessário, a fórmula $\\sin$(2x) = 2 $\\sin$(x) $\\cos$(x), o volume dessa embalagem é igual a",
       subItens: []
     },
     options: [

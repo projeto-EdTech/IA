@@ -66,15 +66,15 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "A obra \"Rosa e Azul\", também conhecida como \"As Meninas Cahen d'Anvers\", é uma pintura a óleo de Pierre-Auguste Renoir.\n\nNuma aula de artes, solicitou-se aos alunos que fizessem uma releitura dessa obra utilizando uma \"tinta\" preparada com extrato de repolho roxo. Esse extrato fica rosa em valores de pH menores que 5 e azul em valores próximos a 8, conforme figura a seguir, que mostra a cor da solução em diferentes valores de pH.\n\nPH 1 3 5 7 8 9 10 11 12\nVermelho\nRosa\nEscuro\nRoxo\nAzul\nAzul Escuro\nVerde\nVerde\nEsverdeado\nAmarelo\n\nCom base no exposto, qual das alternativas apresenta compostos ou produtos que poderiam ser usados para preparar uma \"tinta\" rosa/vermelha e uma azul/verde empregando o extrato de repolho roxo?",
+      principal: "A obra \"Rosa e Azul\", também conhecida como \"As Meninas Cahen d'Anvers\", é uma pintura a óleo de Pierre-Auguste Renoir.\n\nNuma aula de artes, solicitou-se aos alunos que fizessem uma releitura dessa obra utilizando uma \"tinta\" preparada com extrato de repolho roxo. Esse extrato fica rosa em valores de pH menores que 5 e azul em valores próximos a 8, conforme figura a seguir, que mostra a cor da solução em diferentes valores de pH.\n\nPH 1 3 5 7 8 9 10 11 12\nVermelho\nRosa\nEscuro\nRoxo\nAzul\nAzul Escuro\nVerde\nVerde\nEsverdeado\nAmarelo\n\nCom base no exposto, qual das alternativas apresenta compostos ou produtos que poderiam ser usados para preparar uma \"tinta\" $rosa/vermelha$ e uma $azul/verde$ empregando o extrato de repolho roxo?",
       subItens: []
     },
     options: [
-      "Rosa/Vermelha: Açúcar, Azul/Verde: Sal de cozinha",
-      "Rosa/Vermelha: Sal de cozinha, Azul/Verde: Bicarbonato de sódio",
-      "Rosa/Vermelha: Bicarbonato de sódio, Azul/Verde: Vinagre",
-      "Rosa/Vermelha: Açúcar, Azul/Verde: Soda cáustica",
-      "Rosa/Vermelha: Suco de limão, Azul/Verde: Bicarbonato de sódio"
+      "$Rosa/Vermelha$: Açúcar, $Azul/Verde$: Sal de cozinha",
+      "$Rosa/Vermelha$: Sal de cozinha, $Azul/Verde$: Bicarbonato de sódio",
+      "$Rosa/Vermelha$: Bicarbonato de sódio, $Azul/Verde$: Vinagre",
+      "$Rosa/Vermelha$: Açúcar, $Azul/Verde$: Soda cáustica",
+      "$Rosa/Vermelha$: Suco de limão, $Azul/Verde$: Bicarbonato de sódio"
     ],
     correctAnswer: 4,
     materia: [],
@@ -87,15 +87,15 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "Combustíveis fósseis, como o diesel, contém em sua composição uma fração de enxofre. Durante o processo de combustão, o enxofre é convertido em SO2, tornando-se um poluente ambiental. Em postos de combustível, normalmente são comercializados dois tipos de diesel, o Diesel S10 e o Diesel S500. O primeiro contém 10 ppm de enxofre, e o segundo, 500 ppm de enxofre.\n\nConsidere que, na combustão do diesel, todo enxofre seja convertido em SO2, conforme reação a seguir:\n\nS(s) + O2(g) → SO2(g)\n\nNesse caso, a diferença de massa de SO2 emitido para a atmosfera por kg de diesel quando cada um dos dois tipos é queimado é de\n\nNote e adote:\nMassas molares (g/mol): O = 16; S = 32.\n1 ppm de enxofre equivale a 1 mg de enxofre por kg de diesel.",
+      principal: "Combustíveis fósseis, como o diesel, contém em sua composição uma fração de enxofre. Durante o processo de combustão, o enxofre é convertido em SO2, tornando-se um poluente ambiental. Em postos de combustível, normalmente são comercializados dois tipos de diesel, o Diesel S10 e o Diesel S500. O primeiro contém 10 ppm de enxofre, e o segundo, 500 ppm de enxofre.\n\nConsidere que, na combustão do diesel, todo enxofre seja convertido em SO2, conforme reação a seguir:\n\nS(s) + O2(g) → SO2(g)\n\nNesse caso, a diferença de massa de SO2 emitido para a atmosfera por kg de diesel quando cada um dos dois tipos é queimado é de\n\nNote e adote:\nMassas molares ($g/mol$): O = 16; S = 32.\n1 ppm de enxofre equivale a 1 mg de enxofre por kg de diesel.",
       subItens: []
     },
     options: [
-      "245 mg/kg.",
-      "490 mg/kg.",
-      "980 mg/kg.",
-      "1960 mg/kg.",
-      "3920 mg/kg."
+      "245 $mg/kg$.",
+      "490 $mg/kg$.",
+      "980 $mg/kg$.",
+      "1960 $mg/kg$.",
+      "3920 $mg/kg$."
     ],
     correctAnswer: 2,
     materia: [],
@@ -364,10 +364,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "mantém constante a proporção 12C/14C na atmosfera em relação à encontrada no período pré-industrial.",
+      "mantém constante a proporção $12C/14C$ na atmosfera em relação à encontrada no período pré-industrial.",
       "apresenta maior concentração de 14CO2 em relação à concentração de CO2 atmosférico encontrado no período pré-industrial.",
       "contém quantidades iguais de 14C e 12C, dado que as taxas de formação e deposição de ambos são as mesmas.",
-      "aumenta a proporção 12C/14C na atmosfera em relação à encontrada no período pré-industrial.",
+      "aumenta a proporção $12C/14C$ na atmosfera em relação à encontrada no período pré-industrial.",
       "contém apenas 14CO2, que é o real causador do aquecimento global por ser um gás de efeito estufa mais eficiente que o 12CO2."
     ],
     correctAnswer: 3,
@@ -486,7 +486,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "Você pode desligar. Eles não. ANISTIA INTERNACIONAL\nDisponível em https://incrivel.club/admiracao-fotografia/. Adaptado.\n\nCom base na peça publicitária da Anistia Internacional, é correto afirmar que",
+      principal: "Você pode desligar. Eles não. ANISTIA INTERNACIONAL\nDisponível em https://incrivel.$club/admiracao$-fotografia/. Adaptado.\n\nCom base na peça publicitária da Anistia Internacional, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "Na teoria musical, o intervalo entre duas notas é medido pela razão entre suas frequências (medidas em Hz). Na escala pitagórica, os intervalos de um tom e de um semitom correspondem, respectivamente, às razões 9/8 e 256/243. A soma de intervalos corresponde ao produto das razões. Por exemplo, no intervalo de dois tons, a razão entre as frequências é de 9/8 * 9/8 = 81/64.\n\nEm um instrumento afinado de acordo com a escala pitagórica, se o intervalo entre uma nota de 220 Hz e outra de 990 Hz é composto por n tons e m semitons, a soma m + né igual a:",
+      principal: "Na teoria musical, o intervalo entre duas notas é medido pela razão entre suas frequências (medidas em Hz). Na escala pitagórica, os intervalos de um tom e de um semitom correspondem, respectivamente, às razões $9/8$ e $256/243$. A soma de intervalos corresponde ao produto das razões. Por exemplo, no intervalo de dois tons, a razão entre as frequências é de $9/8$ * $9/8$ = $81/64$.\n\nEm um instrumento afinado de acordo com a escala pitagórica, se o intervalo entre uma nota de 220 Hz e outra de 990 Hz é composto por n tons e m semitons, a soma m + né igual a:",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "\"Migna terra tê parmeras\nChe ganta inzima o sabiá.\nAs aves che stó aqui,\nTambê tuttos sabi gorgeá.\n(...)\nOs rio lá sô maise grandi\nDus rio di tuttas naçó;\nI os matto si perdi di vista,\nNu meio da imensidó.\"\nBANANÉRE, Juó. \"Migna terra”. La Divina Increnca. São Paulo: Irmãos Marrano Editora, 1924.\n\nAssinale a alternativa que melhor expressa as relações entre o poema e a inserção social de imigrantes italianos no Brasil.",
+      principal: "\"Migna terra tê parmeras\nChe ganta inzima o sabiá.\nAs aves che stó aqui,\nTambê tuttos sabi gorgeá.\n(...)\nOs rio lá sô maise grandi\nDus rio di tuttas naçó;\nI os matto si perdi di vista,\n$\\nu$ meio da imensidó.\"\nBANANÉRE, Juó. \"Migna terra”. La Divina Increnca. São Paulo: Irmãos Marrano Editora, 1924.\n\nAssinale a alternativa que melhor expressa as relações entre o poema e a inserção social de imigrantes italianos no Brasil.",
       subItens: []
     },
     options: [
@@ -885,7 +885,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "\"A associação de sistemas múltiplos de subordinação tem sido descrita de vários modos: discriminação composta, cargas múltiplas ou como dupla ou tripla discriminação. A interseccionalidade é uma conceituação do problema que busca capturar as consequências estruturais e dinâmicas da interação entre dois ou mais eixos da subordinação. Ela trata especificamente da forma pela qual o racismo, o patriarcalismo, a opressão de classe e outros sistemas discriminatórios criam desigualdades básicas que estruturam as posições relativas de mulheres, raças, etnias, classes e outras\".\nCRENSHAW, Kimberlé W. \"Documento para o Encontro de Especialistas em Aspectos da Discriminação Racial Relativos ao Gênero\". Estudos Feministas, ano 10, nº 1/2002.\n\nBRASIL\nA inserção da população negra\ne o mercado de trabalho\nTRABALHO DESPROTEGIDO\nNEGRAS NEGROS\n46%\n48%\nNÃO NEGRAS NÃO NEGROS\n34%\n35%\nObs.: Trabalhador desprotegido é aquele que está empregado sem carteira\nassinada, autónomos que não contribuem com a Previdência Social e\ntrabalhadores familiares auxiliares.\nRENDIMENTO MÉDIO\nR$ 1.617\n$\nMULHERES\nNEGRAS\nR$ 2.674\nMULHERES\nNÃO NEGRAS\nR$ 1.968\n$$\nHOMENS\nNEGROS\nR$ 3.471\n$$$\nHOMENS\nNÃO NEGROS\nOCUPADOS EM CARGOS DE DIREÇÃO\n5,0%\n6,4%\n1,9%\n2,2%\nMULHERES MULHERES\nHOMENS HOMENS\nNEGRAS NÃO NEGRAS\nNEGROS NÃO NEGROS\nSUBUTILIZAÇÃO\nTaxa de subutilização da força de trabalho\n40,9%\n27,7%\nMULHERES\nNEGRAS\nMULHERES\nNÃO NEGRAS\n26,9%\n18,5%\nHOMENS\nNEGROS\nHOMENS\nNÃO NEGROS\nDIEESE (Departamento Intersindical de Estatísticas e Estudos Socioeconômicos), 2021. Adaptado.\n\nO texto da professora e jurista estadunidense Kimberlé Crenshaw define o conceito de interseccionalidade para o estudo das múltiplas discriminações. A partir dessa definição, é possível dizer que os dados do Dieese sobre o mercado de trabalho brasileiro em 2021 indicam que",
+      principal: "\"A associação de sistemas múltiplos de subordinação tem sido descrita de vários modos: discriminação composta, cargas múltiplas ou como dupla ou tripla discriminação. A interseccionalidade é uma conceituação do problema que busca capturar as consequências estruturais e dinâmicas da interação entre dois ou mais eixos da subordinação. Ela trata especificamente da forma pela qual o racismo, o patriarcalismo, a opressão de classe e outros sistemas discriminatórios criam desigualdades básicas que estruturam as posições relativas de mulheres, raças, etnias, classes e outras\".\nCRENSHAW, Kimberlé W. \"Documento para o Encontro de Especialistas em Aspectos da Discriminação Racial Relativos ao Gênero\". Estudos Feministas, ano 10, nº $1/2002$.\n\nBRASIL\nA inserção da população negra\ne o mercado de trabalho\nTRABALHO DESPROTEGIDO\nNEGRAS NEGROS\n46%\n48%\nNÃO NEGRAS NÃO NEGROS\n34%\n35%\nObs.: Trabalhador desprotegido é aquele que está empregado sem carteira\nassinada, autónomos que não contribuem com a Previdência Social e\ntrabalhadores familiares auxiliares.\nRENDIMENTO MÉDIO\nR$ 1.617\n$\nMULHERES\nNEGRAS\nR$ 2.674\nMULHERES\nNÃO NEGRAS\nR$ 1.968\n$$\nHOMENS\nNEGROS\nR$ 3.471\n$$$\nHOMENS\nNÃO NEGROS\nOCUPADOS EM CARGOS DE DIREÇÃO\n5,0%\n6,4%\n1,9%\n2,2%\nMULHERES MULHERES\nHOMENS HOMENS\nNEGRAS NÃO NEGRAS\nNEGROS NÃO NEGROS\nSUBUTILIZAÇÃO\nTaxa de subutilização da força de trabalho\n40,9%\n27,7%\nMULHERES\nNEGRAS\nMULHERES\nNÃO NEGRAS\n26,9%\n18,5%\nHOMENS\nNEGROS\nHOMENS\nNÃO NEGROS\nDIEESE (Departamento Intersindical de Estatísticas e Estudos Socioeconômicos), 2021. Adaptado.\n\nO texto da professora e jurista estadunidense Kimberlé Crenshaw define o conceito de interseccionalidade para o estudo das múltiplas discriminações. A partir dessa definição, é possível dizer que os dados do Dieese sobre o mercado de trabalho brasileiro em 2021 indicam que",
       subItens: []
     },
     options: [
@@ -969,7 +969,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "Em um estudo, pesquisadores mostraram que a energia de interação (E) de SO3 com diversas espécies tem relação com a distância da ligação S=O (Ds=O), como representado na figura.\n\nE (kcal/mol)\n25\n15\nSO3 ---NMез\nSO3 --- N\nSO3 --- NH3\nSO3 ---MeCN\n5-\nSO3 ---HCN\n0\n1,436\n1,440\n1,444\n1,448\n1,452\nDs=0 (Å)\n\nA energia de interação de uma espécie com outra pode ser entendida como a energia\nnecessária para desfazer a\nDs=0 (distância\nda ligação)\ninteração entre o SO3 e os\nO=S=O----X\ncompostos estudados (X), como\nrepresentado na figura ao lado.\nE (energia para\ndesfazer a interação)\n\nConsiderando essas informações, é correto afirmar que",
+      principal: "Em um estudo, pesquisadores mostraram que a energia de interação (E) de SO3 com diversas espécies tem relação com a distância da ligação S=O (Ds=O), como representado na figura.\n\nE ($kcal/mol$)\n25\n15\nSO3 ---NMез\nSO3 --- N\nSO3 --- NH3\nSO3 ---MeCN\n5-\nSO3 ---HCN\n0\n1,436\n1,440\n1,444\n1,448\n1,452\nDs=0 (Å)\n\nA energia de interação de uma espécie com outra pode ser entendida como a energia\nnecessária para desfazer a\nDs=0 (distância\nda ligação)\ninteração entre o SO3 e os\nO=S=O----X\ncompostos estudados (X), como\nrepresentado na figura ao lado.\nE (energia para\ndesfazer a interação)\n\nConsiderando essas informações, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -1137,14 +1137,14 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "Diversos processos na indústria de óleo e gás podem envolver misturas de gases a diferentes temperaturas. Um sistema isolado é composto por dois compartimentos de mesmo volume: o primeiro é ocupado por n₁ = 1 mol e o segundo é ocupado por n₂ = 2 mols de um gás ideal monoatômico. Inicialmente cada compartimento encontra-se em equilíbrio térmico, com temperatura T₁ = 4T e T₂ = T, respectivamente, conforme mostra a figura:\n\nn₁ = 1 mol\nT₁ = 4T\n\nn2 = 2 mols\nT2 = T\n\nA partir de certo instante, a parede que separa os compartimentos é removida e, após algum tempo, o sistema atinge uma nova temperatura de equilíbrio Tm. Supondo que não há trabalho realizado após a remoção da parede, nem troca de calor entre o sistema e o ambiente externo, a temperatura de equilíbrio Tm é dada por:\n\nNote e adote:\nA energia interna de um gás ideal monoatômico é dada por U = 3nRT/2, sendo n o número de mols, R a constante universal dos gases ideais e T a temperatura absoluta.",
+      principal: "Diversos processos na indústria de óleo e gás podem envolver misturas de gases a diferentes temperaturas. Um sistema isolado é composto por dois compartimentos de mesmo volume: o primeiro é ocupado por n₁ = 1 mol e o segundo é ocupado por n₂ = 2 mols de um gás ideal monoatômico. Inicialmente cada compartimento encontra-se em equilíbrio térmico, com temperatura T₁ = 4T e T₂ = T, respectivamente, conforme mostra a figura:\n\nn₁ = 1 mol\nT₁ = 4T\n\nn2 = 2 mols\nT2 = T\n\nA partir de certo instante, a parede que separa os compartimentos é removida e, após algum tempo, o sistema atinge uma nova temperatura de equilíbrio Tm. Supondo que não há trabalho realizado após a remoção da parede, nem troca de calor entre o sistema e o ambiente externo, a temperatura de equilíbrio Tm é dada por:\n\nNote e adote:\nA energia interna de um gás ideal monoatômico é dada por U = $3nRT/2$, sendo n o número de mols, R a constante universal dos gases ideais e T a temperatura absoluta.",
       subItens: []
     },
     options: [
       "T",
-      "3T/2",
+      "$3T/2$",
       "2T",
-      "5T/2",
+      "$5T/2$",
       "4T"
     ],
     correctAnswer: 2,
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "O slam ball é um exercício funcional no qual o praticante eleva uma bola especial acima da cabeça e, após uma breve pausa, a atira no chão, como mostra figura:\n\nConsidere uma pessoa de 1,70 m que eleva uma bola de 6 kg a uma altura de 40 cm acima da sua cabeça. Em seguida, a pessoa realiza sobre a bola um trabalho adicional de 10 calorias para arremessá-la. Se a colisão da bola com o solo for perfeitamente inelástica, a energia total dissipada na colisão será de\n\nNote e adote:\nConsidere 1 cal = 4,2 J e g = 10 m/s².",
+      principal: "O slam ball é um exercício funcional no qual o praticante eleva uma bola especial acima da cabeça e, após uma breve pausa, a atira no chão, como mostra figura:\n\nConsidere uma pessoa de 1,70 m que eleva uma bola de 6 kg a uma altura de 40 cm acima da sua cabeça. Em seguida, a pessoa realiza sobre a bola um trabalho adicional de 10 calorias para arremessá-la. Se a colisão da bola com o solo for perfeitamente inelástica, a energia total dissipada na colisão será de\n\nNote e adote:\nConsidere 1 cal = 4,2 J e g = 10 $m/s$².",
       subItens: []
     },
     options: [
@@ -1204,10 +1204,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "h/8",
-      "h/4",
-      "h/3",
-      "h/2",
+      "$h/8$",
+      "$h/4$",
+      "$h/3$",
+      "$h/2$",
       "h"
     ],
     correctAnswer: 1,
@@ -1221,15 +1221,15 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "O telescópio espacial James Webb, lançado em dezembro de 2021, move-se nas proximidades de um ponto especial chamado ponto de Lagrange, sobre o qual um objeto orbita o Sol com o mesmo período de translação que a Terra. O esquema a seguir, fora de escala, representa o Sol, a Terra e o telescópio Webb, com as respectivas massas e distâncias indicadas.\n\nSol,\nmassa ms\n\nTerra,\nmassa MT\n\nWebb,\nmassa mw\n\nRT\nRw\n\nA força resultante necessária para manter um objeto de massa m em uma órbita circular de raio R com velocidade angular w é F = mw²R. Sendo Fr e Fw as intensidades das forças gravitacionais resultantes sobre a Terra e sobre o telescópio, respectivamente, assinale a alternativa que descreve a razão Fw/Fr entre essas forças.\n\nNote e adote:\nDespreze os efeitos gravitacionais da Lua e suponha que mw seja desprezível frente às outras massas e que as órbitas sejam perfeitamente circulares. Suponha ainda que o telescópio se situe exatamente sobre o ponto de Lagrange.",
+      principal: "O telescópio espacial James Webb, lançado em dezembro de 2021, move-se nas proximidades de um ponto especial chamado ponto de Lagrange, sobre o qual um objeto orbita o Sol com o mesmo período de translação que a Terra. O esquema a seguir, fora de escala, representa o Sol, a Terra e o telescópio Webb, com as respectivas massas e distâncias indicadas.\n\nSol,\nmassa ms\n\nTerra,\nmassa MT\n\nWebb,\nmassa mw\n\nRT\nRw\n\nA força resultante necessária para manter um objeto de massa m em uma órbita circular de raio R com velocidade angular w é F = mw²R. Sendo Fr e Fw as intensidades das forças gravitacionais resultantes sobre a Terra e sobre o telescópio, respectivamente, assinale a alternativa que descreve a razão $Fw/Fr$ entre essas forças.\n\nNote e adote:\nDespreze os efeitos gravitacionais da Lua e suponha que mw seja desprezível frente às outras massas e que as órbitas sejam perfeitamente circulares. Suponha ainda que o telescópio se situe exatamente sobre o ponto de Lagrange.",
       subItens: []
     },
     options: [
-      "Fw/Ft = mwRT / mTRw",
-      "Fw/Ft = (mr+ms)RW / mTRT",
-      "Fw/Ft = mwRw / mTRT",
-      "Fw/Ft = mw(Rw-RT) / mTRT",
-      "Fw/Ft = mr(RW-RT) / mwRT"
+      "$Fw/Ft$ = mwRT / mTRw",
+      "$Fw/Ft$ = (mr+ms)RW / mTRT",
+      "$Fw/Ft$ = mwRw / mTRT",
+      "$Fw/Ft$ = mw(Rw-RT) / mTRT",
+      "$Fw/Ft$ = mr(RW-RT) / mwRT"
     ],
     correctAnswer: 2,
     materia: [],
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "A figura ilustra de maneira simplificada o fenômeno da dispersão da luz branca ao incidir sobre um prisma de vidro a partir do ar, mostrando apenas raios refratados correspondentes a três cores diferentes. Um fenômeno análogo é responsável pelo aparecimento do arco-íris após uma chuva.\n\ncor 3\ncor 2\ncor 1\n\nNa base do fenômeno da dispersão está a refração de raios luminosos quando incidem sobre uma interface que separa dois meios físicos distintos. A descrição matemática da refração é feita pela lei de Snell, conforme apresentada a seguir:\n\nni,senθi = nr, asendr\n\nem que:\n\n• nia é o índice de refração da luz de comprimento de onda A no meio incidente,\n• θi é o ângulo que o raio incidente faz com a reta normal à interface,\n• nra é o índice de refração da mesma luz no meio refratado e\n• θr é o ângulo que o raio refratado faz com a reta normal à interface.\n\nO índice de refração do ar pode ser tomado como igual a 1 para qualquer comprimento de onda. Com base nessas informações, a relação correta entre os índices de refração dos raios das cores 1 (n₁), 2 (n₂) e 3 (n₃) no vidro é dada por:\n\nNote e adote:\nA função seno é crescente quando e está entre 0 e 90 graus.",
+      principal: "A figura ilustra de maneira simplificada o fenômeno da dispersão da luz branca ao incidir sobre um prisma de vidro a partir do ar, mostrando apenas raios refratados correspondentes a três cores diferentes. Um fenômeno análogo é responsável pelo aparecimento do arco-íris após uma chuva.\n\ncor 3\ncor 2\ncor 1\n\nNa base do fenômeno da dispersão está a refração de raios luminosos quando incidem sobre uma interface que separa dois meios físicos distintos. A descrição matemática da refração é feita pela lei de Snell, conforme apresentada a seguir:\n\nni,$\\sin$θi = nr, asendr\n\nem que:\n\n• nia é o índice de refração da luz de comprimento de onda A no meio incidente,\n• θi é o ângulo que o raio incidente faz com a reta normal à interface,\n• nra é o índice de refração da mesma luz no meio refratado e\n• θr é o ângulo que o raio refratado faz com a reta normal à interface.\n\nO índice de refração do ar pode ser tomado como igual a 1 para qualquer comprimento de onda. Com base nessas informações, a relação correta entre os índices de refração dos raios das cores 1 (n₁), 2 (n₂) e 3 (n₃) no vidro é dada por:\n\nNote e adote:\nA função seno é crescente quando e está entre 0 e 90 graus.",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "Alguns aviões empregam fibra de carbono em uma porcentagem significativa de suas estruturas, tornando-as muito menos densas. Partes da estrutura, no entanto, são compostas por metais. Devido à baixa densidade, o alumínio seria uma boa alternativa de metal a ser usado. Entretanto, quando em contato com fibra de carbono, o alumínio é corroído. Esse processo é denominado corrosão galvânica e acontece quando dois materiais que possuem potencial elétrico diferentes são colocados em contato com um eletrólito, como uma solução salina. Para abordar esse problema, pode-se avaliar os potenciais elétricos, densidade e preço aproximado de diversos materiais apresentados na figura a seguir.\n\nPotencial elétrico em solução salina (V)\n0,2 0,0 -0,2 -0,4 -0,6 -0,8 -1,0 -1,2 -1,4 -1,6 -1,8\nZn (7,14 g/cm³, R$ 15/kg)\nAl (2,7 g/cm³; R$ 15/kg)\nCd (8,65 g/cm³; R$ 150/kg)\nAg (10,49 g/cm³; R$ 4.10³/kg)\nTi (4,5 g/cm³; R$ 150/kg)\nAu (19,3 g/cm³; R$ 3,2.105/kg)\nIC (1,93 g/cm³; R$ 1,5.103/kg)\n\nConsiderando o exposto, o elemento mais adequado para ser utilizado no lugar do alumínio de forma a obter os menores custo e densidade possíveis, com a máxima resistência a corrosão possível, é:",
+      principal: "Alguns aviões empregam fibra de carbono em uma porcentagem significativa de suas estruturas, tornando-as muito menos densas. Partes da estrutura, no entanto, são compostas por metais. Devido à baixa densidade, o alumínio seria uma boa alternativa de metal a ser usado. Entretanto, quando em contato com fibra de carbono, o alumínio é corroído. Esse processo é denominado corrosão galvânica e acontece quando dois materiais que possuem potencial elétrico diferentes são colocados em contato com um eletrólito, como uma solução salina. Para abordar esse problema, pode-se avaliar os potenciais elétricos, densidade e preço aproximado de diversos materiais apresentados na figura a seguir.\n\nPotencial elétrico em solução salina (V)\n0,2 0,0 -0,2 -0,4 -0,6 -0,8 -1,0 -1,2 -1,4 -1,6 -1,8\nZn (7,14 $g/cm$³, R$ $15/kg$)\nAl (2,7 $g/cm$³; R$ $15/kg$)\nCd (8,65 $g/cm$³; R$ $150/kg$)\nAg (10,49 $g/cm$³; R$ 4.10³/kg)\nTi (4,5 $g/cm$³; R$ $150/kg$)\nAu (19,3 $g/cm$³; R$ 3,2.$105/kg$)\nIC (1,93 $g/cm$³; R$ 1,5.$103/kg$)\n\nConsiderando o exposto, o elemento mais adequado para ser utilizado no lugar do alumínio de forma a obter os menores custo e densidade possíveis, com a máxima resistência a corrosão possível, é:",
       subItens: []
     },
     options: [
@@ -1332,7 +1332,7 @@ createQuestion({
     options: [
       "5x²",
       "5√x",
-      "5/x",
+      "$5/x$",
       "5x",
       "5x - x²"
     ],
@@ -1351,11 +1351,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/8",
-      "2/3",
-      "7/10",
-      "3/4",
-      "4/5"
+      "$5/8$",
+      "$2/3$",
+      "$7/10$",
+      "$3/4$",
+      "$4/5$"
     ],
     correctAnswer: 4,
     materia: [],
@@ -1368,7 +1368,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "Poluentes orgânicos persistentes (POPs) são compostos que persistem no ambiente por longos períodos, ou seja, são pouco degradados naturalmente, magnificam-se ao longo da teia trófica e provocam efeitos adversos à saúde e ao meio ambiente. Entre eles estão alguns compostos orgânicos clorados utilizados como pesticidas e isolantes de chamas. Uma das características dos POPs é que são pouco hidrossolúveis, com elevada tendência de interagir com lipídeos. Uma forma padronizada de se medir essa tendência é pelo cálculo do coeficiente de partição octanol-água (Kow). Esse coeficiente representa a razão entre a concentração de um composto na fase de n-octanol e sua concentração na fase aquosa (Kow = Co/Cw) após a mistura e separação das fases. Com base nessas informações, assinale a alternativa correta.",
+      principal: "Poluentes orgânicos persistentes (POPs) são compostos que persistem no ambiente por longos períodos, ou seja, são pouco degradados naturalmente, magnificam-se ao longo da teia trófica e provocam efeitos adversos à saúde e ao meio ambiente. Entre eles estão alguns compostos orgânicos clorados utilizados como pesticidas e isolantes de chamas. Uma das características dos POPs é que são pouco hidrossolúveis, com elevada tendência de interagir com lipídeos. Uma forma padronizada de se medir essa tendência é pelo cálculo do coeficiente de partição octanol-água (Kow). Esse coeficiente representa a razão entre a concentração de um composto na fase de n-octanol e sua concentração na fase aquosa (Kow = $Co/Cw$) após a mistura e separação das fases. Com base nessas informações, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "A figura representa o ciclo da leishmania, causadora da leishmaniose.\n\n4\nInfecção das células\nda glândula salivar\ndo mosquito\n\nMosquito se alimenta\nFASE NO\nHOSPEDEIRO\nINVERTEBRADO\nde sangue\ndo mamífero\n1)\n\nIngestão de\ncélulas parasitadas\n\nMosquito se alimenta\nde sangue\ndo mamífero\n3\n\nFASE NO\nHOSPEDEIRO\nVERTEBRADO\n\n2\n\nA forma\ninfectante\né fagocitada\npor\nmacrófagos\nonde se\nmultiplica\n\nMOREIRA et al. 2020. \"Aspectos fundamentais da leishmaniose cutânea no Brasil\". DOI:10.22533/at.ed.4852012037. Adaptado.\n\nO parasita sobrevive nas células do hospedeiro mamífero pela inativação de enzimas da(o) 1 o que bloqueia a digestão intracelular e possibilita a continuidade do ciclo da leishmania. Uma das formas de se prevenir a transmissão dessa doença é II.\n\nAs lacunas I e II podem ser preenchidas corretamente por:",
+      principal: "A figura representa o ciclo da leishmania, causadora da leishmaniose.\n\n4\nInfecção das células\nda glândula salivar\ndo mosquito\n\nMosquito se alimenta\nFASE NO\nHOSPEDEIRO\nINVERTEBRADO\nde sangue\ndo mamífero\n1)\n\nIngestão de\ncélulas parasitadas\n\nMosquito se alimenta\nde sangue\ndo mamífero\n3\n\nFASE NO\nHOSPEDEIRO\nVERTEBRADO\n\n2\n\nA forma\ninfectante\né fagocitada\npor\nmacrófagos\nonde se\nmultiplica\n\nMOREIRA et al. 2020. \"Aspectos fundamentais da leishmaniose cutânea no Brasil\". DOI:10.$22533/at$.ed.4852012037. Adaptado.\n\nO parasita sobrevive nas células do hospedeiro mamífero pela inativação de enzimas da(o) 1 o que bloqueia a digestão intracelular e possibilita a continuidade do ciclo da leishmania. Uma das formas de se prevenir a transmissão dessa doença é II.\n\nAs lacunas I e II podem ser preenchidas corretamente por:",
       subItens: []
     },
     options: [
@@ -1557,7 +1557,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "PRE\nREF\nEXICE REFORMAS de BAST\nRUDGAR\nAJOR\nRO\nFotografia do Comício da Central do Brasil, 13 de março de 1964 (sem autoria).\n\n\"Comício da Central do Brasil. Declarações do presidente João Goulart incomodaram a direita e os militares\". Folha de S. Paulo/uol/ 27 nov. 2013.\n\nL\nMETALURGICOS\nJANGO!...\nDEFENDEREMOS AS SUAS\nREFORMAS A BALA\nCOS\nALI\nEXI\nVOLTA REDONDA JDA\nFUS\nDA\nD\nA\nOECAAPUAVA O SINDICA\nONDA\nDEP CONSTRU\nQUREMOS LUZ\nDAFLE\nS\nFotografia tirada por Domício Pinheiro, Comício da Central do Brasil, 13 de março de 1964.\n\nSCHWARCZ, Lilia e STARLING, Heloísa. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015.\n\nAs fotografias registram cenas do comício realizado pelo governo João Goulart no Rio de Janeiro, em março de 1964. Considerando a leitura das imagens, é correto afirmar:",
+      principal: "PRE\nREF\nEXICE REFORMAS de BAST\nRUDGAR\nAJOR\nRO\nFotografia do Comício da Central do Brasil, 13 de março de 1964 (sem autoria).\n\n\"Comício da Central do Brasil. Declarações do presidente João Goulart incomodaram a direita e os militares\". Folha de S. Paulo/uol/ 27 nov. 2013.\n\nL\nMETALURGICOS\nJANGO!...\nDEFENDEREMOS AS SUAS\nREFORMAS A BALA\n$\\cos$\nALI\nEXI\nVOLTA REDONDA JDA\nFUS\nDA\nD\nA\nOECAAPUAVA O SINDICA\nONDA\nDEP CONSTRU\nQUREMOS LUZ\nDAFLE\nS\nFotografia tirada por Domício Pinheiro, Comício da Central do Brasil, 13 de março de 1964.\n\nSCHWARCZ, Lilia e STARLING, Heloísa. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015.\n\nAs fotografias registram cenas do comício realizado pelo governo João Goulart no Rio de Janeiro, em março de 1964. Considerando a leitura das imagens, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -1641,7 +1641,7 @@ createQuestion({
     university: "fuvest",
     year: 2023,
     text: {
-      principal: "PODE DETONAR\nO PATRIMÔNIO\nPÚBLICO, PAI?\nQUÊ?!\n/\nCLARO QUE\nNÃO, FILHO!\n\nTEXTO PARA AS QUESTÕES 79 E 80\nAVARIAR LIXEIRAS\nE PLACAS DE\nTRÂNSITO...É CRIME!\n\nE HOSPITAIS,\nUNIVERSIDADES.\nFLORESTAS,\nESTATAIS?\n\nAlexandre Beck 2499/17\nDisponível em https://tirasarmandinho.tumblr.com/. Adaptado.\n\nOs verbos \"detonar\" e \"avariar\", no texto, são exemplos de",
+      principal: "PODE DETONAR\nO PATRIMÔNIO\nPÚBLICO, PAI?\nQUÊ?!\n/\nCLARO QUE\nNÃO, FILHO!\n\nTEXTO PARA AS QUESTÕES 79 E 80\nAVARIAR LIXEIRAS\nE PLACAS DE\nTRÂNSITO...É CRIME!\n\nE HOSPITAIS,\nUNIVERSIDADES.\nFLORESTAS,\nESTATAIS?\n\nAlexandre Beck $2499/17$\nDisponível em https://tirasarmandinho.tumblr.com/. Adaptado.\n\nOs verbos \"detonar\" e \"avariar\", no texto, são exemplos de",
       subItens: []
     },
     options: [

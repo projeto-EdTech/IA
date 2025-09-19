@@ -71,10 +71,10 @@ createQuestion({
     },
     options: [
       "T + Q.",
-      "T + Q/2.",
-      "T + Q/3.",
-      "T/2 + Q.",
-      "T/3 + Q."
+      "T + $Q/2$.",
+      "T + $Q/3$.",
+      "$T/2$ + Q.",
+      "$T/3$ + Q."
     ],
     correctAnswer: 2,
     materia: ["Matemática — Geometria Plana"],
@@ -217,10 +217,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "c ≤ 1/4.",
-      "c ≥ 1/4.",
-      "c ≤ 1/2.",
-      "c ≥ 1/2.",
+      "c ≤ $1/4$.",
+      "c ≥ $1/4$.",
+      "c ≤ $1/2$.",
+      "c ≥ $1/2$.",
       "c ≤ 1."
     ],
     correctAnswer: 0,
@@ -864,7 +864,7 @@ createQuestion({
     university: "fuvest",
     year: 2021,
     text: {
-      principal: "Leia com atenção os dados do quadro e da tabela, relativos à epidemia de gripe espanhola na cidade de São Paulo, em 1918. Quadro: Município de São Paulo: Características distritais por volta de 1918. Tabela: Mortalidade Gripal no Município de São Paulo por distrito (15/10 a 19/12/1918). Considerando as informações apresentadas, é correto afirmar:",
+      principal: "Leia com atenção os dados do quadro e da tabela, relativos à epidemia de gripe espanhola na cidade de São Paulo, em 1918. Quadro: Município de São Paulo: Características distritais por volta de 1918. Tabela: Mortalidade Gripal no Município de São Paulo por distrito ($15/10$ a 19/12/1918). Considerando as informações apresentadas, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -952,11 +952,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "|F| = Pd / (L cos(θ))",
-      "|F| = Pd / (L sen(θ))",
-      "|F| = |P| cos(θ)",
-      "|F| = PL cos(θ) / d",
-      "|F| = PL sen(θ) / d"
+      "|F| = Pd / (L $\\cos$(θ))",
+      "|F| = Pd / (L $\\sin$(θ))",
+      "|F| = |P| $\\cos$(θ)",
+      "|F| = PL $\\cos$(θ) / d",
+      "|F| = PL $\\sin$(θ) / d"
     ],
     correctAnswer: 0,
     materia: ["Física — Estática"],
@@ -1011,12 +1011,12 @@ createQuestion({
     university: "fuvest",
     year: 2021,
     text: {
-      principal: "Ondas estacionárias podem ser produzidas de diferentes formas, dentre elas esticando-se uma corda homogênea, fixa em dois pontos separados por uma distância L, e pondo-a a vibrar. A extremidade à direita é acoplada a um gerador de frequências, enquanto a outra extremidade está sujeita a uma força tensional produzida ao se pendurar à corda um objeto de massa mo mantido em repouso. O arranjo experimental é ilustrado na figura. Ajustando a frequência do gerador para f₁, obtém-se na corda uma onda estacionária que vibra em seu primeiro harmônico. Ao trocarmos o objeto pendurado por outro de massa M, observa-se que a frequência do gerador para que a corda continue a vibrar no primeiro harmônico deve ser ajustada para 2f₁. Com isso, é correto concluir que a razão M/mo deve ser:",
+      principal: "Ondas estacionárias podem ser produzidas de diferentes formas, dentre elas esticando-se uma corda homogênea, fixa em dois pontos separados por uma distância L, e pondo-a a vibrar. A extremidade à direita é acoplada a um gerador de frequências, enquanto a outra extremidade está sujeita a uma força tensional produzida ao se pendurar à corda um objeto de massa mo mantido em repouso. O arranjo experimental é ilustrado na figura. Ajustando a frequência do gerador para f₁, obtém-se na corda uma onda estacionária que vibra em seu primeiro harmônico. Ao trocarmos o objeto pendurado por outro de massa M, observa-se que a frequência do gerador para que a corda continue a vibrar no primeiro harmônico deve ser ajustada para 2f₁. Com isso, é correto concluir que a razão $M/mo$ deve ser:",
       subItens: []
     },
     options: [
-      "1/4",
-      "1/2",
+      "$1/4$",
+      "$1/2$",
       "1",
       "2",
       "4"
@@ -1137,15 +1137,15 @@ createQuestion({
     university: "fuvest",
     year: 2021,
     text: {
-      principal: "A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente 4 × 10^26 W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de 5 × 10^9 anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de",
+      principal: "A energia irradiada pelo Sol provém da conversão de massa em energia durante reações de fusão de núcleos de hidrogênio para produzir núcleos de hélio. Atualmente, essas reações permitem ao Sol emitir radiação luminosa a uma potência de aproximadamente 4 × $10^26$ W. Supondo que essa potência tenha sido mantida desde o nascimento do Sol, cerca de 5 × $10^9$ anos atrás, a massa correspondente àquela perdida pelo Sol até hoje é mais próxima de",
       subItens: []
     },
     options: [
-      "10^7 kg.",
-      "10^17 kg.",
-      "10^27 kg.",
-      "10^37 kg.",
-      "10^47 kg."
+      "$10^7$ kg.",
+      "$10^17$ kg.",
+      "$10^27$ kg.",
+      "$10^37$ kg.",
+      "$10^47$ kg."
     ],
     correctAnswer: 2,
     materia: ["Física — Física Moderna"],
@@ -1389,7 +1389,7 @@ createQuestion({
     university: "fuvest",
     year: 2021,
     text: {
-      principal: "Terça é dia de Veneza revelar as atrações de seu festival anual, cuja 77ª edição começa no dia 2 de setembro, com a dramédia \"Lacci\", do romano Daniele Luchetti, seguindo até 12/9, com 50 produções internacionais e uma expectativa (extraoficial) de colocar \"West Side Story\", de Steven Spielberg, na ribalta. Rodrigo Fonseca. \"À espera dos rugidos de Ven eza\". O Estado de S. Paulo. Julho/2020. Adaptado. Um processo de formação de palavras em língua portuguesa é o cruzamento vocabular, em que são misturadas pelo menos duas palavras na formação de uma terceira. A força expressiva dessa nova palavra resulta da síntese de significados e do inesperado da combinação, como é o caso de \"dramédia\" no texto. Ocorre esse mesmo tipo de formação em",
+      principal: "Terça é dia de Veneza revelar as atrações de seu festival anual, cuja 77ª edição começa no dia 2 de setembro, com a dramédia \"Lacci\", do romano Daniele Luchetti, seguindo até $12/9$, com 50 produções internacionais e uma expectativa (extraoficial) de colocar \"West Side Story\", de Steven Spielberg, na ribalta. Rodrigo Fonseca. \"À espera dos rugidos de Ven eza\". O Estado de S. Paulo. $Julho/2020$. Adaptado. Um processo de formação de palavras em língua portuguesa é o cruzamento vocabular, em que são misturadas pelo menos duas palavras na formação de uma terceira. A força expressiva dessa nova palavra resulta da síntese de significados e do inesperado da combinação, como é o caso de \"dramédia\" no texto. Ocorre esse mesmo tipo de formação em",
       subItens: []
     },
     options: [
@@ -1578,7 +1578,7 @@ createQuestion({
     university: "fuvest",
     year: 2021,
     text: {
-      principal: "Remissão Tua memória, pasto de poesia, tua poesia, pasto dos vulgares, vão se engastando numa coisa fria a que tu chamas: vida, e seus pesares. Mas, pesares de quê? perguntaria, se esse travo de angústia nos cantares, se o que dorme na base da elegia vai correndo e secando pelos ares, e nada resta, mesmo, do que escreves e te forçou ao exílio das palavras, senão contentamento de escrever, enquanto o tempo, e suas formas breves ou longas, que sutil interpretavas, se evapora no fundo do teu ser? Carlos Drummond de Andrade, Claro enigma. Claro enigma apresenta, por meio do lirismo reflexivo, o posicionamento do escritor perante a sua condição no mundo. Considerando-o como representativo desse seu aspecto, o poema \"Remissão\"",
+      principal: "Remissão Tua memória, pasto de poesia, tua poesia, pasto dos vulgares, vão se engastando numa coisa fria a que tu chamas: vida, e seus pesares. Mas, pesares de quê? perguntaria, se esse travo de angústia nos cantares, se o que dorme na base da elegia vai correndo e secando pelos ares, e nada resta, mesmo, do que escreves e te forçou ao exílio das palavras, $\\sin$ão contentamento de escrever, enquanto o tempo, e suas formas breves ou longas, que sutil interpretavas, se evapora no fundo do teu ser? Carlos Drummond de Andrade, Claro enigma. Claro enigma apresenta, por meio do lirismo reflexivo, o posicionamento do escritor perante a sua condição no mundo. Considerando-o como representativo desse seu aspecto, o poema \"Remissão\"",
       subItens: []
     },
     options: [

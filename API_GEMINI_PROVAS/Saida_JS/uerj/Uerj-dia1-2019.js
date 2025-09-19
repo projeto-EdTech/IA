@@ -103,7 +103,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "Estima-se que um mosquito seja capaz de voar 3,0 km por dia, como informa o texto. Nessas condições, a velocidade média do mosquito corresponde, em km/h, a:",
+      principal: "Estima-se que um mosquito seja capaz de voar 3,0 km por dia, como informa o texto. Nessas condições, a velocidade média do mosquito corresponde, em $km/h$, a:",
       subItens: []
     },
     options: [
@@ -589,8 +589,8 @@ createQuestion({
     options: [
       "aritmética de razão = 8",
       "aritmética de razão = – 6",
-      "geométrica de razão = 1/2",
-      "geométrica de razão = 1/4"
+      "geométrica de razão = $1/2$",
+      "geométrica de razão = $1/4$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -607,10 +607,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "(-1/2, √3/2)",
-      "(-1/2, -√3/2)",
-      "(√3/2, 1/2)",
-      "(-√2/2, -1/2)"
+      "(-$1/2$, √$3/2$)",
+      "(-$1/2$, -√$3/2$)",
+      "(√$3/2$, $1/2$)",
+      "(-√$2/2$, -$1/2$)"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -667,10 +667,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "3/32",
-      "5/32",
-      "3/16",
-      "5/16"
+      "$3/32$",
+      "$5/32$",
+      "$3/16$",
+      "$5/16$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -767,8 +767,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/6",
-      "3/5",
+      "$1/6$",
+      "$3/5$",
       "1",
       "6"
     ],
@@ -803,7 +803,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "Em uma mesa de sinuca, as bolas A e B, ambas com massa igual a 140 g, deslocam-se com velocidades Vᴀ e Vʙ, na mesma direção e sentido. O gráfico abaixo representa essas velocidades ao longo do tempo. Após uma colisão entre as bolas, a quantidade de movimento total, em kg.m/s, é igual a:\n\n[Gráfico de velocidade (m/s) versus tempo (s). Bola A tem velocidade constante de 10 m/s. Bola B tem velocidade constante de 6 m/s.]",
+      principal: "Em uma mesa de sinuca, as bolas A e B, ambas com massa igual a 140 g, deslocam-se com velocidades Vᴀ e Vʙ, na mesma direção e sentido. O gráfico abaixo representa essas velocidades ao longo do tempo. Após uma colisão entre as bolas, a quantidade de movimento total, em kg.$m/s$, é igual a:\n\n[Gráfico de velocidade ($m/s$) versus tempo (s). Bola A tem velocidade constante de 10 $m/s$. Bola B tem velocidade constante de 6 $m/s$.]",
       subItens: []
     },
     options: [
@@ -903,7 +903,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "Para a remoção de um esmalte, um laboratório precisa preparar 200 mL de uma solução aquosa de propanona na concentração de 0,2 mol/L. Admita que a densidade da propanona pura é igual a 0,8 kg/L. Nesse caso, o volume de propanona pura, em mililitros, necessário ao preparo da solução corresponde a:",
+      principal: "Para a remoção de um esmalte, um laboratório precisa preparar 200 mL de uma solução aquosa de propanona na concentração de 0,2 $mol/L$. Admita que a densidade da propanona pura é igual a 0,8 $kg/L$. Nesse caso, o volume de propanona pura, em mililitros, necessário ao preparo da solução corresponde a:",
       subItens: []
     },
     options: [
@@ -983,7 +983,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "As caravanas (letra de Chico Buarque)\nÉ um dia de real grandeza, tudo azul\nUm mar turquesa à la Istambul enchendo os olhos\nUm sol de torrar os miolos\nQuando pinta em Copacabana\nA caravana do Arará, do Caxangá, da Chatuba\nA caravana do Irajá, o comboio da Penha\nNão há barreira que retenha esses estranhos\nSuburbanos tipo muçulmanos do Jacarezinho\nA caminho do Jardim de Alá\nÉ o bicho, é o buchicho, é a charanga\n(...)\nCom negros torsos nus deixam em polvorosa\nA gente ordeira e virtuosa que apela\nPra polícia despachar de volta\nO populacho pra favela\nOu pra Benguela, ou pra Guiné\n\nSol\nA culpa deve ser do sol que bate na moleira\nO sol que estoura as veias\nO suor que embaça os olhos e a razão\nE essa zoeira dentro da prisão\nCrioulos empilhados no porão\nDe caravelas no alto mar\n\nTem que bater, tem que matar, engrossa a gritaria\nFilha do medo, a raiva é mãe da covardia\nOu doido sou eu que escuto vozes\nNão há gente tão insana\nNem caravana do Arará\nNão há, não há\n(...)\n\nNa letra da canção, o compositor estabelece vínculos entre diferentes temporalidades. Esses vínculos explicitam uma relação de causalidade entre os seguintes elementos:",
+      principal: "As caravanas (letra de Chico Buarque)\nÉ um dia de real grandeza, tudo azul\nUm mar turquesa à la Istambul enchendo os olhos\nUm sol de torrar os miolos\nQuando pinta em Copacabana\nA caravana do Arará, do Caxangá, da Chatuba\nA caravana do Irajá, o comboio da Penha\nNão há barreira que retenha esses estranhos\nSuburbanos tipo $\\mu$çulmanos do Jacarezinho\nA caminho do Jardim de Alá\nÉ o bicho, é o buchicho, é a charanga\n(...)\nCom negros torsos nus deixam em polvorosa\nA gente ordeira e virtuosa que apela\nPra polícia despachar de volta\nO populacho pra favela\nOu pra Benguela, ou pra Guiné\n\nSol\nA culpa deve ser do sol que bate na moleira\nO sol que estoura as veias\nO suor que embaça os olhos e a razão\nE essa zoeira dentro da prisão\nCrioulos empilhados no porão\nDe caravelas no alto mar\n\nTem que bater, tem que matar, engrossa a gritaria\nFilha do medo, a raiva é mãe da covardia\nOu doido sou eu que escuto vozes\nNão há gente tão insana\nNem caravana do Arará\nNão há, não há\n(...)\n\nNa letra da canção, o compositor estabelece vínculos entre diferentes temporalidades. Esses vínculos explicitam uma relação de causalidade entre os seguintes elementos:",
       subItens: []
     },
     options: [
@@ -1043,7 +1043,7 @@ createQuestion({
     university: "uerj",
     year: 2019,
     text: {
-      principal: "MUDANÇA NO COMÉRCIO DE BENS DOS ESTADOS UNIDOS:\nIMPORTAÇÕES POR PAÍSES\n\n[Gráfico de barras duplas mostrando o percentual de importações de bens dos Estados Unidos por país/região em 1993 e 2016. Países/regiões: UE15*, Canadá, México, China, Japão. *UE15: conjunto das trocas com as 15 maiores economias da Europa Ocidental.]\n\nO processo de globalização das últimas décadas vem redefinindo os fluxos de bens entre os países. A partir do gráfico, a mudança dos locais de origem dos bens pode ser explicada pela seguinte característica do processo de globalização:",
+      principal: "MUDANÇA NO COMÉRCIO DE BENS DOS ESTADOS UNIDOS:\nIMPORTAÇÕES POR PAÍSES\n\n[Gráfico de barras duplas mostrando o percentual de importações de bens dos Estados Unidos por paí$s/regi$ão em 1993 e 2016. Paí$ses/regi$ões: UE15*, Canadá, México, China, Japão. *UE15: conjunto das trocas com as 15 maiores economias da Europa Ocidental.]\n\nO processo de globalização das últimas décadas vem redefinindo os fluxos de bens entre os países. A partir do gráfico, a mudança dos locais de origem dos bens pode ser explicada pela seguinte característica do processo de globalização:",
       subItens: []
     },
     options: [

@@ -24,15 +24,15 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "Considere duas partículas de massa m, cada qual presa numa das pontas de uma corda, de comprimento l e massa desprezível, que atravessa um orifício de uma mesa horizontal lisa. Conforme mostra a figura, a partícula sobre a mesa descreve um movimento circular uniforme de raio r e velocidade angular ω1. A partícula suspensa também descreve esse mesmo tipo de movimento, mas com velocidade angular ω2, estando presa a uma mola de constante elástica k e comprimento natural desprezível, mantida na horizontal. Sendo g o módulo da aceleração da gravidade e θ o ângulo do trecho suspenso da corda com a vertical, a razão (ω2/ω1)² é dada por\nA() r[mg + k(l - r) cos θ] / mg(1 - r)\nD() k(1 - r) cos θ / mg + kr\nB() (1 - r)(mg + kr cos θ) / mgr sen θ\nE() (1 - r)k cos θ / mg + k(l - r) cos θ\nC() (1 - r)(mg + kr tg θ) / kr2\n(A imagem mostra um esquema de duas massas 'm', uma sobre uma mesa horizontal com um movimento circular de raio 'r' e velocidade angular 'ω1', conectada por uma corda que atravessa um orifício no centro da mesa. A outra massa está suspensa e conectada a uma mola com constante elástica 'k', formando um ângulo 'θ' com a vertical. Essa massa também descreve um movimento com velocidade angular 'ω2'.)",
+      principal: "Considere duas partículas de massa m, cada qual presa numa das pontas de uma corda, de comprimento l e massa desprezível, que atravessa um orifício de uma mesa horizontal lisa. Conforme mostra a figura, a partícula sobre a mesa descreve um movimento circular uniforme de raio r e velocidade angular ω1. A partícula suspensa também descreve esse mesmo tipo de movimento, mas com velocidade angular ω2, estando presa a uma mola de constante elástica k e comprimento natural desprezível, mantida na horizontal. Sendo g o módulo da aceleração da gravidade e θ o ângulo do trecho suspenso da corda com a vertical, a razão (ω2/ω1)² é dada por\nA() r[mg + k(l - r) $\\cos$ θ] / mg(1 - r)\nD() k(1 - r) $\\cos$ θ / mg + kr\nB() (1 - r)(mg + kr $\\cos$ θ) / mgr $\\sin$ θ\nE() (1 - r)k $\\cos$ θ / mg + k(l - r) $\\cos$ θ\nC() (1 - r)(mg + kr $\\tan$ θ) / kr2\n(A imagem mostra um esquema de duas massas 'm', uma sobre uma mesa horizontal com um movimento circular de raio 'r' e velocidade angular 'ω1', conectada por uma corda que atravessa um orifício no centro da mesa. A outra massa está suspensa e conectada a uma mola com constante elástica 'k', formando um ângulo 'θ' com a vertical. Essa massa também descreve um movimento com velocidade angular 'ω2'.)",
       subItens: []
     },
     options: [
-      "r[mg + k(l - r) cos θ] / mg(1 - r)",
-      "(1 - r)(mg + kr cos θ) / mgr sen θ",
-      "(1 - r)(mg + kr tg θ) / kr2",
-      "k(1 - r) cos θ / mg + kr",
-      "(1 - r)k cos θ / mg + k(l - r) cos θ"
+      "r[mg + k(l - r) $\\cos$ θ] / mg(1 - r)",
+      "(1 - r)(mg + kr $\\cos$ θ) / mgr $\\sin$ θ",
+      "(1 - r)(mg + kr $\\tan$ θ) / kr2",
+      "k(1 - r) $\\cos$ θ / mg + kr",
+      "(1 - r)k $\\cos$ θ / mg + k(l - r) $\\cos$ θ"
     ],
     correctAnswer: 0,
     materia: [],
@@ -108,15 +108,15 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "Uma barra rígida, homogênea, fina e de comprimento l, é presa a uma corda horizontal sem massa e toca a quina de uma superfície horizontal livre de atrito, fazendo um ângulo θ como mostra a figura. Considerando a barra em equilíbrio, assinale a opção correta para o valor da razão d/l, em que d é a distância da quina ao centro de gravidade (CG) da barra.\nA() tg²θ / 2\nC() sen²θ / 4\nE() sen²θ / 2\nB() cos²θ / 4\nD() cos²θ / 2\n(A imagem mostra uma barra inclinada com um ângulo θ com a superfície horizontal, apoiada em uma quina, e presa por uma corda horizontal. A distância do CG à quina é 'd' e o comprimento total da barra é 'l'.)",
+      principal: "Uma barra rígida, homogênea, fina e de comprimento l, é presa a uma corda horizontal sem massa e toca a quina de uma superfície horizontal livre de atrito, fazendo um ângulo θ como mostra a figura. Considerando a barra em equilíbrio, assinale a opção correta para o valor da razão $d/l$, em que d é a distância da quina ao centro de gravidade (CG) da barra.\nA() $\\tan$²θ / 2\nC() $\\sin$²θ / 4\nE() $\\sin$²θ / 2\nB() $\\cos$²θ / 4\nD() $\\cos$²θ / 2\n(A imagem mostra uma barra inclinada com um ângulo θ com a superfície horizontal, apoiada em uma quina, e presa por uma corda horizontal. A distância do CG à quina é 'd' e o comprimento total da barra é 'l'.)",
       subItens: []
     },
     options: [
-      "tg²θ / 2",
-      "cos²θ / 4",
-      "sen²θ / 4",
-      "cos²θ / 2",
-      "sen²θ / 2"
+      "$\\tan$²θ / 2",
+      "$\\cos$²θ / 4",
+      "$\\sin$²θ / 4",
+      "$\\cos$²θ / 2",
+      "$\\sin$²θ / 2"
     ],
     correctAnswer: 4,
     materia: [],
@@ -175,11 +175,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "12,0 V/m.",
-      "8,0 V/m.",
-      "6,0 V/m.",
-      "10,0 V/m.",
-      "16,0 V/m."
+      "12,0 $V/m$.",
+      "8,0 $V/m$.",
+      "6,0 $V/m$.",
+      "10,0 $V/m$.",
+      "16,0 $V/m$."
     ],
     correctAnswer: 3,
     materia: [],
@@ -196,9 +196,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "π * mv / qB * cos θ.",
-      "2π * mv / qB * cos θ.",
-      "2π * mv / qB * sen θ.",
+      "π * mv / qB * $\\cos$ θ.",
+      "2π * mv / qB * $\\cos$ θ.",
+      "2π * mv / qB * $\\sin$ θ.",
       "π * mv / qB",
       "2π * mv / qB"
     ],
@@ -234,14 +234,14 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "A figura mostra uma espira circular, de raio a e resistência R, com centro situado sobre o eixo de um solenóide muito longo, com n voltas por unidade de comprimento e raio b (b < a). No instante inicial, t = 0, o eixo do solenóide encontra-se perpendicular ao plano da espira, que oscila segundo a expressão θ = θmax sen (ωt), em que ω é a frequência angular do movimento. Se a corrente que passa pelo solenóide cresce linearmente com o tempo, conforme I = Kt, e sendo μ0 a permeabilidade magnética do vácuo, então a intensidade da corrente elétrica induzida na espira é\n(A imagem mostra um solenóide longo e uma espira circular coaxial a ele. A espira tem raio 'a' e o solenóide tem raio 'b', com b < a. O solenóide está girando com um ângulo θmax.)",
+      principal: "A figura mostra uma espira circular, de raio a e resistência R, com centro situado sobre o eixo de um solenóide muito longo, com n voltas por unidade de comprimento e raio b (b < a). No instante inicial, t = 0, o eixo do solenóide encontra-se perpendicular ao plano da espira, que oscila segundo a expressão θ = θmax $\\sin$ (ωt), em que ω é a frequência angular do movimento. Se a corrente que passa pelo solenóide cresce linearmente com o tempo, conforme I = Kt, e sendo μ0 a permeabilidade magnética do vácuo, então a intensidade da corrente elétrica induzida na espira é\n(A imagem mostra um solenóide longo e uma espira circular coaxial a ele. A espira tem raio 'a' e o solenóide tem raio 'b', com b < a. O solenóide está girando com um ângulo θmax.)",
       subItens: []
     },
     options: [
       "μ0 * n * K * π * a² / R",
       "μ0 * n * K * π * b² / R",
-      "μ0 * n * K * ω * θmax * π * b² / R * |sen(ωt)|",
-      "μ0 * n * K * ω * θmax * π * b² / R * |cos(ωt)|",
+      "μ0 * n * K * ω * θmax * π * b² / R * |$\\sin$(ωt)|",
+      "μ0 * n * K * ω * θmax * π * b² / R * |$\\cos$(ωt)|",
       "0."
     ],
     correctAnswer: 1,
@@ -381,7 +381,7 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "A partir da leitura dos textos 1 e 2, depreende-se que I. os autores reiteram que grafite e pichação não são práticas artísticas bem aceitas por toda a sociedade. II. o texto 1 menciona a ausência de poesia na pichação; o texto 2 explora a possibilidade de essa prática disseminar cultura. III. o texto 1 contrasta grafite e pichação; já o texto 2 expressa motivações subjetivas do autor para pichar. Está/ão correta/s:",
+      principal: "A partir da leitura dos textos 1 e 2, depreende-se que I. os autores reiteram que grafite e pichação não são práticas artísticas bem aceitas por toda a sociedade. II. o texto 1 menciona a ausência de poesia na pichação; o texto 2 explora a possibilidade de essa prática disseminar cultura. III. o texto 1 contrasta grafite e pichação; já o texto 2 expressa motivações subjetivas do autor para pichar. Está/ão $correta/s$:",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "Leia o poema de autoria de Cecília Meireles. O texto 'Epigrama n. 04' (O choro vem perto dos olhos / para que a dor transborde e caia. / O choro vem quase chorando / como a onda que toca a praia. / Descem dos céus ordens augustas / e o mar chama a onda para o centro. / O choro foge sem vestígios, / mas levando náufragos dentro. / (MEIRELES, Cecília, Viagem/Vaga música. Rio de Janeiro: Nova Fronteira, 1982.p.43)) I. aproxima metaforicamente um fenômeno humano e um fenômeno natural a partir da identificação de, pelo menos, um traço comum a ambos: água em movimento. II. sugere que, enquanto o movimento do choro é ligado à variação das emoções, o movimento da onda deve-se a forças naturais, responsáveis pela circularidade marítima. III. ameniza o dramatismo do choro humano, pois, quando acomete o sujeito, ele passa naturalmente, como a onda que volta ao mar. IV. leva-nos a perceber que o choro contido tem um impacto emocional que o torna desolador. Estão corretas:",
+      principal: "Leia o poema de autoria de Cecília Meireles. O texto 'Epigrama n. 04' (O choro vem perto dos olhos / para que a dor transborde e caia. / O choro vem quase chorando / como a onda que toca a praia. / Descem dos céus ordens augustas / e o mar chama a onda para o centro. / O choro foge sem vestígios, / mas levando náufragos dentro. / (MEIRELES, Cecília, $Viagem/Vaga$ música. Rio de Janeiro: Nova Fronteira, 1982.p.43)) I. aproxima metaforicamente um fenômeno humano e um fenômeno natural a partir da identificação de, pelo menos, um traço comum a ambos: água em movimento. II. sugere que, enquanto o movimento do choro é ligado à variação das emoções, o movimento da onda deve-se a forças naturais, responsáveis pela circularidade marítima. III. ameniza o dramatismo do choro humano, pois, quando acomete o sujeito, ele passa naturalmente, como a onda que volta ao mar. IV. leva-nos a perceber que o choro contido tem um impacto emocional que o torna desolador. Estão corretas:",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "As questões de 30 a 32 referem-se à tirinha a seguir:\n(Tirinha de quadrinhos. O primeiro quadro mostra um chefe criticando um jornalista: \"Pfff... No fact-checking, no reliable source, clickbait titles... it's shameful!\". O segundo quadro mostra o chefe se explicando: \"According to our journalistic codes of ethics, we follow integrity, accuracy, factual reporting, dignity and we fight against lies and corruption!\". O terceiro quadro mostra o jornalista contra-argumentando: \"Okay boss, but A/B testing shows that it's this kind of articles which generate the most clicks and likes on social networks...\". No último quadro, o chefe responde: \"Oh really? Show me these figures...\".)\nQuestão 30. De acordo com a tirinha,",
+      principal: "As questões de 30 a 32 referem-se à tirinha a seguir:\n(Tirinha de quadrinhos. O primeiro quadro mostra um chefe criticando um jornalista: \"Pfff... No fact-checking, no reliable source, clickbait titles... it's shameful!\". O segundo quadro mostra o chefe se explicando: \"According to our journalistic codes of ethics, we follow integrity, accuracy, factual reporting, dignity and we fight against lies and corruption!\". O terceiro quadro mostra o jornalista contra-argumentando: \"Okay boss, but $A/B$ testing shows that it's this kind of articles which generate the most clicks and likes on social networks...\". No último quadro, o chefe responde: \"Oh really? Show me these figures...\".)\nQuestão 30. De acordo com a tirinha,",
       subItens: []
     },
     options: [
@@ -763,11 +763,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/35",
-      "2/35",
-      "4/35",
-      "8/35",
-      "16/35"
+      "$1/35$",
+      "$2/35$",
+      "$4/35$",
+      "$8/35$",
+      "$16/35$"
     ],
     correctAnswer: 2,
     materia: [],
@@ -787,7 +787,7 @@ createQuestion({
       "9.",
       "8.",
       "3.",
-      "9/2",
+      "$9/2$",
       "10."
     ],
     correctAnswer: 0,
@@ -806,10 +806,10 @@ createQuestion({
     },
     options: [
       "1/√7",
-      "√7/7",
+      "√$7/7$",
       "1/√2",
-      "√2/2",
-      "2√6/5"
+      "√$2/2$",
+      "2√$6/5$"
     ],
     correctAnswer: 0,
     materia: [],
@@ -885,7 +885,7 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "Considere as seguintes afirmações: I. Se n é um número natural, então 1/(n+1) + 1/(n+2) + ... + 1/(2n) > 1/2. II. Se x é um número real e x³ + x + 1 = 0, então x² + 1/x + 1/x⁶ = 0. III. Se a, b e c são números reais positivos que formam, nessa ordem, uma progressão aritmética, então 1/(√b+√c), 1/(√c+√a), 1/(√a+√b) formam, nessa ordem, uma progressão aritmética. É(são) VERDADEIRA(S)",
+      principal: "Considere as seguintes afirmações: I. Se n é um número natural, então 1/(n+1) + 1/(n+2) + ... + 1/(2n) > $1/2$. II. Se x é um número real e x³ + x + 1 = 0, então x² + $1/x$ + $1/x$⁶ = 0. III. Se a, b e c são números reais positivos que formam, nessa ordem, uma progressão aritmética, então 1/(√b+√c), 1/(√c+√a), 1/(√a+√b) formam, nessa ordem, uma progressão aritmética. É(são) VERDADEIRA(S)",
       subItens: []
     },
     options: [
@@ -910,11 +910,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "63/128",
-      "63/256",
-      "63/512",
-      "189/512",
-      "189/1024"
+      "$63/128$",
+      "$63/256$",
+      "$63/512$",
+      "$189/512$",
+      "$189/1024$"
     ],
     correctAnswer: 1,
     materia: [],
@@ -948,7 +948,7 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "Seja f : [-1,1] → [-π/2, π/2] a função definida por f(x) = arcsen(x). Então, a soma Σ (de n=0 a 4) f(cos(2πn/3)) é igual a",
+      principal: "Seja f : [-1,1] → [-π/2, π/2] a função definida por f(x) = arcsen(x). Então, a soma Σ (de n=0 a 4) f($\\cos$(2π$n/3$)) é igual a",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "Retardantes de chama são substâncias que atenuam e/ou inibem o processo de combustão de um material. Considere os seguintes fenômenos: I. Criação de um dissipador de calor usando um composto que se decompõe em um processo altamente exotérmico, gerando produtos voláteis não combustíveis. II. Aumento da transferência de calor na superfície em combustão por eliminação do material fundido. III. Envenenamento da chama pela evolução de espécies químicas que capturam os radicais H e OH que são ativos na propagação da termooxidação da chama. IV. Limitação da transferência de calor e massa pela criação de uma camada de carbonização isolante na superfície do material sólido em combustão. Assinale a opção que apresenta corretamente o(s) fenômeno(s) que pode(m) ser atribuído(s) a ações de retardantes de chama.",
+      principal: "Retardantes de chama são substâncias que atenuam $e/ou$ inibem o processo de combustão de um material. Considere os seguintes fenômenos: I. Criação de um dissipador de calor usando um composto que se decompõe em um processo altamente exotérmico, gerando produtos voláteis não combustíveis. II. Aumento da transferência de calor na superfície em combustão por eliminação do material fundido. III. Envenenamento da chama pela evolução de espécies químicas que capturam os radicais H e OH que são ativos na propagação da termooxidação da chama. IV. Limitação da transferência de calor e massa pela criação de uma camada de carbonização isolante na superfície do material sólido em combustão. Assinale a opção que apresenta corretamente o(s) fenômeno(s) que pode(m) ser atribuído(s) a ações de retardantes de chama.",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "Computadores químicos são sistemas desenvolvidos para resolver diversos problemas de ciência e engenharia, por meio de reações químicas. Considere dois exemplos de aplicação desses computadores: I. Desenvolvimento de circuitos de controle molecular e procedimentos terapêuticos inteligentes utilizando um conjunto de velocidades de reações químicas como linguagem de programação para controlar a síntese de DNA. II. Definição das melhores rotas de deslocamento entre dois pontos de um mapa, de forma mais rápida do que qualquer sistema de navegação convencional. O computador utiliza um mapa preenchido com um líquido alcalino. O ponto de partida contém partículas de corante e o ponto de destino contém um gel misturado com ácido. Assinale a opção que apresenta os conceitos/processos que melhor descrevem o princípio de funcionamento dos computadores químicos exemplificados em I e II, respectivamente.",
+      principal: "Computadores químicos são sistemas desenvolvidos para resolver diversos problemas de ciência e engenharia, por meio de reações químicas. Considere dois exemplos de aplicação desses computadores: I. Desenvolvimento de circuitos de controle molecular e procedimentos terapêuticos inteligentes utilizando um conjunto de velocidades de reações químicas como linguagem de programação para controlar a síntese de DNA. II. Definição das melhores rotas de deslocamento entre dois pontos de um mapa, de forma mais rápida do que qualquer sistema de navegação convencional. O computador utiliza um mapa preenchido com um líquido alcalino. O ponto de partida contém partículas de corante e o ponto de destino contém um gel misturado com ácido. Assinale a opção que apresenta os $conceitos/processos$ que melhor descrevem o princípio de funcionamento dos computadores químicos exemplificados em I e II, respectivamente.",
       subItens: []
     },
     options: [
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "Sabe-se que um determinado nuclídeo, estável ou instável, em seu estado fundamental é designado por Xₑ, e em seu estado excitado, por X*. Considere o bombardeamento do átomo estável de cobalto no estado fundamental por um nêutron. O nuclídeo gerado por essa reação sofre três decaimentos radioativos consecutivos, liberando, respectivamente, uma partícula beta e 0,31 MeV de energia, uma partícula gama e 1,17 MeV de energia, e uma partícula gama e 1,33 MeV de energia. Com base nessas informações, assinale a opção que apresenta os nuclídeos formados em cada um dos três decaimentos, respectivamente.",
+      principal: "Sabe-se que um determinado nuclídeo, estável ou instável, em seu estado fundamental é designado por Xₑ, e em seu estado excitado, por X*. Considere o bombardeamento do átomo estável de cobalto no estado fundamental por um nêutron. O nuclídeo gerado por essa reação sofre três decaimentos radioativos consecutivos, liberando, respectivamente, uma partícula $\\beta$ e 0,31 MeV de energia, uma partícula gama e 1,17 MeV de energia, e uma partícula gama e 1,33 MeV de energia. Com base nessas informações, assinale a opção que apresenta os nuclídeos formados em cada um dos três decaimentos, respectivamente.",
       subItens: []
     },
     options: [
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "ita",
     year: 2019,
     text: {
-      principal: "A espectroscopia de massa é um dos métodos instrumentais utilizados para determinar a fórmula molecular de um composto. Essa mesma técnica é utilizada para determinar as massas dos isótopos e suas abundâncias percentuais. Sabe-se que o átomo de bromo tem dois isótopos estáveis com massas atômicas iguais a 79 e 81 u.m.a., e abundâncias iguais a 50,7 e 49,3%, respectivamente. O espectro de massas (abundância em função da relação carga/massa) do Br2 tem seus três picos mais intensos atribuídos aos diferentes arranjos isotópicos do Br2. Baseado nessas informações, a razão entre as intensidades relativas dos picos dos isótopos do Br2, em ordem crescente de massa atômica, é aproximadamente",
+      principal: "A espectroscopia de massa é um dos métodos instrumentais utilizados para determinar a fórmula molecular de um composto. Essa mesma técnica é utilizada para determinar as massas dos isótopos e suas abundâncias percentuais. Sabe-se que o átomo de bromo tem dois isótopos estáveis com massas atômicas iguais a 79 e 81 u.m.a., e abundâncias iguais a 50,7 e 49,3%, respectivamente. O espectro de massas (abundância em função da relação $carga/massa$) do Br2 tem seus três picos mais intensos atribuídos aos diferentes arranjos isotópicos do Br2. Baseado nessas informações, a razão entre as intensidades relativas dos picos dos isótopos do Br2, em ordem crescente de massa atômica, é aproximadamente",
       subItens: []
     },
     options: [

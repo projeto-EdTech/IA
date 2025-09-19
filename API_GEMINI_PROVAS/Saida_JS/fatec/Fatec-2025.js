@@ -3,7 +3,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Leia os textos para responder às questões de 01 a 03.\n\nTexto I\nO Programa das Nações Unidas para o Meio Ambiente (PNUMA) define uma economia verde como “aquela que resulta na melhoria do bem-estar humano e da equidade social, reduzindo significativamente os riscos ambientais e a escassez ecológica\". O PNUMA resume que uma economia pode ser considerada verde quando emite pouco carbono; é eficiente em termos de uso de recursos; além de ser socialmente inclusiva. A economia verde segue alguns princípios-chave, entre eles o bem-estar, para que todas as pessoas possam criar e desfrutar de prosperidade; a equidade dentro e entre gerações, garantindo que as próximas gerações possam também ter a mesma qualidade de vida que as anteriores; e o respeito aos limites do planeta, pois a economia deve salvaguardar a natureza, restaurá-la e investir nela, reconhecendo e valorizando sua importância. <https://tinyurl.com/3n5wa883> Acesso em: 04.10.2024. Adaptado.\n\nTexto II\nAs quebradeiras de coco babaçu têm uma grande importância histórica, econômica, social, política, ambiental e cultural na preservação da \"região dos babaçuais\", que se estende pelos estados do Maranhão, Piauí e Pará. Elas representam um grupo de mais de 300 mil mulheres que exercem a atividade de extrativismo do coco babaçu e dependem dela como sua principal fonte de renda. O extrativismo do coco babaçu é, portanto, elemento fundamental para fortalecer tanto a identidade coletiva dessas mulheres, como povo tradicional, quanto a luta pelo seu direito à terra, ao território e ao acesso a recursos naturais. <https://tinyurl.com/hyvhsxza> Acesso em: 04.10.2024. Adaptado.\n\nAo se compararem os textos, pode-se concluir corretamente que",
+      principal: "Leia os textos para responder às questões de 01 a 03.\n\nTexto I\nO Programa das Nações Unidas para o Meio Ambiente (PNUMA) define uma economia verde como “aquela que resulta na melhoria do bem-estar humano e da equidade social, reduzindo significativamente os riscos ambientais e a escassez ecológica\". O PNUMA resume que uma economia pode ser considerada verde quando emite pouco carbono; é eficiente em termos de uso de recursos; além de ser socialmente inclusiva. A economia verde segue alguns princípios-chave, entre eles o bem-estar, para que todas as pessoas possam criar e desfrutar de prosperidade; a equidade dentro e entre gerações, garantindo que as próximas gerações possam também ter a mesma qualidade de vida que as anteriores; e o respeito aos limites do planeta, pois a economia deve salvaguardar a natureza, restaurá-la e investir nela, reconhecendo e valorizando sua importância. <https://tinyurl.$com/3n5wa883$> Acesso em: 04.10.2024. Adaptado.\n\nTexto II\nAs quebradeiras de coco babaçu têm uma grande importância histórica, econômica, social, política, ambiental e cultural na preservação da \"região dos babaçuais\", que se estende pelos estados do Maranhão, Piauí e Pará. Elas representam um grupo de mais de 300 mil mulheres que exercem a atividade de extrativismo do coco babaçu e dependem dela como sua principal fonte de renda. O extrativismo do coco babaçu é, portanto, elemento fundamental para fortalecer tanto a identidade coletiva dessas mulheres, como povo tradicional, quanto a luta pelo seu direito à terra, ao território e ao acesso a recursos naturais. <https://tinyurl.$com/hyvhsxza$> Acesso em: 04.10.2024. Adaptado.\n\nAo se compararem os textos, pode-se concluir corretamente que",
       subItens: []
     },
     options: [
@@ -24,7 +24,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Leia os textos para responder às questões de 01 a 03.\n\nTexto I\nO Programa das Nações Unidas para o Meio Ambiente (PNUMA) define uma economia verde como “aquela que resulta na melhoria do bem-estar humano e da equidade social, reduzindo significativamente os riscos ambientais e a escassez ecológica\". O PNUMA resume que uma economia pode ser considerada verde quando emite pouco carbono; é eficiente em termos de uso de recursos; além de ser socialmente inclusiva. A economia verde segue alguns princípios-chave, entre eles o bem-estar, para que todas as pessoas possam criar e desfrutar de prosperidade; a equidade dentro e entre gerações, garantindo que as próximas gerações possam também ter a mesma qualidade de vida que as anteriores; e o respeito aos limites do planeta, pois a economia deve salvaguardar a natureza, restaurá-la e investir nela, reconhecendo e valorizando sua importância. <https://tinyurl.com/3n5wa883> Acesso em: 04.10.2024. Adaptado.\n\nTexto II\nAs quebradeiras de coco babaçu têm uma grande importância histórica, econômica, social, política, ambiental e cultural na preservação da \"região dos babaçuais\", que se estende pelos estados do Maranhão, Piauí e Pará. Elas representam um grupo de mais de 300 mil mulheres que exercem a atividade de extrativismo do coco babaçu e dependem dela como sua principal fonte de renda. O extrativismo do coco babaçu é, portanto, elemento fundamental para fortalecer tanto a identidade coletiva dessas mulheres, como povo tradicional, quanto a luta pelo seu direito à terra, ao território e ao acesso a recursos naturais. <https://tinyurl.com/hyvhsxza> Acesso em: 04.10.2024. Adaptado.\n\nAssinale a alternativa que analisa corretamente os termos em negrito nos textos.",
+      principal: "Leia os textos para responder às questões de 01 a 03.\n\nTexto I\nO Programa das Nações Unidas para o Meio Ambiente (PNUMA) define uma economia verde como “aquela que resulta na melhoria do bem-estar humano e da equidade social, reduzindo significativamente os riscos ambientais e a escassez ecológica\". O PNUMA resume que uma economia pode ser considerada verde quando emite pouco carbono; é eficiente em termos de uso de recursos; além de ser socialmente inclusiva. A economia verde segue alguns princípios-chave, entre eles o bem-estar, para que todas as pessoas possam criar e desfrutar de prosperidade; a equidade dentro e entre gerações, garantindo que as próximas gerações possam também ter a mesma qualidade de vida que as anteriores; e o respeito aos limites do planeta, pois a economia deve salvaguardar a natureza, restaurá-la e investir nela, reconhecendo e valorizando sua importância. <https://tinyurl.$com/3n5wa883$> Acesso em: 04.10.2024. Adaptado.\n\nTexto II\nAs quebradeiras de coco babaçu têm uma grande importância histórica, econômica, social, política, ambiental e cultural na preservação da \"região dos babaçuais\", que se estende pelos estados do Maranhão, Piauí e Pará. Elas representam um grupo de mais de 300 mil mulheres que exercem a atividade de extrativismo do coco babaçu e dependem dela como sua principal fonte de renda. O extrativismo do coco babaçu é, portanto, elemento fundamental para fortalecer tanto a identidade coletiva dessas mulheres, como povo tradicional, quanto a luta pelo seu direito à terra, ao território e ao acesso a recursos naturais. <https://tinyurl.$com/hyvhsxza$> Acesso em: 04.10.2024. Adaptado.\n\nAssinale a alternativa que analisa corretamente os termos em negrito nos textos.",
       subItens: []
     },
     options: [
@@ -45,7 +45,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Leia os textos para responder às questões de 01 a 03.\n\nTexto I\nO Programa das Nações Unidas para o Meio Ambiente (PNUMA) define uma economia verde como “aquela que resulta na melhoria do bem-estar humano e da equidade social, reduzindo significativamente os riscos ambientais e a escassez ecológica\". O PNUMA resume que uma economia pode ser considerada verde quando emite pouco carbono; é eficiente em termos de uso de recursos; além de ser socialmente inclusiva. A economia verde segue alguns princípios-chave, entre eles o bem-estar, para que todas as pessoas possam criar e desfrutar de prosperidade; a equidade dentro e entre gerações, garantindo que as próximas gerações possam também ter a mesma qualidade de vida que as anteriores; e o respeito aos limites do planeta, pois a economia deve salvaguardar a natureza, restaurá-la e investir nela, reconhecendo e valorizando sua importância. <https://tinyurl.com/3n5wa883> Acesso em: 04.10.2024. Adaptado.\n\nTexto II\nAs quebradeiras de coco babaçu têm uma grande importância histórica, econômica, social, política, ambiental e cultural na preservação da \"região dos babaçuais\", que se estende pelos estados do Maranhão, Piauí e Pará. Elas representam um grupo de mais de 300 mil mulheres que exercem a atividade de extrativismo do coco babaçu e dependem dela como sua principal fonte de renda. O extrativismo do coco babaçu é, portanto, elemento fundamental para fortalecer tanto a identidade coletiva dessas mulheres, como povo tradicional, quanto a luta pelo seu direito à terra, ao território e ao acesso a recursos naturais. <https://tinyurl.com/hyvhsxza> Acesso em: 04.10.2024. Adaptado.\n\nO pronome presente em “restaurá-la” (texto I) retoma",
+      principal: "Leia os textos para responder às questões de 01 a 03.\n\nTexto I\nO Programa das Nações Unidas para o Meio Ambiente (PNUMA) define uma economia verde como “aquela que resulta na melhoria do bem-estar humano e da equidade social, reduzindo significativamente os riscos ambientais e a escassez ecológica\". O PNUMA resume que uma economia pode ser considerada verde quando emite pouco carbono; é eficiente em termos de uso de recursos; além de ser socialmente inclusiva. A economia verde segue alguns princípios-chave, entre eles o bem-estar, para que todas as pessoas possam criar e desfrutar de prosperidade; a equidade dentro e entre gerações, garantindo que as próximas gerações possam também ter a mesma qualidade de vida que as anteriores; e o respeito aos limites do planeta, pois a economia deve salvaguardar a natureza, restaurá-la e investir nela, reconhecendo e valorizando sua importância. <https://tinyurl.$com/3n5wa883$> Acesso em: 04.10.2024. Adaptado.\n\nTexto II\nAs quebradeiras de coco babaçu têm uma grande importância histórica, econômica, social, política, ambiental e cultural na preservação da \"região dos babaçuais\", que se estende pelos estados do Maranhão, Piauí e Pará. Elas representam um grupo de mais de 300 mil mulheres que exercem a atividade de extrativismo do coco babaçu e dependem dela como sua principal fonte de renda. O extrativismo do coco babaçu é, portanto, elemento fundamental para fortalecer tanto a identidade coletiva dessas mulheres, como povo tradicional, quanto a luta pelo seu direito à terra, ao território e ao acesso a recursos naturais. <https://tinyurl.$com/hyvhsxza$> Acesso em: 04.10.2024. Adaptado.\n\nO pronome presente em “restaurá-la” (texto I) retoma",
       subItens: []
     },
     options: [
@@ -129,14 +129,14 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "A bioeconomia é um modelo de produção industrial baseado no uso de recursos biológicos. Esse modelo tem por objetivo oferecer soluções para a sustentabilidade dos sistemas de produção com vistas à substituição de recursos fósseis e não renováveis. <https://tinyurl.com/2up3k4fm> Acesso em: 03.08.2024. Adaptado.\n\nEsse tipo de economia é uma realidade no Brasil desde a década de 1970, quando foi criado(a)",
+      principal: "A bioeconomia é um modelo de produção industrial baseado no uso de recursos biológicos. Esse modelo tem por objetivo oferecer soluções para a sustentabilidade dos sistemas de produção com vistas à substituição de recursos fósseis e não renováveis. <https://tinyurl.$com/2up3k4fm$> Acesso em: 03.08.2024. Adaptado.\n\nEsse tipo de economia é uma realidade no Brasil desde a década de 1970, quando foi criado(a)",
       subItens: []
     },
     options: [
       "o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio), surgido para monitorar o uso e a exploração econômica de recursos naturais.",
       "o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama), para desenvolver atividades de preservação do patrimônio natural.",
       "o Programa Nacional do Álcool (Proálcool), desenvolvido para enfrentar a crise mundial do petróleo e para incentivar a utilização do álcool combustível.",
-      "a Petrobrás (Petróleo Brasileiro S/A), com o intuito de tornar o Brasil autossuficiente em petróleo e de diminuir a dependência externa do produto.",
+      "a Petrobrás (Petróleo Brasileiro $S/A$), com o intuito de tornar o Brasil autossuficiente em petróleo e de diminuir a dependência externa do produto.",
       "a Companhia Siderúrgica Nacional (CSN), com o objetivo de implantar um parque siderúrgico totalmente nacional."
     ],
     correctAnswer: 2,
@@ -150,7 +150,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Um grupo de moda brasileira anunciou a criação do primeiro tecido nacional capaz de capturar gás carbônico do meio ambiente e o eliminar a partir do processo de lavagem. O tecido captura o gás carbônico do ambiente e, na lavagem, esse gás reage com a água e com o estearato de sódio (C17H35COONa) presente no sabão. A reação forma o ácido esteárico (C17H35COOH) e o bicarbonato de sódio (NaHCO3), que são eliminados com a água durante o enxágue. <https://tinyurl.com/2w7ft535> Acesso em: 03.10.2024. Adaptado.\n\nAssinale a alternativa que apresenta a equação correta da reação química descrita no texto.",
+      principal: "Um grupo de moda brasileira anunciou a criação do primeiro tecido nacional capaz de capturar gás carbônico do meio ambiente e o eliminar a partir do processo de lavagem. O tecido captura o gás carbônico do ambiente e, na lavagem, esse gás reage com a água e com o estearato de sódio (C17H35COONa) presente no sabão. A reação forma o ácido esteárico (C17H35COOH) e o bicarbonato de sódio (NaHCO3), que são eliminados com a água durante o enxágue. <https://tinyurl.$com/2w7ft535$> Acesso em: 03.10.2024. Adaptado.\n\nAssinale a alternativa que apresenta a equação correta da reação química descrita no texto.",
       subItens: []
     },
     options: [
@@ -177,7 +177,7 @@ createQuestion({
     options: [
       "na regeneração do solo e, consequentemente, de sua fertilidade, o que levou ao aumento da produção e da qualidade de vida das pessoas.",
       "na conservação das condições naturais locais do solo, da água e do ar, já que o sistema de rotação trienal mantém intocada a cobertura vegetal original.",
-      "na integração entre a cadeia produtiva de alimentos, a logística de distribuição de longo alcance, o consumidor final, o meio ambiente e a sociedade.",
+      "na integração entre a cadeia produtiva de alimentos, a $\\log$ística de distribuição de longo alcance, o consumidor final, o meio ambiente e a sociedade.",
       "na utilização de motores a combustão e equipamentos automatizados, que requerem mão de obra qualificada e investimento de capitais.",
       "na produção de apenas uma espécie de planta, em propriedades rurais extensas, com uso de adubos químicos, defensivos agrícolas e agrotóxicos."
     ],
@@ -192,7 +192,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "A gasolina é uma mistura de hidrocarbonetos, dentre eles, o octano (C8H18).\n\nNos motores, a combustão completa do octano produz gás carbônico e água, conforme a equação\n25 C8H18(g) + O2(g) → 8 CO2(g) + 9H2O(l) ΔΗ° = − 5 471,0 kJ/mol\n\nOutro combustível que pode ser usado é o metano (CH₄), um dos componentes do biogás. A combustão completa do metano produz gás carbônico e água, conforme a equação\nCH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l) ΔΗ° = 890,0 kJ/mol\n\nConsiderando as informações apresentadas nessas equações, podemos concluir que o uso do metano como combustível, em vez do octano, apresenta menor impacto ambiental, pois a queima",
+      principal: "A gasolina é uma mistura de hidrocarbonetos, dentre eles, o octano (C8H18).\n\nNos motores, a combustão completa do octano produz gás carbônico e água, conforme a equação\n25 C8H18(g) + O2(g) → 8 CO2(g) + 9H2O(l) ΔΗ° = − 5 471,0 $kJ/mol$\n\nOutro combustível que pode ser usado é o metano (CH₄), um dos componentes do biogás. A combustão completa do metano produz gás carbônico e água, conforme a equação\nCH4(g) + 2 O2(g) → CO2(g) + 2 H2O(l) ΔΗ° = 890,0 $kJ/mol$\n\nConsiderando as informações apresentadas nessas equações, podemos concluir que o uso do metano como combustível, em vez do octano, apresenta menor impacto ambiental, pois a queima",
       subItens: []
     },
     options: [
@@ -213,7 +213,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "O uso de fontes renováveis de energia, como a energia eólica, cresceu nos últimos anos devido às crescentes demandas relacionadas ao desenvolvimento sustentável. Em uma determinada região, suponha que a potência gerada por um modelo de aerogerador possa ser modelada (ou aproximada) pela função P(v) = −5v² + 160v – 470, em que P(v) representa a potência gerada em kW e v corresponde à velocidade do vento em m/s, sendo 4 ≤ v ≤ 16.\n\nAssinale a alternativa que indica a velocidade do vento, em m/s, necessária para que a potência gerada pelo aerogerador seja igual a 630 kW.",
+      principal: "O uso de fontes renováveis de energia, como a energia eólica, cresceu nos últimos anos devido às crescentes demandas relacionadas ao desenvolvimento sustentável. Em uma determinada região, suponha que a potência gerada por um modelo de aerogerador possa ser modelada (ou aproximada) pela função P(v) = −5v² + 160v – 470, em que P(v) representa a potência gerada em kW e v corresponde à velocidade do vento em $m/s$, sendo 4 ≤ v ≤ 16.\n\nAssinale a alternativa que indica a velocidade do vento, em $m/s$, necessária para que a potência gerada pelo aerogerador seja igual a 630 kW.",
       subItens: []
     },
     options: [
@@ -255,7 +255,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Leia o texto para responder às questões 16 e 17.\n\nARTIFICAL INTELLIGENCE Al's carbon footprint is bigger than you think Generating one image takes as much energy as fully charging your smartphone. By Melissa Heikkilä December 5, 2023 <https://tinyurl.com/4es9fs6a> Acesso em: 04.10.2024.\n\nO texto apresenta",
+      principal: "Leia o texto para responder às questões 16 e 17.\n\nARTIFICAL INTELLIGENCE Al's carbon footprint is bigger than you think Generating one image takes as much energy as fully charging your smartphone. By Melissa Heikkilä December 5, 2023 <https://tinyurl.$com/4es9fs6a$> Acesso em: 04.10.2024.\n\nO texto apresenta",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "No mundo do trabalho, ocorreram mudanças quanto à propriedade dos meios de produção e ao produto do trabalho, as mercadorias. Aos poucos, os artesãos deixaram de ser donos dos instrumentos de trabalho, passando a constituir a massa de trabalhadores assalariados, que começaram a enfrentar longas jornadas e novos ritmos de trabalho. As instalações, os equipamentos e os materiais se transformaram em mecanismos de agressão à saúde decorrente de vibrações, ruídos, temperatura e alta concentração de poluentes, entre outros. <https://tinyurl.com/5ysc6t7p> Acesso em: 29.09.2024. Adaptado.\n\nO texto caracteriza",
+      principal: "No mundo do trabalho, ocorreram mudanças quanto à propriedade dos meios de produção e ao produto do trabalho, as mercadorias. Aos poucos, os artesãos deixaram de ser donos dos instrumentos de trabalho, passando a constituir a massa de trabalhadores assalariados, que começaram a enfrentar longas jornadas e novos ritmos de trabalho. As instalações, os equipamentos e os materiais se transformaram em mecanismos de agressão à saúde decorrente de vibrações, ruídos, temperatura e alta concentração de poluentes, entre outros. <https://tinyurl.$com/5ysc6t7p$> Acesso em: 29.09.2024. Adaptado.\n\nO texto caracteriza",
       subItens: []
     },
     options: [
@@ -339,7 +339,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Com a crescente preocupação ambiental e a necessidade de reduzir as emissões de carbono, a utilização de biocombustíveis tem se destacado como uma alternativa viável. No centro dessa revolução econômica verde, estão os produtores rurais, que desempenham um papel crucial na produção dessas fontes renováveis de energia. Porém, apesar dos benefícios à economia e ao meio ambiente, existem alguns aspectos negativos tanto na produção, quanto no uso dos biocombustíveis. <https://tinyurl.com/2ynjmjzy> Acesso em: 22.07.2024. Adaptado.\n\nDentre os aspectos negativos, podemos citar corretamente que",
+      principal: "Com a crescente preocupação ambiental e a necessidade de reduzir as emissões de carbono, a utilização de biocombustíveis tem se destacado como uma alternativa viável. No centro dessa revolução econômica verde, estão os produtores rurais, que desempenham um papel crucial na produção dessas fontes renováveis de energia. Porém, apesar dos benefícios à economia e ao meio ambiente, existem alguns aspectos negativos tanto na produção, quanto no uso dos biocombustíveis. <https://tinyurl.$com/2ynjmjzy$> Acesso em: 22.07.2024. Adaptado.\n\nDentre os aspectos negativos, podemos citar corretamente que",
       subItens: []
     },
     options: [
@@ -360,7 +360,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Uma das polêmicas em torno de veículos elétricos (automóveis, motos ou bicicletas) é sobre o uso de baterias de lítio. Por esse motivo, tem-se investido em baterias de sais (sódio ou potássio).\n\nAs baterias de íons de sódio são compostas por: um eletrodo negativo (ou anodo), um eletrodo positivo (ou catodo) e uma substância eletrolítica entre eles (eletrólito). A cada carga e descarga da bateria, os íons de sódio se movem do catodo para o anodo (e vice-versa) por meio do eletrólito, em virtude de uma diferença de potencial criada entre os eletrodos. <https://tinyurl.com/er46u9ky> Acesso em: 10.09.2024. Adaptado.\n\nPodemos afirmar corretamente que um dos conceitos da Física implícito no texto está relacionado",
+      principal: "Uma das polêmicas em torno de veículos elétricos (automóveis, motos ou bicicletas) é sobre o uso de baterias de lítio. Por esse motivo, tem-se investido em baterias de sais (sódio ou potássio).\n\nAs baterias de íons de sódio são compostas por: um eletrodo negativo (ou anodo), um eletrodo positivo (ou catodo) e uma substância eletrolítica entre eles (eletrólito). A cada carga e descarga da bateria, os íons de sódio se movem do catodo para o anodo (e vice-versa) por meio do eletrólito, em virtude de uma diferença de potencial criada entre os eletrodos. <https://tinyurl.$com/er46u9ky$> Acesso em: 10.09.2024. Adaptado.\n\nPodemos afirmar corretamente que um dos conceitos da Física implícito no texto está relacionado",
       subItens: []
     },
     options: [
@@ -381,7 +381,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "A História Ambiental é o estudo da interação entre os seres humanos e não-humanos com o mundo natural ao longo do tempo. Esse ramo da História rejeita a premissa convencional de que a experiência humana se desenvolveu sem restrições naturais, de que os humanos são uma espécie distinta e “super-natural”, de que as consequências ecológicas dos seus feitos passados podem ser ignoradas. <https://tinyurl.com/3ksvnsm9> Acesso em: 30.09.2024. Adaptado.\n\nSegundo o texto, a História Ambiental",
+      principal: "A História Ambiental é o estudo da interação entre os seres humanos e não-humanos com o mundo natural ao longo do tempo. Esse ramo da História rejeita a premissa convencional de que a experiência humana se desenvolveu sem restrições naturais, de que os humanos são uma espécie distinta e “super-natural”, de que as consequências ecológicas dos seus feitos passados podem ser ignoradas. <https://tinyurl.$com/3ksvnsm9$> Acesso em: 30.09.2024. Adaptado.\n\nSegundo o texto, a História Ambiental",
       subItens: []
     },
     options: [
@@ -465,7 +465,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Three Dynamics of Sustainable Communities: Economy, Ecology, and Equity “A sustainable community uses its resources to meet current needs while ensuring that adequate resources are available for future generations. It involves all its citizens in an integrated, long-term planning process to protect the environment, expand economic opportunities, and meet social needs.” —CONCERN, Inc. While many community dynamics are at work, three aspects are particularly important to building healthy and prosperous communities over the long term: economy, ecology, and equity - the three E's. Economy is the management and use of resources to meet household and community needs. Ecology is the pattern of relationships between living things and their environment. We all know our shoe size. How many of us know the size of our \"ecological footprint,\" the amount of air, land, and water it takes to support us? Equity is fairness. Ideally everyone in a community shares in its well-being. Where there is equity, decisions are based on fairness and everyone (regardless of race, income, sex, age, language, sexual orientation, or disability) has opportunities and is treated with dignity. <https://tinyurl.com/6j5wp9v5> Acesso em: 30.09.2024. Adaptado.\n\nA respeito dos três Es, o texto menciona",
+      principal: "Three Dynamics of Sustainable Communities: Economy, Ecology, and Equity “A sustainable community uses its resources to meet current needs while ensuring that adequate resources are available for future generations. It involves all its citizens in an integrated, long-term planning process to protect the environment, expand economic opportunities, and meet social needs.” —CONCERN, Inc. While many community dynamics are at work, three aspects are particularly important to building healthy and prosperous communities over the long term: economy, ecology, and equity - the three E's. Economy is the management and use of resources to meet household and community needs. Ecology is the pattern of relationships between living things and their environment. We all know our shoe size. How many of us know the size of our \"ecological footprint,\" the amount of air, land, and water it takes to support us? Equity is fairness. Ideally everyone in a community shares in its well-being. Where there is equity, decisions are based on fairness and everyone (regardless of race, income, sex, age, language, sexual orientation, or disability) has opportunities and is treated with dignity. <https://tinyurl.$com/6j5wp9v5$> Acesso em: 30.09.2024. Adaptado.\n\nA respeito dos três Es, o texto menciona",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "De acordo com o Banco Mundial, o valor de manter a Floresta Amazônica em pé é cerca de sete vezes superior ao lucro que pode ser obtido por meio de diferentes atividades de exploração econômica da região. A estimativa considera que a preservação da floresta vale, ao menos, US$ 317 bilhões por ano. <https://tinyurl.com/ypanb4cu> Acesso em: 03.08.2024. Adaptado.\n\nCom base no texto, é correto afirmar que",
+      principal: "De acordo com o Banco Mundial, o valor de manter a Floresta Amazônica em pé é cerca de sete vezes superior ao lucro que pode ser obtido por meio de diferentes atividades de exploração econômica da região. A estimativa considera que a preservação da floresta vale, ao menos, US$ 317 bilhões por ano. <https://tinyurl.$com/ypanb4cu$> Acesso em: 03.08.2024. Adaptado.\n\nCom base no texto, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -570,7 +570,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Leia o texto e o esboço da Tabela Periódica para responder às questões 40 e 41.\n\nO hidrogênio verde, uma fonte de energia limpa e sustentável, é obtido por meio da eletrólise da água. A eletrólise da água é um processo endotérmico em que a água (H2O) é decomposta em gás hidrogênio e gás oxigênio. Nesse processo, são utilizados catalisadores feitos com platina ou irídio, elementos raros e caros. Catalisadores são substâncias que aceleram reações químicas por propiciarem que elas se realizem com menor energia de ativação. Uma equipe de cientistas europeus desenvolveu um novo catalisador para otimizar a produção de hidrogênio verde e, com o intuito de expandir sua aplicação para a produção industrial, já solicitou a patente do novo produto. <https://tinyurl.com/d3s36det> Acesso em: 03.10.2024. Adaptado.\n\n[IMAGEM] Esboço da Tabela Periódica, contendo os elementos H, He, Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, S, Cl, Ar, K, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Br, Kr, Rb, Sr, Y, Zr, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd, In, Sn, Sb, Te, I, Xe, Cs, Ba, La, Hf, Ta, W, Re, Os, Ir, Pt, Au, Hg, Tl, Pb, Bi, Po, At, Rn, Fr, Ra, Ac, Rf, Db, Sg, Bh, Hs, Mt, Ds, Rg, Cn, Nh, Fl, Mc, Lv, Ts, Og, além das séries dos Lantanídeos (Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu) e dos Actinídeos (Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr).\n\nConsiderando os elementos raros e caros usados como catalisadores no processo de obtenção do hidrogênio verde, mencionados no texto, e as suas posições na Tabela Periódica, podemos concluir corretamente que esses elementos são",
+      principal: "Leia o texto e o esboço da Tabela Periódica para responder às questões 40 e 41.\n\nO hidrogênio verde, uma fonte de energia limpa e sustentável, é obtido por meio da eletrólise da água. A eletrólise da água é um processo endotérmico em que a água (H2O) é decomposta em gás hidrogênio e gás oxigênio. Nesse processo, são utilizados catalisadores feitos com platina ou irídio, elementos raros e caros. Catalisadores são substâncias que aceleram reações químicas por propiciarem que elas se realizem com menor energia de ativação. Uma equipe de cientistas europeus desenvolveu um novo catalisador para otimizar a produção de hidrogênio verde e, com o intuito de expandir sua aplicação para a produção industrial, já solicitou a patente do novo produto. <https://tinyurl.$com/d3s36det$> Acesso em: 03.10.2024. Adaptado.\n\n[IMAGEM] Esboço da Tabela Periódica, contendo os elementos H, He, Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, S, Cl, Ar, K, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Br, Kr, Rb, Sr, Y, Zr, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd, In, Sn, Sb, Te, I, Xe, Cs, Ba, La, Hf, Ta, W, Re, Os, Ir, Pt, Au, Hg, Tl, Pb, Bi, Po, At, Rn, Fr, Ra, Ac, Rf, Db, Sg, Bh, Hs, Mt, Ds, Rg, Cn, Nh, Fl, Mc, Lv, Ts, Og, além das séries dos Lantanídeos (Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu) e dos Actinídeos (Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr).\n\nConsiderando os elementos raros e caros usados como catalisadores no processo de obtenção do hidrogênio verde, mencionados no texto, e as suas posições na Tabela Periódica, podemos concluir corretamente que esses elementos são",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Leia o texto e o esboço da Tabela Periódica para responder às questões 40 e 41.\n\nO hidrogênio verde, uma fonte de energia limpa e sustentável, é obtido por meio da eletrólise da água. A eletrólise da água é um processo endotérmico em que a água (H2O) é decomposta em gás hidrogênio e gás oxigênio. Nesse processo, são utilizados catalisadores feitos com platina ou irídio, elementos raros e caros. Catalisadores são substâncias que aceleram reações químicas por propiciarem que elas se realizem com menor energia de ativação. Uma equipe de cientistas europeus desenvolveu um novo catalisador para otimizar a produção de hidrogênio verde e, com o intuito de expandir sua aplicação para a produção industrial, já solicitou a patente do novo produto. <https://tinyurl.com/d3s36det> Acesso em: 03.10.2024. Adaptado.\n\n[IMAGEM] Esboço da Tabela Periódica, contendo os elementos H, He, Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, S, Cl, Ar, K, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Br, Kr, Rb, Sr, Y, Zr, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd, In, Sn, Sb, Te, I, Xe, Cs, Ba, La, Hf, Ta, W, Re, Os, Ir, Pt, Au, Hg, Tl, Pb, Bi, Po, At, Rn, Fr, Ra, Ac, Rf, Db, Sg, Bh, Hs, Mt, Ds, Rg, Cn, Nh, Fl, Mc, Lv, Ts, Og, além das séries dos Lantanídeos (Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu) e dos Actinídeos (Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr).\n\nBaseando-se na reação de eletrólise da água, com e sem catalisador, mencionada no texto, assinale a alternativa que contém o esboço gráfico correto da variação da energia envolvida nesse processo.",
+      principal: "Leia o texto e o esboço da Tabela Periódica para responder às questões 40 e 41.\n\nO hidrogênio verde, uma fonte de energia limpa e sustentável, é obtido por meio da eletrólise da água. A eletrólise da água é um processo endotérmico em que a água (H2O) é decomposta em gás hidrogênio e gás oxigênio. Nesse processo, são utilizados catalisadores feitos com platina ou irídio, elementos raros e caros. Catalisadores são substâncias que aceleram reações químicas por propiciarem que elas se realizem com menor energia de ativação. Uma equipe de cientistas europeus desenvolveu um novo catalisador para otimizar a produção de hidrogênio verde e, com o intuito de expandir sua aplicação para a produção industrial, já solicitou a patente do novo produto. <https://tinyurl.$com/d3s36det$> Acesso em: 03.10.2024. Adaptado.\n\n[IMAGEM] Esboço da Tabela Periódica, contendo os elementos H, He, Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, S, Cl, Ar, K, Ca, Sc, Ti, V, Cr, Mn, Fe, Co, Ni, Cu, Zn, Ga, Ge, As, Se, Br, Kr, Rb, Sr, Y, Zr, Nb, Mo, Tc, Ru, Rh, Pd, Ag, Cd, In, Sn, Sb, Te, I, Xe, Cs, Ba, La, Hf, Ta, W, Re, Os, Ir, Pt, Au, Hg, Tl, Pb, Bi, Po, At, Rn, Fr, Ra, Ac, Rf, Db, Sg, Bh, Hs, Mt, Ds, Rg, Cn, Nh, Fl, Mc, Lv, Ts, Og, além das séries dos Lantanídeos (Ce, Pr, Nd, Pm, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu) e dos Actinídeos (Th, Pa, U, Np, Pu, Am, Cm, Bk, Cf, Es, Fm, Md, No, Lr).\n\nBaseando-se na reação de eletrólise da água, com e sem catalisador, mencionada no texto, assinale a alternativa que contém o esboço gráfico correto da variação da energia envolvida nesse processo.",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Leia o texto para responder às questões de 46 a 49.\n\nPalmeiras! Babaçuais! Terra fértil, olha a riqueza no chão. Folhas verdes, oh que maravilha. A natureza traz o fruto, a perfeição. Senhoras guerreiras, vão à luta, custear alimentação Exportadores das exportações. Nosso produto assim chegou em outras nações. Eu vou gargalhar, eu estou feliz! Nossa matéria-prima circulando no país. SILVA e SILVA, A. O (En)canto das Quebradeiras de Coco Babaçu no Maranhão. UFMA. <https://tinyurl.com/3r6j99a9> Acesso em: 17.10.2024.\n\nDe acordo com o texto, é correto afirmar que",
+      principal: "Leia o texto para responder às questões de 46 a 49.\n\nPalmeiras! Babaçuais! Terra fértil, olha a riqueza no chão. Folhas verdes, oh que maravilha. A natureza traz o fruto, a perfeição. Senhoras guerreiras, vão à luta, custear alimentação Exportadores das exportações. Nosso produto assim chegou em outras nações. Eu vou gargalhar, eu estou feliz! Nossa matéria-prima circulando no país. SILVA e SILVA, A. O (En)canto das Quebradeiras de Coco Babaçu no Maranhão. UFMA. <https://tinyurl.$com/3r6j99a9$> Acesso em: 17.10.2024.\n\nDe acordo com o texto, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Leia o texto para responder às questões de 46 a 49.\n\nPalmeiras! Babaçuais! Terra fértil, olha a riqueza no chão. Folhas verdes, oh que maravilha. A natureza traz o fruto, a perfeição. Senhoras guerreiras, vão à luta, custear alimentação Exportadores das exportações. Nosso produto assim chegou em outras nações. Eu vou gargalhar, eu estou feliz! Nossa matéria-prima circulando no país. SILVA e SILVA, A. O (En)canto das Quebradeiras de Coco Babaçu no Maranhão. UFMA. <https://tinyurl.com/3r6j99a9> Acesso em: 17.10.2024.\n\nO termo sublinhado exerce a função de sujeito em",
+      principal: "Leia o texto para responder às questões de 46 a 49.\n\nPalmeiras! Babaçuais! Terra fértil, olha a riqueza no chão. Folhas verdes, oh que maravilha. A natureza traz o fruto, a perfeição. Senhoras guerreiras, vão à luta, custear alimentação Exportadores das exportações. Nosso produto assim chegou em outras nações. Eu vou gargalhar, eu estou feliz! Nossa matéria-prima circulando no país. SILVA e SILVA, A. O (En)canto das Quebradeiras de Coco Babaçu no Maranhão. UFMA. <https://tinyurl.$com/3r6j99a9$> Acesso em: 17.10.2024.\n\nO termo sublinhado exerce a função de sujeito em",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Leia o texto para responder às questões de 46 a 49.\n\nPalmeiras! Babaçuais! Terra fértil, olha a riqueza no chão. Folhas verdes, oh que maravilha. A natureza traz o fruto, a perfeição. Senhoras guerreiras, vão à luta, custear alimentação Exportadores das exportações. Nosso produto assim chegou em outras nações. Eu vou gargalhar, eu estou feliz! Nossa matéria-prima circulando no país. SILVA e SILVA, A. O (En)canto das Quebradeiras de Coco Babaçu no Maranhão. UFMA. <https://tinyurl.com/3r6j99a9> Acesso em: 17.10.2024.\n\nTranspondo o verbo do verso “Senhoras guerreiras, vão à luta” para o imperativo afirmativo, na segunda pessoa do plural, teríamos",
+      principal: "Leia o texto para responder às questões de 46 a 49.\n\nPalmeiras! Babaçuais! Terra fértil, olha a riqueza no chão. Folhas verdes, oh que maravilha. A natureza traz o fruto, a perfeição. Senhoras guerreiras, vão à luta, custear alimentação Exportadores das exportações. Nosso produto assim chegou em outras nações. Eu vou gargalhar, eu estou feliz! Nossa matéria-prima circulando no país. SILVA e SILVA, A. O (En)canto das Quebradeiras de Coco Babaçu no Maranhão. UFMA. <https://tinyurl.$com/3r6j99a9$> Acesso em: 17.10.2024.\n\nTranspondo o verbo do verso “Senhoras guerreiras, vão à luta” para o imperativo afirmativo, na segunda pessoa do plural, teríamos",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Leia o texto para responder às questões de 46 a 49.\n\nPalmeiras! Babaçuais! Terra fértil, olha a riqueza no chão. Folhas verdes, oh que maravilha. A natureza traz o fruto, a perfeição. Senhoras guerreiras, vão à luta, custear alimentação Exportadores das exportações. Nosso produto assim chegou em outras nações. Eu vou gargalhar, eu estou feliz! Nossa matéria-prima circulando no país. SILVA e SILVA, A. O (En)canto das Quebradeiras de Coco Babaçu no Maranhão. UFMA. <https://tinyurl.com/3r6j99a9> Acesso em: 17.10.2024.\n\nNo verso \"A natureza traz o fruto, a perfeição”, ocorre",
+      principal: "Leia o texto para responder às questões de 46 a 49.\n\nPalmeiras! Babaçuais! Terra fértil, olha a riqueza no chão. Folhas verdes, oh que maravilha. A natureza traz o fruto, a perfeição. Senhoras guerreiras, vão à luta, custear alimentação Exportadores das exportações. Nosso produto assim chegou em outras nações. Eu vou gargalhar, eu estou feliz! Nossa matéria-prima circulando no país. SILVA e SILVA, A. O (En)canto das Quebradeiras de Coco Babaçu no Maranhão. UFMA. <https://tinyurl.$com/3r6j99a9$> Acesso em: 17.10.2024.\n\nNo verso \"A natureza traz o fruto, a perfeição”, ocorre",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "O diesel comercializado no Brasil é uma mistura que contém atualmente 14% de biodiesel. Se esse percentual for aumentado para 25%, o Brasil deixará de emitir mais de 330 milhões de toneladas de CO2 em 10 anos. <https://tinyurl.com/yc568vmh> Acesso em: 01.10.2024. Adaptado.\n\nConsiderando que a pressão é de 1 atm e que a temperatura é 300 K, assinale a alternativa a qual indica o volume aproximado de CO2, em litros, que deixará de ser emitido pelo Brasil ao realizar a mudança, descrita no texto, na composição do diesel. Dados: massa molar do CO2 = 44 g/mol, 1 t = 10⁶ g; Equação de estado de um gás: P·V = n·R·T; R = 0,082 atm·L/mol·K",
+      principal: "O diesel comercializado no Brasil é uma mistura que contém atualmente 14% de biodiesel. Se esse percentual for aumentado para 25%, o Brasil deixará de emitir mais de 330 milhões de toneladas de CO2 em 10 anos. <https://tinyurl.$com/yc568vmh$> Acesso em: 01.10.2024. Adaptado.\n\nConsiderando que a pressão é de 1 atm e que a temperatura é 300 K, assinale a alternativa a qual indica o volume aproximado de CO2, em litros, que deixará de ser emitido pelo Brasil ao realizar a mudança, descrita no texto, na composição do diesel. Dados: massa molar do CO2 = 44 $g/mol$, 1 t = 10⁶ g; Equação de estado de um gás: P·V = n·R·T; R = 0,082 atm·$L/mol$·K",
       subItens: []
     },
     options: [
@@ -948,7 +948,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Uma das práticas de sustentabilidade é o uso de “telhados verdes\" ou \"eco telhados\". Trata-se de uma cobertura vegetal colocada sobre o telhado de uma construção. Esses telhados têm a função de reduzir a temperatura interna das edificações e melhorar a umidade relativa do ar no local, reduzindo significativamente o alto consumo de energia. Considere a cobertura de uma construção sem o uso do telhado verde, mas, sim, de um concreto cujo calor específico do material seja 1000 J/kg·°C e massa total de 5000 kg. Em uma situação específica, esse material absorve 75 MJ de energia em um dia de exposição direta ao Sol. Nessa mesma situação, caso fosse usado o telhado verde, a temperatura seria reduzida em 5°C.\n\nSabendo que Q = mcΔθ, assinale a alternativa que apresenta corretamente a variação da temperatura observada, em °C, caso fosse usado o telhado verde nas condições apresentadas.",
+      principal: "Uma das práticas de sustentabilidade é o uso de “telhados verdes\" ou \"eco telhados\". Trata-se de uma cobertura vegetal colocada sobre o telhado de uma construção. Esses telhados têm a função de reduzir a temperatura interna das edificações e melhorar a umidade relativa do ar no local, reduzindo significativamente o alto consumo de energia. Considere a cobertura de uma construção sem o uso do telhado verde, mas, sim, de um concreto cujo calor específico do material seja 1000 $J/kg$·°C e massa total de 5000 kg. Em uma situação específica, esse material absorve 75 MJ de energia em um dia de exposição direta ao Sol. Nessa mesma situação, caso fosse usado o telhado verde, a temperatura seria reduzida em 5°C.\n\nSabendo que Q = mcΔθ, assinale a alternativa que apresenta corretamente a variação da temperatura observada, em °C, caso fosse usado o telhado verde nas condições apresentadas.",
       subItens: []
     },
     options: [
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "Uma revista especializada em automóveis publicou um teste feito com um veículo 2.0 abastecido com gasolina em uma viagem planejada. Nesse teste, eles relacionaram diferentes velocidades ao consumo de combustível do veículo, conforme o gráfico 1.\n\n[IMAGEM] Gráfico 1: 'Consumo de gasolina (L)' no eixo Y e 'Velocidade (km/h)' no eixo X, mostrando pontos para diferentes velocidades e seus respectivos consumos de gasolina.\n\nNo gráfico 2, é possível determinar uma das velocidades aferida do automóvel durante os testes.\n\n[IMAGEM] Gráfico 2: 'Posição (km)' no eixo Y e 'Tempo (h)' no eixo X, mostrando a posição ao longo do tempo.\n\nConsiderando que cada litro de gasolina emita cerca de 2 kg de CO2, assinale a alternativa correta que apresenta a massa CO2, em kg, emitida pelo veículo nas condições apresentadas.",
+      principal: "Uma revista especializada em automóveis publicou um teste feito com um veículo 2.0 abastecido com gasolina em uma viagem planejada. Nesse teste, eles relacionaram diferentes velocidades ao consumo de combustível do veículo, conforme o gráfico 1.\n\n[IMAGEM] Gráfico 1: 'Consumo de gasolina (L)' no eixo Y e 'Velocidade ($km/h$)' no eixo X, mostrando pontos para diferentes velocidades e seus respectivos consumos de gasolina.\n\nNo gráfico 2, é possível determinar uma das velocidades aferida do automóvel durante os testes.\n\n[IMAGEM] Gráfico 2: 'Posição (km)' no eixo Y e 'Tempo (h)' no eixo X, mostrando a posição ao longo do tempo.\n\nConsiderando que cada litro de gasolina emita cerca de 2 kg de CO2, assinale a alternativa correta que apresenta a massa CO2, em kg, emitida pelo veículo nas condições apresentadas.",
       subItens: []
     },
     options: [
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "fatec",
     year: 2025,
     text: {
-      principal: "O crédito de carbono é um mecanismo monetário que visa reduzir ou remover as emissões de dióxido de carbono da atmosfera. Eles são obtidos por meio de diversas iniciativas e projetos. <https://tinyurl.com/58akfkww> Acesso em: 16.07.2024. Adaptado.\n\nAssinale a iniciativa que contribui efetivamente para a obtenção dos créditos citados no texto.",
+      principal: "O crédito de carbono é um mecanismo monetário que visa reduzir ou remover as emissões de dióxido de carbono da atmosfera. Eles são obtidos por meio de diversas iniciativas e projetos. <https://tinyurl.$com/58akfkww$> Acesso em: 16.07.2024. Adaptado.\n\nAssinale a iniciativa que contribui efetivamente para a obtenção dos créditos citados no texto.",
       subItens: []
     },
     options: [

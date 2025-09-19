@@ -3,7 +3,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "Leia a charge. GOOD NEWS... EACH OF MY THREE JOBS ARE LETTING ME TAKE LABOR DAY OFF! JOBS ARE RETURNING! BUT THEY'RE LOW WAGE NO BENEFITS JOBS <https://tinyurl.com/y3lrke6a> Acesso em: 08.10.2019. Original colorido. A ironia da charge se constrói no fato de",
+      principal: "Leia a charge. GOOD NEWS... EACH OF MY THREE JOBS ARE LETTING ME TAKE LABOR DAY OFF! JOBS ARE RETURNING! BUT THEY'RE LOW WAGE NO BENEFITS JOBS <https://tinyurl.$com/y3lrke6a$> Acesso em: 08.10.2019. Original colorido. A ironia da charge se constrói no fato de",
       subItens: []
     },
     options: [
@@ -24,7 +24,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "O conceito de precariado se refere a uma classe emergente, definida por uma combinação distinta de relações. As pessoas do precariado estão sendo forçadas a aceitar uma vida de empregos instáveis, sem uma identidade ocupacional, sendo exploradas e sem horários regulares de trabalho. <https://tinyurl.com/y6kgyeqz> Acesso em: 10.10.2019. Adaptado. De acordo com o texto, o precariado é um grupo de pessoas que",
+      principal: "O conceito de precariado se refere a uma classe emergente, definida por uma combinação distinta de relações. As pessoas do precariado estão sendo forçadas a aceitar uma vida de empregos instáveis, sem uma identidade ocupacional, sendo exploradas e sem horários regulares de trabalho. <https://tinyurl.$com/y6kgyeqz$> Acesso em: 10.10.2019. Adaptado. De acordo com o texto, o precariado é um grupo de pessoas que",
       subItens: []
     },
     options: [
@@ -45,7 +45,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "Leia os textos I e II para responder às questões de 03 a 05. As informações contidas na imagem do texto II, localizadas no canto inferior direito, não foram reproduzidas, pois não interferem na resolução das questões apresentadas. Texto I: O branco açúcar que adoçará meu café Nesta manhã de Ipanema Não foi produzido por mim Nem surgiu dentro do açucareiro por milagre Vejo-o puro E afável ao paladar Como beijo de moça, água Na pele, flor Que se dissolve na boca. Mas este açúcar Não foi feito por mim. Este açúcar veio Da mercearia da esquina e tampouco o fez o Oliveira, Dono da mercearia. Este açúcar veio De uma usina de açúcar em Pernambuco Ou no Estado do Rio E tampouco o fez o dono da usina. Este açúcar era cana E veio dos canaviais extensos Que não nascem por acaso No regaço do vale. Em lugares distantes, onde não há hospital Nem escola, Homens que não sabem ler e morrem de fome Aos 27 anos Plantaram e colheram a cana Que viraria açúcar. Em usinas escuras, Homens de vida amarga E dura Produziram este açúcar Branco e puro Com que adoço meu café esta manhã em Ipanema. GULLAR, F. \"O Açúcar\". Toda poesia. Rio de Janeiro, Civilização Brasileira, 1980. Texto II: Em 1888, a princesa Isabel assinou a Lei Áurea, mas nem todo mundo conseguiu ler. <https://tinyurl.com/y4ur7lhb> Acesso em: 18.10.2019. Original colorido. Após a leitura e a análise, infere-se corretamente que ambos os textos abordam temáticas",
+      principal: "Leia os textos I e II para responder às questões de 03 a 05. As informações contidas na imagem do texto II, localizadas no canto inferior direito, não foram reproduzidas, pois não interferem na resolução das questões apresentadas. Texto I: O branco açúcar que adoçará meu café Nesta manhã de Ipanema Não foi produzido por mim Nem surgiu dentro do açucareiro por milagre Vejo-o puro E afável ao paladar Como beijo de moça, água Na pele, flor Que se dissolve na boca. Mas este açúcar Não foi feito por mim. Este açúcar veio Da mercearia da esquina e tampouco o fez o Oliveira, Dono da mercearia. Este açúcar veio De uma usina de açúcar em Pernambuco Ou no Estado do Rio E tampouco o fez o dono da usina. Este açúcar era cana E veio dos canaviais extensos Que não nascem por acaso No regaço do vale. Em lugares distantes, onde não há hospital Nem escola, Homens que não sabem ler e morrem de fome Aos 27 anos Plantaram e colheram a cana Que viraria açúcar. Em usinas escuras, Homens de vida amarga E dura Produziram este açúcar Branco e puro Com que adoço meu café esta manhã em Ipanema. GULLAR, F. \"O Açúcar\". Toda poesia. Rio de Janeiro, Civilização Brasileira, 1980. Texto II: Em 1888, a princesa Isabel assinou a Lei Áurea, mas nem todo mundo conseguiu ler. <https://tinyurl.$com/y4ur7lhb$> Acesso em: 18.10.2019. Original colorido. Após a leitura e a análise, infere-se corretamente que ambos os textos abordam temáticas",
       subItens: []
     },
     options: [
@@ -66,15 +66,15 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "Atualmente, o cultivo da cana-de-açúcar está mais mecanizado. Porém, até 2005, o Instituto de Economia Agrícola (IEA) informava que um único boia-fria cortava cerca de 9 toneladas de cana em uma jornada aproximada de 12 horas de trabalho por dia. Além disso, o International Sugar Journal mensura que 1 tonelada de cana de açúcar gera aproximadamente 1,7 Gcal de energia e rende, em média, 150 kg de açúcar. Com as informações fornecidas, podemos concluir, corretamente que, na jornada de um dia de trabalho, um boia-fria contribuía até 2005 com uma produção de energia e uma massa de açúcar, aproximada e respectivamente, de (Gcal/h) (kg) (A) 1,3 1350 (B) 1,3 150 (C) 1,7 135 (D) 1,7 150 (E) 1,7 1350",
+      principal: "Atualmente, o cultivo da cana-de-açúcar está mais mecanizado. Porém, até 2005, o Instituto de Economia Agrícola (IEA) informava que um único boia-fria cortava cerca de 9 toneladas de cana em uma jornada aproximada de 12 horas de trabalho por dia. Além disso, o International Sugar Journal mensura que 1 tonelada de cana de açúcar gera aproximadamente 1,7 Gcal de energia e rende, em média, 150 kg de açúcar. Com as informações fornecidas, podemos concluir, corretamente que, na jornada de um dia de trabalho, um boia-fria contribuía até 2005 com uma produção de energia e uma massa de açúcar, aproximada e respectivamente, de ($Gcal/h$) (kg) (A) 1,3 1350 (B) 1,3 150 (C) 1,7 135 (D) 1,7 150 (E) 1,7 1350",
       subItens: []
     },
     options: [
-      "1,3 Gcal/h, 1350 kg",
-      "1,3 Gcal/h, 150 kg",
-      "1,7 Gcal/h, 135 kg",
-      "1,7 Gcal/h, 150 kg",
-      "1,7 Gcal/h, 1350 kg"
+      "1,3 $Gcal/h$, 1350 kg",
+      "1,3 $Gcal/h$, 150 kg",
+      "1,7 $Gcal/h$, 135 kg",
+      "1,7 $Gcal/h$, 150 kg",
+      "1,7 $Gcal/h$, 1350 kg"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -129,7 +129,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "Uma das áreas de aplicação dos conhecimentos de biotecnologia no mercado de trabalho é a produção de alimentos, bebidas e biocombustíveis que utilizam microorganismos em sua fabricação. Nesse contexto, um dos processos utilizados é a fermentação de carboidratos. A equação química que representa a reação que ocorre na fermentação alcoólica da glicose é C6H12O6(aq) → 2 C2H6O(aq) + 2 CO2(g) ΔH = ? Assinale a alternativa que apresenta o valor correto da entalpia padrão da reação (∆H) de fermentação da glicose, em kJ/mol. Entalpias de formação em kJ/mol Substância ΔH C6H12O6(aq) - 1277 C2H6O (aq) -278 CO2(g) -394",
+      principal: "Uma das áreas de aplicação dos conhecimentos de biotecnologia no mercado de trabalho é a produção de alimentos, bebidas e biocombustíveis que utilizam microorganismos em sua fabricação. Nesse contexto, um dos processos utilizados é a fermentação de carboidratos. A equação química que representa a reação que ocorre na fermentação alcoólica da glicose é C6H12O6(aq) → 2 C2H6O(aq) + 2 CO2(g) ΔH = ? Assinale a alternativa que apresenta o valor correto da entalpia padrão da reação (∆H) de fermentação da glicose, em $kJ/mol$. Entalpias de formação em $kJ/mol$ Substância ΔH C6H12O6(aq) - 1277 C2H6O (aq) -278 CO2(g) -394",
       subItens: []
     },
     options: [
@@ -276,15 +276,15 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "No mundo digital, podem-se definir as cores com o auxílio de um sistema de códigos que é composto pelo sinal de sustenido (#) seguido por seis caracteres que podem ser algarismos (que vão de 0 até 9) ou letras (de A até F). Deste modo, são exemplos de códigos que representam cores: Código Cor #084D6E Azul Petróleo #DA70D6 Orquídea #FF00FF Fúcsia <https://tinyurl.com/y4qkz9j5> Acesso em: 19.10.2019. Adaptado. Logo, utilizando esse código, a quantidade de cores que é possível representar é igual a",
+      principal: "No mundo digital, podem-se definir as cores com o auxílio de um sistema de códigos que é composto pelo sinal de sustenido (#) seguido por seis caracteres que podem ser algarismos (que vão de 0 até 9) ou letras (de A até F). Deste modo, são exemplos de códigos que representam cores: Código Cor #084D6E Azul Petróleo #DA70D6 Orquídea #FF00FF Fúcsia <https://tinyurl.$com/y4qkz9j5$> Acesso em: 19.10.2019. Adaptado. Logo, utilizando esse código, a quantidade de cores que é possível representar é igual a",
       subItens: []
     },
     options: [
-      "2^6",
-      "2^10",
-      "2^12",
-      "2^18",
-      "2^24"
+      "$2^6$",
+      "$2^10$",
+      "$2^12$",
+      "$2^18$",
+      "$2^24$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -301,9 +301,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "na primeira metade do século XI, devido ao período de secas que comprometeu as colheitas e provocou fome generalizada em toda a porção ocidental do Continente.",
+      "na primeira metade do século $\\xi$, devido ao período de secas que comprometeu as colheitas e provocou fome generalizada em toda a porção ocidental do Continente.",
       "na primeira metade do século XII, quando a introdução de técnicas agrícolas não-sustentáveis provocou o esgotamento dos pastos e a diminuição pronunciada dos rebanhos bovinos.",
-      "na segunda metade do século XIII, devido à perseguição promovida pela Igreja Católica contra judeus, muçulmanos e praticantes de religiões pagās, acusados de bruxaria.",
+      "na segunda metade do século XIII, devido à perseguição promovida pela Igreja Católica contra judeus, $\\mu$çulmanos e praticantes de religiões pagās, acusados de bruxaria.",
       "na primeira metade do século XIV, quando o número de infectados pela peste negra atingiu seu ápice, provocando a morte de pouco menos de um terço da população europeia.",
       "na segunda metade do século XV, devido à migração de milhões de europeus em direção aos continentes recém-descobertos no processo das Grandes Navegações."
     ],
@@ -318,11 +318,11 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "O projeto de ocupação populacional da Colônia foi estabelecido entre 1534 e 1536, com a adoção do sistema de capitanias hereditárias, que já havia sido empregado com sucesso nas ilhas atlânticas e, além do Brasil, seria estendido à Angola. O objetivo do rei D. João III com o sistema de capitanias hereditárias era promover a ocupação territorial, transferindo o ônus para particulares. O sistema consistia na concessão pelo rei de extensos domínios a particulares, os quais recebiam uma carta de doação real e um foral, no qual estavam especificadas suas obrigações. O donatário, nome dado ao particular que recebia a capitania, tinha o direito de explorá-la economicamente, administrar a Justiça e, ao mesmo tempo, estava obrigado a se sujeitar à autoridade da Coroa, a recolher os tributos e a expandir a fé católica, entre outras atribuições. Cabia ao donatário, ainda, a concessão de sesmarias, grandes extensões de terras que estão na origem do latifúndio no Brasil. O sistema, contudo, começou a apresentar problemas para os donatários. Poucas foram as capitanias que efetivamente prosperaram. <https://tinyurl.com/y6q37ysu> Acesso em: 15.10.2019. Adaptado. Assinale a alternativa que apresenta, corretamente, algumas das causas do fracasso do sistema descrito no texto.",
+      principal: "O projeto de ocupação populacional da Colônia foi estabelecido entre 1534 e 1536, com a adoção do sistema de capitanias hereditárias, que já havia sido empregado com sucesso nas ilhas atlânticas e, além do Brasil, seria estendido à Angola. O objetivo do rei D. João III com o sistema de capitanias hereditárias era promover a ocupação territorial, transferindo o ônus para particulares. O sistema consistia na concessão pelo rei de extensos domínios a particulares, os quais recebiam uma carta de doação real e um foral, no qual estavam especificadas suas obrigações. O donatário, nome dado ao particular que recebia a capitania, tinha o direito de explorá-la economicamente, administrar a Justiça e, ao mesmo tempo, estava obrigado a se sujeitar à autoridade da Coroa, a recolher os tributos e a expandir a fé católica, entre outras atribuições. Cabia ao donatário, ainda, a concessão de sesmarias, grandes extensões de terras que estão na origem do latifúndio no Brasil. O sistema, contudo, começou a apresentar problemas para os donatários. Poucas foram as capitanias que efetivamente prosperaram. <https://tinyurl.$com/y6q37ysu$> Acesso em: 15.10.2019. Adaptado. Assinale a alternativa que apresenta, corretamente, algumas das causas do fracasso do sistema descrito no texto.",
       subItens: []
     },
     options: [
-      "A maior parte dos donatários enfrentou a resistência dos grupos indígenas à ocupação de seus territórios tradicionais, os altos custos de manutenção e de desenvolvimento das capitanias e/ou a falta de assistência por parte da Coroa portuguesa.",
+      "A maior parte dos donatários enfrentou a resistência dos grupos indígenas à ocupação de seus territórios tradicionais, os altos custos de manutenção e de desenvolvimento das capitanias $e/ou$ a falta de assistência por parte da Coroa portuguesa.",
       "Por serem de origem nobre, os donatários não demonstraram as habilidades necessárias para administrar adequadamente os recursos econômicos de suas capitanias e gerar lucros, forçando a Coroa portuguesa a promulgar a Lei de Terras.",
       "A natureza política do sistema de capitanias hereditárias foi questionada pela burguesia portuguesa, que recorreu a cortes internacionais para impedir a distribuição da maior parte das terras americanas aos membros da nobreza.",
       "O declínio do sistema é consequência do fracasso agrícola, causado pela alternância de períodos de chuva intensa e secas prolongadas, características do clima de monções predominante na maior parte do território americano.",
@@ -339,7 +339,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "Tinha cinco metros o mapa que dominou o encontro, que teve lugar na Chancelaria do Reich. Mostrava o continente, com rios, lagos, nomes de alguns locais e muitas manchas brancas. Quando a Conferência chegou ao fim, depois de mais de três meses de discussões, ainda havia grandes extensões do continente onde nenhum europeu tinha posto os pés. Representantes de diversos países deslocaram-se a convite do chanceler alemão Otto von Bismarck para dividirem o continente entre si, “em conformidade com o direito internacional\". Com duas exceções, todos os Estados que hoje compõem o continente foram divididos entre as potências coloniais poucos anos após o encontro. Muitos historiadores consideram que a Conferência foi o fundamento de futuros conflitos internos no continente. <https://tinyurl.com/y4z6b4j7> Acesso em: 15.10.2019. Adaptado. Assinale a alternativa que apresenta, corretamente, a conferência a que o texto se refere e o processo histórico que se iniciou a partir dela.",
+      principal: "Tinha cinco metros o mapa que dominou o encontro, que teve lugar na Chancelaria do Reich. Mostrava o continente, com rios, lagos, nomes de alguns locais e muitas manchas brancas. Quando a Conferência chegou ao fim, depois de mais de três meses de discussões, ainda havia grandes extensões do continente onde nenhum europeu tinha posto os pés. Representantes de diversos países deslocaram-se a convite do chanceler alemão Otto von Bismarck para dividirem o continente entre si, “em conformidade com o direito internacional\". Com duas exceções, todos os Estados que hoje compõem o continente foram divididos entre as potências coloniais poucos anos após o encontro. Muitos historiadores consideram que a Conferência foi o fundamento de futuros conflitos internos no continente. <https://tinyurl.$com/y4z6b4j7$> Acesso em: 15.10.2019. Adaptado. Assinale a alternativa que apresenta, corretamente, a conferência a que o texto se refere e o processo histórico que se iniciou a partir dela.",
       subItens: []
     },
     options: [
@@ -360,7 +360,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "No Brasil, nas primeiras décadas do século XX, as mulheres formavam grande parte do operariado, especialmente as imigrantes: espanholas, italianas, portuguesas, húngaras, romenas, polonesas, lituanas e sírias. Em 1901, como afirma a historiadora Mary Del Priore, constituíam quase 68% da mão de obra empregada na indústria de fiação e tecelagem. Trabalhavam de 10 a 14 horas por dia, em péssimas condições de higiene e sob grande controle disciplinar. Além disso, os salários eram baixos, estavam constantemente sujeitas ao assédio sexual e não existia qualquer legislação trabalhista capaz de protegê-las de tal exploração. Somente a partir da década de 1930, depois de inúmeras manifestações operárias em todo o mundo, a legislação brasileira proporcionou garantias trabalhistas às mulheres. Na Era Vargas, anos 30, 40 e 50, houve a regulamentação do trabalho de mulheres e crianças, e o presidente Getúlio Vargas fixou a jornada de trabalho em 8 horas diárias. <https://tinyurl.com/y5sq4pkp> Acesso em: 15.10.2019. Adaptado. Segundo o texto,",
+      principal: "No Brasil, nas primeiras décadas do século XX, as mulheres formavam grande parte do operariado, especialmente as imigrantes: espanholas, italianas, portuguesas, húngaras, romenas, polonesas, lituanas e sírias. Em 1901, como afirma a historiadora Mary Del Priore, constituíam quase 68% da mão de obra empregada na indústria de fiação e tecelagem. Trabalhavam de 10 a 14 horas por dia, em péssimas condições de higiene e sob grande controle disciplinar. Além disso, os salários eram baixos, estavam constantemente sujeitas ao assédio sexual e não existia qualquer legislação trabalhista capaz de protegê-las de tal exploração. Somente a partir da década de 1930, depois de inúmeras manifestações operárias em todo o mundo, a legislação brasileira proporcionou garantias trabalhistas às mulheres. Na Era Vargas, anos 30, 40 e 50, houve a regulamentação do trabalho de mulheres e crianças, e o presidente Getúlio Vargas fixou a jornada de trabalho em 8 horas diárias. <https://tinyurl.$com/y5sq4pkp$> Acesso em: 15.10.2019. Adaptado. Segundo o texto,",
       subItens: []
     },
     options: [
@@ -402,15 +402,15 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "O tetrahidroxiborato reage com o PVA (equação 3), formando novas ligações que interligam as cadeias do polímero que constitui o slime. Considerando que uma colher de chá de bicarbonato de sódio contém 5 g desse composto, é correto afirmar que o número de moléculas de bicarbonato de sódio utilizadas na fabricação do slime caseiro, conforme descrito no texto, corresponde a aproximadamente Massa molar do NaHCO3 = 84 g/mol Constante de Avogadro: 6 × 10^23 mol⁻¹",
+      principal: "O tetrahidroxiborato reage com o PVA (equação 3), formando novas ligações que interligam as cadeias do polímero que constitui o slime. Considerando que uma colher de chá de bicarbonato de sódio contém 5 g desse composto, é correto afirmar que o número de moléculas de bicarbonato de sódio utilizadas na fabricação do slime caseiro, conforme descrito no texto, corresponde a aproximadamente Massa molar do NaHCO3 = 84 $g/mol$ Constante de Avogadro: 6 × $10^23$ mol⁻¹",
       subItens: []
     },
     options: [
-      "6,2 x 10^22",
-      "7,1 x 10^22",
-      "9,1 x 10^22",
-      "2,0 x 10^23",
-      "3,0 x 10^23"
+      "6,2 x $10^22$",
+      "7,1 x $10^22$",
+      "9,1 x $10^22$",
+      "2,0 x $10^23$",
+      "3,0 x $10^23$"
     ],
     correctAnswer: 1,
     materia: ["Química"],
@@ -738,15 +738,15 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "O tether consiste em dois objetos fixos nas duas extremidades de um cabo. A pesquisadora brasileira Alessandra F. S. Ferreira, da Unesp de Guaratinguetá (SP), foi agraciada com o prêmio Mario Grossi no evento internacional Tether in Space 2019 (em Madrid). Em seu estudo, ela propôs a aplicação de um cabo fino e rígido de 100 km de comprimento com uma ponta ancorada na superfície de um corpo celeste, como um asteroide por exemplo. A outra ponta estará ancorada em um veículo espacial, conforme apresentado na figura. Assim, a técnica poderá ser utilizada para economizar energia e aumentar o impulso em viagens espaciais mais longas. Uma espaçonave de 100 toneladas, navegando a uma velocidade tangencial aproximada de 28,8 mil km/h, acopla-se ao cabo citado de 100 km de extensão ancorado em um asteroide (considerado aqui como um ponto material em repouso). Assumindo que a massa do cabo seja desprezível em relação ao sistema, podemos afirmar, corretamente, que a força centrípeta aplicada na extremidade do cabo ligada ao veículo espacial, em newtons, é Lembre-se de que ac = V^2 / R",
+      principal: "O tether consiste em dois objetos fixos nas duas extremidades de um cabo. A pesquisadora brasileira Alessandra F. S. Ferreira, da Unesp de Guaratinguetá (SP), foi agraciada com o prêmio Mario Grossi no evento internacional Tether in Space 2019 (em Madrid). Em seu estudo, ela propôs a aplicação de um cabo fino e rígido de 100 km de comprimento com uma ponta ancorada na superfície de um corpo celeste, como um asteroide por exemplo. A outra ponta estará ancorada em um veículo espacial, conforme apresentado na figura. Assim, a técnica poderá ser utilizada para economizar energia e aumentar o impulso em viagens espaciais mais longas. Uma espaçonave de 100 toneladas, navegando a uma velocidade tangencial aproximada de 28,8 mil $km/h$, acopla-se ao cabo citado de 100 km de extensão ancorado em um asteroide (considerado aqui como um ponto material em repouso). Assumindo que a massa do cabo seja desprezível em relação ao sistema, podemos afirmar, corretamente, que a força centrípeta aplicada na extremidade do cabo ligada ao veículo espacial, em newtons, é Lembre-se de que ac = $V^2$ / R",
       subItens: []
     },
     options: [
-      "6,4×10^7",
-      "6,4×10^5",
-      "6,4×10^3",
-      "8,3×10^4",
-      "8,3×10^6"
+      "6,4×$10^7$",
+      "6,4×$10^5$",
+      "6,4×$10^3$",
+      "8,3×$10^4$",
+      "8,3×$10^6$"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -759,7 +759,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "Em 2019 comemora-se, em todo o mundo, o centenário das observações astronômicas realizadas na cidade de Sobral (CE), durante o eclipse solar de 29 de maio de 1919. As medidas da deflexão da luz decorrentes das estrelas na borda do Sol constituíram uma prova fundamental para a confirmação da Teoria da Relatividade Geral do físico Albert Einstein. <http://tinyurl.com/y2rn2ptp>. Acesso em: 10.10.2019. Adaptado. Sobre o eclipse referido, é correto afirmar que",
+      principal: "Em 2019 comemora-se, em todo o mundo, o centenário das observações astronômicas realizadas na cidade de Sobral (CE), durante o eclipse solar de 29 de maio de 1919. As medidas da deflexão da luz decorrentes das estrelas na borda do Sol constituíram uma prova fundamental para a confirmação da Teoria da Relatividade Geral do físico Albert Einstein. <http://tinyurl.$com/y2rn2ptp$>. Acesso em: 10.10.2019. Adaptado. Sobre o eclipse referido, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "Recentemente, uma empresa britânica apresentou um protótipo de um motor a jato hipersônico que permitirá às aeronaves comerciais voarem a uma velocidade muito acima da velocidade do som, fazendo com que uma viagem de São Paulo à Austrália dure, aproximadamente, 4 horas (atualmente essa viagem dura cerca de 24 horas). Isso só é possível devido ao fato de o motor ser alimentado por uma mistura de hidrogênio e oxigênio. Esse motor \"suga\" o ar à sua frente fazendo com que os gases, antes de entrarem no combustor, sejam resfriados por um sistema denominado pre-cooler. Esse dispositivo consegue resfriar os gases variando a temperatura 1000 K em cerca de 50 ms. Assim, ele aumenta a eficiência de combustível. Com base nessas informações, podemos afirmar que a taxa de variação de resfriamento térmico, em °C/s, é",
+      principal: "Recentemente, uma empresa britânica apresentou um protótipo de um motor a jato hipersônico que permitirá às aeronaves comerciais voarem a uma velocidade muito acima da velocidade do som, fazendo com que uma viagem de São Paulo à Austrália dure, aproximadamente, 4 horas (atualmente essa viagem dura cerca de 24 horas). Isso só é possível devido ao fato de o motor ser alimentado por uma mistura de hidrogênio e oxigênio. Esse motor \"suga\" o ar à sua frente fazendo com que os gases, antes de entrarem no combustor, sejam resfriados por um sistema denominado pre-cooler. Esse dispositivo consegue resfriar os gases variando a temperatura 1000 K em cerca de 50 ms. Assim, ele aumenta a eficiência de combustível. Com base nessas informações, podemos afirmar que a taxa de variação de resfriamento térmico, em °$C/s$, é",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "O Brasil é reconhecido internacionalmente por seu amplo programa de imunização, que disponibiliza vacinas gratuitamente à população por meio do Sistema Único de Saúde (SUS). Criado em 1973, o Programa Nacional de Imunização (PNI) teve início com 4 tipos de vacinas e, hoje, oferece 27 à população sem qualquer custo. Nem mesmo a crise econômica afeta o bilionário orçamento da iniciativa, o qual foi de R$ 3,9 bilhões em 2017. No entanto, a cobertura vacinal no Brasil está em queda. Números do PNI analisados pela BBC Brasil, em 2017, mostram que o governo tem tido cada vez mais dificuldades em bater a meta de vacinar a maior parte da população. Um exemplo é a poliomielite: a doença, responsável pela paralisia infantil, está erradicada no País desde 1990. Para o governo, é cedo para dizer se há tendência de queda real ou se são oscilações por mudanças em curso no sistema de notificação; porém, os números já preocupam. “Ainda é muito precoce para dizer se há oscilação real, mas estamos preocupados, sim. O sinal amarelo acendeu,” afirma a coordenadora do PNI. O que o governo mais teme é que a redução de pessoas vacinadas crie bolsões de indivíduos suscetíveis a doenças antigas e controladas no País. <https://tinyurl.com/y8ur2re7> Acesso em: 10.10.2019. Adaptado. Uma consequência do problema abordado é",
+      principal: "O Brasil é reconhecido internacionalmente por seu amplo programa de imunização, que disponibiliza vacinas gratuitamente à população por meio do Sistema Único de Saúde (SUS). Criado em 1973, o Programa Nacional de Imunização (PNI) teve início com 4 tipos de vacinas e, hoje, oferece 27 à população sem qualquer custo. Nem mesmo a crise econômica afeta o bilionário orçamento da iniciativa, o qual foi de R$ 3,9 bilhões em 2017. No entanto, a cobertura vacinal no Brasil está em queda. Números do PNI analisados pela BBC Brasil, em 2017, mostram que o governo tem tido cada vez mais dificuldades em bater a meta de vacinar a maior parte da população. Um exemplo é a poliomielite: a doença, responsável pela paralisia infantil, está erradicada no País desde 1990. Para o governo, é cedo para dizer se há tendência de queda real ou se são oscilações por mudanças em curso no sistema de notificação; porém, os números já preocupam. “Ainda é muito precoce para dizer se há oscilação real, mas estamos preocupados, sim. O sinal amarelo acendeu,” afirma a coordenadora do PNI. O que o governo mais teme é que a redução de pessoas vacinadas crie bolsões de indivíduos suscetíveis a doenças antigas e controladas no País. <https://tinyurl.$com/y8ur2re7$> Acesso em: 10.10.2019. Adaptado. Uma consequência do problema abordado é",
       subItens: []
     },
     options: [
@@ -885,7 +885,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "\"No Oriente Médio, nos anos 1950, à medida que o velho Império Britânico retirava-se e se reduzia a seu arquipélago inicial, os Estados Unidos substituíam-no. Para isso, colocou à frente dos países dessa região seus “homens\", sobretudo na Arábia Saudita e no Irã, principais produtores de petróleo do mundo – junto com a Venezuela, na época já sob controle estadunidense.\" <https://tinyurl.com/y5jobeuu> Acesso em: 10.10.2019. Adaptado. Desde 1953, o Irã foi um grande aliado dos Estados Unidos no Oriente Médio. Porém, essa aliança se rompeu e as relações entre os dois países foram cortadas em 1980. O fato que levou a esse rompimento aconteceu, entre 1978 e 1979, em decorrência da",
+      principal: "\"No Oriente Médio, nos anos 1950, à medida que o velho Império Britânico retirava-se e se reduzia a seu arquipélago inicial, os Estados Unidos substituíam-no. Para isso, colocou à frente dos países dessa região seus “homens\", sobretudo na Arábia Saudita e no Irã, principais produtores de petróleo do mundo – junto com a Venezuela, na época já sob controle estadunidense.\" <https://tinyurl.$com/y5jobeuu$> Acesso em: 10.10.2019. Adaptado. Desde 1953, o Irã foi um grande aliado dos Estados Unidos no Oriente Médio. Porém, essa aliança se rompeu e as relações entre os dois países foram cortadas em 1980. O fato que levou a esse rompimento aconteceu, entre 1978 e 1979, em decorrência da",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "\"O livre mercado é um termo conciso para designar um arranjo de trocas que ocorrem na sociedade. Cada troca acontece como um acordo voluntário entre duas pessoas ou entre grupos de pessoas representados por agentes. Esses indivíduos, ou seus agentes, trocam dois bens econômicos, tanto commodities tangíveis quanto serviços não-tangíveis.” <https://tinyurl.com/yywpe8lx> Acesso em: 10.10.2019. Adaptado. A expressão \"livre mercado\", presente no texto, é típica de uma sociedade",
+      principal: "\"O livre mercado é um termo conciso para designar um arranjo de trocas que ocorrem na sociedade. Cada troca acontece como um acordo voluntário entre duas pessoas ou entre grupos de pessoas representados por agentes. Esses indivíduos, ou seus agentes, trocam dois bens econômicos, tanto commodities tangíveis quanto serviços não-tangíveis.” <https://tinyurl.$com/yywpe8lx$> Acesso em: 10.10.2019. Adaptado. A expressão \"livre mercado\", presente no texto, é típica de uma sociedade",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "fatec",
     year: 2020,
     text: {
-      principal: "Leia o texto para responder às questões de 51 a 54. O leitor encontra, neste belo número da Revista Katálysis, um panorama rico, denso e qualificado do que vem ocorrendo no mundo do trabalho hoje, com seus traços de “continuidade\" e \"descontinuidade”, num período em que o capitalismo aprofundou ainda mais as penalizações que está impondo ao universo laborativo, onde o “novo” e o “velho” se (re)configuram a partir da nova Divisão Internacional do Trabalho (DIT), que se reestruturou nas últimas décadas. [...] Se a Revolução Industrial, nos séculos XVIII e XIX, legou-nos um enorme processo de \"desantropomorfização do trabalho” (Lukács); se o século XX pode ser caracterizado pelo que Braverman definiu como sendo a “era da degradação do trabalho\", as últimas décadas do século passado e os inícios do atual vêm presenciando a generalização de “outras formas e modalidades de precarização”, [...] aquela responsável pela geração do cybertariado (Ursula Huws), uma nova força de trabalho global que mescla intensamente “informatização” com \"informalização\".[...] As consequências são fortes: nesta fase de desmanche, estamos presenciando o derretimento dos poucos laços de sociabilidade, [...] sem presenciarmos uma ampliação da vida dotada de sentido, nem “dentro” e nem “fora” do trabalho. A vida se consolida, cada vez mais, como sendo desprovida de sentido no trabalho e, por outro lado, estranhada e fetichizada* também “fora” do trabalho, exaurindo-se no mundo sublimado do consumo (virtual ou real), ou na labuta incansável pelas qualificações de todo tipo, que são incentivadas como antídoto [...] para não perder o emprego daqueles que o têm. É por isso que estamos presenciando uma desconstrução sem precedentes do trabalho em toda a era moderna, ampliando os diversos modos de ser da precarização e do desemprego estrutural. Resta para a \"classe-que-vive-do-trabalho” oscilar, ao modo dos pêndulos, entre a busca de qualquer “labor” e a vivência do desemprego. Este número especial da Revista Katálysis, dedicado às novas configurações do trabalho na sociedade capitalista, é uma contribuição efetiva para a linhagem crítica, atualizada e original, tanto pelos temas selecionados, quanto pela qualidade e competência dos colaboradores presentes, ajudando a descortinar tantos elementos que configuram a “nova morfologia do trabalho\", seus dilemas e desafios. Ricardo Antunes, Editorial da Revista Katálysis, n.2, 2009. <https://tinyurl.com/y6nchqmr> Acesso em: 19.10.2019. Adaptado. *fetichizar: ação de admirar exageradamente, irrestritamente, incondicionalmente uma pessoa ou coisa. Assinale a alternativa que apresenta uma análise correta das informações apresentadas no texto.",
+      principal: "Leia o texto para responder às questões de 51 a 54. O leitor encontra, neste belo número da Revista Katálysis, um panorama rico, denso e qualificado do que vem ocorrendo no mundo do trabalho hoje, com seus traços de “continuidade\" e \"descontinuidade”, num período em que o capitalismo aprofundou ainda mais as penalizações que está impondo ao universo laborativo, onde o “novo” e o “velho” se (re)configuram a partir da nova Divisão Internacional do Trabalho (DIT), que se reestruturou nas últimas décadas. [...] Se a Revolução Industrial, nos séculos XVIII e XIX, legou-nos um enorme processo de \"desantropomorfização do trabalho” (Lukács); se o século XX pode ser caracterizado pelo que Braverman definiu como sendo a “era da degradação do trabalho\", as últimas décadas do século passado e os inícios do atual vêm presenciando a generalização de “outras formas e modalidades de precarização”, [...] aquela responsável pela geração do cybertariado (Ursula Huws), uma nova força de trabalho global que mescla intensamente “informatização” com \"informalização\".[...] As consequências são fortes: nesta fase de desmanche, estamos presenciando o derretimento dos poucos laços de sociabilidade, [...] sem presenciarmos uma ampliação da vida dotada de sentido, nem “dentro” e nem “fora” do trabalho. A vida se consolida, cada vez mais, como sendo desprovida de sentido no trabalho e, por outro lado, estranhada e fetichizada* também “fora” do trabalho, exaurindo-se no mundo sublimado do consumo (virtual ou real), ou na labuta incansável pelas qualificações de todo tipo, que são incentivadas como antídoto [...] para não perder o emprego daqueles que o têm. É por isso que estamos presenciando uma desconstrução sem precedentes do trabalho em toda a era moderna, ampliando os diversos modos de ser da precarização e do desemprego estrutural. Resta para a \"classe-que-vive-do-trabalho” oscilar, ao modo dos pêndulos, entre a busca de qualquer “labor” e a vivência do desemprego. Este número especial da Revista Katálysis, dedicado às novas configurações do trabalho na sociedade capitalista, é uma contribuição efetiva para a linhagem crítica, atualizada e original, tanto pelos temas selecionados, quanto pela qualidade e competência dos colaboradores presentes, ajudando a descortinar tantos elementos que configuram a “nova morfologia do trabalho\", seus dilemas e desafios. Ricardo Antunes, Editorial da Revista Katálysis, n.2, 2009. <https://tinyurl.$com/y6nchqmr$> Acesso em: 19.10.2019. Adaptado. *fetichizar: ação de admirar exageradamente, irrestritamente, incondicionalmente uma pessoa ou coisa. Assinale a alternativa que apresenta uma análise correta das informações apresentadas no texto.",
       subItens: []
     },
     options: [

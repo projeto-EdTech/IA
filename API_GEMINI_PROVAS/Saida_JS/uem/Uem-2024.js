@@ -13,7 +13,7 @@ createQuestion({
       "Há manifestações caracterizadas por diferentes figuras geométricas que podem provocar no espectador sensações de movimento. Se o observador mudar de posição terá a impressão de que a obra se modifica, com traços e figuras que se alteram e se movimentam, formando um novo conjunto pictórico.",
       "Expressa-se no desejo de romper barreiras entre a arte e a vida comum, utilizando-se de recursos expressivos semelhantes aos dos meios de comunicação, explorando imagens, cenas e o ambiente que a tecnologia industrial criou nos grandes centros urbanos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Arte Contemporânea"],
     imageNames: []
@@ -34,7 +34,7 @@ createQuestion({
       "John Locke considera o inatismo e o seu método racional e dedutivo fontes confiáveis e seguras de ideias, visto que alguns dos princípios mais conhecidos (por exemplo, o de que “é impossível uma coisa ser e não ser ao mesmo tempo”) não têm origem na experiência.",
       "O lema \"saber é poder” é atribuído a Francis Bacon. Esse lema expressa sua preocupação com a questão do método das ciências e com a importância do método experimental como instrumento de dominação e conhecimento da natureza."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Teoria do Conhecimento", "Filosofia Moderna"],
     imageNames: []
@@ -55,7 +55,7 @@ createQuestion({
       "O Período Clássico da filosofia grega antiga representou o momento de decadência da civilização grega (séculos V e IV a.C.). Os principais filósofos foram: Epicuro, Zenão de Cito e Diógenes.",
       "As obras A República e Leis sintetizam o pensamento político de Platão. Contemporâneo da derrota de Atenas para Esparta, Platão expressa, nessas obras, um certo desalento em relação à experiência da democracia ateniense. Diante disso, propõe que o governo não deveria ser confiado às \"pessoas comuns\", mas àqueles que considerava os “mais capazes”: os filósofos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História", "Filosofia"],
     conteudo: ["Grécia Antiga", "Filosofia Antiga"],
     imageNames: []
@@ -76,7 +76,7 @@ createQuestion({
       "Com o renascimento comercial, artesãos passaram a se organizar em corporações de ofício (associações que almejavam regulamentar suas atividades).",
       "Para a burguesia foi interessante a existência de um poder fragmentado entre senhores feudais, pois assim ela pôde se aliar politicamente a quem melhor favorecesse suas atividades comerciais."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Idade Média", "Transição para a Idade Moderna"],
     imageNames: []
@@ -97,7 +97,7 @@ createQuestion({
       "O Planisfério Oval, elaborado pelo italiano Francesco Rosseli, na primeira metade do século XVI, apresentava dados de localização pouco precisos, pois o conhecimento cartográfico sobre o planeta ainda era limitado.",
       "Na primeira metade do século XVI, D. Henrique, o navegador, estendeu os domínios portugueses sobre a região de Ceuta, localizada nas Índias."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História", "Geografia"],
     conteudo: ["Grandes Navegações", "Cartografia"],
     imageNames: []
@@ -118,7 +118,7 @@ createQuestion({
       "Devido à ocorrência de uma paisagem com predomínio dos chamados campos naturais, o Paraná não apresentou um típico ciclo da madeira.",
       "A hidrografia do território paranaense favoreceu sua colonização. Exemplos são as ocupações que ocorreram nas proximidades dos rios Ivaí, Tibagi e Piquiri."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História", "Geografia"],
     conteudo: ["Colonização do Paraná", "Geografia do Paraná"],
     imageNames: []
@@ -139,7 +139,7 @@ createQuestion({
       "A circulação geral atmosférica não influencia as características dos tipos climáticos.",
       "A pressão atmosférica em um mesmo local varia com as mudanças da estação do ano."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Climatologia", "Circulação Atmosférica"],
     imageNames: []
@@ -160,7 +160,7 @@ createQuestion({
       "A extensão do período pré-adulto está relacionada ao nível de desenvolvimento econômico e social dos países.",
       "A identidade juvenil tem características semelhantes entre membros de classes sociais distintas em uma mesma sociedade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Socialização", "Identidade Social"],
     imageNames: []
@@ -181,7 +181,7 @@ createQuestion({
       "O forró é um estilo de dança de salão originário do Brasil.",
       "A dança de salão realizada em baixa intensidade e com longa duração pode ser considerada uma forma de exercício físico aeróbico."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Dança"],
     imageNames: []
@@ -202,7 +202,7 @@ createQuestion({
       "A mitose origina duas células-filha, das quais uma contém o material genético recebido da célula-mãe, e a outra contém material genético totalmente novo, recém-formado.",
       "Na reprodução humana, ovulogênese ou ovogênese são nomes dados ao processo da gametogênese feminina. As primeiras fases da gametogênese ocorrem na fase intrauterina, ou seja, antes do nascimento."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Divisão Celular", "Genética", "Fisiologia Humana"],
     imageNames: []
@@ -223,7 +223,7 @@ createQuestion({
       "Nas acrobacias circenses, o acrobata, por várias vezes, troca a energia cinética pela energia potencial gravitacional.",
       "Os músculos são sistemas transformadores de energia. Enquanto se caminha, a energia química de moléculas orgânicas, principalmente da glicose, é convertida em energia mecânica do movimento."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física", "Biologia"],
     conteudo: ["Energia", "Metabolismo Energético"],
     imageNames: []
@@ -244,7 +244,7 @@ createQuestion({
       "Zona afótica é a denominação da profundidade marinha em que não há registros de animais adaptados à ausência de luz.",
       "Fontes termais marinhas profundas podem desencadear o transporte de nutrientes e de gases e sustentar organismos produtores não fotossintetizantes, que são a base de comunidades abissais."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia", "Biologia"],
     conteudo: ["Oceanografia", "Ecologia Marinha"],
     imageNames: []
@@ -265,7 +265,7 @@ createQuestion({
       "De acordo com a tabela, a chance de uma gravidez indesejada utilizando-se o dispositivo intrauterino (DIU) é menor que 1%.",
       "De acordo com a tabela, o anticoncepcional oral tem a metade da eficácia para se evitar a gravidez quando comparado à eficácia do preservativo masculino."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Reprodução Humana", "Saúde"],
     imageNames: []
@@ -286,7 +286,7 @@ createQuestion({
       "No fígado, a vitamina D pode ser produzida a partir de precursores obtidos de uma dieta rica em frutas, legumes e verduras.",
       "O paratormônio, produzido pelas glândulas paratireoides, promove a reabsorção da matriz óssea e a liberação de cálcio no sangue."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia", "Química"],
     conteudo: ["Bioquímica", "Funções Inorgânicas", "Fisiologia Humana"],
     imageNames: []
@@ -305,9 +305,9 @@ createQuestion({
       "Para uma mesma quantidade de açúcar, um processo fermentativo resulta em mais energia do que um processo de respiração aeróbia.",
       "Segundo Lavoisier, a quantidade de átomos presentes em ambos os lados da equação não é igual, pois átomos são convertidos em energia.",
       "As reações de fermentação e respiração anaeróbia de conversão de açúcar em moléculas menores são fenômenos irreversíveis.",
-      "Fazer o balanceamento da equação implica descobrir que a razão B/n apresenta um valor constante que não depende da quantidade n de açúcar fornecido para a reação."
+      "Fazer o balanceamento da equação implica descobrir que a razão $B/n$ apresenta um valor constante que não depende da quantidade n de açúcar fornecido para a reação."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Reações Orgânicas", "Metabolismo Energético"],
     imageNames: []
@@ -318,7 +318,7 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "Um bloco de massa de 2kg é lançado para cima de um plano inclinado com um ângulo de 30° em relação à horizontal. A velocidade inicial desse bloco é de 5m/s. Considere que, além da força gravitacional, também atua uma força de atrito (não conservativa) com módulo constante de 1N ao longo do movimento. Assinale o que for correto.",
+      principal: "Um bloco de massa de 2kg é lançado para cima de um plano inclinado com um ângulo de 30° em relação à horizontal. A velocidade inicial desse bloco é de $5m/s$. Considere que, além da força gravitacional, também atua uma força de atrito (não conservativa) com módulo constante de 1N ao longo do movimento. Assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -328,7 +328,7 @@ createQuestion({
       "A soma das energias potencial e cinética do bloco é conservada.",
       "A altura máxima alcançada pelo bloco pode ser encontrada combinando-se o princípio da conservação da energia com o fato de a força de atrito ser não conservativa."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Dinâmica", "Energia Mecânica"],
     imageNames: []
@@ -349,7 +349,7 @@ createQuestion({
       "Se em t = 0 o carro A estava no quilômetro 18, então o automóvel B estava no quilômetro 45.",
       "O automóvel A tem aceleração estritamente positiva."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática"],
     imageNames: []
@@ -360,17 +360,17 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "Dois blocos, A e B, movem-se sem atrito e restritos a uma trajetória retilínea em uma pista de colisão horizontal. O bloco A tem massa mA = 2kg, e o bloco B tem massa mB = 3kg. Eles se movem um em direção ao outro com velocidade VA = 4m/s e VB = -2m/s, respectivamente. Após as colisões, as velocidades dos blocos são VA' e VB'. Considerando que a colisão é elástica, assinale o que for correto.",
+      principal: "Dois blocos, A e B, movem-se sem atrito e restritos a uma trajetória retilínea em uma pista de colisão horizontal. O bloco A tem massa mA = 2kg, e o bloco B tem massa mB = 3kg. Eles se movem um em direção ao outro com velocidade VA = $4m/s$ e VB = -$2m/s$, respectivamente. Após as colisões, as velocidades dos blocos são VA' e VB'. Considerando que a colisão é elástica, assinale o que for correto.",
       subItens: []
     },
     options: [
-      "A soma das quantidades de movimento antes da colisão é 14kg m/s.",
+      "A soma das quantidades de movimento antes da colisão é 14kg $m/s$.",
       "A soma das energias cinéticas antes da colisão é 22J.",
-      "A velocidade do bloco A após a colisão é vA' = -4m/s.",
-      "A velocidade do bloco B após a colisão é vB' = 2m/s.",
+      "A velocidade do bloco A após a colisão é vA' = -$4m/s$.",
+      "A velocidade do bloco B após a colisão é vB' = $2m/s$.",
       "As velocidades dos blocos após a colisão podem ser determinadas resolvendo-se um sistema de equações com duas incógnitas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Colisões", "Quantidade de Movimento", "Energia Cinética"],
     imageNames: []
@@ -387,11 +387,11 @@ createQuestion({
     options: [
       "A emissão de uma partícula alfa por um átomo radioativo não altera o seu número atômico.",
       "A emissão de apenas uma partícula alfa por um átomo radioativo faz que esse átomo seja acelerado na mesma direção, mas em sentido contrário à emissão.",
-      "A emissão de uma partícula beta por um átomo radioativo faz que haja mudança no deslocamento desse átomo.",
-      "Concomitantemente à emissão de partículas alfa ou beta, é comum ocorrer emissão de radiação gama.",
-      "Se uma partícula beta for emitida por um átomo radioativo e se ela posteriormente colidir com outro átomo de um gás, essa partícula não exercerá força sobre esse outro átomo."
+      "A emissão de uma partícula $\\beta$ por um átomo radioativo faz que haja mudança no deslocamento desse átomo.",
+      "Concomitantemente à emissão de partículas alfa ou $\\beta$, é comum ocorrer emissão de radiação gama.",
+      "Se uma partícula $\\beta$ for emitida por um átomo radioativo e se ela posteriormente colidir com outro átomo de um gás, essa partícula não exercerá força sobre esse outro átomo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física", "Química"],
     conteudo: ["Radioatividade", "Radioatividade"],
     imageNames: []
@@ -407,12 +407,12 @@ createQuestion({
     },
     options: [
       "A combustão completa do octano pode ser representada pela equação química balanceada 2C8H18+25O2 → 16CO2+18H2O.",
-      "A velocidade do carro após a queima de 0,01 mol de octano é de 10m/s.",
+      "A velocidade do carro após a queima de 0,01 mol de octano é de $10m/s$.",
       "A potência fornecida ao carro é constante.",
       "A velocidade do carro cresce linearmente com o tempo de movimento.",
       "A aceleração do carro é constante."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química", "Física"],
     conteudo: ["Termoquímica", "Dinâmica", "Trabalho e Potência"],
     imageNames: []
@@ -428,12 +428,12 @@ createQuestion({
     },
     options: [
       "Mistura é a reunião de duas ou mais substâncias diferentes, e toda solução é uma mistura homogênea.",
-      "Uma solução de NaOH em água, de concentração 100g/L, possui menor concentração em mol/L que uma solução de NaOH em água de concentração 1 mol/L.",
+      "Uma solução de NaOH em água, de concentração $100g/L$, possui menor concentração em $mol/L$ que uma solução de NaOH em água de concentração 1 $mol/L$.",
       "O leite de magnésia é um tipo de mistura definido como uma suspensão, ou seja, uma mistura heterogênea onde o soluto forma aglomerados de íons muito grandes no solvente.",
       "O mercúrio, apesar de ser muito prejudicial à vida, é usado em garimpos, pois forma uma solução com o ouro, facilitando a separação do metal nobre do solo.",
       "Uma mistura de dois gases diferentes em um cilindro, um polar (SO2) e um apolar (O2), forma uma mistura gasosa heterogênea."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Misturas e Soluções", "Físico-Química"],
     imageNames: []
@@ -444,17 +444,17 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "O soro fisiológico, utilizado para lavagem do olho e para outros procedimentos médicos, é uma solução de cloreto de sódio em água com título (fração em massa) 0,9%. Considerando que a densidade da solução é d = 1,0g/cm³, assinale o que for correto.",
+      principal: "O soro fisiológico, utilizado para lavagem do olho e para outros procedimentos médicos, é uma solução de cloreto de sódio em água com título (fração em massa) 0,9%. Considerando que a densidade da solução é d = 1,$0g/cm$³, assinale o que for correto.",
       subItens: []
     },
     options: [
       "100g de soro fisiológico contém 0,9g de cloreto de sódio.",
-      "Considerando-se que o volume da solução é de 100cm³, a concentração do soro fisiológico é de c = 9,0g/L.",
+      "Considerando-se que o volume da solução é de 100cm³, a concentração do soro fisiológico é de c = 9,$0g/L$.",
       "A partir de 90kg de cloreto de sódio é possível produzir 1000L de soro fisiológico.",
       "A massa de água contida em 1000g de soro fisiológico é de 991g.",
       "O volume da água muda com a mudança de temperatura, portanto o título do soro fisiológico em um dia muito quente é diferente do título em um dia muito frio."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Soluções", "Estequiometria"],
     imageNames: []
@@ -472,10 +472,10 @@ createQuestion({
       "A soma de números irracionais é sempre irracional.",
       "A soma de números racionais é sempre racional.",
       "2⁻⁸ > 8⁻².",
-      "5/3 = 47/30.",
+      "$5/3$ = $47/30$.",
       "√16 = ±4."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Conjuntos Numéricos", "Propriedades de Potências e Raízes"],
     imageNames: []
@@ -496,7 +496,7 @@ createQuestion({
       "O sistema possui duas equações e três incógnitas.",
       "O sistema é possível e indeterminado."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Sistemas Lineares", "Matrizes"],
     imageNames: []
@@ -517,7 +517,7 @@ createQuestion({
       "O rolo de papel C custa 75% do preço do rolo do papel B.",
       "O produto mais barato é o papel A."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Razão e Proporção", "Análise de Custos"],
     imageNames: []
@@ -538,7 +538,7 @@ createQuestion({
       "Na leitura do texto, identificam-se as vozes de um narrador e de dois personagens, vozes que remetem a indivíduos distintos.",
       "Os trechos atribuídos ao narrador são caracterizados pelo uso de frases predominantemente curtas, algumas vezes frases não oracionais."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Gêneros Textuais", "Elementos da Narrativa", "Discurso Direto e Indireto"],
     imageNames: []
@@ -559,7 +559,7 @@ createQuestion({
       "O uso da vírgula em \"— Para você, seis contos.\" (linha 32) justifica-se pelo fato de o adjunto adverbial não estar no final da oração.",
       "Em \"— Uai, é fêmea?” (linha 40), a vírgula foi usada para separar o vocativo da oração."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Pontuação", "Sintaxe"],
     imageNames: []
@@ -580,7 +580,7 @@ createQuestion({
       "O texto sugere implicitamente que um dos motivos da não realização da transação comercial entre o adulto e o menino é a frustração deste último quanto ao sexo do melro.",
       "O pedido de doação do pássaro feito pelo menino, após a negociação realizada, sugere, de modo implícito, que talvez esse personagem não possuísse o dinheiro suficiente para adquirir a ave."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Análise Literária"],
     imageNames: []
@@ -601,7 +601,7 @@ createQuestion({
       "O emprego de \"Uai\" (linha 40) é uma marca da oralidade presente no texto e mostra a surpresa do menino ao concluir que o melro era fêmea.",
       "Na linha 51, a frase “— O senhor não me dá um passarinho de presente, não?\" evidencia a crença do menino de que o adulto não venderá o coleira por oito contos, ainda que sem gaiola."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Análise Linguística"],
     imageNames: []
@@ -622,7 +622,7 @@ createQuestion({
       "Em \" O coleira o senhor também deixa por seis contos?\" (linha 45), o sujeito sintático da sentença é \"O coleira\", interpretado como aquele que realiza a ação verbal.",
       "Em \"A irmãzinha o chama de dentro d'água.\" (linhas 49 e 50), a expressão \"de dentro d'água\" é o objeto indireto de \"chama”, interpretado como paciente da ação verbal."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Regência Verbal"],
     imageNames: []
@@ -643,7 +643,7 @@ createQuestion({
       "No quadrinho 1, em \"Sabe do que eu tenho medo, vó?”, o termo \"vó\" apresenta uma função essencial para a interação verbal entre os personagens, mas acessória do ponto de vista sintático, no âmbito da oração.",
       "No quadrinho 3, em “Não existem mais dinossauros.\", ο vocábulo \"mais\" atua sobre \"dinossauros”, quantificando-o, e pode ser substituído por vários."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Gêneros Textuais"],
     imageNames: []
@@ -664,7 +664,7 @@ createQuestion({
       "A argumentação utilizada pela avó é lógica e poderia ser assim sintetizada: se se tem medo de fantasmas, deve-se também ter medo de dinossauros, pois todos estão mortos.",
       "No quadrinho 4, em “Achei que você tinha medo de fantasmas.\", a avó reconhece ter se confundido sobre a fonte do medo do neto."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Gêneros Textuais"],
     imageNames: []
@@ -685,7 +685,7 @@ createQuestion({
       "Com caráter antitético e um enfoque também religioso, perceptível especialmente na quarta estrofe, o soneto apresenta rimas interpoladas (“partiste”/“triste\"), emparelhadas (\"descontente\"/\"eternamente\"), cruzadas (nos dois tercetos), métrica decassilábica, linguagem culta e respeitosa, delicadeza afetiva (\"não te esqueças daquele amor ardente\"). Embora com traços maneiristas, o poema pertence ao Classicismo português.",
       "O poema apresenta inversão da ordem natural de termos na frase (hipérbato), como se pode verificar no verso (\"que já nos olhos meus tão puro viste.\"). Além de ser apostrófico, trazendo o vocativo já no primeiro verso, apresenta advérbios de lugar cuja principal função é patentear a separação dos amantes. O uso de eufemismos (\"partiste / tão cedo desta vida descontente,\"; \"repousa lá no Céu eternamente\") ameniza, para o eu lírico, a dor da perda da “Alma” “gentil” (sua amada)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira (Barroco)", "Figuras de Linguagem"],
     imageNames: []
@@ -706,7 +706,7 @@ createQuestion({
       "Gabi e Dora são duas das principais personagens da história. Entretanto suas características psicológicas são diametralmente opostas. A primeira é uma adolescente estudiosa, ativa, de visão crítica e espírito ético. A segunda, por sua vez, é quieta, passiva, vive um amor platônico, mas rapidamente o esquece e abandona os estudos para se casar com outro.",
       "Bruno, cujo pai era de origem alemã, gostava muito da obra Memórias póstumas de Brás Cubas, de Machado de Assis. Além do interesse por literatura, militava em causas ambientalistas, motivo pelo qual organizou, no colégio em que estudara, uma campanha de coleta de materiais destinados à reciclagem."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira (Contemporânea)", "Interpretação de Texto"],
     imageNames: []
@@ -727,7 +727,7 @@ createQuestion({
       "Com caráter antitético e um enfoque também religioso, perceptível especialmente na quarta estrofe, o soneto apresenta rimas interpoladas (“partiste”/“triste\"), emparelhadas (\"descontente\"/\"eternamente\"), cruzadas (nos dois tercetos), métrica decassilábica, linguagem culta e respeitosa, delicadeza afetiva (\"não te esqueças daquele amor ardente\"). Embora com traços maneiristas, o poema pertence ao Classicismo português.",
       "O poema apresenta inversão da ordem natural de termos na frase (hipérbato), como se pode verificar no verso (\"que já nos olhos meus tão puro viste.\"). Além de ser apostrófico, trazendo o vocativo já no primeiro verso, apresenta advérbios de lugar cuja principal função é patentear a separação dos amantes. O uso de eufemismos (\"partiste / tão cedo desta vida descontente,\"; \"repousa lá no Céu eternamente\") ameniza, para o eu lírico, a dor da perda da “Alma” “gentil” (sua amada)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Portuguesa (Classicismo)", "Figuras de Linguagem"],
     imageNames: []
@@ -748,7 +748,7 @@ createQuestion({
       "Sentir la sensación de plenitud es una consecuencia de estar alegre.",
       "Estrechar las relaciones entre los individuos es una consecuencia de la felicidad."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Compreensão de Texto", "Vocabulário"],
     imageNames: []
@@ -769,7 +769,7 @@ createQuestion({
       "La oxitocina y la endorfina poseen funciones analgésicas.",
       "Los individuos pueden realizar pequeños actos para sentirse más felices."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Compreensão de Texto", "Interpretação de Informações"],
     imageNames: []
@@ -790,7 +790,7 @@ createQuestion({
       "El adverbio “Más” (línea 13) lleva tilde para diferenciarse de la conjunción mas.",
       "El adverbio “Psicológicamente” (línea 29) lleva tilde pues es una palabra grave o llana."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Acentuação Gráfica", "Ortografia"],
     imageNames: []
@@ -811,7 +811,7 @@ createQuestion({
       "El verbo \"actúan\" (línea 47) está conjugado en tercera persona de singular en presente de indicativo.",
       "La forma \"puede\" (línea 22) es un verbo regular en presente de indicativo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Gramática"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "\"una\" (línea 37) es un artículo determinado femenino plural.",
       "\"pasta\" (línea 44) es un sustantivo que puede ser substituido por masa sin que haya alteración de significado en el contexto."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Gramática", "Lexicologia"],
     imageNames: []
@@ -853,7 +853,7 @@ createQuestion({
       "More than 200 national committees competed the Paris 2024 Olympics.",
       "The Paris 2024 Olympics added sport climbing, skateboarding, surfing and breaking to be more attractive."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto", "Vocabulário"],
     imageNames: []
@@ -874,7 +874,7 @@ createQuestion({
       "Millions of spectators watched the Summer Games on TV.",
       "The next Summer Olympics will be in 2026."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto", "Informações Específicas"],
     imageNames: []
@@ -895,7 +895,7 @@ createQuestion({
       "In the sentence “when there were 22 sports.\" (line 3), “there were\" is the simple past of there is.",
       "\"When\" (line 12), “What” (line 16) and \"Where\" (line 28) are question words."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Verbos", "Pronomes"],
     imageNames: []
@@ -916,7 +916,7 @@ createQuestion({
       "All tickets for the Olympic Games were sold out.",
       "The Summer Paralympic Games were just after the Summer Games, starting in August and ending in September."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto", "Informações Numéricas"],
     imageNames: []
@@ -937,7 +937,7 @@ createQuestion({
       "\"which\" (line 49) refers to the \"Summer Games\" (line 49).",
       "\"time\" (line 2) and “organizers\" (line 8) are adjectives."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Classes de Palavras"],
     imageNames: []
@@ -958,7 +958,7 @@ createQuestion({
       "Formou-se em violão pelo Conservatório Nacional do Rio de Janeiro, porém suas composições para esse instrumento possuem pouca relevância no cenário musical até os dias atuais.",
       "Atuou como educador musical, criou o Canto Orfeônico, por meio do qual conseguiu levar milhares de jovens para cantar em estádios de futebol."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Música Brasileira"],
     imageNames: []
@@ -979,7 +979,7 @@ createQuestion({
       "O surgimento da filosofia está estritamente ligado à rejeição completa dos mitos e à adoção de explicações puramente racionais e empíricas desde o início.",
       "Aristóteles considera que o espanto e a curiosidade são as principais forças motrizes por trás do desenvolvimento filosófico, levando os filósofos a buscarem explicações para o mundo ao seu redor."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Antiga (Pré-Socráticos)"],
     imageNames: []
@@ -1000,7 +1000,7 @@ createQuestion({
       "Segundo Karl Marx e Friedrich Engels, a dialética é a estrutura contraditória do real, que no seu movimento constitutivo passa por três fases: a tese, a antítese e a síntese.",
       "O socialismo é uma teoria que tem como um dos seus principais expoentes o economista inglês John Stuart Mill. Em seu livro A riqueza das nações ele propõe a constituição de uma sociedade igualitária em que o Estado deve intervir no mercado buscando sua regulação."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Teorias Sociais Clássicas (Socialismo)"],
     imageNames: []
@@ -1021,7 +1021,7 @@ createQuestion({
       "As doenças trazidas pelos europeus (sarampo, varíola, gripe) dizimaram grande parte da população indígena, pois esta não possuía defesas biológicas para enfrentar essas enfermidades.",
       "Do contato entre europeus e astecas (presentes no extremo sul do continente) houve a criação de alianças militares e econômicas que fortaleceram essa sociedade indígena."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["América Colonial"],
     imageNames: []
@@ -1042,7 +1042,7 @@ createQuestion({
       "A industrialização possibilitou a separação entre o capital, representado pelos donos dos meios de produção, e o trabalho, representado pelos assalariados, diferenciando-se da organização corporativa da produção empregada pelos artesãos.",
       "Com a Revolução Industrial os trabalhadores passaram a dominar o ciclo produtivo do início ao fim, pois conheciam os procedimentos técnicos empregados na confecção de um produto."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Organização do Trabalho e Capitalismo"],
     imageNames: []
@@ -1063,7 +1063,7 @@ createQuestion({
       "A primeira proposta constitucional do Brasil foi elaborada em consenso entre os deputados das províncias e contou com unanimidade na defesa da abolição da escravidão.",
       "A criação da República Oriental do Uruguai foi intermediada pela Inglaterra como uma saída para o fim da Guerra Cisplatina, travada entre Brasil e Argentina."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Brasil Império"],
     imageNames: []
@@ -1084,7 +1084,7 @@ createQuestion({
       "Alguns critérios para a definição do módulo fiscal das propriedades rurais são: o uso do solo agrícola predominante no município, a renda das atividades agrícolas, o conceito de propriedade familiar.",
       "As atividades de produção, distribuição e comercialização da agropecuária, da silvicultura e do extrativismo vegetal constituem elementos da cadeia produtiva do agronegócio."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Agronegócio e Produção Agrícola"],
     imageNames: []
@@ -1105,7 +1105,7 @@ createQuestion({
       "A dominação racional é exercida de forma opressora, sem a anuência dos dominados.",
       "As instituições modernas estão estruturadas por relações sociais de dominação legal, baseadas na impessoalidade e na racionalidade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Max Weber e Tipos de Dominação"],
     imageNames: []
@@ -1126,7 +1126,7 @@ createQuestion({
       "Na montagem de programas de treinamento com pesos, a carga está relacionada ao volume, e a quantidade de exercícios está relacionada à intensidade do treinamento.",
       "Contrações musculares isométricas produzem tensão sem movimentos articulares durante o exercício. Contrações isotônicas são dinâmicas, com alterações nos ângulos articulares."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Fisiologia Humana (Sistema Muscular)"],
     imageNames: []
@@ -1147,7 +1147,7 @@ createQuestion({
       "Os sistemas nervoso e endócrino coordenam e regulam as funções dos animais. Em geral, a coordenação realizada pelo sistema endócrino propicia maiores velocidades na transmissão do estímulo e nas respostas quando esse sistema é comparado ao sistema nervoso.",
       "A quimiorrecepção, também envolvida nos sentidos do olfato e do paladar, está presente desde os invertebrados até os mamíferos. Trata-se de uma modalidade sensorial dedicada à detecção de substâncias químicas presentes no meio. Essa detecção pode orientar a seleção de nutrientes e alimentos e de parceiros para reprodução. Também pode estar envolvida na comunicação e na demarcação de territórios."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Diversidade da Vida; Fisiologia Animal e Vegetal"],
     imageNames: []
@@ -1168,7 +1168,7 @@ createQuestion({
       "As contrações cardíacas impulsionam o sangue para as artérias durante a sístole.",
       "A equação de Bernoulli também pode ser aplicada às artérias e veias de poríferos, celenterados, platelmintos e nematódeos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Hidrodinâmica"],
     imageNames: []
@@ -1189,7 +1189,7 @@ createQuestion({
       "Parâmetros climatológicos como precipitação e temperatura são determinantes para o zoneamento agrícola.",
       "Calagem é a denominação da técnica agrícola para aumentar o pH do solo com o uso de calcário."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Solos e Agricultura"],
     imageNames: []
@@ -1210,7 +1210,7 @@ createQuestion({
       "A moda de carboidratos ingeridos durante a semana foi de 240g.",
       "A mediana de proteínas ingeridas durante a semana foi de 70g."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática", "Biologia"],
     conteudo: ["Estatística", "Nutrição"],
     imageNames: []
@@ -1231,7 +1231,7 @@ createQuestion({
       "Se a concentração de O2 diminui no sangue, sensores do bulbo, localizado no sistema nervoso periférico, acionam os músculos respiratórios promovendo o aumento da frequência respiratória e a captura do ar.",
       "Os quimiorreceptores presentes nas carótidas e no bulbo são mais sensíveis às variações de concentração de CO2 do que de O2."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Equilíbrio Químico e pH", "Fisiologia Humana (Homeostase)"],
     imageNames: []
@@ -1252,7 +1252,7 @@ createQuestion({
       "A clorofila das plantas absorve luz e promove a fosforilação de ADP em AТР.",
       "A etapa 2 é parte da respiração celular. Trata-se de um processo exotérmico cuja energia é aproveitada na síntese de ATP."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Processos Energéticos (Fotossíntese e Respiração Celular)"],
     imageNames: []
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "Um bloco de metal de massa de 2kg, inicialmente a 200°C, é colocado em contato com um recipiente contendo 1L de água a 25°C no nível do mar. Esse sistema é isolado termicamente do ambiente, ou seja, não há troca de calor com o exterior. O calor específico do metal é de 0,5J/g°C, e da água é de 4,18J/g°C. Assinale o que for correto.\n01) A quantidade de calor perdida pelo metal é igual à quantidade de calor transferida para a água.\n02) A temperatura final de equilíbrio térmico do sistema será maior que 100°C.\n04) A quantidade de calor necessária para aquecer a água de 25°C a 100°C é menor do que a quantidade de calor liberada pelo metal ao resfriar de 200°C para 100°C.\n08) Em módulo, a variação de temperatura do metal será maior do que a variação de temperatura da água.\n16) Segundo o princípio da conservação de energia, a soma algébrica das quantidades de calor trocadas pelo metal e pela água é zero.",
+      principal: "Um bloco de metal de massa de 2kg, inicialmente a 200°C, é colocado em contato com um recipiente contendo 1L de água a 25°C no nível do mar. Esse sistema é isolado termicamente do ambiente, ou seja, não há troca de calor com o exterior. O calor específico do metal é de 0,$5J/g$°C, e da água é de 4,$18J/g$°C. Assinale o que for correto.\n01) A quantidade de calor perdida pelo metal é igual à quantidade de calor transferida para a água.\n02) A temperatura final de equilíbrio térmico do sistema será maior que 100°C.\n04) A quantidade de calor necessária para aquecer a água de 25°C a 100°C é menor do que a quantidade de calor liberada pelo metal ao resfriar de 200°C para 100°C.\n08) Em módulo, a variação de temperatura do metal será maior do que a variação de temperatura da água.\n16) Segundo o princípio da conservação de energia, a soma algébrica das quantidades de calor trocadas pelo metal e pela água é zero.",
       subItens: []
     },
     options: [
@@ -1273,7 +1273,7 @@ createQuestion({
       "Em módulo, a variação de temperatura do metal será maior do que a variação de temperatura da água.",
       "Segundo o princípio da conservação de energia, a soma algébrica das quantidades de calor trocadas pelo metal e pela água é zero."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica (Calor e Temperatura)"],
     imageNames: []
@@ -1294,7 +1294,7 @@ createQuestion({
       "O sentido do fluxo térmico ocorre sempre da extremidade Px para a extremidade Py.",
       "É possível determinar o comprimento da barra se conhecermos os valores da intensidade do fluxo, a área transversal, a diferença de temperatura nas extremidades e o coeficiente de condutibilidade térmica da barra."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica (Transferência de Calor)"],
     imageNames: []
@@ -1305,17 +1305,17 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "Um tanque cilíndrico de 2m de altura e 1m de raio é preenchido completamente com água. Um orificio é aberto na lateral do tanque a 1m do fundo, permitindo que parte da água escoe. A velocidade desse escoamento através do orificio pode ser calculada pela equação de Torricelli, v = √2gh, em que g é a aceleração da gravidade (9,8 m/s²), e h é a altura do nível de água acima do orifício. Além disso, a vazão de saída (Q) pode ser expressa como Q = Av, em que A é a área do orificio. Sobre esse sistema, assinale o que for correto.\n01) A vazão aumenta com a diminuição da área do orificio.\n02) Quando o tanque está cheio, a velocidade de escoamento da água pelo orificio é de √19,6 m/s.\n04) A vazão de saída da água é proporcional à raiz quadrada da altura do nível da água acima do orificio.\n08) A função que descreve a altura da água no tanque ao longo do tempo é linear.\n16) A velocidade de escoamento depende da altura da coluna de água acima do orificio.",
+      principal: "Um tanque cilíndrico de 2m de altura e 1m de raio é preenchido completamente com água. Um orificio é aberto na lateral do tanque a 1m do fundo, permitindo que parte da água escoe. A velocidade desse escoamento através do orificio pode ser calculada pela equação de Torricelli, v = √2gh, em que g é a aceleração da gravidade (9,8 $m/s$²), e h é a altura do nível de água acima do orifício. Além disso, a vazão de saída (Q) pode ser expressa como Q = Av, em que A é a área do orificio. Sobre esse sistema, assinale o que for correto.\n01) A vazão aumenta com a diminuição da área do orificio.\n02) Quando o tanque está cheio, a velocidade de escoamento da água pelo orificio é de √19,6 $m/s$.\n04) A vazão de saída da água é proporcional à raiz quadrada da altura do nível da água acima do orificio.\n08) A função que descreve a altura da água no tanque ao longo do tempo é linear.\n16) A velocidade de escoamento depende da altura da coluna de água acima do orificio.",
       subItens: []
     },
     options: [
       "A vazão aumenta com a diminuição da área do orificio.",
-      "Quando o tanque está cheio, a velocidade de escoamento da água pelo orificio é de √19,6 m/s.",
+      "Quando o tanque está cheio, a velocidade de escoamento da água pelo orificio é de √19,6 $m/s$.",
       "A vazão de saída da água é proporcional à raiz quadrada da altura do nível da água acima do orificio.",
       "A função que descreve a altura da água no tanque ao longo do tempo é linear.",
       "A velocidade de escoamento depende da altura da coluna de água acima do orificio."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Hidrodinâmica (Equação de Torricelli)"],
     imageNames: []
@@ -1336,7 +1336,7 @@ createQuestion({
       "Após aberta a torneira, os gases não se misturam, pois as pressões iniciais são iguais.",
       "Após aberta a torneira e o sistema entrar em equilíbrio, haverá mudança de temperatura."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Termoquímica e Gases"],
     imageNames: []
@@ -1347,7 +1347,7 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "Um experimento foi realizado para medir a variação de energia de uma reação exotérmica. Para fazer a medida do calor produzido nessa reação foi utilizado um calorímetro adaptado contendo uma amostra de 50g de água a 25°C com a finalidade de absorver o calor produzido na reação. Considere que essa reação liberou 4180J de energia, que o calor específico da água é 4,18J/g°C e que a energia é integralmente absorvida pela água durante o experimento. Assinale o que for correto.\n01) A variação de temperatura da água foi de 20°C.\n02) A entalpia da reação é positiva.\n04) A quantidade de calor absorvida pela água pode ser calculada pela equação Q = mcAT.\n08) A energia liberada pela reação é suficiente para elevar a temperatura da água para 50°C.\n16) Para dobrar a variação de temperatura da água seria necessário diminuir pela metade a quantidade de água.",
+      principal: "Um experimento foi realizado para medir a variação de energia de uma reação exotérmica. Para fazer a medida do calor produzido nessa reação foi utilizado um calorímetro adaptado contendo uma amostra de 50g de água a 25°C com a finalidade de absorver o calor produzido na reação. Considere que essa reação liberou 4180J de energia, que o calor específico da água é 4,$18J/g$°C e que a energia é integralmente absorvida pela água durante o experimento. Assinale o que for correto.\n01) A variação de temperatura da água foi de 20°C.\n02) A entalpia da reação é positiva.\n04) A quantidade de calor absorvida pela água pode ser calculada pela equação Q = mcAT.\n08) A energia liberada pela reação é suficiente para elevar a temperatura da água para 50°C.\n16) Para dobrar a variação de temperatura da água seria necessário diminuir pela metade a quantidade de água.",
       subItens: []
     },
     options: [
@@ -1357,7 +1357,7 @@ createQuestion({
       "A energia liberada pela reação é suficiente para elevar a temperatura da água para 50°C.",
       "Para dobrar a variação de temperatura da água seria necessário diminuir pela metade a quantidade de água."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Termoquímica (Calorimetria)"],
     imageNames: []
@@ -1378,7 +1378,7 @@ createQuestion({
       "O etanol puro produzido a partir da cana-de-açúcar é mais energético do que o etanol puro produzido a partir do milho.",
       "A água, inicialmente presente no etanol, não reage com o oxigênio do ar e permanece no interior do tanque de combustível."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Termoquímica; Combustíveis"],
     imageNames: []
@@ -1399,7 +1399,7 @@ createQuestion({
       "Em uma solução saturada de CaCl2, com a concentração molar de íons Ca++ igual a y e a concentração molar de íons Cl- igual a 2y, o produto de solubilidade desse sal pode ser representado pela equação quadrática Kps = 4y² + y.",
       "A adição de NaCl a uma solução saturada de AgCl faz que a quantidade de AgCl precipitado aumente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Solubilidade e Equilíbrio Iônico"],
     imageNames: []
@@ -1420,7 +1420,7 @@ createQuestion({
       "A função f assume um valor negativo para x = -3.",
       "O ponto (6, -3) pertence ao gráfico da função f."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções Quadráticas"],
     imageNames: []
@@ -1441,7 +1441,7 @@ createQuestion({
       "Se o triângulo for retângulo, então x é a hipotenusa.",
       "x pode assumir qualquer valor 1 < x < 5."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Plana (Triângulos)"],
     imageNames: []
@@ -1452,7 +1452,7 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "Malu e Luca estão apostando um contra o outro em um jogo com dois dados de 6 faces. Cada um deve escolher um número entre 2 e 12 e depois jogar os dois dados simultaneamente. Quem acertar o valor da soma que aparece nas faces superiores dos dois dados é o ganhador. Sobre os conceitos de probabilidade, assinale o que for correto.\n01) Se Malu escolher o número 10 e Luca escolher o número 3, ambos terão a mesma probabilidade de ganhar.\n02) Se Malu escolher o número 7, a probabilidade de ela ganhar será de 1 .\n04) Se Luca escolher os números 5 e 9 e se Malu escolher os números 3 e 7, então eles terão a mesma probabilidade de ganhar.\n08) P({2} ∪ {3} ∪ {4}) = P(7).\n16) Ο conjunto dos possíveis resultados é {2,3,4,5,6,7,8,9,10,11,12}, logo a probabilidade de sair o número 2 é 1/11 .",
+      principal: "Malu e Luca estão apostando um contra o outro em um jogo com dois dados de 6 faces. Cada um deve escolher um número entre 2 e 12 e depois jogar os dois dados simultaneamente. Quem acertar o valor da soma que aparece nas faces superiores dos dois dados é o ganhador. Sobre os conceitos de probabilidade, assinale o que for correto.\n01) Se Malu escolher o número 10 e Luca escolher o número 3, ambos terão a mesma probabilidade de ganhar.\n02) Se Malu escolher o número 7, a probabilidade de ela ganhar será de 1 .\n04) Se Luca escolher os números 5 e 9 e se Malu escolher os números 3 e 7, então eles terão a mesma probabilidade de ganhar.\n08) P({2} ∪ {3} ∪ {4}) = P(7).\n16) Ο conjunto dos possíveis resultados é {2,3,4,5,6,7,8,9,10,11,12}, logo a probabilidade de sair o número 2 é $1/11$ .",
       subItens: []
     },
     options: [
@@ -1460,9 +1460,9 @@ createQuestion({
       "Se Malu escolher o número 7, a probabilidade de ela ganhar será de 1 .",
       "Se Luca escolher os números 5 e 9 e se Malu escolher os números 3 e 7, então eles terão a mesma probabilidade de ganhar.",
       "P({2} ∪ {3} ∪ {4}) = P(7).",
-      "Ο conjunto dos possíveis resultados é {2,3,4,5,6,7,8,9,10,11,12}, logo a probabilidade de sair o número 2 é 1/11 ."
+      "Ο conjunto dos possíveis resultados é {2,3,4,5,6,7,8,9,10,11,12}, logo a probabilidade de sair o número 2 é $1/11$ ."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Probabilidade"],
     imageNames: []
@@ -1473,17 +1473,17 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "TEXTO 1\nO homem nu\nFernando Sabino\nAo acordar, disse para a mulher:\nEscuta, minha filha: hoje é dia de pagar a prestação da\ntelevisão, vem aí o sujeito com a conta, na certa. Mas acontece\nque ontem eu não trouxe dinheiro da cidade, estou a nenhum.\nExplique isso ao homem – ponderou a mulher.\nNão gosto dessas coisas. Dá um ar de vigarice, gosto\nde cumprir rigorosamente as minhas obrigações. Escuta:\nquando ele vier a gente fica quieto aqui dentro, não faz barulho,\npara ele pensar que não tem ninguém. Deixa ele bater até cansar\namanhã eu pago.\nPouco depois, tendo despido o pijama, dirigiu-se ao\nbanheiro para tomar um banho, mas a mulher já se trancara lá\ndentro. Enquanto esperava, resolveu fazer um café. Pôs a água\na ferver e abriu a porta de serviço para apanhar o pão. Como\nestivesse completamente nu, olhou com cautela para um lado e\npara outro antes de arriscar-se a dar dois passos até o\nembrulhinho deixado pelo padeiro sobre o mármore do\nparapeito. Ainda era muito cedo, não poderia aparecer\nninguém. Mal seus dedos, porém, tocavam o pão, a porta atrás\nde si fechou-se com estrondo, impulsionada pelo vento.\nAterrorizado, precipitou-se até a campainha e, depois de\ntocá-la, ficou à espera, olhando ansiosamente ao redor. Ouviu\nlá dentro o ruído da água do chuveiro interromper-se de súbito,\nmas ninguém veio abrir. Na certa a mulher pensava que já era\no sujeito da televisão. Bateu com o nó dos dedos:\nMaria! Abre aí, Maria. Sou eu chamou, em voz\nbaixa.\nQuanto mais batia, mais silêncio fazia lá dentro.\nEnquanto isso, ouvia lá embaixo a porta do elevador\nfechar-se, viu o ponteiro subir lentamente os andares... Desta\nvez, era o homem da televisão!\nNão era. Refugiado no lanço da escada entre os andares,\nesperou que o elevador passasse, e voltou para a porta de seu\napartamento, sempre a segurar nas mãos nervosas o embrulho\nde pão:\nMaria, por favor! Sou eu!\nDesta vez não teve tempo de insistir: ouviu passos na\nescada, lentos, regulares, vindos lá de baixo... Tomado de\npânico, olhou ao redor, fazendo uma pirueta, e assim despido,\nembrulho na mão, parecia executar um ballet grotesco e mal\nensaiado. Os passos na escada se aproximavam, e ele sem onde\nse esconder. Correu para o elevador, apertou o botão. Foi o\ntempo de abrir a porta e entrar, e a empregada passava,\nvagarosa, encetando a subida de mais um lanço de escada. Ele\nrespirou aliviado, enxugando o suor da testa com o embrulho\ndo pão. Mas eis que a porta interna do elevador se fecha e ele\ncomeça a descer.\nAh, isso é que não! – fez o homem nu, sobressaltado.\nE agora? Alguém lá embaixo abriria a porta do elevador\ne daria com ele ali, em pêlo, podia mesmo ser algum vizinho\nconhecido... Percebeu, desorientado, que estava sendo levado\ncada vez para mais longe de seu apartamento, começava a viver\num verdadeiro pesadelo de Kafka, instaurava-se naquele\nmomento o mais autêntico e desvairado Regime do Terror!\nIsso é que não – repetiu, furioso.\nAgarrou-se à porta do elevador e abriu-a com força entre\nos andares, obrigando-o a parar. Respirou fundo, fechando os\nolhos, para ter a momentânea ilusão de que sonhava. Depois\nexperimentou apertar o botão do seu andar. Lá embaixo\ncontinuavam a chamar o elevador. Antes de mais nada:\n\"Emergência: parar\". Muito bem. E agora? Iria subir ou descer?\nCom cautela desligou a parada de emergência, largou a porta,\nenquanto insistia em fazer o elevador subir. O elevador subiu.\nMaria! Abre esta porta! gritava, desta vez\nesmurrando a porta, já sem nenhuma cautela. Ouviu que outra\nporta se abria atrás de si. Voltou-se, acuado, apoiando o traseiro\nno batente e tentando inutilmente cobrir-se com o embrulho de\npão. Era a velha do apartamento vizinho:\nBom dia, minha senhora disse ele, confuso.\nImagine que eu...\nA velha, estarrecida, atirou os braços para cima, soltou\num grito:\nValha-me Deus! O padeiro está nu!\nE correu ao telefone para chamar a radiopatrulha:\nTem um homem pelado aqui na porta!\nOutros vizinhos, ouvindo a gritaria, vieram ver o que se\npassava:\n- É um tarado!\nOlha, que horror!\n- Não olha não! Já pra dentro, minha filha!\nMaria, a esposa do infeliz, abriu finalmente a porta para\nver o que era. Ele entrou como um foguete e vestiu-se\nprecipitadamente, sem nem se lembrar do banho. Poucos\nminutos depois, restabelecida a calma lá fora, bateram na porta.\nDeve ser a polícia disse ele, ainda ofegante, indo\nabrir.\nNão era: era o cobrador da televisão.\nSABINO, F. Os melhores contos de Fernando Sabino. Rio de Janeiro:\nRecord, 1986.\nAssinale o que for correto.",
+      principal: "TEXTO 1\nO homem $\\nu$\nFernando Sabino\nAo acordar, disse para a mulher:\nEscuta, minha filha: hoje é dia de pagar a prestação da\ntelevisão, vem aí o sujeito com a conta, na certa. Mas acontece\nque ontem eu não trouxe dinheiro da cidade, estou a nenhum.\nExplique isso ao homem – ponderou a mulher.\nNão gosto dessas coisas. Dá um ar de vigarice, gosto\nde cumprir rigorosamente as minhas obrigações. Escuta:\nquando ele vier a gente fica quieto aqui dentro, não faz barulho,\npara ele pensar que não tem ninguém. Deixa ele bater até cansar\namanhã eu pago.\nPouco depois, tendo despido o pijama, dirigiu-se ao\nbanheiro para tomar um banho, mas a mulher já se trancara lá\ndentro. Enquanto esperava, resolveu fazer um café. Pôs a água\na ferver e abriu a porta de serviço para apanhar o pão. Como\nestivesse completamente $\\nu$, olhou com cautela para um lado e\npara outro antes de arriscar-se a dar dois passos até o\nembrulhinho deixado pelo padeiro sobre o mármore do\nparapeito. Ainda era muito cedo, não poderia aparecer\nninguém. Mal seus dedos, porém, tocavam o pão, a porta atrás\nde si fechou-se com estrondo, impulsionada pelo vento.\nAterrorizado, precipitou-se até a campainha e, depois de\ntocá-la, ficou à espera, olhando ansiosamente ao redor. Ouviu\nlá dentro o ruído da água do chuveiro interromper-se de súbito,\nmas ninguém veio abrir. Na certa a mulher pensava que já era\no sujeito da televisão. Bateu com o nó dos dedos:\nMaria! Abre aí, Maria. Sou eu chamou, em voz\nbaixa.\nQuanto mais batia, mais silêncio fazia lá dentro.\nEnquanto isso, ouvia lá embaixo a porta do elevador\nfechar-se, viu o ponteiro subir lentamente os andares... Desta\nvez, era o homem da televisão!\nNão era. Refugiado no lanço da escada entre os andares,\nesperou que o elevador passasse, e voltou para a porta de seu\napartamento, sempre a segurar nas mãos nervosas o embrulho\nde pão:\nMaria, por favor! Sou eu!\nDesta vez não teve tempo de insistir: ouviu passos na\nescada, lentos, regulares, vindos lá de baixo... Tomado de\npânico, olhou ao redor, fazendo uma pirueta, e assim despido,\nembrulho na mão, parecia executar um ballet grotesco e mal\nensaiado. Os passos na escada se aproximavam, e ele sem onde\nse esconder. Correu para o elevador, apertou o botão. Foi o\ntempo de abrir a porta e entrar, e a empregada passava,\nvagarosa, encetando a subida de mais um lanço de escada. Ele\nrespirou aliviado, enxugando o suor da testa com o embrulho\ndo pão. Mas eis que a porta interna do elevador se fecha e ele\ncomeça a descer.\nAh, isso é que não! – fez o homem $\\nu$, sobressaltado.\nE agora? Alguém lá embaixo abriria a porta do elevador\ne daria com ele ali, em pêlo, podia mesmo ser algum vizinho\nconhecido... Percebeu, desorientado, que estava sendo levado\ncada vez para mais longe de seu apartamento, começava a viver\num verdadeiro pesadelo de Kafka, instaurava-se naquele\nmomento o mais autêntico e desvairado Regime do Terror!\nIsso é que não – repetiu, furioso.\nAgarrou-se à porta do elevador e abriu-a com força entre\nos andares, obrigando-o a parar. Respirou fundo, fechando os\nolhos, para ter a momentânea ilusão de que sonhava. Depois\nexperimentou apertar o botão do seu andar. Lá embaixo\ncontinuavam a chamar o elevador. Antes de mais nada:\n\"Emergência: parar\". Muito bem. E agora? Iria subir ou descer?\nCom cautela desligou a parada de emergência, largou a porta,\nenquanto insistia em fazer o elevador subir. O elevador subiu.\nMaria! Abre esta porta! gritava, desta vez\nesmurrando a porta, já sem nenhuma cautela. Ouviu que outra\nporta se abria atrás de si. Voltou-se, acuado, apoiando o traseiro\nno batente e tentando inutilmente cobrir-se com o embrulho de\npão. Era a velha do apartamento vizinho:\nBom dia, minha senhora disse ele, confuso.\nImagine que eu...\nA velha, estarrecida, atirou os braços para cima, soltou\num grito:\nValha-me Deus! O padeiro está $\\nu$!\nE correu ao telefone para chamar a radiopatrulha:\nTem um homem pelado aqui na porta!\nOutros vizinhos, ouvindo a gritaria, vieram ver o que se\npassava:\n- É um tarado!\nOlha, que horror!\n- Não olha não! Já pra dentro, minha filha!\nMaria, a esposa do infeliz, abriu finalmente a porta para\nver o que era. Ele entrou como um foguete e vestiu-se\nprecipitadamente, sem nem se lembrar do banho. Poucos\nminutos depois, restabelecida a calma lá fora, bateram na porta.\nDeve ser a polícia disse ele, ainda ofegante, indo\nabrir.\nNão era: era o cobrador da televisão.\nSABINO, F. Os melhores contos de Fernando Sabino. Rio de Janeiro:\nRecord, 1986.\nAssinale o que for correto.",
       subItens: []
     },
     options: [
-      "A atitude do homem de fugir para o elevador, ao ouvir passos na escada, mostra o seu desespero e o medo de ser visto nu pelos vizinhos.",
+      "A atitude do homem de fugir para o elevador, ao ouvir passos na escada, mostra o seu desespero e o medo de ser visto $\\nu$ pelos vizinhos.",
       "A mulher do protagonista acredita que o barulho da campainha anuncia a presença do homem da televisão, evidenciando um mal-entendido que contribui para a situação embaraçosa do marido.",
-      "O protagonista, ao despir o pijama e tentar pegar o pão, demonstra uma despreocupação com a situação, pois acredita que ninguém o verá nu tão cedo.",
+      "O protagonista, ao despir o pijama e tentar pegar o pão, demonstra uma despreocupação com a situação, pois acredita que ninguém o verá $\\nu$ tão cedo.",
       "A ação de Maria de abrir a porta apenas quando aconteceu o tumulto revela que ela estava preocupada com a visita do cobrador da televisão, não querendo lidar com ele sozinha.",
-      "O grito da velha ao ver o protagonista nu e a subsequente reação dos vizinhos criam uma situação de alívio cômico, minimizando a gravidade da situação embaraçosa para o protagonista."
+      "O grito da velha ao ver o protagonista $\\nu$ e a subsequente reação dos vizinhos criam uma situação de alívio cômico, minimizando a gravidade da situação embaraçosa para o protagonista."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto; Gêneros Narrativos (Conto)"],
     imageNames: []
@@ -1494,7 +1494,7 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "Assinale a(s) alternativa(s) em que o excerto citado apresenta uma figura de linguagem correspondente à que é indicada entre parênteses.\n01) \"a porta atrás de si fechou-se com estrondo, impulsionada pelo vento.\" (linhas 19 e 20, paronímia).\n02) \"Maria! Abre esta porta! - gritava, desta vez esmurrando a porta, já sem nenhuma cautela.\" (linhas 64 e 65, antítese).\n04) \"começava a viver um verdadeiro pesadelo de Kafka.\" (linhas 52 e 53, metáfora).\n08) \"instaurava-se naquele momento o mais autêntico e desvairado Regime do Terror!\" (linhas 53 e 54, hipérbole).\n16) \"Valha-me Deus! O padeiro está nu!\" (linha 73, eufemismo).",
+      principal: "Assinale a(s) alternativa(s) em que o excerto citado apresenta uma figura de linguagem correspondente à que é indicada entre parênteses.\n01) \"a porta atrás de si fechou-se com estrondo, impulsionada pelo vento.\" (linhas 19 e 20, paronímia).\n02) \"Maria! Abre esta porta! - gritava, desta vez esmurrando a porta, já sem nenhuma cautela.\" (linhas 64 e 65, antítese).\n04) \"começava a viver um verdadeiro pesadelo de Kafka.\" (linhas 52 e 53, metáfora).\n08) \"instaurava-se naquele momento o mais autêntico e desvairado Regime do Terror!\" (linhas 53 e 54, hipérbole).\n16) \"Valha-me Deus! O padeiro está $\\nu$!\" (linha 73, eufemismo).",
       subItens: []
     },
     options: [
@@ -1502,9 +1502,9 @@ createQuestion({
       "\"Maria! Abre esta porta! - gritava, desta vez esmurrando a porta, já sem nenhuma cautela.\" (linhas 64 e 65, antítese).",
       "\"começava a viver um verdadeiro pesadelo de Kafka.\" (linhas 52 e 53, metáfora).",
       "\"instaurava-se naquele momento o mais autêntico e desvairado Regime do Terror!\" (linhas 53 e 54, hipérbole).",
-      "\"Valha-me Deus! O padeiro está nu!\" (linha 73, eufemismo)."
+      "\"Valha-me Deus! O padeiro está $\\nu$!\" (linha 73, eufemismo)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Figuras de Linguagem"],
     imageNames: []
@@ -1525,7 +1525,7 @@ createQuestion({
       "A estrutura do texto segue um desenvolvimento linear e previsível, sem reviravoltas ou surpresas.",
       "O uso de descrições rápidas e precisas contribui para o ritmo acelerado da narrativa."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto; Elementos da Narrativa"],
     imageNames: []
@@ -1546,7 +1546,7 @@ createQuestion({
       "\"Mas acontece que ontem eu não trouxe dinheiro da cidade\" (linhas 3 e 4) é uma oração subordinada adverbial consecutiva, expressando uma consequência em relação ao que é informado na oração imediatamente anterior.",
       "\"Bateu com o nó dos dedos\" (linha 25) é uma oração subordinada adverbial final, pois apresenta uma relação de finalidade em relação ao período anterior."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe (Orações Subordinadas)"],
     imageNames: []
@@ -1567,7 +1567,7 @@ createQuestion({
       "Em \"Ouviu que outra porta se abria atrás de si.\" (linhas 65 e 66), o uso da próclise se justifica porque o pronome átono está inserido em uma oração subordinada.",
       "No trecho \"Poucos minutos depois, restabelecida a calma lá fora, bateram na porta.” (linhas 83 e 84), a ausência do pronome \"eles\" antecedendo \"bateram\" ocorre porque o sujeito da ação \"Outros vizinhos\" (linha 76) é facilmente recuperável no contexto."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Gramática (Pronomes; Conectivos)"],
     imageNames: []
@@ -1588,7 +1588,7 @@ createQuestion({
       "Em \" Bom dia, minha senhora\" (linha 69), o vocábulo \"minha\" é empregado para indicar o conceito de posse.",
       "No trecho \"Maria, a esposa do infeliz, abriu finalmente a porta” (linha 81), a palavra \"finalmente” é um modificador verbal que acrescenta o conceito de modo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Gramática (Classes de Palavras)"],
     imageNames: []
@@ -1609,7 +1609,7 @@ createQuestion({
       "A crítica central da tirinha é a incapacidade de muitas pessoas de questionar o que é propagado, por exemplo, em aplicativos de mensagens.",
       "A crítica central da tirinha é a incapacidade de muitas pessoas de questionar o que é propagado, por exemplo, em aplicativos de mensagens."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Análise de Gênero Textual (Tirinha); Linguagem e Sociedade"],
     imageNames: []
@@ -1630,7 +1630,7 @@ createQuestion({
       "No poema, Luís Gama, filho de Luísa Mahin, descreve a mãe como preta retinta, mulher valente. O poema informa ainda que ela fez de sua casa um quartel de revoltosos.",
       "Quando viveu em Salvador, Luísa trabalhava como quituteira. Ao entregar o quitute ao comprador, repassava bilhetes escritos em árabe, nos quais convocava os escravos para a rebelião."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira (Literatura de Cordel; História)"],
     imageNames: []
@@ -1651,7 +1651,7 @@ createQuestion({
       "Representante do ultrarromantismo brasileiro, Álvares de Azevedo compõe uma poesia com tendências individualistas e subjetivas. A temática do amor somada à presença da noite, às virgens pálidas, à sedução da morte, a caveiras, à dúvida, em uma aura de mistério, fazem parte da poesia da segunda geração romântica, também denominada byroniana.",
       "O soneto apresenta sextilhas com versos de oito sílabas poéticas, nas quais predominam as rimas ricas e cruzadas. Trata-se de uma poesia dialogada em que o eu lírico interroga a amada no intuito de descobrir de quem se trata. Além da paralelística (“Cavaleiro das armas escuras,\"), o poema explora exclamações, reticências e onomatopeias."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira (Romantismo; Álvares de Azevedo)"],
     imageNames: []
@@ -1672,7 +1672,7 @@ createQuestion({
       "O conto \"Entrada no Céu\", de Mia Couto, é narrado em primeira pessoa e focaliza o processo de aprendizagem nas escolas brasileiras. Com uma linguagem rica em neologismos, a narrativa focaliza a colonização do Brasil por Portugal. Ο professor, compreensivo e bondoso, ignora a palmatória. O protagonista é muito religioso e teme ser punido depois de morrer.",
       "Em \"O homem que sabia javanês”, de Lima Barreto, há ironia e análise social, além da crítica aos falsos e inescrupulosos intelectuais que desconheciam limites éticos quando desejavam alcançar posições de relevo. O narrador conta a um amigo como empregou astúcia, simulação e mentira para alcançar o posto de cônsul."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira (Realismo, Pós-Modernismo)"],
     imageNames: []
@@ -1693,7 +1693,7 @@ createQuestion({
       "You can make cakes and sell them online.",
       "You can get more money in the photography profession if you take pictures of wedding or products."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -1714,7 +1714,7 @@ createQuestion({
       "\"businesses\" (line 2), \"ideas\" (line 7) and \"practices\" (line 14) are in the plural form.",
       "\"with\" (line 25) and \"without\" (line 25) are prepositions."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário e Gramática"],
     imageNames: []
@@ -1735,7 +1735,7 @@ createQuestion({
       "\"enjoy\" (lines 20 and 45) can be replaced with like without changing the meaning.",
       "\"a lot of\" (line 3) can be replaced with many without changing the meaning."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão Textual; Vocabulário"],
     imageNames: []
@@ -1756,7 +1756,7 @@ createQuestion({
       "If you don't like to meet or talk to new people, Photography is not a good idea to start your own business.",
       "For the majority of people, their business career begins earlier in life."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -1777,7 +1777,7 @@ createQuestion({
       "All these local businesses directed by young people started with their friends and family members, and neighborhood.",
       "It is recommended to start your own business after 30."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -1798,7 +1798,7 @@ createQuestion({
       "Os escultores do período produziram peças em mármore e granito, utilizando-se, majoritariamente, de dois métodos: o do entalhe geométrico, exigindo ferramental específico, e o método da justaposição de elementos. Em ambos eram dispensadas as construções e o preparo de formas.",
       "Há importantes sítios arqueológicos protegidos no mundo; por exemplo as grutas de Lascaux, na França, e a de Altamira, na Espanha. O Brasil não possui sítios pré-históricos ou expressões artísticas do período Pré-Histórico, dada a incompatibilidade temporal de sua descoberta."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte", "História"],
     conteudo: ["Arte Pré-Histórica", "Pré-História"],
     imageNames: []
@@ -1819,7 +1819,7 @@ createQuestion({
       "Espinosa diz que o homem é livre quando age a partir de si mesmo como causa interna no desenvolvimento da sua essência e natureza racional. Assim, ele é livre quando é causa única de seus afetos, ideias, ações.",
       "Hegel afirma que o homem não é e nem pode ser verdadeiramente livre, pois, além de ser dominado e subjugado pela força da natureza, é determinado a ser o que é pela história e pela cultura."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Liberdade e Determinismo"],
     imageNames: []
@@ -1840,7 +1840,7 @@ createQuestion({
       "A Revolta dos Posseiros de 1957, ocorrida no centro-oeste do Estado, foi um movimento que contou com o apoio das empresas colonizadoras que ajudaram os posseiros presentes na região a regularizarem as posses de seus lotes de terra.",
       "No contexto de modernização das atividades agrícolas, a cultura do café foi substituída pela cultura de oleaginosas, que não era permanente, e sim inclusa no sistema de rotação de culturas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História", "Geografia"],
     conteudo: ["História do Paraná", "Questões Agrárias"],
     imageNames: []
@@ -1861,7 +1861,7 @@ createQuestion({
       "A localização das comunidades quilombolas fica concentrada na região noroeste do Estado, onde, no passado, encontravam-se os caminhos dos tropeiros que traziam gado e mulas do Norte do Brasil para o Paraná.",
       "Aspectos culturais afro-brasileiros representados pela romaria do Divino (de São Gonçalo), pela mesa dos anjos, pelo terço cantado, são tradições preservadas e mantidas pelas comunidades rurais negras há gerações."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Geografia", "História"],
     conteudo: ["Populações Tradicionais", "Formação do Brasil"],
     imageNames: []
@@ -1882,7 +1882,7 @@ createQuestion({
       "O setor privado não é obrigado a implementar políticas de ações afirmativas; essa decisão está a cargo de cada empresa.",
       "O cenário da adoção de cotas raciais por universidades públicas brasileiras é distinto. Por exemplo: a Universidade de São Paulo (USP) foi a primeira a implementá-la, ao passo que a Universidade de Brasília (UNB) ainda não decidiu se oferecerá vagas exclusivas para estudantes negros."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Políticas Públicas", "Desigualdade Social"],
     imageNames: []
@@ -1903,7 +1903,7 @@ createQuestion({
       "A ausência de saneamento básico em áreas urbanas está desassociada da degradação ambiental, com alterações na qualidade e na quantidade dos recursos hídricos.",
       "A drenagem de águas pluviais urbanas é um dos componentes do saneamento básico."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia", "Biologia"],
     conteudo: ["Meio Ambiente", "Ecologia"],
     imageNames: []
@@ -1924,7 +1924,7 @@ createQuestion({
       "Os direitos sociais que contemplam a condição de cidadão a partir do século XX envolvem o acesso à educação, saúde, previdência, habitação e a outros serviços relacionados ao bem-estar individual e coletivo.",
       "A condição de cidadão no mundo moderno pressupõe o exercício de direitos civis, políticos e sociais."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Filosofia", "Sociologia"],
     conteudo: ["Cidadania", "Teoria Política"],
     imageNames: []
@@ -1945,7 +1945,7 @@ createQuestion({
       "A capoeira apresenta a cocorinha e as esquivas entre seus fundamentos técnicos defensivos; e a ponteira, o martelo e o coice entre seus fundamentos ofensivos.",
       "Capoeira Nacional é manifestação da cultura baiana, criada na década de 20 (séculoXX) por Manoel dos Reis Machado, o Mestre Bimba."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte", "História"],
     conteudo: ["Cultura Afro-Brasileira", "Cultura Brasileira"],
     imageNames: []
@@ -1966,7 +1966,7 @@ createQuestion({
       "A introdução do microrganismo do gênero Wolbachia, que passa a se multiplicar no mosquito Aedes aegypti, torna-os organismos transgênicos, mesmo que não haja transferência de genes.",
       "Aedes aegypti, o mosquito vetor da dengue, é um inseto holometábolo, com fase larval aquática."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Biotecnologia", "Ecologia", "Saúde Humana"],
     imageNames: []
@@ -1987,7 +1987,7 @@ createQuestion({
       "A cor azul do céu é explicada pelo fenômeno de dispersão luminosa.",
       "O uso da energia nuclear não tem se mostrado arriscada, pois não polui o ar, como a energia derivada de usinas que queimam carvão e petróleo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Ondas", "Termodinâmica", "Óptica", "Energia Nuclear"],
     imageNames: []
@@ -2008,7 +2008,7 @@ createQuestion({
       "De acordo com esse modelo matemático, a população dessa colônia terá quantidade máxima de 14,5 milhões de bactérias.",
       "No amensalismo, uma espécie inibidora impede o crescimento de outra, chamada amensal. Um exemplo são os antibióticos produzidos por fungos e largamente empregados na medicina, como é o caso da penicilina, produzida pelo fungo Penicillium notatum, que impede a multiplicação das bactérias (amensais) e as mata."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática", "Biologia"],
     conteudo: ["Funções Quadráticas", "Ecologia Populações"],
     imageNames: []
@@ -2029,7 +2029,7 @@ createQuestion({
       "A água incorporada nos tecidos dos vegetais e dos animais é devolvida ao ambiente, após a morte destes. Essa etapa faz parte do pequeno ciclo da água, pois o deslocamento da água fica restrito à proximidade do solo.",
       "O método de fertilizar o solo com leguminosas aumenta a quantidade de nitrogênio fixado porque a adubação verde estimula a atividade fotossintética pelo acréscimo de clorofila ao meio."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Compostos Orgânicos"],
     imageNames: []
@@ -2050,7 +2050,7 @@ createQuestion({
       "Para que o feixe não sofra deflexão e adentre na pequena abertura, o módulo da velocidade das partículas deve ser igual à razão entre as intensidades do campo Ē e do campo B.",
       "As intensidades das forças elétrica e magnética aumentam caso o módulo da velocidade das partículas aumente."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Eletromagnetismo"],
     imageNames: []
@@ -2061,17 +2061,17 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "As três funções do tempo t ≥ 0 (em segundos) mostradas a seguir representam ondas de pressão observadas por um sensor no mesmo ponto de um meio elástico: f₁(t) = 2 cos(πt); f2(t) = 2 cos(πt + π); f3(t) = 2 sen(2π t). Sobre essas funções e as ondas que elas representam, assinale o que for correto.",
+      principal: "As três funções do tempo t ≥ 0 (em segundos) mostradas a seguir representam ondas de pressão observadas por um sensor no mesmo ponto de um meio elástico: f₁(t) = 2 $\\cos$(πt); f2(t) = 2 $\\cos$(πt + π); f3(t) = 2 $\\sin$(2π t). Sobre essas funções e as ondas que elas representam, assinale o que for correto.",
       subItens: []
     },
     options: [
-      "A pressão resultante das três ondas é nula sempre que o tempo for um número semi-inteiro na forma t = n + 1/2, em que n é um número natural.",
+      "A pressão resultante das três ondas é nula sempre que o tempo for um número semi-inteiro na forma t = n + $1/2$, em que n é um número natural.",
       "A interferência das três ondas resulta em uma onda que é exatamente descrita pela função f3 (t).",
       "As três ondas são caracterizadas por valores diferentes de amplitudes e por frequências iguais.",
       "O domínio das funções que representam as ondas compreende os números reais não negativos, enquanto a imagem corresponde ao intervalo [-2, 2].",
       "Ouve-se um toque por segundo se o sensor emitir um pulso sonoro cada vez que o valor absoluto da intensidade resultante das ondas for máximo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física", "Matemática"],
     conteudo: ["Ondas", "Funções Trigonométricas"],
     imageNames: []
@@ -2092,7 +2092,7 @@ createQuestion({
       "Um aumento de corrente conduz a uma diminuição na tensão.",
       "Uma tensão de 220V conduz a uma corrente de 10,5A."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Eletricidade", "Circuitos Elétricos"],
     imageNames: []
@@ -2113,7 +2113,7 @@ createQuestion({
       "Polímeros à base de isopreno, que não são condutores de eletricidade, são empregados para a produção de luvas de borracha usadas por eletricistas.",
       "A celulose e a poliamida são polímeros sintéticos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física", "Química"],
     conteudo: ["Eletricidade", "Polímeros"],
     imageNames: []
@@ -2134,7 +2134,7 @@ createQuestion({
       "A glicose é um monossacarídeo que apresenta a função aldeído em sua estrutura de cadeia aberta.",
       "A glicose é encontrada nas uvas e em vários frutos e pode ser obtida de forma industrial por meio da hidrólise do amido."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Carboidratos"],
     imageNames: []
@@ -2155,7 +2155,7 @@ createQuestion({
       "Os alcadienos (compostos com duas ligações duplas) têm fórmula geral CnH2n-4.",
       "Se um alcano e um alcino têm o mesmo número de átomos de hidrogênio, então o alcino tem dois átomos de carbono a mais do que o alcano."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Hidrocarbonetos"],
     imageNames: []
@@ -2176,7 +2176,7 @@ createQuestion({
       "A soma dos n primeiros termos de uma PA é sempre positivo.",
       "Uma sequência constante é uma PA e uma PG ao mesmo tempo."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Progressões Aritméticas e Geométricas"],
     imageNames: []
@@ -2187,7 +2187,7 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "TEXTO\nNotícia de Jornal\nFernando Sabino\nLeio no jornal a notícia de que um homem morreu de fome. Um homem de cor branca, trinta anos presumíveis, pobremente vestido, morreu de fome, sem socorros, em pleno centro da cidade, permanecendo deitado na calçada durante setenta e duas horas, para finalmente morrer de fome. Morreu de fome. Depois de insistentes pedidos de comerciantes, uma ambulância do Pronto Socorro e uma radiopatrulha foram ao local, mas regressaram sem prestar auxílio ao homem, que acabou morrendo de fome. Um homem que morreu de fome. O comissário de plantão (um homem) afirmou que o caso (morrer de fome) era alçada da Delegacia de Mendicância, especialista em homens que morrem de fome. E o homem morreu de fome. O corpo do homem que morreu de fome foi recolhido ao Instituto Médico Legal sem ser identificado. Nada se sabe dele, senão que morreu de fome. Um homem morre de fome em plena rua, entre centenas de passantes. Um homem caído na rua. Um bêbado. Um vagabundo. Um mendigo, um anormal, um tarado, um pária, um marginal, um proscrito, um bicho, uma coisa – não é um homem. E os outros homens cumprem deu destino de passantes, que é o de passar. Durante setenta e duas horas todos passam, ao lado do homem que morre de fome, com um olhar de nojo, desdém, inquietação e até mesmo piedade, ou sem olhar nenhum, e o homem continua morrendo de fome, sozinho, isolado, perdido entre os homens, sem socorro e sem perdão. Não é de alçada do comissário, nem do hospital, nem da radiopatrulha, por que haveria de ser da minha alçada? Que é que eu tenho com isso? Deixa o homem morrer de fome. E o homem morre de fome. De trinta anos presumíveis. Pobremente vestido. Morreu de fome, diz o jornal. Louve-se a insistência dos comerciantes, que jamais morrerão de fome, pedindo providências às autoridades. As autoridades nada mais puderam fazer senão remover o corpo do homem. Deviam deixar que apodrecesse, para escarmento dos outros homens. Nada mais puderam fazer senão esperar que morresse de fome. E ontem, depois de setenta e duas horas de inanição em plena rua, no centro mais movimentado da cidade do Rio de Janeiro, um homem morreu de fome. Morreu de fome.\nSABINO, F. As melhores crônicas de Fernando Sabino. Rio de Janeiro: Best Bolso, 2008.\nAssinale o que for correto.",
+      principal: "TEXTO\nNotícia de Jornal\nFernando Sabino\nLeio no jornal a notícia de que um homem morreu de fome. Um homem de cor branca, trinta anos presumíveis, pobremente vestido, morreu de fome, sem socorros, em pleno centro da cidade, permanecendo deitado na calçada durante setenta e duas horas, para finalmente morrer de fome. Morreu de fome. Depois de insistentes pedidos de comerciantes, uma ambulância do Pronto Socorro e uma radiopatrulha foram ao local, mas regressaram sem prestar auxílio ao homem, que acabou morrendo de fome. Um homem que morreu de fome. O comissário de plantão (um homem) afirmou que o caso (morrer de fome) era alçada da Delegacia de Mendicância, especialista em homens que morrem de fome. E o homem morreu de fome. O corpo do homem que morreu de fome foi recolhido ao Instituto Médico Legal sem ser identificado. Nada se sabe dele, $\\sin$ão que morreu de fome. Um homem morre de fome em plena rua, entre centenas de passantes. Um homem caído na rua. Um bêbado. Um vagabundo. Um mendigo, um anormal, um tarado, um pária, um marginal, um proscrito, um bicho, uma coisa – não é um homem. E os outros homens cumprem deu destino de passantes, que é o de passar. Durante setenta e duas horas todos passam, ao lado do homem que morre de fome, com um olhar de nojo, desdém, inquietação e até mesmo piedade, ou sem olhar nenhum, e o homem continua morrendo de fome, sozinho, isolado, perdido entre os homens, sem socorro e sem perdão. Não é de alçada do comissário, nem do hospital, nem da radiopatrulha, por que haveria de ser da minha alçada? Que é que eu tenho com isso? Deixa o homem morrer de fome. E o homem morre de fome. De trinta anos presumíveis. Pobremente vestido. Morreu de fome, diz o jornal. Louve-se a insistência dos comerciantes, que jamais morrerão de fome, pedindo providências às autoridades. As autoridades nada mais puderam fazer $\\sin$ão remover o corpo do homem. Deviam deixar que apodrecesse, para escarmento dos outros homens. Nada mais puderam fazer $\\sin$ão esperar que morresse de fome. E ontem, depois de setenta e duas horas de inanição em plena rua, no centro mais movimentado da cidade do Rio de Janeiro, um homem morreu de fome. Morreu de fome.\nSABINO, F. As melhores crônicas de Fernando Sabino. Rio de Janeiro: Best Bolso, 2008.\nAssinale o que for correto.",
       subItens: []
     },
     options: [
@@ -2197,7 +2197,7 @@ createQuestion({
       "O texto sugere que as autoridades se empenharam em salvar o homem, mas foram impedidas por questões burocráticas que envolvem casos de mendicância.",
       "A descrição do homem como de \"trinta anos presumíveis\" (linha 2) sugere que a idade foi um fator de risco importante para a sua morte."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação Textual", "Crônica"],
     imageNames: []
@@ -2218,7 +2218,7 @@ createQuestion({
       "Quanto aos propósitos comunicacionais do texto, o autor pretende apenas que os leitores tomem ciência da morte de um homem por fome.",
       "O texto apresenta sequências textuais explicitamente realizadas com recursos linguísticos instrucionais, que demandam do leitor uma reflexão sobre a morte de um homem por fome."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Gêneros Textuais", "Linguagem e Estilo"],
     imageNames: []
@@ -2239,7 +2239,7 @@ createQuestion({
       "A pergunta “Que é que eu tenho com isso?\" (linhas 28 e 29) reflete uma postura egoísta e indiferente do narrador, que se exime de responsabilidade ao ignorar o sofrimento do homem.",
       "A escolha da palavra “inquietação” (linha 23) na descrição da reação dos passantes sugere que houve uma preocupação maior com a condição do homem que morreu de fome."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Figuras de Linguagem", "Interpretação Textual"],
     imageNames: []
@@ -2260,7 +2260,7 @@ createQuestion({
       "Em \"Durante setenta e duas horas todos passam, ao lado do homem que morre de fome\" (linhas 21-23), o sentido foi construído a partir de uma metáfora.",
       "Na oração “Deixa o homem morrer de fome.\" (linha 29), há a presença de ironia."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Semântica", "Figuras de Linguagem"],
     imageNames: []
@@ -2281,7 +2281,7 @@ createQuestion({
       "Na frase \"Deixa o homem morrer de fome.\" (linha 29), a forma verbal \"Deixa\" está no modo indicativo, expressando um acontecimento.",
       "Em \"E o homem morre de fome. De trinta anos presumíveis. Pobremente vestido.\" (linhas 30 e 31), as frases separadas por pontos são usadas para dar ênfase e descrever o sujeito de forma fragmentada."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Morfologia"],
     imageNames: []
@@ -2299,10 +2299,10 @@ createQuestion({
       "O poema tem uma única estrofe composta por nove versos, alguns livres e brancos. Poesia com função social, seu conteúdo pode ser visto como um manifesto contra o racismo e a violência, atitudes que atingem, de modo particular, crianças pobres e negras da periferia.",
       "O sentido denotativo das palavras e as diferentes possibilidades de expressão por meio da linguagem verbal são elementos importantes da poesia. Verifica-se a presença da hipérbole no verso \"esse petróleo desperdiçado.\" e da ironia em “Era só pegar no cavaquinho...\".",
       "O poema \"Meninos pretos” apresenta semelhanças temáticas com a peça O santo inquérito, de Dias Gomes, especialmente no que se refere a práticas culturais relacionadas ao folclore brasileiro. Em ambos os casos é possível observar situações cômicas que divertem e aproximam o leitor do universo apresentado.",
-      "Os quatros últimos versos reforçam o tom de protesto, presente em todo o poema, por meio de anáfora (\"Quero em suas bocas, argumentos. / Quero em suas mãos, instrumentos.\") e de rimas (argumentos/instrumentos, menininhos/cavaquinho). No penúltimo verso há o registro da apóstrofe (“Ó pobres, desprezados menininhos\"), que sugere sentimentos de indignação e empatia por parte do eu lírico.",
+      "Os quatros últimos versos reforçam o tom de protesto, presente em todo o poema, por meio de anáfora (\"Quero em suas bocas, argumentos. / Quero em suas mãos, instrumentos.\") e de rimas ($argumentos/instrumentos$, $menininhos/cavaquinho$). No penúltimo verso há o registro da apóstrofe (“Ó pobres, desprezados menininhos\"), que sugere sentimentos de indignação e empatia por parte do eu lírico.",
       "O título do poema e os versos que o compõem são uma referência ao trabalho infantil de meninos em carvoarias de regiões afastadas de centros urbanos. Eles não estudam e adoecem por desnutrição. Com os seus corpos cobertos de fuligem, passam o dia abastecendo com lenha os enormes fornos que produzem o carvão."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Poesia", "Literatura Brasileira"],
     imageNames: []
@@ -2323,7 +2323,7 @@ createQuestion({
       "No conto \"Tentação”, do livro A legião estrangeira, de Clarice Lispector, a protagonista é uma mulher loira bastante parecida com a personagem central do conto \"Penélope\", de Dalton Trevisan: ambas socorrem um menino de rua que sofre agressões. Além disso, a coincidência do nome das personagens, em ambos os contos, marca um processo de intertextualidade.",
       "O romance Menino de engenho, de José Lins do Rego, é narrado em terceira pessoa por um ex-proprietário de engenho no Sul do Brasil. As estratégias narrativas aproximam esse romance do conto \"A rosa de Hiroxima\", de Vinícius de Morais, principalmente quando o protagonista desse conto, rememorando sentimentos de sua longa vida, descreve a morte de sua mãe e a loucura de seu pai. Nos dois textos há ênfase nas figuras dos coronéis, grandes latifundiários que dominavam a política e mantinham em dependência os mais pobres."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira", "Gêneros Literários"],
     imageNames: []
@@ -2334,7 +2334,7 @@ createQuestion({
     university: "uem",
     year: 2024,
     text: {
-      principal: "INGLÊS\nTEXT\nThe world just marked a year above a critical climate limit scientists have warned about\nAngela Dewan\n1 Global warming surpassed 1.5 degrees Celsius over the\n2 past 12 months for the first time on record, new data\n3 shows. [...] The past year was 1.52 degrees hotter on average\n4 than temperatures before industrialization, according to\n5 data from Copernicus, the European Union's climate and\n6 weather monitoring service. That 12-month average was\n7 boosted by the hottest January on record, which was 1.66\n8 degrees warmer than the average January temperature in\n9 pre-industrial times.\n10 Keeping global warming below 2 degrees, but preferably\n11 1.5, was the centerpiece goal of the Paris Agreement,\n12 which most of the world's nations signed onto in 2015.\n13 Scientists are more concerned with multi-year warming,\n14 but the 12-month record shows the world is fast\n15 approaching the Paris Agreement's limits.\n16 Matt Patterson, a postdoctoral research assistant in\n17 atmospheric physics at the University of Oxford, said the\n18 record was a “significant milestone,\" but didn't mean the\n19 Paris Agreement had failed.\n20 “However, exceeding 1.5 degrees Celsius in one year underlines\n21 the rapidly shrinking window of time humanity has to make\n22 deep emissions cuts and avoid dangerous climate change.\"\n23 Heat records on land and sea have tumbled over the past\n24 year. The last eight months in a row have been the hottest\n25 such months on record, Copernicus said, while 2023 was\n26 the hottest calendar year.\n27 The average global sea surface temperature for January was\n28 also the hottest on record for that month by a large margin:\n29 0.26 degrees warmer than the previous record, set in 2016.\n30 \"2024 starts with another record-breaking month – not only\n31 is it the warmest January on record but we have also just\n32 experienced a 12-month period of more than 1.5 degress above\n33 the pre-industrial reference period,\" Copernicus Deputy\n34 Director Samantha Burgess said in a statement. \"Rapid\n35 reductions in greenhouse gas emissions are the only way to\n36 stop global temperatures increasing.\"\n37 The climate crisis is driven primarily from humans burning\n38 coal, oil and gas for energy. El Niño, a natural climate\n39 pattern that originates in the Pacific Ocean, has also\n40 boosted temperatures in much of the world in recent\n41 months. [...]\n42 More than 160 wildfires that spread over an area of Chile\n43 have recently killed more than 120 people and reduced\n44 entire neighborhoods to ashes, making them the deadliest\n45 blazes in the country's recent history. [...]\nAdapted from: https://edition.cnn.com/2024/02/08/climate/global-warming-limit-climate-intl/index.html\nAccording to the text, mark the correct alternative(s).",
+      principal: "INGLÊS\nTEXT\nThe world just marked a year above a critical climate limit scientists have warned about\nAngela Dewan\n1 Global warming surpassed 1.5 degrees Celsius over the\n2 past 12 months for the first time on record, new data\n3 shows. [...] The past year was 1.52 degrees hotter on average\n4 than temperatures before industrialization, according to\n5 data from Copernicus, the European Union's climate and\n6 weather monitoring service. That 12-month average was\n7 boosted by the hottest January on record, which was 1.66\n8 degrees warmer than the average January temperature in\n9 pre-industrial times.\n10 Keeping global warming below 2 degrees, but preferably\n11 1.5, was the centerpiece goal of the Paris Agreement,\n12 which most of the world's nations signed onto in 2015.\n13 Scientists are more concerned with multi-year warming,\n14 but the 12-month record shows the world is fast\n15 approaching the Paris Agreement's limits.\n16 Matt Patterson, a postdoctoral research assistant in\n17 atmospheric physics at the University of Oxford, said the\n18 record was a “significant milestone,\" but didn't mean the\n19 Paris Agreement had failed.\n20 “However, exceeding 1.5 degrees Celsius in one year underlines\n21 the rapidly shrinking window of time humanity has to make\n22 deep emissions cuts and avoid dangerous climate change.\"\n23 Heat records on land and sea have tumbled over the past\n24 year. The last eight months in a row have been the hottest\n25 such months on record, Copernicus said, while 2023 was\n26 the hottest calendar year.\n27 The average global sea surface temperature for January was\n28 also the hottest on record for that month by a large margin:\n29 0.26 degrees warmer than the previous record, set in 2016.\n30 \"2024 starts with another record-breaking month – not only\n31 is it the warmest January on record but we have also just\n32 experienced a 12-month period of more than 1.5 degress above\n33 the pre-industrial reference period,\" Copernicus Deputy\n34 Director Samantha Burgess said in a statement. \"Rapid\n35 reductions in greenhouse gas emissions are the only way to\n36 stop global temperatures increasing.\"\n37 The climate crisis is driven primarily from humans burning\n38 coal, oil and gas for energy. El Niño, a natural climate\n39 pattern that originates in the Pacific Ocean, has also\n40 boosted temperatures in much of the world in recent\n41 months. [...]\n42 More than 160 wildfires that spread over an area of Chile\n43 have recently killed more than 120 people and reduced\n44 entire neighborhoods to ashes, making them the deadliest\n45 blazes in the country's recent history. [...]\nAdapted from: https://edition.cnn.com/2024/02/08/climate/global-warming-limit-climate-$intl/index$.html\nAccording to the text, mark the correct alternative(s).",
       subItens: []
     },
     options: [
@@ -2344,7 +2344,7 @@ createQuestion({
       "Temperatures were hotter both on land and sea last year.",
       "When there is less gas emission, it can be harmful for climate, causing dangerous changes."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto", "Vocabulário"],
     imageNames: []
@@ -2365,7 +2365,7 @@ createQuestion({
       "\"warmest\" (line 31) and \"deadliest\" (line 44) are superlative forms.",
       "\"shows\" (line 14) is considered a plural noun."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Morfologia", "Vocabulário"],
     imageNames: []
@@ -2386,7 +2386,7 @@ createQuestion({
       "The number of wildfires in Chile has destroyed neighborhoods completely.",
       "January, in the year 2024, was the hottest month ever recorded."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto", "Gramática"],
     imageNames: []
@@ -2407,7 +2407,7 @@ createQuestion({
       "\"However\" (line 20) is used to conclude an idea.",
       "\"them\" (line 44) refers to \"wildfires\" (line 42)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Sintaxe"],
     imageNames: []
@@ -2428,7 +2428,7 @@ createQuestion({
       "Segundo a World Wide Fund for Nature (WWF), a ação de cada pessoa deixa um rastro na Terra, denominado “pegada\". Essas pegadas ecológicas, como a pegada de carbono e a pegada hídrica, podem ser dimensionadas por ferramentas metodológicas genéricas e espelham uma estimativa do impacto do nosso consumo e das ações humanas sobre a natureza.",
       "A combustão incompleta de combustíveis fósseis nos veículos automotores produz monóxido de carbono (CO), que, ao ser inalado, alcança o sangue, ligando-se de forma relativamente estável à hemoglobina. A hemoglobina ocupada pelo CO é capaz de transportar mais oxigênio e menos gás carbônico, melhorando a capacidade respiratória dos indivíduos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ecologia", "Impactos Ambientais"],
     imageNames: []
@@ -2470,7 +2470,7 @@ createQuestion({
       "A doença é causada por alelo recessivo.",
       "Essa doença pode ser a hemofilia A."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Genética", "Herança Ligada ao Sexo"],
     imageNames: []
@@ -2491,7 +2491,7 @@ createQuestion({
       "De acordo com a figura, espera-se que predadores desse inseto ocupem, principalmente, o território à margem esquerda do rio.",
       "O rio que corta a área representada na imagem atuou como uma barreira geográfica, restringindo a dispersão dos predadores desse inseto."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ecologia", "Dinâmica de Populações", "Interações Ecológicas"],
     imageNames: []
@@ -2512,7 +2512,7 @@ createQuestion({
       "Nos torrões encontrados havia fragmentos de folhas (acículas) de araucárias, típicas das regiões dos campos cerrados.",
       "Dada a pequena quantidade de sangue encontrada, foi necessário amplificar a amostra antes da análise genética, utilizando-se a técnica de reação em cadeia da polimerase (PCR). Nessa técnica é possível duplicar trechos do RNA usando enzimas lipases."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Biologia Forense", "Genética Molecular"],
     imageNames: []
@@ -2533,7 +2533,7 @@ createQuestion({
       "O Kevlar e o Nylon podem ser classificados como poliamidas obtidas de uma reação de condensação.",
       "O poliestireno é um polímero termofixo, e a baquelite é um polímero termoplástico."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Polímeros"],
     imageNames: []
@@ -2554,7 +2554,7 @@ createQuestion({
       "Uma molécula orgânica não pode apresentar isomerias ótica e geométrica ao mesmo tempo.",
       "Uma mistura contendo quantidades equimolares de dois enantiomorfos é denominada mistura racêmica."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Isomeria"],
     imageNames: []
@@ -2575,7 +2575,7 @@ createQuestion({
       "Experimentos revelam que pedaços de papel comum (celulose) absorvem água, enquanto pedaços de plástico (polietileno) não a absorvem. Essa diferença ocorre porque há interações entre água e celulose via ligações de hidrogênio, e não há interações desse tipo entre água e polietileno.",
       "O amido é um polímero formado pela adição de diversas moléculas de aminas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Polímeros"],
     imageNames: []
@@ -2596,7 +2596,7 @@ createQuestion({
       "As graxas (lubrificantes pastosos) utilizadas para lubrificar algumas máquinas têm moléculas com mais átomos de carbono do que tem o diesel; logo, a temperatura de ebulição das graxas deve ser maior.",
       "O etanol hidratado é obtido principalmente pela hidratação do etileno, um dos derivados do petróleo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Petróleo e Combustíveis"],
     imageNames: []
@@ -2617,7 +2617,7 @@ createQuestion({
       "No processo de lavagem de um prato contendo gordura, a cabeça polar das moléculas de detergente associar-se-á à gordura.",
       "No processo de lavagem, o uso de sabão e de detergente favorece a formação de micelas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica", "Saponificação"],
     imageNames: []

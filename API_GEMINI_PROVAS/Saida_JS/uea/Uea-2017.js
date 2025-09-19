@@ -444,14 +444,14 @@ createQuestion({
     university: "uea",
     year: 2017,
     text: {
-      principal: "Fazer abertura na garrafa\n\n[IMAGEM: Experimento de erosão do solo com solo nu, solo com vegetação morta e solo com grama]\n\n(Déborah de Oliveira. \"Técnicas de pedologia\". In: Luis A. B. Venturi (org.). Geografia, 2011. Adaptado.)\n\nO experimento ilustrado na imagem permite observar, em pequena escala, o processo de erosão do solo. Ao reproduzi-lo, é esperada",
+      principal: "Fazer abertura na garrafa\n\n[IMAGEM: Experimento de erosão do solo com solo $\\nu$, solo com vegetação morta e solo com grama]\n\n(Déborah de Oliveira. \"Técnicas de pedologia\". In: Luis A. B. Venturi (org.). Geografia, 2011. Adaptado.)\n\nO experimento ilustrado na imagem permite observar, em pequena escala, o processo de erosão do solo. Ao reproduzi-lo, é esperada",
       subItens: []
     },
     options: [
-      "uma erosão semelhante no solo nu e no solo com vegetação morta, já que em ambos não existe a interferência de um organismo no fluxo d'água.",
+      "uma erosão semelhante no solo $\\nu$ e no solo com vegetação morta, já que em ambos não existe a interferência de um organismo no fluxo d'água.",
       "uma erosão mais intensa no solo com vegetação morta, já que sua condição não oferece empecilhos biológicos ao fluxo d'água.",
       "uma erosão mais intensa no solo com grama, já que o vegetal em condições normais auxilia na absorção e amplia o fluxo d'água.",
-      "uma erosão mais intensa no solo nu, já que se encontra sem a proteção das raízes e dos próprios vegetais ao fluxo d'água.",
+      "uma erosão mais intensa no solo $\\nu$, já que se encontra sem a proteção das raízes e dos próprios vegetais ao fluxo d'água.",
       "uma erosão semelhante no solo com vegetação morta e no solo com grama, já que em ambos existe a presença de raízes interagindo com o fluxo d'água."
     ],
     correctAnswer: 3,
@@ -780,7 +780,7 @@ createQuestion({
     university: "uea",
     year: 2017,
     text: {
-      principal: "Um caminhão percorre determinado trecho de uma estrada em 54 minutos a uma velocidade de 40 km/h. Um carro de passeio percorre esse mesmo trecho na velocidade máxima permitida, que é de 60 km/h. A diferença, em minutos, entre o tempo do caminhão e o do carro de passeio para percorrer esse trecho é",
+      principal: "Um caminhão percorre determinado trecho de uma estrada em 54 minutos a uma velocidade de 40 $km/h$. Um carro de passeio percorre esse mesmo trecho na velocidade máxima permitida, que é de 60 $km/h$. A diferença, em minutos, entre o tempo do caminhão e o do carro de passeio para percorrer esse trecho é",
       subItens: []
     },
     options: [
@@ -969,7 +969,7 @@ createQuestion({
     university: "uea",
     year: 2017,
     text: {
-      principal: "A figura mostra a vista superior de um barco tracionado por duas forças de módulo F, que formam entre si um ângulo de 120°, se deslocando sobre as águas de um lago, cuja superfície é um plano horizontal.\n\n[IMAGEM: Diagrama de forças F e F com ângulo de 120 graus]\n\n(http://blocoautocad.com)\n\nConsidere os dados apresentados na tabela.\n\n[TABELA: seno/cosseno de 30 e 60 graus]\n\nSabendo que o barco se move em linha reta com velocidade constante e desprezando a resistência do ar, a força de resistência da água aplicada no barco é igual a",
+      principal: "A figura mostra a vista superior de um barco tracionado por duas forças de módulo F, que formam entre si um ângulo de 120°, se deslocando sobre as águas de um lago, cuja superfície é um plano horizontal.\n\n[IMAGEM: Diagrama de forças F e F com ângulo de 120 graus]\n\n(http://blocoautocad.com)\n\nConsidere os dados apresentados na tabela.\n\n[TABELA: $\\sino/cosseno$ de 30 e 60 graus]\n\nSabendo que o barco se move em linha reta com velocidade constante e desprezando a resistência do ar, a força de resistência da água aplicada no barco é igual a",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "uea",
     year: 2017,
     text: {
-      principal: "Uma partícula descreve um movimento circular uniforme sobre uma trajetória circular de raio 2 metros. Sabendo que o módulo de sua velocidade constante é 2 m/s, e considerando π = 3,14, o número de voltas completas realizadas pela partícula durante um minuto é",
+      principal: "Uma partícula descreve um movimento circular uniforme sobre uma trajetória circular de raio 2 metros. Sabendo que o módulo de sua velocidade constante é 2 $m/s$, e considerando π = 3,14, o número de voltas completas realizadas pela partícula durante um minuto é",
       subItens: []
     },
     options: [

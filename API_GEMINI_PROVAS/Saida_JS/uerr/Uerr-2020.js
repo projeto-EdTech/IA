@@ -171,7 +171,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "Assinale a afirmativa correta em que identificamos, respectivamente, expressões com as mesmas funções sintáticas dos termos sublinhados nos versos de Gilberto Freyre.\n1. \"mãos de escultor que sabiam lidar com o barro forte e novo dos Brasis\"\n2. \"Mãos todas de trabalhadores/ pretas, brancas, pardas, roxas, morenas/ de artistas/de escritores [...]\"\n3. \"que tenha olhos para ver pelo Brasil\"",
+      principal: "Assinale a afirmativa correta em que identificamos, respectivamente, expressões com as mesmas funções sintáticas dos termos sublinhados nos versos de Gilberto Freyre.\n1. \"mãos de escultor que sabiam lidar com o barro forte e novo dos Brasis\"\n2. \"Mãos todas de trabalhadores/ pretas, brancas, pardas, roxas, morenas/ de $artistas/de$ escritores [...]\"\n3. \"que tenha olhos para ver pelo Brasil\"",
       subItens: []
     },
     options: [
@@ -360,7 +360,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "In the sentence: “Our_house is burning,\" the highlighted word refers to:",
+      principal: "In the sentence: “$Our_house$ is burning,\" the highlighted word refers to:",
       subItens: []
     },
     options: [
@@ -408,9 +408,9 @@ createQuestion({
     options: [
       "a-b",
       "b-a",
-      "a/b",
-      "a/a",
-      "b/b"
+      "$a/b$",
+      "$a/a$",
+      "$b/b$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "A razão entre dois ângulos suplementares é igual a 3/5. Assinale a alternativa que corresponde ao complemento do menor ângulo.",
+      principal: "A razão entre dois ângulos suplementares é igual a $3/5$. Assinale a alternativa que corresponde ao complemento do menor ângulo.",
       subItens: []
     },
     options: [
@@ -465,7 +465,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "Sabendo que a base média de um trapézio vale 24 cm e que a base maior é os 5/3 da base menor, assinale a alternativa que corresponde aos valores da base maior e da base menor, respectivamente.",
+      principal: "Sabendo que a base média de um trapézio vale 24 cm e que a base maior é os $5/3$ da base menor, assinale a alternativa que corresponde aos valores da base maior e da base menor, respectivamente.",
       subItens: []
     },
     options: [
@@ -490,11 +490,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/5",
-      "1/8",
-      "2/5",
-      "1/6",
-      "2/6"
+      "$1/5$",
+      "$1/8$",
+      "$2/5$",
+      "$1/6$",
+      "$2/6$"
     ],
     correctAnswer: 13,
     materia: ["Matemática"],
@@ -570,14 +570,14 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "A tabela a seguir contém algumas propriedades de algumas substâncias:\nSubstâncias | P.F (°C) | P.E (°C) | d (g/mL)\nEtanol | -112 | 78.4 | 0.789\nFerro | 1538 | 2861 | 7.87\nChumbo | 327 | 1749 | 11.4\nAcetona | -94.6 | 56.1 | 0.792\nNitrogênio | -210 | -196 | 0.810\nObservando a tabela acima e os conhecimentos em química, indique a opção incorreta sobre estas substâncias.",
+      principal: "A tabela a seguir contém algumas propriedades de algumas substâncias:\nSubstâncias | P.F (°C) | P.E (°C) | d ($g/mL$)\nEtanol | -112 | 78.4 | 0.789\nFerro | 1538 | 2861 | 7.87\nChumbo | 327 | 1749 | 11.4\nAcetona | -94.6 | 56.1 | 0.792\nNitrogênio | -210 | -196 | 0.810\nObservando a tabela acima e os conhecimentos em química, indique a opção incorreta sobre estas substâncias.",
       subItens: []
     },
     options: [
       "A 0 °C e 1atm, o etanol, a acetona e o nitrogênio se encontram no estado líquido.",
       "O ferro é um elemento químico, símbolo Fe, de número atômico 26. A temperatura ambiente (de acordo com as condições normais de temperatura e pressão – CNTP, a temperatura ambiente é de 25 °C), o ferro encontra-se no estado sólido.",
-      "O chumbo afunda em água (d = 1,00 g/mL), pois é mais denso.",
-      "O álcool etílico (CH3CH2OH ou C2H6O), também chamado etanol, massa molar 46,1 g/mol e 100 mL, encontra-se no estado gasoso.",
+      "O chumbo afunda em água (d = 1,00 $g/mL$), pois é mais denso.",
+      "O álcool etílico (CH3CH2OH ou C2H6O), também chamado etanol, massa molar 46,1 $g/mol$ e 100 mL, encontra-se no estado gasoso.",
       "O nitrogênio líquido, obtido pela destilação do ar líquido, se usa em criogenia, já que na pressão atmosférica condensa a -196 °C, pode causar rápido congelamento ao contato com tecido vivo."
     ],
     correctAnswer: 13,
@@ -654,7 +654,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "A concentração das soluções em partes por milhão (ppm) indica quantas partes de soluto existem em um milhão de partes da solução. Em relação ao ppm, fez-se as seguintes afirmações:\nI. O chumbo é um metal pesado, relativamente abundante na crosta terrestre, tendo uma concentração ao redor de 20 ppm (partes por milhão). Uma amostra de 100 g da crosta terrestre contém um valor médio, em mg de chumbo, igual a 20.\nII. No rótulo de uma garrafa de “água mineral”, lê-se que o conteúdo é de 1,5 litros e que a quantidade de bicarbonato de cálcio é de 20 ppm. Pode-se deduzir que tenha 20 mg de bicarbonato de cálcio no conteúdo da garrafa.\nIII. A água potável não pode conter mais do que 5,0 .10⁻⁴ mg de mercúrio por grama de água. Portanto, 0,5 ppm de mercúrio são permitidos na composição de água potável.\nIV. A legislação exige que cada quilograma de sal comercializado contenha 0,01 ppm de iodeto, I-, geralmente na forma de NaI, para evitar o bócio. A concentração de 0,012g de NaI/tonelada de sal, está de acordo com a legislação.\nEstão corretas somente as afirmações:",
+      principal: "A concentração das soluções em partes por milhão (ppm) indica quantas partes de soluto existem em um milhão de partes da solução. Em relação ao ppm, fez-se as seguintes afirmações:\nI. O chumbo é um metal pesado, relativamente abundante na crosta terrestre, tendo uma concentração ao redor de 20 ppm (partes por milhão). Uma amostra de 100 g da crosta terrestre contém um valor médio, em mg de chumbo, igual a 20.\nII. No rótulo de uma garrafa de “água mineral”, lê-se que o conteúdo é de 1,5 litros e que a quantidade de bicarbonato de cálcio é de 20 ppm. Pode-se deduzir que tenha 20 mg de bicarbonato de cálcio no conteúdo da garrafa.\nIII. A água potável não pode conter mais do que 5,0 .10⁻⁴ mg de mercúrio por grama de água. Portanto, 0,5 ppm de mercúrio são permitidos na composição de água potável.\nIV. A legislação exige que cada quilograma de sal comercializado contenha 0,01 ppm de iodeto, I-, geralmente na forma de NaI, para evitar o bócio. A concentração de 0,012g de $NaI/tonelada$ de sal, está de acordo com a legislação.\nEstão corretas somente as afirmações:",
       subItens: []
     },
     options: [
@@ -780,7 +780,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "Seja um circuito, composto por três resistores 10x10^2 ohms, 41 k-ohms e 6000 ohms respectivamente, assinale a alternativa correta para a associação de resistores em série.",
+      principal: "Seja um circuito, composto por três resistores $10x10^2$ ohms, 41 k-ohms e 6000 ohms respectivamente, assinale a alternativa correta para a associação de resistores em série.",
       subItens: []
     },
     options: [
@@ -843,11 +843,11 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "Um animal aquático, cuja densidade volumétrica é de 500g/ml, sofre uma força de empuxo de 10N. Assinale a alternativa correta.",
+      principal: "Um animal aquático, cuja densidade volumétrica é de $500g/ml$, sofre uma força de empuxo de 10N. Assinale a alternativa correta.",
       subItens: []
     },
     options: [
-      "Se o animal ocupar 0,4m^3, sua massa será de 2x10^5 kg.",
+      "Se o animal ocupar 0,$4m^3$, sua massa será de $2x10^5$ kg.",
       "A quantidade de carga elétrica acumulada dentro do corpo do animal é de 3C durante o atrito com a água.",
       "A força de empuxo é, somente proporcional, à profundidade que o animal está nadando.",
       "Se o animal ingerir 300ml de água, ficará mais pesado em 300g.",
@@ -911,10 +911,10 @@ createQuestion({
     },
     options: [
       "30 graus.",
-      "Pi sobre três.",
+      "$\\pi$ sobre três.",
       "90 graus.",
       "45 graus",
-      "Pi sobre dois."
+      "$\\pi$ sobre dois."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -927,7 +927,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "Considere um sistema fechado e isolado. Se um gás ideal estiver inicialmente com 3atm, 30 kelvins e ocupando 30m^3. Quando for submetido a um processo isotérmico, sem sofrer reação química. Ao se estabilizar depois de sofrer uma expansão e ocupar o volume de 50.000litros. Assinale a alternativa correta para a pressão.",
+      principal: "Considere um sistema fechado e isolado. Se um gás ideal estiver inicialmente com 3atm, 30 kelvins e ocupando $30m^3$. Quando for submetido a um processo isotérmico, sem sofrer reação química. Ao se estabilizar depois de sofrer uma expansão e ocupar o volume de 50.000litros. Assinale a alternativa correta para a pressão.",
       subItens: []
     },
     options: [
@@ -1185,7 +1185,7 @@ createQuestion({
     options: [
       "O Império Carolíngio, com uma forte economia urbana, uso intensivo da moeda e governo rigidamente centralizado, assinalou a fase final da era medieval, conhecido como Baixa Idade Média.",
       "A Crise do Século XIV, a Peste Negra e a Guerra dos Cem Anos evidenciaram as contradições do crescimento demográfico e econômico sob o feudalismo, nos séculos precedentes.",
-      "As Cruzadas resultaram em uma vitória fácil e duradoura dos cristãos sobre os muçulmanos no Mediterrâneo oriental, pois a cristandade medieval mostrou-se mais tolerante, mais avançada tecnicamente e economicamente que o Islã.",
+      "As Cruzadas resultaram em uma vitória fácil e duradoura dos cristãos sobre os $\\mu$çulmanos no Mediterrâneo oriental, pois a cristandade medieval mostrou-se mais tolerante, mais avançada tecnicamente e economicamente que o Islã.",
       "Ao longo de toda a Idade Média, não houve contestação às doutrinas oficiais da Igreja Católica Apostólica Romana, verificando-se uma grande homogeneidade em todo o mundo cristão.",
       "A parte inicial da Idade Média, denominada Alta Idade Média, foi uma era de disseminação de novas técnicas pelo continente europeu, como os moinhos de vento, a rotação trienal de culturas no campo, o uso de adubo e da charrua, aumentando muito a produtividade agrícola."
     ],
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "O filósofo Immanuel Kant (1724-1804), certa vez, se propôs a definir o que era o Esclarecimento ou Iluminismo:\n“O Esclarecimento é a libertação do homem de sua imaturidade auto-imposta. Imaturidade é a incapacidade de empregar seu próprio entendimento sem a orientação de outro. Tal tutela é auto-imposta quando sua causa não reside em falta de razão, mas de determinação e coragem para usá-lo sem a direção de outro. Sapere Aude [ousa saber]! Tenha coragem de usar sua própria mente! Este é o lema do Esclarecimento. [...]\nPara este esclarecimento, porém, nada mais se exige senão liberdade [...] de fazer um uso público de sua razão em todas as questões. Ouço, agora, porém, exclamar de todos os lados: não raciocinai! O oficial diz: não raciocinai, mas exercitai-vos! O financista: não raciocinai, mas pagai! O sacerdote proclama: não raciocinai, mas crede! [...]\nUma época não pode se aliar e conjurar para colocar a seguinte em um estado que impossibilite a ampliação de seus conhecimentos [...]. Configurar-se-ia, assim, um crime contra a natureza humana.” (Immanuel Kant. Resposta à Questão: O que é Esclarecimento? Tradução de Márcio Pugliesi. Disponível em: https://revistas.pucsp.br/index.php/cognitiofilosofia/articl e/download/11661/8392. Acesso em 01/09/2019).\nAssinale a única alternativa verdadeira sobre o Iluminismo.",
+      principal: "O filósofo Immanuel Kant (1724-1804), certa vez, se propôs a definir o que era o Esclarecimento ou Iluminismo:\n“O Esclarecimento é a libertação do homem de sua imaturidade auto-imposta. Imaturidade é a incapacidade de empregar seu próprio entendimento sem a orientação de outro. Tal tutela é auto-imposta quando sua causa não reside em falta de razão, mas de determinação e coragem para usá-lo sem a direção de outro. Sapere Aude [ousa saber]! Tenha coragem de usar sua própria mente! Este é o lema do Esclarecimento. [...]\nPara este esclarecimento, porém, nada mais se exige $\\sin$ão liberdade [...] de fazer um uso público de sua razão em todas as questões. Ouço, agora, porém, exclamar de todos os lados: não raciocinai! O oficial diz: não raciocinai, mas exercitai-vos! O financista: não raciocinai, mas pagai! O sacerdote proclama: não raciocinai, mas crede! [...]\nUma época não pode se aliar e conjurar para colocar a seguinte em um estado que impossibilite a ampliação de seus conhecimentos [...]. Configurar-se-ia, assim, um crime contra a natureza humana.” (Immanuel Kant. Resposta à Questão: O que é Esclarecimento? Tradução de Márcio Pugliesi. Disponível em: https://revistas.pucsp.$br/index$.php/cognitiofilosofia/articl e/download/11661/8392. Acesso em 01/09/2019).\nAssinale a única alternativa verdadeira sobre o Iluminismo.",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "O recente acirramento da crise da Caxemira chamou a atenção do mundo para problemas não resolvidos desde a independência da Índia e do Paquistão em 1947. Leia a notícia abaixo e o mapa a seguir:\n“População da Caxemira paga o preço da disputa entre Índia e Paquistão\nSimone Duarte, especial para O Globo. 19/08/2019\nMIRPUR, AZAD CAXEMIRA, Paquistão - Amir Afzal, de 76 anos, tem um sonho que dura uma vida: visitar o túmulo do pai que morreu quando ele tinha apenas um ano e meio. O amigo Ghulam Mustafa tem a mesma idade. Tinha três anos quando o Império Britânico acabou e o Paquistão e a Índia nasceram. O pai morreu na travessia massacrado pelos indianos..\nNós somos o coração do problema no meio de duas nações que têm a bomba atômica. Nós queremos o direito ao plebiscito para decidir o nosso destino. Esta não é uma questão com cinco ou 10 anos, mas com 70 anos, quando os dois países se tornaram independentes.\nA Caxemira foi dominada por imperadores hindus, budistas, muçulmanos, mongóis, afegãos, sikhs até chegar o Império Britânico. A origem do confronto que vive hoje é consequência da desastrosa política britânica de criar comunidades baseadas na religião.\nQuando os britânicos saíram, depois de quase 200 anos, foram criados dois países, um de maioria muçulmana (Paquistão) e outro de maioria hindu (India). Uma divisão que provocou uma das maiores ondas migratórias da História, com 15 milhões de muçulmanos, hindus e sikhs fugindo para lados opostos com medo da perseguição religiosa. Entre 500 mil e 2 milhões de pessoas morreram. 75 mil mulheres foram estupradas. Milhões de famílias, separadas. A Caxemira, que tinha maioria muçulmana, mas era governada por um marajá hindu, que decidiu no último momento ficar com a Índia, é até hoje motivo de controvérsia e conflito entre os dois países\".\n(disponível em https://oglobo.globo.com/mundo/populacao-da-caxemira-paga-preco-da-disputa-entre-india-paquistao-23886241 . Acesso em 01/09/2019)\n[IMAGEM: Mapa Caxemira na Índia e no Paquistão, com \"Linha de controle\" e principais cidades.]\n(disponível em https://istoe.com.br/o-que-se-sabe-sobre-a-crise-entre-india-e-paquistao. Acesso em 29/08/2019)\nAssinale a única alternativa verdadeira sobre o processo de descolonização na Ásia e África, após o fim da Segunda Guerra Mundial.",
+      principal: "O recente acirramento da crise da Caxemira chamou a atenção do mundo para problemas não resolvidos desde a independência da Índia e do Paquistão em 1947. Leia a notícia abaixo e o mapa a seguir:\n“População da Caxemira paga o preço da disputa entre Índia e Paquistão\nSimone Duarte, especial para O Globo. 19/08/2019\nMIRPUR, AZAD CAXEMIRA, Paquistão - Amir Afzal, de 76 anos, tem um sonho que dura uma vida: visitar o túmulo do pai que morreu quando ele tinha apenas um ano e meio. O amigo Ghulam Mustafa tem a mesma idade. Tinha três anos quando o Império Britânico acabou e o Paquistão e a Índia nasceram. O pai morreu na travessia massacrado pelos indianos..\nNós somos o coração do problema no meio de duas nações que têm a bomba atômica. Nós queremos o direito ao plebiscito para decidir o nosso destino. Esta não é uma questão com cinco ou 10 anos, mas com 70 anos, quando os dois países se tornaram independentes.\nA Caxemira foi dominada por imperadores hindus, budistas, $\\mu$çulmanos, mongóis, afegãos, sikhs até chegar o Império Britânico. A origem do confronto que vive hoje é consequência da desastrosa política britânica de criar comunidades baseadas na religião.\nQuando os britânicos saíram, depois de quase 200 anos, foram criados dois países, um de maioria $\\mu$çulmana (Paquistão) e outro de maioria hindu (India). Uma divisão que provocou uma das maiores ondas migratórias da História, com 15 milhões de $\\mu$çulmanos, hindus e sikhs fugindo para lados opostos com medo da perseguição religiosa. Entre 500 mil e 2 milhões de pessoas morreram. 75 mil mulheres foram estupradas. Milhões de famílias, separadas. A Caxemira, que tinha maioria $\\mu$çulmana, mas era governada por um marajá hindu, que decidiu no último momento ficar com a Índia, é até hoje motivo de controvérsia e conflito entre os dois países\".\n(disponível em https://oglobo.globo.com/mundo/populacao-da-caxemira-paga-preco-da-disputa-entre-india-paquistao-23886241 . Acesso em 01/09/2019)\n[IMAGEM: Mapa Caxemira na Índia e no Paquistão, com \"Linha de controle\" e principais cidades.]\n(disponível em https://istoe.com.$br/o$-que-se-sabe-sobre-a-crise-entre-india-e-paquistao. Acesso em 29/08/2019)\nAssinale a única alternativa verdadeira sobre o processo de descolonização na Ásia e África, após o fim da Segunda Guerra Mundial.",
       subItens: []
     },
     options: [
@@ -1305,7 +1305,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "Em 1979 os jornais brasileiros anunciavam a lei da Anistia. A ditadura civil-militar agonizava, com crescente inflação, incerteza econômica, arrocho salarial, explosão da dívida externa e contestação da sociedade civil. A abertura para um regime democrático liberal foi contraditória e bastante distinta de outras experiências históricas de transição. Leia atentamente o texto jornalístico e o gráfico que se seguem:\n“A Lei da Anistia e o esquecimento dos crimes da ditadura militar\nO exemplo argentino é citado por Cláudio Beserra de Vasconcelos, doutor em história pela UFRJ [...]. Os casos de corrupção dos governos militares [brasileiros] não são conhecidos porque não se podia investigar, pois a Anistia é uma lei do esquecimento. Na Argentina isso é lembrado a todo momento com os processos julgados, as pessoas punidas e as ações do grupo Mães da Praça de Maio', diz Vasconcelos.\n‘Enquanto outros países fizeram uma mudança de governo com julgamentos e punições, no Brasil houve uma transição pelo alto. Não houve uma ruptura, foi um processo lento e negociado, que começou com o Ernesto Geisel, ainda na década de 1970. Uma elite militar e política fez a mudança, não a sociedade [...]', aponta Vasconcelos.\nA advogada alemã Lilli Löbsack [...] menciona o exemplo de países que optaram por investigar e punir graves violações de direitos humanos, como a Argentina após a ditadura de 1976 a 1983 e a Alemanha após o regime nazista.\n‘A Argentina condenou mais de 150 militares e policiais que cometeram crimes na ditadura daquele país. A Alemanha também julgou e condenou criminosos nazistas a partir do Julgamento de Nurembergue. Até hoje a Alemanha lembra esses crimes e investiga. Por exemplo, em abril deste ano, a Promotoria de Stuttgart abriu um inquérito contra um policial do campo de concentração de Auschwitz-Birkenau por ele ter prestado assistência em mais de 13 mil casos de homicídio', conta Löbsack” (disponível em https://www.dw.com/pt-br/a-lei-da-anistia-e-o-esquecimento-dos-crimes-da-ditadura-militar/a-45082182 Acesso em 01/09/2019).\n[IMAGEM: Gráfico \"Salário Mínimo Real, 1958-2018\" com marcos da Ditadura Militar e Planos Econômicos.]\n(disponível em https://www.bbc.com/portuguese/brasil-45960213. Acesso em 01/09/2019)\nAssinale a única afirmativa falsa sobre o período da ditadura civil-militar brasileira, entre 1964 e 1985.",
+      principal: "Em 1979 os jornais brasileiros anunciavam a lei da Anistia. A ditadura civil-militar agonizava, com crescente inflação, incerteza econômica, arrocho salarial, explosão da dívida externa e contestação da sociedade civil. A abertura para um regime democrático liberal foi contraditória e bastante distinta de outras experiências históricas de transição. Leia atentamente o texto jornalístico e o gráfico que se seguem:\n“A Lei da Anistia e o esquecimento dos crimes da ditadura militar\nO exemplo argentino é citado por Cláudio Beserra de Vasconcelos, doutor em história pela UFRJ [...]. Os casos de corrupção dos governos militares [brasileiros] não são conhecidos porque não se podia investigar, pois a Anistia é uma lei do esquecimento. Na Argentina isso é lembrado a todo momento com os processos julgados, as pessoas punidas e as ações do grupo Mães da Praça de Maio', diz Vasconcelos.\n‘Enquanto outros países fizeram uma mudança de governo com julgamentos e punições, no Brasil houve uma transição pelo alto. Não houve uma ruptura, foi um processo lento e negociado, que começou com o Ernesto Geisel, ainda na década de 1970. Uma elite militar e política fez a mudança, não a sociedade [...]', aponta Vasconcelos.\nA advogada alemã Lilli Löbsack [...] menciona o exemplo de países que optaram por investigar e punir graves violações de direitos humanos, como a Argentina após a ditadura de 1976 a 1983 e a Alemanha após o regime nazista.\n‘A Argentina condenou mais de 150 militares e policiais que cometeram crimes na ditadura daquele país. A Alemanha também julgou e condenou criminosos nazistas a partir do Julgamento de Nurembergue. Até hoje a Alemanha lembra esses crimes e investiga. Por exemplo, em abril deste ano, a Promotoria de Stuttgart abriu um inquérito contra um policial do campo de concentração de Auschwitz-Birkenau por ele ter prestado assistência em mais de 13 mil casos de homicídio', conta Löbsack” (disponível em https://www.dw.$com/pt$-$br/a$-lei-da-anistia-e-o-esquecimento-dos-crimes-da-ditadura-$militar/a$-45082182 Acesso em 01/09/2019).\n[IMAGEM: Gráfico \"Salário Mínimo Real, 1958-2018\" com marcos da Ditadura Militar e Planos Econômicos.]\n(disponível em https://www.bbc.com/portuguese/brasil-45960213. Acesso em 01/09/2019)\nAssinale a única afirmativa falsa sobre o período da ditadura civil-militar brasileira, entre 1964 e 1985.",
       subItens: []
     },
     options: [
@@ -1359,7 +1359,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Geografia", "História"],
-    conteudo: ["Geografia Agrária (Reforma Agrária, Ligas Camponesas)", "Brasil (Contexto Pré-Ditadura/Anos 60)"],
+    conteudo: ["Geografia Agrária (Reforma Agrária, Ligas Camponesas)", "Brasil (Contexto Pré-$Ditadura/Anos$ 60)"],
     imageNames: []
 }),
 
@@ -1389,7 +1389,7 @@ createQuestion({
     university: "uerr",
     year: 2020,
     text: {
-      principal: "A figura abaixo demonstra a dinâmica de interação das placas tectônicas. Com base nela, identifique a que placa se refere e suas características\n[IMAGEM: Três diagramas mostrando diferentes tipos de limites de placas tectônicas: convergente, divergente e transformante.]\nFonte:https://s3-sa-east-1.amazonaws.com/manual-do-enem-test/3325b709c54e49808b0d07a3fef50743-placas%20tectonicas%201.png",
+      principal: "A figura abaixo demonstra a dinâmica de interação das placas tectônicas. Com base nela, identifique a que placa se refere e suas características\n[IMAGEM: Três diagramas mostrando diferentes tipos de limites de placas tectônicas: convergente, divergente e transformante.]\nFonte:https://s3-sa-east-1.amazonaws.$com/manual$-do-enem-$test/3325b709c54e49808b0d07a3fef50743$-placas%20tectonicas%201.png",
       subItens: []
     },
     options: [

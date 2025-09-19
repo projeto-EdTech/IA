@@ -14,7 +14,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Língua Portuguesa", "Literatura Brasileira"],
-    conteudo: ["Interpretação de texto literário", "Arcadismo/Bocage"],
+    conteudo: ["Interpretação de texto literário", "$Arcadismo/Bocage$"],
     imageNames: []
 }),
 
@@ -54,7 +54,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa", "Sociologia", "Biologia"],
-    conteudo: ["Interpretação de texto jornalístico", "Tecnologia e sociedade", "Neurociência/Saúde mental"],
+    conteudo: ["Interpretação de texto jornalístico", "Tecnologia e sociedade", "Neurociê$ncia/Sa$úde mental"],
     imageNames: []
 }),
 
@@ -114,7 +114,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Literatura Brasileira"],
-    conteudo: ["Barroco", "Classicismo", "Arcadismo/Bocage", "Padre José de Anchieta"],
+    conteudo: ["Barroco", "Classicismo", "$Arcadismo/Bocage$", "Padre José de Anchieta"],
     imageNames: []
 }),
 
@@ -463,13 +463,13 @@ createQuestion({
     university: "uepg",
     year: 2022,
     text: {
-      principal: "O estudo dos movimentos constitui o ramo da Física chamado Cinemática. Para analisarmos os tipos de movimentos nesse âmbito são necessários alguns conceitos básicos, sobre os quais são feitas as afirmações a seguir. Assinale o que for correto. 01) O fato de o deslocamento de um móvel ser positivo não significa que o movimento tenha sido sempre a favor da trajetória. 02) Considerando a distância de Ponta Grossa a Curitiba igual a 110 km, podemos afirmar que, se um carro vai de Ponta Grossa a Curitiba e depois volta a Ponta Grossa pelo mesmo caminho, seu deslocamento foi nulo e a distância percorrida foi igual a 220 km. 04) Em uma estrada onde a velocidade máxima permitida é de 110 km/h, um caminhão que se desloca a 40 m/s estará acima da velocidade máxima permitida. 08) Os conceitos de repouso e de movimento são sempre relativos a um referencial.",
+      principal: "O estudo dos movimentos constitui o ramo da Física chamado Cinemática. Para analisarmos os tipos de movimentos nesse âmbito são necessários alguns conceitos básicos, sobre os quais são feitas as afirmações a seguir. Assinale o que for correto. 01) O fato de o deslocamento de um móvel ser positivo não significa que o movimento tenha sido sempre a favor da trajetória. 02) Considerando a distância de Ponta Grossa a Curitiba igual a 110 km, podemos afirmar que, se um carro vai de Ponta Grossa a Curitiba e depois volta a Ponta Grossa pelo mesmo caminho, seu deslocamento foi nulo e a distância percorrida foi igual a 220 km. 04) Em uma estrada onde a velocidade máxima permitida é de 110 $km/h$, um caminhão que se desloca a 40 $m/s$ estará acima da velocidade máxima permitida. 08) Os conceitos de repouso e de movimento são sempre relativos a um referencial.",
       subItens: []
     },
     options: [
       "O fato de o deslocamento de um móvel ser positivo não significa que o movimento tenha sido sempre a favor da trajetória.",
       "Considerando a distância de Ponta Grossa a Curitiba igual a 110 km, podemos afirmar que, se um carro vai de Ponta Grossa a Curitiba e depois volta a Ponta Grossa pelo mesmo caminho, seu deslocamento foi nulo e a distância percorrida foi igual a 220 km.",
-      "Em uma estrada onde a velocidade máxima permitida é de 110 km/h, um caminhão que se desloca a 40 m/s estará acima da velocidade máxima permitida.",
+      "Em uma estrada onde a velocidade máxima permitida é de 110 $km/h$, um caminhão que se desloca a 40 $m/s$ estará acima da velocidade máxima permitida.",
       "Os conceitos de repouso e de movimento são sempre relativos a um referencial."
     ],
     correctAnswer: 0,
@@ -523,12 +523,12 @@ createQuestion({
     university: "uepg",
     year: 2022,
     text: {
-      principal: "O gráfico a seguir representa a variação de temperatura no decorrer do tempo para um corpo de massa 50 g que se encontra inicialmente no estado sólido e é constituído por uma só substância. A potência da fonte é constante e vale 30 cal/s. A partir desses dados, assinale o que for correto.\nT(°C)\n50\n10\n10 30 40 55\nt(s)\n-20\n01) A transformação que ocorre na faixa de tempe-ratura de 50 °C é chamada de liquefação. 02) O calor específico da substância que constitui o corpo, no estado sólido, vale 0,2 cal/g°C. 04) A grandeza potência, citada no enunciado da questão, tem como equação dimensional [P]=ML-2 T3. 08) Mesmo recebendo calor, em certos intervalos de tempo representados no gráfico, a temperatura do corpo permaneceu constante.",
+      principal: "O gráfico a seguir representa a variação de temperatura no decorrer do tempo para um corpo de massa 50 g que se encontra inicialmente no estado sólido e é constituído por uma só substância. A potência da fonte é constante e vale 30 $cal/s$. A partir desses dados, assinale o que for correto.\nT(°C)\n50\n10\n10 30 40 55\nt(s)\n-20\n01) A transformação que ocorre na faixa de tempe-ratura de 50 °C é chamada de liquefação. 02) O calor específico da substância que constitui o corpo, no estado sólido, vale 0,2 $cal/g$°C. 04) A grandeza potência, citada no enunciado da questão, tem como equação dimensional [P]=ML-2 T3. 08) Mesmo recebendo calor, em certos intervalos de tempo representados no gráfico, a temperatura do corpo permaneceu constante.",
       subItens: []
     },
     options: [
       "A transformação que ocorre na faixa de tempe-ratura de 50 °C é chamada de liquefação.",
-      "O calor específico da substância que constitui o corpo, no estado sólido, vale 0,2 cal/g°C.",
+      "O calor específico da substância que constitui o corpo, no estado sólido, vale 0,2 $cal/g$°C.",
       "A grandeza potência, citada no enunciado da questão, tem como equação dimensional [P]=ML-2 T3.",
       "Mesmo recebendo calor, em certos intervalos de tempo representados no gráfico, a temperatura do corpo permaneceu constante."
     ],
@@ -754,7 +754,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
-    conteudo: ["Logaritmos", "Potências", "Porcentagem/Inflação", "Conversão de unidades (GB/bits)"],
+    conteudo: ["Logaritmos", "Potências", "$Porcentagem/Infla$ção", "Conversão de unidades ($GB/bits$)"],
     imageNames: []
 }),
 
@@ -783,7 +783,7 @@ createQuestion({
     university: "uepg",
     year: 2022,
     text: {
-      principal: "Na música “Oração ao Tempo\" (Álbum Cinema Transcedental, Gravadora Phillips, 1979), o cantor e compositor Caetano Veloso diz: \"És um senhor tão bonito quanto a cara do meu filho/Tempo tempo tempo tempo, vou te fazer um pedido/Tempo tempo tempo tempo... Compositor de destinos, tambor de todos os ritmos/Tempo tempo tempo tempo, entro num acordo contigo/Tempo tempo tempo tempo... Por seres tão inventivo e pareceres contínuo/Tempo tempo tempo tempo, és um dos deuses mais lindos/Tempo tempo tempo tempo...\" Nessa canção, Veloso fala da passagem do tempo na vida de uma pessoa, mas sabe-se que o conceito de tempo pode ser compreendido de diferentes maneiras, em especial quando pensamos em um período histórico específico e na maneira como uma determinada sociedade se relaciona com a questão temporal. Ou seja, tempo é um conceito fundamental para se compreender e estudar a História. A respeito do tema, assinale o que for correto. 01) As sociedades somente começaram a se preocupar com as questões do tempo a partir da emergência do capitalismo e da invenção do relógio com ponteiros marcando horas e minutos. 02) Cada civilização ou matriz cultural pode conceber o tempo de formas diferentes. É possível, por exemplo, encontrarmos percepções cíclicas ou lineares do tempo ao longo da história. 04) Desde o surgimento da noção de tempo social, o único calendário utilizado pela humanidade é o chamado Calendário Gregoriano (que divide o ano em 365 dias). 08) A natureza serviu, em diferentes contextos históricos, como um elemento essencial de medição do tempo e de regulação de práticas e ações coletivas.",
+      principal: "Na música “Oração ao Tempo\" (Álbum Cinema Transcedental, Gravadora Phillips, 1979), o cantor e compositor Caetano Veloso diz: \"És um senhor tão bonito quanto a cara do meu $filho/Tempo$ tempo tempo tempo, vou te fazer um $pedido/Tempo$ tempo tempo tempo... Compositor de destinos, tambor de todos os $ritmos/Tempo$ tempo tempo tempo, entro num acordo $contigo/Tempo$ tempo tempo tempo... Por seres tão inventivo e pareceres contí$\\nuo/Tempo$ tempo tempo tempo, és um dos deuses mais $lindos/Tempo$ tempo tempo tempo...\" Nessa canção, Veloso fala da passagem do tempo na vida de uma pessoa, mas sabe-se que o conceito de tempo pode ser compreendido de diferentes maneiras, em especial quando pensamos em um período histórico específico e na maneira como uma determinada sociedade se relaciona com a questão temporal. Ou seja, tempo é um conceito fundamental para se compreender e estudar a História. A respeito do tema, assinale o que for correto. 01) As sociedades somente começaram a se preocupar com as questões do tempo a partir da emergência do capitalismo e da invenção do relógio com ponteiros marcando horas e minutos. 02) Cada civilização ou matriz cultural pode conceber o tempo de formas diferentes. É possível, por exemplo, encontrarmos percepções cíclicas ou lineares do tempo ao longo da história. 04) Desde o surgimento da noção de tempo social, o único calendário utilizado pela humanidade é o chamado Calendário Gregoriano (que divide o ano em 365 dias). 08) A natureza serviu, em diferentes contextos históricos, como um elemento essencial de medição do tempo e de regulação de práticas e ações coletivas.",
       subItens: []
     },
     options: [

@@ -3,7 +3,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2022,
     text: {
-      principal: "Atenção: Para responder às questões de números 1 a 8, baseie-se no texto abaixo.\nOs anos seguintes à proclamação da Independência, em 7 de setembro de 1822, foram marcados por agitações políticas e intensas negociações sobre a criação da nação brasileira e a definição de um perfil de Estado nacional. Era preciso investir na for-mação de uma elite intelectual capaz de gerir a pátria recém-emancipada, instituindo-lhe uma identidade própria, em oposição à portu-guesa. Mais do que novas leis, o país precisava de uma consciência jurídica, que deveria emanar de cursos estabelecidos em ter-ritório nacional. Foram esses, entre outros, os argumentos que deram o tom das discussões políticas que culminaram nas duas primeiras faculdades de direito do Brasil, em agosto de 1827, em São Paulo e Recife. \"A criação de escolas de direito nas regiões Sul e Norte, como se dizia à época, pretendia integrar as diferentes regiões do país, fortalecendo a unidade territorial\", explica a advogada e historiadora Ana Paula Araújo de Holanda, da Universidade de Fortaleza, Ceará.\nA proposta de criação de um curso de direito foi apresentada em 1823. Tratava-se de um pedido de brasileiros matriculados na Universidade de Coimbra, em Portugal, onde a maioria dos que pretendiam seguir nas profissões jurídicas estudava. O projeto, apresentado pelo advogado Fernandes Pinheiro, foi encaminhado para debate na Assembleia, e logo iniciaram-se as divergências sobre a localização dos cursos. Os debates transcorreram de forma apaixonada. \"Os parlamentares advogavam em favor de suas províncias de origem, já que desses cursos sairia a elite política do país\", comenta a advogada e historiadora Bistra Stefanova Apostolova, da Faculdade de Direito da Universidade de Brasília. O projeto aprovado na Assembleia Geral, no entanto, não rompeu totalmente com a tradição jurídica portuguesa. Houve desencontros entre as intenções dos parlamentares e a prática, segundo Bistra. Adotaram-se provisoriamente os Estatutos da Universidade de Coimbra.\nAmbas as faculdades tornaram-se importantes polos inspiradores das artes literárias e poéticas nacionais, contribuindo para a construção da identidade nacional. As instituições também foram importantes para os principais movimentos cívicos, literários e políticos que se seguiram ao longo das décadas no país, como os que levaram à proclamação da República, em 1889, e à Abolição, um ano antes.\n(Adaptado de ANDRADE, Rodrigo de Oliveira. \"Para formar homens de lei\". Revista Pesquisa Fapesp, out/2017)\nInfere-se do texto que os debates travados em favor da criação de faculdades de direito no país estavam atrelados",
+      principal: "Atenção: Para responder às questões de números 1 a 8, baseie-se no texto abaixo.\nOs anos seguintes à proclamação da Independência, em 7 de setembro de 1822, foram marcados por agitações políticas e intensas negociações sobre a criação da nação brasileira e a definição de um perfil de Estado nacional. Era preciso investir na for-mação de uma elite intelectual capaz de gerir a pátria recém-emancipada, instituindo-lhe uma identidade própria, em oposição à portu-guesa. Mais do que novas leis, o país precisava de uma consciência jurídica, que deveria emanar de cursos estabelecidos em ter-ritório nacional. Foram esses, entre outros, os argumentos que deram o tom das discussões políticas que culminaram nas duas primeiras faculdades de direito do Brasil, em agosto de 1827, em São Paulo e Recife. \"A criação de escolas de direito nas regiões Sul e Norte, como se dizia à época, pretendia integrar as diferentes regiões do país, fortalecendo a unidade territorial\", explica a advogada e historiadora Ana Paula Araújo de Holanda, da Universidade de Fortaleza, Ceará.\nA proposta de criação de um curso de direito foi apresentada em 1823. Tratava-se de um pedido de brasileiros matriculados na Universidade de Coimbra, em Portugal, onde a maioria dos que pretendiam seguir nas profissões jurídicas estudava. O projeto, apresentado pelo advogado Fernandes Pinheiro, foi encaminhado para debate na Assembleia, e logo iniciaram-se as divergências sobre a localização dos cursos. Os debates transcorreram de forma apaixonada. \"Os parlamentares advogavam em favor de suas províncias de origem, já que desses cursos sairia a elite política do país\", comenta a advogada e historiadora Bistra Stefanova Apostolova, da Faculdade de Direito da Universidade de Brasília. O projeto aprovado na Assembleia Geral, no entanto, não rompeu totalmente com a tradição jurídica portuguesa. Houve desencontros entre as intenções dos parlamentares e a prática, segundo Bistra. Adotaram-se provisoriamente os Estatutos da Universidade de Coimbra.\nAmbas as faculdades tornaram-se importantes polos inspiradores das artes literárias e poéticas nacionais, contribuindo para a construção da identidade nacional. As instituições também foram importantes para os principais movimentos cívicos, literários e políticos que se seguiram ao longo das décadas no país, como os que levaram à proclamação da República, em 1889, e à Abolição, um ano antes.\n(Adaptado de ANDRADE, Rodrigo de Oliveira. \"Para formar homens de lei\". Revista Pesquisa Fapesp, $out/2017$)\nInfere-se do texto que os debates travados em favor da criação de faculdades de direito no país estavam atrelados",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2022,
     text: {
-      principal: "O calcário calcítico possui, em média, 50%, em massa, de CaCO3. A quantidade de CaCO3 do calcário calcítico, em mols, utili-zada quando 1.000 m² de solo mais alcalino for corrigido, é de, aproximadamente:\nDados: massas molares (g/mol) Ca = 40,0 C = 12,0 O = 16,0",
+      principal: "O calcário calcítico possui, em média, 50%, em massa, de CaCO3. A quantidade de CaCO3 do calcário calcítico, em mols, utili-zada quando 1.000 m² de solo mais alcalino for corrigido, é de, aproximadamente:\nDados: massas molares ($g/mol$) Ca = 40,0 C = 12,0 O = 16,0",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2022,
     text: {
-      principal: "Estima-se que existam 1,3 × 10^21 litros de água na Terra, sendo que 0,04% dessa água está em rios e lagos. Considere o calor específico e a densidade da água respectivamente iguais a 4 J/g. °C e 1,0 g/cm³ e suponha que, em média, a temperatura da água existente nos rios e lagos seja 20 °C. Se fornecêssemos à quantidade de água existente nos rios e lagos 1,0% da energia de 228 sextilhões de joules (2,28 × 10^23 J) citada no texto, sua temperatura final, seria, em graus Celsius, aproximadamente:",
+      principal: "Estima-se que existam 1,3 × $10^21$ litros de água na Terra, sendo que 0,04% dessa água está em rios e lagos. Considere o calor específico e a densidade da água respectivamente iguais a 4 $J/g$. °C e 1,0 $g/cm$³ e suponha que, em média, a temperatura da água existente nos rios e lagos seja 20 °C. Se fornecêssemos à quantidade de água existente nos rios e lagos 1,0% da energia de 228 sextilhões de joules (2,28 × $10^23$ J) citada no texto, sua temperatura final, seria, em graus Celsius, aproximadamente:",
       subItens: []
     },
     options: [
@@ -612,15 +612,15 @@ createQuestion({
     university: "puc-campinas",
     year: 2022,
     text: {
-      principal: "Considere que a massa da Terra seja igual a 6,0 × 10^24 kg e que sua velocidade média de translação ao redor do Sol seja 30 km/s. A energia cinética da Terra nesse movimento é maior do que a quantidade de calor responsável pelo aumento da temperatura dos oceanos nos últimos anos (2,28 × 10^23 J) de um fator aproximadamente igual a:",
+      principal: "Considere que a massa da Terra seja igual a 6,0 × $10^24$ kg e que sua velocidade média de translação ao redor do Sol seja 30 $km/s$. A energia cinética da Terra nesse movimento é maior do que a quantidade de calor responsável pelo aumento da temperatura dos oceanos nos últimos anos (2,28 × $10^23$ J) de um fator aproximadamente igual a:",
       subItens: []
     },
     options: [
-      "10^6",
-      "10^10",
-      "10^15",
-      "10^18",
-      "10^23"
+      "$10^6$",
+      "$10^10$",
+      "$10^15$",
+      "$10^18$",
+      "$10^23$"
     ],
     correctAnswer: 1,
     materia: ["Física", "Matemática"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2022,
     text: {
-      principal: "Um cilindro de aço, de densidade 7,8 g/cm³ e volume 30 cm³, está suspenso por um fio inextensível e de peso desprezível. Con-siderando a aceleração gravitacional igual a 10 m/s², a diferença entre as tensões sobre esse fio, em newtons, quando o cilindro está suspenso no ar e quando está totalmente submerso em um líquido de densidade 0,8 g/cm³, é:",
+      principal: "Um cilindro de aço, de densidade 7,8 $g/cm$³ e volume 30 cm³, está suspenso por um fio inextensível e de peso desprezível. Con-siderando a aceleração gravitacional igual a 10 $m/s$², a diferença entre as tensões sobre esse fio, em newtons, quando o cilindro está suspenso no ar e quando está totalmente submerso em um líquido de densidade 0,8 $g/cm$³, é:",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2022,
     text: {
-      principal: "Considere o mapa abaixo para responder à questão.\n[Map of Brazil with state initials and circles of varying sizes with values 55.000, 20.000, 10.000, 1.000, 500, 100, 50, 10. The circles are concentrated in the Southeast/South and some in the Northeast, indicating some kind of production or economic activity scale.]\n(Ferreira, Graça M.L. Atlas geográfico: espaço mundial. São Paulo: Moderna, 2010)\nO título adequado para o mapa é: Brasil –",
+      principal: "Considere o mapa abaixo para responder à questão.\n[Map of Brazil with state initials and circles of varying sizes with values 55.000, 20.000, 10.000, 1.000, 500, 100, 50, 10. The circles are concentrated in the $Southeast/South$ and some in the Northeast, indicating some kind of production or economic activity scale.]\n(Ferreira, Graça M.L. Atlas geográfico: espaço mundial. São Paulo: Moderna, 2010)\nO título adequado para o mapa é: Brasil –",
       subItens: []
     },
     options: [

@@ -27,10 +27,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4.",
-      "3/8.",
-      "1/2.",
-      "3/4."
+      "$1/4$.",
+      "$3/8$.",
+      "$1/2$.",
+      "$3/4$."
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -123,14 +123,14 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "Seja (a,b,c) uma progressão geométrica de números reais com a≠0. Definindo s=a+b+c, o menor valor possível para s/a é igual a",
+      principal: "Seja (a,b,c) uma progressão geométrica de números reais com a≠0. Definindo s=a+b+c, o menor valor possível para $s/a$ é igual a",
       subItens: []
     },
     options: [
-      "1/2.",
-      "2/3.",
-      "3/4.",
-      "4/5."
+      "$1/2$.",
+      "$2/3$.",
+      "$3/4$.",
+      "$4/5$."
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -163,7 +163,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "Considere a matriz quadrada de ordem 3,\n\nA=\n\nCOS X\n0\nsen x\n\n- sen x\n1\n0\n\n0\n0\nCOS X\n\nonde x é um número real.\n\nPodemos afirmar que",
+      principal: "Considere a matriz quadrada de ordem 3,\n\nA=\n\n$\\cos$ X\n0\n$\\sin$ x\n\n- $\\sin$ x\n1\n0\n\n0\n0\n$\\cos$ X\n\nonde x é um número real.\n\nPodemos afirmar que",
       subItens: []
     },
     options: [
@@ -227,9 +227,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4√2/3.",
-      "4/3.",
-      "3√2/4.",
+      "4√$2/3$.",
+      "$4/3$.",
+      "3√$2/4$.",
       "√2."
     ],
     correctAnswer: 0,
@@ -343,7 +343,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "Reproduz-se, abaixo, trecho de um sermão do bispo Cesário de Arles (470-542), dirigido a uma paróquia rural.\n\n\"Vede, irmãos, como quem recorre à Igreja em sua doença obtém a saúde do corpo e a remissão dos pecados. Se é possível, pois, encontrar este duplo benefício na Igreja, por que há infelizes que se empenham em causar mal a si mesmos, procurando os mais variados sortilégios: recorrendo a encantadores, a feitiçarias em fontes e árvores, amuletos, charlatães, videntes e adivinhos?\"\n\n(Fonte: http://www.institutosapientia.com.br/site/index.php?option=co_content&view=article&id=1397:sao-cesario-de-arles-sermao-13-para-uma-paroquia-rural&catid=28: outros-artigos&Itemid=285.)\n\nA partir desse sermão, escrito no sul da atual França, é correto afirmar que:",
+      principal: "Reproduz-se, abaixo, trecho de um sermão do bispo Cesário de Arles (470-542), dirigido a uma paróquia rural.\n\n\"Vede, irmãos, como quem recorre à Igreja em sua doença obtém a saúde do corpo e a remissão dos pecados. Se é possível, pois, encontrar este duplo benefício na Igreja, por que há infelizes que se empenham em causar mal a si mesmos, procurando os mais variados sortilégios: recorrendo a encantadores, a feitiçarias em fontes e árvores, amuletos, charlatães, videntes e adivinhos?\"\n\n(Fonte: http://www.institutosapientia.com.br/site/index.php?option=$co_content$&view=article&id=1397:sao-cesario-de-arles-sermao-13-para-uma-paroquia-rural&catid=28: outros-artigos&Itemid=285.)\n\nA partir desse sermão, escrito no sul da atual França, é correto afirmar que:",
       subItens: []
     },
     options: [
@@ -563,7 +563,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "Sistema de Cabotagem no Brasil\n\n[Imagem de mapa do Brasil com rotas de cabotagem]\n\n(Fonte: http://www2.transportes.gov.br/bit/05-mar/cabotagem.html.)\n\nSobre o papel da cabotagem no processo de formação do território brasileiro, é correto afirmar:",
+      principal: "Sistema de Cabotagem no Brasil\n\n[Imagem de mapa do Brasil com rotas de cabotagem]\n\n(Fonte: http://www2.transportes.gov.br/bit/05-$mar/cabotagem$.html.)\n\nSobre o papel da cabotagem no processo de formação do território brasileiro, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -643,7 +643,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "A figura a seguir exibe a imagem de um ciclone.\n\n[Imagem de um ciclone]\n\n(http://www.metsul.com/secoes/visualiza.php?cod_subsecao=30&cod_texto=6.)\n\nÉ correto afirmar que o ciclone em questão",
+      principal: "A figura a seguir exibe a imagem de um ciclone.\n\n[Imagem de um ciclone]\n\n(http://www.metsul.com/secoes/visualiza.php?$cod_subsecao$=30&$cod_texto$=6.)\n\nÉ correto afirmar que o ciclone em questão",
       subItens: []
     },
     options: [
@@ -728,7 +728,7 @@ createQuestion({
     },
     options: [
       "O verbo \"equivale” relaciona a valorização da malandragem à negação da justiça, da igualdade perante a lei e das instituições democráticas.",
-      "Entre os pares de termos \"benigna/maligna\" e \"maximalista/reducionista\" estabelece-se no texto uma relação semântica de equivalência.",
+      "Entre os pares de termos \"$benigna/maligna$\" e \"$maximalista/reducionista$\" estabelece-se no texto uma relação semântica de equivalência.",
       "O elogio da malandragem reside na valorização da criatividade adaptativa e da sensibilidade em contraposição à fria aplicação da lei.",
       "O articulador discursivo \"porém” introduz um argumento que se contrapõe à proposta de valorização da malandragem."
     ],
@@ -823,7 +823,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "Leia o poema \"Mar Português\", de Fernando Pessoa.\n\nMAR PORTUGUÊS\n\nÓ mar salgado, quanto do teu sal\nSão lágrimas de Portugal!\nPor te cruzarmos, quantas mães choraram,\nQuantos filhos em vão rezaram!\nQuantas noivas ficaram por casar\nPara que fosses nosso, ó mar!\n\nValeu a pena? Tudo vale a pena\nSe a alma não é pequena.\nQuem quer passar além do Bojador\nTem que passar além da dor.\nDeus ao mar o perigo e o abismo deu,\nMas nele é que espelhou o céu.\n\n(Disponível em http://www.jornaldepoesia.jor.br/fpesso03.html.)\n\nNo poema, a apóstrofe, uma figura de linguagem, indica que o enunciador",
+      principal: "Leia o poema \"Mar Português\", de Fernando Pessoa.\n\nMAR PORTUGUÊS\n\nÓ mar salgado, quanto do teu sal\nSão lágrimas de Portugal!\nPor te cruzarmos, quantas mães choraram,\nQuantos filhos em vão rezaram!\nQuantas noivas ficaram por casar\nPara que fosses nosso, ó mar!\n\nValeu a pena? Tudo vale a pena\nSe a alma não é pequena.\nQuem quer passar além do Bojador\nTem que passar além da dor.\nDeus ao mar o perigo e o abismo deu,\nMas nele é que espelhou o céu.\n\n(Disponível em http://www.jornaldepoesia.jor.$br/fpesso03$.html.)\n\nNo poema, a apóstrofe, uma figura de linguagem, indica que o enunciador",
       subItens: []
     },
     options: [
@@ -1007,10 +1007,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1,4 m/s.",
-      "30 m/s.",
-      "45 m/s.",
-      "140 m/s."
+      "1,4 $m/s$.",
+      "30 $m/s$.",
+      "45 $m/s$.",
+      "140 $m/s$."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "A demanda por trens de alta velocidade tem crescido em todo o mundo. Uma preocupação importante no projeto desses trens é o conforto dos passageiros durante a aceleração. Sendo assim, considere que, em uma viagem de trem de alta velocidade, a aceleração experimentada pelos passageiros foi limitada a amax = 0,09g, onde g=10 m/s² é a aceleração da gravidade. Se o trem acelera a partir do repouso com aceleração constante igual a amax, a distância mínima percorrida pelo trem para atingir uma velocidade de 1080 km/h corresponde a",
+      principal: "A demanda por trens de alta velocidade tem crescido em todo o mundo. Uma preocupação importante no projeto desses trens é o conforto dos passageiros durante a aceleração. Sendo assim, considere que, em uma viagem de trem de alta velocidade, a aceleração experimentada pelos passageiros foi limitada a amax = 0,09g, onde g=10 $m/s$² é a aceleração da gravidade. Se o trem acelera a partir do repouso com aceleração constante igual a amax, a distância mínima percorrida pelo trem para atingir uma velocidade de 1080 $km/h$ corresponde a",
       subItens: []
     },
     options: [
@@ -1103,14 +1103,14 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "Tempestades solares são causadas por um fluxo intenso de partículas de altas energias ejetadas pelo Sol durante erupções solares. Esses jatos de partículas podem transportar bilhões de toneladas de gás eletrizado em altas velocidades, que podem trazer riscos de danos aos satélites em torno da Terra.\n\nConsidere que, em uma erupção solar em particular, um conjunto de partículas de massa total mp = 5 kg, deslocando-se com velocidade de módulo vp = 2x10⁵ m/s, choca-se com um satélite de massa Ms = 95 kg que se desloca com velocidade de módulo igual a Vs = 4x10³ m/s na mesma direção e em sentido contrário ao das partículas. Se a massa de partículas adere ao satélite após a colisão, o módulo da velocidade final do conjunto será de",
+      principal: "Tempestades solares são causadas por um fluxo intenso de partículas de altas energias ejetadas pelo Sol durante erupções solares. Esses jatos de partículas podem transportar bilhões de toneladas de gás eletrizado em altas velocidades, que podem trazer riscos de danos aos satélites em torno da Terra.\n\nConsidere que, em uma erupção solar em particular, um conjunto de partículas de massa total mp = 5 kg, deslocando-se com velocidade de módulo vp = 2x10⁵ $m/s$, choca-se com um satélite de massa Ms = 95 kg que se desloca com velocidade de módulo igual a Vs = 4x10³ $m/s$ na mesma direção e em sentido contrário ao das partículas. Se a massa de partículas adere ao satélite após a colisão, o módulo da velocidade final do conjunto será de",
       subItens: []
     },
     options: [
-      "102.000 m/s.",
-      "14.000 m/s.",
-      "6.200 m/s.",
-      "3.900 m/s."
+      "102.000 $m/s$.",
+      "14.000 $m/s$.",
+      "6.200 $m/s$.",
+      "3.900 $m/s$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -1163,7 +1163,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "Anemômetros são instrumentos usados para medir a velocidade do vento. A sua construção mais conhecida é a proposta por Robinson em 1846, que consiste em um rotor com quatro conchas hemisféricas presas por hastes, conforme figura abaixo. Em um anemômetro de Robinson ideal, a velocidade do vento é dada pela velocidade linear das conchas. Um anemômetro em que a distância entre as conchas e o centro de rotação é r=25 cm, em um dia cuja velocidade do vento é v=18 km/h, teria uma frequência de rotação de\n\n[Imagem de anemômetro]\n\nSe necessário, considere π≈3.",
+      principal: "Anemômetros são instrumentos usados para medir a velocidade do vento. A sua construção mais conhecida é a proposta por Robinson em 1846, que consiste em um rotor com quatro conchas hemisféricas presas por hastes, conforme figura abaixo. Em um anemômetro de Robinson ideal, a velocidade do vento é dada pela velocidade linear das conchas. Um anemômetro em que a distância entre as conchas e o centro de rotação é r=25 cm, em um dia cuja velocidade do vento é v=18 $km/h$, teria uma frequência de rotação de\n\n[Imagem de anemômetro]\n\nSe necessário, considere π≈3.",
       subItens: []
     },
     options: [
@@ -1183,7 +1183,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "Beisebol é um esporte que envolve o arremesso, com a mão, de uma bola de 140 g de massa na direção de outro jogador que irá rebatê-la com um taco sólido. Considere que, em um arremesso, o módulo da velocidade da bola chegou a 162 km/h, imediatamente após deixar a mão do arremessador. Sabendo que o tempo de contato entre a bola e a mão do jogador foi de 0,07 s, o módulo da força média aplicada na bola foi de",
+      principal: "Beisebol é um esporte que envolve o arremesso, com a mão, de uma bola de 140 g de massa na direção de outro jogador que irá rebatê-la com um taco sólido. Considere que, em um arremesso, o módulo da velocidade da bola chegou a 162 $km/h$, imediatamente após deixar a mão do arremessador. Sabendo que o tempo de contato entre a bola e a mão do jogador foi de 0,07 s, o módulo da força média aplicada na bola foi de",
       subItens: []
     },
     options: [
@@ -1607,10 +1607,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "líquidos inflamáveis, os dois agentes formam uma nuvem de gás, mas com sólidos em combustão, somente o material viscoso é capaz de inibir completamente o contato combustível/comburente.",
-      "líquidos inflamáveis, os dois agentes formam uma nuvem de gás, mas com sólidos em combustão, somente o material particulado é capaz de inibir completamente o contato combustível/comburente.",
-      "materiais sólidos em combustão, os dois agentes inibem completamente o contato combustível/comburente, mas com líquidos em combustão, somente o NaHCO₃ é capaz de inibir este contato.",
-      "materiais sólidos em combustão, os dois agentes inibem completamente o contato combustível/comburente, mas com líquidos em combustão, somente o (NH₄)H₂PO₄ é capaz de inibir este contato."
+      "líquidos inflamáveis, os dois agentes formam uma nuvem de gás, mas com sólidos em combustão, somente o material viscoso é capaz de inibir completamente o contato combustí$vel/comburente$.",
+      "líquidos inflamáveis, os dois agentes formam uma nuvem de gás, mas com sólidos em combustão, somente o material particulado é capaz de inibir completamente o contato combustí$vel/comburente$.",
+      "materiais sólidos em combustão, os dois agentes inibem completamente o contato combustí$vel/comburente$, mas com líquidos em combustão, somente o NaHCO₃ é capaz de inibir este contato.",
+      "materiais sólidos em combustão, os dois agentes inibem completamente o contato combustí$vel/comburente$, mas com líquidos em combustão, somente o (NH₄)H₂PO₄ é capaz de inibir este contato."
     ],
     correctAnswer: 0,
     materia: ["Química"],
@@ -1623,7 +1623,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "A tira tematiza a contribuição da atividade humana para a deterioração do meio ambiente. Do diálogo apresentado, pode-se depreender que os ursos já sabiam\n\n[Charge de ursos polares conversando sobre poluição]\n\n(Fonte: http://www.caglecartoons.com/viewimage.asp?ID={15E52E8D-3CE2-4DF6-B331-D109F2DD2BBC}.)",
+      principal: "A tira tematiza a contribuição da atividade humana para a deterioração do meio ambiente. Do diálogo apresentado, pode-se depreender que os ursos já sabiam\n\n[Charge de ursos polares conversando sobre poluição]\n\n(Fonte: http://www.caglecartoons.$com/viewimage$.asp?ID={15E52E8D-3CE2-4DF6-B331-D109F2DD2BBC}.)",
       subItens: []
     },
     options: [
@@ -1683,7 +1683,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "The Future of Food\n\nSCENARIO PLANNING TRAINING\n\nIn 2030...\nWhat will we eat?\nWhere will our food come from?\nWill we all have enough?\n\nUsing the global system as a backdrop, expert scenario practitioners will help you apply the methodology that systematically imagines multiple futures and their risks and opportunities\n\nSTART ONLINE, THEN COME TO STANFORD UNIVERSITY\nApplication deadline AUGUST 3, 2015\n\nOnline content opens August 10, 2015\nOnsite Immersion at Stanford Sept. 28-Oct. 1, 2015\n\nApply now at WORLDVIEW.STANFORD.EDU\n\nSPACE LIMITED TO 32 PARTICIPANTS\n\n(Adaptado de Stanford Magazine, July/August 2015, p.3.)\n\nO texto anuncia um",
+      principal: "The Future of Food\n\nSCENARIO PLANNING TRAINING\n\nIn 2030...\nWhat will we eat?\nWhere will our food come from?\nWill we all have enough?\n\nUsing the global system as a backdrop, expert scenario practitioners will help you apply the methodology that systematically imagines multiple futures and their risks and opportunities\n\nSTART ONLINE, THEN COME TO STANFORD UNIVERSITY\nApplication deadline AUGUST 3, 2015\n\nOnline content opens August 10, 2015\nOnsite Immersion at Stanford Sept. 28-Oct. 1, 2015\n\nApply now at WORLDVIEW.STANFORD.EDU\n\nSPACE LIMITED TO 32 PARTICIPANTS\n\n(Adaptado de Stanford Magazine, $July/August$ 2015, p.3.)\n\nO texto anuncia um",
       subItens: []
     },
     options: [
@@ -1743,7 +1743,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "If apes go extinct, so could entire forests\n\nBonobos eat a lot of fruit, and fruit contains seeds. Those seeds travel through a bonobo's digestive system while bonobo itself travels around the forest. A few hours later, the seeds end up being deposited far from where the fruits were plucked. And that is where the new trees come from.\n\nAccording to a paper recently published, if the bonobos disappeared, the plants would also likely go extinct, for many trees and plants species in Congo rely almost exclusively on bonobos for seed dispersal.\n\nThe bonobo has two major functions here. First of all, many seeds will not germinate well unless they have been \"handled\" by another species. Stomach acids and intestinal processes make the seed more able to absorb water and later sprout.\n\nSecondly, many seeds will not succeed if they remain too close to their parental trees. The seeds that fell to the ground near their parents did not survive because they were choked off by the nearby plants. The bonobos eat about 3,5 hours every day and travel a mean of 1.2 kilometers from meal sites before defecating.\n\n(Adaptado de http://blogs.scientificamerican.com/extinction-countdown/if-apes-go-extinct-so-could-entire-forests/.)\n\nQual é a explicação para o título?",
+      principal: "If apes go extinct, so could entire forests\n\nBonobos eat a lot of fruit, and fruit contains seeds. Those seeds travel through a bonobo's digestive system while bonobo itself travels around the forest. A few hours later, the seeds end up being deposited far from where the fruits were plucked. And that is where the new trees come from.\n\nAccording to a paper recently published, if the bonobos disappeared, the plants would also likely go extinct, for many trees and plants species in Congo rely almost exclusively on bonobos for seed dispersal.\n\nThe bonobo has two major functions here. First of all, many seeds will not germinate well unless they have been \"handled\" by another species. Stomach acids and intestinal processes make the seed more able to absorb water and later sprout.\n\nSecondly, many seeds will not succeed if they remain too close to their parental trees. The seeds that fell to the ground near their parents did not survive because they were choked off by the nearby plants. The bonobos eat about 3,5 hours every day and travel a mean of 1.2 kilometers from meal sites before defecating.\n\n(Adaptado de http://blogs.scientificamerican.$com/extinction$-$countdown/if$-apes-go-extinct-so-could-entire-forests/.)\n\nQual é a explicação para o título?",
       subItens: []
     },
     options: [
@@ -1763,7 +1763,7 @@ createQuestion({
     university: "unicamp",
     year: 2016,
     text: {
-      principal: "Para as questões 89 e 90, leia o texto abaixo.\n\nWe've modified our behavior so we can text and walk\n\nTexting – or checking social media or reading/responding to mail or reading the news or checking the weather or watching a video while walking is a pretty common phenomenon. It's so common that most people who own a mobile device have become texting walkers.\n\nResearch suggests that these texters adopt protective measures to minimize the risk of accidents when walking. They're less likely to trip because they shorten their step length, reduce step frequency, lengthen the time during which both feet are in contact with the ground, and increase obstacle clearance height. Taken together this creates an exaggerated image of walking, but it apparently slows the walker enough so that he registers some of what is happening around him and can compensate for it.\n\n(Adaptado de http://blogs.scientificamerican.com/anthropology-in-practice/we-ve-modified-our-behavior-so-we-can-text-and-walk/.)\n\nSegundo o texto, \"Texting walkers\" são pessoas que",
+      principal: "Para as questões 89 e 90, leia o texto abaixo.\n\nWe've modified our behavior so we can text and walk\n\nTexting – or checking social media or $reading/responding$ to mail or reading the news or checking the weather or watching a video while walking is a pretty common phenomenon. It's so common that most people who own a mobile device have become texting walkers.\n\nResearch suggests that these texters adopt protective measures to minimize the risk of accidents when walking. They're less likely to trip because they shorten their step length, reduce step frequency, lengthen the time during which both feet are in contact with the ground, and increase obstacle clearance height. Taken together this creates an exaggerated image of walking, but it apparently slows the walker enough so that he registers some of what is happening around him and can compensate for it.\n\n(Adaptado de http://blogs.scientificamerican.$com/anthropology$-in-$practice/we$-ve-modified-our-behavior-so-we-can-text-and-walk/.)\n\nSegundo o texto, \"Texting walkers\" são pessoas que",
       subItens: []
     },
     options: [

@@ -1053,7 +1053,7 @@ createQuestion({
     university: "ufrgs",
     year: 2016,
     text: {
-      principal: "Observe o mapa abaixo.\nFonte: <http://minhageografiadissotudo.blogspot.com.br/2014_04_01_archive.html>.\nAcesso em: 26 ago. 2015.\nSobre a localização geográfica dos pontos marcados no planisfério, é correto afirmar que",
+      principal: "Observe o mapa abaixo.\nFonte: <http://minhageografiadissotudo.blogspot.com.$br/2014_04_01_archive$.html>.\nAcesso em: 26 ago. 2015.\nSobre a localização geográfica dos pontos marcados no planisfério, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "ufrgs",
     year: 2016,
     text: {
-      principal: "Observe a figura abaixo.\nFonte:<http://www.geografiaparatodos.com.br/capitulo_2_a_localizacao_no_espaco_e_os_sistemas_de_info\nrmacoes_geograficas_files/image046.gif>. Acesso em: 26 ago. 2015.\nConsidere as afirmações sobre a posição geográfica de Natal (Brasil) e Murmansk (Rússia) e suas \nmédias anuais de temperatura.\nI - Murmansk localiza-se em altas latitudes (zona glacial), onde os raios solares atingem a \nsuperfície de forma muito inclinada, registrando baixas temperaturas ao longo do ano.\nII - Natal localiza-se na zona temperada, onde os raios solares atingem a superfície verticalmente, \nelevando as temperaturas.\nIII- A curvatura da superfície da Terra e a inclinação do eixo de rotação em relação aos raios solares \nsão fatores que, combinados, explicam a diferença nas médias anuais de temperatura entre \nNatal e Murmansk.\nQuais estão corretas?",
+      principal: "Observe a figura abaixo.\nFonte:<http://www.geografiaparatodos.com.$br/capitulo_2_a_localizacao_no_espaco_e_os_sistemas_de_info$\n$rmacoes_geograficas_files/image046$.gif>. Acesso em: 26 ago. 2015.\nConsidere as afirmações sobre a posição geográfica de Natal (Brasil) e Murmansk (Rússia) e suas \nmédias anuais de temperatura.\nI - Murmansk localiza-se em altas latitudes (zona glacial), onde os raios solares atingem a \nsuperfície de forma muito inclinada, registrando baixas temperaturas ao longo do ano.\nII - Natal localiza-se na zona temperada, onde os raios solares atingem a superfície verticalmente, \nelevando as temperaturas.\nIII- A curvatura da superfície da Terra e a inclinação do eixo de rotação em relação aos raios solares \nsão fatores que, combinados, explicam a diferença nas médias anuais de temperatura entre \nNatal e Murmansk.\nQuais estão corretas?",
       subItens: []
     },
     options: [
@@ -1326,7 +1326,7 @@ createQuestion({
     university: "ufrgs",
     year: 2016,
     text: {
-      principal: "Observe o mapa abaixo.\nFonte: <http://atlasescolar.ibge.gov.br/images/atlas/mapas_mundo/mundo_mulheres_\neconomicamente_ativas.pdf>. Acesso em: 11 set. 2015.\nConsidere as informações abaixo, contidas no mapa, sobre Mulheres Economicamente Ativas em \n2010 no mundo.\nI - Os países mais ricos têm, proporcionalmente, maior quantidade de mulheres que participam do \nmercado de trabalho.\nII - O mapa mostra que a participação da mulher nas atividades econômicas está presente na maior \nparte dos países.\nIII- Os países considerados menos desenvolvidos possuem a maior participação relativa \ndas mulheres na população economicamente ativa.\nQuais estão corretas?",
+      principal: "Observe o mapa abaixo.\nFonte: <http://atlasescolar.ibge.gov.br/images/atlas/mapas_mundo/mundo_mulheres_\n$economicamente_ativas$.pdf>. Acesso em: 11 set. 2015.\nConsidere as informações abaixo, contidas no mapa, sobre Mulheres Economicamente Ativas em \n2010 no mundo.\nI - Os países mais ricos têm, proporcionalmente, maior quantidade de mulheres que participam do \nmercado de trabalho.\nII - O mapa mostra que a participação da mulher nas atividades econômicas está presente na maior \nparte dos países.\nIII- Os países considerados menos desenvolvidos possuem a maior participação relativa \ndas mulheres na população economicamente ativa.\nQuais estão corretas?",
       subItens: []
     },
     options: [
@@ -1347,7 +1347,7 @@ createQuestion({
     university: "ufrgs",
     year: 2016,
     text: {
-      principal: "Observe o mapa abaixo.\nFonte: Alto Comissariado das Nações Unidas para os Refugiados (ACNUR): \n<http://www.unhcr.org/54aa91d89.html>. Acesso em: 05 out. 2015.\nConsidere as afirmações abaixo, sobre a questão dos refugiados.\nI - Os refugiados procuram principalmente países considerados ricos e desenvolvidos.\nII - Estados Unidos, Alemanha e França são os países que mais recebem refugiados.\nIII- O maior número de refugiados localiza-se em países da África e da Ásia.\nQuais estão corretas?",
+      principal: "Observe o mapa abaixo.\nFonte: Alto Comissariado das Nações Unidas para os Refugiados (ACNUR): \n<http://www.unhcr.$org/54aa91d89$.html>. Acesso em: 05 out. 2015.\nConsidere as afirmações abaixo, sobre a questão dos refugiados.\nI - Os refugiados procuram principalmente países considerados ricos e desenvolvidos.\nII - Estados Unidos, Alemanha e França são os países que mais recebem refugiados.\nIII- O maior número de refugiados localiza-se em países da África e da Ásia.\nQuais estão corretas?",
       subItens: []
     },
     options: [
@@ -1410,7 +1410,7 @@ createQuestion({
     university: "ufrgs",
     year: 2016,
     text: {
-      principal: "Observe o gráfico abaixo, sobre as estimativas das populações residentes nos municípios brasileiros,\ndivulgado pelo IBGE, com data de referência de 1º de julho de 2015.\nFonte: <http://saladeimprensa.ibge.gov.br/noticias?view=noticia&id=1&busca=1&idnoticia=2972>. \nAcesso em: 12 set. 2015.\nConsidere as afirmações sobre a distribuição da população nos municípios brasileiros.\nI - Mais da metade da população brasileira, 56%, vive em apenas 5,5% dos municípios, que são \naqueles com até 100 mil habitantes, indicando que as pessoas concentram-se em grandes \ncentros urbanos.\nII - Apenas 6,3% da população residem em 44% dos municípios com até 10.000 habitantes.\nIII- Somente 10% da população brasileira concentram-se em munícipios de 100.001 a 500.000 \nhabitantes.\nQuais estão corretas?",
+      principal: "Observe o gráfico abaixo, sobre as estimativas das populações residentes nos municípios brasileiros,\ndivulgado pelo IBGE, com data de referência de 1º de julho de 2015.\nFonte: <http://saladeimprensa.ibge.gov.$br/noticias$?view=noticia&id=1&busca=1&idnoticia=2972>. \nAcesso em: 12 set. 2015.\nConsidere as afirmações sobre a distribuição da população nos municípios brasileiros.\nI - Mais da metade da população brasileira, 56%, vive em apenas 5,5% dos municípios, que são \naqueles com até 100 mil habitantes, indicando que as pessoas concentram-se em grandes \ncentros urbanos.\nII - Apenas 6,3% da população residem em 44% dos municípios com até 10.000 habitantes.\nIII- Somente 10% da população brasileira concentram-se em munícipios de 100.001 a 500.000 \nhabitantes.\nQuais estão corretas?",
       subItens: []
     },
     options: [

@@ -423,7 +423,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2015,
     text: {
-      principal: "Uma caixa de massa 2,0 kg está apoiada numa superfície horizontal perfeitamente lisa, estando sujeita a duas forças F₁ e F2 horizontais e perpendiculares entre si. A força F₁ tem intensidade 8,0 N e a caixa apresenta aceleração de 5,0 m/s². Nestas condições, a intensidade da força F₂ é, em newtons,",
+      principal: "Uma caixa de massa 2,0 kg está apoiada numa superfície horizontal perfeitamente lisa, estando sujeita a duas forças F₁ e F2 horizontais e perpendiculares entre si. A força F₁ tem intensidade 8,0 N e a caixa apresenta aceleração de 5,0 $m/s$². Nestas condições, a intensidade da força F₂ é, em newtons,",
       subItens: []
     },
     options: [
@@ -549,7 +549,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2015,
     text: {
-      principal: "Atenção: Para responder às questões de números 27 e 28, considere o texto abaixo. \"Machiavellianism\" is a ____ used negative term to characterize unscrupulous politicians of the sort Machiavelli described in The Prince. The book itself gained enormous notoriety and wide readership because most readers assumed the author was teaching and endorsing evil and immoral behavior. Because of this, the term \"Machiavellian\" is often associated with deceit, deviousness, ambition, and brutality. However that was Machiavelli's stylistic device to gain the reader's attention for his close analysis of the actual techniques used by rulers. (Adapted from: http://en.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli) The word that correctly fills in the blank is",
+      principal: "Atenção: Para responder às questões de números 27 e 28, considere o texto abaixo. \"Machiavellianism\" is a ____ used negative term to characterize unscrupulous politicians of the sort Machiavelli described in The Prince. The book itself gained enormous notoriety and wide readership because most readers assumed the author was teaching and endorsing evil and immoral behavior. Because of this, the term \"Machiavellian\" is often associated with deceit, deviousness, ambition, and brutality. However that was Machiavelli's stylistic device to gain the reader's attention for his close analysis of the actual techniques used by rulers. (Adapted from: http://en.wikipedia.org/wiki/Niccol%C3%$B2_Machiavelli$) The word that correctly fills in the blank is",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2015,
     text: {
-      principal: "Um corpo de massa 0,30 kg é lançado verticalmente para cima com velocidade de 40 m/s. Adota-se para a aceleração da gravidade g = 10 m/s². A altura máxima atingida pelo corpo é de 60 m acima do ponto de lançamento. Pode-se afirmar corretamente que, no movimento de subida do corpo, o trabalho da força de resistência do ar vale em joules",
+      principal: "Um corpo de massa 0,30 kg é lançado verticalmente para cima com velocidade de 40 $m/s$. Adota-se para a aceleração da gravidade g = 10 $m/s$². A altura máxima atingida pelo corpo é de 60 m acima do ponto de lançamento. Pode-se afirmar corretamente que, no movimento de subida do corpo, o trabalho da força de resistência do ar vale em joules",
       subItens: []
     },
     options: [
@@ -885,7 +885,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2015,
     text: {
-      principal: "Tradicionalmente o Brasil participa de grandes mercados mundiais. Considere o gráfico e as afirmações abaixo.\nExportações e importações brasileiras (2014)\nImagem: Gráfico de barras horizontais mostrando os valores de exportação e importação (em US$ bilhões FOB) do Brasil com diferentes regiões (Ásia, América Latina e Caribe, Mercosul, União Europeia, Estados Unidos) no ano de 2014. Os valores para cada região são: Ásia (Exportação: aproximadamente 75; Importação: aproximadamente 50); América Latina e Caribe (Exportação: aproximadamente 25; Importação: aproximadamente 15); Mercosul (Exportação: aproximadamente 25; Importação: aproximadamente 20); União Europeia (Exportação: aproximadamente 45; Importação: aproximadamente 60); Estados Unidos (Exportação: aproximadamente 20; Importação: aproximadamente 35).\n(http://www.aeb.org.br/graficos.asp)\nI. A China e o Japão são os principais clientes asiáticos do Brasil, pois são grandes importadores de commodities.\nII. A balança comercial brasileira é superavitária no comércio com os principais blocos econômicos mundiais.\nIII. As relações comerciais entre Brasil e Estados Unidos são deficitárias para o Brasil devido à queda de produção de ferro e manganês.\nA leitura do gráfico e os conhecimentos sobre a economia e o comércio exterior do Brasil no ano de 2014 permitem reconhecer como correto o que se afirma APENAS em",
+      principal: "Tradicionalmente o Brasil participa de grandes mercados mundiais. Considere o gráfico e as afirmações abaixo.\nExportações e importações brasileiras (2014)\nImagem: Gráfico de barras horizontais mostrando os valores de exportação e importação (em US$ bilhões FOB) do Brasil com diferentes regiões (Ásia, América Latina e Caribe, Mercosul, União Europeia, Estados Unidos) no ano de 2014. Os valores para cada região são: Ásia (Exportação: aproximadamente 75; Importação: aproximadamente 50); América Latina e Caribe (Exportação: aproximadamente 25; Importação: aproximadamente 15); Mercosul (Exportação: aproximadamente 25; Importação: aproximadamente 20); União Europeia (Exportação: aproximadamente 45; Importação: aproximadamente 60); Estados Unidos (Exportação: aproximadamente 20; Importação: aproximadamente 35).\n(http://www.aeb.org.$br/graficos$.asp)\nI. A China e o Japão são os principais clientes asiáticos do Brasil, pois são grandes importadores de commodities.\nII. A balança comercial brasileira é superavitária no comércio com os principais blocos econômicos mundiais.\nIII. As relações comerciais entre Brasil e Estados Unidos são deficitárias para o Brasil devido à queda de produção de ferro e manganês.\nA leitura do gráfico e os conhecimentos sobre a economia e o comércio exterior do Brasil no ano de 2014 permitem reconhecer como correto o que se afirma APENAS em",
       subItens: []
     },
     options: [

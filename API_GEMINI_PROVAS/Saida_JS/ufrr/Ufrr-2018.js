@@ -192,7 +192,7 @@ createQuestion({
     university: "ufrr",
     year: 2018,
     text: {
-      principal: "Um corpo de massa M está em equilíbrio sobre uma superfície horizontal. Considerando a situação descrita, assinale a alternativa INCORRETA. Nas questões a seguir considere g = 10 m/s²",
+      principal: "Um corpo de massa M está em equilíbrio sobre uma superfície horizontal. Considerando a situação descrita, assinale a alternativa INCORRETA. Nas questões a seguir considere g = 10 $m/s$²",
       subItens: []
     },
     options: [

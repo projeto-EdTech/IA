@@ -3,7 +3,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "A deficiência na enzima G6PD é uma condição recessiva ligada ao cromossomo X, que pode ser diagnosticada no teste do pezinho expandido. Pessoas com deficiência nesta enzima são suscetíveis à anemia hemolítica ao serem expostas à cloroquina ou primaquina, drogas amplamente prescritas por médicos no tratamento da malária. No Brasil, a prevalência de deficiência em G6PD na população geral varia de acordo com as áreas mostradas no mapa: Prevalência 1% 3% 5%. Dombrowski, J G et al. (2017), Malar J, 16:253, doi:10.1186/s12936-017-1889-6 e Monteiro, W M et al. (2014), Mem Inst Oswaldo Cruz, 109:5, 553-568, doi:10.1590/0074-0276140123. Adaptados. Indique a afirmação correta sobre a segurança da prescrição de cloroquina nesse contexto. Note e adote: População de três regiões brasileiras: Norte = 18 milhões; Nordeste = 58 milhões; Centro-Oeste = 17 milhões.",
+      principal: "A deficiência na enzima G6PD é uma condição recessiva ligada ao cromossomo X, que pode ser diagnosticada no teste do pezinho expandido. Pessoas com deficiência nesta enzima são suscetíveis à anemia hemolítica ao serem expostas à cloroquina ou primaquina, drogas amplamente prescritas por médicos no tratamento da malária. No Brasil, a prevalência de deficiência em G6PD na população geral varia de acordo com as áreas mostradas no mapa: Prevalência 1% 3% 5%. Dombrowski, J G et al. (2017), Malar J, 16:253, doi:10.$1186/s12936$-017-1889-6 e Monteiro, W M et al. (2014), Mem Inst Oswaldo Cruz, 109:5, 553-568, doi:10.$1590/0074$-0276140123. Adaptados. Indique a afirmação correta sobre a segurança da prescrição de cloroquina nesse contexto. Note e adote: População de três regiões brasileiras: Norte = 18 milhões; Nordeste = 58 milhões; Centro-Oeste = 17 milhões.",
       subItens: []
     },
     options: [
@@ -87,15 +87,15 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "O gráfico mostra dados coletados na cidade do Rio de Janeiro, entre fevereiro e abril de 2020, período que inclui o início das medidas de restrição de circulação na cidade por causa da pandemia de COVID-19. Para cada dia, representado por um símbolo no gráfico, foram coletadas duas grandezas: uma média da energia de vibração sísmica durante o dia (na abscissa) e o índice F (na ordenada), que é a fração de pessoas que saiu de casa alguma vez naquele dia. A energia sísmica média foi medida em (nm/s)² na faixa de frequências que tem causas humanas. Os triângulos representam domingos e feriados; os quadrados referem-se aos sábados; e os círculos correspondem aos dias úteis da semana. Para cada um desses subconjuntos de dados, uma reta média foi obtida, expressando a relação aproximada entre as duas grandezas medidas. F vs energia ([nm/s]²). Dias, F L et al. (2020), Geophysical Research Letters, 47:16, doi:10.1029/2020GL088748. Adaptado. Sobre o estudo descrito, o que é possível inferir a partir dos dados apresentados?",
+      principal: "O gráfico mostra dados coletados na cidade do Rio de Janeiro, entre fevereiro e abril de 2020, período que inclui o início das medidas de restrição de circulação na cidade por causa da pandemia de COVID-19. Para cada dia, representado por um símbolo no gráfico, foram coletadas duas grandezas: uma média da energia de vibração sísmica durante o dia (na abscissa) e o índice F (na ordenada), que é a fração de pessoas que saiu de casa alguma vez naquele dia. A energia sísmica média foi medida em ($nm/s$)² na faixa de frequências que tem causas humanas. Os triângulos representam domingos e feriados; os quadrados referem-se aos sábados; e os círculos correspondem aos dias úteis da semana. Para cada um desses subconjuntos de dados, uma reta média foi obtida, expressando a relação aproximada entre as duas grandezas medidas. F vs energia ([$nm/s$]²). Dias, F L et al. (2020), Geophysical Research Letters, 47:16, doi:10.$1029/2020GL088748$. Adaptado. Sobre o estudo descrito, o que é possível inferir a partir dos dados apresentados?",
       subItens: []
     },
     options: [
-      "Em nenhum sábado, a energia sísmica média registrada superou 380 (nm/s)².",
+      "Em nenhum sábado, a energia sísmica média registrada superou 380 ($nm/s$)².",
       "Em todos os dias úteis da semana, pelo menos 20% das pessoas permaneceram o tempo todo em casa.",
-      "Em alguns dos dias de domingo ou feriado, a energia sísmica média foi maior do que 600 (nm/s)².",
+      "Em alguns dos dias de domingo ou feriado, a energia sísmica média foi maior do que 600 ($nm/s$)².",
       "Em dias úteis da semana, a energia sísmica média foi maior ou igual do que em sábados, domingos e feriados, para o mesmo número de pessoas que saiu de casa em um dia.",
-      "Aos sábados, uma medição de energia sísmica média de 190 (nm/s)² indica que mais de 60% das pessoas saíram de casa nesse dia."
+      "Aos sábados, uma medição de energia sísmica média de 190 ($nm/s$)² indica que mais de 60% das pessoas saíram de casa nesse dia."
     ],
     correctAnswer: 3,
     materia: [],
@@ -108,7 +108,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "Os mapas mostram uma parte do município de São Paulo. O mapa I refere-se à população vacinada contra Sars-Cov-2; o mapa II refere-se à taxa de mortalidade por COVID-19; e o mapa III refere-se ao Índice de Desenvolvimento Humano. Tons mais claros indicam valores menores e tons mais escuros, valores maiores. Imunização com 2 doses, Mortalidade por COVID-19, Índice de Desenvolvimento Humano (IDH). Disponível em https://www.labcidade.fau.usp.br/. Maio/2021. Adaptado. A partir desses dados, é correto afirmar que",
+      principal: "Os mapas mostram uma parte do município de São Paulo. O mapa I refere-se à população vacinada contra Sars-Cov-2; o mapa II refere-se à taxa de mortalidade por COVID-19; e o mapa III refere-se ao Índice de Desenvolvimento Humano. Tons mais claros indicam valores menores e tons mais escuros, valores maiores. Imunização com 2 doses, Mortalidade por COVID-19, Índice de Desenvolvimento Humano (IDH). Disponível em https://www.labcidade.fau.usp.br/. $Maio/2021$. Adaptado. A partir desses dados, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "A figura sintetiza, de forma simplificada, a variação da pressão sanguínea (mmHg), da velocidade de circulação sanguínea (cm/s) e da área total (cm²) em relação aos diversos tipos de vasos do sistema sanguíneo humano (artérias, arteríolas, capilares, vênulas e veias): Valores progressivos vs. Tipos de vasos (Artérias, Arteríolas, Capilares, Vênulas, Veias) mostrando Pressão sanguínea, Velocidade, Área total. Com base na figura, é correto afirmar que",
+      principal: "A figura sintetiza, de forma simplificada, a variação da pressão sanguínea (mmHg), da velocidade de circulação sanguínea ($cm/s$) e da área total (cm²) em relação aos diversos tipos de vasos do sistema sanguíneo humano (artérias, arteríolas, capilares, vênulas e veias): Valores progressivos vs. Tipos de vasos (Artérias, Arteríolas, Capilares, Vênulas, Veias) mostrando Pressão sanguínea, Velocidade, Área total. Com base na figura, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 25 E 26 A taxação de livros tem um efeito cascata que acaba custando caro não apenas ao leitor, como também ao mercado editorial - que há anos não anda bem das pernas - e, em última instância, ao desenvolvimento econômico do país. A gente explica. Taxar um produto significa, quase sempre, um aumento no valor do produto final. Isso porque ao menos uma parte desse imposto será repassada ao consumidor, especialmente se considerarmos que as editoras e livrarias enfrentam há anos uma crise que agora está intensificada pela pandemia e não poderiam retirar o valor desse imposto de seu já apertado lucro. Livros mais caros também resultam em queda de vendas, que, por sua vez, enfraquece ainda mais editoras e as impede de investir em novas publicações - especialmente aquelas de menor apelo comercial, mas igualmente importantes para a pluralidade de ideias. Já deu para perceber a confusão, não é? Mas, além disso, qual seria o custo de uma sociedade com menos leitores e menos livros? Taís Ilhéu. \"Por que taxar os livros pode gerar retrocesso social e econômico no país\". Guia do Estudante. Setembro/2020. Adaptado. De acordo com o texto, os eventos sequenciais aos quais alude a expressão \"efeito cascata\" são:",
+      principal: "TEXTO PARA AS QUESTÕES 25 E 26 A taxação de livros tem um efeito cascata que acaba custando caro não apenas ao leitor, como também ao mercado editorial - que há anos não anda bem das pernas - e, em última instância, ao desenvolvimento econômico do país. A gente explica. Taxar um produto significa, quase sempre, um aumento no valor do produto final. Isso porque ao menos uma parte desse imposto será repassada ao consumidor, especialmente se considerarmos que as editoras e livrarias enfrentam há anos uma crise que agora está intensificada pela pandemia e não poderiam retirar o valor desse imposto de seu já apertado lucro. Livros mais caros também resultam em queda de vendas, que, por sua vez, enfraquece ainda mais editoras e as impede de investir em novas publicações - especialmente aquelas de menor apelo comercial, mas igualmente importantes para a pluralidade de ideias. Já deu para perceber a confusão, não é? Mas, além disso, qual seria o custo de uma sociedade com menos leitores e menos livros? Taís Ilhéu. \"Por que taxar os livros pode gerar retrocesso social e econômico no país\". Guia do Estudante. $Setembro/2020$. Adaptado. De acordo com o texto, os eventos sequenciais aos quais alude a expressão \"efeito cascata\" são:",
       subItens: []
     },
     options: [
@@ -549,7 +549,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "Chega um momento em que a tensão eu/mundo se exprime mediante uma perspectiva crítica, imanente à escrita, o que torna o romance não mais uma variante literária da rotina social, mas o seu avesso; logo, o oposto do discurso ideológico do homem médio. O romancista “imitaria\" a vida, sim, mas qual vida? Aquela cujo sentido dramático escapa a homens e mulheres entorpecidos ou automatizados por seus hábitos cotidianos. A vida como objeto de busca e construção, e não a vida como encadeamento de tempos vazios e inertes. Caso essa pobre vida-morte deva ser tematizada, ela aparecerá como tal, degradada, sem a aura positiva com que as palavras “realismo” e “realidade\" são usadas nos discursos que fazem a apologia conformista da \"vida como ela é\"... A escrita da resistência, a narrativa atravessada pela tensão crítica, mostra, sem retórica nem alarde ideológico, que essa \"vida como ela é” é, quase sempre, o ramerrão de um mecanismo alienante, precisamente o contrário da vida plena e digna de ser vivida. É nesse sentido que se pode dizer que a narrativa descobre a vida verdadeira, e que esta abraça e transcende a vida real. A literatura, com ser ficção, resiste à mentira. É nesse horizonte que o espaço da literatura, considerado em geral como lugar da fantasia, pode ser o lugar da verdade mais exigente. Alfredo Bosi. \"Narrativa e resistência\". Adaptado. O conceito de resistência, expresso pela tensão do indivíduo perante o mundo, adquire perspectiva crítica na escrita do romance quando o autor",
+      principal: "Chega um momento em que a tensão $eu/mundo$ se exprime mediante uma perspectiva crítica, imanente à escrita, o que torna o romance não mais uma variante literária da rotina social, mas o seu avesso; logo, o oposto do discurso ideológico do homem médio. O romancista “imitaria\" a vida, sim, mas qual vida? Aquela cujo sentido dramático escapa a homens e mulheres entorpecidos ou automatizados por seus hábitos cotidianos. A vida como objeto de busca e construção, e não a vida como encadeamento de tempos vazios e inertes. Caso essa pobre vida-morte deva ser tematizada, ela aparecerá como tal, degradada, sem a aura positiva com que as palavras “realismo” e “realidade\" são usadas nos discursos que fazem a apologia conformista da \"vida como ela é\"... A escrita da resistência, a narrativa atravessada pela tensão crítica, mostra, sem retórica nem alarde ideológico, que essa \"vida como ela é” é, quase sempre, o ramerrão de um mecanismo alienante, precisamente o contrário da vida plena e digna de ser vivida. É nesse sentido que se pode dizer que a narrativa descobre a vida verdadeira, e que esta abraça e transcende a vida real. A literatura, com ser ficção, resiste à mentira. É nesse horizonte que o espaço da literatura, considerado em geral como lugar da fantasia, pode ser o lugar da verdade mais exigente. Alfredo Bosi. \"Narrativa e resistência\". Adaptado. O conceito de resistência, expresso pela tensão do indivíduo perante o mundo, adquire perspectiva crítica na escrita do romance quando o autor",
       subItens: []
     },
     options: [
@@ -763,11 +763,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/8",
-      "1/4",
-      "1/2",
-      "√3/2",
-      "√3/3"
+      "$1/8$",
+      "$1/4$",
+      "$1/2$",
+      "√$3/2$",
+      "√$3/3$"
     ],
     correctAnswer: 0,
     materia: [],
@@ -822,7 +822,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "Em fevereiro de 2021, um grupo de físicos da Universidade Federal de Minas Gerais (UFMG) publicou um artigo que foi capa da importante revista Nature. O texto a seguir foi retirado de uma reportagem do site da UFMG sobre o artigo: O nanoscópio, prossegue Ado Jorio (professor da UFMG), ilumina a amostra com um microscópio óptico usual. O foco da luz tem o tamanho de um círculo de 1 micrômetro de diâmetro. “O que o nanoscópio faz é inserir uma nanoantena, que tem uma ponta com diâmetro de 10 nanômetros, dentro desse foco de 1 micrômetro e escanear essa ponta. A imagem com resolução nanométrica é formada por esse processo de escaneamento da nanoantena, que localiza o campo eletromagnético da luz em seu ápice”, afirma o professor. Itamar Rigueira Jr. \"Nanoscópio da UFMG possibilita compreender estrutura que torna grafeno supercondutor\". Adaptado. Disponível em https://ufmg.br/comunicacao/noticias/. Gadelha A C et al. (2021), Nature, 590, 405-409, doi: 10.1038/s41586-021-03252-5. Com base nos dados mencionados no texto, a razão entre o diâmetro do foco da luz de um microscópio óptico usual e o diâmetro da ponta da nanoantena utilizada no nanoscópio é da ordem de:",
+      principal: "Em fevereiro de 2021, um grupo de físicos da Universidade Federal de Minas Gerais (UFMG) publicou um artigo que foi capa da importante revista Nature. O texto a seguir foi retirado de uma reportagem do site da UFMG sobre o artigo: O nanoscópio, prossegue Ado Jorio (professor da UFMG), ilumina a amostra com um microscópio óptico usual. O foco da luz tem o tamanho de um círculo de 1 micrômetro de diâmetro. “O que o nanoscópio faz é inserir uma nanoantena, que tem uma ponta com diâmetro de 10 nanômetros, dentro desse foco de 1 micrômetro e escanear essa ponta. A imagem com resolução nanométrica é formada por esse processo de escaneamento da nanoantena, que localiza o campo eletromagnético da luz em seu ápice”, afirma o professor. Itamar Rigueira Jr. \"Nanoscópio da UFMG possibilita compreender estrutura que torna grafeno supercondutor\". Adaptado. Disponível em https://ufmg.br/comunicacao/noticias/. Gadelha A C et al. (2021), Nature, 590, 405-409, doi: 10.$1038/s41586$-021-03252-5. Com base nos dados mencionados no texto, a razão entre o diâmetro do foco da luz de um microscópio óptico usual e o diâmetro da ponta da nanoantena utilizada no nanoscópio é da ordem de:",
       subItens: []
     },
     options: [
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "Considere a situação indicada na figura, em que um motor, com o auxílio de uma polia, ergue verticalmente uma caixa de massa 12 kg. A caixa contém materiais frágeis e deve ser erguida com velocidade constante. Qual é a magnitude da força vertical que o motor deve exercer para realizar a tarefa? Figura de polia erguendo caixa. Note e adote: Despreze efeitos de atrito. Aceleração da gravidade: g = 10 m/s².",
+      principal: "Considere a situação indicada na figura, em que um motor, com o auxílio de uma polia, ergue verticalmente uma caixa de massa 12 kg. A caixa contém materiais frágeis e deve ser erguida com velocidade constante. Qual é a magnitude da força vertical que o motor deve exercer para realizar a tarefa? Figura de polia erguendo caixa. Note e adote: Despreze efeitos de atrito. Aceleração da gravidade: g = 10 $m/s$².",
       subItens: []
     },
     options: [
@@ -1116,7 +1116,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "Dois fios muito longos transportam, cada um deles, uma corrente elétrica de intensidade I, conforme indicado na figura. Uma partícula de carga +Q, situada a uma distância R de cada um dos fios, move-se com velocidade constante ao longo da direção z. Figura de dois fios com corrente I, carga +Q em movimento. O módulo e sentido da força magnética atuando sobre a carga devido ao campo magnético produzido pelos fios são dados por: Note e adote: O campo magnético produzido por um fio muito longo transportando uma corrente de valor I tem módulo aproximadamente dado por µ₀I/2πr, sendo r a distância do fio até o ponto e µ₀ corresponde a constante de permeabilidade magnética.",
+      principal: "Dois fios muito longos transportam, cada um deles, uma corrente elétrica de intensidade I, conforme indicado na figura. Uma partícula de carga +Q, situada a uma distância R de cada um dos fios, move-se com velocidade constante ao longo da direção z. Figura de dois fios com corrente I, carga +Q em movimento. O módulo e sentido da força magnética atuando sobre a carga devido ao campo magnético produzido pelos fios são dados por: Note e adote: O campo magnético produzido por um fio muito longo transportando uma corrente de valor I tem módulo aproximadamente dado por µ₀$I/2$πr, sendo r a distância do fio até o ponto e µ₀ corresponde a constante de permeabilidade magnética.",
       subItens: []
     },
     options: [
@@ -1158,15 +1158,15 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "O canhão de Newton, esquematizado na figura, é um experimento mental imaginado por Isaac Newton para mostrar que sua lei da gravitação era universal. Disparando o canhão horizontalmente do alto de uma montanha, a bala cairia na Terra em virtude da força da gravidade. Com uma maior velocidade inicial, a bala iria mais longe antes de retornar à Terra. Com a velocidade certa, o projétil daria uma volta completa em torno da Terra, sempre \"caindo\" sob ação da gravidade, mas nunca alcançando a Terra. Newton concluiu que esse movimento orbital seria da mesma natureza do movimento da Lua em torno da Terra. Figura de canhão de Newton. Qual deveria ser a velocidade inicial de um projétil lançado horizontalmente do alto do Everest (a uma distância aproximada de 6.400 km do centro da Terra) para colocá-lo em órbita em torno da Terra? Note e adote: Despreze a resistência do ar. Aceleração da gravidade: g = 10 m/s².",
+      principal: "O canhão de Newton, esquematizado na figura, é um experimento mental imaginado por Isaac Newton para mostrar que sua lei da gravitação era universal. Disparando o canhão horizontalmente do alto de uma montanha, a bala cairia na Terra em virtude da força da gravidade. Com uma maior velocidade inicial, a bala iria mais longe antes de retornar à Terra. Com a velocidade certa, o projétil daria uma volta completa em torno da Terra, sempre \"caindo\" sob ação da gravidade, mas nunca alcançando a Terra. Newton concluiu que esse movimento orbital seria da mesma natureza do movimento da Lua em torno da Terra. Figura de canhão de Newton. Qual deveria ser a velocidade inicial de um projétil lançado horizontalmente do alto do Everest (a uma distância aproximada de 6.400 km do centro da Terra) para colocá-lo em órbita em torno da Terra? Note e adote: Despreze a resistência do ar. Aceleração da gravidade: g = 10 $m/s$².",
       subItens: []
     },
     options: [
-      "8 km/s",
-      "11,2 km/s",
-      "80 km/s",
-      "112 km/s",
-      "8.000 km/s"
+      "8 $km/s$",
+      "11,2 $km/s$",
+      "80 $km/s$",
+      "112 $km/s$",
+      "8.000 $km/s$"
     ],
     correctAnswer: 0,
     materia: [],
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "Eventos climáticos extremos marcaram este ano com vários exemplos no mundo, atingindo populações inteiras, tanto em ambientes rurais como urbanos. Dentre esses eventos, pode-se destacar as inundações na Alemanha no mês de julho, com regiões acometidas por fortes chuvas. Imagens: Área urbana de Schuld, Oeste da Alemanha, antes (à esquerda) e depois (à direita) da inundação de julho/2021. Disponível em https://www.dw.com/. Um dos motivos que podem ser relacionados ao evento de inundação da área destacada é:",
+      principal: "Eventos climáticos extremos marcaram este ano com vários exemplos no mundo, atingindo populações inteiras, tanto em ambientes rurais como urbanos. Dentre esses eventos, pode-se destacar as inundações na Alemanha no mês de julho, com regiões acometidas por fortes chuvas. Imagens: Área urbana de Schuld, Oeste da Alemanha, antes (à esquerda) e depois (à direita) da inundação de $julho/2021$. Disponível em https://www.dw.com/. Um dos motivos que podem ser relacionados ao evento de inundação da área destacada é:",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "No dia 23 de março de 2021 o mega navio Ever Given, de 220.000 toneladas e 400 m de comprimento, encalhou no Canal de Suez no Egito em rota para o porto de Rotterdam, Holanda, ficando atravessado e preso pelas extremidades. O navio reflutuou no dia 29 do mesmo mês em razão das condições de vento e maré, além da operação promovida por rebocadores. Mapas: Direção do vento, Pressão em hPa (Dados de Superfície), CANAL DE SUEZ. Gráfico: Alturas máximas da maré (m) vs. Dias (março/2021). Disponível em https://www.noaa.gov/, https://edition.cnn.com/e https://www.tide-forecast.com/. Adaptados. Com base nos dados fornecidos e em seus conhecimentos, pode-se atribuir o reflutuamento do Ever Given às seguintes condições:",
+      principal: "No dia 23 de março de 2021 o mega navio Ever Given, de 220.000 toneladas e 400 m de comprimento, encalhou no Canal de Suez no Egito em rota para o porto de Rotterdam, Holanda, ficando atravessado e preso pelas extremidades. O navio reflutuou no dia 29 do mesmo mês em razão das condições de vento e maré, além da operação promovida por rebocadores. Mapas: Direção do vento, Pressão em hPa (Dados de Superfície), CANAL DE SUEZ. Gráfico: Alturas máximas da maré (m) vs. Dias (març$o/2021$). Disponível em https://www.noaa.gov/, https://edition.cnn.$com/e$ https://www.tide-forecast.com/. Adaptados. Com base nos dados fornecidos e em seus conhecimentos, pode-se atribuir o reflutuamento do Ever Given às seguintes condições:",
       subItens: []
     },
     options: [
@@ -1305,7 +1305,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "Uma forma de conservação do Cerrado é a prática de queimadas controladas que simulam o ciclo natural do fogo. Observe a imagem que retrata os efeitos visuais de uma queimada controlada em um trecho de Cerrado da Estação Ecológica de Santa Bárbara, no interior do estado de São Paulo. Imagem de queimada. Nessa área foram conduzidos experimentos com queimadas controladas, e os resultados sugerem que essa prática é benéfica para a flora, cujas plantas rebrotam rapidamente depois da passagem do fogo. Nos grupos vegetais em que as queimadas produziram mais efeitos positivos foi registrado até um discreto aumento de espécies vegetais. Antes das queimadas, os pesquisadores contabilizaram 38 espécies de gramíneas e 68 de outras ervas. Depois, esses números subiram para 44 e 74, respectivamente. Durigan G et al. (2020), Front. For. Glob. Change, 3:13, doi:10.3389/ffgc.2020.00013. Adaptado. No bioma Cerrado, de acordo com a informação do texto, a prática de queimadas controladas",
+      principal: "Uma forma de conservação do Cerrado é a prática de queimadas controladas que simulam o ciclo natural do fogo. Observe a imagem que retrata os efeitos visuais de uma queimada controlada em um trecho de Cerrado da Estação Ecológica de Santa Bárbara, no interior do estado de São Paulo. Imagem de queimada. Nessa área foram conduzidos experimentos com queimadas controladas, e os resultados sugerem que essa prática é benéfica para a flora, cujas plantas rebrotam rapidamente depois da passagem do fogo. Nos grupos vegetais em que as queimadas produziram mais efeitos positivos foi registrado até um discreto aumento de espécies vegetais. Antes das queimadas, os pesquisadores contabilizaram 38 espécies de gramíneas e 68 de outras ervas. Depois, esses números subiram para 44 e 74, respectivamente. Durigan G et al. (2020), Front. For. Glob. Change, 3:13, doi:10.$3389/ffgc$.2020.00013. Adaptado. No bioma Cerrado, de acordo com a informação do texto, a prática de queimadas controladas",
       subItens: []
     },
     options: [
@@ -1332,9 +1332,9 @@ createQuestion({
     options: [
       "África; Europa/Ásia Central",
       "Américas; África",
-      "Américas; Ásia/Pacífico",
+      "Américas; Á$sia/Pac$ífico",
       "Países Árabes; Américas",
-      "África; Ásia/Pacífico"
+      "África; Á$sia/Pac$ífico"
     ],
     correctAnswer: 3,
     materia: [],
@@ -1368,7 +1368,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "A pandemia da COVID-19 acendeu o alerta sobre os impactos que a rápida disseminação de enfermidades produz em um mundo cada vez mais globalizado. Além disso, ressaltou a importância das pesquisas científicas na descoberta, tratamento e controle de doenças tropicais negligenciadas, muitas delas recorrentes em diferentes países do mundo. Os mapas a seguir indicam as taxas de incidência de doenças tropicais negligenciadas (total de casos por milhão de habitantes) e o Produto Interno Bruto (PIB) per capita dos respectivos países. Mapas: DISTRIBUIÇÃO DAS PRINCIPAIS DOENÇAS TROPICAIS NEGLIGENCIADAS, PIB PER CAPITA DOS PAÍSES. Fabrício Marques. \"Uma agenda para as doenças esquecidas\". Revista Pesquisa FAPESP, abril/2021. Adaptado. Em relação à incidência de doenças tropicais negligenciadas, é correto afirmar:",
+      principal: "A pandemia da COVID-19 acendeu o alerta sobre os impactos que a rápida disseminação de enfermidades produz em um mundo cada vez mais globalizado. Além disso, ressaltou a importância das pesquisas científicas na descoberta, tratamento e controle de doenças tropicais negligenciadas, muitas delas recorrentes em diferentes países do mundo. Os mapas a seguir indicam as taxas de incidência de doenças tropicais negligenciadas (total de casos por milhão de habitantes) e o Produto Interno Bruto (PIB) per capita dos respectivos países. Mapas: DISTRIBUIÇÃO DAS PRINCIPAIS DOENÇAS TROPICAIS NEGLIGENCIADAS, PIB PER CAPITA DOS PAÍSES. Fabrício Marques. \"Uma agenda para as doenças esquecidas\". Revista Pesquisa FAPESP, $abril/2021$. Adaptado. Em relação à incidência de doenças tropicais negligenciadas, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -1389,7 +1389,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "A escassez global de semicondutores continua a ter estranhas repercussões, sobretudo do ponto de vista geopolítico. Há um ano as indústrias lutam para se abastecer com chips eletrônicos que equipam aparelhos do dia a dia, de computadores a torradeiras, passando pelas máquinas de lavar e consoles de videogames. O episódio atual, no entanto, surge em um contexto marcado por um questionamento geral a respeito dos benefícios da globalização e do declínio da atividade industrial no Ocidente. Evgeny Morzorov. \"Devemos temer um colapso eletrônico?\". Le Monde Diplomatique Brasil, agosto/2021. Adaptado. O texto refere-se a uma questão geopolítica contemporânea: a disputa pelos semicondutores na indústria mundial. Sobre esse assunto, indique a alternativa correta:",
+      principal: "A escassez global de semicondutores continua a ter estranhas repercussões, sobretudo do ponto de vista geopolítico. Há um ano as indústrias lutam para se abastecer com chips eletrônicos que equipam aparelhos do dia a dia, de computadores a torradeiras, passando pelas máquinas de lavar e consoles de videogames. O episódio atual, no entanto, surge em um contexto marcado por um questionamento geral a respeito dos benefícios da globalização e do declínio da atividade industrial no Ocidente. Evgeny Morzorov. \"Devemos temer um colapso eletrônico?\". Le Monde Diplomatique Brasil, $agosto/2021$. Adaptado. O texto refere-se a uma questão geopolítica contemporânea: a disputa pelos semicondutores na indústria mundial. Sobre esse assunto, indique a alternativa correta:",
       subItens: []
     },
     options: [
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "O ΔHII, relacionado à reação II, pode ser calculado a partir dos dados fornecidos para as reações I e III. O valor de ΔHII, em kcal/mol de O2 consumido, é igual a:",
+      principal: "O ΔHII, relacionado à reação II, pode ser calculado a partir dos dados fornecidos para as reações I e III. O valor de ΔHII, em $kcal/mol$ de O2 consumido, é igual a:",
       subItens: []
     },
     options: [
@@ -1536,7 +1536,7 @@ createQuestion({
     university: "fuvest",
     year: 2022,
     text: {
-      principal: "Cálculos renais, conhecidos popularmente por \"pedras nos rins\", consistem principalmente em oxalato de cálcio, CaC2O4, espécie cuja constante de solubilidade (Kps) é de aproximadamente 2 × 10⁻⁹. Os íons oxalato, presentes em muitos vegetais, reagem com os íons cálcio para formar oxalato de cálcio, que pode gradualmente se acumular nos rins. Supondo que a concentração de íons cálcio no plasma sanguíneo seja de cerca de 5 × 10⁻³ mol/L, qual seria a concentração mínima, em mol/L, de íons oxalato para que CaC2O4 precipitasse? Note e adote: Desconsidere a presença de quaisquer outros íons e considere que a concentração no plasma é determinante para a precipitação do oxalato.",
+      principal: "Cálculos renais, conhecidos popularmente por \"pedras nos rins\", consistem principalmente em oxalato de cálcio, CaC2O4, espécie cuja constante de solubilidade (Kps) é de aproximadamente 2 × 10⁻⁹. Os íons oxalato, presentes em muitos vegetais, reagem com os íons cálcio para formar oxalato de cálcio, que pode gradualmente se acumular nos rins. Supondo que a concentração de íons cálcio no plasma sanguíneo seja de cerca de 5 × 10⁻³ $mol/L$, qual seria a concentração mínima, em $mol/L$, de íons oxalato para que CaC2O4 precipitasse? Note e adote: Desconsidere a presença de quaisquer outros íons e considere que a concentração no plasma é determinante para a precipitação do oxalato.",
       subItens: []
     },
     options: [
@@ -1603,11 +1603,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "0,4 mg/kg",
-      "1,6 mg/kg",
-      "2,0 mg/kg",
-      "2,2 mg/kg",
-      "2,5 mg/kg"
+      "0,4 $mg/kg$",
+      "1,6 $mg/kg$",
+      "2,0 $mg/kg$",
+      "2,2 $mg/kg$",
+      "2,5 $mg/kg$"
     ],
     correctAnswer: 4,
     materia: [],

@@ -429,7 +429,7 @@ createQuestion({
     options: [
       "compreende uma das principais rotas de exportação de petróleo.",
       "configura a porta de saída de refugiados do Oriente Médio para a Europa.",
-      "constitui uma centralidade logística à infraestrutura de comunicação com o ocidente.",
+      "constitui uma centralidade $\\log$ística à infraestrutura de comunicação com o ocidente.",
       "corresponde à localização ideal para a instalação de bases espaciais.",
       "abrange áreas privilegiadas para a exploração de minerais metálicos."
     ],
@@ -465,7 +465,7 @@ createQuestion({
     university: "albert einstein",
     year: 2019,
     text: {
-      principal: "Analise a imagem. (Imagem mostrando um deslizamento de terra/colapso de encosta próximo a casas). (www.folha.uol.com.br) O evento geomorfológico retratado na imagem foi desencadeado por um ______ índice de chuva sazonal, que ______ o solo e criou um ambiente geológico instável, propício à ocorrência de um ______. As lacunas do texto devem ser preenchidas por:",
+      principal: "Analise a imagem. (Imagem mostrando um deslizamento de $terra/colapso$ de encosta próximo a casas). (www.folha.uol.com.br) O evento geomorfológico retratado na imagem foi desencadeado por um ______ índice de chuva sazonal, que ______ o solo e criou um ambiente geológico instável, propício à ocorrência de um ______. As lacunas do texto devem ser preenchidas por:",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "albert einstein",
     year: 2019,
     text: {
-      principal: "Analise os mapas. (Dois mapas intitulados \"Até 1960\" e \"1960-2000\" mostrando a distribuição da Mata Atlântica no Brasil. Uma legenda com números 1-6 indica diferentes tipos de vegetação/uso da terra). (Graça M. L. Ferreira. Atlas geográfico, 2013. Adaptado.) Da análise dos mapas, conclui-se que o número 6, indicado na legenda, corresponde a",
+      principal: "Analise os mapas. (Dois mapas intitulados \"Até 1960\" e \"1960-2000\" mostrando a distribuição da Mata Atlântica no Brasil. Uma legenda com números 1-6 indica diferentes tipos de vegetaçã$o/uso$ da terra). (Graça M. L. Ferreira. Atlas geográfico, 2013. Adaptado.) Da análise dos mapas, conclui-se que o número 6, indicado na legenda, corresponde a",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "albert einstein",
     year: 2019,
     text: {
-      principal: "O século 19 ainda move o Brasil. O Brasil parou alguns dias em 2018 por causa de uma greve de caminhoneiros, demonstrando que o país do futuro é movido a passado. Enquanto os veículos elétricos começam a tomar as ruas do mundo, o governo brasileiro oferece subsídios para a indústria dos combustíveis fósseis. Mesmo em se tratando de eletricidade, estamos atrelados ao século 19: a primeira hidrelétrica brasileira foi inaugurada em 1889. Temos sol e vento de sobra, mas preferimos barrar nossos rios. (www.umagotanooceano.org. Adaptado.) Caracteriza uma estratégia para contornar o problema logístico mencionado no excerto",
+      principal: "O século 19 ainda move o Brasil. O Brasil parou alguns dias em 2018 por causa de uma greve de caminhoneiros, demonstrando que o país do futuro é movido a passado. Enquanto os veículos elétricos começam a tomar as ruas do mundo, o governo brasileiro oferece subsídios para a indústria dos combustíveis fósseis. Mesmo em se tratando de eletricidade, estamos atrelados ao século 19: a primeira hidrelétrica brasileira foi inaugurada em 1889. Temos sol e vento de sobra, mas preferimos barrar nossos rios. (www.umagotanooceano.org. Adaptado.) Caracteriza uma estratégia para contornar o problema $\\log$ístico mencionado no excerto",
       subItens: []
     },
     options: [
@@ -616,11 +616,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/16.",
-      "1/8.",
-      "1/32.",
-      "1/64.",
-      "1/4."
+      "$1/16$.",
+      "$1/8$.",
+      "$1/32$.",
+      "$1/64$.",
+      "$1/4$."
     ],
     correctAnswer: 2,
     materia: ["Biologia", "Matemática"],
@@ -654,7 +654,7 @@ createQuestion({
     university: "albert einstein",
     year: 2019,
     text: {
-      principal: "Uma forma de reduzir a poluição atmosférica provocada pelo gás dióxido de enxofre (SO2), produzido em certas atividades industriais, é realizar a lavagem dos gases de exaustão com uma suspensão aquosa de cal hidratada [Ca(OH)2]. Com isso, ocorre uma reação química em que se formam sulfito de cálcio (CaSO3) sólido e água (H₂O) líquida, evitando a emissão do poluente para o ar. Considerando que o volume molar de gás nas Condições Ambiente de Temperatura e Pressão (CATP) é igual a 25 L/mol, para cada 1,2 kg de sulfito de cálcio formado, o volume de dióxido de enxofre, medido nessas condições, que deixa de ser emitido para a atmosfera é de",
+      principal: "Uma forma de reduzir a poluição atmosférica provocada pelo gás dióxido de enxofre (SO2), produzido em certas atividades industriais, é realizar a lavagem dos gases de exaustão com uma suspensão aquosa de cal hidratada [Ca(OH)2]. Com isso, ocorre uma reação química em que se formam sulfito de cálcio (CaSO3) sólido e água (H₂O) líquida, evitando a emissão do poluente para o ar. Considerando que o volume molar de gás nas Condições Ambiente de Temperatura e Pressão (CATP) é igual a 25 $L/mol$, para cada 1,2 kg de sulfito de cálcio formado, o volume de dióxido de enxofre, medido nessas condições, que deixa de ser emitido para a atmosfera é de",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "albert einstein",
     year: 2019,
     text: {
-      principal: "Considere as informações: • No estado de Sergipe, encontram-se as maiores reservas brasileiras de minerais de potássio, constituídas principalmente por silvinita, composta pela associação dos minerais halita (NaCl) e silvita (KCl). O teor médio de íons potássio na silvinita é cerca de 8% em massa. • Na água do mar, a concentração média de íons potássio é cerca de 0,4 g/L. O volume de água do mar que contém a mesma massa de íons potássio existente em cada tonelada de silvinita é",
+      principal: "Considere as informações: • No estado de Sergipe, encontram-se as maiores reservas brasileiras de minerais de potássio, constituídas principalmente por silvinita, composta pela associação dos minerais halita (NaCl) e silvita (KCl). O teor médio de íons potássio na silvinita é cerca de 8% em massa. • Na água do mar, a concentração média de íons potássio é cerca de 0,4 $g/L$. O volume de água do mar que contém a mesma massa de íons potássio existente em cada tonelada de silvinita é",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "albert einstein",
     year: 2019,
     text: {
-      principal: "Para provocar a transformação gasosa ABC, representada no diagrama P × V, em determinada massa constante de gás ideal, foi necessário fornecer-lhe 1400 J de energia em forma de calor, dos quais 300 J transformaram-se em energia interna do gás, devido ao seu aquecimento nesse processo. (Diagrama PxV mostrando um processo termodinâmico ABC, com A em (1.0, 1.2), B em (1.0, 3.0) e C em (5.0, 3.0). As unidades são P(10^5 Pa) e V(10^-3 m^3)). Considerando não ter havido perda de energia, o trabalho realizado pelas forças exercidas pelo gás no trecho AB dessa transformação foi de",
+      principal: "Para provocar a transformação gasosa ABC, representada no diagrama P × V, em determinada massa constante de gás ideal, foi necessário fornecer-lhe 1400 J de energia em forma de calor, dos quais 300 J transformaram-se em energia interna do gás, devido ao seu aquecimento nesse processo. (Diagrama PxV mostrando um processo termodinâmico ABC, com A em (1.0, 1.2), B em (1.0, 3.0) e C em (5.0, 3.0). As unidades são P($10^5$ Pa) e V(10^-3 $m^3$)). Considerando não ter havido perda de energia, o trabalho realizado pelas forças exercidas pelo gás no trecho AB dessa transformação foi de",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "albert einstein",
     year: 2019,
     text: {
-      principal: "Um bloco de massa m = 4 kg é mantido em repouso, preso a uma corda de densidade linear de massa μ = 4 × 10-3 kg/m, que tem sua outra extremidade fixa no ponto A de uma parede vertical. Essa corda passa por uma roldana ideal presa em uma barra fixa na parede, formando um ângulo de 60° com a barra. Considere que um diapasão seja colocado para vibrar próximo desse sistema e que ondas estacionárias se estabeleçam no trecho AB da corda. (Diagrama mostrando um bloco de massa m=4kg pendurado, conectado por uma corda que passa por uma roldana e se estende até um ponto fixo A, formando um ângulo de 60° com uma barra horizontal. O comprimento do segmento AB é 0,5m). Sabendo que a velocidade de propagação de uma onda por uma corda de densidade linear de massa μ, submetida a uma força de tração T, é dada por v = √T/μ, que g = 10 m/s², que cos 60° = sen 30° = 0,5 e considerando as informações da figura, pode-se afirmar que a frequência fundamental de ondas estacionárias no trecho AB da corda é",
+      principal: "Um bloco de massa m = 4 kg é mantido em repouso, preso a uma corda de densidade linear de massa μ = 4 × 10-3 $kg/m$, que tem sua outra extremidade fixa no ponto A de uma parede vertical. Essa corda passa por uma roldana ideal presa em uma barra fixa na parede, formando um ângulo de 60° com a barra. Considere que um diapasão seja colocado para vibrar próximo desse sistema e que ondas estacionárias se estabeleçam no trecho AB da corda. (Diagrama mostrando um bloco de massa m=4kg pendurado, conectado por uma corda que passa por uma roldana e se estende até um ponto fixo A, formando um ângulo de 60° com uma barra horizontal. O comprimento do segmento AB é 0,5m). Sabendo que a velocidade de propagação de uma onda por uma corda de densidade linear de massa μ, submetida a uma força de tração T, é dada por v = √T/μ, que g = 10 $m/s$², que $\\cos$ 60° = $\\sin$ 30° = 0,5 e considerando as informações da figura, pode-se afirmar que a frequência fundamental de ondas estacionárias no trecho AB da corda é",
       subItens: []
     },
     options: [
@@ -889,11 +889,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/3",
-      "3/5",
-      "3/50",
-      "3/7",
-      "3/20"
+      "$1/3$",
+      "$3/5$",
+      "$3/50$",
+      "$3/7$",
+      "$3/20$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -927,7 +927,7 @@ createQuestion({
     university: "albert einstein",
     year: 2019,
     text: {
-      principal: "Utilize o texto para responder às questões 45 e 46. O princípio de Hardy-Weinberg é utilizado no estudo da genética de populações. Por meio desse princípio, é possível predizer as frequências genotípicas de homozigotos e heterozigotos, a partir da frequência dos alelos observada em uma amostra da população. Considerando que a frequência do alelo A é p e que a frequência do alelo a é q, de modo que p + q = 1, as frequências (f) para cada um dos possíveis genótipos (AA, Aa e aa) podem ser descritas pelas curvas presentes no gráfico: (Gráfico com frequência (f) no eixo y e frequência alélica (p/q) no eixo x, mostrando as curvas para os genótipos AA (p²), Aa (2pq) e aa (q²)). Se em uma população a frequência p é 0,7, então a frequência do genótipo AA é",
+      principal: "Utilize o texto para responder às questões 45 e 46. O princípio de Hardy-Weinberg é utilizado no estudo da genética de populações. Por meio desse princípio, é possível predizer as frequências genotípicas de homozigotos e heterozigotos, a partir da frequência dos alelos observada em uma amostra da população. Considerando que a frequência do alelo A é p e que a frequência do alelo a é q, de modo que p + q = 1, as frequências (f) para cada um dos possíveis genótipos (AA, Aa e aa) podem ser descritas pelas curvas presentes no gráfico: (Gráfico com frequência (f) no eixo y e frequência alélica ($p/q$) no eixo x, mostrando as curvas para os genótipos AA (p²), Aa (2pq) e aa (q²)). Se em uma população a frequência p é 0,7, então a frequência do genótipo AA é",
       subItens: []
     },
     options: [
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "albert einstein",
     year: 2019,
     text: {
-      principal: "O gráfico mostra a evolução e a projeção do custo (em dólares por kWh) e da densidade energética (em Wh por L) das baterias utilizadas em carros elétricos. (Gráfico com duas linhas: uma representando o \"Custo da bateria (dólares por kWh)\" que diminui ao longo dos anos, e outra representando a \"Densidade energética (Wh/L)\" que aumenta ao longo dos anos. O eixo X mostra os anos de 2009 a 2022). Com base no gráfico, no ano de 2009, uma bateria de 30 kWh custava em torno 28 000 dólares e tinha volume de 500 litros. Dado que 1 kWh é igual a 1 000 Wh, e de acordo com essa projeção, no ano de 2022, uma bateria de 30 kWh terá um custo e um volume iguais a",
+      principal: "O gráfico mostra a evolução e a projeção do custo (em dólares por kWh) e da densidade energética (em Wh por L) das baterias utilizadas em carros elétricos. (Gráfico com duas linhas: uma representando o \"Custo da bateria (dólares por kWh)\" que diminui ao longo dos anos, e outra representando a \"Densidade energética ($Wh/L$)\" que aumenta ao longo dos anos. O eixo X mostra os anos de 2009 a 2022). Com base no gráfico, no ano de 2009, uma bateria de 30 kWh custava em torno 28 000 dólares e tinha volume de 500 litros. Dado que 1 kWh é igual a 1 000 Wh, e de acordo com essa projeção, no ano de 2022, uma bateria de 30 kWh terá um custo e um volume iguais a",
       subItens: []
     },
     options: [

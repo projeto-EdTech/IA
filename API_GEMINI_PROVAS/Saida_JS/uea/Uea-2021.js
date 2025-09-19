@@ -162,7 +162,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["Língua Portuguesa", "Literatura Portuguesa"],
-    conteudo: ["Gêneros Literários", "Arcadismo/Neoclassicismo"],
+    conteudo: ["Gêneros Literários", "$Arcadismo/Neoclassicismo$"],
     imageNames: []
 }),
 
@@ -276,7 +276,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "Em 732, Carlos Martel derrotara os muçulmanos na célebre batalha de Poitiers, ganhando o prestígio de um verdadeiro salvador da Cristandade. Seu filho, Pepino, o Breve, consolidou o pacto franco-papal. Em troca da deposição do último rei da dinastia Merovíngia e de sua própria entronização como rei dos francos, em 751, Pepino arrancou as terras italianas recém-ocupadas pelos lombardos e entregou-as à Igreja. Por fim, o próprio Carlos Magno continuou a obra do pai, derrotando definitivamente os lombardos, confirmando a doação daquelas terras ao papado e alargando a Cristandade ao submeter saxões e ávaros.\n\n(Hilário Franco Júnior. A Idade Média: nascimento do ocidente, 2001. Adaptado.)\n\nO excerto apresenta",
+      principal: "Em 732, Carlos Martel derrotara os $\\mu$çulmanos na célebre batalha de Poitiers, ganhando o prestígio de um verdadeiro salvador da Cristandade. Seu filho, Pepino, o Breve, consolidou o pacto franco-papal. Em troca da deposição do último rei da dinastia Merovíngia e de sua própria entronização como rei dos francos, em 751, Pepino arrancou as terras italianas recém-ocupadas pelos lombardos e entregou-as à Igreja. Por fim, o próprio Carlos Magno continuou a obra do pai, derrotando definitivamente os lombardos, confirmando a doação daquelas terras ao papado e alargando a Cristandade ao submeter saxões e ávaros.\n\n(Hilário Franco Júnior. A Idade Média: nascimento do ocidente, 2001. Adaptado.)\n\nO excerto apresenta",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "Observe o gráfico.\n\n(Graph: Precipitation (mm) vs Latitude (Norte/Sul), showing higher precipitation near the equator)\n\n(Fillipe T. P. Torres. Introdução à hidrogeografia, 2012.)\n\nA distribuição das precipitações mostradas no gráfico está relacionada",
+      principal: "Observe o gráfico.\n\n(Graph: Precipitation (mm) vs Latitude ($Norte/Sul$), showing higher precipitation near the equator)\n\n(Fillipe T. P. Torres. Introdução à hidrogeografia, 2012.)\n\nA distribuição das precipitações mostradas no gráfico está relacionada",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "Considere a função f de IR em IR definida por:\nf(x) = {\n- x + 3, se x ≤ 5\nx²-4x-40, se 5 < x < 20\nlog₂ 4x, se x ≥ 20\n\nO valor de f(-5) – f(0) + f(5) – 2 (f(10) – f(32)) é igual a",
+      principal: "Considere a função f de IR em IR definida por:\nf(x) = {\n- x + 3, se x ≤ 5\nx²-4x-40, se 5 < x < 20\n$\\log$₂ 4x, se x ≥ 20\n\nO valor de f(-5) – f(0) + f(5) – 2 (f(10) – f(32)) é igual a",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "Seja o número real b tal que b = log₁₀ 4,1. O valor de 10^(2b+2) / 1681 é igual a",
+      principal: "Seja o número real b tal que b = $\\log$₁₀ 4,1. O valor de 10^(2b+2) / 1681 é igual a",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "Considere a função f(x) = 2 + log₂(x – 3). Assinale a alternativa que representa corretamente o gráfico da função f.\n\n(Five graphs labeled A-E, showing different logarithmic curves.)",
+      principal: "Considere a função f(x) = 2 + $\\log$₂(x – 3). Assinale a alternativa que representa corretamente o gráfico da função f.\n\n(Five graphs labeled A-E, showing different logarithmic curves.)",
       subItens: []
     },
     options: [
@@ -885,7 +885,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "A imagem da função y = 6 / (2 - sen(2x)) é",
+      principal: "A imagem da função y = 6 / (2 - $\\sin$(2x)) é",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "O gráfico da função f(x) = a + b sen (cx - π/2), em que a, b e c são constantes reais, está representado na figura.\n\n(Graph of a sine wave with amplitude 2, vertical shift 0, period 2pi)\n\nO valor do produto abc é igual a",
+      principal: "O gráfico da função f(x) = a + b $\\sin$ (cx - π/2), em que a, b e c são constantes reais, está representado na figura.\n\n(Graph of a sine wave with amplitude 2, vertical shift 0, period 2pi)\n\nO valor do produto abc é igual a",
       subItens: []
     },
     options: [
@@ -932,7 +932,7 @@ createQuestion({
     },
     options: [
       "50 s, representando o período de rotação.",
-      "50 rad/s, representando a velocidade angular.",
+      "50 $rad/s$, representando a velocidade angular.",
       "50 Hz, representando a frequência de rotação.",
       "180 s, representando o período de rotação.",
       "180 Hz, representando a frequência de rotação."
@@ -969,7 +969,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "Do alto da torre de uma igreja, uma ave de rapina observa uma possível presa, parada exatamente abaixo do ponto em que espreitava o solo. Inicia então o ataque, abandonando seu corpo em queda livre por 2 s para em seguida desacelerar sua queda quase que instantaneamente enquanto agarra sua vítima. Devido à aerodinâmica do corpo da ave e ao tempo de queda nesse movimento vertical, pode-se ignorar a força de resistência ao movimento causada pelo ar. Sendo a aceleração da gravidade igual a 10 m/s², a distância do ponto de observação da ave de rapina até sua presa era de",
+      principal: "Do alto da torre de uma igreja, uma ave de rapina observa uma possível presa, parada exatamente abaixo do ponto em que espreitava o solo. Inicia então o ataque, abandonando seu corpo em queda livre por 2 s para em seguida desacelerar sua queda quase que instantaneamente enquanto agarra sua vítima. Devido à aerodinâmica do corpo da ave e ao tempo de queda nesse movimento vertical, pode-se ignorar a força de resistência ao movimento causada pelo ar. Sendo a aceleração da gravidade igual a 10 $m/s$², a distância do ponto de observação da ave de rapina até sua presa era de",
       subItens: []
     },
     options: [
@@ -990,7 +990,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "O Parque Rio Negro é um local de recuperação ambiental que possui equipamentos para esporte, lazer e eventos artísticos.\n\n(Image of Parque Rio Negro, showing green spaces and buildings near a river.)\n\n(https://cultura.com.gov.br)\n\nCom uma velocidade constante de 2,5 m/s, um frequentador desse parque consegue percorrer toda a extensão dos 1750 m da pista de caminhada e corrida em, aproximadamente,",
+      principal: "O Parque Rio Negro é um local de recuperação ambiental que possui equipamentos para esporte, lazer e eventos artísticos.\n\n(Image of Parque Rio Negro, showing green spaces and buildings near a river.)\n\n(https://cultura.com.gov.br)\n\nCom uma velocidade constante de 2,5 $m/s$, um frequentador desse parque consegue percorrer toda a extensão dos 1750 m da pista de caminhada e corrida em, aproximadamente,",
       subItens: []
     },
     options: [
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "Enquanto as cartas de um baralho eram distribuídas entre jogadores de uma partida de carteado, uma delas, impulsionada com vigor exagerado, escorregou até o final do tampo horizontal da mesa, indo terminar no solo.\n\n(Image showing a table and a card falling off, illustrating projectile motion.)\n\nAssim, considerando que a altura do tampo da mesa até o solo horizontal é de 0,8 m e que a aceleração da gravidade vale 10 m/s², se a velocidade com a qual a carta percorreu o tampo da mesa era de 0,5 m/s, o maior alcance horizontal, d, seria",
+      principal: "Enquanto as cartas de um baralho eram distribuídas entre jogadores de uma partida de carteado, uma delas, impulsionada com vigor exagerado, escorregou até o final do tampo horizontal da mesa, indo terminar no solo.\n\n(Image showing a table and a card falling off, illustrating projectile motion.)\n\nAssim, considerando que a altura do tampo da mesa até o solo horizontal é de 0,8 m e que a aceleração da gravidade vale 10 $m/s$², se a velocidade com a qual a carta percorreu o tampo da mesa era de 0,5 $m/s$, o maior alcance horizontal, d, seria",
       subItens: []
     },
     options: [
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "O Reservatório do Mocó foi criado para solucionar problemas no abastecimento de água na cidade de Manaus. Nele, dois imensos tanques feitos de ferro ficam elevados por uma imponente estrutura interna, também feita de ferro.\n\n(Image of Reservatório do Mocó)\n\n(guiamanaus.24h.blogspot.com)\n\nA elevação dos tanques garante a pressão necessária para a condução da água pelos encanamentos. Essa combinação de altura e pressão é utilizada em qualquer sistema de abastecimento, dos mais complexos aos mais simples, como no caso de caixas d'água residenciais. Suponha que no Reservatório do Mocó exista uma tubulação vertical que mantém uma coluna de água de 4 m de altura. Considerando a aceleração da gravidade igual a 10 m/s² e que a densidade da água seja 1 x 10³ kg/m³, a pressão hidrostática da água na base dessa coluna será",
+      principal: "O Reservatório do Mocó foi criado para solucionar problemas no abastecimento de água na cidade de Manaus. Nele, dois imensos tanques feitos de ferro ficam elevados por uma imponente estrutura interna, também feita de ferro.\n\n(Image of Reservatório do Mocó)\n\n(guiamanaus.24h.blogspot.com)\n\nA elevação dos tanques garante a pressão necessária para a condução da água pelos encanamentos. Essa combinação de altura e pressão é utilizada em qualquer sistema de abastecimento, dos mais complexos aos mais simples, como no caso de caixas d'água residenciais. Suponha que no Reservatório do Mocó exista uma tubulação vertical que mantém uma coluna de água de 4 m de altura. Considerando a aceleração da gravidade igual a 10 $m/s$² e que a densidade da água seja 1 x 10³ $kg/m$³, a pressão hidrostática da água na base dessa coluna será",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "uea",
     year: 2021,
     text: {
-      principal: "Uma balança foi construída aplicando-se o princípio de Pascal. Para se determinar a massa de um objeto, ele deve ser colocado sobre o êmbolo maior dessa balança, que transfere força para o êmbolo menor que, por sua vez, está associado a uma mola, conforme mostra a figura. A mola encolhe-se 1 mm a cada 200 N da força que atua sobre ela.\n\n(Image of a hydraulic balance with two pistons and a spring)\n\nUm objeto foi colocado nessa balança e fez a mola comprimir-se de 4 mm. Sendo a área do êmbolo maior 50 vezes a área do êmbolo menor, e a aceleração da gravidade igual a 10 m/s², o objeto tem massa de",
+      principal: "Uma balança foi construída aplicando-se o princípio de Pascal. Para se determinar a massa de um objeto, ele deve ser colocado sobre o êmbolo maior dessa balança, que transfere força para o êmbolo menor que, por sua vez, está associado a uma mola, conforme mostra a figura. A mola encolhe-se 1 mm a cada 200 N da força que atua sobre ela.\n\n(Image of a hydraulic balance with two pistons and a spring)\n\nUm objeto foi colocado nessa balança e fez a mola comprimir-se de 4 mm. Sendo a área do êmbolo maior 50 vezes a área do êmbolo menor, e a aceleração da gravidade igual a 10 $m/s$², o objeto tem massa de",
       subItens: []
     },
     options: [

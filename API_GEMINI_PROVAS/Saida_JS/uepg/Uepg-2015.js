@@ -3,7 +3,7 @@ createQuestion({
     university: "uepg",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 01 A 05\nConsumo também é ato político\nDiz o \"Houaiss\" que o capitão Charles C. Boycott (1832-1897), um rico proprietário irlandês, no outono de 1880, recusando-se a baixar o preço que cobrava pelo arrendamento de suas terras, foi vítima de represália, tendo os agricultores da época se articulado para não negociar com ele. Daí a palavra \"boycott\" e, em português, boicote.\nQuase 130 anos depois, o termo em inglês ganhou uma espécie de antônimo, o \"buycott\". Numa livre tradução seria a compra orientada de produtos.\nA partir disso, a pesquisadora Michele Micheletti, da Karlstad University, na Suécia, defende que o ato de consumo pode se transformar em ativismo político, pois, segundo ela, a falta de uma regulamentação global transferiu para os consumidores parte da responsabilidade sobre o mercado. Por meio de \"boycotts\" e de \"buycotts\", é possível aos consumidores forçar mudanças no sistema produtivo e colaborar, utilizando o seu poder de compra, a fim de atenuar problemas como a exploração da mão de obra, o desrespeito ambiental e os desvios éticos e políticos de grandes empresas.\nO \"buycotter\" é o consumidor politizado, informado, responsável. Micheletti cita estudos que mostram que, na Suécia, o percentual de cidadãos que se envolveu em algum tipo de \"consumo politizado\" nos 12 meses anteriores à pesquisa era de 50%. No Brasil, não chegava a 7%. A pesquisadora concluiu que o resultado está vinculado ao nível de informação e aos recursos disponíveis dos consumidores. \"É um movimento basicamente da classe média\", afirma.\nAdaptado de: https://br.noticias.yahoo.com/blogs/plinio-fraga/consumo-tambe\ne-ato-politico-130126426.html. Acesso em 30/03/2015.\nCom relação ao conteúdo do texto, assinale o que for correto.",
+      principal: "TEXTO PARA AS QUESTÕES 01 A 05\nConsumo também é ato político\nDiz o \"Houaiss\" que o capitão Charles C. Boycott (1832-1897), um rico proprietário irlandês, no outono de 1880, recusando-se a baixar o preço que cobrava pelo arrendamento de suas terras, foi vítima de represália, tendo os agricultores da época se articulado para não negociar com ele. Daí a palavra \"boycott\" e, em português, boicote.\nQuase 130 anos depois, o termo em inglês ganhou uma espécie de antônimo, o \"buycott\". Numa livre tradução seria a compra orientada de produtos.\nA partir disso, a pesquisadora Michele Micheletti, da Karlstad University, na Suécia, defende que o ato de consumo pode se transformar em ativismo político, pois, segundo ela, a falta de uma regulamentação global transferiu para os consumidores parte da responsabilidade sobre o mercado. Por meio de \"boycotts\" e de \"buycotts\", é possível aos consumidores forçar mudanças no sistema produtivo e colaborar, utilizando o seu poder de compra, a fim de atenuar problemas como a exploração da mão de obra, o desrespeito ambiental e os desvios éticos e políticos de grandes empresas.\nO \"buycotter\" é o consumidor politizado, informado, responsável. Micheletti cita estudos que mostram que, na Suécia, o percentual de cidadãos que se envolveu em algum tipo de \"consumo politizado\" nos 12 meses anteriores à pesquisa era de 50%. No Brasil, não chegava a 7%. A pesquisadora concluiu que o resultado está vinculado ao nível de informação e aos recursos disponíveis dos consumidores. \"É um movimento basicamente da classe média\", afirma.\nAdaptado de: https://br.noticias.yahoo.com/blogs/plinio-$fraga/consumo$-tambe\ne-ato-politico-130126426.html. Acesso em 30/03/2015.\nCom relação ao conteúdo do texto, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -12,7 +12,7 @@ createQuestion({
       "O texto defende que comprar também pode ser um ato político em razão do poder de escolha do consumidor, pois, se estiver bem informado, pode rejeitar produtos que não tenham recebido um tratamento ético durante todo o processo de produção.",
       "A exploração da mão de obra, o desrespeito ambiental e os desvios éticos e políticos de grandes empresas são problemas sobre os quais o consumidor, em parte, também tem responsabilidade, segundo a pesquisadora Michele Micheletti, pela falta de uma regulamentação global."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa", "Sociologia"],
     conteudo: ["Interpretação de Texto", "Consumo e Sociedade"],
     imageNames: []
@@ -23,7 +23,7 @@ createQuestion({
     university: "uepg",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 01 A 05\nConsumo também é ato político\nDiz o \"Houaiss\" que o capitão Charles C. Boycott (1832-1897), um rico proprietário irlandês, no outono de 1880, recusando-se a baixar o preço que cobrava pelo arrendamento de suas terras, foi vítima de represália, tendo os agricultores da época se articulado para não negociar com ele. Daí a palavra \"boycott\" e, em português, boicote.\nQuase 130 anos depois, o termo em inglês ganhou uma espécie de antônimo, o \"buycott\". Numa livre tradução seria a compra orientada de produtos.\nA partir disso, a pesquisadora Michele Micheletti, da Karlstad University, na Suécia, defende que o ato de consumo pode se transformar em ativismo político, pois, segundo ela, a falta de uma regulamentação global transferiu para os consumidores parte da responsabilidade sobre o mercado. Por meio de \"boycotts\" e de \"buycotts\", é possível aos consumidores forçar mudanças no sistema produtivo e colaborar, utilizando o seu poder de compra, a fim de atenuar problemas como a exploração da mão de obra, o desrespeito ambiental e os desvios éticos e políticos de grandes empresas.\nO \"buycotter\" é o consumidor politizado, informado, responsável. Micheletti cita estudos que mostram que, na Suécia, o percentual de cidadãos que se envolveu em algum tipo de \"consumo politizado\" nos 12 meses anteriores à pesquisa era de 50%. No Brasil, não chegava a 7%. A pesquisadora concluiu que o resultado está vinculado ao nível de informação e aos recursos disponíveis dos consumidores. \"É um movimento basicamente da classe média\", afirma.\nAdaptado de: https://br.noticias.yahoo.com/blogs/plinio-fraga/consumo-tambe\ne-ato-politico-130126426.html. Acesso em 30/03/2015.\nSobre os recursos coesivos utilizados no terceiro parágrafo, assinale o que for correto.",
+      principal: "TEXTO PARA AS QUESTÕES 01 A 05\nConsumo também é ato político\nDiz o \"Houaiss\" que o capitão Charles C. Boycott (1832-1897), um rico proprietário irlandês, no outono de 1880, recusando-se a baixar o preço que cobrava pelo arrendamento de suas terras, foi vítima de represália, tendo os agricultores da época se articulado para não negociar com ele. Daí a palavra \"boycott\" e, em português, boicote.\nQuase 130 anos depois, o termo em inglês ganhou uma espécie de antônimo, o \"buycott\". Numa livre tradução seria a compra orientada de produtos.\nA partir disso, a pesquisadora Michele Micheletti, da Karlstad University, na Suécia, defende que o ato de consumo pode se transformar em ativismo político, pois, segundo ela, a falta de uma regulamentação global transferiu para os consumidores parte da responsabilidade sobre o mercado. Por meio de \"boycotts\" e de \"buycotts\", é possível aos consumidores forçar mudanças no sistema produtivo e colaborar, utilizando o seu poder de compra, a fim de atenuar problemas como a exploração da mão de obra, o desrespeito ambiental e os desvios éticos e políticos de grandes empresas.\nO \"buycotter\" é o consumidor politizado, informado, responsável. Micheletti cita estudos que mostram que, na Suécia, o percentual de cidadãos que se envolveu em algum tipo de \"consumo politizado\" nos 12 meses anteriores à pesquisa era de 50%. No Brasil, não chegava a 7%. A pesquisadora concluiu que o resultado está vinculado ao nível de informação e aos recursos disponíveis dos consumidores. \"É um movimento basicamente da classe média\", afirma.\nAdaptado de: https://br.noticias.yahoo.com/blogs/plinio-$fraga/consumo$-tambe\ne-ato-politico-130126426.html. Acesso em 30/03/2015.\nSobre os recursos coesivos utilizados no terceiro parágrafo, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -32,7 +32,7 @@ createQuestion({
       "\"...a fim de...\" no trecho: \"...utilizando o seu poder de compra, a fim de atenuar problemas como a exploração da mão de obra, o desrespeito ambiental e os desvios éticos e políticos de grandes empresas.\" relaciona os \"boycotts\" e os \"buycotts\" a uma finalidade.",
       "\"...para...\" no trecho: \"...a falta de uma regulamentação global transferiu para os consumidores parte da responsabilidade sobre o mercado.\" relaciona um fato \"a falta de uma regulamentação global\" a uma concessão."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Coesão e Coerência Textual"],
     imageNames: []
@@ -43,7 +43,7 @@ createQuestion({
     university: "uepg",
     year: 2015,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 01 A 05\nConsumo também é ato político\nDiz o \"Houaiss\" que o capitão Charles C. Boycott (1832-1897), um rico proprietário irlandês, no outono de 1880, recusando-se a baixar o preço que cobrava pelo arrendamento de suas terras, foi vítima de represália, tendo os agricultores da época se articulado para não negociar com ele. Daí a palavra \"boycott\" e, em português, boicote.\nQuase 130 anos depois, o termo em inglês ganhou uma espécie de antônimo, o \"buycott\". Numa livre tradução seria a compra orientada de produtos.\nA partir disso, a pesquisadora Michele Micheletti, da Karlstad University, na Suécia, defende que o ato de consumo pode se transformar em ativismo político, pois, segundo ela, a falta de uma regulamentação global transferiu para os consumidores parte da responsabilidade sobre o mercado. Por meio de \"boycotts\" e de \"buycotts\", é possível aos consumidores forçar mudanças no sistema produtivo e colaborar, utilizando o seu poder de compra, a fim de atenuar problemas como a exploração da mão de obra, o desrespeito ambiental e os desvios éticos e políticos de grandes empresas.\nO \"buycotter\" é o consumidor politizado, informado, responsável. Micheletti cita estudos que mostram que, na Suécia, o percentual de cidadãos que se envolveu em algum tipo de \"consumo politizado\" nos 12 meses anteriores à pesquisa era de 50%. No Brasil, não chegava a 7%. A pesquisadora concluiu que o resultado está vinculado ao nível de informação e aos recursos disponíveis dos consumidores. \"É um movimento basicamente da classe média\", afirma.\nAdaptado de: https://br.noticias.yahoo.com/blogs/plinio-fraga/consumo-tambe\ne-ato-politico-130126426.html. Acesso em 30/03/2015.\nSobre a informação no segundo parágrafo \"Quase 130 anos depois, o termo em inglês \"boycott\" ganhou uma espécie de antônimo, o \"buycott\". Numa livre tradução seria a compra orientada de produtos\". Nesse contexto, assinale o que for correto.",
+      principal: "TEXTO PARA AS QUESTÕES 01 A 05\nConsumo também é ato político\nDiz o \"Houaiss\" que o capitão Charles C. Boycott (1832-1897), um rico proprietário irlandês, no outono de 1880, recusando-se a baixar o preço que cobrava pelo arrendamento de suas terras, foi vítima de represália, tendo os agricultores da época se articulado para não negociar com ele. Daí a palavra \"boycott\" e, em português, boicote.\nQuase 130 anos depois, o termo em inglês ganhou uma espécie de antônimo, o \"buycott\". Numa livre tradução seria a compra orientada de produtos.\nA partir disso, a pesquisadora Michele Micheletti, da Karlstad University, na Suécia, defende que o ato de consumo pode se transformar em ativismo político, pois, segundo ela, a falta de uma regulamentação global transferiu para os consumidores parte da responsabilidade sobre o mercado. Por meio de \"boycotts\" e de \"buycotts\", é possível aos consumidores forçar mudanças no sistema produtivo e colaborar, utilizando o seu poder de compra, a fim de atenuar problemas como a exploração da mão de obra, o desrespeito ambiental e os desvios éticos e políticos de grandes empresas.\nO \"buycotter\" é o consumidor politizado, informado, responsável. Micheletti cita estudos que mostram que, na Suécia, o percentual de cidadãos que se envolveu em algum tipo de \"consumo politizado\" nos 12 meses anteriores à pesquisa era de 50%. No Brasil, não chegava a 7%. A pesquisadora concluiu que o resultado está vinculado ao nível de informação e aos recursos disponíveis dos consumidores. \"É um movimento basicamente da classe média\", afirma.\nAdaptado de: https://br.noticias.yahoo.com/blogs/plinio-$fraga/consumo$-tambe\ne-ato-politico-130126426.html. Acesso em 30/03/2015.\nSobre a informação no segundo parágrafo \"Quase 130 anos depois, o termo em inglês \"boycott\" ganhou uma espécie de antônimo, o \"buycott\". Numa livre tradução seria a compra orientada de produtos\". Nesse contexto, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -52,7 +52,7 @@ createQuestion({
       "A informação está correta, uma vez que os dois termos aparecem no mesmo trecho \"Por meio de \"boycotts\" e de \"buycotts\", é possível aos consu-midores forçar mudanças no sistema produtivo...\" sem causar quebra de sentido.",
       "A dúvida do autor sobre os termos serem antôni-mos está presente no uso da expressão \"uma espécie de\", que demonstra a busca por uma palavra que explique satisfatoriamente a relação entre os termos \"boycott\" e \"buycott\"."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão de Texto", "Vocabulário"],
     imageNames: []
@@ -72,7 +72,7 @@ createQuestion({
       "No trecho 2, trata-se de um caso de regência nominal, uma vez que \"anteriores\" é um adjetivo.",
       "Nos trechos 1 e 2, há casos de regência sobre a preposição a, entretanto, diferem entre si uma vez que são casos de regência nominal (trecho 1) e verbal (trecho 2)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Regência Verbal e Nominal", "Crase"],
     imageNames: []
@@ -92,7 +92,7 @@ createQuestion({
       "Atenuar — derivação parassintética.",
       "Agricultores — composição por hibridismo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Formação de Palavras"],
     imageNames: []
@@ -112,7 +112,7 @@ createQuestion({
       "Ainda antes de redigir o livro O Aprendiz de Feiticeiro, Mário Quintana, na posse do presidente Hermes da Fonseca, em 1910, afirmou que \"toda poesia é caleidoscópica e, assim como a política que pode transformar o mundo, a poesia pode transformar utopias em realidade\".",
       "O Aprendiz de Feiticeiro é uma obra de crítica caleidoscópica a qualquer Estado fundamentado na repressão econômica. A demanda caleidoscópica quintaneana liga-se ao utopismo político, ao manifesto de Marx e à criação do Partido Comunista do Brasil ao qual Quintana filiou-se desde sua inauguração."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira", "Modernismo"],
     imageNames: []
@@ -132,7 +132,7 @@ createQuestion({
       "O ano em que eclode a Primeira Grande Guerra (1914) coincide com o ano em que Lima Barreto é internado pela primeira vez no Hospício Nacional. Já havia, naquela ocasião, escrito a obra Recordações do Escrivão Isaías Caminha.",
       "O ano em que a obra Recordações do Escrivão Isaías Caminha está em conclusão, em 1908, coincide com a ocasião do falecimento de Machado de Assis."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira", "Pré-Modernismo"],
     imageNames: []
@@ -152,7 +152,7 @@ createQuestion({
       "Y < 9,0",
       "X > 5,0"
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Progressão Aritmética", "Média"],
     imageNames: []
@@ -172,7 +172,7 @@ createQuestion({
       "C₁ rendeu R$ 160,00 de juros.",
       "O tempo t de aplicação é de 270 dias."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Juros Simples", "Montante"],
     imageNames: []
@@ -192,7 +192,7 @@ createQuestion({
       "Seu comprimento é 30 metros.",
       "Sua área é de 840 m²."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Plana", "Área e Perímetro"],
     imageNames: []
@@ -212,7 +212,7 @@ createQuestion({
       "No primeiro relógio, o ângulo é maior que no segundo.",
       "O módulo da diferença entre os ângulos dos dois relógios é 30°."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Ângulos", "Medidas de Tempo"],
     imageNames: []
@@ -232,7 +232,7 @@ createQuestion({
       "O volume de cada cubo é 125 cm³.",
       "A soma de todas as arestas do paralelepipedo é 80 cm."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Espacial", "Volume e Área"],
     imageNames: []
@@ -252,7 +252,7 @@ createQuestion({
       "N é um divisor de 1000.",
       "N é um múltiplo de 7."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Análise Combinatória", "Divisibilidade"],
     imageNames: []
@@ -272,7 +272,7 @@ createQuestion({
       "a e b são números pares.",
       "a > b"
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Mínimo Múltiplo Comum (MMC)", "Máximo Divisor Comum (MDC)"],
     imageNames: []
@@ -292,7 +292,7 @@ createQuestion({
       "Quando atrita-se um bastão de vidro com um pano de lã, inicialmente neutros, ambos poderão ficar eletrizados. A carga adquirida por cada um será igual em módulo.",
       "Qualquer excesso de carga de um corpo é um múltiplo inteiro da carga elétrica elementar."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Eletrostática", "Carga Elétrica"],
     imageNames: []
@@ -303,7 +303,7 @@ createQuestion({
     university: "uepg",
     year: 2015,
     text: {
-      principal: "\"O iceberg é uma grande massa de gelo que flutua na água do mar sob o ar atmosférico\". Nesse contexto, assinale o que for correto.\nDados: µgelo = 0,92 g/cm³\nMágua do mar = 1030 kg/m³",
+      principal: "\"O iceberg é uma grande massa de gelo que flutua na água do mar sob o ar atmosférico\". Nesse contexto, assinale o que for correto.\nDados: µgelo = 0,92 $g/cm$³\nMágua do mar = 1030 $kg/m$³",
       subItens: []
     },
     options: [
@@ -312,7 +312,7 @@ createQuestion({
       "Caso as condições do ambiente favoreçam e a temperatura do iceberg passe de 0°C para 4°C, o gelo do iceberg terá sua massa específica diminuída, pois começará a derreter.",
       "Os icebergs podem sofrer o fenômeno da vaporização, embora não estejam à temperatura de 100°C."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Hidrostática", "Densidade", "Empuxo"],
     imageNames: []
@@ -330,9 +330,9 @@ createQuestion({
       "Sendo o valor da carga elétrica elementar e=1,602x10-19, um corpo que tem falta de 5x1022 elétrons tem carga igual a 8 kC.",
       "Popularmente conhecida como grau dos óculos, a vergência no SI mede-se em m-1.",
       "A equação dimensional do trabalho é M L2 T-2, portanto, sua unidade no SI pode ser representada como kg m²/s².",
-      "A expressão matemática da 2ª Lei de Newton a = F/m nos diz que a aceleração adquirida por um corpo é diretamente proporcional à sua massa e também diretamente proporcional à força resultante aplicada no mesmo."
+      "A expressão matemática da 2ª Lei de Newton a = $F/m$ nos diz que a aceleração adquirida por um corpo é diretamente proporcional à sua massa e também diretamente proporcional à força resultante aplicada no mesmo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Grandezas Físicas", "Unidades de Medida", "Segunda Lei de Newton"],
     imageNames: []
@@ -349,10 +349,10 @@ createQuestion({
     options: [
       "O único tipo de radiação eletromagnética vinda do Sol que ultrapassa a atmosfera terrestre é a do tipo Infravermelha, responsável por sentirmos o calor do Sol.",
       "Raios X e raios gama são exemplos de radiações ionizantes, pois são capazes de alterar a estrutura da molécula e átomos.",
-      "As ondas eletromagnéticas possuem no vácuo uma velocidade de propagação de aproximadamente 3x108 m/s.",
+      "As ondas eletromagnéticas possuem no vácuo uma velocidade de propagação de aproximadamente 3x108 $m/s$.",
       "Uma onda eletromagnética com comprimento de onda de 750x10-9 m terá uma frequência de 4x1014 Hz, no vácuo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Ondas Eletromagnéticas", "Espectro Eletromagnético"],
     imageNames: []
@@ -372,7 +372,7 @@ createQuestion({
       "Um exoplaneta terá no afélio uma velocidade orbital maior do que no periélio.",
       "A 2ª Lei de Newton explica, em função da massa, o fato de o exoplaneta orbitar a estrela e não o contrário. Contudo, a rigor, ambas orbitam o centro de massa do sistema."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Astronomia", "Leis de Kepler", "Gravitação Universal"],
     imageNames: []
@@ -392,7 +392,7 @@ createQuestion({
       "A energia potencial dos carrinhos diminui na medida em que estes forem subindo pelos trilhos, devido à baixa velocidade.",
       "No ponto de maior altura da montanha-russa, a energia mecânica dos carrinhos é maior do que no ponto de menor altura."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Dinâmica", "Energia Mecânica", "Conservação de Energia"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "O fenômeno da \"inseparabilidade dos polos\" só foi observado em materiais ferromagnéticos.",
       "A temperatura de Curie é a temperatura na qual um material perde todas as suas propriedades ferromagnéticas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Magnetismo", "Campo Magnético Terrestre"],
     imageNames: []
@@ -423,7 +423,7 @@ createQuestion({
     university: "uepg",
     year: 2015,
     text: {
-      principal: "A figura abaixo é uma representação esquemática de um cloroplasto parcialmente cortado, mostrando a estrutura interna. Com relação à organização e função das estruturas apontadas, assinale o que for correto.\n[IMAGEM: Diagrama de Cloroplasto com partes numeradas (1: Estroma, 2: Tilacoide, 3: Grano/Granum, 4: Membrana interna, 5: DNA)]\nAdaptado de: Lopes, S; Rosso, S. Bio. Volume 1. 2ª ed. Editora Saraiva, São Paulo, 2010.",
+      principal: "A figura abaixo é uma representação esquemática de um cloroplasto parcialmente cortado, mostrando a estrutura interna. Com relação à organização e função das estruturas apontadas, assinale o que for correto.\n[IMAGEM: Diagrama de Cloroplasto com partes numeradas (1: Estroma, 2: Tilacoide, 3: $Grano/Granum$, 4: Membrana interna, 5: DNA)]\nAdaptado de: Lopes, S; Rosso, S. Bio. Volume 1. 2ª ed. Editora Saraiva, São Paulo, 2010.",
       subItens: []
     },
     options: [
@@ -432,7 +432,7 @@ createQuestion({
       "Em 2, é apontado um tilacoide. Os tilacoides são vesículas membranosas achatadas e é onde está localizada a clorofila.",
       "A membrana externa do cloroplasto é apontada em 4. Nessa estrutura, ficam localizadas as moléculas de clorofila e toda a fase clara da fotossíntese ocorre neste local."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia Vegetal", "Fotossíntese"],
     imageNames: []
@@ -452,7 +452,7 @@ createQuestion({
       "Nas plantas II, III e IV são encontradas sementes.",
       "As plantas III e IV apresentaram o processo de polinização."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Botânica", "Classificação Vegetal", "Grupos de Plantas"],
     imageNames: []
@@ -472,7 +472,7 @@ createQuestion({
       "Por ocasião de um ferimento, proteínas denominadas fibrinogênio unem-se entre si originando uma malha (fibrina) que prende as células do sangue e forma o coágulo, o qual estanca a hemorragia.",
       "O plasma sanguíneo é composto por mais de 90% de água, sendo o restante constituído por substâncias como proteínas, sais, hormônios, nutrientes, gases e excreções."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Fisiologia Humana", "Sistema Sanguíneo"],
     imageNames: []
@@ -492,7 +492,7 @@ createQuestion({
       "As evidências anatômicas da evolução afirmam que estruturas que se desenvolvem de formas semelhantes entre organismos próximos, a partir de um ancestral comum, podem ser considerados órgãos análogos.",
       "Os órgãos homólogos são estruturas que apareceram de forma independente em diferentes grupos de organismos não relacionados filogeneticamente, constituindo adaptações a modos de vida semelhantes."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Evolução", "Evidências Evolutivas"],
     imageNames: []
@@ -507,12 +507,12 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Casais heterozigóticos quanto a este gene (Pp) têm a possibilidade de gerar a seguinte combinação genotípica em seus descendentes: 1/2 PP e 1/2 pp.",
+      "Casais heterozigóticos quanto a este gene (Pp) têm a possibilidade de gerar a seguinte combinação genotípica em seus descendentes: $1/2$ PP e $1/2$ pp.",
       "Casais homozigotos recessivos sempre geram descendentes capazes de sentir o gosto amargo do PTC.",
       "Casais homozigotos dominantes para este gene têm a possibilidade de gerar apenas descendentes capazes de sentir o gosto amargo do PTC.",
       "Um descendente incapaz de sentir o gosto amargo do PTC herda um alelo recessivo do pai (p) e outro da mãe (p)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Genética", "Herança Monogênica", "Leis de Mendel"],
     imageNames: []
@@ -532,7 +532,7 @@ createQuestion({
       "No passado, restos de organismos ficaram a salvo da decomposição, geralmente por terem sido rapidamente encobertos no fundo do mar por restos de sedimentos que se transformaram em rochas. Estes resíduos orgânicos tiveram suas moléculas preservadas e mantiveram sua energia potencial química. Estas substâncias orgânicas sofreram lentas transformações e originaram os combustíveis fósseis.",
       "Os combustíveis fósseis tiveram sua formação pela ação rápida de decompositores sobre restos de organismos e cadáveres, os quais transformaram moléculas orgânicas em CO2."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ecologia", "Ciclos Biogeoquímicos", "Recursos Naturais"],
     imageNames: []
@@ -552,7 +552,7 @@ createQuestion({
       "A escápula e a clavícula são apontadas em 3 e 4, respectivamente. Estes ossos formam a cintura articular escapular, os quais unem os membros superiores ao esqueleto axial.",
       "O número 5 aponta uma vértebra. A coluna vertebral é formada por 33 ossos, as vértebras. Nos adultos, algumas vértebras se fundem, reduzindo o número a 26. As vértebras articulam-se em sequência e são unidas entre si por ligamentos, formando um eixo ósseo firme e flexível."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Anatomia Humana", "Sistema Esquelético"],
     imageNames: []
@@ -572,7 +572,7 @@ createQuestion({
       "A adição de água produz a mistura de sal de cozinha, areia e água, que através de um processo de filtração simples, separa a areia do sal de cozinha + água.",
       "A separação do sal de cozinha da areia pode ser realizada por destilação simples."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Separação de Misturas", "Misturas Homogêneas e Heterogêneas"],
     imageNames: []
@@ -592,7 +592,7 @@ createQuestion({
       "A passagem da amônia líquida para o estado gasoso é uma transformação física chamada de vaporização.",
       "A amônia é uma molécula constituída de ligações covalentes e possui geometria molecular piramidal."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Estados Físicos da Matéria", "Forças Intermoleculares", "Geometria Molecular"],
     imageNames: []
@@ -612,7 +612,7 @@ createQuestion({
       "O hidrogênio e o oxigênio podem originar, por reação química, outras substâncias simples.",
       "Ligações de hidrogênio estão presentes tanto entre as moléculas reagentes como entre as moléculas dos produtos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Reações Químicas", "Substâncias Simples e Compostas"],
     imageNames: []
@@ -632,7 +632,7 @@ createQuestion({
       "Os metais alcalinos terrosos adquirem configuração eletrônica de gás nobre quando formam íons com número de carga +2.",
       "Átomos dos elementos do grupo 1 da tabela periódica, como o sódio e o potássio, possuem uma tendência acentuada a perder elétrons da camada de valência."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Estrutura Atômica", "Ligações Químicas", "Tabela Periódica"],
     imageNames: []
@@ -643,7 +643,7 @@ createQuestion({
     university: "uepg",
     year: 2015,
     text: {
-      principal: "Dadas as equações abaixo, que representam a combustão dos compostos metanol e etanol, e considerando iguais as densidades dos dois líquidos, assinale o que for correto.\nDados: C=12; O=16; H=1\nI) CH4O(l) + 3/2O2(g) → CO2(g) + 2H2O(g) ΔΗ= -726 kJ/mol\nII) C2H6O(l) + 3O2(g) → 2CO2(g) + 3H2O(g) ΔΗ= -1368 kJ/mol",
+      principal: "Dadas as equações abaixo, que representam a combustão dos compostos metanol e etanol, e considerando iguais as densidades dos dois líquidos, assinale o que for correto.\nDados: C=12; O=16; H=1\nI) CH4O(l) + $3/2O2$(g) → CO2(g) + 2H2O(g) ΔΗ= -726 $kJ/mol$\nII) C2H6O(l) + 3O2(g) → 2CO2(g) + 3H2O(g) ΔΗ= -1368 $kJ/mol$",
       subItens: []
     },
     options: [
@@ -652,7 +652,7 @@ createQuestion({
       "Nas CNTP, a queima de 1 mol de etanol consome 22,4 L de O2.",
       "32 g de metanol liberam 726 kJ de calor."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Termoquímica", "Combustão"],
     imageNames: []
@@ -672,7 +672,7 @@ createQuestion({
       "A combustão do etanol produzindo gás carbônico e água.",
       "O processo de enferrujamento de um prego exposto à chuva."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Transformações Físicas e Químicas"],
     imageNames: []
@@ -683,16 +683,16 @@ createQuestion({
     university: "uepg",
     year: 2015,
     text: {
-      principal: "A titulação de uma amostra de calcário (carbonato de cálcio impuro), de massa 20 g, consome 100 mL de solução 72 g/L de ácido clorídrico. Sobre o assunto, assinale o que for correto.\nDados: H = 1 g/mol; Ca = 40 g/mol; C = 12 g/mol; O = 16 g/mol; Cl = 35 g/mol",
+      principal: "A titulação de uma amostra de calcário (carbonato de cálcio impuro), de massa 20 g, consome 100 mL de solução 72 $g/L$ de ácido clorídrico. Sobre o assunto, assinale o que for correto.\nDados: H = 1 $g/mol$; Ca = 40 $g/mol$; C = 12 $g/mol$; O = 16 $g/mol$; Cl = 35 $g/mol$",
       subItens: []
     },
     options: [
       "A fórmula do carbonato de cálcio é CaCO3.",
-      "A concentração do ácido clorídrico em mol/L é 2.",
+      "A concentração do ácido clorídrico em $mol/L$ é 2.",
       "A porcentagem de pureza do calcário é 50%.",
       "O ácido clorídrico é um oxi-ácido considerado forte em meio aquoso."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Estequiometria", "Titulação", "Concentração de Soluções"],
     imageNames: []
@@ -712,7 +712,7 @@ createQuestion({
       "Atualmente, os principais países seguidores deste modelo são os nórdicos, com destaque para Suécia, Dinamarca, Finlândia, Islândia e Noruega. Suas políticas visam a seguridade social através de serviços estatais fortes, gerando elevado padrão de vida e baixas taxas de violência, com resultados consistentes.",
       "EUA e Grã-Bretanha, que haviam fortalecido este modelo com Franklin Roosevelt e Winston Churchill, respectivamente, sofreram com tentativas de seu desmanche por Ronald Reagan nos EUA e Margareth Thatcher na Grã-Bretanha na década de 1980, numa política conhecida como neoliberalismo. As políticas neoliberais foram aplicadas na prática em maior medida para os estadunidenses do que para os britânicos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geopolítica", "Economia", "Modelos Econômicos"],
     imageNames: []
@@ -732,7 +732,7 @@ createQuestion({
       "O Budismo, religião ou filosofia de vida surgida na China a partir do príncipe Sidarta Gautama, tem como um de seus princípios a análise do sofrimento. Segundo seus postulados, o sofrimento viria do desejo e isso pode ser resolvido seguindo uma vida moderada.",
       "A maioria dos seguidores do Taoísmo está na China atualmente. Mesmo assim, possui poucos adeptos neste país em relação ao Confucionismo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Cultura", "Religiões"],
     imageNames: []
@@ -749,10 +749,10 @@ createQuestion({
     options: [
       "A bacia do rio São Francisco, exclusiva do nordeste brasileiro, é essencial para esta região. A transposição do rio São Francisco é considerada estratégica para abastecimento de água e irrigação de plantações do semiárido nordestino.",
       "A bacia do rio Amazonas, maior rede hidrográfica do mundo, ocupa quase metade do território nacional (cerca de 42%). O rio Amazonas nasce de regiões com geleiras nos Andes e possui contribuintes no hemisfério norte e sul da Terra.",
-      "A bacia do rio Paraná, segunda maior do Brasil, drena territórios dos estados de São Paulo, Paraná, Mato Grosso do Sul, Minas Gerais, Goiás, Santa Catarina e do Distrito Federal. Esta bacia hidrográfica foi duramente castigada em alguns de seus pontos pela seca 2014/2015 do país.",
+      "A bacia do rio Paraná, segunda maior do Brasil, drena territórios dos estados de São Paulo, Paraná, Mato Grosso do Sul, Minas Gerais, Goiás, Santa Catarina e do Distrito Federal. Esta bacia hidrográfica foi duramente castigada em alguns de seus pontos pela seca $2014/2015$ do país.",
       "Com exceção do estado de Goiás (Centro-Oeste), os demais tributários da bacia do Tocantins-Araguaia estão na região Norte, sendo esta uma bacia hidrográfica exclusivamente brasileira."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Hidrografia Brasileira", "Bacias Hidrográficas"],
     imageNames: []
@@ -772,7 +772,7 @@ createQuestion({
       "O clima Aw é de inverno seco e é inexistente na bacia amazônica brasileira. Nessa região, há o predomínio do clima Af, típico de áreas equatoriais, sempre úmidas.",
       "O clima predominante das regiões pantaneiras do centro-oeste brasileiro é o Cwa, que é na maior parte quente, com invernos secos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Climatologia", "Classificação Climática", "Climas do Brasil"],
     imageNames: []
@@ -792,7 +792,7 @@ createQuestion({
       "Um dos episódios marcantes da colonização do sudoeste do Paraná é conhecido como a \"revolta dos posseiros\" ocorrida em 1957, na região de Francisco Beltrão. A revolta foi motivada pela falta de equipamentos básicos e insumos agropecuários prometidos pelo governo federal que, no entanto, nunca chegaram.",
       "A região conhecida como \"Paraná Tradicional\" é a mais antiga de colonização efetiva do estado. Nesta região, encontram-se, hoje, as cidades de Paranaguá, Curitiba, Ponta Grossa, Castro e Tibagi."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geografia Agrária", "Colonização do Paraná", "Formação de Cidades"],
     imageNames: []
@@ -812,7 +812,7 @@ createQuestion({
       "Entre os cereais, leguminosas e oleaginosas produzidas em Ponta Grossa, destacam-se o feijão, milho, soja, trigo e cevada, dentre outras.",
       "Em relação aos estabelecimentos agropecuários de Ponta Grossa, a maior parte destes são destinados às lavouras temporárias e uma minoria para lavouras permanentes e florestas plantadas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geografia Regional", "Economia Paranaense", "Agropecuária"],
     imageNames: []
@@ -830,9 +830,9 @@ createQuestion({
       "A Al Qaeda, organização criada nos anos oitenta pelo saudita Osama Bin Laden, tem como objetivos, atualmente, combater a influência da cultura ocidental, combater governos islâmicos considerados moderados e instaurar a sharia. Bin Laden, supostamente, foi morto por incursão dos EUA no território do Paquistão.",
       "Boko Haram é um grupo terrorista que surgiu no norte da Nigéria, mas sua área de atuação também são os vizinhos Níger e Camarões. Entre suas ações conhecidas está o sequestro de mais de 200 meninas em uma escola nigeriana em 2014.",
       "O IRA (Irish Republican Army), organização de pessoas de procedência católica, surgiu para combater protestantes ligados a Ulster e unificar a ilha da Irlanda sob a mesma bandeira, retirando o domínio do norte desta ilha do Reino Unido. Atualmente, boa parte das armas do IRA já foram entregues, atitude elogiada pela Comissão Internacional para o Desarmamento.",
-      "O ETA (Euskadi Ta Askatasuna) surgiu com o objetivo de criar o País Basco entre a Espanha e a França. Atualmente, o grupo terrorista não tem atuado de forma violenta nos territórios em que se insere. Em 2004, chegou a ser acusado de cometer um atentado a bomba no metrô de Madri, porém a Al Qaeda assumiu este ato."
+      "O $\\eta$ (Euskadi Ta Askatasuna) surgiu com o objetivo de criar o País Basco entre a Espanha e a França. Atualmente, o grupo terrorista não tem atuado de forma violenta nos territórios em que se insere. Em 2004, chegou a ser acusado de cometer um atentado a bomba no metrô de Madri, porém a Al Qaeda assumiu este ato."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geopolítica", "Conflitos Mundiais"],
     imageNames: []
@@ -852,7 +852,7 @@ createQuestion({
       "A implantação da Doutrina de Segurança Nacional e da censura aos veículos de comunicação, bem como a montagem de um forte aparelho repressivo são exemplos de como o Estado brasileiro se estruturou sob o comando dos militares.",
       "Chamado (pelos militares que defendiam a manutenção do regime) de \"golpe dentro do golpe\", o processo de anistia e a abertura política podem ser compreendidos como os mais importantes atos políticos promovidos pelo presidente João Figueiredo, último general a governar o Brasil."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História do Brasil", "Ditadura Militar", "Redemocratização"],
     imageNames: []
@@ -872,7 +872,7 @@ createQuestion({
       "A Tríplice Entente (formada por Reino Unido, França e Rússia) e a Tríplice Aliança (formada por Alemanha, Itália e Império Austro-Húngaro) compuseram os lados opostos da guerra.",
       "A I Guerra Mundial foi o primeiro conflito da história a envolver países dos cinco continentes."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História Geral", "Primeira Guerra Mundial"],
     imageNames: []
@@ -892,7 +892,7 @@ createQuestion({
       "Urbano II foi o Papa que convocou a primeira expedição militar católica com o objetivo de retomar a \"Terra Santa\", dominada pelos chamados infiéis.",
       "Uma das principais consequências produzidas pelas Cruzadas foi a disseminação de hábitos, crenças e produtos ocidentais pelo Oriente. A pimenta-do-reino, a canela, a noz-moscada e o cravo são algumas das especiarias levadas pelos cristãos até aquela região."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História Medieval", "Cruzadas"],
     imageNames: []
@@ -912,7 +912,7 @@ createQuestion({
       "O significativo crescimento do operariado na década de 1930 pode ser compreendido como efeito da política governamental de incentivo à industrialização e ao aparecimento de um importante conjunto de leis trabalhistas no país.",
       "A greve geral de 1917 correspondeu, no caso brasileiro, à primeira grande ação de protesto organizada pelos trabalhadores livres e assalariados (compreenda-se, classe operária) em nosso país."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História do Brasil", "Formação da Classe Operária", "Industrialização"],
     imageNames: []
@@ -932,7 +932,7 @@ createQuestion({
       "Apesar da retomada do diálogo político, os Estados Unidos mantiveram o bloqueio econômico à Cuba. Esse é um ponto que voltará a ser discutido pelos países futuramente.",
       "Em discurso feito em Havana, o presidente Raúl Castro afirmou que Cuba está pronta para renunciar ao socialismo e se aproximar, cada vez mais, do capitalismo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História Contemporânea", "Relações Internacionais"],
     imageNames: []
@@ -952,7 +952,7 @@ createQuestion({
       "O juiz Sérgio Moro, que conduz as investigações sobre corrupção na Petrobras, abriu inquérito contra a presidente Dilma Rousseff por compreender que existem elementos que apontam para o envolvimento pessoal dela com o esquema de desvio de dinheiro na estatal.",
       "Antonio Anastasia (PSDB), Antônio Palocci (PT), Eduardo Cunha (PMDB) e Sérgio Cabral (PMDB) são alguns dos políticos que tiveram seus nomes citados durante as investigações da Operação Lava Jato."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História do Brasil", "Política Brasileira Contemporânea", "Corrupção"],
     imageNames: []
@@ -972,7 +972,7 @@ createQuestion({
       "A sede do Instituto Lula, localizado em São Paulo, foi alvo de um atentado à bomba. Apesar de ninguém sair ferido, o ato foi considerado como uma ação política por parte dos dirigentes do Instituto.",
       "Acusado de integrar um esquema de corrupção que envolve dirigentes da FIFA, o ex-presidente da Confederação Brasileira de Futebol (CBF), José Maria Marin, foi preso no Rio de Janeiro e deportado para os Estados Unidos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Atualidades", "Geopolítica"],
     imageNames: []
@@ -992,7 +992,7 @@ createQuestion({
       "concordaram em estender a trégua por mais um dia.",
       "resolveram abrir grandes valas coletivas para sepultarem os mortos dos dois lados juntos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -1012,7 +1012,7 @@ createQuestion({
       "O segmento não contém nenhum verbo.",
       "A palavra \"how\" poderia ser traduzida por \"quão\" nas duas vezes em que aparece."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Análise Gramatical", "Vocabulário"],
     imageNames: []
@@ -1032,7 +1032,7 @@ createQuestion({
       "Nenhum dos lados queria seguir com a guerra, mas os soldados foram obrigados, por seus superiores, a continuar.",
       "Os soldados aliados foram forçados por seus comandantes a jurar que jamais comentariam o ocorrido."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -1052,7 +1052,7 @@ createQuestion({
       "We promise not to shoot at you if you don't shoot at us.",
       "Let's not shoot at each other."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática"],
     imageNames: []
@@ -1072,7 +1072,7 @@ createQuestion({
       "mostraram fotos de seus lares e familiares uns aos outros.",
       "compartilharam comida e trocaram presentes."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -1092,7 +1092,7 @@ createQuestion({
       "São uma conjunção, um verbo, um adjetivo, uma preposição e um substantivo.",
       "Poderiam ser traduzidos por mas, desempenhando, função, ambos e orgulhosamente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário", "Classes de Palavras"],
     imageNames: []
@@ -1112,7 +1112,7 @@ createQuestion({
       "Ele se refere à trégua.",
       "Ele se refere à guerra."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []

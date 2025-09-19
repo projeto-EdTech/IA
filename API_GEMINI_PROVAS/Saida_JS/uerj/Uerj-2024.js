@@ -23,7 +23,7 @@ createQuestion({
     university: "uerj",
     year: 2024,
     text: {
-      principal: "Em um experimento, dois relógios idênticos e sincronizados apresentam uma diferença perceptível na medida do tempo. Um dos relógios se encontra em repouso, enquanto o outro está em movimento a uma velocidade escalar v constante, próxima à velocidade escalar c da luz. Segundo a teoria da relatividade de Albert Einstein, entre o intervalo de tempo Δt₁, medido pelo relógio em repouso, e o intervalo de tempo Δt₂, medido pelo relógio em movimento, observa-se a seguinte relação:\n\nΔt₁ = Δt₂ / √(1 - v²/c²)\n\nConsidere que o deslocamento do relógio ocorre à velocidade v = 12c/13 durante Δt₂ = 10 segundos.\nLogo, o tempo Δt₁, em segundos, decorrido no relógio em repouso, é igual a:",
+      principal: "Em um experimento, dois relógios idênticos e sincronizados apresentam uma diferença perceptível na medida do tempo. Um dos relógios se encontra em repouso, enquanto o outro está em movimento a uma velocidade escalar v constante, próxima à velocidade escalar c da luz. Segundo a teoria da relatividade de Albert Einstein, entre o intervalo de tempo Δt₁, medido pelo relógio em repouso, e o intervalo de tempo Δt₂, medido pelo relógio em movimento, observa-se a seguinte relação:\n\nΔt₁ = Δt₂ / √(1 - v²/c²)\n\nConsidere que o deslocamento do relógio ocorre à velocidade v = $12c/13$ durante Δt₂ = 10 segundos.\nLogo, o tempo Δt₁, em segundos, decorrido no relógio em repouso, é igual a:",
       subItens: []
     },
     options: [
@@ -83,7 +83,7 @@ createQuestion({
     university: "uerj",
     year: 2024,
     text: {
-      principal: "O menor tempo medido em laboratório ocorreu na escala de zeptossegundos e corresponde ao intervalo Δt em que uma partícula de luz percorre a distância que separa os centros atômicos de uma única molécula de hidrogênio. Uma unidade de zeptossegundo equivale a 10⁻²¹ segundo.\nAdmita que a velocidade da luz seja de 3 × 10⁸ m/s e que a distância entre os centros atômicos de uma molécula de hidrogênio seja de 7,2 × 10⁻¹¹ metro.\nNessas condições, no referencial da partícula de luz, o valor de Δt, em zeptossegundos, é igual a:",
+      principal: "O menor tempo medido em laboratório ocorreu na escala de zeptossegundos e corresponde ao intervalo Δt em que uma partícula de luz percorre a distância que separa os centros atômicos de uma única molécula de hidrogênio. Uma unidade de zeptossegundo equivale a 10⁻²¹ segundo.\nAdmita que a velocidade da luz seja de 3 × 10⁸ $m/s$ e que a distância entre os centros atômicos de uma molécula de hidrogênio seja de 7,2 × 10⁻¹¹ metro.\nNessas condições, no referencial da partícula de luz, o valor de Δt, em zeptossegundos, é igual a:",
       subItens: []
     },
     options: [
@@ -827,9 +827,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/2",
+      "$5/2$",
       "3",
-      "7/2",
+      "$7/2$",
       "4"
     ],
     correctAnswer: 2,
@@ -1003,7 +1003,7 @@ createQuestion({
     university: "uerj",
     year: 2024,
     text: {
-      principal: "Em determinadas condições, nanopartículas podem ser impulsionadas como um foguete pela simples interação com o meio. Admita que, em um dado instante, uma dessas partículas, com massa de 9,0 × 10⁻²⁶ kg, adquire velocidade de 2,0 × 10² m/s.\nCom base nessas informações, a ordem de grandeza da quantidade de movimento dessa partícula é igual a:",
+      principal: "Em determinadas condições, nanopartículas podem ser impulsionadas como um foguete pela simples interação com o meio. Admita que, em um dado instante, uma dessas partículas, com massa de 9,0 × 10⁻²⁶ kg, adquire velocidade de 2,0 × 10² $m/s$.\nCom base nessas informações, a ordem de grandeza da quantidade de movimento dessa partícula é igual a:",
       subItens: []
     },
     options: [
@@ -1043,7 +1043,7 @@ createQuestion({
     university: "uerj",
     year: 2024,
     text: {
-      principal: "Para aumentar a eficiência energética de uma caldeira industrial, pesquisadores realizaram um teste que verificou a expansão volumétrica de uma amostra de gás ideal em função da temperatura.\nObserve os resultados no gráfico:\n(Gráfico de Volume (L) versus Temperatura (K) para um gás ideal, com pontos em 300K, 450K, 600K e 500L, 1000L, 1500L)\nAdmita que o processo de expansão volumétrica ocorre à pressão constante de 8 atm e que a constante universal dos gases ideais é de 0,08 atm.L/mol.K.\nAo atingir a temperatura máxima, o número de mols da amostra de gás corresponderá a:",
+      principal: "Para aumentar a eficiência energética de uma caldeira industrial, pesquisadores realizaram um teste que verificou a expansão volumétrica de uma amostra de gás ideal em função da temperatura.\nObserve os resultados no gráfico:\n(Gráfico de Volume (L) versus Temperatura (K) para um gás ideal, com pontos em 300K, 450K, 600K e 500L, 1000L, 1500L)\nAdmita que o processo de expansão volumétrica ocorre à pressão constante de 8 atm e que a constante universal dos gases ideais é de 0,08 atm.$L/mol$.K.\nAo atingir a temperatura máxima, o número de mols da amostra de gás corresponderá a:",
       subItens: []
     },
     options: [
@@ -1163,7 +1163,7 @@ createQuestion({
     university: "uerj",
     year: 2024,
     text: {
-      principal: "A charge de Laerte está inserida em um conjunto de críticas ao governo federal de 2019 a 2022, indicando também expectativas quanto à promoção de mudanças com o fim desse mandato.\n(Charge de Laerte mostrando um cesto de lixo vazio, depois um avião de papel voando e por fim uma planta florescendo sobre o lixo. LAERTE, folha.uol.com.br, fevereiro/2023)\nConsiderando a conjuntura política da transição governamental mencionada, uma correlação adequada entre crítica e expectativa é:",
+      principal: "A charge de Laerte está inserida em um conjunto de críticas ao governo federal de 2019 a 2022, indicando também expectativas quanto à promoção de mudanças com o fim desse mandato.\n(Charge de Laerte mostrando um cesto de lixo vazio, depois um avião de papel voando e por fim uma planta florescendo sobre o lixo. LAERTE, folha.uol.com.br, $fevereiro/2023$)\nConsiderando a conjuntura política da transição governamental mencionada, uma correlação adequada entre crítica e expectativa é:",
       subItens: []
     },
     options: [
@@ -1343,7 +1343,7 @@ createQuestion({
     university: "uerj",
     year: 2024,
     text: {
-      principal: "AVENIDA BRASIL – TUDO PASSA, QUEM NÃO VIU? (1994)\nDe lá pra cá, daqui pra lá\nEu vou\nCom meu amor, vou viajando\nNessa Avenida\nPela faixa seletiva\nNo sufoco dessa vida\nTudo passa, quem não viu?\nUma confusão de coisas\nAssim é a Avenida Brasil\nLinha Vermelha vem cortando a Maré\nÉ a bailarina da cidade\nZiguezagueando eu vou\nOutra vez com a Mocidade\nDo importado à carroça\nO contraste social\nNesse rio de asfalto\nO dinheiro fala alto\nÉ a filosofia nacional\nSou passageiro da alegria\nO meu destino é o prazer\nPasso por ela todo dia\nE hoje ela passa por você\n(...)\nDIOGO DA VIOLA, JEFINHO e JORGE GANNEM\ngaleriadosamba.com.br\nAnalisar o território da Avenida Brasil, no Rio de Janeiro, é analisar uma cidade de contrastes e seus caminhos, os sentidos de sua ocupação. Desde sua inauguração, na década de 1940, houve momentos de aceleração e inércia, tal como acontece no percurso das pessoas que por ali transitam de trem, de ônibus, de van, de mototáxi, automóveis ou, até mesmo, carroças. Cumprindo o papel estratégico para o qual foi traçada, a Avenida facilitou o tráfego rumo ao \"centro da cidade\", ou para \"fora\" dela, para os subúrbios, para outras cidades do Grande Rio, ou para outros destinos. Assim, funcionou como importante eixo impulsionador da ocupação da área por indústrias, estabelecimentos e negócios urbanos nos anos 1940/1950.\nAdaptado de TORRES, Pedro. \"Avenida Brasil - tudo passa, quem não viu?\": formação e ocupação do subúrbio rodoviário no Rio de Janeiro (1930-1960). Revista Brasileira de Estudos Urbanos Regionais, São Paulo, 2018.\nTanto o samba-enredo da Mocidade Independente de Padre Miguel quanto o trecho do artigo acadêmico registram algumas mudanças ocorridas no território da Avenida Brasil ao longo dos anos. Tais mudanças se relacionam com o processo de urbanização da então capital da República.\nUm objetivo e um impacto socioeconômico associados à construção e à expansão da Avenida Brasil, nos anos 1940 e 1950, estão indicados, respectivamente, em:",
+      principal: "AVENIDA BRASIL – TUDO PASSA, QUEM NÃO VIU? (1994)\nDe lá pra cá, daqui pra lá\nEu vou\nCom meu amor, vou viajando\nNessa Avenida\nPela faixa seletiva\nNo sufoco dessa vida\nTudo passa, quem não viu?\nUma confusão de coisas\nAssim é a Avenida Brasil\nLinha Vermelha vem cortando a Maré\nÉ a bailarina da cidade\nZiguezagueando eu vou\nOutra vez com a Mocidade\nDo importado à carroça\nO contraste social\nNesse rio de asfalto\nO dinheiro fala alto\nÉ a filosofia nacional\nSou passageiro da alegria\nO meu destino é o prazer\nPasso por ela todo dia\nE hoje ela passa por você\n(...)\nDIOGO DA VIOLA, JEFINHO e JORGE GANNEM\ngaleriadosamba.com.br\nAnalisar o território da Avenida Brasil, no Rio de Janeiro, é analisar uma cidade de contrastes e seus caminhos, os sentidos de sua ocupação. Desde sua inauguração, na década de 1940, houve momentos de aceleração e inércia, tal como acontece no percurso das pessoas que por ali transitam de trem, de ônibus, de van, de mototá$\\xi$, automóveis ou, até mesmo, carroças. Cumprindo o papel estratégico para o qual foi traçada, a Avenida facilitou o tráfego rumo ao \"centro da cidade\", ou para \"fora\" dela, para os subúrbios, para outras cidades do Grande Rio, ou para outros destinos. Assim, funcionou como importante eixo impulsionador da ocupação da área por indústrias, estabelecimentos e negócios urbanos nos anos $1940/1950$.\nAdaptado de TORRES, Pedro. \"Avenida Brasil - tudo passa, quem não viu?\": formação e ocupação do subúrbio rodoviário no Rio de Janeiro (1930-1960). Revista Brasileira de Estudos Urbanos Regionais, São Paulo, 2018.\nTanto o samba-enredo da Mocidade Independente de Padre Miguel quanto o trecho do artigo acadêmico registram algumas mudanças ocorridas no território da Avenida Brasil ao longo dos anos. Tais mudanças se relacionam com o processo de urbanização da então capital da República.\nUm objetivo e um impacto socioeconômico associados à construção e à expansão da Avenida Brasil, nos anos 1940 e 1950, estão indicados, respectivamente, em:",
       subItens: []
     },
     options: [

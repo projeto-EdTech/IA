@@ -47,7 +47,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "O pronome “se” destacado, em todas as vezes em que foi empregado nesse excerto, funciona como partícula expletiva ou de realce, isto é, poderia ser retirado sem que houvesse mudança de sentido e/ou gramatical.",
+      "O pronome “se” destacado, em todas as vezes em que foi empregado nesse excerto, funciona como partícula expletiva ou de realce, isto é, poderia ser retirado sem que houvesse mudança de sentido $e/ou$ gramatical.",
       "Os termos “os tempos”, “as vontades”, “o ser” e “a confiança” têm a mesma função sintática nesse excerto, isto é, todos eles funcionam como sujeito do verbo “mudar”.",
       "Esse excerto poderia ser reescrito como: “Os tempos são mudados, as vontades são mudadas, o ser é mudado, a confiança é mudada.\", mantendo a passividade da voz verbal empregada no trecho original.",
       "O verbo \"mudar”, em todas as vezes em que foi empregado nesse excerto, foi conjugado no presente do indicativo, indicando ações habituais e em curso."
@@ -303,14 +303,14 @@ createQuestion({
     university: "uemg",
     year: 2022,
     text: {
-      principal: "Qual é a velocidade de uma partícula que tem um momento de 5 Mev/c e uma energia relativística total de 10 Mev?",
+      principal: "Qual é a velocidade de uma partícula que tem um momento de 5 $Mev/c$ e uma energia relativística total de 10 Mev?",
       subItens: []
     },
     options: [
       "c",
       "3 c",
-      "(1/2) c",
-      "(1/4) c"
+      "($1/2$) c",
+      "($1/4$) c"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -403,14 +403,14 @@ createQuestion({
     university: "uemg",
     year: 2022,
     text: {
-      principal: "Considere a seguinte reação reversível genérica:\n\nA + B ⇌ C + D\n\nO gráfico termoquímico para essa reação está demonstrado na figura a seguir.\n\n[Gráfico de Entalpia (ΔH) (kcal/mol) versus Caminho da reação. A + B está em 25 kcal/mol de entalpia. C + D está em 10 kcal/mol de entalpia. O pico da energia de ativação está em 20 kcal/mol.]\n\nDe acordo com os dados do gráfico, assinale a alternativa correta.",
+      principal: "Considere a seguinte reação reversível genérica:\n\nA + B ⇌ C + D\n\nO gráfico termoquímico para essa reação está demonstrado na figura a seguir.\n\n[Gráfico de Entalpia (ΔH) ($kcal/mol$) versus Caminho da reação. A + B está em 25 $kcal/mol$ de entalpia. C + D está em 10 $kcal/mol$ de entalpia. O pico da energia de ativação está em 20 $kcal/mol$.]\n\nDe acordo com os dados do gráfico, assinale a alternativa correta.",
       subItens: []
     },
     options: [
-      "A variação de entalpia para a reação direta é igual a + 15 kcal/mol.",
+      "A variação de entalpia para a reação direta é igual a + 15 $kcal/mol$.",
       "A reação inversa libera a mesma quantidade de energia que a reação direta.",
-      "A energia de ativação para a reação direta é igual a + 10 kcal/mol.",
-      "A variação de entalpia para a reação inversa é igual a + 25 kcal/mol."
+      "A energia de ativação para a reação direta é igual a + 10 $kcal/mol$.",
+      "A variação de entalpia para a reação inversa é igual a + 25 $kcal/mol$."
     ],
     correctAnswer: 2,
     materia: ["Química"],
@@ -443,7 +443,7 @@ createQuestion({
     university: "uemg",
     year: 2022,
     text: {
-      principal: "Em relação ao comportamento ácido/básico/neutro de soluções aquosas, assinale a alternativa que apresenta corretamente o caráter dos sais NH₄I, NaNO₂, KCl e NH₄F, respectivamente. Dados: Ka (NH₄⁺) = 5,6x10⁻¹⁰; Kb (F⁻) = 1,4x10⁻¹¹",
+      principal: "Em relação ao comportamento á$cido/b$á$sico/neutro$ de soluções aquosas, assinale a alternativa que apresenta corretamente o caráter dos sais NH₄I, NaNO₂, KCl e NH₄F, respectivamente. Dados: Ka (NH₄⁺) = 5,6x10⁻¹⁰; Kb (F⁻) = 1,4x10⁻¹¹",
       subItens: []
     },
     options: [
@@ -574,7 +574,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Biologia"],
-    conteudo: ["Saúde Pública", "Doenças Sexualmente Transmissíveis (DSTs/ISTs)", "Profilaxia"],
+    conteudo: ["Saúde Pública", "Doenças Sexualmente Transmissíveis ($DSTs/ISTs$)", "Profilaxia"],
     imageNames: []
 }),
 
@@ -723,7 +723,7 @@ createQuestion({
     university: "uemg",
     year: 2022,
     text: {
-      principal: "Leia os artigos transcritos a seguir, extraídos da Declaração dos Direitos do Homem e do Cidadão, de 26 de agosto de 1789.\n\nArtigo 1º: Os homens nascem e permanecem livres e iguais em direitos. As distinções sociais não podem ser fundamentadas senão sobre a utilidade comum.\nArtigo 6º: A lei é a expressão da vontade geral. Todos os cidadãos têm o direito de concorrer, pessoalmente ou pelos seus representantes, na sua formação. Ela tem de ser a mesma para todos, quer seja protegendo, quer seja punindo. Todos os cidadãos, sendo iguais aos seus olhos, são igualmente admissíveis a todas as dignidades, lugares e empregos públicos, segundo a capacidade deles, e sem outra distinção que a de suas virtudes e talentos.\n\nA Declaração dos Direitos do Homem e do Cidadão foi proclamada no contexto da Revolução Francesa (1789). Sobre esse documento, analise as assertivas e assinale a alternativa que aponta as corretas.\n\nI. A Declaração dos Direitos do Homem e do Cidadão foi escrita por influência das ideias iluministas em agosto de 1789.\nII. A Declaração expressa a defesa e que todos os homens são iguais porque têm direitos iguais e a lei deve representar a vontade geral.\nIII. A Declaração expressa que a lei deve ser a representação da vontade da nobreza e do monarca.\nIV. A Declaração dos Direitos do Homem e do cidadão expressa a defesa da vontade popular sob inspiração da Teoria dos Direitos Divinos do Rei.",
+      principal: "Leia os artigos transcritos a seguir, extraídos da Declaração dos Direitos do Homem e do Cidadão, de 26 de agosto de 1789.\n\nArtigo 1º: Os homens nascem e permanecem livres e iguais em direitos. As distinções sociais não podem ser fundamentadas $\\sin$ão sobre a utilidade comum.\nArtigo 6º: A lei é a expressão da vontade geral. Todos os cidadãos têm o direito de concorrer, pessoalmente ou pelos seus representantes, na sua formação. Ela tem de ser a mesma para todos, quer seja protegendo, quer seja punindo. Todos os cidadãos, sendo iguais aos seus olhos, são igualmente admissíveis a todas as dignidades, lugares e empregos públicos, segundo a capacidade deles, e sem outra distinção que a de suas virtudes e talentos.\n\nA Declaração dos Direitos do Homem e do Cidadão foi proclamada no contexto da Revolução Francesa (1789). Sobre esse documento, analise as assertivas e assinale a alternativa que aponta as corretas.\n\nI. A Declaração dos Direitos do Homem e do Cidadão foi escrita por influência das ideias iluministas em agosto de 1789.\nII. A Declaração expressa a defesa e que todos os homens são iguais porque têm direitos iguais e a lei deve representar a vontade geral.\nIII. A Declaração expressa que a lei deve ser a representação da vontade da nobreza e do monarca.\nIV. A Declaração dos Direitos do Homem e do cidadão expressa a defesa da vontade popular sob inspiração da Teoria dos Direitos Divinos do Rei.",
       subItens: []
     },
     options: [
@@ -883,7 +883,7 @@ createQuestion({
     university: "uemg",
     year: 2022,
     text: {
-      principal: "Um professor solicitou que seus alunos encontrassem o domínio da função f: R → R definida por f(x) = x/√(x-1) - 2x/(x+1). O aluno A resolveu a questão, mas cometeu um erro e respondeu que o domínio dessa função é S₁ = {x ∈ R/0 ≤ x ≤ 3}. O aluno B resolveu a questão corretamente e respondeu que o domínio dessa função é S₂. Sendo A o conjunto dos números inteiros pertencentes a S₁ e B o conjunto dos números inteiros pertencentes a S₂, é correto afirmar que A ∩ B é igual a",
+      principal: "Um professor solicitou que seus alunos encontrassem o domínio da função f: R → R definida por f(x) = x/√(x-1) - 2x/(x+1). O aluno A resolveu a questão, mas cometeu um erro e respondeu que o domínio dessa função é S₁ = {x ∈ $R/0$ ≤ x ≤ 3}. O aluno B resolveu a questão corretamente e respondeu que o domínio dessa função é S₂. Sendo A o conjunto dos números inteiros pertencentes a S₁ e B o conjunto dos números inteiros pertencentes a S₂, é correto afirmar que A ∩ B é igual a",
       subItens: []
     },
     options: [
@@ -903,14 +903,14 @@ createQuestion({
     university: "uemg",
     year: 2022,
     text: {
-      principal: "Se sen(x) = √5/5 com π/2 < x < π, então o valor de cotg(x) - cos(x) é igual a",
+      principal: "Se $\\sin$(x) = √$5/5$ com π/2 < x < π, então o valor de $\\cot$(x) - $\\cos$(x) é igual a",
       subItens: []
     },
     options: [
-      "-2 + 2√5/5",
-      "-2 - 2√5/5",
-      "2 - 2√5/5",
-      "2 + 2√5/5."
+      "-2 + 2√$5/5$",
+      "-2 - 2√$5/5$",
+      "2 - 2√$5/5$",
+      "2 + 2√$5/5$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],

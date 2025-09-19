@@ -570,7 +570,7 @@ createQuestion({
     university: "uerr",
     year: 2021,
     text: {
-      principal: "Em um experimento, realizado em laboratório químico em condições ambientes, foram empregadas amostras de quatro substâncias diferentes, duas sólidas e duas líquidas.\n[Imagens de béqueres com substâncias sólidas e líquidas em água]\nNa tabela são apresentadas informações sobre as densidades dessas substâncias.\nSubstância | Densidade\nÁgua | 1 g/cm³\nX | 13 g/cm³\nY | 2,7 g/cm³\nZ | 0,9 g/cm³\nAs substâncias X, Y e Z são, respectivamente,",
+      principal: "Em um experimento, realizado em laboratório químico em condições ambientes, foram empregadas amostras de quatro substâncias diferentes, duas sólidas e duas líquidas.\n[Imagens de béqueres com substâncias sólidas e líquidas em água]\nNa tabela são apresentadas informações sobre as densidades dessas substâncias.\nSubstância | Densidade\nÁgua | 1 $g/cm$³\nX | 13 $g/cm$³\nY | 2,7 $g/cm$³\nZ | 0,9 $g/cm$³\nAs substâncias X, Y e Z são, respectivamente,",
       subItens: []
     },
     options: [
@@ -763,11 +763,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1,50 km/h.",
-      "2,25 km/h.",
-      "3,75 km/h.",
-      "25,5 km/h.",
-      "90,0 km/h."
+      "1,50 $km/h$.",
+      "2,25 $km/h$.",
+      "3,75 $km/h$.",
+      "25,5 $km/h$.",
+      "90,0 $km/h$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -801,7 +801,7 @@ createQuestion({
     university: "uerr",
     year: 2021,
     text: {
-      principal: "Em alguns postos de bombeiros é comum existir um poste liso vertical pelo qual os bombeiros descem para chegar rapidamente a seus veículos, em caso de uma emergência. Suponha que um bombeiro de 80 kg desça por um desses postes com aceleração vertical constante de 4,0 m/s², conforme mostra a figura.\n[Imagem de um bombeiro descendo por um poste com aceleração de 4.0 m/s²]\nSabendo que a aceleração da gravidade no local é de 10 m/s², a intensidade da força de atrito entre o bombeiro e o poste é igual a",
+      principal: "Em alguns postos de bombeiros é comum existir um poste liso vertical pelo qual os bombeiros descem para chegar rapidamente a seus veículos, em caso de uma emergência. Suponha que um bombeiro de 80 kg desça por um desses postes com aceleração vertical constante de 4,0 $m/s$², conforme mostra a figura.\n[Imagem de um bombeiro descendo por um poste com aceleração de 4.0 $m/s$²]\nSabendo que a aceleração da gravidade no local é de 10 $m/s$², a intensidade da força de atrito entre o bombeiro e o poste é igual a",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "uerr",
     year: 2021,
     text: {
-      principal: "Um copo de 15 cm de profundidade está totalmente preenchido com óleo de cozinha, cuja densidade é de 0,8 g/cm³. Considerando que a aceleração da gravidade no local é 10 m/s², a pressão exercida pelo óleo no fundo do copo é igual a",
+      principal: "Um copo de 15 cm de profundidade está totalmente preenchido com óleo de cozinha, cuja densidade é de 0,8 $g/cm$³. Considerando que a aceleração da gravidade no local é 10 $m/s$², a pressão exercida pelo óleo no fundo do copo é igual a",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "uerr",
     year: 2021,
     text: {
-      principal: "Uma lâmpada que produz um raio de luz monocromático foi colocada no fundo de uma fonte de 1 m de profundidade de tal forma que seu raio de luz percorre a trajetória ilustrada na figura. A fonte contém água, cujo índice de refração é √3.\n[Diagrama de refração de luz da água para o ar]\nConsidere os valores da tabela:\nθ | sen θ | cos θ | tg θ\n0° | 0 | 1 | 0\n30° | 1/2 | √3/2 | √3/3\n45° | √2/2 | √2/2 | 1\n60° | √3/2 | 1/2 | √3\n90° | 1 | 0 | +∞\nUtilizando os valores dados na tabela e assumindo que o índice de refração do ar é igual a 1, um observador do lado de fora da fonte",
+      principal: "Uma lâmpada que produz um raio de luz monocromático foi colocada no fundo de uma fonte de 1 m de profundidade de tal forma que seu raio de luz percorre a trajetória ilustrada na figura. A fonte contém água, cujo índice de refração é √3.\n[Diagrama de refração de luz da água para o ar]\nConsidere os valores da tabela:\nθ | $\\sin$ θ | $\\cos$ θ | $\\tan$ θ\n0° | 0 | 1 | 0\n30° | $1/2$ | √$3/2$ | √$3/3$\n45° | √$2/2$ | √$2/2$ | 1\n60° | √$3/2$ | $1/2$ | √3\n90° | 1 | 0 | +∞\nUtilizando os valores dados na tabela e assumindo que o índice de refração do ar é igual a 1, um observador do lado de fora da fonte",
       subItens: []
     },
     options: [
@@ -1452,7 +1452,7 @@ createQuestion({
     university: "uerr",
     year: 2021,
     text: {
-      principal: "\"Posso dizer que hoje, dia 3 de maio de 2018, o ETA deixou de existir\". Palavras do diretor do Centro para o Diálogo Humanitário, em Genebra, na Suíça, que leu a carta confirmando o fim do grupo, considerado uma organização terrorista pela União Europeia. O texto afirma que as atividades políticas do ETA foram encerradas.\n(http://g1.globo.com, 03.05.2018. Adaptado.)\nCom ações que ganharam repercussão internacional, o ETA correspondeu a um grupo",
+      principal: "\"Posso dizer que hoje, dia 3 de maio de 2018, o $\\eta$ deixou de existir\". Palavras do diretor do Centro para o Diálogo Humanitário, em Genebra, na Suíça, que leu a carta confirmando o fim do grupo, considerado uma organização terrorista pela União Europeia. O texto afirma que as atividades políticas do $\\eta$ foram encerradas.\n(http://g1.globo.com, 03.05.2018. Adaptado.)\nCom ações que ganharam repercussão internacional, o $\\eta$ correspondeu a um grupo",
       subItens: []
     },
     options: [

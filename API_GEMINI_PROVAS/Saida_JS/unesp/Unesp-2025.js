@@ -57,7 +57,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Compreensão textual", "Caracterização de personagens/discurso"],
+    conteudo: ["Compreensão textual", "Caracterização de $personagens/discurso$"],
     imageNames: []
 }),
 
@@ -177,7 +177,7 @@ createQuestion({
     options: [
       "A couve mineira tem gosto de bife inglês\nDepois do café e da pinga\nO gozo de acender a palha\nEnrolando o fumo\nDe Barbacena ou de Goiás\nCigarro cavado\nConversa sentada",
       "Sente-se diante da vitrola\nE esqueça-se das vicissitudes da vida\nNa dura labuta de todos os dias\nNão deve ninguém que se preze\nDescuidar dos prazeres da alma\nDiscos a todos os preços",
-      "Para dizerem milho dizem mio\nPara melhor dizem mió\nPara pior pió\nPara telha dizem teia\nPara telhado dizem teiado\nE vão fazendo telhados",
+      "Para dizerem milho dizem mio\nPara melhor dizem mió\nPara pior $\\pi$ó\nPara telha dizem teia\nPara telhado dizem teiado\nE vão fazendo telhados",
       "Depois da churrascada\nAo fogo e ao vento\nO cavaleiro do gado\nTrouxe ouro em pó\nE uma cuia festiva\nPara sorvermos a digestão",
       "Meu amigo\nFoi-me impossível vir hoje\nPorque Armando veio comigo\nComo se foras tu\nNecessito muito de algum dinheiro\nArranja-mo\nDeixo-te um beijo na porta\nDa garçonnière\nE sou a sinceridade"
     ],
@@ -297,7 +297,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "Uma obra representativa do movimento explorado no artigo está reproduzida em:\n\nIMAGEM A: Gravura de Roy Lichtenstein, intitulada \"Garota no espelho.\"\nIMAGEM B: Pintura de Pablo Picasso, intitulada \"Mulher com um livro.\"\nIMAGEM C: Pintura de René Magritte, intitulada \"A reprodução proibida.\"\nIMAGEM D: Pintura de Caspar David Friedrich, intitulada \"O caminhante sobre o mar de névoa.\"\nIMAGEM E: Pintura de Michelangelo Merisi/Caravaggio, intitulada \"Narciso.\"",
+      principal: "Uma obra representativa do movimento explorado no artigo está reproduzida em:\n\nIMAGEM A: Gravura de Roy Lichtenstein, intitulada \"Garota no espelho.\"\nIMAGEM B: Pintura de Pablo Picasso, intitulada \"Mulher com um livro.\"\nIMAGEM C: Pintura de René Magritte, intitulada \"A reprodução proibida.\"\nIMAGEM D: Pintura de Caspar David Friedrich, intitulada \"O caminhante sobre o mar de névoa.\"\nIMAGEM E: Pintura de Michelangelo $Merisi/Caravaggio$, intitulada \"Narciso.\"",
       subItens: []
     },
     options: [
@@ -305,7 +305,7 @@ createQuestion({
       "(Pablo Picasso. Mulher com um livro.)",
       "(René Magritte. A reprodução proibida.)",
       "(Caspar David Friedrich. O caminhante sobre o mar de névoa.)",
-      "(Michelangelo Merisi/Caravaggio. Narciso.)"
+      "(Michelangelo $Merisi/Caravaggio$. Narciso.)"
     ],
     correctAnswer: 2,
     materia: ["Arte"],
@@ -654,7 +654,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "Analise o afresco que representa a vida de São Francisco de Assis, pintado por Giotto, a partir de 1288, na igreja superior de Assis (Itália).\n\nIMAGEM: Afresco \"São Francisco Renuncia aos Bens Terrenos\", de Giotto, mostrando São Francisco de Assis nu, sendo amparado por um bispo, enquanto seu pai, enfurecido, é contido por outros. Pessoas ao redor observam a cena. Um cenário arquitetônico ao fundo.\n\n(In: Georges Duby e Michel Laclotte (orgs.). História artística da Europa: A Idade Média II, 1998.)\n\nA representação expõe",
+      principal: "Analise o afresco que representa a vida de São Francisco de Assis, pintado por Giotto, a partir de 1288, na igreja superior de Assis (Itália).\n\nIMAGEM: Afresco \"São Francisco Renuncia aos Bens Terrenos\", de Giotto, mostrando São Francisco de Assis $\\nu$, sendo amparado por um bispo, enquanto seu pai, enfurecido, é contido por outros. Pessoas ao redor observam a cena. Um cenário arquitetônico ao fundo.\n\n(In: Georges Duby e Michel Laclotte (orgs.). História artística da Europa: A Idade Média II, 1998.)\n\nA representação expõe",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "Leia o excerto para responder às questões 33 e 34.\n\nO boom na mineração do ouro, em Minas Gerais, mudou poderosamente o centro de gravidade da economia e da população brasileiras do Norte para o Centro e o Sul. [...] Embora os baianos tivessem voz considerável nos investimentos feitos dentro das zonas de mineração, a logística do transporte pelo interior fez com que a balança comercial para e a partir das províncias do interior pendesse para as cidades do Sul. Assim, as minas de Minas Gerais, Goiás e Mato Grosso tornaram-se a hinterlândia crucial do porto do Rio de Janeiro. O Rio de Janeiro logo ultrapassou a Bahia em transporte marítimo e comércio internacional, e chegou rapidamente a uma população de 50 mil habitantes na capital. A Coroa reconheceu esta nova realidade [...], mudando a capital da colônia de Salvador para o Rio de Janeiro, em 1763.\n\n(Herbert S. Klein. Escravidão africana: América Latina e Caribe, 1987.)\n\nO excerto registra uma transformação importante no processo de colonização da América portuguesa e caracteriza a conexão entre",
+      principal: "Leia o excerto para responder às questões 33 e 34.\n\nO boom na mineração do ouro, em Minas Gerais, mudou poderosamente o centro de gravidade da economia e da população brasileiras do Norte para o Centro e o Sul. [...] Embora os baianos tivessem voz considerável nos investimentos feitos dentro das zonas de mineração, a $\\log$ística do transporte pelo interior fez com que a balança comercial para e a partir das províncias do interior pendesse para as cidades do Sul. Assim, as minas de Minas Gerais, Goiás e Mato Grosso tornaram-se a hinterlândia crucial do porto do Rio de Janeiro. O Rio de Janeiro logo ultrapassou a Bahia em transporte marítimo e comércio internacional, e chegou rapidamente a uma população de 50 mil habitantes na capital. A Coroa reconheceu esta nova realidade [...], mudando a capital da colônia de Salvador para o Rio de Janeiro, em 1763.\n\n(Herbert S. Klein. Escravidão africana: América Latina e Caribe, 1987.)\n\nO excerto registra uma transformação importante no processo de colonização da América portuguesa e caracteriza a conexão entre",
       subItens: []
     },
     options: [
@@ -990,15 +990,15 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "Um estado brasileiro oferece duas opções de rotas, opção 1 e opção 2, para o transporte de mercadorias. A seguir, estão representadas as dimensões dos trechos de cada opção de rota e as máximas velocidades médias neles possíveis.\n\nIMAGEM: Diagrama de duas opções de rota.\nOPÇÃO 1: Ferroviário (ΔS = 400 km, v = 80 km/h) e Rodoviário (ΔS = 1100 km, v = 55 km/h).\nOPÇÃO 2: Hidroviário (ΔS = 1200 km, v = 48 km/h) e Rodoviário (ΔS = 300 km, v = 60 km/h).\n\nConsiderando as características dos modais apresentados e que em, cada opção de rota, desenvolva-se sempre a máxima velocidade média permitida, tem-se que",
+      principal: "Um estado brasileiro oferece duas opções de rotas, opção 1 e opção 2, para o transporte de mercadorias. A seguir, estão representadas as dimensões dos trechos de cada opção de rota e as máximas velocidades médias neles possíveis.\n\nIMAGEM: Diagrama de duas opções de rota.\nOPÇÃO 1: Ferroviário (ΔS = 400 km, v = 80 $km/h$) e Rodoviário (ΔS = 1100 km, v = 55 $km/h$).\nOPÇÃO 2: Hidroviário (ΔS = 1200 km, v = 48 $km/h$) e Rodoviário (ΔS = 300 km, v = 60 $km/h$).\n\nConsiderando as características dos modais apresentados e que em, cada opção de rota, desenvolva-se sempre a máxima velocidade média permitida, tem-se que",
       subItens: []
     },
     options: [
-      "a opção 2 é a mais indicada para deslocar produtos estratégicos, como as commodities, já que apresenta grande capacidade de carga e significativa agilidade no transporte, com velocidade média de 54 km/h em todo o trajeto.",
-      "a opção 1 é a mais indicada para transportar produtos de elevado valor agregado, já que apresenta agilidade, com velocidade média de 67,5 km/h, e capacidade de minimizar os custos provocados pela baixa eficiência energética de seu modal predominante.",
-      "a opção 2 é a mais indicada para o transporte de produtos com baixo valor agregado e menor urgência de entrega, já que apresenta o predomínio de um modal econômico em eficiência energética e de reduzida velocidade média, com 50 km/h.",
+      "a opção 2 é a mais indicada para deslocar produtos estratégicos, como as commodities, já que apresenta grande capacidade de carga e significativa agilidade no transporte, com velocidade média de 54 $km/h$ em todo o trajeto.",
+      "a opção 1 é a mais indicada para transportar produtos de elevado valor agregado, já que apresenta agilidade, com velocidade média de 67,5 $km/h$, e capacidade de minimizar os custos provocados pela baixa eficiência energética de seu modal predominante.",
+      "a opção 2 é a mais indicada para o transporte de produtos com baixo valor agregado e menor urgência de entrega, já que apresenta o predomínio de um modal econômico em eficiência energética e de reduzida velocidade média, com 50 $km/h$.",
       "a opção 1 é a mais indicada para deslocar produtos perecíveis, já que, somando as velocidades de seus modais, apresenta uma velocidade média capaz de concluir o transporte em pouco menos de 11 horas.",
-      "a opção 1 é a mais indicada para o transporte de produtos primários, sobretudo bens de produção, já que oferece baixo custo de transporte associado à rapidez na entrega, com velocidade média de 65 km/h."
+      "a opção 1 é a mais indicada para o transporte de produtos primários, sobretudo bens de produção, já que oferece baixo custo de transporte associado à rapidez na entrega, com velocidade média de 65 $km/h$."
     ],
     correctAnswer: 2,
     materia: ["Matemática", "Geografia"],
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "TEXTO 1\n\nA obra Organon constitui o primeiro estudo amplo da disciplina Lógica, embora falte essa palavra para designá-la. No início de Analíticos, Aristóteles define a disciplina que se prepara para investigar como ciência da demonstração e do saber demonstrativo. Distingue dois tipos de discurso, dialético e demonstrativo: o primeiro parte do problemático e do provável e termina necessariamente no provável; o segundo parte do verdadeiro e termina no verdadeiro.\n\n(Nicola Abbagnano. Dicionário de filosofia, 2007. Adaptado.)\n\nTEXTO 2\n\nNo Livro I, capítulo 1 de sua obra Primeiros Analíticos, Aristóteles define o que é um silogismo perfeito: “Silogismo é um argumento no qual, colocadas certas coisas, outra distinta das estabelecidas decorre necessariamente, porque essas coisas são o caso. Por ‘porque essas coisas são o caso’ quero dizer decorrer em virtude delas; por ‘decorrer em virtude delas’ quero dizer não carecer de nenhum termo externo para que o necessário venha a ser o caso”.\n\n(Mateus R. F. Ferreira. “O que são silogismos perfeitos?”. https://revistas.ufpr.br/doispontos, 2013. Adaptado.)\n\nNos textos 1 e 2 está apresentada uma das principais contribuições de Aristóteles para a história da filosofia. Tal contribuição refere-se",
+      principal: "TEXTO 1\n\nA obra Organon constitui o primeiro estudo amplo da disciplina Lógica, embora falte essa palavra para designá-la. No início de Analíticos, Aristóteles define a disciplina que se prepara para investigar como ciência da demonstração e do saber demonstrativo. Distingue dois tipos de discurso, dialético e demonstrativo: o primeiro parte do problemático e do provável e termina necessariamente no provável; o segundo parte do verdadeiro e termina no verdadeiro.\n\n(Nicola Abbagnano. Dicionário de filosofia, 2007. Adaptado.)\n\nTEXTO 2\n\nNo Livro I, capítulo 1 de sua obra Primeiros Analíticos, Aristóteles define o que é um silogismo perfeito: “Silogismo é um argumento no qual, colocadas certas coisas, outra distinta das estabelecidas decorre necessariamente, porque essas coisas são o caso. Por ‘porque essas coisas são o caso’ quero dizer decorrer em virtude delas; por ‘decorrer em virtude delas’ quero dizer não carecer de nenhum termo externo para que o necessário venha a ser o caso”.\n\n(Mateus R. F. Ferreira. “O que são silogismos perfeitos?”. https://revistas.ufpr.$br/doispontos$, 2013. Adaptado.)\n\nNos textos 1 e 2 está apresentada uma das principais contribuições de Aristóteles para a história da filosofia. Tal contribuição refere-se",
       subItens: []
     },
     options: [
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "O que chamamos arte não mais nos demanda contemplação, mas sim reflexão sobre o sentido da palavra “arte”. Ou seja, o valor “arte” deserta o objeto para se ancorar no discurso de um indivíduo que se declara artista e que declara algo, uma ação, uma instrução, um ritual — não importa — como “arte”. Nesse momento, importam menos as qualidades intrínsecas (linhas, planos, luminosidade, textura etc.) desse objeto do que reconstituir um questionamento que nos convida à reflexão. [...] o artista não pode mais ser reconhecido por suas habilidades técnicas, mas sim porque se instala no centro de uma rede de discursos, ele mesmo assumindo o discurso sobre sua obra/fazer.\n\n(Luzia Gontijo Rodrigues. “A arte para além da estética: arte contemporânea e o discurso dos artistas”. Artefilosofia, 2008.)\n\nConsiderando o objeto referido no excerto, a mudança na concepção de arte, mencionada pela autora, corresponde",
+      principal: "O que chamamos arte não mais nos demanda contemplação, mas sim reflexão sobre o sentido da palavra “arte”. Ou seja, o valor “arte” deserta o objeto para se ancorar no discurso de um indivíduo que se declara artista e que declara algo, uma ação, uma instrução, um ritual — não importa — como “arte”. Nesse momento, importam menos as qualidades intrínsecas (linhas, planos, luminosidade, textura etc.) desse objeto do que reconstituir um questionamento que nos convida à reflexão. [...] o artista não pode mais ser reconhecido por suas habilidades técnicas, mas sim porque se instala no centro de uma rede de discursos, ele mesmo assumindo o discurso sobre sua $obra/fazer$.\n\n(Luzia Gontijo Rodrigues. “A arte para além da estética: arte contemporânea e o discurso dos artistas”. Artefilosofia, 2008.)\n\nConsiderando o objeto referido no excerto, a mudança na concepção de arte, mencionada pela autora, corresponde",
       subItens: []
     },
     options: [
@@ -1368,7 +1368,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "Na figura, os números 1 a 5 indicam os alvos para testes de diagnóstico de doenças causadas pela Taenia solium em seres humanos ou porcos.\n\nIMAGEM: Diagrama que mostra o ciclo de vida da Taenia solium, com números indicando etapas ou hospedeiros. 1: ovos/proglótides; 2: suíno; 3: cisticerco na carne de porco; 4: ser humano com teníase (verme adulto); 5: cisticercose humana (larva no tecido humano).\n\n(World Health Organization (WHO) and For research on diseases of poverty. \"Taenia solium Taeniasis/cysticercosis diagnostic tools\", 2015. Adaptado.)\n\nOs alvos para manter o diagnóstico de teníase estão indicados pelos números",
+      principal: "Na figura, os números 1 a 5 indicam os alvos para testes de diagnóstico de doenças causadas pela Taenia solium em seres humanos ou porcos.\n\nIMAGEM: Diagrama que mostra o ciclo de vida da Taenia solium, com números indicando etapas ou hospedeiros. 1: $ovos/progl$ótides; 2: suíno; 3: cisticerco na carne de porco; 4: ser humano com teníase (verme adulto); 5: cisticercose humana (larva no tecido humano).\n\n(World Health Organization (WHO) and For research on diseases of poverty. \"Taenia solium $Taeniasis/cysticercosis$ diagnostic tools\", 2015. Adaptado.)\n\nOs alvos para manter o diagnóstico de teníase estão indicados pelos números",
       subItens: []
     },
     options: [
@@ -1452,7 +1452,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "IMAGEM: Fotografia de cilindros de gelo-seco.\n\nA imagem mostra cilindros de gelo-seco, CO₂ (s), substância muito empregada no transporte e conservação de alimentos sob refrigeração.\n\n(www.gbgeloseco.com.br)\n\nO gelo-seco tem esse nome porque sofre sublimação, ou seja, passa diretamente do estado sólido para o estado gasoso, sem passar pelo estado líquido. Sabendo que o volume molar de um gás medido nas CATP (Condições Ambiente de Temperatura e Pressão) é igual a 25 L/mol, o volume, medido nas CATP, ocupado pelo gás resultante da sublimação de 1,1 kg de gelo-seco é próximo de",
+      principal: "IMAGEM: Fotografia de cilindros de gelo-seco.\n\nA imagem mostra cilindros de gelo-seco, CO₂ (s), substância muito empregada no transporte e conservação de alimentos sob refrigeração.\n\n(www.gbgeloseco.com.br)\n\nO gelo-seco tem esse nome porque sofre sublimação, ou seja, passa diretamente do estado sólido para o estado gasoso, sem passar pelo estado líquido. Sabendo que o volume molar de um gás medido nas CATP (Condições Ambiente de Temperatura e Pressão) é igual a 25 $L/mol$, o volume, medido nas CATP, ocupado pelo gás resultante da sublimação de 1,1 kg de gelo-seco é próximo de",
       subItens: []
     },
     options: [
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "Uma solução aquosa do sal sulfato de cobre pentahidratado, CuSO₄.5H₂O, massa molar = 250 g/mol, foi preparada pela diluição de 10 mL de uma solução estoque do sal que contém 10 g do sal/100 mL de solução, até o volume final de 1 L.\n\nA concentração da solução diluída do sal, expressa em g/L e em mol/L, é, respectivamente,",
+      principal: "Uma solução aquosa do sal sulfato de cobre pentahidratado, CuSO₄.5H₂O, massa molar = 250 $g/mol$, foi preparada pela diluição de 10 mL de uma solução estoque do sal que contém 10 g do $sal/100$ mL de solução, até o volume final de 1 L.\n\nA concentração da solução diluída do sal, expressa em $g/L$ e em $mol/L$, é, respectivamente,",
       subItens: []
     },
     options: [
@@ -1557,7 +1557,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "A hidrazina (N₂H₄), substância utilizada como propelente de foguetes, sofre combustão conforme a equação:\n\nN₂H₄ + O₂ → N₂ + 2H₂O\n\nA tabela apresenta alguns valores de entalpias de ligação envolvidas nessa reação.\n\nTABELA: Valores de entalpia (kJ/mol) para as ligações N-H (391), N≡N (949), N-N (163), O=O (497), H-O (463).\n\nUtilizando os dados tabelados, calcula-se que a combustão de 1 mol de hidrazina irá liberar",
+      principal: "A hidrazina (N₂H₄), substância utilizada como propelente de foguetes, sofre combustão conforme a equação:\n\nN₂H₄ + O₂ → N₂ + 2H₂O\n\nA tabela apresenta alguns valores de entalpias de ligação envolvidas nessa reação.\n\nTABELA: Valores de entalpia ($kJ/mol$) para as ligações N-H (391), N≡N (949), N-N (163), O=O (497), H-O (463).\n\nUtilizando os dados tabelados, calcula-se que a combustão de 1 mol de hidrazina irá liberar",
       subItens: []
     },
     options: [
@@ -1599,15 +1599,15 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "Uma bola é chutada obliquamente, no instante t₀ = 0, com velocidade inicial v₀, no ponto A de uma elevação. Essa bola descreve a trajetória indicada na figura passando pelo ponto B, ponto mais alto de sua trajetória, no instante t = 0,8 s, e atinge o solo horizontal no ponto C, no instante t = 2 s.\n\nIMAGEM: Gráfico y(m) vs x(m) mostrando a trajetória de uma bola chutada, que parte do ponto A (em uma elevação), atinge o ponto B (altura máxima) no tempo t = 0,8s e chega ao solo no ponto C no tempo t = 2s. Vetor v₀ no ponto A e vetor g para baixo.\n\nDesprezando a resistência do ar, adotando g = 10 m/s² e sabendo que a equação da trajetória dessa bola, desde o ponto A até o ponto C, é y = –0,2 · x² + 1,6 · x + 4, o módulo de v₀ é",
+      principal: "Uma bola é chutada obliquamente, no instante t₀ = 0, com velocidade inicial v₀, no ponto A de uma elevação. Essa bola descreve a trajetória indicada na figura passando pelo ponto B, ponto mais alto de sua trajetória, no instante t = 0,8 s, e atinge o solo horizontal no ponto C, no instante t = 2 s.\n\nIMAGEM: Gráfico y(m) vs x(m) mostrando a trajetória de uma bola chutada, que parte do ponto A (em uma elevação), atinge o ponto B (altura máxima) no tempo t = 0,8s e chega ao solo no ponto C no tempo t = 2s. Vetor v₀ no ponto A e vetor g para baixo.\n\nDesprezando a resistência do ar, adotando g = 10 $m/s$² e sabendo que a equação da trajetória dessa bola, desde o ponto A até o ponto C, é y = –0,2 · x² + 1,6 · x + 4, o módulo de v₀ é",
       subItens: []
     },
     options: [
-      "4 m/s",
-      "√45 m/s",
-      "6 m/s",
-      "13 m/s",
-      "√89 m/s"
+      "4 $m/s$",
+      "√45 $m/s$",
+      "6 $m/s$",
+      "13 $m/s$",
+      "√89 $m/s$"
     ],
     correctAnswer: 4,
     materia: ["Física", "Matemática"],
@@ -1620,15 +1620,15 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "Uma esteira rolante é utilizada para transportar caixas para o alto de uma plataforma. Para iniciar a subida a partir do repouso, a esteira é colocada em movimento uniformemente acelerado por alguns instantes, até que as caixas atinjam uma velocidade constante, compatível com a subida. O coeficiente de atrito estático entre as superfícies das caixas e a superfície da esteira é 0,8 e a aceleração da gravidade local tem intensidade 10 m/s².\n\nIMAGEM: Diagrama de uma esteira rolante inclinada de um ângulo θ em relação à horizontal, com uma caixa sobre ela. Aceleração da gravidade (g) apontando para baixo.\n\nSabendo que sen θ = 0,6 e que cos θ = 0,8, a intensidade da máxima aceleração que a esteira pode ter no início de seu movimento, sem que as caixas escorreguem sobre ela, será",
+      principal: "Uma esteira rolante é utilizada para transportar caixas para o alto de uma plataforma. Para iniciar a subida a partir do repouso, a esteira é colocada em movimento uniformemente acelerado por alguns instantes, até que as caixas atinjam uma velocidade constante, compatível com a subida. O coeficiente de atrito estático entre as superfícies das caixas e a superfície da esteira é 0,8 e a aceleração da gravidade local tem intensidade 10 $m/s$².\n\nIMAGEM: Diagrama de uma esteira rolante inclinada de um ângulo θ em relação à horizontal, com uma caixa sobre ela. Aceleração da gravidade (g) apontando para baixo.\n\nSabendo que $\\sin$ θ = 0,6 e que $\\cos$ θ = 0,8, a intensidade da máxima aceleração que a esteira pode ter no início de seu movimento, sem que as caixas escorreguem sobre ela, será",
       subItens: []
     },
     options: [
-      "0,4 m/s².",
-      "0,2 m/s².",
-      "0,5 m/s².",
-      "0,1 m/s².",
-      "0,3 m/s²."
+      "0,4 $m/s$².",
+      "0,2 $m/s$².",
+      "0,5 $m/s$².",
+      "0,1 $m/s$².",
+      "0,3 $m/s$²."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1641,7 +1641,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "IMAGEM: Diagrama de um termômetro a gás, com um balão conectado a um sistema de vasos comunicantes com mercúrio. A diferença de nível entre as colunas de mercúrio é 152 mm. A pressão atmosférica (Patm) está indicada.\n\nA figura representa um termômetro a gás, constituído por um balão com gás ideal conectado a um sistema de vasos comunicantes que contém mercúrio. Para aferir a temperatura de um determinado líquido colocado em um recipiente, o balão, com 0,25 mol de gás, foi mergulhado nesse líquido até que o equilíbrio térmico entre o gás e o líquido fosse atingido, estabilizando o desnível entre as colunas de mercúrio em 152 mm, conforme a figura. Considere que, nessa medição, as capacidades térmicas do balão e dos vasos comunicantes sejam desprezíveis.\n\nSabendo que, na situação de equilíbrio, o volume ocupado pelo gás foi de 6 × 10⁻³ m³, que a pressão atmosférica no local do experimento era de 10⁵ Pa = 760 mmHg, e considerando o valor de 8 J/mol K para a constante universal dos gases ideais, a temperatura obtida para o líquido, nesse experimento, foi de",
+      principal: "IMAGEM: Diagrama de um termômetro a gás, com um balão conectado a um sistema de vasos comunicantes com mercúrio. A diferença de nível entre as colunas de mercúrio é 152 mm. A pressão atmosférica (Patm) está indicada.\n\nA figura representa um termômetro a gás, constituído por um balão com gás ideal conectado a um sistema de vasos comunicantes que contém mercúrio. Para aferir a temperatura de um determinado líquido colocado em um recipiente, o balão, com 0,25 mol de gás, foi mergulhado nesse líquido até que o equilíbrio térmico entre o gás e o líquido fosse atingido, estabilizando o desnível entre as colunas de mercúrio em 152 mm, conforme a figura. Considere que, nessa medição, as capacidades térmicas do balão e dos vasos comunicantes sejam desprezíveis.\n\nSabendo que, na situação de equilíbrio, o volume ocupado pelo gás foi de 6 × 10⁻³ m³, que a pressão atmosférica no local do experimento era de 10⁵ Pa = 760 mmHg, e considerando o valor de 8 $J/mol$ K para a constante universal dos gases ideais, a temperatura obtida para o líquido, nesse experimento, foi de",
       subItens: []
     },
     options: [
@@ -1746,7 +1746,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "A fórmula de conversão entre a temperatura T_C, em graus Celsius, e a temperatura T_F, em graus Fahrenheit, é T_C = 5/9(T_F - 32). Para cálculos rápidos, ainda que não totalmente precisos, pode-se usar a fórmula T*C = T_F - 30/2, em que T*C é a temperatura aproximada, em graus Celsius, da temperatura T_F, em graus Fahrenheit.\n\nConsiderando que o erro absoluto E(T_F), cometido pela fórmula de valores aproximados em relação à fórmula de valores precisos, seja dado pela função modular E(T_F) = |T_C - T*C|, seu gráfico pode ser representado por:\n\nIMAGEM: Cinco gráficos de E(T_F) vs T_F.\n\nGráfico (A) com pico em T_F=590. Gráfico (B) com pico em T_F=50. Gráfico (C) com pico em T_F=50. Gráfico (D) com pico em T_F=25. Gráfico (E) com pico em T_F=334.",
+      principal: "A fórmula de conversão entre a temperatura $T_C$, em graus Celsius, e a temperatura $T_F$, em graus Fahrenheit, é $T_C$ = $5/9$($T_F$ - 32). Para cálculos rápidos, ainda que não totalmente precisos, pode-se usar a fórmula T*C = $T_F$ - $30/2$, em que T*C é a temperatura aproximada, em graus Celsius, da temperatura $T_F$, em graus Fahrenheit.\n\nConsiderando que o erro absoluto E($T_F$), cometido pela fórmula de valores aproximados em relação à fórmula de valores precisos, seja dado pela função modular E($T_F$) = |$T_C$ - T*C|, seu gráfico pode ser representado por:\n\nIMAGEM: Cinco gráficos de E($T_F$) vs $T_F$.\n\nGráfico (A) com pico em $T_F$=590. Gráfico (B) com pico em $T_F$=50. Gráfico (C) com pico em $T_F$=50. Gráfico (D) com pico em $T_F$=25. Gráfico (E) com pico em $T_F$=334.",
       subItens: []
     },
     options: [
@@ -1813,11 +1813,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "34/25",
-      "33/25",
-      "13/10",
-      "17/13",
-      "27/20"
+      "$34/25$",
+      "$33/25$",
+      "$13/10$",
+      "$17/13$",
+      "$27/20$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1851,7 +1851,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "A figura indica o gráfico da função f(x) = log₂(x – 1), sendo P e Q os pontos de intersecção da assíntota e do gráfico com o eixo x, respectivamente.\n\nIMAGEM: Gráfico da função f(x) = log₂(x – 1). A assíntota vertical é x=1. O ponto P está na assíntota e o ponto Q é a intersecção do gráfico com o eixo x (Q(2,0)). O ponto XM, YM está no gráfico e XM é o ponto médio de PQ.\n\nSabendo-se que M(X_M, Y_M) pertence ao gráfico de y = f(x) e que x_M é ponto médio de PQ, então y_M é igual a",
+      principal: "A figura indica o gráfico da função f(x) = $\\log$₂(x – 1), sendo P e Q os pontos de intersecção da assíntota e do gráfico com o eixo x, respectivamente.\n\nIMAGEM: Gráfico da função f(x) = $\\log$₂(x – 1). A assíntota vertical é x=1. O ponto P está na assíntota e o ponto Q é a intersecção do gráfico com o eixo x (Q(2,0)). O ponto XM, YM está no gráfico e XM é o ponto médio de PQ.\n\nSabendo-se que M($X_M$, $Y_M$) pertence ao gráfico de y = f(x) e que $x_M$ é ponto médio de PQ, então $y_M$ é igual a",
       subItens: []
     },
     options: [
@@ -1872,7 +1872,7 @@ createQuestion({
     university: "unesp",
     year: 2025,
     text: {
-      principal: "Uma partícula desloca-se sobre os lados de um triângulo equilátero ABC, de lado 10 cm, partindo do vértice A no sentido horário, conforme a figura. A intensidade da velocidade inicial dessa partícula, que é de 6 m/min, sempre dobra após a partícula percorrer um lado inteiro do triângulo e, durante o percurso de cada lado do triângulo, ela permanece constante.\n\nIMAGEM: Triângulo equilátero ABC com lados de 10 cm. Uma seta indica o sentido horário do movimento, partindo de A.\n\nNessas condições, e desconsiderando os intervalos de tempo de aceleração dessa partícula, ela terá dado 10 voltas completas ao longo do perímetro do triângulo em, aproximadamente,",
+      principal: "Uma partícula desloca-se sobre os lados de um triângulo equilátero ABC, de lado 10 cm, partindo do vértice A no sentido horário, conforme a figura. A intensidade da velocidade inicial dessa partícula, que é de 6 $m/min$, sempre dobra após a partícula percorrer um lado inteiro do triângulo e, durante o percurso de cada lado do triângulo, ela permanece constante.\n\nIMAGEM: Triângulo equilátero ABC com lados de 10 cm. Uma seta indica o sentido horário do movimento, partindo de A.\n\nNessas condições, e desconsiderando os intervalos de tempo de aceleração dessa partícula, ela terá dado 10 voltas completas ao longo do perímetro do triângulo em, aproximadamente,",
       subItens: []
     },
     options: [

@@ -45,7 +45,7 @@ createQuestion({
     university: "ita",
     year: 2023,
     text: {
-      principal: "Considere um recipiente, sobre uma plataforma, sujeito à pressão atmosférica Patm. Esse recipiente contém um volume inicial Vi de um gás monoatômico ideal em equilíbrio e tem um êmbolo de seção transversal de área A e de massa m. Para monitorar a aceleração do sistema, a plataforma foi suspensa por um dinamômetro, como ilustrado na figura. Por causa de uma ação de uma força externa vertical, o êmbolo atinge uma nova posição de equilíbrio. Nessa posição a leitura do dinamômetro indica que a aceleração do sistema é de 1/10 de g para cima. Determine o módulo do deslocamento Δx do êmbolo, com relação ao fundo do recipiente, considerando que a transformação do gás é isentrópica. (Imagem: Um dinamômetro suspende uma plataforma, sobre a qual está um recipiente cilíndrico com um gás e um êmbolo de massa m e área A, sob pressão atmosférica Patm.)",
+      principal: "Considere um recipiente, sobre uma plataforma, sujeito à pressão atmosférica Patm. Esse recipiente contém um volume inicial Vi de um gás monoatômico ideal em equilíbrio e tem um êmbolo de seção transversal de área A e de massa m. Para monitorar a aceleração do sistema, a plataforma foi suspensa por um dinamômetro, como ilustrado na figura. Por causa de uma ação de uma força externa vertical, o êmbolo atinge uma nova posição de equilíbrio. Nessa posição a leitura do dinamômetro indica que a aceleração do sistema é de $1/10$ de g para cima. Determine o módulo do deslocamento Δx do êmbolo, com relação ao fundo do recipiente, considerando que a transformação do gás é isentrópica. (Imagem: Um dinamômetro suspende uma plataforma, sobre a qual está um recipiente cilíndrico com um gás e um êmbolo de massa m e área A, sob pressão atmosférica Patm.)",
       subItens: []
     },
     options: [
@@ -70,11 +70,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "H = (1/3) * (h - 4R + FR/mg).",
-      "H = (1/6) * (4h - 5R + FR/mg).",
-      "H = (1/6) * (h - 5R + FR/mg).",
-      "H = (1/3) * (2h - 3R + FR/mg).",
-      "H = (1/6) * (h - 2R + FR/mg)."
+      "H = ($1/3$) * (h - 4R + $FR/mg$).",
+      "H = ($1/6$) * (4h - 5R + $FR/mg$).",
+      "H = ($1/6$) * (h - 5R + $FR/mg$).",
+      "H = ($1/3$) * (2h - 3R + $FR/mg$).",
+      "H = ($1/6$) * (h - 2R + $FR/mg$)."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "ita",
     year: 2023,
     text: {
-      principal: "Considere uma máquina térmica que opera com um ciclo termodinâmico composto de quatro etapas: (i) expansão isotérmica, à temperatura Tq, saindo do volume inicial Vo até o volume final Vf; (ii) resfriamento isocórico de Tq até Tf; (iii) compressão isotérmica, à temperatura Tf, de Vf até Vo; e (iv) aquecimento isocórico de Tf até Tq. A máquina é inicialmente preparada para operar com o ar atmosférico como fluido de trabalho. Sobre esse sistema, são feitas as seguintes afirmações: I. Aumentando-se a razão de expansão, r = Vf/Vi, é possível aumentar o rendimento da máquina mantendo os demais parâmetros fixos. II. Se o fluido de trabalho fosse substituído por um gás nobre, então o rendimento dessa máquina seria aumentado. III. Considerando os parâmetros r = 10, Tf = 300 K e Tq = 900 K, o valor do rendimento da máquina é superior a 50%. Sobre as afirmações I, II e III pode-se afirmar que",
+      principal: "Considere uma máquina térmica que opera com um ciclo termodinâmico composto de quatro etapas: (i) expansão isotérmica, à temperatura Tq, saindo do volume inicial Vo até o volume final Vf; (ii) resfriamento isocórico de Tq até Tf; (iii) compressão isotérmica, à temperatura Tf, de Vf até Vo; e (iv) aquecimento isocórico de Tf até Tq. A máquina é inicialmente preparada para operar com o ar atmosférico como fluido de trabalho. Sobre esse sistema, são feitas as seguintes afirmações: I. Aumentando-se a razão de expansão, r = $Vf/Vi$, é possível aumentar o rendimento da máquina mantendo os demais parâmetros fixos. II. Se o fluido de trabalho fosse substituído por um gás nobre, então o rendimento dessa máquina seria aumentado. III. Considerando os parâmetros r = 10, Tf = 300 K e Tq = 900 K, o valor do rendimento da máquina é superior a 50%. Sobre as afirmações I, II e III pode-se afirmar que",
       subItens: []
     },
     options: [
@@ -150,13 +150,13 @@ createQuestion({
     university: "ita",
     year: 2023,
     text: {
-      principal: "Considere um filtro polarizador linear no plano S, cuja polarização é paralela ao eixo x. Uma onda eletromagnética com polarização linear no eixo z propaga-se na direção do eixo y. Um pêndulo é colocado na frente do filtro. A ponta do pêndulo contém uma pequena placa circular feita de um filtro de polarização linear. Quando o pêndulo está em repouso, a polarização é paralela ao eixo x. O pêndulo oscila no plano S’, de -90° a 90°, conforme mostra a figura. Uma chapa fotográfica capaz de absorver a onda eletromagnética é colocada atrás dos filtros de polarização. Despreze efeitos de difração e interferência. Considere que os planos S e S’ são paralelos ao plano xz. Assinale a alternativa que melhor representa o que vai ser visto na chapa fotográfica. (Imagem: Esquema de um experimento com luz, polarizadores e um pêndulo. Uma luz incide em um polarizador linear (plano S), depois em um pêndulo com um polarizador (plano S'), e o padrão resultante é capturado por uma chapa fotográfica. O pêndulo oscila no plano S'. As alternativas são representações visuais dos padrões de luz na chapa: A) círculo todo escuro, B) círculo com partes superior e inferior claras e laterais escuras, C) círculo com partes laterais claras e superior/inferior escuras, D) círculo todo claro, E) uma barra vertical escura no centro.)",
+      principal: "Considere um filtro polarizador linear no plano S, cuja polarização é paralela ao eixo x. Uma onda eletromagnética com polarização linear no eixo z propaga-se na direção do eixo y. Um pêndulo é colocado na frente do filtro. A ponta do pêndulo contém uma pequena placa circular feita de um filtro de polarização linear. Quando o pêndulo está em repouso, a polarização é paralela ao eixo x. O pêndulo oscila no plano S’, de -90° a 90°, conforme mostra a figura. Uma chapa fotográfica capaz de absorver a onda eletromagnética é colocada atrás dos filtros de polarização. Despreze efeitos de difração e interferência. Considere que os planos S e S’ são paralelos ao plano xz. Assinale a alternativa que melhor representa o que vai ser visto na chapa fotográfica. (Imagem: Esquema de um experimento com luz, polarizadores e um pêndulo. Uma luz incide em um polarizador linear (plano S), depois em um pêndulo com um polarizador (plano S'), e o padrão resultante é capturado por uma chapa fotográfica. O pêndulo oscila no plano S'. As alternativas são representações visuais dos padrões de luz na chapa: A) círculo todo escuro, B) círculo com partes superior e inferior claras e laterais escuras, C) círculo com partes laterais claras e $superior/inferior$ escuras, D) círculo todo claro, E) uma barra vertical escura no centro.)",
       subItens: []
     },
     options: [
       "(Desenho de um círculo todo escuro)",
       "(Desenho de um círculo com partes superior e inferior claras e laterais escuras)",
-      "(Desenho de um círculo com partes laterais claras e superior/inferior escuras)",
+      "(Desenho de um círculo com partes laterais claras e $superior/inferior$ escuras)",
       "(Desenho de um círculo todo claro)",
       "(Desenho de uma barra vertical escura no centro do círculo)"
     ],
@@ -196,11 +196,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "(m^3 * g^2) / (q^2 * B^2).",
-      "(1/2) * (m * g^2) / (q^2 * B^2).",
-      "(2 * m * g^2) / (q^2 * B^2).",
-      "(1/4) * (m^3 * g^2) / (q^2 * B^2).",
-      "(1/2) * (m^3 * g^2) / (q^2 * B^2)."
+      "($m^3$ * $g^2$) / ($q^2$ * $B^2$).",
+      "($1/2$) * (m * $g^2$) / ($q^2$ * $B^2$).",
+      "(2 * m * $g^2$) / ($q^2$ * $B^2$).",
+      "($1/4$) * ($m^3$ * $g^2$) / ($q^2$ * $B^2$).",
+      "($1/2$) * ($m^3$ * $g^2$) / ($q^2$ * $B^2$)."
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -822,13 +822,13 @@ createQuestion({
     university: "ita",
     year: 2023,
     text: {
-      principal: "A média harmônica de n números reais positivos a₁, a₂, ..., an é H = n / (1/a₁ + 1/a₂ + ... + 1/an). Sabendo que o polinômio p(x) = 30x³−113x²+108x-30 possui três raízes reais positivas, a média harmônica das raízes de p(x) é",
+      principal: "A média harmônica de n números reais positivos a₁, a₂, ..., an é H = n / ($1/a$₁ + $1/a$₂ + ... + $1/an$). Sabendo que o polinômio p(x) = 30x³−113x²+108x-30 possui três raízes reais positivas, a média harmônica das raízes de p(x) é",
       subItens: []
     },
     options: [
-      "2/3.",
-      "5/18.",
-      "5/6.",
+      "$2/3$.",
+      "$5/18$.",
+      "$5/6$.",
       "1.",
       "3."
     ],
@@ -843,7 +843,7 @@ createQuestion({
     university: "ita",
     year: 2023,
     text: {
-      principal: "Sejam f e g funções reais definidas da seguinte forma: f(x) = 3^(2x) e g(x) = 3^x - 2^x. Considere as afirmações: I. g(x) ≥ 0, para todo x ∈ R. II. f(x) ≥ g(x), para todo x ∈ R. III. f(x) + g(x) ≥ 0, para todo x ∈ R. É (são) sempre verdadeira(s):",
+      principal: "Sejam f e g funções reais definidas da seguinte forma: f(x) = 3^(2x) e g(x) = $3^x$ - $2^x$. Considere as afirmações: I. g(x) ≥ 0, para todo x ∈ R. II. f(x) ≥ g(x), para todo x ∈ R. III. f(x) + g(x) ≥ 0, para todo x ∈ R. É (são) sempre verdadeira(s):",
       subItens: []
     },
     options: [
@@ -931,11 +931,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1341/4096.",
-      "1695/4096.",
-      "2049/4096.",
-      "2401/4096.",
-      "2755/4096."
+      "$1341/4096$.",
+      "$1695/4096$.",
+      "$2049/4096$.",
+      "$2401/4096$.",
+      "$2755/4096$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -969,7 +969,7 @@ createQuestion({
     university: "ita",
     year: 2023,
     text: {
-      principal: "Considere a função real f(x) = cos(x) * [cos(π/3) + 2sen(x)] - sen(x) * sen(π/3) - 2, definida no intervalo I = ]-4π, 4π[. Sobre a equação f(x) = 0, podemos afirmar que",
+      principal: "Considere a função real f(x) = $\\cos$(x) * [$\\cos$(π/3) + 2sen(x)] - $\\sin$(x) * $\\sin$(π/3) - 2, definida no intervalo I = ]-4π, 4π[. Sobre a equação f(x) = 0, podemos afirmar que",
       subItens: []
     },
     options: [
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "ita",
     year: 2023,
     text: {
-      principal: "Sabe-se que a constante de velocidade (k) de uma reação é função da temperatura (T) conforme a Lei de Arrhenius: k = A * e^(-Ea/RT) em que A é o fator de frequência e Ea é a energia de ativação. Em um estudo cinético, observou-se que a velocidade de uma determinada reação aumenta 1000 vezes quando a temperatura do meio reacional aumenta de 400 K para 500 K, permanecendo constantes todos os demais parâmetros iniciais. Assinale a opção que apresenta a energia de ativação desta reação, em kcal mol⁻¹, considerando que A e Ea não dependem da temperatura.",
+      principal: "Sabe-se que a constante de velocidade (k) de uma reação é função da temperatura (T) conforme a Lei de Arrhenius: k = A * e^(-$Ea/RT$) em que A é o fator de frequência e Ea é a energia de ativação. Em um estudo cinético, observou-se que a velocidade de uma determinada reação aumenta 1000 vezes quando a temperatura do meio reacional aumenta de 400 K para 500 K, permanecendo constantes todos os demais parâmetros iniciais. Assinale a opção que apresenta a energia de ativação desta reação, em kcal mol⁻¹, considerando que A e Ea não dependem da temperatura.",
       subItens: []
     },
     options: [
@@ -1141,11 +1141,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "X: 1/8, 3/16 e 1/4, Y: 1/16, 3/32 e 1/8.",
-      "X: 1/8, 3/16 e 1/4, Y: 1/24, 1/16 e 1/12.",
-      "X: 1/16, 3/32 e 1/8, Y: 1/8, 3/16 e 1/4.",
-      "X: 1/16, 1/8 e 1/4, Y: 1/32, 1/16 e 1/8.",
-      "X: 1/24, 1/16 e 1/12, Y: 1/8, 3/16 e 1/4."
+      "X: $1/8$, $3/16$ e $1/4$, Y: $1/16$, $3/32$ e $1/8$.",
+      "X: $1/8$, $3/16$ e $1/4$, Y: $1/24$, $1/16$ e $1/12$.",
+      "X: $1/16$, $3/32$ e $1/8$, Y: $1/8$, $3/16$ e $1/4$.",
+      "X: $1/16$, $1/8$ e $1/4$, Y: $1/32$, $1/16$ e $1/8$.",
+      "X: $1/24$, $1/16$ e $1/12$, Y: $1/8$, $3/16$ e $1/4$."
     ],
     correctAnswer: 0,
     materia: ["Química"],

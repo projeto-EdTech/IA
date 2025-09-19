@@ -192,7 +192,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 10 E 11\n\"O que torna possível o surgimento de uma 'cultura do cancelamento' é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa.\nO conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento.\nSendo assim, a sanção específica realizada pelos agentes do 'cancelamento' procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito 'cancelado'.\nNesse contexto, a 'cultura do cancelamento' representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.\"\nMARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado).\nSegundo o texto, a cultura do \"cancelamento\"",
+      principal: "TEXTO PARA AS QUESTÕES 10 E 11\n\"O que torna possível o surgimento de uma 'cultura do cancelamento' é um cenário em que os detentores de poder econômico $e/ou$ político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa.\nO conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento.\nSendo assim, a sanção específica realizada pelos agentes do 'cancelamento' procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica $e/ou$ profissional do sujeito 'cancelado'.\nNesse contexto, a 'cultura do cancelamento' representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos $e/ou$ palavras, em determinados ambientes sociais.\"\nMARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado).\nSegundo o texto, a cultura do \"cancelamento\"",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050. Esse documento regulamenta a inclinação que a rampa deve ter a depender do desnível máximo de cada segmento de rampa, conforme o seguinte quadro:\nInclinação e desnível máximo de cada segmento de rampa:\nDesnível h (em m) | Inclinação i admissível (em %)\n1 < h <= 1,5 | 5\n0,8 < h <= 1 | 5 < i < 6,25\n0 < h <= 0,8 | 6,25 < i < 8,33\nAcessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Disponível em https://www.prefeitura.sp.gov.br/cidade/ (Adaptado).\nA inclinação i da rampa em porcentagem (%) é calculada dividindo a altura h do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal c, em metros, e multiplicando o resultado por 100. (i = (h/c) * 100).\nDeterminada rampa de dois segmentos foi construída da seguinte maneira:\n- o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;\n- o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.\nCom base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?",
+      principal: "A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050. Esse documento regulamenta a inclinação que a rampa deve ter a depender do desnível máximo de cada segmento de rampa, conforme o seguinte quadro:\nInclinação e desnível máximo de cada segmento de rampa:\nDesnível h (em m) | Inclinação i admissível (em %)\n1 < h <= 1,5 | 5\n0,8 < h <= 1 | 5 < i < 6,25\n0 < h <= 0,8 | 6,25 < i < 8,33\nAcessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Disponível em https://www.prefeitura.sp.gov.br/cidade/ (Adaptado).\nA inclinação i da rampa em porcentagem (%) é calculada dividindo a altura h do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal c, em metros, e multiplicando o resultado por 100. (i = ($h/c$) * 100).\nDeterminada rampa de dois segmentos foi construída da seguinte maneira:\n- o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;\n- o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.\nCom base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?",
       subItens: []
     },
     options: [
@@ -360,7 +360,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "No dia 26 de março de 2024, à 1h29min, aproximadamente, o navio cargueiro MV Dali colidiu com a ponte Francis Scott Key em Baltimore, EUA. O impacto causou o colapso da ponte, tornando-se um dos maiores acidentes marítimos da história norte-americana.\nA figura a seguir mostra os dados da velocidade do navio em função da hora local. A colisão ocorreu no intervalo de 38 segundos, marcado por linhas pontilhadas no gráfico.\nDisponível em https://www.nytimes.com/ (Adaptado).\nAssumindo que a massa do navio no momento do impacto seja de 100 mil toneladas e, tendo por base os dados do gráfico, a magnitude da força média atuando sobre o navio durante a colisão é de, aproximadamente,\nNote e adote:\nConsidere que a força atuando sobre o navio durante a colisão seja constante e igual à força média.\nUtilize 1 m.p.h. = 0,5 m/s.",
+      principal: "No dia 26 de março de 2024, à 1h29min, aproximadamente, o navio cargueiro MV Dali colidiu com a ponte Francis Scott Key em Baltimore, EUA. O impacto causou o colapso da ponte, tornando-se um dos maiores acidentes marítimos da história norte-americana.\nA figura a seguir mostra os dados da velocidade do navio em função da hora local. A colisão ocorreu no intervalo de 38 segundos, marcado por linhas pontilhadas no gráfico.\nDisponível em https://www.nytimes.com/ (Adaptado).\nAssumindo que a massa do navio no momento do impacto seja de 100 mil toneladas e, tendo por base os dados do gráfico, a magnitude da força média atuando sobre o navio durante a colisão é de, aproximadamente,\nNote e adote:\nConsidere que a força atuando sobre o navio durante a colisão seja constante e igual à força média.\nUtilize 1 m.p.h. = 0,5 $m/s$.",
       subItens: []
     },
     options: [
@@ -381,7 +381,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.\nQuando um fóton com comprimento de onda lambda0 incide sobre uma partícula, ele emerge dessa interação formando um ângulo theta com sua direção inicial de movimento, e seu novo comprimento de onda lambda' é dado pela relação: lambda' = lambda0 + (a / m) * (1 - cos theta), em que a é uma constante positiva e m é a massa da partícula.\nCom base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.",
+      principal: "O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.\nQuando um fóton com comprimento de onda lambda0 incide sobre uma partícula, ele emerge dessa interação formando um ângulo $\\theta$ com sua direção inicial de movimento, e seu novo comprimento de onda $\\lambda$' é dado pela relação: $\\lambda$' = lambda0 + (a / m) * (1 - $\\cos$ $\\theta$), em que a é uma constante positiva e m é a massa da partícula.\nCom base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz. Esse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração n1, em direção a um meio 2, com índice de refração n2, formando com a direção perpendicular à interface entre os meios um ângulo theta maior do que um certo valor limite theta_L, tal que sen theta_L = n2/n1. Quando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. Suponha que se deseje projetar uma tela sensível ao toque que, conforme mostra a figura, funcione com uma fonte luminosa F fixa na borda. A tabela a seguir indica os índices de refração de alguns materiais candidatos à utilização no meio 1:\nMaterial A: 1,0002\nMaterial B: 1,0003\nMaterial C: 1,1503\nMaterial D: 1,3204\nMaterial E: 1,4889\nTratando o meio 2 sempre como tendo índice de refração n2 = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é:\nNote e adote:\nTraçando o meio 2 sempre como tendo índice de refração n2 = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é: (continuação da pergunta, faz parte do enunciado)",
+      principal: "Uma das possíveis tecnologias para a produção de telas sensíveis ao toque aproveita a reflexão interna total da luz. Esse tipo de reflexão ocorre quando um raio luminoso viaja do interior de um meio 1, com índice de refração n1, em direção a um meio 2, com índice de refração n2, formando com a direção perpendicular à interface entre os meios um ângulo $\\theta$ maior do que um certo valor limite $\\theta_L$, tal que $\\sin$ $\\theta_L$ = $n2/n1$. Quando um objeto (como um dedo) se aproxima da interface entre os meios, a reflexão total não ocorre, o que é captado por sensores, revelando a posição do objeto. Suponha que se deseje projetar uma tela sensível ao toque que, conforme mostra a figura, funcione com uma fonte luminosa F fixa na borda. A tabela a seguir indica os índices de refração de alguns materiais candidatos à utilização no meio 1:\nMaterial A: 1,0002\nMaterial B: 1,0003\nMaterial C: 1,1503\nMaterial D: 1,3204\nMaterial E: 1,4889\nTratando o meio 2 sempre como tendo índice de refração n2 = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é:\nNote e adote:\nTraçando o meio 2 sempre como tendo índice de refração n2 = 1,0003, o material que permite o maior intervalo de ângulos de incidência que produzem reflexão total é: (continuação da pergunta, faz parte do enunciado)",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "Em um estudo relatado no periódico Physics Today, cientistas belgas mostraram que os pica-paus não dispõem de mecanismos de absorção de choques em seus ossos do crânio, ao contrário do que se acreditava anteriormente. Nos experimentos realizados, verificou-se que o cérebro de um pica-pau pode experimentar desacelerações instantâneas de até 400 g, sendo g o módulo da aceleração da gravidade.\nSuponha que, durante uma batida em um tronco de árvore, o crânio do pica-pau, suposto perfeitamente rígido, sofra uma desaceleração constante de 200 g ao longo de um tempo de 2,0 milissegundos. Qual é a distância percorrida pelo crânio do pica-pau durante esse tempo, até atingir momentaneamente o repouso?\nNote e adote:\nAceleração da gravidade: g = 10 m/s².",
+      principal: "Em um estudo relatado no periódico Physics Today, cientistas belgas mostraram que os pica-paus não dispõem de mecanismos de absorção de choques em seus ossos do crânio, ao contrário do que se acreditava anteriormente. Nos experimentos realizados, verificou-se que o cérebro de um pica-pau pode experimentar desacelerações instantâneas de até 400 g, sendo g o módulo da aceleração da gravidade.\nSuponha que, durante uma batida em um tronco de árvore, o crânio do pica-pau, suposto perfeitamente rígido, sofra uma desaceleração constante de 200 g ao longo de um tempo de 2,0 milissegundos. Qual é a distância percorrida pelo crânio do pica-pau durante esse tempo, até atingir momentaneamente o repouso?\nNote e adote:\nAceleração da gravidade: g = 10 $m/s$².",
       subItens: []
     },
     options: [
@@ -785,7 +785,7 @@ createQuestion({
     },
     options: [
       "\"Eram faíscas suas palavras que me queimavam em/ doses homeopáticas/ durante todas as noites...\" — conotação: o predicativo \"faíscas\" e a forma verbal \"queimavam\" estão sendo usados em sentido figurado, enfatizando seu sofrimento.",
-      "\"Até que um dia, me empurrou, me acuou/como se eu pudesse caber em qualquer fresta, /encurralada\" — antítese: OS elementos \"empurrou\", \"acuou\" e \"encurralada\" potencializam de forma contraditória seu sofrimento.",
+      "\"Até que um dia, me empurrou, me $acuou/como$ se eu pudesse caber em qualquer fresta, /encurralada\" — antítese: OS elementos \"empurrou\", \"acuou\" e \"encurralada\" potencializam de forma contraditória seu sofrimento.",
       "\"acreditando que o amor era isso, esse abismo, onde só/ um fala e o outro, fica omisso\" - metonímia: o uso do aposto \"esse abismo\", referindo-se a \"amor\", expressa literalmente seu sofrimento.",
       "\"Precisei tirar forças de lugares sagrados/ pra me afastar e reagir, recolher meus pedaços\" pleonasmo: 0 complemento “meus pedaços\" reforça o significado do verbo \"recolher\", acentuando seu sofrimento.",
       "\"Meus olhos encheram de mar, eu desaguei, /decidi não mais me calar, denunciei!” paronímia: os verbos \"encher\" e \"desaguar” são elementos de significação próxima que dão ênfase a seu sofrimento."
@@ -969,7 +969,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "A figura a seguir representa os níveis médios de consumo de gordura saturada na dieta para adultos com idade >=20 anos.\nMICHA, R. et al., (2014). British Medical Journal, v. 348. g2272. DOI: 10.1136/bmj.g2272.\nConsiderando apenas os dados da figura, os habitantes da Austrália e da Rússia apresentam maiores riscos de desenvolver doenças",
+      principal: "A figura a seguir representa os níveis médios de consumo de gordura saturada na dieta para adultos com idade >=20 anos.\nMICHA, R. et al., (2014). British Medical Journal, v. 348. g2272. DOI: 10.$1136/bmj$.g2272.\nConsiderando apenas os dados da figura, os habitantes da Austrália e da Rússia apresentam maiores riscos de desenvolver doenças",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "A figura a seguir representa a variação espacial da temperatura do ar por tipo de área, considerando diferentes padrões de uso e ocupação do solo de um município.\nRevista Pesquisa FAPESP - Setembro/2023 (Adaptado).\nA explicação para as características desse perfil de temperatura do ar deve-se",
+      principal: "A figura a seguir representa a variação espacial da temperatura do ar por tipo de área, considerando diferentes padrões de uso e ocupação do solo de um município.\nRevista Pesquisa FAPESP - $Setembro/2023$ (Adaptado).\nA explicação para as características desse perfil de temperatura do ar deve-se",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "As enchentes ocorridas no Rio Grande do Sul, em maio de 2024, prejudicaram a infraestrutura de comunicação. A população afetada era informada sobre as notícias relativas às enchentes ao sintonizar, por rádio de pilhas, frequências de onda AM, cujo alcance é maior.\nUma onda AM é modelada matematicamente por equações que envolvem a função cosseno, cuja variável independente é o tempo t, que aparece multiplicado pela frequência f da onda.\nComo exemplo, pode-se considerar a equação referente ao processo de modulação de uma onda AM:\ns(t) = A [1 + k * m(t)] * cos(2 * pi * f * t),\nem que A é a amplitude, f a frequência, k a constante da sensibilidade à amplitude e m(t) o sinal que contém a informação.\nQuando a frequência f é multiplicada por 3, o comprimento da onda sofre alteração. Por causa dessa multiplicação, qual transformação ocorre no gráfico da função cosseno original?",
+      principal: "As enchentes ocorridas no Rio Grande do Sul, em maio de 2024, prejudicaram a infraestrutura de comunicação. A população afetada era informada sobre as notícias relativas às enchentes ao sintonizar, por rádio de pilhas, frequências de onda AM, cujo alcance é maior.\nUma onda AM é modelada matematicamente por equações que envolvem a função cosseno, cuja variável independente é o tempo t, que aparece multiplicado pela frequência f da onda.\nComo exemplo, pode-se considerar a equação referente ao processo de modulação de uma onda AM:\ns(t) = A [1 + k * m(t)] * $\\cos$(2 * $\\pi$ * f * t),\nem que A é a amplitude, f a frequência, k a constante da sensibilidade à amplitude e m(t) o sinal que contém a informação.\nQuando a frequência f é multiplicada por 3, o comprimento da onda sofre alteração. Por causa dessa multiplicação, qual transformação ocorre no gráfico da função cosseno original?",
       subItens: []
     },
     options: [
@@ -1200,15 +1200,15 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em PbSO4 (Kps = 1,0 x 10^-8).\nSabendo que a legislação estabelece a concentração máxima de Pb de 0,01 mg/L para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.\nNote e adote:\nMassa molar (g/mol): Pb = 207",
+      principal: "A toxicidade do Pb e o risco de sua ingestão ganharam notoriedade na mídia devido à presença desse elemento em copos térmicos amplamente comercializados. A exposição ao Pb, no entanto, pode ocorrer também por fontes naturais, como a ingestão de água em contato prolongado com minérios como a anglesita, rico em PbSO4 (Kps = 1,0 x 10^-8).\nSabendo que a legislação estabelece a concentração máxima de Pb de 0,01 $mg/L$ para água potável, assinale a alternativa correta em relação à ingestão de água que tenha contato prolongado com a anglesita.\nNote e adote:\nMassa molar ($g/mol$): Pb = 207",
       subItens: []
     },
     options: [
-      "Não é segura, pois a concentração de Pb na água será de 2,07×10¹ mg/L, maior que o valor permitido.",
-      "É segura, pois a concentração de Pb na água será de 1×10-4 mg/L, menor que o valor permitido.",
-      "Não é segura, pois a concentração de Pb na água será de 1×10-8 mg/L, menor que o valor permitido.",
-      "É segura, pois a concentração de Pb na água será de 1×10-2 mg/L, igual ao valor permitido.",
-      "É segura, pois a concentração de Pb na água será de 2,07×10-6 mg/L, maior que o valor permitido."
+      "Não é segura, pois a concentração de Pb na água será de 2,07×10¹ $mg/L$, maior que o valor permitido.",
+      "É segura, pois a concentração de Pb na água será de 1×10-4 $mg/L$, menor que o valor permitido.",
+      "Não é segura, pois a concentração de Pb na água será de 1×10-8 $mg/L$, menor que o valor permitido.",
+      "É segura, pois a concentração de Pb na água será de 1×10-2 $mg/L$, igual ao valor permitido.",
+      "É segura, pois a concentração de Pb na água será de 2,07×10-6 $mg/L$, maior que o valor permitido."
     ],
     correctAnswer: 0,
     materia: ["Química"],
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "Quando uma barra de um certo material é aquecida até uma temperatura T a partir de uma temperatura inicial T0, seu comprimento inicial L0 sofre um aumento Delta_L dado por Delta_L = alpha * L0 * (T - T0), sendo alpha o coeficiente de expansão linear, que depende do material. O gráfico a seguir mostra curvas de expansão linear para barras feitas de três materiais distintos.\nCom base no gráfico e nas informações apresentadas, é correto afirmar:",
+      principal: "Quando uma barra de um certo material é aquecida até uma temperatura T a partir de uma temperatura inicial T0, seu comprimento inicial L0 sofre um aumento $\\delta_L$ dado por $\\delta_L$ = $\\alpha$ * L0 * (T - T0), sendo $\\alpha$ o coeficiente de expansão linear, que depende do material. O gráfico a seguir mostra curvas de expansão linear para barras feitas de três materiais distintos.\nCom base no gráfico e nas informações apresentadas, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50 m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de 30 m/s em poucos segundos.\nConsiderando um carrinho ocupado com massa total de 300 kg em repouso na posição de altura máxima, a energia mecânica perdida durante a descida inicial é, aproximadamente,\nNote e adote:\nAceleração da gravidade: g = 10 m/s².",
+      principal: "Um brinquedo bastante comum em parques de diversões, a montanha-russa, utiliza-se da transformação parcial de energia potencial em energia cinética (e vice-versa) como princípio de funcionamento. Uma das montanhas-russas mais famosas do mundo, a Takabisha, cuja pista possui mais de 1 km de extensão, localiza-se no Japão e tem vista para o Monte Fuji. Nela, a subida inicial até o ponto mais alto, situado a uma altura aproximada de 50 m do solo, é feita sob ângulo de aproximadamente 90 graus, seguida de uma descida vertiginosa, cuja velocidade, no ponto mais baixo desse trecho, atinge cerca de 30 $m/s$ em poucos segundos.\nConsiderando um carrinho ocupado com massa total de 300 kg em repouso na posição de altura máxima, a energia mecânica perdida durante a descida inicial é, aproximadamente,\nNote e adote:\nAceleração da gravidade: g = 10 $m/s$².",
       subItens: []
     },
     options: [
@@ -1326,7 +1326,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação CH4(e) + 2 O2(e) -> CO2(g) + 2 H2O(g).\nNessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a\nNote e adote:\nMassa molar (g/mol): H = 1; C = 12; O = 16",
+      principal: "Alguns motores de foguetes espaciais usam metano como combustível e oxigênio como comburente. Ambos os compostos são armazenados em estado líquido no próprio foguete, o que permite o seu armazenamento em maior quantidade do que se estivessem no estado gasoso. Sabe-se que o foguete armazena um volume de oxigênio líquido 1,5 vez maior do que de metano líquido e que ambos são completamente consumidos na combustão, conforme a equação CH4(e) + 2 O2(e) -> CO2(g) + 2 H2O(g).\nNessas condições, é correto afirmar que a razão entre a densidade do metano líquido e a densidade do oxigênio líquido é igual a\nNote e adote:\nMassa molar ($g/mol$): H = 1; C = 12; O = 16",
       subItens: []
     },
     options: [
@@ -1410,7 +1410,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "O gráfico a seguir apresenta dados do Produto Interno Bruto (PIB) por pessoa e dados de publicações científicas por milhão de habitantes para um grupo selecionado de países, além de destacar o estado de São Paulo.\nRevista Pesquisa FAPESP - Agosto/2022 (Adaptado).\nA partir da análise do gráfico e do texto, é correto afirmar:",
+      principal: "O gráfico a seguir apresenta dados do Produto Interno Bruto (PIB) por pessoa e dados de publicações científicas por milhão de habitantes para um grupo selecionado de países, além de destacar o estado de São Paulo.\nRevista Pesquisa FAPESP - $Agosto/2022$ (Adaptado).\nA partir da análise do gráfico e do texto, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -1431,7 +1431,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "No plano cartesiano Oxy, o gráfico que melhor representa a função f(x) = |x^2 + 5x - 6| - 5x + 6 é dado por",
+      principal: "No plano cartesiano Oxy, o gráfico que melhor representa a função f(x) = |$x^2$ + 5x - 6| - 5x + 6 é dado por",
       subItens: []
     },
     options: [
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "Aumenta nos hospitais brasileiros a presença de bactérias resistentes a antibióticos\n\"A disseminação de bactérias resistentes a antibióticos é um pesadelo mundial. Ela avança rapidamente e representa uma ameaça a uma das maiores conquistas da medicina moderna: a capacidade de eliminar infecções. Sem antibióticos eficientes, fica quase impossível realizar cirurgias, transplantes e outros tratamentos em segurança.\nExpostas à concentração adequada dos antibióticos e por tempo suficiente, as bactérias facilmente morrem. Se a dosagem e duração do tratamento forem inferiores ao necessário para aniquilá-las, uma parte pode sobreviver e se multiplicar, acumulando alterações no material genético que lhes permitem escapar à ação dos fármacos.\nAs bactérias estão em todos os lugares: na água, no solo, no ar e nas superfícies, inclusive no nosso corpo. Com o uso intensivo de antibióticos na saúde humana e na produção de alimentos, as bactérias são continuamente expostas a esses fármacos. Esse contato favorece a seleção das variedades resistentes.\"\nRevista Pesquisa FAPESP - Janeiro/2024 (Adaptado).\nO gráfico a seguir ilustra o crescimento de uma espécie de bactéria em meio de cultura, com e sem antibiótico. Foram testados três antibióticos diferentes (1, 2 e 3).\nConsiderando o texto e o gráfico, sobre a resistência de bactérias a antibióticos, é correto afirmar:",
+      principal: "Aumenta nos hospitais brasileiros a presença de bactérias resistentes a antibióticos\n\"A disseminação de bactérias resistentes a antibióticos é um pesadelo mundial. Ela avança rapidamente e representa uma ameaça a uma das maiores conquistas da medicina moderna: a capacidade de eliminar infecções. Sem antibióticos eficientes, fica quase impossível realizar cirurgias, transplantes e outros tratamentos em segurança.\nExpostas à concentração adequada dos antibióticos e por tempo suficiente, as bactérias facilmente morrem. Se a dosagem e duração do tratamento forem inferiores ao necessário para aniquilá-las, uma parte pode sobreviver e se multiplicar, acumulando alterações no material genético que lhes permitem escapar à ação dos fármacos.\nAs bactérias estão em todos os lugares: na água, no solo, no ar e nas superfícies, inclusive no nosso corpo. Com o uso intensivo de antibióticos na saúde humana e na produção de alimentos, as bactérias são continuamente expostas a esses fármacos. Esse contato favorece a seleção das variedades resistentes.\"\nRevista Pesquisa FAPESP - $Janeiro/2024$ (Adaptado).\nO gráfico a seguir ilustra o crescimento de uma espécie de bactéria em meio de cultura, com e sem antibiótico. Foram testados três antibióticos diferentes (1, 2 e 3).\nConsiderando o texto e o gráfico, sobre a resistência de bactérias a antibióticos, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -1515,7 +1515,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de \"foguetes de garrafa PET\", propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio. [1]\nUma mistura de vinagre (que contém ácido acético, CH3COOH) com bicarbonato de sódio (NaHCO3) produz gás carbônico (CO2) por meio da reação química representada pela seguinte equação:\nCH3COOH + NaHCO3 -> CH3COONa + CO2 + H2O\nA reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume Vco2 e exercerá uma pressão Pco2 sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504 (2018). Disponível em http://dx.doi.org/10.1590/1806-9126-RBEF-2017-0340.\nSuponha que a reação produza 2 mols de CO2 para cada 3 litros de vinagre. Nas condições do experimento, em que o volume de líquido é 1/3 de litro à temperatura T = 300 K, a pressão Pco2 medida pelo manômetro será por volta de\nNote e adote:\nConsidere o CO2 como um gás ideal.\nConstante dos gases ideais: R = 0,08 atm.L/(K.mol).\nAssuma que todo o ácido acético do vinagre reagiu com o bicarbonato de sódio e que o líquido resultante da reação ocupa aproximadamente o mesmo volume do vinagre antes da reação (Vvin).",
+      principal: "TEXTO PARA AS QUESTÕES 73 E 74\nUm artigo publicado em 2018, na Revista Brasileira de Ensino de Física, reporta um curioso estudo sobre a pressão interna de \"foguetes de garrafa PET\", propulsionados a partir da reação química entre ácido acético e bicarbonato de sódio. [1]\nUma mistura de vinagre (que contém ácido acético, CH3COOH) com bicarbonato de sódio (NaHCO3) produz gás carbônico (CO2) por meio da reação química representada pela seguinte equação:\nCH3COOH + NaHCO3 -> CH3COONa + CO2 + H2O\nA reação ocorre no interior de uma garrafa PET de 2 L de volume útil total, da qual foi retirado todo o ar. Insere-se na garrafa um volume inicial Vvin de vinagre líquido e bicarbonato de sódio, sendo a garrafa posteriormente selada com uma tampa acoplada a um manômetro. A reação produzirá gás carbônico que ocupará um volume Vco2 e exercerá uma pressão Pco2 sobre a tampa da garrafa, medida pelo manômetro, como mostra a figura.\n[1] FONSECA et al, RBEF, vol. 40, nº 3, e3504 (2018). Disponível em http://dx.doi.$org/10$.$1590/1806$-9126-RBEF-2017-0340.\nSuponha que a reação produza 2 mols de CO2 para cada 3 litros de vinagre. Nas condições do experimento, em que o volume de líquido é $1/3$ de litro à temperatura T = 300 K, a pressão Pco2 medida pelo manômetro será por volta de\nNote e adote:\nConsidere o CO2 como um gás ideal.\nConstante dos gases ideais: R = 0,08 atm.L/(K.mol).\nAssuma que todo o ácido acético do vinagre reagiu com o bicarbonato de sódio e que o líquido resultante da reação ocupa aproximadamente o mesmo volume do vinagre antes da reação (Vvin).",
       subItens: []
     },
     options: [
@@ -1540,11 +1540,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "12 m/s².",
-      "120 m/s².",
-      "1200 m/s².",
-      "12000 m/s².",
-      "120000 m/s²."
+      "12 $m/s$².",
+      "120 $m/s$².",
+      "1200 $m/s$².",
+      "12000 $m/s$².",
+      "120000 $m/s$²."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -1578,7 +1578,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "Considere um cilindro C de altura h > 0 e cujo raio das circunferências, do topo e da base, é r > 0; um cilindro C1 cujo raio é igual ao de C e altura igual a h/2; e um cilindro C2 com altura h e raio igual a r/2.\nSendo V, V1 e V2 os volumes e A, A1 e A2 as áreas laterais dos cilindros C, C1 e C2, respectivamente, é correto afirmar:",
+      principal: "Considere um cilindro C de altura h > 0 e cujo raio das circunferências, do topo e da base, é r > 0; um cilindro C1 cujo raio é igual ao de C e altura igual a $h/2$; e um cilindro C2 com altura h e raio igual a $r/2$.\nSendo V, V1 e V2 os volumes e A, A1 e A2 as áreas laterais dos cilindros C, C1 e C2, respectivamente, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -1599,7 +1599,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "Em relação ao plano cartesiano Oxy, é correto afirmar que as equações x^2 + y^2 – 4x = -3 e x^2 + y^2 – 4y = -3 representam",
+      principal: "Em relação ao plano cartesiano Oxy, é correto afirmar que as equações $x^2$ + $y^2$ – 4x = -3 e $x^2$ + $y^2$ – 4y = -3 representam",
       subItens: []
     },
     options: [
@@ -1716,7 +1716,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Literatura Brasileira", "Literatura Portuguesa", "Realismo/Naturalismo"],
+    conteudo: ["Literatura Brasileira", "Literatura Portuguesa", "$Realismo/Naturalismo$"],
     imageNames: []
 }),
 
@@ -1725,7 +1725,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "O funcionário público como personagem literário ganha destaque na literatura brasileira a partir dos anos 1930. Uma explicação para esse fenômeno está na tematização, por parte dos escritores, das mudanças do papel do Estado brasileiro na constituição do mercado de trabalho assalariado e como agente da modernização do país:\n\"De 1930 em diante, foram criadas dezenas de comissões, instituições e órgãos de planejamento e/ou de promoção das atividades econômicas, notadamente as ligadas às atividades agrícolas e àquelas voltadas para a industrialização.”\nMATTOS, Fernando Augusto Mansor de. A trajetória do emprego público no Brasil desde o início do século XX. Ensaios FEE, v.36, n.1, p.95, jun.2015.\nNo romance Os ratos, de Dyonélio Machado, o funcionalismo público configura-se como",
+      principal: "O funcionário público como personagem literário ganha destaque na literatura brasileira a partir dos anos 1930. Uma explicação para esse fenômeno está na tematização, por parte dos escritores, das mudanças do papel do Estado brasileiro na constituição do mercado de trabalho assalariado e como agente da modernização do país:\n\"De 1930 em diante, foram criadas dezenas de comissões, instituições e órgãos de planejamento $e/ou$ de promoção das atividades econômicas, notadamente as ligadas às atividades agrícolas e àquelas voltadas para a industrialização.”\nMATTOS, Fernando Augusto Mansor de. A trajetória do emprego público no Brasil desde o início do século XX. Ensaios FEE, v.36, n.1, p.95, jun.2015.\nNo romance Os ratos, de Dyonélio Machado, o funcionalismo público configura-se como",
       subItens: []
     },
     options: [
@@ -1830,7 +1830,7 @@ createQuestion({
     university: "fuvest",
     year: 2025,
     text: {
-      principal: "\"Consiste em uma faixa de terra semiárida e árida que contorna a borda sul do Deserto do Saara e percorre a extensão da África no sentido leste-oeste. Atua como um cinturão que divide o continente africano em dois, a África majoritariamente islâmica, ao norte, e a cristã, ao sul. Englobando ao menos onze países, a região é lar para dezenas de grupos étnicos.\"\nVAGEN, Tor-Gunnar; GUMBRICHT, Thomas. UNEP/ONU, 2012 (Adaptado).\nO texto descreve características da região denominada de",
+      principal: "\"Consiste em uma faixa de terra semiárida e árida que contorna a borda sul do Deserto do Saara e percorre a extensão da África no sentido leste-oeste. Atua como um cinturão que divide o continente africano em dois, a África majoritariamente islâmica, ao norte, e a cristã, ao sul. Englobando ao menos onze países, a região é lar para dezenas de grupos étnicos.\"\nVAGEN, Tor-Gunnar; GUMBRICHT, Thomas. $UNEP/ONU$, 2012 (Adaptado).\nO texto descreve características da região denominada de",
       subItens: []
     },
     options: [

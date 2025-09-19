@@ -12,7 +12,7 @@ createQuestion({
       "O objetivo principal do texto é apresentar as impressões do autor acerca do universo dos youtubers.",
       "O objetivo do texto é unicamente trazer informações acerca da atuação dos youtubers."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão de Texto", "Interpretação de Texto"],
     imageNames: []
@@ -32,7 +32,7 @@ createQuestion({
       "No trecho \"d\" o sentido da palavra é de modo.",
       "Nos trechos \"a\" e \"b\" a função da palavra é escla-recer de onde partem as falas: do profissional das artes cênicas e de Drummond, respectivamente."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Semântica", "Classes de Palavras"],
     imageNames: []
@@ -52,7 +52,7 @@ createQuestion({
       "um fantástico universo.",
       "este universo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -72,7 +72,7 @@ createQuestion({
       "No trecho \"c\", trata-se de um pronome relativo.",
       "No trecho \"d\", trata-se de um pronome possessivo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Pronomes"],
     imageNames: []
@@ -92,7 +92,7 @@ createQuestion({
       "Estes versos pertencem à obra lírica de Luís de Camões, autor exponencial da literatura universal e sobretudo portuguesa. Notadamente, as caracterís-ticas deste soneto são clássicas, demonstrando o refinamento de estilo e sua vocação religiosa ao conceptismo.",
       "O verso da segunda estrofe: \"E todo assiste inteiro em qualquer parte\", aponta que o corpo de D. Se-bastião está presente na hóstia sagrada tanto quanto a corporeidade de Cristo, revelando o mito sebastianista explorado neste soneto."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira", "Gêneros Líricos"],
     imageNames: []
@@ -112,7 +112,7 @@ createQuestion({
       "Na confecção dos mosaicos, os bizantinos utiliza-vam peças de vidro colorido cortado, fragmentos de madrepérola e pedras valiosas, com fundo dou-rado.",
       "As imagens bizantinas constituíam um texto visual, uma forma de comunicação que utilizava figuras e símbolos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Arte Bizantina"],
     imageNames: []
@@ -132,7 +132,7 @@ createQuestion({
       "As cores complementares são cores opostas: o amarelo é complementar ao verde; o vermelho é complementar ao laranja, e o azul é complementar ao violeta.",
       "O círculo cromático é dividido em cores primárias: amarelo, azul (ciano) e vermelho (magenta), com as quais é possível obter todas as outras cores."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Teoria das Cores"],
     imageNames: []
@@ -152,7 +152,7 @@ createQuestion({
       "Dentre os instrumentos que acompanhavam as canções e danças medievais incluíam-se a chara-mela, a viela de roda e o saltério.",
       "Na Idade Média, a música apresentava melodias complexas com ornamentos harmônicos e contras-tes de timbres instrumentais."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Música Medieval"],
     imageNames: []
@@ -172,7 +172,7 @@ createQuestion({
       "Durante o período Barroco, foi amplamente difun-dida a fuga, peça musical contrapontística que se fundamenta essencialmente na técnica da imitação.",
       "Frederic Chopin, Ludwig van Beethoven e Franz Pe-ter Schubert são alguns dos principais composito-res da música barroca."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Música Barroca"],
     imageNames: []
@@ -192,7 +192,7 @@ createQuestion({
       "As primeiras expressões da arte do período da Pe-dra Lascada, ou Paleolítico Superior, consistiam em traços feitos nas paredes das cavernas, cuja princi-pal característica era o naturalismo, forma de ex-pressão onde o artista representava os objetos na-turais como os via, reproduzindo a natureza como sua vista a captava.",
       "A pintura rupestre foi a primeira manifestação ar-tística do homem em sua relação com a natureza. Presume-se que fazia parte de rituais mágicos, cu-jo propósito era assegurar uma caça bem sucedida."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Arte Rupestre"],
     imageNames: []
@@ -212,7 +212,7 @@ createQuestion({
       "A situação C representa a célula colocada em so-lução hipotônica, visto que a mesma perdeu água por osmose e encontra-se túrgida.",
       "A célula em A está plasmolisada, ou seja, em so-lução isotônica, ela tende a ter seu volume celular diminuído. A pressão da parede celulósica se torna equivalente à pressão osmótica."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia", "Osmose"],
     imageNames: []
@@ -232,7 +232,7 @@ createQuestion({
       "A fotossíntese ocorre nos cloroplastos. As etapas de absorção de luz, transporte de elétrons e produ-ção de ATP são catalisadas por enzimas da mem-brana tilacoide. As reações que levam à produção de glicídios, a partir de CO2, são catalisadas por enzimas no estroma do cloroplasto.",
       "A fotossíntese tem início com a absorção de ener-gia luminosa por moléculas de clorofila. A energia luminosa excita elétrons da clorofila, os quais pas-sam por cadeias transportadoras de elétrons, quando então são transferidos de um aceptor para outro, liberando parte da energia captada na forma de luz."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Metabolismo Energético", "Fotossíntese"],
     imageNames: []
@@ -252,7 +252,7 @@ createQuestion({
       "O tecido conjuntivo propriamente dito sustenta e nutre tecidos que não possuem vascularização, como o epitelial. É encontrado abaixo do epitélio e em volta de órgãos, preenchendo os espaços e fa-zendo a ligação entre dois tecidos diferentes.",
       "O tecido conjuntivo ósseo pode ser dividido em hia-lino (constituído de poucas fibras e presentes nos membros de sustentação do corpo) e elástico (constituído de muitas fibras colágenas e presente principalmente na coluna vertebral)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Histologia Animal", "Tecidos Conjuntivos"],
     imageNames: []
@@ -272,7 +272,7 @@ createQuestion({
       "Os platelmintos e nematelmintos apresentam ovos megalécitos D, com vitelo concentrado na região central do ovo, envolvendo o núcleo celular.",
       "Os anfíbios apresentam ovos heterolécitos B, nos quais o vitelo está distribuído de forma heterogê-nea no citoplasma. Os grãos de vitelo concentram-se no polo vegetativo e o polo animal apresenta menos vitelo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Embriologia", "Tipos de Ovos"],
     imageNames: []
@@ -288,11 +288,11 @@ createQuestion({
     },
     options: [
       "A candidíase é causada pelo piolho púbico, conhe-cido popularmente como \"chato\", o qual pode ficar aderido aos pelos pubianos. O tratamento é feito com cremes e antibióticos.",
-      "A bactéria Treponema pallidum causa a sífilis, sen-do o primeiro sinal nos afetados uma ferida sem dor, dura, com bordas elevadas e avermelhadas na região genital ou, às vezes no ânus, na boca ou em outras regiões que entraram em contato com a bactéria.",
+      "A bactéria Treponema pallidum causa a sífilis, $\\sin$-do o primeiro sinal nos afetados uma ferida sem dor, dura, com bordas elevadas e avermelhadas na região genital ou, às vezes no ânus, na boca ou em outras regiões que entraram em contato com a bactéria.",
       "A herpes genital é causada por vírus. Inicialmente, o local fica vermelho e provoca coceira, surgindo então pequenas bolhas, as quais podem arrebentar e formar feridas. Os sintomas podem desaparecer em 4 semanas, mas o vírus continua presente no indivíduo.",
       "A gonorreia (ou blenorragia) é causada pela bacté-ria Neisseria gonorrhoeae e pode provocar inflama-ção da uretra, da próstata e do útero. Os afetados podem apresentar dor, ardência e secreção branca ou amarelada ao urinar."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Saúde Humana", "Doenças Sexualmente Transmissíveis (DSTs)"],
     imageNames: []
@@ -312,7 +312,7 @@ createQuestion({
       "A velocidade angular fornece a informação sobre a rapidez com que o objeto está girando.",
       "No movimento circular, a frequência e o período estão relacionados, sendo um o inverso do outro."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática", "Movimento Circular Uniforme (MCU)"],
     imageNames: []
@@ -323,16 +323,16 @@ createQuestion({
     university: "uepg",
     year: 2016,
     text: {
-      principal: "Duas caixas A e B estão apoiadas na superfície horizon-tal da carroceria de um caminhão em repouso, como mostra a figura abaixo. Um operário aplica uma força de 36 N à caixa A de massa mA = 2,5 kg que está encosta-da à caixa B com massa mB = 3,5 kg. Considerando que o coeficiente de atrito entre cada caixa e a superfície horizontal é 0,45 e g = 10 m/s², assinale o que for cor-reto.\nF\nA\nB",
+      principal: "Duas caixas A e B estão apoiadas na superfície horizon-tal da carroceria de um caminhão em repouso, como mostra a figura abaixo. Um operário aplica uma força de 36 N à caixa A de massa mA = 2,5 kg que está encosta-da à caixa B com massa mB = 3,5 kg. Considerando que o coeficiente de atrito entre cada caixa e a superfície horizontal é 0,45 e g = 10 $m/s$², assinale o que for cor-reto.\nF\nA\nB",
       subItens: []
     },
     options: [
       "As caixas A e B sofrem ação da força de 36 N e permanecem em contato apoiadas na mesma su-perfície. A caixa B, por estar mais distante da força aplicada pelo operário na caixa A, sofre um deslo-camento maior, para o mesmo intervalo de tempo.",
-      "A aceleração das caixas A e B, na situação descrita no enunciado, é de 1,5 m/s².",
-      "A aceleração das caixas A e B, supondo atrito des-prezível, é de 6 m/s².",
+      "A aceleração das caixas A e B, na situação descrita no enunciado, é de 1,5 $m/s$².",
+      "A aceleração das caixas A e B, supondo atrito des-prezível, é de 6 $m/s$².",
       "De acordo com a segunda Lei de Newton, a inten-sidade da força que a caixa A aplica na caixa B é de 36 N."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Dinâmica", "Leis de Newton", "Atrito"],
     imageNames: []
@@ -343,16 +343,16 @@ createQuestion({
     university: "uepg",
     year: 2016,
     text: {
-      principal: "Um corpo cai livremente com aceleração de 10 m/s². Supondo um sistema ideal, assinale o que for correto.",
+      principal: "Um corpo cai livremente com aceleração de 10 $m/s$². Supondo um sistema ideal, assinale o que for correto.",
       subItens: []
     },
     options: [
       "A distância percorrida pelo corpo é proporcional ao quadrado do tempo gasto para percorrê-la.",
       "Se o corpo cair do repouso, de uma altura de 500 metros, levará 10 segundos para atingir o solo.",
       "O movimento descrito pelo corpo ao cair é retilíneo e uniforme.",
-      "A velocidade com que o corpo, citado na afirmativa (02), chega ao solo, é de 100 m/s."
+      "A velocidade com que o corpo, citado na afirmativa (02), chega ao solo, é de 100 $m/s$."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática", "Queda Livre"],
     imageNames: []
@@ -363,16 +363,16 @@ createQuestion({
     university: "uepg",
     year: 2016,
     text: {
-      principal: "A trave de equilíbrio é uma das modalidades da ginásti-ca artística. Em uma trave de 5 metros de comprimen-to, apoiada em equilíbrio em A e B, homogênea e de massa de 20 kg, encontra-se uma atleta como mostra a figura abaixo. Sabendo que a massa da atleta é 45 kg e a aceleração da gravidade é 10 m/s², assinale o que for correto.\n1,2m\n3,8m\nA\nB",
+      principal: "A trave de equilíbrio é uma das modalidades da ginásti-ca artística. Em uma trave de 5 metros de comprimen-to, apoiada em equilíbrio em A e B, homogênea e de massa de 20 kg, encontra-se uma atleta como mostra a figura abaixo. Sabendo que a massa da atleta é 45 kg e a aceleração da gravidade é 10 $m/s$², assinale o que for correto.\n1,2m\n3,8m\nA\nB",
       subItens: []
     },
     options: [
       "O peso da barra é de 200 N.",
-      "A barra estará em equilíbrio para as seguintes con-dições:\n- A resultante das forças que agem na barra é nu-la.\n- O momento resultante das forças que agem na barra é nulo.",
+      "A barra estará em equilíbrio para as seguintes con-dições:\n- A resultante das forças que agem na barra é $\\nu$-la.\n- O momento resultante das forças que agem na barra é nulo.",
       "As intensidades das forças de reação nos apoios são FA = 160 N e FB = 40 N.",
       "A ginasta estará em equilíbrio sobre a trave se ne-cessariamente estiver em repouso."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Estática", "Equilíbrio de Corpos Rígidos"],
     imageNames: []
@@ -392,7 +392,7 @@ createQuestion({
       "Quando uma força atua em um objeto que não se desloca, ela não realiza trabalho.",
       "O trabalho realizado por uma força sobre um corpo depende do ângulo entre esta e o deslocamento."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Trabalho e Energia"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "Este elemento pertence à mesma família que o elemento químico com número atômico igual a 38.",
       "A eletroafinidade deste elemento químico é maior que a do elemento com número atômico igual a 17."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Estrutura Atômica", "Tabela Periódica"],
     imageNames: []
@@ -432,7 +432,7 @@ createQuestion({
       "O elétron mais energético do átomo B tem os se-guintes números quânticos: n=2; l=2; m= -1.",
       "Átomos de N possuem núcleos com 7 prótons e 6 nêutrons."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Estrutura Atômica", "Distribuição Eletrônica", "Isótopos"],
     imageNames: []
@@ -452,7 +452,7 @@ createQuestion({
       "A geometria existente na molécula do dióxido de enxofre é a angular.",
       "A interação intermolecular entre as moléculas de dióxido de carbono é a interação dipolo permanen-te-dipolo permanente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Ligações Químicas", "Geometria Molecular", "Polaridade", "Interações Intermoleculares"],
     imageNames: []
@@ -472,7 +472,7 @@ createQuestion({
       "A reação Zn + H2SO4 → ZnSO4 + H2 pode ser classificada como reação de decomposição.",
       "Podem ser representadas pela equação geral:\nABA + B."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Reações Químicas", "Reações de Decomposição"],
     imageNames: []
@@ -492,7 +492,7 @@ createQuestion({
       "Quando a água entra em ebulição, são rompidas as ligações de hidrogênio entre suas moléculas.",
       "No CO2 sólido, conhecido como gelo seco, as molé-culas de CO2 estão unidas por interações do tipo dipolo induzido-dipolo induzido."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Forças Intermoleculares", "Estados da Matéria"],
     imageNames: []
@@ -512,7 +512,7 @@ createQuestion({
       "a-d e c-d são soluções da equação x² - x - 56 = 0.",
       "Se f(x) = 2x, então f(a - d) < f(d - c)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Conjuntos", "Resolução de Problemas"],
     imageNames: []
@@ -532,7 +532,7 @@ createQuestion({
       "Devem ser produzidas, no mínimo, 15 peças por dia para que esta indústria não tenha prejuízo.",
       "A função lucro é decrescente no intervalo [35, 65]."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções do 2º grau", "Otimização"],
     imageNames: []
@@ -552,7 +552,7 @@ createQuestion({
       "O produto dos três primeiros termos da progressão geométrica é 2¹².",
       "A divisão entre a razão da progressão aritmética e a razão da progressão geométrica é ímpar."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Progressão Aritmética (PA)", "Progressão Geométrica (PG)"],
     imageNames: []
@@ -563,7 +563,7 @@ createQuestion({
     university: "uepg",
     year: 2016,
     text: {
-      principal: "Considerando as funções abaixo, assinale o que for correto.\nf(x) = 2x - 6\ng(x) = x² + 4x - 3\nh(x) = (1/3)^(x-1)\nm(x) = log₃(x²)\nn(x) = -4x + 7",
+      principal: "Considerando as funções abaixo, assinale o que for correto.\nf(x) = 2x - 6\ng(x) = x² + 4x - 3\nh(x) = ($1/3$)^(x-1)\nm(x) = $\\log$₃(x²)\nn(x) = -4x + 7",
       subItens: []
     },
     options: [
@@ -572,7 +572,7 @@ createQuestion({
       "As funções g(x) e f(x) interceptam-se nos pontos (3,0) e (-1,-8).",
       "O gráfico da função m(h(x)) intercepta o eixo y no ponto (0,2)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções (Geral)", "Função Afim", "Função Quadrática", "Função Exponencial", "Função Logarítmica"],
     imageNames: []
@@ -588,11 +588,11 @@ createQuestion({
     },
     options: [
       "O produto das soluções da equação 2^(2x+1) ⋅ 2^(x+4) = 2^(x+2) – 32 é 3.",
-      "A raiz da equação log₂(–x² + 2x + 7) = 1 + log₂(3x – 7) pertence ao intervalo [0,3].",
+      "A raiz da equação $\\log$₂(–x² + 2x + 7) = 1 + $\\log$₂(3x – 7) pertence ao intervalo [0,3].",
       "Se f(x) = 5ˣ e f(√x) = f(2)⋅f(0), então x = √2.",
-      "Se log₂ a = x, log₂ b = x e log₂ c = x, então log₂ (a³bc³) = 1."
+      "Se $\\log$₂ a = x, $\\log$₂ b = x e $\\log$₂ c = x, então $\\log$₂ (a³bc³) = 1."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Equações Exponenciais", "Equações Logarítmicas", "Propriedades de Logaritmos"],
     imageNames: []
@@ -612,7 +612,7 @@ createQuestion({
       "Existe uma explicação mitológica em torno da fun-dação da Grécia, segundo a qual os fundadores se-riam os gêmeos Rômulo e Remo.",
       "A pólis ou cidade-Estado era a forma de organiza-ção social e política entre os gregos na Antiguida-de."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Grécia Antiga"],
     imageNames: []
@@ -632,7 +632,7 @@ createQuestion({
       "A religião foi algo extremamente importante e, se-gundo a crença egípcia, a maioria dos deuses habi-tava o alto do monte Olimpo.",
       "Ilíada o Odisseia são consideradas as mais antigas obras da literatura egípcia."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Antigo Egito"],
     imageNames: []
@@ -652,7 +652,7 @@ createQuestion({
       "Quando os europeus chegaram oficialmente à Amé-rica, encontraram povos que tinham formas dife-rentes de organização social, política e econômica.",
       "Os Astecas, os Maias e os Incas são alguns dos po-vos que viviam na América antes da chegada do europeu."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["América Pré-Columbiana"],
     imageNames: []
@@ -672,7 +672,7 @@ createQuestion({
       "Mesmo em distintos espaços geográficos, como a densa floresta e o deserto do Saara os povos africanos criaram e desenvolveram diversas cren-ças religiosas, que tinham em comum o culto a muitos deuses.",
       "A Etiópia é hoje uma das nações mais pobres do mundo; no passado, abrigou uma das sociedades africanas: o Reino de Axum."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Reinos Africanos"],
     imageNames: []
@@ -692,7 +692,7 @@ createQuestion({
       "Para o estudo da História, o historiador pode fazer uso de diversas fontes, como: escritas, orais, fotos, desenhos, pinturas entre outras.",
       "A História é uma ciência que sistematiza as suas pesquisas, exclusivamente, nos documentos escri-tos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Metodologia da História"],
     imageNames: []
@@ -712,7 +712,7 @@ createQuestion({
       "O conceito de paisagem está intimamente ligado apenas à Geografia Física, ou seja, a observação da vegetação, zonas climáticas, relevo, hidrografia e geologia de dado local.",
       "Todo local que o ser humano transforma a seu fa-vor dá-se o nome de região, principal objeto de es-tudo da ciência geográfica."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Conceitos Geográficos"],
     imageNames: []
@@ -732,7 +732,7 @@ createQuestion({
       "As altitudes mais altas da Terra possuem climas frios assim como as altas latitudes.",
       "As correntes oceânicas podem influenciar a quanti-dade de umidade e pluviosidade da Terra. Corren-tes quentes trazem mais chuva e correntes frias mais tempo seco. Porém estas correntes não têm relação com o regime térmico terrestre."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Climatologia", "Fatores Climáticos"],
     imageNames: []
@@ -749,10 +749,10 @@ createQuestion({
     options: [
       "A poligamia é liberada pela crença islâmica. Ho-mens e mulheres podem possuir mais de um par-ceiro que são oficializados no matrimônio, prática civil liberada em vários países árabes.",
       "Possui maioria de adeptos no norte da África e Oriente Médio, na Ásia. O país que possui a maior população islâmica do mundo em número absoluto é a Indonésia, no sudeste asiático.",
-      "Assim como os judeus, os muçulmanos não podem se alimentar de carne de porco. Os muçulmanos comem carne de boi ou frango abatidos ao modo islâmico.",
+      "Assim como os judeus, os $\\mu$çulmanos não podem se alimentar de carne de porco. Os $\\mu$çulmanos comem carne de boi ou frango abatidos ao modo islâmico.",
       "Possui cinco pilares que todo islâmico com condição financeira e saúde deve seguir: crer no deus único e Maomé como seu profeta, orar cinco vezes ao dia voltado à Meca, ser caridoso, jejuar no mês do Ramada e peregrinar a Meca pelo menos uma vez na vida."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geografia Cultural", "Religiões (Islamismo)"],
     imageNames: []
@@ -772,7 +772,7 @@ createQuestion({
       "Os humanos têm emitido cada vez menos gás car-bônico na atmosfera, sobretudo após a maior parte dos países do mundo assinarem o Tratado de Kyoto.",
       "O aquecimento global proveniente do efeito estufa vem sido discutido na ONU através do Painel Inter-governamental sobre Mudanças Climáticas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Meio Ambiente", "Efeito Estufa", "Aquecimento Global"],
     imageNames: []
@@ -792,7 +792,7 @@ createQuestion({
       "Vários países da Europa Ocidental têm baixíssimas taxas de natalidade, como França, Reino Unido e a região da Escandinavia.",
       "A entrada de migrantes em países com baixas ta-xas de natalidade é um fator importante para con-trabalancear a baixa quantidade de filhos nascidos em tais países."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Demografia", "População"],
     imageNames: []
@@ -812,7 +812,7 @@ createQuestion({
       "É também chamado de período cosmológico, onde os filósofos precedentes a Sócrates tentam explicar a diversidade e a transitoriedade das coisas do uni-verso, reduzindo tudo a um ou mais princípios elementares, os quais seriam a verdadeira nature-za ou o ser de todas as coisas.",
       "Ocorre a junção do saber alegórico ao desenvolvi-mento do logos (como uma forma da linguagem argumentativa, com pretensão de convencimento através de sofismas)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["História da Filosofia", "Filosofia Antiga", "Pré-Socráticos"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "Ironia socrática é um método dedutivo que consis-te em um momento básico, de construção de novos conceitos com base monológica.",
       "O âmago do discurso socrático é metodológico, gnosiológico e epistemológico fundamentado no método dedutivo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["História da Filosofia", "Sócrates", "Método Socrático"],
     imageNames: []
@@ -852,7 +852,7 @@ createQuestion({
       "Segundo o filósofo Platão, a primeira e importante virtude do filósofo é o espanto (thaumázein, em grego).",
       "Nos diálogos socráticos, escritos pelo filósofo grego Platão no século IV a.C, além de se destacarem com sua importância de caráter educativo, também enfatizam o saber filosófico pelo exercício do senso crítico do interlocutor, denunciando as falhas e ideias precárias do senso comum."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Natureza da Filosofia", "Conhecimento Filosófico"],
     imageNames: []
@@ -872,7 +872,7 @@ createQuestion({
       "É definida pela dialética, como sendo um procedi-mento intelectual e linguístico iniciado a partir de alguma coisa que deve ser dividida em duas partes contrárias, demonstrando que de um lado está a aparência e do outro a essência.",
       "A lógica aristotélica caracteriza-se como: instru-mental; formal; propedêutica; normativa; doutrina da prova; geral e temporal."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Lógica", "Aristóteles"],
     imageNames: []
@@ -892,7 +892,7 @@ createQuestion({
       "O filósofo empirista John Locke distingue graus de conhecimento, que iniciam por meio dos sentidos até chegar ao pensamento. Acredita então, que ao nascermos nossa mente é como uma tábula rasa.",
       "Bacon e Descartes examinam as causas e as for-mas do erro como requisito posterior à abordagem do conhecimento verdadeiro, definido pela análise de preconceitos e do senso comum."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Teoria do Conhecimento", "Empirismo", "Racionalismo"],
     imageNames: []
@@ -909,10 +909,10 @@ createQuestion({
     options: [
       "Ambas tiveram influência do movimento filosófico conhecido por Iluminismo que via o ser humano como principal agente transformador da história.",
       "A partir delas se consolida um novo período a \"modernidade\" e para melhor interpreta-lá surge a sociologia.",
-      "O saber científico, após as revoluções, ficou em se-gundo plano, uma vez que a igreja continuava sen-do o centro do mundo.",
+      "O saber científico, após as revoluções, ficou em se-gundo plano, uma vez que a igreja continuava $\\sin$-do o centro do mundo.",
       "O surgimento da sociologia se deu principalmente pela influência do clero que aceitava a ciência como algo divino."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Surgimento da Sociologia", "Revolução Industrial", "Revolução Francesa"],
     imageNames: []
@@ -932,7 +932,7 @@ createQuestion({
       "Para Durkheim, o fato social tem características próprias que são externas ao indivíduo, exercem coerção sobre o mesmo e são gerais.",
       "Para Weber, as ações sociais têm um sentido pró-prio e precisam ser interpretadas de um forma par-ticular e não de forma coletiva."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Conceitos Sociológicos", "Durkheim", "Weber", "Marx"],
     imageNames: []
@@ -952,7 +952,7 @@ createQuestion({
       "As instituições sociais são mecanismos de controle da sociedade e também são partes importantes do processo de socialização dos indivíduos.",
       "Segundo Durkheim, a instituição escolar deve conscientizar o aluno de sua condição e levá-lo a ser um agente transformador da sociedade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Instituições Sociais", "Socialização"],
     imageNames: []
@@ -972,7 +972,7 @@ createQuestion({
       "Franz Boas, antropólogo alemão não partilhava da mesma concepção de Tylor. Para ele cada cultura possui uma particularidade histórica.",
       "A cultura não pode influenciar os padrões de com-portamento de um indivíduo ou de uma sociedade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Cultura", "Antropologia"],
     imageNames: []
@@ -988,11 +988,11 @@ createQuestion({
     },
     options: [
       "O preconceito racial pode ser considerado um exemplo de etnocentrismo.",
-      "Ao julgarmos como errada uma mulher muçulmana que aceita a poligamia de seu marido, estamos as-sumindo uma postura etnocêntrica.",
+      "Ao julgarmos como errada uma mulher $\\mu$çulmana que aceita a poligamia de seu marido, estamos as-sumindo uma postura etnocêntrica.",
       "O relativismo cultural é um princípio desenvolvido pela antropologia que vê como legítima as manifes-tações culturais e serve como uma crítica à prática do etnocentrismo.",
       "O etnocentrismo é uma visão de mundo onde o in-divíduo enxerga a cultura do outro como inferior à sua."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Cultura", "Etnocentrismo", "Relativismo Cultural"],
     imageNames: []
@@ -1012,7 +1012,7 @@ createQuestion({
       "O controle do número de aves de um ecossistema é importante para determinar os locais que mais necessitam de medidas de conservação.",
       "Segundo Mark Reynolds, todas as espécies de aves são beneficiadas pelos habitats artificialmente ala-gados."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto", "Meio Ambiente"],
     imageNames: []
@@ -1032,7 +1032,7 @@ createQuestion({
       "Poderiam ser traduzidos por estão ajudando, diz e abrigaram, respectivamente.",
       "Referem-se, pela ordem, aos observadores de pás-saros, a Mark Reynolds e às aves."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática (Verbos)", "Compreensão de Texto"],
     imageNames: []
@@ -1052,7 +1052,7 @@ createQuestion({
       "Poderiam ser traduzidos por instantâneos e duzen-tos mil, respectivamente.",
       "Poderiam ser traduzidos por protegidos e vinte e dois mil, respectivamente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário", "Compreensão de Texto"],
     imageNames: []
@@ -1072,7 +1072,7 @@ createQuestion({
       "Crowdsourcing é o único recurso para salvar habi-tats ameaçados.",
       "A contribuição dos internautas é valiosa para a sal-vação de habitats ameaçados."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -1092,7 +1092,7 @@ createQuestion({
       "Em 2014, mais de cinquenta espécies de aves aquáticas se abrigaram nesses refúgios temporá-rios.",
       "Plantadores de arroz são pagos para inundar suas plantações durante os períodos de migração das aves."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []

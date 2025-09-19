@@ -163,7 +163,7 @@ createQuestion({
     university: "ufg",
     year: 2017,
     text: {
-      principal: "O humor do Texto 4 se constrói com base no fato de\n\nImage:\nPanel 1: Mafalda and Miguelito by the sea. Mafalda says: \"VAMOS, MIGUELITO, DEIXE DE LADO ESSA IDÉIA DE QUE O MAR PARECE SOPA!\"\nPanel 2: Mafalda and Miguelito by the sea, looking at people swimming. Mafalda says: \"ESTÁ VENDO? NÃO É LINDO, TODA ESSA GENTE TOMANDO BANHO DE MAR? HEIN? HEIN?\" Miguelito thinks \"MACARRÃO!\"\nPanel 3: Mafalda and Miguelito are back, Miguelito looks sick. Mafalda says: \"COITADO DO MIGUELITO! O QUE ACONTECEU?\"\nPanel 4: Miguelito sitting, looking at the sea. Text bubble: \"DESDE O DIA EM QUE IMAGINOU QUE O MAR ERA SOPA, SEMPRE QUE OLHA PARA ELE FICA ENJOADO!\" Mafalda says: \"MAS...\"\nPanel 5: Miguelito is on the beach, looking at the sea. Mafalda points at him: \"OLHA ELE!\" Miguelito: \"NO MAR!\"\nPanel 6: Mafalda is happy. \"MUITO BEM. MIGUELITO! TOMOU CORAGEM?!\" Miguelito answers: \"NÃO! TOMEI SAL DE FRUTAS!\"\n\nDisponível em: <http://blogdoxandro.blogspot.com.br/2012_05_15_archive.html>. Acesso em: 19 jun. 2017.",
+      principal: "O humor do Texto 4 se constrói com base no fato de\n\nImage:\nPanel 1: Mafalda and Miguelito by the sea. Mafalda says: \"VAMOS, MIGUELITO, DEIXE DE LADO ESSA IDÉIA DE QUE O MAR PARECE SOPA!\"\nPanel 2: Mafalda and Miguelito by the sea, looking at people swimming. Mafalda says: \"ESTÁ VENDO? NÃO É LINDO, TODA ESSA GENTE TOMANDO BANHO DE MAR? HEIN? HEIN?\" Miguelito thinks \"MACARRÃO!\"\nPanel 3: Mafalda and Miguelito are back, Miguelito looks sick. Mafalda says: \"COITADO DO MIGUELITO! O QUE ACONTECEU?\"\nPanel 4: Miguelito sitting, looking at the sea. Text bubble: \"DESDE O DIA EM QUE IMAGINOU QUE O MAR ERA SOPA, SEMPRE QUE OLHA PARA ELE FICA ENJOADO!\" Mafalda says: \"MAS...\"\nPanel 5: Miguelito is on the beach, looking at the sea. Mafalda points at him: \"OLHA ELE!\" Miguelito: \"NO MAR!\"\nPanel 6: Mafalda is happy. \"MUITO BEM. MIGUELITO! TOMOU CORAGEM?!\" Miguelito answers: \"NÃO! TOMEI SAL DE FRUTAS!\"\n\nDisponível em: <http://blogdoxandro.blogspot.com.$br/2012_05_15_archive$.html>. Acesso em: 19 jun. 2017.",
       subItens: []
     },
     options: [
@@ -303,14 +303,14 @@ createQuestion({
     university: "ufg",
     year: 2017,
     text: {
-      principal: "A magnitude M de um terremoto e a energia por ele liberada (em Joules) E estão relacionadas pela seguinte equação:\nlog(E)=4,4+1,5 M,\nsendo que o logaritmo está na base 10.\nSe um terremoto teve magnitude 1,95, a energia por ele liberada, em Joules, foi\nUse: 10^(325/1000)=2,11",
+      principal: "A magnitude M de um terremoto e a energia por ele liberada (em Joules) E estão relacionadas pela seguinte equação:\n$\\log$(E)=4,4+1,5 M,\nsendo que o logaritmo está na base 10.\nSe um terremoto teve magnitude 1,95, a energia por ele liberada, em Joules, foi\nUse: 10^($325/1000$)=2,11",
       subItens: []
     },
     options: [
-      "2,11×10^2",
-      "2,11×10^5",
-      "2,11×10^7",
-      "2,11×10^22"
+      "2,11×$10^2$",
+      "2,11×$10^5$",
+      "2,11×$10^7$",
+      "2,11×$10^22$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -443,7 +443,7 @@ createQuestion({
     university: "ufg",
     year: 2017,
     text: {
-      principal: "Leia o texto a seguir.\n\nTeste do Pezinho deve ser feito até o quinto dia de vida dos bebês\nPrograma Nacional de Triagem Neonatal (PNTN) do Sistema Único de Saúde salva vidas e evita sequelas de seis doenças genéticas ou congênitas. Pais devem fazer o acompanhamento dos resultados\nPara que as crianças se desenvolvam com saúde, é essencial que todos os recém-nascidos façam o teste do Pezinho entre o 3º e o 5º dia de vida, por meio do PNTN. A realização do teste neste período é importante porque é capaz de identificar seis doenças genéticas ou congênitas passíveis de tratamento, mas que não apresentam evidências clínicas ao nascimento. Quanto mais cedo as doenças forem identificadas e tratadas, maior a possibilidade de evitar algumas sequelas nas crianças tais como deficiência mental, microcefalia, convulsões, comportamento autista, fibrosamento do pulmão, crises epiléticas, entre outras complicações e até a morte. Além da realização do Teste do Pezinho, o Sistema Único de Saúde (SUS) garante atendimento com médicos especialistas a todos os pacientes triados positivamente para as doenças.\n\nDisponível em: <http://portalsaude.saude.gov.br/index.php/cidadao/principal/agencia-\nsaude/25955-teste-do-pezinho-deve-ser-feito-ate-o-quinto-dia-de-vida-dos-bebes>.\nAcesso em: 20 jun. 2017. (Adaptado).\n\nDentre as doenças detectadas por esse teste, cita-se, como exemplo, uma hemoglobinopatia, conhecida como:",
+      principal: "Leia o texto a seguir.\n\nTeste do Pezinho deve ser feito até o quinto dia de vida dos bebês\nPrograma Nacional de Triagem Neonatal (PNTN) do Sistema Único de Saúde salva vidas e evita sequelas de seis doenças genéticas ou congênitas. Pais devem fazer o acompanhamento dos resultados\nPara que as crianças se desenvolvam com saúde, é essencial que todos os recém-nascidos façam o teste do Pezinho entre o 3º e o 5º dia de vida, por meio do PNTN. A realização do teste neste período é importante porque é capaz de identificar seis doenças genéticas ou congênitas passíveis de tratamento, mas que não apresentam evidências clínicas ao nascimento. Quanto mais cedo as doenças forem identificadas e tratadas, maior a possibilidade de evitar algumas sequelas nas crianças tais como deficiência mental, microcefalia, convulsões, comportamento autista, fibrosamento do pulmão, crises epiléticas, entre outras complicações e até a morte. Além da realização do Teste do Pezinho, o Sistema Único de Saúde (SUS) garante atendimento com médicos especialistas a todos os pacientes triados positivamente para as doenças.\n\nDisponível em: <http://portalsaude.saude.gov.$br/index$.php/cidadao/principal/agencia-\n$saude/25955$-teste-do-pezinho-deve-ser-feito-ate-o-quinto-dia-de-vida-dos-bebes>.\nAcesso em: 20 jun. 2017. (Adaptado).\n\nDentre as doenças detectadas por esse teste, cita-se, como exemplo, uma hemoglobinopatia, conhecida como:",
       subItens: []
     },
     options: [
@@ -483,14 +483,14 @@ createQuestion({
     university: "ufg",
     year: 2017,
     text: {
-      principal: "As radiações eletromagnéticas ou ondas eletromagnéticas são muito utilizadas em nosso dia a dia: das ondas de rádio, para transportar sinais de TV e telefonia, a ondas de raios-X, para visualizar estruturas internas do corpo humano. Essas radiações transportam energia, cuja quantidade está diretamente relacionada com sua frequência. Quanto maior a frequência, mais energia a onda transporta.\nNo quadro a seguir, são apresentadas algumas faixas aproximadas de frequências e os nomes que damos a essas regiões.\n\nTable:\nRegião | Faixa de Frequência (Hz)\n--- | ---\nRádio | < 3 x 10^9\nMicro-ondas | 10^9 a 10^12\nInfravermelho | 10^12 a 10^14\nUltravioleta | 10^14 a 10^17\nRaios-X | 10^17 a 10^19\n\nA faixa de frequência em que conseguimos observar a onda eletromagnética a olho nu é chamada de região do visível. Considerando as faixas de frequências apresentadas no quadro acima, a frequência, em Hz, que certamente se encontra na faixa do visível é",
+      principal: "As radiações eletromagnéticas ou ondas eletromagnéticas são muito utilizadas em nosso dia a dia: das ondas de rádio, para transportar sinais de TV e telefonia, a ondas de raios-X, para visualizar estruturas internas do corpo humano. Essas radiações transportam energia, cuja quantidade está diretamente relacionada com sua frequência. Quanto maior a frequência, mais energia a onda transporta.\nNo quadro a seguir, são apresentadas algumas faixas aproximadas de frequências e os nomes que damos a essas regiões.\n\nTable:\nRegião | Faixa de Frequência (Hz)\n--- | ---\nRádio | < 3 x $10^9$\nMicro-ondas | $10^9$ a $10^12$\nInfravermelho | $10^12$ a $10^14$\nUltravioleta | $10^14$ a $10^17$\nRaios-X | $10^17$ a $10^19$\n\nA faixa de frequência em que conseguimos observar a onda eletromagnética a olho $\\nu$ é chamada de região do visível. Considerando as faixas de frequências apresentadas no quadro acima, a frequência, em Hz, que certamente se encontra na faixa do visível é",
       subItens: []
     },
     options: [
-      "4 x 10^9",
-      "5 x 10^12",
-      "6 x 10^14",
-      "7 x 10^17"
+      "4 x $10^9$",
+      "5 x $10^12$",
+      "6 x $10^14$",
+      "7 x $10^17$"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -703,18 +703,18 @@ createQuestion({
     university: "ufg",
     year: 2017,
     text: {
-      principal: "Leia o fragmento.\nEra o dia 12 de rabi (24 de setembro) de 622. Maomé tinha então cinquenta e dois anos e podia dizer: \"Deixei minha família e abandonei meus bens pela Hégira, no caminho de Deus\". Assim fora com Moisés, deixando o país do Egito pela \"terra prometida\"; e, antes dele, Abraão, abandonando Ur por ordem de Javé. Jesus havia dito, de maneira muito próxima: \"Vem e segue-me — deixa casa, irmãos e irmãs, pai e mãe, filhos e campos ...\", e ainda: “Quem põe a mão no arado e olha para trás não é apto para o reino de Deus\". O êxodo e a ruptura não são sempre o primeiro passo de iniciativa religiosa?\nSAMUEL, Albert. As religiões hoje. São Paulo: Paulus, 1997, p. 143. (Adaptado)\nO acontecimento descrito no fragmento tem profunda importância histórica e religiosa para o islamismo e marca o início do calendário muçulmano. Esse acontecimento narra a",
+      principal: "Leia o fragmento.\nEra o dia 12 de rabi (24 de setembro) de 622. Maomé tinha então cinquenta e dois anos e podia dizer: \"Deixei minha família e abandonei meus bens pela Hégira, no caminho de Deus\". Assim fora com Moisés, deixando o país do Egito pela \"terra prometida\"; e, antes dele, Abraão, abandonando Ur por ordem de Javé. Jesus havia dito, de maneira muito próxima: \"Vem e segue-me — deixa casa, irmãos e irmãs, pai e mãe, filhos e campos ...\", e ainda: “Quem põe a mão no arado e olha para trás não é apto para o reino de Deus\". O êxodo e a ruptura não são sempre o primeiro passo de iniciativa religiosa?\nSAMUEL, Albert. As religiões hoje. São Paulo: Paulus, 1997, p. 143. (Adaptado)\nO acontecimento descrito no fragmento tem profunda importância histórica e religiosa para o islamismo e marca o início do calendário $\\mu$çulmano. Esse acontecimento narra a",
       subItens: []
     },
     options: [
       "reclusão de Maomé em uma das cavernas do Monte Hira, onde escreve o Alcorão e se torna profeta da nova religião.",
-      "migração de Maomé e seus seguidores de Meca para Medina, onde lidera a primeira comunidade muçulmana.",
+      "migração de Maomé e seus seguidores de Meca para Medina, onde lidera a primeira comunidade $\\mu$çulmana.",
       "retirada de Maomé para o deserto, onde recebe as revelações que lhes são transmitidas pelo arcanjo Gabriel.",
       "entrada triunfal de Maomé em Meca, onde se torna o homem mais poderoso da Arábia ao ser reconhecido como ser divino."
     ],
     correctAnswer: 1,
     materia: ["História"],
-    conteudo: ["História Antiga/Medieval"],
+    conteudo: ["História $Antiga/Medieval$"],
     imageNames: []
 }),
 
@@ -763,7 +763,7 @@ createQuestion({
     university: "ufg",
     year: 2017,
     text: {
-      principal: "Observe a imagem.\n\nImage: Black and white photo of Plínio Salgado (center) with integralist militants. A magazine cover \"ANAUÊ! TEATRO\" is partially visible in front.\n\nPlínio Salgado (ao centro), líder máximo da Ação Integralista Brasileira, posa com militantes integralistas, os \"camisas verde\" s.l., s.d. Inserção: capa da Revista Anauê, Maio de 1935.\nDisponível em: http://www.exposicoesvirtuais.arquivonacional.gov.br/pt-br/exposicoes/69-estado-novo-1937-1945/342-conspiracoes-e-articulacoes. Acesso em: 26 jun. 2017.\n\nA imagem apresenta Plínio Salgado, o principal líder da Ação Integralista Brasileira (AIB) e os militantes integralistas. Na imagem está inserida a capa da Revista integralista Anauê. Surgida na década de 1930, a AIB inspirou-se no",
+      principal: "Observe a imagem.\n\nImage: Black and white photo of Plínio Salgado (center) with integralist militants. A magazine cover \"ANAUÊ! TEATRO\" is partially visible in front.\n\nPlínio Salgado (ao centro), líder máximo da Ação Integralista Brasileira, posa com militantes integralistas, os \"camisas verde\" s.l., s.d. Inserção: capa da Revista Anauê, Maio de 1935.\nDisponível em: http://www.exposicoesvirtuais.arquivonacional.gov.$br/pt$-br/exposicoes/69-estado-novo-1937-$1945/342$-conspiracoes-e-articulacoes. Acesso em: 26 jun. 2017.\n\nA imagem apresenta Plínio Salgado, o principal líder da Ação Integralista Brasileira (AIB) e os militantes integralistas. Na imagem está inserida a capa da Revista integralista Anauê. Surgida na década de 1930, a AIB inspirou-se no",
       subItens: []
     },
     options: [
@@ -783,7 +783,7 @@ createQuestion({
     university: "ufg",
     year: 2017,
     text: {
-      principal: "Analise a fotografia.\n\nImage: Teatro Goiânia building, Art Deco style.\n\nTeatro Goiânia. Disponível em: http://www.goiasagora.go.gov.br/teatro-goiania-divulga-\nprogramacao-de-espetaculos-para-o-2o-semestre/. Acesso em: 26 jun. 2017.\n\nO Teatro Goiânia, retratado na imagem, é um exemplo das construções no estilo Art déco, que marcaram a construção de Goiânia entre as décadas de 1930 e 1940. Estilo internacional de design, o Art déco surgiu na Europa, nas primeiras décadas do século XX, e reflete as mudanças sociais e políticas do período. Em Goiânia caracterizou-se por:",
+      principal: "Analise a fotografia.\n\nImage: Teatro Goiânia building, Art Deco style.\n\nTeatro Goiânia. Disponível em: http://www.goiasagora.go.gov.$br/teatro$-goiania-divulga-\nprogramacao-de-espetaculos-para-o-2o-semestre/. Acesso em: 26 jun. 2017.\n\nO Teatro Goiânia, retratado na imagem, é um exemplo das construções no estilo Art déco, que marcaram a construção de Goiânia entre as décadas de 1930 e 1940. Estilo internacional de design, o Art déco surgiu na Europa, nas primeiras décadas do século XX, e reflete as mudanças sociais e políticas do período. Em Goiânia caracterizou-se por:",
       subItens: []
     },
     options: [

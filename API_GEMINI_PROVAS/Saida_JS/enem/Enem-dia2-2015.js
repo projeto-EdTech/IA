@@ -129,7 +129,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "QUESTÃO 97\nPrimeiro surgiu o homem nu de cabeça baixa.\nDeus veio num raio. Então apareceram os bichos que\ncomiam os homens. E se fez o fogo, as especiarias, a\nroupa, a espada e o dever. Em seguida se criou a filosofia,\nque explicava como não fazer o que não devia ser feito.\nEntão surgiram os números racionais e a História,\norganizando os eventos sem sentido. A fome desde\nsempre, das coisas e das pessoas. Foram inventados o\ncalmante e o estimulante. E alguém apagou a luz. E cada\num se vira como pode, arrancando as cascas das feridas\nque alcança.\nBONASSI, F. 15 cenas do descobrimento de Brasis. In: MORICONI, Í. (Org.).\nOs cem melhores contos do século. Rio de Janeiro: Objetiva, 2001.\nA narrativa enxuta e dinâmica de Fernando Bonassi\nconfigura um painel evolutivo da história da humanidade.\nNele, a projeção do olhar contemporâneo manifesta uma\npercepção que",
+      principal: "QUESTÃO 97\nPrimeiro surgiu o homem $\\nu$ de cabeça baixa.\nDeus veio num raio. Então apareceram os bichos que\ncomiam os homens. E se fez o fogo, as especiarias, a\nroupa, a espada e o dever. Em seguida se criou a filosofia,\nque explicava como não fazer o que não devia ser feito.\nEntão surgiram os números racionais e a História,\norganizando os eventos sem sentido. A fome desde\nsempre, das coisas e das pessoas. Foram inventados o\ncalmante e o estimulante. E alguém apagou a luz. E cada\num se vira como pode, arrancando as cascas das feridas\nque alcança.\nBONASSI, F. 15 cenas do descobrimento de Brasis. In: MORICONI, Í. (Org.).\nOs cem melhores contos do século. Rio de Janeiro: Objetiva, 2001.\nA narrativa enxuta e dinâmica de Fernando Bonassi\nconfigura um painel evolutivo da história da humanidade.\nNele, a projeção do olhar contemporâneo manifesta uma\npercepção que",
       subItens: []
     },
     options: [
@@ -204,7 +204,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Língua Portuguesa", "Geografia"],
-    conteudo: ["Gêneros textuais (informativo/campanha)", "Meio ambiente"],
+    conteudo: ["Gêneros textuais ($informativo/campanha$)", "Meio ambiente"],
     imageNames: []
 }),
 
@@ -339,7 +339,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "QUESTÃO 107\nAssum preto\nTudo em vorta é só beleza\nSol de abril e a mata em frô\nMas assum preto, cego dos óio\nNum vendo a luz, ai, canta de dor\nTarvez por ignorança\nOu mardade das pió\nFuraro os óio do assum preto\nPra ele assim, ai, cantá mió\nAssum preto veve sorto\nMas num pode avuá\nMil veiz a sina de uma gaiola\nDesde que o céu, ai, pudesse oiá\nGONZAGA, L.; TEIXEIRA, H. Disponível em: www.luizgonzaga.mus.br.\nAcesso em: 30 jul. 2012 (fragmento).\nAs marcas da variedade regional registradas pelos\ncompositores de Assum preto resultam da aplicação de\num conjunto de princípios ou regras gerais que alteram a\npronúncia, a morfologia, a sintaxe ou o léxico. No texto, é\nresultado de uma mesma regra a",
+      principal: "QUESTÃO 107\nAssum preto\nTudo em vorta é só beleza\nSol de abril e a mata em frô\nMas assum preto, cego dos óio\nNum vendo a luz, ai, canta de dor\nTarvez por ignorança\nOu mardade das $\\pi$ó\nFuraro os óio do assum preto\nPra ele assim, ai, cantá mió\nAssum preto veve sorto\nMas num pode avuá\nMil veiz a sina de uma gaiola\nDesde que o céu, ai, pudesse oiá\nGONZAGA, L.; TEIXEIRA, H. Disponível em: www.luizgonzaga.mus.br.\nAcesso em: 30 jul. 2012 (fragmento).\nAs marcas da variedade regional registradas pelos\ncompositores de Assum preto resultam da aplicação de\num conjunto de princípios ou regras gerais que alteram a\npronúncia, a morfologia, a sintaxe ou o léxico. No texto, é\nresultado de uma mesma regra a",
       subItens: []
     },
     options: [
@@ -372,7 +372,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Gêneros textuais (relatório)", "Variação linguística (formalidade/subjetividade)"],
+    conteudo: ["Gêneros textuais (relatório)", "Variação linguística ($formalidade/subjetividade$)"],
     imageNames: []
 }),
 
@@ -423,7 +423,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "QUESTÃO 111\nUm dia, meu pai tomou-me pela mão, minha mãe\nbeijou-me a testa, molhando-me de lágrimas os cabelos\ne eu parti.\nDuas vezes fora visitar o Ateneu antes da minha\ninstalação.\nAteneu era o grande colégio da época. Afamado por\num sistema de nutrido reclame, mantido por um diretor\nque de tempos a tempos reformava o estabelecimento,\npintando-o jeitosamente de novidade, como os\nnegociantes que liquidam para recomeçar com artigos de\núltima remessa; o Ateneu desde muito tinha consolidado\ncrédito na preferência dos pais, sem levar em conta a\nsimpatia da meninada, a cercar de aclamações o bombo\nvistoso dos anúncios.\nO Dr. Aristarco Argolo de Ramos, da conhecida família\ndo Visconde de Ramos, do Norte, enchia o império com o\nseu renome de pedagogo. Eram boletins de propaganda\npelas províncias, conferências em diversos pontos da\ncidade, a pedidos, à substância, atochando a imprensa\ndos lugarejos, caixões, sobretudo, de livros elementares,\nfabricados às pressas com o ofegante e esbaforido\nconcurso de professores prudentemente anônimos,\ncaixões e mais caixões de volumes cartonados em\nLeipzig, inundando as escolas públicas de toda a parte\ncom a sua invasão de capas azuis, róseas, amarelas,\nem que o nome de Aristarco, inteiro e sonoro, oferecia-\nse ao pasmo venerador dos esfaimados de alfabeto dos\nconfins da pátria. Os lugares que os não procuravam\neram um belo dia surpreendidos pela enchente, gratuita,\nespontânea, irresistível! E não havia senão aceitar a\nfarinha daquela marca para o pão do espírito.\nPOMPÉIA, R. O Ateneu. São Paulo: Scipione, 2005.\nAo descrever o Ateneu e as atitudes de seu diretor, o\nnarrador revela um olhar sobre a inserção social do\ncolégio demarcado pela",
+      principal: "QUESTÃO 111\nUm dia, meu pai tomou-me pela mão, minha mãe\nbeijou-me a testa, molhando-me de lágrimas os cabelos\ne eu parti.\nDuas vezes fora visitar o Ateneu antes da minha\ninstalação.\nAteneu era o grande colégio da época. Afamado por\num sistema de nutrido reclame, mantido por um diretor\nque de tempos a tempos reformava o estabelecimento,\npintando-o jeitosamente de novidade, como os\nnegociantes que liquidam para recomeçar com artigos de\núltima remessa; o Ateneu desde muito tinha consolidado\ncrédito na preferência dos pais, sem levar em conta a\nsimpatia da meninada, a cercar de aclamações o bombo\nvistoso dos anúncios.\nO Dr. Aristarco Argolo de Ramos, da conhecida família\ndo Visconde de Ramos, do Norte, enchia o império com o\nseu renome de pedagogo. Eram boletins de propaganda\npelas províncias, conferências em diversos pontos da\ncidade, a pedidos, à substância, atochando a imprensa\ndos lugarejos, caixões, sobretudo, de livros elementares,\nfabricados às pressas com o ofegante e esbaforido\nconcurso de professores prudentemente anônimos,\ncaixões e mais caixões de volumes cartonados em\nLeipzig, inundando as escolas públicas de toda a parte\ncom a sua invasão de capas azuis, róseas, amarelas,\nem que o nome de Aristarco, inteiro e sonoro, oferecia-\nse ao pasmo venerador dos esfaimados de alfabeto dos\nconfins da pátria. Os lugares que os não procuravam\neram um belo dia surpreendidos pela enchente, gratuita,\nespontânea, irresistível! E não havia $\\sin$ão aceitar a\nfarinha daquela marca para o pão do espírito.\nPOMPÉIA, R. O Ateneu. São Paulo: Scipione, 2005.\nAo descrever o Ateneu e as atitudes de seu diretor, o\nnarrador revela um olhar sobre a inserção social do\ncolégio demarcado pela",
       subItens: []
     },
     options: [
@@ -435,7 +435,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Gêneros literários (romance)", "Contexto histórico-literário (Realismo/Naturalismo)"],
+    conteudo: ["Gêneros literários (romance)", "Contexto histórico-literário ($Realismo/Naturalismo$)"],
     imageNames: []
 }),
 
@@ -528,7 +528,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "QUESTÃO 116\nMáscara senufo, Mali. Madeira e fibra vegetal. Acervo do MAE/USP.\nAs formas plásticas nas produções africanas conduziram\nartistas modernos do início do século XX, como Pablo\nPicasso, a algumas proposições artísticas denominadas\nvanguardas. A máscara remete à",
+      principal: "QUESTÃO 116\nMáscara senufo, Mali. Madeira e fibra vegetal. Acervo do $MAE/USP$.\nAs formas plásticas nas produções africanas conduziram\nartistas modernos do início do século XX, como Pablo\nPicasso, a algumas proposições artísticas denominadas\nvanguardas. A máscara remete à",
       subItens: []
     },
     options: [
@@ -771,7 +771,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Variação linguística (formalidade/informalidade)", "Linguagem (recursos expressivos)"],
+    conteudo: ["Variação linguística ($formalidade/informalidade$)", "Linguagem (recursos expressivos)"],
     imageNames: []
 }),
 
@@ -813,7 +813,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Gêneros textuais (e-mail/carta formal)", "Comunicação empresarial"],
+    conteudo: ["Gêneros textuais (e-$mail/carta$ formal)", "Comunicação empresarial"],
     imageNames: []
 }),
 
@@ -876,7 +876,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Gêneros textuais (carta/letra de música)", "Leitura e interpretação de letra de música"],
+    conteudo: ["Gêneros textuais ($carta/letra$ de música)", "Leitura e interpretação de letra de música"],
     imageNames: []
 }),
 
@@ -1143,9 +1143,9 @@ createQuestion({
     options: [
       "2",
       "1",
-      "11/3",
-      "4/3",
-      "2/3"
+      "$11/3$",
+      "$4/3$",
+      "$2/3$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1557,15 +1557,15 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "QUESTÃO 165\nUm engenheiro projetou um automóvel cujos vidros\ndas portas dianteiras foram desenhados de forma que\nsuas bordas superiores fossem representadas pela curva\nde equação y = log (x), conforme a figura.\ny(m)\ny = log(x)\n1\n0\nn\nh\nx(m)\nA forma do vidro foi concebida de modo que o eixo\nx sempre divida ao meio a altura h do vidro e a base\ndo vidro seja paralela ao eixo x. Obedecendo a essas\ncondições, o engenheiro determinou uma expressão que\nfornece a altura h do vidro em função da medida n de sua\nbase, em metros.\nA expressão algébrica que determina a altura do vidro é",
+      principal: "QUESTÃO 165\nUm engenheiro projetou um automóvel cujos vidros\ndas portas dianteiras foram desenhados de forma que\nsuas bordas superiores fossem representadas pela curva\nde equação y = $\\log$ (x), conforme a figura.\ny(m)\ny = $\\log$(x)\n1\n0\nn\nh\nx(m)\nA forma do vidro foi concebida de modo que o eixo\nx sempre divida ao meio a altura h do vidro e a base\ndo vidro seja paralela ao eixo x. Obedecendo a essas\ncondições, o engenheiro determinou uma expressão que\nfornece a altura h do vidro em função da medida n de sua\nbase, em metros.\nA expressão algébrica que determina a altura do vidro é",
       subItens: []
     },
     options: [
-      "log( (n + √(n²+4))/2 ) - log( (n - √(n²+4))/2 )",
-      "log(1 + n/2) - log(1 - n/2)",
-      "log(1 + n/2) + log(1 - n/2)",
-      "log( (n + √(n²+4))/2 )",
-      "2 log( (n + √(n²+4))/2 )"
+      "$\\log$( (n + √(n²+4))/2 ) - $\\log$( (n - √(n²+4))/2 )",
+      "$\\log$(1 + $n/2$) - $\\log$(1 - $n/2$)",
+      "$\\log$(1 + $n/2$) + $\\log$(1 - $n/2$)",
+      "$\\log$( (n + √(n²+4))/2 )",
+      "2 $\\log$( (n + √(n²+4))/2 )"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1788,7 +1788,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "QUESTÃO 176\nSegundo o Instituto Brasileiro de Geografia e\nEstatística (IBGE), produtos sazonais são aqueles que\napresentam ciclos bem definidos de produção, consumo\ne preço. Resumidamente, existem épocas do ano em\nque a sua disponibilidade nos mercados varejistas ora\né escassa, com preços elevados, ora é abundante, com\npreços mais baixos, o que ocorre no mês de produção\nmáxima da safra.\nA partir de uma série histórica, observou-se que o preço\nP, em reais, do quilograma de um certo produto sazonal\npode ser descrito pela função P(x) = 8 + 5cos(πx/6),\nonde x representa o mês do ano, sendo x = 1 associado\nao mês de janeiro, x = 2 ao mês de fevereiro, e assim\nsucessivamente, até x = 12 associado ao mês de\ndezembro.\nDisponível em: www.ibge.gov.br. Acesso em: 2 ago. 2012 (adaptado).\nNa safra, o mês de produção máxima desse produto é",
+      principal: "QUESTÃO 176\nSegundo o Instituto Brasileiro de Geografia e\nEstatística (IBGE), produtos sazonais são aqueles que\napresentam ciclos bem definidos de produção, consumo\ne preço. Resumidamente, existem épocas do ano em\nque a sua disponibilidade nos mercados varejistas ora\né escassa, com preços elevados, ora é abundante, com\npreços mais baixos, o que ocorre no mês de produção\nmáxima da safra.\nA partir de uma série histórica, observou-se que o preço\nP, em reais, do quilograma de um certo produto sazonal\npode ser descrito pela função P(x) = 8 + 5cos(π$x/6$),\nonde x representa o mês do ano, sendo x = 1 associado\nao mês de janeiro, x = 2 ao mês de fevereiro, e assim\nsucessivamente, até x = 12 associado ao mês de\ndezembro.\nDisponível em: www.ibge.gov.br. Acesso em: 2 ago. 2012 (adaptado).\nNa safra, o mês de produção máxima desse produto é",
       subItens: []
     },
     options: [
@@ -1809,7 +1809,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "QUESTÃO 177\nNo contexto da matemática recreativa, utilizando\ndiversos materiais didáticos para motivar seus alunos,\numa professora organizou um jogo com um tipo de\nbaralho modificado. No início do jogo, vira-se uma carta\ndo baralho na mesa e cada jogador recebe em mãos\nnove cartas. Deseja-se formar pares de cartas, sendo\na primeira carta a da mesa e a segunda, uma carta na\nmão do jogador, que tenha um valor equivalente àquele\ndescrito na carta da mesa. O objetivo do jogo é verificar\nqual jogador consegue o maior número de pares. Iniciado\no jogo, a carta virada na mesa e as cartas da mão de um\njogador são como no esquema:\n6\n8\n68\n8\nCarta da mesa\n75% 3.4 34% 0.75 4.3\n7,5\n43\n6,8\n3/4\n34\nCartas da mão\nSegundo as regras do jogo, quantas cartas da mão desse\njogador podem formar um par com a carta da mesa?",
+      principal: "QUESTÃO 177\nNo contexto da matemática recreativa, utilizando\ndiversos materiais didáticos para motivar seus alunos,\numa professora organizou um jogo com um tipo de\nbaralho modificado. No início do jogo, vira-se uma carta\ndo baralho na mesa e cada jogador recebe em mãos\nnove cartas. Deseja-se formar pares de cartas, sendo\na primeira carta a da mesa e a segunda, uma carta na\nmão do jogador, que tenha um valor equivalente àquele\ndescrito na carta da mesa. O objetivo do jogo é verificar\nqual jogador consegue o maior número de pares. Iniciado\no jogo, a carta virada na mesa e as cartas da mão de um\njogador são como no esquema:\n6\n8\n68\n8\nCarta da mesa\n75% 3.4 34% 0.75 4.3\n7,5\n43\n6,8\n$3/4$\n34\nCartas da mão\nSegundo as regras do jogo, quantas cartas da mão desse\njogador podem formar um par com a carta da mesa?",
       subItens: []
     },
     options: [
@@ -1830,7 +1830,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "QUESTÃO 178\nUma pesquisa de mercado foi realizada entre os\nconsumidores das classes sociais A, B, C e D que\ncostumam participar de promoções tipo sorteio ou\nconcurso. Os dados comparativos, expressos no\ngráfico, revelam a participação desses consumidores\nem cinco categorias: via Correios (juntando\nembalagens ou recortando códigos de barra), via\ninternet (cadastrando-se no site da empresa/marca\npromotora), via mídias sociais (redes sociais), via SMS\n(mensagem por celular) ou via rádio/TV.\nParticipação em promoções do tipo sorteio ou concurso em uma região\nPercentual\n45\n40\n40\n-37-\n34\n35\n35\n-33\n28\n30\n24\n25\n20\n20\n15\n10\n5\n0\nA/B\nC/D\n30 28\nCorreios\nInternet\nMídias Sociais\nSMS\nRádio/TV\nDe acordo com o resultado da pesquisa, para atingir o\nmaior número de consumidores das classes A/B e C/D, a\nempresa deve realizar a promoção, respectivamente, via",
+      principal: "QUESTÃO 178\nUma pesquisa de mercado foi realizada entre os\nconsumidores das classes sociais A, B, C e D que\ncostumam participar de promoções tipo sorteio ou\nconcurso. Os dados comparativos, expressos no\ngráfico, revelam a participação desses consumidores\nem cinco categorias: via Correios (juntando\nembalagens ou recortando códigos de barra), via\ninternet (cadastrando-se no site da $empresa/marca$\npromotora), via mídias sociais (redes sociais), via SMS\n(mensagem por celular) ou via rá$dio/TV$.\nParticipação em promoções do tipo sorteio ou concurso em uma região\nPercentual\n45\n40\n40\n-37-\n34\n35\n35\n-33\n28\n30\n24\n25\n20\n20\n15\n10\n5\n0\n$A/B$\n$C/D$\n30 28\nCorreios\nInternet\nMídias Sociais\nSMS\nRá$dio/TV$\nDe acordo com o resultado da pesquisa, para atingir o\nmaior número de consumidores das classes $A/B$ e $C/D$, a\nempresa deve realizar a promoção, respectivamente, via",
       subItens: []
     },
     options: [
@@ -1838,7 +1838,7 @@ createQuestion({
       "internet e Correios.",
       "internet e internet.",
       "internet e mídias sociais.",
-      "rádio/TV e rádio/TV."
+      "rá$dio/TV$ e rá$dio/TV$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1876,11 +1876,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/100",
-      "19/100",
-      "20/100",
-      "21/100",
-      "80/100"
+      "$1/100$",
+      "$19/100$",
+      "$20/100$",
+      "$21/100$",
+      "$80/100$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],

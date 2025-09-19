@@ -129,7 +129,7 @@ createQuestion({
     university: "ufam",
     year: 2015,
     text: {
-      principal: "Para dizerem milho dizem mio\nPara melhor dizem mió\nPara pior pió\nPara telha dizem teia\nPara telhado dizem teiado\nE vão fazendo telhados\nO poema acima é \"Vício na fala\", do escritor modernista Oswald de Andrade. Nele, observa-se que Oswald trabalha com a seguinte variação linguística:",
+      principal: "Para dizerem milho dizem mio\nPara melhor dizem mió\nPara pior $\\pi$ó\nPara telha dizem teia\nPara telhado dizem teiado\nE vão fazendo telhados\nO poema acima é \"Vício na fala\", do escritor modernista Oswald de Andrade. Nele, observa-se que Oswald trabalha com a seguinte variação linguística:",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "ufam",
     year: 2015,
     text: {
-      principal: "Leia os textos abaixo, expressivos dos gêneros literários:\nI. Pálida à luz da lâmpada sombria,\nSobre o leito de flores reclinada,\nComo a lua por noite embalsamada,\nEntre as nuvens do amor ela dormia!\n(AZEVEDO, Álvares. “Soneto”.)\nII. É fama então que a multidão formosa\nDas damas, que Diogo pretendiam,\nVendo avançar-se a nau na via undosa,\nE que a esperança de o alcançar pediam,\nEntre as ondas, com ânsia furiosa,\nNadando o esposo pelo mar seguiam,\nE nem tanta água que flutua vaga\nO ardor que o peito tem, banhando apaga.\n(DURÃO, José de Santa Rita. Caramuru.)\nIII. Sobre ela estão conversando agora mesmo\nFabrício e Leopoldo. Terminam sem dúvida a\nsua prática; não importa. Vamos ouvi-los.\n– Está na verdade encantadora!... repetiu\npela quarta vez aquele.\n– Danças com ela? perguntou Leopoldo.\n– Não, já estava engajada para doze\nquadrilhas.\n– Oh! lá vai ter com ela o nosso Augusto.\nVamos apreciá-lo.\n(MACEDO, Joaquim Manuel de. A Moreninha.)\nIV. Cena XI: Inácio José, Francisco Antônio,\nManuel André e Sampaio entregam seus\nrequerimentos.\nJuiz – Sr. Escrivão, faça o favor de ler.\nEscrivão, lendo – Diz Inácio José, natural\ndesta freguesia e casado com Josefa\nJoaquina, sua mulher na face da Igreja, que\nprecisa que Vossa Senhoria mande a\nGregório degradado para fora da terra, pois\nteve o atrevimento de dar uma embigada em\nsua mulher, na encruzilhada do Pau-Grande,\nque quase a fez abortar, da qual embigada\nfez cair a dita mulher de pernas para o ar.\nPortanto pede a Vossa Senhoria mande o dito\nGregório degradado para Angola. E. R. M.\nJuiz – É verdade, Sr. Gregório, que o senhor\ndeu uma embigada na senhora?\nGregório – É mentira, Sr. Juiz de Paz, em\nnão dou embigadas em bruxas.\n(PENA, Martins. O Juiz de Paz na roça.)\nAssinale a afirmativa que contém ERRO em relação aos excertos acima:",
+      principal: "Leia os textos abaixo, expressivos dos gêneros literários:\nI. Pálida à luz da lâmpada sombria,\nSobre o leito de flores reclinada,\nComo a lua por noite embalsamada,\nEntre as nuvens do amor ela dormia!\n(AZEVEDO, Álvares. “Soneto”.)\nII. É fama então que a multidão formosa\nDas damas, que Diogo pretendiam,\nVendo avançar-se a nau na via undosa,\nE que a esperança de o alcançar pediam,\nEntre as ondas, com ânsia furiosa,\nNadando o esposo pelo mar seguiam,\nE nem tanta água que flutua vaga\nO ardor que o peito tem, banhando apaga.\n(DURÃO, José de Santa Rita. Caramuru.)\nIII. Sobre ela estão conversando agora mesmo\nFabrício e Leopoldo. Terminam sem dúvida a\nsua prática; não importa. Vamos ouvi-los.\n– Está na verdade encantadora!... repetiu\npela quarta vez aquele.\n– Danças com ela? perguntou Leopoldo.\n– Não, já estava engajada para doze\nquadrilhas.\n– Oh! lá vai ter com ela o nosso Augusto.\nVamos apreciá-lo.\n(MACEDO, Joaquim Manuel de. A Moreninha.)\nIV. Cena $\\xi$: Inácio José, Francisco Antônio,\nManuel André e Sampaio entregam seus\nrequerimentos.\nJuiz – Sr. Escrivão, faça o favor de ler.\nEscrivão, lendo – Diz Inácio José, natural\ndesta freguesia e casado com Josefa\nJoaquina, sua mulher na face da Igreja, que\nprecisa que Vossa Senhoria mande a\nGregório degradado para fora da terra, pois\nteve o atrevimento de dar uma embigada em\nsua mulher, na encruzilhada do Pau-Grande,\nque quase a fez abortar, da qual embigada\nfez cair a dita mulher de pernas para o ar.\nPortanto pede a Vossa Senhoria mande o dito\nGregório degradado para Angola. E. R. M.\nJuiz – É verdade, Sr. Gregório, que o senhor\ndeu uma embigada na senhora?\nGregório – É mentira, Sr. Juiz de Paz, em\nnão dou embigadas em bruxas.\n(PENA, Martins. O Juiz de Paz na roça.)\nAssinale a afirmativa que contém ERRO em relação aos excertos acima:",
       subItens: []
     },
     options: [
@@ -570,7 +570,7 @@ createQuestion({
     university: "ufam",
     year: 2015,
     text: {
-      principal: "A região Amazônica possui uma precipitação média anual de aproximadamente 2.300mm/ano, destacando-se três centros de precipitações abundantes. Na região localizada a noroeste (fronteira entre o Brasil, Venezuela e Colômbia), próxima às encostas dos Andes, observa-se o maior total pluviométrico, cerca de 3.500 mm/ano. Este elevado valor de precipitação nesta região deve-se principalmente à (ao):",
+      principal: "A região Amazônica possui uma precipitação média anual de aproximadamente 2.$300mm/ano$, destacando-se três centros de precipitações abundantes. Na região localizada a noroeste (fronteira entre o Brasil, Venezuela e Colômbia), próxima às encostas dos Andes, observa-se o maior total pluviométrico, cerca de 3.500 $mm/ano$. Este elevado valor de precipitação nesta região deve-se principalmente à (ao):",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "ufam",
     year: 2015,
     text: {
-      principal: "No dia 26/11/2013, conforme noticiado no Jornal A Crítica (www.acritica.com.br), uma estudante de 17 anos faleceu em Parintins após consumir tucumã que poderia estar contaminada por um produto normalmente conhecido como carbureto (carbeto de cálcio). Posteriormente, o fato da morte foi atribuído, provavelmente, à falta de higiene no manuseio do fruto. O carbureto é um produto químico muito utilizado para acelerar o processo de maturação de frutos. A técnica de amadurecimento consiste em colocar o carbureto umedecido em água em volta dos frutos, cobrindo-os com lona plástica. Na verdade o amadurecimento é provocado pelo produto da reação do carbureto com água, que gera um gás A de odor característico desagradável que é também comumente usado como combustível em maçaricos, uma vez que sua chama é extremamente quente. Para se obter uma concentração deste gás A suficiente para induzir a maturação de frutas é necessário uma quantidade mínima de carbureto de pelo menos 2,66 g. Além do gás A liberado, um segundo produto que permanece em solução aquosa é também formado no processo reacional, cuja presença de um indicador ácido-base como fenolftaleína faz a solução apresentar uma coloração rosa/avermelhada. Caso este segundo produto seja submetido a um fluxo de CO2 (por exemplo, soprando com canudo plástico não mais do que 5 minutos), há formação de um precipitado branco. Caso o tempo de borbulhamento seja superior a 5 minutos, ocorrerá progressivamente a diminuição do precipitado branco e uma mudança na coloração da solução aquosa de rosa/avermelhada para incolor.\nCom base no texto acima, responda as questões de 35 a 40.\nQual a fórmula química do carbureto?",
+      principal: "No dia 26/11/2013, conforme noticiado no Jornal A Crítica (www.acritica.com.br), uma estudante de 17 anos faleceu em Parintins após consumir tucumã que poderia estar contaminada por um produto normalmente conhecido como carbureto (carbeto de cálcio). Posteriormente, o fato da morte foi atribuído, provavelmente, à falta de higiene no manuseio do fruto. O carbureto é um produto químico muito utilizado para acelerar o processo de maturação de frutos. A técnica de amadurecimento consiste em colocar o carbureto umedecido em água em volta dos frutos, cobrindo-os com lona plástica. Na verdade o amadurecimento é provocado pelo produto da reação do carbureto com água, que gera um gás A de odor característico desagradável que é também comumente usado como combustível em maçaricos, uma vez que sua chama é extremamente quente. Para se obter uma concentração deste gás A suficiente para induzir a maturação de frutas é necessário uma quantidade mínima de carbureto de pelo menos 2,66 g. Além do gás A liberado, um segundo produto que permanece em solução aquosa é também formado no processo reacional, cuja presença de um indicador ácido-base como fenolftaleína faz a solução apresentar uma coloração $rosa/avermelhada$. Caso este segundo produto seja submetido a um fluxo de CO2 (por exemplo, soprando com canudo plástico não mais do que 5 minutos), há formação de um precipitado branco. Caso o tempo de borbulhamento seja superior a 5 minutos, ocorrerá progressivamente a diminuição do precipitado branco e uma mudança na coloração da solução aquosa de $rosa/avermelhada$ para incolor.\nCom base no texto acima, responda as questões de 35 a 40.\nQual a fórmula química do carbureto?",
       subItens: []
     },
     options: [
@@ -830,7 +830,7 @@ createQuestion({
       "Mais precipitado branco é formado; solução ácida; presença de CO3 2-",
       "O precipitado branco é dissolvido; solução básica, presença de HCO3 em solução",
       "Mais precipitado branco é formado; solução básica; presença de HCO3-",
-      "Nada acontece e a solução permanece rosa/avermelhada"
+      "Nada acontece e a solução permanece $rosa/avermelhada$"
     ],
     correctAnswer: 0,
     materia: ["Química"],
@@ -843,7 +843,7 @@ createQuestion({
     university: "ufam",
     year: 2015,
     text: {
-      principal: "Nas questões em que for necessário o uso da aceleração da gravidade, adote g = 10m/s².\nQuando necessário utilize:\nsen 30° = cos 60° = 1/2\nsen 60° = cos 30° = √3/2\nsen 45° = cos 45° = √2/2\nNo dia 30 de setembro deste ano, uma tempestade que durou aproximadamente 80 minutos atingiu a cidade de Manaus. Com rajadas de vento que atingiram velocidades de até 92 km/h, esta tempestade trouxe alagação, medo e destruição. O total de precipitação acumulada foi de 114 milímetros de chuva, superando em 56% a média esperada para o mês de setembro. Sabendo que cada milímetro de precipitação corresponde a 1 litro de água acumulado em um metro quadrado de superfície, podemos afirmar que, em termos de ordem de grandeza, esta tempestade acumulou, para cada quilômetro quadrado de superfície, um volume de água da ordem de:",
+      principal: "Nas questões em que for necessário o uso da aceleração da gravidade, adote g = $10m/s$².\nQuando necessário utilize:\n$\\sin$ 30° = $\\cos$ 60° = $1/2$\n$\\sin$ 60° = $\\cos$ 30° = √$3/2$\n$\\sin$ 45° = $\\cos$ 45° = √$2/2$\nNo dia 30 de setembro deste ano, uma tempestade que durou aproximadamente 80 minutos atingiu a cidade de Manaus. Com rajadas de vento que atingiram velocidades de até 92 $km/h$, esta tempestade trouxe alagação, medo e destruição. O total de precipitação acumulada foi de 114 milímetros de chuva, superando em 56% a média esperada para o mês de setembro. Sabendo que cada milímetro de precipitação corresponde a 1 litro de água acumulado em um metro quadrado de superfície, podemos afirmar que, em termos de ordem de grandeza, esta tempestade acumulou, para cada quilômetro quadrado de superfície, um volume de água da ordem de:",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "ufam",
     year: 2015,
     text: {
-      principal: "A Ponte Rio Negro, ligando a cidade de Manaus ao município de Iranduba, é a segunda maior ponte fluvial no mundo, superada apenas pela ponte sobre o rio Orinoco, na Venezuela. Inaugurada em 24 de outubro de 2011, é a maior ponte fluvial e estaiada do Brasil, com 3,6 quilômetros de extensão. A travessia do rio Negro por meio da ponte trouxe mais mobilidade aos moradores da capital e do interior. Antes, a travessia do rio Negro era feita com balsa e durava pelo menos 40 minutos, sem contar o tempo de espera na fila. Se a velocidade máxima permitida na ponte é de 60km/h, e admitindo que um carro atravesse a ponte com a velocidade máxima permitida, o tempo gasto para atravessar os 3,6 quilômetros de extensão é de:",
+      principal: "A Ponte Rio Negro, ligando a cidade de Manaus ao município de Iranduba, é a segunda maior ponte fluvial no mundo, superada apenas pela ponte sobre o rio Orinoco, na Venezuela. Inaugurada em 24 de outubro de 2011, é a maior ponte fluvial e estaiada do Brasil, com 3,6 quilômetros de extensão. A travessia do rio Negro por meio da ponte trouxe mais mobilidade aos moradores da capital e do interior. Antes, a travessia do rio Negro era feita com balsa e durava pelo menos 40 minutos, sem contar o tempo de espera na fila. Se a velocidade máxima permitida na ponte é de $60km/h$, e admitindo que um carro atravesse a ponte com a velocidade máxima permitida, o tempo gasto para atravessar os 3,6 quilômetros de extensão é de:",
       subItens: []
     },
     options: [
@@ -885,7 +885,7 @@ createQuestion({
     university: "ufam",
     year: 2015,
     text: {
-      principal: "Uma bola de futebol com 450g de massa, inicialmente em repouso, é chutada obliquamente para cima com velocidade inicial de 20m/s. A bola atinge altura máxima de 10m e atinge uma parede vertical 25 após o chute. Desprezando a resistência do ar, podemos afirmar que a distância do ponto de lançamento da bola até a parede é aproximadamente igual a:",
+      principal: "Uma bola de futebol com 450g de massa, inicialmente em repouso, é chutada obliquamente para cima com velocidade inicial de $20m/s$. A bola atinge altura máxima de 10m e atinge uma parede vertical 25 após o chute. Desprezando a resistência do ar, podemos afirmar que a distância do ponto de lançamento da bola até a parede é aproximadamente igual a:",
       subItens: []
     },
     options: [
@@ -911,10 +911,10 @@ createQuestion({
     },
     options: [
       "1",
-      "1/3",
-      "1/2",
-      "1/4",
-      "1/9"
+      "$1/3$",
+      "$1/2$",
+      "$1/4$",
+      "$1/9$"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -948,15 +948,15 @@ createQuestion({
     university: "ufam",
     year: 2015,
     text: {
-      principal: "Querendo determinar a densidade de um líquido desconhecido e possuindo apenas um dinamômetro (ou balança de mola), certo estudante realizou o seguinte experimento: colocou o objeto no dinamômetro e a leitura foi de 20 N com o objeto suspenso no ar, 10 N quando totalmente imerso na água e 13 N quando totalmente imerso no líquido de densidade desconhecida. Consultando seu livro de Física, anotou o valor da densidade da água que vale 1,0g/cm³. Fez os cálculos e encontrou para a densidade do líquido desconhecido o valor de:",
+      principal: "Querendo determinar a densidade de um líquido desconhecido e possuindo apenas um dinamômetro (ou balança de mola), certo estudante realizou o seguinte experimento: colocou o objeto no dinamômetro e a leitura foi de 20 N com o objeto suspenso no ar, 10 N quando totalmente imerso na água e 13 N quando totalmente imerso no líquido de densidade desconhecida. Consultando seu livro de Física, anotou o valor da densidade da água que vale 1,$0g/cm$³. Fez os cálculos e encontrou para a densidade do líquido desconhecido o valor de:",
       subItens: []
     },
     options: [
-      "1,3 g/cm³",
-      "0,9 g/cm³",
-      "0,8g/cm³",
-      "0,7 g/cm³",
-      "0,6g/cm³"
+      "1,3 $g/cm$³",
+      "0,9 $g/cm$³",
+      "0,$8g/cm$³",
+      "0,7 $g/cm$³",
+      "0,$6g/cm$³"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -973,11 +973,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "6√3/7 u.a.",
-      "6√3/5 u.a.",
-      "6√2/7 u.a.",
-      "6√2/5 u.a.",
-      "6√2/9 u.a."
+      "6√$3/7$ u.a.",
+      "6√$3/5$ u.a.",
+      "6√$2/7$ u.a.",
+      "6√$2/5$ u.a.",
+      "6√$2/9$ u.a."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1053,12 +1053,12 @@ createQuestion({
     university: "ufam",
     year: 2015,
     text: {
-      principal: "Num triângulo ABC, o ângulo A é reto. A altura h relativa ao lado BC divide a hipotenusa em dois segmentos m e n (m > n). Sabendo que o cateto b é o triplo do cateto c, então podemos afirmar que m/n é:",
+      principal: "Num triângulo ABC, o ângulo A é reto. A altura h relativa ao lado BC divide a hipotenusa em dois segmentos m e n (m > n). Sabendo que o cateto b é o triplo do cateto c, então podemos afirmar que $m/n$ é:",
       subItens: []
     },
     options: [
-      "1/2",
-      "1/3",
+      "$1/2$",
+      "$1/3$",
       "9",
       "3",
       "9"
@@ -1116,7 +1116,7 @@ createQuestion({
     university: "ufam",
     year: 2015,
     text: {
-      principal: "O crescimento de uma certa cultura de bactérias obedece à função N(t) = 10×2^kt e teve inicio para t = 0, onde N(t) representa o número de bactérias no instante t em horas e k constante. Decorridas 5 horas foi observado que a quantidade de bactérias era de 320. A quantidade de bactérias em 12 horas depois que se iniciou a produção é de:",
+      principal: "O crescimento de uma certa cultura de bactérias obedece à função N(t) = 10×$2^kt$ e teve inicio para t = 0, onde N(t) representa o número de bactérias no instante t em horas e k constante. Decorridas 5 horas foi observado que a quantidade de bactérias era de 320. A quantidade de bactérias em 12 horas depois que se iniciou a produção é de:",
       subItens: []
     },
     options: [

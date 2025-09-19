@@ -45,7 +45,7 @@ createQuestion({
     university: "ita",
     year: 2025,
     text: {
-      principal: "O termo independente da expansão de (x + 1/x)⁶ (x - 2/x)⁵ é",
+      principal: "O termo independente da expansão de (x + $1/x$)⁶ (x - $2/x$)⁵ é",
       subItens: []
     },
     options: [
@@ -113,8 +113,8 @@ createQuestion({
     },
     options: [
       "(6, ∞).",
-      "(1/2, ∞) \\{6}.",
-      "(3/2, ∞) \\{6}.",
+      "($1/2$, ∞) \\{6}.",
+      "($3/2$, ∞) \\{6}.",
       "R\\{6}.",
       "R."
     ],
@@ -133,8 +133,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/3.",
-      "1/2.",
+      "$1/3$.",
+      "$1/2$.",
       "1.",
       "2.",
       "3."
@@ -150,7 +150,7 @@ createQuestion({
     university: "ita",
     year: 2025,
     text: {
-      principal: "Considere a função f(x) = √(2sen(2x) + 2sen(x) - 2cos(x) - 1) / (8(cos(2x) + 1)). Seja I = (a, b) o intervalo de maior comprimento contido em [-π,2π] tal que f(x) está definida para todo x ∈ I. O valor de a + b é",
+      principal: "Considere a função f(x) = √(2sen(2x) + 2sen(x) - 2cos(x) - 1) / (8($\\cos$(2x) + 1)). Seja I = (a, b) o intervalo de maior comprimento contido em [-π,2π] tal que f(x) está definida para todo x ∈ I. O valor de a + b é",
       subItens: []
     },
     options: [
@@ -192,15 +192,15 @@ createQuestion({
     university: "ita",
     year: 2025,
     text: {
-      principal: "Seja H uma hipérbole no plano cartesiano cujos focos são comuns aos focos da elipse E: x²/4 + y² = 1. Seja P um ponto de intersecção de E e H no primeiro quadrante e O a origem do sistema cartesiano. Sabendo que OP forma um ângulo θ com o eixo horizontal Ox, com tan(θ) = √3/6, a excentricidade de H é",
+      principal: "Seja H uma hipérbole no plano cartesiano cujos focos são comuns aos focos da elipse E: x²/4 + y² = 1. Seja P um ponto de intersecção de E e H no primeiro quadrante e O a origem do sistema cartesiano. Sabendo que OP forma um ângulo θ com o eixo horizontal Ox, com tan(θ) = √$3/6$, a excentricidade de H é",
       subItens: []
     },
     options: [
-      "2√3/3.",
-      "√6/2.",
-      "3√3/4.",
-      "2√6/3.",
-      "3√3/2."
+      "2√$3/3$.",
+      "√$6/2$.",
+      "3√$3/4$.",
+      "2√$6/3$.",
+      "3√$3/2$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -234,7 +234,7 @@ createQuestion({
     university: "ita",
     year: 2025,
     text: {
-      principal: "Considere uma partícula cuja posição é dada pela função horária x(t) = √(D² + (Vt− D)²), em que V e D são constantes positivas, com unidades adequadas. Seja v(t) a velocidade média do móvel entre o instante inicial t₀ = 0 s e um instante arbitrário t. Assinale a alternativa que contém a distância percorrida pela partícula desde o início do movimento até o instante no qual v(t) = 0 m/s.",
+      principal: "Considere uma partícula cuja posição é dada pela função horária x(t) = √(D² + (Vt− D)²), em que V e D são constantes positivas, com unidades adequadas. Seja v(t) a velocidade média do móvel entre o instante inicial t₀ = 0 s e um instante arbitrário t. Assinale a alternativa que contém a distância percorrida pela partícula desde o início do movimento até o instante no qual v(t) = 0 $m/s$.",
       subItens: []
     },
     options: [
@@ -322,8 +322,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "L(1 - √2/2)",
-      "L(1 - √2/4)",
+      "L(1 - √$2/2$)",
+      "L(1 - √$2/4$)",
       "½L",
       "⅜L",
       "¾L"
@@ -381,7 +381,7 @@ createQuestion({
     university: "ita",
     year: 2025,
     text: {
-      principal: "Considere um tanque cúbico metálico de lado L + a (L ≫ a), aberto no topo, preenchido com água e óleo. O tanque contém, no seu interior, um cubo metálico de lado L, com 5 de seus lados totalmente submersos e o outro emerso na superfície, centralizado com a face aberta do tanque. Uma diferença de potencial de V é estabelecida entre o cubo e o tanque, de forma que o sistema atue como um capacitor. A vista frontal do sistema encontra-se ilustrada na figura ao lado. Sabe-se que o óleo possui uma densidade de ρ₀ = 0,90 g/cm³ e constante dielétrica κ₀, que a água tem uma densidade igual a ρ_a = 1,0 g/cm³ e constante dielétrica κ_a e que a densidade do cubo é ρ_c = 0,92 g/cm³.\nDesconsiderando efeitos de borda, assinale a alternativa que fornece a capacitância do sistema.",
+      principal: "Considere um tanque cúbico metálico de lado L + a (L ≫ a), aberto no topo, preenchido com água e óleo. O tanque contém, no seu interior, um cubo metálico de lado L, com 5 de seus lados totalmente submersos e o outro emerso na superfície, centralizado com a face aberta do tanque. Uma diferença de potencial de V é estabelecida entre o cubo e o tanque, de forma que o sistema atue como um capacitor. A vista frontal do sistema encontra-se ilustrada na figura ao lado. Sabe-se que o óleo possui uma densidade de ρ₀ = 0,90 $g/cm$³ e constante dielétrica κ₀, que a água tem uma densidade igual a ρ_a = 1,0 $g/cm$³ e constante dielétrica κ_a e que a densidade do cubo é ρ_c = 0,92 $g/cm$³.\nDesconsiderando efeitos de borda, assinale a alternativa que fornece a capacitância do sistema.",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "ita",
     year: 2025,
     text: {
-      principal: "Um campo magnético diminui ao longo do tempo a uma taxa fixa de (20i – 10j+12k) T/s. Considere uma circunferência feita com material cuja resistência por unidade de comprimento vale 3 Ω/m e que passa pela origem e pelos pontos (4 m, 0 m, 0 m) e (2 m, 2 m, 0 m).\nAssinale a alternativa que corresponde ao valor da corrente que flui pela circunferência.",
+      principal: "Um campo magnético diminui ao longo do tempo a uma taxa fixa de (20i – 10j+12k) $T/s$. Considere uma circunferência feita com material cuja resistência por unidade de comprimento vale 3 Ω/m e que passa pela origem e pelos pontos (4 m, 0 m, 0 m) e (2 m, 2 m, 0 m).\nAssinale a alternativa que corresponde ao valor da corrente que flui pela circunferência.",
       subItens: []
     },
     options: [
@@ -595,11 +595,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "K_A = e⁻⁰,⁰⁰²K_B.",
-      "K_A = e⁻²K_B.",
-      "K_A = e⁻²⁰K_B.",
-      "K_A = e⁺⁰,⁰⁰²K_B.",
-      "K_A = e⁺²⁰K_B."
+      "$K_A$ = e⁻⁰,⁰⁰²$K_B$.",
+      "$K_A$ = e⁻²$K_B$.",
+      "$K_A$ = e⁻²⁰$K_B$.",
+      "$K_A$ = e⁺⁰,⁰⁰²$K_B$.",
+      "$K_A$ = e⁺²⁰$K_B$."
     ],
     correctAnswer: 1,
     materia: ["Química"],
@@ -616,11 +616,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/10 e 9/10",
-      "2/10 e 8/10",
-      "3/10 e 7/10",
-      "4/10 e 6/10",
-      "5/10 e 5/10"
+      "$1/10$ e $9/10$",
+      "$2/10$ e $8/10$",
+      "$3/10$ e $7/10$",
+      "$4/10$ e $6/10$",
+      "$5/10$ e $5/10$"
     ],
     correctAnswer: 0,
     materia: ["Química"],

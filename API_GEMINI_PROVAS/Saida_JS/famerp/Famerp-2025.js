@@ -444,7 +444,7 @@ createQuestion({
     university: "famerp",
     year: 2025,
     text: {
-      principal: "Analise o relato escrito por um monge no século XI.\n\n[...] a fome começou a alastrar-se por toda a superfície da Terra, e chegou-se a temer o quase total desaparecimento do gênero humano. As condições atmosféricas, com efeito, a tal ponto iam contra o curso normal das estações que o tempo nunca se mostrava propício às semeaduras e, sobretudo por causa das inundações, jamais se apresentava favorável às colheitas. Parecia que os elementos estavam lutando entre si, mas não havia dúvidas de que se punia assim o orgulho da humanidade.\n\n(Raoul Glaber. Histoires. Apud: Georges Duby. A Europa na Idade Média, 1988. Adaptado.)\n\nO monge atribui a temporada de fome ocorrida naquele período",
+      principal: "Analise o relato escrito por um monge no século $\\xi$.\n\n[...] a fome começou a alastrar-se por toda a superfície da Terra, e chegou-se a temer o quase total desaparecimento do gênero humano. As condições atmosféricas, com efeito, a tal ponto iam contra o curso normal das estações que o tempo nunca se mostrava propício às semeaduras e, sobretudo por causa das inundações, jamais se apresentava favorável às colheitas. Parecia que os elementos estavam lutando entre si, mas não havia dúvidas de que se punia assim o orgulho da humanidade.\n\n(Raoul Glaber. Histoires. Apud: Georges Duby. A Europa na Idade Média, 1988. Adaptado.)\n\nO monge atribui a temporada de fome ocorrida naquele período",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "famerp",
     year: 2025,
     text: {
-      principal: "Em um experimento de química, dois líquidos, 1 e 2, foram adicionados a um tubo de ensaio, conforme representado na figura.\n\n(Diagrama de um tubo de ensaio com dois líquidos imiscíveis, Líquido 1 acima de Líquido 2, indicando que Líquido 2 é mais denso.)\n\nNa tabela são apresentadas algumas propriedades de substâncias que são líquidas em temperatura ambiente.\n\n(Tabela com Substância, Fórmula Estrutural, Densidade (g/cm³): Metanol (0,79), Água (1,00), Tetracloreto de carbono (1,59), Pentano (0,62).)\n\nOs líquidos 1 e 2 são, respectivamente,",
+      principal: "Em um experimento de química, dois líquidos, 1 e 2, foram adicionados a um tubo de ensaio, conforme representado na figura.\n\n(Diagrama de um tubo de ensaio com dois líquidos imiscíveis, Líquido 1 acima de Líquido 2, indicando que Líquido 2 é mais denso.)\n\nNa tabela são apresentadas algumas propriedades de substâncias que são líquidas em temperatura ambiente.\n\n(Tabela com Substância, Fórmula Estrutural, Densidade ($g/cm$³): Metanol (0,79), Água (1,00), Tetracloreto de carbono (1,59), Pentano (0,62).)\n\nOs líquidos 1 e 2 são, respectivamente,",
       subItens: []
     },
     options: [
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "famerp",
     year: 2025,
     text: {
-      principal: "Em uma aula de química, 5 grupos de alunos realizaram um experimento que consistiu em reagir 1 g de ferro com 150 mL de solução de ácido clorídrico (HCl). Para o experimento foi empregado aço, que é uma liga do ferro. Essa reação ocorre de acordo com a equação química:\nFe (s) + 2HCl (aq) → FeCl2 (aq) + H2 (g)\n\nOs materiais disponibilizados para essa reação estão representados no quadro.\n\n(Quadro mostrando Lâminas de aço e Palha de aço como materiais, e Solução de HCl como reagente.)\n\nNa tabela são apresentadas as condições dos experimentos realizados pelos 5 grupos de alunos.\n\n(Tabela com Grupo, Amostra de ferro, Concentração da solução de HCl e Temperatura: Grupo 1 (Lâminas de aço, 6 mol/L, 30 °C), Grupo 2 (Lâminas de aço, 1 mol/L, 50 °C), Grupo 3 (Lâminas de aço, 0,5 mol/L, 40 °C), Grupo 4 (Palha de aço, 6 mol/L, 50 °C), Grupo 5 (Palha de aço, 1 mol/L, 30 °C).)\n\nO grupo cujo experimento se processou com maior rapidez é o de número",
+      principal: "Em uma aula de química, 5 grupos de alunos realizaram um experimento que consistiu em reagir 1 g de ferro com 150 mL de solução de ácido clorídrico (HCl). Para o experimento foi empregado aço, que é uma liga do ferro. Essa reação ocorre de acordo com a equação química:\nFe (s) + 2HCl (aq) → FeCl2 (aq) + H2 (g)\n\nOs materiais disponibilizados para essa reação estão representados no quadro.\n\n(Quadro mostrando Lâminas de aço e Palha de aço como materiais, e Solução de HCl como reagente.)\n\nNa tabela são apresentadas as condições dos experimentos realizados pelos 5 grupos de alunos.\n\n(Tabela com Grupo, Amostra de ferro, Concentração da solução de HCl e Temperatura: Grupo 1 (Lâminas de aço, 6 $mol/L$, 30 °C), Grupo 2 (Lâminas de aço, 1 $mol/L$, 50 °C), Grupo 3 (Lâminas de aço, 0,5 $mol/L$, 40 °C), Grupo 4 (Palha de aço, 6 $mol/L$, 50 °C), Grupo 5 (Palha de aço, 1 $mol/L$, 30 °C).)\n\nO grupo cujo experimento se processou com maior rapidez é o de número",
       subItens: []
     },
     options: [
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "famerp",
     year: 2025,
     text: {
-      principal: "Uma empresa de transportes mantém uma linha de ônibus que partem de um terminal e percorrem 30 km até retornar ao mesmo terminal, desenvolvendo, nesse percurso, a velocidade média de 20 km/h. Sabendo que o intervalo de tempo entre as saídas consecutivas de dois ônibus dessa linha é de 20 min, o número mínimo de ônibus que a empresa deve manter nessa linha para cumprir esse cronograma é de",
+      principal: "Uma empresa de transportes mantém uma linha de ônibus que partem de um terminal e percorrem 30 km até retornar ao mesmo terminal, desenvolvendo, nesse percurso, a velocidade média de 20 $km/h$. Sabendo que o intervalo de tempo entre as saídas consecutivas de dois ônibus dessa linha é de 20 min, o número mínimo de ônibus que a empresa deve manter nessa linha para cumprir esse cronograma é de",
       subItens: []
     },
     options: [
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "famerp",
     year: 2025,
     text: {
-      principal: "A tabela indica a relação candidato/vaga no processo seletivo de acesso à pós-graduação de quatro cursos de uma universidade:\n\n(Tabela com Curso, Número de vagas e Relação candidato/vaga: Medicina (4 vagas, 32,5 C/V), Engenharia (2 vagas, 31,5 C/V), Enfermagem (1 vaga, 2 C/V), Direito (5 vagas, 7 C/V).)\n\nDo total de candidatos que participaram do processo seletivo nesses quatro cursos, a porcentagem dos que participaram no curso de Engenharia ficou entre",
+      principal: "A tabela indica a relação $candidato/vaga$ no processo seletivo de acesso à pós-graduação de quatro cursos de uma universidade:\n\n(Tabela com Curso, Número de vagas e Relação $candidato/vaga$: Medicina (4 vagas, 32,5 $C/V$), Engenharia (2 vagas, 31,5 $C/V$), Enfermagem (1 vaga, 2 $C/V$), Direito (5 vagas, 7 $C/V$).)\n\nDo total de candidatos que participaram do processo seletivo nesses quatro cursos, a porcentagem dos que participaram no curso de Engenharia ficou entre",
       subItens: []
     },
     options: [
@@ -1562,7 +1562,7 @@ createQuestion({
     },
     options: [
       "2√2",
-      "9/2",
+      "$9/2$",
       "3√2 / 2",
       "6",
       "3√2"

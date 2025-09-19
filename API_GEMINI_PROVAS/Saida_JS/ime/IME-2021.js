@@ -24,7 +24,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Considere que a ≠ 0, b ≠ 0 e (a + b) ≠ 0. Sabendo-se que b/a + a/b = 3, determine o valor de a²+b²/2(a+b)².",
+      principal: "Considere que a ≠ 0, b ≠ 0 e (a + b) ≠ 0. Sabendo-se que $b/a$ + $a/b$ = 3, determine o valor de a²+b²/2(a+b)².",
       subItens: []
     },
     options: [
@@ -50,9 +50,9 @@ createQuestion({
     },
     options: [
       "1",
-      "3/2",
+      "$3/2$",
       "2",
-      "7/2",
+      "$7/2$",
       "4"
     ],
     correctAnswer: 2,
@@ -108,15 +108,15 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Seja a matriz M = [[1, z], [-z̄, z̄]], onde z é o número complexo z = cos(π/3) + i sen(π/3), z̄ o seu conjugado e os ângulos estão expressos em radianos. O determinante de M é:",
+      principal: "Seja a matriz M = [[1, z], [-z̄, z̄]], onde z é o número complexo z = $\\cos$(π/3) + i $\\sin$(π/3), z̄ o seu conjugado e os ângulos estão expressos em radianos. O determinante de M é:",
       subItens: []
     },
     options: [
-      "2(cos(2π/3)+i sen(π/3))",
-      "2(cos(π/3)+i sen(π/3))",
-      "2(cos(π/3) -i sen(π/3))",
-      "cos(π) + i sen(π)",
-      "cos(2π) + i sen(2π)"
+      "2($\\cos$(2π/3)+i $\\sin$(π/3))",
+      "2($\\cos$(π/3)+i $\\sin$(π/3))",
+      "2($\\cos$(π/3) -i $\\sin$(π/3))",
+      "$\\cos$(π) + i $\\sin$(π)",
+      "$\\cos$(2π) + i $\\sin$(2π)"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -136,7 +136,7 @@ createQuestion({
       "A ≤ ln(20⁴)",
       "ln(ln(9!)) ≤ ln(A) ≤ (2 + ln(9!))",
       "A ≥ ln(10!) – ln(2)",
-      "1/e ≤ e⁻ᴬ < 20⁻⁴",
+      "$1/e$ ≤ e⁻ᴬ < 20⁻⁴",
       "ln(10) – ln(2) ≤ A ≤ 10 ln(10) – 2 ln(2) – 10"
     ],
     correctAnswer: 1,
@@ -150,15 +150,15 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Seja f : D → ℝ uma função onde D = {x ∈ ℝ | x ≠ 0 e x ≠ 1} e que satisfaz a equação f(1/x) + f(x) – x = 2. O valor de f(2) é:",
+      principal: "Seja f : D → ℝ uma função onde D = {x ∈ ℝ | x ≠ 0 e x ≠ 1} e que satisfaz a equação f($1/x$) + f(x) – x = 2. O valor de f(2) é:",
       subItens: []
     },
     options: [
-      "5/4",
-      "1/4",
-      "1/2",
+      "$5/4$",
+      "$1/4$",
+      "$1/2$",
       "1",
-      "7/2"
+      "$7/2$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -171,7 +171,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Há um torneio de xadrez com 6 participantes. Cada participante joga com cada um dos outros uma única partida. Não ocorrem empates. Cada participante tem 50% de chance de vencer cada partida. Os resultados são independentes. O vencedor em cada partida ganha um ponto e o perdedor zero. Deste modo, o total é acumulado para montar o ranking. No primeiro jogo do torneio José vence Maria. Se a probabilidade de José chegar à frente de Maria ao final do torneio é p/q, com p e q primos entre si, o valor de p + q é:",
+      principal: "Há um torneio de xadrez com 6 participantes. Cada participante joga com cada um dos outros uma única partida. Não ocorrem empates. Cada participante tem 50% de chance de vencer cada partida. Os resultados são independentes. O vencedor em cada partida ganha um ponto e o perdedor zero. Deste modo, o total é acumulado para montar o ranking. No primeiro jogo do torneio José vence Maria. Se a probabilidade de José chegar à frente de Maria ao final do torneio é $p/q$, com p e q primos entre si, o valor de p + q é:",
       subItens: []
     },
     options: [
@@ -213,7 +213,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Considere o sistema de equações: log(-2x + 3y + k) = log(3) + log(z); logₓ(1 - y) = 1; x + z = 1 onde x, y, e z são variáveis e k é uma constante numérica real. Esse sistema terá solução se:",
+      principal: "Considere o sistema de equações: $\\log$(-2x + 3y + k) = $\\log$(3) + $\\log$(z); $\\log$ₓ(1 - y) = 1; x + z = 1 onde x, y, e z são variáveis e k é uma constante numérica real. Esse sistema terá solução se:",
       subItens: []
     },
     options: [
@@ -255,7 +255,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Seja a equação 2sen²(eᶿ) – 4√3sen(eᶿ)cos(eᶿ) - cos(2eᶿ) = 1, θ ∈ ℝ⁺. O menor valor de θ que é raiz da equação é:",
+      principal: "Seja a equação 2sen²(eᶿ) – 4√3sen(eᶿ)$\\cos$(eᶿ) - $\\cos$(2eᶿ) = 1, θ ∈ ℝ⁺. O menor valor de θ que é raiz da equação é:",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Durante a fabricação de cubos de resina com arestas de 4,5 cm, formaram-se cavidades com 50,0 cm³ de ar no interior de cada um deles. Um artesão agrupa oito cubos, gerando um cubo maior. Em seguida, envolve essa peça com uma camada de liga metálica, formando um cubo metálico com arestas de 10,0 cm, conforme mostra o corte da Figura 1. Dados: massa específica da • água: 1,0 g/cm³; • resina: 0,8 g/cm³; e • liga metálica: 2,0 g/cm³. Se esse cubo metálico for colocado na água e estiver em equilíbrio, conforme mostra a Figura 2, o valor do comprimento L, em cm, que este ficará submerso será, aproximadamente:\nFigura 1: Diagrama mostrando um corte de um cubo metálico com cavidades de resina e ar em seu interior. Dimensões: aresta total de 10,0 cm, cubos de resina com arestas de 4,5 cm.\nFigura 2: Diagrama mostrando o cubo metálico parcialmente submerso em água, com o comprimento L submerso indicado.",
+      principal: "Durante a fabricação de cubos de resina com arestas de 4,5 cm, formaram-se cavidades com 50,0 cm³ de ar no interior de cada um deles. Um artesão agrupa oito cubos, gerando um cubo maior. Em seguida, envolve essa peça com uma camada de liga metálica, formando um cubo metálico com arestas de 10,0 cm, conforme mostra o corte da Figura 1. Dados: massa específica da • água: 1,0 $g/cm$³; • resina: 0,8 $g/cm$³; e • liga metálica: 2,0 $g/cm$³. Se esse cubo metálico for colocado na água e estiver em equilíbrio, conforme mostra a Figura 2, o valor do comprimento L, em cm, que este ficará submerso será, aproximadamente:\nFigura 1: Diagrama mostrando um corte de um cubo metálico com cavidades de resina e ar em seu interior. Dimensões: aresta total de 10,0 cm, cubos de resina com arestas de 4,5 cm.\nFigura 2: Diagrama mostrando o cubo metálico parcialmente submerso em água, com o comprimento L submerso indicado.",
       subItens: []
     },
     options: [
@@ -402,7 +402,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Analise as afirmativas abaixo, referentes ao funcionamento de duas máquinas de Carnot, em que uma é ciclo motor e a outra, ciclo de refrigeração. 1: Levando em conta as temperaturas dos reservatórios térmicos e supondo que 80% da potência disponibilizada do ciclo motor seja empregada para o acionamento do ciclo de refrigeração, a quantidade de calor removida da fonte fria nesse ciclo será 120 kJ/min. 2: Considerando apenas o ciclo motor, se a temperatura da fonte fria for duplicada e, simultaneamente, a temperatura da fonte quente for quadruplicada, o motor térmico violará a Segunda Lei da Termodinâmica. 3: Se a temperatura da fonte quente do ciclo motor for modificada para 500 K, a quantidade máxima de calor removido da fonte fria do ciclo de refrigeração terá o mesmo valor numérico do apresentado na Afirmativa 1. Dados: • temperaturas, respectivamente, da fonte quente e da fonte fria do ciclo motor: 600 K e 300 K; • temperaturas, respectivamente, da fonte quente e da fonte fria do ciclo de refrigeração: 300 K e 268 K; e • calor adicionado à máquina térmica do ciclo motor: 2400/67 kJ/min. Considerando que a operação do refrigerador térmico é efetuada pela potência disponibilizada pelo motor térmico, está(ão) correta(s) a(s) afirmativa(s)",
+      principal: "Analise as afirmativas abaixo, referentes ao funcionamento de duas máquinas de Carnot, em que uma é ciclo motor e a outra, ciclo de refrigeração. 1: Levando em conta as temperaturas dos reservatórios térmicos e supondo que 80% da potência disponibilizada do ciclo motor seja empregada para o acionamento do ciclo de refrigeração, a quantidade de calor removida da fonte fria nesse ciclo será 120 $kJ/min$. 2: Considerando apenas o ciclo motor, se a temperatura da fonte fria for duplicada e, simultaneamente, a temperatura da fonte quente for quadruplicada, o motor térmico violará a Segunda Lei da Termodinâmica. 3: Se a temperatura da fonte quente do ciclo motor for modificada para 500 K, a quantidade máxima de calor removido da fonte fria do ciclo de refrigeração terá o mesmo valor numérico do apresentado na Afirmativa 1. Dados: • temperaturas, respectivamente, da fonte quente e da fonte fria do ciclo motor: 600 K e 300 K; • temperaturas, respectivamente, da fonte quente e da fonte fria do ciclo de refrigeração: 300 K e 268 K; e • calor adicionado à máquina térmica do ciclo motor: $2400/67$ $kJ/min$. Considerando que a operação do refrigerador térmico é efetuada pela potência disponibilizada pelo motor térmico, está(ão) correta(s) a(s) afirmativa(s)",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Um projetil de massa m é disparado com velocidade v contra dois blocos A e B, de massas M_A = 800m e M_B = 199m, que estão inicialmente em repouso, um sobre o outro, conforme mostra a figura. O projetil atinge o bloco A, fazendo o conjunto se movimentar de uma distância d, da posição O até a posição D. Considerando g a aceleração da gravidade local, o coeficiente de atrito estático mínimo µ_e entre os blocos, de modo que o bloco B não deslize sobre o bloco A, é:\nDiagrama mostrando um projétil de massa m e velocidade v atingindo um bloco A de massa M_A, que está sobre um bloco B de massa M_B. Ambos os blocos estão inicialmente em repouso. O conjunto se move uma distância d do ponto O até D. Há um coeficiente de atrito µ_e entre os blocos.",
+      principal: "Um projetil de massa m é disparado com velocidade v contra dois blocos A e B, de massas $M_A$ = 800m e $M_B$ = 199m, que estão inicialmente em repouso, um sobre o outro, conforme mostra a figura. O projetil atinge o bloco A, fazendo o conjunto se movimentar de uma distância d, da posição O até a posição D. Considerando g a aceleração da gravidade local, o coeficiente de atrito estático mínimo µ_e entre os blocos, de modo que o bloco B não deslize sobre o bloco A, é:\nDiagrama mostrando um projétil de massa m e velocidade v atingindo um bloco A de massa $M_A$, que está sobre um bloco B de massa $M_B$. Ambos os blocos estão inicialmente em repouso. O conjunto se move uma distância d do ponto O até D. Há um coeficiente de atrito µ_e entre os blocos.",
       subItens: []
     },
     options: [
@@ -469,11 +469,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2πm / (q(2v₀sen(α) - t₁)/g)",
-      "πm / (q(2v₀sen(α) - t₁)/g)",
-      "2πm / (q(v₀sen(α) - t₁)/g)",
-      "4πm / (q(2v₀sen(α) - t₁)/g)",
-      "πm / (q(v₀sen(α) - t₁)/g)"
+      "2πm / (q(2v₀$\\sin$(α) - t₁)/g)",
+      "πm / (q(2v₀$\\sin$(α) - t₁)/g)",
+      "2πm / (q(v₀$\\sin$(α) - t₁)/g)",
+      "4πm / (q(2v₀$\\sin$(α) - t₁)/g)",
+      "πm / (q(v₀$\\sin$(α) - t₁)/g)"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -507,7 +507,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Um projetil atinge um colete balístico sem perfurá-lo. A ação da fibra do tecido balístico no projetil está representada na figura acima. A deformação da fibra é transmitida pela propagação de pulsos longitudinais e transversais que se afastam radialmente do ponto de impacto, em que o projetil produz uma deformação em forma de cone no tecido. O pulso longitudinal, que se propaga ao longo da fibra, faz com que ela se deforme, afinando na direção radial. O pulso transversal, que se propaga com velocidade menor que a velocidade longitudinal, está associado à depressão. À medida que o projetil penetra no tecido, o raio r da depressão aumenta fazendo com que o material do colete se mova na mesma direção do projetil, mantendo o ângulo θ. Sabe-se que a velocidade do projetil logo após atingir o colete é dada pela função horária v(t) = 250 – 5 × 10⁸t [m/s]. Dados: • velocidade do projétil antes do impacto: 250 m/s; • velocidade do pulso longitudinal na fibra: 2000 m/s; e • ângulo θ = 60°. No instante em que a velocidade do projétil for nula, os raios aproximados das regiões deformadas pelo pulso transversal (r) e pelo longitudinal (R), são, respectivamente:\nFigura 1: Vista superior do projétil imediatamente antes do impacto com a fibra do tecido, mostrando o vetor velocidade do projétil.\nFigura 2: Vista superior do projétil após o impacto com a fibra do tecido, mostrando a deformação em forma de cone com raio r (transversal) e R (longitudinal) e ângulo θ.",
+      principal: "Um projetil atinge um colete balístico sem perfurá-lo. A ação da fibra do tecido balístico no projetil está representada na figura acima. A deformação da fibra é transmitida pela propagação de pulsos longitudinais e transversais que se afastam radialmente do ponto de impacto, em que o projetil produz uma deformação em forma de cone no tecido. O pulso longitudinal, que se propaga ao longo da fibra, faz com que ela se deforme, afinando na direção radial. O pulso transversal, que se propaga com velocidade menor que a velocidade longitudinal, está associado à depressão. À medida que o projetil penetra no tecido, o raio r da depressão aumenta fazendo com que o material do colete se mova na mesma direção do projetil, mantendo o ângulo θ. Sabe-se que a velocidade do projetil logo após atingir o colete é dada pela função horária v(t) = 250 – 5 × 10⁸t [$m/s$]. Dados: • velocidade do projétil antes do impacto: 250 $m/s$; • velocidade do pulso longitudinal na fibra: 2000 $m/s$; e • ângulo θ = 60°. No instante em que a velocidade do projétil for nula, os raios aproximados das regiões deformadas pelo pulso transversal (r) e pelo longitudinal (R), são, respectivamente:\nFigura 1: Vista superior do projétil imediatamente antes do impacto com a fibra do tecido, mostrando o vetor velocidade do projétil.\nFigura 2: Vista superior do projétil após o impacto com a fibra do tecido, mostrando a deformação em forma de cone com raio r (transversal) e R (longitudinal) e ângulo θ.",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Considere um planeta hipotético X com massa 4M_T, onde M_T é a massa da Terra. Considerando os planetas esféricos, se a velocidade de escape do planeta X for o dobro da velocidade de escape da Terra, a razão entre a densidade do planeta X e a densidade da Terra é, aproximadamente:",
+      principal: "Considere um planeta hipotético X com massa $4M_T$, onde $M_T$ é a massa da Terra. Considerando os planetas esféricos, se a velocidade de escape do planeta X for o dobro da velocidade de escape da Terra, a razão entre a densidade do planeta X e a densidade da Terra é, aproximadamente:",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "A caixa preta acima possui a associação de um indutor, um capacitor e um resistor. Inicialmente, a chave S está aberta e não há energia armazenada nos componentes. Em t = 0, a chave S é fechada. Em t → ∞, a corrente I_A = 10 A e a tensão V₁ = 80 V. Sabendo que a energia total armazenada nos campos magnético e eletrostático do circuito é 370 J, a alternativa correta que apresenta a topologia e os valores dos componentes na caixa preta é:\nDiagrama de um circuito elétrico com uma fonte de tensão de 100V, uma chave S, uma caixa preta, e um resistor de 8 Ω. São mostrados os pontos X, Y, Z, W, e as correntes I_A e V₁.",
+      principal: "A caixa preta acima possui a associação de um indutor, um capacitor e um resistor. Inicialmente, a chave S está aberta e não há energia armazenada nos componentes. Em t = 0, a chave S é fechada. Em t → ∞, a corrente $I_A$ = 10 A e a tensão V₁ = 80 V. Sabendo que a energia total armazenada nos campos magnético e eletrostático do circuito é 370 J, a alternativa correta que apresenta a topologia e os valores dos componentes na caixa preta é:\nDiagrama de um circuito elétrico com uma fonte de tensão de 100V, uma chave S, uma caixa preta, e um resistor de 8 Ω. São mostrados os pontos X, Y, Z, W, e as correntes $I_A$ e V₁.",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Uma solução de Ba(OH)₂ foi adicionada a 300 cm³ de uma solução 0,5 M de HNO₃. Houve a precipitação de um sal, mas o meio permaneceu ácido. Conseguiu-se a neutralização por meio da adição de 200 cm³ de uma solução 0,25 M de KOH, que foi totalmente consumido. Dados: • Massa Molar Ba = 137 g/mol; • Massa Molar O = 16 g/mol; • Massa Molar H = 1 g/mol; • Massa Molar K = 39 g/mol; e • Massa Molar N = 14 g/mol. Assim, pode-se afirmar que a massa, em gramas, de Ba(OH)₂ presente na solução adicionada era aproximadamente:",
+      principal: "Uma solução de Ba(OH)₂ foi adicionada a 300 cm³ de uma solução 0,5 M de HNO₃. Houve a precipitação de um sal, mas o meio permaneceu ácido. Conseguiu-se a neutralização por meio da adição de 200 cm³ de uma solução 0,25 M de KOH, que foi totalmente consumido. Dados: • Massa Molar Ba = 137 $g/mol$; • Massa Molar O = 16 $g/mol$; • Massa Molar H = 1 $g/mol$; • Massa Molar K = 39 $g/mol$; e • Massa Molar N = 14 $g/mol$. Assim, pode-se afirmar que a massa, em gramas, de Ba(OH)₂ presente na solução adicionada era aproximadamente:",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Considere a representação esquemática dos nuclídeos abaixo: A/Z D, A₁/Z₁ E, A/Z₂ G, A₂/Z J, A₃/Z₃ L. Sabe-se que: A – Z = N ; A₁ – Z₁ = N₁ ; A – Z₂ = N₂ ; A₂ – Z = N₁ ; A₃ – Z₃ = N. É possível afirmar que",
+      principal: "Considere a representação esquemática dos nuclídeos abaixo: $A/Z$ D, A₁/Z₁ E, $A/Z$₂ G, A₂/Z J, A₃/Z₃ L. Sabe-se que: A – Z = N ; A₁ – Z₁ = N₁ ; A – Z₂ = N₂ ; A₂ – Z = N₁ ; A₃ – Z₃ = N. É possível afirmar que",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "Sabe-se que dois compostos A e B reagem em solução de acordo com a estequiometria A + B → C + D, que segue uma cinética de primeira ordem tanto em relação a A quanto a B, com velocidade específica de reação k = 10⁻³ L mol⁻¹ s⁻¹. Em um recipiente, são adicionados 2 mols de cada um dos reagentes e um solvente adequado até completar 1 L de solução. Considerando que A é totalmente solúvel e B tem uma solubilidade igual a 0,1 mol L⁻¹, obtenha a taxa de reação (v em mol L⁻¹ s⁻¹) em função da conversão de A, dada por X = (2 - n_A) / 2 (onde n_A é o número de mols de A em um dado instante).",
+      principal: "Sabe-se que dois compostos A e B reagem em solução de acordo com a estequiometria A + B → C + D, que segue uma cinética de primeira ordem tanto em relação a A quanto a B, com velocidade específica de reação k = 10⁻³ L mol⁻¹ s⁻¹. Em um recipiente, são adicionados 2 mols de cada um dos reagentes e um solvente adequado até completar 1 L de solução. Considerando que A é totalmente solúvel e B tem uma solubilidade igual a 0,1 mol L⁻¹, obtenha a taxa de reação (v em mol L⁻¹ s⁻¹) em função da conversão de A, dada por X = (2 - $n_A$) / 2 (onde $n_A$ é o número de mols de A em um dado instante).",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "ime",
     year: 2021,
     text: {
-      principal: "A respeito dos elementos do Grupo 13 da Tabela Periódica (B₅, Al₁₃, Ga₃₁, In₄₉, Tl₈₁), considere as seguintes afirmativas: I. os valores da primeira energia de ionização diminuem do B para o Al, a partir daí, essa diminuição não é mais tão proeminente pois os subníveis (n-1)d e/ou (n-2)f, que começam a surgir do Ga em diante, são menos efetivos para blindar a carga nuclear. II. o efeito do par inerte é bem pronunciado, nos elementos mais pesados do grupo, fazendo com que esses elementos apresentem carga iônica duas unidades a mais do que o esperado. III. os raios atômicos crescem com o aumento do número atômico no grupo, embora não tão acentuadamente como nos grupos 1 e 2. Está(ão) correta(s) a(s) afirmativa(s):",
+      principal: "A respeito dos elementos do Grupo 13 da Tabela Periódica (B₅, Al₁₃, Ga₃₁, In₄₉, Tl₈₁), considere as seguintes afirmativas: I. os valores da primeira energia de ionização diminuem do B para o Al, a partir daí, essa diminuição não é mais tão proeminente pois os subníveis (n-1)d $e/ou$ (n-2)f, que começam a surgir do Ga em diante, são menos efetivos para blindar a carga nuclear. II. o efeito do par inerte é bem pronunciado, nos elementos mais pesados do grupo, fazendo com que esses elementos apresentem carga iônica duas unidades a mais do que o esperado. III. os raios atômicos crescem com o aumento do número atômico no grupo, embora não tão acentuadamente como nos grupos 1 e 2. Está(ão) correta(s) a(s) afirmativa(s):",
       subItens: []
     },
     options: [

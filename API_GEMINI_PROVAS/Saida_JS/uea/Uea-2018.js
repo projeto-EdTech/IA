@@ -570,7 +570,7 @@ createQuestion({
     university: "uea",
     year: 2018,
     text: {
-      principal: "Na década de 70/80, época da luta pela \"territorialidade seringueira\", as tensões sociais fizeram com que trabalhadores rurais do Acre se organizassem em defesa de seus interesses. Foi um movimento contra injustiças sociais, como assassinatos e expulsão de milhares de pessoas de suas terras. Foram nesses grupos organizados em sindicatos rurais de Xapuri e Brasileia que surgiram lideranças como Wilson Pinheiro e Chico Mendes. O movimento dos seringueiros possibilitou o aumento de áreas protegidas do Acre.\n\n(http://redeglobo.globo.com. Adaptado.)\n\nA área de proteção surgida no contexto abordado no excerto é",
+      principal: "Na década de $70/80$, época da luta pela \"territorialidade seringueira\", as tensões sociais fizeram com que trabalhadores rurais do Acre se organizassem em defesa de seus interesses. Foi um movimento contra injustiças sociais, como assassinatos e expulsão de milhares de pessoas de suas terras. Foram nesses grupos organizados em sindicatos rurais de Xapuri e Brasileia que surgiram lideranças como Wilson Pinheiro e Chico Mendes. O movimento dos seringueiros possibilitou o aumento de áreas protegidas do Acre.\n\n(http://redeglobo.globo.com. Adaptado.)\n\nA área de proteção surgida no contexto abordado no excerto é",
       subItens: []
     },
     options: [
@@ -893,7 +893,7 @@ createQuestion({
       "f(x) = ax², com 0 < a < 1.",
       "f(x) = -(ax), com 0 < a < 1.",
       "f(x) = a⁻x, com a > 1.",
-      "f(x) = logₓ, com a > 1."
+      "f(x) = $\\log$ₓ, com a > 1."
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -927,15 +927,15 @@ createQuestion({
     university: "uea",
     year: 2018,
     text: {
-      principal: "Em testes de resistência a quedas, controles remotos são soltos em queda livre, contra um piso de concreto, a 1,8 m de altura. Considerando desprezível a resistência do ar e sendo a aceleração da gravidade 10 m/s², o módulo da velocidade com que o controle remoto toca o chão é",
+      principal: "Em testes de resistência a quedas, controles remotos são soltos em queda livre, contra um piso de concreto, a 1,8 m de altura. Considerando desprezível a resistência do ar e sendo a aceleração da gravidade 10 $m/s$², o módulo da velocidade com que o controle remoto toca o chão é",
       subItens: []
     },
     options: [
-      "2 m/s.",
-      "3 m/s.",
-      "4 m/s.",
-      "6 m/s.",
-      "8 m/s."
+      "2 $m/s$.",
+      "3 $m/s$.",
+      "4 $m/s$.",
+      "6 $m/s$.",
+      "8 $m/s$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "uea",
     year: 2018,
     text: {
-      principal: "A caixa preta de aviões é um dispositivo gravador de dados que ajuda na compreensão dos fatores que conduziram o avião ao acidente. Esses dispositivos podem resistir a acelerações de 33 km/s².\n\nEm relação ao valor 9,8 m/s², que corresponde ao valor da aceleração da gravidade, a aceleração que uma caixa preta pode suportar é, aproximadamente,",
+      principal: "A caixa preta de aviões é um dispositivo gravador de dados que ajuda na compreensão dos fatores que conduziram o avião ao acidente. Esses dispositivos podem resistir a acelerações de 33 $km/s$².\n\nEm relação ao valor 9,8 $m/s$², que corresponde ao valor da aceleração da gravidade, a aceleração que uma caixa preta pode suportar é, aproximadamente,",
       subItens: []
     },
     options: [
@@ -1057,11 +1057,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "18000 N/m.",
-      "26000 N/m.",
-      "44000 N/m.",
-      "80000 N/m.",
-      "260000 N/m."
+      "18000 $N/m$.",
+      "26000 $N/m$.",
+      "44000 $N/m$.",
+      "80000 $N/m$.",
+      "260000 $N/m$."
     ],
     correctAnswer: 3,
     materia: ["Física"],

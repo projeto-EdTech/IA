@@ -156,7 +156,7 @@ createQuestion({
     options: [
       "Uma expressão-chave que definiria o poema seria: “em busca do tempo perdido\".",
       "Nascido em Curitiba, Paulo Leminski faz parte da segunda geração do modernismo brasileiro, tendo aderido à contracultura e à poesia marginal.",
-      "A ausência de humor e ironia são verificáveis em versos como: quando eu tiver setenta anos/então vai acabar esta minha adolescência.",
+      "A ausência de humor e ironia são verificáveis em versos como: quando eu tiver setenta $anos/ent$ão vai acabar esta minha adolescência.",
       "As construções verbais predominantes no poema denotam um plano de vida ironizado pelo eu lírico.",
       "O poema de Leminski faz uma leitura melancólica e subjetiva sobre uma trajetória de vida."
     ],
@@ -402,15 +402,15 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "Se x e y são números reais não nulos tais que xy=x/y=x-y, então o valor de x + y é igual a",
+      principal: "Se x e y são números reais não nulos tais que xy=$x/y$=x-y, então o valor de x + y é igual a",
       subItens: []
     },
     options: [
-      "-3/2",
-      "-1/2",
+      "-$3/2$",
+      "-$1/2$",
       "0",
-      "1/2",
-      "3/2"
+      "$1/2$",
+      "$3/2$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -444,7 +444,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "Os valores de x, x∈ R, que satisfazem as condições (1/5)^x^2 < 5^-4x e x²≤ 5, são",
+      principal: "Os valores de x, x∈ R, que satisfazem as condições ($1/5$)^x^2 < 5^-4x e x²≤ 5, são",
       subItens: []
     },
     options: [
@@ -465,15 +465,15 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "Na figura acima, o triângulo ABC é retângulo em C e sua área vale 6, então o valor do sen B é\n[Image: Triângulo retângulo ABC com ângulo reto em C. Lado AC mede 4.]",
+      principal: "Na figura acima, o triângulo ABC é retângulo em C e sua área vale 6, então o valor do $\\sin$ B é\n[Image: Triângulo retângulo ABC com ângulo reto em C. Lado AC mede 4.]",
       subItens: []
     },
     options: [
-      "3/5",
+      "$3/5$",
       "1",
-      "4/5",
-      "2/5",
-      "1/5"
+      "$4/5$",
+      "$2/5$",
+      "$1/5$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -486,7 +486,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "Se A,B,CeD são termos consecutivos de uma progressão aritmética e C^2-B^2≠0, então o valor de (D^2-A^2)/(C^2-B^2) é",
+      principal: "Se A,B,CeD são termos consecutivos de uma progressão aritmética e $C^2$-$B^2$≠0, então o valor de ($D^2$-$A^2$)/($C^2$-$B^2$) é",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "O valor do determinante\n|0 log3(3) log1/3(27)|\n|1 log3(27) log1/3(27)|\n|0 log3(81) log3(243)|\né",
+      principal: "O valor do determinante\n|0 log3(3) $\\log1/3$(27)|\n|1 log3(27) $\\log1/3$(27)|\n|0 log3(81) log3(243)|\né",
       subItens: []
     },
     options: [
@@ -515,7 +515,7 @@ createQuestion({
       "1",
       "-1",
       "3",
-      "1/3"
+      "$1/3$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "Terremoto do México é um dos mais fortes já ocorridos na América Latina\nOs três estados mexicanos mais atingidos foram Oaxaca, Chiapas e Tabasco. A terra tremeu também em Guatemala e El Salvador.\nEdição do dia 09/09/2017\n09/09/2017 21h22 - Atualizado em 09/09/2017 21h22\nhttp://gl.globo.com/jornal-nacional/noticia/2017/09/terremoto-do-mexico-e-um-dos-mais-fortes-ja-ocorridos-na-america-latina.html\n\nTerremoto no México\nTremor atingiu 8,1 de magnitude e deixou vários mortos\n[Image: Mapa do México e América Central com o epicentro do terremoto indicado.]\n\nhttps://g1.globo.com/mundo/noticia/numero-de-mortos-em-terremoto-no-mexico-sobe-para-96.ghtml\n\nConsiderando as informações jornalísticas citadas e seus conhecimentos a respeito da fragmentação da litosfera terrestre e suas dinâmicas, julgue as afirmações a seguir:\nI. A maior parte do território mexicano encontra-se sobre a placa tectônica Norte-Americana.\nII. Os limites existentes entre as placas de Nazca e Cocos são chamados de divergentes, uma vez que estão em contínuo afastamento uma da outra.\nIII. As cadeias montanhosas mexicanas, Sierra Madre Ocidental e Oriental, datam da Era Geológica Pré-Cambriana.\nAssinale",
+      principal: "Terremoto do México é um dos mais fortes já ocorridos na América Latina\nOs três estados mexicanos mais atingidos foram Oaxaca, Chiapas e Tabasco. A terra tremeu também em Guatemala e El Salvador.\nEdição do dia 09/09/2017\n09/09/2017 21h22 - Atualizado em 09/09/2017 21h22\nhttp://gl.globo.$com/jornal$-nacional/noticia/2017/09/terremoto-do-mexico-e-um-dos-mais-fortes-ja-ocorridos-na-america-latina.html\n\nTerremoto no México\nTremor atingiu 8,1 de magnitude e deixou vários mortos\n[Image: Mapa do México e América Central com o epicentro do terremoto indicado.]\n\nhttps://g1.globo.com/mundo/noticia/numero-de-mortos-em-terremoto-no-mexico-sobe-para-96.ghtml\n\nConsiderando as informações jornalísticas citadas e seus conhecimentos a respeito da fragmentação da litosfera terrestre e suas dinâmicas, julgue as afirmações a seguir:\nI. A maior parte do território mexicano encontra-se sobre a placa tectônica Norte-Americana.\nII. Os limites existentes entre as placas de Nazca e Cocos são chamados de divergentes, uma vez que estão em contínuo afastamento uma da outra.\nIII. As cadeias montanhosas mexicanas, Sierra Madre Ocidental e Oriental, datam da Era Geológica Pré-Cambriana.\nAssinale",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "O isótopo 238 do plutônio (238 Pu), cujo tempo de meia vida é de aproximadamente 88 anos, é caracterizado por sua grande capacidade de emissão de partículas do tipo alfa. Entretanto, não é capaz de emitir partículas do tipo beta e radiação gama. A respeito desse radioisótopo, são realizadas as seguintes afirmações:\nI. Ao partir-se de 1 kg de plutônio-238, após 176 anos, restarão 250 g desse isótopo.\nII. A equação 238 Pu --> 234 U + 4 a representa a emissão que ocorre nesse isótopo.\nIII. A quantidade de nêutrons existentes no núcleo do plutônio-238 é de 144.\n\nConsiderando-se os conhecimentos adquiridos a respeito do tema e das afirmações supracitadas, é correto que",
+      principal: "O isótopo 238 do plutônio (238 Pu), cujo tempo de meia vida é de aproximadamente 88 anos, é caracterizado por sua grande capacidade de emissão de partículas do tipo alfa. Entretanto, não é capaz de emitir partículas do tipo $\\beta$ e radiação gama. A respeito desse radioisótopo, são realizadas as seguintes afirmações:\nI. Ao partir-se de 1 kg de plutônio-238, após 176 anos, restarão 250 g desse isótopo.\nII. A equação 238 Pu --> 234 U + 4 a representa a emissão que ocorre nesse isótopo.\nIII. A quantidade de nêutrons existentes no núcleo do plutônio-238 é de 144.\n\nConsiderando-se os conhecimentos adquiridos a respeito do tema e das afirmações supracitadas, é correto que",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "Dados os seguintes compostos orgânicos:\n[Image: Estruturas químicas de 6 compostos orgânicos, A, B, C, D, E e F.]\nA) H3C-CH2-CH2-CH2-OH (Butan-1-ol)\nB) H3C-CH2-CH2-COOH (Ácido butanoico)\nC) H3C-O-CH2-CH2-CH3 (Metóxi-propano)\nD) H3C-CH2-CH2-CH2-CH3 (Pentano)\nE) HOOC-CH=CH-COOH (Ácido butenodioico, cis)\nF) HOOC-CH=CH-COOH (Ácido butenodioico, trans)\n\nA respeito das propriedades físico-químicas e isomeria, dos compostos acima, sob as mesmas condições de temperatura e pressão, são feitas as seguintes afirmações:\nI. A e B são isômeros funcionais e B possui ponto de ebulição maior do que A.\nII. D não possui isômeros funcionais e apresenta pressão de vapor maior do que B.\nIII. E e F são isômeros geométricos, onde E é polar e F é apolar.\nIV. A e C são isômeros constitucionais, sendo C mais volátil do que A.\nV. D possui um isômero de cadeia e é líquido à temperatura ambiente devido às suas ligações de hidrogênio intermoleculares.\n\nSendo assim, estão corretas somente as afirmações",
+      principal: "Dados os seguintes compostos orgânicos:\n[Image: Estruturas químicas de 6 compostos orgânicos, A, B, C, D, E e F.]\nA) H3C-CH2-CH2-CH2-OH (Butan-1-ol)\nB) H3C-CH2-CH2-COOH (Ácido butanoico)\nC) H3C-O-CH2-CH2-CH3 (Metó$\\xi$-propano)\nD) H3C-CH2-CH2-CH2-CH3 (Pentano)\nE) HOOC-CH=CH-COOH (Ácido butenodioico, cis)\nF) HOOC-CH=CH-COOH (Ácido butenodioico, trans)\n\nA respeito das propriedades físico-químicas e isomeria, dos compostos acima, sob as mesmas condições de temperatura e pressão, são feitas as seguintes afirmações:\nI. A e B são isômeros funcionais e B possui ponto de ebulição maior do que A.\nII. D não possui isômeros funcionais e apresenta pressão de vapor maior do que B.\nIII. E e F são isômeros geométricos, onde E é polar e F é apolar.\nIV. A e C são isômeros constitucionais, sendo C mais volátil do que A.\nV. D possui um isômero de cadeia e é líquido à temperatura ambiente devido às suas ligações de hidrogênio intermoleculares.\n\nSendo assim, estão corretas somente as afirmações",
       subItens: []
     },
     options: [
@@ -780,7 +780,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "A partir de um minério denominado galena, rico em sulfeto de chumbo II (PbS), pode-se obter o metal chumbo em escala industrial, por meio das reações representadas pelas equações de oxirredução a seguir, cujos coeficientes estequiométricos encontram-se já ajustados:\n\nPbS(s) + 3/2 O2(g) --> PbO(s) + SO2(g)\nPbO(s) + CO(g) --> Pb(s) + CO2(g)\n\nConsiderando-se uma amostra de 717 kg desse minério que possua 90 % de sulfeto de chumbo II, sendo submetida a um processo que apresente 80% de rendimento global, a massa a ser obtida de chumbo será de, aproximadamente,\n\nDados: massas molares (g·mol⁻¹) S = 32 e Pb = 207",
+      principal: "A partir de um minério denominado galena, rico em sulfeto de chumbo II (PbS), pode-se obter o metal chumbo em escala industrial, por meio das reações representadas pelas equações de oxirredução a seguir, cujos coeficientes estequiométricos encontram-se já ajustados:\n\nPbS(s) + $3/2$ O2(g) --> PbO(s) + SO2(g)\nPbO(s) + CO(g) --> Pb(s) + CO2(g)\n\nConsiderando-se uma amostra de 717 kg desse minério que possua 90 % de sulfeto de chumbo II, sendo submetida a um processo que apresente 80% de rendimento global, a massa a ser obtida de chumbo será de, aproximadamente,\n\nDados: massas molares (g·mol⁻¹) S = 32 e Pb = 207",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "Em uma embalagem de 2 L de água sanitária, facilmente encontrada em supermercados, encontra-se a seguinte informação:\n\nO teor de cloro ativo do produto varia de 2 % a 2,5% (m/V)\n\nEssa solução pode ser utilizada para tratamento de água de piscina nas concentrações de 1,0 a 2,0 mg de cloro ativo por litro; sendo que, acima de 2,0 mg de cloro ativo por litro, a água se torna irritante aos olhos. Em duas piscinas (A e B), de capacidades volumétricas diferentes, foram adicionados 2 L de água sanitária a cada uma delas. Desta forma, ocorreu a diluição da água sanitária na água contida em cada piscina, conforme descrito na tabela abaixo.\n\n[Table: Volume total de solução após a diluição\nPiscina A: 100000 L\nPiscina B: 25000 L]\n\nSendo assim, foram feitas as seguintes afirmações.\nI. Há de 20 a 25 g de cloro ativo por litro dessa solução comercial.\nII. Na piscina A, a solução formada após a diluição seria irritante aos olhos do usuário dessa piscina.\nIII. Na piscina B, a solução formada após a diluição seria adequada ao tratamento de água.\n\nDas afirmações realizadas,",
+      principal: "Em uma embalagem de 2 L de água sanitária, facilmente encontrada em supermercados, encontra-se a seguinte informação:\n\nO teor de cloro ativo do produto varia de 2 % a 2,5% ($m/V$)\n\nEssa solução pode ser utilizada para tratamento de água de piscina nas concentrações de 1,0 a 2,0 mg de cloro ativo por litro; sendo que, acima de 2,0 mg de cloro ativo por litro, a água se torna irritante aos olhos. Em duas piscinas (A e B), de capacidades volumétricas diferentes, foram adicionados 2 L de água sanitária a cada uma delas. Desta forma, ocorreu a diluição da água sanitária na água contida em cada piscina, conforme descrito na tabela abaixo.\n\n[Table: Volume total de solução após a diluição\nPiscina A: 100000 L\nPiscina B: 25000 L]\n\nSendo assim, foram feitas as seguintes afirmações.\nI. Há de 20 a 25 g de cloro ativo por litro dessa solução comercial.\nII. Na piscina A, a solução formada após a diluição seria irritante aos olhos do usuário dessa piscina.\nIII. Na piscina B, a solução formada após a diluição seria adequada ao tratamento de água.\n\nDas afirmações realizadas,",
       subItens: []
     },
     options: [
@@ -869,7 +869,7 @@ createQuestion({
     },
     options: [
       "a produtividade primária bruta diminui no início, depois se estabiliza.",
-      "a razão fotossíntese/respiração, no início a fotossíntese é maior, depois se iguala.",
+      "a razão fotossí$ntese/respira$ção, no início a fotossíntese é maior, depois se iguala.",
       "o tamanho dos indivíduos tende a diminuir.",
       "a composição em espécies muda lentamente no início, depois rapidamente.",
       "a reciclagem de nutrientes diminui."
@@ -952,10 +952,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4",
-      "1/2",
-      "1/6",
-      "1/8",
+      "$1/4$",
+      "$1/2$",
+      "$1/6$",
+      "$1/8$",
       "1"
     ],
     correctAnswer: 0,
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "[Image: Fotografia de manifestantes em Charlottesville, EUA, com uma bandeira confederada e uma bandeira com a suástica nazista.]\nhttps://www.google.com.br/search?q=imagens+da+revolta+em+Charlottesville-+EUA\n\n“O novo racismo é também racismo de reação: dos brancos deserdados e não ricos contra os negros ainda mais deserdados e paupérrimos. Pobres contra pobres, mas em nome da raça, nunca da classe.\"\nNadia Urbinati, em artigo publicado no jornal La Repubblica, 14-08-2017.\n\nA fotografia acima, tirada em 12/08/2017, publicada em vários jornais no mundo todo, retrata a marcha de extrema direita, que ocorreu na cidade de Charlottesville, EUA, contra negros, imigrantes, gays e judeus. A respeito desse conflito, que aponta para os problemas sociais contemporâneos, enfrentados pelos EUA, está correto afirmar.\nI. Os ressentimentos raciais atuais possuem raízes que datam desde o fim da Guerra de Secessão. Derrotados e arrasados economicamente, os sulistas recusavam-se a aceitar a liberdade dos negros, assim como sua integração na sociedade. Surgem, nessa época, associações de terrorismo racista, como a Ku Klux Klan.\nII. Para a reconstrução dos EUA, após a guerra civil, e para acelerar seu desenvolvimento industrial, a libertação dos escravos era fundamental. Entretanto o movimento trabalhista norte-americano sempre foi marcado pelo racismo, dando chances de trabalho, primeiramente, ao americano branco; depois, ao imigrante europeu e, por último, ao negro norte-americano.\nIII. Apesar da extrema direita ter apoiado sua candidatura e, políticos, pertencentes ao all-righ, ocuparem altos cargos governamentais, o presidente Donald Trump fez severas críticas ao episódio e, publicamente, se posicionou radicalmente contra esses extremistas.\n\nAssinale a assertiva correta.",
+      principal: "[Image: Fotografia de manifestantes em Charlottesville, EUA, com uma bandeira confederada e uma bandeira com a suástica nazista.]\nhttps://www.google.com.$br/search$?q=imagens+da+revolta+em+Charlottesville-+EUA\n\n“O novo racismo é também racismo de reação: dos brancos deserdados e não ricos contra os negros ainda mais deserdados e paupérrimos. Pobres contra pobres, mas em nome da raça, nunca da classe.\"\nNadia Urbinati, em artigo publicado no jornal La Repubblica, 14-08-2017.\n\nA fotografia acima, tirada em 12/08/2017, publicada em vários jornais no mundo todo, retrata a marcha de extrema direita, que ocorreu na cidade de Charlottesville, EUA, contra negros, imigrantes, gays e judeus. A respeito desse conflito, que aponta para os problemas sociais contemporâneos, enfrentados pelos EUA, está correto afirmar.\nI. Os ressentimentos raciais atuais possuem raízes que datam desde o fim da Guerra de Secessão. Derrotados e arrasados economicamente, os sulistas recusavam-se a aceitar a liberdade dos negros, assim como sua integração na sociedade. Surgem, nessa época, associações de terrorismo racista, como a Ku Klux Klan.\nII. Para a reconstrução dos EUA, após a guerra civil, e para acelerar seu desenvolvimento industrial, a libertação dos escravos era fundamental. Entretanto o movimento trabalhista norte-americano sempre foi marcado pelo racismo, dando chances de trabalho, primeiramente, ao americano branco; depois, ao imigrante europeu e, por último, ao negro norte-americano.\nIII. Apesar da extrema direita ter apoiado sua candidatura e, políticos, pertencentes ao all-righ, ocuparem altos cargos governamentais, o presidente Donald Trump fez severas críticas ao episódio e, publicamente, se posicionou radicalmente contra esses extremistas.\n\nAssinale a assertiva correta.",
       subItens: []
     },
     options: [
@@ -1116,15 +1116,15 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "Um forno microondas possui um magnetron, gerador de ondas eletromagnéticas, cujo comprimento de onda é de 12,0 cm. Sabendo que a velocidade da luz no meio de propagação é 3,00 . 10^5 km/s, a frequência emitida por este gerador é",
+      principal: "Um forno microondas possui um magnetron, gerador de ondas eletromagnéticas, cujo comprimento de onda é de 12,0 cm. Sabendo que a velocidade da luz no meio de propagação é 3,00 . $10^5$ $km/s$, a frequência emitida por este gerador é",
       subItens: []
     },
     options: [
-      "0,25. 10^8 Hz.",
-      "3,60. 10^8 Hz.",
-      "4,00. 10^8 Hz.",
-      "0,25. 10^10 Hz.",
-      "4,00. 10^10 Hz."
+      "0,25. $10^8$ Hz.",
+      "3,60. $10^8$ Hz.",
+      "4,00. $10^8$ Hz.",
+      "0,25. $10^10$ Hz.",
+      "4,00. $10^10$ Hz."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "A escada rígida da figura acima de massa 20,0 kg, distribuída uniformemente ao longo de seu comprimento, está apoiada numa parede e no chão, lisos, e está impedida de deslizar por um cabo de aço AC. Uma pessoa de massa 80,0 kg se posiciona no ponto D, conforme indicado na figura. Considerando que a aceleração da gravidade local é de 10,0 m/s², pode-se afirmar que a força de tração no cabo AC, nessas condições, será de\n[Image: Diagrama de uma escada apoiada em uma parede e no chão, com um cabo de aço na base e uma pessoa na escada. Ponto B no topo da escada (parede), Ponto C na base da escada (chão), Ponto A onde o cabo se prende ao chão. Ponto D onde a pessoa está. BC = 2,00m, AC = 1,00m, e a distância horizontal do ponto D à parede é 0,500m.]",
+      principal: "A escada rígida da figura acima de massa 20,0 kg, distribuída uniformemente ao longo de seu comprimento, está apoiada numa parede e no chão, lisos, e está impedida de deslizar por um cabo de aço AC. Uma pessoa de massa 80,0 kg se posiciona no ponto D, conforme indicado na figura. Considerando que a aceleração da gravidade local é de 10,0 $m/s$², pode-se afirmar que a força de tração no cabo AC, nessas condições, será de\n[Image: Diagrama de uma escada apoiada em uma parede e no chão, com um cabo de aço na base e uma pessoa na escada. Ponto B no topo da escada (parede), Ponto C na base da escada (chão), Ponto A onde o cabo se prende ao chão. Ponto D onde a pessoa está. BC = 2,00m, AC = 1,00m, e a distância horizontal do ponto D à parede é 0,500m.]",
       subItens: []
     },
     options: [
@@ -1162,11 +1162,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "0,30 m/s.",
-      "1,00 m/s.",
-      "3,00 m/s.",
-      "6,00 m/s.",
-      "9,00 m/s."
+      "0,30 $m/s$.",
+      "1,00 $m/s$.",
+      "3,00 $m/s$.",
+      "6,00 $m/s$.",
+      "9,00 $m/s$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "Na associação de capacitores, esquematizada acima, a capacitância está indicada na figura para cada um dos capacitores. Assim, a capacitância equivalente, entre os pontos A e B no circuito, é\n[Image: Circuito com capacitores. Capacitores C e 2C em paralelo. Esses estão em série com um capacitor C. Capacitores C e C em paralelo. Estes estão em série com outro capacitor C/4. Tudo isso está entre os pontos A e B.]",
+      principal: "Na associação de capacitores, esquematizada acima, a capacitância está indicada na figura para cada um dos capacitores. Assim, a capacitância equivalente, entre os pontos A e B no circuito, é\n[Image: Circuito com capacitores. Capacitores C e 2C em paralelo. Esses estão em série com um capacitor C. Capacitores C e C em paralelo. Estes estão em série com outro capacitor $C/4$. Tudo isso está entre os pontos A e B.]",
       subItens: []
     },
     options: [
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "mackenzie",
     year: 2018,
     text: {
-      principal: "Um raio de luz monocromática de frequência f = 1,0 . 10^15 Hz, com velocidade v = 3,0 . 10^5 km/s, que se propaga no ar, cujo índice de refração é igual a 1, incide sobre uma lâmina de vidro (nvidro = √2), formando um ângulo 45° com a superfície da lâmina. O seno do ângulo de refração é",
+      principal: "Um raio de luz monocromática de frequência f = 1,0 . $10^15$ Hz, com velocidade v = 3,0 . $10^5$ $km/s$, que se propaga no ar, cujo índice de refração é igual a 1, incide sobre uma lâmina de vidro (nvidro = √2), formando um ângulo 45° com a superfície da lâmina. O seno do ângulo de refração é",
       subItens: []
     },
     options: [

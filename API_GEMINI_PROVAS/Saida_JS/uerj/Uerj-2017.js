@@ -463,7 +463,7 @@ createQuestion({
     university: "uerj",
     year: 2017,
     text: {
-      principal: "Para combater a subnutrição infantil, foi desenvolvida uma mistura alimentícia composta por três tipos de suplementos alimentares: I, II e III. Esses suplementos, por sua vez, contêm diferentes concentrações de três nutrientes: A, B e C. Observe as tabelas a seguir, que indicam a concentração de nutrientes nos suplementos e a porcentagem de suplementos na mistura, respectivamente.\nConcentração dos Suplementos Alimentares (g/kg)\nNutriente I II III\nA 0,2 0,5 0,4\nB 0,3 0,4 0,1\nC 0,1 0,4 0,5\nSuplemento Alimentar Quantidade na Mistura (%)\nI 45\nII 25\nIII 30\nA quantidade do nutriente C, em g/kg, encontrada na mistura alimentícia é igual a:",
+      principal: "Para combater a subnutrição infantil, foi desenvolvida uma mistura alimentícia composta por três tipos de suplementos alimentares: I, II e III. Esses suplementos, por sua vez, contêm diferentes concentrações de três nutrientes: A, B e C. Observe as tabelas a seguir, que indicam a concentração de nutrientes nos suplementos e a porcentagem de suplementos na mistura, respectivamente.\nConcentração dos Suplementos Alimentares ($g/kg$)\nNutriente I II III\nA 0,2 0,5 0,4\nB 0,3 0,4 0,1\nC 0,1 0,4 0,5\nSuplemento Alimentar Quantidade na Mistura (%)\nI 45\nII 25\nIII 30\nA quantidade do nutriente C, em $g/kg$, encontrada na mistura alimentícia é igual a:",
       subItens: []
     },
     options: [
@@ -523,7 +523,7 @@ createQuestion({
     university: "uerj",
     year: 2017,
     text: {
-      principal: "No esquema abaixo, estão representados um quadrado ABCD e um círculo de centro P e raio r, tangente às retas AB e BC. O lado do quadrado mede 3r.\n[IMAGEM DE QUADRADO E CÍRCULO COM ÂNGULO θ]\nA medida θ do ângulo CÂP pode ser determinada a partir da seguinte identidade trigonométrica:\ntg (α – β) = (tg(α) – tg(β)) / (1 + tg(α) x tg(β))\nO valor da tangente de θ é igual a:",
+      principal: "No esquema abaixo, estão representados um quadrado ABCD e um círculo de centro P e raio r, tangente às retas AB e BC. O lado do quadrado mede 3r.\n[IMAGEM DE QUADRADO E CÍRCULO COM ÂNGULO θ]\nA medida θ do ângulo CÂP pode ser determinada a partir da seguinte identidade trigonométrica:\n$\\tan$ (α – β) = ($\\tan$(α) – $\\tan$(β)) / (1 + $\\tan$(α) x $\\tan$(β))\nO valor da tangente de θ é igual a:",
       subItens: []
     },
     options: [
@@ -567,10 +567,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/12",
-      "7/12",
-      "13/24",
-      "17/24"
+      "$5/12$",
+      "$7/12$",
+      "$13/24$",
+      "$17/24$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -623,7 +623,7 @@ createQuestion({
     university: "uerj",
     year: 2017,
     text: {
-      principal: "Com base nas informações apresentadas no texto, a velocidade média de deslocamento da lama, do local onde ocorreu o rompimento da barragem até atingir o mar, em km/h, corresponde a:",
+      principal: "Com base nas informações apresentadas no texto, a velocidade média de deslocamento da lama, do local onde ocorreu o rompimento da barragem até atingir o mar, em $km/h$, corresponde a:",
       subItens: []
     },
     options: [
@@ -703,7 +703,7 @@ createQuestion({
     university: "uerj",
     year: 2017,
     text: {
-      principal: "Admita que a distância entre os eletrodos de um campo elétrico é de 20 cm e que a diferença de potencial efetiva aplicada ao circuito é de 6 V. Nesse caso, a intensidade do campo elétrico, em V/m, equivale a:",
+      principal: "Admita que a distância entre os eletrodos de um campo elétrico é de 20 cm e que a diferença de potencial efetiva aplicada ao circuito é de 6 V. Nesse caso, a intensidade do campo elétrico, em $V/m$, equivale a:",
       subItens: []
     },
     options: [
@@ -723,7 +723,7 @@ createQuestion({
     university: "uerj",
     year: 2017,
     text: {
-      principal: "Na análise de uma amostra da água de um reservatório, verificou-se a presença de dois contaminantes, nas seguintes concentrações:\nContaminante Concentração (mg/L)\nbenzeno 0,39\nmetanal 0,40\nEm análises químicas, o carbono orgânico total é uma grandeza que expressa a concentração de carbono de origem orgânica em uma amostra.\nAssim, com base nos dados da tabela, a concentração de carbono orgânico total na amostra de água examinada, em mg/L, é igual a:",
+      principal: "Na análise de uma amostra da água de um reservatório, verificou-se a presença de dois contaminantes, nas seguintes concentrações:\nContaminante Concentração ($mg/L$)\nbenzeno 0,39\nmetanal 0,40\nEm análises químicas, o carbono orgânico total é uma grandeza que expressa a concentração de carbono de origem orgânica em uma amostra.\nAssim, com base nos dados da tabela, a concentração de carbono orgânico total na amostra de água examinada, em $mg/L$, é igual a:",
       subItens: []
     },
     options: [
@@ -803,14 +803,14 @@ createQuestion({
     university: "uerj",
     year: 2017,
     text: {
-      principal: "Duas carretas idênticas, A e B, trafegam com velocidade de 50 km/h e 70 km/h, respectivamente. Admita que as massas dos motoristas e dos combustíveis são desprezíveis e que Eᴀ é a energia cinética da carreta A e Eʙ a da carreta B.\nA razão Eᴀ/Eʙ equivale a:",
+      principal: "Duas carretas idênticas, A e B, trafegam com velocidade de 50 $km/h$ e 70 $km/h$, respectivamente. Admita que as massas dos motoristas e dos combustíveis são desprezíveis e que Eᴀ é a energia cinética da carreta A e Eʙ a da carreta B.\nA razão Eᴀ/Eʙ equivale a:",
       subItens: []
     },
     options: [
-      "5/7",
-      "8/14",
-      "25/49",
-      "30/28"
+      "$5/7$",
+      "$8/14$",
+      "$25/49$",
+      "$30/28$"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -1103,7 +1103,7 @@ createQuestion({
     university: "uerj",
     year: 2017,
     text: {
-      principal: "Os refugiados são pessoas que escaparam de conflitos armados ou perseguições. Com frequência, sua situação é tão perigosa e intolerável que devem cruzar fronteiras internacionais para buscar segurança nos países mais próximos e então se tornar um \"refugiado\" reconhecido internacionalmente, com acesso à assistência dos Estados, da ACNUR (Agência da ONU para Refugiados) e de outras organizações.\nADRIAN EDWARDS\nAdaptado de acnur.org, outubro/2015.\nO conceito de refugiado, apresentado no texto, está diretamente associado aos problemas políticos e econômicos que afetam diversos países na atualidade.\nNos últimos anos, a região de origem que tem contribuído com o maior número de refugiados em direção a países da União Europeia é:",
+      principal: "Os refugiados são pessoas que escaparam de conflitos armados ou perseguições. Com frequência, sua situação é tão perigosa e intolerável que devem cruzar fronteiras internacionais para buscar segurança nos países mais próximos e então se tornar um \"refugiado\" reconhecido internacionalmente, com acesso à assistência dos Estados, da ACNUR (Agência da ONU para Refugiados) e de outras organizações.\nADRIAN EDWARDS\nAdaptado de acnur.org, $outubro/2015$.\nO conceito de refugiado, apresentado no texto, está diretamente associado aos problemas políticos e econômicos que afetam diversos países na atualidade.\nNos últimos anos, a região de origem que tem contribuído com o maior número de refugiados em direção a países da União Europeia é:",
       subItens: []
     },
     options: [

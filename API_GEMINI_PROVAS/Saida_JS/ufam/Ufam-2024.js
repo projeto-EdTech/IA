@@ -3,12 +3,12 @@ createQuestion({
     university: "ufam",
     year: 2024,
     text: {
-      principal: "Leia o excerto do texto a seguir, intitulado \"Cabeça Vazia\", de autoria de Rubem Alves, antes de responder às questões de 01 a 03, elaboradas a partir dele:\n\nCABEÇA VAZIA\nOs doutores nas coisas divinas sentenciaram que \"cabeça vazia é oficina do diabo\". E chegaram mesmo a inventar rezas a serem repetidas como realejo, só para encher a cabeça, tão logo ela fique vazia. Pensavam que, por esse modo, enchendo a cabeça com palavras, não ficaria espaço livre em que o diabo se alojasse.\nEu discordo. Quando a minha cabeça fica vazia, eu me vejo transformado em criança. Ponho-me a brincar. Brinco com as palavras. As palavras viram brinquedos.\nAssim, em herética e erótica oposição aos juízos teologais, afirmo a minha verdade humana e infantil: \"Cabeça vazia é um quarto de brinquedos\". Quando ela fica vazia, sem tarefas ou obrigações a cumprir, minha cabeça vira um menino e se põe a brincar com as palavras. Claro que aqueles que são graves e adultos e desaprenderam a arte de brincar ficam enlouquecidos no meio dos brinquedos e aí o diabo toma conta de corpo e alma. Pois o diabo não brinca. Ele é sempre grave. Então, você não sabia que palavras são brinquedos...\nBrinquedos são objetos curiosos. Não servem para nada. Diferentes das ferramentas e utensílios, que sempre servem para alguma coisa...\nUm pião, uma pipa, umas bolinhas de gude, um riscado de amarelinha, umas pedrinhas que se jogam para o alto e se pegam antes que caiam, umas bolas de sabão sopradas de um canudinho: não têm utilidade alguma. Servem só para brincar. Brinquedo é isto: um objeto que não serve para nada e nem é preciso que sirva, pois ele existe só para uma coisa: dar riso e alegria a quem brinca com ele. [...]\nALVES, Rubem. Ao professor, com carinho: a arte de pensar e do afeto. São Paulo: Planeta, 2021, p. 30.\n\nÉ CORRETO assumir que, ao declarar que os brinquedos \"Não servem para nada\", o autor:",
+      principal: "Leia o excerto do texto a seguir, intitulado \"Cabeça Vazia\", de autoria de Rubem Alves, antes de responder às questões de 01 a 03, elaboradas a partir dele:\n\nCABEÇA VAZIA\nOs doutores nas coisas divinas sentenciaram que \"cabeça vazia é oficina do diabo\". E chegaram mesmo a inventar rezas a serem repetidas como realejo, só para encher a cabeça, tão logo ela fique vazia. Pensavam que, por esse modo, enchendo a cabeça com palavras, não ficaria espaço livre em que o diabo se alojasse.\nEu discordo. Quando a minha cabeça fica vazia, eu me vejo transformado em criança. Ponho-me a brincar. Brinco com as palavras. As palavras viram brinquedos.\nAssim, em herética e erótica oposição aos juízos teologais, afirmo a minha verdade humana e infantil: \"Cabeça vazia é um quarto de brinquedos\". Quando ela fica vazia, sem tarefas ou obrigações a cumprir, minha cabeça vira um menino e se põe a brincar com as palavras. Claro que aqueles que são graves e adultos e desaprenderam a arte de brincar ficam enlouquecidos no meio dos brinquedos e aí o diabo toma conta de corpo e alma. Pois o diabo não brinca. Ele é sempre grave. Então, você não sabia que palavras são brinquedos...\nBrinquedos são objetos curiosos. Não servem para nada. Diferentes das ferramentas e utensílios, que sempre servem para alguma coisa...\nUm $\\pi$ão, uma pipa, umas bolinhas de gude, um riscado de amarelinha, umas pedrinhas que se jogam para o alto e se pegam antes que caiam, umas bolas de sabão sopradas de um canudinho: não têm utilidade alguma. Servem só para brincar. Brinquedo é isto: um objeto que não serve para nada e nem é preciso que sirva, pois ele existe só para uma coisa: dar riso e alegria a quem brinca com ele. [...]\nALVES, Rubem. Ao professor, com carinho: a arte de pensar e do afeto. São Paulo: Planeta, 2021, p. 30.\n\nÉ CORRETO assumir que, ao declarar que os brinquedos \"Não servem para nada\", o autor:",
       subItens: []
     },
     options: [
       "está se referindo exclusivamente às palavras, quando usadas \"só para encher a cabeça\" vazia, a fim de evitar que ela seja transformada em \"oficina do diabo\".",
-      "está se referindo unicamente a brinquedos como pião, pipa, bolinhas de gude, entre outros, porque eles estão associados a atividades desempenhadas por crianças desocupadas.",
+      "está se referindo unicamente a brinquedos como $\\pi$ão, pipa, bolinhas de gude, entre outros, porque eles estão associados a atividades desempenhadas por crianças desocupadas.",
       "faz uma crítica a quem não leva a vida com a devida responsabilidade, preocupando-se apenas com o lazer.",
       "incentiva os leitores a um comportamento adulto, admitindo, apenas de forma excepcional, que ajam como crianças.",
       "não entra em contradição (apesar de dizer que os brinquedos só existem para o riso e a alegria), porque seu objetivo é contrapor os brinquedos às ferramentas e aos utensílios, os quais diferentemente dos brinquedos teriam uma serventia prática."
@@ -108,7 +108,7 @@ createQuestion({
     university: "ufam",
     year: 2024,
     text: {
-      principal: "Considere o meme a seguir:\nUber: bom dia, qual o destino?\nEu: para a Universidade\nUber: blz, o que faz?\nEu: Engenharia\nUber: QUE LEGAL EU FIZ ENGENHARIA LÁ TAMBÉM\n[Image showing two figures labeled \"EU\", one seemingly happy/proud, the other looking deflated after the Uber driver's last comment.]\nEm relação ao diálogo reproduzido, considere as seguintes afirmativas:\nI. \"Uber\" é um dos participantes da conversação e foi assim referido, porque esse é o modo como os usuários de serviços de transporte por aplicativos se referem ao motorista que oferece esse tipo de serviço.\nII. O emprego de \"blz\", considerando-se o contexto em que foi publicado o meme (uma rede social) e o fato de que reproduz um diálogo informal, é inaceitável.\nIII. Embora não tenha sido dito, é possível inferir, do diálogo, que \"Eu\" ficou desapontado ao saber que \"Uber\" fez o curso de Engenharia na mesma universidade. Essa inferência é confirmada pela sequência de imagens no final.\nIV. O conteúdo geral do meme é uma crítica aos que decidem trabalhar com o serviço de transporte por aplicativos.\n\nAssinale a alternativa CORRETA:",
+      principal: "Considere o meme a seguir:\nUber: bom dia, qual o destino?\nEu: para a Universidade\nUber: blz, o que faz?\nEu: Engenharia\nUber: QUE LEGAL EU FIZ ENGENHARIA LÁ TAMBÉM\n[Image showing two figures labeled \"EU\", one seemingly $happy/proud$, the other looking deflated after the Uber driver's last comment.]\nEm relação ao diálogo reproduzido, considere as seguintes afirmativas:\nI. \"Uber\" é um dos participantes da conversação e foi assim referido, porque esse é o modo como os usuários de serviços de transporte por aplicativos se referem ao motorista que oferece esse tipo de serviço.\nII. O emprego de \"blz\", considerando-se o contexto em que foi publicado o meme (uma rede social) e o fato de que reproduz um diálogo informal, é inaceitável.\nIII. Embora não tenha sido dito, é possível inferir, do diálogo, que \"Eu\" ficou desapontado ao saber que \"Uber\" fez o curso de Engenharia na mesma universidade. Essa inferência é confirmada pela sequência de imagens no final.\nIV. O conteúdo geral do meme é uma crítica aos que decidem trabalhar com o serviço de transporte por aplicativos.\n\nAssinale a alternativa CORRETA:",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "ufam",
     year: 2024,
     text: {
-      principal: "\"Antes de os europeus tomarem conhecimento da África subsaariana, ou África Negra, como também se diz, existiram nela algumas sociedades que merecem ser lembradas. As principais se localizam na região que chamamos de Delta do Níger. (...) O primeiro império da África subsaariana que se tem notícia mais precisa é o Mali. Nele, Tombuctu, Jené e Gâo foram importantes cidades (...).\" SOUZA, Marina de Mello. África e Brasil africano - 3a.ed. - São Paulo: Ática, 2012, p. 35.\nApós a leitura do texto, é CORRETO afirmar que:",
+      principal: "\"Antes de os europeus tomarem conhecimento da África subsaariana, ou África Negra, como também se diz, existiram nela algumas sociedades que merecem ser lembradas. As principais se localizam na região que chamamos de $\\delta$ do Níger. (...) O primeiro império da África subsaariana que se tem notícia mais precisa é o Mali. Nele, Tombuctu, Jené e Gâo foram importantes cidades (...).\" SOUZA, Marina de Mello. África e Brasil africano - 3a.ed. - São Paulo: Ática, 2012, p. 35.\nApós a leitura do texto, é CORRETO afirmar que:",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "ufam",
     year: 2024,
     text: {
-      principal: "Observe com atenção a imagem a seguir, que apresenta a delimitação de uma área na superfície terrestre:\n[Image of a delimited area, possibly a rural property with green/brown tones. Text: 'Para realizar essa forma de delimitação, foi utilizada uma técnica cartográfica conhecida como:']\n\nPara realizar essa forma de delimitação, foi utilizada uma técnica cartográfica conhecida como:",
+      principal: "Observe com atenção a imagem a seguir, que apresenta a delimitação de uma área na superfície terrestre:\n[Image of a delimited area, possibly a rural property with $green/brown$ tones. Text: 'Para realizar essa forma de delimitação, foi utilizada uma técnica cartográfica conhecida como:']\n\nPara realizar essa forma de delimitação, foi utilizada uma técnica cartográfica conhecida como:",
       subItens: []
     },
     options: [
@@ -889,11 +889,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "20 km/h.",
-      "36 km/h.",
-      "54 km/h.",
-      "72 km/h.",
-      "90 km/h."
+      "20 $km/h$.",
+      "36 $km/h$.",
+      "54 $km/h$.",
+      "72 $km/h$.",
+      "90 $km/h$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -969,7 +969,7 @@ createQuestion({
     university: "ufam",
     year: 2024,
     text: {
-      principal: "Um estudante tem, em sua residência, internet com velocidade de 20 MB/s. Ele precisa fazer o download de uma coletânea de exercícios, cujo arquivo zipado tem 1,5 GB. Considerando que 1 GB = 1024 MB, podemos afirmar que o intervalo de tempo necessário para que o arquivo zipado seja completamente baixado, caso a velocidade da internet se mantenha constante, será de:",
+      principal: "Um estudante tem, em sua residência, internet com velocidade de 20 $MB/s$. Ele precisa fazer o download de uma coletânea de exercícios, cujo arquivo zipado tem 1,5 GB. Considerando que 1 GB = 1024 MB, podemos afirmar que o intervalo de tempo necessário para que o arquivo zipado seja completamente baixado, caso a velocidade da internet se mantenha constante, será de:",
       subItens: []
     },
     options: [

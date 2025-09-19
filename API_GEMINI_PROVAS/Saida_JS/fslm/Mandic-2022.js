@@ -423,7 +423,7 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Em um sistema solar diferente do nosso, um planeta possui um único satélite natural que descreve uma órbita circular de raio 334.000 km, percorrendo uma volta completa em 34,72 dias, o que representa, aproximadamente, 3,0 x 10⁶ s. Qual é a massa aproximada do planeta? Dados: π = 3, g = 10 m/s² / Constante gravitacional G = 6,67 x 10⁻¹¹ m³/kg.s²",
+      principal: "Em um sistema solar diferente do nosso, um planeta possui um único satélite natural que descreve uma órbita circular de raio 334.000 km, percorrendo uma volta completa em 34,72 dias, o que representa, aproximadamente, 3,0 x 10⁶ s. Qual é a massa aproximada do planeta? Dados: π = 3, g = 10 $m/s$² / Constante gravitacional G = 6,67 x 10⁻¹¹ m³/kg.s²",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "A maioria dos átomos conhecidos tem raio atômico da ordem de 1 Å (Ångstron). Quantas ordens de grandeza o raio atômico é menor que 1 metro? Dados: π = 3, g = 10 m/s²",
+      principal: "A maioria dos átomos conhecidos tem raio atômico da ordem de 1 Å (Ångstron). Quantas ordens de grandeza o raio atômico é menor que 1 metro? Dados: π = 3, g = 10 $m/s$²",
       subItens: []
     },
     options: [
@@ -465,15 +465,15 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Um lutador de judô aplica um golpe de modo que ele arremessa o centro de massa de seu adversário de 120 kg de uma altura de 1,6 m em direção ao solo com uma velocidade inicial vertical para baixo de 2 m/s. Durante o impacto com o solo o centro de massa do adversário se desloca 5 cm até parar. Qual a velocidade com que o adversário atinge o solo, e qual a força de impacto que o mesmo sofre, respectivamente? Dados: π = 3, g = 10 m/s²",
+      principal: "Um lutador de judô aplica um golpe de modo que ele arremessa o centro de massa de seu adversário de 120 kg de uma altura de 1,6 m em direção ao solo com uma velocidade inicial vertical para baixo de 2 $m/s$. Durante o impacto com o solo o centro de massa do adversário se desloca 5 cm até parar. Qual a velocidade com que o adversário atinge o solo, e qual a força de impacto que o mesmo sofre, respectivamente? Dados: π = 3, g = 10 $m/s$²",
       subItens: []
     },
     options: [
-      "5,7 m/s e 38988 N.",
-      "6,0 m/s e 43200 N.",
-      "2,0 m/s e 81600 N.",
-      "6,0 m/s e 81600 N.",
-      "5,7 m/s e 43200 N."
+      "5,7 $m/s$ e 38988 N.",
+      "6,0 $m/s$ e 43200 N.",
+      "2,0 $m/s$ e 81600 N.",
+      "6,0 $m/s$ e 81600 N.",
+      "5,7 $m/s$ e 43200 N."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -486,14 +486,14 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Carlos tem um chuveiro elétrico que em dias mais frios não aquece a água de maneira satisfatória. Na tentativa de obter água mais quente, Carlos procura por um resistor que forneça maior potência dissipada. Considerando que a tensão fornecida ao chuveiro é constante e o material utilizado para fabricar os resistores é o mesmo, que tipo de resistor Carlos deverá procurar? Dados: π = 3, g = 10 m/s²",
+      principal: "Carlos tem um chuveiro elétrico que em dias mais frios não aquece a água de maneira satisfatória. Na tentativa de obter água mais quente, Carlos procura por um resistor que forneça maior potência dissipada. Considerando que a tensão fornecida ao chuveiro é constante e o material utilizado para fabricar os resistores é o mesmo, que tipo de resistor Carlos deverá procurar? Dados: π = 3, g = 10 $m/s$²",
       subItens: []
     },
     options: [
-      "Resistor com menor resistência, ou seja, com fio mais curto e/ou área da seção transversal maior.",
-      "Resistor com maior resistência, ou seja, com fio mais curto e/ou área da seção transversal maior.",
-      "Resistor com menor resistência, ou seja, com fio mais longo e/ou área da seção transversal menor.",
-      "Resistor com maior resistência, ou seja, com fio mais longo e/ou área da seção transversal menor.",
+      "Resistor com menor resistência, ou seja, com fio mais curto $e/ou$ área da seção transversal maior.",
+      "Resistor com maior resistência, ou seja, com fio mais curto $e/ou$ área da seção transversal maior.",
+      "Resistor com menor resistência, ou seja, com fio mais longo $e/ou$ área da seção transversal menor.",
+      "Resistor com maior resistência, ou seja, com fio mais longo $e/ou$ área da seção transversal menor.",
       "A potência dissipada pelo resistor não está relacionada com a resistência."
     ],
     correctAnswer: 0,
@@ -507,7 +507,7 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Na figura abaixo, onde cada elemento da grade tem 1 cm de lado, vemos a propagação de um raio de luz do ar para o óleo. (A imagem mostra um plano quadriculado. Um ponto A está no \"ar\" e um ponto B no \"óleo\". Uma linha sólida (P) mostra um raio de luz refratando na interface entre ar e óleo com ângulos de 45° e 30°. Uma linha tracejada (Q) mostra um trajeto alternativo, direto entre A e B, sem refratar pelos ângulos corretos.) Considerando o trajeto que a luz realmente faz entre os pontos A e B, representado pela letra P e linha cheia, e um trajeto fictício representado pela letra Q e linha tracejada, responda: qual dos dois trajetos é percorrido no menor tempo e qual a diferença de tempo Δt = tQ - tP caso a luz percorresse cada um dos dois trajetos? Dados: π = 3, g = 10 m/s² / √2 = 1,41; √317 = 17,80; √520 = 22,80; c = 3x10¹⁰ cm/s; nar = 1",
+      principal: "Na figura abaixo, onde cada elemento da grade tem 1 cm de lado, vemos a propagação de um raio de luz do ar para o óleo. (A imagem mostra um plano quadriculado. Um ponto A está no \"ar\" e um ponto B no \"óleo\". Uma linha sólida (P) mostra um raio de luz refratando na interface entre ar e óleo com ângulos de 45° e 30°. Uma linha tracejada (Q) mostra um trajeto alternativo, direto entre A e B, sem refratar pelos ângulos corretos.) Considerando o trajeto que a luz realmente faz entre os pontos A e B, representado pela letra P e linha cheia, e um trajeto fictício representado pela letra Q e linha tracejada, responda: qual dos dois trajetos é percorrido no menor tempo e qual a diferença de tempo Δt = tQ - tP caso a luz percorresse cada um dos dois trajetos? Dados: π = 3, g = 10 $m/s$² / √2 = 1,41; √317 = 17,80; √520 = 22,80; c = 3x10¹⁰ $cm/s$; nar = 1",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Uma fonte termal injeta água a 90 °C no fundo de um lago cuja água está à temperatura de 35 °C e pode ser considerado um banho térmico, ou seja, sua capacidade calorífica tende ao infinito. A água da fonte troca calor com a água do lago de modo que sua temperatura cai linearmente 5 °C a cada metro que se afasta da fonte. A que distância da fonte a água que sai dela entra em equilíbrio térmico com o resto do lago? Quantas calorias cada litro de água cede para o lago nesse processo? Dados: π = 3, g = 10 m/s² / Calor específico da água = 1 cal/g °C.",
+      principal: "Uma fonte termal injeta água a 90 °C no fundo de um lago cuja água está à temperatura de 35 °C e pode ser considerado um banho térmico, ou seja, sua capacidade calorífica tende ao infinito. A água da fonte troca calor com a água do lago de modo que sua temperatura cai linearmente 5 °C a cada metro que se afasta da fonte. A que distância da fonte a água que sai dela entra em equilíbrio térmico com o resto do lago? Quantas calorias cada litro de água cede para o lago nesse processo? Dados: π = 3, g = 10 $m/s$² / Calor específico da água = 1 $cal/g$ °C.",
       subItens: []
     },
     options: [
@@ -549,7 +549,7 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Um restaurante requintado utiliza um varal de lâmpadas incandescentes amarelas para criar um clima aconchegante em seu lounge. O varal é composto por 50 lâmpadas de resistência r = 1 Ω ligadas em série, que é ligado a uma fonte que fornece 100 V de tensão constante. Um dia, pouco antes de abrir o restaurante, o gerente liga o varal e ele não acende. Ao inspecionar as lâmpadas, percebe que uma delas queimou e é esse o motivo do varal não ligar. Para resolver o problema rapidamente, o gerente remove o soquete com a lâmpada queimada e une o fio cortado de modo que, agora, o varal é composto por 49 lâmpadas ligadas em série. Ao ligar o varal à fonte novamente as luzes ligam, mas ele percebe que algo está diferente. Assinale a alternativa verdadeira. Dados: π = 3, g = 10 m/s²",
+      principal: "Um restaurante requintado utiliza um varal de lâmpadas incandescentes amarelas para criar um clima aconchegante em seu lounge. O varal é composto por 50 lâmpadas de resistência r = 1 Ω ligadas em série, que é ligado a uma fonte que fornece 100 V de tensão constante. Um dia, pouco antes de abrir o restaurante, o gerente liga o varal e ele não acende. Ao inspecionar as lâmpadas, percebe que uma delas queimou e é esse o motivo do varal não ligar. Para resolver o problema rapidamente, o gerente remove o soquete com a lâmpada queimada e une o fio cortado de modo que, agora, o varal é composto por 49 lâmpadas ligadas em série. Ao ligar o varal à fonte novamente as luzes ligam, mas ele percebe que algo está diferente. Assinale a alternativa verdadeira. Dados: π = 3, g = 10 $m/s$²",
       subItens: []
     },
     options: [
@@ -570,15 +570,15 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Uma bola rola sobre uma mesa plana sem atrito em velocidade constante, percorrendo 2 metros em 4 segundos, quando cai da mesa em direção ao solo se deslocando por 1 metro na vertical, tocando o solo novamente e continuando a rolar, sem atrito, agora sobre o solo. Desprezando a resistência do ar, considerando x como horizontal e y como vertical, qual dos gráficos abaixo NÃO representa o movimento descrito acima? Dados: π = 3, g = 10 m/s²",
+      principal: "Uma bola rola sobre uma mesa plana sem atrito em velocidade constante, percorrendo 2 metros em 4 segundos, quando cai da mesa em direção ao solo se deslocando por 1 metro na vertical, tocando o solo novamente e continuando a rolar, sem atrito, agora sobre o solo. Desprezando a resistência do ar, considerando x como horizontal e y como vertical, qual dos gráficos abaixo NÃO representa o movimento descrito acima? Dados: π = 3, g = 10 $m/s$²",
       subItens: []
     },
     options: [
       "Gráfico de velocidade (V) versus tempo (t). Mostra velocidade horizontal constante, caindo para zero e depois retornando ao valor constante original. (V vs t: const -> 0 -> const)",
       "Gráfico de velocidade (V) versus tempo (t). Mostra velocidade horizontal constante, diminuindo para um valor constante mais baixo, e depois subindo novamente para o valor inicial. (V vs t: const -> decrescente -> crescente)",
-      "Gráfico de aceleração vertical (a_y) versus tempo (t). Mostra aceleração nula, depois -10 m/s², e então nula novamente. (a_y vs t: 0 -> -10 -> 0)",
-      "Gráfico de velocidade vertical (V_y) versus tempo (t). Mostra velocidade nula, depois decaindo linearmente (negativa), e então saltando para zero. (V_y vs t: 0 -> decresce linearmente -> 0)",
-      "Gráfico de aceleração horizontal (a_x) versus tempo (t). Mostra aceleração sempre nula. (a_x vs t: 0 sempre)"
+      "Gráfico de aceleração vertical ($a_y$) versus tempo (t). Mostra aceleração nula, depois -10 $m/s$², e então nula novamente. ($a_y$ vs t: 0 -> -10 -> 0)",
+      "Gráfico de velocidade vertical ($V_y$) versus tempo (t). Mostra velocidade nula, depois decaindo linearmente (negativa), e então saltando para zero. ($V_y$ vs t: 0 -> decresce linearmente -> 0)",
+      "Gráfico de aceleração horizontal ($a_x$) versus tempo (t). Mostra aceleração sempre nula. ($a_x$ vs t: 0 sempre)"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -696,7 +696,7 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Observe a figura. (O gráfico \"Fig. 1- Variação do fator de van't Hoff (i) com a molaridade da solução (C/mol L⁻¹)\" mostra uma curva crescente, onde o fator de van't Hoff (i) aumenta com a concentração (C), passando por pontos como (0.02, 0.19), (0.04, 0.38), (0.06, 0.634), etc.) O primeiro trabalho referente à osmoscopia (PO; representada pela letra: π) foi apresentado em 1887 por W. Pfeffer. A medição em laboratório da PO de uma solução salina (Ma⁺X⁺b), de concentração em matéria, variando entre (0,001 ≤ Cmol L⁻¹ ≤ 0,1) mol L⁻¹, a 25 °C, forneceu medidas para o fator de van't Hoff no intervalo de 0,19 ≤ i ≤ 19. Na Figura 1 estão representados os valores do fator i como função da concentração das soluções estudadas. Considerando tais condições, é correto afirmar que a PO (π), se elaborado um gráfico de a como função da concentração, C (mol L⁻¹), para o referido sal, em todo o intervalo de concentração, se apresentará Dados: R= 0,0821 L atm mol⁻¹ K⁻¹",
+      principal: "Observe a figura. (O gráfico \"Fig. 1- Variação do fator de van't Hoff (i) com a molaridade da solução ($C/mol$ L⁻¹)\" mostra uma curva crescente, onde o fator de van't Hoff (i) aumenta com a concentração (C), passando por pontos como (0.02, 0.19), (0.04, 0.38), (0.06, 0.634), etc.) O primeiro trabalho referente à osmoscopia (PO; representada pela letra: π) foi apresentado em 1887 por W. Pfeffer. A medição em laboratório da PO de uma solução salina (Ma⁺X⁺b), de concentração em matéria, variando entre (0,001 ≤ Cmol L⁻¹ ≤ 0,1) mol L⁻¹, a 25 °C, forneceu medidas para o fator de van't Hoff no intervalo de 0,19 ≤ i ≤ 19. Na Figura 1 estão representados os valores do fator i como função da concentração das soluções estudadas. Considerando tais condições, é correto afirmar que a PO (π), se elaborado um gráfico de a como função da concentração, C (mol L⁻¹), para o referido sal, em todo o intervalo de concentração, se apresentará Dados: R= 0,0821 L atm mol⁻¹ K⁻¹",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Um analista de laboratório químico dispõe de uma solução de N(OH)₂ cujo rótulo apresenta os dados que seguem: 10 g do soluto, solubilizado em 110 g do solvente (H₂O). Ao lado dessas informações aparece escrito o teor de OH = 1,09 % (m/m). A partir dos valores apresentados, é correto afirmar que a concentração expressa em mol L⁻¹ e em título, %(m/m), em termos do composto N(OH)₂, são, respectivamente Dados: MMₙ= 226 g mol⁻¹; dsolução = 1,00001 g cm⁻³; T= 20,0 °C.",
+      principal: "Um analista de laboratório químico dispõe de uma solução de N(OH)₂ cujo rótulo apresenta os dados que seguem: 10 g do soluto, solubilizado em 110 g do solvente (H₂O). Ao lado dessas informações aparece escrito o teor de OH = 1,09 % ($m/m$). A partir dos valores apresentados, é correto afirmar que a concentração expressa em mol L⁻¹ e em título, %($m/m$), em termos do composto N(OH)₂, são, respectivamente Dados: MMₙ= 226 g mol⁻¹; dsolução = 1,00001 g cm⁻³; T= 20,0 °C.",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Leia o texto abaixo. \"O novo relatório do Painel Intergovernamental sobre Mudanças Climáticas (IPCC) indica que as emissões nocivas de carbono de 2010-2019 foram as mais altas na história da humanidade, com aumentos de emissões registrados \"em todos os principais setores do mundo\".\" Fonte: https://brasil.un.org/pt-br/176755-relatorio-climatico-da-onu-estamos-caminho-do-desastre-alerta-guterres O IPCC, em português Painel Intergovernamental sobre Mudanças Climáticas, é uma organização científico-político criada em 1988 pela Organização Meteorológica Mundial e por outro importante órgão internacional. Qual é o nome deste importante órgão internacional que auxiliou na fundação do IPCC?",
+      principal: "Leia o texto abaixo. \"O novo relatório do Painel Intergovernamental sobre Mudanças Climáticas (IPCC) indica que as emissões nocivas de carbono de 2010-2019 foram as mais altas na história da humanidade, com aumentos de emissões registrados \"em todos os principais setores do mundo\".\" Fonte: https://brasil.un.$org/pt$-$br/176755$-relatorio-climatico-da-onu-estamos-caminho-do-desastre-alerta-guterres O IPCC, em português Painel Intergovernamental sobre Mudanças Climáticas, é uma organização científico-político criada em 1988 pela Organização Meteorológica Mundial e por outro importante órgão internacional. Qual é o nome deste importante órgão internacional que auxiliou na fundação do IPCC?",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Leia o texto para responder a questão. \"A Ucrânia é atualmente um \"país-associado\" à Otan, o que significa que pode se unir à organização no futuro. Para o governo russo, a inclusão de seus vizinhos na aliança é uma tentativa dos americanos e das potências europeias de cercar seu território, o que configuraria uma ameaça à Rússia. \"Para os EUA e seus aliados, é a chamada política de detenção da Rússia, com óbvios dividendos políticos. E para nosso país, é uma questão de vida ou morte, é uma questão do nosso futuro histórico como povo. Não é exagero. É uma ameaça real não só aos nossos interesses, mas à própria existência do nosso Estado e sua soberania\", disse Putin ao anunciar a invasão da Ucrânia em 24/02.\" Fonte: https://www.bbc.com/portuguese/internacional-60580704 Sobre a OTAN, assinale a alternativa verdadeira.",
+      principal: "Leia o texto para responder a questão. \"A Ucrânia é atualmente um \"país-associado\" à Otan, o que significa que pode se unir à organização no futuro. Para o governo russo, a inclusão de seus vizinhos na aliança é uma tentativa dos americanos e das potências europeias de cercar seu território, o que configuraria uma ameaça à Rússia. \"Para os EUA e seus aliados, é a chamada política de detenção da Rússia, com óbvios dividendos políticos. E para nosso país, é uma questão de vida ou morte, é uma questão do nosso futuro histórico como povo. Não é exagero. É uma ameaça real não só aos nossos interesses, mas à própria existência do nosso Estado e sua soberania\", disse Putin ao anunciar a invasão da Ucrânia em $24/02$.\" Fonte: https://www.bbc.com/portuguese/internacional-60580704 Sobre a OTAN, assinale a alternativa verdadeira.",
       subItens: []
     },
     options: [
@@ -969,7 +969,7 @@ createQuestion({
     university: "fslm",
     year: 2022,
     text: {
-      principal: "Leia o texto para responder a questão. \"Viena, 30 Mai 2022 (AFP) - As reservas de urânio enriquecido acumuladas pelo Irã ultrapassam em mais de 18 vezes o limite autorizado pelo acordo internacional de 2015, segundo relatório da Agência Internacional de Energia Atômica (AIEA) consultado nesta segunda-feira pela AFP. Segundo estimativas de meados de maio, Teerã aumentou suas reservas totais para 3.809,3 kg, em comparação com 3.197,1 kg em fevereiro, longe do limite de 202,8 kg (ou 300 kg de um composto específico) em que estava comprometido.\" Fonte: https://noticias.uol.com.br/ultimas-noticias/afp/2022/05/30/reservas-de-uranio-enriquecido-no-ira-sao-18-vezes-superiores-ao-limite-permitido.htm Sobre o contexto histórico que tem levado o Irã a aumentar as reservas de urânio enriquecido, assinale a alternativa incorreta.",
+      principal: "Leia o texto para responder a questão. \"Viena, 30 Mai 2022 (AFP) - As reservas de urânio enriquecido acumuladas pelo Irã ultrapassam em mais de 18 vezes o limite autorizado pelo acordo internacional de 2015, segundo relatório da Agência Internacional de Energia Atômica (AIEA) consultado nesta segunda-feira pela AFP. Segundo estimativas de meados de maio, Teerã aumentou suas reservas totais para 3.809,3 kg, em comparação com 3.197,1 kg em fevereiro, longe do limite de 202,8 kg (ou 300 kg de um composto específico) em que estava comprometido.\" Fonte: https://noticias.uol.com.$br/ultimas$-noticias/afp/2022/05/30/reservas-de-uranio-enriquecido-no-ira-sao-18-vezes-superiores-ao-limite-permitido.htm Sobre o contexto histórico que tem levado o Irã a aumentar as reservas de urânio enriquecido, assinale a alternativa incorreta.",
       subItens: []
     },
     options: [
@@ -1246,11 +1246,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "\"A novidade que seria um sonho/O milagre risonho da sereia/virava um pesadelo tão medonho.\" (Gilberto Gil)",
-      "\"Ouça-me bem, amor/Preste atenção, o mundo é um moinho/Vai triturar teus sonhos, tão mesquinho/Vai reduzir as ilusões a pó.\" (Cartola)",
+      "\"A novidade que seria um $sonho/O$ milagre risonho da $sereia/virava$ um pesadelo tão medonho.\" (Gilberto Gil)",
+      "\"Ouça-me bem, $amor/Preste$ atenção, o mundo é um $moinho/Vai$ triturar teus sonhos, tão $mesquinho/Vai$ reduzir as ilusões a pó.\" (Cartola)",
       "\"Marcela amou-me durante quinze meses e onze contos de réis...\" (Machado de Assis)",
-      "\"Eu nunca mais vou respirar/Se você não me notar/Eu posso até morrer de fome/Se você não me amar.\" (Cazuza)",
-      "“E as borboletas sem voz/dançavam assim veludosamente.\" (Cecília Meireles)"
+      "\"Eu nunca mais vou $respirar/Se$ você não me $notar/Eu$ posso até morrer de $fome/Se$ você não me amar.\" (Cazuza)",
+      "“E as borboletas sem $voz/dan$çavam assim veludosamente.\" (Cecília Meireles)"
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],

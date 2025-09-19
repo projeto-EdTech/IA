@@ -12,7 +12,7 @@ createQuestion({
       "O elemento precedente ao qual essa oração acres-centa informações é Salário Mínimo.",
       "As vírgulas utilizadas para marcar o início e o fim dessa oração poderiam ser substituídas por parên-teses sem prejuízo do entendimento."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Análise Sintática", "Pontuação"],
     imageNames: []
@@ -32,7 +32,7 @@ createQuestion({
       "A Constituição brasileira prevê não somente o es-tabelecimento de um salário mínimo por lei, como também torna obrigatórios reajustes que garantam a recomposição de perdas.",
       "Segundo o DIEESE, ο Salário Mínimo Nacional não cumpre o artigo 7º, inciso IV, da Constituição da República Federativa do Brasil."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -52,7 +52,7 @@ createQuestion({
       "Na oração “o Salário Mínimo Necessário para sus-tentar uma família\", a palavra destacada cumpre a função de estabelecer uma relação de finalidade entre os termos que a precedem e aqueles que a sucedem.",
       "Na oração \"o Salário Mínimo Nacional foi de R$ 998,00\" seria gramaticalmente correta a intro-dução de uma vírgula antes do verbo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Coesão e Coerência", "Semântica", "Análise Sintática"],
     imageNames: []
@@ -72,7 +72,7 @@ createQuestion({
       "O referente que é retomado pelo termo \"aquele\" (\"define o salário mínimo como aquele fixado em lei\") é \"lei\".",
       "No trecho \"reajustes periódicos que preservem seu poder aquisitivo\", o termo destacado atua como um adjetivo, pois acrescenta uma característica ao substantivo \"reajustes\"."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Sintaxe", "Crase"],
     imageNames: []
@@ -92,7 +92,7 @@ createQuestion({
       "A vitória das figuras religiosas católicas sobre as entidades malignas indígenas, conflito que se de-senvolve até os momentos finais, é o tema central do Auto de Anchieta. Em função do horror causado pela punição a tais entidades, nos momentos finais o Temor de Deus como que conclama o público (indígena) a abandonar os costumes pecaminosos e a buscar a conversão: “O inferno/ com o seu fogo sempiterno,/ Já te espera,/ se não segues a ban-deira/ da cruz,/ sobre a qual morreu Jesus/ para que tua morte morra\".",
       "Auto de São Lourenço, do Padre José de Anchieta, é obra teatral jesuítica composta tendo como fina-lidade principal a conversão dos índios. Estruturada em cinco atos, a obra demonstra como, para atin-gir a finalidade buscada, Anchieta se apropria da cultura indígena (nomes, costumes, ambiente etc.) para desconstruí-la desde dentro. Prova disso é que as entidades demoníacas possuem nomes indí-genas (Guaixará, Aimberê e Saravaia), resultando em uma natural aversão da parte do público."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira (Arcadismo)", "Literatura Brasileira (Quinhentismo)", "Literatura Brasileira (Pe. Anchieta)", "Literatura Brasileira (Bocage)"],
     imageNames: []
@@ -112,7 +112,7 @@ createQuestion({
       "A forma é o elemento visual que expressa a quali-dade tátil das superfícies dos objetos.",
       "A cor, elemento importante da linguagem visual, forma-se a partir da ausência de luz."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Elementos Formais da Arte"],
     imageNames: []
@@ -127,12 +127,12 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Na música, a melodia é a combinação de sons mu-sicais organizados de forma sucessiva.",
+      "Na música, a melodia é a combinação de sons $\\mu$-sicais organizados de forma sucessiva.",
       "Na História da Música do período Barroco, as melo-dias eram monofônicas, sem acompanhamento ou notação rítmica sistematizada em partituras.",
       "Na Idade Média, a música religiosa conhecida como cantochão não tinha acompanhamento. Suas melo-dias fluíam livremente e o ritmo era executado de acordo com as acentuações das palavras cantadas.",
       "No contexto da Idade Média, a Igreja Cristã deti-nha uma vasta influência na criação e no desenvol-vimento da música."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Elementos da Música", "História da Música"],
     imageNames: []
@@ -152,7 +152,7 @@ createQuestion({
       "A Catedral de Notre Dame é um exemplo da Arqui-tetura Gótica do período da Arte Moderna.",
       "A Catedral de Notre Dame representa a Arquitetura Gótica francesa, com uso inovador de abóbadas com traves e suportes externos, vitrais de rosáceas e ornamentos esculpidos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História da Arte (Arquitetura Gótica)"],
     imageNames: []
@@ -172,7 +172,7 @@ createQuestion({
       "A Hagia Sophia - A Igreja da Sabedoria Sagrada -construída em Constantinopla pelo Imperador Jus-tiniano, ficou conhecida como um dos símbolos da arquitetura bizantina.",
       "Na Arte Bizantina, as figuras humanas eram repre-sentadas por meio de técnicas aprimoradas de pro-fundidade e movimento, possuíam grande expres-sividade individual e as temáticas priorizavam a to-tal separação entre religião e política."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História da Arte (Arte Bizantina)"],
     imageNames: []
@@ -192,7 +192,7 @@ createQuestion({
       "A função da música no meio indígena está direta-mente ligada à vida do agrupamento, não sendo possível a sua compreensão como manifestação individual.",
       "Cada tribo indígena possui instrumentos que lhes são próprios, pois refletem características próprias das culturas a que estão ligados. Distinguem-se entre si pela aparência, estrutura e ornamentação."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Arte Indígena Brasileira"],
     imageNames: []
@@ -212,7 +212,7 @@ createQuestion({
       "Uma grande novidade evolutiva foi o surgimento do envoltório nuclear (carioteca) nas células eucarióti-cas. A presença da carioteca permite a comparti-mentalização das células eucarióticas em nucleo-plasma e citoplasma.",
       "Com relação à hipótese endossimbiótica, os cientis-tas acreditam que as mitocôndrias e os cloroplastos descendem de bactérias primitivas que, durante a evolução, associaram-se e passaram a viver em simbiose com células eucarióticas primitivas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Células", "Teoria Endossimbiótica"],
     imageNames: []
@@ -232,7 +232,7 @@ createQuestion({
       "O glicocálice é formado por uma série de vitaminas ligadas às proteínas na face interna da membrana plasmática. Sua função exclusiva é de sinalização celular das moléculas do citoplasma e do núcleo.",
       "Em algumas bactérias, existe, além da membrana plasmática e da parede celular, outro envoltório externo: a cápsula, cuja espessura e a composição química variam de espécie para espécie que as possuem. Estes tipos de bactérias são chamadas de capsuladas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Células"],
     imageNames: []
@@ -252,7 +252,7 @@ createQuestion({
       "Todas as células eucarióticas se mantêm intima-mente ligadas umas as outras devido à existência das junções comunicantes, as quais são formadas por microtúbulos.",
       "A organização justaposta dos lipídeos que com-põem a lâmina basal é a principal estrutura de sus-tentação para as células do tecido muscular."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Células"],
     imageNames: []
@@ -272,7 +272,7 @@ createQuestion({
       "Cada miofibrila, representada em (III), correspon-de a um conjunto de dois tipos principais de miofi-lamentos (miosina e actina).",
       "Na contração muscular, as miofibrilas dos miofila-mentos encurtam consideravelmente de tamanho, enquanto os sarcômeros (I) se expandem."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Histologia", "Fisiologia (Contração Muscular)"],
     imageNames: []
@@ -292,7 +292,7 @@ createQuestion({
       "No momento em que o espermatozoide toca a membrana do ovócito II, ocorre a chamada reação cortical. Nessa reação, por exocitose, os grânulos corticais liberam enzimas que atuam na zona pelú-cida de modo a impedir a entrada de outros espermatozoides.",
       "Na fecundação, a partir do instante que o esperma-tozoide entra em contato com a corona radiata, esta passa a apresentar a reação acrossômica, em que enzimas do acrossomo são liberadas. As prin-cipais enzimas desse processo são a hialuronidase e a acrosina, que permitem ao espermatozoide chegar até a membrana plasmática do ovócito II."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Reprodução Humana"],
     imageNames: []
@@ -308,11 +308,11 @@ createQuestion({
     },
     options: [
       "A posição inicial do automóvel é 20 m.",
-      "A velocidade do automóvel em t = 3 s é 16 m/s.",
+      "A velocidade do automóvel em t = 3 s é 16 $m/s$.",
       "O movimento do automóvel é retilíneo e uniforme.",
       "Entre os intervalos de tempo t = 0s e t = 2 s, o automóvel percorreu uma distância de 36 m."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática (Movimento Retilíneo Uniformemente Variado)"],
     imageNames: []
@@ -327,12 +327,12 @@ createQuestion({
       subItens: []
     },
     options: [
-      "O módulo da aceleração de cada bloco é 1 m/s².",
+      "O módulo da aceleração de cada bloco é 1 $m/s$².",
       "O módulo da tensão que o fio exerce no bloco A é 4 N.",
       "Podemos afirmar que existem pelo menos 3 forças aplicadas no bloco A.",
       "O módulo da tensão exercida pelo fio é maior no bloco B em comparação à tensão exercida no bloco A."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Dinâmica (Leis de Newton)", "Dinâmica (Forças de Tensão)"],
     imageNames: []
@@ -343,16 +343,16 @@ createQuestion({
     university: "uepg",
     year: 2019,
     text: {
-      principal: "Um objeto com 2 kg de massa é lançado horizontalmen-te com uma velocidade de 3 m/s. Sabendo que a altura inicial do objeto em relação ao solo era 30 m e despre-zando efeitos dissipativos, assinale o que for correto.",
+      principal: "Um objeto com 2 kg de massa é lançado horizontalmen-te com uma velocidade de 3 $m/s$. Sabendo que a altura inicial do objeto em relação ao solo era 30 m e despre-zando efeitos dissipativos, assinale o que for correto.",
       subItens: []
     },
     options: [
-      "Para um tempo de 0,5 s após o lançamento, o mó-dulo da velocidade do objeto é 6 m/s.",
+      "Para um tempo de 0,5 s após o lançamento, o mó-dulo da velocidade do objeto é 6 $m/s$.",
       "A energia mecânica do objeto exatamente no início do lançamento era 609 J.",
       "A distância percorrida horizontalmente pelo objeto foi de 18 m.",
-      "Para um tempo de 2 s após o lançamento, a ener-gia potencial gravitacional do objeto era 1/3 da sua energia potencial inicial."
+      "Para um tempo de 2 s após o lançamento, a ener-gia potencial gravitacional do objeto era $1/3$ da sua energia potencial inicial."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Mecânica (Lançamento Horizontal)", "Mecânica (Energia Mecânica)"],
     imageNames: []
@@ -363,16 +363,16 @@ createQuestion({
     university: "uepg",
     year: 2019,
     text: {
-      principal: "Dois discos estão em contato de tal maneira que giram sem que haja deslizamento de um em relação ao outro, conforme figura abaixo. O disco maior gira com uma ve-locidade angular cujo módulo é 2 π rad/s e possui um raio de 40 cm. Sabendo que os dois discos giram com velocidades angulares constantes e que o raio do disco menor é 10 cm, assinale o que for correto.",
+      principal: "Dois discos estão em contato de tal maneira que giram sem que haja deslizamento de um em relação ao outro, conforme figura abaixo. O disco maior gira com uma ve-locidade angular cujo módulo é 2 π $rad/s$ e possui um raio de 40 cm. Sabendo que os dois discos giram com velocidades angulares constantes e que o raio do disco menor é 10 cm, assinale o que for correto.",
       subItens: []
     },
     options: [
       "O período de rotação do disco menor é 0,125 s.",
       "Se um dos discos girar no sentido horário, o outro irá girar no sentido anti-horário.",
       "O disco maior gira com uma frequência de 60 rpm.",
-      "O módulo da velocidade escalar linear de um ponto situado no disco menor, distante 5 cm do eixo de rotação do disco, é 40 π rad/s."
+      "O módulo da velocidade escalar linear de um ponto situado no disco menor, distante 5 cm do eixo de rotação do disco, é 40 π $rad/s$."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática (Movimento Circular)", "Cinemática (Engrenagens)"],
     imageNames: []
@@ -392,7 +392,7 @@ createQuestion({
       "Quanto mais afastado estiver um planeta do Sol, maior será o período de rotação desse planeta em torno do Sol.",
       "O modelo desenvolvido por Kepler é um modelo geocêntrico."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Gravitação (Leis de Kepler)"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "HBr, KOH, CaSO4 e Cr2O3.",
       "H2CO3, NH3, AlCl3 e Na2CO3."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Funções Inorgânicas"],
     imageNames: []
@@ -432,7 +432,7 @@ createQuestion({
       "O H3BO3 é o ácido bórico.",
       "O H2CO3 é o ácido carbônico."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Nomenclatura de Ácidos"],
     imageNames: []
@@ -452,7 +452,7 @@ createQuestion({
       "A 5 °C, apenas a amônia é líquida.",
       "A 25 °C, a água e o benzeno são líquidos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Estados Físicos da Matéria", "Propriedades Físicas (Ponto de Fusão e Ebulição)"],
     imageNames: []
@@ -463,7 +463,7 @@ createQuestion({
     university: "uepg",
     year: 2019,
     text: {
-      principal: "Abaixo, estão representados os elementos do grupo 1 da Tabela Periódica e seus respectivos números atômi-cos (Z). Sobre a distribuição eletrônica e suas proprie-dades periódicas, assinale o que for correto.\n\nLi | 3\nNa | 11\nK | 19\nRb | 37\nCs | 55\nFr | 87",
+      principal: "Abaixo, estão representados os elementos do grupo 1 da Tabela Periódica e seus respectivos números atômi-$\\cos$ (Z). Sobre a distribuição eletrônica e suas proprie-dades periódicas, assinale o que for correto.\n\nLi | 3\nNa | 11\nK | 19\nRb | 37\nCs | 55\nFr | 87",
       subItens: []
     },
     options: [
@@ -472,7 +472,7 @@ createQuestion({
       "O elemento mais reativo no grupo 1 é o Fr.",
       "A energia de ionização do Rb é maior do que a do K."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Tabela Periódica", "Propriedades Periódicas"],
     imageNames: []
@@ -492,7 +492,7 @@ createQuestion({
       "As ligações entre o átomo de enxofre e os átomos de O nas moléculas de SO2, SO3 e H2SO4 são cova-lentes.",
       "A solução formada a partir da dissolução do H2SO4 em água conduz corrente elétrica."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Ligações Químicas", "Geometria Molecular", "Polaridade das Moléculas", "Reações Químicas (Chuva Ácida)", "Eletroquímica"],
     imageNames: []
@@ -512,7 +512,7 @@ createQuestion({
       "140 alunos leram apenas Helena.",
       "300 alunos leram apenas um dos três livros."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Conjuntos", "Análise Combinatória"],
     imageNames: []
@@ -532,7 +532,7 @@ createQuestion({
       "Se h(x) = g(f(x)), então h¯¹(x) sempre existe.",
       "O vértice da função g(f(x)) tem coordenadas (-1,-9)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções (Composição de Funções)", "Raízes de Funções", "Vértice de Função Quadrática", "Função Inversa"],
     imageNames: []
@@ -543,16 +543,16 @@ createQuestion({
     university: "uepg",
     year: 2019,
     text: {
-      principal: "Considerando que a e b são as soluções do sistema abaixo, assinale o que for correto.\n\n3^(a+b) = 1/243\nlog3 a - log3 b = 1",
+      principal: "Considerando que a e b são as soluções do sistema abaixo, assinale o que for correto.\n\n3^(a+b) = $1/243$\nlog3 a - log3 b = 1",
       subItens: []
     },
     options: [
       "A abscissa do vértice da função f(x) = ax2 + bx + 5 é um número racional.",
       "A função g(x) = (3 - b)x é crescente.",
-      "A função m(x) = log_1(x + 2) é crescente.",
+      "A função m(x) = $\\log_1$(x + 2) é crescente.",
       "O domínio da função h(x) = sqrt((x-a)/(x-b)) pertence ao intervalo [1,3]."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Equações Exponenciais", "Logaritmos", "Funções (Função Quadrática)", "Funções (Função Exponencial)", "Funções (Função Logarítmica)", "Domínio de Funções"],
     imageNames: []
@@ -572,7 +572,7 @@ createQuestion({
       "Se h e b correspondem, respectivamente, ao pri-meiro termo e à razão de uma Progressão Aritmé-tica, então a7 = 54.",
       "A razão de uma Progressão Geométrica de a₁ = 2 e a3 = bé 4."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Plana (Retângulos)", "Progressão Aritmética (PA)", "Progressão Geométrica (PG)"],
     imageNames: []
@@ -583,7 +583,7 @@ createQuestion({
     university: "uepg",
     year: 2019,
     text: {
-      principal: "Considerando que A é o conjunto formado pelos zeros da função f(x) = x² - 4x + 3 e que B é o conjunto formado pelas soluções da equação exponencial 2^(2x) – 9.2^x + 8 = 0, assinale o que for correto.",
+      principal: "Considerando que A é o conjunto formado pelos zeros da função f(x) = x² - 4x + 3 e que B é o conjunto formado pelas soluções da equação exponencial 2^(2x) – 9.$2^x$ + 8 = 0, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -592,7 +592,7 @@ createQuestion({
       "n(A∩B) = 1.",
       "(AuØ) ∩ B = {3}."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções (Raízes de Função Quadrática)", "Equações Exponenciais", "Conjuntos"],
     imageNames: []
@@ -612,7 +612,7 @@ createQuestion({
       "Jornais e revistas.",
       "Documentos escolares e Processos-Crime."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Fontes Históricas"],
     imageNames: []
@@ -632,7 +632,7 @@ createQuestion({
       "Não houve escravidão indígena no Brasil. Apenas o africano foi obrigado a servir como escravo na Colônia e no Império.",
       "Navios negreiros era como se chamavam as em-barcações que traziam africanos escravizados para o Brasil."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História do Brasil (Escravidão)"],
     imageNames: []
@@ -652,7 +652,7 @@ createQuestion({
       "A economia egípcia tinha na agricultura sua princi-pal atividade.",
       "As pirâmides serviam de túmulos aos faraós e abrigavam os pertences destes quando morriam."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História Antiga (Egito Antigo)"],
     imageNames: []
@@ -672,7 +672,7 @@ createQuestion({
       "Registros arqueológicos indicam que os primeiros habitantes do atual território brasileiro se fixaram na região onde hoje fica o estado do Piauí.",
       "Elemento comum entre as colonizações inglesa, portuguesa e espanhola nas Américas foi a não utilização de ameríndios como escravos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Povos Indígenas (América Pré-Colombiana)", "Povos Indígenas (Povos Nativos do Brasil)"],
     imageNames: []
@@ -692,7 +692,7 @@ createQuestion({
       "O Partenon foi uma edificação erigida para abrigar a imagem da deusa Atena.",
       "A tragédia foi um dos gêneros que mais se desta-cou no teatro grego."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História Antiga (Grécia Antiga)"],
     imageNames: []
@@ -709,10 +709,10 @@ createQuestion({
     options: [
       "O território pode ser considerado um espaço onde se expressam relações de poder.",
       "A área de um município ou de um estado pode ser considerada território.",
-      "Leis e/ou regras são características de um território.",
+      "Leis $e/ou$ regras são características de um território.",
       "Os estados nacionais já exerceram disputas territo-riais, levando inclusive a diversas guerras."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Conceitos Geográficos (Território)"],
     imageNames: []
@@ -732,7 +732,7 @@ createQuestion({
       "A região do Pantanal Mato-Grossense, no Brasil, possui extensas áreas de planícies.",
       "As cordilheiras com as altitudes mais elevadas do planeta ficam na Europa."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geomorfologia (Relevo Brasileiro)", "Geomorfologia (Relevo Mundial)"],
     imageNames: []
@@ -752,7 +752,7 @@ createQuestion({
       "No Brasil, muitas pessoas tiram o seu sustento como catadores de materiais recicláveis, colocan-do, desse modo, sua saúde em risco.",
       "Os aterros sanitários, a reciclagem e a incineração são possíveis destinações para o lixo urbano."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Meio Ambiente (Gestão de Resíduos)"],
     imageNames: []
@@ -772,7 +772,7 @@ createQuestion({
       "O Budismo e o Hinduísmo são duas religiões surgi-das na Ásia que não possuem adeptos no Brasil.",
       "O Monoteísmo é pouco presente entre as religiões seguidas no Brasil atualmente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geografia Cultural (Diversidade Cultural e Religiosa)"],
     imageNames: []
@@ -792,7 +792,7 @@ createQuestion({
       "As pradarias são vegetações de mata fechada, com árvores de grande porte na maior parte de sua composição.",
       "As coníferas são árvores que possuem uma forma adaptada para facilitar que a neve deslize de suas copas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Biogeografia (Vegetação Mundial)", "Biogeografia (Biomas)"],
     imageNames: []
@@ -812,7 +812,7 @@ createQuestion({
       "O objetivo do diálogo irônico (como exercício do filosofar) era promover uma verdade absoluta e inquestionável.",
       "A ironia socrática traz como objetivo questionar o entendimento comum (fatos cotidianos)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Antiga (Sócrates)", "Maiêutica", "Ironia Socrática"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "O filósofo racionalista René Descartes expressa em suas ideias que o homem deve se ancorar na evidência de sua razão.",
       "Conforme o racionalismo, a razão humana se origi-na do conhecimento principiado em duas opera-ções: sensação e reflexão."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Teoria do Conhecimento (Racionalismo)", "Teoria do Conhecimento (Empirismo)", "John Locke", "René Descartes"],
     imageNames: []
@@ -852,7 +852,7 @@ createQuestion({
       "A primeira certeza alcançada por Descartes, por meio de sua dúvida metódica, foi o cogito.",
       "O objetivo cartesiano é demonstrar a impossibili-dade de qualquer afirmação."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Moderna (Descartes)", "Dualismo Cartesiano", "Cogito"],
     imageNames: []
@@ -872,7 +872,7 @@ createQuestion({
       "O movimento da ignorância ao saber traz como característica fundamental a busca contínua por esmiuçar a realidade.",
       "A atitude crítica filosófica busca a clareza ou um entendimento mais profundo sobre o assunto a ser investigado."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Introdução à Filosofia (Atitude Crítica)"],
     imageNames: []
@@ -892,7 +892,7 @@ createQuestion({
       "Os relatos expostos na mitologia grega trouxeram grandes inspirações e influências sobre as obras artísticas ocidentais.",
       "O termo mitologia refere-se a um conjunto de lendas atreladas às crenças."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia e Mitologia (Mitologia Grega)", "Filosofia e Mitologia (Tragédia Grega)"],
     imageNames: []
@@ -912,7 +912,7 @@ createQuestion({
       "Está atrelada a uma forte crítica aos problemas sociais derivados das revoluções do século XVIII, especialmente por meio de Durkheim, que propu-nha a superação do capitalismo.",
       "Max Weber defendia a aplicação do método científi-co para o estudo dos fenômenos sociais, sem qual-quer adaptação às especificidades da sociologia."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Fundamentos da Sociologia (Surgimento)", "Positivismo", "Émile Durkheim", "Max Weber"],
     imageNames: []
@@ -932,7 +932,7 @@ createQuestion({
       "Ocorre de forma mais intensa no final da vida, pois é quando o indivíduo tem mais maturidade para assimilar ensinamentos.",
       "É desencadeada por meio da complexa rede de relações sociais estabelecidas entre os indivíduos durante a vida."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Socialização"],
     imageNames: []
@@ -952,7 +952,7 @@ createQuestion({
       "A consciência sobre fazer parte de um grupo social é um elemento da identidade cultural.",
       "A diversidade cultural expressa as diferentes for-mas por meio das quais os grupos sociais se relacionam entre si e com a natureza."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Cultura e Sociedade (Cultura)", "Cultura e Sociedade (Diversidade Cultural)", "Cultura e Sociedade (Identidade Cultural)"],
     imageNames: []
@@ -972,7 +972,7 @@ createQuestion({
       "As instituições de reinserção costumam ser aciona-das quando os indivíduos descumprem leis ou têm um comportamento que coloca em risco a si pró-prios ou à sociedade.",
       "A função única dos presídios é punir o criminoso de maneira proporcional ao crime que cometeu."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Instituições Sociais (Socialização)", "Instituições Sociais (Instituições de Reinserção)"],
     imageNames: []
@@ -992,7 +992,7 @@ createQuestion({
       "O racismo e a discriminação contra negros conti-nuam a existir, apesar dos avanços no reconheci-mento da importância africana na formação do povo brasileiro.",
       "O senso comum tende a tratar de forma homogê-nea a história e influência africana, desconsideran-do a diversidade do continente."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Cultura e Identidade (Cultura Afro-Brasileira)", "Racismo"],
     imageNames: []
@@ -1012,7 +1012,7 @@ createQuestion({
       "Ambos têm dezessete anos.",
       "Eles se dirigiram à parte mais nova e mais tranqui-la da cidade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -1032,7 +1032,7 @@ createQuestion({
       "If you want to learn Spanish, don't go to Spain!",
       "A good way to learn Spanish is going to Spain!"
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática"],
     imageNames: []
@@ -1050,9 +1050,9 @@ createQuestion({
       "Trata-se de um numeral ordinal, um numeral cardinal e um pronome possessivo.",
       "Podem ser assim traduzidos: quarto, décimo séti-mo e eles.",
       "São uma preposição de lugar, um numeral ordinal e um pronome pessoal.",
-      "Poderiam ser traduzidos por quarto, dezessete e deles/seu."
+      "Poderiam ser traduzidos por quarto, dezessete e $deles/seu$."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário", "Gramática"],
     imageNames: []
@@ -1072,7 +1072,7 @@ createQuestion({
       "Todos os jovens moravam em Liverpool, na Ingla-terra.",
       "Dos oito jovens, apenas Dave e Kim estudavam espanhol."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -1092,7 +1092,7 @@ createQuestion({
       "Sua tradução seria ela não entendeu ou ela não entendia.",
       "Ele se refere apenas a Kim."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática (Verbos)", "Gramática (Tempos Verbais)"],
     imageNames: []

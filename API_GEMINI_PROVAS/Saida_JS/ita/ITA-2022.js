@@ -24,7 +24,7 @@ createQuestion({
     university: "ita",
     year: 2022,
     text: {
-      principal: "A bola A, de massa m, é liberada a partir do repouso de um edifício exatamente quando a bola B, de massa 3m, é lançada verticalmente para cima a partir do solo. As duas bolas colidem quando a bola A tem o dobro da velocidade de B e sentido oposto. O coeficiente de restituição da colisão é dado por e = 0,5. Determine a razão das velocidades, |vA/vB|, logo após o choque.",
+      principal: "A bola A, de massa m, é liberada a partir do repouso de um edifício exatamente quando a bola B, de massa 3m, é lançada verticalmente para cima a partir do solo. As duas bolas colidem quando a bola A tem o dobro da velocidade de B e sentido oposto. O coeficiente de restituição da colisão é dado por e = 0,5. Determine a razão das velocidades, |$vA/vB$|, logo após o choque.",
       subItens: []
     },
     options: [
@@ -49,13 +49,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "PL/Ph",
-      "PhL/P",
-      "PL/Ph",
-      "2PL/Ph",
-      "3PL/Ph"
+      "$PL/Ph$",
+      "$PhL/P$",
+      "$PL/Ph$",
+      "$2PL/Ph$",
+      "$3PL/Ph$"
     ],
-    correctAnswer: -23,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Estática e Momento de Força"],
     imageNames: []
@@ -70,11 +70,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "mg(1+2H/R)",
-      "mg(1+H/R)",
+      "mg(1+$2H/R$)",
+      "mg(1+$H/R$)",
       "mg",
-      "mg(1-H/R)",
-      "mg(1-2H/R)"
+      "mg(1-$H/R$)",
+      "mg(1-$2H/R$)"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -134,10 +134,10 @@ createQuestion({
     },
     options: [
       "0",
-      "2πl/T",
-      "2πl/3T",
-      "√8/3 × πl/T",
-      "√8/27 × πl/T"
+      "2π$l/T$",
+      "2π$l/3T$",
+      "√$8/3$ × π$l/T$",
+      "√$8/27$ × π$l/T$"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -160,7 +160,7 @@ createQuestion({
       "180°C < T < 230 °C",
       "230°C < T < 280 °C"
     ],
-    correctAnswer: -23,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica", "Dilatação Térmica", "Óptica"],
     imageNames: []
@@ -234,7 +234,7 @@ createQuestion({
     university: "ita",
     year: 2022,
     text: {
-      principal: "Considere o movimento de um objeto de massa m = 1,0 g, positivamente carregado, com carga q = 20,0 µC, na presença do campo gravitacional da superfície terrestre, g, e de um campo eletromagnético dado por B = B k̂ , E = Ey ĵ + Ez k̂, em que B = 1,00 T, Ey = 100 N/C e Ez = 800 N/C. O eixo z corresponde à direção vertical para cima. Sabendo que a partícula partiu da origem do sistema de coordenada com velocidade v⃗ , escrita em termos de suas componentes paralela e perpendicular a B⃗ , ou seja, v⃗ = v∥ + v⊥, sendo v∥ = 2,0 m/s e v⊥ = 1,0 m/s, calcule o tempo necessário para ela atingir a posição z = 1,0 m.",
+      principal: "Considere o movimento de um objeto de massa m = 1,0 g, positivamente carregado, com carga q = 20,0 µC, na presença do campo gravitacional da superfície terrestre, g, e de um campo eletromagnético dado por B = B k̂ , E = Ey ĵ + Ez k̂, em que B = 1,00 T, Ey = 100 $N/C$ e Ez = 800 $N/C$. O eixo z corresponde à direção vertical para cima. Sabendo que a partícula partiu da origem do sistema de coordenada com velocidade v⃗ , escrita em termos de suas componentes paralela e perpendicular a B⃗ , ou seja, v⃗ = v∥ + v⊥, sendo v∥ = 2,0 $m/s$ e v⊥ = 1,0 $m/s$, calcule o tempo necessário para ela atingir a posição z = 1,0 m.",
       subItens: []
     },
     options: [
@@ -262,7 +262,7 @@ createQuestion({
       "C",
       "2C",
       "3C",
-      "8 C/3",
+      "8 $C/3$",
       "8C"
     ],
     correctAnswer: 2,
@@ -448,7 +448,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "'Eta vida besta, meu Deus.’ (‘Cidadezinha qualquer’).",
+      "'$\\eta$ vida besta, meu Deus.’ (‘Cidadezinha qualquer’).",
       "‘Amanhecem de novo as antigas manhãs/ que não vivi jamais, pois jamais me sorriram.’ (‘Campo de flores’).",
       "‘Não cantarei amores que não tenho,/ e, quando tive, nunca celebrei.’ (‘Nudez’).",
       "'E como ficou chato ser moderno./ Agora serei eterno.’ (‘Eterno’).",
@@ -496,7 +496,7 @@ createQuestion({
       "o poeta jamais demonstra dúvidas relativamente ao amor, conforme atestam os versos: 'Amarei mesmo Fulana?/ ou é ilusão de sexo?' ('O mito').",
       "o poeta não evita o tema da memória e só trata da expectativa do futuro, como atestam os versos: 'Amanhecem de novo as antigas manhãs/ que não vivi jamais, pois jamais me sorriram.' ('Campo de flores')."
     ],
-    correctAnswer: -23,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira (Carlos Drummond de Andrade)", "Análise da Obra"],
     imageNames: []
@@ -675,7 +675,7 @@ createQuestion({
     university: "ita",
     year: 2022,
     text: {
-      principal: "Leia o texto destacado para responder às questões 33 e 34.\n'Jaap Wagelaar was my all-time favorite secondary school teacher. He gave me a 10/10 for my oral Dutch literature exam, taught psychoanalysis during grammar class, astounded pupils with odd puppet show performances during lunch breaks and sadly ended his career with a burn-out. Few students and fellow teachers understood him. But since I trusted his judgment like nobody else’s, I once asked him why Piet Paaltjens and Gerard Reve, both canonized Dutch literary figures, albeit of very divergent genres, could occasionally be kind or ironic but were most often rather cynical, cold and heartless. The response he gave has stuck with me ever since: cynical people are in fact the most emotional ones. Because of their sentimentality they are unable to handle injustice and feel forced to build up a self-protective screen against painful emotions called cynicism. Irony is mild, harmless and green. Sarcasm is biting and represents an orange traffic light. And the color of cynicism is deep red, with the shape of a grim scar that hides a hurt soul. They are all equally beautiful. These words again came to my mind when thinking back on the dozens of ironic, sarcastic and cynical memes about underperforming politicians and policy scandals disseminated over the past year. Who has not seen the image of Donald Trump walking through a desolate, scorched forest mumbling to himself: 'My work here is almost done? Who has not read the scathing reports of Flemish Ministers Bart Somers and Hilde Crevits escaping from a window aided by an unidentified third person after a meeting of the Council of Ministers to avoid critical journalists with the defense that they urgently needed to go on holiday and windows are faster than doors? Who has not come across the video announcement for a fictitious thriller called Angstra Zeneca with Dutch Health Minister Hugo de Jonge exclaiming 'ik heb er zo'n kankerbende van gemaakt (I have made it all a cancerous mess) with a grimace stretching from ear to ear? And who has missed the most recent true story tragicomedy played by Charles Michel, male President of the European Council, and Ursula von der Leyen, female President of the European Commission, who had jointly been invited by Turkish President Recep Tayyip Erdogan to discuss the position of women in Turkey? Unfortunately, they were only offered one chair for two people, which was symbolically occupied by Michel who left Von der Leyen standing awkwardly for a while. She ended up settling for a place on the comfortable sofa reserved for second rank guests. It was damned easy to get addicted to these countless videos, photos, images and written parodies. Oh, did we have fun with them! Some were ironic, some sarcastic and others cynical, but they jointly sketch a disconcerting image of the quality and reputation of key politicians in liberal Western democracies.\nFonte: https://www.eur.nl/en/news/. Publicado em 16/04/2021. Acesso em 29/08/21. Adaptado.'\nO termo 'albeit', destacado em itálico no excerto do primeiro parágrafo, 'both canonized Dutch literary figures albeit of very divergent genres', tem sentido equivalente a",
+      principal: "Leia o texto destacado para responder às questões 33 e 34.\n'Jaap Wagelaar was my all-time favorite secondary school teacher. He gave me a $10/10$ for my oral Dutch literature exam, taught psychoanalysis during grammar class, astounded pupils with odd puppet show performances during lunch breaks and sadly ended his career with a burn-out. Few students and fellow teachers understood him. But since I trusted his judgment like nobody else’s, I once asked him why Piet Paaltjens and Gerard Reve, both canonized Dutch literary figures, albeit of very divergent genres, could occasionally be kind or ironic but were most often rather cynical, cold and heartless. The response he gave has stuck with me ever since: cynical people are in fact the most emotional ones. Because of their sentimentality they are unable to handle injustice and feel forced to build up a self-protective screen against painful emotions called cynicism. Irony is mild, harmless and green. Sarcasm is biting and represents an orange traffic light. And the color of cynicism is deep red, with the shape of a grim scar that hides a hurt soul. They are all equally beautiful. These words again came to my mind when thinking back on the dozens of ironic, sarcastic and cynical memes about underperforming politicians and policy scandals disseminated over the past year. Who has not seen the image of Donald Trump walking through a desolate, scorched forest mumbling to himself: 'My work here is almost done? Who has not read the scathing reports of Flemish Ministers Bart Somers and Hilde Crevits escaping from a window aided by an unidentified third person after a meeting of the Council of Ministers to avoid critical journalists with the defense that they urgently needed to go on holiday and windows are faster than doors? Who has not come across the video announcement for a fictitious thriller called Angstra Zeneca with Dutch Health Minister Hugo de Jonge exclaiming 'ik heb er zo'n kankerbende van gemaakt (I have made it all a cancerous mess) with a grimace stretching from ear to ear? And who has missed the most recent true story tragicomedy played by Charles Michel, male President of the European Council, and Ursula von der Leyen, female President of the European Commission, who had jointly been invited by Turkish President Recep Tayyip Erdogan to discuss the position of women in Turkey? Unfortunately, they were only offered one chair for two people, which was symbolically occupied by Michel who left Von der Leyen standing awkwardly for a while. She ended up settling for a place on the comfortable sofa reserved for second rank guests. It was damned easy to get addicted to these countless videos, photos, images and written parodies. Oh, did we have fun with them! Some were ironic, some sarcastic and others cynical, but they jointly sketch a disconcerting image of the quality and reputation of key politicians in liberal Western democracies.\nFonte: https://www.eur.nl/en/news/. Publicado em 16/04/2021. Acesso em 29/08/21. Adaptado.'\nO termo 'albeit', destacado em itálico no excerto do primeiro parágrafo, 'both canonized Dutch literary figures albeit of very divergent genres', tem sentido equivalente a",
       subItens: []
     },
     options: [
@@ -975,7 +975,7 @@ createQuestion({
     options: [
       "Nunca determina uma progressão aritmética.",
       "Pode determinar uma progressão aritmética apenas se r = 0.",
-      "Pode determinar uma progressão aritmética apenas se r = 0 ou se r = √3/3.",
+      "Pode determinar uma progressão aritmética apenas se r = 0 ou se r = √$3/3$.",
       "Pode determinar uma progressão aritmética para infinitos valores distintos de r.",
       "Determina uma progressão aritmética para todo x ∈ R como no enunciado."
     ],
@@ -1015,11 +1015,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "l√2/12.",
-      "l√3/12.",
-      "5l√2/12.",
-      "5l√3/12.",
-      "l√3/6."
+      "l√$2/12$.",
+      "l√$3/12$.",
+      "5l√$2/12$.",
+      "5l√$3/12$.",
+      "l√$3/6$."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1078,11 +1078,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4/9.",
-      "1/2.",
-      "2/3.",
-      "1/14.",
-      "3/7."
+      "$4/9$.",
+      "$1/2$.",
+      "$2/3$.",
+      "$1/14$.",
+      "$3/7$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "ita",
     year: 2022,
     text: {
-      principal: "Sejam α, β e θ ângulos internos de um triângulo. Se cos(β + θ) < cos(α + 2β), podemos afirmar que:",
+      principal: "Sejam α, β e θ ângulos internos de um triângulo. Se $\\cos$(β + θ) < $\\cos$(α + 2β), podemos afirmar que:",
       subItens: []
     },
     options: [
@@ -1116,7 +1116,7 @@ createQuestion({
     university: "ita",
     year: 2022,
     text: {
-      principal: "O número de soluções reais e distintas da equação cos²(2x) = 3 - cos(x) – 5 cos²(x) no intervalo [0, 2π[ é",
+      principal: "O número de soluções reais e distintas da equação $\\cos$²(2x) = 3 - $\\cos$(x) – 5 $\\cos$²(x) no intervalo [0, 2π[ é",
       subItens: []
     },
     options: [
@@ -1141,11 +1141,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "m(AC) = √5/5.",
-      "m(AC) = 2√5/5.",
-      "m(AC) = 4√5/5.",
-      "m(AC) = 8√5/5.",
-      "m(AC) = 14√5/5."
+      "m(AC) = √$5/5$.",
+      "m(AC) = 2√$5/5$.",
+      "m(AC) = 4√$5/5$.",
+      "m(AC) = 8√$5/5$.",
+      "m(AC) = 14√$5/5$."
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -1252,7 +1252,7 @@ createQuestion({
       "Glicose",
       "Lactose"
     ],
-    correctAnswer: -23,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Soluções", "Propriedades Coligativas", "Ebulioscopia"],
     imageNames: []
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "ita",
     year: 2022,
     text: {
-      principal: "Sistemas compostos por água e tensoativos em diferentes proporções, depois de homogeneizados, passam por um processo termodinâmico quando atingem temperaturas em torno de 0 °C. A variação de entalpia (ΔH) desse processo foi determinada para cada mistura em função da composição do sistema, conforme apresentado no gráfico. Considere que o ponto de fusão do tensoativo puro é menor que -20 °C e o calor latente de fusão da água pura é 334 J·g⁻¹. Sobre esses sistemas são feitas as seguintes afirmações:\nI. O ΔH refere-se à transição de fase do tensoativo.\nII. O calor latente de fusão do tensoativo puro é -180 J·g⁻¹.\nIII. Até 35% em massa de água pode se apresentar na forma associada à substância e não funde.\nIV. O ΔH é proporcional à quantidade de água não associada ao tensoativo.\nCom base no gráfico e nas informações do enunciado, assinale a opção que indica a(s) afirmação(ões) CORRETA(S).\n[Graph of ΔH (J/g) vs % em massa de tensoativo]",
+      principal: "Sistemas compostos por água e tensoativos em diferentes proporções, depois de homogeneizados, passam por um processo termodinâmico quando atingem temperaturas em torno de 0 °C. A variação de entalpia (ΔH) desse processo foi determinada para cada mistura em função da composição do sistema, conforme apresentado no gráfico. Considere que o ponto de fusão do tensoativo puro é menor que -20 °C e o calor latente de fusão da água pura é 334 J·g⁻¹. Sobre esses sistemas são feitas as seguintes afirmações:\nI. O ΔH refere-se à transição de fase do tensoativo.\nII. O calor latente de fusão do tensoativo puro é -180 J·g⁻¹.\nIII. Até 35% em massa de água pode se apresentar na forma associada à substância e não funde.\nIV. O ΔH é proporcional à quantidade de água não associada ao tensoativo.\nCom base no gráfico e nas informações do enunciado, assinale a opção que indica a(s) afirmação(ões) CORRETA(S).\n[Graph of ΔH ($J/g$) vs % em massa de tensoativo]",
       subItens: []
     },
     options: [

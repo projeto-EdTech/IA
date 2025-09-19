@@ -150,7 +150,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "08- Observe a tabela ao lado.\n\n[IMAGEM: Tabela com o título \"Taxa média anual de variação da produtividade por trabalhador ocupado na indústria de transformação (em porcentagem)\" e os dados:\nBrasil 1970/2011\n1970/1980: 2,4\n1980/1990: -0,1\n1990/2000: 6,5\n2000/2011: 0,3\nFonte: FONSECA, R. Produtividade e crescimento da indústria brasileira. Revista Brasileira de Comércio Exterior, n. 112, jul.-set. 2012.]\n\nCom base na tabela e nos conhecimentos de Geografia Industrial, assinale a alternativa correta.",
+      principal: "08- Observe a tabela ao lado.\n\n[IMAGEM: Tabela com o título \"Taxa média anual de variação da produtividade por trabalhador ocupado na indústria de transformação (em porcentagem)\" e os dados:\nBrasil $1970/2011$\n$1970/1980$: 2,4\n$1980/1990$: -0,1\n$1990/2000$: 6,5\n$2000/2011$: 0,3\nFonte: FONSECA, R. Produtividade e crescimento da indústria brasileira. Revista Brasileira de Comércio Exterior, n. 112, jul.-set. 2012.]\n\nCom base na tabela e nos conhecimentos de Geografia Industrial, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -192,7 +192,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "10 - Um veículo está se movendo ao longo de uma estrada plana e retilínea. Sua velocidade em função do tempo, para um trecho do percurso, foi registrada e está mostrada no gráfico ao lado. Considerando que em t = 0 a posição do veículo s é igual a zero, assinale a alternativa correta para a sua posição ao final dos 45 s.\n\n[IMAGEM: Gráfico de velocidade (V, em m/s) em função do tempo (t, em s). A velocidade começa em 0, sobe para 36 m/s em t=5s, mantém 36 m/s até t=10s, desce para -10 m/s em t=15s, mantém -10 m/s até t=20s, sobe para 8 m/s em t=25s, mantém 8 m/s até t=30s, desce para 0 m/s em t=35s, mantém 0 m/s até t=40s, e sobe para 36 m/s em t=45s.]",
+      principal: "10 - Um veículo está se movendo ao longo de uma estrada plana e retilínea. Sua velocidade em função do tempo, para um trecho do percurso, foi registrada e está mostrada no gráfico ao lado. Considerando que em t = 0 a posição do veículo s é igual a zero, assinale a alternativa correta para a sua posição ao final dos 45 s.\n\n[IMAGEM: Gráfico de velocidade (V, em $m/s$) em função do tempo (t, em s). A velocidade começa em 0, sobe para 36 $m/s$ em t=5s, mantém 36 $m/s$ até t=10s, desce para -10 $m/s$ em t=15s, mantém -10 $m/s$ até t=20s, sobe para 8 $m/s$ em t=25s, mantém 8 $m/s$ até t=30s, desce para 0 $m/s$ em t=35s, mantém 0 $m/s$ até t=40s, e sobe para 36 $m/s$ em t=45s.]",
       subItens: []
     },
     options: [
@@ -213,14 +213,14 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "11 - Um objeto de massa m está em movimento circular, deslizando sobre um plano inclinado. O objeto está preso em uma das extremidades de uma corda de comprimento L, cuja massa e elasticidade são desprezíveis. A outra extremidade da corda está fixada na superfície de um plano inclinado, conforme indicado na figura a seguir. O plano inclinado faz um ângulo θ = 30° em relação ao plano horizontal. Considerando g a aceleração da gravidade e μ= 1 / (π√3) o coeficiente de atrito cinético entre a superfície do plano inclinado e o objeto, assinale a alternativa correta para a variação da energia cinética do objeto, em módulo, ao se mover do ponto P, cuja velocidade em módulo é vp, ao ponto Q, onde sua velocidade tem módulo vq.\n\n[IMAGEM: Diagrama mostrando um objeto de massa 'm' em um plano inclinado a 30° com a horizontal, preso por uma corda de comprimento 'L' a um ponto fixo na superfície. O objeto se move de um ponto P para um ponto Q em uma trajetória circular. O ponto P está mais abaixo no plano inclinado, e o ponto Q mais acima. Há um ângulo θ=30º indicado.]\n\nNa resolução desse problema considere sen 30° = 1/2 e cos 30° = √3/2.",
+      principal: "11 - Um objeto de massa m está em movimento circular, deslizando sobre um plano inclinado. O objeto está preso em uma das extremidades de uma corda de comprimento L, cuja massa e elasticidade são desprezíveis. A outra extremidade da corda está fixada na superfície de um plano inclinado, conforme indicado na figura a seguir. O plano inclinado faz um ângulo θ = 30° em relação ao plano horizontal. Considerando g a aceleração da gravidade e μ= 1 / (π√3) o coeficiente de atrito cinético entre a superfície do plano inclinado e o objeto, assinale a alternativa correta para a variação da energia cinética do objeto, em módulo, ao se mover do ponto P, cuja velocidade em módulo é vp, ao ponto Q, onde sua velocidade tem módulo vq.\n\n[IMAGEM: Diagrama mostrando um objeto de massa 'm' em um plano inclinado a 30° com a horizontal, preso por uma corda de comprimento 'L' a um ponto fixo na superfície. O objeto se move de um ponto P para um ponto Q em uma trajetória circular. O ponto P está mais abaixo no plano inclinado, e o ponto Q mais acima. Há um ângulo θ=30º indicado.]\n\nNa resolução desse problema considere $\\sin$ 30° = $1/2$ e $\\cos$ 30° = √$3/2$.",
       subItens: []
     },
     options: [
       "mgL.",
-      "(1/2) mgL.",
-      "(2/3) mgL.",
-      "(3/2) mgL.",
+      "($1/2$) mgL.",
+      "($2/3$) mgL.",
+      "($3/2$) mgL.",
       "2 mgL."
     ],
     correctAnswer: 4,
@@ -234,7 +234,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "12 - Um bloco B de massa 400 g está apoiado sobre um bloco A de massa 800 g, o qual está sobre uma superfície horizontal. Os dois blocos estão unidos por uma corda inextensível e sem massa, que passa por uma polia presa na parede, conforme ilustra a figura ao lado. O coeficiente de atrito cinético entre os dois blocos e entre o bloco A e a superfície horizontal é o mesmo e vale 0,35. Considerando a aceleração da gravidade igual a 10 m/s² e desprezando a massa da polia, assinale a alternativa correta para o módulo da força F necessária para que os dois blocos se movam com velocidade constante.\n\n[IMAGEM: Diagrama de dois blocos, B sobre A. Bloco A está sobre uma superfície horizontal. Uma corda conecta o bloco B (à direita) e passa por uma polia fixada na parede à direita, sendo puxada por uma força F (para a direita).]",
+      principal: "12 - Um bloco B de massa 400 g está apoiado sobre um bloco A de massa 800 g, o qual está sobre uma superfície horizontal. Os dois blocos estão unidos por uma corda inextensível e sem massa, que passa por uma polia presa na parede, conforme ilustra a figura ao lado. O coeficiente de atrito cinético entre os dois blocos e entre o bloco A e a superfície horizontal é o mesmo e vale 0,35. Considerando a aceleração da gravidade igual a 10 $m/s$² e desprezando a massa da polia, assinale a alternativa correta para o módulo da força F necessária para que os dois blocos se movam com velocidade constante.\n\n[IMAGEM: Diagrama de dois blocos, B sobre A. Bloco A está sobre uma superfície horizontal. Uma corda conecta o bloco B (à direita) e passa por uma polia fixada na parede à direita, sendo puxada por uma força F (para a direita).]",
       subItens: []
     },
     options: [
@@ -255,7 +255,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "13 O estudo da calorimetria e das leis da termodinâmica nos dá explicações para vários fenômenos encontrados na natureza. Considere o seguinte texto que apresenta a explicação, do ponto de vista dessas áreas da Física, para a formação das nuvens:\nQuando uma porção de ar aquecido sobe, contendo água que acabou de __________ da superfície, passa a estar submetida a uma pressão cada vez __________. A rápida variação na pressão provoca uma rápida expansão do ar junto com uma redução de seu/sua __________. Essa rápida expansão é considerada __________ isto é, sem troca de calor com sua vizinhança, porque ocorre muito rapidamente. O gás em expansão __________ energia interna ao se expandir, e isso acarreta seu resfriamento até atingir uma temperatura na qual a quantidade de vapor de água é suficiente para saturar o ar naquele ponto e assim formar as nuvens.\n\nAssinale a alternativa que preenche as lacunas corretamente.",
+      principal: "13 O estudo da calorimetria e das leis da termodinâmica nos dá explicações para vários fenômenos encontrados na natureza. Considere o seguinte texto que apresenta a explicação, do ponto de vista dessas áreas da Física, para a formação das nuvens:\nQuando uma porção de ar aquecido sobe, contendo água que acabou de __________ da superfície, passa a estar submetida a uma pressão cada vez __________. A rápida variação na pressão provoca uma rápida expansão do ar junto com uma redução de $seu/sua$ __________. Essa rápida expansão é considerada __________ isto é, sem troca de calor com sua vizinhança, porque ocorre muito rapidamente. O gás em expansão __________ energia interna ao se expandir, e isso acarreta seu resfriamento até atingir uma temperatura na qual a quantidade de vapor de água é suficiente para saturar o ar naquele ponto e assim formar as nuvens.\n\nAssinale a alternativa que preenche as lacunas corretamente.",
       subItens: []
     },
     options: [
@@ -276,7 +276,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "14- Para participar de um importante torneio, uma equipe de estudantes universitários desenvolveu um veículo aéreo não tripulado. O aparelho foi projetado de tal maneira que ele era capaz de se desviar de objetos através da emissão e recepção de ondas sonoras. A frequência das ondas sonoras emitidas por ele era constante e igual a 20 kHz. Em uma das situações da prova final, quando o aparelho movimentava-se em linha reta e com velocidade constante na direção de um objeto fixo, o receptor do veículo registrou o recebimento de ondas sonoras de frequência de 22,5 kHz que foram refletidas pelo objeto. Considerando que nesse instante o veículo se encontrava a 50 m do objeto, assinale a alternativa correta para o intervalo de tempo de que ele dispunha para se desviar e não colidir com o objeto. Considere a velocidade do som no ar igual a 340 m/s.",
+      principal: "14- Para participar de um importante torneio, uma equipe de estudantes universitários desenvolveu um veículo aéreo não tripulado. O aparelho foi projetado de tal maneira que ele era capaz de se desviar de objetos através da emissão e recepção de ondas sonoras. A frequência das ondas sonoras emitidas por ele era constante e igual a 20 kHz. Em uma das situações da prova final, quando o aparelho movimentava-se em linha reta e com velocidade constante na direção de um objeto fixo, o receptor do veículo registrou o recebimento de ondas sonoras de frequência de 22,5 kHz que foram refletidas pelo objeto. Considerando que nesse instante o veículo se encontrava a 50 m do objeto, assinale a alternativa correta para o intervalo de tempo de que ele dispunha para se desviar e não colidir com o objeto. Considere a velocidade do som no ar igual a 340 $m/s$.",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "36 - Leia o capítulo 6 de Lavoura arcaica, reproduzido abaixo.\n\nDesde minha fuga, era calando minha revolta (tinha contundência o meu silêncio! tinha textura a minha raiva!) que eu, a cada passo, me distanciava lá da fazenda, e se acaso distraído eu perguntasse \"para onde estamos indo?” – não importava que eu, erguendo os olhos, alcançasse paisagens muito novas, quem sabe menos ásperas, não importava que eu, caminhando, me conduzisse para regiões cada vez mais afastadas, pois haveria de ouvir claramente de meus anseios um juízo rígido, era um cascalho, um osso rigoroso, desprovido de qualquer dúvida: \"estamos indo sempre para casa\".\n\nNASSAR, Raduan. Lavoura arcaica. 3a ed. São Paulo: Companhia das Letras, 1989. pp.35/36.\n\nConsidere as seguintes afirmativas sobre a narrativa de Raduan Nassar, publicada pela primeira vez em 1975:\n\n1. Em Lavoura arcaica, não há marcação temporal do narrado e a narração não segue uma cronologia linear. Mesmo assim, o tempo é uma das questões centrais na tensão entre pai e filho, entre a pregação da contenção, da paciência e da obediência ao curso natural e soberano do tempo pelo patriarca e a reivindicação do direito à impaciência e à urgência pelo jovem filho.\n2. As duas epígrafes - \"Que culpa temos nós dessa planta da infância, de sua sedução, de seu viço e constância?\"; \"Vos são interditadas: vossas mães, vossas filhas, vossas irmãs,...\" - estabelecem uma relação com as duas linhagens da família: de um lado, o excesso de afeto materno; de outro, a imposição da ordem paterna.\n3. A relação incestuosa com a irmã Ana e a tentativa de levá-la consigo no abandono da casa paterna representam a rejeição de todos os laços familiares por parte de André e o desejo, sempre presente, de se distanciar da repressão paterna e abandonar a lavoura arcaica em busca do diferente na cidade moderna.\n4. Estamos indo sempre para casa, mas o retorno é sempre diferente. A cena habitual da festa familiar da primeira parte reaparece no final, com mudança apenas do tempo verbal. Dessa vez, no entanto, o fecho é diferente e trágico: o pai, símbolo da razão e do equilíbrio, cede à paixão e à loucura ao matar a própria filha.\n\nAssinale a alternativa correta.",
+      principal: "36 - Leia o capítulo 6 de Lavoura arcaica, reproduzido abaixo.\n\nDesde minha fuga, era calando minha revolta (tinha contundência o meu silêncio! tinha textura a minha raiva!) que eu, a cada passo, me distanciava lá da fazenda, e se acaso distraído eu perguntasse \"para onde estamos indo?” – não importava que eu, erguendo os olhos, alcançasse paisagens muito novas, quem sabe menos ásperas, não importava que eu, caminhando, me conduzisse para regiões cada vez mais afastadas, pois haveria de ouvir claramente de meus anseios um juízo rígido, era um cascalho, um osso rigoroso, desprovido de qualquer dúvida: \"estamos indo sempre para casa\".\n\nNASSAR, Raduan. Lavoura arcaica. 3a ed. São Paulo: Companhia das Letras, 1989. pp.$35/36$.\n\nConsidere as seguintes afirmativas sobre a narrativa de Raduan Nassar, publicada pela primeira vez em 1975:\n\n1. Em Lavoura arcaica, não há marcação temporal do narrado e a narração não segue uma cronologia linear. Mesmo assim, o tempo é uma das questões centrais na tensão entre pai e filho, entre a pregação da contenção, da paciência e da obediência ao curso natural e soberano do tempo pelo patriarca e a reivindicação do direito à impaciência e à urgência pelo jovem filho.\n2. As duas epígrafes - \"Que culpa temos nós dessa planta da infância, de sua sedução, de seu viço e constância?\"; \"Vos são interditadas: vossas mães, vossas filhas, vossas irmãs,...\" - estabelecem uma relação com as duas linhagens da família: de um lado, o excesso de afeto materno; de outro, a imposição da ordem paterna.\n3. A relação incestuosa com a irmã Ana e a tentativa de levá-la consigo no abandono da casa paterna representam a rejeição de todos os laços familiares por parte de André e o desejo, sempre presente, de se distanciar da repressão paterna e abandonar a lavoura arcaica em busca do diferente na cidade moderna.\n4. Estamos indo sempre para casa, mas o retorno é sempre diferente. A cena habitual da festa familiar da primeira parte reaparece no final, com mudança apenas do tempo verbal. Dessa vez, no entanto, o fecho é diferente e trágico: o pai, símbolo da razão e do equilíbrio, cede à paixão e à loucura ao matar a própria filha.\n\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -780,7 +780,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "38 - Águas termais, exploradas em diversos destinos turísticos, brotam naturalmente em fendas rochosas. O aquecimento natural dessas águas, na sua grande maioria, deve-se ao calor liberado em processos radioativos de elementos presentes nos minerais rochosos que são transferidos para a água no fluxo pelas fendas. O gás radônio (²²²Rn) é o provável responsável pelo aquecimento de diversas águas termais no Brasil. O ²²²Rn se origina do rádio (²²⁶Ra), na série do urânio (²³⁸U), naturalmente presente em granitos. O tempo de meia vida (t1/2) do ²²²Rn é de 3,8 dias, e esse se converte em polônio (²¹⁸Po), que por sua vez possui um t1/2 de 3,1 minutos. Considerando as informações dadas, considere as seguintes afirmativas:\n\n1. A conversão de ²²²Rn em ²¹⁸Po é um processo exotérmico.\n2. A conversão de ²²⁶Ra em ²²²Rn emite quatro partículas β-.\n3. Na série de decaimento, do ²³⁸U ao ²¹⁸Po, cinco partículas α são emitidas.\n4. Após 3,8 dias da extração da água termal, a concentração de ²¹⁸Po atingirá a metade do valor da concentração inicial de ²²²Rn.\n\nAssinale a alternativa correta.",
+      principal: "38 - Águas termais, exploradas em diversos destinos turísticos, brotam naturalmente em fendas rochosas. O aquecimento natural dessas águas, na sua grande maioria, deve-se ao calor liberado em processos radioativos de elementos presentes nos minerais rochosos que são transferidos para a água no fluxo pelas fendas. O gás radônio (²²²Rn) é o provável responsável pelo aquecimento de diversas águas termais no Brasil. O ²²²Rn se origina do rádio (²²⁶Ra), na série do urânio (²³⁸U), naturalmente presente em granitos. O tempo de meia vida ($t1/2$) do ²²²Rn é de 3,8 dias, e esse se converte em polônio (²¹⁸Po), que por sua vez possui um $t1/2$ de 3,1 minutos. Considerando as informações dadas, considere as seguintes afirmativas:\n\n1. A conversão de ²²²Rn em ²¹⁸Po é um processo exotérmico.\n2. A conversão de ²²⁶Ra em ²²²Rn emite quatro partículas β-.\n3. Na série de decaimento, do ²³⁸U ao ²¹⁸Po, cinco partículas α são emitidas.\n4. Após 3,8 dias da extração da água termal, a concentração de ²¹⁸Po atingirá a metade do valor da concentração inicial de ²²²Rn.\n\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "45- A análise dos dados termodinâmicos de reações permite a previsão da espontaneidade. Na tabela a seguir estão apresentados os dados termodinâmicos de duas reações químicas.\n\n[IMAGEM: Tabela com Reações, ∆H_r (kJ/mol), ∆S_r (J/mol), e ∆G_r (kJ/mol) a 200 K e 2800 K.\nReação (i): N₂(g) + 3H₂(g) → 2NH₃(g) | ∆H_r = -20,0 | ∆S_r = -25 | ∆G_r (200K) = 15,0 | ∆G_r (2800K) = 50,0\nReação (ii): MgO(s) + CO(g) → Mg(s) + CO₂(g) | ∆H_r = 30,0 | ∆S_r = 5 | ∆G_r (200K) = 29,0 | ∆G_r (2800K) = 16,0]\n\nA partir dos dados apresentados, identifique as seguintes afirmativas como verdadeiras (V) ou falsas (F):\n\n() A diminuição da temperatura desfavorece a espontaneidade da reação (i).\n() O aumento da temperatura favorece a espontaneidade da reação (ii).\n() Na temperatura de 400 K, a reação (i) será espontânea.\n() Na temperatura de 4000 K, a reação (ii) será espontânea.\n\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
+      principal: "45- A análise dos dados termodinâmicos de reações permite a previsão da espontaneidade. Na tabela a seguir estão apresentados os dados termodinâmicos de duas reações químicas.\n\n[IMAGEM: Tabela com Reações, ∆$H_r$ ($kJ/mol$), ∆$S_r$ ($J/mol$), e ∆$G_r$ ($kJ/mol$) a 200 K e 2800 K.\nReação (i): N₂(g) + 3H₂(g) → 2NH₃(g) | ∆$H_r$ = -20,0 | ∆$S_r$ = -25 | ∆$G_r$ (200K) = 15,0 | ∆$G_r$ (2800K) = 50,0\nReação (ii): MgO(s) + CO(g) → Mg(s) + CO₂(g) | ∆$H_r$ = 30,0 | ∆$S_r$ = 5 | ∆$G_r$ (200K) = 29,0 | ∆$G_r$ (2800K) = 16,0]\n\nA partir dos dados apresentados, identifique as seguintes afirmativas como verdadeiras (V) ou falsas (F):\n\n() A diminuição da temperatura desfavorece a espontaneidade da reação (i).\n() O aumento da temperatura favorece a espontaneidade da reação (ii).\n() Na temperatura de 400 K, a reação (i) será espontânea.\n() Na temperatura de 4000 K, a reação (ii) será espontânea.\n\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
       subItens: []
     },
     options: [
@@ -948,14 +948,14 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "46- Um dos exemplos de cultura produzida durante o período do império islâmico foi o \"Cânone de Medicina\", escrito pelo médico e filósofo muçulmano Avicena entre 1012 e 1015. Esta obra sintetizou elementos da literatura médica siríaca, helenística e bizantina, e foi muito empregada por sábios ocidentais até o século XVII. Sobre o império islâmico no período do século VII a XV, considerando o exemplo da obra de Avicena, é correto afirmar:",
+      principal: "46- Um dos exemplos de cultura produzida durante o período do império islâmico foi o \"Cânone de Medicina\", escrito pelo médico e filósofo $\\mu$çulmano Avicena entre 1012 e 1015. Esta obra sintetizou elementos da literatura médica siríaca, helenística e bizantina, e foi muito empregada por sábios ocidentais até o século XVII. Sobre o império islâmico no período do século VII a XV, considerando o exemplo da obra de Avicena, é correto afirmar:",
       subItens: []
     },
     options: [
       "O império islâmico permitiu uma grande circulação de culturas da Europa até a China, devido a sua relativa tolerância religiosa e a seu incentivo à assimilação e transmissão de conhecimentos dos diferentes povos conquistados, como atesta a obra de Avicena.",
       "O império islâmico permitiu grande circulação cultural por se expandir lentamente durante sua existência, ao ritmo da conversão e assimilação dos povos e das culturas da Europa à Ásia, devido à estratégia de não-violência e de tolerância religiosa pregada pelo Corão, e presente na obra de Avicena.",
       "O império islâmico permitiu uma grande circulação de culturas da Europa à China devido à sua rápida expansão em menos de um século com o apoio de exércitos cristãos, o que explica a presença de obras como a de Avicena em território europeu cristão.",
-      "Durante seu apogeu, o império islâmico restringiu a circulação de obras europeias cristãs em territórios muçulmanos e impôs a adoção de obras científicas islâmicas, como a de Avicena, ao povos não-islâmicos.",
+      "Durante seu apogeu, o império islâmico restringiu a circulação de obras europeias cristãs em territórios $\\mu$çulmanos e impôs a adoção de obras científicas islâmicas, como a de Avicena, ao povos não-islâmicos.",
       "O império islâmico, durante seu apogeu, incentivou a busca pelo conhecimento científico nos territórios conquistados, como atesta a obra de Avicena, mas não logrou sucesso na Europa ocidental, devido ao bloqueio religioso estabelecido pela Igreja Católica."
     ],
     correctAnswer: 0,
@@ -1183,11 +1183,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "6/7.",
-      "1/12.",
-      "15/56.",
-      "1/48.",
-      "1/64."
+      "$6/7$.",
+      "$1/12$.",
+      "$15/56$.",
+      "$1/48$.",
+      "$1/64$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1206,9 +1206,9 @@ createQuestion({
     options: [
       "√2",
       "2",
-      "√10/2",
-      "2/5",
-      "2√5/5"
+      "√$10/2$",
+      "$2/5$",
+      "2√$5/5$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "59 - O ângulo de visão de um motorista diminui conforme aumenta a velocidade de seu veículo. Isso pode representar riscos para o trânsito e os pedestres, pois o condutor deixa de prestar atenção a veículos e pessoas fora desse ângulo conforme aumenta sua velocidade. Suponha que o ângulo de visão A relaciona-se com a velocidade v através da expressão A = k v + b, na qual k e b são constantes. Sabendo que o ângulo de visão a 40 km/h é de 100°, e que a 120 km/h fica reduzido a apenas 30°, qual o ângulo de visão do motorista à velocidade de 64 km/h?",
+      principal: "59 - O ângulo de visão de um motorista diminui conforme aumenta a velocidade de seu veículo. Isso pode representar riscos para o trânsito e os pedestres, pois o condutor deixa de prestar atenção a veículos e pessoas fora desse ângulo conforme aumenta sua velocidade. Suponha que o ângulo de visão A relaciona-se com a velocidade v através da expressão A = k v + b, na qual k e b são constantes. Sabendo que o ângulo de visão a 40 $km/h$ é de 100°, e que a 120 $km/h$ fica reduzido a apenas 30°, qual o ângulo de visão do motorista à velocidade de 64 $km/h$?",
       subItens: []
     },
     options: [
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "60 - Um tanque para armazenamento de produtos corrosivos possui, internamente, o formato de um cilindro circular reto com uma semiesfera em cada uma de suas bases, como indica a figura. Para revestir o interior do tanque, será usada uma tinta anticorrosiva. Cada lata dessa tinta é suficiente para revestir 8 m² de área. Qual o número mínimo de latas de tinta que se deve comprar para revestir totalmente o interior desse tanque? (Use π=3,14).\n\n[IMAGEM: Diagrama de um tanque em formato de cilindro com semiesferas nas bases. Dimensões: altura do cilindro = 6 m, diâmetro das semiesferas/cilindro = 2 m.]",
+      principal: "60 - Um tanque para armazenamento de produtos corrosivos possui, internamente, o formato de um cilindro circular reto com uma semiesfera em cada uma de suas bases, como indica a figura. Para revestir o interior do tanque, será usada uma tinta anticorrosiva. Cada lata dessa tinta é suficiente para revestir 8 m² de área. Qual o número mínimo de latas de tinta que se deve comprar para revestir totalmente o interior desse tanque? (Use π=3,14).\n\n[IMAGEM: Diagrama de um tanque em formato de cilindro com semiesferas nas bases. Dimensões: altura do cilindro = 6 m, diâmetro das $semiesferas/cilindro$ = 2 m.]",
       subItens: []
     },
     options: [
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "ufpr",
     year: 2015,
     text: {
-      principal: "61- Num laboratório, sensores são colocados no topo de dois pistões para analisar o desempenho de um motor. A profundidade do primeiro pistão no bloco do motor pode ser descrita, de maneira aproximada, pela expressão H₁ = 12 cos(2πt/60), e a profundidade do segundo, pela expressão H₂ = 12 sen(2πt/60), sendo t o tempo medido em milissegundos a partir do acionamento do motor. Quanto tempo levará para que os pistões estejam na mesma profundidade, pela primeira vez, após o acionamento do motor?",
+      principal: "61- Num laboratório, sensores são colocados no topo de dois pistões para analisar o desempenho de um motor. A profundidade do primeiro pistão no bloco do motor pode ser descrita, de maneira aproximada, pela expressão H₁ = 12 $\\cos$(2π$t/60$), e a profundidade do segundo, pela expressão H₂ = 12 $\\sin$(2π$t/60$), sendo t o tempo medido em milissegundos a partir do acionamento do motor. Quanto tempo levará para que os pistões estejam na mesma profundidade, pela primeira vez, após o acionamento do motor?",
       subItens: []
     },
     options: [

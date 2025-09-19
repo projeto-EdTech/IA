@@ -95,7 +95,7 @@ createQuestion({
       "f(n) = an² + bn",
       "f(n) = abn",
       "f(n) = a + logb n",
-      "f(n) = ab/n"
+      "f(n) = $ab/n$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -112,8 +112,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "sin θ = cos θ",
-      "cos θ = - cos 45°",
+      "sin θ = $\\cos$ θ",
+      "$\\cos$ θ = - $\\cos$ 45°",
       "θ = 225°",
       "sin θ = sin 135°",
       "θ = 5π/4"
@@ -234,7 +234,7 @@ createQuestion({
     university: "fslm",
     year: 2024,
     text: {
-      principal: "Leia o excerto para responder a questão. \"No cultivo de cogumelos, é fundamental que o solo esteja em condições ideais para garantir o desenvolvimento saudável das plantas. Um dos problemas relacionados à qualidade do solo é o nível de acidez, e é aí que o calcário agrícola desempenha um papel essencial. O calcário agrícola é utilizado para corrigir a acidez do solo. O calcário contribui para a fixação dos nutrientes e cria um ambiente propício para o crescimento dos cogumelos.\" (https://g1.globo.com/sp/sorocaba-jundiai/nosso-campo/noticia/2023/10/15/calcario-corrige-acidez-do-solo-e-ajuda-a-melhorar-produtividade.ghtml) Assinale a alternativa verdadeira sobre os cogumelos.",
+      principal: "Leia o excerto para responder a questão. \"No cultivo de cogumelos, é fundamental que o solo esteja em condições ideais para garantir o desenvolvimento saudável das plantas. Um dos problemas relacionados à qualidade do solo é o nível de acidez, e é aí que o calcário agrícola desempenha um papel essencial. O calcário agrícola é utilizado para corrigir a acidez do solo. O calcário contribui para a fixação dos nutrientes e cria um ambiente propício para o crescimento dos cogumelos.\" (https://g1.globo.com/sp/sorocaba-$jundiai/nosso$-campo/noticia/2023/10/15/calcario-corrige-acidez-do-solo-e-ajuda-a-melhorar-produtividade.ghtml) Assinale a alternativa verdadeira sobre os cogumelos.",
       subItens: []
     },
     options: [
@@ -343,11 +343,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2,4 x 10⁻¹ N/m.",
-      "2,4 x 10⁴ N/m.",
-      "9,6 x 10⁴ N/m.",
-      "9,6 x 10⁶ N/m.",
-      "3,2 x 10⁸ N/m."
+      "2,4 x 10⁻¹ $N/m$.",
+      "2,4 x 10⁴ $N/m$.",
+      "9,6 x 10⁴ $N/m$.",
+      "9,6 x 10⁶ $N/m$.",
+      "3,2 x 10⁸ $N/m$."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "fslm",
     year: 2024,
     text: {
-      principal: "O hipoclorito de sódio (NaOCl) é um composto de cloro com forte poder oxidativo. Por isto é muito utilizado como: alvejante de roupas, higienizador de superfícies e de alimentos, e na desinfecção de água para o consumo humano. No tratamento da água, por exemplo, garante a eliminação de patógenos durante o armazenamento e o transporte da água até as residências. Este produto é comercializado em concentração da ordem de 2,5% (m/m), podendo ser produzido a partir da reação da espécie química cloro com solução de hidróxido de sódio. De acordo com o exposto, assinale a alternativa que contenha a reação que representa a formação do alvejante.",
+      principal: "O hipoclorito de sódio (NaOCl) é um composto de cloro com forte poder oxidativo. Por isto é muito utilizado como: alvejante de roupas, higienizador de superfícies e de alimentos, e na desinfecção de água para o consumo humano. No tratamento da água, por exemplo, garante a eliminação de patógenos durante o armazenamento e o transporte da água até as residências. Este produto é comercializado em concentração da ordem de 2,5% ($m/m$), podendo ser produzido a partir da reação da espécie química cloro com solução de hidróxido de sódio. De acordo com o exposto, assinale a alternativa que contenha a reação que representa a formação do alvejante.",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "fslm",
     year: 2024,
     text: {
-      principal: "Leia o excerto para responder a questão. \"O Rio Grande do Sul deve ter a formação de um novo ciclone extratropical, próximo da costa, entre a terça (26) e a quarta-feira (27). De acordo com a Climatempo Meteorologia, o fenômeno deve intensificar temporais, principalmente, no Litoral Norte, Região Metropolitana de Porto Alegre, Norte, Serra e Sul. Além das fortes chuvas, a Climatempo informa que a formação desse novo ciclone deve provocar rajadas de vento de 50 a 70 km/h. Há risco alto para danos.” Assinale a alternativa incorreta sobre a formação, ocorrência e consequência dos ciclones extratropicais.",
+      principal: "Leia o excerto para responder a questão. \"O Rio Grande do Sul deve ter a formação de um novo ciclone extratropical, próximo da costa, entre a terça (26) e a quarta-feira (27). De acordo com a Climatempo Meteorologia, o fenômeno deve intensificar temporais, principalmente, no Litoral Norte, Região Metropolitana de Porto Alegre, Norte, Serra e Sul. Além das fortes chuvas, a Climatempo informa que a formação desse novo ciclone deve provocar rajadas de vento de 50 a 70 $km/h$. Há risco alto para danos.” Assinale a alternativa incorreta sobre a formação, ocorrência e consequência dos ciclones extratropicais.",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "fslm",
     year: 2024,
     text: {
-      principal: "O arroz orgânico é cultivado sem o uso de pesticidas, herbicidas ou fertilizantes sintéticos. A ideia por trás do cultivo orgânico é produzir alimentos de maneira mais natural e sustentável, proporcionando benefícios tanto para o meio ambiente quanto para a saúde humana. Os produtores de arroz orgânico geralmente adotam práticas agrícolas sustentáveis, como a rotação de culturas e o uso de compostagem para manter a fertilidade do solo. Um dos objetivos é evitar a contaminação dos alimentos e do ambiente com substâncias químicas nocivas e proporcionar alimentos mais saudáveis para os consumidores. Assinale a alternativa verdadeira sobre qual organização, movimento social, cooperativa e/ou empresa era a maior produtora de arroz orgânico, até 2022, na América Latina.",
+      principal: "O arroz orgânico é cultivado sem o uso de pesticidas, herbicidas ou fertilizantes sintéticos. A ideia por trás do cultivo orgânico é produzir alimentos de maneira mais natural e sustentável, proporcionando benefícios tanto para o meio ambiente quanto para a saúde humana. Os produtores de arroz orgânico geralmente adotam práticas agrícolas sustentáveis, como a rotação de culturas e o uso de compostagem para manter a fertilidade do solo. Um dos objetivos é evitar a contaminação dos alimentos e do ambiente com substâncias químicas nocivas e proporcionar alimentos mais saudáveis para os consumidores. Assinale a alternativa verdadeira sobre qual organização, movimento social, cooperativa $e/ou$ empresa era a maior produtora de arroz orgânico, até 2022, na América Latina.",
       subItens: []
     },
     options: [
@@ -813,7 +813,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Geografia"],
-    conteudo: ["Geografia Econômica", "Blocos Econômicos", "NAFTA/USMCA"],
+    conteudo: ["Geografia Econômica", "Blocos Econômicos", "$NAFTA/USMCA$"],
     imageNames: []
 }),
 
@@ -906,7 +906,7 @@ createQuestion({
     university: "fslm",
     year: 2024,
     text: {
-      principal: "Leia o excerto para responder à questão. CAPÍTULO I DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes: I - homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição; II - ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em virtude de lei; III - ninguém será submetido a tortura nem a tratamento desumano ou degradante; IV - é livre a manifestação do pensamento, sendo vedado o anonimato; V - é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem; VI - é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias; (...) (Fragmento da Constituição Federal do Brasil) Pelas características da organização do discurso, a respeito do texto pode-se afirmar que se trata de uma",
+      principal: "Leia o excerto para responder à questão. CAPÍTULO I DOS DIREITOS E DEVERES INDIVIDUAIS E COLETIVOS Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos seguintes: I - homens e mulheres são iguais em direitos e obrigações, nos termos desta Constituição; II - ninguém será obrigado a fazer ou deixar de fazer alguma coisa $\\sin$ão em virtude de lei; III - ninguém será submetido a tortura nem a tratamento desumano ou degradante; IV - é livre a manifestação do pensamento, sendo vedado o anonimato; V - é assegurado o direito de resposta, proporcional ao agravo, além da indenização por dano material, moral ou à imagem; VI - é inviolável a liberdade de consciência e de crença, sendo assegurado o livre exercício dos cultos religiosos e garantida, na forma da lei, a proteção aos locais de culto e a suas liturgias; (...) (Fragmento da Constituição Federal do Brasil) Pelas características da organização do discurso, a respeito do texto pode-se afirmar que se trata de uma",
       subItens: []
     },
     options: [
@@ -918,7 +918,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Gêneros Textuais", "Tipologia Textual (Texto Normativo/Injutivo)"],
+    conteudo: ["Gêneros Textuais", "Tipologia Textual (Texto $Normativo/Injutivo$)"],
     imageNames: []
 }),
 

@@ -3,7 +3,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Um fabricante de acessórios de montanhismo quer projetar um colchão de espuma apropriado para ser utilizado por alpinistas em regiões frias. Considere que a taxa de transferência de calor ao solo por uma pessoa dormindo confortavelmente seja 90 kcal/hora e que a transferência de calor entre a pessoa e o solo se dê exclusivamente pelo mecanismo de condução térmica através da espuma do colchão. Nestas condições, o gráfico representa a taxa de transferência de calor, em J/s, através da espuma do colchão, em função de sua espessura, em cm.\nTaxa de transferência de calor (J/s)\n400\n300\n200\n100\n0\n0 1 2 3 4 5 6\nEspessura (cm)\nConsiderando 1 cal = 4 J, a menor espessura do colchão, em cm, para que a pessoa durma confortavelmente é",
+      principal: "Um fabricante de acessórios de montanhismo quer projetar um colchão de espuma apropriado para ser utilizado por alpinistas em regiões frias. Considere que a taxa de transferência de calor ao solo por uma pessoa dormindo confortavelmente seja 90 $kcal/hora$ e que a transferência de calor entre a pessoa e o solo se dê exclusivamente pelo mecanismo de condução térmica através da espuma do colchão. Nestas condições, o gráfico representa a taxa de transferência de calor, em $J/s$, através da espuma do colchão, em função de sua espessura, em cm.\nTaxa de transferência de calor ($J/s$)\n400\n300\n200\n100\n0\n0 1 2 3 4 5 6\nEspessura (cm)\nConsiderando 1 cal = 4 J, a menor espessura do colchão, em cm, para que a pessoa durma confortavelmente é",
       subItens: []
     },
     options: [
@@ -45,7 +45,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Furacões são sistemas físicos que liberam uma enorme quantidade de energia por meio de diferentes tipos de processos, sendo um deles a condensação do vapor em água. De acordo com o Laboratório Oceanográfico e Meteorológico do Atlântico, um furacão produz, em média, 1,5 cm de chuva por dia em uma região plana de 660 km de raio. Nesse caso, a quantidade de energia por unidade de tempo envolvida no processo de condensação do vapor em água da chuva é, aproximadamente,\nNote e adote:\nπ = 3.\nCalor latente de vaporização da água: 2 × 10⁶ J/kg.\nDensidade da água: 10³ kg/m³.\n1 dia = 8,6 x 10⁴ s.",
+      principal: "Furacões são sistemas físicos que liberam uma enorme quantidade de energia por meio de diferentes tipos de processos, sendo um deles a condensação do vapor em água. De acordo com o Laboratório Oceanográfico e Meteorológico do Atlântico, um furacão produz, em média, 1,5 cm de chuva por dia em uma região plana de 660 km de raio. Nesse caso, a quantidade de energia por unidade de tempo envolvida no processo de condensação do vapor em água da chuva é, aproximadamente,\nNote e adote:\nπ = 3.\nCalor latente de vaporização da água: 2 × 10⁶ $J/kg$.\nDensidade da água: 10³ $kg/m$³.\n1 dia = 8,6 x 10⁴ s.",
       subItens: []
     },
     options: [
@@ -66,7 +66,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Em uma tribo indígena de uma ilha tropical, o teste derradeiro de coragem de um jovem é deixar-se cair em um rio, do alto de um penhasco. Um desses jovens se soltou verticalmente, a partir do repouso, de uma altura de 45 m em relação à superfície da água. O tempo decorrido, em segundos, entre o instante em que o jovem iniciou sua queda e aquele em que um espectador, parado no alto do penhasco, ouviu o barulho do impacto do jovem na água é, aproximadamente,\nNote e adote:\nConsidere o ar em repouso e ignore sua resistência.\nIgnore as dimensões das pessoas envolvidas.\nVelocidade do som no ar: 360 m/s.\nAceleração da gravidade: 10 m/s².",
+      principal: "Em uma tribo indígena de uma ilha tropical, o teste derradeiro de coragem de um jovem é deixar-se cair em um rio, do alto de um penhasco. Um desses jovens se soltou verticalmente, a partir do repouso, de uma altura de 45 m em relação à superfície da água. O tempo decorrido, em segundos, entre o instante em que o jovem iniciou sua queda e aquele em que um espectador, parado no alto do penhasco, ouviu o barulho do impacto do jovem na água é, aproximadamente,\nNote e adote:\nConsidere o ar em repouso e ignore sua resistência.\nIgnore as dimensões das pessoas envolvidas.\nVelocidade do som no ar: 360 $m/s$.\nAceleração da gravidade: 10 $m/s$².",
       subItens: []
     },
     options: [
@@ -87,7 +87,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Ondas na superfície de líquidos têm velocidades que dependem da profundidade do líquido e da aceleração da gravidade, desde que se propaguem em águas rasas. O gráfico representa o módulo v da velocidade da onda em função da profundidade h da água.\nv (m/s)\n7-\n6-\n5-\n4-\n3-\n2-\n1-\n0-\n0 1 2 3 4 5\nh (m)\nUma onda no mar, onde a profundidade da água é 4,0 m, tem comprimento de onda igual a 50 m. Na posição em que a profundidade da água é 1,0 m, essa onda tem comprimento de onda, em m, aproximadamente igual a",
+      principal: "Ondas na superfície de líquidos têm velocidades que dependem da profundidade do líquido e da aceleração da gravidade, desde que se propaguem em águas rasas. O gráfico representa o módulo v da velocidade da onda em função da profundidade h da água.\nv ($m/s$)\n7-\n6-\n5-\n4-\n3-\n2-\n1-\n0-\n0 1 2 3 4 5\nh (m)\nUma onda no mar, onde a profundidade da água é 4,0 m, tem comprimento de onda igual a 50 m. Na posição em que a profundidade da água é 1,0 m, essa onda tem comprimento de onda, em m, aproximadamente igual a",
       subItens: []
     },
     options: [
@@ -108,7 +108,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Uma caminhonete, de massa 2.000 kg, bateu na traseira de um sedã, de massa 1.000 kg, que estava parado no semáforo, em uma rua horizontal. Após o impacto, os dois veículos deslizaram como um único bloco. Para a perícia, o motorista da caminhonete alegou que estava a menos de 20 km/h quando o acidente ocorreu. A perícia constatou, analisando as marcas de frenagem, que a caminhonete arrastou o sedã, em linha reta, por uma distância de 10 m. Com este dado e estimando que o coeficiente de atrito cinético entre os pneus dos veículos e o asfalto, no local do acidente, era 0,5, a perícia concluiu que a velocidade real da caminhonete, em km/h, no momento da colisão era, aproximadamente,\nNote e adote:\nAceleração da gravidade: 10 m/s².\nDesconsidere a massa dos motoristas e a resistência do ar.",
+      principal: "Uma caminhonete, de massa 2.000 kg, bateu na traseira de um sedã, de massa 1.000 kg, que estava parado no semáforo, em uma rua horizontal. Após o impacto, os dois veículos deslizaram como um único bloco. Para a perícia, o motorista da caminhonete alegou que estava a menos de 20 $km/h$ quando o acidente ocorreu. A perícia constatou, analisando as marcas de frenagem, que a caminhonete arrastou o sedã, em linha reta, por uma distância de 10 m. Com este dado e estimando que o coeficiente de atrito cinético entre os pneus dos veículos e o asfalto, no local do acidente, era 0,5, a perícia concluiu que a velocidade real da caminhonete, em $km/h$, no momento da colisão era, aproximadamente,\nNote e adote:\nAceleração da gravidade: 10 $m/s$².\nDesconsidere a massa dos motoristas e a resistência do ar.",
       subItens: []
     },
     options: [
@@ -129,7 +129,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "O projeto para um balanço de corda única de um parque de diversões exige que a corda do brinquedo tenha um comprimento de 2,0 m. O projetista tem que escolher a corda adequada para o balanço, a partir de cinco ofertas disponíveis no mercado, cada uma delas com distintas tensões de ruptura. A tabela apresenta essas opções.\nCorda\nI II III IV V\nTensão de\nruptura (N)\n4.200 7.500 12.400 20.000 29.000\nEle tem também que incluir no projeto uma margem de segurança; esse fator de segurança é tipicamente 7, ou seja, o balanço deverá suportar cargas sete vezes a tensão no ponto mais baixo da trajetória. Admitindo que uma pessoa de 60 kg, ao se balançar, parta do repouso, de uma altura de 1,2 m em relação à posição de equilíbrio do balanço, as cordas que poderiam ser adequadas para o projeto são\nNote e adote:\nAceleração da gravidade: 10 m/s².\nDesconsidere qualquer tipo de atrito ou resistência ao movimento e ignore a massa do balanço e as dimensões da pessoa.\nAs cordas são inextensíveis.",
+      principal: "O projeto para um balanço de corda única de um parque de diversões exige que a corda do brinquedo tenha um comprimento de 2,0 m. O projetista tem que escolher a corda adequada para o balanço, a partir de cinco ofertas disponíveis no mercado, cada uma delas com distintas tensões de ruptura. A tabela apresenta essas opções.\nCorda\nI II III IV V\nTensão de\nruptura (N)\n4.200 7.500 12.400 20.000 29.000\nEle tem também que incluir no projeto uma margem de segurança; esse fator de segurança é tipicamente 7, ou seja, o balanço deverá suportar cargas sete vezes a tensão no ponto mais baixo da trajetória. Admitindo que uma pessoa de 60 kg, ao se balançar, parta do repouso, de uma altura de 1,2 m em relação à posição de equilíbrio do balanço, as cordas que poderiam ser adequadas para o projeto são\nNote e adote:\nAceleração da gravidade: 10 $m/s$².\nDesconsidere qualquer tipo de atrito ou resistência ao movimento e ignore a massa do balanço e as dimensões da pessoa.\nAs cordas são inextensíveis.",
       subItens: []
     },
     options: [
@@ -255,7 +255,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Uma determinada quantidade de metano (CH₄) é colocada para reagir com cloro (Cl₂) em excesso, a 400 °C, gerando HCl (g) e os compostos organoclorados H₃CCl, H₂CCl₂, HCCl₃, CCl₄, cujas propriedades são mostradas na tabela. A mistura obtida ao final das reações químicas é então resfriada a 25 °C, e o líquido, formado por uma única fase e sem HCl, é coletado.\nComposto\nPonto de\nfusão\n(°C)\nPonto de\nebulição\n(°C)\nSolubilidade\nem água a\n25 °C (g/L)\nDensidade\ndo líquido a\n25 °C (g/mL)\nH₃CCl\n-97,4 -23,8\n5,3\nH₂CCl₂\n-96,7 39,6\n17,5\n1,327\nHCCl₃\n-63,5 61,2\n8,1\n1,489\nCCl₄\n-22,9 76,7\n0,8\n1,587\nA melhor técnica de separação dos organoclorados presentes na fase líquida e o primeiro composto a ser separado por essa técnica são:",
+      principal: "Uma determinada quantidade de metano (CH₄) é colocada para reagir com cloro (Cl₂) em excesso, a 400 °C, gerando HCl (g) e os compostos organoclorados H₃CCl, H₂CCl₂, HCCl₃, CCl₄, cujas propriedades são mostradas na tabela. A mistura obtida ao final das reações químicas é então resfriada a 25 °C, e o líquido, formado por uma única fase e sem HCl, é coletado.\nComposto\nPonto de\nfusão\n(°C)\nPonto de\nebulição\n(°C)\nSolubilidade\nem água a\n25 °C ($g/L$)\nDensidade\ndo líquido a\n25 °C ($g/mL$)\nH₃CCl\n-97,4 -23,8\n5,3\nH₂CCl₂\n-96,7 39,6\n17,5\n1,327\nHCCl₃\n-63,5 61,2\n8,1\n1,489\nCCl₄\n-22,9 76,7\n0,8\n1,587\nA melhor técnica de separação dos organoclorados presentes na fase líquida e o primeiro composto a ser separado por essa técnica são:",
       subItens: []
     },
     options: [
@@ -276,7 +276,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "A mandioca, uma das principais fontes de carboidratos da alimentação brasileira, possui algumas variedades conhecidas popularmente como \"mandioca brava\", devido a sua toxicidade. Essa toxicidade se deve à grande quantidade de cianeto de hidrogênio (HCN) liberado quando o tecido vegetal é rompido. Após cada etapa do processamento para a produção de farinha de mandioca seca, representado pelo esquema a seguir, quantificou-se o total de HCN nas amostras, conforme mostrado no gráfico que acompanha o esquema.\nAmostra I\n(Mandioca fresca\ne descascada)\nEtapa 1:\nTrituração\nAmostra II\n(Mandioca fresca\ntriturada)\nEtapa 2: Prensagem e extração do\nlíquido residual (manipueira)\nAmostra III\n(Massa prensada)\nEtapa 3:\nTorração (160 °C)\nAmostra IV\n(Farinha torrada)\nQuantidade total de HCN (mg/kg)\n160\n140-\n120\n100\n80\n60\n40\n20-\n0\nAmostra II\nAmostra III\nAmostra IV\nEtapas do processamento da mandioca\nO que ocorre com o HCN nas Etapas 2 e 3?",
+      principal: "A mandioca, uma das principais fontes de carboidratos da alimentação brasileira, possui algumas variedades conhecidas popularmente como \"mandioca brava\", devido a sua toxicidade. Essa toxicidade se deve à grande quantidade de cianeto de hidrogênio (HCN) liberado quando o tecido vegetal é rompido. Após cada etapa do processamento para a produção de farinha de mandioca seca, representado pelo esquema a seguir, quantificou-se o total de HCN nas amostras, conforme mostrado no gráfico que acompanha o esquema.\nAmostra I\n(Mandioca fresca\ne descascada)\nEtapa 1:\nTrituração\nAmostra II\n(Mandioca fresca\ntriturada)\nEtapa 2: Prensagem e extração do\nlíquido residual (manipueira)\nAmostra III\n(Massa prensada)\nEtapa 3:\nTorração (160 °C)\nAmostra IV\n(Farinha torrada)\nQuantidade total de HCN ($mg/kg$)\n160\n140-\n120\n100\n80\n60\n40\n20-\n0\nAmostra II\nAmostra III\nAmostra IV\nEtapas do processamento da mandioca\nO que ocorre com o HCN nas Etapas 2 e 3?",
       subItens: []
     },
     options: [
@@ -297,7 +297,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Um dos parâmetros que determina a qualidade do azeite de oliva é sua acidez, normalmente expressa na embalagem na forma de porcentagem, e que pode ser associada diretamente ao teor de ácido oleico em sua composição. Uma amostra de 20,00 g de um azeite comercial foi adicionada a 100 mL de uma solução contendo etanol e etoxietano (dietiléter), 1:1 em volume, com o indicador fenolftaleína. Sob constante agitação, titulou-se com uma solução etanólica contendo KOH 0,020 mol/L até a _________ total. Para essa amostra, usaram-se 35,0 mL de base, o que permite concluir que se trata de um azeite tipo _________. As palavras que completam corretamente as lacunas são:\nNote e adote:\nClassificação de azeites por acidez (em %, massa do ácido oleico por 100 g de azeite):\nTipo\nAcidez\nExtra virgem\nMenor que 0,8%\nVirgem fino\nDe 0,8% até 1,5%\nSemifino\nMaior que 1,5% até 3,0%\nRefinado\nMaior que 3,0%\nÁcido oleico (ácido octadec-9-enoico)\nFórmula: C₁₈H₃₄O₂\nMassa molar = 282,5 g mol⁻¹\nOH",
+      principal: "Um dos parâmetros que determina a qualidade do azeite de oliva é sua acidez, normalmente expressa na embalagem na forma de porcentagem, e que pode ser associada diretamente ao teor de ácido oleico em sua composição. Uma amostra de 20,00 g de um azeite comercial foi adicionada a 100 mL de uma solução contendo etanol e etoxietano (dietiléter), 1:1 em volume, com o indicador fenolftaleína. Sob constante agitação, titulou-se com uma solução etanólica contendo KOH 0,020 $mol/L$ até a _________ total. Para essa amostra, usaram-se 35,0 mL de base, o que permite concluir que se trata de um azeite tipo _________. As palavras que completam corretamente as lacunas são:\nNote e adote:\nClassificação de azeites por acidez (em %, massa do ácido oleico por 100 g de azeite):\nTipo\nAcidez\nExtra virgem\nMenor que 0,8%\nVirgem fino\nDe 0,8% até 1,5%\nSemifino\nMaior que 1,5% até 3,0%\nRefinado\nMaior que 3,0%\nÁcido oleico (ácido octadec-9-enoico)\nFórmula: C₁₈H₃₄O₂\nMassa molar = 282,5 g mol⁻¹\nOH",
       subItens: []
     },
     options: [
@@ -339,15 +339,15 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "A energia liberada na combustão do etanol de cana-de-açúcar pode ser considerada advinda da energia solar, uma vez que a primeira etapa para a produção do etanol é a fotossíntese. As transformações envolvidas na produção e no uso do etanol combustível são representadas pelas seguintes equações químicas:\n6 CO₂(g) + 6 H₂O(g) → C₆H₁₂O₆(aq) + 6 O₂(g)\nC₆H₁₂O₆(aq) → 2 C₂H₅OH(l) + 2 CO₂(g) ∆H = -70 kJ/mol\nC₂H₅OH(l) + 3 O₂(g) → 2 CO₂(g) + 3 H₂O(g) ∆H = -1.235 kJ/mol\nCom base nessas informações, podemos afirmar que o valor de ∆H para a reação de fotossíntese é",
+      principal: "A energia liberada na combustão do etanol de cana-de-açúcar pode ser considerada advinda da energia solar, uma vez que a primeira etapa para a produção do etanol é a fotossíntese. As transformações envolvidas na produção e no uso do etanol combustível são representadas pelas seguintes equações químicas:\n6 CO₂(g) + 6 H₂O(g) → C₆H₁₂O₆(aq) + 6 O₂(g)\nC₆H₁₂O₆(aq) → 2 C₂H₅OH(l) + 2 CO₂(g) ∆H = -70 $kJ/mol$\nC₂H₅OH(l) + 3 O₂(g) → 2 CO₂(g) + 3 H₂O(g) ∆H = -1.235 $kJ/mol$\nCom base nessas informações, podemos afirmar que o valor de ∆H para a reação de fotossíntese é",
       subItens: []
     },
     options: [
-      "-1.305 kJ/mol.",
-      "+1.305 kJ/mol.",
-      "+2.400 kJ/mol.",
-      "-2.540 kJ/mol.",
-      "+2.540 kJ/mol."
+      "-1.305 $kJ/mol$.",
+      "+1.305 $kJ/mol$.",
+      "+2.400 $kJ/mol$.",
+      "-2.540 $kJ/mol$.",
+      "+2.540 $kJ/mol$."
     ],
     correctAnswer: 4,
     materia: ["Química"],
@@ -486,7 +486,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Em uma urna, há bolas amarelas, brancas e vermelhas. Sabe-se que:\nI. A probabilidade de retirar uma bola vermelha dessa urna é o dobro da probabilidade de retirar uma bola amarela.\nII. Se forem retiradas 4 bolas amarelas dessa urna, a probabilidade de retirar uma bola vermelha passa a ser 1/2.\nIII. Se forem retiradas 12 bolas vermelhas dessa urna, a probabilidade de retirar uma bola branca passa a ser 1/2.\nA quantidade de bolas brancas na urna é",
+      principal: "Em uma urna, há bolas amarelas, brancas e vermelhas. Sabe-se que:\nI. A probabilidade de retirar uma bola vermelha dessa urna é o dobro da probabilidade de retirar uma bola amarela.\nII. Se forem retiradas 4 bolas amarelas dessa urna, a probabilidade de retirar uma bola vermelha passa a ser $1/2$.\nIII. Se forem retiradas 12 bolas vermelhas dessa urna, a probabilidade de retirar uma bola branca passa a ser $1/2$.\nA quantidade de bolas brancas na urna é",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Sejam f: R→R e g: R⁺→R definidas por\nf(x) = (1/2)5ˣ e g(x) = log₁₀x,\nrespectivamente.\nO gráfico da função composta gof é:\n(A) y\nx\n(D) y\nx\n(B) y\nx\n(E) y\nx\n(C) y\nx",
+      principal: "Sejam f: R→R e g: R⁺→R definidas por\nf(x) = ($1/2$)5ˣ e g(x) = $\\log$₁₀x,\nrespectivamente.\nO gráfico da função composta gof é:\n(A) y\nx\n(D) y\nx\n(B) y\nx\n(E) y\nx\n(C) y\nx",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Admitindo que a linha pontilhada represente o gráfico da função f(x) = sen(x) e que a linha contínua represente o gráfico da função g(x) = asen(βx), segue que\ny\nx",
+      principal: "Admitindo que a linha pontilhada represente o gráfico da função f(x) = $\\sin$(x) e que a linha contínua represente o gráfico da função g(x) = asen(βx), segue que\ny\nx",
       subItens: []
     },
     options: [
@@ -679,11 +679,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "π + sen(2x) + sen(2y)",
-      "π – sen(2x) – sen(2y)",
-      "π – cos(2x) – cos(2y)",
-      "π - (cos(2x) + cos(2y))/2",
-      "π - (sen(2x) + sen(2y))/2"
+      "π + $\\sin$(2x) + $\\sin$(2y)",
+      "π – $\\sin$(2x) – $\\sin$(2y)",
+      "π – $\\cos$(2x) – $\\cos$(2y)",
+      "π - ($\\cos$(2x) + $\\cos$(2y))/2",
+      "π - ($\\sin$(2x) + $\\sin$(2y))/2"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Estuários são ambientes aquáticos em que há a transição entre rio (água doce, com salinidade menor que 0,5 g de NaCl por kg de água) e mar (água salgada, com salinidade maior que 30 g de NaCl por kg de água). Existem diferentes tipos de estuários, dos quais três deles são:\n1. Estuário bem misturado: ocorre quando há grandes variações de maré e fortes correntes, causando rápida mistura entre as águas.\n2. Estuário parcialmente misturado: ocorre quando o mar tem variações moderadas de maré e há mistura entre as águas, porém com diferenças entre a região superficial e a profunda.\n3. Estuário do tipo cunha salina: ocorre quando o rio desemboca no mar, em que este tem pouca variação de maré, gerando grande estratificação.\nMedidas de salinidade da água em função da profundidade foram realizadas em um ponto equivalente para esses três tipos de estuários, conforme mostrado no esquema a seguir, gerando os gráficos I, II e III.\nREPRESENTAÇÃO ESQUEMÁTICA DA REGIÃO DE\nMISTURA DE ÁGUAS\nrio\nPonto da\nmedida\nmar\nSalinidade (g/kg)\n0 10 20 30\nProfundidade (m)\nI\nSalinidade (g/kg)\n0 10 20 30\nProfundidade (m)\nII\nSalinidade (g/kg)\n0 10 20 30\nProfundidade (m)\nIII\nA alternativa que relaciona corretamente o gráfico com a respectiva descrição do tipo de estuário é:",
+      principal: "Estuários são ambientes aquáticos em que há a transição entre rio (água doce, com salinidade menor que 0,5 g de NaCl por kg de água) e mar (água salgada, com salinidade maior que 30 g de NaCl por kg de água). Existem diferentes tipos de estuários, dos quais três deles são:\n1. Estuário bem misturado: ocorre quando há grandes variações de maré e fortes correntes, causando rápida mistura entre as águas.\n2. Estuário parcialmente misturado: ocorre quando o mar tem variações moderadas de maré e há mistura entre as águas, porém com diferenças entre a região superficial e a profunda.\n3. Estuário do tipo cunha salina: ocorre quando o rio desemboca no mar, em que este tem pouca variação de maré, gerando grande estratificação.\nMedidas de salinidade da água em função da profundidade foram realizadas em um ponto equivalente para esses três tipos de estuários, conforme mostrado no esquema a seguir, gerando os gráficos I, II e III.\nREPRESENTAÇÃO ESQUEMÁTICA DA REGIÃO DE\nMISTURA DE ÁGUAS\nrio\nPonto da\nmedida\nmar\nSalinidade ($g/kg$)\n0 10 20 30\nProfundidade (m)\nI\nSalinidade ($g/kg$)\n0 10 20 30\nProfundidade (m)\nII\nSalinidade ($g/kg$)\n0 10 20 30\nProfundidade (m)\nIII\nA alternativa que relaciona corretamente o gráfico com a respectiva descrição do tipo de estuário é:",
       subItens: []
     },
     options: [
@@ -1221,14 +1221,14 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Um grande manto de florestas e várzeas cortado por clareiras cultivadas, mais ou menos férteis, tal é o aspecto da Cristandade - algo diferente do Oriente muçulmano, mundo de oásis em meio a desertos. Num local a madeira é rara e as árvores indicam a civilização, noutro a madeira é abundante e sinaliza a barbárie. A religião, que no Oriente nasceu ao abrigo das palmeiras, cresceu no Ocidente em detrimento das árvores, refúgio dos gênios pagãos que monges, santos e missionários abatem impiedosamente.\nJ. Le Goff. A civilização do ocidente medieval.\nBauru: Edusc, 2005. Adaptado.\nAcerca das características da Cristandade e do Islã no período medieval, pode-se afirmar que",
+      principal: "Um grande manto de florestas e várzeas cortado por clareiras cultivadas, mais ou menos férteis, tal é o aspecto da Cristandade - algo diferente do Oriente $\\mu$çulmano, mundo de oásis em meio a desertos. Num local a madeira é rara e as árvores indicam a civilização, noutro a madeira é abundante e sinaliza a barbárie. A religião, que no Oriente nasceu ao abrigo das palmeiras, cresceu no Ocidente em detrimento das árvores, refúgio dos gênios pagãos que monges, santos e missionários abatem impiedosamente.\nJ. Le Goff. A civilização do ocidente medieval.\nBauru: Edusc, 2005. Adaptado.\nAcerca das características da Cristandade e do Islã no período medieval, pode-se afirmar que",
       subItens: []
     },
     options: [
-      "o cristianismo se desenvolveu a partir do mundo rural, enquanto a religião muçulmana teve como base inicial as cidades e os povoados da península arábica.",
+      "o cristianismo se desenvolveu a partir do mundo rural, enquanto a religião $\\mu$çulmana teve como base inicial as cidades e os povoados da península arábica.",
       "a concentração humana assemelhava-se nas clareiras e nos oásis, que se constituíam como células econômicas, sociais e culturais, tanto da Cristandade quanto do Islã.",
       "a Cristandade é considerada o negativo do Islã, pela ausência de cidades, circuitos mercantis e transações monetárias, que abundavam nas formações sociais islâmicas.",
-      "o clero cristão, defensor do monoteísmo estrito, combateu as práticas pagās muçulmanas, arraigadas nas florestas e nas regiões desérticas da Cristandade ocidental.",
+      "o clero cristão, defensor do monoteísmo estrito, combateu as práticas pagās $\\mu$çulmanas, arraigadas nas florestas e nas regiões desérticas da Cristandade ocidental.",
       "a expansão econômica islâmica caracterizou-se pela ampliação das fronteiras de cultivo, em detrimento das florestas, em um movimento inverso àquele verificado no Ocidente medieval."
     ],
     correctAnswer: 1,
@@ -1431,7 +1431,7 @@ createQuestion({
     university: "fuvest",
     year: 2018,
     text: {
-      principal: "Examine o cartum.\n• GPS NÃO VAI\nRESOLVER NOSSO\nPROBLEMA DE\n\"LOCALIZAÇÃO\"\nLINGUÍSTICA.\nE-mail:ThavesOne@aol.com\n©2017 Thaves/Dist. by Andrews McMeel Synd.\n8-22\nTHAVES\nFrank e Ernest - Bob Thaves. O Estado de S. Paulo. 22.08.2017.\nO efeito de humor presente no cartum decorre, principalmente, da",
+      principal: "Examine o cartum.\n• GPS NÃO VAI\nRESOLVER NOSSO\nPROBLEMA DE\n\"LOCALIZAÇÃO\"\nLINGUÍSTICA.\nE-mail:ThavesOne@aol.com\n©2017 $Thaves/Dist$. by Andrews McMeel Synd.\n8-22\nTHAVES\nFrank e Ernest - Bob Thaves. O Estado de S. Paulo. 22.08.2017.\nO efeito de humor presente no cartum decorre, principalmente, da",
       subItens: []
     },
     options: [

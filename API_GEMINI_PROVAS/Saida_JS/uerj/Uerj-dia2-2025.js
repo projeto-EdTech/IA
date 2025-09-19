@@ -63,7 +63,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "Um exemplo de processo que não obedece a relações lineares simples é observado na fermentação\nalcoólica. Na ausência de oxigênio, as leveduras envolvidas nesse processo, durante uma fase\ndenominada log, crescem exponencialmente, sofrendo reações químicas catabólicas.\nNessa fase, tais reações ocorrem no seguinte componente das células de leveduras:",
+      principal: "Um exemplo de processo que não obedece a relações lineares simples é observado na fermentação\nalcoólica. Na ausência de oxigênio, as leveduras envolvidas nesse processo, durante uma fase\ndenominada $\\log$, crescem exponencialmente, sofrendo reações químicas catabólicas.\nNessa fase, tais reações ocorrem no seguinte componente das células de leveduras:",
       subItens: []
     },
     options: [
@@ -143,7 +143,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "A reação química elementar de decomposição do dióxido de nitrogênio, representada a seguir,\né um exemplo de modelo cinético não linear.\n2 NO2 (g) → 2 NO (g) + O2 (g)\nObserve no gráfico a variação da velocidade dessa reação em função da concentração de dióxido\nde nitrogênio:\n(Graph: velocidade da reação (mol/L.s) vs. concentração de NO2 (mol/L))\nConsiderando os dados, a constante cinética da reação, em L/mol.s, corresponde a:",
+      principal: "A reação química elementar de decomposição do dióxido de nitrogênio, representada a seguir,\né um exemplo de modelo cinético não linear.\n2 NO2 (g) → 2 NO (g) + O2 (g)\nObserve no gráfico a variação da velocidade dessa reação em função da concentração de dióxido\nde nitrogênio:\n(Graph: velocidade da reação ($mol/L$.s) vs. concentração de NO2 ($mol/L$))\nConsiderando os dados, a constante cinética da reação, em $L/mol$.s, corresponde a:",
       subItens: []
     },
     options: [
@@ -223,7 +223,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "Capítulo XI\n“Faleceu ontem o Sr. Joaquim Borba dos Santos, tendo suportado a moléstia com singular\nfilosofia. Era homem de muito saber, e cansava-se em batalhar contra esse pessimismo\namarelo e enfezado que ainda nos há de chegar aqui um dia; é a moléstia do século. A última\npalavra dele foi que a dor era uma ilusão (...).”\nA expressão suportar com filosofia denota o seguinte sentimento:",
+      principal: "Capítulo $\\xi$\n“Faleceu ontem o Sr. Joaquim Borba dos Santos, tendo suportado a moléstia com singular\nfilosofia. Era homem de muito saber, e cansava-se em batalhar contra esse pessimismo\namarelo e enfezado que ainda nos há de chegar aqui um dia; é a moléstia do século. A última\npalavra dele foi que a dor era uma ilusão (...).”\nA expressão suportar com filosofia denota o seguinte sentimento:",
       subItens: []
     },
     options: [
@@ -583,7 +583,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "Considere o triângulo retângulo ABC, representado a seguir:\n(Image of a right triangle ABC with angle bisector AD)\nSabe-se que:\n• BC é perpendicular a AC;\n• AD é a bissetriz do ângulo CAB;\n• ABC é igual a 30°;\n• BD mede 20 cm.\nA razão AC/DC é igual a:",
+      principal: "Considere o triângulo retângulo ABC, representado a seguir:\n(Image of a right triangle ABC with angle bisector AD)\nSabe-se que:\n• BC é perpendicular a AC;\n• AD é a bissetriz do ângulo CAB;\n• ABC é igual a 30°;\n• BD mede 20 cm.\nA razão $AC/DC$ é igual a:",
       subItens: []
     },
     options: [
@@ -623,14 +623,14 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "Observe os gráficos das funções reais f e g, definidas por f(x) = 2x e g(x) = (1/8)^(x-1), sendo x ∈ IR:\n(Graph showing intersection point A(Xo, Yo))\nSendo A(xo, yo) o ponto de interseção desses gráficos, (xo, yo) é:",
+      principal: "Observe os gráficos das funções reais f e g, definidas por f(x) = 2x e g(x) = ($1/8$)^(x-1), sendo x ∈ IR:\n(Graph showing intersection point A(Xo, Yo))\nSendo A(xo, yo) o ponto de interseção desses gráficos, (xo, yo) é:",
       subItens: []
     },
     options: [
-      "(3/4, √8)",
-      "(3/2, √8)",
-      "(3/4, √2)",
-      "(3/2, √2)"
+      "($3/4$, √8)",
+      "($3/2$, √8)",
+      "($3/4$, √2)",
+      "($3/2$, √2)"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "No pião representado a seguir, VAB é a seção meridiana de um cone circular reto, e a geratriz do\ncone mede 12 cm. Assim, VA = VB = 12 cm e AB é o diâmetro da base do cone.\nAo ser lançado, esse pião cai sobre o plano horizontal e rola, sem deslizar, com a sua geratriz\napoiada nesse plano. O pião dá apenas uma volta completa em torno do seu eixo, descrevendo o\nsetor circular AVP de centro V e ângulo central de 120°.\n(Image of a cone and its flattened sector)\nA medida do diâmetro AB, em centímetros, é igual a:",
+      principal: "No $\\pi$ão representado a seguir, VAB é a seção meridiana de um cone circular reto, e a geratriz do\ncone mede 12 cm. Assim, VA = VB = 12 cm e AB é o diâmetro da base do cone.\nAo ser lançado, esse $\\pi$ão cai sobre o plano horizontal e rola, sem deslizar, com a sua geratriz\napoiada nesse plano. O $\\pi$ão dá apenas uma volta completa em torno do seu eixo, descrevendo o\nsetor circular AVP de centro V e ângulo central de 120°.\n(Image of a cone and its flattened sector)\nA medida do diâmetro AB, em centímetros, é igual a:",
       subItens: []
     },
     options: [
@@ -823,7 +823,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "Considere que toda a energia liberada em um intervalo de tempo de 1 s pelas duas bombas\ncorresponde a 1,5 × 10^14 J.\nO gráfico que representa a potência média dessas bombas ao explodirem é:\n(Graph options A, B, C, D showing U(V) vs i(A))",
+      principal: "Considere que toda a energia liberada em um intervalo de tempo de 1 s pelas duas bombas\ncorresponde a 1,5 × $10^14$ J.\nO gráfico que representa a potência média dessas bombas ao explodirem é:\n(Graph options A, B, C, D showing U(V) vs i(A))",
       subItens: []
     },
     options: [
@@ -883,7 +883,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "Para variar em 60 °C a temperatura de m quilogramas de água, foi utilizada toda a energia produzida\npela queima de 100 g de etanol. Para essas condições, considere os seguintes valores:\n• poder calorífico do etanol igual a 30,00 kJ/g;\n• calor específico da água igual a 4,20 J/g °C.\nO valor de m, em quilogramas, é aproximadamente igual a:",
+      principal: "Para variar em 60 °C a temperatura de m quilogramas de água, foi utilizada toda a energia produzida\npela queima de 100 g de etanol. Para essas condições, considere os seguintes valores:\n• poder calorífico do etanol igual a 30,00 $kJ/g$;\n• calor específico da água igual a 4,20 $J/g$ °C.\nO valor de m, em quilogramas, é aproximadamente igual a:",
       subItens: []
     },
     options: [
@@ -983,7 +983,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "Com 1,4 bilhão de habitantes, não dá para juntar 11 atletas num time competitivo? É o que se\nperguntam os torcedores chineses, frustrados mais uma vez por verem a Copa do Mundo sem a\nsua seleção.\nO fracasso tem algo a ensinar sobre a sociedade chinesa e o futebol. A centralização foi muito eficaz\npara atingir as metas do governo e tornar a China uma potência econômica, militar e tecnológica.\nO futebol tornou-se uma dessas metas quando Xi Jinping assumiu o poder. Mas nem o estímulo\ndo líder mais poderoso desde Mao Tsé-tung foi suficiente para a China acertar o pé.\nO sistema centrado na obediência não ajuda a gestar criatividade. Jogadores e treinadores\nestrangeiros que atuaram na China notaram nessa diferença cultural um obstáculo à excelência.\nFoi um choque sobretudo para os brasileiros, ensinados a associar futebol à improvisação, ver\ncomo a reverência à hierarquia afetava tomadas de decisão desde o roupeiro até seus companheiros\nem campo, avessos a qualquer ação fora do roteiro.\nÉ uma mentalidade que favorece o desempenho nas modalidades em que a repetição mecânica é\npremiada, como natação e ginástica – nessas os chineses se destacam. Mas não funciona no futebol.\nMARCELO NINIO\nAdaptado de O Globo, 22/11/2022.\nDe acordo com o autor, o fracasso dos chineses no futebol deve ser atribuído à seguinte característica\npresente naquela sociedade:",
+      principal: "Com 1,4 bilhão de habitantes, não dá para juntar 11 atletas num time competitivo? É o que se\nperguntam os torcedores chineses, frustrados mais uma vez por verem a Copa do Mundo sem a\nsua seleção.\nO fracasso tem algo a ensinar sobre a sociedade chinesa e o futebol. A centralização foi muito eficaz\npara atingir as metas do governo e tornar a China uma potência econômica, militar e tecnológica.\nO futebol tornou-se uma dessas metas quando $\\xi$ Jinping assumiu o poder. Mas nem o estímulo\ndo líder mais poderoso desde Mao Tsé-tung foi suficiente para a China acertar o pé.\nO sistema centrado na obediência não ajuda a gestar criatividade. Jogadores e treinadores\nestrangeiros que atuaram na China notaram nessa diferença cultural um obstáculo à excelência.\nFoi um choque sobretudo para os brasileiros, ensinados a associar futebol à improvisação, ver\ncomo a reverência à hierarquia afetava tomadas de decisão desde o roupeiro até seus companheiros\nem campo, avessos a qualquer ação fora do roteiro.\nÉ uma mentalidade que favorece o desempenho nas modalidades em que a repetição mecânica é\npremiada, como natação e ginástica – nessas os chineses se destacam. Mas não funciona no futebol.\nMARCELO NINIO\nAdaptado de O Globo, 22/11/2022.\nDe acordo com o autor, o fracasso dos chineses no futebol deve ser atribuído à seguinte característica\npresente naquela sociedade:",
       subItens: []
     },
     options: [
@@ -1043,7 +1043,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "Agravada este ano pelo fenômeno El Niño, a seca sazonal da Amazônia, que levou os rios aos\nmenores níveis da história, atrapalha o transporte de pessoas e mercadorias num momento em\nque os portos das regiões Norte e Nordeste, que formam o chamado Arco Norte, respondem por\nmais de 37% das exportações de soja e milho, principais itens da safra nacional de grãos. Nos\núltimos dez anos, essa rota de escoamento mais do que duplicou sua participação na logística\nnacional. Os portos das regiões Sudeste e Sul formam o Arco Sul, sendo o Porto de Santos (SP)\nainda a principal porta de saída de grãos. Mas a tendência é que a via no norte do país siga\nganhando importância porque, quanto mais acima do paralelo 16° Sul estiver a mercadoria,\nmais vale a pena exportar pelo Arco Norte.\nO CAMINHO DAS EXPORTAÇÕES DE GRÃOS\n(participação percentual nas exportações de soja e milho)\n(Bar chart: Arco Norte vs Arco Sul percentage from 2009-2022)\nVINICIUS NEDER\nAdaptado de O Globo, 05/11/2023.\nEm menos de duas décadas, verifica-se uma alteração logística na exportação de grãos no\nterritório brasileiro.\nEssa alteração é explicada, principalmente, pelo seguinte processo socioespacial:",
+      principal: "Agravada este ano pelo fenômeno El Niño, a seca sazonal da Amazônia, que levou os rios aos\nmenores níveis da história, atrapalha o transporte de pessoas e mercadorias num momento em\nque os portos das regiões Norte e Nordeste, que formam o chamado Arco Norte, respondem por\nmais de 37% das exportações de soja e milho, principais itens da safra nacional de grãos. Nos\núltimos dez anos, essa rota de escoamento mais do que duplicou sua participação na $\\log$ística\nnacional. Os portos das regiões Sudeste e Sul formam o Arco Sul, sendo o Porto de Santos (SP)\nainda a principal porta de saída de grãos. Mas a tendência é que a via no norte do país siga\nganhando importância porque, quanto mais acima do paralelo 16° Sul estiver a mercadoria,\nmais vale a pena exportar pelo Arco Norte.\nO CAMINHO DAS EXPORTAÇÕES DE GRÃOS\n(participação percentual nas exportações de soja e milho)\n(Bar chart: Arco Norte vs Arco Sul percentage from 2009-2022)\nVINICIUS NEDER\nAdaptado de O Globo, 05/11/2023.\nEm menos de duas décadas, verifica-se uma alteração $\\log$ística na exportação de grãos no\nterritório brasileiro.\nEssa alteração é explicada, principalmente, pelo seguinte processo socioespacial:",
       subItens: []
     },
     options: [
@@ -1054,7 +1054,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Geografia"],
-    conteudo: ["Geografia Agrária", "Logística e Transporte"],
+    conteudo: ["Geografia Agrária", "$\\log$ística e Transporte"],
     imageNames: []
 }),
 

@@ -3,7 +3,7 @@ createQuestion({
     university: "unesp",
     year: 2016,
     text: {
-      principal: "As questões de 01 a 04 tomam por base uma crônica de Luís Fernando Veríssimo.\n\nA invasão\n\nA divisão ciência/humanismo se reflete na maneira como as pessoas, hoje, encaram o computador. Resiste- -se ao computador, e a toda a cultura cibernética, como uma forma de ser fiel ao livro e à palavra impressa. Mas o computador não eliminará o papel. Ao contrário do que se pensava há alguns anos, o computador não salvará as florestas. Aumentou o uso do papel em todo o mundo, e não apenas porque a cada novidade eletrônica lançada no mercado corresponde um manual de instrução, sem falar numa embalagem de papelão e num embrulho para presente. O computador estimula as pessoas a escreverem e imprimirem o que escrevem. Como hoje qualquer um pode ser seu próprio editor, paginador e ilustrador sem largar o mouse, a tentação de passar sua obra para o papel é quase irresistível.\nDesconfio que o que salvará o livro será o supérfluo, o que não tem nada a ver com conteúdo ou conveniência. Até que lancem computadores com cheiro sintetizado, nada substituirá o cheiro de papel e tinta nas suas duas categorias inimitáveis, livro novo e livro velho. E nenhuma coleção de gravações ornamentará uma sala com o calor e a dignidade de uma estante de livros. A tudo que falta ao admirável mundo da informática, da cibernética, do virtual e do instantâneo acrescente-se isso: falta lombada.\nNo fim, o livro deverá sua sobrevida à decoração de interiores.\n\n(O Estado de S.Paulo, 31.05.2015.)\n\nDe acordo com o cronista, a ideia que se tinha há alguns anos, de redução de consumo de papel em razão do emprego generalizado de computadores, revelou-se",
+      principal: "As questões de 01 a 04 tomam por base uma crônica de Luís Fernando Veríssimo.\n\nA invasão\n\nA divisão ciê$ncia/humanismo$ se reflete na maneira como as pessoas, hoje, encaram o computador. Resiste- -se ao computador, e a toda a cultura cibernética, como uma forma de ser fiel ao livro e à palavra impressa. Mas o computador não eliminará o papel. Ao contrário do que se pensava há alguns anos, o computador não salvará as florestas. Aumentou o uso do papel em todo o mundo, e não apenas porque a cada novidade eletrônica lançada no mercado corresponde um manual de instrução, sem falar numa embalagem de papelão e num embrulho para presente. O computador estimula as pessoas a escreverem e imprimirem o que escrevem. Como hoje qualquer um pode ser seu próprio editor, paginador e ilustrador sem largar o mouse, a tentação de passar sua obra para o papel é quase irresistível.\nDesconfio que o que salvará o livro será o supérfluo, o que não tem nada a ver com conteúdo ou conveniência. Até que lancem computadores com cheiro sintetizado, nada substituirá o cheiro de papel e tinta nas suas duas categorias inimitáveis, livro novo e livro velho. E nenhuma coleção de gravações ornamentará uma sala com o calor e a dignidade de uma estante de livros. A tudo que falta ao admirável mundo da informática, da cibernética, do virtual e do instantâneo acrescente-se isso: falta lombada.\nNo fim, o livro deverá sua sobrevida à decoração de interiores.\n\n(O Estado de S.Paulo, 31.05.2015.)\n\nDe acordo com o cronista, a ideia que se tinha há alguns anos, de redução de consumo de papel em razão do emprego generalizado de computadores, revelou-se",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "unesp",
     year: 2016,
     text: {
-      principal: "Leia o texto para responder às questões de 24 a 27.\n\nGenetically modified foods\n\nGenetically modified (GM) foods are foods derived from organisms whose genetic material (DNA) has been modified in a way that does not occur naturally, e.g. through the introduction of a gene from a different organism. Currently available GM foods stem mostly from plants, but in the future foods derived from GM microorganisms or GM animals are likely to be introduced on the market. Most existing genetically modified crops have been developed to improve yield, through the introduction of resistance to plant diseases or of increased tolerance of herbicides.\n\nIn the future, genetic modification could be aimed at altering the nutrient content of food, reducing its allergenic potential, or improving the efficiency of food production systems. All GM foods should be assessed before being allowed on the market. FAO/WHO Codex guidelines exist for risk analysis of GM food.\n\n(www.who.int)\n\nAccording to the text, genetically modified foods",
+      principal: "Leia o texto para responder às questões de 24 a 27.\n\nGenetically modified foods\n\nGenetically modified (GM) foods are foods derived from organisms whose genetic material (DNA) has been modified in a way that does not occur naturally, e.g. through the introduction of a gene from a different organism. Currently available GM foods stem mostly from plants, but in the future foods derived from GM microorganisms or GM animals are likely to be introduced on the market. Most existing genetically modified crops have been developed to improve yield, through the introduction of resistance to plant diseases or of increased tolerance of herbicides.\n\nIn the future, genetic modification could be aimed at altering the nutrient content of food, reducing its allergenic potential, or improving the efficiency of food production systems. All GM foods should be assessed before being allowed on the market. $FAO/WHO$ Codex guidelines exist for risk analysis of GM food.\n\n(www.who.int)\n\nAccording to the text, genetically modified foods",
       subItens: []
     },
     options: [
@@ -494,7 +494,7 @@ createQuestion({
       "are so widespread that they may be considered naturally occurring.",
       "are healthier although they don't taste as good as non-GM foods.",
       "comprise mostly vegetables because GM animal products are banned.",
-      "are mostly rejected after the FAO/WHO assessment."
+      "are mostly rejected after the $FAO/WHO$ assessment."
     ],
     correctAnswer: 0,
     materia: ["Inglês"],
@@ -570,7 +570,7 @@ createQuestion({
     university: "unesp",
     year: 2016,
     text: {
-      principal: "Leia o texto para responder às questões de 28 a 30.\n\nGM wheat no more\npest-resistant than ordinary crops, trial shows\n\nGM wheat designed to repel aphids is no more effective at repelling the bugs than standard varieties a major field trial has revealed\n\nlan Sample\nJune 25, 2015\n\nA major field trial of GM wheat that is designed to repel aphids (small insects) has found the crop is no better protected against the pests than conventional wheat. The results come from two years of trials that compared aphid attacks on standard wheat plants with those suffered by a GM version modified to release a natural aphid repellent.\n\nScientists created the GM wheat strain in the hope that it would deter aphids, which devour the crops and can leave them with infections. They modified the wheat to produce a natural pheromone which aphids release when under attack from predators. The “aphid alarm” makes the bugs flee to safety. Aphids are not the only organisms that release the odour though. More than 400 plants have evolved to secrete the same substance, called E-beta-farnesene, or EBF, including peppermint. The chemical doubles up as an attractant for some insects that kill aphids, such as parasitic wasps.\n\nPrior to the field trial, lab tests at Rothamsted found that the pheromone worked as a highly-effective aphid repellent. The work bolstered researchers' hopes that the trial would demonstrate the crop's resilience against aphids in the wild. An aphid-resistant wheat crop could have huge benefits for farmers and the environment because the plants would no longer need to be sprayed with insecticides.\n\n\"The disappointing thing is that when we tested it in the field, we didn't find any significant reduction in aphid settlement in the test plots,\" said Toby Bruce, who worked on the trial. Details of the trial are published in the journal Scientific Reports.\n\n(www.theguardian.com. Adaptado.)\n\nO objetivo do experimento com trigo geneticamente modificado foi",
+      principal: "Leia o texto para responder às questões de 28 a 30.\n\nGM wheat no more\npest-resistant than ordinary crops, trial shows\n\nGM wheat designed to repel aphids is no more effective at repelling the bugs than standard varieties a major field trial has revealed\n\nlan Sample\nJune 25, 2015\n\nA major field trial of GM wheat that is designed to repel aphids (small insects) has found the crop is no better protected against the pests than conventional wheat. The results come from two years of trials that compared aphid attacks on standard wheat plants with those suffered by a GM version modified to release a natural aphid repellent.\n\nScientists created the GM wheat strain in the hope that it would deter aphids, which devour the crops and can leave them with infections. They modified the wheat to produce a natural pheromone which aphids release when under attack from predators. The “aphid alarm” makes the bugs flee to safety. Aphids are not the only organisms that release the odour though. More than 400 plants have evolved to secrete the same substance, called E-$\\beta$-farnesene, or EBF, including peppermint. The chemical doubles up as an attractant for some insects that kill aphids, such as parasitic wasps.\n\nPrior to the field trial, lab tests at Rothamsted found that the pheromone worked as a highly-effective aphid repellent. The work bolstered researchers' hopes that the trial would demonstrate the crop's resilience against aphids in the wild. An aphid-resistant wheat crop could have huge benefits for farmers and the environment because the plants would no longer need to be sprayed with insecticides.\n\n\"The disappointing thing is that when we tested it in the field, we didn't find any significant reduction in aphid settlement in the test plots,\" said Toby Bruce, who worked on the trial. Details of the trial are published in the journal Scientific Reports.\n\n(www.theguardian.com. Adaptado.)\n\nO objetivo do experimento com trigo geneticamente modificado foi",
       subItens: []
     },
     options: [
@@ -885,7 +885,7 @@ createQuestion({
     university: "unesp",
     year: 2016,
     text: {
-      principal: "(Image: Diagram illustrating wind patterns (vento que sobe a encosta e impulsiona a asa-delta) and resulting altitude gain for a hang-glider (elevação da altura da asa-delta, permitindo maior tempo de voo).)\n\n(Ercília T. Steinke. Climatologia fácil, 2012. Adaptado.)\n\nA imagem ilustra o trajeto mais comum dos pilotos de asa-delta entre o Vale do Paranoá e a Esplanada dos Ministérios em Brasília, distantes cerca de 90 quilômetros. Constituem fatores que permitem a longa duração deste voo:",
+      principal: "(Image: Diagram illustrating wind patterns (vento que sobe a encosta e impulsiona a asa-$\\delta$) and resulting altitude gain for a hang-glider (elevação da altura da asa-$\\delta$, permitindo maior tempo de voo).)\n\n(Ercília T. Steinke. Climatologia fácil, 2012. Adaptado.)\n\nA imagem ilustra o trajeto mais comum dos pilotos de asa-$\\delta$ entre o Vale do Paranoá e a Esplanada dos Ministérios em Brasília, distantes cerca de 90 quilômetros. Constituem fatores que permitem a longa duração deste voo:",
       subItens: []
     },
     options: [
@@ -1103,7 +1103,7 @@ createQuestion({
       "as frágeis redes de transporte, a dificuldade de comunicação e a falta de matérias-primas.",
       "a queda na demanda do consumo local, a baixa qualificação da mão de obra e o sucateamento dos maquinários.",
       "o término das concessões, a falta de manutenção das infraestruturas e o desmembramento dos terrenos.",
-      "as plantas industriais rígidas, a logística precária e os elevados custos de produção."
+      "as plantas industriais rígidas, a $\\log$ística precária e os elevados custos de produção."
     ],
     correctAnswer: 4,
     materia: ["Geografia"],
@@ -1578,15 +1578,15 @@ createQuestion({
     university: "unesp",
     year: 2016,
     text: {
-      principal: "Em uma viagem de carro com sua família, um garoto colocou em prática o que havia aprendido nas aulas de física. Quando seu pai ultrapassou um caminhão em um trecho reto da estrada, ele calculou a velocidade do caminhão ultrapassado utilizando um cronômetro.\n\n(Image: Picture of a long truck with a sign saying \"VEÍCULO LONGO comprimento 30 m\".)\n\n(http://jiper.es. Adaptado.)\n\nO garoto acionou o cronômetro quando seu pai alinhou a frente do carro com a traseira do caminhão e o desligou no instante em que a ultrapassagem terminou, com a traseira do carro alinhada com a frente do caminhão, obtendo 8,5 s para o tempo de ultrapassagem.\n\nEm seguida, considerando a informação contida na figura e sabendo que o comprimento do carro era 4 m e que a velocidade do carro permaneceu constante e igual a 30 m/s, ele calculou a velocidade média do caminhão, durante a ultrapassagem, obtendo corretamente o valor",
+      principal: "Em uma viagem de carro com sua família, um garoto colocou em prática o que havia aprendido nas aulas de física. Quando seu pai ultrapassou um caminhão em um trecho reto da estrada, ele calculou a velocidade do caminhão ultrapassado utilizando um cronômetro.\n\n(Image: Picture of a long truck with a sign saying \"VEÍCULO LONGO comprimento 30 m\".)\n\n(http://jiper.es. Adaptado.)\n\nO garoto acionou o cronômetro quando seu pai alinhou a frente do carro com a traseira do caminhão e o desligou no instante em que a ultrapassagem terminou, com a traseira do carro alinhada com a frente do caminhão, obtendo 8,5 s para o tempo de ultrapassagem.\n\nEm seguida, considerando a informação contida na figura e sabendo que o comprimento do carro era 4 m e que a velocidade do carro permaneceu constante e igual a 30 $m/s$, ele calculou a velocidade média do caminhão, durante a ultrapassagem, obtendo corretamente o valor",
       subItens: []
     },
     options: [
-      "24 m/s.",
-      "21 m/s.",
-      "22 m/s.",
-      "26 m/s.",
-      "28 m/s."
+      "24 $m/s$.",
+      "21 $m/s$.",
+      "22 $m/s$.",
+      "26 $m/s$.",
+      "28 $m/s$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -1620,15 +1620,15 @@ createQuestion({
     university: "unesp",
     year: 2016,
     text: {
-      principal: "Algumas embalagens trazem, impressas em sua superfície externa, informações sobre a quantidade máxima de caixas iguais a ela que podem ser empilhadas, sem que haja risco de danificar a embalagem ou os produtos contidos na primeira caixa da pilha, de baixo para cima. Considere a situação em que três caixas iguais estejam empilhadas dentro de um elevador e que, em cada uma delas, esteja impressa uma imagem que indica que, no máximo, seis caixas iguais a ela podem ser empilhadas.\n\n(Image: Diagram of three stacked boxes inside an elevator. Each box has the number '6' printed on it.)\n\nSuponha que esse elevador esteja parado no andar térreo de um edifício e que passe a descrever um movimento uniformemente acelerado para cima. Adotando g = 10 m/s², é correto afirmar que a maior aceleração vertical que esse elevador pode experimentar, de modo que a caixa em contato com o piso receba desse, no máximo, a mesma força que receberia se o elevador estivesse parado e, na pilha, houvesse seis caixas, é igual a",
+      principal: "Algumas embalagens trazem, impressas em sua superfície externa, informações sobre a quantidade máxima de caixas iguais a ela que podem ser empilhadas, sem que haja risco de danificar a embalagem ou os produtos contidos na primeira caixa da pilha, de baixo para cima. Considere a situação em que três caixas iguais estejam empilhadas dentro de um elevador e que, em cada uma delas, esteja impressa uma imagem que indica que, no máximo, seis caixas iguais a ela podem ser empilhadas.\n\n(Image: Diagram of three stacked boxes inside an elevator. Each box has the number '6' printed on it.)\n\nSuponha que esse elevador esteja parado no andar térreo de um edifício e que passe a descrever um movimento uniformemente acelerado para cima. Adotando g = 10 $m/s$², é correto afirmar que a maior aceleração vertical que esse elevador pode experimentar, de modo que a caixa em contato com o piso receba desse, no máximo, a mesma força que receberia se o elevador estivesse parado e, na pilha, houvesse seis caixas, é igual a",
       subItens: []
     },
     options: [
-      "4 m/s².",
-      "8 m/s².",
-      "10 m/s².",
-      "6 m/s².",
-      "2 m/s²."
+      "4 $m/s$².",
+      "8 $m/s$².",
+      "10 $m/s$².",
+      "6 $m/s$².",
+      "2 $m/s$²."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -1641,7 +1641,7 @@ createQuestion({
     university: "unesp",
     year: 2016,
     text: {
-      principal: "Ótimos nadadores, os golfinhos conseguem saltar até 5 m acima do nível da água do mar. Considere que um golfinho de 100 kg, inicialmente em repouso no ponto A, situado 3 m abaixo da linha da água do mar, acione suas nadadeiras e atinja, no ponto B, determinada velocidade, quando inicia o seu movimento ascendente e seu centro de massa descreve a trajetória indicada na figura pela linha tracejada. Ao sair da água, seu centro de massa alcança o ponto C, a uma altura de 5 m acima da linha da água, com módulo da velocidade igual a 4√10 m/s, conforme a figura.\n\n(Image: A diagram showing a dolphin jumping out of the water. Point A is 3m below the water line, point B is at the water line, and point C is 5m above the water line. An arrow indicates velocity at point C.)\n\nConsidere que, no trajeto de B para C, o golfinho perdeu 20% da energia cinética que tinha ao chegar no ponto B, devido à resistência imposta pela água ao seu movimento. Desprezando a resistência do ar sobre o golfinho fora da água, a velocidade da água do mar e adotando g = 10 m/s², é correto afirmar que o módulo da quantidade de movimento adquirida pelo golfinho no ponto B, em kg·m/s, é igual a",
+      principal: "Ótimos nadadores, os golfinhos conseguem saltar até 5 m acima do nível da água do mar. Considere que um golfinho de 100 kg, inicialmente em repouso no ponto A, situado 3 m abaixo da linha da água do mar, acione suas nadadeiras e atinja, no ponto B, determinada velocidade, quando inicia o seu movimento ascendente e seu centro de massa descreve a trajetória indicada na figura pela linha tracejada. Ao sair da água, seu centro de massa alcança o ponto C, a uma altura de 5 m acima da linha da água, com módulo da velocidade igual a 4√10 $m/s$, conforme a figura.\n\n(Image: A diagram showing a dolphin jumping out of the water. Point A is 3m below the water line, point B is at the water line, and point C is 5m above the water line. An arrow indicates velocity at point C.)\n\nConsidere que, no trajeto de B para C, o golfinho perdeu 20% da energia cinética que tinha ao chegar no ponto B, devido à resistência imposta pela água ao seu movimento. Desprezando a resistência do ar sobre o golfinho fora da água, a velocidade da água do mar e adotando g = 10 $m/s$², é correto afirmar que o módulo da quantidade de movimento adquirida pelo golfinho no ponto B, em kg·$m/s$, é igual a",
       subItens: []
     },
     options: [
@@ -1704,7 +1704,7 @@ createQuestion({
     university: "unesp",
     year: 2016,
     text: {
-      principal: "Uma corda elástica está inicialmente esticada e em repouso, com uma de suas extremidades fixa em uma parede e a outra presa a um oscilador capaz de gerar ondas transversais nessa corda. A figura representa o perfil de um trecho da corda em determinado instante posterior ao acionamento do oscilador e um ponto P que descreve um movimento harmônico vertical, indo desde um ponto mais baixo (vale da onda) até um mais alto (crista da onda).\n\n(Image: Graph showing a sinusoidal wave profile with wavelength λ = 3m and amplitude = 0.8m. A point P is marked on the rising part of the wave.)\n\nSabendo que as ondas se propagam nessa corda com velocidade constante de 10 m/s e que a frequência do oscilador também é constante, a velocidade escalar média do ponto P, em m/s, quando ele vai de um vale até uma crista da onda no menor intervalo de tempo possível é igual a",
+      principal: "Uma corda elástica está inicialmente esticada e em repouso, com uma de suas extremidades fixa em uma parede e a outra presa a um oscilador capaz de gerar ondas transversais nessa corda. A figura representa o perfil de um trecho da corda em determinado instante posterior ao acionamento do oscilador e um ponto P que descreve um movimento harmônico vertical, indo desde um ponto mais baixo (vale da onda) até um mais alto (crista da onda).\n\n(Image: Graph showing a sinusoidal wave profile with wavelength λ = 3m and amplitude = 0.8m. A point P is marked on the rising part of the wave.)\n\nSabendo que as ondas se propagam nessa corda com velocidade constante de 10 $m/s$ e que a frequência do oscilador também é constante, a velocidade escalar média do ponto P, em $m/s$, quando ele vai de um vale até uma crista da onda no menor intervalo de tempo possível é igual a",
       subItens: []
     },
     options: [
@@ -1813,11 +1813,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/3",
-      "2/3",
-      "1/2",
-      "3/4",
-      "1/4"
+      "$1/3$",
+      "$2/3$",
+      "$1/2$",
+      "$3/4$",
+      "$1/4$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1872,7 +1872,7 @@ createQuestion({
     university: "unesp",
     year: 2016,
     text: {
-      principal: "Um torneio de futebol será disputado por 16 equipes que, ao final, serão classificadas do 1º ao 16º lugar. Para efeitos da classificação final, as regras do torneio impedem qualquer tipo de empate.\n\nConsiderando para os cálculos log 15! = 12 e log 2 = 0,3, a ordem de grandeza do total de classificações possíveis das equipes nesse torneio é de",
+      principal: "Um torneio de futebol será disputado por 16 equipes que, ao final, serão classificadas do 1º ao 16º lugar. Para efeitos da classificação final, as regras do torneio impedem qualquer tipo de empate.\n\nConsiderando para os cálculos $\\log$ 15! = 12 e $\\log$ 2 = 0,3, a ordem de grandeza do total de classificações possíveis das equipes nesse torneio é de",
       subItens: []
     },
     options: [

@@ -24,14 +24,14 @@ createQuestion({
     university: "ime",
     year: 2019,
     text: {
-      principal: "Os ângulos θ₁, θ₂, θ₃, ..., θ₁₀₀ são os termos de uma progressão aritmética na qual θ₁₁ + θ₂₆ + θ₇₅ + θ₉₀ = π/4. O valor de sen(∑¹⁰⁰ᵢ₌₁ θᵢ) é:",
+      principal: "Os ângulos θ₁, θ₂, θ₃, ..., θ₁₀₀ são os termos de uma progressão aritmética na qual θ₁₁ + θ₂₆ + θ₇₅ + θ₉₀ = π/4. O valor de $\\sin$(∑¹⁰⁰ᵢ₌₁ θᵢ) é:",
       subItens: []
     },
     options: [
       "-1",
-      "-√2/2",
+      "-√$2/2$",
       "0",
-      "√2/2",
+      "√$2/2$",
       "1"
     ],
     correctAnswer: 3,
@@ -45,7 +45,7 @@ createQuestion({
     university: "ime",
     year: 2019,
     text: {
-      principal: "Calcule o valor do determinante:\n\nlog 81 / (log 9)²         log 900 / (2 + 4 log 3 + 2(log 3)²)\n1                         log 300 / (log 3 + 2)²",
+      principal: "Calcule o valor do determinante:\n\n$\\log$ 81 / ($\\log$ 9)²         $\\log$ 900 / (2 + 4 $\\log$ 3 + 2($\\log$ 3)²)\n1                         $\\log$ 300 / ($\\log$ 3 + 2)²",
       subItens: []
     },
     options: [
@@ -71,10 +71,10 @@ createQuestion({
     },
     options: [
       "2",
-      "13/6",
+      "$13/6$",
       "3",
-      "5/2",
-      "8/3"
+      "$5/2$",
+      "$8/3$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -112,11 +112,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "(1/2, 3/2)",
-      "(3/2, 5/2)",
-      "(5/2, 7/2)",
-      "(7/2, 9/2)",
-      "(9/2, 11/2)"
+      "($1/2$, $3/2$)",
+      "($3/2$, $5/2$)",
+      "($5/2$, $7/2$)",
+      "($7/2$, $9/2$)",
+      "($9/2$, $11/2$)"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -154,11 +154,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2",
-      "3/76",
-      "9/400",
-      "1/80",
-      "3/80"
+      "$1/2$",
+      "$3/76$",
+      "$9/400$",
+      "$1/80$",
+      "$3/80$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -171,15 +171,15 @@ createQuestion({
     university: "ime",
     year: 2019,
     text: {
-      principal: "Um hexágono regular está inscrito em um círculo de raio R. São sorteados 3 vértices distintos do hexágono, a saber: A, B e C. Seja r o raio do círculo inscrito ao triângulo ABC. Qual a probabilidade de que r = R/2?",
+      principal: "Um hexágono regular está inscrito em um círculo de raio R. São sorteados 3 vértices distintos do hexágono, a saber: A, B e C. Seja r o raio do círculo inscrito ao triângulo ABC. Qual a probabilidade de que r = $R/2$?",
       subItens: []
     },
     options: [
       "0",
-      "1/10",
-      "3/5",
-      "1/20",
-      "1/6"
+      "$1/10$",
+      "$3/5$",
+      "$1/20$",
+      "$1/6$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -192,7 +192,7 @@ createQuestion({
     university: "ime",
     year: 2019,
     text: {
-      principal: "O número de soluções reais da equação abaixo é:\n\n(cos x)²⁰¹⁸ = 2 − 2(x/π)²",
+      principal: "O número de soluções reais da equação abaixo é:\n\n($\\cos$ x)²⁰¹⁸ = 2 − 2(x/π)²",
       subItens: []
     },
     options: [
@@ -217,11 +217,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2sen(Â + Ĉ) = sen(Â) + sen(Ĉ)",
-      "2cos(Â + Ĉ) = cos(Â) + cos(Ĉ)",
-      "2sen(Â – Ĉ) = sen(Â) – sen(Ĉ)",
-      "2cos(Â – Ĉ) = cos(Â) – cos(Ĉ)",
-      "2cos(Â + Ĉ) = sen(Â) + sen(Ĉ)"
+      "2sen(Â + Ĉ) = $\\sin$(Â) + $\\sin$(Ĉ)",
+      "2cos(Â + Ĉ) = $\\cos$(Â) + $\\cos$(Ĉ)",
+      "2sen(Â – Ĉ) = $\\sin$(Â) – $\\sin$(Ĉ)",
+      "2cos(Â – Ĉ) = $\\cos$(Â) – $\\cos$(Ĉ)",
+      "2cos(Â + Ĉ) = $\\sin$(Â) + $\\sin$(Ĉ)"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -263,7 +263,7 @@ createQuestion({
       "2R",
       "2R√2",
       "4R√5",
-      "4R√5/5"
+      "4R√$5/5$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -360,15 +360,15 @@ createQuestion({
     university: "ime",
     year: 2019,
     text: {
-      principal: "Um corpo encontra-se com 2/3 de seu volume submerso. Uma de suas extremidades está presa por uma corda a um conjunto de roldanas que suspende uma carga puntiforme submetida a um campo elétrico uniforme. A outra extremidade está presa a uma mola distendida que está fixa no fundo do recipiente. Este sistema se encontra em equilíbrio e sua configuração é mostrada na figura acima. Desprezando os efeitos de borda no campo elétrico, a deformação da mola na condição de equilíbrio é:\nDados:\n• a corda e as roldanas são ideais;\n• aceleração da gravidade: g;\n• massa específica do fluido: ρ;\n• massa específica do corpo: 2ρ;\n• constante elástica da mola: k;\n• volume do corpo: V;\n• intensidade do campo elétrico uniforme: E;\n• massa da carga elétrica: m; e\n• carga elétrica: + q.",
+      principal: "Um corpo encontra-se com $2/3$ de seu volume submerso. Uma de suas extremidades está presa por uma corda a um conjunto de roldanas que suspende uma carga puntiforme submetida a um campo elétrico uniforme. A outra extremidade está presa a uma mola distendida que está fixa no fundo do recipiente. Este sistema se encontra em equilíbrio e sua configuração é mostrada na figura acima. Desprezando os efeitos de borda no campo elétrico, a deformação da mola na condição de equilíbrio é:\nDados:\n• a corda e as roldanas são ideais;\n• aceleração da gravidade: g;\n• massa específica do fluido: ρ;\n• massa específica do corpo: 2ρ;\n• constante elástica da mola: k;\n• volume do corpo: V;\n• intensidade do campo elétrico uniforme: E;\n• massa da carga elétrica: m; e\n• carga elétrica: + q.",
       subItens: []
     },
     options: [
-      "(g/k)(m - (4pV)/3 - qE/2)",
-      "(g/k)(3m/2 - V/3) + (3qE)/(2k)",
+      "($g/k$)(m - (4pV)/3 - $qE/2$)",
+      "($g/k$)($3m/2$ - $V/3$) + (3qE)/(2k)",
       "(g/(3k))(m – 4pV + qE) + (qE)/(2k)",
-      "(g/k)(m/2 - pV/3) + qE/k",
-      "(mg/k)(qE/d - 2pV/3)"
+      "($g/k$)($m/2$ - $pV/3$) + $qE/k$",
+      "($mg/k$)($qE/d$ - $2pV/3$)"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -444,7 +444,7 @@ createQuestion({
     university: "ime",
     year: 2019,
     text: {
-      principal: "A figura mostra um circuito montado sob um plano inclinado feito de material condutor ideal, sem atrito de ângulo α com a horizontal. Um corpo é liberado do ponto A e, à medida que passa pelos sensores localizados nos pontos 1, 2, 3 e 4, as chaves Ch1, Ch2, Ch3 e Ch4 são fechadas instantaneamente. Diante do exposto, a energia elétrica dissipada durante a descida do corpo até o ponto B, em joules, é:\nDados:\n• R1 = 10 Ω;\n• R2 = 10 Ω;\n• R3 = 5 Ω;\n• R4 = 2,5 Ω;\n• E = 10 V;\n• α = 30°; e\n• g = 10 m/s².",
+      principal: "A figura mostra um circuito montado sob um plano inclinado feito de material condutor ideal, sem atrito de ângulo α com a horizontal. Um corpo é liberado do ponto A e, à medida que passa pelos sensores localizados nos pontos 1, 2, 3 e 4, as chaves Ch1, Ch2, Ch3 e Ch4 são fechadas instantaneamente. Diante do exposto, a energia elétrica dissipada durante a descida do corpo até o ponto B, em joules, é:\nDados:\n• R1 = 10 Ω;\n• R2 = 10 Ω;\n• R3 = 5 Ω;\n• R4 = 2,5 Ω;\n• E = 10 V;\n• α = 30°; e\n• g = 10 $m/s$².",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "ime",
     year: 2019,
     text: {
-      principal: "A figura mostra uma haste de massa desprezível com um apoio articulado em uma extremidade. A outra extremidade possui um recipiente apoiado em uma mola e amarrado ao solo por um fio. A haste é mantida na posição horizontal e a mola comprimida. Uma bola é colocada nesse recipiente e, após o corte do fio, o sistema é liberado com distensão instantânea da mola.\nA constante elástica da mola, em N/m, para que, quando a prancha estiver perpendicular ao solo, a bola seja lançada e acerte o cesto é:\nDados:\n• comprimento da prancha: 1 m;\n• distância do apoio ao cesto: 5 m;\n• massa da bola: 200 g;\n• deformação inicial da mola: 10 cm; e\n• aceleração da gravidade: 10 m/s².\nObservação:\n• despreze as dimensões da bola.",
+      principal: "A figura mostra uma haste de massa desprezível com um apoio articulado em uma extremidade. A outra extremidade possui um recipiente apoiado em uma mola e amarrado ao solo por um fio. A haste é mantida na posição horizontal e a mola comprimida. Uma bola é colocada nesse recipiente e, após o corte do fio, o sistema é liberado com distensão instantânea da mola.\nA constante elástica da mola, em $N/m$, para que, quando a prancha estiver perpendicular ao solo, a bola seja lançada e acerte o cesto é:\nDados:\n• comprimento da prancha: 1 m;\n• distância do apoio ao cesto: 5 m;\n• massa da bola: 200 g;\n• deformação inicial da mola: 10 cm; e\n• aceleração da gravidade: 10 $m/s$².\nObservação:\n• despreze as dimensões da bola.",
       subItens: []
     },
     options: [
@@ -553,11 +553,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "h / (1 - cos(2πΔt/T))",
-      "h / (sec(2πΔt/T) - 1)",
-      "h cotg (2πΔt/T)",
-      "h cosec (2πΔt/T)",
-      "(h sen(2πΔt/T)) / (1 - cos(2πΔt/T))"
+      "h / (1 - $\\cos$(2πΔ$t/T$))",
+      "h / (sec(2πΔ$t/T$) - 1)",
+      "h $\\cot$ (2πΔ$t/T$)",
+      "h cosec (2πΔ$t/T$)",
+      "(h $\\sin$(2πΔ$t/T$)) / (1 - $\\cos$(2πΔ$t/T$))"
     ],
     correctAnswer: 1,
     materia: ["Física", "Matemática"],
@@ -598,8 +598,8 @@ createQuestion({
       "1250/(7k)",
       "125/(70k)",
       "7/(1250k)",
-      "1250/k",
-      "k/1250"
+      "$1250/k$",
+      "$k/1250$"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -612,7 +612,7 @@ createQuestion({
     university: "ime",
     year: 2019,
     text: {
-      principal: "Um tubo sonoro de comprimento total L = 1m, aberto nas duas extremidades, possui uma parede móvel em seu interior, conforme a figura. Essa parede é composta de material refletor de ondas sonoras e pode ser transladada para diferentes posições, dividindo o tubo em duas câmaras de comprimento L₁ e L₂. Duas ondas sonoras distintas adentram nesse tubo, uma pela abertura da esquerda, com f₁ = 2,89 kHz, e outra pela abertura da direita, com f₂ = 850 Hz. Em relação às ondas sonoras, os valores de L₁ e L₂, em cm, que possibilitarão a formação de ondas ressonantes em ambas as cavidades são, respectivamente:\nDado:\n• O meio no interior do tudo é o ar, onde o som se propaga com velocidade 340 m/s.",
+      principal: "Um tubo sonoro de comprimento total L = 1m, aberto nas duas extremidades, possui uma parede móvel em seu interior, conforme a figura. Essa parede é composta de material refletor de ondas sonoras e pode ser transladada para diferentes posições, dividindo o tubo em duas câmaras de comprimento L₁ e L₂. Duas ondas sonoras distintas adentram nesse tubo, uma pela abertura da esquerda, com f₁ = 2,89 kHz, e outra pela abertura da direita, com f₂ = 850 Hz. Em relação às ondas sonoras, os valores de L₁ e L₂, em cm, que possibilitarão a formação de ondas ressonantes em ambas as cavidades são, respectivamente:\nDado:\n• O meio no interior do tudo é o ar, onde o som se propaga com velocidade 340 $m/s$.",
       subItens: []
     },
     options: [
@@ -696,15 +696,15 @@ createQuestion({
     university: "ime",
     year: 2019,
     text: {
-      principal: "É requerido que fazendas produtoras de leite bovino controlem a acidez do leite que está aguardando o processamento. Essa acidez é resultante da conversão da lactose em ácido lático (ácido 2-hidroxipropanoico) por ação de microrganismos:\nC₁₂H₂₂O₁₁ + H₂O → 4C₃H₆O₃\nUm fazendeiro decidiu fazer um experimento para determinar a taxa de geração de ácido lático no leite armazenado: retirou uma amostra de 50 cm³ de leite, cuja concentração de ácido lático é de 1,8 g/L, e, depois de três horas, utilizou 40 cm³ de uma solução 0,1 molar de NaOH para neutralizá-la.\nConclui-se que a taxa média de produção de ácido lático por litro de leite é:",
+      principal: "É requerido que fazendas produtoras de leite bovino controlem a acidez do leite que está aguardando o processamento. Essa acidez é resultante da conversão da lactose em ácido lático (ácido 2-hidroxipropanoico) por ação de microrganismos:\nC₁₂H₂₂O₁₁ + H₂O → 4C₃H₆O₃\nUm fazendeiro decidiu fazer um experimento para determinar a taxa de geração de ácido lático no leite armazenado: retirou uma amostra de 50 cm³ de leite, cuja concentração de ácido lático é de 1,8 $g/L$, e, depois de três horas, utilizou 40 cm³ de uma solução 0,1 molar de NaOH para neutralizá-la.\nConclui-se que a taxa média de produção de ácido lático por litro de leite é:",
       subItens: []
     },
     options: [
-      "0,25 mg/L.s",
-      "0,33 mg/L.s",
-      "0,50 mg/L.s",
-      "0,67 mg/L.s",
-      "1,00 mg/L.s"
+      "0,25 $mg/L$.s",
+      "0,33 $mg/L$.s",
+      "0,50 $mg/L$.s",
+      "0,67 $mg/L$.s",
+      "1,00 $mg/L$.s"
     ],
     correctAnswer: 2,
     materia: ["Química"],

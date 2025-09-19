@@ -213,15 +213,15 @@ createQuestion({
     university: "ufrr",
     year: 2024,
     text: {
-      principal: "O gráfico abaixo representa o movimento de um móvel.\nv (m/s)\n7\n5\n0\n2\n4\nt(s)\nConsiderando as informações presentes no gráfico, é\nINCORRETO afirmar que:",
+      principal: "O gráfico abaixo representa o movimento de um móvel.\nv ($m/s$)\n7\n5\n0\n2\n4\nt(s)\nConsiderando as informações presentes no gráfico, é\nINCORRETO afirmar que:",
       subItens: []
     },
     options: [
       "A variação da posição, entre os instantes 0 se 2s, foi\nde 10 m.",
       "Entre os instantes 2 se 4 s, o móvel estava em\nmovimento uniformemente variado.",
-      "No instante t= 3 s, a velocidade do móvel era de 6\nm/s.",
+      "No instante t= 3 s, a velocidade do móvel era de 6\n$m/s$.",
       "A distância total percorrida pelo móvel entre os\ninstantes 0 e 4 s foi de 28 m.",
-      "No instante t= 4 s a aceleração do móvel era de 1\nm/s²."
+      "No instante t= 4 s a aceleração do móvel era de 1\n$m/s$²."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -241,7 +241,7 @@ createQuestion({
       "O trabalho da força peso, ao longo da trajetória ABC é\nmaior do que o trabalho realizado pela mesma força,\nao longo da trajetória AC.",
       "O trabalho da força peso, ao longo da trajetória ABC é\nigual ao trabalho realizado pela mesma força, ao\nlongo da trajetória AC.",
       "O trabalho da força peso, ao longo da trajetória ABC é\nmenor do que o trabalho realizado pela mesma força,\nao longo da trajetória AC.",
-      "O trabalho da força peso, ao longo da trajetória ABC é\nigual a 350 J (considerando g= 10 m/s²).",
+      "O trabalho da força peso, ao longo da trajetória ABC é\nigual a 350 J (considerando g= 10 $m/s$²).",
       "O trabalho da força peso, ao longo das duas\ntrajetórias é positivo."
     ],
     correctAnswer: 1,
@@ -255,7 +255,7 @@ createQuestion({
     university: "ufrr",
     year: 2024,
     text: {
-      principal: "Os dados do Centro de Previsão Climática da\nAdministração Oceânica e Atmosférica (NOAA), dos\nEstados Unidos, apontaram que o El Niño apresentou\nsinais de atividade já em junho de 2023, prometendo se\ntornar um dos exemplares mais rigorosos já\nexperimentados pela humanidade. De acordo com o\ncomunicado, a chance de um El Niño forte é de 56% e de\num moderado é de 84%.\nFonte: https://revistapesquisa.fapesp.br/sinais-do-proximo-el-nino/.\nAcesso em 18 de set. de 2023.\nSobre o El Niño, marque a alternativa que descreve\nCORRETAMENTE a definição desse fenômeno e sua\natuação no território brasileiro, respectivamente:",
+      principal: "Os dados do Centro de Previsão Climática da\nAdministração Oceânica e Atmosférica (NOAA), dos\nEstados Unidos, apontaram que o El Niño apresentou\nsinais de atividade já em junho de 2023, prometendo se\ntornar um dos exemplares mais rigorosos já\nexperimentados pela humanidade. De acordo com o\ncomunicado, a chance de um El Niño forte é de 56% e de\num moderado é de 84%.\nFonte: https://revistapesquisa.fapesp.$br/sinais$-do-proximo-el-nino/.\nAcesso em 18 de set. de 2023.\nSobre o El Niño, marque a alternativa que descreve\nCORRETAMENTE a definição desse fenômeno e sua\natuação no território brasileiro, respectivamente:",
       subItens: []
     },
     options: [
@@ -339,7 +339,7 @@ createQuestion({
     university: "ufrr",
     year: 2024,
     text: {
-      principal: "\"Os micênicos chegaram à Grécia em 1600 a.C., e, por\nvolta de 1400 a.C., assimilaram os cretenses. Eles eram um\npovo indo-europeu que migrou para a região,\nespalhando-se por todo o território grego e chegando às\nilhas do Mar Egeu e à Ásia Menor. Sabemos que os\nmicênicos chamavam a si mesmos de aqueus.”\n(SILVA, Daniel Neves. Grécia Antiga. Disponível em\nhttps://www.historiadomundo.com.br/grega. Consultado em 21 de\nSetembro de 2023)\nCom base na assertiva acima é CORRETO afirmar que:",
+      principal: "\"Os micênicos chegaram à Grécia em 1600 a.C., e, por\nvolta de 1400 a.C., assimilaram os cretenses. Eles eram um\npovo indo-europeu que migrou para a região,\nespalhando-se por todo o território grego e chegando às\nilhas do Mar Egeu e à Ásia Menor. Sabemos que os\nmicênicos chamavam a si mesmos de aqueus.”\n(SILVA, Daniel Neves. Grécia Antiga. Disponível em\nhttps://www.historiadomundo.com.$br/grega$. Consultado em 21 de\nSetembro de 2023)\nCom base na assertiva acima é CORRETO afirmar que:",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "ufrr",
     year: 2024,
     text: {
-      principal: "Investigações que usam a entrevista como instrumento de\npesquisa têm o potencial de revelar percepções sociais\nimportantes. O texto apresenta resultados de um estudo\nque tinha o objetivo de:\nTEXTO I\nWhy your perception of climate change threats might\ndepend on where you live new research\nOur planet has just seen its hottest month on record, with\nmany places on fire or flooded. [...] However, not everyone\nnotices or feels this threat to the same extent. [...] In our\nstudy, we wanted to find out how British people who live\nin cities experience the threat of climate change,\ncompared with people who live rurally. Based on a\nrepresentative sample of 1,071 survey respondents from\nacross the UK, we found that people in rural areas showed\nhigher degrees of place attachment than people living in\ncities, as we expected. However, we were surprised to see\nthat the perceived threat of climate change in the most\nrural locations was lower. [...] there are three compelling\nexplanations.\n1. Awareness\nPeople in rural areas may not be as aware of climate\nchange as people in cities. [...] However, looking more\nclosely, the effect is mostly down to education rather than\nwhether people live in rural areas or not. [...]\n2. Experience\nPeople in rural areas may not experience climate\nchange in the same way as people in cities. This is because\nrural areas have higher levels of green space than urban\nareas. For example, you will feel the heat less when you\nare surrounded by trees.\n3. Resilience\n[...] Rural people may be aware of climate change and\nthey may experience it like everyone else, but they may\nhave better ways of coping with it than city dwellers\nbecause of their closer relationship with nature. This may\nhave taught them to be more flexible in how they deal\nwith change. [...]\nClimate change is certainly worrying for most of us and\nsometimes linked with heightened anxiety. [...] What\nmatters is what we do in our everyday lives, how much we\nrecognise that things are changing and whether we are\nwilling to take action.\nDisponível e adaptado de: https://theconversation.com/why-your-\nperception-of-climate-change-threats-might-depend-on-where-you-\nlive-new-research-212888 Acesso em: 13 set. 2023.",
+      principal: "Investigações que usam a entrevista como instrumento de\npesquisa têm o potencial de revelar percepções sociais\nimportantes. O texto apresenta resultados de um estudo\nque tinha o objetivo de:\nTEXTO I\nWhy your perception of climate change threats might\ndepend on where you live new research\nOur planet has just seen its hottest month on record, with\nmany places on fire or flooded. [...] However, not everyone\nnotices or feels this threat to the same extent. [...] In our\nstudy, we wanted to find out how British people who live\nin cities experience the threat of climate change,\ncompared with people who live rurally. Based on a\nrepresentative sample of 1,071 survey respondents from\nacross the UK, we found that people in rural areas showed\nhigher degrees of place attachment than people living in\ncities, as we expected. However, we were surprised to see\nthat the perceived threat of climate change in the most\nrural locations was lower. [...] there are three compelling\nexplanations.\n1. Awareness\nPeople in rural areas may not be as aware of climate\nchange as people in cities. [...] However, looking more\nclosely, the effect is mostly down to education rather than\nwhether people live in rural areas or not. [...]\n2. Experience\nPeople in rural areas may not experience climate\nchange in the same way as people in cities. This is because\nrural areas have higher levels of green space than urban\nareas. For example, you will feel the heat less when you\nare surrounded by trees.\n3. Resilience\n[...] Rural people may be aware of climate change and\nthey may experience it like everyone else, but they may\nhave better ways of coping with it than city dwellers\nbecause of their closer relationship with nature. This may\nhave taught them to be more flexible in how they deal\nwith change. [...]\nClimate change is certainly worrying for most of us and\nsometimes linked with heightened anxiety. [...] What\nmatters is what we do in our everyday lives, how much we\nrecognise that things are changing and whether we are\nwilling to take action.\nDisponível e adaptado de: https://theconversation.$com/why$-your-\nperception-of-climate-change-threats-might-depend-on-where-you-\nlive-new-research-212888 Acesso em: 13 set. 2023.",
       subItens: []
     },
     options: [

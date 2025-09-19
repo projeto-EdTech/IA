@@ -150,7 +150,7 @@ createQuestion({
     university: "famerp",
     year: 2024,
     text: {
-      principal: "Leia a narrativa \"O protetor\", de Millôr Fernandes, para responder às questões 08 e 09.\n\nO homem vinha guiando o carro a 120 km/h quando o pneu furou. O carro deu três voltas sobre si mesmo, foi atirado pelos ares, bateu num galho de árvore e, quando ia se esborrachando no chão, alguém o segurou sem que ele pudesse ver quem. Ele ficou um pouco tonto e foi aí que ouviu a voz misteriosa que lhe disse: “Não se estás morto, não! Estás vivo! Eu continuo aqui para proteger-te. Sou teu anjo da guarda. Quando tiveste aquele ataque de coqueluche, aos seis meses de idade, eu estava lá para te salvar. Quando ficaste na frente do trem, aos seis anos, eu estava lá para te ajudar. Quando foste para a guerra na Itália, quando saltaste de paraquedas na Coreia, quando ias te afogando em Copacabana, sempre fui eu quem te ajudou.”\n\n“Está bem, está bem, muito obrigado”, disse então o homem agradecido. “Mas onde diabos estava você quando eu me casei?”\n\n(Millôr Fernandes. Contos fabulosos, 2007.)\n\nA pergunta do homem a seu anjo da guarda revela, sobretudo, um sentimento de",
+      principal: "Leia a narrativa \"O protetor\", de Millôr Fernandes, para responder às questões 08 e 09.\n\nO homem vinha guiando o carro a 120 $km/h$ quando o pneu furou. O carro deu três voltas sobre si mesmo, foi atirado pelos ares, bateu num galho de árvore e, quando ia se esborrachando no chão, alguém o segurou sem que ele pudesse ver quem. Ele ficou um pouco tonto e foi aí que ouviu a voz misteriosa que lhe disse: “Não se estás morto, não! Estás vivo! Eu continuo aqui para proteger-te. Sou teu anjo da guarda. Quando tiveste aquele ataque de coqueluche, aos seis meses de idade, eu estava lá para te salvar. Quando ficaste na frente do trem, aos seis anos, eu estava lá para te ajudar. Quando foste para a guerra na Itália, quando saltaste de paraquedas na Coreia, quando ias te afogando em Copacabana, sempre fui eu quem te ajudou.”\n\n“Está bem, está bem, muito obrigado”, disse então o homem agradecido. “Mas onde diabos estava você quando eu me casei?”\n\n(Millôr Fernandes. Contos fabulosos, 2007.)\n\nA pergunta do homem a seu anjo da guarda revela, sobretudo, um sentimento de",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "famerp",
     year: 2024,
     text: {
-      principal: "Escala de ventos de furacões Saffir-Simpson\n\n[Tabela apresentando as Categorias de furacões (1 a 5) com as respectivas velocidades de vento em km/h e danos associados. (Camila Costa et al. www.bbc.com, 26.08.2020.)]\n\nEntre os aspectos naturais que influenciam a intensidade de um furacão está",
+      principal: "Escala de ventos de furacões Saffir-Simpson\n\n[Tabela apresentando as Categorias de furacões (1 a 5) com as respectivas velocidades de vento em $km/h$ e danos associados. (Camila Costa et al. www.bbc.com, 26.08.2020.)]\n\nEntre os aspectos naturais que influenciam a intensidade de um furacão está",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "famerp",
     year: 2024,
     text: {
-      principal: "Um médico prescreve para seu paciente a infusão de 30 mL de uma solução preparada pela diluição de 400 mg de determinado medicamento em 240 mL de soro glicosado a 5% (m/v).\n\nAs massas do medicamento e de glicose administradas ao paciente são, respectivamente, de",
+      principal: "Um médico prescreve para seu paciente a infusão de 30 mL de uma solução preparada pela diluição de 400 mg de determinado medicamento em 240 mL de soro glicosado a 5% ($m/v$).\n\nAs massas do medicamento e de glicose administradas ao paciente são, respectivamente, de",
       subItens: []
     },
     options: [
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "famerp",
     year: 2024,
     text: {
-      principal: "Analise os dados extraídos dos rótulos de duas marcas de água mineral.\n\n[Tabela: Composição química (mg/L) para Água mineral 1 e Água mineral 2. Inclui pH, Bicarbonato, Carbonato, Sódio, Potássio, Nitrato.]\n\nA concentração de íons H⁺ na água mineral 1 é da ordem de 104 vezes ______ que na água mineral 2. Contribuem para o elevado pH da água mineral 2 a presença dos íons ______ e ______. As lacunas do texto são preenchidas, respectivamente, por",
+      principal: "Analise os dados extraídos dos rótulos de duas marcas de água mineral.\n\n[Tabela: Composição química ($mg/L$) para Água mineral 1 e Água mineral 2. Inclui pH, Bicarbonato, Carbonato, Sódio, Potássio, Nitrato.]\n\nA concentração de íons H⁺ na água mineral 1 é da ordem de 104 vezes ______ que na água mineral 2. Contribuem para o elevado pH da água mineral 2 a presença dos íons ______ e ______. As lacunas do texto são preenchidas, respectivamente, por",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "famerp",
     year: 2024,
     text: {
-      principal: "Em uma cobrança de pênalti, um jogador de futebol chuta a bola em direção ao gol com velocidade média de 108 km/h. A partir do momento em que perde contato com o pé do jogador, a bola demora apenas 0,4 segundos para chegar à linha do gol. Durante esse período, a distância percorrida pela bola foi de",
+      principal: "Em uma cobrança de pênalti, um jogador de futebol chuta a bola em direção ao gol com velocidade média de 108 $km/h$. A partir do momento em que perde contato com o pé do jogador, a bola demora apenas 0,4 segundos para chegar à linha do gol. Durante esse período, a distância percorrida pela bola foi de",
       subItens: []
     },
     options: [
@@ -1326,7 +1326,7 @@ createQuestion({
     university: "famerp",
     year: 2024,
     text: {
-      principal: "Uma bola de basquetebol, de massa 600 g, é abandonada de uma altura de 1,90 m em relação ao solo. A bola colide com o solo e retorna a uma altura de 1,50 m. Desprezando a resistência com o ar e adotando o valor de 10 m/s² para a aceleração da gravidade, a energia mecânica dissipada durante a colisão dessa bola com o solo possui valor de",
+      principal: "Uma bola de basquetebol, de massa 600 g, é abandonada de uma altura de 1,90 m em relação ao solo. A bola colide com o solo e retorna a uma altura de 1,50 m. Desprezando a resistência com o ar e adotando o valor de 10 $m/s$² para a aceleração da gravidade, a energia mecânica dissipada durante a colisão dessa bola com o solo possui valor de",
       subItens: []
     },
     options: [
@@ -1347,15 +1347,15 @@ createQuestion({
     university: "famerp",
     year: 2024,
     text: {
-      principal: "Uma torneira despeja água à razão constante em um tanque em forma de paralelepípedo, com base plana e horizontal, como mostra a figura.\n\n[Imagem de uma torneira despejando água em um tanque retangular. (www.geogebra.org. Adaptado.)]\n\nSabendo que o nível da água no recipiente sobe à razão de 5,0 cm/min, que a massa específica da água é igual a 1,0 × 10³ kg/m³ e que aceleração gravitacional no local é 10 m/s², a taxa com que a pressão hidrostática sobre a base desse recipiente aumenta é",
+      principal: "Uma torneira despeja água à razão constante em um tanque em forma de paralelepípedo, com base plana e horizontal, como mostra a figura.\n\n[Imagem de uma torneira despejando água em um tanque retangular. (www.geogebra.org. Adaptado.)]\n\nSabendo que o nível da água no recipiente sobe à razão de 5,0 $cm/min$, que a massa específica da água é igual a 1,0 × 10³ $kg/m$³ e que aceleração gravitacional no local é 10 $m/s$², a taxa com que a pressão hidrostática sobre a base desse recipiente aumenta é",
       subItens: []
     },
     options: [
-      "5,0 x 10² Pa/min.",
-      "8,0 × 10¹ Pa/min.",
-      "2,5 × 10¹ Pa/min.",
-      "2,0 x 10² Pa/min.",
-      "2,5 × 10³ Pa/min."
+      "5,0 x 10² $Pa/min$.",
+      "8,0 × 10¹ $Pa/min$.",
+      "2,5 × 10¹ $Pa/min$.",
+      "2,0 x 10² $Pa/min$.",
+      "2,5 × 10³ $Pa/min$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1410,7 +1410,7 @@ createQuestion({
     university: "famerp",
     year: 2024,
     text: {
-      principal: "A frequência de oscilação de um pêndulo simples é dada pela expressão f = 1/(2π) * sqrt(g/L), sendo L o comprimento do fio do pêndulo e g a aceleração gravitacional.\n\n[Diagrama de um pêndulo simples. ]\n\nConsidere um pêndulo simples cujo comprimento do fio seja L e que, ao oscilar livremente, completa 40 oscilações por minuto. Se o comprimento do fio desse pêndulo for quadruplicado, o número de oscilações por minuto que esse pêndulo passará a executar quando oscilar livremente será",
+      principal: "A frequência de oscilação de um pêndulo simples é dada pela expressão f = 1/(2π) * sqrt($g/L$), sendo L o comprimento do fio do pêndulo e g a aceleração gravitacional.\n\n[Diagrama de um pêndulo simples. ]\n\nConsidere um pêndulo simples cujo comprimento do fio seja L e que, ao oscilar livremente, completa 40 oscilações por minuto. Se o comprimento do fio desse pêndulo for quadruplicado, o número de oscilações por minuto que esse pêndulo passará a executar quando oscilar livremente será",
       subItens: []
     },
     options: [
@@ -1498,11 +1498,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/3",
-      "1/4",
-      "1/6",
-      "1/12",
-      "1/9"
+      "$1/3$",
+      "$1/4$",
+      "$1/6$",
+      "$1/12$",
+      "$1/9$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1536,15 +1536,15 @@ createQuestion({
     university: "famerp",
     year: 2024,
     text: {
-      principal: "Observe o produto de infinitas frações que seguem determinado padrão:\n\n16/2 * 16/4 * 16/8 * 16/16 * ... * 16/(2^n) * ...\n\nO produto das 16 primeiras frações desse padrão é igual a:",
+      principal: "Observe o produto de infinitas frações que seguem determinado padrão:\n\n$16/2$ * $16/4$ * $16/8$ * $16/16$ * ... * 16/($2^n$) * ...\n\nO produto das 16 primeiras frações desse padrão é igual a:",
       subItens: []
     },
     options: [
-      "2^64",
+      "$2^64$",
       "2^-64",
       "2^-32",
       "2^-72",
-      "2^72"
+      "$2^72$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1626,9 +1626,9 @@ createQuestion({
     options: [
       "(11,0)",
       "(10,0)",
-      "(17/2, 0)",
-      "(19/2, 0)",
-      "(21/2, 0)"
+      "($17/2$, 0)",
+      "($19/2$, 0)",
+      "($21/2$, 0)"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],

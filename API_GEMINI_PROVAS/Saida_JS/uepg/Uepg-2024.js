@@ -12,7 +12,7 @@ createQuestion({
       "O termo \"diariamente\", presente na oração, é um advérbio de modo que acrescenta características ao verbo \"comer\".",
       "A expressão \"comer\", usada no excerto, é uma forma nominal do verbo chamada de particípio, que expressa o resultado de uma ação."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Classes de Palavras", "Formas Nominais do Verbo"],
     imageNames: []
@@ -32,7 +32,7 @@ createQuestion({
       "A expressão \"ultraprocessados\", existente no trecho, foi formada através do processo denominado de derivação regressiva.",
       "O termo \"ultraprocessados\", utilizado no excerto, foi formado a partir da derivação imprópria de uma forma verbal para um substantivo abstrato."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Formação de Palavras"],
     imageNames: []
@@ -52,7 +52,7 @@ createQuestion({
       "Práticas culinárias e receitas que, antigamente, eram passadas de geração a geração, começaram a desaparecer e a cair em desuso na contemporaneidade.",
       "Alimentos como o feijão têm sido cada vez menos plantados devido à maior lucratividade da comercialização internacional de produtos como a soja e o milho, o que causou um aumento de preços do feijão acima da inflação nos últimos onze anos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -72,7 +72,7 @@ createQuestion({
       "O Índice de Preços ao Consumidor, apurado pela Fundação Getúlio Vargas, registra os números referentes à inflação no Brasil.",
       "A partir do que é explicado no texto, podemos afirmar que as variedades de feijão carioca e preto, entre janeiro de 2012 e janeiro de 2023, mais que duplicaram de preço."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -92,7 +92,7 @@ createQuestion({
       "Os elementos sublinhados constituem um exemplo de silepse de número.",
       "A parte sublinhada é usada para evitar a repetição da palavra \"feijão\"."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Figuras de Linguagem", "Coesão Textual"],
     imageNames: []
@@ -112,7 +112,7 @@ createQuestion({
       "A obra Cumbe, de Marcelo D'Salete, é composta por quatro contos retratados no gênero história em quadrinhos. Ao compor personagens que são africanos escravizados, o autor permite ao leitor acessar trajetórias inconcebíveis de dor, sofrimento e exploração por meio do texto literário. Contudo, o tom da obra não é melancólico ou derrotista, pois mesmo em face de uma realidade em que tudo está organizado de modo a fazer com que os protagonistas desistam e aceitem brandamente a sua situação, eles se estabelecem ao longo das narrativas como símbolo de esperança e de enfrentamento.",
       "Os homens de barro, texto teatral de Ariano Suassuna, apresenta características típicas da escrita engajada do autor. Sempre atuante em questões políticas e na defesa da cultura popular, ele insere no enredo a discussão sobre questões sociais, como a exploração e as relações de poder injustas e desiguais instauradas em uma pequena comunidade."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Literatura Brasileira"],
     conteudo: ["Gêneros Literários", "Autores e Obras"],
     imageNames: []
@@ -132,7 +132,7 @@ createQuestion({
       "As mudanças de tecnologia dos modos de gravação e de distribuição de produções musicais não exerceram impacto nas formas como se produz e se consome música.",
       "No decorrer do século XX, a divulgação das obras musicais deixou de se limitar às apresentações ao vivo. Os músicos alcançaram sucesso por meio da venda de discos de vinil, de CDs e pela distribuição de músicas pela internet."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Arte e Tecnologia", "Dança", "Música"],
     imageNames: []
@@ -152,7 +152,7 @@ createQuestion({
       "No Teatro Jornal, as notícias de jornais são utilizadas como estímulo para a criação de improvisações e cenas teatrais que visam a promover reflexões sobre as narrativas produzidas pelos meios de comunicação.",
       "Teatro Imagem, Teatro Fórum, Teatro Musical e Teatro Monólogo são modalidades do Teatro do Oprimido, cuja estética visa a reforçar a separação entre palco e plateia e entre espetáculo teatral e vida real."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Teatro do Oprimido", "Augusto Boal"],
     imageNames: []
@@ -172,7 +172,7 @@ createQuestion({
       "Pixinguinha, compositor da música Carinhoso, é uma referência do choro.",
       "A bossa nova, caracterizada pela improvisação em música, exerceu influências em gêneros musicais que vieram depois, como o samba, o rock e, especialmente, o choro."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Música Brasileira", "Choro"],
     imageNames: []
@@ -192,7 +192,7 @@ createQuestion({
       "O rap, sigla para rhythm and poetry, é uma manifestação das artes visuais que utiliza o espaço público como suporte para a criação de desenhos e para a escrita de palavras e códigos estilizados.",
       "O fazer artístico no Hip-Hop tem como base cultural, social e política a resistência perante a opressão exercida pelas culturas dominantes, principalmente sobre a população negra e periférica dos centros urbanos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Cultura Hip-Hop", "Movimentos Culturais"],
     imageNames: []
@@ -212,7 +212,7 @@ createQuestion({
       "Obras dos cubistas Pablo Picasso e Georges Braque apresentam formas em vários ângulos, derivadas da investigação profunda da estrutura dos objetos.",
       "Para os pintores surrealistas, como Salvador Dalí e Marc Chagall, as obras de arte resultam da fusão entre realidade e fantasia, como imagens de sonhos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Movimentos Artísticos", "Expressionismo", "Impressionismo", "Cubismo", "Surrealismo"],
     imageNames: []
@@ -223,7 +223,7 @@ createQuestion({
     university: "uepg",
     year: 2024,
     text: {
-      principal: "A Lei n.º 9.615/98, conhecida como \"Lei Pelé\", define o esporte em diferentes dimensões/manifestações. Identifique essas dimensões/manifestações e assinale o que for correto.",
+      principal: "A Lei n.º 9.$615/98$, conhecida como \"Lei Pelé\", define o esporte em diferentes dimensõ$es/manifesta$ções. Identifique essas dimensõ$es/manifesta$ções e assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -232,7 +232,7 @@ createQuestion({
       "Esporte de desenvolvimento.",
       "Esporte desportivo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Legislação Esportiva", "Dimensões do Esporte"],
     imageNames: []
@@ -252,7 +252,7 @@ createQuestion({
       "Desenvolvimento de técnicas de condicionamento físico.",
       "Invenção do basquete como seu substituto."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["História da Ginástica", "Conceitos Fundamentais"],
     imageNames: []
@@ -272,7 +272,7 @@ createQuestion({
       "Não expressam uma identidade cultural.",
       "Podem envolver trajes típicos e instrumentos musicais tradicionais."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Danças Folclóricas", "Cultura Corporal"],
     imageNames: []
@@ -292,7 +292,7 @@ createQuestion({
       "Os jogos eletrônicos, muitas vezes, podem não ser acessíveis economicamente.",
       "Os jogos podem estimular a criatividade e a resolução de problemas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Jogos e Brincadeiras", "Jogos Eletrônicos"],
     imageNames: []
@@ -303,7 +303,7 @@ createQuestion({
     university: "uepg",
     year: 2024,
     text: {
-      principal: "Identifique técnicas para a avaliação antropométrica e/ou de composição corporal e assinale o que for correto.",
+      principal: "Identifique técnicas para a avaliação antropométrica $e/ou$ de composição corporal e assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -312,7 +312,7 @@ createQuestion({
       "Medida de circunferências corporais.",
       "Medida de estatura."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Avaliação Física", "Antropometria"],
     imageNames: []
@@ -332,7 +332,7 @@ createQuestion({
       "Nas células procarióticas, a região celular em que se concentra o DNA é denominada de nucleoide. O cromossomo procariótico também se difere do eucariótico por apresentar estrutura circular e ausência de histonas.",
       "Os processos de transcrição gênica e de síntese proteica das células procarióticas ocorrem no interior do núcleo, delimitado por carioteca."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia", "Célula Procariótica"],
     imageNames: []
@@ -352,7 +352,7 @@ createQuestion({
       "Os peroxissomos têm entre suas funções a desintoxicação celular e a oxidação de ácidos graxos.",
       "Os peroxissomos são ricos em enzimas oxidativas, como a catalase. Principalmente no fígado, são capazes de oxidar várias moléculas tóxicas que entram na corrente sanguínea provenientes do consumo de medicamentos, álcool, entre outros."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia", "Organelas Celulares"],
     imageNames: []
@@ -372,7 +372,7 @@ createQuestion({
       "No processo de tradução, ocorre a síntese de proteínas nos ribossomos a partir da informação contida no RNA mensageiro.",
       "A transcrição gênica envolve a leitura do RNA mensageiro pelos ribossomos para formar uma fita de DNA complementar rica em códons."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Genética Molecular", "Expressão Gênica"],
     imageNames: []
@@ -383,7 +383,7 @@ createQuestion({
     university: "uepg",
     year: 2024,
     text: {
-      principal: "A figura a seguir apresenta as maneiras pelas quais os solutos atravessam a membrana plasmática. Em relação aos tipos e às características das vias de transporte pela membrana plasmática, assinale o que for correto.\n\n[IMAGEM DESCRIPTION: A diagram showing four modes of transport across a cell membrane: I (simple diffusion), II (channel-mediated diffusion), III (carrier-mediated diffusion), IV (active transport using ATP). It shows gradients of concentration and an arrow for ADP + Pi for active transport.]\n\nModificado de: ALBERTS, B.; BRAY, D.; HOPKIN, K.; JOHNSON, A.; LEWIS, J.; RAFF, M.; ROBERTS, K.; WALTER, P. Fundamentos de Biologia Celular. 4. ed. Porto Alegre: Artmed, 2017.",
+      principal: "A figura a seguir apresenta as maneiras pelas quais os solutos atravessam a membrana plasmática. Em relação aos tipos e às características das vias de transporte pela membrana plasmática, assinale o que for correto.\n\n[IMAGEM DESCRIPTION: A diagram showing four modes of transport across a cell membrane: I (simple diffusion), II (channel-mediated diffusion), III (carrier-mediated diffusion), IV (active transport using ATP). It shows gradients of concentration and an arrow for ADP + $\\pi$ for active transport.]\n\nModificado de: ALBERTS, B.; BRAY, D.; HOPKIN, K.; JOHNSON, A.; LEWIS, J.; RAFF, M.; ROBERTS, K.; WALTER, P. Fundamentos de Biologia Celular. 4. ed. Porto Alegre: Artmed, 2017.",
       subItens: []
     },
     options: [
@@ -392,7 +392,7 @@ createQuestion({
       "Em III, a proteína transportadora apresenta um sítio inespecífico ao qual a molécula a ser transportada se liga. Esse processo, conhecido como difusão facilitada, ocorre contra gradientes de concentração e com gasto de energia.",
       "Em IV, está representado o transporte ativo. Nele, o movimento de um soluto contra o seu gradiente de concentração é realizado por tipos especiais de transportadores que utilizam energia para promover o processo de transporte."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia", "Transporte através da Membrana"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "Na competição interespecífica, indivíduos de espécies diferentes competem por recursos.",
       "A relação na qual um animal mata e devora outro animal é chamada de predação."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ecologia", "Relações Ecológicas"],
     imageNames: []
@@ -432,7 +432,7 @@ createQuestion({
       "A célula C tem número cromossômico igual a 23.",
       "A célula B tem número cromossômico 46, XY."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Genética", "Gametogênese", "Reprodução Humana"],
     imageNames: []
@@ -452,7 +452,7 @@ createQuestion({
       "Certa massa de gás perfeito ocupa um volume de 200 L a uma temperatura de 127 °C e 2 atm de pressão. Logo, o volume ocupado por ele, em CNTP, será maior que 40 L.",
       "O gráfico v x t de uma transformação isobárica de um gás ideal é representado por uma reta."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica", "Gases Ideais"],
     imageNames: []
@@ -463,16 +463,16 @@ createQuestion({
     university: "uepg",
     year: 2024,
     text: {
-      principal: "Analise as três situações descritas abaixo e, em seguida, assinale o que for correto.\n\nDado: π = 3\n\nI – Um caminhão faz uma viagem de 600 km. Os primeiros 250 km são percorridos a uma velocidade média de 80 km/h. O motorista estaciona para um lanche durante 30 minutos. Em seguida, percorre o restante da viagem a uma velocidade média de 100 km/h.\n\nII – Um ciclista dá 20 voltas em torno de uma praça circular de perímetro (C) a uma velocidade constante de 36 km/h, num tempo (t).\n\nIII – Um carro faz uma viagem de 40 minutos em uma estrada retilínea e horizontal a uma velocidade constante de 72 km/h.",
+      principal: "Analise as três situações descritas abaixo e, em seguida, assinale o que for correto.\n\nDado: π = 3\n\nI – Um caminhão faz uma viagem de 600 km. Os primeiros 250 km são percorridos a uma velocidade média de 80 $km/h$. O motorista estaciona para um lanche durante 30 minutos. Em seguida, percorre o restante da viagem a uma velocidade média de 100 $km/h$.\n\nII – Um ciclista dá 20 voltas em torno de uma praça circular de perímetro (C) a uma velocidade constante de 36 $km/h$, num tempo (t).\n\nIII – Um carro faz uma viagem de 40 minutos em uma estrada retilínea e horizontal a uma velocidade constante de 72 $km/h$.",
       subItens: []
     },
     options: [
       "Somente as situações II e III não apresentam aceleração.",
       "O raio do circuito circular da situação II vale 0,3 t.",
-      "Na situação I, a velocidade média na viagem completa foi de 90 km/h.",
+      "Na situação I, a velocidade média na viagem completa foi de 90 $km/h$.",
       "A distância percorrida na situação III foi de 48 km."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática", "Movimento Retilíneo Uniforme", "Movimento Circular Uniforme"],
     imageNames: []
@@ -483,7 +483,7 @@ createQuestion({
     university: "uepg",
     year: 2024,
     text: {
-      principal: "Analise as opções abaixo e assinale o que for correto.\n\nDado: Cágua = 1 cal/g°C\nµágua = 1 g/cm³",
+      principal: "Analise as opções abaixo e assinale o que for correto.\n\nDado: Cágua = 1 $cal/g$°C\nµágua = 1 $g/cm$³",
       subItens: []
     },
     options: [
@@ -492,7 +492,7 @@ createQuestion({
       "Quando um gás ideal sofre uma transformação isotérmica, se sua pressão passar a ser o triplo da pressão inicial, seu volume também irá triplicar.",
       "No diagrama de fases de substância pura temos um ponto denominado crítico, que corresponde a uma determinada temperatura e pressão. Quando a substância está acima dessa temperatura, ela é um gás e não pode se liquefazer se somente aumentarmos sua pressão."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica", "Calorimetria", "Mudanças de Estado Físico"],
     imageNames: []
@@ -512,7 +512,7 @@ createQuestion({
       "Em qualquer tipo de choque, a energia mecânica é conservada.",
       "Nos choques parcialmente elásticos, a energia cinética antes do choque é maior do que após o choque."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Dinâmica", "Colisões", "Conservação do Momento Linear"],
     imageNames: []
@@ -523,16 +523,16 @@ createQuestion({
     university: "uepg",
     year: 2024,
     text: {
-      principal: "Um carro parte do repouso com aceleração constante de 2 m/s², percorrendo uma trajetória retilínea e horizontal, em movimento progressivo. Após 8 s, o motor é desligado e, devido ao atrito, o carro para após 40 s. Com base nesses dados, analise o movimento completo do carro e assinale o que for correto.",
+      principal: "Um carro parte do repouso com aceleração constante de 2 $m/s$², percorrendo uma trajetória retilínea e horizontal, em movimento progressivo. Após 8 s, o motor é desligado e, devido ao atrito, o carro para após 40 s. Com base nesses dados, analise o movimento completo do carro e assinale o que for correto.",
       subItens: []
     },
     options: [
-      "A aceleração constante devida ao atrito tem módulo igual a 0,4 m/s².",
-      "Se, por hipótese, fossem eliminados todos os tipos de atritos, após ser desligado o motor, a velocidade do carro passaria a ser constante e igual a 16 m/s.",
+      "A aceleração constante devida ao atrito tem módulo igual a 0,4 $m/s$².",
+      "Se, por hipótese, fossem eliminados todos os tipos de atritos, após ser desligado o motor, a velocidade do carro passaria a ser constante e igual a 16 $m/s$.",
       "O gráfico v x t para o movimento, nos últimos 40 s, é uma reta decrescente.",
       "A distância total percorrida pelo carro até parar foi maior que 380 m."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática", "Movimento Retilíneo Uniformemente Variado"],
     imageNames: []
@@ -548,11 +548,11 @@ createQuestion({
     },
     options: [
       "Se o objetivo é alcançar a maior altura possível com o lançamento de um corpo, deve-se fazê-lo na vertical. Por outro lado, se o que se deseja é o maior alcance na horizontal, com um lançamento oblíquo, este deverá ser realizado com um ângulo de 45° com a horizontal.",
-      "Um caminhão desloca-se em MRU na horizontal com velocidade de 20 m/s quando um passageiro sentado na sua carroceria lança verticalmente para cima uma bola de tênis com velocidade de 5 m/s em relação ao caminhão. As trajetórias da bola, em relação ao caminhão e em relação ao solo, serão, respectivamente, retilínea e parabólica.",
-      "Dois corpos A e B são lançados horizontalmente de uma mesma altura em relação ao solo, em um mesmo local da Terra, com velocidades Vᴀ = 10 m/s e Vʙ = 30 m/s. Logo, o tempo para que os dois corpos alcancem o solo será o mesmo.",
+      "Um caminhão desloca-se em MRU na horizontal com velocidade de 20 $m/s$ quando um passageiro sentado na sua carroceria lança verticalmente para cima uma bola de tênis com velocidade de 5 $m/s$ em relação ao caminhão. As trajetórias da bola, em relação ao caminhão e em relação ao solo, serão, respectivamente, retilínea e parabólica.",
+      "Dois corpos A e B são lançados horizontalmente de uma mesma altura em relação ao solo, em um mesmo local da Terra, com velocidades Vᴀ = 10 $m/s$ e Vʙ = 30 $m/s$. Logo, o tempo para que os dois corpos alcancem o solo será o mesmo.",
       "Quando um corpo é lançado obliquamente para cima no vácuo, sua aceleração será nula ao atingir a altura máxima."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Dinâmica", "Lançamentos"],
     imageNames: []
@@ -572,7 +572,7 @@ createQuestion({
       "FeCl₃ (aq) + 3 NaOH (aq) → 3 NaCl (aq) + Fe(OH)₃ (s).",
       "2 Na (s) + 2 H₂O (l) → 2 NaOH (aq) + H₂ (g)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Reações Químicas", "Tipos de Reações"],
     imageNames: []
@@ -592,7 +592,7 @@ createQuestion({
       "SiO₂, denominado óxido de silício, apresenta um cátion tetravalente.",
       "Os óxidos de cálcio e de magnésio são classificados como óxidos básicos, e, ao reagirem com água, na razão 1:1, formam, respectivamente, Ca(OH)₂ e Mg(OH)₂."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Funções Inorgânicas", "Óxidos", "Ligação Química"],
     imageNames: []
@@ -612,7 +612,7 @@ createQuestion({
       "Em um grupo, os elementos mais eletronegativos são aqueles que apresentam menor raio atômico.",
       "Os elementos representativos que estão em um mesmo grupo da tabela periódica apresentam o mesmo número de elétrons na camada de valência."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Tabela Periódica", "Propriedades Periódicas"],
     imageNames: []
@@ -632,7 +632,7 @@ createQuestion({
       "Há três substâncias e três fases.",
       "Há duas fases em estados físicos diferentes."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Separação de Misturas", "Fases e Componentes", "Sistemas Homogêneos e Heterogêneos"],
     imageNames: []
@@ -652,7 +652,7 @@ createQuestion({
       "Os átomos de elementos distintos emitem diferentes luminosidades porque os seus elétrons ocupam diferentes níveis de energia.",
       "O teste de chama é uma técnica que permite identificar alguns elementos por meio da cor apresentada pela chama."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Modelos Atômicos", "Espectroscopia", "Propriedades da Matéria"],
     imageNames: []
@@ -672,7 +672,7 @@ createQuestion({
       "A medida 1,0025 metros apresenta quatro algarismos significativos.",
       "Um pintor, trabalhando 6 horas diárias durante 10 dias, ganha R$ 2025,00. Se trabalhar 4 horas por dia, esse pintor ganhará R$ 4050,00 mensalmente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Juros Simples e Compostos", "Porcentagem", "Regra de Três"],
     imageNames: []
@@ -688,11 +688,11 @@ createQuestion({
     },
     options: [
       "Se k = 0, então o número racional x - y tem denominador 14.",
-      "Se k = -1, então y = 2/13.",
+      "Se k = -1, então y = $2/13$.",
       "Se k = -14, então o sistema admite solução.",
-      "Se k = 1, então x/y é um número primo."
+      "Se k = 1, então $x/y$ é um número primo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Sistemas Lineares", "Álgebra Linear"],
     imageNames: []
@@ -712,7 +712,7 @@ createQuestion({
       "Se for levada em conta a maior mediana das notas médias de cada escola nos últimos três anos, a vencedora será a Escola C.",
       "A Escola B apresenta o maior desvio padrão entre as notas médias de todas as escolas nos três últimos anos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Estatística", "Média", "Mediana", "Desvio Padrão"],
     imageNames: []
@@ -732,7 +732,7 @@ createQuestion({
       "A32 < 0.",
       "a + b + c < 0."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Matrizes", "Propriedades de Matrizes"],
     imageNames: []
@@ -743,7 +743,7 @@ createQuestion({
     university: "uepg",
     year: 2024,
     text: {
-      principal: "Considerando que `a` representa a solução da equação (1/5)ˣ = 32 e que `b` e `c`, com `b < c`, representam as soluções da equação (log₂x)² – 9.log₈x = 4, assinale o que for correto.",
+      principal: "Considerando que `a` representa a solução da equação ($1/5$)ˣ = 32 e que `b` e `c`, com `b < c`, representam as soluções da equação ($\\log$₂x)² – 9.$\\log$₈x = 4, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -752,7 +752,7 @@ createQuestion({
       "a + b + c é um número racional.",
       "b⁴ = c."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Equações Exponenciais", "Equações Logarítmicas", "Propriedades de Logaritmos"],
     imageNames: []
@@ -772,7 +772,7 @@ createQuestion({
       "Juntas, as regiões Norte e Sul devem receber 25 técnicos especialistas para auxiliar no combate à doença.",
       "A região Oeste deve receber 5 técnicos especialistas e menos do que a região Leste para auxiliar no combate à doença."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Estatística", "Média Aritmética"],
     imageNames: []
@@ -792,7 +792,7 @@ createQuestion({
       "Os serviços domésticos, a mineração e o artesanato estão entre as atividades desenvolvidas por pessoas escravizadas na Grécia antiga.",
       "No modelo escravista grego, escravos podiam comprar sua liberdade e até mesmo se tornarem cidadãos, em alguns casos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Antiguidade Clássica", "Grécia Antiga", "Escravidão"],
     imageNames: []
@@ -810,9 +810,9 @@ createQuestion({
       "As manifestações artísticas feudais foram influenciadas por uma visão teocêntrica de mundo.",
       "O latim foi o idioma predominante nas obras da literatura medieval.",
       "A educação era controlada pela Igreja Católica.",
-      "A arte muçulmana teve forte penetração na Europa feudal."
+      "A arte $\\mu$çulmana teve forte penetração na Europa feudal."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Idade Média", "Feudalismo", "Cultura Medieval"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "O espanhol Miguel de Cervantes e o português Luis Vaz de Camões foram dois expoentes ibéricos na produção literária renascentista.",
       "Percebendo que perdia espaço no contexto do Renascimento, a Igreja Católica perseguiu duramente todos os artistas, cientistas e escritores renascentistas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Idade Moderna", "Renascimento"],
     imageNames: []
@@ -852,7 +852,7 @@ createQuestion({
       "Inicialmente consideradas economicamente pouco atrativas, as ilhas do Caribe não integraram o sistema colonial, nem participaram de atividades comerciais com a Europa até o século XVIII.",
       "A prata americana que passou a circular na Europa contribuiu para o seu crescimento econômico, ampliando as atividades comerciais e a circulação de moedas naquele continente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Idade Moderna", "Grandes Navegações", "Colonialismo"],
     imageNames: []
@@ -872,7 +872,7 @@ createQuestion({
       "Durante o período colonial, a pecuária tornou-se uma das atividades econômicas características e em expansão no interior do Nordeste, na região do Rio São Francisco.",
       "Assinado entre os reis de Portugal e Espanha, o Tratado de Tordesilhas garantia a posse e a divisão das terras \"descobertas e por descobrir\" entre essas e outras potências europeias."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Brasil Colônia", "Ocupação do Território Brasileiro"],
     imageNames: []
@@ -892,7 +892,7 @@ createQuestion({
       "A influência do liberalismo, a ideia de autonomia política, o exemplo da independência dos Estados Unidos e o desejo de romper o pacto colonial são motivações que explicam a ocorrência das rebeliões coloniais espanholas.",
       "José de San Martín e Simón Bolívar destacaram-se como lideranças políticas e militares que conduziram rebeliões que resultaram na emancipação de colônias espanholas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["América Latina", "Independência da América Espanhola"],
     imageNames: []
@@ -912,7 +912,7 @@ createQuestion({
       "As elípticas são tipos de galáxias sem forma definida, conhecidas como nebulosas ou irregulares.",
       "A Via Láctea, galáxia em que o Sol está inserido, tem o formato de espiral."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Astronomia", "Galáxias"],
     imageNames: []
@@ -932,7 +932,7 @@ createQuestion({
       "Os biomas desérticos são típicos desde o litoral até o sertão nordestino do país.",
       "O cerrado é típico no Centro-Oeste brasileiro, com a presença de árvores espaçadas entre a vegetação de gramíneas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Biomas Brasileiros", "Ecologia"],
     imageNames: []
@@ -952,7 +952,7 @@ createQuestion({
       "O Brasil é um país que historicamente é livre dos efeitos da chuva ácida, pois desde cedo adotou legislação que proibiu o uso de agentes formadores desse fenômeno atmosférico.",
       "Esse fenômeno causa danos nas águas superficiais nos locais em que ocorre, porém tem efeito nulo na acidez dos solos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Questões Ambientais", "Poluição Atmosférica", "Chuva Ácida"],
     imageNames: []
@@ -972,7 +972,7 @@ createQuestion({
       "Os reservatórios naturais de água que se depositam em fraturas de rochas subterrâneas são chamados de aquíferos.",
       "A maior parcela de água do planeta está localizada nos oceanos, como o Pacífico, o Atlântico e o Índico."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Hidrografia", "Recursos Hídricos"],
     imageNames: []
@@ -992,7 +992,7 @@ createQuestion({
       "O espaço geográfico é representado pelas mudanças que o ser humano realiza por meio de suas obras e ações ao longo do tempo.",
       "As revoluções industriais aceleram a transformação do espaço geográfico com a utilização de novas técnicas e tecnologias."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Conceitos Geográficos", "Espaço Geográfico", "Relação Sociedade-Natureza"],
     imageNames: []
@@ -1012,7 +1012,7 @@ createQuestion({
       "As discussões políticas que ocorriam em Atenas eram baseadas em argumentações essencialmente mitológicas.",
       "As discussões políticas que eram realizadas em praça pública contribuíram significativamente para o firmamento do logos como base das reflexões filosóficas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Antiga", "Política Grega", "Pensamento Grego"],
     imageNames: []
@@ -1032,7 +1032,7 @@ createQuestion({
       "A dúvida filosófica é primordial no processo de fundamentação do diálogo crítico.",
       "A conversação crítica é o método para atingir um conhecimento mais profundo e verdadeiro sobre as coisas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Antiga", "Sócrates", "Maiêutica e Dialética"],
     imageNames: []
@@ -1052,7 +1052,7 @@ createQuestion({
       "O filósofo Tales de Mileto apresenta uma concepção monista no que se refere à arché.",
       "Para Tales, não era possível definir um único elemento como princípio originador de todos os seres."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Antiga", "Pré-Socráticos", "Tales de Mileto"],
     imageNames: []
@@ -1072,7 +1072,7 @@ createQuestion({
       "O Estado é a instituição que detém a posse do poder político.",
       "Algumas das características de um Estado ditador são a censura oficializada, a invisibilização da voz do povo e o poder centralizado nas mãos de um único governante ou de um órgão administrado pelo governo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Política", "Poder e Estado"],
     imageNames: []
@@ -1092,7 +1092,7 @@ createQuestion({
       "As diferentes normas morais e jurídicas mudam a partir do aspecto histórico-social.",
       "Mesmo em meio à distinção presente na formação das comunidades humanas, os valores humanos originam-se dos mesmos códigos morais."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Ética e Moral", "Filosofia Social"],
     imageNames: []
@@ -1112,7 +1112,7 @@ createQuestion({
       "A autora afirma que as informações relativas à nossa localização não estão tão facilmente disponíveis online como se imagina.",
       "A palavra convenience, destacada no texto, é empregada para apresentar desvantagens das tecnologias de rastreamento e localização."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto", "Vocabulário"],
     imageNames: []
@@ -1132,7 +1132,7 @@ createQuestion({
       "Caracteriza-se por apresentar uma estrutura essencialmente narrativa, contando uma história.",
       "Traz exemplos para ilustrar como os dados de localização são usados por diversos tipos de tecnologias, como os aplicativos de navegação."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto", "Gêneros Textuais"],
     imageNames: []
@@ -1152,7 +1152,7 @@ createQuestion({
       "O termo presumingly é usado para indicar uma suposição ou possibilidade em relação à atuação dos dados de localização em aplicativos de navegação.",
       "Por meio da expressão peace of mind, descreve-se uma sensação de segurança e tranquilidade obtida com o uso de tecnologias de rastreamento."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulário", "Semântica"],
     imageNames: []
@@ -1172,7 +1172,7 @@ createQuestion({
       "As citações de Crockford se relacionam à temática do texto, contribuindo para a sua progressão.",
       "Crockford é entusiasta da tecnologia e incentiva o uso irrestrito de dispositivos de rastreamento."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto", "Argumentação"],
     imageNames: []
@@ -1192,7 +1192,7 @@ createQuestion({
       "O operador argumentativo though é usado para apresentar uma explicação em relação às tecnologias de rastreamento. Ele significa \"por isso\".",
       "A expressão even every thought that we have é usada para enfatizar o amplo alcance do rastreamento feito por empresas e governos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Coesão e Coerência", "Vocabulário"],
     imageNames: []

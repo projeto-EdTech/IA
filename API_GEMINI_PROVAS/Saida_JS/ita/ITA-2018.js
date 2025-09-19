@@ -3,7 +3,7 @@ createQuestion({
     university: "ita",
     year: 2018,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Constante da gravitação universal G = 7 × 10⁻¹¹ m³/kg.s². Aceleração da gravidade g = 10 m/s². Velocidade do som no ar = 340 m/s. Raio da Terra R = 6400 km. Constante dos gases R = 8,3 J/mol.K. Índice adiabático do ar γ = C_p/C_v = 1,4. Massa molecular do ar M_ar = 0,029 kg/mol. Permeabilidade magnética do vácuo μ₀ = 4π × 10⁻⁷ N/A². Pressão atmosférica 1,0atm = 100 kPa. Massa específica da água = 1,0 g/cm³\n\nQuestão 1. Considere uma estrela de neutrons com densidade média de 5 × 10¹⁴ g/cm³, sendo que sua frequência de vibração radial ν é função do seu raio R, de sua massa m e da constante da gravitação universal G. Sabe-se que ν é dada por uma expressão monomial, em que a constante adimensional de proporcionalidade vale aproximadamente 1. Então o valor de ν é da ordem de",
+      principal: "Quando precisar use os seguintes valores para as constantes: Constante da gravitação universal G = 7 × 10⁻¹¹ m³/kg.s². Aceleração da gravidade g = 10 $m/s$². Velocidade do som no ar = 340 $m/s$. Raio da Terra R = 6400 km. Constante dos gases R = 8,3 $J/mol$.K. Índice adiabático do ar γ = $C_p/C_v$ = 1,4. Massa molecular do ar $M_ar$ = 0,029 $kg/mol$. Permeabilidade magnética do vácuo μ₀ = 4π × 10⁻⁷ $N/A$². Pressão atmosférica 1,0atm = 100 kPa. Massa específica da água = 1,0 $g/cm$³\n\nQuestão 1. Considere uma estrela de neutrons com densidade média de 5 × 10¹⁴ $g/cm$³, sendo que sua frequência de vibração radial ν é função do seu raio R, de sua massa m e da constante da gravitação universal G. Sabe-se que ν é dada por uma expressão monomial, em que a constante adimensional de proporcionalidade vale aproximadamente 1. Então o valor de ν é da ordem de",
       subItens: []
     },
     options: [
@@ -24,7 +24,7 @@ createQuestion({
     university: "ita",
     year: 2018,
     text: {
-      principal: "Questão 2. Numa quadra de volei de 18m de comprimento, com rede de 2,24 m de altura, uma atleta solitária faz um saque com a bola bem em cima da linha de fundo, a 3,0 m de altura, num ângulo θ de 15° com a horizontal, conforme a figura, com trajetória num plano perpendicular à rede. Desprezando o atrito, pode-se dizer que, com 12 m/s de velocidade inicial, a bola",
+      principal: "Questão 2. Numa quadra de volei de 18m de comprimento, com rede de 2,24 m de altura, uma atleta solitária faz um saque com a bola bem em cima da linha de fundo, a 3,0 m de altura, num ângulo θ de 15° com a horizontal, conforme a figura, com trajetória num plano perpendicular à rede. Desprezando o atrito, pode-se dizer que, com 12 $m/s$ de velocidade inicial, a bola",
       subItens: []
     },
     options: [
@@ -45,15 +45,15 @@ createQuestion({
     university: "ita",
     year: 2018,
     text: {
-      principal: "Questão 3. Sobre uma prancha horizontal de massa desprezível e apoiada no centro, dois discos, de massas m_A e m_B, respectivamente, rolam com as respectivas velocidades v_A e v_B, constantes, em direção ao centro, do qual distam L_A e L_B, conforme a figura. Com o sistema em equilíbrio antes que os discos colidam, a razão v_A/v_B é dada por",
+      principal: "Questão 3. Sobre uma prancha horizontal de massa desprezível e apoiada no centro, dois discos, de massas $m_A$ e $m_B$, respectivamente, rolam com as respectivas velocidades $v_A$ e $v_B$, constantes, em direção ao centro, do qual distam $L_A$ e $L_B$, conforme a figura. Com o sistema em equilíbrio antes que os discos colidam, a razão $v_A/v_B$ é dada por",
       subItens: []
     },
     options: [
       "1.",
-      "m_A/m_B.",
-      "m_B/m_A.",
-      "L_A m_A/L_B m_B.",
-      "L_B m_B/L_A m_A."
+      "$m_A/m_B$.",
+      "$m_B/m_A$.",
+      "$L_A$ $m_A/L_B$ $m_B$.",
+      "$L_B$ $m_B/L_A$ $m_A$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -70,10 +70,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "√(mgL/M)",
+      "√($mgL/M$)",
       "√(mgL/(M+4m))",
-      "√(mgL/(M+4m/3))",
-      "√(2mgL/M)",
+      "√(mgL/(M+$4m/3$))",
+      "√($2mgL/M$)",
       "√(gL)"
     ],
     correctAnswer: 1,
@@ -87,7 +87,7 @@ createQuestion({
     university: "ita",
     year: 2018,
     text: {
-      principal: "Questão 5. Em queixa à polícia, um músico depõe ter sido quase atropelado por um carro, tendo distinguido o som em Mi da buzina na aproximação do carro e em Ré, no seu afastamento. Então, com base no fato de ser de 10/9 a relação das frequências ν_Mi/ν_Ré, a perícia técnica conclui que a velocidade do carro, em km/h, deve ter sido aproximadamente de",
+      principal: "Questão 5. Em queixa à polícia, um músico depõe ter sido quase atropelado por um carro, tendo distinguido o som em Mi da buzina na aproximação do carro e em Ré, no seu afastamento. Então, com base no fato de ser de $10/9$ a relação das frequências ν_Mi/ν_Ré, a perícia técnica conclui que a velocidade do carro, em $km/h$, deve ter sido aproximadamente de",
       subItens: []
     },
     options: [
@@ -154,11 +154,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "a tracejada que termina acima de 50 km/h.",
-      "a cheia que termina acima de 50 km/h.",
-      "a tracejada que termina abaixo de 50 km/h.",
+      "a tracejada que termina acima de 50 $km/h$.",
+      "a cheia que termina acima de 50 $km/h$.",
+      "a tracejada que termina abaixo de 50 $km/h$.",
       "a pontilhada.",
-      "a cheia que termina abaixo de 50 km/h."
+      "a cheia que termina abaixo de 50 $km/h$."
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -175,7 +175,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "T/2.",
+      "$T/2$.",
       "2T.",
       "8T.",
       "32T.",
@@ -192,7 +192,7 @@ createQuestion({
     university: "ita",
     year: 2018,
     text: {
-      principal: "Questão 10. Um tubo fino de massa 1225g e raio r = 10,0 cm encontra-se inicialmente em repouso sobre um plano horizontal sem atrito. A partir do ponto mais alto, um corpo de massa 71,0 g com velocidade inicial zero desliza sem atrito pelo interior do tubo no sentido anti-horário, conforme a figura. Então, quando na posição mais baixa, o corpo terá uma velocidade relativa ao tubo, em cm/s, igual a",
+      principal: "Questão 10. Um tubo fino de massa 1225g e raio r = 10,0 cm encontra-se inicialmente em repouso sobre um plano horizontal sem atrito. A partir do ponto mais alto, um corpo de massa 71,0 g com velocidade inicial zero desliza sem atrito pelo interior do tubo no sentido anti-horário, conforme a figura. Então, quando na posição mais baixa, o corpo terá uma velocidade relativa ao tubo, em $cm/s$, igual a",
       subItens: []
     },
     options: [
@@ -218,10 +218,10 @@ createQuestion({
     },
     options: [
       "1",
-      "3/2",
-      "4/3",
-      "5/4",
-      "7/5"
+      "$3/2$",
+      "$4/3$",
+      "$5/4$",
+      "$7/5$"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -323,10 +323,10 @@ createQuestion({
     },
     options: [
       "2",
-      "3/2",
-      "5/3",
-      "4/3",
-      "5/4"
+      "$3/2$",
+      "$5/3$",
+      "$4/3$",
+      "$5/4$"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -385,11 +385,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "(2L/(πε))√(2mgh(1+cosθ)/(ρSc∆t))",
-      "(L/c)√(2mgh(1+cosθ)/(ρSL))",
-      "(2L/(πε))√(2mgh(1+cosθ)/(ρSL))",
-      "(2L/(πε))√(2mgh(1-cosθ)/(ρSc∆t))",
-      "(L/(πε))√(2mgh(1-cosθ)/(ρSc∆t))"
+      "(2L/(πε))√(2mgh(1+$\\cos$θ)/(ρSc∆t))",
+      "($L/c$)√(2mgh(1+$\\cos$θ)/(ρSL))",
+      "(2L/(πε))√(2mgh(1+$\\cos$θ)/(ρSL))",
+      "(2L/(πε))√(2mgh(1-$\\cos$θ)/(ρSc∆t))",
+      "(L/(πε))√(2mgh(1-$\\cos$θ)/(ρSc∆t))"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -402,15 +402,15 @@ createQuestion({
     university: "ita",
     year: 2018,
     text: {
-      principal: "Questão 20. Dois recipientes A e B de respectivos volumes V_A e V_B = βV_A, constantes, contêm um gás ideal e são conectados por um tubo fino com válvula que regula a passagem do gás, conforme a figura. Inicialmente o gás em A está na temperatura T_A sob pressão P_A e em B, na temperatura T_B sob pressão P_B. A válvula é então aberta até que as pressões finais P_Af e P_Bf alcancem a proporção P_Af/P_Bf = α, mantendo as temperaturas nos seus valores iniciais. Assinale a opção com a expressão de P_Af.",
+      principal: "Questão 20. Dois recipientes A e B de respectivos volumes $V_A$ e $V_B$ = β$V_A$, constantes, contêm um gás ideal e são conectados por um tubo fino com válvula que regula a passagem do gás, conforme a figura. Inicialmente o gás em A está na temperatura $T_A$ sob pressão $P_A$ e em B, na temperatura $T_B$ sob pressão $P_B$. A válvula é então aberta até que as pressões finais $P_Af$ e $P_Bf$ alcancem a proporção $P_Af/P_Bf$ = α, mantendo as temperaturas nos seus valores iniciais. Assinale a opção com a expressão de $P_Af$.",
       subItens: []
     },
     options: [
-      "[(P_A T_A + P_B T_B) / (β + T_B/T_A)] P_A",
-      "[(1 + βP_B/P_A) / (1 - T_A/T_B)] P_A",
-      "[(1 + βP_B/P_A) / (1 + β T_A/T_B)] P_A",
-      "[(1 + βP_B/P_A) / (α + βP_B/P_A)] P_A",
-      "[(βP_B/P_A - 1) / (α + βP_B/P_A)] P_A"
+      "[($P_A$ $T_A$ + $P_B$ $T_B$) / (β + $T_B/T_A$)] $P_A$",
+      "[(1 + β$P_B/P_A$) / (1 - $T_A/T_B$)] $P_A$",
+      "[(1 + β$P_B/P_A$) / (1 + β $T_A/T_B$)] $P_A$",
+      "[(1 + β$P_B/P_A$) / (α + β$P_B/P_A$)] $P_A$",
+      "[(β$P_B/P_A$ - 1) / (α + β$P_B/P_A$)] $P_A$"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -496,7 +496,7 @@ createQuestion({
       "D() apenas II e IV.",
       "E() todas."
     ],
-    correctAnswer: -23,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Isomeria", "Hidrocarbonetos", "Funções Orgânicas"],
     imageNames: []
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "ita",
     year: 2018,
     text: {
-      principal: "As questões de 36 a 38 referem-se ao texto a seguir:\nTexto 3\nProibido para menores de 50 anos. Nos últimos meses, em meio ao debate sobre as reformas na Previdência, um ponto acabou despertando a atenção. Afinal, existem empregos para quem tem mais de 50 anos? Pendurar as chuteiras nem sempre é fácil. Às vezes, pode significar uma quebra tão grande na rotina que afeta até mesmo o emocional. Foi a partir de uma experiência familiar nesta linha que o paulistano Mórris Litvak criou a startup MaturiJobs. Trata-se de uma agência virtual de empregos, especializada em profissionais com mais de 50 anos.\n(Revista Isto é Dinheiro. Mercado de Trabalho. Maio/2017. p. 6.)\n“Nos últimos meses, em meio ao debate sobre as reformas na Previdência, um ponto acabou despertando a atenção.\" Na frase transcrita, as vírgulas foram utilizadas para",
+      principal: "As questões de 36 a 38 referem-se ao texto a seguir:\nTexto 3\nProibido para menores de 50 anos. Nos últimos meses, em meio ao debate sobre as reformas na Previdência, um ponto acabou despertando a atenção. Afinal, existem empregos para quem tem mais de 50 anos? Pendurar as chuteiras nem sempre é fácil. Às vezes, pode significar uma quebra tão grande na rotina que afeta até mesmo o emocional. Foi a partir de uma experiência familiar nesta linha que o paulistano Mórris Litvak criou a startup MaturiJobs. Trata-se de uma agência virtual de empregos, especializada em profissionais com mais de 50 anos.\n(Revista Isto é Dinheiro. Mercado de Trabalho. $Maio/2017$. p. 6.)\n“Nos últimos meses, em meio ao debate sobre as reformas na Previdência, um ponto acabou despertando a atenção.\" Na frase transcrita, as vírgulas foram utilizadas para",
       subItens: []
     },
     options: [
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "ita",
     year: 2018,
     text: {
-      principal: "As questões de 36 a 38 referem-se ao texto a seguir:\nTexto 3\nProibido para menores de 50 anos. Nos últimos meses, em meio ao debate sobre as reformas na Previdência, um ponto acabou despertando a atenção. Afinal, existem empregos para quem tem mais de 50 anos? Pendurar as chuteiras nem sempre é fácil. Às vezes, pode significar uma quebra tão grande na rotina que afeta até mesmo o emocional. Foi a partir de uma experiência familiar nesta linha que o paulistano Mórris Litvak criou a startup MaturiJobs. Trata-se de uma agência virtual de empregos, especializada em profissionais com mais de 50 anos.\n(Revista Isto é Dinheiro. Mercado de Trabalho. Maio/2017. p. 6.)\nA afirmação “Pendurar as chuteiras nem sempre é fácil” sugere",
+      principal: "As questões de 36 a 38 referem-se ao texto a seguir:\nTexto 3\nProibido para menores de 50 anos. Nos últimos meses, em meio ao debate sobre as reformas na Previdência, um ponto acabou despertando a atenção. Afinal, existem empregos para quem tem mais de 50 anos? Pendurar as chuteiras nem sempre é fácil. Às vezes, pode significar uma quebra tão grande na rotina que afeta até mesmo o emocional. Foi a partir de uma experiência familiar nesta linha que o paulistano Mórris Litvak criou a startup MaturiJobs. Trata-se de uma agência virtual de empregos, especializada em profissionais com mais de 50 anos.\n(Revista Isto é Dinheiro. Mercado de Trabalho. $Maio/2017$. p. 6.)\nA afirmação “Pendurar as chuteiras nem sempre é fácil” sugere",
       subItens: []
     },
     options: [
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "ita",
     year: 2018,
     text: {
-      principal: "As questões de 36 a 38 referem-se ao texto a seguir:\nTexto 3\nProibido para menores de 50 anos. Nos últimos meses, em meio ao debate sobre as reformas na Previdência, um ponto acabou despertando a atenção. Afinal, existem empregos para quem tem mais de 50 anos? Pendurar as chuteiras nem sempre é fácil. Às vezes, pode significar uma quebra tão grande na rotina que afeta até mesmo o emocional. Foi a partir de uma experiência familiar nesta linha que o paulistano Mórris Litvak criou a startup MaturiJobs. Trata-se de uma agência virtual de empregos, especializada em profissionais com mais de 50 anos.\n(Revista Isto é Dinheiro. Mercado de Trabalho. Maio/2017. p. 6.)\n“Às vezes, pode significar uma quebra tão grande na rotina que afeta até mesmo o emocional”. As expressões em destaque, respectivamente, têm os valores semânticos de",
+      principal: "As questões de 36 a 38 referem-se ao texto a seguir:\nTexto 3\nProibido para menores de 50 anos. Nos últimos meses, em meio ao debate sobre as reformas na Previdência, um ponto acabou despertando a atenção. Afinal, existem empregos para quem tem mais de 50 anos? Pendurar as chuteiras nem sempre é fácil. Às vezes, pode significar uma quebra tão grande na rotina que afeta até mesmo o emocional. Foi a partir de uma experiência familiar nesta linha que o paulistano Mórris Litvak criou a startup MaturiJobs. Trata-se de uma agência virtual de empregos, especializada em profissionais com mais de 50 anos.\n(Revista Isto é Dinheiro. Mercado de Trabalho. $Maio/2017$. p. 6.)\n“Às vezes, pode significar uma quebra tão grande na rotina que afeta até mesmo o emocional”. As expressões em destaque, respectivamente, têm os valores semânticos de",
       subItens: []
     },
     options: [
@@ -1473,14 +1473,14 @@ createQuestion({
     university: "ita",
     year: 2018,
     text: {
-      principal: "As questões de 7 a 12 referem-se ao texto a seguir:\n\nWE RECORDED VCs CONVERSATIONS AND ANALYZED HOW DIFFERENTLY\nTHEY TALK ABOUT FEMALE ENTREPRENEURS\n\nWhen venture capitalists (VCs) evaluate investment proposals, the language they use to describe the\nentrepreneurs who write them plays an important but often hidden role in shaping who is awarded funding\nand why.[...] We were given access to government venture capital decision making meetings in Sweden and\nwere able to observe the types of language that VCs used over a two-year period. One major thing stuck out:\nThe language used to describe male and female entrepreneurs was radically different. And these differences\nhave very real consequences for those seeking funding - and for society in general.\n[...] Worldwide, government venture capital is important for bridging significant financial gaps and\nsupporting innovation and growth, as VCs can take risks where banks are not allowed to. When uncertainty is\nhigh regarding assessment of product and market potential, for example, the assessment of the\nentrepreneur's potential becomes highly central in government VCs' decision making.\nIn Sweden, about one-third of businesses are owned and run by women, although they are not granted\na corresponding proportion of government funding. In fact, women-owned businesses receive much less\nonly 13%-18%, the rest going to male-owned companies.\nThis brings us back to our research. From 2009 to 2010 we were invited to silently observe\ngovernmental VC decision-making meetings and, more important, the conversations they had about\nentrepreneurs applying for funding. [...] We observed closed-room, face-to-face discussions leading final\nfunding decisions for 125 venture applications. Of these, 99 (79%) were from male entrepreneurs and 26\n(21%) were from female entrepreneurs. The group of government venture capitalists observed included\nseven individuals: two women and five men. [...]\nAside from a few exceptions, the financiers rhetorically produce stereotypical images of women as\nhaving qualities opposite to those considered important to being an entrepreneur, with VCs questioning their\ncredibility, trustworthiness, experience, and knowledge.\nConversely, when assessing male entrepreneurs, financiers leaned on stereotypical beliefs about men\nthat reinforced their entrepreneurial potential. Male entrepreneurs were commonly described as being\nassertive, innovative, competent, experienced, knowledgeable, and having established networks.\nWe developed male and female entrepreneur personas based on our findings [...]. These personas\nhighlight a few key differences in how the entrepreneurs were perceived depending on their gender. Men\nwere characterized as having entrepreneurial potential, while the entrepreneurial potential for women was\ndiminished. Many of the young men and women were described as being young, though youth for men was\nviewed as promising, while young women were considered inexperienced. Men were praised for being\nviewed as aggressive or arrogant, while women's experience and excitement were tempered by discussions\nof their emotional shortcomings. Similarly, cautiousness was viewed very differently depending on the gender\nof the entrepreneur.\nUnsurprisingly, these stereotypes seem to have played a role in who got funding and who didn't.\nWomen entrepreneurs were only awarded, on average, 25% of the applied-for amount, whereas men\nreceived, on average, 52% of what they asked for. Women were also denied financing to a greater extent\nthan men, with close to 53% of women having their applications dismissed, compared with 38% of men. [...]\nSuch stereotyping will inevitably influence the distribution of financing, but could also have other major\nconsequences. Because the purpose of government venture capital is to use tax money to stimulate growth\nand value creation for society as a whole, gender bias presents the risk that the money isn't being invested in\nbusinesses that have the highest potential. This isn't only damaging for women entrepreneurs; it's potentially\ndamaging for society as a whole.\n\nFonte: Adaptado de Harvard Business Review <https://hbr.org/2017/05/we-recorded-vcs-conversations-and-analyzed-how-differently-they-talk-about-female-entrepreneurs>. Acesso em: 17 mai. 2017.\n\nQuestão 11. A expressão sublinhada na primeira coluna pode ser substituída pela expressão na segunda coluna em todas as opções, EXCETO em\n\nA() Although they are not granted... (linha 11)\nB() Aside from a few exceptions, (linha 20)\nC() Conversely, when assessing male entrepreneurs, (linha 23)\nD ( ) Whereas men received, on average, (linhas 35/36)\nE() Because the purpose of government venture capital is... (linha 39)\n\n→ even though\n→ apart from\n→ likewise\n→ while\n→ considering that",
+      principal: "As questões de 7 a 12 referem-se ao texto a seguir:\n\nWE RECORDED VCs CONVERSATIONS AND ANALYZED HOW DIFFERENTLY\nTHEY TALK ABOUT FEMALE ENTREPRENEURS\n\nWhen venture capitalists (VCs) evaluate investment proposals, the language they use to describe the\nentrepreneurs who write them plays an important but often hidden role in shaping who is awarded funding\nand why.[...] We were given access to government venture capital decision making meetings in Sweden and\nwere able to observe the types of language that VCs used over a two-year period. One major thing stuck out:\nThe language used to describe male and female entrepreneurs was radically different. And these differences\nhave very real consequences for those seeking funding - and for society in general.\n[...] Worldwide, government venture capital is important for bridging significant financial gaps and\nsupporting innovation and growth, as VCs can take risks where banks are not allowed to. When uncertainty is\nhigh regarding assessment of product and market potential, for example, the assessment of the\nentrepreneur's potential becomes highly central in government VCs' decision making.\nIn Sweden, about one-third of businesses are owned and run by women, although they are not granted\na corresponding proportion of government funding. In fact, women-owned businesses receive much less\nonly 13%-18%, the rest going to male-owned companies.\nThis brings us back to our research. From 2009 to 2010 we were invited to silently observe\ngovernmental VC decision-making meetings and, more important, the conversations they had about\nentrepreneurs applying for funding. [...] We observed closed-room, face-to-face discussions leading final\nfunding decisions for 125 venture applications. Of these, 99 (79%) were from male entrepreneurs and 26\n(21%) were from female entrepreneurs. The group of government venture capitalists observed included\nseven individuals: two women and five men. [...]\nAside from a few exceptions, the financiers rhetorically produce stereotypical images of women as\nhaving qualities opposite to those considered important to being an entrepreneur, with VCs questioning their\ncredibility, trustworthiness, experience, and knowledge.\nConversely, when assessing male entrepreneurs, financiers leaned on stereotypical beliefs about men\nthat reinforced their entrepreneurial potential. Male entrepreneurs were commonly described as being\nassertive, innovative, competent, experienced, knowledgeable, and having established networks.\nWe developed male and female entrepreneur personas based on our findings [...]. These personas\nhighlight a few key differences in how the entrepreneurs were perceived depending on their gender. Men\nwere characterized as having entrepreneurial potential, while the entrepreneurial potential for women was\ndiminished. Many of the young men and women were described as being young, though youth for men was\nviewed as promising, while young women were considered inexperienced. Men were praised for being\nviewed as aggressive or arrogant, while women's experience and excitement were tempered by discussions\nof their emotional shortcomings. Similarly, cautiousness was viewed very differently depending on the gender\nof the entrepreneur.\nUnsurprisingly, these stereotypes seem to have played a role in who got funding and who didn't.\nWomen entrepreneurs were only awarded, on average, 25% of the applied-for amount, whereas men\nreceived, on average, 52% of what they asked for. Women were also denied financing to a greater extent\nthan men, with close to 53% of women having their applications dismissed, compared with 38% of men. [...]\nSuch stereotyping will inevitably influence the distribution of financing, but could also have other major\nconsequences. Because the purpose of government venture capital is to use tax money to stimulate growth\nand value creation for society as a whole, gender bias presents the risk that the money isn't being invested in\nbusinesses that have the highest potential. This isn't only damaging for women entrepreneurs; it's potentially\ndamaging for society as a whole.\n\nFonte: Adaptado de Harvard Business Review <https://hbr.org/2017/05/we-recorded-vcs-conversations-and-analyzed-how-differently-they-talk-about-female-entrepreneurs>. Acesso em: 17 mai. 2017.\n\nQuestão 11. A expressão sublinhada na primeira coluna pode ser substituída pela expressão na segunda coluna em todas as opções, EXCETO em\n\nA() Although they are not granted... (linha 11)\nB() Aside from a few exceptions, (linha 20)\nC() Conversely, when assessing male entrepreneurs, (linha 23)\nD ( ) Whereas men received, on average, (linhas $35/36$)\nE() Because the purpose of government venture capital is... (linha 39)\n\n→ even though\n→ apart from\n→ likewise\n→ while\n→ considering that",
       subItens: []
     },
     options: [
       "Although they are not granted... (linha 11)",
       "Aside from a few exceptions, (linha 20)",
       "Conversely, when assessing male entrepreneurs, (linha 23)",
-      "Whereas men received, on average, (linhas 35/36)",
+      "Whereas men received, on average, (linhas $35/36$)",
       "Because the purpose of government venture capital is... (linha 39)"
     ],
     correctAnswer: 2,

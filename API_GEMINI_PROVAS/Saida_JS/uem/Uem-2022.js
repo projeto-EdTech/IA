@@ -150,14 +150,14 @@ createQuestion({
     university: "uem",
     year: 2022,
     text: {
-      principal: "De acordo com a primeira lei de Kepler, a trajetória descrita pela Terra e por outros planetas em torno do Sol é elíptica. Com base nessa afirmação, considere que a elipse que representa a trajetória da Terra em torno do Sol tem as extremidades do eixo maior nos pontos (-a,0) e (a,0); focos em (-c,0) e (c,0); extremidades do eixo menor nos pontos (0,-b) e (0,b); e centro na origem O de um sistema de coordenadas cartesiano (em que o plano xy corresponde ao plano da órbita). O Sol está fixo no foco em (c,0), e a excentricidade da órbita é definida por e = c/a (em que c < a). Sobre o tema, e sobre essa descrição, assinale o que for correto.",
+      principal: "De acordo com a primeira lei de Kepler, a trajetória descrita pela Terra e por outros planetas em torno do Sol é elíptica. Com base nessa afirmação, considere que a elipse que representa a trajetória da Terra em torno do Sol tem as extremidades do eixo maior nos pontos (-a,0) e (a,0); focos em (-c,0) e (c,0); extremidades do eixo menor nos pontos (0,-b) e (0,b); e centro na origem O de um sistema de coordenadas cartesiano (em que o plano xy corresponde ao plano da órbita). O Sol está fixo no foco em (c,0), e a excentricidade da órbita é definida por e = $c/a$ (em que c < a). Sobre o tema, e sobre essa descrição, assinale o que for correto.",
       subItens: []
     },
     options: [
       "A menor distância entre a Terra e o Sol é igual a a – be.",
       "A maior distância entre a Terra e o Sol é igual a a + 2be.",
       "A distância entre a Terra e o Sol é igual a a em dois pontos distintos da trajetória.",
-      "A relação entre a e b pode ser escrita, em termos da excentricidade, como b = a(1 – є²)1/2.",
+      "A relação entre a e b pode ser escrita, em termos da excentricidade, como b = a(1 – є²)$1/2$.",
       "A equação da órbita nesse sistema de coordenadas pode ser escrita como x² + y²/(1-є²) = a²."
     ],
     correctAnswer: 2,
@@ -175,10 +175,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Se no instante t₁ = 2s a partícula está no ponto (√2/2, √2/2) e no instante t2 = 5s ela está no ponto (-1,0), não tendo passado por um mesmo ponto duas vezes, então sua velocidade angular média no intervalo [t1, t2] é π/6 rad/s.",
+      "Se no instante t₁ = 2s a partícula está no ponto (√$2/2$, √$2/2$) e no instante t2 = 5s ela está no ponto (-1,0), não tendo passado por um mesmo ponto duas vezes, então sua velocidade angular média no intervalo [t1, t2] é π/6 $rad/s$.",
       "Se a partícula se desloca com velocidade não nula e constante, em módulo, então sua aceleração centrípeta é nula.",
       "Se a partícula se desloca em velocidade constante, em módulo, efetuando 5 rotações por minuto, e se denotamos por A e B as posições da partícula nos instantes 0s e 4s, respectivamente, então o ângulo Â do triângulo OAB mede π/6 rad.",
-      "Se a partícula se desloca partindo do ponto (1,0) em t = 0s com velocidade constante, em módulo, levando 2πs para completar uma volta, então a coordenada x da posição da partícula no instante t (em segundos) satisfaz x = sen t.",
+      "Se a partícula se desloca partindo do ponto (1,0) em t = 0s com velocidade constante, em módulo, levando 2πs para completar uma volta, então a coordenada x da posição da partícula no instante t (em segundos) satisfaz x = $\\sin$ t.",
       "As coordenadas (x, y) de um ponto sobre essa circunferência satisfazem a igualdade (x + y)² = 1 + 2xy."
     ],
     correctAnswer: 2,
@@ -659,9 +659,9 @@ createQuestion({
     },
     options: [
       "O cruzamento entre parentais duplo recessivos resulta em uma descendência de 100% de camundongos acinzentados.",
-      "Do cruzamento de um camundongo amarelo com um acinzentado esperam-se, na descendência, 1/2 de camundongos amarelos e 1/2 de camundongos acinzentados.",
-      "Do cruzamento entre parentais heterozigotos são possíveis em F1 três genótipos, na proporção de 1/4 de homozigotos dominantes, 1/2 de heterozigotos e 1/4 de homozigotos recessivos.",
-      "Do cruzamento entre camundongos amarelos esperam-se, na descendência, 1/2 de camundongos amarelos e 1/2 de camundongos acinzentados.",
+      "Do cruzamento de um camundongo amarelo com um acinzentado esperam-se, na descendência, $1/2$ de camundongos amarelos e $1/2$ de camundongos acinzentados.",
+      "Do cruzamento entre parentais heterozigotos são possíveis em F1 três genótipos, na proporção de $1/4$ de homozigotos dominantes, $1/2$ de heterozigotos e $1/4$ de homozigotos recessivos.",
+      "Do cruzamento entre camundongos amarelos esperam-se, na descendência, $1/2$ de camundongos amarelos e $1/2$ de camundongos acinzentados.",
       "Não existem camundongos amarelos homozigotos."
     ],
     correctAnswer: 0,
@@ -830,7 +830,7 @@ createQuestion({
       "Na fixação do nitrogênio pelos seres vivos, como parte do ciclo biogeoquímico, atuam somente os procariotos.",
       "O ciclo da água baseia-se em fenômenos físicos sem o envolvimento de seres vivos.",
       "A fixação do carbono, como parte do ciclo biogeoquímico, é realizada principalmente pelos seres vivos herbívoros.",
-      "A assimilação de fosfato pelos animais, como parte do ciclo biogeoquímico do fósforo, ocorre exclusivamente pela ingestão de outros seres vivos e/ou de água."
+      "A assimilação de fosfato pelos animais, como parte do ciclo biogeoquímico do fósforo, ocorre exclusivamente pela ingestão de outros seres vivos $e/ou$ de água."
     ],
     correctAnswer: 1,
     materia: ["Biologia"],
@@ -843,13 +843,13 @@ createQuestion({
     university: "uem",
     year: 2022,
     text: {
-      principal: "Três provetas, A, B e C, todas com 50mL de água pura, foram submetidas aos seguintes experimentos: i) Na proveta A foram adicionados 50mL de óleo de cozinha e uma esfera maciça de alumínio. ii) Na proveta B foi adicionada uma colher de chá de cloreto de sódio. iii) Na proveta C foi adicionado um bloco maciço, de formato irregular, com 30g de um sólido insolúvel em água. Dados: água (d = 1,0g/mL); óleo (d = 0,9g/mL); alumínio (d = 2,7g/mL) Após agitação e repouso das provetas, assinale o que for correto em relação aos resultados.",
+      principal: "Três provetas, A, B e C, todas com 50mL de água pura, foram submetidas aos seguintes experimentos: i) Na proveta A foram adicionados 50mL de óleo de cozinha e uma esfera maciça de alumínio. ii) Na proveta B foi adicionada uma colher de chá de cloreto de sódio. iii) Na proveta C foi adicionado um bloco maciço, de formato irregular, com 30g de um sólido insolúvel em água. Dados: água (d = 1,$0g/mL$); óleo (d = 0,$9g/mL$); alumínio (d = 2,$7g/mL$) Após agitação e repouso das provetas, assinale o que for correto em relação aos resultados.",
       subItens: []
     },
     options: [
       "Na proveta A ocorreu a formação de uma mistura heterogênea de três fases.",
       "Na proveta B ocorreu a formação de uma solução, pois o cloreto de sódio é solúvel na água devido às interações íon-dipolo.",
-      "Sabendo-se que o volume final na proveta C foi de 56mL, a densidade do bloco do sólido é 5g/cm³.",
+      "Sabendo-se que o volume final na proveta C foi de 56mL, a densidade do bloco do sólido é $5g/cm$³.",
       "Na proveta A a esfera de alumínio ficou flutuando na superfície do óleo.",
       "O líquido na proveta B não apresenta temperatura constante durante a mudança do estado líquido para o estado gasoso."
     ],
@@ -1015,7 +1015,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "A densidade de uma solução preparada, dissolvendo-se 80g de NaCl em 4L de água, é igual a 20g/L. Dados: água (densidade = 1,0g/mL).",
+      "A densidade de uma solução preparada, dissolvendo-se 80g de NaCl em 4L de água, é igual a $20g/L$. Dados: água (densidade = 1,$0g/mL$).",
       "Uma amostra de 2mols de moléculas de tetracloreto de carbono possui aproximadamente 4,8 x 1024 átomos de cloro.",
       "20mL de água oxigenada 20 volumes liberam 0,4L de gás oxigênio nas CNTP.",
       "As características gerais dos gases são grande difusibilidade, grande compressibilidade e grande dilatabilidade.",

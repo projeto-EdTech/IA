@@ -36,7 +36,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Sociologia"],
-    conteudo: ["Relação Homem/Natureza", "Organização do Trabalho"],
+    conteudo: ["Relação $Homem/Natureza$", "Organização do Trabalho"],
     imageNames: []
 }),
 
@@ -66,7 +66,7 @@ createQuestion({
     university: "uel",
     year: 2020,
     text: {
-      principal: "Leia o texto a seguir.\n[...] a arte imita a natureza [...] Em geral a arte perfaz certas coisas que a natureza é incapaz de elaborar e a imita. Assim, se as coisas que são conforme a arte são em vistas de algo, evidentemente também o são as coisas conforme à natureza.\nARISTÓTELES, Física I e II. 194 a20; 199 a13-18. Tradução adaptada de Lucas Angioni. Campinas: IFCH/UNICAMP, 1999. p.47; 58.\nCom base no texto e nos conhecimentos sobre mímesis (imitação) em Aristóteles, assinale a alternativa correta.",
+      principal: "Leia o texto a seguir.\n[...] a arte imita a natureza [...] Em geral a arte perfaz certas coisas que a natureza é incapaz de elaborar e a imita. Assim, se as coisas que são conforme a arte são em vistas de algo, evidentemente também o são as coisas conforme à natureza.\nARISTÓTELES, Física I e II. 194 a20; 199 a13-18. Tradução adaptada de Lucas Angioni. Campinas: $IFCH/UNICAMP$, 1999. p.47; 58.\nCom base no texto e nos conhecimentos sobre mímesis (imitação) em Aristóteles, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -87,7 +87,7 @@ createQuestion({
     university: "uel",
     year: 2020,
     text: {
-      principal: "Analise a figura 1 a seguir e responda às questões 6 e 7.\nFigura 1: BARNEY, M. Lama Lâmina, 2009.\nviagemegastronomia.com.br\nA obra \"Lama Lâmina” (figura 1) apresenta uma leitura de interação entre ecologia ambiental e arte, resultando na escultura/instalação, em que os planos interior e exterior são elementos fundamentais.\nCom base na obra e nos conhecimentos sobre arte contemporânea, considere as afirmativas a seguir.\nI. Utiliza a especificidade de relação entre o objeto artístico e o espaço arquitetônico, preservando a mensagem estética da escultura/instalação em que o objeto e o espaço são fundidos numa realidade significativa.\nII. Apresenta uma escultura/instalação complexa que agrega procedimentos técnicos e manifestações artísticas no espaço. O trabalho é a essência da própria obra e a intenção do artista passa pelo contexto da arte conceitual.\nIII. Traz o espaço e seus elementos, como a máquina e a árvore, na composição escultórica, congelando um instante de instabilidade do movimento, de modo a relacionar espaço e forma com a ideia.\nIV. Transmite noção de realismo, busca aproximar-se ao máximo da natureza e contém recursos e detalhes hiper-realistas, como a materialidade, cenários, objetos e a bidimensionalidade da matéria no espaço.\nAssinale a alternativa correta.",
+      principal: "Analise a figura 1 a seguir e responda às questões 6 e 7.\nFigura 1: BARNEY, M. Lama Lâmina, 2009.\nviagemegastronomia.com.br\nA obra \"Lama Lâmina” (figura 1) apresenta uma leitura de interação entre ecologia ambiental e arte, resultando na $escultura/instala$ção, em que os planos interior e exterior são elementos fundamentais.\nCom base na obra e nos conhecimentos sobre arte contemporânea, considere as afirmativas a seguir.\nI. Utiliza a especificidade de relação entre o objeto artístico e o espaço arquitetônico, preservando a mensagem estética da $escultura/instala$ção em que o objeto e o espaço são fundidos numa realidade significativa.\nII. Apresenta uma $escultura/instala$ção complexa que agrega procedimentos técnicos e manifestações artísticas no espaço. O trabalho é a essência da própria obra e a intenção do artista passa pelo contexto da arte conceitual.\nIII. Traz o espaço e seus elementos, como a máquina e a árvore, na composição escultórica, congelando um instante de instabilidade do movimento, de modo a relacionar espaço e forma com a ideia.\nIV. Transmite noção de realismo, busca aproximar-se ao máximo da natureza e contém recursos e detalhes hiper-realistas, como a materialidade, cenários, objetos e a bidimensionalidade da matéria no espaço.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -162,7 +162,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Geografia", "Sociologia", "Língua Portuguesa"],
-    conteudo: ["Questões Ambientais", "Globalização", "Relação Homem/Natureza", "Análise de Charges e Tirinhas"],
+    conteudo: ["Questões Ambientais", "Globalização", "Relação $Homem/Natureza$", "Análise de Charges e Tirinhas"],
     imageNames: []
 }),
 
@@ -276,7 +276,7 @@ createQuestion({
     university: "uel",
     year: 2020,
     text: {
-      principal: "Muitas formas presentes na natureza são de difícil representação por entes geométricos tradicionais, como retas, planos e cubos, mas que podem ser aproximadas por meio da aplicação de operações geométricas sucessivas.\nPor exemplo, certos animais filtradores, como as esponjas, possuem esqueleto flexível de espongina, que podem ter sua forma aproximada pela n-ésima etapa da construção da região denominada Esponja de Menger, cujo volume V(n) é dado por\nV(n) = (20/27) * (7 * 20^(n-1) / 27) , para n ∈ N*\nNa sequência, estão ilustrados um esqueleto flexível de espongina, um cubo unitário e as três primeiras etapas da construção da Esponja de Menger, como apresentado na exposição \"A Beleza da Matemática\" do Museu do Amanhã.\nCom base nas informações apresentadas, considere as afirmativas a seguir.\nI. As esponjas pertencem ao filo Cnidaria e apresentam, como característica, a presença de um tipo básico de indivíduo denominado pólipo.\nII. O volume de cada etapa da construção da Esponja de Menger é menor que o volume da etapa anterior, isto é, V(n + 1) < V(n) para todo n ∈ N*\nIII. Independentemente de qual etapa da construção da Esponja de Menger seja considerada, seu volume é um número racional.\nIV. Além da espongina, a estrutura esquelética das esponjas é constituída por colágeno fibrilar, uma proteína, e espículas silicosas ou calcáreas.\nAssinale a alternativa correta.",
+      principal: "Muitas formas presentes na natureza são de difícil representação por entes geométricos tradicionais, como retas, planos e cubos, mas que podem ser aproximadas por meio da aplicação de operações geométricas sucessivas.\nPor exemplo, certos animais filtradores, como as esponjas, possuem esqueleto flexível de espongina, que podem ter sua forma aproximada pela n-ésima etapa da construção da região denominada Esponja de Menger, cujo volume V(n) é dado por\nV(n) = ($20/27$) * (7 * 20^(n-1) / 27) , para n ∈ N*\nNa sequência, estão ilustrados um esqueleto flexível de espongina, um cubo unitário e as três primeiras etapas da construção da Esponja de Menger, como apresentado na exposição \"A Beleza da Matemática\" do Museu do Amanhã.\nCom base nas informações apresentadas, considere as afirmativas a seguir.\nI. As esponjas pertencem ao filo Cnidaria e apresentam, como característica, a presença de um tipo básico de indivíduo denominado pólipo.\nII. O volume de cada etapa da construção da Esponja de Menger é menor que o volume da etapa anterior, isto é, V(n + 1) < V(n) para todo n ∈ N*\nIII. Independentemente de qual etapa da construção da Esponja de Menger seja considerada, seu volume é um número racional.\nIV. Além da espongina, a estrutura esquelética das esponjas é constituída por colágeno fibrilar, uma proteína, e espículas silicosas ou calcáreas.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -297,7 +297,7 @@ createQuestion({
     university: "uel",
     year: 2020,
     text: {
-      principal: "Leia o texto a seguir.\nNo museu do Amanhã, a exposição “Cosmos” faz uma abordagem científica, associando a composição atômica humana à composição de parte de uma estrela, contribuindo para o entendimento de como se comporta a matéria do ponto de vista atômico e subatômico.\nCom base nos conhecimentos sobre Física Moderna, considere as afirmativas a seguir.\nI. No efeito fotoelétrico, uma luz monocromática que incide na superfície de um metal, cuja energia seja hf = função trabalho (Ω), arranca elétrons se, e somente se, a soma das energias cinética e da função trabalho forem iguais a hf.\nII. No átomo de hidrogênio, os níveis de energia são indicados por n, onde a energia calculada para cada nível é dada por En = −(1/n²)2, 18 × 10–18.J.\nIII. Max Planck considerou que os átomos que constituem um corpo aquecido se comportam como osciladores anarmônicos, que têm suas energias distribuídas de forma contínua, independentemente da temperatura do corpo.\nIV. Na teoria da relatividade especial, as Leis Físicas são as mesmas para quaisquer observadores em qualquer movimento, e a velocidade da luz no vácuo possui valores específicos para observadores em diferentes referenciais.\nAssinale a alternativa correta.",
+      principal: "Leia o texto a seguir.\nNo museu do Amanhã, a exposição “Cosmos” faz uma abordagem científica, associando a composição atômica humana à composição de parte de uma estrela, contribuindo para o entendimento de como se comporta a matéria do ponto de vista atômico e subatômico.\nCom base nos conhecimentos sobre Física Moderna, considere as afirmativas a seguir.\nI. No efeito fotoelétrico, uma luz monocromática que incide na superfície de um metal, cuja energia seja hf = função trabalho (Ω), arranca elétrons se, e somente se, a soma das energias cinética e da função trabalho forem iguais a hf.\nII. No átomo de hidrogênio, os níveis de energia são indicados por n, onde a energia calculada para cada nível é dada por En = −($1/n$²)2, 18 × 10–18.J.\nIII. Max Planck considerou que os átomos que constituem um corpo aquecido se comportam como osciladores anarmônicos, que têm suas energias distribuídas de forma contínua, independentemente da temperatura do corpo.\nIV. Na teoria da relatividade especial, as Leis Físicas são as mesmas para quaisquer observadores em qualquer movimento, e a velocidade da luz no vácuo possui valores específicos para observadores em diferentes referenciais.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -385,9 +385,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2^(-3×10^7)",
-      "2^(-3×10^8)",
-      "4^(-3×10^8)",
+      "2^(-3×$10^7$)",
+      "2^(-3×$10^8$)",
+      "4^(-3×$10^8$)",
       "60^(-1) x 10^(-7)",
       "60^(-1) × 10^(-8)"
     ],
@@ -528,7 +528,7 @@ createQuestion({
     university: "uel",
     year: 2020,
     text: {
-      principal: "Uma criança, que participava de uma oficina de pintura em um museu, atingiu, acidentalmente, com tinta à base de óleo uma tela pintada com tinta à base de água. Como praticamente toda a tela foi manchada com pequenas gotículas de tinta, a restauração da obra exige cautela. Neste caso, pode-se utilizar microvolumes de solventes extratores capazes de dissolver a tinta à base de óleo, mas não a tinta à base de água. Para a obtenção desses solventes, empregam-se misturas ternárias constituídas de solvente extrator (responsável pela dissolução da tinta à base de óleo), solvente dispersor e água. O solvente dispersor deve ser miscível no solvente extrator e na água, mas a água não deve ser miscível no solvente extrator. Esse tipo de mistura, quando borrifada sobre a superfície da tela, forma nanogotas do solvente extrator e, por consequência, melhora a eficiência do processo de dissolução da tinta à base de óleo.\nCom base nos conceitos de forças intermoleculares e miscibilidade e considerando que a quantidade de água na mistura ternária é incapaz de dissolver a tinta à base de água, assinale a alternativa que apresenta, corretamente, a mistura ternária, solvente extrator/solvente dispersor/água, que pode ser empregada para a remoção das manchas, sem danificar a tela.",
+      principal: "Uma criança, que participava de uma oficina de pintura em um museu, atingiu, acidentalmente, com tinta à base de óleo uma tela pintada com tinta à base de água. Como praticamente toda a tela foi manchada com pequenas gotículas de tinta, a restauração da obra exige cautela. Neste caso, pode-se utilizar microvolumes de solventes extratores capazes de dissolver a tinta à base de óleo, mas não a tinta à base de água. Para a obtenção desses solventes, empregam-se misturas ternárias constituídas de solvente extrator (responsável pela dissolução da tinta à base de óleo), solvente dispersor e água. O solvente dispersor deve ser miscível no solvente extrator e na água, mas a água não deve ser miscível no solvente extrator. Esse tipo de mistura, quando borrifada sobre a superfície da tela, forma nanogotas do solvente extrator e, por consequência, melhora a eficiência do processo de dissolução da tinta à base de óleo.\nCom base nos conceitos de forças intermoleculares e miscibilidade e considerando que a quantidade de água na mistura ternária é incapaz de dissolver a tinta à base de água, assinale a alternativa que apresenta, corretamente, a mistura ternária, solvente $extrator/solvente$ dispersor/água, que pode ser empregada para a remoção das manchas, sem danificar a tela.",
       subItens: []
     },
     options: [
@@ -536,7 +536,7 @@ createQuestion({
       "clorofórmio/acetona/água.",
       "heptano/hexano/água.",
       "hexano/heptano/água.",
-      "metanol/clorofórmio/água."
+      "$metanol/clorof$órmio/água."
     ],
     correctAnswer: 1,
     materia: ["Química"],
@@ -675,7 +675,7 @@ createQuestion({
     university: "uel",
     year: 2020,
     text: {
-      principal: "Leia a charge (figura 4) e o texto I a seguir e responda às questões 34 e 35.\nFigura 4: www.facebook.com/diariogaucho\nTexto I\nAssim como [...] [Mário de Andrade] reconhece e afirma que há uma gota de sangue em cada poema, assim também, parafraseando o poeta, queremos reconhecer e sustentar que há uma gota de sangue em cada museu. [...] Admitir a presença de sangue no museu significa também aceitá-lo como arena, como espaço de conflito, como campo de tradição e contradição. Toda a instituição museal apresenta um determinado discurso sobre a realidade. Este discurso, como é natural, não é natural e compõe-se de som e de silêncio, de cheio e de vazio, de presença e de ausência, de lembrança e de esquecimento.\nCHAGAS, Mario Souza. Há uma gota de sangue em cada museu: a ótica museológica de Mario de Andrade. 2. ed. Chapecó: Argos, 2015. v. 1. p.19.\nCom base na charge (figura 4), no texto I e nos conhecimentos sobre história e memória, considere as afirmativas a seguir.\nI. Os museus são instituições com dimensões políticas, pois a preservação, a organização e a disposição de documentos implicam a criação e a manutenção de uma memória em detrimento de narrativas silenciadas.\nII. Os museus são instituições importantes por preservarem o patrimônio do passado remoto de uma cultura em detrimento da sociedade contemporânea.\nIII. A criação e a preservação da memória coletiva realizada pelos museus são inclusivas em relação a outras narrativas, permitindo abordar a história de forma objetiva.\nIV. O incêndio do Museu Nacional destruiu parte do patrimônio material brasileiro, acarretando implicações sobre o patrimônio imaterial, a memória e as identidades públicas.\nAssinale a alternativa correta.",
+      principal: "Leia a charge (figura 4) e o texto I a seguir e responda às questões 34 e 35.\nFigura 4: www.facebook.$com/diariogaucho$\nTexto I\nAssim como [...] [Mário de Andrade] reconhece e afirma que há uma gota de sangue em cada poema, assim também, parafraseando o poeta, queremos reconhecer e sustentar que há uma gota de sangue em cada museu. [...] Admitir a presença de sangue no museu significa também aceitá-lo como arena, como espaço de conflito, como campo de tradição e contradição. Toda a instituição museal apresenta um determinado discurso sobre a realidade. Este discurso, como é natural, não é natural e compõe-se de som e de silêncio, de cheio e de vazio, de presença e de ausência, de lembrança e de esquecimento.\nCHAGAS, Mario Souza. Há uma gota de sangue em cada museu: a ótica museológica de Mario de Andrade. 2. ed. Chapecó: Argos, 2015. v. 1. p.19.\nCom base na charge (figura 4), no texto I e nos conhecimentos sobre história e memória, considere as afirmativas a seguir.\nI. Os museus são instituições com dimensões políticas, pois a preservação, a organização e a disposição de documentos implicam a criação e a manutenção de uma memória em detrimento de narrativas silenciadas.\nII. Os museus são instituições importantes por preservarem o patrimônio do passado remoto de uma cultura em detrimento da sociedade contemporânea.\nIII. A criação e a preservação da memória coletiva realizada pelos museus são inclusivas em relação a outras narrativas, permitindo abordar a história de forma objetiva.\nIV. O incêndio do Museu Nacional destruiu parte do patrimônio material brasileiro, acarretando implicações sobre o patrimônio imaterial, a memória e as identidades públicas.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -826,11 +826,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "C = (1/200) loge 50",
-      "C = (1/300) loge 20",
-      "C = (1/400) loge 30",
-      "C = (1/500) loge 40",
-      "C = (1/600) loge 10"
+      "C = ($1/200$) loge 50",
+      "C = ($1/300$) loge 20",
+      "C = ($1/400$) loge 30",
+      "C = ($1/500$) loge 40",
+      "C = ($1/600$) loge 10"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -948,7 +948,7 @@ createQuestion({
     university: "uel",
     year: 2020,
     text: {
-      principal: "Obras de arte expostas em museus podem conter metais tóxicos em sua composição, como chumbo, cádmio ou mercúrio e/ou seus óxidos. Um incêndio em um museu no qual obras de arte contendo mercúrio são incineradas pode gerar dimetilmercúrio ((CH3)2Hg), uma neurotoxina altamente letal mesmo em baixas concentrações (0,030 mg/cm³). Se inalado, os sintomas costumam aparecer semanas após a exposição inicial, o que torna ineficaz qualquer tipo de tratamento. As equações químicas 1 e 2 são exemplos de reações químicas de formação do composto dimetilmercúrio.\nEquação 1:\n3C2H6(g) + 2HgO(s) + 5/2 O2(g) → 2(CH3)2Hg(g) + 2CO2(g) + 3H2O(g)\nEquação 2:\n3C2H5OH(g) + HgO(s) + 5O2(g) → (CH3)2Hg(g) + 4CO2(g) + 6H2O(g)\nCom base no texto, nos conhecimentos sobre termodinâmica e cinética química, e supondo a queima total de HgO a 1 atm e a 300 K, assinale a alternativa correta.",
+      principal: "Obras de arte expostas em museus podem conter metais tóxicos em sua composição, como chumbo, cádmio ou mercúrio $e/ou$ seus óxidos. Um incêndio em um museu no qual obras de arte contendo mercúrio são incineradas pode gerar dimetilmercúrio ((CH3)2Hg), uma neurotoxina altamente letal mesmo em baixas concentrações (0,030 $mg/cm$³). Se inalado, os sintomas costumam aparecer semanas após a exposição inicial, o que torna ineficaz qualquer tipo de tratamento. As equações químicas 1 e 2 são exemplos de reações químicas de formação do composto dimetilmercúrio.\nEquação 1:\n3C2H6(g) + 2HgO(s) + $5/2$ O2(g) → 2(CH3)2Hg(g) + 2CO2(g) + 3H2O(g)\nEquação 2:\n3C2H5OH(g) + HgO(s) + 5O2(g) → (CH3)2Hg(g) + 4CO2(g) + 6H2O(g)\nCom base no texto, nos conhecimentos sobre termodinâmica e cinética química, e supondo a queima total de HgO a 1 atm e a 300 K, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "uel",
     year: 2020,
     text: {
-      principal: "No Museu de História Natural de Nova York existe uma exposição sobre a Origem do Sistema Solar, que apresenta planetas e estrelas, os quais exibem características elétricas e magnéticas comuns aos equipamentos eletrônicos de uso cotidiano.\nCom base nos conhecimentos sobre propriedades elétricas e magnéticas da matéria, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n( ) A Terra se comporta como um grande ímã, onde o polo norte magnético de uma bússola coincide com o polo sul geográfico da Terra.\n( ) Uma carga em movimento cria em torno de si um campo magnético que pode interagir com outra carga, exercendo, nesta última, uma força magnética.\n( ) Se há uma corrente passando em um fio condutor de área A e comprimento L, imerso em um campo magnético B (constante), uma força F perpendicular ao campo, atuará neste fio fazendo com que as cargas experimentem a força B.I.L.sen(a).\n( ) As linhas de indução do campo B criado por uma corrente i em um fio condutor retilíneo são elipses centradas sobre o condutor.\n( ) Numa espira circular, onde circula uma corrente i, ||B|| é diretamente proporcional a 2i e inversamente proporcional a r².\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
+      principal: "No Museu de História Natural de Nova York existe uma exposição sobre a Origem do Sistema Solar, que apresenta planetas e estrelas, os quais exibem características elétricas e magnéticas comuns aos equipamentos eletrônicos de uso cotidiano.\nCom base nos conhecimentos sobre propriedades elétricas e magnéticas da matéria, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n( ) A Terra se comporta como um grande ímã, onde o polo norte magnético de uma bússola coincide com o polo sul geográfico da Terra.\n( ) Uma carga em movimento cria em torno de si um campo magnético que pode interagir com outra carga, exercendo, nesta última, uma força magnética.\n( ) Se há uma corrente passando em um fio condutor de área A e comprimento L, imerso em um campo magnético B (constante), uma força F perpendicular ao campo, atuará neste fio fazendo com que as cargas experimentem a força B.I.L.$\\sin$(a).\n( ) As linhas de indução do campo B criado por uma corrente i em um fio condutor retilíneo são elipses centradas sobre o condutor.\n( ) Numa espira circular, onde circula uma corrente i, ||B|| é diretamente proporcional a 2i e inversamente proporcional a r².\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
       subItens: []
     },
     options: [
@@ -1149,7 +1149,7 @@ createQuestion({
     ],
     correctAnswer: 1,
     materia: ["Sociologia", "Língua Portuguesa"],
-    conteudo: ["Relação Homem/Trabalho", "Sociedade Contemporânea", "Análise de Charges e Tirinhas"],
+    conteudo: ["Relação $Homem/Trabalho$", "Sociedade Contemporânea", "Análise de Charges e Tirinhas"],
     imageNames: []
 }),
 

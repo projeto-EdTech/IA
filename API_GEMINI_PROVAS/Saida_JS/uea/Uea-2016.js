@@ -297,7 +297,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "É preciso dizer que, com a superioridade proporcionada pela força e pela riqueza, muitos indivíduos não sabem e nem mesmo querem obedecer aos magistrados. Ao contrário, aqueles que vivem em extrema penúria desses benefícios tornam-se demasiadamente humildes e rasteiros. Disso resulta que uns, incapazes de mandar, só sabem mostrar uma obediência servil e que outros, incapazes de se submeter a qualquer poder legítimo, só sabem exercer uma autoridade despótica.\n\n(Aristóteles. A política, s/d. Adaptado.)\n\nAristóteles destaca a impropriedade de algumas relações políticas. A partir do texto e de seus conhecimentos, é correto afirmar que, para o autor, o melhor regime da polis",
+      principal: "É preciso dizer que, com a superioridade proporcionada pela força e pela riqueza, muitos indivíduos não sabem e nem mesmo querem obedecer aos magistrados. Ao contrário, aqueles que vivem em extrema penúria desses benefícios tornam-se demasiadamente humildes e rasteiros. Disso resulta que uns, incapazes de mandar, só sabem mostrar uma obediência servil e que outros, incapazes de se submeter a qualquer poder legítimo, só sabem exercer uma autoridade despótica.\n\n(Aristóteles. A política, $s/d$. Adaptado.)\n\nAristóteles destaca a impropriedade de algumas relações políticas. A partir do texto e de seus conhecimentos, é correto afirmar que, para o autor, o melhor regime da polis",
       subItens: []
     },
     options: [
@@ -402,7 +402,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "O curupira é um dos mais populares personagens míticos das matas brasileiras, representado por um anão, com os pés ao inverso, com os calcanhares para frente. Demônio da floresta, explicador dos rumores misteriosos, desaparecimento de caçadores, esquecimento de caminhos, pavores súbitos inexplicáveis.\n\n(Câmara Cascudo. Dicionário do folclore brasileiro, s/d.)\n\nA história do Curupira pode ser definida como um mito, uma vez que constitui",
+      principal: "O curupira é um dos mais populares personagens míticos das matas brasileiras, representado por um anão, com os pés ao inverso, com os calcanhares para frente. Demônio da floresta, explicador dos rumores misteriosos, desaparecimento de caçadores, esquecimento de caminhos, pavores súbitos inexplicáveis.\n\n(Câmara Cascudo. Dicionário do folclore brasileiro, $s/d$.)\n\nA história do Curupira pode ser definida como um mito, uma vez que constitui",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "Em um hospital, a razão entre o número de médicos e o número de enfermeiros é 2/5. Sabendo que no total, entre médicos e enfermeiros, há 105 profissionais, a diferença entre o número de enfermeiros e o número de médicos, nesta ordem, é",
+      principal: "Em um hospital, a razão entre o número de médicos e o número de enfermeiros é $2/5$. Sabendo que no total, entre médicos e enfermeiros, há 105 profissionais, a diferença entre o número de enfermeiros e o número de médicos, nesta ordem, é",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "Determinado tipo de alga, que inicialmente ocupava 1,5 m² de área da superfície de um lago, vem crescendo mês a mês, obedecendo à seguinte função A(x) = 3 · 2x−1, sendo A(x) a área da superfície do lago ocupada pela alga, em m², e x o número de meses. Sabendo que, no 9º mês, a alga passou a ocupar a área total do lago, é correto concluir que o número de meses necessários para que essa alga ocupasse 1/8 da área total desse lago foi",
+      principal: "Determinado tipo de alga, que inicialmente ocupava 1,5 m² de área da superfície de um lago, vem crescendo mês a mês, obedecendo à seguinte função A(x) = 3 · 2x−1, sendo A(x) a área da superfície do lago ocupada pela alga, em m², e x o número de meses. Sabendo que, no 9º mês, a alga passou a ocupar a área total do lago, é correto concluir que o número de meses necessários para que essa alga ocupasse $1/8$ da área total desse lago foi",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "Em uma região triangular ABC, o lado BC é igual a 10 m e os ângulos BĈA e BẬC medem 65° e 45°, respectivamente, conforme mostra a figura.\n\n[Image of triangle ABC with angles 45° and 65°, and side BC=10m]\n\nUtilizando sen 65° = 0,90 e √19 = 4,35, a medida do lado AC, em metros, é",
+      principal: "Em uma região triangular ABC, o lado BC é igual a 10 m e os ângulos BĈA e BẬC medem 65° e 45°, respectivamente, conforme mostra a figura.\n\n[Image of triangle ABC with angles 45° and 65°, and side BC=10m]\n\nUtilizando $\\sin$ 65° = 0,90 e √19 = 4,35, a medida do lado AC, em metros, é",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "Para fazer o reboco de uma parede, um pedreiro utilizou certa quantidade de cimento que, para o preparo, foi despejado do saco para o solo, conforme o gráfico.\n\nvazão (kg/s)\n\n[Graph showing flow rate (kg/s) on y-axis and time (s) on x-axis, with a triangular shaded area under the curve]\n\ntempo (s)\n\nA grandeza física representada pela área sombreada do gráfico tem unidade de medida equivalente à de",
+      principal: "Para fazer o reboco de uma parede, um pedreiro utilizou certa quantidade de cimento que, para o preparo, foi despejado do saco para o solo, conforme o gráfico.\n\nvazão ($kg/s$)\n\n[Graph showing flow rate ($kg/s$) on y-axis and time (s) on x-axis, with a triangular shaded area under the curve]\n\ntempo (s)\n\nA grandeza física representada pela área sombreada do gráfico tem unidade de medida equivalente à de",
       subItens: []
     },
     options: [
@@ -969,7 +969,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "Sobre a superfície da Terra, onde g = 10 m/s², um astronauta apresenta peso igual a 700 N. Em uma expedição à Lua, onde g = 1,6 m/s², a massa desse astronauta será igual a",
+      principal: "Sobre a superfície da Terra, onde g = 10 $m/s$², um astronauta apresenta peso igual a 700 N. Em uma expedição à Lua, onde g = 1,6 $m/s$², a massa desse astronauta será igual a",
       subItens: []
     },
     options: [
@@ -990,7 +990,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "Uma esfera, lançada em movimento oblíquo e com velocidade de 20 m/s, descreve a trajetória apresentada na figura.\n\n[Image of projectile motion, with points P, Q, R on the trajectory]\n\nDesprezando as forças de resistência, é correto afirmar que a intensidade da força resultante que atua sobre a esfera nas posições P, Q e R, respectivamente, é",
+      principal: "Uma esfera, lançada em movimento oblíquo e com velocidade de 20 $m/s$, descreve a trajetória apresentada na figura.\n\n[Image of projectile motion, with points P, Q, R on the trajectory]\n\nDesprezando as forças de resistência, é correto afirmar que a intensidade da força resultante que atua sobre a esfera nas posições P, Q e R, respectivamente, é",
       subItens: []
     },
     options: [
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "A uma mola, presa no teto de uma varanda, foi suspensa uma gaiola com um passarinho, o que provocou, no ponto de equilíbrio, uma deformação D da mola igual a 10 cm.\n\n[Image showing a spring with a cage and a bird attached, and the deformation D]\n\nConsiderando a constante elástica da mola k = 200 N/m, a massa da gaiola mg = 1,8 kg e a aceleração da gravidade local g = 10 m/s², a massa do passarinho (mp) tem valor, em kg, igual a",
+      principal: "A uma mola, presa no teto de uma varanda, foi suspensa uma gaiola com um passarinho, o que provocou, no ponto de equilíbrio, uma deformação D da mola igual a 10 cm.\n\n[Image showing a spring with a cage and a bird attached, and the deformation D]\n\nConsiderando a constante elástica da mola k = 200 $N/m$, a massa da gaiola mg = 1,8 kg e a aceleração da gravidade local g = 10 $m/s$², a massa do passarinho (mp) tem valor, em kg, igual a",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "Uma massa de 0,5 kg de mercúrio, à temperatura ambiente, precisa ser completamente armazenada em um recipiente, sem que transborde. Sabendo que a densidade do mercúrio é 13,6 g/cm³, será necessário utilizar um recipiente cujo volume interior mínimo seja próximo de",
+      principal: "Uma massa de 0,5 kg de mercúrio, à temperatura ambiente, precisa ser completamente armazenada em um recipiente, sem que transborde. Sabendo que a densidade do mercúrio é 13,6 $g/cm$³, será necessário utilizar um recipiente cujo volume interior mínimo seja próximo de",
       subItens: []
     },
     options: [
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "uea",
     year: 2016,
     text: {
-      principal: "A fórmula percentual da cromita, principal minério de cromo, é Cr_x O_y. Considerando um processo com rendimento igual a 40%, a máxima massa de cromo, em quilogramas, que pode ser obtida a partir de 1 tonelada deste minério é, aproximadamente,",
+      principal: "A fórmula percentual da cromita, principal minério de cromo, é $Cr_x$ $O_y$. Considerando um processo com rendimento igual a 40%, a máxima massa de cromo, em quilogramas, que pode ser obtida a partir de 1 tonelada deste minério é, aproximadamente,",
       subItens: []
     },
     options: [

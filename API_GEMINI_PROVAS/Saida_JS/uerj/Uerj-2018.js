@@ -243,7 +243,7 @@ createQuestion({
     university: "uerj",
     year: 2018,
     text: {
-      principal: "ESPELHO, ESPELHO MEU, EXISTE ALGUÉM MAIS INVISÍVEL DO QUE EU?!\nMENARA\ncrjvitoria.blogspot.com.br, agosto/2011.\nNa charge, o personagem formula uma pergunta cuja resposta está sugerida pela imagem refletida no espelho. A partir dos elementos contidos na imagem, trata-se de uma resposta que expressa o seguinte posicionamento:",
+      principal: "ESPELHO, ESPELHO MEU, EXISTE ALGUÉM MAIS INVISÍVEL DO QUE EU?!\nMENARA\ncrjvitoria.blogspot.com.br, $agosto/2011$.\nNa charge, o personagem formula uma pergunta cuja resposta está sugerida pela imagem refletida no espelho. A partir dos elementos contidos na imagem, trata-se de uma resposta que expressa o seguinte posicionamento:",
       subItens: []
     },
     options: [
@@ -254,7 +254,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Língua Portuguesa", "Arte"],
-    conteudo: ["Interpretação de Imagens", "Análise de Charge/Cartum"],
+    conteudo: ["Interpretação de Imagens", "Análise de $Charge/Cartum$"],
     imageNames: []
 }),
 
@@ -707,10 +707,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2",
-      "1/3",
-      "2/5",
-      "3/10"
+      "$1/2$",
+      "$1/3$",
+      "$2/5$",
+      "$3/10$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "uerj",
     year: 2018,
     text: {
-      principal: "Um carro se desloca ao longo de uma reta. Sua velocidade varia de acordo com o tempo, conforme indicado no gráfico.\n[Graph of v (m/s) vs t (s)]\nA função que indica o deslocamento do carro em relação ao tempo t é:",
+      principal: "Um carro se desloca ao longo de uma reta. Sua velocidade varia de acordo com o tempo, conforme indicado no gráfico.\n[Graph of v ($m/s$) vs t (s)]\nA função que indica o deslocamento do carro em relação ao tempo t é:",
       subItens: []
     },
     options: [
@@ -827,10 +827,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "9/10",
-      "4/7",
-      "3/5",
-      "8/13"
+      "$9/10$",
+      "$4/7$",
+      "$3/5$",
+      "$8/13$"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -923,7 +923,7 @@ createQuestion({
     university: "uerj",
     year: 2018,
     text: {
-      principal: "A hemoglobina é uma proteína de elevada massa molar, responsável pelo transporte de oxigênio na corrente sanguínea. Esse transporte pode ser representado pela equação química abaixo, em que HB corresponde à hemoglobina.\nHB + 4 O₂ → HB(O₂)₄\nEm um experimento, constatou-se que 1 g de hemoglobina é capaz de transportar 2,24 x 10⁻⁴ L de oxigênio molecular com comportamento ideal, nas CNTP. A massa molar, em g/mol, da hemoglobina utilizada no experimento é igual a:",
+      principal: "A hemoglobina é uma proteína de elevada massa molar, responsável pelo transporte de oxigênio na corrente sanguínea. Esse transporte pode ser representado pela equação química abaixo, em que HB corresponde à hemoglobina.\nHB + 4 O₂ → HB(O₂)₄\nEm um experimento, constatou-se que 1 g de hemoglobina é capaz de transportar 2,24 x 10⁻⁴ L de oxigênio molecular com comportamento ideal, nas CNTP. A massa molar, em $g/mol$, da hemoglobina utilizada no experimento é igual a:",
       subItens: []
     },
     options: [

@@ -297,7 +297,7 @@ createQuestion({
     university: "ufrr",
     year: 2020,
     text: {
-      principal: "Energia eólica bate recorde e atende 89% da demanda do Nordeste\n\nE as boas notícias não param por aí: enquanto a média mundial do fator de capacidade está em cerca de 25%, o fator de capacidade médio brasileiro em 2018 foi de 42%, sendo que, no Nordeste, durante a temporada de safra dos ventos, que vai de junho a novembro, é bastante comum parques atingirem fatores de capacidade que passam dos 80%.\n\nhttps://oimparcial.com.br/brasil-e-mundo/2019/08/energia-eolica-bate-recorde-e-atende-89-da-demanda-do-nordeste/\n\nA partir das discussões trazidas pela temática acima, aponte a alternativa que aborda, CORRETAMENTE, alguns dos elementos que envolvem a geração de energia eólica no Brasil.",
+      principal: "Energia eólica bate recorde e atende 89% da demanda do Nordeste\n\nE as boas notícias não param por aí: enquanto a média mundial do fator de capacidade está em cerca de 25%, o fator de capacidade médio brasileiro em 2018 foi de 42%, sendo que, no Nordeste, durante a temporada de safra dos ventos, que vai de junho a novembro, é bastante comum parques atingirem fatores de capacidade que passam dos 80%.\n\nhttps://oimparcial.com.$br/brasil$-e-mundo/2019/08/energia-eolica-bate-recorde-e-atende-89-da-demanda-do-nordeste/\n\nA partir das discussões trazidas pela temática acima, aponte a alternativa que aborda, CORRETAMENTE, alguns dos elementos que envolvem a geração de energia eólica no Brasil.",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "ufrr",
     year: 2020,
     text: {
-      principal: "A queimada de floresta na Amazônia brasileira nas áreas que estão sendo desmatadas para agricultura e pecuária, nos incêndios florestais e queimada de capoeiras, nas pastagens e diferentes tipos de savanas são responsáveis pela emissão de grandes quantidades de gases de efeito estufa pela liberação de gás carbônico (CO2) e gases-traço como metano (CH4), monóxido de carbono (CO) e óxido nitroso (N2O). Uma mistura gasosa formada por 9,0 g de gás carbônico (CO2) e 11,0 g de metano (CH4) ocupa um balão de capacidade igual a 30 L, na temperatura de 27°C. Dadas as massas molares (g/mol): CO2 = 44 e CH4 = 16 e R =0,082atm . L . mol-1 . K-1, indique a alternativa que fornece a pressão de cada gás no balão e a pressão total no balão.",
+      principal: "A queimada de floresta na Amazônia brasileira nas áreas que estão sendo desmatadas para agricultura e pecuária, nos incêndios florestais e queimada de capoeiras, nas pastagens e diferentes tipos de savanas são responsáveis pela emissão de grandes quantidades de gases de efeito estufa pela liberação de gás carbônico (CO2) e gases-traço como metano (CH4), monóxido de carbono (CO) e óxido nitroso (N2O). Uma mistura gasosa formada por 9,0 g de gás carbônico (CO2) e 11,0 g de metano (CH4) ocupa um balão de capacidade igual a 30 L, na temperatura de 27°C. Dadas as massas molares ($g/mol$): CO2 = 44 e CH4 = 16 e R =0,082atm . L . mol-1 . K-1, indique a alternativa que fornece a pressão de cada gás no balão e a pressão total no balão.",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "ufrr",
     year: 2020,
     text: {
-      principal: "TEXT III\n[Imagem: Uma tirinha de quatro painéis com dois personagens. No primeiro painel, o pinguim diz \"SINGLE-USE PLASTIC SHOULD BE BANNED.\" O urso pergunta \"WHAT ABOUT IN HOSPITALS?\". No segundo painel, o pinguim responde \"OKAY-THAT'S AN IMPORTANT USE.\", e o urso pergunta \"LIKE DENTAL FLOSS?\". No terceiro painel, o pinguim responde \"YES.\" O urso então pergunta \"AND BENDY STRAWS?\". No quarto painel, o pinguim, frustrado ou resignado, diz \"OUR DEFINITION OF IMPORTANT CLEARLY DIFFERS...\"]\n\nHallatt\nDisponível em https://www.comicskingdom.com/arctic-circle/. Acesso em 13/09/2019.\n\nQUESTION 24\nConsidering the dramatic environmental situation all over the planet, consider the possibility of changing a recommendation present in the text III into a stronger demand, or an obligation. Mark the alternative that correctly presents such possible change.",
+      principal: "TEXT III\n[Imagem: Uma tirinha de quatro painéis com dois personagens. No primeiro painel, o pinguim diz \"SINGLE-USE PLASTIC SHOULD BE BANNED.\" O urso pergunta \"WHAT ABOUT IN HOSPITALS?\". No segundo painel, o pinguim responde \"OKAY-THAT'S AN IMPORTANT USE.\", e o urso pergunta \"LIKE DENTAL FLOSS?\". No terceiro painel, o pinguim responde \"YES.\" O urso então pergunta \"AND BENDY STRAWS?\". No quarto painel, o pinguim, frustrado ou resignado, diz \"OUR DEFINITION OF IMPORTANT CLEARLY DIFFERS...\"]\n\nHallatt\nDisponível em https://www.comicskingdom.$com/arctic$-circle/. Acesso em 13/09/2019.\n\nQUESTION 24\nConsidering the dramatic environmental situation all over the planet, consider the possibility of changing a recommendation present in the text III into a stronger demand, or an obligation. Mark the alternative that correctly presents such possible change.",
       subItens: []
     },
     options: [

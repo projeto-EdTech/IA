@@ -13,7 +13,7 @@ createQuestion({
       "Na década de 1970, em uma proposta artística conceitual, Cildo Meirelles carimbou cédulas de dinheiro com mensagens políticas, devolvendo-as ao meio circulante.",
       "O Movimento Armorial, nascido no Nordeste brasileiro, atuou de forma integrada na literatura, na pintura, na escultura, no teatro, no cinema e na música."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Movimentos Artísticos", "Arte Brasileira"],
     imageNames: []
@@ -34,7 +34,7 @@ createQuestion({
       "Para alcançar um princípio racional necessário do conhecimento, Descartes usa argumentos semelhantes aos usados pelos céticos, que negam a possibilidade do conhecimento.",
       "Segundo Descartes, uma “coisa pensante\" não depende de coisa alguma ou de condição material alguma para ser; nem mesmo do corpo, que é uma “coisa extensa”."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Racionalismo", "René Descartes"],
     imageNames: []
@@ -55,7 +55,7 @@ createQuestion({
       "A derrota de Atenas para Esparta na Guerra do Peloponeso, em 404 a.C., marcou o fim do período da democracia ateniense.",
       "Platão acreditava ser o filósofo o mais apto a governar a cidade, uma vez que sua educação lhe possibilitava conhecer a ideia do bem e formular leis mais justas."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Antiga", "Sofistas", "Sócrates", "Platão"],
     imageNames: []
@@ -72,11 +72,11 @@ createQuestion({
     options: [
       "As grandes viagens marítimas ocorridas no século XV foram possibilitadas pelo avanço da tecnologia marítima e pelo aperfeiçoamento do conhecimento cartográfico.",
       "O pioneirismo português no processo de expansão marítima se deve, entre outros fatores, à consolidação precoce da monarquia centralizada, à existência de um grupo mercantil enriquecido e à liderança em tecnologia marítima.",
-      "O monopólio mercantil dos muçulmanos nas cidades de Gênova e de Veneza permitiu aos europeus aumentarem os lucros no comércio de artigos orientais.",
+      "O monopólio mercantil dos $\\mu$çulmanos nas cidades de Gênova e de Veneza permitiu aos europeus aumentarem os lucros no comércio de artigos orientais.",
       "As conquistas ultramarinas geraram importantes transformações na Europa; o comércio tornou-se mundial, deslocando o eixo econômico do mar Mediterrâneo para o oceano Atlântico, e a política econômica passou a ser orientada pelo mercantilismo.",
       "O pensamento cristão e católico apresentou-se indiferente às Grandes Navegações, pois a Igreja entendia que o trabalho de catequese em territórios desconhecidos era penoso e infrutífero."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Grandes Navegações", "Idade Moderna"],
     imageNames: []
@@ -97,7 +97,7 @@ createQuestion({
       "O ouro, que atraiu pessoas e possibilitou o desenvolvimento de núcleos populacionais no Paraná, é um recurso considerado não renovável, uma vez que as reservas encontradas na natureza são finitas.",
       "A quantidade de ouro extraída das minas do Paraná durante esse período era alta, e a atividade de garimpagem obtinha lucros expressivos que possibilitavam aos mineiros investir em tecnologia para aprimorar o processo de prospecção do mineral."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História", "Geografia"],
     conteudo: ["Colonização do Paraná", "Recursos Naturais"],
     imageNames: []
@@ -118,7 +118,7 @@ createQuestion({
       "A extensão territorial do Brasil é composta por uma paisagem natural homogênea, de modo que os tipos de vegetação, o clima e as características do relevo são as mesmas para as variadas regiões.",
       "Como a exploração da madeira exigia grandes recursos econômicos e mão de obra especializada, ela despertou baixo interesse comercial, levando à consequente preservação da vegetação brasileira."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia", "História"],
     conteudo: ["Paisagem Natural", "Natureza Brasileira", "Brasil Colonial"],
     imageNames: []
@@ -139,7 +139,7 @@ createQuestion({
       "O marco zero para a determinação dos fusos horários é o meridiano de Greenwich (longitude 0°). A Linha Internacional de Mudança de Data (longitude 180°) é o antimeridiano e, ao atravessarmos essa linha, indo para leste, aumenta-se um dia e, para oeste, diminui-se um dia.",
       "Cada fuso horário corresponde a 15° de longitude. Devido a sua grande extensão territorial, atualmente o Brasil possui três fusos, e a Hora Oficial do País corresponde a menos duas horas em relação a Greenwich."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Coordenadas Geográficas", "Fusos Horários", "Climatologia"],
     imageNames: []
@@ -160,7 +160,7 @@ createQuestion({
       "Para Weber, compreender a ação social é algo desvinculado do entendimento do seu significado para os indivíduos.",
       "Weber concebeu quatro tipos principais de ação social."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Max Weber", "Ação Social"],
     imageNames: []
@@ -181,7 +181,7 @@ createQuestion({
       "O ciclo celular é mais rápido (curto) nas pessoas mais idosas. Como elas necessitam de maior reposição de células nos seus tecidos, estão mais propensas a desenvolver câncer.",
       "Os cânceres são definidos como erros durante a mitose; por exemplo, erros na segregação das cromátides irmãs."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ciclo Celular", "Câncer"],
     imageNames: []
@@ -202,7 +202,7 @@ createQuestion({
       "Cloroplastos são organelas exclusivas das células eucarióticas vegetais.",
       "Paredes celulares são estruturas exclusivas das células eucarióticas vegetais."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia", "Organelas Celulares"],
     imageNames: []
@@ -217,13 +217,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "A velocidade escalar média durante a parte da corrida em que o movimento do homem é uniforme é de 10km/h.",
+      "A velocidade escalar média durante a parte da corrida em que o movimento do homem é uniforme é de $10km/h$.",
       "O controle nervoso sobre os músculos depende de proteínas da membrana plasmática (sintetizadas pelo retículo endoplasmático) presentes tanto nas células nervosas quanto nas musculares.",
       "A energia cinética ao longo dos últimos 9km é maior ou igual à alcançada ao longo do primeiro quilômetro.",
       "Durante toda a corrida o sistema nervoso controla voluntariamente os músculos envolvidos.",
-      "A aceleração média do homem ao longo do primeiro quilômetro é de 0,018 km/min²."
+      "A aceleração média do homem ao longo do primeiro quilômetro é de 0,018 $km/min$²."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física", "Biologia"],
     conteudo: ["Cinemática", "Dinâmica", "Sistema Nervoso", "Sistema Muscular"],
     imageNames: []
@@ -244,7 +244,7 @@ createQuestion({
       "O final do Eon Pré-Cambriano foi marcado pelo mais intenso período glacial de que se tem registro. No entanto, já no início da Era Paleozoica (Período Cambriano) houve um reaquecimento que contribuiu para a diversificação dos seres vivos.",
       "A tectônica de placas bem como os processos de vulcanismos a ela associados tiveram papel importante na transformação do carbonato de cálcio (CaCO₃) em gás carbônico (CO₂), contribuindo para o aumento das taxas de fotossíntese."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Geografia", "Química"],
     conteudo: ["Origem da Vida", "Fotossíntese", "Geologia", "Ciclos Biogeoquímicos"],
     imageNames: []
@@ -265,7 +265,7 @@ createQuestion({
       "A quantidade de vermes a cada semana obedece a uma progressão geométrica de razão 20.",
       "A determinação das características dos vermes produzidos nesse meio depende do material genético dos indivíduos e do ambiente onde estão inseridos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Matemática"],
     conteudo: ["Reprodução", "Progressão Geométrica"],
     imageNames: []
@@ -286,7 +286,7 @@ createQuestion({
       "Na reação há 36 mols de átomos nos reagentes e 36 mols de átomos nos produtos.",
       "Tanto as células eucarióticas vegetais de organismos uni ou multicelulares quanto as células procarióticas realizam a reação descrita no comando da questão."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Reações Químicas", "Balanceamento de Equações", "Fotossíntese", "Respiração Celular"],
     imageNames: []
@@ -307,7 +307,7 @@ createQuestion({
       "O íon fosfato (PO₄³⁻) na forma livre, denominado “fosfato inorgânico”, possui o átomo de fósforo com oito elétrons na camada de valência.",
       "Para que ocorra a contração muscular é necessária a presença do ATP e de um íon; este último possui configuração eletrônica [Ar]."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia", "Química"],
     conteudo: ["Metabolismo Energético", "Ligações Químicas", "Eletroquímica"],
     imageNames: []
@@ -322,13 +322,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Do ponto de vista da Lua, a Terra se move com aceleração cujo módulo é ⁴⁹/₁₆×10⁻⁵m/s² e cujo sentido aponta do centro da Terra para o centro da Lua.",
-      "Além da aceleração que a Lua provoca na Terra e, consequentemente, em todos os corpos sobre a Terra, o objeto O experimenta uma aceleração adicional devido à Lua, cujo módulo depende da distância de O ao centro da Lua e é dado pela função ⁴⁹ˣ¹⁰⁻¹¹/d² m/s².",
-      "A diferença entre os módulos das acelerações experimentadas pelo objeto O, quando ele está no ponto mais próximo ou no ponto mais afastado da Lua, é de ¹⁴⁷/₈×10⁻⁷m/s².",
+      "Do ponto de vista da Lua, a Terra se move com aceleração cujo módulo é ⁴⁹/₁₆×10⁻⁵$m/s$² e cujo sentido aponta do centro da Terra para o centro da Lua.",
+      "Além da aceleração que a Lua provoca na Terra e, consequentemente, em todos os corpos sobre a Terra, o objeto O experimenta uma aceleração adicional devido à Lua, cujo módulo depende da distância de O ao centro da Lua e é dado pela função ⁴⁹ˣ¹⁰⁻¹¹/d² $m/s$².",
+      "A diferença entre os módulos das acelerações experimentadas pelo objeto O, quando ele está no ponto mais próximo ou no ponto mais afastado da Lua, é de ¹⁴⁷/₈×10⁻⁷$m/s$².",
       "O movimento de rotação da Terra e as diferentes acelerações provocadas pela Lua na superficie da Terra causam as mudanças periódicas no nível dos mares, conhecidas como marés.",
       "Se o objeto O for posicionado ao longo da reta que une o centro da Terra ao centro da Lua, à igual distância de ambos, sua aceleração será nula."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Gravitação", "Leis de Newton", "Movimento dos Corpos Celestes"],
     imageNames: []
@@ -349,7 +349,7 @@ createQuestion({
       "Se a velocidade da partícula A for dividida por √3, a área da região para 0 < t < 5(1+√3) será reduzida pela metade.",
       "O triângulo definido para 0 < t < 5(1+√3) possui um ângulo de 75°."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções", "Geometria Analítica", "Cálculo de Área"],
     imageNames: []
@@ -370,7 +370,7 @@ createQuestion({
       "O trabalho realizado por essa força no deslocamento da partícula de sua posição no instante 0 para sua posição no instante 3 é de –6a joules.",
       "A função f é injetora."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física", "Matemática"],
     conteudo: ["Cinemática", "Dinâmica", "Trabalho e Energia", "Funções"],
     imageNames: []
@@ -391,7 +391,7 @@ createQuestion({
       "O movimento do mar de elétrons é responsável pela alta condutividade elétrica em metais.",
       "Quando isolado do resto do universo, o movimento do mar de elétrons deve ocorrer de modo a conservar a quantidade de movimento do sistema."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Ligações Metálicas", "Propriedades dos Metais"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "Na molécula de SO₂, a representação gráfica do vetor resultante é ↓.",
       "A molécula de ozônio é um isótopo do gás oxigênio e possui geometria linear."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Ligações Químicas", "Geometria Molecular", "Polaridade"],
     imageNames: []
@@ -433,7 +433,7 @@ createQuestion({
       "A reação de decomposição de 4 mols de H₂O produz uma quantidade maior de hidrogênio quando comparada com a reação 2.",
       "O gás hidrogênio é explosivo e sofre combustão na presença de oxigênio, levando à formação de água."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Reações Químicas", "Estequiometria", "Gases Nobres", "Propriedades dos Gases"],
     imageNames: []
@@ -454,7 +454,7 @@ createQuestion({
       "A molécula de CS₂ possui ângulo de ligação raso e é apolar.",
       "O íon clorato (ClO₃⁻) possui geometria trigonal, e o átomo de cloro está localizado no centro de um triângulo regular."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Geometria Molecular", "Polaridade", "Teoria da Repulsão dos Pares Eletrônicos da Camada de Valência (VSEPR)"],
     imageNames: []
@@ -470,12 +470,12 @@ createQuestion({
     },
     options: [
       "√3 ∈ A.",
-      "O intervalo B é o conjunto solução da inequação log₃x ≥1.",
+      "O intervalo B é o conjunto solução da inequação $\\log$₃x ≥1.",
       "O intervalo A é o conjunto solução da equação x²-x-6=0.",
       "A∩B = Ø.",
       "Para todo x ∈ R tal que x ≤3, tem-se que x ∈ A∪B."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Conjuntos Numéricos", "Intervalos", "Equações e Inequações"],
     imageNames: []
@@ -496,7 +496,7 @@ createQuestion({
       "A sentença matemática que representa o valor do serviço na empresa A é uma função linear crescente.",
       "A impressão de um documento com mais de 100 páginas fica mais barato na empresa A."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções do 1º Grau", "Análise de Gráficos e Tabelas"],
     imageNames: []
@@ -507,7 +507,7 @@ createQuestion({
     university: "uem",
     year: 2018,
     text: {
-      principal: "O esboço a seguir é a representação de uma figura plana na qual os segmentos AD, EF e BC são paralelos, o quadrilátero BCDH é um quadrado com área de 36cm², o segmento CF mede 2cm, o ângulo CDH é reto e o ângulo BAD mede 30°. Com base nessas informações, assinale o que for correto. Use sen 30° = 0,5.\n\n[Imagem de figura geométrica com pontos A, B, C, D, E, F, G, H]",
+      principal: "O esboço a seguir é a representação de uma figura plana na qual os segmentos AD, EF e BC são paralelos, o quadrilátero BCDH é um quadrado com área de 36cm², o segmento CF mede 2cm, o ângulo CDH é reto e o ângulo BAD mede 30°. Com base nessas informações, assinale o que for correto. Use $\\sin$ 30° = 0,5.\n\n[Imagem de figura geométrica com pontos A, B, C, D, E, F, G, H]",
       subItens: []
     },
     options: [
@@ -517,7 +517,7 @@ createQuestion({
       "A medida do ângulo FGB é 150°.",
       "Os triângulos EBG e DFG são semelhantes."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Plana", "Trigonometria", "Área de Figuras Planas"],
     imageNames: []
@@ -538,7 +538,7 @@ createQuestion({
       "O paradoxo da sociedade atual está no fato de se fazer apologia ao progresso e à técnica e, ao mesmo tempo, de se estabelecerem relações baseadas na indicação.",
       "O autor defende que a burocracia, a falta de acesso aos direitos e a busca pela sobrevivência não incentivam as pequenas corrupções em nossa sociedade."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Coesão e Coerência Textual"],
     imageNames: []
@@ -559,7 +559,7 @@ createQuestion({
       "O termo QI (linha 47) é formado pelo processo de abreviação e representa a expressão popular quem indica.",
       "No vocábulo “supremacia” (linha 44), o prefixo “supre” confere um valor semântico de excesso."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Semântica", "Formação de Palavras"],
     imageNames: []
@@ -580,7 +580,7 @@ createQuestion({
       "Em \"ricos e pobres parecem cair nessa tentação” (linha 10), a forma verbal “parecem” manifesta certeza do autor quanto ao conteúdo informado no texto.",
       "Em \"de outra forma todas as portas estariam fechadas.\" (linhas 73 e 74), a forma verbal em destaque expressa uma indignação quanto ao conteúdo do texto."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Verbos", "Semântica", "Coesão e Coerência Textual"],
     imageNames: []
@@ -601,7 +601,7 @@ createQuestion({
       "A expressão “raia-miúda” (linha 28) funciona, no contexto em que foi empregada, como vocativo.",
       "A expressão “da alegria do brasileiro” (linha 54) funciona como objeto indireto da forma verbal \"Fala-se\" (linha 54)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Termos da Oração"],
     imageNames: []
@@ -622,7 +622,7 @@ createQuestion({
       "A expressão “caminhão de dinheiro” (linhas 26 e 27) é empregada em referência à perda anual de R$200 bilhões com corrupção no Brasil.",
       "O vocábulo “ali” (linha 41) se refere ao livro \"Raízes do Brasil\" (linha 40), publicado pelo pai de Chico Buarque."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Semântica", "Coesão Referencial"],
     imageNames: []
@@ -643,7 +643,7 @@ createQuestion({
       "Em \"Mas o que outros estudiosos pensam desse tema?” (linha 78), o pronome “esse” (contraído com a preposição \"de\") indica uma referência ao ensaio \"Dialética da malandragem\".",
       "O autor se inclui entre aquelas pessoas que praticam pequenas corrupções no dia a dia, como é possível perceber pelo emprego dos pronomes “nós” e “todos” (linha 28)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Pronomes", "Coesão Referencial"],
     imageNames: []
@@ -664,7 +664,7 @@ createQuestion({
       "O vocábulo “vira-lata” (linhas 12 e 13) é formado por processo de composição por justaposição e foi empregado em sentido conotativo.",
       "O vocábulo “preocupante” (linha 35) qualifica a expressão \"desigualdade social\" (linha 35) e denota uma preocupação do autor com relação à desigualdade social no Brasil."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Conjunções", "Semântica", "Formação de Palavras"],
     imageNames: []
@@ -685,7 +685,7 @@ createQuestion({
       "As Cartas chilenas têm como tema os desmandos do governador da Capitania de Minas, o chamado Fanfarrão Minésio. Nesse contexto, Chile é Minas Gerais, e a capital, Santiago, é Vila Rica.",
       "A intenção dos inconfidentes mineiros, entre eles vários intelectuais ilustrados, a exemplo de Casimiro de Abreu, era estabelecer a monarquia brasileira e fundar a primeira universidade em Salvador, na época capital do Brasil."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Arcadismo"],
     imageNames: []
@@ -706,7 +706,7 @@ createQuestion({
       "O eu lírico, não resistindo ao \"golpe ativo\", busca por vontade própria o amor que agora lhe causa tanta dor, tanto \"estrago\", levando-o a refletir e a não compreender o motivo de o \"Amor” se mostrar tão “vingativo”.",
       "Os pares antitéticos “busca” x “despreza” e “vingativo” x \"afago\" comprovam que a poesia de Cláudio Manuel da Costa ainda se prende aos ditames da poesia modernista, mostrando as contradições do homem frente ao divino e ao terreno."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Arcadismo", "Poesia", "Cláudio Manuel da Costa"],
     imageNames: []
@@ -727,7 +727,7 @@ createQuestion({
       "A argumentação de um sermão do século XVII deveria envolver quatro passos: o exórdio: explanação das ideias a serem defendidas; a invocação: pedido de auxílio divino no desenvolvimento das ideias; a confirmação: na qual se desenvolve o tema por meio de alegorias e exemplos; por fim, a peroração: conclusão em que se recapitulam as partes importantes do sermão, incentivando os fiéis a seguirem os ensinamentos bíblicos apresentados.",
       "O “Sermão da sexagésima” tem como base a parábola bíblica do Bom Samaritano, que apresenta a história de um homem que semeou a boa palavra do Senhor, mas sofreu com a incompreensão das pessoas que não entenderam sua atitude de auxiliar um homem desconhecido."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Barroco", "Padre Antônio Vieira"],
     imageNames: []
@@ -748,7 +748,7 @@ createQuestion({
       "pode ser usado para cuidar da pele e do cabelo.",
       "é processado no fígado e convertido em energia."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -769,7 +769,7 @@ createQuestion({
       "o lugar de armazenamento do óleo de coco deve ser úmido e quente.",
       "o derretimento do óleo de coco em temperaturas acima de 25°C é normal."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -790,7 +790,7 @@ createQuestion({
       "is not completely pure.",
       "is not bad for people allergic to gluten."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -811,7 +811,7 @@ createQuestion({
       "\"it\" (linha 8) refere-se a “liver\" (linha 7).",
       "\"increases\" e \"helps\" (linha 10) estão no presente simples e na terceira pessoa do singular."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Vocabulário"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "o sufixo \"-ing\", em “using” (linha 13), ocorre devido à preposição \"about\" (linha 13).",
       "\"will melt\" (linha 42) expressa um evento passado."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Vocabulário"],
     imageNames: []
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "uem",
     year: 2018,
     text: {
-      principal: "Considere uma corda tensionada horizontalmente, com a extremidade final fixa em uma parede. O comprimento da corda é de 12m, a densidade linear dos 8m iniciais é 0,06kg/m e a do restante da corda é 0,08kg/m. Com um movimento vertical na extremidade livre, forma-se uma onda na corda. Com base nessas informações, assinale o que for correto.",
+      principal: "Considere uma corda tensionada horizontalmente, com a extremidade final fixa em uma parede. O comprimento da corda é de 12m, a densidade linear dos 8m iniciais é 0,$06kg/m$ e a do restante da corda é 0,$08kg/m$. Com um movimento vertical na extremidade livre, forma-se uma onda na corda. Com base nessas informações, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "uem",
     year: 2018,
     text: {
-      principal: "Um corpo extenso é colocado sobre um plano horizontal a uma distância D do orifício de uma câmara escura de comprimento d.\nO orifício dessa câmara escura está a uma altura O = H/2 em relação ao plano horizontal, em que H é a altura do corpo extenso. Com base nessas informações, assinale o que for correto.",
+      principal: "Um corpo extenso é colocado sobre um plano horizontal a uma distância D do orifício de uma câmara escura de comprimento d.\nO orifício dessa câmara escura está a uma altura O = $H/2$ em relação ao plano horizontal, em que H é a altura do corpo extenso. Com base nessas informações, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -1284,15 +1284,15 @@ createQuestion({
     university: "uem",
     year: 2018,
     text: {
-      principal: "O ZnSO4 (161,45g/mol) é um sal misturado ao adubo para recuperar deficiências nutricionais do solo. Sabe-se que a maior parte dos reagentes químicos empregados em escala industrial contém impurezas e que, no caso do ZnSO4, é possível encontrar traços de Pb2+ e Cd2+, metais altamente tóxicos e que podem poluir o solo e os rios. Considerando que um lote de 1 tonelada de ZnSO4 tenha sido analisado quimicamente e que ele tenha apresentado impurezas de 0,002% de Pb2+ e de 0,01% de Cd2+, assinale o que for correto.",
+      principal: "O ZnSO4 (161,$45g/mol$) é um sal misturado ao adubo para recuperar deficiências nutricionais do solo. Sabe-se que a maior parte dos reagentes químicos empregados em escala industrial contém impurezas e que, no caso do ZnSO4, é possível encontrar traços de Pb2+ e Cd2+, metais altamente tóxicos e que podem poluir o solo e os rios. Considerando que um lote de 1 tonelada de ZnSO4 tenha sido analisado quimicamente e que ele tenha apresentado impurezas de 0,002% de Pb2+ e de 0,01% de Cd2+, assinale o que for correto.",
       subItens: []
     },
     options: [
       "01) O lote possui 200g de Pb2+.",
       "02) Ao se dissolver o ZnSO4 em água, obtém-se uma solução não eletrolítica.",
-      "04) 8,07g de ZnSO4 dissolvidos em 500mL de água produzem uma solução com aproximadamente 0,10mol/L de concentração molar de SO42-.",
+      "04) 8,07g de ZnSO4 dissolvidos em 500mL de água produzem uma solução com aproximadamente 0,$10mol/L$ de concentração molar de SO42-.",
       "08) Em uma fração aleatória do lote descrito há maior probabilidade de encontrarmos impurezas representadas pelo Pb2+ do que pelo Cd2+.",
-      "16) Obtém-se uma solução de 0,750g/L de ZnSO4 ao se dissolverem 0,15g do sal em 200mL de água."
+      "16) Obtém-se uma solução de 0,$750g/L$ de ZnSO4 ao se dissolverem 0,15g do sal em 200mL de água."
     ],
     correctAnswer: 2,
     materia: ["Química"],
@@ -1330,11 +1330,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "01) A probabilidade de haver exatamente 1 cachorro preto é de 1/6.",
-      "02) A probabilidade de haver pelo menos 1 gato branco e pelo menos 2 cachorros brancos é de 2/3.",
+      "01) A probabilidade de haver exatamente 1 cachorro preto é de $1/6$.",
+      "02) A probabilidade de haver pelo menos 1 gato branco e pelo menos 2 cachorros brancos é de $2/3$.",
       "04) A probabilidade de haver um cachorro malhado é maior do que a probabilidade de haver um gato malhado.",
-      "08) Se um animal for escolhido ao acaso, a probabilidade de ele ser um cachorro preto é de 1/8.",
-      "16) Se um animal for escolhido ao acaso, a probabilidade de ele ser um gato malhado é de 1/16."
+      "08) Se um animal for escolhido ao acaso, a probabilidade de ele ser um cachorro preto é de $1/8$.",
+      "16) Se um animal for escolhido ao acaso, a probabilidade de ele ser um gato malhado é de $1/16$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1351,10 +1351,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "01) A equação tg²x-tg x = 0 possui exatamente duas soluções no intervalo [0,2π).",
-      "02) O período da função f(x) = cos(π(x+4)) é 2π.",
-      "04) Para qualquer número real x, tem-se sen(x - π/2) · sen(x + π/2) ≤ 0.",
-      "08) O determinante da matriz [[cos x, 1 + sen x], [-sen x, cos x]] assume valores positivos, negativos e nulos.",
+      "01) A equação $\\tan$²x-$\\tan$ x = 0 possui exatamente duas soluções no intervalo [0,2π).",
+      "02) O período da função f(x) = $\\cos$(π(x+4)) é 2π.",
+      "04) Para qualquer número real x, tem-se $\\sin$(x - π/2) · $\\sin$(x + π/2) ≤ 0.",
+      "08) O determinante da matriz [[$\\cos$ x, 1 + $\\sin$ x], [-$\\sin$ x, $\\cos$ x]] assume valores positivos, negativos e nulos.",
       "16) Se em um triângulo com lados de medidas a, b e c tivermos b²+c² < a², então o ângulo oposto ao lado de medida a tem medida maior que π/2."
     ],
     correctAnswer: 2,
@@ -1523,7 +1523,7 @@ createQuestion({
       "02) A linguagem dos textos românticos é marcada pelo rigor formal. Na poesia, tal rigor é anunciado por fórmulas literárias assentadas em rígidos esquemas de métrica e de rimas. Na ficção, a escassez da adjetivação e de reticências remete a uma postura sóbria e lúcida.",
       "04) A estética simbolista chega ao Brasil concomitantemente ao Realismo. E, com uma postura igualmente assentada nos sentidos e nas sensações, edifica uma poesia engajada e comprometida com os debates socioculturais e políticos que movimentavam a segunda metade do século XIX.",
       "08) Parte dos romances naturalistas é também conhecida como literatura de tese. Isso porque recebe a influência do cientificismo que marcava a segunda metade do século XIX por meio da larga difusão de ideias deterministas, evolucionistas, positivistas. Inspirados nessas teorias, alguns escritores construíam personagens e situações como se estivessem demonstrando teses.",
-      "16) A poesia parnasiana desenvolveu-se a partir do pressuposto da arte pela arte, isto é, da arte com um fim em si mesma, sem pretensões de contribuir com debates sociais, culturais e/ou políticos que constituem o contexto em que emergem."
+      "16) A poesia parnasiana desenvolveu-se a partir do pressuposto da arte pela arte, isto é, da arte com um fim em si mesma, sem pretensões de contribuir com debates sociais, culturais $e/ou$ políticos que constituem o contexto em que emergem."
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],
@@ -1919,7 +1919,7 @@ createQuestion({
     },
     options: [
       "Para manter esse sistema estático, o fio que conecta as cargas deve ter comprimento superior a 3m.",
-      "Se o sistema for liberado do repouso com d = 1m, a esfera de carga Q₂ terá velocidade igual a 1,5m/s imediatamente antes de entrar na região do campo B.",
+      "Se o sistema for liberado do repouso com d = 1m, a esfera de carga Q₂ terá velocidade igual a 1,$5m/s$ imediatamente antes de entrar na região do campo B.",
       "Caso o fio que conecta as cargas se rompa, a esfera de carga Q₂ experimentará uma força magnética em uma direção perpendicular ao plano das cargas ao entrar na região do campo B.",
       "Caso o fio que conecta as cargas se rompa, a esfera de carga Q₂ será freada verticalmente ao passar pela região do campo B, e sua energia cinética será diminuída.",
       "Se o sistema for liberado do repouso com d = 1m, o módulo da força magnética experimentada pela esfera de carga Q₂, imediatamente após entrar na região do campo B, será 360N."
@@ -1935,7 +1935,7 @@ createQuestion({
     university: "uem",
     year: 2018,
     text: {
-      principal: "Sejam S e S' dois referenciais inerciais que se movem, um em relação ao outro, com uma velocidade de 2/3 da velocidade da luz. No referencial S' existe um paralelogramo de base quadrada e lados √5m×√5m, com altura de 3m e massa de repouso de √5kg, que está em repouso. No referencial S existe um cubo de lado √5m e massa de repouso de 3kg, que também está em repouso. Considerando que o vetor velocidade relativa entre os referenciais S e S'é simultaneamente perpendicular à base do paralelogramo ea uma das faces do cubo, assinale o que for correto.",
+      principal: "Sejam S e S' dois referenciais inerciais que se movem, um em relação ao outro, com uma velocidade de $2/3$ da velocidade da luz. No referencial S' existe um paralelogramo de base quadrada e lados √5m×√5m, com altura de 3m e massa de repouso de √5kg, que está em repouso. No referencial S existe um cubo de lado √5m e massa de repouso de 3kg, que também está em repouso. Considerando que o vetor velocidade relativa entre os referenciais S e S'é simultaneamente perpendicular à base do paralelogramo ea uma das faces do cubo, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -1963,8 +1963,8 @@ createQuestion({
       "A reta que passa por A e P é paralela à reta 2y-x=1.",
       "O triângulo ABP é retângulo.",
       "Se Q₁>0, se Q₂ <0 e se E₁ e E₂ têm a mesma intensidade, então E é paralelo à reta y = 15.",
-      "Se Q₁ = 2 μC, então a intensidade de E₁ é 10⁵N/C.",
-      "A distância entre P e a reta que passa por A e B é 3√5/5 m."
+      "Se Q₁ = 2 μC, então a intensidade de E₁ é 10⁵$N/C$.",
+      "A distância entre P e a reta que passa por A e B é 3√$5/5$ m."
     ],
     correctAnswer: 1,
     materia: ["Física", "Matemática"],
@@ -2024,7 +2024,7 @@ createQuestion({
     },
     options: [
       "A constante inversa da reação (II) é Kᵢ = 5,55x10⁻¹⁰.",
-      "Em solução 0,10mol/L do reagente da reação (I), a concentração de H3O+ proveniente da ionização pode ser calculada pelo polinômio [H3O+]²– Ka 0,10 + Ka [H3O+] = 0.",
+      "Em solução 0,$10mol/L$ do reagente da reação (I), a concentração de H3O+ proveniente da ionização pode ser calculada pelo polinômio [H3O+]²– Ka 0,10 + Ka [H3O+] = 0.",
       "A adição de ácidos ou de bases à reação (IV) pode suprimir a autoionização da água.",
       "Para a reação (I) o pH é maior que 7 e, para a reação (II), o pH é menor que 7.",
       "Na reação (III) o equilíbrio químico se estabelece quando a velocidade de dissolução se torna maior que a velocidade de precipitação."

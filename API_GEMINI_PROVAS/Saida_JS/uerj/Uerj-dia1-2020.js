@@ -3,7 +3,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "QUESTÃO\n01\nSOBRE A FORMA DA TERRA\nNesses últimos tempos, tem-se difundido na internet uma concepção sobre a forma da Terra:\na Terra Plana. Na verdade, essa concepção está associada com outras ideias em conflito com\no conhecimento científico atual. Afirma-se, por exemplo, que a gravidade inexiste; a Lua\né autoiluminada; o Sol e os demais astros se encontram a não mais de alguns milhares de\nquilômetros de nós; o Sol e a Lua descrevem órbitas paralelas à superfície da Terra; as viagens\nespaciais são impossíveis. Negam-se, assim, a ida do homem à Lua e a existência de satélites\nartificiais, ao mesmo tempo que se afirmam o geocentrismo antropocêntrico e o criacionismo\nfixista dos 6 mil anos, segundo o qual tudo teria sido criado como é hoje há cerca de 6 mil anos.\nFERNANDO LANG DA SILVEIRA\nAdaptado de researchgate.net, maio/2017.\nDe acordo com essa concepção sobre a forma da Terra, dentre as viagens empreendidas pelos\nexploradores do período das Grandes Navegações, a que faz alusão Stephen Hawking, seria\nimpossível a realização do seguinte percurso:\n(A) Cristóvão Colombo (1492)\n(B) Vasco da Gama (1497-1498)\nPortugal\nAMÉRICA\nDO\nNORTE\nOCEANO\nPACÍFICO\nAMÉRICA\nDO SUL\nOCEANO\nATLÂNTICO\nEspanha\nPortugal\nÁFRICA\nOCEANO\nATLÂNTICO\nÍndia\nArábia\nÁFRICA\nOCEANO\nÍNDICO\n(C) Américo Vespúcio (1498-1499)\n(D) Fernão de Magalhães (1519-1522)\nEspanha\nOCEANO\nATLÂNTICO\nAMÉRICA\nDO NORTE\nÁSIA\nÁFRICA\nEUROPA\nOCEANO Espanha\nATLÂNTICO\nÁFRICA\nOCEANO\nPACÍFICO\nAMÉRICA\nDO SUL\nOCEANIA\nOCEANO\nÍNDICO",
+      principal: "QUESTÃO\n01\nSOBRE A FORMA DA TERRA\nNesses últimos tempos, tem-se difundido na internet uma concepção sobre a forma da Terra:\na Terra Plana. Na verdade, essa concepção está associada com outras ideias em conflito com\no conhecimento científico atual. Afirma-se, por exemplo, que a gravidade inexiste; a Lua\né autoiluminada; o Sol e os demais astros se encontram a não mais de alguns milhares de\nquilômetros de nós; o Sol e a Lua descrevem órbitas paralelas à superfície da Terra; as viagens\nespaciais são impossíveis. Negam-se, assim, a ida do homem à Lua e a existência de satélites\nartificiais, ao mesmo tempo que se afirmam o geocentrismo antropocêntrico e o criacionismo\nfixista dos 6 mil anos, segundo o qual tudo teria sido criado como é hoje há cerca de 6 mil anos.\nFERNANDO LANG DA SILVEIRA\nAdaptado de researchgate.net, $maio/2017$.\nDe acordo com essa concepção sobre a forma da Terra, dentre as viagens empreendidas pelos\nexploradores do período das Grandes Navegações, a que faz alusão Stephen Hawking, seria\nimpossível a realização do seguinte percurso:\n(A) Cristóvão Colombo (1492)\n(B) Vasco da Gama (1497-1498)\nPortugal\nAMÉRICA\nDO\nNORTE\nOCEANO\nPACÍFICO\nAMÉRICA\nDO SUL\nOCEANO\nATLÂNTICO\nEspanha\nPortugal\nÁFRICA\nOCEANO\nATLÂNTICO\nÍndia\nArábia\nÁFRICA\nOCEANO\nÍNDICO\n(C) Américo Vespúcio (1498-1499)\n(D) Fernão de Magalhães (1519-1522)\nEspanha\nOCEANO\nATLÂNTICO\nAMÉRICA\nDO NORTE\nÁSIA\nÁFRICA\nEUROPA\nOCEANO Espanha\nATLÂNTICO\nÁFRICA\nOCEANO\nPACÍFICO\nAMÉRICA\nDO SUL\nOCEANIA\nOCEANO\nÍNDICO",
       subItens: []
     },
     options: [
@@ -43,7 +43,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "QUESTÃO\n03\nOBAMA ACRESCENTA A SEU LEGADO A LUTA CONTRA A MUDANÇA CLIMÁTICA\nO presidente dos Estados Unidos, Barack Obama, revelou, em agosto de 2015, seu plano definitivo\npara reduzir as emissões de dióxido de carbono na atmosfera, consideradas as principais\nresponsáveis pelo aquecimento global. É a primeira vez que um presidente norte-americano\ndetermina limites para as emissões das usinas de energia do país. “A mudança climática já não\né um problema das gerações futuras”, afirma o presidente num vídeo publicado em sua página\nno Facebook. Nele, Obama descreve o novo plano como “o maior e mais importante passo\ndado pelos E.U.A. na luta contra o aquecimento global. As previsões mais recentes indicam\ngraves consequências se a temperatura global média subir 2 °C. Como Obama alerta no vídeo\nmencionado, seu conjunto de medidas “pode não ser suficiente”.\nAdaptado de brasil.elpais.com, agosto/2015.\nDONALD TRUMP DECIDE RETIRAR E.U.A. DO ACORDO CLIMÁTICO DE PARIS\nO presidente dos Estados Unidos, Donald Trump, anunciou em junho de 2017 que o país\nsairá do Acordo de Paris. Em declaração realizada nos jardins da Casa Branca, afirmou: “Para\nproteger a América e seus cidadãos, os Estados Unidos se retirarão do Acordo Climático de\nParis. Mas começaremos a rediscutir esses acordos em termos justos para os trabalhadores\ne os contribuintes: estamos saindo, mas iniciaremos negociações para um acordo justo. A\nsaída norte-americana abre precedente para que outros Estados repensem e até desistam do\nAcordo de 2015, algo considerado extremamente preocupante por especialistas no assunto.\nAfinal, o tratado também deseja garantir que o aumento da temperatura média global fique\n2 °C abaixo dos níveis da época pré-industrial, além de prosseguir com os esforços para limitar\no aumento da temperatura em até 1,5 °C.\nAdaptado de revistagalileu.globo.com, junho/2017.\nA diferença entre as posições de Barack Obama e Donald Trump, quanto aos problemas\nrelacionados à mudança climática na atualidade, está associada, respectivamente, aos\nseguintes aspectos:\n(A) expansão dos insumos agrícolas – incremento da indústria bélica\n(B) ingerência dos organismos internacionais – aprofundamento da crise financeira\n(C) neutralização dos desastres ecológicos – valorização da independência nacional\n(D) reconhecimento dos prognósticos científicos – defesa do crescimento econômico",
+      principal: "QUESTÃO\n03\nOBAMA ACRESCENTA A SEU LEGADO A LUTA CONTRA A MUDANÇA CLIMÁTICA\nO presidente dos Estados Unidos, Barack Obama, revelou, em agosto de 2015, seu plano definitivo\npara reduzir as emissões de dióxido de carbono na atmosfera, consideradas as principais\nresponsáveis pelo aquecimento global. É a primeira vez que um presidente norte-americano\ndetermina limites para as emissões das usinas de energia do país. “A mudança climática já não\né um problema das gerações futuras”, afirma o presidente num vídeo publicado em sua página\nno Facebook. Nele, Obama descreve o novo plano como “o maior e mais importante passo\ndado pelos E.U.A. na luta contra o aquecimento global. As previsões mais recentes indicam\ngraves consequências se a temperatura global média subir 2 °C. Como Obama alerta no vídeo\nmencionado, seu conjunto de medidas “pode não ser suficiente”.\nAdaptado de brasil.elpais.com, $agosto/2015$.\nDONALD TRUMP DECIDE RETIRAR E.U.A. DO ACORDO CLIMÁTICO DE PARIS\nO presidente dos Estados Unidos, Donald Trump, anunciou em junho de 2017 que o país\nsairá do Acordo de Paris. Em declaração realizada nos jardins da Casa Branca, afirmou: “Para\nproteger a América e seus cidadãos, os Estados Unidos se retirarão do Acordo Climático de\nParis. Mas começaremos a rediscutir esses acordos em termos justos para os trabalhadores\ne os contribuintes: estamos saindo, mas iniciaremos negociações para um acordo justo. A\nsaída norte-americana abre precedente para que outros Estados repensem e até desistam do\nAcordo de 2015, algo considerado extremamente preocupante por especialistas no assunto.\nAfinal, o tratado também deseja garantir que o aumento da temperatura média global fique\n2 °C abaixo dos níveis da época pré-industrial, além de prosseguir com os esforços para limitar\no aumento da temperatura em até 1,5 °C.\nAdaptado de revistagalileu.globo.com, $junho/2017$.\nA diferença entre as posições de Barack Obama e Donald Trump, quanto aos problemas\nrelacionados à mudança climática na atualidade, está associada, respectivamente, aos\nseguintes aspectos:\n(A) expansão dos insumos agrícolas – incremento da indústria bélica\n(B) ingerência dos organismos internacionais – aprofundamento da crise financeira\n(C) neutralização dos desastres ecológicos – valorização da independência nacional\n(D) reconhecimento dos prognósticos científicos – defesa do crescimento econômico",
       subItens: []
     },
     options: [
@@ -747,10 +747,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/5",
-      "1/2",
-      "3/4",
-      "4/3"
+      "$1/5$",
+      "$1/2$",
+      "$3/4$",
+      "$4/3$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -827,10 +827,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "128/9",
-      "256/9",
-      "128/81",
-      "256/81"
+      "$128/9$",
+      "$256/9$",
+      "$128/81$",
+      "$256/81$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -903,7 +903,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "QUESTÃO\n36\nPara romper uma ligação de hidrogênio de 1 mol de DNA, é necessário um valor médio de energia\nE = 30 kJ. Desprezando as forças dissipativas, e considerando g = 10 m/s², esse valor de Eé\ncapaz de elevar um corpo de massa m = 120 kg a uma altura h.\nO valor de h, em metros, corresponde a:\n(A) 25\n(B) 35\n(C) 45\n(D) 55",
+      principal: "QUESTÃO\n36\nPara romper uma ligação de hidrogênio de 1 mol de DNA, é necessário um valor médio de energia\nE = 30 kJ. Desprezando as forças dissipativas, e considerando g = 10 $m/s$², esse valor de Eé\ncapaz de elevar um corpo de massa m = 120 kg a uma altura h.\nO valor de h, em metros, corresponde a:\n(A) 25\n(B) 35\n(C) 45\n(D) 55",
       subItens: []
     },
     options: [
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "QUESTÃO\n45\nAPICULTORES BRASILEIROS ENCONTRAM MEIO BILHÃO DE ABELHAS MORTAS EM TRÊS MESES\nNos últimos três meses, mais de 500 milhões de abelhas foram encontradas mortas por\napicultores apenas em quatro estados brasileiros, segundo levantamento da Agência Pública\ne Repórter Brasil.\nAdaptado de sul21.com.br, março/2019.\nAlguns ecossistemas são gravemente afetados por desequilíbrios como o relatado na reportagem.\nNesse caso, uma consequência para as plantas polinizadas por abelhas é:\n(A) diminuição da necessidade de água\n(B) redução da dispersão de sementes\n(C) perda da variabilidade genética\n(D) limitação da taxa de fotossíntese",
+      principal: "QUESTÃO\n45\nAPICULTORES BRASILEIROS ENCONTRAM MEIO BILHÃO DE ABELHAS MORTAS EM TRÊS MESES\nNos últimos três meses, mais de 500 milhões de abelhas foram encontradas mortas por\napicultores apenas em quatro estados brasileiros, segundo levantamento da Agência Pública\ne Repórter Brasil.\nAdaptado de sul21.com.br, març$o/2019$.\nAlguns ecossistemas são gravemente afetados por desequilíbrios como o relatado na reportagem.\nNesse caso, uma consequência para as plantas polinizadas por abelhas é:\n(A) diminuição da necessidade de água\n(B) redução da dispersão de sementes\n(C) perda da variabilidade genética\n(D) limitação da taxa de fotossíntese",
       subItens: []
     },
     options: [
@@ -1107,10 +1107,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1,8 × 10^4",
-      "2,7 × 10^4",
-      "3,6 × 10^4",
-      "4,5 × 10^4"
+      "1,8 × $10^4$",
+      "2,7 × $10^4$",
+      "3,6 × $10^4$",
+      "4,5 × $10^4$"
     ],
     correctAnswer: 2,
     materia: ["Física", "Matemática"],
@@ -1203,7 +1203,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "QUESTÃO\n51\nMEDITERRÂNEO É O MAIOR CEMITÉRIO DA EUROPA HOJE\nTrata-se de um grave problema: as próprias leis da União Europeia e as convenções internacionais\nafirmam que os fugitivos salvos não podem ser levados de volta ao porto de embarque de onde\nescaparam da guerra, do terrorismo e da fome. Mas, ainda assim, todos os dias, dezenas de pessoas\nmorrem durante a tentativa de atingir a Europa. Hoje, o Mediterrâneo virou o maior cemitério\nda Europa. Nós conhecemos apenas o número de vítimas que foram registradas através de fotos,\nposição e data. Contudo, para cada vítima divulgada oficialmente há um morto que nem aparece nas\nestatísticas. Vivemos uma situação absurda. A África é saqueada pelos países ocidentais, que depois\nnão querem ver de perto o efeito de sua política. Os países europeus fecham suas fronteiras e ignoram\nque essas vítimas vão morrer justamente tentando fugir da situação que eles criaram.\nCLAUS PETER REISCH\nAdaptado de gazetaonline.com.br, julho/2018.\nEm julho de 2018, Claus Peter Reisch, comandante do navio Lifeline, ficou sete dias no mar\nMediterrâneo com 233 migrantes a bordo aguardando autorização para desembarcar em\npaíses europeus.\nNo que se refere às relações entre países africanos e governos europeus, a avaliação de Reisch\npara a crise migratória atual expressa a contradição entre os seguintes fatores:\n(A) integração global e localismo étnico\n(B) herança imperialista e nacionalismo xenófobo\n(C) crise demográfica e modernização econômica\n(D) dinamização comercial e desqualificação laboral",
+      principal: "QUESTÃO\n51\nMEDITERRÂNEO É O MAIOR CEMITÉRIO DA EUROPA HOJE\nTrata-se de um grave problema: as próprias leis da União Europeia e as convenções internacionais\nafirmam que os fugitivos salvos não podem ser levados de volta ao porto de embarque de onde\nescaparam da guerra, do terrorismo e da fome. Mas, ainda assim, todos os dias, dezenas de pessoas\nmorrem durante a tentativa de atingir a Europa. Hoje, o Mediterrâneo virou o maior cemitério\nda Europa. Nós conhecemos apenas o número de vítimas que foram registradas através de fotos,\nposição e data. Contudo, para cada vítima divulgada oficialmente há um morto que nem aparece nas\nestatísticas. Vivemos uma situação absurda. A África é saqueada pelos países ocidentais, que depois\nnão querem ver de perto o efeito de sua política. Os países europeus fecham suas fronteiras e ignoram\nque essas vítimas vão morrer justamente tentando fugir da situação que eles criaram.\nCLAUS PETER REISCH\nAdaptado de gazetaonline.com.br, $julho/2018$.\nEm julho de 2018, Claus Peter Reisch, comandante do navio Lifeline, ficou sete dias no mar\nMediterrâneo com 233 migrantes a bordo aguardando autorização para desembarcar em\npaíses europeus.\nNo que se refere às relações entre países africanos e governos europeus, a avaliação de Reisch\npara a crise migratória atual expressa a contradição entre os seguintes fatores:\n(A) integração global e localismo étnico\n(B) herança imperialista e nacionalismo xenófobo\n(C) crise demográfica e modernização econômica\n(D) dinamização comercial e desqualificação laboral",
       subItens: []
     },
     options: [

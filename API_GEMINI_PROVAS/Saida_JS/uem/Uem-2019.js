@@ -13,7 +13,7 @@ createQuestion({
       "O Salão Brígida, no Rio de Janeiro, em 1922, reuniu artistas e intelectuais que discutiam o futuro da arte brasileira, propondo a criação de um movimento estético nacionalista.",
       "O período do Modernismo brasileiro (1922-1945) caracterizou-se pelo afastamento das artes da vida cotidiana, o que resultou na criação de obras de arte inacessíveis ao público."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Cultura Brasileira", "Danças Populares", "Manifestações Artísticas"],
     imageNames: []
@@ -34,7 +34,7 @@ createQuestion({
       "Segundo David Hume (século XVIII), a causalidade é um conceito da metafísica; seu princípio é necessário e universal que rege todos os eventos da natureza.",
       "Para Immanuel Kant (século XVIII), os fenômenos são os objetos indeterminados da intuição empírica; são representações que pressupõem espaço e tempo como formas a priori."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Teoria do Conhecimento", "Racionalismo", "Empirismo"],
     imageNames: []
@@ -55,7 +55,7 @@ createQuestion({
       "Os pitagóricos defenderam que os cultos públicos conduzidos pelos sacerdotes promoviam a educação filosófica dos cidadãos atenienses que deles participavam.",
       "Os estoicos caracterizam-se por defender o caráter indissociável entre a busca pelo conhecimento verdadeiro e a busca por uma vida virtuosa."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Grega", "Pré-socráticos", "Escolas Helenísticas"],
     imageNames: []
@@ -73,10 +73,10 @@ createQuestion({
       "A escolástica, corrente de pensamento que procurava explicar a fé por meio de referências racionais, era empregada como método de ensino nas universidades e tinha Tomás de Aquino como um de seus principais representantes.",
       "No campo artístico, a arte românica, cuja principal expressão era a arquitetura, destacava-se pela sobriedade presente nas edificações.",
       "O crescimento demográfico manifestado nesse período foi baixo e influenciou de forma negativa o revigoramento das cidades e do comércio, da agricultura.",
-      "As Cruzadas foram expedições militares organizadas pela Igreja Católica e objetivaram libertar Jerusalém, a Terra Santa, do domínio dos muçulmanos e estender a influência do catolicismo à região.",
+      "As Cruzadas foram expedições militares organizadas pela Igreja Católica e objetivaram libertar Jerusalém, a Terra Santa, do domínio dos $\\mu$çulmanos e estender a influência do catolicismo à região.",
       "Devido ao baixo desenvolvimento das atividades comerciais, os índices de produção artesanais eram inexpressivos e desestimulavam, entre os artesãos, as organizações de corporações de ofício."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História", "Filosofia", "Arte", "Sociologia"],
     conteudo: ["Idade Média", "Escolástica", "Arte Românica", "Estrutura Social Medieval"],
     imageNames: []
@@ -97,7 +97,7 @@ createQuestion({
       "A organização de Roma como cidade-Estado foi facilitada pelas condições geográficas (como relevo montanhoso e diversas reentrâncias do mar) e pela grande quantidade de ilhas, o que facilitava a proteção da cidade e do campo.",
       "A base econômica do Império era a produção de manufaturas. Os estabelecimentos estavam concentrados nas mãos da elite, que explorava a mão de obra composta por plebeus escravizados oriundos de diversas áreas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Império Romano", "Sociedade Romana"],
     imageNames: []
@@ -118,7 +118,7 @@ createQuestion({
       "No Brasil, no século XIV, com o desenvolvimento do mercantilismo, grandes rios desempenharam importantes funções nos transportes internacional e regional de mercadorias. Destacaram-se, com maior volume transportado, o Paraná, o Amazonas, o Tocantins e o São Francisco.",
       "Na Europa Ocidental, o transporte fluvial desenvolveu-se em razão da existência de extensas planícies costeiras recortadas por uma densa rede de rios como o Reno, o Sena, o Loire, o Elba."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia", "História"],
     conteudo: ["Comércio", "Meios de Transporte", "Rotas Comerciais"],
     imageNames: []
@@ -139,7 +139,7 @@ createQuestion({
       "A disposição do relevo em relação ao Sol influencia no menor ou no maior aquecimento das áreas. No Hemisfério Sul, principalmente a partir de latitudes médias, as vertentes voltadas para o Norte são mais aquecidas que as voltadas para o Sul.",
       "Áreas que se localizam no interior do continente, mais distantes do litoral, são influenciadas pela continentalidade, apresentando amplitudes térmicas diárias menores comparadas às áreas influenciadas pela maritimidade."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Climatologia", "Elementos Climáticos", "Fatores Climáticos"],
     imageNames: []
@@ -160,7 +160,7 @@ createQuestion({
       "O trabalho é, para o capitalismo, considerado uma mercadoria, contudo é a única mercadoria que cria valor.",
       "A burguesia garante sua existência ao revolucionar constantemente os instrumentos de produção e, consequentemente, as relações sociais."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Karl Marx", "Capitalismo", "Burguesia e Proletariado"],
     imageNames: []
@@ -181,7 +181,7 @@ createQuestion({
       "O organismo multicelular originado possui sistemas formados por conjuntos de órgãos que são compostos por tecidos contendo células especializadas.",
       "Procariotos multicelulares possuem desenvolvimento embrionário semelhante, mas com diferenças na segmentação dos blastômeros e na gastrulação."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Embriologia", "Citologia", "Meiose", "Tecidos"],
     imageNames: []
@@ -202,7 +202,7 @@ createQuestion({
       "A transcrição do RNA é semiconservativa.",
       "O câncer pode ser causado por alterações nos genes supressores de tumor e nos oncogenes."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ciclo Celular", "Genética", "Câncer"],
     imageNames: []
@@ -221,9 +221,9 @@ createQuestion({
       "Durante a cobrança de uma falta, quando um jogador chuta a bola exercendo uma força de intensidade 10N sobre ela, como reação essa bola exerce uma força de intensidade 5N sobre o pé do jogador.",
       "Um dos jogadores teve uma fadiga muscular que, provavelmente, está relacionada ao acúmulo de ácido láctico, acúmulo este que ocorre em função da oxigenação insuficiente dos músculos.",
       "Durante o processo de contração muscular ocorre o encurtamento dos sarcômeros devido ao deslizamento dos miofilamentos de actina sobre os de miosina.",
-      "Quando, em um lance de ataque, um jogador de massa 80kg acelera uniformemente e sua velocidade varia de 0 a 18km/h em 10s, pode-se considerar que a força resultante que atua sobre ele nesses 10s é de 40N."
+      "Quando, em um lance de ataque, um jogador de massa 80kg acelera uniformemente e sua velocidade varia de 0 a $18km/h$ em 10s, pode-se considerar que a força resultante que atua sobre ele nesses 10s é de 40N."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física", "Biologia"],
     conteudo: ["Leis de Newton", "Cinemática", "Fisiologia Muscular"],
     imageNames: []
@@ -244,7 +244,7 @@ createQuestion({
       "O ecossistema representa um nível de organização biológica equiparado hierarquicamente à biosfera. Os ecossistemas na escala global podem ser representados pela anamorfose geográfica, deformando-se a superfície dos países para se visualizar a distribuição espacial de acordo com os parâmetros da escala e da projeção cartográfica.",
       "A delimitação das fronteiras naturais entre os ecossistemas é de fácil identificação e reprodução cartográfica; organismos de populações diferentes podem ser comparados em mapas de dados qualitativos, ordenando-se o tamanho dos ecossistemas habitados."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia", "Geografia"],
     conteudo: ["Ecologia", "Níveis de Organização", "Cartografia"],
     imageNames: []
@@ -265,7 +265,7 @@ createQuestion({
       "A população que habita simultaneamente as comunidades A, C e D é constituída por um indivíduo.",
       "As comunidades A e C têm exatamente os mesmos indivíduos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ecologia", "Populações", "Comunidades"],
     imageNames: []
@@ -286,7 +286,7 @@ createQuestion({
       "A entrada de oxigênio gasoso na membrana plasmática ocorre por meio da interação entre a molécula de O₂ e o grupo fosfato presente no fosfolipídio.",
       "A molécula de fosfoetanolamina interage com a água por meio de ligações de hidrogênio."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Química Orgânica", "Forças Intermoleculares", "Citologia"],
     imageNames: []
@@ -307,7 +307,7 @@ createQuestion({
       "Os átomos ⁴⁰K e ⁴⁰Ca, utilizados diretamente na síntese de proteínas, são isótonos, pois apresentam mesmo número de nêutrons e número de massa diferente.",
       "No processo de fotossíntese a água é a fonte de H⁺ para a síntese de NADPH₂ e de O₂ para a atmosfera."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Tabela Periódica", "Ligações Químicas", "Bioquímica", "Fisiologia Celular"],
     imageNames: []
@@ -325,10 +325,10 @@ createQuestion({
       "A Massa, a Velocidade e a Aceleração são grandezas vetoriais.",
       "O Trabalho, a Energia Cinética e a Energia Potencial Gravitacional têm a mesma unidade.",
       "As unidades fundamentais de Comprimento, Massa e Tempo são, respectivamente, o metro, o quilograma e o segundo.",
-      "A unidade de Força é o Newton, que, em unidades fundamentais, é dada por kg.m/s².",
+      "A unidade de Força é o Newton, que, em unidades fundamentais, é dada por kg.$m/s$².",
       "O Trabalho, a Energia Cinética e a Energia Potencial Elástica são grandezas escalares."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Grandezas Físicas", "Unidades de Medida", "Vetores e Escalares"],
     imageNames: []
@@ -347,9 +347,9 @@ createQuestion({
       "Se dobrarmos o comprimento da pedivela será necessário duplicar a força impressa perpendicularmente na extremidade dela para manter o mesmo torque.",
       "Se uma força de 10N for aplicada perpendicularmente na pedivela em sua extremidade oposta ao centro da coroa, o módulo do torque resultante será de 300N·cm.",
       "Se as espessuras da coroa e da catraca forem as mesmas, então a coroa possui duas vezes mais massa que a catraca.",
-      "Se a coroa está rodando a uma velocidade angular constante de 3rad/s, então o módulo da aceleração centrípeta de uma partícula na sua borda é de 30π²cm/s²."
+      "Se a coroa está rodando a uma velocidade angular constante de $3rad/s$, então o módulo da aceleração centrípeta de uma partícula na sua borda é de 30π²$cm/s$²."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática Angular", "Dinâmica Rotacional", "Torque"],
     imageNames: []
@@ -370,7 +370,7 @@ createQuestion({
       "A variação da energia potencial gravitacional do bloco é proporcional à distância percorrida.",
       "A variação da energia cinética do bloco em relação à distância percorrida é descrita por uma função quadrática."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Dinâmica", "Energia Mecânica", "Planos Inclinados"],
     imageNames: []
@@ -385,13 +385,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Quando a velocidade angular do disco é de 200rad/s a velocidade escalar do centro do recipiente de acondicionamento da mistura é de 40m/s.",
+      "Quando a velocidade angular do disco é de $200rad/s$ a velocidade escalar do centro do recipiente de acondicionamento da mistura é de $40m/s$.",
       "O plasma sanguíneo é uma mistura homogênea. Logo, seus constituintes não sofrem decantação no processo de centrifugação.",
       "O sangue pode ser separado pelo processo de centrifugação, pois é uma mistura heterogênea.",
-      "Quando a velocidade angular do disco é de 200rad/s o período de rotação do recipiente de acondicionamento da mistura é de π×10⁻²s.",
-      "Se o disco da centrífuga partir do repouso e se após 10s de centrifugação o centro do recipiente de acondicionamento da mistura atingir uma velocidade escalar de 20m/s, então a aceleração angular média do disco da centrífuga nesse intervalo de tempo será de 5rad/s²."
+      "Quando a velocidade angular do disco é de $200rad/s$ o período de rotação do recipiente de acondicionamento da mistura é de π×10⁻²s.",
+      "Se o disco da centrífuga partir do repouso e se após 10s de centrifugação o centro do recipiente de acondicionamento da mistura atingir uma velocidade escalar de $20m/s$, então a aceleração angular média do disco da centrífuga nesse intervalo de tempo será de $5rad/s$²."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física", "Química"],
     conteudo: ["Cinemática Rotacional", "Separação de Misturas"],
     imageNames: []
@@ -407,12 +407,12 @@ createQuestion({
     },
     options: [
       "A massa total inicialmente contida dentro do recipiente não foi alterada após a reação química.",
-      "2000J de energia térmica correspondem a 200kg·m/s de energia cinética associada à configuração das moléculas dos gases C₂(g) e D₂(g).",
+      "2000J de energia térmica correspondem a 200kg·$m/s$ de energia cinética associada à configuração das moléculas dos gases C₂(g) e D₂(g).",
       "A fonte externa de calor fornece energia com uma potência média mínima de 2000W durante a reação química que dá origem aos compostos C₂(g) e D₂(g).",
       "A transformação química que ocorre no interior do recipiente é uma decomposição que pode ser representada pela seguinte equação química: A + B + energia → B + C₂(g) + D₂(g)",
       "Se a energia fornecida ao sistema for totalmente absorvida pelas ligações químicas que formam os compostos C₂(g) e D₂(g) e se essas ligações puderem ser representadas por molas idênticas, pode-se dizer que os 2000J de energia cedidos pela fonte externa ficaram armazenados nos compostos C₂(g) e D₂(g) na forma de energia potencial elástica."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Termoquímica", "Reações Químicas", "Leis Ponderais"],
     imageNames: []
@@ -433,7 +433,7 @@ createQuestion({
       "O ferro metálico possui menor raio atômico do que o ferro presente no minério Fe₂O₃.",
       "Na transformação do íon ferro (III) para o ferro metálico a energia envolvida refere-se ao potencial de ionização."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Metalurgia", "Propriedades dos Metais", "Configuração Eletrônica"],
     imageNames: []
@@ -454,7 +454,7 @@ createQuestion({
       "A quantidade de caixas reprovadas somente no teste 1 é igual à quantidade de caixas aprovadas somente no teste 2.",
       "Na molécula de MgSO₄ todos os átomos estão com o octeto completo, com exceção do enxofre, que está com 12 elétrons na camada de valência."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química", "Matemática"],
     conteudo: ["Estequiometria", "Soluções", "Probabilidade"],
     imageNames: []
@@ -475,7 +475,7 @@ createQuestion({
       "Se a = 0, então (k∘f)(x) = 2k(x).",
       "Existe m∈ R tal que g(x)+ m = f(x) para todo x ∈ R."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções", "Funções Compostas", "Logaritmos", "Funções Exponenciais"],
     imageNames: []
@@ -491,12 +491,12 @@ createQuestion({
     },
     options: [
       "Se a sequência (a, b, c) forma uma progressão aritmética em que a + b + c = 3, então a razão dessa sequência é um número positivo se a <1.",
-      "Se para todo n≥1, em que n∈ N, a soma dos n primeiros termos dessa sequência é S_n = n² + n, então essa sequência forma uma progressão geométrica de razão 2.",
+      "Se para todo n≥1, em que n∈ N, a soma dos n primeiros termos dessa sequência é $S_n$ = n² + n, então essa sequência forma uma progressão geométrica de razão 2.",
       "Se a = √2 e se a sequência forma uma progressão aritmética de razão 1/(1−√2), então c = √2+2.",
-      "Se a sequência (a, b, c) forma uma progressão geométrica de razão 2/3 tal que c = a·b, então a = 0 ou a = 3/2.",
+      "Se a sequência (a, b, c) forma uma progressão geométrica de razão $2/3$ tal que c = a·b, então a = 0 ou a = $3/2$.",
       "Se a < 0 e c > 0, então a sequência (a,b,c) não forma uma progressão geométrica."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Progressão Aritmética", "Progressão Geométrica"],
     imageNames: []
@@ -515,9 +515,9 @@ createQuestion({
       "Os triângulos ABC e COD não são congruentes.",
       "A área do quadrilátero MLKJ é dada por 2a² + 2b² + 5ab.",
       "A soma das áreas dos quadrados AHIB e CBFG é maior que a área do quadrado ACDE.",
-      "A área do triângulo ENA é igual a ab/2."
+      "A área do triângulo ENA é igual a $ab/2$."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Plana", "Teorema de Pitágoras", "Semelhança de Triângulos"],
     imageNames: []
@@ -538,7 +538,7 @@ createQuestion({
       "O paradoxo do texto está no fato de a sociedade contemporânea pregar respeito aos animais e, ao mesmo tempo, maltratá-los em benefício próprio.",
       "O autor reforça o efeito de contraste ao assinalar que “A professora é um amor.\" (linha 1), que ela tem “um sorriso que envolve toda a fauna\" (linha 4), ao mesmo tempo em que, ao expor a utilidade dos animais, revela que devem ser maltratados ou mortos para serem úteis aos homens."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação Textual", "Gêneros Textuais (Crônica)"],
     imageNames: []
@@ -559,7 +559,7 @@ createQuestion({
       "Tanto \"fessora\" (linha 32) quanto “tadinha” (linha 41) são exemplos de expressões formadas por redução vocabular, recurso muito frequente na linguagem informal.",
       "Em \"living” (linha 72), o uso de itálico sinaliza que se trata de um empréstimo lexical extraído de uma língua estrangeira."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Formação de Palavras", "Variação Linguística", "Estrangeirismos"],
     imageNames: []
@@ -580,7 +580,7 @@ createQuestion({
       "As expressões “coloridas” (linha 2), “úteis\" (linha 6) e \"elétrico\" (linha 26) desempenham função adjetiva, pois caracterizam seres e objetos.",
       "O sujeito de \"dizem que é gostosa\" (linhas 13 e 14) é indeterminado."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Morfologia", "Semântica"],
     imageNames: []
@@ -601,7 +601,7 @@ createQuestion({
       "As expressões “do canguru\" (linhas 29 e 30), “do rinoceronte” (linha 71) e “da girafa\" (linha 73) funcionam como locuções adjetivas.",
       "A expressão “pela correnteza” (linhas 53 e 54) funciona como agente da passiva."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Análise Sintática", "Classes de Palavras", "Formação de Palavras"],
     imageNames: []
@@ -622,7 +622,7 @@ createQuestion({
       "Em \"dele\" (linha 84), a contração da preposição “de” com o pronome \"ele\" resulta em uma forma linguística que funciona como um pronome possessivo de terceira pessoa do singular.",
       "Na linha 63, “Pois” é equivalente a um advérbio de afirmação, como “sim” ou “certamente”, e confirma a ideia de lucro que pode ser obtido com os javalis."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfossintaxe", "Advérbios", "Pronomes"],
     imageNames: []
@@ -643,7 +643,7 @@ createQuestion({
       "Por estar em posição pós-verbal, a expressão “a professora\" (linha 3) desempenha sintaticamente função de objeto direto do verbo que a antecede.",
       "Na linha 9, a presença do advérbio “ali” reforça o papel discursivo desempenhado por “Aquele” (linha 9), que é o de indicar algo que se encontra afastado tanto do locutor quanto do interlocutor."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Pronomes", "Advérbios"],
     imageNames: []
@@ -664,7 +664,7 @@ createQuestion({
       "As formas verbais “bota” (linha 83), “pega\" (linha 84) e \"pode\" (linha 84) têm o mesmo sujeito, “Você” (linha 83).",
       "São exemplos de vocativo “professora” (linhas 9, 21, 61 e 82), “Daniel\" (linha 38), “Belá” (linha 71) e “Ricardo” (linha 90)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Classes de Palavras", "Concordância Verbal"],
     imageNames: []
@@ -685,7 +685,7 @@ createQuestion({
       "Como se trata de um poema árcade, é provável que o “deus de amor\" seja referência a Eros ou Cupido, da mitologia clássica. Essa referência faz parte do Neoclacissismo, que marcou, junto com o carpe diem e o locus amoenus, a estética da Arcádia.",
       "Os poemas de Marília de Dirceu são escritos em forma de \"écloga\", muito utilizada no século XIV. Nessa forma, um homem apaixonado dirige-se à mulher que, por ser já casada ou de classe mais alta que a dele, é proibida, inacessível."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Arcadismo", "Tomás Antônio Gonzaga", "Métrica e Rima"],
     imageNames: []
@@ -706,7 +706,7 @@ createQuestion({
       "O fato de o poeta alterar o nome de Frei Lourenço, que se torna Reverendo Mariola, Frei Monturo, Frade Cisco etc., indica que se trata de uma sátira, pois os nomes escolhidos para substituir “Lourenço” são palavras insultuosas.",
       "A nobreza baiana era levada muito a sério pelo poeta, que, em vários textos, escreveu sobre as origens impecáveis, a pureza de costumes e a seriedade desses aristocratas, em oposição às críticas que ele fazia aos políticos e a certos militares da Província."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Barroco", "Gregório de Matos", "Sátira"],
     imageNames: []
@@ -727,7 +727,7 @@ createQuestion({
       "A \"agudeza” era muito valorizada no Barroco, correspondendo à capacidade de fazer humor de forma agressiva e sarcástica, como a ação de uma agulha, que \"perfurava a couraça\" do inimigo, causando-lhe dano considerável. Não precisava ser original nem criativa, de modo que era frequente o escritor barroco utilizar agudezas inventadas por autores clássicos.",
       "A religiosidade era tema fundamental na literatura barroca, mas de forma ambigua: seus autores concebiam Deus como parte de uma oposição dolorosa entre o mundo profano, com suas tentações, e o sagrado, ao qual o homem, dividido, deveria aspirar, embora com dificuldade em alcançar."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Barroco", "Cultismo e Conceptismo", "Figuras de Linguagem"],
     imageNames: []
@@ -748,7 +748,7 @@ createQuestion({
       "Son posesivos de primera persona de singular “mi” (líneas 47, 51, 60, 62, 66 y 70) y de primera persona de plural \"nuestra\" (línea 55).",
       "¡Demasiado dura!\" (línea 27) y “mucha hambre” (línea 45) son expresiones compuestas de un adjetivo cuantitativo seguido de sustantivo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Gramática", "Acentuação", "Classes de Palavras"],
     imageNames: []
@@ -769,7 +769,7 @@ createQuestion({
       "Las formas “regresaron” (línea 43) y “volvieron” (línea 76) están conjugadas en tercera persona de plural en pretérito indefinido.",
       "Está en presente de indicativo, tercera persona de singular, el verbo pronominal “se enfría” (línea 11)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Verbos", "Tempos Verbais"],
     imageNames: []
@@ -790,7 +790,7 @@ createQuestion({
       "El adjetivo “enfadado” (línea 54) significa aburrido, molesto, y el verbo “bostezó” (línea 41) se refiere a abrir convulsivamente la boca en razón del sueño.",
       "Son verbos relativos al habla, en orden creciente en términos de énfasis “dijo” (líneas 28, 29, 67 y 69), “exclamó” (línea 65) y “gritó” (línea 20)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Vocabulário", "Semântica"],
     imageNames: []
@@ -811,7 +811,7 @@ createQuestion({
       "El título del cuento \"Ricitos de Oro\", que en portugués se traduce por Cachinhos de Ouro, se refiere a una característica física del personaje principal, que es una niña de pelo en rollos.",
       "¡Y colorín, colorado, este cuento se ha acabado!\" (línea 79) es la manera como se suele terminar los programas televisivos infantiles."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Interpretação Textual", "Gêneros Textuais (Conto Infantil)"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "La palabra “¡Cataplum!” (línea 31) representa el sonido que imita el ruido de un cuerpo que tumba al suelo.",
       "El personaje principal es una niña muy traviesa, es decir, que es experta."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Interpretação Textual", "Semântica"],
     imageNames: []
@@ -864,7 +864,7 @@ createQuestion({
     university: "uem",
     year: 2019,
     text: {
-      principal: "\"Bioética é um neologismo derivado das palavras gregas bios (vida) e ethike (ética). Pode-se defini-la como sendo o estudo sistemático das dimensões morais – incluindo visão, decisão, conduta e normas morais – das ciências da vida e da saúde, utilizando uma variedade de metodologias éticas num contexto interdisciplinar.” (REICH, W. T. (org.) Encyclopedia of bioethics. 2 ed., v. 1. Nova York: Macmillan Press, 1995, p. XXI. Apud PESSINI L.; BARCHIFONTAINE, C. de P. Problemas atuais de bioética. São Paulo: Loyola, s/d, p. 31).\nSobre a bioética, assinale o que for correto.",
+      principal: "\"Bioética é um neologismo derivado das palavras gregas bios (vida) e ethike (ética). Pode-se defini-la como sendo o estudo sistemático das dimensões morais – incluindo visão, decisão, conduta e normas morais – das ciências da vida e da saúde, utilizando uma variedade de metodologias éticas num contexto interdisciplinar.” (REICH, W. T. (org.) Encyclopedia of bioethics. 2 ed., v. 1. Nova York: Macmillan Press, 1995, p. XXI. Apud PESSINI L.; BARCHIFONTAINE, C. de P. Problemas atuais de bioética. São Paulo: Loyola, $s/d$, p. 31).\nSobre a bioética, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -1058,7 +1058,7 @@ createQuestion({
     },
     options: [
       "A condução térmica do mamífero para a água é diretamente proporcional à sua área corporal, à diferença de temperatura entre ele e a água, e inversamente proporcional à espessura da camada de gordura e de pelos.",
-      "O fluxo de calor através da superfície corporal do mamífero é a quantidade de calor transmitido por unidade de tempo, podendo ser medido em cal/s ou J/s.",
+      "O fluxo de calor através da superfície corporal do mamífero é a quantidade de calor transmitido por unidade de tempo, podendo ser medido em $cal/s$ ou $J/s$.",
       "Durante o nado, o calor gerado no sistema muscular do mamífero é transmitido para a água exclusivamente por radiação.",
       "O animal que nada é homeotérmico, possui respiração pulmonar, músculo diafragma, circulação fechada dupla e completa, coração com quatro câmaras.",
       "Se o mamífero citado for exclusivamente aquático, ele excretará principalmente ácido úrico."
@@ -1204,9 +1204,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "A frequência angular desse movimento é 4π rad/s.",
+      "A frequência angular desse movimento é 4π $rad/s$.",
       "A função que descreve a posição da massa em relação ao tempo pode ser escrita na forma x(t) = 0,3cos(4πt).",
-      "A função que descreve a velocidade da massa em relação ao tempo pode ser escrita na forma v(t) = −1,2π sen(4πt).",
+      "A função que descreve a velocidade da massa em relação ao tempo pode ser escrita na forma v(t) = −1,2π $\\sin$(4πt).",
       "Em t = 0,125s a elongação da mola é máxima.",
       "Em t = 0,625s o módulo da velocidade da massa é máximo."
     ],
@@ -1284,13 +1284,13 @@ createQuestion({
     university: "uem",
     year: 2019,
     text: {
-      principal: "Os peixes absorvem o gás oxigênio (O2) dissolvido na água. Na natureza a quantidade adequada de O2 na água é fornecida pelo próprio ambiente. Entretanto, sabe-se que o aumento de descarte de rejeitos domésticos e industriais (não tratados corretamente e lançados em rios e lagos) causa uma drástica redução do O2 dissolvido nesses corpos d'água, o que pode ocasionar a mortandade de peixes. Com base nas informações do quadro a seguir, assinale o que for correto.\n\nTemperatura (°C) | 7 | 10 | 15 | 20 | 25\nSolubilidade (mg/L) | 11,5 | 11,0 | 9,8 | 8,8 | 8,0\nà pressão de 1atm",
+      principal: "Os peixes absorvem o gás oxigênio (O2) dissolvido na água. Na natureza a quantidade adequada de O2 na água é fornecida pelo próprio ambiente. Entretanto, sabe-se que o aumento de descarte de rejeitos domésticos e industriais (não tratados corretamente e lançados em rios e lagos) causa uma drástica redução do O2 dissolvido nesses corpos d'água, o que pode ocasionar a mortandade de peixes. Com base nas informações do quadro a seguir, assinale o que for correto.\n\nTemperatura (°C) | 7 | 10 | 15 | 20 | 25\nSolubilidade ($mg/L$) | 11,5 | 11,0 | 9,8 | 8,8 | 8,0\nà pressão de 1atm",
       subItens: []
     },
     options: [
       "Em regiões mais quentes haverá maior probabilidade de mortandade de peixes em casos de poluição aquática severa.",
       "A quantidade de O2 dissolvido na água a 25°C é pelo menos 27,3% menor do que a 10°C.",
-      "A solubilidade do O2 a 20°C é de_2,75×10⁻⁴ mol/L.",
+      "A solubilidade do O2 a 20°C é $de_2$,75×10⁻⁴ $mol/L$.",
       "A solubilidade do O2 em água é diretamente proporcional à temperatura.",
       "Em lagos com condições semelhantes de temperatura, mas posicionados geograficamente em diferentes altitudes (variação de pressão atmosférica), aquele que estiver no nível do mar terá maior concentração de O2 dissolvido."
     ],
@@ -1347,15 +1347,15 @@ createQuestion({
     university: "uem",
     year: 2019,
     text: {
-      principal: "Considere o seguinte jogo: um computador inicialmente escolhe um número real p∈ [-1,1] e a função sen(x). Uma pessoa que não tem conhecimento do valor de p nem da função deve escolher um número n do conjunto {0, π/4, 2π/4, 3π/4, 4π/4, 5π/4, 6π/4, 7π/4, 8π/4}. Se sen(n) ≤ p, a pessoa é declarada vencedora; caso contrário é declarada perdedora. Assinale o que for correto.",
+      principal: "Considere o seguinte jogo: um computador inicialmente escolhe um número real p∈ [-1,1] e a função $\\sin$(x). Uma pessoa que não tem conhecimento do valor de p nem da função deve escolher um número n do conjunto {0, π/4, 2π/4, 3π/4, 4π/4, 5π/4, 6π/4, 7π/4, 8π/4}. Se $\\sin$(n) ≤ p, a pessoa é declarada vencedora; caso contrário é declarada perdedora. Assinale o que for correto.",
       subItens: []
     },
     options: [
-      "Se p = -√2/2, a probabilidade de essa pessoa ser vencedora é 1/3.",
+      "Se p = -√$2/2$, a probabilidade de essa pessoa ser vencedora é $1/3$.",
       "Se a pessoa escolher n = π/2, sempre sairá vencedora, independentemente do valor de p.",
-      "Se a pessoa escolher um valor aleatoriamente no conjunto, a probabilidade de ser vencedora é 2/9, independentemente do valor de p.",
+      "Se a pessoa escolher um valor aleatoriamente no conjunto, a probabilidade de ser vencedora é $2/9$, independentemente do valor de p.",
       "O valor de p para o qual há exatamente cinco valores vencedores no conjunto é p = 0.",
-      "Suponha que a pessoa foi informada de que a função pode ser sen(x) ou cos(x). Então ela sempre poderá ser vencedora na primeira jogada, independentemente do valor de p."
+      "Suponha que a pessoa foi informada de que a função pode ser $\\sin$(x) ou $\\cos$(x). Então ela sempre poderá ser vencedora na primeira jogada, independentemente do valor de p."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1410,7 +1410,7 @@ createQuestion({
     university: "uem",
     year: 2019,
     text: {
-      principal: "Signalez quel(s) choix ci-dessous est/sont à l'origine de la profession de zémidjan.",
+      principal: "Signalez quel(s) choix ci-dessous $est/sont$ à l'origine de la profession de zémidjan.",
       subItens: []
     },
     options: [
@@ -1602,7 +1602,7 @@ createQuestion({
     options: [
       "Memórias póstumas de Brás Cubas é um romance inovador em diversos sentidos, como se nota na composição de alguns de seus capítulos, que podem se apresentar como um curtíssimo comentário mordaz ou mesmo como uma sequência de sinais gráficos em substituição às palavras.",
       "A arrogância e o senso de superioridade do narrador podem ser percebidos no romance por meio de um artificio narrativo: a total ausência de diálogo do narrador com o leitor, o que atestaria a autossuficiência do emissor do discurso (no caso, o próprio Brás Cubas).",
-      "Apesar do fino humor que se verifica em diversos momentos do romance, Memórias póstumas de Brás Cubas configura-se como um exercício crítico sobre a sociedade e o ser humano, cujas características (muitas vezes negativas) podem ser percebidas na concepção/caracterização cuidadosa das personagens.",
+      "Apesar do fino humor que se verifica em diversos momentos do romance, Memórias póstumas de Brás Cubas configura-se como um exercício crítico sobre a sociedade e o ser humano, cujas características (muitas vezes negativas) podem ser percebidas na concepçã$o/caracteriza$ção cuidadosa das personagens.",
       "Uma das personagens mais intrigantes de Memórias póstumas de Brás Cubas é Bentinho, o alegre e confiante filósofo que, em contato com Rubião, expõe sua teoria do \"Humanitismo”, filosofia segundo a qual os seres humanos vivem em constante colaboração e ajuda mútua.",
       "Embora várias personagens de Memórias póstumas de Brás Cubas sejam exemplos de boa construção literária, justamente o narrador se mostra uma decepção nesse sentido: unidimensional e pouco complexo, atua apenas como polo emissor de críticas, carecendo de profundidade psicológica."
     ],
@@ -1690,7 +1690,7 @@ createQuestion({
       "08) Na pré-história o homem produziu esculturas em materiais como a pedra, o barro, o marfim. Entre elas foram encontradas esculturas femininas que podem ter sido utilizadas em rituais.",
       "16) Na Grécia antiga, a pintura em cerâmica se destacava pela beleza da forma e pelo equilíbrio entre seus desenhos, cores e espaço de ornamentação. Um de seus principais pintores foi Exéquias."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História da Arte", "Linguagens Artísticas"],
     imageNames: []
@@ -1711,7 +1711,7 @@ createQuestion({
       "08) A arte erudita não faz parte da cultura de massas, que reproduz e comercializa a arte popular e as tradições coletivas.",
       "16) O desenvolvimento das técnicas de reprodução e de disseminação, como o cinema e o rádio, permitiu o acesso de todos aos mesmos bens culturais, eliminando a diferença entre a arte erudita e a arte popular."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Conceitos de Arte"],
     imageNames: []
@@ -1732,7 +1732,7 @@ createQuestion({
       "08) A Guerra do Golfo ocorreu logo após a Segunda Guerra Mundial, quando o Irã invadiu o Kuwait com ajuda do governo soviético e o Líbano entrou na guerra, apoiado pelos Estados Unidos.",
       "16) A instalação de mísseis em Cuba foi a resposta dada pela União Soviética à instalação de mísseis na Turquia e à invasão da Baía dos Porcos, em Cuba, pelos Estados Unidos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Guerra Fria"],
     imageNames: []
@@ -1753,7 +1753,7 @@ createQuestion({
       "08) Os japoneses formam um dos principais grupos étnicos que imigraram para o Brasil, estabelecendo-se em estados como São Paulo, Paraná e Pará, onde introduziram elementos de sua cultura, culinária e religião.",
       "16) O governo federal implementou políticas públicas na educação, as quais promoveram o reconhecimento identitário das populações negras e indígenas por meio do ensino da história e da cultura desses povos nas escolas brasileiras."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Diversidade Cultural e Étnica", "Políticas Sociais"],
     imageNames: []
@@ -1774,7 +1774,7 @@ createQuestion({
       "08) Os Povos Tradicionais identificados no Paraná são comunidades formadas por faxinalenses, ilhéus, indígenas; elas ocupam as áreas há mais de 200 anos. No Estado não foram registradas comunidades quilombolas em função da não utilização da mão de obra escrava.",
       "16) As comunidades preservam várias tradições e vários aspectos da cultura de origem africana e transmitem, de geração em geração, seus conhecimentos, como o uso de corantes, de cosméticos, de plantas para fins medicinais etc."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["História", "Geografia"],
     conteudo: ["Quilombolas e Questões Fundiárias", "Populações Tradicionais"],
     imageNames: []
@@ -1785,7 +1785,7 @@ createQuestion({
     university: "uem",
     year: 2019,
     text: {
-      principal: "A intensificação do fluxo de mercadorias pelo espaço mundial decorre da expansão dos mercados e da modernização do sistema de transportes. Grande parte da evolução do comércio ocorreu graças aos avanços tecnológicos na área de logística, os quais permitiram melhorar a infraestrutura de transportes e de armazenagem, aumentar a carga dos meios de transportes e reduzir o tempo de deslocamento. Os produtos são transportados e comercializados por rotas marítimas, fluviais, aéreas e terrestres. Sobre essas rotas, assinale o que for correto.",
+      principal: "A intensificação do fluxo de mercadorias pelo espaço mundial decorre da expansão dos mercados e da modernização do sistema de transportes. Grande parte da evolução do comércio ocorreu graças aos avanços tecnológicos na área de $\\log$ística, os quais permitiram melhorar a infraestrutura de transportes e de armazenagem, aumentar a carga dos meios de transportes e reduzir o tempo de deslocamento. Os produtos são transportados e comercializados por rotas marítimas, fluviais, aéreas e terrestres. Sobre essas rotas, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -1795,7 +1795,7 @@ createQuestion({
       "08) O Canal de Suez liga o Oceano Atlântico e o Mar Vermelho, reduzindo as distâncias e o custo dos transportes entre a Europa e a Ásia. Construído pelos egípcios no final do século XIX, esse canal possui uma série de eclusas ou comportas, em função do grande desnível ao longo do seu trajeto.",
       "16) O Estreito de Ormuz, situado na entrada do Golfo Pérsico, é um dos pontos mais estratégicos da região por ser a única passagem de cargueiros provenientes de grandes áreas de exportação por mar aberto. Por essa região transitam mais de 40% do petróleo mundial e mais de 20% do comércio marítimo mundial."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geopolítica e Rotas de Comércio", "Meios de Transporte"],
     imageNames: []
@@ -1816,7 +1816,7 @@ createQuestion({
       "08) As noções de direitos culturais e de acesso à cultura ganham força nos debates políticos nos primeiros anos do século XXI e se fundamentam nas concepções de direitos humanos surgidas após o fim da Segunda Guerra Mundial.",
       "16) O Estado é um agente político central na promoção de políticas públicas de cultura em um mundo globalizado."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Cultura e Identidade", "Globalização e Direitos Culturais"],
     imageNames: []
@@ -1837,7 +1837,7 @@ createQuestion({
       "08) A lei de Mendel, de segregação dos fatores que condicionam uma característica, estabelece que os fatores se separam na formação dos gametas; essa lei pode ser aplicada inclusive à espécie humana.",
       "16) As atividades humanas que causam a extinção de espécies afetam principalmente aquelas que apresentam altas taxas de crescimento populacional, pois são as mais vulneráveis."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ecologia", "Genética", "Evolução"],
     imageNames: []
@@ -1858,7 +1858,7 @@ createQuestion({
       "08) A radiação X é obtida por meio de reações de decaimento radioativo de núcleos metálicos massivos.",
       "16) Se essa radiação alterar geneticamente um alelo dominante das células somáticas do enfermeiro, ainda assim, o descendente dele não desenvolverá uma doença genética."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física", "Biologia"],
     conteudo: ["Ondas Eletromagnéticas", "Genética"],
     imageNames: []
@@ -1879,7 +1879,7 @@ createQuestion({
       "08) Crocodilos e jacarés são exemplos de espécies cujo sexo dos descendentes é determinado pela temperatura em que os ovos são incubados.",
       "16) Se a e b são, respectivamente, os coeficientes angulares das retas que contêm os segmentos do gráfico definidos por 27 ≤ t ≤ 31 e 33 ≤ t ≤ 35, então b < a."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Matemática"],
     conteudo: ["Reprodução e Desenvolvimento", "Funções e Gráficos"],
     imageNames: []
@@ -1900,7 +1900,7 @@ createQuestion({
       "08) A perda de um grupamento amina de uma citosina de um ácido desoxirribonucleico pode gerar uma mutação.",
       "16) A seleção natural atua sobre a variabilidade genética gerada pelas mutações."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Bioquímica", "Genética", "Evolução"],
     imageNames: []
@@ -1921,7 +1921,7 @@ createQuestion({
       "08) O vetor indução magnética originado no centro da espira 1 (devido à corrente elétrica i₂)é perpendicular ao plano dessa espira e emerge no plano da página.",
       "16) Se i₁ = 3A e i₂ = 2A, o módulo do vetor indução magnética resultante, originado no centro das espiras por essas correntes elétricas, é 4,0π×10⁻⁶ T."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Eletromagnetismo"],
     imageNames: []
@@ -1942,7 +1942,7 @@ createQuestion({
       "08) O processo descreve a fusão nuclear, comumente utilizada na geração de energia em usinas nucleares.",
       "16) O estrôncio 90 é um subproduto da transmutação do átomo de urânio 236; sua meia vida é de aproximadamente 28 anos. Isso significa que uma amostra que hoje possui 100g de estrôncio 90 possuirá apenas 25g desse isótopo após 56 anos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática", "Física"],
     conteudo: ["Geometria Analítica", "Física Nuclear"],
     imageNames: []
@@ -1957,13 +1957,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "01) O gráfico da resistência elétrica em função do comprimento do fio condutor é uma reta cujo coeficiente angular é 1/50.",
+      "01) O gráfico da resistência elétrica em função do comprimento do fio condutor é uma reta cujo coeficiente angular é $1/50$.",
       "02) A resistividade elétrica desse fio condutor é 8×10⁻⁸ Ω·m.",
       "04) A taxa de variação da resistência elétrica do fio condutor em função de seu comprimento é de 2×10⁻² Ω/m.",
       "08) Se 1m desse fio condutor for submetido a uma diferença de potencial de 10V, uma corrente elétrica de 5A fluirá através desse fio e sua condutividade elétrica será de 3×10⁻² (Ω·m)⁻¹.",
       "16) Quando uma corrente elétrica de 2A flui através desse fio condutor, o gráfico que representa a potência elétrica dissipada por efeito Joule em seu interior (em função do comprimento do fio) é uma reta cuja equação reduzida pode ser escrita na forma P = 0,08x."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Eletrodinâmica"],
     imageNames: []
@@ -1984,7 +1984,7 @@ createQuestion({
       "08) O número de oxidação do Fe no composto Fe₃O₄ é +3.",
       "16) No Fe₂O₃ o ferro se encontra na sua forma mais reduzida possível."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física", "Química"],
     conteudo: ["Eletromagnetismo", "Funções Inorgânicas", "Número de Oxidação"],
     imageNames: []
@@ -2005,7 +2005,7 @@ createQuestion({
       "08) O flutriafol pode existir na forma de uma mistura racêmica.",
       "16) Na estrutura do linuron há 7 átomos de carbono com geometria trigonal plana."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Química Orgânica"],
     imageNames: []
@@ -2026,7 +2026,7 @@ createQuestion({
       "08) A caixa d'água em questão é um poliedro de Platão.",
       "16) De cada vértice da caixa d'água partem quatro arestas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química", "Matemática"],
     conteudo: ["Eletroquímica", "Geometria Espacial"],
     imageNames: []
@@ -2047,7 +2047,7 @@ createQuestion({
       "08) De acordo com o modelo obtido podemos afirmar que em três dias distintos a quantidade de gases medida foi nula.",
       "16) O metano pertence à série homóloga dos cicloalcanos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática", "Química"],
     conteudo: ["Funções Polinomiais", "Química Orgânica"],
     imageNames: []
@@ -2068,7 +2068,7 @@ createQuestion({
       "08) Se esse paralelepípedo for um cubo de aresta medindo a, então o perímetro do triângulo BEH é (a + 2a√2).",
       "16) Se o volume desse paralelepípedo é 128µ³ e se a área da base de vértices (A, B, C, D) é o dobro da área da face quadrada de vértices (A, B, E, F), então a aresta AD mede 8µ."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Espacial"],
     imageNames: []
@@ -2089,7 +2089,7 @@ createQuestion({
       "08) Segundo o autor, o modelo ideal de ciência seria o que \"defende a busca descompromissada do conhecimento” (linha 41) em uma “concepção liberal e fundamentada na autonomia da universidade pública.” (linhas 42 e 43).",
       "16) Em “Há dois problemas nesta afirmação.” (linhas 21 e 22), a afirmação a que o autor se refere é que as “universidades mantêm hospitais universitários e museus” (linhas 15 e 16) e desenvolvem \"pesquisas que dependem de insumos e equipamentos sofisticados.\" (linhas 18 e 19)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação Textual", "Coesão e Coerência"],
     imageNames: []
@@ -2110,7 +2110,7 @@ createQuestion({
       "08) As conjunções correlativas “tanto...quanto\" (linha 8) funcionam sintaticamente como aditivas.",
       "16) As expressões \"de humanidades\" (linha 3), “dos professores” (linha 17) e “de ensino básico\" (linha 21) funcionam como locuções adjetivas."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Morfologia"],
     imageNames: []
@@ -2131,7 +2131,7 @@ createQuestion({
       "08) Os dois pontos (linha 53) introduzem uma explicação.",
       "16) As expressões “infinitamente\" (linha 27) e “relativamente\" (linha 66) são empregadas para intensificar, respectivamente, \"maior” (linha 27) e “jovem” (linha 67)."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfossintaxe"],
     imageNames: []
@@ -2152,7 +2152,7 @@ createQuestion({
       "08) O vocábulo \"que\" (linha 86) atua como um pronome interrogativo que demanda uma resposta ao questionamento de que a universidade não é “insensível a questões advindas de seu entorno.\" (linha 87).",
       "16) Nas expressões “ciência de hoje\" (linha 96) e “tecnologia de amanhã” (linhas 96 e 97), o uso das locuções \"de hoje\" e “de amanhã” cria uma relação de sequência cronológica entre \"ciência” e “tecnologia\"."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfossintaxe", "Semântica"],
     imageNames: []
@@ -2173,7 +2173,7 @@ createQuestion({
       "08) Em \"Há dois problemas nesta afirmação.” (linhas 21 e 22), o verbo \"haver” no singular se justifica porque ele expressa a noção semântica de existência.",
       "16) Em \"puder” (linha 93), a forma verbal no modo subjuntivo reforça a ideia de que não há garantia sobre o sucesso da universidade em cumprir sua missão."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Semântica", "Morfossintaxe"],
     imageNames: []
@@ -2194,7 +2194,7 @@ createQuestion({
       "08) No livro, de modo geral, a narradora refere-se muito a comida, descrevendo as refeições que improvisava para a família a fim de demonstrar que, embora na favela dos anos 1950-60 não houvesse infraestrutura (esgoto, água encanada, luz elétrica), não faltava alimento de boa qualidade; a fome não era uma ameaça imediata à subsistência do favelado.",
       "16) Apesar da tristeza que o livro descreve, praticamente não havia violência física ou verbal na favela. De modo geral, os moradores viviam tranquilamente, não se agrediam nem se destratavam, e eram particularmente pacientes com crianças e adolescentes."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira"],
     imageNames: []
@@ -2215,7 +2215,7 @@ createQuestion({
       "08) Além de apresentar uma importante obra literária tanto em verso quanto em prosa, Mário de Andrade também foi responsável por relevante trabalho de recuperação e valorização de manifestações culturais do Brasil, como no caso da música e das tradições folclóricas.",
       "16) O Modernismo brasileiro da década de 1930 caracterizou-se por uma particularidade: a insignificante presença de romances entre suas manifestações. Esse gênero narrativo cedeu espaço para a produção poética de autores como Graciliano Ramos e José Lins do Rego, poetas de temática universalista antirregional."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira"],
     imageNames: []
@@ -2236,7 +2236,7 @@ createQuestion({
       "08) El sol es uno de los personajes principales y no había sido invitado a la fiesta.",
       "16) El Reino del Arcoiris se refiere a un espacio ficcional en que los personajes principales representan las estaciones del año."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Compreensão Textual"],
     imageNames: []
@@ -2257,7 +2257,7 @@ createQuestion({
       "08) La primera expresión en singular “muy bella” (línea 18) y la segunda en plural \"muchas cosas\" (línea 33) están formadas de un adjetivo de intensidad, seguido de un sustantivo femenino.",
       "16) \"Lo mejor\" (línea 51) y \"los habitantes\" (línea 36) son expresiones que presentan artículo definido seguido de sustantivo en masculino singular y plural, respectivamente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Gramática"],
     imageNames: []
@@ -2278,7 +2278,7 @@ createQuestion({
       "08) \"aparece\" (línea 31) está en presente de indicativo y “aparezcan\" (línea 37) está en presente de subjuntivo.",
       "16) “disfrutaron” (línea 60) está en pretérito imperfecto del verbo \"disfrutar\" (línea 53), que significa quitar frutos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Gramática"],
     imageNames: []
@@ -2299,7 +2299,7 @@ createQuestion({
       "08) \"animada\" (línea 45) se relaciona al sustantivo “ánimo\" (línea 49), que significa aliento, alma.",
       "16) \"se enfadó\" (líneas 54 y 55) está conjugado en pretérito indefinido del verbo enfadarse, que significa enojar, molestar, contrariar."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Espanhol"],
     conteudo: ["Vocabulário", "Semântica", "Gramática"],
     imageNames: []

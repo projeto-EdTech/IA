@@ -123,7 +123,7 @@ createQuestion({
     university: "uemg",
     year: 2016,
     text: {
-      principal: "PROVA DE LITERATURA BRASILEIRA Este texto é um excerto do conto Pai contra mãe, de Machado de Assis. “A ESCRAVIDÃO levou consigo ofícios e aparelhos, como terá sucedido a outras instituições sociais. Não cito alguns aparelhos senão por se ligarem a certo ofício. Um deles era o ferro ao pescoço, outro o ferro ao pé; havia também a máscara de folha-de-flandres. A máscara fazia perder o vício da embriaguez aos escravos, por lhes tapar a boca. Tinha só três buracos, dous para ver, um para respirar, e era fechada atrás da cabeça por um cadeado. Com o vício de beber, perdiam a tentação de furtar, porque geralmente era dos vinténs do senhor que eles tiravam com que matar a sede, e aí ficavam dous pecados extintos, e a sobriedade e a honestidade certas. Era grotesca tal máscara, mas a ordem social e humana nem sempre se alcança sem o grotesco, e alguma vez o cruel. \" Considerando que a ordem social e humana a que se refere o conto machadiano é supostamente alcançada, ainda hoje, por meio de estratégias que de alguma forma se assemelham àquelas utilizadas no período escravocrata, responda: qual dos elementos dos contos da obra Olhos d'água, de Conceição Evaristo, tematiza a referida ordem?",
+      principal: "PROVA DE LITERATURA BRASILEIRA Este texto é um excerto do conto Pai contra mãe, de Machado de Assis. “A ESCRAVIDÃO levou consigo ofícios e aparelhos, como terá sucedido a outras instituições sociais. Não cito alguns aparelhos $\\sin$ão por se ligarem a certo ofício. Um deles era o ferro ao pescoço, outro o ferro ao pé; havia também a máscara de folha-de-flandres. A máscara fazia perder o vício da embriaguez aos escravos, por lhes tapar a boca. Tinha só três buracos, dous para ver, um para respirar, e era fechada atrás da cabeça por um cadeado. Com o vício de beber, perdiam a tentação de furtar, porque geralmente era dos vinténs do senhor que eles tiravam com que matar a sede, e aí ficavam dous pecados extintos, e a sobriedade e a honestidade certas. Era grotesca tal máscara, mas a ordem social e humana nem sempre se alcança sem o grotesco, e alguma vez o cruel. \" Considerando que a ordem social e humana a que se refere o conto machadiano é supostamente alcançada, ainda hoje, por meio de estratégias que de alguma forma se assemelham àquelas utilizadas no período escravocrata, responda: qual dos elementos dos contos da obra Olhos d'água, de Conceição Evaristo, tematiza a referida ordem?",
       subItens: []
     },
     options: [
@@ -363,7 +363,7 @@ createQuestion({
     university: "uemg",
     year: 2016,
     text: {
-      principal: "PROVA DE HISTÓRIA Durante a Idade Média, no ano de 570, nascia Maomé, conhecido por ser o profeta de Alá. Desde a sua morte até o século XXI a crença em Alá tem sido difundida pela fé Islâmica que é, até hoje, predominante no norte da África e na Península Arábica. Em 711, a expansão islâmica conquistara espaço na Europa Ocidental. Quase toda a Península Ibérica fica sob o poder do Califado. O que detém o avanço Islâmico é (mapa com Império Muçulmano, Reinos Cristãos, principais cidades e rotas comerciais)",
+      principal: "PROVA DE HISTÓRIA Durante a Idade Média, no ano de 570, nascia Maomé, conhecido por ser o profeta de Alá. Desde a sua morte até o século XXI a crença em Alá tem sido difundida pela fé Islâmica que é, até hoje, predominante no norte da África e na Península Arábica. Em 711, a expansão islâmica conquistara espaço na Europa Ocidental. Quase toda a Península Ibérica fica sob o poder do Califado. O que detém o avanço Islâmico é (mapa com Império $\\mu$çulmano, Reinos Cristãos, principais cidades e rotas comerciais)",
       subItens: []
     },
     options: [
@@ -710,7 +710,7 @@ createQuestion({
       "sua fórmula molecular é N₆H₆.",
       "possui carbonos trigonais.",
       "apresenta a função amida.",
-      "possui apenas ligações sigma."
+      "possui apenas ligações $\\sigma$."
     ],
     correctAnswer: 1,
     materia: ["Química"],
@@ -763,7 +763,7 @@ createQuestion({
     university: "uemg",
     year: 2016,
     text: {
-      principal: "Ana Júlia está super preocupada porque ouviu dizer que, sendo ela Rh - (negativo) e seu namorado Emílio Rh + (positivo), não poderiam se casar e nem ter filhos, porque, senão, todos eles nasceriam com a doença hemolítica eritroblastose fetal, que os mataria logo após o nascimento. Do ponto de vista biológico, o melhor aconselhamento que poderia ser dado a Ana Júlia seria:",
+      principal: "Ana Júlia está super preocupada porque ouviu dizer que, sendo ela Rh - (negativo) e seu namorado Emílio Rh + (positivo), não poderiam se casar e nem ter filhos, porque, $\\sin$ão, todos eles nasceriam com a doença hemolítica eritroblastose fetal, que os mataria logo após o nascimento. Do ponto de vista biológico, o melhor aconselhamento que poderia ser dado a Ana Júlia seria:",
       subItens: []
     },
     options: [

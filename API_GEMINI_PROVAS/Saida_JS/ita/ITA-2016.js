@@ -3,7 +3,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Considere um corpo esférico de raio r totalmente envolvido por um fluido de viscosidade η com velocidade média v. De acordo com a lei de Stokes, para baixas velocidades, esse corpo sofrerá a ação de uma força de arrasto viscoso dada por F = −6πηrv. A dimensão de η é dada por",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Considere um corpo esférico de raio r totalmente envolvido por um fluido de viscosidade η com velocidade média v. De acordo com a lei de Stokes, para baixas velocidades, esse corpo sofrerá a ação de uma força de arrasto viscoso dada por F = −6πηrv. A dimensão de η é dada por",
       subItens: []
     },
     options: [
@@ -24,7 +24,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Três barras de peso desprezível, articuladas nos pinos P, Q e R, constituem uma estrutura vertical em forma de triângulo isósceles, com 6,0 m de base e 4,0 m de altura, que sustenta uma massa M suspensa em Q em equilíbrio estático. O pino P também é articulado no seu apoio fixo, e o pino R apoia-se verticalmente sobre o rolete livre. Sendo de 1,5 × 10⁴ N e 5,0 × 10³ N os respectivos valores máximos das forças de tração e compressão suportáveis por qualquer das barras, o máximo valor possível para M é de\n[Imagem: Representação de uma treliça triangular com pontos P, Q e R. Uma massa M está suspensa em Q. P é um apoio fixo, R é um apoio de rolete. Geometria de triângulo isósceles com base de 6,0 m e altura de 4,0 m.]",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Três barras de peso desprezível, articuladas nos pinos P, Q e R, constituem uma estrutura vertical em forma de triângulo isósceles, com 6,0 m de base e 4,0 m de altura, que sustenta uma massa M suspensa em Q em equilíbrio estático. O pino P também é articulado no seu apoio fixo, e o pino R apoia-se verticalmente sobre o rolete livre. Sendo de 1,5 × 10⁴ N e 5,0 × 10³ N os respectivos valores máximos das forças de tração e compressão suportáveis por qualquer das barras, o máximo valor possível para M é de\n[Imagem: Representação de uma treliça triangular com pontos P, Q e R. Uma massa M está suspensa em Q. P é um apoio fixo, R é um apoio de rolete. Geometria de triângulo isósceles com base de 6,0 m e altura de 4,0 m.]",
       subItens: []
     },
     options: [
@@ -45,7 +45,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. No sistema de sinalização de trânsito urbano chamado de \"onda verde”, há semáforos com dispositivos eletrônicos que indicam a velocidade a ser mantida pelo motorista para alcançar o próximo sinal ainda aberto. Considere que de início o painel indique uma velocidade de 45 km/h. Alguns segundos depois ela passa para 50 km/h e, finalmente, para 60 km/h. Sabendo que a indicação de 50 km/h no painel demora 8,0 s antes de mudar para 60 km/h, então a distância entre os semáforos é de",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. No sistema de sinalização de trânsito urbano chamado de \"onda verde”, há semáforos com dispositivos eletrônicos que indicam a velocidade a ser mantida pelo motorista para alcançar o próximo sinal ainda aberto. Considere que de início o painel indique uma velocidade de 45 $km/h$. Alguns segundos depois ela passa para 50 $km/h$ e, finalmente, para 60 $km/h$. Sabendo que a indicação de 50 $km/h$ no painel demora 8,0 s antes de mudar para 60 $km/h$, então a distância entre os semáforos é de",
       subItens: []
     },
     options: [
@@ -66,7 +66,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. A partir do repouso, um foguete de brinquedo é lançado verticalmente do chão, mantendo uma aceleração constante de 5,00 m/s² durante os 10,0 primeiros segundos. Desprezando a resistência do ar, a altura máxima atingida pelo foguete e o tempo total de sua permanência no ar são, respectivamente, de",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. A partir do repouso, um foguete de brinquedo é lançado verticalmente do chão, mantendo uma aceleração constante de 5,00 $m/s$² durante os 10,0 primeiros segundos. Desprezando a resistência do ar, a altura máxima atingida pelo foguete e o tempo total de sua permanência no ar são, respectivamente, de",
       subItens: []
     },
     options: [
@@ -87,15 +87,15 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Um caminhão baú de 2,00 m de largura e centro de gravidade a 3,00 m do chão percorre um trecho de estrada em curva com 76,8 m de raio. Para manter a estabilidade do veículo neste trecho, sem derrapar, sua velocidade não deve exceder a",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Um caminhão baú de 2,00 m de largura e centro de gravidade a 3,00 m do chão percorre um trecho de estrada em curva com 76,8 m de raio. Para manter a estabilidade do veículo neste trecho, sem derrapar, sua velocidade não deve exceder a",
       subItens: []
     },
     options: [
-      "5,06 m/s.",
-      "11,3 m/s.",
-      "16,0 m/s.",
-      "19,6 m/s.",
-      "22,3 m/s."
+      "5,06 $m/s$.",
+      "11,3 $m/s$.",
+      "16,0 $m/s$.",
+      "19,6 $m/s$.",
+      "22,3 $m/s$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Considere duas estrelas de um sistema binário em que cada qual descreve uma órbita circular em torno do centro de massa comum. Sobre tal sistema são feitas as seguintes afirmações:\nI. O período de revolução é o mesmo para as duas estrelas.\nII. Esse período é função apenas da constante gravitacional, da massa total do sistema e da distância entre ambas as estrelas.\nIII. Sendo R₁ e R₂ os vetores posição que unem o centro de massa dos sistema aos respectivos centros de massa das estrelas, tanto R₁ como R₂ varrem áreas de mesma magnitude num mesmo intervalo de tempo.\nAssinale a alternativa correta.",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Considere duas estrelas de um sistema binário em que cada qual descreve uma órbita circular em torno do centro de massa comum. Sobre tal sistema são feitas as seguintes afirmações:\nI. O período de revolução é o mesmo para as duas estrelas.\nII. Esse período é função apenas da constante gravitacional, da massa total do sistema e da distância entre ambas as estrelas.\nIII. Sendo R₁ e R₂ os vetores posição que unem o centro de massa dos sistema aos respectivos centros de massa das estrelas, tanto R₁ como R₂ varrem áreas de mesma magnitude num mesmo intervalo de tempo.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -129,7 +129,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Um cubo de peso P₁, construído com um material cuja densidade é ρ₁, dispõe de uma região vazia em seu interior e, quando inteiramente imerso em um líquido de densidade ρ₂, seu peso reduz-se a P₂. Assinale a expressão com o volume da região vazia deste cubo.",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Um cubo de peso P₁, construído com um material cuja densidade é ρ₁, dispõe de uma região vazia em seu interior e, quando inteiramente imerso em um líquido de densidade ρ₂, seu peso reduz-se a P₂. Assinale a expressão com o volume da região vazia deste cubo.",
       subItens: []
     },
     options: [
@@ -150,7 +150,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Um pêndulo simples é composto por uma massa presa a um fio metálico de peso desprezível. A figura registra medidas do tempo T em segundos, para 10 oscilações completas e seguidas do pêndulo ocorridas ao longo das horas do dia, t. Considerando que neste dia houve uma variação térmica total de 20°C, assinale o valor do coeficiente de dilatação térmica do fio deste pêndulo.\n[Gráfico: T(s) versus t(h). Eixo Y (T) de 80 a 80.5, eixo X (t) de 0 a 24. Pontos mostram variação do período ao longo do dia, indicando uma dependência com a temperatura (e, portanto, comprimento do fio). Valores: (0h, 80.2s), (6h, 80.1s), (12h, 80.0s), (18h, 80.1s), (24h, 80.2s).]",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Um pêndulo simples é composto por uma massa presa a um fio metálico de peso desprezível. A figura registra medidas do tempo T em segundos, para 10 oscilações completas e seguidas do pêndulo ocorridas ao longo das horas do dia, t. Considerando que neste dia houve uma variação térmica total de 20°C, assinale o valor do coeficiente de dilatação térmica do fio deste pêndulo.\n[Gráfico: T(s) versus t(h). Eixo Y (T) de 80 a 80.5, eixo X (t) de 0 a 24. Pontos mostram variação do período ao longo do dia, indicando uma dependência com a temperatura (e, portanto, comprimento do fio). Valores: (0h, 80.2s), (6h, 80.1s), (12h, 80.0s), (18h, 80.1s), (24h, 80.2s).]",
       subItens: []
     },
     options: [
@@ -171,7 +171,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Um pêndulo simples oscila com uma amplitude máxima de 60° em relação à vertical, momento em que a tensão no cabo é de 10 N. Assinale a opção com o valor da tensão no ponto em que ele atinge sua velocidade máxima.",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Um pêndulo simples oscila com uma amplitude máxima de 60° em relação à vertical, momento em que a tensão no cabo é de 10 N. Assinale a opção com o valor da tensão no ponto em que ele atinge sua velocidade máxima.",
       subItens: []
     },
     options: [
@@ -192,15 +192,15 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Um líquido condutor (metal fundido) flui no interior de duas chapas metálicas paralelas, interdistantes de 2,0 cm, formando um capacitor plano, conforme a figura. Toda essa região interna está submetida a um campo homogêneo de indução magnética de 0,01 T, paralelo aos planos das chapas, atuando perpendicularmente à direção da velocidade do escoamento. Assinale a opção com o módulo dessa velocidade quando a diferença de potencial medida entre as placas for de 0,40 mV.\n[Imagem: Duas chapas paralelas, com um líquido condutor entre elas. Símbolos 'X' indicam um campo magnético uniforme entrando na página, perpendicular ao plano das chapas.]",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Um líquido condutor (metal fundido) flui no interior de duas chapas metálicas paralelas, interdistantes de 2,0 cm, formando um capacitor plano, conforme a figura. Toda essa região interna está submetida a um campo homogêneo de indução magnética de 0,01 T, paralelo aos planos das chapas, atuando perpendicularmente à direção da velocidade do escoamento. Assinale a opção com o módulo dessa velocidade quando a diferença de potencial medida entre as placas for de 0,40 mV.\n[Imagem: Duas chapas paralelas, com um líquido condutor entre elas. Símbolos 'X' indicam um campo magnético uniforme entrando na página, perpendicular ao plano das chapas.]",
       subItens: []
     },
     options: [
-      "2 cm/s",
-      "3 cm/s",
-      "1 m/s",
-      "2 m/s",
-      "5 m/s"
+      "2 $cm/s$",
+      "3 $cm/s$",
+      "1 $m/s$",
+      "2 $m/s$",
+      "5 $m/s$"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -213,15 +213,15 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Um estudante usa um tubo de Pitot esquematizado na figura para medir a velocidade do ar em um túnel de vento. A densidade do ar é igual a 1,2 kg/m³ e a densidade do líquido é 1,2×10⁴ kg/m³, sendo h = 10 cm. Nessas condições a velocidade do ar é aproximadamente igual a\n[Imagem: Diagrama de um tubo de Pitot, mostrando o fluxo de 'ar' e um manômetro com 'líquido' medindo uma diferença de altura 'h'.]",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Um estudante usa um tubo de Pitot esquematizado na figura para medir a velocidade do ar em um túnel de vento. A densidade do ar é igual a 1,2 $kg/m$³ e a densidade do líquido é 1,2×10⁴ $kg/m$³, sendo h = 10 cm. Nessas condições a velocidade do ar é aproximadamente igual a\n[Imagem: Diagrama de um tubo de Pitot, mostrando o fluxo de 'ar' e um manômetro com 'líquido' medindo uma diferença de altura 'h'.]",
       subItens: []
     },
     options: [
-      "1,4 m/s",
-      "14 m/s",
-      "1,4×10² m/s",
-      "1,4×10³ m/s",
-      "1,4×10⁴ m/s"
+      "1,4 $m/s$",
+      "14 $m/s$",
+      "1,4×10² $m/s$",
+      "1,4×10³ $m/s$",
+      "1,4×10⁴ $m/s$"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -234,7 +234,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Balão com gás Hélio inicialmente a 27°C de temperatura e pressão de 1,0 atm, as mesmas do ar externo, sobe até o topo de uma montanha, quando o gás se resfria a -23°C e sua pressão reduz-se a 0,33 de atm, também as mesmas do ar externo. Considerando invariável a aceleração da gravidade na subida, a razão entre as forças de empuxo que atuam no balão nestas duas posições é",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Balão com gás Hélio inicialmente a 27°C de temperatura e pressão de 1,0 atm, as mesmas do ar externo, sobe até o topo de uma montanha, quando o gás se resfria a -23°C e sua pressão reduz-se a 0,33 de atm, também as mesmas do ar externo. Considerando invariável a aceleração da gravidade na subida, a razão entre as forças de empuxo que atuam no balão nestas duas posições é",
       subItens: []
     },
     options: [
@@ -255,15 +255,15 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Um corpo flutua estavelmente em um tanque contendo dois líquidos imiscíveis, um com o dobro da densidade do outro, de tal forma que as interfaces líquido/líquido e líquido/ar dividem o volume do corpo exatamente em três partes iguais. Sendo completamente removido o líquido mais leve, qual proporção do volume do corpo permanece imerso no líquido restante?",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Um corpo flutua estavelmente em um tanque contendo dois líquidos imiscíveis, um com o dobro da densidade do outro, de tal forma que as interfaces lí$quido/l$íquido e lí$quido/ar$ dividem o volume do corpo exatamente em três partes iguais. Sendo completamente removido o líquido mais leve, qual proporção do volume do corpo permanece imerso no líquido restante?",
       subItens: []
     },
     options: [
-      "1/2",
-      "1/4",
-      "3/4",
-      "2/5",
-      "3/5"
+      "$1/2$",
+      "$1/4$",
+      "$3/4$",
+      "$2/5$",
+      "$3/5$"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -276,12 +276,12 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. A figura mostra uma placa fina de peso P dobrada em ângulo reto e disposta sobre uma esfera fixa de raio a. O coeficiente de atrito mínimo entre estes objetos para que a placa não escorregue é\n[Imagem: Uma placa em ângulo reto, como uma letra L invertida, apoiada sobre uma esfera de raio 'a'.]",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. A figura mostra uma placa fina de peso P dobrada em ângulo reto e disposta sobre uma esfera fixa de raio a. O coeficiente de atrito mínimo entre estes objetos para que a placa não escorregue é\n[Imagem: Uma placa em ângulo reto, como uma letra L invertida, apoiada sobre uma esfera de raio 'a'.]",
       subItens: []
     },
     options: [
       "1.",
-      "1/2.",
+      "$1/2$.",
       "√2-1.",
       "√3-1.",
       "(√5 – 1)/2."
@@ -297,7 +297,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Uma corda de cobre, com seção de raio r_C, está submetida a uma tensão T. Uma corda de ferro, com seção de raio r_F, de mesmo comprimento e emitindo ondas de mesma frequência que a do cobre, está submetida a uma tensão T/3. Sendo de 1,15 a razão entre as densidades do cobre e do ferro, e sabendo que ambas oscilam no modo fundamental, a razão r_C/r_F é igual a",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Uma corda de cobre, com seção de raio $r_C$, está submetida a uma tensão T. Uma corda de ferro, com seção de raio $r_F$, de mesmo comprimento e emitindo ondas de mesma frequência que a do cobre, está submetida a uma tensão $T/3$. Sendo de 1,15 a razão entre as densidades do cobre e do ferro, e sabendo que ambas oscilam no modo fundamental, a razão $r_C/r_F$ é igual a",
       subItens: []
     },
     options: [
@@ -318,12 +318,12 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Um tubo de fibra óptica é basicamente um cilindro longo e transparente, de diâmetro d e índice de refração n. Se o tubo é curvado, parte dos raios de luz pode escapar e não se refletir na superfície interna do tubo. Para que haja reflexão total de um feixe de luz inicialmente paralelo ao eixo do tubo, o menor raio de curvatura interno R (ver figura) deve ser igual a\n[Imagem: Representação de um tubo de fibra óptica curvado, mostrando seu diâmetro 'd' e o raio de curvatura 'R'.]",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Um tubo de fibra óptica é basicamente um cilindro longo e transparente, de diâmetro d e índice de refração n. Se o tubo é curvado, parte dos raios de luz pode escapar e não se refletir na superfície interna do tubo. Para que haja reflexão total de um feixe de luz inicialmente paralelo ao eixo do tubo, o menor raio de curvatura interno R (ver figura) deve ser igual a\n[Imagem: Representação de um tubo de fibra óptica curvado, mostrando seu diâmetro 'd' e o raio de curvatura 'R'.]",
       subItens: []
     },
     options: [
       "nd",
-      "d/n",
+      "$d/n$",
       "d/(n - 1)",
       "nd/(n - 1)",
       "√nd/(√n – 1)"
@@ -339,7 +339,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. No circuito da figura há três capacitores iguais, com C = 1000μF, inicialmente descarregados. Com as chaves (2) abertas e as chaves (1) fechadas, os capacitores são carregados. Na sequência, com as chaves (1) abertas e as chaves (2) fechadas, os capacitores são novamente descarregados e o processo se repete. Com a tensão no resistor R variando segundo o gráfico da figura, a carga transferida pelos capacitores em cada descarga é igual a\n[Imagem 1: Diagrama de circuito elétrico com uma fonte de tensão, um resistor R e três capacitores C, interligados por chaves (1) e (2).]\n[Imagem 2: Gráfico da tensão V(V) no resistor R em função do tempo t(s). O gráfico mostra uma tensão que varia entre 12V e 24V, com descargas periódicas. Em uma descarga, a tensão vai de 24V para 12V em 3 segundos.]",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. No circuito da figura há três capacitores iguais, com C = 1000μF, inicialmente descarregados. Com as chaves (2) abertas e as chaves (1) fechadas, os capacitores são carregados. Na sequência, com as chaves (1) abertas e as chaves (2) fechadas, os capacitores são novamente descarregados e o processo se repete. Com a tensão no resistor R variando segundo o gráfico da figura, a carga transferida pelos capacitores em cada descarga é igual a\n[Imagem 1: Diagrama de circuito elétrico com uma fonte de tensão, um resistor R e três capacitores C, interligados por chaves (1) e (2).]\n[Imagem 2: Gráfico da tensão V(V) no resistor R em função do tempo t(s). O gráfico mostra uma tensão que varia entre 12V e 24V, com descargas periódicas. Em uma descarga, a tensão vai de 24V para 12V em 3 segundos.]",
       subItens: []
     },
     options: [
@@ -360,7 +360,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Uma bobina metálica circular de raio r, com N espiras e resistência elétrica R, é atravessada por um campo de indução magnética de intensidade B. Se o raio da bobina é aumentado de uma fração Δr < r, num intervalo de tempo Δt, e desconsiderando as perdas, a máxima corrente induzida será de",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Uma bobina metálica circular de raio r, com N espiras e resistência elétrica R, é atravessada por um campo de indução magnética de intensidade B. Se o raio da bobina é aumentado de uma fração Δr < r, num intervalo de tempo Δt, e desconsiderando as perdas, a máxima corrente induzida será de",
       subItens: []
     },
     options: [
@@ -381,15 +381,15 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 m/s². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 cal/g.K. Massa específica da água: 1,0 g/cm³. Massa específica do ar: 1,2 kg/m³. Velocidade do som no ar: 340 m/s. Enquanto em repouso relativo a uma estrela, um astronauta vê a luz dela como predominante-mente vermelha, de comprimento de onda próximo a 600 nm. Acelerando sua nave na direção da estrela, a luz será vista como predominantemente violeta, de comprimento de onda próximo a 400 nm, ocasião em que a razão da velocidade da nave em relação à da luz será de",
+      principal: "Quando precisar use os seguintes valores para as constantes: Aceleração da gravidade: 10 $m/s$². 1,0 cal = 4,2 J = 4,2 × 10⁷ erg. Calor específico da água: 1,0 $cal/g$.K. Massa específica da água: 1,0 $g/cm$³. Massa específica do ar: 1,2 $kg/m$³. Velocidade do som no ar: 340 $m/s$. Enquanto em repouso relativo a uma estrela, um astronauta vê a luz dela como predominante-mente vermelha, de comprimento de onda próximo a 600 nm. Acelerando sua nave na direção da estrela, a luz será vista como predominantemente violeta, de comprimento de onda próximo a 400 nm, ocasião em que a razão da velocidade da nave em relação à da luz será de",
       subItens: []
     },
     options: [
-      "1/3.",
-      "2/3.",
-      "4/9.",
-      "5/9.",
-      "5/13."
+      "$1/3$.",
+      "$2/3$.",
+      "$4/9$.",
+      "$5/9$.",
+      "$5/13$."
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -448,13 +448,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2/285",
-      "2/217",
-      "1/190",
-      "4/225",
-      "1/380"
+      "$2/285$",
+      "$2/217$",
+      "$1/190$",
+      "$4/225$",
+      "$1/380$"
     ],
-    correctAnswer: -23,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Probabilidade", "Progressão Geométrica", "Análise Combinatória"],
     imageNames: []
@@ -469,11 +469,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "-√14/8",
-      "√14/8",
-      "√14/4",
-      "-√14/4",
-      "√14/6"
+      "-√$14/8$",
+      "√$14/8$",
+      "√$14/4$",
+      "-√$14/4$",
+      "√$14/6$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -507,7 +507,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Seja Pn um polígono convexo regular de n lados, com n ≥ 3. Considere as afirmações a seguir:\nI. Pn é inscritível numa circunferência.\nII. Pn é circunscritível a uma circunferência.\nIII. Se ln é o comprimento de um lado de Pn e an é o comprimento de um apótema de Pn, então an/ln < 1 para todo n ≥ 3.\nÉ (são) verdadeira(s)",
+      principal: "Seja Pn um polígono convexo regular de n lados, com n ≥ 3. Considere as afirmações a seguir:\nI. Pn é inscritível numa circunferência.\nII. Pn é circunscritível a uma circunferência.\nIII. Se ln é o comprimento de um lado de Pn e an é o comprimento de um apótema de Pn, então $an/ln$ < 1 para todo n ≥ 3.\nÉ (são) verdadeira(s)",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Um triângulo está inscrito numa circunferência de raio 1 cm. O seu maior lado mede 2 cm e sua área é de √2/2 cm². Então, o menor lado do triângulo, em cm, mede",
+      principal: "Um triângulo está inscrito numa circunferência de raio 1 cm. O seu maior lado mede 2 cm e sua área é de √$2/2$ cm². Então, o menor lado do triângulo, em cm, mede",
       subItens: []
     },
     options: [
@@ -574,11 +574,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "-3/5",
-      "-3/7",
-      "-2/5",
-      "-4/5",
-      "-1/7"
+      "-$3/5$",
+      "-$3/7$",
+      "-$2/5$",
+      "-$4/5$",
+      "-$1/7$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -591,7 +591,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Um triângulo retângulo tem perímetro igual a l√5, em que l é o comprimento da hipotenusa. Se α e β são seus ângulos agudos, com α < β, então sen(β – α) é igual a",
+      principal: "Um triângulo retângulo tem perímetro igual a l√5, em que l é o comprimento da hipotenusa. Se α e β são seus ângulos agudos, com α < β, então $\\sin$(β – α) é igual a",
       subItens: []
     },
     options: [
@@ -612,15 +612,15 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Se M = [[1, -1], [2, 0]] e N = [[2, 1], [-1, 3]], então M N^T - M^(-1) N é igual a",
+      principal: "Se M = [[1, -1], [2, 0]] e N = [[2, 1], [-1, 3]], então M $N^T$ - M^(-1) N é igual a",
       subItens: []
     },
     options: [
       "[[2, 1], [3, 2]]",
-      "[[0, 11/2], [3/2, 5/2]]",
-      "[[2, 13/2], [3/2, 11/2]]",
-      "[[2, -13/2], [-3/2, 11/2]]",
-      "[[0, 13/2], [3/2, 13/2]]"
+      "[[0, $11/2$], [$3/2$, $5/2$]]",
+      "[[2, $13/2$], [$3/2$, $11/2$]]",
+      "[[2, -$13/2$], [-$3/2$, $11/2$]]",
+      "[[0, $13/2$], [$3/2$, $13/2$]]"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -658,11 +658,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2√3/3",
-      "3√2/2",
-      "√6/2",
-      "2√3/5",
-      "4√3/3"
+      "2√$3/3$",
+      "3√$2/2$",
+      "√$6/2$",
+      "2√$3/5$",
+      "4√$3/3$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -717,15 +717,15 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Seja ABC um triângulo equilátero e suponha que M e N são pontos pertencentes ao lado BC tais que BM = MN = NC. Sendo α a medida, em radianos, do ângulo MÂN, então o valor de cos α é",
+      principal: "Seja ABC um triângulo equilátero e suponha que M e N são pontos pertencentes ao lado BC tais que BM = MN = NC. Sendo α a medida, em radianos, do ângulo MÂN, então o valor de $\\cos$ α é",
       subItens: []
     },
     options: [
-      "13/14",
-      "14/15",
-      "15/16",
-      "16/17",
-      "17/18"
+      "$13/14$",
+      "$14/15$",
+      "$15/16$",
+      "$16/17$",
+      "$17/18$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -874,7 +874,7 @@ createQuestion({
       "0,40",
       "0,50"
     ],
-    correctAnswer: -23,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Propriedades Coligativas (Ebulioscopia)"],
     imageNames: []
@@ -885,7 +885,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "A respeito de reações químicas descritas pela equação de Arrhenius, são feitas as seguintes proposições: I. Para reações bimoleculares, o fator pré-exponencial na equação de Arrhenius é proporcional à frequência de colisões, efetivas ou não, entre as moléculas dos reagentes. II. O fator exponencial na equação de Arrhenius é proporcional ao número de moléculas cuja energia cinética relativa é maior ou igual à energia de ativação da reação. III. Multiplicando-se o negativo da constante dos gases (–R) pelo coeficiente angular da reta ln k versus 1/T obtém-se o valor da energia de ativação da reação. IV. O fator pré-exponencial da equação de Arrhenius é determinado pela intersecção da reta ln k versus 1/T com o eixo das abscissas. Das proposições acima, está(ão) ERRADA(S)",
+      principal: "A respeito de reações químicas descritas pela equação de Arrhenius, são feitas as seguintes proposições: I. Para reações bimoleculares, o fator pré-exponencial na equação de Arrhenius é proporcional à frequência de colisões, efetivas ou não, entre as moléculas dos reagentes. II. O fator exponencial na equação de Arrhenius é proporcional ao número de moléculas cuja energia cinética relativa é maior ou igual à energia de ativação da reação. III. Multiplicando-se o negativo da constante dos gases (–R) pelo coeficiente angular da reta ln k versus $1/T$ obtém-se o valor da energia de ativação da reação. IV. O fator pré-exponencial da equação de Arrhenius é determinado pela intersecção da reta ln k versus $1/T$ com o eixo das abscissas. Das proposições acima, está(ão) ERRADA(S)",
       subItens: []
     },
     options: [
@@ -990,7 +990,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "No estado padrão, é de 0,240 V o potencial da pilha cuja reação pode ser descrita pela seguinte equação química: 2 NO + 1/2 O2 + H2O → 2 HNO2. Assinale a alternativa que apresenta o valor da energia livre padrão da reação, em kJ·mol−¹.",
+      principal: "No estado padrão, é de 0,240 V o potencial da pilha cuja reação pode ser descrita pela seguinte equação química: 2 NO + $1/2$ O2 + H2O → 2 HNO2. Assinale a alternativa que apresenta o valor da energia livre padrão da reação, em kJ·mol−¹.",
       subItens: []
     },
     options: [
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Considere a seguinte reação química e a respectiva lei de velocidade experimental: 2NO(g) + O2(g) →2NO2(g), v = k[NO]2[O2]. Para esta reação, são propostos os mecanismos reacionais I, II e III com suas etapas elementares de reação: I. 2NO(g) ⇌ N₂O2(g) (equilíbrio rápido); N2O2 (g)+O2(g) → 2NO2 (g) (lenta). II. NO(g)+O2(g)⇌ NO3 (g) (equilíbrio rápido); NO(g)+NO3(g)→ 2NO2 (g) (lenta). III. NO(g)+1/2 O2 (g) → NO2 (g) (rápida); NO2(g)+½ O2(g) ⇌ NO3(g) (equilíbrio rápido); NO(g)+NO3(g)⇌ N₂O₄(g) (equilíbrio rápido); N2O4 (g) → 2NO2 (g) (lenta). Dos mecanismos propostos, são consistentemente com a lei de velocidade observada experimentalmente",
+      principal: "Considere a seguinte reação química e a respectiva lei de velocidade experimental: 2NO(g) + O2(g) →2NO2(g), v = k[NO]2[O2]. Para esta reação, são propostos os mecanismos reacionais I, II e III com suas etapas elementares de reação: I. 2NO(g) ⇌ N₂O2(g) (equilíbrio rápido); N2O2 (g)+O2(g) → 2NO2 (g) (lenta). II. NO(g)+O2(g)⇌ NO3 (g) (equilíbrio rápido); NO(g)+NO3(g)→ 2NO2 (g) (lenta). III. NO(g)+$1/2$ O2 (g) → NO2 (g) (rápida); NO2(g)+½ O2(g) ⇌ NO3(g) (equilíbrio rápido); NO(g)+NO3(g)⇌ N₂O₄(g) (equilíbrio rápido); N2O4 (g) → 2NO2 (g) (lenta). Dos mecanismos propostos, são consistentemente com a lei de velocidade observada experimentalmente",
       subItens: []
     },
     options: [
@@ -1231,7 +1231,7 @@ createQuestion({
       "da soma das energias de dois átomos de deutério, infinitamente separados, é maior do que o valor absoluto da soma das energias de dois átomos de hidrogênio infinitamente separados.",
       "da energia do íon He⁺ é igual ao valor absoluto da soma das energias de dois átomos de hidrogênio infinitamente separados."
     ],
-    correctAnswer: -23,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Estrutura Atômica e Ligações Químicas", "Energia de Ionização"],
     imageNames: []
@@ -1582,7 +1582,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "uma oposição campo/cidade, de filiação árcade-romântica.",
+      "uma oposição $campo/cidade$, de filiação árcade-romântica.",
       "um bucolismo típico da tradição árcade, indicado pelo título.",
       "uma representação tipicamente romântica do homem do campo.",
       "um contraste entre o arcadismo do título e o realismo social dos versos.",
@@ -1704,15 +1704,15 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Questão 3. Marque a opção em que a(s) vírgula(s) sublinhada(s) não demarca(m) um termo ou expressão explicativa.\nA ( ) In 1974 Edmar Bacha, an economist, described its economy as “Belindia\"... (linha 7)\nB() Brazilian businesses face a litany of obstacles: bureaucracy, complex tax rules, shoddy infrastructure... (linha 10)\nC() Two-thirds of those with sales of more than $1 billion a year are family-owned, notes Heinz-Peter Elstrodt of McKinsey, a consulting firm... (linhas 24/25)\nD() ... and a subsequent spike in energy prices in a hydropower-dependent country, Usiminas, a steelmaker, stopped... (linha 33)\nE() ... the automotive industry's reflex reactions was to descend on the capital, Brasília, and demand an extension... (linhas 38/39)",
+      principal: "Questão 3. Marque a opção em que a(s) vírgula(s) sublinhada(s) não demarca(m) um termo ou expressão explicativa.\nA ( ) In 1974 Edmar Bacha, an economist, described its economy as “Belindia\"... (linha 7)\nB() Brazilian businesses face a litany of obstacles: bureaucracy, complex tax rules, shoddy infrastructure... (linha 10)\nC() Two-thirds of those with sales of more than $1 billion a year are family-owned, notes Heinz-Peter Elstrodt of McKinsey, a consulting firm... (linhas $24/25$)\nD() ... and a subsequent spike in energy prices in a hydropower-dependent country, Usiminas, a steelmaker, stopped... (linha 33)\nE() ... the automotive industry's reflex reactions was to descend on the capital, Brasília, and demand an extension... (linhas $38/39$)",
       subItens: []
     },
     options: [
       "In 1974 Edmar Bacha, an economist, described its economy as “Belindia\"... (linha 7)",
       "Brazilian businesses face a litany of obstacles: bureaucracy, complex tax rules, shoddy infrastructure... (linha 10)",
-      "Two-thirds of those with sales of more than $1 billion a year are family-owned, notes Heinz-Peter Elstrodt of McKinsey, a consulting firm... (linhas 24/25)",
+      "Two-thirds of those with sales of more than $1 billion a year are family-owned, notes Heinz-Peter Elstrodt of McKinsey, a consulting firm... (linhas $24/25$)",
       "... and a subsequent spike in energy prices in a hydropower-dependent country, Usiminas, a steelmaker, stopped... (linha 33)",
-      "... the automotive industry's reflex reactions was to descend on the capital, Brasília, and demand an extension... (linhas 38/39)"
+      "... the automotive industry's reflex reactions was to descend on the capital, Brasília, and demand an extension... (linhas $38/39$)"
     ],
     correctAnswer: 1,
     materia: ["Inglês"],
@@ -1725,7 +1725,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Questão 4. Os termos sublinhados nas orações abaixo podem ser substituídos, respectivamente, sem que haja prejuízo do sentido, por:\nI. Ownership patterns play a part too (linha 23) → as well.\nII. Decades of economic turmoil... (linha 30) → growth.\nIII. Brazilian bosses continue to waste hours in meetings with politicians...(linhas 36/37) → findings.\nIV. In January 2014, as vehicle sales flagged... (linha 37/38) → dropped.\nEstão corretas\nA() apenas I e II.\nB() apenas I e III.\nC() apenas I e IV.\nD() apenas II e IV.\nE() apenas III e IV.",
+      principal: "Questão 4. Os termos sublinhados nas orações abaixo podem ser substituídos, respectivamente, sem que haja prejuízo do sentido, por:\nI. Ownership patterns play a part too (linha 23) → as well.\nII. Decades of economic turmoil... (linha 30) → growth.\nIII. Brazilian bosses continue to waste hours in meetings with politicians...(linhas $36/37$) → findings.\nIV. In January 2014, as vehicle sales flagged... (linha $37/38$) → dropped.\nEstão corretas\nA() apenas I e II.\nB() apenas I e III.\nC() apenas I e IV.\nD() apenas II e IV.\nE() apenas III e IV.",
       subItens: []
     },
     options: [
@@ -1746,15 +1746,15 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Questão 5. Marque, dentre as frases extraídas do texto, aquela que expressa o posicionamento do autor com relação ao papel do governo na gestão de empresas brasileiras.\nA () Brazilian businesses face a litany of obstacles. (linha 10)\nB() The best Brazilian firms score as well as the best American ones. (linha 16)\nC() Many Brazilian concerns are controlled by an individual shareholder or one or two families. (linhas 23/24)\nD() Such short-term stunts are hardly the path to long-term greatness. (linha 35)\nE() Coddling by the state can be more a curse than a blessing. (linhas 58/59)",
+      principal: "Questão 5. Marque, dentre as frases extraídas do texto, aquela que expressa o posicionamento do autor com relação ao papel do governo na gestão de empresas brasileiras.\nA () Brazilian businesses face a litany of obstacles. (linha 10)\nB() The best Brazilian firms score as well as the best American ones. (linha 16)\nC() Many Brazilian concerns are controlled by an individual shareholder or one or two families. (linhas $23/24$)\nD() Such short-term stunts are hardly the path to long-term greatness. (linha 35)\nE() Coddling by the state can be more a curse than a blessing. (linhas $58/59$)",
       subItens: []
     },
     options: [
       "Brazilian businesses face a litany of obstacles. (linha 10)",
       "The best Brazilian firms score as well as the best American ones. (linha 16)",
-      "Many Brazilian concerns are controlled by an individual shareholder or one or two families. (linhas 23/24)",
+      "Many Brazilian concerns are controlled by an individual shareholder or one or two families. (linhas $23/24$)",
       "Such short-term stunts are hardly the path to long-term greatness. (linha 35)",
-      "Coddling by the state can be more a curse than a blessing. (linhas 58/59)"
+      "Coddling by the state can be more a curse than a blessing. (linhas $58/59$)"
     ],
     correctAnswer: 4,
     materia: ["Inglês"],
@@ -1788,7 +1788,7 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Questão 7. Considere as seguintes afirmativas:\nI. Em “This forced Brazilian firms to be nimble. But it also encouraged short-termism, which management consultants...” (linhas 31/32), os pronomes sublinhados possuem o mesmo referente.\nII. Em \"The best Brazilian firms score as well as the best American ones...” (linha 16) e em “Brazil offers incentives aplenty to stay bitty, such as preferential tax treatment...” (linha 19) os termos sublinhados têm o mesmo sentido.\nIII. Em “This is particularly true in “low-trust” societies like Brazil...\" (linha 28) e em “Bradesco, a big lender, is internationally praised as a pioneer...” (linhas 47/48) os termos sublinhados têm o mesmo sentido.\nIV. Em “...which ended when hyperinflation was vanquished in 1994” (linha 30) e em “...the automotive industry's reflex reaction was to descend on the capital...\" (linha 38), as formas verbais sublinhadas estão na voz passiva.\nEstá(ão) correta(s)\nA() apenas I e III.\nB() apenas II e III.\nC() apenas III.\nD() apenas III e IV.\nE() apenas a IV.",
+      principal: "Questão 7. Considere as seguintes afirmativas:\nI. Em “This forced Brazilian firms to be nimble. But it also encouraged short-termism, which management consultants...” (linhas $31/32$), os pronomes sublinhados possuem o mesmo referente.\nII. Em \"The best Brazilian firms score as well as the best American ones...” (linha 16) e em “Brazil offers incentives aplenty to stay bitty, such as preferential tax treatment...” (linha 19) os termos sublinhados têm o mesmo sentido.\nIII. Em “This is particularly true in “low-trust” societies like Brazil...\" (linha 28) e em “Bradesco, a big lender, is internationally praised as a pioneer...” (linhas $47/48$) os termos sublinhados têm o mesmo sentido.\nIV. Em “...which ended when hyperinflation was vanquished in 1994” (linha 30) e em “...the automotive industry's reflex reaction was to descend on the capital...\" (linha 38), as formas verbais sublinhadas estão na voz passiva.\nEstá(ão) correta(s)\nA() apenas I e III.\nB() apenas II e III.\nC() apenas III.\nD() apenas III e IV.\nE() apenas a IV.",
       subItens: []
     },
     options: [
@@ -1821,7 +1821,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["Inglês"],
-    conteudo: ["Compreensão de Gráficos/Imagens", "Vocabulário"],
+    conteudo: ["Compreensão de Grá$ficos/Imagens$", "Vocabulário"],
     imageNames: []
 }),
 
@@ -1842,7 +1842,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Inglês"],
-    conteudo: ["Compreensão de Gráficos/Imagens"],
+    conteudo: ["Compreensão de Grá$ficos/Imagens$"],
     imageNames: []
 }),
 
@@ -2040,14 +2040,14 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Questão 19. Marque a opção em que o item sublinhado denota um qualificador.\nA() Most digitally minded people continually post and update pictures... (linha 4)\nB() For those of us seeking to appear friendly and... (linha 7)\nC() More importantly, the research also revealed the unexpected finding... (linhas 10/11)\nD() An analysis revealed that participants generally ranked people... (linhas 16/17)\nE() Surprisingly, participants did not rank faces as indicative of physical strength... (linha 18)",
+      principal: "Questão 19. Marque a opção em que o item sublinhado denota um qualificador.\nA() Most digitally minded people continually post and update pictures... (linha 4)\nB() For those of us seeking to appear friendly and... (linha 7)\nC() More importantly, the research also revealed the unexpected finding... (linhas $10/11$)\nD() An analysis revealed that participants generally ranked people... (linhas $16/17$)\nE() Surprisingly, participants did not rank faces as indicative of physical strength... (linha 18)",
       subItens: []
     },
     options: [
       "Most digitally minded people continually post and update pictures... (linha 4)",
       "For those of us seeking to appear friendly and... (linha 7)",
-      "More importantly, the research also revealed the unexpected finding... (linhas 10/11)",
-      "An analysis revealed that participants generally ranked people... (linhas 16/17)",
+      "More importantly, the research also revealed the unexpected finding... (linhas $10/11$)",
+      "An analysis revealed that participants generally ranked people... (linhas $16/17$)",
       "Surprisingly, participants did not rank faces as indicative of physical strength... (linha 18)"
     ],
     correctAnswer: 1,
@@ -2061,14 +2061,14 @@ createQuestion({
     university: "ita",
     year: 2016,
     text: {
-      principal: "Questão 20. Todas as frases abaixo contêm adjetivo com flexão de grau, exceto:\nA() ...photos of oneself convey more these days than snapshots ever did back in the Kodak era.(linhas 3/4)\nB() ...it can be a stressful task to select the photo that conveys the best impression of ourselves.(linhas 6/7)\nC() ...participants picked faces with happier expressions as financial advisors... (linha 30)\nD() ...and [participants] selected broader faces as belonging to power-lifting champs.(linhas 30/31)\nE() ...and generally saw the average “financial advisor” face as more trustworthy... (linha 37)",
+      principal: "Questão 20. Todas as frases abaixo contêm adjetivo com flexão de grau, exceto:\nA() ...photos of oneself convey more these days than snapshots ever did back in the Kodak era.(linhas $3/4$)\nB() ...it can be a stressful task to select the photo that conveys the best impression of ourselves.(linhas $6/7$)\nC() ...participants picked faces with happier expressions as financial advisors... (linha 30)\nD() ...and [participants] selected broader faces as belonging to power-lifting champs.(linhas $30/31$)\nE() ...and generally saw the average “financial advisor” face as more trustworthy... (linha 37)",
       subItens: []
     },
     options: [
-      "...photos of oneself convey more these days than snapshots ever did back in the Kodak era.(linhas 3/4)",
-      "...it can be a stressful task to select the photo that conveys the best impression of ourselves.(linhas 6/7)",
+      "...photos of oneself convey more these days than snapshots ever did back in the Kodak era.(linhas $3/4$)",
+      "...it can be a stressful task to select the photo that conveys the best impression of ourselves.(linhas $6/7$)",
       "...participants picked faces with happier expressions as financial advisors... (linha 30)",
-      "...and [participants] selected broader faces as belonging to power-lifting champs.(linhas 30/31)",
+      "...and [participants] selected broader faces as belonging to power-lifting champs.(linhas $30/31$)",
       "...and generally saw the average “financial advisor” face as more trustworthy... (linha 37)"
     ],
     correctAnswer: 0,

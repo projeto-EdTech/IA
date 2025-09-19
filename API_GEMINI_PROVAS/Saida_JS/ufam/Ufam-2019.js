@@ -91,11 +91,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Al-PI-S-N-N-AI",
-      "Al-N-PI – PI - S - AI",
-      "PI-S-AI – AI – PI – N",
-      "PI-N-S - PI - AI - N",
-      "S-PI-AI-N-S-PI"
+      "Al-$\\pi$-S-N-N-AI",
+      "Al-N-$\\pi$ – $\\pi$ - S - AI",
+      "$\\pi$-S-AI – AI – $\\pi$ – N",
+      "$\\pi$-N-S - $\\pi$ - AI - N",
+      "S-$\\pi$-AI-N-S-$\\pi$"
     ],
     correctAnswer: 2,
     materia: ["Língua Portuguesa"],
@@ -150,7 +150,7 @@ createQuestion({
     university: "ufam",
     year: 2019,
     text: {
-      principal: "08. Leia o texto a seguir, extraído e adaptado do capítulo \"Breve história externa da Língua Portuguesa\", constante da \"Gramática Escolar da Língua Portuguesa\", de Evanildo Bechara (p. 689):\nA língua portuguesa é a continuação ininterrupta, no tempo e no espaço, do latim levado à Península ______I______ pela expansão do império romano, no início do século III a.C. Depois do processo de romanização, sofreu a Península a invasão dos bárbaros ______II______ em diversos momentos e com diversidade de influências, que muito contribuiu para a fragmentação linguística de Hispania: em 409 foi a vez dos alanos, vândalos e suevos; em 416, dos visigodos. No século VIII, em 711, voltou a Península a ser invadida pelos ______III______ consumando a série de fatores externos que viriam a explicar a diferenciação linguística do português no mosaico dialetal que hoje conhecemos. Apesar do largo contributo na cultura e na língua - especialmente no léxico -, a permanência muçulmana não teve força suficiente para apagar as indeléveis marcas de romanidade das línguas peninsulares (português, ______IV______ e ______V______ catalão).\n\nAssinale a alternativa que preenche CORRETAMENTE os espaços em branco:",
+      principal: "08. Leia o texto a seguir, extraído e adaptado do capítulo \"Breve história externa da Língua Portuguesa\", constante da \"Gramática Escolar da Língua Portuguesa\", de Evanildo Bechara (p. 689):\nA língua portuguesa é a continuação ininterrupta, no tempo e no espaço, do latim levado à Península ______I______ pela expansão do império romano, no início do século III a.C. Depois do processo de romanização, sofreu a Península a invasão dos bárbaros ______II______ em diversos momentos e com diversidade de influências, que muito contribuiu para a fragmentação linguística de Hispania: em 409 foi a vez dos alanos, vândalos e suevos; em 416, dos visigodos. No século VIII, em 711, voltou a Península a ser invadida pelos ______III______ consumando a série de fatores externos que viriam a explicar a diferenciação linguística do português no mosaico dialetal que hoje conhecemos. Apesar do largo contributo na cultura e na língua - especialmente no léxico -, a permanência $\\mu$çulmana não teve força suficiente para apagar as indeléveis marcas de romanidade das línguas peninsulares (português, ______IV______ e ______V______ catalão).\n\nAssinale a alternativa que preenche CORRETAMENTE os espaços em branco:",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "ufam",
     year: 2019,
     text: {
-      principal: "36. A temperatura exerce um efeito importante sobre a densidade dos gases. Imagine um balão que flutua no ar, parecendo não fazer qualquer esforço, apenas pela ação de um pequeno queimador de gás propano. Mas por que o balão flutua? Essa é uma pergunta interessante, pois o gás dentro do balão apresenta uma determinada densidade e esta é uma relação entre duas outras propriedades, massa e volume (d = m/V). Para explicar o porquê de um balão flutuar foram feitas as afirmativas a seguir:\nI. A densidade aumenta com a diminuição da temperatura.\nII. O balão sobe porque a massa de ar dentro do envelope de ar do balão (parte do balão feita de náilon para acumular o ar) varia com o aumento ou diminuição da temperatura, que altera a densidade.\nIII. O balão flutua porque o ar dentro do envelope tem uma densidade menor que o ar exterior.\nIV. O ar no interior do balão é mais denso que o ar no exterior, devido ao aumento de temperatura, e faz que a densidade seja diretamente proporcional ao volume.\n\nAssinale a alternativa correta:",
+      principal: "36. A temperatura exerce um efeito importante sobre a densidade dos gases. Imagine um balão que flutua no ar, parecendo não fazer qualquer esforço, apenas pela ação de um pequeno queimador de gás propano. Mas por que o balão flutua? Essa é uma pergunta interessante, pois o gás dentro do balão apresenta uma determinada densidade e esta é uma relação entre duas outras propriedades, massa e volume (d = $m/V$). Para explicar o porquê de um balão flutuar foram feitas as afirmativas a seguir:\nI. A densidade aumenta com a diminuição da temperatura.\nII. O balão sobe porque a massa de ar dentro do envelope de ar do balão (parte do balão feita de náilon para acumular o ar) varia com o aumento ou diminuição da temperatura, que altera a densidade.\nIII. O balão flutua porque o ar dentro do envelope tem uma densidade menor que o ar exterior.\nIV. O ar no interior do balão é mais denso que o ar no exterior, devido ao aumento de temperatura, e faz que a densidade seja diretamente proporcional ao volume.\n\nAssinale a alternativa correta:",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "ufam",
     year: 2019,
     text: {
-      principal: "39. O termo nanotecnologia refere-se ao uso de partículas muito pequenas, as nanopartículas da ordem de 10°m sendo estas consideradas um recurso empregado para solucionar problemas e agregar valor. Nanopartículas de prata têm sido amplamente estudadas como material antimicrobiano. Apesar de estarmos falando de partículas já tão pequenas (de ordem nano), o tamanho entre partículas nesta ordem de grandeza também é importante. Tem sido observado que o aumento da atividade antimicrobiana de nanopartículas menores pode ser devido ao fato de as partículas menores terem maior facilidade em atravessar a parede celular, além de terem uma relação superfície/volume maior. A área de superfície maior para um volume de nanopartícula menor significa que, por unidade de massa de prata, as nanopartículas menores têm mais átomos de prata em contato com a solução do que as nanopartículas maiores. Para pequenas nanopartículas, isso significa que mais dos átomos de prata contidos nas nanopartículas podem participar nos processos de destruição celular. Se apenas a camada externa de átomos de prata de uma nanopartícula de prata puder ser ionizada em íons de prata, então algumas grandes nanopartículas devem produzir menos íons de prata do que muitas pequenas nanopartículas. Como os íons de prata são os que transmitem propriedades antibacterianas para um determinado material contendo prata, faz sentido que as nanopartículas de prata menores tenham mais eficácia antimicrobiana do que as nanopartículas de prata maiores. Embora ainda não se saiba completamente como atua a prata, os estudos recentes têm revelado que as propriedades antimicrobianas da prata são devidas à sua forma ionizada e sua capacidade de causar danos às células através da interação com proteínas e DNA (https://microbewiki.kenyon.edu/index.php/Silver_as_an_Antimicrobia I_Agent). A partir destas informações, analise as afirmativas a seguir.\nI. Nanopartículas de prata com dimensões de 1 nm podem conter em torno de 6 átomos de prata (Ag ~165 picometros (pm); pico = 10-12).\nII. Em comparação às células humanas, as nanopartículas são bem menores, daí a capacidade de atuarem dentro das células.\nIII. Os íons de prata que são referidos no texto são íons com cargas +2.\nIV. Quanto maior o tamanho da nanopartícula, maior sua área superficial.\n\nAssinale a alternativa correta:",
+      principal: "39. O termo nanotecnologia refere-se ao uso de partículas muito pequenas, as nanopartículas da ordem de 10°m sendo estas consideradas um recurso empregado para solucionar problemas e agregar valor. Nanopartículas de prata têm sido amplamente estudadas como material antimicrobiano. Apesar de estarmos falando de partículas já tão pequenas (de ordem nano), o tamanho entre partículas nesta ordem de grandeza também é importante. Tem sido observado que o aumento da atividade antimicrobiana de nanopartículas menores pode ser devido ao fato de as partículas menores terem maior facilidade em atravessar a parede celular, além de terem uma relação superfí$cie/volume$ maior. A área de superfície maior para um volume de nanopartícula menor significa que, por unidade de massa de prata, as nanopartículas menores têm mais átomos de prata em contato com a solução do que as nanopartículas maiores. Para pequenas nanopartículas, isso significa que mais dos átomos de prata contidos nas nanopartículas podem participar nos processos de destruição celular. Se apenas a camada externa de átomos de prata de uma nanopartícula de prata puder ser ionizada em íons de prata, então algumas grandes nanopartículas devem produzir menos íons de prata do que muitas pequenas nanopartículas. Como os íons de prata são os que transmitem propriedades antibacterianas para um determinado material contendo prata, faz sentido que as nanopartículas de prata menores tenham mais eficácia antimicrobiana do que as nanopartículas de prata maiores. Embora ainda não se saiba completamente como atua a prata, os estudos recentes têm revelado que as propriedades antimicrobianas da prata são devidas à sua forma ionizada e sua capacidade de causar danos às células através da interação com proteínas e DNA (https://microbewiki.kenyon.$edu/index$.$php/Silver_as_an_Antimicrobia$ $I_Agent$). A partir destas informações, analise as afirmativas a seguir.\nI. Nanopartículas de prata com dimensões de 1 nm podem conter em torno de 6 átomos de prata (Ag ~165 picometros (pm); pico = 10-12).\nII. Em comparação às células humanas, as nanopartículas são bem menores, daí a capacidade de atuarem dentro das células.\nIII. Os íons de prata que são referidos no texto são íons com cargas +2.\nIV. Quanto maior o tamanho da nanopartícula, maior sua área superficial.\n\nAssinale a alternativa correta:",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "ufam",
     year: 2019,
     text: {
-      principal: "Nas questões em que for necessário o uso da aceleração da gravidade, adote g = 10 m/s².\nQuando necessário, adote os valores:\nπ = 3\nsen30° = cos60° = 0,50\nsen60° = cos30° = 0,87\nsen45° = cos45° = 0,71\n\n41. As massas dos átomos podem ser comparadas entre si mais precisamente utilizando a unidade de massa atômica (u) do que o quilograma (kg). Por acordo internacional, foi adotado o átomo de carbono 12 como padrão de massa, ao qual foi atribuída uma massa de 12 unidades de massa atômica (u), cuja relação com o quilograma é 1u ≈ 1,66 × 10-27kg. Sabendo que nosso planeta tem massa média de 5,98 × 1024kg, e que a massa média dos átomos que compõem a Terra é 40u, podemos afirmar que a ordem de grandeza do número de átomos existentes na Terra é:",
+      principal: "Nas questões em que for necessário o uso da aceleração da gravidade, adote g = 10 $m/s$².\nQuando necessário, adote os valores:\nπ = 3\nsen30° = cos60° = 0,50\nsen60° = cos30° = 0,87\nsen45° = cos45° = 0,71\n\n41. As massas dos átomos podem ser comparadas entre si mais precisamente utilizando a unidade de massa atômica (u) do que o quilograma (kg). Por acordo internacional, foi adotado o átomo de carbono 12 como padrão de massa, ao qual foi atribuída uma massa de 12 unidades de massa atômica (u), cuja relação com o quilograma é 1u ≈ 1,66 × 10-27kg. Sabendo que nosso planeta tem massa média de 5,98 × 1024kg, e que a massa média dos átomos que compõem a Terra é 40u, podemos afirmar que a ordem de grandeza do número de átomos existentes na Terra é:",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "ufam",
     year: 2019,
     text: {
-      principal: "Nas questões em que for necessário o uso da aceleração da gravidade, adote g = 10 m/s².\nQuando necessário, adote os valores:\nπ = 3\nsen30° = cos60° = 0,50\nsen60° = cos30° = 0,87\nsen45° = cos45° = 0,71\n\n42. Considere a situação na qual um avião de salvamento está voando a 180km/h, numa altura constante de 500m, rumo a um ponto diretamente acima da vítima de um naufrágio. O objetivo da missão é deixar cair um pacote contendo um colete salva-vidas, de modo que o pacote atinja a água num ponto ao lado da vitima. Desprezando o arrasto do ar sobre o pacote, podemos afirmar que a distância horizontal a que o avião deve estar da vítima e o ângulo da linha de visada no instante em que o piloto deixa cair o pacote valem, respectivamente:",
+      principal: "Nas questões em que for necessário o uso da aceleração da gravidade, adote g = 10 $m/s$².\nQuando necessário, adote os valores:\nπ = 3\nsen30° = cos60° = 0,50\nsen60° = cos30° = 0,87\nsen45° = cos45° = 0,71\n\n42. Considere a situação na qual um avião de salvamento está voando a $180km/h$, numa altura constante de 500m, rumo a um ponto diretamente acima da vítima de um naufrágio. O objetivo da missão é deixar cair um pacote contendo um colete salva-vidas, de modo que o pacote atinja a água num ponto ao lado da vitima. Desprezando o arrasto do ar sobre o pacote, podemos afirmar que a distância horizontal a que o avião deve estar da vítima e o ângulo da linha de visada no instante em que o piloto deixa cair o pacote valem, respectivamente:",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "ufam",
     year: 2019,
     text: {
-      principal: "Nas questões em que for necessário o uso da aceleração da gravidade, adote g = 10 m/s².\nQuando necessário, adote os valores:\nπ = 3\nsen30° = cos60° = 0,50\nsen60° = cos30° = 0,87\nsen45° = cos45° = 0,71\n\n43. Os pilotos de aviões de caça se preocupam quando têm que fazer curvas muito fechadas. Isto ocorre devido ao fato do corpo do piloto ficar submetido à aceleração centrípeta, com a cabeça mais próxima do centro de curvatura. Esta situação faz com que a pressão sanguínea no cérebro do piloto diminua, o que pode levar à perda das funções cerebrais causada pela hipóxia (baixo teor de oxigênio causado por problemas na circulação). Quando o módulo da aceleração centrípeta é 2g ou 3g, onde gé o valor da aceleração da gravidade, o piloto se sente pesado. Por volta de 4g, a visão do piloto passa para preto e branco e se reduz à \"visão de túnel”. Se a aceleração é mantida ou aumentada, o piloto deixa de enxergar e, logo depois, ele perde a consciência, numa situação conhecida como g - LOC, da expressão em inglês \"g - induced loss of consciousness”, ou seja, “perda de consciência induzida por g\". Considere a situação de um piloto de caça cuja aeronave inicia um círculo horizontal com uma velocidade escalar igual a 500m/s e, 20s mais tarde, completa a metade do círculo horizontal com a mesma velocidade escalar. A partir dessas informações, podemos afirmar que o módulo da aceleração centrípeta, em unidades de g, a que ficou submetida a cabeça do piloto foi de:",
+      principal: "Nas questões em que for necessário o uso da aceleração da gravidade, adote g = 10 $m/s$².\nQuando necessário, adote os valores:\nπ = 3\nsen30° = cos60° = 0,50\nsen60° = cos30° = 0,87\nsen45° = cos45° = 0,71\n\n43. Os pilotos de aviões de caça se preocupam quando têm que fazer curvas muito fechadas. Isto ocorre devido ao fato do corpo do piloto ficar submetido à aceleração centrípeta, com a cabeça mais próxima do centro de curvatura. Esta situação faz com que a pressão sanguínea no cérebro do piloto diminua, o que pode levar à perda das funções cerebrais causada pela hipóxia (baixo teor de oxigênio causado por problemas na circulação). Quando o módulo da aceleração centrípeta é 2g ou 3g, onde gé o valor da aceleração da gravidade, o piloto se sente pesado. Por volta de 4g, a visão do piloto passa para preto e branco e se reduz à \"visão de túnel”. Se a aceleração é mantida ou aumentada, o piloto deixa de enxergar e, logo depois, ele perde a consciência, numa situação conhecida como g - LOC, da expressão em inglês \"g - induced loss of consciousness”, ou seja, “perda de consciência induzida por g\". Considere a situação de um piloto de caça cuja aeronave inicia um círculo horizontal com uma velocidade escalar igual a $500m/s$ e, 20s mais tarde, completa a metade do círculo horizontal com a mesma velocidade escalar. A partir dessas informações, podemos afirmar que o módulo da aceleração centrípeta, em unidades de g, a que ficou submetida a cabeça do piloto foi de:",
       subItens: []
     },
     options: [
@@ -889,11 +889,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "100 m/s²",
-      "10-1 m/s²",
-      "10-4 m/s²",
-      "10-5 m/s²",
-      "10-6 m/s²"
+      "100 $m/s$²",
+      "10-1 $m/s$²",
+      "10-4 $m/s$²",
+      "10-5 $m/s$²",
+      "10-6 $m/s$²"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -906,7 +906,7 @@ createQuestion({
     university: "ufam",
     year: 2019,
     text: {
-      principal: "46. Por volta de 1630, o físico italiano Evangelista Torricelli (1608-1647) realizou uma experiência que comprovou a existência da pressão atmosférica. Nesta experiência, Torricelli também determinou o valor da pressão atmosférica ao nível do mar como sendo 760mmHg. Esta pressão ficou conhecida como de uma atmosfera (1,0 atm), de modo que em termos das unidades do SI, 1,0 atm = 1,0 × 105N/m². Considere a situação na qual uma enfermeira aplica uma força de intensidade igual a 36,3N ao êmbolo circular da seringa, que tem um raio de 1,1cm. Podemos afirmar que o aumento de pressão no líquido contido na seringa foi de aproximadamente:",
+      principal: "46. Por volta de 1630, o físico italiano Evangelista Torricelli (1608-1647) realizou uma experiência que comprovou a existência da pressão atmosférica. Nesta experiência, Torricelli também determinou o valor da pressão atmosférica ao nível do mar como sendo 760mmHg. Esta pressão ficou conhecida como de uma atmosfera (1,0 atm), de modo que em termos das unidades do SI, 1,0 atm = 1,0 × $105N/m$². Considere a situação na qual uma enfermeira aplica uma força de intensidade igual a 36,3N ao êmbolo circular da seringa, que tem um raio de 1,1cm. Podemos afirmar que o aumento de pressão no líquido contido na seringa foi de aproximadamente:",
       subItens: []
     },
     options: [
@@ -948,7 +948,7 @@ createQuestion({
     university: "ufam",
     year: 2019,
     text: {
-      principal: "48. O custo (em reais) de uma corrida de táxi em certa cidade é constituído por um valor inicial fixo (em reais) somado a um valor (em reais) que varia linearmente com a distância percorrida (em km) nessa corrida. Sabendo-se que, em uma corrida na qual foram percorridos 10 km, a quantia cobrada foi de 34 reais e que, em outra corrida de 5 km, a quantia cobrada foi de 19 reais, então o valor que se deve pagar numa corrida de 15 km é:",
+      principal: "48. O custo (em reais) de uma corrida de tá$\\xi$ em certa cidade é constituído por um valor inicial fixo (em reais) somado a um valor (em reais) que varia linearmente com a distância percorrida (em km) nessa corrida. Sabendo-se que, em uma corrida na qual foram percorridos 10 km, a quantia cobrada foi de 34 reais e que, em outra corrida de 5 km, a quantia cobrada foi de 19 reais, então o valor que se deve pagar numa corrida de 15 km é:",
       subItens: []
     },
     options: [
@@ -1015,7 +1015,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "S = {x ∈ R | 0 < x < 10/3}",
+      "S = {x ∈ R | 0 < x < $10/3$}",
       "S = {x ∈ R|0<x<2}",
       "S = {x ∈ R |0 < x < 5}",
       "S = {x ∈ R|2<x<5}",
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "ufam",
     year: 2019,
     text: {
-      principal: "54. Seja θ um ângulo agudo tal que sen θ cos θ = 0,3.\nEntão tg θ é igual a:",
+      principal: "54. Seja θ um ângulo agudo tal que $\\sin$ θ $\\cos$ θ = 0,3.\nEntão $\\tan$ θ é igual a:",
       subItens: []
     },
     options: [
@@ -1082,7 +1082,7 @@ createQuestion({
       "√3",
       "0,3",
       "1 / √3",
-      "1/3"
+      "$1/3$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],

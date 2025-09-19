@@ -13,7 +13,7 @@ createQuestion({
       "O nepotismo é uma prática política comum no Brasil atual e um exemplo típico da apropriação do público pelo privado.",
       "As mulheres só conseguiram o direito de votar nas eleições brasileiras a partir da publicação da Constituição de 1988."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História", "Sociologia"],
     conteudo: ["História do Brasil Contemporânea", "Política no Brasil"],
     imageNames: []
@@ -34,7 +34,7 @@ createQuestion({
       "A privação da liberdade do trabalhador é um fenômeno inexistente no contexto contemporâneo, uma vez que as formas tayloristas de organização do trabalho estão sendo substituídas integralmente pela flexibilização do trabalho e formação continuada do trabalhador.",
       "Tanto o trabalho escravo quanto o latifúndio, o patriarcalismo e o voto de cabresto são expressões históricas do passado brasileiro que não encontram paralelos no país atualmente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História", "Sociologia"],
     conteudo: ["História do Brasil", "Trabalho e Sociedade"],
     imageNames: []
@@ -55,7 +55,7 @@ createQuestion({
       "critica a ideia subentendida pela máxima popular segundo a qual \"a vontade do povo é a vontade de Deus\".",
       "defende o despotismo esclarecido como forma legítima de poder."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia", "Filosofia"],
     conteudo: ["Teorias Sociológicas", "Filosofia Política"],
     imageNames: []
@@ -76,7 +76,7 @@ createQuestion({
       "Ideais republicanos originados na Europa, como anticolonialismo, antimilitarismo e anticlericalismo, foram adaptados pelos inconfidentes, isto é, modificados de forma a atender seus interesses.",
       "Inspirados pela Revolução Francesa, cujo lema é liberdade, igualdade e fraternidade, as pretensões revolucionárias dos inconfidentes visavam, em primeiro lugar, a abolição da escravatura."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História", "Filosofia"],
     conteudo: ["História do Brasil Colônia", "Iluminismo"],
     imageNames: []
@@ -97,7 +97,7 @@ createQuestion({
       "Nos governos aristocráticos, apenas os melhores exercem função de comando, sendo que esses melhores variam conforme o tipo de aristocracia, tais como os mais ricos, os mais fortes, os de linhagem nobre ou até os da elite do saber.",
       "Nos governos democráticos, o poder legítimo nasce da vontade do povo."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Sociologia", "Filosofia"],
     conteudo: ["Formas de Governo", "Teoria Política"],
     imageNames: []
@@ -118,7 +118,7 @@ createQuestion({
       "A noção de belas-artes surgiu na Europa durante a Época Moderna, mas já estava implicitamente formulada na definição e na classificação greco-romanas das artes.",
       "Na Grécia Arcaica, os poetas aedos, representantes da tradição oral, tinham função predominante na educação e na transmissão da imagem do mundo, razão pela qual invocavam as deusas da memória e um saber inspirado."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Arte", "Filosofia"],
     conteudo: ["Estética", "Estética"],
     imageNames: []
@@ -139,7 +139,7 @@ createQuestion({
       "A Commedia dell'Arte (comédia da arte) é uma forma de teatro popular que surgiu na Itália durante a Idade Média, desenvolveu-se no Renascimento e permanece até os dias atuais.",
       "Guernica, célebre pintura de Picasso, retrata episódio da invasão da Espanha pelas tropas francesas de Napoleão."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte", "História"],
     conteudo: ["História da Arte", "Cultura"],
     imageNames: []
@@ -160,7 +160,7 @@ createQuestion({
       "Executou-se um ambicioso programa de obras no qual se destacou a construção de Brasília, projetada pelo arquiteto Oscar Niemeyer e pelo urbanista Lúcio Costa. O espaço urbano da cidade é dividido em dois eixos, o Eixo Monumental e o Eixo Rodoviário, que separam a área residencial do espaço ocupado pelos edifícios do governo.",
       "Ao tomar posse, o presidente desconsiderou a possibilidade de estabelecer um diálogo com os militares e de apresentar projetos que viabilizassem a modernização, a reorganização e o rearmamento das Forças Armadas, o que provocou uma insubordinação nos quartéis e desestabilizou politicamente o governo de Juscelino Kubitschek."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História do Brasil República"],
     imageNames: []
@@ -181,7 +181,7 @@ createQuestion({
       "Durante o século XIX, a vida econômica dos Campos Gerais se baseava na produção e no beneficiamento da erva-mate. Essa atividade econômica era a mais expressiva da região.",
       "No final do século XIX, os mercados centrais compradores de gado contavam com diversas fontes de suprimento e isso provocou a diminuição da capacidade de comercialização do gado paranaense."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["História", "Geografia"],
     conteudo: ["História Regional (Paraná)", "Economia Regional"],
     imageNames: []
@@ -202,7 +202,7 @@ createQuestion({
       "Na teoria, a doação das sesmarias deveria ser feita em caráter vitalício e não poderia ser transmitida a herdeiros, mas, na prática, elas foram concedidas com direitos sucessórios.",
       "Enquanto a propriedade da terra era concedida pela Coroa Portuguesa (situação que ocorreu até o ano de 1822), havia prioridade quanto à doação de pequenas propriedades voltadas ao cultivo de subsistência."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História", "Geografia"],
     conteudo: ["História do Brasil", "Geografia Agrária"],
     imageNames: []
@@ -223,7 +223,7 @@ createQuestion({
       "A primeira intervenção militar da Organização das Nações Unidas (ONU), mediante envio de tropas, ocorreu no início dos anos de 1990, na Guerra do Golfo.",
       "A Liga Árabe foi fundada após a Segunda Guerra Mundial em resposta ao holocausto cometido contra os judeus durante o referido conflito."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História", "Geografia"],
     conteudo: ["Relações Internacionais", "Geopolítica"],
     imageNames: []
@@ -241,10 +241,10 @@ createQuestion({
       "Uma das características do chamado terrorismo contemporâneo é que ele é global, isto é, não apenas convive com a globalização como também se alimenta dela como modo de sobrevivência.",
       "O Iraque invadiu o Kuwait no início dos anos de 1990, sob pretextos econômicos. O desfecho do conflito resultou no ataque ao Iraque pelas forças de coalizão, formadas por 28 países, sob a liderança dos Estados Unidos da América (EUA). O conflito ficou conhecido como a Guerra do Golfo.",
       "Dentre os conflitos registrados no continente africano, a guerra civil angolana é ilustrativa do fato de que impasses históricos existentes entre as tribos nativas podem resultar em conflitos internacionais modernos, de caráter eminentemente étnico.",
-      "O grupo terrorista Al Qaeda foi criado no final dos anos de 1980 na tentativa de reunir os árabes que combateram o exército soviético no Afeganistão, com objetivo de criar um califado pan-islâmico e expulsar os ocidentais dos países muçulmanos.",
-      "A Euskadi Ta Askatasuna (ETA) é identificada como uma organização terrorista de cunho nacionalista, radicada especialmente na Espanha, favorável à independência da região basca."
+      "O grupo terrorista Al Qaeda foi criado no final dos anos de 1980 na tentativa de reunir os árabes que combateram o exército soviético no Afeganistão, com objetivo de criar um califado pan-islâmico e expulsar os ocidentais dos países $\\mu$çulmanos.",
+      "A Euskadi Ta Askatasuna ($\\eta$) é identificada como uma organização terrorista de cunho nacionalista, radicada especialmente na Espanha, favorável à independência da região basca."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["História", "Geografia"],
     conteudo: ["Relações Internacionais", "Geopolítica"],
     imageNames: []
@@ -265,7 +265,7 @@ createQuestion({
       "Os animais do grupo citado no comando da questão pertencem ao Filo Chordata.",
       "Como são pecilotérmicos, estes animais não podem voar em grandes altitudes por tempos prolongados, em virtude da baixa temperatura nestas altitudes."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia", "Física"],
     conteudo: ["Zoologia (Aves)", "Dinâmica"],
     imageNames: []
@@ -286,7 +286,7 @@ createQuestion({
       "O calor produzido e o trabalho executado pelo organismo são consistentes com a concepção de um equivalente mecânico do calor.",
       "Em determinadas condições, o trabalho realizado por uma força pode ser transformado em calor."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Biologia", "Física"],
     conteudo: ["Fisiologia Humana (Sistema Circulatório)", "Termodinâmica"],
     imageNames: []
@@ -307,7 +307,7 @@ createQuestion({
       "A introdução do plantio da soja e o aumento exagerado da criação extensiva de gado contribuíram para a erosão dos solos, o assoreamento e a contaminação dos rios na região do Pantanal, constituindo-se nas maiores ameaças à sua conservação.",
       "Dentre os biomas brasileiros, o Pantanal Mato-Grossense apresenta a maior diversidade de espécies de plantas consideradas endêmicas desta região."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia", "Biologia"],
     conteudo: ["Biomas Brasileiros (Pantanal)", "Ecologia"],
     imageNames: []
@@ -328,7 +328,7 @@ createQuestion({
       "Os organismos bentônicos vivem na parte superior dos oceanos e, quando em desequilíbrio no âmbito da cadeia alimentar, promovem o efeito chamado maré negra, que afeta diretamente a saúde dos banhistas.",
       "As correntes marítimas frias são influenciadas pelos diferentes níveis de insolação da Terra. Elas interferem na dinâmica marinha e também na continental, podendo ser responsáveis pelo aparecimento de regiões desérticas nos continentes."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Geografia"],
     conteudo: ["Ecologia Marinha", "Oceanografia"],
     imageNames: []
@@ -349,7 +349,7 @@ createQuestion({
       "Há 364 alunos nesta escola que não podem doar sangue para uma pessoa do grupo sanguíneo O.",
       "Nesta escola, há mais de 200 alunos com tipo sanguíneo A ou B."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Matemática"],
     conteudo: ["Genética (Tipos Sanguíneos)", "Probabilidade e Estatística (Análise de Dados)"],
     imageNames: []
@@ -370,7 +370,7 @@ createQuestion({
       "A probabilidade de nascerem indivíduos amarelos-claros ou amarelos-escuros é de 0,8.",
       "Suponha que os alevinos dourados e pratas sejam vendidos a R$ 40,00 cada e os demais vendidos a R$ 10,00 cada. Se deste cruzamento resultaram 240 alevinos, espera-se que a venda destes renda R$ 3.300,00."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia", "Matemática"],
     conteudo: ["Genética (Herança Mendeliana, Interação Gênica)", "Probabilidade"],
     imageNames: []
@@ -391,7 +391,7 @@ createQuestion({
       "O gráfico que demonstra o aumento do número de células, nas etapas do ciclo celular no desenvolvimento embrionário inicial, é uma reta.",
       "A cada ciclo, o número de cromossomos sexuais dobrará enquanto o número de autossomos aumentará 22 vezes."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Embriologia", "Divisão Celular (Mitose)"],
     imageNames: []
@@ -406,13 +406,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/3 das árvores identificadas são angiospermas.",
+      "$1/3$ das árvores identificadas são angiospermas.",
       "Precisamente, 66% das plantas identificadas não têm sementes.",
       "O estudo foi realizado em uma área de 250√3 metros quadrados.",
-      "Na área total delimitada, a probabilidade de se encontrarem árvores que produzam frutos é de 1/3.",
+      "Na área total delimitada, a probabilidade de se encontrarem árvores que produzam frutos é de $1/3$.",
       "Cada área delimitada forma um polígono regular com lados e ângulos internos congruentes e com altura igual à mediana."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática", "Biologia"],
     conteudo: ["Geometria Plana", "Botânica", "Probabilidade"],
     imageNames: []
@@ -433,7 +433,7 @@ createQuestion({
       "A fenilcetonúria se deve à falta da proteína fenilalanina, que transforma a tirosina em alanina.",
       "A albumina encontrada na clara do ovo é uma proteína complexa e sofre desnaturação por aquecimento."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Química"],
     conteudo: ["Bioquímica", "Bioquímica"],
     imageNames: []
@@ -454,7 +454,7 @@ createQuestion({
       "O lixão, quando situado distante de cidades, é uma solução ambientalmente correta para o problema do lixo urbano.",
       "Um dos gases resultantes da decomposição da matéria orgânica existente no lixo, o metano, contém apenas átomos de carbono e de hidrogênio; logo, é um hidrocarboneto."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia", "Química", "Geografia"],
     conteudo: ["Ecologia", "Química Ambiental", "Impactos Ambientais"],
     imageNames: []
@@ -475,7 +475,7 @@ createQuestion({
       "Os carboidratos são uma classe de moléculas que têm como característica marcante serem formadas primariamente por unidades H-C-O-H, o que faz com que essas moléculas sejam polares e geralmente solúveis em água.",
       "Os nucleotídeos são formados por uma pentose, um grupo fosfato e uma base nitrogenada. As bases nitrogenadas são estruturas apolares que interagem entre si somente por interações de Van der Waals."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Bioquímica", "Bioquímica"],
     imageNames: []
@@ -496,7 +496,7 @@ createQuestion({
       "A porção mineral de um osso é atacada e dissolvida quando mergulhada em uma solução de um ácido forte como o HCl, formando um ácido moderado, o ácido fosfórico.",
       "Células que produzem a matriz óssea são chamadas osteoclastos. Já os osteoblastos são células gigantes e multinucleadas que destroem áreas lesadas ou envelhecidas do tecido ósseo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia", "Química"],
     conteudo: ["Histologia Animal (Tecido Ósseo e Cartilaginoso)", "Reações Químicas"],
     imageNames: []
@@ -517,7 +517,7 @@ createQuestion({
       "Se as lâmpadas azuis forem agrupadas em um circuito em paralelo e na sequência, no mesmo circuito, agrupadas as outras em série, teremos (29!)/(10!10!9!) maneiras distintas de formar um circuito de mesma resistência equivalente.",
       "Um curto circuito pode ocorrer quando se conecta um condutor elétrico sem resistência em dois pontos do circuito elétrico."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física", "Matemática"],
     conteudo: ["Eletricidade (Circuitos Elétricos, Resistência)", "Análise Combinatória"],
     imageNames: []
@@ -538,7 +538,7 @@ createQuestion({
       "É possível determinar o módulo de um vetor conhecendo apenas os módulos de suas componentes ortogonais.",
       "O vetor BC é paralelo ao eixo das abscissas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Analítica (Vetores)"],
     imageNames: []
@@ -559,7 +559,7 @@ createQuestion({
       "Considere duas fontes luminosas, pontuais e distintas, M, N ∈ AB, distintas de B, emitindo um raio de luz em P cujas reflexões M' e N' estão na reta AC, respectivamente. Assim definidos, os triângulos MPM' e NPN' são semelhantes.",
       "Sendo a reflexão do raio de luz difusa, a trajetória da luz refletida será parabólica."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Óptica Geométrica (Reflexão da Luz)"],
     imageNames: []
@@ -570,17 +570,17 @@ createQuestion({
     university: "uem",
     year: 2016,
     text: {
-      principal: "Um cubo de 100 g de certa substância, inicialmente em estado sólido, recebe calor de uma fonte térmica numa taxa constante de 5 cal/s (desconsidere perdas de calor para o ambiente). Durante os primeiros 180 s, a temperatura da substância cresce linearmente com o tempo, de 20 °C para 60 °C. Durante os próximos 240 s, a temperatura permanece constante e igual a 60 °C. A temperatura da substância começa a subir novamente, linearmente com o tempo, por mais 120 s até chegar a 90 °C. O comportamento da temperatura T (em °C) da substância, em função do tempo t (em s) de exposição à fonte térmica, pode ser representado pelas seguintes funções: T = at+b, no intervalo compreendido entre 0s e 180s; T = e, de 180 s a 420 s; e T = ct +d, entre 420 s e 540 s; com a, b, c, d e e constantes. Sobre este sistema e as funções descritas acima, assinale o que for correto.",
+      principal: "Um cubo de 100 g de certa substância, inicialmente em estado sólido, recebe calor de uma fonte térmica numa taxa constante de 5 $cal/s$ (desconsidere perdas de calor para o ambiente). Durante os primeiros 180 s, a temperatura da substância cresce linearmente com o tempo, de 20 °C para 60 °C. Durante os próximos 240 s, a temperatura permanece constante e igual a 60 °C. A temperatura da substância começa a subir novamente, linearmente com o tempo, por mais 120 s até chegar a 90 °C. O comportamento da temperatura T (em °C) da substância, em função do tempo t (em s) de exposição à fonte térmica, pode ser representado pelas seguintes funções: T = at+b, no intervalo compreendido entre 0s e 180s; T = e, de 180 s a 420 s; e T = ct +d, entre 420 s e 540 s; com a, b, c, d e e constantes. Sobre este sistema e as funções descritas acima, assinale o que for correto.",
       subItens: []
     },
     options: [
       "O calor específico desta substância no estado sólido é maior que seu calor específico no estado líquido.",
-      "O calor latente de fusão desta substância é maior que 20 cal/g.",
+      "O calor latente de fusão desta substância é maior que 20 $cal/g$.",
       "No instante t = 45 s, a temperatura da substância é T = 34 °C.",
       "No instante t = 480 s, a temperatura da substância é T = 75 °C.",
       "b+d > 0."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica (Calorimetria, Mudanças de Estado)"],
     imageNames: []
@@ -591,17 +591,17 @@ createQuestion({
     university: "uem",
     year: 2016,
     text: {
-      principal: "Em um evento esportivo, um atleta faz um lançamento de um disco de metal de 2 kg. Assim que o disco deixa a mão do atleta, sua trajetória no plano xy pode ser representada pela função y=3+x-(x^2)/68, definida no intervalo entre x=0 e x=A. Nesta expressão, y representa a altura em metros do disco em relação ao solo, x representa a distância horizontal em metros do disco em relação ao ponto de lançamento, e A representa o alcance horizontal máximo em metros. Sobre esse lançamento, assinale o que for correto.\nDado: A equação da trajetória num lançamento oblíquo pode ser escrita como y - y₀ = (v₀y/v₀x)(x - x₀) - (g/(2v₀x²))(x - x₀)², em que x₀ e y₀ são as coordenadas iniciais, v₀x e v₀y são as projeções do vetor velocidade inicial nas direções x e y, respectivamente, e g = 10 m/s² é a aceleração gravitacional.",
+      principal: "Em um evento esportivo, um atleta faz um lançamento de um disco de metal de 2 kg. Assim que o disco deixa a mão do atleta, sua trajetória no plano xy pode ser representada pela função y=3+x-($x^2$)/68, definida no intervalo entre x=0 e x=A. Nesta expressão, y representa a altura em metros do disco em relação ao solo, x representa a distância horizontal em metros do disco em relação ao ponto de lançamento, e A representa o alcance horizontal máximo em metros. Sobre esse lançamento, assinale o que for correto.\nDado: A equação da trajetória num lançamento oblíquo pode ser escrita como y - y₀ = (v₀$y/v$₀x)(x - x₀) - (g/(2v₀x²))(x - x₀)², em que x₀ e y₀ são as coordenadas iniciais, v₀x e v₀y são as projeções do vetor velocidade inicial nas direções x e y, respectivamente, e g = 10 $m/s$² é a aceleração gravitacional.",
       subItens: []
     },
     options: [
       "No ponto mais alto da trajetória, y > 17 m.",
       "No ponto mais alto da trajetória, x = 35 m.",
       "A > 68 m.",
-      "O módulo da velocidade inicial é √680 m/s.",
+      "O módulo da velocidade inicial é √680 $m/s$.",
       "O vetor velocidade inicial faz um ângulo de 42° com a horizontal."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física", "Matemática"],
     conteudo: ["Cinemática (Lançamento de Projéteis)", "Funções Quadráticas"],
     imageNames: []
@@ -622,7 +622,7 @@ createQuestion({
       "A temperatura do gás diminui, pois a distância média entre as moléculas desse gás diminui com a expansão.",
       "Ao expandir-se, o gás sofre uma transformação reversível."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica (Gases Ideais)"],
     imageNames: []
@@ -643,7 +643,7 @@ createQuestion({
       "Existem pilhas que não apresentam resistência interna.",
       "Pilhas não podem ser empregadas para gerar campos elétricos ou magnéticos constantes."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física", "Química"],
     conteudo: ["Eletrodinâmica (Pilhas, Corrente Elétrica)", "Eletroquímica"],
     imageNames: []
@@ -662,9 +662,9 @@ createQuestion({
       "Ao completar-se o ciclo, a variação da energia interna é nula.",
       "O trabalho realizado, quando o ciclo é completado no sentido horário do círculo, é numericamente igual ao valor de πV₀².",
       "Ao completar-se o ciclo no sentido horário do círculo, o calor é convertido em trabalho.",
-      "A energia interna do gás, quando a pressão é igual a 3P₀, é dada por U = (27/2)P₀V₀."
+      "A energia interna do gás, quando a pressão é igual a 3P₀, é dada por U = ($27/2$)P₀V₀."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica (Gases Ideais, Ciclos Termodinâmicos)"],
     imageNames: []
@@ -675,17 +675,17 @@ createQuestion({
     university: "uem",
     year: 2016,
     text: {
-      principal: "Em um laboratório, há duas provetas idênticas em formato de cilindros circulares retos cujas alturas são o triplo do raio da base. Suponha que metade de cada proveta está ocupada com 324π cm³ de água pura e considere dois experimentos:\nI - Ao colocar-se em uma das provetas um parafuso de cobre de densidade 9 g/cm³, o nível da água sobe 3 cm.\nII - Ao colocar-se na outra proveta uma porção de glicose líquida (C₆H₁₂O₆) de densidade 1,5 g/cm³, o nível da água sobe 2 cm.\nSuponha, também, que uma solução homogênea preparada a partir de 100 mL de água pura e 50 mL de glicose líquida tem um volume de 148 mL. Com base nestas informações, assinale o que for correto.",
+      principal: "Em um laboratório, há duas provetas idênticas em formato de cilindros circulares retos cujas alturas são o triplo do raio da base. Suponha que metade de cada proveta está ocupada com 324π cm³ de água pura e considere dois experimentos:\nI - Ao colocar-se em uma das provetas um parafuso de cobre de densidade 9 $g/cm$³, o nível da água sobe 3 cm.\nII - Ao colocar-se na outra proveta uma porção de glicose líquida (C₆H₁₂O₆) de densidade 1,5 $g/cm$³, o nível da água sobe 2 cm.\nSuponha, também, que uma solução homogênea preparada a partir de 100 mL de água pura e 50 mL de glicose líquida tem um volume de 148 mL. Com base nestas informações, assinale o que for correto.",
       subItens: []
     },
     options: [
       "Antes da realização dos dois experimentos, o nível da água em cada proveta está a 9 cm da sua base.",
       "Após o acréscimo da glicose, tem-se uma solução homogênea com massa superior a 1200 g.",
       "Há o triplo de número de mols de átomos de cobre no parafuso em relação ao número de mols de moléculas de água em uma das provetas.",
-      "No segundo experimento, foi acrescentado menos que (9/5) mols de moléculas de glicose.",
+      "No segundo experimento, foi acrescentado menos que ($9/5$) mols de moléculas de glicose.",
       "Em cada proveta há mais de 10²⁵ moléculas de água."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física", "Química", "Matemática"],
     conteudo: ["Hidrostática (Densidade, Volume)", "Soluções, Estequiometria", "Geometria Espacial"],
     imageNames: []
@@ -696,7 +696,7 @@ createQuestion({
     university: "uem",
     year: 2016,
     text: {
-      principal: "No quadro abaixo, encontra-se a energia aproximada liberada em alguns processos.\nProcesso | Energia kJ/g\n---|---\nFissão nuclear do ²³⁵U | 8 x 10⁷\nFusão nuclear de ¹H e ³H | 3 x 10⁸\nCombustão do hidrogênio | 144\nCombustão do etanol | 30\nExplosão do TNT | 3\nSabendo-se que 1 quiloton é o equivalente energético à explosão de mil quilos de TNT, assinale o que for correto.",
+      principal: "No quadro abaixo, encontra-se a energia aproximada liberada em alguns processos.\nProcesso | Energia $kJ/g$\n---|---\nFissão nuclear do ²³⁵U | 8 x 10⁷\nFusão nuclear de ¹H e ³H | 3 x 10⁸\nCombustão do hidrogênio | 144\nCombustão do etanol | 30\nExplosão do TNT | 3\nSabendo-se que 1 quiloton é o equivalente energético à explosão de mil quilos de TNT, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -706,7 +706,7 @@ createQuestion({
       "Uma das vantagens da fusão nuclear em relação à fissão nuclear é a abundância de hidrogênio na natureza.",
       "Se uma bomba baseada na fusão de hidrogênio tem 58 quilotons, então ela é equivalente à queima de mais de 5,8 toneladas de hidrogênio."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física", "Química"],
     conteudo: ["Física Nuclear (Fissão, Fusão)", "Termoquímica"],
     imageNames: []
@@ -717,17 +717,17 @@ createQuestion({
     university: "uem",
     year: 2016,
     text: {
-      principal: "Diluições sucessivas constituem uma técnica de preparação de soluções com diferentes concentrações. Tendo como referência uma solução inicial de sacarose 1 mol/L, assinale a(s) alternativa(s) correta(s).",
+      principal: "Diluições sucessivas constituem uma técnica de preparação de soluções com diferentes concentrações. Tendo como referência uma solução inicial de sacarose 1 $mol/L$, assinale a(s) alternativa(s) correta(s).",
       subItens: []
     },
     options: [
       "A concentração final da solução de sacarose obtida por diluições sucessivas da solução inicial, utilizando-se 1 litro de água pura e 1 litro de solução, em cada diluição, pode ser obtida através de uma progressão aritmética, onde cada termo da progressão corresponde à concentração na n-ésima diluição.",
-      "Onze é o número de passos necessários de diluição da solução inicial de sacarose, utilizando-se o mesmo volume de água pura e solução, em cada diluição, para que a concentração de sacarose na solução final seja menor que 1 x 10⁻³ mol/L.",
-      "Vinte e um é o número de passos necessários de diluição da solução inicial de sacarose, utilizando-se nove litros de água pura para cada 1 litro de solução, em cada diluição, para que a concentração de sacarose na solução final seja menor que 2 x 10⁻²¹ mol/L.",
-      "A concentração final da solução de sacarose obtida por diluições sucessivas da solução inicial, utilizando-se o dobro de volume de água pura para cada 1 litro de solução, em cada diluição, pode ser obtida através de uma progressão geométrica de razão 1/3.",
+      "Onze é o número de passos necessários de diluição da solução inicial de sacarose, utilizando-se o mesmo volume de água pura e solução, em cada diluição, para que a concentração de sacarose na solução final seja menor que 1 x 10⁻³ $mol/L$.",
+      "Vinte e um é o número de passos necessários de diluição da solução inicial de sacarose, utilizando-se nove litros de água pura para cada 1 litro de solução, em cada diluição, para que a concentração de sacarose na solução final seja menor que 2 x 10⁻²¹ $mol/L$.",
+      "A concentração final da solução de sacarose obtida por diluições sucessivas da solução inicial, utilizando-se o dobro de volume de água pura para cada 1 litro de solução, em cada diluição, pode ser obtida através de uma progressão geométrica de razão $1/3$.",
       "O número de passos de diluição da solução inicial de sacarose, utilizando-se nove litros de água pura para cada 1 litro de solução, em cada diluição, para que a concentração de sacarose na solução final seja de aproximadamente 6 moléculas por litro, é igual a 23."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química", "Matemática"],
     conteudo: ["Soluções (Concentração, Diluição)", "Progressão Geométrica"],
     imageNames: []
@@ -742,13 +742,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "A 25 °C, o pH de uma solução de HCl 0,00001 mol/L é igual a 5.",
-      "A 25 °C, o pOH de uma solução de H₂SO₄ 0,005 mol/L é igual a 2.",
+      "A 25 °C, o pH de uma solução de HCl 0,00001 $mol/L$ é igual a 5.",
+      "A 25 °C, o pOH de uma solução de H₂SO₄ 0,005 $mol/L$ é igual a 2.",
       "A variação do valor do produto iônico da água (Kw) é inversamente proporcional à temperatura da mesma.",
-      "Para a água, a 25 °C, é correto afirmar que -log Kw = -log 10⁻¹⁴ = 14.",
-      "A 25 °C, a potência hidrogeniônica de uma solução com concentração 0,000001 mol/L de íons H⁺ é igual a 6."
+      "Para a água, a 25 °C, é correto afirmar que -$\\log$ Kw = -$\\log$ 10⁻¹⁴ = 14.",
+      "A 25 °C, a potência hidrogeniônica de uma solução com concentração 0,000001 $mol/L$ de íons H⁺ é igual a 6."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Eletroquímica (pH, pOH)", "Reações Químicas (Produto Iônico da Água)"],
     imageNames: []
@@ -759,17 +759,17 @@ createQuestion({
     university: "uem",
     year: 2016,
     text: {
-      principal: "O método da datação com carbono-14, cuja abundância na natureza é de 0,000001% e cuja meia-vida é de 5730 anos, consiste em medir a quantidade remanescente desse isótopo radioativo em achados arqueológicos compostos por restos de seres vivos antigos que deixam de repor esse isótopo assim que morrem. O carbono-14 forma-se na alta atmosfera, onde continuamente está ocorrendo uma transmutação nuclear causada pela colisão de nêutrons, vindos do espaço, com átomos de nitrogênio do ar. O carbono-14 formado incorpora-se à atmosfera na forma de CO₂, por meio da fotossíntese, passa a fazer parte dos seres vivos fotossintetizantes e, através das cadeias alimentares, também dos demais seres vivos. Além disso, com a mesma velocidade com que o carbono-14 se forma na alta atmosfera, ele se desintegra por meio de decaimento beta. Desse modo, sua porcentagem no planeta permanece constante, sendo exatamente a mesma na atmosfera e em todos os seres vivos. Sobre este assunto e outros correlatos, é correto afirmar que",
+      principal: "O método da datação com carbono-14, cuja abundância na natureza é de 0,000001% e cuja meia-vida é de 5730 anos, consiste em medir a quantidade remanescente desse isótopo radioativo em achados arqueológicos compostos por restos de seres vivos antigos que deixam de repor esse isótopo assim que morrem. O carbono-14 forma-se na alta atmosfera, onde continuamente está ocorrendo uma transmutação nuclear causada pela colisão de nêutrons, vindos do espaço, com átomos de nitrogênio do ar. O carbono-14 formado incorpora-se à atmosfera na forma de CO₂, por meio da fotossíntese, passa a fazer parte dos seres vivos fotossintetizantes e, através das cadeias alimentares, também dos demais seres vivos. Além disso, com a mesma velocidade com que o carbono-14 se forma na alta atmosfera, ele se desintegra por meio de decaimento $\\beta$. Desse modo, sua porcentagem no planeta permanece constante, sendo exatamente a mesma na atmosfera e em todos os seres vivos. Sobre este assunto e outros correlatos, é correto afirmar que",
       subItens: []
     },
     options: [
       "em cada cem milhões de átomos de carbono de um ser vivo, um é de carbono-14.",
       "se for encontrado em um fóssil de fêmur humano uma proporção de 5 átomos de carbono-14 em cada bilhão de átomos de carbono, então a idade estimada desse fóssil é de 5730 anos.",
-      "baseado no princípio da conservação da carga, a desintegração do carbono-14 por meio de decaimento beta é consistente com a equação ¹⁴C → ⁰β + ¹⁴N⁺, em que β representa um elétron.",
+      "baseado no princípio da conservação da carga, a desintegração do carbono-14 por meio de decaimento $\\beta$ é consistente com a equação ¹⁴C → ⁰β + ¹⁴N⁺, em que β representa um elétron.",
       "o método da datação com carbono-14 permite estimar a idade de rochas e, portanto, a idade da Terra.",
       "aplicando-se o método da datação com carbono-14 em fósseis encontrados no Parque Nacional da Serra da Capivara, no Piauí, foi possível constatar que índios pré-históricos habitavam o Brasil milhares de anos antes da chegada dos portugueses, em 1500."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química", "Biologia", "História"],
     conteudo: ["Radioatividade (Datação por Carbono-14)", "Ecologia", "Pré-História Brasileira"],
     imageNames: []
@@ -790,7 +790,7 @@ createQuestion({
       "O nascer do sol está posicionado no terceiro quadrante.",
       "Alguém posicionado na origem do sistema caminha em direção ao ponto (1,1), então essa pessoa caminha na direção e no sentido de SO para NE."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia", "Matemática"],
     conteudo: ["Cartografia (Orientação)", "Geometria Analítica"],
     imageNames: []
@@ -811,7 +811,7 @@ createQuestion({
       "Considerando que, no bairro citado, a distância real entre uma escola e uma praça é de 15 m e que a distância gráfica na planta é de 3 cm, então a planta foi desenhada na escala 1:500.",
       "As plantas cartográficas mostram parte do espaço geográfico e são representadas por escalas pequenas na forma gráfica ou numérica."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia", "Matemática"],
     conteudo: ["Cartografia (Escalas, SIG)", "Geometria Plana (Paralelogramo)"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "Em terrenos vazios das grandes cidades, é comum a ocorrência de lixo do tipo público.",
       "Coletada para ajudar no sustento de muitas pessoas, a sucata de alumínio é transformada em novos objetos (vasilhames etc) através da fusão."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Geografia", "Química"],
     conteudo: ["Questões Ambientais (Resíduos Sólidos, Reciclagem)", "Polímeros"],
     imageNames: []

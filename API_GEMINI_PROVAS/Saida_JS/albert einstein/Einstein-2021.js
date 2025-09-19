@@ -129,7 +129,7 @@ createQuestion({
     university: "albert einstein",
     year: 2021,
     text: {
-      principal: "O Classicismo considerava o poeta como servidor da obra, elaborada segundo regras eternas e destinada a certos fins de ordem moral e catártica. Este novo movimento tende a se importar mais com a autoexpressão da subjetividade do poeta. A verdade poética não é mais obtida pela \"imitação da natureza\" e sim pela \"sinceridade” e “autenticidade\" da autoexpressão. A obra, antes válida enquanto objeto perfeito, vale agora sobretudo enquanto revelação da verdade íntima do criador. A \"perfeição” é nociva na medida em que suprime a sinceridade e a espontaneidade. (Anatol Rosenfeld. Texto/Contexto I, 1996. Adaptado.) O novo movimento a que o texto se refere é o",
+      principal: "O Classicismo considerava o poeta como servidor da obra, elaborada segundo regras eternas e destinada a certos fins de ordem moral e catártica. Este novo movimento tende a se importar mais com a autoexpressão da subjetividade do poeta. A verdade poética não é mais obtida pela \"imitação da natureza\" e sim pela \"sinceridade” e “autenticidade\" da autoexpressão. A obra, antes válida enquanto objeto perfeito, vale agora sobretudo enquanto revelação da verdade íntima do criador. A \"perfeição” é nociva na medida em que suprime a sinceridade e a espontaneidade. (Anatol Rosenfeld. $Texto/Contexto$ I, 1996. Adaptado.) O novo movimento a que o texto se refere é o",
       subItens: []
     },
     options: [
@@ -549,11 +549,11 @@ createQuestion({
     university: "albert einstein",
     year: 2021,
     text: {
-      principal: "Um pesquisador realizou um experimento no qual semeou, em diferentes lotes de terreno, variável número de espécies de gramíneas. Em alguns lotes foram semeadas 15 espécies, em outros foram semeadas 14 espécies, e em outros foram semeadas 12 espécies. Em cada conjunto de lotes com o mesmo número de espécies de gramíneas também foram avaliadas variáveis como quantidade de nitrogênio (N) adicionado ao solo (kg por hectare), irrigação do solo, fornecimento adicional de CO₂, assim como a ocorrência de episódios de fogo, seca, ou presença de herbívoros. Ao longo dos anos, o pesquisador registrou a produtividade primária nesses lotes de terreno, e os resultados estão apresentados no gráfico. [Imagem: Gráfico de barras mostrando a produção de biomassa (produtividade primária) para diferentes tratamentos: número de espécies de gramíneas (15, 14, 12), adição de nitrogênio em diferentes quantidades (34, 54, 95 kg/ha), aumento de H2O disponível, aumento de CO2 disponível, seca, herbívoros, fogo. A produção de biomassa é maior com 15 espécies de gramíneas e diminui com menos espécies. A adição de nitrogênio e aumento de H2O/CO2 aumentam a produção, enquanto seca, herbívoros e fogo a diminuem.] Dos resultados do experimento, pode-se concluir que:",
+      principal: "Um pesquisador realizou um experimento no qual semeou, em diferentes lotes de terreno, variável número de espécies de gramíneas. Em alguns lotes foram semeadas 15 espécies, em outros foram semeadas 14 espécies, e em outros foram semeadas 12 espécies. Em cada conjunto de lotes com o mesmo número de espécies de gramíneas também foram avaliadas variáveis como quantidade de nitrogênio (N) adicionado ao solo (kg por hectare), irrigação do solo, fornecimento adicional de CO₂, assim como a ocorrência de episódios de fogo, seca, ou presença de herbívoros. Ao longo dos anos, o pesquisador registrou a produtividade primária nesses lotes de terreno, e os resultados estão apresentados no gráfico. [Imagem: Gráfico de barras mostrando a produção de biomassa (produtividade primária) para diferentes tratamentos: número de espécies de gramíneas (15, 14, 12), adição de nitrogênio em diferentes quantidades (34, 54, 95 $kg/ha$), aumento de H2O disponível, aumento de CO2 disponível, seca, herbívoros, fogo. A produção de biomassa é maior com 15 espécies de gramíneas e diminui com menos espécies. A adição de nitrogênio e aumento de $H2O/CO2$ aumentam a produção, enquanto seca, herbívoros e fogo a diminuem.] Dos resultados do experimento, pode-se concluir que:",
       subItens: []
     },
     options: [
-      "a adição de 34 kg/ha de N aumenta a produção primária mais do que a presença de 15 espécies de gramíneas em um ecossistema.",
+      "a adição de 34 $kg/ha$ de N aumenta a produção primária mais do que a presença de 15 espécies de gramíneas em um ecossistema.",
       "a diversidade biológica desempenha um papel importante na produção primária de um ecossistema.",
       "os fatores abióticos são mais importantes para aumentar a produção primária do que a diversidade biológica.",
       "o fogo, a seca e a comunidade de herbívoros inibem totalmente a produção primária de um ecossistema.",
@@ -738,15 +738,15 @@ createQuestion({
     university: "albert einstein",
     year: 2021,
     text: {
-      principal: "Em uma aula de tênis, um aprendiz, quando foi sacar, lançou a bola verticalmente para cima e a golpeou com a raquete exatamente no instante em que ela parou no ponto mais alto, a 2,45 m de altura em relação ao piso da quadra. Imediatamente após esse movimento, a bola partiu com uma velocidade inicial horizontal V₀ e tocou o solo a 16,8 m de distância da vertical que passava pelo ponto de partida. [Imagem: Diagrama de uma quadra de tênis mostrando um jogador e uma bola. A altura de lançamento da bola é 2,45 m. A distância horizontal percorrida pela bola até o solo é 16,8 m. Uma seta indica a velocidade inicial horizontal V₀.] Adotando-se g = 10 m/s², desprezando-se a resistência do ar e a rotação da bola ao longo de seu trajeto, o módulo de V₀ quando a bola perdeu contato com a raquete foi de",
+      principal: "Em uma aula de tênis, um aprendiz, quando foi sacar, lançou a bola verticalmente para cima e a golpeou com a raquete exatamente no instante em que ela parou no ponto mais alto, a 2,45 m de altura em relação ao piso da quadra. Imediatamente após esse movimento, a bola partiu com uma velocidade inicial horizontal V₀ e tocou o solo a 16,8 m de distância da vertical que passava pelo ponto de partida. [Imagem: Diagrama de uma quadra de tênis mostrando um jogador e uma bola. A altura de lançamento da bola é 2,45 m. A distância horizontal percorrida pela bola até o solo é 16,8 m. Uma seta indica a velocidade inicial horizontal V₀.] Adotando-se g = 10 $m/s$², desprezando-se a resistência do ar e a rotação da bola ao longo de seu trajeto, o módulo de V₀ quando a bola perdeu contato com a raquete foi de",
       subItens: []
     },
     options: [
-      "20 m/s.",
-      "24 m/s.",
-      "22 m/s.",
-      "28 m/s.",
-      "26 m/s."
+      "20 $m/s$.",
+      "24 $m/s$.",
+      "22 $m/s$.",
+      "28 $m/s$.",
+      "26 $m/s$."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -780,7 +780,7 @@ createQuestion({
     university: "albert einstein",
     year: 2021,
     text: {
-      principal: "Dois raios de luz monocromática e de mesma cor, 1 e 2, atravessam um bloco transparente, imerso no ar, com a forma de um paralelepípedo reto-retângulo, conforme a figura. [Imagem: Diagrama mostrando dois raios de luz (1 e 2) passando de ar para um bloco transparente retangular e de volta para o ar. O raio 1 incide a 30° da normal. O raio 2 refrata dentro do bloco e incide na saída a 60° da normal, saindo com um ângulo α. Tabela fornecida com valores de \"α\" e \"sen α\".] Considerando os valores apresentados na tabela e sabendo que o índice de refração absoluto do ar é nar = 1, a medida do ângulo α indicado na figura é, aproximadamente,",
+      principal: "Dois raios de luz monocromática e de mesma cor, 1 e 2, atravessam um bloco transparente, imerso no ar, com a forma de um paralelepípedo reto-retângulo, conforme a figura. [Imagem: Diagrama mostrando dois raios de luz (1 e 2) passando de ar para um bloco transparente retangular e de volta para o ar. O raio 1 incide a 30° da normal. O raio 2 refrata dentro do bloco e incide na saída a 60° da normal, saindo com um ângulo α. Tabela fornecida com valores de \"α\" e \"$\\sin$ α\".] Considerando os valores apresentados na tabela e sabendo que o índice de refração absoluto do ar é nar = 1, a medida do ângulo α indicado na figura é, aproximadamente,",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "albert einstein",
     year: 2021,
     text: {
-      principal: "De acordo com os protocolos baseados em evidências para manejo de doenças cardiovasculares da Organização Mundial de Saúde (OMS), o diagnóstico de hipertensão deve ser confirmado, com início do tratamento, se houver registro de: • em duas consultas, com intervalo de 1 a 4 semanas: – pressão arterial sistólica (PAS) ≥ 140 mmHg nos dois dias e/ou – pressão arterial diastólica (PAD) ≥ 90 mmHg nos dois dias. • PAS ≥ 160 mmHg e/ou PAD ≥ 100 mmHg em uma consulta. Dez pacientes tiveram suas pressões arteriais medidas no primeiro e no último dia de agosto, obtendo-se o seguinte registro de dados: [Gráficos: Dois gráficos de dispersão (PAS vs PAD), um para '1 de agosto' e outro para '31 de agosto', com pontos marcados indicando as medições de pressão de dez pacientes. Linhas horizontais e verticais em 140/90 e 160/100 delimitam as áreas de diagnóstico.] Conforme o protocolo da OMS, entre todos pacientes que receberam indicação de tratamento, a porcentagem que teve indicação de tratamento apenas depois da consulta do dia 31 de agosto foi de",
+      principal: "De acordo com os protocolos baseados em evidências para manejo de doenças cardiovasculares da Organização Mundial de Saúde (OMS), o diagnóstico de hipertensão deve ser confirmado, com início do tratamento, se houver registro de: • em duas consultas, com intervalo de 1 a 4 semanas: – pressão arterial sistólica (PAS) ≥ 140 mmHg nos dois dias $e/ou$ – pressão arterial diastólica (PAD) ≥ 90 mmHg nos dois dias. • PAS ≥ 160 mmHg $e/ou$ PAD ≥ 100 mmHg em uma consulta. Dez pacientes tiveram suas pressões arteriais medidas no primeiro e no último dia de agosto, obtendo-se o seguinte registro de dados: [Gráficos: Dois gráficos de dispersão (PAS vs PAD), um para '1 de agosto' e outro para '31 de agosto', com pontos marcados indicando as medições de pressão de dez pacientes. Linhas horizontais e verticais em $140/90$ e $160/100$ delimitam as áreas de diagnóstico.] Conforme o protocolo da OMS, entre todos pacientes que receberam indicação de tratamento, a porcentagem que teve indicação de tratamento apenas depois da consulta do dia 31 de agosto foi de",
       subItens: []
     },
     options: [
@@ -897,7 +897,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
-    conteudo: ["Análise Combinatória", "Sistemas de Equações/Inequações"],
+    conteudo: ["Análise Combinatória", "Sistemas de Equaçõ$es/Inequa$ções"],
     imageNames: []
 }),
 
@@ -906,15 +906,15 @@ createQuestion({
     university: "albert einstein",
     year: 2021,
     text: {
-      principal: "Seja uma função exponencial, de IR em IR, definida por y = 5. 2^(3x). A reta r, indicada na figura, representa o gráfico de log₁₀ y, em função de x. [Imagem: Gráfico de log₁₀y em função de x. Uma reta 'r' passa por M no eixo x e E no eixo log₁₀y. O ponto D está no eixo x após M. O triângulo MED é sombreado. M aparenta ser a origem (0,0) do novo sistema, ou um ponto onde log₁₀y=0, ou seja, y=1.] A área do triângulo MED, em unidades de área do sistema de eixos ortogonais, é igual a",
+      principal: "Seja uma função exponencial, de IR em IR, definida por y = 5. 2^(3x). A reta r, indicada na figura, representa o gráfico de $\\log$₁₀ y, em função de x. [Imagem: Gráfico de $\\log$₁₀y em função de x. Uma reta 'r' passa por M no eixo x e E no eixo $\\log$₁₀y. O ponto D está no eixo x após M. O triângulo MED é sombreado. M aparenta ser a origem (0,0) do novo sistema, ou um ponto onde $\\log$₁₀y=0, ou seja, y=1.] A área do triângulo MED, em unidades de área do sistema de eixos ortogonais, é igual a",
       subItens: []
     },
     options: [
-      "log₅ 2",
-      "log√8",
-      "log₂ 5",
-      "log 2",
-      "log 4"
+      "$\\log$₅ 2",
+      "$\\log$√8",
+      "$\\log$₂ 5",
+      "$\\log$ 2",
+      "$\\log$ 4"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -952,10 +952,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "7/2",
+      "$7/2$",
       "√15",
-      "3√5/2",
-      "5√3/2",
+      "3√$5/2$",
+      "5√$3/2$",
       "4"
     ],
     correctAnswer: 4,
@@ -969,15 +969,15 @@ createQuestion({
     university: "albert einstein",
     year: 2021,
     text: {
-      principal: "Para que uma medicação faça efeito, sua concentração no sangue precisa exceder certo valor, que é chamado de nível mínimo terapêutico. Admita que a concentração c de uma medicação no sangue, em mg/L, t horas após sua ingestão oral, seja dada pela função c = 20t / (t² + 4). Se o nível mínimo terapêutico dessa medicação é de 4 mg/L, o exato intervalo real de tempo previsto pela função para que esse nível seja excedido é dado por",
+      principal: "Para que uma medicação faça efeito, sua concentração no sangue precisa exceder certo valor, que é chamado de nível mínimo terapêutico. Admita que a concentração c de uma medicação no sangue, em $mg/L$, t horas após sua ingestão oral, seja dada pela função c = 20t / (t² + 4). Se o nível mínimo terapêutico dessa medicação é de 4 $mg/L$, o exato intervalo real de tempo previsto pela função para que esse nível seja excedido é dado por",
       subItens: []
     },
     options: [
       "1 < t < 4",
-      "√15/3 < t < √15",
-      "1 < t < 7/2",
-      "3/2 < t < 7/2",
-      "3/2 < t < 4"
+      "√$15/3$ < t < √15",
+      "1 < t < $7/2$",
+      "$3/2$ < t < $7/2$",
+      "$3/2$ < t < 4"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],

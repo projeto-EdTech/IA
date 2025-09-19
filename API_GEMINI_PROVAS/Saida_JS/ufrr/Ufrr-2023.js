@@ -91,7 +91,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "uma progressão geométrica de razão 1/4.",
+      "uma progressão geométrica de razão $1/4$.",
       "uma progressão geométrica de razão 4.",
       "uma progressão geométrica de razão 2.",
       "uma progressão aritmética de razão 4.",
@@ -213,15 +213,15 @@ createQuestion({
     university: "ufrr",
     year: 2023,
     text: {
-      principal: "Uma bola de tênis é lançada para cima, em uma direção\nque faz um ângulo θ com a direção horizontal. Sabendo\nque o módulo da velocidade inicial da bola é V₀, que a\naceleração da gravidade é g, que a resistência do ar deve\nser desconsiderada e que 2 senθ cosθ = sen 2θ, a\ndistância horizontal máxima x_m alcançada pela bola será\ndada por:",
+      principal: "Uma bola de tênis é lançada para cima, em uma direção\nque faz um ângulo θ com a direção horizontal. Sabendo\nque o módulo da velocidade inicial da bola é V₀, que a\naceleração da gravidade é g, que a resistência do ar deve\nser desconsiderada e que 2 $\\sin$θ $\\cos$θ = $\\sin$ 2θ, a\ndistância horizontal máxima $x_m$ alcançada pela bola será\ndada por:",
       subItens: []
     },
     options: [
-      "Xm = Vo cos θ – g sen 2θ",
-      "Xm = (2V₀² cos θ / g) – sen 2θ",
-      "Xm = (2V₀ sen 2θcosθ / g)",
-      "Xm = (V₀² / g) + sen 2θ cosθ",
-      "Xm = (V₀² sen 2θ / g)"
+      "Xm = Vo $\\cos$ θ – g $\\sin$ 2θ",
+      "Xm = (2V₀² $\\cos$ θ / g) – $\\sin$ 2θ",
+      "Xm = (2V₀ $\\sin$ 2θ$\\cos$θ / g)",
+      "Xm = (V₀² / g) + $\\sin$ 2θ $\\cos$θ",
+      "Xm = (V₀² $\\sin$ 2θ / g)"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -238,11 +238,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "(ρa - (2/3)ρt) da massa do tronco.",
-      "(2ρa - (1/3)ρt) da massa do tronco.",
-      "(2ρa/3ρt - 1) da massa do tronco.",
+      "(ρa - ($2/3$)ρt) da massa do tronco.",
+      "(2ρa - ($1/3$)ρt) da massa do tronco.",
+      "(2ρ$a/3$ρt - 1) da massa do tronco.",
       "(ρa - ρt) da massa do tronco.",
-      "(2ρa/3ρt - 1) da massa do tronco."
+      "(2ρ$a/3$ρt - 1) da massa do tronco."
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -318,7 +318,7 @@ createQuestion({
     university: "ufrr",
     year: 2023,
     text: {
-      principal: "\"Mas esse termo, a banalidade, diz respeito também ao\nterritório urbano e, sobretudo, suburbano. A partir do\nséculo X, mas principalmente do XI, é o grande período de\nurbanização – prefiro utilizar esse termo mais do que o de\nrenascimento urbano, já que penso que, salvo exceção,\nnão há continuidade entre a Idade Média e a\nAntiguidade.\"\n(LE GOFF, Jacques. Por amor às cidades: conversações com Jean Lebrun.\nSão Paulo: UNESP, 1998, p. 16.)\nA respeito do tema tratado no fragmento de texto acima,\npodemos afirmar CORRETAMENTE que:",
+      principal: "\"Mas esse termo, a banalidade, diz respeito também ao\nterritório urbano e, sobretudo, suburbano. A partir do\nséculo X, mas principalmente do $\\xi$, é o grande período de\nurbanização – prefiro utilizar esse termo mais do que o de\nrenascimento urbano, já que penso que, salvo exceção,\nnão há continuidade entre a Idade Média e a\nAntiguidade.\"\n(LE GOFF, Jacques. Por amor às cidades: conversações com Jean Lebrun.\nSão Paulo: UNESP, 1998, p. 16.)\nA respeito do tema tratado no fragmento de texto acima,\npodemos afirmar CORRETAMENTE que:",
       subItens: []
     },
     options: [

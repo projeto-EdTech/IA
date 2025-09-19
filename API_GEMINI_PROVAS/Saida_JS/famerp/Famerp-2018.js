@@ -1074,7 +1074,7 @@ createQuestion({
     university: "famerp",
     year: 2018,
     text: {
-      principal: "QUESTÃO 52\nAnalise a tabela, que mostra a composição de alguns minerais de ferro.\n\nTABELA: Minerais de ferro, sua Composição e Massa molar (g/mol).\n- Goethita: Fe₂O₃.H₂O, 178 g/mol\n- Hematita: Fe₂O₃, 160 g/mol\n- Pirita: FeS₂, 120 g/mol\n- Siderita: FeCO₃, 116 g/mol\n\nOs minerais que apresentam maior e menor porcentagem em massa de ferro são, respectivamente,",
+      principal: "QUESTÃO 52\nAnalise a tabela, que mostra a composição de alguns minerais de ferro.\n\nTABELA: Minerais de ferro, sua Composição e Massa molar ($g/mol$).\n- Goethita: Fe₂O₃.H₂O, 178 $g/mol$\n- Hematita: Fe₂O₃, 160 $g/mol$\n- Pirita: FeS₂, 120 $g/mol$\n- Siderita: FeCO₃, 116 $g/mol$\n\nOs minerais que apresentam maior e menor porcentagem em massa de ferro são, respectivamente,",
       subItens: []
     },
     options: [
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "famerp",
     year: 2018,
     text: {
-      principal: "QUESTÃO 53\nUm isqueiro descartável contém gás isobutano (C₄H₁₀). Mesmo após o uso total desse isqueiro, resta um resíduo do gás em seu interior. Considerando que o volume desse resíduo seja igual a 1 mL e que o volume molar de gás nas condições de pressão e temperatura no interior do isqueiro seja 25 L/mol, a massa de isobutano restante no isqueiro é, aproximadamente,",
+      principal: "QUESTÃO 53\nUm isqueiro descartável contém gás isobutano (C₄H₁₀). Mesmo após o uso total desse isqueiro, resta um resíduo do gás em seu interior. Considerando que o volume desse resíduo seja igual a 1 mL e que o volume molar de gás nas condições de pressão e temperatura no interior do isqueiro seja 25 $L/mol$, a massa de isobutano restante no isqueiro é, aproximadamente,",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "famerp",
     year: 2018,
     text: {
-      principal: "QUESTÃO 55\nSoluções aquosas de amônia e de soda cáustica, de iguais concentrações em mol/L,",
+      principal: "QUESTÃO 55\nSoluções aquosas de amônia e de soda cáustica, de iguais concentrações em $mol/L$,",
       subItens: []
     },
     options: [
@@ -1263,15 +1263,15 @@ createQuestion({
     university: "famerp",
     year: 2018,
     text: {
-      principal: "QUESTÃO 61\nNo interior de um vagão hermeticamente fechado que se move horizontalmente em trajetória retilínea com velocidade 4,0 m/s em relação ao solo, uma pessoa arremessa uma pequena esfera verticalmente para cima, com velocidade 3,0 m/s em relação ao vagão.\n\nIMAGEM: Três figuras de um vagão em movimento, mostrando uma pessoa arremessando uma esfera para cima. A esfera retorna à mão da pessoa, apesar do vagão estar em movimento. Velocidade do vagão indicada como 4,0 m/s. Vetor de velocidade da esfera em relação ao vagão indicado como 3,0 m/s para cima.\n\n(http://portaldoprofessor.mec.gov.br. Adaptado.)\n\nDesprezando o atrito com o ar, os módulos das velocidades da esfera, em relação ao solo, no ponto mais alto de sua trajetória e no instante em que retorna à mão da pessoa são, respectivamente,",
+      principal: "QUESTÃO 61\nNo interior de um vagão hermeticamente fechado que se move horizontalmente em trajetória retilínea com velocidade 4,0 $m/s$ em relação ao solo, uma pessoa arremessa uma pequena esfera verticalmente para cima, com velocidade 3,0 $m/s$ em relação ao vagão.\n\nIMAGEM: Três figuras de um vagão em movimento, mostrando uma pessoa arremessando uma esfera para cima. A esfera retorna à mão da pessoa, apesar do vagão estar em movimento. Velocidade do vagão indicada como 4,0 $m/s$. Vetor de velocidade da esfera em relação ao vagão indicado como 3,0 $m/s$ para cima.\n\n(http://portaldoprofessor.mec.gov.br. Adaptado.)\n\nDesprezando o atrito com o ar, os módulos das velocidades da esfera, em relação ao solo, no ponto mais alto de sua trajetória e no instante em que retorna à mão da pessoa são, respectivamente,",
       subItens: []
     },
     options: [
-      "4,0 m/s e 3,0 m/s.",
-      "zero e 5,0 m/s.",
-      "4,0 m/s e 5,0 m/s.",
-      "zero e 3,0 m/s.",
-      "5,0 m/s e zero."
+      "4,0 $m/s$ e 3,0 $m/s$.",
+      "zero e 5,0 $m/s$.",
+      "4,0 $m/s$ e 5,0 $m/s$.",
+      "zero e 3,0 $m/s$.",
+      "5,0 $m/s$ e zero."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "famerp",
     year: 2018,
     text: {
-      principal: "QUESTÃO 62\nUm caminhão transporta em sua carroceria um bloco de peso 5000 N. Após estacionar, o motorista aciona o mecanismo que inclina a carroceria.\n\nIMAGEM: Desenho de um caminhão com sua carroceria inclinada, e um bloco retangular posicionado sobre a superfície inclinada.\n\nSabendo que o ângulo máximo em relação à horizontal que a carroceria pode atingir sem que o bloco deslize é θ, tal que sen θ = 0,60 e cos θ = 0,80, o coeficiente de atrito estático entre o bloco e a superfície da carroceria do caminhão vale",
+      principal: "QUESTÃO 62\nUm caminhão transporta em sua carroceria um bloco de peso 5000 N. Após estacionar, o motorista aciona o mecanismo que inclina a carroceria.\n\nIMAGEM: Desenho de um caminhão com sua carroceria inclinada, e um bloco retangular posicionado sobre a superfície inclinada.\n\nSabendo que o ângulo máximo em relação à horizontal que a carroceria pode atingir sem que o bloco deslize é θ, tal que $\\sin$ θ = 0,60 e $\\cos$ θ = 0,80, o coeficiente de atrito estático entre o bloco e a superfície da carroceria do caminhão vale",
       subItens: []
     },
     options: [
@@ -1410,7 +1410,7 @@ createQuestion({
     university: "famerp",
     year: 2018,
     text: {
-      principal: "QUESTÃO 68\nA tabela mostra a classificação das ondas eletromagnéticas em função das suas frequências.\n\nTABELA: Região do espectro eletromagnético e Faixa de frequência (Hz).\n- Ondas de rádio: < 3,0 x 10⁹\n- Micro-ondas: 3,0 x 10⁹ a 3,0 × 10¹²\n- Infravermelho: 3,0 x 10¹² a 4,3 × 10¹⁴\n- Visível: 4,3 x 10¹⁴ a 7,5 × 10¹⁴\n- Ultravioleta: 7,5 x 10¹⁴ a 3,0 × 10¹⁷\n- Raios X: 3,0 x 10¹⁷ a 3,0 × 10¹⁹\n- Raios gama: > 3,0 x 10¹⁹\n\n(www.if.ufrgs.br. Adaptado.)\n\nConsidere que as ondas eletromagnéticas se propagam pelo ar com velocidade 3,0 × 10⁸ m/s aproximadamente e que um radar emite ondas eletromagnéticas de comprimento 2,0 cm. As ondas emitidas por esse radar são",
+      principal: "QUESTÃO 68\nA tabela mostra a classificação das ondas eletromagnéticas em função das suas frequências.\n\nTABELA: Região do espectro eletromagnético e Faixa de frequência (Hz).\n- Ondas de rádio: < 3,0 x 10⁹\n- Micro-ondas: 3,0 x 10⁹ a 3,0 × 10¹²\n- Infravermelho: 3,0 x 10¹² a 4,3 × 10¹⁴\n- Visível: 4,3 x 10¹⁴ a 7,5 × 10¹⁴\n- Ultravioleta: 7,5 x 10¹⁴ a 3,0 × 10¹⁷\n- Raios X: 3,0 x 10¹⁷ a 3,0 × 10¹⁹\n- Raios gama: > 3,0 x 10¹⁹\n\n(www.if.ufrgs.br. Adaptado.)\n\nConsidere que as ondas eletromagnéticas se propagam pelo ar com velocidade 3,0 × 10⁸ $m/s$ aproximadamente e que um radar emite ondas eletromagnéticas de comprimento 2,0 cm. As ondas emitidas por esse radar são",
       subItens: []
     },
     options: [
@@ -1536,7 +1536,7 @@ createQuestion({
     university: "famerp",
     year: 2018,
     text: {
-      principal: "QUESTÃO 74\nSendo x um número inteiro, a mediana do conjunto {3, 7, 2, –3, 13, 9, –1, x} de oito números é igual a 7/2. Dessa forma, x é igual a",
+      principal: "QUESTÃO 74\nSendo x um número inteiro, a mediana do conjunto {3, 7, 2, –3, 13, 9, –1, x} de oito números é igual a $7/2$. Dessa forma, x é igual a",
       subItens: []
     },
     options: [
@@ -1599,7 +1599,7 @@ createQuestion({
     university: "famerp",
     year: 2018,
     text: {
-      principal: "QUESTÃO 77\nSabendo-se que uma das raízes da equação algébrica 2x³ – 3x² – 72x – 35 = 0 é –1/2, a soma das outras duas raízes é igual a",
+      principal: "QUESTÃO 77\nSabendo-se que uma das raízes da equação algébrica 2x³ – 3x² – 72x – 35 = 0 é –$1/2$, a soma das outras duas raízes é igual a",
       subItens: []
     },
     options: [
@@ -1662,7 +1662,7 @@ createQuestion({
     university: "famerp",
     year: 2018,
     text: {
-      principal: "QUESTÃO 80\nObserve os gráficos das funções reais f e g, definidas por f(x) = 2sen x e g(x) = 4cos x.\n\nIMAGEM: Gráfico de duas funções, f(x) (linha mais sinuosa, parece senoidal) e g(x) (linha que começa alta e desce, parece cosseno). Há um ponto P(xp, yp) onde os gráficos se interceptam, com xp no primeiro quadrante.\n\nConsidere P(xp, yp) um ponto comum aos gráficos das funções f e g tal que xp, em radianos, é um ângulo do primeiro quadrante. Nessas condições, cos xp é igual a",
+      principal: "QUESTÃO 80\nObserve os gráficos das funções reais f e g, definidas por f(x) = 2sen x e g(x) = 4cos x.\n\nIMAGEM: Gráfico de duas funções, f(x) (linha mais sinuosa, parece senoidal) e g(x) (linha que começa alta e desce, parece cosseno). Há um ponto P(xp, yp) onde os gráficos se interceptam, com xp no primeiro quadrante.\n\nConsidere P(xp, yp) um ponto comum aos gráficos das funções f e g tal que xp, em radianos, é um ângulo do primeiro quadrante. Nessas condições, $\\cos$ xp é igual a",
       subItens: []
     },
     options: [

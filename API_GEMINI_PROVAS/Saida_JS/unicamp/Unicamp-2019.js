@@ -154,7 +154,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Literatura Brasileira (Clarice Lispector)", "Análise Literária (Personagem/Conflito)"],
+    conteudo: ["Literatura Brasileira (Clarice Lispector)", "Análise Literária ($Personagem/Conflito$)"],
     imageNames: []
 }),
 
@@ -343,7 +343,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "QUESTÃO 18\nDois estudantes, de massa corporal em torno de 75 kg, da Universidade de Northumbria, no Reino Unido, quase morreram ao participar de um experimento científico no qual seriam submetidos a determinada dose de cafeína e a um teste físico posterior. Por um erro técnico, ambos receberam uma dose de cafeína 100 vezes maior que a dose planejada. A dose planejada era de 0,3 g de cafeína, equivalente a três xícaras de café. Sabe-se que a União Europeia, onde o teste ocorreu, classifica a toxicidade de uma dada substância conforme tabela a seguir.\nTabela: Categoria de toxicidade vs DL50 (mg/kg de massa corporal).\nConsiderando que a DL50 - dose necessária de uma dada substância para matar 50% de uma população – da cafeína é de 192 mg/kg, no teste realizado a dose aplicada foi cerca de",
+      principal: "QUESTÃO 18\nDois estudantes, de massa corporal em torno de 75 kg, da Universidade de Northumbria, no Reino Unido, quase morreram ao participar de um experimento científico no qual seriam submetidos a determinada dose de cafeína e a um teste físico posterior. Por um erro técnico, ambos receberam uma dose de cafeína 100 vezes maior que a dose planejada. A dose planejada era de 0,3 g de cafeína, equivalente a três xícaras de café. Sabe-se que a União Europeia, onde o teste ocorreu, classifica a toxicidade de uma dada substância conforme tabela a seguir.\nTabela: Categoria de toxicidade vs DL50 ($mg/kg$ de massa corporal).\nConsiderando que a DL50 - dose necessária de uma dada substância para matar 50% de uma população – da cafeína é de 192 $mg/kg$, no teste realizado a dose aplicada foi cerca de",
       subItens: []
     },
     options: [
@@ -383,7 +383,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "QUESTÃO 20\nDe tempos em tempos, o mundo se choca com notícias sobre o uso de armas químicas em conflitos. O sarin é um composto organofosforado líquido, insípido, incolor e inodoro, altamente volátil, que se transforma em gás quando exposto ao ar, sendo um dos principais alvos dessas notícias. Em 1955, um projeto confidencial do exército americano estudou a eficiência de hipoclorito na eliminação de sarin em ambientes contaminados. A tabela a seguir mostra alguns resultados obtidos nesse estudo.\nTabela: pH vs [ClO] (milimol·L⁻¹) vs t1/2 (min)\nSendo t1/2 o tempo para a concentração do sarin cair à metade, de acordo com a tabela a reação é mais rápida em",
+      principal: "QUESTÃO 20\nDe tempos em tempos, o mundo se choca com notícias sobre o uso de armas químicas em conflitos. O sarin é um composto organofosforado líquido, insípido, incolor e inodoro, altamente volátil, que se transforma em gás quando exposto ao ar, sendo um dos principais alvos dessas notícias. Em 1955, um projeto confidencial do exército americano estudou a eficiência de hipoclorito na eliminação de sarin em ambientes contaminados. A tabela a seguir mostra alguns resultados obtidos nesse estudo.\nTabela: pH vs [ClO] (milimol·L⁻¹) vs $t1/2$ (min)\nSendo $t1/2$ o tempo para a concentração do sarin cair à metade, de acordo com a tabela a reação é mais rápida em",
       subItens: []
     },
     options: [
@@ -743,7 +743,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "QUESTÃO 38\nNas questões seguintes, sempre que necessário, use aceleração da gravidade g = 10 m/s², aproxime π = 3,0 e 1 atm =10⁵ Pa.\nO físico inglês Stephen Hawking (1942-2018), além de suas contribuições importantes para a cosmologia, a física teórica e sobre a origem do universo, nos últimos anos de sua vida passou a sugerir estratégias para salvar a raça humana de uma possível extinção, entre elas, a mudança para outro planeta. Em abril de 2018, uma empresa americana, em colaboração com a Nasa, lançou o satélite TESS, que analisará cerca de vinte mil planetas fora do sistema solar. Esses planetas orbitam estrelas situadas a menos de trezentos anos-luz da Terra, sendo que um ano-luz é a distância que a luz percorre no vácuo em um ano. Considere um ônibus espacial atual que viaja a uma velocidade média v=2,0×10⁴ km/s. O tempo que esse ônibus levaria para chegar a um planeta a uma distância de 100 anos-luz é igual a (Dado: A velocidade da luz no vácuo é igual a c=3,0×10⁸ m/s.)",
+      principal: "QUESTÃO 38\nNas questões seguintes, sempre que necessário, use aceleração da gravidade g = 10 $m/s$², aproxime π = 3,0 e 1 atm =10⁵ Pa.\nO físico inglês Stephen Hawking (1942-2018), além de suas contribuições importantes para a cosmologia, a física teórica e sobre a origem do universo, nos últimos anos de sua vida passou a sugerir estratégias para salvar a raça humana de uma possível extinção, entre elas, a mudança para outro planeta. Em abril de 2018, uma empresa americana, em colaboração com a Nasa, lançou o satélite TESS, que analisará cerca de vinte mil planetas fora do sistema solar. Esses planetas orbitam estrelas situadas a menos de trezentos anos-luz da Terra, sendo que um ano-luz é a distância que a luz percorre no vácuo em um ano. Considere um ônibus espacial atual que viaja a uma velocidade média v=2,0×10⁴ $km/s$. O tempo que esse ônibus levaria para chegar a um planeta a uma distância de 100 anos-luz é igual a (Dado: A velocidade da luz no vácuo é igual a c=3,0×10⁸ $m/s$.)",
       subItens: []
     },
     options: [
@@ -763,7 +763,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "QUESTÃO 39\nEm uma pescaria é utilizada uma linha com boia e anzol. Inicialmente, na posição de espera, a linha acima da boia mantém-se frouxa e a boia flutua, ficando com 1/3 do seu volume submerso (figura 1). Quando o peixe é fisgado, a boia é puxada, ficando totalmente submersa e momentaneamente parada; simultaneamente, a linha que a une ao anzol fica esticada verticalmente (figura 2). A parte superior da linha, acima da boia, mantém-se frouxa. Nessa situação, quanto vale o módulo da tensão da linha que une a boia ao anzol? Despreze as massas da linha e do anzol, bem como o atrito viscoso com a água.\nImagens: Diagramas de boia e anzol com peixe (1) e sem peixe (2). (Fonte: Imagem adaptada)\n",
+      principal: "QUESTÃO 39\nEm uma pescaria é utilizada uma linha com boia e anzol. Inicialmente, na posição de espera, a linha acima da boia mantém-se frouxa e a boia flutua, ficando com $1/3$ do seu volume submerso (figura 1). Quando o peixe é fisgado, a boia é puxada, ficando totalmente submersa e momentaneamente parada; simultaneamente, a linha que a une ao anzol fica esticada verticalmente (figura 2). A parte superior da linha, acima da boia, mantém-se frouxa. Nessa situação, quanto vale o módulo da tensão da linha que une a boia ao anzol? Despreze as massas da linha e do anzol, bem como o atrito viscoso com a água.\nImagens: Diagramas de boia e anzol com peixe (1) e sem peixe (2). (Fonte: Imagem adaptada)\n",
       subItens: []
     },
     options: [
@@ -803,7 +803,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "Texto comum às questões 40, 41 e 42\nDrones vêm sendo utilizados por empresas americanas para monitorar o ambiente subaquático. Esses drones podem substituir mergulhadores, sendo capazes de realizar mergulhos de até cinquenta metros de profundidade e operar por até duas horas e meia.\nQUESTÃO 41\nFrequentemente esses drones são usados para medir a temperatura da água (T) em função da profundidade (d), a partir da superfície (d = 0), como no caso ilustrado no gráfico a seguir (dados adaptados).\nGráfico: Temperatura (°C) vs profundidade (m).\nConsidere que a densidade da água é ρ=1000 kg/m³ e constante para todas as profundidades medidas pelo drone. Qual é a diferença de pressão hidrostática entre a superfície e uma profundidade para a qual a temperatura da água é T =19°C?",
+      principal: "Texto comum às questões 40, 41 e 42\nDrones vêm sendo utilizados por empresas americanas para monitorar o ambiente subaquático. Esses drones podem substituir mergulhadores, sendo capazes de realizar mergulhos de até cinquenta metros de profundidade e operar por até duas horas e meia.\nQUESTÃO 41\nFrequentemente esses drones são usados para medir a temperatura da água (T) em função da profundidade (d), a partir da superfície (d = 0), como no caso ilustrado no gráfico a seguir (dados adaptados).\nGráfico: Temperatura (°C) vs profundidade (m).\nConsidere que a densidade da água é ρ=1000 $kg/m$³ e constante para todas as profundidades medidas pelo drone. Qual é a diferença de pressão hidrostática entre a superfície e uma profundidade para a qual a temperatura da água é T =19°C?",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "Texto comum às questões 43, 44 e 45\nA depilação a laser é um procedimento de eliminação dos pelos que tem se tornado bastante popular na indústria de beleza e no mundo dos esportes. O número de sessões do procedimento depende, entre outros fatores, da coloração da pele, da área a ser tratada e da quantidade de pelos nessa área.\nQUESTÃO 43\nUma sessão de depilação a laser utiliza pulsos de alta potência e curta duração. O tempo total da sessão depende da área tratada. Considere certa situação em que a luz do laser incide perpendicularmente em uma área A = 2 mm² com uma intensidade média igual a I = 2,0×10⁴ W/m². A energia luminosa que incide nessa área durante um intervalo de tempo Δt = 3 ms é igual a",
+      principal: "Texto comum às questões 43, 44 e 45\nA depilação a laser é um procedimento de eliminação dos pelos que tem se tornado bastante popular na indústria de beleza e no mundo dos esportes. O número de sessões do procedimento depende, entre outros fatores, da coloração da pele, da área a ser tratada e da quantidade de pelos nessa área.\nQUESTÃO 43\nUma sessão de depilação a laser utiliza pulsos de alta potência e curta duração. O tempo total da sessão depende da área tratada. Considere certa situação em que a luz do laser incide perpendicularmente em uma área A = 2 mm² com uma intensidade média igual a I = 2,0×10⁴ $W/m$². A energia luminosa que incide nessa área durante um intervalo de tempo Δt = 3 ms é igual a",
       subItens: []
     },
     options: [
@@ -883,7 +883,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "Texto comum às questões 43, 44 e 45\nA depilação a laser é um procedimento de eliminação dos pelos que tem se tornado bastante popular na indústria de beleza e no mundo dos esportes. O número de sessões do procedimento depende, entre outros fatores, da coloração da pele, da área a ser tratada e da quantidade de pelos nessa área.\nQUESTÃO 45\nTrês tipos de laser comumente utilizados para depilação têm comprimentos de onda λ₁≈760 nm, λ₂≈800 nm e λ₃≈1060 nm, respectivamente. Se a velocidade da luz vale c=3,0×10⁸ m/s, o laser de maior frequência tem uma frequência de aproximadamente",
+      principal: "Texto comum às questões 43, 44 e 45\nA depilação a laser é um procedimento de eliminação dos pelos que tem se tornado bastante popular na indústria de beleza e no mundo dos esportes. O número de sessões do procedimento depende, entre outros fatores, da coloração da pele, da área a ser tratada e da quantidade de pelos nessa área.\nQUESTÃO 45\nTrês tipos de laser comumente utilizados para depilação têm comprimentos de onda λ₁≈760 nm, λ₂≈800 nm e λ₃≈1060 nm, respectivamente. Se a velocidade da luz vale c=3,0×10⁸ $m/s$, o laser de maior frequência tem uma frequência de aproximadamente",
       subItens: []
     },
     options: [
@@ -914,7 +914,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Física", "Biologia"],
-    conteudo: ["Óptica (Miopia/Lentes)", "Fisiologia Humana (Olho)"],
+    conteudo: ["Óptica ($Miopia/Lentes$)", "Fisiologia Humana (Olho)"],
     imageNames: []
 }),
 
@@ -934,7 +934,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Biologia"],
-    conteudo: ["Zoologia (Anelídeos)", "Ecologia (Cadeias Tróficas/Ciclos Biogeoquímicos)"],
+    conteudo: ["Zoologia (Anelídeos)", "Ecologia (Cadeias Tró$ficas/Ciclos$ Biogeoquímicos)"],
     imageNames: []
 }),
 
@@ -994,7 +994,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["Biologia"],
-    conteudo: ["Evolução (Fósseis/Anatomia Comparada)", "Zoologia (Répteis)"],
+    conteudo: ["Evolução (Fó$sseis/Anatomia$ Comparada)", "Zoologia (Répteis)"],
     imageNames: []
 }),
 
@@ -1143,14 +1143,14 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "QUESTÃO 58\nUma população de certa espécie é constituída apenas por três tipos de indivíduos diploides, que diferem quanto ao genótipo em um loco. No total, há um número N_AA de indivíduos com genótipo AA, N_Aa de indivíduos com genótipo Aa, e N_aa de indivíduos com genótipo aa. Considerando apenas o loco exposto no enunciado, a frequência do alelo A nessa população é igual a",
+      principal: "QUESTÃO 58\nUma população de certa espécie é constituída apenas por três tipos de indivíduos diploides, que diferem quanto ao genótipo em um loco. No total, há um número $N_AA$ de indivíduos com genótipo AA, $N_Aa$ de indivíduos com genótipo Aa, e $N_aa$ de indivíduos com genótipo aa. Considerando apenas o loco exposto no enunciado, a frequência do alelo A nessa população é igual a",
       subItens: []
     },
     options: [
-      "N_AA / (N_AA + N_Aa)",
-      "(N_AA + N_Aa) / (N_AA + N_Aa + N_aa)",
-      "N_AA + N_Aa",
-      "(2N_AA + N_Aa) / (2(N_AA + N_Aa + N_aa))"
+      "$N_AA$ / ($N_AA$ + $N_Aa$)",
+      "($N_AA$ + $N_Aa$) / ($N_AA$ + $N_Aa$ + $N_aa$)",
+      "$N_AA$ + $N_Aa$",
+      "($2N_AA$ + $N_Aa$) / (2($N_AA$ + $N_Aa$ + $N_aa$))"
     ],
     correctAnswer: 3,
     materia: ["Biologia", "Matemática"],
@@ -1167,8 +1167,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "p/1,20.",
-      "p/1,21.",
+      "$p/1$,20.",
+      "$p/1$,21.",
       "p x 0,80.",
       "p x 0,81."
     ],
@@ -1223,14 +1223,14 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "QUESTÃO 62\nO sistema de segurança de um aeroporto consiste de duas inspeções. Na primeira delas, a probabilidade de um passageiro ser inspecionado é de 3/5. Na segunda, a probabilidade se reduz para 1/4. A probabilidade de um passageiro ser inspecionado pelo menos uma vez é igual a",
+      principal: "QUESTÃO 62\nO sistema de segurança de um aeroporto consiste de duas inspeções. Na primeira delas, a probabilidade de um passageiro ser inspecionado é de $3/5$. Na segunda, a probabilidade se reduz para $1/4$. A probabilidade de um passageiro ser inspecionado pelo menos uma vez é igual a",
       subItens: []
     },
     options: [
-      "17/20.",
-      "7/10.",
-      "3/10.",
-      "3/20."
+      "$17/20$.",
+      "$7/10$.",
+      "$3/10$.",
+      "$3/20$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1248,9 +1248,9 @@ createQuestion({
     },
     options: [
       "Gráfico de uma parábola com concavidade para cima e vértice no segundo quadrante.",
-      "Gráfico de uma parábola com concavidade para cima e raízes em x=0 e x=-b/a.",
+      "Gráfico de uma parábola com concavidade para cima e raízes em x=0 e x=-$b/a$.",
       "Gráfico de uma parábola com concavidade para baixo e vértice no primeiro quadrante.",
-      "Gráfico de uma parábola com concavidade para baixo e raízes em x=0 e x=b/a."
+      "Gráfico de uma parábola com concavidade para baixo e raízes em x=0 e x=$b/a$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "QUESTÃO 64\nSejam k e θ números reais tais que senθ e cosθ são soluções da equação quadrática 2x² + x + k = 0. Então, k é um número",
+      principal: "QUESTÃO 64\nSejam k e θ números reais tais que $\\sin$θ e $\\cos$θ são soluções da equação quadrática 2x² + x + k = 0. Então, k é um número",
       subItens: []
     },
     options: [
@@ -1327,7 +1327,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/q.",
+      "$1/q$.",
       "q.",
       "q².",
       "√q."
@@ -1354,7 +1354,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
-    conteudo: ["Álgebra Linear (Matrizes/Determinantes)"],
+    conteudo: ["Álgebra Linear ($Matrizes/Determinantes$)"],
     imageNames: []
 }),
 
@@ -1374,7 +1374,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
-    conteudo: ["Geometria Analítica (Circunferência/Parábola)", "Sistemas de Equações"],
+    conteudo: ["Geometria Analítica (Circunferê$ncia/Par$ábola)", "Sistemas de Equações"],
     imageNames: []
 }),
 
@@ -1394,7 +1394,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
-    conteudo: ["Polinômios (Raízes/Relações de Girard)"],
+    conteudo: ["Polinômios (Raí$zes/Rela$ções de Girard)"],
     imageNames: []
 }),
 
@@ -1423,7 +1423,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "QUESTÃO 72\nOs estudiosos muçulmanos adaptaram a herança recebida dos povos arabizados. Entre os domínios conquistados pelos muçulmanos estavam a Mesopotâmia e o antigo Egito, civilizações que desde cedo observaram os fenômenos astronômicos. O estudo dos fenômenos naturais no Crescente Fértil possibilitou a agricultura e perdurou por milênios. Nas costas do Mar Egeu, na região da Jônia, surgiram no século VI a.C. as primeiras explicações dos fenômenos naturais desvinculadas dos desígnios divinos. E as conquistas de Alexandre permitiram o início do intercâmbio entre o conhecimento grego, de um lado, e o dos antigos impérios egípcio, babilônico e persa, de outro. Além disso, houve trocas científicas e culturais com os indianos. O império árabe-islâmico foi, a partir do século VII, o herdeiro desse legado científico multicultural, ao qual os estudiosos muçulmanos deram seus aportes ao longo da Idade Média.\n(Adaptado de Beatriz Bissio, O mundo falava árabe. Rio de Janeiro: Civilização Brasileira, 2012, p. 200-201.)\nConsiderando o texto acima sobre o Isla Medieval e seus conhecimentos, assinale a alternativa correta.",
+      principal: "QUESTÃO 72\nOs estudiosos $\\mu$çulmanos adaptaram a herança recebida dos povos arabizados. Entre os domínios conquistados pelos $\\mu$çulmanos estavam a Mesopotâmia e o antigo Egito, civilizações que desde cedo observaram os fenômenos astronômicos. O estudo dos fenômenos naturais no Crescente Fértil possibilitou a agricultura e perdurou por milênios. Nas costas do Mar Egeu, na região da Jônia, surgiram no século VI a.C. as primeiras explicações dos fenômenos naturais desvinculadas dos desígnios divinos. E as conquistas de Alexandre permitiram o início do intercâmbio entre o conhecimento grego, de um lado, e o dos antigos impérios egípcio, babilônico e persa, de outro. Além disso, houve trocas científicas e culturais com os indianos. O império árabe-islâmico foi, a partir do século VII, o herdeiro desse legado científico multicultural, ao qual os estudiosos $\\mu$çulmanos deram seus aportes ao longo da Idade Média.\n(Adaptado de Beatriz Bissio, O mundo falava árabe. Rio de Janeiro: Civilização Brasileira, 2012, p. 200-201.)\nConsiderando o texto acima sobre o Isla Medieval e seus conhecimentos, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1594,7 +1594,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["História", "Geografia"],
-    conteudo: ["Brasil República (Ditadura Militar/Nova República)", "Economia do Brasil"],
+    conteudo: ["Brasil República (Ditadura $Militar/Nova$ República)", "Economia do Brasil"],
     imageNames: []
 }),
 
@@ -1694,7 +1694,7 @@ createQuestion({
     ],
     correctAnswer: 2,
     materia: ["Sociologia", "Língua Portuguesa"],
-    conteudo: ["Mercado de Trabalho", "Desigualdade Social", "Gêneros Textuais (Cartum/Ironia)"],
+    conteudo: ["Mercado de Trabalho", "Desigualdade Social", "Gêneros Textuais ($Cartum/Ironia$)"],
     imageNames: []
 }),
 
@@ -1703,7 +1703,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "QUESTÃO 86\nWe raise girls to cater to the fragile egos of men. We teach girls do shrink themselves, to make themselves smaller. We tell girls 'You can have ambition, but not too much'. 'You should aim to be successful, but not too successful, otherwise you will threaten the man'. (...) We teach girls shame – 'Close your legs, cover yourself!'. We make them feel as though by being born female, they're already guilty of something. And so, girls grow up to be women who cannot see they have desire. They grow up to be women who silence themselves. They grow up to be women who cannot say what they truly think. And they grow up – and this is the worst thing we do to girls – to be women who turn pretense into an art form.\n(Adaptado da palestra \"We should all be feminists\", 15/07/2009. Disponível em https://www.youtube.com/watch?v=hg3umXU_qWc&t=797s. Acessado em 14/05/2018.)\nO texto anterior reproduz trechos de uma palestra proferida pela escritora nigeriana Chimamanda Adichie em 2009. Segundo a autora, o fato de serem criadas para agradar aos homens faz com que as mulheres",
+      principal: "QUESTÃO 86\nWe raise girls to cater to the fragile egos of men. We teach girls do shrink themselves, to make themselves smaller. We tell girls 'You can have ambition, but not too much'. 'You should aim to be successful, but not too successful, otherwise you will threaten the man'. (...) We teach girls shame – 'Close your legs, cover yourself!'. We make them feel as though by being born female, they're already guilty of something. And so, girls grow up to be women who cannot see they have desire. They grow up to be women who silence themselves. They grow up to be women who cannot say what they truly think. And they grow up – and this is the worst thing we do to girls – to be women who turn pretense into an art form.\n(Adaptado da palestra \"We should all be feminists\", 15/07/2009. Disponível em https://www.youtube.$com/watch$?v=$hg3umXU_qWc$&t=797s. Acessado em 14/05/2018.)\nO texto anterior reproduz trechos de uma palestra proferida pela escritora nigeriana Chimamanda Adichie em 2009. Segundo a autora, o fato de serem criadas para agradar aos homens faz com que as mulheres",
       subItens: []
     },
     options: [
@@ -1748,7 +1748,7 @@ createQuestion({
     },
     options: [
       "\"Eu me sinto um estrangeiro.\" (Engenheiros do Hawaii, \"A revolta dos dândis\".)",
-      "\"Pátria Amada, é pra você esta canção/Desesperada, canção de desilusão.” (Inocentes, “Pátria amada\".)",
+      "\"Pátria Amada, é pra você esta cançã$o/Desesperada$, canção de desilusão.” (Inocentes, “Pátria amada\".)",
       "“Minha pátria é minha língua.\" (Caetano Veloso, \"Língua\".)",
       "“Se me perguntarem o que é a minha pátria, direi:/ Não sei. De fato, não sei (...).” (Vinícius de Moraes, \"Pátria minha\".)"
     ],
@@ -1783,7 +1783,7 @@ createQuestion({
     university: "unicamp",
     year: 2019,
     text: {
-      principal: "QUESTÃO 90\nGenetic Fortune-Telling\nOne day, babies will get DNA report cards at birth. These reports will offer predictions about their chances of suffering a heart attack or cancer, of getting hooked on tobacco, and of being smarter than average. Though the new DNA tests offer probabilities, not diagnoses, they could greatly benefit medicine. For example, if women at high risk for breast cancer got more mammograms and those at low risk got fewer, those exams might catch more real cancers and set off fewer false alarms. The trouble is, the predictions are far from perfect. What if someone with a low risk score for cancer puts off being screened, and then develops cancer anyway? Polygenic scores are also controversial because they can predict any trait, not only diseases. For instance, they can now forecast about 10 percent of a person's performance on IQ tests. But how will parents and educators use that information?\n(Adaptado de Derek Brahney, Genetic Fortune-Telling. MIT Technology Review, Março/Abril 2018)\nDe acordo com o texto, um dos riscos do prognóstico genético dos indivíduos desde o nascimento seria o de",
+      principal: "QUESTÃO 90\nGenetic Fortune-Telling\nOne day, babies will get DNA report cards at birth. These reports will offer predictions about their chances of suffering a heart attack or cancer, of getting hooked on tobacco, and of being smarter than average. Though the new DNA tests offer probabilities, not diagnoses, they could greatly benefit medicine. For example, if women at high risk for breast cancer got more mammograms and those at low risk got fewer, those exams might catch more real cancers and set off fewer false alarms. The trouble is, the predictions are far from perfect. What if someone with a low risk score for cancer puts off being screened, and then develops cancer anyway? Polygenic scores are also controversial because they can predict any trait, not only diseases. For instance, they can now forecast about 10 percent of a person's performance on IQ tests. But how will parents and educators use that information?\n(Adaptado de Derek Brahney, Genetic Fortune-Telling. MIT Technology Review, Març$o/Abril$ 2018)\nDe acordo com o texto, um dos riscos do prognóstico genético dos indivíduos desde o nascimento seria o de",
       subItens: []
     },
     options: [

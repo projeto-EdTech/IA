@@ -8,8 +8,8 @@ createQuestion({
     },
     options: [
       "( ) β = −5, y = 2, ε δ = 6",
-      "( ) β = −3/5, γ = 4/3, ε δ = 4",
-      "( ) β = −10/3, γ = 5/3, ε δ = 5",
+      "( ) β = −$3/5$, γ = $4/3$, ε δ = 4",
+      "( ) β = −$10/3$, γ = $5/3$, ε δ = 5",
       "( ) β = 0 y = 1, ε δ = 3",
       "( ) β = −10, γ = 3, e δ = 9"
     ],
@@ -30,8 +30,8 @@ createQuestion({
     options: [
       "( ) L ≥ a(1 + tana/μ)",
       "( ) L ≥ a(-1+tana/μ)",
-      "( ) L ≥ a(1 + tana/2μ)",
-      "( ) L ≥ a(−1 + tana/2μ)",
+      "( ) L ≥ a(1 + $tana/2$μ)",
+      "( ) L ≥ a(−1 + $tana/2$μ)",
       "( ) L ≥ a(1 + tana/μ)/2"
     ],
     correctAnswer: 0,
@@ -129,14 +129,14 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Questão 7. Na figura, a extremidade de uma haste delgada livre, de massa m uniformemente distribuída, apoia-se sem atrito sobre a massa M do pêndulo simples. Considerando o atrito entre a haste e o piso, assinale a razão M/m para que o conjunto permaneça em equilíbrio estático.",
+      principal: "Questão 7. Na figura, a extremidade de uma haste delgada livre, de massa m uniformemente distribuída, apoia-se sem atrito sobre a massa M do pêndulo simples. Considerando o atrito entre a haste e o piso, assinale a razão $M/m$ para que o conjunto permaneça em equilíbrio estático.",
       subItens: []
     },
     options: [
-      "() tan 4/2 tan0",
-      "() (1 – tanp)/4send cos φ",
+      "() tan $4/2$ tan0",
+      "() (1 – tanp)/4send $\\cos$ φ",
       "() (sen2 cot 0 - 2sen20)/4",
-      "() (sen cot 0 – 2sen220)/4",
+      "() ($\\sin$ cot 0 – 2sen220)/4",
       "() (sen2 cot θ – sen20)/4"
     ],
     correctAnswer: 0,
@@ -217,10 +217,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "() molal é igual a l + (N − 1)mg/k.",
-      "() mola 2 é igual a l + Nmg/k.",
-      "() mola 3 é igual a l + (N − 2)mg/k.",
-      "() mola N – 1 é igual a l + mg/k.",
+      "() molal é igual a l + (N − 1)$mg/k$.",
+      "() mola 2 é igual a l + $Nmg/k$.",
+      "() mola 3 é igual a l + (N − 2)$mg/k$.",
+      "() mola N – 1 é igual a l + $mg/k$.",
       "() mola N é igual a l."
     ],
     correctAnswer: 2,
@@ -234,7 +234,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Questão 12. Elétrons com energia cinética inicial de 2 MeV são injetados em um dispositivo (bétatron) que os acelera em uma trajetória circular perpendicular a um campo magnético cujo fluxo varia a uma taxa de 1000 Wb/s. Assinale a energia cinética final alcançada pelos elétrons após 500 000 revoluções.",
+      principal: "Questão 12. Elétrons com energia cinética inicial de 2 MeV são injetados em um dispositivo (bétatron) que os acelera em uma trajetória circular perpendicular a um campo magnético cujo fluxo varia a uma taxa de 1000 $Wb/s$. Assinale a energia cinética final alcançada pelos elétrons após 500 000 revoluções.",
       subItens: []
     },
     options: [
@@ -259,11 +259,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "() g(m/qB)²",
-      "() g(qB/m)²",
-      "() 2g(m/qB)²",
-      "() 2g(qB/m)²",
-      "() g(m/qB)²/2"
+      "() g($m/qB$)²",
+      "() g($qB/m$)²",
+      "() 2g($m/qB$)²",
+      "() 2g($qB/m$)²",
+      "() g($m/qB$)²/2"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -276,7 +276,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Questão 14. Um automóvel percorre um trecho retilíneo de uma rodovia. A figura mostra a velocidade do carro em função da distância percorrida, em km, indicada no odômetro. Sabendo que a velocidade escalar média no percurso é de 36 km/h, assinale respectivamente o tempo total dispendido e a distância entre os pontos inicial e final do percurso.",
+      principal: "Questão 14. Um automóvel percorre um trecho retilíneo de uma rodovia. A figura mostra a velocidade do carro em função da distância percorrida, em km, indicada no odômetro. Sabendo que a velocidade escalar média no percurso é de 36 $km/h$, assinale respectivamente o tempo total dispendido e a distância entre os pontos inicial e final do percurso.",
       subItens: []
     },
     options: [
@@ -322,11 +322,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "() 1,0 g/cm³",
-      "() 1,8 g/cm³",
-      "() 2,4 g/cm³",
-      "() 4,8 g/cm³",
-      "() 20,0 g/cm³"
+      "() 1,0 $g/cm$³",
+      "() 1,8 $g/cm$³",
+      "() 2,4 $g/cm$³",
+      "() 4,8 $g/cm$³",
+      "() 20,0 $g/cm$³"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -360,7 +360,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Questão 18. Uma transformação cíclica XYZX de um gás ideal indicada no gráfico P × V opera entre dois extremos de temperatura, em que YZ é um processo de expansão adiabática reversível. Considere R = 2,0 cal/mol.K = 0,082 atm.l/mol.K, Py = 20 atm, Vz = 4,0 l, Vy = 2,0 l e a razão entre as capacidades térmicas molar, a pressão e a volume constante, dada por Cp/Cv = 2,0. Assinale a razão entre o rendimento deste ciclo e o de uma máquina térmica ideal operando entre os mesmos extremos de temperatura.",
+      principal: "Questão 18. Uma transformação cíclica XYZX de um gás ideal indicada no gráfico P × V opera entre dois extremos de temperatura, em que YZ é um processo de expansão adiabática reversível. Considere R = 2,0 $cal/mol$.K = 0,082 atm.$l/mol$.K, Py = 20 atm, Vz = 4,0 l, Vy = 2,0 l e a razão entre as capacidades térmicas molar, a pressão e a volume constante, dada por $Cp/Cv$ = 2,0. Assinale a razão entre o rendimento deste ciclo e o de uma máquina térmica ideal operando entre os mesmos extremos de temperatura.",
       subItens: []
     },
     options: [
@@ -381,7 +381,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Questão 19. Uma onda harmônica propaga-se para a direita com velocidade constante em uma corda de densidade linear μ = 0,4 g/cm. A figura mostra duas fotos da corda, uma num instante t = 0 s e a outra no instante t = 0,5 s. Considere as seguintes afirmativas:\nI. A velocidade mínima do ponto P da corda é de 3 m/s.\nII. O ponto P realiza um movimento oscilatório com período de 0,4 s.\nIII. A corda está submetida a uma tensão de 0,36 N.\nAssinale a(s) afirmativa(s) possível(possíveis) para o movimento da onda na corda",
+      principal: "Questão 19. Uma onda harmônica propaga-se para a direita com velocidade constante em uma corda de densidade linear μ = 0,4 $g/cm$. A figura mostra duas fotos da corda, uma num instante t = 0 s e a outra no instante t = 0,5 s. Considere as seguintes afirmativas:\nI. A velocidade mínima do ponto P da corda é de 3 $m/s$.\nII. O ponto P realiza um movimento oscilatório com período de 0,4 s.\nIII. A corda está submetida a uma tensão de 0,36 N.\nAssinale a(s) afirmativa(s) possível(possíveis) para o movimento da onda na corda",
       subItens: []
     },
     options: [
@@ -408,7 +408,7 @@ createQuestion({
     options: [
       "() 2pghRS",
       "() pR2Sw√2gh",
-      "() 2pghRS(1 - √2gh/wR)",
+      "() 2pghRS(1 - √$2gh/wR$)",
       "() 2pghRS(1 – wR/√2gh)",
       "() pR² Sw√2gh(1 – wR/√2gh)"
     ],
@@ -465,7 +465,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Sejam a,b,c,d ∈ R. Suponha que a,b,c,d formem, nesta ordem, uma progressão geométrica e que a, b/2, c/4, d- 140 formem, nesta ordem, uma progressão aritmética. Então, o valor de d-b é",
+      principal: "Sejam a,b,c,d ∈ R. Suponha que a,b,c,d formem, nesta ordem, uma progressão geométrica e que a, $b/2$, $c/4$, d- 140 formem, nesta ordem, uma progressão aritmética. Então, o valor de d-b é",
       subItens: []
     },
     options: [
@@ -486,13 +486,13 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "O maior valor de tg x, com x = arcsen(3/5) e x∈ [0, π/2], é",
+      principal: "O maior valor de $\\tan$ x, com x = arcsen($3/5$) e x∈ [0, π/2], é",
       subItens: []
     },
     options: [
-      "1/4.",
-      "1/3.",
-      "1/2.",
+      "$1/4$.",
+      "$1/3$.",
+      "$1/2$.",
       "2.",
       "3."
     ],
@@ -511,11 +511,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "9/5",
-      "12/5",
-      "18/5",
-      "21/5",
-      "24/5"
+      "$9/5$",
+      "$12/5$",
+      "$18/5$",
+      "$21/5$",
+      "$24/5$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -528,7 +528,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Considere o sistema de equações\nS = {\n  1/x + 27/y² + 8/z³ = 3\n  4/x + 81/y² + 40/z³ = 10\n  2/x + 54/y² + 24/z³ = 7\n}\nSe (x, y, z) é uma solução real de S, então |x| + |y| + |z| é igual a",
+      principal: "Considere o sistema de equações\nS = {\n  $1/x$ + $27/y$² + $8/z$³ = 3\n  $4/x$ + $81/y$² + $40/z$³ = 10\n  $2/x$ + $54/y$² + $24/z$³ = 7\n}\nSe (x, y, z) é uma solução real de S, então |x| + |y| + |z| é igual a",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Sejam a, b, c, d números reais positivos e diferentes de 1. Das afirmações:\nI. a^(log_c b) = b^(log_c a).\nII. (log_d c / log_d a) * (log_a b / log_a c) * (log_c d / log_b d) = 1.\nIII. log_ab(bc) = log_a c\né (são) verdadeira(s)",
+      principal: "Sejam a, b, c, d números reais positivos e diferentes de 1. Das afirmações:\nI. a^($\\log_c$ b) = b^($\\log_c$ a).\nII. ($\\log_d$ c / $\\log_d$ a) * ($\\log_a$ b / $\\log_a$ c) * ($\\log_c$ d / $\\log_b$ d) = 1.\nIII. $\\log_ab$(bc) = $\\log_a$ c\né (são) verdadeira(s)",
       subItens: []
     },
     options: [
@@ -654,15 +654,15 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Considere dois círculos no primeiro quadrante:\n• C₁ com centro (x1, y1), raio r₁ e área π/16\n• C2 com centro (x2, y2), raio r₂ e área 144π.\nSabendo que (x1,y1, r1) e (x2,y2,r2) são duas progressões geométricas com somas dos termos iguais a 7/4 e 21, respectivamente, então a distância entre os centros de C₁ e C2 é igual a",
+      principal: "Considere dois círculos no primeiro quadrante:\n• C₁ com centro (x1, y1), raio r₁ e área π/16\n• C2 com centro (x2, y2), raio r₂ e área 144π.\nSabendo que (x1,y1, r1) e (x2,y2,r2) são duas progressões geométricas com somas dos termos iguais a $7/4$ e 21, respectivamente, então a distância entre os centros de C₁ e C2 é igual a",
       subItens: []
     },
     options: [
-      "√123/2",
-      "√129/2",
-      "√131/2",
-      "√135/2",
-      "√137/2"
+      "√$123/2$",
+      "√$129/2$",
+      "√$131/2$",
+      "√$135/2$",
+      "√$137/2$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -675,7 +675,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Das afirmações:\nI. Todo número inteiro positivo pode ser escrito, de maneira única, na forma 2^(k-1)(2m – 1), em que k e m são inteiros positivos.\nII. Existe um número x ∈ [0, π/2] de tal modo que os números a1 = sen x, a2 = sen (x + π/4), a3 = sen (x + π/2) e a4 = sen (x + 3π/4) estejam, nesta ordem, em progressão geométrica.\nIII. Existe um número inteiro primo p tal que √p é um número racional.\né (são) verdadeira(s)",
+      principal: "Das afirmações:\nI. Todo número inteiro positivo pode ser escrito, de maneira única, na forma 2^(k-1)(2m – 1), em que k e m são inteiros positivos.\nII. Existe um número x ∈ [0, π/2] de tal modo que os números a1 = $\\sin$ x, a2 = $\\sin$ (x + π/4), a3 = $\\sin$ (x + π/2) e a4 = $\\sin$ (x + 3π/4) estejam, nesta ordem, em progressão geométrica.\nIII. Existe um número inteiro primo p tal que √p é um número racional.\né (são) verdadeira(s)",
       subItens: []
     },
     options: [
@@ -700,11 +700,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "7! / (10^7 * 3!)",
-      "10! / (10^7 * 3!)",
-      "3! / (10^7 * 7!)",
-      "10! / (10^3 * 7!)",
-      "10! / 10^7"
+      "7! / ($10^7$ * 3!)",
+      "10! / ($10^7$ * 3!)",
+      "3! / ($10^7$ * 7!)",
+      "10! / ($10^3$ * 7!)",
+      "10! / $10^7$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -801,15 +801,15 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Um atirador dispõe de três alvos para acertar. O primeiro deste encontra-se a 30m de distância; o segundo, a 40m; o terceiro alvo, a 60m. Sabendo que a probabilidade de o atirador acertar o alvo é inversamente proporcional ao quadrado da distância e que a probabilidade de ele acertar o primeiro alvo é de 2/3, então a probabilidade de acertar ao menos um dos alvos é",
+      principal: "Um atirador dispõe de três alvos para acertar. O primeiro deste encontra-se a 30m de distância; o segundo, a 40m; o terceiro alvo, a 60m. Sabendo que a probabilidade de o atirador acertar o alvo é inversamente proporcional ao quadrado da distância e que a probabilidade de ele acertar o primeiro alvo é de $2/3$, então a probabilidade de acertar ao menos um dos alvos é",
       subItens: []
     },
     options: [
-      "120/160",
-      "119/154",
-      "110/144",
-      "105/135",
-      "119/144"
+      "$120/160$",
+      "$119/154$",
+      "$110/144$",
+      "$105/135$",
+      "$119/144$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -826,11 +826,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "11√6/3",
-      "13√6/3",
-      "17√6/3",
-      "20√6/3",
-      "25√6/3"
+      "11√$6/3$",
+      "13√$6/3$",
+      "17√$6/3$",
+      "20√$6/3$",
+      "25√$6/3$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -885,7 +885,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Um frasco fechado contém dois gases cujo comportamento é considerado ideal: hidrogênio molecular e monóxido de nitrogênio. Sabendo que a pressão parcial do monóxido de nitrogênio é igual a 3/5 da pressão parcial do hidrogênio molecular, e que a massa total da mistura é de 20 g, assinale a alternativa que fornece a porcentagem em massa do hidrogênio molecular na mistura gasosa.",
+      principal: "Um frasco fechado contém dois gases cujo comportamento é considerado ideal: hidrogênio molecular e monóxido de nitrogênio. Sabendo que a pressão parcial do monóxido de nitrogênio é igual a $3/5$ da pressão parcial do hidrogênio molecular, e que a massa total da mistura é de 20 g, assinale a alternativa que fornece a porcentagem em massa do hidrogênio molecular na mistura gasosa.",
       subItens: []
     },
     options: [
@@ -990,15 +990,15 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Considere duas soluções, X e Y, de um mesmo soluto genérico. A solução X tem 49% em massa do soluto, enquanto a solução Y possui 8% em massa do mesmo soluto. Quer-se obter uma terceira solução, que tenha 20% em massa deste soluto, a partir da mistura de um volume Vx da solução X com um volume Vy da solução Y. Considerando que todas as soluções envolvidas exibem comportamento ideal, assinale a opção que apresenta a razão Vx/Vy CORRETA.",
+      principal: "Considere duas soluções, X e Y, de um mesmo soluto genérico. A solução X tem 49% em massa do soluto, enquanto a solução Y possui 8% em massa do mesmo soluto. Quer-se obter uma terceira solução, que tenha 20% em massa deste soluto, a partir da mistura de um volume Vx da solução X com um volume Vy da solução Y. Considerando que todas as soluções envolvidas exibem comportamento ideal, assinale a opção que apresenta a razão $Vx/Vy$ CORRETA.",
       subItens: []
     },
     options: [
-      "12/29.",
-      "29/12.",
-      "19/12.",
-      "12/19.",
-      "4/49."
+      "$12/29$.",
+      "$29/12$.",
+      "$19/12$.",
+      "$12/19$.",
+      "$4/49$."
     ],
     correctAnswer: 0,
     materia: ["Química"],
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Um motor pulso-jato é uma máquina térmica que pode ser representada por um ciclo termodinâmico ideal de três etapas: I. Aquecimento isocórico (combustão). II. Expansão adiabática (liberação de gases). III. Compressão isobárica (rejeição de calor a pressão atmosférica). Considerando que essa máquina térmica opere com gases ideais, indique qual dos diagramas pressão versus volume a seguir representa o seu ciclo termodinâmico. A figura mostra 5 gráficos (A, B, C, D, E) de Pressão (P) versus Volume (V). Cada gráfico representa um ciclo termodinâmico com 3 etapas. O eixo Y representa P, e o eixo X representa V. Gráfico A: Começa em P_atm, V_k, sobe para P_2, V_k (isocórico); expande adiabaticamente para V_1, P_k; comprime isobáricamente de V_1 para V_k em P_k. Gráfico B: Começa em P_atm, V_k, sobe para P_2, V_k (isocórico); expande adiabaticamente de V_k para V_1 (P_k = P2(V2/Vk)^y); comprime isobáricamente de V_1 para V_k em P_k. V_2 V_1 V_k estão na ordem. Gráfico C: Começa em P_atm, V_1, sobe para P_2, V_1 (isocórico); expande adiabaticamente de V_1 para V_k (Pk < P2(V2/Vk)); comprime isobáricamente de V_k para V_1 em P_k. Gráfico D: Começa em P_atm, V_1, sobe para P_2, V_1 (isocórico); expande adiabaticamente de V_1 para V_k (Pk < P2(V2/Vk)); comprime isobáricamente de V_k para V_1 em P_k. V_2 V_1 V_k estão na ordem. Gráfico E: Começa em P_atm, V_1, sobe para P_2, V_1 (isocórico); expande adiabaticamente de V_1 para V_k (Pk > P2(V2/Vk)); comprime isobáricamente de V_k para V_1 em P_k. V_1 Vk estão na ordem, V2 = V1.",
+      principal: "Um motor pulso-jato é uma máquina térmica que pode ser representada por um ciclo termodinâmico ideal de três etapas: I. Aquecimento isocórico (combustão). II. Expansão adiabática (liberação de gases). III. Compressão isobárica (rejeição de calor a pressão atmosférica). Considerando que essa máquina térmica opere com gases ideais, indique qual dos diagramas pressão versus volume a seguir representa o seu ciclo termodinâmico. A figura mostra 5 gráficos (A, B, C, D, E) de Pressão (P) versus Volume (V). Cada gráfico representa um ciclo termodinâmico com 3 etapas. O eixo Y representa P, e o eixo X representa V. Gráfico A: Começa em $P_atm$, $V_k$, sobe para $P_2$, $V_k$ (isocórico); expande adiabaticamente para $V_1$, $P_k$; comprime isobáricamente de $V_1$ para $V_k$ em $P_k$. Gráfico B: Começa em $P_atm$, $V_k$, sobe para $P_2$, $V_k$ (isocórico); expande adiabaticamente de $V_k$ para $V_1$ ($P_k$ = P2($V2/Vk$)^y); comprime isobáricamente de $V_1$ para $V_k$ em $P_k$. $V_2$ $V_1$ $V_k$ estão na ordem. Gráfico C: Começa em $P_atm$, $V_1$, sobe para $P_2$, $V_1$ (isocórico); expande adiabaticamente de $V_1$ para $V_k$ (Pk < P2($V2/Vk$)); comprime isobáricamente de $V_k$ para $V_1$ em $P_k$. Gráfico D: Começa em $P_atm$, $V_1$, sobe para $P_2$, $V_1$ (isocórico); expande adiabaticamente de $V_1$ para $V_k$ (Pk < P2($V2/Vk$)); comprime isobáricamente de $V_k$ para $V_1$ em $P_k$. $V_2$ $V_1$ $V_k$ estão na ordem. Gráfico E: Começa em $P_atm$, $V_1$, sobe para $P_2$, $V_1$ (isocórico); expande adiabaticamente de $V_1$ para $V_k$ (Pk > P2($V2/Vk$)); comprime isobáricamente de $V_k$ para $V_1$ em $P_k$. $V_1$ Vk estão na ordem, V2 = V1.",
       subItens: []
     },
     options: [
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "As questões de 21 a 25 referem-se ao Texto 1.\n\nTexto 1: A mídia realmente tem o poder de manipular as pessoas?\nPor Francisco Fernandes Ladeira\n\nÀ primeira vista, a resposta para a pergunta que intitula este artigo parece simples e óbvia: sim, a\nmídia é um poderoso instrumento de manipulação. A ideia de que o frágil cidadão comum é impotente frente\naos gigantescos e poderosos conglomerados da comunicação é bastante atrativa intelectualmente.\nInfluentes nomes, como Adorno e Horkheimer, os primeiros pensadores a realizar análises mais sistemáticas\nsobre o tema, concluíram que os meios de comunicação em larga escala moldavam e direcionavam as\nopiniões de seus receptores. Segundo eles, o rádio torna todos os ouvintes iguais ao sujeitá-los,\nautoritariamente, aos idênticos programas das várias estações. No livro Televisão e Consciência de Classe,\nSarah Chucid Da Viá afirma que o vídeo apresenta um conjunto de imagens trabalhadas, cuja apreensão é\nmomentânea, de forma a persuadir rápida e transitoriamente o grande público. Por sua vez, o psicólogo\nsocial Gustav Le Bon considerava que, nas massas, o indivíduo deixava de ser ele próprio para ser um\nautomato sem vontade e os juízos aceitos pelas multidões seriam sempre impostos e nunca discutidos.\nAssim, fomentou-se a concepção de que a mídia seria capaz de manipular incondicionalmente uma\naudiência submissa, passiva e acrítica.\nTodavia, como bons cidadãos céticos, devemos duvidar (ou ao menos manter certa ressalva) de\nproposições imediatistas e aparentemente fáceis. As relações entre mídia e público são demasiadamente\ncomplexas, vão muito além de uma simples análise behaviorista de estímulo/resposta. As mensagens\ntransmitidas pelos grandes veículos de comunicação não são recebidas automaticamente e da mesma\nmaneira por todos os indivíduos. Na maioria das vezes, o discurso midiático perde seu significado original na\ncontroversa relação emissor/receptor. Cada indivíduo está envolto em uma “bolha ideológica\", apanágio de\nseu próprio processo de individuação, que condiciona sua maneira de interpretar e agir sobre o mundo.\nTodos nós, ao entramos em contato com o mundo exterior, construímos representações sobre a realidade.\nCada um de nós forma juízos de valor a respeito dos vários âmbitos do real, seus personagens,\nacontecimentos e fenômenos e, consequentemente, acreditamos que esses juízos correspondem à\n\"verdade\". [...]\n[...] A mídia é apenas um, entre vários quadros ou grupos de referência, aos quais um indivíduo\nrecorre como argumento para formular suas opiniões. Nesse sentido, competem com os veículos de\ncomunicação como quadros ou grupos de referência fatores subjetivos/psicológicos (história familiar,\ntrajetória pessoal, predisposição intelectual), o contexto social (renda, sexo, idade, grau de instrução, etnia,\nreligião) e o ambiente informacional (associação comunitária, trabalho, igreja). “Os vários tipos de receptor\nsituam-se numa complexa rede de referências em que a comunicação interpessoal e a midiática se\ncompletam e modificam\", afirmou a cientista social Alessandra Aldé em seu livro A construção da política:\ndemocracia, cidadania e meios de comunicação de massa. Evidentemente, o peso de cada quadro de\nreferência tende a variar de acordo com a realidade individual. Seguindo essa linha de raciocínio, no original\nestudo Muito Além do Jardim Botânico, Carlos Eduardo Lins da Silva constatou como telespectadores\ndo Jornal Nacional acionam seus mecanismos de defesa, individuais ou coletivos, para filtrar as informações\nveiculadas, traduzindo-as segundo seus próprios valores. “A síntese e as conclusões que um telespectador\nvai realizar depois de assistir a um telejornal não podem ser antecipadas por ninguém; nem por quem\nproduziu o telejornal, nem por quem assistiu ao mesmo tempo que aquele telespectador\", inferiu Carlos\nEduardo.\nAdaptado de: http://observatoriodaimprensa.com.br/imprensa-em-questao/a-midia-realmente-tem-o-poder-de-manipular-as-pessoas/.\n(Publicado em 14/04/2015, na edição 846. Acesso em 13/07/2016.)\n\nQuestão 21. O autor do texto",
+      principal: "As questões de 21 a 25 referem-se ao Texto 1.\n\nTexto 1: A mídia realmente tem o poder de manipular as pessoas?\nPor Francisco Fernandes Ladeira\n\nÀ primeira vista, a resposta para a pergunta que intitula este artigo parece simples e óbvia: sim, a\nmídia é um poderoso instrumento de manipulação. A ideia de que o frágil cidadão comum é impotente frente\naos gigantescos e poderosos conglomerados da comunicação é bastante atrativa intelectualmente.\nInfluentes nomes, como Adorno e Horkheimer, os primeiros pensadores a realizar análises mais sistemáticas\nsobre o tema, concluíram que os meios de comunicação em larga escala moldavam e direcionavam as\nopiniões de seus receptores. Segundo eles, o rádio torna todos os ouvintes iguais ao sujeitá-los,\nautoritariamente, aos idênticos programas das várias estações. No livro Televisão e Consciência de Classe,\nSarah Chucid Da Viá afirma que o vídeo apresenta um conjunto de imagens trabalhadas, cuja apreensão é\nmomentânea, de forma a persuadir rápida e transitoriamente o grande público. Por sua vez, o psicólogo\nsocial Gustav Le Bon considerava que, nas massas, o indivíduo deixava de ser ele próprio para ser um\nautomato sem vontade e os juízos aceitos pelas multidões seriam sempre impostos e nunca discutidos.\nAssim, fomentou-se a concepção de que a mídia seria capaz de manipular incondicionalmente uma\naudiência submissa, passiva e acrítica.\nTodavia, como bons cidadãos céticos, devemos duvidar (ou ao menos manter certa ressalva) de\nproposições imediatistas e aparentemente fáceis. As relações entre mídia e público são demasiadamente\ncomplexas, vão muito além de uma simples análise behaviorista de estí$\\mulo/resposta$. As mensagens\ntransmitidas pelos grandes veículos de comunicação não são recebidas automaticamente e da mesma\nmaneira por todos os indivíduos. Na maioria das vezes, o discurso midiático perde seu significado original na\ncontroversa relação $emissor/receptor$. Cada indivíduo está envolto em uma “bolha ideológica\", apanágio de\nseu próprio processo de individuação, que condiciona sua maneira de interpretar e agir sobre o mundo.\nTodos nós, ao entramos em contato com o mundo exterior, construímos representações sobre a realidade.\nCada um de nós forma juízos de valor a respeito dos vários âmbitos do real, seus personagens,\nacontecimentos e fenômenos e, consequentemente, acreditamos que esses juízos correspondem à\n\"verdade\". [...]\n[...] A mídia é apenas um, entre vários quadros ou grupos de referência, aos quais um indivíduo\nrecorre como argumento para formular suas opiniões. Nesse sentido, competem com os veículos de\ncomunicação como quadros ou grupos de referência fatores $subjetivos/psicol$ógicos (história familiar,\ntrajetória pessoal, predisposição intelectual), o contexto social (renda, sexo, idade, grau de instrução, etnia,\nreligião) e o ambiente informacional (associação comunitária, trabalho, igreja). “Os vários tipos de receptor\nsituam-se numa complexa rede de referências em que a comunicação interpessoal e a midiática se\ncompletam e modificam\", afirmou a cientista social Alessandra Aldé em seu livro A construção da política:\ndemocracia, cidadania e meios de comunicação de massa. Evidentemente, o peso de cada quadro de\nreferência tende a variar de acordo com a realidade individual. Seguindo essa linha de raciocínio, no original\nestudo Muito Além do Jardim Botânico, Carlos Eduardo Lins da Silva constatou como telespectadores\ndo Jornal Nacional acionam seus mecanismos de defesa, individuais ou coletivos, para filtrar as informações\nveiculadas, traduzindo-as segundo seus próprios valores. “A síntese e as conclusões que um telespectador\nvai realizar depois de assistir a um telejornal não podem ser antecipadas por ninguém; nem por quem\nproduziu o telejornal, nem por quem assistiu ao mesmo tempo que aquele telespectador\", inferiu Carlos\nEduardo.\nAdaptado de: http://observatoriodaimprensa.com.$br/imprensa$-em-$questao/a$-midia-realmente-tem-o-poder-de-manipular-as-pessoas/.\n(Publicado em 14/04/2015, na edição 846. Acesso em 13/07/2016.)\n\nQuestão 21. O autor do texto",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "Questão 22. De acordo com o ponto de vista do autor,\nI. fatores subjetivos/psicológicos são os mais influentes na formação das opiniões e superam até mesmo a incondicional influência midiática.\nII. a homogeneidade dos programas de rádio e de televisão é a responsável pela manipulação midiática das opiniões.\nIII. é impossível determinar como o indivíduo interpretará as informações veiculadas por um telejornal.\nEstá(ão) correta(s) apenas",
+      principal: "Questão 22. De acordo com o ponto de vista do autor,\nI. fatores $subjetivos/psicol$ógicos são os mais influentes na formação das opiniões e superam até mesmo a incondicional influência midiática.\nII. a homogeneidade dos programas de rádio e de televisão é a responsável pela manipulação midiática das opiniões.\nIII. é impossível determinar como o indivíduo interpretará as informações veiculadas por um telejornal.\nEstá(ão) correta(s) apenas",
       subItens: []
     },
     options: [
@@ -1352,9 +1352,9 @@ createQuestion({
     },
     options: [
       "[...] devemos duvidar (ou ao menos manter certa ressalva) de proposições imediatistas e aparentemente fáceis. – VTD (linhas 14-15)",
-      "Na maioria das vezes, o discurso midiático perde seu significado original na controversa relação emissor/receptor. – VTI (linhas 18-19)",
+      "Na maioria das vezes, o discurso midiático perde seu significado original na controversa relação $emissor/receptor$. – VTI (linhas 18-19)",
       "A mídia é apenas um, entre vários quadros ou grupos de referência, aos quais um indivíduo recorre como argumento para formular suas opiniões. – VTI (linhas 25-26)",
-      "Nesse sentido, competem com os veículos de comunicação como quadros ou grupos de referência fatores subjetivos/psicológicos [...] – VTD (linhas 26-27).",
+      "Nesse sentido, competem com os veículos de comunicação como quadros ou grupos de referência fatores $subjetivos/psicol$ógicos [...] – VTD (linhas 26-27).",
       "Evidentemente, o peso de cada quadro de referência tende a variar de acordo com a realidade individual. – VI (linhas 32-33)"
     ],
     correctAnswer: 2,
@@ -1368,7 +1368,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "As questões de 26 a 29 referem-se ao Texto 2.\n\nTexto 2: Vídeos falsos confundem o público e a imprensa\nPor Jasper Jackson, tradução de Jo Amado\n\nCerca de duas horas depois da divulgação dos atentados de terça-feira (22/03) em Bruxelas,\napareceu um vídeo no YouTube, sob a alegação de que seriam imagens do circuito fechado de televisão\n(CCTV), mostrando uma explosão no aeroporto Zaventem, da cidade. As imagens rapidamente se\nespalharam pelas redes sociais e foram divulgadas por alguns dos principais sites de notícias. Depois desse,\nsurgiu outro vídeo, supostamente mostrando uma explosão na estação de metrô Maelbeek, próxima ao\nParlamento Europeu, e ainda um outro, alegando ser do aeroporto.\nEntretanto, nenhum dos vídeos era o que alegava ser. Os três vídeos eram gravações de 2011, dois\nde um atentado ao aeroporto Domodedovo, de Moscou, e um de uma bomba que explodiu numa estação de\nmetrô de Minsk, capital da Belarus.\nAs imagens distorcidas dos clipes do circuito fechado de televisão foram convertidas de cor em\npreto e branco, horizontalmente invertidas, novamente etiquetadas e postadas como se tivessem surgido dos\nacontecimentos do dia. Embora a conta do YouTube que compartilhou as imagens com falsos objetivos tenha\nsido rapidamente tirada do ar, outros veículos as reproduziram dizendo que eram de Bruxelas.\nOs vídeos ilusórios são exemplos de um fenômeno que vem se tornando cada vez mais comum em\nquase todas as matérias importantes que tratam de acontecimentos violentos e que ocorrem rapidamente.\nReportagens falsas ou ilusórias espalham-se rapidamente pelas redes sociais e são acessadas por\norganizações jornalísticas respeitáveis, confundindo ainda mais um quadro já incrivelmente confuso.\nA disseminação e divulgação de falsas informações não têm nada de novo, mas a internet tornou\nmais fácil plantar matérias e provas falsas e ilusórias, que serão amplamente compartilhadas pelo Twitter e\npelo Facebook.\nAlastair Reid, editor administrativo do site First Draft, que é uma coalizão de organizações que se\nespecializam em checar informações e conta com o apoio do Google, disse que parte do problema é que\nqualquer pessoa que publique em plataformas como o Facebook tem a capacidade de atingir uma audiência\ntão ampla quanto aquelas que são atingidas por uma organização jornalística. \"Pode tratar-se de alguém\ntentando desviar propositalmente a pauta jornalística por motivos políticos, ou muitas vezes são apenas\npessoas que querem os números, os cliques e os compartilhamentos porque querem fazer parte da conversa\nou da validade da informação”, disse ele. “Eles não têm quaisquer padrões de ética, mas têm o mesmo tipo\nde distribuição.\"\nNesse meio tempo, a rápida divulgação das notícias online e a concorrência com as redes sociais\ntambém aumentaram a pressão sobre as organizações jornalísticas para serem as primeiras a divulgar cada\navanço, ao mesmo tempo em que eliminam alguns dos obstáculos que permitem informações equivocadas.\nUma página na web não só pode ser atualizada de maneira a eliminar qualquer vestígio de uma\nmensagem falsa, mas, quando muitas pessoas apenas se limitam a registrar qual o website em que estão\nlendo uma reportagem, a ameaça à reputação é significativamente menor que no jornal impresso. Em muitos\ncasos, um fragmento de informação, uma fotografia ou um vídeo são simplesmente bons demais para checar.\nAlastair Reid disse: \"Agora talvez haja mais pressão junto a algumas organizações para agirem\nrapidamente, para clicar, para ser a primeira... E há, evidentemente, uma pressão comercial para ter aquele\nvídeo fantástico, aquela foto fantástica, para ser de maior interesse jornalístico, mais compartilhável e tudo\nisso pode se sobrepor ao desejo de ser certo.\"\nAdaptado de: http://observatoriodaimprensa.com.br/terrorismo/videos-falsos-confundem-o-publico-e-a-imprensa/.\n(Publicado originalmente no jornal The Guardian em 23/3/2016. Acesso em 30/03/2016.)\n\nQuestão 26. De acordo com o texto,",
+      principal: "As questões de 26 a 29 referem-se ao Texto 2.\n\nTexto 2: Vídeos falsos confundem o público e a imprensa\nPor Jasper Jackson, tradução de Jo Amado\n\nCerca de duas horas depois da divulgação dos atentados de terça-feira ($22/03$) em Bruxelas,\napareceu um vídeo no YouTube, sob a alegação de que seriam imagens do circuito fechado de televisão\n(CCTV), mostrando uma explosão no aeroporto Zaventem, da cidade. As imagens rapidamente se\nespalharam pelas redes sociais e foram divulgadas por alguns dos principais sites de notícias. Depois desse,\nsurgiu outro vídeo, supostamente mostrando uma explosão na estação de metrô Maelbeek, próxima ao\nParlamento Europeu, e ainda um outro, alegando ser do aeroporto.\nEntretanto, nenhum dos vídeos era o que alegava ser. Os três vídeos eram gravações de 2011, dois\nde um atentado ao aeroporto Domodedovo, de Moscou, e um de uma bomba que explodiu numa estação de\nmetrô de Minsk, capital da Belarus.\nAs imagens distorcidas dos clipes do circuito fechado de televisão foram convertidas de cor em\npreto e branco, horizontalmente invertidas, novamente etiquetadas e postadas como se tivessem surgido dos\nacontecimentos do dia. Embora a conta do YouTube que compartilhou as imagens com falsos objetivos tenha\nsido rapidamente tirada do ar, outros veículos as reproduziram dizendo que eram de Bruxelas.\nOs vídeos ilusórios são exemplos de um fenômeno que vem se tornando cada vez mais comum em\nquase todas as matérias importantes que tratam de acontecimentos violentos e que ocorrem rapidamente.\nReportagens falsas ou ilusórias espalham-se rapidamente pelas redes sociais e são acessadas por\norganizações jornalísticas respeitáveis, confundindo ainda mais um quadro já incrivelmente confuso.\nA disseminação e divulgação de falsas informações não têm nada de novo, mas a internet tornou\nmais fácil plantar matérias e provas falsas e ilusórias, que serão amplamente compartilhadas pelo Twitter e\npelo Facebook.\nAlastair Reid, editor administrativo do site First Draft, que é uma coalizão de organizações que se\nespecializam em checar informações e conta com o apoio do Google, disse que parte do problema é que\nqualquer pessoa que publique em plataformas como o Facebook tem a capacidade de atingir uma audiência\ntão ampla quanto aquelas que são atingidas por uma organização jornalística. \"Pode tratar-se de alguém\ntentando desviar propositalmente a pauta jornalística por motivos políticos, ou muitas vezes são apenas\npessoas que querem os números, os cliques e os compartilhamentos porque querem fazer parte da conversa\nou da validade da informação”, disse ele. “Eles não têm quaisquer padrões de ética, mas têm o mesmo tipo\nde distribuição.\"\nNesse meio tempo, a rápida divulgação das notícias online e a concorrência com as redes sociais\ntambém aumentaram a pressão sobre as organizações jornalísticas para serem as primeiras a divulgar cada\navanço, ao mesmo tempo em que eliminam alguns dos obstáculos que permitem informações equivocadas.\nUma página na web não só pode ser atualizada de maneira a eliminar qualquer vestígio de uma\nmensagem falsa, mas, quando muitas pessoas apenas se limitam a registrar qual o website em que estão\nlendo uma reportagem, a ameaça à reputação é significativamente menor que no jornal impresso. Em muitos\ncasos, um fragmento de informação, uma fotografia ou um vídeo são simplesmente bons demais para checar.\nAlastair Reid disse: \"Agora talvez haja mais pressão junto a algumas organizações para agirem\nrapidamente, para clicar, para ser a primeira... E há, evidentemente, uma pressão comercial para ter aquele\nvídeo fantástico, aquela foto fantástica, para ser de maior interesse jornalístico, mais compartilhável e tudo\nisso pode se sobrepor ao desejo de ser certo.\"\nAdaptado de: http://observatoriodaimprensa.com.br/terrorismo/videos-falsos-confundem-o-publico-e-a-imprensa/.\n(Publicado originalmente no jornal The Guardian em 23/3/2016. Acesso em 30/03/2016.)\n\nQuestão 26. De acordo com o texto,",
       subItens: []
     },
     options: [
@@ -2019,7 +2019,7 @@ createQuestion({
     university: "ita",
     year: 2017,
     text: {
-      principal: "As questões de 17 a 20 referem-se ao texto a seguir:\n\nSTARSHOT PROJECT: STEPHEN HAWKING AND MARK ZUCKERBERG LAUNCH MOST AMBITIOUS ALIEN-FINDING PROJECT EVER\n\nTiny rockets are going to be sent into space to study the far universe in the most ambitious space exploration project in history. Scientists including Stephen Hawking and backers such as internet investor Yuri Milner and Mark Zuckerberg will send \"nano craft\" deep into space to explore the most remote regions that humans have ever seen, by far. The hugely ambitious project could reveal deep secrets of the universe and will allow people to photograph one of the most likely places to hold life on other worlds. Professor Hawking said at the event: \"What makes us unique is transcending our limits. Gravity pins us to the ground, but I just flew to America. \"How do we transcend these limits? With our minds and our machines. \"The limit that confronts us now is the great void between us and the stars. But now we can transcend it, with light beams, light sails, and the lightest spacecraft ever built. Today we commit to this next great leap into the cosmos, because we are human and our nature is to fly.\" The Starshot Project hopes to get the tiny robots out to the Alpha Centauri star system, 25 trillion miles away. Getting there through normal means would take 30,000 years - but the new project hopes that using the tiny rockets will allow them to get there in just 20. Scientists think that the Alpha Centauri system might well have an Earth-like planet that could be found in its \"habitable zones\". The craft will be able to take pictures of those a potential way that they might find life on other worlds. The crafts will be \"gram-scale nano craft\", according to Yuri Milner, which will make their way through space using a \"sail pushed by a light beam\". Their design will allow them to fly at 25 per cent of light speed. Those craft will be able to send back images of possible planets and other scientific data, according to the scientists behind it. \"The human story is one of great leaps,\" Dr Milner said. \"Today we are preparing for the next great leap - to the stars. \"Can we literally reach the stars, and can we do it in our lifetime?\" The tiny rockets are made up of computers that can be mounted to a tiny “wafer”. Shrinking computer components mean that all of the necessary parts – cameras, thrusters, power supply and navigation equipment - can all be mounted on a tiny plate that will be a fully functional space probe. Before those are built, the project will have to create all of the important parts on the ground. That includes the construction of a light-beamer that can power the rockets and a \"mothership” that will be able to carry them all out into space and launch them. Because of economies of scale and the decreasing price of computer components, the team will eventually be able to send out the rockets for just a few hundred thousand dollars, they said.\nFonte: http://www.independent.co.uk/news/science/starshot-project-stephen-hawking-and-mark-zuckerberg-to-send-tiny-rockets-to-alpha-centauri-in-most-a6981101.html (acesso em 03/05/2016).\n\nQuestão 17. De acordo com o texto, o principal objetivo do Projeto Starshot é",
+      principal: "As questões de 17 a 20 referem-se ao texto a seguir:\n\nSTARSHOT PROJECT: STEPHEN HAWKING AND MARK ZUCKERBERG LAUNCH MOST AMBITIOUS ALIEN-FINDING PROJECT EVER\n\nTiny rockets are going to be sent into space to study the far universe in the most ambitious space exploration project in history. Scientists including Stephen Hawking and backers such as internet investor Yuri Milner and Mark Zuckerberg will send \"nano craft\" deep into space to explore the most remote regions that humans have ever seen, by far. The hugely ambitious project could reveal deep secrets of the universe and will allow people to photograph one of the most likely places to hold life on other worlds. Professor Hawking said at the event: \"What makes us unique is transcending our limits. Gravity pins us to the ground, but I just flew to America. \"How do we transcend these limits? With our minds and our machines. \"The limit that confronts us now is the great void between us and the stars. But now we can transcend it, with light beams, light sails, and the lightest spacecraft ever built. Today we commit to this next great leap into the cosmos, because we are human and our nature is to fly.\" The Starshot Project hopes to get the tiny robots out to the $\\alpha$ Centauri star system, 25 trillion miles away. Getting there through normal means would take 30,000 years - but the new project hopes that using the tiny rockets will allow them to get there in just 20. Scientists think that the $\\alpha$ Centauri system might well have an Earth-like planet that could be found in its \"habitable zones\". The craft will be able to take pictures of those a potential way that they might find life on other worlds. The crafts will be \"gram-scale nano craft\", according to Yuri Milner, which will make their way through space using a \"sail pushed by a light beam\". Their design will allow them to fly at 25 per cent of light speed. Those craft will be able to send back images of possible planets and other scientific data, according to the scientists behind it. \"The human story is one of great leaps,\" Dr Milner said. \"Today we are preparing for the next great leap - to the stars. \"Can we literally reach the stars, and can we do it in our lifetime?\" The tiny rockets are made up of computers that can be mounted to a tiny “wafer”. Shrinking computer components mean that all of the necessary parts – cameras, thrusters, power supply and navigation equipment - can all be mounted on a tiny plate that will be a fully functional space probe. Before those are built, the project will have to create all of the important parts on the ground. That includes the construction of a light-beamer that can power the rockets and a \"mothership” that will be able to carry them all out into space and launch them. Because of economies of scale and the decreasing price of computer components, the team will eventually be able to send out the rockets for just a few hundred thousand dollars, they said.\nFonte: http://www.independent.co.uk/news/science/starshot-project-stephen-hawking-and-mark-zuckerberg-to-send-tiny-rockets-to-$\\alpha$-centauri-in-most-a6981101.html (acesso em 03/05/2016).\n\nQuestão 17. De acordo com o texto, o principal objetivo do Projeto Starshot é",
       subItens: []
     },
     options: [

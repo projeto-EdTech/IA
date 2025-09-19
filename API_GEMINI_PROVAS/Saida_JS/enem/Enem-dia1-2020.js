@@ -444,7 +444,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "Respeita as torcedoras!\nConversar?\nTorcer juntos?\nTocar sem permissão?\nEmpurrar?\nSe sentiu desrespeitada?\nDenuncie: disque 180\n#respeitaasminas\n#geralnapaz\nDisponível em: www.facebook.com/ministeriodoesporte. Acesso em: 7 dez. 2017.\nEsse anúncio publicitário propõe soluções para um problema social recorrente, ao",
+      principal: "Respeita as torcedoras!\nConversar?\nTorcer juntos?\nTocar sem permissão?\nEmpurrar?\nSe sentiu desrespeitada?\nDenuncie: disque 180\n#respeitaasminas\n#geralnapaz\nDisponível em: www.facebook.$com/ministeriodoesporte$. Acesso em: 7 dez. 2017.\nEsse anúncio publicitário propõe soluções para um problema social recorrente, ao",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "LUTA: prática corporal imprevisível, caracterizada por determinado estado de contato proposital, que possibilita a duas ou mais pessoas se enfrentarem numa constante troca de ações ofensivas e/ou defensivas, regida por regras, com o objetivo mútuo sobre um alvo móvel personificado no oponente.\nGOMES, M. S. P. et al. Ensino das lutas: dos princípios condicionais aos grupos situacionais. Movimento, n. 2, abr.-jun. 2010 (adaptado).\nDe acordo com o texto, podemos identificar uma abordagem das lutas nas aulas de educação física quando o professor realiza uma proposta envolvendo",
+      principal: "LUTA: prática corporal imprevisível, caracterizada por determinado estado de contato proposital, que possibilita a duas ou mais pessoas se enfrentarem numa constante troca de ações ofensivas $e/ou$ defensivas, regida por regras, com o objetivo mútuo sobre um alvo móvel personificado no oponente.\nGOMES, M. S. P. et al. Ensino das lutas: dos princípios condicionais aos grupos situacionais. Movimento, n. 2, abr.-jun. 2010 (adaptado).\nDe acordo com o texto, podemos identificar uma abordagem das lutas nas aulas de educação física quando o professor realiza uma proposta envolvendo",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "O senhor pensa que eu tenho alguma fábrica de dinheiro? (O diretor diz essas coisas a ele, mas olha para todos como quem quer dar uma explicação a todos. Todas as caras sorriem.) Quando seu filho esteve doente, eu o ajudei como pude. Não me peça mais nada. Não me encarregue de pagar as suas contas: já tenho as minhas, e é o que me basta... (Risos.)\nO diretor tem o rosto escanhoado, a camisa limpa. A palavra possui um tom educado, de pessoa que convive com gente inteligente, causeuse. O rosto do Dr. Rist resplandece, vermelho e glabro. Um que outro tem os olhos no chão, a atitude discreta.\nNaziazeno espera que ele lhe dê as costas, vá reatar a palestra interrompida, aquelas observações sobre a questão social, comunismo e integralismo.\nMACHADO, D. Os ratos. São Paulo: Círculo do Livro, s/d.\nA ficção modernista explorou tipos humanos em situação de conflito social. No fragmento do romancista gaúcho, esse conflito revela a",
+      principal: "O senhor pensa que eu tenho alguma fábrica de dinheiro? (O diretor diz essas coisas a ele, mas olha para todos como quem quer dar uma explicação a todos. Todas as caras sorriem.) Quando seu filho esteve doente, eu o ajudei como pude. Não me peça mais nada. Não me encarregue de pagar as suas contas: já tenho as minhas, e é o que me basta... (Risos.)\nO diretor tem o rosto escanhoado, a camisa limpa. A palavra possui um tom educado, de pessoa que convive com gente inteligente, causeuse. O rosto do Dr. Rist resplandece, vermelho e glabro. Um que outro tem os olhos no chão, a atitude discreta.\nNaziazeno espera que ele lhe dê as costas, vá reatar a palestra interrompida, aquelas observações sobre a questão social, comunismo e integralismo.\nMACHADO, D. Os ratos. São Paulo: Círculo do Livro, $s/d$.\nA ficção modernista explorou tipos humanos em situação de conflito social. No fragmento do romancista gaúcho, esse conflito revela a",
       subItens: []
     },
     options: [
@@ -1347,7 +1347,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "O conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como de uma regulação específica.\nLIMA, R. C.; PENNA, N. A. A logística de transportes do agronegócio em Mato Grosso (Brasil). Confins, n. 26, fev. 2016.\nO mapa e o texto se complementam indicando que a expansão das rodovias se deu como resposta ao(à)",
+      principal: "O conjunto representado pelo agronegócio demanda condições específicas que passam a ser exigidas dos territórios. Como há uma elevação da formação de fluxos, materiais e imateriais, a crescente articulação com as escalas que vão do local ao global terminam por pressionar o Estado a agir visando uma instalação no território de fixos diversos, bem como de uma regulação específica.\nLIMA, R. C.; PENNA, N. A. A $\\log$ística de transportes do agronegócio em Mato Grosso (Brasil). Confins, n. 26, fev. 2016.\nO mapa e o texto se complementam indicando que a expansão das rodovias se deu como resposta ao(à)",
       subItens: []
     },
     options: [
@@ -1452,7 +1452,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "Com efeito, até a destruição de Cartago, o povo e o Senado romano governavam a República em harmonia e sem paixão, e não havia entre os cidadãos luta por glória ou dominação; o medo do inimigo mantinha a cidade no cumprimento do dever. Mas, assim que o medo desapareceu dos espíritos, introduziram-se os males pelos quais a prosperidade tem predileção, isto é, a libertinagem e o orgulho.\nSALÚSTIO. A conjuração de Catilina/A guerra de Jugurta. Petrópolis: Vozes, 1990 (adaptado).\nO acontecimento histórico mencionado no texto de Salústio, datado de I a.C., manteve correspondência com o processo de",
+      principal: "Com efeito, até a destruição de Cartago, o povo e o Senado romano governavam a República em harmonia e sem paixão, e não havia entre os cidadãos luta por glória ou dominação; o medo do inimigo mantinha a cidade no cumprimento do dever. Mas, assim que o medo desapareceu dos espíritos, introduziram-se os males pelos quais a prosperidade tem predileção, isto é, a libertinagem e o orgulho.\nSALÚSTIO. A conjuração de $Catilina/A$ guerra de Jugurta. Petrópolis: Vozes, 1990 (adaptado).\nO acontecimento histórico mencionado no texto de Salústio, datado de I a.C., manteve correspondência com o processo de",
       subItens: []
     },
     options: [
@@ -1830,7 +1830,7 @@ createQuestion({
     university: "enem",
     year: 2020,
     text: {
-      principal: "TEXTO I\nRio Tietê, São Paulo (SP). Foto: Delfim Martins/Pulsar.\nTEXTO II\nO Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fundação SOS Mata Atlântica mostra que, em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida.\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).\nConsiderando a análise dos textos, a condição atual desse rio tem como origem a",
+      principal: "TEXTO I\nRio Tietê, São Paulo (SP). Foto: Delfim $Martins/Pulsar$.\nTEXTO II\nO Rio Tietê está morto. Ao menos uma parte dele: 137 quilômetros, para ser mais preciso. Uma pesquisa da Fundação SOS Mata Atlântica mostra que, em 2016, o trecho do rio com qualidade de água classificada como ruim ou péssima começa em Itaquaquecetuba, passa por toda a Região Metropolitana de São Paulo e chega até Cabreúva, já no interior de São Paulo. Nesse trecho, a água não tem oxigênio suficiente para abrigar vida.\nDisponível em: http://epoca.globo.com. Acesso em: 7 dez. 2017 (adaptado).\nConsiderando a análise dos textos, a condição atual desse rio tem como origem a",
       subItens: []
     },
     options: [

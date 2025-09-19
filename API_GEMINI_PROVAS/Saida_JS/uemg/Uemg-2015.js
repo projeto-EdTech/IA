@@ -69,7 +69,7 @@ createQuestion({
     options: [
       "Os parênteses foram empregados toda vez que a locutora queria se dirigir diretamente ao seu interlocutor, ou seja, o leitor do texto.",
       "Em todas as ocorrências, as palavras no diminutivo apresentam o mesmo valor semântico: demonstrar depreciação em relação ao que se diz.",
-      "Em “O meu aniversário: primeiro pensei numa celebração...\" os dois pontos podem ser substituídos por uma vírgula sem que haja alteração sintática e/ou semântica.",
+      "Em “O meu aniversário: primeiro pensei numa celebração...\" os dois pontos podem ser substituídos por uma vírgula sem que haja alteração sintática $e/ou$ semântica.",
       "A linguagem empregada se aproxima do registro coloquial, o que se comprova pelo emprego das palavras botariam, badalações, mais chegados e festonas."
     ],
     correctAnswer: 3,
@@ -143,7 +143,7 @@ createQuestion({
     university: "uemg",
     year: 2015,
     text: {
-      principal: "A citação a seguir faz referência a um recurso literário conhecido como “bricolagem\". Oriundo do francês, o termo bricolagem significa um trabalho manual feito de improviso e que aproveita materiais diferentes. Na apropriação realizada por Lévi-Strauss (1976), o conceito de bricolagem foi definido como um método de expressão através da seleção e síntese de componentes selecionados de uma cultura. Por sua vez, relendo o trabalho do antropólogo, Derrida (1971) ressignificou o termo no âmbito da teoria literária, adotando-o como sinônimo de colagem de textos numa dada obra. LIPPI, B. G. & NEIRA, M. G. Tecendo a Colcha de Retalhos: a bricolagem como alternativa para a pesquisa educacional. In: Educação & Realidade. Porto Alegre: v. 37, n. 2, p. 607-625, maio/ago. 2012. Assinale a alternativa que apresenta CORRETAMENTE o título de um conto da obra “Você Verá\", no qual se evidencia claramente o uso do recurso literário citado:",
+      principal: "A citação a seguir faz referência a um recurso literário conhecido como “bricolagem\". Oriundo do francês, o termo bricolagem significa um trabalho manual feito de improviso e que aproveita materiais diferentes. Na apropriação realizada por Lévi-Strauss (1976), o conceito de bricolagem foi definido como um método de expressão através da seleção e síntese de componentes selecionados de uma cultura. Por sua vez, relendo o trabalho do antropólogo, Derrida (1971) ressignificou o termo no âmbito da teoria literária, adotando-o como sinônimo de colagem de textos numa dada obra. LIPPI, B. G. & NEIRA, M. G. Tecendo a Colcha de Retalhos: a bricolagem como alternativa para a pesquisa educacional. In: Educação & Realidade. Porto Alegre: v. 37, n. 2, p. 607-625, $maio/ago$. 2012. Assinale a alternativa que apresenta CORRETAMENTE o título de um conto da obra “Você Verá\", no qual se evidencia claramente o uso do recurso literário citado:",
       subItens: []
     },
     options: [
@@ -243,7 +243,7 @@ createQuestion({
     university: "uemg",
     year: 2015,
     text: {
-      principal: "O tempo é um rio que corre. O tempo não é um relógio. Ele é muito mais do que isso. O tempo passa, quer se tenha um relógio ou não. Uma pessoa quer atravessar um rio num local onde a distância entre as margens é de 50 m. Para isso, ela orienta o seu barco perpendicularmente às margens. Considere que a velocidade do barco em relação às águas seja de 2,0 m/s e que a correnteza tenha uma velocidade de 4,0 m/s. Sobre a travessia desse barco, assinale a afirmação CORRETA:",
+      principal: "O tempo é um rio que corre. O tempo não é um relógio. Ele é muito mais do que isso. O tempo passa, quer se tenha um relógio ou não. Uma pessoa quer atravessar um rio num local onde a distância entre as margens é de 50 m. Para isso, ela orienta o seu barco perpendicularmente às margens. Considere que a velocidade do barco em relação às águas seja de 2,0 $m/s$ e que a correnteza tenha uma velocidade de 4,0 $m/s$. Sobre a travessia desse barco, assinale a afirmação CORRETA:",
       subItens: []
     },
     options: [
@@ -267,10 +267,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "O móvel estava a 50 m/s e manteve essa velocidade durante 2,0 s.",
-      "O móvel estava a 20 m/s e, em 10 s, aumentou a sua velocidade para 40 m/s.",
-      "O móvel estava a 10 m/s e, em 2,0 s, diminuiu sua velocidade para zero.",
-      "O móvel estava a 40 m/s e, em 10 s, diminuiu sua velocidade para zero."
+      "O móvel estava a 50 $m/s$ e manteve essa velocidade durante 2,0 s.",
+      "O móvel estava a 20 $m/s$ e, em 10 s, aumentou a sua velocidade para 40 $m/s$.",
+      "O móvel estava a 10 $m/s$ e, em 2,0 s, diminuiu sua velocidade para zero.",
+      "O móvel estava a 40 $m/s$ e, em 10 s, diminuiu sua velocidade para zero."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -323,14 +323,14 @@ createQuestion({
     university: "uemg",
     year: 2015,
     text: {
-      principal: "Um espelho reflete raios de luz que nele incidem. Se usássemos os espelhos para refletir, quantas reflexões interessantes poderíamos fazer. Enquanto a filosofia se incumbe de reflexões internas, que incidem e voltam para dentro da pessoa, um espelho trata de reflexões externas. Mas, como escreveu Luiz Vilela, “você verá.\" Você está diante de um espelho plano, vendo-se totalmente. Num certo instante, e é disso que é feita a vida, de instantes, você se aproxima do espelho a 1,5 m/s e está a 2,0 m de distância do espelho. Nesse instante, a sua imagem, fornecida pelo espelho, estará",
+      principal: "Um espelho reflete raios de luz que nele incidem. Se usássemos os espelhos para refletir, quantas reflexões interessantes poderíamos fazer. Enquanto a filosofia se incumbe de reflexões internas, que incidem e voltam para dentro da pessoa, um espelho trata de reflexões externas. Mas, como escreveu Luiz Vilela, “você verá.\" Você está diante de um espelho plano, vendo-se totalmente. Num certo instante, e é disso que é feita a vida, de instantes, você se aproxima do espelho a 1,5 $m/s$ e está a 2,0 m de distância do espelho. Nesse instante, a sua imagem, fornecida pelo espelho, estará",
       subItens: []
     },
     options: [
-      "a 2,0 m de distância do espelho, com uma velocidade de 3,0 m/s em relação a você.",
-      "a 2,0 m de distância do espelho, com uma velocidade de 1,5 m/s em relação a você.",
-      "a uma distância maior que 2,0 m do espelho, com uma velocidade de 3,0 m/s em relação ao espelho.",
-      "a uma distância menor que 2,0 m do espelho, com uma velocidade de 1,5 m/s em relação ao espelho."
+      "a 2,0 m de distância do espelho, com uma velocidade de 3,0 $m/s$ em relação a você.",
+      "a 2,0 m de distância do espelho, com uma velocidade de 1,5 $m/s$ em relação a você.",
+      "a uma distância maior que 2,0 m do espelho, com uma velocidade de 3,0 $m/s$ em relação ao espelho.",
+      "a uma distância menor que 2,0 m do espelho, com uma velocidade de 1,5 $m/s$ em relação ao espelho."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "uemg",
     year: 2015,
     text: {
-      principal: "Observe as manchetes jornalísticas abaixo: FUGIU GOULART E A DEMOCRACIA ESTÁ SENDO RESTABELECIDA EMPOSSADO MAZZILLI NA PRESIDENCIA O GLOBO TEXTO NA 6 PAGINA Ressurge a Democracia! CASTELO BRANCO ADVERTIRA OS COMANDOS: As Forças Armadas São Para Defender a Lei A VIOLÊNCIA CONTRA \"O GLOBO\" A ASSEMBLEIA DE PERNAMBUCO VOTOU O \"IMPEACHMENT DE ARRAES Decisão da Patria http://acertodecontas.blog.br/wp-content/uploads/2009/04/capa-do-jornal-o-globo.jpg acesso em 12/8/2014 No dia 1º de abril de 1964, um golpe militar pôs fim ao governo de João Goulart. Neste momento histórico, o jornal “O Globo” assim noticiava o que acontecia no cenário político brasileiro: \"Ressurge a Democracia” “Como dizíamos, no editorial de anteontem, a legalidade não poderia ser a garantia da subversão, a escora dos agitadores, o anteparo da desordem. Em nome da legalidade, não seria legítimo admitir o assassínio das instituições, como se vinha fazendo, diante da Nação horrorizada. Agora, o Congresso dará o remédio constitucional à situação existente, para que o País continue sua marcha em direção a seu grande destino, sem que os direitos individuais sejam afetados, sem que as liberdades públicas desapareçam, sem que o poder do Estado volte a ser usado em favor da desordem, da indisciplina e de tudo aquilo que nos estava a levar à anarquia e ao comunismo\". A efervescência política, com o Golpe, tomou conta da mídia impressa, gerando, assim, uma expectativa de esperança na reconstrução democrática nacional. O “inimigo\" havia caído, o \"golpe ou a revolução socialista” não iria prosperar contra um estado forte. Desta forma, o primeiro de Abril de 1964 marcava a esperança. Entretanto não tardou muito para que as instituições militares que se estabeleceram no comando da nação praticassem ações de repressão contra a própria mídia e a população. Após 20 anos de repressão, nos anos 80, o Brasil encontra esperança na",
+      principal: "Observe as manchetes jornalísticas abaixo: FUGIU GOULART E A DEMOCRACIA ESTÁ SENDO RESTABELECIDA EMPOSSADO MAZZILLI NA PRESIDENCIA O GLOBO TEXTO NA 6 PAGINA Ressurge a Democracia! CASTELO BRANCO ADVERTIRA OS COMANDOS: As Forças Armadas São Para Defender a Lei A VIOLÊNCIA CONTRA \"O GLOBO\" A ASSEMBLEIA DE PERNAMBUCO VOTOU O \"IMPEACHMENT DE ARRAES Decisão da Patria http://acertodecontas.blog.$br/wp$-content/uploads/2009/04/capa-do-jornal-o-globo.jpg acesso em 12/8/2014 No dia 1º de abril de 1964, um golpe militar pôs fim ao governo de João Goulart. Neste momento histórico, o jornal “O Globo” assim noticiava o que acontecia no cenário político brasileiro: \"Ressurge a Democracia” “Como dizíamos, no editorial de anteontem, a legalidade não poderia ser a garantia da subversão, a escora dos agitadores, o anteparo da desordem. Em nome da legalidade, não seria legítimo admitir o assassínio das instituições, como se vinha fazendo, diante da Nação horrorizada. Agora, o Congresso dará o remédio constitucional à situação existente, para que o País continue sua marcha em direção a seu grande destino, sem que os direitos individuais sejam afetados, sem que as liberdades públicas desapareçam, sem que o poder do Estado volte a ser usado em favor da desordem, da indisciplina e de tudo aquilo que nos estava a levar à anarquia e ao comunismo\". A efervescência política, com o Golpe, tomou conta da mídia impressa, gerando, assim, uma expectativa de esperança na reconstrução democrática nacional. O “inimigo\" havia caído, o \"golpe ou a revolução socialista” não iria prosperar contra um estado forte. Desta forma, o primeiro de Abril de 1964 marcava a esperança. Entretanto não tardou muito para que as instituições militares que se estabeleceram no comando da nação praticassem ações de repressão contra a própria mídia e a população. Após 20 anos de repressão, nos anos 80, o Brasil encontra esperança na",
       subItens: []
     },
     options: [
@@ -603,7 +603,7 @@ createQuestion({
     university: "uemg",
     year: 2015,
     text: {
-      principal: "Observe a tirinha: (Tirinha de humor com personagens se referindo à fórmula H2SO4, onde um diz \"Cospe, cospe que é ácido sulfúrico!\") htt://hquimica.webnode.com.br/charges-humoradas/. Acesso em 2/5/2014 A personagem da tirinha de humor mandou cuspir a substância porque uma importante propriedade do ácido sulfúrico é ser",
+      principal: "Observe a tirinha: (Tirinha de humor com personagens se referindo à fórmula H2SO4, onde um diz \"Cospe, cospe que é ácido sulfúrico!\") htt://hquimica.webnode.com.$br/charges$-humoradas/. Acesso em 2/5/2014 A personagem da tirinha de humor mandou cuspir a substância porque uma importante propriedade do ácido sulfúrico é ser",
       subItens: []
     },
     options: [
@@ -643,7 +643,7 @@ createQuestion({
     university: "uemg",
     year: 2015,
     text: {
-      principal: "\"Está chegando ao Brasil, o café \"hot when you want\" (em português, \"quente quando você quiser\"), da Nescafé, desenvolvido na Universidade de Southampton, Inglaterra. Basta apertar um botão no fundo da lata, esperar três minutos e pronto! Café quentinho (a 60°C) durante 20 minutos! Mas, afinal, qual será a tecnologia de ponta do \"hot when you want? Apenas um compartimento no fundo da lata que contém, separadamente, a cal viva (a mesma do fogo grego!) e a água. Ao apertar o botão no fundo da lata, a placa que separa essas duas substâncias se rompe e a reação começa. O calor desprendido na reação é então aproveitado para aquecer o café na parte superior da lata. Simples, mas genial!\" http://www1.folha.uol.com.br/folha/educacao/ult305u10268.shtml. Acesso em 3/7/2014 A reação e a energia envolvidas estão descritas na equação abaixo: CaO (s) + H₂O(l) → Ca(OH)2(aq) ΔΗ= - 20,4 kcal/mol Considere que são necessários 0,3 kcal de energia para se elevar em 1°C a temperatura de 300mL de água contida numa latinha de café “hot when you want” e que toda energia liberada seja utilizada para aquecer a bebida. Qual a massa aproximada de óxido de cálcio (CaO) que será utilizada na reação para que a temperatura da bebida passe de 20°C para 60°C ?",
+      principal: "\"Está chegando ao Brasil, o café \"hot when you want\" (em português, \"quente quando você quiser\"), da Nescafé, desenvolvido na Universidade de Southampton, Inglaterra. Basta apertar um botão no fundo da lata, esperar três minutos e pronto! Café quentinho (a 60°C) durante 20 minutos! Mas, afinal, qual será a tecnologia de ponta do \"hot when you want? Apenas um compartimento no fundo da lata que contém, separadamente, a cal viva (a mesma do fogo grego!) e a água. Ao apertar o botão no fundo da lata, a placa que separa essas duas substâncias se rompe e a reação começa. O calor desprendido na reação é então aproveitado para aquecer o café na parte superior da lata. Simples, mas genial!\" http://www1.folha.uol.com.br/folha/educacao/ult305u10268.shtml. Acesso em 3/7/2014 A reação e a energia envolvidas estão descritas na equação abaixo: CaO (s) + H₂O(l) → Ca(OH)2(aq) ΔΗ= - 20,4 $kcal/mol$ Considere que são necessários 0,3 kcal de energia para se elevar em 1°C a temperatura de 300mL de água contida numa latinha de café “hot when you want” e que toda energia liberada seja utilizada para aquecer a bebida. Qual a massa aproximada de óxido de cálcio (CaO) que será utilizada na reação para que a temperatura da bebida passe de 20°C para 60°C ?",
       subItens: []
     },
     options: [
@@ -683,7 +683,7 @@ createQuestion({
     university: "uemg",
     year: 2015,
     text: {
-      principal: "Anvisa suspende lote de paracetamol e de outros 3 remédios de laboratório. \"Quatro medicamentos produzidos por um laboratório brasileiro tiveram lotes suspensos por determinação da Anvisa e as decisões foram publicadas no Diário Oficial da União nesta quarta-feira. Dentre eles, o Paracetamol 500 mg, com validade para 11/2015, foi suspenso depois que um consumidor contatou o Procon para denunciar que havia um parafuso no lugar de um dos comprimidos, em uma das cartelas do medicamento. Após notificação do Procon, o laboratório já iniciou o recolhimento voluntário do lote, que foi distribuído em Goiás, Minas Gerais, Rio Grande do Sul e Bahia. O medicamento Cetoconazol 200 mg, indicado para tratamentos de infecções por fungos ou leveduras, teve suspenso o lote com validade para 06/2015. O motivo da suspensão foi uma queixa de um consumidor feita ao SAC do laboratório afirmando que encontrou um outro medicamento, o Atenolol 100 mg, na cartela do Cetoconazol. O atenolol é indicado para o controle de hipertensão arterial. O lote foi distribuído em Goiás, Amazonas, Alagoas, Bahia, Minas Gerais, Pará, Rio de Janeiro e São Paulo.\" http://www.g1.globo.com. Acesso em 20/8/2014 As estruturas do paracetamol, do cetoconazol e do atenolol são mostradas a seguir: (Estruturas químicas do Paracetamol, Cetoconazol e Atenolol) Apesar de serem indicadas para diferentes tratamentos, as três substâncias citadas apresentam, em comum, o grupo funcional",
+      principal: "Anvisa suspende lote de paracetamol e de outros 3 remédios de laboratório. \"Quatro medicamentos produzidos por um laboratório brasileiro tiveram lotes suspensos por determinação da Anvisa e as decisões foram publicadas no Diário Oficial da União nesta quarta-feira. Dentre eles, o Paracetamol 500 mg, com validade para $11/2015$, foi suspenso depois que um consumidor contatou o Procon para denunciar que havia um parafuso no lugar de um dos comprimidos, em uma das cartelas do medicamento. Após notificação do Procon, o laboratório já iniciou o recolhimento voluntário do lote, que foi distribuído em Goiás, Minas Gerais, Rio Grande do Sul e Bahia. O medicamento Cetoconazol 200 mg, indicado para tratamentos de infecções por fungos ou leveduras, teve suspenso o lote com validade para $06/2015$. O motivo da suspensão foi uma queixa de um consumidor feita ao SAC do laboratório afirmando que encontrou um outro medicamento, o Atenolol 100 mg, na cartela do Cetoconazol. O atenolol é indicado para o controle de hipertensão arterial. O lote foi distribuído em Goiás, Amazonas, Alagoas, Bahia, Minas Gerais, Pará, Rio de Janeiro e São Paulo.\" http://www.g1.globo.com. Acesso em 20/8/2014 As estruturas do paracetamol, do cetoconazol e do atenolol são mostradas a seguir: (Estruturas químicas do Paracetamol, Cetoconazol e Atenolol) Apesar de serem indicadas para diferentes tratamentos, as três substâncias citadas apresentam, em comum, o grupo funcional",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "uemg",
     year: 2015,
     text: {
-      principal: "Chuvas Aliviam Problemas, Mas Não Resolvem \"A falta de chuva e o calor recorde têm trazido sérios problemas para uma das maiores matrizes de abastecimento de água do mundo. A capacidade dos reservatórios do Sistema Cantareira atingiu o menor nível em toda história. O Sistema, que é formado por várias represas e abastece 47% da Grande São Paulo, atingiu a marca preocupante de 19,4%, segundo a Sabesp. Isso acontece porque a chuva tem sido insuficiente sobre as nascentes das principais Bacias Hidrográficas do Sudeste(...).\" Entenda: Sistema Cantareira de abastecimento e a chuva em SP (Mapa do Sistema Cantareira de abastecimento de água em SP, mostrando reservatórios, rios e a direção de escoamento da água. Inclui cidades e os estados de SP e MG) http://jgazetaregional.com.br/meio-ambiente/2014/02/17/chuvas-aliviam-problemas-mas-nao-resolvem. Acesso em 21/8/2014 (Texto e mapa adaptados) Com base na análise do texto e das imagens acima, é CORRETO afirmar que, para aliviar a situação dos reservatórios do Sistema Cantareira, seria necessário(a)",
+      principal: "Chuvas Aliviam Problemas, Mas Não Resolvem \"A falta de chuva e o calor recorde têm trazido sérios problemas para uma das maiores matrizes de abastecimento de água do mundo. A capacidade dos reservatórios do Sistema Cantareira atingiu o menor nível em toda história. O Sistema, que é formado por várias represas e abastece 47% da Grande São Paulo, atingiu a marca preocupante de 19,4%, segundo a Sabesp. Isso acontece porque a chuva tem sido insuficiente sobre as nascentes das principais Bacias Hidrográficas do Sudeste(...).\" Entenda: Sistema Cantareira de abastecimento e a chuva em SP (Mapa do Sistema Cantareira de abastecimento de água em SP, mostrando reservatórios, rios e a direção de escoamento da água. Inclui cidades e os estados de SP e MG) http://jgazetaregional.com.$br/meio$-ambiente/2014/02/17/chuvas-aliviam-problemas-mas-nao-resolvem. Acesso em 21/8/2014 (Texto e mapa adaptados) Com base na análise do texto e das imagens acima, é CORRETO afirmar que, para aliviar a situação dos reservatórios do Sistema Cantareira, seria necessário(a)",
       subItens: []
     },
     options: [

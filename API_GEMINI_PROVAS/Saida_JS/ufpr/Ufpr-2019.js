@@ -87,7 +87,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "Leia o trecho abaixo, retirado de uma carta escrita entre 830 e 840 pelo aristocrata franco Eginhardo, em favor de camponeses:\nAo nosso mui querido amigo, o glorioso conde Hatton, Eginhardo, saudação eterna do Senhor. Um dos vossos servos, de nome Huno, veio à igreja dos santos mártires Marcelino e Pedro pedir mercê* pela falta que cometeu contraindo casamento sem o vosso consentimento [...]. Vimos, pois, solicitar a vossa bondade para que em nosso favor useis de indulgência em relação a este homem, se julgais que a sua falta pode ser perdoada. Desejo-vos boa saúde com a graça do Senhor.\n(Cartas de Eginhardo. Tradução de Ricardo da Costa. Extratos de documentos medievais sobre o campesinato (sécs. V-XV). Disponível em: <https://www.ricardocosta.com/extratos-de-documentos-medievais-sobre-o-campesinato-secs-v-xv#footnoteref19_nuc8key>. Acesso em 11 de agosto de 2018.)\n*pedir mercê = pedir intercessão\nNo extrato acima, encontramos elementos da vida social e econômica do período medieval europeu (Alta Idade Média).\nEsse documento insere-se em qual sistema social, político e econômico predominante nesse contexto?",
+      principal: "Leia o trecho abaixo, retirado de uma carta escrita entre 830 e 840 pelo aristocrata franco Eginhardo, em favor de camponeses:\nAo nosso mui querido amigo, o glorioso conde Hatton, Eginhardo, saudação eterna do Senhor. Um dos vossos servos, de nome Huno, veio à igreja dos santos mártires Marcelino e Pedro pedir mercê* pela falta que cometeu contraindo casamento sem o vosso consentimento [...]. Vimos, pois, solicitar a vossa bondade para que em nosso favor useis de indulgência em relação a este homem, se julgais que a sua falta pode ser perdoada. Desejo-vos boa saúde com a graça do Senhor.\n(Cartas de Eginhardo. Tradução de Ricardo da Costa. Extratos de documentos medievais sobre o campesinato (sécs. V-XV). Disponível em: <https://www.ricardocosta.$com/extratos$-de-documentos-medievais-sobre-o-campesinato-secs-v-xv#$footnoteref19_nuc8key$>. Acesso em 11 de agosto de 2018.)\n*pedir mercê = pedir intercessão\nNo extrato acima, encontramos elementos da vida social e econômica do período medieval europeu (Alta Idade Média).\nEsse documento insere-se em qual sistema social, político e econômico predominante nesse contexto?",
       subItens: []
     },
     options: [
@@ -129,7 +129,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "A seleção de futebol da França, campeã da Copa de 2018, possui mais da metade dos seus jogadores de origem africana e/ou árabe. Desde 1998, a seleção francesa é conhecida em seu país como equipe \"black-blanc-beur\" (negra, branca e árabe). Uma razão histórica do aumento da diversidade étnica, racial e religiosa na Europa, presente nos dias atuais é:",
+      principal: "A seleção de futebol da França, campeã da Copa de 2018, possui mais da metade dos seus jogadores de origem africana $e/ou$ árabe. Desde 1998, a seleção francesa é conhecida em seu país como equipe \"black-blanc-beur\" (negra, branca e árabe). Uma razão histórica do aumento da diversidade étnica, racial e religiosa na Europa, presente nos dias atuais é:",
       subItens: []
     },
     options: [
@@ -213,7 +213,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "A usina de energia de Hellisheidi, na Islândia, vem testando um novo método para combater o aquecimento global: transformar o gás carbônico (CO2) em pedra. O processo ocorre em duas etapas: primeiro o CO2 é dissolvido em água em altas pressões (25 bar) e depois injetado no solo numa temperatura de 230 °C. A mineralização do gás carbônico ocorre de maneira rápida, devido à reatividade e composição do solo da região, rica em ferro, cálcio e magnésio. As duas etapas da remoção de CO2 estão esquematizadas de maneira simplificada ao lado.\nEsquema de reações:\nCO2 (g) + H2O (l) (25 bar) → CO3(aq) + 2 H+ (aq)\nCO3(aq) + Ca2+ (aq) (230 °C) → CaCO3 (s)\nFonte: 1. <https://www.bbc.com/portuguese>. Acessado em 23 de maio 2018. Adaptado. 2. Mater, J. M. et alii, Rapid carbon mineralization for permanent disposal of anthropogenic carbon dioxide emissions. Science, Vol. 352, Issue 6291, pp. 1312-1314.\nA remoção desse gás da atmosfera ocorre por:",
+      principal: "A usina de energia de Hellisheidi, na Islândia, vem testando um novo método para combater o aquecimento global: transformar o gás carbônico (CO2) em pedra. O processo ocorre em duas etapas: primeiro o CO2 é dissolvido em água em altas pressões (25 bar) e depois injetado no solo numa temperatura de 230 °C. A mineralização do gás carbônico ocorre de maneira rápida, devido à reatividade e composição do solo da região, rica em ferro, cálcio e magnésio. As duas etapas da remoção de CO2 estão esquematizadas de maneira simplificada ao lado.\nEsquema de reações:\nCO2 (g) + H2O (l) (25 bar) → CO3(aq) + 2 H+ (aq)\nCO3(aq) + Ca2+ (aq) (230 °C) → CaCO3 (s)\nFonte: 1. <https://www.bbc.$com/portuguese$>. Acessado em 23 de maio 2018. Adaptado. 2. Mater, J. M. et alii, Rapid carbon mineralization for permanent disposal of anthropogenic carbon dioxide emissions. Science, Vol. 352, Issue 6291, pp. 1312-1314.\nA remoção desse gás da atmosfera ocorre por:",
       subItens: []
     },
     options: [
@@ -276,7 +276,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "A nomenclatura de substâncias orgânicas segue um rigoroso conjunto de regras que levam em consideração a função orgânica, a cadeia principal e a posição dos substituintes. Dar o nome oficial a uma substância orgânica muitas vezes não é algo trivial, e o uso desse nome no dia a dia pode ser desencorajador. Por conta disso, muitas substâncias são conhecidas pelos seus nomes populares. Por exemplo, a estrutura orgânica mostrada ao lado lembra a figura de um pinguim, sendo por isso popularmente conhecida como pinguinona.\nImagem: Estrutura química da Pinguinona, com anéis benzênicos e grupos metil.\n(Fonte da Imagem: <http://falen.info/usapimage-pinguim.acp>. Acessado em 09/08/2018.)\nO nome oficial dessa substância é:",
+      principal: "A nomenclatura de substâncias orgânicas segue um rigoroso conjunto de regras que levam em consideração a função orgânica, a cadeia principal e a posição dos substituintes. Dar o nome oficial a uma substância orgânica muitas vezes não é algo trivial, e o uso desse nome no dia a dia pode ser desencorajador. Por conta disso, muitas substâncias são conhecidas pelos seus nomes populares. Por exemplo, a estrutura orgânica mostrada ao lado lembra a figura de um pinguim, sendo por isso popularmente conhecida como pinguinona.\nImagem: Estrutura química da Pinguinona, com anéis benzênicos e grupos metil.\n(Fonte da Imagem: <http://falen.$info/usapimage$-pinguim.acp>. Acessado em 09/08/2018.)\nO nome oficial dessa substância é:",
       subItens: []
     },
     options: [
@@ -507,15 +507,15 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "A lactase é uma enzima presente no intestino delgado que converte lactose em galactose e glicose. Algumas pessoas apresentam níveis baixos da enzima lactase e, por isso, podem ter dificuldade em digerir a lactose presente no leite. O diagnóstico dessa deficiência de lactase pode ser feito por meio de exames de sangue: são colhidas amostras de sangue e medidos os níveis de glicemia após 12 horas de jejum e após 30 e 60 minutos da ingestão de lactose dissolvida em água. Nos pacientes com níveis normais de lactase, ocorre aumento da glicemia em 20 mg/dL ou mais em pelo menos um dos intervalos de tempo (30 e 60 minutos). Em pacientes com níveis baixos de lactase, o aumento da glicemia nas duas dosagens após a ingestão de lactose é menor que 20 mg/dL. Considerando a deficiência de lactase e o teste descrito no texto, é correto afirmar:",
+      principal: "A lactase é uma enzima presente no intestino delgado que converte lactose em galactose e glicose. Algumas pessoas apresentam níveis baixos da enzima lactase e, por isso, podem ter dificuldade em digerir a lactose presente no leite. O diagnóstico dessa deficiência de lactase pode ser feito por meio de exames de sangue: são colhidas amostras de sangue e medidos os níveis de glicemia após 12 horas de jejum e após 30 e 60 minutos da ingestão de lactose dissolvida em água. Nos pacientes com níveis normais de lactase, ocorre aumento da glicemia em 20 $mg/dL$ ou mais em pelo menos um dos intervalos de tempo (30 e 60 minutos). Em pacientes com níveis baixos de lactase, o aumento da glicemia nas duas dosagens após a ingestão de lactose é menor que 20 $mg/dL$. Considerando a deficiência de lactase e o teste descrito no texto, é correto afirmar:",
       subItens: []
     },
     options: [
       "Devido à deficiência de lactase, a glicose chega inalterada ao intestino grosso, onde é fermentada por bactérias, produzindo gases e ácido láctico.",
-      "Um aumento de pelo menos 20 mg/dL na glicemia indica que o paciente tem deficiência de lactase, pois houve acúmulo de lactose no sangue.",
+      "Um aumento de pelo menos 20 $mg/dL$ na glicemia indica que o paciente tem deficiência de lactase, pois houve acúmulo de lactose no sangue.",
       "Em pacientes com deficiência de lactase, a lactose ofertada no teste é convertida somente em galactose, motivo pelo qual não há aumento da glicemia.",
-      "Em pacientes sem deficiência de lactase, um aumento de pelo menos 20 mg/dL na glicemia indica síntese adequada de lactose pela ação da lactase.",
-      "Se houver aumento da glicemia maior que 20 mg/dL após a ingestão de lactose, significa que houve conversão adequada da lactose em glicose pela ação da lactase."
+      "Em pacientes sem deficiência de lactase, um aumento de pelo menos 20 $mg/dL$ na glicemia indica síntese adequada de lactose pela ação da lactase.",
+      "Se houver aumento da glicemia maior que 20 $mg/dL$ após a ingestão de lactose, significa que houve conversão adequada da lactose em glicose pela ação da lactase."
     ],
     correctAnswer: 4,
     materia: ["Biologia"],
@@ -637,11 +637,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/28.",
-      "5/32.",
-      "5/14.",
-      "5/16.",
-      "9/56."
+      "$5/28$.",
+      "$5/32$.",
+      "$5/14$.",
+      "$5/16$.",
+      "$9/56$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -675,15 +675,15 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "Considere a seguinte sequência de funções polinomiais do segundo grau:\nP₁(x) = 2x² + (x/3) – 3\nP2(x) = 2x² + (x/9) – 9\nP3(x) = 2x² + (x/27) – 27\n...\npn(x) = 2x² + (x/3^n) – 3^n\nDenotando por S₁ a soma das raízes de p₁(x), S₂ a soma das raízes de p₂(x) e assim por diante, pode-se concluir que a soma infinita\nS = S1+S2 + S3 + S4 + ...\né igual a:",
+      principal: "Considere a seguinte sequência de funções polinomiais do segundo grau:\nP₁(x) = 2x² + ($x/3$) – 3\nP2(x) = 2x² + ($x/9$) – 9\nP3(x) = 2x² + ($x/27$) – 27\n...\npn(x) = 2x² + (x/3^n) – $3^n$\nDenotando por S₁ a soma das raízes de p₁(x), S₂ a soma das raízes de p₂(x) e assim por diante, pode-se concluir que a soma infinita\nS = S1+S2 + S3 + S4 + ...\né igual a:",
       subItens: []
     },
     options: [
-      "-1/2.",
-      "-1/4.",
-      "-1/8.",
-      "1/4.",
-      "1/2."
+      "-$1/2$.",
+      "-$1/4$.",
+      "-$1/8$.",
+      "$1/4$.",
+      "$1/2$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -696,7 +696,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "Um tanque contém uma solução de água e sal cuja concentração está diminuindo devido à adição de mais água. Suponha que a concentração Q(t) de sal no tanque, em gramas por litro (g/l), decorridas t horas após o início da diluição, seja dada por\nQ(t) = 100 × 5⁻⁰,³ᵗ\nAssinale a alternativa que mais se aproxima do tempo necessário para que a concentração de sal diminua para 50 g/l.\n(Use log 5 = 0,7)",
+      principal: "Um tanque contém uma solução de água e sal cuja concentração está diminuindo devido à adição de mais água. Suponha que a concentração Q(t) de sal no tanque, em gramas por litro ($g/l$), decorridas t horas após o início da diluição, seja dada por\nQ(t) = 100 × 5⁻⁰,³ᵗ\nAssinale a alternativa que mais se aproxima do tempo necessário para que a concentração de sal diminua para 50 $g/l$.\n(Use $\\log$ 5 = 0,7)",
       subItens: []
     },
     options: [
@@ -738,15 +738,15 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "Sejam x, y ∈ (0, π/2), tais que cos(x) = 3/5 e sen(y) = 5/13. Podemos concluir que tg(x + y) é igual a:",
+      principal: "Sejam x, y ∈ (0, π/2), tais que $\\cos$(x) = $3/5$ e $\\sin$(y) = $5/13$. Podemos concluir que $\\tan$(x + y) é igual a:",
       subItens: []
     },
     options: [
-      "1/2.",
-      "7/6.",
-      "8/9.",
-      "25/52.",
-      "56/33."
+      "$1/2$.",
+      "$7/6$.",
+      "$8/9$.",
+      "$25/52$.",
+      "$56/33$."
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -822,7 +822,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "É verdade que na Alemanha (da mesma forma que em outros países europeus) sempre existiram ressentimentos xenófobos e antissemitas, como também grupos e partidos de extrema direita. Não são fenômenos novos. A novidade desses últimos anos é o exibicionismo desavergonhado _______ são manifestadas em público essas posturas desumanas, o desenfreio _______ se assedia e se fustiga nas ruas os que têm aspecto, crenças e uma forma de amar diferentes dos da maioria. A novidade é o consenso social _______ é tolerável dizer e o que deve continuar sendo intolerável.\n(<https://brasil.elpais.com/brasil/2018/09/21/opinion/1537548764_065506.html?id_externo_rsoc=FB_BR_CM>.)\nAssinale a alternativa que preenche corretamente as lacunas acima, na ordem em que aparecem no texto.",
+      principal: "É verdade que na Alemanha (da mesma forma que em outros países europeus) sempre existiram ressentimentos xenófobos e antissemitas, como também grupos e partidos de extrema direita. Não são fenômenos novos. A novidade desses últimos anos é o exibicionismo desavergonhado _______ são manifestadas em público essas posturas desumanas, o desenfreio _______ se assedia e se fustiga nas ruas os que têm aspecto, crenças e uma forma de amar diferentes dos da maioria. A novidade é o consenso social _______ é tolerável dizer e o que deve continuar sendo intolerável.\n(<https://brasil.elpais.com/brasil/2018/09/21/opinion/1537548764_065506.html?$id_externo_rsoc$=$FB_BR_CM$>.)\nAssinale a alternativa que preenche corretamente as lacunas acima, na ordem em que aparecem no texto.",
       subItens: []
     },
     options: [
@@ -969,7 +969,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "O texto a seguir é referência para as questões 47 e 48.\n'Ferrugem': um ótimo nacional encara o cyberbullying\nUm celular perdido, um vídeo viralizado, e Tati, de 16 anos, se vê no meio de um furacão que abalaria qualquer um – e muito mais uma menina a quem ainda falta o equipamento emocional para lidar com uma situação tão drástica de exposição da intimidade e de ostracismo social. Os amigos e amigas vão caindo fora; com os pais, ela não consegue falar. Renet, o garoto com quem ela começava a engatar um flerte quando tudo começou, dá as costas a ela. E Tati, interpretada pela ótima novata Tiffanny Dopke, de fisionomia suave e jeitinho cativante, sucumbe à pressão.\n'Ferrugem', do diretor Aly Muritiba, é um dos pontos altos de uma safra surpreendentemente boa do cinema nacional nos últimos meses (completada ainda por 'Aos Teus Olhos', 'As Boas Maneiras', 'O Animal Cordial' e 'Benzinho'). Da agitação e cacofonia dessa primeira parte do filme, Muritiba vai, na segunda metade, para um estilo oposto: com atenção e reflexão, acompanha o sofrimento de Renet (o também muito bom Giovanni de Lorenzi) com as consequências do episódio que afetou Tati. Aqui, duas visões morais muito distintas se opõem: a do pai (Enrique Diaz), que quer poupar Renet, e a da mãe (a calorosa Clarissa Kiste), que quer obrigá-lo a enfrentar os fatos.\nMaduro, lúcido, muito bem escrito e filmado, 'Ferrugem' está na comissão de frente dos possíveis indicados do Brasil ao Oscar do ano que vem.\n(Disponível em: <https://veja.abril.com.br/tveja/em-cartaz/ferrugem-um-otimo-nacional-encara-o-cyberbullying/>. Acesso em 31/08/2018.)\nCom base no texto, identifique como verdadeiras (V) ou falsas (F) as seguintes afirmativas:\n( ) O filme \"Ferrugem\", segundo a reportagem apura, concorrerá ao Oscar de melhor filme estrangeiro no ano que vem.\n( ) O filme \"Ferrugem\" narra a história de uma menina, Tati, que tem sua intimidade exposta publicamente depois de perder o celular.\n( ) O filme apresenta duas linhas narrativas: uma agitada e dissonante, e outra, psicológica e reflexiva.\n( ) O filme \"Ferrugem\" critica a exposição descuidada dos adolescentes em redes sociais.\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
+      principal: "O texto a seguir é referência para as questões 47 e 48.\n'Ferrugem': um ótimo nacional encara o cyberbullying\nUm celular perdido, um vídeo viralizado, e Tati, de 16 anos, se vê no meio de um furacão que abalaria qualquer um – e muito mais uma menina a quem ainda falta o equipamento emocional para lidar com uma situação tão drástica de exposição da intimidade e de ostracismo social. Os amigos e amigas vão caindo fora; com os pais, ela não consegue falar. Renet, o garoto com quem ela começava a engatar um flerte quando tudo começou, dá as costas a ela. E Tati, interpretada pela ótima novata Tiffanny Dopke, de fisionomia suave e jeitinho cativante, sucumbe à pressão.\n'Ferrugem', do diretor Aly Muritiba, é um dos pontos altos de uma safra surpreendentemente boa do cinema nacional nos últimos meses (completada ainda por 'Aos Teus Olhos', 'As Boas Maneiras', 'O Animal Cordial' e 'Benzinho'). Da agitação e cacofonia dessa primeira parte do filme, Muritiba vai, na segunda metade, para um estilo oposto: com atenção e reflexão, acompanha o sofrimento de Renet (o também muito bom Giovanni de Lorenzi) com as consequências do episódio que afetou Tati. Aqui, duas visões morais muito distintas se opõem: a do pai (Enrique Diaz), que quer poupar Renet, e a da mãe (a calorosa Clarissa Kiste), que quer obrigá-lo a enfrentar os fatos.\nMaduro, lúcido, muito bem escrito e filmado, 'Ferrugem' está na comissão de frente dos possíveis indicados do Brasil ao Oscar do ano que vem.\n(Disponível em: <https://veja.abril.com.br/tveja/em-$cartaz/ferrugem$-um-otimo-nacional-encara-o-cyberbullying/>. Acesso em 31/08/2018.)\nCom base no texto, identifique como verdadeiras (V) ou falsas (F) as seguintes afirmativas:\n( ) O filme \"Ferrugem\", segundo a reportagem apura, concorrerá ao Oscar de melhor filme estrangeiro no ano que vem.\n( ) O filme \"Ferrugem\" narra a história de uma menina, Tati, que tem sua intimidade exposta publicamente depois de perder o celular.\n( ) O filme apresenta duas linhas narrativas: uma agitada e dissonante, e outra, psicológica e reflexiva.\n( ) O filme \"Ferrugem\" critica a exposição descuidada dos adolescentes em redes sociais.\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
       subItens: []
     },
     options: [
@@ -990,7 +990,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "O texto a seguir é referência para as questões 47 e 48.\n'Ferrugem': um ótimo nacional encara o cyberbullying\nUm celular perdido, um vídeo viralizado, e Tati, de 16 anos, se vê no meio de um furacão que abalaria qualquer um – e muito mais uma menina a quem ainda falta o equipamento emocional para lidar com uma situação tão drástica de exposição da intimidade e de ostracismo social. Os amigos e amigas vão caindo fora; com os pais, ela não consegue falar. Renet, o garoto com quem ela começava a engatar um flerte quando tudo começou, dá as costas a ela. E Tati, interpretada pela ótima novata Tiffanny Dopke, de fisionomia suave e jeitinho cativante, sucumbe à pressão.\n'Ferrugem', do diretor Aly Muritiba, é um dos pontos altos de uma safra surpreendentemente boa do cinema nacional nos últimos meses (completada ainda por 'Aos Teus Olhos', 'As Boas Maneiras', 'O Animal Cordial' e 'Benzinho'). Da agitação e cacofonia dessa primeira parte do filme, Muritiba vai, na segunda metade, para um estilo oposto: com atenção e reflexão, acompanha o sofrimento de Renet (o também muito bom Giovanni de Lorenzi) com as consequências do episódio que afetou Tati. Aqui, duas visões morais muito distintas se opõem: a do pai (Enrique Diaz), que quer poupar Renet, e a da mãe (a calorosa Clarissa Kiste), que quer obrigá-lo a enfrentar os fatos.\nMaduro, lúcido, muito bem escrito e filmado, 'Ferrugem' está na comissão de frente dos possíveis indicados do Brasil ao Oscar do ano que vem.\n(Disponível em: <https://veja.abril.com.br/tveja/em-cartaz/ferrugem-um-otimo-nacional-encara-o-cyberbullying/>. Acesso em 31/08/2018.)\nAs expressões 'equipamento emocional' e 'ostracismo social', no segundo parágrafo, podem ser interpretadas, segundo o contexto de ocorrência, respectivamente, como:",
+      principal: "O texto a seguir é referência para as questões 47 e 48.\n'Ferrugem': um ótimo nacional encara o cyberbullying\nUm celular perdido, um vídeo viralizado, e Tati, de 16 anos, se vê no meio de um furacão que abalaria qualquer um – e muito mais uma menina a quem ainda falta o equipamento emocional para lidar com uma situação tão drástica de exposição da intimidade e de ostracismo social. Os amigos e amigas vão caindo fora; com os pais, ela não consegue falar. Renet, o garoto com quem ela começava a engatar um flerte quando tudo começou, dá as costas a ela. E Tati, interpretada pela ótima novata Tiffanny Dopke, de fisionomia suave e jeitinho cativante, sucumbe à pressão.\n'Ferrugem', do diretor Aly Muritiba, é um dos pontos altos de uma safra surpreendentemente boa do cinema nacional nos últimos meses (completada ainda por 'Aos Teus Olhos', 'As Boas Maneiras', 'O Animal Cordial' e 'Benzinho'). Da agitação e cacofonia dessa primeira parte do filme, Muritiba vai, na segunda metade, para um estilo oposto: com atenção e reflexão, acompanha o sofrimento de Renet (o também muito bom Giovanni de Lorenzi) com as consequências do episódio que afetou Tati. Aqui, duas visões morais muito distintas se opõem: a do pai (Enrique Diaz), que quer poupar Renet, e a da mãe (a calorosa Clarissa Kiste), que quer obrigá-lo a enfrentar os fatos.\nMaduro, lúcido, muito bem escrito e filmado, 'Ferrugem' está na comissão de frente dos possíveis indicados do Brasil ao Oscar do ano que vem.\n(Disponível em: <https://veja.abril.com.br/tveja/em-$cartaz/ferrugem$-um-otimo-nacional-encara-o-cyberbullying/>. Acesso em 31/08/2018.)\nAs expressões 'equipamento emocional' e 'ostracismo social', no segundo parágrafo, podem ser interpretadas, segundo o contexto de ocorrência, respectivamente, como:",
       subItens: []
     },
     options: [
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "O Uraguai foi publicado pela primeira vez antes da independência do Brasil, em 1769, e narra as disputas entre espanhóis e portugueses pelos territórios do sul do continente, envolvendo os índios e os jesuítas. No fragmento abaixo, podemos conferir um trecho da fala do comandante português:\nO nosso último rei e o rei de Espanha\nDeterminaram por cortar de um golpe,\nComo sabeis, neste ângulo da terra,\nAs desordens de povos confinantes,\nQue mais certos sinais nos dividissem.\n(GAMA, Basílio da. \"Canto Primeiro\". O Uraguai. Porto Alegre: L&PM, 2009, p. 47.)\nO talento de Basílio da Gama, que transforma o árido assunto em matéria literária, recebe, cem anos depois, o elogio de Machado de Assis. Ao compará-lo com seu contemporâneo, Tomás Antônio Gonzaga, o escritor afirma: \"Não lhe falta, também a ele, nem sensibilidade, nem estilo, que em alto grau possui; a imaginação é grandemente superior à de Gonzaga, e quanto à versificação nenhum outro, em nossa língua, a possui mais harmoniosa e pura\" (MACHADO DE ASSIS. A nova geração. In. Obras completas. Rio de Janeiro: José Aguilar Editora, 1973. p.815).\nSobre o poema de Basílio da Gama, considere as seguintes afirmativas:\n1. O contexto histórico trabalhado no poema de Basílio da Gama é fundamental para o seu entendimento: a descentralização do poder colonial, protagonizada pelo Marquês de Pombal, e a disputa de territórios coloniais entre Espanha e Portugal, mediada e pacificada pelos jesuítas, na segunda metade do século XVIII.\n2. Ao longo dos cinco cantos de O Uraguai, compostos em decassílabos sem rima, podemos perceber a marca da epopeia, na narração da guerra e dos feitos dos heroicos portugueses, e a presença da sátira, na caricatura dos jesuítas, particularmente na figura do Padre Balda.\n3. O grande destaque dado aos índios e à defesa da sua terra, a exaltação lírica da natureza e a centralidade do par amor/morte, presente na relação de Lindoia e Cacambo, deram ao poema de Basílio da Gama o lugar de inaugurador do romantismo em todos os manuais de história da literatura brasileira.\n4. Para narrar acontecimentos reais da ação de portugueses e espanhóis na disputa dos territórios delimitados pelo rio Uruguai, que hoje correspondem ao noroeste do Rio Grande do Sul e ao norte da Argentina, Basílio da Gama toma o cuidado de inserir apenas personagens ficcionais no seu poema, para não se comprometer.\nAssinale a alternativa correta.",
+      principal: "O Uraguai foi publicado pela primeira vez antes da independência do Brasil, em 1769, e narra as disputas entre espanhóis e portugueses pelos territórios do sul do continente, envolvendo os índios e os jesuítas. No fragmento abaixo, podemos conferir um trecho da fala do comandante português:\nO nosso último rei e o rei de Espanha\nDeterminaram por cortar de um golpe,\nComo sabeis, neste ângulo da terra,\nAs desordens de povos confinantes,\nQue mais certos sinais nos dividissem.\n(GAMA, Basílio da. \"Canto Primeiro\". O Uraguai. Porto Alegre: L&PM, 2009, p. 47.)\nO talento de Basílio da Gama, que transforma o árido assunto em matéria literária, recebe, cem anos depois, o elogio de Machado de Assis. Ao compará-lo com seu contemporâneo, Tomás Antônio Gonzaga, o escritor afirma: \"Não lhe falta, também a ele, nem sensibilidade, nem estilo, que em alto grau possui; a imaginação é grandemente superior à de Gonzaga, e quanto à versificação nenhum outro, em nossa língua, a possui mais harmoniosa e pura\" (MACHADO DE ASSIS. A nova geração. In. Obras completas. Rio de Janeiro: José Aguilar Editora, 1973. p.815).\nSobre o poema de Basílio da Gama, considere as seguintes afirmativas:\n1. O contexto histórico trabalhado no poema de Basílio da Gama é fundamental para o seu entendimento: a descentralização do poder colonial, protagonizada pelo Marquês de Pombal, e a disputa de territórios coloniais entre Espanha e Portugal, mediada e pacificada pelos jesuítas, na segunda metade do século XVIII.\n2. Ao longo dos cinco cantos de O Uraguai, compostos em decassílabos sem rima, podemos perceber a marca da epopeia, na narração da guerra e dos feitos dos heroicos portugueses, e a presença da sátira, na caricatura dos jesuítas, particularmente na figura do Padre Balda.\n3. O grande destaque dado aos índios e à defesa da sua terra, a exaltação lírica da natureza e a centralidade do par $amor/morte$, presente na relação de Lindoia e Cacambo, deram ao poema de Basílio da Gama o lugar de inaugurador do romantismo em todos os manuais de história da literatura brasileira.\n4. Para narrar acontecimentos reais da ação de portugueses e espanhóis na disputa dos territórios delimitados pelo rio Uruguai, que hoje correspondem ao noroeste do Rio Grande do Sul e ao norte da Argentina, Basílio da Gama toma o cuidado de inserir apenas personagens ficcionais no seu poema, para não se comprometer.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "Escritores de uma nova geração, Milton Hatoum (nascido em 1952) e Bernardo Carvalho (nascido em 1960) já garantiram seu lugar no panorama multifacetado da literatura brasileira contemporânea. Relato de um certo oriente, publicado em 1989, marcou a estreia de Milton Hatoum na literatura. Nove noites, publicado em 2002, é o sétimo livro lançado por Bernardo Carvalho, que estreou na literatura em 1993 com o livro de contos Aberração.\nA respeito das comparações entre Relato de um certo oriente e Nove noites, considere as seguintes afirmativas:\n1. Milton Hatoum consegue trazer para a sua ficção o espaço amazonense sem cair no exagero do exotismo; Bernardo Carvalho, por sua vez, tensiona o realismo pela inclusão, na ficção, de fatos e personagens históricos, autobiografia e experiências pessoais.\n2. Através de estratégias diferentes, os dois romances buscam compreender o passado, conscientes da obrigação histórica de recuperá-lo tal como aconteceu: Relato de um certo oriente resgata a memória trágica de uma família que viveu em Manaus; Nove noites investiga a morte de um antropólogo no sul do Maranhão, para entregar ao leitor a solução de um mistério até então não resolvido.\n3. A epígrafe de W.H. Auden - \"Que a memória refaça/A praia e os passos/O rosto e o ponto do encontro\" (em tradução de Sandra Stroparo e Caetano Galindo) – anuncia o elemento central da narrativa de Milton Hatoum. O título do romance de Bernardo Carvalho se refere às nove noites que o antropólogo Buell Quain passou na companhia de Manoel Perna, durante a sua estada entre os índios Krahô.\n4. O tratamento dado aos nativos em Relato de um certo oriente pode ser verificado na humilhação e nos abusos sofridos pelas caboclas e índias que trabalhavam na casa de Emilie, principalmente por parte dos dois \"inomináveis\". Em Nove noites, a narração do jornalista volta a momentos centrais da história do Brasil no século XX - Estado Novo, Ditadura Militar e Período Democrático -, marcando a situação de vulnerabilidade permanente dos índios num mundo de brancos.\n5. Na Manaus multicultural da primeira metade do século XX, Emilie e seus filhos, com a curiosidade natural do imigrante, atravessam constantemente o rio que separa a cidade da floresta. Da mesma forma, o narrador-jornalista de Nove noites visita inúmeras vezes os índios Krahô, em busca de informações sobre o suicídio de Buell Quain.\nAssinale a alternativa correta.",
+      principal: "Escritores de uma nova geração, Milton Hatoum (nascido em 1952) e Bernardo Carvalho (nascido em 1960) já garantiram seu lugar no panorama multifacetado da literatura brasileira contemporânea. Relato de um certo oriente, publicado em 1989, marcou a estreia de Milton Hatoum na literatura. Nove noites, publicado em 2002, é o sétimo livro lançado por Bernardo Carvalho, que estreou na literatura em 1993 com o livro de contos Aberração.\nA respeito das comparações entre Relato de um certo oriente e Nove noites, considere as seguintes afirmativas:\n1. Milton Hatoum consegue trazer para a sua ficção o espaço amazonense sem cair no exagero do exotismo; Bernardo Carvalho, por sua vez, tensiona o realismo pela inclusão, na ficção, de fatos e personagens históricos, autobiografia e experiências pessoais.\n2. Através de estratégias diferentes, os dois romances buscam compreender o passado, conscientes da obrigação histórica de recuperá-lo tal como aconteceu: Relato de um certo oriente resgata a memória trágica de uma família que viveu em Manaus; Nove noites investiga a morte de um antropólogo no sul do Maranhão, para entregar ao leitor a solução de um mistério até então não resolvido.\n3. A epígrafe de W.H. Auden - \"Que a memória refaç$a/A$ praia e os $passos/O$ rosto e o ponto do encontro\" (em tradução de Sandra Stroparo e Caetano Galindo) – anuncia o elemento central da narrativa de Milton Hatoum. O título do romance de Bernardo Carvalho se refere às nove noites que o antropólogo Buell Quain passou na companhia de Manoel Perna, durante a sua estada entre os índios Krahô.\n4. O tratamento dado aos nativos em Relato de um certo oriente pode ser verificado na humilhação e nos abusos sofridos pelas caboclas e índias que trabalhavam na casa de Emilie, principalmente por parte dos dois \"inomináveis\". Em Nove noites, a narração do jornalista volta a momentos centrais da história do Brasil no século XX - Estado Novo, Ditadura Militar e Período Democrático -, marcando a situação de vulnerabilidade permanente dos índios num mundo de brancos.\n5. Na Manaus multicultural da primeira metade do século XX, Emilie e seus filhos, com a curiosidade natural do imigrante, atravessam constantemente o rio que separa a cidade da floresta. Da mesma forma, o narrador-jornalista de Nove noites visita inúmeras vezes os índios Krahô, em busca de informações sobre o suicídio de Buell Quain.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1141,10 +1141,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1 N = 1 kg.m/s².",
+      "1 N = 1 kg.$m/s$².",
       "1 N = 1 kg.m²/s².",
-      "1 N = 1 kg/s².",
-      "1 N = 1 kg/s.",
+      "1 N = 1 $kg/s$².",
+      "1 N = 1 $kg/s$.",
       "1 N = 1 kg.m²."
     ],
     correctAnswer: 0,
@@ -1228,8 +1228,8 @@ createQuestion({
       "v2 = 4v1.",
       "v2 = 2v1.",
       "v2 = v1.",
-      "v2 = v1/2.",
-      "v2 = v1/4."
+      "v2 = $v1/2$.",
+      "v2 = $v1/4$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "Um motociclista descreve uma trajetória circular de raio R = 5 m, com uma velocidade de módulo v = 10 m/s medida por um observador inercial. Considerando que a massa combinada do motociclista e da motocicleta vale 250 kg, assinale a alternativa que expressa corretamente o módulo da força centrípeta necessária para a realização da trajetória circular.",
+      principal: "Um motociclista descreve uma trajetória circular de raio R = 5 m, com uma velocidade de módulo v = 10 $m/s$ medida por um observador inercial. Considerando que a massa combinada do motociclista e da motocicleta vale 250 kg, assinale a alternativa que expressa corretamente o módulo da força centrípeta necessária para a realização da trajetória circular.",
       subItens: []
     },
     options: [
@@ -1309,11 +1309,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "v = 250 m/s.",
-      "v = 340 m/s.",
-      "v = 750 m/s.",
-      "v = 1000 m/s.",
-      "v = 1500 m/s."
+      "v = 250 $m/s$.",
+      "v = 340 $m/s$.",
+      "v = 750 $m/s$.",
+      "v = 1000 $m/s$.",
+      "v = 1500 $m/s$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -1326,7 +1326,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "Tramita na Assembleia Legislativa do Paraná o Projeto de Lei nº 527/2016, que propõe uma redução significativa na área destinada à Unidade de Conservação Estadual da Área de Proteção Ambiental (APA) da Escarpa Devoniana. A redução da área da APA resultaria em diversos reflexos ambientais, ecológicos, culturais e socioeconômicos na região, ocasionando a potencialização do debate conservacionistas versus produtivistas. Cabe evidenciar que o objetivo dessa unidade de conservação, conforme o artigo 1º do seu decreto de criação, nº 1.231, de 27 de março de 1992, é \"[...] assegurar a proteção do limite natural [...], inclusive faixa de Campos Gerais, que se constituem em ecossistema peculiar que alterna capões da floresta com araucária, matas de galerias e afloramentos rochosos, além de locais de beleza cênica, como os 'canyons', e de vestígios arqueológicos e pré-históricos\". Com relação ao assunto, identifique como verdadeiras (V) ou falsas (F) as seguintes afirmativas:\n( ) APA é uma categoria de unidade de conservação em geral constituída de extensa área, com possibilidade de ocupação humana, dotada de formações vegetais, fauna e flora específicas e características estéticas ou culturais únicas.\n( ) Não é possível nenhum tipo de ocupação no interior de uma APA, visto que esse tipo de Unidade de Conservação é destinada para a proteção integral da fauna, flora e sítios, permitindo-se apenas a visitação controlada.\n( ) A Escarpa Devoniana, assim designada, é uma destacada forma de relevo que está situada na passagem entre os compartimentos geomorfológicos denominados de Primeiro Planalto Paranaense e Segundo Planalto Paranaense.\n( ) Os Campos Gerais que ocorrem no Paraná apresentam aspecto singular, caracterizando-se por extensas áreas de gramíneas baixas desprovidas de arbustos, ocorrendo apenas matas ou capões limitados às áreas próximas às nascentes. As árvores e arbustos crescem em faixas ao longo dos rios e córregos, formando matas ciliares.\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
+      principal: "Tramita na Assembleia Legislativa do Paraná o Projeto de Lei nº $527/2016$, que propõe uma redução significativa na área destinada à Unidade de Conservação Estadual da Área de Proteção Ambiental (APA) da Escarpa Devoniana. A redução da área da APA resultaria em diversos reflexos ambientais, ecológicos, culturais e socioeconômicos na região, ocasionando a potencialização do debate conservacionistas versus produtivistas. Cabe evidenciar que o objetivo dessa unidade de conservação, conforme o artigo 1º do seu decreto de criação, nº 1.231, de 27 de março de 1992, é \"[...] assegurar a proteção do limite natural [...], inclusive faixa de Campos Gerais, que se constituem em ecossistema peculiar que alterna capões da floresta com araucária, matas de galerias e afloramentos rochosos, além de locais de beleza cênica, como os 'canyons', e de vestígios arqueológicos e pré-históricos\". Com relação ao assunto, identifique como verdadeiras (V) ou falsas (F) as seguintes afirmativas:\n( ) APA é uma categoria de unidade de conservação em geral constituída de extensa área, com possibilidade de ocupação humana, dotada de formações vegetais, fauna e flora específicas e características estéticas ou culturais únicas.\n( ) Não é possível nenhum tipo de ocupação no interior de uma APA, visto que esse tipo de Unidade de Conservação é destinada para a proteção integral da fauna, flora e sítios, permitindo-se apenas a visitação controlada.\n( ) A Escarpa Devoniana, assim designada, é uma destacada forma de relevo que está situada na passagem entre os compartimentos geomorfológicos denominados de Primeiro Planalto Paranaense e Segundo Planalto Paranaense.\n( ) Os Campos Gerais que ocorrem no Paraná apresentam aspecto singular, caracterizando-se por extensas áreas de gramíneas baixas desprovidas de arbustos, ocorrendo apenas matas ou capões limitados às áreas próximas às nascentes. As árvores e arbustos crescem em faixas ao longo dos rios e córregos, formando matas ciliares.\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
       subItens: []
     },
     options: [
@@ -1725,7 +1725,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "O texto a seguir é referência para as questões 83 a 85.\nINGLÊS\nMore than 100 South African gold miners treated for smoke inhalation\nJOHANNESBURG (Reuters) – Hundreds of South African gold mine workers were rescued and over 100 treated for smoke inhalation after an underground fire, the National Union of Mineworkers (NUM) said on Thursday.\nSafety is a huge issue in South Africa's dangerous deep-level mines and a focus for investors. A spate of deaths at Sibanye-Stillwater's gold operations, including a seismic event that killed seven miners in early May, has highlighted the risks.\nIn the latest incident, more than 600 miners were initially trapped after a fire broke out at a mine east of Johannesburg operated by unlisted Gold One, NUM said.\nThis comes almost two weeks after five miners died in an underground fire at a South African copper mine operated by unlisted Palabora Mining Company in Limpopo.\nCompany officials could not immediately be reached for comment.\n\"As the NUM, we vehemently condemn this kind of incident as it is becoming a trend\", the union said in a statement.\n(Disponível em: <https://www.reuters.com/article/us-safrica-mining-fire/more-than-100-south-african-gold-miners-treated-for-smoke-inhalation-idUSKBN1KG294>.)\nAccording to the information reported by the National Union of Mineworkers (NUM), hundreds of South African mine workers:",
+      principal: "O texto a seguir é referência para as questões 83 a 85.\nINGLÊS\nMore than 100 South African gold miners treated for smoke inhalation\nJOHANNESBURG (Reuters) – Hundreds of South African gold mine workers were rescued and over 100 treated for smoke inhalation after an underground fire, the National Union of Mineworkers (NUM) said on Thursday.\nSafety is a huge issue in South Africa's dangerous deep-level mines and a focus for investors. A spate of deaths at Sibanye-Stillwater's gold operations, including a seismic event that killed seven miners in early May, has highlighted the risks.\nIn the latest incident, more than 600 miners were initially trapped after a fire broke out at a mine east of Johannesburg operated by unlisted Gold One, NUM said.\nThis comes almost two weeks after five miners died in an underground fire at a South African copper mine operated by unlisted Palabora Mining Company in Limpopo.\nCompany officials could not immediately be reached for comment.\n\"As the NUM, we vehemently condemn this kind of incident as it is becoming a trend\", the union said in a statement.\n(Disponível em: <https://www.reuters.com/article/us-safrica-mining-$fire/more$-than-100-south-african-gold-miners-treated-for-smoke-inhalation-idUSKBN1KG294>.)\nAccording to the information reported by the National Union of Mineworkers (NUM), hundreds of South African mine workers:",
       subItens: []
     },
     options: [
@@ -1746,7 +1746,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "O texto a seguir é referência para as questões 83 a 85.\nINGLÊS\nMore than 100 South African gold miners treated for smoke inhalation\nJOHANNESBURG (Reuters) – Hundreds of South African gold mine workers were rescued and over 100 treated for smoke inhalation after an underground fire, the National Union of Mineworkers (NUM) said on Thursday.\nSafety is a huge issue in South Africa's dangerous deep-level mines and a focus for investors. A spate of deaths at Sibanye-Stillwater's gold operations, including a seismic event that killed seven miners in early May, has highlighted the risks.\nIn the latest incident, more than 600 miners were initially trapped after a fire broke out at a mine east of Johannesburg operated by unlisted Gold One, NUM said.\nThis comes almost two weeks after five miners died in an underground fire at a South African copper mine operated by unlisted Palabora Mining Company in Limpopo.\nCompany officials could not immediately be reached for comment.\n\"As the NUM, we vehemently condemn this kind of incident as it is becoming a trend\", the union said in a statement.\n(Disponível em: <https://www.reuters.com/article/us-safrica-mining-fire/more-than-100-south-african-gold-miners-treated-for-smoke-inhalation-idUSKBN1KG294>.)\nGold One and Palabora Mining Company operate South African mines. Both companies have one aspect in common: they are unlisted. This means that these companies:",
+      principal: "O texto a seguir é referência para as questões 83 a 85.\nINGLÊS\nMore than 100 South African gold miners treated for smoke inhalation\nJOHANNESBURG (Reuters) – Hundreds of South African gold mine workers were rescued and over 100 treated for smoke inhalation after an underground fire, the National Union of Mineworkers (NUM) said on Thursday.\nSafety is a huge issue in South Africa's dangerous deep-level mines and a focus for investors. A spate of deaths at Sibanye-Stillwater's gold operations, including a seismic event that killed seven miners in early May, has highlighted the risks.\nIn the latest incident, more than 600 miners were initially trapped after a fire broke out at a mine east of Johannesburg operated by unlisted Gold One, NUM said.\nThis comes almost two weeks after five miners died in an underground fire at a South African copper mine operated by unlisted Palabora Mining Company in Limpopo.\nCompany officials could not immediately be reached for comment.\n\"As the NUM, we vehemently condemn this kind of incident as it is becoming a trend\", the union said in a statement.\n(Disponível em: <https://www.reuters.com/article/us-safrica-mining-$fire/more$-than-100-south-african-gold-miners-treated-for-smoke-inhalation-idUSKBN1KG294>.)\nGold One and Palabora Mining Company operate South African mines. Both companies have one aspect in common: they are unlisted. This means that these companies:",
       subItens: []
     },
     options: [
@@ -1767,7 +1767,7 @@ createQuestion({
     university: "ufpr",
     year: 2019,
     text: {
-      principal: "O texto a seguir é referência para as questões 83 a 85.\nINGLÊS\nMore than 100 South African gold miners treated for smoke inhalation\nJOHANNESBURG (Reuters) – Hundreds of South African gold mine workers were rescued and over 100 treated for smoke inhalation after an underground fire, the National Union of Mineworkers (NUM) said on Thursday.\nSafety is a huge issue in South Africa's dangerous deep-level mines and a focus for investors. A spate of deaths at Sibanye-Stillwater's gold operations, including a seismic event that killed seven miners in early May, has highlighted the risks.\nIn the latest incident, more than 600 miners were initially trapped after a fire broke out at a mine east of Johannesburg operated by unlisted Gold One, NUM said.\nThis comes almost two weeks after five miners died in an underground fire at a South African copper mine operated by unlisted Palabora Mining Company in Limpopo.\nCompany officials could not immediately be reached for comment.\n\"As the NUM, we vehemently condemn this kind of incident as it is becoming a trend\", the union said in a statement.\n(Disponível em: <https://www.reuters.com/article/us-safrica-mining-fire/more-than-100-south-african-gold-miners-treated-for-smoke-inhalation-idUSKBN1KG294>.)\nDe acordo com o texto, é correto afirmar:",
+      principal: "O texto a seguir é referência para as questões 83 a 85.\nINGLÊS\nMore than 100 South African gold miners treated for smoke inhalation\nJOHANNESBURG (Reuters) – Hundreds of South African gold mine workers were rescued and over 100 treated for smoke inhalation after an underground fire, the National Union of Mineworkers (NUM) said on Thursday.\nSafety is a huge issue in South Africa's dangerous deep-level mines and a focus for investors. A spate of deaths at Sibanye-Stillwater's gold operations, including a seismic event that killed seven miners in early May, has highlighted the risks.\nIn the latest incident, more than 600 miners were initially trapped after a fire broke out at a mine east of Johannesburg operated by unlisted Gold One, NUM said.\nThis comes almost two weeks after five miners died in an underground fire at a South African copper mine operated by unlisted Palabora Mining Company in Limpopo.\nCompany officials could not immediately be reached for comment.\n\"As the NUM, we vehemently condemn this kind of incident as it is becoming a trend\", the union said in a statement.\n(Disponível em: <https://www.reuters.com/article/us-safrica-mining-$fire/more$-than-100-south-african-gold-miners-treated-for-smoke-inhalation-idUSKBN1KG294>.)\nDe acordo com o texto, é correto afirmar:",
       subItens: []
     },
     options: [

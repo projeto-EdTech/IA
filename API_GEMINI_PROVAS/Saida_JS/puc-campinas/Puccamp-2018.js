@@ -381,7 +381,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2018,
     text: {
-      principal: "O som do rádio chega até nós codificado nas ondas eletromagnéticas emitidas pelas antenas das emissoras. Sabendo que 1 MHz é igual a 10⁶ Hz e considerando a velocidade de propagação das ondas eletromagnéticas no ar igual a 3,0 × 10⁸ m/s, o comprimento de onda e o período das ondas emitidas por uma emissora de rádio que opera com frequência de 100 MHz são, respectivamente,",
+      principal: "O som do rádio chega até nós codificado nas ondas eletromagnéticas emitidas pelas antenas das emissoras. Sabendo que 1 MHz é igual a 10⁶ Hz e considerando a velocidade de propagação das ondas eletromagnéticas no ar igual a 3,0 × 10⁸ $m/s$, o comprimento de onda e o período das ondas emitidas por uma emissora de rádio que opera com frequência de 100 MHz são, respectivamente,",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2018,
     text: {
-      principal: "Um objeto foi lançado obliquamente a partir de uma superfície plana e horizontal de modo que o valor da componente vertical de sua velocidade inicial era voy = 30 m/s e o da componente horizontal era vox = 8,0 m/s. Considerando a aceleração gravitacional igual a 10 m/s² e desprezando a resistência do ar, o alcance horizontal do objeto foi",
+      principal: "Um objeto foi lançado obliquamente a partir de uma superfície plana e horizontal de modo que o valor da componente vertical de sua velocidade inicial era voy = 30 $m/s$ e o da componente horizontal era vox = 8,0 $m/s$. Considerando a aceleração gravitacional igual a 10 $m/s$² e desprezando a resistência do ar, o alcance horizontal do objeto foi",
       subItens: []
     },
     options: [
@@ -570,7 +570,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2018,
     text: {
-      principal: "No interior das válvulas que comandavam os tubos dos antigos televisores, os elétrons eram acelerados por um campo elétrico. Suponha que um desses campos, uniforme e de intensidade 4,0 × 10² N/C, acelerasse um elétron durante um percurso de 5,0 × 10⁻⁴ m. Sabendo que o módulo da carga elétrica do elétron é 1,6 × 10⁻¹⁹ C, a energia adquirida pelo elétron nesse deslocamento era de",
+      principal: "No interior das válvulas que comandavam os tubos dos antigos televisores, os elétrons eram acelerados por um campo elétrico. Suponha que um desses campos, uniforme e de intensidade 4,0 × 10² $N/C$, acelerasse um elétron durante um percurso de 5,0 × 10⁻⁴ m. Sabendo que o módulo da carga elétrica do elétron é 1,6 × 10⁻¹⁹ C, a energia adquirida pelo elétron nesse deslocamento era de",
       subItens: []
     },
     options: [
@@ -633,7 +633,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2018,
     text: {
-      principal: "Para que um satélite seja utilizado para transmissões de televisão, quando em órbita, deve ter a mesma velocidade angular de rotação da Terra, de modo que se mantenha sempre sobre um mesmo ponto da superfície terrestre.\nConsiderando R o raio da órbita do satélite, dado em km, o módulo da velocidade escalar do satélite, em km/h, em torno do centro de sua órbita, considerada circular, é",
+      principal: "Para que um satélite seja utilizado para transmissões de televisão, quando em órbita, deve ter a mesma velocidade angular de rotação da Terra, de modo que se mantenha sempre sobre um mesmo ponto da superfície terrestre.\nConsiderando R o raio da órbita do satélite, dado em km, o módulo da velocidade escalar do satélite, em $km/h$, em torno do centro de sua órbita, considerada circular, é",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2018,
     text: {
-      principal: "Os xaropes são soluções concentradas de açúcar (sacarose). Em uma receita caseira, são utilizados 500 g de açúcar para cada 1,5 L de água. Nesse caso, a concentração mol/L de sacarose nesse xarope é de, aproximadamente,\nDado:\nMassa molar da sacarose = 342 g/mol",
+      principal: "Os xaropes são soluções concentradas de açúcar (sacarose). Em uma receita caseira, são utilizados 500 g de açúcar para cada 1,5 L de água. Nesse caso, a concentração $mol/L$ de sacarose nesse xarope é de, aproximadamente,\nDado:\nMassa molar da sacarose = 342 $g/mol$",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2018,
     text: {
-      principal: "Paulo está deitado na cama e assistindo à TV. Na figura, C representa um ponto sobre a cama a partir do qual o controle remoto da TV foi acionado na direção do receptor de sinal indicado por R. A medida do ângulo entre a linha que representa o sinal transmitido e a cama é igual a α.\nDados:\nα          11,3°   11,5°   12,1°   12,4°   78,5°\nsen α      0,196   0,199   0,210   0,215   0,980\ncos α      0,981   0,980   0,978   0,977   0,199\ntg α       0,200   0,203   0,214   0,220   4,915\nSabe-se, ainda, que:\n− R está a 1,2 m do chão;\n− a altura da cama em relação ao chão é de 40 cm;\n− C está a 4 metros de distância da parede em que a TV está fixada;\n− a espessura da TV é desprezível.\nNas condições descritas e consultando a tabela, α é igual a",
+      principal: "Paulo está deitado na cama e assistindo à TV. Na figura, C representa um ponto sobre a cama a partir do qual o controle remoto da TV foi acionado na direção do receptor de sinal indicado por R. A medida do ângulo entre a linha que representa o sinal transmitido e a cama é igual a α.\nDados:\nα          11,3°   11,5°   12,1°   12,4°   78,5°\n$\\sin$ α      0,196   0,199   0,210   0,215   0,980\n$\\cos$ α      0,981   0,980   0,978   0,977   0,199\n$\\tan$ α       0,200   0,203   0,214   0,220   4,915\nSabe-se, ainda, que:\n− R está a 1,2 m do chão;\n− a altura da cama em relação ao chão é de 40 cm;\n− C está a 4 metros de distância da parede em que a TV está fixada;\n− a espessura da TV é desprezível.\nNas condições descritas e consultando a tabela, α é igual a",
       subItens: []
     },
     options: [

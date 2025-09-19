@@ -339,7 +339,7 @@ createQuestion({
     university: "ufrgs",
     year: 2015,
     text: {
-      principal: "Instrução: As questões 17 e 18 referem-se aos enunciados e ao quadro abaixo.\nO quadro apresenta a distribuição dos 4 diferentes alelos do gene A cujas combinações genotípicas são responsáveis pelos padrões de coloração da pelagem de algumas raças caninas.\nAdaptado de Dreger D.L.; Schmutz, S. M. A SINE insertion causes the Black – and- tan and Saddle Tan Phenotypes in domestic dogs. Journal of Heredity, volume 102, supplement 1,September/October 2011, S11-S18.\nCom base no quadro, a hierarquia de dominância dos diferentes alelos é",
+      principal: "Instrução: As questões 17 e 18 referem-se aos enunciados e ao quadro abaixo.\nO quadro apresenta a distribuição dos 4 diferentes alelos do gene A cujas combinações genotípicas são responsáveis pelos padrões de coloração da pelagem de algumas raças caninas.\nAdaptado de Dreger D.L.; Schmutz, S. M. A SINE insertion causes the Black – and- tan and Saddle Tan Phenotypes in domestic dogs. Journal of Heredity, volume 102, supplement 1,$September/October$ 2011, S11-S18.\nCom base no quadro, a hierarquia de dominância dos diferentes alelos é",
       subItens: []
     },
     options: [
@@ -368,7 +368,7 @@ createQuestion({
       "Os cães apresentados no quadro são homozigotos dominantes para o gene K.",
       "O cruzamento entre cães kk prateados pode acarretar cães dourados.",
       "A cor de pelo preta somente pode ser obtida em cães homozigotos para os dois genes citados.",
-      "O cruzamento entre di-híbridos Kkay a resulta em 9/16 animais pretos."
+      "O cruzamento entre di-híbridos Kkay a resulta em $9/16$ animais pretos."
     ],
     correctAnswer: 0,
     materia: ["Biologia"],
@@ -528,7 +528,7 @@ createQuestion({
     university: "ufrgs",
     year: 2015,
     text: {
-      principal: "Diamante e grafite são variedades alotrópicas do elemento carbono cujas densidades são, respectivamente,\nd (Cdiamante) = 3,5 g/cm³\nd (Cgrafite) = 2,3 g/cm³\nEm um conto de fadas, uma jovem foi a um baile com um anel de diamante de 1,75 quilates cuja pedra tem um volume V1 e, à meia-noite, esse diamante transformou-se em grafite.\n(dado: 1 quilate=0,20 g)\nO volume final dessa “pedra de grafite” será, aproximadamente,",
+      principal: "Diamante e grafite são variedades alotrópicas do elemento carbono cujas densidades são, respectivamente,\nd (Cdiamante) = 3,5 $g/cm$³\nd (Cgrafite) = 2,3 $g/cm$³\nEm um conto de fadas, uma jovem foi a um baile com um anel de diamante de 1,75 quilates cuja pedra tem um volume V1 e, à meia-noite, esse diamante transformou-se em grafite.\n(dado: 1 quilate=0,20 g)\nO volume final dessa “pedra de grafite” será, aproximadamente,",
       subItens: []
     },
     options: [
@@ -885,7 +885,7 @@ createQuestion({
     university: "ufrgs",
     year: 2015,
     text: {
-      principal: "O trióxido de arsênio, As2O3, é utilizado como quimioterápico no tratamento de alguns tipos de leucemia mieloide aguda. O protocolo de um determinado paciente indica que ele deva receber uma infusão intravenosa com 4,95 mg de trióxido de arsênio, diluídos em soro fisiológico até o volume final de 250 mL.\nA concentração em mol/L de trióxido de arsênio na solução utilizada nessa infusão é",
+      principal: "O trióxido de arsênio, As2O3, é utilizado como quimioterápico no tratamento de alguns tipos de leucemia mieloide aguda. O protocolo de um determinado paciente indica que ele deva receber uma infusão intravenosa com 4,95 mg de trióxido de arsênio, diluídos em soro fisiológico até o volume final de 250 mL.\nA concentração em $mol/L$ de trióxido de arsênio na solução utilizada nessa infusão é",
       subItens: []
     },
     options: [
@@ -1347,7 +1347,7 @@ createQuestion({
     university: "ufrgs",
     year: 2015,
     text: {
-      principal: "Observe a imagem abaixo.\nDisponível em: <http://www.mdig.com.br/index.php?itemid=29078>. Acesso em: 15 ago. 2014.\nDa janela de um avião descendo no aeroporto de Guarulhos, percebe-se que a extensão da malha urbana dificulta a definição dos limites entre os municípios vizinhos ao de São Paulo. O conceito que melhor expressa a unificação da extensão territorial de vários municípios é",
+      principal: "Observe a imagem abaixo.\nDisponível em: <http://www.mdig.com.$br/index$.php?itemid=29078>. Acesso em: 15 ago. 2014.\nDa janela de um avião descendo no aeroporto de Guarulhos, percebe-se que a extensão da malha urbana dificulta a definição dos limites entre os municípios vizinhos ao de São Paulo. O conceito que melhor expressa a unificação da extensão territorial de vários municípios é",
       subItens: []
     },
     options: [

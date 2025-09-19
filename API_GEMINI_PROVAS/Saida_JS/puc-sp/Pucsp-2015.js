@@ -137,7 +137,7 @@ createQuestion({
       "alusão bíblica ao pecado original da descoberta do sexo e encarnação dos desejos humanos.",
       "exercício de fantasia de Brás Cubas que alude ao encontro amoroso dos amantes, pondo em diálogo seu pensamento com o de Virgília.",
       "recurso gráfico inovador, mas negativo porque desestruturante da sequência da narrativa e obstáculo para o claro entendimento do leitor.",
-      "representação gráfica do encontro amoroso que dispensa palavras e instiga a imaginação/participação do leitor, pela obviedade da situação da experiência humana."
+      "representação gráfica do encontro amoroso que dispensa palavras e instiga a imaginaçã$o/participa$ção do leitor, pela obviedade da situação da experiência humana."
     ],
     correctAnswer: 3,
     materia: ["Literatura"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "puc-sp",
     year: 2015,
     text: {
-      principal: "Considere as seguintes afirmações:\nI. Para todo número real n, tem-se: (7^(n-2) + 7^(n-1)) / (7^(n-2) - 7^(n-3)) < 8.\nII. Se N = (27^(1/3) – 0,777...) ÷ 5/18, então log4 N = 1,5.\nIII. Efetuando-se (√18+4√3) × (√18-4√3) obtém-se um número primo.\nRelativamente a essas afirmações, é correto afirmar que:",
+      principal: "Considere as seguintes afirmações:\nI. Para todo número real n, tem-se: (7^(n-2) + 7^(n-1)) / (7^(n-2) - 7^(n-3)) < 8.\nII. Se N = (27^($1/3$) – 0,777...) ÷ $5/18$, então log4 N = 1,5.\nIII. Efetuando-se (√18+4√3) × (√18-4√3) obtém-se um número primo.\nRelativamente a essas afirmações, é correto afirmar que:",
       subItens: []
     },
     options: [
@@ -297,7 +297,7 @@ createQuestion({
     university: "puc-sp",
     year: 2015,
     text: {
-      principal: "No plano complexo de origem O, representado na figura abaixo, o ponto A é a imagem de um número complexo u cujo módulo é igual a 4.\n\n[Image: Complex plane showing point A with angle 60 degrees from real axis and modulus 4. A point B is also marked, such that vector OB represents u/i.]\n\nSe B é o ponto imagem do complexo v = u/i, então é correto afirmar que:",
+      principal: "No plano complexo de origem O, representado na figura abaixo, o ponto A é a imagem de um número complexo u cujo módulo é igual a 4.\n\n[Image: Complex plane showing point A with angle 60 degrees from real axis and modulus 4. A point B is also marked, such that vector OB represents $u/i$.]\n\nSe B é o ponto imagem do complexo v = $u/i$, então é correto afirmar que:",
       subItens: []
     },
     options: [
@@ -318,15 +318,15 @@ createQuestion({
     university: "puc-sp",
     year: 2015,
     text: {
-      principal: "Por meio do processo conhecido como eletrização por atrito, eletriza-se com um tecido uma pequena esfera metálica, inicialmente neutra e presa a um suporte isolante. Após o atrito, constata-se que essa esfera perdeu 1,0 x 10^20 elétrons. A seguir, faz-se o contato imediato e sucessivo dessa esfera com outras três (3) esferas idênticas a ela, inicialmente neutras, fixadas em suportes isolantes e separadas entre si conforme mostra a figura. Depois dos contatos, a esfera inicialmente eletrizada por atrito é levada para bem longe das demais. Supondo o local do experimento eletricamente isolado, k a constante eletrostática do meio do local do experimento e o potencial de referência no infinito igual a zero, determine o potencial elétrico no ponto C devido às cargas das esferas fixas.\nDado: carga do elétron=1,6 x 10^-19 C\n\n[Image: Diagram of three charges Q1, Q2, Q3 forming an equilateral triangle. Point C is at the center, equidistant (r) from each charge. An angle θ is shown between C and two charges.]",
+      principal: "Por meio do processo conhecido como eletrização por atrito, eletriza-se com um tecido uma pequena esfera metálica, inicialmente neutra e presa a um suporte isolante. Após o atrito, constata-se que essa esfera perdeu 1,0 x $10^20$ elétrons. A seguir, faz-se o contato imediato e sucessivo dessa esfera com outras três (3) esferas idênticas a ela, inicialmente neutras, fixadas em suportes isolantes e separadas entre si conforme mostra a figura. Depois dos contatos, a esfera inicialmente eletrizada por atrito é levada para bem longe das demais. Supondo o local do experimento eletricamente isolado, k a constante eletrostática do meio do local do experimento e o potencial de referência no infinito igual a zero, determine o potencial elétrico no ponto C devido às cargas das esferas fixas.\nDado: carga do elétron=1,6 x 10^-19 C\n\n[Image: Diagram of three charges Q1, Q2, Q3 forming an equilateral triangle. Point C is at the center, equidistant (r) from each charge. An angle θ is shown between C and two charges.]",
       subItens: []
     },
     options: [
-      "12.k.senθ/r",
-      "14.k/r²",
-      "14.k.cosθ/r",
-      "16.k/r²",
-      "14.k/r"
+      "12.k.$\\sin$θ/r",
+      "14.$k/r$²",
+      "14.k.$\\cos$θ/r",
+      "16.$k/r$²",
+      "14.$k/r$"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -364,11 +364,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "k = m.g.(senθ – μe.cosθ)/x",
-      "k = μe.m.g.(senθ – cosθ)/x",
-      "k = m.g.μe.x / (senθ – cosθ)",
-      "k = m.g.senθ – μe.cosθ / x",
-      "k = m.g.(cosθ – μe.senθ) / x"
+      "k = m.g.($\\sin$θ – μe.$\\cos$θ)/x",
+      "k = μe.m.g.($\\sin$θ – $\\cos$θ)/x",
+      "k = m.g.μe.x / ($\\sin$θ – $\\cos$θ)",
+      "k = m.g.$\\sin$θ – μe.$\\cos$θ / x",
+      "k = m.g.($\\cos$θ – μe.$\\sin$θ) / x"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -570,12 +570,12 @@ createQuestion({
     university: "puc-sp",
     year: 2015,
     text: {
-      principal: "No lóco referente ao sistema sanguíneo ABO, há três formas, normalmente representadas por I^A, I^B e i. Da combinação dessas formas há seis genótipos possíveis na população humana. Com relação a esse sistema sanguíneo foram feitas cinco afirmações. Assinale a única INCORRETA.",
+      principal: "No lóco referente ao sistema sanguíneo ABO, há três formas, normalmente representadas por $I^A$, $I^B$ e i. Da combinação dessas formas há seis genótipos possíveis na população humana. Com relação a esse sistema sanguíneo foram feitas cinco afirmações. Assinale a única INCORRETA.",
       subItens: []
     },
     options: [
       "Trata-se de um caso de alelos múltiplos e cada pessoa normal só poderá apresentar, no máximo, duas dessas formas.",
-      "Pessoas que apresentam simultaneamente as formas I^A e I^B têm aglutinogênios ou antígenos A e B em suas hemácias.",
+      "Pessoas que apresentam simultaneamente as formas $I^A$ e $I^B$ têm aglutinogênios ou antígenos A e B em suas hemácias.",
       "Uma mulher do grupo A heterozigota poderá ter com um homem do grupo B também heterozigoto filhos dos grupos A, B, AB e O.",
       "Pessoas com genótipo ii poderão receber, sem problemas de aglutinação, hemácias de pessoas pertencentes aos grupos A e B.",
       "Um casal que pertence ao grupo AB não poderá ter filhos do grupo O."
@@ -696,7 +696,7 @@ createQuestion({
     university: "puc-sp",
     year: 2015,
     text: {
-      principal: "Observe a imagem e leia o texto para responder às questões 34 e 35:\n\n[Image: Newspaper cover with headline \"DE LUTO A NAÇÃO\" regarding Getúlio Vargas's death.]\n\nCapa do jornal Última Hora, de 24.08.1954, apud Nosso Século. 1945/1960. São Paulo: Abril Cultural, 1980, p. 124.\n\n\"Os efeitos políticos do suicídio de Getúlio Vargas (1882-1954), que hoje completa 60 anos, já se dissiparam há muito tempo, mas o ato continua a reverberar pela singularidade. Num homem tão racional e metódico, mesmo os lances da paixão foram comedidos pelo cálculo. Psicologia à parte, o extraordinário nesse suicídio é seu alcance político num derradeiro passe de mágica o velho prestidigitador inverte a maré, derrota os inimigos quando mal haviam aberto o champanhe e se consagra na memória popular, comandando seu vasto eleitorado por algumas décadas desde o além-túmulo.\"\nOtavio Frias Filho. \"Mil disfarces de Getúlio Vargas convergem num gesto de coerência\", in Folha de S. Paulo, 24.08.2014. Adaptado.\nO suicídio de Getúlio Vargas, em agosto de 1954, foi provocado, entre outros fatores,",
+      principal: "Observe a imagem e leia o texto para responder às questões 34 e 35:\n\n[Image: Newspaper cover with headline \"DE LUTO A NAÇÃO\" regarding Getúlio Vargas's death.]\n\nCapa do jornal Última Hora, de 24.08.1954, apud Nosso Século. $1945/1960$. São Paulo: Abril Cultural, 1980, p. 124.\n\n\"Os efeitos políticos do suicídio de Getúlio Vargas (1882-1954), que hoje completa 60 anos, já se dissiparam há muito tempo, mas o ato continua a reverberar pela singularidade. Num homem tão racional e metódico, mesmo os lances da paixão foram comedidos pelo cálculo. Psicologia à parte, o extraordinário nesse suicídio é seu alcance político num derradeiro passe de mágica o velho prestidigitador inverte a maré, derrota os inimigos quando mal haviam aberto o champanhe e se consagra na memória popular, comandando seu vasto eleitorado por algumas décadas desde o além-túmulo.\"\nOtavio Frias Filho. \"Mil disfarces de Getúlio Vargas convergem num gesto de coerência\", in Folha de S. Paulo, 24.08.2014. Adaptado.\nO suicídio de Getúlio Vargas, em agosto de 1954, foi provocado, entre outros fatores,",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "puc-sp",
     year: 2015,
     text: {
-      principal: "Leia:\n\"No final da semana passada a epidemia de ebola na África do Oeste atingiu uma cifra sinistra. Segundo a Organização Mundial de Saúde (OMS), o número de mortos pela doença ultrapassou 3 mil pessoas, num total de 6.574 casos suspeitos ou confirmados. Um estudo feito pelos Centers for Disease Control (CDC), rede de órgão do governo americano, cuja sede se encontra perto de Atlanta, indica que a cada 30 dias o número de novos casos diários de ebola triplica. Na hipótese mais pessimista haveria 1,4 milhões de pessoas contaminadas na África do Oeste, no próximo mês de janeiro.\"\n(Luiz Felipe de ALENCASTRO. O ebola é um desafio da saúde pública no século 21.http://noticias.uol.com.br/blogs-e-colunas/coluna/luiz-felipe-alencastro/2014/09/29/o-ebola-e-um-desafio-da-saude-publica-no-seculo-21.htm, 29/09/2014)\nConsiderando essa epidemia e as condições geográficas das regiões onde ela se origina pode ser afirmado que",
+      principal: "Leia:\n\"No final da semana passada a epidemia de ebola na África do Oeste atingiu uma cifra sinistra. Segundo a Organização Mundial de Saúde (OMS), o número de mortos pela doença ultrapassou 3 mil pessoas, num total de 6.574 casos suspeitos ou confirmados. Um estudo feito pelos Centers for Disease Control (CDC), rede de órgão do governo americano, cuja sede se encontra perto de Atlanta, indica que a cada 30 dias o número de novos casos diários de ebola triplica. Na hipótese mais pessimista haveria 1,4 milhões de pessoas contaminadas na África do Oeste, no próximo mês de janeiro.\"\n(Luiz Felipe de ALENCASTRO. O ebola é um desafio da saúde pública no século 21.http://noticias.uol.com.$br/blogs$-e-colunas/coluna/luiz-felipe-alencastro/2014/09/29/o-ebola-e-um-desafio-da-saude-publica-no-seculo-21.htm, 29/09/2014)\nConsiderando essa epidemia e as condições geográficas das regiões onde ela se origina pode ser afirmado que",
       subItens: []
     },
     options: [

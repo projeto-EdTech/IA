@@ -23,7 +23,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Observe a seguinte tirinha publicada no jornal O Estado de São Paulo, em 12/09/2019. Minduim Charles M. Schulz \"PROBLEMA NÚMERO CINCO.\" ©1972 Peanuts Worldwide LLC, Dist. by Andrews McMee \"UM HOMEM TEM UMA FILHA E UM FILHO, O FILHO É TRÊS ANOS MAIS VELHO DO QUE A FILHA.\" 9/12 www.snoopy.com \"EM UM ANO O HOMEM TERÁ SEIS VEZES A IDADE QUE A FILHA TEM HOJE E EM DEZ ANOS ELE SERÁ QUATORZE ANOS MAIS VELHO DO QUE A IDADE SOMADA DE SEUS FILHOS, QUAL É A IDADE DELE?\" SCHULZ NÃO FOI POSSÍVEL COMPLETAR A SUA LIGAÇÃO. VERIFIQUE O NÚMERO CHAMADO E TENTE OUTRA VEZ MAIS TARDE! Resolvendo corretamente o problema apresentado pelo personagem, e supondo que o homem citado tenha mais de 30 anos, então, quando o filho nasceu, a idade do homem era um número",
+      principal: "Observe a seguinte tirinha publicada no jornal O Estado de São Paulo, em 12/09/2019. Minduim Charles M. Schulz \"PROBLEMA NÚMERO CINCO.\" ©1972 Peanuts Worldwide LLC, Dist. by Andrews McMee \"UM HOMEM TEM UMA FILHA E UM FILHO, O FILHO É TRÊS ANOS MAIS VELHO DO QUE A FILHA.\" $9/12$ www.snoopy.com \"EM UM ANO O HOMEM TERÁ SEIS VEZES A IDADE QUE A FILHA TEM HOJE E EM DEZ ANOS ELE SERÁ QUATORZE ANOS MAIS VELHO DO QUE A IDADE SOMADA DE SEUS FILHOS, QUAL É A IDADE DELE?\" SCHULZ NÃO FOI POSSÍVEL COMPLETAR A SUA LIGAÇÃO. VERIFIQUE O NÚMERO CHAMADO E TENTE OUTRA VEZ MAIS TARDE! Resolvendo corretamente o problema apresentado pelo personagem, e supondo que o homem citado tenha mais de 30 anos, então, quando o filho nasceu, a idade do homem era um número",
       subItens: []
     },
     options: [
@@ -103,7 +103,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Considere as matrizes A = (2x+3 1/4), B = (log6 4 -1) e C = A². Sabendo que det A = det B, o produto dos elementos da diagonal principal da matriz C é igual a",
+      principal: "Considere as matrizes A = (2x+3 $1/4$), B = (log6 4 -1) e C = A². Sabendo que det A = det B, o produto dos elementos da diagonal principal da matriz C é igual a",
       subItens: []
     },
     options: [
@@ -143,14 +143,14 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Considere o quadrado ABCD, com 6 cm de lado, e o triângulo retângulo DEF, cujos vértices E e F pertencem, respectivamente, ao lado CD e à diagonal AC, conforme mostra a figura. A F β α Π D E C B Figura fora de escala Sendo EDF= a, DFA = β, cos a = √5/5 e EF = 4 cm, o valor de sen β é igual a",
+      principal: "Considere o quadrado ABCD, com 6 cm de lado, e o triângulo retângulo DEF, cujos vértices E e F pertencem, respectivamente, ao lado CD e à diagonal AC, conforme mostra a figura. A F β α Π D E C B Figura fora de escala Sendo EDF= a, DFA = β, $\\cos$ a = √$5/5$ e EF = 4 cm, o valor de $\\sin$ β é igual a",
       subItens: []
     },
     options: [
-      "3√5/10",
-      "3√10/10",
-      "6√2/5",
-      "6√5/5"
+      "3√$5/10$",
+      "3√$10/10$",
+      "6√$2/5$",
+      "6√$5/5$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -223,7 +223,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Um diapasão está fixo na extremidade de um brinquedo infantil, conhecido como gira-gira, de diâmetro igual a 1,6m (veja figura). O diapasão é golpeado e passa a emitir um som de frequência 440Hz, sendo que, nesse exato momento, o brinquedo é posto a girar com velocidade angular constante de 15rad/s. Considerando que o ar esteja em repouso em relação ao solo e que a velocidade escalar do som, através dele, vale 340m/s, podemos afirmar que a diferença aproximada entre a maior e a menor frequência percebida por um observador, em repouso em relação ao solo, posicionado a grande distância em relação ao centro do brinquedo, é um valor próximo de:",
+      principal: "Um diapasão está fixo na extremidade de um brinquedo infantil, conhecido como gira-gira, de diâmetro igual a 1,6m (veja figura). O diapasão é golpeado e passa a emitir um som de frequência 440Hz, sendo que, nesse exato momento, o brinquedo é posto a girar com velocidade angular constante de $15rad/s$. Considerando que o ar esteja em repouso em relação ao solo e que a velocidade escalar do som, através dele, vale $340m/s$, podemos afirmar que a diferença aproximada entre a maior e a menor frequência percebida por um observador, em repouso em relação ao solo, posicionado a grande distância em relação ao centro do brinquedo, é um valor próximo de:",
       subItens: []
     },
     options: [
@@ -243,14 +243,14 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "O sistema mecânico representado pela figura, quando na Terra, de raio RT e volume VT, permanece em equilíbrio estático, após a mola sofrer uma deformação de 2 cm. Esse mesmo sistema, quando colocado em um planeta P, de raio RP e cuja densidade é 4 vezes a densidade da Terra, entra em equilíbrio estático, após a mola se deformar de 8cm. Considerando ambos os planetas esféricos e de densidades uniformes, podemos afirmar que o volume VP do planeta P vale: A) Vp = VT (Rp/RT)², B) Vp = VT.(RT.Rp), C) Vp = VT (RT/Rp)², D) Vp = VT (RT/Rp)²",
+      principal: "O sistema mecânico representado pela figura, quando na Terra, de raio RT e volume VT, permanece em equilíbrio estático, após a mola sofrer uma deformação de 2 cm. Esse mesmo sistema, quando colocado em um planeta P, de raio RP e cuja densidade é 4 vezes a densidade da Terra, entra em equilíbrio estático, após a mola se deformar de 8cm. Considerando ambos os planetas esféricos e de densidades uniformes, podemos afirmar que o volume VP do planeta P vale: A) Vp = VT ($Rp/RT$)², B) Vp = VT.(RT.Rp), C) Vp = VT ($RT/Rp$)², D) Vp = VT ($RT/Rp$)²",
       subItens: []
     },
     options: [
-      "Vp = VT (Rp/RT)²",
+      "Vp = VT ($Rp/RT$)²",
       "Vp = VT.(RT.Rp)",
-      "Vp = VT (RT/Rp)²",
-      "Vp = VT (RT/Rp)²"
+      "Vp = VT ($RT/Rp$)²",
+      "Vp = VT ($RT/Rp$)²"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -303,7 +303,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Um esquiador de massa 77,0kg, portando uma arma de massa 3,0kg, encontra-se em repouso e em pé sobre uma pista de gelo perfeitamente lisa. Ele faz um único disparo horizontal com a arma. No momento do disparo, essa arma pode ser considerada uma máquina térmica que recebe energia térmica igual a 160,0kJ do propelente. Considerando que, após o disparo do projétil de massa 50,0g, o conjunto (esquiador + arma) recue com velocidade de módulo 0,5m/s, determine, em porcentagem, o rendimento dessa arma. Despreze a massa dos esquis e considere o sistema isolado de forças externas na direção horizontal. Disponível em: https://pluswalls.com/pt-pt/desporto/patins29.html",
+      principal: "Um esquiador de massa 77,0kg, portando uma arma de massa 3,0kg, encontra-se em repouso e em pé sobre uma pista de gelo perfeitamente lisa. Ele faz um único disparo horizontal com a arma. No momento do disparo, essa arma pode ser considerada uma máquina térmica que recebe energia térmica igual a 160,0kJ do propelente. Considerando que, após o disparo do projétil de massa 50,0g, o conjunto (esquiador + arma) recue com velocidade de módulo 0,$5m/s$, determine, em porcentagem, o rendimento dessa arma. Despreze a massa dos esquis e considere o sistema isolado de forças externas na direção horizontal. Disponível em: https://pluswalls.$com/pt$-pt/desporto/patins29.html",
       subItens: []
     },
     options: [
@@ -343,7 +343,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Um objeto de massa igual a 2kg é abandonado do alto de um prédio de 50m de altura e colide com o solo com uma velocidade de 15m/s. O diagrama mostra como varia a força resistiva do ar sobre o objeto, em função da altura. Considerando o módulo da aceleração da gravidade igual a 10m/s², determine o valor da altura h, em metros, a partir da qual a força resistiva do ar passou a ser uniforme. +F (N) 20 0 50 h (m) h 0",
+      principal: "Um objeto de massa igual a 2kg é abandonado do alto de um prédio de 50m de altura e colide com o solo com uma velocidade de $15m/s$. O diagrama mostra como varia a força resistiva do ar sobre o objeto, em função da altura. Considerando o módulo da aceleração da gravidade igual a $10m/s$², determine o valor da altura h, em metros, a partir da qual a força resistiva do ar passou a ser uniforme. +F (N) 20 0 50 h (m) h 0",
       subItens: []
     },
     options: [
@@ -463,7 +463,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "A oxidação de uma molécula de glicose produz duas moléculas de piruvato. O piruvato pode ter vários destinos, dependendo do tipo celular, da disponibilidade de oxigênio e nutrientes, dentre outros fatores. Em células que não apresentam mitocondrias e nas fibras musculares submetidas a esforço intenso, o piruvato produz lactato (ácido 2-hidróxi-propanoico) e em algumas espécies de bactérias e em leveduras, o piruvato produz etanol. Qual o número médio de oxidação dos carbonos presentes nas moléculas de lactato e etanol, respectivamente?",
+      principal: "A oxidação de uma molécula de glicose produz duas moléculas de piruvato. O piruvato pode ter vários destinos, dependendo do tipo celular, da disponibilidade de oxigênio e nutrientes, dentre outros fatores. Em células que não apresentam mitocondrias e nas fibras musculares submetidas a esforço intenso, o piruvato produz lactato (ácido 2-hidró$\\xi$-propanoico) e em algumas espécies de bactérias e em leveduras, o piruvato produz etanol. Qual o número médio de oxidação dos carbonos presentes nas moléculas de lactato e etanol, respectivamente?",
       subItens: []
     },
     options: [
@@ -489,7 +489,7 @@ createQuestion({
     options: [
       "Cátodo: 2 H⁺(aq) + 2e⁻ → H₂(g) Anodo: 2 Cl⁻(aq) → Cl₂(g) + 2e",
       "Cátodo: 2 Cl⁻(aq) → Cl₂(g) + 2e Ânodo: 2 H⁺(aq) + 2e⁻ → H₂(g)",
-      "Cátodo: Na⁺(aq) + e → Na(s) Anodo: 2 OH⁻(aq) → H₂O(l) + 1/2 O₂(g) + 2e",
+      "Cátodo: Na⁺(aq) + e → Na(s) Anodo: 2 OH⁻(aq) → H₂O(l) + $1/2$ O₂(g) + 2e",
       "Cátodo: 2 OH⁻(aq) → H₂O(l) + ½ O₂(g) + 2e⁻ Ânodo: Na⁺(aq) + e → Na(s)"
     ],
     correctAnswer: 0,
@@ -583,7 +583,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "O ator Peter Dinklage, que interpretou o anão Tyrion Lannister, na série de TV Game of Thrones, apresenta uma forma de nanismo conhecida como acondroplasia. A acondroplasia é uma condição genética de herança autossômica dominante. Os pais de Peter, assim como seu irmão, sua esposa e sua filha têm estatura normal, como representado no heredograma a seguir. Considerando essas informações, é CORRETO afirmar que John Diane Erica Peter Jonathan Zelig Fonte: https://pbs.twimg.nedia/DGKNUdPXUAAYIMI.jpg:large",
+      principal: "O ator Peter Dinklage, que interpretou o anão Tyrion Lannister, na série de TV Game of Thrones, apresenta uma forma de nanismo conhecida como acondroplasia. A acondroplasia é uma condição genética de herança autossômica dominante. Os pais de Peter, assim como seu irmão, sua esposa e sua filha têm estatura normal, como representado no heredograma a seguir. Considerando essas informações, é CORRETO afirmar que John Diane Erica Peter Jonathan Zelig Fonte: https://pbs.twimg.$nedia/DGKNUdPXUAAYIMI$.jpg:large",
       subItens: []
     },
     options: [
@@ -703,7 +703,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Em humanos adultos, a hemoglobina normal é denominada hemoglobina A (HbA), composta por duas cadeias polipeptídicas de alfa-globina e duas de beta-globina. Existem mutações que alteram a composição de aminoácidos da beta-globina, originando as formas variantes HbS, HbC e HbG. O quadro a seguir mostra os sete primeiros aminoácidos que compõem a beta-globina da HbA e as variações encontradas na composição de HbS, HbC e HbG. Sete primeiros aminoácidos da beta-globina Tipos de Hemoglobina 1 2 3 4 5 6 7 HbA Valina Histidina Leucina Treonina Prolina Ácido Glutâmico Ácido Glutâmico HbS Valina HbC Lisina HbG Glicina A seguir, são fornecidas as sequências de bases nitrogenadas de quatro fitas-molde de DNA responsáveis por codificar para esses sete primeiros aminoácidos da beta-globina. A primeira sequência (DNA 1) corresponde àquela responsável por determinar o trecho inicial da beta-globina encontrada na HbA. DNA 1: CAC GTG GAC TGA GGA CTC CTC DNA 2: CAC GTG GAC TGA GGA CTC CCC DNA 3: CAC GTG GAC TGA GGA TTC CTC DNA 4: CAC GTG GAC TGA GGA CAC CTC Considere, também, a seguinte equivalência entre códons e aminoácidos do código genético: Códons (RNA-m) Aminoácidos GGU, GGC, GGA, GGG Glicina AAA, AAG Lisina GUU, GUC, GUA, GUG Valina GAA, GAG Ácido Glutâmico Pode-se afirmar que as hemoglobinas produzidas a partir dos DNA 2, 3 e 4 são, respectivamente,",
+      principal: "Em humanos adultos, a hemoglobina normal é denominada hemoglobina A (HbA), composta por duas cadeias polipeptídicas de alfa-globina e duas de $\\beta$-globina. Existem mutações que alteram a composição de aminoácidos da $\\beta$-globina, originando as formas variantes HbS, HbC e HbG. O quadro a seguir mostra os sete primeiros aminoácidos que compõem a $\\beta$-globina da HbA e as variações encontradas na composição de HbS, HbC e HbG. Sete primeiros aminoácidos da $\\beta$-globina Tipos de Hemoglobina 1 2 3 4 5 6 7 HbA Valina Histidina Leucina Treonina Prolina Ácido Glutâmico Ácido Glutâmico HbS Valina HbC Lisina HbG Glicina A seguir, são fornecidas as sequências de bases nitrogenadas de quatro fitas-molde de DNA responsáveis por codificar para esses sete primeiros aminoácidos da $\\beta$-globina. A primeira sequência (DNA 1) corresponde àquela responsável por determinar o trecho inicial da $\\beta$-globina encontrada na HbA. DNA 1: CAC GTG GAC TGA GGA CTC CTC DNA 2: CAC GTG GAC TGA GGA CTC CCC DNA 3: CAC GTG GAC TGA GGA TTC CTC DNA 4: CAC GTG GAC TGA GGA CAC CTC Considere, também, a seguinte equivalência entre códons e aminoácidos do código genético: Códons (RNA-m) Aminoácidos GGU, GGC, GGA, GGG Glicina AAA, AAG Lisina GUU, GUC, GUA, GUG Valina GAA, GAG Ácido Glutâmico Pode-se afirmar que as hemoglobinas produzidas a partir dos DNA 2, 3 e 4 são, respectivamente,",
       subItens: []
     },
     options: [
@@ -743,7 +743,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Depois que Roma expulsou os reis, ficou ao abrigo dos perigos que germinavam em seu seio, e que a ameaçariam se um príncipe fraco ou viciado subisse ao trono. A autoridade suprema passou, de fato, para as mãos dos cônsules, que não a recebiam por herança, pela intriga ou pela violência, mas pelo livre sufrágio dos cidadãos. Eram os homens de maior virtude: sua virtude - e algumas vezes também sua boa sorte – esteve sempre a serviço de Roma. Para chegar aos limites extremos da glória, a cidade não precisou de mais tempo do que aquele em que viveu sob a monarquia. (Machiavelli, Niccolò - Comentários sobre a Primeira Década de Tito Lívio/Tradução de Sérgio Bath - Brasília: Editora Universidade de Brasília, 2000, 4ª ed. - p.81) A partir da leitura atenta do texto, assinale a alternativa que expressa o sentimento do autor sobre o momento histórico retratado.",
+      principal: "Depois que Roma expulsou os reis, ficou ao abrigo dos perigos que germinavam em seu seio, e que a ameaçariam se um príncipe fraco ou viciado subisse ao trono. A autoridade suprema passou, de fato, para as mãos dos cônsules, que não a recebiam por herança, pela intriga ou pela violência, mas pelo livre sufrágio dos cidadãos. Eram os homens de maior virtude: sua virtude - e algumas vezes também sua boa sorte – esteve sempre a serviço de Roma. Para chegar aos limites extremos da glória, a cidade não precisou de mais tempo do que aquele em que viveu sob a monarquia. (Machiavelli, Niccolò - Comentários sobre a Primeira Década de Tito Lí$vio/Tradu$ção de Sérgio Bath - Brasília: Editora Universidade de Brasília, 2000, 4ª ed. - p.81) A partir da leitura atenta do texto, assinale a alternativa que expressa o sentimento do autor sobre o momento histórico retratado.",
       subItens: []
     },
     options: [
@@ -783,7 +783,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Leia os textos abaixo com atenção. Texto 01 Em 1928, o então chairman do Fed, Adolph Miller, se defrontava com dilema semelhante depois do longo Bull Market dos anos 1920. Naquele momento o Fed, deliberadamente, estabeleceu que a deflação (...) seria um objetivo da política de juros. A queda do mercado do segundo semestre de 1929 foi bem-vinda, sendo esta uma das principais razões para que o Fed evitasse relaxar a política monetária, quando a oferta monetária e a economia entraram em colapso. (Nunes, João Marcus Marinho – O vôo da águia: a economia americana no fim do milênio São Paulo: Saraiva, 2002. - P.188) Texto 02 - Entenda a crise financeira dos Estados Unidos - (UOL/Economia - 31/03/2008 - da redação) Financeiras americanas confiaram de modo excessivo em clientes que não tinham bom histórico de pagamento de dívidas nos últimos anos. (...) Os clientes davam como garantia suas casas, mas o mercado imobiliário entrou em crise em meados do ano passado. Os preços dos imóveis caíram, reduzindo as garantias dos empréstimos. Com medo, os bancos dificultaram novos empréstimos. Isso fez cair o número de compradores de imóveis, agravando ainda mais a crise no setor, que começou a ser observada em julho de 2007. Retirado de https://economia.uol.com.br/ultnot/2008/03/31/ult4294u1176.jhtm acessado em 31/08/2019 A partir da leitura dos textos, assinale a alternativa que expresse diferenças e/ou semelhanças entre as crises econômicas de 1929 e 2008.",
+      principal: "Leia os textos abaixo com atenção. Texto 01 Em 1928, o então chairman do Fed, Adolph Miller, se defrontava com dilema semelhante depois do longo Bull Market dos anos 1920. Naquele momento o Fed, deliberadamente, estabeleceu que a deflação (...) seria um objetivo da política de juros. A queda do mercado do segundo semestre de 1929 foi bem-vinda, sendo esta uma das principais razões para que o Fed evitasse relaxar a política monetária, quando a oferta monetária e a economia entraram em colapso. (Nunes, João Marcus Marinho – O vôo da águia: a economia americana no fim do milênio São Paulo: Saraiva, 2002. - P.188) Texto 02 - Entenda a crise financeira dos Estados Unidos - ($UOL/Economia$ - 31/03/2008 - da redação) Financeiras americanas confiaram de modo excessivo em clientes que não tinham bom histórico de pagamento de dívidas nos últimos anos. (...) Os clientes davam como garantia suas casas, mas o mercado imobiliário entrou em crise em meados do ano passado. Os preços dos imóveis caíram, reduzindo as garantias dos empréstimos. Com medo, os bancos dificultaram novos empréstimos. Isso fez cair o número de compradores de imóveis, agravando ainda mais a crise no setor, que começou a ser observada em julho de 2007. Retirado de https://economia.uol.com.br/ultnot/2008/03/31/ult4294u1176.jhtm acessado em 31/08/2019 A partir da leitura dos textos, assinale a alternativa que expresse diferenças $e/ou$ semelhanças entre as crises econômicas de 1929 e 2008.",
       subItens: []
     },
     options: [
@@ -887,7 +887,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "O governo Tancredo/Sarney herdou uma inflação galopante que corroía o poder de compra dos trabalhadores e causava falências e desemprego. Foi empregado durante o governo Sarney, para combater esse problema, o Plano Cruzado, que consistia, dentre outros mecanismos, no congelamento de preços, estímulo ao crédito, corte de zeros e reajuste emergencial do salário mínimo.",
+      "O governo $Tancredo/Sarney$ herdou uma inflação galopante que corroía o poder de compra dos trabalhadores e causava falências e desemprego. Foi empregado durante o governo Sarney, para combater esse problema, o Plano Cruzado, que consistia, dentre outros mecanismos, no congelamento de preços, estímulo ao crédito, corte de zeros e reajuste emergencial do salário mínimo.",
       "José Sarney, a partir de seu ministro Dílson Funaro, estimulou empréstimos para os setores agrícola e industrial, além de praticar uma política heterodoxa no combate à inflação, garantindo o livre mercado, a livre concorrência e a livre política de preços e salários.",
       "Durante o governo de João Batista Figueiredo, o Brasil entrou numa abertura “lenta, gradual e segura”, garantida pelos sindicatos que fechavam uma forte aliança com o governo militar, retomando assim os direitos políticos para todos os cidadãos, em troca de eleições indiretas para o novo presidente. No campo econômico, Figueiredo tomou providências no combate ao desemprego na área agrícola, simbolizado no slogan “plante que o João garante”.",
       "A passagem do período ditatorial (1964-1985) para o de redemocratização foi marcada por amplo crescimento econômico e baixa inflação, que só teve início ao longo do período de Sarney, eleito diretamente pelo povo depois de 24 anos."
@@ -963,7 +963,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "As pessoas mais pobres do mundo vêm de muitas terras longínquas e acabam perecendo no Triângulo de Afar, na Etiópia, um dos desertos mais quentes da Terra. (...) Em algumas das sepulturas de imigrantes sem dúvida jazem somalis: refugiados de guerra. Outras provavelmente contêm desertores da Eritréia. Ou oromos etíopes enfraquecidos pela seca. (...) Há quanto tempo depomos nossos ossos nessas trilhas desoladas do Chifre da África? (National Geographic - 08/2019 - especial migrações). As afirmações seguintes adotam caminhos distintos na evolução sobre o que foi dito acima. Assinale a única alternativa que segue um caminho CORRETO.",
+      principal: "As pessoas mais pobres do mundo vêm de muitas terras longínquas e acabam perecendo no Triângulo de Afar, na Etiópia, um dos desertos mais quentes da Terra. (...) Em algumas das sepulturas de imigrantes sem dúvida jazem somalis: refugiados de guerra. Outras provavelmente contêm desertores da Eritréia. Ou oromos etíopes enfraquecidos pela seca. (...) Há quanto tempo depomos nossos ossos nessas trilhas desoladas do Chifre da África? (National Geographic - $08/2019$ - especial migrações). As afirmações seguintes adotam caminhos distintos na evolução sobre o que foi dito acima. Assinale a única alternativa que segue um caminho CORRETO.",
       subItens: []
     },
     options: [
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Responda as questões 55 a 63 de acordo com o texto abaixo. Man who stood up for six hours on flight so wife could sleep goes viral 1- A man who stood on a plane for six hours so his wife could sleep across three seats has divided opinion online, with some describing the gesture as \"romantic\" and others as \"selfish\" on the wife's part. 2- Courtney Lee Johnson shared a picture on social media of the man standing in the aisle of the cabin and leaning on the tops of two seats as a woman lay across an entire row with her feet up. \"This guy stood up the whole 6 hours so his wife could sleep. Now that is love,\" she claimed in the caption. 3- While some commenters expressed disbelief that cabin crew had allowed the man to stand for six hours, others said they thought the wife was wrong to expect or allow him to do so. 4- \"That's not love. That's selfishness on the woman's part,\" one commenter said. \"Can't she just place her head on his shoulders and sleep? Love doesn't work like that.\" 5- \"Unless she's sick and this is the only rest position in the circumstance that will make her stay alive. If not, it does not make sense\", said another. 6- \"If that is love then I rather be lonely,\" said a third. 7- Another said: \"I won't judge their marriage. My hubs is the kind of man who would do this for me, but I am not the kind of wife to ask this of him!\" 8- It's not the first time plane etiquette sparked debate online. 9- In March, a US man's $220 compensation demand from an obese passenger for taking up part of his seat proved controversial. Reddit user Big Bawluh had been booked on a five-hour flight, which he said he endured uncomfortably \"pressed up against\" the other man and wanted to be \"compensated\". 10- \"The problem here was that this large dude stuck you with being uncomfortable on your flight, right? Well, the [US]$150 didn't make you any less squished in your seat, so it really feels like you just blackmailed this guy for being fat,\" one said. 11- Others were supportive. 12- \"You had every right to ask the flight attendant for a solution, and between the man and you, a solution was agreed upon. Everyone else can relax, because it wasn't their seat being overtaken on a flight.\" 13- However, another said the real problem was with the airlines themselves. 14- \"But until consumers organize and demand that airlines stop cramming more and more people into smaller and smaller spaces, most of us have decided to just grit our teeth and deal with how uncomfortable air travel is.\" Lorna Thornber In: https://www.traveller.com.au/man-who-stood-up-for-six-hours-on-flight-so-wife-could-sleep-goes-viral-h1hw2q No parágrafo 2, o pronome she refere-se",
+      principal: "Responda as questões 55 a 63 de acordo com o texto abaixo. Man who stood up for six hours on flight so wife could sleep goes viral 1- A man who stood on a plane for six hours so his wife could sleep across three seats has divided opinion online, with some describing the gesture as \"romantic\" and others as \"selfish\" on the wife's part. 2- Courtney Lee Johnson shared a picture on social media of the man standing in the aisle of the cabin and leaning on the tops of two seats as a woman lay across an entire row with her feet up. \"This guy stood up the whole 6 hours so his wife could sleep. Now that is love,\" she claimed in the caption. 3- While some commenters expressed disbelief that cabin crew had allowed the man to stand for six hours, others said they thought the wife was wrong to expect or allow him to do so. 4- \"That's not love. That's selfishness on the woman's part,\" one commenter said. \"Can't she just place her head on his shoulders and sleep? Love doesn't work like that.\" 5- \"Unless she's sick and this is the only rest position in the circumstance that will make her stay alive. If not, it does not make sense\", said another. 6- \"If that is love then I rather be lonely,\" said a third. 7- Another said: \"I won't judge their marriage. My hubs is the kind of man who would do this for me, but I am not the kind of wife to ask this of him!\" 8- It's not the first time plane etiquette sparked debate online. 9- In March, a US man's $220 compensation demand from an obese passenger for taking up part of his seat proved controversial. Reddit user Big Bawluh had been booked on a five-hour flight, which he said he endured uncomfortably \"pressed up against\" the other man and wanted to be \"compensated\". 10- \"The problem here was that this large dude stuck you with being uncomfortable on your flight, right? Well, the [US]$150 didn't make you any less squished in your seat, so it really feels like you just blackmailed this guy for being fat,\" one said. 11- Others were supportive. 12- \"You had every right to ask the flight attendant for a solution, and between the man and you, a solution was agreed upon. Everyone else can relax, because it wasn't their seat being overtaken on a flight.\" 13- However, another said the real problem was with the airlines themselves. 14- \"But until consumers organize and demand that airlines stop cramming more and more people into smaller and smaller spaces, most of us have decided to just grit our teeth and deal with how uncomfortable air travel is.\" Lorna Thornber In: https://www.traveller.com.$au/man$-who-stood-up-for-six-hours-on-flight-so-wife-could-sleep-goes-viral-h1hw2q No parágrafo 2, o pronome she refere-se",
       subItens: []
     },
     options: [
@@ -1194,7 +1194,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Inglês"],
-    conteudo: ["Interpretação de Texto (Opinião do Autor/Comentarista)"],
+    conteudo: ["Interpretação de Texto (Opinião do $Autor/Comentarista$)"],
     imageNames: []
 }),
 
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "puc-sp",
     year: 2020,
     text: {
-      principal: "Leia o poema a seguir, extraído de O guardador de rebanhos, de Alberto Caeiro, heterônimo de Fernando Pessoa, para responder à questão 64. XXIV O que nós vemos das coisas são as coisas. Porque veríamos nós uma coisa se houvesse outra? Porque é que ver e ouvir seriam iludirmo-nos Se ver e ouvir são ver e ouvir? O essencial é saber ver, Saber ver sem estar a pensar, Saber ver quando se vê, E nem pensar quando se vê, Nem ver quando se pensa. Mas isso (triste de nós que trazemos a alma vestida!), Isso exige um estudo profundo, Uma aprendizagem de desaprender E uma sequestração na liberdade daquele convento De que os poetas dizem que as estrelas são as freiras eternas E as flores as penitentes convictas de um só dia, Mas onde afinal as estrelas não são senão estrelas Nem as flores senão flores, Sendo por isso que lhes chamamos estrelas e flores. (PESSOA, Fernando. Poesia completa de Alberto Caeiro. São Paulo: Companhia das Letras, 2005, p.49.) Segundo Alberto Caeiro, no poema XXIV de O guardador de rebanhos,",
+      principal: "Leia o poema a seguir, extraído de O guardador de rebanhos, de Alberto Caeiro, heterônimo de Fernando Pessoa, para responder à questão 64. XXIV O que nós vemos das coisas são as coisas. Porque veríamos nós uma coisa se houvesse outra? Porque é que ver e ouvir seriam iludirmo-nos Se ver e ouvir são ver e ouvir? O essencial é saber ver, Saber ver sem estar a pensar, Saber ver quando se vê, E nem pensar quando se vê, Nem ver quando se pensa. Mas isso (triste de nós que trazemos a alma vestida!), Isso exige um estudo profundo, Uma aprendizagem de desaprender E uma sequestração na liberdade daquele convento De que os poetas dizem que as estrelas são as freiras eternas E as flores as penitentes convictas de um só dia, Mas onde afinal as estrelas não são $\\sin$ão estrelas Nem as flores $\\sin$ão flores, Sendo por isso que lhes chamamos estrelas e flores. (PESSOA, Fernando. Poesia completa de Alberto Caeiro. São Paulo: Companhia das Letras, 2005, p.49.) Segundo Alberto Caeiro, no poema XXIV de O guardador de rebanhos,",
       subItens: []
     },
     options: [
@@ -1414,7 +1414,7 @@ createQuestion({
     ],
     correctAnswer: 3,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Literatura (Romantismo)", "José de Alencar (Iracema)", "Contexto Geográfico/Histórico"],
+    conteudo: ["Literatura (Romantismo)", "José de Alencar (Iracema)", "Contexto Geográ$fico/Hist$órico"],
     imageNames: []
 }),
 

@@ -66,7 +66,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia o cartum a seguir.\n\nTODAY... FREE SPEECH AND HERE'S the SCHOOL BOARD'S LIST OF THINGS YOU'RE FREE TO SAY Disponível em: <https://signe-wilkinson.com/education>. Acesso em: 27 mar. 2025.\nA principal crítica apresentada no cartum é a",
+      principal: "Leia o cartum a seguir.\n\nTODAY... FREE SPEECH AND HERE'S the SCHOOL BOARD'S LIST OF THINGS YOU'RE FREE TO SAY Disponível em: <https://signe-wilkinson.$com/education$>. Acesso em: 27 mar. 2025.\nA principal crítica apresentada no cartum é a",
       subItens: []
     },
     options: [
@@ -108,7 +108,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia as opiniões a seguir, retiradas do sítio Quora, uma plataforma de perguntas e respostas on-line, que permite aos usuários interagirem entre si.\n\n\"While videogames can be a fun and effective way to learn English, it's beneficial to complement this method with other forms of study, such as reading, writing, and formal language practice\". \"But I'm not sure video games can do well in the teaching of English. Nothing can occupy the position of a teacher, it is same in the case of video games and apps. A teacher not only explains but also answers different questions.\" \"A video game certainly improves your language skills but it doesn't teach you everything.\" \"Playing video games will definitely help build up your passive knowledge of English, but that's just not the same as studying a language intensely.\" Disponível em: <https://www.quora.com/Do-you-think-that-video-games-are-teaching-English-better-than-an-English-teacher>. Acesso em 27 mar. 2025. [Adaptado].\nNas quatro opiniões, é comum a",
+      principal: "Leia as opiniões a seguir, retiradas do sítio Quora, uma plataforma de perguntas e respostas on-line, que permite aos usuários interagirem entre si.\n\n\"While videogames can be a fun and effective way to learn English, it's beneficial to complement this method with other forms of study, such as reading, writing, and formal language practice\". \"But I'm not sure video games can do well in the teaching of English. Nothing can occupy the position of a teacher, it is same in the case of video games and apps. A teacher not only explains but also answers different questions.\" \"A video game certainly improves your language skills but it doesn't teach you everything.\" \"Playing video games will definitely help build up your passive knowledge of English, but that's just not the same as studying a language intensely.\" Disponível em: <https://www.quora.$com/Do$-you-think-that-video-games-are-teaching-English-better-than-an-English-teacher>. Acesso em 27 mar. 2025. [Adaptado].\nNas quatro opiniões, é comum a",
       subItens: []
     },
     options: [
@@ -192,7 +192,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia o Texto 1 para responder às questões 10 e 11. Texto 1 ÚRSULA - Quem és? - perguntou o mancebo ao escravo apenas saído do seu letargo. - Por que assim mostras interessar-te por mim?... - Senhor! - balbuciou o negro - vosso estado... Eu continuou, com o acanhamento que a escravidão gerava - suposto nenhum serviço vos possa prestar, todavia quisera poder ser-vos útil. Perdoai-me!... Eu? - atalhou o cavaleiro com efusão de reconhecimento - Eu perdoar-te! Pudera todos os corações assemelharem-se ao teu. E fitando-o, apesar da perturbação do seu cérebro, sentiu pelo jovem negro interesse igual talvez ao que este sentia por ele. Então nesse breve cambiar de vistas, como que essas duas almas mutuamente se falaram, exprimindo uma o pensamento apenas vago que na outra errava. Entretanto o pobre negro, fiel ao humilde hábito do escravo, com os braços cruzados sobre o peito, descaía agora a vista para a terra, aguardando tímido uma nova interrogação. Apesar da febre, que despontava, o cavaleiro começava a coordenar suas ideias, e as expressões do escravo, e os serviços que lhe prestara, tocaram-lhe o mais fundo do coração. É que em seu coração ardiam sentimentos tão nobres e generosos como os que animavam a alma do jovem negro: por isso, num transporte de íntima e generosa gratidão, o mancebo, arrancando a luva que lhe calçava a destra, estendeu a mão ao homem que o salvara. REIS, Maria Firmina dos. Úrsula e outras obras. (Coleção Prazer de Ler das Edições Câmara). Org. Rafael Benjamin, Wellington Brandão, Danglei de Castro Pereira. Domínio público. s/d. s/p. Nessa obra do Romantismo Brasileiro, o primeiro encontro entre os personagens Túlio e Tancredo",
+      principal: "Leia o Texto 1 para responder às questões 10 e 11. Texto 1 ÚRSULA - Quem és? - perguntou o mancebo ao escravo apenas saído do seu letargo. - Por que assim mostras interessar-te por mim?... - Senhor! - balbuciou o negro - vosso estado... Eu continuou, com o acanhamento que a escravidão gerava - suposto nenhum serviço vos possa prestar, todavia quisera poder ser-vos útil. Perdoai-me!... Eu? - atalhou o cavaleiro com efusão de reconhecimento - Eu perdoar-te! Pudera todos os corações assemelharem-se ao teu. E fitando-o, apesar da perturbação do seu cérebro, sentiu pelo jovem negro interesse igual talvez ao que este sentia por ele. Então nesse breve cambiar de vistas, como que essas duas almas mutuamente se falaram, exprimindo uma o pensamento apenas vago que na outra errava. Entretanto o pobre negro, fiel ao humilde hábito do escravo, com os braços cruzados sobre o peito, descaía agora a vista para a terra, aguardando tímido uma nova interrogação. Apesar da febre, que despontava, o cavaleiro começava a coordenar suas ideias, e as expressões do escravo, e os serviços que lhe prestara, tocaram-lhe o mais fundo do coração. É que em seu coração ardiam sentimentos tão nobres e generosos como os que animavam a alma do jovem negro: por isso, num transporte de íntima e generosa gratidão, o mancebo, arrancando a luva que lhe calçava a destra, estendeu a mão ao homem que o salvara. REIS, Maria Firmina dos. Úrsula e outras obras. (Coleção Prazer de Ler das Edições Câmara). Org. Rafael Benjamin, Wellington Brandão, Danglei de Castro Pereira. Domínio público. $s/d$. $s/p$. Nessa obra do Romantismo Brasileiro, o primeiro encontro entre os personagens Túlio e Tancredo",
       subItens: []
     },
     options: [
@@ -255,7 +255,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia o Texto 2 para responder às questões 13 e 14. Texto 2 Dia 1. Nome Completo eu queria escrever a palavra br*+^% a palavra br*+^% queria escrever eu palavra eu br*+^% escrever queria BRASIL eu queria escrever a palavra brasil aquela em nome da qual tanto homem se faz bicho tanto bandido general aquele em nome de quem a borracha vira bala a perversidade qualidade de bem aquela empunhado em canto atestada em docs que esconde pranto mãe do dops eu queria escrever a palavra brasil mas a caneta num ato de legítima revolta feito quem se cansa de narrar sempre a mesma trajetória me disse \"PARA e VOLTA pro começo da frase do livro da história volta pra cabral e as cruzes lusitanas e se pergunte DA ONDE VEM ESSE NOME? [...] ROMÃO, Luiza. Dia 1. Nome Completo. Sangria. São Paulo: Selo do Burro, 2017. s/p. Neste excerto, Luiza Romão apresenta uma imagem de identidade nacional que",
+      principal: "Leia o Texto 2 para responder às questões 13 e 14. Texto 2 Dia 1. Nome Completo eu queria escrever a palavra br*+^% a palavra br*+^% queria escrever eu palavra eu br*+^% escrever queria BRASIL eu queria escrever a palavra brasil aquela em nome da qual tanto homem se faz bicho tanto bandido general aquele em nome de quem a borracha vira bala a perversidade qualidade de bem aquela empunhado em canto atestada em docs que esconde pranto mãe do dops eu queria escrever a palavra brasil mas a caneta num ato de legítima revolta feito quem se cansa de narrar sempre a mesma trajetória me disse \"PARA e VOLTA pro começo da frase do livro da história volta pra cabral e as cruzes lusitanas e se pergunte DA ONDE VEM ESSE NOME? [...] ROMÃO, Luiza. Dia 1. Nome Completo. Sangria. São Paulo: Selo do Burro, 2017. $s/p$. Neste excerto, Luiza Romão apresenta uma imagem de identidade nacional que",
       subItens: []
     },
     options: [
@@ -276,15 +276,15 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Ainda sobre o poema de Luiza Romão, observe mais detidamente os versos a seguir. aquela em nome da qual tanto homem se faz bicho tanto bandido general aquele em nome de quem a borracha vira bala a perversidade qualidade de bem Nesses versos, “aquela/aquele” retomam a mesma ideia de",
+      principal: "Ainda sobre o poema de Luiza Romão, observe mais detidamente os versos a seguir. aquela em nome da qual tanto homem se faz bicho tanto bandido general aquele em nome de quem a borracha vira bala a perversidade qualidade de bem Nesses versos, “$aquela/aquele$” retomam a mesma ideia de",
       subItens: []
     },
     options: [
-      "palavra/nome.",
-      "eu/Brasil.",
-      "querer/escrever.",
-      "palavra/eu.",
-      "Brasil/nome."
+      "$palavra/nome$.",
+      "$eu/Brasil$.",
+      "$querer/escrever$.",
+      "$palavra/eu$.",
+      "$Brasil/nome$."
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],
@@ -339,7 +339,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Analise os Textos 3 e 4 a seguir. Texto 3 (Image: Detalhe de 'A Criação de Adão', de Michelangelo, com a mão de Deus e a mão de Adão quase se tocando.) Disponível em: <https://pt.wikipedia.org/wiki/A_Criação_de_Adão>. Acesso em 25 mar. 2025. Texto 4 (Image: Duas mãos, uma humana e outra robótica, com os dedos indicadores quase se tocando, em uma recriação da pose de 'A Criação de Adão'.) Disponível em: <https://www.bbc.com/portuguese/articles/czvp8ypwqz9o>. Acesso em: 31 mar. 2025.\nA relação temática existente entre os textos 3 e 4 decorre da",
+      principal: "Analise os Textos 3 e 4 a seguir. Texto 3 (Image: Detalhe de 'A Criação de Adão', de Michelangelo, com a mão de Deus e a mão de Adão quase se tocando.) Disponível em: <https://pt.wikipedia.org/wiki/A_Criaçã$o_de_Ad$ão>. Acesso em 25 mar. 2025. Texto 4 (Image: Duas mãos, uma humana e outra robótica, com os dedos indicadores quase se tocando, em uma recriação da pose de 'A Criação de Adão'.) Disponível em: <https://www.bbc.com/portuguese/articles/czvp8ypwqz9o>. Acesso em: 31 mar. 2025.\nA relação temática existente entre os textos 3 e 4 decorre da",
       subItens: []
     },
     options: [
@@ -402,7 +402,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia os Textos 5 e 6 para responder às questões 20 e 21. Texto 5 (Image: Mapa com palavras de origem africana e seus significados, como Quitanda, Berimbau, Moleque, Caçula, Axé, Candomblé, Ginga, Samba, Cachaça, Fubá, Cafuné. Título: ÁFRICA e BRASIL.) Ilustração de capa: Paula P. Rezende. Disponível em: <http://ipol.org.br/linguicidio-desconhece-o-pretogues>. Acesso em: 19 mar. 2025. Texto 6 (Text: Diferente do idioma falado em Portugal, o português do Brasil, pela importante contribuição que recebeu de idiomas africanos trazidos pelos escravizados, deveria se chamar \"pretuguês”. A proposição é da antropóloga Lélia Gonzalez e vem corroborada pelo professor Gabriel Nascimento, em seu livro Racismo Linguístico: os subterrâneos da linguagem e do racismo. Uma das fundadoras do Movimento Negro Unificado, Lélia Gonzalez também descreveu a América Latina como \"amefricana\", para dizer que, apesar do branqueamento, há muitas razões para descrever boa parte da América Latina como proveniente de uma intensa racialização. Negros e indígenas foram e são vítimas de um \"epistemicídio\" traduzido num \"linguicídio\". A filósofa e escritora Aparecida Sueli Carneiro define o \"epistemicídio” como o extermínio do conhecimento do outro. “É o formato pelo qual a colonialidade sequestra, subtrai tudo o que puder se apropriar e apaga os saberes e práticas dos povos originários e tradicionais\", explica a filósofa. O epistemicídio também está relacionado ao linguicídio. Segundo Sueli Carneiro, o combate às línguas já faladas pelos povos originários negros e indígenas figura como um dos primeiros atos do mito da brasilidade linguística. Em seu livro, o pesquisador Gabriel Nascimento questiona por que, num país com mais de 180 línguas indígenas, o português (além da Língua Brasileira de Sinais - Libras) é a única língua oficial do país. Para ele, “não se pode afirmar a língua como um lugar pacífico. A língua é um lugar de muitas dores para muitos de nós\". Disponível em: <http://ipol.org.br/linguicidio-desconhece-o-pretogues>. Acesso em: 19 mar. 2025. [Adaptado].\nNos textos, a discussão sobre a colonialidade contribui para a compreensão do patrimônio linguístico nacional ao",
+      principal: "Leia os Textos 5 e 6 para responder às questões 20 e 21. Texto 5 (Image: Mapa com palavras de origem africana e seus significados, como Quitanda, Berimbau, Moleque, Caçula, Axé, Candomblé, Ginga, Samba, Cachaça, Fubá, Cafuné. Título: ÁFRICA e BRASIL.) Ilustração de capa: Paula P. Rezende. Disponível em: <http://ipol.org.$br/linguicidio$-desconhece-o-pretogues>. Acesso em: 19 mar. 2025. Texto 6 (Text: Diferente do idioma falado em Portugal, o português do Brasil, pela importante contribuição que recebeu de idiomas africanos trazidos pelos escravizados, deveria se chamar \"pretuguês”. A proposição é da antropóloga Lélia Gonzalez e vem corroborada pelo professor Gabriel Nascimento, em seu livro Racismo Linguístico: os subterrâneos da linguagem e do racismo. Uma das fundadoras do Movimento Negro Unificado, Lélia Gonzalez também descreveu a América Latina como \"amefricana\", para dizer que, apesar do branqueamento, há muitas razões para descrever boa parte da América Latina como proveniente de uma intensa racialização. Negros e indígenas foram e são vítimas de um \"epistemicídio\" traduzido num \"linguicídio\". A filósofa e escritora Aparecida Sueli Carneiro define o \"epistemicídio” como o extermínio do conhecimento do outro. “É o formato pelo qual a colonialidade sequestra, subtrai tudo o que puder se apropriar e apaga os saberes e práticas dos povos originários e tradicionais\", explica a filósofa. O epistemicídio também está relacionado ao linguicídio. Segundo Sueli Carneiro, o combate às línguas já faladas pelos povos originários negros e indígenas figura como um dos primeiros atos do mito da brasilidade linguística. Em seu livro, o pesquisador Gabriel Nascimento questiona por que, num país com mais de 180 línguas indígenas, o português (além da Língua Brasileira de Sinais - Libras) é a única língua oficial do país. Para ele, “não se pode afirmar a língua como um lugar pacífico. A língua é um lugar de muitas dores para muitos de nós\". Disponível em: <http://ipol.org.$br/linguicidio$-desconhece-o-pretogues>. Acesso em: 19 mar. 2025. [Adaptado].\nNos textos, a discussão sobre a colonialidade contribui para a compreensão do patrimônio linguístico nacional ao",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "O proprietário de uma fábrica deseja construir um tanque no formato de cilindro reto de base circular. O tanque será posicionado de forma que o eixo do cilindro seja paralelo ao solo e ficará apoiado sobre pilares de mesma altura, perpendiculares ao solo. A figura a seguir apresenta a vista frontal do tanque, na qual P e Q são os pontos de apoio nos pilares, o ponto O é o centro da base circular de raio 1 metro, QPO = 10° e a menor distância do tanque ao solo é de 0,3 metros.\n[IMAGEM: Diagrama de vista frontal de um tanque. P e Q são pontos de apoio no solo. O é o centro da base circular de raio 1 metro. O ângulo QPO é de 10°. A distância mínima do tanque ao solo é de 0,3 metros. Há linhas pontilhadas indicando alturas e ângulos.]\nUse: sen 10° = 0,17.\nA altura, em metro, de cada pilar é igual a",
+      principal: "O proprietário de uma fábrica deseja construir um tanque no formato de cilindro reto de base circular. O tanque será posicionado de forma que o eixo do cilindro seja paralelo ao solo e ficará apoiado sobre pilares de mesma altura, perpendiculares ao solo. A figura a seguir apresenta a vista frontal do tanque, na qual P e Q são os pontos de apoio nos pilares, o ponto O é o centro da base circular de raio 1 metro, QPO = 10° e a menor distância do tanque ao solo é de 0,3 metros.\n[IMAGEM: Diagrama de vista frontal de um tanque. P e Q são pontos de apoio no solo. O é o centro da base circular de raio 1 metro. O ângulo QPO é de 10°. A distância mínima do tanque ao solo é de 0,3 metros. Há linhas pontilhadas indicando alturas e ângulos.]\nUse: $\\sin$ 10° = 0,17.\nA altura, em metro, de cada pilar é igual a",
       subItens: []
     },
     options: [
@@ -549,7 +549,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Um aplicativo (APP) calcula a velocidade média de uma pessoa. Em certo dia, nos seis segundos iniciais do treino, devido a um erro, o APP calculou que a velocidade média foi de 208,5 km/h, como apresentado na figura.\n[IMAGEM: Tela de um aplicativo com a hora 08:50, Tempo 0:00:06 e Velocidade Média 208,5 KM/H.]\nA medida que mais se aproxima da distância, em quilômetro, calculada pelo APP, nesse intervalo de seis segundos do treino, foi de",
+      principal: "Um aplicativo (APP) calcula a velocidade média de uma pessoa. Em certo dia, nos seis segundos iniciais do treino, devido a um erro, o APP calculou que a velocidade média foi de 208,5 $km/h$, como apresentado na figura.\n[IMAGEM: Tela de um aplicativo com a hora 08:50, Tempo 0:00:06 e Velocidade Média 208,5 $KM/H$.]\nA medida que mais se aproxima da distância, em quilômetro, calculada pelo APP, nesse intervalo de seis segundos do treino, foi de",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Uma empresa de logística precisa organizar pacotes em prateleiras. Cada prateleira pode suportar, no máximo, 204 kg. Os pacotes disponíveis têm massas diferentes: são pequenos, médios e grandes e têm, respectivamente, 12 kg, 20 kg e 30 kg. Deseja-se preencher uma prateleira com a capacidade máxima, utilizando-se, exatamente, 10 pacotes.\nA quantidade de pacotes pequenos, médios e grandes será, respectivamente,",
+      principal: "Uma empresa de $\\log$ística precisa organizar pacotes em prateleiras. Cada prateleira pode suportar, no máximo, 204 kg. Os pacotes disponíveis têm massas diferentes: são pequenos, médios e grandes e têm, respectivamente, 12 kg, 20 kg e 30 kg. Deseja-se preencher uma prateleira com a capacidade máxima, utilizando-se, exatamente, 10 pacotes.\nA quantidade de pacotes pequenos, médios e grandes será, respectivamente,",
       subItens: []
     },
     options: [
@@ -637,11 +637,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2.000",
-      "1/200.000",
-      "1/1.000.000",
-      "1/1.400.000",
-      "7/1.000.000"
+      "$1/2$.000",
+      "$1/200$.000",
+      "$1/1$.000.000",
+      "$1/1$.400.000",
+      "$7/1$.000.000"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -675,7 +675,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Um tetraedro truncado é um sólido obtido pela secção em cada vértice, paralelamente às faces opostas de um tetraedro regular, cuja aresta mede 1/3 da aresta do tetraedro regular sólido, conforme as figuras a seguir.\n[IMAGENS: Três figuras. A primeira é um tetraedro regular de aresta 'a'. A segunda é um tetraedro regular sendo truncado (secções em cada vértice). A terceira é um tetraedro truncado, com indicação de uma aresta truncada como 'a/3'.]\nPara imprimir, em uma impressora 3D, um tetraedro regular sólido de aresta de medida a, gasta-se 0,1 litro de resina. O litro de resina para essa impressora 3D custa R$ 270,00.\nDeseja-se imprimir, nessa impressora, o tetraedro truncado sólido obtido do truncamento do tetraedro de aresta de medida a. Qual o custo, em Real, de resina para imprimir esse tetraedro truncado?",
+      principal: "Um tetraedro truncado é um sólido obtido pela secção em cada vértice, paralelamente às faces opostas de um tetraedro regular, cuja aresta mede $1/3$ da aresta do tetraedro regular sólido, conforme as figuras a seguir.\n[IMAGENS: Três figuras. A primeira é um tetraedro regular de aresta 'a'. A segunda é um tetraedro regular sendo truncado (secções em cada vértice). A terceira é um tetraedro truncado, com indicação de uma aresta truncada como '$a/3$'.]\nPara imprimir, em uma impressora 3D, um tetraedro regular sólido de aresta de medida a, gasta-se 0,1 litro de resina. O litro de resina para essa impressora 3D custa R$ 270,00.\nDeseja-se imprimir, nessa impressora, o tetraedro truncado sólido obtido do truncamento do tetraedro de aresta de medida a. Qual o custo, em Real, de resina para imprimir esse tetraedro truncado?",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Em uma aula de matemática, a professora apresentou a história de John Napier, um matemático que teve grande importância no desenvolvimento dos logaritmos. Em sua obra intitulada Mirifici Logarithmorum Canonis Descriptio, ele apresenta várias tabelas com valores aproximados do logaritmo natural (ln). Uma das tabelas apresenta o valor\n– In[sen(19°)] = 1,122\nA professora pediu para seus alunos calcularem o valor de\nIn [cossec⁴(19°)].\nUse: cossec(x) = 1/sen(x)\nO valor pedido pela professora é",
+      principal: "Em uma aula de matemática, a professora apresentou a história de John Napier, um matemático que teve grande importância no desenvolvimento dos logaritmos. Em sua obra intitulada Mirifici Logarithmorum Canonis Descriptio, ele apresenta várias tabelas com valores aproximados do logaritmo natural (ln). Uma das tabelas apresenta o valor\n– In[$\\sin$(19°)] = 1,122\nA professora pediu para seus alunos calcularem o valor de\nIn [cossec⁴(19°)].\nUse: cossec(x) = $1/sen$(x)\nO valor pedido pela professora é",
       subItens: []
     },
     options: [
@@ -885,7 +885,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia o texto a seguir.\nEm relação à soja, em Goiás, a safra de 2024/25 deve chegar a 18,7 milhões de toneladas, com um aumento de 11,7% em relação à anterior. Já a safra nacional será de 166,3 milhões de toneladas, com aumento de 12,6% em relação à safra anterior.\nSecretaria de Agricultura, Pecuária e Abastecimento (Seapa) – Governo de Goiás. [Adaptado].\nPara determinar a quantidade, em milhão de toneladas, a mais de soja da safra nacional 2023/24 em relação à produção de soja em Goiás na safra 2023/24, o cálculo que deve ser feito é",
+      principal: "Leia o texto a seguir.\nEm relação à soja, em Goiás, a safra de $2024/25$ deve chegar a 18,7 milhões de toneladas, com um aumento de 11,7% em relação à anterior. Já a safra nacional será de 166,3 milhões de toneladas, com aumento de 12,6% em relação à safra anterior.\nSecretaria de Agricultura, Pecuária e Abastecimento (Seapa) – Governo de Goiás. [Adaptado].\nPara determinar a quantidade, em milhão de toneladas, a mais de soja da safra nacional $2023/24$ em relação à produção de soja em Goiás na safra $2023/24$, o cálculo que deve ser feito é",
       subItens: []
     },
     options: [
@@ -906,15 +906,15 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia o texto a seguir.\nPor volta de 1700 a.C, na Babilônia, tabletes de argila com registros feitos por escribas evidenciam o uso da álgebra para resolver equações. Um tablete em particular, BM 13901 (British Museum), contém o seguinte problema:\n“A soma do valor numérico da área de um quadrado mais 1/3 do seu lado resulta em 11/12. Qual é o valor da medida do lado do quadrado?”\nPara a solução, o escriba descreve o seguinte procedimento:\ni) calcular o quadrado da metade de 1/3;\nii) adicionar o resultado a 11/12;\niii) calcular a raiz quadrada do resultado obtido em ii);\niv) subtrair a metade de 1/3 do resultado obtido em iii), encontrando assim a medida procurada.\nKATZ, J. V. The Development of Algebra and Algebra Education. In: LACAMPAGNE, C. B.; BLAIR, W.; KAPUT, J. (Eds.). The algebra initiative colloquium. v.1. Washington DC: Office of Educational Research and Improvement, 1995. [Adaptado].\nConsiderando o procedimento de resolução babilônico, o valor da medida x do lado do quadrado é",
+      principal: "Leia o texto a seguir.\nPor volta de 1700 a.C, na Babilônia, tabletes de argila com registros feitos por escribas evidenciam o uso da álgebra para resolver equações. Um tablete em particular, BM 13901 (British Museum), contém o seguinte problema:\n“A soma do valor numérico da área de um quadrado mais $1/3$ do seu lado resulta em $11/12$. Qual é o valor da medida do lado do quadrado?”\nPara a solução, o escriba descreve o seguinte procedimento:\ni) calcular o quadrado da metade de $1/3$;\nii) adicionar o resultado a $11/12$;\niii) calcular a raiz quadrada do resultado obtido em ii);\niv) subtrair a metade de $1/3$ do resultado obtido em iii), encontrando assim a medida procurada.\nKATZ, J. V. The Development of Algebra and Algebra Education. In: LACAMPAGNE, C. B.; BLAIR, W.; KAPUT, J. (Eds.). The algebra initiative colloquium. v.1. Washington DC: Office of Educational Research and Improvement, 1995. [Adaptado].\nConsiderando o procedimento de resolução babilônico, o valor da medida x do lado do quadrado é",
       subItens: []
     },
     options: [
-      "-3/7",
-      "1/2",
-      "11/12",
-      "1/6",
-      "2/3"
+      "-$3/7$",
+      "$1/2$",
+      "$11/12$",
+      "$1/6$",
+      "$2/3$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -927,7 +927,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "O quadro apresenta quanto o PIB (Produto Interno Bruto) de cada região do Brasil representava do PIB do país, em 2022, e o valor, em Real, do PIB per capita (razão entre o PIB e o número de habitantes) por região, no mesmo ano.\n[TABELA: Dados do PIB por região do Brasil em 2022]\nRegião | Porcentual do PIB por região | PIB per capita por região (em Real)\n---|---|---\nNorte | 6% | 33.000,00\nNordeste | 14% | 25.500,00\nCentro-Oeste | 10% | 65.500,00\nSudeste | 53% | 63.500,00\nSul | 17% | 56.000,00\nBrasil | 100% | 50.000,00\nDisponível em: <https://nada.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/41893-em-2022-pib-cresce-em-24-unidades-da-federacao>. Acesso em: 10 mar. 2025. [Adaptado].\nO valor porcentual que mais se aproxima da população do Centro-Oeste, comparado à população do Brasil, é",
+      principal: "O quadro apresenta quanto o PIB (Produto Interno Bruto) de cada região do Brasil representava do PIB do país, em 2022, e o valor, em Real, do PIB per capita (razão entre o PIB e o número de habitantes) por região, no mesmo ano.\n[TABELA: Dados do PIB por região do Brasil em 2022]\nRegião | Porcentual do PIB por região | PIB per capita por região (em Real)\n---|---|---\nNorte | 6% | 33.000,00\nNordeste | 14% | 25.500,00\nCentro-Oeste | 10% | 65.500,00\nSudeste | 53% | 63.500,00\nSul | 17% | 56.000,00\nBrasil | 100% | 50.000,00\nDisponível em: <https://nada.ibge.gov.$br/agencia$-$noticias/2012$-agencia-de-noticias/noticias/41893-em-2022-pib-cresce-em-24-unidades-da-federacao>. Acesso em: 10 mar. 2025. [Adaptado].\nO valor porcentual que mais se aproxima da população do Centro-Oeste, comparado à população do Brasil, é",
       subItens: []
     },
     options: [
@@ -973,11 +973,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "tg(2θ) - tg(θ).",
-      "tg(θ) - tg(2θ).",
-      "2tg(θ) - tg(2θ).",
-      "tg(2θ).",
-      "tg(θ)."
+      "$\\tan$(2θ) - $\\tan$(θ).",
+      "$\\tan$(θ) - $\\tan$(2θ).",
+      "2tg(θ) - $\\tan$(2θ).",
+      "$\\tan$(2θ).",
+      "$\\tan$(θ)."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -994,11 +994,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "20/4",
-      "21/4",
-      "22/4",
-      "23/4",
-      "24/4"
+      "$20/4$",
+      "$21/4$",
+      "$22/4$",
+      "$23/4$",
+      "$24/4$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Um carrinho em uma montanha russa movimenta-se sob a ação do campo gravitacional com a sua energia potencial descrita pela figura a seguir. No ponto P, sua energia cinética é igual à sua energia potencial Uo. Desprezando os efeitos das forças dissipativas, em qual ponto, representado no gráfico, a energia cinética do carrinho será nula?\n[GRÁFICO: Gráfico de Energia Potencial (U/Uo) em função de uma coordenada x. Os pontos são: P(x=0, U/Uo=1); A(x=~1,5, U/Uo=-2); B(x=~-1,5, U/Uo=1.5); C(x=~3, U/Uo= -1); D(x=~-0.5, U/Uo=2.0); E(x=~-1.5, U/Uo=3.0). A linha do gráfico passa por E, D, B, P, A, C.]\n",
+      principal: "Um carrinho em uma montanha russa movimenta-se sob a ação do campo gravitacional com a sua energia potencial descrita pela figura a seguir. No ponto P, sua energia cinética é igual à sua energia potencial Uo. Desprezando os efeitos das forças dissipativas, em qual ponto, representado no gráfico, a energia cinética do carrinho será nula?\n[GRÁFICO: Gráfico de Energia Potencial ($U/Uo$) em função de uma coordenada x. Os pontos são: P(x=0, $U/Uo$=1); A(x=~1,5, $U/Uo$=-2); B(x=~-1,5, $U/Uo$=1.5); C(x=~3, $U/Uo$= -1); D(x=~-0.5, $U/Uo$=2.0); E(x=~-1.5, $U/Uo$=3.0). A linha do gráfico passa por E, D, B, P, A, C.]\n",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "O manual de instalação de um chuveiro elétrico informa que este funciona com uma pressão mínima de 10 kPa. A instalação do chuveiro foi realizada com um fator de segurança de 50%, nesse quesito. Dessa forma, a distância vertical mínima do fundo da caixa d'água ao chuveiro, em metros, foi de\nDados: densidade da água: 1,0 g/cm³; g=10m/s²",
+      principal: "O manual de instalação de um chuveiro elétrico informa que este funciona com uma pressão mínima de 10 kPa. A instalação do chuveiro foi realizada com um fator de segurança de 50%, nesse quesito. Dessa forma, a distância vertical mínima do fundo da caixa d'água ao chuveiro, em metros, foi de\nDados: densidade da água: 1,0 $g/cm$³; g=$10m/s$²",
       subItens: []
     },
     options: [
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia o Texto 2 e analise o gráfico para responder às questões 53 e 54.\nTexto 2\nO maior número de notificações registrados, 342.713 casos, no Sistema de Informação de Agravos de Notificação do Ministério da Saúde, no ano de 2023, foram os acidentes por animais peçonhentos. No gráfico, observa-se a porcentagem de notificações referentes aos animais envolvidos.\n[GRÁFICO: Gráfico de pizza mostrando a porcentagem de notificações de acidentes causados por diferentes animais peçonhentos em 2023. Os dados são: Escorpião: 58,79%; Aranha: 12,85%; Abelha: 9,85%; Serpente: 9,51%; Outros: 5,35%; Lagarta: 2,07%; Não identificado: 1,57%.]\nGráfico 1 - Porcentagem de notificações de acidentes causados por diferentes animais peçonhentos. Dados obtidos no Sistema de Informação de Agravos de Notificação do Ministério da Saúde no ano de 2023.\nDisponível em: <https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/edicoes/2024/boletim-epidemiologico-volume-55-no-15.pdf/view>. [Adaptado]. Acesso em: 06 mar. 2025.\nDe acordo com as informações apresentadas, a porcentagem (%) de acidentes por aracnídeos notificada foi",
+      principal: "Leia o Texto 2 e analise o gráfico para responder às questões 53 e 54.\nTexto 2\nO maior número de notificações registrados, 342.713 casos, no Sistema de Informação de Agravos de Notificação do Ministério da Saúde, no ano de 2023, foram os acidentes por animais peçonhentos. No gráfico, observa-se a porcentagem de notificações referentes aos animais envolvidos.\n[GRÁFICO: Gráfico de pizza mostrando a porcentagem de notificações de acidentes causados por diferentes animais peçonhentos em 2023. Os dados são: Escorpião: 58,79%; Aranha: 12,85%; Abelha: 9,85%; Serpente: 9,51%; Outros: 5,35%; Lagarta: 2,07%; Não identificado: 1,57%.]\nGráfico 1 - Porcentagem de notificações de acidentes causados por diferentes animais peçonhentos. Dados obtidos no Sistema de Informação de Agravos de Notificação do Ministério da Saúde no ano de 2023.\nDisponível em: <https://www.gov.br/saude/pt-$br/centrais$-de-conteudo/publicacoes/boletins/epidemiologicos/edicoes/2024/boletim-epidemiologico-volume-55-no-15.$pdf/view$>. [Adaptado]. Acesso em: 06 mar. 2025.\nDe acordo com as informações apresentadas, a porcentagem (%) de acidentes por aracnídeos notificada foi",
       subItens: []
     },
     options: [
@@ -1288,9 +1288,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "kg/m.",
+      "$kg/m$.",
       "m²/s².",
-      "kg.m/s².",
+      "kg.$m/s$².",
       "m²/s.",
       "kg·m²/s²."
     ],
@@ -1410,7 +1410,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "O arroz é um dos pilares da alimentação brasileira. Mesmo que seja uma receita simples, o preparo de um arroz soltinho e gostoso demanda que sejam utilizadas as proporções corretas entre a quantidade de arroz e de água. As receitas tradicionais recomendam que, para cada xícara de arroz (200 ml), depois de refogado, deve-se acrescentar duas xícaras de água fervente. Suponha que se queira cozinhar uma xícara de arroz e que, no processo de cozimento, metade da água evapora e a outra metade é absorvida pelo arroz. Qual é a quantidade de energia mínima, em joules, necessária para o preparo de uma xícara de arroz?\n(Dados: densidade da água = 1,0 g/cm³; calor latente de evaporação da água = 2,5×10⁶ J/kg).",
+      principal: "O arroz é um dos pilares da alimentação brasileira. Mesmo que seja uma receita simples, o preparo de um arroz soltinho e gostoso demanda que sejam utilizadas as proporções corretas entre a quantidade de arroz e de água. As receitas tradicionais recomendam que, para cada xícara de arroz (200 ml), depois de refogado, deve-se acrescentar duas xícaras de água fervente. Suponha que se queira cozinhar uma xícara de arroz e que, no processo de cozimento, metade da água evapora e a outra metade é absorvida pelo arroz. Qual é a quantidade de energia mínima, em joules, necessária para o preparo de uma xícara de arroz?\n(Dados: densidade da água = 1,0 $g/cm$³; calor latente de evaporação da água = 2,5×10⁶ $J/kg$).",
       subItens: []
     },
     options: [
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia o Texto 3 para responder às questões 71 e 72.\nTexto 3\nTrichoderma é um gênero de fungos com várias espécies que atuam como agentes de controle biológico. A protocooperação desse gênero com as plantas possibilita o desenvolvimento de uma série de benefícios. Para as plantas, tais benefícios consistem em promoção de crescimento e indução de mecanismos de resistência a estresses bióticos e abióticos dentre outros, o que tem desencadeado o interesse de pesquisadores acerca de suas aplicações no campo agronômico.\nDisponível em: <https://iba.agr.br/trichoderma-genero-multifuncional-e-benefico-para-as-plantas-para-uma-agricultura-eco-sustentavel/>. [Adaptado]. Acesso em: 25 mar. 2025.\nA relação ecológica mencionada no texto é",
+      principal: "Leia o Texto 3 para responder às questões 71 e 72.\nTexto 3\nTrichoderma é um gênero de fungos com várias espécies que atuam como agentes de controle biológico. A protocooperação desse gênero com as plantas possibilita o desenvolvimento de uma série de benefícios. Para as plantas, tais benefícios consistem em promoção de crescimento e indução de mecanismos de resistência a estresses bióticos e abióticos dentre outros, o que tem desencadeado o interesse de pesquisadores acerca de suas aplicações no campo agronômico.\nDisponível em: <https://iba.agr.$br/trichoderma$-genero-multifuncional-e-benefico-para-as-plantas-para-uma-agricultura-eco-sustentavel/>. [Adaptado]. Acesso em: 25 mar. 2025.\nA relação ecológica mencionada no texto é",
       subItens: []
     },
     options: [
@@ -1683,7 +1683,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia o texto a seguir.\nConsideremos a beringela. Originária da Índia, era aparentemente bem conhecida na Pérsia na época da conquista muçulmana, no século VII, e logo estava discutida em detalhes nos livros de receita e manuais de agricultura árabes. A planta foi levada então para o Egito, atravessou o Magreb e chegou a al-Andalus, região da Espanha atual. Melancia, espinafre, o trigo duro e muitos outros alimentos hoje comuns nas mesas de jantar ocidental seguiram padrões semelhantes. Ao longo do caminho, esses vegetais importados tinham de ser adaptados a novos climas e condições e sustentados por sistemas muitas vezes complexos de cultivo e irrigação.\nLYONS, J. A Casa da Sabedoria. Rio de Janeiro: Zahar, 2011, p. 184. [Adaptado].\nDe acordo com o texto, a expansão muçulmana, iniciada no século VII, favoreceu as mudanças nos hábitos alimentares e também",
+      principal: "Leia o texto a seguir.\nConsideremos a beringela. Originária da Índia, era aparentemente bem conhecida na Pérsia na época da conquista $\\mu$çulmana, no século VII, e logo estava discutida em detalhes nos livros de receita e manuais de agricultura árabes. A planta foi levada então para o Egito, atravessou o Magreb e chegou a al-Andalus, região da Espanha atual. Melancia, espinafre, o trigo duro e muitos outros alimentos hoje comuns nas mesas de jantar ocidental seguiram padrões semelhantes. Ao longo do caminho, esses vegetais importados tinham de ser adaptados a novos climas e condições e sustentados por sistemas muitas vezes complexos de cultivo e irrigação.\nLYONS, J. A Casa da Sabedoria. Rio de Janeiro: Zahar, 2011, p. 184. [Adaptado].\nDe acordo com o texto, a expansão $\\mu$çulmana, iniciada no século VII, favoreceu as mudanças nos hábitos alimentares e também",
       subItens: []
     },
     options: [
@@ -1977,7 +1977,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia o texto a seguir.\nEla dizia sempre:\n– A tática do desaparecimento político é a mais cruel de todas, pois a vítima permanece viva no dia a dia. Condena-se toda a família a uma tortura psicológica eterna. Fazemos cara de fortes, dizemos que a vida continua, mas não podemos deixar de conviver com esse sentimento de injustiça.\nPAIVA, M. R. Ainda estou aqui. Rio de Janeiro: Alfaguara/Objetiva, 2015, p.165. [Adaptado].\nNo contexto da ditadura militar brasileira, a fala atribuída a Eunice Paiva destaca o sofrimento das famílias de",
+      principal: "Leia o texto a seguir.\nEla dizia sempre:\n– A tática do desaparecimento político é a mais cruel de todas, pois a vítima permanece viva no dia a dia. Condena-se toda a família a uma tortura psicológica eterna. Fazemos cara de fortes, dizemos que a vida continua, mas não podemos deixar de conviver com esse sentimento de injustiça.\nPAIVA, M. R. Ainda estou aqui. Rio de Janeiro: $Alfaguara/Objetiva$, 2015, p.165. [Adaptado].\nNo contexto da ditadura militar brasileira, a fala atribuída a Eunice Paiva destaca o sofrimento das famílias de",
       subItens: []
     },
     options: [
@@ -1998,7 +1998,7 @@ createQuestion({
     university: "ufg",
     year: 2025,
     text: {
-      principal: "Leia o texto a seguir.\nNo sentido de incentivar a participação feminina, a Lei nº 13.165/2015 previu em seu artigo 9º que, nas três eleições seguintes, \"os partidos reservarão, no mínimo 5% (cinco por cento) e no máximo 15% (quinze por cento) do montante do Fundo Partidário destinado ao financiamento das campanhas eleitorais para aplicação nas campanhas de suas candidatas\".\nFRIEDRICH, D. et al. Ações afirmativas de gênero na esfera política: um breve resgate na história recente do Brasil. Revista Direitos Sociais e Políticas Públicas (UNIFAFIBE), v. 11, n.º 1, 2023, p. 215-238. [Adaptado].\nO objetivo da Lei é",
+      principal: "Leia o texto a seguir.\nNo sentido de incentivar a participação feminina, a Lei nº 13.$165/2015$ previu em seu artigo 9º que, nas três eleições seguintes, \"os partidos reservarão, no mínimo 5% (cinco por cento) e no máximo 15% (quinze por cento) do montante do Fundo Partidário destinado ao financiamento das campanhas eleitorais para aplicação nas campanhas de suas candidatas\".\nFRIEDRICH, D. et al. Ações afirmativas de gênero na esfera política: um breve resgate na história recente do Brasil. Revista Direitos Sociais e Políticas Públicas (UNIFAFIBE), v. 11, n.º 1, 2023, p. 215-238. [Adaptado].\nO objetivo da Lei é",
       subItens: []
     },
     options: [

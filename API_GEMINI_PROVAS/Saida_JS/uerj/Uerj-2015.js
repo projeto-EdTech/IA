@@ -163,7 +163,7 @@ createQuestion({
     university: "uerj",
     year: 2015,
     text: {
-      principal: "MEDO E VERGONHA\nO medo é um evento poderoso que toma o nosso corpo, nos põe em xeque, paralisa alguns e atiça a criatividade de outros. Uma pessoa em estado de pavor é dona de uma energia extra capaz de feitos incríveis.\nUm amigo nosso, quando era adolescente, aproveitou a viagem dos pais da namorada para ficar na casa dela. Os pais voltaram mais cedo e, pego em flagrante, nosso Romeu teve a brilhante ideia de pular, pelado, do segundo andar. Está vivo. Tem hoje essa incrível história pra contar, mas deve se lembrar muito bem da vergonha.\nMe lembrei dessa história por conta de outra completamente diferente, mas na qual também vi meu medo me deixar em maus lençóis.\nEstava caminhando pelo bairro quando resolvi explorar umas ruas mais desertas. De repente, vejo um menino encostado num muro. Parecia um menino de rua, tinha seus 15, 16 anos e, quando me viu, fixou o olhar e apertou o passo na minha direção. Não pestanejei. Saí correndo. Correndo mesmo, na mais alta performance de minhas pernas.\nNo meio da corrida, comecei a pensar se ele iria mesmo me assaltar. Uma onda de vergonha foi me invadindo. O rapaz estava me vendo correr. E se eu tivesse me enganado? E se ele não fosse fazer nada? Mesmo que fosse. Ter sido flagrada no meu medo e preconceito daquela forma já me deixava numa desvantagem fulminante.\nNão sou uma pessoa medrosa por excelência, mas, naquele dia, o olhar, o gesto, alguma coisa no rapaz acionou imediatamente o motor de minhas pernas e, quando me dei conta, já estava em disparada.\nFui chegando ofegante a uma esquina, os motoristas de um ponto de táxi me perguntaram o que tinha acontecido e eu, um tanto constrangida, disse que tinha ficado com medo. Me contaram que ele vivia por ali, tomando conta dos carros. Fervi de vergonha.\nO menino passou do outro lado da rua e, percebendo que eu olhava, imitou minha corridinha, fazendo um gesto de desprezo. Tive vontade de sentar na guia¹ e chorar. Ele só tinha me olhado, e o resto tinha sido produto legítimo do meu preconceito.\nFui atrás dele. Não consegui carregar tamanha bigorna² pra casa. “Ei!” Ele demorou a virar. Se eu pensava que ele assaltava, ele também não podia imaginar que eu pedisse desculpas. Insisti: \"Desculpa!” Ele virou. Seu olhar agora não era mais de ladrão, e sim de professor. Me perdoou com um sinal de positivo ainda cheio de desprezo. Fui pra casa pelada, igual ao Romeu suicida.\nDenise Fraga\nfolha.uol.com.br, 08/01/2013\n\n¹ guia - meio-fio da calçada\n² bigorna - bloco de ferro para confecção de instrumentos\n\nNo primeiro parágrafo, apresentam-se algumas características do medo, quase todas positivas, mas se omite uma de suas características negativas, tematizada no decorrer do texto. Esta característica negativa do medo é a de:",
+      principal: "MEDO E VERGONHA\nO medo é um evento poderoso que toma o nosso corpo, nos põe em xeque, paralisa alguns e atiça a criatividade de outros. Uma pessoa em estado de pavor é dona de uma energia extra capaz de feitos incríveis.\nUm amigo nosso, quando era adolescente, aproveitou a viagem dos pais da namorada para ficar na casa dela. Os pais voltaram mais cedo e, pego em flagrante, nosso Romeu teve a brilhante ideia de pular, pelado, do segundo andar. Está vivo. Tem hoje essa incrível história pra contar, mas deve se lembrar muito bem da vergonha.\nMe lembrei dessa história por conta de outra completamente diferente, mas na qual também vi meu medo me deixar em maus lençóis.\nEstava caminhando pelo bairro quando resolvi explorar umas ruas mais desertas. De repente, vejo um menino encostado num muro. Parecia um menino de rua, tinha seus 15, 16 anos e, quando me viu, fixou o olhar e apertou o passo na minha direção. Não pestanejei. Saí correndo. Correndo mesmo, na mais alta performance de minhas pernas.\nNo meio da corrida, comecei a pensar se ele iria mesmo me assaltar. Uma onda de vergonha foi me invadindo. O rapaz estava me vendo correr. E se eu tivesse me enganado? E se ele não fosse fazer nada? Mesmo que fosse. Ter sido flagrada no meu medo e preconceito daquela forma já me deixava numa desvantagem fulminante.\nNão sou uma pessoa medrosa por excelência, mas, naquele dia, o olhar, o gesto, alguma coisa no rapaz acionou imediatamente o motor de minhas pernas e, quando me dei conta, já estava em disparada.\nFui chegando ofegante a uma esquina, os motoristas de um ponto de tá$\\xi$ me perguntaram o que tinha acontecido e eu, um tanto constrangida, disse que tinha ficado com medo. Me contaram que ele vivia por ali, tomando conta dos carros. Fervi de vergonha.\nO menino passou do outro lado da rua e, percebendo que eu olhava, imitou minha corridinha, fazendo um gesto de desprezo. Tive vontade de sentar na guia¹ e chorar. Ele só tinha me olhado, e o resto tinha sido produto legítimo do meu preconceito.\nFui atrás dele. Não consegui carregar tamanha bigorna² pra casa. “Ei!” Ele demorou a virar. Se eu pensava que ele assaltava, ele também não podia imaginar que eu pedisse desculpas. Insisti: \"Desculpa!” Ele virou. Seu olhar agora não era mais de ladrão, e sim de professor. Me perdoou com um sinal de positivo ainda cheio de desprezo. Fui pra casa pelada, igual ao Romeu suicida.\nDenise Fraga\nfolha.uol.com.br, 08/01/2013\n\n¹ guia - meio-fio da calçada\n² bigorna - bloco de ferro para confecção de instrumentos\n\nNo primeiro parágrafo, apresentam-se algumas características do medo, quase todas positivas, mas se omite uma de suas características negativas, tematizada no decorrer do texto. Esta característica negativa do medo é a de:",
       subItens: []
     },
     options: [
@@ -643,7 +643,7 @@ createQuestion({
     university: "uerj",
     year: 2015,
     text: {
-      principal: "Na imagem da etiqueta, informa-se o valor a ser pago por 0,256 kg de peito de peru. O valor, em reais, de um quilograma desse produto é igual a:\n\n[Imagem de uma etiqueta de produto com os seguintes dados:\nPEITO PERU\nDEPTO.:\nPESO : 0,256 kg\nRS/KG: 12,80\nDATA: 22/01/14\nVALIDADE: 31/03/14\nTOTAL RS: 12,80\nCódigo de barras: 2 343000 072804]",
+      principal: "Na imagem da etiqueta, informa-se o valor a ser pago por 0,256 kg de peito de peru. O valor, em reais, de um quilograma desse produto é igual a:\n\n[Imagem de uma etiqueta de produto com os seguintes dados:\nPEITO PERU\nDEPTO.:\nPESO : 0,256 kg\n$RS/KG$: 12,80\nDATA: 22/01/14\nVALIDADE: 31/03/14\nTOTAL RS: 12,80\nCódigo de barras: 2 343000 072804]",
       subItens: []
     },
     options: [
@@ -663,14 +663,14 @@ createQuestion({
     university: "uerj",
     year: 2015,
     text: {
-      principal: "Um funil, com a forma de cone circular reto, é utilizado na passagem de óleo para um recipiente com a forma de cilindro circular reto. O funil e o recipiente possuem a mesma capacidade. De acordo com o esquema, os eixos dos recipientes estão contidos no segmento TQ, perpendicular ao plano horizontal β. Admita que o funil esteja completamente cheio do óleo a ser escoado para o recipiente cilíndrico vazio. Durante o escoamento, quando o nível do óleo estiver exatamente na metade da altura do funil, H/2, o nível do óleo no recipiente cilíndrico corresponderá ao ponto K na geratriz AB. A posição de K, nessa geratriz, é melhor representada por:\n\n[Diagrama de um funil em forma de cone sobre um recipiente em forma de cilindro. Ambos estão sobre um plano horizontal beta. O cone tem altura H. O cilindro tem geratriz AB. Um ponto T está no topo do cone, e Q na base do cilindro. Uma linha horizontal pontilhada indica H/2 no cone. As alternativas mostram a posição relativa de K na geratriz AB para cada caso.]",
+      principal: "Um funil, com a forma de cone circular reto, é utilizado na passagem de óleo para um recipiente com a forma de cilindro circular reto. O funil e o recipiente possuem a mesma capacidade. De acordo com o esquema, os eixos dos recipientes estão contidos no segmento TQ, perpendicular ao plano horizontal β. Admita que o funil esteja completamente cheio do óleo a ser escoado para o recipiente cilíndrico vazio. Durante o escoamento, quando o nível do óleo estiver exatamente na metade da altura do funil, $H/2$, o nível do óleo no recipiente cilíndrico corresponderá ao ponto K na geratriz AB. A posição de K, nessa geratriz, é melhor representada por:\n\n[Diagrama de um funil em forma de cone sobre um recipiente em forma de cilindro. Ambos estão sobre um plano horizontal $\\beta$. O cone tem altura H. O cilindro tem geratriz AB. Um ponto T está no topo do cone, e Q na base do cilindro. Uma linha horizontal pontilhada indica $H/2$ no cone. As alternativas mostram a posição relativa de K na geratriz AB para cada caso.]",
       subItens: []
     },
     options: [
-      "Gráfico que representa o ponto K localizado bem próximo da base A da geratriz AB, ocupando menos de 1/4 da altura do cilindro.",
+      "Gráfico que representa o ponto K localizado bem próximo da base A da geratriz AB, ocupando menos de $1/4$ da altura do cilindro.",
       "Gráfico que representa o ponto K localizado aproximadamente na metade da altura do cilindro, um pouco abaixo do centro.",
       "Gráfico que representa o ponto K localizado na metade superior do cilindro, um pouco acima do centro.",
-      "Gráfico que representa o ponto K localizado bem próximo do topo B da geratriz AB, ocupando mais de 3/4 da altura do cilindro."
+      "Gráfico que representa o ponto K localizado bem próximo do topo B da geratriz AB, ocupando mais de $3/4$ da altura do cilindro."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -747,10 +747,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5 / 2^16",
-      "25 / 2^14",
-      "125 / 2^13",
-      "625 / 2^12"
+      "5 / $2^16$",
+      "25 / $2^14$",
+      "125 / $2^13$",
+      "625 / $2^12$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -763,7 +763,7 @@ createQuestion({
     university: "uerj",
     year: 2015,
     text: {
-      principal: "Observe no gráfico a função logaritmo decimal definida por y = log(x).\n\n[Gráfico da função logarítmica y = log(x). O eixo x varia de 0 a 30 (com marcações de 10 em 10), e o eixo y varia de 0 a 1 (com marcações de 0.2 em 0.2). A curva logarítmica passa por (1,0), (10,1), etc.]\n\nAdmita que, no eixo x, 10 unidades correspondem a 1 cm e que, no eixo y, a ordenada log(1000) corresponde a 15 cm. A escala x:y na qual os eixos foram construídos equivale a:",
+      principal: "Observe no gráfico a função logaritmo decimal definida por y = $\\log$(x).\n\n[Gráfico da função logarítmica y = $\\log$(x). O eixo x varia de 0 a 30 (com marcações de 10 em 10), e o eixo y varia de 0 a 1 (com marcações de 0.2 em 0.2). A curva logarítmica passa por (1,0), (10,1), etc.]\n\nAdmita que, no eixo x, 10 unidades correspondem a 1 cm e que, no eixo y, a ordenada $\\log$(1000) corresponde a 15 cm. A escala x:y na qual os eixos foram construídos equivale a:",
       subItens: []
     },
     options: [
@@ -823,7 +823,7 @@ createQuestion({
     university: "uerj",
     year: 2015,
     text: {
-      principal: "Uma ave marinha costuma mergulhar de uma altura de 20 m para buscar alimento no mar. Suponha que um desses mergulhos tenha sido feito em sentido vertical, a partir do repouso e exclusivamente sob ação da força da gravidade. Desprezando-se as forças de atrito e de resistência do ar, a ave chegará à superfície do mar a uma velocidade, em m/s, aproximadamente igual a:",
+      principal: "Uma ave marinha costuma mergulhar de uma altura de 20 m para buscar alimento no mar. Suponha que um desses mergulhos tenha sido feito em sentido vertical, a partir do repouso e exclusivamente sob ação da força da gravidade. Desprezando-se as forças de atrito e de resistência do ar, a ave chegará à superfície do mar a uma velocidade, em $m/s$, aproximadamente igual a:",
       subItens: []
     },
     options: [
@@ -867,8 +867,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2",
-      "1/4",
+      "$1/2$",
+      "$1/4$",
       "1",
       "2"
     ],
@@ -1047,8 +1047,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4",
-      "1/2",
+      "$1/4$",
+      "$1/2$",
       "2",
       "4"
     ],
@@ -1103,7 +1103,7 @@ createQuestion({
     university: "uerj",
     year: 2015,
     text: {
-      principal: "A um grito de “Fora o vintém!”, os manifestantes começaram a espancar condutores, esfaquear mulas, virar bondes e arrancar trilhos ao longo da rua Uruguaiana. Dois pelotões do Exército ocuparam o Largo de São Francisco, postando-se parte da tropa em frente à Escola Politécnica, atual prédio do Instituto de Filosofia e Ciências Sociais da UFRJ. A multidão dispersou-se e, salvo pequenos distúrbios nos três dias seguintes, estava findo o motim do vintém. A cobrança da taxa passou a ser quase aleatória. As próprias companhias de bondes pediam ao governo que a revogasse. Desmobilizado, o ministério caiu a 28 de março. O novo ministério revogou o desastrado tributo. Adaptado de CARVALHO, José Murilo de. A Guerra do Vintém. Revista de História, setembro/2007. Ocorrida entre o final de 1879 e o início de 1880, a Revolta do Vintém representou a manifestação de segmentos populares descontentes com a decisão do governo de aumentar os preços das passagens dos bondes puxados a burro, que trafegavam na então capital do Império. Um dos principais efeitos dessa revolta naquele momento foi:",
+      principal: "A um grito de “Fora o vintém!”, os manifestantes começaram a espancar condutores, esfaquear mulas, virar bondes e arrancar trilhos ao longo da rua Uruguaiana. Dois pelotões do Exército ocuparam o Largo de São Francisco, postando-se parte da tropa em frente à Escola Politécnica, atual prédio do Instituto de Filosofia e Ciências Sociais da UFRJ. A multidão dispersou-se e, salvo pequenos distúrbios nos três dias seguintes, estava findo o motim do vintém. A cobrança da taxa passou a ser quase aleatória. As próprias companhias de bondes pediam ao governo que a revogasse. Desmobilizado, o ministério caiu a 28 de março. O novo ministério revogou o desastrado tributo. Adaptado de CARVALHO, José Murilo de. A Guerra do Vintém. Revista de História, $setembro/2007$. Ocorrida entre o final de 1879 e o início de 1880, a Revolta do Vintém representou a manifestação de segmentos populares descontentes com a decisão do governo de aumentar os preços das passagens dos bondes puxados a burro, que trafegavam na então capital do Império. Um dos principais efeitos dessa revolta naquele momento foi:",
       subItens: []
     },
     options: [
@@ -1303,7 +1303,7 @@ createQuestion({
     university: "uerj",
     year: 2015,
     text: {
-      principal: "O professor Alcino Salazar, secretário de Justiça da Guanabara, declarou a O Globo que a extensão do voto ao analfabeto é perigosa concessão aos inimigos do regime democrático, fundado na verdade e na pureza do princípio da representação. Adaptado de O Globo, 21/02/1964.\n\nEm sua mensagem ao Congresso Nacional em 15 de março de 1964, o presidente João Goulart escreveu: \"Outra discriminação inaceitável atinge milhões de cidadãos que, embora investidos de todas as responsabilidades (...) e integrados à força de trabalho, com seu contingente mais numeroso, são impedidos de votar por serem analfabetos\". ALEXI, J. C. B; KRAMER, Paulo. Os analfabetos e o voto: da conquista da cidadania ao direito de voto. Senado Federal. Senado, Brasília, outubro/2000. As declarações do professor Alcino Salazar e do presidente João Goulart foram feitas em um momento de polarização na sociedade brasileira, que culminou na instauração do regime autoritário em 31 de março de 1964. Ambas as declarações expressavam, naquele momento, visões antagônicas relacionadas à seguinte dimensão da cidadania:",
+      principal: "O professor Alcino Salazar, secretário de Justiça da Guanabara, declarou a O Globo que a extensão do voto ao analfabeto é perigosa concessão aos inimigos do regime democrático, fundado na verdade e na pureza do princípio da representação. Adaptado de O Globo, 21/02/1964.\n\nEm sua mensagem ao Congresso Nacional em 15 de março de 1964, o presidente João Goulart escreveu: \"Outra discriminação inaceitável atinge milhões de cidadãos que, embora investidos de todas as responsabilidades (...) e integrados à força de trabalho, com seu contingente mais numeroso, são impedidos de votar por serem analfabetos\". ALEXI, J. C. B; KRAMER, Paulo. Os analfabetos e o voto: da conquista da cidadania ao direito de voto. Senado Federal. Senado, Brasília, $outubro/2000$. As declarações do professor Alcino Salazar e do presidente João Goulart foram feitas em um momento de polarização na sociedade brasileira, que culminou na instauração do regime autoritário em 31 de março de 1964. Ambas as declarações expressavam, naquele momento, visões antagônicas relacionadas à seguinte dimensão da cidadania:",
       subItens: []
     },
     options: [

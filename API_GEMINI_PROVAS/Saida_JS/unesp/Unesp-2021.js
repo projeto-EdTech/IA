@@ -1347,7 +1347,7 @@ createQuestion({
     university: "unesp",
     year: 2021,
     text: {
-      principal: "O gráfico mostra o crescimento de uma população de microrganismos em relação à resistência do meio, ao potencial biótico e à carga biótica máxima do ambiente. Os dados obtidos experimentalmente foram suficientes para a determinação das equações das curvas no gráfico.\n[Gráfico de Número de indivíduos vs Tempo, com três curvas: y = 20 . 2^x, y = 320, y = 31 x + 10.]\nA população de microrganismos atingiu a carga biótica máxima do ambiente",
+      principal: "O gráfico mostra o crescimento de uma população de microrganismos em relação à resistência do meio, ao potencial biótico e à carga biótica máxima do ambiente. Os dados obtidos experimentalmente foram suficientes para a determinação das equações das curvas no gráfico.\n[Gráfico de Número de indivíduos vs Tempo, com três curvas: y = 20 . $2^x$, y = 320, y = 31 x + 10.]\nA população de microrganismos atingiu a carga biótica máxima do ambiente",
       subItens: []
     },
     options: [
@@ -1452,15 +1452,15 @@ createQuestion({
     university: "unesp",
     year: 2021,
     text: {
-      principal: "Analise as equações termoquímicas.\nC (s) + 3/2 O2 (g) + Ca (s) → CaCO3 (s) ; ∆H = −1 207 kJ/mol\nC (s) + O2 (g) → CO2 (g) ; ∆H = −394 kJ/mol\nCa (s) + 1/2 O2 (g) → CaO (s) ; ∆H = 634 kJ/mol\nA partir dessas equações, pode-se prever que o ∆H da reação de decomposição do calcário que produz cal viva (cal virgem) e dióxido de carbono seja igual a",
+      principal: "Analise as equações termoquímicas.\nC (s) + $3/2$ O2 (g) + Ca (s) → CaCO3 (s) ; ∆H = −1 207 $kJ/mol$\nC (s) + O2 (g) → CO2 (g) ; ∆H = −394 $kJ/mol$\nCa (s) + $1/2$ O2 (g) → CaO (s) ; ∆H = 634 $kJ/mol$\nA partir dessas equações, pode-se prever que o ∆H da reação de decomposição do calcário que produz cal viva (cal virgem) e dióxido de carbono seja igual a",
       subItens: []
     },
     options: [
-      "+573 kJ/mol.",
-      "+1601 kJ/mol.",
-      "-2235 kJ/mol.",
-      "-1028 kJ/mol.",
-      "+179 kJ/mol."
+      "+573 $kJ/mol$.",
+      "+1601 $kJ/mol$.",
+      "-2235 $kJ/mol$.",
+      "-1028 $kJ/mol$.",
+      "+179 $kJ/mol$."
     ],
     correctAnswer: 4,
     materia: ["Química"],
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "unesp",
     year: 2021,
     text: {
-      principal: "O álcool isopropílico (CH3CH(OH)CH3), entre outras aplicações, é empregado na limpeza de circuitos eletrônicos. Em um experimento, um estudante utilizou um frasco conta-gotas com álcool isopropílico a 20 °C e verificou que eram necessárias 65 gotas desse álcool para perfazer o volume de 2 mL. Sabendo que a densidade do álcool isopropílico nessa temperatura é aproximadamente 0,8 g/mL, a quantidade desse álcool, em mol de moléculas, presente em cada gota é próxima de",
+      principal: "O álcool isopropílico (CH3CH(OH)CH3), entre outras aplicações, é empregado na limpeza de circuitos eletrônicos. Em um experimento, um estudante utilizou um frasco conta-gotas com álcool isopropílico a 20 °C e verificou que eram necessárias 65 gotas desse álcool para perfazer o volume de 2 mL. Sabendo que a densidade do álcool isopropílico nessa temperatura é aproximadamente 0,8 $g/mL$, a quantidade desse álcool, em mol de moléculas, presente em cada gota é próxima de",
       subItens: []
     },
     options: [
@@ -1498,11 +1498,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "0,02 mol/L.",
-      "0,5 mol/L.",
-      "0,1 mol/L.",
-      "0,3 mol/L.",
-      "0,8 mol/L."
+      "0,02 $mol/L$.",
+      "0,5 $mol/L$.",
+      "0,1 $mol/L$.",
+      "0,3 $mol/L$.",
+      "0,8 $mol/L$."
     ],
     correctAnswer: 3,
     materia: ["Química"],
@@ -1582,11 +1582,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4,1 m/s.",
-      "6,0 m/s.",
-      "5,2 m/s.",
-      "4,8 m/s.",
-      "3,6 m/s."
+      "4,1 $m/s$.",
+      "6,0 $m/s$.",
+      "5,2 $m/s$.",
+      "4,8 $m/s$.",
+      "3,6 $m/s$."
     ],
     correctAnswer: 3,
     materia: ["Matemática", "Física"],
@@ -1599,7 +1599,7 @@ createQuestion({
     university: "unesp",
     year: 2021,
     text: {
-      principal: "Para simular o sistema respiratório humano, um aparato com duas bexigas representando os pulmões, uma membrana elástica representando o músculo diafragma e um tubo flexível em forma de “Y”, representando a traqueia e os brônquios, foi montado dentro de um recipiente plástico que representava a caixa torácica. Na figura 1, as bexigas estão vazias. Deslocando-se a membrana elástica para baixo, as bexigas se enchem, conforme a figura 2.\n[Duas imagens (FIGURA 1 e FIGURA 2) mostrando um modelo de sistema respiratório com bexigas (pulmões), tubo em Y (traqueia/brônquios) e membrana elástica (diafragma) dentro de um recipiente plástico (caixa torácica), simulando a inspiração.]\nEm uma analogia entre esse aparato e o sistema respiratório humano, o deslocamento da membrana elástica para baixo corresponde",
+      principal: "Para simular o sistema respiratório humano, um aparato com duas bexigas representando os pulmões, uma membrana elástica representando o músculo diafragma e um tubo flexível em forma de “Y”, representando a traqueia e os brônquios, foi montado dentro de um recipiente plástico que representava a caixa torácica. Na figura 1, as bexigas estão vazias. Deslocando-se a membrana elástica para baixo, as bexigas se enchem, conforme a figura 2.\n[Duas imagens (FIGURA 1 e FIGURA 2) mostrando um modelo de sistema respiratório com bexigas (pulmões), tubo em Y ($traqueia/br$ônquios) e membrana elástica (diafragma) dentro de um recipiente plástico (caixa torácica), simulando a inspiração.]\nEm uma analogia entre esse aparato e o sistema respiratório humano, o deslocamento da membrana elástica para baixo corresponde",
       subItens: []
     },
     options: [
@@ -1683,7 +1683,7 @@ createQuestion({
     university: "unesp",
     year: 2021,
     text: {
-      principal: "Desenvolvida em 1935 por Charles F. Richter, com a colaboração de Beno Gutenberg, a escala Richter permite determinar a magnitude (M) de um terremoto, fenômeno que libera uma grande quantidade de energia (E) que se propaga pela Terra em todas as direções. A magnitude e a energia de um terremoto podem ser relacionadas pela expressão a seguir, em que E é expressa em erg, uma unidade de medida de energia do sistema CGS.\nlogE = 11,8 + 1,5M\nA tabela apresenta os efeitos gerados por um terremoto, de acordo com sua magnitude na escala Richter:\n[Tabela: Magnitude e Efeitos de terremotos, ex: Entre 3,5 e 5,4 - Às vezes é sentido, mas raramente causa danos.]\nNo dia 6 de janeiro de 2020, o sul de Porto Rico foi atingido por um terremoto que liberou uma quantidade de energia E = 10^13.8 J. Considerando a tabela e que 1 erg = 10^-7J, esse terremoto",
+      principal: "Desenvolvida em 1935 por Charles F. Richter, com a colaboração de Beno Gutenberg, a escala Richter permite determinar a magnitude (M) de um terremoto, fenômeno que libera uma grande quantidade de energia (E) que se propaga pela Terra em todas as direções. A magnitude e a energia de um terremoto podem ser relacionadas pela expressão a seguir, em que E é expressa em erg, uma unidade de medida de energia do sistema CGS.\nlogE = 11,8 + 1,5M\nA tabela apresenta os efeitos gerados por um terremoto, de acordo com sua magnitude na escala Richter:\n[Tabela: Magnitude e Efeitos de terremotos, ex: Entre 3,5 e 5,4 - Às vezes é sentido, mas raramente causa danos.]\nNo dia 6 de janeiro de 2020, o sul de Porto Rico foi atingido por um terremoto que liberou uma quantidade de energia E = $10^13$.8 J. Considerando a tabela e que 1 erg = 10^-7J, esse terremoto",
       subItens: []
     },
     options: [
@@ -1746,7 +1746,7 @@ createQuestion({
     university: "unesp",
     year: 2021,
     text: {
-      principal: "A Força Aérea Brasileira (FAB) pretende realizar em breve o ensaio em voo do primeiro motor aeronáutico hipersônico feito no país. O teste integra um projeto mais amplo cujo objetivo é dominar o ciclo de desenvolvimento de veículos hipersônicos.\nAlém do motor hipersônico, o projeto, chamado de Propulsão Hipersônica 14-X, prevê a construção de um veículo aéreo não tripulado (VANT), onde esse motor será instalado. O quadro mostra um comparativo entre a velocidade atingida pelo VANT 14-X e por outros veículos aéreos.\n[Tabela comparativa de velocidades: VANT 14-X (12000 km/h, velocidade hipersônica), CONCORDE (2100 km/h, velocidade supersônica), AVIÃO COMERCIAL (980 km/h, velocidade subsônica). Informa também velocidade do som 340 m/s.]\nEsses veículos podem ter suas velocidades descritas pelo número de Mach (ou “velocidade Mach”), que é uma medida adimensional de velocidade. O número Mach indica a razão entre a velocidade de um corpo num meio fluido e a velocidade do som nesse meio. Assim, se um corpo chegou ao número de Mach 5 no ar, ele atingiu cinco vezes a velocidade do som no ar, ou seja, 1700 metros por segundo.\nNo caso do VANT 14-X, ele poderá atingir uma velocidade, que corresponderá, aproximadamente, ao número de",
+      principal: "A Força Aérea Brasileira (FAB) pretende realizar em breve o ensaio em voo do primeiro motor aeronáutico hipersônico feito no país. O teste integra um projeto mais amplo cujo objetivo é dominar o ciclo de desenvolvimento de veículos hipersônicos.\nAlém do motor hipersônico, o projeto, chamado de Propulsão Hipersônica 14-X, prevê a construção de um veículo aéreo não tripulado (VANT), onde esse motor será instalado. O quadro mostra um comparativo entre a velocidade atingida pelo VANT 14-X e por outros veículos aéreos.\n[Tabela comparativa de velocidades: VANT 14-X (12000 $km/h$, velocidade hipersônica), CONCORDE (2100 $km/h$, velocidade supersônica), AVIÃO COMERCIAL (980 $km/h$, velocidade subsônica). Informa também velocidade do som 340 $m/s$.]\nEsses veículos podem ter suas velocidades descritas pelo número de Mach (ou “velocidade Mach”), que é uma medida adimensional de velocidade. O número Mach indica a razão entre a velocidade de um corpo num meio fluido e a velocidade do som nesse meio. Assim, se um corpo chegou ao número de Mach 5 no ar, ele atingiu cinco vezes a velocidade do som no ar, ou seja, 1700 metros por segundo.\nNo caso do VANT 14-X, ele poderá atingir uma velocidade, que corresponderá, aproximadamente, ao número de",
       subItens: []
     },
     options: [
@@ -1767,7 +1767,7 @@ createQuestion({
     university: "unesp",
     year: 2021,
     text: {
-      principal: "Na aviação, o perímetro da região que define a fase final da manobra de aproximação para um helicóptero pairar ou pousar pode ser definido por meio de sinalizadores uniformemente espaçados. As características dimensionais desses sinalizadores de perímetro estão indicadas na figura a seguir.\n[Imagem de um diagrama que representa o sinalizador com dimensões: 0,25 m, 1,00 m, 3,00 m e um ângulo beta.]\nUma empresa contratada para produzir esse sinalizador está definindo os parâmetros para a produção em escala do artefato. Para tanto, é necessário conhecer o valor do ângulo ẞ de abertura do sinalizador, indicado na figura, respeitadas as medidas nela apresentadas.\nConsidere a tabela trigonométrica a seguir.\n[Tabela trigonométrica com ângulos e valores de seno, cosseno, tangente.]\nDe acordo com a tabela, o ângulo ẞ necessário para a produção do sinalizador é igual a:",
+      principal: "Na aviação, o perímetro da região que define a fase final da manobra de aproximação para um helicóptero pairar ou pousar pode ser definido por meio de sinalizadores uniformemente espaçados. As características dimensionais desses sinalizadores de perímetro estão indicadas na figura a seguir.\n[Imagem de um diagrama que representa o sinalizador com dimensões: 0,25 m, 1,00 m, 3,00 m e um ângulo $\\beta$.]\nUma empresa contratada para produzir esse sinalizador está definindo os parâmetros para a produção em escala do artefato. Para tanto, é necessário conhecer o valor do ângulo ẞ de abertura do sinalizador, indicado na figura, respeitadas as medidas nela apresentadas.\nConsidere a tabela trigonométrica a seguir.\n[Tabela trigonométrica com ângulos e valores de seno, cosseno, tangente.]\nDe acordo com a tabela, o ângulo ẞ necessário para a produção do sinalizador é igual a:",
       subItens: []
     },
     options: [
@@ -1851,7 +1851,7 @@ createQuestion({
     university: "unesp",
     year: 2021,
     text: {
-      principal: "Existem diferentes tipos de plásticos e diversas finalidades de uso para cada um deles, sendo alguns tipos mais descartados do que outros. O esquema mostra a distribuição do plástico descartado por tipo e a facilidade em reciclá-lo.\n[Diagrama de pizza/barras representando a porcentagem de diferentes tipos de plástico descartados (PP, HDPE, LDPE, PET, PVC, PUR, Outros, PS) e categorizados por facilidade de reciclagem (Fácil, Médio, Difícil, Muito difícil).]\nConsiderando apenas os cinco tipos mais descartados, temos que os plásticos de fácil ou média dificuldade de reciclagem correspondem a um valor",
+      principal: "Existem diferentes tipos de plásticos e diversas finalidades de uso para cada um deles, sendo alguns tipos mais descartados do que outros. O esquema mostra a distribuição do plástico descartado por tipo e a facilidade em reciclá-lo.\n[Diagrama de $\\pizza/barras$ representando a porcentagem de diferentes tipos de plástico descartados (PP, HDPE, LDPE, PET, PVC, PUR, Outros, PS) e categorizados por facilidade de reciclagem (Fácil, Médio, Difícil, Muito difícil).]\nConsiderando apenas os cinco tipos mais descartados, temos que os plásticos de fácil ou média dificuldade de reciclagem correspondem a um valor",
       subItens: []
     },
     options: [
@@ -1872,7 +1872,7 @@ createQuestion({
     university: "unesp",
     year: 2021,
     text: {
-      principal: "Um estudo para determinar a probabilidade da efetividade de um novo exame para obtenção do diagnóstico de uma doença baseou-se nos resultados obtidos em um grupo constituído de 1620 pessoas. A tabela mostra os resultados desse estudo.\n[Tabela de contingência com Resultado do Exame (Positivo/Negativo) e Possui a doença? (SIM/NÃO).]\nA análise dos resultados mostra que, apesar de a probabilidade de o teste detectar a doença em quem a possui ser de _______, a probabilidade de uma pessoa desse grupo que obtém um resultado positivo não ter a doença, ou seja, um falso positivo, é de _______, indicando que esse novo exame precisa ser aprimorado. Os percentuais que completam, respectivamente, a frase são:",
+      principal: "Um estudo para determinar a probabilidade da efetividade de um novo exame para obtenção do diagnóstico de uma doença baseou-se nos resultados obtidos em um grupo constituído de 1620 pessoas. A tabela mostra os resultados desse estudo.\n[Tabela de contingência com Resultado do Exame ($Positivo/Negativo$) e Possui a doença? ($SIM/N$ÃO).]\nA análise dos resultados mostra que, apesar de a probabilidade de o teste detectar a doença em quem a possui ser de _______, a probabilidade de uma pessoa desse grupo que obtém um resultado positivo não ter a doença, ou seja, um falso positivo, é de _______, indicando que esse novo exame precisa ser aprimorado. Os percentuais que completam, respectivamente, a frase são:",
       subItens: []
     },
     options: [

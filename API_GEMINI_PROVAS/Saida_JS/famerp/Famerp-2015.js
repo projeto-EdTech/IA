@@ -45,7 +45,7 @@ createQuestion({
     university: "famerp",
     year: 2015,
     text: {
-      principal: "Em um estudo controlado de uma nova medicação contra dor, pesquisadores acompanharam um grupo de pessoas submetidas à administração desse medicamento durante alguns dias. A cada novo dia de tratamento, as pessoas tinham que atribuir um número inteiro, de 1 a 10, para o nível de dor que sentiam (1 significando “dor desprezível” e 10 significando \"dor insuportável”). A tabela indica a média dos resultados da pesquisa nos primeiros dias, já sugerindo uma modelagem matemática para o estudo.\ndia de tratamento\nnível médio de dor do grupo\n1.º\n1/80 . 1² – 1/2 . 1 + 9 = 8,5125\n2.º\n1/80 . 2² – 1/2 . 2 + 9 = 8,0500\n3.º\n1/80 . 3² – 1/2 . 3 + 9 = 7,6125\n4.º\n1/80 . 4² – 1/2 . 4 + 9 = 7,2000\n:\n:\nSupondo que nenhum outro fator intervenha no estudo e utilizando a modelagem matemática sugerida, o menor nível médio de dor do grupo foi dado no",
+      principal: "Em um estudo controlado de uma nova medicação contra dor, pesquisadores acompanharam um grupo de pessoas submetidas à administração desse medicamento durante alguns dias. A cada novo dia de tratamento, as pessoas tinham que atribuir um número inteiro, de 1 a 10, para o nível de dor que sentiam (1 significando “dor desprezível” e 10 significando \"dor insuportável”). A tabela indica a média dos resultados da pesquisa nos primeiros dias, já sugerindo uma modelagem matemática para o estudo.\ndia de tratamento\nnível médio de dor do grupo\n1.º\n$1/80$ . 1² – $1/2$ . 1 + 9 = 8,5125\n2.º\n$1/80$ . 2² – $1/2$ . 2 + 9 = 8,0500\n3.º\n$1/80$ . 3² – $1/2$ . 3 + 9 = 7,6125\n4.º\n$1/80$ . 4² – $1/2$ . 4 + 9 = 7,2000\n:\n:\nSupondo que nenhum outro fator intervenha no estudo e utilizando a modelagem matemática sugerida, o menor nível médio de dor do grupo foi dado no",
       subItens: []
     },
     options: [
@@ -70,11 +70,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "√3/18",
-      "√3/4",
-      "√3/3",
-      "√3/2",
-      "√3/6"
+      "√$3/18$",
+      "√$3/4$",
+      "√$3/3$",
+      "√$3/2$",
+      "√$3/6$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -133,11 +133,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2/3",
-      "2/9",
-      "1/3",
-      "5/6",
-      "1/2"
+      "$2/3$",
+      "$2/9$",
+      "$1/3$",
+      "$5/6$",
+      "$1/2$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -486,7 +486,7 @@ createQuestion({
     university: "famerp",
     year: 2015,
     text: {
-      principal: "Nos últimos vinte anos e de maneira cada vez mais sistemática, a logística vem sendo discutida e disseminada no Brasil, a exemplo do que já vinha ocorrendo em outros países [...]. É nítida a associação entre a logística e a globalização, assim como também é evidente a adoção de sua prática pelas grandes empresas, preocupadas com uma melhor integração funcional das cadeias produtivas. (Vanderlei Braga e Ricardo Castillo. \"Tipologia e topologia de nós logísticos no território brasileiro\". Boletim Campineiro de Geografia, 2013.) A partir do atual paradigma produtivo, intensivo em normas, técnicas e informações operacionalizadas pela logística, é correto afirmar que são atributos pertinentes à cadeia produtiva",
+      principal: "Nos últimos vinte anos e de maneira cada vez mais sistemática, a $\\log$ística vem sendo discutida e disseminada no Brasil, a exemplo do que já vinha ocorrendo em outros países [...]. É nítida a associação entre a $\\log$ística e a globalização, assim como também é evidente a adoção de sua prática pelas grandes empresas, preocupadas com uma melhor integração funcional das cadeias produtivas. (Vanderlei Braga e Ricardo Castillo. \"Tipologia e topologia de nós $\\log$ísticos no território brasileiro\". Boletim Campineiro de Geografia, 2013.) A partir do atual paradigma produtivo, intensivo em normas, técnicas e informações operacionalizadas pela $\\log$ística, é correto afirmar que são atributos pertinentes à cadeia produtiva",
       subItens: []
     },
     options: [
@@ -654,7 +654,7 @@ createQuestion({
     university: "famerp",
     year: 2015,
     text: {
-      principal: "Um candidato sai de sua residência para prestar vestibular pretendendo percorrer a distância total até o local da prova em uma hora, conduzindo seu automóvel com velocidade média de 60 km/h. Após percorrer os primeiros 10 km do percurso em 10 minutos, percebe que esqueceu o documento de identificação e retorna para apanhá-lo. Sua mãe o espera no portão com o documento. Desprezando-se o tempo para receber o documento e manobrar o carro, para que esse candidato consiga chegar ao local da prova no horário previsto anteriormente, ele deverá desenvolver no percurso de retorno à sua casa e ida até o local da prova uma velocidade média, em km/h, igual a",
+      principal: "Um candidato sai de sua residência para prestar vestibular pretendendo percorrer a distância total até o local da prova em uma hora, conduzindo seu automóvel com velocidade média de 60 $km/h$. Após percorrer os primeiros 10 km do percurso em 10 minutos, percebe que esqueceu o documento de identificação e retorna para apanhá-lo. Sua mãe o espera no portão com o documento. Desprezando-se o tempo para receber o documento e manobrar o carro, para que esse candidato consiga chegar ao local da prova no horário previsto anteriormente, ele deverá desenvolver no percurso de retorno à sua casa e ida até o local da prova uma velocidade média, em $km/h$, igual a",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "famerp",
     year: 2015,
     text: {
-      principal: "Uma bola de tênis, de massa 60 g, se chocou com uma parede vertical. O gráfico representa a força, em função do tempo, exercida pela parede sobre a bola, no qual FM é o valor médio da força no intervalo de tempo entre 0 s e 0,02 s.\nSabendo que a velocidade da bola, imediatamente antes da colisão, era perpendicular à superfície da parede com valor 20 m/s e que, após a colisão, continua perpendicular à parede, é correto afirmar que a velocidade da bola, em m/s, imediatamente após a colisão foi",
+      principal: "Uma bola de tênis, de massa 60 g, se chocou com uma parede vertical. O gráfico representa a força, em função do tempo, exercida pela parede sobre a bola, no qual FM é o valor médio da força no intervalo de tempo entre 0 s e 0,02 s.\nSabendo que a velocidade da bola, imediatamente antes da colisão, era perpendicular à superfície da parede com valor 20 $m/s$ e que, após a colisão, continua perpendicular à parede, é correto afirmar que a velocidade da bola, em $m/s$, imediatamente após a colisão foi",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "famerp",
     year: 2015,
     text: {
-      principal: "Atualmente, a Lua afasta-se da Terra a uma razão média aproximada de 4 cm/ano. Considerando as Leis de Kepler, é correto concluir que o período de",
+      principal: "Atualmente, a Lua afasta-se da Terra a uma razão média aproximada de 4 $cm/ano$. Considerando as Leis de Kepler, é correto concluir que o período de",
       subItens: []
     },
     options: [
@@ -744,9 +744,9 @@ createQuestion({
     options: [
       "(R − r) · ΔR",
       "(R + r) · ΔR",
-      "r/R · ΔR",
+      "$r/R$ · ΔR",
       "ΔR",
-      "R/r · ΔR"
+      "$R/r$ · ΔR"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -801,7 +801,7 @@ createQuestion({
     university: "famerp",
     year: 2015,
     text: {
-      principal: "A figura mostra esquematicamente um tubo de raios catódicos, no qual os elétrons são emitidos pelo cátodo e lançados no sentido da tela pelos eletrodos aceleradores.\n(Bruce H. Mahan. Química: um curso universitário. Adaptado.)\nSuponha que um elétron, cuja massa e módulo da carga elétrica valem, respectivamente, 9,1 x 10⁻³¹ kg e 1,6 x 10⁻¹⁹ C, penetre entre os eletrodos aceleradores com velocidade desprezível e saia com velocidade de 4,0 x 10⁷ m/s. Nessa situação, é correto afirmar que a diferença de potencial, em volts, entre os eletrodos aceleradores é, em valor absoluto, próxima de",
+      principal: "A figura mostra esquematicamente um tubo de raios catódicos, no qual os elétrons são emitidos pelo cátodo e lançados no sentido da tela pelos eletrodos aceleradores.\n(Bruce H. Mahan. Química: um curso universitário. Adaptado.)\nSuponha que um elétron, cuja massa e módulo da carga elétrica valem, respectivamente, 9,1 x 10⁻³¹ kg e 1,6 x 10⁻¹⁹ C, penetre entre os eletrodos aceleradores com velocidade desprezível e saia com velocidade de 4,0 x 10⁷ $m/s$. Nessa situação, é correto afirmar que a diferença de potencial, em volts, entre os eletrodos aceleradores é, em valor absoluto, próxima de",
       subItens: []
     },
     options: [
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "famerp",
     year: 2015,
     text: {
-      principal: "O problema de escassez de água em São Paulo é um tema polêmico em discussão que envolve governo e especialistas. O \"volume morto\", que passou a ser utilizado em maio de 2014, é um reservatório com 400 milhões de metros cúbicos de água situado abaixo das comportas das represas do Sistema Cantareira.\n(http://g1.globo.com)\nConsidere um reservatório hipotético com água de densidade 1 g/mL e volume igual ao do \"volume morto\" do Sistema Cantareira. Se a água desse reservatório encontra-se contaminada com 20 ppm de chumbo, a massa total deste metal na água do reservatório hipotético é",
+      principal: "O problema de escassez de água em São Paulo é um tema polêmico em discussão que envolve governo e especialistas. O \"volume morto\", que passou a ser utilizado em maio de 2014, é um reservatório com 400 milhões de metros cúbicos de água situado abaixo das comportas das represas do Sistema Cantareira.\n(http://g1.globo.com)\nConsidere um reservatório hipotético com água de densidade 1 $g/mL$ e volume igual ao do \"volume morto\" do Sistema Cantareira. Se a água desse reservatório encontra-se contaminada com 20 ppm de chumbo, a massa total deste metal na água do reservatório hipotético é",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "famerp",
     year: 2015,
     text: {
-      principal: "Considere a tabela para responder às questões de números 54 e 55.\nUma solução saturada de carbonato de cálcio tem concentração de íons cálcio, em mol/L, próximo a",
+      principal: "Considere a tabela para responder às questões de números 54 e 55.\nUma solução saturada de carbonato de cálcio tem concentração de íons cálcio, em $mol/L$, próximo a",
       subItens: []
     },
     options: [
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "famerp",
     year: 2015,
     text: {
-      principal: "Para realização de certa atividade experimental, os alunos de uma turma foram organizados em cinco grupos. Cada grupo recebeu uma amostra de um metal que deveria ser identificado e, por isso, os grupos deveriam calcular sua densidade a partir dos valores de massa, determinados em uma balança, e de volume, determinados por meio do deslocamento do volume de água contida em uma proveta. As cinco amostras recebidas pelos grupos apresentavam-se com as superfícies polidas e suas características são indicadas na tabela.\namostra\ncoloração\ndensidade (g/cm³)\nalumínio\nprateada\n2,7\ncobre\navermelhada\n8,9\nchumbo\nprateada\n11,3\nferro\nprateada\n7,9\nzinco\nprateada\n7,1\nApós constatar que os grupos identificaram corretamente os metais, o professor fez as seguintes observações:\n• O metal do grupo 1 tinha coloração avermelhada.\n• O metal do grupo 2 tinha menor densidade dentre os metais do experimento.\n• O metal do grupo 3 tinha massa = 39,5 g e a proveta utilizada por esse grupo tinha volume de 25 mL com água e de 30 mL com água mais amostra.\n• O metal do grupo 4 tinha maior densidade que o do grupo 5.\nA amostra recebida pelo grupo 5 foi a do metal",
+      principal: "Para realização de certa atividade experimental, os alunos de uma turma foram organizados em cinco grupos. Cada grupo recebeu uma amostra de um metal que deveria ser identificado e, por isso, os grupos deveriam calcular sua densidade a partir dos valores de massa, determinados em uma balança, e de volume, determinados por meio do deslocamento do volume de água contida em uma proveta. As cinco amostras recebidas pelos grupos apresentavam-se com as superfícies polidas e suas características são indicadas na tabela.\namostra\ncoloração\ndensidade ($g/cm$³)\nalumínio\nprateada\n2,7\ncobre\navermelhada\n8,9\nchumbo\nprateada\n11,3\nferro\nprateada\n7,9\nzinco\nprateada\n7,1\nApós constatar que os grupos identificaram corretamente os metais, o professor fez as seguintes observações:\n• O metal do grupo 1 tinha coloração avermelhada.\n• O metal do grupo 2 tinha menor densidade dentre os metais do experimento.\n• O metal do grupo 3 tinha massa = 39,5 g e a proveta utilizada por esse grupo tinha volume de 25 mL com água e de 30 mL com água mais amostra.\n• O metal do grupo 4 tinha maior densidade que o do grupo 5.\nA amostra recebida pelo grupo 5 foi a do metal",
       subItens: []
     },
     options: [
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "famerp",
     year: 2015,
     text: {
-      principal: "O que tem futebol a ver com química? Tudo, se o assunto for a bola. Com 12 pentágonos e 20 hexágonos, ela tem a mesma estrutura de uma forma elementar do carbono, chamada de fulereno, cuja descoberta valeu o Nobel de Química de 1996. Na natureza, a molécula é encontrada no espaço interestelar e, em pequenas concentrações, na fumaça do cigarro. Em laboratório, pode ser obtida pela irradiação de uma superfície de grafite com laser. Um fulereno, representado quimicamente como C₆₀, tem 60 átomos de carbono, assim como a bola tem 60 vértices. (www.jornaldaciencia.org.br. Adaptado.) No texto são citados dois _______________ do elemento carbono. No C₆₀, cada átomo de carbono faz _______________ ligações sigma. As lacunas do texto são preenchidas, correta e respectivamente, por",
+      principal: "O que tem futebol a ver com química? Tudo, se o assunto for a bola. Com 12 pentágonos e 20 hexágonos, ela tem a mesma estrutura de uma forma elementar do carbono, chamada de fulereno, cuja descoberta valeu o Nobel de Química de 1996. Na natureza, a molécula é encontrada no espaço interestelar e, em pequenas concentrações, na fumaça do cigarro. Em laboratório, pode ser obtida pela irradiação de uma superfície de grafite com laser. Um fulereno, representado quimicamente como C₆₀, tem 60 átomos de carbono, assim como a bola tem 60 vértices. (www.jornaldaciencia.org.br. Adaptado.) No texto são citados dois _______________ do elemento carbono. No C₆₀, cada átomo de carbono faz _______________ ligações $\\sigma$. As lacunas do texto são preenchidas, correta e respectivamente, por",
       subItens: []
     },
     options: [
@@ -1604,7 +1604,7 @@ createQuestion({
     },
     options: [
       "reducing it to 5%.",
-      "obesity/type-2 diabetes.",
+      "$obesity/type$-2 diabetes.",
       "free sugars intake.",
       "risk of all those things.",
       "sugar-sweetened beverages."

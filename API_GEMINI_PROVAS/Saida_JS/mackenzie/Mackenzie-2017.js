@@ -196,10 +196,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Dona fea, nunca vos eu loei/en meu trobar, pero muito trobei;/mais ora já un bon cantar farei,/en que vos loarei toda via;/e direi-vos como vos loarei:/ dona fea, velha e sandia! (Joan Garcia de Guilhade)",
-      "Quer'eu en maneira provençal/fazer agora un cantar d'amor/e querrei muit’i loar mia senhor, a que prez nem fremusura non fal,/nem bondade, e mais vos direi en: tanto fez Deus comprida de ben/que mais que todas las do mundo val. (D. Dinis)",
+      "Dona fea, nunca vos eu $loei/en$ meu trobar, pero muito trobei;/mais ora já un bon cantar farei,/en que vos loarei toda via;/e direi-vos como vos loarei:/ dona fea, velha e sandia! (Joan Garcia de Guilhade)",
+      "Quer'eu en maneira provenç$al/fazer$ agora un cantar d'$amor/e$ querrei muit’i loar mia senhor, a que prez nem fremusura non fal,/nem bondade, e mais vos direi en: tanto fez Deus comprida de $ben/que$ mais que todas las do mundo val. (D. Dinis)",
       "A melhor dona que eu nunca vi,/per bõa fé, nem que oí dizer,/ e a que Deus fez melhor parecer,/mia senhor est, e senhor das que vi,/ de mui bom preço e de mui bom sem,/per bõa fé, e de tod'outro bem, de quant'eu nunca doutra dona oí. (Fernão Garcia Esgaravunha)",
-      "Quantos ham gram coita d'amor/eno mundo, qual hoj'eu hei,/ querriam morrer, eu o sei,/e haveriam en sabor;/mais, mentr’eu vos vir, mia senhor,/ sempre m'eu querria viver/ e atender e atender. (João Garcia de Guilhade)",
+      "Quantos ham gram coita d'$amor/eno$ mundo, qual hoj'eu hei,/ querriam morrer, eu o sei,/e haveriam en sabor;/mais, mentr’eu vos vir, mia senhor,/ sempre m'eu querria viver/ e atender e atender. (João Garcia de Guilhade)",
       "Que coita tamanha ei a sofrer,/por amar amigu'e non o ver!/E pousarei sô lo avelanal. (Nuno Fernandes Torneol)"
     ],
     correctAnswer: 4,
@@ -276,7 +276,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "INGLÊS\nThe following text refers to questions 14 and 15.\nBritish astronaut Tim Peake pays tribute to David Bowie\nfrom the International Space Station\n11TH JANUARY 2016\nLUKE MORGAN BRITTON\nBritish astronaut Tim Peake\nhas tweeted his tribute to the\nlate David Bowie all the way from\nthe International Space Station.\nPeake, who has been in space\nsince December, wrote on the\nsocial network following the\nnews: \"Saddened to hear David\nBowie has lost his battle with cancer - his music was an inspiration to many\".\nTwitter: \"Saddened to hear David Bowie has lost his battle with cancer — his music was an inspiration to many.\"@DavidBowieReal\nTim Peake (@astro_timpeake) January 11, 2016\nTwitter: “Ashes to ashes, dust to stardust. Your brilliance inspired us all.\nGoodbye Starman.” pic.twitter.com/FbcxlAzces\nChris Hadfield (@Cmdr_Hadfield) January 11, 2016\nRead more at http://www.nme.com/news/david-bowie/90712#8WCKK1hRpyluXsxF.99\n\nQuestão nº 14\nAccording to the text above,",
+      principal: "INGLÊS\nThe following text refers to questions 14 and 15.\nBritish astronaut Tim Peake pays tribute to David Bowie\nfrom the International Space Station\n11TH JANUARY 2016\nLUKE MORGAN BRITTON\nBritish astronaut Tim Peake\nhas tweeted his tribute to the\nlate David Bowie all the way from\nthe International Space Station.\nPeake, who has been in space\nsince December, wrote on the\nsocial network following the\nnews: \"Saddened to hear David\nBowie has lost his battle with cancer - his music was an inspiration to many\".\nTwitter: \"Saddened to hear David Bowie has lost his battle with cancer — his music was an inspiration to many.\"@DavidBowieReal\nTim Peake (@$astro_timpeake$) January 11, 2016\nTwitter: “Ashes to ashes, dust to stardust. Your brilliance inspired us all.\nGoodbye Starman.” pic.twitter.$com/FbcxlAzces$\nChris Hadfield (@$Cmdr_Hadfield$) January 11, 2016\nRead more at http://www.nme.com/news/david-$bowie/90712$#8WCKK1hRpyluXsxF.99\n\nQuestão nº 14\nAccording to the text above,",
       subItens: []
     },
     options: [
@@ -297,7 +297,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "INGLÊS\nThe following text refers to questions 14 and 15.\nBritish astronaut Tim Peake pays tribute to David Bowie\nfrom the International Space Station\n11TH JANUARY 2016\nLUKE MORGAN BRITTON\nBritish astronaut Tim Peake\nhas tweeted his tribute to the\nlate David Bowie all the way from\nthe International Space Station.\nPeake, who has been in space\nsince December, wrote on the\nsocial network following the\nnews: \"Saddened to hear David\nBowie has lost his battle with cancer - his music was an inspiration to many\".\nTwitter: \"Saddened to hear David Bowie has lost his battle with cancer — his music was an inspiration to many.\"@DavidBowieReal\nTim Peake (@astro_timpeake) January 11, 2016\nTwitter: “Ashes to ashes, dust to stardust. Your brilliance inspired us all.\nGoodbye Starman.” pic.twitter.com/FbcxlAzces\nChris Hadfield (@Cmdr_Hadfield) January 11, 2016\nRead more at http://www.nme.com/news/david-bowie/90712#8WCKK1hRpyluXsxF.99\n\nQuestão nº 15\nThe word poignant in the text is closest in meaning to",
+      principal: "INGLÊS\nThe following text refers to questions 14 and 15.\nBritish astronaut Tim Peake pays tribute to David Bowie\nfrom the International Space Station\n11TH JANUARY 2016\nLUKE MORGAN BRITTON\nBritish astronaut Tim Peake\nhas tweeted his tribute to the\nlate David Bowie all the way from\nthe International Space Station.\nPeake, who has been in space\nsince December, wrote on the\nsocial network following the\nnews: \"Saddened to hear David\nBowie has lost his battle with cancer - his music was an inspiration to many\".\nTwitter: \"Saddened to hear David Bowie has lost his battle with cancer — his music was an inspiration to many.\"@DavidBowieReal\nTim Peake (@$astro_timpeake$) January 11, 2016\nTwitter: “Ashes to ashes, dust to stardust. Your brilliance inspired us all.\nGoodbye Starman.” pic.twitter.$com/FbcxlAzces$\nChris Hadfield (@$Cmdr_Hadfield$) January 11, 2016\nRead more at http://www.nme.com/news/david-$bowie/90712$#8WCKK1hRpyluXsxF.99\n\nQuestão nº 15\nThe word poignant in the text is closest in meaning to",
       subItens: []
     },
     options: [
@@ -402,15 +402,15 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "MATEMÁTICA\nQuestão nº 20\nConsiderando m e n raízes da equação\n|2^x  8^x  0|\n|log₂ x  log₂ x²  0| = 0, onde x > 0,\n|1  2  3|\nentão m + n é igual a",
+      principal: "MATEMÁTICA\nQuestão nº 20\nConsiderando m e n raízes da equação\n|$2^x$  $8^x$  0|\n|$\\log$₂ x  $\\log$₂ x²  0| = 0, onde x > 0,\n|1  2  3|\nentão m + n é igual a",
       subItens: []
     },
     options: [
-      "2/3",
-      "3/4",
-      "3/2",
-      "4/3",
-      "4/5"
+      "$2/3$",
+      "$3/4$",
+      "$3/2$",
+      "$4/3$",
+      "$4/5$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -448,10 +448,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "3/2",
-      "-3/2",
-      "25/9",
-      "-25/9",
+      "$3/2$",
+      "-$3/2$",
+      "$25/9$",
+      "-$25/9$",
       "-1"
     ],
     correctAnswer: 0,
@@ -465,7 +465,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "MATEMÁTICA\nQuestão nº 23\nO número de soluções que a equação 4cos²x - cos 2x + cos x = 2 admite no intervalo [0, 2π] é",
+      principal: "MATEMÁTICA\nQuestão nº 23\nO número de soluções que a equação 4cos²x - $\\cos$ 2x + $\\cos$ x = 2 admite no intervalo [0, 2π] é",
       subItens: []
     },
     options: [
@@ -490,11 +490,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "{ x ∈ R | 0 ≤ x ≤ 1/2 v x ≥ 2 }",
-      "{ x ∈ R | 0 ≤ x < 1/2 v x > 2 }",
-      "{ x ∈ R | 0 < x < 1/2 v x > 2 }",
-      "{ x ∈ R | x < 1/2 v x > 2 }",
-      "{ x ∈ R | x ≤ 1/2 v x ≥ 2 }"
+      "{ x ∈ R | 0 ≤ x ≤ $1/2$ v x ≥ 2 }",
+      "{ x ∈ R | 0 ≤ x < $1/2$ v x > 2 }",
+      "{ x ∈ R | 0 < x < $1/2$ v x > 2 }",
+      "{ x ∈ R | x < $1/2$ v x > 2 }",
+      "{ x ∈ R | x ≤ $1/2$ v x ≥ 2 }"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -612,7 +612,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "GEOGRAFIA\nQuestão nº 30\nObserve o mapa.\nBacias Hidrográficas Brasileiras\nImagem: Mapa das Bacias Hidrográficas Brasileiras, com regiões numeradas de 1 a 12. Há uma legenda de escala em km.\nA respeito das Bacias Hidrográficas representadas no mapa, considere as afirmações.\nI. O número 2 representa no mapa a Bacia do Tocantins/Araguaia. Seu potencial energético é parcialmente explorado. Destaque para a usina hidrelétrica de Tucuruí, importante obra de infraestrutura para o desenvolvimento do Projeto Carajás.\nII. O número 3 representa no mapa a Bacia do Parnaíba. Apresenta-se como fundamental para a região. A escassez de água tem sido historicamente apontada como um dos principais motivos para o baixo índice de desenvolvimento econômico e social da região.\nIII. O número 6 representa no mapa a Bacia do São Francisco. A agricultura é uma das mais importantes atividades econômicas, mas a região possui fortes contrastes socioeconômicos, com áreas de acentuada riqueza e alta densidade demográfica e áreas de pobreza crítica e população bastante dispersa.\nIV. O número 7 representa no mapa a Bacia do Atlântico Nordeste Oriental. Apresenta-se como fundamental para a região em relação à ocupação urbana ao contemplar cinco importantes capitais do Nordeste, regiões metropolitanas, dezenas de grandes núcleos urbanos e um parque industrial significativo.\nEstão corretas, apenas,",
+      principal: "GEOGRAFIA\nQuestão nº 30\nObserve o mapa.\nBacias Hidrográficas Brasileiras\nImagem: Mapa das Bacias Hidrográficas Brasileiras, com regiões numeradas de 1 a 12. Há uma legenda de escala em km.\nA respeito das Bacias Hidrográficas representadas no mapa, considere as afirmações.\nI. O número 2 representa no mapa a Bacia do $Tocantins/Araguaia$. Seu potencial energético é parcialmente explorado. Destaque para a usina hidrelétrica de Tucuruí, importante obra de infraestrutura para o desenvolvimento do Projeto Carajás.\nII. O número 3 representa no mapa a Bacia do Parnaíba. Apresenta-se como fundamental para a região. A escassez de água tem sido historicamente apontada como um dos principais motivos para o baixo índice de desenvolvimento econômico e social da região.\nIII. O número 6 representa no mapa a Bacia do São Francisco. A agricultura é uma das mais importantes atividades econômicas, mas a região possui fortes contrastes socioeconômicos, com áreas de acentuada riqueza e alta densidade demográfica e áreas de pobreza crítica e população bastante dispersa.\nIV. O número 7 representa no mapa a Bacia do Atlântico Nordeste Oriental. Apresenta-se como fundamental para a região em relação à ocupação urbana ao contemplar cinco importantes capitais do Nordeste, regiões metropolitanas, dezenas de grandes núcleos urbanos e um parque industrial significativo.\nEstão corretas, apenas,",
       subItens: []
     },
     options: [
@@ -654,7 +654,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "GEOGRAFIA\nQuestão nº 32\nLeia o texto a seguir.\n“Líderes de 11 países europeus reunidos em Viena neste sábado (24/09) para analisar a crise migratória no continente discutiram o reforço das fronteiras externas da União Europeia e destacaram a necessidade de fazer novos acordos com os países de origem dos refugiados.\nOs países da chamada rota dos Bálcãs, que foi utilizada por milhões de migrantes para chegar ao continente, concordaram em buscar meios mais práticos para prevenir outro fluxo migratório de grandes proporções como o do ano passado, que gerou divisões profundas no bloco das 28 nações.”\nFonte: www.dw.com/pt-br, acessado em 24/09/2016\nNo texto, a expressão “rota dos Balcãs” corresponde ao caminho de entrada de muitos refugiados no continente europeu. Com base nessas informações e em seus conhecimentos a respeito deste fenômeno, assinale a alternativa que identifique países da União Europeia que se destaquem como entrada e países que se destaquem por se constituírem como destino final de permanência deles.",
+      principal: "GEOGRAFIA\nQuestão nº 32\nLeia o texto a seguir.\n“Líderes de 11 países europeus reunidos em Viena neste sábado ($24/09$) para analisar a crise migratória no continente discutiram o reforço das fronteiras externas da União Europeia e destacaram a necessidade de fazer novos acordos com os países de origem dos refugiados.\nOs países da chamada rota dos Bálcãs, que foi utilizada por milhões de migrantes para chegar ao continente, concordaram em buscar meios mais práticos para prevenir outro fluxo migratório de grandes proporções como o do ano passado, que gerou divisões profundas no bloco das 28 nações.”\nFonte: www.dw.$com/pt$-br, acessado em 24/09/2016\nNo texto, a expressão “rota dos Balcãs” corresponde ao caminho de entrada de muitos refugiados no continente europeu. Com base nessas informações e em seus conhecimentos a respeito deste fenômeno, assinale a alternativa que identifique países da União Europeia que se destaquem como entrada e países que se destaquem por se constituírem como destino final de permanência deles.",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "QUÍMICA\nQuestão nº 33\nOs polímeros condutores são geralmente chamados de \"metais sintéticos” por possuírem propriedades elétricas, magnéticas e ópticas de metais e semicondutores. O mais adequado seria chamá-los de “polímeros conjugados\", pois apresentam elétrons pi (π) conjugados.\nAssinale a alternativa que contém a fórmula estrutural que representa um polímero condutor.",
+      principal: "QUÍMICA\nQuestão nº 33\nOs polímeros condutores são geralmente chamados de \"metais sintéticos” por possuírem propriedades elétricas, magnéticas e ópticas de metais e semicondutores. O mais adequado seria chamá-los de “polímeros conjugados\", pois apresentam elétrons $\\pi$ (π) conjugados.\nAssinale a alternativa que contém a fórmula estrutural que representa um polímero condutor.",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "QUÍMICA\nQuestão nº 35\nCerto ácido diprótico fraco de concentração igual a 1 mol·L⁻¹ apresenta, no equilíbrio, grau de ionização de ordem de 2%. Considerando-se tais informações, é correto afirmar que a concentração em mol·L⁻¹ dos íons H⁺ e o potencial hidroxiliônico da solução são, respectivamente,\nDados: log₁₀ 2 = 0,3; log₁₀ 4 = 0,6; log₁₀ 6 = 0,78 e log₁₀ 8 = 0,9",
+      principal: "QUÍMICA\nQuestão nº 35\nCerto ácido diprótico fraco de concentração igual a 1 mol·L⁻¹ apresenta, no equilíbrio, grau de ionização de ordem de 2%. Considerando-se tais informações, é correto afirmar que a concentração em mol·L⁻¹ dos íons H⁺ e o potencial hidroxiliônico da solução são, respectivamente,\nDados: $\\log$₁₀ 2 = 0,3; $\\log$₁₀ 4 = 0,6; $\\log$₁₀ 6 = 0,78 e $\\log$₁₀ 8 = 0,9",
       subItens: []
     },
     options: [
@@ -889,11 +889,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/8",
+      "$1/8$",
       "1",
       "zero",
-      "1/4",
-      "1/2"
+      "$1/4$",
+      "$1/2$"
     ],
     correctAnswer: 0,
     materia: ["Biologia"],
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "HISTÓRIA\nQuestão nº 52\n“(...) Em termos de produtividade econômica, a transformação social foi um êxito imenso; em termos de sofrimento humano, uma tragédia, aumentada pela depressão agrícola depois de 1815 que reduziu o pobre rural à miséria mais desmoralizadora (...). Porém, do ponto de vista da industrialização havia consequências benéficas, pois uma economia industrial necessita de trabalhadores, e onde se podia obtê-los senão no antigo setor não industrial?\n(Hobsbauwn, Eric. A Revolução Industrial. in As Revoluções Burguesas)\nNo trecho acima, o autor analisa consequências da Revolução industrial na Inglaterra. Sobre o texto e o contexto, é correto afirmar que",
+      principal: "HISTÓRIA\nQuestão nº 52\n“(...) Em termos de produtividade econômica, a transformação social foi um êxito imenso; em termos de sofrimento humano, uma tragédia, aumentada pela depressão agrícola depois de 1815 que reduziu o pobre rural à miséria mais desmoralizadora (...). Porém, do ponto de vista da industrialização havia consequências benéficas, pois uma economia industrial necessita de trabalhadores, e onde se podia obtê-los $\\sin$ão no antigo setor não industrial?\n(Hobsbauwn, Eric. A Revolução Industrial. in As Revoluções Burguesas)\nNo trecho acima, o autor analisa consequências da Revolução industrial na Inglaterra. Sobre o texto e o contexto, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "FÍSICA\nQuestão nº 57\nImagem: Uma barra homogênea AB de peso P_AB está apoiada no solo horizontal rugoso e mantida em equilíbrio através do corpo P de peso P_P, como mostra a figura. O corpo P está suspenso por um fio que passa por uma polia ideal. O trecho CD do fio é horizontal, e o ângulo da barra com a horizontal é 45°. BC = (2/3)AB.\nUma barra homogênea AB de peso P_AB está apoiada no solo horizontal rugoso e mantida em equilíbrio através do corpo P de peso P_P, como mostra a figura acima. Considere o fio e a polia ideal, o trecho CD horizontal, BC = (2/3)AB e sen45°= cos 45°= √2/2. O coeficiente de atrito estático entre o solo e a barra AB é",
+      principal: "FÍSICA\nQuestão nº 57\nImagem: Uma barra homogênea AB de peso $P_AB$ está apoiada no solo horizontal rugoso e mantida em equilíbrio através do corpo P de peso $P_P$, como mostra a figura. O corpo P está suspenso por um fio que passa por uma polia ideal. O trecho CD do fio é horizontal, e o ângulo da barra com a horizontal é 45°. BC = ($2/3$)AB.\nUma barra homogênea AB de peso $P_AB$ está apoiada no solo horizontal rugoso e mantida em equilíbrio através do corpo P de peso $P_P$, como mostra a figura acima. Considere o fio e a polia ideal, o trecho CD horizontal, BC = ($2/3$)AB e sen45°= $\\cos$ 45°= √$2/2$. O coeficiente de atrito estático entre o solo e a barra AB é",
       subItens: []
     },
     options: [
@@ -1200,15 +1200,15 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "FÍSICA\nQuestão nº 58\nImagem: Gráfico de velocidade (v) em m/s em função do tempo (t) em s.\nO gráfico mostra:\n- De t=0 a t=4,0s: velocidade aumenta linearmente de -2,0 m/s para 6,0 m/s.\n- De t=4,0s a t=8,0s: velocidade constante em 6,0 m/s.\n- De t=8,0s a t=10,0s: velocidade diminui linearmente de 6,0 m/s para um valor final.\nUm móvel varia sua velocidade escalar de acordo com o diagrama acima. A velocidade escalar média e a aceleração escalar média nos 10,0 s iniciais são, respectivamente,",
+      principal: "FÍSICA\nQuestão nº 58\nImagem: Gráfico de velocidade (v) em $m/s$ em função do tempo (t) em s.\nO gráfico mostra:\n- De t=0 a t=4,0s: velocidade aumenta linearmente de -2,0 $m/s$ para 6,0 $m/s$.\n- De t=4,0s a t=8,0s: velocidade constante em 6,0 $m/s$.\n- De t=8,0s a t=10,0s: velocidade diminui linearmente de 6,0 $m/s$ para um valor final.\nUm móvel varia sua velocidade escalar de acordo com o diagrama acima. A velocidade escalar média e a aceleração escalar média nos 10,0 s iniciais são, respectivamente,",
       subItens: []
     },
     options: [
-      "3,8 m/s e 0,20 m/s²",
-      "3,4 m/s e 0,40 m/s²",
-      "3,0 m/s e 2,0 m/s²",
-      "3,4 m/s e 2,0 m/s²",
-      "4,0 m/s e 0,60 m/s²"
+      "3,8 $m/s$ e 0,20 $m/s$²",
+      "3,4 $m/s$ e 0,40 $m/s$²",
+      "3,0 $m/s$ e 2,0 $m/s$²",
+      "3,4 $m/s$ e 2,0 $m/s$²",
+      "4,0 $m/s$ e 0,60 $m/s$²"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "FÍSICA\nQuestão nº 59\nNa olimpíada Rio 2016, nosso medalhista de ouro em salto com vara, Thiago Braz, de 75,0 kg, atingiu a altura de 6,03 m, recorde mundial, caindo a 2,80 m do ponto de apoio da vara. Considerando o módulo da aceleração da gravidade g = 10,0 m/s², o trabalho realizado pela força peso durante a descida foi aproximadamente de",
+      principal: "FÍSICA\nQuestão nº 59\nNa olimpíada Rio 2016, nosso medalhista de ouro em salto com vara, Thiago Braz, de 75,0 kg, atingiu a altura de 6,03 m, recorde mundial, caindo a 2,80 m do ponto de apoio da vara. Considerando o módulo da aceleração da gravidade g = 10,0 $m/s$², o trabalho realizado pela força peso durante a descida foi aproximadamente de",
       subItens: []
     },
     options: [
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "mackenzie",
     year: 2017,
     text: {
-      principal: "FÍSICA\nQuestão nº 60\nA intensidade do campo elétrico (E) e do potencial elétrico (V) em um ponto P gerado pela carga puntiforme Q são, respectivamente, 50 N/C e 100 V. A distância d que a carga puntiforme se encontra do ponto P, imersa no ar, é",
+      principal: "FÍSICA\nQuestão nº 60\nA intensidade do campo elétrico (E) e do potencial elétrico (V) em um ponto P gerado pela carga puntiforme Q são, respectivamente, 50 $N/C$ e 100 V. A distância d que a carga puntiforme se encontra do ponto P, imersa no ar, é",
       subItens: []
     },
     options: [

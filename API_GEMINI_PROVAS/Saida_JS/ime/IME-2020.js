@@ -66,7 +66,7 @@ createQuestion({
     university: "ime",
     year: 2020,
     text: {
-      principal: "Sabe-se que S = x + y + z, onde x, y e z são soluções inteiras do sistema abaixo.\nx = ³√(2y²/2)\ny = e^(2ln(x))\nlog₂y + logₓz = (x + 3)\nO valor de S é:",
+      principal: "Sabe-se que S = x + y + z, onde x, y e z são soluções inteiras do sistema abaixo.\nx = ³√(2y²/2)\ny = e^(2ln(x))\n$\\log$₂y + $\\log$ₓz = (x + 3)\nO valor de S é:",
       subItens: []
     },
     options: [
@@ -93,7 +93,7 @@ createQuestion({
     options: [
       "-16",
       "-8",
-      "-16/5",
+      "-$16/5$",
       "1",
       "16"
     ],
@@ -150,7 +150,7 @@ createQuestion({
     university: "ime",
     year: 2020,
     text: {
-      principal: "Uma progressão geométrica é formada com os números naturais A, B e C, nessa ordem. O log(A) possui a mesma mantissa, M, do log(B) e C é a característica do log(A). Sabe-se que M=log(C) e que C possui o maior valor possível. O valor da mantissa do log(ABC) é:",
+      principal: "Uma progressão geométrica é formada com os números naturais A, B e C, nessa ordem. O $\\log$(A) possui a mesma mantissa, M, do $\\log$(B) e C é a característica do $\\log$(A). Sabe-se que M=$\\log$(C) e que C possui o maior valor possível. O valor da mantissa do $\\log$(ABC) é:",
       subItens: []
     },
     options: [
@@ -192,15 +192,15 @@ createQuestion({
     university: "ime",
     year: 2020,
     text: {
-      principal: "Considere a progressão geométrica a1, a2,…,an,… e a progressão aritmética b1, b2,…, bn,… com as condições:\na₁ > 0;\na2/a1 > 1; e\nb2-b₁ > 0\nPara que [loga(an) – bn] não dependa de n, o valor de a deverá ser:",
+      principal: "Considere a progressão geométrica a1, a2,…,an,… e a progressão aritmética b1, b2,…, bn,… com as condições:\na₁ > 0;\n$a2/a1$ > 1; e\nb2-b₁ > 0\nPara que [loga(an) – bn] não dependa de n, o valor de a deverá ser:",
       subItens: []
     },
     options: [
-      "(a2/a₁)^(1/b2)",
-      "(a2/a1)^(1/b₁)",
-      "(a2/a₁)^(1/(b2-b₁))",
-      "(a2/a₁)^(1/(b1-b2))",
-      "(a2/a₁)^(1/b1b2)"
+      "($a2/a$₁)^($1/b2$)",
+      "($a2/a1$)^($1/b$₁)",
+      "($a2/a$₁)^(1/(b2-b₁))",
+      "($a2/a$₁)^(1/(b1-b2))",
+      "($a2/a$₁)^($1/b1b2$)"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "ime",
     year: 2020,
     text: {
-      principal: "Todos os arcos entre 0 e 2π radianos que satisfazem a desigualdade\nsenx - 1/2 > cosx + √3/2\nestão compreendidos entre:",
+      principal: "Todos os arcos entre 0 e 2π radianos que satisfazem a desigualdade\nsenx - $1/2$ > cosx + √$3/2$\nestão compreendidos entre:",
       subItens: []
     },
     options: [
@@ -276,15 +276,15 @@ createQuestion({
     university: "ime",
     year: 2020,
     text: {
-      principal: "Em um cubo regular de aresta a, os pontos M, N e L pertencentes às três arestas distintas que partem do vértice A estão a uma distância x de A tal que 0 < x ≤ a/2. Para que plano MNL seja tangente à esfera inscrita no cubo, o valor de x é:",
+      principal: "Em um cubo regular de aresta a, os pontos M, N e L pertencentes às três arestas distintas que partem do vértice A estão a uma distância x de A tal que 0 < x ≤ $a/2$. Para que plano MNL seja tangente à esfera inscrita no cubo, o valor de x é:",
       subItens: []
     },
     options: [
-      "a/2(√3 - 1)",
-      "a/2(3 - √3)",
-      "a/2(2 - √3)",
-      "a/2(4 - 2√3)",
-      "a√3/2"
+      "$a/2$(√3 - 1)",
+      "$a/2$(3 - √3)",
+      "$a/2$(2 - √3)",
+      "$a/2$(4 - 2√3)",
+      "a√$3/2$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -318,7 +318,7 @@ createQuestion({
     university: "ime",
     year: 2020,
     text: {
-      principal: "Uma fonte sonora de frequência fo é arremessada verticalmente para cima, com velocidade inicial vo, de um ponto da superfície terrestre no qual a aceleração da gravidade é g.\nDados:\n• aceleração da gravidade: g = 9,8 m/s²; e\n• velocidade inicial da fonte sonora: vo = 98 m/s.\nNota: despreze a resistência do ar e a variação da aceleração da gravidade com a altitude.\nA frequência f percebida 10 segundos mais tarde por um observador estático situado no local do arremesso é tal que",
+      principal: "Uma fonte sonora de frequência fo é arremessada verticalmente para cima, com velocidade inicial vo, de um ponto da superfície terrestre no qual a aceleração da gravidade é g.\nDados:\n• aceleração da gravidade: g = 9,8 $m/s$²; e\n• velocidade inicial da fonte sonora: vo = 98 $m/s$.\nNota: despreze a resistência do ar e a variação da aceleração da gravidade com a altitude.\nA frequência f percebida 10 segundos mais tarde por um observador estático situado no local do arremesso é tal que",
       subItens: []
     },
     options: [
@@ -339,7 +339,7 @@ createQuestion({
     university: "ime",
     year: 2020,
     text: {
-      principal: "Um sistema mecânico, composto por um corpo de massa M conectado a uma mola, está inicialmente em equilíbrio mecânico e em repouso sobre uma superfície horizontal sem atrito, conforme mostra a figura. Um projétil esférico de massa m é disparado na direção horizontal contra a massa M, provocando um choque perfeitamente inelástico que inicia uma oscilação no sistema.\nDados:\n• M = 10 kg;\n• m = 2 kg;\n• amplitude de oscilação do sistema = 0,4 m; e\n• frequência angular = 2 rad/s\nA velocidade do projétil antes do choque entre as massas M e m, em m/s, é:",
+      principal: "Um sistema mecânico, composto por um corpo de massa M conectado a uma mola, está inicialmente em equilíbrio mecânico e em repouso sobre uma superfície horizontal sem atrito, conforme mostra a figura. Um projétil esférico de massa m é disparado na direção horizontal contra a massa M, provocando um choque perfeitamente inelástico que inicia uma oscilação no sistema.\nDados:\n• M = 10 kg;\n• m = 2 kg;\n• amplitude de oscilação do sistema = 0,4 m; e\n• frequência angular = 2 $rad/s$\nA velocidade do projétil antes do choque entre as massas M e m, em $m/s$, é:",
       subItens: []
     },
     options: [
@@ -381,7 +381,7 @@ createQuestion({
     university: "ime",
     year: 2020,
     text: {
-      principal: "Em um experimento, uma fonte laser emite um pulso luminoso instantâneo, que é refletido por um espelho plano (MR), girando em velocidade angular constante ω. Um outro espelho fixo, côncavo e circular (MF), encontra-se acima da fonte laser, ambos localizados a uma distância L = 3 km de MR, conforme mostra a figura. O centro de curvatura (C) de MF localiza-se no ponto onde a luz do laser encontra MR e coincide com seu centro de rotação.\nDado:\n• velocidade da luz: c = 3 x 10⁸ m/s.\nObservações:\n• a posição de MR e MF são tais que o feixe consegue chegar a MF, pelo menos, duas vezes; e\n• despreze o comprimento da fonte laser.\nPara que o pulso luminoso seja refletido em MF pela 2ª vez, a um comprimento de arco Δs = 30 cm do 1º ponto de reflexão, o valor de ω, em rad/s, é:",
+      principal: "Em um experimento, uma fonte laser emite um pulso luminoso instantâneo, que é refletido por um espelho plano (MR), girando em velocidade angular constante ω. Um outro espelho fixo, côncavo e circular (MF), encontra-se acima da fonte laser, ambos localizados a uma distância L = 3 km de MR, conforme mostra a figura. O centro de curvatura (C) de MF localiza-se no ponto onde a luz do laser encontra MR e coincide com seu centro de rotação.\nDado:\n• velocidade da luz: c = 3 x 10⁸ $m/s$.\nObservações:\n• a posição de MR e MF são tais que o feixe consegue chegar a MF, pelo menos, duas vezes; e\n• despreze o comprimento da fonte laser.\nPara que o pulso luminoso seja refletido em MF pela 2ª vez, a um comprimento de arco Δs = 30 cm do 1º ponto de reflexão, o valor de ω, em $rad/s$, é:",
       subItens: []
     },
     options: [

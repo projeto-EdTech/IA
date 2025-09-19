@@ -23,7 +23,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "ABELHAS TRABALHADORAS DO MUNDO!! ZUNI-VOS ZZZZZZZ\n(Fernando Gonsales, Níquel Náusea. Disponível em http://www2.uol.com.br/niquel. Acessado em 15/07/2016.)\nNa tira acima, o autor retoma um célebre lema retirado do Manifesto Comunista (1848), de Karl Marx e Friedrich Engels: \"Operários do mundo, uni-vos!\".\nConsiderando os sentidos produzidos pela tirinha, é correto afirmar que nela se lê",
+      principal: "ABELHAS TRABALHADORAS DO MUNDO!! ZUNI-VOS ZZZZZZZ\n(Fernando Gonsales, Níquel Náusea. Disponível em http://www2.uol.com.$br/niquel$. Acessado em 15/07/2016.)\nNa tira acima, o autor retoma um célebre lema retirado do Manifesto Comunista (1848), de Karl Marx e Friedrich Engels: \"Operários do mundo, uni-vos!\".\nConsiderando os sentidos produzidos pela tirinha, é correto afirmar que nela se lê",
       subItens: []
     },
     options: [
@@ -103,7 +103,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "No dia 21 de setembro de 2015, Sérgio Rodrigues, crítico literário, comentou que apontar no título do filme Que horas ela volta? um erro de português “revela visão curta sobre como a língua funciona\". E justifica:\n\"O título do filme, tirado da fala de um personagem, está em registro coloquial. Que ano você nasceu? Que série você estuda? e frases do gênero são familiares a todos os brasileiros, mesmo com alto grau de escolaridade. Será preciso reafirmar a esta altura do século 21 que obras de arte têm liberdade para transgressões muito maiores?\nPretender que uma obra de ficção tenha o mesmo grau de formalidade de um editorial de jornal ou relatório de firma revela um jeito autoritário de compreender o funcionamento não só da língua, mas da arte também.\"\n(Adaptado do blog Melhor Dizendo. Post completo disponível em http://www.melhordizendo.com/a-que-horas-ela-volta-em-que-ano-estamos-mesmo/. Acessado em 08/06/2016.)\nEntre os excertos de estudiosos da linguagem reproduzidos a seguir, assinale aquele que corrobora os comentários do post.\nOs excertos são adaptados de textos dos autores referenciados abaixo:\nBAGNO, Marcos. Nada na língua é por acaso: por uma pedagogia da variação linguística. São Paulo: Editorial, 2007.\nCAMACHO, Roberto Gomes. O sistema escolar e o ensino da língua portuguesa. Alfa, São Paulo, 29, p.1-7, 1985.\nGERALDI, João Wanderley. Linguagem e ensino: exercícios de militância e divulgação. Campinas, SP: Mercado das Letras; Associação de Leitura do Brasil, 1996.\nMATTOSO CÂMARA JR., Joaquim. História da Linguística. Petrópolis, Rio de Janeiro: Vozes, 1975.",
+      principal: "No dia 21 de setembro de 2015, Sérgio Rodrigues, crítico literário, comentou que apontar no título do filme Que horas ela volta? um erro de português “revela visão curta sobre como a língua funciona\". E justifica:\n\"O título do filme, tirado da fala de um personagem, está em registro coloquial. Que ano você nasceu? Que série você estuda? e frases do gênero são familiares a todos os brasileiros, mesmo com alto grau de escolaridade. Será preciso reafirmar a esta altura do século 21 que obras de arte têm liberdade para transgressões muito maiores?\nPretender que uma obra de ficção tenha o mesmo grau de formalidade de um editorial de jornal ou relatório de firma revela um jeito autoritário de compreender o funcionamento não só da língua, mas da arte também.\"\n(Adaptado do blog Melhor Dizendo. Post completo disponível em http://www.melhordizendo.$com/a$-que-horas-ela-volta-em-que-ano-estamos-mesmo/. Acessado em 08/06/2016.)\nEntre os excertos de estudiosos da linguagem reproduzidos a seguir, assinale aquele que corrobora os comentários do post.\nOs excertos são adaptados de textos dos autores referenciados abaixo:\nBAGNO, Marcos. Nada na língua é por acaso: por uma pedagogia da variação linguística. São Paulo: Editorial, 2007.\nCAMACHO, Roberto Gomes. O sistema escolar e o ensino da língua portuguesa. Alfa, São Paulo, 29, p.1-7, 1985.\nGERALDI, João Wanderley. Linguagem e ensino: exercícios de militância e divulgação. Campinas, SP: Mercado das Letras; Associação de Leitura do Brasil, 1996.\nMATTOSO CÂMARA JR., Joaquim. História da Linguística. Petrópolis, Rio de Janeiro: Vozes, 1975.",
       subItens: []
     },
     options: [
@@ -203,7 +203,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "\"O Sinhô foi açoitar\nsozinho a negra Fulô.\nA negra tirou a saia\ne tirou o cabeção,\nde dentro dêle pulou\nnuinha a negra Fulô.\nEssa negra Fulô!\nEssa negra Fulô!\nÓ Fulô! Ó Fulô!\nCadê, cadê teu Sinhô\nque Nosso Senhor me mandou?\nAh! Foi você que roubou,\nfoi você, negra Fulô?\nEssa negra Fulô!”\n(Jorge de Lima, Poesias Completas, v.1. Rio de Janeiro/Brasília: J.Aguilar e INL, 1974, p. 121.)\n\"A Sinhá mandou arrebentar-lhe os dentes:\nFute, Cafute, Pé-de-pato, Não-sei-que-diga,\navança na branca e me vinga.\nExu escangalha ela, amofina ela,\namuxila ela que eu não tenho defesa de homem,\nsou só uma mulher perdida neste mundão.\nNeste mundão.\nLouvado seja Oxalá.\nPara sempre seja louvado.\"\n(Idem, p.164.)\nEssas duas cenas de ciúmes concluem dois textos diferentes de Jorge de Lima. A primeira pertence ao conhecido poema modernista \"Essa negra Fulô”; a segunda, ao poema \"História\", de Poemas Negros (1947). Em relação a \"Essa negra Fulô\", o poema \"História”, especificamente, representa",
+      principal: "\"O Sinhô foi açoitar\nsozinho a negra Fulô.\nA negra tirou a saia\ne tirou o cabeção,\nde dentro dêle pulou\nnuinha a negra Fulô.\nEssa negra Fulô!\nEssa negra Fulô!\nÓ Fulô! Ó Fulô!\nCadê, cadê teu Sinhô\nque Nosso Senhor me mandou?\nAh! Foi você que roubou,\nfoi você, negra Fulô?\nEssa negra Fulô!”\n(Jorge de Lima, Poesias Completas, v.1. Rio de $Janeiro/Bras$ília: J.Aguilar e INL, 1974, p. 121.)\n\"A Sinhá mandou arrebentar-lhe os dentes:\nFute, Cafute, Pé-de-pato, Não-sei-que-diga,\navança na branca e me vinga.\nExu escangalha ela, amofina ela,\namuxila ela que eu não tenho defesa de homem,\nsou só uma mulher perdida neste mundão.\nNeste mundão.\nLouvado seja Oxalá.\nPara sempre seja louvado.\"\n(Idem, p.164.)\nEssas duas cenas de ciúmes concluem dois textos diferentes de Jorge de Lima. A primeira pertence ao conhecido poema modernista \"Essa negra Fulô”; a segunda, ao poema \"História\", de Poemas Negros (1947). Em relação a \"Essa negra Fulô\", o poema \"História”, especificamente, representa",
       subItens: []
     },
     options: [
@@ -287,10 +287,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/3.",
-      "1/5.",
-      "1/7.",
-      "1/9."
+      "$1/3$.",
+      "$1/5$.",
+      "$1/7$.",
+      "$1/9$."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -488,9 +488,9 @@ createQuestion({
     },
     options: [
       "1.",
-      "5/4.",
-      "4/3.",
-      "1/3."
+      "$5/4$.",
+      "$4/3$.",
+      "$1/3$."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -503,7 +503,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "Considere o triângulo retângulo ABD exibido na figura abaixo, em que AB = 2 cm, BC = 1 cm e CD = 5 cm. Então, o ângulo θ é igual a\n[Imagem de um triângulo retângulo ABD com um ponto C na hipotenusa BD, formando BC e CD. Ângulo theta em A.]",
+      principal: "Considere o triângulo retângulo ABD exibido na figura abaixo, em que AB = 2 cm, BC = 1 cm e CD = 5 cm. Então, o ângulo θ é igual a\n[Imagem de um triângulo retângulo ABD com um ponto C na hipotenusa BD, formando BC e CD. Ângulo $\\theta$ em A.]",
       subItens: []
     },
     options: [
@@ -528,9 +528,9 @@ createQuestion({
     },
     options: [
       "1-t.",
-      "t/2.",
-      "1-t/2.",
-      "1/2-t."
+      "$t/2$.",
+      "1-$t/2$.",
+      "$1/2$-t."
     ],
     correctAnswer: 3,
     materia: ["Biologia"],
@@ -583,7 +583,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "\"Rios caudalosos, florestas impenetráveis, tribos indígenas desconhecidas e histórias de animais gigantes que se alimentam de seres humanos. Um cenário assustador para a maioria, mas perfeito para aventureiros em busca de fama e riqueza no final do século XIX e início do XX. Foi nessa época que a Amazônia recebeu milhares de trabalhadores para a indústria de extração da borracha e para a construção de uma ferrovia de quase 400 quilômetros, que escoaria essa produção cortando os rios Madeira e Mamoré, a oeste do atual estado de Rondônia.\"\n(Cristina Romanelli, \"A ferro e sangue\". Disponível em http://www.revistadehistoria.com.br/secao/artigos-revista/a-ferro-e-sangue. Acessado em 05/08/2016.)\nA construção da Estrada de Ferro Madeira-Mamoré",
+      principal: "\"Rios caudalosos, florestas impenetráveis, tribos indígenas desconhecidas e histórias de animais gigantes que se alimentam de seres humanos. Um cenário assustador para a maioria, mas perfeito para aventureiros em busca de fama e riqueza no final do século XIX e início do XX. Foi nessa época que a Amazônia recebeu milhares de trabalhadores para a indústria de extração da borracha e para a construção de uma ferrovia de quase 400 quilômetros, que escoaria essa produção cortando os rios Madeira e Mamoré, a oeste do atual estado de Rondônia.\"\n(Cristina Romanelli, \"A ferro e sangue\". Disponível em http://www.revistadehistoria.com.br/secao/artigos-$revista/a$-ferro-e-sangue. Acessado em 05/08/2016.)\nA construção da Estrada de Ferro Madeira-Mamoré",
       subItens: []
     },
     options: [
@@ -603,7 +603,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "\"Um poeta chamado Zhu Xi escreveu o seguinte há cerca de 1200 anos: 'No topo das altas montanhas vejo conchas que me dizem que antigos lugares de baixa altitude se elevaram para os céus e moram agora nos mais elevados picos. Estas conchas dizem-me também que materiais vivos de animais se converteram nas mais duras e inertes rochas.' Essas palavras foram durante séculos lidas como se fossem versos. Mas Zhu Xi não era apenas um poeta: era um cientista, aquilo que, até há pouco se chamava um naturalista.\"\n(Mia Couto, \"Rios, Cobras e Camisas de Dormir\", em E se Obama fosse africano? E outras intervenções. 2.ed. Lisboa: Editorial Caminho, 2009, p.58.)\nO poema citado por Mia Couto faz referência",
+      principal: "\"Um poeta chamado Zhu $\\xi$ escreveu o seguinte há cerca de 1200 anos: 'No topo das altas montanhas vejo conchas que me dizem que antigos lugares de baixa altitude se elevaram para os céus e moram agora nos mais elevados picos. Estas conchas dizem-me também que materiais vivos de animais se converteram nas mais duras e inertes rochas.' Essas palavras foram durante séculos lidas como se fossem versos. Mas Zhu $\\xi$ não era apenas um poeta: era um cientista, aquilo que, até há pouco se chamava um naturalista.\"\n(Mia Couto, \"Rios, Cobras e Camisas de Dormir\", em E se Obama fosse africano? E outras intervenções. 2.ed. Lisboa: Editorial Caminho, 2009, p.58.)\nO poema citado por Mia Couto faz referência",
       subItens: []
     },
     options: [
@@ -643,7 +643,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "Leia os versos iniciais do poema The White Man's Burden (O fardo do homem branco).\nTake up the White Man's burden\nSend forth the best ye breed\nGo send your sons to exile\nTo serve your captives' need\nTo wait in heavy harness\nOn fluttered folk and wild-\nYour new-caught, sullen peoples,\nHalf devil and half child (...)\n(Rudyard Kipling, Rudyard Kipling's Verse. Disponível em http://kiplingsociety.co.uk/poems_burden.htm. Acessado em 17/10/2016.)\nO poema de Rudyard Kipling foi escrito em Londres, em 1898, após a estadia do autor nos EUA. Considerando-se o contexto do imperialismo do século XIX, o poeta expressa",
+      principal: "Leia os versos iniciais do poema The White Man's Burden (O fardo do homem branco).\nTake up the White Man's burden\nSend forth the best ye breed\nGo send your sons to exile\nTo serve your captives' need\nTo wait in heavy harness\nOn fluttered folk and wild-\nYour new-caught, sullen peoples,\nHalf devil and half child (...)\n(Rudyard Kipling, Rudyard Kipling's Verse. Disponível em http://kiplingsociety.co.$uk/poems_burden$.htm. Acessado em 17/10/2016.)\nO poema de Rudyard Kipling foi escrito em Londres, em 1898, após a estadia do autor nos EUA. Considerando-se o contexto do imperialismo do século XIX, o poeta expressa",
       subItens: []
     },
     options: [
@@ -943,7 +943,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "[Imagem de um mosaico romano com gladiadores]\n(Ângelo Agostini, Reconhecimento da República brasileira pela Argentina, em Revista Ilustrada, dez. 1889.)\nA imagem acima retrata parte do mosaico romano de Nennig, um dos mais bem conservados que se encontram até o momento no norte da Europa. A composição conta com mais de 160 m² e apresenta como tema cenas próprias de um anfiteatro romano.\n(https://fr.wikipedia.org/wiki/Perl_(Sarre)#/media/File:Retiarius_stabs_secutor_(color).jpg. Acessado em 12/08/2016.)\nA partir da leitura da imagem e do conhecimento sobre o período em questão, pode-se afirmar corretamente que a imagem representa",
+      principal: "[Imagem de um mosaico romano com gladiadores]\n(Ângelo Agostini, Reconhecimento da República brasileira pela Argentina, em Revista Ilustrada, dez. 1889.)\nA imagem acima retrata parte do mosaico romano de Nennig, um dos mais bem conservados que se encontram até o momento no norte da Europa. A composição conta com mais de 160 m² e apresenta como tema cenas próprias de um anfiteatro romano.\n(https://fr.wikipedia.org/wiki/Perl_(Sarre)#/media/File:$Retiarius_stabs_secutor_$(color).jpg. Acessado em 12/08/2016.)\nA partir da leitura da imagem e do conhecimento sobre o período em questão, pode-se afirmar corretamente que a imagem representa",
       subItens: []
     },
     options: [
@@ -963,7 +963,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "O documento abaixo foi redigido pelo governador de Pernambuco, Caetano de Melo e Castro, em 18 de agosto de 1694, para comunicar ao Rei de Portugal a tomada da Serra da Barriga.\n\" (...) Não me parece dilatar a Vossa Majestade da gloriosa restauração dos Palmares, cuja feliz vitória senão avalia por menos que a expulsão dos holandeses, e assim foi festejada por todos estes povos com seis dias de luminárias. (...) Os negros se achando de modo poderosos que esperavam o nosso exército metidos na serra (....), fiando-se na aspereza do sítio, na multidão dos defensores. (...) Temeu-se muito a ruína destas Capitanias quando à vista de tamanho exército e repetidos socorros como haviam ido para aquela campanha deixassem de ser vencidos aqueles rebeldes pois imbativelmente se lhes unir-se os escravos todos destes moradores (....)\".\n(Décio Freitas, República de Palmares Imares - pesquisa e comentários em documentos históricos do século XVII. Maceió: UFAL, 2004, p. 129.)\nSobre o documento acima e seus significados atuais, é correto afirmar que",
+      principal: "O documento abaixo foi redigido pelo governador de Pernambuco, Caetano de Melo e Castro, em 18 de agosto de 1694, para comunicar ao Rei de Portugal a tomada da Serra da Barriga.\n\" (...) Não me parece dilatar a Vossa Majestade da gloriosa restauração dos Palmares, cuja feliz vitória $\\sin$ão avalia por menos que a expulsão dos holandeses, e assim foi festejada por todos estes povos com seis dias de luminárias. (...) Os negros se achando de modo poderosos que esperavam o nosso exército metidos na serra (....), fiando-se na aspereza do sítio, na multidão dos defensores. (...) Temeu-se muito a ruína destas Capitanias quando à vista de tamanho exército e repetidos socorros como haviam ido para aquela campanha deixassem de ser vencidos aqueles rebeldes pois imbativelmente se lhes unir-se os escravos todos destes moradores (....)\".\n(Décio Freitas, República de Palmares Imares - pesquisa e comentários em documentos históricos do século XVII. Maceió: UFAL, 2004, p. 129.)\nSobre o documento acima e seus significados atuais, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -1127,10 +1127,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "54 km/h.",
-      "15 km/h.",
-      "1296 km/h.",
-      "198 km/h."
+      "54 $km/h$.",
+      "15 $km/h$.",
+      "1296 $km/h$.",
+      "198 $km/h$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1163,7 +1163,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "Hoje é comum encontrarmos equipamentos de exercício físico em muitas praças públicas do Brasil. Esses equipamentos são voltados para pessoas de todas as idades, mas, em particular, para pessoas da terceira idade. São equipamentos exclusivamente mecânicos, sem uso de partes elétricas, em que o esforço consiste usualmente em levantar o próprio peso do praticante. Considere o esquema abaixo, em que uma pessoa de massa m = 65 kg está parada e com a perna esticada em um equipamento tipicamente encontrado nessas praças. O módulo da força F exercida pela perna da pessoa em razão de sua massa é\n(Se necessário, utilize g = 10 m/s².)\n[Imagem de uma pessoa em um equipamento de exercício, com anotações de ângulo 30° e força F]",
+      principal: "Hoje é comum encontrarmos equipamentos de exercício físico em muitas praças públicas do Brasil. Esses equipamentos são voltados para pessoas de todas as idades, mas, em particular, para pessoas da terceira idade. São equipamentos exclusivamente mecânicos, sem uso de partes elétricas, em que o esforço consiste usualmente em levantar o próprio peso do praticante. Considere o esquema abaixo, em que uma pessoa de massa m = 65 kg está parada e com a perna esticada em um equipamento tipicamente encontrado nessas praças. O módulo da força F exercida pela perna da pessoa em razão de sua massa é\n(Se necessário, utilize g = 10 $m/s$².)\n[Imagem de uma pessoa em um equipamento de exercício, com anotações de ângulo 30° e força F]",
       subItens: []
     },
     options: [
@@ -1203,7 +1203,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "Fazer vácuo significa retirar o ar existente em um volume fechado. Esse processo é usado, por exemplo, para conservar alimentos ditos embalados a vácuo ou para criar ambientes controlados para experimentos científicos. A figura abaixo representa um pistão que está sendo usado para fazer vácuo em uma câmara de volume constante Vc = 2,0 litros. O pistão, ligado à câmara por uma válvula A, aumenta o volume que pode ser ocupado pelo ar em Vp = 0,2 litros. Em seguida, a válvula A é fechada e o ar que está dentro do pistão é expulso através de uma válvula B, ligada à atmosfera, completando um ciclo de bombeamento. Considere que o ar se comporte como um gás ideal e que, durante o ciclo completo, a temperatura não variou. Se a pressão inicial na câmara é de Pi = 33 Pa, a pressão final na câmara após um ciclo de bombeamento será de\n[Diagrama de um sistema de bombeamento de vácuo com pistão e válvulas]",
+      principal: "Fazer vácuo significa retirar o ar existente em um volume fechado. Esse processo é usado, por exemplo, para conservar alimentos ditos embalados a vácuo ou para criar ambientes controlados para experimentos científicos. A figura abaixo representa um pistão que está sendo usado para fazer vácuo em uma câmara de volume constante Vc = 2,0 litros. O pistão, ligado à câmara por uma válvula A, aumenta o volume que pode ser ocupado pelo ar em Vp = 0,2 litros. Em seguida, a válvula A é fechada e o ar que está dentro do pistão é expulso através de uma válvula B, ligada à atmosfera, completando um ciclo de bombeamento. Considere que o ar se comporte como um gás ideal e que, durante o ciclo completo, a temperatura não variou. Se a pressão inicial na câmara é de $\\pi$ = 33 Pa, a pressão final na câmara após um ciclo de bombeamento será de\n[Diagrama de um sistema de bombeamento de vácuo com pistão e válvulas]",
       subItens: []
     },
     options: [
@@ -1223,14 +1223,14 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "A microfluídica é uma área de pesquisa que trabalha com a manipulação precisa de líquidos em canais com dimensões submilimétricas, chamados de microcanais, possibilitando o desenvolvimento de sistemas miniaturizados de análises químicas e biológicas. Considere que uma seringa com êmbolo cilíndrico de diâmetro D = 4 mm seja usada para injetar um líquido em um microcanal cilíndrico com diâmetro de d = 500 µm. Se o êmbolo for movido com uma velocidade de V = 4 mm/s, a velocidade v do líquido no microcanal será de",
+      principal: "A microfluídica é uma área de pesquisa que trabalha com a manipulação precisa de líquidos em canais com dimensões submilimétricas, chamados de microcanais, possibilitando o desenvolvimento de sistemas miniaturizados de análises químicas e biológicas. Considere que uma seringa com êmbolo cilíndrico de diâmetro D = 4 mm seja usada para injetar um líquido em um microcanal cilíndrico com diâmetro de d = 500 µm. Se o êmbolo for movido com uma velocidade de V = 4 $mm/s$, a velocidade v do líquido no microcanal será de",
       subItens: []
     },
     options: [
-      "256,0 mm/s.",
-      "32,0 mm/s.",
-      "62,5 µm/s.",
-      "500,0 μm/s."
+      "256,0 $mm/s$.",
+      "32,0 $mm/s$.",
+      "62,5 µ$m/s$.",
+      "500,0 μ$m/s$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "Considere que, de forma simplificada, a resolução máxima de um microscópio óptico é igual ao comprimento de onda da luz incidente no objeto a ser observado. Observando a célula representada na figura abaixo, e sabendo que o intervalo de frequências do espectro de luz visível está compreendido entre 4,0 x 10¹⁴ Hz e 7,5 x 10¹⁴ Hz, a menor estrutura celular que se poderia observar nesse microscópio de luz seria\n(Se necessário, utilize c = 3×10⁸m/s.)\n[Diagrama de célula com organelas e seus tamanhos]",
+      principal: "Considere que, de forma simplificada, a resolução máxima de um microscópio óptico é igual ao comprimento de onda da luz incidente no objeto a ser observado. Observando a célula representada na figura abaixo, e sabendo que o intervalo de frequências do espectro de luz visível está compreendido entre 4,0 x 10¹⁴ Hz e 7,5 x 10¹⁴ Hz, a menor estrutura celular que se poderia observar nesse microscópio de luz seria\n(Se necessário, utilize c = 3×10⁸$m/s$.)\n[Diagrama de célula com organelas e seus tamanhos]",
       subItens: []
     },
     options: [
@@ -1403,7 +1403,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "A presença de empresas globais que dominam o mercado de tecnologia no mundo costuma gerar atritos com os governos nacionais e impactos de diferentes dimensões em sua indústria cultural e na privacidade dos indivíduos. Diante do poder dessas grandes empresas, os Estados nacionais buscam estabelecer regras antitrustes para o setor.\n(Adaptado de Farhad Manjoo, The New York Times/Folha de São Paulo, 11/06/2016, p. 1 e 2.)\nCom relação ao poder econômico e político das empresas globais de tecnologia digital e as ações dos governos nacionais, é correto afirmar que:",
+      principal: "A presença de empresas globais que dominam o mercado de tecnologia no mundo costuma gerar atritos com os governos nacionais e impactos de diferentes dimensões em sua indústria cultural e na privacidade dos indivíduos. Diante do poder dessas grandes empresas, os Estados nacionais buscam estabelecer regras antitrustes para o setor.\n(Adaptado de Farhad Manjoo, The New York $Times/Folha$ de São Paulo, 11/06/2016, p. 1 e 2.)\nCom relação ao poder econômico e político das empresas globais de tecnologia digital e as ações dos governos nacionais, é correto afirmar que:",
       subItens: []
     },
     options: [
@@ -1483,7 +1483,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "Muitos problemas sociais e ambientais têm-se tornado motivo de piadas e alvo de charges em jornais e revistas. Um exemplo deste tipo está mostrado nas figuras abaixo.\n[Duas charges sobre contaminação de leite]\n(Disponível emhttp://josiasdesouza.folha.blog.uol.com.br/arch2007-10-01_2007-10-31.html. Acessado em 25/10/2016.)\nLevando em conta as informações abstraídas das figuras, depreende-se que as charges remetem a um problema recorrente de contaminação de",
+      principal: "Muitos problemas sociais e ambientais têm-se tornado motivo de piadas e alvo de charges em jornais e revistas. Um exemplo deste tipo está mostrado nas figuras abaixo.\n[Duas charges sobre contaminação de leite]\n(Disponível emhttp://josiasdesouza.folha.blog.uol.com.$br/arch2007$-10-$01_2007$-10-31.html. Acessado em 25/10/2016.)\nLevando em conta as informações abstraídas das figuras, depreende-se que as charges remetem a um problema recorrente de contaminação de",
       subItens: []
     },
     options: [
@@ -1543,7 +1543,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "É muito comum o uso de expressões no diminutivo para tentar \"diminuir\" a quantidade de algo prejudicial à saúde. Se uma pessoa diz que ingeriu 10 latinhas de cerveja (330 mL cada) e se compara a outra que ingeriu 6 doses de cachacinha (50 mL cada), pode-se afirmar corretamente que, apesar de em ambas as situações haver danos à saúde, a pessoa que apresenta maior quantidade de álcool no organismo foi a que ingeriu\nDados: teor alcoólico na cerveja = 5 % v/v\nteor alcoólico na cachaça = 45 % v/v",
+      principal: "É muito comum o uso de expressões no diminutivo para tentar \"diminuir\" a quantidade de algo prejudicial à saúde. Se uma pessoa diz que ingeriu 10 latinhas de cerveja (330 mL cada) e se compara a outra que ingeriu 6 doses de cachacinha (50 mL cada), pode-se afirmar corretamente que, apesar de em ambas as situações haver danos à saúde, a pessoa que apresenta maior quantidade de álcool no organismo foi a que ingeriu\nDados: teor alcoólico na cerveja = 5 % $v/v$\nteor alcoólico na cachaça = 45 % $v/v$",
       subItens: []
     },
     options: [
@@ -1763,7 +1763,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "[Infográfico sobre gravidez na adolescência]\n(Disponível em http://neahealthyfutures.org/the-importance-of-teen-pregnancy-prevention/. Acessado em 04/09/2016.)\nDepreende-se das informações da figura que",
+      principal: "[Infográfico sobre gravidez na adolescência]\n(Disponível em http://neahealthyfutures.$org/the$-importance-of-teen-pregnancy-prevention/. Acessado em 04/09/2016.)\nDepreende-se das informações da figura que",
       subItens: []
     },
     options: [
@@ -1783,7 +1783,7 @@ createQuestion({
     university: "unicamp",
     year: 2017,
     text: {
-      principal: "Roman documents discovered\nWe often think that the best information from the Roman world comes from Egypt, where the dryness preserves papyri. However, in Britain the reverse conditions occur. At Vindolanda – a Roman fort located two miles behind Hadrian's Wall – the humidity preserved wooden writing tablets that were thrown into a bonfire when the fort was evacuated in CE 105.\nThese wooden tablets were one of the most important discoveries made in Roman Britain in the 20th century. They were used not for grand writings but for memoranda and accounts, so they provide the best insight into life in the Roman army found anywhere in the world. One of the tablets says:\nOctavius to Candidus: \"I need money. I have bought 5,000 bushels of grain, and unless you send me some money, I shall lose my deposit and be embarrassed\".\n(Adaptado de http://www.archaeology.co.uk/specials/the-timeline-of-britain/vindolanda-2.htm. Acessado em 28/08/2016.)\nOs documentos descobertos em Vindolanda",
+      principal: "Roman documents discovered\nWe often think that the best information from the Roman world comes from Egypt, where the dryness preserves papyri. However, in Britain the reverse conditions occur. At Vindolanda – a Roman fort located two miles behind Hadrian's Wall – the humidity preserved wooden writing tablets that were thrown into a bonfire when the fort was evacuated in CE 105.\nThese wooden tablets were one of the most important discoveries made in Roman Britain in the 20th century. They were used not for grand writings but for memoranda and accounts, so they provide the best insight into life in the Roman army found anywhere in the world. One of the tablets says:\nOctavius to Candidus: \"I need money. I have bought 5,000 bushels of grain, and unless you send me some money, I shall lose my deposit and be embarrassed\".\n(Adaptado de http://www.archaeology.co.uk/specials/the-timeline-of-$britain/vindolanda$-2.htm. Acessado em 28/08/2016.)\nOs documentos descobertos em Vindolanda",
       subItens: []
     },
     options: [

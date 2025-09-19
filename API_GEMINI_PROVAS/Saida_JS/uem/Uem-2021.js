@@ -13,7 +13,7 @@ createQuestion({
       "No contexto de abertura democrática no Brasil, momento em que havia o medo de contrair vírus sexualmente transmissíveis, alguns artistas expressaram seus sentimentos em temas que focalizaram o corpo, o feminismo e a homossexualidade, como na exposição intitulada Como vai você, geração 80?",
       "Alguns artistas contemporâneos representam os negros para discutir a violência do processo brasileiro de colonização."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte", "Sociologia"],
     conteudo: ["Representatividade nas Artes Visuais", "Questões Raciais e de Gênero"],
     imageNames: []
@@ -34,7 +34,7 @@ createQuestion({
       "Trata-se de um argumento por simples enumeração.",
       "Trata-se de um argumento ampliativo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Lógica e Teoria do Conhecimento"],
     imageNames: []
@@ -55,7 +55,7 @@ createQuestion({
       "O método indutivo e a valorização da experiência, defendidos por autores como Francis Bacon, bem como a progressiva matematização da natureza levaram ao florescimento das ciências da natureza na Modernidade.",
       "A defesa dos valores cristãos dá origem à apologética, cujo objetivo era justificar racionalmente a fé cristã e defendê-la das heresias comuns na aurora da Modernidade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História", "Filosofia"],
     conteudo: ["Transição da Idade Média para a Idade Moderna", "Pensamento Moderno"],
     imageNames: []
@@ -76,7 +76,7 @@ createQuestion({
       "No final do século XVII, pessoas de regiões mais ao sul do Brasil fixaram-se no norte do estado e passaram a se dedicar ao plantio e à comercialização da erva-mate. Essa atividade econômica estimulou a criação de pequenas vilas na região.",
       "A expansão da pecuária no segundo planalto paranaense, ocorrida a partir do século XVIII, proporcionou a instalação de grandes fazendas, a formação de povoados e a integração da região à estrutura econômica brasileira."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia", "História"],
     conteudo: ["Formação Territorial do Paraná", "Colonização do Brasil"],
     imageNames: []
@@ -97,7 +97,7 @@ createQuestion({
       "Na segunda metade do século XV, os planos expansionistas portugueses pelos mares levaram à conquista da cidade de Ceuta, localizada no continente asiático. Apesar de inexpressiva do ponto de vista comercial, serviu para Portugal se estabelecer na região e contatar outros povos.",
       "Dentre os avanços tecnológicos do período de expansão marítima, o desenvolvimento dos mapas foi uma importante ferramenta de orientação e de identificação de elementos físicos, humanos, econômicos, associados ao espaço geográfico explorado."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Expansão Marítima Europeia"],
     imageNames: []
@@ -118,7 +118,7 @@ createQuestion({
       "A sistematização dos fundamentos teórico-metodológicos da geografia ocorreu a partir do final do século XVIII, com contribuições importantes advindas de países como a França e a Alemanha.",
       "A criação do Instituto Brasileiro de Geografia e Estatística (IBGE), posteriormente convertido em Instituto Histórico e Geográfico Brasileiro (IHGB), ocorreu nos meados do século XVIII."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["História do Pensamento Geográfico"],
     imageNames: []
@@ -139,7 +139,7 @@ createQuestion({
       "Queimadas agrícolas e incêndios florestais, além de provocarem a erosão do solo, consomem biomassa.",
       "A incineração do lixo hospitalar, apesar de evitar a contaminação do solo, emite poluentes na atmosfera."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Pedologia e Meio Ambiente"],
     imageNames: []
@@ -160,7 +160,7 @@ createQuestion({
       "O estudo do suicídio revelou, para Durkheim, a importância da integração moral para o equilíbrio da sociedade.",
       "No estudo do suicídio, Durkheim percebeu que as pessoas cometem mais suicídios em tempos de guerra."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Durkheim e o Fato Social"],
     imageNames: []
@@ -181,7 +181,7 @@ createQuestion({
       "O acesso a práticas esportivas deve ser preocupação de políticas públicas específicas.",
       "Nas escolas brasileiras, a disciplina de educação física não foi afetada pela crescente importância do esporte ao longo do século XX."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Sociologia do Esporte"],
     imageNames: []
@@ -202,7 +202,7 @@ createQuestion({
       "A espermatogênese humana ocorre exclusivamente por meio de divisões meióticas.",
       "O tecido nervoso humano tem como principais funções a percepção de sensações, a proteção corporal, a absorção e a secreção de substâncias."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia Geral"],
     imageNames: []
@@ -223,7 +223,7 @@ createQuestion({
       "Na difusão facilitada as proteínas transportadoras realizam trabalho cuja potência está relacionada ao gradiente de concentração entre o meio e o interior da célula.",
       "A célula eucariótica vegetal não sofrerá hemólise. Ela sofrerá deplasmólise."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Fisiologia Celular", "Transporte de Membrana"],
     imageNames: []
@@ -244,7 +244,7 @@ createQuestion({
       "Fatores como um período de chuvas constantes, que levaram à alteração da temperatura e a uma nova composição da atmosfera, provavelmente criaram maiores condições de existência de vida na Terra.",
       "A técnica de datação permitiu o reconhecimento de evidências sobre a história da Terra. Um exemplo é a análise de registros fósseis."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia", "Geografia"],
     conteudo: ["Origem da Vida", "Geologia"],
     imageNames: []
@@ -265,7 +265,7 @@ createQuestion({
       "Supondo que a hipótese do enunciado de comando esteja correta para o ano 2000 da nossa era, então em 2021 podemos afirmar que a formação do planeta Terra teria ocorrido há 2,1 × 106 anos.",
       "O experimento de Miller-Urey em 1953, usando um aparelho que simulava as condições da Terra em seus primórdios, constatou a impossibilidade de formação de moléculas orgânicas a partir de substâncias inorgânicas sem a presença de seres vivos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Origem da Vida e Evolução"],
     imageNames: []
@@ -286,7 +286,7 @@ createQuestion({
       "Em uma das reações químicas mais importantes da natureza, a fotossíntese, a massa não é conservada, pois há um gasto muito maior de água durante o processo (6CO2 + 12H2O → C6H12O6 + 6H2O + CO2).",
       "Uma base nitrogenada, contida tanto no DNA quanto no RNA, é formada por uma cadeia de carbonos e íons fosfato."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Estrutura da Matéria", "Bioquímica"],
     imageNames: []
@@ -307,7 +307,7 @@ createQuestion({
       "O tecido ósseo atua como um reservatório de cálcio, o qual é fundamental para o funcionamento adequado de diversos mecanismos do corpo humano.",
       "No sulfeto de cálcio (CaS) o cálcio está na forma de cátion monovalente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Ligações Químicas", "Fisiologia Humana"],
     imageNames: []
@@ -318,17 +318,17 @@ createQuestion({
     university: "uem",
     year: 2021,
     text: {
-      principal: "Considere um canhão posicionado na superfície terrestre, o qual consegue transferir 100kJ a um projétil (com massa de 20kg) instantaneamente na forma de energia mecânica. Considere, também, a ausência de forças dissipativas e g = 10m/s². Assinale o que for correto.",
+      principal: "Considere um canhão posicionado na superfície terrestre, o qual consegue transferir 100kJ a um projétil (com massa de 20kg) instantaneamente na forma de energia mecânica. Considere, também, a ausência de forças dissipativas e g = $10m/s$². Assinale o que for correto.",
       subItens: []
     },
     options: [
       "O lançamento na vertical, ou seja, na direção a 90° com a superfície, é o único lançamento desse projétil em que há um instante de tempo no qual a energia mecânica é totalmente definida pela energia potencial do projétil.",
-      "Caso esse projétil seja lançado por esse canhão a uma direção a 30° com relação à superfície terrestre (horizontal), sua velocidade escalar máxima será de 10√5m/s.",
+      "Caso esse projétil seja lançado por esse canhão a uma direção a 30° com relação à superfície terrestre (horizontal), sua velocidade escalar máxima será de 10√$5m/s$.",
       "O alcance máximo de lançamento ocorre quando a direção de lançamento do projétil está a 45° com o plano terrestre, em que o ponto de lançamento e o ponto de contato pertencem ao mesmo plano horizontal.",
       "Caso esse projétil seja lançado em uma direção a 30° com relação à superfície terrestre (horizontal), ele apresentará uma energia cinética mínima de 75kJ.",
       "Comparando lançamentos na mesma direção, quanto maior a massa do projétil, maior será o intervalo de tempo necessário para que a força da gravidade consiga frear completamente o movimento desse projétil na direção vertical."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Energia Mecânica", "Lançamento de Projéteis"],
     imageNames: []
@@ -349,7 +349,7 @@ createQuestion({
       "A área do setor circular OAC é maior do que 400cm².",
       "O comprimento do segmento de reta AB é maior do que 30cm."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física", "Matemática"],
     conteudo: ["Movimento Circular Uniforme", "Geometria Plana"],
     imageNames: []
@@ -360,17 +360,17 @@ createQuestion({
     university: "uem",
     year: 2021,
     text: {
-      principal: "Considere o gráfico a seguir, de velocidade (cm/s) versus o tempo (s) em que um objeto se encontra em movimento retilíneo. Assinale o que for correto.",
+      principal: "Considere o gráfico a seguir, de velocidade ($cm/s$) versus o tempo (s) em que um objeto se encontra em movimento retilíneo. Assinale o que for correto.",
       subItens: []
     },
     options: [
       "O objeto se encontra em movimento retilíneo uniforme entre os instantes de tempo t = 2s e t = 6s.",
       "O objeto percorre metade do seu deslocamento total após o instante de tempo t = 5s.",
-      "A velocidade escalar média de todo o percurso foi de 5cm/s.",
-      "O objeto possui as acelerações escalares a₁ = 5cm/s², no intervalo de tempo 0s < t < 2s, e a2 = -2,5cm/s², no intervalo de tempo 7s < t < 9s.",
-      "Entre os instantes de tempo t = 0s e t = 10s, o objeto apresenta uma aceleração escalar média de a = 0cm/s² ."
+      "A velocidade escalar média de todo o percurso foi de $5cm/s$.",
+      "O objeto possui as acelerações escalares a₁ = $5cm/s$², no intervalo de tempo 0s < t < 2s, e a2 = -2,$5cm/s$², no intervalo de tempo 7s < t < 9s.",
+      "Entre os instantes de tempo t = 0s e t = 10s, o objeto apresenta uma aceleração escalar média de a = $0cm/s$² ."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física", "Matemática"],
     conteudo: ["Cinemática", "Análise de Gráficos"],
     imageNames: []
@@ -391,7 +391,7 @@ createQuestion({
       "Na molécula PCl3 as ligações são representadas por 3 vetores de mesmo sentido.",
       "Moléculas diatômicas possuem geometria linear, e a ligação covalente entre os dois átomos pode ser polar ou apolar."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Polaridade e Geometria Molecular", "Ligações Químicas"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "Uma esfera de chumbo e uma esfera de bário, com massas idênticas, são postas em queda livre no mesmo instante. Na ausência de forças dissipativas, a esfera de chumbo atingirá o solo em menor tempo que a esfera de bário.",
       "Após uma colisão elástica unidimensional entre uma esfera de bário e uma esfera de chumbo, com massas e velocidades idênticas, a única alteração nesse sistema será no sentido do movimento de cada uma das esferas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química", "Física"],
     conteudo: ["Tabela Periódica", "Leis de Newton e Colisões"],
     imageNames: []
@@ -433,7 +433,7 @@ createQuestion({
       "Caso seja utilizado um espessante insolúvel em água e em etanol, obtém-se uma mistura heterogênea bifásica.",
       "No álcool 70% líquido, a água pode ser separada por meio da técnica de destilação simples."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Misturas e Separação de Substâncias", "Funções Orgânicas"],
     imageNames: []
@@ -454,7 +454,7 @@ createQuestion({
       "Na molécula de BeH2, o átomo de Be está com o octeto completo.",
       "A molécula de BeH2 é formada por ligação iônica."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Geometria Molecular", "Polaridade"],
     imageNames: []
@@ -475,7 +475,7 @@ createQuestion({
       "C = A.",
       "B C N e B c Z."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Teoria dos Conjuntos"],
     imageNames: []
@@ -493,10 +493,10 @@ createQuestion({
       "Se 0 < q < 1, então a sequência (g(x)) é uma progressão geométrica decrescente.",
       "Se r = 0, então a sequência (f(x)) é uma progressão aritmética constante para qualquer valor de a.",
       "A função f que determina a sequência (1, -1, -3, -5, -7, ...) é uma função afim cujos coeficientes linear e angular são números negativos.",
-      "O gráfico da função g que determina a sequência (1, 5/4, 25/16, 125/64 ...) passa pelo ponto de coordenadas (1, 5/4).",
+      "O gráfico da função g que determina a sequência (1, $5/4$, $25/16$, $125/64$ ...) passa pelo ponto de coordenadas (1, $5/4$).",
       "Para q = 1 o gráfico de g está contido em uma reta paralela ao eixo das ordenadas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções", "Progressões Aritméticas e Geométricas"],
     imageNames: []
@@ -511,13 +511,13 @@ createQuestion({
       subItens: []
     },
     options: [
-      "O comprimento do segmento FG é 5/3 cm.",
+      "O comprimento do segmento FG é $5/3$ cm.",
       "A área do trapézio ABCE é 115cm².",
       "A área do círculo determinado pela circunferência de centro em H, e que passa por A, é 50πcm².",
       "A soma das medidas dos ângulos BÂE e CÊA é 175°.",
-      "O valor da tangente do ângulo JÊA é 1/2."
+      "O valor da tangente do ângulo JÊA é $1/2$."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Plana", "Trigonometria"],
     imageNames: []
@@ -538,7 +538,7 @@ createQuestion({
       "Ainda que elaborado em uma linguagem mais informal, o texto não deixa de assumir um posicionamento crítico frente a certas questões, como a desconsideração, por parte do Comitê Olímpico, de esportes praticados por um grande número de pessoas em seus momentos de lazer.",
       "Ao afirmar que \"Rapidinho traríamos pra casa todo o ouro que nos foi levado.” (linhas 35 e 36), o autor faz referência ao passado colonial do país, durante o qual riquezas naturais, como o ouro, eram extraídas do território brasileiro e enviadas à Europa."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação Textual"],
     imageNames: []
@@ -559,7 +559,7 @@ createQuestion({
       "Para indicar primeira pessoa do plural, o autor mescla formas padrão, a exemplo de \"nos\" (linha 2) e \"nossas\" (linha 34), com a forma não padrão “a gente” (linha 31).",
       "Em contextos mais informais, é usual que, em enunciados como \"Tenho a impressão de que o critério” (linhas 4 e 5), a preposição \"de\" seja suprimida."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Gramática", "Variação Linguística"],
     imageNames: []
@@ -580,7 +580,7 @@ createQuestion({
       "O vocábulo “septuagenário\" (linha 27) mantém traços morfológicos da estrutura em latim que não estão mais presentes em formas semanticamente aparentadas, a exemplo de sétimo e setenta.",
       "O uso do termo \"Várzea\" (linha 32) apresenta uma conotação depreciativa e está associado, no texto, a tudo aquilo que está em um nível técnico inferior."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Semântica"],
     imageNames: []
@@ -601,7 +601,7 @@ createQuestion({
       "Em \"Taekwondo que, por mim, podia muito bem ceder seu lugar ao jiu-jitsu” (linhas 20 e 21), é possível empregar a forma verbal poderia em vez de \"podia\", sem prejuízo semântico ao texto.",
       "Em \"Acabo de perceber\" (linha 29), o evento verbal de \"perceber\" é apresentado, em termos aspectuais, como um processo durativo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Verbos", "Tempos e Modos Verbais"],
     imageNames: []
@@ -622,7 +622,7 @@ createQuestion({
       "No trecho \"Sugiro que a gente crie uma competição paralela\" (linhas 31 e 32), o sujeito de \"Sugiro\" é inexistente, visto que se trata de uma forma verbal impessoal.",
       "Em \"Trata-se” (linha 25), é prevista a ênclise, pois pronomes pessoais átonos, de acordo com as gramáticas normativas, não iniciam uma oração, ainda que, em contextos informais, a próclise seja amplamente empregada."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Colocação Pronominal"],
     imageNames: []
@@ -643,7 +643,7 @@ createQuestion({
       "Na expressão “por mim\" (linha 20), o vocábulo \"por\" introduz o agente de uma eventual substituição do taekwondo pelo MMA ou pela capoeira.",
       "Em “Não faz sentido nenhum ter hóquei na grama\" (linha 7), o termo \"nenhum\" atua como um marcador de ênfase sobre a expressão negativa \"Não faz sentido\"."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfologia", "Sintaxe"],
     imageNames: []
@@ -664,7 +664,7 @@ createQuestion({
       "Ao usar a expressão “pelo menos” (linha 14), o autor entende que existem apenas as modalidades de futebol apresentadas por ele.",
       "No trecho \"batendo com uma bengala numa bola de tênis.\" (linhas 9 e 10), o autor faz uma descrição puramente técnica, sem lançar mão da ironia, para descrever a modalidade olímpica de hóquei na grama."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Semântica", "Coesão e Argumentação"],
     imageNames: []
@@ -685,7 +685,7 @@ createQuestion({
       "Na última estrofe do poema, o autor utiliza um recurso conhecido como cultismo, que pode ser definido pela utilização de jogos de palavras, como se observa tanto no verso \"Para a tropa do trapo vazo a tripa,\" quanto no verso \"Em apa, epa, ipa, opa, upa.\".",
       "O poema possui rimas regulares que, quanto à disposição gráfica, classificam-se como alternadas nos quartetos e emparelhadas nos tercetos. Exceto o último verso, todos os demais são decassílabos, fazendo que o poema se aproxime, ao menos em algumas passagens, de uma forma poética muito utilizada no Classicismo: o soneto."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira: Barroco"],
     imageNames: []
@@ -706,7 +706,7 @@ createQuestion({
       "A semente é a palavra do pregador que louva e repreende a sociedade maranhense, marcada pela desigualdade e representada pelos peixes. O sermão compara os pregadores ao sal da terra.",
       "O texto tematiza a arte da pregação e volta-se para si mesmo (processo de metalinguagem), questionando, na própria pregação, o modo como se prega. Introito (introdução), invocação, argumento e peroração (conclusão) são partes da divisão do Sermão da sexagésima."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira: Barroco"],
     imageNames: []
@@ -727,7 +727,7 @@ createQuestion({
       "Em Marília de Dirceu, o eu lírico, ao descrever a natureza, sugere um espaço agradável e inocente. Há uma retomada de temas dos clássicos gregos e latinos, como o locus amoenus (lugar ameno) e o fugere urbem (fugir da cidade).",
       "Na lira transcrita, quando Cupido equipara a beleza de Marília àquela da deusa Vênus, a amada de Dirceu é elevada ao patamar de divindade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira: Arcadismo"],
     imageNames: []
@@ -738,7 +738,7 @@ createQuestion({
     university: "uem",
     year: 2021,
     text: {
-      principal: "De acordo com o texto, assinale o que for correto. TEXT How fast food affects nutrition in teens Sandra King Separating teens from their love for fast food is a common nutritional dilemma and a complex project. If you can convince an adolescent that anything other than pizzas, hamburgers, and fries is actually food, you've already won. Understanding how fast food nutrition affects a teen's health might be as simple as encouraging teenagers to at least try a healthy, home-cooked meal once a day. Fast food lacks many of the minerals and vitamins teens need to grow strong and move into healthy adulthood. B vitamins, for example, found in fresh fruits and grains, help your body keep energy, repair and rebuild cells and keep your digestive system functioning normally. A high-carb, high-sugar fast food diet also contributes to irritability, decreased ability to focus, anxiety and depression. Most fast food starts out like any other. The menu at your favorite drive-thru probably includes a combination of vegetables, meat, grains and fruit that are healthy in their original form. It's how they mix and fry that creates the difference between empty calories and nutritional fuel. However, in many ways, the social interaction is as important as the food, when teens meet, and not something to discourage. Fast food once or twice a week isn't generally harmful, especially if it's balanced with healthy nutrition most of the time. One possibility is that teens choose healthier versions of fast food offerings. Options include salads, whole grain bread or sandwich with grilled rather than deep fried chicken. Involving teens in meal preparation can also help because it gives the parents a chance to educate their children about the value of nutrition. This may make kitchen time interesting and fun. Adapted from: https://healthyeating.sfgate.com/fast-food-affects- nutrition-teens-4167.html. Access on 13th Oct, 2021.",
+      principal: "De acordo com o texto, assinale o que for correto. TEXT How fast food affects nutrition in teens Sandra King Separating teens from their love for fast food is a common nutritional dilemma and a complex project. If you can convince an adolescent that anything other than pizzas, hamburgers, and fries is actually food, you've already won. Understanding how fast food nutrition affects a teen's health might be as simple as encouraging teenagers to at least try a healthy, home-cooked meal once a day. Fast food lacks many of the minerals and vitamins teens need to grow strong and move into healthy adulthood. B vitamins, for example, found in fresh fruits and grains, help your body keep energy, repair and rebuild cells and keep your digestive system functioning normally. A high-carb, high-sugar fast food diet also contributes to irritability, decreased ability to focus, anxiety and depression. Most fast food starts out like any other. The menu at your favorite drive-thru probably includes a combination of vegetables, meat, grains and fruit that are healthy in their original form. It's how they mix and fry that creates the difference between empty calories and nutritional fuel. However, in many ways, the social interaction is as important as the food, when teens meet, and not something to discourage. Fast food once or twice a week isn't generally harmful, especially if it's balanced with healthy nutrition most of the time. One possibility is that teens choose healthier versions of fast food offerings. Options include salads, whole grain bread or sandwich with grilled rather than deep fried chicken. Involving teens in meal preparation can also help because it gives the parents a chance to educate their children about the value of nutrition. This may make kitchen time interesting and fun. Adapted from: https://healthyeating.sfgate.$com/fast$-food-affects- nutrition-teens-4167.html. Access on 13th Oct, 2021.",
       subItens: []
     },
     options: [
@@ -748,7 +748,7 @@ createQuestion({
       "Comidas servidas em restaurantes fast food não são saudáveis devido à forma como são preparadas.",
       "É importante que os adolescentes não consumam fast food."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension"],
     imageNames: []
@@ -769,7 +769,7 @@ createQuestion({
       "A qualidade da comida que ingerimos não tem relação com a nossa capacidade de concentração.",
       "A forma como se alimentam os adolescentes está relacionada à sua vida social."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension"],
     imageNames: []
@@ -790,7 +790,7 @@ createQuestion({
       "There are some healthy versions of fast food.",
       "Teens tend to be interested in preparing their own meal."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension"],
     imageNames: []
@@ -811,7 +811,7 @@ createQuestion({
       "A oração \"you've already won.\" (linhas 4 e 5) está no presente perfeito.",
       "As palavras “Separating” (linha 1) e “Understanding\" (linha 5) estão no presente contínuo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Grammar and Vocabulary"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "\"However\" (line 23) is an adverb used to conclude an idea.",
       "The conjunction \"rather than\" (line 30) can be replaced with the adverb instead of, with no change in the phrase."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Grammar and Vocabulary"],
     imageNames: []
@@ -1158,15 +1158,15 @@ createQuestion({
     university: "uem",
     year: 2021,
     text: {
-      principal: "Considere uma luz monocromática propagando-se em um meio A e incidindo sobre a superfície S de separação com um meio B, de forma que ocorra refração da luz. Denote por i a medida do ângulo que o raio incidente forma com a normal N à superfície, por r a medida do ângulo que o raio refratado forma com N, e por nA e nB os índices de refração absolutos do meio A e do meio B, respectivamente. A Lei de Snell-Descartes estabelece que nA sen i = nB sen r. Com relação a essa Lei e às demais propriedades da refração da luz, assinale o que for correto.",
+      principal: "Considere uma luz monocromática propagando-se em um meio A e incidindo sobre a superfície S de separação com um meio B, de forma que ocorra refração da luz. Denote por i a medida do ângulo que o raio incidente forma com a normal N à superfície, por r a medida do ângulo que o raio refratado forma com N, e por nA e nB os índices de refração absolutos do meio A e do meio B, respectivamente. A Lei de Snell-Descartes estabelece que nA $\\sin$ i = nB $\\sin$ r. Com relação a essa Lei e às demais propriedades da refração da luz, assinale o que for correto.",
       subItens: []
     },
     options: [
       "Os índices de refração absolutos não dependem da velocidade da luz no meio em consideração.",
       "O raio incidente, o raio refratado e a normal à superficie S pertencem ao mesmo plano.",
-      "A expressão matemática dada na Lei de Snell-Descartes pode ser reescrita na forma nA tg i cos i = nB sen r sempre que cos i ≠ 0.",
+      "A expressão matemática dada na Lei de Snell-Descartes pode ser reescrita na forma nA $\\tan$ i $\\cos$ i = nB $\\sin$ r sempre que $\\cos$ i ≠ 0.",
       "Se nA < nB, então i < r.",
-      "Se nB = 2 nA, então sen r ≤ 1/2."
+      "Se nB = 2 nA, então $\\sin$ r ≤ $1/2$."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "uem",
     year: 2021,
     text: {
-      principal: "Considere um oscilador harmônico simples, constituído por um bloco de massa m = 4kg preso em uma extremidade a uma mola de constante elástica k = 400N/m fixada ao teto (despreze o atrito e a massa da mola). Considere a origem do sistema de coordenadas no teto com movimento vertical no eixo y crescente para baixo. O sistema bloco/mola é lentamente colocado em sua posição de equilíbrio vertical, até estar em repouso. Nessa posição, o bloco é puxado 5cm para baixo e liberado, iniciando o movimento de oscilação. Considere a aceleração da gravidade g = 10m/s². Sobre o movimento de oscilação do sistema massa/mola, assinale o que for correto.",
+      principal: "Considere um oscilador harmônico simples, constituído por um bloco de massa m = 4kg preso em uma extremidade a uma mola de constante elástica k = $400N/m$ fixada ao teto (despreze o atrito e a massa da mola). Considere a origem do sistema de coordenadas no teto com movimento vertical no eixo y crescente para baixo. O sistema $bloco/mola$ é lentamente colocado em sua posição de equilíbrio vertical, até estar em repouso. Nessa posição, o bloco é puxado 5cm para baixo e liberado, iniciando o movimento de oscilação. Considere a aceleração da gravidade g = $10m/s$². Sobre o movimento de oscilação do sistema $massa/mola$, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -1187,7 +1187,7 @@ createQuestion({
       "A posição de deslocamento máximo do bloco é y = 15cm.",
       "A velocidade do bloco é sempre nula ao passar pela posição de equilíbrio do bloco.",
       "A aceleração do bloco é nula nas posições de deslocamento máximo e de deslocamento mínimo do bloco.",
-      "Se no tempo t = 0s o bloco está na posição de máximo deslocamento, a equação y(t) = 10 + 5 sen (10t + π/2) descreve a posição vertical y (dada em centímetros) do bloco em função do tempo t (dado em segundos)."
+      "Se no tempo t = 0s o bloco está na posição de máximo deslocamento, a equação y(t) = 10 + 5 $\\sin$ (10t + π/2) descreve a posição vertical y (dada em centímetros) do bloco em função do tempo t (dado em segundos)."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -1263,12 +1263,12 @@ createQuestion({
     university: "uem",
     year: 2021,
     text: {
-      principal: "Um carro modelo flex, que funciona tanto a gasolina quanto a etanol, passou por um estudo de queima de combustíveis sem e com a utilização de um novo catalisador automotivo, obtendo-se os resultados expostos no quadro a seguir. Nele se destaca a formação de CO/mol de combustível queimado, pois essa substância é indesejável por apresentar grande toxicidade e por ser considerada um poluente atmosférico. Nesse quadro, são representadas, também, as reações químicas da queima completa desses combustíveis. De acordo com esse conjunto de informações, assinale o que for correto.\n\nConcentração de CO (mmolCO/mol combustível) sem catalisador | Concentração de CO (mmolCO/mol combustível) com catalisador\n---|---\nEtanol A | 5,0 | 0,05\nEtanol B | 4,0 | 0,05\nEtanol C | 4,5 | 0,05\nGasolina A | 10,0 | 2,0\nGasolina B | 15,0 | 2,0\nGasolina C | 20,0 | 2,0\n\nC2H6O(1) + 3 O2(g) → 2 CO2(g) + 3 H2O(1) ΔH = – 1368 kJ/mol\nC8H18(1) + 25/2 O2(g) → 8 CO2(g) + 9 H2O(1) ΔH = – 5500 kJ/mol\n\n01) No espaço amostral utilizado a redução de 99% da formação de CO na queima do etanol com catalisador é um evento certo.\n02) Analisando uma amostra de cada tipo de gasolina A, B e C, a probabilidade de se obter uma redução da formação de CO menor que 80% ou igual a 80%, utilizando catalisador, é de 1/3.\n04) O catalisador automotivo tem a função de reduzir a queima incompleta dos combustíveis e de acelerar a oxidação dos combustíveis a CO2.\n08) Se houver queima incompleta de 1mol de qualquer um desses combustíveis, a variação de entalpia não terá o mesmo valor da entalpia padrão de combustão.\n16) Nas reações de combustão o gás oxigênio é o comburente.",
+      principal: "Um carro modelo flex, que funciona tanto a gasolina quanto a etanol, passou por um estudo de queima de combustíveis sem e com a utilização de um novo catalisador automotivo, obtendo-se os resultados expostos no quadro a seguir. Nele se destaca a formação de $CO/mol$ de combustível queimado, pois essa substância é indesejável por apresentar grande toxicidade e por ser considerada um poluente atmosférico. Nesse quadro, são representadas, também, as reações químicas da queima completa desses combustíveis. De acordo com esse conjunto de informações, assinale o que for correto.\n\nConcentração de CO ($mmolCO/mol$ combustível) sem catalisador | Concentração de CO ($mmolCO/mol$ combustível) com catalisador\n---|---\nEtanol A | 5,0 | 0,05\nEtanol B | 4,0 | 0,05\nEtanol C | 4,5 | 0,05\nGasolina A | 10,0 | 2,0\nGasolina B | 15,0 | 2,0\nGasolina C | 20,0 | 2,0\n\nC2H6O(1) + 3 O2(g) → 2 CO2(g) + 3 H2O(1) ΔH = – 1368 $kJ/mol$\nC8H18(1) + $25/2$ O2(g) → 8 CO2(g) + 9 H2O(1) ΔH = – 5500 $kJ/mol$\n\n01) No espaço amostral utilizado a redução de 99% da formação de CO na queima do etanol com catalisador é um evento certo.\n02) Analisando uma amostra de cada tipo de gasolina A, B e C, a probabilidade de se obter uma redução da formação de CO menor que 80% ou igual a 80%, utilizando catalisador, é de $1/3$.\n04) O catalisador automotivo tem a função de reduzir a queima incompleta dos combustíveis e de acelerar a oxidação dos combustíveis a CO2.\n08) Se houver queima incompleta de 1mol de qualquer um desses combustíveis, a variação de entalpia não terá o mesmo valor da entalpia padrão de combustão.\n16) Nas reações de combustão o gás oxigênio é o comburente.",
       subItens: []
     },
     options: [
       "No espaço amostral utilizado a redução de 99% da formação de CO na queima do etanol com catalisador é um evento certo.",
-      "Analisando uma amostra de cada tipo de gasolina A, B e C, a probabilidade de se obter uma redução da formação de CO menor que 80% ou igual a 80%, utilizando catalisador, é de 1/3.",
+      "Analisando uma amostra de cada tipo de gasolina A, B e C, a probabilidade de se obter uma redução da formação de CO menor que 80% ou igual a 80%, utilizando catalisador, é de $1/3$.",
       "O catalisador automotivo tem a função de reduzir a queima incompleta dos combustíveis e de acelerar a oxidação dos combustíveis a CO2.",
       "Se houver queima incompleta de 1mol de qualquer um desses combustíveis, a variação de entalpia não terá o mesmo valor da entalpia padrão de combustão.",
       "Nas reações de combustão o gás oxigênio é o comburente."
@@ -1290,9 +1290,9 @@ createQuestion({
     options: [
       "Se um dos atletas percorreu 1000m e o restante do percurso foi revezado entre os outros dois na razão de 2:3, então o percurso para cada um destes dois atletas foi de 1040m e 1560m.",
       "A velocidade média dos atletas e o tempo gasto por eles para completar o percurso são grandezas diretamente proporcionais.",
-      "Se a razão entre o comprimento do percurso e o tempo total gasto pelos três atletas para percorrê-lo foi de 200m/min, então o percurso todo foi completado em 18min.",
+      "Se a razão entre o comprimento do percurso e o tempo total gasto pelos três atletas para percorrê-lo foi de $200m/min$, então o percurso todo foi completado em 18min.",
       "Se o primeiro atleta completou 30% do percurso total e o segundo completou 30% do restante do percurso, então o terceiro atleta percorreu menos de 1500m.",
-      "Se cada um dos atletas cumpriu um terço do percurso total, gastando 5min, 5min e 6min, respectivamente, então a velocidade média nesse percurso foi de 300m/min."
+      "Se cada um dos atletas cumpriu um terço do percurso total, gastando 5min, 5min e 6min, respectivamente, então a velocidade média nesse percurso foi de $300m/min$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1311,7 +1311,7 @@ createQuestion({
     options: [
       "Existem valores de a e b tais que o sistema possui exatamente 3 soluções.",
       "O sistema é equivalente ao sistema (ax + by + z = 1, x - z = 1, x - y = 1).",
-      "Se a = -2 e b = 2, então uma solução (xo, yo, zo) do sistema também satisfaz a igualdade cos(xοπ) + sen(yon) – tg(zon) = 1.",
+      "Se a = -2 e b = 2, então uma solução (xo, yo, zo) do sistema também satisfaz a igualdade $\\cos$(xοπ) + $\\sin$(yon) – $\\tan$(zon) = 1.",
       "O sistema admite uma única solução somente quando a + b ≠ -1.",
       "Se a = 1 e b = -2, então o sistema é possível e indeterminado."
     ],
@@ -1334,7 +1334,7 @@ createQuestion({
       "Há exatamente 936 maneiras de os prêmios terem sido dados aos competidores.",
       "Se a soma dos prêmios dados aos homens foi igual à soma dos prêmios dados às mulheres, então a probabilidade de o primeiro colocado ser um homem é de 0,3.",
       "Se a diferença entre a soma dos prêmios dados às mulheres e a soma dos prêmios dados aos homens foi 400 reais, então há exatamente 210 maneiras de os prêmios terem sido dados aos competidores.",
-      "A probabilidade de o primeiro colocado ser uma mulher é de 6/13."
+      "A probabilidade de o primeiro colocado ser uma mulher é de $6/13$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1494,12 +1494,12 @@ createQuestion({
     university: "uem",
     year: 2021,
     text: {
-      principal: "Com base no texto a seguir e na produção poética de Gonçalves Dias, assinale o que for correto.\n\nO canto do guerreiro\n\nI\nAqui na floresta\nDos ventos batida,\nFaçanhas de bravos\nNão geram escravos,\nQue estimem a vida\nSem guerra lidar.\nOuvi-me, Guerreiros.\nOuvi meu cantar.\n\nII\nValente na guerra\nQuem há, como eu sou?\nQuem vibra o tacape\nCom mais valentia?\nQuem golpes daria\nFatais, como eu dou?\nGuerreiros, ouvi-me;\nQuem há, como eu sou?\n[...]\n\nV\nNa caça ou na lide,\nQuem há que me afronte?!\nA onça raivosa\nMeus passos conhece,\nO imigo estremece,\nE a ave medrosa\nSe esconde no céu.\nQuem há mais valente,\nMais destro do que eu?\n\nVI\nSe as matas estrujo\nCo' os sons do boré,\nMil arcos se encurvam,\nMil setas lá voam,\nMil gritos reboam.\nMil homens de pé\nEis surgem, respondem\nAos sons do boré!\nQuem é mais valente,\nMais forte quem é?\n[...]\n\nDIAS, G. Melhores poemas. Seleção de José Carlos Garbuglio. 7 ed. São Paulo: Global. 2001. p. 19-20.\n\nVOCABULÁRIO:\nlidar: lutar em batalha.\ntacape: arma indígena de ataque, clava.\nlide: trabalho penoso, labuta, luta, combate.\nimigo: inimigo.\ndextro: que usa preferencialmente a mão direita.\nestrujo: estrugir; soar ou vibrar fortemente, estrondear, retumbar.\nboré: etimologia tupi; 'espécie de flauta indígena'.\n\n01) Escrito em forma de soneto, o poema exalta a pátria ao mesmo tempo em que enaltece o exército defensor dela e, em particular, o cavaleiro medieval, como afirma o verso \"Valente na guerra\".\n02) O autor emprega recursos da expressão poética, tais como anáforas (\"Quem há”; “Quem vibra\"), hipérbatos (\"Mais forte quem é?”; “A onça raivosa/Meus passos conhece\"; \"Quem golpes daria\"), hipérboles (\"Mil arcos se encurvam\"; \"Mil gritos reboam.\"), assonâncias (“Façanhas de bravos\").\n04) O poema pertence à primeira fase do Romantismo brasileiro, da qual Gonçalves Dias é um dos grandes representantes. Com versos melódicos estruturados em redondilhas menores e uma linguagem simples e acessível, explora marcas nacionalistas e indianistas.\n08) Lembrando a filosofia do \"bom selvagem\", de Jean-Jacques Rousseau, que consistia em afirmar que o ser humano nasce naturalmente bom, mas é corrompido pela civilização, o índio representado nos poemas de Gonçalves Dias é ingênuo, puro, corajoso, valente, fiel, nobre, honrado, heroicizado.\n16) A natureza funciona apenas como cenário para o desenvolvimento das batalhas travadas pelos heróis nacionais. O poeta, cujo pseudônimo literário é Boré, explora o bucolismo em que a tranquilidade e a harmonia são contrapostas ao dinamismo urbano. A vida simples é exaltada como estado ideal.",
+      principal: "Com base no texto a seguir e na produção poética de Gonçalves Dias, assinale o que for correto.\n\nO canto do guerreiro\n\nI\nAqui na floresta\nDos ventos batida,\nFaçanhas de bravos\nNão geram escravos,\nQue estimem a vida\nSem guerra lidar.\nOuvi-me, Guerreiros.\nOuvi meu cantar.\n\nII\nValente na guerra\nQuem há, como eu sou?\nQuem vibra o tacape\nCom mais valentia?\nQuem golpes daria\nFatais, como eu dou?\nGuerreiros, ouvi-me;\nQuem há, como eu sou?\n[...]\n\nV\nNa caça ou na lide,\nQuem há que me afronte?!\nA onça raivosa\nMeus passos conhece,\nO imigo estremece,\nE a ave medrosa\nSe esconde no céu.\nQuem há mais valente,\nMais destro do que eu?\n\nVI\nSe as matas estrujo\nCo' os sons do boré,\nMil arcos se encurvam,\nMil setas lá voam,\nMil gritos reboam.\nMil homens de pé\nEis surgem, respondem\nAos sons do boré!\nQuem é mais valente,\nMais forte quem é?\n[...]\n\nDIAS, G. Melhores poemas. Seleção de José Carlos Garbuglio. 7 ed. São Paulo: Global. 2001. p. 19-20.\n\nVOCABULÁRIO:\nlidar: lutar em batalha.\ntacape: arma indígena de ataque, clava.\nlide: trabalho penoso, labuta, luta, combate.\nimigo: inimigo.\ndextro: que usa preferencialmente a mão direita.\nestrujo: estrugir; soar ou vibrar fortemente, estrondear, retumbar.\nboré: etimologia tupi; 'espécie de flauta indígena'.\n\n01) Escrito em forma de soneto, o poema exalta a pátria ao mesmo tempo em que enaltece o exército defensor dela e, em particular, o cavaleiro medieval, como afirma o verso \"Valente na guerra\".\n02) O autor emprega recursos da expressão poética, tais como anáforas (\"Quem há”; “Quem vibra\"), hipérbatos (\"Mais forte quem é?”; “A onça $raivosa/Meus$ passos conhece\"; \"Quem golpes daria\"), hipérboles (\"Mil arcos se encurvam\"; \"Mil gritos reboam.\"), assonâncias (“Façanhas de bravos\").\n04) O poema pertence à primeira fase do Romantismo brasileiro, da qual Gonçalves Dias é um dos grandes representantes. Com versos melódicos estruturados em redondilhas menores e uma linguagem simples e acessível, explora marcas nacionalistas e indianistas.\n08) Lembrando a filosofia do \"bom selvagem\", de Jean-Jacques Rousseau, que consistia em afirmar que o ser humano nasce naturalmente bom, mas é corrompido pela civilização, o índio representado nos poemas de Gonçalves Dias é ingênuo, puro, corajoso, valente, fiel, nobre, honrado, heroicizado.\n16) A natureza funciona apenas como cenário para o desenvolvimento das batalhas travadas pelos heróis nacionais. O poeta, cujo pseudônimo literário é Boré, explora o bucolismo em que a tranquilidade e a harmonia são contrapostas ao dinamismo urbano. A vida simples é exaltada como estado ideal.",
       subItens: []
     },
     options: [
       "Escrito em forma de soneto, o poema exalta a pátria ao mesmo tempo em que enaltece o exército defensor dela e, em particular, o cavaleiro medieval, como afirma o verso \"Valente na guerra\".",
-      "O autor emprega recursos da expressão poética, tais como anáforas (\"Quem há”; “Quem vibra\"), hipérbatos (\"Mais forte quem é?”; “A onça raivosa/Meus passos conhece\"; \"Quem golpes daria\"), hipérboles (\"Mil arcos se encurvam\"; \"Mil gritos reboam.\"), assonâncias (“Façanhas de bravos\").",
+      "O autor emprega recursos da expressão poética, tais como anáforas (\"Quem há”; “Quem vibra\"), hipérbatos (\"Mais forte quem é?”; “A onça $raivosa/Meus$ passos conhece\"; \"Quem golpes daria\"), hipérboles (\"Mil arcos se encurvam\"; \"Mil gritos reboam.\"), assonâncias (“Façanhas de bravos\").",
       "O poema pertence à primeira fase do Romantismo brasileiro, da qual Gonçalves Dias é um dos grandes representantes. Com versos melódicos estruturados em redondilhas menores e uma linguagem simples e acessível, explora marcas nacionalistas e indianistas.",
       "Lembrando a filosofia do \"bom selvagem\", de Jean-Jacques Rousseau, que consistia em afirmar que o ser humano nasce naturalmente bom, mas é corrompido pela civilização, o índio representado nos poemas de Gonçalves Dias é ingênuo, puro, corajoso, valente, fiel, nobre, honrado, heroicizado.",
       "A natureza funciona apenas como cenário para o desenvolvimento das batalhas travadas pelos heróis nacionais. O poeta, cujo pseudônimo literário é Boré, explora o bucolismo em que a tranquilidade e a harmonia são contrapostas ao dinamismo urbano. A vida simples é exaltada como estado ideal."
@@ -1536,7 +1536,7 @@ createQuestion({
     university: "uem",
     year: 2021,
     text: {
-      principal: "Sobre a obra Memórias póstumas de Brás Cubas, de Machado de Assis, assinale o que for correto.\n\nCapítulo XI\nO menino é pai do homem\n\nCresci; e nisso é que a família não interveio; [...] Prudêncio, um moleque da casa, era o meu cavalo de todos os dias; punha as mãos no chão, recebia um cordel nos queixos, à guisa de freio, eu trepava-lhe ao dorso, com uma varinha na mão, fustigava-o, dava mil voltas a um e outro lado, e ele obedecia – algumas vezes gemendo -, mas obedecia sem dizer palavra, ou, quando muito, um “ai, nhonhô”, ao que eu retorquia: – Cala a boca, besta! [...] meu pai tinha-me em grande admiração; e se às vezes me repreendia à vista de gente, fazia-o por simples formalidade: em particular dava-me beijos. [...] afeiçoei-me à contemplação da injustiça humana, inclinei-me a atenuá-la, a explicá-la, a classificá-la por partes, a entendê-la, não segundo um padrão rígido, mas ao sabor das circunstâncias e lugares. Minha mãe doutrinava-me a seu modo, fazia-me decorar alguns preceitos e orações; [...] Dessa terra e desse estrume é que nasceu essa flor.\n\nASSIS, M. de. Memórias póstumas de Brás Cubas. São Paulo: Martin Claret, 2012, p. 38-41.\n\n01) O narrador mostra sua sensibilidade ao relatar algumas memórias da infância, a qual, como de costume, foi povoada pela ingenuidade infantil e por brincadeiras com crianças de idade próxima, a exemplo do moleque Prudêncio. Essa sensibilidade do personagem é sutilmente simbolizada na metáfora do nascimento da singela flor.\n02) Ainda que, por vezes, durante as brincadeiras infantis pudessem ocorrer alguns abusos, como na cena destacada, o modo carinhoso com que Prudêncio se refere a Brás Cubas “nhonhô\" destaca afeto e amizade entre ambos, que perdurará na fase adulta. Nos momentos de dificuldade financeira, como no nascimento do filho, Prudêncio sempre pôde contar com as boas ações de Brás Cubas, frutos da educação paterna e das orações e dos preceitos ensinados pela mãe.\n04) O romance evidencia como a infância de Brás Cubas e de Prudêncio foram muito desiguais. Ciente da possibilidade de opressão legitimada, o filho do senhor de escravizados não hesita em, literalmente, montar nas costas de Prudêncio. De modo sagaz, esta é uma das cenas da obra que, simbolicamente, retrata e possibilita a reflexão crítica acerca da estrutura social e de poder na sociedade brasileira.\n08) Mesmo com condições sociais distintas, Brás Cubas e Prudêncio possuem um aspecto em comum: o acesso ao estudo formal. Prudêncio, mesmo tendo nascido em contexto de escravidão, tornar-se-á um renomado contador e será o responsável pelas finanças do amigo Brás Cubas, em retribuição à ajuda obtida para que pudesse concluir seus estudos.\n16) Nascido e vivendo no Rio de Janeiro em pleno século XIX, o protagonista do romance é um representante da elite carioca da época. Mesmo tendo a oportunidade de cursar Direito na Europa, não necessitou dessa formação e nem do trabalho para seu sustento, fato do qual se gaba, uma vez que, graças a privilégios que possuía, viveu confortavelmente das rendas e posses herdadas.",
+      principal: "Sobre a obra Memórias póstumas de Brás Cubas, de Machado de Assis, assinale o que for correto.\n\nCapítulo $\\xi$\nO menino é pai do homem\n\nCresci; e nisso é que a família não interveio; [...] Prudêncio, um moleque da casa, era o meu cavalo de todos os dias; punha as mãos no chão, recebia um cordel nos queixos, à guisa de freio, eu trepava-lhe ao dorso, com uma varinha na mão, fustigava-o, dava mil voltas a um e outro lado, e ele obedecia – algumas vezes gemendo -, mas obedecia sem dizer palavra, ou, quando muito, um “ai, nhonhô”, ao que eu retorquia: – Cala a boca, besta! [...] meu pai tinha-me em grande admiração; e se às vezes me repreendia à vista de gente, fazia-o por simples formalidade: em particular dava-me beijos. [...] afeiçoei-me à contemplação da injustiça humana, inclinei-me a atenuá-la, a explicá-la, a classificá-la por partes, a entendê-la, não segundo um padrão rígido, mas ao sabor das circunstâncias e lugares. Minha mãe doutrinava-me a seu modo, fazia-me decorar alguns preceitos e orações; [...] Dessa terra e desse estrume é que nasceu essa flor.\n\nASSIS, M. de. Memórias póstumas de Brás Cubas. São Paulo: Martin Claret, 2012, p. 38-41.\n\n01) O narrador mostra sua sensibilidade ao relatar algumas memórias da infância, a qual, como de costume, foi povoada pela ingenuidade infantil e por brincadeiras com crianças de idade próxima, a exemplo do moleque Prudêncio. Essa sensibilidade do personagem é sutilmente simbolizada na metáfora do nascimento da singela flor.\n02) Ainda que, por vezes, durante as brincadeiras infantis pudessem ocorrer alguns abusos, como na cena destacada, o modo carinhoso com que Prudêncio se refere a Brás Cubas “nhonhô\" destaca afeto e amizade entre ambos, que perdurará na fase adulta. Nos momentos de dificuldade financeira, como no nascimento do filho, Prudêncio sempre pôde contar com as boas ações de Brás Cubas, frutos da educação paterna e das orações e dos preceitos ensinados pela mãe.\n04) O romance evidencia como a infância de Brás Cubas e de Prudêncio foram muito desiguais. Ciente da possibilidade de opressão legitimada, o filho do senhor de escravizados não hesita em, literalmente, montar nas costas de Prudêncio. De modo sagaz, esta é uma das cenas da obra que, simbolicamente, retrata e possibilita a reflexão crítica acerca da estrutura social e de poder na sociedade brasileira.\n08) Mesmo com condições sociais distintas, Brás Cubas e Prudêncio possuem um aspecto em comum: o acesso ao estudo formal. Prudêncio, mesmo tendo nascido em contexto de escravidão, tornar-se-á um renomado contador e será o responsável pelas finanças do amigo Brás Cubas, em retribuição à ajuda obtida para que pudesse concluir seus estudos.\n16) Nascido e vivendo no Rio de Janeiro em pleno século XIX, o protagonista do romance é um representante da elite carioca da época. Mesmo tendo a oportunidade de cursar Direito na Europa, não necessitou dessa formação e nem do trabalho para seu sustento, fato do qual se gaba, uma vez que, graças a privilégios que possuía, viveu confortavelmente das rendas e posses herdadas.",
       subItens: []
     },
     options: [
@@ -1872,14 +1872,14 @@ createQuestion({
     university: "uem",
     year: 2021,
     text: {
-      principal: "Um biólogo esboçou no plano cartesiano um triângulo representando uma cadeia alimentar para um determinado ecossistema. Esse triângulo tem vértices na origem e nos pontos P(6, 3) e Q(2, 8). Assinale o que for correto.\n\n01) A área desse triângulo é calculada por |D|/2, em que D=det( (0,0,1), (6,3,1), (2,8,1) ).\n02) A reta de equação y = -4x contém um dos lados desse triângulo.\n04) Na representação de uma cadeia alimentar, no primeiro nível estão representados os organismos autotróficos.\n08) Se, nesse esboço, para delimitar o primeiro nível trófico da cadeia alimentar foi considerada a reta de equação y = (1/2)x + 3, então essa reta é paralela ao eixo das abcissas.\n16) A representação de uma cadeia alimentar por um triângulo também é denominada teia alimentar.",
+      principal: "Um biólogo esboçou no plano cartesiano um triângulo representando uma cadeia alimentar para um determinado ecossistema. Esse triângulo tem vértices na origem e nos pontos P(6, 3) e Q(2, 8). Assinale o que for correto.\n\n01) A área desse triângulo é calculada por |D|/2, em que D=det( (0,0,1), (6,3,1), (2,8,1) ).\n02) A reta de equação y = -4x contém um dos lados desse triângulo.\n04) Na representação de uma cadeia alimentar, no primeiro nível estão representados os organismos autotróficos.\n08) Se, nesse esboço, para delimitar o primeiro nível trófico da cadeia alimentar foi considerada a reta de equação y = ($1/2$)x + 3, então essa reta é paralela ao eixo das abcissas.\n16) A representação de uma cadeia alimentar por um triângulo também é denominada teia alimentar.",
       subItens: []
     },
     options: [
       "A área desse triângulo é calculada por |D|/2, em que D=det( (0,0,1), (6,3,1), (2,8,1) ).",
       "A reta de equação y = -4x contém um dos lados desse triângulo.",
       "Na representação de uma cadeia alimentar, no primeiro nível estão representados os organismos autotróficos.",
-      "Se, nesse esboço, para delimitar o primeiro nível trófico da cadeia alimentar foi considerada a reta de equação y = (1/2)x + 3, então essa reta é paralela ao eixo das abcissas.",
+      "Se, nesse esboço, para delimitar o primeiro nível trófico da cadeia alimentar foi considerada a reta de equação y = ($1/2$)x + 3, então essa reta é paralela ao eixo das abcissas.",
       "A representação de uma cadeia alimentar por um triângulo também é denominada teia alimentar."
     ],
     correctAnswer: 0,
@@ -2006,7 +2006,7 @@ createQuestion({
       "Os grupos funcionais amida, álcool, éster, cetona e éter estão presentes na estrutura do taxol.",
       "A estrutura do taxol pode ser classificada como cíclica.",
       "A estrutura do taxol apresenta 3 álcoois secundários e 1 amida primária.",
-      "O número de ligações pi presentes na estrutura do taxol é igual a 16."
+      "O número de ligações $\\pi$ presentes na estrutura do taxol é igual a 16."
     ],
     correctAnswer: 1,
     materia: ["Química"],
@@ -2172,7 +2172,7 @@ createQuestion({
     options: [
       "O intimismo é construído no poema a partir de elementos do mundo exterior, como montanhas, paredes, malhas, redes, que propiciam o salto para a interioridade, em que se encontra a preocupação com a precariedade da vida.",
       "O poema despreza as conquistas literárias de 22, especialmente a livre associação de ideias, e se fixa na vertente modernista da terceira geração, ao lado de obras de Clarice Lispector e de João Cabral de Melo Neto.",
-      "Elaborado com redondilhas maiores, que contribuem para a musicalidade, o poema apresenta símile (comparação) na segunda estrofe, corroborando a temática do desejo de liberdade do eu lírico: “Se a noite e o dia passassem/como nuvens, sem cadeias,\".",
+      "Elaborado com redondilhas maiores, que contribuem para a musicalidade, o poema apresenta símile (comparação) na segunda estrofe, corroborando a temática do desejo de liberdade do eu lírico: “Se a noite e o dia $passassem/como$ nuvens, sem cadeias,\".",
       "Com marcas evidentes da estética simbolista, como a perfeição formal, o poema busca o endeusamento do eu, como se nota no uso da hipérbole: \"Se a vida inteira não fosse,\"; do hipérbato: \"Eu tinha um cavalo de asas,\"; e da sinestesia: \"os fantasmas que persigo.\".",
       "O descontentamento com a falta de sentido da vida, expresso nos dois últimos versos da terceira estrofe (\"Se a vida inteira não fosse,/além de breve, perdida!\"), leva o eu lírico a admitir uma vida na qual seus sonhos pudessem se realizar."
     ],
@@ -2191,7 +2191,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Em relação ao gênero dramático ao qual pertence a obra, os trechos em itálico são classificados como rubricas, importante estratégia textual para orientar os atores/leitores, devido à ausência da figura de um narrador. Outro recurso estrutural para suprir essa ausência é o diálogo entre as personagens, por meio do discurso direto.",
+      "Em relação ao gênero dramático ao qual pertence a obra, os trechos em itálico são classificados como rubricas, importante estratégia textual para orientar os $atores/leitores$, devido à ausência da figura de um narrador. Outro recurso estrutural para suprir essa ausência é o diálogo entre as personagens, por meio do discurso direto.",
       "A temática social é central na obra em questão. O retrato da opressão da classe operária se personifica nas atitudes de Bráulio, ex-operário, que, após se tornar chefe da fábrica, contribui para que a exploração dos trabalhadores aumente ainda mais, motivo que deflagrará uma greve geral.",
       "Em meio a perseguições, agressões e prisões, apenas dois personagens pobres acabam se beneficiando com a greve. Tião, por não aderir a ela, é promovido, e Juvêncio, violeiro desempregado que, mesmo em condições precárias, acaba sendo contratado devido a algumas demissões de grevistas.",
       "A pequena quantidade e a simplicidade dos objetos que constituem a cena citada são importantes tanto para a caracterização da realidade social vivenciada pelas personagens, quanto para a adequação funcional na montagem da peça, projetada com estratégias do teatro popular.",

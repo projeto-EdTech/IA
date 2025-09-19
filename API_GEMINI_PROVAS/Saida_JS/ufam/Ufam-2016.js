@@ -239,7 +239,7 @@ createQuestion({
     },
     options: [
       "Faz a imaginação de um bem amado, Que nele se transforme o peito amante; Daqui vem, que a minha alma delirante Se não distingue já do meu cuidado.",
-      "Anjo no nome, Angélica na cara! Isso é ser flor, e anjo juntamente: Ser angélica flor e anjo florente, Em quem, senão em vós, se uniformara?",
+      "Anjo no nome, Angélica na cara! Isso é ser flor, e anjo juntamente: Ser angélica flor e anjo florente, Em quem, $\\sin$ão em vós, se uniformara?",
       "Este lugar delicioso e triste, Cansada de viver, tinha escolhido Para morrer a mísera Lindoia. Lá, reclinada, como que dormia, Na branda relva, e nas mimosas flores, Tinha a face na mão e a mão no tronco De um fúnebre cipreste, que espalhava Melancólica sombra.",
       "Ó que pão, ó que comida, Ó que divino manjar, Se nos dá no santo altar Cada dia! Filho da Virgem Maria, Que Deus-Padre cá mandou",
       "Eu sou aquele que os passados anos Cantei na minha lira maldizente Torpezas do Brasil, vícios e enganos. E bem que os descantei bastantemente, Canto segunda vez na mesma lira O mesmo assunto em plectro diferente."
@@ -351,7 +351,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["História"],
-    conteudo: ["Antiguidade Oriental (Israel/Hebreus)"],
+    conteudo: ["Antiguidade Oriental ($Israel/Hebreus$)"],
     imageNames: []
 }),
 
@@ -360,7 +360,7 @@ createQuestion({
     university: "ufam",
     year: 2016,
     text: {
-      principal: "\"Dentre os objetivos que me levaram a reunir o povo, há algum que não tenha concluído antes de me retirar? Quem poderia servir de testemunha, melhor do que ninguém, perante o tribunal do tempo, senão a grande Mãe dos Olímpicos, a Terra negra, da qual tirei, um dia, as cercas, em milhares de lugares, essa Terra, outrora escrava e, agora livre. Repatriei a Atenas, sua pátria fundada pelos deuses, muitos homens que haviam sido vendidos, ilegalmente ou não, outros, ainda, que foram levados ao exílio e que nem mais falavam a língua ática, como acontece quando vagamos por meio mundo. Outros, enfim, que aqui mesmo, viviam na escravidão infame, sofrendo os caprichos dos seus senhores, alforriei. Isso tudo o fiz pela força da lei, unindo a força bruta à justiça. Fui até o fim, como havia prometido. Além disso, proclamei leis, tanto para os maus como para os bons, aplicando para cada qual a reta justiça. Se alguém estivesse no meu lugar, alguém malvado e arrogante, não teria mantido o apoio popular. Se quisesse fazer o que agradava aos seus inimigos, ou, ao contrário, o que os adversários do povo tramavam contra aqueles, a cidade estaria, logo, viúva de um grande número dos seus. Por isso, juntando todas as minhas forças, combati como um lobo diante de uma matilha de cães\".\nARISTÓTELES, Constituição de Atenas, 12, 4.\nO texto retrata a apologia feita por um legislador ateniense, citada por Aristóteles na sua obra Constituição de Atenas. Identifique esse político em uma das alternativas a seguir:",
+      principal: "\"Dentre os objetivos que me levaram a reunir o povo, há algum que não tenha concluído antes de me retirar? Quem poderia servir de testemunha, melhor do que ninguém, perante o tribunal do tempo, $\\sin$ão a grande Mãe dos Olímpicos, a Terra negra, da qual tirei, um dia, as cercas, em milhares de lugares, essa Terra, outrora escrava e, agora livre. Repatriei a Atenas, sua pátria fundada pelos deuses, muitos homens que haviam sido vendidos, ilegalmente ou não, outros, ainda, que foram levados ao exílio e que nem mais falavam a língua ática, como acontece quando vagamos por meio mundo. Outros, enfim, que aqui mesmo, viviam na escravidão infame, sofrendo os caprichos dos seus senhores, alforriei. Isso tudo o fiz pela força da lei, unindo a força bruta à justiça. Fui até o fim, como havia prometido. Além disso, proclamei leis, tanto para os maus como para os bons, aplicando para cada qual a reta justiça. Se alguém estivesse no meu lugar, alguém malvado e arrogante, não teria mantido o apoio popular. Se quisesse fazer o que agradava aos seus inimigos, ou, ao contrário, o que os adversários do povo tramavam contra aqueles, a cidade estaria, logo, viúva de um grande número dos seus. Por isso, juntando todas as minhas forças, combati como um lobo diante de uma matilha de cães\".\nARISTÓTELES, Constituição de Atenas, 12, 4.\nO texto retrata a apologia feita por um legislador ateniense, citada por Aristóteles na sua obra Constituição de Atenas. Identifique esse político em uma das alternativas a seguir:",
       subItens: []
     },
     options: [
@@ -402,7 +402,7 @@ createQuestion({
     university: "ufam",
     year: 2016,
     text: {
-      principal: "O texto a seguir, da jornalista Luciana Coelho, foi publicado no Caderno de Turismo da Folha de São Paulo em 21/09/2006. Refere-se a Istambul, cidade turca com terras em dois continentes, que até já foi destaque em folhetim da Rede Globo que explorou o tráfico humano.\n\"[...] capital de dois impérios o bizantino e o otomano , Istambul aparece na história com os nomes de Bizâncio e Constantinopla [...]. É como se cada peça do mosaico, ou cada esquina, exalasse a história de uma época diferente [...]. Elementos, que à primeira vista parecem tão díspares, se encaixam à perfeição [...]. No atravessar de uma ponte [...] os gritos que convocam os muçulmanos para a reza confundem-se com o burburinho de uma rua comercial europeizada. De ambos os lados, véus coloridíssimos sobre a cabeça das muçulmanas perambulam junto a minissaias e maquiagem exagerada, como se o abismo Ocidente-Oriente que em outros pontos alimenta guerras aqui servisse apenas para explicar que a convivência [...] pode ser harmônica. Mais do que harmônica, cativante. Os istambulis são hospitaleiros e amigáveis – sorridentes, prontos para dar informações, conversar ou oferecer uma xícara de chá\".\nO que podemos afirmar sobre a história de Istambul na época em que ela se chamava Constantinopla?\nI. Teve o seu apogeu com o governo de Constantino, que ao rebatizá-la com o seu próprio nome, transformou na única capital do Império Romano em detrimento de Roma e Ravena.\nII. Foi palco da revolta de Niké (vitória), manifestação popular contra os altos impostos e o abuso de autoridade do imperador Justiniano.\nIII. Desempenhou papel fundamental no comércio entre Ocidente e Oriente durante todo o Medievo.\nIV. Jamais caiu nas mãos dos invasores \"bárbaros\" e os reis germânicos nunca substituíram os imperadores bizantinos.\nAssinale a alternativa correta:",
+      principal: "O texto a seguir, da jornalista Luciana Coelho, foi publicado no Caderno de Turismo da Folha de São Paulo em 21/09/2006. Refere-se a Istambul, cidade turca com terras em dois continentes, que até já foi destaque em folhetim da Rede Globo que explorou o tráfico humano.\n\"[...] capital de dois impérios o bizantino e o otomano , Istambul aparece na história com os nomes de Bizâncio e Constantinopla [...]. É como se cada peça do mosaico, ou cada esquina, exalasse a história de uma época diferente [...]. Elementos, que à primeira vista parecem tão díspares, se encaixam à perfeição [...]. No atravessar de uma ponte [...] os gritos que convocam os $\\mu$çulmanos para a reza confundem-se com o burburinho de uma rua comercial europeizada. De ambos os lados, véus coloridíssimos sobre a cabeça das $\\mu$çulmanas perambulam junto a minissaias e maquiagem exagerada, como se o abismo Ocidente-Oriente que em outros pontos alimenta guerras aqui servisse apenas para explicar que a convivência [...] pode ser harmônica. Mais do que harmônica, cativante. Os istambulis são hospitaleiros e amigáveis – sorridentes, prontos para dar informações, conversar ou oferecer uma xícara de chá\".\nO que podemos afirmar sobre a história de Istambul na época em que ela se chamava Constantinopla?\nI. Teve o seu apogeu com o governo de Constantino, que ao rebatizá-la com o seu próprio nome, transformou na única capital do Império Romano em detrimento de Roma e Ravena.\nII. Foi palco da revolta de Niké (vitória), manifestação popular contra os altos impostos e o abuso de autoridade do imperador Justiniano.\nIII. Desempenhou papel fundamental no comércio entre Ocidente e Oriente durante todo o Medievo.\nIV. Jamais caiu nas mãos dos invasores \"bárbaros\" e os reis germânicos nunca substituíram os imperadores bizantinos.\nAssinale a alternativa correta:",
       subItens: []
     },
     options: [
@@ -414,7 +414,7 @@ createQuestion({
     ],
     correctAnswer: 13,
     materia: ["História"],
-    conteudo: ["Império Bizantino (Constantinopla/Istambul)"],
+    conteudo: ["Império Bizantino ($Constantinopla/Istambul$)"],
     imageNames: []
 }),
 
@@ -423,7 +423,7 @@ createQuestion({
     university: "ufam",
     year: 2016,
     text: {
-      principal: "Imagem 01\nImagem 02\nAs imagens representam, respectivamente, o esboço das fachadas da catedral de Modena, na Itália e da catedral de Chartres, na França. Ao considerar as imagens, analise as afirmativas a seguir:\nI. A imagem 1 trata-se de um exemplo da arquitetura românica, surgida durante a Alta Idade Média na Europa Ocidental.\nII. A imagem 2 exemplifica o estilo gótico, nascido na Europa entre os séculos XI e XII, em plena dinâmica do sistema feudal.\nIII. Os elementos góticos da imagem 2 são produtos de uma sociedade efervescente, em que novas categorias sociais dedicadas ao artesanato e ao comércio estão em ascensão.\nIV. Na arte românica, representada pela figura 1 foram utilizados elementos tanto romanos e germânicos como também bizantinos, islâmicos e armênios, a fim de criar algo essencialmente original.\nV. Tanto a imagem 1 como a imagem 2 evocam o poder da Igreja, cuja sólida organização centralizada e rigidamente hierarquizada dominou o medievo europeu.\nAssinale a alternativa correta:",
+      principal: "Imagem 01\nImagem 02\nAs imagens representam, respectivamente, o esboço das fachadas da catedral de Modena, na Itália e da catedral de Chartres, na França. Ao considerar as imagens, analise as afirmativas a seguir:\nI. A imagem 1 trata-se de um exemplo da arquitetura românica, surgida durante a Alta Idade Média na Europa Ocidental.\nII. A imagem 2 exemplifica o estilo gótico, nascido na Europa entre os séculos $\\xi$ e XII, em plena dinâmica do sistema feudal.\nIII. Os elementos góticos da imagem 2 são produtos de uma sociedade efervescente, em que novas categorias sociais dedicadas ao artesanato e ao comércio estão em ascensão.\nIV. Na arte românica, representada pela figura 1 foram utilizados elementos tanto romanos e germânicos como também bizantinos, islâmicos e armênios, a fim de criar algo essencialmente original.\nV. Tanto a imagem 1 como a imagem 2 evocam o poder da Igreja, cuja sólida organização centralizada e rigidamente hierarquizada dominou o medievo europeu.\nAssinale a alternativa correta:",
       subItens: []
     },
     options: [
@@ -444,14 +444,14 @@ createQuestion({
     university: "ufam",
     year: 2016,
     text: {
-      principal: "A crise econômica dos séculos XIV-XV produziu uma profunda inquietação intelectual, que se traduziu, nos campos filosófico, artístico e literário, pela idéia de renovação cultural. Este fenômeno, parte integrante de um processo histórico mais amplo - o início da transição feudalismo/capitalismo iniciou-se nas Repúblicas Italianas, por volta de 1350, estendendo-se mais tarde, a outras áreas da Europa Ocidental. A expressão Renascimento é comumente utilizada para designar esta idéia de renovação, profundamente comprometida com a ressurreição das letras e das artes da Antiguidade Clássica, e que, segundo os humanistas da época renascentista, teria representado uma ruptura com a 'ignorância bárbara', que prevalecera durante a Idade Média. São características do movimento renascentista, EXCETO:",
+      principal: "A crise econômica dos séculos XIV-XV produziu uma profunda inquietação intelectual, que se traduziu, nos campos filosófico, artístico e literário, pela idéia de renovação cultural. Este fenômeno, parte integrante de um processo histórico mais amplo - o início da transição $feudalismo/capitalismo$ iniciou-se nas Repúblicas Italianas, por volta de 1350, estendendo-se mais tarde, a outras áreas da Europa Ocidental. A expressão Renascimento é comumente utilizada para designar esta idéia de renovação, profundamente comprometida com a ressurreição das letras e das artes da Antiguidade Clássica, e que, segundo os humanistas da época renascentista, teria representado uma ruptura com a 'ignorância bárbara', que prevalecera durante a Idade Média. São características do movimento renascentista, EXCETO:",
       subItens: []
     },
     options: [
       "A utilização das novas línguas nacionais, derivadas do latim, como o espanhol, o português, o francês e o italiano.",
       "A renovação do romance de cavalaria, valorizando o amor cortês.",
       "A valorização do hedonismo em detrimento do ascetismo e misticismo medievais.",
-      "A grande preocupação com a figura humana, valorizando-se o nu, além do realismo, da harmonia, do senso de equilíbrio e proporção na arte.",
+      "A grande preocupação com a figura humana, valorizando-se o $\\nu$, além do realismo, da harmonia, do senso de equilíbrio e proporção na arte.",
       "A busca de uma interpretação do mundo através de novas teorias como o racionalismo, fugindo às explicações religiosas do período anterior."
     ],
     correctAnswer: 1,
@@ -528,7 +528,7 @@ createQuestion({
     university: "ufam",
     year: 2016,
     text: {
-      principal: "GPS é a sigla do Sistema de Posicionamento Global. Por meio deste aparelho, podemos navegar e obter informações sobre os pontos da superfície terrestre. Sobre a utilização deste sistema é CORRETO afirmar que:\nI. É um sistema composto por três segmentos: o espacial na constelação de satélites em órbita das correntes aéreas, o controle terrestre, visto nas estações rodoviárias e os usuários, grupos sociais que utilizam a rede de localização.\nII. No inicio de 2010 existiam dois sistemas de operação: um norte americano, o NAVSTAR/GPS (Navigation Satellite with Time and Ranging) e um russo o GLONASS (Global Navigation Satellite System).\nIII. Durante a Guerra Fria, estes aparelhos foram usados, na corrida armamentista contra os países da União Soviética e o Vietnã.\nIV.O Galileo é um destes sistemas que está em fase inicial de desenvolvimento pela União Européia.\nAssinale a alternativa correta:",
+      principal: "GPS é a sigla do Sistema de Posicionamento Global. Por meio deste aparelho, podemos navegar e obter informações sobre os pontos da superfície terrestre. Sobre a utilização deste sistema é CORRETO afirmar que:\nI. É um sistema composto por três segmentos: o espacial na constelação de satélites em órbita das correntes aéreas, o controle terrestre, visto nas estações rodoviárias e os usuários, grupos sociais que utilizam a rede de localização.\nII. No inicio de 2010 existiam dois sistemas de operação: um norte americano, o $NAVSTAR/GPS$ (Navigation Satellite with Time and Ranging) e um russo o GLONASS (Global Navigation Satellite System).\nIII. Durante a Guerra Fria, estes aparelhos foram usados, na corrida armamentista contra os países da União Soviética e o Vietnã.\nIV.O Galileo é um destes sistemas que está em fase inicial de desenvolvimento pela União Européia.\nAssinale a alternativa correta:",
       subItens: []
     },
     options: [
@@ -553,7 +553,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Os movimentos de massa devem ser analisados considerando-se basicamente dois fatores: o material movimentado e a velocidade do movimento, que pode atingir desde alguns centímetros até 5 km/hora.",
+      "Os movimentos de massa devem ser analisados considerando-se basicamente dois fatores: o material movimentado e a velocidade do movimento, que pode atingir desde alguns centímetros até 5 $km/hora$.",
       "Este tipo de desastre é recorrente nas regiões metropolitanas, onde é comum a ocupação de morros para a moradia de populações de baixa renda, que se torna a mais atingida pelos movimentos de massa.",
       "A Defesa Civil pode fazer esclarecimentos para impedir novas ocupações em áreas de encostas e monitorar os índices pluviométricos locais para a prevenção de acidentes.",
       "Geralmente, ocorrem em vertentes e encostas, que apresentam declives não acentuados, tipicamente nas zonas constituídas por latossolos de regiões serranas situadas no Sudeste do Brasil.",
@@ -681,7 +681,7 @@ createQuestion({
     options: [
       "A partir da observação, o pesquisador buscará respostas a perguntas, como por exemplo: \"Por quê ocorre?\" ou \"Como ocorre?\" ou \"Qual a relação entre essa e aquela ocorrência?\". A curiosidade move o cientista na busca de respostas.",
       "Para tentar responder aos questionamentos, o pesquisador traçará algumas respostas, as quais são chamadas, no conjunto, de hipóteses. As hipóteses são baseadas no conhecimento já adquirido e devem ser passíveis de teste.",
-      "As deduções preveem o que pode acontecer se a hipótese estiver correta. Assim, testes experimentais e/ou novas observações são feitas para testar as hipóteses e averiguar se as deduções podem ser confirmadas ou refutadas.",
+      "As deduções preveem o que pode acontecer se a hipótese estiver correta. Assim, testes experimentais $e/ou$ novas observações são feitas para testar as hipóteses e averiguar se as deduções podem ser confirmadas ou refutadas.",
       "Teoria é um conjunto de conhecimentos que visam explicar e interpretar fenômenos abrangentes da natureza.",
       "Hipóteses podem ser confirmadas ou refutadas por meio de testes experimentais. A confiabilidade dos resultados obtidos tanto é maior quanto menores forem as repetições aplicadas aos testes."
     ],
@@ -864,7 +864,7 @@ createQuestion({
     university: "ufam",
     year: 2016,
     text: {
-      principal: "O italiano Galileu Galilei (1564-1642) observou que, desprezando a resistência do ar, todos os corpos caem com a mesma aceleração, não importando seu tamanho, peso ou constituição. Se a altura de queda não for muito grande, a aceleração de queda permanecerá constante durante todo o movimento. Este movimento ideal, no qual são desprezadas a resistência do ar e alguma variação da aceleração com a altitude, é chamado de queda livre. Seja a seguinte situação: por descuido, um operário deixa cair um martelo do alto de um prédio em construção e o martelo atinge o solo com velocidade de 72km/h. Considerando a situação de queda livre, podemos concluir que o martelo caiu de uma altura de I e demorou II para atingir o solo.\nEscolha a alternativa que completa as lacunas do texto:",
+      principal: "O italiano Galileu Galilei (1564-1642) observou que, desprezando a resistência do ar, todos os corpos caem com a mesma aceleração, não importando seu tamanho, peso ou constituição. Se a altura de queda não for muito grande, a aceleração de queda permanecerá constante durante todo o movimento. Este movimento ideal, no qual são desprezadas a resistência do ar e alguma variação da aceleração com a altitude, é chamado de queda livre. Seja a seguinte situação: por descuido, um operário deixa cair um martelo do alto de um prédio em construção e o martelo atinge o solo com velocidade de $72km/h$. Considerando a situação de queda livre, podemos concluir que o martelo caiu de uma altura de I e demorou II para atingir o solo.\nEscolha a alternativa que completa as lacunas do texto:",
       subItens: []
     },
     options: [
@@ -885,15 +885,15 @@ createQuestion({
     university: "ufam",
     year: 2016,
     text: {
-      principal: "Numa partida de futebol a bola é chutada a partir do chão com uma velocidade inicial de 20m/s, com o vetor velocidade de seu centro de massa fazendo um ângulo de 30° com gramado. No mesmo instante, um jogador do time, a 44,8m de distância, começa a correr na direção do ponto em que a bola foi chutada, de modo que alcance a bola imediatamente antes que toque o gramado. Nesta situação, para que este jogador consiga tocar na bola, deve correr numa velocidade média de:",
+      principal: "Numa partida de futebol a bola é chutada a partir do chão com uma velocidade inicial de $20m/s$, com o vetor velocidade de seu centro de massa fazendo um ângulo de 30° com gramado. No mesmo instante, um jogador do time, a 44,8m de distância, começa a correr na direção do ponto em que a bola foi chutada, de modo que alcance a bola imediatamente antes que toque o gramado. Nesta situação, para que este jogador consiga tocar na bola, deve correr numa velocidade média de:",
       subItens: []
     },
     options: [
-      "5 km/h",
-      "10 km/h",
-      "15 km/h",
-      "18 km/h",
-      "20 km/h"
+      "5 $km/h$",
+      "10 $km/h$",
+      "15 $km/h$",
+      "18 $km/h$",
+      "20 $km/h$"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -969,7 +969,7 @@ createQuestion({
     university: "ufam",
     year: 2016,
     text: {
-      principal: "Com o objetivo de combater a proliferação do mosquito transmissor da dengue, estão sendo produzidos em laboratório aedes aegyptis machos geneticamente modificados.\nEles possuem dois genes adicionais. Quando são soltos se reproduzem com fêmeas que vivem livres na natureza. Depois de cruzar elas vão produzir ovos, que se transformam em larvas e pupas, mas toda a nova geração de mosquitos vai morrer antes de se reproduzir. Com o passar do tempo, a população de aedes aegypti diminuirá drasticamente.\nSupondo que em um determinado bairro após a soltura destes mosquitos modificados, a diminuição da população de aedes aegypti se dá segundo a função N(t) = N₀e^(-t/5), onde N₀ indica a população inicial de mosquitos (t = 0) e t o tempo medido em meses.\nO tempo necessário para que a população de aedes aegypti neste bairro se reduza à metade é de:\nObs. Considere ln 2 = 0,7",
+      principal: "Com o objetivo de combater a proliferação do mosquito transmissor da dengue, estão sendo produzidos em laboratório aedes aegyptis machos geneticamente modificados.\nEles possuem dois genes adicionais. Quando são soltos se reproduzem com fêmeas que vivem livres na natureza. Depois de cruzar elas vão produzir ovos, que se transformam em larvas e pupas, mas toda a nova geração de mosquitos vai morrer antes de se reproduzir. Com o passar do tempo, a população de aedes aegypti diminuirá drasticamente.\nSupondo que em um determinado bairro após a soltura destes mosquitos modificados, a diminuição da população de aedes aegypti se dá segundo a função N(t) = N₀e^(-$t/5$), onde N₀ indica a população inicial de mosquitos (t = 0) e t o tempo medido em meses.\nO tempo necessário para que a população de aedes aegypti neste bairro se reduza à metade é de:\nObs. Considere ln 2 = 0,7",
       subItens: []
     },
     options: [
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "ufam",
     year: 2016,
     text: {
-      principal: "Fazendo uso do triangulo retângulo ABC da figura a seguir, considere as seguintes afirmações onde a,b,c∈° e 0<b<c<a.\nI. cos² α + sen²β = 1\nII. tga= 1 / tgβ\nIII. senα = cos β\nIV. cos α = cos β\nV. senα = b / a\nAssinale a alternativa correta:",
+      principal: "Fazendo uso do triangulo retângulo ABC da figura a seguir, considere as seguintes afirmações onde a,b,c∈° e 0<b<c<a.\nI. $\\cos$² α + $\\sin$²β = 1\nII. tga= 1 / $\\tan$β\nIII. $\\sin$α = $\\cos$ β\nIV. $\\cos$ α = $\\cos$ β\nV. $\\sin$α = b / a\nAssinale a alternativa correta:",
       subItens: []
     },
     options: [

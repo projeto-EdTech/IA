@@ -486,7 +486,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2021,
     text: {
-      principal: "A terra roxa estruturada é um solo mineral que apresenta cor vermelho-escura tendendo à arroxeada. É derivada do intemperismo de rochas básicas e ultrabásicas, ricas em minerais ferromagnesianos. Sua textura varia de argilosa a muito argilosa, sendo bastante porosa. Uma característica peculiar é que esse tipo de solo apresenta materiais que são atraídos pelo imã. Seus teores de óxido de ferro(III), Fe2O3, são elevados (superiores a 15%, em massa).\n(Disponível em: https://www.agencia.cnptia.embrapa.br. Adaptado)\nDe acordo com o texto, a massa do elemento ferro em 1,0 kg de terra roxa estruturada é, aproximadamente, de:\nDados:\nMassas molares (g/mol)\nO = 16,0\nFe = 55,8",
+      principal: "A terra roxa estruturada é um solo mineral que apresenta cor vermelho-escura tendendo à arroxeada. É derivada do intemperismo de rochas básicas e ultrabásicas, ricas em minerais ferromagnesianos. Sua textura varia de argilosa a muito argilosa, sendo bastante porosa. Uma característica peculiar é que esse tipo de solo apresenta materiais que são atraídos pelo imã. Seus teores de óxido de ferro(III), Fe2O3, são elevados (superiores a 15%, em massa).\n(Disponível em: https://www.agencia.cnptia.embrapa.br. Adaptado)\nDe acordo com o texto, a massa do elemento ferro em 1,0 kg de terra roxa estruturada é, aproximadamente, de:\nDados:\nMassas molares ($g/mol$)\nO = 16,0\nFe = 55,8",
       subItens: []
     },
     options: [
@@ -532,11 +532,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4√2/9 cm²",
-      "9√2/4 cm²",
-      "5√2/9 cm²",
-      "3√2/2 cm²",
-      "7√2/6 cm²"
+      "4√$2/9$ cm²",
+      "9√$2/4$ cm²",
+      "5√$2/9$ cm²",
+      "3√$2/2$ cm²",
+      "7√$2/6$ cm²"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -549,15 +549,15 @@ createQuestion({
     university: "puc-campinas",
     year: 2021,
     text: {
-      principal: "Atenção: Para responder às questões de números 27 a 30, considere o texto abaixo.\nNa audição humana, o limiar auditivo corresponde ao nível mínimo de pressão acústica necessária para, num ambiente silencioso, provocar uma sensação auditiva, a qual varia para cada ouvinte e para cada frequência. O limiar de desconforto corresponde ao nível mínimo de pressão acústica necessária para produzir uma sensação de dor.\nNas frequências audíveis, a área delimitada pelas curvas do limiar auditivo e do limiar de desconforto define o campo auditivo, que, para o ser humano, está compreendido entre uma pressão acústica de 0,02 mPa e 2.000 mPa. Estes valores do campo auditivo aplicam-se apenas para as frequências compreendidas entre 0,5 kHz e 8 kHz, região na qual a sensibilidade do sistema auditivo humano é maior. Para frequências inferiores e superiores é necessária uma pressão acústica muito superior para atingir o limiar auditivo.\nGráfico: Pressão acústica (mPa) versus Frequência (kHz), mostrando Limiar auditivo e Limiar de desconforto, com regiões de Infrassons e Ultrassons.\n(Disponível em: http://www.cochlea.eu/po/som/psicoacustica. Adaptado)\nO nível de pressão acústica LSPL, medido em dB SPL, é dado por LSPL = 20log10(P/P0) , em que P mPa é a pressão acústica e P0 = 0,02 mPa. Se o nível de pressão acústica é 65 dB SPL quando a pressão acústica é de P₁ mPa, então o nível de pressão acústica será de 25 dB SPL quando a pressão acústica, em mPa, for de:",
+      principal: "Atenção: Para responder às questões de números 27 a 30, considere o texto abaixo.\nNa audição humana, o limiar auditivo corresponde ao nível mínimo de pressão acústica necessária para, num ambiente silencioso, provocar uma sensação auditiva, a qual varia para cada ouvinte e para cada frequência. O limiar de desconforto corresponde ao nível mínimo de pressão acústica necessária para produzir uma sensação de dor.\nNas frequências audíveis, a área delimitada pelas curvas do limiar auditivo e do limiar de desconforto define o campo auditivo, que, para o ser humano, está compreendido entre uma pressão acústica de 0,02 mPa e 2.000 mPa. Estes valores do campo auditivo aplicam-se apenas para as frequências compreendidas entre 0,5 kHz e 8 kHz, região na qual a sensibilidade do sistema auditivo humano é maior. Para frequências inferiores e superiores é necessária uma pressão acústica muito superior para atingir o limiar auditivo.\nGráfico: Pressão acústica (mPa) versus Frequência (kHz), mostrando Limiar auditivo e Limiar de desconforto, com regiões de Infrassons e Ultrassons.\n(Disponível em: http://www.cochlea.eu/po/som/psicoacustica. Adaptado)\nO nível de pressão acústica LSPL, medido em dB SPL, é dado por LSPL = 20log10($P/P0$) , em que P mPa é a pressão acústica e P0 = 0,02 mPa. Se o nível de pressão acústica é 65 dB SPL quando a pressão acústica é de P₁ mPa, então o nível de pressão acústica será de 25 dB SPL quando a pressão acústica, em mPa, for de:",
       subItens: []
     },
     options: [
       "100P1",
-      "P1/10",
-      "P1/1000",
+      "$P1/10$",
+      "$P1/1000$",
       "10P1",
-      "P1/100"
+      "$P1/100$"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -612,7 +612,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2021,
     text: {
-      principal: "A pressão acústica corresponde à diferença entre as pressões nos dois lados da membrana timpânica e o sistema auditivo humano é altamente sensível a essa diferença de pressão. Considerando a massa específica da água igual a 1,0 × 10³ kg/m³ e a aceleração gravitacional igual a 10 m/s², a altura da coluna de água que exerce uma pressão hidrostática igual à pressão acústica correspondente ao limiar de desconforto para uma onda sonora de frequência 1,0 kHz é igual a:",
+      principal: "A pressão acústica corresponde à diferença entre as pressões nos dois lados da membrana timpânica e o sistema auditivo humano é altamente sensível a essa diferença de pressão. Considerando a massa específica da água igual a 1,0 × 10³ $kg/m$³ e a aceleração gravitacional igual a 10 $m/s$², a altura da coluna de água que exerce uma pressão hidrostática igual à pressão acústica correspondente ao limiar de desconforto para uma onda sonora de frequência 1,0 kHz é igual a:",
       subItens: []
     },
     options: [
@@ -633,7 +633,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2021,
     text: {
-      principal: "Eram 4h34 em Brasília, na madrugada desta segunda-feira [19/04/2021], quando o mini-helicóptero com massa 1,8 kg – o Ingenuity, da agência aeroespacial dos Estados Unidos – decolou da superfície de Marte até a altura de 3 metros, pairou no ar por alguns segundos e pousou suavemente pouco depois. Foi a primeira nave construída por humanos a executar, com sucesso, um voo motorizado em outro planeta.\nO voo representava um desafio porque o ar em Marte é muito rarefeito, o que torna a elevação muito mais difícil de alcançar, embora seja parcialmente favorecida pela atração gravitacional em Marte, que é um terço em relação à da Terra.\n(O Estado de S. Paulo, 20 abr. 2021. Adaptado)\nConsiderando que a aceleração gravitacional na superfície da Terra seja 10 m/s², a força de sustentação proporcionada pelas pás do helicóptero, enquanto ele estava parado e suspenso no ar em Marte, era igual a:",
+      principal: "Eram 4h34 em Brasília, na madrugada desta segunda-feira [19/04/2021], quando o mini-helicóptero com massa 1,8 kg – o Ingenuity, da agência aeroespacial dos Estados Unidos – decolou da superfície de Marte até a altura de 3 metros, pairou no ar por alguns segundos e pousou suavemente pouco depois. Foi a primeira nave construída por humanos a executar, com sucesso, um voo motorizado em outro planeta.\nO voo representava um desafio porque o ar em Marte é muito rarefeito, o que torna a elevação muito mais difícil de alcançar, embora seja parcialmente favorecida pela atração gravitacional em Marte, que é um terço em relação à da Terra.\n(O Estado de S. Paulo, 20 abr. 2021. Adaptado)\nConsiderando que a aceleração gravitacional na superfície da Terra seja 10 $m/s$², a força de sustentação proporcionada pelas pás do helicóptero, enquanto ele estava parado e suspenso no ar em Marte, era igual a:",
       subItens: []
     },
     options: [
@@ -801,7 +801,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2021,
     text: {
-      principal: "Considere o mapa abaixo.\nEvolução do processo \"X\" entre 1990 e 2016\nMapa Mundi com áreas em tons de verde/cinza representando categorias de 'Perda': ≥ 100.000, 50.000 a 100.000, 10.000 a 50.000, < 10.000, e áreas sem dados. Grandes perdas são visíveis no Brasil, África Central e Sudeste Asiático.\n(Disponível em: https://atlasocio.com/revue/environnement/2019)\nAs informações apresentadas referem-se ao processo de diminuição",
+      principal: "Considere o mapa abaixo.\nEvolução do processo \"X\" entre 1990 e 2016\nMapa Mundi com áreas em tons de $verde/cinza$ representando categorias de 'Perda': ≥ 100.000, 50.000 a 100.000, 10.000 a 50.000, < 10.000, e áreas sem dados. Grandes perdas são visíveis no Brasil, África Central e Sudeste Asiático.\n(Disponível em: https://atlasocio.com/revue/environnement/2019)\nAs informações apresentadas referem-se ao processo de diminuição",
       subItens: []
     },
     options: [

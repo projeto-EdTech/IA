@@ -24,7 +24,7 @@ createQuestion({
     university: "unesp",
     year: 2022,
     text: {
-      principal: "Para responder às questões de 02 a 08, leia o trecho do drama Macário, de Álvares de Azevedo.\nMACÁRIO (chega à janela): Ó mulher da casa! olá! ó de casa!\nUMA VOZ (de fora): Senhor!\nMACÁRIO: Desate a mala de meu burro e tragam-ma aqui...\nA VOZ: O burro?\nMACÁRIO: A mala, burro!\nA VOZ: A mala com o burro?\nMACÁRIO: Amarra a mala nas tuas costas e amarra o burro na cerca.\nA VOZ: O senhor é o moço que chegou primeiro?\nMACÁRIO: Sim. Mas vai ver o burro.\nA VOZ: Um moço que parece estudante?\nMACÁRIO: Sim. Mas anda com a mala.\nA VOZ: Mas como hei de ir buscar a mala? Quer que vá a pé?\nMACÁRIO: Esse diabo é doido! Vai a pé, ou monta numa vassoura como tua mãe!\nA VOZ: Descanse, moço. O burro há de aparecer. Quando madrugar iremos procurar.\nOUTRA VOZ: Havia de ir pelo caminho do Nhô Quito. Eu conheço o burro...\nMACÁRIO: E minha mala?\nA VOZ: Não vê? Está chovendo a potes!...\nMACÁRIO (fecha a janela): Malditos! (atira com uma cadeira no chão)\nO DESCONHECIDO: Que tendes, companheiro?\nMACÁRIO: Não vedes? O burro fugiu...\nO DESCONHECIDO: Não será quebrando cadeiras que o chamareis...\nMACÁRIO: Porém a raiva...\nO DESCONHECIDO: A mala não pareceu-me muito cheia. Senti alguma coisa sacolejar dentro. Alguma garrafa de vinho?\nMACÁRIO: Não! não! mil vezes não! Não concebeis, uma perda imensa, irreparável... era o meu cachimbo...\nO DESCONHECIDO: Fumais?\nMACÁRIO: Perguntai de que serve o tinteiro sem tinta, a viola sem cordas, o copo sem vinho, a noite sem mulher – não me pergunteis se fumo!\nO DESCONHECIDO (dá-lhe um cachimbo): Eis aí um cachimbo primoroso.\n[...] MACÁRIO: E vós?\nO DESCONHECIDO: Não vos importeis comigo. (tira outro cachimbo e fuma)\nMACÁRIO: Sois um perfeito companheiro de viagem. Vosso nome?\nO DESCONHECIDO: Perguntei-vos o vosso?\nMACÁRIO: O caso é que é preciso que eu pergunte primeiro. Pois eu sou um estudante. Vadio ou estudioso, talentoso ou estúpido, pouco importa. Duas palavras só: amo o fumo e odeio o Direito Romano. Amo as mulheres e odeio o romantismo.\nO DESCONHECIDO: Tocai! Sois um digno rapaz. (apertam a mão)\nMACÁRIO: Gosto mais de uma garrafa de vinho que de um poema, mais de um beijo que do soneto mais harmonioso. Quanto ao canto dos passarinhos, ao luar sonolento, às noites límpidas, acho isso sumamente insípido. Os passarinhos sabem só uma cantiga. O luar é sempre o mesmo. Esse mundo é monótono a fazer morrer de sono.\nO DESCONHECIDO: E a poesia?\nMACÁRIO: Enquanto era a moeda de ouro que corria só pela mão do rico, ia muito bem. Hoje trocou-se em moeda de cobre; não há mendigo, nem caixeiro de taverna que não tenha esse vintém azinhavrado¹. Entendeis-me?\nO DESCONHECIDO: Entendo. A poesia, de popular tornou-se vulgar e comum. Antigamente faziam-na para o povo; hoje o povo fá-la... para ninguém...\n(Álvares de Azevedo. Macário/Noite na taverna, 2002.)\n¹azinhavrado: coberto de azinhavre (camada de cor verde que se forma na superfície dos objetos de cobre ou latão, resultante da corrosão destes quando expostos ao ar úmido).\nPara Macário, a poesia deveria ser",
+      principal: "Para responder às questões de 02 a 08, leia o trecho do drama Macário, de Álvares de Azevedo.\nMACÁRIO (chega à janela): Ó mulher da casa! olá! ó de casa!\nUMA VOZ (de fora): Senhor!\nMACÁRIO: Desate a mala de meu burro e tragam-ma aqui...\nA VOZ: O burro?\nMACÁRIO: A mala, burro!\nA VOZ: A mala com o burro?\nMACÁRIO: Amarra a mala nas tuas costas e amarra o burro na cerca.\nA VOZ: O senhor é o moço que chegou primeiro?\nMACÁRIO: Sim. Mas vai ver o burro.\nA VOZ: Um moço que parece estudante?\nMACÁRIO: Sim. Mas anda com a mala.\nA VOZ: Mas como hei de ir buscar a mala? Quer que vá a pé?\nMACÁRIO: Esse diabo é doido! Vai a pé, ou monta numa vassoura como tua mãe!\nA VOZ: Descanse, moço. O burro há de aparecer. Quando madrugar iremos procurar.\nOUTRA VOZ: Havia de ir pelo caminho do Nhô Quito. Eu conheço o burro...\nMACÁRIO: E minha mala?\nA VOZ: Não vê? Está chovendo a potes!...\nMACÁRIO (fecha a janela): Malditos! (atira com uma cadeira no chão)\nO DESCONHECIDO: Que tendes, companheiro?\nMACÁRIO: Não vedes? O burro fugiu...\nO DESCONHECIDO: Não será quebrando cadeiras que o chamareis...\nMACÁRIO: Porém a raiva...\nO DESCONHECIDO: A mala não pareceu-me muito cheia. Senti alguma coisa sacolejar dentro. Alguma garrafa de vinho?\nMACÁRIO: Não! não! mil vezes não! Não concebeis, uma perda imensa, irreparável... era o meu cachimbo...\nO DESCONHECIDO: Fumais?\nMACÁRIO: Perguntai de que serve o tinteiro sem tinta, a viola sem cordas, o copo sem vinho, a noite sem mulher – não me pergunteis se fumo!\nO DESCONHECIDO (dá-lhe um cachimbo): Eis aí um cachimbo primoroso.\n[...] MACÁRIO: E vós?\nO DESCONHECIDO: Não vos importeis comigo. (tira outro cachimbo e fuma)\nMACÁRIO: Sois um perfeito companheiro de viagem. Vosso nome?\nO DESCONHECIDO: Perguntei-vos o vosso?\nMACÁRIO: O caso é que é preciso que eu pergunte primeiro. Pois eu sou um estudante. Vadio ou estudioso, talentoso ou estúpido, pouco importa. Duas palavras só: amo o fumo e odeio o Direito Romano. Amo as mulheres e odeio o romantismo.\nO DESCONHECIDO: Tocai! Sois um digno rapaz. (apertam a mão)\nMACÁRIO: Gosto mais de uma garrafa de vinho que de um poema, mais de um beijo que do soneto mais harmonioso. Quanto ao canto dos passarinhos, ao luar sonolento, às noites límpidas, acho isso sumamente insípido. Os passarinhos sabem só uma cantiga. O luar é sempre o mesmo. Esse mundo é monótono a fazer morrer de sono.\nO DESCONHECIDO: E a poesia?\nMACÁRIO: Enquanto era a moeda de ouro que corria só pela mão do rico, ia muito bem. Hoje trocou-se em moeda de cobre; não há mendigo, nem caixeiro de taverna que não tenha esse vintém azinhavrado¹. Entendeis-me?\nO DESCONHECIDO: Entendo. A poesia, de popular tornou-se vulgar e comum. Antigamente faziam-na para o povo; hoje o povo fá-la... para ninguém...\n(Álvares de Azevedo. Macá$rio/Noite$ na taverna, 2002.)\n¹azinhavrado: coberto de azinhavre (camada de cor verde que se forma na superfície dos objetos de cobre ou latão, resultante da corrosão destes quando expostos ao ar úmido).\nPara Macário, a poesia deveria ser",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "unesp",
     year: 2022,
     text: {
-      principal: "[O rei D. João III] ordenou que se povoasse esta província, repartindo as terras por pessoas que se lhe ofereceram para as povoarem e conquistarem à custa de sua fazenda, e dando a cada um 50 léguas por costa com todo o seu sertão [...]; são sismeiros das suas terras, e as repartem pelos moradores como querem, todavia movendo-se depois alguma dúvida sobre as datas, não são eles os juízes delas, senão o provedor da fazenda, nem os que as recebem de sesmaria têm obrigação de pagar que dízimo a Deus dos frutos que colhem [...].\n(Frei Vicente do Salvador. História do Brasil (1500-1627). In: www.dominiopublico.gov.br.)\nO excerto, do século XVII, caracteriza a",
+      principal: "[O rei D. João III] ordenou que se povoasse esta província, repartindo as terras por pessoas que se lhe ofereceram para as povoarem e conquistarem à custa de sua fazenda, e dando a cada um 50 léguas por costa com todo o seu sertão [...]; são sismeiros das suas terras, e as repartem pelos moradores como querem, todavia movendo-se depois alguma dúvida sobre as datas, não são eles os juízes delas, $\\sin$ão o provedor da fazenda, nem os que as recebem de sesmaria têm obrigação de pagar que dízimo a Deus dos frutos que colhem [...].\n(Frei Vicente do Salvador. História do Brasil (1500-1627). In: www.dominiopublico.gov.br.)\nO excerto, do século XVII, caracteriza a",
       subItens: []
     },
     options: [
@@ -872,7 +872,7 @@ createQuestion({
       "pelas constantes guerras civis e, mais recentemente, pela ação violenta de grupos armados, como o Boko Haram.",
       "pela opção da maior parte dos países de adotar regimes socialistas e pela falta de ajuda econômica das superpotências.",
       "pela interferência política das organizações não governamentais e pelas frequentes intervenções militares da ONU.",
-      "pelas violentas disputas étnicas e, mais recentemente, pela guinada muçulmana no sul do continente, liderada pelo Estado Islâmico."
+      "pelas violentas disputas étnicas e, mais recentemente, pela guinada $\\mu$çulmana no sul do continente, liderada pelo Estado Islâmico."
     ],
     correctAnswer: 1,
     materia: ["História"],
@@ -939,7 +939,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Geografia"],
-    conteudo: ["Transportes e logística"],
+    conteudo: ["Transportes e $\\log$ística"],
     imageNames: []
 }),
 
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "unesp",
     year: 2022,
     text: {
-      principal: "A partir do momento em que determinado espaço (periférico ou central, mas tido como degradado e desvalorizado) passa a ser incorporado pelas estratégias do mercado imobiliário, em geral articuladas com as do Estado, temos como tendência uma imanente possibilidade de conflito.\n(Glória da A. Alves. \"A mobilidade/imobilidade na produção do espaço metropolitano\". In: Ana F. A. Carlos et. al. (orgs.). A produção do espaço urbano, 2019.)\nNas cidades brasileiras, uma manifestação do conflito destacado no excerto é",
+      principal: "A partir do momento em que determinado espaço (periférico ou central, mas tido como degradado e desvalorizado) passa a ser incorporado pelas estratégias do mercado imobiliário, em geral articuladas com as do Estado, temos como tendência uma imanente possibilidade de conflito.\n(Glória da A. Alves. \"A $mobilidade/imobilidade$ na produção do espaço metropolitano\". In: Ana F. A. Carlos et. al. (orgs.). A produção do espaço urbano, 2019.)\nNas cidades brasileiras, uma manifestação do conflito destacado no excerto é",
       subItens: []
     },
     options: [
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "unesp",
     year: 2022,
     text: {
-      principal: "Todas as soluções aquosas cujos solutos estão indicados nas alternativas são de mesma concentração em mol/L. A solução que deve apresentar menor temperatura de congelamento é a de",
+      principal: "Todas as soluções aquosas cujos solutos estão indicados nas alternativas são de mesma concentração em $mol/L$. A solução que deve apresentar menor temperatura de congelamento é a de",
       subItens: []
     },
     options: [
@@ -1494,7 +1494,7 @@ createQuestion({
     university: "unesp",
     year: 2022,
     text: {
-      principal: "Certo spray antisséptico contém como princípio ativo o digliconato de clorexidina, na concentração de 10 mg/mL. Sabendo que a massa molar desse princípio ativo é, aproximadamente, 5,0 × 10² g/mol e que a constante de Avogadro é igual a 6,0 × 10²³ mol⁻¹, o número de moléculas de digliconato de clorexidina presentes em um frasco contendo 50 mL desse antisséptico é",
+      principal: "Certo spray antisséptico contém como princípio ativo o digliconato de clorexidina, na concentração de 10 $mg/mL$. Sabendo que a massa molar desse princípio ativo é, aproximadamente, 5,0 × 10² $g/mol$ e que a constante de Avogadro é igual a 6,0 × 10²³ mol⁻¹, o número de moléculas de digliconato de clorexidina presentes em um frasco contendo 50 mL desse antisséptico é",
       subItens: []
     },
     options: [
@@ -1536,7 +1536,7 @@ createQuestion({
     university: "unesp",
     year: 2022,
     text: {
-      principal: "O equilíbrio químico representado a seguir se estabelece durante o processo de reforma do gás natural para produção de hidrogênio.\nCH₄ (g) + H₂O (g) ⇌ CO (g) + 3H₂ (g) ;\nΔH = + 52,4 kcal/mol de CH₄\nConsidere os seguintes procedimentos:\n1. Aumento de pressão.\n2. Aumento de temperatura.\n3. Adição de catalisador.\n4. Remoção de monóxido de carbono.\nEntre esses procedimentos, os que propiciam o aumento do rendimento de produção de hidrogênio no equilíbrio são",
+      principal: "O equilíbrio químico representado a seguir se estabelece durante o processo de reforma do gás natural para produção de hidrogênio.\nCH₄ (g) + H₂O (g) ⇌ CO (g) + 3H₂ (g) ;\nΔH = + 52,4 $kcal/mol$ de CH₄\nConsidere os seguintes procedimentos:\n1. Aumento de pressão.\n2. Aumento de temperatura.\n3. Adição de catalisador.\n4. Remoção de monóxido de carbono.\nEntre esses procedimentos, os que propiciam o aumento do rendimento de produção de hidrogênio no equilíbrio são",
       subItens: []
     },
     options: [
@@ -1582,11 +1582,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4,0 cm/s.",
-      "1,8 cm/s.",
-      "3,0 cm/s.",
-      "3,6 cm/s.",
-      "2,4 cm/s."
+      "4,0 $cm/s$.",
+      "1,8 $cm/s$.",
+      "3,0 $cm/s$.",
+      "3,6 $cm/s$.",
+      "2,4 $cm/s$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -1641,7 +1641,7 @@ createQuestion({
     university: "unesp",
     year: 2022,
     text: {
-      principal: "Em um experimento de calorimetria realizado no nível do mar, um estudante colocou 600 g de água a 10 °C e 100 g de gelo a –40 °C em um calorímetro ideal, onde já existiam 800 g de água a 5 °C, em equilíbrio térmico com o calorímetro.\n[ESQUEMA DO CALORÍMETRO]\nSabendo que o calor específico da água líquida é 1 cal/(g °C), que o calor específico do gelo é 0,5 cal/(g °C) e que o calor latente de fusão do gelo é 80 cal/g, depois de atingido o novo equilíbrio térmico havia, dentro do calorímetro,",
+      principal: "Em um experimento de calorimetria realizado no nível do mar, um estudante colocou 600 g de água a 10 °C e 100 g de gelo a –40 °C em um calorímetro ideal, onde já existiam 800 g de água a 5 °C, em equilíbrio térmico com o calorímetro.\n[ESQUEMA DO CALORÍMETRO]\nSabendo que o calor específico da água líquida é 1 cal/(g °C), que o calor específico do gelo é 0,5 cal/(g °C) e que o calor latente de fusão do gelo é 80 $cal/g$, depois de atingido o novo equilíbrio térmico havia, dentro do calorímetro,",
       subItens: []
     },
     options: [

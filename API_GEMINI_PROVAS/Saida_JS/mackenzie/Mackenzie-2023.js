@@ -192,7 +192,7 @@ createQuestion({
     university: "mackenzie",
     year: 2023,
     text: {
-      principal: "Panis et Circenses\nEu quis cantar\nMinha canção iluminada de sol\nSoltei os panos sobre os mastros no ar\nsoltei os tigres e os leões nos quintais\nMas as pessoas da sala de jantar\nSão preocupadas em nascer e morrer\nMandei fazer de puro aço luminoso um punhal\nPara matar o meu amor e matei\nÀs sete horas na avenida central\nMas as pessoas da sala de jantar\nSão preocupadas em nascer e morrer\nMandei plantar\nfolhas de sonho no jardim do solar\nas folhas sabem procurar pelo sol\ne as raízes procurar, procurar\nMas as pessoas na sala de jantar\nEssas pessoas na sala de jantar\nSão as pessoas da sala de jantar\nMas as pessoas na sala de jantar\nSão preocupadas em nascer e morrer\nEssas pessoas na sala de jantar\nEssas pessoas na sala de jantar\nEssas pessoas na sala de jantar\nEssas pessoas\nGilberto Gil e Caetano Veloso\n\nSobre a letra da canção \"Panis et Circenses\", de Gilberto Gil e Caetano Veloso, leia as afirmações abaixo.\nI. A letra da canção como um todo representa visão nacionalista da realidade brasileira. Os versos Mas as pessoas na sala de jantar / São preocupadas em nascer e morrer celebram a tradicional família brasileira dos anos 1960.\nII. Os versos Mas as pessoas na sala de jantar / São preocupadas em nascer e morrer não podem ser considerados um refrão, recurso textual típico desse tipo de expressão musical.\nIII. A letra fala sobre o conflito entre a liberdade da imaginação, a liberdade dos nossos desejos e o peso da tradição, representado na repetição dos versos Mas as pessoas na sala de jantar/São preocupadas em nascer e morrer.\nAssinale a alternativa correta.",
+      principal: "Panis et Circenses\nEu quis cantar\nMinha canção iluminada de sol\nSoltei os panos sobre os mastros no ar\nsoltei os tigres e os leões nos quintais\nMas as pessoas da sala de jantar\nSão preocupadas em nascer e morrer\nMandei fazer de puro aço luminoso um punhal\nPara matar o meu amor e matei\nÀs sete horas na avenida central\nMas as pessoas da sala de jantar\nSão preocupadas em nascer e morrer\nMandei plantar\nfolhas de sonho no jardim do solar\nas folhas sabem procurar pelo sol\ne as raízes procurar, procurar\nMas as pessoas na sala de jantar\nEssas pessoas na sala de jantar\nSão as pessoas da sala de jantar\nMas as pessoas na sala de jantar\nSão preocupadas em nascer e morrer\nEssas pessoas na sala de jantar\nEssas pessoas na sala de jantar\nEssas pessoas na sala de jantar\nEssas pessoas\nGilberto Gil e Caetano Veloso\n\nSobre a letra da canção \"Panis et Circenses\", de Gilberto Gil e Caetano Veloso, leia as afirmações abaixo.\nI. A letra da canção como um todo representa visão nacionalista da realidade brasileira. Os versos Mas as pessoas na sala de jantar / São preocupadas em nascer e morrer celebram a tradicional família brasileira dos anos 1960.\nII. Os versos Mas as pessoas na sala de jantar / São preocupadas em nascer e morrer não podem ser considerados um refrão, recurso textual típico desse tipo de expressão musical.\nIII. A letra fala sobre o conflito entre a liberdade da imaginação, a liberdade dos nossos desejos e o peso da tradição, representado na repetição dos versos Mas as pessoas na sala de $jantar/S$ão preocupadas em nascer e morrer.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -305,7 +305,7 @@ createQuestion({
       "The sign says that because the person is retired and lived a long life, she knows a lot of things and has a lot of time to talk about it.",
       "The sign says that the cause of retirement was plenty of time and knowing too much.",
       "The sign says that the effect of retirement is knowing everything and having plenty of time.",
-      "The sign says that although the person is retired, he/she knows everything and has a lot of time to talk."
+      "The sign says that although the person is retired, $he/she$ knows everything and has a lot of time to talk."
     ],
     correctAnswer: 1,
     materia: ["Inglês"],
@@ -318,15 +318,15 @@ createQuestion({
     university: "mackenzie",
     year: 2023,
     text: {
-      principal: "Em uma estação de esqui, um snowboarder desliza morro acima em uma ladeira com uma inclinação θ com a horizontal, sem utilizar qualquer propulsão externa. O snowboard é feito de madeira encerada, o que influencia o atrito entre o snowboard e a neve molhada. Dado um coeficiente de atrito de 0,1, calcule a desaceleração experimentada pelo snowboarder enquanto ele perde velocidade e sobe a ladeira sem impulso adicional.\nDados: g = 10 m/s²\nsen θ = 0,30\ncos θ = 0,95",
+      principal: "Em uma estação de esqui, um snowboarder desliza morro acima em uma ladeira com uma inclinação θ com a horizontal, sem utilizar qualquer propulsão externa. O snowboard é feito de madeira encerada, o que influencia o atrito entre o snowboard e a neve molhada. Dado um coeficiente de atrito de 0,1, calcule a desaceleração experimentada pelo snowboarder enquanto ele perde velocidade e sobe a ladeira sem impulso adicional.\nDados: g = 10 $m/s$²\n$\\sin$ θ = 0,30\n$\\cos$ θ = 0,95",
       subItens: []
     },
     options: [
-      "3,95 m/s²",
-      "2,0 m/s²",
-      "5,0 m/s²",
-      "8,0 m/s²",
-      "3,0 m/s²"
+      "3,95 $m/s$²",
+      "2,0 $m/s$²",
+      "5,0 $m/s$²",
+      "8,0 $m/s$²",
+      "3,0 $m/s$²"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -339,7 +339,7 @@ createQuestion({
     university: "mackenzie",
     year: 2023,
     text: {
-      principal: "Um grupo de estudantes de física decide realizar uma atividade prática ao ar livre para entender melhor o movimento de projéteis e locupletar seu conhecimento sobre o assunto. Eles escolhem uma ponte sobre um rio para realizar o experimento e lançam uma pedra para cima a partir da ponte a uma altura inicial de 8 metros acima da água. A pedra é lançada com uma velocidade inicial v₀ e um ângulo de 30° em relação à vertical. Considere a aceleração da gravidade como 10 m/s². A pedra atinge seu ponto mais alto em 2 segundos.\nA altura da pedra acima da água no ponto mais alto é igual a",
+      principal: "Um grupo de estudantes de física decide realizar uma atividade prática ao ar livre para entender melhor o movimento de projéteis e locupletar seu conhecimento sobre o assunto. Eles escolhem uma ponte sobre um rio para realizar o experimento e lançam uma pedra para cima a partir da ponte a uma altura inicial de 8 metros acima da água. A pedra é lançada com uma velocidade inicial v₀ e um ângulo de 30° em relação à vertical. Considere a aceleração da gravidade como 10 $m/s$². A pedra atinge seu ponto mais alto em 2 segundos.\nA altura da pedra acima da água no ponto mais alto é igual a",
       subItens: []
     },
     options: [
@@ -360,7 +360,7 @@ createQuestion({
     university: "mackenzie",
     year: 2023,
     text: {
-      principal: "Um pneu de carro contém 0,04 m³ de nitrogênio (N₂) sob uma pressão de 2,20 × 10⁵ N/m² (aproximadamente 32 psi). Quanta energia interna a mais esse gás possui em comparação com o mesmo volume à pressão atmosférica normal de 1 atm?\nAdote: 1 atm = 10⁵ N/m²",
+      principal: "Um pneu de carro contém 0,04 m³ de nitrogênio (N₂) sob uma pressão de 2,20 × 10⁵ $N/m$² (aproximadamente 32 $\\psi$). Quanta energia interna a mais esse gás possui em comparação com o mesmo volume à pressão atmosférica normal de 1 atm?\nAdote: 1 atm = 10⁵ $N/m$²",
       subItens: []
     },
     options: [
@@ -402,7 +402,7 @@ createQuestion({
     university: "mackenzie",
     year: 2023,
     text: {
-      principal: "Em um ambiente onde o campo elétrico é uniforme e tem intensidade próxima a 3,0 x 10⁶ N/C, observa-se a ocorrência de faíscas, uma vez que o ar passa a ionizar-se, permitindo o fluxo de cargas.\nConsiderando essas condições, determine a distância que um próton, partindo do estado de repouso, deve percorrer dentro deste campo elétrico para alcançar 3,00% da velocidade da luz.\nAssuma que a razão entre a carga e a massa de um próton vale aproximadamente 10⁸ e a velocidade da luz vale 3 × 10⁸ m/s.",
+      principal: "Em um ambiente onde o campo elétrico é uniforme e tem intensidade próxima a 3,0 x 10⁶ $N/C$, observa-se a ocorrência de faíscas, uma vez que o ar passa a ionizar-se, permitindo o fluxo de cargas.\nConsiderando essas condições, determine a distância que um próton, partindo do estado de repouso, deve percorrer dentro deste campo elétrico para alcançar 3,00% da velocidade da luz.\nAssuma que a razão entre a carga e a massa de um próton vale aproximadamente 10⁸ e a velocidade da luz vale 3 × 10⁸ $m/s$.",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "mackenzie",
     year: 2023,
     text: {
-      principal: "Ao avaliar o peso de atletas em competições esportivas, é comum o uso de balanças com molas. Essas balanças funcionam com base na Lei de Hooke, na qual a mola é comprimida de acordo com a carga aplicada sobre ela. Considere que uma balança, que fica sobre uma superfície horizontal, tenha uma mola de constante elástica igual a 160000 N/m.\nUm atleta se pesa nessa balança e comprime a mola em 0,50 cm. Com base nessa informação, a massa deste atleta é igual a\nDados: Considere aceleração da gravidade como 10 m/s².",
+      principal: "Ao avaliar o peso de atletas em competições esportivas, é comum o uso de balanças com molas. Essas balanças funcionam com base na Lei de Hooke, na qual a mola é comprimida de acordo com a carga aplicada sobre ela. Considere que uma balança, que fica sobre uma superfície horizontal, tenha uma mola de constante elástica igual a 160000 $N/m$.\nUm atleta se pesa nessa balança e comprime a mola em 0,50 cm. Com base nessa informação, a massa deste atleta é igual a\nDados: Considere aceleração da gravidade como 10 $m/s$².",
       subItens: []
     },
     options: [
@@ -654,7 +654,7 @@ createQuestion({
     university: "mackenzie",
     year: 2023,
     text: {
-      principal: "Se\nx = 2 • sen u\ny = 2 • cos u\nu ∈ R, são equações paramétricas, então podemos afirmar que elas determinam",
+      principal: "Se\nx = 2 • $\\sin$ u\ny = 2 • $\\cos$ u\nu ∈ R, são equações paramétricas, então podemos afirmar que elas determinam",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "mackenzie",
     year: 2023,
     text: {
-      principal: "O carrossel, comum em parques de diversões, é um brinquedo constituído por uma plataforma circular giratória na qual são instalados cavalos de madeira ou de outro material. Estes ficam sobre postes de metal e fazem o movimento de \"sobe e desce\" enquanto a plataforma gira descrevendo um movimento que obedece à lei h = (3/2) • sen (2/3 t), em que h é a altura, em metros, atingida pelo cavalo no instante t (t ≥ 0), medido em segundos. Nessas condições, a altura máxima atingida pelo cavalo e o momento em que isso ocorre pela primeira vez a partir do instante t = 0 s são, respectivamente,",
+      principal: "O carrossel, comum em parques de diversões, é um brinquedo constituído por uma plataforma circular giratória na qual são instalados cavalos de madeira ou de outro material. Estes ficam sobre postes de metal e fazem o movimento de \"sobe e desce\" enquanto a plataforma gira descrevendo um movimento que obedece à lei h = ($3/2$) • $\\sin$ ($2/3$ t), em que h é a altura, em metros, atingida pelo cavalo no instante t (t ≥ 0), medido em segundos. Nessas condições, a altura máxima atingida pelo cavalo e o momento em que isso ocorre pela primeira vez a partir do instante t = 0 s são, respectivamente,",
       subItens: []
     },
     options: [
@@ -885,7 +885,7 @@ createQuestion({
     university: "mackenzie",
     year: 2023,
     text: {
-      principal: "Leia o texto abaixo:\nAnvisa aprova nova vacina contra a dengue\nA vacina Qdenga, da empresa Takeda, está indicada para uso entre quatro e 60 anos de idade.\nPublicado em 02/03/2023 20h10 Atualizado em 16/03/2023 11h30\nA Anvisa aprovou nesta quinta-feira (2/3), por meio da Resolução RE 661/23, o registro de uma nova vacina para a prevenção da dengue. A vacina Qdenga, da empresa Takeda Pharma Ltda., é composta por quatro diferentes sorotipos do vírus causador da doença, conferindo assim uma ampla proteção contra a dengue.\n(...)\nA vacina Qdenga é a primeira aprovada no Brasil para um público mais amplo (de quatro a 60 anos de idade). O imunizante aprovado anteriormente (Dengvaxia) só pode ser utilizada por quem já teve dengue.\nFonte: https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2023/anvisa-aprova-nova-vacina-para-a-dengue\nLevando em consideração as informações do texto e o fato de que temos em média no Brasil 1,2 milhões de casos por ano, dos quais de 5 a 10% evoluem para a forma grave e 0,5% resultam em óbito, a importância da inclusão da dengue no calendário vacinal brasileiro",
+      principal: "Leia o texto abaixo:\nAnvisa aprova nova vacina contra a dengue\nA vacina Qdenga, da empresa Takeda, está indicada para uso entre quatro e 60 anos de idade.\nPublicado em 02/03/2023 20h10 Atualizado em 16/03/2023 11h30\nA Anvisa aprovou nesta quinta-feira ($2/3$), por meio da Resolução RE $661/23$, o registro de uma nova vacina para a prevenção da dengue. A vacina Qdenga, da empresa Takeda Pharma Ltda., é composta por quatro diferentes sorotipos do vírus causador da doença, conferindo assim uma ampla proteção contra a dengue.\n(...)\nA vacina Qdenga é a primeira aprovada no Brasil para um público mais amplo (de quatro a 60 anos de idade). O imunizante aprovado anteriormente (Dengvaxia) só pode ser utilizada por quem já teve dengue.\nFonte: https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2023/anvisa-aprova-nova-vacina-para-a-dengue\nLevando em consideração as informações do texto e o fato de que temos em média no Brasil 1,2 milhões de casos por ano, dos quais de 5 a 10% evoluem para a forma grave e 0,5% resultam em óbito, a importância da inclusão da dengue no calendário vacinal brasileiro",
       subItens: []
     },
     options: [

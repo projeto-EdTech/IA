@@ -112,9 +112,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "cir-cuns-pec-to — psi-qui-a-tri-a - bi-sa-vô – su-ble-var",
+      "cir-cuns-pec-to — $\\psi$-qui-a-tri-a - bi-sa-vô – su-ble-var",
       "ji-boi-a - i-mun-dí-cie tran-sa-ma-zô-ni-co – flui-do",
-      "per-do-o ex-ces-so – mai-or – Pi-au-í",
+      "per-do-o ex-ces-so – mai-or – $\\pi$-au-í",
       "ab-rup-ta-men-te nas-cer – Qué-ops - tungs-tê-nio",
       "quart-zo ca-a-tin-ga pneu-mo-tó-rax i-guais"
     ],
@@ -200,7 +200,7 @@ createQuestion({
       "O Papa Pio XII dirigiu a Igreja Católica até o ano de sua morte. (doze)",
       "Inscreveram-se no concurso 2387 candidatos. (dois mil e trezentos e oitenta e sete)",
       "Aluguei um apartamento no andar 9 de um condomínio fechado. (nove)",
-      "1/15 dos eleitores não compareceu às eleições. (um quinze avos)"
+      "$1/15$ dos eleitores não compareceu às eleições. (um quinze avos)"
     ],
     correctAnswer: 2,
     materia: ["Língua Portuguesa"],
@@ -360,7 +360,7 @@ createQuestion({
     university: "ufam",
     year: 2020,
     text: {
-      principal: "Sobre as civilizações/povos da antiguidade, assinale a alternativa INCORRETA:",
+      principal: "Sobre as civilizaçõ$es/povos$ da antiguidade, assinale a alternativa INCORRETA:",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "ufam",
     year: 2020,
     text: {
-      principal: "\"A História da África é importante para nós brasileiros porque ajuda a explicar-nos. Mas é importante também por seu valor próprio e porque nos faz melhor compreender o grande continente que fica em nossa fronteira leste e de onde proveio quase a metade dos nossos antepassados.\"\n(SILVA, Alberto da Costa. Um rio chamado Atlântico: África no Brasil e o Brasil na África. Rio de Janeiro: Nova Fronteira/UFRJ, 2003, p. 240)\nO autor do excerto acima destaca a importância dos estudos sobre as Áfricas, não apenas para a compreensão da(s) identidade(s) brasileira(s), uma vez que nossas raízes estão profundamente entrelaçadas, mas também porque desmistifica a ideia de homogeneidade daquele vasto continente, desconstruindo memórias unívocas e equivocadas e valorizando suas histórias.\nDentre as afirmativas a seguir, relacionadas à História das Áfricas, assinale a alternativa INCORRETA:",
+      principal: "\"A História da África é importante para nós brasileiros porque ajuda a explicar-nos. Mas é importante também por seu valor próprio e porque nos faz melhor compreender o grande continente que fica em nossa fronteira leste e de onde proveio quase a metade dos nossos antepassados.\"\n(SILVA, Alberto da Costa. Um rio chamado Atlântico: África no Brasil e o Brasil na África. Rio de Janeiro: Nova $Fronteira/UFRJ$, 2003, p. 240)\nO autor do excerto acima destaca a importância dos estudos sobre as Áfricas, não apenas para a compreensão da(s) identidade(s) brasileira(s), uma vez que nossas raízes estão profundamente entrelaçadas, mas também porque desmistifica a ideia de homogeneidade daquele vasto continente, desconstruindo memórias unívocas e equivocadas e valorizando suas histórias.\nDentre as afirmativas a seguir, relacionadas à História das Áfricas, assinale a alternativa INCORRETA:",
       subItens: []
     },
     options: [
@@ -822,7 +822,7 @@ createQuestion({
     university: "ufam",
     year: 2020,
     text: {
-      principal: "O pai de João o leva de carro até a escola, sempre respeitando as leis de trânsito. Quando João ingressou no ensino médio e começou a ter aulas de Física, afirmou, numa discussão com o pai, que se a velocidade média do carro fosse três vezes maior, eles chegariam ao destino três vezes mais rápido. Para testar se o filho está correto, o pai foi com o carro para uma pista controlada e realizou os seguintes testes: (1) com o carro em movimento retilíneo e uniforme, partiu do ponto A e chegou ao ponto B às 11h30min. (2) ainda em movimento retilíneo e uniforme e ajustando o horário para a situação anterior, triplicou a velocidade do carro e, partindo do ponto A, chegou ao ponto B às 09h30min.\nSejam as afirmativas:\nI. O carro saiu do ponto A às 8h30min.\nII. Partindo do ponto A na velocidade de 11m/s e, depois, na velocidade de 33m/s, é possível concluir que a distância entre os pontos A e B é de 118,8km.\nIII. A velocidade em ambos os casos não foi constante.\nAssinale a alternativa correta:",
+      principal: "O pai de João o leva de carro até a escola, sempre respeitando as leis de trânsito. Quando João ingressou no ensino médio e começou a ter aulas de Física, afirmou, numa discussão com o pai, que se a velocidade média do carro fosse três vezes maior, eles chegariam ao destino três vezes mais rápido. Para testar se o filho está correto, o pai foi com o carro para uma pista controlada e realizou os seguintes testes: (1) com o carro em movimento retilíneo e uniforme, partiu do ponto A e chegou ao ponto B às 11h30min. (2) ainda em movimento retilíneo e uniforme e ajustando o horário para a situação anterior, triplicou a velocidade do carro e, partindo do ponto A, chegou ao ponto B às 09h30min.\nSejam as afirmativas:\nI. O carro saiu do ponto A às 8h30min.\nII. Partindo do ponto A na velocidade de $11m/s$ e, depois, na velocidade de $33m/s$, é possível concluir que a distância entre os pontos A e B é de 118,8km.\nIII. A velocidade em ambos os casos não foi constante.\nAssinale a alternativa correta:",
       subItens: []
     },
     options: [
@@ -868,11 +868,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "0,50 m/s²",
-      "1,0 m/s²",
-      "1,5 m/s²",
-      "2,0 m/s²",
-      "0 m/s², pois o homem não irá erguer o sistema com essa força."
+      "0,50 $m/s$²",
+      "1,0 $m/s$²",
+      "1,5 $m/s$²",
+      "2,0 $m/s$²",
+      "0 $m/s$², pois o homem não irá erguer o sistema com essa força."
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -906,15 +906,15 @@ createQuestion({
     university: "ufam",
     year: 2020,
     text: {
-      principal: "Considere a sequência de números reais não nulos:\n5/2, 9/4, 2,...\nA diferença entre o sétimo e o primeiro termo dessa progressão aritmética é igual a:",
+      principal: "Considere a sequência de números reais não nulos:\n$5/2$, $9/4$, 2,...\nA diferença entre o sétimo e o primeiro termo dessa progressão aritmética é igual a:",
       subItens: []
     },
     options: [
-      "-3/2",
-      "-7/2",
-      "7/4",
+      "-$3/2$",
+      "-$7/2$",
+      "$7/4$",
       "1",
-      "3/4"
+      "$3/4$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1015,10 +1015,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2 e 0",
-      "1/2 e 2",
+      "$1/2$ e 0",
+      "$1/2$ e 2",
       "1 e 1",
-      "2 e 1/2",
+      "2 e $1/2$",
       "2 e 1"
     ],
     correctAnswer: 1,
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "ufam",
     year: 2020,
     text: {
-      principal: "Maria foi internada num hospital e recebeu, ao meio dia, uma injeção com 10mg (dez miligramas) de determinado remédio. A bula do remédio informa que o organismo elimina naturalmente metade da quantidade do remédio presente em cada período de 4 horas. Sendo assim, pode-se concluir que a quantidade Q do remédio presente no organismo de Maria após t horas é dada pela função exponencial: Q(t) = 10 × (0,5)t/4. Considerando √2 = 1,41, podemos afirmar que 2 horas após a aplicação, a quantidade do remédio presente na paciente será de aproximadamente:",
+      principal: "Maria foi internada num hospital e recebeu, ao meio dia, uma injeção com 10mg (dez miligramas) de determinado remédio. A bula do remédio informa que o organismo elimina naturalmente metade da quantidade do remédio presente em cada período de 4 horas. Sendo assim, pode-se concluir que a quantidade Q do remédio presente no organismo de Maria após t horas é dada pela função exponencial: Q(t) = 10 × (0,5)$t/4$. Considerando √2 = 1,41, podemos afirmar que 2 horas após a aplicação, a quantidade do remédio presente na paciente será de aproximadamente:",
       subItens: []
     },
     options: [

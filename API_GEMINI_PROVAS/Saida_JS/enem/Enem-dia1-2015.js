@@ -491,7 +491,7 @@ createQuestion({
     },
     options: [
       "Eliminação das vantagens locacionais e ampliação da legislação laboral.",
-      "Limitação dos fluxos logísticos e fortalecimento de associações sindicais.",
+      "Limitação dos fluxos $\\log$ísticos e fortalecimento de associações sindicais.",
       "Diminuição dos investimentos industriais e desvalorização dos postos qualificados.",
       "Concentração das áreas manufatureiras e redução da jornada semanal.",
       "Automatização dos processos fabris e aumento dos níveis de desemprego."
@@ -780,7 +780,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "[IMAGEM: Mapa do Brasil mostrando a distribuição dos biomas Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa, Pantanal, e áreas com 'Problema ambiental' destacadas.]\n\nBRASIL. Ministério do Meio Ambiente/IBGE. Biomas. 2004 (adaptado).\n\nNo mapa estão representados os biomas brasileiros que, em função de suas características físicas e do modo de ocupação do território, apresentam problemas ambientais distintos. Nesse sentido, o problema ambiental destacado no mapa indica",
+      principal: "[IMAGEM: Mapa do Brasil mostrando a distribuição dos biomas Amazônia, Caatinga, Cerrado, Mata Atlântica, Pampa, Pantanal, e áreas com 'Problema ambiental' destacadas.]\n\nBRASIL. Ministério do Meio $Ambiente/IBGE$. Biomas. 2004 (adaptado).\n\nNo mapa estão representados os biomas brasileiros que, em função de suas características físicas e do modo de ocupação do território, apresentam problemas ambientais distintos. Nesse sentido, o problema ambiental destacado no mapa indica",
       subItens: []
     },
     options: [
@@ -869,7 +869,7 @@ createQuestion({
     },
     options: [
       "Justificar a dominação estamental / revoltas camponesas.",
-      "Subverter a hierarquia social/centralização monárquica.",
+      "Subverter a hierarquia $social/centraliza$ção monárquica.",
       "Impedir a igualdade jurídica / revoluções burguesas.",
       "Controlar a exploração econômica / unificação monetária.",
       "Questionar a ordem divina / Reforma Católica."
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "Uma análise criteriosa do desempenho de Usain Bolt na quebra do recorde mundial dos 100 metros rasos mostrou que, apesar de ser o último dos corredores a reagir ao tiro e iniciar a corrida, seus primeiros 30 metros foram os mais velozes já feitos em um recorde mundial, cruzando essa marca em 3,78 segundos. Até se colocar com o corpo reto, foram 13 passadas, mostrando sua potência durante a aceleração, o momento mais importante da corrida. Ao final desse percurso, Bolt havia atingido a velocidade máxima de 12 m/s.\n\nDisponível em: http://esporte.uol.com.br. Acesso em: 5 ago. 2012 (adaptado).\n\nSupondo que a massa desse corredor seja igual a 90 kg, o trabalho total realizado nas 13 primeiras passadas é mais próximo de:",
+      principal: "Uma análise criteriosa do desempenho de Usain Bolt na quebra do recorde mundial dos 100 metros rasos mostrou que, apesar de ser o último dos corredores a reagir ao tiro e iniciar a corrida, seus primeiros 30 metros foram os mais velozes já feitos em um recorde mundial, cruzando essa marca em 3,78 segundos. Até se colocar com o corpo reto, foram 13 passadas, mostrando sua potência durante a aceleração, o momento mais importante da corrida. Ao final desse percurso, Bolt havia atingido a velocidade máxima de 12 $m/s$.\n\nDisponível em: http://esporte.uol.com.br. Acesso em: 5 ago. 2012 (adaptado).\n\nSupondo que a massa desse corredor seja igual a 90 kg, o trabalho total realizado nas 13 primeiras passadas é mais próximo de:",
       subItens: []
     },
     options: [
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "Para proteger estruturas de aço da corrosão, a indústria utiliza uma técnica chamada galvanização. Um metal bastante utilizado nesse processo é o zinco, que pode ser obtido a partir de um minério denominado esfalerita (ZnS), de pureza 75%. Considere que a conversão do minério em zinco metálico tem rendimento de 80% nesta sequência de equações químicas:\n\n2 ZnS + 3 O₂ → 2 ZnO + 2 SO₂\nZnO + CO → Zn + CO₂\n\nConsidere as massas molares: ZnS (97 g/mol); O₂ (32 g/mol); ZnO (81 g/mol); SO₂ (64 g/mol); CO (28 g/mol); CO₂ (44 g/mol); e Zn (65 g/mol).\n\nQue valor mais próximo de massa de zinco metálico, em quilogramas, será produzido a partir de 100 kg de esfalerita?",
+      principal: "Para proteger estruturas de aço da corrosão, a indústria utiliza uma técnica chamada galvanização. Um metal bastante utilizado nesse processo é o zinco, que pode ser obtido a partir de um minério denominado esfalerita (ZnS), de pureza 75%. Considere que a conversão do minério em zinco metálico tem rendimento de 80% nesta sequência de equações químicas:\n\n2 ZnS + 3 O₂ → 2 ZnO + 2 SO₂\nZnO + CO → Zn + CO₂\n\nConsidere as massas molares: ZnS (97 $g/mol$); O₂ (32 $g/mol$); ZnO (81 $g/mol$); SO₂ (64 $g/mol$); CO (28 $g/mol$); CO₂ (44 $g/mol$); e Zn (65 $g/mol$).\n\nQue valor mais próximo de massa de zinco metálico, em quilogramas, será produzido a partir de 100 kg de esfalerita?",
       subItens: []
     },
     options: [
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "O aproveitamento de resíduos florestais vem se tornando cada dia mais atrativo, pois eles são uma fonte renovável de energia. A figura representa a queima de um bio-óleo extraído do resíduo de madeira, sendo ∆H₁ a variação de entalpia devido à queima de 1 g desse bio-óleo, resultando em gás carbônico e água líquida, e ∆H₂ a variação de entalpia envolvida na conversão de 1 g de água no estado gasoso para o estado líquido.\n\n[IMAGEM: Diagrama de energia mostrando a queima de Bio-óleo + O₂ (g) resultando em CO₂ (g) + H₂O (g) com ∆H₁ = -18,8 kJ/g, e a conversão de CO₂ (g) + H₂O (g) para CO₂ (g) + H₂O (l) com ∆H₂ = -2,4 kJ/g.]\n\nA variação de entalpia, em kJ, para a queima de 5 g desse bio-óleo resultando em CO₂ (gasoso) e H₂O (gasoso) é:",
+      principal: "O aproveitamento de resíduos florestais vem se tornando cada dia mais atrativo, pois eles são uma fonte renovável de energia. A figura representa a queima de um bio-óleo extraído do resíduo de madeira, sendo ∆H₁ a variação de entalpia devido à queima de 1 g desse bio-óleo, resultando em gás carbônico e água líquida, e ∆H₂ a variação de entalpia envolvida na conversão de 1 g de água no estado gasoso para o estado líquido.\n\n[IMAGEM: Diagrama de energia mostrando a queima de Bio-óleo + O₂ (g) resultando em CO₂ (g) + H₂O (g) com ∆H₁ = -18,8 $kJ/g$, e a conversão de CO₂ (g) + H₂O (g) para CO₂ (g) + H₂O (l) com ∆H₂ = -2,4 $kJ/g$.]\n\nA variação de entalpia, em kJ, para a queima de 5 g desse bio-óleo resultando em CO₂ (gasoso) e H₂O (gasoso) é:",
       subItens: []
     },
     options: [
@@ -1225,7 +1225,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4",
+      "$1/4$",
       "1/√2",
       "1.",
       "2.",
@@ -1431,7 +1431,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "A hidroponia pode ser definida como uma técnica de produção de vegetais sem necessariamente a presença de solo. Uma das formas de implementação é manter as plantas com suas raízes suspensas em meio líquido, de onde retiram os nutrientes essenciais. Suponha que um produtor de rúcula hidropônica precise ajustar a concentração do íon nitrato (NO₃⁻) para 0,009 mol/L em um tanque de 5 000 litros e, para tanto, tem em mãos uma solução comercial nutritiva de nitrato de cálcio 90 g/L. As massas molares dos elementos N, O e Ca são iguais a 14 g/mol, 16 g/mol e 40 g/mol, respectivamente.\n\nQual o valor mais próximo do volume da solução nutritiva, em litros, que o produtor deve adicionar ao tanque?",
+      principal: "A hidroponia pode ser definida como uma técnica de produção de vegetais sem necessariamente a presença de solo. Uma das formas de implementação é manter as plantas com suas raízes suspensas em meio líquido, de onde retiram os nutrientes essenciais. Suponha que um produtor de rúcula hidropônica precise ajustar a concentração do íon nitrato (NO₃⁻) para 0,009 $mol/L$ em um tanque de 5 000 litros e, para tanto, tem em mãos uma solução comercial nutritiva de nitrato de cálcio 90 $g/L$. As massas molares dos elementos N, O e Ca são iguais a 14 $g/mol$, 16 $g/mol$ e 40 $g/mol$, respectivamente.\n\nQual o valor mais próximo do volume da solução nutritiva, em litros, que o produtor deve adicionar ao tanque?",
       subItens: []
     },
     options: [
@@ -1494,7 +1494,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "Alimentos em conserva são frequentemente armazenados em latas metálicas seladas, fabricadas com um material chamado folha de flandres, que consiste de uma chapa de aço revestida com uma fina camada de estanho, metal brilhante e de difícil oxidação. É comum que a superfície interna seja ainda revestida por uma camada de verniz à base de epóxi, embora também existam latas sem esse revestimento, apresentando uma camada de estanho mais espessa.\n\nSANTANA, V. M. S. A leitura e a química das substâncias. Cadernos PDE. Ivaiporã: Secretaria de Estado da Educação do Paraná (SEED); Universidade Estadual de Londrina, 2010 (adaptado).\n\nComprar uma lata de conserva amassada no supermercado é desaconselhável porque o amassado pode",
+      principal: "Alimentos em conserva são frequentemente armazenados em latas metálicas seladas, fabricadas com um material chamado folha de flandres, que consiste de uma chapa de aço revestida com uma fina camada de estanho, metal brilhante e de difícil oxidação. É comum que a superfície interna seja ainda revestida por uma camada de verniz à base de epó$\\xi$, embora também existam latas sem esse revestimento, apresentando uma camada de estanho mais espessa.\n\nSANTANA, V. M. S. A leitura e a química das substâncias. Cadernos PDE. Ivaiporã: Secretaria de Estado da Educação do Paraná (SEED); Universidade Estadual de Londrina, 2010 (adaptado).\n\nComprar uma lata de conserva amassada no supermercado é desaconselhável porque o amassado pode",
       subItens: []
     },
     options: [
@@ -1599,7 +1599,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "Um carro solar é um veículo que utiliza apenas a energia solar para a sua locomoção. Tipicamente, o carro contém um painel fotovoltaico que converte a energia do Sol em energia elétrica que, por sua vez, alimenta um motor elétrico. A imagem mostra o carro solar Tokai Challenger, desenvolvido na Universidade de Tokai, no Japão, e que venceu o World Solar Challenge de 2009, uma corrida internacional de carros solares, tendo atingido uma velocidade média acima de 100 km/h.\n\n[IMAGEM: Fotografia de um carro solar em uma pista de corrida.]\n\nDisponível em: www.physics.hku.hk. Acesso em: 3 jun. 2015.\n\nConsidere uma região plana onde a insolação (energia solar por unidade de tempo e de área que chega à superfície da Terra) seja de 1 000 W/m², que o carro solar possua massa de 200 kg e seja construído de forma que o painel fotovoltaico em seu topo tenha uma área de 9,0 m² e rendimento de 30%.\n\nDesprezando as forças de resistência do ar, o tempo que esse carro solar levaria, a partir do repouso, para atingir a velocidade de 108 km/h é um valor mais próximo de",
+      principal: "Um carro solar é um veículo que utiliza apenas a energia solar para a sua locomoção. Tipicamente, o carro contém um painel fotovoltaico que converte a energia do Sol em energia elétrica que, por sua vez, alimenta um motor elétrico. A imagem mostra o carro solar Tokai Challenger, desenvolvido na Universidade de Tokai, no Japão, e que venceu o World Solar Challenge de 2009, uma corrida internacional de carros solares, tendo atingido uma velocidade média acima de 100 $km/h$.\n\n[IMAGEM: Fotografia de um carro solar em uma pista de corrida.]\n\nDisponível em: www.physics.hku.hk. Acesso em: 3 jun. 2015.\n\nConsidere uma região plana onde a insolação (energia solar por unidade de tempo e de área que chega à superfície da Terra) seja de 1 000 $W/m$², que o carro solar possua massa de 200 kg e seja construído de forma que o painel fotovoltaico em seu topo tenha uma área de 9,0 m² e rendimento de 30%.\n\nDesprezando as forças de resistência do ar, o tempo que esse carro solar levaria, a partir do repouso, para atingir a velocidade de 108 $km/h$ é um valor mais próximo de",
       subItens: []
     },
     options: [
@@ -1830,7 +1830,7 @@ createQuestion({
     university: "enem",
     year: 2015,
     text: {
-      principal: "A radiação ultravioleta (UV) é dividida, de acordo com três faixas de frequência, em UV-A, UV-B e UV-C, conforme a figura.\n\n[IMAGEM: Gráfico de Frequência (s⁻¹) vs. Tipos de UV (UV-A, UV-B, UV-C) mostrando os intervalos de frequência para cada tipo.]\n\nPara selecionar um filtro solar que apresente absorção máxima na faixa UV-B, uma pessoa analisou os espectros de absorção da radiação UV de cinco filtros solares:\n\n[IMAGEM: Gráfico de Absorbância (unidades arbitrárias) vs. Comprimento de onda (nm) mostrando 5 curvas (Filtro solar I, II, III, IV, V) com diferentes picos de absorbância.]\n\nConsidere:\nvelocidade da luz = 3,0×10⁸ m/s e 1 nm = 1,0×10⁻⁹ m.\n\nO filtro solar que a pessoa deve selecionar é o",
+      principal: "A radiação ultravioleta (UV) é dividida, de acordo com três faixas de frequência, em UV-A, UV-B e UV-C, conforme a figura.\n\n[IMAGEM: Gráfico de Frequência (s⁻¹) vs. Tipos de UV (UV-A, UV-B, UV-C) mostrando os intervalos de frequência para cada tipo.]\n\nPara selecionar um filtro solar que apresente absorção máxima na faixa UV-B, uma pessoa analisou os espectros de absorção da radiação UV de cinco filtros solares:\n\n[IMAGEM: Gráfico de Absorbância (unidades arbitrárias) vs. Comprimento de onda (nm) mostrando 5 curvas (Filtro solar I, II, III, IV, V) com diferentes picos de absorbância.]\n\nConsidere:\nvelocidade da luz = 3,0×10⁸ $m/s$ e 1 nm = 1,0×10⁻⁹ m.\n\nO filtro solar que a pessoa deve selecionar é o",
       subItens: []
     },
     options: [

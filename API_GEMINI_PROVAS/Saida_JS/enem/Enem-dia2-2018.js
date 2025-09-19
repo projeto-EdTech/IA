@@ -255,7 +255,7 @@ createQuestion({
     university: "enem",
     year: 2018,
     text: {
-      principal: "O sonorizador é um dispositivo físico implantado sobre a superfície de uma rodovia de modo que provoque uma trepidação e ruído quando da passagem de um veículo sobre ele, alertando para uma situação atípica à frente, como obras, pedágios ou travessia de pedestres. Ao passar sobre os sonorizadores, a suspensão do veículo sofre vibrações que produzem ondas sonoras, resultando em um barulho peculiar. Considere um veículo que passe com velocidade constante igual a 108 km/h sobre um sonorizador cujas faixas são separadas por uma distância de 8 cm.\nA frequência da vibração do automóvel percebida pelo condutor durante a passagem nesse sonorizador é mais próxima de",
+      principal: "O sonorizador é um dispositivo físico implantado sobre a superfície de uma rodovia de modo que provoque uma trepidação e ruído quando da passagem de um veículo sobre ele, alertando para uma situação atípica à frente, como obras, pedágios ou travessia de pedestres. Ao passar sobre os sonorizadores, a suspensão do veículo sofre vibrações que produzem ondas sonoras, resultando em um barulho peculiar. Considere um veículo que passe com velocidade constante igual a 108 $km/h$ sobre um sonorizador cujas faixas são separadas por uma distância de 8 cm.\nA frequência da vibração do automóvel percebida pelo condutor durante a passagem nesse sonorizador é mais próxima de",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "enem",
     year: 2018,
     text: {
-      principal: "O processo de formação de novas espécies é lento e repleto de nuances e estágios intermediários, havendo uma diminuição da viabilidade entre cruzamentos. Assim, plantas originalmente de uma mesma espécie que não cruzam mais entre si podem ser consideradas como uma espécie se diferenciando. Um pesquisador realizou cruzamentos entre nove populações – denominadas de acordo com a localização onde são encontradas – de uma espécie de orquídea (Epidendrum denticulatum). No diagrama estão os resultados dos cruzamentos entre as populações. Considere que o doador fornece o pólen para o receptor.\n\n[IMAGEM: Diagrama de resultados de cruzamentos entre populações de orquídeas, indicando sucesso ou insucesso da polinização entre Itirapina, Itapeva, Bertioga, Marambaia, Massambaba, Olivença, Alcobaça, Pão de Açúcar e Peti. As setas indicam doador e receptor, e o tipo de linha (cheia ou pontilhada) indica se a polinização foi bem-sucedida ou inviável/nula. Há também uma legenda indicando as localidades como Mata Atlântica ou Cerrado.]\n\nEm populações de quais localidades se observa um processo de especiação evidente?",
+      principal: "O processo de formação de novas espécies é lento e repleto de nuances e estágios intermediários, havendo uma diminuição da viabilidade entre cruzamentos. Assim, plantas originalmente de uma mesma espécie que não cruzam mais entre si podem ser consideradas como uma espécie se diferenciando. Um pesquisador realizou cruzamentos entre nove populações – denominadas de acordo com a localização onde são encontradas – de uma espécie de orquídea (Epidendrum denticulatum). No diagrama estão os resultados dos cruzamentos entre as populações. Considere que o doador fornece o pólen para o receptor.\n\n[IMAGEM: Diagrama de resultados de cruzamentos entre populações de orquídeas, indicando sucesso ou insucesso da polinização entre Itirapina, Itapeva, Bertioga, Marambaia, Massambaba, Olivença, Alcobaça, Pão de Açúcar e Peti. As setas indicam doador e receptor, e o tipo de linha (cheia ou pontilhada) indica se a polinização foi bem-sucedida ou inviá$vel/nula$. Há também uma legenda indicando as localidades como Mata Atlântica ou Cerrado.]\n\nEm populações de quais localidades se observa um processo de especiação evidente?",
       subItens: []
     },
     options: [
@@ -969,7 +969,7 @@ createQuestion({
     university: "enem",
     year: 2018,
     text: {
-      principal: "Um contrato de empréstimo prevê que quando uma parcela é paga de forma antecipada, conceder-se-á uma redução de juros de acordo com o período de antecipação. Nesse caso, paga-se o valor presente, que é o valor, naquele momento, de uma quantia que deveria ser paga em uma data futura. Um valor presente P submetido a juros compostos com taxa i, por um período de tempo n, produz um valor futuro V determinado pela fórmula V = P ⋅ (1+i)ⁿ.\nEm um contrato de empréstimo com sessenta parcelas fixas mensais, de R$ 820,00, a uma taxa de juros de 1,32% ao mês, junto com a trigésima parcela será paga antecipadamente uma outra parcela, desde que o desconto seja superior a 25% do valor da parcela. Utilize 0,2877 como aproximação para ln(4/3) e 0,0131 como aproximação para ln(1,0132).\nA primeira das parcelas que poderá ser antecipada junto com a 30ª é a",
+      principal: "Um contrato de empréstimo prevê que quando uma parcela é paga de forma antecipada, conceder-se-á uma redução de juros de acordo com o período de antecipação. Nesse caso, paga-se o valor presente, que é o valor, naquele momento, de uma quantia que deveria ser paga em uma data futura. Um valor presente P submetido a juros compostos com taxa i, por um período de tempo n, produz um valor futuro V determinado pela fórmula V = P ⋅ (1+i)ⁿ.\nEm um contrato de empréstimo com sessenta parcelas fixas mensais, de R$ 820,00, a uma taxa de juros de 1,32% ao mês, junto com a trigésima parcela será paga antecipadamente uma outra parcela, desde que o desconto seja superior a 25% do valor da parcela. Utilize 0,2877 como aproximação para ln($4/3$) e 0,0131 como aproximação para ln(1,0132).\nA primeira das parcelas que poderá ser antecipada junto com a 30ª é a",
       subItens: []
     },
     options: [
@@ -1015,11 +1015,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2⋅π⋅1/3 + 8",
-      "2⋅π⋅2/3 + 6",
-      "2⋅π⋅3/3 + 4",
-      "2⋅π⋅4/3 + 2",
-      "2⋅π⋅5/3 + 2"
+      "2⋅π⋅$1/3$ + 8",
+      "2⋅π⋅$2/3$ + 6",
+      "2⋅π⋅$3/3$ + 4",
+      "2⋅π⋅$4/3$ + 2",
+      "2⋅π⋅$5/3$ + 2"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1074,15 +1074,15 @@ createQuestion({
     university: "enem",
     year: 2018,
     text: {
-      principal: "De acordo com a Lei Universal da Gravitação, proposta por Isaac Newton, a intensidade da força gravitacional F que a Terra exerce sobre um satélite em órbita circular é proporcional à massa m do satélite e inversamente proporcional ao quadrado do raio r da órbita, ou seja, F = km/r².\nNo plano cartesiano, três satélites, A, B e C, estão representados, cada um, por um ponto (m; r) cujas coordenadas são, respectivamente, a massa do satélite e o raio da sua órbita em torno da Terra.\n\n[IMAGEM: Gráfico de Raio (r) versus Massa (m), com três pontos A, B e C marcados. Ponto A em (1,4), B em (4,2) e C em (2,6).]\n\nAs intensidades F_A, F_B e F_C expressas no gráfico satisfazem a relação",
+      principal: "De acordo com a Lei Universal da Gravitação, proposta por Isaac Newton, a intensidade da força gravitacional F que a Terra exerce sobre um satélite em órbita circular é proporcional à massa m do satélite e inversamente proporcional ao quadrado do raio r da órbita, ou seja, F = $km/r$².\nNo plano cartesiano, três satélites, A, B e C, estão representados, cada um, por um ponto (m; r) cujas coordenadas são, respectivamente, a massa do satélite e o raio da sua órbita em torno da Terra.\n\n[IMAGEM: Gráfico de Raio (r) versus Massa (m), com três pontos A, B e C marcados. Ponto A em (1,4), B em (4,2) e C em (2,6).]\n\nAs intensidades $F_A$, $F_B$ e $F_C$ expressas no gráfico satisfazem a relação",
       subItens: []
     },
     options: [
-      "F_C = F_A < F_B",
-      "F_A = F_B < F_C",
-      "F_A < F_B < F_C",
-      "F_A < F_C < F_B",
-      "F_C < F_A < F_B"
+      "$F_C$ = $F_A$ < $F_B$",
+      "$F_A$ = $F_B$ < $F_C$",
+      "$F_A$ < $F_B$ < $F_C$",
+      "$F_A$ < $F_C$ < $F_B$",
+      "$F_C$ < $F_A$ < $F_B$"
     ],
     correctAnswer: 4,
     materia: ["Física", "Matemática"],
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "enem",
     year: 2018,
     text: {
-      principal: "Numa atividade de treinamento realizada no Exército de um determinado país, três equipes - Alpha, Beta e Gama - foram designadas a percorrer diferentes caminhos, todos com os mesmos pontos de partida e de chegada.\n• A equipe Alpha realizou seu percurso em 90 minutos com uma velocidade média de 6,0 km/h.\n• A equipe Beta também percorreu sua trajetória em 90 minutos, mas sua velocidade média foi de 5,0 km/h.\n• Com uma velocidade média de 6,5 km/h, a equipe Gama concluiu seu caminho em 60 minutos.\nCom base nesses dados, foram comparadas as distâncias dAlpha, dBeta e dGama percorridas pelas três equipes.\nA ordem das distâncias percorridas pelas equipes Alpha, Beta e Gama é",
+      principal: "Numa atividade de treinamento realizada no Exército de um determinado país, três equipes - $\\alpha$, $\\beta$ e Gama - foram designadas a percorrer diferentes caminhos, todos com os mesmos pontos de partida e de chegada.\n• A equipe $\\alpha$ realizou seu percurso em 90 minutos com uma velocidade média de 6,0 $km/h$.\n• A equipe $\\beta$ também percorreu sua trajetória em 90 minutos, mas sua velocidade média foi de 5,0 $km/h$.\n• Com uma velocidade média de 6,5 $km/h$, a equipe Gama concluiu seu caminho em 60 minutos.\nCom base nesses dados, foram comparadas as distâncias dAlpha, dBeta e dGama percorridas pelas três equipes.\nA ordem das distâncias percorridas pelas equipes $\\alpha$, $\\beta$ e Gama é",
       subItens: []
     },
     options: [
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "enem",
     year: 2018,
     text: {
-      principal: "O colesterol total de uma pessoa é obtido pela soma da taxa do seu \"colesterol bom\" com a taxa do seu \"colesterol ruim\". Os exames periódicos, realizados em um paciente adulto, apresentaram taxa normal de \"colesterol bom\", porém, taxa do “colesterol ruim\" (também chamado LDL) de 280 mg/dL.\nO quadro apresenta uma classificação de acordo com as taxas de LDL em adultos.\n\n[TABELA: Taxa de LDL (mg/dL) e Classificação]\n| Taxa de LDL (mg/dL) | Classificação |\n|---|---|\n| Menor do que 100 | Ótima |\n| De 100 a 129 | Próxima de ótima |\n| De 130 a 159 | Limite |\n| De 160 a 189 | Alta |\n| 190 ou mais | Muito alta |\n\nO paciente, seguindo as recomendações médicas sobre estilo de vida e alimentação, realizou o exame logo após o primeiro mês, e a taxa de LDL reduziu 25%. No mês seguinte, realizou novo exame e constatou uma redução de mais 20% na taxa de LDL.\nDe acordo com o resultado do segundo exame, a classificação da taxa de LDL do paciente é",
+      principal: "O colesterol total de uma pessoa é obtido pela soma da taxa do seu \"colesterol bom\" com a taxa do seu \"colesterol ruim\". Os exames periódicos, realizados em um paciente adulto, apresentaram taxa normal de \"colesterol bom\", porém, taxa do “colesterol ruim\" (também chamado LDL) de 280 $mg/dL$.\nO quadro apresenta uma classificação de acordo com as taxas de LDL em adultos.\n\n[TABELA: Taxa de LDL ($mg/dL$) e Classificação]\n| Taxa de LDL ($mg/dL$) | Classificação |\n|---|---|\n| Menor do que 100 | Ótima |\n| De 100 a 129 | Próxima de ótima |\n| De 130 a 159 | Limite |\n| De 160 a 189 | Alta |\n| 190 ou mais | Muito alta |\n\nO paciente, seguindo as recomendações médicas sobre estilo de vida e alimentação, realizou o exame logo após o primeiro mês, e a taxa de LDL reduziu 25%. No mês seguinte, realizou novo exame e constatou uma redução de mais 20% na taxa de LDL.\nDe acordo com o resultado do segundo exame, a classificação da taxa de LDL do paciente é",
       subItens: []
     },
     options: [
@@ -1204,11 +1204,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "50X/9 + 50Y/4",
-      "50X/9 + 50Y/4",
-      "4X/50 + 4Y/50",
+      "$50X/9$ + $50Y/4$",
+      "$50X/9$ + $50Y/4$",
+      "$4X/50$ + $4Y/50$",
       "50 + 50",
-      "50/9X + 50Y/4Y"
+      "$50/9X$ + $50Y/4Y$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1263,7 +1263,7 @@ createQuestion({
     university: "enem",
     year: 2018,
     text: {
-      principal: "A Ecofont possui design baseado na velha fonte Vera Sans. Porém, ela tem um diferencial: pequenos buraquinhos circulares congruentes, e em todo o seu corpo, presentes em cada símbolo. Esses furos proporcionam um gasto de tinta menor na hora da impressão.\n\n[IMAGEM: Três exemplos da palavra \"ecofont\" impressa com a fonte Ecofont. À direita, um detalhe de uma letra 'O' com três furos circulares.]\n\nSuponha que a palavra ECO esteja escrita nessa fonte, com tamanho 192, e que seja composta por letras formadas por quadrados de lados x com furos circulares de raio r = x/3. Para que a área a ser pintada seja reduzida a 1/16 da área inicial, pretende-se reduzir o tamanho da fonte. Sabe-se que, ao alterar o tamanho da fonte, o tamanho da letra é alterado na mesma proporção.\nNessas condições, o tamanho adequado da fonte será",
+      principal: "A Ecofont possui design baseado na velha fonte Vera Sans. Porém, ela tem um diferencial: pequenos buraquinhos circulares congruentes, e em todo o seu corpo, presentes em cada símbolo. Esses furos proporcionam um gasto de tinta menor na hora da impressão.\n\n[IMAGEM: Três exemplos da palavra \"ecofont\" impressa com a fonte Ecofont. À direita, um detalhe de uma letra 'O' com três furos circulares.]\n\nSuponha que a palavra ECO esteja escrita nessa fonte, com tamanho 192, e que seja composta por letras formadas por quadrados de lados x com furos circulares de raio r = $x/3$. Para que a área a ser pintada seja reduzida a $1/16$ da área inicial, pretende-se reduzir o tamanho da fonte. Sabe-se que, ao alterar o tamanho da fonte, o tamanho da letra é alterado na mesma proporção.\nNessas condições, o tamanho adequado da fonte será",
       subItens: []
     },
     options: [
@@ -1326,7 +1326,7 @@ createQuestion({
     university: "enem",
     year: 2018,
     text: {
-      principal: "Um designer de jogos planeja um jogo que faz uso de um tabuleiro de dimensão n x n, com n ≥ 2, no qual cada jogador, na sua vez, coloca uma peça sobre uma das casas vazias do tabuleiro. Quando uma peça é posicionada, a região formada pelas casas que estão na mesma linha ou coluna dessa peça é chamada de zona de combate dessa peça. Na figura está ilustrada a zona de combate de uma peça colocada em uma das casas de um tabuleiro de dimensão 8 x 8.\n\n[IMAGEM: Tabuleiro quadriculado 8x8 com uma peça central. A 'zona de combate' (linha e coluna da peça) está destacada.]\n\nO tabuleiro deve ser dimensionado de forma que a probabilidade de se posicionar a segunda peça aleatoriamente, seguindo a regra do jogo, e esta ficar sobre a zona de combate da primeira, seja inferior a 1/5.\nA dimensão mínima que o designer deve adotar para esse tabuleiro é",
+      principal: "Um designer de jogos planeja um jogo que faz uso de um tabuleiro de dimensão n x n, com n ≥ 2, no qual cada jogador, na sua vez, coloca uma peça sobre uma das casas vazias do tabuleiro. Quando uma peça é posicionada, a região formada pelas casas que estão na mesma linha ou coluna dessa peça é chamada de zona de combate dessa peça. Na figura está ilustrada a zona de combate de uma peça colocada em uma das casas de um tabuleiro de dimensão 8 x 8.\n\n[IMAGEM: Tabuleiro quadriculado 8x8 com uma peça central. A 'zona de combate' (linha e coluna da peça) está destacada.]\n\nO tabuleiro deve ser dimensionado de forma que a probabilidade de se posicionar a segunda peça aleatoriamente, seguindo a regra do jogo, e esta ficar sobre a zona de combate da primeira, seja inferior a $1/5$.\nA dimensão mínima que o designer deve adotar para esse tabuleiro é",
       subItens: []
     },
     options: [
@@ -1372,11 +1372,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4/21",
-      "5/21",
-      "6/21",
-      "7/21",
-      "8/21"
+      "$4/21$",
+      "$5/21$",
+      "$6/21$",
+      "$7/21$",
+      "$8/21$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1725,14 +1725,14 @@ createQuestion({
     university: "enem",
     year: 2018,
     text: {
-      principal: "Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um guindaste iça uma viga de aço que se encontra inicialmente no solo.\n\n[IMAGEM: Três estágios (Estágio 1, Estágio 2, Estágio 3) mostrando um guindaste içando uma viga de aço. O ponto O é a projeção do cabo no chão e M é o ponto médio da viga.]\n\nNa figura, o ponto O representa a projeção ortogonal do cabo de aço sobre o plano do chão e este se mantém na vertical durante todo o movimento de içamento da viga, que se inicia no tempo t = 0 (estágio 1) e finaliza no tempo t_f (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra extremidade desliza sobre o solo em direção ao ponto O. Considere que o cabo de aço utilizado pelo guindaste para içar a viga fique sempre na posição vertical. Na figura, o ponto M representa o ponto médio do segmento que representa a viga.\nO gráfico que descreve a distância do ponto M ao ponto O, em função do tempo, entre t = 0 e t_f, é",
+      principal: "Os guindastes são fundamentais em canteiros de obras, no manejo de materiais pesados como vigas de aço. A figura ilustra uma sequência de estágios em que um guindaste iça uma viga de aço que se encontra inicialmente no solo.\n\n[IMAGEM: Três estágios (Estágio 1, Estágio 2, Estágio 3) mostrando um guindaste içando uma viga de aço. O ponto O é a projeção do cabo no chão e M é o ponto médio da viga.]\n\nNa figura, o ponto O representa a projeção ortogonal do cabo de aço sobre o plano do chão e este se mantém na vertical durante todo o movimento de içamento da viga, que se inicia no tempo t = 0 (estágio 1) e finaliza no tempo $t_f$ (estágio 3). Uma das extremidades da viga é içada verticalmente a partir do ponto O, enquanto que a outra extremidade desliza sobre o solo em direção ao ponto O. Considere que o cabo de aço utilizado pelo guindaste para içar a viga fique sempre na posição vertical. Na figura, o ponto M representa o ponto médio do segmento que representa a viga.\nO gráfico que descreve a distância do ponto M ao ponto O, em função do tempo, entre t = 0 e $t_f$, é",
       subItens: []
     },
     options: [
-      "[IMAGEM: Gráfico de Distância vs Tempo, mostrando uma curva côncava para cima, começando em um valor positivo e diminuindo até 0, e depois aumentando até um valor positivo em t_f.]",
+      "[IMAGEM: Gráfico de Distância vs Tempo, mostrando uma curva côncava para cima, começando em um valor positivo e diminuindo até 0, e depois aumentando até um valor positivo em $t_f$.]",
       "[IMAGEM: Gráfico de Distância vs Tempo, mostrando uma linha reta decrescente.]",
       "[IMAGEM: Gráfico de Distância vs Tempo, mostrando uma linha reta crescente.]",
-      "[IMAGEM: Gráfico de Distância vs Tempo, mostrando uma curva côncava para baixo, começando em um valor positivo e diminuindo até 0, e depois aumentando até um valor positivo em t_f.]",
+      "[IMAGEM: Gráfico de Distância vs Tempo, mostrando uma curva côncava para baixo, começando em um valor positivo e diminuindo até 0, e depois aumentando até um valor positivo em $t_f$.]",
       "[IMAGEM: Gráfico de Distância vs Tempo, mostrando uma curva parabólica simétrica.]"
     ],
     correctAnswer: 0,
@@ -1746,7 +1746,7 @@ createQuestion({
     university: "enem",
     year: 2018,
     text: {
-      principal: "Com o avanço em ciência da computação, estamos próximos do momento em que o número de transistores no processador de um computador pessoal será da mesma ordem de grandeza que o número de neurônios em um cérebro humano, que é da ordem de 100 bilhões.\nUma das grandezas determinantes para o desempenho de um processador é a densidade de transistores, que é o número de transistores por centímetro quadrado. Em 1986, uma empresa fabricava um processador contendo 100 000 transistores distribuídos em 0,25 cm² de área. Desde então, o número de transistores por centímetro quadrado que se pode colocar em um processador dobra a cada dois anos (Lei de Moore). Considere 0,30 como aproximação para log₁₀2.\nEm que ano a empresa atingiu ou atingirá a densidade de 100 bilhões de transistores?",
+      principal: "Com o avanço em ciência da computação, estamos próximos do momento em que o número de transistores no processador de um computador pessoal será da mesma ordem de grandeza que o número de neurônios em um cérebro humano, que é da ordem de 100 bilhões.\nUma das grandezas determinantes para o desempenho de um processador é a densidade de transistores, que é o número de transistores por centímetro quadrado. Em 1986, uma empresa fabricava um processador contendo 100 000 transistores distribuídos em 0,25 cm² de área. Desde então, o número de transistores por centímetro quadrado que se pode colocar em um processador dobra a cada dois anos (Lei de Moore). Considere 0,30 como aproximação para $\\log$₁₀2.\nEm que ano a empresa atingiu ou atingirá a densidade de 100 bilhões de transistores?",
       subItens: []
     },
     options: [

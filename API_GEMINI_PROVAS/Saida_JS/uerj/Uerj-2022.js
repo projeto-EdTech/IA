@@ -63,7 +63,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "Se toda estrela cadente / Cai pra fazer sentido (2ª estrofe) As chamadas estrelas cadentes nada mais são que meteoros. Esses pedaços de rocha são atraídos pelo campo gravitacional da Terra e incandescem no atrito com a atmosfera. Admita que um meteoro, ao penetrar na atmosfera terrestre, tenha, em determinado instante, massa de 10 kg e velocidade de 252000 km/h. Nessas condições, a quantidade de movimento do meteoro, em kg.m/s, é igual a:",
+      principal: "Se toda estrela cadente / Cai pra fazer sentido (2ª estrofe) As chamadas estrelas cadentes nada mais são que meteoros. Esses pedaços de rocha são atraídos pelo campo gravitacional da Terra e incandescem no atrito com a atmosfera. Admita que um meteoro, ao penetrar na atmosfera terrestre, tenha, em determinado instante, massa de 10 kg e velocidade de 252000 $km/h$. Nessas condições, a quantidade de movimento do meteoro, em kg.$m/s$, é igual a:",
       subItens: []
     },
     options: [
@@ -103,7 +103,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "A imagem a seguir reproduz um grafite visto em um muro em Portugal. [IMAGEM: Grafite com a frase 'MUDOS OS TEMPOS MUDAS AS VONTADES'. Fonte: triplov.com, agosto/2012.] O grafite estabelece intertextualidade com o soneto I, que trata da mudança como fonte de desassossego para o poeta quinhentista. Reelaborada na contemporaneidade, a mudança retratada no grafite pode ser associada ao seguinte tema, presente nos sonetos de Camões:",
+      principal: "A imagem a seguir reproduz um grafite visto em um muro em Portugal. [IMAGEM: Grafite com a frase 'MUDOS OS TEMPOS MUDAS AS VONTADES'. Fonte: triplov.com, $agosto/2012$.] O grafite estabelece intertextualidade com o soneto I, que trata da mudança como fonte de desassossego para o poeta quinhentista. Reelaborada na contemporaneidade, a mudança retratada no grafite pode ser associada ao seguinte tema, presente nos sonetos de Camões:",
       subItens: []
     },
     options: [
@@ -383,7 +383,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "Um teste de material foi realizado com placas de vidro homogêneo. Considere I0 a intensidade de luz que incide no vidro e I a quantidade de luz que o atravessa. Observe a equação que relaciona I e I, a partir da constante e, sendo x a espessura do vidro, em milímetros, e k a constante do material com que foi fabricado: [EQUAÇÃO: I/I0 = e^(-kx)] Considere a tabela a seguir, que apresenta valores aproximados para e^(-w): [TABELA: w | 0,20 | 0,21 | 0,22 | 0,23 | 0,24 ; e^(-w) | 0,819 | 0,811 | 0,802 | 0,794 | 0,787] Para k = 0,046 e x = 5 mm, a porcentagem da intensidade da luz incidente que atravessa o vidro é:",
+      principal: "Um teste de material foi realizado com placas de vidro homogêneo. Considere I0 a intensidade de luz que incide no vidro e I a quantidade de luz que o atravessa. Observe a equação que relaciona I e I, a partir da constante e, sendo x a espessura do vidro, em milímetros, e k a constante do material com que foi fabricado: [EQUAÇÃO: $I/I0$ = e^(-kx)] Considere a tabela a seguir, que apresenta valores aproximados para e^(-w): [TABELA: w | 0,20 | 0,21 | 0,22 | 0,23 | 0,24 ; e^(-w) | 0,819 | 0,811 | 0,802 | 0,794 | 0,787] Para k = 0,046 e x = 5 mm, a porcentagem da intensidade da luz incidente que atravessa o vidro é:",
       subItens: []
     },
     options: [
@@ -443,7 +443,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "Admita que uma pessoa na posição P avista o ponto A mais alto de um morro sob um ângulo de 40°. Ao caminhar 100 m sobre a reta horizontal PB, até a posição Q, ela avista o mesmo ponto sob o ângulo de 50°. O esquema a seguir representa essa situação, sendo AB a altura do morro em relação à reta horizontal PB. [DIAGRAMA: Morro com ponto A no topo, B na base. Pontos P e Q na horizontal. Ponto A visto de P com 40°, de Q com 50°. Distância PQ = 100 m.] Considere os seguintes valores das razões trigonométricas: [TABELA: α | sen α | cos α | tg α ; 40° | 0,64 | 0,77 | 0,84 ; 50° | 0,77 | 0,64 | 1,19] A altura AB, em metros, é igual a:",
+      principal: "Admita que uma pessoa na posição P avista o ponto A mais alto de um morro sob um ângulo de 40°. Ao caminhar 100 m sobre a reta horizontal PB, até a posição Q, ela avista o mesmo ponto sob o ângulo de 50°. O esquema a seguir representa essa situação, sendo AB a altura do morro em relação à reta horizontal PB. [DIAGRAMA: Morro com ponto A no topo, B na base. Pontos P e Q na horizontal. Ponto A visto de P com 40°, de Q com 50°. Distância PQ = 100 m.] Considere os seguintes valores das razões trigonométricas: [TABELA: α | $\\sin$ α | $\\cos$ α | $\\tan$ α ; 40° | 0,64 | 0,77 | 0,84 ; 50° | 0,77 | 0,64 | 1,19] A altura AB, em metros, é igual a:",
       subItens: []
     },
     options: [
@@ -483,14 +483,14 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "A imagem a seguir apresenta cinco linhas horizontais de pregos em uma disposição triangular sobre uma superfície plana, inclinada em relação ao plano horizontal. Ao soltar uma bolinha, ela rola e choca-se com o prego da primeira linha, na posição I. Em seguida, ela continua a rolar, chocando-se com apenas um prego de cada linha subsequente e, dependendo de sua trajetória, poderá cair no recipiente, na posição II. [IMAGEM: Esquema de uma máquina de Galton. Pregos dispostos em triângulo e uma bolinha seguindo uma trajetória até um recipiente.] Sabe-se que a probabilidade de a bolinha se chocar ou com o prego localizado imediatamente à direita ou com o imediatamente à esquerda é igual a 1/2. Uma possível trajetória da bolinha até o recipiente está representada no esquema a seguir. A probabilidade de a bolinha cair no recipiente é igual a:",
+      principal: "A imagem a seguir apresenta cinco linhas horizontais de pregos em uma disposição triangular sobre uma superfície plana, inclinada em relação ao plano horizontal. Ao soltar uma bolinha, ela rola e choca-se com o prego da primeira linha, na posição I. Em seguida, ela continua a rolar, chocando-se com apenas um prego de cada linha subsequente e, dependendo de sua trajetória, poderá cair no recipiente, na posição II. [IMAGEM: Esquema de uma máquina de Galton. Pregos dispostos em triângulo e uma bolinha seguindo uma trajetória até um recipiente.] Sabe-se que a probabilidade de a bolinha se chocar ou com o prego localizado imediatamente à direita ou com o imediatamente à esquerda é igual a $1/2$. Uma possível trajetória da bolinha até o recipiente está representada no esquema a seguir. A probabilidade de a bolinha cair no recipiente é igual a:",
       subItens: []
     },
     options: [
-      "1/4",
-      "3/8",
-      "5/16",
-      "7/12"
+      "$1/4$",
+      "$3/8$",
+      "$5/16$",
+      "$7/12$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "Após o processo de usinagem, uma peça de alumínio com massa de 500 g atinge a temperatura de 80 °C. Para ser manuseada, essa peça é imediatamente imersa em um recipiente que contém 1000 g de água a 22,2 °C. Sabe-se que o calor específico da água é igual a 1,00 cal/g °C e o do alumínio, a 0,22 cal/g °C. Admita que só ocorra troca de calor entre a peça e a água. Nessas condições, a temperatura de equilíbrio térmico, em °C, é aproximadamente igual a:",
+      principal: "Após o processo de usinagem, uma peça de alumínio com massa de 500 g atinge a temperatura de 80 °C. Para ser manuseada, essa peça é imediatamente imersa em um recipiente que contém 1000 g de água a 22,2 °C. Sabe-se que o calor específico da água é igual a 1,00 $cal/g$ °C e o do alumínio, a 0,22 $cal/g$ °C. Admita que só ocorra troca de calor entre a peça e a água. Nessas condições, a temperatura de equilíbrio térmico, em °C, é aproximadamente igual a:",
       subItens: []
     },
     options: [
@@ -703,7 +703,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "Em uma feira de ciências escolar, foi confeccionado um projetor com peças de baixo custo. Observe o esquema, que ilustra a lente do projetor e um anteparo, sobre o qual é projetada a imagem de um objeto. [DIAGRAMA: Esquema de uma lente convergente, um objeto (P), a imagem (P') e suas distâncias relativas à lente e ao anteparo.] Sabe-se que a distância P do objeto à lente é de 11 cm e a distância P' entre a imagem e a lente é de 66/5 cm. Com base nas informações, a distância focal da lente, em centímetros, é igual a:",
+      principal: "Em uma feira de ciências escolar, foi confeccionado um projetor com peças de baixo custo. Observe o esquema, que ilustra a lente do projetor e um anteparo, sobre o qual é projetada a imagem de um objeto. [DIAGRAMA: Esquema de uma lente convergente, um objeto (P), a imagem (P') e suas distâncias relativas à lente e ao anteparo.] Sabe-se que a distância P do objeto à lente é de 11 cm e a distância P' entre a imagem e a lente é de $66/5$ cm. Com base nas informações, a distância focal da lente, em centímetros, é igual a:",
       subItens: []
     },
     options: [
@@ -803,7 +803,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "Para uma experiência de misturas, há três líquidos disponíveis em um laboratório: X, Y e Z. Em dois recipientes transparentes, foram adicionados volumes iguais de dois desses líquidos, à temperatura ambiente. Observe a tabela: [TABELA: Líquido | Substância | Densidade (g/cm³) ; X | água | 1,00 ; Y | benzeno | 0,87 ; Z | tetraclorometano | 1,59] Tendo em vista as propriedades dos líquidos, as misturas heterogêneas possíveis são as representadas em:",
+      principal: "Para uma experiência de misturas, há três líquidos disponíveis em um laboratório: X, Y e Z. Em dois recipientes transparentes, foram adicionados volumes iguais de dois desses líquidos, à temperatura ambiente. Observe a tabela: [TABELA: Líquido | Substância | Densidade ($g/cm$³) ; X | água | 1,00 ; Y | benzeno | 0,87 ; Z | tetraclorometano | 1,59] Tendo em vista as propriedades dos líquidos, as misturas heterogêneas possíveis são as representadas em:",
       subItens: []
     },
     options: [
@@ -823,7 +823,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "Em testes de perfuração realizados em plataformas de petróleo, pode ser utilizado o brometo de cálcio. Considere um teste para o qual foi preparada uma solução aquosa desse sal na concentração de 3000 g/L. Admitindo a completa dissociação do sal, a concentração de íons brometo, em mol/L, nessa solução, é igual a: (Massas Molares: Ca = 40 g/mol, Br = 80 g/mol)",
+      principal: "Em testes de perfuração realizados em plataformas de petróleo, pode ser utilizado o brometo de cálcio. Considere um teste para o qual foi preparada uma solução aquosa desse sal na concentração de 3000 $g/L$. Admitindo a completa dissociação do sal, a concentração de íons brometo, em $mol/L$, nessa solução, é igual a: (Massas Molares: Ca = 40 $g/mol$, Br = 80 $g/mol$)",
       subItens: []
     },
     options: [
@@ -883,7 +883,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "Para o tratamento de um resíduo industrial, que corresponde a uma solução aquosa com alta acidez, é utilizado hidróxido de sódio sólido para a elevação do pH. Considere o volume de 10 m³ desse resíduo com concentração de íons H⁺ de 0,1 mol/L. Desprezando-se a variação de volume, para que essa solução residual alcance pH = 2,0, a massa de hidróxido de sódio, em quilogramas, a ser adicionada é igual a: (Massas Molares: Na=23 g/mol, O=16 g/mol, H=1 g/mol)",
+      principal: "Para o tratamento de um resíduo industrial, que corresponde a uma solução aquosa com alta acidez, é utilizado hidróxido de sódio sólido para a elevação do pH. Considere o volume de 10 m³ desse resíduo com concentração de íons H⁺ de 0,1 $mol/L$. Desprezando-se a variação de volume, para que essa solução residual alcance pH = 2,0, a massa de hidróxido de sódio, em quilogramas, a ser adicionada é igual a: (Massas Molares: Na=23 $g/mol$, O=16 $g/mol$, H=1 $g/mol$)",
       subItens: []
     },
     options: [
@@ -963,7 +963,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "Em 2019, a pecuária brasileira apresentou produtividade média de 1,2 animais/ha. Contudo, no país, já são encontradas áreas de criação bovina que possuem produtividade superior a 8 animais/ha, utilizando meios mais sustentáveis como os sistemas integrados. Adaptado de pp.nexojornal.com.br, 04/07/2021. A reduzida produtividade média da pecuária nacional é explicada pela associação dessa atividade econômica com o seguinte processo:",
+      principal: "Em 2019, a pecuária brasileira apresentou produtividade média de 1,2 $animais/ha$. Contudo, no país, já são encontradas áreas de criação bovina que possuem produtividade superior a 8 $animais/ha$, utilizando meios mais sustentáveis como os sistemas integrados. Adaptado de pp.nexojornal.com.br, 04/07/2021. A reduzida produtividade média da pecuária nacional é explicada pela associação dessa atividade econômica com o seguinte processo:",
       subItens: []
     },
     options: [
@@ -983,7 +983,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "MUÇULMANOS NO MUNDO (2010) [MAPA MUNDI: Mapa mostrando a distribuição da população muçulmana no mundo, com cores representando a porcentagem da população total e círculos indicando o número de fiéis em milhões. Adaptado de bibnum.sciencespo.fr.] No mapa, identificam-se países cuja população muçulmana é superior a 75%. Esses países apresentam forte vínculo histórico com a expansão territorial do seguinte Império:",
+      principal: "$\\mu$ÇULMANOS NO MUNDO (2010) [MAPA MUNDI: Mapa mostrando a distribuição da população $\\mu$çulmana no mundo, com cores representando a porcentagem da população total e círculos indicando o número de fiéis em milhões. Adaptado de bibnum.sciencespo.fr.] No mapa, identificam-se países cuja população $\\mu$çulmana é superior a 75%. Esses países apresentam forte vínculo histórico com a expansão territorial do seguinte Império:",
       subItens: []
     },
     options: [
@@ -1163,7 +1163,7 @@ createQuestion({
     university: "uerj",
     year: 2022,
     text: {
-      principal: "[IMAGEM 1: Foto 'Obras da rodovia Acre-Brasília, julho/1960'. Fonte: exposicoesvirtuais.an.gov.br. Mostra trabalhadores e uma placa 'BRASILIA VILHENA 2.101 Kms.'] [IMAGEM 2: Foto 'Juscelino Kubitschek em palestra no Clube Militar no Rio de Janeiro, 21/07/1959'. Fonte: cpdoc.fgv.br. Mostra JK com um mapa 'PRINCIPAIS ESTRADAS DA META RODOVIÁRIA' ao fundo.] O governo de Juscelino Kubitschek (1956-1961) celebrizou-se pela aplicação do Plano de Metas, que incluía a construção de rodovias federais. A partir da observação das fotos, um dos principais desafios associados à plena realização da meta rodoviária foi:",
+      principal: "[IMAGEM 1: Foto 'Obras da rodovia Acre-Brasília, $julho/1960$'. Fonte: exposicoesvirtuais.an.gov.br. Mostra trabalhadores e uma placa 'BRASILIA VILHENA 2.101 Kms.'] [IMAGEM 2: Foto 'Juscelino Kubitschek em palestra no Clube Militar no Rio de Janeiro, 21/07/1959'. Fonte: cpdoc.fgv.br. Mostra JK com um mapa 'PRINCIPAIS ESTRADAS DA META RODOVIÁRIA' ao fundo.] O governo de Juscelino Kubitschek (1956-1961) celebrizou-se pela aplicação do Plano de Metas, que incluía a construção de rodovias federais. A partir da observação das fotos, um dos principais desafios associados à plena realização da meta rodoviária foi:",
       subItens: []
     },
     options: [

@@ -3,7 +3,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "Os lados a, b e c de um triângulo estão em PA nesta ordem, sendo opostos aos ângulos internos Â, B e Ĉ, respectivamente. Determine o valor da expressão: COS(Â - Ĉ)/2 / COS(Â + Ĉ)/2",
+      principal: "Os lados a, b e c de um triângulo estão em PA nesta ordem, sendo opostos aos ângulos internos Â, B e Ĉ, respectivamente. Determine o valor da expressão: $\\cos$(Â - Ĉ)/2 / $\\cos$(Â + Ĉ)/2",
       subItens: []
     },
     options: [
@@ -24,13 +24,13 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "Sejam x e y números reais não nulos tais que: log_x y^π + log_y x^e = a, 1/log_x y^{-1} - 1/log_x y^e^{-1} = b. O valor de x^(a+b+2e) / y^(a-b+2π) é:",
+      principal: "Sejam x e y números reais não nulos tais que: $\\log_x$ y^π + $\\log_y$ $x^e$ = a, $1/log_x$ y^{-1} - $1/log_x$ y^e^{-1} = b. O valor de x^(a+b+2e) / y^(a-b+2π) é:",
       subItens: []
     },
     options: [
       "1",
       "√π/e",
-      "√a.e/b.π",
+      "√a.$e/b$.π",
       "a-b",
       "(a+b)^e / π"
     ],
@@ -45,7 +45,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "A função f: R→R é definida por: f(x) = ln( (8 + 3 sen x - sen 3x) / (8 - 4 sen x + 2 sen 2x cos x) ). Marque a opção verdadeira:",
+      principal: "A função f: R→R é definida por: f(x) = ln( (8 + 3 $\\sin$ x - $\\sin$ 3x) / (8 - 4 $\\sin$ x + 2 $\\sin$ 2x $\\cos$ x) ). Marque a opção verdadeira:",
       subItens: []
     },
     options: [
@@ -150,7 +150,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "O número de soluções da equação cos(8x) = sen(2x) + tg²(x) + cotg²(x) no intervalo [ 0, 2π ) é:",
+      principal: "O número de soluções da equação $\\cos$(8x) = $\\sin$(2x) + $\\tan$²(x) + $\\cot$²(x) no intervalo [ 0, 2π ) é:",
       subItens: []
     },
     options: [
@@ -200,7 +200,7 @@ createQuestion({
       "4",
       "2√3",
       "3",
-      "4√10/5"
+      "4√$10/5$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "O lugar geométrico no plano complexo de w = z + 1/z, sendo z número complexo tal que |z| = k e k > 1, é um(a):",
+      principal: "O lugar geométrico no plano complexo de w = z + $1/z$, sendo z número complexo tal que |z| = k e k > 1, é um(a):",
       subItens: []
     },
     options: [
@@ -240,9 +240,9 @@ createQuestion({
     options: [
       "0,80",
       "0,98",
-      "180/181",
-      "179/181",
-      "170/181"
+      "$180/181$",
+      "$179/181$",
+      "$170/181$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -259,7 +259,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "ab/2",
+      "$ab/2$",
       "(a+b)²/2",
       "(a+b)/2 * √ab",
       "(2a+b)/2 * √ab",
@@ -318,7 +318,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "Uma chapa rígida e homogênea encontra-se em equilíbrio. Com base nas dimensões apresentadas na figura, o valor da razão x/a é",
+      principal: "Uma chapa rígida e homogênea encontra-se em equilíbrio. Com base nas dimensões apresentadas na figura, o valor da razão $x/a$ é",
       subItens: []
     },
     options: [
@@ -360,7 +360,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "A figura acima apresenta um pêndulo simples constituído por um corpo de massa 4 g e carga + 50 μC e um fio inextensível de 1 m. Esse sistema se encontra sob a ação de um campo elétrico E de 128 kN/C, indicado na figura. Considerando que o pêndulo oscile com amplitude pequena e que o campo gravitacional seja desprezível, o período de oscilação, em segundos, é",
+      principal: "A figura acima apresenta um pêndulo simples constituído por um corpo de massa 4 g e carga + 50 μC e um fio inextensível de 1 m. Esse sistema se encontra sob a ação de um campo elétrico E de 128 $kN/C$, indicado na figura. Considerando que o pêndulo oscile com amplitude pequena e que o campo gravitacional seja desprezível, o período de oscilação, em segundos, é",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "A figura acima mostra um conjunto massa-mola conectado a uma roldana por meio de um cabo. Na extremidade do cabo há um recipiente na forma de um tronco de cone de 10 cm x 20 cm x 30 cm de dimensões (diâmetro da base superior x diâmetro da base inferior x altura) e com peso desprezível. O cabo é inextensível e também tem peso desprezível. Não há atrito entre o cabo e a roldana. No estado inicial, o carro encontra-se em uma posição tal que o alongamento na mola é nulo e o cabo não se encontra tracionado. A partir de um instante, o recipiente começa a ser completado lentamente com um fluido com massa específica de 3000 kg/m³. Sabendo que o coeficiente de rigidez da mola é 3300 N/m e a aceleração da gravidade é 10 m/s², o alongamento da mola no instante em que o recipiente se encontrar totalmente cheio, em cm, é igual a",
+      principal: "A figura acima mostra um conjunto massa-mola conectado a uma roldana por meio de um cabo. Na extremidade do cabo há um recipiente na forma de um tronco de cone de 10 cm x 20 cm x 30 cm de dimensões (diâmetro da base superior x diâmetro da base inferior x altura) e com peso desprezível. O cabo é inextensível e também tem peso desprezível. Não há atrito entre o cabo e a roldana. No estado inicial, o carro encontra-se em uma posição tal que o alongamento na mola é nulo e o cabo não se encontra tracionado. A partir de um instante, o recipiente começa a ser completado lentamente com um fluido com massa específica de 3000 $kg/m$³. Sabendo que o coeficiente de rigidez da mola é 3300 $N/m$ e a aceleração da gravidade é 10 $m/s$², o alongamento da mola no instante em que o recipiente se encontrar totalmente cheio, em cm, é igual a",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "A Figura 1 apresenta um sistema composto por um trilho fixo em U e uma barra móvel que se desloca na vertical com velocidade v suspensa por um balão de massa desprezível. O trilho e a barra são condutores elétricos e permanecem sempre em contato sem atrito. Este conjunto está em uma região sujeita a uma densidade de fluxo magnético B que forma com a horizontal uma ângulo θ, como ilustrado na Figura 2. Diante do exposto, o valor da corrente induzida no sistema, em ampères, no estado estacionário é: Dados: massa da barra: 1 kg; aceleração da gravidade g: 10 m/s²; ângulo θ entre a horizontal e o vetor B: 60°; massa específica do ar: 1,2 kg/m³; volume constante do balão: 0,5 m³; comprimento da barra entre os trilhos: 0,2 m; densidade de fluxo magnético B: 4 T. Observação: despreze a massa do balão com o hélio e o atrito entre a barra e os trilhos.",
+      principal: "A Figura 1 apresenta um sistema composto por um trilho fixo em U e uma barra móvel que se desloca na vertical com velocidade v suspensa por um balão de massa desprezível. O trilho e a barra são condutores elétricos e permanecem sempre em contato sem atrito. Este conjunto está em uma região sujeita a uma densidade de fluxo magnético B que forma com a horizontal uma ângulo θ, como ilustrado na Figura 2. Diante do exposto, o valor da corrente induzida no sistema, em ampères, no estado estacionário é: Dados: massa da barra: 1 kg; aceleração da gravidade g: 10 $m/s$²; ângulo θ entre a horizontal e o vetor B: 60°; massa específica do ar: 1,2 $kg/m$³; volume constante do balão: 0,5 m³; comprimento da barra entre os trilhos: 0,2 m; densidade de fluxo magnético B: 4 T. Observação: despreze a massa do balão com o hélio e o atrito entre a barra e os trilhos.",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "A figura acima apresenta um circuito elétrico e um sistema de balança. O circuito é composto por uma Fonte em U, cinco resistores, um capacitor, um quadrado formado por um fio homogêneo, duas chaves e um eletroímã interligados por fios de resistência desprezível. O sistema de balança é composto por um bloco e um balde de massa desprezível que está sendo preenchido por água através de um dispositivo. Sabe-se que, imediatamente após o carregamento do capacitor, a chave Cha se abrirá e a chave Chb se fechará, fazendo com que o capacitor alimente o eletroímã, de modo que este acione um dispositivo que interromperá o fluxo de água para o balde. O valor do capacitor para que o sistema balde e bloco fique em equilíbrio e a energia dissipada no fio a partir do momento em que o capacitor esteja completamente carregado até o vigésimo segundo são, respectivamente. Dados: U = 100 V; resistência total do fio: 32 kΩ; fluxo de água: 200 ml/s; massa específica da água = 1 g/cm³; massa do bloco: 0,8 kg. Observações: despreze a massa do balde; considere o capacitor carregado em um tempo correspondente a cinco vezes a constante de tempo.",
+      principal: "A figura acima apresenta um circuito elétrico e um sistema de balança. O circuito é composto por uma Fonte em U, cinco resistores, um capacitor, um quadrado formado por um fio homogêneo, duas chaves e um eletroímã interligados por fios de resistência desprezível. O sistema de balança é composto por um bloco e um balde de massa desprezível que está sendo preenchido por água através de um dispositivo. Sabe-se que, imediatamente após o carregamento do capacitor, a chave Cha se abrirá e a chave Chb se fechará, fazendo com que o capacitor alimente o eletroímã, de modo que este acione um dispositivo que interromperá o fluxo de água para o balde. O valor do capacitor para que o sistema balde e bloco fique em equilíbrio e a energia dissipada no fio a partir do momento em que o capacitor esteja completamente carregado até o vigésimo segundo são, respectivamente. Dados: U = 100 V; resistência total do fio: 32 kΩ; fluxo de água: 200 $ml/s$; massa específica da água = 1 $g/cm$³; massa do bloco: 0,8 kg. Observações: despreze a massa do balde; considere o capacitor carregado em um tempo correspondente a cinco vezes a constante de tempo.",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "Um volume V₁ de uma solução aquosa de HCl 6 mol/L contém inicialmente uma massa mo de íons Fe+3. São realizadas n extrações utilizando, em cada uma delas, o mesmo volume V₂ de éter etílico, o qual é um solvente seletivo para FeCl3. Sabendo que o coeficiente de partição do ferro entre o éter e a solução aquosa de HCl vale K, qual das expressões abaixo é equivalente à massa de íons Fe+3 remanescente na fase aquosa ao final do processo? Suponha que a extração do soluto não altera o volume da solução de HCl.",
+      principal: "Um volume V₁ de uma solução aquosa de HCl 6 $mol/L$ contém inicialmente uma massa mo de íons Fe+3. São realizadas n extrações utilizando, em cada uma delas, o mesmo volume V₂ de éter etílico, o qual é um solvente seletivo para FeCl3. Sabendo que o coeficiente de partição do ferro entre o éter e a solução aquosa de HCl vale K, qual das expressões abaixo é equivalente à massa de íons Fe+3 remanescente na fase aquosa ao final do processo? Suponha que a extração do soluto não altera o volume da solução de HCl.",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "Um pesquisador verificou, em uma determinada posição geográfica, por meio da análise de amostras de água do mar extraídas do local, que a massa específica média da água do mar era 1,05 g/mL, a concentração média de espécies dissolvidas era 0,80 mol/L e a temperatura média era de 290 K. O mesmo pesquisador, com o objetivo de colher água doce em seu estudo, planeja envolver, com uma membrana semipermeável ideal, uma das extremidades abertas de um longo tubo, a qual será imersa na água do mar. A que profundidade mínima, em metros, o tubo deveria ser imerso? Dados: R = 0,08 atm.L/K.mol = 8,3 J/K.mol = 62,3 mmHg.L/K.mol; g = 10,0 m/s².",
+      principal: "Um pesquisador verificou, em uma determinada posição geográfica, por meio da análise de amostras de água do mar extraídas do local, que a massa específica média da água do mar era 1,05 $g/mL$, a concentração média de espécies dissolvidas era 0,80 $mol/L$ e a temperatura média era de 290 K. O mesmo pesquisador, com o objetivo de colher água doce em seu estudo, planeja envolver, com uma membrana semipermeável ideal, uma das extremidades abertas de um longo tubo, a qual será imersa na água do mar. A que profundidade mínima, em metros, o tubo deveria ser imerso? Dados: R = 0,08 atm.$L/K$.mol = 8,3 $J/K$.mol = 62,3 mmHg.$L/K$.mol; g = 10,0 $m/s$².",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "ime",
     year: 2015,
     text: {
-      principal: "Considere as etapas sequenciais de mistura/filtração do processo não contínuo a seguir. No Misturador 1, antes da adição de 100 mL de uma solução aquosa de sulfato de amônio 20 g/L, encontram-se 100 mL de uma solução aquosa composta por massas iguais de nitrato de prata, nitrato cúprico e nitrato de chumbo (II), de concentração total 60 g/L. Ao Misturador 2, que contém o material passante do Filtro 1, adicionam-se 100 mL de uma solução aquosa de carbonato de sódio 40 g/L e uma pequena quantidade de uma solução de hidróxido de sódio objetivando o adequado ajuste do pH de precipitação para, em seguida, proceder a filtração. Sobre os produtos de filtração, pode se dizer que:",
+      principal: "Considere as etapas sequenciais de $mistura/filtra$ção do processo não contínuo a seguir. No Misturador 1, antes da adição de 100 mL de uma solução aquosa de sulfato de amônio 20 $g/L$, encontram-se 100 mL de uma solução aquosa composta por massas iguais de nitrato de prata, nitrato cúprico e nitrato de chumbo (II), de concentração total 60 $g/L$. Ao Misturador 2, que contém o material passante do Filtro 1, adicionam-se 100 mL de uma solução aquosa de carbonato de sódio 40 $g/L$ e uma pequena quantidade de uma solução de hidróxido de sódio objetivando o adequado ajuste do pH de precipitação para, em seguida, proceder a filtração. Sobre os produtos de filtração, pode se dizer que:",
       subItens: []
     },
     options: [

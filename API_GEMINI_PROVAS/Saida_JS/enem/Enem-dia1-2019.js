@@ -591,7 +591,7 @@ createQuestion({
     university: "enem",
     year: 2019,
     text: {
-      principal: "A rede é, antes de tudo, um instrumento de comunicação entre pessoas, um laço virtual em que as comunidades auxiliam seus membros a aprender o que querem saber. Os dados não representam senão a matéria-prima de um processo intelectual e social vivo, altamente elaborado. Enfim, toda inteligência coletiva do mundo jamais dispensará a inteligência pessoal, o esforço individual e o tempo necessário para aprender, pesquisar, avaliar e integrar-se a diversas comunidades, sejam elas virtuais ou não. A rede jamais pensará em seu lugar, fique tranquilo.\nLÉVY, P. A máquina universo: criação, cognição e cultura informática. Porto Alegre: Artmed, 1998.\nNo contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
+      principal: "A rede é, antes de tudo, um instrumento de comunicação entre pessoas, um laço virtual em que as comunidades auxiliam seus membros a aprender o que querem saber. Os dados não representam $\\sin$ão a matéria-prima de um processo intelectual e social vivo, altamente elaborado. Enfim, toda inteligência coletiva do mundo jamais dispensará a inteligência pessoal, o esforço individual e o tempo necessário para aprender, pesquisar, avaliar e integrar-se a diversas comunidades, sejam elas virtuais ou não. A rede jamais pensará em seu lugar, fique tranquilo.\nLÉVY, P. A máquina universo: criação, cognição e cultura informática. Porto Alegre: Artmed, 1998.\nNo contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
       subItens: []
     },
     options: [
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "enem",
     year: 2019,
     text: {
-      principal: "A maior parte das agressões e manifestações discriminatórias contra as religiões de matrizes africanas ocorrem em locais públicos (57%). É na rua, na via pública, que tiveram lugar mais de 2/3 das agressões, geralmente em locais próximos às casas de culto dessas religiões. O transporte público também é apontado como um local em que os adeptos das religiões de matrizes africanas são discriminados, geralmente quando se encontram paramentados por conta dos preceitos religiosos.\nREGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M. Cartografia social de terreiros no Rio de Janeiro. Rio de Janeiro: PUC-Rio, 2014.\nAs práticas descritas no texto são incompatíveis com a dinâmica de uma sociedade laica e democrática porque",
+      principal: "A maior parte das agressões e manifestações discriminatórias contra as religiões de matrizes africanas ocorrem em locais públicos (57%). É na rua, na via pública, que tiveram lugar mais de $2/3$ das agressões, geralmente em locais próximos às casas de culto dessas religiões. O transporte público também é apontado como um local em que os adeptos das religiões de matrizes africanas são discriminados, geralmente quando se encontram paramentados por conta dos preceitos religiosos.\nREGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M. Cartografia social de terreiros no Rio de Janeiro. Rio de Janeiro: PUC-Rio, 2014.\nAs práticas descritas no texto são incompatíveis com a dinâmica de uma sociedade laica e democrática porque",
       subItens: []
     },
     options: [
@@ -1452,7 +1452,7 @@ createQuestion({
     university: "enem",
     year: 2019,
     text: {
-      principal: "Em nenhuma outra época o corpo magro adquiriu um sentido de corpo ideal e esteve tão em evidência como nos dias atuais: esse corpo, nu ou vestido, exposto em diversas revistas femininas e masculinas, está na moda: é capa de revistas, matérias de jornais, manchetes publicitárias, e se transformou em sonho de consumo para milhares de pessoas. Partindo dessa concepção, o gordo passa a ter um corpo visivelmente sem comedimento, sem saúde, um corpo estigmatizado pelo desvio, o desvio pelo excesso. Entretanto, como afirma a escritora Marylin Wann, é perfeitamente possível ser gordo e saudável. Frequentemente os gordos adoecem não por causa da gordura, mas sim pelo estresse, pela opressão a que são submetidos.\nVASCONCELOS, N. A.; SUDO, I.; SUDO, N. Um peso na alma: o corpo gordo e a mídia. Revista Mal-Estar e Subjetividade, n. 1, mar. 2004 (adaptado).\nNo texto, o tratamento predominante na mídia sobre a relação entre saúde e corpo recebe a seguinte crítica:",
+      principal: "Em nenhuma outra época o corpo magro adquiriu um sentido de corpo ideal e esteve tão em evidência como nos dias atuais: esse corpo, $\\nu$ ou vestido, exposto em diversas revistas femininas e masculinas, está na moda: é capa de revistas, matérias de jornais, manchetes publicitárias, e se transformou em sonho de consumo para milhares de pessoas. Partindo dessa concepção, o gordo passa a ter um corpo visivelmente sem comedimento, sem saúde, um corpo estigmatizado pelo desvio, o desvio pelo excesso. Entretanto, como afirma a escritora Marylin Wann, é perfeitamente possível ser gordo e saudável. Frequentemente os gordos adoecem não por causa da gordura, mas sim pelo estresse, pela opressão a que são submetidos.\nVASCONCELOS, N. A.; SUDO, I.; SUDO, N. Um peso na alma: o corpo gordo e a mídia. Revista Mal-Estar e Subjetividade, n. 1, mar. 2004 (adaptado).\nNo texto, o tratamento predominante na mídia sobre a relação entre saúde e corpo recebe a seguinte crítica:",
       subItens: []
     },
     options: [
@@ -1599,7 +1599,7 @@ createQuestion({
     university: "enem",
     year: 2019,
     text: {
-      principal: "veracidade (image of graffiti)\nFala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\nVALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado).\nA manifestação artística expressa na imagem e apresentada no texto integra um movimento contemporâneo de",
+      principal: "veracidade (image of graffiti)\nFala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\nVALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, $maio/ago$. 2017 (adaptado).\nA manifestação artística expressa na imagem e apresentada no texto integra um movimento contemporâneo de",
       subItens: []
     },
     options: [
@@ -1620,7 +1620,7 @@ createQuestion({
     university: "enem",
     year: 2019,
     text: {
-      principal: "TEXTO I\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\nKANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).\nTEXTO II\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\nFONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.\nA releitura realizada pela poeta inverte as seguintes ideias centrais do pensamento kantiano:",
+      principal: "TEXTO I\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\nKANT, I. Crítica da razão prática. Lisboa: Edições 70, $s/d$ (adaptado).\nTEXTO II\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\nFONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.\nA releitura realizada pela poeta inverte as seguintes ideias centrais do pensamento kantiano:",
       subItens: []
     },
     options: [

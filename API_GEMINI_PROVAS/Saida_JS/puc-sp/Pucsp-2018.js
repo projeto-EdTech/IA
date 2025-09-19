@@ -123,7 +123,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "O metabolismo de certos microrganismos gera elétrons que podem ser capturados por eletrodos e utilizados na geração de energia elétrica. Alguns desses microrganismos vivem no solo próximo às raízes das plantas, beneficiando-se de produtos orgânicos sintetizados durante a fotossíntese e incorporados ao solo pelas raízes. Um grupo de pesquisadores peruanos desenvolveu um sistema de captação dos elétrons provenientes do metabolismo de geobactérias, composto de eletrodos inseridos em uma placa que recebe esses elétrons e gera um fluxo de corrente elétrica que será armazenada em uma bateria. Essa energia é suficiente para manter o funcionamento de uma lâmpada LED por até duas horas diárias, o que é particularmente útil para populações humanas que não têm acesso algum à energia elétrica. Nesse contexto, considere o gráfico a seguir.\nCaptação líquida de CO2 (µmol CO2/m²/s)\n20\n10\n0\n-10\n250\nPlanta de sol\nPlanta de sombra\n750\nIntensidade luminosa (µmol/m²/s)\n1250\nFonte: <https://fluence.science/science/photosynthesis-guide/>\nSupondo que o abastecimento das geobactérias pelas raízes das plantas seja proporcional à produtividade na fotossíntese, assinale a alternativa CORRETA.",
+      principal: "O metabolismo de certos microrganismos gera elétrons que podem ser capturados por eletrodos e utilizados na geração de energia elétrica. Alguns desses microrganismos vivem no solo próximo às raízes das plantas, beneficiando-se de produtos orgânicos sintetizados durante a fotossíntese e incorporados ao solo pelas raízes. Um grupo de pesquisadores peruanos desenvolveu um sistema de captação dos elétrons provenientes do metabolismo de geobactérias, composto de eletrodos inseridos em uma placa que recebe esses elétrons e gera um fluxo de corrente elétrica que será armazenada em uma bateria. Essa energia é suficiente para manter o funcionamento de uma lâmpada LED por até duas horas diárias, o que é particularmente útil para populações humanas que não têm acesso algum à energia elétrica. Nesse contexto, considere o gráfico a seguir.\nCaptação líquida de CO2 (µmol $CO2/m$²/s)\n20\n10\n0\n-10\n250\nPlanta de sol\nPlanta de sombra\n750\nIntensidade luminosa (µ$mol/m$²/s)\n1250\nFonte: <https://fluence.science/science/photosynthesis-guide/>\nSupondo que o abastecimento das geobactérias pelas raízes das plantas seja proporcional à produtividade na fotossíntese, assinale a alternativa CORRETA.",
       subItens: []
     },
     options: [
@@ -203,7 +203,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "A ocorrência do eclipse da figura só foi possível porque a Lua, além de estar alinhada com o Sol e a Terra, estava na fase\n<\n3/31 SLIDES © Patrick Gorski/NurPhoto via Getty Images\n>\nCHESTER, ILLINOIS, ESTADOS UNIDOS\nO ECLIPSE SOLAR TOTAL É VISTO DA PONTE DO RIO MARY\nhttp://www.msn.com/pt-br/clima/noticias-do-clima/imagens Consultado em: (31/08/2017)",
+      principal: "A ocorrência do eclipse da figura só foi possível porque a Lua, além de estar alinhada com o Sol e a Terra, estava na fase\n<\n$3/31$ SLIDES © Patrick $Gorski/NurPhoto$ via Getty Images\n>\nCHESTER, ILLINOIS, ESTADOS UNIDOS\nO ECLIPSE SOLAR TOTAL É VISTO DA PONTE DO RIO MARY\nhttp://www.msn.$com/pt$-br/clima/noticias-do-$clima/imagens$ Consultado em: (31/08/2017)",
       subItens: []
     },
     options: [
@@ -263,7 +263,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "Num dia de temperatura igual a 25°C, uma forte descarga elétrica atingiu a ponta de captação central de um para-raios durante 1,2x10⁻⁴ segundos, provocando a fusão de 400g de sua massa que é de cobre.\nDetermine, em gigawatts, a potência média aproximada dessa descarga elétrica.\nTERMINAL AÉREO DE CAPTAÇÃO\ntp://www.lojaeletrica.com.br/para-raios",
+      principal: "Num dia de temperatura igual a 25°C, uma forte descarga elétrica atingiu a ponta de captação central de um para-raios durante 1,2x10⁻⁴ segundos, provocando a fusão de 400g de sua massa que é de cobre.\nDetermine, em gigawatts, a potência média aproximada dessa descarga elétrica.\nTERMINAL AÉREO DE CAPTAÇÃO\ntp://www.lojaeletrica.com.$br/para$-raios",
       subItens: []
     },
     options: [
@@ -303,7 +303,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "Por uma luva de redução de PVC, que fará parte de uma tubulação, passarão 180 litros de água por minuto. Os diâmetros internos dessa luva são 100mm para a entrada e 60mm para a saída da água.\nDetermine, em m/s, a velocidade aproximada de saída da água por essa luva.\nsaída\nA\nentrada\nhttp://www.pvcbrazil.com.br",
+      principal: "Por uma luva de redução de PVC, que fará parte de uma tubulação, passarão 180 litros de água por minuto. Os diâmetros internos dessa luva são 100mm para a entrada e 60mm para a saída da água.\nDetermine, em $m/s$, a velocidade aproximada de saída da água por essa luva.\nsaída\nA\nentrada\nhttp://www.pvcbrazil.com.br",
       subItens: []
     },
     options: [
@@ -343,7 +343,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "Duas esferas metálicas idênticas, de massas iguais a 1kg, são disparadas simultaneamente do alto de uma plataforma de 3m de altura em relação ao solo. A plataforma é retirada após os lançamentos. A esfera 1 é lançada verticalmente para cima com velocidade de módulo igual a 3m/s. A esfera 2 é disparada obliquamente com velocidade de módulo igual a 20m/s, formando 30° com o plano horizontal.\nDetermine, em relação ao solo, as energias potencial gravitacional e cinética, respectivamente, da Esfera 1, no exato momento em que a Esfera 2 atinge a altura máxima de seu movimento. Despreze o atrito com o ar.\n3m\nV1\n30°\n12",
+      principal: "Duas esferas metálicas idênticas, de massas iguais a 1kg, são disparadas simultaneamente do alto de uma plataforma de 3m de altura em relação ao solo. A plataforma é retirada após os lançamentos. A esfera 1 é lançada verticalmente para cima com velocidade de módulo igual a $3m/s$. A esfera 2 é disparada obliquamente com velocidade de módulo igual a $20m/s$, formando 30° com o plano horizontal.\nDetermine, em relação ao solo, as energias potencial gravitacional e cinética, respectivamente, da Esfera 1, no exato momento em que a Esfera 2 atinge a altura máxima de seu movimento. Despreze o atrito com o ar.\n3m\nV1\n30°\n12",
       subItens: []
     },
     options: [
@@ -403,14 +403,14 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "Dados os valores de energia de ligação em kJ/mol e a reação a seguir, calcule o ∆H desse processo.\nH₂₍g₎ + Cl₂₍g₎ → 2 HCl₍g₎\nLigação\nEnergia\n(kJ/mol)\nH-H\n436\nCl-Cl\n242\nH-Cl\n431",
+      principal: "Dados os valores de energia de ligação em $kJ/mol$ e a reação a seguir, calcule o ∆H desse processo.\nH₂₍g₎ + Cl₂₍g₎ → 2 HCl₍g₎\nLigação\nEnergia\n($kJ/mol$)\nH-H\n436\nCl-Cl\n242\nH-Cl\n431",
       subItens: []
     },
     options: [
-      "– 184 kJ/mol.",
-      "+ 184 kJ/mol.",
-      "+ 247 kJ/mol.",
-      "– 247 kJ/mol."
+      "– 184 $kJ/mol$.",
+      "+ 184 $kJ/mol$.",
+      "+ 247 $kJ/mol$.",
+      "– 247 $kJ/mol$."
     ],
     correctAnswer: 0,
     materia: ["Química"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "No dia 13 de setembro desse ano, completaram-se 30 anos do acidente com o Césio - 137.\n12 caderno quinta-feira, 110/8\nNacional\nJORNAL DO BRASIT\nCésio em ferro-velho espalha radioatividade em Goiânia\nJnäomar Carvalhe\nGOEANIA Domes peusi\nUm\nremédio\nmortal\nDepart\nHagner Mota recolheu a cápsula com cáslo e foi internade\npregalo em modeias\nmuclear pora conurele de ev\npunião de tantes quando\namorse, pode provocar e efoto\ncartrana so depos\nBenedico de\nJelesteo Bawlessa de\nSunta Unca\nque depondcado de e\nde de redação aterada\nprovocar, de locu\nrapis castricas, paralisia\nrescama nervoso ocaerse saor\nse. A Inaga prazo, pode cover\n(meninação\nBlam expitou ее изо\nasifter gravida pode abortor\nse for exposte so cesto 137.\neloseate capat de provocar\nansformate nos vos, dupon\nacado de garatsede de radia\nção que ahuarver.\nObserve a equação a seguir:\n¹³⁷₅₅Cs → X + ¹³⁷₅₆Ba\nO X pode ser corretamente substituído por",
+      principal: "No dia 13 de setembro desse ano, completaram-se 30 anos do acidente com o Césio - 137.\n12 caderno quinta-feira, $110/8$\nNacional\nJORNAL DO BRASIT\nCésio em ferro-velho espalha radioatividade em Goiânia\nJnäomar Carvalhe\nGOEANIA Domes peusi\nUm\nremédio\nmortal\nDepart\nHagner Mota recolheu a cápsula com cáslo e foi internade\npregalo em modeias\nmuclear pora conurele de ev\npunião de tantes quando\namorse, pode provocar e efoto\ncartrana so depos\nBenedico de\nJelesteo Bawlessa de\nSunta Unca\nque depondcado de e\nde de redação aterada\nprovocar, de locu\nrapis castricas, paralisia\nrescama nervoso ocaerse saor\nse. A Inaga prazo, pode cover\n(meninação\nBlam expitou ее изо\nasifter gravida pode abortor\nse for exposte so cesto 137.\neloseate capat de provocar\nansformate nos vos, dupon\nacado de garatsede de radia\nção que ahuarver.\nObserve a equação a seguir:\n¹³⁷₅₅Cs → X + ¹³⁷₅₆Ba\nO X pode ser corretamente substituído por",
       subItens: []
     },
     options: [
@@ -563,14 +563,14 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "A função f(x) = x_2/2 e a circunferência de centro C e equação (x-2)²+(y-2)² = 8 se intersectam nos pontos P e O, sendo O a origem do sistema cartesiano, conforme mostra o gráfico.\nS\nC\nC\nP\nf(x)\nFora de escala\nX\nA equação da reta s, tangente à circunferência no ponto P, pode ser dada por",
+      principal: "A função f(x) = $x_2/2$ e a circunferência de centro C e equação (x-2)²+(y-2)² = 8 se intersectam nos pontos P e O, sendo O a origem do sistema cartesiano, conforme mostra o gráfico.\nS\nC\nC\nP\nf(x)\nFora de escala\nX\nA equação da reta s, tangente à circunferência no ponto P, pode ser dada por",
       subItens: []
     },
     options: [
       "y = -x.",
       "y = -x + 8.",
       "y = − x + 2.",
-      "y = -x/2."
+      "y = -$x/2$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -587,10 +587,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4/3.",
-      "8/3.",
-      "3/4.",
-      "3/8."
+      "$4/3$.",
+      "$8/3$.",
+      "$3/4$.",
+      "$3/8$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -623,14 +623,14 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "As funções f(x) = 3/2 + log₁₀(x-1) e g(x) = k·2^(x+1), com k um número real, se intersectam no ponto P=(2, 3/2). O valor de g(f(11)) é",
+      principal: "As funções f(x) = $3/2$ + $\\log$₁₀(x-1) e g(x) = k·2^(x+1), com k um número real, se intersectam no ponto P=(2, $3/2$). O valor de g(f(11)) é",
       subItens: []
     },
     options: [
-      "3√2/4.",
-      "3√3/4.",
-      "2√3/3.",
-      "4√2/3."
+      "3√$2/4$.",
+      "3√$3/4$.",
+      "2√$3/3$.",
+      "4√$2/3$."
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -803,7 +803,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "Nota do Observatório de Sismologia da Universidade de Brasília do dia 21 de setembro de 2017:\n\"Sismógrafos da Rede Sismográfica Brasileira (RSBR) registraram, na manhã de hoje, às 05:33h (hora local), um sismo de magnitude 3.2 na Escala Richter sentido na região de Mutunópolis, Estrela do Norte e em outras cidades vizinhas. O evento foi localizado entre as cidades de Mutunópolis e Estrela do Norte/GO. Terremotos dessa magnitude são frequentes no Brasil, com ocorrência de cerca de 20 tremores somente em 2017. No local do epicentro desse sismo de hoje, já foram registrados 11 tremores com magnitudes acima de 3.0 desde 8 de outubro de 2010, quando ocorreu o maior tremor de terra já registrado no estado de Goiás (às 15:15h - local), com magnitude 5.0 na Escala Richter sentido inclusive em Brasília e Goiânia, localizadas a mais de 250 km do epicentro. Na área epicentral foram produzidas trincas, rachaduras e queda de telhas (intensidade VI na Escala Mercalli Modificada - MM). Em Brasília, alguns prédios foram evacuados. Este sismo ficou conhecido como sismo de Mara Rosa, por ser a cidade próxima mais importante. (...) Brasília, 21 de setembro de 2017\"\n(http://intrasis.unb.br/pdf/Nota_EN.pdf, acesso em 30/10/2017).\nO trecho acima, retirado do relatório emitido pelo Observatório, permite-nos refletir sobre a ideia amplamente difundida de que não há ocorrência de terremotos no Brasil.\nQuanto a esse fato, é CORRETO afirmar que:",
+      principal: "Nota do Observatório de Sismologia da Universidade de Brasília do dia 21 de setembro de 2017:\n\"Sismógrafos da Rede Sismográfica Brasileira (RSBR) registraram, na manhã de hoje, às 05:33h (hora local), um sismo de magnitude 3.2 na Escala Richter sentido na região de Mutunópolis, Estrela do Norte e em outras cidades vizinhas. O evento foi localizado entre as cidades de Mutunópolis e Estrela do $Norte/GO$. Terremotos dessa magnitude são frequentes no Brasil, com ocorrência de cerca de 20 tremores somente em 2017. No local do epicentro desse sismo de hoje, já foram registrados 11 tremores com magnitudes acima de 3.0 desde 8 de outubro de 2010, quando ocorreu o maior tremor de terra já registrado no estado de Goiás (às 15:15h - local), com magnitude 5.0 na Escala Richter sentido inclusive em Brasília e Goiânia, localizadas a mais de 250 km do epicentro. Na área epicentral foram produzidas trincas, rachaduras e queda de telhas (intensidade VI na Escala Mercalli Modificada - MM). Em Brasília, alguns prédios foram evacuados. Este sismo ficou conhecido como sismo de Mara Rosa, por ser a cidade próxima mais importante. (...) Brasília, 21 de setembro de 2017\"\n(http://intrasis.unb.br/pdf/Nota_EN.pdf, acesso em 30/10/2017).\nO trecho acima, retirado do relatório emitido pelo Observatório, permite-nos refletir sobre a ideia amplamente difundida de que não há ocorrência de terremotos no Brasil.\nQuanto a esse fato, é CORRETO afirmar que:",
       subItens: []
     },
     options: [
@@ -823,7 +823,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "Este já foi o quarto maior lago do mundo, está localizado entre o Cazaquistão e o Uzbequistão e é alimentado pelos rios Amu Darya e Syr Darya, cujas nascentes localizavam-se nas montanhas próximas. Seu nome significa \"mar de ilhas\" em função das mais de 1500 ilhas que existiam no local. Este lago de água salgada já possuiu 68000 km² de superfície e 1100 km³ de volume de água, mas tem encolhido gradualmente desde os anos 1960.\nAs imagens de satélite mostram as transformações no lago entre 1989 e 2009\nJulho/setembro 1989\nAgosto/2003\nAgosto/2009\nhttps://petapixel.com/2016/09/07/photos-show-one-worlds-largest-lakes-disappeared/,\nAcesso em 30/10/2017.\nDentre as alternativas abaixo, assinale aquela que identifica CORRETAMENTE o nome do lago em questão bem como os motivos que levaram à situação mostrada pelas imagens de satélite.",
+      principal: "Este já foi o quarto maior lago do mundo, está localizado entre o Cazaquistão e o Uzbequistão e é alimentado pelos rios Amu Darya e Syr Darya, cujas nascentes localizavam-se nas montanhas próximas. Seu nome significa \"mar de ilhas\" em função das mais de 1500 ilhas que existiam no local. Este lago de água salgada já possuiu 68000 km² de superfície e 1100 km³ de volume de água, mas tem encolhido gradualmente desde os anos 1960.\nAs imagens de satélite mostram as transformações no lago entre 1989 e 2009\n$Julho/setembro$ 1989\n$Agosto/2003$\n$Agosto/2009$\nhttps://petapixel.com/2016/09/07/photos-show-one-worlds-largest-lakes-disappeared/,\nAcesso em 30/10/2017.\nDentre as alternativas abaixo, assinale aquela que identifica CORRETAMENTE o nome do lago em questão bem como os motivos que levaram à situação mostrada pelas imagens de satélite.",
       subItens: []
     },
     options: [
@@ -863,12 +863,12 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "As imagens referem-se a dois momentos da dinâmica dos movimentos migratórios ocorridos no Brasil. Analise a alternativa que corretamente aponta quais são esses momentos.\nFOTO 1-Desembarque de imigrantes europeus na Hospedaria dos FOTO 2-Migrantes nordestinos chegando em São Paulo (Capital), na década\nImigrantes-SP, entre o final do século XIX e começo do século XX.\nde 1960\nhttp://www.inci.org.br, acesso em 30/10/2017\nhttp://desaopaulo.com.br/tag/pau-de-arara/, acesso em 30/10/2017\na) A Foto 1 retrata os imigrantes europeus na Hospedaria dos Imigrantes/SP. A vinda ao Brasil se dava para trabalhar nas fazendas de café. A Foto 2 refere-se ao deslocamento dos nordestinos para o sudeste para o trabalho na lavoura da soja no interior do Estado de São Paulo.\nb) A Foto 1 retrata os imigrantes europeus na Hospedaria dos Imigrantes/SP que tinham como destino as terras do sul do país. A Foto 2 refere-se aos migrantes nordestinos que chegavam a São Paulo atraídos pela plena oferta de empregos no setor terciário que se expandia.\nc) A Foto 1 retrata a chegada dos imigrantes imigrantes europeus que vinham para o Brasil atendendo a um pedido do governo brasileiro para trabalharem nas lavouras cafeeiras. A Foto 2 retrata migrantes nordestinos que vinham para o trabalho nas indústrias do interior do Estado de São Paulo.\nd) A Foto 1 retrata os imigrantes europeus que chegaram a São Paulo para trabalhar na lavoura cafeeira e na indústria nascente. A Foto 2 refere-se aos migrantes nordestinos que vinham para São Paulo para trabalhar principalmente no setor industrial e da construção civil.",
+      principal: "As imagens referem-se a dois momentos da dinâmica dos movimentos migratórios ocorridos no Brasil. Analise a alternativa que corretamente aponta quais são esses momentos.\nFOTO 1-Desembarque de imigrantes europeus na Hospedaria dos FOTO 2-Migrantes nordestinos chegando em São Paulo (Capital), na década\nImigrantes-SP, entre o final do século XIX e começo do século XX.\nde 1960\nhttp://www.inci.org.br, acesso em 30/10/2017\nhttp://desaopaulo.com.br/tag/pau-de-arara/, acesso em 30/10/2017\na) A Foto 1 retrata os imigrantes europeus na Hospedaria dos $Imigrantes/SP$. A vinda ao Brasil se dava para trabalhar nas fazendas de café. A Foto 2 refere-se ao deslocamento dos nordestinos para o sudeste para o trabalho na lavoura da soja no interior do Estado de São Paulo.\nb) A Foto 1 retrata os imigrantes europeus na Hospedaria dos $Imigrantes/SP$ que tinham como destino as terras do sul do país. A Foto 2 refere-se aos migrantes nordestinos que chegavam a São Paulo atraídos pela plena oferta de empregos no setor terciário que se expandia.\nc) A Foto 1 retrata a chegada dos imigrantes imigrantes europeus que vinham para o Brasil atendendo a um pedido do governo brasileiro para trabalharem nas lavouras cafeeiras. A Foto 2 retrata migrantes nordestinos que vinham para o trabalho nas indústrias do interior do Estado de São Paulo.\nd) A Foto 1 retrata os imigrantes europeus que chegaram a São Paulo para trabalhar na lavoura cafeeira e na indústria nascente. A Foto 2 refere-se aos migrantes nordestinos que vinham para São Paulo para trabalhar principalmente no setor industrial e da construção civil.",
       subItens: []
     },
     options: [
-      "A Foto 1 retrata os imigrantes europeus na Hospedaria dos Imigrantes/SP. A vinda ao Brasil se dava para trabalhar nas fazendas de café. A Foto 2 refere-se ao deslocamento dos nordestinos para o sudeste para o trabalho na lavoura da soja no interior do Estado de São Paulo.",
-      "A Foto 1 retrata os imigrantes europeus na Hospedaria dos Imigrantes/SP que tinham como destino as terras do sul do país. A Foto 2 refere-se aos migrantes nordestinos que chegavam a São Paulo atraídos pela plena oferta de empregos no setor terciário que se expandia.",
+      "A Foto 1 retrata os imigrantes europeus na Hospedaria dos $Imigrantes/SP$. A vinda ao Brasil se dava para trabalhar nas fazendas de café. A Foto 2 refere-se ao deslocamento dos nordestinos para o sudeste para o trabalho na lavoura da soja no interior do Estado de São Paulo.",
+      "A Foto 1 retrata os imigrantes europeus na Hospedaria dos $Imigrantes/SP$ que tinham como destino as terras do sul do país. A Foto 2 refere-se aos migrantes nordestinos que chegavam a São Paulo atraídos pela plena oferta de empregos no setor terciário que se expandia.",
       "A Foto 1 retrata a chegada dos imigrantes imigrantes europeus que vinham para o Brasil atendendo a um pedido do governo brasileiro para trabalharem nas lavouras cafeeiras. A Foto 2 retrata migrantes nordestinos que vinham para o trabalho nas indústrias do interior do Estado de São Paulo.",
       "A Foto 1 retrata os imigrantes europeus que chegaram a São Paulo para trabalhar na lavoura cafeeira e na indústria nascente. A Foto 2 refere-se aos migrantes nordestinos que vinham para São Paulo para trabalhar principalmente no setor industrial e da construção civil."
     ],
@@ -883,7 +883,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "Abaixo vemos o mapa mundi sob a projeção de Mercator. Esta foi a primeira representação cartográfica que abrangeu todo o globo terrestre como o conhecemos, sendo elaborada na Era Moderna.\nMercator: mapa de 1569\nhttp://www.historiadacartografia.com.br/projecao.html,\nAcesso em 30/10/2017.\nA respeito desta projeção, é CORRETO afirmar que",
+      principal: "Abaixo vemos o mapa mundi sob a projeção de Mercator. Esta foi a primeira representação cartográfica que abrangeu todo o globo terrestre como o conhecemos, sendo elaborada na Era Moderna.\nMercator: mapa de 1569\nhttp://www.historiadacartografia.com.$br/projecao$.html,\nAcesso em 30/10/2017.\nA respeito desta projeção, é CORRETO afirmar que",
       subItens: []
     },
     options: [
@@ -903,7 +903,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "Considere os textos abaixo.\n\"[...] Amúlio expulsa seu irmão e apodera-se do trono. Depois deste crime, cometeu outro: ele extermina todos os filhos varões do irmão e, sob o pretexto de honrar sua sobrinha Réia Sílvia, colocando-a entre as vestais, ele tira toda a esperança de se tornar mãe condenando-a à virgindade perpétua.\nMas acredito que o destino estava encarregado da fundação de uma cidade tão poderosa: era a ele que cabia lançar os alicerces deste vasto império que iguala o dos deuses. [...]\"\nTito Livio - História de Roma, livro I, p.10. - Texto traduzido e adaptado de TITO LÍVIO. Historia de Roma desde su fundación. (Ab urbe condita). http://historicodigital.com/download/tito%20livio%20i.pdf, acesso em 07/11/17\n\"Os romanos foram honrados em quase todas as nações: impuseram as leis da sua hegemonia a muitos povos: hoje, as letras e a história celebram-nos em quase todas as raças. Não têm motivo para queixar-se da justiça do Deus supremo e verdadeiro: eles receberam sua recompensa...; os judeus, que tinham morto Cristo, foram justamente entregues aos romanos, para a glória destes. Aqueles, que pelas suas virtudes, [...] procuraram e obtiveram a glória terrestre deviam vencer aqueles que, com seus enormes vícios, mataram e recusaram o dispensador da verdadeira glória e da Cidade Eterna.”\nSanto Agostinho - A Cidade de Deus - Livro V, cap. XVIII, p. 527. - Texto adaptado: http://charlezine.com.br/wp-content/uploads/Cidade-de-Deus-Agostinho.pdf. Acesso em 07/11/17\nOs textos foram escritos por cidadãos romanos, em diferentes épocas, e tratam momentos distintos da história de Roma. No entanto, eles concordam que",
+      principal: "Considere os textos abaixo.\n\"[...] Amúlio expulsa seu irmão e apodera-se do trono. Depois deste crime, cometeu outro: ele extermina todos os filhos varões do irmão e, sob o pretexto de honrar sua sobrinha Réia Sílvia, colocando-a entre as vestais, ele tira toda a esperança de se tornar mãe condenando-a à virgindade perpétua.\nMas acredito que o destino estava encarregado da fundação de uma cidade tão poderosa: era a ele que cabia lançar os alicerces deste vasto império que iguala o dos deuses. [...]\"\nTito Livio - História de Roma, livro I, p.10. - Texto traduzido e adaptado de TITO LÍVIO. Historia de Roma desde su fundación. (Ab urbe condita). http://historicodigital.com/download/tito%20livio%20i.pdf, acesso em 07/11/17\n\"Os romanos foram honrados em quase todas as nações: impuseram as leis da sua hegemonia a muitos povos: hoje, as letras e a história celebram-nos em quase todas as raças. Não têm motivo para queixar-se da justiça do Deus supremo e verdadeiro: eles receberam sua recompensa...; os judeus, que tinham morto Cristo, foram justamente entregues aos romanos, para a glória destes. Aqueles, que pelas suas virtudes, [...] procuraram e obtiveram a glória terrestre deviam vencer aqueles que, com seus enormes vícios, mataram e recusaram o dispensador da verdadeira glória e da Cidade Eterna.”\nSanto Agostinho - A Cidade de Deus - Livro V, cap. XVIII, p. 527. - Texto adaptado: http://charlezine.com.$br/wp$-content/uploads/Cidade-de-Deus-Agostinho.pdf. Acesso em 07/11/17\nOs textos foram escritos por cidadãos romanos, em diferentes épocas, e tratam momentos distintos da história de Roma. No entanto, eles concordam que",
       subItens: []
     },
     options: [
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "Responda as questões 55 e 56 de acordo com o texto de Jonathan Wolfe e a figura que o ilustra.\nNew York Today:\nGoodbye, Subway Seats\nBy JONATHAN WOLFE OCT. 5, 2017\nhttps://www.nytimes.com/Acessado em 10/10/2017. Adaptado.\n9559\nThe new seatless area on a redesigned\nE train car. Credit Metropolitan Transit Authority\nGood morning on this warming Thursday.\nSubway riders: Have you noticed anything missing from your commute? Like, maybe a seat?\nOn Tuesday, the Metropolitan Transportation Authority rolled out redesigned subway cars on the E line, with some of the seats removed.\nTo\nThe agency hopes that up to 10 more people will be able to squeeze into each new car — meaning 80 to 100 extra commuters per train to help reduce overcrowding. In all, 100 cars will lose their seats in the pilot program. The L train and the 42nd Street Shuttle are next in line for the redesign, according to the authority.\nYesterday, we waited at the 34th Street station for a few trains to pass before one of the refurbished models, with its navy blue wrapping, pulled into the station.\nWith the seats removed at the front and back of the car, it felt roomy, even, dare we say, luxurious — though that likely won't be the case during rush hour. People were enthusiastic about the interiors, calling them “bright,” “cheerful,” even “beautiful.”\nAs for the deleted seats, reviews were mixed.\nAssinale a alternativa CORRETA.",
+      principal: "Responda as questões 55 e 56 de acordo com o texto de Jonathan Wolfe e a figura que o ilustra.\nNew York Today:\nGoodbye, Subway Seats\nBy JONATHAN WOLFE OCT. 5, 2017\nhttps://www.nytimes.$com/Acessado$ em 10/10/2017. Adaptado.\n9559\nThe new seatless area on a redesigned\nE train car. Credit Metropolitan Transit Authority\nGood morning on this warming Thursday.\nSubway riders: Have you noticed anything missing from your commute? Like, maybe a seat?\nOn Tuesday, the Metropolitan Transportation Authority rolled out redesigned subway cars on the E line, with some of the seats removed.\nTo\nThe agency hopes that up to 10 more people will be able to squeeze into each new car — meaning 80 to 100 extra commuters per train to help reduce overcrowding. In all, 100 cars will lose their seats in the pilot program. The L train and the 42nd Street Shuttle are next in line for the redesign, according to the authority.\nYesterday, we waited at the 34th Street station for a few trains to pass before one of the refurbished models, with its navy blue wrapping, pulled into the station.\nWith the seats removed at the front and back of the car, it felt roomy, even, dare we say, luxurious — though that likely won't be the case during rush hour. People were enthusiastic about the interiors, calling them “bright,” “cheerful,” even “beautiful.”\nAs for the deleted seats, reviews were mixed.\nAssinale a alternativa CORRETA.",
       subItens: []
     },
     options: [
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "puc-sp",
     year: 2018,
     text: {
-      principal: "Leia o texto abaixo e responda as questões 58 e 59.\nHackers take control of US voting machines in less than 90 minutes\nBy Cara McGoogan\nwww.telegraph.co.uk/Acessado em 05/08/2017.\nBALLOT\nBOX\nPeople still have to vote manually in the UK Credit: PA\nHackers have managed to break into US voting systems and take control of them in minutes, raising fears that cyber criminals could easily tamper with elections results.\nSecurity experts cracked the security of digital ballot boxes used in US elections within 90 minutes at the Def Con hacking summit in Las Vegas. The hackers successfully broke into the boxes through their hardware and through wireless signals.\nDef Con staged the hack at its annual conference in Las Vegas to showcase the security of the US voting system. They purchased 30 different election machines from a US Government auction and timed how long it took them to break in.\nThe ethical hackers found voting machines running out-of-date and insecure software, which they were able to exploit to gain access to the devices. They also found hardware weaknesses that could have let cyber criminals tamper with the machines.\nDe acordo com o texto é CORRETO afirmar que",
+      principal: "Leia o texto abaixo e responda as questões 58 e 59.\nHackers take control of US voting machines in less than 90 minutes\nBy Cara McGoogan\nwww.telegraph.co.$uk/Acessado$ em 05/08/2017.\nBALLOT\nBOX\nPeople still have to vote manually in the UK Credit: PA\nHackers have managed to break into US voting systems and take control of them in minutes, raising fears that cyber criminals could easily tamper with elections results.\nSecurity experts cracked the security of digital ballot boxes used in US elections within 90 minutes at the Def Con hacking summit in Las Vegas. The hackers successfully broke into the boxes through their hardware and through wireless signals.\nDef Con staged the hack at its annual conference in Las Vegas to showcase the security of the US voting system. They purchased 30 different election machines from a US Government auction and timed how long it took them to break in.\nThe ethical hackers found voting machines running out-of-date and insecure software, which they were able to exploit to gain access to the devices. They also found hardware weaknesses that could have let cyber criminals tamper with the machines.\nDe acordo com o texto é CORRETO afirmar que",
       subItens: []
     },
     options: [

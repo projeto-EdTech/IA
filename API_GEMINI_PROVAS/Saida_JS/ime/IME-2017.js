@@ -66,7 +66,7 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "No desenvolvimento de (x.sen2β + 1/x cos2β)¹⁰ o valor do termo independente de x é igual a 63/256. Considerando que β é um número real, com 0 < β < π/8 e x ≠ 0, o valor de β é:",
+      principal: "No desenvolvimento de (x.sen2β + $1/x$ cos2β)¹⁰ o valor do termo independente de x é igual a $63/256$. Considerando que β é um número real, com 0 < β < π/8 e x ≠ 0, o valor de β é:",
       subItens: []
     },
     options: [
@@ -87,15 +87,15 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Calcule o valor de sen⁴α+cos⁴α / sen⁶α+cos⁶α, sabendo-se que senα cosα = 1/5.",
+      principal: "Calcule o valor de $\\sin$⁴α+$\\cos$⁴α / $\\sin$⁶α+$\\cos$⁶α, sabendo-se que $\\sin$α $\\cos$α = $1/5$.",
       subItens: []
     },
     options: [
-      "22/21",
-      "23/22",
-      "25/23",
-      "13/12",
-      "26/25"
+      "$22/21$",
+      "$23/22$",
+      "$25/23$",
+      "$13/12$",
+      "$26/25$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -129,13 +129,13 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Seja a equação y^(log₃ √3y) = y^(log₃ 3y - 6), y > 0. O produto das raízes reais desta equação é igual a:",
+      principal: "Seja a equação y^($\\log$₃ √3y) = y^($\\log$₃ 3y - 6), y > 0. O produto das raízes reais desta equação é igual a:",
       subItens: []
     },
     options: [
-      "1/3",
-      "1/2",
-      "3/4",
+      "$1/3$",
+      "$1/2$",
+      "$3/4$",
       "2",
       "3"
     ],
@@ -171,7 +171,7 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Sejam x, y e z números complexos que satisfazem ao sistema de equações abaixo:\n { x+y+z=7 \n x² + y² + z² = 25 \n 1/x + 1/y + 1/z = 1/4 \n O valor da soma x³ + y³ + z³ é:",
+      principal: "Sejam x, y e z números complexos que satisfazem ao sistema de equações abaixo:\n { x+y+z=7 \n x² + y² + z² = 25 \n $1/x$ + $1/y$ + $1/z$ = $1/4$ \n O valor da soma x³ + y³ + z³ é:",
       subItens: []
     },
     options: [
@@ -234,15 +234,15 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Sejam os pontos A(0,0), B(-1,1), C(1,2), D(4,1) e E(3, 1/2). A reta r passa por A e corta o lado CD, dividindo o pentágono ABCDE em dois polígonos de mesma área. Determine a soma das coordenadas do ponto de interseção da reta r com a reta que liga C e D.",
+      principal: "Sejam os pontos A(0,0), B(-1,1), C(1,2), D(4,1) e E(3, $1/2$). A reta r passa por A e corta o lado CD, dividindo o pentágono ABCDE em dois polígonos de mesma área. Determine a soma das coordenadas do ponto de interseção da reta r com a reta que liga C e D.",
       subItens: []
     },
     options: [
-      "25/7",
-      "51/14",
-      "26/7",
-      "53/14",
-      "27/7"
+      "$25/7$",
+      "$51/14$",
+      "$26/7$",
+      "$53/14$",
+      "$27/7$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -255,7 +255,7 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Dado um quadrado ABCD, de lado a, marcam-se os pontos E sobre o lado AB, F sobre o lado BC, G sobre o lado CD e H sobre o lado AD, de modo que os segmentos formados AE, BF, CG e DH tenham comprimento igual a 3a/4. A área do novo quadrilátero formado pelas interseções dos segmentos AF, BG, CH, e DE mede:",
+      principal: "Dado um quadrado ABCD, de lado a, marcam-se os pontos E sobre o lado AB, F sobre o lado BC, G sobre o lado CD e H sobre o lado AD, de modo que os segmentos formados AE, BF, CG e DH tenham comprimento igual a $3a/4$. A área do novo quadrilátero formado pelas interseções dos segmentos AF, BG, CH, e DE mede:",
       subItens: []
     },
     options: [
@@ -282,7 +282,7 @@ createQuestion({
     options: [
       "50cm³",
       "42√3 cm³",
-      "43√3/2 cm³",
+      "43√$3/2$ cm³",
       "43√2 cm³",
       "42√3 cm³"
     ],
@@ -322,10 +322,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "16/13",
-      "17/14",
+      "$16/13$",
+      "$17/14$",
       "2",
-      "7/4",
+      "$7/4$",
       "4"
     ],
     correctAnswer: 2,
@@ -365,10 +365,10 @@ createQuestion({
     },
     options: [
       "1",
-      "1/2",
-      "3/4",
-      "5/8",
-      "1/8"
+      "$1/2$",
+      "$3/4$",
+      "$5/8$",
+      "$1/8$"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -381,7 +381,7 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Um patinador em velocidade constante de 18 km/h vai ao encontro de uma escadaria, batendo palma. O som produzido pela palma é refletido horizontalmente em cada degrau de 1m de largura, fazendo com que o patinador perceba um som composto por vários tons. A menor componente de frequência da onda sonora refletida percebida com um máximo de intensidade pelo patinador, em Hz, é:\nDado:\n• velocidade de propagação do som: 340 m/s.",
+      principal: "Um patinador em velocidade constante de 18 $km/h$ vai ao encontro de uma escadaria, batendo palma. O som produzido pela palma é refletido horizontalmente em cada degrau de 1m de largura, fazendo com que o patinador perceba um som composto por vários tons. A menor componente de frequência da onda sonora refletida percebida com um máximo de intensidade pelo patinador, em Hz, é:\nDado:\n• velocidade de propagação do som: 340 $m/s$.",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "A figura acima apresenta uma estrutura em equilíbrio, formada por uma barra horizontal CE e duas barras verticais rotuladas AC e BD. Todas as barras possuem material uniforme e homogêneo e as barras AC e BD têm peso desprezível, enquanto a barra CE tem densidade linear de massa μ. Na extremidade da barra CE, há uma carga concentrada vertical, de cima para baixo, de 1,8 kN. Para que a força de tração na barra BD seja 8,1 kN, a densidade linear de massa μ da barra CE, em kg/m, e a força em módulo na barra AC, em kN, devem ser iguais a:\nDado:\n• aceleração da gravidade: g = 10 m/s².",
+      principal: "A figura acima apresenta uma estrutura em equilíbrio, formada por uma barra horizontal CE e duas barras verticais rotuladas AC e BD. Todas as barras possuem material uniforme e homogêneo e as barras AC e BD têm peso desprezível, enquanto a barra CE tem densidade linear de massa μ. Na extremidade da barra CE, há uma carga concentrada vertical, de cima para baixo, de 1,8 kN. Para que a força de tração na barra BD seja 8,1 kN, a densidade linear de massa μ da barra CE, em $kg/m$, e a força em módulo na barra AC, em kN, devem ser iguais a:\nDado:\n• aceleração da gravidade: g = 10 $m/s$².",
       subItens: []
     },
     options: [
@@ -448,11 +448,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "A1/A2 mgsen²(θ)",
-      "A1/A2 mgcos²(θ)",
-      "2 A1/A2 mgsen²(θ)",
-      "2 A1/A2 mgcos² (θ)",
-      "A1/A2 mgsen(2θ)"
+      "$A1/A2$ mgsen²(θ)",
+      "$A1/A2$ mgcos²(θ)",
+      "2 $A1/A2$ mgsen²(θ)",
+      "2 $A1/A2$ mgcos² (θ)",
+      "$A1/A2$ mgsen(2θ)"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -486,7 +486,7 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Uma corda mista sobre o eixo horizontal tem uma densidade linear para a coordenada x < 0 e outra para x ≥ 0. Uma onda harmônica, dada por Asen(ωt – k₁x), onde t é o instante de tempo, propaga-se na região onde x < 0 e é parcialmente refletida e parcialmente transmitida em x = 0. Se a onda refletida e a transmitida são dadas por Bsen(ωt + k₁x) e Csen(ωt - k2x), respectivamente, onde ω, k₁ e k₂ são constantes, então a razão entre as amplitudes da onda refletida e da incidente, dada por |B/A|, é igual a:\nObservação:\n• considere sen(ax)/x ≈ a, para |x| próximo a zero.",
+      principal: "Uma corda mista sobre o eixo horizontal tem uma densidade linear para a coordenada x < 0 e outra para x ≥ 0. Uma onda harmônica, dada por Asen(ωt – k₁x), onde t é o instante de tempo, propaga-se na região onde x < 0 e é parcialmente refletida e parcialmente transmitida em x = 0. Se a onda refletida e a transmitida são dadas por Bsen(ωt + k₁x) e Csen(ωt - k2x), respectivamente, onde ω, k₁ e k₂ são constantes, então a razão entre as amplitudes da onda refletida e da incidente, dada por |$B/A$|, é igual a:\nObservação:\n• considere $\\sin$(ax)/x ≈ a, para |x| próximo a zero.",
       subItens: []
     },
     options: [
@@ -511,11 +511,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "asen(0,4) – asen(√3/2)",
-      "acos(0,4) – acos(√3/2)",
-      "acos(0,4) – acos(√3/3)",
-      "acos(0,4) – asen(√3/3)",
-      "asen(0,4) – acos(√3/3)"
+      "asen(0,4) – asen(√$3/2$)",
+      "acos(0,4) – acos(√$3/2$)",
+      "acos(0,4) – acos(√$3/3$)",
+      "acos(0,4) – asen(√$3/3$)",
+      "asen(0,4) – acos(√$3/3$)"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -532,11 +532,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/3",
-      "2/3",
+      "$1/3$",
+      "$2/3$",
       "1",
-      "4/3",
-      "3/2"
+      "$4/3$",
+      "$3/2$"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -574,11 +574,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "πro³ / (3tan(sen⁻¹(1/n))) [1/2 at² + ro]²",
-      "π / (2tan(sen⁻¹(1/n))) [1/2 at² + ro]³",
-      "π / (3tan(sen⁻¹(1/n))) [1/2 at² + ro]³",
-      "πro / (3tan(sen⁻¹(n))) [1/2 at² + ro]¹/2",
-      "πro² / (3tan(sen⁻¹(n))) [1/2 at² + ro]²"
+      "πro³ / (3tan($\\sin$⁻¹($1/n$))) [$1/2$ at² + ro]²",
+      "π / (2tan($\\sin$⁻¹($1/n$))) [$1/2$ at² + ro]³",
+      "π / (3tan($\\sin$⁻¹($1/n$))) [$1/2$ at² + ro]³",
+      "πro / (3tan($\\sin$⁻¹(n))) [$1/2$ at² + ro]¹/2",
+      "πro² / (3tan($\\sin$⁻¹(n))) [$1/2$ at² + ro]²"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -591,7 +591,7 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Um projétil é lançado obliquamente de um canhão, atingindo um alcance igual a 1000 m no plano horizontal que contém a boca do canhão. Nesse canhão, o projétil parte do repouso executando um movimento uniformemente variado dentro do tubo até sair pela boca do canhão. Ademais, a medida que o projétil se desloca no interior do tubo, ele executa um movimento uniformemente variado de rotação, coaxial ao tubo. Tendo sido o projétil rotacionado de 1 rad durante seu deslocamento dentro do canhão, sua aceleração angular, em rad/s², ao deixar o canhão é:\nDados:\n• ângulo do tubo do canhão em relação à horizontal: 45º;\n• comprimento do tubo: 2 m;\n• aceleração da gravidade: g = 10 m/s².\nConsideração:\n• despreze a resistência do ar.",
+      principal: "Um projétil é lançado obliquamente de um canhão, atingindo um alcance igual a 1000 m no plano horizontal que contém a boca do canhão. Nesse canhão, o projétil parte do repouso executando um movimento uniformemente variado dentro do tubo até sair pela boca do canhão. Ademais, a medida que o projétil se desloca no interior do tubo, ele executa um movimento uniformemente variado de rotação, coaxial ao tubo. Tendo sido o projétil rotacionado de 1 rad durante seu deslocamento dentro do canhão, sua aceleração angular, em $rad/s$², ao deixar o canhão é:\nDados:\n• ângulo do tubo do canhão em relação à horizontal: 45º;\n• comprimento do tubo: 2 m;\n• aceleração da gravidade: g = 10 $m/s$².\nConsideração:\n• despreze a resistência do ar.",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Considere um feixe homogêneo de pequenos projéteis deslocando-se na mesma direção e na mesma velocidade constante até atingir a superfície de uma esfera que está sempre em repouso.\nA esfera pode ter um ou dois tipos de superfícies: uma superfície totalmente refletora (colisão perfeitamente elástica entre a esfera e o projétil) e/ou uma superfície totalmente absorvedora (colisão perfeitamente inelástica entre a esfera e o projétil).\nEm uma das superfícies (refletora ou absorvedora), o ângulo α da figura pertence ao intervalo [0,β], enquanto na outra superfície (absorvedora ou refletora) α pertence ao intervalo (β, π/2].\nPara que a força aplicada pelos projéteis sobre a esfera seja máxima, o(s) tipo(s) de superfície(s) é(são):",
+      principal: "Considere um feixe homogêneo de pequenos projéteis deslocando-se na mesma direção e na mesma velocidade constante até atingir a superfície de uma esfera que está sempre em repouso.\nA esfera pode ter um ou dois tipos de superfícies: uma superfície totalmente refletora (colisão perfeitamente elástica entre a esfera e o projétil) $e/ou$ uma superfície totalmente absorvedora (colisão perfeitamente inelástica entre a esfera e o projétil).\nEm uma das superfícies (refletora ou absorvedora), o ângulo α da figura pertence ao intervalo [0,β], enquanto na outra superfície (absorvedora ou refletora) α pertence ao intervalo (β, π/2].\nPara que a força aplicada pelos projéteis sobre a esfera seja máxima, o(s) tipo(s) de superfície(s) é(são):",
       subItens: []
     },
     options: [
@@ -633,7 +633,7 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Para o grafite, ρ = 2250 kg/m³, H° = 0 e S° = 5,7 x 10⁻³ kJ/(mol.K). Para o diamante, ρ = 3500 kg/m³, H° ≠ 0 e S° = 2,4 x 10⁻³ kJ/(mol.K). Na conversão do grafite em diamante, ΔG° = 2900 kJ/mol. Com base nestas informações, é correto afirmar que:",
+      principal: "Para o grafite, ρ = 2250 $kg/m$³, H° = 0 e S° = 5,7 x 10⁻³ kJ/(mol.K). Para o diamante, ρ = 3500 $kg/m$³, H° ≠ 0 e S° = 2,4 x 10⁻³ kJ/(mol.K). Na conversão do grafite em diamante, ΔG° = 2900 $kJ/mol$. Com base nestas informações, é correto afirmar que:",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "ime",
     year: 2017,
     text: {
-      principal: "Uma empresa de galvanoplastia produz peças especiais recobertas com zinco. Sabendo que cada peça recebe 7 g de Zn, que é utilizada uma corrente elétrica de 0,7 A e que a massa molar do zinco é igual a 65 g/mol, qual o tempo necessário para o recobrimento dessa peça especial?\n(Constante de Faraday: 1 F = 96500 C.mol⁻¹)",
+      principal: "Uma empresa de galvanoplastia produz peças especiais recobertas com zinco. Sabendo que cada peça recebe 7 g de Zn, que é utilizada uma corrente elétrica de 0,7 A e que a massa molar do zinco é igual a 65 $g/mol$, qual o tempo necessário para o recobrimento dessa peça especial?\n(Constante de Faraday: 1 F = 96500 C.mol⁻¹)",
       subItens: []
     },
     options: [
@@ -827,7 +827,7 @@ createQuestion({
     },
     options: [
       "A adição de mais clorito de sódio ao sistema desloca o equilíbrio da reação, de forma a produzir mais alvejante gasoso.",
-      "A razão entre as constantes de equilíbrio Kp/Kc é igual a 0,0820568·T, em que T é a temperatura do sistema reacional, medida em kelvin.",
+      "A razão entre as constantes de equilíbrio $Kp/Kc$ é igual a 0,0820568·T, em que T é a temperatura do sistema reacional, medida em kelvin.",
       "A retirada parcial de cloreto de sódio do sistema desloca o equilíbrio da reação, de forma a produzir menos alvejante gasoso.",
       "A constante de equilíbrio Kp é igual à constante de equilíbrio Kc.",
       "Para duas diferentes temperaturas do sistema reacional, desde que elevadas e compatíveis com a manutenção do equilíbrio, o valor numérico da constante de equilíbrio Kp é o mesmo, mantendo inalterada a produção de alvejante gasoso."

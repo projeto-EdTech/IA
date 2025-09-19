@@ -297,7 +297,7 @@ createQuestion({
     university: "mackenzie",
     year: 2015,
     text: {
-      principal: "The following text refers to questions 15 to 17.\nFemale Prisoners Post Sexy Pictures\nof Themselves on Social Network\nESTELITA HASS CARAZZAI\nFROM CURITIBA\nAt least two detainees have taken pictures and published them on social\nnetworking sites from inside Guarapuava Public Jail, in the state of Paraná.\nThe pictures, taken on a phone, were found by prison guards and posted\nonline last April.\nThe 30 year-old detainees are in jail after being accused of drug trafficking.\nBoth are serving provisional sentences, and are yet to be convicted.\nOne has been in jail since April, and the other for a year.\nDetainees are not granted possession of cell phones, and, due to this\nbreach, they were awarded a disciplinary sanction and have since been\nprevented from receiving visits or food sent by family members for 30 days.\nAdditionally, this occurrence may prevent them from shortening their\nsentences if they are eventually convicted.\nThey appear posing in underwear on concrete beds in the female dormitory,\nwhich is decorated with animal print.\nAfter the prison guards discovered the images, they inspected the room\nthe two women shared and found the cell phone used to take the pictures.\n“This unfortunately happens. Detainees can hide things very well”, the\nprison chief, Altemir Nascimento, said.\nAccording to Nascimento, 40 cell phones have been seized so far this\nyear in the prison (which also houses men).\nCELL PHONE THROWING\nThe location of the prison in downtown Guarapuava makes matters worse.\nAccording to the prison chief, during sunbathing, pedestrians toss cell\nphones over the wall.\n\"Cell phones and drugs are thrown over the wall. This happens regularly.\nOn every sunny day two or three items are thrown”, Nascimento said.\nAt the beginning of the year, in order to bring the “deliveries” to a halt, the\nprison chief decided to install a protective net over the patio. Since then\n77 cell phones have been caught on the net.\nhttp://www1.folha.uol.com.br/internacion\nQuestão nº 15\nAccording to the text,",
+      principal: "The following text refers to questions 15 to 17.\nFemale Prisoners Post Sexy Pictures\nof Themselves on Social Network\nESTELITA HASS CARAZZAI\nFROM CURITIBA\nAt least two detainees have taken pictures and published them on social\nnetworking sites from inside Guarapuava Public Jail, in the state of Paraná.\nThe pictures, taken on a phone, were found by prison guards and posted\nonline last April.\nThe 30 year-old detainees are in jail after being accused of drug trafficking.\nBoth are serving provisional sentences, and are yet to be convicted.\nOne has been in jail since April, and the other for a year.\nDetainees are not granted possession of cell phones, and, due to this\nbreach, they were awarded a disciplinary sanction and have since been\nprevented from receiving visits or food sent by family members for 30 days.\nAdditionally, this occurrence may prevent them from shortening their\nsentences if they are eventually convicted.\nThey appear posing in underwear on concrete beds in the female dormitory,\nwhich is decorated with animal print.\nAfter the prison guards discovered the images, they inspected the room\nthe two women shared and found the cell phone used to take the pictures.\n“This unfortunately happens. Detainees can hide things very well”, the\nprison chief, Altemir Nascimento, said.\nAccording to Nascimento, 40 cell phones have been seized so far this\nyear in the prison (which also houses men).\nCELL PHONE THROWING\nThe location of the prison in downtown Guarapuava makes matters worse.\nAccording to the prison chief, during sunbathing, pedestrians toss cell\nphones over the wall.\n\"Cell phones and drugs are thrown over the wall. This happens regularly.\nOn every sunny day two or three items are thrown”, Nascimento said.\nAt the beginning of the year, in order to bring the “deliveries” to a halt, the\nprison chief decided to install a protective net over the patio. Since then\n77 cell phones have been caught on the net.\nhttp://www1.folha.uol.com.$br/internacion$\nQuestão nº 15\nAccording to the text,",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "mackenzie",
     year: 2015,
     text: {
-      principal: "The following text refers to questions 15 to 17.\nFemale Prisoners Post Sexy Pictures\nof Themselves on Social Network\nESTELITA HASS CARAZZAI\nFROM CURITIBA\nAt least two detainees have taken pictures and published them on social\nnetworking sites from inside Guarapuava Public Jail, in the state of Paraná.\nThe pictures, taken on a phone, were found by prison guards and posted\nonline last April.\nThe 30 year-old detainees are in jail after being accused of drug trafficking.\nBoth are serving provisional sentences, and are yet to be convicted.\nOne has been in jail since April, and the other for a year.\nDetainees are not granted possession of cell phones, and, due to this\nbreach, they were awarded a disciplinary sanction and have since been\nprevented from receiving visits or food sent by family members for 30 days.\nAdditionally, this occurrence may prevent them from shortening their\nsentences if they are eventually convicted.\nThey appear posing in underwear on concrete beds in the female dormitory,\nwhich is decorated with animal print.\nAfter the prison guards discovered the images, they inspected the room\nthe two women shared and found the cell phone used to take the pictures.\n“This unfortunately happens. Detainees can hide things very well”, the\nprison chief, Altemir Nascimento, said.\nAccording to Nascimento, 40 cell phones have been seized so far this\nyear in the prison (which also houses men).\nCELL PHONE THROWING\nThe location of the prison in downtown Guarapuava makes matters worse.\nAccording to the prison chief, during sunbathing, pedestrians toss cell\nphones over the wall.\n\"Cell phones and drugs are thrown over the wall. This happens regularly.\nOn every sunny day two or three items are thrown”, Nascimento said.\nAt the beginning of the year, in order to bring the “deliveries” to a halt, the\nprison chief decided to install a protective net over the patio. Since then\n77 cell phones have been caught on the net.\nhttp://www1.folha.uol.com.br/internacion\nQuestão nº 16\nDetainees",
+      principal: "The following text refers to questions 15 to 17.\nFemale Prisoners Post Sexy Pictures\nof Themselves on Social Network\nESTELITA HASS CARAZZAI\nFROM CURITIBA\nAt least two detainees have taken pictures and published them on social\nnetworking sites from inside Guarapuava Public Jail, in the state of Paraná.\nThe pictures, taken on a phone, were found by prison guards and posted\nonline last April.\nThe 30 year-old detainees are in jail after being accused of drug trafficking.\nBoth are serving provisional sentences, and are yet to be convicted.\nOne has been in jail since April, and the other for a year.\nDetainees are not granted possession of cell phones, and, due to this\nbreach, they were awarded a disciplinary sanction and have since been\nprevented from receiving visits or food sent by family members for 30 days.\nAdditionally, this occurrence may prevent them from shortening their\nsentences if they are eventually convicted.\nThey appear posing in underwear on concrete beds in the female dormitory,\nwhich is decorated with animal print.\nAfter the prison guards discovered the images, they inspected the room\nthe two women shared and found the cell phone used to take the pictures.\n“This unfortunately happens. Detainees can hide things very well”, the\nprison chief, Altemir Nascimento, said.\nAccording to Nascimento, 40 cell phones have been seized so far this\nyear in the prison (which also houses men).\nCELL PHONE THROWING\nThe location of the prison in downtown Guarapuava makes matters worse.\nAccording to the prison chief, during sunbathing, pedestrians toss cell\nphones over the wall.\n\"Cell phones and drugs are thrown over the wall. This happens regularly.\nOn every sunny day two or three items are thrown”, Nascimento said.\nAt the beginning of the year, in order to bring the “deliveries” to a halt, the\nprison chief decided to install a protective net over the patio. Since then\n77 cell phones have been caught on the net.\nhttp://www1.folha.uol.com.$br/internacion$\nQuestão nº 16\nDetainees",
       subItens: []
     },
     options: [
@@ -339,7 +339,7 @@ createQuestion({
     university: "mackenzie",
     year: 2015,
     text: {
-      principal: "The following text refers to questions 15 to 17.\nFemale Prisoners Post Sexy Pictures\nof Themselves on Social Network\nESTELITA HASS CARAZZAI\nFROM CURITIBA\nAt least two detainees have taken pictures and published them on social\nnetworking sites from inside Guarapuava Public Jail, in the state of Paraná.\nThe pictures, taken on a phone, were found by prison guards and posted\nonline last April.\nThe 30 year-old detainees are in jail after being accused of drug trafficking.\nBoth are serving provisional sentences, and are yet to be convicted.\nOne has been in jail since April, and the other for a year.\nDetainees are not granted possession of cell phones, and, due to this\nbreach, they were awarded a disciplinary sanction and have since been\nprevented from receiving visits or food sent by family members for 30 days.\nAdditionally, this occurrence may prevent them from shortening their\nsentences if they are eventually convicted.\nThey appear posing in underwear on concrete beds in the female dormitory,\nwhich is decorated with animal print.\nAfter the prison guards discovered the images, they inspected the room\nthe two women shared and found the cell phone used to take the pictures.\n“This unfortunately happens. Detainees can hide things very well”, the\nprison chief, Altemir Nascimento, said.\nAccording to Nascimento, 40 cell phones have been seized so far this\nyear in the prison (which also houses men).\nCELL PHONE THROWING\nThe location of the prison in downtown Guarapuava makes matters worse.\nAccording to the prison chief, during sunbathing, pedestrians toss cell\nphones over the wall.\n\"Cell phones and drugs are thrown over the wall. This happens regularly.\nOn every sunny day two or three items are thrown”, Nascimento said.\nAt the beginning of the year, in order to bring the “deliveries” to a halt, the\nprison chief decided to install a protective net over the patio. Since then\n77 cell phones have been caught on the net.\nhttp://www1.folha.uol.com.br/internacion\nQuestão nº 17\nThe only alternative where all the phrases are in the PASSIVE VOICE is",
+      principal: "The following text refers to questions 15 to 17.\nFemale Prisoners Post Sexy Pictures\nof Themselves on Social Network\nESTELITA HASS CARAZZAI\nFROM CURITIBA\nAt least two detainees have taken pictures and published them on social\nnetworking sites from inside Guarapuava Public Jail, in the state of Paraná.\nThe pictures, taken on a phone, were found by prison guards and posted\nonline last April.\nThe 30 year-old detainees are in jail after being accused of drug trafficking.\nBoth are serving provisional sentences, and are yet to be convicted.\nOne has been in jail since April, and the other for a year.\nDetainees are not granted possession of cell phones, and, due to this\nbreach, they were awarded a disciplinary sanction and have since been\nprevented from receiving visits or food sent by family members for 30 days.\nAdditionally, this occurrence may prevent them from shortening their\nsentences if they are eventually convicted.\nThey appear posing in underwear on concrete beds in the female dormitory,\nwhich is decorated with animal print.\nAfter the prison guards discovered the images, they inspected the room\nthe two women shared and found the cell phone used to take the pictures.\n“This unfortunately happens. Detainees can hide things very well”, the\nprison chief, Altemir Nascimento, said.\nAccording to Nascimento, 40 cell phones have been seized so far this\nyear in the prison (which also houses men).\nCELL PHONE THROWING\nThe location of the prison in downtown Guarapuava makes matters worse.\nAccording to the prison chief, during sunbathing, pedestrians toss cell\nphones over the wall.\n\"Cell phones and drugs are thrown over the wall. This happens regularly.\nOn every sunny day two or three items are thrown”, Nascimento said.\nAt the beginning of the year, in order to bring the “deliveries” to a halt, the\nprison chief decided to install a protective net over the patio. Since then\n77 cell phones have been caught on the net.\nhttp://www1.folha.uol.com.$br/internacion$\nQuestão nº 17\nThe only alternative where all the phrases are in the PASSIVE VOICE is",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "mackenzie",
     year: 2015,
     text: {
-      principal: "Questão n° 22\nA soma das raízes da equação cos 2x + cos 4x = 0, no intervalo [0, π], é",
+      principal: "Questão n° 22\nA soma das raízes da equação $\\cos$ 2x + $\\cos$ 4x = 0, no intervalo [0, π], é",
       subItens: []
     },
     options: [
@@ -490,11 +490,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4/5",
-      "7/8",
-      "9/10",
-      "11/12",
-      "15/16"
+      "$4/5$",
+      "$7/8$",
+      "$9/10$",
+      "$11/12$",
+      "$15/16$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -675,7 +675,7 @@ createQuestion({
     university: "mackenzie",
     year: 2015,
     text: {
-      principal: "Questão nº 33\nDetermine, respectivamente, o pH e a constante de ionização de uma solução\naquosa de um ácido monocarboxílico 0,01 M, a 25°C, que está 20% ionizado,\napós ter sido atingido o equilíbrio.\nDado: log 2 = 0,3",
+      principal: "Questão nº 33\nDetermine, respectivamente, o pH e a constante de ionização de uma solução\naquosa de um ácido monocarboxílico 0,01 M, a 25°C, que está 20% ionizado,\napós ter sido atingido o equilíbrio.\nDado: $\\log$ 2 = 0,3",
       subItens: []
     },
     options: [
@@ -910,10 +910,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2.",
-      "1/8.",
-      "3/4.",
-      "1/4.",
+      "$1/2$.",
+      "$1/8$.",
+      "$3/4$.",
+      "$1/4$.",
       "0."
     ],
     correctAnswer: 1,
@@ -1137,15 +1137,15 @@ createQuestion({
     university: "mackenzie",
     year: 2015,
     text: {
-      principal: "Questão nº 55\nVários corpos idênticos são abandonados de uma altura de 7,20 m em relação ao\nsolo, em intervalos de tempos iguais. Quando o primeiro corpo atingir o solo, o\nquinto corpo inicia seu movimento de queda livre. Desprezando a resistência do\nar e adotando a aceleração da gravidade g = 10,0 m/s², a velocidade do segundo\ncorpo nessas condições é",
+      principal: "Questão nº 55\nVários corpos idênticos são abandonados de uma altura de 7,20 m em relação ao\nsolo, em intervalos de tempos iguais. Quando o primeiro corpo atingir o solo, o\nquinto corpo inicia seu movimento de queda livre. Desprezando a resistência do\nar e adotando a aceleração da gravidade g = 10,0 $m/s$², a velocidade do segundo\ncorpo nessas condições é",
       subItens: []
     },
     options: [
-      "10,0 m/s",
-      "6,00 m/s",
-      "3,00 m/s",
-      "9,00 m/s",
-      "12,0 m/s"
+      "10,0 $m/s$",
+      "6,00 $m/s$",
+      "3,00 $m/s$",
+      "9,00 $m/s$",
+      "12,0 $m/s$"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -1158,15 +1158,15 @@ createQuestion({
     university: "mackenzie",
     year: 2015,
     text: {
-      principal: "Questão nº 56\n[Diagrama de um skatista em uma pista, com pontos A e B e altura H]\nUm jovem movimenta-se com seu “skate” na pista da figura acima desde o ponto\nA até o ponto B, onde ele inverte seu sentido de movimento.\nDesprezando-se os atritos de contato e considerando a aceleração da gravidade\ng = 10,0 m/s², a velocidade que o jovem “skatista” tinha ao passar pelo ponto Aé",
+      principal: "Questão nº 56\n[Diagrama de um skatista em uma pista, com pontos A e B e altura H]\nUm jovem movimenta-se com seu “skate” na pista da figura acima desde o ponto\nA até o ponto B, onde ele inverte seu sentido de movimento.\nDesprezando-se os atritos de contato e considerando a aceleração da gravidade\ng = 10,0 $m/s$², a velocidade que o jovem “skatista” tinha ao passar pelo ponto Aé",
       subItens: []
     },
     options: [
-      "entre 11,0 km/h e 12,0 km/h",
-      "entre 10,0 km/h e 11,0 km/h",
-      "entre 13,0 km/h e 14,0 km/h",
-      "entre 15,0 km/h e 16,0 km/h",
-      "menor que 10,0 km/h"
+      "entre 11,0 $km/h$ e 12,0 $km/h$",
+      "entre 10,0 $km/h$ e 11,0 $km/h$",
+      "entre 13,0 $km/h$ e 14,0 $km/h$",
+      "entre 15,0 $km/h$ e 16,0 $km/h$",
+      "menor que 10,0 $km/h$"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "mackenzie",
     year: 2015,
     text: {
-      principal: "Questão nº 57\n[Gráfico v(m/s) x t(s) mostrando uma linha reta decrescente de (0, 5.0) a (10.0, 0.0)]\nUm corpo de massa 2,0 kg é lançado sobre um plano horizontal rugoso com\numa velocidade inicial de 5,0 m/s e sua velocidade varia com o tempo, segundo\no gráfico acima.\nConsiderando a aceleração da gravidade g = 10,0 m/s², o coeficiente de atrito\ncinético entre o corpo e o plano vale",
+      principal: "Questão nº 57\n[Gráfico v($m/s$) x t(s) mostrando uma linha reta decrescente de (0, 5.0) a (10.0, 0.0)]\nUm corpo de massa 2,0 kg é lançado sobre um plano horizontal rugoso com\numa velocidade inicial de 5,0 $m/s$ e sua velocidade varia com o tempo, segundo\no gráfico acima.\nConsiderando a aceleração da gravidade g = 10,0 $m/s$², o coeficiente de atrito\ncinético entre o corpo e o plano vale",
       subItens: []
     },
     options: [
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "mackenzie",
     year: 2015,
     text: {
-      principal: "Questão n° 58\n[Diagrama de uma cancela manual com barra homogênea AB, ponto de articulação O, força F e dimensões]\nUma cancela manual é constituída de uma barra homogênea AB de comprimento\nL = 2,40 m e massa M = 10,0 kg, está articulada no ponto O, onde o atrito é\ndesprezível. A força F tem direção vertical e sentido descendente, como mostra\na figura acima.\nConsiderando a aceleração da gravidade g = 10,0 m/s², a intensidade da força\nmínima que se deve aplicar em A para iniciar o movimento de subida da cancela é",
+      principal: "Questão n° 58\n[Diagrama de uma cancela manual com barra homogênea AB, ponto de articulação O, força F e dimensões]\nUma cancela manual é constituída de uma barra homogênea AB de comprimento\nL = 2,40 m e massa M = 10,0 kg, está articulada no ponto O, onde o atrito é\ndesprezível. A força F tem direção vertical e sentido descendente, como mostra\na figura acima.\nConsiderando a aceleração da gravidade g = 10,0 $m/s$², a intensidade da força\nmínima que se deve aplicar em A para iniciar o movimento de subida da cancela é",
       subItens: []
     },
     options: [

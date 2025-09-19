@@ -843,7 +843,7 @@ createQuestion({
     university: "fuvest",
     year: 2017,
     text: {
-      principal: "O POVO no Campo de Concentração dos Flagelados, em Tauápe\n\nChegaram, à noite, mais 1349 Retirantes\nO Serviço de Abastecimento - - Construção de Barracas --Cenas impressionantes\n\nFez hontem uma semana que chegou a Fortaleza a primeira leva de flagelados vindos do sul do Estado e já hoje se acham abrigados na antiga feira do Matadouro Modelo e nos albergues de Otavio Bomfim e Polícia Marítima cerca de 3000 infelizes vítimas da sêca.\nHontem chegaram a esta capital duas composições ferroviarias trazendo mais de dois mil retirantes. [...]\n\nVisita ao Campo de Concentração do Matadouro\n\nHojе, ás 10 horas do dia, o diretor do O POVO, acompanhando o dr. Ubirajara de Negreiros, percorreu demoradamente a antiga feira do Matadouro Modelo, no Tauápe, onde se acham concentrados mais de dois mil retirantes. [...]\n\nJornal O Povo, Fortaleza, edição de 16/04/1932.\n\nEm 1932, ο Estado Brasileiro instalou campos de concentração de flagelados no Ceará, desde a região do Cariri até Fortaleza, destinados a isolar os retirantes que saíam do interior. No total, esses campos chegaram a concentrar mais de 73 mil pessoas vivendo sob condições precárias.\n\nSobre o tema das secas no Nordeste, é correto afirmar que",
+      principal: "O POVO no Campo de Concentração dos Flagelados, em $\\tau$ápe\n\nChegaram, à noite, mais 1349 Retirantes\nO Serviço de Abastecimento - - Construção de Barracas --Cenas impressionantes\n\nFez hontem uma semana que chegou a Fortaleza a primeira leva de flagelados vindos do sul do Estado e já hoje se acham abrigados na antiga feira do Matadouro Modelo e nos albergues de Otavio Bomfim e Polícia Marítima cerca de 3000 infelizes vítimas da sêca.\nHontem chegaram a esta capital duas composições ferroviarias trazendo mais de dois mil retirantes. [...]\n\nVisita ao Campo de Concentração do Matadouro\n\nHojе, ás 10 horas do dia, o diretor do O POVO, acompanhando o dr. Ubirajara de Negreiros, percorreu demoradamente a antiga feira do Matadouro Modelo, no $\\tau$ápe, onde se acham concentrados mais de dois mil retirantes. [...]\n\nJornal O Povo, Fortaleza, edição de 16/04/1932.\n\nEm 1932, ο Estado Brasileiro instalou campos de concentração de flagelados no Ceará, desde a região do Cariri até Fortaleza, destinados a isolar os retirantes que saíam do interior. No total, esses campos chegaram a concentrar mais de 73 mil pessoas vivendo sob condições precárias.\n\nSobre o tema das secas no Nordeste, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -933,9 +933,9 @@ createQuestion({
     options: [
       "Parque Nacional do Iguaçu | Paraná | Pampa | Sítio arqueológico (pintura rupestre)",
       "Parque Nacional de Monte Pascoal | Pernambuco | Caatinga | Sítio natural científico",
-      "Centro Histórico de Diamantina | Goiás | Pampa | Arquitetura colonial/barroca",
+      "Centro Histórico de Diamantina | Goiás | Pampa | Arquitetura $colonial/barroca$",
       "Parque Nacional Serra da Capivara | Piauí | Caatinga | Sítio arqueológico (pintura rupestre)",
-      "Ruínas de São Miguel das Missões | Santa Catarina | Cerrado | Arquitetura colonial/barroca"
+      "Ruínas de São Miguel das Missões | Santa Catarina | Cerrado | Arquitetura $colonial/barroca$"
     ],
     correctAnswer: 3,
     materia: ["Geografia", "História"],
@@ -1221,7 +1221,7 @@ createQuestion({
     university: "fuvest",
     year: 2017,
     text: {
-      principal: "Objetos em queda sofrem os efeitos da resistência do ar, a qual exerce uma força que se opõe ao movimento desses objetos, de tal modo que, após um certo tempo, eles passam a se mover com velocidade constante. Para uma partícula de poeira no ar, caindo verticalmente, essa força pode ser aproximada por FR = -bv, sendo v a velocidade da partícula de poeira e b uma constante positiva. O gráfico mostra o comportamento do módulo da força resultante sobre a partícula, FR, como função de v, o módulo de v.\n\n[Gráfico: FR (10⁻¹⁴ N) versus v (10⁻⁴ m/s), mostrando uma linha reta decrescente.]\n\nO valor da constante b, em unidades de N⋅s/m, é",
+      principal: "Objetos em queda sofrem os efeitos da resistência do ar, a qual exerce uma força que se opõe ao movimento desses objetos, de tal modo que, após um certo tempo, eles passam a se mover com velocidade constante. Para uma partícula de poeira no ar, caindo verticalmente, essa força pode ser aproximada por FR = -bv, sendo v a velocidade da partícula de poeira e b uma constante positiva. O gráfico mostra o comportamento do módulo da força resultante sobre a partícula, FR, como função de v, o módulo de v.\n\n[Gráfico: FR (10⁻¹⁴ N) versus v (10⁻⁴ $m/s$), mostrando uma linha reta decrescente.]\n\nO valor da constante b, em unidades de N⋅$s/m$, é",
       subItens: []
     },
     options: [
@@ -1242,15 +1242,15 @@ createQuestion({
     university: "fuvest",
     year: 2017,
     text: {
-      principal: "Helena, cuja massa é 50 kg, pratica o esporte radical bungee jumping. Em um treino, ela se solta da beirada de um viaduto, com velocidade inicial nula, presa a uma faixa elástica de comprimento natural L₀ = 15 m e constante elástica k = 250 N/m. Quando a faixa está esticada 10 m além de seu comprimento natural, o módulo da velocidade de Helena é",
+      principal: "Helena, cuja massa é 50 kg, pratica o esporte radical bungee jumping. Em um treino, ela se solta da beirada de um viaduto, com velocidade inicial nula, presa a uma faixa elástica de comprimento natural L₀ = 15 m e constante elástica k = 250 $N/m$. Quando a faixa está esticada 10 m além de seu comprimento natural, o módulo da velocidade de Helena é",
       subItens: []
     },
     options: [
-      "0 m/s",
-      "5 m/s",
-      "10 m/s",
-      "15 m/s",
-      "20 m/s"
+      "0 $m/s$",
+      "5 $m/s$",
+      "10 $m/s$",
+      "15 $m/s$",
+      "20 $m/s$"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -1309,11 +1309,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "0,14 m/s",
-      "0,25 m/s",
-      "0,33 m/s",
-      "1,00 m/s",
-      "2,00 m/s"
+      "0,14 $m/s$",
+      "0,25 $m/s$",
+      "0,33 $m/s$",
+      "1,00 $m/s$",
+      "2,00 $m/s$"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1456,11 +1456,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4; diminui.",
-      "1/4; não se altera.",
-      "2/15; aumenta.",
-      "4/15; diminui.",
-      "4/15; não se altera."
+      "$1/4$; diminui.",
+      "$1/4$; não se altera.",
+      "$2/15$; aumenta.",
+      "$4/15$; diminui.",
+      "$4/15$; não se altera."
     ],
     correctAnswer: 3,
     materia: ["Química"],
@@ -1557,7 +1557,7 @@ createQuestion({
     university: "fuvest",
     year: 2017,
     text: {
-      principal: "Sob certas condições, tanto o gás flúor quanto o gás cloro podem reagir com hidrogênio gasoso, formando, respectivamente, os haletos de hidrogênio HF e HCl, gasosos. Pode-se estimar a variação de entalpia (ΔH) de cada uma dessas reações, utilizando-se dados de energia de ligação. A tabela apresenta os valores de energia de ligação dos reagentes e produtos dessas reações a 25 °C e 1 atm.\n\n[Tabela: Molécula (H₂, F₂, Cl₂, HF, HCl) e Energia de ligação (kJ/mol) para cada uma.]\n\nCom base nesses dados, um estudante calculou a variação de entalpia (ΔH) de cada uma das reações e concluiu, corretamente, que, nas condições empregadas,",
+      principal: "Sob certas condições, tanto o gás flúor quanto o gás cloro podem reagir com hidrogênio gasoso, formando, respectivamente, os haletos de hidrogênio HF e HCl, gasosos. Pode-se estimar a variação de entalpia (ΔH) de cada uma dessas reações, utilizando-se dados de energia de ligação. A tabela apresenta os valores de energia de ligação dos reagentes e produtos dessas reações a 25 °C e 1 atm.\n\n[Tabela: Molécula (H₂, F₂, Cl₂, HF, HCl) e Energia de ligação ($kJ/mol$) para cada uma.]\n\nCom base nesses dados, um estudante calculou a variação de entalpia (ΔH) de cada uma das reações e concluiu, corretamente, que, nas condições empregadas,",
       subItens: []
     },
     options: [
@@ -1578,7 +1578,7 @@ createQuestion({
     university: "fuvest",
     year: 2017,
     text: {
-      principal: "Células a combustível são opções viáveis para gerar energia elétrica para motores e outros dispositivos. O esquema representa uma dessas células e as transformações que nela ocorrem.\n\nH₂ (g) + ½ O₂ (g) → H₂O (g) ΔH = -240 kJ/mol de H₂\n\n[Diagrama: Célula a combustível com eletrodos, eletrólito e fluxo de H₂, O₂, H⁺ e H₂O.]\n\nA corrente elétrica (i), em ampère (coulomb por segundo), gerada por uma célula a combustível que opera por 10 minutos e libera 4,80 kJ de energia durante esse período de tempo, é",
+      principal: "Células a combustível são opções viáveis para gerar energia elétrica para motores e outros dispositivos. O esquema representa uma dessas células e as transformações que nela ocorrem.\n\nH₂ (g) + ½ O₂ (g) → H₂O (g) ΔH = -240 $kJ/mol$ de H₂\n\n[Diagrama: Célula a combustível com eletrodos, eletrólito e fluxo de H₂, O₂, H⁺ e H₂O.]\n\nA corrente elétrica (i), em ampère (coulomb por segundo), gerada por uma célula a combustível que opera por 10 minutos e libera 4,80 kJ de energia durante esse período de tempo, é",
       subItens: []
     },
     options: [
@@ -1729,11 +1729,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4",
-      "7/24",
-      "1/3",
-      "3/8",
-      "5/12"
+      "$1/4$",
+      "$7/24$",
+      "$1/3$",
+      "$3/8$",
+      "$5/12$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1750,11 +1750,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "61/8",
-      "33/4",
-      "17/2",
-      "35/4",
-      "73/8"
+      "$61/8$",
+      "$33/4$",
+      "$17/2$",
+      "$35/4$",
+      "$73/8$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1771,11 +1771,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "24/25",
-      "29/30",
-      "61/60",
-      "16/15",
-      "23/20"
+      "$24/25$",
+      "$29/30$",
+      "$61/60$",
+      "$16/15$",
+      "$23/20$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1788,7 +1788,7 @@ createQuestion({
     university: "fuvest",
     year: 2017,
     text: {
-      principal: "Considere as funções f(x) = x² + 4 e g(x) = 1 + log₂x, em que o domínio de f é o conjunto dos números reais e o domínio de g é o conjunto dos números reais maiores do que 0. Seja\nh(x) = 3f(g(x)) + 2g(f(x)),\nem que x > 0. Então, h(2) é igual a",
+      principal: "Considere as funções f(x) = x² + 4 e g(x) = 1 + $\\log$₂x, em que o domínio de f é o conjunto dos números reais e o domínio de g é o conjunto dos números reais maiores do que 0. Seja\nh(x) = 3f(g(x)) + 2g(f(x)),\nem que x > 0. Então, h(2) é igual a",
       subItens: []
     },
     options: [
@@ -1855,11 +1855,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/2",
-      "7/2",
-      "9/2",
-      "11/2",
-      "13/2"
+      "$5/2$",
+      "$7/2$",
+      "$9/2$",
+      "$11/2$",
+      "$13/2$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -1872,7 +1872,7 @@ createQuestion({
     university: "fuvest",
     year: 2017,
     text: {
-      principal: "Uma quantidade fixa de um gás ideal é mantida a temperatura constante, e seu volume varia com o tempo de acordo com a seguinte fórmula:\n\nV(t) = log₂(5 + 2 sen(πt)), 0 ≤ t ≤ 2,\n\nem que t é medido em horas e V(t) é medido em m³. A pressão máxima do gás no intervalo de tempo [0, 2] ocorre no instante",
+      principal: "Uma quantidade fixa de um gás ideal é mantida a temperatura constante, e seu volume varia com o tempo de acordo com a seguinte fórmula:\n\nV(t) = $\\log$₂(5 + 2 $\\sin$(πt)), 0 ≤ t ≤ 2,\n\nem que t é medido em horas e V(t) é medido em m³. A pressão máxima do gás no intervalo de tempo [0, 2] ocorre no instante",
       subItens: []
     },
     options: [

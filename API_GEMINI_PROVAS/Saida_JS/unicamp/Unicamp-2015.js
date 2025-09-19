@@ -63,7 +63,7 @@ createQuestion({
     university: "unicamp",
     year: 2015,
     text: {
-      principal: "A imagem abaixo reproduz uma troca de mensagens eletrônicas entre uma mãe e seu filho.\nMessages\nMom\nEdit\nCall\nFaceTime\nContact >\n\"What does IDK, LY &\nTTYL mean?\"\nI don't know, love you,\ntalk to you later.\nOK, I will ask your sister.\n(Disponível em http://www.lifebuzz.com/funny-texts/#!SsbFU. Acessado em 02/02/2014.)\nDepreende-se dessa troca de mensagens que",
+      principal: "A imagem abaixo reproduz uma troca de mensagens eletrônicas entre uma mãe e seu filho.\nMessages\nMom\nEdit\nCall\nFaceTime\nContact >\n\"What does IDK, LY &\nTTYL mean?\"\nI don't know, love you,\ntalk to you later.\nOK, I will ask your sister.\n(Disponível em http://www.lifebuzz.$com/funny$-texts/#!SsbFU. Acessado em 02/02/2014.)\nDepreende-se dessa troca de mensagens que",
       subItens: []
     },
     options: [
@@ -143,7 +143,7 @@ createQuestion({
     university: "unicamp",
     year: 2015,
     text: {
-      principal: "Earthquakes\nSome 80 percent of all the planet's earthquakes occur along the rim of the Pacific Ocean, called the \"Ring of Fire\" because of the preponderance of volcanic activity there. Most earthquakes occur at fault zones, where tectonic plates – giant rock slabs that make up the Earth's upper layer – collide or slide against each other. These impacts are usually gradual and unnoticeable on the surface; however, immense stress can build up between plates. When this stress is released quickly, it sends massive vibrations, called seismic waves, often hundreds of miles through the rock and up to the surface.\n(Adaptado de http://environment.nationalgeographic.com/environment/natural-disasters/earthquake-profile/. Acessado em 22/06/2014.)\nDe acordo com o texto,",
+      principal: "Earthquakes\nSome 80 percent of all the planet's earthquakes occur along the rim of the Pacific Ocean, called the \"Ring of Fire\" because of the preponderance of volcanic activity there. Most earthquakes occur at fault zones, where tectonic plates – giant rock slabs that make up the Earth's upper layer – collide or slide against each other. These impacts are usually gradual and unnoticeable on the surface; however, immense stress can build up between plates. When this stress is released quickly, it sends massive vibrations, called seismic waves, often hundreds of miles through the rock and up to the surface.\n(Adaptado de http://environment.nationalgeographic.com/environment/natural-$disasters/earthquake$-profile/. Acessado em 22/06/2014.)\nDe acordo com o texto,",
       subItens: []
     },
     options: [
@@ -183,7 +183,7 @@ createQuestion({
     university: "unicamp",
     year: 2015,
     text: {
-      principal: "Texto para as questões 10 e 11.\nSeca faz cidades do interior de SP decretarem emergência.\nA falta de água enfrentada pelo Sudeste do país tem feito cada vez mais cidades de São Paulo e de Minas Gerais adotarem o racionamento, para reduzir o consumo de água, ou decretarem estado de emergência. Além do desabastecimento, a seca tem prejudicado também setores como a agricultura, a indústria, a saúde e o turismo dessas cidades.\n(Adaptado de http://noticias.uol.com.br/ultimas-noticias/agencia-estado/2014/07/07/seca-faz-cidades-do-interior-decretarem-emergencia.htm. Acessado em 16/07/2014.)\nA situação de seca citada na reportagem é determinada por mudanças no ciclo hidrológico, em que as plantas têm papel determinante, uma vez que representam uma fonte de vapor d'água para a atmosfera. Os vasos que conduzem a água das raízes até as folhas são os",
+      principal: "Texto para as questões 10 e 11.\nSeca faz cidades do interior de SP decretarem emergência.\nA falta de água enfrentada pelo Sudeste do país tem feito cada vez mais cidades de São Paulo e de Minas Gerais adotarem o racionamento, para reduzir o consumo de água, ou decretarem estado de emergência. Além do desabastecimento, a seca tem prejudicado também setores como a agricultura, a indústria, a saúde e o turismo dessas cidades.\n(Adaptado de http://noticias.uol.com.$br/ultimas$-$noticias/agencia$-estado/2014/07/07/seca-faz-cidades-do-interior-decretarem-emergencia.htm. Acessado em 16/07/2014.)\nA situação de seca citada na reportagem é determinada por mudanças no ciclo hidrológico, em que as plantas têm papel determinante, uma vez que representam uma fonte de vapor d'água para a atmosfera. Os vasos que conduzem a água das raízes até as folhas são os",
       subItens: []
     },
     options: [
@@ -523,7 +523,7 @@ createQuestion({
     university: "unicamp",
     year: 2015,
     text: {
-      principal: "O relato a seguir é parte da biografia de um homem que passou sua infância no atual Mali.\nEm novembro de 1918, a África, como a metrópole, festejou o fim da Grande Guerra Mundial e a vitória da França e seus aliados (...). Estávamos orgulhosos do papel desempenhado pelos soldados africanos na frente de batalha. (...) Os sobreviventes que voltaram em 1918-1919 foram a causa de um novo fenômeno social que influiu na evolução da mentalidade nativa. Estou falando do fim do mito do homem branco como ser invencível e sem defeitos.\n(Amadou Hampâté Bâ, Amkoullel, o menino fula. São Paulo: Palas Athena/Casa das Áfricas, 2003, p. 312-313.)\nConsiderando o relato acima, é correto afirmar que",
+      principal: "O relato a seguir é parte da biografia de um homem que passou sua infância no atual Mali.\nEm novembro de 1918, a África, como a metrópole, festejou o fim da Grande Guerra Mundial e a vitória da França e seus aliados (...). Estávamos orgulhosos do papel desempenhado pelos soldados africanos na frente de batalha. (...) Os sobreviventes que voltaram em 1918-1919 foram a causa de um novo fenômeno social que influiu na evolução da mentalidade nativa. Estou falando do fim do mito do homem branco como ser invencível e sem defeitos.\n(Amadou Hampâté Bâ, Amkoullel, o menino fula. São Paulo: Palas $Athena/Casa$ das Áfricas, 2003, p. 312-313.)\nConsiderando o relato acima, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -603,7 +603,7 @@ createQuestion({
     university: "unicamp",
     year: 2015,
     text: {
-      principal: "Texto para as questões 31, 32 e 33.\nRecentemente, uma equipe de astrônomos afirmou ter identificado uma estrela com dimensões comparáveis às da Terra, composta predominantemente de diamante. Por ser muito frio, o astro, possivelmente uma estrela anã branca, teria tido o carbono de sua composição cristalizado em forma de um diamante praticamente do tamanho da Terra.\nOs astrônomos estimam que a estrela estaria situada a uma distância d = 9,0 x 10^18 m da Terra. Considerando um foguete que se desloca a uma velocidade v = 1,5 x 10^4 m/s, o tempo de viagem do foguete da Terra até essa estrela seria de\n(1 ano ≈ 3,0x10^7 s)",
+      principal: "Texto para as questões 31, 32 e 33.\nRecentemente, uma equipe de astrônomos afirmou ter identificado uma estrela com dimensões comparáveis às da Terra, composta predominantemente de diamante. Por ser muito frio, o astro, possivelmente uma estrela anã branca, teria tido o carbono de sua composição cristalizado em forma de um diamante praticamente do tamanho da Terra.\nOs astrônomos estimam que a estrela estaria situada a uma distância d = 9,0 x $10^18$ m da Terra. Considerando um foguete que se desloca a uma velocidade v = 1,5 x $10^4$ $m/s$, o tempo de viagem do foguete da Terra até essa estrela seria de\n(1 ano ≈ 3,$0x10^7$ s)",
       subItens: []
     },
     options: [
@@ -627,10 +627,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "8,0 m/s².",
-      "10 m/s².",
-      "12 m/s².",
-      "18 m/s²."
+      "8,0 $m/s$².",
+      "10 $m/s$².",
+      "12 $m/s$².",
+      "18 $m/s$²."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -643,14 +643,14 @@ createQuestion({
     university: "unicamp",
     year: 2015,
     text: {
-      principal: "Os cálculos dos pesquisadores sugerem que a temperatura média dessa estrela é de T₁ = 2.700 °C. Considere uma estrela como um corpo homogêneo de massa M = 6,0 x 10^24 kg constituída de um material com calor específico c = 0,5 kJ/(kg °C). A quantidade de calor que deve ser perdida pela estrela para que ela atinja uma temperatura final de T₁ = 700 °C é igual a",
+      principal: "Os cálculos dos pesquisadores sugerem que a temperatura média dessa estrela é de T₁ = 2.700 °C. Considere uma estrela como um corpo homogêneo de massa M = 6,0 x $10^24$ kg constituída de um material com calor específico c = 0,5 kJ/(kg °C). A quantidade de calor que deve ser perdida pela estrela para que ela atinja uma temperatura final de T₁ = 700 °C é igual a",
       subItens: []
     },
     options: [
-      "24,0 x 10^27 kJ.",
-      "6,0 x 10^27 kJ.",
-      "8,1 x 10^27 kJ.",
-      "2,1 x 10^27 kJ."
+      "24,0 x $10^27$ kJ.",
+      "6,0 x $10^27$ kJ.",
+      "8,1 x $10^27$ kJ.",
+      "2,1 x $10^27$ kJ."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -667,10 +667,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1,62 x 10^8.",
-      "1,8 x 10^6.",
-      "64,8 x 10^8.",
-      "1,08 x 10^8."
+      "1,62 x $10^8$.",
+      "1,8 x $10^6$.",
+      "64,8 x $10^8$.",
+      "1,08 x $10^8$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -687,8 +687,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4.",
-      "1/2.",
+      "$1/4$.",
+      "$1/2$.",
       "2.",
       "4."
     ],
@@ -703,14 +703,14 @@ createQuestion({
     university: "unicamp",
     year: 2015,
     text: {
-      principal: "Qual o trabalho executado pela força de atrito entre o pneu e o solo para parar um carro de massa m = 1.000 kg, inicialmente a v = 72 km/h, sabendo que os pneus travam no instante da frenagem, deixando de girar, e o carro desliza durante todo o tempo de frenagem?",
+      principal: "Qual o trabalho executado pela força de atrito entre o pneu e o solo para parar um carro de massa m = 1.000 kg, inicialmente a v = 72 $km/h$, sabendo que os pneus travam no instante da frenagem, deixando de girar, e o carro desliza durante todo o tempo de frenagem?",
       subItens: []
     },
     options: [
-      "3,6 x 10^4 J.",
-      "2,0 x 10^5 J.",
-      "4,0 x 10^5 J.",
-      "2,6 x 10^6 J."
+      "3,6 x $10^4$ J.",
+      "2,0 x $10^5$ J.",
+      "4,0 x $10^5$ J.",
+      "2,6 x $10^6$ J."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -1183,7 +1183,7 @@ createQuestion({
     university: "unicamp",
     year: 2015,
     text: {
-      principal: "Um artigo científico recente relata um processo de produção de gás hidrogênio e dióxido de carbono a partir de metanol e água. Uma vantagem dessa descoberta é que o hidrogênio poderia assim ser gerado em um carro e ali consumido na queima com oxigênio. Dois possíveis processos de uso do metanol como combustível num carro – combustão direta ou geração e queima do hidrogênio – podem ser equacionados conforme o esquema abaixo:\nCH₃OH(g)+ 3/2 O₂(g) → CO₂(g) + 2 H₂O(g) combustão direta\nCH₃OH(g)+H₂O(g) →CO₂(g) + 3H₂(g)\nH₂(g)+ 1/2 O₂(g) → H₂O(g)\ngeração e queima de hidrogênio\nDe acordo com essas equações, o processo de geração e queima de hidrogênio apresentaria uma variação de energia",
+      principal: "Um artigo científico recente relata um processo de produção de gás hidrogênio e dióxido de carbono a partir de metanol e água. Uma vantagem dessa descoberta é que o hidrogênio poderia assim ser gerado em um carro e ali consumido na queima com oxigênio. Dois possíveis processos de uso do metanol como combustível num carro – combustão direta ou geração e queima do hidrogênio – podem ser equacionados conforme o esquema abaixo:\nCH₃OH(g)+ $3/2$ O₂(g) → CO₂(g) + 2 H₂O(g) combustão direta\nCH₃OH(g)+H₂O(g) →CO₂(g) + 3H₂(g)\nH₂(g)+ $1/2$ O₂(g) → H₂O(g)\ngeração e queima de hidrogênio\nDe acordo com essas equações, o processo de geração e queima de hidrogênio apresentaria uma variação de energia",
       subItens: []
     },
     options: [
@@ -1343,7 +1343,7 @@ createQuestion({
     university: "unicamp",
     year: 2015,
     text: {
-      principal: "'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto.\nRobô comandado por paraplégico foi mostrado na abertura da Copa. Equipamento transforma força do pensamento em movimentos mecânicos.\nEm entrevista ao G1, o neurocientista brasileiro Miguel Nicolelis comentou que inicialmente estava previsto um jovem paraplégico se levantar da cadeira de rodas, andar alguns passos e dar um chute na bola, que seria o \"pontapé inicial\" do Mundial do Brasil. Mas a estratégia foi revista após a Fifa informar que o grupo teria 29 segundos para realizar a demonstração científica.\nNa última quinta-feira, o voluntário Juliano Pinto, de 29 anos, deu um chute simbólico na bola da Copa usando o exoesqueleto. Na transmissão oficial, exibida por emissoras em todo o mundo, a cena durou apenas sete segundos.\nO neurocientista minimizou as críticas recebidas após a rápida apresentação na Arena Corinthians: \"Tenham calma, não olhem para isso como se fosse um jogo de futebol. Tem que conhecer tecnicamente e saber o esforço. Robótica não é filme de Hollywood, tem limitações que nós conhecemos. O limite desse trabalho foi alcançado. Os oito pacientes atingiram um grau de proficiência e controle mental muito altos, e tudo isso será publicado\", garante.\n(Adaptado de Eduardo Carvalho, 'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto. Disponível em http://g1.globo.com/ciencia-e-saude/noticia/2014/06/robotica-nao-e-filme-de-hollywood-diz-nicolelis-sobre-o-exoesqueleto.html. Acessado em 18/06/2014.)\nConsiderando a notícia transcrita acima, pode-se dizer que a afirmação reproduzida no título (\"Robótica não é filme de Hollywood\").",
+      principal: "'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto.\nRobô comandado por paraplégico foi mostrado na abertura da Copa. Equipamento transforma força do pensamento em movimentos mecânicos.\nEm entrevista ao G1, o neurocientista brasileiro Miguel Nicolelis comentou que inicialmente estava previsto um jovem paraplégico se levantar da cadeira de rodas, andar alguns passos e dar um chute na bola, que seria o \"pontapé inicial\" do Mundial do Brasil. Mas a estratégia foi revista após a Fifa informar que o grupo teria 29 segundos para realizar a demonstração científica.\nNa última quinta-feira, o voluntário Juliano Pinto, de 29 anos, deu um chute simbólico na bola da Copa usando o exoesqueleto. Na transmissão oficial, exibida por emissoras em todo o mundo, a cena durou apenas sete segundos.\nO neurocientista minimizou as críticas recebidas após a rápida apresentação na Arena Corinthians: \"Tenham calma, não olhem para isso como se fosse um jogo de futebol. Tem que conhecer tecnicamente e saber o esforço. Robótica não é filme de Hollywood, tem limitações que nós conhecemos. O limite desse trabalho foi alcançado. Os oito pacientes atingiram um grau de proficiência e controle mental muito altos, e tudo isso será publicado\", garante.\n(Adaptado de Eduardo Carvalho, 'Robótica não é filme de Hollywood', diz Nicolelis sobre o exoesqueleto. Disponível em http://g1.globo.$com/ciencia$-e-saude/noticia/2014/06/robotica-nao-e-filme-de-hollywood-diz-nicolelis-sobre-o-exoesqueleto.html. Acessado em 18/06/2014.)\nConsiderando a notícia transcrita acima, pode-se dizer que a afirmação reproduzida no título (\"Robótica não é filme de Hollywood\").",
       subItens: []
     },
     options: [
@@ -1434,7 +1434,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Realismo/Naturalismo Português"],
+    conteudo: ["$Realismo/Naturalismo$ Português"],
     imageNames: []
 }),
 
@@ -1707,10 +1707,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/3.",
-      "5/2.",
-      "4/3.",
-      "3/2."
+      "$5/3$.",
+      "$5/2$.",
+      "$4/3$.",
+      "$3/2$."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],

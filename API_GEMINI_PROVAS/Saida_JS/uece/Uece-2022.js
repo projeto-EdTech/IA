@@ -123,7 +123,7 @@ createQuestion({
     university: "uece",
     year: 2022,
     text: {
-      principal: "TEXTO 2\nA cobertura de gelo da Terra está encolhendo\n135 A camada de gelo que cobre a Terra\n136 diminuiu, em média, 87 mil quilômetros\n137 quadrados (km²) por ano, de 1979 a 2016,\n138 possivelmente em decorrência das mudanças\n139 climáticas. A redução anual foi equivalente à\n140 da área do lago Superior, na fronteira entre o\n141 Canadá e os Estados Unidos. A estimativa\n142 resulta de análises da equipe do físico e\n143 geógrafo Xiaoqing Peng, da Universidade de\n144 Lanzhou, na China. O encolhimento ocorreu\n145 principalmente no Hemisfério Norte. A\n146 cobertura de gelo na região registrou uma\n147 perda anual média de 102 mil km². Essa\n148 diminuição foi ligeiramente compensada pelo\n149 aumento de 14 mil km² por ano na camada\n150 de gelo do Hemisfério Sul no mesmo período\n151 (Earth's Future, 16 de maio). Essa expansão\n152 se deu principalmente no gelo marinho no\n153 mar de Ross, ao redor da Antártica, devido a\n154 alterações no padrão de vento e correntes\n155 oceânicas. A cobertura de gelo da Terra é\n156 importante porque reflete a luz do Sol,\n157 ajudando a resfriar o planeta.\nREVISTA PESQUISA FAPESP - AGOSTO DE 2021 | ANO 22,\nN. 306. Captado de https://revistapesquisa.fapesp.br/a-\ncobertura-de-gelo-da-terra-esta-encolhendo.\nAcesso em 16 de agosto de 2021. (Texto adaptado.)\nO gênero textual “notícia”, pertencente à esfera\njornalística, tem como objetivo divulgar temas da\natualidade. Na notícia acima, retirada de uma revista\nde cunho científico, a linguagem utilizada",
+      principal: "TEXTO 2\nA cobertura de gelo da Terra está encolhendo\n135 A camada de gelo que cobre a Terra\n136 diminuiu, em média, 87 mil quilômetros\n137 quadrados (km²) por ano, de 1979 a 2016,\n138 possivelmente em decorrência das mudanças\n139 climáticas. A redução anual foi equivalente à\n140 da área do lago Superior, na fronteira entre o\n141 Canadá e os Estados Unidos. A estimativa\n142 resulta de análises da equipe do físico e\n143 geógrafo Xiaoqing Peng, da Universidade de\n144 Lanzhou, na China. O encolhimento ocorreu\n145 principalmente no Hemisfério Norte. A\n146 cobertura de gelo na região registrou uma\n147 perda anual média de 102 mil km². Essa\n148 diminuição foi ligeiramente compensada pelo\n149 aumento de 14 mil km² por ano na camada\n150 de gelo do Hemisfério Sul no mesmo período\n151 (Earth's Future, 16 de maio). Essa expansão\n152 se deu principalmente no gelo marinho no\n153 mar de Ross, ao redor da Antártica, devido a\n154 alterações no padrão de vento e correntes\n155 oceânicas. A cobertura de gelo da Terra é\n156 importante porque reflete a luz do Sol,\n157 ajudando a resfriar o planeta.\nREVISTA PESQUISA FAPESP - AGOSTO DE 2021 | ANO 22,\nN. 306. Captado de https://revistapesquisa.fapesp.$br/a$-\ncobertura-de-gelo-da-terra-esta-encolhendo.\nAcesso em 16 de agosto de 2021. (Texto adaptado.)\nO gênero textual “notícia”, pertencente à esfera\njornalística, tem como objetivo divulgar temas da\natualidade. Na notícia acima, retirada de uma revista\nde cunho científico, a linguagem utilizada",
       subItens: []
     },
     options: [
@@ -243,7 +243,7 @@ createQuestion({
     university: "uece",
     year: 2022,
     text: {
-      principal: "MATEMÁTICA\nConsidere as funções reais de variável real\ndefinidas por f(x) = sen(1+)π e g(x) = sen(1−)π.\nSe K=f(9).g(9), então, pode-se afirmar corretamente\nque o valor de K é igual a",
+      principal: "MATEMÁTICA\nConsidere as funções reais de variável real\ndefinidas por f(x) = $\\sin$(1+)π e g(x) = $\\sin$(1−)π.\nSe K=f(9).g(9), então, pode-se afirmar corretamente\nque o valor de K é igual a",
       subItens: []
     },
     options: [
@@ -343,7 +343,7 @@ createQuestion({
     university: "uece",
     year: 2022,
     text: {
-      principal: "A solução da equação (log₂(x))⁻¹ +\n(log₃(x))⁻¹ + (log₄(x))⁻¹ + (log₅(x))⁻¹ = 2 é",
+      principal: "A solução da equação ($\\log$₂(x))⁻¹ +\n($\\log$₃(x))⁻¹ + ($\\log$₄(x))⁻¹ + ($\\log$₅(x))⁻¹ = 2 é",
       subItens: []
     },
     options: [
@@ -623,7 +623,7 @@ createQuestion({
     university: "uece",
     year: 2022,
     text: {
-      principal: "Leia com atenção o seguinte texto:\n\"As projeções indicam diferenças robustas nas\ncaracterísticas climáticas regionais, e incluem os\nseguintes incrementos: na temperatura mínima e\nmáxima do ar próximo à superfície para todas as\nregiões do País; nos extremos de calor, em particular\nno norte do País, na ocorrência de chuva intensa no\nSul e Sudeste do Brasil; e na probabilidade de secas e\ndéficits de chuva em algumas regiões da Amazônia e\nNordeste\".\nMarengo, J. A., Rodrigues-Filho, S., & Santos, D. V. (2021).\nImpacts, Vulnerability and Adaptation to Climate change in\nBrazil. Disponível em:\nhttps://periodicos.unb.br/index.php/sust/article/view/35624\nConsiderando os fatores políticos e socioeconômicos,\nalém dos fatores ambientais como clima, vegetação,\nsolo e recursos hídricos, são apontadas como\nentraves as relações de vulnerabilidade e adaptação\nàs mudanças climáticas no Brasil. Dentre esses\nentraves, verifica(m)-se",
+      principal: "Leia com atenção o seguinte texto:\n\"As projeções indicam diferenças robustas nas\ncaracterísticas climáticas regionais, e incluem os\nseguintes incrementos: na temperatura mínima e\nmáxima do ar próximo à superfície para todas as\nregiões do País; nos extremos de calor, em particular\nno norte do País, na ocorrência de chuva intensa no\nSul e Sudeste do Brasil; e na probabilidade de secas e\ndéficits de chuva em algumas regiões da Amazônia e\nNordeste\".\nMarengo, J. A., Rodrigues-Filho, S., & Santos, D. V. (2021).\nImpacts, Vulnerability and Adaptation to Climate change in\nBrazil. Disponível em:\nhttps://periodicos.unb.$br/index$.php/sust/article/view/35624\nConsiderando os fatores políticos e socioeconômicos,\nalém dos fatores ambientais como clima, vegetação,\nsolo e recursos hídricos, são apontadas como\nentraves as relações de vulnerabilidade e adaptação\nàs mudanças climáticas no Brasil. Dentre esses\nentraves, verifica(m)-se",
       subItens: []
     },
     options: [
@@ -807,8 +807,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Rgm/2.",
-      "Rgm/4.",
+      "$Rgm/2$.",
+      "$Rgm/4$.",
       "2Rgm.",
       "4Rgm."
     ],
@@ -827,10 +827,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2/3.",
-      "3/2.",
-      "5/3.",
-      "5/2."
+      "$2/3$.",
+      "$3/2$.",
+      "$5/3$.",
+      "$5/2$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -848,9 +848,9 @@ createQuestion({
     },
     options: [
       "V²/g.",
-      "2V2/g.",
-      "4V2/g.",
-      "5V2/g."
+      "$2V2/g$.",
+      "$4V2/g$.",
+      "$5V2/g$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -903,7 +903,7 @@ createQuestion({
     university: "uece",
     year: 2022,
     text: {
-      principal: "As lavadoras de roupa compõem um grupo de\neletrodomésticos muito presente nas residências. O\nseu funcionamento ocorre de acordo com uma\nprogramação prévia combinando diferentes tipos de\nmovimentos de rotação do cesto. Na etapa final de\nlavagem (centrifugação), a máquina gira esse cesto a\numa frequência de 1500 rpm. Considerando π≈ 3 e\nque o cesto possui um raio de 20 cm, a velocidade,\nem m/s, de um ponto pertencente à parede deste\ncesto corresponde a",
+      principal: "As lavadoras de roupa compõem um grupo de\neletrodomésticos muito presente nas residências. O\nseu funcionamento ocorre de acordo com uma\nprogramação prévia combinando diferentes tipos de\nmovimentos de rotação do cesto. Na etapa final de\nlavagem (centrifugação), a máquina gira esse cesto a\numa frequência de 1500 rpm. Considerando π≈ 3 e\nque o cesto possui um raio de 20 cm, a velocidade,\nem $m/s$, de um ponto pertencente à parede deste\ncesto corresponde a",
       subItens: []
     },
     options: [
@@ -1323,7 +1323,7 @@ createQuestion({
     university: "uece",
     year: 2022,
     text: {
-      principal: "Neste ano, comemoramos o centenário de\nnascimento do Patrono da Educação Brasileira, o\nProfessor Paulo Freire (1921-1997). Atente para a\nseguinte passagem de sua autoria:\n\"[...] a educação é uma forma de intervenção no\nmundo [...], que além do conhecimento dos\nconteúdos bem ou mal ensinados e/ou aprendidos\nimplica tanto o esforço de reprodução da ideologia\ndominante quanto seu desmascaramento. [...] não\npoderia ser a educação só uma ou só outra dessas\ncoisas. [...] É um erro decretá-la como tarefa apenas\nreprodutora da ideologia dominante como erro tomá-\nla como uma força de desocultação da realidade, a\natuar livremente, sem obstáculos e duras\ndificuldades\".\nFREIRE, Paulo. Pedagogia da autonomia: Saberes\nnecessários à prática educativa. São Paulo: Paz e Terra,\nAdaptado.\n1996, p. 98-99.\nNo texto acima, o fato de a educação ser concebida\ncomo uma prática que une em si reprodução e\ndesmascaramento da ideologia dominante,\nfilosoficamente, manifesta uma",
+      principal: "Neste ano, comemoramos o centenário de\nnascimento do Patrono da Educação Brasileira, o\nProfessor Paulo Freire (1921-1997). Atente para a\nseguinte passagem de sua autoria:\n\"[...] a educação é uma forma de intervenção no\nmundo [...], que além do conhecimento dos\nconteúdos bem ou mal ensinados $e/ou$ aprendidos\nimplica tanto o esforço de reprodução da ideologia\ndominante quanto seu desmascaramento. [...] não\npoderia ser a educação só uma ou só outra dessas\ncoisas. [...] É um erro decretá-la como tarefa apenas\nreprodutora da ideologia dominante como erro tomá-\nla como uma força de desocultação da realidade, a\natuar livremente, sem obstáculos e duras\ndificuldades\".\nFREIRE, Paulo. Pedagogia da autonomia: Saberes\nnecessários à prática educativa. São Paulo: Paz e Terra,\nAdaptado.\n1996, p. 98-99.\nNo texto acima, o fato de a educação ser concebida\ncomo uma prática que une em si reprodução e\ndesmascaramento da ideologia dominante,\nfilosoficamente, manifesta uma",
       subItens: []
     },
     options: [
@@ -1443,7 +1443,7 @@ createQuestion({
     university: "uece",
     year: 2022,
     text: {
-      principal: "LÍNGUA INGLESA\nTEXT\nMen Fall Behind in College Enrollment.\nWomen Still Play Catch-Up at Work.\nThe coronavirus upended the lives of\nmillions of college students. The Wall Street Journal\nreported this week that men have been hit\nparticularly hard — accounting for roughly three-\nfourths of pandemic-driven dropouts\nand\ndepicted an accelerating crisis in male enrollment.\nA closer look at historical trends and the\nlabor market reveals a more complex picture, one\nin which women keep playing catch-up in an\neconomy structured to favor men.\nIn many ways, the college gender\nimbalance is not new. Women have outnumbered\nmen on campus since the late 1970s. The ratio of\nfemale to male undergraduates increased much\nmore from 1970 to 1980 than from 1980 to the\npresent. And the numbers haven't changed much in\nrecent decades. In 1992, 55 percent of college\nstudents were women. By 2019, the number had\nnudged up to 57.4 percent.\nWhile the shift in the college gender ratio\nis often characterized as men \"falling behind,\" men\nare actually more likely to go to college today than\nthey were when they were the majority, many\ndecades ago. In 1970, 32 percent of men 18 to 24\nwere enrolled in college, a level that was most\nlikely inflated by the opportunity to avoid being\ndrafted into the Vietnam War. That percentage\ndropped to 24 percent in 1978 and then steadily\ngrew to a stable 37 percent to 39 percent over the\nlast decade.\nThe gender ratio mostly changed because\nfemale enrollment increased even faster, more than\ndoubling over the last half-century.\nBecause of the change in ratio, some\nselective colleges discriminate against women in\nadmissions to maintain a gender balance, as The\nJournal reported. Generally, admissions officials\nprefer to limit the disparity to 55 percent female\nand 45 percent male. Their reason not to let the\ngender ratio drift further toward 2 to 1 is\nstraightforward: Such a ratio would most likely\ncause a decrease in applications.\nIn a New York Times essay in 2006 titled\n\"To All the Girls I've Rejected,\" the dean of\nadmissions at Kenyon College at the time\nexplained: \"Beyond the availability of dance\npartners for the winter formal, gender balance\nmatters in ways both large and small on a\nresidential college campus. Once you become\ndecidedly female in enrollment, fewer males and,\nas it turns out, fewer females find your campus\nattractive.\"\nThe raw numbers don't take into account\nthe varying value of college degrees. Men still\ndominate in fields like technology and engineering,\nwhich offer some of the highest salaries for recent\ngraduates. Perhaps not coincidentally, the\nprofessors in those fields remain overwhelmingly\nmale.\nWomen surged into college because they\nwere able to, but also because many had to. There\nare still some good-paying jobs available to men\nwithout college credentials. There are relatively few\nfor such women. And despite the considerable cost\nin time and money of earning a degree, many\nfemale-dominated jobs don't pay well.\nThe fact that the male-female wage gap\nremains large after more than four decades in\nwhich women outnumbered men in college strongly\nsuggests that college alone offers a narrow view of\nopportunity. Women often seem stuck in place: As\nthey overcome obstacles and use their degrees to\nmove into male-dominated fields, the fields offer\nless pay in return.\nNone of this diminishes the significance of\nthe male decrease in college enrollment and\ngraduation. Educators view the male-driven dive in\ncommunity college enrollment over the last 18\nmonths as a calamity. The pandemic confirmed\nwhat was already known. Higher socioeconomic\nclasses are deeply embedded in college and will\nbear considerable cost and inconvenience to stay\nthere, even if it means watching lectures on a\nlaptop in the room above your parent's garage and\nmissing a season of parties and football games.\nFor other people, college attendance is far\nmore fragile. It does not define their identities and\nis not as important as earning a steady paycheck or\nstarting and nurturing a family. In a time of crisis,\nit can be delayed – but the reality is that people\nwho drop out of college are statistically unlikely to\ncomplete a degree.\nLast year, women were less likely than\nmen to leave community college, despite their\ndisproportionate responsibility for caregiving and\ndomestic work, because they no doubt understood\nthe bleak long-term job prospects for women\nwithout a credential.\nwww.nytimes.com/Sept.9,2021\nAccording to the text, male students enrollment\nin college",
+      principal: "LÍNGUA INGLESA\nTEXT\nMen Fall Behind in College Enrollment.\nWomen Still Play Catch-Up at Work.\nThe coronavirus upended the lives of\nmillions of college students. The Wall Street Journal\nreported this week that men have been hit\nparticularly hard — accounting for roughly three-\nfourths of pandemic-driven dropouts\nand\ndepicted an accelerating crisis in male enrollment.\nA closer look at historical trends and the\nlabor market reveals a more complex picture, one\nin which women keep playing catch-up in an\neconomy structured to favor men.\nIn many ways, the college gender\nimbalance is not new. Women have outnumbered\nmen on campus since the late 1970s. The ratio of\nfemale to male undergraduates increased much\nmore from 1970 to 1980 than from 1980 to the\npresent. And the numbers haven't changed much in\nrecent decades. In 1992, 55 percent of college\nstudents were women. By 2019, the number had\nnudged up to 57.4 percent.\nWhile the shift in the college gender ratio\nis often characterized as men \"falling behind,\" men\nare actually more likely to go to college today than\nthey were when they were the majority, many\ndecades ago. In 1970, 32 percent of men 18 to 24\nwere enrolled in college, a level that was most\nlikely inflated by the opportunity to avoid being\ndrafted into the Vietnam War. That percentage\ndropped to 24 percent in 1978 and then steadily\ngrew to a stable 37 percent to 39 percent over the\nlast decade.\nThe gender ratio mostly changed because\nfemale enrollment increased even faster, more than\ndoubling over the last half-century.\nBecause of the change in ratio, some\nselective colleges discriminate against women in\nadmissions to maintain a gender balance, as The\nJournal reported. Generally, admissions officials\nprefer to limit the disparity to 55 percent female\nand 45 percent male. Their reason not to let the\ngender ratio drift further toward 2 to 1 is\nstraightforward: Such a ratio would most likely\ncause a decrease in applications.\nIn a New York Times essay in 2006 titled\n\"To All the Girls I've Rejected,\" the dean of\nadmissions at Kenyon College at the time\nexplained: \"Beyond the availability of dance\npartners for the winter formal, gender balance\nmatters in ways both large and small on a\nresidential college campus. Once you become\ndecidedly female in enrollment, fewer males and,\nas it turns out, fewer females find your campus\nattractive.\"\nThe raw numbers don't take into account\nthe varying value of college degrees. Men still\ndominate in fields like technology and engineering,\nwhich offer some of the highest salaries for recent\ngraduates. Perhaps not coincidentally, the\nprofessors in those fields remain overwhelmingly\nmale.\nWomen surged into college because they\nwere able to, but also because many had to. There\nare still some good-paying jobs available to men\nwithout college credentials. There are relatively few\nfor such women. And despite the considerable cost\nin time and money of earning a degree, many\nfemale-dominated jobs don't pay well.\nThe fact that the male-female wage gap\nremains large after more than four decades in\nwhich women outnumbered men in college strongly\nsuggests that college alone offers a narrow view of\nopportunity. Women often seem stuck in place: As\nthey overcome obstacles and use their degrees to\nmove into male-dominated fields, the fields offer\nless pay in return.\nNone of this diminishes the significance of\nthe male decrease in college enrollment and\ngraduation. Educators view the male-driven dive in\ncommunity college enrollment over the last 18\nmonths as a calamity. The pandemic confirmed\nwhat was already known. Higher socioeconomic\nclasses are deeply embedded in college and will\nbear considerable cost and inconvenience to stay\nthere, even if it means watching lectures on a\nlaptop in the room above your parent's garage and\nmissing a season of parties and football games.\nFor other people, college attendance is far\nmore fragile. It does not define their identities and\nis not as important as earning a steady paycheck or\nstarting and nurturing a family. In a time of crisis,\nit can be delayed – but the reality is that people\nwho drop out of college are statistically unlikely to\ncomplete a degree.\nLast year, women were less likely than\nmen to leave community college, despite their\ndisproportionate responsibility for caregiving and\ndomestic work, because they no doubt understood\nthe bleak long-term job prospects for women\nwithout a credential.\nwww.nytimes.$com/Sept$.9,2021\nAccording to the text, male students enrollment\nin college",
       subItens: []
     },
     options: [

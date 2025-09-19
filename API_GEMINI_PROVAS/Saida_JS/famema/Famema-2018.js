@@ -213,7 +213,7 @@ createQuestion({
     university: "famema",
     year: 2018,
     text: {
-      principal: "No início de determinado dia, um laboratório dispõe de várias seringas descartáveis para uso. Ao término desse dia, a razão entre o número de seringas não utilizadas e o de utilizadas era 2/9. Se 15 das seringas utilizadas não tivessem sido usadas nesse dia, a razão entre o número de seringas não utilizadas e o de utilizadas teria sido 1/3. O número de seringas descartáveis disponíveis no início desse dia era",
+      principal: "No início de determinado dia, um laboratório dispõe de várias seringas descartáveis para uso. Ao término desse dia, a razão entre o número de seringas não utilizadas e o de utilizadas era $2/9$. Se 15 das seringas utilizadas não tivessem sido usadas nesse dia, a razão entre o número de seringas não utilizadas e o de utilizadas teria sido $1/3$. O número de seringas descartáveis disponíveis no início desse dia era",
       subItens: []
     },
     options: [
@@ -259,11 +259,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4/15",
-      "2/5",
-      "1/3",
-      "3/5",
-      "7/15"
+      "$4/15$",
+      "$2/5$",
+      "$1/3$",
+      "$3/5$",
+      "$7/15$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -322,7 +322,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2",
+      "$1/2$",
       "-1",
       "0",
       "1",
@@ -381,7 +381,7 @@ createQuestion({
     university: "famema",
     year: 2018,
     text: {
-      principal: "A medida da aresta da base quadrada de um prisma reto é igual à medida do diâmetro da base de um cone reto. A altura do prisma é 5,5 cm maior que a altura do cone e o volume do cone é 1/6 do volume do prisma. Considerando π = 3,1, é correto afirmar que a altura do prisma é",
+      principal: "A medida da aresta da base quadrada de um prisma reto é igual à medida do diâmetro da base de um cone reto. A altura do prisma é 5,5 cm maior que a altura do cone e o volume do cone é $1/6$ do volume do prisma. Considerando π = 3,1, é correto afirmar que a altura do prisma é",
       subItens: []
     },
     options: [
@@ -465,7 +465,7 @@ createQuestion({
     university: "famema",
     year: 2018,
     text: {
-      principal: "Macro-ordenamento territorial dos espaços agronaturais do Brasil\n\n[Tabela: Informação Nutricional – Porção de 50 g (1/2 xícara). Colunas: Quantidade por porção e %VD(*).\n\nLinhas: Valor Energético (172 kcal = 722 kJ, 9%), Carboidratos (38 g, 13%), Proteínas (5,0 g, 7%), Gorduras Totais (0 g, 0%), Gorduras Saturadas (0 g, 0%), Gorduras Trans (0 g, \"VD não estabelecido\"), Fibra Alimentar (1,0 g, 4%), Sódio (0 mg, 0%), Ferro (2,1 mg, 15%), Ácido Fólico (75 µg, 31%).\n\n(*)% Valores diários de referência com base em uma dieta de 2000 kcal, ou 8400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.\n(www.selmi.com.br)]\n\n[Nova Tabela: Macro-ordenamento territorial dos espaços agronaturais do Brasil. Colunas: Espaços agronaturais, Aspectos naturais, Aspectos socioeconômicos, Aspectos ambientais.\n\nLinha 1: 1, terras e águas ricas em biodiversidade, exploração de recursos naturais, boas condições ambientais com fortes impactos em pontos restritos.\n\nLinha 2: Caatinga, terras secas, solos rasos e pedregosos, pecuária de cria, 2.\n\nLinha 3: Mata Atlântica, 3, pecuária extensiva, concentração urbana e atividade industrial, erosão dos solos e perda da qualidade das águas.\n\n(Jurandyr L. S. Ross. Ecogeografia do Brasil, 2009. Adaptado.)]\n\nAnalisando a tabela e considerando conhecimentos acerca do meio ambiente no território brasileiro, pode-se afirmar que os números 1, 2 e 3 correspondem, respectivamente,",
+      principal: "Macro-ordenamento territorial dos espaços agronaturais do Brasil\n\n[Tabela: Informação Nutricional – Porção de 50 g ($1/2$ xícara). Colunas: Quantidade por porção e %VD(*).\n\nLinhas: Valor Energético (172 kcal = 722 kJ, 9%), Carboidratos (38 g, 13%), Proteínas (5,0 g, 7%), Gorduras Totais (0 g, 0%), Gorduras Saturadas (0 g, 0%), Gorduras Trans (0 g, \"VD não estabelecido\"), Fibra Alimentar (1,0 g, 4%), Sódio (0 mg, 0%), Ferro (2,1 mg, 15%), Ácido Fólico (75 µg, 31%).\n\n(*)% Valores diários de referência com base em uma dieta de 2000 kcal, ou 8400 kJ. Seus valores diários podem ser maiores ou menores dependendo de suas necessidades energéticas.\n(www.selmi.com.br)]\n\n[Nova Tabela: Macro-ordenamento territorial dos espaços agronaturais do Brasil. Colunas: Espaços agronaturais, Aspectos naturais, Aspectos socioeconômicos, Aspectos ambientais.\n\nLinha 1: 1, terras e águas ricas em biodiversidade, exploração de recursos naturais, boas condições ambientais com fortes impactos em pontos restritos.\n\nLinha 2: Caatinga, terras secas, solos rasos e pedregosos, pecuária de cria, 2.\n\nLinha 3: Mata Atlântica, 3, pecuária extensiva, concentração urbana e atividade industrial, erosão dos solos e perda da qualidade das águas.\n\n(Jurandyr L. S. Ross. Ecogeografia do Brasil, 2009. Adaptado.)]\n\nAnalisando a tabela e considerando conhecimentos acerca do meio ambiente no território brasileiro, pode-se afirmar que os números 1, 2 e 3 correspondem, respectivamente,",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "famema",
     year: 2018,
     text: {
-      principal: "Observe o mapa.\n\n[Mapa do Brasil com áreas destacadas como \"cinturão solar\" no sudoeste de Minas Gerais, noroeste de São Paulo e norte do Paraná, indicando-as como áreas prioritárias para investimentos. Há uma escala de níveis de irradiação solar em kWh/m²/ano variando de 1277 a 2281, mostrando o Nordeste com níveis mais altos de irradiação.]\n\n(http://revistapesquisa.fapesp.br, agosto de 2017. Adaptado.)\n\nO Atlas Brasileiro de Energia Solar recomenda investimentos em novas plantas de geração de energia solar no sudoeste de Minas Gerais, no noroeste de São Paulo e no norte do Paraná, embora elevados níveis de irradiação sejam encontrados no Nordeste do país. Essa aparente contradição é refutada por haver",
+      principal: "Observe o mapa.\n\n[Mapa do Brasil com áreas destacadas como \"cinturão solar\" no sudoeste de Minas Gerais, noroeste de São Paulo e norte do Paraná, indicando-as como áreas prioritárias para investimentos. Há uma escala de níveis de irradiação solar em $kWh/m$²/ano variando de 1277 a 2281, mostrando o Nordeste com níveis mais altos de irradiação.]\n\n(http://revistapesquisa.fapesp.br, agosto de 2017. Adaptado.)\n\nO Atlas Brasileiro de Energia Solar recomenda investimentos em novas plantas de geração de energia solar no sudoeste de Minas Gerais, no noroeste de São Paulo e no norte do Paraná, embora elevados níveis de irradiação sejam encontrados no Nordeste do país. Essa aparente contradição é refutada por haver",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "famema",
     year: 2018,
     text: {
-      principal: "Ibn al-Khatib, médico e filósofo muçulmano de Granada, escreveu sobre a Peste Negra no século XIV: “A existência do contágio é estabelecida pela experiência, investigação, evidência dos sentidos e relatos dignos de fé. O fenômeno do contágio torna-se claro para o investigador que verifica como aquele que entra em contato com os enfermos apanha a doença, enquanto o que não está em contato permanece são, e como a transmissão se efetua através do vestuário, vasilhame e atavios.\"\n\n(Maria Guadalupe Pedrero-Sánchez. A Península Ibérica entre o Oriente e o Ocidente, 2002. Adaptado.)\n\nEsse comentário sobre a epidemia revela",
+      principal: "Ibn al-Khatib, médico e filósofo $\\mu$çulmano de Granada, escreveu sobre a Peste Negra no século XIV: “A existência do contágio é estabelecida pela experiência, investigação, evidência dos sentidos e relatos dignos de fé. O fenômeno do contágio torna-se claro para o investigador que verifica como aquele que entra em contato com os enfermos apanha a doença, enquanto o que não está em contato permanece são, e como a transmissão se efetua através do vestuário, vasilhame e atavios.\"\n\n(Maria Guadalupe Pedrero-Sánchez. A Península Ibérica entre o Oriente e o Ocidente, 2002. Adaptado.)\n\nEsse comentário sobre a epidemia revela",
       subItens: []
     },
     options: [
@@ -784,11 +784,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "f = 3v/2L",
-      "f = v/4L",
-      "f = v/2L",
-      "f = 2v/L",
-      "f = v/L"
+      "f = $3v/2L$",
+      "f = $v/4L$",
+      "f = $v/2L$",
+      "f = $2v/L$",
+      "f = $v/L$"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -801,7 +801,7 @@ createQuestion({
     university: "famema",
     year: 2018,
     text: {
-      principal: "Raios cósmicos constantemente arrancam elétrons das moléculas do ar da atmosfera terrestre. Esses elétrons se movimentam livremente, ficando sujeitos às forças eletrostáticas associadas ao campo elétrico existente na região que envolve a Terra. Considere que, em determinada região da atmosfera, atue um campo elétrico uniforme de intensidade E = 100 N/C, conforme representado na figura.\n\n[Figura: Representação de um campo elétrico uniforme (E) apontando para baixo, e uma força elétrica (F) apontando para cima, em um ângulo de 180° com E. Um elétron se movimenta verticalmente para cima.]\n\nSe um elétron de carga 1,6 × 10⁻¹⁹ C e de massa desprezível, sujeito a uma força constante, se movimenta verticalmente para cima nessa região, percorrendo uma distância d = 500 m, a variação de energia potencial elétrica sofrida por ele, nesse trajeto, será de",
+      principal: "Raios cósmicos constantemente arrancam elétrons das moléculas do ar da atmosfera terrestre. Esses elétrons se movimentam livremente, ficando sujeitos às forças eletrostáticas associadas ao campo elétrico existente na região que envolve a Terra. Considere que, em determinada região da atmosfera, atue um campo elétrico uniforme de intensidade E = 100 $N/C$, conforme representado na figura.\n\n[Figura: Representação de um campo elétrico uniforme (E) apontando para baixo, e uma força elétrica (F) apontando para cima, em um ângulo de 180° com E. Um elétron se movimenta verticalmente para cima.]\n\nSe um elétron de carga 1,6 × 10⁻¹⁹ C e de massa desprezível, sujeito a uma força constante, se movimenta verticalmente para cima nessa região, percorrendo uma distância d = 500 m, a variação de energia potencial elétrica sofrida por ele, nesse trajeto, será de",
       subItens: []
     },
     options: [

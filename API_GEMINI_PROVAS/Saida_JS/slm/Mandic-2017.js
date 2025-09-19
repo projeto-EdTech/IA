@@ -3,7 +3,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "Leia o texto.\nGentrificação, neologismo do termo gentrification, que deriva de gentry e genterise – de origem gentil, nobre – é entendido como um processo de reestruturação de espaços urbanos por meio de um conjunto de melhorias físicas e materiais, bem como de mudanças imateriais (econômica, social e cultural), que resulta em elevação do status da região que passa a ser ocupada pela classe média de alta remuneração, deslocando dos grandes centros a população de baixa renda.\n(CRUZ, Camila. In: Gentrificação no contexto das políticas públicas no Brasil. Fundação Getúlio Vargas. Publicado em 2016. Adaptado. Disponível: http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/17482/Trabalho_Individual_gentrificaçao_Camila_vfinal. Acesso: 18 jun. 2017.)\nQUESTÃO 1\nDentre os especialistas, as consequências da gentrificação são controversas, pois as melhorias urbanísticas implementadas acabam por",
+      principal: "Leia o texto.\nGentrificação, neologismo do termo gentrification, que deriva de gentry e genterise – de origem gentil, nobre – é entendido como um processo de reestruturação de espaços urbanos por meio de um conjunto de melhorias físicas e materiais, bem como de mudanças imateriais (econômica, social e cultural), que resulta em elevação do status da região que passa a ser ocupada pela classe média de alta remuneração, deslocando dos grandes centros a população de baixa renda.\n(CRUZ, Camila. In: Gentrificação no contexto das políticas públicas no Brasil. Fundação Getúlio Vargas. Publicado em 2016. Adaptado. Disponível: http://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/17482/Trabalho_Individual_gentrificaç$ao_Camila_vfinal$. Acesso: 18 jun. 2017.)\nQUESTÃO 1\nDentre os especialistas, as consequências da gentrificação são controversas, pois as melhorias urbanísticas implementadas acabam por",
       subItens: []
     },
     options: [
@@ -66,7 +66,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "Analise o esquema a seguir, que descreve o processo de formação dos rios voadores.\n4 passos para os rios voadores\nEssas nuvens carregadas fazem chover sobre a floresta\nA água que se acumulou no solo e nas arvores evapora.. fornecendo água para a formação de nuvens\n4\nAs novas nuvens vão para o centro-oeste, sudeste e sul, fazendo chover nessas regiões, e seguem viagem pela América do Sul\nA água evapora do Oceano Atlântico e forma nuvens que são levadas pelos ventos para a floresta Amazônica\n(Disponível: http://info.opersan.com.br/os-rios-voadores-e-a-importancia-da-floresta-amazonica. Acesso: 18 jun. 2017.)\nQUESTÃO 4\nAs informações contidas no esquema permitem a seguinte conclusão:",
+      principal: "Analise o esquema a seguir, que descreve o processo de formação dos rios voadores.\n4 passos para os rios voadores\nEssas nuvens carregadas fazem chover sobre a floresta\nA água que se acumulou no solo e nas arvores evapora.. fornecendo água para a formação de nuvens\n4\nAs novas nuvens vão para o centro-oeste, sudeste e sul, fazendo chover nessas regiões, e seguem viagem pela América do Sul\nA água evapora do Oceano Atlântico e forma nuvens que são levadas pelos ventos para a floresta Amazônica\n(Disponível: http://info.opersan.com.$br/os$-rios-voadores-e-a-importancia-da-floresta-amazonica. Acesso: 18 jun. 2017.)\nQUESTÃO 4\nAs informações contidas no esquema permitem a seguinte conclusão:",
       subItens: []
     },
     options: [
@@ -129,7 +129,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "Analise a imagem e o texto.\nMundo\n16,2% rural**\n51% urbana\n49% rural\n83,75% urbana**\nBrasil\nTOTAL\n6,829 bilhões\n192 milhões\n9,150 bilhões*\n218 milhões*\nEm 2050\nEm 2050\nFontes: IBGE e ONU\n* Não há estimativas sobre projeção de população rural em 2050\n** Dados de 2008, quando a diferenciação entre população urbana e rural era feita pelo IBGE\n(Disponível: http://istoe.com.br/56628_O+FUTURO+DAS+CIDADES+E+VERDE/. Acesso: 19 jun. 2017.)\nDe acordo com o Programa das Nações Unidas para Assentamentos Humanos (UN-Habitat), a população urbana foi multiplicada por cinco entre 1950 e 2011 no mundo todo. Foi em 2007 que, pela primeira vez na história da humanidade, o número de pessoas vivendo em cidades ultrapassou a cifra daquelas baseadas no campo.\n(Disponível: http://www.oeco.org.br/colunas/colunistas-convidados/27229-o-crescimento-urbano-e-o-problema-do-seculo/. Acesso: 19 jul. 2017.)\nQUESTÃO 7\nSegundo os dados apresentados no texto e na imagem, o crescimento da população urbana é um fenômeno mundial. Esses dados permitem identificar o seguinte desafio para as cidades nas próximas décadas:",
+      principal: "Analise a imagem e o texto.\nMundo\n16,2% rural**\n51% urbana\n49% rural\n83,75% urbana**\nBrasil\nTOTAL\n6,829 bilhões\n192 milhões\n9,150 bilhões*\n218 milhões*\nEm 2050\nEm 2050\nFontes: IBGE e ONU\n* Não há estimativas sobre projeção de população rural em 2050\n** Dados de 2008, quando a diferenciação entre população urbana e rural era feita pelo IBGE\n(Disponível: http://istoe.com.$br/56628_O$+FUTURO+DAS+CIDADES+E+VERDE/. Acesso: 19 jun. 2017.)\nDe acordo com o Programa das Nações Unidas para Assentamentos Humanos (UN-Habitat), a população urbana foi multiplicada por cinco entre 1950 e 2011 no mundo todo. Foi em 2007 que, pela primeira vez na história da humanidade, o número de pessoas vivendo em cidades ultrapassou a cifra daquelas baseadas no campo.\n(Disponível: http://www.oeco.org.br/colunas/colunistas-$convidados/27229$-o-crescimento-urbano-e-o-problema-do-seculo/. Acesso: 19 jul. 2017.)\nQUESTÃO 7\nSegundo os dados apresentados no texto e na imagem, o crescimento da população urbana é um fenômeno mundial. Esses dados permitem identificar o seguinte desafio para as cidades nas próximas décadas:",
       subItens: []
     },
     options: [
@@ -150,7 +150,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "Leia o texto.\nA Declaração Universal do Direito ao Meio Ambiente e ao Desenvolvimento Sustentável consagra respectivamente nos seus Princípios 24 e 25 que \"A guerra é, por definição, contrária ao desenvolvimento sustentável. Os Estados devem, por conseguinte, respeitar o Direito Internacional aplicável à proteção do meio ambiente em tempos de conflito armado, e cooperar para seu desenvolvimento, quando necessário” e que “A paz, o desenvolvimento e a proteção ambiental são interdependentes e indivisíveis\".\n(FARIAS, Talden Queiroz. As guerras e OS impactos sobre 0 meio ambiente. Disponível: http://www.ambito-juridico.com.br/site/index.php?n_link=revista_artigos_leitura&artigo_id=1668. Acesso: 19 jun. 2017.)\nQUESTÃO 8\nA experiência humana levou à adoção de medidas visando minimizar o impacto das guerras no ambiente, como a",
+      principal: "Leia o texto.\nA Declaração Universal do Direito ao Meio Ambiente e ao Desenvolvimento Sustentável consagra respectivamente nos seus Princípios 24 e 25 que \"A guerra é, por definição, contrária ao desenvolvimento sustentável. Os Estados devem, por conseguinte, respeitar o Direito Internacional aplicável à proteção do meio ambiente em tempos de conflito armado, e cooperar para seu desenvolvimento, quando necessário” e que “A paz, o desenvolvimento e a proteção ambiental são interdependentes e indivisíveis\".\n(FARIAS, Talden Queiroz. As guerras e OS impactos sobre 0 meio ambiente. Disponível: http://www.ambito-juridico.com.br/site/index.php?$n_link$=$revista_artigos_leitura$&$artigo_id$=1668. Acesso: 19 jun. 2017.)\nQUESTÃO 8\nA experiência humana levou à adoção de medidas visando minimizar o impacto das guerras no ambiente, como a",
       subItens: []
     },
     options: [
@@ -284,7 +284,7 @@ createQuestion({
       "4,8 t.",
       "4,0 t.",
       "3,2 t.",
-      "2,8 t.\n(Dados - massas molares em g/mol: C = 12; O = 16; Si = 28)"
+      "2,8 t.\n(Dados - massas molares em $g/mol$: C = 12; O = 16; Si = 28)"
     ],
     correctAnswer: 4,
     materia: ["Química"],
@@ -297,7 +297,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 15\nA tabela mostra propriedades de duas substâncias químicas de uso corrente em laboratório.\nSubstância\nSolubilidade em água\n(a 20 °C)\nSolubilidade em etanol\n(a 20 °C)\nK2CO3\n1 300 g/L\ninsolúvel\nKOH\n1 130 g/L\n400 g/L\nAcidentalmente, uma porção de 100 g de carbonato de potássio sólido foi colocada em um recipiente que continha 100 g de hidróxido de potássio sólido. Para separar essa mistura, obtendo novamente as duas substâncias, pode-se acrescentar à mistura",
+      principal: "QUESTÃO 15\nA tabela mostra propriedades de duas substâncias químicas de uso corrente em laboratório.\nSubstância\nSolubilidade em água\n(a 20 °C)\nSolubilidade em etanol\n(a 20 °C)\nK2CO3\n1 300 $g/L$\ninsolúvel\nKOH\n1 130 $g/L$\n400 $g/L$\nAcidentalmente, uma porção de 100 g de carbonato de potássio sólido foi colocada em um recipiente que continha 100 g de hidróxido de potássio sólido. Para separar essa mistura, obtendo novamente as duas substâncias, pode-se acrescentar à mistura",
       subItens: []
     },
     options: [
@@ -318,7 +318,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 16\nConsidere as seguintes composições de ligas metálicas, em que o cobre é o metal presente em maior porcentagem: Cu/Zn, Cu/Sn e Cu/Ni. Essas três ligas são conhecidas, respectivamente, pelos nomes:",
+      principal: "QUESTÃO 16\nConsidere as seguintes composições de ligas metálicas, em que o cobre é o metal presente em maior porcentagem: $Cu/Zn$, $Cu/Sn$ e $Cu/Ni$. Essas três ligas são conhecidas, respectivamente, pelos nomes:",
       subItens: []
     },
     options: [
@@ -381,15 +381,15 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 19\nPara a realização de um experimento, um professor precisou misturar 100 mL de uma solução de NaOH a 20% (massa/volume) com 400 mL de uma solução de NaOH de concentração 2,5 mol/L. A concentração da solução preparada pelo professor é igual a",
+      principal: "QUESTÃO 19\nPara a realização de um experimento, um professor precisou misturar 100 mL de uma solução de NaOH a 20% ($massa/volume$) com 400 mL de uma solução de NaOH de concentração 2,5 $mol/L$. A concentração da solução preparada pelo professor é igual a",
       subItens: []
     },
     options: [
-      "0,75 mol/L.",
-      "1,5 mol/L.",
-      "3,0 mol/L.",
-      "4,5 mol/L.",
-      "6,0 mol/L.\n(Dados - massas molares em g/mol: Na = 23; O = 16; H = 1)"
+      "0,75 $mol/L$.",
+      "1,5 $mol/L$.",
+      "3,0 $mol/L$.",
+      "4,5 $mol/L$.",
+      "6,0 $mol/L$.\n(Dados - massas molares em $g/mol$: Na = 23; O = 16; H = 1)"
     ],
     correctAnswer: 2,
     materia: ["Química"],
@@ -444,7 +444,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 22\nCerto vinagre apresenta pH = 2,5 a 25 °C. A concentração de ácido acético nesse vinagre é 0,5 mol/L. O valor da constante de ionização do ácido acético (Ka), nessa temperatura, calculado a partir desses dados é",
+      principal: "QUESTÃO 22\nCerto vinagre apresenta pH = 2,5 a 25 °C. A concentração de ácido acético nesse vinagre é 0,5 $mol/L$. O valor da constante de ionização do ácido acético (Ka), nessa temperatura, calculado a partir desses dados é",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 26\nAo tocar seu violão, Raphael Rabello, um importante violonista brasileiro, gravou o som produzido por seu instrumento. A análise da gravação permite obter o gráfico de variação e pressão em função do tempo, conforme segue:\nΔΡ\n15 30 45 60 75 90 105 tempo (ms)\nA tabela a seguir associa as notas musicais às respectivas frequências:\nNota\nDó\nRé\nMi\nFá\nSol\nLá\nSi\nDó\nFrequência (Hz) 32,7 36,7 41,2 43,7 49,0 55,0 61,7 65,4\nAnalisando o gráfico e a tabela, assinale a alternativa que melhor representa a nota tocada pelo músico e o respectivo comprimento de onda.\nAssuma que a velocidade de propagação do som no ar é de 340 m/s.",
+      principal: "QUESTÃO 26\nAo tocar seu violão, Raphael Rabello, um importante violonista brasileiro, gravou o som produzido por seu instrumento. A análise da gravação permite obter o gráfico de variação e pressão em função do tempo, conforme segue:\nΔΡ\n15 30 45 60 75 90 105 tempo (ms)\nA tabela a seguir associa as notas musicais às respectivas frequências:\nNota\nDó\nRé\nMi\nFá\nSol\nLá\nSi\nDó\nFrequência (Hz) 32,7 36,7 41,2 43,7 49,0 55,0 61,7 65,4\nAnalisando o gráfico e a tabela, assinale a alternativa que melhor representa a nota tocada pelo músico e o respectivo comprimento de onda.\nAssuma que a velocidade de propagação do som no ar é de 340 $m/s$.",
       subItens: []
     },
     options: [
@@ -570,7 +570,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 28\nVisando investigar a influência de diferentes manejos de solo e de luminosidade no crescimento de uma planta, importante para a produção de medicamentos, um botânico realizou um experimento em que monitorou, durante todo o mês de julho, a velocidade de crescimento a partir de duas sementes idênticas, mas com diferentes condições. Após finalizar o experimento, o cientista produziu o gráfico abaixo:\nv (cm/s)\n10\nPlanta 1\n20\nPlanta 2\n30\nt (dias)\nA partir da leitura do gráfico, comparando as duas plantas, é correto afirmar que",
+      principal: "QUESTÃO 28\nVisando investigar a influência de diferentes manejos de solo e de luminosidade no crescimento de uma planta, importante para a produção de medicamentos, um botânico realizou um experimento em que monitorou, durante todo o mês de julho, a velocidade de crescimento a partir de duas sementes idênticas, mas com diferentes condições. Após finalizar o experimento, o cientista produziu o gráfico abaixo:\nv ($cm/s$)\n10\nPlanta 1\n20\nPlanta 2\n30\nt (dias)\nA partir da leitura do gráfico, comparando as duas plantas, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -633,7 +633,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 31\nΟ Extremely Large Telescope (ELT) é o próximo telescópio da European Southern Observatory (ESO) a ser construído no norte do Chile. Com impressionantes 39,4 m de diâmetro em seu espelho primário, o telescópio promete abordar os maiores desafios da Astronomia. Essencialmente, o ELT consiste em uma associação de espelhos que ampliam a área coletora de luz, quando comparada ao olho humano, fazendo com que objetos impossíveis de serem observados a olho nu se tornem visíveis.\nSobre o funcionamento do ELT foram realizadas as seguintes afirmativas:\nI. A função do telescópio é ampliar o tamanho dos objetos, pois, ao deixar a imagem maior que o objeto, permite aumentar a quantidade de dados sobre o objeto estudado.\nII. Um dos problemas deste tipo de telescópio, que observa o céu da superfície da Terra, é lidar com as interferências da atmosfera terrestre na luz proveniente dos astros, tais como a refração da luz e a aberração cromática.\nIII. O espelho côncavo com 39,4 m de diâmetro favorece a formação de imagens mais detalhadas, pois a luz proveniente do astro observado, ao incidir neste espelho, reflete concentrando-se no seu foco.\nÉ correto o que se afirma em",
+      principal: "QUESTÃO 31\nΟ Extremely Large Telescope (ELT) é o próximo telescópio da European Southern Observatory (ESO) a ser construído no norte do Chile. Com impressionantes 39,4 m de diâmetro em seu espelho primário, o telescópio promete abordar os maiores desafios da Astronomia. Essencialmente, o ELT consiste em uma associação de espelhos que ampliam a área coletora de luz, quando comparada ao olho humano, fazendo com que objetos impossíveis de serem observados a olho $\\nu$ se tornem visíveis.\nSobre o funcionamento do ELT foram realizadas as seguintes afirmativas:\nI. A função do telescópio é ampliar o tamanho dos objetos, pois, ao deixar a imagem maior que o objeto, permite aumentar a quantidade de dados sobre o objeto estudado.\nII. Um dos problemas deste tipo de telescópio, que observa o céu da superfície da Terra, é lidar com as interferências da atmosfera terrestre na luz proveniente dos astros, tais como a refração da luz e a aberração cromática.\nIII. O espelho côncavo com 39,4 m de diâmetro favorece a formação de imagens mais detalhadas, pois a luz proveniente do astro observado, ao incidir neste espelho, reflete concentrando-se no seu foco.\nÉ correto o que se afirma em",
       subItens: []
     },
     options: [
@@ -654,7 +654,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 32\nEmbora não pareça, tudo está atraindo tudo gravitacionalmente! Duas pessoas de 60 kg de massa cada uma, distantes 2 m entre si, estão se atraindo mutuamente. Não percebemos esta força, pois ela é imensamente menor do que a força que empregamos para, por exemplo, erguer com velocidade constante uma xícara de café de 50 g de massa até a boca.\nAdote Aceleração da gravidade: g = 10 m/s2 s2 e Constante gravitacional: G = 20. 10-11 N. m²/kg2\n3\nÉ correto dizer que a razão entre a força gravitacional de atração entre essas pessoas e a força que fazemos para erguer a xícara vale",
+      principal: "QUESTÃO 32\nEmbora não pareça, tudo está atraindo tudo gravitacionalmente! Duas pessoas de 60 kg de massa cada uma, distantes 2 m entre si, estão se atraindo mutuamente. Não percebemos esta força, pois ela é imensamente menor do que a força que empregamos para, por exemplo, erguer com velocidade constante uma xícara de café de 50 g de massa até a boca.\nAdote Aceleração da gravidade: g = 10 $m/s2$ s2 e Constante gravitacional: G = 20. 10-11 N. m²/kg2\n3\nÉ correto dizer que a razão entre a força gravitacional de atração entre essas pessoas e a força que fazemos para erguer a xícara vale",
       subItens: []
     },
     options: [
@@ -801,13 +801,13 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 39\nA figura 1 abaixo ilustra um galvanômetro, constituído por um imã, uma bobina plana móvel, com um leve ponteiro a ela acoplado, e uma mola. O valor do campo magnético do imã na região da bobina é constante e tem módulo de 0,5 T. A bobina quadrada tem 2 cm de lado e 200 voltas de fio; e a mola tem constante elástica K = 1,8 N/m. Quando a mola se distende 4 cm, o ponteiro é defletido em 30°.\nFigura 1 - Galvanômetro\nBobina\nmóvel\nN\nS\n0000000000\nF=0\nMola\nFigura 2 - Galvanômetro com ponteiro defletido\nBobina\n1 cm\n30\nTT\nPonteira\n5 cm\n4 cm\nBobina\nMola\nWWW\na\nvista em perspectiva\nvista frontal\nPara que o ponteiro se mantenha em repouso nesta posição, a corrente que atravessa a bobina vale, em miliampéres",
+      principal: "QUESTÃO 39\nA figura 1 abaixo ilustra um galvanômetro, constituído por um imã, uma bobina plana móvel, com um leve ponteiro a ela acoplado, e uma mola. O valor do campo magnético do imã na região da bobina é constante e tem módulo de 0,5 T. A bobina quadrada tem 2 cm de lado e 200 voltas de fio; e a mola tem constante elástica K = 1,8 $N/m$. Quando a mola se distende 4 cm, o ponteiro é defletido em 30°.\nFigura 1 - Galvanômetro\nBobina\nmóvel\nN\nS\n0000000000\nF=0\nMola\nFigura 2 - Galvanômetro com ponteiro defletido\nBobina\n1 cm\n30\nTT\nPonteira\n5 cm\n4 cm\nBobina\nMola\nWWW\na\nvista em perspectiva\nvista frontal\nPara que o ponteiro se mantenha em repouso nesta posição, a corrente que atravessa a bobina vale, em miliampéres",
       subItens: []
     },
     options: [
       "0,02",
       "0,40",
-      "1,00\nUse: cos 30° = 0,9",
+      "1,00\nUse: $\\cos$ 30° = 0,9",
       "2,00",
       "4,00"
     ],
@@ -910,8 +910,8 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/3.",
-      "1/2.",
+      "$1/3$.",
+      "$1/2$.",
       "1.",
       "9.",
       "12."
@@ -969,7 +969,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 47\nEntre os operários de uma indústria, a relação entre o número de homens e o número de mulheres era de 8/9. No mês de julho, esta relação foi de 25/21, porque 20 operários homens e 30% das mulheres foram demitidos.\nA diferença entre o total de operários antes de julho e o total deles depois desse mês é",
+      principal: "QUESTÃO 47\nEntre os operários de uma indústria, a relação entre o número de homens e o número de mulheres era de $8/9$. No mês de julho, esta relação foi de $25/21$, porque 20 operários homens e 30% das mulheres foram demitidos.\nA diferença entre o total de operários antes de julho e o total deles depois desse mês é",
       subItens: []
     },
     options: [
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 53\nO som é medido em uma escala logarítmica, usando-se uma unidade chamada decibel.\nd = 10 log\nP\nPé a potência ou intensidade do som; e Po é o som mais fraco que um ser humano pode captar; e dé o índice de ruído.\nUma bomba para aquecer água tem um índice de ruído de 50 decibéis, enquanto este índice, para uma lavadora de prato, é de 62 decibéis.\nQuantas vezes o ruído da máquina de lavar pratos é mais intenso do que o ruído da bomba de aquecimento de água?\nMarque a alternativa que responde corretamente a essa pergunta.",
+      principal: "QUESTÃO 53\nO som é medido em uma escala logarítmica, usando-se uma unidade chamada decibel.\nd = 10 $\\log$\nP\nPé a potência ou intensidade do som; e Po é o som mais fraco que um ser humano pode captar; e dé o índice de ruído.\nUma bomba para aquecer água tem um índice de ruído de 50 decibéis, enquanto este índice, para uma lavadora de prato, é de 62 decibéis.\nQuantas vezes o ruído da máquina de lavar pratos é mais intenso do que o ruído da bomba de aquecimento de água?\nMarque a alternativa que responde corretamente a essa pergunta.",
       subItens: []
     },
     options: [
@@ -1353,7 +1353,7 @@ createQuestion({
     options: [
       "estimular a produção de leite materno.",
       "estimular o córtex da glândula suprarrenal a secretar cortisol.",
-      "estimular diretamente as células beta das ilhas pancreáticas.",
+      "estimular diretamente as células $\\beta$ das ilhas pancreáticas.",
       "provocar contrações uterinas.",
       "estimular a atividade secretória da glândula tireoide."
     ],
@@ -1393,11 +1393,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/4",
-      "1/8",
-      "1/16",
-      "1/32",
-      "1/64"
+      "$1/4$",
+      "$1/8$",
+      "$1/16$",
+      "$1/32$",
+      "$1/64$"
     ],
     correctAnswer: 1,
     materia: ["Biologia"],
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "slm",
     year: 2017,
     text: {
-      principal: "QUESTÃO 71\nO cariótipo ou exame citogenético é um recurso que permite detectar anomalias cromossômicas numéricas e/ou morfológicas. Em conjunto, as alterações anatômicas e fisológicas decorrentes de anomalias cromossômicas são chamadas de síndromes.\nAdiante estão reproduzidos os idiogramas de três exames citogenéticos com aneuploidias.\n1\nII\nIII\n1 2 3 4 5\n1 2 3 4 5\n1 2 3 4 5\n6 7 8 9 10 11 12\n6 7 8 9 10 11 12\n6 7 8 9 10 11 12\n13 14 15 16 17 18\n13 14 15 16 17 18\n13 14 15 16 17 18\n11\n11\n11 \"\nKi\n11\n11\n(\n19 20 21 22 X\n19 20 21 22 X Y\n19 20 21 22 X\nOs idiogramas I, II e III correspondem, respectivamente, à",
+      principal: "QUESTÃO 71\nO cariótipo ou exame citogenético é um recurso que permite detectar anomalias cromossômicas numéricas $e/ou$ morfológicas. Em conjunto, as alterações anatômicas e fisológicas decorrentes de anomalias cromossômicas são chamadas de síndromes.\nAdiante estão reproduzidos os idiogramas de três exames citogenéticos com aneuploidias.\n1\nII\nIII\n1 2 3 4 5\n1 2 3 4 5\n1 2 3 4 5\n6 7 8 9 10 11 12\n6 7 8 9 10 11 12\n6 7 8 9 10 11 12\n13 14 15 16 17 18\n13 14 15 16 17 18\n13 14 15 16 17 18\n11\n11\n11 \"\nKi\n11\n11\n(\n19 20 21 22 X\n19 20 21 22 X Y\n19 20 21 22 X\nOs idiogramas I, II e III correspondem, respectivamente, à",
       subItens: []
     },
     options: [
@@ -1501,7 +1501,7 @@ createQuestion({
       "180 g.",
       "264 g.",
       "444 g.",
-      "600 g.\nDados: C = 12 g/mol; O = 16 g/mol; H = 1 g/mol; volume molar do CO2 é 24 L/mol",
+      "600 g.\nDados: C = 12 $g/mol$; O = 16 $g/mol$; H = 1 $g/mol$; volume molar do CO2 é 24 $L/mol$",
       "880 g."
     ],
     correctAnswer: 3,

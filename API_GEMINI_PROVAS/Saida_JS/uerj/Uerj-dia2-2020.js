@@ -543,7 +543,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "Os números inteiros x e y satisfazem às seguintes equações:\n2x + (3/5)y = 37\nx - y = 30\nLogo, x + y é igual a:",
+      principal: "Os números inteiros x e y satisfazem às seguintes equações:\n2x + ($3/5$)y = 37\nx - y = 30\nLogo, x + y é igual a:",
       subItens: []
     },
     options: [
@@ -568,9 +568,9 @@ createQuestion({
     },
     options: [
       "1",
-      "3/2",
+      "$3/2$",
       "2",
-      "5/2"
+      "$5/2$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -583,7 +583,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "Ao se aposentar aos 65 anos, um trabalhador recebeu seu Fundo de Garantia por Tempo de Serviço (FGTS) no valor de R$50.000,00 e resolveu deixá-lo em uma aplicação bancária, rendendo juros compostos de 4% ao ano, até obter um saldo de R$100.000,00. Se esse rendimento de 4% ao ano não mudar ao longo de todos os anos, o trabalhador atingirá seu objetivo após x anos.\nConsiderando log (1,04) = 0,017 e log 2 = 0,301, o valor mais próximo de x é:",
+      principal: "Ao se aposentar aos 65 anos, um trabalhador recebeu seu Fundo de Garantia por Tempo de Serviço (FGTS) no valor de R$50.000,00 e resolveu deixá-lo em uma aplicação bancária, rendendo juros compostos de 4% ao ano, até obter um saldo de R$100.000,00. Se esse rendimento de 4% ao ano não mudar ao longo de todos os anos, o trabalhador atingirá seu objetivo após x anos.\nConsiderando $\\log$ (1,04) = 0,017 e $\\log$ 2 = 0,301, o valor mais próximo de x é:",
       subItens: []
     },
     options: [
@@ -683,7 +683,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "A produção e a transmissão do impulso nervoso nos neurônios têm origem no mecanismo da bomba de sódio-potássio. Esse mecanismo é responsável pelo transporte de íons Na⁺ para o meio extracelular e K⁺ para o interior da célula, gerando o sinal elétrico. A ilustração abaixo representa esse processo.\n(Image: cell membrane showing Na+ and K+ movement)\nPara um estudo sobre transmissão de impulsos nervosos pela bomba de sódio-potássio, preparou-se uma mistura contendo os cátions Na⁺ e K⁺, formada pelas soluções aquosas A e B com solutos diferentes. Considere a tabela a seguir:\nSOLUÇÃO | VOLUME (mL) | SOLUTO | CONCENTRAÇÃO (mol/L)\nA | 400 | KCl | 0,1\nB | 600 | NaCl | 0,2\nAdmitindo a completa dissociação dos solutos, a concentração de íons cloreto na mistura, em mol/L, corresponde a:",
+      principal: "A produção e a transmissão do impulso nervoso nos neurônios têm origem no mecanismo da bomba de sódio-potássio. Esse mecanismo é responsável pelo transporte de íons Na⁺ para o meio extracelular e K⁺ para o interior da célula, gerando o sinal elétrico. A ilustração abaixo representa esse processo.\n(Image: cell membrane showing Na+ and K+ movement)\nPara um estudo sobre transmissão de impulsos nervosos pela bomba de sódio-potássio, preparou-se uma mistura contendo os cátions Na⁺ e K⁺, formada pelas soluções aquosas A e B com solutos diferentes. Considere a tabela a seguir:\nSOLUÇÃO | VOLUME (mL) | SOLUTO | CONCENTRAÇÃO ($mol/L$)\nA | 400 | KCl | 0,1\nB | 600 | NaCl | 0,2\nAdmitindo a completa dissociação dos solutos, a concentração de íons cloreto na mistura, em $mol/L$, corresponde a:",
       subItens: []
     },
     options: [
@@ -743,7 +743,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "O gráfico abaixo indica a variação da aceleração a de um corpo, inicialmente em repouso, e da força F que atua sobre ele.\n(Graph: F (N) vs a (m/s²), showing a linear relationship from (0,0) through (2,6) and (4,12))\nQuando a velocidade do corpo é de 10 m/s, sua quantidade de movimento, em kg × m/s, corresponde a:",
+      principal: "O gráfico abaixo indica a variação da aceleração a de um corpo, inicialmente em repouso, e da força F que atua sobre ele.\n(Graph: F (N) vs a ($m/s$²), showing a linear relationship from (0,0) through (2,6) and (4,12))\nQuando a velocidade do corpo é de 10 $m/s$, sua quantidade de movimento, em kg × $m/s$, corresponde a:",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "Para aquecer a quantidade de massa m de uma substância, foram consumidas 1450 calorias.\nA variação de seu calor específico c, em função da temperatura θ, está indicada no gráfico.\n(Graph: c (cal/g°C) vs. θ (°C), showing c is 0.20 cal/g°C between 20°C and 60°C)\nO valor de m, em gramas, equivale a:",
+      principal: "Para aquecer a quantidade de massa m de uma substância, foram consumidas 1450 calorias.\nA variação de seu calor específico c, em função da temperatura θ, está indicada no gráfico.\n(Graph: c ($cal/g$°C) vs. θ (°C), showing c is 0.20 $cal/g$°C between 20°C and 60°C)\nO valor de m, em gramas, equivale a:",
       subItens: []
     },
     options: [
@@ -963,7 +963,7 @@ createQuestion({
     university: "uerj",
     year: 2020,
     text: {
-      principal: "AMEAÇA DOS MÍSSEIS DA COREIA DO NORTE\n(Map 1: Missile ranges for Nodong and Taepodong-1/2, showing limited reach to US. Map 2: Corrected missile ranges, showing full reach to US)\nOs mapas acima, publicados em momentos distintos pela revista The Economist, representam o alcance calculado para os mísseis balísticos da Coreia do Norte. No mapa 1, de 03/05/2003, os mísseis não atingem plenamente o espaço continental dos Estados Unidos. O mapa 2, publicado alguns dias depois, corrige essa informação, revelando a efetiva vulnerabilidade de todo o território estadunidense àqueles artefatos militares.\nA correção das informações do mapa 1 decorre da seguinte característica desse tipo de representação da superfície terrestre:",
+      principal: "AMEAÇA DOS MÍSSEIS DA COREIA DO NORTE\n(Map 1: Missile ranges for Nodong and Taepodong-$1/2$, showing limited reach to US. Map 2: Corrected missile ranges, showing full reach to US)\nOs mapas acima, publicados em momentos distintos pela revista The Economist, representam o alcance calculado para os mísseis balísticos da Coreia do Norte. No mapa 1, de 03/05/2003, os mísseis não atingem plenamente o espaço continental dos Estados Unidos. O mapa 2, publicado alguns dias depois, corrige essa informação, revelando a efetiva vulnerabilidade de todo o território estadunidense àqueles artefatos militares.\nA correção das informações do mapa 1 decorre da seguinte característica desse tipo de representação da superfície terrestre:",
       subItens: []
     },
     options: [

@@ -423,7 +423,7 @@ createQuestion({
     university: "albert einstein",
     year: 2023,
     text: {
-      principal: "Analise o mapa e leia o excerto.\n\n[IMAGEM: Um mapa da região do Oriente Médio, mostrando Turquia, Armênia, Síria, Iraque e Irã. Uma área destacada, abrangendo partes da Turquia, Síria, Iraque e Irã, é rotulada como \"Área historicamente habitada\".]\n\nHojes, eles formam uma comunidade unida por raça, cultura e linguagem, ainda que não tenham um dialeto padrão. Eles têm diversas religiões e credos, mas a maioria é muçulmana sunita.\n\n(www.bbc.com. Adaptado.)\n\nA área destacada no mapa e as características apresentadas no excerto correspondem",
+      principal: "Analise o mapa e leia o excerto.\n\n[IMAGEM: Um mapa da região do Oriente Médio, mostrando Turquia, Armênia, Síria, Iraque e Irã. Uma área destacada, abrangendo partes da Turquia, Síria, Iraque e Irã, é rotulada como \"Área historicamente habitada\".]\n\nHojes, eles formam uma comunidade unida por raça, cultura e linguagem, ainda que não tenham um dialeto padrão. Eles têm diversas religiões e credos, mas a maioria é $\\mu$çulmana sunita.\n\n(www.bbc.com. Adaptado.)\n\nA área destacada no mapa e as características apresentadas no excerto correspondem",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "albert einstein",
     year: 2023,
     text: {
-      principal: "Um estudante resolveu cobrear um objeto de aço inoxidável por meio da deposição eletrolítica de uma camada de cobre metálico sobre o objeto. Para isso, montou a cuba eletrolítica ilustrada a seguir e a deixou funcionando durante 80 minutos sob corrente elétrica constante de 200 mA.\n\n[IMAGEM: Diagrama de uma célula eletrolítica com uma fonte de corrente contínua, um objeto a cobrear (cátodo) e uma lâmina de cobre (ânodo) submersos em uma solução de CuSO4 (aq).]\n\nConsiderando que a constante de Faraday (F) é igual a 96500 C/mol, estima-se que a massa de cobre metálico depositada no objeto de aço inoxidável nesse processo foi, aproximadamente,",
+      principal: "Um estudante resolveu cobrear um objeto de aço inoxidável por meio da deposição eletrolítica de uma camada de cobre metálico sobre o objeto. Para isso, montou a cuba eletrolítica ilustrada a seguir e a deixou funcionando durante 80 minutos sob corrente elétrica constante de 200 mA.\n\n[IMAGEM: Diagrama de uma célula eletrolítica com uma fonte de corrente contínua, um objeto a cobrear (cátodo) e uma lâmina de cobre (ânodo) submersos em uma solução de CuSO4 (aq).]\n\nConsiderando que a constante de Faraday (F) é igual a 96500 $C/mol$, estima-se que a massa de cobre metálico depositada no objeto de aço inoxidável nesse processo foi, aproximadamente,",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "albert einstein",
     year: 2023,
     text: {
-      principal: "Catarina viveu 1/5 da sua vida na infância, mais 1/12 na adolescência. Passados mais 1/6 da sua vida ela se casou e, depois de 6 anos de casada, nasceu seu único filho. Depois da morte de seu filho, Catarina viveu mais 9 anos antes de morrer. Sabendo-se que o filho de Catarina viveu apenas 30% do tempo de vida dela, ele viveu um total de",
+      principal: "Catarina viveu $1/5$ da sua vida na infância, mais $1/12$ na adolescência. Passados mais $1/6$ da sua vida ela se casou e, depois de 6 anos de casada, nasceu seu único filho. Depois da morte de seu filho, Catarina viveu mais 9 anos antes de morrer. Sabendo-se que o filho de Catarina viveu apenas 30% do tempo de vida dela, ele viveu um total de",
       subItens: []
     },
     options: [
@@ -948,7 +948,7 @@ createQuestion({
     university: "albert einstein",
     year: 2023,
     text: {
-      principal: "O número de soluções racionais do tipo n/10, sendo n um número natural menor do que 10 e diferente de zero, da inequação (5x – 1)(x + 2) / (1-2x) ≤ 0 é igual a",
+      principal: "O número de soluções racionais do tipo $n/10$, sendo n um número natural menor do que 10 e diferente de zero, da inequação (5x – 1)(x + 2) / (1-2x) ≤ 0 é igual a",
       subItens: []
     },
     options: [
@@ -973,11 +973,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "6/5",
-      "2/3",
-      "8/15",
-      "1/2",
-      "2/5"
+      "$6/5$",
+      "$2/3$",
+      "$8/15$",
+      "$1/2$",
+      "$2/5$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -990,7 +990,7 @@ createQuestion({
     university: "albert einstein",
     year: 2023,
     text: {
-      principal: "Para fazer um gráfico em papel milimetrado com escala logarítmica, David precisa encontrar o logaritmo do número 2,5 × 10⁻¹⁸, na base 10, adotando em seu cálculo log₁₀2 = 0,301. O logaritmo do número procurado por David é",
+      principal: "Para fazer um gráfico em papel milimetrado com escala logarítmica, David precisa encontrar o logaritmo do número 2,5 × 10⁻¹⁸, na base 10, adotando em seu cálculo $\\log$₁₀2 = 0,301. O logaritmo do número procurado por David é",
       subItens: []
     },
     options: [
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "albert einstein",
     year: 2023,
     text: {
-      principal: "Na prática diária da medicina, a trigonometria pode ser utilizada para determinar, por exemplo, a inclinação que devemos dar a uma agulha com o objetivo de atingir o local desejado. A imagem indica a anatomia ultrassônica da veia jugular interna de um paciente. Nessa imagem, H representa a medida do trajeto retilíneo da agulha que incidirá na pele do paciente, A representa a distância, medida na pele retilínea do paciente, entre o ponto de incisão da agulha e o ponto correspondente à projeção ortogonal do alvo a ser atingido sobre a pele, e B representa uma medida que depende da anatomia de cada paciente.\n\n[IMAGEM: Diagrama mostrando a anatomia ultrassônica de uma veia jugular interna. Uma agulha é inserida na pele, formando um triângulo retângulo. A distância horizontal da ponta de inserção da agulha até a projeção do alvo é A, a profundidade do alvo a partir da pele é B, e o comprimento da agulha inserida é H. O ângulo entre a agulha e a pele é α.]\n\nSeja (A, α) um par ordenado, com A em centímetros e α em radianos. Suponha que a imagem de ultrassom apresentada indique ao médico B = 2 cm e cinco pares (A, α), dados por S1= (2√3, π/3), S2= (3√3, π/6), S3= (2, π/4), S4= (2√3/3, π/4), S5= (1, π/4), sendo que apenas um deles garante que o alvo será atingido corretamente. Nessas condições, dentre os cinco pares (A, α), aquele que atingirá corretamente o alvo será",
+      principal: "Na prática diária da medicina, a trigonometria pode ser utilizada para determinar, por exemplo, a inclinação que devemos dar a uma agulha com o objetivo de atingir o local desejado. A imagem indica a anatomia ultrassônica da veia jugular interna de um paciente. Nessa imagem, H representa a medida do trajeto retilíneo da agulha que incidirá na pele do paciente, A representa a distância, medida na pele retilínea do paciente, entre o ponto de incisão da agulha e o ponto correspondente à projeção ortogonal do alvo a ser atingido sobre a pele, e B representa uma medida que depende da anatomia de cada paciente.\n\n[IMAGEM: Diagrama mostrando a anatomia ultrassônica de uma veia jugular interna. Uma agulha é inserida na pele, formando um triângulo retângulo. A distância horizontal da ponta de inserção da agulha até a projeção do alvo é A, a profundidade do alvo a partir da pele é B, e o comprimento da agulha inserida é H. O ângulo entre a agulha e a pele é α.]\n\nSeja (A, α) um par ordenado, com A em centímetros e α em radianos. Suponha que a imagem de ultrassom apresentada indique ao médico B = 2 cm e cinco pares (A, α), dados por S1= (2√3, π/3), S2= (3√3, π/6), S3= (2, π/4), S4= (2√$3/3$, π/4), S5= (1, π/4), sendo que apenas um deles garante que o alvo será atingido corretamente. Nessas condições, dentre os cinco pares (A, α), aquele que atingirá corretamente o alvo será",
       subItens: []
     },
     options: [
@@ -1036,11 +1036,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/2.",
-      "2/5.",
-      "3/5.",
-      "1/5.",
-      "4/5."
+      "$1/2$.",
+      "$2/5$.",
+      "$3/5$.",
+      "$1/5$.",
+      "$4/5$."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],

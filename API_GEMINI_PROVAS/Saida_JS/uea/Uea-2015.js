@@ -302,7 +302,7 @@ createQuestion({
     },
     options: [
       "ocorreu apenas no período medieval devido ao gran-de número de analfabetos na população europeia.",
-      "resultou da influência da religião muçulmana sobre os cristãos, ocorrida após a chegada dos árabes à Europa.",
+      "resultou da influência da religião $\\mu$çulmana sobre os cristãos, ocorrida após a chegada dos árabes à Europa.",
       "desenvolveu uma cultura dos sentidos específica e característica das cerimônias e dos cultos católicos.",
       "impossibilitou a expansão da fé cristã nas regiões eu-ropeias ocupadas e dominadas pelos povos bárbaros.",
       "produziu uma ruptura acentuada com a tradição artís-tica da antiguidade clássica, que jamais recorreu ao uso de imagens."
@@ -381,7 +381,7 @@ createQuestion({
     university: "uea",
     year: 2015,
     text: {
-      principal: "A quarta espécie de Reconhecimento provém de um silogismo, como n'As Coéforas, pelo seguinte raciocínio: alguém chegou, que me é semelhante, mas ninguém se me assemelha senão Orestes, logo quem veio foi Orestes.\n(Aristóteles. Poética, 1992.)\n\nAs Coéforas é uma peça trágica grega, escrita por Ésquilo (525-456 a.C.), que representa a vingança dos filhos de Agamenon, Electra e Orestes, ao assassinato de seu pai. Aristóteles refere-se ao instante em que Elec-tra reconhece, depois de longo tempo de separação, seu irmão Orestes. O \"reconhecimento” foi possível por meio de um silogismo, que é",
+      principal: "A quarta espécie de Reconhecimento provém de um silogismo, como n'As Coéforas, pelo seguinte raciocínio: alguém chegou, que me é semelhante, mas ninguém se me assemelha $\\sin$ão Orestes, logo quem veio foi Orestes.\n(Aristóteles. Poética, 1992.)\n\nAs Coéforas é uma peça trágica grega, escrita por Ésquilo (525-456 a.C.), que representa a vingança dos filhos de Agamenon, Electra e Orestes, ao assassinato de seu pai. Aristóteles refere-se ao instante em que Elec-tra reconhece, depois de longo tempo de separação, seu irmão Orestes. O \"reconhecimento” foi possível por meio de um silogismo, que é",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "uea",
     year: 2015,
     text: {
-      principal: "Esta obra é dividida em dois tramos. O Solimões, que se estende de Tabatinga/AM a Manaus/AM, tendo aproximadamente 1600 km, e o Amazonas, que vai de Manaus/AM a Belém/PA, com 1650 km. O primeiro tramo possui calado mínimo de 6 metros e o segundo com calados de 10 metros.\n(dnit.gov.br. Adaptado.)\n\nO texto trata de um empreendimento na área de trans-portes construído na região Norte do Brasil. Segundo as informações fornecidas, tal obra é um modal do tipo",
+      principal: "Esta obra é dividida em dois tramos. O Solimões, que se estende de $Tabatinga/AM$ a $Manaus/AM$, tendo aproximadamente 1600 km, e o Amazonas, que vai de $Manaus/AM$ a Belé$m/PA$, com 1650 km. O primeiro tramo possui calado mínimo de 6 metros e o segundo com calados de 10 metros.\n(dnit.gov.br. Adaptado.)\n\nO texto trata de um empreendimento na área de trans-portes construído na região Norte do Brasil. Segundo as informações fornecidas, tal obra é um modal do tipo",
       subItens: []
     },
     options: [
@@ -801,15 +801,15 @@ createQuestion({
     university: "uea",
     year: 2015,
     text: {
-      principal: "Em um cesto há mangas, tangerinas e carambolas, no total de 40 frutas, sendo (1/5) de mangas. Sabendo que a razão entre o número de tangerinas e o número de caram-bolas é (3/5), é correto afirmar que, após serem retiradas do cesto 4 tangerinas e 4 carambolas, a nova razão entre o número de tangerinas e o número de carambolas é",
+      principal: "Em um cesto há mangas, tangerinas e carambolas, no total de 40 frutas, sendo ($1/5$) de mangas. Sabendo que a razão entre o número de tangerinas e o número de caram-bolas é ($3/5$), é correto afirmar que, após serem retiradas do cesto 4 tangerinas e 4 carambolas, a nova razão entre o número de tangerinas e o número de carambolas é",
       subItens: []
     },
     options: [
-      "1/5",
-      "1/2",
-      "3/5",
-      "2/3",
-      "3/4"
+      "$1/5$",
+      "$1/2$",
+      "$3/5$",
+      "$2/3$",
+      "$3/4$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -885,7 +885,7 @@ createQuestion({
     university: "uea",
     year: 2015,
     text: {
-      principal: "Ao estudar um exemplar de uma espécie de peixe orna-mental, os pesquisadores constataram que, no 1.º dia de observação, o comprimento do peixe era de 2 cm e que, até o 10.º dia de observação, o comprimento desse peixe obedeceu à função y = 2 + log₂x, sendo y o comprimento, em cm, e x o número de dias, com 1 ≤ x ≤ 10.\nUsando log 2 = 0,30 e log 3 = 0,48, é correto afirmar que o comprimento do peixe, em cm, no 6.º dia, era",
+      principal: "Ao estudar um exemplar de uma espécie de peixe orna-mental, os pesquisadores constataram que, no 1.º dia de observação, o comprimento do peixe era de 2 cm e que, até o 10.º dia de observação, o comprimento desse peixe obedeceu à função y = 2 + $\\log$₂x, sendo y o comprimento, em cm, e x o número de dias, com 1 ≤ x ≤ 10.\nUsando $\\log$ 2 = 0,30 e $\\log$ 3 = 0,48, é correto afirmar que o comprimento do peixe, em cm, no 6.º dia, era",
       subItens: []
     },
     options: [
@@ -910,11 +910,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/5",
-      "1/3",
-      "2/5",
-      "3/5",
-      "2/3"
+      "$1/5$",
+      "$1/3$",
+      "$2/5$",
+      "$3/5$",
+      "$2/3$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -931,11 +931,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "10^4.",
-      "10^5.",
-      "10^6.",
-      "10^7.",
-      "10^8."
+      "$10^4$.",
+      "$10^5$.",
+      "$10^6$.",
+      "$10^7$.",
+      "$10^8$."
     ],
     correctAnswer: 3,
     materia: ["Matemática", "Geografia"],
@@ -969,15 +969,15 @@ createQuestion({
     university: "uea",
     year: 2015,
     text: {
-      principal: "Existem asteroides que, em determinado trecho de suas órbitas, ficam mais próximos do Sol do que a Terra. Um desses asteroides é Apophis, cuja massa estimada é 2,8 x 10^15 kg.\nSendo a massa da Terra 6,0 × 10^24 kg, a razão entre as intensidades das forças gravitacionais que o Sol exerce sobre a Terra e sobre Apophis, (FT / FA), quando ambos estão à mesma distância do Sol, é aproximadamente",
+      principal: "Existem asteroides que, em determinado trecho de suas órbitas, ficam mais próximos do Sol do que a Terra. Um desses asteroides é Apophis, cuja massa estimada é 2,8 x $10^15$ kg.\nSendo a massa da Terra 6,0 × $10^24$ kg, a razão entre as intensidades das forças gravitacionais que o Sol exerce sobre a Terra e sobre Apophis, (FT / FA), quando ambos estão à mesma distância do Sol, é aproximadamente",
       subItens: []
     },
     options: [
       "0,25 × 10^-9.",
       "0,50 × 10^-9.",
-      "1,0 × 10^5.",
-      "2,0 × 10^9.",
-      "4,0 × 10^9."
+      "1,0 × $10^5$.",
+      "2,0 × $10^9$.",
+      "4,0 × $10^9$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "uea",
     year: 2015,
     text: {
-      principal: "Num intervalo de tempo de 30 segundos, uma lancha de massa 120000 kg é acelerada a partir do repouso até a velocidade de 15 m/s. A força resultante média, em newtons, que atuou sobre a lancha nesse intervalo de tempo foi de",
+      principal: "Num intervalo de tempo de 30 segundos, uma lancha de massa 120000 kg é acelerada a partir do repouso até a velocidade de 15 $m/s$. A força resultante média, em newtons, que atuou sobre a lancha nesse intervalo de tempo foi de",
       subItens: []
     },
     options: [
@@ -1032,7 +1032,7 @@ createQuestion({
     university: "uea",
     year: 2015,
     text: {
-      principal: "A vantagem de se construir bases de lançamento de fogue-tes nas proximidades da linha do equador terrestre é que o foguete já parte com uma velocidade maior, dada pela rotação da Terra. No Brasil, o Centro de Lançamento de Alcântara (CLA) apresenta esse requisito.\n\n[IMAGEM] A imagem mostra uma vista aérea de uma base de lançamento de foguetes com várias estruturas e uma área de lançamento circular.\n(www.cta.br. Adaptado.)\n\nSendo a velocidade angular de rotação da Terra ω = (π/12) rad/h e supondo que no CLA o raio de rotação seja de 6360 km, a velocidade escalar, em km/h, de um foguete instalado na superfície do CLA é",
+      principal: "A vantagem de se construir bases de lançamento de fogue-tes nas proximidades da linha do equador terrestre é que o foguete já parte com uma velocidade maior, dada pela rotação da Terra. No Brasil, o Centro de Lançamento de Alcântara (CLA) apresenta esse requisito.\n\n[IMAGEM] A imagem mostra uma vista aérea de uma base de lançamento de foguetes com várias estruturas e uma área de lançamento circular.\n(www.cta.br. Adaptado.)\n\nSendo a velocidade angular de rotação da Terra ω = (π/12) $rad/h$ e supondo que no CLA o raio de rotação seja de 6360 km, a velocidade escalar, em $km/h$, de um foguete instalado na superfície do CLA é",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "uea",
     year: 2015,
     text: {
-      principal: "O cilindro da figura tem massa 32,0 kg, volume 0,04 m³ e área da base 0,08 m².\n\n[IMAGEM] A imagem mostra um cilindro vertical de cor dourada.\n\nConsiderando a aceleração gravitacional igual a 10 m/s², a densidade do cilindro, em kg/m³, e a pressão que ele exerce na superfície, em pascals, quando apoiado como na figura, valem, respectivamente,",
+      principal: "O cilindro da figura tem massa 32,0 kg, volume 0,04 m³ e área da base 0,08 m².\n\n[IMAGEM] A imagem mostra um cilindro vertical de cor dourada.\n\nConsiderando a aceleração gravitacional igual a 10 $m/s$², a densidade do cilindro, em $kg/m$³, e a pressão que ele exerce na superfície, em pascals, quando apoiado como na figura, valem, respectivamente,",
       subItens: []
     },
     options: [
@@ -1074,7 +1074,7 @@ createQuestion({
     university: "uea",
     year: 2015,
     text: {
-      principal: "Considere o embarque de doze pessoas em uma canoa como a da figura e que, após o embarque dessas pessoas, o volume submerso da canoa aumente 0,72 m³.\n\n[IMAGEM] A imagem mostra uma canoa longa e estreita com várias pessoas a bordo, navegando em um rio com vegetação densa nas margens.\n(www.tripadvisor.com)\n\nSendo a aceleração gravitacional igual a 10 m/s² e a massa específica da água 1000 kg/m³, o peso médio, em newtons, das pessoas que embarcaram é",
+      principal: "Considere o embarque de doze pessoas em uma canoa como a da figura e que, após o embarque dessas pessoas, o volume submerso da canoa aumente 0,72 m³.\n\n[IMAGEM] A imagem mostra uma canoa longa e estreita com várias pessoas a bordo, navegando em um rio com vegetação densa nas margens.\n(www.tripadvisor.com)\n\nSendo a aceleração gravitacional igual a 10 $m/s$² e a massa específica da água 1000 $kg/m$³, o peso médio, em newtons, das pessoas que embarcaram é",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "uea",
     year: 2015,
     text: {
-      principal: "Leia as informações sobre o nióbio para responder às questões de números 53 a 56.\n\nNIÓBIO (Nb)\nO que é\nElemento químico metálico, de símbolo Nb. O nome deriva da deusa grega Níobe, filha de Tântalo.\n\nCaracterísticas\nÉ um dos metais que mais resistem à corrosão e é um elemento supercondutor.\nPonto de fusão ou derretimento: 2468 °C\nPonto de evaporação: 4744 °C\n\nAplicações\nÉ usado principalmente na produção de ligas de aço de alta resistên-cia, com aplicações na construção civil, na indústria mecânica, aero-espacial, naval, automobilística e nuclear, entre outras.\n\nOnde é encontrado\nO Brasil detém as maiores reservas conhecidas de nióbio (98,43%), seguido pelo Canadá (1,11%) e Austrália (0,46%). No país, a jazidas conhecidas estão em Minas Gerais (75,08% – Araxã e Tapira), Ama-zonas (21,34% – São Gabriel da Cachoeira e Presidente Figueiredo) e em Goiás (3,85% – Catalão e Ouvidor).\n\nDesde a década de 70, não há comercialização do miné-rio bruto ou do concentrado de nióbio (pirocloro) no mercado interno ou externo. O metal é vendido, sobretudo, na forma da liga ferro-nióbio (FeNb STD, com 66% de teor de nióbio e 30% de ferro), obtida a partir de diversas etapas de processa-mento. Segundo o governo, as exportações de ferro-liga de nióbio atingiram em 2012 aproximadamente 71 mil tonela-das, no valor de US$ 1,8 bilhão.\n(http://g1.globo.com. Adaptado.)\n\nO nióbio está presente nas jazidas de São Gabriel da Ca-choeira, AM, como elemento constituinte do mineral piro-cloro, cuja fórmula porcentual é\nNa_9,75% Ca_5,66% Nb_52,51% H_0,21% O_30,52% F_1,34%\n\nConsiderando que não haja perdas, é correto afirmar que a massa de pirocloro necessária para obter 1,0 t da liga FeNb STD é, em t, aproximadamente,",
+      principal: "Leia as informações sobre o nióbio para responder às questões de números 53 a 56.\n\nNIÓBIO (Nb)\nO que é\nElemento químico metálico, de símbolo Nb. O nome deriva da deusa grega Níobe, filha de Tântalo.\n\nCaracterísticas\nÉ um dos metais que mais resistem à corrosão e é um elemento supercondutor.\nPonto de fusão ou derretimento: 2468 °C\nPonto de evaporação: 4744 °C\n\nAplicações\nÉ usado principalmente na produção de ligas de aço de alta resistên-cia, com aplicações na construção civil, na indústria mecânica, aero-espacial, naval, automobilística e nuclear, entre outras.\n\nOnde é encontrado\nO Brasil detém as maiores reservas conhecidas de nióbio (98,43%), seguido pelo Canadá (1,11%) e Austrália (0,46%). No país, a jazidas conhecidas estão em Minas Gerais (75,08% – Araxã e Tapira), Ama-zonas (21,34% – São Gabriel da Cachoeira e Presidente Figueiredo) e em Goiás (3,85% – Catalão e Ouvidor).\n\nDesde a década de 70, não há comercialização do miné-rio bruto ou do concentrado de nióbio (pirocloro) no mercado interno ou externo. O metal é vendido, sobretudo, na forma da liga ferro-nióbio (FeNb STD, com 66% de teor de nióbio e 30% de ferro), obtida a partir de diversas etapas de processa-mento. Segundo o governo, as exportações de ferro-liga de nióbio atingiram em 2012 aproximadamente 71 mil tonela-das, no valor de US$ 1,8 bilhão.\n(http://g1.globo.com. Adaptado.)\n\nO nióbio está presente nas jazidas de São Gabriel da Ca-choeira, AM, como elemento constituinte do mineral piro-cloro, cuja fórmula porcentual é\n$Na_9$,75% $Ca_5$,66% $Nb_52$,51% $H_0$,21% $O_30$,52% $F_1$,34%\n\nConsiderando que não haja perdas, é correto afirmar que a massa de pirocloro necessária para obter 1,0 t da liga FeNb STD é, em t, aproximadamente,",
       subItens: []
     },
     options: [

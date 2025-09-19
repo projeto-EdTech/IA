@@ -45,7 +45,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "A arte foi e ainda pode ser utilizada para criar, reforçar e disseminar ideias, valores e estereótipos, mas também pode colocá-los em discussão. A obra \"Sentem para jantar\", de Gê Viana, faz parte da série “Atualizações traumáticas de Debret\", na qual o artista propõe uma revisão iconográfica da história do Brasil tendo como referência as obras de Jean-Baptiste Debret, especificamente aquelas presentes em \"Viagem Pitoresca e Histórica ao Brasil\" (1834-1839), publicação que pautou de maneira imagética o período colonial brasileiro. Em sua revisão, Gê Viana dá continuidade ao seu projeto de análise crítica de representações históricas, produzindo releituras de algumas dessas obras, dentre as quais, a obra \"Um jantar brasileiro\", do artista francês. A seguir, são reproduzidos os quadros desses dois artistas.\n\nImagem 1: Jean-Baptiste Debret. \"Um jantar brasileiro\", 1827. Aquarela, 15,7 x 22 cm. Disponível em http://museuscastromaya.com.br/.\nImagem 2: Gê Viana. \"Sentem para jantar\", 2021. Impressão em jato de tinta com pigmento natural de colagem digital sobre papel Hahnemuhle Photo Rag 308 g/m²; 29,7 x 42 cm. Disponível em https://mam.rio/ge-viana/.\n\nCom base nas informações e imagens apresentadas, assinale a alternativa que corresponde à abordagem adotada por Gê Viana em sua obra \"Sentem para jantar\", ao utilizar como referência a obra \"Um jantar brasileiro\", de Jean-Baptiste Debret.",
+      principal: "A arte foi e ainda pode ser utilizada para criar, reforçar e disseminar ideias, valores e estereótipos, mas também pode colocá-los em discussão. A obra \"Sentem para jantar\", de Gê Viana, faz parte da série “Atualizações traumáticas de Debret\", na qual o artista propõe uma revisão iconográfica da história do Brasil tendo como referência as obras de Jean-Baptiste Debret, especificamente aquelas presentes em \"Viagem Pitoresca e Histórica ao Brasil\" (1834-1839), publicação que pautou de maneira imagética o período colonial brasileiro. Em sua revisão, Gê Viana dá continuidade ao seu projeto de análise crítica de representações históricas, produzindo releituras de algumas dessas obras, dentre as quais, a obra \"Um jantar brasileiro\", do artista francês. A seguir, são reproduzidos os quadros desses dois artistas.\n\nImagem 1: Jean-Baptiste Debret. \"Um jantar brasileiro\", 1827. Aquarela, 15,7 x 22 cm. Disponível em http://museuscastromaya.com.br/.\nImagem 2: Gê Viana. \"Sentem para jantar\", 2021. Impressão em jato de tinta com pigmento natural de colagem digital sobre papel Hahnemuhle Photo Rag 308 $g/m$²; 29,7 x 42 cm. Disponível em https://mam.$rio/ge$-viana/.\n\nCom base nas informações e imagens apresentadas, assinale a alternativa que corresponde à abordagem adotada por Gê Viana em sua obra \"Sentem para jantar\", ao utilizar como referência a obra \"Um jantar brasileiro\", de Jean-Baptiste Debret.",
       subItens: []
     },
     options: [
@@ -150,7 +150,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "\"Entre os anos de 2012 e 2022, o número de pessoas autodeclaradas pretas e pardas aumentou em uma taxa superior à do crescimento do total da população do país, segundo o resultado da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua do IBGE. No caso dos negros, essa porcentagem variou de 7,4% em 2012 para 10,6% em 2022. '(...) uma das hipóteses para o crescimento da proporção é que a percepção racial tenha mudado dentro da população, nos últimos anos'.\"\nO Globo, 22/07/2022; CNN Brasil, 16/06/2023.\n\n\"Pois bem, é justamente a partir daí que aparece a necessidade de teorizar as 'raças' como o que elas são, ou seja, construtos sociais, formas de identidade baseadas numa ideia biológica errônea, mas eficaz, socialmente, para construir, manter e reproduzir diferenças e privilégios. Se as raças não existem num sentido estritamente realista de ciência, ou seja, se não são um fato do mundo físico, são, contudo, plenamente existentes no mundo social, produtos de formas de classificar e de identificar que orientam as ações dos seres humanos.\"\nGUIMARÃES, Antônio Sergio Alfredo. Raças e estudos de relações raciais no Brasil. Novos Estudos CEBRAP, n.54, 1999. p.153.\n\nRelacionando os dados trazidos pela PNAD/IBGE e o conceito de raça do sociólogo Antônio Sergio Alfredo Guimarães, é correto afirmar:",
+      principal: "\"Entre os anos de 2012 e 2022, o número de pessoas autodeclaradas pretas e pardas aumentou em uma taxa superior à do crescimento do total da população do país, segundo o resultado da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua do IBGE. No caso dos negros, essa porcentagem variou de 7,4% em 2012 para 10,6% em 2022. '(...) uma das hipóteses para o crescimento da proporção é que a percepção racial tenha mudado dentro da população, nos últimos anos'.\"\nO Globo, 22/07/2022; CNN Brasil, 16/06/2023.\n\n\"Pois bem, é justamente a partir daí que aparece a necessidade de teorizar as 'raças' como o que elas são, ou seja, construtos sociais, formas de identidade baseadas numa ideia biológica errônea, mas eficaz, socialmente, para construir, manter e reproduzir diferenças e privilégios. Se as raças não existem num sentido estritamente realista de ciência, ou seja, se não são um fato do mundo físico, são, contudo, plenamente existentes no mundo social, produtos de formas de classificar e de identificar que orientam as ações dos seres humanos.\"\nGUIMARÃES, Antônio Sergio Alfredo. Raças e estudos de relações raciais no Brasil. Novos Estudos CEBRAP, n.54, 1999. p.153.\n\nRelacionando os dados trazidos pela $PNAD/IBGE$ e o conceito de raça do sociólogo Antônio Sergio Alfredo Guimarães, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -259,11 +259,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Existem 5 pares de pessoas diferentes (Pi ≠ Pj) que não possuem conexões de grau 2.",
-      "Existem 6 pares de pessoas diferentes (Pi ≠ Pj) que possuem apenas uma conexão de grau 2.",
-      "Existem 3 pares de pessoas diferentes (Pi ≠ Pj) que possuem 2 conexões de grau 2 diferentes.",
+      "Existem 5 pares de pessoas diferentes ($\\pi$ ≠ Pj) que não possuem conexões de grau 2.",
+      "Existem 6 pares de pessoas diferentes ($\\pi$ ≠ Pj) que possuem apenas uma conexão de grau 2.",
+      "Existem 3 pares de pessoas diferentes ($\\pi$ ≠ Pj) que possuem 2 conexões de grau 2 diferentes.",
       "Existem 3 pessoas que possuem conexões de grau 2 com todas as outras pessoas da rede social.",
-      "Existe apenas 1 pessoa Pi (i ≠ 3) tal que Pi e P3 seguem-se mutuamente."
+      "Existe apenas 1 pessoa $\\pi$ (i ≠ 3) tal que $\\pi$ e P3 seguem-se mutuamente."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -427,9 +427,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "errada, pois pH negativo refere-se à concentração de H+ maior que 1 mol/L, resultando em um valor de pH menor que zero.",
-      "correta, pois pH negativo refere-se à concentração de OH- maior que 1 mol/L, resultando em um valor de pH menor que zero.",
-      "correta, assim como é possível existir pH maior que 14 em soluções com concentração de H⁺ maior que 14 mol/L.",
+      "errada, pois pH negativo refere-se à concentração de H+ maior que 1 $mol/L$, resultando em um valor de pH menor que zero.",
+      "correta, pois pH negativo refere-se à concentração de OH- maior que 1 $mol/L$, resultando em um valor de pH menor que zero.",
+      "correta, assim como é possível existir pH maior que 14 em soluções com concentração de H⁺ maior que 14 $mol/L$.",
       "errada, pois a escala de pH é fixa entre 0 e 14, independentemente da concentração de H+.",
       "correta, pois o pH tende a diminuir e tornar-se negativo em soluções com concentração de íons H+ extremamente baixa."
     ],
@@ -465,7 +465,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "\"Quero dizer, numa palavra, que, levando em conta todas as coisas que nascem, devemos verificar se em cada caso é bem assim que nasce cada um dos seres, isto é, se os contrários não nascem senão dos seus próprios contrários, em toda parte onde existe tal relação: entre o belo, por exemplo, e o feio, que é, penso, o seu contrário; entre o justo e o injusto; e assim milhares de outros casos. (...)\nExemplo: quando uma coisa se torna maior, não é necessário que ela anteriormente tenha sido menor, para em seguida se tornar maior?\"\nPlatão, Fédon, p.79.\n\nNo trecho transcrito do texto Fédon, Platão propõe uma compreensão filosófica própria sobre a relação existente entre os opostos. Com base nela, dentre as inferências possíveis, aquela que descreve a articulação principal entre dois termos que se opõem é:",
+      principal: "\"Quero dizer, numa palavra, que, levando em conta todas as coisas que nascem, devemos verificar se em cada caso é bem assim que nasce cada um dos seres, isto é, se os contrários não nascem $\\sin$ão dos seus próprios contrários, em toda parte onde existe tal relação: entre o belo, por exemplo, e o feio, que é, penso, o seu contrário; entre o justo e o injusto; e assim milhares de outros casos. (...)\nExemplo: quando uma coisa se torna maior, não é necessário que ela anteriormente tenha sido menor, para em seguida se tornar maior?\"\nPlatão, Fédon, p.79.\n\nNo trecho transcrito do texto Fédon, Platão propõe uma compreensão filosófica própria sobre a relação existente entre os opostos. Com base nela, dentre as inferências possíveis, aquela que descreve a articulação principal entre dois termos que se opõem é:",
       subItens: []
     },
     options: [
@@ -528,7 +528,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "Nas embalagens de lâmpadas de LED atuais, está indicada uma \"temperatura de cor\" (expressa na escala Kelvin), que corresponde à tonalidade da luz emitida pela lâmpada. A \"temperatura de cor” não indica a temperatura de operação da lâmpada, servindo apenas como uma referência da cor predominante da radiação eletromagnética termicamente emitida por um corpo a essa dada temperatura.\nA densidade p(λ) de energia eletromagnética irradiada é função do comprimento de onda λ da luz emitida. As curvas presentes nos gráficos das alternativas mostram p(λ) dividida pelo seu valor máximo p(λ_máx). O máximo de cada curva corresponde ao comprimento de onda λ_máx predominante da luz irradiada.\nCom base nessas informações, assinale a alternativa que apresenta o gráfico que melhor corresponde à situação em que a cor predominante da luz irradiada seja amarela.\n\nNote e adote:\nVelocidade da luz no vácuo: 3 x 10^8 m/s.\nCores associadas a frequências de luz visível:\nTabela:\nCor | Frequência aproximada (Hz)\nVermelha | 4,4 x 10^14\nAmarela | 5,0 x 10^14\nVerde | 6,0 x 10^14\nAzul | 6,3 x 10^14\nVioleta | 7,5 x 10^14\n\nGráficos de p(λ)/p(λ_max) versus λ(nm) para diferentes temperaturas (T).",
+      principal: "Nas embalagens de lâmpadas de LED atuais, está indicada uma \"temperatura de cor\" (expressa na escala Kelvin), que corresponde à tonalidade da luz emitida pela lâmpada. A \"temperatura de cor” não indica a temperatura de operação da lâmpada, servindo apenas como uma referência da cor predominante da radiação eletromagnética termicamente emitida por um corpo a essa dada temperatura.\nA densidade p(λ) de energia eletromagnética irradiada é função do comprimento de onda λ da luz emitida. As curvas presentes nos gráficos das alternativas mostram p(λ) dividida pelo seu valor máximo p(λ_máx). O máximo de cada curva corresponde ao comprimento de onda λ_máx predominante da luz irradiada.\nCom base nessas informações, assinale a alternativa que apresenta o gráfico que melhor corresponde à situação em que a cor predominante da luz irradiada seja amarela.\n\nNote e adote:\nVelocidade da luz no vácuo: 3 x $10^8$ $m/s$.\nCores associadas a frequências de luz visível:\nTabela:\nCor | Frequência aproximada (Hz)\nVermelha | 4,4 x $10^14$\nAmarela | 5,0 x $10^14$\nVerde | 6,0 x $10^14$\nAzul | 6,3 x $10^14$\nVioleta | 7,5 x $10^14$\n\nGráficos de p(λ)/p(λ_max) versus λ(nm) para diferentes temperaturas (T).",
       subItens: []
     },
     options: [
@@ -549,7 +549,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "Uma empresa júnior de alunos de engenharia projetou um termômetro mecânico para medir a temperatura do óleo utilizado em máquinas e equipamentos, com base na variação da densidade do óleo com a temperatura. Com essa finalidade, emprega-se um objeto de massa M igual a 18 g e volume de 20 cm³, que permanece imerso em um óleo e está preso, por um fio, ao fundo da superfície, conforme mostra a figura.\n\nImagem: Um objeto de massa M e volume V está submerso em um líquido, preso ao fundo por um fio.\n\nA temperatura é medida por meio da variação na tensão do fio, que muda devido à variação da densidade do óleo com a temperatura. O gráfico a seguir mostra a dependência da densidade do óleo com a temperatura.\n\nGráfico: Densidade (g/cm³) versus temperatura (°C). A densidade diminui linearmente de 1,00 g/cm³ (a 0°C) para 0,80 g/cm³ (a 300°C).\n\nNessa configuração, a temperatura na qual a tensão na corda se anula é igual a\n\nNote e adote:\nDespreze a massa do fio.",
+      principal: "Uma empresa júnior de alunos de engenharia projetou um termômetro mecânico para medir a temperatura do óleo utilizado em máquinas e equipamentos, com base na variação da densidade do óleo com a temperatura. Com essa finalidade, emprega-se um objeto de massa M igual a 18 g e volume de 20 cm³, que permanece imerso em um óleo e está preso, por um fio, ao fundo da superfície, conforme mostra a figura.\n\nImagem: Um objeto de massa M e volume V está submerso em um líquido, preso ao fundo por um fio.\n\nA temperatura é medida por meio da variação na tensão do fio, que muda devido à variação da densidade do óleo com a temperatura. O gráfico a seguir mostra a dependência da densidade do óleo com a temperatura.\n\nGráfico: Densidade ($g/cm$³) versus temperatura (°C). A densidade diminui linearmente de 1,00 $g/cm$³ (a 0°C) para 0,80 $g/cm$³ (a 300°C).\n\nNessa configuração, a temperatura na qual a tensão na corda se anula é igual a\n\nNote e adote:\nDespreze a massa do fio.",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "Fogareiros abastecidos com pequenos botijões de gás são equipamentos corriqueiros em trilhas e escaladas de duração prolongada para possibilitar o cozimento de alimentos. Em geral, esses botijões são abastecidos com propano, isobutano ou n-butano. A tabela mostra a temperatura de ebulição e o calor liberado na combustão desses três gases, à pressão atmosférica.\n\nTabela: Temperatura de ebulição (°C) e Calor liberado na combustão (kcal/m³ de substância na fase gasosa) para Propano, Isobutano e n-Butano.\nPropano: -42 °C, 5065 kcal/m³\nIsobutano: -12 °C, 8211 kcal/m³\nn-Butano: -1 °C, 8411 kcal/m³\n\nCom base nessas informações, qual seria o gás mais indicado para a utilização em um ambiente com temperatura típica de -6 °C, considerando a viabilidade e o consumo de gás necessário para o preparo de alimentos?",
+      principal: "Fogareiros abastecidos com pequenos botijões de gás são equipamentos corriqueiros em trilhas e escaladas de duração prolongada para possibilitar o cozimento de alimentos. Em geral, esses botijões são abastecidos com propano, isobutano ou n-butano. A tabela mostra a temperatura de ebulição e o calor liberado na combustão desses três gases, à pressão atmosférica.\n\nTabela: Temperatura de ebulição (°C) e Calor liberado na combustão ($kcal/m$³ de substância na fase gasosa) para Propano, Isobutano e n-Butano.\nPropano: -42 °C, 5065 $kcal/m$³\nIsobutano: -12 °C, 8211 $kcal/m$³\nn-Butano: -1 °C, 8411 $kcal/m$³\n\nCom base nessas informações, qual seria o gás mais indicado para a utilização em um ambiente com temperatura típica de -6 °C, considerando a viabilidade e o consumo de gás necessário para o preparo de alimentos?",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura.\n\nImagem 1: Aparato de geração de H2 durante o processo. Frasco com reagentes, tubulação submersa em uma proveta com água, coletando gás.\nImagem 2: Aparato após o processo de geração de H2. A proveta está cheia de gás, com o nível da água abaixo do inicial.\n\nAo frasco à esquerda adicionou-se uma quantidade pré-determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\nConsiderando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?\n\nNote e adote:\nVolume molar do gás ideal nas condições do experimento = 24,9 L.\nMassa molar do Zn = 65,4 g/mol.",
+      principal: "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura.\n\nImagem 1: Aparato de geração de H2 durante o processo. Frasco com reagentes, tubulação submersa em uma proveta com água, coletando gás.\nImagem 2: Aparato após o processo de geração de H2. A proveta está cheia de gás, com o nível da água abaixo do inicial.\n\nAo frasco à esquerda adicionou-se uma quantidade pré-determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\nConsiderando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?\n\nNote e adote:\nVolume molar do gás ideal nas condições do experimento = 24,9 L.\nMassa molar do Zn = 65,4 $g/mol$.",
       subItens: []
     },
     options: [
@@ -633,15 +633,15 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "O reservatório de um caminhão-pipa tem a forma de um cilindro circular reto com eixo horizontal e dimensões internas de 6 metros de comprimento e 2 metros de diâmetro. Uma escola contratou o serviço do caminhão-pipa para abastecer sua caixa d'água. Após o abastecimento, o motorista percebeu que o reservatório do caminhão estava cheio até 3/4 de sua altura, conforme ilustrado na figura.\n\nImagem: Vista transversal de um cilindro horizontal, parcialmente cheio. A altura total do cilindro é 2m (diâmetro), e o nível da água está a 3/4 da altura (1,5m).\n\nQual foi o volume, em metros cúbicos, de água utilizada para abastecer a caixa d'água da escola, sabendo que o reservatório do caminhão estava cheio antes do abastecimento?",
+      principal: "O reservatório de um caminhão-pipa tem a forma de um cilindro circular reto com eixo horizontal e dimensões internas de 6 metros de comprimento e 2 metros de diâmetro. Uma escola contratou o serviço do caminhão-pipa para abastecer sua caixa d'água. Após o abastecimento, o motorista percebeu que o reservatório do caminhão estava cheio até $3/4$ de sua altura, conforme ilustrado na figura.\n\nImagem: Vista transversal de um cilindro horizontal, parcialmente cheio. A altura total do cilindro é 2m (diâmetro), e o nível da água está a $3/4$ da altura (1,5m).\n\nQual foi o volume, em metros cúbicos, de água utilizada para abastecer a caixa d'água da escola, sabendo que o reservatório do caminhão estava cheio antes do abastecimento?",
       subItens: []
     },
     options: [
-      "(2π - √3/4)",
-      "(2π - √3/2)",
-      "(2π + √3/2)",
-      "(4π + √3/4)",
-      "(4π + √3/2)"
+      "(2π - √$3/4$)",
+      "(2π - √$3/2$)",
+      "(2π + √$3/2$)",
+      "(4π + √$3/4$)",
+      "(4π + √$3/2$)"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "No Código de Obras e Edificações da Prefeitura de São Paulo, encontra-se a regulamentação para vagas de estacionamento em um edifício para diferentes tipos de veículos. De acordo com o código, as dimensões de uma vaga de estacionamento são estabelecidas de acordo com o tipo de veículo, conforme a seguinte tabela:\n\nTabela: Dimensões das vagas de estacionamento em função do tipo de veículo (medidas em metros).\nTipos de veículos | Vagas para estacionamento | Largura | Comprimento\nAutomóvel | 2,20 | 4,50\nCarro para pessoa com deficiência | 3,70 | 5,00\nMoto | 1,00 | 2,00\nUtilitário | 2,50 | 5,50\nCaminhão leve | 3,10 | 8,00\n\nCódigo de Obras e Edificações da Prefeitura de São Paulo. Adaptado.\n\nNa figura a seguir, é apresentada parte de um projeto de garagem para um edifício. Foram projetadas vagas para automóveis e uma vaga para moto, no formato de paralelogramo, com ângulo α de medida 60°.\n\nImagem: Projeto de garagem com vagas em formato de paralelogramo. Mostra duas vagas de automóvel e uma vaga de moto. Um segmento tracejado é destacado como a medida a ser encontrada.\n\nObservação: A imagem não está em escala.\n\nApós a vaga da moto, restou um espaço na garagem. Os responsáveis pela obra estão avaliando a possibilidade de colocar algum objeto que possa ser utilizado pelos condôminos do edifício. Qual a medida do segmento destacado (tracejado) nesse espaço?\n\nNote e adote:\ncos (60°) = 0,5 ; sen (60°) = √3/2",
+      principal: "No Código de Obras e Edificações da Prefeitura de São Paulo, encontra-se a regulamentação para vagas de estacionamento em um edifício para diferentes tipos de veículos. De acordo com o código, as dimensões de uma vaga de estacionamento são estabelecidas de acordo com o tipo de veículo, conforme a seguinte tabela:\n\nTabela: Dimensões das vagas de estacionamento em função do tipo de veículo (medidas em metros).\nTipos de veículos | Vagas para estacionamento | Largura | Comprimento\nAutomóvel | 2,20 | 4,50\nCarro para pessoa com deficiência | 3,70 | 5,00\nMoto | 1,00 | 2,00\nUtilitário | 2,50 | 5,50\nCaminhão leve | 3,10 | 8,00\n\nCódigo de Obras e Edificações da Prefeitura de São Paulo. Adaptado.\n\nNa figura a seguir, é apresentada parte de um projeto de garagem para um edifício. Foram projetadas vagas para automóveis e uma vaga para moto, no formato de paralelogramo, com ângulo α de medida 60°.\n\nImagem: Projeto de garagem com vagas em formato de paralelogramo. Mostra duas vagas de automóvel e uma vaga de moto. Um segmento tracejado é destacado como a medida a ser encontrada.\n\nObservação: A imagem não está em escala.\n\nApós a vaga da moto, restou um espaço na garagem. Os responsáveis pela obra estão avaliando a possibilidade de colocar algum objeto que possa ser utilizado pelos condôminos do edifício. Qual a medida do segmento destacado (tracejado) nesse espaço?\n\nNote e adote:\n$\\cos$ (60°) = 0,5 ; $\\sin$ (60°) = √$3/2$",
       subItens: []
     },
     options: [
@@ -1053,15 +1053,15 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "Uma das modalidades de skate é o bowl, disputado em um espaço em formato aproximado de bacia. Supondo um bowl com profundidade de 2,45 m, qual a máxima velocidade que um skatista, partindo do repouso no ponto mais alto da bacia, poderia alcançar no ponto mais baixo?\n\nImagem: Desenho esquemático de um bowl com um skatista, indicando o ponto mais alto e o ponto mais baixo.\n\nNote e adote:\nAceleração da gravidade (g) = 10m/s²",
+      principal: "Uma das modalidades de skate é o bowl, disputado em um espaço em formato aproximado de bacia. Supondo um bowl com profundidade de 2,45 m, qual a máxima velocidade que um skatista, partindo do repouso no ponto mais alto da bacia, poderia alcançar no ponto mais baixo?\n\nImagem: Desenho esquemático de um bowl com um skatista, indicando o ponto mais alto e o ponto mais baixo.\n\nNote e adote:\nAceleração da gravidade (g) = $10m/s$²",
       subItens: []
     },
     options: [
-      "3 m/s",
-      "5 m/s",
-      "7 m/s",
-      "9 m/s",
-      "11 m/s"
+      "3 $m/s$",
+      "5 $m/s$",
+      "7 $m/s$",
+      "9 $m/s$",
+      "11 $m/s$"
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -1221,15 +1221,15 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "Considere a função f, dada por f(x) = b^x, com b > 0, b ≠ 1 e x ∈ R, e a sua inversa f⁻¹. A figura destaca dois pontos, um pertencente ao gráfico de f e outro ao gráfico de f⁻¹.\nDetermine b + k.\n\nGráfico: Funções exponencial e logarítmica. A função f(x) = b^x passa pelo ponto (2, k) e sua inversa f⁻¹(x) passa pelo ponto (3, 27).",
+      principal: "Considere a função f, dada por f(x) = $b^x$, com b > 0, b ≠ 1 e x ∈ R, e a sua inversa f⁻¹. A figura destaca dois pontos, um pertencente ao gráfico de f e outro ao gráfico de f⁻¹.\nDetermine b + k.\n\nGráfico: Funções exponencial e logarítmica. A função f(x) = $b^x$ passa pelo ponto (2, k) e sua inversa f⁻¹(x) passa pelo ponto (3, 27).",
       subItens: []
     },
     options: [
-      "5/6",
+      "$5/6$",
       "1",
-      "5/8",
-      "13/5",
-      "18/5"
+      "$5/8$",
+      "$13/5$",
+      "$18/5$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1263,15 +1263,15 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "O gráfico a seguir representa a curva de biomassa e biodiversidade em diferentes partes do globo.\n\nGráfico: Balanço de Radiação (kcal/cm²) versus Índice de Aridez. A curva mostra o pico de biomassa e biodiversidade em índice de aridez próximo de 0,5 e balanço de radiação alto, caindo para ambos os lados. Legenda: 0-1: umidade alta, 1-2: umidade moderada, 2-3: umidade baixa.\n\nGRIGORIEV, A.A. The theoretical fundaments of modern physical Geography. In: The interaction of sciences in the Earth, Moscou, 1968. Adaptado.\n\nSobre os ambientes do globo terrestre que podem ser exemplificados pelos dados demonstrados no gráfico, é correto afirmar que, onde o índice de aridez é igual a",
+      principal: "O gráfico a seguir representa a curva de biomassa e biodiversidade em diferentes partes do globo.\n\nGráfico: Balanço de Radiação ($kcal/cm$²) versus Índice de Aridez. A curva mostra o pico de biomassa e biodiversidade em índice de aridez próximo de 0,5 e balanço de radiação alto, caindo para ambos os lados. Legenda: 0-1: umidade alta, 1-2: umidade moderada, 2-3: umidade baixa.\n\nGRIGORIEV, A.A. The theoretical fundaments of modern physical Geography. In: The interaction of sciences in the Earth, Moscou, 1968. Adaptado.\n\nSobre os ambientes do globo terrestre que podem ser exemplificados pelos dados demonstrados no gráfico, é correto afirmar que, onde o índice de aridez é igual a",
       subItens: []
     },
     options: [
-      "1 e o balanço de radiação é igual a 70 kcal/cm², a curva de biomassa e biodiversidade atinge o ápice, caracterizando, por exemplo, o ambiente de uma floresta equatorial.",
-      "2 e o balanço de radiação é igual a 40 kcal/cm², é possível inferir os ambientes compostos por savanas ou cerrados, com crescimento da curva de biomassa e biodiversidade.",
+      "1 e o balanço de radiação é igual a 70 $kcal/cm$², a curva de biomassa e biodiversidade atinge o ápice, caracterizando, por exemplo, o ambiente de uma floresta equatorial.",
+      "2 e o balanço de radiação é igual a 40 $kcal/cm$², é possível inferir os ambientes compostos por savanas ou cerrados, com crescimento da curva de biomassa e biodiversidade.",
       "0 e o balanço de radiação é igual também a 0, encontram-se os ambientes desérticos muito quentes, a exemplo do deserto do Saara.",
       "3 e o balanço de radiação é igual a 0, a curva de biomassa e biodiversidade indica exemplo típico de ambiente tropical úmido.",
-      "1,5 e o balanço de radiação é igual a 55 kcal/cm², a curva de biomassa e biodiversidade diminui, caracterizando os ambientes com presença de neve eterna."
+      "1,5 e o balanço de radiação é igual a 55 $kcal/cm$², a curva de biomassa e biodiversidade diminui, caracterizando os ambientes com presença de neve eterna."
     ],
     correctAnswer: 0,
     materia: ["Geografia", "Biologia"],
@@ -1410,7 +1410,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "TEXTOS PARA AS QUESTÕES 82 E 83 (Nota: Errata na numeração, este é o texto para a Q68, não 82 e 83)\n\n[...] Um sino de vidro claro,\numa ampola cristalina e contrátil,\nflutua calma no seu caminho.\n\"Peixinho, peixinho, deixe-a ir!\nPeixinho, peixinho, se apresse em fugir!\"\nAli atrás, longos fios transparentes se arrastam\ne os olhos do peixinho a um banquete convidam.\n\"Serão, por acaso, minhocas o que eu vejo de repente?\"\n\"Peixinho, peixinho, deixe-me alertar!\nPeixinho, peixinho, não se deixe enganar!\"\nPróximo demais o peixinho chegou:\n\"Ai, ai, ai, agora ela me pegou!\nFirme me amarrou e não consigo me soltar!\nFirme me envolve e arde de matar!\"\n\nTradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.\n\nO fragmento de poema apresentado foi escrito pelo naturalista Fritz Müller para suas filhas. O trecho do poema permite afirmar que a predação é realizada por um/uma",
+      principal: "TEXTOS PARA AS QUESTÕES 82 E 83 (Nota: Errata na numeração, este é o texto para a Q68, não 82 e 83)\n\n[...] Um sino de vidro claro,\numa ampola cristalina e contrátil,\nflutua calma no seu caminho.\n\"Peixinho, peixinho, deixe-a ir!\nPeixinho, peixinho, se apresse em fugir!\"\nAli atrás, longos fios transparentes se arrastam\ne os olhos do peixinho a um banquete convidam.\n\"Serão, por acaso, minhocas o que eu vejo de repente?\"\n\"Peixinho, peixinho, deixe-me alertar!\nPeixinho, peixinho, não se deixe enganar!\"\nPróximo demais o peixinho chegou:\n\"Ai, ai, ai, agora ela me pegou!\nFirme me amarrou e não consigo me soltar!\nFirme me envolve e arde de matar!\"\n\nTradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.\n\nO fragmento de poema apresentado foi escrito pelo naturalista Fritz Müller para suas filhas. O trecho do poema permite afirmar que a predação é realizada por $um/uma$",
       subItens: []
     },
     options: [
@@ -1452,7 +1452,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "Observe o mapa da distribuição da pesca no globo em toneladas por quilômetro quadrado, por ano.\n\nMapa: \"Onde se pescam mais peixes, moluscos e crustáceos\". O mapa-múndi mostra as áreas de maior produtividade pesqueira, com uma escala de cores de 0,05 a 10 toneladas/km²/ano. Áreas costeiras e de ressurgência são as mais produtivas.\n\nDisponível em https://animalbusiness.com.br/negocios-e-mercado/.\n\nBaseado em seus conhecimentos sobre correntes marítimas quentes e frias em superfície, bem como nos dados representados no mapa, assinale a alternativa correta.",
+      principal: "Observe o mapa da distribuição da pesca no globo em toneladas por quilômetro quadrado, por ano.\n\nMapa: \"Onde se pescam mais peixes, moluscos e crustáceos\". O mapa-múndi mostra as áreas de maior produtividade pesqueira, com uma escala de cores de 0,05 a 10 $toneladas/km$²/ano. Áreas costeiras e de ressurgência são as mais produtivas.\n\nDisponível em https://animalbusiness.com.$br/negocios$-e-mercado/.\n\nBaseado em seus conhecimentos sobre correntes marítimas quentes e frias em superfície, bem como nos dados representados no mapa, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1599,7 +1599,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "\"Desde os anos 20 governado pela dinastia Pahlevi, o Irã vinha sendo modernizado e ocidentalizado pelas sucessivas gerações de xás, que viam na observância estrita da religião um atraso a ser superado. País de numerosa população xiita, no entanto, o regime modernizante sempre precisou contar com uma grande dose de repressão, para conter a oposição dos grupos religiosos, que se fazia cada vez mais popular. Na década de 1970, este movimento conheceu um líder, que, refugiado na França, preparava-se para voltar ao país: era o aiatolá Khomeini, que apelava aos muçulmanos para que restaurassem a autoridade do isla na sociedade.\"\nGRINBERG, Keila. O mundo árabe e as guerras árabe-israelenses. In: REIS FILHO, Daniel Aarão; FERREIRA, Jorge; ZENHA, Celeste (orgs.). O século XX: o tempo das dúvidas. Rio de Janeiro: Civilização Brasileira, 2002. p.116.\n\nO texto descreve o contexto histórico que antecedeu",
+      principal: "\"Desde os anos 20 governado pela dinastia Pahlevi, o Irã vinha sendo modernizado e ocidentalizado pelas sucessivas gerações de xás, que viam na observância estrita da religião um atraso a ser superado. País de numerosa população xiita, no entanto, o regime modernizante sempre precisou contar com uma grande dose de repressão, para conter a oposição dos grupos religiosos, que se fazia cada vez mais popular. Na década de 1970, este movimento conheceu um líder, que, refugiado na França, preparava-se para voltar ao país: era o aiatolá Khomeini, que apelava aos $\\mu$çulmanos para que restaurassem a autoridade do isla na sociedade.\"\nGRINBERG, Keila. O mundo árabe e as guerras árabe-israelenses. In: REIS FILHO, Daniel Aarão; FERREIRA, Jorge; ZENHA, Celeste (orgs.). O século XX: o tempo das dúvidas. Rio de Janeiro: Civilização Brasileira, 2002. p.116.\n\nO texto descreve o contexto histórico que antecedeu",
       subItens: []
     },
     options: [
@@ -1746,7 +1746,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "O Atlas da Violência, publicado em 2019 e organizado pelo Instituto de Pesquisa Econômica Aplicada e Fórum Brasileiro de Segurança Pública, apresenta um estudo para melhor compreender a violência no país. Os dados que ali constam referem-se ao período de 2007 a 2017. Um dos capítulos desse documento trata, especificamente, da violência contra a mulher. O gráfico a seguir mostra a evolução da taxa de homicídios de mulheres (equivalente ao número de homicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e nas três unidades federativas com as menores taxas em 2017.\n\nGráfico: Taxa de Homicídios de mulheres (por 100 mil) de 2007 a 2017 para Brasil, Distrito Federal, Santa Catarina e São Paulo. As três últimas têm as menores taxas em 2017.\n\nIpea/FBSP. Atlas da Violência, 2019.\n\nDe acordo com os dados apresentados, é correto afirmar:",
+      principal: "O Atlas da Violência, publicado em 2019 e organizado pelo Instituto de Pesquisa Econômica Aplicada e Fórum Brasileiro de Segurança Pública, apresenta um estudo para melhor compreender a violência no país. Os dados que ali constam referem-se ao período de 2007 a 2017. Um dos capítulos desse documento trata, especificamente, da violência contra a mulher. O gráfico a seguir mostra a evolução da taxa de homicídios de mulheres (equivalente ao número de homicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e nas três unidades federativas com as menores taxas em 2017.\n\nGráfico: Taxa de Homicídios de mulheres (por 100 mil) de 2007 a 2017 para Brasil, Distrito Federal, Santa Catarina e São Paulo. As três últimas têm as menores taxas em 2017.\n\n$Ipea/FBSP$. Atlas da Violência, 2019.\n\nDe acordo com os dados apresentados, é correto afirmar:",
       subItens: []
     },
     options: [
@@ -1830,7 +1830,7 @@ createQuestion({
     university: "fuvest",
     year: 2024,
     text: {
-      principal: "The main players in the Spanish-Aztec War (1519-21) are well known: Hernán Cortés and Montezuma. Lesser-known, though no less important, is a multilingual exiled Aztec woman who was enslaved, then served as a guide and interpreter, then became Cortés's mistress. She was known as Doña Marina, and as La Malinche.\nScholar and researcher Cordelia Candelaria writes: her paramount value to the Spaniards was not merely linguistic. She was an interpreter/liaison who served as a guide to the region, as an advisor on native customs and beliefs, and as a strategist.\nLa Malinche was the daughter of an Aztec cacique (chief). This gave her an unusual level of education, which she would later leverage as a guide and interpreter for the Spanish. Throughout Cortés's travels, she became indispensable as a translator, not only capable of functionally translating from one language to the other, but of speaking compellingly, strategizing, and forging political connections.\nIntegral as she was to Spain's success, La Malinche is a controversial figure. Candelaria quotes T. R. Fehrenbach as saying, \"If there is one villainess in Mexican history, she is La Malinche. She was to become the ethnic traitress supreme.\" But Candelaria argues that La Malinche's act of turning her back on her own people makes more psychological sense when we consider that, at a young age, she had been sold by her own mother into slavery. Candelaria asks, \"What else could this outcast from the Aztecs, 'her own people,' have done?\"\nDisponível em https://daily.jstor.org/. Adaptado.\n\nSegundo o texto, em relação à imagem de La Malinche como traidora do povo Asteca, a pesquisadora Cordelia Candelaria argumenta que a intérprete",
+      principal: "The main players in the Spanish-Aztec War (1519-21) are well known: Hernán Cortés and Montezuma. Lesser-known, though no less important, is a multilingual exiled Aztec woman who was enslaved, then served as a guide and interpreter, then became Cortés's mistress. She was known as Doña Marina, and as La Malinche.\nScholar and researcher Cordelia Candelaria writes: her paramount value to the Spaniards was not merely linguistic. She was an $interpreter/liaison$ who served as a guide to the region, as an advisor on native customs and beliefs, and as a strategist.\nLa Malinche was the daughter of an Aztec cacique (chief). This gave her an unusual level of education, which she would later leverage as a guide and interpreter for the Spanish. Throughout Cortés's travels, she became indispensable as a translator, not only capable of functionally translating from one language to the other, but of speaking compellingly, strategizing, and forging political connections.\nIntegral as she was to Spain's success, La Malinche is a controversial figure. Candelaria quotes T. R. Fehrenbach as saying, \"If there is one villainess in Mexican history, she is La Malinche. She was to become the ethnic traitress supreme.\" But Candelaria argues that La Malinche's act of turning her back on her own people makes more psychological sense when we consider that, at a young age, she had been sold by her own mother into slavery. Candelaria asks, \"What else could this outcast from the Aztecs, 'her own people,' have done?\"\nDisponível em https://daily.jstor.org/. Adaptado.\n\nSegundo o texto, em relação à imagem de La Malinche como traidora do povo Asteca, a pesquisadora Cordelia Candelaria argumenta que a intérprete",
       subItens: []
     },
     options: [

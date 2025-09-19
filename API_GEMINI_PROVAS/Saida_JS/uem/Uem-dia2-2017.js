@@ -13,7 +13,7 @@ createQuestion({
       "os espetáculos seguiam um roteiro básico, mas os atores tinham liberdade para improvisar a todo momento.",
       "esse gênero teatral, devido a seu caráter grotesco e satírico, não foi bem aceito nos países ao norte da Itália, de cultura mais conservadora e formal."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Commedia dell'Arte"],
     imageNames: []
@@ -34,7 +34,7 @@ createQuestion({
       "A cidade é o estágio final de um processo natural das associações humanas, que começa no casal, passa pela família, pela aldeia e chega, por fim, à polis ou cidade.",
       "A cidade deve ser sempre uma comunidade muito grande, com milhões de habitantes, porque ela deve ser maior que uma aldeia."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia", "Sociologia"],
     conteudo: ["Filosofia Política Antiga", "Conceitos de Estado e Sociedade"],
     imageNames: []
@@ -55,7 +55,7 @@ createQuestion({
       "Em sua célebre obra \"O Manifesto Comunista”, escrita em parceria com Friedrich Engels, Karl Marx defendia a tese de que a história da humanidade é a história da luta de classes.",
       "Karl Marx faleceu em 1895, logo após publicar o terceiro e último volume de sua obra magna, \"O Capital\", que era aguardado com elevada expectativa nos meios intelectuais e políticos por causa da forte repercussão dos dois primeiros."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia", "Filosofia"],
     conteudo: ["Karl Marx e Materialismo Histórico", "Filosofia Social e Política"],
     imageNames: []
@@ -76,7 +76,7 @@ createQuestion({
       "Os princípios do calvinismo pregavam o rigor da disciplina, a valorização moral do trabalho e da poupança, valores que iam ao encontro dos interesses da ascendente burguesia.",
       "Entre todas as manifestações da Reforma Religiosa daquele período, a que mais se afastou dos ritos e da doutrina da Igreja Romana foi a Reforma Anglicana, ocorrida na Inglaterra, que absorveu os valores e os ritos das religiões ancestrais dos celtas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Reforma Religiosa"],
     imageNames: []
@@ -97,7 +97,7 @@ createQuestion({
       "Os locais originalmente destinados a pouso e a descanso dos tropeiros passaram a aglutinar artesãos e pequenos comerciantes, transformando-se em vilas e em cidades como Ponta Grossa e outras, ao longo da estrada que as ligava a Sorocaba (SP).",
       "A função econômica colonial da região, como atividade complementar e periférica, a dinâmica da atividade tropeira, da produção e do comércio da erva mate possibilitaram a ocupação definitiva do território, ampliando as fronteiras e formando fortunas. O desenvolvimento dessas atividades favoreceu a emancipação política do Paraná."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["História", "Geografia"],
     conteudo: ["Economia Colonial no Brasil", "História e Economia do Paraná"],
     imageNames: []
@@ -118,7 +118,7 @@ createQuestion({
       "No Brasil, durante a década de 1820, o Vice-Reino foi marcado pelas disputas políticas entre conservadores e liberais. Os embates extrapolaram a esfera política e interferiram na política econômica, conhecida como \"café com leite,\" envolvendo São Paulo e Minas Gerais.",
       "A extrema pobreza, o desemprego crescente e a degradação das condições de vida levaram cerca de 55 milhões de pessoas a emigrar da Europa, entre a segunda metade do século XIX e o início do XX. O Brasil recebeu parte desse contingente, dentre os quais, italianos, alemães e poloneses, que inicialmente tiveram de enfrentar o trabalho nas fazendas de café."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["História", "Sociologia"],
     conteudo: ["Brasil Império", "Estrutura Social Brasileira do Século XIX"],
     imageNames: []
@@ -139,7 +139,7 @@ createQuestion({
       "A expansão da fronteira agrícola na Amazônia Legal ocorre no contexto da regionalização da agricultura na década de 1950, como tentativa de adaptação do Brasil à globalização da economia. A implantação de cultura de soja, nesse período, ocorre com os incentivos da Superintendência do Desenvolvimento da Amazônia (Sudam).",
       "No Paraná, as cooperativas Cocamar, sediada em Maringá, e Coamo, em Campo Mourão, montaram uma estrutura que atende à produção, à industrialização, à distribuição e à exportação. O complexo exportador da soja subordinou os agricultores às indústrias e ao capital financeiro e promoveu a concentração da propriedade fundiária."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Agronegócio Brasileiro", "Setores da Economia"],
     imageNames: []
@@ -160,7 +160,7 @@ createQuestion({
       "Os processos de globalização, de tecnificação e de reestruturação das relações de produção, ocorridos nas últimas décadas no Brasil, contribuíram para a universalização do emprego com carteira assinada.",
       "As relações de trabalho ainda são marcadas por desigualdades de gênero que se expressam, por exemplo, em diferenças salariais entre homens e mulheres."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Mundo do Trabalho", "Relações de Produção"],
     imageNames: []
@@ -181,7 +181,7 @@ createQuestion({
       "Artérias são vasos que chegam ao coração trazendo sangue de todas as partes do corpo, e veias são vasos que saem do coração, levando sangue para as diversas partes do corpo.",
       "Um gato e um pardal têm circulação dupla completa, e uma tartaruga e uma rã têm circulação dupla incompleta."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Fisiologia Animal", "Sistema Circulatório"],
     imageNames: []
@@ -202,7 +202,7 @@ createQuestion({
       "De acordo com a teoria da coesão-tensão, os processos de absorção e de condução da seiva bruta estão relacionados ao processo de transpiração.",
       "As auxinas são fitormônios que atuam no amadurecimento dos frutos e que promovem a abscisão foliar."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Botânica", "Fisiologia Vegetal"],
     imageNames: []
@@ -223,7 +223,7 @@ createQuestion({
       "A temperatura pode ser entendida como uma medida da agitação térmica das moléculas ou das partículas que constituem um corpo.",
       "O panículo adiposo é constituído de adipócitos e age como um isolante térmico, ajudando na manutenção da temperatura corporal dos mamíferos."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia", "Física"],
     conteudo: ["Fisiologia Animal", "Termodinâmica"],
     imageNames: []
@@ -242,9 +242,9 @@ createQuestion({
       "O termo hotspot indica toda área prioritária para conservação, isto é, de alta biodiversidade e ameaçada no mais alto nível. No Brasil, há dois hotspots: a Amazônia e o Pantanal.",
       "O Arco do Desmatamento corresponde à região que se estende desde o oeste do Maranhão até Rondônia. Essa região é marcada pelos intensos processos de queimadas e de desflorestamentos decorrentes da expansão da fronteira agropecuária e, especialmente, do cultivo da soja.",
       "As plantas Eudicotiledôneas representantes do Filo Magnoliophyta, como os cactos, são angiospermas muito comuns no Bioma da Caatinga, sendo, inclusive, aproveitadas como alimento e como remédio. A Caatinga predomina em áreas de clima semiárido, principalmente, no Nordeste.",
-      "As florestas tropicais que ocupam, atualmente, cerca de 7% das terras emersas, são áreas de vegetação natural que reúnem espécies animais e vegetais e que abrigam 3/4 da biodiversidade da Terra, sendo importante patrimônio genético da Humanidade. No Brasil, a Mata Atlântica é o principal exemplo dessa biodiversidade."
+      "As florestas tropicais que ocupam, atualmente, cerca de 7% das terras emersas, são áreas de vegetação natural que reúnem espécies animais e vegetais e que abrigam $3/4$ da biodiversidade da Terra, sendo importante patrimônio genético da Humanidade. No Brasil, a Mata Atlântica é o principal exemplo dessa biodiversidade."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Geografia", "Biologia"],
     conteudo: ["Biomas Brasileiros", "Ecologia e Biogeografia"],
     imageNames: []
@@ -265,7 +265,7 @@ createQuestion({
       "Os peixes cartilaginosos mantêm sua temperatura corporal praticamente constante quando submetidos a essa variação de temperatura.",
       "A função que representa a variação de temperatura desse ambiente é uma função periódica de período π."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática", "Biologia"],
     conteudo: ["Funções Trigonométricas", "Termorregulação Animal"],
     imageNames: []
@@ -286,7 +286,7 @@ createQuestion({
       "O CO caracteriza-se como óxido iônico básico.",
       "As trocas gasosas que ocorrem por processo de dissociação nas superfícies respiratórias não são influenciadas pelas pressões parciais dos gases (pCO, pCO2 e pO2)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química", "Biologia"],
     conteudo: ["Reações Químicas", "Fisiologia Respiratória", "Poluição Atmosférica"],
     imageNames: []
@@ -307,7 +307,7 @@ createQuestion({
       "Os peixes ósseos marinhos excretam a amônia (NH3) e eliminam o sal que ingerem junto com a água pelas brânquias.",
       "Os anfibios marinhos excretam ureia por meio de urina muito concentrada."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Fisiologia Animal", "Osmorregulação"],
     imageNames: []
@@ -324,11 +324,11 @@ createQuestion({
     options: [
       "A lei zero da Termodinâmica diz que, se um corpo A está em equilíbrio térmico com um corpo B e se este está em equilíbrio térmico com um corpo C, então A está em equilíbrio térmico com C.",
       "A unidade de temperatura no Sistema Internacional de Unidades (SI) é o Kelvin (K).",
-      "A relação de conversão entre uma temperatura medida em Kelvin e uma temperatura medida em Fahrenheit é dada por: T_F = T_K - 32.",
+      "A relação de conversão entre uma temperatura medida em Kelvin e uma temperatura medida em Fahrenheit é dada por: $T_F$ = $T_K$ - 32.",
       "41°F correspondem a 5°C.",
       "Se um corpo A estiver em equilíbrio térmico com um corpo B e se este estiver em equilíbrio térmico com um corpo C, então A, B e C estão na mesma temperatura."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Termodinâmica", "Temperatura e Calor"],
     imageNames: []
@@ -349,7 +349,7 @@ createQuestion({
       "Se a distância de P₁ até uma nova posição P₂ da imagem é 1,0m mais distante do espelho que P₁, então o espelho pode ter se afastado 0,5m da pessoa.",
       "Se a pessoa se aproxima 1,0m da posição do espelho e, em seguida, o espelho é afastado 0,5m da sua posição anterior, então a imagem permanecerá na posição P1."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Óptica Geométrica", "Espelhos Planos"],
     imageNames: []
@@ -360,17 +360,17 @@ createQuestion({
     university: "uem",
     year: 2017,
     text: {
-      principal: "A função da posição de uma partícula que descreve um Movimento Harmônico Simples (MHS), com unidades dadas no Sistema Internacional de Unidades (SI), é x(t) = 0,8 cos(0,2πt). Com base nessas informações, assinale o que for correto.",
+      principal: "A função da posição de uma partícula que descreve um Movimento Harmônico Simples (MHS), com unidades dadas no Sistema Internacional de Unidades (SI), é x(t) = 0,8 $\\cos$(0,2πt). Com base nessas informações, assinale o que for correto.",
       subItens: []
     },
     options: [
-      "A amplitude, a frequência angular e a fase inicial relativas ao movimento da partícula são, respectivamente, 0,8m, 0,2πrad/s e zero.",
+      "A amplitude, a frequência angular e a fase inicial relativas ao movimento da partícula são, respectivamente, 0,8m, 0,2π$rad/s$ e zero.",
       "A função da posição da partícula é uma função par, pois o gráfico da posição da partícula em função do tempo é simétrico em relação ao eixo das ordenadas.",
       "Em t = 10s, a partícula está na posição x = 0,8m, com velocidade nula.",
-      "A função horária da aceleração da partícula é dada por a(t) = −0,16π²sen(0,2πt).",
+      "A função horária da aceleração da partícula é dada por a(t) = −0,16π²$\\sin$(0,2πt).",
       "Se o gráfico da posição da partícula em relação ao tempo for defasado em πradianos com relação à origem do sistema de coordenadas, ele será similar ao gráfico da velocidade da partícula em relação ao tempo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Movimento Harmônico Simples (MHS)"],
     imageNames: []
@@ -381,7 +381,7 @@ createQuestion({
     university: "uem",
     year: 2017,
     text: {
-      principal: "Em países de inverno rigoroso, os lagos e os rios congelam-se na superfície, e a água de máxima densidade, isto é, a 4°C, encontra-se no fundo. Esse fato é de fundamental importância para a preservação da fauna e da flora locais. Considerando que a entalpia de fusão da água é de 7,3kJ/mol e usando conceitos físico-químicos, assinale o que for correto.",
+      principal: "Em países de inverno rigoroso, os lagos e os rios congelam-se na superfície, e a água de máxima densidade, isto é, a 4°C, encontra-se no fundo. Esse fato é de fundamental importância para a preservação da fauna e da flora locais. Considerando que a entalpia de fusão da água é de 7,$3kJ/mol$ e usando conceitos físico-químicos, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -391,7 +391,7 @@ createQuestion({
       "36,5kJ de calor seriam suficientes para fundir 5mols de água.",
       "Em lagos de água salgada a água não congela a 0°C."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Física", "Química"],
     conteudo: ["Calorimetria", "Propriedades da Água", "Dilatação Térmica"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "Na teoria cinética dos gases, as colisões entre as moléculas do gás ideal e as paredes do recipiente que contém esse gás são perfeitamente elásticas, fazendo que a energia cinética total dessas moléculas permaneça constante em uma determinada temperatura.",
       "A temperatura e a pressão de um gás ideal, que está contido em um recipiente de paredes adiabáticas a 300K, independe das velocidades médias de translação dessas moléculas no interior do recipiente."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Gases Ideais", "Termodinâmica"],
     imageNames: []
@@ -423,7 +423,7 @@ createQuestion({
     university: "uem",
     year: 2017,
     text: {
-      principal: "A partir das informações contidas nos itens I e II e na tabela a seguir, e considerando conceitos de Termoquímica, assinale o que for correto. \nI) A entalpia de neutralização de um ácido forte por uma base forte é de -58kJ/mol de água formada.\nII) Cl - Cl(g) + H - O - H(g) → H – Cl(g) + H − O – Cl(g)\nLigação             Energia de ligação (kJ/mol) a 25°C e latm\nCl - Cl             243\nH-O                464\nH-Cl               431\nCl-O               205",
+      principal: "A partir das informações contidas nos itens I e II e na tabela a seguir, e considerando conceitos de Termoquímica, assinale o que for correto. \nI) A entalpia de neutralização de um ácido forte por uma base forte é de -$58kJ/mol$ de água formada.\nII) Cl - Cl(g) + H - O - H(g) → H – Cl(g) + H − O – Cl(g)\nLigação             Energia de ligação ($kJ/mol$) a 25°C e latm\nCl - Cl             243\nH-O                464\nH-Cl               431\nCl-O               205",
       subItens: []
     },
     options: [
@@ -433,7 +433,7 @@ createQuestion({
       "A energia de ligação é a energia absorvida na quebra de ligações em qualquer que seja o estado físico dos reagentes.",
       "O processo que envolve a formação das ligações químicas é exotérmico."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Termoquímica", "Entalpia de Ligação"],
     imageNames: []
@@ -444,17 +444,17 @@ createQuestion({
     university: "uem",
     year: 2017,
     text: {
-      principal: "Foram misturados 400mL de uma solução aquosa (que era 3% em massa de NaOH) com 600mL de uma solução aquosa (que era 10% em massa de KOH). Considerando as densidades das soluções inicial e final iguais a 1g/mL, assinale o que for correto.",
+      principal: "Foram misturados 400mL de uma solução aquosa (que era 3% em massa de NaOH) com 600mL de uma solução aquosa (que era 10% em massa de KOH). Considerando as densidades das soluções inicial e final iguais a $1g/mL$, assinale o que for correto.",
       subItens: []
     },
     options: [
       "A solução inicial de NaOH era constituída por 376g de água e por 24g de NaOH.",
       "A massa total da solução final é 1 kg.",
       "O título da solução final é de 6% em KOH e de 1,2% em NaOH.",
-      "As concentrações inicial e final de NaOH equivalem a 0,75mol/L e a 0,3mol/L, respectivamente.",
+      "As concentrações inicial e final de NaOH equivalem a 0,$75mol/L$ e a 0,$3mol/L$, respectivamente.",
       "A solução final encontra-se mais concentrada que as soluções iniciais."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Soluções", "Concentração de Soluções"],
     imageNames: []
@@ -475,7 +475,7 @@ createQuestion({
       "a medida do ângulo EÂC é 15º.",
       "a medida do lado DC é √6."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Trigonometria no Triângulo Retângulo", "Geometria Plana"],
     imageNames: []
@@ -496,7 +496,7 @@ createQuestion({
       "Existem exatamente 60 sequências diferentes, de 3 letras distintas, que podem ser formadas com os elementos de A.",
       "Podemos formar 250 números naturais pares com 5 algarismos, com os elementos do conjunto B, em que o algarismo da dezena de milhar vale 5."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Análise Combinatória", "Princípio Fundamental da Contagem"],
     imageNames: []
@@ -517,7 +517,7 @@ createQuestion({
       "Se D é a matriz dos coeficientes de A, então det (2D) = 2 det D.",
       "A é um sistema linear possível e determinado."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Sistemas Lineares", "Matrizes e Determinantes"],
     imageNames: []
@@ -538,7 +538,7 @@ createQuestion({
       "Em relação à organização do texto, trata-se de uma crônica em que há o predomínio da estrutura dissertativo-argumentativa.",
       "Nas linhas 38 a 58, as ações de Israel podem ser resumidas da seguinte forma: aproximou-se de Lucas, seguiu-o até a escola, viu-se refletido no olhar da professora Eliane, ele se descobriu um outro Israel."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Gêneros Textuais", "Interpretação de Texto"],
     imageNames: []
@@ -559,7 +559,7 @@ createQuestion({
       "Em \"Escorraçado como um cão” (linha 35), a expressão \"como\" tem o valor semântico de \"conforme\".",
       "Em \"rosto de esconderijo.\" (linhas 39 e 40), a cronista emprega a linguagem denotativa para apresentar características físicas do personagem Israel."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Compreensão Textual", "Semântica"],
     imageNames: []
@@ -580,7 +580,7 @@ createQuestion({
       "De acordo com o texto, Israel seguiu Lucas até a escola, pois sabia que lá receberia a merenda escolar.",
       "O olhar da professora Eliane para Israel foi o responsável pelo \"milagre de gente” que transformou o personagem em pessoa novamente."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Elementos da Narrativa"],
     imageNames: []
@@ -601,7 +601,7 @@ createQuestion({
       "O sufixo \"“-zinho”, na palavra “Igualzinho” (linha 81), confere um valor semântico de intensidade.",
       "Em \"Filho de pai pedreiro e de mãe morta” (linhas 30 e 31), os vocábulos “pedreiro” e “morta” funcionam, sintaticamente, como adjuntos adnominais."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Semântica", "Morfologia"],
     imageNames: []
@@ -622,7 +622,7 @@ createQuestion({
       "O pronome “lhe” (linha 113) tem referência ambígua, pois pode indicar os termos antecedentes “pai” (linha 111) e \"Israel\" (linha 109).",
       "Em \"amoleceu as ruas de pedra.” (linha 108), a expressão \"ruas de pedra\" funciona como o sujeito da oração, não concordando sintaticamente com o verbo por estar em posição pós-verbal."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Coesão e Coerência"],
     imageNames: []
@@ -643,7 +643,7 @@ createQuestion({
       "No primeiro parágrafo, a ideia de que \"O mundo é salvo todos os dias por pequenos gestos.” (linhas 1 e 2) encontra-se textualizada sintaticamente no uso de períodos curtos.",
       "Em \"aplaudido de pé pela Vila Pedra.\" (linha 119), a aliteração do fonema /p/ reforça o valor semântico do vocábulo \"Pedra\"."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Figuras de Linguagem", "Coesão e Coerência"],
     imageNames: []
@@ -662,9 +662,9 @@ createQuestion({
       "A redenção de Israel foi a revolução da professora.” (linhas 116 e 117) é uma frase síntese para o enredo da crônica, destacando as transformações vividas por Israel e pela professora.",
       "Por se tratar de uma crônica, o uso da locução \"Vai ganhar\" (linha 111) para indicar o tempo verbal futuro, próprio de uma linguagem mais informal, é mais adequado do que a forma verbal “ganhará”.",
       "A expressão \"da vida\" (linha 115) funciona, sintaticamente, como complemento direto do verbo \"Parou\" (linha 115).",
-      "Na linha 109, a expressão \"depois que\" funciona como elemento coesivo que estabelece uma relação de causa/consequência entre os fatos narrados."
+      "Na linha 109, a expressão \"depois que\" funciona como elemento coesivo que estabelece uma relação de $causa/consequ$ência entre os fatos narrados."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Gramática", "Semântica"],
     imageNames: []
@@ -685,7 +685,7 @@ createQuestion({
       "No início da peça, em fala de Puff, é apresentada uma visão do fenômeno teatral que, alinhada com a visão orgânica do pensamento romântico, representa um programa do gênero dramático capaz de aglutinar elementos de várias tendências, autores e obras.",
       "Não obstante seu alinhamento ao pensamento romântico, a utilização de apenas três personagens em ambas as partes de Macário remete às peças do teatro clássico grego, que são referências constantes na obra de Álvares de Azevedo como um todo, e não apenas em sua vasta produção teatral."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira: Romantismo"],
     imageNames: []
@@ -706,7 +706,7 @@ createQuestion({
       "Um dos elementos de destaque da narrativa é a utilização ampla de registros de falas populares, desviando-se da norma padrão então vigente e fazendo que Machado de Assis tivesse de esperar até o Modernismo para ser reconhecido como grande escritor.",
       "Em Memórias póstumas de Brás Cubas, a crítica ao progresso e ao desenfreado processo de urbanização do século XIX é concretizada por meio de uma representação negativa da cidade, contrastando com o espaço do campo que é representado na parte final do romance e que significa, no âmago da visão crítica do texto, a única perspectiva de esperança possível."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira: Realismo", "Machado de Assis"],
     imageNames: []
@@ -727,7 +727,7 @@ createQuestion({
       "O poema apresenta aspectos marcantes da escola simbolista, tais como a expressiva musicalidade que pode ser verificada na repetição sonora presente, considerando-se apenas a primeira estrofe, em vocábulos como \"música\", \"Morte\", \"imensa”, “tremer”, “minha\", \"alma\" e \"maravilhosa\".",
       "O poema “Música da morte...” é ilustrativo da adesão de Cruz e Sousa ao projeto literário simbolista. Realidade subjetiva, linguagem carregada de símbolos, musicalidade e uso de reticências são algumas das marcas da sua produção artística."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira: Simbolismo", "Análise Poética"],
     imageNames: []
@@ -748,7 +748,7 @@ createQuestion({
       "As palavras “living” (linha 24) e “writing” (linha 24) são formas verbais no gerúndio.",
       "As palavras “finally” (linha 7) e “particularly” (linha 21) são advérbios."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto", "Gramática: Voz Passiva", "Morfologia: Advérbios"],
     imageNames: []
@@ -769,7 +769,7 @@ createQuestion({
       "'Tales of the Grotesque and Arabesque' was Poe's first detective story.",
       "Edgar Allan Poe created a new genre in literature."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -790,7 +790,7 @@ createQuestion({
       "Edgar Allan Poe conseguiu estabilidade financeira com suas publicações.",
       "Além de ser escritor, Edgar Allan Poe também trabalhou em jornal."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -811,7 +811,7 @@ createQuestion({
       "Daisy enjoyed what she ate during her vacation.",
       "Daisy began to read the book by Edgar Allan Poe in the morning."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Compreensão de Texto"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "No trecho \"something that I enjoy a lot.\" (linha 9), a palavra \"that\" é um pronome relativo.",
       "A locução verbal “had already been\" (linha 12) está no past perfect simple."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática: Tempos Verbais", "Gramática: Pronomes"],
     imageNames: []

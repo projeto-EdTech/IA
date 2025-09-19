@@ -3,7 +3,7 @@ createQuestion({
     university: "ufpr",
     year: 2022,
     text: {
-      principal: "The following text refers to questions 01 to 03.\nThe surprising history of India's vibrant sari tradition\nSouth Asian women have draped themselves in colorful silks and cottons for eons. The ways they're made and worn are dazzling and diverse.\nThe word \"sari\" means \"strip of cloth\" in Sanskrit. But for the Indian women – and a few men – who have been wrapping themselves in silk, cotton, or linen for millennia, these swaths of fabric are more than just simple garments. They're symbols of national pride, ambassadors for traditional (and cutting-edge) design and craftsmanship, and a prime example of the rich differences in India's 29 states.\n\"The sari both as symbol and reality has filled the imagination of the subcontinent, with its appeal and its ability to conceal and reveal the personality of the person wearing it,\" says Delhi-based textile historian Rta Kapur Chishti, author of Saris of India: Tradition and Beyond and co-founder of Taanbaan, a fabric company devoted to reviving and preserving traditional Indian spinning and weaving methods.\nThe first mention of saris (alternately spelled sarees) is in the Rig Veda, a Hindu book of hymns dating to 3,000 B.C.; draped garments show up on Indian sculptures from the first through sixth centuries, too. What Delhi-based textile historian Rta Kapur Chishti calls the \"magical unstitched garment\" is ideally suited to India's blazingly hot climate and the modest-dress customs of both Hindu and Muslim communities. Saris also remain traditional for women in other South Asian countries including Pakistan, Bangladesh, and Nepal.\n(Available in: https://www.nationalgeographic.com/travel/photography/the-story-of-the-sari-in-india/.)\n01- Sari, which in Sanskrit means \"strip of cloth\", represents more than a piece of clothing in India. In relation to the different meaning(s) attributed to the sari, consider the following affirmatives:\n1. It stands for both up-to-date and conventional patterns.\n2. People wear it in different ways.\n3. Both men and women can wear it.\n4. People cannot avoid an arrogant attitude when they put it on.\nMark the affirmative(s) that is/are present in the text.",
+      principal: "The following text refers to questions 01 to 03.\nThe surprising history of India's vibrant sari tradition\nSouth Asian women have draped themselves in colorful silks and cottons for eons. The ways they're made and worn are dazzling and diverse.\nThe word \"sari\" means \"strip of cloth\" in Sanskrit. But for the Indian women – and a few men – who have been wrapping themselves in silk, cotton, or linen for millennia, these swaths of fabric are more than just simple garments. They're symbols of national pride, ambassadors for traditional (and cutting-edge) design and craftsmanship, and a prime example of the rich differences in India's 29 states.\n\"The sari both as symbol and reality has filled the imagination of the subcontinent, with its appeal and its ability to conceal and reveal the personality of the person wearing it,\" says Delhi-based textile historian Rta Kapur Chishti, author of Saris of India: Tradition and Beyond and co-founder of Taanbaan, a fabric company devoted to reviving and preserving traditional Indian spinning and weaving methods.\nThe first mention of saris (alternately spelled sarees) is in the Rig Veda, a Hindu book of hymns dating to 3,000 B.C.; draped garments show up on Indian sculptures from the first through sixth centuries, too. What Delhi-based textile historian Rta Kapur Chishti calls the \"magical unstitched garment\" is ideally suited to India's blazingly hot climate and the modest-dress customs of both Hindu and Muslim communities. Saris also remain traditional for women in other South Asian countries including Pakistan, Bangladesh, and Nepal.\n(Available in: https://www.nationalgeographic.com/travel/photography/the-story-of-the-sari-in-india/.)\n01- Sari, which in Sanskrit means \"strip of cloth\", represents more than a piece of clothing in India. In relation to the different meaning(s) attributed to the sari, consider the following affirmatives:\n1. It stands for both up-to-date and conventional patterns.\n2. People wear it in different ways.\n3. Both men and women can wear it.\n4. People cannot avoid an arrogant attitude when they put it on.\nMark the affirmative(s) that $is/are$ present in the text.",
       subItens: []
     },
     options: [
@@ -115,7 +115,7 @@ createQuestion({
       "dentes diferenciados, placenta e córion.",
       "coração com quatro cavidades, diafragma e alantoide.",
       "pelos, alantoide e dentes diferenciados.",
-      "córi\ton, dentes diferenciados e coração com quatro cavidades.",
+      "córi	on, dentes diferenciados e coração com quatro cavidades.",
       "diafragma, placenta e pelos."
     ],
     correctAnswer: 4,
@@ -318,7 +318,7 @@ createQuestion({
     university: "ufpr",
     year: 2022,
     text: {
-      principal: "16- Considere a seguinte matriz:\nA = [[senθ, 7, -cosθ], [cosθ, 7, senθ], [senθ, 13, cosθ]]\nAssinale a alternativa que corresponde à soma dos valores de θ ∈ [0, π] que satisfazem detA = −13.",
+      principal: "16- Considere a seguinte matriz:\nA = [[$\\sin$θ, 7, -$\\cos$θ], [$\\cos$θ, 7, $\\sin$θ], [$\\sin$θ, 13, $\\cos$θ]]\nAssinale a alternativa que corresponde à soma dos valores de θ ∈ [0, π] que satisfazem detA = −13.",
       subItens: []
     },
     options: [
@@ -339,15 +339,15 @@ createQuestion({
     university: "ufpr",
     year: 2022,
     text: {
-      principal: "17- Leia o seguinte excerto:\nO choque da morte de Maomé foi uma das mais sérias crises que a comunidade muçulmana teve de enfrentar. Até então, Maomé guiara cada um de seus passos. Como então poderiam continuar sem ele? [...] Alguns muçulmanos mais comprometidos também ficaram imaginando se a morte de Maomé pusera mesmo fim à sua empreitada, e os que desejavam apontar um sucessor dividiram-se imediatamente em grupos rivais.\n(ARMSTRONG, Karen. Maomé: uma biografia do profeta. Tradução Andréia Guerini, Fabiano Seixas Fernandes, Walter Carlos Costa. São Paulo: Companhia das Letras, 2002, p. 288-289.)\nConsiderando o excerto acima, é correto afirmar que a crise acarretada pela morte de Maomé teve como resultado:",
+      principal: "17- Leia o seguinte excerto:\nO choque da morte de Maomé foi uma das mais sérias crises que a comunidade $\\mu$çulmana teve de enfrentar. Até então, Maomé guiara cada um de seus passos. Como então poderiam continuar sem ele? [...] Alguns $\\mu$çulmanos mais comprometidos também ficaram imaginando se a morte de Maomé pusera mesmo fim à sua empreitada, e os que desejavam apontar um sucessor dividiram-se imediatamente em grupos rivais.\n(ARMSTRONG, Karen. Maomé: uma biografia do profeta. Tradução Andréia Guerini, Fabiano Seixas Fernandes, Walter Carlos Costa. São Paulo: Companhia das Letras, 2002, p. 288-289.)\nConsiderando o excerto acima, é correto afirmar que a crise acarretada pela morte de Maomé teve como resultado:",
       subItens: []
     },
     options: [
-      "a separação da comunidade muçulmana entre duas capitais distintas: Meca e Bagdá.",
-      "a divisão da comunidade muçulmana entre sunitas e xiitas.",
-      "o estabelecimento de duas dinastias muçulmanas rivais: os Almorávidas e os Almôadas.",
+      "a separação da comunidade $\\mu$çulmana entre duas capitais distintas: Meca e Bagdá.",
+      "a divisão da comunidade $\\mu$çulmana entre sunitas e xiitas.",
+      "o estabelecimento de duas dinastias $\\mu$çulmanas rivais: os Almorávidas e os Almôadas.",
       "o surgimento de vertentes religiosas como o sufismo e o ismaelismo.",
-      "o aparecimento de comunidades muçulmanas independentes, como as taifas e os emirados."
+      "o aparecimento de comunidades $\\mu$çulmanas independentes, como as taifas e os emirados."
     ],
     correctAnswer: 1,
     materia: ["História"],
@@ -465,7 +465,7 @@ createQuestion({
     university: "ufpr",
     year: 2022,
     text: {
-      principal: "O texto a seguir é referência para as questões 23 a 28.\nEm todas as questões, as medições são feitas por um referencial inercial. O módulo da aceleração gravitacional é representado por g. Onde for necessário, use g = 10 m/s² para o módulo da aceleração gravitacional.\n23- A figura ao lado apresenta o comportamento gráfico da posição x em função do tempo t para os objetos A (linha cheia) e B (linha tracejada), que se movem ao longo de duas pistas retas, paralelas e de origens coincidentes. Considerando os dados apresentados no enunciado e no gráfico, considere as seguintes afirmativas:\n1. O objeto A tem uma velocidade constante, de módulo v = 2 m/s.\n2. Os objetos se encontram no instante t = 15 s.\n3. O objeto B está parado.\n4. O objeto A inicia o movimento em xo = 0 m.\nAssinale a alternativa correta.\n[Image: Graph showing position x (m) versus time t (s). Object A (solid line) starts at (0,0) and goes to (25,45). Object B (dashed line) starts at (0,30) and stays at x=30 until t=25.]",
+      principal: "O texto a seguir é referência para as questões 23 a 28.\nEm todas as questões, as medições são feitas por um referencial inercial. O módulo da aceleração gravitacional é representado por g. Onde for necessário, use g = 10 $m/s$² para o módulo da aceleração gravitacional.\n23- A figura ao lado apresenta o comportamento gráfico da posição x em função do tempo t para os objetos A (linha cheia) e B (linha tracejada), que se movem ao longo de duas pistas retas, paralelas e de origens coincidentes. Considerando os dados apresentados no enunciado e no gráfico, considere as seguintes afirmativas:\n1. O objeto A tem uma velocidade constante, de módulo v = 2 $m/s$.\n2. Os objetos se encontram no instante t = 15 s.\n3. O objeto B está parado.\n4. O objeto A inicia o movimento em xo = 0 m.\nAssinale a alternativa correta.\n[Image: Graph showing position x (m) versus time t (s). Object A (solid line) starts at (0,0) and goes to (25,45). Object B (dashed line) starts at (0,30) and stays at x=30 until t=25.]",
       subItens: []
     },
     options: [
@@ -507,7 +507,7 @@ createQuestion({
     university: "ufpr",
     year: 2022,
     text: {
-      principal: "25- O comportamento gráfico para o módulo do campo elétrico E numa dada região do espaço, em função da posição x dentro dessa região, é linear e está representado na figura ao lado. Considerando as informações apresentadas no enunciado e na figura, assinale a alternativa que apresenta corretamente o valor do módulo da força elétrica F produzida por esse campo sobre uma carga Q = 1,6 µC colocada na posição x = 4 cm.\n[Image: Graph E (MV/m) vs. x (cm). A line connects (0, 15) to (5, 0).]",
+      principal: "25- O comportamento gráfico para o módulo do campo elétrico E numa dada região do espaço, em função da posição x dentro dessa região, é linear e está representado na figura ao lado. Considerando as informações apresentadas no enunciado e na figura, assinale a alternativa que apresenta corretamente o valor do módulo da força elétrica F produzida por esse campo sobre uma carga Q = 1,6 µC colocada na posição x = 4 cm.\n[Image: Graph E ($MV/m$) vs. x (cm). A line connects (0, 15) to (5, 0).]",
       subItens: []
     },
     options: [
@@ -532,11 +532,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "µe = tg θ.",
-      "µe = cos θ.",
-      "µe = sen θ.",
+      "µe = $\\tan$ θ.",
+      "µe = $\\cos$ θ.",
+      "µe = $\\sin$ θ.",
       "µe = sec θ.",
-      "µe = cotg θ."
+      "µe = $\\cot$ θ."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -570,7 +570,7 @@ createQuestion({
     university: "ufpr",
     year: 2022,
     text: {
-      principal: "28- Um calorímetro ideal contém 200 g de água a uma temperatura To = 20 °C ao nível do mar. Uma certa quantidade de calor correspondendo a 48 kJ é transferida à água, que atinge uma temperatura T. Supondo que todo o calor transferido foi absorvido pela água, sabendo que o calor específico da água vale c = 1 cal/g °C e considerando a conversão 1 cal = 4 J, assinale a alternativa que apresenta corretamente o valor da temperatura final da água, que se mantém líquida em todo o processo.",
+      principal: "28- Um calorímetro ideal contém 200 g de água a uma temperatura To = 20 °C ao nível do mar. Uma certa quantidade de calor correspondendo a 48 kJ é transferida à água, que atinge uma temperatura T. Supondo que todo o calor transferido foi absorvido pela água, sabendo que o calor específico da água vale c = 1 $cal/g$ °C e considerando a conversão 1 cal = 4 J, assinale a alternativa que apresenta corretamente o valor da temperatura final da água, que se mantém líquida em todo o processo.",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "ufpr",
     year: 2022,
     text: {
-      principal: "O texto a seguir é referência para as questões 29 a 32. O Tempo Livre e o Novo Feitiço do Capital Nathan Caixeta\nA \"queda do zap” na última segunda-feira (04/10) atinou com desaviso a inquietante e cada vez mais esquecida forma de viver, forçando o distanciamento compulsório das redes sociais e das inúmeras formas de conexão virtual que consomem a atenção das pessoas. Estima-se que as ações do Facebook tenham caído em quase 5%, enquanto os operadores da empresa se esforçavam para corrigir a falha técnica. Contudo, a paralisação de parte do mundo virtual em questão de horas forneceu um interessante experimento social, levando as pessoas a perceberem a existência do próprio real desnudo da celeridade virtual que encobre, seja para arrancar os cabelos ao efetuarem pagamentos virtuais não compensados, ou para solucionarem a questão do que fazer com o próprio tempo-livre, uma vez que sua instância de captura imediata fixou-se em um limbo que retrocedeu as eras: do tempo das relações virtuais para a época já imperceptível das relações pessoais. Embora tenha sido apenas um \"susto\" passageiro, o fenômeno abre espaço para observar as conexões entre a valorização do capital cujos desdobramentos comerciais, produtivos e financeiros são parciais, ou integralmente conectados ao mundo virtual e a disposição, captura e transformação do tempo-livre dos indivíduos em valor de troca. Conforme insiste Eduardo Mariutti, professor da Unicamp, a esfera do virtual não se opõe à realidade, mas se expressa pelo transbordamento do \"possível\", isto é, pelo conjunto de possibilidades acessíveis à imaginação humana. O virtual transforma os fragmentos criados pela imaginação humana em um universo construído, potencialmente ilimitado, mas restrito ao conjunto de percepções humanas em dado momento do tempo.\n(Disponível em: https://outraspalavras.net/crise-civilizatoria/o-tempo-livre-e-o-novo-feitico-do-capital/. Acesso em: 18/10/2021. Adaptado.)\n29- Assinale a alternativa em que ambos os verbos destacados indicam atitude mental.",
+      principal: "O texto a seguir é referência para as questões 29 a 32. O Tempo Livre e o Novo Feitiço do Capital Nathan Caixeta\nA \"queda do zap” na última segunda-feira ($04/10$) atinou com desaviso a inquietante e cada vez mais esquecida forma de viver, forçando o distanciamento compulsório das redes sociais e das inúmeras formas de conexão virtual que consomem a atenção das pessoas. Estima-se que as ações do Facebook tenham caído em quase 5%, enquanto os operadores da empresa se esforçavam para corrigir a falha técnica. Contudo, a paralisação de parte do mundo virtual em questão de horas forneceu um interessante experimento social, levando as pessoas a perceberem a existência do próprio real desnudo da celeridade virtual que encobre, seja para arrancar os cabelos ao efetuarem pagamentos virtuais não compensados, ou para solucionarem a questão do que fazer com o próprio tempo-livre, uma vez que sua instância de captura imediata fixou-se em um limbo que retrocedeu as eras: do tempo das relações virtuais para a época já imperceptível das relações pessoais. Embora tenha sido apenas um \"susto\" passageiro, o fenômeno abre espaço para observar as conexões entre a valorização do capital cujos desdobramentos comerciais, produtivos e financeiros são parciais, ou integralmente conectados ao mundo virtual e a disposição, captura e transformação do tempo-livre dos indivíduos em valor de troca. Conforme insiste Eduardo Mariutti, professor da Unicamp, a esfera do virtual não se opõe à realidade, mas se expressa pelo transbordamento do \"possível\", isto é, pelo conjunto de possibilidades acessíveis à imaginação humana. O virtual transforma os fragmentos criados pela imaginação humana em um universo construído, potencialmente ilimitado, mas restrito ao conjunto de percepções humanas em dado momento do tempo.\n(Disponível em: https://outraspalavras.$net/crise$-$civilizatoria/o$-tempo-livre-e-o-novo-feitico-do-capital/. Acesso em: 18/10/2021. Adaptado.)\n29- Assinale a alternativa em que ambos os verbos destacados indicam atitude mental.",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "ufpr",
     year: 2022,
     text: {
-      principal: "30 - Considere as seguintes afirmativas, com relação ao texto de Caixeta:\n1. O sujeito de \"forçando o distanciamento compulsório das redes sociais\" (linha 2) é \"A \"queda do zap” na última segunda-feira (04/10) atinou com desaviso a inquietante e cada vez mais esquecida forma de viver\" (linha 1).\n2. O \"interessante experimento social\" (linhas 4-5) refere-se às pessoas que foram levadas a \"perceberem a existência do próprio real desnudo da celeridade virtual que encobre\" (linha 5).\n3. \"A queda do zap\" pode permitir a observação da relação entre a transformação do tempo-livre dos indivíduos em valor de troca e a valorização do capital com desdobramentos financeiros e comercias ligados ao mundo virtual.\nAssinale a alternativa correta.",
+      principal: "30 - Considere as seguintes afirmativas, com relação ao texto de Caixeta:\n1. O sujeito de \"forçando o distanciamento compulsório das redes sociais\" (linha 2) é \"A \"queda do zap” na última segunda-feira ($04/10$) atinou com desaviso a inquietante e cada vez mais esquecida forma de viver\" (linha 1).\n2. O \"interessante experimento social\" (linhas 4-5) refere-se às pessoas que foram levadas a \"perceberem a existência do próprio real desnudo da celeridade virtual que encobre\" (linha 5).\n3. \"A queda do zap\" pode permitir a observação da relação entre a transformação do tempo-livre dos indivíduos em valor de troca e a valorização do capital com desdobramentos financeiros e comercias ligados ao mundo virtual.\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [

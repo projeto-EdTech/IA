@@ -204,7 +204,7 @@ createQuestion({
     ],
     correctAnswer: 4,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Interpretação de Texto", "Gêneros Textuais (Charge/Tira)"],
+    conteudo: ["Interpretação de Texto", "Gêneros Textuais ($Charge/Tira$)"],
     imageNames: []
 }),
 
@@ -570,7 +570,7 @@ createQuestion({
     university: "uerr",
     year: 2022,
     text: {
-      principal: "Em um experimento, realizado em laboratório químico em condições ambientes, foram empregadas amostras de quatro substâncias diferentes, duas sólidas e duas líquidas.\n(Image of four beakers with different substances labeled 'sólido 1', 'sólido 2', 'líquido 1' and 'água' indicating their relative positions)\nNa tabela são apresentadas informações sobre as densida-des dessas substâncias.\n(Table: Substância | Densidade)\nÁgua | 1 g/cm³\nX | 13 g/cm³\nY | 2,7 g/cm³\nZ | 0,9 g/cm³\nAs substâncias X, Y e Z são, respectivamente,",
+      principal: "Em um experimento, realizado em laboratório químico em condições ambientes, foram empregadas amostras de quatro substâncias diferentes, duas sólidas e duas líquidas.\n(Image of four beakers with different substances labeled 'sólido 1', 'sólido 2', 'líquido 1' and 'água' indicating their relative positions)\nNa tabela são apresentadas informações sobre as densida-des dessas substâncias.\n(Table: Substância | Densidade)\nÁgua | 1 $g/cm$³\nX | 13 $g/cm$³\nY | 2,7 $g/cm$³\nZ | 0,9 $g/cm$³\nAs substâncias X, Y e Z são, respectivamente,",
       subItens: []
     },
     options: [
@@ -763,11 +763,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1,50 km/h.",
-      "2,25 km/h.",
-      "3,75 km/h.",
-      "25,5 km/h.",
-      "90,0 km/h."
+      "1,50 $km/h$.",
+      "2,25 $km/h$.",
+      "3,75 $km/h$.",
+      "25,5 $km/h$.",
+      "90,0 $km/h$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -785,7 +785,7 @@ createQuestion({
     },
     options: [
       "no princípio da inércia, segundo o qual todo corpo em movimento tem a tendência de manter-se em movimento.",
-      "no princípio da ação e reação, segundo o qual, durante uma colisão, as forças são de mesma intensidade e sen-tidos opostos.",
+      "no princípio da ação e reação, segundo o qual, durante uma colisão, as forças são de mesma intensidade e $\\sin$-tidos opostos.",
       "no princípio da dinâmica, segundo o qual a aceleração de um corpo é proporcional à força de uma colisão.",
       "na lei da gravitação universal, segundo o qual a acelera-ção da gravidade é praticamente constante na superfície do nosso planeta.",
       "no princípio da conservação de movimento linear, segun-do o qual, após uma colisão, a velocidade de um corpo é inversamente proporcional à sua massa."
@@ -801,7 +801,7 @@ createQuestion({
     university: "uerr",
     year: 2022,
     text: {
-      principal: "Em alguns postos de bombeiros é comum existir um poste liso vertical pelo qual os bombeiros descem para che-gar rapidamente a seus veículos, em caso de uma emer-gência. Suponha que um bombeiro de 80 kg desça por um desses postes com aceleração vertical constante de 4,0 m/s², conforme mostra a figura.\n(Image of a firefighter sliding down a pole with a = 4.0 m/s²)\n(www.ndmais.com.br. Adaptado.)\nSabendo que a aceleração da gravidade no local é de 10 m/s², a intensidade da força de atrito entre o bombeiro e o poste é igual a",
+      principal: "Em alguns postos de bombeiros é comum existir um poste liso vertical pelo qual os bombeiros descem para che-gar rapidamente a seus veículos, em caso de uma emer-gência. Suponha que um bombeiro de 80 kg desça por um desses postes com aceleração vertical constante de 4,0 $m/s$², conforme mostra a figura.\n(Image of a firefighter sliding down a pole with a = 4.0 $m/s$²)\n(www.ndmais.com.br. Adaptado.)\nSabendo que a aceleração da gravidade no local é de 10 $m/s$², a intensidade da força de atrito entre o bombeiro e o poste é igual a",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "uerr",
     year: 2022,
     text: {
-      principal: "Um copo de 15 cm de profundidade está totalmente preen-chido com óleo de cozinha, cuja densidade é de 0,8 g/cm³.\nConsiderando que a aceleração da gravidade no local é 10 m/s², a pressão exercida pelo óleo no fundo do copo é igual a",
+      principal: "Um copo de 15 cm de profundidade está totalmente preen-chido com óleo de cozinha, cuja densidade é de 0,8 $g/cm$³.\nConsiderando que a aceleração da gravidade no local é 10 $m/s$², a pressão exercida pelo óleo no fundo do copo é igual a",
       subItens: []
     },
     options: [
@@ -906,7 +906,7 @@ createQuestion({
     university: "uerr",
     year: 2022,
     text: {
-      principal: "Uma lâmpada que produz um raio de luz monocromático foi colocada no fundo de uma fonte de 1 m de profundidade de tal forma que seu raio de luz percorre a trajetória ilustrada na figura. A fonte contém água, cujo índice de refração é √3.\n(Image showing light ray path from water to air, with angles and dimensions)\nConsidere os valores da tabela:\n(Table: θ | sen θ | cos θ | tg θ)\n0° | 0 | 1 | 0\n30° | 1/2 | √3/2 | √3/3\n45° | √2/2 | √2/2 | 1\n60° | √3/2 | 1/2 | √3\n90° | 1 | 0 | +∞\nUtilizando os valores dados na tabela e assumindo que o ín-dice de refração do ar é igual a 1, um observador do lado de fora da fonte",
+      principal: "Uma lâmpada que produz um raio de luz monocromático foi colocada no fundo de uma fonte de 1 m de profundidade de tal forma que seu raio de luz percorre a trajetória ilustrada na figura. A fonte contém água, cujo índice de refração é √3.\n(Image showing light ray path from water to air, with angles and dimensions)\nConsidere os valores da tabela:\n(Table: θ | $\\sin$ θ | $\\cos$ θ | $\\tan$ θ)\n0° | 0 | 1 | 0\n30° | $1/2$ | √$3/2$ | √$3/3$\n45° | √$2/2$ | √$2/2$ | 1\n60° | √$3/2$ | $1/2$ | √3\n90° | 1 | 0 | +∞\nUtilizando os valores dados na tabela e assumindo que o ín-dice de refração do ar é igual a 1, um observador do lado de fora da fonte",
       subItens: []
     },
     options: [
@@ -990,7 +990,7 @@ createQuestion({
     university: "uerr",
     year: 2022,
     text: {
-      principal: "A genealogia ilustra uma família em que as pessoas desta-cadas apresentam daltonismo, uma doença hereditária. O homem 1-3 é falecido.\n(Image of a family tree, generations I and II, with squares/circles, some filled)\nDe acordo com os dados contidos na genealogia, é pos-sível deduzir que o homem I-3 apresentava o genótipo | ____ e que as mulheres II-2 e II-3 apresentam, entre si, o mesmo genótipo, que é _____. Caso a mulher II-3 esteja gestando um menino, a probabilidade de este ser daltônico é de ____.\nAssinale a alternativa que preenche as lacunas do texto.",
+      principal: "A genealogia ilustra uma família em que as pessoas desta-cadas apresentam daltonismo, uma doença hereditária. O homem 1-3 é falecido.\n(Image of a family tree, generations I and II, with $squares/circles$, some filled)\nDe acordo com os dados contidos na genealogia, é pos-sível deduzir que o homem I-3 apresentava o genótipo | ____ e que as mulheres II-2 e II-3 apresentam, entre si, o mesmo genótipo, que é _____. Caso a mulher II-3 esteja gestando um menino, a probabilidade de este ser daltônico é de ____.\nAssinale a alternativa que preenche as lacunas do texto.",
       subItens: []
     },
     options: [
@@ -1452,7 +1452,7 @@ createQuestion({
     university: "uerr",
     year: 2022,
     text: {
-      principal: "\"Posso dizer que hoje, dia 3 de maio de 2018, o ETA dei-xou de existir\". Palavras do diretor do Centro para o Diálogo Humanitário, em Genebra, na Suíça, que leu a carta confir-mando o fim do grupo, considerado uma organização terro-rista pela União Europeia. O texto afirma que as atividades políticas do ETA foram encerradas.\n(http://g1.globo.com, 03.05.2018. Adaptado.)\nCom ações que ganharam repercussão internacional, o ETA correspondeu a um grupo",
+      principal: "\"Posso dizer que hoje, dia 3 de maio de 2018, o $\\eta$ dei-xou de existir\". Palavras do diretor do Centro para o Diálogo Humanitário, em Genebra, na Suíça, que leu a carta confir-mando o fim do grupo, considerado uma organização terro-rista pela União Europeia. O texto afirma que as atividades políticas do $\\eta$ foram encerradas.\n(http://g1.globo.com, 03.05.2018. Adaptado.)\nCom ações que ganharam repercussão internacional, o $\\eta$ correspondeu a um grupo",
       subItens: []
     },
     options: [

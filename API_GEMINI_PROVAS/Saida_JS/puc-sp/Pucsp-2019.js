@@ -107,10 +107,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "9/20",
-      "15/26",
-      "25/42",
-      "33/50"
+      "$9/20$",
+      "$15/26$",
+      "$25/42$",
+      "$33/50$"
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -123,7 +123,7 @@ createQuestion({
     university: "puc-sp",
     year: 2019,
     text: {
-      principal: "Considere a função f com lei de formação f(x) = (3sen(x) - 4sen³(x)) / (cos(2x) - 2) e a função g(x) = sen(x)[cos(2x) + cos²(x) + 3sen²(x)]. A figura mostra o gráfico da função f (Imagem de um gráfico de uma função trigonométrica no plano cartesiano). Sendo x um número real no intervalo aberto (0, 2π), a solução da desigualdade g(x) > f(x) está representada pelo conjunto:",
+      principal: "Considere a função f com lei de formação f(x) = (3sen(x) - 4sen³(x)) / ($\\cos$(2x) - 2) e a função g(x) = $\\sin$(x)[$\\cos$(2x) + $\\cos$²(x) + 3sen²(x)]. A figura mostra o gráfico da função f (Imagem de um gráfico de uma função trigonométrica no plano cartesiano). Sendo x um número real no intervalo aberto (0, 2π), a solução da desigualdade g(x) > f(x) está representada pelo conjunto:",
       subItens: []
     },
     options: [
@@ -183,7 +183,7 @@ createQuestion({
     university: "puc-sp",
     year: 2019,
     text: {
-      principal: "Quando necessário, adote os valores da tabela: módulo da aceleração da gravidade: 10 m.s-2; calor específico da água: 1,0 cal.g-1.0 C-1; densidade da água: 1 g.cm-3; 1 atm = 1,0.105 Pa; k=9x109 N.m².C-2; 1cal = 4,0 J. Determine, em metros, a altura de uma árvore que é vista por um observador de postura perfeitamente ereta, cujos olhos estão distantes 1,70m do solo e que recebem os raios refletidos por um espelho plano, provenientes do topo dessa árvore. Os olhos do observador estão distantes 1,00m do espelho e a base dessa árvore dista 3,00m dos pés do observador. Sabe-se que o ângulo que o raio incidente forma com a superfície refletora do espelho plano vale 70°. Dados: tg 70° = 2,75, tg 20° = 0,36. (Imagem de um observador olhando para uma árvore através de um espelho plano, com ângulos e distâncias representados).",
+      principal: "Quando necessário, adote os valores da tabela: módulo da aceleração da gravidade: 10 m.s-2; calor específico da água: 1,0 cal.g-1.0 C-1; densidade da água: 1 g.cm-3; 1 atm = 1,0.105 Pa; k=9x109 N.m².C-2; 1cal = 4,0 J. Determine, em metros, a altura de uma árvore que é vista por um observador de postura perfeitamente ereta, cujos olhos estão distantes 1,70m do solo e que recebem os raios refletidos por um espelho plano, provenientes do topo dessa árvore. Os olhos do observador estão distantes 1,00m do espelho e a base dessa árvore dista 3,00m dos pés do observador. Sabe-se que o ângulo que o raio incidente forma com a superfície refletora do espelho plano vale 70°. Dados: $\\tan$ 70° = 2,75, $\\tan$ 20° = 0,36. (Imagem de um observador olhando para uma árvore através de um espelho plano, com ângulos e distâncias representados).",
       subItens: []
     },
     options: [
@@ -263,7 +263,7 @@ createQuestion({
     university: "puc-sp",
     year: 2019,
     text: {
-      principal: "O gráfico abaixo refere-se ao componente horizontal da trajetória de um projétil que foi lançado obliquamente, a partir do solo e de uma superfície plana, horizontal e muito extensa. (Gráfico de deslocamento horizontal Sx (m) em função do tempo t (s), mostrando um ponto (2, 10)). Desprezando qualquer forma de atrito, determine a componente vertical da velocidade de lançamento desse projétil, em km/h, sabendo-se que a altura de 10m foi alcançada pelo projétil, quando seu deslocamento horizontal era de 2m:",
+      principal: "O gráfico abaixo refere-se ao componente horizontal da trajetória de um projétil que foi lançado obliquamente, a partir do solo e de uma superfície plana, horizontal e muito extensa. (Gráfico de deslocamento horizontal Sx (m) em função do tempo t (s), mostrando um ponto (2, 10)). Desprezando qualquer forma de atrito, determine a componente vertical da velocidade de lançamento desse projétil, em $km/h$, sabendo-se que a altura de 10m foi alcançada pelo projétil, quando seu deslocamento horizontal era de 2m:",
       subItens: []
     },
     options: [
@@ -303,7 +303,7 @@ createQuestion({
     university: "puc-sp",
     year: 2019,
     text: {
-      principal: "Um litro de água líquida a 100°C, sob pressão normal, é vaporizado totalmente, passando a ocupar um volume de 2,0m³. Sabendo que, nessas condições, o calor latente correspondente a essa mudança de fase da água é aproximadamente igual a 2,3x10⁶ J/kg, determine, em megajoule (MJ), o incremento de energia interna, aproximado, nesse processo de expansão volumétrica isobárica:",
+      principal: "Um litro de água líquida a 100°C, sob pressão normal, é vaporizado totalmente, passando a ocupar um volume de 2,0m³. Sabendo que, nessas condições, o calor latente correspondente a essa mudança de fase da água é aproximadamente igual a 2,3x10⁶ $J/kg$, determine, em megajoule (MJ), o incremento de energia interna, aproximado, nesse processo de expansão volumétrica isobárica:",
       subItens: []
     },
     options: [
@@ -323,7 +323,7 @@ createQuestion({
     university: "puc-sp",
     year: 2019,
     text: {
-      principal: "Uma placa retangular de madeira Pinus elliottii, cuja densidade é igual a 0,5g/cm³, possui as seguintes dimensões de arestas: 20cm x 40cm x 8cm. Ela encontra-se boiando em equilíbrio no interior de uma cuba preenchida com benzeno, cuja densidade é de 0,9 g/cm³. Depois de um certo instante, no centro da superfície emersa da placa de madeira, é fixada uma pequenina esfera metálica, de massa desprezível e eletrizada com carga q1= -1,0µC. Então, o sistema “madeira+esfera” é posicionado abaixo de um outro sistema formado por uma pequenina esfera metálica, idêntica àquela fixada na madeira, um fio isolante e um suporte também isolante. Essa segunda esferinha metálica está eletrizada com carga q2= +20,0µC. A distância entre os centros das esferas, consideradas pontuais, é de 10cm, conforme indica a figura. Após alguns segundos, verifica-se o equilíbrio dos sistemas. (Imagem de uma placa de madeira flutuando, com carga q1 na parte superior, e uma carga q2 suspensa acima, separadas por 10cm). Nas condições de equilíbrio, determine a razão aproximada, em porcentagem (%), entre os volumes imersos da placa de madeira com e sem a presença das esferinhas metálicas:",
+      principal: "Uma placa retangular de madeira Pinus elliottii, cuja densidade é igual a 0,$5g/cm$³, possui as seguintes dimensões de arestas: 20cm x 40cm x 8cm. Ela encontra-se boiando em equilíbrio no interior de uma cuba preenchida com benzeno, cuja densidade é de 0,9 $g/cm$³. Depois de um certo instante, no centro da superfície emersa da placa de madeira, é fixada uma pequenina esfera metálica, de massa desprezível e eletrizada com carga q1= -1,0µC. Então, o sistema “madeira+esfera” é posicionado abaixo de um outro sistema formado por uma pequenina esfera metálica, idêntica àquela fixada na madeira, um fio isolante e um suporte também isolante. Essa segunda esferinha metálica está eletrizada com carga q2= +20,0µC. A distância entre os centros das esferas, consideradas pontuais, é de 10cm, conforme indica a figura. Após alguns segundos, verifica-se o equilíbrio dos sistemas. (Imagem de uma placa de madeira flutuando, com carga q1 na parte superior, e uma carga q2 suspensa acima, separadas por 10cm). Nas condições de equilíbrio, determine a razão aproximada, em porcentagem (%), entre os volumes imersos da placa de madeira com e sem a presença das esferinhas metálicas:",
       subItens: []
     },
     options: [
@@ -347,10 +347,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "d'= P·senθ·K·q² / (A-a)",
+      "d'= P·$\\sin$θ·K·q² / (A-a)",
       "d'= K·q² / P(A-a)",
       "d'= P·K·q² / (A-a)",
-      "d'= K·q²(A-a) / P·senθ"
+      "d'= K·q²(A-a) / P·$\\sin$θ"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -483,7 +483,7 @@ createQuestion({
     university: "puc-sp",
     year: 2019,
     text: {
-      principal: "Uma solução saturada de NH₄Cl em água, foi feita a 60°C e utilizou-se 1000mL de água. Considere a densidade da água a 60°C como 1,0 g/mL. Sabendo que o título dessa solução a 60°C é de aproximadamente 35,5%, qual o coeficiente de solubilidade, aproximado, de NH₄Cl em água na temperatura em questão?",
+      principal: "Uma solução saturada de NH₄Cl em água, foi feita a 60°C e utilizou-se 1000mL de água. Considere a densidade da água a 60°C como 1,0 $g/mL$. Sabendo que o título dessa solução a 60°C é de aproximadamente 35,5%, qual o coeficiente de solubilidade, aproximado, de NH₄Cl em água na temperatura em questão?",
       subItens: []
     },
     options: [
@@ -507,10 +507,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "3 x 10⁻² mol/L",
-      "6 x 10⁻³ mol/L",
-      "3 x 10⁻⁵ mol/L",
-      "0,33 mol/L"
+      "3 x 10⁻² $mol/L$",
+      "6 x 10⁻³ $mol/L$",
+      "3 x 10⁻⁵ $mol/L$",
+      "0,33 $mol/L$"
     ],
     correctAnswer: 0,
     materia: ["Química"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "puc-sp",
     year: 2019,
     text: {
-      principal: "“Como, ao tempo em que o Império se enfraquecia, a Religião Cristã se afirmava, os Cristãos exprobavam aquela decadência aos pagãos, e estes pediam contas dela à Religião Cristã. Diziam os Cristãos que Diocleciano perdera o Império associando-se a três colegas, porque cada Imperador queria fazer despesas tão grandes e manter exércitos tão fortes como se ele fosse único. Que, por isso, não sendo proporcional o número dos que davam ao número dos que recebiam, os encargos se tornaram tão grandes que os agricultores abandonaram as terras e elas viraram florestas” (Montesquieu, Charles de Secondat, Baron de, 1689-1755 - Considerações sobre as causas da grandeza dos romanos e da sua decadência/Montesquieu; introdução, tradução e notas de Pedro Vieira Mota. São Paulo: Saraiva, 1997 – Páginas 304 e 305). A partir do texto ao lado, pode-se entender que a crise do Império Romano decorreu, dentre outros fatores:",
+      principal: "“Como, ao tempo em que o Império se enfraquecia, a Religião Cristã se afirmava, os Cristãos exprobavam aquela decadência aos pagãos, e estes pediam contas dela à Religião Cristã. Diziam os Cristãos que Diocleciano perdera o Império associando-se a três colegas, porque cada Imperador queria fazer despesas tão grandes e manter exércitos tão fortes como se ele fosse único. Que, por isso, não sendo proporcional o número dos que davam ao número dos que recebiam, os encargos se tornaram tão grandes que os agricultores abandonaram as terras e elas viraram florestas” (Montesquieu, Charles de Secondat, Baron de, 1689-1755 - Considerações sobre as causas da grandeza dos romanos e da sua decadê$ncia/Montesquieu$; introdução, tradução e notas de Pedro Vieira Mota. São Paulo: Saraiva, 1997 – Páginas 304 e 305). A partir do texto ao lado, pode-se entender que a crise do Império Romano decorreu, dentre outros fatores:",
       subItens: []
     },
     options: [
@@ -783,7 +783,7 @@ createQuestion({
     university: "puc-sp",
     year: 2019,
     text: {
-      principal: "“A longa lacuna na história dos direitos humanos, de sua formulação inicial nas revoluções americana e francesa, até a Declaração Universal das Nações Unidas em 1948, faz qualquer um parar para pensar. Os direitos não desapareceram nem no pensamento nem na ação, mas as discussões e os decretos agora ocorriam quase exclusivamente dentro de estruturas nacionais específicas. [...] O nacionalista italiano do século XIX Giuseppe Mazzini captou o novo foco sobre a nação quando fez a pergunta retórica: ‘O que é um País [...] senão o lugar em que os nossos direitos individuais estão mais seguros?’. Foram necessárias duas guerras mundiais devastadoras para estilhaçar essa confiança na nação.” (Hunt, L. A invenção dos direitos humanos; uma história; São Paulo: Companhia das Letras, 2009. - p. 177 e 178). A partir da leitura atenta do fragmento, pode-se concluir que:",
+      principal: "“A longa lacuna na história dos direitos humanos, de sua formulação inicial nas revoluções americana e francesa, até a Declaração Universal das Nações Unidas em 1948, faz qualquer um parar para pensar. Os direitos não desapareceram nem no pensamento nem na ação, mas as discussões e os decretos agora ocorriam quase exclusivamente dentro de estruturas nacionais específicas. [...] O nacionalista italiano do século XIX Giuseppe Mazzini captou o novo foco sobre a nação quando fez a pergunta retórica: ‘O que é um País [...] $\\sin$ão o lugar em que os nossos direitos individuais estão mais seguros?’. Foram necessárias duas guerras mundiais devastadoras para estilhaçar essa confiança na nação.” (Hunt, L. A invenção dos direitos humanos; uma história; São Paulo: Companhia das Letras, 2009. - p. 177 e 178). A partir da leitura atenta do fragmento, pode-se concluir que:",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "A conferência de Berlim, de 1884/85 representou o fortalecimento do controle europeu em quase todo o continente africano, através, sobretudo, da implantação de fronteiras artificiais e da união de diferentes grupos étnicos em um mesmo território, inclusive de clãs e tribos mais combativas e agressivas.",
+      "A conferência de Berlim, de $1884/85$ representou o fortalecimento do controle europeu em quase todo o continente africano, através, sobretudo, da implantação de fronteiras artificiais e da união de diferentes grupos étnicos em um mesmo território, inclusive de clãs e tribos mais combativas e agressivas.",
       "A África em sua totalidade e a porção meridional da Ásia foram divididas, no século XVIII em territórios autônomos, mas estavam sujeitas aos comandos das metrópoles europeias e, no final do século XIX, parte desse comando passou para os Estados Unidos, principalmente os territórios que eram administrados pela Inglaterra.",
       "O fragmento acima se aplica aos conflitos \"insolúveis\" que acontecem na Ásia Central e África subsaariana e que se iniciaram principalmente após a 2ª Guerra Mundial. Os ex-colonizadores tentam ajudar na mitigação da violência, oferecendo armas aos governos eleitos democraticamente, mas a atual complexidade social dificulta o processo de paz.",
       "A Organização das Nações Unidas (ONU) aparece implicitamente no texto quando o autor declara – \"fora para dentro\", pois foi essa instituição o que, após o processo de descolonização, ajudou a traçar as novas fronteiras artificiais das antigas colônias da Ásia e África."
@@ -943,7 +943,7 @@ createQuestion({
     university: "puc-sp",
     year: 2019,
     text: {
-      principal: "O Brasil apresentou no último ano ligeira melhora em seu Índice de Desenvolvimento Humano (IDH), mas não o suficiente para avançar no ranking mundial do Programa das Nações Unidas para o Desenvolvimento (Pnud). Segundo levantamento divulgado nesta sexta-feira (14) pela ONU, o IDH do Brasil evoluiu 0,001 em relação ao ano passado, mantendo o País na 79ª posição do ranking mundial pelo terceiro ano seguido. (...) Na América Latina, o Brasil ocupa o 5º lugar, perdendo para Chile, Argentina, Uruguai, Venezuela. O IDH brasileiro está acima da média regional da América Latina e Caribe, que é de 0,758. (Fonte: Último Segundo - iG @ https://ultimosegundo.ig.com.br/mundo/2018-09-14/idh-brasil-onu-ranking.html). Utilizando o texto acima e seus conhecimentos, julgue as afirmativas abaixo. I - Segundo o Programa das Nações Unidas para o Desenvolvimento (PNUD), o IDH é a base para a elaboração do Relatório de Desenvolvimento Humano, que teve sua primeira publicação em 1990. II - O IDH passou a ser utilizado em substituição ao PIB per capita, indicador que utiliza a riqueza gerada no país (PIB) dividida pela população absoluta. O IDH, por conter critérios exclusivamente sociais, permite uma análise ideal da qualidade de vida da população. III - O IDH, atualmente se baseia em três critérios de análise: vida longa e saudável, acesso ao conhecimento e padrão de vida. Essas metodologias foram incorporadas em 2010, ano em que o Relatório de Desenvolvimento Humano completou 20 anos. IV - Dentre os critérios utilizados pelo IDH, podemos destacar a expectativa de vida como item mais frágil para a realidade brasileira. Com uma expectativa de 67 anos em média, verificada nos últimos 3 anos, esse indicador é o principal responsável pela estagnação do Brasil no ranking apresentado pelo Relatório de Desenvolvimento Humano. Assinale a alternativa que apresente somente afirmações verdadeiras.",
+      principal: "O Brasil apresentou no último ano ligeira melhora em seu Índice de Desenvolvimento Humano (IDH), mas não o suficiente para avançar no ranking mundial do Programa das Nações Unidas para o Desenvolvimento (Pnud). Segundo levantamento divulgado nesta sexta-feira (14) pela ONU, o IDH do Brasil evoluiu 0,001 em relação ao ano passado, mantendo o País na 79ª posição do ranking mundial pelo terceiro ano seguido. (...) Na América Latina, o Brasil ocupa o 5º lugar, perdendo para Chile, Argentina, Uruguai, Venezuela. O IDH brasileiro está acima da média regional da América Latina e Caribe, que é de 0,758. (Fonte: Último Segundo - iG @ https://ultimosegundo.ig.com.br/mundo/2018-09-$14/idh$-brasil-onu-ranking.html). Utilizando o texto acima e seus conhecimentos, julgue as afirmativas abaixo. I - Segundo o Programa das Nações Unidas para o Desenvolvimento (PNUD), o IDH é a base para a elaboração do Relatório de Desenvolvimento Humano, que teve sua primeira publicação em 1990. II - O IDH passou a ser utilizado em substituição ao PIB per capita, indicador que utiliza a riqueza gerada no país (PIB) dividida pela população absoluta. O IDH, por conter critérios exclusivamente sociais, permite uma análise ideal da qualidade de vida da população. III - O IDH, atualmente se baseia em três critérios de análise: vida longa e saudável, acesso ao conhecimento e padrão de vida. Essas metodologias foram incorporadas em 2010, ano em que o Relatório de Desenvolvimento Humano completou 20 anos. IV - Dentre os critérios utilizados pelo IDH, podemos destacar a expectativa de vida como item mais frágil para a realidade brasileira. Com uma expectativa de 67 anos em média, verificada nos últimos 3 anos, esse indicador é o principal responsável pela estagnação do Brasil no ranking apresentado pelo Relatório de Desenvolvimento Humano. Assinale a alternativa que apresente somente afirmações verdadeiras.",
       subItens: []
     },
     options: [
@@ -969,7 +969,7 @@ createQuestion({
     options: [
       "Existe uma sequencia lógica entre a notícia e as imagens. Enquanto o texto comenta a obrigatoriedade na mudança da rotina social, a imagem 1 espacializa a amplitude do fenômeno, e a imagem 2 apresenta, através de uma foto, a noção real de um furacão.",
       "A imagem 1, através da leitura do mapa e legendas, permite interpretar espacialmente o avanço do Furacão Florence, inclusive o nível de gradação e as mudanças de categoria. Ao atingir a costa dos Estados Unidos, o furacão atinge seu grau máximo de poder destrutivo, devido ao aumento da velocidade dos ventos.",
-      "A imagem 2 representa o fenômeno atmosférico denominado Tornado, comum, sobretudo, nas áreas continentais. Os tornados são caracterizados por serem de curta duração e, raramente, ultrapassarem uma hora de existência. Muito destrutivos, podem atingir ventos acima de 400Km/h, mas com um diâmetro bem menor que o dos furacões, fenômeno evidenciado na notícia e na imagem 1.",
+      "A imagem 2 representa o fenômeno atmosférico denominado Tornado, comum, sobretudo, nas áreas continentais. Os tornados são caracterizados por serem de curta duração e, raramente, ultrapassarem uma hora de existência. Muito destrutivos, podem atingir ventos acima de $400Km/h$, mas com um diâmetro bem menor que o dos furacões, fenômeno evidenciado na notícia e na imagem 1.",
       "Os Furacões se formam principalmente sobre águas quentes, em áreas de elevada pressão atmosférica. No Oceânico Pacífico oeste, o fenômeno é chamado de Tufão. O poder destrutivo dos Furacões e Tufões aumenta conforme avançam no continente, devido ao aumento da velocidade dos ventos ao encontrarem a superfície sólida (continente) como base de arrasto."
     ],
     correctAnswer: 2,
@@ -1363,7 +1363,7 @@ createQuestion({
     university: "puc-sp",
     year: 2019,
     text: {
-      principal: "A seguir, no Texto I, o crítico literário Alfredo Bosi associa a publicação, em 1881, de Memórias póstumas de Brás Cubas à inauguração de uma nova fase na carreira literária de seu autor, Machado de Assis. No Texto II, excerto do capítulo \"O verdadeiro Cotrim”, do mesmo romance, Brás Cubas descreve o caráter de seu cunhado Cotrim, ex-traficante de escravos. Leia os dois textos para responder às questões 69 e 70. Texto I: A revolução dessa obra, que parece cavar um fosso entre dois mundos, foi uma revolução ideológica e formal: aprofundando o desprezo às idealizações românticas e ferindo no cerne o mito do narrador onisciente, que tudo vê e tudo julga, deixou emergir a consciência nua do indivíduo, fraco e incoerente. O que restou foram as memórias de um homem igual a tantos outros, o cauto¹ e desfrutador Brás Cubas. (BOSI, Alfredo. História concisa da literatura brasileira. 40. ed. São Paulo: Cultrix, 2002, p.177). Texto II: Talvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. (...) Não era perfeito, decerto; tinha, por exemplo, o sestro² de mandar para os jornais a notícia de um ou outro benefício que praticava, sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios senão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non³. Em suma, poderia dever algumas atenções, mas não devia um real a ninguém. (ASSIS, Machado de. Memórias póstumas de Brás Cubas. São Paulo: Ateliê, 2001, p. 224-225). Vocabulário: ¹cauto: cauteloso, prevenido. ²sestro: vício. ³condição sine qua non: condição sem a qual não é possível o que se pretende. No Texto I, Alfredo Bosi destaca a particularidade do foco narrativo criado por Machado de Assis em Memórias póstumas de Brás Cubas. Dentre os traços característicos do narrador desse romance, a leitura do Texto II permite destacar a presença de:",
+      principal: "A seguir, no Texto I, o crítico literário Alfredo Bosi associa a publicação, em 1881, de Memórias póstumas de Brás Cubas à inauguração de uma nova fase na carreira literária de seu autor, Machado de Assis. No Texto II, excerto do capítulo \"O verdadeiro Cotrim”, do mesmo romance, Brás Cubas descreve o caráter de seu cunhado Cotrim, ex-traficante de escravos. Leia os dois textos para responder às questões 69 e 70. Texto I: A revolução dessa obra, que parece cavar um fosso entre dois mundos, foi uma revolução ideológica e formal: aprofundando o desprezo às idealizações românticas e ferindo no cerne o mito do narrador onisciente, que tudo vê e tudo julga, deixou emergir a consciência nua do indivíduo, fraco e incoerente. O que restou foram as memórias de um homem igual a tantos outros, o cauto¹ e desfrutador Brás Cubas. (BOSI, Alfredo. História concisa da literatura brasileira. 40. ed. São Paulo: Cultrix, 2002, p.177). Texto II: Talvez pareça excessivo o escrúpulo do Cotrim, a quem não souber que ele possuía um caráter ferozmente honrado. (...) Não era perfeito, decerto; tinha, por exemplo, o sestro² de mandar para os jornais a notícia de um ou outro benefício que praticava, sestro repreensível ou não louvável, concordo; mas ele desculpava-se dizendo que as boas ações eram contagiosas, quando públicas; razão a que se não pode negar algum peso. Creio mesmo (e nisto faço o seu maior elogio) que ele não praticava, de quando em quando, esses benefícios $\\sin$ão com o fim de espertar a filantropia dos outros; e se tal era o intuito, força é confessar que a publicidade tornava-se uma condição sine qua non³. Em suma, poderia dever algumas atenções, mas não devia um real a ninguém. (ASSIS, Machado de. Memórias póstumas de Brás Cubas. São Paulo: Ateliê, 2001, p. 224-225). Vocabulário: ¹cauto: cauteloso, prevenido. ²sestro: vício. ³condição sine qua non: condição sem a qual não é possível o que se pretende. No Texto I, Alfredo Bosi destaca a particularidade do foco narrativo criado por Machado de Assis em Memórias póstumas de Brás Cubas. Dentre os traços característicos do narrador desse romance, a leitura do Texto II permite destacar a presença de:",
       subItens: []
     },
     options: [

@@ -134,10 +134,10 @@ createQuestion({
     },
     options: [
       "(parágrafo 1) O relativista suspende julgamentos definitivos / O relativista retarda julgamentos decisórios.",
-      "(parágrafo 2) mas um relativista não apenas hesitará na resposta como duvidará do mérito da pergunta/porém um relativista, de modo concomitante, vacilará ao procurar a resposta e ao avaliar a importância da pergunta.",
+      "(parágrafo 2) mas um relativista não apenas hesitará na resposta como duvidará do mérito da $pergunta/por$ém um relativista, de modo concomitante, vacilará ao procurar a resposta e ao avaliar a importância da pergunta.",
       "(parágrafo 3) as posições de classe relativizam o valor de um fato / classes sociais privilegiadas conseguem manipular a interpretação de um fato.",
       "(parágrafo 6) Os currículos escolares devem se orientar por princípios centralizadores ou seguir inclinações regionais? / Os currículos escolares devem seguir à risca a programação oficial ou devem ter o direito de se ater a conteúdos estritamente atrelados à região em que são desenvolvidos?",
-      "(parágrafo 7) as noções mesmas de interesse público e interesse privado parecem pouco nítidas, ou mesmo desnecessárias/os próprios conceitos do que seja o interesse público e o interesse privado parecem um tanto obscuros, ou até prescindíveis."
+      "(parágrafo 7) as noções mesmas de interesse público e interesse privado parecem pouco nítidas, ou mesmo desnecessá$rias/os$ próprios conceitos do que seja o interesse público e o interesse privado parecem um tanto obscuros, ou até prescindíveis."
     ],
     correctAnswer: 4,
     materia: ["Língua Portuguesa"],
@@ -381,7 +381,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2019,
     text: {
-      principal: "Um motorista pretendia percorrer a distância entre duas cidades desenvolvendo a velocidade média de 90 km/h (1,5 km/min). Entretanto, um trecho de 3,0 km da estrada estava em obras, com o trânsito fluindo em um único sentido de cada vez e com velocidade reduzida. Por esse motivo, ele ficou parado durante 5,0 minutos e depois percorreu o trecho em obras com velocidade de 30 km/h (0,5 km/min). Considerando que antes de ficar parado e depois de percorrer o trecho em obras ele desenvolveu a velocidade média pretendida, o tempo de atraso na viagem foi",
+      principal: "Um motorista pretendia percorrer a distância entre duas cidades desenvolvendo a velocidade média de 90 $km/h$ (1,5 $km/min$). Entretanto, um trecho de 3,0 km da estrada estava em obras, com o trânsito fluindo em um único sentido de cada vez e com velocidade reduzida. Por esse motivo, ele ficou parado durante 5,0 minutos e depois percorreu o trecho em obras com velocidade de 30 $km/h$ (0,5 $km/min$). Considerando que antes de ficar parado e depois de percorrer o trecho em obras ele desenvolveu a velocidade média pretendida, o tempo de atraso na viagem foi",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2019,
     text: {
-      principal: "Vários minerais cristalinos são chamados popularmente de pedras preciosas. Um deles é a pedra esmeralda, cuja composição química é Al2Be3[Si6O18]. A porcentagem total em massa de berílio e alumínio nesse mineral é de, aproximadamente,\nDados:\nMassas molares (g/mol)\nBe = 9,0\nAl = 27,0\nSi = 28\nO = 16",
+      principal: "Vários minerais cristalinos são chamados popularmente de pedras preciosas. Um deles é a pedra esmeralda, cuja composição química é Al2Be3[Si6O18]. A porcentagem total em massa de berílio e alumínio nesse mineral é de, aproximadamente,\nDados:\nMassas molares ($g/mol$)\nBe = 9,0\nAl = 27,0\nSi = 28\nO = 16",
       subItens: []
     },
     options: [
@@ -591,7 +591,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2019,
     text: {
-      principal: "O veneno de formiga contém o ácido metanoico, HCOOH. Para neutralizar 1,0 mL de solução 0,1 mol/L desse ácido, é necessário utilizar um volume de solução de NaOH 0,02 mol/L igual a",
+      principal: "O veneno de formiga contém o ácido metanoico, HCOOH. Para neutralizar 1,0 mL de solução 0,1 $mol/L$ desse ácido, é necessário utilizar um volume de solução de NaOH 0,02 $mol/L$ igual a",
       subItens: []
     },
     options: [
@@ -864,7 +864,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2019,
     text: {
-      principal: "Sobre o papel do Estado na organização do território brasileiro, considere o texto e o mapa a seguir.\nA partir da década de 1970, o Estado brasileiro impulsionou a instalação de grandes projetos de irrigação na área. A expansão da agricultura irrigada nesses projetos protagonizou um processo de transformação da agricultura local com repercussões econômicas, sociais e ambientais importantes.\n[Image: A map of Brazil showing its states and regions. Several regions are marked with numbers from 1 to 5. Region 1 covers parts of MA, PI, CE, RN, PB. Region 2 covers TO. Region 3 covers MT. Region 4 covers MG, ES. Region 5 covers SC, RS.]\nA intervenção do Estado ocorreu na área do mapa destacada com o número",
+      principal: "Sobre o papel do Estado na organização do território brasileiro, considere o texto e o mapa a seguir.\nA partir da década de 1970, o Estado brasileiro impulsionou a instalação de grandes projetos de irrigação na área. A expansão da agricultura irrigada nesses projetos protagonizou um processo de transformação da agricultura local com repercussões econômicas, sociais e ambientais importantes.\n[Image: A map of Brazil showing its states and regions. Several regions are marked with numbers from 1 to 5. Region 1 covers parts of MA, $\\pi$, CE, RN, PB. Region 2 covers TO. Region 3 covers MT. Region 4 covers MG, ES. Region 5 covers SC, RS.]\nA intervenção do Estado ocorreu na área do mapa destacada com o número",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
     university: "puc-campinas",
     year: 2019,
     text: {
-      principal: "O branqueamento da celulose para fabricação de papel ocorre em várias etapas, consumindo as seguintes quantidades de reagentes, para cada tonelada de celulose seca:\n[Table: Reagentes | Quantidades (kg)\nCloro (Cl2) | 15-20\nSoda cáustica (NaOH) | 15-25\nDióxido de cloro (ClO2) | 5-8\nPeróxido de hidrogênio (H2O2) | 4-6\nOxigênio (O2) | 16-24]\nA razão entre as quantidades molares máximas de cloro e oxigênio usadas para o branqueamento indicado na tabela corresponde a, aproximadamente,\nDados:\nMassas molares (g/mol)\nCl = 35,5\nO = 16,0",
+      principal: "O branqueamento da celulose para fabricação de papel ocorre em várias etapas, consumindo as seguintes quantidades de reagentes, para cada tonelada de celulose seca:\n[Table: Reagentes | Quantidades (kg)\nCloro (Cl2) | 15-20\nSoda cáustica (NaOH) | 15-25\nDióxido de cloro (ClO2) | 5-8\nPeróxido de hidrogênio (H2O2) | 4-6\nOxigênio (O2) | 16-24]\nA razão entre as quantidades molares máximas de cloro e oxigênio usadas para o branqueamento indicado na tabela corresponde a, aproximadamente,\nDados:\nMassas molares ($g/mol$)\nCl = 35,5\nO = 16,0",
       subItens: []
     },
     options: [

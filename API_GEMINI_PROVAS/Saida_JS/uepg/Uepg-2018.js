@@ -12,7 +12,7 @@ createQuestion({
       "Jacira planejava participar do programa desde que abriu o restaurante, pois queria obter orientações sobre como melhorar a administração de seu negócio.",
       "O apresentador do programa, que também exerce a função de chefe de cozinha, fez restrições a dois itens do restaurante, entretanto aprova a qualidade da comida preparada pela baiana Jacira."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -32,7 +32,7 @@ createQuestion({
       "Jacira sabe que há sempre uma solução para as dificuldades, pois está acostumada a lutar pelos seus sonhos.",
       "A empresária não vai desistir, pois acredita num lucro bem melhor daqui há algum tempo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Verbos", "Semântica"],
     imageNames: []
@@ -52,7 +52,7 @@ createQuestion({
       "No 1º período do 1º parágrafo, a autora usou os termos \"estrelas\" e \"brilhou\" no sentido conotativo, provavelmente para enfatizar melhor a ideia do texto a ser transmitida para o leitor.",
       "Foram empregadas aspas no 1º e no último parágrafo, pois a correspondente Margareth quis destacar as próprias palavras da baiana Jacira."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Morfossintaxe", "Semântica"],
     imageNames: []
@@ -72,7 +72,7 @@ createQuestion({
       "\"...e tem ajudado a atrair novos clientes...\" (2º período do 2º parágrafo) - relação de adição.",
       "\"...mas ela pretende não desistir do negócio...\" (último período do 3º parágrafo) - relação de adversidade."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Conectivos", "Coesão e Coerência"],
     imageNames: []
@@ -92,7 +92,7 @@ createQuestion({
       "\"Nise? Nise? Onde estás? Aonde espera / Achar-te uma alma, que por ti suspira, / Se quanto a vista se dilata, e gira, / Tanto mais de encontrar-te desespera!\" Nestes versos iniciais de um de seus sonetos, Cláudio Manuel da Costa apresenta um dos temas típicos de sua poesia: o eu lírico que se queixa da não correspondência amorosa da mulher pela qual ele está apaixonado.",
       "No Sermão da Sexagésima, o Padre Antônio Vieira mostra-se preocupado por ver o pouco fruto que faz a Palavra de Deus. Argumenta que a culpa não pode ser da palavra divina porque ela é sempre eficaz. Também demonstra que não é por causa do ouvinte que, embora às vezes não seja muito receptivo, nele algum fruto sempre dá. Conclui então que a culpa só pode ser do próprio pregador, e é sobre isso que ele vai argumentar, fazendo a sua crítica e apresentando a sua teoria de como fazer um bom sermão."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Literatura Brasileira"],
     imageNames: []
@@ -112,7 +112,7 @@ createQuestion({
       "Na Comédia, gênero do teatro ocidental grego, narravam-se histórias de deuses e heróis com ênfase em seus feitos históricos.",
       "A construção do teatro grego geralmente se integrava ao complexo de edificações onde se situavam os templos e estádios esportivos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História do Teatro"],
     imageNames: []
@@ -132,7 +132,7 @@ createQuestion({
       "A principal característica da arquitetura gótica é o predomínio da dimensão vertical sobre a horizontal.",
       "O mosaico foi uma técnica muito utilizada na arte bizantina, os artistas criavam imagens para adornar paredes e cúpulas das igrejas no Oriente."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Artes Visuais e História da Arte"],
     imageNames: []
@@ -152,7 +152,7 @@ createQuestion({
       "A arte das etnias indígenas brasileiras é simplificada e homogênea, e sua principal manifestação se traduz na produção dos trançados e tecelagens.",
       "A arte indígena é mais representativa do indivíduo que a faz, do que das tradições das comunidades na qual está inserida."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Arte Indígena Brasileira"],
     imageNames: []
@@ -172,7 +172,7 @@ createQuestion({
       "O Ritmo corresponde a uma série de notas musicais tocadas simultaneamente que resultam na formação de um acorde.",
       "Melodia, harmonia e ritmo são partes constituintes da Música."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História da Música", "Elementos da Música"],
     imageNames: []
@@ -192,7 +192,7 @@ createQuestion({
       "Na pintura, as cores primárias são aquelas que não podem ser compostas a partir de outras cores. A cor obtida a partir da mistura de duas cores primárias é chamada de cor secundária.",
       "A altura é a qualidade do som que permite diferenciar os sons agudos dos sons graves."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Elementos da Arte", "Cor", "Som"],
     imageNames: []
@@ -212,7 +212,7 @@ createQuestion({
       "As estruturas (A) e (D) são pouco abundantes em células animais secretoras, visto que suas funções se resumem basicamente ao controle da divisão celular e respiração intracelular, respectivamente.",
       "A principal função do retículo endoplasmático granuloso (D) é a síntese de proteínas e ele é muito desenvolvido em células que têm função secretora."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia", "Organelas Celulares"],
     imageNames: []
@@ -232,7 +232,7 @@ createQuestion({
       "A fotossíntese, considerada o principal processo autotrófico, é realizada pelos seres clorofilados. Por exemplo, as bactérias fotossintetizantes (fotoautotróficas) fazem uso de gás carbônico (CO2) e água (H2O) para formação de carboidratos e gás oxigênio (O2).",
       "A fermentação é um processo aeróbio, com grande ganho energético, exclusivo de algumas bactérias e fungos. A glicose é degradada na presença de oxigênio, gerando substâncias como o álcool etílico (fermentação alcoólica), por exemplo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Metabolismo Energético", "Fotossíntese", "Respiração Celular", "Fermentação"],
     imageNames: []
@@ -252,7 +252,7 @@ createQuestion({
       "Visto a ausência de glândulas, terminações nervosas, vasos sanguíneos e receptores, o tecido epitelial possui como característica exclusiva a proteção, funcionando como uma barreira protetora contra agentes externos.",
       "Nos tecidos epiteliais, não há vasos sanguíneos. Os epitélios estão sempre associados a tecidos conjuntivos, nos quais há vasos sanguíneos que nutrem e oxigenam as células epiteliais próximas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Tecidos", "Tecido Epitelial"],
     imageNames: []
@@ -272,7 +272,7 @@ createQuestion({
       "O cório é uma membrana que envolve o embrião e todos os outros anexos embrionários. Em répteis e aves, o cório está localizado logo abaixo da casca do ovo e atua, junto ao alantoide, nas trocas gasosas.",
       "O alantoide tem função de proteção do embrião, visto que permanece em íntima associação com o mesmo. Este anexo é bem desenvolvido nos ovos de aves, prevenindo a ruptura das cascas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Embriologia", "Anexos Embrionários"],
     imageNames: []
@@ -292,7 +292,7 @@ createQuestion({
       "O preservativo, ou camisinha, é considerado um método contraceptivo ineficiente. Considerado apenas como uma barreira física, retendo o esperma ejaculado pelo homem, não é considerado efetivo na prevenção de gravidez e doenças sexualmente transmissíveis.",
       "No homem, o processo utilizado na esterilização é a vasectomia, a qual consiste no seccionamento dos ductos deferentes de modo que os espermatozoides não possam chegar à uretra."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Reprodução Humana", "Contracepção"],
     imageNames: []
@@ -312,7 +312,7 @@ createQuestion({
       "No Sistema Internacional, o trabalho é medido em joule (J).",
       "Toda força, não nula, que age sobre um corpo durante um deslocamento, realiza trabalho, desde que ela não seja perpendicular ao deslocamento."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Trabalho", "Energia Mecânica"],
     imageNames: []
@@ -327,12 +327,12 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Um jogador de futebol que desenvolve uma velocidade média de 8 m/s em 90 minutos de jogo, percorrerá uma distância de 720 m.",
+      "Um jogador de futebol que desenvolve uma velocidade média de 8 $m/s$ em 90 minutos de jogo, percorrerá uma distância de 720 m.",
       "Quando um corpo qualquer se movimenta com velocidade escalar constante, sua aceleração escalar é nula.",
-      "Se a velocidade de um carro varia de 0 a 20 m/s em um intervalo de tempo de 5 s, pode-se concluir que sua aceleração escalar média é de 4 m/s².",
+      "Se a velocidade de um carro varia de 0 a 20 $m/s$ em um intervalo de tempo de 5 s, pode-se concluir que sua aceleração escalar média é de 4 $m/s$².",
       "O movimento é sempre relativo. Ele existe ou não, em relação a um determinado referencial."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática", "Movimento Retilíneo Uniforme", "Aceleração"],
     imageNames: []
@@ -347,12 +347,12 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Energia Cinética – uma moto à velocidade de 25 m/s tem menos energia cinética que movendo-se a uma velocidade de 50 km/h.",
+      "Energia Cinética – uma moto à velocidade de 25 $m/s$ tem menos energia cinética que movendo-se a uma velocidade de 50 $km/h$.",
       "Energia Mecânica – a energia não é criada e nem destruída, mas sim transformada. No caso de uma montanha-russa, durante a subida que se processa lentamente, os carrinhos armazenam energia cinética até atingir o ponto mais alto da montanha. Quando descem percorrendo todo o trajeto até o ponto de partida, a energia cinética vai sendo dissipada, transformando-se em energia potencial.",
       "Energia Potencial Gravitacional – um praticante de salto ornamental possui no ponto de partida do trampolim uma certa quantidade de energia potencial gravitacional, significando que, desprezando forças dissipativas, ao chegar à água, a força peso exercida sobre ele terá realizado um determinado trabalho motor que, de acordo com o teorema da energia cinética, provoca um aumento no valor desta grandeza.",
       "Energia Potencial Elástica – um arqueiro, ao distender seu arco, despende uma certa quantidade de energia. Parte desta energia é armazenada na corda do arco e, quando liberada, é convertida em energia cinética da flecha."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Energia", "Energia Cinética", "Energia Potencial"],
     imageNames: []
@@ -363,16 +363,16 @@ createQuestion({
     university: "uepg",
     year: 2018,
     text: {
-      principal: "O planeta Terra tem massa aproximadamente igual a 6 x 10^24 kg e dista a 41 400 000 de quilômetros do planeta Vênus de massa aproximadamente igual a 5 x 10^24 kg. De acordo com as informações e, adotando G= 6,67 x 10^-11 N.m²/ kg², assinale o que for correto.",
+      principal: "O planeta Terra tem massa aproximadamente igual a 6 x $10^24$ kg e dista a 41 400 000 de quilômetros do planeta Vênus de massa aproximadamente igual a 5 x $10^24$ kg. De acordo com as informações e, adotando G= 6,67 x 10^-11 N.m²/ kg², assinale o que for correto.",
       subItens: []
     },
     options: [
       "A força gravitacional, que atua a distância, numa direção que une os centros dos corpos, é uma força de campo. Na verdade, o que temos é um par de forças de ação e reação, cada uma agindo em um planeta, e que têm a mesma intensidade.",
-      "A intensidade da força de atração gravitacional entre a Terra e Vênus é de aproximadamente 0,0000048 x 10^37 N.",
+      "A intensidade da força de atração gravitacional entre a Terra e Vênus é de aproximadamente 0,0000048 x $10^37$ N.",
       "De acordo com a Lei da Gravitação Universal, o valor da constante de gravitação (G = 6,67 x 10^-11 N.m² / kg²) é válido somente para corpos no vácuo.",
       "A intensidade da força de atração gravitacional entre a Terra e Vênus é diretamente proporcional ao produto de suas massas e inversamente proporcional ao quadrado da distância que separa os centros dos planetas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Gravitação Universal", "Força Gravitacional"],
     imageNames: []
@@ -392,7 +392,7 @@ createQuestion({
       "Uma vez iniciado o movimento, o valor da força necessária para manter o bloco em movimento uniforme deve ser de 6 kgf.",
       "A força de atrito sempre se opõe à tendência de movimento do bloco sobre a superfície e é decorrente, entre outros fatores, da existência de pequenas irregularidades das superfícies de contato."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Dinâmica", "Atrito"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "O nitrogênio (N, Z=7) e o cloro (Cl, Z=17) são gasosos à temperatura de 25 °C.",
       "O flúor (F, Z=9) e o Iodo (I, Z=53) pertencem ao grupo 17 e são respectivamente gasoso e sólido à temperatura de 25 °C."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Tabela Periódica", "Propriedades Periódicas"],
     imageNames: []
@@ -432,7 +432,7 @@ createQuestion({
       "Forças intermoleculares do tipo Dipolo-Dipolo são mais fortes que ligações de hidrogênio.",
       "Moléculas de ácido sulfídrico (H2S) interagem pela presença da ligação de hidrogênio."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Ligações Químicas", "Forças Intermoleculares"],
     imageNames: []
@@ -452,7 +452,7 @@ createQuestion({
       "Tanto o cloreto de potássio como o cloreto de hidrogênio formam íons em solução aquosa.",
       "Ambos os compostos apresentam ligação iônica entre seus átomos."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Funções Inorgânicas", "Sais", "Ácidos"],
     imageNames: []
@@ -472,7 +472,7 @@ createQuestion({
       "O bicarbonato de sódio, componente do fermento químico, reage com a água liberando CO2 entre os produtos formados.",
       "O composto H2SO4, derramado por acidente no solo, pode ser neutralizado pela adição de calcário (CaCO3), havendo uma reação na qual forma-se sulfato de cálcio ente os produtos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Reações Químicas", "Chuva Ácida", "Estequiometria"],
     imageNames: []
@@ -492,7 +492,7 @@ createQuestion({
       "A energia de ionização para átomos de X é maior do que para átomos de D.",
       "Átomos do elemento X possuem maior raio atômico do que átomos do elemento D."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Estrutura Atômica", "Propriedades Periódicas"],
     imageNames: []
@@ -512,7 +512,7 @@ createQuestion({
       "23 compradores não levaram a marca S e nem a N.",
       "22 compradores levaram apenas duas das marcas de celular."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Conjuntos", "Análise de Dados"],
     imageNames: []
@@ -528,11 +528,11 @@ createQuestion({
     },
     options: [
       "f(g(x)) = 9x² - 16.",
-      "Os zeros da função f(x) não estão contidos no domínio da função h(x) = log(x² + 2x - 24).",
+      "Os zeros da função f(x) não estão contidos no domínio da função h(x) = $\\log$(x² + 2x - 24).",
       "Se g¯¹ (x) representa a função inversa de g(x), g¯¹ (5) - f (2) é um número múltiplo de três.",
       "Se j(x) = 2^(g(x)) – 1, então j(1) é um número par."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções", "Função Composta", "Função Inversa", "Logaritmos", "Equações de 2º grau"],
     imageNames: []
@@ -552,7 +552,7 @@ createQuestion({
       "f(1) + f(2) + f(3) + ... + f(37) = 703.",
       "A soma dos algarismos de f(901) é um número primo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Sequências Numéricas", "Progressão Aritmética"],
     imageNames: []
@@ -572,7 +572,7 @@ createQuestion({
       "O lucro semanal é nulo quando a quantidade semanal vendida for 1 ou 31.",
       "O lucro máximo semanal é de R$ 225,00."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções do 2º grau", "Otimização"],
     imageNames: []
@@ -592,7 +592,7 @@ createQuestion({
       "Se f(x) = 512, então x é ímpar.",
       "O domínio da função g(x) é o intervalo [-1,1]."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções Exponenciais", "Funções Logarítmicas", "Domínio e Imagem"],
     imageNames: []
@@ -612,7 +612,7 @@ createQuestion({
       "Há diferenças temporais entre os tempos históricos. Por exemplo: a Idade Média durou cerca de 1000 anos, enquanto a Idade Moderna pouco mais de 300 anos.",
       "Para os historiadores, a chamada Idade Contemporânea teve início em 1789, com a Revolução Francesa, e se prolonga até os dias atuais."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Conceitos Históricos", "Períodos da História"],
     imageNames: []
@@ -632,7 +632,7 @@ createQuestion({
       "Os nomos eram pequenas cidades resultantes do desenvolvimento das aldeias agrícolas egípcias.",
       "A construção de diques para conter as cheias do Rio Nilo foi essencial para o desenvolvimento da civilização egípcia."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Antiguidade", "Egito Antigo"],
     imageNames: []
@@ -652,7 +652,7 @@ createQuestion({
       "Os Astecas, os Incas e os Maias são exemplos de povos ameríndios.",
       "O sacrifício humano (como ritual religioso) e a antropofagia não eram praticados entre os ameríndios."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["América Pré-colombiana", "Povos Indígenas"],
     imageNames: []
@@ -672,7 +672,7 @@ createQuestion({
       "A escravidão era uma condição perpétua na República Romana, não existindo formas de alforria entre os escravos.",
       "Apesar de existirem em grande quantidade, os escravos não promoveram nenhuma rebelião durante a República Romana."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Roma Antiga", "Escravidão"],
     imageNames: []
@@ -692,7 +692,7 @@ createQuestion({
       "O nordeste brasileiro foi uma das regiões que mais recebeu negros escravizados durante o período colonial.",
       "Navios negreiros era a denominação atribuída às embarcações que traziam negros escravizados da África para o Brasil."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Brasil Colonial", "Escravidão no Brasil"],
     imageNames: []
@@ -712,7 +712,7 @@ createQuestion({
       "O espaço geográfico está relacionado com a transformação em um local que o ser humano faz com o seu trabalho.",
       "Pode ser considerado região todo espaço que possui alguma característica em comum com outro. A cidade de Ponta Grossa, no Paraná, não faz parte de nenhuma região no Brasil."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Conceitos Fundamentais da Geografia"],
     imageNames: []
@@ -732,7 +732,7 @@ createQuestion({
       "No Brasil, o deserto predomina em todo o Nordeste, com escassez de água o ano todo.",
       "Possui baixo índice pluviométrico ou de chuva, como ocorre no deserto do Atacama, no Chile."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Climatologia", "Climas do Mundo"],
     imageNames: []
@@ -752,7 +752,7 @@ createQuestion({
       "Não existe qualquer relação entre maior desenvolvimento de um país e queda de taxa de natalidade.",
       "O Brasil é um país com população bem distribuída por todas as suas regiões, ou seja, possui um território bem povoado."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Demografia", "População Mundial"],
     imageNames: []
@@ -772,7 +772,7 @@ createQuestion({
       "A vegetação não sente os efeitos nocivos da chuva ácida, pois precisa do carbono presente nas águas dessas chuvas para o seu crescimento.",
       "Os impactos das chuvas ácidas podem ser percebidos a centenas de quilômetros das fontes poluidoras originais que as formam."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Problemas Ambientais", "Chuva Ácida"],
     imageNames: []
@@ -792,7 +792,7 @@ createQuestion({
       "Rios intermitentes ou temporários são aqueles que secam em períodos de estiagem ou seca.",
       "As redes hidrográficas constituídas por vertentes, rio principal, seus afluentes e subafluentes são conhecidas como bacias hidrográficas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Hidrografia", "Bacias Hidrográficas"],
     imageNames: []
@@ -812,7 +812,7 @@ createQuestion({
       "Tales de Mileto buscou em suas investigações respostas acerca da origem do mundo e concluiu que o ar é o único elemento que se mantém no universo.",
       "Os primeiros filósofos ficaram conhecidos como físicos ou filósofos naturalistas pelo fato de estudarem a physis."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Antiga", "Pré-Socráticos"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "A filosofia não é uma ciência, mas pode questionar e refletir sobre os fundamentos da ciência.",
       "A filosofia é um campo do conhecimento que traz como atributo o ato de questionar explicações \"usuais\" (cotidianas), como um meio de buscar respostas embasadas em justificativas racionais."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Conceito de Filosofia"],
     imageNames: []
@@ -852,7 +852,7 @@ createQuestion({
       "A filosofia exige uma explicação coerente, lógica e racional.",
       "A filosofia é uma cosmologia, pois explica a origem do mundo baseando-se na razão, não admitindo contradições."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Mito e Razão", "Cosmologia"],
     imageNames: []
@@ -872,7 +872,7 @@ createQuestion({
       "O silogismo possui apenas dois termos: o maior e o menor.",
       "De duas premissas afirmativas não se conclui uma negativa."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Lógica", "Silogismo"],
     imageNames: []
@@ -892,7 +892,7 @@ createQuestion({
       "O método seguro baseia-se em quatro regras de raciocínio: da evidência, da análise, da ordem e da enumeração.",
       "A frase \"cogito ergo sum\" está se referindo à autoevidência como exercício do sujeito pensante."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Filosofia Moderna", "Racionalismo", "René Descartes"],
     imageNames: []
@@ -912,7 +912,7 @@ createQuestion({
       "Surgiu a partir da Revolução Inglesa marcada por um clima de tensão e guerra civil.",
       "Surgiu a partir da Revolução Industrial marcada por mudanças econômicas, mas que curiosamente não causaram nenhuma transformação na sociedade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Surgimento da Sociologia"],
     imageNames: []
@@ -932,7 +932,7 @@ createQuestion({
       "Para Karl Marx, as classes sociais se associam tendo apenas o trabalho como conceito para diferenciá-las.",
       "As Classes Sociais, que segundo Karl Marx estão presentes na sociedade capitalista, são principalmente a burguesia e o proletariado."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Teóricos Clássicos da Sociologia", "Durkheim", "Marx", "Weber"],
     imageNames: []
@@ -952,7 +952,7 @@ createQuestion({
       "Hoje, os meios de comunicação também são considerados um importante agente de socialização disputando, muitas vezes, espaço com a família.",
       "A família pode ser considerada um agente de socialização, mas não uma instituição social."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Instituições Sociais", "Socialização"],
     imageNames: []
@@ -972,7 +972,7 @@ createQuestion({
       "Os agentes de controle social são os mesmos que realizam os processos de socialização.",
       "A Constituição e o Código Civil brasileiros podem ser considerados mecanismos de controle legais."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Controle Social", "Ordem Social"],
     imageNames: []
@@ -992,7 +992,7 @@ createQuestion({
       "O relativismo cultural se contrapõe ao etnocentrismo.",
       "Cultura é um conjunto de hábitos, costumes, valores e tradições presentes apenas nas sociedades modernas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Cultura", "Etnocentrismo", "Relativismo Cultural"],
     imageNames: []
@@ -1012,7 +1012,7 @@ createQuestion({
       "Disse que o filho mais velho herdaria seu armazém.",
       "Falou que deixava seu cavalo para o segundo filho."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -1030,9 +1030,9 @@ createQuestion({
       "Os três estão no passado simples.",
       "Os dois primeiros são irregulares e o último é regular.",
       "No infinitivo suas formas são think, say e ask.",
-      "Dentro deste contexto, poderiam ser traduzidos por pensaram, falou/disse e perguntou."
+      "Dentro deste contexto, poderiam ser traduzidos por pensaram, $falou/disse$ e perguntou."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Verbos"],
     imageNames: []
@@ -1052,7 +1052,7 @@ createQuestion({
       "Apesar de não entender para que Puss queria aquelas coisas, Tom atendeu ao pedido.",
       "A fim de atender ao pedido de seu gato, Tom contratou um alfaiate e um sapateiro."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -1072,7 +1072,7 @@ createQuestion({
       "Os três ficaram satisfeitos.",
       "Tom ficou decepcionado por ter herdado somente um gato."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -1092,7 +1092,7 @@ createQuestion({
       "Me e he (quarto parágrafo) são pronomes.",
       "Nice, warm e fine (último parágrafo) são adjetivos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática"],
     imageNames: []

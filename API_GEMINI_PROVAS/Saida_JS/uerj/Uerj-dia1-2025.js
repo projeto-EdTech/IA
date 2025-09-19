@@ -123,7 +123,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "CONSIDERE AS INFORMAÇÕES DO TRECHO A SEGUIR PARA RESPONDER ÀS QUESTÕES 06 E 07.\nDiante das gravações de conversas entre pessoas, os visitantes dos water holes tinham probabilidade 200% maior de fugir e se escafediam com velocidade 40% maior do que diante de sons de leões. (l. 30-32)\nConsidere uma girafa que, ao ouvir o rugido de um leão, fuja correndo à velocidade média de 54 km/h.\nAo ouvir a voz humana, essa girafa percore 105 m no seguinte intervalo de tempo, em segundos:",
+      principal: "CONSIDERE AS INFORMAÇÕES DO TRECHO A SEGUIR PARA RESPONDER ÀS QUESTÕES 06 E 07.\nDiante das gravações de conversas entre pessoas, os visitantes dos water holes tinham probabilidade 200% maior de fugir e se escafediam com velocidade 40% maior do que diante de sons de leões. (l. 30-32)\nConsidere uma girafa que, ao ouvir o rugido de um leão, fuja correndo à velocidade média de 54 $km/h$.\nAo ouvir a voz humana, essa girafa percore 105 m no seguinte intervalo de tempo, em segundos:",
       subItens: []
     },
     options: [
@@ -608,9 +608,9 @@ createQuestion({
     },
     options: [
       "2πγ/3 + r",
-      "2πr/3 + 2r",
-      "πr/3 + 2r",
-      "πr/3 + r"
+      "2π$r/3$ + 2r",
+      "π$r/3$ + 2r",
+      "π$r/3$ + r"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -623,13 +623,13 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "A função quadrática f, definida por f(x) = – (3/2)x² + 6x + 4, sendo x um número real, é representada graficamente pela seguinte parábola:\n\nу\n\nP\nQ\nX\nNa parábola, o ponto P, que representa a interseção com o eixo das ordenadas, e o ponto Q formam o segmento PQ, paralelo ao eixo das abscissas.\nA distância entre os pontos P e Q mede:\n(A) 9/2\n(B) 4\n(C) 7/2\n(D) 3",
+      principal: "A função quadrática f, definida por f(x) = – ($3/2$)x² + 6x + 4, sendo x um número real, é representada graficamente pela seguinte parábola:\n\nу\n\nP\nQ\nX\nNa parábola, o ponto P, que representa a interseção com o eixo das ordenadas, e o ponto Q formam o segmento PQ, paralelo ao eixo das abscissas.\nA distância entre os pontos P e Q mede:\n(A) $9/2$\n(B) 4\n(C) $7/2$\n(D) 3",
       subItens: []
     },
     options: [
-      "9/2",
+      "$9/2$",
       "4",
-      "7/2",
+      "$7/2$",
       "3"
     ],
     correctAnswer: 1,
@@ -667,10 +667,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/6",
-      "2/3",
-      "3/4",
-      "1/2"
+      "$5/6$",
+      "$2/3$",
+      "$3/4$",
+      "$1/2$"
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -803,7 +803,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "Um dos animais de maior massa já identificado no planeta Terra é a baleia azul. Admita que uma baleia dessa espécie tenha massa de 90 toneladas e volume de 86,5 m³.\nA densidade dessa baleia, em g/cm³, é aproximadamente de:",
+      principal: "Um dos animais de maior massa já identificado no planeta Terra é a baleia azul. Admita que uma baleia dessa espécie tenha massa de 90 toneladas e volume de 86,5 m³.\nA densidade dessa baleia, em $g/cm$³, é aproximadamente de:",
       subItens: []
     },
     options: [
@@ -823,7 +823,7 @@ createQuestion({
     university: "uerj",
     year: 2025,
     text: {
-      principal: "A cada batimento, o coração humano bombeia cerca de 85 g de sangue. Admita que a velocidade de saída do sangue bombeado pelo coração seja de 0,4 m/s.\nA quantidade de movimento do sangue, em kg.m/s, produzida pelo coração em um batimento, corresponde aproximadamente a:",
+      principal: "A cada batimento, o coração humano bombeia cerca de 85 g de sangue. Admita que a velocidade de saída do sangue bombeado pelo coração seja de 0,4 $m/s$.\nA quantidade de movimento do sangue, em kg.$m/s$, produzida pelo coração em um batimento, corresponde aproximadamente a:",
       subItens: []
     },
     options: [

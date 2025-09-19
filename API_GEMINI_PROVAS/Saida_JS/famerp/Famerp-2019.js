@@ -1074,7 +1074,7 @@ createQuestion({
     university: "famerp",
     year: 2019,
     text: {
-      principal: "Em janeiro de 2018 foi encontrado em uma mina na África o quinto maior diamante (uma variedade alotrópica do carbono) do mundo, pesando 900 quilates. Considerando que um quilate equivale a uma massa de 200 mg, a quantidade, em mol, de átomos de carbono existente nesse diamante é igual a\n(Massa molar do C = 12 g/mol)",
+      principal: "Em janeiro de 2018 foi encontrado em uma mina na África o quinto maior diamante (uma variedade alotrópica do carbono) do mundo, pesando 900 quilates. Considerando que um quilate equivale a uma massa de 200 mg, a quantidade, em mol, de átomos de carbono existente nesse diamante é igual a\n(Massa molar do C = 12 $g/mol$)",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "famerp",
     year: 2019,
     text: {
-      principal: "Em águas naturais, a acidez mineral pode ser formada através da oxidação de sulfetos, como indica a equação química a seguir:\n2FeS₂ + 7O₂ + 2H₂O → 2FeSO₄ + 2H₂SO₄\nEm uma amostra de água retirada de um rio, foi encontrada uma concentração de FeSO₄ igual a 0,02 mol/L. Nesse rio, a massa de FeS₂ dissolvida por litro de água era igual a\n(Massas molares: H = 1 g/mol; O = 16 g/mol; S = 32 g/mol; Fe = 56 g/mol)",
+      principal: "Em águas naturais, a acidez mineral pode ser formada através da oxidação de sulfetos, como indica a equação química a seguir:\n2FeS₂ + 7O₂ + 2H₂O → 2FeSO₄ + 2H₂SO₄\nEm uma amostra de água retirada de um rio, foi encontrada uma concentração de FeSO₄ igual a 0,02 $mol/L$. Nesse rio, a massa de FeS₂ dissolvida por litro de água era igual a\n(Massas molares: H = 1 $g/mol$; O = 16 $g/mol$; S = 32 $g/mol$; Fe = 56 $g/mol$)",
       subItens: []
     },
     options: [
@@ -1263,15 +1263,15 @@ createQuestion({
     university: "famerp",
     year: 2019,
     text: {
-      principal: "Ao se aproximar de um aeroporto, um avião se deslocava horizontalmente com velocidade de 115 m/s. Ao tocar a pista, cinco minutos depois da aproximação, sua velocidade horizontal era 70 m/s. O módulo da aceleração escalar média horizontal a que o avião ficou sujeito nesse trecho foi",
+      principal: "Ao se aproximar de um aeroporto, um avião se deslocava horizontalmente com velocidade de 115 $m/s$. Ao tocar a pista, cinco minutos depois da aproximação, sua velocidade horizontal era 70 $m/s$. O módulo da aceleração escalar média horizontal a que o avião ficou sujeito nesse trecho foi",
       subItens: []
     },
     options: [
-      "0,23 m/s².",
-      "0,15 m/s².",
-      "0,35 m/s².",
-      "0,46 m/s².",
-      "0,75 m/s²."
+      "0,23 $m/s$².",
+      "0,15 $m/s$².",
+      "0,35 $m/s$².",
+      "0,46 $m/s$².",
+      "0,75 $m/s$²."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "famerp",
     year: 2019,
     text: {
-      principal: "Analise o gráfico que mostra a variação da velocidade escalar, em função do tempo, de um automóvel de massa 1200 kg que se desloca em uma pista retilínea horizontal.\n[Graph of Velocity (m/s) vs. Time (s)]\nA intensidade média da força resultante sobre esse automóvel, no intervalo de tempo entre zero e quatro segundos, é",
+      principal: "Analise o gráfico que mostra a variação da velocidade escalar, em função do tempo, de um automóvel de massa 1200 kg que se desloca em uma pista retilínea horizontal.\n[Graph of Velocity ($m/s$) vs. Time (s)]\nA intensidade média da força resultante sobre esse automóvel, no intervalo de tempo entre zero e quatro segundos, é",
       subItens: []
     },
     options: [
@@ -1305,15 +1305,15 @@ createQuestion({
     university: "famerp",
     year: 2019,
     text: {
-      principal: "Uma pessoa parada sobre a linha do equador terrestre apresenta uma velocidade tangencial, devido à rotação da Terra, de módulo próximo a 1700 km/h.\n[Diagram showing Earth's rotation and a point in São José do Rio Preto]\nSabendo que sen 21° = 0,36 e cos 21° = 0,93, uma pessoa em repouso sobre o solo, em São José do Rio Preto, cuja latitude é aproximadamente $ = 21° Sul, tem uma velocidade tangencial de módulo próximo a",
+      principal: "Uma pessoa parada sobre a linha do equador terrestre apresenta uma velocidade tangencial, devido à rotação da Terra, de módulo próximo a 1700 $km/h$.\n[Diagram showing Earth's rotation and a point in São José do Rio Preto]\nSabendo que $\\sin$ 21° = 0,36 e $\\cos$ 21° = 0,93, uma pessoa em repouso sobre o solo, em São José do Rio Preto, cuja latitude é aproximadamente $ = 21° Sul, tem uma velocidade tangencial de módulo próximo a",
       subItens: []
     },
     options: [
-      "1830 km/h.",
-      "610 km/h.",
-      "1700 km/h.",
-      "4700 km/h.",
-      "1580 km/h."
+      "1830 $km/h$.",
+      "610 $km/h$.",
+      "1700 $km/h$.",
+      "4700 $km/h$.",
+      "1580 $km/h$."
     ],
     correctAnswer: 4,
     materia: ["Física", "Matemática"],
@@ -1540,11 +1540,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "4/3",
-      "5/3",
-      "1/2",
-      "-4/3",
-      "3/2"
+      "$4/3$",
+      "$5/3$",
+      "$1/2$",
+      "-$4/3$",
+      "$3/2$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1624,9 +1624,9 @@ createQuestion({
       subItens: []
     },
     options: [
-      "log 12",
+      "$\\log$ 12",
       "20,75",
-      "log 7",
+      "$\\log$ 7",
       "20,25",
       "21,25"
     ],
@@ -1669,7 +1669,7 @@ createQuestion({
       "-1",
       "0",
       "1",
-      "1/2",
+      "$1/2$",
       "1"
     ],
     correctAnswer: 4,

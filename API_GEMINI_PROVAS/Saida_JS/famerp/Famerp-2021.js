@@ -702,7 +702,7 @@ createQuestion({
     options: [
       "concentrar organizações sindicais de grandes atividades econômicas.",
       "apresentar atividades agropecuárias com alta produtividade.",
-      "conter importante polo tecnológico e logístico próximo a grandes rodovias.",
+      "conter importante polo tecnológico e $\\log$ístico próximo a grandes rodovias.",
       "oferecer bens e serviços de menor grau de sofisticação e especialização.",
       "atrair grandes indústrias de base controladas pelo governo federal."
     ],
@@ -780,7 +780,7 @@ createQuestion({
     university: "famerp",
     year: 2021,
     text: {
-      principal: "Analise a imagem. Os valores estão em bilhões de toneladas por ano (Gt/ano).\n\n[IMAGEM: Diagrama do ciclo do carbono, mostrando quantidades de carbono na atmosfera, biomassa vegetal, solo, superfície oceânica, oceano profundo, sedimentos reativos e fósseis, e as taxas de troca entre esses reservatórios (fotossíntese, respiração vegetal, respiração e decomposição microbiana, troca ar-mar).]\n(Holli Riebeek. www.earthobservatory.nasa.gov, 16.06.2011. Adaptado.)\n\nConsiderando as variáveis apresentadas, a imagem sistematiza",
+      principal: "Analise a imagem. Os valores estão em bilhões de toneladas por ano ($Gt/ano$).\n\n[IMAGEM: Diagrama do ciclo do carbono, mostrando quantidades de carbono na atmosfera, biomassa vegetal, solo, superfície oceânica, oceano profundo, sedimentos reativos e fósseis, e as taxas de troca entre esses reservatórios (fotossíntese, respiração vegetal, respiração e decomposição microbiana, troca ar-mar).]\n(Holli Riebeek. www.earthobservatory.nasa.gov, 16.06.2011. Adaptado.)\n\nConsiderando as variáveis apresentadas, a imagem sistematiza",
       subItens: []
     },
     options: [
@@ -927,7 +927,7 @@ createQuestion({
     university: "famerp",
     year: 2021,
     text: {
-      principal: "O Senado Federal aprovou em 24.06.2020 o projeto de lei que estabelece o novo marco regulatório do saneamento básico. O secretário de Desenvolvimento da Infraestrutura da Sepec/ME, Diogo Mac Cord, destaca a importância da aprovação do novo marco regulatório para os brasileiros em quatro pilares: o da saúde pública, o ambiental, o econômico e o financeiro. \"Estamos falando de até seis mil recém-nascidos que morrem por ano vítimas de doenças decorrentes da falta de saneamento básico. São mais de cem milhões de brasileiros que atualmente não têm acesso à rede de esgoto\", explica o secretário.\n(www.gov.br. Adaptado.)\nA falta de saneamento básico em muitas cidades brasileiras está relacionada à transmissão de diversas doenças, entre as quais estão",
+      principal: "O Senado Federal aprovou em 24.06.2020 o projeto de lei que estabelece o novo marco regulatório do saneamento básico. O secretário de Desenvolvimento da Infraestrutura da $Sepec/ME$, Diogo Mac Cord, destaca a importância da aprovação do novo marco regulatório para os brasileiros em quatro pilares: o da saúde pública, o ambiental, o econômico e o financeiro. \"Estamos falando de até seis mil recém-nascidos que morrem por ano vítimas de doenças decorrentes da falta de saneamento básico. São mais de cem milhões de brasileiros que atualmente não têm acesso à rede de esgoto\", explica o secretário.\n(www.gov.br. Adaptado.)\nA falta de saneamento básico em muitas cidades brasileiras está relacionada à transmissão de diversas doenças, entre as quais estão",
       subItens: []
     },
     options: [
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "famerp",
     year: 2021,
     text: {
-      principal: "Lâmpadas de neon são tubos contendo gases rarefeitos submetidos a uma diferença de potencial. Quando elétrons percorrem o tubo, colidem com as moléculas do gás e emitem luz com cor característica do elemento químico, conforme ilustra a figura.\n\n[IMAGEM: Seis lâmpadas de neon com as letras He, Ne, Ar, Kr, Xe acesas, e o nome Amino. As cores das lâmpadas são diferentes: verde, vermelho, roxo, azul, amarelo e rosa/roxo.]\n(www.fart-neon.com)\n\nA natureza da luz emitida pelas lâmpadas de neon pode ser explicada pelos modelos atômicos de",
+      principal: "Lâmpadas de neon são tubos contendo gases rarefeitos submetidos a uma diferença de potencial. Quando elétrons percorrem o tubo, colidem com as moléculas do gás e emitem luz com cor característica do elemento químico, conforme ilustra a figura.\n\n[IMAGEM: Seis lâmpadas de neon com as letras He, Ne, Ar, Kr, Xe acesas, e o nome Amino. As cores das lâmpadas são diferentes: verde, vermelho, roxo, azul, amarelo e $rosa/roxo$.]\n(www.fart-neon.com)\n\nA natureza da luz emitida pelas lâmpadas de neon pode ser explicada pelos modelos atômicos de",
       subItens: []
     },
     options: [
@@ -1137,7 +1137,7 @@ createQuestion({
     university: "famerp",
     year: 2021,
     text: {
-      principal: "A mistura de 100 mL de uma solução de HCl, de concentração 2 × 10⁻² mol/L, com 400 mL de uma solução de NaOH, de concentração 6,25 × 10⁻³ mol/L, gera uma solução de caráter",
+      principal: "A mistura de 100 mL de uma solução de HCl, de concentração 2 × 10⁻² $mol/L$, com 400 mL de uma solução de NaOH, de concentração 6,25 × 10⁻³ $mol/L$, gera uma solução de caráter",
       subItens: []
     },
     options: [
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "famerp",
     year: 2021,
     text: {
-      principal: "O etanol (C₂H₆O) pode ser produzido em laboratório por meio da hidratação do etileno (C₂H₄), conforme a equação:\n\nC₂H₄ + H₂O → C₂H₆O\n\nA entalpia dessa reação pode ser calculada por meio da Lei de Hess, utilizando-se as equações:\n\nC₂H₄ + 3O₂ → 2CO₂ + 2H₂O ∆H = −1322 kJ/mol de C₂H₄\nC₂H₆O + 3O₂ → 2CO₂ + 3H₂O ∆H = −1367 kJ/mol de C₂H₆O\n\nCom base nas informações fornecidas, a produção de 10 mol de etanol",
+      principal: "O etanol (C₂H₆O) pode ser produzido em laboratório por meio da hidratação do etileno (C₂H₄), conforme a equação:\n\nC₂H₄ + H₂O → C₂H₆O\n\nA entalpia dessa reação pode ser calculada por meio da Lei de Hess, utilizando-se as equações:\n\nC₂H₄ + 3O₂ → 2CO₂ + 2H₂O ∆H = −1322 $kJ/mol$ de C₂H₄\nC₂H₆O + 3O₂ → 2CO₂ + 3H₂O ∆H = −1367 $kJ/mol$ de C₂H₆O\n\nCom base nas informações fornecidas, a produção de 10 mol de etanol",
       subItens: []
     },
     options: [
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "famerp",
     year: 2021,
     text: {
-      principal: "Considere as equações químicas:\n\nI. N₂O₄ (g) ⇌ 2NO₂ (g)\nII. CaO (s) + CO₂ (g) ⇌ CaCO₃ (s)\nIII. NH₄Cl (s) ⇌ NH₃ (g) + HCl (g)\nIV. Sn (s) + H₂ (g) ⇌ Sn (s) + H₂O (g)\nV. 4Al (s) + 3O₂ (g) ⇌ 2Al₂O₃ (s)\n\nConsiderando x um dos compostos químicos presentes nas equações citadas, a expressão da constante de equilíbrio representada por Kₚ = 1/p(x) descreve corretamente o equilíbrio representado na equação",
+      principal: "Considere as equações químicas:\n\nI. N₂O₄ (g) ⇌ 2NO₂ (g)\nII. CaO (s) + CO₂ (g) ⇌ CaCO₃ (s)\nIII. NH₄Cl (s) ⇌ NH₃ (g) + HCl (g)\nIV. Sn (s) + H₂ (g) ⇌ Sn (s) + H₂O (g)\nV. 4Al (s) + 3O₂ (g) ⇌ 2Al₂O₃ (s)\n\nConsiderando x um dos compostos químicos presentes nas equações citadas, a expressão da constante de equilíbrio representada por Kₚ = $1/p$(x) descreve corretamente o equilíbrio representado na equação",
       subItens: []
     },
     options: [
@@ -1263,15 +1263,15 @@ createQuestion({
     university: "famerp",
     year: 2021,
     text: {
-      principal: "O sangue percorre as grandes artérias do corpo humano com velocidade aproximada de 30,00 cm/s, e os vasos capilares com velocidade de 0,05 cm/s. Supondo que o intervalo de tempo para certa massa de sangue ir de uma grande artéria até um vaso capilar seja de 30 s, essa massa de sangue será submetida, nesse deslocamento, a uma aceleração média, em valor absoluto, de aproximadamente",
+      principal: "O sangue percorre as grandes artérias do corpo humano com velocidade aproximada de 30,00 $cm/s$, e os vasos capilares com velocidade de 0,05 $cm/s$. Supondo que o intervalo de tempo para certa massa de sangue ir de uma grande artéria até um vaso capilar seja de 30 s, essa massa de sangue será submetida, nesse deslocamento, a uma aceleração média, em valor absoluto, de aproximadamente",
       subItens: []
     },
     options: [
-      "0,05 m/s².",
-      "0,01 m/s².",
-      "0,10 m/s².",
-      "0,25 m/s².",
-      "0,50 m/s²."
+      "0,05 $m/s$².",
+      "0,01 $m/s$².",
+      "0,10 $m/s$².",
+      "0,25 $m/s$².",
+      "0,50 $m/s$²."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1284,7 +1284,7 @@ createQuestion({
     university: "famerp",
     year: 2021,
     text: {
-      principal: "Ao descer uma ladeira plana e inclinada 23,5° em relação à horizontal, um ciclista mantém sua velocidade constante acionando os freios da bicicleta.\n\n[IMAGEM: Ilustração de um ciclista descendo uma ladeira, com o ângulo de inclinação de 23,5° indicado.]\n(https://br.pinterest.com. Adaptado.)\n\nConsiderando que a massa do ciclista e da bicicleta, juntos, seja 70 kg, que a aceleração gravitacional no local seja 10 m/s², que sen 23,5° = 0,40 e que cos 23,5° = 0,92, a intensidade da resultante das forças de resistência ao movimento que atuam sobre o conjunto ciclista mais bicicleta, na direção paralela ao plano da ladeira, é",
+      principal: "Ao descer uma ladeira plana e inclinada 23,5° em relação à horizontal, um ciclista mantém sua velocidade constante acionando os freios da bicicleta.\n\n[IMAGEM: Ilustração de um ciclista descendo uma ladeira, com o ângulo de inclinação de 23,5° indicado.]\n(https://br.pinterest.com. Adaptado.)\n\nConsiderando que a massa do ciclista e da bicicleta, juntos, seja 70 kg, que a aceleração gravitacional no local seja 10 $m/s$², que $\\sin$ 23,5° = 0,40 e que $\\cos$ 23,5° = 0,92, a intensidade da resultante das forças de resistência ao movimento que atuam sobre o conjunto ciclista mais bicicleta, na direção paralela ao plano da ladeira, é",
       subItens: []
     },
     options: [
@@ -1330,11 +1330,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "x = 0,30 + 0,45 sen (40πt – π/2)",
-      "x = 0,30 + 0,15 sen (40πt + π/2)",
-      "x = 0,30 + 0,45 sen (20πt – π/2)",
-      "x = 0,15 sen (20πt - π/2)",
-      "x = 0,45 sen (20πt + π/2)"
+      "x = 0,30 + 0,45 $\\sin$ (40πt – π/2)",
+      "x = 0,30 + 0,15 $\\sin$ (40πt + π/2)",
+      "x = 0,30 + 0,45 $\\sin$ (20πt – π/2)",
+      "x = 0,15 $\\sin$ (20πt - π/2)",
+      "x = 0,45 $\\sin$ (20πt + π/2)"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1515,15 +1515,15 @@ createQuestion({
     university: "famerp",
     year: 2021,
     text: {
-      principal: "A facilidade com que uma doença se espalha é medida usando o “número de reprodução”, R₀, isto é, o número médio de pessoas que contraem a doença a partir de uma mesma pessoa infectada. O R₀ para a covid-19 é estimado entre 2 e 3. A gripe comum, em comparação, tem um R₀ de 1,3, enquanto o sarampo, que é muito mais contagioso, tem um R₀ de 18. O valor de R₀ permite calcular a porcentagem mínima de indivíduos imunizados (por terem contraído a doença ou estarem vacinados) necessária para proteger toda a população. Essa condição, conhecida como limiar de imunidade de rebanho, é calculada por (1 - 1/R₀) ⋅ 100.\n(www.revistaquestaodeciencia.com.br. Adaptado.)\n\nAdmita um país em que 88 milhões de seus 160 milhões de habitantes tenham que estar imunes ao vírus SARS-CoV-2 para que seja atingida a imunidade de rebanho em relação à covid-19. Nesse país, o número médio de pessoas que contraem covid-19 de uma mesma pessoa infectada ultrapassa 2 em",
+      principal: "A facilidade com que uma doença se espalha é medida usando o “número de reprodução”, R₀, isto é, o número médio de pessoas que contraem a doença a partir de uma mesma pessoa infectada. O R₀ para a covid-19 é estimado entre 2 e 3. A gripe comum, em comparação, tem um R₀ de 1,3, enquanto o sarampo, que é muito mais contagioso, tem um R₀ de 18. O valor de R₀ permite calcular a porcentagem mínima de indivíduos imunizados (por terem contraído a doença ou estarem vacinados) necessária para proteger toda a população. Essa condição, conhecida como limiar de imunidade de rebanho, é calculada por (1 - $1/R$₀) ⋅ 100.\n(www.revistaquestaodeciencia.com.br. Adaptado.)\n\nAdmita um país em que 88 milhões de seus 160 milhões de habitantes tenham que estar imunes ao vírus SARS-CoV-2 para que seja atingida a imunidade de rebanho em relação à covid-19. Nesse país, o número médio de pessoas que contraem covid-19 de uma mesma pessoa infectada ultrapassa 2 em",
       subItens: []
     },
     options: [
-      "2/9",
-      "4/9",
-      "1/6",
-      "1/4",
-      "11/20"
+      "$2/9$",
+      "$4/9$",
+      "$1/6$",
+      "$1/4$",
+      "$11/20$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -1625,7 +1625,7 @@ createQuestion({
     },
     options: [
       "10/(n² - n)",
-      "10/n!",
+      "$10/n$!",
       "20/(n² - n)",
       "10/((n-2)!)",
       "20/((n-2)!)"

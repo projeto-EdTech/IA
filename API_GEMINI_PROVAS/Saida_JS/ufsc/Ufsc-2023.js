@@ -13,7 +13,7 @@ createQuestion({
       "a ideia central do texto é que um novo tipo de artista muda o mundo com a sua arte.",
       "é um manifesto de cunho político, cultural e social, que busca marcar um posicionamento sobre a arte periférica, além de sensibilizar e persuadir o público a engajar-se nesse movimento."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Gêneros Textuais (Manifesto)"],
     imageNames: []
@@ -34,7 +34,7 @@ createQuestion({
       "a relação entre os instrumentos do samba e os da música erudita (“Agogôs”, “tamborins” e \"violinos” – linha 05) faz jus à proposta de antropofagia cultural iniciada pelos modernistas da década de 1920.",
       "ao posicionar-se “Contra o artista surdo-mudo e a letra que não fala” (linha 18), o texto revela--se não inclusivo às pessoas com deficiência."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Modernismo", "Variedade Linguística"],
     imageNames: []
@@ -56,7 +56,7 @@ createQuestion({
       "as expressões “do batuque\" (linha 09), “Da Dança” (linha 13) e “Da Música” (linha 14) correspondem a complementos do nome “favor” (linha 09), indicados como os mais importantes elementos do Manifesto da Antropofagia Periférica.",
       "a expressão “das quais” (linha 17) está retomando “injustiças sociais” (linha 17)."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Figuras de Linguagem (Metonímia)", "Ortografia e Fonologia", "Sintaxe (Sujeito, Oração Adjetiva)", "Regência Verbal"],
     imageNames: []
@@ -77,7 +77,7 @@ createQuestion({
       "o eu-lírico introduz um possível diálogo entre um burguês e sua filha (linhas 25-27), evidenciando o apego às aparências.",
       "'algarismam' (linha 15) corresponde a um neologismo, formado a partir do nome 'algarismo', pelo acréscimo de desinências verbais e de um complemento direto ('os amanhãs')."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Modernismo (Pauliceia Desvairada, Mário de Andrade)", "Gêneros Líricos (Ode)", "Contexto Sócio-Histórico", "Interpretação de Texto"],
     imageNames: []
@@ -99,7 +99,7 @@ createQuestion({
       "a expressão “nossos setembros” (linha 16) se refere à primavera, estação do ano que representa a renovação e a esperança.",
       "o título “Ode ao burguês” é irônico, pois o poema, em vez de exaltar, critica e satiriza a figura do burguês."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Sintaxe (Imperativo, Interjeição)", "Semântica (Conotação)", "Figuras de Linguagem (Ironia, Repetição)"],
     imageNames: []
@@ -121,7 +121,7 @@ createQuestion({
       "no texto 5, Cruz e Sousa faz referência à sua amante, Gavita Rosa Gonçalves, a Rosa Negra, com quem viveu uma tórrida história de amor antes do casamento.",
       "em \"tu'alma” (linha 03), temos o uso do apóstrofo marcando a supressão de um fonema, recurso comum na estética do poeta simbolista para explorar a sonoridade."
     ],
-    correctAnswer: -14,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Simbolismo (Cruz e Sousa)", "Contexto Sócio-Histórico", "Interpretação de Texto", "Figuras de Linguagem (Apóstrofo)"],
     imageNames: []
@@ -142,7 +142,7 @@ createQuestion({
       "Boca do Inferno é uma biografia, pois narra de modo fiel, amparado em farta pesquisa, a vida de uma figura histórica importante, o poeta Gregório de Matos.",
       "o título do livro faz menção a um pseudônimo do poeta, apelidado de ‘Boca do Inferno' por ameaçar os descrentes com a condenação e o fogo do inferno."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Barroco (Gregório de Matos)", "Contexto Sócio-Histórico", "Interpretação de Texto", "Figuras de Linguagem (Antítese)", "Gêneros Literários (Romance Histórico)"],
     imageNames: []
@@ -164,7 +164,7 @@ createQuestion({
       "Chico Buarque escreveu esta obra logo após o fim do período de ditadura civil-militar no Brasil, ocorrida de 1964 a 1985, quando enfim sentiu-se seguro para criticar o regime daquela época, tanto na literatura quanto na música.",
       "no fragmento 2, a relação entre conformismo e rebeldia se altera: os auroques eram rebeldes, mas aderiram aos costumes dos civilizados; já as vaquinhas eram indiferentes às injustiças alheias, mas passaram a contestá-las diante da possibilidade de serem atingidas pelas mesmas violências."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Ditadura Militar (Contexto)", "Chico Buarque", "Interpretação de Texto", "Análise de Personagens", "Linguagem e Subjetividade"],
     imageNames: []
@@ -187,7 +187,7 @@ createQuestion({
       "no fragmento 1 do texto 8 e no texto 9, as personagens evocadas são trabalhadores que não refletem sobre a exploração decorrente da relação entre o capital e o trabalho.",
       "o texto 9 retrata a alienação do trabalhador, reduzido à condição braçal, na sociedade moderna e urbana."
     ],
-    correctAnswer: -10,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto", "Figuras de Linguagem (Metáfora)", "Relações de Trabalho", "Verbos e Tempos Verbais", "Alienação do Trabalho"],
     imageNames: []
@@ -208,9 +208,9 @@ createQuestion({
       "a autora mantém-se fiel a uma das principais características do gênero conto: a de identificar pelo nome apenas a personagem principal, no caso, Mendonça.",
       "\"ruge-ruge” (linha 04) é um exemplo de onomatopeia, uma figura de linguagem empregada a fim de fazer alusão ao risinho da mulher que subira as escadas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
-    conteudo: ["Realismo/Naturalismo (Júlia Lopes de Almeida)", "Contexto Sócio-Histórico", "Interpretação de Texto", "Coerência e Coesão (Referência)", "Gêneros Literários (Conto)", "Figuras de Linguagem (Onomatopeia)"],
+    conteudo: ["$Realismo/Naturalismo$ (Júlia Lopes de Almeida)", "Contexto Sócio-Histórico", "Interpretação de Texto", "Coerência e Coesão (Referência)", "Gêneros Literários (Conto)", "Figuras de Linguagem (Onomatopeia)"],
     imageNames: []
 }),
 
@@ -230,7 +230,7 @@ createQuestion({
       "os termos “mudamente” (linha 03) e “silenciosamente” (linha 12) apresentam sentidos diferentes: o primeiro remete a uma condição subjetiva, e não biológica, que justifica a ausência da fala; e o segundo, ao reconhecimento de que no contexto não é a palavra que tem importância.",
       "o advérbio “apenas” antecedendo a expressão “tão perigoso como uma criança” (linhas 07-08) reforça a caracterização do tigre ferido como inofensivo."
     ],
-    correctAnswer: -11,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Gênero Crônica (Clarice Lispector)", "Interpretação de Texto", "Semântica (Advérbios, Oposição de Sentidos)", "Funções Sintáticas"],
     imageNames: []
@@ -251,7 +251,7 @@ createQuestion({
       "o efeito de humor da charge resulta da surpresa do pedido feito pela personagem, dada sua urgência em lugar de um desejo projetado para o futuro.",
       "os textos 11 e 12 contrastam o modo como os pedidos de socorro se dão, “mudamente” na crônica e verbalmente na charge."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Textos Não Verbais (Charge)", "Comparação de Gêneros Textuais (Crônica vs. Charge)", "Funções da Linguagem", "Humor"],
     imageNames: []
@@ -273,7 +273,7 @@ createQuestion({
       "Students visited the therapy dogs in small groups only.",
       "Research shows that interacting with therapy dogs can reduce stress."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension"],
     imageNames: []
@@ -295,7 +295,7 @@ createQuestion({
       "pleasant: enjoyable",
       "thrilled: very happy"
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulary", "Synonyms", "Contextual Meaning"],
     imageNames: []
@@ -317,7 +317,7 @@ createQuestion({
       "What does Esha Pathi study?",
       "Will the therapy dog event be organized next year?"
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension (Information Retrieval)"],
     imageNames: []
@@ -340,7 +340,7 @@ createQuestion({
       "Drinking is the students' least frequent stress reduction strategy.",
       "The infographic suggests that college life is not as stressful as professional life."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension (Infographics)"],
     imageNames: []
@@ -361,7 +361,7 @@ createQuestion({
       "How many women were victims of femicide in Latin America during the Covid-19 pandemic?",
       "Who commits violence against women in most cases?"
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension (Information Retrieval from Infographic)"],
     imageNames: []
@@ -383,9 +383,9 @@ createQuestion({
       "the sentence “Peru, Argentina and Bolivia saw the largest increase of instances of violence” uses the superlative form of the adjective “large”.",
       "\"98% of the crimes go unprosecuted” has a noun in the plural form."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Inglês"],
-    conteudo: ["Grammar (Tenses, Comparative/Superlative)", "Vocabulary (Noun Forms)", "Reading Comprehension"],
+    conteudo: ["Grammar (Tenses, $Comparative/Superlative$)", "Vocabulary (Noun Forms)", "Reading Comprehension"],
     imageNames: []
 }),
 
@@ -404,7 +404,7 @@ createQuestion({
       "Adolescents could call their friends' parents to know about any plans.",
       "Kids tend to follow their parents' example when using social media at home."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Reading Comprehension", "Parental Guidance (Social Media)"],
     imageNames: []
@@ -426,7 +426,7 @@ createQuestion({
       "rule: regra",
       "use: uso"
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Vocabulary (Translation)", "Contextual Meaning"],
     imageNames: []
@@ -437,17 +437,17 @@ createQuestion({
     university: "ufsc",
     year: 2023,
     text: {
-      principal: "Determine a soma dos números associados à(s) proposição(ões) correta(s) e transfira o resultado para o cartão-resposta.\n\n01. Por medida de segurança, a administradora de um aplicativo envia por SMS aos seus usuários um código de seis algarismos distintos. Se os códigos devem ser iniciados com o algarismo 8, então o número máximo de códigos distintos que podem ser criados é maior do que 15.000.\n02. No desenvolvimento do binômio (2x + 3y)4, o coeficiente do termo cuja parte literal é x²y² é 108.\n04. Para o cargo da direção da escola estão concorrendo duas candidatas, A e B. Com base em uma pesquisa realizada recentemente com um grupo de 700 alunos, foi construído o gráfico abaixo, o qual apresenta a preferência dos eleitores por grupos (masculino e feminino).\n\n[Gráfico de barras: Eleitores por grupo e preferência (A, B, Brancos/Nulos) e por gênero (Feminino/Masculino)]\n\nAo escolher aleatoriamente um dos participantes da pesquisa, sabe-se que ele é eleitor da candidata A. Então, a probabilidade de ele ser do sexo feminino é de 93/161.\n\n08. A receita de uma empresa no primeiro semestre do ano foi apresentada por meio da tabela abaixo.\n\n[Tabela: Mês (Janeiro a Junho) e Receita (R$)]\n\nCom base na tabela, é correto afirmar que a receita mensal média da empresa no primeiro trimestre foi maior do que a receita mensal média da empresa no segundo trimestre.\n16. Marcos faz parte de um grupo de nove pessoas em seu local de trabalho. Foi determinada a constituição de uma comissão com cinco integrantes. Se Marcos obrigatoriamente deve estar nessa comissão, então existem 35 modos distintos de se fazer essa escolha.",
+      principal: "Determine a soma dos números associados à(s) proposição(ões) correta(s) e transfira o resultado para o cartão-resposta.\n\n01. Por medida de segurança, a administradora de um aplicativo envia por SMS aos seus usuários um código de seis algarismos distintos. Se os códigos devem ser iniciados com o algarismo 8, então o número máximo de códigos distintos que podem ser criados é maior do que 15.000.\n02. No desenvolvimento do binômio (2x + 3y)4, o coeficiente do termo cuja parte literal é x²y² é 108.\n04. Para o cargo da direção da escola estão concorrendo duas candidatas, A e B. Com base em uma pesquisa realizada recentemente com um grupo de 700 alunos, foi construído o gráfico abaixo, o qual apresenta a preferência dos eleitores por grupos (masculino e feminino).\n\n[Gráfico de barras: Eleitores por grupo e preferência (A, B, $Brancos/Nulos$) e por gênero ($Feminino/Masculino$)]\n\nAo escolher aleatoriamente um dos participantes da pesquisa, sabe-se que ele é eleitor da candidata A. Então, a probabilidade de ele ser do sexo feminino é de $93/161$.\n\n08. A receita de uma empresa no primeiro semestre do ano foi apresentada por meio da tabela abaixo.\n\n[Tabela: Mês (Janeiro a Junho) e Receita (R$)]\n\nCom base na tabela, é correto afirmar que a receita mensal média da empresa no primeiro trimestre foi maior do que a receita mensal média da empresa no segundo trimestre.\n16. Marcos faz parte de um grupo de nove pessoas em seu local de trabalho. Foi determinada a constituição de uma comissão com cinco integrantes. Se Marcos obrigatoriamente deve estar nessa comissão, então existem 35 modos distintos de se fazer essa escolha.",
       subItens: []
     },
     options: [
       "Por medida de segurança, a administradora de um aplicativo envia por SMS aos seus usuários um código de seis algarismos distintos. Se os códigos devem ser iniciados com o algarismo 8, então o número máximo de códigos distintos que podem ser criados é maior do que 15.000.",
       "No desenvolvimento do binômio (2x + 3y)4, o coeficiente do termo cuja parte literal é x²y² é 108.",
-      "Para o cargo da direção da escola estão concorrendo duas candidatas, A e B. Com base em uma pesquisa realizada recentemente com um grupo de 700 alunos, foi construído o gráfico abaixo, o qual apresenta a preferência dos eleitores por grupos (masculino e feminino).\n\n[Gráfico de barras: Eleitores por grupo e preferência (A, B, Brancos/Nulos) e por gênero (Feminino/Masculino)]\n\nAo escolher aleatoriamente um dos participantes da pesquisa, sabe-se que ele é eleitor da candidata A. Então, a probabilidade de ele ser do sexo feminino é de 93/161.",
+      "Para o cargo da direção da escola estão concorrendo duas candidatas, A e B. Com base em uma pesquisa realizada recentemente com um grupo de 700 alunos, foi construído o gráfico abaixo, o qual apresenta a preferência dos eleitores por grupos (masculino e feminino).\n\n[Gráfico de barras: Eleitores por grupo e preferência (A, B, $Brancos/Nulos$) e por gênero ($Feminino/Masculino$)]\n\nAo escolher aleatoriamente um dos participantes da pesquisa, sabe-se que ele é eleitor da candidata A. Então, a probabilidade de ele ser do sexo feminino é de $93/161$.",
       "A receita de uma empresa no primeiro semestre do ano foi apresentada por meio da tabela abaixo.\n\n[Tabela: Mês (Janeiro a Junho) e Receita (R$)]\n\nCom base na tabela, é correto afirmar que a receita mensal média da empresa no primeiro trimestre foi maior do que a receita mensal média da empresa no segundo trimestre.",
       "Marcos faz parte de um grupo de nove pessoas em seu local de trabalho. Foi determinada a constituição de uma comissão com cinco integrantes. Se Marcos obrigatoriamente deve estar nessa comissão, então existem 35 modos distintos de se fazer essa escolha."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Análise Combinatória (Permutações, Combinações)", "Probabilidade", "Binômio de Newton (Termo Geral)", "Estatística (Média, Análise de Gráficos e Tabelas)"],
     imageNames: []
@@ -490,7 +490,7 @@ createQuestion({
       "Se A é uma matriz quadrada de ordem 5 tal que det(A) = 10, então det(3A) = 150.",
       "Para qualquer valor k ∈ R, o sistema linear:\nx - 2y + z + 3w = 0\n3x + 3y + z + kw = 0\n2x + y + z + 4w = 0\npossui solução."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Álgebra Linear (Matrizes, Determinantes, Matriz Inversa, Sistemas Lineares)", "Resolução de Problemas"],
     imageNames: []
@@ -501,7 +501,7 @@ createQuestion({
     university: "ufsc",
     year: 2023,
     text: {
-      principal: "Considere as funções reais g(x) = −1 + 2 sen(x) e h(x) = −2 − 3 cos(x − π) para x∈ [−2π, 2π ], determine a soma dos números associados à(s) proposição(ões) correta(s) e transfira o resultado para o cartão-resposta.\n\n01. A imagem da função g é o intervalo [−3,1].\n02. O período da função h é π.\n04. Se x ∈ [0,2π ], então o único valor de x que satisfaz a equação h(x) = −2 é 3π/2.\n08. g(π/2) = -1.\n16. tg(-π/4) = h(0)/g(0).\n32. O valor máximo da função h é 3.",
+      principal: "Considere as funções reais g(x) = −1 + 2 $\\sin$(x) e h(x) = −2 − 3 $\\cos$(x − π) para x∈ [−2π, 2π ], determine a soma dos números associados à(s) proposição(ões) correta(s) e transfira o resultado para o cartão-resposta.\n\n01. A imagem da função g é o intervalo [−3,1].\n02. O período da função h é π.\n04. Se x ∈ [0,2π ], então o único valor de x que satisfaz a equação h(x) = −2 é 3π/2.\n08. g(π/2) = -1.\n16. $\\tan$(-π/4) = h(0)/g(0).\n32. O valor máximo da função h é 3.",
       subItens: []
     },
     options: [
@@ -509,10 +509,10 @@ createQuestion({
       "O período da função h é π.",
       "Se x ∈ [0,2π ], então o único valor de x que satisfaz a equação h(x) = −2 é 3π/2.",
       "g(π/2) = -1.",
-      "tg(-π/4) = h(0)/g(0).",
+      "$\\tan$(-π/4) = h(0)/g(0).",
       "O valor máximo da função h é 3."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções Trigonométricas (Seno, Cosseno, Tangente)", "Imagem", "Período", "Equações Trigonométricas"],
     imageNames: []
@@ -523,17 +523,17 @@ createQuestion({
     university: "ufsc",
     year: 2023,
     text: {
-      principal: "Determine a soma dos números associados à(s) proposição(ões) correta(s) e transfira o resultado para o cartão-resposta.\n\n01. Maria contratou um plano de celular pós-pago no valor de R$ 130,00 mensais. A empresa informou que pagamentos com atraso são acrescidos de juros de R$ 0,30 por dia de atraso, mais multa no valor de R$ 2,26. Se em um determinado mês Maria atrasou o pagamento em 15 dias, então o aumento no valor da fatura nesse mês foi de exatos 5,2%.\n02. O valor da expressão 5^(-log₂ 3 * log₃ 2) é divisível por 5.\n04. Sejam a, b ∈ R. Se a ≥ b, então a² ≥ b².\n08. Numa turma formada por 54 crianças com 10 anos de idade, sabe-se que 43 crianças acessam a internet, 1/3 das crianças são meninas e 3/4 dos meninos acessam a internet. Com base nessas informações, podemos afirmar que o número de meninas da turma que acessam a internet é 16.\n16. Se a função f: [a, +∞[ → [b, +∞[ definida por f(x) = x² – 4x + 9 é bijetora, então a + b ≥ 7.",
+      principal: "Determine a soma dos números associados à(s) proposição(ões) correta(s) e transfira o resultado para o cartão-resposta.\n\n01. Maria contratou um plano de celular pós-pago no valor de R$ 130,00 mensais. A empresa informou que pagamentos com atraso são acrescidos de juros de R$ 0,30 por dia de atraso, mais multa no valor de R$ 2,26. Se em um determinado mês Maria atrasou o pagamento em 15 dias, então o aumento no valor da fatura nesse mês foi de exatos 5,2%.\n02. O valor da expressão 5^(-$\\log$₂ 3 * $\\log$₃ 2) é divisível por 5.\n04. Sejam a, b ∈ R. Se a ≥ b, então a² ≥ b².\n08. Numa turma formada por 54 crianças com 10 anos de idade, sabe-se que 43 crianças acessam a internet, $1/3$ das crianças são meninas e $3/4$ dos meninos acessam a internet. Com base nessas informações, podemos afirmar que o número de meninas da turma que acessam a internet é 16.\n16. Se a função f: [a, +∞[ → [b, +∞[ definida por f(x) = x² – 4x + 9 é bijetora, então a + b ≥ 7.",
       subItens: []
     },
     options: [
       "Maria contratou um plano de celular pós-pago no valor de R$ 130,00 mensais. A empresa informou que pagamentos com atraso são acrescidos de juros de R$ 0,30 por dia de atraso, mais multa no valor de R$ 2,26. Se em um determinado mês Maria atrasou o pagamento em 15 dias, então o aumento no valor da fatura nesse mês foi de exatos 5,2%.",
-      "O valor da expressão 5^(-log₂ 3 * log₃ 2) é divisível por 5.",
+      "O valor da expressão 5^(-$\\log$₂ 3 * $\\log$₃ 2) é divisível por 5.",
       "Sejam a, b ∈ R. Se a ≥ b, então a² ≥ b².",
-      "Numa turma formada por 54 crianças com 10 anos de idade, sabe-se que 43 crianças acessam a internet, 1/3 das crianças são meninas e 3/4 dos meninos acessam a internet. Com base nessas informações, podemos afirmar que o número de meninas da turma que acessam a internet é 16.",
+      "Numa turma formada por 54 crianças com 10 anos de idade, sabe-se que 43 crianças acessam a internet, $1/3$ das crianças são meninas e $3/4$ dos meninos acessam a internet. Com base nessas informações, podemos afirmar que o número de meninas da turma que acessam a internet é 16.",
       "Se a função f: [a, +∞[ → [b, +∞[ definida por f(x) = x² – 4x + 9 é bijetora, então a + b ≥ 7."
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Matemática Financeira (Porcentagem, Juros)", "Logaritmos", "Desigualdades", "Conjuntos Numéricos", "Funções (Bijetora)"],
     imageNames: []
@@ -555,7 +555,7 @@ createQuestion({
       "Se (-5x+4)/(x²-3x+2) = A/(x-2) + B/(x-1), então A + B = -5.",
       "O número 2 é uma raiz de multiplicidade 1 da equação x⁴ – 4x³ + 7x² − 12x + 12 = 0."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Polinômios (Definição, Raízes, Grau, Divisão de Polinômios)", "Números Complexos", "Frações Algébricas"],
     imageNames: []
@@ -577,7 +577,7 @@ createQuestion({
       "Se uma parábola tem vértice na origem, eixo de simetria coincidindo com o eixo x e passa pelo ponto P(8,2), então uma equação que descreve essa parábola é x = 4y².",
       "Se os pontos A(5,0) e P(x, y) estão sobre uma elipse cujos focos são F₁(−3,0) e F₂(3,0), então o perímetro do triângulo PF₁F₂ é 16."
     ],
-    correctAnswer: -13,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Analítica (Distância entre Pontos, Retas, Mediatriz, Parábola, Elipse)", "Desigualdades Lineares (Região Plana)"],
     imageNames: []
@@ -597,7 +597,7 @@ createQuestion({
       "Abaixo temos uma planificação de uma pirâmide regular cujos lados da base medem 8 cm.\n[Imagem: Planificação de uma pirâmide regular]\nSe a altura das faces laterais mede 5 cm, então o volume da pirâmide é 64 cm³.",
       "Se uma esfera está inscrita em um cubo cuja diagonal mede 12√3 cm, então o volume dessa esfera é 288 π cm³."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Espacial (Cilindro, Cone, Pirâmide, Esfera, Cubo)", "Volume", "Área"],
     imageNames: []
@@ -619,7 +619,7 @@ createQuestion({
       "O valor mensal referente às despesas de manutenção da casa 1 é de R$ 712,00.",
       "O comprimento do segmento CE é 8√5 m."
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Geometria Plana (Área de Retângulo, Quadrado, Paralelogramo, Triângulo, Polígonos)", "Geometria Analítica (Distância entre Pontos)", "Porcentagem", "Raciocínio Lógico"],
     imageNames: []
@@ -630,17 +630,17 @@ createQuestion({
     university: "ufsc",
     year: 2023,
     text: {
-      principal: "Determine a soma dos números associados à(s) proposição(ões) correta(s) e transfira o resultado para o cartão-resposta.\n\n01. A figura a seguir mostra os gráficos das funções f e g. Se f(x) = a + b · 2x e g(x) = mx + n, então g(4) = -3.\n[Gráfico de duas funções, uma exponencial f e uma linear g]\n02. A área da região plana delimitada pelas retas y = 4, y = x + 1 e y = -x/2 + 1 é 13,5.\n04. Se i é a unidade imaginária, então z = i⁵³ + i⁸⁷ + i¹⁰⁰ não é um número real.\n08. Seja a função f: R – {3} → R – {1} definida por f(x) = (x+2)/(x-3). Se a função g é a inversa da f e g(a) = 4, então a é múltiplo de 2.\n16. Existe x ∈ R tal que |x + 2| + |x − 3| = 4.",
+      principal: "Determine a soma dos números associados à(s) proposição(ões) correta(s) e transfira o resultado para o cartão-resposta.\n\n01. A figura a seguir mostra os gráficos das funções f e g. Se f(x) = a + b · 2x e g(x) = mx + n, então g(4) = -3.\n[Gráfico de duas funções, uma exponencial f e uma linear g]\n02. A área da região plana delimitada pelas retas y = 4, y = x + 1 e y = -$x/2$ + 1 é 13,5.\n04. Se i é a unidade imaginária, então z = i⁵³ + i⁸⁷ + i¹⁰⁰ não é um número real.\n08. Seja a função f: R – {3} → R – {1} definida por f(x) = (x+2)/(x-3). Se a função g é a inversa da f e g(a) = 4, então a é múltiplo de 2.\n16. Existe x ∈ R tal que |x + 2| + |x − 3| = 4.",
       subItens: []
     },
     options: [
       "A figura a seguir mostra os gráficos das funções f e g. Se f(x) = a + b · 2x e g(x) = mx + n, então g(4) = -3.",
-      "A área da região plana delimitada pelas retas y = 4, y = x + 1 e y = -x/2 + 1 é 13,5.",
+      "A área da região plana delimitada pelas retas y = 4, y = x + 1 e y = -$x/2$ + 1 é 13,5.",
       "Se i é a unidade imaginária, então z = i⁵³ + i⁸⁷ + i¹⁰⁰ não é um número real.",
       "Seja a função f: R – {3} → R – {1} definida por f(x) = (x+2)/(x-3). Se a função g é a inversa da f e g(a) = 4, então a é múltiplo de 2.",
       "Existe x ∈ R tal que |x + 2| + |x − 3| = 4."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções (Gráficos, Exponencial, Afim, Inversa)", "Área de Região Plana", "Números Complexos", "Equações Modulares"],
     imageNames: []
@@ -662,7 +662,7 @@ createQuestion({
       "durante a divisão reducional, ocorre inicialmente a separação das cromátides irmãs e posteriormente a dos cromossomos homólogos.",
       "atualmente se sabe que os cromossomos são constituídos de uma sequência ininterrupta de genes."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Genética (Cromossomos, Hereditariedade)", "Biologia Celular (Meiose, Células Germinativas)", "Reprodução"],
     imageNames: []
@@ -683,9 +683,9 @@ createQuestion({
       "a quitina é encontrada no esqueleto externo de animais do grupo dos artrópodes.",
       "o amido é um polissacarídeo cujos monômeros são a frutose."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
-    conteudo: ["Bioquímica (Carboidratos/Glicídios: Tipos, Funções, Metabolismo Celular)", "Célula (Mitocôndrias)", "Biologia dos Animais (Quitina)", "Ácidos Nucleicos"],
+    conteudo: ["Bioquímica ($Carboidratos/Glic$ídios: Tipos, Funções, Metabolismo Celular)", "Célula (Mitocôndrias)", "Biologia dos Animais (Quitina)", "Ácidos Nucleicos"],
     imageNames: []
 }),
 
@@ -706,7 +706,7 @@ createQuestion({
       "uma característica semelhante entre crocodilos e galinhas-d'angola é a presença de casca rígida, o que permitiu o desenvolvimento do embrião no ambiente terrestre.",
       "um gafanhoto serviu de alimento para uma galinha d'angola e esta, por sua vez, serviu de alimento para um crocodilo. O animal que se encontra no topo dessa cadeia alimentar pertence ao terceiro nível trófico."
     ],
-    correctAnswer: -12,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Evolução (Seleção Natural, Ancestralidade, Répteis, Aves)", "Ecologia (Cadeia Alimentar, Níveis Tróficos)", "Zoologia (Crocodilos, Aves, Anexos Embrionários)"],
     imageNames: []
@@ -728,7 +728,7 @@ createQuestion({
       "as atividades dos sistemas fisiológicos representadas na figura são controladas por ações dos sistemas nervoso e endócrino.",
       "a figura é adequada para explicar a fisiologia dos animais deuterostômios."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Fisiologia Animal (Sistemas Corporais: Respiratório, Circulatório, Digestório, Urinário, Nervoso, Endócrino)", "Homeostase", "Zoologia (Insetos, Moluscos, Ascaris, Taenia, Deuterostômios)"],
     imageNames: []
@@ -749,7 +749,7 @@ createQuestion({
       "é um tipo especial de tecido conjuntivo, bastante influenciado por estímulos nervosos e hormonais.",
       "constitui o maior depósito corporal de energia, sob a forma de glicogênio."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Histologia (Tecido Adiposo)", "Fisiologia Humana (Obesidade, Doenças Associadas)", "Metabolismo Energético"],
     imageNames: []
@@ -770,7 +770,7 @@ createQuestion({
       "IV-B",
       "V-E"
     ],
-    correctAnswer: -15,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Botânica (Tecidos Vegetais: Floema, Súber, Esclerênquima, Felogênio; Órgãos Vegetais: Carpelo; Funções Vegetais: Proteção, Circulação, Sustentação, Reprodução, Crescimento)"],
     imageNames: []
@@ -791,7 +791,7 @@ createQuestion({
       "o betacaroteno é precursor da vitamina A, que previne a xeroftalmia e a cegueira noturna causadas por carência vitamínica.",
       "o endosperma presente no grão do arroz transgênico tem 14 cromossomos, sendo 12 das células haploides da planta convencional e dois introduzidos por transgenia."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Biotecnologia (Transgenia, Arroz Dourado)", "Botânica (Monocotiledôneas, Endosperma, Cromossomos, Flores, Frutos)", "Nutrição (Vitamina A)", "Genética (Cromossomos, Haploidia)"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "do cruzamento de duas plantas duplo-heterozigotas obteremos 50% dos descendentes de cor branca e 50% de coloridos.",
       "dos 96 descendentes obtidos desse cruzamento espera-se 42 plantas com flores brancas."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Genética (Herança Genética, Interação Gênica, Epistasia, Segunda Lei de Mendel, Probabilidade Genética, Cruzamentos)"],
     imageNames: []
@@ -855,7 +855,7 @@ createQuestion({
       "apenas dois dos grupos apresentados possuem representantes parasitas.",
       "a respiração cutânea possui a participação do sistema circulatório localizado abaixo do tecido de revestimento. Esse padrão não é observado nos animais que apresentam a respiração por difusão."
     ],
-    correctAnswer: -9,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Zoologia (Platelmintos, Nematelmintos, Anelídeos; Morfologia, Simetria, Folhetos Embrionários, Celoma, Sistemas: Digestório, Respiratório, Circulatório)", "Parasitologia (Doenças)", "Fisiologia Animal"],
     imageNames: []

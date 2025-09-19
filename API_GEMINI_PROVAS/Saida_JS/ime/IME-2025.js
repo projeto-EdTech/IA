@@ -129,7 +129,7 @@ createQuestion({
     university: "ime",
     year: 2025,
     text: {
-      principal: "Seja y = ab^(x-10), a e b reais, onde os valores de x e log(y) são relacionados pelo gráfico abaixo.\n[Gráfico mostrando log(y) no eixo vertical e x no eixo horizontal, com pontos (0.25, 0) e (0.5, 10)]\nEntão o valor da a + b é",
+      principal: "Seja y = ab^(x-10), a e b reais, onde os valores de x e $\\log$(y) são relacionados pelo gráfico abaixo.\n[Gráfico mostrando $\\log$(y) no eixo vertical e x no eixo horizontal, com pontos (0.25, 0) e (0.5, 10)]\nEntão o valor da a + b é",
       subItens: []
     },
     options: [
@@ -154,11 +154,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/5",
-      "2/5",
-      "1/2",
-      "3/5",
-      "4/5"
+      "$1/5$",
+      "$2/5$",
+      "$1/2$",
+      "$3/5$",
+      "$4/5$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "ime",
     year: 2025,
     text: {
-      principal: "O número de soluções da equação cos³(x) + sen³(x) + ½ sen(2x) = 1 no intervalo [0,2π) é",
+      principal: "O número de soluções da equação $\\cos$³(x) + $\\sin$³(x) + ½ $\\sin$(2x) = 1 no intervalo [0,2π) é",
       subItens: []
     },
     options: [
@@ -255,15 +255,15 @@ createQuestion({
     university: "ime",
     year: 2025,
     text: {
-      principal: "Seja I o incentro do triângulo ABC e L a interseção da semi-reta AI com a circunferência circunscrita ao triângulo ABC, com A e L distintos. Dado que AB + AC = 2BC, o valor de BL/AL é",
+      principal: "Seja I o incentro do triângulo ABC e L a interseção da semi-reta AI com a circunferência circunscrita ao triângulo ABC, com A e L distintos. Dado que AB + AC = 2BC, o valor de $BL/AL$ é",
       subItens: []
     },
     options: [
-      "1/2",
+      "$1/2$",
       "1",
-      "3/2",
+      "$3/2$",
       "2",
-      "5/2"
+      "$5/2$"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],
@@ -297,7 +297,7 @@ createQuestion({
     university: "ime",
     year: 2025,
     text: {
-      principal: "No cubo ABCDEFGH, a aresta mede l. Conforme a figura, o ponto B₁, sobre a aresta AB, é tal que AB₁ = l/3; o ponto D₁, sobre a aresta AD, é tal que AD₁ = l/3 e o ponto H₁, sobre a aresta GH, é tal que GH₁ = l/3.\n[Diagrama de um cubo com os vértices rotulados e os pontos B1, D1 e H1 indicados nas arestas.]\nA área do triângulo B₁D₁H₁ é",
+      principal: "No cubo ABCDEFGH, a aresta mede l. Conforme a figura, o ponto B₁, sobre a aresta AB, é tal que AB₁ = $l/3$; o ponto D₁, sobre a aresta AD, é tal que AD₁ = $l/3$ e o ponto H₁, sobre a aresta GH, é tal que GH₁ = $l/3$.\n[Diagrama de um cubo com os vértices rotulados e os pontos B1, D1 e H1 indicados nas arestas.]\nA área do triângulo B₁D₁H₁ é",
       subItens: []
     },
     options: [
@@ -322,11 +322,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "2/19 g, de baixo para cima (enrolando o fio)",
-      "2/19 g, de cima para baixo (desenrolando o fio)",
-      "4/19 g, de baixo para cima (enrolando o fio)",
-      "4/11 g, de cima para baixo (desenrolando o fio)",
-      "4/11 g, de baixo para cima (enrolando o fio)"
+      "$2/19$ g, de baixo para cima (enrolando o fio)",
+      "$2/19$ g, de cima para baixo (desenrolando o fio)",
+      "$4/19$ g, de baixo para cima (enrolando o fio)",
+      "$4/11$ g, de cima para baixo (desenrolando o fio)",
+      "$4/11$ g, de baixo para cima (enrolando o fio)"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -402,7 +402,7 @@ createQuestion({
     university: "ime",
     year: 2025,
     text: {
-      principal: "Para simular o protótipo de um navio, um engenheiro constrói um prisma reto, com seção reta no formato de um triângulo equilátero, a partir de quatro chapas metálicas (duas triangulares de lado L, duas retangulares 6L × L) e uma chapa retangular superior de massa desprezível e dimensões 6L × L. A estrutura encontra-se bem vedada e contém ar em seu interior. Uma carga cúbica de aresta 0,5L é fixada simetricamente sobre o prisma e em conformidade com as figuras. Em seguida, a estrutura (prisma + carga) é colocada numa piscina, afundando h.\nDados:\n• massa específica superficial das chapas metálicas: 8 kg/m²;\n• massa específica volumétrica da carga cúbica: 240 kg/m³;\n• massa específica da água: 1000 kg/m³;\n• L = 20 cm;\n• √3 ≈ 1,7;\n• 2√3 / 5√3 ≈ 0,68.\nSupondo que a estrutura flutue de forma equilibrada, o valor de h, em centímetros, pode ser arredondado para:",
+      principal: "Para simular o protótipo de um navio, um engenheiro constrói um prisma reto, com seção reta no formato de um triângulo equilátero, a partir de quatro chapas metálicas (duas triangulares de lado L, duas retangulares 6L × L) e uma chapa retangular superior de massa desprezível e dimensões 6L × L. A estrutura encontra-se bem vedada e contém ar em seu interior. Uma carga cúbica de aresta 0,5L é fixada simetricamente sobre o prisma e em conformidade com as figuras. Em seguida, a estrutura (prisma + carga) é colocada numa piscina, afundando h.\nDados:\n• massa específica superficial das chapas metálicas: 8 $kg/m$²;\n• massa específica volumétrica da carga cúbica: 240 $kg/m$³;\n• massa específica da água: 1000 $kg/m$³;\n• L = 20 cm;\n• √3 ≈ 1,7;\n• 2√3 / 5√3 ≈ 0,68.\nSupondo que a estrutura flutue de forma equilibrada, o valor de h, em centímetros, pode ser arredondado para:",
       subItens: []
     },
     options: [
@@ -448,11 +448,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "mA√(2k/M + v²) / eB",
-      "m√(k/M + v²) / eB",
-      "mA√(2/M) / eB",
-      "mA√(k/M) / eB",
-      "2mA√(2/M) / eB"
+      "mA√($2k/M$ + v²) / eB",
+      "m√($k/M$ + v²) / eB",
+      "mA√($2/M$) / eB",
+      "mA√($k/M$) / eB",
+      "2mA√($2/M$) / eB"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -469,11 +469,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "½ mg(cosα + senα)",
+      "½ mg($\\cos$α + $\\sin$α)",
       "½ mg",
-      "½ mg cosα √(cos²α + ½ sen²α)",
-      "½ mg cosα √(cos²α + ¼ sen²α)",
-      "½ mg cosα"
+      "½ mg $\\cos$α √($\\cos$²α + ½ $\\sin$²α)",
+      "½ mg $\\cos$α √($\\cos$²α + ¼ $\\sin$²α)",
+      "½ mg $\\cos$α"
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -528,15 +528,15 @@ createQuestion({
     university: "ime",
     year: 2025,
     text: {
-      principal: "Para simular a órbita (x(t),y(t)) do satélite de um planeta, no referencial do planeta, utilizou-se um modelo unidimensional com as seguintes equações:\nx(t) = A cos(wt)\ny(t) = B sen(wt)\nonde A, B e ω são constantes e t é o instante de tempo.\nDados:\n• massa do planeta: M;\n• massa do satélite: m, onde m << M;\n• constante universal de gravitação: G;\n• C = √(A² – B²);\n• localização do centro do planeta: (C,0).\nA diferença entre a maior e a menor energia potencial gravitacional do satélite é:",
+      principal: "Para simular a órbita (x(t),y(t)) do satélite de um planeta, no referencial do planeta, utilizou-se um modelo unidimensional com as seguintes equações:\nx(t) = A $\\cos$(wt)\ny(t) = B $\\sin$(wt)\nonde A, B e ω são constantes e t é o instante de tempo.\nDados:\n• massa do planeta: M;\n• massa do satélite: m, onde m << M;\n• constante universal de gravitação: G;\n• C = √(A² – B²);\n• localização do centro do planeta: (C,0).\nA diferença entre a maior e a menor energia potencial gravitacional do satélite é:",
       subItens: []
     },
     options: [
-      "2 AGmM/B²",
-      "CGmM/B²",
-      "2CGmM/A²",
-      "2CGmM/B²",
-      "AGmM/C²"
+      "2 $AGmM/B$²",
+      "$CGmM/B$²",
+      "$2CGmM/A$²",
+      "$2CGmM/B$²",
+      "$AGmM/C$²"
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -553,11 +553,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "u / (sen(β – α)/senβ + h senα/L)",
-      "u cosβ / (cos(α + β) + h senα/L)",
-      "u senβ / (senβ + h senα/L)",
-      "u senβ / (sen(β + α) + h senα/L)",
-      "u / (cosα + h senα cosβ/L)"
+      "u / ($\\sin$(β – α)/senβ + h $\\sin$α/L)",
+      "u $\\cos$β / ($\\cos$(α + β) + h $\\sin$α/L)",
+      "u $\\sin$β / ($\\sin$β + h $\\sin$α/L)",
+      "u $\\sin$β / ($\\sin$(β + α) + h $\\sin$α/L)",
+      "u / ($\\cos$α + h $\\sin$α $\\cos$β/L)"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -574,7 +574,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "fΔn/n",
+      "fΔ$n/n$",
       "fΔn/(n - 1)",
       "-fΔn/(n - 1)",
       "-fΔn/(n² – 1)",
@@ -591,7 +591,7 @@ createQuestion({
     university: "ime",
     year: 2025,
     text: {
-      principal: "Em uma prática de laboratório, a superfície externa de uma parede é integralmente recoberta com um material isolante térmico. Por sua vez, a superfície interna encontra-se exposta a uma chama.\nDados:\n• condutividade térmica da parede: 3 W/(m.°C);\n• condutividade térmica do material isolante: 0,02 W/(m.°C);\n• espessura da parede: 15 cm;\n• espessura do material isolante: 4 mm;\n• temperatura na superfície livre do isolante: 45 °C;\n• temperatura na superfície da parede em contato com a chama: 295 °C;\n• calor latente de fusão do gelo: 336 J/g;\n• dimensões da parede e da camada isolante: 2 m × 0,84 m.\nA massa de gelo máxima, em kg, que a energia incidente na parede é capaz de fundir em uma hora de experimento é:",
+      principal: "Em uma prática de laboratório, a superfície externa de uma parede é integralmente recoberta com um material isolante térmico. Por sua vez, a superfície interna encontra-se exposta a uma chama.\nDados:\n• condutividade térmica da parede: 3 W/(m.°C);\n• condutividade térmica do material isolante: 0,02 W/(m.°C);\n• espessura da parede: 15 cm;\n• espessura do material isolante: 4 mm;\n• temperatura na superfície livre do isolante: 45 °C;\n• temperatura na superfície da parede em contato com a chama: 295 °C;\n• calor latente de fusão do gelo: 336 $J/g$;\n• dimensões da parede e da camada isolante: 2 m × 0,84 m.\nA massa de gelo máxima, em kg, que a energia incidente na parede é capaz de fundir em uma hora de experimento é:",
       subItens: []
     },
     options: [
@@ -612,7 +612,7 @@ createQuestion({
     university: "ime",
     year: 2025,
     text: {
-      principal: "Em uma determinada região esférica do espaço, a distribuição volumétrica de cargas é tal que o campo elétrico em seu interior é o vetor E(r) ûr, onde ûr é o vetor unitário na direção radial e E(r), em V/m, é igual a:\nE(r) = { Acos(3πr / 2R) + (2-r)² / R - 1, para 0 ≤ r ≤ R; 0, para r > R.\nem que A é uma constante, r é a distância até o centro da esfera e R é o raio da esfera, em metros.\nObservação:\n• R < 3 m.\nCom as condições impostas acima, a constante A, em V/m, necessariamente é:",
+      principal: "Em uma determinada região esférica do espaço, a distribuição volumétrica de cargas é tal que o campo elétrico em seu interior é o vetor E(r) ûr, onde ûr é o vetor unitário na direção radial e E(r), em $V/m$, é igual a:\nE(r) = { Acos(3πr / 2R) + (2-r)² / R - 1, para 0 ≤ r ≤ R; 0, para r > R.\nem que A é uma constante, r é a distância até o centro da esfera e R é o raio da esfera, em metros.\nObservação:\n• R < 3 m.\nCom as condições impostas acima, a constante A, em $V/m$, necessariamente é:",
       subItens: []
     },
     options: [

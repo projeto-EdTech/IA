@@ -3,7 +3,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "Leia o texto para responder às questões 01 e 02.\nSaúde e bem-estar. (Por Ma. Vanessa dos Santos).\nSegundo a Organização Mundial de Saúde (OMS), saúde pode ser definida como \"um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doença ou enfermidades”. Sendo assim, não basta apenas estar sem nenhuma doença, é necessário estar bem consigo mesmo e com o corpo, sem sentir dores ou até mesmo tristeza.\nPara conseguir bem-estar físico, é importante estar sempre ativo através da prática de exercícios. Não há idade para iniciar as atividades físicas, por isso, faça uma caminhada, natação ou até mesmo exercícios mais pesados, como musculação. O importante é realizar uma atividade que gere bem-estar. Além disso, é válido ter sempre em mente que os exercícios físicos aumentam a expectativa de vida, diminuem o estresse, além de proporcionarem mais beleza quando o assunto é estética.\nPara conseguir bem-estar mental, é preciso preocupar-se com o emocional. Por que se estressar com coisas pequenas? Mantenha a alegria e as atitudes positivas! Evite sentimentos ruins e sempre tente fazer com que as pessoas tenham uma experiência agradável ao seu lado. Ninguém gosta da companhia de pessoas amargas e rancorosas, não é mesmo?\nO bem-estar social, por sua vez, diz respeito às relações sociais de cada indivíduo. Para estar bem socialmente, é necessário manter boas relações com a família, no ambiente de trabalho e com a sociedade em geral. Essa interação com outros indivíduos é fundamental para o bem-estar individual.\nPara ter saúde, é fundamental, portanto, estar feliz e em forma. Também é importante ter um bom convívio social, ter amigos e relacionar-se. Percebe-se, dessa forma, que nem sempre ter saúde é fácil e nem mesmo é possível ter saúde em todo o tempo.\nDisponível em: https://www.biologianet.com/saude-bem-estar. Acesso em: 02 nov. 2023.\n01. De acordo com o texto, assinale a alternativa correta.",
+      principal: "Leia o texto para responder às questões 01 e 02.\nSaúde e bem-estar. (Por Ma. Vanessa dos Santos).\nSegundo a Organização Mundial de Saúde (OMS), saúde pode ser definida como \"um estado de completo bem-estar físico, mental e social, e não apenas a ausência de doença ou enfermidades”. Sendo assim, não basta apenas estar sem nenhuma doença, é necessário estar bem consigo mesmo e com o corpo, sem sentir dores ou até mesmo tristeza.\nPara conseguir bem-estar físico, é importante estar sempre ativo através da prática de exercícios. Não há idade para iniciar as atividades físicas, por isso, faça uma caminhada, natação ou até mesmo exercícios mais pesados, como musculação. O importante é realizar uma atividade que gere bem-estar. Além disso, é válido ter sempre em mente que os exercícios físicos aumentam a expectativa de vida, diminuem o estresse, além de proporcionarem mais beleza quando o assunto é estética.\nPara conseguir bem-estar mental, é preciso preocupar-se com o emocional. Por que se estressar com coisas pequenas? Mantenha a alegria e as atitudes positivas! Evite sentimentos ruins e sempre tente fazer com que as pessoas tenham uma experiência agradável ao seu lado. Ninguém gosta da companhia de pessoas amargas e rancorosas, não é mesmo?\nO bem-estar social, por sua vez, diz respeito às relações sociais de cada indivíduo. Para estar bem socialmente, é necessário manter boas relações com a família, no ambiente de trabalho e com a sociedade em geral. Essa interação com outros indivíduos é fundamental para o bem-estar individual.\nPara ter saúde, é fundamental, portanto, estar feliz e em forma. Também é importante ter um bom convívio social, ter amigos e relacionar-se. Percebe-se, dessa forma, que nem sempre ter saúde é fácil e nem mesmo é possível ter saúde em todo o tempo.\nDisponível em: https://www.biologianet.$com/saude$-bem-estar. Acesso em: 02 nov. 2023.\n01. De acordo com o texto, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -43,7 +43,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "De acordo com a tirinha, responda à questão 03.\nOLHA, HAROLDO! TEM UM QUATIZINHO ALÍ NO CHÃO.\nESTÁ VIVO?\nACHO QUE SIM, MAS MACHUCADO. VEJA COMO ELE RESPIRA COM DIFICULDADE.\nMELHOR NÃO TOCAR NELE SE ESTÁ MACHUCADO.\nISSO. VOCÊ ESPERA AQUI E FAZ GUARDA. EU VOU E TRAGO MAMÃE.\nESPERO QUE ELA POSSA AJUDAR\nCLARO QUE PODE! VOCÊ NÃO PODE VIRAR MÃE SE VOCÊ NÃO PUDER CONSERTAR TUDO MUITO BEM.\nDisponível em: https://pt.quora.com/Qual-a-sua-opini%C3%A3o-sobre-o-final-das-tirinhas-Calvin-e-Haroldo\n03. No terceiro quadrinho na frase \"Melhor não tocar nele se está machucado\", a palavra destacada é classificada como:",
+      principal: "De acordo com a tirinha, responda à questão 03.\nOLHA, HAROLDO! TEM UM QUATIZINHO ALÍ NO CHÃO.\nESTÁ VIVO?\nACHO QUE SIM, MAS MACHUCADO. VEJA COMO ELE RESPIRA COM DIFICULDADE.\nMELHOR NÃO TOCAR NELE SE ESTÁ MACHUCADO.\nISSO. VOCÊ ESPERA AQUI E FAZ GUARDA. EU VOU E TRAGO MAMÃE.\nESPERO QUE ELA POSSA AJUDAR\nCLARO QUE PODE! VOCÊ NÃO PODE VIRAR MÃE SE VOCÊ NÃO PUDER CONSERTAR TUDO MUITO BEM.\nDisponível em: https://pt.quora.$com/Qual$-a-sua-opini%C3%A3o-sobre-o-final-das-tirinhas-Calvin-e-Haroldo\n03. No terceiro quadrinho na frase \"Melhor não tocar nele se está machucado\", a palavra destacada é classificada como:",
       subItens: []
     },
     options: [
@@ -83,7 +83,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "05. \"Inspirado nas vanguardas artísticas europeias, o movimento [...] propõe o rompimento com o academicismo e o tradicionalismo. É assim que a liberdade estética e diversas experimentações artísticas são apresentadas nesse momento.\"\nDisponível em: https://www.todamateria.com.br/origens-da-literatura-brasileira/\nAssinale sobre qual período da Literatura Brasileira o trecho se refere, o qual possui entre uns dos principais autores Murilo Mendes na segunda geração.",
+      principal: "05. \"Inspirado nas vanguardas artísticas europeias, o movimento [...] propõe o rompimento com o academicismo e o tradicionalismo. É assim que a liberdade estética e diversas experimentações artísticas são apresentadas nesse momento.\"\nDisponível em: https://www.todamateria.com.$br/origens$-da-literatura-brasileira/\nAssinale sobre qual período da Literatura Brasileira o trecho se refere, o qual possui entre uns dos principais autores Murilo Mendes na segunda geração.",
       subItens: []
     },
     options: [
@@ -123,7 +123,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "ATENÇÃO CANDIDATO!\nResponda as questões de INGLÊS ou ESPANHOL, de acordo com a opção escolhida no ato de sua inscrição.\nLÍNGUA ESTRANGEIRA - INGLÊS.\nHOW CAN YOU STAND THESE CARTOONS?\nTHEY'RE JUST HALF-HOUR COMMERCIALS FOR TOYS. AND WHEN THEY'RE NOT BORING, THEY'RE PREACHY.\nAND THESE CHARACTERS DON'T EVEN MOVE. THEY JUST STAND AROUND BLINKING! WHAT KIND OF CARTOON IS THAT?\nMEET MY DAD, THE GENE SISKEL OF SATURDAY MORNING TV.\nGene Siskel an american movie critic. Saturday, April 30, 1988. Your daily C&H.:r/calvinandhobbes\n07. Na tirinha acima o pai de Calvin usa a palavra \"boring” como um adjetivo. Nas frases, a palavra BORING também está sendo usada como adjetivo com exceção em:",
+      principal: "ATENÇÃO CANDIDATO!\nResponda as questões de INGLÊS ou ESPANHOL, de acordo com a opção escolhida no ato de sua inscrição.\nLÍNGUA ESTRANGEIRA - INGLÊS.\nHOW CAN YOU STAND THESE CARTOONS?\nTHEY'RE JUST HALF-HOUR COMMERCIALS FOR TOYS. AND WHEN THEY'RE NOT BORING, THEY'RE PREACHY.\nAND THESE CHARACTERS DON'T EVEN MOVE. THEY JUST STAND AROUND BLINKING! WHAT KIND OF CARTOON IS THAT?\nMEET MY DAD, THE GENE SISKEL OF SATURDAY MORNING TV.\nGene Siskel an american movie critic. Saturday, April 30, 1988. Your daily C&H.:$r/calvinandhobbes$\n07. Na tirinha acima o pai de Calvin usa a palavra \"boring” como um adjetivo. Nas frases, a palavra BORING também está sendo usada como adjetivo com exceção em:",
       subItens: []
     },
     options: [
@@ -163,7 +163,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "09. A tabela de pronomes do site ThoughCo ajudará a completar, com os pronomes adequados, os espaços nos quais se encontram os números de 1 a 4 no texto.\nPronouns and Possessive Forms\nSubjects Objects Poss. Adjectives Poss. Pronouns\nI me my mine\nyou you your yours\nhe, she, it him, her, it his, her, its his, hers\nwe us our ours\nyou you your yours\nthey them their theirs\nThought Co.\nTabela extraída de thoughtco.com/subject-possessive-pronouns-4176482\nSingapore:\n\"The tiny island of Singapore has a population of about 5,7 million people. _1_ also has very strict rules about the way _2_ people behave. Singapore is one of the cleanest cities on the planet because of these rules. People are not allowed to chew gum unless _3_ from a doctor, and all used chewing gum has to go in a trash can. That means that you don't find gum on the sidewalks. In fact, no one drops trash in the street. There are big fines for people who don't respect the rules, but most people are happy to keep _4_ city clean and healthy.\"\nText extracted from Interchange 5th edition from Jack C. Richards with Jonathan Hull and Susan Proctor.\nAssinale a alternativa, que completa com os pronomes adequados, os espaços do texto.",
+      principal: "09. A tabela de pronomes do site ThoughCo ajudará a completar, com os pronomes adequados, os espaços nos quais se encontram os números de 1 a 4 no texto.\nPronouns and Possessive Forms\nSubjects Objects Poss. Adjectives Poss. Pronouns\nI me my mine\nyou you your yours\nhe, she, it him, her, it his, her, its his, hers\nwe us our ours\nyou you your yours\nthey them their theirs\nThought Co.\nTabela extraída de thoughtco.$com/subject$-possessive-pronouns-4176482\nSingapore:\n\"The tiny island of Singapore has a population of about 5,7 million people. _1_ also has very strict rules about the way _2_ people behave. Singapore is one of the cleanest cities on the planet because of these rules. People are not allowed to chew gum unless _3_ from a doctor, and all used chewing gum has to go in a trash can. That means that you don't find gum on the sidewalks. In fact, no one drops trash in the street. There are big fines for people who don't respect the rules, but most people are happy to keep _4_ city clean and healthy.\"\nText extracted from Interchange 5th edition from Jack C. Richards with Jonathan Hull and Susan Proctor.\nAssinale a alternativa, que completa com os pronomes adequados, os espaços do texto.",
       subItens: []
     },
     options: [
@@ -194,7 +194,7 @@ createQuestion({
     ],
     correctAnswer: 0,
     materia: ["Inglês"],
-    conteudo: ["Quantificadores (Some/Any)"],
+    conteudo: ["Quantificadores ($Some/Any$)"],
     imageNames: []
 }),
 
@@ -263,7 +263,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "14. Na natureza, diversos animais utilizam o sistema de ecolocalização para se locomoverem no ambiente de forma segura, sem depender do sentido da visão. Esses animais são capazes de emitir ondas sonoras, que são refletidas ao encontrar um obstáculo, retornando ao emissor, que possui a capacidade de interpretar as informações, podendo, assim, identificar a distância dos objetos e presas. Sendo assim, podemos tomar como exemplo o caso de um morcego que emite ondas ultrassônicas no intuito de localizar um inseto para sua alimentação, como mostra a imagem a seguir:\nOnda refletida (eco)\nOnda emitida\ndistância (r)\nEsquema da ecolocalização em morcego\nDisponível em: https://www.researchgate.net/figure/Figura-7-Esquema-de-ecolocalizacao-em-morcegos-A-cabeca-de-um-morcego-e-adaptada-para_fig4_304942116\nSabendo-se que o morcego emitiu uma onda sonora e percebeu a onda refletida 0,08 s depois, considerando a velocidade do som no ar com 330 m/s e desconsiderando a resistência do ar e quaisquer outros efeitos, a distância entre o morcego e o inseto é de aproximadamente:",
+      principal: "14. Na natureza, diversos animais utilizam o sistema de ecolocalização para se locomoverem no ambiente de forma segura, sem depender do sentido da visão. Esses animais são capazes de emitir ondas sonoras, que são refletidas ao encontrar um obstáculo, retornando ao emissor, que possui a capacidade de interpretar as informações, podendo, assim, identificar a distância dos objetos e presas. Sendo assim, podemos tomar como exemplo o caso de um morcego que emite ondas ultrassônicas no intuito de localizar um inseto para sua alimentação, como mostra a imagem a seguir:\nOnda refletida (eco)\nOnda emitida\ndistância (r)\nEsquema da ecolocalização em morcego\nDisponível em: https://www.researchgate.net/figure/Figura-7-Esquema-de-ecolocalizacao-em-morcegos-A-cabeca-de-um-morcego-e-adaptada-$para_fig4_304942116$\nSabendo-se que o morcego emitiu uma onda sonora e percebeu a onda refletida 0,08 s depois, considerando a velocidade do som no ar com 330 $m/s$ e desconsiderando a resistência do ar e quaisquer outros efeitos, a distância entre o morcego e o inseto é de aproximadamente:",
       subItens: []
     },
     options: [
@@ -283,7 +283,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "15. Defensor do modelo heliocêntrico, o físico alemão Johannes Kepler, revolucionou a ciência de sua época, ao apresentar as leis que permitiram a compreensão do movimento dos planetas, e consolidou as ideias, inicialmente, apresentadas por Nicolau Copérnico, com relação ao nosso sistema planetário. A imagem representa de forma simplória o movimento do planeta Netuno ao redor do Sol.\nDisponível em: http://osfundamentosdafisica.blogspot.com/2016/11/cursos-do-blog-mecanica_21.html\nObservando a imagem e considerando as Leis de Kepler, é possível afirmar que Netuno:",
+      principal: "15. Defensor do modelo heliocêntrico, o físico alemão Johannes Kepler, revolucionou a ciência de sua época, ao apresentar as leis que permitiram a compreensão do movimento dos planetas, e consolidou as ideias, inicialmente, apresentadas por Nicolau Copérnico, com relação ao nosso sistema planetário. A imagem representa de forma simplória o movimento do planeta Netuno ao redor do Sol.\nDisponível em: http://osfundamentosdafisica.blogspot.com/2016/11/cursos-do-blog-$mecanica_21$.html\nObservando a imagem e considerando as Leis de Kepler, é possível afirmar que Netuno:",
       subItens: []
     },
     options: [
@@ -303,14 +303,14 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "Observe a tirinha para responder à questão 16.\nAAIII! UM RATO!\nCopyright© 2003 Mauricio de Sousa Produções Ltda. Todos os direitos reservados.\nDisponível em: https://artedafisicapibid.blogspot.com/2019/12/tirinhas-para-ensino-de-fisica-energias.html\n16. A tirinha retrata Mônica e seus amigos em um passeio de montanha russa, quando, de repente, são surpreendidos por um rato, com o qual poderiam colidir. Considerando-se que não há perdas de energia mecânica, que a altura máxima atingida pelo carrinho em relação à base é de 8,5 m e que o rato se encontra na base do brinquedo, pode-se afirmar que a velocidade do carrinho na eminência de atingir o rato será de:\nAdote: g= 10m/s²",
+      principal: "Observe a tirinha para responder à questão 16.\nAAIII! UM RATO!\nCopyright© 2003 Mauricio de Sousa Produções Ltda. Todos os direitos reservados.\nDisponível em: https://artedafisicapibid.blogspot.com/2019/12/tirinhas-para-ensino-de-fisica-energias.html\n16. A tirinha retrata Mônica e seus amigos em um passeio de montanha russa, quando, de repente, são surpreendidos por um rato, com o qual poderiam colidir. Considerando-se que não há perdas de energia mecânica, que a altura máxima atingida pelo carrinho em relação à base é de 8,5 m e que o rato se encontra na base do brinquedo, pode-se afirmar que a velocidade do carrinho na eminência de atingir o rato será de:\nAdote: g= $10m/s$²",
       subItens: []
     },
     options: [
-      "Zero m/s.",
-      "6,5 m/s.",
-      "17 m/s.",
-      "13 m/s."
+      "Zero $m/s$.",
+      "6,5 $m/s$.",
+      "17 $m/s$.",
+      "13 $m/s$."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -323,7 +323,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "17. Atualmente, o Brasil conta com duas usinas nucleares em atividade: Angra I, em funcionamento desde 1985, e Angra II, em funcionamento desde 2001. Juntas elas geram energia elétrica suficiente para abastecer cerca de 3 milhões de habitantes. As usinas usam como combustível urânio enriquecido e produzem energia elétrica a partir do processo de fissão nuclear.\nAngra I Angra II\nDisponível em: https://www.eletronuclear.gov.br/Nossas-Atividades/Paginas/Angra-1.aspx\nCom relação a este processo e às radiações relacionadas a ele, analise as afirmativas:\nI- Na fissão nuclear, um próton colide com um núcleo atômico gerando sua divisão e uma grande liberação de energia.\nII- Durante uma fissão nuclear, não são emitidas ondas eletromagnéticas, somente partículas alfa e beta.\nIII- No processo de fissão nuclear, dois átomos do mesmo elemento colidem, dando origem a um novo elemento com maior número atômico.\nIV- Na fissão de um elemento radioativo, há uma grande liberação de radiações gama, que são ondas eletromagnéticas de alta frequência.\nV- Todas as radiações emitidas durante a fissão nuclear possuem baixo poder de penetração, podendo ser bloqueadas com uma folha de papel.\nEstão corretas somente as afirmativas:",
+      principal: "17. Atualmente, o Brasil conta com duas usinas nucleares em atividade: Angra I, em funcionamento desde 1985, e Angra II, em funcionamento desde 2001. Juntas elas geram energia elétrica suficiente para abastecer cerca de 3 milhões de habitantes. As usinas usam como combustível urânio enriquecido e produzem energia elétrica a partir do processo de fissão nuclear.\nAngra I Angra II\nDisponível em: https://www.eletronuclear.gov.$br/Nossas$-Atividades/Paginas/Angra-1.aspx\nCom relação a este processo e às radiações relacionadas a ele, analise as afirmativas:\nI- Na fissão nuclear, um próton colide com um núcleo atômico gerando sua divisão e uma grande liberação de energia.\nII- Durante uma fissão nuclear, não são emitidas ondas eletromagnéticas, somente partículas alfa e $\\beta$.\nIII- No processo de fissão nuclear, dois átomos do mesmo elemento colidem, dando origem a um novo elemento com maior número atômico.\nIV- Na fissão de um elemento radioativo, há uma grande liberação de radiações gama, que são ondas eletromagnéticas de alta frequência.\nV- Todas as radiações emitidas durante a fissão nuclear possuem baixo poder de penetração, podendo ser bloqueadas com uma folha de papel.\nEstão corretas somente as afirmativas:",
       subItens: []
     },
     options: [
@@ -383,7 +383,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "20. O que é a gordura trans?\nÉ um tipo de gordura que pode ocorrer, naturalmente, em baixas quantidades, em alimentos de origem animal, como carnes e produtos lácteos de ruminantes (leites, queijos e manteiga, por exemplo), ou ser produzida industrialmente por meio de processos tecnológicos.\nAs gorduras trans eram utilizadas em larga escala pela indústria para dar texturas aos alimentos, realçar o sabor e prolongar o prazo de validade, no entanto, seu uso atualmente é fiscalizado, pois pode aumentar os índices de doenças cardiovasculares, diabetes e câncer. Hoje no Brasil, a ANVISA aprova até 0,2g de gordura trans nos alimentos industrializados, sendo considerado como 0g nos rótulos.\nAdaptado de <https://idec.org.br/gordura-trans>. Acesso em 09/11/2023.\nSegue a estrutura de uma gordura trans e seu isômero cis:\nConformação trans\nConformação cis\nSobre as duas moléculas é correto afirmar que:",
+      principal: "20. O que é a gordura trans?\nÉ um tipo de gordura que pode ocorrer, naturalmente, em baixas quantidades, em alimentos de origem animal, como carnes e produtos lácteos de ruminantes (leites, queijos e manteiga, por exemplo), ou ser produzida industrialmente por meio de processos tecnológicos.\nAs gorduras trans eram utilizadas em larga escala pela indústria para dar texturas aos alimentos, realçar o sabor e prolongar o prazo de validade, no entanto, seu uso atualmente é fiscalizado, pois pode aumentar os índices de doenças cardiovasculares, diabetes e câncer. Hoje no Brasil, a ANVISA aprova até 0,2g de gordura trans nos alimentos industrializados, sendo considerado como 0g nos rótulos.\nAdaptado de <https://idec.org.$br/gordura$-trans>. Acesso em 09/11/2023.\nSegue a estrutura de uma gordura trans e seu isômero cis:\nConformação trans\nConformação cis\nSobre as duas moléculas é correto afirmar que:",
       subItens: []
     },
     options: [
@@ -463,7 +463,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "24. Pesquisa revela que mercúrio contamina peixes e ameaça saúde de parte da população em 6 estados amazônicos.\nUma consequência direta do garimpo ilegal ameaça a saúde dos brasileiros nos estados do Norte. Um estudo concluiu que um em cada cinco peixes consumidos na região está contaminado.\n\"Uma mãe que tá se alimentando de peixe contaminado, esse mercúrio já passa pro feto. Existem relatos de crianças nascendo na bacia do Tapajós com problemas neurológicos, e até já necessitando de cadeira de rodas no primeiro, segundo ano de vida\", explica Marcelo Oliveira, especialista em conservação do WWF-Brasil.\nAdaptado de <https://g1.globo.com/jornal-nacional/noticia/2023/05/30/pesquisa-revela-que-mercurio-contamina-peixes-e-ameaca-saude-de-parte-da-populacao-em-6-estados-amazonicos.ghtml> Acesso em 09/11/2023\nDe acordo com a Organização Mundial de Saúde (OMS) a concentração limite de mercúrio no sangue é de 9,2 mcg/L de sangue. Um estudo, realizado pela Universidade Federal do Oeste do Pará (Ufopa), em parceria com a Fiocruz e o WWF Brasil, coletou o sangue de 462 pessoas, entre 2015 e 2019, e concluiu que todos os participantes da pesquisa apresentam níveis elevados de mercúrio no sangue. A população ribeirinha do rio Amazonas apresentou média de 45,3 mcg/L de mercúrio no sangue. Calcule a concentração média em mol/L, que a população ribeirinha do Rio Amazonas apresenta de mercúrio no sangue.\nDados: 1g = 106mcg\nMassa molar do mercúrio (Hg) = 200,59 g/mol.",
+      principal: "24. Pesquisa revela que mercúrio contamina peixes e ameaça saúde de parte da população em 6 estados amazônicos.\nUma consequência direta do garimpo ilegal ameaça a saúde dos brasileiros nos estados do Norte. Um estudo concluiu que um em cada cinco peixes consumidos na região está contaminado.\n\"Uma mãe que tá se alimentando de peixe contaminado, esse mercúrio já passa pro feto. Existem relatos de crianças nascendo na bacia do Tapajós com problemas neurológicos, e até já necessitando de cadeira de rodas no primeiro, segundo ano de vida\", explica Marcelo Oliveira, especialista em conservação do WWF-Brasil.\nAdaptado de <https://g1.globo.$com/jornal$-nacional/noticia/2023/05/30/pesquisa-revela-que-mercurio-contamina-peixes-e-ameaca-saude-de-parte-da-populacao-em-6-estados-amazonicos.ghtml> Acesso em 09/11/2023\nDe acordo com a Organização Mundial de Saúde (OMS) a concentração limite de mercúrio no sangue é de 9,2 $mcg/L$ de sangue. Um estudo, realizado pela Universidade Federal do Oeste do Pará (Ufopa), em parceria com a Fiocruz e o WWF Brasil, coletou o sangue de 462 pessoas, entre 2015 e 2019, e concluiu que todos os participantes da pesquisa apresentam níveis elevados de mercúrio no sangue. A população ribeirinha do rio Amazonas apresentou média de 45,3 $mcg/L$ de mercúrio no sangue. Calcule a concentração média em $mol/L$, que a população ribeirinha do Rio Amazonas apresenta de mercúrio no sangue.\nDados: 1g = 106mcg\nMassa molar do mercúrio (Hg) = 200,59 $g/mol$.",
       subItens: []
     },
     options: [
@@ -583,7 +583,7 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "30. Na figura podemos observar uma fase e um tipo de divisão celular.\nFonte: https://www.infoescola.com/citologia - Adaptada.\nPodemos afirmar que a fase da figura é:",
+      principal: "30. Na figura podemos observar uma fase e um tipo de divisão celular.\nFonte: https://www.infoescola.$com/citologia$ - Adaptada.\nPodemos afirmar que a fase da figura é:",
       subItens: []
     },
     options: [
@@ -883,14 +883,14 @@ createQuestion({
     university: "uemg",
     year: 2024,
     text: {
-      principal: "45. Professor Geraldo listou no quadro-negro cinco frações, designadas por (I), (II), (III), (IV) e (V).\n(I) 5/9\n(II) 7/12\n(III) 9/16\n(IV) 19/34\n(V) 55/100\nFonte: (Elaboração Própria.)\nEm seguida, ele solicitou aos seus estudantes do 3º ano do Ensino Médio que indicassem a menor e a maior fração dentre as cinco listadas no quadro-negro. A diferença entre a maior e a menor fração dentre as cinco listadas é igual a:",
+      principal: "45. Professor Geraldo listou no quadro-negro cinco frações, designadas por (I), (II), (III), (IV) e (V).\n(I) $5/9$\n(II) $7/12$\n(III) $9/16$\n(IV) $19/34$\n(V) $55/100$\nFonte: (Elaboração Própria.)\nEm seguida, ele solicitou aos seus estudantes do 3º ano do Ensino Médio que indicassem a menor e a maior fração dentre as cinco listadas no quadro-negro. A diferença entre a maior e a menor fração dentre as cinco listadas é igual a:",
       subItens: []
     },
     options: [
-      "1/16.",
-      "1/30.",
-      "1/48.",
-      "1/80."
+      "$1/16$.",
+      "$1/30$.",
+      "$1/48$.",
+      "$1/80$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],

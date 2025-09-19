@@ -92,8 +92,8 @@ createQuestion({
     },
     options: [
       "t.d. revolver de cima para baixo e vice-versa; inverter, revirar <o ciclone soçobrou o que encontrou no caminho>.",
-      "t.d/int. emborcar, virar (geralmente uma embarcação) e ir a pique, naufragar ou fazer naufragar; afundar(-se), submergir (-se) <temiam que a tempestade os soçobrasse> <a embarcação soçobrou>.",
-      "t.d/int. por metáfora: reduzir(-se) a nada; acabar (com), aniquilar(-se) <com tanta dissipação, sua fortuna soçobrara>.",
+      "t.$d/int$. emborcar, virar (geralmente uma embarcação) e ir a pique, naufragar ou fazer naufragar; afundar(-se), submergir (-se) <temiam que a tempestade os soçobrasse> <a embarcação soçobrou>.",
+      "t.$d/int$. por metáfora: reduzir(-se) a nada; acabar (com), aniquilar(-se) <com tanta dissipação, sua fortuna soçobrara>.",
       "t.d. e pron. por metáfora: tornar-se desvairado; agitar-se, perturbar-se <soçobrou-se ante a negativa dela>.",
       "pron. por metáfora: perder a coragem, o ânimo; desanimar, esmorecer, acovardar-se <soçobrar-se não é próprio dele>."
     ],
@@ -150,7 +150,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "O texto a seguir é referência para as questões 08 a 10.\n\nOutras razões para a pauta negativa\n\nVenício A. Lima\n\nO sempre interessante Boletim UFMG, que traz, a cada semana, notícias do dia a dia da Universidade Federal de Minas Gerais, informa, na edição de 4 de maio, o trabalho desenvolvido por grupo de pesquisa do Departamento de Ciência da Computação (DCC) em torno da \"análise de sentimento\", que relaciona o sucesso das notícias com sua polaridade, negativa ou positiva.\nUtilizando programas de computador desenvolvidos pelo DCC-UFMG, foram identificadas, coletadas e analisadas 69.907 manchetes veiculadas em quatro sites noticiosos internacionais ao longo de oito meses de 2014: The New York Times, BBC, Reuters e Daily Mail. E as notícias foram agrupadas em cinco grandes categorias: negócios e dinheiro, saúde, ciência e tecnologia, esportes e mundo. As conclusões da pesquisa são preciosas.\nCerca de 70% das notícias diárias estão relacionadas a fatos que geram \"sentimentos negativos\" - tais como catástrofes, acidentes, doenças, crimes e crises. Os textos das manchetes foram relacionados aos sentimentos que elas despertam, numa escala de menos 5 (muito negativo) a mais 5 (muito positivo). Descobriu-se que o sucesso de uma notícia, vale dizer, o número de vezes em que é \"clicada\" pelo eventual leitor está fortemente vinculado a esses \"sentimentos\" e que os dois extremos - negativo e positivo - são os mais \"clicados\". As manchetes negativas, todavia, são aquelas que atraem maior interesse dos leitores.\nEmbora realizado com base em manchetes publicadas em sites internacionais – não brasileiros -, os resultados do trabalho dos pesquisadores do DCC-UFMG nos ajudam a compreender a predominância do \"jornalismo do vale de lágrimas\" na grande mídia brasileira.\nPara além da partidarização seletiva das notícias, parece haver também uma importante estratégia de sobrevivência empresarial influindo na escolha da pauta negativa. Os principais telejornais exibidos na televisão brasileira, por exemplo, estão se transformando em incansáveis noticiários diários de crises, crimes, catástrofes, acidentes e doenças de todos os tipos. Carrega-se, sem dó nem piedade, nas notícias que geram sentimentos negativos. Mais do que isso: os âncoras dos telejornais, além das notícias negativas, se encarregam de editorializar, fazer comentários, invariavelmente críticos e pessimistas, reforçando, para além da notícia, exatamente seus aspectos e consequências funestos.\nExiste, sim, o risco do esgotamento. Cansado de tanta notícia ruim e sentindo-se impotente para influir no curso dos eventos, pode ser que o leitor/telespectador afinal desista de se expor a esse tipo de jornalismo que o empurra cotidianamente rumo a um inexorável \"vale de lágrimas\" mediavalesco.\n\nAdaptado de <http://observatoriodaimprensa.com.br/jornal-de-ebates/outras-razoes-para-a-pauta-negativa/>. Acesso em 19 mai. 2015.\n\n08 - Assinale a alternativa que exprime a tese do texto.",
+      principal: "O texto a seguir é referência para as questões 08 a 10.\n\nOutras razões para a pauta negativa\n\nVenício A. Lima\n\nO sempre interessante Boletim UFMG, que traz, a cada semana, notícias do dia a dia da Universidade Federal de Minas Gerais, informa, na edição de 4 de maio, o trabalho desenvolvido por grupo de pesquisa do Departamento de Ciência da Computação (DCC) em torno da \"análise de sentimento\", que relaciona o sucesso das notícias com sua polaridade, negativa ou positiva.\nUtilizando programas de computador desenvolvidos pelo DCC-UFMG, foram identificadas, coletadas e analisadas 69.907 manchetes veiculadas em quatro sites noticiosos internacionais ao longo de oito meses de 2014: The New York Times, BBC, Reuters e Daily Mail. E as notícias foram agrupadas em cinco grandes categorias: negócios e dinheiro, saúde, ciência e tecnologia, esportes e mundo. As conclusões da pesquisa são preciosas.\nCerca de 70% das notícias diárias estão relacionadas a fatos que geram \"sentimentos negativos\" - tais como catástrofes, acidentes, doenças, crimes e crises. Os textos das manchetes foram relacionados aos sentimentos que elas despertam, numa escala de menos 5 (muito negativo) a mais 5 (muito positivo). Descobriu-se que o sucesso de uma notícia, vale dizer, o número de vezes em que é \"clicada\" pelo eventual leitor está fortemente vinculado a esses \"sentimentos\" e que os dois extremos - negativo e positivo - são os mais \"clicados\". As manchetes negativas, todavia, são aquelas que atraem maior interesse dos leitores.\nEmbora realizado com base em manchetes publicadas em sites internacionais – não brasileiros -, os resultados do trabalho dos pesquisadores do DCC-UFMG nos ajudam a compreender a predominância do \"jornalismo do vale de lágrimas\" na grande mídia brasileira.\nPara além da partidarização seletiva das notícias, parece haver também uma importante estratégia de sobrevivência empresarial influindo na escolha da pauta negativa. Os principais telejornais exibidos na televisão brasileira, por exemplo, estão se transformando em incansáveis noticiários diários de crises, crimes, catástrofes, acidentes e doenças de todos os tipos. Carrega-se, sem dó nem piedade, nas notícias que geram sentimentos negativos. Mais do que isso: os âncoras dos telejornais, além das notícias negativas, se encarregam de editorializar, fazer comentários, invariavelmente críticos e pessimistas, reforçando, para além da notícia, exatamente seus aspectos e consequências funestos.\nExiste, sim, o risco do esgotamento. Cansado de tanta notícia ruim e sentindo-se impotente para influir no curso dos eventos, pode ser que o $leitor/telespectador$ afinal desista de se expor a esse tipo de jornalismo que o empurra cotidianamente rumo a um inexorável \"vale de lágrimas\" mediavalesco.\n\nAdaptado de <http://observatoriodaimprensa.com.$br/jornal$-de-$ebates/outras$-razoes-para-a-pauta-negativa/>. Acesso em 19 mai. 2015.\n\n08 - Assinale a alternativa que exprime a tese do texto.",
       subItens: []
     },
     options: [
@@ -171,7 +171,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "09 - Ao criar o termo mediavalesco que finaliza o texto, o autor associa a media/mídia ao termo medievalesco, ou seja, relativo à Idade Média. Sua intenção, com isso, é ressaltar um aspecto dos meios de comunicação que poderia ser resumido pelo termo:",
+      principal: "09 - Ao criar o termo mediavalesco que finaliza o texto, o autor associa a $media/m$ídia ao termo medievalesco, ou seja, relativo à Idade Média. Sua intenção, com isso, é ressaltar um aspecto dos meios de comunicação que poderia ser resumido pelo termo:",
       subItens: []
     },
     options: [
@@ -234,7 +234,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "12 - Identifique como verdadeiras (V) ou falsas (F) as seguintes afirmativas sobre o uso de expressões e/ou sinais de pontuação no texto.\n\n( ) O diálogo com o leitor é marcado no texto pelo uso da expressão “alguém aí\", na segunda linha, e pelo uso recorrente da interrogação.\n( ) A expressão sublinhada em \"a Câmara dos Deputados tem a resposta que considera a certa\" antecipa para o leitor a adesão da autora à definição de família aprovada para o projeto de lei do Estatuto da Família.\n( ) No trecho \"direitos das famílias – essas que se encaixam na definição proposta –\", a expressão entre travessões alerta o leitor para a restrição do conceito de família mencionado.\n( ) As expressões \"desde o início da segunda metade do século passado\" e \"até então\" (3º parágrafo) introduzem informações situadas em um mesmo período.\n\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
+      principal: "12 - Identifique como verdadeiras (V) ou falsas (F) as seguintes afirmativas sobre o uso de expressões $e/ou$ sinais de pontuação no texto.\n\n( ) O diálogo com o leitor é marcado no texto pelo uso da expressão “alguém aí\", na segunda linha, e pelo uso recorrente da interrogação.\n( ) A expressão sublinhada em \"a Câmara dos Deputados tem a resposta que considera a certa\" antecipa para o leitor a adesão da autora à definição de família aprovada para o projeto de lei do Estatuto da Família.\n( ) No trecho \"direitos das famílias – essas que se encaixam na definição proposta –\", a expressão entre travessões alerta o leitor para a restrição do conceito de família mencionado.\n( ) As expressões \"desde o início da segunda metade do século passado\" e \"até então\" (3º parágrafo) introduzem informações situadas em um mesmo período.\n\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
       subItens: []
     },
     options: [
@@ -339,7 +339,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "17 - Leia, atentamente, o seguinte poema:\n\nQue pode uma criatura senão,\nentre criaturas, amar?\namar e esquecer,\namar e malamar,\namar, desamar, amar?\nsempre, e até de olhos vidrados, amar?\n\nQue pode, pergunto, o ser amoroso,\nsozinho, em rotação universal, senão\nrodar também, e amar?\namar o que o mar traz à praia,\ne o que ele sepulta, e o que, na brisa marinha,\né sal, ou precisão de amor, ou simples ânsia?\n\nAmar solenemente as palmas do deserto,\no que é entrega ou adoração expectante,\ne amar o inóspito, o áspero,\num vaso sem flor, um chão de ferro,\ne o peito inerte, e a rua vista em sonho, e uma ave de rapina.\n\nEste o nosso destino: amor sem conta,\ndistribuído pelas coisas pérfidas ou nulas,\ndoação ilimitada a uma completa ingratidão,\ne na concha vazia do amor a procura medrosa,\npaciente, de mais e mais amor.\n\nAmar a nossa falta mesma de amor, e na secura nossa\namar a água implícita, e o beijo tácito, e a sede infinita.\n\nO poema \"Amar\" integra a segunda parte, \"Notícias Amorosas\", do livro Claro enigma, de Carlos Drummond de Andrade. Sobre esse poema, assinale a alternativa correta.",
+      principal: "17 - Leia, atentamente, o seguinte poema:\n\nQue pode uma criatura $\\sin$ão,\nentre criaturas, amar?\namar e esquecer,\namar e malamar,\namar, desamar, amar?\nsempre, e até de olhos vidrados, amar?\n\nQue pode, pergunto, o ser amoroso,\nsozinho, em rotação universal, $\\sin$ão\nrodar também, e amar?\namar o que o mar traz à praia,\ne o que ele sepulta, e o que, na brisa marinha,\né sal, ou precisão de amor, ou simples ânsia?\n\nAmar solenemente as palmas do deserto,\no que é entrega ou adoração expectante,\ne amar o inóspito, o áspero,\num vaso sem flor, um chão de ferro,\ne o peito inerte, e a rua vista em sonho, e uma ave de rapina.\n\nEste o nosso destino: amor sem conta,\ndistribuído pelas coisas pérfidas ou nulas,\ndoação ilimitada a uma completa ingratidão,\ne na concha vazia do amor a procura medrosa,\npaciente, de mais e mais amor.\n\nAmar a nossa falta mesma de amor, e na secura nossa\namar a água implícita, e o beijo tácito, e a sede infinita.\n\nO poema \"Amar\" integra a segunda parte, \"Notícias Amorosas\", do livro Claro enigma, de Carlos Drummond de Andrade. Sobre esse poema, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -465,7 +465,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "23 Leia abaixo a definição de \"refugiado\":\n\nDe acordo com a Convenção de 1951 relativa ao Estatuto dos Refugiados, são refugiados as pessoas que se encontram fora do seu país por causa de fundado temor de perseguição por motivos de raça, religião, nacionalidade, opinião política ou participação em grupos sociais, e que não possa (ou não queira) voltar para casa. Posteriormente, definições mais amplas passaram a considerar como refugiados as pessoas obrigadas a deixar seu país devido a conflitos armados, violência generalizada e violação massiva dos direitos humanos.\n\n(Agência da ONU para refugiados (ACNUR). Disponível em: <http://www.acnur.org/t3/portugues/informacao-geral/perguntas-e-respostas/>.)\n\nSobre eventos históricos referentes à existência de refugiados na história contemporânea, considere as seguintes afirmativas:\n\n1. Após a I Guerra Mundial, com a dissolução dos Impérios Otomano e Austro-Húngaro e a instauração do princípio de nacionalidade, milhões de refugiados europeus migraram dentro e fora da Europa.\n2. Desde a criação do Estado de Israel, em 1948, milhões de palestinos ganharam dupla cidadania, resolvendo sua situação de refugiados durante o mandato britânico na Palestina.\n3. O governo Vargas foi contrário à entrada de judeus no Brasil, quando muitos deles tornaram-se refugiados, migrando para fora da Europa, durante os anos 1930 e a II Guerra Mundial.\n4. Entre o final do século XIX e o início do século XX, o Brasil recebeu uma grande quantidade de refugiados italianos, espanhóis, poloneses, japoneses e alemães.\n\nAssinale a alternativa correta.",
+      principal: "23 Leia abaixo a definição de \"refugiado\":\n\nDe acordo com a Convenção de 1951 relativa ao Estatuto dos Refugiados, são refugiados as pessoas que se encontram fora do seu país por causa de fundado temor de perseguição por motivos de raça, religião, nacionalidade, opinião política ou participação em grupos sociais, e que não possa (ou não queira) voltar para casa. Posteriormente, definições mais amplas passaram a considerar como refugiados as pessoas obrigadas a deixar seu país devido a conflitos armados, violência generalizada e violação massiva dos direitos humanos.\n\n(Agência da ONU para refugiados (ACNUR). Disponível em: <http://www.acnur.org/t3/portugues/informacao-$geral/perguntas$-e-respostas/>.)\n\nSobre eventos históricos referentes à existência de refugiados na história contemporânea, considere as seguintes afirmativas:\n\n1. Após a I Guerra Mundial, com a dissolução dos Impérios Otomano e Austro-Húngaro e a instauração do princípio de nacionalidade, milhões de refugiados europeus migraram dentro e fora da Europa.\n2. Desde a criação do Estado de Israel, em 1948, milhões de palestinos ganharam dupla cidadania, resolvendo sua situação de refugiados durante o mandato britânico na Palestina.\n3. O governo Vargas foi contrário à entrada de judeus no Brasil, quando muitos deles tornaram-se refugiados, migrando para fora da Europa, durante os anos 1930 e a II Guerra Mundial.\n4. Entre o final do século XIX e o início do século XX, o Brasil recebeu uma grande quantidade de refugiados italianos, espanhóis, poloneses, japoneses e alemães.\n\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -570,15 +570,15 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "28 - Um sistema amplamente utilizado para determinar a velocidade de veículos - muitas vezes, chamado erroneamente de \"radar\" - possui dois sensores constituídos por laços de fios condutores embutidos no asfalto. Cada um dos laços corresponde a uma bobina. Quando o veículo passa pelo primeiro laço, a indutância da bobina é alterada e é detectada a passagem do veículo por essa bobina. Nesse momento, é acionada a contagem de tempo, que é interrompida quando da passagem do veículo pela segunda bobina.\n\nCom base nesse sistema, considere a seguinte situação: em uma determinada via, cuja velocidade limite é 60 km/h, a distância entre as bobinas é de 3,0 m. Ao passar um veículo por esse \"radar\", foi registrado um intervalo de tempo de passagem entre as duas bobinas de 200 ms. Assinale a alternativa que apresenta a velocidade determinada pelo sistema quando da passagem do veículo.",
+      principal: "28 - Um sistema amplamente utilizado para determinar a velocidade de veículos - muitas vezes, chamado erroneamente de \"radar\" - possui dois sensores constituídos por laços de fios condutores embutidos no asfalto. Cada um dos laços corresponde a uma bobina. Quando o veículo passa pelo primeiro laço, a indutância da bobina é alterada e é detectada a passagem do veículo por essa bobina. Nesse momento, é acionada a contagem de tempo, que é interrompida quando da passagem do veículo pela segunda bobina.\n\nCom base nesse sistema, considere a seguinte situação: em uma determinada via, cuja velocidade limite é 60 $km/h$, a distância entre as bobinas é de 3,0 m. Ao passar um veículo por esse \"radar\", foi registrado um intervalo de tempo de passagem entre as duas bobinas de 200 ms. Assinale a alternativa que apresenta a velocidade determinada pelo sistema quando da passagem do veículo.",
       subItens: []
     },
     options: [
-      "15 km/h.",
-      "23,7 km/h.",
-      "54 km/h.",
-      "58,2 km/h.",
-      "66,6 km/h."
+      "15 $km/h$.",
+      "23,7 $km/h$.",
+      "54 $km/h$.",
+      "58,2 $km/h$.",
+      "66,6 $km/h$."
     ],
     correctAnswer: 2,
     materia: ["Física"],
@@ -591,15 +591,15 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "29 - Uma esfera homogênea e de material pouco denso, com volume de 5,0 cm³, está em repouso, completamente imersa em água. Uma mola, disposta verticalmente, tem uma de suas extremidades presa ao fundo do recipiente e a outra à parte inferior da esfera, conforme figura ao lado. Por ação da esfera, a mola foi deformada em 0,1 cm, em relação ao seu comprimento quando não submetida a nenhuma força deformadora. Considere a densidade da água como 1,0 g/cm³, a aceleração gravitacional como 10 m/s² e a densidade do material do qual a esfera é constituída como 0,1 g/cm³. Com base nas informações apresentadas, assinale a alternativa que apresenta a constante elástica dessa mola.",
+      principal: "29 - Uma esfera homogênea e de material pouco denso, com volume de 5,0 cm³, está em repouso, completamente imersa em água. Uma mola, disposta verticalmente, tem uma de suas extremidades presa ao fundo do recipiente e a outra à parte inferior da esfera, conforme figura ao lado. Por ação da esfera, a mola foi deformada em 0,1 cm, em relação ao seu comprimento quando não submetida a nenhuma força deformadora. Considere a densidade da água como 1,0 $g/cm$³, a aceleração gravitacional como 10 $m/s$² e a densidade do material do qual a esfera é constituída como 0,1 $g/cm$³. Com base nas informações apresentadas, assinale a alternativa que apresenta a constante elástica dessa mola.",
       subItens: []
     },
     options: [
-      "0,45 N/cm.",
-      "4,5 N/cm.",
-      "45 N/cm.",
-      "450 N/cm.",
-      "4500 N/cm."
+      "0,45 $N/cm$.",
+      "4,5 $N/cm$.",
+      "45 $N/cm$.",
+      "450 $N/cm$.",
+      "4500 $N/cm$."
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -654,7 +654,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "32 - O sistema representado na figura ao lado corresponde a um corpo 1, com massa 20 kg, apoiado sobre uma superfície plana horizontal, e um corpo 2, com massa de 6 kg, o qual está apoiado em um plano inclinado que faz 60° com a horizontal. O coeficiente de atrito cinético entre cada um dos corpos e a superfície de apoio é 0,1. Uma força F de 200 N, aplicada sobre o corpo 1, movimenta o sistema, e um sistema que não aparece na figura faz com que a direção da força F seja mantida constante e igual a 30° em relação à horizontal. Uma corda inextensível e de massa desprezível une os dois corpos por meio de uma polia. Considere que a massa e todas as formas de atrito na polia são desprezíveis. Também considere, para esta questão, a aceleração gravitacional como sendo de 10 m/s² e o cos 30° igual a 0,87. Com base nessas informações, assinale a alternativa que apresenta a tensão na corda que une os dois corpos.",
+      principal: "32 - O sistema representado na figura ao lado corresponde a um corpo 1, com massa 20 kg, apoiado sobre uma superfície plana horizontal, e um corpo 2, com massa de 6 kg, o qual está apoiado em um plano inclinado que faz 60° com a horizontal. O coeficiente de atrito cinético entre cada um dos corpos e a superfície de apoio é 0,1. Uma força F de 200 N, aplicada sobre o corpo 1, movimenta o sistema, e um sistema que não aparece na figura faz com que a direção da força F seja mantida constante e igual a 30° em relação à horizontal. Uma corda inextensível e de massa desprezível une os dois corpos por meio de uma polia. Considere que a massa e todas as formas de atrito na polia são desprezíveis. Também considere, para esta questão, a aceleração gravitacional como sendo de 10 $m/s$² e o $\\cos$ 30° igual a 0,87. Com base nessas informações, assinale a alternativa que apresenta a tensão na corda que une os dois corpos.",
       subItens: []
     },
     options: [
@@ -696,7 +696,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "34 - Verificou-se que, numa dada região, o potencial elétrico V segue o comportamento descrito pelo gráfico V x r ao lado.\n\n(Considere que a carga elétrica do elétron é -1,6.10-19 C)\n\nBaseado nesse gráfico, considere as seguintes afirmativas:\n\n1. A força elétrica que age sobre uma carga q = 4 µε colocada na posição r = 8 cm vale 2,5.10-7 N.\n2. O campo elétrico, para r = 2,5 cm, possui módulo E = 0,1 N/C.\n3. Entre 10 cm e 20 cm, o campo elétrico é uniforme.\n4. Ao se transferir um elétron de r = 10 cm para r = 20 cm, a energia potencial elétrica aumenta de 8,0.10-22 J.\n\nAssinale a alternativa correta.",
+      principal: "34 - Verificou-se que, numa dada região, o potencial elétrico V segue o comportamento descrito pelo gráfico V x r ao lado.\n\n(Considere que a carga elétrica do elétron é -1,6.10-19 C)\n\nBaseado nesse gráfico, considere as seguintes afirmativas:\n\n1. A força elétrica que age sobre uma carga q = 4 µε colocada na posição r = 8 cm vale 2,5.10-7 N.\n2. O campo elétrico, para r = 2,5 cm, possui módulo E = 0,1 $N/C$.\n3. Entre 10 cm e 20 cm, o campo elétrico é uniforme.\n4. Ao se transferir um elétron de r = 10 cm para r = 20 cm, a energia potencial elétrica aumenta de 8,0.10-22 J.\n\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "35 - Sabe-se que o objeto fotografado por uma câmera fotográfica digital tem 20 vezes o tamanho da imagem nítida formada no sensor dessa câmera. A distância focal da câmera é de 30 mm. Para a resolução desse problema, considere as seguintes equações: A = - 1/p = 1/o + 1/f = 1/p'.\n\nAssinale a alternativa que apresenta a distância do objeto até a câmera.",
+      principal: "35 - Sabe-se que o objeto fotografado por uma câmera fotográfica digital tem 20 vezes o tamanho da imagem nítida formada no sensor dessa câmera. A distância focal da câmera é de 30 mm. Para a resolução desse problema, considere as seguintes equações: A = - $1/p$ = $1/o$ + $1/f$ = $1/p$'.\n\nAssinale a alternativa que apresenta a distância do objeto até a câmera.",
       subItens: []
     },
     options: [
@@ -780,7 +780,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "38 - No total, 442.440 homens, mulheres e crianças chegaram ao continente [Europeu] através do Mediterrâneo e 2.921 morreram durante a travessia. Outros 4 mil chegam diariamente às ilhas gregas, agravando essa situação. Com o fechamento de vários pontos fronteiriços entre a Croácia e a Sérvia, além das violações ocorridas na Hungria durante essa semana, as Nações Unidas cobraram uma resposta única e coerente da União Europeia para a crise. [...] Enquanto isso, o Fundo da ONU para a Infância (UNICEF) divulgou um comunicado pedindo que as crianças refugiadas e migrantes na Hungria sejam \"tratadas com dignidade\".\n\n(Fonte: <http://nacoesunidas.org/onu-mais-de-442-mil-pessoas-chegaram-a-europa-pelo-mediterraneo-2015/>. Publicado em 18 set. 2015; acessado em 21 set. 2015.)\n\nO fenômeno expresso na notícia acima tem chamado a atenção da sociedade, haja vista a escala em que tem se manifestado, desafiando estados nacionais e organismos internacionais. Sobre os conceitos que envolvem essa problemática, assinale a alternativa INCORRETA.",
+      principal: "38 - No total, 442.440 homens, mulheres e crianças chegaram ao continente [Europeu] através do Mediterrâneo e 2.921 morreram durante a travessia. Outros 4 mil chegam diariamente às ilhas gregas, agravando essa situação. Com o fechamento de vários pontos fronteiriços entre a Croácia e a Sérvia, além das violações ocorridas na Hungria durante essa semana, as Nações Unidas cobraram uma resposta única e coerente da União Europeia para a crise. [...] Enquanto isso, o Fundo da ONU para a Infância (UNICEF) divulgou um comunicado pedindo que as crianças refugiadas e migrantes na Hungria sejam \"tratadas com dignidade\".\n\n(Fonte: <http://nacoesunidas.$org/onu$-mais-de-442-mil-pessoas-chegaram-a-europa-pelo-mediterraneo-2015/>. Publicado em 18 set. 2015; acessado em 21 set. 2015.)\n\nO fenômeno expresso na notícia acima tem chamado a atenção da sociedade, haja vista a escala em que tem se manifestado, desafiando estados nacionais e organismos internacionais. Sobre os conceitos que envolvem essa problemática, assinale a alternativa INCORRETA.",
       subItens: []
     },
     options: [
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "60 - Considere a seguinte sequência de polígonos regulares inscritos em um círculo de raio 2 cm:\n\n3 lados\n4 lados\n5 lados\n...\n\nSabendo que a área A de um polígono regular de n lados dessa sequência pode ser calculada pela fórmula\n\nA = 2n sen (2π/n)\n\nconsidere as seguintes afirmativas:\n\n1. As áreas do triângulo equilátero e do quadrado nessa sequência são, respectivamente, 3√3 cm² e 8 cm².\n2. O polígono regular de 12 lados, obtido nessa sequência, terá área de 12 cm².\n3. À medida que n aumenta, o valor A se aproxima de 4 cm².\n\nAssinale a alternativa correta.",
+      principal: "60 - Considere a seguinte sequência de polígonos regulares inscritos em um círculo de raio 2 cm:\n\n3 lados\n4 lados\n5 lados\n...\n\nSabendo que a área A de um polígono regular de n lados dessa sequência pode ser calculada pela fórmula\n\nA = 2n $\\sin$ (2π/n)\n\nconsidere as seguintes afirmativas:\n\n1. As áreas do triângulo equilátero e do quadrado nessa sequência são, respectivamente, 3√3 cm² e 8 cm².\n2. O polígono regular de 12 lados, obtido nessa sequência, terá área de 12 cm².\n3. À medida que n aumenta, o valor A se aproxima de 4 cm².\n\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1267,11 +1267,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "17/12.",
-      "14/11.",
-      "12/7.",
-      "11/9.",
-      "7/4."
+      "$17/12$.",
+      "$14/11$.",
+      "$12/7$.",
+      "$11/9$.",
+      "$7/4$."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1309,11 +1309,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "16√3/3 cm³.",
+      "16√$3/3$ cm³.",
       "16√3 cm³.",
       "32 cm³.",
-      "32√2/3 cm³.",
-      "64/3 cm³."
+      "32√$2/3$ cm³.",
+      "$64/3$ cm³."
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -1515,7 +1515,7 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "ITALIANO\nIl volantino che segue ti servirà per rispondere alle domande 73 e 74.\n\nACQUISTA ON LINE I BIGLIETTI\nPER EXPO MILANO 2015\nBIGLIETTO SPECIALE\n-30%\nPER I SOCI\nCOOP TI ASPETTA A\nEXPO MILANO 2015\nDAL 1 MAGGIO AL 31 OTTOBRE\nPER PARLARE INSIEME\nDI ALIMENTAZIONE,\nSOSTENIBILITÀ E SVILUPPO.\n\nFonte: <http://www.laspesainfamiglia.coop/News-ed-Eventi/Eventi/Acquista-i-biglietti-Expo-Milano-30-per-i-Soci>.\n\n73 L'obiettivo del volantino è:",
+      principal: "ITALIANO\nIl volantino che segue ti servirà per rispondere alle domande 73 e 74.\n\nACQUISTA ON LINE I BIGLIETTI\nPER EXPO MILANO 2015\nBIGLIETTO SPECIALE\n-30%\nPER I SOCI\nCOOP TI ASPETTA A\nEXPO MILANO 2015\nDAL 1 MAGGIO AL 31 OTTOBRE\nPER PARLARE INSIEME\nDI ALIMENTAZIONE,\nSOSTENIBILITÀ E SVILUPPO.\n\nFonte: <http://www.laspesainfamiglia.$coop/News$-ed-Eventi/Eventi/Acquista-i-biglietti-Expo-Milano-30-per-i-Soci>.\n\n73 L'obiettivo del volantino è:",
       subItens: []
     },
     options: [
@@ -1557,14 +1557,14 @@ createQuestion({
     university: "ufpr",
     year: 2016,
     text: {
-      principal: "Il testo che segue ti servirà per rispondere alle domande 75 a 80.\n\nAffitti, nuove professioni e inventiva\nAirbnb decolla in Italia in vista di Expo\n\n\"Ho fatto i conti, se metto il mio monolocale in affitto su Airbnb per Expo ci guadagno 30 mila euro. E sai cosa ti dico? Per sei mesi mi trasferisco da mia madre\". Marco ha 34 anni, è un giornalista freelance e da qualche anno fa fatica a piazzare i suoi articoli. Così dopo che la nonna gli ha lasciato in eredità un appartamento in centro a Milano, Marco sta pensando di cambiare vita per un po' guadagnandoci pure. Aperitivi, cene, gite fuori porta. In questo momento è facile incappare in conversazioni simili. Sono parecchi i milanesi che stanno pensando di sfruttare l'Expo per guadagnare qualche soldo, alla faccia dell'economia e degli affari che non girano. E tra le tante opportunità che la sharing economy offre una è proprio l'affitto degli appartamenti, come dimostra pure una ricerca Doxa che parla di due lombardi su tre pronti a prestare qualcosa di proprio.\n[...] Airbnb ha anche un altro merito, cioè, quello di aver creato nuovi \"posti di lavoro\". Uno su tutti quello dell'host professionale. \"Dopo aver affittato una volta il mio appartamento con Airbnb, mi sono resa conto di quanto sia importante l'accoglienza per promuovere il turismo nel nostro Paese, così mi sono data da fare con tutta una serie di iniziative\", racconta Sara M., 37 anni, che, stanca di un lavoro che non la soddisfaceva, ha deciso di cambiare vita. Ora si preoccupa, dietro pagamento di una \"mancia\", anche di affittare le case degli \"amici\". \"Faccio trovare un welcome kit per la prima colazione, do indicazioni turistiche utili per il soggiorno e tutto ciò che è necessario per far sentire le persone a casa\". Poi i contatti con la donna delle pulizie e la consegna e il ritiro delle chiavi. Come lei, anche Giovanni F., che, in vista di Expo, sta organizzando una pagina Facebook per offrire questo tipo di servizi a chi non ha voglia di stare dietro agli affitti brevi di casa propria. Studenti, casalinghe, disoccupati: Expo e Airbnb sono una buona occasione per rimettersi in piedi dopo anni difficili. “E non mi interessa della zona grigia della legge e delle tasse. Dovrò pur campare in qualche modo\", spiega ancora Giovanni, che in media per i suoi servizi chiede un 20 per cento del totale della transazione.\n\nAdattato da: <http://seigradi.corriere.it/2015/03/24/affitti-nuove-professioni-e-inventiva-airbnb-decolla-in-italia-in-vista-di-expo/>.\n\n75 - In base a quello che hai letto, Airbnb:",
+      principal: "Il testo che segue ti servirà per rispondere alle domande 75 a 80.\n\nAffitti, nuove professioni e inventiva\nAirbnb decolla in Italia in vista di Expo\n\n\"Ho fatto i conti, se metto il mio monolocale in affitto su Airbnb per Expo ci guadagno 30 mila euro. E sai cosa ti dico? Per sei mesi mi trasferisco da mia madre\". Marco ha 34 anni, è un giornalista freelance e da qualche anno fa fatica a piazzare i suoi articoli. $\\cos$ì dopo che la nonna gli ha lasciato in eredità un appartamento in centro a Milano, Marco sta pensando di cambiare vita per un po' guadagnandoci pure. Aperitivi, cene, gite fuori porta. In questo momento è facile incappare in conversazioni simili. Sono parecchi i milanesi che stanno pensando di sfruttare l'Expo per guadagnare qualche soldo, alla faccia dell'economia e degli affari che non girano. E tra le tante opportunità che la sharing economy offre una è proprio l'affitto degli appartamenti, come dimostra pure una ricerca Doxa che parla di due lombardi su tre pronti a prestare qualcosa di proprio.\n[...] Airbnb ha anche un altro merito, cioè, quello di aver creato nuovi \"posti di lavoro\". Uno su tutti quello dell'host professionale. \"Dopo aver affittato una volta il mio appartamento con Airbnb, mi sono resa conto di quanto sia importante l'accoglienza per promuovere il turismo nel nostro Paese, $\\cos$ì mi sono data da fare con tutta una serie di iniziative\", racconta Sara M., 37 anni, che, stanca di un lavoro che non la soddisfaceva, ha deciso di cambiare vita. Ora si preoccupa, dietro pagamento di una \"mancia\", anche di affittare le case degli \"amici\". \"Faccio trovare un welcome kit per la prima colazione, do indicazioni turistiche utili per il soggiorno e tutto ciò che è necessario per far sentire le persone a casa\". Poi i contatti con la donna delle pulizie e la consegna e il ritiro delle chiavi. Come lei, anche Giovanni F., che, in vista di Expo, sta organizzando una pagina Facebook per offrire questo tipo di servizi a $\\chi$ non ha voglia di stare dietro agli affitti brevi di casa propria. Studenti, casalinghe, disoccupati: Expo e Airbnb sono una buona occasione per rimettersi in piedi dopo anni difficili. “E non mi interessa della zona grigia della legge e delle tasse. Dovrò pur campare in qualche modo\", spiega ancora Giovanni, che in media per i suoi servizi chiede un 20 per cento del totale della transazione.\n\nAdattato da: <http://seigradi.corriere.it/2015/03/24/affitti-nuove-professioni-e-inventiva-airbnb-decolla-in-italia-in-vista-di-expo/>.\n\n75 - In base a quello che hai letto, Airbnb:",
       subItens: []
     },
     options: [
       "è una compagnia aerea che, in vista di Expo, ha cominciato a operare voli in Italia.",
       "è una catena di alberghi a basso costo che sponsorizza l'Expo Milano 2015.",
       "è diventato un'opportunità di guadagno extra per quelli che vivono a Milano.",
-      "sta aiutando l'Italia ad affrontare la crisi, offrendo vitto e alloggio a chi non ce li ha.",
+      "sta aiutando l'Italia ad affrontare la crisi, offrendo vitto e alloggio a $\\chi$ non ce li ha.",
       "incentiva gli italiani insoddisfatti delle loro professioni a cercare una nuova carriera."
     ],
     correctAnswer: 2,
@@ -1583,9 +1583,9 @@ createQuestion({
     },
     options: [
       "ha avuto difficoltà a pubblicare i suoi articoli negli ultimi anni.",
-      "non vuole più lavorare come giornalista freelance.",
+      "non vuole $\\pi$ù lavorare come giornalista freelance.",
       "non trova l'ispirazione per scrivere nuovi articoli.",
-      "non riesce più a mantenere l'appartamento e va a vivere dalla madre.",
+      "non riesce $\\pi$ù a mantenere l'appartamento e va a vivere dalla madre.",
       "lavora da Airbnb e guadagna circa 30 mila euro al mese."
     ],
     correctAnswer: 3,

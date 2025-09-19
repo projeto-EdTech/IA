@@ -49,11 +49,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "\"São estes inda os mesmos arvoredos; / Esta é a mesma rústica floresta.\" (v.3/4)",
-      "\"Este é o rio, a montanha é esta, / Estes os troncos, estes os rochedos;\" (v.1/2)",
+      "\"São estes inda os mesmos arvoredos; / Esta é a mesma rústica floresta.\" (v.$3/4$)",
+      "\"Este é o rio, a montanha é esta, / Estes os troncos, estes os rochedos;\" (v.$1/2$)",
       "\"Tudo me está a memória retratando.” (v.12)",
-      "\"Que de amor nos suavíssimos enredos / Foi cena alegre, e urna é já funesta.” (v.7/8)",
-      "\"Tudo cheio de horror se manifesta, / Rio, montanha, troncos, e penedos;\" (v.5/6)"
+      "\"Que de amor nos suavíssimos enredos / Foi cena alegre, e urna é já funesta.” (v.$7/8$)",
+      "\"Tudo cheio de horror se manifesta, / Rio, montanha, troncos, e penedos;\" (v.$5/6$)"
     ],
     correctAnswer: 3,
     materia: ["Língua Portuguesa"],
@@ -87,7 +87,7 @@ createQuestion({
     university: "ufrr",
     year: 2022,
     text: {
-      principal: "Nos primeiros dias, os modelos epidemiológicos apresentam um crescimento exponencial. Matematicamente, o número de infectados em função do tempo é dado pela expressão I(t) = I₁eʳ⁽ᵗ⁻¹⁾, onde t é o tempo dado em dias, I₁ é o número de infectados no 1º dia (t = 1), e é o número de Euler e r é a taxa de crescimento do número de casos. Em Roraima, o número de infectados por COVID-19 no 1º dia foi de 2 pessoas e a taxa de crescimento r da infecção era de 0,25. Considerando logₑ8 = 2,25, o dia em que Roraima possuía 16 infectados foi:",
+      principal: "Nos primeiros dias, os modelos epidemiológicos apresentam um crescimento exponencial. Matematicamente, o número de infectados em função do tempo é dado pela expressão I(t) = I₁eʳ⁽ᵗ⁻¹⁾, onde t é o tempo dado em dias, I₁ é o número de infectados no 1º dia (t = 1), e é o número de Euler e r é a taxa de crescimento do número de casos. Em Roraima, o número de infectados por COVID-19 no 1º dia foi de 2 pessoas e a taxa de crescimento r da infecção era de 0,25. Considerando $\\log$ₑ8 = 2,25, o dia em que Roraima possuía 16 infectados foi:",
       subItens: []
     },
     options: [
@@ -112,11 +112,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "1/8",
+      "$1/8$",
       "7",
       "8",
-      "7/8",
-      "1/7"
+      "$7/8$",
+      "$1/7$"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -234,15 +234,15 @@ createQuestion({
     university: "ufrr",
     year: 2022,
     text: {
-      principal: "Em um recipiente, foram misturados, em igual quantidade de massa, dois fluídos miscíveis distintos, cujas massas específicas são, respectivamente, 4 g/cm³ e 2 g/cm³. Qual o valor arredondado da densidade final da mistura, após uma diluição homogênea?",
+      principal: "Em um recipiente, foram misturados, em igual quantidade de massa, dois fluídos miscíveis distintos, cujas massas específicas são, respectivamente, 4 $g/cm$³ e 2 $g/cm$³. Qual o valor arredondado da densidade final da mistura, após uma diluição homogênea?",
       subItens: []
     },
     options: [
-      "3,0 g/cm³",
-      "3,6 g/cm³",
-      "2,4 g/cm³",
-      "3,3 g/cm³",
-      "2,7 g/cm³"
+      "3,0 $g/cm$³",
+      "3,6 $g/cm$³",
+      "2,4 $g/cm$³",
+      "3,3 $g/cm$³",
+      "2,7 $g/cm$³"
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -318,7 +318,7 @@ createQuestion({
     university: "ufrr",
     year: 2022,
     text: {
-      principal: "“É muito fácil lançar mão de um apelido como 'galinhas-verdes' e achar graça de brasileiros querendo repetir os ritos do fascismo europeu. Mas a esquerda radical não abraçou o apelido 'galinhas-verdes' por falta de respeito. O objetivo era ridicularizar porque esta era uma forma de combater. Porque, apesar da Batalha da Praça da Sé, o fascismo brasileiro era mais organizado, mais estruturado e contava com maiores números que o comunismo\".\n(DORIA, Pedro. Fascismo à brasileira. São Paulo: Planeta, 2020, p. 237).\n\n\"Os integralistas [...] vestiam camisetas verdes e adotavam a letra grega sigma como formas que incentivariam um forte sentimento de comunhão e amor à pátria. Mesmo contando com intensas manifestações, os integralistas perderam força com a implementação do Estado Novo, no final dos anos 1930\".\n(Adaptado de: SOUSA, Rainer G. A Ação Integralista Brasileira. In: Brasil Escola. Disponível em: https://brasilescola.uol.com.br/historiab/a-acao-integralista-brasileira.htm.)\n\nSobre os regimes políticos europeus do entreguerras no século XX e de sua influência sobre o cenário político brasileiro da década de 1930, é CORRETO dizer que:",
+      principal: "“É muito fácil lançar mão de um apelido como 'galinhas-verdes' e achar graça de brasileiros querendo repetir os ritos do fascismo europeu. Mas a esquerda radical não abraçou o apelido 'galinhas-verdes' por falta de respeito. O objetivo era ridicularizar porque esta era uma forma de combater. Porque, apesar da Batalha da Praça da Sé, o fascismo brasileiro era mais organizado, mais estruturado e contava com maiores números que o comunismo\".\n(DORIA, Pedro. Fascismo à brasileira. São Paulo: Planeta, 2020, p. 237).\n\n\"Os integralistas [...] vestiam camisetas verdes e adotavam a letra grega $\\sigma$ como formas que incentivariam um forte sentimento de comunhão e amor à pátria. Mesmo contando com intensas manifestações, os integralistas perderam força com a implementação do Estado Novo, no final dos anos 1930\".\n(Adaptado de: SOUSA, Rainer G. A Ação Integralista Brasileira. In: Brasil Escola. Disponível em: https://brasilescola.uol.com.br/historiab/a-acao-integralista-brasileira.htm.)\n\nSobre os regimes políticos europeus do entreguerras no século XX e de sua influência sobre o cenário político brasileiro da década de 1930, é CORRETO dizer que:",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "ufrr",
     year: 2022,
     text: {
-      principal: "O ouro pode ser encontrado na natureza associado a diferentes minerais, como carbonatos, sulfetos e feldspatos. Porém, sua associação mais comum é com o quartzo, um mineral composto basicamente de dióxido de silício. Uma pepita de ouro e quartzo de 93,6 g apresenta densidade de 7,8 g/cm³. Considerando que a densidade do ouro é 19,3 g/cm³ e a densidade do quartzo é 2,6 g/cm³, o número de átomos de ouro presentes na pepita é:",
+      principal: "O ouro pode ser encontrado na natureza associado a diferentes minerais, como carbonatos, sulfetos e feldspatos. Porém, sua associação mais comum é com o quartzo, um mineral composto basicamente de dióxido de silício. Uma pepita de ouro e quartzo de 93,6 g apresenta densidade de 7,8 $g/cm$³. Considerando que a densidade do ouro é 19,3 $g/cm$³ e a densidade do quartzo é 2,6 $g/cm$³, o número de átomos de ouro presentes na pepita é:",
       subItens: []
     },
     options: [
@@ -444,7 +444,7 @@ createQuestion({
     university: "ufrr",
     year: 2022,
     text: {
-      principal: "ENGLISH\n\nTEXT I\n\nBolsa Família - a decade of social inclusion in Brazil\nA decade debunking myths and exceeding expectations\n\nIn 2003, the Bolsa Família Program (BFP) was taking its first steps, with a broad set of challenges still ahead. Its objectives were to contribute to the social inclusion of families constrained by extreme poverty by providing immediate relief to their situation, and to stimulate improvements to their education and health, in order to cease the intergenerational cycle of poverty reproduction. It was necessary to unify existing sectoral programs of cash transfer, consolidate the Unified Registry for Social Programs (Cadastro Único para Programas Sociais – CadÚnico), create a federal strategy for its management, monitor the conditionalities and ensure supply and access to basic services. Ten years later, the objectives were fully achieved and, in most cases, surpassed. Based on its wide coverage, excellent focus and significant impacts on the living conditions of the population, the success of the BFP is evident.\nAdaptado de: CAMPELLO, T.; NERI, M.C. (org). Bolsa Família Program - a decade of social inclusion in Brazil - Executive Summary. Brasília: IPEA, 2014. Disponível em: https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=21864. Acesso em 20 out. 2021.\n\nO livro \"Bolsa Família Programme – a decade of social inclusion in Brazil\" foi lançado em 2013, marcando o décimo aniversário do programa. Este trecho, retirado de um resumo da obra, tem por objetivo:",
+      principal: "ENGLISH\n\nTEXT I\n\nBolsa Família - a decade of social inclusion in Brazil\nA decade debunking myths and exceeding expectations\n\nIn 2003, the Bolsa Família Program (BFP) was taking its first steps, with a broad set of challenges still ahead. Its objectives were to contribute to the social inclusion of families constrained by extreme poverty by providing immediate relief to their situation, and to stimulate improvements to their education and health, in order to cease the intergenerational cycle of poverty reproduction. It was necessary to unify existing sectoral programs of cash transfer, consolidate the Unified Registry for Social Programs (Cadastro Único para Programas Sociais – CadÚnico), create a federal strategy for its management, monitor the conditionalities and ensure supply and access to basic services. Ten years later, the objectives were fully achieved and, in most cases, surpassed. Based on its wide coverage, excellent focus and significant impacts on the living conditions of the population, the success of the BFP is evident.\nAdaptado de: CAMPELLO, T.; NERI, M.C. (org). Bolsa Família Program - a decade of social inclusion in Brazil - Executive Summary. Brasília: IPEA, 2014. Disponível em: https://www.ipea.gov.br/portal/index.php?option=$com_content$&view=article&id=21864. Acesso em 20 out. 2021.\n\nO livro \"Bolsa Família Programme – a decade of social inclusion in Brazil\" foi lançado em 2013, marcando o décimo aniversário do programa. Este trecho, retirado de um resumo da obra, tem por objetivo:",
       subItens: []
     },
     options: [
@@ -465,7 +465,7 @@ createQuestion({
     university: "ufrr",
     year: 2022,
     text: {
-      principal: "ENGLISH\n\nTEXT I\n\nBolsa Família - a decade of social inclusion in Brazil\nA decade debunking myths and exceeding expectations\n\nIn 2003, the Bolsa Família Program (BFP) was taking its first steps, with a broad set of challenges still ahead. Its objectives were to contribute to the social inclusion of families constrained by extreme poverty by providing immediate relief to their situation, and to stimulate improvements to their education and health, in order to cease the intergenerational cycle of poverty reproduction. It was necessary to unify existing sectoral programs of cash transfer, consolidate the Unified Registry for Social Programs (Cadastro Único para Programas Sociais – CadÚnico), create a federal strategy for its management, monitor the conditionalities and ensure supply and access to basic services. Ten years later, the objectives were fully achieved and, in most cases, surpassed. Based on its wide coverage, excellent focus and significant impacts on the living conditions of the population, the success of the BFP is evident.\nAdaptado de: CAMPELLO, T.; NERI, M.C. (org). Bolsa Família Program - a decade of social inclusion in Brazil - Executive Summary. Brasília: IPEA, 2014. Disponível em: https://www.ipea.gov.br/portal/index.php?option=com_content&view=a rticle&id=21864. Acesso em 20 out. 2021.\n\nVerb tenses indicate when events happened telling the readers about the time of a text. Based on the predominant verb structures of the text above, we can affirm it:",
+      principal: "ENGLISH\n\nTEXT I\n\nBolsa Família - a decade of social inclusion in Brazil\nA decade debunking myths and exceeding expectations\n\nIn 2003, the Bolsa Família Program (BFP) was taking its first steps, with a broad set of challenges still ahead. Its objectives were to contribute to the social inclusion of families constrained by extreme poverty by providing immediate relief to their situation, and to stimulate improvements to their education and health, in order to cease the intergenerational cycle of poverty reproduction. It was necessary to unify existing sectoral programs of cash transfer, consolidate the Unified Registry for Social Programs (Cadastro Único para Programas Sociais – CadÚnico), create a federal strategy for its management, monitor the conditionalities and ensure supply and access to basic services. Ten years later, the objectives were fully achieved and, in most cases, surpassed. Based on its wide coverage, excellent focus and significant impacts on the living conditions of the population, the success of the BFP is evident.\nAdaptado de: CAMPELLO, T.; NERI, M.C. (org). Bolsa Família Program - a decade of social inclusion in Brazil - Executive Summary. Brasília: IPEA, 2014. Disponível em: https://www.ipea.gov.br/portal/index.php?option=$com_content$&view=a rticle&id=21864. Acesso em 20 out. 2021.\n\nVerb tenses indicate when events happened telling the readers about the time of a text. Based on the predominant verb structures of the text above, we can affirm it:",
       subItens: []
     },
     options: [

@@ -229,7 +229,7 @@ createQuestion({
     options: [
       "Abre o romance com um prólogo \"Ao Leitor\" e considera que sua obra terá a acolhida tanto da gente grave quanto da gente frívola, que são as duas colunas máximas da opinião.",
       "Elabora capítulos desprovidos de palavras, mas configurados por diagramação gráfica, como \"O Velho diálogo de Adão e Eva\", desafiando o leitor e pondo em cheque sua capacidade interpretativa.",
-      "Dedica ao leitor um capítulo em especial denominado \"O Senão do Livro\", em que o considera o maior defeito do livro, por exigir do texto aquilo que ele não lhe pode dar.",
+      "Dedica ao leitor um capítulo em especial denominado \"O $\\sin$ão do Livro\", em que o considera o maior defeito do livro, por exigir do texto aquilo que ele não lhe pode dar.",
       "Dirige-se ao leitor esperando sempre sua concordância e opinião favorável, capaz de validar a qualidade que o autor reconhece que a obra mesma tem."
     ],
     correctAnswer: 0,
@@ -363,7 +363,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Some Animals Can Suffer From Mental Illness, Too\nDisponível em: http://nymag.com/scienceofus/2015/09/some-animals-can-suffer-from-mental-illness-too.html. Acessado em 16/10/2015.\nAdaptado para fins educacionais.\nBy Melissa Dahl Follow @melissadahl\nPhoto: GK Hart/Vikki Hart/ Getty Images\nMaybe you've had or heard about a pet cat on Prozac, or a dog that doesn't quite seem like itself in the weeks following the death of another animal in the home. On the one hand, it's hard not to question whether there is some owner-projection or anthropomorphism happening here. But on the other, some scientists are starting to seriously investigate the inner lives of animals, including potential signs of mental illness.\nDe acordo com o texto,",
+      principal: "Some Animals Can Suffer From Mental Illness, Too\nDisponível em: http://nymag.com/scienceofus/2015/09/some-animals-can-suffer-from-mental-illness-too.html. Acessado em 16/10/2015.\nAdaptado para fins educacionais.\nBy Melissa Dahl Follow @melissadahl\nPhoto: GK $Hart/Vikki$ Hart/ Getty Images\nMaybe you've had or heard about a pet cat on Prozac, or a dog that doesn't quite seem like itself in the weeks following the death of another animal in the home. On the one hand, it's hard not to question whether there is some owner-projection or anthropomorphism happening here. But on the other, some scientists are starting to seriously investigate the inner lives of animals, including potential signs of mental illness.\nDe acordo com o texto,",
       subItens: []
     },
     options: [
@@ -403,7 +403,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Germine et al. Individual Aesthetic Preferences for Faces Are Shaped Mostly by Environments, Not Genes.\nCurrent Biology, October 2015 DOI: 10.1016/j.cub.2015.08.048\nDisponível em: www.sciencedaily.com/releases/2015/10/151001125637.htm. Acessado em 29/09/2015. Adaptado para fins educacionais.\nMany of us have had the experience of disagreeing with friends or family about which celebrity is more attractive. Now, researchers reporting in the Cell Press journal Current Biology on October 1 show in a study of twins that those differences of opinion are mostly the result of personal experiences that are unique to each individual. In other words, even identical twins don't agree.\nEscolha a alternativa correta.",
+      principal: "Germine et al. Individual Aesthetic Preferences for Faces Are Shaped Mostly by Environments, Not Genes.\nCurrent Biology, October 2015 DOI: 10.$1016/j$.cub.2015.08.048\nDisponível em: www.sciencedaily.com/releases/2015/10/151001125637.htm. Acessado em 29/09/2015. Adaptado para fins educacionais.\nMany of us have had the experience of disagreeing with friends or family about which celebrity is more attractive. Now, researchers reporting in the Cell Press journal Current Biology on October 1 show in a study of twins that those differences of opinion are mostly the result of personal experiences that are unique to each individual. In other words, even identical twins don't agree.\nEscolha a alternativa correta.",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Observe o folheto abaixo e responda às questões 22 e 23.\nHeat Stroke is NO JOKE! Is your dog predisposed? While any pet can suffer heat stroke, those that are OVERWEIGHT, DARK COATED, or BRACHYCEPHALIC (squishy nosed) are at extra risk. Do you know the signs of heat stroke? - restlessness - heavy panting - bright red gums - hypersalivation - vomiting/diarrhea - collapse Fact Dogs release heat through panting and have very few sweat glands in the foot pads. How do I keep my pets safe during heat waves? Avoid walks during the hot times of day Keep your pet cool and hydrated Call a vet ER for guidance if concerned Immersing a pet in ice can worsen the situation. Spray pet with cool water and CALL THE VET! Time is of the essence. http://pawcurious.com/2015/09/heat-stroke-is-no-joke/. Acessado em 25/09/2015.\nDe acordo com o folheto,",
+      principal: "Observe o folheto abaixo e responda às questões 22 e 23.\nHeat Stroke is NO JOKE! Is your dog predisposed? While any pet can suffer heat stroke, those that are OVERWEIGHT, DARK COATED, or BRACHYCEPHALIC (squishy nosed) are at extra risk. Do you know the signs of heat stroke? - restlessness - heavy panting - bright red gums - hypersalivation - $vomiting/diarrhea$ - collapse Fact Dogs release heat through panting and have very few sweat glands in the foot pads. How do I keep my pets safe during heat waves? Avoid walks during the hot times of day Keep your pet cool and hydrated Call a vet ER for guidance if concerned Immersing a pet in ice can worsen the situation. Spray pet with cool water and CALL THE VET! Time is of the essence. http://pawcurious.com/2015/09/heat-stroke-is-no-joke/. Acessado em 25/09/2015.\nDe acordo com o folheto,",
       subItens: []
     },
     options: [
@@ -483,7 +483,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Leia o texto a seguir e responda às questões 25 e 26\nAckman-Backed Harvard Grads Make Aiding the Poor a New Business\nDisponível em: www.bloomberg.com/news/articles/2015-09-21/ackman-backed-harvard-grads-make-aiding-the-poor-a-new-business. Acessado em 30/09/2015. Reorganizado e adaptado para fins educacionais.\nSangwon Yoon\nMichael Faye and Paul Niehaus spent summers as Harvard graduate students trying to give cash to the poor in the villages of Kenya. The villagers were perplexed; development experts thought the two had lost their minds. People who live on less than a dollar a day, the experts said, were sure to spend the money on cigarettes and alcohol.\nPeople wash clothes in the Kibera slum, located in Nairobi, Kenya. Photographer: Thomas Campean/Anadolu Agency/ Getty Images\nSeven years later, the idea is upending the international aid industry. Giving cash directly to the very poor turns out to be more efficient and productive than when charities with high overhead distribute goods and food. Those in extreme need take the cash and use it wisely. Giving a year's income of $1,000 to Kenyans who live on about 60 cents a day via mobile banking system M-Pesa, showed a 34 percent increase in earnings and a 52 percent rise in assets. Beneficiaries invested the cash, buying livestock and land for longer-term returns.\nHeavyweight investors such as Mr Ackman, from Ackman's Pershing Square Foundation, have decided to back the former grads' project, transforming it into a new business.\nO resultado do experimento de Michael Faye e Paul Niehaus mostra que",
+      principal: "Leia o texto a seguir e responda às questões 25 e 26\nAckman-Backed Harvard Grads Make Aiding the Poor a New Business\nDisponível em: www.bloomberg.com/news/articles/2015-09-$21/ackman$-backed-harvard-grads-make-aiding-the-poor-a-new-business. Acessado em 30/09/2015. Reorganizado e adaptado para fins educacionais.\nSangwon Yoon\nMichael Faye and Paul Niehaus spent summers as Harvard graduate students trying to give cash to the poor in the villages of Kenya. The villagers were perplexed; development experts thought the two had lost their minds. People who live on less than a dollar a day, the experts said, were sure to spend the money on cigarettes and alcohol.\nPeople wash clothes in the Kibera slum, located in Nairobi, Kenya. Photographer: Thomas $Campean/Anadolu$ Agency/ Getty Images\nSeven years later, the idea is upending the international aid industry. Giving cash directly to the very poor turns out to be more efficient and productive than when charities with high overhead distribute goods and food. Those in extreme need take the cash and use it wisely. Giving a year's income of $1,000 to Kenyans who live on about 60 cents a day via mobile banking system M-Pesa, showed a 34 percent increase in earnings and a 52 percent rise in assets. Beneficiaries invested the cash, buying livestock and land for longer-term returns.\nHeavyweight investors such as Mr Ackman, from Ackman's Pershing Square Foundation, have decided to back the former grads' project, transforming it into a new business.\nO resultado do experimento de Michael Faye e Paul Niehaus mostra que",
       subItens: []
     },
     options: [
@@ -523,7 +523,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Mind reading may one day be possible, researchers say\nDisponível em: www.theguardian.com/us-news/2015/sep/24/mind-reading-may-one-day-be-possible-researchers-say\nAcessado em 25/09/2015. Adaptado para fins educacionais.\nEllen Brait\nAccording to a new study, 'a non-invasive brain-to-brain interface (BBI) can be used to allow one human to guess what is on the mind of another human'. Mind reading might not be as improbable as many people believe, says a study published by researchers at the University of Washington.\nPhotograph: Allan Ajifo/flickr via Creative Commons\nDentre as alternativas abaixo, a expressão mais apropriada em português para \"might not be\" no trecho \"Mind reading might not be as improbable as many people believe” é",
+      principal: "Mind reading may one day be possible, researchers say\nDisponível em: www.theguardian.$com/us$-news/2015/sep/24/mind-reading-may-one-day-be-possible-researchers-say\nAcessado em 25/09/2015. Adaptado para fins educacionais.\nEllen Brait\nAccording to a new study, 'a non-invasive brain-to-brain interface (BBI) can be used to allow one human to guess what is on the mind of another human'. Mind reading might not be as improbable as many people believe, says a study published by researchers at the University of Washington.\nPhotograph: Allan $Ajifo/flickr$ via Creative Commons\nDentre as alternativas abaixo, a expressão mais apropriada em português para \"might not be\" no trecho \"Mind reading might not be as improbable as many people believe” é",
       subItens: []
     },
     options: [
@@ -723,7 +723,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Leia:\n\"O mercado de combustíveis fósseis está em negação sobre a queda de demanda futura e iludindo seus investidores. Uma análise da Carbon Tracker Initiative questiona os cenários promovidos por grandes empresas de energia, que calculam que o uso de fósseis continuará a crescer nas próximas décadas – sem considerar o barateamento das fontes renováveis, a inclinação à descarbonização de muitos países e o alto investimento em outras tecnologias de armazenamento de energia e eficiência energética.\"\n(Perdidos na transição energética. In Observatório do Clima, http://www.observatoriodoclima.eco.br/perdidos-na-transicao-energetica/, acesso 27/10/2015)\nConsiderando o questionamento feito no texto ao mercado produtor e comercial de combustíveis fósseis, é correto afirmar que",
+      principal: "Leia:\n\"O mercado de combustíveis fósseis está em negação sobre a queda de demanda futura e iludindo seus investidores. Uma análise da Carbon Tracker Initiative questiona os cenários promovidos por grandes empresas de energia, que calculam que o uso de fósseis continuará a crescer nas próximas décadas – sem considerar o barateamento das fontes renováveis, a inclinação à descarbonização de muitos países e o alto investimento em outras tecnologias de armazenamento de energia e eficiência energética.\"\n(Perdidos na transição energética. In Observatório do Clima, http://www.observatoriodoclima.eco.$br/perdidos$-na-transicao-energetica/, acesso 27/10/2015)\nConsiderando o questionamento feito no texto ao mercado produtor e comercial de combustíveis fósseis, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -743,14 +743,14 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Sobre a origem da divisão \"Norte/Sul\" do mundo:\nÉ em 1980 que nasce o par Norte/Sul, numa publicação do Banco Mundial (presidido por Willy Brandt) da Comissão Independente sobre os problemas de desenvolvimento internacional, intitulado Norte-Sul: um programa de sobrevivência. Em seguida o termo se torna corrente e é utilizado tanto no domínio público quanto nos materiais escolares.\n(Transcrição de palestra de Christian Grataloup. Vida e morte do par Norte/Sul, In: Les Cafés Géographiques, 30/09/2015, http://cafe-geo.net/, acesso 25/10/2015)\nA expressão Norte/Sul, de largo uso atualmente, tem uma história que revela um aspecto das relações internacionais. A esse respeito, pode ser afirmado que",
+      principal: "Sobre a origem da divisão \"$Norte/Sul$\" do mundo:\nÉ em 1980 que nasce o par $Norte/Sul$, numa publicação do Banco Mundial (presidido por Willy Brandt) da Comissão Independente sobre os problemas de desenvolvimento internacional, intitulado Norte-Sul: um programa de sobrevivência. Em seguida o termo se torna corrente e é utilizado tanto no domínio público quanto nos materiais escolares.\n(Transcrição de palestra de Christian Grataloup. Vida e morte do par $Norte/Sul$, In: Les Cafés Géographiques, 30/09/2015, http://cafe-geo.net/, acesso 25/10/2015)\nA expressão $Norte/Sul$, de largo uso atualmente, tem uma história que revela um aspecto das relações internacionais. A esse respeito, pode ser afirmado que",
       subItens: []
     },
     options: [
       "ela substitui a divisão do mundo entre países desenvolvidos e subdesenvolvidos, isso porque houve uma queda grande da desigualdade entre os países do mundo.",
       "essa divisão é apenas uma frase de efeito, pois ao pretender distinguir os países ricos dos pobres, comete uma confusão, pois vários dos países ricos do mundo estão no Sul.",
       "como expressão da moda, tem o mesmo significado que a oposição entre Primeiro, Segundo e Terceiro Mundo, e entre países desenvolvidos e países subdesenvolvidos.",
-      "foram as desigualdades existentes na escala mundial, entre os países, que deram origem à distinção entre Norte/Sul."
+      "foram as desigualdades existentes na escala mundial, entre os países, que deram origem à distinção entre $Norte/Sul$."
     ],
     correctAnswer: 3,
     materia: ["Geografia"],
@@ -850,7 +850,7 @@ createQuestion({
       "os países mais populosos, em razão das infinitas demandas econômicas e sociais, não conseguem investir parcelas expressivas do seu PIB em educação.",
       "descontada a China, os países mais populosos estão entre os maiores percentuais do PIB investidos em educação.",
       "os países de maior território têm que despender maiores percentuais do seu PIB, pois custa mais caro estruturar sistemas de ensino em vastas extensões.",
-      "não há uma correspondência entre as classes de percentuais maiores e menores de investimento e a divisão entre países mais ricos e países mais pobres (divisão N/S)."
+      "não há uma correspondência entre as classes de percentuais maiores e menores de investimento e a divisão entre países mais ricos e países mais pobres (divisão $N/S$)."
     ],
     correctAnswer: 3,
     materia: ["Geografia"],
@@ -903,7 +903,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Dizem que o autor do poema seguinte não foi outro senão o próprio geômetra Euclides da Alexandria – nascido por volta do ano 330 a.C. -, o que prova que também os grandes matemáticos se dedicam, ocasionalmente, a pequenos problemas, sem baixar a sua dignidade.\nAsno e mulo vinham pela estrada carregados de sacos.\nSob o peso dos fardos, o asno gemia e resmungava, inconformado.\nAquele o notou, e assim falou ao apoquentado companheiro:\n\"Dize-me, velhinho, que choras e lamentas qual inocente rapariga,\nO dobro do que tu levas carregaria eu, se me desses um volume;\nSe me tomasses um, ah!, então sim, conduziríamos ambos a mesma carga.\"\nTu, geômetra perito, dize-me quantos fardos transportavam?\nFonte: A Magia dos Números; Paul Karlson - Coleção Tapete Mágico XXXI – Editora Globo, RJ – 1961\nCom base nas informações dadas pelo mulo, é correto afirmar que, o produto das quantidades de sacos que cada um carregava é um número",
+      principal: "Dizem que o autor do poema seguinte não foi outro $\\sin$ão o próprio geômetra Euclides da Alexandria – nascido por volta do ano 330 a.C. -, o que prova que também os grandes matemáticos se dedicam, ocasionalmente, a pequenos problemas, sem baixar a sua dignidade.\nAsno e mulo vinham pela estrada carregados de sacos.\nSob o peso dos fardos, o asno gemia e resmungava, inconformado.\nAquele o notou, e assim falou ao apoquentado companheiro:\n\"Dize-me, velhinho, que choras e lamentas qual inocente rapariga,\nO dobro do que tu levas carregaria eu, se me desses um volume;\nSe me tomasses um, ah!, então sim, conduziríamos ambos a mesma carga.\"\nTu, geômetra perito, dize-me quantos fardos transportavam?\nFonte: A Magia dos Números; Paul Karlson - Coleção Tapete Mágico XXXI – Editora Globo, RJ – 1961\nCom base nas informações dadas pelo mulo, é correto afirmar que, o produto das quantidades de sacos que cada um carregava é um número",
       subItens: []
     },
     options: [
@@ -943,7 +943,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Seja o triângulo equilátero T₁ cujo lado mede x cm. Unindo-se os pontos médios dos lados de T₁, obtém-se um novo triângulo equilátero T2; unindo-se os pontos médios dos lados do triângulo T2, obtém-se um novo triângulo equilátero T3; e, assim, sucessivamente. Nessas condições, se a área do triângulo T, é igual a 25√3/64 cm², então x é igual a:",
+      principal: "Seja o triângulo equilátero T₁ cujo lado mede x cm. Unindo-se os pontos médios dos lados de T₁, obtém-se um novo triângulo equilátero T2; unindo-se os pontos médios dos lados do triângulo T2, obtém-se um novo triângulo equilátero T3; e, assim, sucessivamente. Nessas condições, se a área do triângulo T, é igual a 25√$3/64$ cm², então x é igual a:",
       subItens: []
     },
     options: [
@@ -1003,7 +1003,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Suponha que uma revista publicou um artigo no qual era estimado que, no ano de 2015 + x, com x ∈ {0, 1, 2, ..., 9, 10}, o valor arrecadado dos impostos incidentes sobre as exportações de certo país, em milhões de dólares, poderia ser obtido pela função f (x) = 250 + 12.cos(πx/3). Caso essa previsão se confirme, então, relativamente ao total arrecadado a cada ano considerado, é correto afirmar que:",
+      principal: "Suponha que uma revista publicou um artigo no qual era estimado que, no ano de 2015 + x, com x ∈ {0, 1, 2, ..., 9, 10}, o valor arrecadado dos impostos incidentes sobre as exportações de certo país, em milhões de dólares, poderia ser obtido pela função f (x) = 250 + 12.$\\cos$(π$x/3$). Caso essa previsão se confirme, então, relativamente ao total arrecadado a cada ano considerado, é correto afirmar que:",
       subItens: []
     },
     options: [
@@ -1083,7 +1083,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "O Slide, nome dado ao skate futurista, usa levitação magnética para se manter longe do chão e ainda ser capaz de carregar o peso de uma pessoa. É o mesmo princípio utilizado, por exemplo, pelos trens ultrarrápidos japoneses.\nPara operar, o Slide deve ter a sua estrutura metálica interna resfriada a temperaturas baixíssimas, alcançadas com nitrogênio líquido. Daí a \"fumaça\" que se vê nas imagens, que, na verdade, é o nitrogênio vaporizando novamente devido à temperatura ambiente e que, para permanecer no estado líquido, deve ser mantido a aproximadamente -200 graus Celsius. Então, quando o nitrogênio acaba, o skate para de \"voar\".\nFumaça que aparenta sair do skate, na verdade, é nitrogênio em gaseificação (Foto: Divulgação/Lexus)\nFonte: www.techtudo.com.br/noticias/noticia/2015/07/como-funciona-o-skate-voador-inspirado-no-filme-de-volta-para-o-futuro-2.html. Consultado em: 03/07/2015\nCom relação ao texto, a temperatura do nitrogênio líquido, -200°C, que resfria a estrutura metálica interna do Slide, quando convertida para as escalas Fahrenheit e Kelvin, seria respectivamente:",
+      principal: "O Slide, nome dado ao skate futurista, usa levitação magnética para se manter longe do chão e ainda ser capaz de carregar o peso de uma pessoa. É o mesmo princípio utilizado, por exemplo, pelos trens ultrarrápidos japoneses.\nPara operar, o Slide deve ter a sua estrutura metálica interna resfriada a temperaturas baixíssimas, alcançadas com nitrogênio líquido. Daí a \"fumaça\" que se vê nas imagens, que, na verdade, é o nitrogênio vaporizando novamente devido à temperatura ambiente e que, para permanecer no estado líquido, deve ser mantido a aproximadamente -200 graus Celsius. Então, quando o nitrogênio acaba, o skate para de \"voar\".\nFumaça que aparenta sair do skate, na verdade, é nitrogênio em gaseificação (Foto: Divulgaçã$o/Lexus$)\nFonte: www.techtudo.com.br/noticias/noticia/2015/07/como-funciona-o-skate-voador-inspirado-no-filme-de-volta-para-o-futuro-2.html. Consultado em: 03/07/2015\nCom relação ao texto, a temperatura do nitrogênio líquido, -200°C, que resfria a estrutura metálica interna do Slide, quando convertida para as escalas Fahrenheit e Kelvin, seria respectivamente:",
       subItens: []
     },
     options: [
@@ -1103,7 +1103,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Em uma máquina de Atwood ideal, são presas duas massas, tais que M₁>M2. Inicialmente as massas estão em repouso e niveladas. Após o abandono simultâneo das massas, verifica-se que a energia total do sistema é de 100J, após elas terem percorrido 5m em 2s, alcançando uma velocidade de 5,0m/s. Sabendo que o módulo da aceleração da gravidade é de 10m/s², determine, em kg, os valores de cada uma das massas.",
+      principal: "Em uma máquina de Atwood ideal, são presas duas massas, tais que M₁>M2. Inicialmente as massas estão em repouso e niveladas. Após o abandono simultâneo das massas, verifica-se que a energia total do sistema é de 100J, após elas terem percorrido 5m em 2s, alcançando uma velocidade de 5,$0m/s$. Sabendo que o módulo da aceleração da gravidade é de $10m/s$², determine, em kg, os valores de cada uma das massas.",
       subItens: []
     },
     options: [
@@ -1123,7 +1123,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Uma jovem de 60kg realiza seu primeiro salto de paraquedas a partir de um helicóptero que permanece estacionário. Desde o instante do salto até o momento em que ela aciona a abertura do paraquedas, passam-se 12s e durante todo esse tempo em que a jovem cai em queda livre, ela emite um grito de desespero cuja frequência é de 230Hz. Considerando a velocidade do som igual a 340m/s e o módulo da aceleração da gravidade igual a 10m/s², determine a frequência aparente aproximada desse grito, emitido no instante 12s, quando percebida pelo instrutor de salto situado no helicóptero.\nDespreze a resistência do ar até a abertura do paraquedas.",
+      principal: "Uma jovem de 60kg realiza seu primeiro salto de paraquedas a partir de um helicóptero que permanece estacionário. Desde o instante do salto até o momento em que ela aciona a abertura do paraquedas, passam-se 12s e durante todo esse tempo em que a jovem cai em queda livre, ela emite um grito de desespero cuja frequência é de 230Hz. Considerando a velocidade do som igual a $340m/s$ e o módulo da aceleração da gravidade igual a $10m/s$², determine a frequência aparente aproximada desse grito, emitido no instante 12s, quando percebida pelo instrutor de salto situado no helicóptero.\nDespreze a resistência do ar até a abertura do paraquedas.",
       subItens: []
     },
     options: [
@@ -1163,7 +1163,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Uma embarcação quando está lastreada, apresenta massa de 10.000kg. Ela possui um formato quadrado cujos lados são iguais a 10m e é utilizada no transporte de 2 veículos pesados por vez, de uma margem à outra de um lago de águas tranquilas. Numa determinada travessia, em que ela transportava dois caminhões idênticos e carregados com igual quantidade de uma mesma carga, verificou-se que a parte submersa dessa embarcação era de 40cm. Se cada caminhão vazio tem massa de 10 toneladas, determine a massa da carga, em kg, transportada por cada um deles.\nDados:\nDensidade da água= 1g/cm³\nMódulo da aceleração da gravidade= 10m/s²",
+      principal: "Uma embarcação quando está lastreada, apresenta massa de 10.000kg. Ela possui um formato quadrado cujos lados são iguais a 10m e é utilizada no transporte de 2 veículos pesados por vez, de uma margem à outra de um lago de águas tranquilas. Numa determinada travessia, em que ela transportava dois caminhões idênticos e carregados com igual quantidade de uma mesma carga, verificou-se que a parte submersa dessa embarcação era de 40cm. Se cada caminhão vazio tem massa de 10 toneladas, determine a massa da carga, em kg, transportada por cada um deles.\nDados:\nDensidade da água= $1g/cm$³\nMódulo da aceleração da gravidade= $10m/s$²",
       subItens: []
     },
     options: [
@@ -1203,7 +1203,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Um elevador de massa m = 2,5 x 10³ kg é dotado de um dispositivo de segurança que, em caso de queda, aplica sobre ele uma força de atrito de intensidade constante e igual a 5,0 x 10³N, no sentido oposto ao do seu movimento. Considere o elevador inicialmente parado a 10,0m de altura em relação ao solo. Se ele caísse dessa altura, em queda livre (sem atuação do equipamento de segurança), chegaria ao solo com velocidade de módulo VQLivre. Se ele caísse, dessa mesma altura, com a atuação do equipamento de segurança, chegaria ao solo com uma velocidade de módulo VDispositivo. Determine a razão (VQLivre/VDispositivo)². Adote g=10m/s².\nCaso os cabos se rompam, as travas de segurança entram em ação. As travas são os freios do elevador. Algumas travas prendem os trilhos de aço que sobem e descem pelo poço do elevador, enquanto outros cravam uma cunha nas fendas dos trilhos.",
+      principal: "Um elevador de massa m = 2,5 x 10³ kg é dotado de um dispositivo de segurança que, em caso de queda, aplica sobre ele uma força de atrito de intensidade constante e igual a 5,0 x 10³N, no sentido oposto ao do seu movimento. Considere o elevador inicialmente parado a 10,0m de altura em relação ao solo. Se ele caísse dessa altura, em queda livre (sem atuação do equipamento de segurança), chegaria ao solo com velocidade de módulo VQLivre. Se ele caísse, dessa mesma altura, com a atuação do equipamento de segurança, chegaria ao solo com uma velocidade de módulo VDispositivo. Determine a razão ($VQLivre/VDispositivo$)². Adote g=$10m/s$².\nCaso os cabos se rompam, as travas de segurança entram em ação. As travas são os freios do elevador. Algumas travas prendem os trilhos de aço que sobem e descem pelo poço do elevador, enquanto outros cravam uma cunha nas fendas dos trilhos.",
       subItens: []
     },
     options: [
@@ -1223,7 +1223,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Determine o raio de curvatura, em cm, de um espelho esférico que obedece às condições de nitidez de Gauss e que conjuga de um determinado objeto uma imagem invertida, de tamanho igual a 1/3 do tamanho do objeto e situada sobre o eixo principal desse espelho. Sabe-se que distância entre a imagem e o objeto é de 80cm.",
+      principal: "Determine o raio de curvatura, em cm, de um espelho esférico que obedece às condições de nitidez de Gauss e que conjuga de um determinado objeto uma imagem invertida, de tamanho igual a $1/3$ do tamanho do objeto e situada sobre o eixo principal desse espelho. Sabe-se que distância entre a imagem e o objeto é de 80cm.",
       subItens: []
     },
     options: [
@@ -1243,7 +1243,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "Com a finalidade de aproveitar os recursos naturais, o proprietário de um sítio instalou uma roda d'água conectada a um gerador elétrico com o objetivo de produzir eletricidade que será utilizada no aquecimento de 100 litros de água para usos diversos e que sofrerão uma variação de temperatura de 90°F. A roda d'água instalada possui uma eficiência de 20% e será movimentada por 300 litros de água por segundo que despencam em queda livre de uma altura de 4 metros. Para se obter a variação de temperatura desejada serão necessárias, em horas, aproximadamente,\nConsidere:\ndensidade da água = 1.10³ kg/m³\naceleração da gravidade = 10 m/s²\ncalor específico da água = 4,2 kJ/kg.K",
+      principal: "Com a finalidade de aproveitar os recursos naturais, o proprietário de um sítio instalou uma roda d'água conectada a um gerador elétrico com o objetivo de produzir eletricidade que será utilizada no aquecimento de 100 litros de água para usos diversos e que sofrerão uma variação de temperatura de 90°F. A roda d'água instalada possui uma eficiência de 20% e será movimentada por 300 litros de água por segundo que despencam em queda livre de uma altura de 4 metros. Para se obter a variação de temperatura desejada serão necessárias, em horas, aproximadamente,\nConsidere:\ndensidade da água = 1.10³ $kg/m$³\naceleração da gravidade = 10 $m/s$²\ncalor específico da água = 4,2 $kJ/kg$.K",
       subItens: []
     },
     options: [
@@ -1463,7 +1463,7 @@ createQuestion({
     university: "puc-sp",
     year: 2016,
     text: {
-      principal: "A criolita é um minério cujo principal componente é o fluoreto de alumínio e sódio. Sua principal aplicação é na produção do alumínio, onde é adicionada à alumina (óxido de alumínio), obtendo-se uma mistura de temperatura de fusão de 950°C, tornando economicamente viável a eletrólise da alumina e a obtenção do metal alumínio.\nA relação entre a massa de sódio e de alumínio na criolita é de 23/9 e, portanto, a fórmula mínima do fluoreto de alumínio e sódio é",
+      principal: "A criolita é um minério cujo principal componente é o fluoreto de alumínio e sódio. Sua principal aplicação é na produção do alumínio, onde é adicionada à alumina (óxido de alumínio), obtendo-se uma mistura de temperatura de fusão de 950°C, tornando economicamente viável a eletrólise da alumina e a obtenção do metal alumínio.\nA relação entre a massa de sódio e de alumínio na criolita é de $23/9$ e, portanto, a fórmula mínima do fluoreto de alumínio e sódio é",
       subItens: []
     },
     options: [

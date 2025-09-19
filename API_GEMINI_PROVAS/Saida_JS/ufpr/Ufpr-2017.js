@@ -66,7 +66,7 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "Considere a estrutura \"daquela em que estamos imersos\" (linha 2 do 1º parágrafo) e compare-a com as seguintes:\n1. o espaço\t_____\tque moramos\n2. a organização\t_____\tque confiamos\n3. a cidade\t_____\tque almejamos\n4. os problemas\t_____\tque constatamos nos relatórios...\nTendo em vista as normas da língua culta, a preposição “em” deveria preencher a lacuna em:",
+      principal: "Considere a estrutura \"daquela em que estamos imersos\" (linha 2 do 1º parágrafo) e compare-a com as seguintes:\n1. o espaço	_____	que moramos\n2. a organização	_____	que confiamos\n3. a cidade	_____	que almejamos\n4. os problemas	_____	que constatamos nos relatórios...\nTendo em vista as normas da língua culta, a preposição “em” deveria preencher a lacuna em:",
       subItens: []
     },
     options: [
@@ -150,7 +150,7 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "O texto a seguir é referência para as questões 08 a 10.\nPor que a cultura do sul ficou de fora do retrato do Brasil nas olimpíadas?\nDepois de uma abertura que falou das etnias que formaram o povo brasileiro, a cerimônia de encerramento dos Jogos Olímpicos\ndo Rio de Janeiro, realizada neste domingo (21), teve mais cara de carnaval. A ideia da diretora criativa da festa, Rosa Magalhães,\nera mostrar \"o sentimento de brasilidade\", conforme ela explicou ao jornal \"O Globo\" dias antes da cerimônia.\nCarnavalesca da escola de samba carioca São Clemente, Rosa usou elementos alegóricos para mostrar a arte feita pelo povo\ndo país – para ela, \"marca da nossa identidade cultural\". Teve menção a choro, samba carioca, Carmem Miranda, mulheres rendeiras\nda Bahia, bonecos de cerâmica do pernambucano Vitalino, Heitor Villa-Lobos, carnaval.\nEntre as ausências, as expressões culturais do Sul do Brasil – o que alimentou algum debate em redes sociais: se a ideia era\nrepresentar o país todo, por que ficamos de fora?\nPara a antropóloga Selma Baptista, professora-doutora aposentada da UFPR, a pergunta deveria ser outra: por que as\nexpressões culturais do Sul participariam do recorte da carnavalesca carioca se elas não estão presentes nem em nossas próprias\nfestas? \"Essa questão da representação de identidades regionais se dá a partir da construção da identidade dentro de seus próprios\nredutos. Cabe perguntar até que ponto nossas representações da cultura popular têm expressividade entre nós mesmos para que\nalcancem uma representatividade nacional\", questiona.\nPatrícia Martins, antropóloga e docente do Instituto Federal do Paraná (IFPR) em Paranaguá, lembra que o Sul tende inclusive\na negar o tipo de \"brasilidade\" representada na cerimônia de encerramento, mais ligada à cultura indígena e afro-brasileira. \"Aqui há\numa autorrepresentação que passa por uma cultura europeia\", diz. Para ela, o recorte mostrado na cerimônia de abertura dos Jogos\nOlímpicos tem ligações com uma identidade brasileira que vem sendo construída desde o Estado Novo (1937-1945), que incorporou\no samba carioca. \"Existe um patrimônio rico no Sul – há os batuques do Rio Grande do Sul, o fandango caiçara. Teria muita coisa a\nmostrar, mas nem nós sabemos que existe isso em nossa região\".\nNa opinião de Tau Golin, jornalista, historiador e professor do curso de Pós-Graduação em História da Universidade de Passo\nFundo (UPF), esse tipo de questionamento sobre representações regionais é uma \"briga simbólica\" já bem conhecida\nprincipalmente dos gaúchos. “É uma briga de poder pela representatividade, por quem representa mais a nação”, diz. “Como é um\npaís com regiões que se formaram antes da nação, as regionalidades querem estar presentes em tudo o que acontece no país. Se\nfosse insignificante, não brigariam. Mas, como é para se mostrar para o exterior, a briga é compreensível historicamente”. Para ele,\no desejo do Sul de estar presente nesse tipo de representação, dada a relação difícil da região com a \"brasilidade\", é um fator\nsurpreendente. “É uma novidade, que merece estudos daqui para a frente”, diz.\n(Rafael Rodrigues Costa, Gazeta do Povo, Curitiba, 22/08/2016.)\n\nO texto tematiza a ausência de manifestações culturais da região Sul na festa de encerramento dos Jogos Olímpicos\ndo Rio de Janeiro. As duas antropólogas entrevistadas compartilham uma mesma opinião sobre a questão levantada.\nAssinale a alternativa que apresenta essa opinião.",
+      principal: "O texto a seguir é referência para as questões 08 a 10.\nPor que a cultura do sul ficou de fora do retrato do Brasil nas olimpíadas?\nDepois de uma abertura que falou das etnias que formaram o povo brasileiro, a cerimônia de encerramento dos Jogos Olímpicos\ndo Rio de Janeiro, realizada neste domingo (21), teve mais cara de carnaval. A ideia da diretora criativa da festa, Rosa Magalhães,\nera mostrar \"o sentimento de brasilidade\", conforme ela explicou ao jornal \"O Globo\" dias antes da cerimônia.\nCarnavalesca da escola de samba carioca São Clemente, Rosa usou elementos alegóricos para mostrar a arte feita pelo povo\ndo país – para ela, \"marca da nossa identidade cultural\". Teve menção a choro, samba carioca, Carmem Miranda, mulheres rendeiras\nda Bahia, bonecos de cerâmica do pernambucano Vitalino, Heitor Villa-Lobos, carnaval.\nEntre as ausências, as expressões culturais do Sul do Brasil – o que alimentou algum debate em redes sociais: se a ideia era\nrepresentar o país todo, por que ficamos de fora?\nPara a antropóloga Selma Baptista, professora-doutora aposentada da UFPR, a pergunta deveria ser outra: por que as\nexpressões culturais do Sul participariam do recorte da carnavalesca carioca se elas não estão presentes nem em nossas próprias\nfestas? \"Essa questão da representação de identidades regionais se dá a partir da construção da identidade dentro de seus próprios\nredutos. Cabe perguntar até que ponto nossas representações da cultura popular têm expressividade entre nós mesmos para que\nalcancem uma representatividade nacional\", questiona.\nPatrícia Martins, antropóloga e docente do Instituto Federal do Paraná (IFPR) em Paranaguá, lembra que o Sul tende inclusive\na negar o tipo de \"brasilidade\" representada na cerimônia de encerramento, mais ligada à cultura indígena e afro-brasileira. \"Aqui há\numa autorrepresentação que passa por uma cultura europeia\", diz. Para ela, o recorte mostrado na cerimônia de abertura dos Jogos\nOlímpicos tem ligações com uma identidade brasileira que vem sendo construída desde o Estado Novo (1937-1945), que incorporou\no samba carioca. \"Existe um patrimônio rico no Sul – há os batuques do Rio Grande do Sul, o fandango caiçara. Teria muita coisa a\nmostrar, mas nem nós sabemos que existe isso em nossa região\".\nNa opinião de $\\tau$ Golin, jornalista, historiador e professor do curso de Pós-Graduação em História da Universidade de Passo\nFundo (UPF), esse tipo de questionamento sobre representações regionais é uma \"briga simbólica\" já bem conhecida\nprincipalmente dos gaúchos. “É uma briga de poder pela representatividade, por quem representa mais a nação”, diz. “Como é um\npaís com regiões que se formaram antes da nação, as regionalidades querem estar presentes em tudo o que acontece no país. Se\nfosse insignificante, não brigariam. Mas, como é para se mostrar para o exterior, a briga é compreensível historicamente”. Para ele,\no desejo do Sul de estar presente nesse tipo de representação, dada a relação difícil da região com a \"brasilidade\", é um fator\nsurpreendente. “É uma novidade, que merece estudos daqui para a frente”, diz.\n(Rafael Rodrigues Costa, Gazeta do Povo, Curitiba, 22/08/2016.)\n\nO texto tematiza a ausência de manifestações culturais da região Sul na festa de encerramento dos Jogos Olímpicos\ndo Rio de Janeiro. As duas antropólogas entrevistadas compartilham uma mesma opinião sobre a questão levantada.\nAssinale a alternativa que apresenta essa opinião.",
       subItens: []
     },
     options: [
@@ -171,7 +171,7 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "O último entrevistado, Tau Golin, faz alusão a uma \"briga simbólica\", que poderia ser resumida da seguinte maneira:",
+      principal: "O último entrevistado, $\\tau$ Golin, faz alusão a uma \"briga simbólica\", que poderia ser resumida da seguinte maneira:",
       subItens: []
     },
     options: [
@@ -654,7 +654,7 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "Os cerca de 300 manifestantes que ocupam o prédio do Instituto Nacional de Seguridade Social (INSS) na Rua Marechal\nDeodoro da Fonseca, no centro de Curitiba, decidiram nesta quarta-feira (15) que vão permanecer no local [...]. O instituto pediu\nque uma data fosse marcada para os ocupantes saírem do prédio. Mas, como houve recusa dos sem-teto em fazer isso, o caso\nagora pode ir à Justiça, com o ingresso pelo INSS de uma ação de reintegração de posse. [...] o edifício tem cerca de 3 mil\nmetros quadrados de área útil, mas apenas uma parte de um dos quatro andares está sendo usada pelo INSS, como depósito.\n(Fonte:\n<http://www.gazetadopovo.com.br/vida-e-cidadania/apos-reuniao-ocupacao-do-predio-do-inss-no-centro-de-curitiba-continua-4fy22h2\n3tbk3jhl7riwetqsop>. Publicado em 15/04/2015. Acessado em 21/08/2016.)\nCom base na problemática presente no texto e nos conhecimentos de geografia urbana, identifique como\nverdadeiras (V) ou falsas (F) as seguintes afirmativas:\n( ) Uma das causas das situações expostas no texto é a valorização do solo urbano, sobretudo em espaços com boa\ninfraestrutura, que impede o acesso à moradia por parte significativa dos habitantes das cidades brasileiras.\n( ) A participação da sociedade na gestão urbana é uma diretriz prevista legalmente, que pode contribuir para a\ngestão democrática dos municípios e diminuir os conflitos pelo direito ao uso da cidade.\n( ) Segundo o Estatuto das Cidades, a regularização fundiária e a urbanização são instrumentos de política urbana\nconsiderados entraves à prevenção e resolução de problemas ambientais.\n( ) O Poder Público possui mecanismos para combater a especulação imobiliária e promover a função social da\npropriedade, mas, nesse tema, há um descompasso entre as questões legais e a ação governamental.\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
+      principal: "Os cerca de 300 manifestantes que ocupam o prédio do Instituto Nacional de Seguridade Social (INSS) na Rua Marechal\nDeodoro da Fonseca, no centro de Curitiba, decidiram nesta quarta-feira (15) que vão permanecer no local [...]. O instituto pediu\nque uma data fosse marcada para os ocupantes saírem do prédio. Mas, como houve recusa dos sem-teto em fazer isso, o caso\nagora pode ir à Justiça, com o ingresso pelo INSS de uma ação de reintegração de posse. [...] o edifício tem cerca de 3 mil\nmetros quadrados de área útil, mas apenas uma parte de um dos quatro andares está sendo usada pelo INSS, como depósito.\n(Fonte:\n<http://www.gazetadopovo.com.$br/vida$-e-$cidadania/apos$-reuniao-ocupacao-do-predio-do-inss-no-centro-de-curitiba-continua-4fy22h2\n3tbk3jhl7riwetqsop>. Publicado em 15/04/2015. Acessado em 21/08/2016.)\nCom base na problemática presente no texto e nos conhecimentos de geografia urbana, identifique como\nverdadeiras (V) ou falsas (F) as seguintes afirmativas:\n( ) Uma das causas das situações expostas no texto é a valorização do solo urbano, sobretudo em espaços com boa\ninfraestrutura, que impede o acesso à moradia por parte significativa dos habitantes das cidades brasileiras.\n( ) A participação da sociedade na gestão urbana é uma diretriz prevista legalmente, que pode contribuir para a\ngestão democrática dos municípios e diminuir os conflitos pelo direito ao uso da cidade.\n( ) Segundo o Estatuto das Cidades, a regularização fundiária e a urbanização são instrumentos de política urbana\nconsiderados entraves à prevenção e resolução de problemas ambientais.\n( ) O Poder Público possui mecanismos para combater a especulação imobiliária e promover a função social da\npropriedade, mas, nesse tema, há um descompasso entre as questões legais e a ação governamental.\nAssinale a alternativa que apresenta a sequência correta, de cima para baixo.",
       subItens: []
     },
     options: [
@@ -738,7 +738,7 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "O Brasil tem 206,08 milhões de habitantes, segundo dados divulgados nesta terça-feira (30) [agosto, 2016] pelo Instituto\nBrasileiro de Geografia e Estatística (IBGE). Estimativas publicadas no Diário Oficial da União indicam que o país tinha, em 1°\nde julho deste ano, 206.081.432 habitantes. No ano passado, a população era de 204.450.649, ou seja, o crescimento da\npopulação foi de 0,8%.\n(Disponível em: <http://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2016/08/30/ibge-brasil-ja-tem-206-milhoes-de-habitantes.htm>. Acessado em\n31.08.2016.)\nCom base nas informações do texto e nos conhecimentos em geografia da população, assinale a alternativa correta.",
+      principal: "O Brasil tem 206,08 milhões de habitantes, segundo dados divulgados nesta terça-feira (30) [agosto, 2016] pelo Instituto\nBrasileiro de Geografia e Estatística (IBGE). Estimativas publicadas no Diário Oficial da União indicam que o país tinha, em 1°\nde julho deste ano, 206.081.432 habitantes. No ano passado, a população era de 204.450.649, ou seja, o crescimento da\npopulação foi de 0,8%.\n(Disponível em: <http://noticias.uol.com.$br/ultimas$-$noticias/agencia$-brasil/2016/08/30/ibge-brasil-ja-tem-206-milhoes-de-habitantes.htm>. Acessado em\n31.08.2016.)\nCom base nas informações do texto e nos conhecimentos em geografia da população, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -948,7 +948,7 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "Uma mola de massa desprezível foi presa a uma estrutura por meio\nda corda \"b\". Um corpo de massa \"m\" igual a 2000 g está suspenso\npor meio das cordas \"a\", \"c\" e \"d\", de acordo com a figura ao lado, a\nqual representa a configuração do sistema após ser atingido o\nequilíbrio. Considerando que a constante elástica da mola é 20 N/cm\ne a aceleração gravitacional é 10 m/s², assinale a alternativa que\napresenta a deformação que a mola sofreu por ação das forças que\nsobre ela atuaram, em relação à situação em que nenhuma força\nestivesse atuando sobre ela. Considere ainda que as massas de todas\nas cordas e da mola são irrelevantes.\n(Imagem: Diagrama de forças com uma mola suspensa por cordas. A corda 'b' conecta a mola a uma estrutura superior. A mola está conectada a um corpo 'm' por uma corda 'd'. O corpo 'm' também está conectado por uma corda 'a' e uma corda 'c'. Há um ângulo de 30° entre a corda 'a' e a horizontal. A corda 'a' e 'c' estão ligadas ao mesmo ponto na parede, e a corda 'd' pendura verticalmente do corpo 'm'.)",
+      principal: "Uma mola de massa desprezível foi presa a uma estrutura por meio\nda corda \"b\". Um corpo de massa \"m\" igual a 2000 g está suspenso\npor meio das cordas \"a\", \"c\" e \"d\", de acordo com a figura ao lado, a\nqual representa a configuração do sistema após ser atingido o\nequilíbrio. Considerando que a constante elástica da mola é 20 $N/cm$\ne a aceleração gravitacional é 10 $m/s$², assinale a alternativa que\napresenta a deformação que a mola sofreu por ação das forças que\nsobre ela atuaram, em relação à situação em que nenhuma força\nestivesse atuando sobre ela. Considere ainda que as massas de todas\nas cordas e da mola são irrelevantes.\n(Imagem: Diagrama de forças com uma mola suspensa por cordas. A corda 'b' conecta a mola a uma estrutura superior. A mola está conectada a um corpo 'm' por uma corda 'd'. O corpo 'm' também está conectado por uma corda 'a' e uma corda 'c'. Há um ângulo de 30° entre a corda 'a' e a horizontal. A corda 'a' e 'c' estão ligadas ao mesmo ponto na parede, e a corda 'd' pendura verticalmente do corpo 'm'.)",
       subItens: []
     },
     options: [
@@ -969,7 +969,7 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "A utilização de receptores GPS é cada vez mais frequente em veículos. O princípio de funcionamento desse\ninstrumento é baseado no intervalo de tempo de propagação de sinais, por meio de ondas eletromagnéticas, desde os\nsatélites até os receptores GPS. Considerando a velocidade de propagação da onda eletromagnética como sendo de\n300.000 km/s e que, em determinado instante, um dos satélites encontra-se a 30.000 km de distância do receptor, qual\né o tempo de propagação da onda eletromagnética emitida por esse satélite GPS até o receptor?",
+      principal: "A utilização de receptores GPS é cada vez mais frequente em veículos. O princípio de funcionamento desse\ninstrumento é baseado no intervalo de tempo de propagação de sinais, por meio de ondas eletromagnéticas, desde os\nsatélites até os receptores GPS. Considerando a velocidade de propagação da onda eletromagnética como sendo de\n300.000 $km/s$ e que, em determinado instante, um dos satélites encontra-se a 30.000 km de distância do receptor, qual\né o tempo de propagação da onda eletromagnética emitida por esse satélite GPS até o receptor?",
       subItens: []
     },
     options: [
@@ -1011,7 +1011,7 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "Uma minúscula bolha de ar sobe até a superfície de um lago. O volume dessa bolha, ao atingir a superfície do lago,\ncorresponde a uma variação de 50% do seu volume em relação ao volume que tinha quando do início do movimento\nde subida. Considerando a pressão atmosférica como sendo de 105 Pa, a aceleração gravitacional de 10 m/s² e a\ndensidade da água de 1 g/cm³, assinale a alternativa que apresenta a distância percorrida pela bolha durante esse\nmovimento se não houve variação de temperatura significativa durante a subida da bolha.",
+      principal: "Uma minúscula bolha de ar sobe até a superfície de um lago. O volume dessa bolha, ao atingir a superfície do lago,\ncorresponde a uma variação de 50% do seu volume em relação ao volume que tinha quando do início do movimento\nde subida. Considerando a pressão atmosférica como sendo de 105 Pa, a aceleração gravitacional de 10 $m/s$² e a\ndensidade da água de 1 $g/cm$³, assinale a alternativa que apresenta a distância percorrida pela bolha durante esse\nmovimento se não houve variação de temperatura significativa durante a subida da bolha.",
       subItens: []
     },
     options: [
@@ -1095,15 +1095,15 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "Um objeto sólido com massa 600 g e volume 1 litro está parcialmente imerso em um líquido, de maneira que 80% do\nseu volume estão submersos. Considerando a aceleração da gravidade igual a 10 m/s², assinale a alternativa que\napresenta a massa específica do líquido.",
+      principal: "Um objeto sólido com massa 600 g e volume 1 litro está parcialmente imerso em um líquido, de maneira que 80% do\nseu volume estão submersos. Considerando a aceleração da gravidade igual a 10 $m/s$², assinale a alternativa que\napresenta a massa específica do líquido.",
       subItens: []
     },
     options: [
-      "0,48 g/cm³.",
-      "0,75 g/cm³.",
-      "0,8 g/cm³.",
-      "1,33 g/cm³.",
-      "1,4 g/cm³."
+      "0,48 $g/cm$³.",
+      "0,75 $g/cm$³.",
+      "0,8 $g/cm$³.",
+      "1,33 $g/cm$³.",
+      "1,4 $g/cm$³."
     ],
     correctAnswer: 1,
     materia: ["Física"],
@@ -1389,15 +1389,15 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "Rafaela e Henrique participaram de uma atividade voluntária que consistiu na pintura da fachada de uma instituição\nde caridade. No final do dia, restaram duas latas de tinta idênticas (de mesmo tamanho e cor). Uma dessas latas estava\ncheia de tinta até a metade de sua capacidade e a outra estava cheia de tinta até 3/4 de sua capacidade. Ambos\ndecidiram juntar esse excedente e dividir em duas partes iguais, a serem armazenadas nessas mesmas latas. A fração\nque representa o volume de tinta em cada uma das latas, em relação à sua capacidade, após essa divisão é:",
+      principal: "Rafaela e Henrique participaram de uma atividade voluntária que consistiu na pintura da fachada de uma instituição\nde caridade. No final do dia, restaram duas latas de tinta idênticas (de mesmo tamanho e cor). Uma dessas latas estava\ncheia de tinta até a metade de sua capacidade e a outra estava cheia de tinta até $3/4$ de sua capacidade. Ambos\ndecidiram juntar esse excedente e dividir em duas partes iguais, a serem armazenadas nessas mesmas latas. A fração\nque representa o volume de tinta em cada uma das latas, em relação à sua capacidade, após essa divisão é:",
       subItens: []
     },
     options: [
-      "1/3.",
-      "5/8.",
-      "5/6.",
-      "4/3.",
-      "5/2."
+      "$1/3$.",
+      "$5/8$.",
+      "$5/6$.",
+      "$4/3$.",
+      "$5/2$."
     ],
     correctAnswer: 1,
     materia: ["Matemática"],
@@ -1435,11 +1435,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "y = 1/2 x",
+      "y = $1/2$ x",
       "y = -2x + 10",
-      "y = -1/2 x + 5",
+      "y = -$1/2$ x + 5",
       "y = -2x",
-      "y = -1/2 x + 4"
+      "y = -$1/2$ x + 4"
     ],
     correctAnswer: 4,
     materia: ["Matemática"],
@@ -1456,11 +1456,11 @@ createQuestion({
       subItens: []
     },
     options: [
-      "5/36.",
-      "1/6.",
-      "2/9.",
-      "4/15.",
-      "1/3."
+      "$5/36$.",
+      "$1/6$.",
+      "$2/9$.",
+      "$4/15$.",
+      "$1/3$."
     ],
     correctAnswer: 2,
     materia: ["Matemática"],
@@ -1494,15 +1494,15 @@ createQuestion({
     university: "ufpr",
     year: 2017,
     text: {
-      principal: "Suponha que a quantidade Q de um determinado medicamento no organismo t horas após sua administração possa\nser calculada pela fórmula:\nQ = 15. (1/10)^(2t)\nsendo Q medido em miligramas. A expressão que fornece o tempo t em função da quantidade de medicamento Q é:",
+      principal: "Suponha que a quantidade Q de um determinado medicamento no organismo t horas após sua administração possa\nser calculada pela fórmula:\nQ = 15. ($1/10$)^(2t)\nsendo Q medido em miligramas. A expressão que fornece o tempo t em função da quantidade de medicamento Q é:",
       subItens: []
     },
     options: [
-      "t = log base (1/10) (Q/15) / 2",
-      "t = log 15 / (2 log Q)",
-      "t = 10 log (Q/15)",
-      "t = log (Q/15) / log(1/10)",
-      "t = log base 2 (Q/15)"
+      "t = $\\log$ base ($1/10$) ($Q/15$) / 2",
+      "t = $\\log$ 15 / (2 $\\log$ Q)",
+      "t = 10 $\\log$ ($Q/15$)",
+      "t = $\\log$ ($Q/15$) / $\\log$($1/10$)",
+      "t = $\\log$ base 2 ($Q/15$)"
     ],
     correctAnswer: 0,
     materia: ["Matemática"],

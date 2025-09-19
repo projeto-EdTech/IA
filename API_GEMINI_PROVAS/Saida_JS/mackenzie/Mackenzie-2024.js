@@ -3,7 +3,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "Texto para as questões de 01 a 06\nTexto I\nA língua foi, por muito tempo, considerada o principal elemento para a constituição das nações e para a delimitação entre nações. Essa função da língua serve para criar um sentido de homogeneidade de uma nação e, naturalmente, para veicular os valores internamente aceitos e reproduzidos. Essa seria uma das funções da língua nacional, ou seja, a de criar os limites de uma identidade coletiva, que se contrapõe a outras identidades exteriores a ela. Devemos, contudo, recordar que qualquer sociedade não é formada de maneira homogênea. O mais comum é que ela tenha diversos grupos ou classes: sociais, intelectuais, regionais etc. Internamente, a norma linguística é um dos elementos constitutivos dos processos de distinção de um grupo social em relação a outros grupos. Nesse caso, a utilização de determinada variedade é um dos principais elementos para a construção da identidade do indivíduo e, consequentemente, de sua percepção da alteridade. Adaptado de Regina Brito e Alexandre Marcelo Bueno, em Unidade e diversidade: a língua portuguesa no mundo\n\nTexto II\nA língua portuguesa é uma construção conjunta de todos aqueles que a falam e é assim desde há séculos. A minha língua - aquela de que me sirvo para escrever não se restringe às fronteiras de Angola, de Portugal ou do Brasil. A minha língua é a soma de todas as suas variantes. É plural e democrática. A sua imensa riqueza está nessa diversidade e na capacidade de se afeiçoar a geografias diversas, na forma como vem namorando outros idiomas, recolhendo deles palavras e emoções. Aprisionar a língua portuguesa às fronteiras de Portugal (ou de Angola ou do Brasil) seria mutilá-la, roubar-lhe memória e destino. José Eduardo Agualusa, em \"Para a irmandade da língua portuguesa\"\n\nTexto III\nONDE O PORTUGUÊS É LINGUA OFICIAL\n[Imagem: Mapa-múndi mostrando países onde o português é língua oficial, com barras indicando \"% do país que é Amazônia\" e \"% de Amazônia presente em cada país\" para diversos países como Brasil, Angola, Moçambique, Portugal, Guiné-Bissau, Guiné Equatorial, Timor-Leste, Macau, Cabo Verde, São Tomé. Fonte: Geopizza, https://www.facebook.com/oriodavidaa]\n\nAssinale a alternativa correta.",
+      principal: "Texto para as questões de 01 a 06\nTexto I\nA língua foi, por muito tempo, considerada o principal elemento para a constituição das nações e para a delimitação entre nações. Essa função da língua serve para criar um sentido de homogeneidade de uma nação e, naturalmente, para veicular os valores internamente aceitos e reproduzidos. Essa seria uma das funções da língua nacional, ou seja, a de criar os limites de uma identidade coletiva, que se contrapõe a outras identidades exteriores a ela. Devemos, contudo, recordar que qualquer sociedade não é formada de maneira homogênea. O mais comum é que ela tenha diversos grupos ou classes: sociais, intelectuais, regionais etc. Internamente, a norma linguística é um dos elementos constitutivos dos processos de distinção de um grupo social em relação a outros grupos. Nesse caso, a utilização de determinada variedade é um dos principais elementos para a construção da identidade do indivíduo e, consequentemente, de sua percepção da alteridade. Adaptado de Regina Brito e Alexandre Marcelo Bueno, em Unidade e diversidade: a língua portuguesa no mundo\n\nTexto II\nA língua portuguesa é uma construção conjunta de todos aqueles que a falam e é assim desde há séculos. A minha língua - aquela de que me sirvo para escrever não se restringe às fronteiras de Angola, de Portugal ou do Brasil. A minha língua é a soma de todas as suas variantes. É plural e democrática. A sua imensa riqueza está nessa diversidade e na capacidade de se afeiçoar a geografias diversas, na forma como vem namorando outros idiomas, recolhendo deles palavras e emoções. Aprisionar a língua portuguesa às fronteiras de Portugal (ou de Angola ou do Brasil) seria mutilá-la, roubar-lhe memória e destino. José Eduardo Agualusa, em \"Para a irmandade da língua portuguesa\"\n\nTexto III\nONDE O PORTUGUÊS É LINGUA OFICIAL\n[Imagem: Mapa-múndi mostrando países onde o português é língua oficial, com barras indicando \"% do país que é Amazônia\" e \"% de Amazônia presente em cada país\" para diversos países como Brasil, Angola, Moçambique, Portugal, Guiné-Bissau, Guiné Equatorial, Timor-Leste, Macau, Cabo Verde, São Tomé. Fonte: Geopizza, https://www.facebook.$com/oriodavidaa$]\n\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -158,7 +158,7 @@ createQuestion({
       "O despojamento da expressividade do poema, com a ausência de rimas e versos metrificados, é uma das mais relevantes características do poema.",
       "Em termos da organização estrutural do poema, ele é classificado como um soneto, haja vista a presença de cinco estrofes em sua composição.",
       "A influência barroca do poema é visível na dificuldade vocabular e sintática, bem como no uso de imagens poéticas que remetem ao ouro e à prata.",
-      "Os versos As asas que Deus lhe deu/Ruflaram de par em par... (v. 17 e 18) comprovam a inexistência de uma dimensão espiritualizada no poema."
+      "Os versos As asas que Deus lhe $deu/Ruflaram$ de par em par... (v. 17 e 18) comprovam a inexistência de uma dimensão espiritualizada no poema."
     ],
     correctAnswer: 0,
     materia: ["Língua Portuguesa"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "Read the text below and answer questions 11 to 14:\nDinogorgon Skull\nA dinogorgon skull protrudes from a rock with the South African scrubland in the background.\nPHOTOGRAPH BY JONATHAN BLAIR\nA dinogorgon skull protrudes from a rock\nwith the South African scrubland in the background.\nWhen a species disappears, biologists say that the species has become extinct. By making room for new species, extinction helps drive the evolution of life. Over long periods of time, the number of species becoming extinct can remain fairly constant, meaning that an average number of species go extinct each year, century, or millennium. However, during the history of life on Earth, there have been periods of mass extinction, when large percentages of the planet's species became extinct in a relatively short amount of time. These extinctions have had widely different causes. About 541 million years ago, a great expansion occurred in the diversity of multicellular organisms. Paleobiologists, scientists who study the fossils of plants and animals to learn how life evolved, call this event the Cambrian Explosion. Since the Cambrian Explosion, there have been five mass extinctions, each of which is named for the geological period in which it occurred, or for the periods that immediately preceded and followed it. The first mass extinction is called the Ordovician-Silurian Extinction. It occurred about 440 million years ago, at the end of the period that paleontologists and geologists call the Ordovician, and followed by the start of the Silurian period. In this extinction event, many small organisms of the sea became extinct. The next mass extinction is called Devonian extinction, occurring 365 million years ago during the Devonian period. This extinction also saw the end of numerous sea organisms. The largest extinction took place around 250 million years ago. Known as the Permian-Triassic extinction, or the Great Dying, this event saw the end of more than 90 percent of Earth's species. Although life on Earth was nearly wiped out, the Great Dying made room for new organisms, including the first dinosaurs. About 210 million years ago, between the Triassic and Jurassic periods, came another mass extinction. By eliminating many large animals, this extinction event cleared the way for dinosaurs to flourish. Finally, about 65.5 million years ago, at the end of the Cretaceous period came the fifth mass extinction. This is the famous extinction event that brought the age of the dinosaurs to an end. In each of these cases, the mass extinction created niches or openings in the Earth's ecosystems. Those niches allowed for new groups of organisms to thrive and diversify, which produced a range of new species. In the case of the Cretaceous extinction, the demise of the dinosaurs allowed mammals to thrive and grow larger. Scientists refer to the current time as the Anthropocene period, meaning the period of humanity. They warn that, because of human activities such as pollution, overfishing, and the cutting down of forests, the Earth might be on the verge of—or already in—a sixth mass extinction. If that is true, what new life would rise up to fill the niche that we currently occupy? (Taken from https://education.nationalgeographic.org/resource/extinction/ Access: September/2023).\nAccording to the text, choose the correct alternative:",
+      principal: "Read the text below and answer questions 11 to 14:\nDinogorgon Skull\nA dinogorgon skull protrudes from a rock with the South African scrubland in the background.\nPHOTOGRAPH BY JONATHAN BLAIR\nA dinogorgon skull protrudes from a rock\nwith the South African scrubland in the background.\nWhen a species disappears, biologists say that the species has become extinct. By making room for new species, extinction helps drive the evolution of life. Over long periods of time, the number of species becoming extinct can remain fairly constant, meaning that an average number of species go extinct each year, century, or millennium. However, during the history of life on Earth, there have been periods of mass extinction, when large percentages of the planet's species became extinct in a relatively short amount of time. These extinctions have had widely different causes. About 541 million years ago, a great expansion occurred in the diversity of multicellular organisms. Paleobiologists, scientists who study the fossils of plants and animals to learn how life evolved, call this event the Cambrian Explosion. Since the Cambrian Explosion, there have been five mass extinctions, each of which is named for the geological period in which it occurred, or for the periods that immediately preceded and followed it. The first mass extinction is called the Ordovician-Silurian Extinction. It occurred about 440 million years ago, at the end of the period that paleontologists and geologists call the Ordovician, and followed by the start of the Silurian period. In this extinction event, many small organisms of the sea became extinct. The next mass extinction is called Devonian extinction, occurring 365 million years ago during the Devonian period. This extinction also saw the end of numerous sea organisms. The largest extinction took place around 250 million years ago. Known as the Permian-Triassic extinction, or the Great Dying, this event saw the end of more than 90 percent of Earth's species. Although life on Earth was nearly wiped out, the Great Dying made room for new organisms, including the first dinosaurs. About 210 million years ago, between the Triassic and Jurassic periods, came another mass extinction. By eliminating many large animals, this extinction event cleared the way for dinosaurs to flourish. Finally, about 65.5 million years ago, at the end of the Cretaceous period came the fifth mass extinction. This is the famous extinction event that brought the age of the dinosaurs to an end. In each of these cases, the mass extinction created niches or openings in the Earth's ecosystems. Those niches allowed for new groups of organisms to thrive and diversify, which produced a range of new species. In the case of the Cretaceous extinction, the demise of the dinosaurs allowed mammals to thrive and grow larger. Scientists refer to the current time as the Anthropocene period, meaning the period of humanity. They warn that, because of human activities such as pollution, overfishing, and the cutting down of forests, the Earth might be on the verge of—or already in—a sixth mass extinction. If that is true, what new life would rise up to fill the niche that we currently occupy? (Taken from https://education.nationalgeographic.org/resource/extinction/ Access: $September/2023$).\nAccording to the text, choose the correct alternative:",
       subItens: []
     },
     options: [
@@ -297,7 +297,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "Read the following comic strip and choose the correct alternative:\n[Imagem: Tira cômica de dinossauros. No primeiro quadro, um dinossauro pergunta \"what's your favourite colour?\". No segundo, o outro dinossauro responde \"eh, i hate small talk.\". No terceiro, o primeiro dinossauro tenta novamente \"okay, deep down do you think you're a good person?\". No quarto, o segundo dinossauro responde secamente \"blue.\". Fonte: https://www.boredpanda.com/comics-funny-wholesome-relatable-dinosaurs-dinosandcomics/. Access: September/2023]",
+      principal: "Read the following comic strip and choose the correct alternative:\n[Imagem: Tira cômica de dinossauros. No primeiro quadro, um dinossauro pergunta \"what's your favourite colour?\". No segundo, o outro dinossauro responde \"eh, i hate small talk.\". No terceiro, o primeiro dinossauro tenta novamente \"okay, deep down do you think you're a good person?\". No quarto, o segundo dinossauro responde secamente \"blue.\". Fonte: https://www.boredpanda.$com/comics$-funny-wholesome-relatable-dinosaurs-dinosandcomics/. Access: $September/2023$]",
       subItens: []
     },
     options: [
@@ -343,7 +343,7 @@ createQuestion({
       subItens: []
     },
     options: [
-      "Vt + at/2",
+      "Vt + $at/2$",
       "Vt + at²",
       "2Vt + at²/2",
       "2Vt + at²",
@@ -360,7 +360,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "Em um dia chuvoso, um motociclista conduz sua moto a 90 km/h quando sua moto sofre uma pane e tanto motor quanto freio deixam de funcionar. A chuva e o atrito com o asfalto fazem uma força de resistência ao movimento com valor constante de 400N sobre o conjunto motociclista-moto, cuja massa é igual a 200 kg. A potência da força de resistência, do momento que motor e freio deixaram de funcionar até o momento de parada total, é igual a",
+      principal: "Em um dia chuvoso, um motociclista conduz sua moto a 90 $km/h$ quando sua moto sofre uma pane e tanto motor quanto freio deixam de funcionar. A chuva e o atrito com o asfalto fazem uma força de resistência ao movimento com valor constante de 400N sobre o conjunto motociclista-moto, cuja massa é igual a 200 kg. A potência da força de resistência, do momento que motor e freio deixaram de funcionar até o momento de parada total, é igual a",
       subItens: []
     },
     options: [
@@ -381,7 +381,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "A temperatura ideal para um banho seguro e confortável para um bebê, conforme recomendado por especialistas, é de 37°C. Se uma banheira contém inicialmente 10 litros de água a uma temperatura de 17°C, considerando a densidade da água como 1 g/ml, qual é a quantidade de água, com uma temperatura inicial de 53°C, que deve ser introduzida no sistema para que o equilíbrio térmico resulte na temperatura ideal para o banho de um bebê? Considere apenas a troca de calor entre a água fria e a água quente. Calor específico da água: c = 1,0 cal/g.°C",
+      principal: "A temperatura ideal para um banho seguro e confortável para um bebê, conforme recomendado por especialistas, é de 37°C. Se uma banheira contém inicialmente 10 litros de água a uma temperatura de 17°C, considerando a densidade da água como 1 $g/ml$, qual é a quantidade de água, com uma temperatura inicial de 53°C, que deve ser introduzida no sistema para que o equilíbrio térmico resulte na temperatura ideal para o banho de um bebê? Considere apenas a troca de calor entre a água fria e a água quente. Calor específico da água: c = 1,0 $cal/g$.°C",
       subItens: []
     },
     options: [
@@ -402,7 +402,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "Um músico sopra em um tubo sonoro aberto e gera uma onda estacionária. Se o comprimento do tubo é L = 0,85 m e a velocidade do som no ar é 340m/s, qual é a frequência do terceiro harmônico do tubo?",
+      principal: "Um músico sopra em um tubo sonoro aberto e gera uma onda estacionária. Se o comprimento do tubo é L = 0,85 m e a velocidade do som no ar é $340m/s$, qual é a frequência do terceiro harmônico do tubo?",
       subItens: []
     },
     options: [
@@ -423,7 +423,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "O Super-Proton-Synchrotron (SPS) é um acelerador de partículas localizado no CERN, na Suíça, utilizado para estudar interações de partículas subatômicas em altas energias. Em um experimento, um próton é acelerado em um campo magnético circular no SPS. Dado que a carga do próton é igual a q = 1,6·10⁻¹⁹ C, sua massa é m = 1,6·10⁻²⁷ kg, sua velocidade é v = 3.10⁷ m/s e a intensidade do campo magnético em que ele é submetido é de B = 1,5 T, o raio da trajetória desse próton é igual a",
+      principal: "O Super-Proton-Synchrotron (SPS) é um acelerador de partículas localizado no CERN, na Suíça, utilizado para estudar interações de partículas subatômicas em altas energias. Em um experimento, um próton é acelerado em um campo magnético circular no SPS. Dado que a carga do próton é igual a q = 1,6·10⁻¹⁹ C, sua massa é m = 1,6·10⁻²⁷ kg, sua velocidade é v = 3.10⁷ $m/s$ e a intensidade do campo magnético em que ele é submetido é de B = 1,5 T, o raio da trajetória desse próton é igual a",
       subItens: []
     },
     options: [
@@ -492,8 +492,8 @@ createQuestion({
     options: [
       "os grupos funcionais presentes na miristicina, no citral e no borneol, são respectivamente, éter, cetona e álcool.",
       "as três estruturas apresentam pelo menos um átomo de carbono terciário.",
-      "a miristicina apresenta isomeria geométrica cis/trans.",
-      "o citral apresenta ligações pi ressonantes com uma carboxila.",
+      "a miristicina apresenta isomeria geométrica $cis/trans$.",
+      "o citral apresenta ligações $\\pi$ ressonantes com uma carboxila.",
       "o borneol é um álcool alifático acíclico."
     ],
     correctAnswer: 1,
@@ -549,7 +549,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "O ácido fórmico (HCOOH) é o ácido carboxílico mais simples, chamado oficialmente (IUPAC) de ácido metanoico e encontrado no líquido injetado em picadas de formigas. Industrialmente é usado na produção de produtos químicos, na fabricação de couro, como agente conservador em alimentos e como componente em produtos de limpeza. Ao considerarmos, no equilíbrio e a 25 °C, uma solução 0,05 mol·L⁻¹ de ácido fórmico, cuja constante de ionização (Ka) é igual 1,8 x 10⁻⁴, o pH será de\nDados: log 3 = 0,48 e log 9 = 0,95",
+      principal: "O ácido fórmico (HCOOH) é o ácido carboxílico mais simples, chamado oficialmente (IUPAC) de ácido metanoico e encontrado no líquido injetado em picadas de formigas. Industrialmente é usado na produção de produtos químicos, na fabricação de couro, como agente conservador em alimentos e como componente em produtos de limpeza. Ao considerarmos, no equilíbrio e a 25 °C, uma solução 0,05 mol·L⁻¹ de ácido fórmico, cuja constante de ionização (Ka) é igual 1,8 x 10⁻⁴, o pH será de\nDados: $\\log$ 3 = 0,48 e $\\log$ 9 = 0,95",
       subItens: []
     },
     options: [
@@ -654,7 +654,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "O aquecimento global e o fenômeno El Niño têm provocado calor extremo e oscilação de temperatura em diversas partes do mundo. Em uma certa cidade, nos quinze primeiros dias do mês de julho, a temperatura T (em °C) obedeceu à lei T(t)=18+11.cos(πt/8), 1≤t≤15, em que t representa o dia do mês. Nessas condições, a temperatura mínima e o dia em que isso ocorreu foram, respectivamente,",
+      principal: "O aquecimento global e o fenômeno El Niño têm provocado calor extremo e oscilação de temperatura em diversas partes do mundo. Em uma certa cidade, nos quinze primeiros dias do mês de julho, a temperatura T (em °C) obedeceu à lei T(t)=18+11.$\\cos$(π$t/8$), 1≤t≤15, em que t representa o dia do mês. Nessas condições, a temperatura mínima e o dia em que isso ocorreu foram, respectivamente,",
       subItens: []
     },
     options: [
@@ -675,7 +675,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "A solução da equação (0,0625)ˣ⁺⁵ = 1/4 é um número real x",
+      principal: "A solução da equação (0,0625)ˣ⁺⁵ = $1/4$ é um número real x",
       subItens: []
     },
     options: [
@@ -683,7 +683,7 @@ createQuestion({
       "menor que zero",
       "entre 0 e 1.",
       "igual a -4,5",
-      "menor que -9/2"
+      "menor que -$9/2$"
     ],
     correctAnswer: 3,
     materia: ["Matemática"],
@@ -717,12 +717,12 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "Paulo, conversando com seu amigo Gustavo no horário do intervalo das suas aulas, disse para Gustavo: \"Vamos ver se você é bom em resolver equações logarítmicas\", continuou Paulo: \"A idade do meu irmão caçula é o produto das raízes da equação (4 + log₃x). (4-log₃x) = 12, então a idade dele é representada pelo numeral\":",
+      principal: "Paulo, conversando com seu amigo Gustavo no horário do intervalo das suas aulas, disse para Gustavo: \"Vamos ver se você é bom em resolver equações logarítmicas\", continuou Paulo: \"A idade do meu irmão caçula é o produto das raízes da equação (4 + $\\log$₃x). (4-$\\log$₃x) = 12, então a idade dele é representada pelo numeral\":",
       subItens: []
     },
     options: [
-      "1/9",
-      "1/3",
+      "$1/9$",
+      "$1/3$",
       "1",
       "3",
       "9"
@@ -801,12 +801,12 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "Seja M a matriz (mij)₂ₓ₂ definida por mij = {\n  log₂(1+i), para i < j\n  i + j, para i = j\n  √2i, para i > j\nA terça parte do valor do determinante de M é",
+      principal: "Seja M a matriz (mij)₂ₓ₂ definida por mij = {\n  $\\log$₂(1+i), para i < j\n  i + j, para i = j\n  √2i, para i > j\nA terça parte do valor do determinante de M é",
       subItens: []
     },
     options: [
       "-6",
-      "8 · log₂3",
+      "8 · $\\log$₂3",
       "1",
       "2",
       "0"
@@ -1200,7 +1200,7 @@ createQuestion({
     university: "mackenzie",
     year: 2024,
     text: {
-      principal: "As cidades médias (de 100 mil a 499 mil habitantes) puxaram o crescimento populacional do país, segundo dados do Censo do Instituto Brasileiro de Geografia e Estatística (IBGE) [...]. Ao todo, o Brasil tem 203 milhões de habitantes.\nDos mais de 12 milhões de habitantes que o Brasil ganhou entre 2010 e 2022, segundo o Censo, 8,3 milhões (67,5%) foram nestas cidades. O percentual da população brasileira que mora nesses municípios foi o único que cresceu, enquanto as cidades pequenas e grandes perderam relevância proporcional.\nCenso do IBGE: cidades médias 'puxam' crescimento do Brasil\nG1 - Economia, 01 jul. 2023. Disponível em: <https://g1.globo.com/economia/censo/noticia/2023/07/01/censo-do-ibge-cidades-medias-puxam-crescimento-do-brasil.ghtml>. Acesso em 17 set. 2023.\nCom base nas informações acima e nos conhecimentos sobre a realidade demográfica do Brasil, avalie as proposições a seguir.\nI. Atualmente, o Brasil tem mais de 5,5 mil municípios e menos de 55 deles têm mais do que 500 mil habitantes.\nII. Mais de 2/3 das cidades brasileiras têm até 20 mil habitantes.\nIII. O Censo de 2022 revelou um crescimento populacional de aproximadamente 6,43% no país em relação aos dados de 2010.\nÉ correto o que se afirma em",
+      principal: "As cidades médias (de 100 mil a 499 mil habitantes) puxaram o crescimento populacional do país, segundo dados do Censo do Instituto Brasileiro de Geografia e Estatística (IBGE) [...]. Ao todo, o Brasil tem 203 milhões de habitantes.\nDos mais de 12 milhões de habitantes que o Brasil ganhou entre 2010 e 2022, segundo o Censo, 8,3 milhões (67,5%) foram nestas cidades. O percentual da população brasileira que mora nesses municípios foi o único que cresceu, enquanto as cidades pequenas e grandes perderam relevância proporcional.\nCenso do IBGE: cidades médias 'puxam' crescimento do Brasil\nG1 - Economia, 01 jul. 2023. Disponível em: <https://g1.globo.com/economia/censo/noticia/2023/07/01/censo-do-ibge-cidades-medias-puxam-crescimento-do-brasil.ghtml>. Acesso em 17 set. 2023.\nCom base nas informações acima e nos conhecimentos sobre a realidade demográfica do Brasil, avalie as proposições a seguir.\nI. Atualmente, o Brasil tem mais de 5,5 mil municípios e menos de 55 deles têm mais do que 500 mil habitantes.\nII. Mais de $2/3$ das cidades brasileiras têm até 20 mil habitantes.\nIII. O Censo de 2022 revelou um crescimento populacional de aproximadamente 6,43% no país em relação aos dados de 2010.\nÉ correto o que se afirma em",
       subItens: []
     },
     options: [

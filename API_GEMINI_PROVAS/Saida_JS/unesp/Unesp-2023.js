@@ -1452,15 +1452,15 @@ createQuestion({
     university: "unesp",
     year: 2023,
     text: {
-      principal: "[Imagem de um pneu de avião]\n\nPara se calibrar o pneu do carro num posto de serviços, a recomendação é colocar cerca 30 PSI, sigla em inglês para a unidade de pressão \"libra-força por polegada quadrada\". Para o pneu de um avião, que é preenchido com nitrogênio puro em vez de ar, a regulagem recomendada é cerca de 200 PSI à temperatura ambiente de 300 K. No entanto, no momento do pouso, essa pressão interna pode aumentar significativamente, como consequência do calor gerado pelo impacto e atrito com o solo e pela ação dos freios, com a temperatura podendo atingir 1200 K.\n\n(www.uol.com.br. Adaptado.)\n\nSupondo que o volume do pneu não se altere, a pressão interna de nitrogênio no pneu durante o pouso pode atingir o valor de",
+      principal: "[Imagem de um pneu de avião]\n\nPara se calibrar o pneu do carro num posto de serviços, a recomendação é colocar cerca 30 $\\psi$, sigla em inglês para a unidade de pressão \"libra-força por polegada quadrada\". Para o pneu de um avião, que é preenchido com nitrogênio puro em vez de ar, a regulagem recomendada é cerca de 200 $\\psi$ à temperatura ambiente de 300 K. No entanto, no momento do pouso, essa pressão interna pode aumentar significativamente, como consequência do calor gerado pelo impacto e atrito com o solo e pela ação dos freios, com a temperatura podendo atingir 1200 K.\n\n(www.uol.com.br. Adaptado.)\n\nSupondo que o volume do pneu não se altere, a pressão interna de nitrogênio no pneu durante o pouso pode atingir o valor de",
       subItens: []
     },
     options: [
-      "1000 PSI.",
-      "300 PSI.",
-      "600 PSI.",
-      "500 PSI.",
-      "800 PSI."
+      "1000 $\\psi$.",
+      "300 $\\psi$.",
+      "600 $\\psi$.",
+      "500 $\\psi$.",
+      "800 $\\psi$."
     ],
     correctAnswer: 4,
     materia: ["Física"],
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "unesp",
     year: 2023,
     text: {
-      principal: "No Brasil, enfatiza-se que o Valor Máximo Permitido (VMP), destacado na portaria MS nº 2.914/2011, que dispõe sobre normas e padrão de potabilidade da água para consumo humano, relacionado com os fluoretos, é de 1,5 mg de F por litro de água.\n\n(Fundação Nacional de Saúde.\nManual de fluoretação da água para consumo humano, 2012. Adaptado.)\n\nUma Estação de Tratamento de Água (ETA), que utiliza o fluoreto de sódio (NaF) como único fluoreto, trata 100 milhões de litros de água por dia. Assim, a massa máxima de NaF que essa ETA deve utilizar por dia é próxima de",
+      principal: "No Brasil, enfatiza-se que o Valor Máximo Permitido (VMP), destacado na portaria MS nº 2.$914/2011$, que dispõe sobre normas e padrão de potabilidade da água para consumo humano, relacionado com os fluoretos, é de 1,5 mg de F por litro de água.\n\n(Fundação Nacional de Saúde.\nManual de fluoretação da água para consumo humano, 2012. Adaptado.)\n\nUma Estação de Tratamento de Água ($\\eta$), que utiliza o fluoreto de sódio (NaF) como único fluoreto, trata 100 milhões de litros de água por dia. Assim, a massa máxima de NaF que essa $\\eta$ deve utilizar por dia é próxima de",
       subItens: []
     },
     options: [
@@ -1494,7 +1494,7 @@ createQuestion({
     university: "unesp",
     year: 2023,
     text: {
-      principal: "Considere as seguintes informações sobre o óleo diesel, uma mistura de hidrocarbonetos de fórmula geral CnH2n+2:\n\nFórmula molecular média: C₁₂H₂₆\nMassa molar média: 170 g/mol\nPoder calorífico aproximado: 45000 kJ/kg\n\nUm gerador de potência igual a 180 kW trabalhou sob regime de potência máxima durante 1 hora. Caso fosse possível transformar em energia elétrica toda a energia que se obtém pela queima do óleo diesel, a quantidade de óleo diesel consumida pelo gerador em uma hora seria próxima de",
+      principal: "Considere as seguintes informações sobre o óleo diesel, uma mistura de hidrocarbonetos de fórmula geral CnH2n+2:\n\nFórmula molecular média: C₁₂H₂₆\nMassa molar média: 170 $g/mol$\nPoder calorífico aproximado: 45000 $kJ/kg$\n\nUm gerador de potência igual a 180 kW trabalhou sob regime de potência máxima durante 1 hora. Caso fosse possível transformar em energia elétrica toda a energia que se obtém pela queima do óleo diesel, a quantidade de óleo diesel consumida pelo gerador em uma hora seria próxima de",
       subItens: []
     },
     options: [
@@ -1515,7 +1515,7 @@ createQuestion({
     university: "unesp",
     year: 2023,
     text: {
-      principal: "Quando cianeto de hidrogênio, um gás extremamente tóxico, é borbulhado em água, ocorre a produção de uma solução aquosa de ácido cianídrico, que se ioniza conforme a equação:\n\nHCN (aq) ⇌ H⁺ (aq) + CN¯ (aq)\n\nUma solução aquosa 0,2 mol/L de ácido cianídrico apresenta pH = 5 na temperatura de 25 °C. A partir desse dado, pode-se estimar o valor da constante K desse ácido nessa temperatura. Esse valor é, aproximadamente,",
+      principal: "Quando cianeto de hidrogênio, um gás extremamente tóxico, é borbulhado em água, ocorre a produção de uma solução aquosa de ácido cianídrico, que se ioniza conforme a equação:\n\nHCN (aq) ⇌ H⁺ (aq) + CN¯ (aq)\n\nUma solução aquosa 0,2 $mol/L$ de ácido cianídrico apresenta pH = 5 na temperatura de 25 °C. A partir desse dado, pode-se estimar o valor da constante K desse ácido nessa temperatura. Esse valor é, aproximadamente,",
       subItens: []
     },
     options: [
@@ -1620,7 +1620,7 @@ createQuestion({
     university: "unesp",
     year: 2023,
     text: {
-      principal: "Funcionários de um mercado utilizam um dinamômetro funcionando como uma balança. Esse instrumento é constituído por uma mola ideal vertical e por um prato horizontal de massa 200 g, preso, em repouso, na extremidade inferior dessa mola por cabos de massas desprezíveis.\n\nAo utilizar esse dinamômetro, um funcionário deixa um pacote de café cair verticalmente, a partir do repouso, no centro do prato, de uma altura de 45 cm em relação a ele, conforme a figura. O pacote colide inelasticamente com o prato, e o conjunto começa a oscilar na direção vertical, apresentando uma velocidade de 2 m/s imediatamente após a colisão.\n\n[Diagrama de um dinamômetro com um prato, e um pacote de café caindo sobre ele. A altura de queda é indicada como 45 cm.]\n\nConsiderando que o conjunto constituído pelo prato e pelo pacote de café seja isolado de forças externas nessa colisão, que g seja igual a 10 m/s² e desprezando a resistência do ar, a massa do pacote de café é de",
+      principal: "Funcionários de um mercado utilizam um dinamômetro funcionando como uma balança. Esse instrumento é constituído por uma mola ideal vertical e por um prato horizontal de massa 200 g, preso, em repouso, na extremidade inferior dessa mola por cabos de massas desprezíveis.\n\nAo utilizar esse dinamômetro, um funcionário deixa um pacote de café cair verticalmente, a partir do repouso, no centro do prato, de uma altura de 45 cm em relação a ele, conforme a figura. O pacote colide inelasticamente com o prato, e o conjunto começa a oscilar na direção vertical, apresentando uma velocidade de 2 $m/s$ imediatamente após a colisão.\n\n[Diagrama de um dinamômetro com um prato, e um pacote de café caindo sobre ele. A altura de queda é indicada como 45 cm.]\n\nConsiderando que o conjunto constituído pelo prato e pelo pacote de café seja isolado de forças externas nessa colisão, que g seja igual a 10 $m/s$² e desprezando a resistência do ar, a massa do pacote de café é de",
       subItens: []
     },
     options: [
@@ -1641,7 +1641,7 @@ createQuestion({
     university: "unesp",
     year: 2023,
     text: {
-      principal: "O gráfico representa a frequência média de oscilação (f) das pernas de um animal em função do comprimento de suas pernas (L), quando ele caminha de forma natural. Esse mesmo gráfico pode ser utilizado para uma pessoa caminhando nas mesmas condições.\n\n[Gráfico da frequência (f em passos/s) vs. comprimento (L em cm), mostrando uma curva decrescente.]\n\n(https://wp.ufpel.edu.br)\n\nConsidere uma pessoa adulta de 80 kg, cujas pernas medem 1 m, caminhando em um parque sobre uma superfície plana e horizontal, com velocidade escalar constante. Se, em determinado trecho dessa caminhada, para cada passo dado essa pessoa deslocar-se 90 cm, sua energia cinética será de",
+      principal: "O gráfico representa a frequência média de oscilação (f) das pernas de um animal em função do comprimento de suas pernas (L), quando ele caminha de forma natural. Esse mesmo gráfico pode ser utilizado para uma pessoa caminhando nas mesmas condições.\n\n[Gráfico da frequência (f em $passos/s$) vs. comprimento (L em cm), mostrando uma curva decrescente.]\n\n(https://wp.ufpel.edu.br)\n\nConsidere uma pessoa adulta de 80 kg, cujas pernas medem 1 m, caminhando em um parque sobre uma superfície plana e horizontal, com velocidade escalar constante. Se, em determinado trecho dessa caminhada, para cada passo dado essa pessoa deslocar-se 90 cm, sua energia cinética será de",
       subItens: []
     },
     options: [
@@ -1809,15 +1809,15 @@ createQuestion({
     university: "unesp",
     year: 2023,
     text: {
-      principal: "Observe a figura, formada por um triângulo PQR inscrito em uma circunferência de diâmetro PR = 10 m, em que PQ = 6 m. Uma partícula se move sobre a linha contínua, iniciando seu movimento em P, passando por Q, depois por R e, finalmente, voltando a P, como mostram as setas sobre a trajetória.\n\n[Diagrama de uma circunferência com um triângulo PQR inscrito. Uma partícula se move ao longo do arco P-Q-R-P.]\n\nA partícula parte de P com velocidade inicial de 8 m/s, e o módulo de sua velocidade aumenta uniformemente ao longo da trajetória, até chegar novamente em P, com velocidade de 10 m/s. Adotando π = 3, o módulo da aceleração escalar dessa partícula ao longo de todo seu percurso é de:",
+      principal: "Observe a figura, formada por um triângulo PQR inscrito em uma circunferência de diâmetro PR = 10 m, em que PQ = 6 m. Uma partícula se move sobre a linha contínua, iniciando seu movimento em P, passando por Q, depois por R e, finalmente, voltando a P, como mostram as setas sobre a trajetória.\n\n[Diagrama de uma circunferência com um triângulo PQR inscrito. Uma partícula se move ao longo do arco P-Q-R-P.]\n\nA partícula parte de P com velocidade inicial de 8 $m/s$, e o módulo de sua velocidade aumenta uniformemente ao longo da trajetória, até chegar novamente em P, com velocidade de 10 $m/s$. Adotando π = 3, o módulo da aceleração escalar dessa partícula ao longo de todo seu percurso é de:",
       subItens: []
     },
     options: [
-      "36/89 m/s²",
-      "3/25 m/s²",
-      "2/11 m/s²",
-      "18/29 m/s²",
-      "1/11 m/s²"
+      "$36/89$ $m/s$²",
+      "$3/25$ $m/s$²",
+      "$2/11$ $m/s$²",
+      "$18/29$ $m/s$²",
+      "$1/11$ $m/s$²"
     ],
     correctAnswer: 3,
     materia: ["Física"],

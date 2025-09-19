@@ -143,7 +143,7 @@ createQuestion({
     university: "albert einstein",
     year: 2017,
     text: {
-      principal: "Na modalidade esportiva do salto à distância, o esportista, para fazer o melhor salto, deve atingir a velocidade máxima antes de saltar, aliando-a ao melhor ângulo de entrada no momento do salto que, nessa modalidade, é 45°. Considere uma situação hipotética em que um atleta, no momento do salto, alcance a velocidade de 43,2 km/h, velocidade próxima do recorde mundial dos 100 metros rasos, que é de 43,9 km/h. Despreze o atrito com o ar enquanto ele está em “vôo” e considere o saltador como um ponto material situado em seu centro de gravidade. Nessas condições, qual seria, aproximadamente, a distância alcançada no salto?\nAdote o módulo da aceleração da gravidade igual a 10 m/s².\nDados: sen45° = cos45° = 0,7\n[Sequência de imagens mostrando as fases do salto: CORRIDA DE IMPULSÃO, IMPULSÃO, VÔO, QUEDA]\nhttps://sites.google.com/site/edfisicaempic/educacao-fisica-corpo-e-mente/atletismo",
+      principal: "Na modalidade esportiva do salto à distância, o esportista, para fazer o melhor salto, deve atingir a velocidade máxima antes de saltar, aliando-a ao melhor ângulo de entrada no momento do salto que, nessa modalidade, é 45°. Considere uma situação hipotética em que um atleta, no momento do salto, alcance a velocidade de 43,2 $km/h$, velocidade próxima do recorde mundial dos 100 metros rasos, que é de 43,9 $km/h$. Despreze o atrito com o ar enquanto ele está em “vôo” e considere o saltador como um ponto material situado em seu centro de gravidade. Nessas condições, qual seria, aproximadamente, a distância alcançada no salto?\nAdote o módulo da aceleração da gravidade igual a 10 $m/s$².\nDados: sen45° = cos45° = 0,7\n[Sequência de imagens mostrando as fases do salto: CORRIDA DE IMPULSÃO, IMPULSÃO, VÔO, QUEDA]\nhttps://sites.google.com/site/edfisicaempic/educacao-fisica-corpo-e-$mente/atletismo$",
       subItens: []
     },
     options: [
@@ -170,7 +170,7 @@ createQuestion({
       "d=Q√(k/(T-(m.g)))",
       "d=√(Q²(T-(m.g))/k)",
       "d=√((T-(m.g))/(kQ²))",
-      "d=(1/Q)√(k.T/(m.g))"
+      "d=($1/Q$)√(k.T/(m.g))"
     ],
     correctAnswer: 0,
     materia: ["Física"],
@@ -183,7 +183,7 @@ createQuestion({
     university: "albert einstein",
     year: 2017,
     text: {
-      principal: "Sabe-se que um líquido possui calor específico igual a 0,58 cal/g.°C . Com o intuito de descobrir o valor de seu calor latente de vaporização, foi realizado um experimento onde o líquido foi aquecido por meio de uma fonte de potência uniforme, até sua total vaporização, obtendo-se o gráfico abaixo. O valor obtido para o calor latente de vaporização do líquido, em cal/g, está mais próximo de:\n[Gráfico de Temperatura (°C) vs Tempo (min), mostrando aquecimento de 0 a 78°C em 10min, seguido de patamar a 78°C de 10 a 54min.]",
+      principal: "Sabe-se que um líquido possui calor específico igual a 0,58 $cal/g$.°C . Com o intuito de descobrir o valor de seu calor latente de vaporização, foi realizado um experimento onde o líquido foi aquecido por meio de uma fonte de potência uniforme, até sua total vaporização, obtendo-se o gráfico abaixo. O valor obtido para o calor latente de vaporização do líquido, em $cal/g$, está mais próximo de:\n[Gráfico de Temperatura (°C) vs Tempo (min), mostrando aquecimento de 0 a 78°C em 10min, seguido de patamar a 78°C de 10 a 54min.]",
       subItens: []
     },
     options: [
@@ -249,7 +249,7 @@ createQuestion({
     options: [
       "essa integração da Eurásia deveria incomodar o Brasil (e não tanto os EUA), pois, como membro do BRICS, esse estreitamento geoeconômico e de interesses da Rússia e da China o coloca praticamente fora desse bloco.",
       "a ausência até então de integração do continente eurasiano deveu-se a motivos infraestruturais e econômicos, que agora parecem resolvidos, com a possibilidade da construção de nova \"rota da seda\".",
-      "com 2/3 da população mundial, esse continente (até agora percebido como dois), se integrado geográfica e economicamente, seria o mais poderoso centro econômico do planeta, superando a hegemonia norteamericana.",
+      "com $2/3$ da população mundial, esse continente (até agora percebido como dois), se integrado geográfica e economicamente, seria o mais poderoso centro econômico do planeta, superando a hegemonia norteamericana.",
       "essa integração Pacífico-Atlântico e a alusão a uma nova \"rota da seda\" é sedutora, mas não adere à realidade, pois os obstáculos ideológicos presentes entre os países desse continente, subsistem sem perspectiva de superação."
     ],
     correctAnswer: 2,
@@ -363,7 +363,7 @@ createQuestion({
     university: "albert einstein",
     year: 2017,
     text: {
-      principal: "A imagem abaixo integrou uma cartilha lançada, em 1941, pelo Departamento de Imprensa e Propaganda (DIP). Ela pode ser relacionada\n\"Cartilha para a juventude\" Extraído de: Maria Helena Capelato. Multidões em cena. Campinas: Papirus, 1998. Adaptado.\n[Imagem de homem (Vargas?) discursando para crianças/jovens]",
+      principal: "A imagem abaixo integrou uma cartilha lançada, em 1941, pelo Departamento de Imprensa e Propaganda (DIP). Ela pode ser relacionada\n\"Cartilha para a juventude\" Extraído de: Maria Helena Capelato. Multidões em cena. Campinas: Papirus, 1998. Adaptado.\n[Imagem de homem (Vargas?) discursando para crianç$as/jovens$]",
       subItens: []
     },
     options: [
@@ -403,7 +403,7 @@ createQuestion({
     university: "albert einstein",
     year: 2017,
     text: {
-      principal: "HEALTH\nBread Is Better Than Ever\nIna Garten @twitter.com/inagarten June 30, 2016\nThirty years ago, Americans lived on processed White bread, and it was almost impossible to find a fresh baguette or a loaf of sourdough. My friend Eli Zabar began baking fresh breads in a brick oven in the basement of this store E.A.T. on Madison Avenue in New York City, and now there are extraordinary artisanal bakers in cities and towns all across America. Even better, bakers like Dan Barber at Blue Hill at Stone Barns now grow and seek out heirloom wheat and use it to make bread that is not only delicious but good for you too.\nThis appears in the July 11, 2016 issue of TIME.\n[Imagem de pão artesanal]\nDe acordo com o texto, sabe-se que",
+      principal: "HEALTH\nBread Is Better Than Ever\nIna Garten @twitter.$com/inagarten$ June 30, 2016\nThirty years ago, Americans lived on processed White bread, and it was almost impossible to find a fresh baguette or a loaf of sourdough. My friend Eli Zabar began baking fresh breads in a brick oven in the basement of this store E.A.T. on Madison Avenue in New York City, and now there are extraordinary artisanal bakers in cities and towns all across America. Even better, bakers like Dan Barber at Blue Hill at Stone Barns now grow and seek out heirloom wheat and use it to make bread that is not only delicious but good for you too.\nThis appears in the July 11, 2016 issue of TIME.\n[Imagem de pão artesanal]\nDe acordo com o texto, sabe-se que",
       subItens: []
     },
     options: [
@@ -483,7 +483,7 @@ createQuestion({
     university: "albert einstein",
     year: 2017,
     text: {
-      principal: "ANTHONY, WHAT HAPPENED?!\nI BROKE MY ARM IN TWO PLACES.\nREALLY?!\nWELL, IF I WERE YOU, I WOULDN'T GO BACK TO EITHER ONE!\n[Charge com três balões de fala e uma imagem de uma pessoa com gesso no braço]\nhttps://www.google.com.br/search?q=semantic+jokes&source\nAcessado em 16/09/2016.\nNa tirinha acima,",
+      principal: "ANTHONY, WHAT HAPPENED?!\nI BROKE MY ARM IN TWO PLACES.\nREALLY?!\nWELL, IF I WERE YOU, I WOULDN'T GO BACK TO EITHER ONE!\n[Charge com três balões de fala e uma imagem de uma pessoa com gesso no braço]\nhttps://www.google.com.$br/search$?q=semantic+jokes&source\nAcessado em 16/09/2016.\nNa tirinha acima,",
       subItens: []
     },
     options: [

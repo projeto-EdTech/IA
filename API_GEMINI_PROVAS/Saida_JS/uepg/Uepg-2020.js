@@ -12,7 +12,7 @@ createQuestion({
       "O uso do pronome possessivo \"teu\" mostra que o texto utiliza a segunda pessoa do discurso para representar a quem o eu-lírico se dirige no texto.",
       "No verso \"Mísero esposo\", a palavra \"mísero\" refere-se à pobreza material que se abateu sobre o casal de amantes e sobre a qual se lamenta o eu-lírico."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa", "Literatura Brasileira"],
     conteudo: ["Análise Textual", "Poesia Lírica"],
     imageNames: []
@@ -32,7 +32,7 @@ createQuestion({
       "No verso \"Porque a perdeu\", o referente do pronome \"a\" é \"alma pura\".",
       "O termo \"encerra\", no verso \"Nos Céus se encerra\", pode ser substituído pela palavra \"guarda\", sem prejuízo do entendimento do texto."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Sintaxe", "Semântica"],
     imageNames: []
@@ -52,7 +52,7 @@ createQuestion({
       "Na oração “O ex-presidente do Chile, Ricardo Lagos, ficou conhecido internacionalmente”, as vírgulas poderiam ser substituídas por pontos-e-vírgulas, sem prejuízo para a adequação gramatical do texto.",
       "O prefixo \"ex\", presente no termo \"ex-presidente\", exprime semanticamente a ideia de alguém que deixou de ser algo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Pontuação", "Morfologia"],
     imageNames: []
@@ -72,7 +72,7 @@ createQuestion({
       "De acordo com Ricardo Lagos, é impossível que qualquer político atue da maneira como um cargo público exige, sem acreditar no conhecimento científico.",
       "O exemplo citado por Ricardo Lagos para ilustrar os efeitos negativos de governantes, que não aceitam ideias científicas, foram os efeitos da atual pandemia."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Língua Portuguesa"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -92,7 +92,7 @@ createQuestion({
       "Os anjos \"Temor de Deus\" e \"Amor de Deus\", no ato IV da peça O Auto de São Lourenço, fazem uma pregação sobre os valores e virtudes que os filhos de Deus devem ter, ameaçando os índios ao inferno se eles se entregarem aos vícios: \"O inferno / como seu fogo sempiterno, / Já te espera, / se não segues a bandeira / da cruz, / sobre a qual morreu Jesus / para que tua morte morra\" (ANCHIETA, 2003, p. 47). Porém, o objetivo da peça não era assustar, tampouco convencer os indígenas, mas entretê-los durante as festas típicas de sua cultura.",
       "A linguagem dos sonetos e poemas de Manuel Maria Barbosa du Bocage é simples e próxima da oralidade, sem truques de retórica ou construções complexas. Além disso, um dos temas mais abordados pelo poeta é a salvação da alma, o que pode ser verificado no seguinte trecho: \"No aflito coração, que em ais te envio, / Jazem penas cruéis, quais as do Inferno: / Ora me sinto arder, outr'hora esfrio, / Desfaz-me em ânsias um veneno interno: / Talvez meus pés, oh víboras, feristes! / Ajuda, triste lira, os versos tristes\" (BOCAGE, 1994, p. 43)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Literatura Brasileira"],
     conteudo: ["Barroco", "Arcadismo"],
     imageNames: []
@@ -112,7 +112,7 @@ createQuestion({
       "Cada povo indígena atribui significados e finalidades particulares aos instrumentos musicais que são confeccionados com materiais que encontram na natureza, como: madeira, bambu, cabaça, caroços, sementes e cascos, unhas e chifres de animais.",
       "Nas sociedades indígenas, as melodias são transmitidas de geração em geração por tradição oral."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Arte Indígena Brasileira"],
     imageNames: []
@@ -132,7 +132,7 @@ createQuestion({
       "A música na Grécia Antiga era ligada a uma origem divina, mitológica, de modo que alguns instrumentos eram associados especificamente a certas divindades, como o aulos a Dionísio, e a cítara a Apolo.",
       "O cantochão, canto litúrgico cristão, originado no período da Idade Média, é caracterizado como monofônico por apresentar várias linhas melódicas que são cantadas ao mesmo tempo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História da Música Ocidental"],
     imageNames: []
@@ -152,7 +152,7 @@ createQuestion({
       "As peças teatrais na Grécia Antiga eram encenadas, exclusivamente, por atores masculinos que usavam máscaras feitas de couro, linho enrijecido ou madeira que ampliavam a voz dos atores e possibilitavam que eles representassem mais de um personagem, inclusive femininos, sem revelar sua identidade.",
       "No período medieval, companhias itinerantes apresentavam espetáculos de cidade em cidade, andavam em carroças, em grupos chamados trupes."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História do Teatro"],
     imageNames: []
@@ -172,7 +172,7 @@ createQuestion({
       "As iluminuras eram ilustrações, títulos e letras maiúsculas que iniciavam os textos litúrgicos, manuscritos pelos monges na Antiguidade.",
       "A arte produzida no Egito Antigo era intimamente ligada à religiosidade. Entre os monumentos religiosos, destacam-se os templos, que eram locais de adoração aos deuses, e as esfinges, que são esculturas com cabeça humana e corpo de leão e simbolizavam a inteligência unida à força."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["História da Arte Ocidental"],
     imageNames: []
@@ -192,7 +192,7 @@ createQuestion({
       "O ponto, quando utilizado pelos artistas nas suas produções visuais, pode ser definido como o menor e mais simples elemento de comunicação visual.",
       "Um compositor pode combinar diferentes timbres musicais (qualidades sonoras únicas de cada instrumento ou voz) que ocorrem devido às diferenças físicas materiais dos objetos, instrumentos ou corpo humano."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Arte"],
     conteudo: ["Elementos da Linguagem Visual", "Elementos da Linguagem Musical"],
     imageNames: []
@@ -212,7 +212,7 @@ createQuestion({
       "Os jogadores que formam a linha de frente ocupam as posições 2, 3 e 4.",
       "O número de substituições é ilimitado para todos os jogadores."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Voleibol"],
     imageNames: []
@@ -232,7 +232,7 @@ createQuestion({
       "A marcha atlética é uma progressão de passos, executados de tal modo que o atleta mantenha um contato contínuo com o solo.",
       "A distância para corrida com barreiras é 110 m no masculino e 100 m no feminino."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Atletismo"],
     imageNames: []
@@ -252,7 +252,7 @@ createQuestion({
       "Quanto mais próximo o exercício físico da frequência cardíaca máxima, melhor.",
       "A frequência cardíaca máxima é maior para as pessoas com maior idade."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Fisiologia do Exercício", "Treinamento Físico"],
     imageNames: []
@@ -272,7 +272,7 @@ createQuestion({
       "A técnica de manipulação de objetos, conhecida no mundo dos malabares como swing, foi trazida ao mundo da Ginástica Rítmica.",
       "Muitos artistas de circo moderno são ex-atletas de ginástica."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Ginástica", "Atividades Circenses"],
     imageNames: []
@@ -292,7 +292,7 @@ createQuestion({
       "A amplitude articular é melhorada com a realização de exercícios de alongamento.",
       "A mensuração da massa corporal é a melhor forma de observar se o exercício físico está sendo efetivo para a alteração da composição corporal."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Educação Física"],
     conteudo: ["Anatomia e Fisiologia", "Aptidão Física"],
     imageNames: []
@@ -312,7 +312,7 @@ createQuestion({
       "Nas células animais, a citocinese ocorre pelo estrangulamento da célula na região equatorial.",
       "Na metáfase, ocorre a duplicação do DNA e, em seguida, o enrolamento do cromossomo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Ciclo Celular", "Mitose"],
     imageNames: []
@@ -332,7 +332,7 @@ createQuestion({
       "A letra B indica as proteínas, as quais podem atuar como transportadoras de moléculas.",
       "A letra C indica a bicamada de fosfolipídios."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Citologia", "Membrana Plasmática"],
     imageNames: []
@@ -352,7 +352,7 @@ createQuestion({
       "As hemácias e as plaquetas são produzidas na medula óssea vermelha, a partir das células-tronco linfoides.",
       "Os leucócitos, também chamados de glóbulos brancos, possuem importante função na defesa do organismo contra microrganismos causadores de doenças."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Tecidos", "Sangue"],
     imageNames: []
@@ -372,7 +372,7 @@ createQuestion({
       "O útero é um órgão do sistema reprodutor feminino revestido pelo endométrio, o qual se prepara a cada ciclo menstrual para receber um embrião.",
       "A formação do gameta masculino inicia-se na puberdade e ocorre nos túbulos seminíferos dos testículos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Sistema Reprodutor"],
     imageNames: []
@@ -392,7 +392,7 @@ createQuestion({
       "III representa o estágio embrionário de gástrula.",
       "A estrutura B é o trofoblasto e a C é a blastocela."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Biologia"],
     conteudo: ["Embriologia"],
     imageNames: []
@@ -412,7 +412,7 @@ createQuestion({
       "Diz-se que um movimento é retrógrado quando o móvel se desloca para a esquerda.",
       "Um movimento de velocidade positiva é um movimento progressivo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática", "Movimento Retilíneo Uniforme"],
     imageNames: []
@@ -432,7 +432,7 @@ createQuestion({
       "No MCU, o vetor velocidade linear é variável.",
       "Se o período de MCU é igual a dois minutos, a frequência do movimento vale 0,5 Hz."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática", "Movimento Circular Uniforme"],
     imageNames: []
@@ -443,16 +443,16 @@ createQuestion({
     university: "uepg",
     year: 2020,
     text: {
-      principal: "Um corpo é lançado do solo, no vácuo, com uma velocidade de módulo 40 m/s, cuja direção faz um ângulo de 30° com o plano de referência (solo). Em relação a esse movimento, assinale o que for correto.\nDado: módulo de g = 10 m/s²",
+      principal: "Um corpo é lançado do solo, no vácuo, com uma velocidade de módulo 40 $m/s$, cuja direção faz um ângulo de 30° com o plano de referência (solo). Em relação a esse movimento, assinale o que for correto.\nDado: módulo de g = 10 $m/s$²",
       subItens: []
     },
     options: [
       "A trajetória do móvel, em relação ao solo, é representada por uma parábola.",
       "No ponto mais alto da trajetória, a aceleração do móvel é nula.",
-      "O módulo da velocidade do móvel, um segundo após o lançamento, será 10√13 m/s.",
+      "O módulo da velocidade do móvel, um segundo após o lançamento, será 10√13 $m/s$.",
       "O tempo de voo do corpo vale quatro segundos."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Cinemática", "Lançamento Oblíquo"],
     imageNames: []
@@ -472,7 +472,7 @@ createQuestion({
       "O momento de um binário é igual, em módulo, ao produto da força pelo braço do binário.",
       "Será nulo se o ângulo entre a força e a sua distância até o ponto considerado for 90°."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Estática", "Momento de uma Força"],
     imageNames: []
@@ -487,12 +487,12 @@ createQuestion({
       subItens: []
     },
     options: [
-      "O valor da aceleração da gravidade a uma altura de 20.000 km da superfície da Terra será menor que 0,6 m/s².",
-      "Campo gravitacional é uma grandeza vetorial cuja unidade é N/kg.",
+      "O valor da aceleração da gravidade a uma altura de 20.000 km da superfície da Terra será menor que 0,6 $m/s$².",
+      "Campo gravitacional é uma grandeza vetorial cuja unidade é $N/kg$.",
       "A massa de um corpo, medida na Lua, é a mesma que medida na Terra; porém, o peso do corpo na superfície da Lua será menor que na superfície da Terra.",
-      "A expressão que permite calcular a velocidade de um satélite em uma órbita de raio (r), ao redor de um planeta de raio (R), é dada por V = √(GM/r), onde M é a massa do planeta, d é a distância do satélite à superfície do planeta e r = d+R."
+      "A expressão que permite calcular a velocidade de um satélite em uma órbita de raio (r), ao redor de um planeta de raio (R), é dada por V = √($GM/r$), onde M é a massa do planeta, d é a distância do satélite à superfície do planeta e r = d+R."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Física"],
     conteudo: ["Gravitação Universal", "Leis de Kepler"],
     imageNames: []
@@ -512,7 +512,7 @@ createQuestion({
       "O CaCO3 é uma substância composta.",
       "Os produtos de decomposição no item III são substâncias simples."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Reações de Decomposição", "Substâncias Puras e Compostos"],
     imageNames: []
@@ -532,7 +532,7 @@ createQuestion({
       "O KCl é o cloreto de potássio.",
       "O MgCO3 é o carbonato de magnésio."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Nomenclatura de Sais", "Funções Inorgânicas"],
     imageNames: []
@@ -552,7 +552,7 @@ createQuestion({
       "Óxido de alumínio (Al2O3).",
       "Amônia (NH3)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Ligações Químicas", "Compostos Iônicos"],
     imageNames: []
@@ -572,7 +572,7 @@ createQuestion({
       "A combustão do etanol libera gases e energia.",
       "Uma panela de cobre muda de sua cor avermelhada brilhante característica para um marrom-escuro, quando exposta a humidade e calor."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Propriedades da Matéria", "Transformações Químicas"],
     imageNames: []
@@ -592,7 +592,7 @@ createQuestion({
       "2K(s) + F2(g) → 2KF(s).",
       "BaCl2(aq) + H2SO4(aq) → BaSO4(aq) + 2HCl(aq)."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Química"],
     conteudo: ["Reações de Oxirredução", "Balanceamento de Equações"],
     imageNames: []
@@ -612,7 +612,7 @@ createQuestion({
       "A razão da progressão aritmética é igual a razão da progressão geométrica.",
       "A função f(x) = ax + c passa pelo ponto (1,14)."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Progressão Aritmética", "Progressão Geométrica"],
     imageNames: []
@@ -623,16 +623,16 @@ createQuestion({
     university: "uepg",
     year: 2020,
     text: {
-      principal: "Sejam as funções f(x) = x² + bx +c e g(x) = x + m, considerando que f(0) = -14, a abscissa do vértice do gráfico da parábola é 5/2 e g(2) = 5, assinale o que for correto.",
+      principal: "Sejam as funções f(x) = x² + bx +c e g(x) = x + m, considerando que f(0) = -14, a abscissa do vértice do gráfico da parábola é $5/2$ e g(2) = 5, assinale o que for correto.",
       subItens: []
     },
     options: [
-      "A função f(g(x)) é crescente para x ≥ -1/2.",
+      "A função f(g(x)) é crescente para x ≥ -$1/2$.",
       "m + b + c é um número negativo.",
       "Se h(x) = 2x -7, então h(f(0)) é um número inteiro.",
       "A soma dos zeros da função f(g(x)) é negativo."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Funções Quadráticas", "Funções Compostas"],
     imageNames: []
@@ -652,7 +652,7 @@ createQuestion({
       "B = {1,2,3,5,6}.",
       "A = {2,3,5,6}."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Conjuntos"],
     imageNames: []
@@ -669,10 +669,10 @@ createQuestion({
     options: [
       "m + n é um número par.",
       "O domínio da função g(x) = x/(x-2) é o conjunto {x ∈ R | x = m}.",
-      "O número m.n é um divisor de 2^6.3^5.",
+      "O número m.n é um divisor de $2^6$.$3^5$.",
       "m e n são os zeros da função f(x) = x² - 4x + 4."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Equações Exponenciais", "Equações Logarítmicas"],
     imageNames: []
@@ -692,7 +692,7 @@ createQuestion({
       "O plano B tem custo menor do que o C.",
       "O plano C é o de menor custo."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Matemática"],
     conteudo: ["Aritmética", "Resolução de Problemas"],
     imageNames: []
@@ -712,7 +712,7 @@ createQuestion({
       "A História dialoga com outras ciências que têm a humanidade como seu objeto de estudo, como a Geografia, a Antropologia e a Sociologia.",
       "O uso de fontes é indispensável na produção de estudos históricos. Documentos eclesiásticos, fotografias, jornais, depoimentos orais, são exemplos de fontes históricas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Conceitos de História"],
     imageNames: []
@@ -732,7 +732,7 @@ createQuestion({
       "Os Astecas promoviam sacrifícios humanos como forma de agradar e homenagear seus deuses.",
       "Diferente do que ocorreu com a América do Sul e com a América Central, na América do Norte não havia ocupação populacional antes da chegada dos europeus e, portanto, não é possível falar em Povos Ameríndios naquela região do continente."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Povos Pré-Colombianos", "América Pré-Europeia"],
     imageNames: []
@@ -752,7 +752,7 @@ createQuestion({
       "Coríntio, Dórico e Jônico são estilos arquitetônicos empregados pelos gregos em suas construções.",
       "O teatro grego teve grande apelo popular. Os anfiteatros geralmente eram construções abertas, em formato semicircular e que possuíam boa acústica."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Grécia Antiga", "Arte e Cultura Grega"],
     imageNames: []
@@ -772,7 +772,7 @@ createQuestion({
       "Era comum nos engenhos de açúcar do século XVI o uso de negros escravizados como mão de obra principal nas atividades produtivas.",
       "Na mineração do século XVIII, os negros escravizados atuaram como garimpeiros e, muitas vezes, conseguiram comprar suas alforrias."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["Brasil Colonial", "Escravidão no Brasil"],
     imageNames: []
@@ -792,7 +792,7 @@ createQuestion({
       "Em Curitiba, capital paranaense, não há registro da presença de negros escravizados e, portanto, do uso desses como escravos na cidade.",
       "O Paraná deixou oficialmente de utilizar mão de obra escrava em 1870, bem antes da Lei Áurea, assinada em 1888."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["História"],
     conteudo: ["História Regional do Paraná", "Escravidão no Paraná"],
     imageNames: []
@@ -812,7 +812,7 @@ createQuestion({
       "As paisagens podem ser percebidas usando os sentidos humanos, como visão e audição.",
       "O trânsito e construções em áreas urbanas não podem ser consideradas paisagem."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Conceitos Geográficos", "Paisagem"],
     imageNames: []
@@ -832,7 +832,7 @@ createQuestion({
       "O vulcanismo é responsável por criar rochas com dureza baixa apenas.",
       "As rochas sedimentares são formadas pelo acúmulo de materiais que se depositam e são compactados."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Geologia", "Rochas"],
     imageNames: []
@@ -852,7 +852,7 @@ createQuestion({
       "A densidade demográfica de uma região é obtida dividindo-se a população absoluta por sua área territorial.",
       "A população da Terra atualmente ultrapassa 7 bilhões de pessoas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Demografia", "População"],
     imageNames: []
@@ -872,7 +872,7 @@ createQuestion({
       "A falta da proteção da camada de ozônio pode acarretar problemas de saúde para os humanos, como o câncer de pele.",
       "O buraco na camada de ozônio afeta apenas grandes áreas urbanas e industrializadas no mundo, devido à produção de gases tóxicos nessas localidades."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Meio Ambiente", "Camada de Ozônio"],
     imageNames: []
@@ -892,7 +892,7 @@ createQuestion({
       "Em regiões litorâneas, o fator climático da maritimidade ajuda a explicar a menor amplitude térmica em relação a regiões com influência maior da continentalidade.",
       "As massas de ar, importante fator climático, são classificadas de acordo com a sua origem, podendo ser frias ou quentes e secas ou úmidas."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Geografia"],
     conteudo: ["Climatologia", "Fatores Climáticos"],
     imageNames: []
@@ -912,7 +912,7 @@ createQuestion({
       "O conhecimento filosófico dirigido à totalidade das coisas é essencialmente distinto do conhecimento das ciências particulares.",
       "O conhecimento através do mito permeia também na ideia de trazer \"segurança\" ao ser humano."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Teoria do Conhecimento", "Tipos de Conhecimento"],
     imageNames: []
@@ -932,7 +932,7 @@ createQuestion({
       "Fazer uma inferência é apresentar um argumento.",
       "Para o exercício da atitude crítica não é necessário compreender o que é uma argumentação."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Lógica", "Argumentação"],
     imageNames: []
@@ -952,7 +952,7 @@ createQuestion({
       "Para Platão, o verdadeiro filósofo é aquele que, desde a juventude, deseja e procura a verdade integral.",
       "Para Sócrates, filósofo é aquele que tem consciência de que tudo o que sabe ainda é pouco perante tudo o que ainda necessita saber."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["História da Filosofia", "Conceitos Fundamentais"],
     imageNames: []
@@ -972,7 +972,7 @@ createQuestion({
       "Para John Locke, todo conhecimento está fundado na experiência.",
       "O problema do conhecimento não era preocupação dos filósofos da Antiguidade Grega."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Epistemologia", "Problema do Conhecimento"],
     imageNames: []
@@ -992,7 +992,7 @@ createQuestion({
       "A característica positiva da atitude filosófica se refere à atitude de interrogar (\"O que é?\", \"Como é?\"...) as coisas.",
       "Atitude filosófica pode também ser compreendida como atitude de pensar criticamente a realidade."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Filosofia"],
     conteudo: ["Atitude Filosófica", "Reflexão Crítica"],
     imageNames: []
@@ -1012,7 +1012,7 @@ createQuestion({
       "Karl Marx se dedicou para que a Sociologia se tornasse uma disciplina universitária.",
       "Émile Durkheim foi decisivo para a ciência sociológica, com relevante contribuição sobre o método e objeto de estudo da Sociologia."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Origem da Sociologia", "Pensadores Clássicos"],
     imageNames: []
@@ -1032,7 +1032,7 @@ createQuestion({
       "A Cultura é imutável, independente do tempo e do contexto social.",
       "Cultura se refere, exclusivamente, às práticas tradicionais das sociedades."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Cultura", "Antropologia"],
     imageNames: []
@@ -1052,7 +1052,7 @@ createQuestion({
       "Não é possível falar em racismo estrutural no Brasil, posto que o preconceito e discriminação são escolhas individuais.",
       "O racismo no Brasil não é sempre explícito e claramente perceptível por quem pratica e quem sofre sua ação."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Racismo no Brasil", "Desigualdades Sociais"],
     imageNames: []
@@ -1072,7 +1072,7 @@ createQuestion({
       "Émile Durkheim: solidariedade orgânica e fato social.",
       "Karl Marx: luta de classes e mais-valia."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Teoria Sociológica", "Pensadores Clássicos"],
     imageNames: []
@@ -1092,7 +1092,7 @@ createQuestion({
       "O ser social não deixa de ter condições e limites biológicos, mas grande parte da sua existência é influenciada e condicionada pela vida em sociedade.",
       "A socialização primária ocorre na infância e se desenvolve principalmente por meio da família."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Sociologia"],
     conteudo: ["Socialização", "Indivíduo e Sociedade"],
     imageNames: []
@@ -1103,7 +1103,7 @@ createQuestion({
     university: "uepg",
     year: 2020,
     text: {
-      principal: "TEXTO PARA AS QUESTÕES 56 A 60\nA GREEK LOVE STORY\nGreek mythology gave us this story of passion and perseverance of a girl who waited and waited for her husband's return. She was married to a Greek hero, Ulysses, king of Ithaca, who disappeared after the Trojan War, trying to recover his palace as well as his kingdom.\nPenelope cried every day looking at the endless horizon, but never lost hope that Ulysses was going to return someday. So great was her love for him that she tried hard to avoid the courtship of many chieftains of Ithaca and nearby islands that wanted to marry her.\nTo keep her many suitors away, she imagined a plan: she used to tell them to wait until she finished weaving a shroud for old Laertes, Ulysses’ father. Every night for three years, she undid the piece that she had woven by day. No one knew about it until her maids revealed her secret.\nAt last, after many adventures, Ulysses came back home, killed her suitors and rescued his dear Penelope, who was patient enough to wait for her love’s return.\nAdaptado de: MORAES, Liani. Love Stories. São Paulo: Atual, 1977.\nVocabulário:\nshroud: manto; hero: herói; to recover: recuperar; endless: sem fim, interminável; to avoid: evitar; courtship: namoro, corte; chieftain: chefe, líder; suitor: pretendente; to weave: tecer; to undo/undid: desfazer/desfazia, desmanchava; had woven: tinha tecido; maid: serva, empregada; to reveal: revelar; enough: suficientemente, bastante; Ulysses: Ulisses; Penelope: Penélope; Ithaca: Ítaca.\n56- No que se refere a Ulisses, assinale o que for correto.",
+      principal: "TEXTO PARA AS QUESTÕES 56 A 60\nA GREEK LOVE STORY\nGreek mythology gave us this story of passion and perseverance of a girl who waited and waited for her husband's return. She was married to a Greek hero, Ulysses, king of Ithaca, who disappeared after the Trojan War, trying to recover his palace as well as his kingdom.\nPenelope cried every day looking at the endless horizon, but never lost hope that Ulysses was going to return someday. So great was her love for him that she tried hard to avoid the courtship of many chieftains of Ithaca and nearby islands that wanted to marry her.\nTo keep her many suitors away, she imagined a plan: she used to tell them to wait until she finished weaving a shroud for old Laertes, Ulysses’ father. Every night for three years, she undid the piece that she had woven by day. No one knew about it until her maids revealed her secret.\nAt last, after many adventures, Ulysses came back home, killed her suitors and rescued his dear Penelope, who was patient enough to wait for her love’s return.\nAdaptado de: MORAES, Liani. Love Stories. São Paulo: Atual, 1977.\nVocabulário:\nshroud: manto; hero: herói; to recover: recuperar; endless: sem fim, interminável; to avoid: evitar; courtship: namoro, corte; chieftain: chefe, líder; suitor: pretendente; to weave: tecer; to $undo/undid$: $desfazer/desfazia$, desmanchava; had woven: tinha tecido; maid: serva, empregada; to reveal: revelar; enough: suficientemente, bastante; Ulysses: Ulisses; Penelope: Penélope; Ithaca: Ítaca.\n56- No que se refere a Ulisses, assinale o que for correto.",
       subItens: []
     },
     options: [
@@ -1112,7 +1112,7 @@ createQuestion({
       "Enquanto Ulisses estava ausente, seu pai, Laertes, morreu.",
       "Quando voltou para casa, Ulisses perdoou os pretendentes de Penélope e tudo ficou bem."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -1132,7 +1132,7 @@ createQuestion({
       "Todas as noites Penélope desmanchava a parte do manto que havia tecido durante o dia.",
       "As servas de Penélope acabaram por revelar o segredo do manto que nunca ficava pronto."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto"],
     imageNames: []
@@ -1152,7 +1152,7 @@ createQuestion({
       "O verbo está no passado simples.",
       "Sua tradução é \"mas nunca perdeu a esperança\"."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Interpretação de Texto"],
     imageNames: []
@@ -1172,7 +1172,7 @@ createQuestion({
       "No primeiro caso, por se tratar de um nome próprio que termina em \"s\", não é necessário colocar mais um \"s\" após o apóstrofo.",
       "Em ambos os casos, o apóstrofo indica posse."
     ],
-    correctAnswer: -16,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Gramática", "Interpretação de Texto"],
     imageNames: []
@@ -1192,7 +1192,7 @@ createQuestion({
       "Laertes era sogro de Penélope.",
       "Após sua volta, Ulisses precisou reconquistar Penélope."
     ],
-    correctAnswer: -17,
+    correctAnswer: 0,
     materia: ["Inglês"],
     conteudo: ["Interpretação de Texto", "Compreensão Global"],
     imageNames: []

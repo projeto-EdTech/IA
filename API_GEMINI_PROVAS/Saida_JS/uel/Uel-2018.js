@@ -73,8 +73,8 @@ createQuestion({
       "L",
       "0,2L",
       "0,8L",
-      "√8/10 L",
-      "√10/5 L"
+      "√$8/10$ L",
+      "√$10/5$ L"
     ],
     correctAnswer: 4,
     materia: ["Matemática", "Física"],
@@ -129,7 +129,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Leia o texto, analise a figura a seguir e responda às questões 7 e 8.\n\nA Peste Negra, ou Morte Negra, era assim chamada porque no seu desenvolvimento provocava hemorragias subcutâneas, que assumiam uma coloração escura no momento terminal da doença. A morte dava-se entre três e sete dias, depois de contraída a patologia, e levava de 75 a 100% dos acometidos. O agente causador da peste era transmitido pelo rato, por meio das pulgas e sua penetração na pele humana causava uma adenite aguda, que recebia o nome de “bubão”, principal sintoma da doença. Daí também o nome de peste bubônica.\n(SIMONI, K. De peste e literatura: imagens do Decameron de Giovanni Boccaccio. Anuário de Literatura Umbral. Disponível em: <https://periodicos.ufsc.br/index.php/literatura/article/viewFile/5447/4882>. Acesso em: 27 jun. 2017.)\n\nFigura 2: A dança macabra. Xilogravura italiana de 1486.\n(FRANCO JUNIOR, H. A idade Média, nascimento do Ocidente. SP: Brasiliense, 2006. p. 30.)\n\nCom base na figura 2, nos textos e nos conhecimentos sobre a Baixa Idade Média, assinale a alternativa correta.",
+      principal: "Leia o texto, analise a figura a seguir e responda às questões 7 e 8.\n\nA Peste Negra, ou Morte Negra, era assim chamada porque no seu desenvolvimento provocava hemorragias subcutâneas, que assumiam uma coloração escura no momento terminal da doença. A morte dava-se entre três e sete dias, depois de contraída a patologia, e levava de 75 a 100% dos acometidos. O agente causador da peste era transmitido pelo rato, por meio das pulgas e sua penetração na pele humana causava uma adenite aguda, que recebia o nome de “bubão”, principal sintoma da doença. Daí também o nome de peste bubônica.\n(SIMONI, K. De peste e literatura: imagens do Decameron de Giovanni Boccaccio. Anuário de Literatura Umbral. Disponível em: <https://periodicos.ufsc.$br/index$.php/literatura/article/viewFile/5447/4882>. Acesso em: 27 jun. 2017.)\n\nFigura 2: A dança macabra. Xilogravura italiana de 1486.\n(FRANCO JUNIOR, H. A idade Média, nascimento do Ocidente. SP: Brasiliense, 2006. p. 30.)\n\nCom base na figura 2, nos textos e nos conhecimentos sobre a Baixa Idade Média, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -171,7 +171,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Pesquisadores do Instituto Oswaldo Cruz (IOC/Fiocruz) afirmam que o vírus responsável pelo atual surto de febre amarela no Brasil tem sofrido variações genéticas inéditas. A primeira epidemia de febre amarela no Brasil ocorreu em Recife, procedente do continente africano no século XVII. Em 2017, encontra-se distribuído no território brasileiro, como mostra o mapa.\n\nFEBRE AMARELA NO BRASIL - 2017\n[Mapa do Brasil indicando áreas com recomendação temporária, permanente e sem recomendação de vacinação para febre amarela em 2017.]\n(Ministério da Saúde / Secretaria de Vigilância da Saúde\nDisponível em:\n<http://portalarquivos.saude.gov.br/images/pdf/2017/marco/18/Informe-especial-COES-FA.pdf>. Acesso em: 9 jun. 2017.)\n\nCom base no mapa e nos conhecimentos geográficos sobre a febre amarela, assinale a alternativa correta.",
+      principal: "Pesquisadores do Instituto Oswaldo Cruz ($IOC/Fiocruz$) afirmam que o vírus responsável pelo atual surto de febre amarela no Brasil tem sofrido variações genéticas inéditas. A primeira epidemia de febre amarela no Brasil ocorreu em Recife, procedente do continente africano no século XVII. Em 2017, encontra-se distribuído no território brasileiro, como mostra o mapa.\n\nFEBRE AMARELA NO BRASIL - 2017\n[Mapa do Brasil indicando áreas com recomendação temporária, permanente e sem recomendação de vacinação para febre amarela em 2017.]\n(Ministério da Saúde / Secretaria de Vigilância da Saúde\nDisponível em:\n<http://portalarquivos.saude.gov.br/images/pdf/2017/marco/18/Informe-especial-COES-FA.pdf>. Acesso em: 9 jun. 2017.)\n\nCom base no mapa e nos conhecimentos geográficos sobre a febre amarela, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -234,15 +234,15 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Leia a charge a seguir e responda às questões 12 e 13.\n\n[Charge com duas pessoas em uma esteira rolante inclinada, uma na frente e outra atrás, com a frase \"EVACHO QUE É O FIM DA LINHA...\" e assinatura \"Palleno\".]\n\nFigura 3\n(Adaptado de: <http://www.gazetadopovo.com.br/blogs/rolmops-e-catchup/wp-content/uploads/sites/71/2015/03/15-mar%C3%A7o1-650x329.jpg>. Acesso em: 10 maio 2017.)\n\nCom base na figura 3 e nos conhecimentos sobre o atrito e as Leis de Newton, assinale a alternativa correta.",
+      principal: "Leia a charge a seguir e responda às questões 12 e 13.\n\n[Charge com duas pessoas em uma esteira rolante inclinada, uma na frente e outra atrás, com a frase \"EVACHO QUE É O FIM DA LINHA...\" e assinatura \"Palleno\".]\n\nFigura 3\n(Adaptado de: <http://www.gazetadopovo.com.br/blogs/rolmops-e-$catchup/wp$-content/uploads/sites/71/2015/03/15-mar%C3%A7o1-650x329.jpg>. Acesso em: 10 maio 2017.)\n\nCom base na figura 3 e nos conhecimentos sobre o atrito e as Leis de Newton, assinale a alternativa correta.",
       subItens: []
     },
     options: [
       "Quando um corpo se movimenta em relação a outro, a força de atrito aparece sempre no sentido direto à tendência de movimento.",
-      "No final da caminhada (figura 3), a pessoa que está na frente fica parada sem escorregar, pois a Fatmax = µε mg sen & e portanto µε tg-10.",
+      "No final da caminhada (figura 3), a pessoa que está na frente fica parada sem escorregar, pois a Fatmax = µε mg $\\sin$ & e portanto µε $\\tan$-10.",
       "Se por algum motivo (na figura 3), quem está atrás puxasse quem está na frente, a Fat estaria no mesmo sentido do \"puxão” para quem aplicou a força.",
       "Podemos afirmar que a força de atrito é proporcional à força normal e independente da área de contato.",
-      "No final da caminhada, a pessoa que está na frente está sujeita a uma Fat, e, para que esta seja máxima, devemos ter Fatmax µε mg senθ."
+      "No final da caminhada, a pessoa que está na frente está sujeita a uma Fat, e, para que esta seja máxima, devemos ter Fatmax µε mg $\\sin$θ."
     ],
     correctAnswer: 3,
     materia: ["Física"],
@@ -318,7 +318,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Leia o texto a seguir e responda às questões 16 e 17.\n\nO rompimento da barragem da Samarco em novembro de 2015 em Mariana (MG) é um dos maiores desastres do século XXI, considerando o volume de rejeitos despejados no meio ambiente.\nPesquisadores apontam que o resíduo sólido da barragem é constituído por Goethita 60%, Hematita (óxido de ferro) 23%, Quartzo (SiO2) 11,0%, Caulinita Al2Si2O5(OH)4 5,9% e alguns metais, tais como bário, chumbo, crômio, manganês, sódio, cádmio, mercúrio e arsênio.\n(Adaptado. Disponível em: <http://agenciabrasil.ebc.com.br/geral/noticia/2016-01/desastre-em-mariana-e-o-maior-acidente-mundial-com-barragens-em-100-anos>. Acesso em: 26 abr 2017.)\n\nDados: Massas atômicas de: Fe = 56 u; O = 16 u; Si = 28 u; Al = 27 u; H = 1 u.\n\nSendo a Hematita composta por 70% de ferro, assinale a alternativa que apresenta, corretamente, sua fórmula molecular.",
+      principal: "Leia o texto a seguir e responda às questões 16 e 17.\n\nO rompimento da barragem da Samarco em novembro de 2015 em Mariana (MG) é um dos maiores desastres do século XXI, considerando o volume de rejeitos despejados no meio ambiente.\nPesquisadores apontam que o resíduo sólido da barragem é constituído por Goethita 60%, Hematita (óxido de ferro) 23%, Quartzo (SiO2) 11,0%, Caulinita Al2Si2O5(OH)4 5,9% e alguns metais, tais como bário, chumbo, crômio, manganês, sódio, cádmio, mercúrio e arsênio.\n(Adaptado. Disponível em: <http://agenciabrasil.ebc.com.br/geral/noticia/2016-$01/desastre$-em-mariana-e-o-maior-acidente-mundial-com-barragens-em-100-anos>. Acesso em: 26 abr 2017.)\n\nDados: Massas atômicas de: Fe = 56 u; O = 16 u; Si = 28 u; Al = 27 u; H = 1 u.\n\nSendo a Hematita composta por 70% de ferro, assinale a alternativa que apresenta, corretamente, sua fórmula molecular.",
       subItens: []
     },
     options: [
@@ -486,7 +486,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Leia a charge a seguir.\n\n[Charge intitulada 'DIA DO ORGULHO REACIONARIO' com frases como 'EXPULSÃO DOS IMIGRANTES!', 'ABAIXO A DITADURA GAY!', 'ABAIXO O SISTEMA DE COTAS!', 'VIVA O TEA PARTY!', 'INTERNAÇÃO COMPULSORIA PARA OS CONTRA DROGADOS!', 'UM MUNDO MELHOR!', 'FECHEM AS MESQUITAS!', 'ABAIXO A EDUCAÇÃO SEXUAL NAS ESCOLAS'.]\n(Disponível em: <https://www.revistaforum.com.br/mariafro/2012/05/24/laerte-dia-do-orgulho-reacionario/>. Acesso em: 15 jun. 2017.)\n\nA charge remete a um conjunto de questões que apontam, senão para a morte, ao menos para o refluxo do espírito democrático na modernidade, em diversos países. Nessas manifestações, verifica-se",
+      principal: "Leia a charge a seguir.\n\n[Charge intitulada 'DIA DO ORGULHO REACIONARIO' com frases como 'EXPULSÃO DOS IMIGRANTES!', 'ABAIXO A DITADURA GAY!', 'ABAIXO O SISTEMA DE COTAS!', 'VIVA O TEA PARTY!', 'INTERNAÇÃO COMPULSORIA PARA OS CONTRA DROGADOS!', 'UM MUNDO MELHOR!', 'FECHEM AS MESQUITAS!', 'ABAIXO A EDUCAÇÃO SEXUAL NAS ESCOLAS'.]\n(Disponível em: <https://www.revistaforum.com.br/mariafro/2012/05/24/laerte-dia-do-orgulho-reacionario/>. Acesso em: 15 jun. 2017.)\n\nA charge remete a um conjunto de questões que apontam, $\\sin$ão para a morte, ao menos para o refluxo do espírito democrático na modernidade, em diversos países. Nessas manifestações, verifica-se",
       subItens: []
     },
     options: [
@@ -553,10 +553,10 @@ createQuestion({
       subItens: []
     },
     options: [
-      "[Matriz: 0 0 1 1; 49/103 49/103 0 0; 79/103 0 -1 0; 0 9/103 0 -1] [Variáveis: M, F, m, f] = [Resultados: 0, 59.627, 0, 0]",
-      "[Matriz: 0 0 1 1; 49/102 49/102 0 0; 79/102 0 1 0; 0 9/102 0 1] [Variáveis: M, F, m, f] = [Resultados: 0, 59.627, 0, 0]",
+      "[Matriz: 0 0 1 1; $49/103$ $49/103$ 0 0; $79/103$ 0 -1 0; 0 $9/103$ 0 -1] [Variáveis: M, F, m, f] = [Resultados: 0, 59.627, 0, 0]",
+      "[Matriz: 0 0 1 1; $49/102$ $49/102$ 0 0; $79/102$ 0 1 0; 0 $9/102$ 0 1] [Variáveis: M, F, m, f] = [Resultados: 0, 59.627, 0, 0]",
       "[Matriz: 1 1 0 0; 0,049 0,049 0 0; 0,079 0 -1 0; 0 0,09 0 -1] [Variáveis: M, F, m, f] = [Resultados: 59.627, 59.627, 0, 0]",
-      "[Matriz: 0 0 1 1; 49/103 49/103 0 0; 0 -1 1 79/103; 0 9/103 0 1] [Variáveis: M, F, m, f] = [Resultados: 59.627, 59.627, 0, 0]",
+      "[Matriz: 0 0 1 1; $49/103$ $49/103$ 0 0; 0 -1 1 $79/103$; 0 $9/103$ 0 1] [Variáveis: M, F, m, f] = [Resultados: 59.627, 59.627, 0, 0]",
       "[Matriz: 0 0 1 1; 4.9 1 0 4.90; 0 0 1 -7.9; 0 0.9 0 1] [Variáveis: M, F, m, f] = [Resultados: 59.627, 59.627, 0, 0]"
     ],
     correctAnswer: 0,
@@ -591,7 +591,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Um pesquisador estuda uma população e determina que a equação N = t⁹10⁻¹⁵ descreve a incidência de câncer, representada por N, em função do tempo t. Ele observa que N cresce rapidamente, o que dificulta a análise gráfica dessa relação. Por isso, o pesquisador decide operar simultaneamente com as variáveis N e t a fim de representá-las como uma semirreta no plano cartesiano x × y. Para esse fim, suponha que o pesquisador escolha uma base b, positiva e distinta de 1, e que ele considere as seguintes operações para N > 0 e t > 0:\n\nx = log_b(t)\ny = log_b(N)\n\nSupondo que y = 9x + 1 seja a equação que descreve a semirreta que o pesquisador obteve no plano cartesiano x × y, e recordando que 1 = log_b(b), assinale a alternativa que apresenta, corretamente, a escolha da base b feita pelo pesquisador.",
+      principal: "Um pesquisador estuda uma população e determina que a equação N = t⁹10⁻¹⁵ descreve a incidência de câncer, representada por N, em função do tempo t. Ele observa que N cresce rapidamente, o que dificulta a análise gráfica dessa relação. Por isso, o pesquisador decide operar simultaneamente com as variáveis N e t a fim de representá-las como uma semirreta no plano cartesiano x × y. Para esse fim, suponha que o pesquisador escolha uma base b, positiva e distinta de 1, e que ele considere as seguintes operações para N > 0 e t > 0:\n\nx = $\\log_b$(t)\ny = $\\log_b$(N)\n\nSupondo que y = 9x + 1 seja a equação que descreve a semirreta que o pesquisador obteve no plano cartesiano x × y, e recordando que 1 = $\\log_b$(b), assinale a alternativa que apresenta, corretamente, a escolha da base b feita pelo pesquisador.",
       subItens: []
     },
     options: [
@@ -717,7 +717,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Analise a figura e leia o texto a seguir.\n\n[Imagem: Obra intitulada 'A sobrevivência dos mais gordos' de Jens Galschiot (2002), representando uma pessoa magra carregando uma pessoa gorda nos ombros.]\n\nEstou sentada nos ombros de um homem\nEle está afundando sob o fardo (peso)\nEu faria qualquer coisa para ajudá-lo\nExceto descer de suas costas\n(Disponível em: <http://www.aidoh.dk/new-struct/About-Jens-Galschiot/CV-GB-PT.pdf>. Acesso em: 1 set. 2017.)\n\nCom a obra intitulada A sobrevivência dos mais gordos, Jens Galschiot (2002) aborda o tema da injustiça, uma questão constitutiva da vida social de difícil solução, como indica o texto que acompanha a obra. O entendimento que uma sociedade produz sobre o que se considera justo e injusto está fundado em padrões de valoração a respeito da conduta dos indivíduos e dos objetivos comuns da coletividade, bem como em sua estrutura social. Pode-se considerar que uma das expressões da justiça ou injustiça é a estratificação social, objeto de estudo de Max Weber.\nSegundo o autor, na sociedade moderna ocidental, a estratificação social é",
+      principal: "Analise a figura e leia o texto a seguir.\n\n[Imagem: Obra intitulada 'A sobrevivência dos mais gordos' de Jens Galschiot (2002), representando uma pessoa magra carregando uma pessoa gorda nos ombros.]\n\nEstou sentada nos ombros de um homem\nEle está afundando sob o fardo (peso)\nEu faria qualquer coisa para ajudá-lo\nExceto descer de suas costas\n(Disponível em: <http://www.aidoh.$dk/new$-$struct/About$-Jens-$Galschiot/CV$-GB-PT.pdf>. Acesso em: 1 set. 2017.)\n\nCom a obra intitulada A sobrevivência dos mais gordos, Jens Galschiot (2002) aborda o tema da injustiça, uma questão constitutiva da vida social de difícil solução, como indica o texto que acompanha a obra. O entendimento que uma sociedade produz sobre o que se considera justo e injusto está fundado em padrões de valoração a respeito da conduta dos indivíduos e dos objetivos comuns da coletividade, bem como em sua estrutura social. Pode-se considerar que uma das expressões da justiça ou injustiça é a estratificação social, objeto de estudo de Max Weber.\nSegundo o autor, na sociedade moderna ocidental, a estratificação social é",
       subItens: []
     },
     options: [
@@ -759,7 +759,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Leia o texto a seguir.\n\nEis com efeito em que consiste o proceder corretamente nos caminhos do amor ou por outro se deixar conduzir: em começar do que aqui é belo e, em vista daquele belo, subir sempre, como que servindo-se de degraus, de um só para dois e de dois para todos os belos corpos, e dos belos corpos para os belos ofícios, e dos ofícios para as belas ciências até que das ciências acabe naquela ciência, que de nada mais é senão daquele próprio belo, e conheça enfim o que em si é belo.\n(PLATÃO. Banquete, 211 c-d. José Cavalcante de Souza. São Paulo: Abril Cultural, 1972. (Os Pensadores) p. 48).\n\nCom base no texto e nos conhecimentos sobre a filosofia de Platão, é correto afirmar que",
+      principal: "Leia o texto a seguir.\n\nEis com efeito em que consiste o proceder corretamente nos caminhos do amor ou por outro se deixar conduzir: em começar do que aqui é belo e, em vista daquele belo, subir sempre, como que servindo-se de degraus, de um só para dois e de dois para todos os belos corpos, e dos belos corpos para os belos ofícios, e dos ofícios para as belas ciências até que das ciências acabe naquela ciência, que de nada mais é $\\sin$ão daquele próprio belo, e conheça enfim o que em si é belo.\n(PLATÃO. Banquete, 211 c-d. José Cavalcante de Souza. São Paulo: Abril Cultural, 1972. (Os Pensadores) p. 48).\n\nCom base no texto e nos conhecimentos sobre a filosofia de Platão, é correto afirmar que",
       subItens: []
     },
     options: [
@@ -843,7 +843,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Leia o texto a seguir.\n\nO processo de decomposição do corpo começa alguns minutos depois da morte. Quando o coração para, ocorre o algor mortis ou o frio da morte, quando a temperatura do corpo diminui até atingir a temperatura ambiente.\n(Adaptado de: <http://diariodebiologia.com/2015/09/o-que-acontece-com-o-corpo-logo-apos-a-morte/>. Acesso em: 29 maio 2017.)\n\nSuponha que um cadáver é analisado por um investigador de polícia às 5 horas da manhã do dia 28, que detalha as seguintes informações em seu bloco de anotações:\n\n[Imagens: T = 31 °C (Temperatura do cadáver), T_n = 37 °C (Temperatura normal e média do corpo humano), T_s = 25 °C (Temperatura da sala).]\n\nImediatamente após escrever, o investigador utiliza a Lei de Resfriamento\n\nT = (T_n - T_s)(√2)⁻ᵗ + T_s\n\npara revelar a todos os presentes que faz t horas que a morte ocorreu. Assinale a alternativa que apresenta, corretamente, a hora e o dia da morte, segundo o investigador.",
+      principal: "Leia o texto a seguir.\n\nO processo de decomposição do corpo começa alguns minutos depois da morte. Quando o coração para, ocorre o algor mortis ou o frio da morte, quando a temperatura do corpo diminui até atingir a temperatura ambiente.\n(Adaptado de: <http://diariodebiologia.com/2015/09/o-que-acontece-com-o-corpo-logo-apos-a-morte/>. Acesso em: 29 maio 2017.)\n\nSuponha que um cadáver é analisado por um investigador de polícia às 5 horas da manhã do dia 28, que detalha as seguintes informações em seu bloco de anotações:\n\n[Imagens: T = 31 °C (Temperatura do cadáver), $T_n$ = 37 °C (Temperatura normal e média do corpo humano), $T_s$ = 25 °C (Temperatura da sala).]\n\nImediatamente após escrever, o investigador utiliza a Lei de Resfriamento\n\nT = ($T_n$ - $T_s$)(√2)⁻ᵗ + $T_s$\n\npara revelar a todos os presentes que faz t horas que a morte ocorreu. Assinale a alternativa que apresenta, corretamente, a hora e o dia da morte, segundo o investigador.",
       subItens: []
     },
     options: [
@@ -1017,7 +1017,7 @@ createQuestion({
     options: [
       "30 metros de tecido por hora de funcionamento",
       "30+20R metros de tecido por hora de funcionamento",
-      "R/2 metros de tecido por hora de funcionamento",
+      "$R/2$ metros de tecido por hora de funcionamento",
       "40-20R metros de tecido por hora de funcionamento",
       "30R-40 metros de tecido por hora de funcionamento"
     ],
@@ -1095,7 +1095,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Analise a figura a seguir e responda as questões 53 e 54.\n\n[Figura 6: Imagem de uma pintura rupestre de um rinoceronte, da Caverna de Chauvet.]\n\n(Disponível em: <http://www.filmeb.com.br/calendario-de-estreias/caverna-dos-sonhos-esquecidos>. Acesso em: 9 out. 2017).\n\nCom base na figura e nos conhecimentos sobre arte paleolítica, assinale a alternativa correta.",
+      principal: "Analise a figura a seguir e responda as questões 53 e 54.\n\n[Figura 6: Imagem de uma pintura rupestre de um rinoceronte, da Caverna de Chauvet.]\n\n(Disponível em: <http://www.filmeb.com.$br/calendario$-de-$estreias/caverna$-dos-sonhos-esquecidos>. Acesso em: 9 out. 2017).\n\nCom base na figura e nos conhecimentos sobre arte paleolítica, assinale a alternativa correta.",
       subItens: []
     },
     options: [
@@ -1179,7 +1179,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Analise o gráfico a seguir.\n\n[Gráfico de barras e linhas intitulado 'PAMPA (Bioma)', mostrando a evolução da 'Vegetação Campestre (Campos)' e 'Pastagem em Campos Naturais (integração)' em hectares de 2000 a 2016.]\n\n(Disponível em: <http://mapbiomas.org/stats>. Acesso em: 14 maio 2017).\n\nCom base no gráfico e nos conhecimentos sobre a vegetação do bioma \"pampa\", atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n\n( ) A área de pastagem em campos naturais triplica em todo o período enquanto que a área de vegetação campestre retrai por igual proporção no mesmo período, resultando na alteração do bioma.\n( ) A área de paisagem natural foi modificada ao longo do período apresentado no gráfico, devido à expansão da monocultura da soja e de espécies exóticas e da ampliação das áreas de pastagens de campos naturais.\n( ) A poluição dos recursos hídricos causada pelos impactos ambientais, no período apresentado no gráfico, está sendo corrigida com o plantio de Pinus e Eucalyptus nesse bioma.\n( ) A vegetação predominante do Pampa é constituída por campos, floresta ombrófila densa (árvores altas) e floresta estacional decidual (árvores que perdem as folhas no período de seca).\n( ) O zoneamento ecológico nos Pampas, proposto por ambientalistas, pode garantir o manejo preservacionista das áreas ainda não alteradas e a conservação dos resquícios da vegetação campestre.\n\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
+      principal: "Analise o gráfico a seguir.\n\n[Gráfico de barras e linhas intitulado 'PAMPA (Bioma)', mostrando a evolução da 'Vegetação Campestre (Campos)' e 'Pastagem em Campos Naturais (integração)' em hectares de 2000 a 2016.]\n\n(Disponível em: <http://mapbiomas.$org/stats$>. Acesso em: 14 maio 2017).\n\nCom base no gráfico e nos conhecimentos sobre a vegetação do bioma \"pampa\", atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n\n( ) A área de pastagem em campos naturais triplica em todo o período enquanto que a área de vegetação campestre retrai por igual proporção no mesmo período, resultando na alteração do bioma.\n( ) A área de paisagem natural foi modificada ao longo do período apresentado no gráfico, devido à expansão da monocultura da soja e de espécies exóticas e da ampliação das áreas de pastagens de campos naturais.\n( ) A poluição dos recursos hídricos causada pelos impactos ambientais, no período apresentado no gráfico, está sendo corrigida com o plantio de Pinus e Eucalyptus nesse bioma.\n( ) A vegetação predominante do Pampa é constituída por campos, floresta ombrófila densa (árvores altas) e floresta estacional decidual (árvores que perdem as folhas no período de seca).\n( ) O zoneamento ecológico nos Pampas, proposto por ambientalistas, pode garantir o manejo preservacionista das áreas ainda não alteradas e a conservação dos resquícios da vegetação campestre.\n\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
       subItens: []
     },
     options: [
@@ -1242,7 +1242,7 @@ createQuestion({
     university: "uel",
     year: 2018,
     text: {
-      principal: "Leia os textos e observe as figuras a seguir.\n\nPara realizar Anotações a partir de Caspar David Friedrich, Renata De Bonis, ao invés de focar-se na imensidão atemporal das paisagens, capturou a sonoridade dos ambientes, a parte que existia apenas como imaginação projetada sobre a visualidade enquadrada. As faixas de som gravadas nas locações de Friedrich, então, tornaram-se substrato para esta sinestésica instalação sonora.\n(Adaptado de: MIYADA, P.; ARDUI, O. Texto curatorial - Arte Atual Festival - Quadro, Desquadro, Requadro. Instituto Tomie Ohtake: São Paulo, 2016. Disponível em: <http://www.institutotomieohtake.org.br/curadoria/post/arte-atual-quadro-desquadro-requadro>. Acesso em: 27 mar. 2017.)\n\n[Imagem 1: Vista geral da instalação 'Monge Diante do Mar' de Renata De Bonis, 2015/2016.]\n[Imagem 2: 'Der Mönch am Meer' (Monge Diante do Mar), óleo sobre tela, de Caspar David Friedrich, 1809.]\n\nÉ magnífico, na infinita solidão de uma beira mar, sob um céu velado, levar o olhar até uma imensa extensão de água deserta. É necessário, para isso, uma pretensão dirigida pelo coração e uma privação, se posso me exprimir assim, imposta pela natureza. [...] Mas diante do quadro isso é impossível, e o que eu supunha encontrar no próprio quadro encontrei-o de antemão entre o quadro e mim mesmo - ao tempo uma pretensão que meu coração dirigia ao quadro e uma privação que o quadro mesmo me impunha. E é assim que me tornei, eu mesmo, o monge, o quadro tornou-se a duna [...]. Não há nada de mais triste e mais penoso do que uma tal situação no mundo: ser a única flâmula de vida no imenso império da morte, o centro solitário de um círculo solitário.\n(Adaptado de: KLEIST, H. V. Impressões diante de uma paisagem marinha de Friedrich. Petitis écrits. Paris: Le Promeneur, 1999. p. 199-200. (1a. edição 1810).\n\nCom base nos textos, nas figuras e nos conhecimentos sobre arte contemporânea, considere as afirmativas a seguir.\n\nI. Ao construir a instalação por meio dos sons e da reprodução da imagem da pintura de Caspar David Friedrich, Renata De Bonis reitera sentidos, dialoga com a obra do artista romântico e atualiza o conceito de paisagem.\nII. A grandiloquência do texto de Heinrich von Kleist se transfigura na ação da artista; embora o procedimento seja o de apropriação e de citação, isso está para além do plano da imagem: De Bonis empreendeu um conjunto de ações no tempo e no espaço.\nIII. O que caracteriza o trabalho de De Bonis como instalação é o conjunto de procedimentos e de deslocamento que a artista adota, assim como as materialidades que coleta para constituir, como obra, o próprio ambiente.\nIV. O tempo entre a pintura de Caspar David Friedrich e a instalação de Renata De Bonis, assim como as diferenças técnicas entre ambas, indicam o sentido da evolução da arte e, do mesmo modo, da compreensão do homem acerca da vida.\n\nAssinale a alternativa correta.",
+      principal: "Leia os textos e observe as figuras a seguir.\n\nPara realizar Anotações a partir de Caspar David Friedrich, Renata De Bonis, ao invés de focar-se na imensidão atemporal das paisagens, capturou a sonoridade dos ambientes, a parte que existia apenas como imaginação projetada sobre a visualidade enquadrada. As faixas de som gravadas nas locações de Friedrich, então, tornaram-se substrato para esta sinestésica instalação sonora.\n(Adaptado de: MIYADA, P.; ARDUI, O. Texto curatorial - Arte Atual Festival - Quadro, Desquadro, Requadro. Instituto Tomie Ohtake: São Paulo, 2016. Disponível em: <http://www.institutotomieohtake.org.br/curadoria/post/arte-atual-quadro-desquadro-requadro>. Acesso em: 27 mar. 2017.)\n\n[Imagem 1: Vista geral da instalação 'Monge Diante do Mar' de Renata De Bonis, $2015/2016$.]\n[Imagem 2: 'Der Mönch am Meer' (Monge Diante do Mar), óleo sobre tela, de Caspar David Friedrich, 1809.]\n\nÉ magnífico, na infinita solidão de uma beira mar, sob um céu velado, levar o olhar até uma imensa extensão de água deserta. É necessário, para isso, uma pretensão dirigida pelo coração e uma privação, se posso me exprimir assim, imposta pela natureza. [...] Mas diante do quadro isso é impossível, e o que eu supunha encontrar no próprio quadro encontrei-o de antemão entre o quadro e mim mesmo - ao tempo uma pretensão que meu coração dirigia ao quadro e uma privação que o quadro mesmo me impunha. E é assim que me tornei, eu mesmo, o monge, o quadro tornou-se a duna [...]. Não há nada de mais triste e mais penoso do que uma tal situação no mundo: ser a única flâmula de vida no imenso império da morte, o centro solitário de um círculo solitário.\n(Adaptado de: KLEIST, H. V. Impressões diante de uma paisagem marinha de Friedrich. Petitis écrits. Paris: Le Promeneur, 1999. p. 199-200. (1a. edição 1810).\n\nCom base nos textos, nas figuras e nos conhecimentos sobre arte contemporânea, considere as afirmativas a seguir.\n\nI. Ao construir a instalação por meio dos sons e da reprodução da imagem da pintura de Caspar David Friedrich, Renata De Bonis reitera sentidos, dialoga com a obra do artista romântico e atualiza o conceito de paisagem.\nII. A grandiloquência do texto de Heinrich von Kleist se transfigura na ação da artista; embora o procedimento seja o de apropriação e de citação, isso está para além do plano da imagem: De Bonis empreendeu um conjunto de ações no tempo e no espaço.\nIII. O que caracteriza o trabalho de De Bonis como instalação é o conjunto de procedimentos e de deslocamento que a artista adota, assim como as materialidades que coleta para constituir, como obra, o próprio ambiente.\nIV. O tempo entre a pintura de Caspar David Friedrich e a instalação de Renata De Bonis, assim como as diferenças técnicas entre ambas, indicam o sentido da evolução da arte e, do mesmo modo, da compreensão do homem acerca da vida.\n\nAssinale a alternativa correta.",
       subItens: []
     },
     options: [
