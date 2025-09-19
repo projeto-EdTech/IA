@@ -258,7 +258,7 @@ createQuestion({
     university: "Vestibular",
     year: 2023,
     text: {
-      principal: "A partir da análise do gráfico a seguir, que representa a velocidade de uma partícula em relação ao tempo, assinale o que for correto.\n[Gráfico V ($\\\\frac{m}{s}$) x t (s): O gráfico mostra a velocidade (V) em $\\\\frac{m}{s}$ no eixo y e o tempo (t) em segundos no eixo x. O eixo y varia de -20 a 50, e o eixo x de 0 a 60. O movimento é representado por segmentos de reta: De t=0s a t=20s, a velocidade aumenta linearmente de 0 $\\\\frac{m}{s}$ para 40 $\\\\frac{m}{s}$. De t=20s a t=40s, a velocidade se mantém constante em 40 $\\\\frac{m}{s}$. De t=40s a t=50s, a velocidade diminui linearmente de 40 $\\\\frac{m}{s}$ para 0 $\\\\frac{m}{s}$. De t=50s a t=60s, a velocidade diminui linearmente de 0 $\\\\frac{m}{s}$ para -10 $\\\\frac{m}{s}$.]",
+      principal: "A partir da análise do gráfico a seguir, que representa a velocidade de uma partícula em relação ao tempo, assinale o que for correto.\n[Gráfico V (m/s) x t (s): O gráfico mostra a velocidade (V) em m/s no eixo y e o tempo (t) em segundos no eixo x. O eixo y varia de -20 a 50, e o eixo x de 0 a 60. O movimento é representado por segmentos de reta: De t=0s a t=20s, a velocidade aumenta linearmente de 0 m/s para 40 m/s. De t=20s a t=40s, a velocidade se mantém constante em 40 m/s. De t=40s a t=50s, a velocidade diminui linearmente de 40 m/s para 0 m/s. De t=50s a t=60s, a velocidade diminui linearmente de 0 m/s para -10 m/s.]",
       subItens: []
     },
     options: ["01) A aceleração da partícula entre os instantes t = 0s e t = 20 s é de 3,5 m/s².","02) O movimento da partícula entre t = 50 s e t = 60 s é retrógrado.","04) O deslocamento da partícula entre os instantes t = 0 s e t = 60 s é de 2050 m.","08) A velocidade média da partícula entre os instantes t = 0 s e t = 60 s é de 30 m/s."],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2023,
     text: {
-      principal: "Um corpo A, de massa MA = 3 kg, tem uma velocidade VA = 4 $\\\\frac{m}{s}$, ao longo de uma superfície horizontal sem atrito, no sentido positivo do eixo x. Um corpo B, de massa MB = 2 kg, encontra-se inicialmente em repouso em relação ao corpo A. Considerando que a colisão entre os dois corpos é perfeitamente elástica e frontal, e que a velocidade do corpo A após a colisão é de 0,8 $\\\\frac{m}{s}$, assinale o que for correto.",
+      principal: "Um corpo A, de massa MA = 3 kg, tem uma velocidade VA = 4 m/s, ao longo de uma superfície horizontal sem atrito, no sentido positivo do eixo x. Um corpo B, de massa MB = 2 kg, encontra-se inicialmente em repouso em relação ao corpo A. Considerando que a colisão entre os dois corpos é perfeitamente elástica e frontal, e que a velocidade do corpo A após a colisão é de 0,8 m/s, assinale o que for correto.",
       subItens: []
     },
     options: ["01) Após a colisão, o corpo A move-se no sentido negativo do eixo x.","02) A energia cinética do corpo A após a colisão é de 0,96 J.","04) O módulo da velocidade do corpo B após a colisão é de 4,8 m/s.","08) O impulso fornecido ao corpo B devido à colisão é de 9,6 kg.m/s."],
@@ -288,7 +288,7 @@ createQuestion({
     university: "Vestibular",
     year: 2023,
     text: {
-      principal: "Um bloco de massa 100 g encontra-se em repouso em um plano inclinado, preso em uma das extremidades de uma mola, conforme a figura abaixo. Considerando que não há atrito entre o bloco e o plano inclinado e que a mola é ideal e está distendida em 10 mm em relação ao seu comprimento original, assinale o que for correto.\nDado: g = 10 $\\\\frac{m}{s}$²\n[Imagem: Diagrama de um bloco em um plano inclinado. O plano inclinado forma um triângulo retângulo com altura de 30 cm e base de 40 cm. O bloco está preso por uma mola na parte superior do plano.]",
+      principal: "Um bloco de massa 100 g encontra-se em repouso em um plano inclinado, preso em uma das extremidades de uma mola, conforme a figura abaixo. Considerando que não há atrito entre o bloco e o plano inclinado e que a mola é ideal e está distendida em 10 mm em relação ao seu comprimento original, assinale o que for correto.\nDado: g = 10 m/s²\n[Imagem: Diagrama de um bloco em um plano inclinado. O plano inclinado forma um triângulo retângulo com altura de 30 cm e base de 40 cm. O bloco está preso por uma mola na parte superior do plano.]",
       subItens: []
     },
     options: ["01) A força elástica exercida pela mola no bloco é de 0,6 N.","02) A força de contato entre o bloco e o plano inclinado é de 0,8 N.","04) A constante elástica da mola é de 80 N/m.","08) A energia potencial elástica da mola é de 3 mJ."],
@@ -303,7 +303,7 @@ createQuestion({
     university: "Vestibular",
     year: 2023,
     text: {
-      principal: "Um mol de um gás ideal monoatômico realiza uma transformação isobárica. Inicialmente, o gás está a uma pressão de 3.10⁵ $\\\\frac{N}{m}$² e ocupa um volume de 8,3·10⁻³ m³. O gás recebe 3112,5 J de calor e se expande, ocupando um volume de 12,45·10⁻³ m³. Em relação ao exposto, assinale o que for correto.\nDado: R = constante dos gases = 8,3 J/(mol·K)",
+      principal: "Um mol de um gás ideal monoatômico realiza uma transformação isobárica. Inicialmente, o gás está a uma pressão de 3.10⁵ N/m² e ocupa um volume de 8,3·10⁻³ m³. O gás recebe 3112,5 J de calor e se expande, ocupando um volume de 12,45·10⁻³ m³. Em relação ao exposto, assinale o que for correto.\nDado: R = constante dos gases = 8,3 J/(mol·K)",
       subItens: []
     },
     options: ["01) A temperatura inicial do gás é de 300 K.","02) O trabalho realizado pelo gás é de 1245 J.","04) A variação da energia interna do gás é de 1867,5 J.","08) A variação da temperatura do gás é de 150 K."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular",
     year: 2023,
     text: {
-      principal: "Em um experimento em laboratório, foram adicionados 0,03 g de alumínio metálico a 100 mL de uma solução de HCl 0,1 mol L⁻¹. Sabendo-se que houve a liberação de um gás, assinale o que for correto.\nDados: Al = 27,0 $\\\\frac{g}{mol}$, Cl = 35,5 $\\\\frac{g}{mol}$",
+      principal: "Em um experimento em laboratório, foram adicionados 0,03 g de alumínio metálico a 100 mL de uma solução de HCl 0,1 mol L⁻¹. Sabendo-se que houve a liberação de um gás, assinale o que for correto.\nDados: Al = 27,0 g/mol, Cl = 35,5 g/mol",
       subItens: []
     },
     options: ["01) O gás liberado nessa reação é o cloro.","02) A reação ocorrida é uma reação de óxido-redução.","04) O HCl foi consumido na quantidade de 0,01 mol.","08) O alumínio é o reagente limitante dessa reação."],

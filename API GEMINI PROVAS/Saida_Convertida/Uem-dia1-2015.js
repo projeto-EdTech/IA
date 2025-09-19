@@ -108,7 +108,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Assinale o que for correto sobre a fotossíntese, cuja equação geral (não balanceada) está representada abaixo.\nCO_{2} + H_{2}O Luz → Plantas C_{6}H12O6 + O_{2}",
+      principal: "Assinale o que for correto sobre a fotossíntese, cuja equação geral (não balanceada) está representada abaixo.\n$CO_{2}$ + H2O Luz → Plantas C6H12O6 + $O_{2}$",
       subItens: []
     },
     options: ["01) Os cloroplastos, locais onde a fotossíntese ocorre, estão presentes em células de plantas e algas.","02) A clorofila recupera os elétrons perdidos durante a fotossíntese a partir da decomposição de moléculas de CO2.","04) Na etapa de fixação do carbono, o NADPH e o ATP produzidos nas etapas iniciais da fotossíntese fornecem, respectivamente, hidrogênio e energia para a produção de glicídios a partir do gás carbônico.","08) Uma vez balanceada a equação e supondo que o processo ocorra com 100% de rendimento, é correto afirmar que a reação de 36 g de CO2 com H2O em excesso produzirá 182,3 g de C6H12O6.","16) A substância C6H12O6 é um hidrato de carbono. Os hidratos de carbono possuem fórmula geral Cx(H2O)y."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Para fazer ultrapassagens em estradas de pista simples é necessário trafegar pela contramão. Para uma manobra segura o condutor deve iniciar a ultrapassagem indo para a pista contrária quando a dianteira do seu veículo estiver a uma distância de 10 metros da traseira do veículo da frente e voltar para a pista quando a sua traseira estiver 5 metros à frente da dianteira do outro veículo. Considere um carro de 5 metros de comprimento, viajando a 108 $\\\\frac{km}{h}$, que deseja ultrapassar um caminhão de 30 metros de comprimento trafegando a 72 $\\\\frac{km}{h}$. Sobre essa manobra, assinale o que for correto (Obs.: desconsidere os movimentos laterais do carro).",
+      principal: "Para fazer ultrapassagens em estradas de pista simples é necessário trafegar pela contramão. Para uma manobra segura o condutor deve iniciar a ultrapassagem indo para a pista contrária quando a dianteira do seu veículo estiver a uma distância de 10 metros da traseira do veículo da frente e voltar para a pista quando a sua traseira estiver 5 metros à frente da dianteira do outro veículo. Considere um carro de 5 metros de comprimento, viajando a 108 km/h, que deseja ultrapassar um caminhão de 30 metros de comprimento trafegando a 72 km/h. Sobre essa manobra, assinale o que for correto (Obs.: desconsidere os movimentos laterais do carro).",
       subItens: []
     },
     options: ["01) O tempo entre o início e o fim da manobra será de 5 segundos.","02) O carro irá percorrer 180 metros entre o início e o fim da manobra.","04) A distância, em metros, entre a dianteira do carro e a traseira do caminhão, t segundos após o início da manobra, é dada por d(t)=10|1-t|.","08) A distância, em metros, entre a traseira do carro e a dianteira do caminhão, t segundos após o início da manobra, é dada por d(t) = 5.|10-2t|.","16) Se quiser ultrapassar o caminhão na metade do tempo que levaria nas condições citadas, o carro precisaria dobrar a sua velocidade."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Dois mols de gás oxigênio (O_{2}) à temperatura de 27 °C estão confinados em um recipiente ao nível do mar. O recipiente possui um êmbolo de massa igual a 2 quilogramas e área igual a 2×10⁻⁴ m², que pode se deslocar livremente sem atrito. Considerando que o gás apresenta comportamento ideal, assinale o que for correto. Dados: R=8,31 $\\\\frac{J}{mol}$.K. Considere 1 atm = 10⁵ $\\\\frac{N}{m}$² e g = 10 $\\\\frac{m}{s}$².",
+      principal: "Dois mols de gás oxigênio ($O_{2}$) à temperatura de 27 °C estão confinados em um recipiente ao nível do mar. O recipiente possui um êmbolo de massa igual a 2 quilogramas e área igual a 2×10⁻⁴ m², que pode se deslocar livremente sem atrito. Considerando que o gás apresenta comportamento ideal, assinale o que for correto. Dados: R=8,31 J/mol.K. Considere 1 atm = 10⁵ N/m² e g = 10 m/s².",
       subItens: []
     },
     options: ["01) A pressão à qual o gás está submetido é aproximadamente igual a 1×10⁵ N/m².","02) A altura da extremidade inferior do êmbolo em relação à base do recipiente é de aproximadamente 125 metros.","04) Se o gás O₂ fosse substituído pelo gás He, nas mesmas condições descritas, a energia interna do gás He seria menor quando comparada com a energia interna do gás O₂.","08) Se o gás receber calor do meio externo, a volume constante, a temperatura e a pressão diminuem.","16) Todas as moléculas de oxigênio contidas no recipiente apresentam a mesma agitação térmica."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Uma bolinha é atirada para o alto a partir do chão e fica quicando, realizando movimentos de subir e descer. Suponha que a velocidade da bola ao ser lançada seja de 4 $\\\\frac{m}{s}$, e que a cada vez que toca o chão ela perca 2% de sua energia mecânica. Desprezando a resistência do ar, assinale o que for correto. Considere g = 9,8 $\\\\frac{m}{s}$².",
+      principal: "Uma bolinha é atirada para o alto a partir do chão e fica quicando, realizando movimentos de subir e descer. Suponha que a velocidade da bola ao ser lançada seja de 4 m/s, e que a cada vez que toca o chão ela perca 2% de sua energia mecânica. Desprezando a resistência do ar, assinale o que for correto. Considere g = 9,8 m/s².",
       subItens: []
     },
     options: ["01) A altura máxima atingida pela bola após quicar pela primeira vez é 80 cm.","02) A velocidade escalar da bola ao tocar o chão na primeira vez é, em módulo, menor do que 4 m/s.","04) A velocidade escalar da bola no instante logo após quicar pela segunda vez é, em módulo, 3,92 m/s.","08) A sequência dada pela altura máxima atingida pela bola após cada vez que toca o chão é uma progressão geométrica.","16) A distância total percorrida pela bola é 40 metros."],

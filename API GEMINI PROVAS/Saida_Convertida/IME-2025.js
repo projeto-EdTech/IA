@@ -153,7 +153,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "O número de soluções da equação cos³(x) + sen³(x) + ½ sen(2x) = 1 no intervalo [0,2π) é",
+      principal: "O número de soluções da equação cos³(x) + $\\sin$³(x) + ½ $\\sin$(2x) = 1 no intervalo [0,2π) é",
       subItens: []
     },
     options: ["0","1","2","3","4"],
@@ -183,7 +183,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "Seja I o incentro do triângulo ABC e L a interseção da semi-reta AI com a circunferência circunscrita ao triângulo ABC, com A e L distintos. Dado que AB + AC = 2BC, o valor de $\\\\frac{BL}{AL}$ é",
+      principal: "Seja I o incentro do triângulo ABC e L a interseção da semi-reta AI com a circunferência circunscrita ao triângulo ABC, com A e L distintos. Dado que AB + AC = 2BC, o valor de BL/AL é",
       subItens: []
     },
     options: ["1/2","1","3/2","2","5/2"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "No cubo ABCDEFGH, a aresta mede l. Conforme a figura, o ponto B₁, sobre a aresta AB, é tal que AB₁ = $\\\\frac{l}{3}$; o ponto D₁, sobre a aresta AD, é tal que AD₁ = $\\\\frac{l}{3}$ e o ponto H₁, sobre a aresta GH, é tal que GH₁ = $\\\\frac{l}{3}$.\n[Diagrama de um cubo com os vértices rotulados e os pontos B_{1}, D_{1} e H_{1} indicados nas arestas.]\nA área do triângulo B₁D₁H₁ é",
+      principal: "No cubo ABCDEFGH, a aresta mede l. Conforme a figura, o ponto B₁, sobre a aresta AB, é tal que AB₁ = l/3; o ponto D₁, sobre a aresta AD, é tal que AD₁ = l/3 e o ponto H₁, sobre a aresta GH, é tal que GH₁ = l/3.\n[Diagrama de um cubo com os vértices rotulados e os pontos $B_{1}$, $D_{1}$ e $H_{1}$ indicados nas arestas.]\nA área do triângulo B₁D₁H₁ é",
       subItens: []
     },
     options: ["l²/9","l²√3 / 18","5l²√34 / 18","2l²√2 / 9","l²√34 / 18"],
@@ -288,7 +288,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "Para simular o protótipo de um navio, um engenheiro constrói um prisma reto, com seção reta no formato de um triângulo equilátero, a partir de quatro chapas metálicas (duas triangulares de lado L, duas retangulares 6L × L) e uma chapa retangular superior de massa desprezível e dimensões 6L × L. A estrutura encontra-se bem vedada e contém ar em seu interior. Uma carga cúbica de aresta 0,5L é fixada simetricamente sobre o prisma e em conformidade com as figuras. Em seguida, a estrutura (prisma + carga) é colocada numa piscina, afundando h.\nDados:\n• massa específica superficial das chapas metálicas: 8 $\\\\frac{kg}{m}$²;\n• massa específica volumétrica da carga cúbica: 240 $\\\\frac{kg}{m}$³;\n• massa específica da água: 1000 $\\\\frac{kg}{m}$³;\n• L = 20 cm;\n• √3 ≈ 1,7;\n• 2√3 / 5√3 ≈ 0,68.\nSupondo que a estrutura flutue de forma equilibrada, o valor de h, em centímetros, pode ser arredondado para:",
+      principal: "Para simular o protótipo de um navio, um engenheiro constrói um prisma reto, com seção reta no formato de um triângulo equilátero, a partir de quatro chapas metálicas (duas triangulares de lado L, duas retangulares 6L × L) e uma chapa retangular superior de massa desprezível e dimensões 6L × L. A estrutura encontra-se bem vedada e contém ar em seu interior. Uma carga cúbica de aresta 0,5L é fixada simetricamente sobre o prisma e em conformidade com as figuras. Em seguida, a estrutura (prisma + carga) é colocada numa piscina, afundando h.\nDados:\n• massa específica superficial das chapas metálicas: 8 kg/m²;\n• massa específica volumétrica da carga cúbica: 240 kg/m³;\n• massa específica da água: 1000 kg/m³;\n• L = 20 cm;\n• √3 ≈ 1,7;\n• 2√3 / 5√3 ≈ 0,68.\nSupondo que a estrutura flutue de forma equilibrada, o valor de h, em centímetros, pode ser arredondado para:",
       subItens: []
     },
     options: ["8","10","12","14","16"],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "Para simular a órbita (x(t),y(t)) do satélite de um planeta, no referencial do planeta, utilizou-se um modelo unidimensional com as seguintes equações:\nx(t) = A cos(wt)\ny(t) = B sen(wt)\nonde A, B e ω são constantes e t é o instante de tempo.\nDados:\n• massa do planeta: M;\n• massa do satélite: m, onde m << M;\n• constante universal de gravitação: G;\n• C = √(A² – B²);\n• localização do centro do planeta: (C,0).\nA diferença entre a maior e a menor energia potencial gravitacional do satélite é:",
+      principal: "Para simular a órbita (x(t),y(t)) do satélite de um planeta, no referencial do planeta, utilizou-se um modelo unidimensional com as seguintes equações:\nx(t) = A cos(wt)\ny(t) = B $\\sin$(wt)\nonde A, B e ω são constantes e t é o instante de tempo.\nDados:\n• massa do planeta: M;\n• massa do satélite: m, onde m << M;\n• constante universal de gravitação: G;\n• C = √(A² – B²);\n• localização do centro do planeta: (C,0).\nA diferença entre a maior e a menor energia potencial gravitacional do satélite é:",
       subItens: []
     },
     options: ["2 AGmM/B²","CGmM/B²","2CGmM/A²","2CGmM/B²","AGmM/C²"],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "Em uma prática de laboratório, a superfície externa de uma parede é integralmente recoberta com um material isolante térmico. Por sua vez, a superfície interna encontra-se exposta a uma chama.\nDados:\n• condutividade térmica da parede: 3 W/(m.°C);\n• condutividade térmica do material isolante: 0,02 W/(m.°C);\n• espessura da parede: 15 cm;\n• espessura do material isolante: 4 mm;\n• temperatura na superfície livre do isolante: 45 °C;\n• temperatura na superfície da parede em contato com a chama: 295 °C;\n• calor latente de fusão do gelo: 336 $\\\\frac{J}{g}$;\n• dimensões da parede e da camada isolante: 2 m × 0,84 m.\nA massa de gelo máxima, em kg, que a energia incidente na parede é capaz de fundir em uma hora de experimento é:",
+      principal: "Em uma prática de laboratório, a superfície externa de uma parede é integralmente recoberta com um material isolante térmico. Por sua vez, a superfície interna encontra-se exposta a uma chama.\nDados:\n• condutividade térmica da parede: 3 W/(m.°C);\n• condutividade térmica do material isolante: 0,02 W/(m.°C);\n• espessura da parede: 15 cm;\n• espessura do material isolante: 4 mm;\n• temperatura na superfície livre do isolante: 45 °C;\n• temperatura na superfície da parede em contato com a chama: 295 °C;\n• calor latente de fusão do gelo: 336 J/g;\n• dimensões da parede e da camada isolante: 2 m × 0,84 m.\nA massa de gelo máxima, em kg, que a energia incidente na parede é capaz de fundir em uma hora de experimento é:",
       subItens: []
     },
     options: ["1,5","1,8","15","18","20"],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "Em uma determinada região esférica do espaço, a distribuição volumétrica de cargas é tal que o campo elétrico em seu interior é o vetor E(r) ûr, onde ûr é o vetor unitário na direção radial e E(r), em $\\\\frac{V}{m}$, é igual a:\nE(r) = { Acos(3πr / 2R) + (2-r)² / R - 1, para 0 ≤ r ≤ R; 0, para r > R.\nem que A é uma constante, r é a distância até o centro da esfera e R é o raio da esfera, em metros.\nObservação:\n• R < 3 m.\nCom as condições impostas acima, a constante A, em $\\\\frac{V}{m}$, necessariamente é:",
+      principal: "Em uma determinada região esférica do espaço, a distribuição volumétrica de cargas é tal que o campo elétrico em seu interior é o vetor E(r) ûr, onde ûr é o vetor unitário na direção radial e E(r), em V/m, é igual a:\nE(r) = { Acos(3πr / 2R) + (2-r)² / R - 1, para 0 ≤ r ≤ R; 0, para r > R.\nem que A é uma constante, r é a distância até o centro da esfera e R é o raio da esfera, em metros.\nObservação:\n• R < 3 m.\nCom as condições impostas acima, a constante A, em V/m, necessariamente é:",
       subItens: []
     },
     options: ["-2","2","-3","3","0"],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2025,
     text: {
-      principal: "A figura a seguir mostra esquematicamente um dispositivo eletroquímico composto pelas meias-células X e Y.\n[Diagrama de uma célula eletroquímica com meias-células X e Y, ponte salina, voltímetro e soluções XSO_{4} 1M e Y_{2}SO_{4} 1M]\nDados: Potenciais-padrão de redução das espécies químicas envolvidas.\nEx⁰ = -1,85 V\nEy⁰ = -2,93 V\nCom base no esquema eletroquímico apresentado na figura e nos dados fornecidos, analise as proposições a seguir na condição do circuito fechado.\nI. A semirreação representada pela equação estequiométrica X⁰ → X⁺² + 2e⁻ é espontânea por ser de oxidação.\nII. O fluxo de elétrons ocorre no sentido horário, indo do anodo para catodo.\nIII. A corrente iônica circula pelos eletrodos e fios metálicos.\nIV. O eletrodo da meia-célula X é o catodo onde ocorre reação de redução.\nV. As reações eletroquímicas podem ser representadas pelas seguintes equações estequiométricas:\nX⁺² + 2e⁻ → X⁰\n2Y⁰ → 2Y⁺ + 2e⁻\nA opção que apresenta APENAS afirmativas verdadeiras é:",
+      principal: "A figura a seguir mostra esquematicamente um dispositivo eletroquímico composto pelas meias-células X e Y.\n[Diagrama de uma célula eletroquímica com meias-células X e Y, ponte salina, voltímetro e soluções $XSO_{4}$ 1M e Y2SO4 1M]\nDados: Potenciais-padrão de redução das espécies químicas envolvidas.\nEx⁰ = -1,85 V\nEy⁰ = -2,93 V\nCom base no esquema eletroquímico apresentado na figura e nos dados fornecidos, analise as proposições a seguir na condição do circuito fechado.\nI. A semirreação representada pela equação estequiométrica X⁰ → X⁺² + 2e⁻ é espontânea por ser de oxidação.\nII. O fluxo de elétrons ocorre no sentido horário, indo do anodo para catodo.\nIII. A corrente iônica circula pelos eletrodos e fios metálicos.\nIV. O eletrodo da meia-célula X é o catodo onde ocorre reação de redução.\nV. As reações eletroquímicas podem ser representadas pelas seguintes equações estequiométricas:\nX⁺² + 2e⁻ → X⁰\n2Y⁰ → 2Y⁺ + 2e⁻\nA opção que apresenta APENAS afirmativas verdadeiras é:",
       subItens: []
     },
     options: ["I e III.","II, III e IV.","I e V.","IV e V.","II e V."],

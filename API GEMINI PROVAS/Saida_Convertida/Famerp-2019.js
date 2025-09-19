@@ -438,7 +438,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Observe as fotos, respectivamente de 1961 e de 1989.\n[Image of two photos, first showing a man in front of a tractor, second showing a man looking at a wall with graffiti, both from http://g_{1}.globo.com]\nAs imagens podem ser utilizadas para",
+      principal: "Observe as fotos, respectivamente de 1961 e de 1989.\n[Image of two photos, first showing a man in front of a tractor, second showing a man looking at a wall with graffiti, both from http://$g_{1}$.globo.com]\nAs imagens podem ser utilizadas para",
       subItens: []
     },
     options: ["confirmar a política segregacionista e racista do nazismo.","expor as tensões entre civis e militares no Maio de 1968 francês.","demostrar a destruição provocada pela Segunda Guerra Mundial.","simbolizar o acirramento e o fim da Guerra Fria.","contrapor a ordem no mundo socialista à desordem do capitalismo."],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Em 1997, pesquisadores criaram Polly, uma ovelha contendo o gene humano F_{9}, responsável pela produção do fator IX de coagulação e vital para indivíduos com hemofilia. Polly, assim como a famosa ovelha Dolly, foi gerada a partir da fusão de um óvulo anucleado com um fibroblasto fetal cultivado em laboratório, no qual o gene F_{9} foi previamente introduzido em seu genoma.\n(Lygia da Veiga Pereira. Clonagem: da ovelha Dolly às células-tronco, 2005. Adaptado.)\nDe acordo com o texto, a ovelha Polly foi gerada pela fusão de um óvulo anucleado com uma célula _______ submetida à técnica de __________.\nAs lacunas do texto devem ser preenchidas por",
+      principal: "Em 1997, pesquisadores criaram Polly, uma ovelha contendo o gene humano $F_{9}$, responsável pela produção do fator IX de coagulação e vital para indivíduos com hemofilia. Polly, assim como a famosa ovelha Dolly, foi gerada a partir da fusão de um óvulo anucleado com um fibroblasto fetal cultivado em laboratório, no qual o gene $F_{9}$ foi previamente introduzido em seu genoma.\n(Lygia da Veiga Pereira. Clonagem: da ovelha Dolly às células-tronco, 2005. Adaptado.)\nDe acordo com o texto, a ovelha Polly foi gerada pela fusão de um óvulo anucleado com uma célula _______ submetida à técnica de __________.\nAs lacunas do texto devem ser preenchidas por",
       subItens: []
     },
     options: ["germinativa e transgenia.","somática e quimioterapia.","germinativa e permutação induzida.","somática e transgenia.","germinativa e quimioterapia."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "O esquema a seguir representa o processo de extração do óleo essencial de cascas de laranja.\n[Flowchart of extraction process: Cascas de laranja$$ \\\\rightarrow P$$rocesso 1 (Maceração das cascas com Éter$$) \\\\rightarrow S$$istema homogêneo$$ \\\\rightarrow P$$rocesso 2 (Separação do Éter e Óleo essencial)]\nOs números 1 e 2 correspondem a processos de separação de misturas denominados, respectivamente,",
+      principal: "O esquema a seguir representa o processo de extração do óleo essencial de cascas de laranja.\n[Flowchart of extraction process: Cascas de laranja -> Processo 1 (Maceração das cascas com Éter) -> Sistema homogêneo -> Processo 2 (Separação do Éter e Óleo essencial)]\nOs números 1 e 2 correspondem a processos de separação de misturas denominados, respectivamente,",
       subItens: []
     },
     options: ["dissolução fracionada e filtração.","decantação e centrifugação.","centrifugação e filtração.","destilação e decantação.","filtração e destilação."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Em janeiro de 2018 foi encontrado em uma mina na África o quinto maior diamante (uma variedade alotrópica do carbono) do mundo, pesando 900 quilates. Considerando que um quilate equivale a uma massa de 200 mg, a quantidade, em mol, de átomos de carbono existente nesse diamante é igual a\n(Massa molar do C = 12 $\\\\frac{g}{mol}$)",
+      principal: "Em janeiro de 2018 foi encontrado em uma mina na África o quinto maior diamante (uma variedade alotrópica do carbono) do mundo, pesando 900 quilates. Considerando que um quilate equivale a uma massa de 200 mg, a quantidade, em mol, de átomos de carbono existente nesse diamante é igual a\n(Massa molar do C = 12 g/mol)",
       subItens: []
     },
     options: ["1,5 x 10¹.","3,0 x 10¹.","4,5 x 10¹.","1,5 x 10⁴.","3,0 x 10⁴."],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Umectantes são substâncias que apresentam grande afinidade por moléculas de água e, por isso, têm a propriedade de manter a umidade dos materiais, sendo adicionados a bolos, bolachas, panetones e outros alimentos. A tabela a seguir apresenta algumas substâncias utilizadas na preparação de alimentos.\n[Table with Substance and Formula: Cloreto de sódio (NaCl), Bicarbonato de sódio (NaHCO_{3}), Glicerina (C_{3}H8O3), Benzoato de sódio (C_{7}H5NaO2), Acetato de etila (C_{4}H8O2)]\nA substância presente na tabela que possui composição adequada para atuar como umectante é",
+      principal: "Umectantes são substâncias que apresentam grande afinidade por moléculas de água e, por isso, têm a propriedade de manter a umidade dos materiais, sendo adicionados a bolos, bolachas, panetones e outros alimentos. A tabela a seguir apresenta algumas substâncias utilizadas na preparação de alimentos.\n[Table with Substance and Formula: Cloreto de sódio (NaCl), Bicarbonato de sódio ($NaHCO_{3}$), Glicerina (C3H8O3), Benzoato de sódio (C7H5NaO2), Acetato de etila (C4H8O2)]\nA substância presente na tabela que possui composição adequada para atuar como umectante é",
       subItens: []
     },
     options: ["a glicerina.","o cloreto de sódio.","o benzoato de sódio.","o bicarbonato de sódio.","o acetato de etila."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Em águas naturais, a acidez mineral pode ser formada através da oxidação de sulfetos, como indica a equação química a seguir:\n2FeS₂ + 7O₂ + 2H₂O → 2FeSO₄ + 2H₂SO₄\nEm uma amostra de água retirada de um rio, foi encontrada uma concentração de FeSO₄ igual a 0,02 $\\\\frac{mol}{L}$. Nesse rio, a massa de FeS₂ dissolvida por litro de água era igual a\n(Massas molares: H = 1 $\\\\frac{g}{mol}$; O = 16 $\\\\frac{g}{mol}$; S = 32 $\\\\frac{g}{mol}$; Fe = 56 $\\\\frac{g}{mol}$)",
+      principal: "Em águas naturais, a acidez mineral pode ser formada através da oxidação de sulfetos, como indica a equação química a seguir:\n2FeS₂ + 7O₂ + 2H₂O → 2FeSO₄ + 2H₂SO₄\nEm uma amostra de água retirada de um rio, foi encontrada uma concentração de FeSO₄ igual a 0,02 mol/L. Nesse rio, a massa de FeS₂ dissolvida por litro de água era igual a\n(Massas molares: H = 1 g/mol; O = 16 g/mol; S = 32 g/mol; Fe = 56 g/mol)",
       subItens: []
     },
     options: ["0,48 g.","0,24 g.","0,12 g.","2,4 g.","1,2 g."],
@@ -903,7 +903,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Ao se aproximar de um aeroporto, um avião se deslocava horizontalmente com velocidade de 115 $\\\\frac{m}{s}$. Ao tocar a pista, cinco minutos depois da aproximação, sua velocidade horizontal era 70 $\\\\frac{m}{s}$. O módulo da aceleração escalar média horizontal a que o avião ficou sujeito nesse trecho foi",
+      principal: "Ao se aproximar de um aeroporto, um avião se deslocava horizontalmente com velocidade de 115 m/s. Ao tocar a pista, cinco minutos depois da aproximação, sua velocidade horizontal era 70 m/s. O módulo da aceleração escalar média horizontal a que o avião ficou sujeito nesse trecho foi",
       subItens: []
     },
     options: ["0,23 m/s².","0,15 m/s².","0,35 m/s².","0,46 m/s².","0,75 m/s²."],
@@ -918,7 +918,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Analise o gráfico que mostra a variação da velocidade escalar, em função do tempo, de um automóvel de massa 1200 kg que se desloca em uma pista retilínea horizontal.\n[Graph of Velocity ($\\\\frac{m}{s}$) vs. Time (s)]\nA intensidade média da força resultante sobre esse automóvel, no intervalo de tempo entre zero e quatro segundos, é",
+      principal: "Analise o gráfico que mostra a variação da velocidade escalar, em função do tempo, de um automóvel de massa 1200 kg que se desloca em uma pista retilínea horizontal.\n[Graph of Velocity (m/s) vs. Time (s)]\nA intensidade média da força resultante sobre esse automóvel, no intervalo de tempo entre zero e quatro segundos, é",
       subItens: []
     },
     options: ["2400 N.","4800 N.","3000 N.","3600 N.","480 N."],
@@ -933,7 +933,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Uma pessoa parada sobre a linha do equador terrestre apresenta uma velocidade tangencial, devido à rotação da Terra, de módulo próximo a 1700 $\\\\frac{km}{h}$.\n[Diagram showing Earth's rotation and a point in São José do Rio Preto]\nSabendo que sen 21° = 0,36 e cos 21° = 0,93, uma pessoa em repouso sobre o solo, em São José do Rio Preto, cuja latitude é aproximadamente $ = 21° Sul, tem uma velocidade tangencial de módulo próximo a",
+      principal: "Uma pessoa parada sobre a linha do equador terrestre apresenta uma velocidade tangencial, devido à rotação da Terra, de módulo próximo a 1700 km/h.\n[Diagram showing Earth's rotation and a point in São José do Rio Preto]\nSabendo que $\\sin$ 21° = 0,36 e cos 21° = 0,93, uma pessoa em repouso sobre o solo, em São José do Rio Preto, cuja latitude é aproximadamente $ = 21° Sul, tem uma velocidade tangencial de módulo próximo a",
       subItens: []
     },
     options: ["1830 km/h.","610 km/h.","1700 km/h.","4700 km/h.","1580 km/h."],
@@ -1053,7 +1053,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Uma pesquisa realizada pela Sociedade Brasileira de Cardiologia (SBC) constatou que os níveis elevados de colesterol atingem cerca de quatro em cada dez brasileiros adultos. Isso corresponde a cerca de 60 milhões de pessoas adultas. O estudo ainda revelou que aproximadamente 11% da população adulta brasileira nunca fez exame de colesterol.\n(https://noticias.r_{7}.com, 08.08.2018. Adaptado.)\nA partir dos dados da notícia, é possível concluir que o número de brasileiros adultos que nunca fizeram exame de colesterol é de, aproximadamente,",
+      principal: "Uma pesquisa realizada pela Sociedade Brasileira de Cardiologia (SBC) constatou que os níveis elevados de colesterol atingem cerca de quatro em cada dez brasileiros adultos. Isso corresponde a cerca de 60 milhões de pessoas adultas. O estudo ainda revelou que aproximadamente 11% da população adulta brasileira nunca fez exame de colesterol.\n(https://noticias.$r_{7}$.com, 08.08.2018. Adaptado.)\nA partir dos dados da notícia, é possível concluir que o número de brasileiros adultos que nunca fizeram exame de colesterol é de, aproximadamente,",
       subItens: []
     },
     options: ["2,64 milhões.","8,6 milhões.","6,6 milhões.","3,96 milhões.","16,5 milhões."],

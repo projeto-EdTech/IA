@@ -498,7 +498,7 @@ createQuestion({
     university: "Vestibular UNIFICADO",
     year: 2024,
     text: {
-      principal: "A proteína p_{53} tem papel central no controle da resposta celular a circunstâncias adversas, como sinais hiperproliferativos e dano ao DNA, podendo levar à parada do ciclo celular ou à apoptose. O gene que codifica essa proteína supressora de tumor é mutado em cerca de 50% dos cânceres humanos. Essa situação é retratada na tirinha ao lado. Sobre os assuntos relacionados à tirinha, é correto afirmar que:",
+      principal: "A proteína $p_{53}$ tem papel central no controle da resposta celular a circunstâncias adversas, como sinais hiperproliferativos e dano ao DNA, podendo levar à parada do ciclo celular ou à apoptose. O gene que codifica essa proteína supressora de tumor é mutado em cerca de 50% dos cânceres humanos. Essa situação é retratada na tirinha ao lado. Sobre os assuntos relacionados à tirinha, é correto afirmar que:",
       subItens: []
     },
     options: ["a apoptose é o reparo dos danos presentes no DNA, tornando a célula temporariamente inativa.","a possível consequência da “desobediência” da célula com o DNA danificado retratada na tirinha é a origem de um câncer.","a falta da função da proteína p53 permite que a célula cancerosa sobreviva e se prolifere mesmo quando seu DNA está danificado.","a proteína p53 pode induzir a apoptose em uma célula com danos irreparáveis, tornando-a uma célula cancerígena.","o mecanismo ilustrado no final da tirinha estabelece uma relação alternativa para promover a integridade dos tecidos."],

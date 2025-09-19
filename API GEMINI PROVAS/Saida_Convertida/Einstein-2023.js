@@ -498,7 +498,7 @@ createQuestion({
     university: "Vestibular",
     year: 2023,
     text: {
-      principal: "Um estudante resolveu cobrear um objeto de aço inoxidável por meio da deposição eletrolítica de uma camada de cobre metálico sobre o objeto. Para isso, montou a cuba eletrolítica ilustrada a seguir e a deixou funcionando durante 80 minutos sob corrente elétrica constante de 200 mA.\n\n[IMAGEM: Diagrama de uma célula eletrolítica com uma fonte de corrente contínua, um objeto a cobrear (cátodo) e uma lâmina de cobre (ânodo) submersos em uma solução de CuSO_{4} (aq).]\n\nConsiderando que a constante de Faraday (F) é igual a 96500 $\\\\frac{C}{mol}$, estima-se que a massa de cobre metálico depositada no objeto de aço inoxidável nesse processo foi, aproximadamente,",
+      principal: "Um estudante resolveu cobrear um objeto de aço inoxidável por meio da deposição eletrolítica de uma camada de cobre metálico sobre o objeto. Para isso, montou a cuba eletrolítica ilustrada a seguir e a deixou funcionando durante 80 minutos sob corrente elétrica constante de 200 mA.\n\n[IMAGEM: Diagrama de uma célula eletrolítica com uma fonte de corrente contínua, um objeto a cobrear (cátodo) e uma lâmina de cobre (ânodo) submersos em uma solução de $CuSO_{4}$ (aq).]\n\nConsiderando que a constante de Faraday (F) é igual a 96500 C/mol, estima-se que a massa de cobre metálico depositada no objeto de aço inoxidável nesse processo foi, aproximadamente,",
       subItens: []
     },
     options: ["0,005 g.","0,01 g.","0,5 g.","0,2 g.","0,3 g."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Vestibular",
     year: 2023,
     text: {
-      principal: "Catarina viveu $\\\\frac{1}{5}$ da sua vida na infância, mais $\\\\frac{1}{12}$ na adolescência. Passados mais $\\\\frac{1}{6}$ da sua vida ela se casou e, depois de 6 anos de casada, nasceu seu único filho. Depois da morte de seu filho, Catarina viveu mais 9 anos antes de morrer. Sabendo-se que o filho de Catarina viveu apenas 30% do tempo de vida dela, ele viveu um total de",
+      principal: "Catarina viveu 1/5 da sua vida na infância, mais 1/12 na adolescência. Passados mais 1/6 da sua vida ela se casou e, depois de 6 anos de casada, nasceu seu único filho. Depois da morte de seu filho, Catarina viveu mais 9 anos antes de morrer. Sabendo-se que o filho de Catarina viveu apenas 30% do tempo de vida dela, ele viveu um total de",
       subItens: []
     },
     options: ["9 anos.","12 anos.","15 anos.","21 anos.","18 anos."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Vestibular",
     year: 2023,
     text: {
-      principal: "O número de soluções racionais do tipo $\\\\frac{n}{10}$, sendo n um número natural menor do que 10 e diferente de zero, da inequação (5x – 1)(x + 2) / (1-2x) ≤ 0 é igual a",
+      principal: "O número de soluções racionais do tipo n/10, sendo n um número natural menor do que 10 e diferente de zero, da inequação (5x – 1)(x + 2) / (1-2x) ≤ 0 é igual a",
       subItens: []
     },
     options: ["5.","7.","8.","6.","3."],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular",
     year: 2023,
     text: {
-      principal: "Na prática diária da medicina, a trigonometria pode ser utilizada para determinar, por exemplo, a inclinação que devemos dar a uma agulha com o objetivo de atingir o local desejado. A imagem indica a anatomia ultrassônica da veia jugular interna de um paciente. Nessa imagem, H representa a medida do trajeto retilíneo da agulha que incidirá na pele do paciente, A representa a distância, medida na pele retilínea do paciente, entre o ponto de incisão da agulha e o ponto correspondente à projeção ortogonal do alvo a ser atingido sobre a pele, e B representa uma medida que depende da anatomia de cada paciente.\n\n[IMAGEM: Diagrama mostrando a anatomia ultrassônica de uma veia jugular interna. Uma agulha é inserida na pele, formando um triângulo retângulo. A distância horizontal da ponta de inserção da agulha até a projeção do alvo é A, a profundidade do alvo a partir da pele é B, e o comprimento da agulha inserida é H. O ângulo entre a agulha e a pele é α.]\n\nSeja (A, α) um par ordenado, com A em centímetros e α em radianos. Suponha que a imagem de ultrassom apresentada indique ao médico B = 2 cm e cinco pares (A, α), dados por S_{1}= (2√3, π/3), S_{2}= (3√3, π/6), S_{3}= (2, π/4), S_{4}= (2√$\\\\frac{3}{3}$, π/4), S_{5}= (1, π/4), sendo que apenas um deles garante que o alvo será atingido corretamente. Nessas condições, dentre os cinco pares (A, α), aquele que atingirá corretamente o alvo será",
+      principal: "Na prática diária da medicina, a trigonometria pode ser utilizada para determinar, por exemplo, a inclinação que devemos dar a uma agulha com o objetivo de atingir o local desejado. A imagem indica a anatomia ultrassônica da veia jugular interna de um paciente. Nessa imagem, H representa a medida do trajeto retilíneo da agulha que incidirá na pele do paciente, A representa a distância, medida na pele retilínea do paciente, entre o ponto de incisão da agulha e o ponto correspondente à projeção ortogonal do alvo a ser atingido sobre a pele, e B representa uma medida que depende da anatomia de cada paciente.\n\n[IMAGEM: Diagrama mostrando a anatomia ultrassônica de uma veia jugular interna. Uma agulha é inserida na pele, formando um triângulo retângulo. A distância horizontal da ponta de inserção da agulha até a projeção do alvo é A, a profundidade do alvo a partir da pele é B, e o comprimento da agulha inserida é H. O ângulo entre a agulha e a pele é α.]\n\nSeja (A, α) um par ordenado, com A em centímetros e α em radianos. Suponha que a imagem de ultrassom apresentada indique ao médico B = 2 cm e cinco pares (A, α), dados por $S_{1}$= (2√3, π/3), $S_{2}$= (3√3, π/6), $S_{3}$= (2, π/4), $S_{4}$= (2√3/3, π/4), $S_{5}$= (1, π/4), sendo que apenas um deles garante que o alvo será atingido corretamente. Nessas condições, dentre os cinco pares (A, α), aquele que atingirá corretamente o alvo será",
       subItens: []
     },
     options: ["S3","S2","S4","S1","S5"],

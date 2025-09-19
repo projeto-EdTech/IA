@@ -93,7 +93,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "Para dizerem milho dizem mio\nPara melhor dizem mió\nPara pior $\\\\pi$ó\nPara telha dizem teia\nPara telhado dizem teiado\nE vão fazendo telhados\nO poema acima é \"Vício na fala\", do escritor modernista Oswald de Andrade. Nele, observa-se que Oswald trabalha com a seguinte variação linguística:",
+      principal: "Para dizerem milho dizem mio\nPara melhor dizem mió\nPara pior pió\nPara telha dizem teia\nPara telhado dizem teiado\nE vão fazendo telhados\nO poema acima é \"Vício na fala\", do escritor modernista Oswald de Andrade. Nele, observa-se que Oswald trabalha com a seguinte variação linguística:",
       subItens: []
     },
     options: ["norma padrão","jargão profissional","dialeto paulista","linguajar caipira","gíria de camponeses"],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "A região Amazônica possui uma precipitação média anual de aproximadamente 2.$\\\\frac{300mm}{ano}$, destacando-se três centros de precipitações abundantes. Na região localizada a noroeste (fronteira entre o Brasil, Venezuela e Colômbia), próxima às encostas dos Andes, observa-se o maior total pluviométrico, cerca de 3.500 $\\\\frac{mm}{ano}$. Este elevado valor de precipitação nesta região deve-se principalmente à (ao):",
+      principal: "A região Amazônica possui uma precipitação média anual de aproximadamente 2.300mm/ano, destacando-se três centros de precipitações abundantes. Na região localizada a noroeste (fronteira entre o Brasil, Venezuela e Colômbia), próxima às encostas dos Andes, observa-se o maior total pluviométrico, cerca de 3.500 mm/ano. Este elevado valor de precipitação nesta região deve-se principalmente à (ao):",
       subItens: []
     },
     options: ["evapotranspiração.","deslocamento de sistemas frontais.","circulação de brisa fluvial.","convecção tropical.","efeito orográfico."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "No dia $\\\\frac{26}{11}$/2013, conforme noticiado no Jornal A Crítica (www.acritica.com.br), uma estudante de 17 anos faleceu em Parintins após consumir tucumã que poderia estar contaminada por um produto normalmente conhecido como carbureto (carbeto de cálcio). Posteriormente, o fato da morte foi atribuído, provavelmente, à falta de higiene no manuseio do fruto. O carbureto é um produto químico muito utilizado para acelerar o processo de maturação de frutos. A técnica de amadurecimento consiste em colocar o carbureto umedecido em água em volta dos frutos, cobrindo-os com lona plástica. Na verdade o amadurecimento é provocado pelo produto da reação do carbureto com água, que gera um gás A de odor característico desagradável que é também comumente usado como combustível em maçaricos, uma vez que sua chama é extremamente quente. Para se obter uma concentração deste gás A suficiente para induzir a maturação de frutas é necessário uma quantidade mínima de carbureto de pelo menos 2,66 g. Além do gás A liberado, um segundo produto que permanece em solução aquosa é também formado no processo reacional, cuja presença de um indicador ácido-base como fenolftaleína faz a solução apresentar uma coloração $\\\\frac{rosa}{avermelhada}$. Caso este segundo produto seja submetido a um fluxo de CO_{2} (por exemplo, soprando com canudo plástico não mais do que 5 minutos), há formação de um precipitado branco. Caso o tempo de borbulhamento seja superior a 5 minutos, ocorrerá progressivamente a diminuição do precipitado branco e uma mudança na coloração da solução aquosa de $\\\\frac{rosa}{avermelhada}$ para incolor.\nCom base no texto acima, responda as questões de 35 a 40.\nQual a fórmula química do carbureto?",
+      principal: "No dia 26/11/2013, conforme noticiado no Jornal A Crítica (www.acritica.com.br), uma estudante de 17 anos faleceu em Parintins após consumir tucumã que poderia estar contaminada por um produto normalmente conhecido como carbureto (carbeto de cálcio). Posteriormente, o fato da morte foi atribuído, provavelmente, à falta de higiene no manuseio do fruto. O carbureto é um produto químico muito utilizado para acelerar o processo de maturação de frutos. A técnica de amadurecimento consiste em colocar o carbureto umedecido em água em volta dos frutos, cobrindo-os com lona plástica. Na verdade o amadurecimento é provocado pelo produto da reação do carbureto com água, que gera um gás A de odor característico desagradável que é também comumente usado como combustível em maçaricos, uma vez que sua chama é extremamente quente. Para se obter uma concentração deste gás A suficiente para induzir a maturação de frutas é necessário uma quantidade mínima de carbureto de pelo menos 2,66 g. Além do gás A liberado, um segundo produto que permanece em solução aquosa é também formado no processo reacional, cuja presença de um indicador ácido-base como fenolftaleína faz a solução apresentar uma coloração rosa/avermelhada. Caso este segundo produto seja submetido a um fluxo de $CO_{2}$ (por exemplo, soprando com canudo plástico não mais do que 5 minutos), há formação de um precipitado branco. Caso o tempo de borbulhamento seja superior a 5 minutos, ocorrerá progressivamente a diminuição do precipitado branco e uma mudança na coloração da solução aquosa de rosa/avermelhada para incolor.\nCom base no texto acima, responda as questões de 35 a 40.\nQual a fórmula química do carbureto?",
       subItens: []
     },
     options: ["Ca2C2","CaC2","CCa2","CaC","CaCO2"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "Nas questões em que for necessário o uso da aceleração da gravidade, adote g = $\\\\frac{10m}{s}$².\nQuando necessário utilize:\nsen 30° = cos 60° = $\\\\frac{1}{2}$\nsen 60° = cos 30° = √$\\\\frac{3}{2}$\nsen 45° = cos 45° = √$\\\\frac{2}{2}$\nNo dia 30 de setembro deste ano, uma tempestade que durou aproximadamente 80 minutos atingiu a cidade de Manaus. Com rajadas de vento que atingiram velocidades de até 92 $\\\\frac{km}{h}$, esta tempestade trouxe alagação, medo e destruição. O total de precipitação acumulada foi de 114 milímetros de chuva, superando em 56% a média esperada para o mês de setembro. Sabendo que cada milímetro de precipitação corresponde a 1 litro de água acumulado em um metro quadrado de superfície, podemos afirmar que, em termos de ordem de grandeza, esta tempestade acumulou, para cada quilômetro quadrado de superfície, um volume de água da ordem de:",
+      principal: "Nas questões em que for necessário o uso da aceleração da gravidade, adote g = 10m/s².\nQuando necessário utilize:\n$\\sin$ 30° = cos 60° = 1/2\n$\\sin$ 60° = cos 30° = √3/2\n$\\sin$ 45° = cos 45° = √2/2\nNo dia 30 de setembro deste ano, uma tempestade que durou aproximadamente 80 minutos atingiu a cidade de Manaus. Com rajadas de vento que atingiram velocidades de até 92 km/h, esta tempestade trouxe alagação, medo e destruição. O total de precipitação acumulada foi de 114 milímetros de chuva, superando em 56% a média esperada para o mês de setembro. Sabendo que cada milímetro de precipitação corresponde a 1 litro de água acumulado em um metro quadrado de superfície, podemos afirmar que, em termos de ordem de grandeza, esta tempestade acumulou, para cada quilômetro quadrado de superfície, um volume de água da ordem de:",
       subItens: []
     },
     options: ["105 L","106 L","107 L","108 L","109 L"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "A Ponte Rio Negro, ligando a cidade de Manaus ao município de Iranduba, é a segunda maior ponte fluvial no mundo, superada apenas pela ponte sobre o rio Orinoco, na Venezuela. Inaugurada em 24 de outubro de 2011, é a maior ponte fluvial e estaiada do Brasil, com 3,6 quilômetros de extensão. A travessia do rio Negro por meio da ponte trouxe mais mobilidade aos moradores da capital e do interior. Antes, a travessia do rio Negro era feita com balsa e durava pelo menos 40 minutos, sem contar o tempo de espera na fila. Se a velocidade máxima permitida na ponte é de $\\\\frac{60km}{h}$, e admitindo que um carro atravesse a ponte com a velocidade máxima permitida, o tempo gasto para atravessar os 3,6 quilômetros de extensão é de:",
+      principal: "A Ponte Rio Negro, ligando a cidade de Manaus ao município de Iranduba, é a segunda maior ponte fluvial no mundo, superada apenas pela ponte sobre o rio Orinoco, na Venezuela. Inaugurada em 24 de outubro de 2011, é a maior ponte fluvial e estaiada do Brasil, com 3,6 quilômetros de extensão. A travessia do rio Negro por meio da ponte trouxe mais mobilidade aos moradores da capital e do interior. Antes, a travessia do rio Negro era feita com balsa e durava pelo menos 40 minutos, sem contar o tempo de espera na fila. Se a velocidade máxima permitida na ponte é de 60km/h, e admitindo que um carro atravesse a ponte com a velocidade máxima permitida, o tempo gasto para atravessar os 3,6 quilômetros de extensão é de:",
       subItens: []
     },
     options: ["3,6 minutos","4,6 minutos","5,0 minutos","5,6 minutos","6,0 minutos"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "Uma bola de futebol com 450g de massa, inicialmente em repouso, é chutada obliquamente para cima com velocidade inicial de $\\\\frac{20m}{s}$. A bola atinge altura máxima de 10m e atinge uma parede vertical 25 após o chute. Desprezando a resistência do ar, podemos afirmar que a distância do ponto de lançamento da bola até a parede é aproximadamente igual a:",
+      principal: "Uma bola de futebol com 450g de massa, inicialmente em repouso, é chutada obliquamente para cima com velocidade inicial de 20m/s. A bola atinge altura máxima de 10m e atinge uma parede vertical 25 após o chute. Desprezando a resistência do ar, podemos afirmar que a distância do ponto de lançamento da bola até a parede é aproximadamente igual a:",
       subItens: []
     },
     options: ["40 m","28 m","20 m","10m","14 m"],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "Querendo determinar a densidade de um líquido desconhecido e possuindo apenas um dinamômetro (ou balança de mola), certo estudante realizou o seguinte experimento: colocou o objeto no dinamômetro e a leitura foi de 20 N com o objeto suspenso no ar, 10 N quando totalmente imerso na água e 13 N quando totalmente imerso no líquido de densidade desconhecida. Consultando seu livro de Física, anotou o valor da densidade da água que vale 1,$\\\\frac{0g}{cm}$³. Fez os cálculos e encontrou para a densidade do líquido desconhecido o valor de:",
+      principal: "Querendo determinar a densidade de um líquido desconhecido e possuindo apenas um dinamômetro (ou balança de mola), certo estudante realizou o seguinte experimento: colocou o objeto no dinamômetro e a leitura foi de 20 N com o objeto suspenso no ar, 10 N quando totalmente imerso na água e 13 N quando totalmente imerso no líquido de densidade desconhecida. Consultando seu livro de Física, anotou o valor da densidade da água que vale 1,0g/cm³. Fez os cálculos e encontrou para a densidade do líquido desconhecido o valor de:",
       subItens: []
     },
     options: ["1,3 g/cm³","0,9 g/cm³","0,8g/cm³","0,7 g/cm³","0,6g/cm³"],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "A Lei Municipal N° 1752 de $\\\\frac{31}{07}$/2013 conhecida como a lei do estacionamento, estabelece em seu Art. 1º o seguinte:\nFica assegurada aos consumidores usuários de estacionamento particulares de veículos localizados no âmbito do Município de Manaus, a cobrança proporcional ao tempo de serviço efetivamente prestado para a guarda do veículo, devendo a proporcionalidade ser calculada de acordo com a fração de hora utilizada, sem prejuízo dos demais direitos em face aos prestadores do serviço.\nParágrafo único. Aplica-se a cobrança proporcional ao tempo de guarda do veículo a todo e qualquer estacionamento particular no Município de Manaus, inclusive os de centros comerciais, shopping centers, supermercados e similares.\nUma pessoa deixou seu carro às 7:00h e o retirou às 18:35h em um estabelecimento que cobra R$ 1,50 por cada 15 minutos de permanência no estacionamento. Essa pessoa pagou por esse período a quantia de:",
+      principal: "A Lei Municipal N° 1752 de 31/07/2013 conhecida como a lei do estacionamento, estabelece em seu Art. 1º o seguinte:\nFica assegurada aos consumidores usuários de estacionamento particulares de veículos localizados no âmbito do Município de Manaus, a cobrança proporcional ao tempo de serviço efetivamente prestado para a guarda do veículo, devendo a proporcionalidade ser calculada de acordo com a fração de hora utilizada, sem prejuízo dos demais direitos em face aos prestadores do serviço.\nParágrafo único. Aplica-se a cobrança proporcional ao tempo de guarda do veículo a todo e qualquer estacionamento particular no Município de Manaus, inclusive os de centros comerciais, shopping centers, supermercados e similares.\nUma pessoa deixou seu carro às 7:00h e o retirou às 18:35h em um estabelecimento que cobra R$ 1,50 por cada 15 minutos de permanência no estacionamento. Essa pessoa pagou por esse período a quantia de:",
       subItens: []
     },
     options: ["R$ 16,50","R$ 67,50","R$ 69,00","R$ 70,50","R$ 72,00"],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2015,
     text: {
-      principal: "Num triângulo ABC, o ângulo A é reto. A altura h relativa ao lado BC divide a hipotenusa em dois segmentos m e n (m > n). Sabendo que o cateto b é o triplo do cateto c, então podemos afirmar que $\\\\frac{m}{n}$ é:",
+      principal: "Num triângulo ABC, o ângulo A é reto. A altura h relativa ao lado BC divide a hipotenusa em dois segmentos m e n (m > n). Sabendo que o cateto b é o triplo do cateto c, então podemos afirmar que m/n é:",
       subItens: []
     },
     options: ["1/2","1/3","9","3","9"],

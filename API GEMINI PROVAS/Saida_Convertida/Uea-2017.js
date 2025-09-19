@@ -558,7 +558,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2017,
     text: {
-      principal: "Um caminhão percorre determinado trecho de uma estrada em 54 minutos a uma velocidade de 40 $\\\\frac{km}{h}$. Um carro de passeio percorre esse mesmo trecho na velocidade máxima permitida, que é de 60 $\\\\frac{km}{h}$. A diferença, em minutos, entre o tempo do caminhão e o do carro de passeio para percorrer esse trecho é",
+      principal: "Um caminhão percorre determinado trecho de uma estrada em 54 minutos a uma velocidade de 40 km/h. Um carro de passeio percorre esse mesmo trecho na velocidade máxima permitida, que é de 60 km/h. A diferença, em minutos, entre o tempo do caminhão e o do carro de passeio para percorrer esse trecho é",
       subItens: []
     },
     options: ["14.","16.","18.","20.","22."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2017,
     text: {
-      principal: "Na ordem apresentada, os números a seguir formam uma progressão aritmética.\n\n[IMAGEM:$$14 \\\\rightarrow 10$$-> ?]\n\nDeste modo, o próximo número dessa progressão será",
+      principal: "Na ordem apresentada, os números a seguir formam uma progressão aritmética.\n\n[IMAGEM: 14 -> 10 -> ?]\n\nDeste modo, o próximo número dessa progressão será",
       subItens: []
     },
     options: ["1.","2.","4.","6.","8."],
@@ -693,7 +693,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2017,
     text: {
-      principal: "A figura mostra a vista superior de um barco tracionado por duas forças de módulo F, que formam entre si um ângulo de 120°, se deslocando sobre as águas de um lago, cuja superfície é um plano horizontal.\n\n[IMAGEM: Diagrama de forças F e F com ângulo de 120 graus]\n\n(http://blocoautocad.com)\n\nConsidere os dados apresentados na tabela.\n\n[TABELA: $\\\\frac{seno}{cosseno}$ de 30 e 60 graus]\n\nSabendo que o barco se move em linha reta com velocidade constante e desprezando a resistência do ar, a força de resistência da água aplicada no barco é igual a",
+      principal: "A figura mostra a vista superior de um barco tracionado por duas forças de módulo F, que formam entre si um ângulo de 120°, se deslocando sobre as águas de um lago, cuja superfície é um plano horizontal.\n\n[IMAGEM: Diagrama de forças F e F com ângulo de 120 graus]\n\n(http://blocoautocad.com)\n\nConsidere os dados apresentados na tabela.\n\n[TABELA: seno/cosseno de 30 e 60 graus]\n\nSabendo que o barco se move em linha reta com velocidade constante e desprezando a resistência do ar, a força de resistência da água aplicada no barco é igual a",
       subItens: []
     },
     options: ["F","√2F","√3F","2F","3F"],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2017,
     text: {
-      principal: "Uma partícula descreve um movimento circular uniforme sobre uma trajetória circular de raio 2 metros. Sabendo que o módulo de sua velocidade constante é 2 $\\\\frac{m}{s}$, e considerando π = 3,14, o número de voltas completas realizadas pela partícula durante um minuto é",
+      principal: "Uma partícula descreve um movimento circular uniforme sobre uma trajetória circular de raio 2 metros. Sabendo que o módulo de sua velocidade constante é 2 m/s, e considerando π = 3,14, o número de voltas completas realizadas pela partícula durante um minuto é",
       subItens: []
     },
     options: ["5.","7.","8.","9.","11."],

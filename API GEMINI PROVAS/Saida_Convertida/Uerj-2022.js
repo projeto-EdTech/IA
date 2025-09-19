@@ -48,7 +48,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "Se toda estrela cadente / Cai pra fazer sentido (2ª estrofe) As chamadas estrelas cadentes nada mais são que meteoros. Esses pedaços de rocha são atraídos pelo campo gravitacional da Terra e incandescem no atrito com a atmosfera. Admita que um meteoro, ao penetrar na atmosfera terrestre, tenha, em determinado instante, massa de 10 kg e velocidade de 252000 $\\\\frac{km}{h}$. Nessas condições, a quantidade de movimento do meteoro, em kg.$\\\\frac{m}{s}$, é igual a:",
+      principal: "Se toda estrela cadente / Cai pra fazer sentido (2ª estrofe) As chamadas estrelas cadentes nada mais são que meteoros. Esses pedaços de rocha são atraídos pelo campo gravitacional da Terra e incandescem no atrito com a atmosfera. Admita que um meteoro, ao penetrar na atmosfera terrestre, tenha, em determinado instante, massa de 10 kg e velocidade de 252000 km/h. Nessas condições, a quantidade de movimento do meteoro, em kg.m/s, é igual a:",
       subItens: []
     },
     options: ["560000","680000","700000","820000"],
@@ -78,7 +78,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "A imagem a seguir reproduz um grafite visto em um muro em Portugal. [IMAGEM: Grafite com a frase 'MUDOS OS TEMPOS MUDAS AS VONTADES'. Fonte: triplov.com, $\\\\frac{agosto}{2012}$.] O grafite estabelece intertextualidade com o soneto I, que trata da mudança como fonte de desassossego para o poeta quinhentista. Reelaborada na contemporaneidade, a mudança retratada no grafite pode ser associada ao seguinte tema, presente nos sonetos de Camões:",
+      principal: "A imagem a seguir reproduz um grafite visto em um muro em Portugal. [IMAGEM: Grafite com a frase 'MUDOS OS TEMPOS MUDAS AS VONTADES'. Fonte: triplov.com, agosto/2012.] O grafite estabelece intertextualidade com o soneto I, que trata da mudança como fonte de desassossego para o poeta quinhentista. Reelaborada na contemporaneidade, a mudança retratada no grafite pode ser associada ao seguinte tema, presente nos sonetos de Camões:",
       subItens: []
     },
     options: ["imprecisão do conhecimento","necessidade da experiência","ambiguidade do amor","desconcerto do mundo"],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "A Wiphala é uma bandeira com sete cores, símbolo não só dos povos originários da região da Cordilheira dos Andes, como também de sua filosofia. A simetria observada na bandeira representa a igualdade dentro do sistema comunitário andino. [IMAGEM: Bandeira Wiphala. Adaptado de jornalistaslivres.org, $\\\\frac{23}{11}$/2019.] Considere uma bandeira retangular, com 272 cm de altura e 416 cm de largura, que também foi confeccionada com pequenos quadrados congruentes, de modo que não ocorre sobreposição ou espaço entre eles. O número inteiro que representa a medida do maior lado que esses pequenos quadrados podem ter, em centímetros, é:",
+      principal: "A Wiphala é uma bandeira com sete cores, símbolo não só dos povos originários da região da Cordilheira dos Andes, como também de sua filosofia. A simetria observada na bandeira representa a igualdade dentro do sistema comunitário andino. [IMAGEM: Bandeira Wiphala. Adaptado de jornalistaslivres.org, 23/11/2019.] Considere uma bandeira retangular, com 272 cm de altura e 416 cm de largura, que também foi confeccionada com pequenos quadrados congruentes, de modo que não ocorre sobreposição ou espaço entre eles. O número inteiro que representa a medida do maior lado que esses pequenos quadrados podem ter, em centímetros, é:",
       subItens: []
     },
     options: ["12","14","16","18"],
@@ -288,7 +288,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "Um teste de material foi realizado com placas de vidro homogêneo. Considere I_{0} a intensidade de luz que incide no vidro e I a quantidade de luz que o atravessa. Observe a equação que relaciona I e I, a partir da constante e, sendo x a espessura do vidro, em milímetros, e k a constante do material com que foi fabricado: [EQUAÇÃO: $\\\\frac{I}{I_{0}}$ = e^(-kx)] Considere a tabela a seguir, que apresenta valores aproximados para e^(-w): [TABELA: w | 0,20 | 0,21 | 0,22 | 0,23 | 0,24 ; e^(-w) | 0,819 | 0,811 | 0,802 | 0,794 | 0,787] Para k = 0,046 e x = 5 mm, a porcentagem da intensidade da luz incidente que atravessa o vidro é:",
+      principal: "Um teste de material foi realizado com placas de vidro homogêneo. Considere $I_{0}$ a intensidade de luz que incide no vidro e I a quantidade de luz que o atravessa. Observe a equação que relaciona I e I, a partir da constante e, sendo x a espessura do vidro, em milímetros, e k a constante do material com que foi fabricado: [EQUAÇÃO: I/$I_{0}$ = e^(-kx)] Considere a tabela a seguir, que apresenta valores aproximados para e^(-w): [TABELA: w | 0,20 | 0,21 | 0,22 | 0,23 | 0,24 ; e^(-w) | 0,819 | 0,811 | 0,802 | 0,794 | 0,787] Para k = 0,046 e x = 5 mm, a porcentagem da intensidade da luz incidente que atravessa o vidro é:",
       subItens: []
     },
     options: ["78,7%","79,4%","80,2%","81,1%"],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "Admita que uma pessoa na posição P avista o ponto A mais alto de um morro sob um ângulo de 40°. Ao caminhar 100 m sobre a reta horizontal PB, até a posição Q, ela avista o mesmo ponto sob o ângulo de 50°. O esquema a seguir representa essa situação, sendo AB a altura do morro em relação à reta horizontal PB. [DIAGRAMA: Morro com ponto A no topo, B na base. Pontos P e Q na horizontal. Ponto A visto de P com 40°, de Q com 50°. Distância PQ = 100 m.] Considere os seguintes valores das razões trigonométricas: [TABELA: α | sen α | cos α | tg α ; 40° | 0,64 | 0,77 | 0,84 ; 50° | 0,77 | 0,64 | 1,19] A altura AB, em metros, é igual a:",
+      principal: "Admita que uma pessoa na posição P avista o ponto A mais alto de um morro sob um ângulo de 40°. Ao caminhar 100 m sobre a reta horizontal PB, até a posição Q, ela avista o mesmo ponto sob o ângulo de 50°. O esquema a seguir representa essa situação, sendo AB a altura do morro em relação à reta horizontal PB. [DIAGRAMA: Morro com ponto A no topo, B na base. Pontos P e Q na horizontal. Ponto A visto de P com 40°, de Q com 50°. Distância PQ = 100 m.] Considere os seguintes valores das razões trigonométricas: [TABELA: α | $\\sin$ α | cos α | tg α ; 40° | 0,64 | 0,77 | 0,84 ; 50° | 0,77 | 0,64 | 1,19] A altura AB, em metros, é igual a:",
       subItens: []
     },
     options: ["212,0","224,6","232,0","285,6"],
@@ -363,7 +363,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "A imagem a seguir apresenta cinco linhas horizontais de pregos em uma disposição triangular sobre uma superfície plana, inclinada em relação ao plano horizontal. Ao soltar uma bolinha, ela rola e choca-se com o prego da primeira linha, na posição I. Em seguida, ela continua a rolar, chocando-se com apenas um prego de cada linha subsequente e, dependendo de sua trajetória, poderá cair no recipiente, na posição II. [IMAGEM: Esquema de uma máquina de Galton. Pregos dispostos em triângulo e uma bolinha seguindo uma trajetória até um recipiente.] Sabe-se que a probabilidade de a bolinha se chocar ou com o prego localizado imediatamente à direita ou com o imediatamente à esquerda é igual a $\\\\frac{1}{2}$. Uma possível trajetória da bolinha até o recipiente está representada no esquema a seguir. A probabilidade de a bolinha cair no recipiente é igual a:",
+      principal: "A imagem a seguir apresenta cinco linhas horizontais de pregos em uma disposição triangular sobre uma superfície plana, inclinada em relação ao plano horizontal. Ao soltar uma bolinha, ela rola e choca-se com o prego da primeira linha, na posição I. Em seguida, ela continua a rolar, chocando-se com apenas um prego de cada linha subsequente e, dependendo de sua trajetória, poderá cair no recipiente, na posição II. [IMAGEM: Esquema de uma máquina de Galton. Pregos dispostos em triângulo e uma bolinha seguindo uma trajetória até um recipiente.] Sabe-se que a probabilidade de a bolinha se chocar ou com o prego localizado imediatamente à direita ou com o imediatamente à esquerda é igual a 1/2. Uma possível trajetória da bolinha até o recipiente está representada no esquema a seguir. A probabilidade de a bolinha cair no recipiente é igual a:",
       subItens: []
     },
     options: ["1/4","3/8","5/16","7/12"],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "Após o processo de usinagem, uma peça de alumínio com massa de 500 g atinge a temperatura de 80 °C. Para ser manuseada, essa peça é imediatamente imersa em um recipiente que contém 1000 g de água a 22,2 °C. Sabe-se que o calor específico da água é igual a 1,00 $\\\\frac{cal}{g}$ °C e o do alumínio, a 0,22 $\\\\frac{cal}{g}$ °C. Admita que só ocorra troca de calor entre a peça e a água. Nessas condições, a temperatura de equilíbrio térmico, em °C, é aproximadamente igual a:",
+      principal: "Após o processo de usinagem, uma peça de alumínio com massa de 500 g atinge a temperatura de 80 °C. Para ser manuseada, essa peça é imediatamente imersa em um recipiente que contém 1000 g de água a 22,2 °C. Sabe-se que o calor específico da água é igual a 1,00 cal/g °C e o do alumínio, a 0,22 cal/g °C. Admita que só ocorra troca de calor entre a peça e a água. Nessas condições, a temperatura de equilíbrio térmico, em °C, é aproximadamente igual a:",
       subItens: []
     },
     options: ["25","28","31","34"],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "Em uma feira de ciências escolar, foi confeccionado um projetor com peças de baixo custo. Observe o esquema, que ilustra a lente do projetor e um anteparo, sobre o qual é projetada a imagem de um objeto. [DIAGRAMA: Esquema de uma lente convergente, um objeto (P), a imagem (P') e suas distâncias relativas à lente e ao anteparo.] Sabe-se que a distância P do objeto à lente é de 11 cm e a distância P' entre a imagem e a lente é de $\\\\frac{66}{5}$ cm. Com base nas informações, a distância focal da lente, em centímetros, é igual a:",
+      principal: "Em uma feira de ciências escolar, foi confeccionado um projetor com peças de baixo custo. Observe o esquema, que ilustra a lente do projetor e um anteparo, sobre o qual é projetada a imagem de um objeto. [DIAGRAMA: Esquema de uma lente convergente, um objeto (P), a imagem (P') e suas distâncias relativas à lente e ao anteparo.] Sabe-se que a distância P do objeto à lente é de 11 cm e a distância P' entre a imagem e a lente é de 66/5 cm. Com base nas informações, a distância focal da lente, em centímetros, é igual a:",
       subItens: []
     },
     options: ["6","8","10","12"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "Para uma experiência de misturas, há três líquidos disponíveis em um laboratório: X, Y e Z. Em dois recipientes transparentes, foram adicionados volumes iguais de dois desses líquidos, à temperatura ambiente. Observe a tabela: [TABELA: Líquido | Substância | Densidade ($\\\\frac{g}{cm}$³) ; X | água | 1,00 ; Y | benzeno | 0,87 ; Z | tetraclorometano | 1,59] Tendo em vista as propriedades dos líquidos, as misturas heterogêneas possíveis são as representadas em:",
+      principal: "Para uma experiência de misturas, há três líquidos disponíveis em um laboratório: X, Y e Z. Em dois recipientes transparentes, foram adicionados volumes iguais de dois desses líquidos, à temperatura ambiente. Observe a tabela: [TABELA: Líquido | Substância | Densidade (g/cm³) ; X | água | 1,00 ; Y | benzeno | 0,87 ; Z | tetraclorometano | 1,59] Tendo em vista as propriedades dos líquidos, as misturas heterogêneas possíveis são as representadas em:",
       subItens: []
     },
     options: ["[DIAGRAMA: Duas camadas de líquido, Y em cima e Z embaixo.]","[DIAGRAMA: Duas camadas de líquido, X em cima e Z embaixo.]","[DIAGRAMA: Duas camadas de líquido, Y em cima e X embaixo.]","[DIAGRAMA: Uma camada de líquido com bolhas do outro líquido.]"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "Em testes de perfuração realizados em plataformas de petróleo, pode ser utilizado o brometo de cálcio. Considere um teste para o qual foi preparada uma solução aquosa desse sal na concentração de 3000 $\\\\frac{g}{L}$. Admitindo a completa dissociação do sal, a concentração de íons brometo, em $\\\\frac{mol}{L}$, nessa solução, é igual a: (Massas Molares: Ca = 40 $\\\\frac{g}{mol}$, Br = 80 $\\\\frac{g}{mol}$)",
+      principal: "Em testes de perfuração realizados em plataformas de petróleo, pode ser utilizado o brometo de cálcio. Considere um teste para o qual foi preparada uma solução aquosa desse sal na concentração de 3000 g/L. Admitindo a completa dissociação do sal, a concentração de íons brometo, em mol/L, nessa solução, é igual a: (Massas Molares: Ca = 40 g/mol, Br = 80 g/mol)",
       subItens: []
     },
     options: ["15","30","45","60"],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "O ácido acetilsalicílico é um medicamento usado no combate à febre e à dor. No organismo, ele é hidrolisado, formando o ácido salicílico e um composto X, conforme representado na equação química abaixo. [EQUAÇÃO: Estrutura do ácido acetilsalicílico + H_{2}O $\\\\le$> Estrutura do ácido salicílico + Estrutura do composto X.] O composto X, formado nessa reação, é denominado:",
+      principal: "O ácido acetilsalicílico é um medicamento usado no combate à febre e à dor. No organismo, ele é hidrolisado, formando o ácido salicílico e um composto X, conforme representado na equação química abaixo. [EQUAÇÃO: Estrutura do ácido acetilsalicílico + H2O <=> Estrutura do ácido salicílico + Estrutura do composto X.] O composto X, formado nessa reação, é denominado:",
       subItens: []
     },
     options: ["etanoato de etila","ácido etanoico","etoxietano","etanol"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "Para o tratamento de um resíduo industrial, que corresponde a uma solução aquosa com alta acidez, é utilizado hidróxido de sódio sólido para a elevação do pH. Considere o volume de 10 m³ desse resíduo com concentração de íons H⁺ de 0,1 $\\\\frac{mol}{L}$. Desprezando-se a variação de volume, para que essa solução residual alcance pH = 2,0, a massa de hidróxido de sódio, em quilogramas, a ser adicionada é igual a: (Massas Molares: Na=23 $\\\\frac{g}{mol}$, O=16 $\\\\frac{g}{mol}$, H=1 $\\\\frac{g}{mol}$)",
+      principal: "Para o tratamento de um resíduo industrial, que corresponde a uma solução aquosa com alta acidez, é utilizado hidróxido de sódio sólido para a elevação do pH. Considere o volume de 10 m³ desse resíduo com concentração de íons H⁺ de 0,1 mol/L. Desprezando-se a variação de volume, para que essa solução residual alcance pH = 2,0, a massa de hidróxido de sódio, em quilogramas, a ser adicionada é igual a: (Massas Molares: Na=23 g/mol, O=16 g/mol, H=1 g/mol)",
       subItens: []
     },
     options: ["28","32","36","40"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "Em 2019, a pecuária brasileira apresentou produtividade média de 1,2 $\\\\frac{animais}{ha}$. Contudo, no país, já são encontradas áreas de criação bovina que possuem produtividade superior a 8 $\\\\frac{animais}{ha}$, utilizando meios mais sustentáveis como os sistemas integrados. Adaptado de pp.nexojornal.com.br, $\\\\frac{04}{07}$/2021. A reduzida produtividade média da pecuária nacional é explicada pela associação dessa atividade econômica com o seguinte processo:",
+      principal: "Em 2019, a pecuária brasileira apresentou produtividade média de 1,2 animais/ha. Contudo, no país, já são encontradas áreas de criação bovina que possuem produtividade superior a 8 animais/ha, utilizando meios mais sustentáveis como os sistemas integrados. Adaptado de pp.nexojornal.com.br, 04/07/2021. A reduzida produtividade média da pecuária nacional é explicada pela associação dessa atividade econômica com o seguinte processo:",
       subItens: []
     },
     options: ["grilagem de terras públicas","implantação de cooperativas rurais","expropriação de latifúndios ociosos","povoamento de espaços quilombolas"],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "O dia 6 de janeiro de 2021 entrou para a história. O Congresso dos Estados Unidos, a maior democracia do mundo, foi invadido. Manifestantes forçaram a passagem até que os policiais do Capitólio não deram conta de segurar a multidão. Nos corredores, o confronto acontecia. A polícia usou bombas de gás lacrimogêneo; houve luta corporal. Do lado de fora, a escadaria também foi tomada por apoiadores de Donald Trump, com bandeiras dos Estados Unidos e de apoio ao presidente derrotado nas eleições. Horas depois de o Capitólio ser invadido, Trump divulgou um vídeo repetindo que as eleições foram roubadas e pediu para que seus eleitores deixassem o prédio. Milhares de pessoas marcharam pela capital americana entoando frases que o presidente tem repetido, sem apresentar provas: “Parem com o roubo! A eleição foi roubada”. NÚRIA SALDANHA Adaptado de cnnbrasil.com.br, $\\\\frac{07}{01}$/2021. O episódio descrito na reportagem causou perplexidade mundial, por ter acontecido em uma das mais antigas democracias do mundo. Ao longo das últimas décadas na sociedade estadunidense, ocorreu a seguinte transformação fundamental para a compreensão desse episódio:",
+      principal: "O dia 6 de janeiro de 2021 entrou para a história. O Congresso dos Estados Unidos, a maior democracia do mundo, foi invadido. Manifestantes forçaram a passagem até que os policiais do Capitólio não deram conta de segurar a multidão. Nos corredores, o confronto acontecia. A polícia usou bombas de gás lacrimogêneo; houve luta corporal. Do lado de fora, a escadaria também foi tomada por apoiadores de Donald Trump, com bandeiras dos Estados Unidos e de apoio ao presidente derrotado nas eleições. Horas depois de o Capitólio ser invadido, Trump divulgou um vídeo repetindo que as eleições foram roubadas e pediu para que seus eleitores deixassem o prédio. Milhares de pessoas marcharam pela capital americana entoando frases que o presidente tem repetido, sem apresentar provas: “Parem com o roubo! A eleição foi roubada”. NÚRIA SALDANHA Adaptado de cnnbrasil.com.br, 07/01/2021. O episódio descrito na reportagem causou perplexidade mundial, por ter acontecido em uma das mais antigas democracias do mundo. Ao longo das últimas décadas na sociedade estadunidense, ocorreu a seguinte transformação fundamental para a compreensão desse episódio:",
       subItens: []
     },
     options: ["crescimento da polarização política","esgotamento do regime republicano","enfraquecimento do poder judiciário","incremento da fragmentação partidária"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "ETNIAS NO AFEGANISTÃO [MAPA DO AFEGANISTÃO: Mapa mostrando a distribuição de diferentes grupos étnicos por cores (Pashtun, Hazara, Tadjique, Uzbeque, Baluchi, Outros). Adaptado de nybooks.com, $\\\\frac{07}{10}$/2010.] Aqui está um mapa do Afeganistão. A primeira pergunta que ele suscita é: por que o Afeganistão existe? O país contém cerca de uma dúzia de grupos étnicos, cuja distribuição é mostrada aqui de forma simplificada. Devem-se ter em mente também as divisões tribais afegas, que se subdividem em numerosos clãs e grupos familiares menores. CHRISTOPHER BELLAIGUE Adaptado de nybooks.com, $\\\\frac{07}{10}$/2010. A partir do mapa e do texto, depreende-se a dificuldade de construção de uma identidade nacional em contextos socioespaciais como o afegão. Entretanto, há um país asiático, com diversidade semelhante, que logrou preservar sua unidade territorial e seu regime democrático desde sua independência. Esse país asiático é:",
+      principal: "ETNIAS NO AFEGANISTÃO [MAPA DO AFEGANISTÃO: Mapa mostrando a distribuição de diferentes grupos étnicos por cores (Pashtun, Hazara, Tadjique, Uzbeque, Baluchi, Outros). Adaptado de nybooks.com, 07/10/2010.] Aqui está um mapa do Afeganistão. A primeira pergunta que ele suscita é: por que o Afeganistão existe? O país contém cerca de uma dúzia de grupos étnicos, cuja distribuição é mostrada aqui de forma simplificada. Devem-se ter em mente também as divisões tribais afegas, que se subdividem em numerosos clãs e grupos familiares menores. CHRISTOPHER BELLAIGUE Adaptado de nybooks.com, 07/10/2010. A partir do mapa e do texto, depreende-se a dificuldade de construção de uma identidade nacional em contextos socioespaciais como o afegão. Entretanto, há um país asiático, com diversidade semelhante, que logrou preservar sua unidade territorial e seu regime democrático desde sua independência. Esse país asiático é:",
       subItens: []
     },
     options: ["Irã","Índia","China","Vietnã"],
@@ -813,7 +813,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "[IMAGEM: Foto do povo indígena Krenak expulso da terra e confinado em fazenda (Foto de 1987).] A 14ª Vara Federal de Minas Gerais condenou a União, a Fundação Nacional do Índio (Funai) e o governo do estado por violações dos direitos humanos e civis do povo indígena Krenak, que vive na região do Vale do Rio Doce. Em 1972, durante a ditadura militar, homens, mulheres e crianças foram expulsos de suas terras pelo governo e obrigados a viver confinados na Fazenda Guarani, pertencente à Polícia Militar, em Carmésia, a mais de 300 quilômetros de distância de suas terras. A medida teve o objetivo de facilitar a ação de posseiros vizinhos, que tomaram os mais de 4 mil hectares dos indígenas. Adaptado de g_{1}.globo.com, $\\\\frac{15}{09}$/2021. A ação do governo brasileiro à época revela a seguinte postura diante de conflitos rurais:",
+      principal: "[IMAGEM: Foto do povo indígena Krenak expulso da terra e confinado em fazenda (Foto de 1987).] A 14ª Vara Federal de Minas Gerais condenou a União, a Fundação Nacional do Índio (Funai) e o governo do estado por violações dos direitos humanos e civis do povo indígena Krenak, que vive na região do Vale do Rio Doce. Em 1972, durante a ditadura militar, homens, mulheres e crianças foram expulsos de suas terras pelo governo e obrigados a viver confinados na Fazenda Guarani, pertencente à Polícia Militar, em Carmésia, a mais de 300 quilômetros de distância de suas terras. A medida teve o objetivo de facilitar a ação de posseiros vizinhos, que tomaram os mais de 4 mil hectares dos indígenas. Adaptado de $g_{1}$.globo.com, 15/09/2021. A ação do governo brasileiro à época revela a seguinte postura diante de conflitos rurais:",
       subItens: []
     },
     options: ["contenção violenta da reforma agrária","redistribuição autoritária da propriedade fundiária","expropriação arbitrária da comunidade tradicional","modernização conservadora da estrutura produtiva"],
@@ -843,7 +843,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "PLEBISCITO NO CHILE [IMAGEM: Charge de Laerte, fotografia.folha.uol.com.br, $\\\\frac{27}{10}$/2020. Duas lixeiras. Uma intitulada 'PLEBISCITO NO CHILE' com papéis amassados com 'CONSTITUIÇÃO DITADURA', 'PINOCHET', 'NEOLIBERALISMO'. Outra lixeira rotulada 'RECICLÁVEL' com um papel dizendo 'NOVA CONSTITUIÇÃO'.] Na charge de Laerte, o resultado do plebiscito, realizado no Chile em outubro de 2020, é relacionado a ideias que seriam aproveitadas pelo governo federal brasileiro. Uma ideia rejeitada pelos chilenos que inspira medidas no Brasil é a:",
+      principal: "PLEBISCITO NO CHILE [IMAGEM: Charge de Laerte, fotografia.folha.uol.com.br, 27/10/2020. Duas lixeiras. Uma intitulada 'PLEBISCITO NO CHILE' com papéis amassados com 'CONSTITUIÇÃO DITADURA', 'PINOCHET', 'NEOLIBERALISMO'. Outra lixeira rotulada 'RECICLÁVEL' com um papel dizendo 'NOVA CONSTITUIÇÃO'.] Na charge de Laerte, o resultado do plebiscito, realizado no Chile em outubro de 2020, é relacionado a ideias que seriam aproveitadas pelo governo federal brasileiro. Uma ideia rejeitada pelos chilenos que inspira medidas no Brasil é a:",
       subItens: []
     },
     options: ["proteção de leis trabalhistas","exaltação de heranças autoritárias","ampliação de investimentos educacionais","intensificação de despesas previdenciárias"],
@@ -873,7 +873,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2022,
     text: {
-      principal: "[IMAGEM 1: Foto 'Obras da rodovia Acre-Brasília, $\\\\frac{julho}{1960}$'. Fonte: exposicoesvirtuais.an.gov.br. Mostra trabalhadores e uma placa 'BRASILIA VILHENA 2.101 Kms.'] [IMAGEM 2: Foto 'Juscelino Kubitschek em palestra no Clube Militar no Rio de Janeiro, $\\\\frac{21}{07}$/1959'. Fonte: cpdoc.fgv.br. Mostra JK com um mapa 'PRINCIPAIS ESTRADAS DA META RODOVIÁRIA' ao fundo.] O governo de Juscelino Kubitschek (1956-1961) celebrizou-se pela aplicação do Plano de Metas, que incluía a construção de rodovias federais. A partir da observação das fotos, um dos principais desafios associados à plena realização da meta rodoviária foi:",
+      principal: "[IMAGEM 1: Foto 'Obras da rodovia Acre-Brasília, julho/1960'. Fonte: exposicoesvirtuais.an.gov.br. Mostra trabalhadores e uma placa 'BRASILIA VILHENA 2.101 Kms.'] [IMAGEM 2: Foto 'Juscelino Kubitschek em palestra no Clube Militar no Rio de Janeiro, 21/07/1959'. Fonte: cpdoc.fgv.br. Mostra JK com um mapa 'PRINCIPAIS ESTRADAS DA META RODOVIÁRIA' ao fundo.] O governo de Juscelino Kubitschek (1956-1961) celebrizou-se pela aplicação do Plano de Metas, que incluía a construção de rodovias federais. A partir da observação das fotos, um dos principais desafios associados à plena realização da meta rodoviária foi:",
       subItens: []
     },
     options: ["integrar áreas distantes","povoar zonas fronteiriças","contratar profissionais locais","garantir investimentos estrangeiros"],

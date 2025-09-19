@@ -318,7 +318,7 @@ createQuestion({
     university: "Vestibular",
     year: 2025,
     text: {
-      principal: "\"Globalmente, o solo armazena mais carbono que as quantidades somadas da atmosfera, da vegetação e dos seres vivos, incluindo nós, humanos. Entre 70% e 80% des-se carbono está armazenado na superfície do solo, nos pri-meiros 50 centímetros. Assim, quaisquer alterações nessa superfície impactam negativamente o armazenamento des-se reservatório\", comenta o engenheiro agrônomo Marcos Siqueira-Neto, doutor e especialista em projetos de carbono na agropecuária.\n(https://g_{1}.globo.com, 22.04.2024. Adaptado.)\n\nConquistado com a preservação dos solos, o sequestro de carbono possibilita",
+      principal: "\"Globalmente, o solo armazena mais carbono que as quantidades somadas da atmosfera, da vegetação e dos seres vivos, incluindo nós, humanos. Entre 70% e 80% des-se carbono está armazenado na superfície do solo, nos pri-meiros 50 centímetros. Assim, quaisquer alterações nessa superfície impactam negativamente o armazenamento des-se reservatório\", comenta o engenheiro agrônomo Marcos Siqueira-Neto, doutor e especialista em projetos de carbono na agropecuária.\n(https://$g_{1}$.globo.com, 22.04.2024. Adaptado.)\n\nConquistado com a preservação dos solos, o sequestro de carbono possibilita",
       subItens: []
     },
     options: ["o incremento de fenômenos geológicos.","a mitigação de mudanças climáticas.","o controle de processos erosivos.","o afloramento de lençóis freáticos.","a formação de hidrocarbonetos."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular",
     year: 2025,
     text: {
-      principal: "A Síndrome de Berardinelli é uma doença genética autossômica recessiva rara que se caracteriza pela quase ausência de tecido adiposo no corpo. Em fevereiro de 2020, havia 38 casos de Síndrome de Berardinelli no Rio Grande do Norte. Esse número representava 69% do total de casos no país. Uma das explicações para a grande incidência da doença no estado está relacionada à consanguinidade. A pre-valência de consanguinidade reconhecida em alguns muni-cípios chegava a 33%. Um em cada três casamentos eram de pessoas que sabiam que eram parentes.\n(https://g_{1}.globo.com, 29.02.2020. Adaptado.)\n\nA alta incidência da Síndrome de Berardinelli no estado do Rio Grande do Norte, relatada no excerto, deve-se",
+      principal: "A Síndrome de Berardinelli é uma doença genética autossômica recessiva rara que se caracteriza pela quase ausência de tecido adiposo no corpo. Em fevereiro de 2020, havia 38 casos de Síndrome de Berardinelli no Rio Grande do Norte. Esse número representava 69% do total de casos no país. Uma das explicações para a grande incidência da doença no estado está relacionada à consanguinidade. A pre-valência de consanguinidade reconhecida em alguns muni-cípios chegava a 33%. Um em cada três casamentos eram de pessoas que sabiam que eram parentes.\n(https://$g_{1}$.globo.com, 29.02.2020. Adaptado.)\n\nA alta incidência da Síndrome de Berardinelli no estado do Rio Grande do Norte, relatada no excerto, deve-se",
       subItens: []
     },
     options: ["às reduzidas taxas de recombinações gênicas entre os alelos relacionados a essa doença.","ao aumento da frequência de cruzamentos entre indiví-duos heterozigóticos aparentados.","ao acúmulo de mutações nos indivíduos da mesma famí-lia portadores do alelo recessivo.","à alta probabilidade do encontro de gametas portadores do cromossomo X.","ao cruzamento entre indivíduos que apresentam genó-tipo homozigótico dominante."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2025,
     text: {
-      principal: "Compostos do elemento vanádio têm atividade biológica e são empregados no estudo de proteínas fosfatadas. A prepa-ração do vanadato de sódio (Na_{3}VO₄) pode ser feita a partir da reação do seu óxido (V₂O₃) e o hidróxido de sódio (NaOH) representada na equação.\n\nV₂O₃ (s) + 6NaOH (aq) → 2Na3VO₄ (aq) + 3H₂O (l)\n\nComparando-se o ânion vanadato e o ânion fosfato, ______. Nas condições da reação apresentada, V₂O₃ é classificado como óxido ______.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      principal: "Compostos do elemento vanádio têm atividade biológica e são empregados no estudo de proteínas fosfatadas. A prepa-ração do vanadato de sódio (Na3VO₄) pode ser feita a partir da reação do seu óxido (V₂O₃) e o hidróxido de sódio (NaOH) representada na equação.\n\nV₂O₃ (s) + 6NaOH (aq) → 2Na3VO₄ (aq) + 3H₂O (l)\n\nComparando-se o ânion vanadato e o ânion fosfato, ______. Nas condições da reação apresentada, V₂O₃ é classificado como óxido ______.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
       subItens: []
     },
     options: ["ambos contêm um elemento metálico – ácido.","ambos contêm um elemento metálico – neutro.","apenas um deles contém um elemento metálico – básico.","apenas um deles contém um elemento metálico – ácido.","ambos contêm um elemento metálico – básico."],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Vestibular",
     year: 2025,
     text: {
-      principal: "No plano cartesiano, a reta r, de equação y = -$\\\\frac{5}{2}$ x + 12, intersecta a reta s, de equação y = x + 5, no ponto P. A reta r intersecta o eixo x no ponto R, e a reta s intersecta o eixo y no ponto S, como na figura.\n\n[Gráfico de duas retas no plano cartesiano. Reta r: decrescente, passando por (0,12) e (4.8,0). Reta s: crescente, passando por (0,5) e (-5,0). As retas se intersectam em P. R é a intersecção de r com o eixo x. S é a intersecção de s com o eixo y.]\n\nA área do triângulo de vértices PRS é",
+      principal: "No plano cartesiano, a reta r, de equação y = -5/2 x + 12, intersecta a reta s, de equação y = x + 5, no ponto P. A reta r intersecta o eixo x no ponto R, e a reta s intersecta o eixo y no ponto S, como na figura.\n\n[Gráfico de duas retas no plano cartesiano. Reta r: decrescente, passando por (0,12) e (4.8,0). Reta s: crescente, passando por (0,5) e (-5,0). As retas se intersectam em P. R é a intersecção de r com o eixo x. S é a intersecção de s com o eixo y.]\n\nA área do triângulo de vértices PRS é",
       subItens: []
     },
     options: ["44/5","47/5","51/5","54/5","49/5"],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Vestibular",
     year: 2025,
     text: {
-      principal: "No plano, as retas r e s são perpendiculares e se cruzam no ponto P, que pertence à circunferência δ. A reta r passa pelo centro O de δ e contém o ponto R de δ. A reta s forma um ângulo de medida θ com o segmento PQ, em que Q é um ponto de δ, como na figura.\n\n[Figura de uma circunferência δ com centro O. Reta r passa por R, O, P. Reta s passa por Q, P. Segmento PQ forma ângulo θ com reta s. R, Q e P são pontos da circunferência.]\n\nSabendo que cos θ = $\\\\frac{5}{8}$ e que o raio de δ mede 12 cm, a distância entre os pontos R e Q é de",
+      principal: "No plano, as retas r e s são perpendiculares e se cruzam no ponto P, que pertence à circunferência δ. A reta r passa pelo centro O de δ e contém o ponto R de δ. A reta s forma um ângulo de medida θ com o segmento PQ, em que Q é um ponto de δ, como na figura.\n\n[Figura de uma circunferência δ com centro O. Reta r passa por R, O, P. Reta s passa por Q, P. Segmento PQ forma ângulo θ com reta s. R, Q e P são pontos da circunferência.]\n\nSabendo que cos θ = 5/8 e que o raio de δ mede 12 cm, a distância entre os pontos R e Q é de",
       subItens: []
     },
     options: ["15 cm","50/3 cm","95/6 cm","16 cm","18 cm"],

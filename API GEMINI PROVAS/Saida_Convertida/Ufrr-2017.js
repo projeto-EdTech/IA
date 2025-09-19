@@ -33,7 +33,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "As figuras de estilo permitem ao autor o uso mais eficaz da linguagem como fenômeno social, vislumbrando, no simbolismo das palavras, a construção das obras literárias. Como se sabe as figuras de linguagem podem ser subdivididas em: de palavras, de pensamento e de construção.\nNo poema grafado por Eli Macuxi está presente uma figura de construção que permite a sonorização por meio da repetição de um determinado som nos versos destacados, qual seja:\n\nTEXTO II\nAMOR PRA QUEM ODEIA\n(Eli Macuxi)\n\nO amor campeia, que seja.\n\nQuando tuas penas partirem, asas\nQuando novas nuvens surgirem, casas\nQuando nossos corpos rugirem, brasas\n\nE nem demônios nem igrejas\nNem inveja que vareja\nNa cabeça malfazeja\nDe quem julga sem amar\nnos farão parar!\n\nPorque não entendo nem aceito o discurso\ndo ódio contra o amor.\n\nDisponível em: http://elimacuxi.blogspot.com.$\\\\frac{br}{amor}$-pra-quem-odeia.html. Acesso em: $\\\\frac{25}{07}$/2016",
+      principal: "As figuras de estilo permitem ao autor o uso mais eficaz da linguagem como fenômeno social, vislumbrando, no simbolismo das palavras, a construção das obras literárias. Como se sabe as figuras de linguagem podem ser subdivididas em: de palavras, de pensamento e de construção.\nNo poema grafado por Eli Macuxi está presente uma figura de construção que permite a sonorização por meio da repetição de um determinado som nos versos destacados, qual seja:\n\nTEXTO II\nAMOR PRA QUEM ODEIA\n(Eli Macuxi)\n\nO amor campeia, que seja.\n\nQuando tuas penas partirem, asas\nQuando novas nuvens surgirem, casas\nQuando nossos corpos rugirem, brasas\n\nE nem demônios nem igrejas\nNem inveja que vareja\nNa cabeça malfazeja\nDe quem julga sem amar\nnos farão parar!\n\nPorque não entendo nem aceito o discurso\ndo ódio contra o amor.\n\nDisponível em: http://elimacuxi.blogspot.com.br/amor-pra-quem-odeia.html. Acesso em: 25/07/2016",
       subItens: []
     },
     options: ["Elipse;","Anacoluto;","Anáfora;","Aliteração;","Pleonasmo."],
@@ -78,7 +78,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Sejam f: R→R dada por f(x) = $\\\\frac{1}{x}$ e g: R→R dada por g(x) = 2x +1. Encontre a área do quadrilátero ABCD, formado pelos pontos: A=(0,0), B=(0, g(0)), C = (x, y), D=(1,0), onde (x, y) é o ponto de intersecção dos gráficos de f e g, como ilustra a figura abaixo:",
+      principal: "Sejam f: R→R dada por f(x) = 1/x e g: R→R dada por g(x) = 2x +1. Encontre a área do quadrilátero ABCD, formado pelos pontos: A=(0,0), B=(0, g(0)), C = (x, y), D=(1,0), onde (x, y) é o ponto de intersecção dos gráficos de f e g, como ilustra a figura abaixo:",
       subItens: []
     },
     options: ["3/4 u.a;","5/4 u.a;","1/4 u.a;","2 u.a;","3 u.a."],
@@ -108,7 +108,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Durante o dia das mães, é comum encontrar nas redes sociais mensagens e frases como a descrita na imagem abaixo.\n\nMÃE.\nVOCÊ ME DEU ALGO\nMUITO IMPORTANTE QUE\nO PAPAI NUNCA PÔDE...\n\nOBRIGADO PELA\nMITOCONDRIA!\n(VIA @ILOVESCIENCE)\n\n$\\\\frac{f}{CurtirPiadas}$ Nerds\nwww.PiadasNerds.etc.br\n(Fonte: http://piadasnerds.etc.$\\\\frac{br}{dia}$-das-maes/)\n\nSobre a origem das mitocôndrias em animais com reprodução sexuada, está CORRETO afirmar que:",
+      principal: "Durante o dia das mães, é comum encontrar nas redes sociais mensagens e frases como a descrita na imagem abaixo.\n\nMÃE.\nVOCÊ ME DEU ALGO\nMUITO IMPORTANTE QUE\nO PAPAI NUNCA PÔDE...\n\nOBRIGADO PELA\nMITOCONDRIA!\n(VIA @ILOVESCIENCE)\n\nf/CurtirPiadas Nerds\nwww.PiadasNerds.etc.br\n(Fonte: http://piadasnerds.etc.br/dia-das-maes/)\n\nSobre a origem das mitocôndrias em animais com reprodução sexuada, está CORRETO afirmar que:",
       subItens: []
     },
     options: ["As mitocôndrias de animais com reprodução sexuada originam-se igualmente a partir daquelas que existem no gameta feminino e no gameta masculino;","As mitocôndrias de animais com reprodução sexuada originam-se a partir daquelas que existem no gameta masculino, pois as presentes no gameta feminino degeneram após sua fecundação;","As mitocôndrias de animais com reprodução sexuada originam-se por geração espontânea no momento da fase embrionária do indivíduo;","As mitocôndrias de animais com reprodução sexuada originam-se apenas a partir daquelas presentes em bactérias do trato digestivo de sua mãe;","As mitocondrias de animais com reprodução sexuada originam-se a partir daquelas que existem no gameta feminino, pois as presentes no gameta masculino degeneram após a fecundação."],
@@ -138,7 +138,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2017,
     text: {
-      principal: "Um móvel inicia seu movimento com velocidade de módulo 10 $\\\\frac{m}{s}$ e aceleração de módulo 2 $\\\\frac{m}{s}$² partindo da posição 5 m em relação a origem de um dado referencial. Sabendo que o movimento é retrógado e retardado, qual é a equação horária dos espaços que descreve o movimento?",
+      principal: "Um móvel inicia seu movimento com velocidade de módulo 10 m/s e aceleração de módulo 2 m/s² partindo da posição 5 m em relação a origem de um dado referencial. Sabendo que o movimento é retrógado e retardado, qual é a equação horária dos espaços que descreve o movimento?",
       subItens: []
     },
     options: ["S = 5 + 10t + t²;","S = 5 - 10t - t²;","S = 5 – 10t – 2t²;","S = - 5 + 10t – 2t²;","S = - 5-10t – 2t²."],

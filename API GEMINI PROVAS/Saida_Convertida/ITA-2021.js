@@ -18,7 +18,7 @@ createQuestion({
     university: "ITA",
     year: 2021,
     text: {
-      principal: "Um trem parte do repouso sobre uma linha horizontal e deve alcançar a velocidade de 72 $\\\\frac{km}{h}$. Até atingir essa velocidade, o movimento do trem tem aceleração constante de 0,50 $\\\\frac{m}{s}$², sendo que resistências passivas absorvem 5,0% da energia fornecida pela locomotiva. O esforço médio, em N, fornecido pela locomotiva para transportar uma carga de 1,0 ton é",
+      principal: "Um trem parte do repouso sobre uma linha horizontal e deve alcançar a velocidade de 72 km/h. Até atingir essa velocidade, o movimento do trem tem aceleração constante de 0,50 m/s², sendo que resistências passivas absorvem 5,0% da energia fornecida pela locomotiva. O esforço médio, em N, fornecido pela locomotiva para transportar uma carga de 1,0 ton é",
       subItens: []
     },
     options: ["2,5 ×102.","4,8 ×102.","5,0×102.","5,3 ×102.","1,0 ×103."],
@@ -153,7 +153,7 @@ createQuestion({
     university: "ITA",
     year: 2021,
     text: {
-      principal: "Três esferas metálicas maciças E_{1}, E_{2} e E_{3}, feitas de um mesmo material e de raios R_{1}, R_{2} e R_{3}, respectivamente, podem trocar cargas elétricas entre si a partir do acionamento de contatos elétricos. Inicialmente apenas E_{1} encontra-se eletricamente carregada. Em um primeiro momento estabelece-se contato elétrico entre E_{1} e E_{2}, que é cortado quando o sistema atinge o equilíbrio elétrico. A seguir, estabelece-se contato entre E_{2} e E_{3}. Ao final do processo, observa-se que a carga elétrica líquida das três esferas é igual. Desprezando a capacitância mútua entre as esferas, assinale a proporção entre as massas de E_{1}, E_{2} e E_{3}, respectivamente.",
+      principal: "Três esferas metálicas maciças $E_{1}$, $E_{2}$ e $E_{3}$, feitas de um mesmo material e de raios $R_{1}$, $R_{2}$ e $R_{3}$, respectivamente, podem trocar cargas elétricas entre si a partir do acionamento de contatos elétricos. Inicialmente apenas $E_{1}$ encontra-se eletricamente carregada. Em um primeiro momento estabelece-se contato elétrico entre $E_{1}$ e $E_{2}$, que é cortado quando o sistema atinge o equilíbrio elétrico. A seguir, estabelece-se contato entre $E_{2}$ e $E_{3}$. Ao final do processo, observa-se que a carga elétrica líquida das três esferas é igual. Desprezando a capacitância mútua entre as esferas, assinale a proporção entre as massas de $E_{1}$, $E_{2}$ e $E_{3}$, respectivamente.",
       subItens: []
     },
     options: ["1:1:1","1:2:2","2:1:1","8:1:1","1:8:8"],
@@ -168,7 +168,7 @@ createQuestion({
     university: "ITA",
     year: 2021,
     text: {
-      principal: "Deseja-se capturar uma foto que ilustre um projétil, viajando a 500 $\\\\frac{m}{s}$, atravessando uma maçã. Para isso, é necessário usar um flash de luz com duração compatível com o intervalo de tempo necessário para que o projétil atravesse a fruta. A intensidade do flash de luz está associada à descarga de um capacitor eletricamente carregado, de capacitância C, através de um tubo de resistência elétrica dada por 10 Ω. Assinale a alternativa com o valor de capacitância mais adequado para a aplicação descrita.",
+      principal: "Deseja-se capturar uma foto que ilustre um projétil, viajando a 500 m/s, atravessando uma maçã. Para isso, é necessário usar um flash de luz com duração compatível com o intervalo de tempo necessário para que o projétil atravesse a fruta. A intensidade do flash de luz está associada à descarga de um capacitor eletricamente carregado, de capacitância C, através de um tubo de resistência elétrica dada por 10 Ω. Assinale a alternativa com o valor de capacitância mais adequado para a aplicação descrita.",
       subItens: []
     },
     options: ["800 pF","15 nF","800 nF","15 μF","800 μF"],
@@ -183,7 +183,7 @@ createQuestion({
     university: "ITA",
     year: 2021,
     text: {
-      principal: "Um cilindro condutor oco de comprimento muito longo, cuja secção transversal tem raio interno $\\\\frac{R}{2}$ e raio externo R, é atravessado por uma densidade de corrente elétrica uniforme e paralela ao eixo do cilindro. Qual representação gráfica abaixo melhor descreve a intensidade do campo magnético |B| como função da coordenada radial r a partir do eixo de simetria do sistema?\n(Gráficos de intensidade do campo magnético B em função da coordenada radial r)",
+      principal: "Um cilindro condutor oco de comprimento muito longo, cuja secção transversal tem raio interno R/2 e raio externo R, é atravessado por uma densidade de corrente elétrica uniforme e paralela ao eixo do cilindro. Qual representação gráfica abaixo melhor descreve a intensidade do campo magnético |B| como função da coordenada radial r a partir do eixo de simetria do sistema?\n(Gráficos de intensidade do campo magnético B em função da coordenada radial r)",
       subItens: []
     },
     options: ["Gráfico com B=0 para r<R/2, B crescendo para R/2 < r < R, e B decrescendo para r > R","Gráfico com B=0 para r<R/2, B crescendo linearmente para R/2 < r < R, e B decrescendo para r > R","Gráfico com B=0 para r<R/2, B constante para R/2 < r < R, e B decrescendo para r > R","Gráfico com B=0 para r<R/2, B constante em um valor máximo para R/2 < r < R, e B decrescendo para r > R","Gráfico com B=0 para r<R/2, B decrescendo para R/2 < r < R, e B constante para r > R"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "ITA",
     year: 2021,
     text: {
-      principal: "Considere um triângulo ABC tal que m(AB) = 14, cos (BAC) = $\\\\frac{5}{13}$ e cos (ABC) = $\\\\frac{5}{13}$. Então, o raio da circunferência inscrita ao triângulo é igual a:",
+      principal: "Considere um triângulo ABC tal que m(AB) = 14, cos (BAC) = 5/13 e cos (ABC) = 5/13. Então, o raio da circunferência inscrita ao triângulo é igual a:",
       subItens: []
     },
     options: ["2.","2√2.","3.","4.","4√2."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "ITA",
     year: 2021,
     text: {
-      principal: "Sejam dadas as reações no equilíbrio envolvidas nos processos de carga e descarga de uma bateria chumbo-ácido e seus respectivos potenciais padrão de eletrodo versus EPH (E°) ou constantes de dissociação ácidas (Ka), todos a 25 °C.\nSemirreações principais:\ni. PbSO_{4}(s) + 2e⁻ = Pb(s) + SO_{4}²⁻(aq) E°(V) = -0,36\nii. PbSO_{4}(s) + H⁺(aq) + 2e⁻ = Pb(s) + HSO_{4}⁻(aq) E°(V) = -0,30\niii. PbO_{2}(s) + HSO_{4}⁻(aq) + 3H⁺(aq) + 2e⁻ = PbSO_{4}(s) + 2H2O(l) E°(V) = 1,63\niv. PbO_{2}(s) + SO_{4}²⁻(aq) + 4H⁺(aq) + 2e⁻ = PbSO_{4}(s) + 2H2O(l) E°(V) = 1,69\nSemirreações secundárias:\nv. 2H⁺(aq) + 2e⁻ = H_{2}(g) E°(V) = 0,00\nvi. O_{2}(g) + 4H⁺(aq) + 4e⁻ = 2H2O(l) E°(V) = 1,23\nReações de equilíbrio ácido-base:\nvii. H_{2}SO_{4}(aq) = H⁺(aq) + HSO_{4}⁻(aq) Ka = grande\nviii. HSO_{4}⁻(aq) = H⁺(aq) + SO_{4}²⁻(aq) Ka = 1×10⁻²\nSabe-se que a bateria converte Pb e PbO_{2} em PbSO_{4} na descarga e que, em condições normais, o pH da solução eletrolítica é menor que 1.\nA respeito dessa bateria, foram feitas as seguintes afirmações:\nI. Em condições normais, durante a descarga, a semirreação principal que ocorre no ânodo é a i e, no cátodo, é a iv.\nII. Em condições normais, o potencial da bateria no equilíbrio pode ser representado por E = 1,93 - 0,06pH + 0,06log[HSO_{4}⁻].\nIII. Em condições padrão, a eletrólise da água sempre acontece.\nIV. Em pH ~ 2, os potenciais das semirreações secundárias igualam-se aos potenciais das semirreações principais do ânodo e do cátodo, respectivamente, portanto a eletrólise da água não ocorre quando o eletrólito tem pH > 2.\nConsiderando apenas argumentos baseados no equilíbrio termodinâmico a 25 °C, está(ão) ERRADA(S) apenas a(s) afirmação(ões)",
+      principal: "Sejam dadas as reações no equilíbrio envolvidas nos processos de carga e descarga de uma bateria chumbo-ácido e seus respectivos potenciais padrão de eletrodo versus EPH (E°) ou constantes de dissociação ácidas (Ka), todos a 25 °C.\nSemirreações principais:\ni. $PbSO_{4}$(s) + 2e⁻ = Pb(s) + $SO_{4}$²⁻(aq) E°(V) = -0,36\nii. $PbSO_{4}$(s) + H⁺(aq) + 2e⁻ = Pb(s) + $HSO_{4}$⁻(aq) E°(V) = -0,30\niii. $PbO_{2}$(s) + $HSO_{4}$⁻(aq) + 3H⁺(aq) + 2e⁻ = $PbSO_{4}$(s) + 2H2O(l) E°(V) = 1,63\niv. $PbO_{2}$(s) + $SO_{4}$²⁻(aq) + 4H⁺(aq) + 2e⁻ = $PbSO_{4}$(s) + 2H2O(l) E°(V) = 1,69\nSemirreações secundárias:\nv. 2H⁺(aq) + 2e⁻ = $H_{2}$(g) E°(V) = 0,00\nvi. $O_{2}$(g) + 4H⁺(aq) + 4e⁻ = 2H2O(l) E°(V) = 1,23\nReações de equilíbrio ácido-base:\nvii. H2SO4(aq) = H⁺(aq) + $HSO_{4}$⁻(aq) Ka = grande\nviii. $HSO_{4}$⁻(aq) = H⁺(aq) + $SO_{4}$²⁻(aq) Ka = 1×10⁻²\nSabe-se que a bateria converte Pb e $PbO_{2}$ em $PbSO_{4}$ na descarga e que, em condições normais, o pH da solução eletrolítica é menor que 1.\nA respeito dessa bateria, foram feitas as seguintes afirmações:\nI. Em condições normais, durante a descarga, a semirreação principal que ocorre no ânodo é a i e, no cátodo, é a iv.\nII. Em condições normais, o potencial da bateria no equilíbrio pode ser representado por E = 1,93 - 0,06pH + 0,06log[$HSO_{4}$⁻].\nIII. Em condições padrão, a eletrólise da água sempre acontece.\nIV. Em pH ~ 2, os potenciais das semirreações secundárias igualam-se aos potenciais das semirreações principais do ânodo e do cátodo, respectivamente, portanto a eletrólise da água não ocorre quando o eletrólito tem pH > 2.\nConsiderando apenas argumentos baseados no equilíbrio termodinâmico a 25 °C, está(ão) ERRADA(S) apenas a(s) afirmação(ões)",
       subItens: []
     },
     options: ["I.","I e IV.","II.","II e III.","III e IV."],
@@ -873,7 +873,7 @@ createQuestion({
     university: "ITA",
     year: 2021,
     text: {
-      principal: "Sabe-se que a condutividade molar (Λ) de uma solução iônica é dada pela razão entre a condutividade dessa solução (κ) e sua concentração molar. Considere soluções diluídas de CaCl_{2}, NaCl e KCl com iguais concentrações em massa, para as quais são observadas as seguintes razões entre condutividades molares e entre massas molares (MM):\nΛCaCl₂/ΛNaCl = 1,9; ΛCaCl₂/ΛKCl = 1,8; MMCaCl₂/MMNaCl = 1,9; MMCaCl₂/MMKCl = 1,5.\nCom base nessas informações, assinale a opção CORRETA entre as condutividades das soluções.",
+      principal: "Sabe-se que a condutividade molar (Λ) de uma solução iônica é dada pela razão entre a condutividade dessa solução (κ) e sua concentração molar. Considere soluções diluídas de $CaCl_{2}$, NaCl e KCl com iguais concentrações em massa, para as quais são observadas as seguintes razões entre condutividades molares e entre massas molares (MM):\nΛCaCl₂/ΛNaCl = 1,9; ΛCaCl₂/ΛKCl = 1,8; MMCaCl₂/MMNaCl = 1,9; MMCaCl₂/MMKCl = 1,5.\nCom base nessas informações, assinale a opção CORRETA entre as condutividades das soluções.",
       subItens: []
     },
     options: ["κCaCl₂ = κNaCl = κKCl","κCaCl₂ = κNaCl > κKCl","κCaCl₂ > κNaCl > κKCl","κCaCl₂ < κNaCl < κKCl","κCaCl₂ < κNaCl = κKCl"],
@@ -948,7 +948,7 @@ createQuestion({
     university: "ITA",
     year: 2021,
     text: {
-      principal: "Numa titulação de oxirredução, 50,00 mL de uma solução ácida de Fe(NO_{3})2 a 0,38 mol·L⁻¹ foi titulada com uma solução padronizada de permanganato de potássio a 4,2 × 10⁻² mol·L⁻¹, até que a solução resultante adquirisse leve coloração rósea. Sobre esta titulação, são feitas as seguintes afirmações:\n(1) O volume da solução de permanganato de potássio gasto na titulação foi de 100 mL.\n(2) O menor coeficiente estequiométrico inteiro para Fe²⁺ na reação redox balanceada é 7.\n(3) No ponto final, o volume total da solução será de 120 mL.\n(4) Um precipitado sólido de cor esverdeada será observado como produto dessa reação.\n(5) O número total de elétrons envolvidos na reação redox é 22 milimols.\n(6) A razão entre os volumes do titulante e do titulado no ponto final é 2,1.\nA soma dos números associados às afirmações CORRETAS é igual a",
+      principal: "Numa titulação de oxirredução, 50,00 mL de uma solução ácida de Fe($NO_{3}$)2 a 0,38 mol·L⁻¹ foi titulada com uma solução padronizada de permanganato de potássio a 4,2 × 10⁻² mol·L⁻¹, até que a solução resultante adquirisse leve coloração rósea. Sobre esta titulação, são feitas as seguintes afirmações:\n(1) O volume da solução de permanganato de potássio gasto na titulação foi de 100 mL.\n(2) O menor coeficiente estequiométrico inteiro para Fe²⁺ na reação redox balanceada é 7.\n(3) No ponto final, o volume total da solução será de 120 mL.\n(4) Um precipitado sólido de cor esverdeada será observado como produto dessa reação.\n(5) O número total de elétrons envolvidos na reação redox é 22 milimols.\n(6) A razão entre os volumes do titulante e do titulado no ponto final é 2,1.\nA soma dos números associados às afirmações CORRETAS é igual a",
       subItens: []
     },
     options: ["0.","1.","3.","6.","11."],

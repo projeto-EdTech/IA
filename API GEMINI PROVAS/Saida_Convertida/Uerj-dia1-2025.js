@@ -93,7 +93,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "CONSIDERE AS INFORMAÇÕES DO TRECHO A SEGUIR PARA RESPONDER ÀS QUESTÕES 06 E 07.\nDiante das gravações de conversas entre pessoas, os visitantes dos water holes tinham probabilidade 200% maior de fugir e se escafediam com velocidade 40% maior do que diante de sons de leões. (l. 30-32)\nConsidere uma girafa que, ao ouvir o rugido de um leão, fuja correndo à velocidade média de 54 $\\\\frac{km}{h}$.\nAo ouvir a voz humana, essa girafa percore 105 m no seguinte intervalo de tempo, em segundos:",
+      principal: "CONSIDERE AS INFORMAÇÕES DO TRECHO A SEGUIR PARA RESPONDER ÀS QUESTÕES 06 E 07.\nDiante das gravações de conversas entre pessoas, os visitantes dos water holes tinham probabilidade 200% maior de fugir e se escafediam com velocidade 40% maior do que diante de sons de leões. (l. 30-32)\nConsidere uma girafa que, ao ouvir o rugido de um leão, fuja correndo à velocidade média de 54 km/h.\nAo ouvir a voz humana, essa girafa percore 105 m no seguinte intervalo de tempo, em segundos:",
       subItens: []
     },
     options: ["7","6","5","4"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Carga de 19 mil bois do Brasil infesta o ar de cidade da África do Sul\n\nA passagem de um navio com 19 mil bois exportados vivos do Brasil para o Iraque levou um \"fedor inimaginável” para a Cidade do Cabo, na África do Sul, onde a embarcação fez uma parada de abastecimento. O Conselho Nacional de Sociedades para a Prevenção da Crueldade contra Animais, organização sul-africana de proteção aos animais, encontrou bois doentes e mortos na embarcação, classificando o cenário como “abominável”. Os animais estavam saudáveis antes do embarque.\n\"Cada boi produz em média 30 quilos de esterco por dia, mas, sem ter como descartá-los, os animais têm que conviver com fezes e amônia, uma substância tóxica presente na urina, explica George Sturaro, gerente de investigações da Mercy For Animals, organização internacional de defesa animal. As principais causas de morte ao longo das viagens são infecções respiratórias e estresse térmico. Para Sturaro, as péssimas condições são inerentes a essa modalidade de exportação.\nAdaptado de reporterbrasil.org.br, $\\\\frac{21}{02}$/2024.\nO Brasil é um dos principais exportadores de carne bovina, realizando também o comércio de animais vivos para o abate em outros países.\nA reportagem acima, assim como o texto inicial, levanta discussões acerca da relação entre seres humanos e animais em sociedades urbanas na contemporaneidade.\nCom base na reportagem, essa relação tem sido mediada pela seguinte perspectiva econômica:",
+      principal: "Carga de 19 mil bois do Brasil infesta o ar de cidade da África do Sul\n\nA passagem de um navio com 19 mil bois exportados vivos do Brasil para o Iraque levou um \"fedor inimaginável” para a Cidade do Cabo, na África do Sul, onde a embarcação fez uma parada de abastecimento. O Conselho Nacional de Sociedades para a Prevenção da Crueldade contra Animais, organização sul-africana de proteção aos animais, encontrou bois doentes e mortos na embarcação, classificando o cenário como “abominável”. Os animais estavam saudáveis antes do embarque.\n\"Cada boi produz em média 30 quilos de esterco por dia, mas, sem ter como descartá-los, os animais têm que conviver com fezes e amônia, uma substância tóxica presente na urina, explica George Sturaro, gerente de investigações da Mercy For Animals, organização internacional de defesa animal. As principais causas de morte ao longo das viagens são infecções respiratórias e estresse térmico. Para Sturaro, as péssimas condições são inerentes a essa modalidade de exportação.\nAdaptado de reporterbrasil.org.br, 21/02/2024.\nO Brasil é um dos principais exportadores de carne bovina, realizando também o comércio de animais vivos para o abate em outros países.\nA reportagem acima, assim como o texto inicial, levanta discussões acerca da relação entre seres humanos e animais em sociedades urbanas na contemporaneidade.\nCom base na reportagem, essa relação tem sido mediada pela seguinte perspectiva econômica:",
       subItens: []
     },
     options: ["integração de mercados globais","prevalência de práticas capitalistas","substituição de insumos industriais","racionalização de interesses extrativistas"],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "A função quadrática f, definida por f(x) = – ($\\\\frac{3}{2}$)x² + 6x + 4, sendo x um número real, é representada graficamente pela seguinte parábola:\n\nу\n\nP\nQ\nX\nNa parábola, o ponto P, que representa a interseção com o eixo das ordenadas, e o ponto Q formam o segmento PQ, paralelo ao eixo das abscissas.\nA distância entre os pontos P e Q mede:\n(A) $\\\\frac{9}{2}$\n(B) 4\n(C) $\\\\frac{7}{2}$\n(D) 3",
+      principal: "A função quadrática f, definida por f(x) = – (3/2)x² + 6x + 4, sendo x um número real, é representada graficamente pela seguinte parábola:\n\nу\n\nP\nQ\nX\nNa parábola, o ponto P, que representa a interseção com o eixo das ordenadas, e o ponto Q formam o segmento PQ, paralelo ao eixo das abscissas.\nA distância entre os pontos P e Q mede:\n(A) 9/2\n(B) 4\n(C) 7/2\n(D) 3",
       subItens: []
     },
     options: ["9/2","4","7/2","3"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Um dos animais de maior massa já identificado no planeta Terra é a baleia azul. Admita que uma baleia dessa espécie tenha massa de 90 toneladas e volume de 86,5 m³.\nA densidade dessa baleia, em $\\\\frac{g}{cm}$³, é aproximadamente de:",
+      principal: "Um dos animais de maior massa já identificado no planeta Terra é a baleia azul. Admita que uma baleia dessa espécie tenha massa de 90 toneladas e volume de 86,5 m³.\nA densidade dessa baleia, em g/cm³, é aproximadamente de:",
       subItens: []
     },
     options: ["1,36","1,04","0,95","0,88"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "A cada batimento, o coração humano bombeia cerca de 85 g de sangue. Admita que a velocidade de saída do sangue bombeado pelo coração seja de 0,4 $\\\\frac{m}{s}$.\nA quantidade de movimento do sangue, em kg.$\\\\frac{m}{s}$, produzida pelo coração em um batimento, corresponde aproximadamente a:",
+      principal: "A cada batimento, o coração humano bombeia cerca de 85 g de sangue. Admita que a velocidade de saída do sangue bombeado pelo coração seja de 0,4 m/s.\nA quantidade de movimento do sangue, em kg.m/s, produzida pelo coração em um batimento, corresponde aproximadamente a:",
       subItens: []
     },
     options: ["0,064","0,048","0,034","0,018"],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "Recentemente, a prefeitura de Maceió-AL decretou situação de emergência diante do iminente colapso em uma das minas de sal-gema do município. A exploração dessas minas envolve a escavação de poços até a camada de sal, que pode estar a mais de mil metros de profundidade. Então, injeta-se água para dissolver o sal-gema e formar uma solução saturada, que será trazida, por pressão, até a superfície.\nAdaptado de agenciabrasil.ebc.com.br, $\\\\frac{03}{12}$/2023.\nSabe-se que o principal componente do sal-gema é o cloreto de sódio, cuja solubilidade em água é de 36 g de NaCl por 100 g de H₂O, à temperatura de 20 °C.\nA essa mesma temperatura, a quantidade de matéria, em mols, de cloreto de sódio dissolvido em 2000 kg de água, formando uma solução saturada, corresponde aproximadamente a:",
+      principal: "Recentemente, a prefeitura de Maceió-AL decretou situação de emergência diante do iminente colapso em uma das minas de sal-gema do município. A exploração dessas minas envolve a escavação de poços até a camada de sal, que pode estar a mais de mil metros de profundidade. Então, injeta-se água para dissolver o sal-gema e formar uma solução saturada, que será trazida, por pressão, até a superfície.\nAdaptado de agenciabrasil.ebc.com.br, 03/12/2023.\nSabe-se que o principal componente do sal-gema é o cloreto de sódio, cuja solubilidade em água é de 36 g de NaCl por 100 g de H₂O, à temperatura de 20 °C.\nA essa mesma temperatura, a quantidade de matéria, em mols, de cloreto de sódio dissolvido em 2000 kg de água, formando uma solução saturada, corresponde aproximadamente a:",
       subItens: []
     },
     options: ["12300","24600","36900","61 500"],
@@ -693,7 +693,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "NELSON SARGENTO\nprefeitura.rio\nNelson Sargento – um compositor que pinta\nNelson Sargento (1924-2021), nome artístico de Nelson Mattos, foi compositor, cantor, pesquisador, artista plástico, ator e escritor. Morou no Morro da Mangueira, no Rio de Janeiro, desde os 12 anos. Notabilizou-se como um dos mais importantes sambistas da Estação Primeira de Mangueira, onde integrou e presidiu a Ala de Compositores, além de ter sido presidente de honra da escola. Ao contrário da arte musical que, segundo ele, fez parte de sua infância, a pintura aconteceu mais tarde: \"Comecei a pintar em 1973, utilizando um apanhado de massa plástica (que usava como pintor de parede), em cima de um caixote. Assim nasceu meu primeiro trabalho. Hoje, já tenho cerca de 300 obras espalhadas, principalmente entre meus amigos. Porém, faço questão de afirmar que sou um compositor que pinta, pois o meu reconhecimento como compositor está ajudando na divulgação de minha pintura.\nMARCELO OLIVEIRA\nAdaptado de memoriaverderosa.com.br, $\\\\frac{06}{04}$/2023.\nVárias criações artísticas de Nelson Sargento fazem referência a patrimônios históricos da cidade do Rio de Janeiro.\nA pintura de sua autoria, acima reproduzida, enfatiza o seguinte aspecto desses patrimônios:",
+      principal: "NELSON SARGENTO\nprefeitura.rio\nNelson Sargento – um compositor que pinta\nNelson Sargento (1924-2021), nome artístico de Nelson Mattos, foi compositor, cantor, pesquisador, artista plástico, ator e escritor. Morou no Morro da Mangueira, no Rio de Janeiro, desde os 12 anos. Notabilizou-se como um dos mais importantes sambistas da Estação Primeira de Mangueira, onde integrou e presidiu a Ala de Compositores, além de ter sido presidente de honra da escola. Ao contrário da arte musical que, segundo ele, fez parte de sua infância, a pintura aconteceu mais tarde: \"Comecei a pintar em 1973, utilizando um apanhado de massa plástica (que usava como pintor de parede), em cima de um caixote. Assim nasceu meu primeiro trabalho. Hoje, já tenho cerca de 300 obras espalhadas, principalmente entre meus amigos. Porém, faço questão de afirmar que sou um compositor que pinta, pois o meu reconhecimento como compositor está ajudando na divulgação de minha pintura.\nMARCELO OLIVEIRA\nAdaptado de memoriaverderosa.com.br, 06/04/2023.\nVárias criações artísticas de Nelson Sargento fazem referência a patrimônios históricos da cidade do Rio de Janeiro.\nA pintura de sua autoria, acima reproduzida, enfatiza o seguinte aspecto desses patrimônios:",
       subItens: []
     },
     options: ["caracterização de hierarquias sociais","existência de segregações territoriais","valorização de culturas afro-brasileiras","registro de manifestações tradicionalistas"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "A verdadeira história de “Peter Chicoteado\"\nO filme Emancipation – uma história de liberdade conta a história real de “Peter Chicoteado” e sua jornada da escravidão ao Exército. Esse escravizado fugitivo posou de forma desafiadora para um retrato em 1863.\nNo auge da Guerra Civil dos Estados Unidos, a fotografia revelou a verdade inegável. Mostrava que “estas eram pessoas reais com experiências reais (...) a história desse homem que entende que a Guerra Civil é uma oportunidade de literalmente tomar posse de seu corpo e de sua vida, diz Barbara Krauthamer, historiadora da escravidão e emancipação dos E.U.A.\nO ator Will Smith, que protagonizou Gordon/\"Peter Chicoteado\", disse a jornalistas no lançamento do filme: \"Este não é outro filme de escravizados. Este é um filme de liberdade. Acho que é uma história que todos nós precisamos ver, ouvir e sentir.”\nCHELSEA BAILEY\nAdaptado de bbc.com, $\\\\frac{13}{12}$/2022.\nNos E.U.A., o fim da escravidão ocorreu no contexto da Guerra Civil (1861-1865). O filme Emancipation apresenta uma abordagem diferenciada dessa guerra por trazer como protagonista o homem retratado na fotografia.\nA história de “Peter Chicoteado” revela que a crise da escravidão nos E.U.A. esteve associada, dentre outros fatores, à denúncia da:",
+      principal: "A verdadeira história de “Peter Chicoteado\"\nO filme Emancipation – uma história de liberdade conta a história real de “Peter Chicoteado” e sua jornada da escravidão ao Exército. Esse escravizado fugitivo posou de forma desafiadora para um retrato em 1863.\nNo auge da Guerra Civil dos Estados Unidos, a fotografia revelou a verdade inegável. Mostrava que “estas eram pessoas reais com experiências reais (...) a história desse homem que entende que a Guerra Civil é uma oportunidade de literalmente tomar posse de seu corpo e de sua vida, diz Barbara Krauthamer, historiadora da escravidão e emancipação dos E.U.A.\nO ator Will Smith, que protagonizou Gordon/\"Peter Chicoteado\", disse a jornalistas no lançamento do filme: \"Este não é outro filme de escravizados. Este é um filme de liberdade. Acho que é uma história que todos nós precisamos ver, ouvir e sentir.”\nCHELSEA BAILEY\nAdaptado de bbc.com, 13/12/2022.\nNos E.U.A., o fim da escravidão ocorreu no contexto da Guerra Civil (1861-1865). O filme Emancipation apresenta uma abordagem diferenciada dessa guerra por trazer como protagonista o homem retratado na fotografia.\nA história de “Peter Chicoteado” revela que a crise da escravidão nos E.U.A. esteve associada, dentre outros fatores, à denúncia da:",
       subItens: []
     },
     options: ["naturalização da violência","precarização da imigração","propagação do republicanismo","desestruturação da agroexportação"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "DISTANCIAMENTO\nSOCIALSEMPRE\nEXISTIU\nBEMVINDOS\nAD BRAZIL\nLAERTE\nLAERTE\nFolha de S. Paulo, $\\\\frac{16}{11}$/2023.\nNa charge de Laerte, evidencia-se um ponto de vista acerca do período geológico denominado Antropoceno.\nDe acordo com esse ponto de vista, o período é marcado pelo seguinte fator:",
+      principal: "DISTANCIAMENTO\nSOCIALSEMPRE\nEXISTIU\nBEMVINDOS\nAD BRAZIL\nLAERTE\nLAERTE\nFolha de S. Paulo, 16/11/2023.\nNa charge de Laerte, evidencia-se um ponto de vista acerca do período geológico denominado Antropoceno.\nDe acordo com esse ponto de vista, o período é marcado pelo seguinte fator:",
       subItens: []
     },
     options: ["progresso da indústria de automóveis","autodestruição da espécie humana","desertificação de recurso natural","equilíbrio de consumo de bens"],
@@ -813,7 +813,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "ANTROPOCENO - TEMPORADA FINAL\n\nLAERTE\nFolha de S. Paulo, $\\\\frac{16}{11}$/2023.\nNa charge de Laerte, evidencia-se um ponto de vista acerca do período geológico denominado Antropoceno.\nDe acordo com esse ponto de vista, o período é marcado pelo seguinte fator:",
+      principal: "ANTROPOCENO - TEMPORADA FINAL\n\nLAERTE\nFolha de S. Paulo, 16/11/2023.\nNa charge de Laerte, evidencia-se um ponto de vista acerca do período geológico denominado Antropoceno.\nDe acordo com esse ponto de vista, o período é marcado pelo seguinte fator:",
       subItens: []
     },
     options: ["progresso da indústria de automóveis","autodestruição da espécie humana","desertificação de recurso natural","equilíbrio de consumo de bens"],
@@ -888,7 +888,7 @@ createQuestion({
     university: "Vestibular Estadual",
     year: 2025,
     text: {
-      principal: "O noticiário político foi tomado por discussões sobre a taxação dos brasileiros com maior renda no país, os “super-ricos”. A proposta de tributação impactaria 2 500 brasileiros que, juntos, acumulam patrimônio de R$ 756,8 bilhões. No último dia 30 de agosto, o recém-lançado Observatório Brasileiro das Desigualdades trouxe um dado extremamente contrastante: cerca de 7,6 milhões de brasileiros vivem com uma renda domiciliar per capita mensal menor do que R$ 150.\nEm outro dado do Observatório, é possível conferir os abismos, a partir do maior e do menor indicador: uma mulher negra, no estado de Alagoas, está oito vezes mais em situação de insegurança alimentar que um homem branco, em Brasília. Além de serem anticonstitucionais, injustas e potencialmente mortais, as desigualdades encontradas no país colocam em risco a própria democracia.\nMARGARIDA GORECKI\nAdaptado de nexojornal.com.br, $\\\\frac{11}{09}$/2023.\nO contexto socioeconômico brasileiro apresentado na notícia é um obstáculo à concretização de um princípio dos sistemas democráticos.\nEsse princípio é denominado:",
+      principal: "O noticiário político foi tomado por discussões sobre a taxação dos brasileiros com maior renda no país, os “super-ricos”. A proposta de tributação impactaria 2 500 brasileiros que, juntos, acumulam patrimônio de R$ 756,8 bilhões. No último dia 30 de agosto, o recém-lançado Observatório Brasileiro das Desigualdades trouxe um dado extremamente contrastante: cerca de 7,6 milhões de brasileiros vivem com uma renda domiciliar per capita mensal menor do que R$ 150.\nEm outro dado do Observatório, é possível conferir os abismos, a partir do maior e do menor indicador: uma mulher negra, no estado de Alagoas, está oito vezes mais em situação de insegurança alimentar que um homem branco, em Brasília. Além de serem anticonstitucionais, injustas e potencialmente mortais, as desigualdades encontradas no país colocam em risco a própria democracia.\nMARGARIDA GORECKI\nAdaptado de nexojornal.com.br, 11/09/2023.\nO contexto socioeconômico brasileiro apresentado na notícia é um obstáculo à concretização de um princípio dos sistemas democráticos.\nEsse princípio é denominado:",
       subItens: []
     },
     options: ["garantia de elegibilidade","liberdade de expressão","limitação de poderes","isonomia de direitos"],

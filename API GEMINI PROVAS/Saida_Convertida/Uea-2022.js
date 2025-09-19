@@ -63,7 +63,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Para responder às questões de 05 a 08, leia o trecho do \"Sermão do bom ladrão\", de Antônio Vieira, proferido em 1655. \n\nE para que um discurso tão importante e tão grave vá assentado sobre fundamentos sólidos e irrefragáveis¹, suponho primeiramente que sem restituição do alheio não pode haver salvação. [...] Quer dizer: se o alheio que se tomou ou retém, se pode restituir e não se restitui, a penitência deste e dos outros pecados não é verdadeira penitência, senão simulada e fingida, porque se não perdoa o pecado sem se restituir o roubado, quando quem o roubou tem possibilidade de o restituir. Esta única exceção da regra foi a felicidade do bom ladrão, e esta a razão por que ele se salvou, e também o mau se pudera salvar sem restituírem. Como ambos saíram do naufrágio desta vida despidos, e pegados a um pau, só esta sua extrema pobreza os podia absolver dos latrocínios que tinham cometido, porque impossibilitados à restituição ficavam desobrigados dela. Porém se o bom ladrão tivera bens com que restituir, ou em todo, ou em parte o que roubou, toda a sua fé e toda a sua penitência tão celebrada dos santos, não bastara a o salvar, se não restituísse. Duas coisas lhe faltavam a este venturoso homem para se salvar: uma como ladrão que tinha sido, outra como cristão que começava a ser. Como ladrão que tinha sido, faltava-lhe com que restituir: como cristão que começava a ser, faltava-lhe o batismo, mas assim como o sangue que derramou na cruz, lhe supriu o batismo, assim a sua desnudez, e a sua impossibilidade lhe supriu a restituição, e por isso se salvou. Vejam agora, de caminho, os que roubaram na vida; e nem na vida, nem na morte restituíram, antes na morte testaram de muitos bens, e deixaram grossas heranças a seus sucessores; vejam aonde irão ou terão ido suas almas, e se se podiam salvar. \n(Antônio Vieira. Essencial, 2011. Adaptado.)\n¹ irrefragável: irrefutável.\n\nDepreende-se do sermão que o bom ladrão se salvou porque, além de arrepender-se,",
+      principal: "Para responder às questões de 05 a 08, leia o trecho do \"Sermão do bom ladrão\", de Antônio Vieira, proferido em 1655. \n\nE para que um discurso tão importante e tão grave vá assentado sobre fundamentos sólidos e irrefragáveis¹, suponho primeiramente que sem restituição do alheio não pode haver salvação. [...] Quer dizer: se o alheio que se tomou ou retém, se pode restituir e não se restitui, a penitência deste e dos outros pecados não é verdadeira penitência, $\\sin$ão simulada e fingida, porque se não perdoa o pecado sem se restituir o roubado, quando quem o roubou tem possibilidade de o restituir. Esta única exceção da regra foi a felicidade do bom ladrão, e esta a razão por que ele se salvou, e também o mau se pudera salvar sem restituírem. Como ambos saíram do naufrágio desta vida despidos, e pegados a um pau, só esta sua extrema pobreza os podia absolver dos latrocínios que tinham cometido, porque impossibilitados à restituição ficavam desobrigados dela. Porém se o bom ladrão tivera bens com que restituir, ou em todo, ou em parte o que roubou, toda a sua fé e toda a sua penitência tão celebrada dos santos, não bastara a o salvar, se não restituísse. Duas coisas lhe faltavam a este venturoso homem para se salvar: uma como ladrão que tinha sido, outra como cristão que começava a ser. Como ladrão que tinha sido, faltava-lhe com que restituir: como cristão que começava a ser, faltava-lhe o batismo, mas assim como o sangue que derramou na cruz, lhe supriu o batismo, assim a sua desnudez, e a sua impossibilidade lhe supriu a restituição, e por isso se salvou. Vejam agora, de caminho, os que roubaram na vida; e nem na vida, nem na morte restituíram, antes na morte testaram de muitos bens, e deixaram grossas heranças a seus sucessores; vejam aonde irão ou terão ido suas almas, e se se podiam salvar. \n(Antônio Vieira. Essencial, 2011. Adaptado.)\n¹ irrefragável: irrefutável.\n\nDepreende-se do sermão que o bom ladrão se salvou porque, além de arrepender-se,",
       subItens: []
     },
     options: ["ele devolveu os bens que havia roubado.","ele jurou que iria devolver os bens que havia roubado.","ele, como era pobre, não tinha como devolver os bens que havia roubado.","ele, como era pobre, jurou que começaria a trabalhar para devolver os bens que havia roubado.","ele jurou que passaria a trabalhar para aqueles cujos bens havia roubado."],
@@ -243,7 +243,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Manifestantes colombianos usaram cordas para amarrar e derrubar a estátua de Cristóvão Colombo em Barranquilla, na Colômbia. No ato, eles gritaram \"Colombo, assassino\" e ergueram a Wiphala, a bandeira dos povos indígenas que cada vez ganha mais espaço nas manifestações dos países da América Latina. \nEm muitos lugares, as estátuas do navegador e explorador genovês que liderou a expedição espanhola ao chamado Novo Mundo, em 1492, e de outros colonizadores, além de militares, perderam o encanto do passado e agora são alvos de indignação na região. \n(www.g_{1}.globo.com. Adaptado.)\n\nO evento noticiado no excerto tem relação direta com",
+      principal: "Manifestantes colombianos usaram cordas para amarrar e derrubar a estátua de Cristóvão Colombo em Barranquilla, na Colômbia. No ato, eles gritaram \"Colombo, assassino\" e ergueram a Wiphala, a bandeira dos povos indígenas que cada vez ganha mais espaço nas manifestações dos países da América Latina. \nEm muitos lugares, as estátuas do navegador e explorador genovês que liderou a expedição espanhola ao chamado Novo Mundo, em 1492, e de outros colonizadores, além de militares, perderam o encanto do passado e agora são alvos de indignação na região. \n(www.$g_{1}$.globo.com. Adaptado.)\n\nO evento noticiado no excerto tem relação direta com",
       subItens: []
     },
     options: ["o modo eurocêntrico como a expansão marítima ocorreu, violentando os ameríndios de formas diversas.","a organização política imposta por Colombo ao se tornar governante da região, denominada Colômbia em sua homenagem.","o desejo de alterar os locais de exposição dessas estátuas, garantindo a preservação da memória de tais figuras históricas.","a aspiração dos americanos pela reparação financeira dos prejuízos causados pela colonização, buscando equilíbrio econômico.","a relevância de se valorizar os antepassados, tendo em vista suas glórias e omitindo suas controvérsias."],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Redução da reserva extrativista Jaci-Paraná\nPARNA\nMapinguari\nRio Madeira\nNova área de 45.185 hectares\nPerda de 151.712 hectares\nPorto Velho\nTI Karipuna\nTI Karitiana\nFLONA do\nBom Futuro\nRESEX JACI-PARANÁ\nRio Jariparaná\nRio Branco\nÁrea de 196.897 hectares\nAlto\nParaíso\nBuritis\nNova Mamoré\nRio Formoso\nCampo Novo\nde Rondônia\n\n(Jônatas Boni. www.g_{1}.globo.com, 21.05.2021. Adaptado.)\n\nConsiderando o mapa, a redução da reserva extrativista Jaci-Paraná poderá",
+      principal: "Redução da reserva extrativista Jaci-Paraná\nPARNA\nMapinguari\nRio Madeira\nNova área de 45.185 hectares\nPerda de 151.712 hectares\nPorto Velho\nTI Karipuna\nTI Karitiana\nFLONA do\nBom Futuro\nRESEX JACI-PARANÁ\nRio Jariparaná\nRio Branco\nÁrea de 196.897 hectares\nAlto\nParaíso\nBuritis\nNova Mamoré\nRio Formoso\nCampo Novo\nde Rondônia\n\n(Jônatas Boni. www.$g_{1}$.globo.com, 21.05.2021. Adaptado.)\n\nConsiderando o mapa, a redução da reserva extrativista Jaci-Paraná poderá",
       subItens: []
     },
     options: ["fortalecer na região práticas ambientais preservacionistas.","diminuir o impacto do desmatamento no entorno das unidades de conservação.","assegurar o uso sustentável dos recursos naturais em toda a área.","gerar maior pressão das atividades econômicas sobre as espécies vegetais.","produzir menor vulnerabilidade nas áreas próximas às terras indígenas."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Analise o gráfico. \n\nURSS - Evolução da taxa de crescimento\ndo produto nacional bruto (1956-1992)\n5,9%\n5,3%\n5%\n3,7%\n2,7%\n2,6%\n2,2%\n1989\n1990\n1991\n1992*\n$\\\\frac{JupiterUnlimited}{ImagePlus}$\n1956-60\n1961-65\n1966-70\n1971-75\n1976-80\n1981-84\n1985-88\n-2%\n-6%\n-11%\n* Dados da Rússia\n-19%\n\n(Elian Alabi Lucci. Território e sociedade no mundo globalizado, 2010.)\n\nOs dados analisados, no período de 1956 a 1992, sobre a União Soviética e a Rússia estão relacionados",
+      principal: "Analise o gráfico. \n\nURSS - Evolução da taxa de crescimento\ndo produto nacional bruto (1956-1992)\n5,9%\n5,3%\n5%\n3,7%\n2,7%\n2,6%\n2,2%\n1989\n1990\n1991\n1992*\nJupiterUnlimited/ImagePlus\n1956-60\n1961-65\n1966-70\n1971-75\n1976-80\n1981-84\n1985-88\n-2%\n-6%\n-11%\n* Dados da Rússia\n-19%\n\n(Elian Alabi Lucci. Território e sociedade no mundo globalizado, 2010.)\n\nOs dados analisados, no período de 1956 a 1992, sobre a União Soviética e a Rússia estão relacionados",
       subItens: []
     },
     options: ["ao aumento da produção de bens e serviços durante os governos socialistas.","à diminuição dos fluxos comerciais com os Estados Unidos.","ao enfraquecimento do parque produtivo soviético.","à ampliação da produção de gêneros agrícolas e matérias-primas.","às limitações práticas da economia de mercado."],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Considere os triângulos retângulos ABC e CBD, que têm o lado BC em comum, conforme mostra a figura, que também indica as medidas dos lados AC, BD e CD. \n\nα\nA\n2√13 cm\nC\nβ\nB\n3 cm\n5 cm\nD\n\nO valor de tg α + sen β é igual a:",
+      principal: "Considere os triângulos retângulos ABC e CBD, que têm o lado BC em comum, conforme mostra a figura, que também indica as medidas dos lados AC, BD e CD. \n\nα\nA\n2√13 cm\nC\nβ\nB\n3 cm\n5 cm\nD\n\nO valor de tg α + $\\sin$ β é igual a:",
       subItens: []
     },
     options: ["18/13","19/14","22/15","23/16","24/17"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Considere as funções f(x) = sen(x) e g(x) = 3cos(x) e que α e β são dois números reais. O maior valor possível para f(α) + g(β) é",
+      principal: "Considere as funções f(x) = $\\sin$(x) e g(x) = 3cos(x) e que α e β são dois números reais. O maior valor possível para f(α) + g(β) é",
       subItens: []
     },
     options: ["2.","3.","4.","5.","6."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Movendo-se com uma velocidade de 3 $\\\\frac{m}{s}$ em relação ao solo, as cinzas de um incêndio foram conduzidas pelo vento, do local do incêndio até um bairro vizinho, em um tempo de meia hora. Considerando que esta velocidade seja constante e que as cinzas percorreram um trajeto retilíneo sempre à mesma altura do solo, a distância do local do incêndio até o bairro vizinho, onde as cinzas foram detectadas, foi de",
+      principal: "Movendo-se com uma velocidade de 3 m/s em relação ao solo, as cinzas de um incêndio foram conduzidas pelo vento, do local do incêndio até um bairro vizinho, em um tempo de meia hora. Considerando que esta velocidade seja constante e que as cinzas percorreram um trajeto retilíneo sempre à mesma altura do solo, a distância do local do incêndio até o bairro vizinho, onde as cinzas foram detectadas, foi de",
       subItens: []
     },
     options: ["1,8 km.","3,6 km.","5,4 km.","7,2 km.","9,0 km."],
@@ -693,7 +693,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "O aprimoramento do arco e flecha fez surgir a besta ou balestra, arma capaz de lançar flechas com velocidades expressivas, possibilitando a sua penetração em armaduras. \n\n(www.turbosquid.com)\n\nNa besta, quando o cordame do arco é liberado, a flecha é impulsionada com aceleração constante por uma distância de 25 cm, fazendo com que ela alcance a velocidade de 180 $\\\\frac{km}{h}$. A aceleração com a qual a flecha é impulsionada é de",
+      principal: "O aprimoramento do arco e flecha fez surgir a besta ou balestra, arma capaz de lançar flechas com velocidades expressivas, possibilitando a sua penetração em armaduras. \n\n(www.turbosquid.com)\n\nNa besta, quando o cordame do arco é liberado, a flecha é impulsionada com aceleração constante por uma distância de 25 cm, fazendo com que ela alcance a velocidade de 180 km/h. A aceleração com a qual a flecha é impulsionada é de",
       subItens: []
     },
     options: ["2400 m/s².","3600 m/s².","4000 m/s².","4500 m/s².","5000 m/s²."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "O cano de uma arma de fogo foi mantido na direção horizontal, a 1,8 m do chão plano e horizontal, quando foi dado um tiro em que a velocidade do projétil, ao sair pela boca do cano, era de 60 $\\\\frac{m}{s}$. Levando-se em consideração que a aceleração da gravidade é 10 $\\\\frac{m}{s}$², a distância aproximada em que o projétil atingiu o chão, em relação à boca do cano da arma, foi de",
+      principal: "O cano de uma arma de fogo foi mantido na direção horizontal, a 1,8 m do chão plano e horizontal, quando foi dado um tiro em que a velocidade do projétil, ao sair pela boca do cano, era de 60 m/s. Levando-se em consideração que a aceleração da gravidade é 10 m/s², a distância aproximada em que o projétil atingiu o chão, em relação à boca do cano da arma, foi de",
       subItens: []
     },
     options: ["28 m.","36 m.","42 m.","54 m.","66 m."],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Suponha que o italiano Galileu Galilei tivesse de fato subido à torre de Pisa para demonstrar que duas esferas feitas de materiais diferentes, quando abandonadas do repouso no mesmo instante e de uma mesma altura de 58 m, atingem juntas o chão ao mesmo tempo. Considerando que a aceleração da gravidade vale 10 $\\\\frac{m}{s}$², o tempo de queda dessas duas esferas seria de, aproximadamente,",
+      principal: "Suponha que o italiano Galileu Galilei tivesse de fato subido à torre de Pisa para demonstrar que duas esferas feitas de materiais diferentes, quando abandonadas do repouso no mesmo instante e de uma mesma altura de 58 m, atingem juntas o chão ao mesmo tempo. Considerando que a aceleração da gravidade vale 10 m/s², o tempo de queda dessas duas esferas seria de, aproximadamente,",
       subItens: []
     },
     options: ["1,9 s.","2,8 s.","3,4 s.","4,2 s.","5,6 s."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "Um dispositivo foi projetado para medir a velocidade do ar, baseando-se na diferença de pressão dentro de um tubo. Em determinada ocasião, conforme o ar em movimento entra pelo orifício direito do tubo, o êmbolo é empurrado para baixo fazendo com que o fluido no lado esquerdo do tubo suba 4 cm, como mostra a figura. \n\nAr\n4 cm\nÊmbolo\nFluido\n\nSabendo que a densidade desse fluido é de 900 $\\\\frac{kg}{m}$³, que a aceleração da gravidade é 10 $\\\\frac{m}{s}$² e que o peso do êmbolo é desprezível, a diferença de pressão entre o nível do fluido na parte esquerda do tubo e o fluido sob o êmbolo, após ser empurrado para baixo, é de",
+      principal: "Um dispositivo foi projetado para medir a velocidade do ar, baseando-se na diferença de pressão dentro de um tubo. Em determinada ocasião, conforme o ar em movimento entra pelo orifício direito do tubo, o êmbolo é empurrado para baixo fazendo com que o fluido no lado esquerdo do tubo suba 4 cm, como mostra a figura. \n\nAr\n4 cm\nÊmbolo\nFluido\n\nSabendo que a densidade desse fluido é de 900 kg/m³, que a aceleração da gravidade é 10 m/s² e que o peso do êmbolo é desprezível, a diferença de pressão entre o nível do fluido na parte esquerda do tubo e o fluido sob o êmbolo, após ser empurrado para baixo, é de",
       subItens: []
     },
     options: ["90 Pa.","180 Pa.","270 Pa.","360 Pa.","540 Pa."],
@@ -873,7 +873,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "A vitamina C é uma substância muito importante para a manutenção da saúde do nosso sistema imunológico. Essa molécula, de massa molar 176 $\\\\frac{g}{mol}$, é constituída por átomos de carbono, hidrogênio e oxigênio (C₃H₄O₃) e sua fórmula mínima é C₃H₄O₃. \nA fórmula molecular da vitamina C é:",
+      principal: "A vitamina C é uma substância muito importante para a manutenção da saúde do nosso sistema imunológico. Essa molécula, de massa molar 176 g/mol, é constituída por átomos de carbono, hidrogênio e oxigênio (C₃H₄O₃) e sua fórmula mínima é C₃H₄O₃. \nA fórmula molecular da vitamina C é:",
       subItens: []
     },
     options: ["C₃H₄O₃","C₄H₃O₄","C₅H₁₀O₅","C₆H₈O₆","C₉H₁₂O₉"],
@@ -888,7 +888,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2022,
     text: {
-      principal: "O carbonato de cálcio (CaCO₃), de massa molar 100 $\\\\frac{g}{mol}$, é obtido das rochas calcáreas e é empregado na fabricação da cal (CaO), de massa molar 56 $\\\\frac{g}{mol}$, por meio da reação de decomposição representada na equação: \n\nCaCO₃(s) Δ→ CaO (s) + CO₂(g)\n\nO dióxido de carbono (CO₂) é o subproduto dessa reação e sua massa molar é 44 $\\\\frac{g}{mol}$. \nUma amostra de 200 g de carbonato de cálcio foi aquecida e foram coletados 56 g de cal. O rendimento desse processo foi de",
+      principal: "O carbonato de cálcio (CaCO₃), de massa molar 100 g/mol, é obtido das rochas calcáreas e é empregado na fabricação da cal (CaO), de massa molar 56 g/mol, por meio da reação de decomposição representada na equação: \n\nCaCO₃(s) Δ→ CaO (s) + CO₂(g)\n\nO dióxido de carbono (CO₂) é o subproduto dessa reação e sua massa molar é 44 g/mol. \nUma amostra de 200 g de carbonato de cálcio foi aquecida e foram coletados 56 g de cal. O rendimento desse processo foi de",
       subItens: []
     },
     options: ["25%.","44%.","50%.","56%.","88%."],

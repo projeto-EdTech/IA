@@ -243,7 +243,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Duas caixas A e B estão apoiadas na superfície horizon-tal da carroceria de um caminhão em repouso, como mostra a figura abaixo. Um operário aplica uma força de 36 N à caixa A de massa mA = 2,5 kg que está encosta-da à caixa B com massa mB = 3,5 kg. Considerando que o coeficiente de atrito entre cada caixa e a superfície horizontal é 0,45 e g = 10 $\\\\frac{m}{s}$², assinale o que for cor-reto.\nF\nA\nB",
+      principal: "Duas caixas A e B estão apoiadas na superfície horizon-tal da carroceria de um caminhão em repouso, como mostra a figura abaixo. Um operário aplica uma força de 36 N à caixa A de massa mA = 2,5 kg que está encosta-da à caixa B com massa mB = 3,5 kg. Considerando que o coeficiente de atrito entre cada caixa e a superfície horizontal é 0,45 e g = 10 m/s², assinale o que for cor-reto.\nF\nA\nB",
       subItens: []
     },
     options: ["As caixas A e B sofrem ação da força de 36 N e permanecem em contato apoiadas na mesma su-perfície. A caixa B, por estar mais distante da força aplicada pelo operário na caixa A, sofre um deslo-camento maior, para o mesmo intervalo de tempo.","A aceleração das caixas A e B, na situação descrita no enunciado, é de 1,5 m/s².","A aceleração das caixas A e B, supondo atrito des-prezível, é de 6 m/s².","De acordo com a segunda Lei de Newton, a inten-sidade da força que a caixa A aplica na caixa B é de 36 N."],
@@ -258,7 +258,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Um corpo cai livremente com aceleração de 10 $\\\\frac{m}{s}$². Supondo um sistema ideal, assinale o que for correto.",
+      principal: "Um corpo cai livremente com aceleração de 10 m/s². Supondo um sistema ideal, assinale o que for correto.",
       subItens: []
     },
     options: ["A distância percorrida pelo corpo é proporcional ao quadrado do tempo gasto para percorrê-la.","Se o corpo cair do repouso, de uma altura de 500 metros, levará 10 segundos para atingir o solo.","O movimento descrito pelo corpo ao cair é retilíneo e uniforme.","A velocidade com que o corpo, citado na afirmativa (02), chega ao solo, é de 100 m/s."],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A trave de equilíbrio é uma das modalidades da ginásti-ca artística. Em uma trave de 5 metros de comprimen-to, apoiada em equilíbrio em A e B, homogênea e de massa de 20 kg, encontra-se uma atleta como mostra a figura abaixo. Sabendo que a massa da atleta é 45 kg e a aceleração da gravidade é 10 $\\\\frac{m}{s}$², assinale o que for correto.\n1,2m\n3,8m\nA\nB",
+      principal: "A trave de equilíbrio é uma das modalidades da ginásti-ca artística. Em uma trave de 5 metros de comprimen-to, apoiada em equilíbrio em A e B, homogênea e de massa de 20 kg, encontra-se uma atleta como mostra a figura abaixo. Sabendo que a massa da atleta é 45 kg e a aceleração da gravidade é 10 m/s², assinale o que for correto.\n1,2m\n3,8m\nA\nB",
       subItens: []
     },
     options: ["O peso da barra é de 200 N.","A barra estará em equilíbrio para as seguintes con-dições:\n- A resultante das forças que agem na barra é nu-la.\n- O momento resultante das forças que agem na barra é nulo.","As intensidades das forças de reação nos apoios são FA = 160 N e FB = 40 N.","A ginasta estará em equilíbrio sobre a trave se ne-cessariamente estiver em repouso."],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "O gás carbônico (CO_{2}) é o principal responsável pelo efeito estufa, enquanto o dióxido de enxofre (SO_{2}) é um dos principais poluentes atmosféricos. Sobre o assunto, assinale o que for correto.\nDados:\nZ (número atômico) e E (eletronegatividade)\nC (Z=6, E=2,5); O (Z=8, E=3,5); S (Z=16, E=2,5)",
+      principal: "O gás carbônico ($CO_{2}$) é o principal responsável pelo efeito estufa, enquanto o dióxido de enxofre ($SO_{2}$) é um dos principais poluentes atmosféricos. Sobre o assunto, assinale o que for correto.\nDados:\nZ (número atômico) e E (eletronegatividade)\nC (Z=6, E=2,5); O (Z=8, E=3,5); S (Z=16, E=2,5)",
       subItens: []
     },
     options: ["A ligação existente entre os átomos de carbono e oxigênio na molécula do dióxido de carbono é a li-gação covalente.","A molécula de dióxido de carbono é polar.","A geometria existente na molécula do dióxido de enxofre é a angular.","A interação intermolecular entre as moléculas de dióxido de carbono é a interação dipolo permanen-te-dipolo permanente."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Considerando as funções abaixo, assinale o que for correto.\nf(x) = 2x - 6\ng(x) = x² + 4x - 3\nh(x) = ($\\\\frac{1}{3}$)^(x-1)\nm(x) = log₃(x²)\nn(x) = -4x + 7",
+      principal: "Considerando as funções abaixo, assinale o que for correto.\nf(x) = 2x - 6\ng(x) = x² + 4x - 3\nh(x) = (1/3)^(x-1)\nm(x) = log₃(x²)\nn(x) = -4x + 7",
       subItens: []
     },
     options: ["O vértice da parábola que representa a função g(x) tem coordenadas (2,9).","A função f(x) + n(x) tem sinal positivo para x ≥ 1.","As funções g(x) e f(x) interceptam-se nos pontos (3,0) e (-1,-8).","O gráfico da função m(h(x)) intercepta o eixo y no ponto (0,2)."],

@@ -93,7 +93,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Leia o texto a seguir.\n\nAmor e medo\n\nQuanto eu te fujo e me desvio cauto\nDa luz de fogo que te cerca, oh! bela,\nContigo dizes, suspirando amores:\n\"- Meu Deus! que gelo, que frieza aquela.\"\n\nComo te enganas! meu amor é chama\nQue se alimenta no voraz segredo,\nE se te fujo é que te adoro louco...\nÉs bela – eu moço; tens amor – eu medo!\n[...]\nAi! se eu te visse, Magdalena pura,\nSobre o veludo reclinada a meio,\nOlhos cerrados na volúpia doce,\nOs braços frouxos – palpitante o seio!...\n\nAi! se eu te visse em languidez sublime,\nNa face as rosas virginais do pejo,\nTrêmula a fala a protestar baixinho...\nVermelha a boca, soluçando um beijo!...\n\nDiz: - que seria da pureza d'anjo,\nDas vestes alvas, do candor das asas?\n- Tu te queimaras, a pisar descalça,\nCriança louca, – sobre um chão de brasas!\n\nNo fogo vivo eu me abrasara inteiro!\nÉbrio e sedento na fugaz vertigem\nVil, machucara com meu dedo impuro\nAs pobres flores da grinalda virgem!\n\nVampiro infame, eu sorveria em beijos\nToda a inocência que teu lábio encerra,\nE tu serias no lascivo abraço\nAnjo enlodado nos pauis da terra.\nDepois... desperta no febril delírio,\n\nOlhos pisados – como um vão lamento,\nTu perguntaras: – qu'é da minha c'roa?...\nEu te diria: - desfolhou-a o vento!...\n\nOh! não me chames coração de gelo!\nBem vês: traí-me no fatal segredo.\nSe de ti fujo é que te adoro e muito,\nÉs bela – eu moço; tens amor, eu – medo!...\n\nABREU, Casimiro. As primaveras. São Paulo: Livraria Editora Martins $\\\\frac{S}{A}$,\n1972. p. 54-56.\n\nNo poema transcrito, o medo de amar confessado pelo eu\nlírico é coerente com o ideal feminino dos poetas\nultrarromânticos. Sendo assim, a fuga da realização do\namor se justifica porque esse ato",
+      principal: "Leia o texto a seguir.\n\nAmor e medo\n\nQuanto eu te fujo e me desvio cauto\nDa luz de fogo que te cerca, oh! bela,\nContigo dizes, suspirando amores:\n\"- Meu Deus! que gelo, que frieza aquela.\"\n\nComo te enganas! meu amor é chama\nQue se alimenta no voraz segredo,\nE se te fujo é que te adoro louco...\nÉs bela – eu moço; tens amor – eu medo!\n[...]\nAi! se eu te visse, Magdalena pura,\nSobre o veludo reclinada a meio,\nOlhos cerrados na volúpia doce,\nOs braços frouxos – palpitante o seio!...\n\nAi! se eu te visse em languidez sublime,\nNa face as rosas virginais do pejo,\nTrêmula a fala a protestar baixinho...\nVermelha a boca, soluçando um beijo!...\n\nDiz: - que seria da pureza d'anjo,\nDas vestes alvas, do candor das asas?\n- Tu te queimaras, a pisar descalça,\nCriança louca, – sobre um chão de brasas!\n\nNo fogo vivo eu me abrasara inteiro!\nÉbrio e sedento na fugaz vertigem\nVil, machucara com meu dedo impuro\nAs pobres flores da grinalda virgem!\n\nVampiro infame, eu sorveria em beijos\nToda a inocência que teu lábio encerra,\nE tu serias no lascivo abraço\nAnjo enlodado nos pauis da terra.\nDepois... desperta no febril delírio,\n\nOlhos pisados – como um vão lamento,\nTu perguntaras: – qu'é da minha c'roa?...\nEu te diria: - desfolhou-a o vento!...\n\nOh! não me chames coração de gelo!\nBem vês: traí-me no fatal segredo.\nSe de ti fujo é que te adoro e muito,\nÉs bela – eu moço; tens amor, eu – medo!...\n\nABREU, Casimiro. As primaveras. São Paulo: Livraria Editora Martins S/A,\n1972. p. 54-56.\n\nNo poema transcrito, o medo de amar confessado pelo eu\nlírico é coerente com o ideal feminino dos poetas\nultrarromânticos. Sendo assim, a fuga da realização do\namor se justifica porque esse ato",
       subItens: []
     },
     options: ["macularia a pureza da amada, rebaixando-a à\ncondição de uma mulher vulgar.","extinguiria o desejo da amada, revelando-a\nindiferente aos apelos do sentido.","despertaria a lascívia da amada, contrariando seu\ndesejo de manter-se casta.","trairia o segredo da amada, desmascarando sua\nimagem de ser angelical."],
@@ -153,7 +153,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "INGLÊS\nLeia o texto a seguir para responder às questões de 11 a 14.\n\nAustralian Families – Then and Now\n\nSince the establishment of the Australian Institute of Families\nStudies (AIFS) in 1980, Australian families have undergone\nprofound changes. AIFS is releasing a series of fact sheets to\noutline some of the changes in Australian families over the last\nfour decades. This fact sheet focuses on some changes relating to\nAustralian household and family forms. It draws on census data\nextensively and uses the definitions for household and family by\nthe Australian Bureau of Statistics (ABS) which defines a\nhousehold as 'one or more persons, at least one of whom is at\nleast 15 years of age, usually resident in the same private\ndwelling' and a family as 'two or more persons, one of whom is\nat least 15 years of age, who are related by blood, marriage\n(registered or de facto), adoption, step or fostering, and who are\nusually resident in the same household'. A family household is a\nhousehold with a family (or more than one family) and some\nhouseholds may not contain family members.\n\nKey trends\nMulti-generation and\nextended-family\nhouseholds are\nuncommon in\nAustralia.\nOne-person households have become\nmore common, though the trend has\nbeen stable since 2006. There has\nbeen an increase in the proportion\nof older-couple households.\nHouseholds have become smaller and more diverse over time, with\nincreasing proportions of Indigenous and immigrant households.\nMost people report\npositive levels of\nsatisfaction with their\nfamily relationships,\nespecially with children,\ntheir current partner\nand parents.\nThere has been a\ndecline in families with\ndependent children but\nan increase in\ncouple-only families,\nespecially older\ncouples.\n\nDisponível em:\n<https://aifs.gov.$\\\\frac{au}{publications}$/households-and-families>.\nAcesso em: 28 nov. 2020. (Adaptado).\n\nO texto tem como objetivo informar o leitor sobre",
+      principal: "INGLÊS\nLeia o texto a seguir para responder às questões de 11 a 14.\n\nAustralian Families – Then and Now\n\nSince the establishment of the Australian Institute of Families\nStudies (AIFS) in 1980, Australian families have undergone\nprofound changes. AIFS is releasing a series of fact sheets to\noutline some of the changes in Australian families over the last\nfour decades. This fact sheet focuses on some changes relating to\nAustralian household and family forms. It draws on census data\nextensively and uses the definitions for household and family by\nthe Australian Bureau of Statistics (ABS) which defines a\nhousehold as 'one or more persons, at least one of whom is at\nleast 15 years of age, usually resident in the same private\ndwelling' and a family as 'two or more persons, one of whom is\nat least 15 years of age, who are related by blood, marriage\n(registered or de facto), adoption, step or fostering, and who are\nusually resident in the same household'. A family household is a\nhousehold with a family (or more than one family) and some\nhouseholds may not contain family members.\n\nKey trends\nMulti-generation and\nextended-family\nhouseholds are\nuncommon in\nAustralia.\nOne-person households have become\nmore common, though the trend has\nbeen stable since 2006. There has\nbeen an increase in the proportion\nof older-couple households.\nHouseholds have become smaller and more diverse over time, with\nincreasing proportions of Indigenous and immigrant households.\nMost people report\npositive levels of\nsatisfaction with their\nfamily relationships,\nespecially with children,\ntheir current partner\nand parents.\nThere has been a\ndecline in families with\ndependent children but\nan increase in\ncouple-only families,\nespecially older\ncouples.\n\nDisponível em:\n<https://aifs.gov.au/publications/households-and-families>.\nAcesso em: 28 nov. 2020. (Adaptado).\n\nO texto tem como objetivo informar o leitor sobre",
       subItens: []
     },
     options: ["o processo de estabelecimento do Instituto\nAustraliano de Estudos de Famílias ocorrido na\ndécada de 1980.","alguns dos dados demográficos obtidos no censo de\n1980 pelo Departamento Australiano de Estatística.","algumas das mudanças relacionadas às estruturas das\nfamílias australianas nas últimas quatro décadas.","a nova definição de família que será usada pelo\nInstituto Australiano de Estudos de Famílias para fins\nde censo."],
@@ -213,7 +213,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Analise a tira a seguir.\n\nWHAT DO YOU LOOK\nFOR IN A MAN?\n\nA SENSE OF HUMOR,\nINTEGRITY...\n\nHONESTY...\n\nAWARENESS OF HIS\nSURROUNDINGS.\n\nBLOTTA,\nRicardo.\nHumor\nGráfico.\nDisponível\nem:\n<https://johnhartstudios.$\\\\frac{com}{bcstrips}$/$\\\\frac{2020}{november}$/bc110220dc.jpg>.\nAcesso em: 28 nov. 2020.\n\nObservando a situação apresentada na tira, conclui-se que",
+      principal: "Analise a tira a seguir.\n\nWHAT DO YOU LOOK\nFOR IN A MAN?\n\nA SENSE OF HUMOR,\nINTEGRITY...\n\nHONESTY...\n\nAWARENESS OF HIS\nSURROUNDINGS.\n\nBLOTTA,\nRicardo.\nHumor\nGráfico.\nDisponível\nem:\n<https://johnhartstudios.com/bcstrips/2020/november/bc110220dc.jpg>.\nAcesso em: 28 nov. 2020.\n\nObservando a situação apresentada na tira, conclui-se que",
       subItens: []
     },
     options: ["a mulher lista expectativas irrealistas para um\nparceiro de relacionamento.","o homem não possui as características desejadas para\nser o parceiro da mulher.","a mulher possui um plano que pretende usar para\nencontrar o parceiro ideal.","o homem mostra sinais físicos de que está interessado\nem se relacionar com a mulher."],
@@ -243,7 +243,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Leia o texto a seguir.\n\nFoi seriamente abalado o sistema da fé dos modernos povos\neuropeus e a sua dogmática filosófica na sua validade universal\nquando, na corte de Frederico II Hohenstaufen, no século XIII,\nmaometanos e cristãos compararam entre si as suas convicções\ne no horizonte dos pensadores escolásticos entrou a filosofia de\nAverróis e de Aristóteles. Desde que reemergiu a Antiguidade,\nos escritores gregos e romanos foram compreendidos segundo\nos seus reais motivos, e a época dos descobrimentos\nincrementou o conhecimento da diversidade dos climas, dos\npovos e dos seus modos de pensar no nosso planeta.\n\nDILTHEY, W. Os tipos de concepção de mundo. Lusofia: press. Tradução Artur\nMorão. Disponível em:\n<http://www.lusosofia.$\\\\frac{net}{textos}$/dilthey_tipos_de_concep_ao_do_mundo.pdf>.\nAcesso em: 6 dez. 2020. p. 6. (Adaptado).\n\nO abalo mencionado no texto teve como desdobramento:",
+      principal: "Leia o texto a seguir.\n\nFoi seriamente abalado o sistema da fé dos modernos povos\neuropeus e a sua dogmática filosófica na sua validade universal\nquando, na corte de Frederico II Hohenstaufen, no século XIII,\nmaometanos e cristãos compararam entre si as suas convicções\ne no horizonte dos pensadores escolásticos entrou a filosofia de\nAverróis e de Aristóteles. Desde que reemergiu a Antiguidade,\nos escritores gregos e romanos foram compreendidos segundo\nos seus reais motivos, e a época dos descobrimentos\nincrementou o conhecimento da diversidade dos climas, dos\npovos e dos seus modos de pensar no nosso planeta.\n\nDILTHEY, W. Os tipos de concepção de mundo. Lusofia: press. Tradução Artur\nMorão. Disponível em:\n<http://www.lusosofia.net/textos/dilthey_tipos_de_concep_ao_do_mundo.pdf>.\nAcesso em: 6 dez. 2020. p. 6. (Adaptado).\n\nO abalo mencionado no texto teve como desdobramento:",
       subItens: []
     },
     options: ["a dissipação das convicções humanas.","a rejeição dos valores modernos.","o retorno da mitologia clássica.","o aumento da descrença religiosa."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Leia o texto a seguir.\n\nSegundo a Organização Mundial da Saúde (OMS), a gestação\nna adolescência é uma condição que eleva a prevalência de\ncomplicações para a mãe, para o feto e para o recém-nascido,\nalém de agravar problemas socioeconômicos já existentes. A\ntaxa de gestação na adolescência no Brasil é alta, com 400 mil\n$\\\\frac{casos}{ano}$. Quanto à faixa etária, os dados revelam que em\n2014 nasceram 28.244 filhos de meninas entre 10 e 14 anos e\n534.364 crianças de mães com idade entre 15 e 19 anos. Além\nda desinformação sobre sexualidade e direitos sexuais e\nreprodutivos, o uso inadequado de contraceptivos piora essa\ncondição.\n\nDisponível em: <http://bvsms.saude.gov.$\\\\frac{br}{ultimas}$-$\\\\frac{noticias}{3123}$-01-a-08-02-\nsemana-nacional-de-prevencao-da-gravidez-na-adolescencia>. Acesso em: 4 dez.\n2020. (Adaptado).\n\nNesse contexto, o método contraceptivo artificial menos\ninvasivo, e relativamente seguro, indicado para prevenção\nda gravidez nessa faixa etária é:",
+      principal: "Leia o texto a seguir.\n\nSegundo a Organização Mundial da Saúde (OMS), a gestação\nna adolescência é uma condição que eleva a prevalência de\ncomplicações para a mãe, para o feto e para o recém-nascido,\nalém de agravar problemas socioeconômicos já existentes. A\ntaxa de gestação na adolescência no Brasil é alta, com 400 mil\ncasos/ano. Quanto à faixa etária, os dados revelam que em\n2014 nasceram 28.244 filhos de meninas entre 10 e 14 anos e\n534.364 crianças de mães com idade entre 15 e 19 anos. Além\nda desinformação sobre sexualidade e direitos sexuais e\nreprodutivos, o uso inadequado de contraceptivos piora essa\ncondição.\n\nDisponível em: <http://bvsms.saude.gov.br/ultimas-noticias/3123-01-a-08-02-\nsemana-nacional-de-prevencao-da-gravidez-na-adolescencia>. Acesso em: 4 dez.\n2020. (Adaptado).\n\nNesse contexto, o método contraceptivo artificial menos\ninvasivo, e relativamente seguro, indicado para prevenção\nda gravidez nessa faixa etária é:",
       subItens: []
     },
     options: ["o uso de dispositivo intrauterino (DIU).","o coito interrompido.","a realização de vasectomia.","o uso de preservativos."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Uma partícula de carga q > 0 entra numa região com\ncampo magnético uniforme, no ponto (x_{0}=1,yo=1,zo=0), e\nsua trajetória, contida na região z < 0, é registrada\nconforme figura abaixo:\n\n(Image of a helical trajectory in a 3D coordinate system, winding around the y-axis, entering in the region z < 0.)\n\nQuais são, respectivamente, os vetores velocidade inicial\nda partícula e campo magnético, que permitem descrever\ntal trajetória, em termos de suas componentes?",
+      principal: "Uma partícula de carga q > 0 entra numa região com\ncampo magnético uniforme, no ponto ($x_{0}$=1,yo=1,zo=0), e\nsua trajetória, contida na região z < 0, é registrada\nconforme figura abaixo:\n\n(Image of a helical trajectory in a 3D coordinate system, winding around the y-axis, entering in the region z < 0.)\n\nQuais são, respectivamente, os vetores velocidade inicial\nda partícula e campo magnético, que permitem descrever\ntal trajetória, em termos de suas componentes?",
       subItens: []
     },
     options: ["v0=(vx,vy,0) e B=(0,By,0) com vx>0, vy> 0e By> 0.","v0=(-vx,vy,0) e B=(0,-By,0) com vx > 0, vy> 0 e By > 0.","v0=(-vx,-vy,0) e B=(0,-By,0) com vx > 0, vy> 0 e By> 0.","v0=(-vx,vy,0) e B=(0,By,0) com vx>0, vy> 0 e By> 0."],
@@ -633,7 +633,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Analise o cartum a seguir, em que há ênfase no\nconsumismo disseminado por meio da obsolescência\nprogramada.\n\nESSE IPOD NOVO\nTEM MAIS DE\nMIL FUNÇÕES!\n\nPRINCIPALMENTE\nA DE PIFAR\nLOGO PRA EU\nLUCRAR!\n\nDisponível em: <http://portaldoprofessor.mec.gov.$\\\\frac{br}{fichaTecnicaAula}$.html?\naula=58812>. Acesso em: 30 nov. 2020.\n\nA consequência do problema representado é:",
+      principal: "Analise o cartum a seguir, em que há ênfase no\nconsumismo disseminado por meio da obsolescência\nprogramada.\n\nESSE IPOD NOVO\nTEM MAIS DE\nMIL FUNÇÕES!\n\nPRINCIPALMENTE\nA DE PIFAR\nLOGO PRA EU\nLUCRAR!\n\nDisponível em: <http://portaldoprofessor.mec.gov.br/fichaTecnicaAula.html?\naula=58812>. Acesso em: 30 nov. 2020.\n\nA consequência do problema representado é:",
       subItens: []
     },
     options: ["o equilíbrio entre produção e consumo de bens.","o descarte adequado de resíduos.","o desenvolvimento de países pobres.","o aumento da contaminação ambiental."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "A densidade do ouro é de 19.3 $\\\\frac{g}{cm}$³. Ao analisar uma\namostra de metal dourado, um químico colocou essa\namostra em uma proveta com água e observou o\ndeslocamento de 0,5 ml de água. Ao pesar a amostra em\numa balança analítica, comprovou que era ouro ao obter a\nmassa de",
+      principal: "A densidade do ouro é de 19.3 g/cm³. Ao analisar uma\namostra de metal dourado, um químico colocou essa\namostra em uma proveta com água e observou o\ndeslocamento de 0,5 ml de água. Ao pesar a amostra em\numa balança analítica, comprovou que era ouro ao obter a\nmassa de",
       subItens: []
     },
     options: ["3,86 g.","9,65 g.","38,6 g.","96,5 g."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Observe o quadro a seguir que apresenta o nível de\ninstrução no Brasil, em 2019, das pessoas com 25 anos ou\nmais.\n\n(Bar chart showing education levels for people 25 years or older in Brazil - 2019, with percentages for each level from 'Sem instrução' to 'Ensino Superior completo'.)\n\nFonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios Contínua 2012-2019.\n\nDisponível em: <https://educa.ibge.gov.$\\\\frac{br}{jovens}$>. Acesso em: 6 dez. 2020.\n(Adaptado).\n\nConsidere que a população brasileira com 25 anos ou mais\nseja de 134 milhões. Nessas condições, o número de\npessoas, em milhões, que concluíram no mínimo o ensino\nmédio foi igual a",
+      principal: "Observe o quadro a seguir que apresenta o nível de\ninstrução no Brasil, em 2019, das pessoas com 25 anos ou\nmais.\n\n(Bar chart showing education levels for people 25 years or older in Brazil - 2019, with percentages for each level from 'Sem instrução' to 'Ensino Superior completo'.)\n\nFonte: IBGE, Diretoria de Pesquisas, Coordenação de Trabalho e Rendimento, Pesquisa Nacional por Amostra de Domicílios Contínua 2012-2019.\n\nDisponível em: <https://educa.ibge.gov.br/jovens>. Acesso em: 6 dez. 2020.\n(Adaptado).\n\nConsidere que a população brasileira com 25 anos ou mais\nseja de 134 milhões. Nessas condições, o número de\npessoas, em milhões, que concluíram no mínimo o ensino\nmédio foi igual a",
       subItens: []
     },
     options: ["65 392.","71 422.","36 716.","85 200."],
@@ -693,7 +693,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Leia o texto a seguir.\n\nA safra de grãos $\\\\frac{2020}{2021}$ do Brasil deve chegar a 268,7\nmilhões de toneladas. Isso representa 4,2% sobre a produção de\n$\\\\frac{2019}{2020}$, um recorde de produção.\n\nDisponível em: <https://www.canalrural.com.$\\\\frac{br}{noticias}$/agricultura>. Acesso\nem: 6 dez. 2020. (Adaptado).\n\nDe acordo com os dados apresentados, a produção da safra\n$\\\\frac{2019}{2020}$ no Brasil, em milhões de toneladas, foi\naproximadamente igual a",
+      principal: "Leia o texto a seguir.\n\nA safra de grãos 2020/2021 do Brasil deve chegar a 268,7\nmilhões de toneladas. Isso representa 4,2% sobre a produção de\n2019/2020, um recorde de produção.\n\nDisponível em: <https://www.canalrural.com.br/noticias/agricultura>. Acesso\nem: 6 dez. 2020. (Adaptado).\n\nDe acordo com os dados apresentados, a produção da safra\n2019/2020 no Brasil, em milhões de toneladas, foi\naproximadamente igual a",
       subItens: []
     },
     options: ["189,2.","257,8.","264,5.","280,0."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Considere a matriz A_{2}x_{2}, com entradas a_{11} = 4, a_{12}= 3, a_{21} = 8,\ne a_{22} = 6. A potência A² denota o produto de A por ela\nmesma, e o traço de A, denotado por trA, é definido como\na soma dos elementos da diagonal principal.\n\nQual valor de (trA)² + tr(A²) – (det[A])²⁰²⁰ - det[A²] ?",
+      principal: "Considere a matriz A2x2, com entradas $a_{11}$ = 4, $a_{12}$= 3, $a_{21}$ = 8,\ne $a_{22}$ = 6. A potência A² denota o produto de A por ela\nmesma, e o traço de A, denotado por trA, é definido como\na soma dos elementos da diagonal principal.\n\nQual valor de (trA)² + tr(A²) – (det[A])²⁰²⁰ - det[A²] ?",
       subItens: []
     },
     options: ["2 220.","2.000.","220.","200."],
@@ -828,7 +828,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Considerando os números complexos\nz₁ = 1 − i; z₂ = √2 ρί.π/4\nentão, a razão entre as raízes $\\\\frac{z_{2}}{z}$₁ é igual a",
+      principal: "Considerando os números complexos\nz₁ = 1 − i; z₂ = √2 ρί.π/4\nentão, a razão entre as raízes $z_{2}$/z₁ é igual a",
       subItens: []
     },
     options: ["-i.","i.","-i/2.","i/2."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2021,
     text: {
-      principal: "Leia o texto a seguir.\n\nA Secretaria da Saúde de Goiás (SES-GO) informou que, até 4\nde dezembro de 2020, havia 285 465 casos de Covid-19 no\nterritório goiano. Destes, há o registro de 274 412 pessoas\nrecuperadas e 6 438 óbitos confirmados.\n\nDisponível em: <https://www.goias.gov.$\\\\frac{br}{servico}$>. Acesso em: 6 dez. 2020.\n(Adaptado).\n\nDe acordo com os dados apresentados, a taxa de letalidade\né aproximadamente igual a",
+      principal: "Leia o texto a seguir.\n\nA Secretaria da Saúde de Goiás (SES-GO) informou que, até 4\nde dezembro de 2020, havia 285 465 casos de Covid-19 no\nterritório goiano. Destes, há o registro de 274 412 pessoas\nrecuperadas e 6 438 óbitos confirmados.\n\nDisponível em: <https://www.goias.gov.br/servico>. Acesso em: 6 dez. 2020.\n(Adaptado).\n\nDe acordo com os dados apresentados, a taxa de letalidade\né aproximadamente igual a",
       subItens: []
     },
     options: ["0,02%.","0,22%.","2,26%.","22,60%."],

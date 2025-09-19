@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Em países de inverno rigoroso, os lagos e os rios congelam-se na superfície, e a água de máxima densidade, isto é, a 4°C, encontra-se no fundo. Esse fato é de fundamental importância para a preservação da fauna e da flora locais. Considerando que a entalpia de fusão da água é de 7,$\\\\frac{3kJ}{mol}$ e usando conceitos físico-químicos, assinale o que for correto.",
+      principal: "Em países de inverno rigoroso, os lagos e os rios congelam-se na superfície, e a água de máxima densidade, isto é, a 4°C, encontra-se no fundo. Esse fato é de fundamental importância para a preservação da fauna e da flora locais. Considerando que a entalpia de fusão da água é de 7,3kJ/mol e usando conceitos físico-químicos, assinale o que for correto.",
       subItens: []
     },
     options: ["A água entre 0°C e 4°C apresenta coeficiente de dilatação volumétrica negativo.","Na escala absoluta (Kelvin), a água, a aproximadamente 277K, está com densidade máxima.","Rios e lagos descongelam mais facilmente devido ao baixo calor específico da água.","36,5kJ de calor seriam suficientes para fundir 5mols de água.","Em lagos de água salgada a água não congela a 0°C."],
@@ -303,7 +303,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "A partir das informações contidas nos itens I e II e na tabela a seguir, e considerando conceitos de Termoquímica, assinale o que for correto. \nI) A entalpia de neutralização de um ácido forte por uma base forte é de -$\\\\frac{58kJ}{mol}$ de água formada.\nII) Cl - Cl(g) + H - O - H(g) → H – Cl(g) + H − O – Cl(g)\nLigação             Energia de ligação ($\\\\frac{kJ}{mol}$) a 25°C e latm\nCl - Cl             243\nH-O                464\nH-Cl               431\nCl-O               205",
+      principal: "A partir das informações contidas nos itens I e II e na tabela a seguir, e considerando conceitos de Termoquímica, assinale o que for correto. \nI) A entalpia de neutralização de um ácido forte por uma base forte é de -58kJ/mol de água formada.\nII) Cl - Cl(g) + H - O - H(g) → H – Cl(g) + H − O – Cl(g)\nLigação             Energia de ligação (kJ/mol) a 25°C e latm\nCl - Cl             243\nH-O                464\nH-Cl               431\nCl-O               205",
       subItens: []
     },
     options: ["A neutralização do HCl por NaOH terá variação de entalpia de -58kJ, enquanto a neutralização do HOCl liberará menor energia.","A variação de entalpia da reação química do item II será de +71 kJ.","Dentre todos os componentes da reação mostrada no item II, aquele que consome maior energia em sua decomposição é a água.","A energia de ligação é a energia absorvida na quebra de ligações em qualquer que seja o estado físico dos reagentes.","O processo que envolve a formação das ligações químicas é exotérmico."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Foram misturados 400mL de uma solução aquosa (que era 3% em massa de NaOH) com 600mL de uma solução aquosa (que era 10% em massa de KOH). Considerando as densidades das soluções inicial e final iguais a $\\\\frac{1g}{mL}$, assinale o que for correto.",
+      principal: "Foram misturados 400mL de uma solução aquosa (que era 3% em massa de NaOH) com 600mL de uma solução aquosa (que era 10% em massa de KOH). Considerando as densidades das soluções inicial e final iguais a 1g/mL, assinale o que for correto.",
       subItens: []
     },
     options: ["A solução inicial de NaOH era constituída por 376g de água e por 24g de NaOH.","A massa total da solução final é 1 kg.","O título da solução final é de 6% em KOH e de 1,2% em NaOH.","As concentrações inicial e final de NaOH equivalem a 0,75mol/L e a 0,3mol/L, respectivamente.","A solução final encontra-se mais concentrada que as soluções iniciais."],

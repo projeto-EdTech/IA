@@ -333,7 +333,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "Leia a noticia sobre as queimadas no estado do Amazonas e responda sobre o sistema de sensoriamento remoto:\n\n\"O Instituto Nacional de Pesquisas Espaciais (Inpe) registrou 2.392 focos de incêndio no Amazonas em outubro, um aumento de 151% em relação ao registrado no mesmo período do ano passado. Em 17 anos, este é o terceiro maior índice de queimadas registrado no Estado, perdendo apenas para setembro, com 5.882 focos, e agosto, com 4.548 registros. Os recordes são todos de 2015.\" Fonte: Luana Carvalho in: acrítica.com $\\\\frac{28}{10}$/2015.\n\nI. Focos de incêndios e queimadas podem ser monitorados atualmente, pelo sistema de sensoriamento remoto;\nII. O sensoriamento remoto constitui um conjunto de técnicas, utilizadas somente para identificar crimes ambientais;\nIII. Veículos espaciais tripulados e não tripulados, auxiliaram esses estudos, como os satélites meteorológicos, por exemplo;\nIV. A reflectância é um dos principais componentes dos estudos relacionados ao sensoriamento remoto;\nV. A evolução dessa técnica ocorreu a partir da tomada de fotografias, com visada lateral aérea, a bordo de grandes navios;\nVI. Por meio do sensoriamento remoto, é possível identificar uma área de queimada e uma área de floresta.\n\nAssinale a alternativa correta:",
+      principal: "Leia a noticia sobre as queimadas no estado do Amazonas e responda sobre o sistema de sensoriamento remoto:\n\n\"O Instituto Nacional de Pesquisas Espaciais (Inpe) registrou 2.392 focos de incêndio no Amazonas em outubro, um aumento de 151% em relação ao registrado no mesmo período do ano passado. Em 17 anos, este é o terceiro maior índice de queimadas registrado no Estado, perdendo apenas para setembro, com 5.882 focos, e agosto, com 4.548 registros. Os recordes são todos de 2015.\" Fonte: Luana Carvalho in: acrítica.com 28/10/2015.\n\nI. Focos de incêndios e queimadas podem ser monitorados atualmente, pelo sistema de sensoriamento remoto;\nII. O sensoriamento remoto constitui um conjunto de técnicas, utilizadas somente para identificar crimes ambientais;\nIII. Veículos espaciais tripulados e não tripulados, auxiliaram esses estudos, como os satélites meteorológicos, por exemplo;\nIV. A reflectância é um dos principais componentes dos estudos relacionados ao sensoriamento remoto;\nV. A evolução dessa técnica ocorreu a partir da tomada de fotografias, com visada lateral aérea, a bordo de grandes navios;\nVI. Por meio do sensoriamento remoto, é possível identificar uma área de queimada e uma área de floresta.\n\nAssinale a alternativa correta:",
       subItens: []
     },
     options: ["Somente as afirmativas I e IV estão incorretas.","Somente as afirmativas II e III estão incorretas.","Somente as afirmativas II e V estão incorretas.","Somente as afirmativas III e VI estão incorretas.","Somente as afirmativas V e VI estão incorretas."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "As reações químicas são alterações que ocorrem nas moléculas: na forma como estão constituídas, como seus átomos estão agrupados etc. Observam-se nas reações químicas algumas uniformidades. Certas regras servem para classificá-las, uma das quais relaciona as classes de substâncias que reagem (reagentes) e as classes de substâncias formadas (produtos). A seguir são mostradas reações que têm em comum o ácido sulfúrico (H_{2}SO_{4}) como um dos reagentes:\n\nI. H_{2}SO_{4} + Na_{2}CO_{3} → Na_{2}SO_{4} + H_{2}O +CO_{2}\nII. 2H2SO4 + Cu → CuSO_{4} + 2H2O +SO_{2}\nIII. H_{2}SO_{4} +2K2CrO4 → K_{2}Cr2O7 + K_{2}SO_{4} + H_{2}O\nIV. H_{2}SO_{4} + 2NH3 → (NH_{4})2SO4\n\nObservando as reações anteriores, qual(is) equação(ões) representa(m) uma reação de oxidação-redução?",
+      principal: "As reações químicas são alterações que ocorrem nas moléculas: na forma como estão constituídas, como seus átomos estão agrupados etc. Observam-se nas reações químicas algumas uniformidades. Certas regras servem para classificá-las, uma das quais relaciona as classes de substâncias que reagem (reagentes) e as classes de substâncias formadas (produtos). A seguir são mostradas reações que têm em comum o ácido sulfúrico (H2SO4) como um dos reagentes:\n\nI. H2SO4 + Na2CO3 → Na2SO4 + H2O +$CO_{2}$\nII. 2H2SO4 + Cu → $CuSO_{4}$ + 2H2O +$SO_{2}$\nIII. H2SO4 +2K2CrO4 → K2Cr2O7 + K2SO4 + H2O\nIV. H2SO4 + 2NH3 → ($NH_{4}$)2SO4\n\nObservando as reações anteriores, qual(is) equação(ões) representa(m) uma reação de oxidação-redução?",
       subItens: []
     },
     options: ["Somente a reação II.","Somente a reação III","Somente as reações I ell","Somente as reações I e IV","Somente as reações II e III"],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "Em uma aula prática de laboratório sobre a Lei da Conservação de Massas (Antoine Laurent Lavoisier, 1743-1794), um estudante transferiu um volume de ácido clorídrico (HCl) para uma proveta aberta contendo um pedaço de magnésio (Mg). Ocorreu a reação química, tal como mostrado na equação a seguir.\n\n2HCl(aq) + Mg(s) → MgCl_{2}(aq) + H_{2}(g)\n\nDados registrados para a reação química:\n\nMassa de Mg: 0,24 g\nMassa de solução de HCl: 5,49 g\nMassa total das substâncias na proveta antes da reação: 5,73 g\nMassa total das substâncias na proveta após a reação: 5,71 g\n\nA massa total das substâncias na proveta, antes da reação é diferente da massa total após a reação, por quê?",
+      principal: "Em uma aula prática de laboratório sobre a Lei da Conservação de Massas (Antoine Laurent Lavoisier, 1743-1794), um estudante transferiu um volume de ácido clorídrico (HCl) para uma proveta aberta contendo um pedaço de magnésio (Mg). Ocorreu a reação química, tal como mostrado na equação a seguir.\n\n2HCl(aq) + Mg(s) → $MgCl_{2}$(aq) + $H_{2}$(g)\n\nDados registrados para a reação química:\n\nMassa de Mg: 0,24 g\nMassa de solução de HCl: 5,49 g\nMassa total das substâncias na proveta antes da reação: 5,73 g\nMassa total das substâncias na proveta após a reação: 5,71 g\n\nA massa total das substâncias na proveta, antes da reação é diferente da massa total após a reação, por quê?",
       subItens: []
     },
     options: ["O HCl e Mg reagem para formar um complexo.","O HCl e Mg reagem lentamente.","O HCl e Mg reagem para formar um precipitado.","O hidrogênio produzido é um gás.","O cloreto de magnésio produzido é solúvel."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "A amônia, NH_{3}, à temperatura ambiente e pressão atmosférica, é um gás tóxico, corrosivo na presença de umidade, inflamável, incolor, com odor muito irritante e altamente solúvel em água. Ela tem diversas aplicações, como processo de refrigeração, produção de fertilizantes, agente neutralizante de ácidos, processo de metais cobre, níquel e molibdênio de seus minérios, produção de ácido nítrico e explosivos etc. A amônia é produzida de acordo com a equação:\n\nN_{2}(g) + 3H2(g) → 2NH3(g).\n\nEm um experimento, 0,25 mol de NH_{3} é formada quando 0,5 mol de N_{2} reage com 0,5 mol de H_{2}. Calcule o rendimento percentual de amônia:",
+      principal: "A amônia, $NH_{3}$, à temperatura ambiente e pressão atmosférica, é um gás tóxico, corrosivo na presença de umidade, inflamável, incolor, com odor muito irritante e altamente solúvel em água. Ela tem diversas aplicações, como processo de refrigeração, produção de fertilizantes, agente neutralizante de ácidos, processo de metais cobre, níquel e molibdênio de seus minérios, produção de ácido nítrico e explosivos etc. A amônia é produzida de acordo com a equação:\n\n$N_{2}$(g) + 3H2(g) → 2NH3(g).\n\nEm um experimento, 0,25 mol de $NH_{3}$ é formada quando 0,5 mol de $N_{2}$ reage com 0,5 mol de $H_{2}$. Calcule o rendimento percentual de amônia:",
       subItens: []
     },
     options: ["25%","33%","50%","67%","75%"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "Em todas as questões que forem necessárias o uso da aceleração da gravidade, adote g = $\\\\frac{10m}{s}$², e da densidade da água, adote p = 1g / cm³.\n\nUm estudante precisava obter, experimentalmente, o período de um pêndulo simples, T. No entanto, não lembrava a expressão física desta grandeza, apenas lembrava-se das explicações de seu professor de que o período é medido em unidade de tempo, e depende apenas do comprimento do pêndulo e da aceleração da gravidade local. Decidiu assumir que T = k lᵃgᵇ, onde k é uma constante adimensional, l é o comprimento do pêndulo e g a aceleração da gravidade. Por meio de análise dimensional, que é uma poderosa ferramenta para evitar memorizar equações físicas, o estudante encontrou os seguintes valores das constantes a e b na expressão proposta para o período:",
+      principal: "Em todas as questões que forem necessárias o uso da aceleração da gravidade, adote g = 10m/s², e da densidade da água, adote p = 1g / cm³.\n\nUm estudante precisava obter, experimentalmente, o período de um pêndulo simples, T. No entanto, não lembrava a expressão física desta grandeza, apenas lembrava-se das explicações de seu professor de que o período é medido em unidade de tempo, e depende apenas do comprimento do pêndulo e da aceleração da gravidade local. Decidiu assumir que T = k lᵃgᵇ, onde k é uma constante adimensional, l é o comprimento do pêndulo e g a aceleração da gravidade. Por meio de análise dimensional, que é uma poderosa ferramenta para evitar memorizar equações físicas, o estudante encontrou os seguintes valores das constantes a e b na expressão proposta para o período:",
       subItens: []
     },
     options: ["a = 1/2 e b = −1/2","a = 1/2 e b = −1","a = 1 e b = −1/2","a = -1/2 e b = 1/2","a = 1/2 e b = 1/2"],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "Qual o consumo anual de gasolina no Brasil? Estime a ordem de grandeza desse consumo anual assumindo que a população do Brasil é de 200 milhões e que existe 1 carro para cada 4 habitantes. Assuma ainda que o consumo de gasolina por carro seja 10 $\\\\frac{km}{l}$ e que cada carro viaje anualmente 16 mil quilômetros. A ordem de grandeza é:",
+      principal: "Qual o consumo anual de gasolina no Brasil? Estime a ordem de grandeza desse consumo anual assumindo que a população do Brasil é de 200 milhões e que existe 1 carro para cada 4 habitantes. Assuma ainda que o consumo de gasolina por carro seja 10 km/l e que cada carro viaje anualmente 16 mil quilômetros. A ordem de grandeza é:",
       subItens: []
     },
     options: ["10⁹ litros","10¹⁰ litros","10¹¹ litros","8x10⁹ litros","8x10¹⁰ litros"],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "Três bolas idênticas e com a mesma velocidade são lançadas de um prédio, saindo de um mesmo ponto. Pela figura a seguir, observamos que a primeira é lançada horizontalmente, a segunda em um ângulo acima da horizontal e a terceira em um ângulo abaixo da horizontal. Desprezando a resistência do ar, classifique as intensidades das velocidades das bolas em um instante anterior a atingir o solo:\n\n[Imagem mostrando três trajetórias de bolas lançadas de um mesmo ponto, com diferentes ângulos de lançamento: horizontal (1), para cima (2), para baixo (3). Abaixo, as bolas são rotuladas como V_{1}, V_{2}, V_{3}, e a pergunta se refere à classificação de suas velocidades em um instante anterior a atingir o solo.]",
+      principal: "Três bolas idênticas e com a mesma velocidade são lançadas de um prédio, saindo de um mesmo ponto. Pela figura a seguir, observamos que a primeira é lançada horizontalmente, a segunda em um ângulo acima da horizontal e a terceira em um ângulo abaixo da horizontal. Desprezando a resistência do ar, classifique as intensidades das velocidades das bolas em um instante anterior a atingir o solo:\n\n[Imagem mostrando três trajetórias de bolas lançadas de um mesmo ponto, com diferentes ângulos de lançamento: horizontal (1), para cima (2), para baixo (3). Abaixo, as bolas são rotuladas como $V_{1}$, $V_{2}$, $V_{3}$, e a pergunta se refere à classificação de suas velocidades em um instante anterior a atingir o solo.]",
       subItens: []
     },
     options: ["V₁ = V2 = V3","V₁ < V2 > V3","V₁ = V2 > V3","V₁ > V2 > V3","V₁ < V2 < V3"],
@@ -693,7 +693,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "Seja f:R → R uma função quadrática com raízes x₁ = 1 e x_{2} = 5, tal que seu valor máximo é yv = 4. A lei que melhor define esta função é:",
+      principal: "Seja f:R → R uma função quadrática com raízes x₁ = 1 e $x_{2}$ = 5, tal que seu valor máximo é yv = 4. A lei que melhor define esta função é:",
       subItens: []
     },
     options: ["f(x) = -x² + 6x – 5","f(x) = x² - 6x + 5","f(x) = −2x² + 12x−10","f(x) = 2x² - 12x + 10","f(x) = -2x² - 12x + 10"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "A curva do gráfico a seguir representa a função f:R+ → R dada por f(x) = log₁/₂ x. Se B dista 4cm da origem, a área do triângulo ABC é igual a:\n\n[Imagem de um gráfico cartesiano com uma função logarítmica decrescente f(x)=$\\\\frac{log_1}{2}$(x), e um triângulo ABC, onde A=(1,0), B é um ponto no eixo x, e C é um ponto na curva e na vertical de B. O ponto B está a 4cm da origem.]",
+      principal: "A curva do gráfico a seguir representa a função f:R+ → R dada por f(x) = log₁/₂ x. Se B dista 4cm da origem, a área do triângulo ABC é igual a:\n\n[Imagem de um gráfico cartesiano com uma função logarítmica decrescente f(x)=log_1/2(x), e um triângulo ABC, onde A=(1,0), B é um ponto no eixo x, e C é um ponto na curva e na vertical de B. O ponto B está a 4cm da origem.]",
       subItens: []
     },
     options: ["6cm²","5cm²","4cm²","3cm²","2cm²"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Prova de conhecimentos gerais",
     year: 2017,
     text: {
-      principal: "Apenas três degraus dão acesso à porta de uma escola, sendo que cada um tem 20 cm de altura. Para atender portadores de necessidades especiais, será construída uma rampa respeitando a legislação em vigor. A rampa deve formar, com o solo, um ângulo de 6º, conforme mostra a figura a seguir.\n\n[Imagem de uma rampa sendo construída sobre degraus. Os degraus têm altura total e a rampa forma um ângulo de 6 graus com o solo. A letra C indica o comprimento da rampa.]\n\nO comprimento C desta rampa em metros será aproximadamente de:\n\nDados: sen 6° ≈ 0,1045, cos 6° ≈ 0,9945",
+      principal: "Apenas três degraus dão acesso à porta de uma escola, sendo que cada um tem 20 cm de altura. Para atender portadores de necessidades especiais, será construída uma rampa respeitando a legislação em vigor. A rampa deve formar, com o solo, um ângulo de 6º, conforme mostra a figura a seguir.\n\n[Imagem de uma rampa sendo construída sobre degraus. Os degraus têm altura total e a rampa forma um ângulo de 6 graus com o solo. A letra C indica o comprimento da rampa.]\n\nO comprimento C desta rampa em metros será aproximadamente de:\n\nDados: $\\sin$ 6° ≈ 0,1045, cos 6° ≈ 0,9945",
       subItens: []
     },
     options: ["5,57","5,74","6,53","8,26","8,84"],

@@ -618,7 +618,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "\"Bioética é um neologismo derivado das palavras gregas bios (vida) e ethike (ética). Pode-se defini-la como sendo o estudo sistemático das dimensões morais – incluindo visão, decisão, conduta e normas morais – das ciências da vida e da saúde, utilizando uma variedade de metodologias éticas num contexto interdisciplinar.” (REICH, W. T. (org.) Encyclopedia of bioethics. 2 ed., v. 1. Nova York: Macmillan Press, 1995, p. XXI. Apud PESSINI L.; BARCHIFONTAINE, C. de P. Problemas atuais de bioética. São Paulo: Loyola, $\\\\frac{s}{d}$, p. 31).\nSobre a bioética, assinale o que for correto.",
+      principal: "\"Bioética é um neologismo derivado das palavras gregas bios (vida) e ethike (ética). Pode-se defini-la como sendo o estudo sistemático das dimensões morais – incluindo visão, decisão, conduta e normas morais – das ciências da vida e da saúde, utilizando uma variedade de metodologias éticas num contexto interdisciplinar.” (REICH, W. T. (org.) Encyclopedia of bioethics. 2 ed., v. 1. Nova York: Macmillan Press, 1995, p. XXI. Apud PESSINI L.; BARCHIFONTAINE, C. de P. Problemas atuais de bioética. São Paulo: Loyola, s/d, p. 31).\nSobre a bioética, assinale o que for correto.",
       subItens: []
     },
     options: ["Foi fundada por Aristóteles (século IV a.C.), com a primeira classificação dos seres vivos e a elaboração de um sistema de ética como um conjunto de princípios orientados para promover o bem-estar dos animais e dos seres humanos.","O Principialismo é um paradigma da bioética que adota a autonomia, a beneficência, a não maleficência e a justiça como princípios da ação médico-clínica para a solução de problemas éticos relacionados à saúde humana.","A bioética tem como uma de suas principais características a interdisciplinaridade, pois dela participam filósofos, sociólogos, teólogos, psicólogos, eticistas, entre outros.","O Código de Nuremberg, que contém a formulação de princípios da bioética, serviu de guia para as pesquisas de cientistas alemães durante a Segunda Guerra Mundial.","A casuística, a feminista, a naturalista, a personalista, a contratualista, a hermenêutica e a libertária são algumas das tendências da bioética."],
@@ -918,7 +918,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Os peixes absorvem o gás oxigênio (O_{2}) dissolvido na água. Na natureza a quantidade adequada de O_{2} na água é fornecida pelo próprio ambiente. Entretanto, sabe-se que o aumento de descarte de rejeitos domésticos e industriais (não tratados corretamente e lançados em rios e lagos) causa uma drástica redução do O_{2} dissolvido nesses corpos d'água, o que pode ocasionar a mortandade de peixes. Com base nas informações do quadro a seguir, assinale o que for correto.\n\nTemperatura (°C) | 7 | 10 | 15 | 20 | 25\nSolubilidade ($\\\\frac{mg}{L}$) | 11,5 | 11,0 | 9,8 | 8,8 | 8,0\nà pressão de 1atm",
+      principal: "Os peixes absorvem o gás oxigênio ($O_{2}$) dissolvido na água. Na natureza a quantidade adequada de $O_{2}$ na água é fornecida pelo próprio ambiente. Entretanto, sabe-se que o aumento de descarte de rejeitos domésticos e industriais (não tratados corretamente e lançados em rios e lagos) causa uma drástica redução do $O_{2}$ dissolvido nesses corpos d'água, o que pode ocasionar a mortandade de peixes. Com base nas informações do quadro a seguir, assinale o que for correto.\n\nTemperatura (°C) | 7 | 10 | 15 | 20 | 25\nSolubilidade (mg/L) | 11,5 | 11,0 | 9,8 | 8,8 | 8,0\nà pressão de 1atm",
       subItens: []
     },
     options: ["Em regiões mais quentes haverá maior probabilidade de mortandade de peixes em casos de poluição aquática severa.","A quantidade de O2 dissolvido na água a 25°C é pelo menos 27,3% menor do que a 10°C.","A solubilidade do O2 a 20°C é de_2,75×10⁻⁴ mol/L.","A solubilidade do O2 em água é diretamente proporcional à temperatura.","Em lagos com condições semelhantes de temperatura, mas posicionados geograficamente em diferentes altitudes (variação de pressão atmosférica), aquele que estiver no nível do mar terá maior concentração de O2 dissolvido."],
@@ -963,7 +963,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Considere o seguinte jogo: um computador inicialmente escolhe um número real p∈ [-1,1] e a função sen(x). Uma pessoa que não tem conhecimento do valor de p nem da função deve escolher um número n do conjunto {0, π/4, 2π/4, 3π/4, 4π/4, 5π/4, 6π/4, 7π/4, 8π/4}. Se sen(n) ≤ p, a pessoa é declarada vencedora; caso contrário é declarada perdedora. Assinale o que for correto.",
+      principal: "Considere o seguinte jogo: um computador inicialmente escolhe um número real p∈ [-1,1] e a função $\\sin$(x). Uma pessoa que não tem conhecimento do valor de p nem da função deve escolher um número n do conjunto {0, π/4, 2π/4, 3π/4, 4π/4, 5π/4, 6π/4, 7π/4, 8π/4}. Se $\\sin$(n) ≤ p, a pessoa é declarada vencedora; caso contrário é declarada perdedora. Assinale o que for correto.",
       subItens: []
     },
     options: ["Se p = -√2/2, a probabilidade de essa pessoa ser vencedora é 1/3.","Se a pessoa escolher n = π/2, sempre sairá vencedora, independentemente do valor de p.","Se a pessoa escolher um valor aleatoriamente no conjunto, a probabilidade de ser vencedora é 2/9, independentemente do valor de p.","O valor de p para o qual há exatamente cinco valores vencedores no conjunto é p = 0.","Suponha que a pessoa foi informada de que a função pode ser sen(x) ou cos(x). Então ela sempre poderá ser vencedora na primeira jogada, independentemente do valor de p."],
@@ -1008,7 +1008,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Signalez quel(s) choix ci-dessous $\\\\frac{est}{sont}$ à l'origine de la profession de zémidjan.",
+      principal: "Signalez quel(s) choix ci-dessous est/sont à l'origine de la profession de zémidjan.",
       subItens: []
     },
     options: ["Les difficultés des taxis d'accéder à quelques régions des grandes villes.","Une grave crise économique traversée par le Bénin aux années 1980.","Les démissions en masse des entreprises et de la fonction publique.","La profession était déjà réglementée par l'État avant les années 1980.","Beaucoup d'entre les démissionés possédaient déjà des motos."],

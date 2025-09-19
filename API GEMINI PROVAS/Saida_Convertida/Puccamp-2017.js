@@ -393,7 +393,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2017,
     text: {
-      principal: "Considere o texto abaixo.\nDo ponto de vista territorial, uma polis se divide em duas partes: a acrópole [...] e a ágora [...]. No entanto, se perguntássemos a um grego da época clássica o que era a polis, provavelmente esta não seria sua definição: para ele a polis não designava um lugar geográfico, mas uma prática política exercida pela comunidade de seus cidadãos. [...] Se no caso da polis o conceito de cidade não se referia à dimensão espacial da cidade e sim à sua dimensão política, o conceito de cidadão não se refere ao morador da cidade, mas ao indivíduo que, pode participar da vida política.\"\n(ROLNIK, Raquel. O que é cidade. In: PETTA, Nicolina L. e OJEDA, A. B. História, uma abor-dagem integrada. São Paulo: Moderna, s\\\\d, p.17)\nO conhecimento histórico e o texto permitem afirmar que na Grécia Antiga",
+      principal: "Considere o texto abaixo.\nDo ponto de vista territorial, uma polis se divide em duas partes: a acrópole [...] e a ágora [...]. No entanto, se perguntássemos a um grego da época clássica o que era a polis, provavelmente esta não seria sua definição: para ele a polis não designava um lugar geográfico, mas uma prática política exercida pela comunidade de seus cidadãos. [...] Se no caso da polis o conceito de cidade não se referia à dimensão espacial da cidade e sim à sua dimensão política, o conceito de cidadão não se refere ao morador da cidade, mas ao indivíduo que, pode participar da vida política.\"\n(ROLNIK, Raquel. O que é cidade. In: PETTA, Nicolina L. e OJEDA, A. B. História, uma abor-dagem integrada. São Paulo: Moderna, s\\d, p.17)\nO conhecimento histórico e o texto permitem afirmar que na Grécia Antiga",
       subItens: []
     },
     options: ["a cidadania, direito de participar da vida pública, atingia todos os habitantes da maioria das cidades-Estado.","o equilíbrio de poderes presente nas cidades-Estado evitou a ocorrência de conflitos sociais.","a lei era o resultado de discussões entre os repre-sentantes da cidade-Estado e definia o direito dos cidadãos.","a soberania dos cidadãos dotados de plenos direitos era fundamental para a existência da cidade-Estado.","o direito à cidadania e a organização política possibi-litaram a criação da democracia em todo o país."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2017,
     text: {
-      principal: "Fertilizantes do tipo NPK possuem proporções diferentes dos elementos nitrogênio (N), fósforo (P) e potássio (Κ). Uma formulação comum utilizada na produção de pimenta é a NPK 4-30-16, que significa 4% de nitrogênio total, 30% de P_{2}O_{5} e 16% de K_{2}O, em massa. Assim, a quantidade, em mol, de P contida em 100 g desse fertilizante é de, aproximadamente,\nDados:\nMassas molares (g. mol-1)\nO = 16,0\nP = 31,0",
+      principal: "Fertilizantes do tipo NPK possuem proporções diferentes dos elementos nitrogênio (N), fósforo (P) e potássio (Κ). Uma formulação comum utilizada na produção de pimenta é a NPK 4-30-16, que significa 4% de nitrogênio total, 30% de P2O5 e 16% de K2O, em massa. Assim, a quantidade, em mol, de P contida em 100 g desse fertilizante é de, aproximadamente,\nDados:\nMassas molares (g. mol-1)\nO = 16,0\nP = 31,0",
       subItens: []
     },
     options: ["0,25.","0,33.","0,42.","0,51.","0,68."],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2017,
     text: {
-      principal: "Um chef de cuisine precisa transformar 10 g de gelo a 0 °C em água a 40 °C em 10 minutos. Para isto utiliza uma resistência elétrica percorrida por uma corrente elétrica que fornecerá calor para o gelo. Suppondo-se que todo calor fornecido pela resistência seja absorvido pelo gelo e desprezando-se perdas de calor para o meio ambiente e para o frasco que contém o gelo, a potência desta resistência deve ser, em watts, no mínimo, igual a:\nDados da água:\nCalor específico no estado sólido: 0,$\\\\frac{50cal}{g}$°C\nCalor específico no estado líquido: 1,0 $\\\\frac{cal}{g}$°C\nCalor latente de fusão do gelo: $\\\\frac{80cal}{g}$\nAdote 1 cal = 4 J",
+      principal: "Um chef de cuisine precisa transformar 10 g de gelo a 0 °C em água a 40 °C em 10 minutos. Para isto utiliza uma resistência elétrica percorrida por uma corrente elétrica que fornecerá calor para o gelo. Suppondo-se que todo calor fornecido pela resistência seja absorvido pelo gelo e desprezando-se perdas de calor para o meio ambiente e para o frasco que contém o gelo, a potência desta resistência deve ser, em watts, no mínimo, igual a:\nDados da água:\nCalor específico no estado sólido: 0,50cal/g°C\nCalor específico no estado líquido: 1,0 cal/g°C\nCalor latente de fusão do gelo: 80cal/g\nAdote 1 cal = 4 J",
       subItens: []
     },
     options: ["4.","8.","10.","80.","120."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2017,
     text: {
-      principal: "Na formação escolar é comum tratarmos de problemas ideais, como lançamentos verticais de objetos nos quais se despreza a resistência do ar. Mas podemos também abordar um problema destes sem esta simplificação.\nUm objeto é lançado verticalmente pra cima, a partir do solo, com velocidade 20 $\\\\frac{m}{s}$. Na subida este objeto sofre uma perda de 15% em sua energia mecânica devido às forças dissipativas.\nAdotando-se g = 10 $\\\\frac{m}{s}$², a altura máxima que será atingi-da por este objeto em relação ao solo será, em metros, de:",
+      principal: "Na formação escolar é comum tratarmos de problemas ideais, como lançamentos verticais de objetos nos quais se despreza a resistência do ar. Mas podemos também abordar um problema destes sem esta simplificação.\nUm objeto é lançado verticalmente pra cima, a partir do solo, com velocidade 20 m/s. Na subida este objeto sofre uma perda de 15% em sua energia mecânica devido às forças dissipativas.\nAdotando-se g = 10 m/s², a altura máxima que será atingi-da por este objeto em relação ao solo será, em metros, de:",
       subItens: []
     },
     options: ["17.","10.","25.","8.","150."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2017,
     text: {
-      principal: "Um dos materiais dos CDs e DVDs é o policarbonato, cuja fórmula está representada abaixo.\n[Image of chemical structure: CH_{3}-C(C_{6}H4O-)2-CH_{3}, repeating n times]\nEsse polímero possui",
+      principal: "Um dos materiais dos CDs e DVDs é o policarbonato, cuja fórmula está representada abaixo.\n[Image of chemical structure: $CH_{3}$-C(C6H4O-)2-$CH_{3}$, repeating n times]\nEsse polímero possui",
       subItens: []
     },
     options: ["radical fenil.","cadeia simples.","cadeia homogênea.","anel aromático.","grupo carbonila."],

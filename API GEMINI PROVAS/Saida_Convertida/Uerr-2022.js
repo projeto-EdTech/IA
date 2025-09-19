@@ -408,7 +408,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "Em um experimento, realizado em laboratório químico em condições ambientes, foram empregadas amostras de quatro substâncias diferentes, duas sólidas e duas líquidas.\n(Image of four beakers with different substances labeled 'sólido 1', 'sólido 2', 'líquido 1' and 'água' indicating their relative positions)\nNa tabela são apresentadas informações sobre as densida-des dessas substâncias.\n(Table: Substância | Densidade)\nÁgua | 1 $\\\\frac{g}{cm}$³\nX | 13 $\\\\frac{g}{cm}$³\nY | 2,7 $\\\\frac{g}{cm}$³\nZ | 0,9 $\\\\frac{g}{cm}$³\nAs substâncias X, Y e Z são, respectivamente,",
+      principal: "Em um experimento, realizado em laboratório químico em condições ambientes, foram empregadas amostras de quatro substâncias diferentes, duas sólidas e duas líquidas.\n(Image of four beakers with different substances labeled 'sólido 1', 'sólido 2', 'líquido 1' and 'água' indicating their relative positions)\nNa tabela são apresentadas informações sobre as densida-des dessas substâncias.\n(Table: Substância | Densidade)\nÁgua | 1 g/cm³\nX | 13 g/cm³\nY | 2,7 g/cm³\nZ | 0,9 g/cm³\nAs substâncias X, Y e Z são, respectivamente,",
       subItens: []
     },
     options: ["sólido 1, sólido 2 e líquido 1.","sólido 2, líquido 1 e sólido 1.","sólido 1, líquido 1 e sólido 2.","líquido 1, sólido 1 e sólido 2.","líquido 1, sólido 2 e sólido 1."],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "O brometo de zinco (ZnBr₂), empregado como eletrólito de baterias de zinco, é sintetizado com grande pureza por meio da reação apresentada na equação:\n2Zn (s) + 2HBr (g) + Br_{2} (l) → 2ZnBr2 (s) + H₂ (g)\nO número de oxidação do zinco no composto ZnBr₂ e o agen-te redutor da reação da sua síntese são",
+      principal: "O brometo de zinco (ZnBr₂), empregado como eletrólito de baterias de zinco, é sintetizado com grande pureza por meio da reação apresentada na equação:\n2Zn (s) + 2HBr (g) + $Br_{2}$ (l) → 2ZnBr2 (s) + H₂ (g)\nO número de oxidação do zinco no composto ZnBr₂ e o agen-te redutor da reação da sua síntese são",
       subItens: []
     },
     options: ["+2 e Zn","+2 e HBr","+2 e Br₂","+1 e Zn","+1 e Br₂"],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "O tratamento de água de piscinas pode ser realizado com a adição de produtos comerciais, que contém o hipoclo-rito de sódio (NaOCl). Esse composto, em contato com a água, hidrolisa e forma os compostos I e II representados na equação.\nNaOCl + H_{2}O → NaOH + HClO\nI II\nO caráter preponderante da ligação do sódio nos compostos dessa reação e a classificação das funções inorgânicas dos compostos I e II são, respectivamente,",
+      principal: "O tratamento de água de piscinas pode ser realizado com a adição de produtos comerciais, que contém o hipoclo-rito de sódio (NaOCl). Esse composto, em contato com a água, hidrolisa e forma os compostos I e II representados na equação.\nNaOCl + H2O → NaOH + HClO\nI II\nO caráter preponderante da ligação do sódio nos compostos dessa reação e a classificação das funções inorgânicas dos compostos I e II são, respectivamente,",
       subItens: []
     },
     options: ["covalente, base e ácido.","covalente, ácido e óxido.","iônico, ácido e óxido.","iônico, base e ácido.","iônico, base e óxido."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "A sacarose (C_{12}H22O11) obtida da cana-de-açúcar pode ser transformada em etanol (C_{2}H5OH), usado como combustível, desinfetante e solvente industrial, por meio de um processo que envolve as reações a seguir.\nHidrólise\nC_{12}H22O11 + H_{2}O → 2C6H12O6\nfrutose e glicose\nFermentação da glicose e frutose\nC_{6}H12O6 → 2C2H5OH + 2CO2\nConsidere a equação geral dos gases, PV=nRT, a cons-tante R = 0,08 atm·L·mol−¯¹·K−¹, e que o rendimento do con-junto de reações seja de 100%. O volume de gás carbônico (CO₂) em litros, que pode ser formado a 27 °C e 1 atm, na produção de etanol a partir de 10 mol de sacarose é",
+      principal: "A sacarose (C12H22O11) obtida da cana-de-açúcar pode ser transformada em etanol (C2H5OH), usado como combustível, desinfetante e solvente industrial, por meio de um processo que envolve as reações a seguir.\nHidrólise\nC12H22O11 + H2O → 2C6H12O6\nfrutose e glicose\nFermentação da glicose e frutose\nC6H12O6 → 2C2H5OH + 2CO2\nConsidere a equação geral dos gases, PV=nRT, a cons-tante R = 0,08 atm·L·mol−¯¹·K−¹, e que o rendimento do con-junto de reações seja de 100%. O volume de gás carbônico (CO₂) em litros, que pode ser formado a 27 °C e 1 atm, na produção de etanol a partir de 10 mol de sacarose é",
       subItens: []
     },
     options: ["10 L.","48 L.","480 L.","960 L.","96 L."],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "Em uma aula prática foi realizado um experimento para um estudo de cinética química, envolvendo a reação de decom-posição do peróxido de hidrogênio (H_{2}O_{2}), representada pela equação:\n2H2O2(aq) → 2H2O (l) + O_{2}(g)\nForam feitos cinco experimentos nos quais foram medidos os intervalos de tempo necessários para a coleta do mesmo vo-lume de gás oxigênio (O_{2}) por meio do deslocamento da água em um cilindro com escala. A temperatura de cada experi-mento foi mantida constante e controlada com termômetro.\n(Image of experimental setup with thermometer, beaker, water bath, and inverted cylinder for gas collection)\nTabela de dados do experimento\n(Table: Experimento | Concentração de H_{2}O_{2} (% em massa) | Temperatura da solução de H_{2}O_{2} | Intervalo de tempo para coleta de 20 mL de O₂)\n1 | 20% | 40 °C | 120 segundos\n2 | 40% | 40 °C | 60 segundos\n3 | X | 40 °C | 30 segundos\n4 | 40% | Y | 90 segundos\n5 | 10% | 20 °C | 12 segundos\nNo experimento 3, o valor da concentração X é ______ do que 40%.\nNo experimento 4, o valor da temperatura Y é ______ do que 40 °C.\nNo experimento ______ foi empregado um catalisador.\nAs lacunas do texto são preenchidas, respectivamente, por",
+      principal: "Em uma aula prática foi realizado um experimento para um estudo de cinética química, envolvendo a reação de decom-posição do peróxido de hidrogênio (H2O2), representada pela equação:\n2H2O2(aq) → 2H2O (l) + $O_{2}$(g)\nForam feitos cinco experimentos nos quais foram medidos os intervalos de tempo necessários para a coleta do mesmo vo-lume de gás oxigênio ($O_{2}$) por meio do deslocamento da água em um cilindro com escala. A temperatura de cada experi-mento foi mantida constante e controlada com termômetro.\n(Image of experimental setup with thermometer, beaker, water bath, and inverted cylinder for gas collection)\nTabela de dados do experimento\n(Table: Experimento | Concentração de H2O2 (% em massa) | Temperatura da solução de H2O2 | Intervalo de tempo para coleta de 20 mL de O₂)\n1 | 20% | 40 °C | 120 segundos\n2 | 40% | 40 °C | 60 segundos\n3 | X | 40 °C | 30 segundos\n4 | 40% | Y | 90 segundos\n5 | 10% | 20 °C | 12 segundos\nNo experimento 3, o valor da concentração X é ______ do que 40%.\nNo experimento 4, o valor da temperatura Y é ______ do que 40 °C.\nNo experimento ______ foi empregado um catalisador.\nAs lacunas do texto são preenchidas, respectivamente, por",
       subItens: []
     },
     options: ["maior; menor e 5.","maior; menor e 1.","menor; maior e 5.","menor; maior e 1.","maior; maior e 5."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "A produção de cloreto de hidrogênio, HCl gasoso, pode ser feita por meio da reação de gás hidrogênio (H₂) com gás cloro (Cl₂) em um sistema fechado estabelecendo-se o equilíbrio químico representado pela equação na tabela.\n(Table: Equação da reação | Temperatura | Constante de equilíbrio)\nH_{2}(g) + Cl_{2}(g) $\\\\le$> 2HCl (g)\n27 °C | 4,0 x 10³¹\n227 °C | 4,0 x 10¹⁸\nAnalise as duas condições de temperatura apresentadas para essa reação e considere que, quanto maior o valor da constante de equilíbrio, maior será a quantidade de produtos formados.\nNessas condições, a reação de formação do HCl é",
+      principal: "A produção de cloreto de hidrogênio, HCl gasoso, pode ser feita por meio da reação de gás hidrogênio (H₂) com gás cloro (Cl₂) em um sistema fechado estabelecendo-se o equilíbrio químico representado pela equação na tabela.\n(Table: Equação da reação | Temperatura | Constante de equilíbrio)\n$H_{2}$(g) + $Cl_{2}$(g) <=> 2HCl (g)\n27 °C | 4,0 x 10³¹\n227 °C | 4,0 x 10¹⁸\nAnalise as duas condições de temperatura apresentadas para essa reação e considere que, quanto maior o valor da constante de equilíbrio, maior será a quantidade de produtos formados.\nNessas condições, a reação de formação do HCl é",
       subItens: []
     },
     options: ["endotérmica e o rendimento do produto é maior em tem-peratura alta e pressão alta.","endotérmica e o rendimento do produto é maior em tem-peratura alta e pressão baixa.","endotérmica e o rendimento do produto é maior em tem-peratura baixa e pressão baixa.","exotérmica e o rendimento do produto é maior em tempe-ratura baixa, independentemente da pressão.","exotérmica e o rendimento do produto é maior em tempe-ratura alta, independentemente da pressão."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "Um certo composto X utilizado na indústria farmacêutica e de perfumes é preparado a partir de um composto natural de acordo com a reação representada na equação:\n(Image showing a reaction: Grupo Funcional + agente oxidante$$ \\\\rightarrow C$$omposto X + subproduto)\n(Sudhir E. Dapurkar et al. Applied Catalysis A: General, 2011. Adaptado.)\nOs grupos funcionais presentes nas moléculas do composto natural e do composto X obtido da reação, pertencem, res-pectivamente, às funções orgânicas",
+      principal: "Um certo composto X utilizado na indústria farmacêutica e de perfumes é preparado a partir de um composto natural de acordo com a reação representada na equação:\n(Image showing a reaction: Grupo Funcional + agente oxidante -> Composto X + subproduto)\n(Sudhir E. Dapurkar et al. Applied Catalysis A: General, 2011. Adaptado.)\nOs grupos funcionais presentes nas moléculas do composto natural e do composto X obtido da reação, pertencem, res-pectivamente, às funções orgânicas",
       subItens: []
     },
     options: ["álcool e cetona.","álcool e aldeído.","cetona e aldeído.","ácido carboxílico e cetona.","ácido carboxílico e aldeído."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "Em alguns postos de bombeiros é comum existir um poste liso vertical pelo qual os bombeiros descem para che-gar rapidamente a seus veículos, em caso de uma emer-gência. Suponha que um bombeiro de 80 kg desça por um desses postes com aceleração vertical constante de 4,0 $\\\\frac{m}{s}$², conforme mostra a figura.\n(Image of a firefighter sliding down a pole with a = 4.0 $\\\\frac{m}{s}$²)\n(www.ndmais.com.br. Adaptado.)\nSabendo que a aceleração da gravidade no local é de 10 $\\\\frac{m}{s}$², a intensidade da força de atrito entre o bombeiro e o poste é igual a",
+      principal: "Em alguns postos de bombeiros é comum existir um poste liso vertical pelo qual os bombeiros descem para che-gar rapidamente a seus veículos, em caso de uma emer-gência. Suponha que um bombeiro de 80 kg desça por um desses postes com aceleração vertical constante de 4,0 m/s², conforme mostra a figura.\n(Image of a firefighter sliding down a pole with a = 4.0 m/s²)\n(www.ndmais.com.br. Adaptado.)\nSabendo que a aceleração da gravidade no local é de 10 m/s², a intensidade da força de atrito entre o bombeiro e o poste é igual a",
       subItens: []
     },
     options: ["160 Ν.","320 Ν.","400 Ν.","480 N.","1120 Ν."],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "Um copo de 15 cm de profundidade está totalmente preen-chido com óleo de cozinha, cuja densidade é de 0,8 $\\\\frac{g}{cm}$³.\nConsiderando que a aceleração da gravidade no local é 10 $\\\\frac{m}{s}$², a pressão exercida pelo óleo no fundo do copo é igual a",
+      principal: "Um copo de 15 cm de profundidade está totalmente preen-chido com óleo de cozinha, cuja densidade é de 0,8 g/cm³.\nConsiderando que a aceleração da gravidade no local é 10 m/s², a pressão exercida pelo óleo no fundo do copo é igual a",
       subItens: []
     },
     options: ["80 Pa.","120 Pa.","150 Pa.","800 Pa.","1200 Pa."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "Uma lâmpada que produz um raio de luz monocromático foi colocada no fundo de uma fonte de 1 m de profundidade de tal forma que seu raio de luz percorre a trajetória ilustrada na figura. A fonte contém água, cujo índice de refração é √3.\n(Image showing light ray path from water to air, with angles and dimensions)\nConsidere os valores da tabela:\n(Table: θ | sen θ | cos θ | tg θ)\n0° | 0 | 1 | 0\n30° | $\\\\frac{1}{2}$ | √$\\\\frac{3}{2}$ | √$\\\\frac{3}{3}$\n45° | √$\\\\frac{2}{2}$ | √$\\\\frac{2}{2}$ | 1\n60° | √$\\\\frac{3}{2}$ | $\\\\frac{1}{2}$ | √3\n90° | 1 | 0 | +∞\nUtilizando os valores dados na tabela e assumindo que o ín-dice de refração do ar é igual a 1, um observador do lado de fora da fonte",
+      principal: "Uma lâmpada que produz um raio de luz monocromático foi colocada no fundo de uma fonte de 1 m de profundidade de tal forma que seu raio de luz percorre a trajetória ilustrada na figura. A fonte contém água, cujo índice de refração é √3.\n(Image showing light ray path from water to air, with angles and dimensions)\nConsidere os valores da tabela:\n(Table: θ | $\\sin$ θ | cos θ | tg θ)\n0° | 0 | 1 | 0\n30° | 1/2 | √3/2 | √3/3\n45° | √2/2 | √2/2 | 1\n60° | √3/2 | 1/2 | √3\n90° | 1 | 0 | +∞\nUtilizando os valores dados na tabela e assumindo que o ín-dice de refração do ar é igual a 1, um observador do lado de fora da fonte",
       subItens: []
     },
     options: ["vê o raio luminoso fazendo um ângulo 0 = 60° em relação à reta normal.","vê o raio luminoso fazendo um ângulo 0 = 45° em relação à reta normal.","vê o raio luminoso fazendo um ângulo 0 = 30° em relação à reta normal.","vê o raio luminoso fazendo um ângulo 0 = 0° em rela-ção à reta normal.","não vê o raio luminoso, pois ocorre uma reflexão total na superfície de separação."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "A genealogia ilustra uma família em que as pessoas desta-cadas apresentam daltonismo, uma doença hereditária. O homem 1-3 é falecido.\n(Image of a family tree, generations I and II, with $\\\\frac{squares}{circles}$, some filled)\nDe acordo com os dados contidos na genealogia, é pos-sível deduzir que o homem I-3 apresentava o genótipo | ____ e que as mulheres II-2 e II-3 apresentam, entre si, o mesmo genótipo, que é _____. Caso a mulher II-3 esteja gestando um menino, a probabilidade de este ser daltônico é de ____.\nAssinale a alternativa que preenche as lacunas do texto.",
+      principal: "A genealogia ilustra uma família em que as pessoas desta-cadas apresentam daltonismo, uma doença hereditária. O homem 1-3 é falecido.\n(Image of a family tree, generations I and II, with squares/circles, some filled)\nDe acordo com os dados contidos na genealogia, é pos-sível deduzir que o homem I-3 apresentava o genótipo | ____ e que as mulheres II-2 e II-3 apresentam, entre si, o mesmo genótipo, que é _____. Caso a mulher II-3 esteja gestando um menino, a probabilidade de este ser daltônico é de ____.\nAssinale a alternativa que preenche as lacunas do texto.",
       subItens: []
     },
     options: ["XdY – XDXD – 50%","XDY – XDXD – 25%","XdY – XDXd – 50%","XDY – XDXd – 50%","XdY – XDXd – 25%"],
@@ -783,7 +783,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "Analise o ciclo de vida esquematizado, que ocorre em todos os grupos vegetais.\n(Image of a plant life cycle diagram: Gametófito$$ \\\\rightarrow G$$ametas$$ \\\\rightarrow Z$$igoto$$ \\\\rightarrow E$$sporófito$$ \\\\rightarrow E$$sporos$$ \\\\rightarrow G$$ametófito)\nSuponha que uma espécie de briófita e uma espécie de an-giosperma produzam gametas com 18 cromossomos. Assim, a quantidade de cromossomos em cada célula da fase du-radoura dessa briófita e em cada célula da fase duradoura dessa angiosperma seria igual, respectivamente, a",
+      principal: "Analise o ciclo de vida esquematizado, que ocorre em todos os grupos vegetais.\n(Image of a plant life cycle diagram: Gametófito -> Gametas -> Zigoto -> Esporófito -> Esporos -> Gametófito)\nSuponha que uma espécie de briófita e uma espécie de an-giosperma produzam gametas com 18 cromossomos. Assim, a quantidade de cromossomos em cada célula da fase du-radoura dessa briófita e em cada célula da fase duradoura dessa angiosperma seria igual, respectivamente, a",
       subItens: []
     },
     options: ["9 e 18.","18 e 18.","18 e 36.","36 e 18.","36 e 36."],
@@ -1038,7 +1038,7 @@ createQuestion({
     university: "Prova Objetiva e Discursiva",
     year: 2022,
     text: {
-      principal: "\"Posso dizer que hoje, dia 3 de maio de 2018, o ETA dei-xou de existir\". Palavras do diretor do Centro para o Diálogo Humanitário, em Genebra, na Suíça, que leu a carta confir-mando o fim do grupo, considerado uma organização terro-rista pela União Europeia. O texto afirma que as atividades políticas do ETA foram encerradas.\n(http://g_{1}.globo.com, 03.05.2018. Adaptado.)\nCom ações que ganharam repercussão internacional, o ETA correspondeu a um grupo",
+      principal: "\"Posso dizer que hoje, dia 3 de maio de 2018, o ETA dei-xou de existir\". Palavras do diretor do Centro para o Diálogo Humanitário, em Genebra, na Suíça, que leu a carta confir-mando o fim do grupo, considerado uma organização terro-rista pela União Europeia. O texto afirma que as atividades políticas do ETA foram encerradas.\n(http://$g_{1}$.globo.com, 03.05.2018. Adaptado.)\nCom ações que ganharam repercussão internacional, o ETA correspondeu a um grupo",
       subItens: []
     },
     options: ["separatista, que reivindicava a independência do País Basco.","colonialista, que intervinha em territórios israelenses.","eurocêntrico, que defendia a Europa como mandatária da ONU.","monarquista, que legitimava instituições do poder real britânico.","teocrático, que propunha o fim do Estado Irlandês laico."],

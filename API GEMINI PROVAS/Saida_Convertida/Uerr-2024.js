@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Na faculdade em que está matriculada, Isadora precisará fazer quatro provas como forma de avaliação dos conhecimentos adquiridos em determinada disciplina. Cada prova vale 10 pontos, e a nota final (N) é calculada pela média ponderada N = (2·P_{1}+2,5·P_{2}+3·P_{3}+3,5·P_{4}) / 11 , sendo P_{1}, P_{2}, P_{3} e P_{4} as notas da primeira, da segunda, da terceira e da quarta prova, respectivamente. Para ser aprovada, Isadora precisa obter nota final maior ou igual a 5,0 pontos. Na primeira, na segunda e na quarta prova, Isadora obteve, respectivamente, as seguintes pontuações: 3,0 pontos; 4,0 pontos; e 7,5 pontos.\nNessas condições, se Isadora passou na disciplina, então ela pode ter tirado na terceira prova uma nota mínima igual a",
+      principal: "Na faculdade em que está matriculada, Isadora precisará fazer quatro provas como forma de avaliação dos conhecimentos adquiridos em determinada disciplina. Cada prova vale 10 pontos, e a nota final (N) é calculada pela média ponderada N = (2·$P_{1}$+2,5·$P_{2}$+3·$P_{3}$+3,5·$P_{4}$) / 11 , sendo $P_{1}$, $P_{2}$, $P_{3}$ e $P_{4}$ as notas da primeira, da segunda, da terceira e da quarta prova, respectivamente. Para ser aprovada, Isadora precisa obter nota final maior ou igual a 5,0 pontos. Na primeira, na segunda e na quarta prova, Isadora obteve, respectivamente, as seguintes pontuações: 3,0 pontos; 4,0 pontos; e 7,5 pontos.\nNessas condições, se Isadora passou na disciplina, então ela pode ter tirado na terceira prova uma nota mínima igual a",
       subItens: []
     },
     options: ["4,25.","33/7.","5,5.","5.","55/3."],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "O número complexo (√$\\\\frac{2}{2}$ + √$\\\\frac{2}{2}$ i)⁹ é igual a",
+      principal: "O número complexo (√2/2 + √2/2 i)⁹ é igual a",
       subItens: []
     },
     options: ["−√2/2 − √2/2 i.","−√2/2 + √2/2 i.","√2/2 − √2/2 i.","√2/2 + √2/2 i.","−√2 + √2i."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "O anúncio da síntese do tetrafluoreto de xenônio foi dado em $\\\\frac{2}{10}$/1962, pelo Laboratório Argonne, com destaque para o fato de que aquele era o primeiro composto simples a conter o elemento xenônio. O resultado foi festejado porque o xenônio é um gás nobre e bastante inerte, o que dificulta as possíveis reações desse elemento. Isso abriu uma nova fronteira no estudo das ligações químicas.\nInternet: <imagens.tabelaperiodica.org> (com adaptações).\nA partir do texto precedente, e considerando os elementos químicos ¹⁸Xe e ⁹F, assinale a opção que indica o número de elétrons na camada de valência do xenônio no composto XeF₄.",
+      principal: "O anúncio da síntese do tetrafluoreto de xenônio foi dado em 2/10/1962, pelo Laboratório Argonne, com destaque para o fato de que aquele era o primeiro composto simples a conter o elemento xenônio. O resultado foi festejado porque o xenônio é um gás nobre e bastante inerte, o que dificulta as possíveis reações desse elemento. Isso abriu uma nova fronteira no estudo das ligações químicas.\nInternet: <imagens.tabelaperiodica.org> (com adaptações).\nA partir do texto precedente, e considerando os elementos químicos ¹⁸Xe e ⁹F, assinale a opção que indica o número de elétrons na camada de valência do xenônio no composto XeF₄.",
       subItens: []
     },
     options: ["8","10","12","14","16"],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Um frasco contém 100 mL de uma solução de hidróxido de sódio — NaOH — cuja concentração em quantidade de matéria é 0,2 $\\\\frac{mol}{L}$; outro frasco contém 100 mL de uma solução de hidróxido de cálcio — Ca(OH)₂ — cuja concentração em quantidade de matéria é 0,05 $\\\\frac{mol}{L}$.\nCaso os conteúdos desses frascos sejam misturados, formando-se uma solução final, a concentração em quantidade de matéria do íon hidróxido na solução final será igual a",
+      principal: "Um frasco contém 100 mL de uma solução de hidróxido de sódio — NaOH — cuja concentração em quantidade de matéria é 0,2 mol/L; outro frasco contém 100 mL de uma solução de hidróxido de cálcio — Ca(OH)₂ — cuja concentração em quantidade de matéria é 0,05 mol/L.\nCaso os conteúdos desses frascos sejam misturados, formando-se uma solução final, a concentração em quantidade de matéria do íon hidróxido na solução final será igual a",
       subItens: []
     },
     options: ["1,25 × 10⁻² mol/L.","2,50 × 10⁻² mol/L.","1,00 × 10⁻¹ mol/L.","1,25 × 10⁻¹ mol/L.","1,50 × 10⁻¹ mol/L."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Glicólise é um processo bioquímico em que a molécula de glicose (C₆H₁₂O₆), proveniente da alimentação, é quebrada em duas moléculas menores de ácido pirúvico ou piruvato (C₃H₄O₃), o que libera energia. É a primeira etapa do processo de respiração celular que ocorre no hialoplasma celular.\nInternet: <todamateria.com.br> (com adaptações).\nConsiderando-se o texto precedente e as massas molares MH = 1 $\\\\frac{g}{mol}$, MC = 12 $\\\\frac{g}{mol}$ e MO = 16 $\\\\frac{g}{mol}$, é correto afirmar que, na glicólise de 18 g de glicose com 75% de rendimento da reação, a massa de ácido pirúvico formada é igual a",
+      principal: "Glicólise é um processo bioquímico em que a molécula de glicose (C₆H₁₂O₆), proveniente da alimentação, é quebrada em duas moléculas menores de ácido pirúvico ou piruvato (C₃H₄O₃), o que libera energia. É a primeira etapa do processo de respiração celular que ocorre no hialoplasma celular.\nInternet: <todamateria.com.br> (com adaptações).\nConsiderando-se o texto precedente e as massas molares MH = 1 g/mol, MC = 12 g/mol e MO = 16 g/mol, é correto afirmar que, na glicólise de 18 g de glicose com 75% de rendimento da reação, a massa de ácido pirúvico formada é igual a",
       subItens: []
     },
     options: ["6,6 g.","8,8 g.","13,2 g.","17,6 g.","18,0 g."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Uma pedra é solta na superfície de um aquário e percorre 20 cm até atingir o fundo. A pedra possui densidade igual a 7,0 $\\\\frac{g}{cm}$³ e volume igual a 70 cm³. A aceleração da gravidade é igual a 10 $\\\\frac{m}{s}$² e a densidade da água é 1,0 $\\\\frac{g}{cm}$³.\nNessa situação hipotética, desprezadas as forças de atrito, é correto afirmar que",
+      principal: "Uma pedra é solta na superfície de um aquário e percorre 20 cm até atingir o fundo. A pedra possui densidade igual a 7,0 g/cm³ e volume igual a 70 cm³. A aceleração da gravidade é igual a 10 m/s² e a densidade da água é 1,0 g/cm³.\nNessa situação hipotética, desprezadas as forças de atrito, é correto afirmar que",
       subItens: []
     },
     options: ["a aceleração da pedra, durante a queda até o fundo do aquário, é maior que 8,85 m/s².","a velocidade com que a pedra toca o fundo do aquário é de 4 m/s.","o tempo que a pedra leva para atingir o fundo do aquário é maior que 2 segundos.","a força resultante que atua na pedra é de 4,2 N.","a força resultante na pedra corresponde somente à força peso."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Ao se aplicar sobre uma caixa uma força horizontal constante de módulo 40 N, em uma superfície plana cujo coeficiente de atrito é 0,4, a caixa se move com velocidade constante, sob a aceleração da gravidade de 10 $\\\\frac{m}{s}$².\nNessas condições, para um deslocamento da caixa de 5 m, é correto afirmar que",
+      principal: "Ao se aplicar sobre uma caixa uma força horizontal constante de módulo 40 N, em uma superfície plana cujo coeficiente de atrito é 0,4, a caixa se move com velocidade constante, sob a aceleração da gravidade de 10 m/s².\nNessas condições, para um deslocamento da caixa de 5 m, é correto afirmar que",
       subItens: []
     },
     options: ["a variação da energia cinética é constante.","o trabalho realizado pela força resultante é de 10 J.","o trabalho realizado pela força horizontal é de 200 J.","o trabalho realizado pela força de atrito é de −250 J.","a massa estimada da caixa é de 2 kg."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Um próton de carga 1,6 × 10⁻¹⁹ C apresenta uma trajetória que faz um ângulo de 45° com a direção de um campo magnético igual a 2 × 10⁻³ T. Por isso, o próton experimenta uma força magnética de 1,6 × 10⁻¹⁶ N.\nConsiderando as condições descritas anteriormente, e assumindo que sen(45°) = √$\\\\frac{2}{2}$, conclui-se que o valor da velocidade do próton é igual a",
+      principal: "Um próton de carga 1,6 × 10⁻¹⁹ C apresenta uma trajetória que faz um ângulo de 45° com a direção de um campo magnético igual a 2 × 10⁻³ T. Por isso, o próton experimenta uma força magnética de 1,6 × 10⁻¹⁶ N.\nConsiderando as condições descritas anteriormente, e assumindo que $\\sin$(45°) = √2/2, conclui-se que o valor da velocidade do próton é igual a",
       subItens: []
     },
     options: ["√2/2 × 10⁶ m/s.","√2 × 10⁻⁶ m/s.","√2/2 × 10⁶ m/s.","√2 × 10⁻⁶ m/s.","√2/2 × 10⁶ m/s."],
@@ -903,7 +903,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Considerando que a ditadura civil-militar no Brasil (1964-1985) marcou um longo período de supressão da democracia com o estabelecimento de uma Constituição Federal em 1967 ($\\\\frac{CF}{67}$), assinale a opção correta.",
+      principal: "Considerando que a ditadura civil-militar no Brasil (1964-1985) marcou um longo período de supressão da democracia com o estabelecimento de uma Constituição Federal em 1967 (CF/67), assinale a opção correta.",
       subItens: []
     },
     options: ["A CF/67 restabeleceu os direitos políticos daqueles que haviam sido cassados no início da ditadura civil-militar, em 1964.","O Ato Institucional n.° 5 marcou o início do processo de transição para a democracia, com o restabelecimento das garantias individuais.","A CF/67 vetou a incorporação dos povos indígenas à nação, garantindo-lhes o direito ao isolamento.","O Relatório Figueiredo expôs as violências cometidas contra os indígenas, o que levou à extinção do Serviço de Proteção aos Índios (SPI).","A manutenção do instrumento de habeas corpus foi um argumento usado pelos militares nas cortes internacionais para negar a existência de um regime antidemocrático."],
@@ -993,7 +993,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "No Brasil, os conflitos no campo bateram um novo recorde em 2020, atingindo 2.054 ocorrências — um aumento de 8% em comparação com o ano anterior, segundo dados da Comissão Pastoral da Terra (CPT). Ao todo, mais de 914 mil pessoas estavam envolvidas nas ocorrências, relacionadas a uma área superior a 77 milhões de hectares. Dessas famílias, 41,8% se localizam na região Norte, e o Pará, sozinho, representa 16,8% dos casos, número maior que o da segunda região colocada, o Centro-Oeste, que possui 11,9% dos casos. A pesquisa também apurou os principais responsáveis pela violência, aparecendo em primeiro lugar os “fazendeiros”, com 34,87% das ocorrências, seguidos de \"empresários nacionais e internacionais\", com 21,52%, e do \"poder público”, que inclui os governos federal, estadual e municipal, representando, juntos, 13,75% do total.\nInternet: <g_{1}.globo.com> (com adaptações).\nTendo como referência inicial as informações veiculadas no texto precedente, assinale a opção correta.",
+      principal: "No Brasil, os conflitos no campo bateram um novo recorde em 2020, atingindo 2.054 ocorrências — um aumento de 8% em comparação com o ano anterior, segundo dados da Comissão Pastoral da Terra (CPT). Ao todo, mais de 914 mil pessoas estavam envolvidas nas ocorrências, relacionadas a uma área superior a 77 milhões de hectares. Dessas famílias, 41,8% se localizam na região Norte, e o Pará, sozinho, representa 16,8% dos casos, número maior que o da segunda região colocada, o Centro-Oeste, que possui 11,9% dos casos. A pesquisa também apurou os principais responsáveis pela violência, aparecendo em primeiro lugar os “fazendeiros”, com 34,87% das ocorrências, seguidos de \"empresários nacionais e internacionais\", com 21,52%, e do \"poder público”, que inclui os governos federal, estadual e municipal, representando, juntos, 13,75% do total.\nInternet: <$g_{1}$.globo.com> (com adaptações).\nTendo como referência inicial as informações veiculadas no texto precedente, assinale a opção correta.",
       subItens: []
     },
     options: ["O aumento mais significativo dos conflitos de terra no Brasil ocorreu no Pará, pelo fato de o estado deter a maior parte da biodiversidade contida no interior da Amazônia.","O percentual de violência rural no Pará contribuiu para que a região onde o estado se situa ficasse em segundo lugar no número de casos de conflitos no campo.","Os conflitos no campo decorrem de um contexto de desigualdade socioespacial, já que os atores sociais mais poderosos são os maiores responsáveis pela violência rural.","8% da população do campo se envolveu em conflitos relacionados à terra, percentual significativo, já que o Brasil possui mais de 30 milhões de habitantes rurais.","A maior parte das famílias que vivem no campo encontra-se na região Norte, mas é no estado do Pará que todos os conflitos rurais estão concentrados."],

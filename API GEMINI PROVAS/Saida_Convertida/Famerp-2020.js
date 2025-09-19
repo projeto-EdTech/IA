@@ -348,7 +348,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A camada intermediária abrangia, nas Minas, indivíduos\nentregues a uma gama variada de atividades profissionais.\nCreio ser possível arriscar a hipótese de que poucos viviam\ncom certo conforto e despreocupação, a grande maioria sen-\ndo constituída pelos que tinham de lutar diariamente pela\nsubsistência, numa capitania inteiramente voltada para a fai-\nna aurífera e para a mineração de diamantes.\n(Laura Vergueiro. Opulência e miséria das Minas Gerais, 1983.)\nEntre os membros do grupo social apresentado no texto,\nviviam nas Minas Gerais do século XVIII:\n(A) pecuaristas, alfaiates e escravos.\n(B) vendeiros, bandeirantes e grandes produtores rurais.\n(C) pintores, altos dignitários da Igreja e prostitutas.\n(D) tropeiros, contratadores de diamante e romeiros.\n(E) carpinteiros, padres e faiscadores.",
+      principal: "A camada intermediária abrangia, nas Minas, indivíduos\nentregues a uma gama variada de atividades profissionais.\nCreio ser possível arriscar a hipótese de que poucos viviam\ncom certo conforto e despreocupação, a grande maioria $\\sin$-\ndo constituída pelos que tinham de lutar diariamente pela\nsubsistência, numa capitania inteiramente voltada para a fai-\nna aurífera e para a mineração de diamantes.\n(Laura Vergueiro. Opulência e miséria das Minas Gerais, 1983.)\nEntre os membros do grupo social apresentado no texto,\nviviam nas Minas Gerais do século XVIII:\n(A) pecuaristas, alfaiates e escravos.\n(B) vendeiros, bandeirantes e grandes produtores rurais.\n(C) pintores, altos dignitários da Igreja e prostitutas.\n(D) tropeiros, contratadores de diamante e romeiros.\n(E) carpinteiros, padres e faiscadores.",
       subItens: []
     },
     options: ["pecuuaristas, alfaiates e escravos.","vendeiros, bandeirantes e grandes produtores rurais.","pintores, altos dignitários da Igreja e prostitutas.","tropeiros, contratadores de diamante e romeiros.","carpinteiros, padres e faiscadores."],
@@ -498,7 +498,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Analise o quadro que compara três modais para o transporte\nde uma carga com 6000 toneladas.\nIndicador\nModal 1\nModal 2\nModal 3\nConsumo médio de combustível\npara transportar uma tonelada\npor mil quilômetros\n4,1 litros\n5,7 litros\n15,4 litros\nEmissão de gás carbônico\n($\\\\frac{gCO_{2}}{TKU}$)\n20,0\n23,3\n101,2\nCusto médio de transporte,\ncarga geral por 1000 km (R$/t)\nR$ 50,74\nR$ 67,54\nR$ 239,74\n(Cássio A. N. Teixeira et al. BNDES Setorial, nº 47, março de 2018. Adaptado.)\nConsiderando os indicadores de eficiência apresentados, o\nmodal\n(A) 2 corresponde ao modelo rodoviário, viável por operar\ncom reduzida emissão de gases de efeito estufa.\n(B) 1 corresponde à navegação de cabotagem, eficiente para\no transporte em grandes distâncias.\n(C) 1 corresponde ao deslocamento aéreo, competitivo no\ntransporte de mercadorias de alto valor agregado.\n(D) 3 corresponde ao sistema ferroviário, capaz de absorver\nos impactos econômicos no transporte de rejeitos indus-\ntriais.\n(E) 2 corresponde ao complexo dutoviário, vantajoso para o\ntransporte de grãos em cinturões agrícolas.",
+      principal: "Analise o quadro que compara três modais para o transporte\nde uma carga com 6000 toneladas.\nIndicador\nModal 1\nModal 2\nModal 3\nConsumo médio de combustível\npara transportar uma tonelada\npor mil quilômetros\n4,1 litros\n5,7 litros\n15,4 litros\nEmissão de gás carbônico\n($gCO_{2}$/TKU)\n20,0\n23,3\n101,2\nCusto médio de transporte,\ncarga geral por 1000 km (R$/t)\nR$ 50,74\nR$ 67,54\nR$ 239,74\n(Cássio A. N. Teixeira et al. BNDES Setorial, nº 47, março de 2018. Adaptado.)\nConsiderando os indicadores de eficiência apresentados, o\nmodal\n(A) 2 corresponde ao modelo rodoviário, viável por operar\ncom reduzida emissão de gases de efeito estufa.\n(B) 1 corresponde à navegação de cabotagem, eficiente para\no transporte em grandes distâncias.\n(C) 1 corresponde ao deslocamento aéreo, competitivo no\ntransporte de mercadorias de alto valor agregado.\n(D) 3 corresponde ao sistema ferroviário, capaz de absorver\nos impactos econômicos no transporte de rejeitos indus-\ntriais.\n(E) 2 corresponde ao complexo dutoviário, vantajoso para o\ntransporte de grãos em cinturões agrícolas.",
       subItens: []
     },
     options: ["2 corresponde ao modelo rodoviário, viável por operar\ncom reduzida emissão de gases de efeito estufa.","1 corresponde à navegação de cabotagem, eficiente para\no transporte em grandes distâncias.","1 corresponde ao deslocamento aéreo, competitivo no\ntransporte de mercadorias de alto valor agregado.","3 corresponde ao sistema ferroviário, capaz de absorver\nos impactos econômicos no transporte de rejeitos indus-\ntriais.","2 corresponde ao complexo dutoviário, vantajoso para o\ntransporte de grãos em cinturões agrícolas."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Um novo estudo realizado pela Escola Nacional de Saúde\nPública Sergio Arouca ($\\\\frac{ENSP}{Fiocruz}$) na população indíge-\nna Yanomami constatou a presença de mercúrio nas amos-\ntras de cabelo de 56% das mulheres e crianças da região de\nMaturacá, no Amazonas, em níveis acima do tolerado pela\nOrganização Mundial da Saúde. \"O mercúrio é disseminado\npelas águas dos rios e a contaminação de seres humanos\nse dá, especialmente, por meio da ingestão de peixes conta-\nminados\", afirmou o coordenador da pesquisa, Paulo Basta.\n(Filipe Leonel. \"Contaminação por mercúrio se alastra na população\nYanomami\". www.ensp.fiocruz.br, 16.08.2019. Adaptado.)\nA contaminação por mercúrio apresentada no excerto está\nassociada\n(A) à calagem para eliminar a acidez do solo.\n(B) ao terraceamento sem o controle de erosão.\n(C) ao garimpo ilegal para a extração de ouro.\n(D) à laterização para a extração da canga.\n(E) a aterros sanitários sem a impermeabilização do terreno.",
+      principal: "Um novo estudo realizado pela Escola Nacional de Saúde\nPública Sergio Arouca (ENSP/Fiocruz) na população indíge-\nna Yanomami constatou a presença de mercúrio nas amos-\ntras de cabelo de 56% das mulheres e crianças da região de\nMaturacá, no Amazonas, em níveis acima do tolerado pela\nOrganização Mundial da Saúde. \"O mercúrio é disseminado\npelas águas dos rios e a contaminação de seres humanos\nse dá, especialmente, por meio da ingestão de peixes conta-\nminados\", afirmou o coordenador da pesquisa, Paulo Basta.\n(Filipe Leonel. \"Contaminação por mercúrio se alastra na população\nYanomami\". www.ensp.fiocruz.br, 16.08.2019. Adaptado.)\nA contaminação por mercúrio apresentada no excerto está\nassociada\n(A) à calagem para eliminar a acidez do solo.\n(B) ao terraceamento sem o controle de erosão.\n(C) ao garimpo ilegal para a extração de ouro.\n(D) à laterização para a extração da canga.\n(E) a aterros sanitários sem a impermeabilização do terreno.",
       subItens: []
     },
     options: ["à calagem para eliminar a acidez do solo.","ao terraceamento sem o controle de erosão.","ao garimpo ilegal para a extração de ouro.","à laterização para a extração da canga.","a aterros sanitários sem a impermeabilização do terreno."],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A genealogia ilustra uma família em que as pessoas destaca-\ndas apresentam uma doença autossômica monogênica.\nIII\n1\n2\n3\n4\n1\n2\n3\n4\n5\n6\n1\n2\n3\nA análise dessa genealogia permite concluir que a probabili-\ndade de\n(A) os indivíduos I-2, II-5 e III-1 serem heterozigotos é de $\\\\frac{2}{3}$.\n(B) os indivíduos I-1 e II-4 apresentarem o alelo para a\ndoença é de $\\\\frac{1}{2}$.\n(C) o próximo filho do casal 1-3 e 1-4 ser uma criança doente\né de $\\\\frac{1}{6}$.\n(D) o próximo filho do casal II-3 e II-4 ser uma menina doente\né de $\\\\frac{1}{8}$.\n(E) os indivíduos II-1 e III-3 apresentarem o alelo para a\ndoença é de $\\\\frac{1}{4}$.",
+      principal: "A genealogia ilustra uma família em que as pessoas destaca-\ndas apresentam uma doença autossômica monogênica.\nIII\n1\n2\n3\n4\n1\n2\n3\n4\n5\n6\n1\n2\n3\nA análise dessa genealogia permite concluir que a probabili-\ndade de\n(A) os indivíduos I-2, II-5 e III-1 serem heterozigotos é de 2/3.\n(B) os indivíduos I-1 e II-4 apresentarem o alelo para a\ndoença é de 1/2.\n(C) o próximo filho do casal 1-3 e 1-4 ser uma criança doente\né de 1/6.\n(D) o próximo filho do casal II-3 e II-4 ser uma menina doente\né de 1/8.\n(E) os indivíduos II-1 e III-3 apresentarem o alelo para a\ndoença é de 1/4.",
       subItens: []
     },
     options: ["os indivíduos I-2, II-5 e III-1 serem heterozigotos é de 2/3.","os indivíduos I-1 e II-4 apresentarem o alelo para a\ndoença é de 1/2.","o próximo filho do casal 1-3 e 1-4 ser uma criança doente\né de 1/6.","o próximo filho do casal II-3 e II-4 ser uma menina doente\né de 1/8.","os indivíduos II-1 e III-3 apresentarem o alelo para a\ndoença é de 1/4."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Um resíduo de 200 mL de solução de ácido sulfúrico (H_{2}SO_{4}),\nde concentração 0,1 $\\\\frac{mol}{L}$, precisava ser neutralizado antes\ndo descarte. Para tanto, foi utilizado bicarbonato de sódio\n(NaHCO_{3}), conforme a equação a seguir:\nH_{2}SO_{4} + 2NaHCO3 → Na_{2}SO_{4} + 2H2O + 2CO2\nA massa de bicarbonato de sódio necessária para a neutra-\nlização completa do ácido sulfúrico contido nessa solução é\nigual a\n(A) 1,68 g.\n(B) 16,8 g.\n(C) 8,4 g.\n(D) 33,6 g.\n(E) 3,36 g.",
+      principal: "Um resíduo de 200 mL de solução de ácido sulfúrico (H2SO4),\nde concentração 0,1 mol/L, precisava ser neutralizado antes\ndo descarte. Para tanto, foi utilizado bicarbonato de sódio\n($NaHCO_{3}$), conforme a equação a seguir:\nH2SO4 + 2NaHCO3 → Na2SO4 + 2H2O + 2CO2\nA massa de bicarbonato de sódio necessária para a neutra-\nlização completa do ácido sulfúrico contido nessa solução é\nigual a\n(A) 1,68 g.\n(B) 16,8 g.\n(C) 8,4 g.\n(D) 33,6 g.\n(E) 3,36 g.",
       subItens: []
     },
     options: ["1,68 g.","16,8 g.","8,4 g.","33,6 g.","3,36 g."],
@@ -798,7 +798,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "O óxido de propileno é uma substância utilizada na produção\nde polímeros, como o poliuretano. Sua fórmula estrutural está\nrepresentada a seguir.\nCH_{3}\nΟ\nóxido de propileno\nA massa molar dessa substância é\n(A) 45 $\\\\frac{g}{mol}$.\n(B) 42 $\\\\frac{g}{mol}$.\n(C) 46 $\\\\frac{g}{mol}$.\n(D) 55 $\\\\frac{g}{mol}$.\n(E) 58 $\\\\frac{g}{mol}$.",
+      principal: "O óxido de propileno é uma substância utilizada na produção\nde polímeros, como o poliuretano. Sua fórmula estrutural está\nrepresentada a seguir.\n$CH_{3}$\nΟ\nóxido de propileno\nA massa molar dessa substância é\n(A) 45 g/mol.\n(B) 42 g/mol.\n(C) 46 g/mol.\n(D) 55 g/mol.\n(E) 58 g/mol.",
       subItens: []
     },
     options: ["45 g/mol.","42 g/mol.","46 g/mol.","55 g/mol.","58 g/mol."],
@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Uma solução de hidróxido de sódio (NaOH) apresenta pH\nigual a 9. Considerando-se o valor de Kw igual a 10⁻¹⁴, a\nconcentração de íons OH⁻ nessa solução é igual a\n(A) 10⁻⁷ $\\\\frac{mol}{L}$.\n(B) 10⁻⁸ $\\\\frac{mol}{L}$.\n(C) 10⁻⁵ $\\\\frac{mol}{L}$.\n(D) 10⁻⁹ $\\\\frac{mol}{L}$.\n(E) 10⁻⁶ $\\\\frac{mol}{L}$.",
+      principal: "Uma solução de hidróxido de sódio (NaOH) apresenta pH\nigual a 9. Considerando-se o valor de Kw igual a 10⁻¹⁴, a\nconcentração de íons OH⁻ nessa solução é igual a\n(A) 10⁻⁷ mol/L.\n(B) 10⁻⁸ mol/L.\n(C) 10⁻⁵ mol/L.\n(D) 10⁻⁹ mol/L.\n(E) 10⁻⁶ mol/L.",
       subItens: []
     },
     options: ["10⁻⁷ mol/L.","10⁻⁸ mol/L.","10⁻⁵ mol/L.","10⁻⁹ mol/L.","10⁻⁶ mol/L."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A decomposição térmica do carbonato de zinco (ZnCO_{3}) em\nseus óxidos tem uma entalpia positiva de 71,5 $\\\\frac{kJ}{mol}$ de\nZnCO_{3}. A equação termoquímica que representa essa rea-\nção é\n(A) ZnCO_{3} (s) → ZnO (s) + CO (g) (9)+202 + 102 (g) + 71,5 kJ\n(B) ZnCO_{3} (s) + 71,5 kJ → ZnO (s) + CO (g) + 102(g) = O_{2} (g)\n(C) ZnCO_{3} (s) + 71,5 kJ → ZnO_{2} (s) + CO (g)\n(D) ZnCO_{3} (s) → ZnO (s) + CO_{2} (g) + 71,5 kJ\n(E) ZnCO_{3} (s) + 71,5 kJ → ZnO (s) + CO_{2} (g)",
+      principal: "A decomposição térmica do carbonato de zinco ($ZnCO_{3}$) em\nseus óxidos tem uma entalpia positiva de 71,5 kJ/mol de\n$ZnCO_{3}$. A equação termoquímica que representa essa rea-\nção é\n(A) $ZnCO_{3}$ (s) → ZnO (s) + CO (g) (9)+202 + 102 (g) + 71,5 kJ\n(B) $ZnCO_{3}$ (s) + 71,5 kJ → ZnO (s) + CO (g) + 102(g) = $O_{2}$ (g)\n(C) $ZnCO_{3}$ (s) + 71,5 kJ → $ZnO_{2}$ (s) + CO (g)\n(D) $ZnCO_{3}$ (s) → ZnO (s) + $CO_{2}$ (g) + 71,5 kJ\n(E) $ZnCO_{3}$ (s) + 71,5 kJ → ZnO (s) + $CO_{2}$ (g)",
       subItens: []
     },
     options: ["ZnCO3 (s) → ZnO (s) + CO (g) (9)+202 + 102 (g) + 71,5 kJ","ZnCO3 (s) + 71,5 kJ → ZnO (s) + CO (g) + 102(g) = O2 (g)","ZnCO3 (s) + 71,5 kJ → ZnO2 (s) + CO (g)","ZnCO3 (s) → ZnO (s) + CO2 (g) + 71,5 kJ","ZnCO3 (s) + 71,5 kJ → ZnO (s) + CO2 (g)"],
@@ -858,7 +858,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A figura representa uma célula galvânica constituída por um\neletrodo padrão de hidrogênio mergulhado em uma solução\ncom [H+] = 1,0 $\\\\frac{mol}{L}$ e por um eletrodo de ouro mergulhado\nem solução contendo íons Fe_{2}+ e íons Fe_{3}+.\nH_{2}\nV\nEletrodo\nde Pt\nEletrodo\nde Au\nFe_{2}+\nFe_{3}+\n[H+] = 1,0 $\\\\frac{mol}{L}$\nFio de cobre\nMembrana porosa\n(https://mycourses.aalto.fi. Adaptado.)\nConsidere os eletrodos de platina e de ouro inertes e os po-\ntenciais de redução das espécies químicas presentes nas\nsoluções:\n2H+ + 2e-  H_{2}\nE° = 0,00 V\nFe_{3}+ + e  Fe_{2}+\nE° = +0,77 V\nDurante o funcionamento da célula galvânica representada\nna figura,\n(A) o gás hidrogênio atuará como agente oxidante.\n(B) os elétrons migrarão pelo fio de cobre no sentido do ele-\ntrodo de ouro.\n(C) a ddp da célula será de +1,54 V.\n(D) ocorrerá oxidação no eletrodo de platina.\n(E) ocorrerá aumento da concentração de íons Fe_{3}+.",
+      principal: "A figura representa uma célula galvânica constituída por um\neletrodo padrão de hidrogênio mergulhado em uma solução\ncom [H+] = 1,0 mol/L e por um eletrodo de ouro mergulhado\nem solução contendo íons $Fe_{2}$+ e íons $Fe_{3}$+.\n$H_{2}$\nV\nEletrodo\nde Pt\nEletrodo\nde Au\n$Fe_{2}$+\n$Fe_{3}$+\n[H+] = 1,0 mol/L\nFio de cobre\nMembrana porosa\n(https://mycourses.aalto.fi. Adaptado.)\nConsidere os eletrodos de platina e de ouro inertes e os po-\ntenciais de redução das espécies químicas presentes nas\nsoluções:\n2H+ + 2e-  $H_{2}$\nE° = 0,00 V\n$Fe_{3}$+ + e  $Fe_{2}$+\nE° = +0,77 V\nDurante o funcionamento da célula galvânica representada\nna figura,\n(A) o gás hidrogênio atuará como agente oxidante.\n(B) os elétrons migrarão pelo fio de cobre no sentido do ele-\ntrodo de ouro.\n(C) a ddp da célula será de +1,54 V.\n(D) ocorrerá oxidação no eletrodo de platina.\n(E) ocorrerá aumento da concentração de íons $Fe_{3}$+.",
       subItens: []
     },
     options: ["o gás hidrogênio atuará como agente oxidante.","os elétrons migrarão pelo fio de cobre no sentido do ele-\ntrodo de ouro.","a ddp da célula será de +1,54 V.","ocorrerá oxidação no eletrodo de platina.","ocorrerá aumento da concentração de íons Fe3+."],
@@ -888,7 +888,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Um hidrocarboneto insaturado, ao sofrer oxidação com per-\nmanganato de potássio em meio ácido, produziu três com-\npostos diferentes, conforme a equação:\nHidrocarboneto\n$\\\\frac{KMnO_{4}}{H}$+\n→ CH_{3}-COOH + HOOC-CH_{2}-COOH + CO_{2}\nA fórmula estrutural desse hidrocarboneto é\n(A)\n(B)\n(C)\n(D)\n(E)",
+      principal: "Um hidrocarboneto insaturado, ao sofrer oxidação com per-\nmanganato de potássio em meio ácido, produziu três com-\npostos diferentes, conforme a equação:\nHidrocarboneto\n$KMnO_{4}$/H+\n→ $CH_{3}$-COOH + HOOC-$CH_{2}$-COOH + $CO_{2}$\nA fórmula estrutural desse hidrocarboneto é\n(A)\n(B)\n(C)\n(D)\n(E)",
       subItens: []
     },
     options: ["","","","",""],
@@ -903,7 +903,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Existem várias versões do Caminho de Santiago, que são tra-\njetos percorridos anualmente por milhares de peregrinos que\nse dirigem à cidade de Santiago de Compostela, na Espanha,\ncom a finalidade de venerar o apóstolo Santiago Maior. Con-\nsidere que uma pessoa percorreu um desses caminhos em\n32 dias, andando a distância total de 800 km e caminhando\ncom velocidade média de 3,0 $\\\\frac{km}{h}$. O tempo que essa pes-\nsoa caminhou por dia, em média, foi de\n(A) 7 horas e 20 minutos.\n(B) 8 horas e 20 minutos.\n(C) 7 horas e 40 minutos.\n(D) 8 horas e 40 minutos.\n(E) 9 horas e 40 minutos.",
+      principal: "Existem várias versões do Caminho de Santiago, que são tra-\njetos percorridos anualmente por milhares de peregrinos que\nse dirigem à cidade de Santiago de Compostela, na Espanha,\ncom a finalidade de venerar o apóstolo Santiago Maior. Con-\nsidere que uma pessoa percorreu um desses caminhos em\n32 dias, andando a distância total de 800 km e caminhando\ncom velocidade média de 3,0 km/h. O tempo que essa pes-\nsoa caminhou por dia, em média, foi de\n(A) 7 horas e 20 minutos.\n(B) 8 horas e 20 minutos.\n(C) 7 horas e 40 minutos.\n(D) 8 horas e 40 minutos.\n(E) 9 horas e 40 minutos.",
       subItens: []
     },
     options: ["7 horas e 20 minutos.","8 horas e 20 minutos.","7 horas e 40 minutos.","8 horas e 40 minutos.","9 horas e 40 minutos."],
@@ -918,7 +918,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Em um local em que a aceleração gravitacional vale 10 $\\\\frac{m}{s}$²,\numa pessoa eleva um objeto de peso 400 N por meio de uma\nroldana fixa, conforme mostra a figura, utilizando uma corda\nque suporta, no máximo, uma tração igual a 520 N.\n(https://brasilescola.uol.com.br.)\nA máxima aceleração que a pessoa pode imprimir ao objeto\ndurante a subida, sem que a corda se rompa, é\n(A) 6,0 $\\\\frac{m}{s}$².\n(B) 13 $\\\\frac{m}{s}$².\n(C) 8,0 $\\\\frac{m}{s}$².\n(D) 2,0 $\\\\frac{m}{s}$².\n(E) 3,0 $\\\\frac{m}{s}$².",
+      principal: "Em um local em que a aceleração gravitacional vale 10 m/s²,\numa pessoa eleva um objeto de peso 400 N por meio de uma\nroldana fixa, conforme mostra a figura, utilizando uma corda\nque suporta, no máximo, uma tração igual a 520 N.\n(https://brasilescola.uol.com.br.)\nA máxima aceleração que a pessoa pode imprimir ao objeto\ndurante a subida, sem que a corda se rompa, é\n(A) 6,0 m/s².\n(B) 13 m/s².\n(C) 8,0 m/s².\n(D) 2,0 m/s².\n(E) 3,0 m/s².",
       subItens: []
     },
     options: ["6,0 m/s².","13 m/s².","8,0 m/s².","2,0 m/s².","3,0 m/s²."],
@@ -978,7 +978,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Colocou-se certa massa de água a 80 °C em um recipiente de\nalumínio de massa 420 g que estava à temperatura de 20 °C.\nApós certo tempo, a temperatura do conjunto atingiu o equi-\nlíbrio em 70 °C. Considerando que a troca de calor ocorreu\napenas entre a água e o recipiente, que não houve per-\nda de calor para o ambiente e que os calores específicos\ndo alumínio e da água sejam, respectivamente, iguais a\n$1 \\\\times 10^{2}$ J/(kg °C) e $1 \\\\times 10^{3}$ J/(kg· °C), a quantidade de\nágua colocada no recipiente foi\n(A) 220 g.\n(B) 450 g.\n(C) 330 g.\n(D) 520 g.\n(E) 280 g.",
+      principal: "Colocou-se certa massa de água a 80 °C em um recipiente de\nalumínio de massa 420 g que estava à temperatura de 20 °C.\nApós certo tempo, a temperatura do conjunto atingiu o equi-\nlíbrio em 70 °C. Considerando que a troca de calor ocorreu\napenas entre a água e o recipiente, que não houve per-\nda de calor para o ambiente e que os calores específicos\ndo alumínio e da água sejam, respectivamente, iguais a\n9,0 × 102 J/(kg °C) e 4,2 × 103 J/(kg· °C), a quantidade de\nágua colocada no recipiente foi\n(A) 220 g.\n(B) 450 g.\n(C) 330 g.\n(D) 520 g.\n(E) 280 g.",
       subItens: []
     },
     options: ["220 g.","450 g.","330 g.","520 g.","280 g."],
@@ -1113,7 +1113,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "Admita que cada um dos tons de qualquer uma das três co-\nres primárias seja definido por um número inteiro de 0 a 255.\nSobrepondo-se duas cores primárias diferentes, com seus\nrespectivos tons, o resultado sempre será uma cor inédita.\nSobrepondo-se uma cor primária a ela mesma, o resultado\nserá uma cor inédita apenas quando a sobreposição for entre\ncores primárias iguais mas de tons diferentes. Nessas condi-\nções, o número de cores inéditas que podemos produzir com\na sobreposição de duas cores primárias, sejam elas iguais ou\ndiferentes, é\n(A) 2^{16}$. 3 + 2^{17}$ = 327680\n(B) 2^{15}$. 3 + 2^{17}$ = 229376\n(C) 2^{8}$ (2^{81}$) 3 + 2^{16}$ . 3 = 392448\n(D) 2^{8}$ (2^{81}$) 3 + 2^{17}$ = 326912\n(E) 2^{173}$ = 393216",
+      principal: "Admita que cada um dos tons de qualquer uma das três co-\nres primárias seja definido por um número inteiro de 0 a 255.\nSobrepondo-se duas cores primárias diferentes, com seus\nrespectivos tons, o resultado sempre será uma cor inédita.\nSobrepondo-se uma cor primária a ela mesma, o resultado\nserá uma cor inédita apenas quando a sobreposição for entre\ncores primárias iguais mas de tons diferentes. Nessas condi-\nções, o número de cores inéditas que podemos produzir com\na sobreposição de duas cores primárias, sejam elas iguais ou\ndiferentes, é\n(A) 2^16. 3 + 2^17 = 327680\n(B) 2^15. 3 + 2^17 = 229376\n(C) 2^8 (2^81) 3 + 2^16 . 3 = 392448\n(D) 2^8 (2^81) 3 + 2^17 = 326912\n(E) 2^173 = 393216",
       subItens: []
     },
     options: ["2^16. 3 + 2^17 = 327680","2^15. 3 + 2^17 = 229376","2^8 (2^81) 3 + 2^16 . 3 = 392448","2^8 (2^81) 3 + 2^17 = 326912","2^173 = 393216"],
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "José deseja fazer uma poupança mensal durante 10 anos,\nsempre acrescentando 0,5% a mais em relação ao valor\npoupado no mês anterior. Adotando 1,005^{120}$ = 1,819 em seu\ncálculo final, se José começar sua poupança depositando\nR$ 100,00 no primeiro mês, ao final do último mês de depósi-\nto ele terá depositado um total de\n(A) R$ 69.600,00.\n(B) R$ 6.645,00.\n(C) R$ 32.760,00.\n(D) R$ 16.380,00.\n(E) R$ 6.500,00.",
+      principal: "José deseja fazer uma poupança mensal durante 10 anos,\nsempre acrescentando 0,5% a mais em relação ao valor\npoupado no mês anterior. Adotando 1,005^120 = 1,819 em seu\ncálculo final, se José começar sua poupança depositando\nR$ 100,00 no primeiro mês, ao final do último mês de depósi-\nto ele terá depositado um total de\n(A) R$ 69.600,00.\n(B) R$ 6.645,00.\n(C) R$ 32.760,00.\n(D) R$ 16.380,00.\n(E) R$ 6.500,00.",
       subItens: []
     },
     options: ["R$ 69.600,00.","R$ 6.645,00.","R$ 32.760,00.","R$ 16.380,00.","R$ 6.500,00."],
@@ -1188,7 +1188,7 @@ createQuestion({
     university: "Vestibular",
     year: 2020,
     text: {
-      principal: "A figura indica os gráficos de uma reta r e uma senoide s, de\n5\nequações y y=ey=1+ = e 3 sen (2x), em um plano cartesiano\n2\nde eixos ortogonais.\ny\nS\nP r\n#\n0\nSendo P um ponto de intersecção dos gráficos, conforme\nmostra a figura, sua abscissa, convertida para graus, é igual a\n(A) 275°\n(B) 240°\n(C) 225°\n(D) 210°\n(Ε) 195°",
+      principal: "A figura indica os gráficos de uma reta r e uma senoide s, de\n5\nequações y y=ey=1+ = e 3 $\\sin$ (2x), em um plano cartesiano\n2\nde eixos ortogonais.\ny\nS\nP r\n#\n0\nSendo P um ponto de intersecção dos gráficos, conforme\nmostra a figura, sua abscissa, convertida para graus, é igual a\n(A) 275°\n(B) 240°\n(C) 225°\n(D) 210°\n(Ε) 195°",
       subItens: []
     },
     options: ["275°","240°","225°","210°","195°"],

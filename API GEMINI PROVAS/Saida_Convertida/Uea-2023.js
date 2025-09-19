@@ -318,7 +318,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Analise o gráfico.\n\nEvolução da população (em mil) de acordo com\na autodeclaração de cor ou raça\n\n120\n100\n80\n60\n40\n20\n0\n2012 2013 2014 2015 2016 2017 2018 2019\n→ Brancos Pardos Pretos\n\n(https://g_{1}.globo.com, 06.05.2020. Adaptado.)\n\nConsiderando a análise do gráfico e conhecimentos sobre a população brasileira, verifica-se aumento no quantitativo do grupo de autodeclarados",
+      principal: "Analise o gráfico.\n\nEvolução da população (em mil) de acordo com\na autodeclaração de cor ou raça\n\n120\n100\n80\n60\n40\n20\n0\n2012 2013 2014 2015 2016 2017 2018 2019\n→ Brancos Pardos Pretos\n\n(https://$g_{1}$.globo.com, 06.05.2020. Adaptado.)\n\nConsiderando a análise do gráfico e conhecimentos sobre a população brasileira, verifica-se aumento no quantitativo do grupo de autodeclarados",
       subItens: []
     },
     options: ["brancos, devido à política de branqueamento implantada no país após 1990.","pretos, em virtude das políticas públicas de ações afirmativas.","pardos, em razão do processo de emigração de haitianos.","brancos, por efeito do empoderamento da cultura eurocêntrica.","pretos, em função do processo de miscigenação no país após 1990."],
@@ -348,7 +348,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Em julho de 2022, a China sediou três eventos de relevância mundial: a 14ª Cúpula dos BRICS, o Diálogo de Alto Nível sobre Desenvolvimento Global e o Fórum Empresarial dos BRICS. Em um dos discursos, o presidente da China Xi Jinping disse que é hora de abandonar a mentalidade da Guerra Fria e do confronto entre blocos ideológicos, rejeitar sanções unilaterais e abusivas e prezar a \"grande família” da comunidade de futuro compartilhado em vez de formar grupos ditados pela hegemonia.\n\n(www.poder_{360}.com.br, 08.07.2022. Adaptado.)\n\nO discurso do presidente chinês é uma crítica às ações",
+      principal: "Em julho de 2022, a China sediou três eventos de relevância mundial: a 14ª Cúpula dos BRICS, o Diálogo de Alto Nível sobre Desenvolvimento Global e o Fórum Empresarial dos BRICS. Em um dos discursos, o presidente da China Xi Jinping disse que é hora de abandonar a mentalidade da Guerra Fria e do confronto entre blocos ideológicos, rejeitar sanções unilaterais e abusivas e prezar a \"grande família” da comunidade de futuro compartilhado em vez de formar grupos ditados pela hegemonia.\n\n(www.$poder_{360}$.com.br, 08.07.2022. Adaptado.)\n\nO discurso do presidente chinês é uma crítica às ações",
       subItens: []
     },
     options: ["imperialistas dos EUA em Taiwan para assegurar que esse país tenha maior comércio com o Ocidente.","unilaterais dos EUA que visam implementar barreiras para a expansão comercial e geopolítica da China.","ineficientes dos BRICS em promover o multilateralismo entre os países em desenvolvimento e periféricos.","político-econômicas da União Europeia para aumentar sua influência nos países da África do Norte.","multilaterais da União Europeia, já que os países-membros desse bloco implementam práticas protecionistas para assegurar a concorrência intrabloco."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Os governos do Brasil e da Argentina entraram em acordo para reduzir em 10% a Tarifa Externa Comum (TEC) do Mercosul bloco econômico que também inclui os vizinhos Paraguai e Uruguai. A Tarifa Externa Comum é uma alíquota de importação unificada entre os países do bloco. Essa unificação ajuda a evitar disputas tarifárias dentro do Mercosul mas especialistas criticam a variedade de exceções impostas à regra.\n\n(https://g_{1}.globo.com. 08.10.2021.)\n\nO processo de estruturação dos blocos econômicos por um conjunto de países é constituído por diferentes etapas de integração. Dessa forma, a etapa de integração que implementa a Tarifa Externa Comum citada nesse excerto é",
+      principal: "Os governos do Brasil e da Argentina entraram em acordo para reduzir em 10% a Tarifa Externa Comum (TEC) do Mercosul bloco econômico que também inclui os vizinhos Paraguai e Uruguai. A Tarifa Externa Comum é uma alíquota de importação unificada entre os países do bloco. Essa unificação ajuda a evitar disputas tarifárias dentro do Mercosul mas especialistas criticam a variedade de exceções impostas à regra.\n\n(https://$g_{1}$.globo.com. 08.10.2021.)\n\nO processo de estruturação dos blocos econômicos por um conjunto de países é constituído por diferentes etapas de integração. Dessa forma, a etapa de integração que implementa a Tarifa Externa Comum citada nesse excerto é",
       subItens: []
     },
     options: ["a área de livre comércio.","a livre circulação de pessoas.","a união aduaneira.","o mercado comum.","a união econômica."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Quase 700 migrantes foram resgatados no dia 23.07.2022, na costa sul da Itália, segundo comunicado emitido pela guarda costeira do país, em uma demonstração do crescimento do fluxo migratório no Mediterrâneo. Dezesseis pessoas morreram após um navio que transportava imigrantes haitianos virar na costa das Bahamas, disseram autoridades, no dia 24.07.2022, em meio a uma onda contínua de migração marítima em direção aos Estados Unidos. Quatro mulheres e 17 homens foram resgatados do incidente.\n\n(www_{1}.folha.uol.com.br, 24.07.2022. Adaptado.)\n\nOs episódios citados no excerto apresentam movimentos populacionais que têm como uma de suas causas",
+      principal: "Quase 700 migrantes foram resgatados no dia 23.07.2022, na costa sul da Itália, segundo comunicado emitido pela guarda costeira do país, em uma demonstração do crescimento do fluxo migratório no Mediterrâneo. Dezesseis pessoas morreram após um navio que transportava imigrantes haitianos virar na costa das Bahamas, disseram autoridades, no dia 24.07.2022, em meio a uma onda contínua de migração marítima em direção aos Estados Unidos. Quatro mulheres e 17 homens foram resgatados do incidente.\n\n($www_{1}$.folha.uol.com.br, 24.07.2022. Adaptado.)\n\nOs episódios citados no excerto apresentam movimentos populacionais que têm como uma de suas causas",
       subItens: []
     },
     options: ["as políticas de oferta de emprego nos países de destino.","a excelência do sistema de saúde pública nos países de destino.","o auxílio à qualificação profissional nos países de origem.","as crises econômicas nos países de destino.","a instabilidade política nos países de origem."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Em uma fábrica, pães de mel são conduzidos por uma esteira para dentro do forno, com velocidade média de 0,05 $\\\\frac{m}{s}$.\n\nMovimento da esteira\nForno\n\nEnquanto atravessam o interior do forno de 24 m de comprimento, os pães de mel são assados com bastante precisão, garantindo a qualidade do produto.\n\nO tempo necessário para que um pão de mel seja perfeitamente assado é mais próximo de",
+      principal: "Em uma fábrica, pães de mel são conduzidos por uma esteira para dentro do forno, com velocidade média de 0,05 m/s.\n\nMovimento da esteira\nForno\n\nEnquanto atravessam o interior do forno de 24 m de comprimento, os pães de mel são assados com bastante precisão, garantindo a qualidade do produto.\n\nO tempo necessário para que um pão de mel seja perfeitamente assado é mais próximo de",
       subItens: []
     },
     options: ["240 s.","300 s.","360 s.","480 s.","600 s."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Uma pequena esfera é presa por uma corda ao teto de uma sala. A corda possui 1 m de comprimento, massa desprezível e é inextensível. A esfera é abandonada do repouso na posição indicada na figura, que está demarcada por uma malha quadriculada com quadrados de 0,2 m de lado.\n\nTeto da sala\n\nConsiderando g = 10 $\\\\frac{m}{s}$² e admitindo que não haja perda de energia mecânica, a velocidade da esfera, ao passar pelo ponto mais baixo de sua trajetória, será",
+      principal: "Uma pequena esfera é presa por uma corda ao teto de uma sala. A corda possui 1 m de comprimento, massa desprezível e é inextensível. A esfera é abandonada do repouso na posição indicada na figura, que está demarcada por uma malha quadriculada com quadrados de 0,2 m de lado.\n\nTeto da sala\n\nConsiderando g = 10 m/s² e admitindo que não haja perda de energia mecânica, a velocidade da esfera, ao passar pelo ponto mais baixo de sua trajetória, será",
       subItens: []
     },
     options: ["2,0 m/s.","2,5 m/s.","3,0 m/s.","3,5 m/s.","4,0 m/s."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Uma vez que o som se propaga pelo ar com velocidade igual a 340 $\\\\frac{m}{s}$, o tempo para que ele deixe sua fonte sonora, em repouso, atinja uma parede distante 340 m dela e, refletido, retorne ao ponto em que foi emitido é de",
+      principal: "Uma vez que o som se propaga pelo ar com velocidade igual a 340 m/s, o tempo para que ele deixe sua fonte sonora, em repouso, atinja uma parede distante 340 m dela e, refletido, retorne ao ponto em que foi emitido é de",
       subItens: []
     },
     options: ["1,0 s.","1,7 s.","2,0 s.","3,4 s.","6,8 s."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Um pequeno motor emprega 4000 J de energia para erguer um objeto por uma altura de 4 m. Como a velocidade da ascensão do objeto é constante e a aceleração da gravidade é 10 $\\\\frac{m}{s}$², a massa do objeto que está sendo erguido é",
+      principal: "Um pequeno motor emprega 4000 J de energia para erguer um objeto por uma altura de 4 m. Como a velocidade da ascensão do objeto é constante e a aceleração da gravidade é 10 m/s², a massa do objeto que está sendo erguido é",
       subItens: []
     },
     options: ["10 kg.","20 kg.","40 kg.","50 kg.","100 kg."],
@@ -828,7 +828,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Aquecendo-se carbonato de cobre(II), este se decompõe produzindo óxido de cobre(II) e dióxido de carbono, de acordo com a equação:\n\nCuCO_{3} (s) → CuO (s) + CO_{2} (g)\n\nEm um cadinho de massa igual a 18,0 g, foram colocados 2,5 g de CuCO_{3} (s). O cadinho com seu conteúdo foi aquecido prolongadamente. Após o resfriamento do cadinho, foi novamente determinada a massa do conjunto (cadinho + conteúdo final), encontrando como resultado o valor de 19,6 g. A massa de dióxido de carbono produzida nessa reação foi, portanto, igual a",
+      principal: "Aquecendo-se carbonato de cobre(II), este se decompõe produzindo óxido de cobre(II) e dióxido de carbono, de acordo com a equação:\n\n$CuCO_{3}$ (s) → CuO (s) + $CO_{2}$ (g)\n\nEm um cadinho de massa igual a 18,0 g, foram colocados 2,5 g de $CuCO_{3}$ (s). O cadinho com seu conteúdo foi aquecido prolongadamente. Após o resfriamento do cadinho, foi novamente determinada a massa do conjunto (cadinho + conteúdo final), encontrando como resultado o valor de 19,6 g. A massa de dióxido de carbono produzida nessa reação foi, portanto, igual a",
       subItens: []
     },
     options: ["0,16 g.","0,25 g.","0,9 g.","1,2 g.","1,6 g."],
@@ -858,7 +858,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2023,
     text: {
-      principal: "Recentemente, ocorreu no Líbano um grave desastre provocado pela explosão de grande quantidade de nitrato de amônio que estava armazenada em um galpão no porto de Beirute. A equação química, não completamente balanceada, que representa essa explosão é\n\n2NH4NO3 (s) → xN_{2} (g) + yO_{2} (g) + zH2O (g) + energia térmica\n\nEssa equação fica corretamente balanceada substituindo-se x, y e z, respectivamente, por",
+      principal: "Recentemente, ocorreu no Líbano um grave desastre provocado pela explosão de grande quantidade de nitrato de amônio que estava armazenada em um galpão no porto de Beirute. A equação química, não completamente balanceada, que representa essa explosão é\n\n2NH4NO3 (s) → $xN_{2}$ (g) + $yO_{2}$ (g) + zH2O (g) + energia térmica\n\nEssa equação fica corretamente balanceada substituindo-se x, y e z, respectivamente, por",
       subItens: []
     },
     options: ["2, 1 e 2.","2, 1 e 4.","2, 2 e 4.","1, 1 e 2.","1, 1 e 4."],

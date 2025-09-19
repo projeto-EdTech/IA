@@ -153,7 +153,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "O quadro a seguir apresenta a quantidade de visitantes aos equipamentos turísticos da cidade de Santos, no ano de 2016.\n\nTable:\nEquipamento turístico | Visitantes em 2016 (em milhares)\n--- | ---\nAquário Municipal | 529\nMuseu do Café | 309\nOrquidário Municipal | 184\nBonde Turístico | 99\nMemorial das Conquistas | 63\nMuseu Pelé | 50\nDisponível em: Folha de S. Paulo, $\\\\frac{25}{06}$/17, p. B_{7} [Adaptado].\nDe acordo com os dados apresentados nesse quadro, a média de visitantes nestes seis equipamentos foi",
+      principal: "O quadro a seguir apresenta a quantidade de visitantes aos equipamentos turísticos da cidade de Santos, no ano de 2016.\n\nTable:\nEquipamento turístico | Visitantes em 2016 (em milhares)\n--- | ---\nAquário Municipal | 529\nMuseu do Café | 309\nOrquidário Municipal | 184\nBonde Turístico | 99\nMemorial das Conquistas | 63\nMuseu Pelé | 50\nDisponível em: Folha de S. Paulo, 25/06/17, p. $B_{7}$ [Adaptado].\nDe acordo com os dados apresentados nesse quadro, a média de visitantes nestes seis equipamentos foi",
       subItens: []
     },
     options: ["menor que a quantidade de visitantes do Bonde Turístico e Memorial das Conquistas juntos.","maior que a quantidade de visitantes do Museu do Café.","menor que o triplo de visitantes do Memorial das Conquistas.","maior que o número de visitantes do Orquidário Municipal."],
@@ -168,7 +168,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Segundo dados da Agência Brasil, a marca de R$ 1 trilhão de pagamento em impostos pela população brasileira foi atingida em 16 de junho de 2017. [disponível em www.agenciabrasil.ebc.com.br. Acesso em $\\\\frac{25}{06}$/2017].\nConsiderando todos os meses com 30 dias, o valor médio diário arrecadado com impostos no Brasil, no período de 1 de janeiro a 16 junho de 2017, foi, aproximadamente, de:",
+      principal: "Segundo dados da Agência Brasil, a marca de R$ 1 trilhão de pagamento em impostos pela população brasileira foi atingida em 16 de junho de 2017. [disponível em www.agenciabrasil.ebc.com.br. Acesso em 25/06/2017].\nConsiderando todos os meses com 30 dias, o valor médio diário arrecadado com impostos no Brasil, no período de 1 de janeiro a 16 junho de 2017, foi, aproximadamente, de:",
       subItens: []
     },
     options: ["R$ 6.024,09","R$ 6.024.096,38","R$ 6.024.096.385,54","R$ 60.240.963.855,42"],
@@ -198,7 +198,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Leia o fragmento a seguir.\n\nA balança comercial goiana, no acumulado de janeiro a dezembro de 2016, apresentou superávit recorde. Nesse período, as exportações goianas somaram US$ 5,93 bilhões, registrando acréscimo de 0,88% em relação ao mesmo período de 2015.\nDisponível em:http://www.sed.go.gov.$\\\\frac{br}{post}$/$\\\\frac{ver}{218333}$/balanca-comercial-goiana-\napresenta-superavit-recorde-em-2016. Acesso em 25 jun. 17 [Adaptado].\n\nDe acordo com esses dados, o valor das exportações goianas em 2015 foi, aproximadamente, de:",
+      principal: "Leia o fragmento a seguir.\n\nA balança comercial goiana, no acumulado de janeiro a dezembro de 2016, apresentou superávit recorde. Nesse período, as exportações goianas somaram US$ 5,93 bilhões, registrando acréscimo de 0,88% em relação ao mesmo período de 2015.\nDisponível em:http://www.sed.go.gov.br/post/ver/218333/balanca-comercial-goiana-\napresenta-superavit-recorde-em-2016. Acesso em 25 jun. 17 [Adaptado].\n\nDe acordo com esses dados, o valor das exportações goianas em 2015 foi, aproximadamente, de:",
       subItens: []
     },
     options: ["US$ 5,05","US$ 5,45","US$ 5,88","US$ 5,98"],
@@ -228,7 +228,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "A magnitude M de um terremoto e a energia por ele liberada (em Joules) E estão relacionadas pela seguinte equação:\nlog(E)=4,4+1,5 M,\nsendo que o logaritmo está na base 10.\nSe um terremoto teve magnitude 1,95, a energia por ele liberada, em Joules, foi\nUse: 10^($\\\\frac{325}{1000}$)=2,11",
+      principal: "A magnitude M de um terremoto e a energia por ele liberada (em Joules) E estão relacionadas pela seguinte equação:\nlog(E)=4,4+1,5 M,\nsendo que o logaritmo está na base 10.\nSe um terremoto teve magnitude 1,95, a energia por ele liberada, em Joules, foi\nUse: 10^(325/1000)=2,11",
       subItens: []
     },
     options: ["2,11×10^2","2,11×10^5","2,11×10^7","2,11×10^22"],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Leia o texto a seguir.\n\nTeste do Pezinho deve ser feito até o quinto dia de vida dos bebês\nPrograma Nacional de Triagem Neonatal (PNTN) do Sistema Único de Saúde salva vidas e evita sequelas de seis doenças genéticas ou congênitas. Pais devem fazer o acompanhamento dos resultados\nPara que as crianças se desenvolvam com saúde, é essencial que todos os recém-nascidos façam o teste do Pezinho entre o 3º e o 5º dia de vida, por meio do PNTN. A realização do teste neste período é importante porque é capaz de identificar seis doenças genéticas ou congênitas passíveis de tratamento, mas que não apresentam evidências clínicas ao nascimento. Quanto mais cedo as doenças forem identificadas e tratadas, maior a possibilidade de evitar algumas sequelas nas crianças tais como deficiência mental, microcefalia, convulsões, comportamento autista, fibrosamento do pulmão, crises epiléticas, entre outras complicações e até a morte. Além da realização do Teste do Pezinho, o Sistema Único de Saúde (SUS) garante atendimento com médicos especialistas a todos os pacientes triados positivamente para as doenças.\n\nDisponível em: <http://portalsaude.saude.gov.$\\\\frac{br}{index}$.$\\\\frac{php}{cidadao}$/$\\\\frac{principal}{agencia}$-\n$\\\\frac{saude}{25955}$-teste-do-pezinho-deve-ser-feito-ate-o-quinto-dia-de-vida-dos-bebes>.\nAcesso em: 20 jun. 2017. (Adaptado).\n\nDentre as doenças detectadas por esse teste, cita-se, como exemplo, uma hemoglobinopatia, conhecida como:",
+      principal: "Leia o texto a seguir.\n\nTeste do Pezinho deve ser feito até o quinto dia de vida dos bebês\nPrograma Nacional de Triagem Neonatal (PNTN) do Sistema Único de Saúde salva vidas e evita sequelas de seis doenças genéticas ou congênitas. Pais devem fazer o acompanhamento dos resultados\nPara que as crianças se desenvolvam com saúde, é essencial que todos os recém-nascidos façam o teste do Pezinho entre o 3º e o 5º dia de vida, por meio do PNTN. A realização do teste neste período é importante porque é capaz de identificar seis doenças genéticas ou congênitas passíveis de tratamento, mas que não apresentam evidências clínicas ao nascimento. Quanto mais cedo as doenças forem identificadas e tratadas, maior a possibilidade de evitar algumas sequelas nas crianças tais como deficiência mental, microcefalia, convulsões, comportamento autista, fibrosamento do pulmão, crises epiléticas, entre outras complicações e até a morte. Além da realização do Teste do Pezinho, o Sistema Único de Saúde (SUS) garante atendimento com médicos especialistas a todos os pacientes triados positivamente para as doenças.\n\nDisponível em: <http://portalsaude.saude.gov.br/index.php/cidadao/principal/agencia-\nsaude/25955-teste-do-pezinho-deve-ser-feito-ate-o-quinto-dia-de-vida-dos-bebes>.\nAcesso em: 20 jun. 2017. (Adaptado).\n\nDentre as doenças detectadas por esse teste, cita-se, como exemplo, uma hemoglobinopatia, conhecida como:",
       subItens: []
     },
     options: ["fenilcetonúria.","fibrose cística.","anemia falciforme.","toxoplasmose congênita."],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Um corpo de massa m está sujeito a uma força resultante F_{1}, que atua conforme representado na figura a seguir.\n\nImage: Cartesian plane with origin at center. A vector F_{1} points from origin towards positive Y, negative X quadrant (roughly -X, +Y direction).\n\nPara que o corpo, partindo do repouso, se movimente ao longo do eixo x positivo, uma possível força F_{2} a ser adicionada ao sistema para resultar nesse movimento pode estar ao longo do",
+      principal: "Um corpo de massa m está sujeito a uma força resultante $F_{1}$, que atua conforme representado na figura a seguir.\n\nImage: Cartesian plane with origin at center. A vector $F_{1}$ points from origin towards positive Y, negative X quadrant (roughly -X, +Y direction).\n\nPara que o corpo, partindo do repouso, se movimente ao longo do eixo x positivo, uma possível força $F_{2}$ a ser adicionada ao sistema para resultar nesse movimento pode estar ao longo do",
       subItens: []
     },
     options: ["eixo x, no sentido positivo.","eixo y, no sentido positivo.","eixo x, no sentido negativo.","eixo y, no sentido negativo."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "As radiações eletromagnéticas ou ondas eletromagnéticas são muito utilizadas em nosso dia a dia: das ondas de rádio, para transportar sinais de TV e telefonia, a ondas de raios-X, para visualizar estruturas internas do corpo humano. Essas radiações transportam energia, cuja quantidade está diretamente relacionada com sua frequência. Quanto maior a frequência, mais energia a onda transporta.\nNo quadro a seguir, são apresentadas algumas faixas aproximadas de frequências e os nomes que damos a essas regiões.\n\nTable:\nRegião | Faixa de Frequência (Hz)\n--- | ---\nRádio | < $1 \\\\times 10^{9}$\nMicro-ondas | 10^{9}$ a 10^{12}$\nInfravermelho | 10^{12}$ a 10^{14}$\nUltravioleta | 10^{14}$ a 10^{17}$\nRaios-X | 10^{17}$ a 10^{19}$\n\nA faixa de frequência em que conseguimos observar a onda eletromagnética a olho nu é chamada de região do visível. Considerando as faixas de frequências apresentadas no quadro acima, a frequência, em Hz, que certamente se encontra na faixa do visível é",
+      principal: "As radiações eletromagnéticas ou ondas eletromagnéticas são muito utilizadas em nosso dia a dia: das ondas de rádio, para transportar sinais de TV e telefonia, a ondas de raios-X, para visualizar estruturas internas do corpo humano. Essas radiações transportam energia, cuja quantidade está diretamente relacionada com sua frequência. Quanto maior a frequência, mais energia a onda transporta.\nNo quadro a seguir, são apresentadas algumas faixas aproximadas de frequências e os nomes que damos a essas regiões.\n\nTable:\nRegião | Faixa de Frequência (Hz)\n--- | ---\nRádio | < 3 x 10^9\nMicro-ondas | 10^9 a 10^12\nInfravermelho | 10^12 a 10^14\nUltravioleta | 10^14 a 10^17\nRaios-X | 10^17 a 10^19\n\nA faixa de frequência em que conseguimos observar a onda eletromagnética a olho nu é chamada de região do visível. Considerando as faixas de frequências apresentadas no quadro acima, a frequência, em Hz, que certamente se encontra na faixa do visível é",
       subItens: []
     },
     options: ["4 x 10^9","5 x 10^12","6 x 10^14","7 x 10^17"],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "A noção de trabalho, em Física, é muito importante e diferente daquela usada em nosso dia a dia. Para a Física, existe trabalho realizado quando forças atuam sobre um corpo, produzindo nele um deslocamento.\n\nImage: A block being pushed horizontally with force F over a distance d.\n\nDisponível em: <http://www.cepa.if.usp.$\\\\frac{br}{energia}$/$\\\\frac{energia_{2000}}{turmaB}$/$\\\\frac{grupo_{5}}{trabalho}$/trabalho.htm>. Acesso em 08 jul. 2017\n\nPara a Física, no caso da figura acima, o trabalho da força resultante que atua no bloco está diretamente relacionado com a variação de",
+      principal: "A noção de trabalho, em Física, é muito importante e diferente daquela usada em nosso dia a dia. Para a Física, existe trabalho realizado quando forças atuam sobre um corpo, produzindo nele um deslocamento.\n\nImage: A block being pushed horizontally with force F over a distance d.\n\nDisponível em: <http://www.cepa.if.usp.br/energia/$energia_{2000}$/turmaB/$grupo_{5}$/trabalho/trabalho.htm>. Acesso em 08 jul. 2017\n\nPara a Física, no caso da figura acima, o trabalho da força resultante que atua no bloco está diretamente relacionado com a variação de",
       subItens: []
     },
     options: ["sua energia cinética.","sua quantidade de movimento.","seu impulso.","seu potencial gravitacional."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Observe a imagem.\n\nImage: Caricature \"L'ENJAMBÉE IMPERIALE\" showing Catherine II (Catherine the Great) with one leg over \"Constantinople\" and the other over \"Rufie\" (Russia), extending her reach.\n\nL'enjambée impériale. Caricature contre Catherine II de Russie, de Vinck, 4357 vers 1792. Disponível em:\nhttp://classes.bnf.$\\\\frac{fr}{essentiels}$/$\\\\frac{images}{3}$/ess_057.jpg. Acesso em: 20 jun. 2017.\n\nA caricatura apresenta Catarina II, a Grande, imperadora russa, considerada uma déspota esclarecida, cujo governo foi caracterizado por:",
+      principal: "Observe a imagem.\n\nImage: Caricature \"L'ENJAMBÉE IMPERIALE\" showing Catherine II (Catherine the Great) with one leg over \"Constantinople\" and the other over \"Rufie\" (Russia), extending her reach.\n\nL'enjambée impériale. Caricature contre Catherine II de Russie, de Vinck, 4357 vers 1792. Disponível em:\nhttp://classes.bnf.fr/essentiels/images/3/ess_057.jpg. Acesso em: 20 jun. 2017.\n\nA caricatura apresenta Catarina II, a Grande, imperadora russa, considerada uma déspota esclarecida, cujo governo foi caracterizado por:",
       subItens: []
     },
     options: ["modernização cultural e expansão territorial.","limitação da soberania e separação dos três poderes.","extinção da servidão e enfraquecimento da nobreza.","fortalecimento da Igreja Católica e intolerância religiosa."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Observe a imagem.\n\nImage: Black and white photo of Plínio Salgado (center) with integralist militants. A magazine cover \"ANAUÊ! TEATRO\" is partially visible in front.\n\nPlínio Salgado (ao centro), líder máximo da Ação Integralista Brasileira, posa com militantes integralistas, os \"camisas verde\" s.l., s.d. Inserção: capa da Revista Anauê, Maio de 1935.\nDisponível em: http://www.exposicoesvirtuais.arquivonacional.gov.$\\\\frac{br}{pt}$-$\\\\frac{br}{exposicoes}$/69-estado-novo-1937-$\\\\frac{1945}{342}$-conspiracoes-e-articulacoes. Acesso em: 26 jun. 2017.\n\nA imagem apresenta Plínio Salgado, o principal líder da Ação Integralista Brasileira (AIB) e os militantes integralistas. Na imagem está inserida a capa da Revista integralista Anauê. Surgida na década de 1930, a AIB inspirou-se no",
+      principal: "Observe a imagem.\n\nImage: Black and white photo of Plínio Salgado (center) with integralist militants. A magazine cover \"ANAUÊ! TEATRO\" is partially visible in front.\n\nPlínio Salgado (ao centro), líder máximo da Ação Integralista Brasileira, posa com militantes integralistas, os \"camisas verde\" s.l., s.d. Inserção: capa da Revista Anauê, Maio de 1935.\nDisponível em: http://www.exposicoesvirtuais.arquivonacional.gov.br/pt-br/exposicoes/69-estado-novo-1937-1945/342-conspiracoes-e-articulacoes. Acesso em: 26 jun. 2017.\n\nA imagem apresenta Plínio Salgado, o principal líder da Ação Integralista Brasileira (AIB) e os militantes integralistas. Na imagem está inserida a capa da Revista integralista Anauê. Surgida na década de 1930, a AIB inspirou-se no",
       subItens: []
     },
     options: ["fascismo italiano.","comunismo cubano.","socialismo soviético.","liberalismo americano."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Processo Seletivo",
     year: 2017,
     text: {
-      principal: "Analise a fotografia.\n\nImage: Teatro Goiânia building, Art Deco style.\n\nTeatro Goiânia. Disponível em: http://www.goiasagora.go.gov.$\\\\frac{br}{teatro}$-goiania-divulga-\nprogramacao-de-espetaculos-para-o-2o-semestre/. Acesso em: 26 jun. 2017.\n\nO Teatro Goiânia, retratado na imagem, é um exemplo das construções no estilo Art déco, que marcaram a construção de Goiânia entre as décadas de 1930 e 1940. Estilo internacional de design, o Art déco surgiu na Europa, nas primeiras décadas do século XX, e reflete as mudanças sociais e políticas do período. Em Goiânia caracterizou-se por:",
+      principal: "Analise a fotografia.\n\nImage: Teatro Goiânia building, Art Deco style.\n\nTeatro Goiânia. Disponível em: http://www.goiasagora.go.gov.br/teatro-goiania-divulga-\nprogramacao-de-espetaculos-para-o-2o-semestre/. Acesso em: 26 jun. 2017.\n\nO Teatro Goiânia, retratado na imagem, é um exemplo das construções no estilo Art déco, que marcaram a construção de Goiânia entre as décadas de 1930 e 1940. Estilo internacional de design, o Art déco surgiu na Europa, nas primeiras décadas do século XX, e reflete as mudanças sociais e políticas do período. Em Goiânia caracterizou-se por:",
       subItens: []
     },
     options: ["robustez e tradicionalismo, preservando a memória histórica colonial na paisagem urbana.","rigor geométrico e elegância, concordando com as ideias de modernidade e progresso.","rusticidade e austeridade, denotando as limitações dos recursos técnicos e materiais disponíveis.","abundância ornamental e rebuscamento, resgatando os elementos estéticos da sociedade mineradora."],

@@ -243,7 +243,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Instrução: As questões 17 e 18 referem-se aos enunciados e ao quadro abaixo.\nO quadro apresenta a distribuição dos 4 diferentes alelos do gene A cujas combinações genotípicas são responsáveis pelos padrões de coloração da pelagem de algumas raças caninas.\nAdaptado de Dreger D.L.; Schmutz, S. M. A SINE insertion causes the Black – and- tan and Saddle Tan Phenotypes in domestic dogs. Journal of Heredity, volume 102, supplement 1,$\\\\frac{September}{October}$ 2011, S_{11}-S_{18}.\nCom base no quadro, a hierarquia de dominância dos diferentes alelos é",
+      principal: "Instrução: As questões 17 e 18 referem-se aos enunciados e ao quadro abaixo.\nO quadro apresenta a distribuição dos 4 diferentes alelos do gene A cujas combinações genotípicas são responsáveis pelos padrões de coloração da pelagem de algumas raças caninas.\nAdaptado de Dreger D.L.; Schmutz, S. M. A SINE insertion causes the Black – and- tan and Saddle Tan Phenotypes in domestic dogs. Journal of Heredity, volume 102, supplement 1,September/October 2011, $S_{11}$-$S_{18}$.\nCom base no quadro, a hierarquia de dominância dos diferentes alelos é",
       subItens: []
     },
     options: ["aw > a > ay > at.","ay > at > a > aw.","at > ay > aw > a.","ay > aw > at > a.","aw > ay > a > at."],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Os meses que antecedem a primavera são os que apresentam mais focos de queimadas no Brasil. Os biomas Amazônia e Cerrado apresentam o maior número de focos de queimadas mensal, com 3490 casos (59%) e 1673 casos (28,3%), respectivamente.\nFonte: <www.inpe.$\\\\frac{br}{queimadas}$/sitAtual.php>. Acesso em: 06 set. 2014.\nSobre os biomas acima citados, considere as seguintes afirmações.\nI - A expansão da fronteira agrícola, aliada à queima da vegetação para produção de carvão, são fatores que agravam a degradação do Cerrado.\nII - A vegetação do Cerrado caracteriza-se por apresentar cobertura predominante de gramíneas e árvores de grande porte com folhas grandes.\nIII- As regiões atingidas pelas queimadas no bioma Amazônia são as florestas inundadas, denominadas de Matas de Igapó, que abrigam as árvores mais altas da floresta.\nQuais estão corretas?",
+      principal: "Os meses que antecedem a primavera são os que apresentam mais focos de queimadas no Brasil. Os biomas Amazônia e Cerrado apresentam o maior número de focos de queimadas mensal, com 3490 casos (59%) e 1673 casos (28,3%), respectivamente.\nFonte: <www.inpe.br/queimadas/sitAtual.php>. Acesso em: 06 set. 2014.\nSobre os biomas acima citados, considere as seguintes afirmações.\nI - A expansão da fronteira agrícola, aliada à queima da vegetação para produção de carvão, são fatores que agravam a degradação do Cerrado.\nII - A vegetação do Cerrado caracteriza-se por apresentar cobertura predominante de gramíneas e árvores de grande porte com folhas grandes.\nIII- As regiões atingidas pelas queimadas no bioma Amazônia são as florestas inundadas, denominadas de Matas de Igapó, que abrigam as árvores mais altas da floresta.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas III.","Apenas I e II.","Apenas II e III.","I, II e III."],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Diamante e grafite são variedades alotrópicas do elemento carbono cujas densidades são, respectivamente,\nd (Cdiamante) = 3,5 $\\\\frac{g}{cm}$³\nd (Cgrafite) = 2,3 $\\\\frac{g}{cm}$³\nEm um conto de fadas, uma jovem foi a um baile com um anel de diamante de 1,75 quilates cuja pedra tem um volume V_{1} e, à meia-noite, esse diamante transformou-se em grafite.\n(dado: 1 quilate=0,20 g)\nO volume final dessa “pedra de grafite” será, aproximadamente,",
+      principal: "Diamante e grafite são variedades alotrópicas do elemento carbono cujas densidades são, respectivamente,\nd (Cdiamante) = 3,5 g/cm³\nd (Cgrafite) = 2,3 g/cm³\nEm um conto de fadas, uma jovem foi a um baile com um anel de diamante de 1,75 quilates cuja pedra tem um volume $V_{1}$ e, à meia-noite, esse diamante transformou-se em grafite.\n(dado: 1 quilate=0,20 g)\nO volume final dessa “pedra de grafite” será, aproximadamente,",
       subItens: []
     },
     options: ["0,4 V1","0,7 V1","1,5 V1","2,3 V1","3,5 V1"],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "O ferro é um dos mais importantes metais, utilizado pelo homem desde a antiguidade. São dadas as seguintes informações sobre o elemento ferro.\n1 - O ferro tem 4 isótopos estáveis naturais: 54Fe, 56Fe, 57Fe e 58Fe.\n2 - O ferro pode ocorrer nos compostos na forma de cátions Fe_{2}+ ou Fe_{3}+.\n3 - O ferro pode apresentar formas alotrópicas diferentes, tais como o Feα e o Feγ.\nConsiderando os princípios químicos e as informações apresentadas, é correto afirmar que",
+      principal: "O ferro é um dos mais importantes metais, utilizado pelo homem desde a antiguidade. São dadas as seguintes informações sobre o elemento ferro.\n1 - O ferro tem 4 isótopos estáveis naturais: 54Fe, 56Fe, 57Fe e 58Fe.\n2 - O ferro pode ocorrer nos compostos na forma de cátions $Fe_{2}$+ ou $Fe_{3}$+.\n3 - O ferro pode apresentar formas alotrópicas diferentes, tais como o Feα e o Feγ.\nConsiderando os princípios químicos e as informações apresentadas, é correto afirmar que",
       subItens: []
     },
     options: ["apenas o isótopo 56Fe é capaz de formar cátion Fe2+.","o Feα é formado pelos isótopos 54Fe e 56Fe, enquanto o Feγ é formado pelos isótopos 57Fe e 58Fe.","os cátions Fe2+ ou Fe3+ são originados de átomos de ferro com diferentes números atômicos.","o Feα origina os cátions Fe2+, e o Feγ origina os cátions Fe3+.","os diferentes isótopos do ferro podem ser encontrados tanto no Feα como no Feγ."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Um aficcionado do seriado TBBT, que tem como um dos principais bordões a palavra Bazinga, comprou uma camiseta alusiva a essa palavra com a representação dos seguintes elementos.\nEm relação a esses elementos, considere as afirmações abaixo.\nI - Zinco apresenta raio atômico maior que o bário.\nII - Zn_{2}+ e Ga_{3}+ são isoeletrônicos.\nIII- Bário é o elemento que apresenta menor potencial de ionização.\nQuais estão corretas?",
+      principal: "Um aficcionado do seriado TBBT, que tem como um dos principais bordões a palavra Bazinga, comprou uma camiseta alusiva a essa palavra com a representação dos seguintes elementos.\nEm relação a esses elementos, considere as afirmações abaixo.\nI - Zinco apresenta raio atômico maior que o bário.\nII - $Zn_{2}$+ e $Ga_{3}$+ são isoeletrônicos.\nIII- Bário é o elemento que apresenta menor potencial de ionização.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas II e III.","I, II e III."],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Em ambientes fechados, tais como submarinos e espaçonaves, há necessidade de eliminar o gás carbônico produzido pela respiração. Para evitar esse acúmulo de gás carbônico, podem ser utilizados diferentes métodos.\nAbaixo são apresentados dois desses métodos, com suas respectivas reações.\nMétodo 1 : uso de hidróxido de lítio\nCO_{2} + 2 LiOH → Li_{2}CO_{3} + H_{2}O\nMétodo 2 : reação com óxido de cálcio\nCO_{2} + CaO → CaCO_{3}\nSobre as reações e os reagentes envolvidos nesses métodos, pode-se afirmar que",
+      principal: "Em ambientes fechados, tais como submarinos e espaçonaves, há necessidade de eliminar o gás carbônico produzido pela respiração. Para evitar esse acúmulo de gás carbônico, podem ser utilizados diferentes métodos.\nAbaixo são apresentados dois desses métodos, com suas respectivas reações.\nMétodo 1 : uso de hidróxido de lítio\n$CO_{2}$ + 2 LiOH → Li2CO3 + H2O\nMétodo 2 : reação com óxido de cálcio\n$CO_{2}$ + CaO → $CaCO_{3}$\nSobre as reações e os reagentes envolvidos nesses métodos, pode-se afirmar que",
       subItens: []
     },
     options: ["ambas reações originam sais insolúveis em água.","todas as substâncias participantes dessas reações são iônicas.","o carbonato de lítio é uma substância que, quando dissolvida em meio aquoso, produz solução básica.","todos os compostos participantes dessa reação são óxidos.","ambas reações produzem a mesma massa de sal, quando consomem iguais quantidades de CO2."],
@@ -513,7 +513,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Nas tecnologias de energias renováveis, estudos têm sido realizados com tintas fotovoltaicas contendo nanopartículas de dióxido de titânio, TiO_{2}. Essas tintas são capazes de transformar a energia luminosa em energia elétrica.\nO dióxido de titânio natural pode ser obtido da ilmenita, um óxido natural de ferro e titânio minerado a partir das areias de praia. A reação de obtenção do dióxido de titânio, a partir da ilmenita, é representada pela reação abaixo já ajustada.\n2 FeTiO_{3} + 4 HC + C2 → 2 FeC3 + 2 TiO_{2} + 2 H_{2}O\nA massa de dióxido de titânio que pode ser obtida, a partir de uma tonelada de areia bruta com 5% de ilmenita, é, aproximadamente,\n(Dados: TiO_{2} = 80 g.mol-1 e FeTiO_{3}= 152 g.mol-1)",
+      principal: "Nas tecnologias de energias renováveis, estudos têm sido realizados com tintas fotovoltaicas contendo nanopartículas de dióxido de titânio, $TiO_{2}$. Essas tintas são capazes de transformar a energia luminosa em energia elétrica.\nO dióxido de titânio natural pode ser obtido da ilmenita, um óxido natural de ferro e titânio minerado a partir das areias de praia. A reação de obtenção do dióxido de titânio, a partir da ilmenita, é representada pela reação abaixo já ajustada.\n2 $FeTiO_{3}$ + 4 HC + C2 → 2 FeC3 + 2 $TiO_{2}$ + 2 H2O\nA massa de dióxido de titânio que pode ser obtida, a partir de uma tonelada de areia bruta com 5% de ilmenita, é, aproximadamente,\n(Dados: $TiO_{2}$ = 80 g.mol-1 e $FeTiO_{3}$= 152 g.mol-1)",
       subItens: []
     },
     options: ["16 kg.","26,3 kg.","52,6 kg.","105,2 kg.","210,4 kg."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Em 1851, um crime ocorrido na alta sociedade belga foi considerado o primeiro caso da Química Forense. O Conde e a Condessa de Bocarmé assassinaram o irmão da condessa, mas o casal dizia que o rapaz havia enfartado durante o jantar. Um químico provou haver grande quantidade de nicotina na garganta da vítima, constatando assim que havia ocorrido um envenenamento com extrato de folhas de tabaco.\nSobre a nicotina, são feitas as seguintes afirmações.\nI - Contém dois heterociclos.\nII - Apresenta uma amina terciária na sua estrutura.\nIII- Possui a fórmula molecular C_{10}H14N2.\nQuais estão corretas?",
+      principal: "Em 1851, um crime ocorrido na alta sociedade belga foi considerado o primeiro caso da Química Forense. O Conde e a Condessa de Bocarmé assassinaram o irmão da condessa, mas o casal dizia que o rapaz havia enfartado durante o jantar. Um químico provou haver grande quantidade de nicotina na garganta da vítima, constatando assim que havia ocorrido um envenenamento com extrato de folhas de tabaco.\nSobre a nicotina, são feitas as seguintes afirmações.\nI - Contém dois heterociclos.\nII - Apresenta uma amina terciária na sua estrutura.\nIII- Possui a fórmula molecular C10H14N2.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas I e II.","I, II e III."],
@@ -603,7 +603,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Dois hidrocarbonetos I e II reagem com bromo, conforme mostrado abaixo.\nCxHy + Br_{2} → CxHy-1Br + HBr\nI\nCzHn + Br_{2} → CzHnBr_{2}\nII\nÉ correto afirmar que I e II são, respectivamente,",
+      principal: "Dois hidrocarbonetos I e II reagem com bromo, conforme mostrado abaixo.\nCxHy + $Br_{2}$ → CxHy-1Br + HBr\nI\nCzHn + $Br_{2}$ → $CzHnBr_{2}$\nII\nÉ correto afirmar que I e II são, respectivamente,",
       subItens: []
     },
     options: ["aromático e alcano.","aromático e alceno.","alcino e alcano.","alcino e alceno.","alceno e alcino."],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "O trióxido de arsênio, As_{2}O_{3}, é utilizado como quimioterápico no tratamento de alguns tipos de leucemia mieloide aguda. O protocolo de um determinado paciente indica que ele deva receber uma infusão intravenosa com 4,95 mg de trióxido de arsênio, diluídos em soro fisiológico até o volume final de 250 mL.\nA concentração em $\\\\frac{mol}{L}$ de trióxido de arsênio na solução utilizada nessa infusão é",
+      principal: "O trióxido de arsênio, As2O3, é utilizado como quimioterápico no tratamento de alguns tipos de leucemia mieloide aguda. O protocolo de um determinado paciente indica que ele deva receber uma infusão intravenosa com 4,95 mg de trióxido de arsênio, diluídos em soro fisiológico até o volume final de 250 mL.\nA concentração em mol/L de trióxido de arsênio na solução utilizada nessa infusão é",
       subItens: []
     },
     options: ["1,0 x 10–1.","2,5 x 10–2.","1,0 x 10–4.","2,5 x 10–5.","1,0 x 10–6."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "A uma solução I aquosa saturada de K_{2}Cr2O7 de cor laranja é adicionada água pura até dobrar seu volume, mantendo-se a temperatura constante. A seguir, são adicionados alguns cristais de K_{2}Cr2O7, sob agitação constante, até que ocorra o aparecimento de um precipitado de K_{2}Cr2O7, obtendo-se a solução II, conforme esquematizado no desenho abaixo.\nConsiderando as concentrações de K_{2}Cr2O7 nessas soluções, pode-se afirmar que",
+      principal: "A uma solução I aquosa saturada de K2Cr2O7 de cor laranja é adicionada água pura até dobrar seu volume, mantendo-se a temperatura constante. A seguir, são adicionados alguns cristais de K2Cr2O7, sob agitação constante, até que ocorra o aparecimento de um precipitado de K2Cr2O7, obtendo-se a solução II, conforme esquematizado no desenho abaixo.\nConsiderando as concentrações de K2Cr2O7 nessas soluções, pode-se afirmar que",
       subItens: []
     },
     options: ["a concentração na solução I é o dobro da concentração na solução II.","o precipitado é solubilizado quando se misturam as soluções I e II.","a tonalidade laranja da solução I é mais intensa que a tonalidade laranja da solução II.","a solução I deve apresentar maior ponto de ebulição que a solução II, quando considerados os efeitos coligativos.","a concentração da solução I é igual à concentração da solução II."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "A reação de cloração do metano, em presença de luz, é mostrada abaixo.\nCH_{4} + C2 →CH3C + HC ΔH = -25 kcal.mol-1\nConsidere os dados de energia das ligações abaixo.\nC-H = 105 kcal.mol-1\nC-C = 58 kcal.mol-1\nH-C = 103 kcal.mol-1\nA energia da ligação C-C, no composto CH3C, é",
+      principal: "A reação de cloração do metano, em presença de luz, é mostrada abaixo.\n$CH_{4}$ + C2 →CH3C + HC ΔH = -25 kcal.mol-1\nConsidere os dados de energia das ligações abaixo.\nC-H = 105 kcal.mol-1\nC-C = 58 kcal.mol-1\nH-C = 103 kcal.mol-1\nA energia da ligação C-C, no composto CH3C, é",
       subItens: []
     },
     options: ["33 kcal.mol-1.","56 kcal.mol-1.","60 kcal.mol-1.","80 kcal.mol-1.","85 kcal.mol-1."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Célula a combustível é uma alternativa para a produção de energia limpa. As semirreações da célula são\nH_{2}  2H+ + 2e-\n½ O_{2} + 2H+ + 2e-  H_{2}O\nSobre essa célula, pode-se afirmar que",
+      principal: "Célula a combustível é uma alternativa para a produção de energia limpa. As semirreações da célula são\n$H_{2}$  2H+ + 2e-\n½ $O_{2}$ + 2H+ + 2e-  H2O\nSobre essa célula, pode-se afirmar que",
       subItens: []
     },
     options: ["H2 é o gás combustível e oxida-se no cátodo.","eletrólise da água ocorre durante o funcionamento da célula.","H2O e CO2 são produzidos durante a descarga da célula.","célula a combustível é um exemplo de célula galvânica.","O2 é o gás comburente e reduz-se no ânodo."],
@@ -858,7 +858,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Na figura abaixo, estão indicados, por números, três países do continente asiático.\nAdaptado de: <http://geografiaetal.blogspot.com.$\\\\frac{br}{2009}$/$\\\\frac{10}{mapa}$-mudo-politico-da-asia.html>. Acesso em: 25 ago. 2014.\nAssinale a alternativa que apresenta a correspondência correta entre número, denominação do país e característica populacional.",
+      principal: "Na figura abaixo, estão indicados, por números, três países do continente asiático.\nAdaptado de: <http://geografiaetal.blogspot.com.br/2009/10/mapa-mudo-politico-da-asia.html>. Acesso em: 25 ago. 2014.\nAssinale a alternativa que apresenta a correspondência correta entre número, denominação do país e característica populacional.",
       subItens: []
     },
     options: ["1 – Nepal – alta densidade demográfica","2 – Catar – baixa densidade demográfica","1 – Paquistão – alta densidade demográfica","3 – Indonésia.–.baixa.densidade demográfica","2 – Arábia.Saudita.–.baixa.densidade.demográfica"],
@@ -873,7 +873,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Observe a figura abaixo.\nDisponível em: <http://2020sustentavelresiduossolidosurbanos.blogspot.com.$\\\\frac{br}{2010}$/$\\\\frac{09}{brasileiro}$-produz-tanto-lixo-quanto.html>. Acesso em: 11 out. 2014.\nConsidere as afirmações sobre os resíduos sólidos coletados no Brasil.\nI - O aumento do poder de compra dos brasileiros está fazendo com que a população do país gere cada vez mais lixo inorgânico, o que não é acompanhado pela implantação de programas de coleta seletiva e pelo volume de material reciclado.\nII - A reduzida coleta de resíduos urbanos na região Norte é explicada pela maior preocupação ambiental dos habitantes, que adotam a prática do consumo reduzido e da reciclagem.\nIII- A densa urbanização da região sudeste, associada à maior concentração de renda, explica os dados expressivos de resíduos sólidos urbanos coletados por dia.\nQuais estão corretas?",
+      principal: "Observe a figura abaixo.\nDisponível em: <http://2020sustentavelresiduossolidosurbanos.blogspot.com.br/2010/09/brasileiro-produz-tanto-lixo-quanto.html>. Acesso em: 11 out. 2014.\nConsidere as afirmações sobre os resíduos sólidos coletados no Brasil.\nI - O aumento do poder de compra dos brasileiros está fazendo com que a população do país gere cada vez mais lixo inorgânico, o que não é acompanhado pela implantação de programas de coleta seletiva e pelo volume de material reciclado.\nII - A reduzida coleta de resíduos urbanos na região Norte é explicada pela maior preocupação ambiental dos habitantes, que adotam a prática do consumo reduzido e da reciclagem.\nIII- A densa urbanização da região sudeste, associada à maior concentração de renda, explica os dados expressivos de resíduos sólidos urbanos coletados por dia.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas I e III.","I, II e III."],
@@ -918,7 +918,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Considere a tabela abaixo, sobre o Índice de Desenvolvimento Humano (IDH) que é uma medida comparativa usada para classificar a qualidade de vida oferecida por um país aos seus habitantes.\nDisponível em: <http://www.pnud.org.$\\\\frac{br}{atlas}$/$\\\\frac{ranking}{IDH_global_2011}$.aspx>. Acesso em: 8 set. 2014.\nCom base na tabela, considere as seguintes afirmações.\nI - Cuba apresenta expectativa de vida, média de anos de escolaridade e rendimento per capita superiores aos do Brasil.\nII - Brasil e Zimbábue apresentam, em média, a mesma escolaridade.\nIII- Zimbábue apresenta maior IDH em relação à Etiópia, devido à média de anos de escolaridade.\nQuais estão corretas?",
+      principal: "Considere a tabela abaixo, sobre o Índice de Desenvolvimento Humano (IDH) que é uma medida comparativa usada para classificar a qualidade de vida oferecida por um país aos seus habitantes.\nDisponível em: <http://www.pnud.org.br/atlas/ranking/IDH_global_2011.aspx>. Acesso em: 8 set. 2014.\nCom base na tabela, considere as seguintes afirmações.\nI - Cuba apresenta expectativa de vida, média de anos de escolaridade e rendimento per capita superiores aos do Brasil.\nII - Brasil e Zimbábue apresentam, em média, a mesma escolaridade.\nIII- Zimbábue apresenta maior IDH em relação à Etiópia, devido à média de anos de escolaridade.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas II e III.","I, II e III."],
@@ -933,7 +933,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Observe a charge abaixo.\nDisponível em: <http://ronairocha.blogspot.com.$\\\\frac{br}{2006}$/04>. Acesso em: 25 ago. 2014.\nA crítica referida na charge deve-se",
+      principal: "Observe a charge abaixo.\nDisponível em: <http://ronairocha.blogspot.com.br/2006/04>. Acesso em: 25 ago. 2014.\nA crítica referida na charge deve-se",
       subItens: []
     },
     options: ["à ampliação da atividade pastoril no Norte do Brasil e à silvicultura de eucalipto no Sul, que acarreta a degradação dos biomas.","às queimadas no Noroeste do país e à recuperação da vegetação original para uso farmacêutico.","à biopirataria e ao plantio de pínus nas áreas desmatadas para utilização comercial.","ao agronegócio que se expande no Norte e ao reflorestamento de áreas de Mata Atlântica para uso na indústria de cosméticos.","à expansão do cultivo de grãos no Norte do país e ao reflorestamento com araucária nas áreas de campo no Sul para uso na indústria moveleira."],
@@ -963,7 +963,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Observe a imagem abaixo.\nDisponível em: <http://www.mdig.com.$\\\\frac{br}{index}$.php?itemid=29078>. Acesso em: 15 ago. 2014.\nDa janela de um avião descendo no aeroporto de Guarulhos, percebe-se que a extensão da malha urbana dificulta a definição dos limites entre os municípios vizinhos ao de São Paulo. O conceito que melhor expressa a unificação da extensão territorial de vários municípios é",
+      principal: "Observe a imagem abaixo.\nDisponível em: <http://www.mdig.com.br/index.php?itemid=29078>. Acesso em: 15 ago. 2014.\nDa janela de um avião descendo no aeroporto de Guarulhos, percebe-se que a extensão da malha urbana dificulta a definição dos limites entre os municípios vizinhos ao de São Paulo. O conceito que melhor expressa a unificação da extensão territorial de vários municípios é",
       subItens: []
     },
     options: ["conurbação.","aglomeração.","região metropolitana.","regiões distritais.","desmunicipalização."],
@@ -993,7 +993,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Observe os dados abaixo.\nDisponível em: <http://g_{1}.globo.$\\\\frac{com}{brasil}$/$\\\\frac{noticia}{2014}$/$\\\\frac{04}{populacao}$-diminui-em-21-das-cidades-do-pais-entre-2000-e-2013.html>. Acesso em: 15 set. 2014.\nConsidere as afirmações abaixo, sobre as cidades.\nI - A população das cidades, de uma forma geral, vem diminuindo pela combinação da redução da fecundidade e dos processos migratórios, como nas cidades da Região Sul.\nII - O maior declínio da população é observado na Região Sudeste, devido, em parte, à emigração para o exterior.\nIII- O menor declínio da população nas cidades da Região Norte deve-se, entre outros fatores, à menor redução da fecundidade e dos processos migratórios.\nQuais estão corretas?",
+      principal: "Observe os dados abaixo.\nDisponível em: <http://$g_{1}$.globo.com/brasil/noticia/2014/04/populacao-diminui-em-21-das-cidades-do-pais-entre-2000-e-2013.html>. Acesso em: 15 set. 2014.\nConsidere as afirmações abaixo, sobre as cidades.\nI - A população das cidades, de uma forma geral, vem diminuindo pela combinação da redução da fecundidade e dos processos migratórios, como nas cidades da Região Sul.\nII - O maior declínio da população é observado na Região Sudeste, devido, em parte, à emigração para o exterior.\nIII- O menor declínio da população nas cidades da Região Norte deve-se, entre outros fatores, à menor redução da fecundidade e dos processos migratórios.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas III.","Apenas I e II.","Apenas I e III.","I, II e III."],
@@ -1008,7 +1008,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Considere, a partir dos gráficos abaixo, as afirmações seguintes sobre a população brasileira de pretos e pardos ao longo dos anos.\nDisponível em: <http://oglobo.globo.$\\\\frac{com}{infograficos}$/desigualdade-racial-avancos/>. Acesso em: 15 set. 2014.\nI - Os pretos e pardos atualmente representam a maior parte da população brasileira.\nII - Os dois gráficos apresentam um aumento mais expressivo dessa população, do que sua inserção no ensino superior.\nIII- O aumento expressivo dessa população ocorre a partir de 2005, assim como a estagnação do ingresso no ensino superior.\nQuais estão corretas?",
+      principal: "Considere, a partir dos gráficos abaixo, as afirmações seguintes sobre a população brasileira de pretos e pardos ao longo dos anos.\nDisponível em: <http://oglobo.globo.com/infograficos/desigualdade-racial-avancos/>. Acesso em: 15 set. 2014.\nI - Os pretos e pardos atualmente representam a maior parte da população brasileira.\nII - Os dois gráficos apresentam um aumento mais expressivo dessa população, do que sua inserção no ensino superior.\nIII- O aumento expressivo dessa população ocorre a partir de 2005, assim como a estagnação do ingresso no ensino superior.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas I e III.","I, II e III."],
@@ -1023,7 +1023,7 @@ createQuestion({
     university: "Vestibular",
     year: 2015,
     text: {
-      principal: "Observe a figura abaixo.\nDisponível em: <http://www.alagoasnanet.com.$\\\\frac{br}{v_{3}}$/alagoas-lidera-numero-de-homicidios-entre-populacao-jovem/>. Acesso em: 12 set. 2014.\nCom base na figura, considere as afirmações abaixo, sobre a violência entre jovens no Brasil.\nI - Os três estados que apresentaram maior número de homicídios de jovens em 2010, mantendo a posição de 2000, foram Alagoas, Espírito Santo e Bahia.\nII - Os homicídios que, em 2000, aconteciam predominantemente em estados com maior concentração populacional, passaram, em 2010, a outros estados, caracterizando o fenômeno chamado interiorização dos homicídios.\nIII- As taxas de mortalidade de jovens, entre os anos 2000 e 2010, nas regiões Sul e Sudeste do país, revelam uma melhoria em relação à violência.\nQuais estão corretas?",
+      principal: "Observe a figura abaixo.\nDisponível em: <http://www.alagoasnanet.com.br/$v_{3}$/alagoas-lidera-numero-de-homicidios-entre-populacao-jovem/>. Acesso em: 12 set. 2014.\nCom base na figura, considere as afirmações abaixo, sobre a violência entre jovens no Brasil.\nI - Os três estados que apresentaram maior número de homicídios de jovens em 2010, mantendo a posição de 2000, foram Alagoas, Espírito Santo e Bahia.\nII - Os homicídios que, em 2000, aconteciam predominantemente em estados com maior concentração populacional, passaram, em 2010, a outros estados, caracterizando o fenômeno chamado interiorização dos homicídios.\nIII- As taxas de mortalidade de jovens, entre os anos 2000 e 2010, nas regiões Sul e Sudeste do país, revelam uma melhoria em relação à violência.\nQuais estão corretas?",
       subItens: []
     },
     options: ["Apenas I.","Apenas II.","Apenas III.","Apenas I e II.","I, II e III."],

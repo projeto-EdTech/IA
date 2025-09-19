@@ -3,7 +3,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2025,
     text: {
-      principal: "Na tirinha acima, Dolores, a senhora que está fazendo a compra, entende de maneira exata a resposta do atendente (2° quadrinho). Essa literalidade revela que Dolores compreendeu a mensagem no sentido:\n\n[IMAGEM: Tirinha WILLTIRANDO.COM.BR com três quadros. Primeiro quadro: Atendente e cliente Dolores. Cliente diz: \"O COMBO NÚMERO DOIS, POR FAVOR.\" Segundo quadro: Atendente diz: \"MAIS TRÊS REAIS VOCÊ LEVA UMA BATATA GRANDE.\" Terceiro quadro: Dolores pensa: \"GRANDE QUANTO?\".]\n\nDisponível em: https://www.instagram.$\\\\frac{com}{p}$/C_{0}m50IVPOH- Acesso em: 24 jun. 24.",
+      principal: "Na tirinha acima, Dolores, a senhora que está fazendo a compra, entende de maneira exata a resposta do atendente (2° quadrinho). Essa literalidade revela que Dolores compreendeu a mensagem no sentido:\n\n[IMAGEM: Tirinha WILLTIRANDO.COM.BR com três quadros. Primeiro quadro: Atendente e cliente Dolores. Cliente diz: \"O COMBO NÚMERO DOIS, POR FAVOR.\" Segundo quadro: Atendente diz: \"MAIS TRÊS REAIS VOCÊ LEVA UMA BATATA GRANDE.\" Terceiro quadro: Dolores pensa: \"GRANDE QUANTO?\".]\n\nDisponível em: https://www.instagram.com/p/C0m50IVPOH- Acesso em: 24 jun. 24.",
       subItens: []
     },
     options: ["denotativo","conotativo","apelativo","informativo","emotivo"],
@@ -108,7 +108,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2025,
     text: {
-      principal: "Cientistas descobriram uma organela em uma célula eucariótica capaz de fixar nitrogênio, chamada de \"nitroplasto\". Esta descoberta é rara, pois até então, acreditava-se que apenas bactérias poderiam fixar nitrogênio da atmosfera para uso pelas plantas. (Revista Galileu, 2024).\n\n[IMAGEM: Simbiose entre microalga haptófita B. bigelowii com a cianobactéria UCYN-A. Ilustração microscópica da alga e da cianobactéria, com o nitroplasto destacado.]\n\nFonte: https://www.saberatualizadonews.$\\\\frac{com}{2024}$/$\\\\frac{04}{cientistas}$-descobrem-uma-organela.html\n\nCom base no contexto e na imagem representativa do processo de formação do nitroplasto, analise as alternativas a seguir e assinale a CORRETA.",
+      principal: "Cientistas descobriram uma organela em uma célula eucariótica capaz de fixar nitrogênio, chamada de \"nitroplasto\". Esta descoberta é rara, pois até então, acreditava-se que apenas bactérias poderiam fixar nitrogênio da atmosfera para uso pelas plantas. (Revista Galileu, 2024).\n\n[IMAGEM: Simbiose entre microalga haptófita B. bigelowii com a cianobactéria UCYN-A. Ilustração microscópica da alga e da cianobactéria, com o nitroplasto destacado.]\n\nFonte: https://www.saberatualizadonews.com/2024/04/cientistas-descobrem-uma-organela.html\n\nCom base no contexto e na imagem representativa do processo de formação do nitroplasto, analise as alternativas a seguir e assinale a CORRETA.",
       subItens: []
     },
     options: ["O nitroplasto mostra que células eucarióticas podem fixar nitrogênio de forma independente.","O nitroplasto sugere que a fixação de nitrogênio é universal em organelas eucarióticas, sem precisar de endossimbiose.","O nitroplasto em células eucarióticas contradiz a teoria da endossimbiose, mostrando a fixação de nitrogênio como um processo primário.","O nitroplasto apoia a teoria da endossimbiose ao sugerir que uma célula eucariótica incorporou uma bactéria fixadora de nitrogênio.","O nitroplasto sugere que a fixação de nitrogênio surgiu independentemente em diferentes linhagens eucarióticas, sem necessidade de simbiose com bactérias."],
@@ -123,7 +123,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2025,
     text: {
-      principal: "As mudanças climáticas impactam os ecossistemas do Brasil, a exemplo do enunciado da reportagem abaixo, afetando a fotossíntese em plantas e quimiossíntese dos microrganismos. Qual alternativa melhor descreve como essas alterações podem afetar o metabolismo energético em relação aos componentes celulares?\n\nQueimadas em Roraima causaram a maior degradação florestal dos últimos 15 anos na Amazônia\nÁrea na Amazônia afetada pelo dano ambiental chegou a 2.846 km² de janeiro a abril, a maior desde 2009. Roraima foi responsável por 99% da degradação.\nPor g_{1} RR - Boa Vista\n$\\\\frac{21}{05}$/2024 01h01 Atualizado há 2 dias\nFonte: https://g_{1}.globo.$\\\\frac{com}{rr}$/$\\\\frac{roraima}{noticia}$/$\\\\frac{2024}{05}$/$\\\\frac{21}{queimadas}$-em-roraima-causaram-a-maior-degradacao-florestal-dos-ultimos-15-anos-na-amazonia.ghtml",
+      principal: "As mudanças climáticas impactam os ecossistemas do Brasil, a exemplo do enunciado da reportagem abaixo, afetando a fotossíntese em plantas e quimiossíntese dos microrganismos. Qual alternativa melhor descreve como essas alterações podem afetar o metabolismo energético em relação aos componentes celulares?\n\nQueimadas em Roraima causaram a maior degradação florestal dos últimos 15 anos na Amazônia\nÁrea na Amazônia afetada pelo dano ambiental chegou a 2.846 km² de janeiro a abril, a maior desde 2009. Roraima foi responsável por 99% da degradação.\nPor $g_{1}$ RR - Boa Vista\n21/05/2024 01h01 Atualizado há 2 dias\nFonte: https://$g_{1}$.globo.com/rr/roraima/noticia/2024/05/21/queimadas-em-roraima-causaram-a-maior-degradacao-florestal-dos-ultimos-15-anos-na-amazonia.ghtml",
       subItens: []
     },
     options: ["A variação nos níveis de CO2 devido ao desmatamento e queimadas intensifica a quimiossíntese em bactérias, que utilizam este gás para produzir energia em seus lisossomos.","A elevação das temperaturas e a variação da umidade afetam os tilacoides nos cloroplastos, prejudicando a fotossíntese nas plantas.","As mudanças climáticas aumentam a produção de ATP nas mitocôndrias das células vegetais devido à maior disponibilidade de oxigênio atmosférico.","O aumento da temperatura e a redução da umidade elevam a taxa de fotossíntese nas plantas, pois mais luz solar estimula os cloroplastos a produzirem mais glicose.","A acidificação do solo causada pelas mudanças climáticas favorece a fotossíntese em plantas ao aumentar a disponibilidade de nutrientes essenciais nos vacúolos das células vegetais."],
@@ -138,7 +138,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2025,
     text: {
-      principal: "Um corpo de massa M está suspenso por um fio de comprimento L. Uma força horizontal de módulo Fé exercida sobre o corpo fazendo com que este se afaste horizontalmente uma distância x de sua posição inicial, ficando equilíbrio a uma altura y, em relação à posição inicialmente ocupada, conforme a figura. Sabendo que x = $\\\\frac{h}{2}$ e que a aceleração da gravidade é g, o módulo da força F vale:\n\n[IMAGEM: Diagrama de um corpo de massa M suspenso por um fio de comprimento L, deslocado por uma força horizontal F. A posição inicial de equilíbrio está indicada. A nova posição tem um deslocamento horizontal x e está a uma altura y em relação à posição inicial. A distância vertical da sustentação superior até a nova posição é indicada como h. A força F é aplicada horizontalmente ao corpo M.]",
+      principal: "Um corpo de massa M está suspenso por um fio de comprimento L. Uma força horizontal de módulo Fé exercida sobre o corpo fazendo com que este se afaste horizontalmente uma distância x de sua posição inicial, ficando equilíbrio a uma altura y, em relação à posição inicialmente ocupada, conforme a figura. Sabendo que x = h/2 e que a aceleração da gravidade é g, o módulo da força F vale:\n\n[IMAGEM: Diagrama de um corpo de massa M suspenso por um fio de comprimento L, deslocado por uma força horizontal F. A posição inicial de equilíbrio está indicada. A nova posição tem um deslocamento horizontal x e está a uma altura y em relação à posição inicial. A distância vertical da sustentação superior até a nova posição é indicada como h. A força F é aplicada horizontalmente ao corpo M.]",
       subItens: []
     },
     options: ["F = Mg","F = 2 Mg","F= √Mg","F = Mg/2","F = √2 Mg"],
@@ -153,7 +153,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2025,
     text: {
-      principal: "Um recipiente cilíndrico fechado, de altura igual a h = 10/π cm e base de raio r, está completamente cheio com líquido de massa específica µ = 0,3 $\\\\frac{g}{cm}$³. A força exercida pelo líquido no fundo do recipiente vale F = 3 N. Qual o valor de r? Considere π = 3,14 e g= 10 $\\\\frac{m}{s}$².",
+      principal: "Um recipiente cilíndrico fechado, de altura igual a h = 10/π cm e base de raio r, está completamente cheio com líquido de massa específica µ = 0,3 g/cm³. A força exercida pelo líquido no fundo do recipiente vale F = 3 N. Qual o valor de r? Considere π = 3,14 e g= 10 m/s².",
       subItens: []
     },
     options: ["3,14 cm","2 cm","10 cm","5 cm","1 cm"],
@@ -168,7 +168,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2025,
     text: {
-      principal: "Em um sistema isolado de forças externas, um corpo de massa m, inicialmente com uma velocidade de 5 $\\\\frac{m}{s}$, se choca contra uma mola de constante K = 10 $\\\\frac{N}{m}$. O tempo de contato do corpo com a mola é de 0,015 segundos. Durante esse intervalo de tempo a mola aplica sobre o corpo uma força média de 10 N. Após perder o contato com a mola, o corpo atinge uma velocidade de 10 $\\\\frac{m}{s}$, no sentido oposto ao movimento inicial. Qual a massa do corpo?",
+      principal: "Em um sistema isolado de forças externas, um corpo de massa m, inicialmente com uma velocidade de 5 m/s, se choca contra uma mola de constante K = 10 N/m. O tempo de contato do corpo com a mola é de 0,015 segundos. Durante esse intervalo de tempo a mola aplica sobre o corpo uma força média de 10 N. Após perder o contato com a mola, o corpo atinge uma velocidade de 10 m/s, no sentido oposto ao movimento inicial. Qual a massa do corpo?",
       subItens: []
     },
     options: ["100 g","1 kg","30 g","10 g","150 g"],
@@ -288,7 +288,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2025,
     text: {
-      principal: "Considere as seguintes situações para um gás ideal submetido a diferentes transformações em um sistema fechado.\n\nI. O gás inicialmente ocupa um volume V₁ e tem pressão P₁ e temperatura T_{1}.\nII. O gás é submetido a uma transformação isotérmica até atingir um novo volume V_{2}.\nIII. Em seguida, o gás sofre uma transformação isobárica até que sua temperatura atinja T_{3}.\nIV. Finalmente, o gás passa por uma transformação isocórica até que a pressão retorne a P_{1}.\n\nCom base nessas transformações, assinale a alternativa CORRETA.",
+      principal: "Considere as seguintes situações para um gás ideal submetido a diferentes transformações em um sistema fechado.\n\nI. O gás inicialmente ocupa um volume V₁ e tem pressão P₁ e temperatura $T_{1}$.\nII. O gás é submetido a uma transformação isotérmica até atingir um novo volume $V_{2}$.\nIII. Em seguida, o gás sofre uma transformação isobárica até que sua temperatura atinja $T_{3}$.\nIV. Finalmente, o gás passa por uma transformação isocórica até que a pressão retorne a $P_{1}$.\n\nCom base nessas transformações, assinale a alternativa CORRETA.",
       subItens: []
     },
     options: ["Após a transformação isocórica, a nova pressão P2 é dada por P2=P1V1/V2.","Após a transformação isobárica, o novo volume V3 é dado por V3=V1P2/P1.","Durante a transformação isotérmica, a pressão final P3 é dada por P3=P2T3/T2.","A temperatura T3 deve ser menor que T₁ para que a pressão final P3 seja igual a P1.","Após a transformação isotérmica, a nova pressão P2 é dada por P2=P1V1/V2."],
@@ -303,7 +303,7 @@ createQuestion({
     university: "VESTIBULAR",
     year: 2025,
     text: {
-      principal: "Uma amostra impura de 10,0 g de óxido de cálcio, contendo 80% de pureza, é misturada com 100,0 mL de uma solução de ácido sulfúrico 1,0 $\\\\frac{mol}{L}$. Após a reação, foram isolados 8,0 g de sulfato de cálcio. Com base nesses dados, analise as seguintes afirmações e escolha a alternativa CORRETA.",
+      principal: "Uma amostra impura de 10,0 g de óxido de cálcio, contendo 80% de pureza, é misturada com 100,0 mL de uma solução de ácido sulfúrico 1,0 mol/L. Após a reação, foram isolados 8,0 g de sulfato de cálcio. Com base nesses dados, analise as seguintes afirmações e escolha a alternativa CORRETA.",
       subItens: []
     },
     options: ["O ácido sulfúrico é o reagente em excesso.","A massa teórica de CaSO4 que deveria ser formada é 9,4 g.","A quantidade de CaO puro presente na amostra é 8,0 g.","O rendimento da reação é de aproximadamente 85%.","Óxido de cálcio é o reagente em limitante."],

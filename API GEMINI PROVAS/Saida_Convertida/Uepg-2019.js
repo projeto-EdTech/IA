@@ -258,7 +258,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Um objeto com 2 kg de massa é lançado horizontalmen-te com uma velocidade de 3 $\\\\frac{m}{s}$. Sabendo que a altura inicial do objeto em relação ao solo era 30 m e despre-zando efeitos dissipativos, assinale o que for correto.",
+      principal: "Um objeto com 2 kg de massa é lançado horizontalmen-te com uma velocidade de 3 m/s. Sabendo que a altura inicial do objeto em relação ao solo era 30 m e despre-zando efeitos dissipativos, assinale o que for correto.",
       subItens: []
     },
     options: ["Para um tempo de 0,5 s após o lançamento, o mó-dulo da velocidade do objeto é 6 m/s.","A energia mecânica do objeto exatamente no início do lançamento era 609 J.","A distância percorrida horizontalmente pelo objeto foi de 18 m.","Para um tempo de 2 s após o lançamento, a ener-gia potencial gravitacional do objeto era 1/3 da sua energia potencial inicial."],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Dois discos estão em contato de tal maneira que giram sem que haja deslizamento de um em relação ao outro, conforme figura abaixo. O disco maior gira com uma ve-locidade angular cujo módulo é 2 π $\\\\frac{rad}{s}$ e possui um raio de 40 cm. Sabendo que os dois discos giram com velocidades angulares constantes e que o raio do disco menor é 10 cm, assinale o que for correto.",
+      principal: "Dois discos estão em contato de tal maneira que giram sem que haja deslizamento de um em relação ao outro, conforme figura abaixo. O disco maior gira com uma ve-locidade angular cujo módulo é 2 π rad/s e possui um raio de 40 cm. Sabendo que os dois discos giram com velocidades angulares constantes e que o raio do disco menor é 10 cm, assinale o que for correto.",
       subItens: []
     },
     options: ["O período de rotação do disco menor é 0,125 s.","Se um dos discos girar no sentido horário, o outro irá girar no sentido anti-horário.","O disco maior gira com uma frequência de 60 rpm.","O módulo da velocidade escalar linear de um ponto situado no disco menor, distante 5 cm do eixo de rotação do disco, é 40 π rad/s."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "O gás SO_{3} é um dos responsáveis pela chuva ácida, pois reage com a água da chuva formando ácido sulfúrico, H_{2}SO_{4}. O SO_{3} é produzido a partir da reação do SO_{2}, liberado pela queima dos combustíveis fósseis, com o oxigênio do ar. A equação balanceada para essa reação está representada abaixo:\n\n2 SO_{2}(g) + O_{2} (g) → 2 SO_{3}(g)\n\nDados: O(Z=8); H(Z=1); S(Z=16)\n\nCom relação às moléculas envolvidas na chuva ácida, assinale o que for correto.",
+      principal: "O gás $SO_{3}$ é um dos responsáveis pela chuva ácida, pois reage com a água da chuva formando ácido sulfúrico, H2SO4. O $SO_{3}$ é produzido a partir da reação do $SO_{2}$, liberado pela queima dos combustíveis fósseis, com o oxigênio do ar. A equação balanceada para essa reação está representada abaixo:\n\n2 $SO_{2}$(g) + $O_{2}$ (g) → 2 $SO_{3}$(g)\n\nDados: O(Z=8); H(Z=1); S(Z=16)\n\nCom relação às moléculas envolvidas na chuva ácida, assinale o que for correto.",
       subItens: []
     },
     options: ["A molécula de SO2 é polar, enquanto o O2 é apolar.","A molécula de SO2 apresenta geometria molecular angular e a de SO3 apresenta geometria molecular trigonal plana.","As ligações entre o átomo de enxofre e os átomos de O nas moléculas de SO2, SO3 e H2SO4 são cova-lentes.","A solução formada a partir da dissolução do H2SO4 em água conduz corrente elétrica."],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Vestibular",
     year: 2019,
     text: {
-      principal: "Considerando que a e b são as soluções do sistema abaixo, assinale o que for correto.\n\n3^(a+b) = $\\\\frac{1}{243}$\nlog_{3} a - log_{3} b = 1",
+      principal: "Considerando que a e b são as soluções do sistema abaixo, assinale o que for correto.\n\n3^(a+b) = 1/243\n$log_{3}$ a - $log_{3}$ b = 1",
       subItens: []
     },
     options: ["A abscissa do vértice da função f(x) = ax2 + bx + 5 é um número racional.","A função g(x) = (3 - b)x é crescente.","A função m(x) = log_1(x + 2) é crescente.","O domínio da função h(x) = sqrt((x-a)/(x-b)) pertence ao intervalo [1,3]."],

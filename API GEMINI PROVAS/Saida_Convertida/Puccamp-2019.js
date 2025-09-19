@@ -273,7 +273,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2019,
     text: {
-      principal: "Um motorista pretendia percorrer a distância entre duas cidades desenvolvendo a velocidade média de 90 $\\\\frac{km}{h}$ (1,5 $\\\\frac{km}{min}$). Entretanto, um trecho de 3,0 km da estrada estava em obras, com o trânsito fluindo em um único sentido de cada vez e com velocidade reduzida. Por esse motivo, ele ficou parado durante 5,0 minutos e depois percorreu o trecho em obras com velocidade de 30 $\\\\frac{km}{h}$ (0,5 $\\\\frac{km}{min}$). Considerando que antes de ficar parado e depois de percorrer o trecho em obras ele desenvolveu a velocidade média pretendida, o tempo de atraso na viagem foi",
+      principal: "Um motorista pretendia percorrer a distância entre duas cidades desenvolvendo a velocidade média de 90 km/h (1,5 km/min). Entretanto, um trecho de 3,0 km da estrada estava em obras, com o trânsito fluindo em um único sentido de cada vez e com velocidade reduzida. Por esse motivo, ele ficou parado durante 5,0 minutos e depois percorreu o trecho em obras com velocidade de 30 km/h (0,5 km/min). Considerando que antes de ficar parado e depois de percorrer o trecho em obras ele desenvolveu a velocidade média pretendida, o tempo de atraso na viagem foi",
       subItens: []
     },
     options: ["7,0 min.","8,0 min.","9,0 min.","10,0 min.","11,0 min."],
@@ -303,7 +303,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2019,
     text: {
-      principal: "Vários minerais cristalinos são chamados popularmente de pedras preciosas. Um deles é a pedra esmeralda, cuja composição química é Al_{2}Be_{3}[Si_{6}O_{18}]. A porcentagem total em massa de berílio e alumínio nesse mineral é de, aproximadamente,\nDados:\nMassas molares ($\\\\frac{g}{mol}$)\nBe = 9,0\nAl = 27,0\nSi = 28\nO = 16",
+      principal: "Vários minerais cristalinos são chamados popularmente de pedras preciosas. Um deles é a pedra esmeralda, cuja composição química é Al2Be3[Si6O18]. A porcentagem total em massa de berílio e alumínio nesse mineral é de, aproximadamente,\nDados:\nMassas molares (g/mol)\nBe = 9,0\nAl = 27,0\nSi = 28\nO = 16",
       subItens: []
     },
     options: ["15%.","28%.","32%.","40%.","53%."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2019,
     text: {
-      principal: "O veneno de formiga contém o ácido metanoico, HCOOH. Para neutralizar 1,0 mL de solução 0,1 $\\\\frac{mol}{L}$ desse ácido, é necessário utilizar um volume de solução de NaOH 0,02 $\\\\frac{mol}{L}$ igual a",
+      principal: "O veneno de formiga contém o ácido metanoico, HCOOH. Para neutralizar 1,0 mL de solução 0,1 mol/L desse ácido, é necessário utilizar um volume de solução de NaOH 0,02 mol/L igual a",
       subItens: []
     },
     options: ["5 mL.","10 mL.","15 mL.","20 mL.","25 mL."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2019,
     text: {
-      principal: "Em um teatro, os ângulos sob os quais os espectadores enxergam o palco dependem da localização de suas poltronas na plateia. No esquema, que representa uma vista superior do teatro, os espectadores das poltronas E_{5} e N_{12} enxergam o palco sob ângulos de medidas, em graus, iguais a θ e β, respectivamente.\n[Image: A schematic top view of a theater stage (PALCO) and two audience positions, E_{5} and N_{12}. E_{5} is on an arc A_{1}, and N_{12} is on an arc A_{2}, with A_{1} being the center of A_{2}. Angles θ and β are shown, subtending the stage from E_{5} and N_{12} respectively.]\nA poltrona E_{5} está localizada sobre o arco de circunferência A_{1}. A poltrona N_{12}, sobre o arco de circunferência A_{2}, cujo centro pertence ao arco A_{1}. Nessas condições, é necessariamente verdadeira a relação:",
+      principal: "Em um teatro, os ângulos sob os quais os espectadores enxergam o palco dependem da localização de suas poltronas na plateia. No esquema, que representa uma vista superior do teatro, os espectadores das poltronas $E_{5}$ e $N_{12}$ enxergam o palco sob ângulos de medidas, em graus, iguais a θ e β, respectivamente.\n[Image: A schematic top view of a theater stage (PALCO) and two audience positions, $E_{5}$ and $N_{12}$. $E_{5}$ is on an arc $A_{1}$, and $N_{12}$ is on an arc $A_{2}$, with $A_{1}$ being the center of $A_{2}$. Angles θ and β are shown, subtending the stage from $E_{5}$ and $N_{12}$ respectively.]\nA poltrona $E_{5}$ está localizada sobre o arco de circunferência $A_{1}$. A poltrona $N_{12}$, sobre o arco de circunferência $A_{2}$, cujo centro pertence ao arco $A_{1}$. Nessas condições, é necessariamente verdadeira a relação:",
       subItens: []
     },
     options: ["θ + β = 90°","θ + β = 180°","θ = β","θ = β +30°","θ = 2β"],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2019,
     text: {
-      principal: "Vinil é o nome dado ao PVC, um polímero usado na fabricação de discos, canos, entre outros produtos.\n[Image: Chemical structure of PVC showing a repeating unit: (-CH_{2}-CHCl-)n, with H, Cl, and C atoms explicitly drawn and bonds indicated.]\nO PVC é um polímero de",
+      principal: "Vinil é o nome dado ao PVC, um polímero usado na fabricação de discos, canos, entre outros produtos.\n[Image: Chemical structure of PVC showing a repeating unit: (-$CH_{2}$-CHCl-)n, with H, Cl, and C atoms explicitly drawn and bonds indicated.]\nO PVC é um polímero de",
       subItens: []
     },
     options: ["adição, e seu monômero é CH2-CHCl.","adição, e seu monômero é CH2CH=Cl.","adição, e seu monômero é CH2=CHCl.","condensação, e seu monômero é CH2–CHCl.","condensação, e seu monômero é CH2=CHCl."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2019,
     text: {
-      principal: "O branqueamento da celulose para fabricação de papel ocorre em várias etapas, consumindo as seguintes quantidades de reagentes, para cada tonelada de celulose seca:\n[Table: Reagentes | Quantidades (kg)\nCloro (Cl_{2}) | 15-20\nSoda cáustica (NaOH) | 15-25\nDióxido de cloro (ClO_{2}) | 5-8\nPeróxido de hidrogênio (H_{2}O_{2}) | 4-6\nOxigênio (O_{2}) | 16-24]\nA razão entre as quantidades molares máximas de cloro e oxigênio usadas para o branqueamento indicado na tabela corresponde a, aproximadamente,\nDados:\nMassas molares ($\\\\frac{g}{mol}$)\nCl = 35,5\nO = 16,0",
+      principal: "O branqueamento da celulose para fabricação de papel ocorre em várias etapas, consumindo as seguintes quantidades de reagentes, para cada tonelada de celulose seca:\n[Table: Reagentes | Quantidades (kg)\nCloro ($Cl_{2}$) | 15-20\nSoda cáustica (NaOH) | 15-25\nDióxido de cloro ($ClO_{2}$) | 5-8\nPeróxido de hidrogênio (H2O2) | 4-6\nOxigênio ($O_{2}$) | 16-24]\nA razão entre as quantidades molares máximas de cloro e oxigênio usadas para o branqueamento indicado na tabela corresponde a, aproximadamente,\nDados:\nMassas molares (g/mol)\nCl = 35,5\nO = 16,0",
       subItens: []
     },
     options: ["0,18.","0,37.","0,56.","0,74.","0,93."],

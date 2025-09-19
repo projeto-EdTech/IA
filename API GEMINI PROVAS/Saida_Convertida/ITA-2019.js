@@ -18,7 +18,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Considere duas partículas de massa m, cada qual presa numa das pontas de uma corda, de comprimento l e massa desprezível, que atravessa um orifício de uma mesa horizontal lisa. Conforme mostra a figura, a partícula sobre a mesa descreve um movimento circular uniforme de raio r e velocidade angular ω1. A partícula suspensa também descreve esse mesmo tipo de movimento, mas com velocidade angular ω2, estando presa a uma mola de constante elástica k e comprimento natural desprezível, mantida na horizontal. Sendo g o módulo da aceleração da gravidade e θ o ângulo do trecho suspenso da corda com a vertical, a razão (ω2/ω1)² é dada por\nA() r[mg + k(l - r) cos θ] / mg(1 - r)\nD() k(1 - r) cos θ / mg + kr\nB() (1 - r)(mg + kr cos θ) / mgr sen θ\nE() (1 - r)k cos θ / mg + k(l - r) cos θ\nC() (1 - r)(mg + kr tg θ) / kr_{2}\n(A imagem mostra um esquema de duas massas 'm', uma sobre uma mesa horizontal com um movimento circular de raio 'r' e velocidade angular 'ω1', conectada por uma corda que atravessa um orifício no centro da mesa. A outra massa está suspensa e conectada a uma mola com constante elástica 'k', formando um ângulo 'θ' com a vertical. Essa massa também descreve um movimento com velocidade angular 'ω2'.)",
+      principal: "Considere duas partículas de massa m, cada qual presa numa das pontas de uma corda, de comprimento l e massa desprezível, que atravessa um orifício de uma mesa horizontal lisa. Conforme mostra a figura, a partícula sobre a mesa descreve um movimento circular uniforme de raio r e velocidade angular ω1. A partícula suspensa também descreve esse mesmo tipo de movimento, mas com velocidade angular ω2, estando presa a uma mola de constante elástica k e comprimento natural desprezível, mantida na horizontal. Sendo g o módulo da aceleração da gravidade e θ o ângulo do trecho suspenso da corda com a vertical, a razão (ω2/ω1)² é dada por\nA() r[mg + k(l - r) cos θ] / mg(1 - r)\nD() k(1 - r) cos θ / mg + kr\nB() (1 - r)(mg + kr cos θ) / mgr $\\sin$ θ\nE() (1 - r)k cos θ / mg + k(l - r) cos θ\nC() (1 - r)(mg + kr tg θ) / $kr_{2}$\n(A imagem mostra um esquema de duas massas 'm', uma sobre uma mesa horizontal com um movimento circular de raio 'r' e velocidade angular 'ω1', conectada por uma corda que atravessa um orifício no centro da mesa. A outra massa está suspensa e conectada a uma mola com constante elástica 'k', formando um ângulo 'θ' com a vertical. Essa massa também descreve um movimento com velocidade angular 'ω2'.)",
       subItens: []
     },
     options: ["r[mg + k(l - r) cos θ] / mg(1 - r)","(1 - r)(mg + kr cos θ) / mgr sen θ","(1 - r)(mg + kr tg θ) / kr2","k(1 - r) cos θ / mg + kr","(1 - r)k cos θ / mg + k(l - r) cos θ"],
@@ -78,7 +78,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Uma barra rígida, homogênea, fina e de comprimento l, é presa a uma corda horizontal sem massa e toca a quina de uma superfície horizontal livre de atrito, fazendo um ângulo θ como mostra a figura. Considerando a barra em equilíbrio, assinale a opção correta para o valor da razão $\\\\frac{d}{l}$, em que d é a distância da quina ao centro de gravidade (CG) da barra.\nA() tg²θ / 2\nC() sen²θ / 4\nE() sen²θ / 2\nB() cos²θ / 4\nD() cos²θ / 2\n(A imagem mostra uma barra inclinada com um ângulo θ com a superfície horizontal, apoiada em uma quina, e presa por uma corda horizontal. A distância do CG à quina é 'd' e o comprimento total da barra é 'l'.)",
+      principal: "Uma barra rígida, homogênea, fina e de comprimento l, é presa a uma corda horizontal sem massa e toca a quina de uma superfície horizontal livre de atrito, fazendo um ângulo θ como mostra a figura. Considerando a barra em equilíbrio, assinale a opção correta para o valor da razão d/l, em que d é a distância da quina ao centro de gravidade (CG) da barra.\nA() tg²θ / 2\nC() $\\sin$²θ / 4\nE() $\\sin$²θ / 2\nB() cos²θ / 4\nD() cos²θ / 2\n(A imagem mostra uma barra inclinada com um ângulo θ com a superfície horizontal, apoiada em uma quina, e presa por uma corda horizontal. A distância do CG à quina é 'd' e o comprimento total da barra é 'l'.)",
       subItens: []
     },
     options: ["tg²θ / 2","cos²θ / 4","sen²θ / 4","cos²θ / 2","sen²θ / 2"],
@@ -153,7 +153,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Dentro de uma câmara de vácuo encontra-se um o filamento F aquecido por meio de uma fonte elétrica externa de d.d.p. V_{1}. A radiação emitida por F atinge o eletrodo metálico E_{1}, que passa a emitir elétrons que podem ser coletados no eletrodo E_{2}, acarretando a corrente I medida num amperímetro. Uma segunda fonte externa, de d.d.p. V_{2}, é conectada ao circuito conforme ilustrado na figura. Um obstáculo O impede que E_{2} receba radiação do filamento F. Analise as seguintes afirmações: I. A corrente I aumenta sempre que V_{2} aumenta e tende a um valor assintótico Imax. II. Toda a radiação que incide em E_{1} pode causar ejeção de elétrons. III. Para certo valor V_{2} < 0, é possível obter uma corrente I invertida em relação ao sentido mostrado na figura. IV. É possível ter I ≠ 0 para V_{2} = 0 com I dependente de V_{1}. Estão corretas\n(A imagem mostra um circuito com um filamento F que emite radiação. Essa radiação atinge um eletrodo E_{1}, que emite elétrons para E_{2}. Um amperímetro A mede a corrente I. Uma fonte V_{1} alimenta o filamento, e uma fonte V_{2} está conectada entre E_{1} e E_{2}. Há um obstáculo O entre F e E_{2}.)",
+      principal: "Dentro de uma câmara de vácuo encontra-se um o filamento F aquecido por meio de uma fonte elétrica externa de d.d.p. $V_{1}$. A radiação emitida por F atinge o eletrodo metálico $E_{1}$, que passa a emitir elétrons que podem ser coletados no eletrodo $E_{2}$, acarretando a corrente I medida num amperímetro. Uma segunda fonte externa, de d.d.p. $V_{2}$, é conectada ao circuito conforme ilustrado na figura. Um obstáculo O impede que $E_{2}$ receba radiação do filamento F. Analise as seguintes afirmações: I. A corrente I aumenta sempre que $V_{2}$ aumenta e tende a um valor assintótico Imax. II. Toda a radiação que incide em $E_{1}$ pode causar ejeção de elétrons. III. Para certo valor $V_{2}$ < 0, é possível obter uma corrente I invertida em relação ao sentido mostrado na figura. IV. É possível ter I ≠ 0 para $V_{2}$ = 0 com I dependente de $V_{1}$. Estão corretas\n(A imagem mostra um circuito com um filamento F que emite radiação. Essa radiação atinge um eletrodo $E_{1}$, que emite elétrons para $E_{2}$. Um amperímetro A mede a corrente I. Uma fonte $V_{1}$ alimenta o filamento, e uma fonte $V_{2}$ está conectada entre $E_{1}$ e $E_{2}$. Há um obstáculo O entre F e $E_{2}$.)",
       subItens: []
     },
     options: ["todas as afirmações.","apenas I, II e III.","apenas I e IV.","apenas II e IV.","apenas I, II e IV."],
@@ -168,7 +168,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "A figura mostra uma espira circular, de raio a e resistência R, com centro situado sobre o eixo de um solenóide muito longo, com n voltas por unidade de comprimento e raio b (b < a). No instante inicial, t = 0, o eixo do solenóide encontra-se perpendicular ao plano da espira, que oscila segundo a expressão θ = θmax sen (ωt), em que ω é a frequência angular do movimento. Se a corrente que passa pelo solenóide cresce linearmente com o tempo, conforme I = Kt, e sendo μ0 a permeabilidade magnética do vácuo, então a intensidade da corrente elétrica induzida na espira é\n(A imagem mostra um solenóide longo e uma espira circular coaxial a ele. A espira tem raio 'a' e o solenóide tem raio 'b', com b < a. O solenóide está girando com um ângulo θmax.)",
+      principal: "A figura mostra uma espira circular, de raio a e resistência R, com centro situado sobre o eixo de um solenóide muito longo, com n voltas por unidade de comprimento e raio b (b < a). No instante inicial, t = 0, o eixo do solenóide encontra-se perpendicular ao plano da espira, que oscila segundo a expressão θ = θmax $\\sin$ (ωt), em que ω é a frequência angular do movimento. Se a corrente que passa pelo solenóide cresce linearmente com o tempo, conforme I = Kt, e sendo μ0 a permeabilidade magnética do vácuo, então a intensidade da corrente elétrica induzida na espira é\n(A imagem mostra um solenóide longo e uma espira circular coaxial a ele. A espira tem raio 'a' e o solenóide tem raio 'b', com b < a. O solenóide está girando com um ângulo θmax.)",
       subItens: []
     },
     options: ["μ0 * n * K * π * a² / R","μ0 * n * K * π * b² / R","μ0 * n * K * ω * θmax * π * b² / R * |sen(ωt)|","μ0 * n * K * ω * θmax * π * b² / R * |cos(ωt)|","0."],
@@ -288,7 +288,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "A questão 20 refere-se à charge a seguir:\nEI!VOCÊS AI! TEJE\nPRESO POR CRIME\nAMBIENTAL!\nKOPA\nPARA OS\nRICE\nFonte: desdiscursos.blogspot.com. Disponível em <http://desdiscursos.blogspot.$\\\\frac{com}{2011}$/$\\\\frac{12}{crimes}$-ambientais.html> Acesso em: set. 2018.\nQuestão 20. Assinale a alternativa que exprime o teor crítico da charge.",
+      principal: "A questão 20 refere-se à charge a seguir:\nEI!VOCÊS AI! TEJE\nPRESO POR CRIME\nAMBIENTAL!\nKOPA\nPARA OS\nRICE\nFonte: desdiscursos.blogspot.com. Disponível em <http://desdiscursos.blogspot.com/2011/12/crimes-ambientais.html> Acesso em: set. 2018.\nQuestão 20. Assinale a alternativa que exprime o teor crítico da charge.",
       subItens: []
     },
     options: ["A pichação somente contribui para o aumento da poluição visual da cidade.","É necessário investir efetivamente em educação para a conscientização ambiental.","Há incoerência entre a proibição governamental e sua efetiva fiscalização.","A pichação é uma forma ilegítima de protesto social e educacional.","Os pichadores demonstram total indiferença com o meio ambiente e a lei."],
@@ -348,7 +348,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Leia o poema de autoria de Cecília Meireles. O texto 'Epigrama n. 04' (O choro vem perto dos olhos / para que a dor transborde e caia. / O choro vem quase chorando / como a onda que toca a praia. / Descem dos céus ordens augustas / e o mar chama a onda para o centro. / O choro foge sem vestígios, / mas levando náufragos dentro. / (MEIRELES, Cecília, $\\\\frac{Viagem}{Vaga}$ música. Rio de Janeiro: Nova Fronteira, 1982.p.43)) I. aproxima metaforicamente um fenômeno humano e um fenômeno natural a partir da identificação de, pelo menos, um traço comum a ambos: água em movimento. II. sugere que, enquanto o movimento do choro é ligado à variação das emoções, o movimento da onda deve-se a forças naturais, responsáveis pela circularidade marítima. III. ameniza o dramatismo do choro humano, pois, quando acomete o sujeito, ele passa naturalmente, como a onda que volta ao mar. IV. leva-nos a perceber que o choro contido tem um impacto emocional que o torna desolador. Estão corretas:",
+      principal: "Leia o poema de autoria de Cecília Meireles. O texto 'Epigrama n. 04' (O choro vem perto dos olhos / para que a dor transborde e caia. / O choro vem quase chorando / como a onda que toca a praia. / Descem dos céus ordens augustas / e o mar chama a onda para o centro. / O choro foge sem vestígios, / mas levando náufragos dentro. / (MEIRELES, Cecília, Viagem/Vaga música. Rio de Janeiro: Nova Fronteira, 1982.p.43)) I. aproxima metaforicamente um fenômeno humano e um fenômeno natural a partir da identificação de, pelo menos, um traço comum a ambos: água em movimento. II. sugere que, enquanto o movimento do choro é ligado à variação das emoções, o movimento da onda deve-se a forças naturais, responsáveis pela circularidade marítima. III. ameniza o dramatismo do choro humano, pois, quando acomete o sujeito, ele passa naturalmente, como a onda que volta ao mar. IV. leva-nos a perceber que o choro contido tem um impacto emocional que o torna desolador. Estão corretas:",
       subItens: []
     },
     options: ["I e II apenas;","I, II e IV apenas;","I, III e IV apenas;","II e III apenas;","todas."],
@@ -438,7 +438,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "As questões de 30 a 32 referem-se à tirinha a seguir:\n(Tirinha de quadrinhos. O primeiro quadro mostra um chefe criticando um jornalista: \"Pfff... No fact-checking, no reliable source, clickbait titles... it's shameful!\". O segundo quadro mostra o chefe se explicando: \"According to our journalistic codes of ethics, we follow integrity, accuracy, factual reporting, dignity and we fight against lies and corruption!\". O terceiro quadro mostra o jornalista contra-argumentando: \"Okay boss, but $\\\\frac{A}{B}$ testing shows that it's this kind of articles which generate the most clicks and likes on social networks...\". No último quadro, o chefe responde: \"Oh really? Show me these figures...\".)\nQuestão 30. De acordo com a tirinha,",
+      principal: "As questões de 30 a 32 referem-se à tirinha a seguir:\n(Tirinha de quadrinhos. O primeiro quadro mostra um chefe criticando um jornalista: \"Pfff... No fact-checking, no reliable source, clickbait titles... it's shameful!\". O segundo quadro mostra o chefe se explicando: \"According to our journalistic codes of ethics, we follow integrity, accuracy, factual reporting, dignity and we fight against lies and corruption!\". O terceiro quadro mostra o jornalista contra-argumentando: \"Okay boss, but A/B testing shows that it's this kind of articles which generate the most clicks and likes on social networks...\". No último quadro, o chefe responde: \"Oh really? Show me these figures...\".)\nQuestão 30. De acordo com a tirinha,",
       subItens: []
     },
     options: ["o chefe está criticando um jornal concorrente por não verificar fatos, não se apoiar em fontes confiáveis e usar títulos sensacionalistas.","o jornalista justifica a seu chefe o porquê de escrever matérias que não respeitam o código de ética dos jornalistas.","o jornalista salienta que aquele tipo de matéria é o que causa mais repercussão; ainda assim, seu chefe desaprova seu uso.","após a crítica do chefe, o jornalista concorda em seguir o código de ética dos jornalistas e zelar pelo conteúdo de suas matérias.","o chefe do jornalista está zangado porque seguir os princípios éticos do jornalismo causa prejuízos para a sua empresa."],
@@ -633,7 +633,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Considere as seguintes afirmações: I. Se n é um número natural, então 1/(n+1) + 1/(n+2) + ... + 1/(2n) > $\\\\frac{1}{2}$. II. Se x é um número real e x³ + x + 1 = 0, então x² + $\\\\frac{1}{x}$ + $\\\\frac{1}{x}$⁶ = 0. III. Se a, b e c são números reais positivos que formam, nessa ordem, uma progressão aritmética, então 1/(√b+√c), 1/(√c+√a), 1/(√a+√b) formam, nessa ordem, uma progressão aritmética. É(são) VERDADEIRA(S)",
+      principal: "Considere as seguintes afirmações: I. Se n é um número natural, então 1/(n+1) + 1/(n+2) + ... + 1/(2n) > 1/2. II. Se x é um número real e x³ + x + 1 = 0, então x² + 1/x + 1/x⁶ = 0. III. Se a, b e c são números reais positivos que formam, nessa ordem, uma progressão aritmética, então 1/(√b+√c), 1/(√c+√a), 1/(√a+√b) formam, nessa ordem, uma progressão aritmética. É(são) VERDADEIRA(S)",
       subItens: []
     },
     options: ["apenas I.","apenas I e II.","apenas I e III.","apenas II e III.","todas."],
@@ -678,7 +678,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Seja f : [-1,1] → [-π/2, π/2] a função definida por f(x) = arcsen(x). Então, a soma Σ (de n=0 a 4) f(cos(2π$\\\\frac{n}{3}$)) é igual a",
+      principal: "Seja f : [-1,1] → [-π/2, π/2] a função definida por f(x) = arcsen(x). Então, a soma Σ (de n=0 a 4) f(cos(2πn/3)) é igual a",
       subItens: []
     },
     options: ["253π/162.","245π/162.","152π/81.","82π/81.","79π/162."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Considere as seguintes afirmações: I. Se x_{1}, x_{2} e x_{3} são as raízes da equação x³ – 2x² + x + 2 = 0, então y_{1} = x2x3, y_{2} = x1x3 e y_{3} = x1x2 são as raízes da equação y³ – y² – 4y – 4 = 0. II. A soma dos cubos de três números inteiros consecutivos é divisível por 9. III. √((3+√5)/2) = (1+√5)/2. É(são) VERDADEIRA(S)",
+      principal: "Considere as seguintes afirmações: I. Se $x_{1}$, $x_{2}$ e $x_{3}$ são as raízes da equação x³ – 2x² + x + 2 = 0, então $y_{1}$ = x2x3, $y_{2}$ = x1x3 e $y_{3}$ = x1x2 são as raízes da equação y³ – y² – 4y – 4 = 0. II. A soma dos cubos de três números inteiros consecutivos é divisível por 9. III. √((3+√5)/2) = (1+√5)/2. É(são) VERDADEIRA(S)",
       subItens: []
     },
     options: ["apenas I.","apenas II.","apenas III.","apenas II e III.","todas."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Assinale a opção que apresenta o número total de isômeros estruturais de aminas com fórmula molecular C_{4}H11N.",
+      principal: "Assinale a opção que apresenta o número total de isômeros estruturais de aminas com fórmula molecular C4H11N.",
       subItens: []
     },
     options: ["3","4","7","8","9"],
@@ -753,7 +753,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Retardantes de chama são substâncias que atenuam $\\\\frac{e}{ou}$ inibem o processo de combustão de um material. Considere os seguintes fenômenos: I. Criação de um dissipador de calor usando um composto que se decompõe em um processo altamente exotérmico, gerando produtos voláteis não combustíveis. II. Aumento da transferência de calor na superfície em combustão por eliminação do material fundido. III. Envenenamento da chama pela evolução de espécies químicas que capturam os radicais H e OH que são ativos na propagação da termooxidação da chama. IV. Limitação da transferência de calor e massa pela criação de uma camada de carbonização isolante na superfície do material sólido em combustão. Assinale a opção que apresenta corretamente o(s) fenômeno(s) que pode(m) ser atribuído(s) a ações de retardantes de chama.",
+      principal: "Retardantes de chama são substâncias que atenuam e/ou inibem o processo de combustão de um material. Considere os seguintes fenômenos: I. Criação de um dissipador de calor usando um composto que se decompõe em um processo altamente exotérmico, gerando produtos voláteis não combustíveis. II. Aumento da transferência de calor na superfície em combustão por eliminação do material fundido. III. Envenenamento da chama pela evolução de espécies químicas que capturam os radicais H e OH que são ativos na propagação da termooxidação da chama. IV. Limitação da transferência de calor e massa pela criação de uma camada de carbonização isolante na superfície do material sólido em combustão. Assinale a opção que apresenta corretamente o(s) fenômeno(s) que pode(m) ser atribuído(s) a ações de retardantes de chama.",
       subItens: []
     },
     options: ["Apenas I e II","Apenas I e IV","Apenas II, III e IV","Apenas III","Todos"],
@@ -813,7 +813,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Computadores químicos são sistemas desenvolvidos para resolver diversos problemas de ciência e engenharia, por meio de reações químicas. Considere dois exemplos de aplicação desses computadores: I. Desenvolvimento de circuitos de controle molecular e procedimentos terapêuticos inteligentes utilizando um conjunto de velocidades de reações químicas como linguagem de programação para controlar a síntese de DNA. II. Definição das melhores rotas de deslocamento entre dois pontos de um mapa, de forma mais rápida do que qualquer sistema de navegação convencional. O computador utiliza um mapa preenchido com um líquido alcalino. O ponto de partida contém partículas de corante e o ponto de destino contém um gel misturado com ácido. Assinale a opção que apresenta os $\\\\frac{conceitos}{processos}$ que melhor descrevem o princípio de funcionamento dos computadores químicos exemplificados em I e II, respectivamente.",
+      principal: "Computadores químicos são sistemas desenvolvidos para resolver diversos problemas de ciência e engenharia, por meio de reações químicas. Considere dois exemplos de aplicação desses computadores: I. Desenvolvimento de circuitos de controle molecular e procedimentos terapêuticos inteligentes utilizando um conjunto de velocidades de reações químicas como linguagem de programação para controlar a síntese de DNA. II. Definição das melhores rotas de deslocamento entre dois pontos de um mapa, de forma mais rápida do que qualquer sistema de navegação convencional. O computador utiliza um mapa preenchido com um líquido alcalino. O ponto de partida contém partículas de corante e o ponto de destino contém um gel misturado com ácido. Assinale a opção que apresenta os conceitos/processos que melhor descrevem o princípio de funcionamento dos computadores químicos exemplificados em I e II, respectivamente.",
       subItens: []
     },
     options: ["Primeira lei da termodinâmica e solubilidade","Mecanismos reacionais e variação da tensão superficial","Entalpia de formação dos produtos e entalpia de neutralização","Princípio de Le Chatelier e Lei de Hess","Energia de ativação e reação de Cannizzaro"],
@@ -828,7 +828,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "Considere as configurações eletrônicas do estado fundamental dos átomos X, Y e Z pertencentes ao segundo período da tabela periódica: X: ns²np³ Y: ns²np⁴ Z: ns²np⁵ Com base nas estruturas de Lewis, sejam feitas as seguintes afirmações sobre íons e moléculas formados por esses átomos: I. A ordem das energias de ligação das moléculas diatômicas homonucleares é X_{2} > Y_{2} > Z_{2}. II. O cátion XY⁺ tem maior distância interatômica de equilíbrio do que o ânion XY⁻. III. As moléculas triatômicas YZ_{2} e Y_{3} têm geometria angular. IV. As moléculas X_{2}Y_{2} e Y_{2}Z_{2} apresentam ligações duplas. Das afirmações acima, estão CORRETA(S)",
+      principal: "Considere as configurações eletrônicas do estado fundamental dos átomos X, Y e Z pertencentes ao segundo período da tabela periódica: X: ns²np³ Y: ns²np⁴ Z: ns²np⁵ Com base nas estruturas de Lewis, sejam feitas as seguintes afirmações sobre íons e moléculas formados por esses átomos: I. A ordem das energias de ligação das moléculas diatômicas homonucleares é $X_{2}$ > $Y_{2}$ > $Z_{2}$. II. O cátion XY⁺ tem maior distância interatômica de equilíbrio do que o ânion XY⁻. III. As moléculas triatômicas $YZ_{2}$ e $Y_{3}$ têm geometria angular. IV. As moléculas X2Y2 e Y2Z2 apresentam ligações duplas. Das afirmações acima, estão CORRETA(S)",
       subItens: []
     },
     options: ["I e III.","I e IV.","II e III.","II, III e IV.","II e IV."],
@@ -873,7 +873,7 @@ createQuestion({
     university: "ITA",
     year: 2019,
     text: {
-      principal: "A espectroscopia de massa é um dos métodos instrumentais utilizados para determinar a fórmula molecular de um composto. Essa mesma técnica é utilizada para determinar as massas dos isótopos e suas abundâncias percentuais. Sabe-se que o átomo de bromo tem dois isótopos estáveis com massas atômicas iguais a 79 e 81 u.m.a., e abundâncias iguais a 50,7 e 49,3%, respectivamente. O espectro de massas (abundância em função da relação $\\\\frac{carga}{massa}$) do Br_{2} tem seus três picos mais intensos atribuídos aos diferentes arranjos isotópicos do Br_{2}. Baseado nessas informações, a razão entre as intensidades relativas dos picos dos isótopos do Br_{2}, em ordem crescente de massa atômica, é aproximadamente",
+      principal: "A espectroscopia de massa é um dos métodos instrumentais utilizados para determinar a fórmula molecular de um composto. Essa mesma técnica é utilizada para determinar as massas dos isótopos e suas abundâncias percentuais. Sabe-se que o átomo de bromo tem dois isótopos estáveis com massas atômicas iguais a 79 e 81 u.m.a., e abundâncias iguais a 50,7 e 49,3%, respectivamente. O espectro de massas (abundância em função da relação carga/massa) do $Br_{2}$ tem seus três picos mais intensos atribuídos aos diferentes arranjos isotópicos do $Br_{2}$. Baseado nessas informações, a razão entre as intensidades relativas dos picos dos isótopos do $Br_{2}$, em ordem crescente de massa atômica, é aproximadamente",
       subItens: []
     },
     options: ["1:1:1.","1:1:2.","1:2:1.","1:2:2.","1:2:3."],

@@ -3,7 +3,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Seja o sistema\n3x¹ + 3x² + 3x³ = 6x⁴ - 1\n3x¹ + 3x² + 3x⁴ = 6x³ - 1\n3x¹ + 3x³ + 3x⁴ = 6x² - 1\n3x² + 3x³ + 3x⁴ = 6x¹ - 1\nO valor de $\\\\frac{1}{x_{1}}$ + $\\\\frac{1}{x_{2}}$ + $\\\\frac{1}{x_{3}}$ + $\\\\frac{1}{x_{4}}$ é:",
+      principal: "Seja o sistema\n3x¹ + 3x² + 3x³ = 6x⁴ - 1\n3x¹ + 3x² + 3x⁴ = 6x³ - 1\n3x¹ + 3x³ + 3x⁴ = 6x² - 1\n3x² + 3x³ + 3x⁴ = 6x¹ - 1\nO valor de 1/$x_{1}$ + 1/$x_{2}$ + 1/$x_{3}$ + 1/$x_{4}$ é:",
       subItens: []
     },
     options: ["12","4/3","2/3","1/3","9"],
@@ -18,7 +18,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Seja B o conjunto de todos os valores de x ∈ IR para os quais a soma dos termos da progressão\n$\\\\frac{4}{3x}$, $\\\\frac{16}{9x}$², $\\\\frac{64}{27x}$³, $\\\\frac{256}{81x}$⁴, ...\nassume um valor finito. Define-se a função f : B → IR, para cada x ∈ B, tal que\nf(x) = -$\\\\frac{4}{3x}$ + $\\\\frac{16}{9x}$² - $\\\\frac{64}{27x}$³ + $\\\\frac{256}{81x}$⁴ - ...\nA soma das raízes da equação f(x) = −x, x ∈ B, é:",
+      principal: "Seja B o conjunto de todos os valores de x ∈ IR para os quais a soma dos termos da progressão\n4/3x, 16/9x², 64/27x³, 256/81x⁴, ...\nassume um valor finito. Define-se a função f : B → IR, para cada x ∈ B, tal que\nf(x) = -4/3x + 16/9x² - 64/27x³ + 256/81x⁴ - ...\nA soma das raízes da equação f(x) = −x, x ∈ B, é:",
       subItens: []
     },
     options: ["0","-2","-4/3","2/3","4/3"],
@@ -33,7 +33,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Considere o conjunto de todas as retas que são secantes ao gráfico da função\nf(x) = ln (-$\\\\frac{7}{12}$ + x - x²) ^ (3x-1)\ne que passam pelo ponto ($\\\\frac{1}{3}$, f($\\\\frac{1}{3}$)).\nO menor valor dentre os coeficientes angulares das retas desse conjunto é:",
+      principal: "Considere o conjunto de todas as retas que são secantes ao gráfico da função\nf(x) = ln (-7/12 + x - x²) ^ (3x-1)\ne que passam pelo ponto (1/3, f(1/3)).\nO menor valor dentre os coeficientes angulares das retas desse conjunto é:",
       subItens: []
     },
     options: ["-3ln(3)","1/2 ln(1/3)","3 ln(13/36)","0","1/2"],
@@ -48,7 +48,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Quantos pares ordenados (x, y) de números inteiros satisfazem a equação $\\\\frac{1}{x}$ + $\\\\frac{1}{y}$ = $\\\\frac{1}{23}$?",
+      principal: "Quantos pares ordenados (x, y) de números inteiros satisfazem a equação 1/x + 1/y = 1/23?",
       subItens: []
     },
     options: ["1","2","3","4","5"],
@@ -63,7 +63,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Seja α ∈ IR e z_{1}, z_{2}, z_{3} números complexos tais que |z_{1}| = |z_{2}| = |z_{3}| = 4 e z_{1} ≠ z_{2}. O menor valor de |αz_{1} – (α – 1)z_{2} - z_{3}|, é:",
+      principal: "Seja α ∈ IR e $z_{1}$, $z_{2}$, $z_{3}$ números complexos tais que |$z_{1}$| = |$z_{2}$| = |$z_{3}$| = 4 e $z_{1}$ ≠ $z_{2}$. O menor valor de |α$z_{1}$ – (α – 1)$z_{2}$ - $z_{3}$|, é:",
       subItens: []
     },
     options: ["1/8 |z1+z2|","1/4 |z1-z2|","1/8 |z3-z1||z3-z2|","1/4 |z1-z2|","|z3|"],
@@ -168,7 +168,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Para cada número n natural, seja a função real fn(x) definida para cada x ∈ IR, tal que x ≠ (k + 1)π/2, ∀k ∈ Z, de forma que:\nfn(x) = [tg(x)]ⁿ + 1 / (n[sec(x)]ⁿ)\nA função g(x) que atende g(x) = f(x) - f₁₄(x) + $\\\\frac{1}{3}$ é:",
+      principal: "Para cada número n natural, seja a função real fn(x) definida para cada x ∈ IR, tal que x ≠ (k + 1)π/2, ∀k ∈ Z, de forma que:\nfn(x) = [tg(x)]ⁿ + 1 / (n[sec(x)]ⁿ)\nA função g(x) que atende g(x) = f(x) - f₁₄(x) + 1/3 é:",
       subItens: []
     },
     options: ["cos(x) + 3","1/4","sen(x) - 2","1/12","tg(x) - 1/3"],
@@ -198,7 +198,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Considere os triângulos △ABC em que BC = 32 e $\\\\frac{AB}{AC}$ = 3. O maior valor possível para a altura relativa ao lado BC é:",
+      principal: "Considere os triângulos △ABC em que BC = 32 e AB/AC = 3. O maior valor possível para a altura relativa ao lado BC é:",
       subItens: []
     },
     options: ["8","9","10","11","12"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Seja o cone de revolução de raio de base R e altura $\\\\frac{3R}{2}$ com a base apoiada em um solo horizontal. Um ponto luminoso está localizado a uma altura 3R do solo e distante, horizontalmente, 2R do centro da base do cone. A área S da região iluminada no cone é:",
+      principal: "Seja o cone de revolução de raio de base R e altura 3R/2 com a base apoiada em um solo horizontal. Um ponto luminoso está localizado a uma altura 3R do solo e distante, horizontalmente, 2R do centro da base do cone. A área S da região iluminada no cone é:",
       subItens: []
     },
     options: ["πR²√13","2πR²√13 / 3","πR²√13 / 2","πR²√13 / 3","13/4 πR²"],
@@ -228,7 +228,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "A figura mostra uma pequena esfera carregada, interligada por um cabo de comprimento L, inextensível e de massa desprezível, que gira em torno de um eixo vertical com velocidade angular ω. O movimento da esfera ocorre numa região submetida a um campo elétrico uniforme E, conforme indicado na figura.\nDados:\n• massa da esfera: m = 50 g;\n• carga elétrica da esfera: q = −10 C;\n• intensidade do campo elétrico: |E| = 0,07 $\\\\frac{N}{C}$;\n• velocidade angular do eixo: ω = 120 rpm;\n• comprimento do cabo: L = 30 cm;\n• aceleração da gravidade: g = 10 $\\\\frac{m}{s}$²; e\n• π² ≈ 10.\nObservação:\n• a espessura do eixo vertical é desprezível.\nO ângulo θ formado entre o cabo e o eixo é aproximadamente:",
+      principal: "A figura mostra uma pequena esfera carregada, interligada por um cabo de comprimento L, inextensível e de massa desprezível, que gira em torno de um eixo vertical com velocidade angular ω. O movimento da esfera ocorre numa região submetida a um campo elétrico uniforme E, conforme indicado na figura.\nDados:\n• massa da esfera: m = 50 g;\n• carga elétrica da esfera: q = −10 C;\n• intensidade do campo elétrico: |E| = 0,07 N/C;\n• velocidade angular do eixo: ω = 120 rpm;\n• comprimento do cabo: L = 30 cm;\n• aceleração da gravidade: g = 10 m/s²; e\n• π² ≈ 10.\nObservação:\n• a espessura do eixo vertical é desprezível.\nO ângulo θ formado entre o cabo e o eixo é aproximadamente:",
       subItens: []
     },
     options: ["75°","60°","45°","30°","15°"],
@@ -258,7 +258,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Uma fonte sonora A, que emite um som de frequência constante, e um observador B estão próximos um do outro e movem-se lentamente de acordo com as equações temporais no Plano XY mostradas abaixo:\nX_A = cos(t) + log(1 + t)\nY_A = 2t + 3\nX_B = log(1 + t) – sen(t)\nY_B = 2t – 1\nConsiderando que a fonte sonora emita um som de frequência constante, a frequência percebida pelo observador, dentre as opções, é desprovida de efeito Doppler quando o instante t for:",
+      principal: "Uma fonte sonora A, que emite um som de frequência constante, e um observador B estão próximos um do outro e movem-se lentamente de acordo com as equações temporais no Plano XY mostradas abaixo:\nX_A = cos(t) + log(1 + t)\nY_A = 2t + 3\nX_B = log(1 + t) – $\\sin$(t)\nY_B = 2t – 1\nConsiderando que a fonte sonora emita um som de frequência constante, a frequência percebida pelo observador, dentre as opções, é desprovida de efeito Doppler quando o instante t for:",
       subItens: []
     },
     options: ["0","π/6","π/2","3π/4","π"],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Um prisma possui um ângulo agudo α e índice de refração variável de acordo com a expressão:\nn(λ) = A + B/λ²\nem que A e B são constantes e λ é o comprimento de onda.\nUma luz branca vinda do ar (n₀ = 1) incide sobre a face vertical do prisma e sofre dispersão cromática no seu interior, voltando para o ar ao sair do prisma. Tal luz, possui componentes espectrais no intervalo: λ₁ ≤ λ ≤ λ₂.\nConsideração:\n• os ângulos θ₀ e α são tão pequenos que a aproximação sen(x) = x é válida, para x = θ₀ ou x = α.\nDiante do exposto, a maior abertura angular ∆θ entre as componentes espectrais é aproximadamente:",
+      principal: "Um prisma possui um ângulo agudo α e índice de refração variável de acordo com a expressão:\nn(λ) = A + B/λ²\nem que A e B são constantes e λ é o comprimento de onda.\nUma luz branca vinda do ar (n₀ = 1) incide sobre a face vertical do prisma e sofre dispersão cromática no seu interior, voltando para o ar ao sair do prisma. Tal luz, possui componentes espectrais no intervalo: λ₁ ≤ λ ≤ λ₂.\nConsideração:\n• os ângulos θ₀ e α são tão pequenos que a aproximação $\\sin$(x) = x é válida, para x = θ₀ ou x = α.\nDiante do exposto, a maior abertura angular ∆θ entre as componentes espectrais é aproximadamente:",
       subItens: []
     },
     options: ["αA(λ₂²-λ₁²)/(λ₁λ₂)","θ₀A(λ₂²-λ₁²)/(λ₁λ₂)","αB(λ₂²+λ₁²)/(λ₁λ₂)²","θ₀B(λ₂²-λ₁²)/(λ₁λ₂)²","αB(λ₂²-λ₁²)/(λ₁λ₂)²"],
@@ -288,7 +288,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "A tabela mostra a velocidade v do som, a 20 °C e 1 atm, em seis gases diferentes.\n\n| Gás | v [$\\\\frac{m}{s}$] |\n|---|---|\n| argônio | 319 |\n| criptônio | 221 |\n| hélio | 1007 |\n| hidrogênio | 1270 |\n| oxigênio | 326 |\n| xenônio | 178 |\n\nfonte: https://pages.mtu.edu/~$\\\\frac{suits}{SpeedofSoundOther}$.html\n\nQuando um tubo aberto em uma das extremidades é enchido com oxigênio, a frequência do primeiro harmônico do som produzido pelo tubo é 163 Hz. Quando o oxigênio é substituído por um dos cinco gases restantes, a frequência do quinto harmônico do som produzido pelo tubo é 2517,5 Hz. Isso significa que o gás escolhido para o segundo experimento foi o:",
+      principal: "A tabela mostra a velocidade v do som, a 20 °C e 1 atm, em seis gases diferentes.\n\n| Gás | v [m/s] |\n|---|---|\n| argônio | 319 |\n| criptônio | 221 |\n| hélio | 1007 |\n| hidrogênio | 1270 |\n| oxigênio | 326 |\n| xenônio | 178 |\n\nfonte: https://pages.mtu.edu/~suits/SpeedofSoundOther.html\n\nQuando um tubo aberto em uma das extremidades é enchido com oxigênio, a frequência do primeiro harmônico do som produzido pelo tubo é 163 Hz. Quando o oxigênio é substituído por um dos cinco gases restantes, a frequência do quinto harmônico do som produzido pelo tubo é 2517,5 Hz. Isso significa que o gás escolhido para o segundo experimento foi o:",
       subItens: []
     },
     options: ["argônio","criptônio","hélio","hidrogênio","xenônio"],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "O sistema da figura acima é composto por duas barras articuladas B₁ e B₂, uma roldana R e um fio inextensível, todos de massa desprezível, e dois objetos carregados eletricamente O₁ e O₂. O₁ e O₂ estão fixados cada um a uma extremidade livre do fio e também à extremidade livre de B₁ e B₂, respectivamente. O sistema encontra-se em equilíbrio e está estático na posição mostrada na figura.\nDados:\n• comprimento total do fio = 31 m;\n• massa de O₁ = 4 kg;\n• massa de O₂ = 12 kg; e\n• aceleração da gravidade: g = 10 $\\\\frac{m}{s}$².\nConsiderações:\n• os objetos O₁ e O₂ estão carregados eletricamente com cargas opostas;\n• as dimensões de O₁, O₂ e da roldana são desprezíveis; e\n• B₁ e B₂ estão paralelas ao eixo horizontal.\nDiante do exposto, o módulo da força elétrica entre os objetos O₁ e O₂, em N, é aproximadamente:",
+      principal: "O sistema da figura acima é composto por duas barras articuladas B₁ e B₂, uma roldana R e um fio inextensível, todos de massa desprezível, e dois objetos carregados eletricamente O₁ e O₂. O₁ e O₂ estão fixados cada um a uma extremidade livre do fio e também à extremidade livre de B₁ e B₂, respectivamente. O sistema encontra-se em equilíbrio e está estático na posição mostrada na figura.\nDados:\n• comprimento total do fio = 31 m;\n• massa de O₁ = 4 kg;\n• massa de O₂ = 12 kg; e\n• aceleração da gravidade: g = 10 m/s².\nConsiderações:\n• os objetos O₁ e O₂ estão carregados eletricamente com cargas opostas;\n• as dimensões de O₁, O₂ e da roldana são desprezíveis; e\n• B₁ e B₂ estão paralelas ao eixo horizontal.\nDiante do exposto, o módulo da força elétrica entre os objetos O₁ e O₂, em N, é aproximadamente:",
       subItens: []
     },
     options: ["18","20","23","26","30"],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Você está desenvolvendo um sistema embarcado autônomo para desinfecção de ambientes. O sistema é composto por um carrinho elétrico com uma lâmpada e uma bateria. Para que o processo de desinfecção funcione apropriadamente, o sistema deverá deslocar-se com velocidade constante por um piso rugoso.\nDados:\n• massa do carrinho: 6 kg;\n• massa da bateria: 4 kg;\n• tensão da bateria: 24 V;\n• massa da lâmpada: 2 kg;\n• coeficiente de atrito cinético: 0,2;\n• aceleração da gravidade: 10 $\\\\frac{m}{s}$²;\n• velocidade do sistema: 0,5 $\\\\frac{m}{s}$; e\n• potência da lâmpada: 96 W.\nConsiderações:\n• as perdas do motor do carrinho são desprezíveis; e\n• a energia da bateria necessária para fazer o carrinho chegar a velocidade de funcionamento do sistema é desprezível.\nSabendo que a bateria fornece energia para o carrinho e para a lâmpada e que, para a perfeita desinfecção da sala, o sistema deve trabalhar durante 90 minutos, a mínima capacidade da bateria do sistema, em mAh, é:",
+      principal: "Você está desenvolvendo um sistema embarcado autônomo para desinfecção de ambientes. O sistema é composto por um carrinho elétrico com uma lâmpada e uma bateria. Para que o processo de desinfecção funcione apropriadamente, o sistema deverá deslocar-se com velocidade constante por um piso rugoso.\nDados:\n• massa do carrinho: 6 kg;\n• massa da bateria: 4 kg;\n• tensão da bateria: 24 V;\n• massa da lâmpada: 2 kg;\n• coeficiente de atrito cinético: 0,2;\n• aceleração da gravidade: 10 m/s²;\n• velocidade do sistema: 0,5 m/s; e\n• potência da lâmpada: 96 W.\nConsiderações:\n• as perdas do motor do carrinho são desprezíveis; e\n• a energia da bateria necessária para fazer o carrinho chegar a velocidade de funcionamento do sistema é desprezível.\nSabendo que a bateria fornece energia para o carrinho e para a lâmpada e que, para a perfeita desinfecção da sala, o sistema deve trabalhar durante 90 minutos, a mínima capacidade da bateria do sistema, em mAh, é:",
       subItens: []
     },
     options: ["6370","6375","6500","6625","6750"],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Um objeto de formato cúbico, com aresta de comprimento L e de massa específica μobj, encontra-se apoiado no fundo do mar, devendo ser içado por meio de um balão de borracha de massa m_b, que apresenta volume interno V de ar ajustável. A figura ilustra a situação descrita, com o centro do balão posicionado a 10 m de profundidade. O volume V do balão, em m³, relaciona-se com a diferença de pressão ∆p, em atm, entre a pressão interna e a externa do balão pela seguinte equação:\nΔp = 1,4V² – 1,2V + 1,8\npara 1 ≤ V ≤ 3.\nDados:\n• massa do balão: m_b = 50 kg;\n• massa do cabo: m_c = 100 kg;\n• comprimento da aresta do objeto cúbico: L = 1 m;\n• aceleração da gravidade: g = 10 $\\\\frac{m}{s}$²;\n• massa específica do objeto: μ_obj = 2850 $\\\\frac{kg}{m}$³;\n• massa específica da água: μ_agua = 1000 $\\\\frac{kg}{m}$³; e\n• 1 atm = 10⁵ Pa.\nObservações:\n• o ar acima da superfície da água encontra-se a 1 atm de pressão;\n• desconsidere o volume do cabo e a massa do ar internamente ao balão; e\n• para efeito do cálculo da pressão hidrostática sobre o balão, considere que todo o volume V esteja posicionado na mesma profundidade de seu centro.\nA pressão interna mínima do balão, em atm, a partir da qual será iniciado o movimento do objeto é:",
+      principal: "Um objeto de formato cúbico, com aresta de comprimento L e de massa específica μobj, encontra-se apoiado no fundo do mar, devendo ser içado por meio de um balão de borracha de massa m_b, que apresenta volume interno V de ar ajustável. A figura ilustra a situação descrita, com o centro do balão posicionado a 10 m de profundidade. O volume V do balão, em m³, relaciona-se com a diferença de pressão ∆p, em atm, entre a pressão interna e a externa do balão pela seguinte equação:\nΔp = 1,4V² – 1,2V + 1,8\npara 1 ≤ V ≤ 3.\nDados:\n• massa do balão: m_b = 50 kg;\n• massa do cabo: m_c = 100 kg;\n• comprimento da aresta do objeto cúbico: L = 1 m;\n• aceleração da gravidade: g = 10 m/s²;\n• massa específica do objeto: μ_obj = 2850 kg/m³;\n• massa específica da água: μ_agua = 1000 kg/m³; e\n• 1 atm = 10⁵ Pa.\nObservações:\n• o ar acima da superfície da água encontra-se a 1 atm de pressão;\n• desconsidere o volume do cabo e a massa do ar internamente ao balão; e\n• para efeito do cálculo da pressão hidrostática sobre o balão, considere que todo o volume V esteja posicionado na mesma profundidade de seu centro.\nA pressão interna mínima do balão, em atm, a partir da qual será iniciado o movimento do objeto é:",
       subItens: []
     },
     options: ["3,0","4,2","5,5","7,0","8,5"],
@@ -408,7 +408,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Um engenheiro recebe a tarefa de elaborar um anteprojeto para estabelecer alguns parâmetros de desempenho referentes a uma usina termelétrica a carvão que será empregada em situações emergenciais. Esta usina trabalhará segundo um ciclo termodinâmico e, em seu estudo, o engenheiro estabelece as afirmativas abaixo:\nAfirmativa I: Se a temperatura da fonte fria for de 300 K e se o ciclo apresentar rendimento real correspondente a 75% do rendimento do Ciclo de Carnot associado, então a temperatura da fonte quente será de 750 K, para as condições de projeto.\nAfirmativa II: A taxa de transferência de calor para a fonte fria nas condições de projeto será de $\\\\frac{55}{3}$ MW.\nAfirmativa III: Nas condições de projeto, o consumo de carvão necessário para garantir o funcionamento ininterrupto da usina durante uma semana será de 560 toneladas.\nCondições de projeto:\n• rendimento do ciclo: 45 %;\n• calor de combustão do carvão: 36 $\\\\frac{kJ}{g}$; e\n• potência disponibilizada pela usina: 15 MW.\nDiante do exposto, está(ão) correta(s) a(s) afirmativa(s):",
+      principal: "Um engenheiro recebe a tarefa de elaborar um anteprojeto para estabelecer alguns parâmetros de desempenho referentes a uma usina termelétrica a carvão que será empregada em situações emergenciais. Esta usina trabalhará segundo um ciclo termodinâmico e, em seu estudo, o engenheiro estabelece as afirmativas abaixo:\nAfirmativa I: Se a temperatura da fonte fria for de 300 K e se o ciclo apresentar rendimento real correspondente a 75% do rendimento do Ciclo de Carnot associado, então a temperatura da fonte quente será de 750 K, para as condições de projeto.\nAfirmativa II: A taxa de transferência de calor para a fonte fria nas condições de projeto será de 55/3 MW.\nAfirmativa III: Nas condições de projeto, o consumo de carvão necessário para garantir o funcionamento ininterrupto da usina durante uma semana será de 560 toneladas.\nCondições de projeto:\n• rendimento do ciclo: 45 %;\n• calor de combustão do carvão: 36 kJ/g; e\n• potência disponibilizada pela usina: 15 MW.\nDiante do exposto, está(ão) correta(s) a(s) afirmativa(s):",
       subItens: []
     },
     options: ["I, apenas.","II, apenas.","I e III, apenas.","I e II, apenas.","I, II e III."],
@@ -423,7 +423,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Um planeta P₁ foi arremessado de sua órbita original O₁ ao redor de sua estrela S₁ no Sistema Solar 1 e desde então vaga pelo Universo com velocidade constante v₁. Em um determinado momento, ao passar pelo Sistema Solar 2, P₁ se choca frontalmente com um planeta P_{2}, que se encontra no afélio de sua órbita O₂ em torno de sua única estrela, S_{2}. O choque entre os dois planetas é perfeitamente inelástico e resulta na criação de um novo planeta P_{3}.\nDados:\n• módulo da velocidade tangencial de P₂ no afélio de O₂: V₂;\n• módulo da velocidade de P_{1}: V₁ = 3V₂;\n• massa de P₁ = 10⁻⁸ x massa da estrela S_{2}; e\n• massa de P₂ = massa de P₁.\nSobre a órbita O₃ de P₃ em torno de S₂, é verdadeiro afirmar que:",
+      principal: "Um planeta P₁ foi arremessado de sua órbita original O₁ ao redor de sua estrela S₁ no Sistema Solar 1 e desde então vaga pelo Universo com velocidade constante v₁. Em um determinado momento, ao passar pelo Sistema Solar 2, P₁ se choca frontalmente com um planeta $P_{2}$, que se encontra no afélio de sua órbita O₂ em torno de sua única estrela, $S_{2}$. O choque entre os dois planetas é perfeitamente inelástico e resulta na criação de um novo planeta $P_{3}$.\nDados:\n• módulo da velocidade tangencial de P₂ no afélio de O₂: V₂;\n• módulo da velocidade de $P_{1}$: V₁ = 3V₂;\n• massa de P₁ = 10⁻⁸ x massa da estrela $S_{2}$; e\n• massa de P₂ = massa de P₁.\nSobre a órbita O₃ de P₃ em torno de S₂, é verdadeiro afirmar que:",
       subItens: []
     },
     options: ["o período de sua órbita O₃ é igual ao da órbita O₂ de P₂.","o período de sua órbita O₃ é maior que o da órbita O₂ de P₂.","o período de sua órbita O₃ é menor que o da órbita O₂ de P₂.","não haverá órbita O₃, pois o planeta P₃ irá de encontro à estrela S₂.","não haverá órbita O₃, pois o planeta P₃ escapará de sua órbita em torno de S₂."],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Concurso de Admissão",
     year: 2022,
     text: {
-      principal: "Um feixe de elétrons penetra em uma região, dividida em camadas espaçadas de acordo com as dimensões mostradas na figura, que está sujeita a um campo magnético heterogêneo. Em cada camada, a direção e o sentido do campo magnético mudam (vide figura), mas seu módulo será sempre constante. Note que na figura existem áreas desprovidas de campo magnético. Sabendo que, após passar pela primeira camada, o feixe descreve um arco de $\\\\frac{1}{8}$ de circunferência, ele sairá na camada 10 no ponto:",
+      principal: "Um feixe de elétrons penetra em uma região, dividida em camadas espaçadas de acordo com as dimensões mostradas na figura, que está sujeita a um campo magnético heterogêneo. Em cada camada, a direção e o sentido do campo magnético mudam (vide figura), mas seu módulo será sempre constante. Note que na figura existem áreas desprovidas de campo magnético. Sabendo que, após passar pela primeira camada, o feixe descreve um arco de 1/8 de circunferência, ele sairá na camada 10 no ponto:",
       subItens: []
     },
     options: ["I","II","III","IV","V"],

@@ -3,7 +3,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "Leia a crônica \"Menina no jardim\" do escritor Paulo Mendes Campos (1922-1991) para responder às questões de 01 a 03.\n\nEm seus 14 meses de permanência neste mundo, a garotinha não tinha tomado o menor conhecimento das leis que governam a nação. Isso se deu agora na praça, logo na chamada República Livre de Ipanema.\n\nAté ontem ela se comprazia em brincar com a terra. Hoje, de repente, deu-lhe um tédio enorme do barro de que somos feitos: atirou o punhado de pó ao chão, ergueu o rosto, ficou pensativa, investigando com ar aborrecido o mundo exterior. Por um momento seus olhos buscaram o jardim à procura de qualquer novidade. E aí ela descobriu o verde extraordinário: a grama. Determinada, levantou-se do chão e correu para a relva, que era, vá lá, bonita, mas já bastante chamuscada pela estiagem.\n\nNão durou mais que três minutos seu deslumbramento. Da esquina, um crioulão de bigodes, representante dos Poderes da República, marchou até ela, buscando convencê-la de que estava desrespeitando uma lei nacional, um regulamento estadual, uma postura municipal, ela ia lá saber o quê.\n\nDiga-se, em nome da verdade, que no diálogo que se travou em seguida, maior violência se registrou por parte da infratora do que por parte da Lei, um guarda civil feio, mas invulgarmente urbano.\n\n– Desce da grama, garotinha – disse a Lei.\n– Blá blé bli bá – protestou a garotinha.\n– É proibido pisar na grama – explicou o guarda.\n– Bá bá bá – retrucou a garotinha com veemência.\n– Vamos, desce, vem para a sombra, que é melhor.\n– Buh buh – afirmou a garotinha, com toda razão, pois o sol estava mais agradável do que a sombra.\n\nA insubmissão da garotinha atingiu o clímax quando o guarda estendeu-lhe a mão com a intenção de ajudá-la a abandonar o gramado. A gentileza foi revidada com um safanão. Dura lex sed lex_{1}.\n\n– Onde está sua mamãe?\n\nA garotinha virou as costas ao guarda, com desprezo. A essa altura levantou-se do banco, de onde assistia à cena, o pai da garota, que a reconduziu, sob chorosos protestos, à terra seca dos homens, ao mundo sem relva que o Estado faculta ao ir e vir dos cidadãos.\n\nA própria Lei, meio encabulada com o seu rigor, tudo fez para que o pai da garotinha se persuadisse de que, se não há mal para que uma brasileira tão pequenininha pise na grama, isso de qualquer forma poderia ser um péssimo exemplo para os brasileiros maiores.\n\n– Aberto o precedente, os outros fariam o mesmo – disse o guarda com imponência.\n– Que fizessem, deveriam fazê-lo – disse o pai.\n– Como? – perguntou o guarda confuso e vexado.\n– A grama só podia ter sido feita, por Deus ou pelo Estado, para ser pisada. Não há sentido em uma relva na qual não se pode pisar.\n\n– Mas isso estraga a grama, cavalheiro!\n– E daí? Que tem isso?\n– Se a grama morrer, ninguém mais pode ver ela – raciocinou a Lei.\n– E o senhor deixa de matar a sua galinha só porque o senhor não pode mais ver ela?\n\nO guarda ficou perplexo e mudo. O pai, indignado, chegou à peroração_{2}:\n\n– É evidente que a relva só pode ter sido feita para ser pisada. Se morre, é porque não cuidam dela. Ou porque não presta. Que morra. Que seja plantado em nossos parques o bom capim do trópico. Ou que não se plante nada. Que se aumente pelo menos o pouco espaço dos nossos poucos jardins. O que é preciso plantar, seu guarda, é uma semente de bom senso nos sujeitos que fazem os regulamentos.\n\n– Buh bah – concordou a menina, correndo em disparada para a grama.\n– O senhor entende o que ela diz? – perguntou o guarda.\n– Claro – respondeu o pai.\n– Que foi que ela disse agora?\n– Não a leve a mal, mas ela mandou o regulamento para o diabo que o carregue.\n\n(Carlos Drummond de Andrade et al. Para gostar de ler, vol. 1, 1984.)\n\n1 Dura lex sed lex: \"A lei é dura, mas é a lei.\"\n2 peroração: a última parte de um discurso, conclusão.\n\nDepreende-se da leitura da crônica que",
+      principal: "Leia a crônica \"Menina no jardim\" do escritor Paulo Mendes Campos (1922-1991) para responder às questões de 01 a 03.\n\nEm seus 14 meses de permanência neste mundo, a garotinha não tinha tomado o menor conhecimento das leis que governam a nação. Isso se deu agora na praça, logo na chamada República Livre de Ipanema.\n\nAté ontem ela se comprazia em brincar com a terra. Hoje, de repente, deu-lhe um tédio enorme do barro de que somos feitos: atirou o punhado de pó ao chão, ergueu o rosto, ficou pensativa, investigando com ar aborrecido o mundo exterior. Por um momento seus olhos buscaram o jardim à procura de qualquer novidade. E aí ela descobriu o verde extraordinário: a grama. Determinada, levantou-se do chão e correu para a relva, que era, vá lá, bonita, mas já bastante chamuscada pela estiagem.\n\nNão durou mais que três minutos seu deslumbramento. Da esquina, um crioulão de bigodes, representante dos Poderes da República, marchou até ela, buscando convencê-la de que estava desrespeitando uma lei nacional, um regulamento estadual, uma postura municipal, ela ia lá saber o quê.\n\nDiga-se, em nome da verdade, que no diálogo que se travou em seguida, maior violência se registrou por parte da infratora do que por parte da Lei, um guarda civil feio, mas invulgarmente urbano.\n\n– Desce da grama, garotinha – disse a Lei.\n– Blá blé bli bá – protestou a garotinha.\n– É proibido pisar na grama – explicou o guarda.\n– Bá bá bá – retrucou a garotinha com veemência.\n– Vamos, desce, vem para a sombra, que é melhor.\n– Buh buh – afirmou a garotinha, com toda razão, pois o sol estava mais agradável do que a sombra.\n\nA insubmissão da garotinha atingiu o clímax quando o guarda estendeu-lhe a mão com a intenção de ajudá-la a abandonar o gramado. A gentileza foi revidada com um safanão. Dura lex sed $lex_{1}$.\n\n– Onde está sua mamãe?\n\nA garotinha virou as costas ao guarda, com desprezo. A essa altura levantou-se do banco, de onde assistia à cena, o pai da garota, que a reconduziu, sob chorosos protestos, à terra seca dos homens, ao mundo sem relva que o Estado faculta ao ir e vir dos cidadãos.\n\nA própria Lei, meio encabulada com o seu rigor, tudo fez para que o pai da garotinha se persuadisse de que, se não há mal para que uma brasileira tão pequenininha pise na grama, isso de qualquer forma poderia ser um péssimo exemplo para os brasileiros maiores.\n\n– Aberto o precedente, os outros fariam o mesmo – disse o guarda com imponência.\n– Que fizessem, deveriam fazê-lo – disse o pai.\n– Como? – perguntou o guarda confuso e vexado.\n– A grama só podia ter sido feita, por Deus ou pelo Estado, para ser pisada. Não há sentido em uma relva na qual não se pode pisar.\n\n– Mas isso estraga a grama, cavalheiro!\n– E daí? Que tem isso?\n– Se a grama morrer, ninguém mais pode ver ela – raciocinou a Lei.\n– E o senhor deixa de matar a sua galinha só porque o senhor não pode mais ver ela?\n\nO guarda ficou perplexo e mudo. O pai, indignado, chegou à peroraçã$o_{2}$:\n\n– É evidente que a relva só pode ter sido feita para ser pisada. Se morre, é porque não cuidam dela. Ou porque não presta. Que morra. Que seja plantado em nossos parques o bom capim do trópico. Ou que não se plante nada. Que se aumente pelo menos o pouco espaço dos nossos poucos jardins. O que é preciso plantar, seu guarda, é uma semente de bom senso nos sujeitos que fazem os regulamentos.\n\n– Buh bah – concordou a menina, correndo em disparada para a grama.\n– O senhor entende o que ela diz? – perguntou o guarda.\n– Claro – respondeu o pai.\n– Que foi que ela disse agora?\n– Não a leve a mal, mas ela mandou o regulamento para o diabo que o carregue.\n\n(Carlos Drummond de Andrade et al. Para gostar de ler, vol. 1, 1984.)\n\n1 Dura lex sed lex: \"A lei é dura, mas é a lei.\"\n2 peroração: a última parte de um discurso, conclusão.\n\nDepreende-se da leitura da crônica que",
       subItens: []
     },
     options: ["o guarda repreende o pai por ser um mau exemplo para a filha.","o pai censura a filha por desrespeitar o guarda.","o pai questiona o regulamento do parque.","o pai repreende o guarda por ter maltratado a filha.","o próprio guarda infringe o regulamento do parque."],
@@ -213,7 +213,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "É preciso dizer que, com a superioridade proporcionada pela força e pela riqueza, muitos indivíduos não sabem e nem mesmo querem obedecer aos magistrados. Ao contrário, aqueles que vivem em extrema penúria desses benefícios tornam-se demasiadamente humildes e rasteiros. Disso resulta que uns, incapazes de mandar, só sabem mostrar uma obediência servil e que outros, incapazes de se submeter a qualquer poder legítimo, só sabem exercer uma autoridade despótica.\n\n(Aristóteles. A política, $\\\\frac{s}{d}$. Adaptado.)\n\nAristóteles destaca a impropriedade de algumas relações políticas. A partir do texto e de seus conhecimentos, é correto afirmar que, para o autor, o melhor regime da polis",
+      principal: "É preciso dizer que, com a superioridade proporcionada pela força e pela riqueza, muitos indivíduos não sabem e nem mesmo querem obedecer aos magistrados. Ao contrário, aqueles que vivem em extrema penúria desses benefícios tornam-se demasiadamente humildes e rasteiros. Disso resulta que uns, incapazes de mandar, só sabem mostrar uma obediência servil e que outros, incapazes de se submeter a qualquer poder legítimo, só sabem exercer uma autoridade despótica.\n\n(Aristóteles. A política, s/d. Adaptado.)\n\nAristóteles destaca a impropriedade de algumas relações políticas. A partir do texto e de seus conhecimentos, é correto afirmar que, para o autor, o melhor regime da polis",
       subItens: []
     },
     options: ["resulta do exercício da soberania política pela maioria da população, desprovida de interesses econômicos.","é formado por cidadãos que, ao mesmo tempo, governam e se submetem às decisões públicas.","aparelha a administração pública de poder militar e de riqueza monetária com a finalidade de garantir a liberdade dos cidadãos.","garante os lucros dos cidadãos com o comércio marítimo, graças à expansão dos gregos pelas regiões da Ásia Menor.","advém da má formação cultural da maioria dos cidadãos, incapazes de conduzir a administração com sabedoria e previdência."],
@@ -288,7 +288,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "O curupira é um dos mais populares personagens míticos das matas brasileiras, representado por um anão, com os pés ao inverso, com os calcanhares para frente. Demônio da floresta, explicador dos rumores misteriosos, desaparecimento de caçadores, esquecimento de caminhos, pavores súbitos inexplicáveis.\n\n(Câmara Cascudo. Dicionário do folclore brasileiro, $\\\\frac{s}{d}$.)\n\nA história do Curupira pode ser definida como um mito, uma vez que constitui",
+      principal: "O curupira é um dos mais populares personagens míticos das matas brasileiras, representado por um anão, com os pés ao inverso, com os calcanhares para frente. Demônio da floresta, explicador dos rumores misteriosos, desaparecimento de caçadores, esquecimento de caminhos, pavores súbitos inexplicáveis.\n\n(Câmara Cascudo. Dicionário do folclore brasileiro, s/d.)\n\nA história do Curupira pode ser definida como um mito, uma vez que constitui",
       subItens: []
     },
     options: ["um relato provável propagado por textos escritos, com base em grande número de testemunhos irrefutáveis.","uma explicação do mundo em que as pessoas vivem, desprovida de comprovação ou demonstração rigorosa.","uma crença religiosa divulgada pela Bíblia cristã, trazida para a América pelos colonizadores portugueses.","um discurso racionalmente fundamentado, derivado de experiências de habitantes das selvas desde o início da colonização do Brasil.","uma lenda sem importância cultural, incapaz de se referir à vida das pessoas e de produzir crenças sociais."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "É o conjunto de formas que, num dado momento, exprimem as heranças que representam as sucessivas relações localizadas entre homem e natureza e se dá como um conjunto de objetos reais-concretos, juntando objetos passados e presentes. Existe através de suas formas, criadas em momentos históricos diferentes, porém coexistindo no momento atual. O seu caráter de palimpsesto_{1}, memória viva de um passado já morto, transforma-a em precioso instrumento de trabalho, pois permite rever as etapas do passado numa perspectiva de conjunto.\n\n(Milton Santos. A natureza do espaço, 2006. Adaptado.)\n\n1 palimpsesto: papiro ou pergaminho cujo texto foi raspado, para dar lugar a outro.\n\nÉ correto afirmar que o excerto descreve a categoria",
+      principal: "É o conjunto de formas que, num dado momento, exprimem as heranças que representam as sucessivas relações localizadas entre homem e natureza e se dá como um conjunto de objetos reais-concretos, juntando objetos passados e presentes. Existe através de suas formas, criadas em momentos históricos diferentes, porém coexistindo no momento atual. O seu caráter de $palimpsesto_{1}$, memória viva de um passado já morto, transforma-a em precioso instrumento de trabalho, pois permite rever as etapas do passado numa perspectiva de conjunto.\n\n(Milton Santos. A natureza do espaço, 2006. Adaptado.)\n\n1 palimpsesto: papiro ou pergaminho cujo texto foi raspado, para dar lugar a outro.\n\nÉ correto afirmar que o excerto descreve a categoria",
       subItens: []
     },
     options: ["paisagem.","espaço geográfico.","região.","lugar.","território."],
@@ -378,7 +378,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "A temperatura média global da Terra é hoje de +15° C, mas a temperatura efetiva de radiação é hoje de -18° C. A temperatura baixa de Marte é explicada pela ausência quase total de vapor de água e CO₂ em sua tênue atmosfera. A temperatura altíssima da superfície de Vênus deve-se, principalmente, à quantidade elevada de CO_{2} que não deixa escapar a maior parte do calor para o espaço.\n\n(Fillipe T. P. Torres e Pedro J. de O. Machado. Introdução à climatologia, 2011. Adaptado.)\n\nO fenômeno que explica as temperaturas encontradas na Terra, em Marte e em Vênus é",
+      principal: "A temperatura média global da Terra é hoje de +15° C, mas a temperatura efetiva de radiação é hoje de -18° C. A temperatura baixa de Marte é explicada pela ausência quase total de vapor de água e CO₂ em sua tênue atmosfera. A temperatura altíssima da superfície de Vênus deve-se, principalmente, à quantidade elevada de $CO_{2}$ que não deixa escapar a maior parte do calor para o espaço.\n\n(Fillipe T. P. Torres e Pedro J. de O. Machado. Introdução à climatologia, 2011. Adaptado.)\n\nO fenômeno que explica as temperaturas encontradas na Terra, em Marte e em Vênus é",
       subItens: []
     },
     options: ["o efeito estufa.","a ilha de calor.","o buraco na camada de ozônio.","a inversão térmica.","a evapotranspiração."],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "O alcoolismo crônico é apenas uma das muitas doenças causadas pela ingestão excessiva de álcool. Um dos problemas associados ao consumo de bebidas alcoólicas é a inibição da absorção de tiamina (vitamina B_{1}) que, dentre outras funções, também é essencial ao funcionamento de diversas enzimas envolvidas no processo de respiração celular. Assim, num quadro de deficiência de tiamina, causado por alcoolismo crônico, espera-se que o indivíduo apresente os seguintes sintomas:",
+      principal: "O alcoolismo crônico é apenas uma das muitas doenças causadas pela ingestão excessiva de álcool. Um dos problemas associados ao consumo de bebidas alcoólicas é a inibição da absorção de tiamina (vitamina $B_{1}$) que, dentre outras funções, também é essencial ao funcionamento de diversas enzimas envolvidas no processo de respiração celular. Assim, num quadro de deficiência de tiamina, causado por alcoolismo crônico, espera-se que o indivíduo apresente os seguintes sintomas:",
       subItens: []
     },
     options: ["insônia, cansaço e fraqueza muscular.","cegueira noturna, anemia e baixa produção de hemácias.","hemorragia nas gengivas, descalcificação dentária e anemia.","osteoporose, cansaço e cegueira noturna.","risco aumentado de doenças cardíacas, hipertensão e câncer na próstata."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "Os esquemas mostram alterações em células de dois importantes tecidos humanos, em dois indivíduos diferentes, 1 e 2.\n\n[Image showing normal and abnormal cells for Individual 1 (axônio) and Individual 2 (mielina danificada)]\n\n(www.institutoavancadodeimagem.com.br) / (https://imunologia_{96}.wordpress.com)\n\nAs alterações observadas nas células anormais permitem concluir que",
+      principal: "Os esquemas mostram alterações em células de dois importantes tecidos humanos, em dois indivíduos diferentes, 1 e 2.\n\n[Image showing normal and abnormal cells for Individual 1 (axônio) and Individual 2 (mielina danificada)]\n\n(www.institutoavancadodeimagem.com.br) / (https://$imunologia_{96}$.wordpress.com)\n\nAs alterações observadas nas células anormais permitem concluir que",
       subItens: []
     },
     options: ["o indivíduo 1 apresentará problemas na coordenação motora, enquanto o indivíduo 2 terá diminuição dos seus reflexos.","o indivíduo 1 apresentará menor absorção de nutrientes, enquanto o indivíduo 2 apresentará baixa taxa de oxigenação em seus tecidos.","o indivíduo 1 apresentará baixa taxa de oxigenação em seus tecidos, enquanto o indivíduo 2 apresentará problemas na coordenação motora.","o indivíduo 1 apresentará altas taxas de trocas gasosas, enquanto o indivíduo 2 terá diminuição dos seus reflexos.","o indivíduo 1 apresentará maior acúmulo de gás carbônico, enquanto o indivíduo 2 apresentará baixa taxa de oxigenação em seus tecidos."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "Em um hospital, a razão entre o número de médicos e o número de enfermeiros é $\\\\frac{2}{5}$. Sabendo que no total, entre médicos e enfermeiros, há 105 profissionais, a diferença entre o número de enfermeiros e o número de médicos, nesta ordem, é",
+      principal: "Em um hospital, a razão entre o número de médicos e o número de enfermeiros é 2/5. Sabendo que no total, entre médicos e enfermeiros, há 105 profissionais, a diferença entre o número de enfermeiros e o número de médicos, nesta ordem, é",
       subItens: []
     },
     options: ["50.","45.","40.","35.","30."],
@@ -618,7 +618,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "Determinado tipo de alga, que inicialmente ocupava 1,5 m² de área da superfície de um lago, vem crescendo mês a mês, obedecendo à seguinte função A(x) = 3 · 2x−1, sendo A(x) a área da superfície do lago ocupada pela alga, em m², e x o número de meses. Sabendo que, no 9º mês, a alga passou a ocupar a área total do lago, é correto concluir que o número de meses necessários para que essa alga ocupasse $\\\\frac{1}{8}$ da área total desse lago foi",
+      principal: "Determinado tipo de alga, que inicialmente ocupava 1,5 m² de área da superfície de um lago, vem crescendo mês a mês, obedecendo à seguinte função A(x) = 3 · 2x−1, sendo A(x) a área da superfície do lago ocupada pela alga, em m², e x o número de meses. Sabendo que, no 9º mês, a alga passou a ocupar a área total do lago, é correto concluir que o número de meses necessários para que essa alga ocupasse 1/8 da área total desse lago foi",
       subItens: []
     },
     options: ["7.","6.","5.","4.","3."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "Em uma região triangular ABC, o lado BC é igual a 10 m e os ângulos BĈA e BẬC medem 65° e 45°, respectivamente, conforme mostra a figura.\n\n[Image of triangle ABC with angles 45° and 65°, and side BC=10m]\n\nUtilizando sen 65° = 0,90 e √19 = 4,35, a medida do lado AC, em metros, é",
+      principal: "Em uma região triangular ABC, o lado BC é igual a 10 m e os ângulos BĈA e BẬC medem 65° e 45°, respectivamente, conforme mostra a figura.\n\n[Image of triangle ABC with angles 45° and 65°, and side BC=10m]\n\nUtilizando $\\sin$ 65° = 0,90 e √19 = 4,35, a medida do lado AC, em metros, é",
       subItens: []
     },
     options: ["13,35.","12,25.","11,05.","10,45.","9,35."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "Para fazer o reboco de uma parede, um pedreiro utilizou certa quantidade de cimento que, para o preparo, foi despejado do saco para o solo, conforme o gráfico.\n\nvazão ($\\\\frac{kg}{s}$)\n\n[Graph showing flow rate ($\\\\frac{kg}{s}$) on y-axis and time (s) on x-axis, with a triangular shaded area under the curve]\n\ntempo (s)\n\nA grandeza física representada pela área sombreada do gráfico tem unidade de medida equivalente à de",
+      principal: "Para fazer o reboco de uma parede, um pedreiro utilizou certa quantidade de cimento que, para o preparo, foi despejado do saco para o solo, conforme o gráfico.\n\nvazão (kg/s)\n\n[Graph showing flow rate (kg/s) on y-axis and time (s) on x-axis, with a triangular shaded area under the curve]\n\ntempo (s)\n\nA grandeza física representada pela área sombreada do gráfico tem unidade de medida equivalente à de",
       subItens: []
     },
     options: ["aceleração.","massa.","vazão.","velocidade.","volume."],
@@ -693,7 +693,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "Sobre a superfície da Terra, onde g = 10 $\\\\frac{m}{s}$², um astronauta apresenta peso igual a 700 N. Em uma expedição à Lua, onde g = 1,6 $\\\\frac{m}{s}$², a massa desse astronauta será igual a",
+      principal: "Sobre a superfície da Terra, onde g = 10 m/s², um astronauta apresenta peso igual a 700 N. Em uma expedição à Lua, onde g = 1,6 m/s², a massa desse astronauta será igual a",
       subItens: []
     },
     options: ["70 kg e ele pesará 112 Ν.","70 kg e ele pesará 700 Ν.","112 kg e ele pesará 112 Ν.","112 kg e ele pesará 700 Ν.","700 kg e ele pesará 112 Ν."],
@@ -708,7 +708,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "Uma esfera, lançada em movimento oblíquo e com velocidade de 20 $\\\\frac{m}{s}$, descreve a trajetória apresentada na figura.\n\n[Image of projectile motion, with points P, Q, R on the trajectory]\n\nDesprezando as forças de resistência, é correto afirmar que a intensidade da força resultante que atua sobre a esfera nas posições P, Q e R, respectivamente, é",
+      principal: "Uma esfera, lançada em movimento oblíquo e com velocidade de 20 m/s, descreve a trajetória apresentada na figura.\n\n[Image of projectile motion, with points P, Q, R on the trajectory]\n\nDesprezando as forças de resistência, é correto afirmar que a intensidade da força resultante que atua sobre a esfera nas posições P, Q e R, respectivamente, é",
       subItens: []
     },
     options: ["Fp > FQ > FR:","Fp < FQ < FR:","Fp > FQ = FR:","FP = FQ > FR:","FP = FQ = FR:"],
@@ -738,7 +738,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "A uma mola, presa no teto de uma varanda, foi suspensa uma gaiola com um passarinho, o que provocou, no ponto de equilíbrio, uma deformação D da mola igual a 10 cm.\n\n[Image showing a spring with a cage and a bird attached, and the deformation D]\n\nConsiderando a constante elástica da mola k = 200 $\\\\frac{N}{m}$, a massa da gaiola mg = 1,8 kg e a aceleração da gravidade local g = 10 $\\\\frac{m}{s}$², a massa do passarinho (mp) tem valor, em kg, igual a",
+      principal: "A uma mola, presa no teto de uma varanda, foi suspensa uma gaiola com um passarinho, o que provocou, no ponto de equilíbrio, uma deformação D da mola igual a 10 cm.\n\n[Image showing a spring with a cage and a bird attached, and the deformation D]\n\nConsiderando a constante elástica da mola k = 200 N/m, a massa da gaiola mg = 1,8 kg e a aceleração da gravidade local g = 10 m/s², a massa do passarinho (mp) tem valor, em kg, igual a",
       subItens: []
     },
     options: ["0,2.","0,6.","0,8.","1,2.","1,5."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "O movimento dos planetas é descrito por meio de três leis. A primeira define que os planetas descrevem órbitas elípticas em torno do Sol, que ocupa um dos focos da elipse.\n\n[Image showing an elliptical orbit of a planet around the Sun, with Foco 1 and Foco 2 labeled]\n\nA segunda afirma que o segmento de reta que une os centros do Sol e de um planeta descreve áreas iguais em tempos de percurso iguais.\n\n[Image showing areas A_{1} and A_{2} swept in equal times Δt]\n\nA terceira determina que a velocidade de translação de um planeta ao redor do Sol é maior quando o planeta está mais próximo do Sol e menor, quando está mais afastado. Tais leis são conhecidas como",
+      principal: "O movimento dos planetas é descrito por meio de três leis. A primeira define que os planetas descrevem órbitas elípticas em torno do Sol, que ocupa um dos focos da elipse.\n\n[Image showing an elliptical orbit of a planet around the Sun, with Foco 1 and Foco 2 labeled]\n\nA segunda afirma que o segmento de reta que une os centros do Sol e de um planeta descreve áreas iguais em tempos de percurso iguais.\n\n[Image showing areas $A_{1}$ and $A_{2}$ swept in equal times Δt]\n\nA terceira determina que a velocidade de translação de um planeta ao redor do Sol é maior quando o planeta está mais próximo do Sol e menor, quando está mais afastado. Tais leis são conhecidas como",
       subItens: []
     },
     options: ["Leis de Torricelli.","Leis de Newton.","Leis de Kepler.","Leis de Celsius.","Leis de Pascal."],
@@ -768,7 +768,7 @@ createQuestion({
     university: "Prova de Acompanhamento I",
     year: 2016,
     text: {
-      principal: "Uma massa de 0,5 kg de mercúrio, à temperatura ambiente, precisa ser completamente armazenada em um recipiente, sem que transborde. Sabendo que a densidade do mercúrio é 13,6 $\\\\frac{g}{cm}$³, será necessário utilizar um recipiente cujo volume interior mínimo seja próximo de",
+      principal: "Uma massa de 0,5 kg de mercúrio, à temperatura ambiente, precisa ser completamente armazenada em um recipiente, sem que transborde. Sabendo que a densidade do mercúrio é 13,6 g/cm³, será necessário utilizar um recipiente cujo volume interior mínimo seja próximo de",
       subItens: []
     },
     options: ["21 cm³.","26 cm³.","30 cm³.","33 cm³.","37 cm³."],

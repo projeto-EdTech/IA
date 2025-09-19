@@ -363,7 +363,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "O esboço a seguir é a representação de uma figura plana na qual os segmentos AD, EF e BC são paralelos, o quadrilátero BCDH é um quadrado com área de 36cm², o segmento CF mede 2cm, o ângulo CDH é reto e o ângulo BAD mede 30°. Com base nessas informações, assinale o que for correto. Use sen 30° = 0,5.\n\n[Imagem de figura geométrica com pontos A, B, C, D, E, F, G, H]",
+      principal: "O esboço a seguir é a representação de uma figura plana na qual os segmentos AD, EF e BC são paralelos, o quadrilátero BCDH é um quadrado com área de 36cm², o segmento CF mede 2cm, o ângulo CDH é reto e o ângulo BAD mede 30°. Com base nessas informações, assinale o que for correto. Use $\\sin$ 30° = 0,5.\n\n[Imagem de figura geométrica com pontos A, B, C, D, E, F, G, H]",
       subItens: []
     },
     options: ["A medida do segmento BE é 4cm.","A área do trapézio ABCD é 36+18√3cm².","A área do triângulo DFG é 8cm².","A medida do ângulo FGB é 150°.","Os triângulos EBG e DFG são semelhantes."],
@@ -843,7 +843,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Considere uma corda tensionada horizontalmente, com a extremidade final fixa em uma parede. O comprimento da corda é de 12m, a densidade linear dos 8m iniciais é 0,$\\\\frac{06kg}{m}$ e a do restante da corda é 0,$\\\\frac{08kg}{m}$. Com um movimento vertical na extremidade livre, forma-se uma onda na corda. Com base nessas informações, assinale o que for correto.",
+      principal: "Considere uma corda tensionada horizontalmente, com a extremidade final fixa em uma parede. O comprimento da corda é de 12m, a densidade linear dos 8m iniciais é 0,06kg/m e a do restante da corda é 0,08kg/m. Com um movimento vertical na extremidade livre, forma-se uma onda na corda. Com base nessas informações, assinale o que for correto.",
       subItens: []
     },
     options: ["01) Essa onda é longitudinal.","02) A massa da parte menos densa da corda corresponde a 70% da massa total da corda.","04) Se, por mudança do movimento na extremidade livre, o período da onda aumentar em 25%, então a frequência diminuirá em 20%.","08) A frequência da onda não se altera quando ela atravessa da parte menos densa para a parte mais densa da corda.","16) Considerando somente a parte menos densa da corda, se a velocidade da onda não se altera e a frequência dobra, então o comprimento da onda também dobra."],
@@ -858,7 +858,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Um corpo extenso é colocado sobre um plano horizontal a uma distância D do orifício de uma câmara escura de comprimento d.\nO orifício dessa câmara escura está a uma altura O = $\\\\frac{H}{2}$ em relação ao plano horizontal, em que H é a altura do corpo extenso. Com base nessas informações, assinale o que for correto.",
+      principal: "Um corpo extenso é colocado sobre um plano horizontal a uma distância D do orifício de uma câmara escura de comprimento d.\nO orifício dessa câmara escura está a uma altura O = H/2 em relação ao plano horizontal, em que H é a altura do corpo extenso. Com base nessas informações, assinale o que for correto.",
       subItens: []
     },
     options: ["01) Se D for muito menor que d, a imagem do corpo extenso, formada no fundo da câmara escura, será maior que o objeto e direita.","02) O Princípio da Propagação Retilínea da Luz explica a formação da imagem no fundo da câmara escura.","04) Se a distância do objeto em relação à câmara escura for reduzida à metade, a altura da imagem formada no fundo dessa câmara escura será duplicada.","08) Se o ângulo entre os raios de luz que incidem no orifício da câmara escura for de 60°, então H = 2D/√3.","16) Se o ângulo entre os raios de luz que emergem do orifício no interior da câmara escura for de π/3 rad, a tangente desse ângulo vale i/(2d), em que i é a altura da imagem."],
@@ -873,7 +873,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Para se fazer uma bola de tênis, a matéria-prima inicial é a borracha, que, prensada em moldes, ganha formato de conchas, às quais se adiciona o NH4NO2 (nitrito de amônio). Duas conchas são unidas com uma cola especial e, após essa operação, a bola passa por um processo de vulcanização a 200°C para melhorar a colagem e ganhar pressão interna graças à seguinte reação química que ocorre em seu interior:\nNH4NO2(s) → N_{2}(g) + 2 H_{2}O(v).\nDepois dessa etapa, a bola recebe uma cobertura de feltro e é embalada a vácuo para não perder pressão interna. Com base nessas informações e em conhecimentos de física e de química, assinale o que for correto.",
+      principal: "Para se fazer uma bola de tênis, a matéria-prima inicial é a borracha, que, prensada em moldes, ganha formato de conchas, às quais se adiciona o NH4NO2 (nitrito de amônio). Duas conchas são unidas com uma cola especial e, após essa operação, a bola passa por um processo de vulcanização a 200°C para melhorar a colagem e ganhar pressão interna graças à seguinte reação química que ocorre em seu interior:\nNH4NO2(s) → $N_{2}$(g) + 2 H2O(v).\nDepois dessa etapa, a bola recebe uma cobertura de feltro e é embalada a vácuo para não perder pressão interna. Com base nessas informações e em conhecimentos de física e de química, assinale o que for correto.",
       subItens: []
     },
     options: ["01) Obtém-se água em estado de vapor porque a temperatura da reação está acima de 100°C.","02) A bola de tênis é embalada a vácuo para garantir que só haja variação de pressão em seu interior como resposta à variação de temperatura.","04) O gás responsável pela pressão interna da bola de tênis é o N2.","08) A decomposição do NH4NO2 é um processo exotérmico.","16) Ο NH4NO2 pode ser obtido pela neutralização total do HNO2 por NH4OH."],
@@ -918,7 +918,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "O ZnSO_{4} (161,$\\\\frac{45g}{mol}$) é um sal misturado ao adubo para recuperar deficiências nutricionais do solo. Sabe-se que a maior parte dos reagentes químicos empregados em escala industrial contém impurezas e que, no caso do ZnSO_{4}, é possível encontrar traços de Pb_{2}+ e Cd_{2}+, metais altamente tóxicos e que podem poluir o solo e os rios. Considerando que um lote de 1 tonelada de ZnSO_{4} tenha sido analisado quimicamente e que ele tenha apresentado impurezas de 0,002% de Pb_{2}+ e de 0,01% de Cd_{2}+, assinale o que for correto.",
+      principal: "O $ZnSO_{4}$ (161,45g/mol) é um sal misturado ao adubo para recuperar deficiências nutricionais do solo. Sabe-se que a maior parte dos reagentes químicos empregados em escala industrial contém impurezas e que, no caso do $ZnSO_{4}$, é possível encontrar traços de $Pb_{2}$+ e $Cd_{2}$+, metais altamente tóxicos e que podem poluir o solo e os rios. Considerando que um lote de 1 tonelada de $ZnSO_{4}$ tenha sido analisado quimicamente e que ele tenha apresentado impurezas de 0,002% de $Pb_{2}$+ e de 0,01% de $Cd_{2}$+, assinale o que for correto.",
       subItens: []
     },
     options: ["01) O lote possui 200g de Pb2+.","02) Ao se dissolver o ZnSO4 em água, obtém-se uma solução não eletrolítica.","04) 8,07g de ZnSO4 dissolvidos em 500mL de água produzem uma solução com aproximadamente 0,10mol/L de concentração molar de SO42-.","08) Em uma fração aleatória do lote descrito há maior probabilidade de encontrarmos impurezas representadas pelo Pb2+ do que pelo Cd2+.","16) Obtém-se uma solução de 0,750g/L de ZnSO4 ao se dissolverem 0,15g do sal em 200mL de água."],
@@ -1338,7 +1338,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Considere que as regiões do plano definidas por\nR₁ = {(x, y) ∈ R²/ x² + (y - 3)² = 8}\nR₂ = {(x, y) ∈ R²/ x² + y² – 4x = 0}\nR_{3} = {(x, y) ∈ R²/ x² + y² = 9}\nrepresentem biótopos diferentes de algumas populações de organismos vivos. Assinale o que for correto.",
+      principal: "Considere que as regiões do plano definidas por\nR₁ = {(x, y) ∈ R²/ x² + (y - 3)² = 8}\nR₂ = {(x, y) ∈ R²/ x² + y² – 4x = 0}\n$R_{3}$ = {(x, y) ∈ R²/ x² + y² = 9}\nrepresentem biótopos diferentes de algumas populações de organismos vivos. Assinale o que for correto.",
       subItens: []
     },
     options: ["O rio Paraná é um exemplo de biótopo.","A reunião de todos os biótopos forma um ecossistema.","O biótopo representado pela região R₂ é um círculo de raio 2.","As populações que habitam os biótopos representados por R₂ e R3 partilham regiões em comum.","As regiões que representam os três biótopos são círculos centrados na origem do sistema cartesiano."],
@@ -1383,7 +1383,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Sejam S e S' dois referenciais inerciais que se movem, um em relação ao outro, com uma velocidade de $\\\\frac{2}{3}$ da velocidade da luz. No referencial S' existe um paralelogramo de base quadrada e lados √5m×√5m, com altura de 3m e massa de repouso de √5kg, que está em repouso. No referencial S existe um cubo de lado √5m e massa de repouso de 3kg, que também está em repouso. Considerando que o vetor velocidade relativa entre os referenciais S e S'é simultaneamente perpendicular à base do paralelogramo ea uma das faces do cubo, assinale o que for correto.",
+      principal: "Sejam S e S' dois referenciais inerciais que se movem, um em relação ao outro, com uma velocidade de 2/3 da velocidade da luz. No referencial S' existe um paralelogramo de base quadrada e lados √5m×√5m, com altura de 3m e massa de repouso de √5kg, que está em repouso. No referencial S existe um cubo de lado √5m e massa de repouso de 3kg, que também está em repouso. Considerando que o vetor velocidade relativa entre os referenciais S e S'é simultaneamente perpendicular à base do paralelogramo ea uma das faces do cubo, assinale o que for correto.",
       subItens: []
     },
     options: ["Vistos de S, os volumes do paralelogramo e do cubo são iguais.","Vistos de S', os volumes do cubo e do paralelogramo são iguais.","Se a velocidade relativa entre os referenciais passar a ser paralela a uma das arestas da base do paralelogramo, o volume do paralelogramo não muda quando visto de S.","Visto de S, a massa relativística do paralelogramo é maior que a massa de repouso do cubo.","Visto de S, a densidade do paralelogramo é a mesma do cubo quando este é visto a partir de S'."],
@@ -1443,7 +1443,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Dados os equilíbrios iônicos a seguir, assinale o que for correto.\n(I) HCN(g) + H_{2}O(1) ⇌ H_{3}O+(aq) + CN-(aq) Ka = $1 \\\\times 10^{-10}$\n(II) NH_{3}(g) + H_{2}O(1) ⇌ NH_{4}+(aq) + OH-(aq) Kb = $1 \\\\times 10^{-5}$\n(III) AgCl(s) + H_{2}O(1) ⇌ Ag+(aq) + Cl-(aq) Kps = $1 \\\\times 10^{-10}$\n(IV) 2 H_{2}O(l) ⇌ H_{3}O+(aq) + OH-(aq) Kw = $1 \\\\times 10^{-10}$",
+      principal: "Dados os equilíbrios iônicos a seguir, assinale o que for correto.\n(I) HCN(g) + H2O(1) ⇌ H3O+(aq) + CN-(aq) Ka = 6,2x10-10\n(II) $NH_{3}$(g) + H2O(1) ⇌ $NH_{4}$+(aq) + OH-(aq) Kb = 1,8x10-5\n(III) AgCl(s) + H2O(1) ⇌ Ag+(aq) + Cl-(aq) Kps = 1,8x10-10\n(IV) 2 H2O(l) ⇌ H3O+(aq) + OH-(aq) Kw = 1,8x10-10",
       subItens: []
     },
     options: ["A constante inversa da reação (II) é Kᵢ = 5,55x10⁻¹⁰.","Em solução 0,10mol/L do reagente da reação (I), a concentração de H3O+ proveniente da ionização pode ser calculada pelo polinômio [H3O+]²– Ka 0,10 + Ka [H3O+] = 0.","A adição de ácidos ou de bases à reação (IV) pode suprimir a autoionização da água.","Para a reação (I) o pH é maior que 7 e, para a reação (II), o pH é menor que 7.","Na reação (III) o equilíbrio químico se estabelece quando a velocidade de dissolução se torna maior que a velocidade de precipitação."],
@@ -1458,7 +1458,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Sejam x₁ ≤ x_{2} ≤ x_{3} ≤ x_{4} as raízes reais da equação polinomial p(x) = x⁴ + 4x³ + x² - 6x = 0. Assumindo que essas raízes sejam os números de oxidação de alguns elementos ou substâncias químicas, assinale o que for correto.",
+      principal: "Sejam x₁ ≤ $x_{2}$ ≤ $x_{3}$ ≤ $x_{4}$ as raízes reais da equação polinomial p(x) = x⁴ + 4x³ + x² - 6x = 0. Assumindo que essas raízes sejam os números de oxidação de alguns elementos ou substâncias químicas, assinale o que for correto.",
       subItens: []
     },
     options: ["x2 é o número de oxidação do oxigênio no composto H2O2.","As raízes de p(x) são os números de oxidação de todos os elementos das famílias 1, 2 e de 13 a 17 da classificação periódica dos elementos.","Nenhuma das raízes de p(x) é o número de oxidação de uma substância simples.","p(x) = (x-x₁)(x-X2)(x-x3)(x-x₄).","No íon NH4+ tem-se que Nox do N = x1."],
@@ -1473,7 +1473,7 @@ createQuestion({
     university: "Vestibular",
     year: 2018,
     text: {
-      principal: "Dados os números complexos z₁ = a+bi e z_{2} = x+yi com a, b, x e y ∈ R. Assinale o que for correto.",
+      principal: "Dados os números complexos z₁ = a+bi e $z_{2}$ = x+yi com a, b, x e y ∈ R. Assinale o que for correto.",
       subItens: []
     },
     options: ["Se ay = -bx, então o número z₁z2 é um número real.","Se a = 0, então (z₁)⁶⁸ = b⁶⁸.","Se x = a² + b², então z₁ é uma raiz quadrada de z2.","No plano complexo, o lugar geométrico das imagens de z₁ que satisfazem z₁·z₁ = 9 é uma circunferência de equação a² + b² = 9.","Se a = 0, então o argumento do número complexo z₁ é 0° ou 0rad."],

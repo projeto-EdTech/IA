@@ -33,7 +33,7 @@ createQuestion({
     university: "ITA",
     year: 2023,
     text: {
-      principal: "Considere um recipiente, sobre uma plataforma, sujeito à pressão atmosférica Patm. Esse recipiente contém um volume inicial Vi de um gás monoatômico ideal em equilíbrio e tem um êmbolo de seção transversal de área A e de massa m. Para monitorar a aceleração do sistema, a plataforma foi suspensa por um dinamômetro, como ilustrado na figura. Por causa de uma ação de uma força externa vertical, o êmbolo atinge uma nova posição de equilíbrio. Nessa posição a leitura do dinamômetro indica que a aceleração do sistema é de $\\\\frac{1}{10}$ de g para cima. Determine o módulo do deslocamento Δx do êmbolo, com relação ao fundo do recipiente, considerando que a transformação do gás é isentrópica. (Imagem: Um dinamômetro suspende uma plataforma, sobre a qual está um recipiente cilíndrico com um gás e um êmbolo de massa m e área A, sob pressão atmosférica Patm.)",
+      principal: "Considere um recipiente, sobre uma plataforma, sujeito à pressão atmosférica Patm. Esse recipiente contém um volume inicial Vi de um gás monoatômico ideal em equilíbrio e tem um êmbolo de seção transversal de área A e de massa m. Para monitorar a aceleração do sistema, a plataforma foi suspensa por um dinamômetro, como ilustrado na figura. Por causa de uma ação de uma força externa vertical, o êmbolo atinge uma nova posição de equilíbrio. Nessa posição a leitura do dinamômetro indica que a aceleração do sistema é de 1/10 de g para cima. Determine o módulo do deslocamento Δx do êmbolo, com relação ao fundo do recipiente, considerando que a transformação do gás é isentrópica. (Imagem: Um dinamômetro suspende uma plataforma, sobre a qual está um recipiente cilíndrico com um gás e um êmbolo de massa m e área A, sob pressão atmosférica Patm.)",
       subItens: []
     },
     options: ["Δx = (3Vi / 2A) * (11mg / (50Patm*A + 55mg)).","Δx = (Vi / A) * ((Patm*A + mg) / (Patm*A + 1,1mg)).","Δx = (3Vi / A) * (11mg / (50Patm*A + 55mg)).","Δx = (Vi / A) * (0,1mg / (Patm*A + 1,1mg)).","Δx = (Vi / A) * (1 - (Patm*A + mg) / (Patm*A + 1,1mg))."],
@@ -78,7 +78,7 @@ createQuestion({
     university: "ITA",
     year: 2023,
     text: {
-      principal: "Considere uma máquina térmica que opera com um ciclo termodinâmico composto de quatro etapas: (i) expansão isotérmica, à temperatura Tq, saindo do volume inicial Vo até o volume final Vf; (ii) resfriamento isocórico de Tq até Tf; (iii) compressão isotérmica, à temperatura Tf, de Vf até Vo; e (iv) aquecimento isocórico de Tf até Tq. A máquina é inicialmente preparada para operar com o ar atmosférico como fluido de trabalho. Sobre esse sistema, são feitas as seguintes afirmações: I. Aumentando-se a razão de expansão, r = $\\\\frac{Vf}{Vi}$, é possível aumentar o rendimento da máquina mantendo os demais parâmetros fixos. II. Se o fluido de trabalho fosse substituído por um gás nobre, então o rendimento dessa máquina seria aumentado. III. Considerando os parâmetros r = 10, Tf = 300 K e Tq = 900 K, o valor do rendimento da máquina é superior a 50%. Sobre as afirmações I, II e III pode-se afirmar que",
+      principal: "Considere uma máquina térmica que opera com um ciclo termodinâmico composto de quatro etapas: (i) expansão isotérmica, à temperatura Tq, saindo do volume inicial Vo até o volume final Vf; (ii) resfriamento isocórico de Tq até Tf; (iii) compressão isotérmica, à temperatura Tf, de Vf até Vo; e (iv) aquecimento isocórico de Tf até Tq. A máquina é inicialmente preparada para operar com o ar atmosférico como fluido de trabalho. Sobre esse sistema, são feitas as seguintes afirmações: I. Aumentando-se a razão de expansão, r = Vf/Vi, é possível aumentar o rendimento da máquina mantendo os demais parâmetros fixos. II. Se o fluido de trabalho fosse substituído por um gás nobre, então o rendimento dessa máquina seria aumentado. III. Considerando os parâmetros r = 10, Tf = 300 K e Tq = 900 K, o valor do rendimento da máquina é superior a 50%. Sobre as afirmações I, II e III pode-se afirmar que",
       subItens: []
     },
     options: ["todas estão corretas.","apenas I está incorreta.","apenas II está incorreta.","apenas III está incorreta.","apenas I e III estão incorretas."],
@@ -108,7 +108,7 @@ createQuestion({
     university: "ITA",
     year: 2023,
     text: {
-      principal: "Considere um filtro polarizador linear no plano S, cuja polarização é paralela ao eixo x. Uma onda eletromagnética com polarização linear no eixo z propaga-se na direção do eixo y. Um pêndulo é colocado na frente do filtro. A ponta do pêndulo contém uma pequena placa circular feita de um filtro de polarização linear. Quando o pêndulo está em repouso, a polarização é paralela ao eixo x. O pêndulo oscila no plano S’, de -90° a 90°, conforme mostra a figura. Uma chapa fotográfica capaz de absorver a onda eletromagnética é colocada atrás dos filtros de polarização. Despreze efeitos de difração e interferência. Considere que os planos S e S’ são paralelos ao plano xz. Assinale a alternativa que melhor representa o que vai ser visto na chapa fotográfica. (Imagem: Esquema de um experimento com luz, polarizadores e um pêndulo. Uma luz incide em um polarizador linear (plano S), depois em um pêndulo com um polarizador (plano S'), e o padrão resultante é capturado por uma chapa fotográfica. O pêndulo oscila no plano S'. As alternativas são representações visuais dos padrões de luz na chapa: A) círculo todo escuro, B) círculo com partes superior e inferior claras e laterais escuras, C) círculo com partes laterais claras e $\\\\frac{superior}{inferior}$ escuras, D) círculo todo claro, E) uma barra vertical escura no centro.)",
+      principal: "Considere um filtro polarizador linear no plano S, cuja polarização é paralela ao eixo x. Uma onda eletromagnética com polarização linear no eixo z propaga-se na direção do eixo y. Um pêndulo é colocado na frente do filtro. A ponta do pêndulo contém uma pequena placa circular feita de um filtro de polarização linear. Quando o pêndulo está em repouso, a polarização é paralela ao eixo x. O pêndulo oscila no plano S’, de -90° a 90°, conforme mostra a figura. Uma chapa fotográfica capaz de absorver a onda eletromagnética é colocada atrás dos filtros de polarização. Despreze efeitos de difração e interferência. Considere que os planos S e S’ são paralelos ao plano xz. Assinale a alternativa que melhor representa o que vai ser visto na chapa fotográfica. (Imagem: Esquema de um experimento com luz, polarizadores e um pêndulo. Uma luz incide em um polarizador linear (plano S), depois em um pêndulo com um polarizador (plano S'), e o padrão resultante é capturado por uma chapa fotográfica. O pêndulo oscila no plano S'. As alternativas são representações visuais dos padrões de luz na chapa: A) círculo todo escuro, B) círculo com partes superior e inferior claras e laterais escuras, C) círculo com partes laterais claras e superior/inferior escuras, D) círculo todo claro, E) uma barra vertical escura no centro.)",
       subItens: []
     },
     options: ["(Desenho de um círculo todo escuro)","(Desenho de um círculo com partes superior e inferior claras e laterais escuras)","(Desenho de um círculo com partes laterais claras e superior/inferior escuras)","(Desenho de um círculo todo claro)","(Desenho de uma barra vertical escura no centro do círculo)"],
@@ -588,7 +588,7 @@ createQuestion({
     university: "ITA",
     year: 2023,
     text: {
-      principal: "A média harmônica de n números reais positivos a₁, a₂, ..., an é H = n / ($\\\\frac{1}{a}$₁ + $\\\\frac{1}{a}$₂ + ... + $\\\\frac{1}{an}$). Sabendo que o polinômio p(x) = 30x³−113x²+108x-30 possui três raízes reais positivas, a média harmônica das raízes de p(x) é",
+      principal: "A média harmônica de n números reais positivos a₁, a₂, ..., an é H = n / (1/a₁ + 1/a₂ + ... + 1/an). Sabendo que o polinômio p(x) = 30x³−113x²+108x-30 possui três raízes reais positivas, a média harmônica das raízes de p(x) é",
       subItens: []
     },
     options: ["2/3.","5/18.","5/6.","1.","3."],
@@ -693,7 +693,7 @@ createQuestion({
     university: "ITA",
     year: 2023,
     text: {
-      principal: "Considere a função real f(x) = cos(x) * [cos(π/3) + 2sen(x)] - sen(x) * sen(π/3) - 2, definida no intervalo I = ]-4π, 4π[. Sobre a equação f(x) = 0, podemos afirmar que",
+      principal: "Considere a função real f(x) = cos(x) * [cos(π/3) + 2sen(x)] - $\\sin$(x) * $\\sin$(π/3) - 2, definida no intervalo I = ]-4π, 4π[. Sobre a equação f(x) = 0, podemos afirmar que",
       subItens: []
     },
     options: ["não admite soluções em I.","admite uma única solução em I.","admite exatamente duas soluções em I.","admite exatamente três soluções em I.","admite exatamente quatro soluções em I."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "ITA",
     year: 2023,
     text: {
-      principal: "Sabe-se que a constante de velocidade (k) de uma reação é função da temperatura (T) conforme a Lei de Arrhenius: k = A * e^(-$\\\\frac{Ea}{RT}$) em que A é o fator de frequência e Ea é a energia de ativação. Em um estudo cinético, observou-se que a velocidade de uma determinada reação aumenta 1000 vezes quando a temperatura do meio reacional aumenta de 400 K para 500 K, permanecendo constantes todos os demais parâmetros iniciais. Assinale a opção que apresenta a energia de ativação desta reação, em kcal mol⁻¹, considerando que A e Ea não dependem da temperatura.",
+      principal: "Sabe-se que a constante de velocidade (k) de uma reação é função da temperatura (T) conforme a Lei de Arrhenius: k = A * e^(-Ea/RT) em que A é o fator de frequência e Ea é a energia de ativação. Em um estudo cinético, observou-se que a velocidade de uma determinada reação aumenta 1000 vezes quando a temperatura do meio reacional aumenta de 400 K para 500 K, permanecendo constantes todos os demais parâmetros iniciais. Assinale a opção que apresenta a energia de ativação desta reação, em kcal mol⁻¹, considerando que A e Ea não dependem da temperatura.",
       subItens: []
     },
     options: ["7,3.","17,3.","27,3.","37,3.","47,3."],

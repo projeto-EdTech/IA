@@ -18,7 +18,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2025,
     text: {
-      principal: "Para responder às questões de 02 a 05, leia o trecho do \"Sermão do Mandato\", de Antônio Vieira, pregado em Lisboa, no Hospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o amor humano, que é inconstante; sobre o amor humano, que não se governa por razão, senão por apetite; sobre o amor humano, que, ainda quando parece mais fino, é grosseiro e imperfeito. O amor, a quem remediou e pôde curar o tempo, bem poderá ser que fosse doença; mas não é amor. O amor perfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do tempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar Salomão, diz Santo Agostinho, que o amor que é verdadeiro tem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras coisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca foi. Deixastes de amar, pois nunca amastes. O amor que não é de todo o tempo, e de todos os tempos, não é amor, nem foi; porque, se chegou a ter fim, nunca teve princípio. É como a eternidade, que se por impossível tivera fim, não teria sido eternidade.\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nNesse trecho do sermão, o orador Antônio Vieira caracteriza o amor humano como",
+      principal: "Para responder às questões de 02 a 05, leia o trecho do \"Sermão do Mandato\", de Antônio Vieira, pregado em Lisboa, no Hospital Real, no ano de 1643.\n\nEstes são os poderes do tempo sobre o amor. Mas sobre qual amor? Sobre o amor humano, que é fraco; sobre o amor humano, que é inconstante; sobre o amor humano, que não se governa por razão, $\\sin$ão por apetite; sobre o amor humano, que, ainda quando parece mais fino, é grosseiro e imperfeito. O amor, a quem remediou e pôde curar o tempo, bem poderá ser que fosse doença; mas não é amor. O amor perfeito, e que só merece o nome de amor, vive imortal sobre a esfera da mudança, e não chegam lá as jurisdições do tempo. Nem os anos o diminuem, nem os séculos o enfraquecem, nem as eternidades o cansam. Quis-nos declarar Salomão, diz Santo Agostinho, que o amor que é verdadeiro tem obrigação de ser eterno; porque, se em algum tempo deixou de ser, nunca foi amor. Notável dizer! Em todas as outras coisas o deixar de ser é sinal de que já foram; no amor o deixar de ser é sinal de nunca ter sido. Deixou de ser, pois nunca foi. Deixastes de amar, pois nunca amastes. O amor que não é de todo o tempo, e de todos os tempos, não é amor, nem foi; porque, se chegou a ter fim, nunca teve princípio. É como a eternidade, que se por impossível tivera fim, não teria sido eternidade.\n(Antônio Vieira. Essencial, 2011. Adaptado.)\n\nNesse trecho do sermão, o orador Antônio Vieira caracteriza o amor humano como",
       subItens: []
     },
     options: ["enigmático.","sublime.","precário.","grandioso.","benevolente."],
@@ -228,7 +228,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2025,
     text: {
-      principal: "Uma estátua de Mahatma Gandhi foi inaugurada em 2015 em Londres. A estátua de bronze fica diante do Big Ben e do Parlamento, em meio a monumentos em homenagem a personalidades como Nelson Mandela e Abraham Lincoln. O primeiro-ministro britânico David Cameron afirmou que a estátua constitui “uma vibrante homenagem a uma das figuras mais importantes da história mundial”. “Ao colocar Gandhi nesta praça ilustre, oferecemos a ele uma presença eterna em nosso país”, disse.\n(https://g_{1}.globo.com, 14.03.2015. Adaptado.)\n\nO excerto noticia um ato em homenagem a Mahatma Gandhi por sua atuação",
+      principal: "Uma estátua de Mahatma Gandhi foi inaugurada em 2015 em Londres. A estátua de bronze fica diante do Big Ben e do Parlamento, em meio a monumentos em homenagem a personalidades como Nelson Mandela e Abraham Lincoln. O primeiro-ministro britânico David Cameron afirmou que a estátua constitui “uma vibrante homenagem a uma das figuras mais importantes da história mundial”. “Ao colocar Gandhi nesta praça ilustre, oferecemos a ele uma presença eterna em nosso país”, disse.\n(https://$g_{1}$.globo.com, 14.03.2015. Adaptado.)\n\nO excerto noticia um ato em homenagem a Mahatma Gandhi por sua atuação",
       subItens: []
     },
     options: ["na consolidação da monarquia parlamentarista inglesa.","na luta pelo fim da segregação racial sul-africana.","na libertação indiana em relação à colonização inglesa.","na abolição da escravidão em território estadunidense.","em guerras travadas pela independência afro-asiática."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2025,
     text: {
-      principal: "Examine o mapa que apresenta a espacialidade da população residente em área urbana na Amazônia Legal.\n\n[MAPA]\n\n(https://amazonia_{2030}.org.br)\n\nConsiderando o mapa e conhecimentos sobre a urbanização brasileira, a rede urbana amazônica caracteriza-se",
+      principal: "Examine o mapa que apresenta a espacialidade da população residente em área urbana na Amazônia Legal.\n\n[MAPA]\n\n(https://$amazonia_{2030}$.org.br)\n\nConsiderando o mapa e conhecimentos sobre a urbanização brasileira, a rede urbana amazônica caracteriza-se",
       subItens: []
     },
     options: ["pela formação de megalópoles próximas às hidrovias, o que expande a integração econômica entre as cidades.","pelo espaçamento entre as cidades de pequeno porte, o que reflete na expansão do processo de metropolização.","pelas grandes distâncias entre as cidades de grande e de pequeno porte, o que limita os fluxos de bens, pessoas e serviços.","pelo processo de conurbação entre as cidades de pequeno porte, o que dinamiza o acesso a serviços públicos.","pela rapidez do processo de desmetropolização regional, o que revela a opção da população em migrar para outras regiões."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2025,
     text: {
-      principal: "Durante uma viagem, um ônibus percorreu uma distância de 240 km, com velocidade escalar média de 120 $\\\\frac{km}{h}$, da cidade P até um posto de serviços, onde ficou parado por 30 minutos. Após a parada, o ônibus se deslocou até a cidade Q com uma velocidade escalar média de 80 $\\\\frac{km}{h}$. Sabendo que a distância total da viagem, entre as cidades P e Q, era de 440 km, a velocidade escalar média desenvolvida pelo ônibus do momento da saída de P até a chegada em Q foi de",
+      principal: "Durante uma viagem, um ônibus percorreu uma distância de 240 km, com velocidade escalar média de 120 km/h, da cidade P até um posto de serviços, onde ficou parado por 30 minutos. Após a parada, o ônibus se deslocou até a cidade Q com uma velocidade escalar média de 80 km/h. Sabendo que a distância total da viagem, entre as cidades P e Q, era de 440 km, a velocidade escalar média desenvolvida pelo ônibus do momento da saída de P até a chegada em Q foi de",
       subItens: []
     },
     options: ["76 km/h.","82 km/h.","88 km/h.","94 km/h.","102 km/h."],
@@ -753,7 +753,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2025,
     text: {
-      principal: "O painel solar da figura possui uma eficiência de 80% ao converter energia solar em energia elétrica.\n\n[DIAGRAMA]\n\nConsidere que a quantidade de energia solar por metro quadrado que incide sobre a superfície de um painel solar, dada em $\\\\frac{J}{m}$², seja representada por p. A relação que fornece a quantidade de energia solar convertida em energia elétrica, Eel, em joules, para uma residência que utiliza 5 desses painéis é:",
+      principal: "O painel solar da figura possui uma eficiência de 80% ao converter energia solar em energia elétrica.\n\n[DIAGRAMA]\n\nConsidere que a quantidade de energia solar por metro quadrado que incide sobre a superfície de um painel solar, dada em J/m², seja representada por p. A relação que fornece a quantidade de energia solar convertida em energia elétrica, Eel, em joules, para uma residência que utiliza 5 desses painéis é:",
       subItens: []
     },
     options: ["Eel = 2 * (a * b / p)","Eel = 5 * (p / (a * b))","Eel = 8 * (p / (a * b))","Eel = 4 * p * a * b","Eel = 5 * p * a * b"],

@@ -3,7 +3,7 @@ createQuestion({
     university: "Vestibular",
     year: 2021,
     text: {
-      principal: "Sobre o texto de Camila Fabro, assinale o que for correto.\nAdaptado de: FABRO, Camila. Capacitismo. Disponível em: <www.plural.jor.$\\\\frac{br}{colunas}$/$\\\\frac{desmiolada}{capacitismo}$/>. Acesso em: $\\\\frac{27}{04}$/21.",
+      principal: "Sobre o texto de Camila Fabro, assinale o que for correto.\nAdaptado de: FABRO, Camila. Capacitismo. Disponível em: <www.plural.jor.br/colunas/desmiolada/capacitismo/>. Acesso em: 27/04/21.",
       subItens: []
     },
     options: ["Segundo a autora, o trabalho é uma ação comum na vida da maioria dos brasileiros, mas que envolve muitas lutas para quem tem deficiência.","O advérbio \"aqui\", usado na última linha do primeiro parágrafo (\"Aqui eu explico o porquê\") está se referindo ao próprio texto produzido pela autora.","O pronome indefinido \"algo\", utilizado no texto (\"Algo muito natural\"), tem como referente a expressão \"primeiro dia do mês de maio\".","Podemos afirmar que o primeiro parágrafo do texto termina com uma pergunta em aberto, já que a última palavra deste trecho é \"porquê”."],
@@ -393,7 +393,7 @@ createQuestion({
     university: "Vestibular",
     year: 2021,
     text: {
-      principal: "Dada a seguinte equação balanceada, assinale o que for correto.\nCl_{2}(g) + 2NaOH(aq) → NaCl(aq) + NaClO (aq) + H_{2}O(l)",
+      principal: "Dada a seguinte equação balanceada, assinale o que for correto.\n$Cl_{2}$(g) + 2NaOH(aq) → NaCl(aq) + NaClO (aq) + H2O(l)",
       subItens: []
     },
     options: ["O reagente cloro sofre, ao mesmo tempo, redução e oxidação, indicando que ele atua como agente oxidante e redutor.","O número de oxidação do sódio sofre variação na reação.","O número de oxidação do oxigênio varia na reação de -1 para -2, em ambos os compostos formados.","O número de oxidação do reagente cloro, ao formar NaClO, passa de 0 para +1."],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Vestibular",
     year: 2021,
     text: {
-      principal: "Considerando os seguintes íons: sódio (Na^+$), magnésio (Mg_{2}+), cálcio (Ca_{2}+), cloreto (Cl-), sulfato (SO_{42}-) e carbonato (CO_{32}-), identifique quais sais podem ser formados em meio aquoso. Assinale o que for correto.",
+      principal: "Considerando os seguintes íons: sódio (Na+), magnésio ($Mg_{2}$+), cálcio ($Ca_{2}$+), cloreto (Cl-), sulfato ($SO_{42}$-) e carbonato ($CO_{32}$-), identifique quais sais podem ser formados em meio aquoso. Assinale o que for correto.",
       subItens: []
     },
     options: ["Cloreto de cálcio, CaCl2.","Sulfato de sódio, Na2SO4.","Sulfato de cálcio, CaSO4.","Carbonato de magnésio, MgCO3."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2021,
     text: {
-      principal: "Sabendo que x_{1} = -5 e x_{2} = 2 são as raízes da função quadrática f(x) = ax² + bx + c e que f(0) = -10, assinale o que for correto.",
+      principal: "Sabendo que $x_{1}$ = -5 e $x_{2}$ = 2 são as raízes da função quadrática f(x) = ax² + bx + c e que f(0) = -10, assinale o que for correto.",
       subItens: []
     },
     options: ["f(x) é uma função crescente para x > -1.","b é a solução da equação exponencial 2^(2x-7) . 2^x = 8.","f(b) é um número ímpar.","c é a solução da equação logarítmica log2 (6-x) = 4."],

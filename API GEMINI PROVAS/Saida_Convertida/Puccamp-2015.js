@@ -303,7 +303,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "Uma caixa de massa 2,0 kg está apoiada numa superfície horizontal perfeitamente lisa, estando sujeita a duas forças F₁ e F_{2} horizontais e perpendiculares entre si. A força F₁ tem intensidade 8,0 N e a caixa apresenta aceleração de 5,0 $\\\\frac{m}{s}$². Nestas condições, a intensidade da força F₂ é, em newtons,",
+      principal: "Uma caixa de massa 2,0 kg está apoiada numa superfície horizontal perfeitamente lisa, estando sujeita a duas forças F₁ e $F_{2}$ horizontais e perpendiculares entre si. A força F₁ tem intensidade 8,0 N e a caixa apresenta aceleração de 5,0 m/s². Nestas condições, a intensidade da força F₂ é, em newtons,",
       subItens: []
     },
     options: ["4,0.","5,0.","6,0.","8,0.","10."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "O mineral calcita, CaCO_{3}, é um dos principais constituintes do mármore. Esse mineral pode ser dissolvido com ácidos, porque ocorre a seguinte reação: CaCO_{3} (s) + 2H+ (aq) → Ca²⁺ (aq) + CO_{2} (g) + H_{2}O (l). Considerando uma solução de ácido clorídrico cujo pH = 0, o volume dessa solução, em mL, necessário para dissolver 1,0 g de CaCO_{3} é de\nDados: Massas molares (g.mol⁻¹) H = 1,0 C = 12,0 O = 16,0 Volume molar, nas CNTP = 22,4 L.mol⁻¹",
+      principal: "O mineral calcita, $CaCO_{3}$, é um dos principais constituintes do mármore. Esse mineral pode ser dissolvido com ácidos, porque ocorre a seguinte reação: $CaCO_{3}$ (s) + 2H+ (aq) → Ca²⁺ (aq) + $CO_{2}$ (g) + H2O (l). Considerando uma solução de ácido clorídrico cujo pH = 0, o volume dessa solução, em mL, necessário para dissolver 1,0 g de $CaCO_{3}$ é de\nDados: Massas molares (g.mol⁻¹) H = 1,0 C = 12,0 O = 16,0 Volume molar, nas CNTP = 22,4 L.mol⁻¹",
       subItens: []
     },
     options: ["10.","20.","30.","40.","50."],
@@ -393,7 +393,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "Atenção: Para responder às questões de números 27 e 28, considere o texto abaixo. \"Machiavellianism\" is a ____ used negative term to characterize unscrupulous politicians of the sort Machiavelli described in The Prince. The book itself gained enormous notoriety and wide readership because most readers assumed the author was teaching and endorsing evil and immoral behavior. Because of this, the term \"Machiavellian\" is often associated with deceit, deviousness, ambition, and brutality. However that was Machiavelli's stylistic device to gain the reader's attention for his close analysis of the actual techniques used by rulers. (Adapted from: http://en.wikipedia.$\\\\frac{org}{wiki}$/Niccol%C_{3}%B_{2}_Machiavelli) The word that correctly fills in the blank is",
+      principal: "Atenção: Para responder às questões de números 27 e 28, considere o texto abaixo. \"Machiavellianism\" is a ____ used negative term to characterize unscrupulous politicians of the sort Machiavelli described in The Prince. The book itself gained enormous notoriety and wide readership because most readers assumed the author was teaching and endorsing evil and immoral behavior. Because of this, the term \"Machiavellian\" is often associated with deceit, deviousness, ambition, and brutality. However that was Machiavelli's stylistic device to gain the reader's attention for his close analysis of the actual techniques used by rulers. (Adapted from: http://en.wikipedia.org/wiki/Niccol%$C_{3}$%B2_Machiavelli) The word that correctly fills in the blank is",
       subItens: []
     },
     options: ["hardly.","widely.","rarely.","wrongly.","likely."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "Um dos álcoois mais comuns, o etanol, queima completamente segundo a reação\nC_{2}H6O (l) + 3O2 (g) → 2CO2 (g) + 3H2O (g)\nConsiderando que todos os produtos dessa reação são gasosos, o volume de gás total, em m³, produzido quando é queimado 1,0 kg de etanol, nas CNTP, é de, aproximadamente,\nDados: Massas molares (g.mol⁻¹) H = 1,0 C = 12,0 O = 16,0 Volume molar, nas CNTP = 22,4 L.mol⁻¹",
+      principal: "Um dos álcoois mais comuns, o etanol, queima completamente segundo a reação\nC2H6O (l) + 3O2 (g) → 2CO2 (g) + 3H2O (g)\nConsiderando que todos os produtos dessa reação são gasosos, o volume de gás total, em m³, produzido quando é queimado 1,0 kg de etanol, nas CNTP, é de, aproximadamente,\nDados: Massas molares (g.mol⁻¹) H = 1,0 C = 12,0 O = 16,0 Volume molar, nas CNTP = 22,4 L.mol⁻¹",
       subItens: []
     },
     options: ["1,3.","2,4.","3,3.","5,8.","7,2."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "Deve-se a Graciliano Ramos obras fundamentais para a literatura brasileira como Vidas secas. Encolhido no banto do copiar Fabiano espiava a caatinga amarela, onde as folhas secas se pulverizavam, torturadas pelos redemoinhos, e os garranchos se torciam, negros, torrados. No céu azul as últimas arribações tinham desaparecido. (http://www.passeiweb.$\\\\frac{com}{estudos}$/$\\\\frac{livros}{vidas_secas}$) Sobre a caatinga, que até os dias atuais ainda pode ser vista, é correto afirmar que",
+      principal: "Deve-se a Graciliano Ramos obras fundamentais para a literatura brasileira como Vidas secas. Encolhido no banto do copiar Fabiano espiava a caatinga amarela, onde as folhas secas se pulverizavam, torturadas pelos redemoinhos, e os garranchos se torciam, negros, torrados. No céu azul as últimas arribações tinham desaparecido. (http://www.passeiweb.com/estudos/livros/vidas_secas) Sobre a caatinga, que até os dias atuais ainda pode ser vista, é correto afirmar que",
       subItens: []
     },
     options: ["subsiste em pequenas \"ilhas\" de umidade nas proximidades das serras e chapadas que se transformaram em reservas naturais graças à atual legislação ambiental.","abriga mais de 50 milhões de pessoas e é considerada como a cobertura vegetal menos preservada do país devido à intensa ocupação agropecuária.","destaca-se pelo desaparecimento da biodiversidade em consequência do uso dos vegetais lenhosos que a compõem como lenha para fogões domésticos.","ocupa pouco mais de 10% do território nacional e um dos problemas da área ocupada pela vegetação é a segurança hídrica e alimentar da população que lá vive.","está associada à desertificação pois a maior parte das espécies vegetais que a compõem são higrófitos e, portanto, incapazes de reter água no solo."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "A publicidade digital deverá movimentar R$ 9,5 bilhões em 2015, uma alta de 14% frente a 2014, segundo pesquisa divulgada nesta terça-feira pelo IAB Brasil (Interactive Advertising Bureau), entidade representativa do setor. (Adaptado de: g_{1}.globo.com, $\\\\frac{14}{04}$/2015) A mesma matéria cita ainda que, em 2014, do total de dinheiro movimentado com publicidade digital, R$ 2,8 bilhões foram para as redes sociais, o que correspondia a",
+      principal: "A publicidade digital deverá movimentar R$ 9,5 bilhões em 2015, uma alta de 14% frente a 2014, segundo pesquisa divulgada nesta terça-feira pelo IAB Brasil (Interactive Advertising Bureau), entidade representativa do setor. (Adaptado de: $g_{1}$.globo.com, 14/04/2015) A mesma matéria cita ainda que, em 2014, do total de dinheiro movimentado com publicidade digital, R$ 2,8 bilhões foram para as redes sociais, o que correspondia a",
       subItens: []
     },
     options: ["28,4%.","31,3%.","29,3%.","34,6%.","33,6%."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "Um corpo de massa 0,30 kg é lançado verticalmente para cima com velocidade de 40 $\\\\frac{m}{s}$. Adota-se para a aceleração da gravidade g = 10 $\\\\frac{m}{s}$². A altura máxima atingida pelo corpo é de 60 m acima do ponto de lançamento. Pode-se afirmar corretamente que, no movimento de subida do corpo, o trabalho da força de resistência do ar vale em joules",
+      principal: "Um corpo de massa 0,30 kg é lançado verticalmente para cima com velocidade de 40 m/s. Adota-se para a aceleração da gravidade g = 10 m/s². A altura máxima atingida pelo corpo é de 60 m acima do ponto de lançamento. Pode-se afirmar corretamente que, no movimento de subida do corpo, o trabalho da força de resistência do ar vale em joules",
       subItens: []
     },
     options: ["60.","90.","- 120.","180.","240."],
@@ -633,7 +633,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "Tradicionalmente o Brasil participa de grandes mercados mundiais. Considere o gráfico e as afirmações abaixo.\nExportações e importações brasileiras (2014)\nImagem: Gráfico de barras horizontais mostrando os valores de exportação e importação (em US$ bilhões FOB) do Brasil com diferentes regiões (Ásia, América Latina e Caribe, Mercosul, União Europeia, Estados Unidos) no ano de 2014. Os valores para cada região são: Ásia (Exportação: aproximadamente 75; Importação: aproximadamente 50); América Latina e Caribe (Exportação: aproximadamente 25; Importação: aproximadamente 15); Mercosul (Exportação: aproximadamente 25; Importação: aproximadamente 20); União Europeia (Exportação: aproximadamente 45; Importação: aproximadamente 60); Estados Unidos (Exportação: aproximadamente 20; Importação: aproximadamente 35).\n(http://www.aeb.org.$\\\\frac{br}{graficos}$.asp)\nI. A China e o Japão são os principais clientes asiáticos do Brasil, pois são grandes importadores de commodities.\nII. A balança comercial brasileira é superavitária no comércio com os principais blocos econômicos mundiais.\nIII. As relações comerciais entre Brasil e Estados Unidos são deficitárias para o Brasil devido à queda de produção de ferro e manganês.\nA leitura do gráfico e os conhecimentos sobre a economia e o comércio exterior do Brasil no ano de 2014 permitem reconhecer como correto o que se afirma APENAS em",
+      principal: "Tradicionalmente o Brasil participa de grandes mercados mundiais. Considere o gráfico e as afirmações abaixo.\nExportações e importações brasileiras (2014)\nImagem: Gráfico de barras horizontais mostrando os valores de exportação e importação (em US$ bilhões FOB) do Brasil com diferentes regiões (Ásia, América Latina e Caribe, Mercosul, União Europeia, Estados Unidos) no ano de 2014. Os valores para cada região são: Ásia (Exportação: aproximadamente 75; Importação: aproximadamente 50); América Latina e Caribe (Exportação: aproximadamente 25; Importação: aproximadamente 15); Mercosul (Exportação: aproximadamente 25; Importação: aproximadamente 20); União Europeia (Exportação: aproximadamente 45; Importação: aproximadamente 60); Estados Unidos (Exportação: aproximadamente 20; Importação: aproximadamente 35).\n(http://www.aeb.org.br/graficos.asp)\nI. A China e o Japão são os principais clientes asiáticos do Brasil, pois são grandes importadores de commodities.\nII. A balança comercial brasileira é superavitária no comércio com os principais blocos econômicos mundiais.\nIII. As relações comerciais entre Brasil e Estados Unidos são deficitárias para o Brasil devido à queda de produção de ferro e manganês.\nA leitura do gráfico e os conhecimentos sobre a economia e o comércio exterior do Brasil no ano de 2014 permitem reconhecer como correto o que se afirma APENAS em",
       subItens: []
     },
     options: ["I.","I e II","I e III.","II.","II e III"],
@@ -663,7 +663,7 @@ createQuestion({
     university: "Prova Geral",
     year: 2015,
     text: {
-      principal: "O equilíbrio químico da amônia, NH_{3}, em solução aquosa, está representado a seguir: NH_{3} (g) + H_{2}O (l) ⇌ NH_{4}+ (aq) + OH⁻ (aq). A liberação de gás amônia ocorrerá com maior intensidade quando a essa solução for adicionado\nI. NH4Cl (aq).\nII. FeCl_{3} (aq).\nIII. NaOH (aq).\nEstá correto o que consta APENAS em",
+      principal: "O equilíbrio químico da amônia, $NH_{3}$, em solução aquosa, está representado a seguir: $NH_{3}$ (g) + H2O (l) ⇌ $NH_{4}$+ (aq) + OH⁻ (aq). A liberação de gás amônia ocorrerá com maior intensidade quando a essa solução for adicionado\nI. NH4Cl (aq).\nII. $FeCl_{3}$ (aq).\nIII. NaOH (aq).\nEstá correto o que consta APENAS em",
       subItens: []
     },
     options: ["I.","II.","III.","I e II.","I e III."],

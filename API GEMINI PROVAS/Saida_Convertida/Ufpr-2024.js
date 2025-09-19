@@ -48,7 +48,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2024,
     text: {
-      principal: "Sejam p(x) = x + a e q(x) = x² − b funções, com a e b números reais. Sabendo que r = $\\\\frac{1}{2}$ é a única raiz da função composta f(x) = q(p(x)), assinale a alternativa que corresponde à soma a + b.",
+      principal: "Sejam p(x) = x + a e q(x) = x² − b funções, com a e b números reais. Sabendo que r = 1/2 é a única raiz da função composta f(x) = q(p(x)), assinale a alternativa que corresponde à soma a + b.",
       subItens: []
     },
     options: ["-2","-1","-1/2","1/2","2"],
@@ -63,7 +63,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2024,
     text: {
-      principal: "Sabendo que sen(2x) = $\\\\frac{3}{5}$, assinale a alternativa que corresponde ao valor de [sen(x) + cos(x)]².",
+      principal: "Sabendo que $\\sin$(2x) = 3/5, assinale a alternativa que corresponde ao valor de [$\\sin$(x) + cos(x)]².",
       subItens: []
     },
     options: ["0,8","1,0","1,2","1,4","1,6"],
@@ -183,7 +183,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2024,
     text: {
-      principal: "Deseja-se produzir uma onda sonora num dado meio onde a velocidade do som vale v = 350 $\\\\frac{m}{s}$. A frequência ƒ dessa onda sonora deve ser ƒ = 50 kHz. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do comprimento de onda λ dessa onda.",
+      principal: "Deseja-se produzir uma onda sonora num dado meio onde a velocidade do som vale v = 350 m/s. A frequência ƒ dessa onda sonora deve ser ƒ = 50 kHz. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do comprimento de onda λ dessa onda.",
       subItens: []
     },
     options: ["λ = 7 m","λ = 175 m","λ = 175 mm","λ = 7 mm","λ = 7 km"],
@@ -198,7 +198,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2024,
     text: {
-      principal: "Um dado objeto de massa constante m = 300 g está a uma temperatura T₀ = 30 °C. Seu calor específico vale c = 0,4 $\\\\frac{J}{g}$.°C. Esse objeto passa por um processo termodinâmico que retira uma dada quantidade de calor Q, de modo que o objeto chega à temperatura T = 10 °C sem sofrer mudanças de estado físico. Em todo esse processo, seu calor específico é considerado constante. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor da quantidade de calor Q retirada do objeto durante o processo.",
+      principal: "Um dado objeto de massa constante m = 300 g está a uma temperatura T₀ = 30 °C. Seu calor específico vale c = 0,4 J/g.°C. Esse objeto passa por um processo termodinâmico que retira uma dada quantidade de calor Q, de modo que o objeto chega à temperatura T = 10 °C sem sofrer mudanças de estado físico. Em todo esse processo, seu calor específico é considerado constante. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor da quantidade de calor Q retirada do objeto durante o processo.",
       subItens: []
     },
     options: ["Q = 0,24 kJ","Q = 1,2 kJ","Q = 2,4 kJ","Q = 12 kJ","Q = 24 kJ"],
@@ -213,7 +213,7 @@ createQuestion({
     university: "PROCESSO SELETIVO",
     year: 2024,
     text: {
-      principal: "Uma partícula contendo uma carga Q = 1,6 × 10⁻¹⁹ C entra numa região onde há um campo magnético de intensidade B = 1,0 T com uma velocidade de módulo v. Sobre ela, passa a agir uma força magnética de intensidade F = 3,2 × 10⁻¹⁶ N. O ângulo entre os vetores velocidade e campo magnético vale θ, e sabe-se que cos θ = √$\\\\frac{3}{2}$ e sen θ = $\\\\frac{1}{2}$. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do módulo v da velocidade da partícula.",
+      principal: "Uma partícula contendo uma carga Q = 1,6 × 10⁻¹⁹ C entra numa região onde há um campo magnético de intensidade B = 1,0 T com uma velocidade de módulo v. Sobre ela, passa a agir uma força magnética de intensidade F = 3,2 × 10⁻¹⁶ N. O ângulo entre os vetores velocidade e campo magnético vale θ, e sabe-se que cos θ = √3/2 e $\\sin$ θ = 1/2. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do módulo v da velocidade da partícula.",
       subItens: []
     },
     options: ["v = 4√3 × 10³ m/s","v = 4,0 × 10³ m/s","v = 2,0 × 10³ m/s","v = 2√3 × 10³ m/s","v = 1,0 × 10³ m/s"],

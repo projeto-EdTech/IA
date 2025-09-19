@@ -3,7 +3,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A hipertensão é a principal causa mundial de mortes e afeta tanto homens como mulheres. Apesar de 30% da população adulta sofrer de hipertensão (pressão acima de $\\\\frac{140}{90}$ mmHg), um terço dos hipertensos desconhece sua condição e dois terços inicia tratamento. Um terço da população que inicia tratamento contra a hipertensão deixa de aderir ao tratamento e não consegue manter a pressão abaixo de $\\\\frac{140}{90}$ mmHg.\n(Organização Pan-Americana da Saúde (OPAS) e Organização Mundial da Saúde (OMS). www.paho.org. Adaptado.)\nUm país tem 120 milhões de adultos e, destes, apenas os que sabem ser hipertensos iniciam o tratamento da doença. Se a população desse país se enquadra nas estatísticas da $\\\\frac{OPAS}{OMS}$, o número de adultos hipertensos que mantêm a adesão ao tratamento da hipertensão, em milhões de pessoas, é igual a",
+      principal: "A hipertensão é a principal causa mundial de mortes e afeta tanto homens como mulheres. Apesar de 30% da população adulta sofrer de hipertensão (pressão acima de 140/90 mmHg), um terço dos hipertensos desconhece sua condição e dois terços inicia tratamento. Um terço da população que inicia tratamento contra a hipertensão deixa de aderir ao tratamento e não consegue manter a pressão abaixo de 140/90 mmHg.\n(Organização Pan-Americana da Saúde (OPAS) e Organização Mundial da Saúde (OMS). www.paho.org. Adaptado.)\nUm país tem 120 milhões de adultos e, destes, apenas os que sabem ser hipertensos iniciam o tratamento da doença. Se a população desse país se enquadra nas estatísticas da OPAS/OMS, o número de adultos hipertensos que mantêm a adesão ao tratamento da hipertensão, em milhões de pessoas, é igual a",
       subItens: []
     },
     options: ["8.","24.","16.","12.","18."],
@@ -63,7 +63,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A figura representa uma pirâmide com base quadrada ABCD de lado x, e altura AE de medida $\\\\frac{3x}{4}$.\nSe o volume dessa pirâmide é igual a 54 cm³, x é igual a",
+      principal: "A figura representa uma pirâmide com base quadrada ABCD de lado x, e altura AE de medida 3x/4.\nSe o volume dessa pirâmide é igual a 54 cm³, x é igual a",
       subItens: []
     },
     options: ["7 cm.","6 cm.","2³√9 cm.","3³√6 cm.","2³√6 cm."],
@@ -438,7 +438,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "O processo de Eratóstenes (276-194 a.C.) consistiu em medir a diferença vertical da incidência da luz solar em Alexandria e em Syene (atual Assuã), ambas no Egito. Sabendo que a distância entre as duas cidades era aproximadamente 5000 estádios (1 estádio = 185 m) e que a diferença angular entre as posições do Sol nas duas cidades, no mesmo horário de um determinado dia, equivalia a 7°12', aproximadamente $\\\\frac{1}{50}$ do círculo completo, foi possível estimar o valor de 46250 km, apenas 15% maior do que realmente é esse perímetro, o que, para os métodos da época, é bastante razoável.\n(Paulo M. L. de Menezes e Manoel do C. Fernandes. Roteiro de cartografia, 2013. Adaptado.)\nConsiderando os dados apresentados, é correto afirmar que o valor calculado por Eratóstenes referia-se, aproximadamente, ao perímetro",
+      principal: "O processo de Eratóstenes (276-194 a.C.) consistiu em medir a diferença vertical da incidência da luz solar em Alexandria e em Syene (atual Assuã), ambas no Egito. Sabendo que a distância entre as duas cidades era aproximadamente 5000 estádios (1 estádio = 185 m) e que a diferença angular entre as posições do Sol nas duas cidades, no mesmo horário de um determinado dia, equivalia a 7°12', aproximadamente 1/50 do círculo completo, foi possível estimar o valor de 46250 km, apenas 15% maior do que realmente é esse perímetro, o que, para os métodos da época, é bastante razoável.\n(Paulo M. L. de Menezes e Manoel do C. Fernandes. Roteiro de cartografia, 2013. Adaptado.)\nConsiderando os dados apresentados, é correto afirmar que o valor calculado por Eratóstenes referia-se, aproximadamente, ao perímetro",
       subItens: []
     },
     options: ["do Trópico de Câncer.","do Círculo Polar Antártico.","do Círculo Polar Ártico.","do Trópico de Capricórnio.","do Equador."],
@@ -453,7 +453,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A figura representa um trecho retilíneo, plano e horizontal de uma determinada rodovia que possui duas faixas de rolamento: a da esquerda, cuja velocidade máxima permitida é de 80 $\\\\frac{km}{h}$, e a da direita, onde é de 60 $\\\\frac{km}{h}$.\nUm veículo percorreu um quarto do comprimento desse trecho pela faixa da esquerda, desenvolvendo a velocidade máxima ali permitida. Em seguida, mudou para a faixa da direita e percorreu o restante do trecho com a velocidade máxima permitida nessa faixa. Desconsiderando os intervalos de tempo gastos para a mudança de faixa e para a desaceleração, a velocidade média desenvolvida pelo veículo ao longo desse trecho, em $\\\\frac{km}{h}$, foi igual a",
+      principal: "A figura representa um trecho retilíneo, plano e horizontal de uma determinada rodovia que possui duas faixas de rolamento: a da esquerda, cuja velocidade máxima permitida é de 80 km/h, e a da direita, onde é de 60 km/h.\nUm veículo percorreu um quarto do comprimento desse trecho pela faixa da esquerda, desenvolvendo a velocidade máxima ali permitida. Em seguida, mudou para a faixa da direita e percorreu o restante do trecho com a velocidade máxima permitida nessa faixa. Desconsiderando os intervalos de tempo gastos para a mudança de faixa e para a desaceleração, a velocidade média desenvolvida pelo veículo ao longo desse trecho, em km/h, foi igual a",
       subItens: []
     },
     options: ["66.","62.","64.","67.","68."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Um vaso de flores de massa total igual a 4,8 kg está pendurado, em equilíbrio, em um suporte preso a uma parede vertical. O suporte está pendurado em um parafuso preso ao ponto A e apoiado na parede no ponto B, conforme representado na figura.\n(www.ebanataw.com.br. Adaptado.)\nConsidere g = 10 $\\\\frac{m}{s}$² e que a massa do suporte seja desprezível. O módulo da força horizontal exercida pelo suporte na parede, no ponto B, é igual a",
+      principal: "Um vaso de flores de massa total igual a 4,8 kg está pendurado, em equilíbrio, em um suporte preso a uma parede vertical. O suporte está pendurado em um parafuso preso ao ponto A e apoiado na parede no ponto B, conforme representado na figura.\n(www.ebanataw.com.br. Adaptado.)\nConsidere g = 10 m/s² e que a massa do suporte seja desprezível. O módulo da força horizontal exercida pelo suporte na parede, no ponto B, é igual a",
       subItens: []
     },
     options: ["60 N.","80 N.","20 N.","40 N.","100 N."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Cometa e Rosetta atingem ponto mais próximo do Sol\nO cometa $\\\\frac{67P}{Churyumov}$-Gerasimenko e a sonda Rosetta, que o orbita há mais de um ano, chegaram ao ponto de maior aproximação do Sol. O periélio, a cerca de 186 milhões de quilômetros do Sol, foi atingido pelo cometa em agosto de 2015. A partir daí, o cometa começou mais uma órbita oval, que durará 6,5 anos. O afélio da órbita desse cometa está a cerca de 852 milhões de quilômetros do Sol. Espera-se que Rosetta o monitore por, pelo menos, mais um ano.\n(www.inovacaotecnologica.com.br. Adaptado.)\nDe acordo com as informações, é correto afirmar que",
+      principal: "Cometa e Rosetta atingem ponto mais próximo do Sol\nO cometa 67P/Churyumov-Gerasimenko e a sonda Rosetta, que o orbita há mais de um ano, chegaram ao ponto de maior aproximação do Sol. O periélio, a cerca de 186 milhões de quilômetros do Sol, foi atingido pelo cometa em agosto de 2015. A partir daí, o cometa começou mais uma órbita oval, que durará 6,5 anos. O afélio da órbita desse cometa está a cerca de 852 milhões de quilômetros do Sol. Espera-se que Rosetta o monitore por, pelo menos, mais um ano.\n(www.inovacaotecnologica.com.br. Adaptado.)\nDe acordo com as informações, é correto afirmar que",
       subItens: []
     },
     options: ["o cometa atingirá sua maior distância em relação ao Sol aproximadamente em agosto de 2017.","a órbita elíptica do cometa está de acordo com o modelo do movimento planetário proposto por Copérnico.","o cometa atingiu sua menor velocidade escalar de translação ao redor do Sol em agosto de 2015.","o cometa estava em movimento acelerado entre os meses de janeiro e julho de 2015.","a velocidade escalar do cometa será sempre crescente, em módulo, após agosto de 2015."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "Um forno de micro-ondas funciona fazendo com que as moléculas de água presentes nos alimentos vibrem, gerando calor. O processo baseia-se nos fenômenos da reflexão e interferência de ondas eletromagnéticas, produzindo ondas estacionárias dentro da cavidade do forno. Considere um forno de micro-ondas cuja cavidade interna tenha 30 cm de largura e que, dentro dele, se estabeleçam ondas estacionárias, conforme representado na figura.\nSabendo que a velocidade de propagação das ondas eletromagnéticas no ar é de 3 × 10⁸ $\\\\frac{m}{s}$, a frequência de vibração das micro-ondas representadas dentro desse forno, em Hz, é igual a",
+      principal: "Um forno de micro-ondas funciona fazendo com que as moléculas de água presentes nos alimentos vibrem, gerando calor. O processo baseia-se nos fenômenos da reflexão e interferência de ondas eletromagnéticas, produzindo ondas estacionárias dentro da cavidade do forno. Considere um forno de micro-ondas cuja cavidade interna tenha 30 cm de largura e que, dentro dele, se estabeleçam ondas estacionárias, conforme representado na figura.\nSabendo que a velocidade de propagação das ondas eletromagnéticas no ar é de 3 × 10⁸ m/s, a frequência de vibração das micro-ondas representadas dentro desse forno, em Hz, é igual a",
       subItens: []
     },
     options: ["2,2 x 10⁹.","3,2 x 10⁹.","2,0 x 10⁹.","3,6 x 10⁹.","2,5 x 10⁹."],
@@ -813,7 +813,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "A água boricada é uma solução aquosa de ácido bórico, H₃BO₃, a 3% ($\\\\frac{m}{V}$). Expressando-se essa concentração em mg de soluto por mL de solução, obtém-se o valor",
+      principal: "A água boricada é uma solução aquosa de ácido bórico, H₃BO₃, a 3% (m/V). Expressando-se essa concentração em mg de soluto por mL de solução, obtém-se o valor",
       subItens: []
     },
     options: ["30.","0,3.","300.","0,03.","3."],
@@ -828,7 +828,7 @@ createQuestion({
     university: "Vestibular",
     year: 2016,
     text: {
-      principal: "As questões de 56 a 58 referem-se à liotironina, um hormônio produzido pela glândula tireoide, também conhecido como T_{3}.\nA molécula da liotironina apresenta",
+      principal: "As questões de 56 a 58 referem-se à liotironina, um hormônio produzido pela glândula tireoide, também conhecido como $T_{3}$.\nA molécula da liotironina apresenta",
       subItens: []
     },
     options: ["átomo de carbono assimétrico.","cadeia carbônica homogênea.","cadeia carbônica alifática.","dois heterociclos.","quatro átomos de hidrogênio."],

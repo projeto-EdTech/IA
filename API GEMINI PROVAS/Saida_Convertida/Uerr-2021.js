@@ -408,7 +408,7 @@ createQuestion({
     university: "PROVA OBJETIVA E DISCURSIVA",
     year: 2021,
     text: {
-      principal: "Em um experimento, realizado em laboratório químico em condições ambientes, foram empregadas amostras de quatro substâncias diferentes, duas sólidas e duas líquidas.\n[Imagens de béqueres com substâncias sólidas e líquidas em água]\nNa tabela são apresentadas informações sobre as densidades dessas substâncias.\nSubstância | Densidade\nÁgua | 1 $\\\\frac{g}{cm}$³\nX | 13 $\\\\frac{g}{cm}$³\nY | 2,7 $\\\\frac{g}{cm}$³\nZ | 0,9 $\\\\frac{g}{cm}$³\nAs substâncias X, Y e Z são, respectivamente,",
+      principal: "Em um experimento, realizado em laboratório químico em condições ambientes, foram empregadas amostras de quatro substâncias diferentes, duas sólidas e duas líquidas.\n[Imagens de béqueres com substâncias sólidas e líquidas em água]\nNa tabela são apresentadas informações sobre as densidades dessas substâncias.\nSubstância | Densidade\nÁgua | 1 g/cm³\nX | 13 g/cm³\nY | 2,7 g/cm³\nZ | 0,9 g/cm³\nAs substâncias X, Y e Z são, respectivamente,",
       subItens: []
     },
     options: ["sólido 1, sólido 2 e líquido 1.","sólido 2, líquido 1 e sólido 1.","sólido 1, líquido 1 e sólido 2.","líquido 1, sólido 1 e sólido 2.","líquido 1, sólido 2 e sólido 1."],
@@ -573,7 +573,7 @@ createQuestion({
     university: "PROVA OBJETIVA E DISCURSIVA",
     year: 2021,
     text: {
-      principal: "Em alguns postos de bombeiros é comum existir um poste liso vertical pelo qual os bombeiros descem para chegar rapidamente a seus veículos, em caso de uma emergência. Suponha que um bombeiro de 80 kg desça por um desses postes com aceleração vertical constante de 4,0 $\\\\frac{m}{s}$², conforme mostra a figura.\n[Imagem de um bombeiro descendo por um poste com aceleração de 4.0 $\\\\frac{m}{s}$²]\nSabendo que a aceleração da gravidade no local é de 10 $\\\\frac{m}{s}$², a intensidade da força de atrito entre o bombeiro e o poste é igual a",
+      principal: "Em alguns postos de bombeiros é comum existir um poste liso vertical pelo qual os bombeiros descem para chegar rapidamente a seus veículos, em caso de uma emergência. Suponha que um bombeiro de 80 kg desça por um desses postes com aceleração vertical constante de 4,0 m/s², conforme mostra a figura.\n[Imagem de um bombeiro descendo por um poste com aceleração de 4.0 m/s²]\nSabendo que a aceleração da gravidade no local é de 10 m/s², a intensidade da força de atrito entre o bombeiro e o poste é igual a",
       subItens: []
     },
     options: ["160 N.","320 N.","400 N.","480 N.","1120 N."],
@@ -618,7 +618,7 @@ createQuestion({
     university: "PROVA OBJETIVA E DISCURSIVA",
     year: 2021,
     text: {
-      principal: "Um copo de 15 cm de profundidade está totalmente preenchido com óleo de cozinha, cuja densidade é de 0,8 $\\\\frac{g}{cm}$³. Considerando que a aceleração da gravidade no local é 10 $\\\\frac{m}{s}$², a pressão exercida pelo óleo no fundo do copo é igual a",
+      principal: "Um copo de 15 cm de profundidade está totalmente preenchido com óleo de cozinha, cuja densidade é de 0,8 g/cm³. Considerando que a aceleração da gravidade no local é 10 m/s², a pressão exercida pelo óleo no fundo do copo é igual a",
       subItens: []
     },
     options: ["80 Pa.","120 Pa.","150 Pa.","800 Pa.","1200 Pa."],
@@ -648,7 +648,7 @@ createQuestion({
     university: "PROVA OBJETIVA E DISCURSIVA",
     year: 2021,
     text: {
-      principal: "Uma lâmpada que produz um raio de luz monocromático foi colocada no fundo de uma fonte de 1 m de profundidade de tal forma que seu raio de luz percorre a trajetória ilustrada na figura. A fonte contém água, cujo índice de refração é √3.\n[Diagrama de refração de luz da água para o ar]\nConsidere os valores da tabela:\nθ | sen θ | cos θ | tg θ\n0° | 0 | 1 | 0\n30° | $\\\\frac{1}{2}$ | √$\\\\frac{3}{2}$ | √$\\\\frac{3}{3}$\n45° | √$\\\\frac{2}{2}$ | √$\\\\frac{2}{2}$ | 1\n60° | √$\\\\frac{3}{2}$ | $\\\\frac{1}{2}$ | √3\n90° | 1 | 0 | +∞\nUtilizando os valores dados na tabela e assumindo que o índice de refração do ar é igual a 1, um observador do lado de fora da fonte",
+      principal: "Uma lâmpada que produz um raio de luz monocromático foi colocada no fundo de uma fonte de 1 m de profundidade de tal forma que seu raio de luz percorre a trajetória ilustrada na figura. A fonte contém água, cujo índice de refração é √3.\n[Diagrama de refração de luz da água para o ar]\nConsidere os valores da tabela:\nθ | $\\sin$ θ | cos θ | tg θ\n0° | 0 | 1 | 0\n30° | 1/2 | √3/2 | √3/3\n45° | √2/2 | √2/2 | 1\n60° | √3/2 | 1/2 | √3\n90° | 1 | 0 | +∞\nUtilizando os valores dados na tabela e assumindo que o índice de refração do ar é igual a 1, um observador do lado de fora da fonte",
       subItens: []
     },
     options: ["vê o raio luminoso fazendo um ângulo θ = 60° em relação à reta normal.","vê o raio luminoso fazendo um ângulo θ = 45° em relação à reta normal.","vê o raio luminoso fazendo um ângulo θ = 30° em relação à reta normal.","vê o raio luminoso fazendo um ângulo θ = 0° em relação à reta normal.","não vê o raio luminoso, pois ocorre uma reflexão total na superfície de separação."],
@@ -1038,7 +1038,7 @@ createQuestion({
     university: "PROVA OBJETIVA E DISCURSIVA",
     year: 2021,
     text: {
-      principal: "\"Posso dizer que hoje, dia 3 de maio de 2018, o ETA deixou de existir\". Palavras do diretor do Centro para o Diálogo Humanitário, em Genebra, na Suíça, que leu a carta confirmando o fim do grupo, considerado uma organização terrorista pela União Europeia. O texto afirma que as atividades políticas do ETA foram encerradas.\n(http://g_{1}.globo.com, 03.05.2018. Adaptado.)\nCom ações que ganharam repercussão internacional, o ETA correspondeu a um grupo",
+      principal: "\"Posso dizer que hoje, dia 3 de maio de 2018, o ETA deixou de existir\". Palavras do diretor do Centro para o Diálogo Humanitário, em Genebra, na Suíça, que leu a carta confirmando o fim do grupo, considerado uma organização terrorista pela União Europeia. O texto afirma que as atividades políticas do ETA foram encerradas.\n(http://$g_{1}$.globo.com, 03.05.2018. Adaptado.)\nCom ações que ganharam repercussão internacional, o ETA correspondeu a um grupo",
       subItens: []
     },
     options: ["separatista, que reivindicava a independência do País Basco.","colonialista, que intervinha em territórios israelenses.","eurocêntrico, que defendia a Europa como mandatária da ONU.","monarquista, que legitimava instituições do poder real britânico.","teocrático, que propunha o fim do Estado Irlandês laico."],

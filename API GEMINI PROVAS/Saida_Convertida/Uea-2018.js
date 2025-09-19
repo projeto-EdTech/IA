@@ -408,7 +408,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2018,
     text: {
-      principal: "Na década de $\\\\frac{70}{80}$, época da luta pela \"territorialidade seringueira\", as tensões sociais fizeram com que trabalhadores rurais do Acre se organizassem em defesa de seus interesses. Foi um movimento contra injustiças sociais, como assassinatos e expulsão de milhares de pessoas de suas terras. Foram nesses grupos organizados em sindicatos rurais de Xapuri e Brasileia que surgiram lideranças como Wilson Pinheiro e Chico Mendes. O movimento dos seringueiros possibilitou o aumento de áreas protegidas do Acre.\n\n(http://redeglobo.globo.com. Adaptado.)\n\nA área de proteção surgida no contexto abordado no excerto é",
+      principal: "Na década de 70/80, época da luta pela \"territorialidade seringueira\", as tensões sociais fizeram com que trabalhadores rurais do Acre se organizassem em defesa de seus interesses. Foi um movimento contra injustiças sociais, como assassinatos e expulsão de milhares de pessoas de suas terras. Foram nesses grupos organizados em sindicatos rurais de Xapuri e Brasileia que surgiram lideranças como Wilson Pinheiro e Chico Mendes. O movimento dos seringueiros possibilitou o aumento de áreas protegidas do Acre.\n\n(http://redeglobo.globo.com. Adaptado.)\n\nA área de proteção surgida no contexto abordado no excerto é",
       subItens: []
     },
     options: ["a reserva extrativista, criada para a proteção dos meios de vida e da cultura de populações tradicionais.","a estação ecológica, criada para a realização de pesquisas e promoção da educação conservacionista.","a reserva biológica, criada para a recuperação de ecossistemas alterados e para ações de manejo pela população local.","a reserva particular, criada para o desenvolvimento de atividades de ecoturismo e de educação ambiental.","a floresta nacional, criada para a conservação das espécies nativas e a exploração sustentável dos recursos florestais."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2018,
     text: {
-      principal: "Em um experimento, uma célula animal, rica em mitocôndrias, foi mantida em um meio com condições ideais para a realização da respiração celular. Após certo período, adicionou-se ao meio uma substância X, que bloqueia a ação dos citocromos no transporte de elétrons na cadeia respiratória que ocorre no interior das mitocôndrias. Sabendo que M indica o momento em que a substância X foi adicionada, assinale a alternativa que representa a variação no consumo de gás oxigênio durante o experimento.\n\n[Gráficos A, B, C, D, E mostrando o consumo de gás O_{2} (eixo y) em função do tempo (eixo x), com um ponto M indicando a adição da substância X.]",
+      principal: "Em um experimento, uma célula animal, rica em mitocôndrias, foi mantida em um meio com condições ideais para a realização da respiração celular. Após certo período, adicionou-se ao meio uma substância X, que bloqueia a ação dos citocromos no transporte de elétrons na cadeia respiratória que ocorre no interior das mitocôndrias. Sabendo que M indica o momento em que a substância X foi adicionada, assinale a alternativa que representa a variação no consumo de gás oxigênio durante o experimento.\n\n[Gráficos A, B, C, D, E mostrando o consumo de gás $O_{2}$ (eixo y) em função do tempo (eixo x), com um ponto M indicando a adição da substância X.]",
       subItens: []
     },
     options: ["Gráfico A: Consumo de O2 alto e constante, queda brusca em M, e depois zero.","Gráfico B: Consumo de O2 alto e constante, queda gradual em M, e depois zero.","Gráfico C: Consumo de O2 baixo e constante, aumento em M, depois constante.","Gráfico D: Consumo de O2 alto e constante, queda em M, depois estabiliza em um nível baixo mas acima de zero.","Gráfico E: Consumo de O2 alto e constante, queda em M, depois volta a subir."],
@@ -663,7 +663,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2018,
     text: {
-      principal: "Em testes de resistência a quedas, controles remotos são soltos em queda livre, contra um piso de concreto, a 1,8 m de altura. Considerando desprezível a resistência do ar e sendo a aceleração da gravidade 10 $\\\\frac{m}{s}$², o módulo da velocidade com que o controle remoto toca o chão é",
+      principal: "Em testes de resistência a quedas, controles remotos são soltos em queda livre, contra um piso de concreto, a 1,8 m de altura. Considerando desprezível a resistência do ar e sendo a aceleração da gravidade 10 m/s², o módulo da velocidade com que o controle remoto toca o chão é",
       subItens: []
     },
     options: ["2 m/s.","3 m/s.","4 m/s.","6 m/s.","8 m/s."],
@@ -738,7 +738,7 @@ createQuestion({
     university: "PROVA DE ACOMPANHAMENTO I",
     year: 2018,
     text: {
-      principal: "A caixa preta de aviões é um dispositivo gravador de dados que ajuda na compreensão dos fatores que conduziram o avião ao acidente. Esses dispositivos podem resistir a acelerações de 33 $\\\\frac{km}{s}$².\n\nEm relação ao valor 9,8 $\\\\frac{m}{s}$², que corresponde ao valor da aceleração da gravidade, a aceleração que uma caixa preta pode suportar é, aproximadamente,",
+      principal: "A caixa preta de aviões é um dispositivo gravador de dados que ajuda na compreensão dos fatores que conduziram o avião ao acidente. Esses dispositivos podem resistir a acelerações de 33 km/s².\n\nEm relação ao valor 9,8 m/s², que corresponde ao valor da aceleração da gravidade, a aceleração que uma caixa preta pode suportar é, aproximadamente,",
       subItens: []
     },
     options: ["2500 vezes maior.","3400 vezes maior.","4600 vezes maior.","7200 vezes maior.","9166 vezes maior."],

@@ -348,7 +348,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "Para combater a subnutrição infantil, foi desenvolvida uma mistura alimentícia composta por três tipos de suplementos alimentares: I, II e III. Esses suplementos, por sua vez, contêm diferentes concentrações de três nutrientes: A, B e C. Observe as tabelas a seguir, que indicam a concentração de nutrientes nos suplementos e a porcentagem de suplementos na mistura, respectivamente.\nConcentração dos Suplementos Alimentares ($\\\\frac{g}{kg}$)\nNutriente I II III\nA 0,2 0,5 0,4\nB 0,3 0,4 0,1\nC 0,1 0,4 0,5\nSuplemento Alimentar Quantidade na Mistura (%)\nI 45\nII 25\nIII 30\nA quantidade do nutriente C, em $\\\\frac{g}{kg}$, encontrada na mistura alimentícia é igual a:",
+      principal: "Para combater a subnutrição infantil, foi desenvolvida uma mistura alimentícia composta por três tipos de suplementos alimentares: I, II e III. Esses suplementos, por sua vez, contêm diferentes concentrações de três nutrientes: A, B e C. Observe as tabelas a seguir, que indicam a concentração de nutrientes nos suplementos e a porcentagem de suplementos na mistura, respectivamente.\nConcentração dos Suplementos Alimentares (g/kg)\nNutriente I II III\nA 0,2 0,5 0,4\nB 0,3 0,4 0,1\nC 0,1 0,4 0,5\nSuplemento Alimentar Quantidade na Mistura (%)\nI 45\nII 25\nIII 30\nA quantidade do nutriente C, em g/kg, encontrada na mistura alimentícia é igual a:",
       subItens: []
     },
     options: ["0,235","0,265","0,275","0,295"],
@@ -468,7 +468,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "Com base nas informações apresentadas no texto, a velocidade média de deslocamento da lama, do local onde ocorreu o rompimento da barragem até atingir o mar, em $\\\\frac{km}{h}$, corresponde a:",
+      principal: "Com base nas informações apresentadas no texto, a velocidade média de deslocamento da lama, do local onde ocorreu o rompimento da barragem até atingir o mar, em km/h, corresponde a:",
       subItens: []
     },
     options: ["1,6","2,1","3,8","4,6"],
@@ -528,7 +528,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "Admita que a distância entre os eletrodos de um campo elétrico é de 20 cm e que a diferença de potencial efetiva aplicada ao circuito é de 6 V. Nesse caso, a intensidade do campo elétrico, em $\\\\frac{V}{m}$, equivale a:",
+      principal: "Admita que a distância entre os eletrodos de um campo elétrico é de 20 cm e que a diferença de potencial efetiva aplicada ao circuito é de 6 V. Nesse caso, a intensidade do campo elétrico, em V/m, equivale a:",
       subItens: []
     },
     options: ["40","30","20","10"],
@@ -543,7 +543,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "Na análise de uma amostra da água de um reservatório, verificou-se a presença de dois contaminantes, nas seguintes concentrações:\nContaminante Concentração ($\\\\frac{mg}{L}$)\nbenzeno 0,39\nmetanal 0,40\nEm análises químicas, o carbono orgânico total é uma grandeza que expressa a concentração de carbono de origem orgânica em uma amostra.\nAssim, com base nos dados da tabela, a concentração de carbono orgânico total na amostra de água examinada, em $\\\\frac{mg}{L}$, é igual a:",
+      principal: "Na análise de uma amostra da água de um reservatório, verificou-se a presença de dois contaminantes, nas seguintes concentrações:\nContaminante Concentração (mg/L)\nbenzeno 0,39\nmetanal 0,40\nEm análises químicas, o carbono orgânico total é uma grandeza que expressa a concentração de carbono de origem orgânica em uma amostra.\nAssim, com base nos dados da tabela, a concentração de carbono orgânico total na amostra de água examinada, em mg/L, é igual a:",
       subItens: []
     },
     options: ["0,16","0,36","0,52","0,72"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "Duas carretas idênticas, A e B, trafegam com velocidade de 50 $\\\\frac{km}{h}$ e 70 $\\\\frac{km}{h}$, respectivamente. Admita que as massas dos motoristas e dos combustíveis são desprezíveis e que Eᴀ é a energia cinética da carreta A e Eʙ a da carreta B.\nA razão Eᴀ/Eʙ equivale a:",
+      principal: "Duas carretas idênticas, A e B, trafegam com velocidade de 50 km/h e 70 km/h, respectivamente. Admita que as massas dos motoristas e dos combustíveis são desprezíveis e que Eᴀ é a energia cinética da carreta A e Eʙ a da carreta B.\nA razão Eᴀ/Eʙ equivale a:",
       subItens: []
     },
     options: ["5/7","8/14","25/49","30/28"],
@@ -678,7 +678,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "HÁ DINAMITE DE PAVIO ACESO NO ORÇAMENTO O ponto central, que já deveria ser tema de um amplo debate no Congresso, no Executivo e fora deles, é que a crise fiscal implodiu os alicerces da Constituição de 1988. A ideia de um Estado que seria capaz de eliminar a miséria, reduzir a pobreza e ainda fornecer serviços básicos como saúde e educação com eficiência faliu. Aceite-se ou não.\nO Globo, $\\\\frac{13}{12}$/2015.\nDe acordo com a reportagem, o modelo político de Estado que estaria inviabilizado no atual contexto brasileiro é denominado:",
+      principal: "HÁ DINAMITE DE PAVIO ACESO NO ORÇAMENTO O ponto central, que já deveria ser tema de um amplo debate no Congresso, no Executivo e fora deles, é que a crise fiscal implodiu os alicerces da Constituição de 1988. A ideia de um Estado que seria capaz de eliminar a miséria, reduzir a pobreza e ainda fornecer serviços básicos como saúde e educação com eficiência faliu. Aceite-se ou não.\nO Globo, 13/12/2015.\nDe acordo com a reportagem, o modelo político de Estado que estaria inviabilizado no atual contexto brasileiro é denominado:",
       subItens: []
     },
     options: ["bem-estar social","liberal-federativo","democrático-nacionalista","unitário-desenvolvimentista"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "Antecipando-nos à derrocada das forças subversivas, acionadas por dispositivos governamentais, que visavam à destruição do primado da democracia e à implantação de um regime totalitário, tivemos a lucidez e o patriotismo de alertar os poderes constituídos da República para a defesa da ordem jurídica e da Constituição, tão seriamente ameaçadas. Podemos hoje, erradicado o mal das conjuras comuno-sindicalistas, proclamar que a sobrevivência da Nação Brasileira se processou sob a égide intocável do Estado de Direito.\nAdaptado de Ata da Reunião Ordinária do Conselho Federal da Ordem dos Advogados do Brasil - OAB, $\\\\frac{07}{04}$/1964.\nO apoio da Ordem dos Advogados do Brasil à deposição do presidente João Goulart (1961-1964), como indicado no texto, insere-se no contexto de intensas polarizações de opiniões entre partidos e associações.\nEssas polarizações expressavam posicionamentos distintos acerca da seguinte proposta do governo João Goulart:",
+      principal: "Antecipando-nos à derrocada das forças subversivas, acionadas por dispositivos governamentais, que visavam à destruição do primado da democracia e à implantação de um regime totalitário, tivemos a lucidez e o patriotismo de alertar os poderes constituídos da República para a defesa da ordem jurídica e da Constituição, tão seriamente ameaçadas. Podemos hoje, erradicado o mal das conjuras comuno-sindicalistas, proclamar que a sobrevivência da Nação Brasileira se processou sob a égide intocável do Estado de Direito.\nAdaptado de Ata da Reunião Ordinária do Conselho Federal da Ordem dos Advogados do Brasil - OAB, 07/04/1964.\nO apoio da Ordem dos Advogados do Brasil à deposição do presidente João Goulart (1961-1964), como indicado no texto, insere-se no contexto de intensas polarizações de opiniões entre partidos e associações.\nEssas polarizações expressavam posicionamentos distintos acerca da seguinte proposta do governo João Goulart:",
       subItens: []
     },
     options: ["implementação das reformas de base","política de desvalorização monetária","cerceamento da liberdade de imprensa","controle orçamentário dos poderes estaduais"],
@@ -813,7 +813,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "O governo chinês anunciou, nesta quinta-feira, que decidiu pôr fim à política do filho único. Por mais de três décadas, impediu-se que casais tivessem mais de uma criança, o que causou impacto na sociedade e na economia do país. Segundo a agência de notícias estatal Xinhua, o Partido Comunista determinou que, agora, os casais poderão ter dois filhos.\nAdaptado de bbc.com, $\\\\frac{29}{10}$/2015.\nA principal justificativa para a decisão do governo chinês está apontada em:",
+      principal: "O governo chinês anunciou, nesta quinta-feira, que decidiu pôr fim à política do filho único. Por mais de três décadas, impediu-se que casais tivessem mais de uma criança, o que causou impacto na sociedade e na economia do país. Segundo a agência de notícias estatal Xinhua, o Partido Comunista determinou que, agora, os casais poderão ter dois filhos.\nAdaptado de bbc.com, 29/10/2015.\nA principal justificativa para a decisão do governo chinês está apontada em:",
       subItens: []
     },
     options: ["ampliar o poder de consumo do mercado","reduzir o custo da mão de obra da indústria","viabilizar a proposta de democratização do estado","retardar o processo de envelhecimento da população"],
@@ -828,7 +828,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "Os refugiados são pessoas que escaparam de conflitos armados ou perseguições. Com frequência, sua situação é tão perigosa e intolerável que devem cruzar fronteiras internacionais para buscar segurança nos países mais próximos e então se tornar um \"refugiado\" reconhecido internacionalmente, com acesso à assistência dos Estados, da ACNUR (Agência da ONU para Refugiados) e de outras organizações.\nADRIAN EDWARDS\nAdaptado de acnur.org, $\\\\frac{outubro}{2015}$.\nO conceito de refugiado, apresentado no texto, está diretamente associado aos problemas políticos e econômicos que afetam diversos países na atualidade.\nNos últimos anos, a região de origem que tem contribuído com o maior número de refugiados em direção a países da União Europeia é:",
+      principal: "Os refugiados são pessoas que escaparam de conflitos armados ou perseguições. Com frequência, sua situação é tão perigosa e intolerável que devem cruzar fronteiras internacionais para buscar segurança nos países mais próximos e então se tornar um \"refugiado\" reconhecido internacionalmente, com acesso à assistência dos Estados, da ACNUR (Agência da ONU para Refugiados) e de outras organizações.\nADRIAN EDWARDS\nAdaptado de acnur.org, outubro/2015.\nO conceito de refugiado, apresentado no texto, está diretamente associado aos problemas políticos e econômicos que afetam diversos países na atualidade.\nNos últimos anos, a região de origem que tem contribuído com o maior número de refugiados em direção a países da União Europeia é:",
       subItens: []
     },
     options: ["Leste Europeu","Oriente Médio","Extremo Oriente","Península Balcânica"],
@@ -843,7 +843,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "Se há apenas cinco ou dez anos dissessem a alguém em Cuba que um presidente norte-americano visitaria a Ilha, a resposta seria um sorriso irônico; mas se fosse mencionada a possibilidade de ver os Rolling Stones tocando em Havana, a reação teria sido uma gargalhada ou um grito, se a pessoa assim informada tivesse seus 60 ou 70 anos de vida. Porque aqueles que fomos jovens em Cuba na década de 1960 dificilmente esqueceremos as críticas políticas quando confessávamos ouvir os Beatles ou os Stones. Quem poderia ter previsto? Definitivamente, os tempos estão mudando.\nLEONARDO PADURA\nAdaptado de Folha de S. Paulo, $\\\\frac{12}{03}$/2016.\nAs considerações do escritor sobre a sociedade cubana indicam que, na década de 1960 e no momento atual, as diferenças entre as condições de vida são contextualizadas, respectivamente, pelos seguintes aspectos das relações internacionais:",
+      principal: "Se há apenas cinco ou dez anos dissessem a alguém em Cuba que um presidente norte-americano visitaria a Ilha, a resposta seria um sorriso irônico; mas se fosse mencionada a possibilidade de ver os Rolling Stones tocando em Havana, a reação teria sido uma gargalhada ou um grito, se a pessoa assim informada tivesse seus 60 ou 70 anos de vida. Porque aqueles que fomos jovens em Cuba na década de 1960 dificilmente esqueceremos as críticas políticas quando confessávamos ouvir os Beatles ou os Stones. Quem poderia ter previsto? Definitivamente, os tempos estão mudando.\nLEONARDO PADURA\nAdaptado de Folha de S. Paulo, 12/03/2016.\nAs considerações do escritor sobre a sociedade cubana indicam que, na década de 1960 e no momento atual, as diferenças entre as condições de vida são contextualizadas, respectivamente, pelos seguintes aspectos das relações internacionais:",
       subItens: []
     },
     options: ["expansão mundial de regimes totalitários – supremacia das concepções neoliberais","crescimento da influência global soviética – afirmação da hegemonia norte-americana","bipolaridade entre capitalismo e socialismo – multipolaridade da ordem econômica","política externa independente na América Latina – integração das nações subdesenvolvidas"],
@@ -873,7 +873,7 @@ createQuestion({
     university: "1º Exame de Qualificação",
     year: 2017,
     text: {
-      principal: "O primeiro-ministro britânico David Cameron anunciou que o plebiscito que decidirá a permanência do Reino Unido na União Europeia ocorrerá no dia 23 de junho de 2016. Cameron liberou seus ministros para defenderem tanto a continuação quanto a saída dos britânicos.\nAdaptado de bbc.com, $\\\\frac{20}{02}$/2016.\nA consulta popular mencionada configura uma escolha difícil para os cidadãos do Reino Unido em virtude da variedade e complexidade dos argumentos favoráveis e contrários em disputa.\nUm argumento decisivo para que uma parcela dos britânicos aprove a saída do Reino Unido do bloco europeu remete à retomada da plena autonomia nacional no seguinte campo:",
+      principal: "O primeiro-ministro britânico David Cameron anunciou que o plebiscito que decidirá a permanência do Reino Unido na União Europeia ocorrerá no dia 23 de junho de 2016. Cameron liberou seus ministros para defenderem tanto a continuação quanto a saída dos britânicos.\nAdaptado de bbc.com, 20/02/2016.\nA consulta popular mencionada configura uma escolha difícil para os cidadãos do Reino Unido em virtude da variedade e complexidade dos argumentos favoráveis e contrários em disputa.\nUm argumento decisivo para que uma parcela dos britânicos aprove a saída do Reino Unido do bloco europeu remete à retomada da plena autonomia nacional no seguinte campo:",
       subItens: []
     },
     options: ["sistema militar","ação diplomática","gestão monetária","controle migratório"],

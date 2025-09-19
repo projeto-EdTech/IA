@@ -408,7 +408,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2020,
     text: {
-      principal: "Os números inteiros x e y satisfazem às seguintes equações:\n2x + ($\\\\frac{3}{5}$)y = 37\nx - y = 30\nLogo, x + y é igual a:",
+      principal: "Os números inteiros x e y satisfazem às seguintes equações:\n2x + (3/5)y = 37\nx - y = 30\nLogo, x + y é igual a:",
       subItens: []
     },
     options: ["80","85","90","95"],
@@ -513,7 +513,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2020,
     text: {
-      principal: "A produção e a transmissão do impulso nervoso nos neurônios têm origem no mecanismo da bomba de sódio-potássio. Esse mecanismo é responsável pelo transporte de íons Na⁺ para o meio extracelular e K⁺ para o interior da célula, gerando o sinal elétrico. A ilustração abaixo representa esse processo.\n(Image: cell membrane showing Na^+$ and K+ movement)\nPara um estudo sobre transmissão de impulsos nervosos pela bomba de sódio-potássio, preparou-se uma mistura contendo os cátions Na⁺ e K⁺, formada pelas soluções aquosas A e B com solutos diferentes. Considere a tabela a seguir:\nSOLUÇÃO | VOLUME (mL) | SOLUTO | CONCENTRAÇÃO ($\\\\frac{mol}{L}$)\nA | 400 | KCl | 0,1\nB | 600 | NaCl | 0,2\nAdmitindo a completa dissociação dos solutos, a concentração de íons cloreto na mistura, em $\\\\frac{mol}{L}$, corresponde a:",
+      principal: "A produção e a transmissão do impulso nervoso nos neurônios têm origem no mecanismo da bomba de sódio-potássio. Esse mecanismo é responsável pelo transporte de íons Na⁺ para o meio extracelular e K⁺ para o interior da célula, gerando o sinal elétrico. A ilustração abaixo representa esse processo.\n(Image: cell membrane showing Na+ and K+ movement)\nPara um estudo sobre transmissão de impulsos nervosos pela bomba de sódio-potássio, preparou-se uma mistura contendo os cátions Na⁺ e K⁺, formada pelas soluções aquosas A e B com solutos diferentes. Considere a tabela a seguir:\nSOLUÇÃO | VOLUME (mL) | SOLUTO | CONCENTRAÇÃO (mol/L)\nA | 400 | KCl | 0,1\nB | 600 | NaCl | 0,2\nAdmitindo a completa dissociação dos solutos, a concentração de íons cloreto na mistura, em mol/L, corresponde a:",
       subItens: []
     },
     options: ["0,04","0,08","0,12","0,16"],
@@ -558,7 +558,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2020,
     text: {
-      principal: "O gráfico abaixo indica a variação da aceleração a de um corpo, inicialmente em repouso, e da força F que atua sobre ele.\n(Graph: F (N) vs a ($\\\\frac{m}{s}$²), showing a linear relationship from (0,0) through (2,6) and (4,12))\nQuando a velocidade do corpo é de 10 $\\\\frac{m}{s}$, sua quantidade de movimento, em kg × $\\\\frac{m}{s}$, corresponde a:",
+      principal: "O gráfico abaixo indica a variação da aceleração a de um corpo, inicialmente em repouso, e da força F que atua sobre ele.\n(Graph: F (N) vs a (m/s²), showing a linear relationship from (0,0) through (2,6) and (4,12))\nQuando a velocidade do corpo é de 10 m/s, sua quantidade de movimento, em kg × m/s, corresponde a:",
       subItens: []
     },
     options: ["50","30","25","15"],
@@ -603,7 +603,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2020,
     text: {
-      principal: "A hemoglobina glicada é um parâmetro de análise sanguínea que expressa a quantidade de glicose ligada às moléculas de hemoglobina. Essa ligação ocorre por meio da reação representada a seguir:\n(Image: Chemical reaction of glucose + hemoglobin reacting to form glycated hemoglobin + H_{2}O, showing detailed structures of glucose and glycated hemoglobin)\nO grupamento funcional da molécula de glicose que reage com a hemoglobina corresponde à função orgânica denominada:",
+      principal: "A hemoglobina glicada é um parâmetro de análise sanguínea que expressa a quantidade de glicose ligada às moléculas de hemoglobina. Essa ligação ocorre por meio da reação representada a seguir:\n(Image: Chemical reaction of glucose + hemoglobin reacting to form glycated hemoglobin + H2O, showing detailed structures of glucose and glycated hemoglobin)\nO grupamento funcional da molécula de glicose que reage com a hemoglobina corresponde à função orgânica denominada:",
       subItens: []
     },
     options: ["amina","álcool","cetona","aldeído"],
@@ -633,7 +633,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2020,
     text: {
-      principal: "Para aquecer a quantidade de massa m de uma substância, foram consumidas 1450 calorias.\nA variação de seu calor específico c, em função da temperatura θ, está indicada no gráfico.\n(Graph: c ($\\\\frac{cal}{g}$°C) vs. θ (°C), showing c is 0.20 $\\\\frac{cal}{g}$°C between 20°C and 60°C)\nO valor de m, em gramas, equivale a:",
+      principal: "Para aquecer a quantidade de massa m de uma substância, foram consumidas 1450 calorias.\nA variação de seu calor específico c, em função da temperatura θ, está indicada no gráfico.\n(Graph: c (cal/g°C) vs. θ (°C), showing c is 0.20 cal/g°C between 20°C and 60°C)\nO valor de m, em gramas, equivale a:",
       subItens: []
     },
     options: ["50","100","150","300"],
@@ -708,7 +708,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2020,
     text: {
-      principal: "O BRASIL SOB A LAMA\nO Brasil viveu, na última semana, um pesadelo. O país ainda chora os 110 mortos e mais de 200 desaparecidos deixados pela avalanche de lama da sexta-feira passada, dia 25 de janeiro, em Brumadinho (MG), causada pelo rompimento de uma barragem de rejeitos da mineradora Vale. A tragédia tem um precedente muito próximo, também no Estado de Minas Gerais, em Mariana. Em 5 de novembro de 2015, o rompimento de duas paredes de contenção na represa da Samarco matou 19 pessoas e deixou um irreparável rastro de destruição ambiental.\nÉ assombroso constatar que, mais de três anos depois, o Brasil continua debatendo sobre os mesmos problemas que ocasionaram a primeira tragédia. Mais ainda, que durante todo este tempo nada tenha sido feito para melhorar a segurança de tais instalações. É terrível também ver como uma parte da sociedade continua demonizando a fiscalização ambiental e militando em uma dicotomia cega e antiquada entre preservação e desenvolvimento econômico.\nAdaptado de brasil.elpais.com, $\\\\frac{01}{02}$/2019.\nNÃO HÁ DESENVOLVIMENTO SEM PROTEÇÃO AMBIENTAL\nO desastre de Brumadinho é uma boa oportunidade para refletir sobre uma visão muito disseminada no Brasil de que a proteção ambiental é um entrave ao desenvolvimento. Muitos acreditam que devemos desenhar políticas econômicas sem analisar suas consequências ambientais. Isso está profundamente equivocado. Os livros de economia das melhores universidades do mundo já não falam mais de crescimento sem considerar os seus impactos ambientais, que no passado eram tratados como simples “externalidades”.\nNa visão antiga, qualquer forma de extrair minério é boa porque faz a economia crescer. Não entra nessa perspectiva a análise do custo das vidas e da degradação ambiental decorrente de desastres como os de Brumadinho ou Mariana. Se os órgãos ambientais tivessem exigido maiores investimentos da Vale na segurança das barragens antes de conceder a licença, isso teria sido visto como um “entrave ambiental”.\nVIRGÍLIO VIANA\nAdaptado de brasil.elpais.com, $\\\\frac{16}{03}$/2019.\nNos textos são apresentados alguns dos significados dos desastres humanos e ambientais causados pelo rompimento de barragens de rejeitos de mineração em Mariana e Brumadinho.\nOs desastres mencionados indicam a permanência do seguinte critério na relação entre desenvolvimento econômico e preservação ambiental:",
+      principal: "O BRASIL SOB A LAMA\nO Brasil viveu, na última semana, um pesadelo. O país ainda chora os 110 mortos e mais de 200 desaparecidos deixados pela avalanche de lama da sexta-feira passada, dia 25 de janeiro, em Brumadinho (MG), causada pelo rompimento de uma barragem de rejeitos da mineradora Vale. A tragédia tem um precedente muito próximo, também no Estado de Minas Gerais, em Mariana. Em 5 de novembro de 2015, o rompimento de duas paredes de contenção na represa da Samarco matou 19 pessoas e deixou um irreparável rastro de destruição ambiental.\nÉ assombroso constatar que, mais de três anos depois, o Brasil continua debatendo sobre os mesmos problemas que ocasionaram a primeira tragédia. Mais ainda, que durante todo este tempo nada tenha sido feito para melhorar a segurança de tais instalações. É terrível também ver como uma parte da sociedade continua demonizando a fiscalização ambiental e militando em uma dicotomia cega e antiquada entre preservação e desenvolvimento econômico.\nAdaptado de brasil.elpais.com, 01/02/2019.\nNÃO HÁ DESENVOLVIMENTO SEM PROTEÇÃO AMBIENTAL\nO desastre de Brumadinho é uma boa oportunidade para refletir sobre uma visão muito disseminada no Brasil de que a proteção ambiental é um entrave ao desenvolvimento. Muitos acreditam que devemos desenhar políticas econômicas sem analisar suas consequências ambientais. Isso está profundamente equivocado. Os livros de economia das melhores universidades do mundo já não falam mais de crescimento sem considerar os seus impactos ambientais, que no passado eram tratados como simples “externalidades”.\nNa visão antiga, qualquer forma de extrair minério é boa porque faz a economia crescer. Não entra nessa perspectiva a análise do custo das vidas e da degradação ambiental decorrente de desastres como os de Brumadinho ou Mariana. Se os órgãos ambientais tivessem exigido maiores investimentos da Vale na segurança das barragens antes de conceder a licença, isso teria sido visto como um “entrave ambiental”.\nVIRGÍLIO VIANA\nAdaptado de brasil.elpais.com, 16/03/2019.\nNos textos são apresentados alguns dos significados dos desastres humanos e ambientais causados pelo rompimento de barragens de rejeitos de mineração em Mariana e Brumadinho.\nOs desastres mencionados indicam a permanência do seguinte critério na relação entre desenvolvimento econômico e preservação ambiental:",
       subItens: []
     },
     options: ["valorização da ocupação laboral","primazia da acumulação capitalista","racionalização da produção industrial","retomada da desregulamentação estatal"],
@@ -723,7 +723,7 @@ createQuestion({
     university: "2º EXAME DE QUALIFICAÇÃO",
     year: 2020,
     text: {
-      principal: "AMEAÇA DOS MÍSSEIS DA COREIA DO NORTE\n(Map 1: Missile ranges for Nodong and Taepodong-$\\\\frac{1}{2}$, showing limited reach to US. Map 2: Corrected missile ranges, showing full reach to US)\nOs mapas acima, publicados em momentos distintos pela revista The Economist, representam o alcance calculado para os mísseis balísticos da Coreia do Norte. No mapa 1, de $\\\\frac{03}{05}$/2003, os mísseis não atingem plenamente o espaço continental dos Estados Unidos. O mapa 2, publicado alguns dias depois, corrige essa informação, revelando a efetiva vulnerabilidade de todo o território estadunidense àqueles artefatos militares.\nA correção das informações do mapa 1 decorre da seguinte característica desse tipo de representação da superfície terrestre:",
+      principal: "AMEAÇA DOS MÍSSEIS DA COREIA DO NORTE\n(Map 1: Missile ranges for Nodong and Taepodong-1/2, showing limited reach to US. Map 2: Corrected missile ranges, showing full reach to US)\nOs mapas acima, publicados em momentos distintos pela revista The Economist, representam o alcance calculado para os mísseis balísticos da Coreia do Norte. No mapa 1, de 03/05/2003, os mísseis não atingem plenamente o espaço continental dos Estados Unidos. O mapa 2, publicado alguns dias depois, corrige essa informação, revelando a efetiva vulnerabilidade de todo o território estadunidense àqueles artefatos militares.\nA correção das informações do mapa 1 decorre da seguinte característica desse tipo de representação da superfície terrestre:",
       subItens: []
     },
     options: ["deformações resultantes da projeção utilizada","generalizações derivadas da simbologia gráfica","imprecisões decorrentes da tecnologia disponível","manipulações originadas da orientação ideológica"],

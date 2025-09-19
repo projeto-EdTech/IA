@@ -423,7 +423,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Foi realizado um cruzamento entre uma planta de genótipo AAbb com uma planta de genótipo aaBB, e o descendente diíbrido F_{1} foi submetido a um cruzamento-teste. O resultado desse cruzamento-teste gerou uma prole constituída de 120 indivíduos com genótipo AaBb, 120 indivíduos com genótipo aabb, 880 indivíduos com genótipo Aabb e 880 indivíduos com genótipo aaBb. Diante desse resultado, afirma-se que",
+      principal: "Foi realizado um cruzamento entre uma planta de genótipo AAbb com uma planta de genótipo aaBB, e o descendente diíbrido $F_{1}$ foi submetido a um cruzamento-teste. O resultado desse cruzamento-teste gerou uma prole constituída de 120 indivíduos com genótipo AaBb, 120 indivíduos com genótipo aabb, 880 indivíduos com genótipo Aabb e 880 indivíduos com genótipo aaBb. Diante desse resultado, afirma-se que",
       subItens: []
     },
     options: ["o diíbrido F1 produziu os gametas AB e ab por mutação.","o diíbrido F1 produziu gametas AB na frequência de 6%.","o diíbrido F1 tem os genes na posição cis.","o diíbrido da prole produz gametas aB na frequência de 60%.","o diíbrido da prole tem os genes na posição trans."],
@@ -468,7 +468,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Para a realização de testes laboratoriais foram preparados 4 tubos de ensaio com os conteúdos indicados na tabela. Tubo de Ensaio Volume de água adicionado a 20 °C (mL) Massa de K₂Cr₂O₇ adicionada(g) 1 20 1,0 2 20 3,0 3 20 5,0 4 20 7,0 Sabendo que a solubilidade do sal K₂Cr₂O₇ é igual a 12,5 $\\\\frac{g}{100}$ mL de água a 20 °C, após o conteúdo de cada tubo ter sido homogeneizado e colocado em repouso, observou-se que",
+      principal: "Para a realização de testes laboratoriais foram preparados 4 tubos de ensaio com os conteúdos indicados na tabela. Tubo de Ensaio Volume de água adicionado a 20 °C (mL) Massa de K₂Cr₂O₇ adicionada(g) 1 20 1,0 2 20 3,0 3 20 5,0 4 20 7,0 Sabendo que a solubilidade do sal K₂Cr₂O₇ é igual a 12,5 g/100 mL de água a 20 °C, após o conteúdo de cada tubo ter sido homogeneizado e colocado em repouso, observou-se que",
       subItens: []
     },
     options: ["apenas os tubos 1 e 2 apresentaram corpos de fundo.","todos os tubos apresentaram corpos de fundo.","apenas os tubos 2, 3 e 4 apresentaram corpos de fundo.","apenas os tubos 3 e 4 apresentaram corpos de fundo.","apenas o tubo 1 apresentou corpo de fundo."],
@@ -483,7 +483,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Leia o texto para responder às questões de 33 a 35. Em 2022, a Real Academia Sueca de Ciências concedeu a Carolyn R. Bertozzi, Morten Meldal e K. Barry Sharpless o Prêmio Nobel de Química, pelo desenvolvimento da chamada click chemistry (química de cliques) e da química bioortogonal. De modo geral, por meio de uma reação denominada cicloadição de azida-alcino catalisada por cobre, os químicos podem unir duas moléculas diferentes, com relativa facilidade, a partir de um grupo azida (R-N_{3}) em uma molécula e um grupo alcino (R'-=) na outra com a ajuda de íons de cobre(I), em que Re R' são grupos diversos. As reações de clique facilitaram de forma fantástica a produção de novos materiais adequados a diversas finalidades. Na reação de clique, considerada padrão, representada pela equação a seguir, duas moléculas com anéis aromáticos são unidas com grande eficiência, combinada com a robustez e a facilidade de operação. CuSO₄·5H₂O Na-ascorbato N₃+ H₂$\\\\frac{O}{BUOH}$ N=N 25 °C (www.nobelprize.org. Adaptado.) Nessa reação de clique a espécie ativa de cobre (CuI) revelou-se um notável catalisador que acelera a reação de cicloadição em até 10⁷ vezes. Com relação aos íons cobre(I), afirma-se que",
+      principal: "Leia o texto para responder às questões de 33 a 35. Em 2022, a Real Academia Sueca de Ciências concedeu a Carolyn R. Bertozzi, Morten Meldal e K. Barry Sharpless o Prêmio Nobel de Química, pelo desenvolvimento da chamada click chemistry (química de cliques) e da química bioortogonal. De modo geral, por meio de uma reação denominada cicloadição de azida-alcino catalisada por cobre, os químicos podem unir duas moléculas diferentes, com relativa facilidade, a partir de um grupo azida (R-$N_{3}$) em uma molécula e um grupo alcino (R'-=) na outra com a ajuda de íons de cobre(I), em que Re R' são grupos diversos. As reações de clique facilitaram de forma fantástica a produção de novos materiais adequados a diversas finalidades. Na reação de clique, considerada padrão, representada pela equação a seguir, duas moléculas com anéis aromáticos são unidas com grande eficiência, combinada com a robustez e a facilidade de operação. CuSO₄·5H₂O Na-ascorbato N₃+ H₂O/BUOH N=N 25 °C (www.nobelprize.org. Adaptado.) Nessa reação de clique a espécie ativa de cobre (CuI) revelou-se um notável catalisador que acelera a reação de cicloadição em até 10⁷ vezes. Com relação aos íons cobre(I), afirma-se que",
       subItens: []
     },
     options: ["ocasionam a diminuição da entalpia de reação.","sua presença mantém inalterada a energia de ativação da reação.","atuam como reagente limitante da reação.","sua concentração permanece inalterada ao final da reação.","são consumidos durante a reação."],
@@ -558,7 +558,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Uma nebulosa planetária é uma nuvem composta de hidrogênio, com uma densidade muito baixa, de modo que esse gás pode ser tratado como ideal. Como exemplo, temos a Nebulosa do Anel, com densidade média de 3 × 10⁻¹⁸ $\\\\frac{kg}{m}$³ e uma temperatura média de 10000 K. Nebulosa do Anel (https://oal.ul.pt) Adotando o valor R = 8 J/(mol·K) para a constante universal dos gases ideais e M = 2 × 10⁻³ $\\\\frac{kg}{mol}$ para a massa molar do hidrogênio, a pressão média no interior da Nebulosa do Anel é",
+      principal: "Uma nebulosa planetária é uma nuvem composta de hidrogênio, com uma densidade muito baixa, de modo que esse gás pode ser tratado como ideal. Como exemplo, temos a Nebulosa do Anel, com densidade média de 3 × 10⁻¹⁸ kg/m³ e uma temperatura média de 10000 K. Nebulosa do Anel (https://oal.ul.pt) Adotando o valor R = 8 J/(mol·K) para a constante universal dos gases ideais e M = 2 × 10⁻³ kg/mol para a massa molar do hidrogênio, a pressão média no interior da Nebulosa do Anel é",
       subItens: []
     },
     options: ["2,4 × 10⁻⁸ Pa.","2,0 × 10⁻¹¹ Pa.","1,2 × 10⁻¹⁰ Pa.","6,0 × 10⁻⁹ Pa.","1,8 × 10⁻¹² Pa."],
@@ -588,7 +588,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Tubarões apresentam estruturas sensoriais próximas aos seus focinhos chamadas de ampolas de Lorenzini, com a capacidade de detectar campos elétricos muito sutis, gerados por outros animais. São eletrorreceptores que, além de facilitar a caça de suas presas, possibilitam-lhes orientar-se durante a navegação. Ampolas de Lorenzini (https://lemundo.com.br) Alguns tubarões podem detectar campos elétricos muito fracos, da ordem de 10⁻⁶ $\\\\frac{V}{m}$. Para se ter uma ideia da grande sensibilidade elétrica dos sensores desses animais, considere que esse mesmo campo elétrico seja produzido entre duas placas metálicas paralelas ligadas a uma pilha AA comum, de 1,5 V, como mostrado na figura. d 1,5 V Nesse caso, a distância d entre essas placas deverá ser de",
+      principal: "Tubarões apresentam estruturas sensoriais próximas aos seus focinhos chamadas de ampolas de Lorenzini, com a capacidade de detectar campos elétricos muito sutis, gerados por outros animais. São eletrorreceptores que, além de facilitar a caça de suas presas, possibilitam-lhes orientar-se durante a navegação. Ampolas de Lorenzini (https://lemundo.com.br) Alguns tubarões podem detectar campos elétricos muito fracos, da ordem de 10⁻⁶ V/m. Para se ter uma ideia da grande sensibilidade elétrica dos sensores desses animais, considere que esse mesmo campo elétrico seja produzido entre duas placas metálicas paralelas ligadas a uma pilha AA comum, de 1,5 V, como mostrado na figura. d 1,5 V Nesse caso, a distância d entre essas placas deverá ser de",
       subItens: []
     },
     options: ["1,5 × 10⁰ m.","1,5 x 10⁶ m.","1,5 × 10⁻² m.","1,5 x 10² m.","1,5 × 10⁻⁶ m."],
@@ -723,7 +723,7 @@ createQuestion({
     university: "Vestibular",
     year: 2024,
     text: {
-      principal: "Considere que um sinal, que viaje a velocidade da luz (300 000 $\\\\frac{km}{s}$) leve 10 anos-luz para ir da Terra até seu destino final. Adotando-se a aproximação de que 1 ano-luz corresponde a 9,45 trilhões de quilômetros, o tempo que esse sinal leva da Terra até seu destino final, em horas, é de",
+      principal: "Considere que um sinal, que viaje a velocidade da luz (300 000 km/s) leve 10 anos-luz para ir da Terra até seu destino final. Adotando-se a aproximação de que 1 ano-luz corresponde a 9,45 trilhões de quilômetros, o tempo que esse sinal leva da Terra até seu destino final, em horas, é de",
       subItens: []
     },
     options: ["7,56 x 10⁵.","1,82 x 10⁵.","5,67 × 10⁵.","8,75 x 10⁴.","3,71 × 10⁵."],

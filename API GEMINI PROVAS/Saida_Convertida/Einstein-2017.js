@@ -78,7 +78,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Um pequeno boneco está diante de um espelho plano, conforme a figura abaixo. Em relação à imagem conjugada pelo espelho, podemos classificá-la como tendo as seguintes características:\n[Imagem de boneco diante de um espelho plano]\nhttp://www.geocities.$\\\\frac{ws}{saladefisica_{8}}$/$\\\\frac{optica}{planos}$.html",
+      principal: "Um pequeno boneco está diante de um espelho plano, conforme a figura abaixo. Em relação à imagem conjugada pelo espelho, podemos classificá-la como tendo as seguintes características:\n[Imagem de boneco diante de um espelho plano]\nhttp://www.geocities.ws/$saladefisica_{8}$/optica/planos.html",
       subItens: []
     },
     options: ["real, direita e do mesmo tamanho do objeto.","virtual, invertida lateralmente e maior que o objeto.","virtual, direita e do mesmo tamanho do objeto.","real, invertida lateralmente e do mesmo tamanho do objeto."],
@@ -108,7 +108,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Na modalidade esportiva do salto à distância, o esportista, para fazer o melhor salto, deve atingir a velocidade máxima antes de saltar, aliando-a ao melhor ângulo de entrada no momento do salto que, nessa modalidade, é 45°. Considere uma situação hipotética em que um atleta, no momento do salto, alcance a velocidade de 43,2 $\\\\frac{km}{h}$, velocidade próxima do recorde mundial dos 100 metros rasos, que é de 43,9 $\\\\frac{km}{h}$. Despreze o atrito com o ar enquanto ele está em “vôo” e considere o saltador como um ponto material situado em seu centro de gravidade. Nessas condições, qual seria, aproximadamente, a distância alcançada no salto?\nAdote o módulo da aceleração da gravidade igual a 10 $\\\\frac{m}{s}$².\nDados: sen_{45}° = cos_{45}° = 0,7\n[Sequência de imagens mostrando as fases do salto: CORRIDA DE IMPULSÃO, IMPULSÃO, VÔO, QUEDA]\nhttps://sites.google.$\\\\frac{com}{site}$/$\\\\frac{edfisicaempic}{educacao}$-fisica-corpo-e-$\\\\frac{mente}{atletismo}$",
+      principal: "Na modalidade esportiva do salto à distância, o esportista, para fazer o melhor salto, deve atingir a velocidade máxima antes de saltar, aliando-a ao melhor ângulo de entrada no momento do salto que, nessa modalidade, é 45°. Considere uma situação hipotética em que um atleta, no momento do salto, alcance a velocidade de 43,2 km/h, velocidade próxima do recorde mundial dos 100 metros rasos, que é de 43,9 km/h. Despreze o atrito com o ar enquanto ele está em “vôo” e considere o saltador como um ponto material situado em seu centro de gravidade. Nessas condições, qual seria, aproximadamente, a distância alcançada no salto?\nAdote o módulo da aceleração da gravidade igual a 10 m/s².\nDados: $sen_{45}$° = $cos_{45}$° = 0,7\n[Sequência de imagens mostrando as fases do salto: CORRIDA DE IMPULSÃO, IMPULSÃO, VÔO, QUEDA]\nhttps://sites.google.com/site/edfisicaempic/educacao-fisica-corpo-e-mente/atletismo",
       subItens: []
     },
     options: ["7m","10m","12m","14m"],
@@ -138,7 +138,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Sabe-se que um líquido possui calor específico igual a 0,58 $\\\\frac{cal}{g}$.°C . Com o intuito de descobrir o valor de seu calor latente de vaporização, foi realizado um experimento onde o líquido foi aquecido por meio de uma fonte de potência uniforme, até sua total vaporização, obtendo-se o gráfico abaixo. O valor obtido para o calor latente de vaporização do líquido, em $\\\\frac{cal}{g}$, está mais próximo de:\n[Gráfico de Temperatura (°C) vs Tempo (min), mostrando aquecimento de 0 a 78°C em 10min, seguido de patamar a 78°C de 10 a 54min.]",
+      principal: "Sabe-se que um líquido possui calor específico igual a 0,58 cal/g.°C . Com o intuito de descobrir o valor de seu calor latente de vaporização, foi realizado um experimento onde o líquido foi aquecido por meio de uma fonte de potência uniforme, até sua total vaporização, obtendo-se o gráfico abaixo. O valor obtido para o calor latente de vaporização do líquido, em cal/g, está mais próximo de:\n[Gráfico de Temperatura (°C) vs Tempo (min), mostrando aquecimento de 0 a 78°C em 10min, seguido de patamar a 78°C de 10 a 54min.]",
       subItens: []
     },
     options: ["100","200","540","780"],
@@ -183,7 +183,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "\"Há quase seis anos, o presidente Putin propôs à Alemanha \"a criação de uma comunidade econômica harmoniosa que se estenda de Lisboa a Vladivostok.\" A ideia representava um imenso empório comercial que uniria Rússia e União Europeia ou, nas palavras de Putin, 'um mercado continental unificado com capacidade estimada em trilhões de dólares.\"\n(Pepe ESCOBAR. Por que novas rotas da seda apavoram Washington. In: O Cafezinho, http://www.ocafezinho.$\\\\frac{com}{2016}$/$\\\\frac{10}{11}$/)\nVeja o mapa:\n\"Nova Rota da Seda\", uma megaferrovia conectando Rússia e China ao continente europeu\n[Mapa mostrando a rota da ferrovia trans-siberiana e a rota da ferrovia China-Europa, conectando cidades da Europa, Rússia, China e outros países asiáticos]\nSobre essa perspectiva, que apavoraria Washington, é certo afirmar que",
+      principal: "\"Há quase seis anos, o presidente Putin propôs à Alemanha \"a criação de uma comunidade econômica harmoniosa que se estenda de Lisboa a Vladivostok.\" A ideia representava um imenso empório comercial que uniria Rússia e União Europeia ou, nas palavras de Putin, 'um mercado continental unificado com capacidade estimada em trilhões de dólares.\"\n(Pepe ESCOBAR. Por que novas rotas da seda apavoram Washington. In: O Cafezinho, http://www.ocafezinho.com/2016/10/11/)\nVeja o mapa:\n\"Nova Rota da Seda\", uma megaferrovia conectando Rússia e China ao continente europeu\n[Mapa mostrando a rota da ferrovia trans-siberiana e a rota da ferrovia China-Europa, conectando cidades da Europa, Rússia, China e outros países asiáticos]\nSobre essa perspectiva, que apavoraria Washington, é certo afirmar que",
       subItens: []
     },
     options: ["essa integração da Eurásia deveria incomodar o Brasil (e não tanto os EUA), pois, como membro do BRICS, esse estreitamento geoeconômico e de interesses da Rússia e da China o coloca praticamente fora desse bloco.","a ausência até então de integração do continente eurasiano deveu-se a motivos infraestruturais e econômicos, que agora parecem resolvidos, com a possibilidade da construção de nova \"rota da seda\".","com 2/3 da população mundial, esse continente (até agora percebido como dois), se integrado geográfica e economicamente, seria o mais poderoso centro econômico do planeta, superando a hegemonia norteamericana.","essa integração Pacífico-Atlântico e a alusão a uma nova \"rota da seda\" é sedutora, mas não adere à realidade, pois os obstáculos ideológicos presentes entre os países desse continente, subsistem sem perspectiva de superação."],
@@ -273,7 +273,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "A imagem abaixo integrou uma cartilha lançada, em 1941, pelo Departamento de Imprensa e Propaganda (DIP). Ela pode ser relacionada\n\"Cartilha para a juventude\" Extraído de: Maria Helena Capelato. Multidões em cena. Campinas: Papirus, 1998. Adaptado.\n[Imagem de homem (Vargas?) discursando para crianç$\\\\frac{as}{jovens}$]",
+      principal: "A imagem abaixo integrou uma cartilha lançada, em 1941, pelo Departamento de Imprensa e Propaganda (DIP). Ela pode ser relacionada\n\"Cartilha para a juventude\" Extraído de: Maria Helena Capelato. Multidões em cena. Campinas: Papirus, 1998. Adaptado.\n[Imagem de homem (Vargas?) discursando para crianças/jovens]",
       subItens: []
     },
     options: ["à propaganda do governo Vargas, que buscava promover as manifestações cívicas e apresentava a figura do presidente como \"pai da nação\".","à implantação, pelo governo Vargas, do ensino público e gratuito para todos os brasileiros menores de 21 anos.","à política, desenvolvida pelo governo Vargas, de estimular o trabalho infantil nas áreas urbanas e rurais do país.","à crítica dos cafeicultores ao governo Vargas, a quem chamavam de \"pai dos pobres\", acusando-o de não governar para todos os brasileiros."],
@@ -303,7 +303,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "HEALTH\nBread Is Better Than Ever\nIna Garten @twitter.$\\\\frac{com}{inagarten}$ June 30, 2016\nThirty years ago, Americans lived on processed White bread, and it was almost impossible to find a fresh baguette or a loaf of sourdough. My friend Eli Zabar began baking fresh breads in a brick oven in the basement of this store E.A.T. on Madison Avenue in New York City, and now there are extraordinary artisanal bakers in cities and towns all across America. Even better, bakers like Dan Barber at Blue Hill at Stone Barns now grow and seek out heirloom wheat and use it to make bread that is not only delicious but good for you too.\nThis appears in the July 11, 2016 issue of TIME.\n[Imagem de pão artesanal]\nDe acordo com o texto, sabe-se que",
+      principal: "HEALTH\nBread Is Better Than Ever\nIna Garten @twitter.com/inagarten June 30, 2016\nThirty years ago, Americans lived on processed White bread, and it was almost impossible to find a fresh baguette or a loaf of sourdough. My friend Eli Zabar began baking fresh breads in a brick oven in the basement of this store E.A.T. on Madison Avenue in New York City, and now there are extraordinary artisanal bakers in cities and towns all across America. Even better, bakers like Dan Barber at Blue Hill at Stone Barns now grow and seek out heirloom wheat and use it to make bread that is not only delicious but good for you too.\nThis appears in the July 11, 2016 issue of TIME.\n[Imagem de pão artesanal]\nDe acordo com o texto, sabe-se que",
       subItens: []
     },
     options: ["Ina Garten e Eli Zabar moraram na Madison Avenue em NY.","a confecção de pães artesanais evoluiu para versões mais saudáveis.","receitas familiares para confecção de pães caíram em desuso.","Eli Zabar uniu-se recentemente a Dan Barber e Blue Hill para a produção de pães artesanais."],
@@ -318,7 +318,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "So Long, Sweaty Summer\nhttp://www.nytimes.$\\\\frac{com}{2016}$/$\\\\frac{09}{02}$/$\\\\frac{nyregion}{new}$-york-today-labor-day-weather.html – Acessado em $\\\\frac{02}{09}$/2016\nGood morning on this ominous Friday. The skies in this (unofficial) last weekend of summer are looking temperamental. Expect a dazzling day today, with a high near 81. But the effects of Hurricane Hermine, in Florida now, could bring heavy rain and strong winds later in the weekend, according to the National Weather Service.\nThe silver lining: This might be just the medicine we need. New York is thirsty. We're in the midst of a statewide drought.\nWe've had a hotter and drier summer than normal, said Carlie Buccola, a Weather Service meteorologist. Summer in the city averages roughly 74 degrees, Ms. Buccola told us, but this year, we clocked in near 77. And we normally get almost 13.5 inches of rain, but this summer, we got just under 12.\n[Imagem de pessoa molhada em um dia quente]\nEscolha a alternativa que corresponde à informação contida no texto.",
+      principal: "So Long, Sweaty Summer\nhttp://www.nytimes.com/2016/09/02/nyregion/new-york-today-labor-day-weather.html – Acessado em 02/09/2016\nGood morning on this ominous Friday. The skies in this (unofficial) last weekend of summer are looking temperamental. Expect a dazzling day today, with a high near 81. But the effects of Hurricane Hermine, in Florida now, could bring heavy rain and strong winds later in the weekend, according to the National Weather Service.\nThe silver lining: This might be just the medicine we need. New York is thirsty. We're in the midst of a statewide drought.\nWe've had a hotter and drier summer than normal, said Carlie Buccola, a Weather Service meteorologist. Summer in the city averages roughly 74 degrees, Ms. Buccola told us, but this year, we clocked in near 77. And we normally get almost 13.5 inches of rain, but this summer, we got just under 12.\n[Imagem de pessoa molhada em um dia quente]\nEscolha a alternativa que corresponde à informação contida no texto.",
       subItens: []
     },
     options: ["A cidade de New York pode eventualmente ficar sob forte seca e calor.","Os níveis de chuva neste verão estão abaixo do esperado para o padrão nos EUA.","O furacão Hermine poderia vir a ser exatamente aquilo de que o estado de New York precisa.","Os níveis de chuva e de calor foram mais altos do que a média de outros anos."],
@@ -333,7 +333,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Antarctic Ozone Layer Shows Signs of Healing\nBy Tessa Berenson @tcberenson\nhttp://time.$\\\\frac{com}{4391034}$/antarctic-ozone-layer-healing/\nJuly 1, 2016.\nA study published in the journal Science found that the hole in the ozone layer is closing. The researchers found that the average size of the ozone hole when measured each September has shrunk by more than 1.7 million square miles since 2000.\nThe scientists credit the 1987 Montreal Protocol, which cut the production of chemicals that damage the ozone layer, with facilitating the healing. \"We can now be confident that the things we've done have put the planet on a path to heal,\" Susan Solomon of the Massachusetts Institute of Technology, who led the team of scientists, said in a statement.\nEscolha a alternativa cujo conteúdo NÃO se encontra no texto acima.",
+      principal: "Antarctic Ozone Layer Shows Signs of Healing\nBy Tessa Berenson @tcberenson\nhttp://time.com/4391034/antarctic-ozone-layer-healing/\nJuly 1, 2016.\nA study published in the journal Science found that the hole in the ozone layer is closing. The researchers found that the average size of the ozone hole when measured each September has shrunk by more than 1.7 million square miles since 2000.\nThe scientists credit the 1987 Montreal Protocol, which cut the production of chemicals that damage the ozone layer, with facilitating the healing. \"We can now be confident that the things we've done have put the planet on a path to heal,\" Susan Solomon of the Massachusetts Institute of Technology, who led the team of scientists, said in a statement.\nEscolha a alternativa cujo conteúdo NÃO se encontra no texto acima.",
       subItens: []
     },
     options: ["O Protocolo de Montreal pedia a eliminação do uso de CFC na indústria.","O tamanho do buraco da camada de ozônio tem diminuído regularmente desde 2000.","O Protocolo de Montreal, de 1987, visava a reduzir a fabricação de produtos químicos nocivos à camada de ozônio.","Um estudo mostra que a camada de ozônio da Antártica começa a apresentar sinais de recuperação."],
@@ -348,7 +348,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "The downside of mobile devices\n[Imagem de tela de celular mostrando mensagens de texto]\nIn a recent study by Jeffrey Kuznekoff at Miami University, college students who watched a videotaped lecture scored lower on a test afterward if they texted about unrelated matters during the class.\nhttps://student.societyforscience.$\\\\frac{org}{article}$/when-smartphones-go-school July 1, 2016.\nO título e a imagem permitem inferir que",
+      principal: "The downside of mobile devices\n[Imagem de tela de celular mostrando mensagens de texto]\nIn a recent study by Jeffrey Kuznekoff at Miami University, college students who watched a videotaped lecture scored lower on a test afterward if they texted about unrelated matters during the class.\nhttps://student.societyforscience.org/article/when-smartphones-go-school July 1, 2016.\nO título e a imagem permitem inferir que",
       subItens: []
     },
     options: ["trocar mensagens de texto interfere negativamente nas aulas.","estudos parecem comprovar que trocas de mensagens relacionadas ou não à aula não prejudicam o resultado da aprendizagem.","um estudo feito na Universidade de Miami mostra que universitários não deveriam trocar mensagens durante as aulas.","a troca de mensagens de texto sobre assuntos não relacionados à aula pode prejudicar os resultados obtidos pelos alunos."],
@@ -363,7 +363,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "ANTHONY, WHAT HAPPENED?!\nI BROKE MY ARM IN TWO PLACES.\nREALLY?!\nWELL, IF I WERE YOU, I WOULDN'T GO BACK TO EITHER ONE!\n[Charge com três balões de fala e uma imagem de uma pessoa com gesso no braço]\nhttps://www.google.com.$\\\\frac{br}{search}$?q=semantic+jokes&source\nAcessado em $\\\\frac{16}{09}$/2016.\nNa tirinha acima,",
+      principal: "ANTHONY, WHAT HAPPENED?!\nI BROKE MY ARM IN TWO PLACES.\nREALLY?!\nWELL, IF I WERE YOU, I WOULDN'T GO BACK TO EITHER ONE!\n[Charge com três balões de fala e uma imagem de uma pessoa com gesso no braço]\nhttps://www.google.com.br/search?q=semantic+jokes&source\nAcessado em 16/09/2016.\nNa tirinha acima,",
       subItens: []
     },
     options: ["a garota preocupada tenta convencer o colega a estudar mais para melhorar suas notas.","o garoto tenta justificar a falta da lição de casa por causa do braço quebrado.","o garoto e a garota não usam a palavra “place” com o mesmo significado.","a garota fica consternada ao perceber que o garoto quebrou o braço e terá de mudar de lugar."],
@@ -528,7 +528,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "Um resíduo industrial é constituído por uma mistura de carbonato de cálcio (CaCO_{3}) e sulfato de cálcio (CaSO_{4}). O carbonato de cálcio sofre decomposição térmica se aquecido entre 825 e 900 °C, já o sulfato de cálcio é termicamente estável. A termólise do CaCO_{3} resulta em óxido de cálcio e gás carbônico.\nCaCO_{3}(s) → CaO(s) + CO_{2}(g)\nUma amostra de 10,00 g desse resíduo foi aquecida a 900 °C até não se observar mais alteração em sua massa. Após o resfriamento da amostra, o sólido resultante apresentava 6,70 g.\nO teor de carbonato de cálcio na amostra é de, aproximadamente,",
+      principal: "Um resíduo industrial é constituído por uma mistura de carbonato de cálcio ($CaCO_{3}$) e sulfato de cálcio ($CaSO_{4}$). O carbonato de cálcio sofre decomposição térmica se aquecido entre 825 e 900 °C, já o sulfato de cálcio é termicamente estável. A termólise do $CaCO_{3}$ resulta em óxido de cálcio e gás carbônico.\n$CaCO_{3}$(s) → CaO(s) + $CO_{2}$(g)\nUma amostra de 10,00 g desse resíduo foi aquecida a 900 °C até não se observar mais alteração em sua massa. Após o resfriamento da amostra, o sólido resultante apresentava 6,70 g.\nO teor de carbonato de cálcio na amostra é de, aproximadamente,",
       subItens: []
     },
     options: ["33%.","50%.","67%.","75%."],
@@ -543,7 +543,7 @@ createQuestion({
     university: "Vestibular",
     year: 2017,
     text: {
-      principal: "A temperatura de fusão de compostos iônicos está relacionada à energia reticular, ou seja, à intensidade da atração entre cátions e ânions na estrutura do retículo cristalino iônico.\nA força de atração entre cargas elétricas opostas depende do produto das cargas e da distância entre elas. De modo geral, quanto maior o produto entre os módulos das cargas elétricas dos íons e menores as distâncias entre os seus núcleos, maior a energia reticular.\nConsidere os seguintes pares de substâncias iônicas:\nI. MgF_{2} e MgO\nII. KF e CaO\nIII. LiF e KBr\nAs substâncias que apresentam a maior temperatura de fusão nos grupos I, II e III são, respectivamente,",
+      principal: "A temperatura de fusão de compostos iônicos está relacionada à energia reticular, ou seja, à intensidade da atração entre cátions e ânions na estrutura do retículo cristalino iônico.\nA força de atração entre cargas elétricas opostas depende do produto das cargas e da distância entre elas. De modo geral, quanto maior o produto entre os módulos das cargas elétricas dos íons e menores as distâncias entre os seus núcleos, maior a energia reticular.\nConsidere os seguintes pares de substâncias iônicas:\nI. $MgF_{2}$ e MgO\nII. KF e CaO\nIII. LiF e KBr\nAs substâncias que apresentam a maior temperatura de fusão nos grupos I, II e III são, respectivamente,",
       subItens: []
     },
     options: ["MgO, CaO e LiF.","MgF2, KF e KBr.","MgO, KF e LiF.","MgF2, CaO e KBr."],

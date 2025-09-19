@@ -423,7 +423,7 @@ createQuestion({
     university: "ENEM",
     year: 2019,
     text: {
-      principal: "A rede é, antes de tudo, um instrumento de comunicação entre pessoas, um laço virtual em que as comunidades auxiliam seus membros a aprender o que querem saber. Os dados não representam senão a matéria-prima de um processo intelectual e social vivo, altamente elaborado. Enfim, toda inteligência coletiva do mundo jamais dispensará a inteligência pessoal, o esforço individual e o tempo necessário para aprender, pesquisar, avaliar e integrar-se a diversas comunidades, sejam elas virtuais ou não. A rede jamais pensará em seu lugar, fique tranquilo.\nLÉVY, P. A máquina universo: criação, cognição e cultura informática. Porto Alegre: Artmed, 1998.\nNo contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
+      principal: "A rede é, antes de tudo, um instrumento de comunicação entre pessoas, um laço virtual em que as comunidades auxiliam seus membros a aprender o que querem saber. Os dados não representam $\\sin$ão a matéria-prima de um processo intelectual e social vivo, altamente elaborado. Enfim, toda inteligência coletiva do mundo jamais dispensará a inteligência pessoal, o esforço individual e o tempo necessário para aprender, pesquisar, avaliar e integrar-se a diversas comunidades, sejam elas virtuais ou não. A rede jamais pensará em seu lugar, fique tranquilo.\nLÉVY, P. A máquina universo: criação, cognição e cultura informática. Porto Alegre: Artmed, 1998.\nNo contexto das novas tecnologias de informação e comunicação, a circulação de saberes depende da",
       subItens: []
     },
     options: ["otimização do tempo.","confiabilidade dos sites.","contribuição dos usuários.","quantidade de informação.","colaboração de intelectuais."],
@@ -783,7 +783,7 @@ createQuestion({
     university: "ENEM",
     year: 2019,
     text: {
-      principal: "Brasil, Alemanha, Japão e Índia pedem reforma do Conselho de Segurança\nOs representantes do G_{4} (Brasil, Alemanha, Índia e Japão) reiteraram, em setembro de 2018, a defesa pela ampliação do Conselho de Segurança da Organização das Nações Unidas (ONU) durante reunião em Nova York (Estados Unidos). Em declaração conjunta, de dez itens, os chanceleres destacaram que o órgão, no formato em que está, com apenas cinco membros permanentes e dez rotativos, não reflete o século 21. “A reforma do Conselho de Segurança é essencial para enfrentar os desafios complexos de hoje. Como aspirantes a novos membros permanentes de um conselho reformado, os ministros reiteraram seu compromisso de trabalhar para fortalecer o funcionamento da ONU e da ordem multilateral global, bem como seu apoio às respectivas candidaturas”, afirma a declaração conjunta.\nDisponível em: http://agenciabrasil.ebc.com.br. Acesso em: 7 dez. 2018 (adaptado).\nOs países mencionados no texto justificam sua pretensão com base na seguinte característica comum:",
+      principal: "Brasil, Alemanha, Japão e Índia pedem reforma do Conselho de Segurança\nOs representantes do $G_{4}$ (Brasil, Alemanha, Índia e Japão) reiteraram, em setembro de 2018, a defesa pela ampliação do Conselho de Segurança da Organização das Nações Unidas (ONU) durante reunião em Nova York (Estados Unidos). Em declaração conjunta, de dez itens, os chanceleres destacaram que o órgão, no formato em que está, com apenas cinco membros permanentes e dez rotativos, não reflete o século 21. “A reforma do Conselho de Segurança é essencial para enfrentar os desafios complexos de hoje. Como aspirantes a novos membros permanentes de um conselho reformado, os ministros reiteraram seu compromisso de trabalhar para fortalecer o funcionamento da ONU e da ordem multilateral global, bem como seu apoio às respectivas candidaturas”, afirma a declaração conjunta.\nDisponível em: http://agenciabrasil.ebc.com.br. Acesso em: 7 dez. 2018 (adaptado).\nOs países mencionados no texto justificam sua pretensão com base na seguinte característica comum:",
       subItens: []
     },
     options: ["Extensividade de área territorial.","Protagonismo em escala regional.","Investimento em tecnologia militar.","Desenvolvimento de energia nuclear.","Disponibilidade de recursos minerais."],
@@ -918,7 +918,7 @@ createQuestion({
     university: "ENEM",
     year: 2019,
     text: {
-      principal: "A maior parte das agressões e manifestações discriminatórias contra as religiões de matrizes africanas ocorrem em locais públicos (57%). É na rua, na via pública, que tiveram lugar mais de $\\\\frac{2}{3}$ das agressões, geralmente em locais próximos às casas de culto dessas religiões. O transporte público também é apontado como um local em que os adeptos das religiões de matrizes africanas são discriminados, geralmente quando se encontram paramentados por conta dos preceitos religiosos.\nREGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M. Cartografia social de terreiros no Rio de Janeiro. Rio de Janeiro: PUC-Rio, 2014.\nAs práticas descritas no texto são incompatíveis com a dinâmica de uma sociedade laica e democrática porque",
+      principal: "A maior parte das agressões e manifestações discriminatórias contra as religiões de matrizes africanas ocorrem em locais públicos (57%). É na rua, na via pública, que tiveram lugar mais de 2/3 das agressões, geralmente em locais próximos às casas de culto dessas religiões. O transporte público também é apontado como um local em que os adeptos das religiões de matrizes africanas são discriminados, geralmente quando se encontram paramentados por conta dos preceitos religiosos.\nREGO, L. F.; FONSECA, D. P. R.; GIACOMINI, S. M. Cartografia social de terreiros no Rio de Janeiro. Rio de Janeiro: PUC-Rio, 2014.\nAs práticas descritas no texto são incompatíveis com a dinâmica de uma sociedade laica e democrática porque",
       subItens: []
     },
     options: ["asseguram as expressões multiculturais.","promovem a diversidade de etnias.","falseiam os dogmas teológicos.","estimulam os rituais sincréticos.","restringem a liberdade de credo."],
@@ -1143,7 +1143,7 @@ createQuestion({
     university: "ENEM",
     year: 2019,
     text: {
-      principal: "veracidade (image of graffiti)\nFala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\nVALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, $\\\\frac{maio}{ago}$. 2017 (adaptado).\nA manifestação artística expressa na imagem e apresentada no texto integra um movimento contemporâneo de",
+      principal: "veracidade (image of graffiti)\nFala-se aqui de uma arte criada nas ruas e para as ruas, marcadas antes de tudo pela vida cotidiana, seus conflitos e suas possibilidades, que poderiam envolver técnicas, agentes e temas que não fossem encontrados nas instituições mais tradicionais e formais.\nVALVERDE, R. R. H. F. Os limites da inversão: a heterotopia do Beco do Batman. Boletim Goiano de Geografia (Online). Goiânia, v. 37, n. 2, maio/ago. 2017 (adaptado).\nA manifestação artística expressa na imagem e apresentada no texto integra um movimento contemporâneo de",
       subItens: []
     },
     options: ["regulação das relações sociais.","apropriação dos espaços públicos.","padronização das culturas urbanas.","valorização dos formalismos estéticos.","revitalização dos patrimônios históricos."],
@@ -1158,7 +1158,7 @@ createQuestion({
     university: "ENEM",
     year: 2019,
     text: {
-      principal: "TEXTO I\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\nKANT, I. Crítica da razão prática. Lisboa: Edições 70, $\\\\frac{s}{d}$ (adaptado).\nTEXTO II\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\nFONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.\nA releitura realizada pela poeta inverte as seguintes ideias centrais do pensamento kantiano:",
+      principal: "TEXTO I\nDuas coisas enchem o ânimo de admiração e veneração sempre crescentes: o céu estrelado sobre mim e a lei moral em mim.\nKANT, I. Crítica da razão prática. Lisboa: Edições 70, s/d (adaptado).\nTEXTO II\nDuas coisas admiro: a dura lei cobrindo-me e o estrelado céu dentro de mim.\nFONTELA, O. Kant (relido). In: Poesia completa. São Paulo: Hedra, 2015.\nA releitura realizada pela poeta inverte as seguintes ideias centrais do pensamento kantiano:",
       subItens: []
     },
     options: ["Possibilidade da liberdade e obrigação da ação.","Aprioridade do juízo e importância da natureza.","Necessidade da boa vontade e crítica da metafísica.","Prescindibilidade do empírico e autoridade da razão.","Interioridade da norma e fenomenalidade do mundo."],
@@ -1233,7 +1233,7 @@ createQuestion({
     university: "ENEM",
     year: 2019,
     text: {
-      principal: "Saudado por centenas de militantes de movimentos sociais de quarenta países, o papa Francisco encerrou no dia $\\\\frac{09}{07}$/2015 ο 2° Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, a \"globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença”.\nDisponível em: http://cartamaior.com.br. Acesso em: 15 jul. 2015 (adaptado).\nNo texto há uma crítica ao seguinte aspecto do mundo globalizado:",
+      principal: "Saudado por centenas de militantes de movimentos sociais de quarenta países, o papa Francisco encerrou no dia 09/07/2015 ο 2° Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, a \"globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença”.\nDisponível em: http://cartamaior.com.br. Acesso em: 15 jul. 2015 (adaptado).\nNo texto há uma crítica ao seguinte aspecto do mundo globalizado:",
       subItens: []
     },
     options: ["Liberdade política.","Mobilidade humana.","Conectividade cultural.","Disparidade econômica.","Complementaridade comercial."],
