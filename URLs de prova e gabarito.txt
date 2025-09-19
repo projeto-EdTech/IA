@@ -1,0 +1,2817 @@
+ESPM
+espm 2025
+prova:
+gabarito:
+
+espm 2024
+prova:
+gabarito:
+
+espm 2023
+prova:
+gabarito:
+
+espm 2022
+prova:
+gabarito:
+
+espm 2021
+prova:
+gabarito:
+
+espm 2020
+prova:
+gabarito:
+
+espm 2019
+prova:
+gabarito:
+
+espm 2018
+prova:
+gabarito:
+
+espm 2017
+prova:
+gabarito:
+
+espm 2016
+prova:
+gabarito:
+
+espm 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+ANHEMBI MORUMBI
+anhembi morumbi 2025
+prova:
+gabarito:
+
+anhembi morumbi 2024
+prova:
+gabarito:
+
+anhembi morumbi 2023
+prova:
+gabarito:
+
+anhembi morumbi 2022
+prova:
+gabarito:
+
+anhembi morumbi 2021
+prova:
+gabarito:
+
+anhembi morumbi 2020
+prova:
+gabarito:
+
+anhembi morumbi 2019
+prova:
+gabarito:
+
+anhembi morumbi 2018
+prova:
+gabarito:
+
+anhembi morumbi 2017
+prova:
+gabarito:
+
+anhembi morumbi 2016
+prova:
+gabarito:
+
+anhembi morumbi 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FEI
+fei 2025
+prova:
+gabarito:
+
+fei 2024
+prova:
+gabarito:
+
+fei 2023
+prova:
+gabarito:
+
+fei 2022
+prova:
+gabarito:
+
+fei 2021
+prova:
+gabarito:
+
+fei 2020
+prova:
+gabarito:
+
+fei 2019
+prova:
+gabarito:
+
+fei 2018
+prova:
+gabarito:
+
+fei 2017
+prova:
+gabarito:
+
+fei 2016
+prova:
+gabarito:
+
+fei 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNOESTE
+unoeste 2025
+prova:
+gabarito:
+
+unoeste 2024
+prova:
+gabarito:
+
+unoeste 2023
+prova:
+gabarito:
+
+unoeste 2022
+prova:
+gabarito:
+
+unoeste 2021
+prova:
+gabarito:
+
+unoeste 2020
+prova:
+gabarito:
+
+unoeste 2019
+prova:
+gabarito:
+
+unoeste 2018
+prova:
+gabarito:
+
+unoeste 2017
+prova:
+gabarito:
+
+unoeste 2016
+prova:
+gabarito:
+
+unoeste 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FACAMP
+facamp 2025
+prova:
+gabarito:
+
+facamp 2024
+prova:
+gabarito:
+
+facamp 2023
+prova:
+gabarito:
+
+facamp 2022
+prova:
+gabarito:
+
+facamp 2021
+prova:
+gabarito:
+
+facamp 2020
+prova:
+gabarito:
+
+facamp 2019
+prova:
+gabarito:
+
+facamp 2018
+prova:
+gabarito:
+
+facamp 2017
+prova:
+gabarito:
+
+facamp 2016
+prova:
+gabarito:
+
+facamp 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+INSPER
+insper 2025
+prova:
+gabarito:
+
+insper 2024
+prova:
+gabarito:
+
+insper 2023
+prova:
+gabarito:
+
+insper 2022
+prova:
+gabarito:
+
+insper 2021
+prova:
+gabarito:
+
+insper 2020
+prova:
+gabarito:
+
+insper 2019
+prova:
+gabarito:
+
+insper 2018
+prova:
+gabarito:
+
+insper 2017
+prova:
+gabarito:
+
+insper 2016
+prova:
+gabarito:
+
+insper 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FAAP
+faap 2025
+prova:
+gabarito:
+
+faap 2024
+prova:
+gabarito:
+
+faap 2023
+prova:
+gabarito:
+
+faap 2022
+prova:
+gabarito:
+
+faap 2021
+prova:
+gabarito:
+
+faap 2020
+prova:
+gabarito:
+
+faap 2019
+prova:
+gabarito:
+
+faap 2018
+prova:
+gabarito:
+
+faap 2017
+prova:
+gabarito:
+
+faap 2016
+prova:
+gabarito:
+
+faap 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIMEP
+unimep 2025
+prova:
+gabarito:
+
+unimep 2024
+prova:
+gabarito:
+
+unimep 2023
+prova:
+gabarito:
+
+unimep 2022
+prova:
+gabarito:
+
+unimep 2021
+prova:
+gabarito:
+
+unimep 2020
+prova:
+gabarito:
+
+unimep 2019
+prova:
+gabarito:
+
+unimep 2018
+prova:
+gabarito:
+
+unimep 2017
+prova:
+gabarito:
+
+unimep 2016
+prova:
+gabarito:
+
+unimep 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+SENAC-SP
+senac-sp 2025
+prova:
+gabarito:
+
+senac-sp 2024
+prova:
+gabarito:
+
+senac-sp 2023
+prova:
+gabarito:
+
+senac-sp 2022
+prova:
+gabarito:
+
+senac-sp 2021
+prova:
+gabarito:
+
+senac-sp 2020
+prova:
+gabarito:
+
+senac-sp 2019
+prova:
+gabarito:
+
+senac-sp 2018
+prova:
+gabarito:
+
+senac-sp 2017
+prova:
+gabarito:
+
+senac-sp 2016
+prova:
+gabarito:
+
+senac-sp 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+MAUÁ
+mauá 2025
+prova:
+gabarito:
+
+mauá 2024
+prova:
+gabarito:
+
+mauá 2023
+prova:
+gabarito:
+
+mauá 2022
+prova:
+gabarito:
+
+mauá 2021
+prova:
+gabarito:
+
+mauá 2020
+prova:
+gabarito:
+
+mauá 2019
+prova:
+gabarito:
+
+mauá 2018
+prova:
+gabarito:
+
+mauá 2017
+prova:
+gabarito:
+
+mauá 2016
+prova:
+gabarito:
+
+mauá 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FECAP
+fecap 2025
+prova:
+gabarito:
+
+fecap 2024
+prova:
+gabarito:
+
+fecap 2023
+prova:
+gabarito:
+
+fecap 2022
+prova:
+gabarito:
+
+fecap 2021
+prova:
+gabarito:
+
+fecap 2020
+prova:
+gabarito:
+
+fecap 2019
+prova:
+gabarito:
+
+fecap 2018
+prova:
+gabarito:
+
+fecap 2017
+prova:
+gabarito:
+
+fecap 2016
+prova:
+gabarito:
+
+fecap 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+METODISTA SP
+metodista sp 2025
+prova:
+gabarito:
+
+metodista sp 2024
+prova:
+gabarito:
+
+metodista sp 2023
+prova:
+gabarito:
+
+metodista sp 2022
+prova:
+gabarito:
+
+metodista sp 2021
+prova:
+gabarito:
+
+metodista sp 2020
+prova:
+gabarito:
+
+metodista sp 2019
+prova:
+gabarito:
+
+metodista sp 2018
+prova:
+gabarito:
+
+metodista sp 2017
+prova:
+gabarito:
+
+metodista sp 2016
+prova:
+gabarito:
+
+metodista sp 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIVERSIDADE SÃO JUDAS TADEU
+unisjt 2025
+prova:
+gabarito:
+
+unisjt 2024
+prova:
+gabarito:
+
+unisjt 2023
+prova:
+gabarito:
+
+unisjt 2022
+prova:
+gabarito:
+
+unisjt 2021
+prova:
+gabarito:
+
+unisjt 2020
+prova:
+gabarito:
+
+unisjt 2019
+prova:
+gabarito:
+
+unisjt 2018
+prova:
+gabarito:
+
+unisjt 2017
+prova:
+gabarito:
+
+unisjt 2016
+prova:
+gabarito:
+
+unisjt 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+PUC MINAS
+pucmg 2025
+prova:
+gabarito:
+
+pucmg 2024
+prova:
+gabarito:
+
+pucmg 2023
+prova:
+gabarito:
+
+pucmg 2022
+prova:
+gabarito:
+
+pucmg 2021
+prova:
+gabarito:
+
+pucmg 2020
+prova:
+gabarito:
+
+pucmg 2019
+prova:
+gabarito:
+
+pucmg 2018
+prova:
+gabarito:
+
+pucmg 2017
+prova:
+gabarito:
+
+pucmg 2016
+prova:
+gabarito:
+
+pucmg 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIC
+unic 2025
+prova:
+gabarito:
+
+unic 2024
+prova:
+gabarito:
+
+unic 2023
+prova:
+gabarito:
+
+unic 2022
+prova:
+gabarito:
+
+unic 2021
+prova:
+gabarito:
+
+unic 2020
+prova:
+gabarito:
+
+unic 2019
+prova:
+gabarito:
+
+unic 2018
+prova:
+gabarito:
+
+unic 2017
+prova:
+gabarito:
+
+unic 2016
+prova:
+gabarito:
+
+unic 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UCDB
+ucdb 2025
+prova:
+gabarito:
+
+ucdb 2024
+prova:
+gabarito:
+
+ucdb 2023
+prova:
+gabarito:
+
+ucdb 2022
+prova:
+gabarito:
+
+ucdb 2021
+prova:
+gabarito:
+
+ucdb 2020
+prova:
+gabarito:
+
+ucdb 2019
+prova:
+gabarito:
+
+ucdb 2018
+prova:
+gabarito:
+
+ucdb 2017
+prova:
+gabarito:
+
+ucdb 2016
+prova:
+gabarito:
+
+ucdb 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+PUC-PR
+pucpr 2025
+prova:
+gabarito:
+
+pucpr 2024
+prova:
+gabarito:
+
+pucpr 2023
+prova:
+gabarito:
+
+pucpr 2022
+prova:
+gabarito:
+
+pucpr 2021
+prova:
+gabarito:
+
+pucpr 2020
+prova:
+gabarito:
+
+pucpr 2019
+prova:
+gabarito:
+
+pucpr 2018
+prova:
+gabarito:
+
+pucpr 2017
+prova:
+gabarito:
+
+pucpr 2016
+prova:
+gabarito:
+
+pucpr 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNISUL
+unisul 2025
+prova:
+gabarito:
+
+unisul 2024
+prova:
+gabarito:
+
+unisul 2023
+prova:
+gabarito:
+
+unisul 2022
+prova:
+gabarito:
+
+unisul 2021
+prova:
+gabarito:
+
+unisul 2020
+prova:
+gabarito:
+
+unisul 2019
+prova:
+gabarito:
+
+unisul 2018
+prova:
+gabarito:
+
+unisul 2017
+prova:
+gabarito:
+
+unisul 2016
+prova:
+gabarito:
+
+unisul 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+PUC-RS
+pucrs 2025
+prova:
+gabarito:
+
+pucrs 2024
+prova:
+gabarito:
+
+pucrs 2023
+prova:
+gabarito:
+
+pucrs 2022
+prova:
+gabarito:
+
+pucrs 2021
+prova:
+gabarito:
+
+pucrs 2020
+prova:
+gabarito:
+
+pucrs 2019
+prova:
+gabarito:
+
+pucrs 2018
+prova:
+gabarito:
+
+pucrs 2017
+prova:
+gabarito:
+
+pucrs 2016
+prova:
+gabarito:
+
+pucrs 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+CESUPA
+cesupa 2025
+prova:
+gabarito:
+
+cesupa 2024
+prova:
+gabarito:
+
+cesupa 2023
+prova:
+gabarito:
+
+cesupa 2022
+prova:
+gabarito:
+
+cesupa 2021
+prova:
+gabarito:
+
+cesupa 2020
+prova:
+gabarito:
+
+cesupa 2019
+prova:
+gabarito:
+
+cesupa 2018
+prova:
+gabarito:
+
+cesupa 2017
+prova:
+gabarito:
+
+cesupa 2016
+prova:
+gabarito:
+
+cesupa 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FMF
+fmf 2025
+prova:
+gabarito:
+
+fmf 2024
+prova:
+gabarito:
+
+fmf 2023
+prova:
+gabarito:
+
+fmf 2022
+prova:
+gabarito:
+
+fmf 2021
+prova:
+gabarito:
+
+fmf 2020
+prova:
+gabarito:
+
+fmf 2019
+prova:
+gabarito:
+
+fmf 2018
+prova:
+gabarito:
+
+fmf 2017
+prova:
+gabarito:
+
+fmf 2016
+prova:
+gabarito:
+
+fmf 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNICAP
+unicap 2025
+prova:
+gabarito:
+
+unicap 2024
+prova:
+gabarito:
+
+unicap 2023
+prova:
+gabarito:
+
+unicap 2022
+prova:
+gabarito:
+
+unicap 2021
+prova:
+gabarito:
+
+unicap 2020
+prova:
+gabarito:
+
+unicap 2019
+prova:
+gabarito:
+
+unicap 2018
+prova:
+gabarito:
+
+unicap 2017
+prova:
+gabarito:
+
+unicap 2016
+prova:
+gabarito:
+
+unicap 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+EBMSP
+ebmsp 2025
+prova:
+gabarito:
+
+ebmsp 2024
+prova:
+gabarito:
+
+ebmsp 2023
+prova:
+gabarito:
+
+ebmsp 2022
+prova:
+gabarito:
+
+ebmsp 2021
+prova:
+gabarito:
+
+ebmsp 2020
+prova:
+gabarito:
+
+ebmsp 2019
+prova:
+gabarito:
+
+ebmsp 2018
+prova:
+gabarito:
+
+ebmsp 2017
+prova:
+gabarito:
+
+ebmsp 2016
+prova:
+gabarito:
+
+ebmsp 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNINASSAU
+uninassau 2025
+prova:
+gabarito:
+
+uninassau 2024
+prova:
+gabarito:
+
+uninassau 2023
+prova:
+gabarito:
+
+uninassau 2022
+prova:
+gabarito:
+
+uninassau 2021
+prova:
+gabarito:
+
+uninassau 2020
+prova:
+gabarito:
+
+uninassau 2019
+prova:
+gabarito:
+
+uninassau 2018
+prova:
+gabarito:
+
+uninassau 2017
+prova:
+gabarito:
+
+uninassau 2016
+prova:
+gabarito:
+
+uninassau 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIFOR
+unifor 2025
+prova:
+gabarito:
+
+unifor 2024
+prova:
+gabarito:
+
+unifor 2023
+prova:
+gabarito:
+
+unifor 2022
+prova:
+gabarito:
+
+unifor 2021
+prova:
+gabarito:
+
+unifor 2020
+prova:
+gabarito:
+
+unifor 2019
+prova:
+gabarito:
+
+unifor 2018
+prova:
+gabarito:
+
+unifor 2017
+prova:
+gabarito:
+
+unifor 2016
+prova:
+gabarito:
+
+unifor 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+PUC-GO
+pucgo 2025
+prova:
+gabarito:
+
+pucgo 2024
+prova:
+gabarito:
+
+pucgo 2023
+prova:
+gabarito:
+
+pucgo 2022
+prova:
+gabarito:
+
+pucgo 2021
+prova:
+gabarito:
+
+pucgo 2020
+prova:
+gabarito:
+
+pucgo 2019
+prova:
+gabarito:
+
+pucgo 2018
+prova:
+gabarito:
+
+pucgo 2017
+prova:
+gabarito:
+
+pucgo 2016
+prova:
+gabarito:
+
+pucgo 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIVERSO
+universo 2025
+prova:
+gabarito:
+
+universo 2024
+prova:
+gabarito:
+
+universo 2023
+prova:
+gabarito:
+
+universo 2022
+prova:
+gabarito:
+
+universo 2021
+prova:
+gabarito:
+
+universo 2020
+prova:
+gabarito:
+
+universo 2019
+prova:
+gabarito:
+
+universo 2018
+prova:
+gabarito:
+
+universo 2017
+prova:
+gabarito:
+
+universo 2016
+prova:
+gabarito:
+
+universo 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIT-AL
+unital 2025
+prova:
+gabarito:
+
+unital 2024
+prova:
+gabarito:
+
+unital 2023
+prova:
+gabarito:
+
+unital 2022
+prova:
+gabarito:
+
+unital 2021
+prova:
+gabarito:
+
+unital 2020
+prova:
+gabarito:
+
+unital 2019
+prova:
+gabarito:
+
+unital 2018
+prova:
+gabarito:
+
+unital 2017
+prova:
+gabarito:
+
+unital 2016
+prova:
+gabarito:
+
+unital 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FAL
+fal 2025
+prova:
+gabarito:
+
+fal 2024
+prova:
+gabarito:
+
+fal 2023
+prova:
+gabarito:
+
+fal 2022
+prova:
+gabarito:
+
+fal 2021
+prova:
+gabarito:
+
+fal 2020
+prova:
+gabarito:
+
+fal 2019
+prova:
+gabarito:
+
+fal 2018
+prova:
+gabarito:
+
+fal 2017
+prova:
+gabarito:
+
+fal 2016
+prova:
+gabarito:
+
+fal 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIT
+unit 2025
+prova:
+gabarito:
+
+unit 2024
+prova:
+gabarito:
+
+unit 2023
+prova:
+gabarito:
+
+unit 2022
+prova:
+gabarito:
+
+unit 2021
+prova:
+gabarito:
+
+unit 2020
+prova:
+gabarito:
+
+unit 2019
+prova:
+gabarito:
+
+unit 2018
+prova:
+gabarito:
+
+unit 2017
+prova:
+gabarito:
+
+unit 2016
+prova:
+gabarito:
+
+unit 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIPIO
+unipio 2025
+prova:
+gabarito:
+
+unipio 2024
+prova:
+gabarito:
+
+unipio 2023
+prova:
+gabarito:
+
+unipio 2022
+prova:
+gabarito:
+
+unipio 2021
+prova:
+gabarito:
+
+unipio 2020
+prova:
+gabarito:
+
+unipio 2019
+prova:
+gabarito:
+
+unipio 2018
+prova:
+gabarito:
+
+unipio 2017
+prova:
+gabarito:
+
+unipio 2016
+prova:
+gabarito:
+
+unipio 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FDV
+fdv 2025
+prova:
+gabarito:
+
+fdv 2024
+prova:
+gabarito:
+
+fdv 2023
+prova:
+gabarito:
+
+fdv 2022
+prova:
+gabarito:
+
+fdv 2021
+prova:
+gabarito:
+
+fdv 2020
+prova:
+gabarito:
+
+fdv 2019
+prova:
+gabarito:
+
+fdv 2018
+prova:
+gabarito:
+
+fdv 2017
+prova:
+gabarito:
+
+fdv 2016
+prova:
+gabarito:
+
+fdv 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UVV
+uvv 2025
+prova:
+gabarito:
+
+uvv 2024
+prova:
+gabarito:
+
+uvv 2023
+prova:
+gabarito:
+
+uvv 2022
+prova:
+gabarito:
+
+uvv 2021
+prova:
+gabarito:
+
+uvv 2020
+prova:
+gabarito:
+
+uvv 2019
+prova:
+gabarito:
+
+uvv 2018
+prova:
+gabarito:
+
+uvv 2017
+prova:
+gabarito:
+
+uvv 2016
+prova:
+gabarito:
+
+uvv 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FAAO
+faao 2025
+prova:
+gabarito:
+
+faao 2024
+prova:
+gabarito:
+
+faao 2023
+prova:
+gabarito:
+
+faao 2022
+prova:
+gabarito:
+
+faao 2021
+prova:
+gabarito:
+
+faao 2020
+prova:
+gabarito:
+
+faao 2019
+prova:
+gabarito:
+
+faao 2018
+prova:
+gabarito:
+
+faao 2017
+prova:
+gabarito:
+
+faao 2016
+prova:
+gabarito:
+
+faao 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FAMETA
+fameta 2025
+prova:
+gabarito:
+
+fameta 2024
+prova:
+gabarito:
+
+fameta 2023
+prova:
+gabarito:
+
+fameta 2022
+prova:
+gabarito:
+
+fameta 2021
+prova:
+gabarito:
+
+fameta 2020
+prova:
+gabarito:
+
+fameta 2019
+prova:
+gabarito:
+
+fameta 2018
+prova:
+gabarito:
+
+fameta 2017
+prova:
+gabarito:
+
+fameta 2016
+prova:
+gabarito:
+
+fameta 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNINORTE-AC
+uninorte-ac 2025
+prova:
+gabarito:
+
+uninorte-ac 2024
+prova:
+gabarito:
+
+uninorte-ac 2023
+prova:
+gabarito:
+
+uninorte-ac 2022
+prova:
+gabarito:
+
+uninorte-ac 2021
+prova:
+gabarito:
+
+uninorte-ac 2020
+prova:
+gabarito:
+
+uninorte-ac 2019
+prova:
+gabarito:
+
+uninorte-ac 2018
+prova:
+gabarito:
+
+uninorte-ac 2017
+prova:
+gabarito:
+
+uninorte-ac 2016
+prova:
+gabarito:
+
+uninorte-ac 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FIMCA
+fimca 2025
+prova:
+gabarito:
+
+fimca 2024
+prova:
+gabarito:
+
+fimca 2023
+prova:
+gabarito:
+
+fimca 2022
+prova:
+gabarito:
+
+fimca 2021
+prova:
+gabarito:
+
+fimca 2020
+prova:
+gabarito:
+
+fimca 2019
+prova:
+gabarito:
+
+fimca 2018
+prova:
+gabarito:
+
+fimca 2017
+prova:
+gabarito:
+
+fimca 2016
+prova:
+gabarito:
+
+fimca 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIRON
+uniron 2025
+prova:
+gabarito:
+
+uniron 2024
+prova:
+gabarito:
+
+uniron 2023
+prova:
+gabarito:
+
+uniron 2022
+prova:
+gabarito:
+
+uniron 2021
+prova:
+gabarito:
+
+uniron 2020
+prova:
+gabarito:
+
+uniron 2019
+prova:
+gabarito:
+
+uniron 2018
+prova:
+gabarito:
+
+uniron 2017
+prova:
+gabarito:
+
+uniron 2016
+prova:
+gabarito:
+
+uniron 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNICEUMA
+uniceuma 2025
+prova:
+gabarito:
+
+uniceuma 2024
+prova:
+gabarito:
+
+uniceuma 2023
+prova:
+gabarito:
+
+uniceuma 2022
+prova:
+gabarito:
+
+uniceuma 2021
+prova:
+gabarito:
+
+uniceuma 2020
+prova:
+gabarito:
+
+uniceuma 2019
+prova:
+gabarito:
+
+uniceuma 2018
+prova:
+gabarito:
+
+uniceuma 2017
+prova:
+gabarito:
+
+uniceuma 2016
+prova:
+gabarito:
+
+uniceuma 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIFSA
+unifsa 2025
+prova:
+gabarito:
+
+unifsa 2024
+prova:
+gabarito:
+
+unifsa 2023
+prova:
+gabarito:
+
+unifsa 2022
+prova:
+gabarito:
+
+unifsa 2021
+prova:
+gabarito:
+
+unifsa 2020
+prova:
+gabarito:
+
+unifsa 2019
+prova:
+gabarito:
+
+unifsa 2018
+prova:
+gabarito:
+
+unifsa 2017
+prova:
+gabarito:
+
+unifsa 2016
+prova:
+gabarito:
+
+unifsa 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNINOVAFAPI
+uninovafapi 2025
+prova:
+gabarito:
+
+uninovafapi 2024
+prova:
+gabarito:
+
+uninovafapi 2023
+prova:
+gabarito:
+
+uninovafapi 2022
+prova:
+gabarito:
+
+uninovafapi 2021
+prova:
+gabarito:
+
+uninovafapi 2020
+prova:
+gabarito:
+
+uninovafapi 2019
+prova:
+gabarito:
+
+uninovafapi 2018
+prova:
+gabarito:
+
+uninovafapi 2017
+prova:
+gabarito:
+
+uninovafapi 2016
+prova:
+gabarito:
+
+uninovafapi 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNICEUB
+uniceub 2025
+prova:
+gabarito:
+
+uniceub 2024
+prova:
+gabarito:
+
+uniceub 2023
+prova:
+gabarito:
+
+uniceub 2022
+prova:
+gabarito:
+
+uniceub 2021
+prova:
+gabarito:
+
+uniceub 2020
+prova:
+gabarito:
+
+uniceub 2019
+prova:
+gabarito:
+
+uniceub 2018
+prova:
+gabarito:
+
+uniceub 2017
+prova:
+gabarito:
+
+uniceub 2016
+prova:
+gabarito:
+
+uniceub 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+ESCS
+escs 2025
+prova:
+gabarito:
+
+escs 2024
+prova:
+gabarito:
+
+escs 2023
+prova:
+gabarito:
+
+escs 2022
+prova:
+gabarito:
+
+escs 2021
+prova:
+gabarito:
+
+escs 2020
+prova:
+gabarito:
+
+escs 2019
+prova:
+gabarito:
+
+escs 2018
+prova:
+gabarito:
+
+escs 2017
+prova:
+gabarito:
+
+escs 2016
+prova:
+gabarito:
+
+escs 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+IESB
+iesb 2025
+prova:
+gabarito:
+
+iesb 2024
+prova:
+gabarito:
+
+iesb 2023
+prova:
+gabarito:
+
+iesb 2022
+prova:
+gabarito:
+
+iesb 2021
+prova:
+gabarito:
+
+iesb 2020
+prova:
+gabarito:
+
+iesb 2019
+prova:
+gabarito:
+
+iesb 2018
+prova:
+gabarito:
+
+iesb 2017
+prova:
+gabarito:
+
+iesb 2016
+prova:
+gabarito:
+
+iesb 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNP
+unp 2025
+prova:
+gabarito:
+
+unp 2024
+prova:
+gabarito:
+
+unp 2023
+prova:
+gabarito:
+
+unp 2022
+prova:
+gabarito:
+
+unp 2021
+prova:
+gabarito:
+
+unp 2020
+prova:
+gabarito:
+
+unp 2019
+prova:
+gabarito:
+
+unp 2018
+prova:
+gabarito:
+
+unp 2017
+prova:
+gabarito:
+
+unp 2016
+prova:
+gabarito:
+
+unp 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+ULBRA
+ulbra 2025
+prova:
+gabarito:
+
+ulbra 2024
+prova:
+gabarito:
+
+ulbra 2023
+prova:
+gabarito:
+
+ulbra 2022
+prova:
+gabarito:
+
+ulbra 2021
+prova:
+gabarito:
+
+ulbra 2020
+prova:
+gabarito:
+
+ulbra 2019
+prova:
+gabarito:
+
+ulbra 2018
+prova:
+gabarito:
+
+ulbra 2017
+prova:
+gabarito:
+
+ulbra 2016
+prova:
+gabarito:
+
+ulbra 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNICATÓLICA
+unicatólica 2025
+prova:
+gabarito:
+
+unicatólica 2024
+prova:
+gabarito:
+
+unicatólica 2023
+prova:
+gabarito:
+
+unicatólica 2022
+prova:
+gabarito:
+
+unicatólica 2021
+prova:
+gabarito:
+
+unicatólica 2020
+prova:
+gabarito:
+
+unicatólica 2019
+prova:
+gabarito:
+
+unicatólica 2018
+prova:
+gabarito:
+
+unicatólica 2017
+prova:
+gabarito:
+
+unicatólica 2016
+prova:
+gabarito:
+
+unicatólica 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FAMA
+fama 2025
+prova:
+gabarito:
+
+fama 2024
+prova:
+gabarito:
+
+fama 2023
+prova:
+gabarito:
+
+fama 2022
+prova:
+gabarito:
+
+fama 2021
+prova:
+gabarito:
+
+fama 2020
+prova:
+gabarito:
+
+fama 2019
+prova:
+gabarito:
+
+fama 2018
+prova:
+gabarito:
+
+fama 2017
+prova:
+gabarito:
+
+fama 2016
+prova:
+gabarito:
+
+fama 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FARES
+fares 2025
+prova:
+gabarito:
+
+fares 2024
+prova:
+gabarito:
+
+fares 2023
+prova:
+gabarito:
+
+fares 2022
+prova:
+gabarito:
+
+fares 2021
+prova:
+gabarito:
+
+fares 2020
+prova:
+gabarito:
+
+fares 2019
+prova:
+gabarito:
+
+fares 2018
+prova:
+gabarito:
+
+fares 2017
+prova:
+gabarito:
+
+fares 2016
+prova:
+gabarito:
+
+fares 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+PUC-RIO
+pucrio 2025
+prova:
+gabarito:
+
+pucrio 2024
+prova:
+gabarito:
+
+pucrio 2023
+prova:
+gabarito:
+
+pucrio 2022
+prova:
+gabarito:
+
+pucrio 2021
+prova:
+gabarito:
+
+pucrio 2020
+prova:
+gabarito:
+
+pucrio 2019
+prova:
+gabarito:
+
+pucrio 2018
+prova:
+gabarito:
+
+pucrio 2017
+prova:
+gabarito:
+
+pucrio 2016
+prova:
+gabarito:
+
+pucrio 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UCP
+ucp 2025
+prova:
+gabarito:
+
+ucp 2024
+prova:
+gabarito:
+
+ucp 2023
+prova:
+gabarito:
+
+ucp 2022
+prova:
+gabarito:
+
+ucp 2021
+prova:
+gabarito:
+
+ucp 2020
+prova:
+gabarito:
+
+ucp 2019
+prova:
+gabarito:
+
+ucp 2018
+prova:
+gabarito:
+
+ucp 2017
+prova:
+gabarito:
+
+ucp 2016
+prova:
+gabarito:
+
+ucp 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UCB
+ucb 2025
+prova:
+gabarito:
+
+ucb 2024
+prova:
+gabarito:
+
+ucb 2023
+prova:
+gabarito:
+
+ucb 2022
+prova:
+gabarito:
+
+ucb 2021
+prova:
+gabarito:
+
+ucb 2020
+prova:
+gabarito:
+
+ucb 2019
+prova:
+gabarito:
+
+ucb 2018
+prova:
+gabarito:
+
+ucb 2017
+prova:
+gabarito:
+
+ucb 2016
+prova:
+gabarito:
+
+ucb 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNICARIOCA
+unicarioca 2025
+prova:
+gabarito:
+
+unicarioca 2024
+prova:
+gabarito:
+
+unicarioca 2023
+prova:
+gabarito:
+
+unicarioca 2022
+prova:
+gabarito:
+
+unicarioca 2021
+prova:
+gabarito:
+
+unicarioca 2020
+prova:
+gabarito:
+
+unicarioca 2019
+prova:
+gabarito:
+
+unicarioca 2018
+prova:
+gabarito:
+
+unicarioca 2017
+prova:
+gabarito:
+
+unicarioca 2016
+prova:
+gabarito:
+
+unicarioca 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FACHA
+facha 2025
+prova:
+gabarito:
+
+facha 2024
+prova:
+gabarito:
+
+facha 2023
+prova:
+gabarito:
+
+facha 2022
+prova:
+gabarito:
+
+facha 2021
+prova:
+gabarito:
+
+facha 2020
+prova:
+gabarito:
+
+facha 2019
+prova:
+gabarito:
+
+facha 2018
+prova:
+gabarito:
+
+facha 2017
+prova:
+gabarito:
+
+facha 2016
+prova:
+gabarito:
+
+facha 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+IBMR
+ibmr 2025
+prova:
+gabarito:
+
+ibmr 2024
+prova:
+gabarito:
+
+ibmr 2023
+prova:
+gabarito:
+
+ibmr 2022
+prova:
+gabarito:
+
+ibmr 2021
+prova:
+gabarito:
+
+ibmr 2020
+prova:
+gabarito:
+
+ibmr 2019
+prova:
+gabarito:
+
+ibmr 2018
+prova:
+gabarito:
+
+ibmr 2017
+prova:
+gabarito:
+
+ibmr 2016
+prova:
+gabarito:
+
+ibmr 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UVA
+uva 2025
+prova:
+gabarito:
+
+uva 2024
+prova:
+gabarito:
+
+uva 2023
+prova:
+gabarito:
+
+uva 2022
+prova:
+gabarito:
+
+uva 2021
+prova:
+gabarito:
+
+uva 2020
+prova:
+gabarito:
+
+uva 2019
+prova:
+gabarito:
+
+uva 2018
+prova:
+gabarito:
+
+uva 2017
+prova:
+gabarito:
+
+uva 2016
+prova:
+gabarito:
+
+uva 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNISUAM
+unisuam 2025
+prova:
+gabarito:
+
+unisuam 2024
+prova:
+gabarito:
+
+unisuam 2023
+prova:
+gabarito:
+
+unisuam 2022
+prova:
+gabarito:
+
+unisuam 2021
+prova:
+gabarito:
+
+unisuam 2020
+prova:
+gabarito:
+
+unisuam 2019
+prova:
+gabarito:
+
+unisuam 2018
+prova:
+gabarito:
+
+unisuam 2017
+prova:
+gabarito:
+
+unisuam 2016
+prova:
+gabarito:
+
+unisuam 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UCL
+ucl 2025
+prova:
+gabarito:
+
+ucl 2024
+prova:
+gabarito:
+
+ucl 2023
+prova:
+gabarito:
+
+ucl 2022
+prova:
+gabarito:
+
+ucl 2021
+prova:
+gabarito:
+
+ucl 2020
+prova:
+gabarito:
+
+ucl 2019
+prova:
+gabarito:
+
+ucl 2018
+prova:
+gabarito:
+
+ucl 2017
+prova:
+gabarito:
+
+ucl 2016
+prova:
+gabarito:
+
+ucl 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FAFIMA
+fafima 2025
+prova:
+gabarito:
+
+fafima 2024
+prova:
+gabarito:
+
+fafima 2023
+prova:
+gabarito:
+
+fafima 2022
+prova:
+gabarito:
+
+fafima 2021
+prova:
+gabarito:
+
+fafima 2020
+prova:
+gabarito:
+
+fafima 2019
+prova:
+gabarito:
+
+fafima 2018
+prova:
+gabarito:
+
+fafima 2017
+prova:
+gabarito:
+
+fafima 2016
+prova:
+gabarito:
+
+fafima 2015
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNILASALLE
+unilasalle 2025
+prova:
+gabarito:
+
+unilasalle 2024
+prova:
+gabarito:
+
+unilasalle 2023
+prova:
+gabarito:
+
+unilasalle 2022
+prova:
+gabarito:
+
+unilasalle 2021
+prova:
+gabarito:
+
+unilasalle 2020
+prova:
+gabarito:
+
+unilasalle 2019
+prova:
+gabarito:
+
+unilasalle 2018
+prova:
+gabarito:
+
+unilasalle 2017
+prova:
+gabarito:
+
+unilasalle 2016
+prova:
+gabarito:
+
+unilasalle 2015
+prova:
+gabarito:

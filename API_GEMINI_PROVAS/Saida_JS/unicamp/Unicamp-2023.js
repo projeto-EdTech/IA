@@ -1,0 +1,1439 @@
+createQuestion({
+    id: 1,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Texto 1\nCRACOLÂNDIA\n(MARZ, Marília. Folha de São Paulo, 4 jun. 2022, p. A2.)\n\nTexto 2\nCracolândia vive 30 anos de eterno retorno\nRepressão à droga não faz mais do que dispersar usuários; especia-listas cobram articulação de políticas\nEla surgiu na Santa Efigênia, nos cruzamentos da rua dos Gus-mões com as pequenas ruas dos Protestantes e do Triunfo, logo atrás da Estação Ferroviária da Luz, no centro de São Paulo. E há quase 30 anos, migra de um quarteirão para outro, em modo constante, se esparramando pelos bairros vizinhos.\nA itinerância da maior cena aberta de uso de crack e outras dro-gas do país, batizada de cracolândia nos anos 1990, é fruto ora de um jogo de esconde-esconde, a partir do mando do crime organizado, ora do empurra-empurra das operações policiais que incidem sobre ela, onde quer que esteja.\n(Adaptado de MENA, Fernanda, Cracolândia vive 30 anos de eterno retorno. Folha de São Paulo, 4 jun. 2022, p. B4.)\n\nIndique a alternativa que apresenta palavras ou termos do Tex-to 2 diretamente relacionados a elementos representados na charge (Texto 1).",
+      subItens: []
+    },
+    options: [
+      "\"articulação de políticas\" e \"esconde-esconde\"",
+      "\"empurra-empurra\" e \"eterno retorno\"",
+      "\"itinerância\" e \"crime organizado\"",
+      "\"repressão à droga\" e \"bairros vizinhos”"
+    ],
+    correctAnswer: 1,
+    materia: ["Língua Portuguesa", "Arte"],
+    conteudo: ["Interpretação de texto", "Leitura de imagem"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 2,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Papo Preto: Vamos falar sobre transfeminismo?\nNeste episódio do podcast Papo Preto, o apresentador Yago Ro-drigues e a cinegrafista Débora Oliveira recebem Jarda Maria, que se tornou símbolo da luta pelos direitos das transexuais em Recife após ingressar na Universidade Federal de Pernambuco. Ela fala sobre os desafios de ocupar e se manter no ambiente acadêmico e da importância de compreender o que é o trans-feminismo.\nJarda explica que o conceito de transfeminismo ou feminismo trans surge nos EUA quando foi percebido que as pautas dis-cutidas no feminismo não abarcavam a situação das mulheres trans e travestis. Ela diz que há muita cobrança em cima da comunidade de transexuais e travestis sobre os motivos e as causas da violência que sofrem todos os dias, mas as respostas devem partir da sociedade, que deve praticar a não violência e dar exemplos.\n\"Nós já estamos preocupadas em pensar esses meios de sobre-vivência, que as pessoas que movimentam a transfobia pensem os movimentos de enfrentamento. A transfobia e a travestifobia são problemáticas cisgêneras e não nossa. Nós somos vítimas desse processo\", afirma Jarda.\n(PAPO PRETO 69: Vamos falar sobre transfeminismo? [Locução de] Yago Rodrigues. S. I. Ecoa Produções, 09/03/2020. Podcast. Disponível em https://uol.com.br/ecoa/vi-deos/2022/03/09/papo-preto-69-vamos-falar-sobre-transfeminism0.htm. Acesso em 20/10/2022.)\n\nSobre as ocorrências do item trans no texto, podemos afirmar que",
+      subItens: []
+    },
+    options: [
+      "introduzem termos como transfeminismo e transfobia, que servem para conceituar tipos de violência contra mulheres trans.",
+      "o seu emprego em transfeminismo indica que a pauta fe-minista já se estende às mulheres trans, mas ainda exclui as travestis.",
+      "é empregado como antônimo do prefixo cis- para indicar que a transfobia e a travestifobia devem preocupar apenas as pessoas cisgêneras.",
+      "remete a transexuais e travestis no termo feminismo trans, que é sinônimo de transfeminismo e abrange grupos não incluídos na pauta feminista."
+    ],
+    correctAnswer: 3,
+    materia: ["Sociologia", "Língua Portuguesa"],
+    conteudo: ["Movimentos sociais e identidades", "Interpretação de texto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 3,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia o texto a seguir para responder às questões 3 e 4.\nQuebrando o silêncio dos hospícios\nStella do Patrocínio, apesar de ser reconhecida postumamente como poeta, nunca se definiu assim e não escreveu nenhuma das linhas que estão no livro Reino dos bichos e dos animais é o meu nome, pelo qual ficou conhecida. A potência de suas pa-lavras se encontra no seu falatório (como chamava suas falas), que foi preservado em fitas de áudio pela artista plástica Carla Guagliardi. As conversas entre as duas foram gravadas durante oficinas de arte para pacientes psiquiátricos, entre 1986 e 1988, e o livro, publicado muitos anos depois da morte de Patrocínio, é um recorte de frases dela, transcritas desses diálogos.\nAs falas de Patrocínio são de uma mulher negra e pobre que foi levada à força pela polícia e internada, no Centro Pedro 2º e de-pois na Colônia Juliano Moreira, no Rio de Janeiro, onde ficou por trinta anos; quando morreu, foi enterrada como indigente. A história de Patrocínio é a história de milhares de vítimas que foram encarceradas nos hospícios brasileiros por serem conside-radas \"desajustadas\". Em sua maioria negras. Ali, elas sofreram abusos, violências e torturas, além de serem abandonadas pelo Estado.\n(Adaptado de: Quebrando o silêncio dos hospícios. Quatro cinco um, 05/2022, p. 27.)\n\nExaminando a relação do título com o corpo do excerto da re-portagem de revista, o que representa a quebra do \"silêncio dos hospícios\"?",
+      subItens: []
+    },
+    options: [
+      "A morte esquecida de Stella do Patrocínio em uma institui-ção para reclusão de pessoas com transtornos mentais (ou assim consideradas).",
+      "As oficinas de arte que permitiram a Stella do Patrocínio tornar pública a sua voz e as histórias de mulheres encarce-radas em instituições manicomiais.",
+      "O livro de Stella do Patrocínio que narra as histórias de mu-lheres vítimas de violência manicomial, abandonadas pelo Estado.",
+      "As falas gravadas de Stella do Patrocínio que expressam tanto o seu percurso individual quanto a história de outras mulheres."
+    ],
+    correctAnswer: 3,
+    materia: ["Língua Portuguesa", "História"],
+    conteudo: ["Interpretação de texto", "História do Brasil (Saúde mental e manicômios)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 4,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia o texto a seguir para responder às questões 3 e 4.\nQuebrando o silêncio dos hospícios\nStella do Patrocínio, apesar de ser reconhecida postumamente como poeta, nunca se definiu assim e não escreveu nenhuma das linhas que estão no livro Reino dos bichos e dos animais é o meu nome, pelo qual ficou conhecida. A potência de suas pa-lavras se encontra no seu falatório (como chamava suas falas), que foi preservado em fitas de áudio pela artista plástica Carla Guagliardi. As conversas entre as duas foram gravadas durante oficinas de arte para pacientes psiquiátricos, entre 1986 e 1988, e o livro, publicado muitos anos depois da morte de Patrocínio, é um recorte de frases dela, transcritas desses diálogos.\nAs falas de Patrocínio são de uma mulher negra e pobre que foi levada à força pela polícia e internada, no Centro Pedro 2º e de-pois na Colônia Juliano Moreira, no Rio de Janeiro, onde ficou por trinta anos; quando morreu, foi enterrada como indigente. A história de Patrocínio é a história de milhares de vítimas que foram encarceradas nos hospícios brasileiros por serem conside-radas \"desajustadas\". Em sua maioria negras. Ali, elas sofreram abusos, violências e torturas, além de serem abandonadas pelo Estado.\n(Adaptado de: Quebrando o silêncio dos hospícios. Quatro cinco um, 05/2022, p. 27.)\n\nCom base ainda no texto, \"falatório\" pode ser considerado como",
+      subItens: []
+    },
+    options: [
+      "a modalidade declamada dos poemas de Stella do Patrocí-nio.",
+      "uma prática discursiva oral nomeada por Stella do Patrocí-nio.",
+      "a denominação, usada no manicômio, para conversas tera-pêuticas.",
+      "um gênero de poesia transcrita produzida por Stella do Pa-trocínio."
+    ],
+    correctAnswer: 1,
+    materia: ["Língua Portuguesa"],
+    conteudo: ["Interpretação de texto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 5,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Paulo Bruno\n@_paulo_bruno\nAchei o momento bonito e fiquei imaginando como teria ficado essa selfie, então desenhei uma interpretação minha\n\n(Fonte: Twitter. https://twitter.com/_paulo_bruno/status/1513855458456616969. Aces-so em 03/06/2022.)\nO texto apresenta a reprodução de uma postagem em Twitter do ilustrador e quadrinista Paulo Bruno. Considerando o texto e as duas imagens do tuíte, assinale a alternativa que melhor descreve o sentido de \"interpretação\" nesse contexto particular de uso.",
+      subItens: []
+    },
+    options: [
+      "A imaginação, em desenho, do ponto de vista da selfie que é tematizada na foto.",
+      "A adulteração, no desenho, do significado da foto pela mu-dança de perspectiva.",
+      "A cópia, em ilustração, de uma fotografia que mostra a pro-dução de uma selfie.",
+      "A recriação, em fotografia, da ilustração que simula uma selfie em grupo."
+    ],
+    correctAnswer: 0,
+    materia: ["Língua Portuguesa", "Arte"],
+    conteudo: ["Interpretação de texto", "Leitura de imagem"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 6,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Você provavelmente já encontrou pelas redes sociais o famige-rado #sqn, aquele jeito telegráfico de dizer que tal coisa é mui-to legal, \"só que não”. Agora, imagine uma língua diferente do português que tenha incorporado um conceito parecido na própria estrutura das palavras, criando o que foi apelidado de \"sufixo frustrativo\". Bom, é assim no kotiria, um idioma da fa-mília linguística tukano falado por indígenas do Alto Rio Negro, na fronteira do Brasil com a Colômbia. Para exprimir a função \"frustrativa\", o kotiria usa um sufixo com a forma -ma. Você quer dizer que foi até um lugar sem conseguir o que queria indo até lá? Basta pegar o verbo ir, que é wa'a em kotiria, e acrescentar o sufixo: wa'ama, \"ir em vão”.\n(Adaptado de: LOPES, R. J. L. A sofisticação das línguas indígenas. Superinteressante, 18/11/2021.)\n\nO excerto, retirado de uma revista de jornalismo científico, exemplifica um processo de formação de palavras na língua indígena kotiria e o compara com o uso da hashtag #sqn. É correto afirmar que essa comparação",
+      subItens: []
+    },
+    options: [
+      "cria uma falsa equivalência, pois os processos morfológicos em kotiria e em português são diferentes.",
+      "enfatiza a construção de efeitos de sentido parecidos por meio de processos distintos em kotiria e no português de internet.",
+      "permite compreender processos idênticos de formação de palavras nas línguas portuguesa e kotiria.",
+      "ressalta as diferenças no uso dos sufixos –ma, em kotiria, e #sqn, no português usado na internet."
+    ],
+    correctAnswer: 1,
+    materia: ["Língua Portuguesa"],
+    conteudo: ["Morfologia e formação de palavras", "Variação linguística"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 7,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Na última crônica da série \"Bons dias!\", de 29 de agosto de 1889, série na qual um tema são as questões gerais em torno do curandeirismo, o narrador enuncia:\n\"Hão de fazer-me esta justiça, ainda os meus mais ferrenhos inimigos; é que não sou curandeiro, eu não tenho parente curandeiro, não conheço curandeiro, e nunca vi cara, foto-grafia ou relíquia, sequer, de curandeiro. Quando adoeço, não é de espinhela caída*, coisa que podia aconselhar-me a curanderia; é sempre de moléstias latinas ou gregas. Estou na regra; pago impostos, sou jurado, não me podem arguir a menor quebra de dever público.\"\n(ASSIS, Machado de. Bons dias! Campinas: Editora da UNICAMP, p. 295, 2008.)\n*espinhela caída: designação popular para doenças caracteri-zadas por dores pelo corpo (peito, costas e pernas), além de cansaço físico.\n\nNa \"profissão de fé\", feita pelo narrador da crônica no parágra-fo citado, percebe-se",
+      subItens: []
+    },
+    options: [
+      "a distinção do narrador como uma figura avessa ao curan-deirismo, por crença na ciência dos filósofos e pensadores gregos e latinos, o que marca o tom crítico da série.",
+      "a caracterização do narrador como uma figura superior à população em geral, o que ecoa o tom analítico das crônicas dessa série.",
+      "a repetição exagerada da palavra \"curandeiro\" (e \"curan-deria\") no trecho, como marca estilística da simplicidade linguística das crônicas dessa série.",
+      "a personificação gerada por \"quando adoeço (...) é sempre de moléstias latinas ou gregas\", como marca do estilo em-polado do narrador nessa série de crônicas."
+    ],
+    correctAnswer: 1,
+    materia: ["Língua Portuguesa"],
+    conteudo: ["Literatura Brasileira (Machado de Assis)", "Interpretação de texto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 8,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Conheço um povo sem poligamia: o povo macua. Este povo deixou as suas raízes e apoligamou-se por influência da religião. Islamizou-se. (...) Conheço um povo de tradi-ção poligâmica: o meu, do sul do meu país. Inspirado no papa, nos padres e nos santos, disse não à poligamia. Cristianizou-se. Jurou deixar os costumes bárbaros de casar com muitas mulheres para tornar-se monógamo ou celibatá-rio. (...) Um dia dizem não aos costumes, sim ao cristianismo e à lei. No momento seguinte, dizem não onde disseram sim, ou sim onde disseram não.\n(CHIZIANE, Paulina. Niketche. Uma história de poligamia. São Paulo: Companhia das Letras, 2004, p. 92.)\n\nBaseando-se no excerto e na leitura da obra, é correto afirmar que",
+      subItens: []
+    },
+    options: [
+      "a organização familiar é fruto da vida religiosa dos povos, cabendo assim a monogamia aos povos cristãos e a poliga-mia aos povos islâmicos.",
+      "os costumes culturais no modo de organizar os arranjos fa-miliares são colocados em xeque por novas estruturas de poder, as quais transmitem outros valores.",
+      "a monogamia aparece como evolução natural aos costumes supostamente bárbaros de os homens se casarem com mui-tas mulheres em determinadas culturas africanas.",
+      "o povo macua tornou-se monogâmico depois de abraçar a fé cristã trazida pelo papa e padres, o que pode ser conside-rado um aprimoramento social."
+    ],
+    correctAnswer: 1,
+    materia: ["Sociologia", "Língua Portuguesa"],
+    conteudo: ["Antropologia (Organização familiar)", "Literatura (Literatura africana de língua portuguesa)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 9,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Texto 1\n\"Parece-me gente de tal inocência que, se nós os entendês-semos e eles a nós, seriam logo cristãos porque eles não têm nem conhecem nenhuma crença. E, portanto, se os degre-dados que aqui hão de ficar aprenderem bem a sua fala e os entenderem, não duvido que eles, segundo a santa intenção de Vossa Alteza, se tornem cristãos e passem a crer em nossa santa fé, à qual praza a Nosso Senhor que os traga. Porque certamente esta gente é boa e de boa simplicidade, e imprimir-se-á ligeiramente neles qualquer cunho que lhes quiserem dar. E, pois, Nosso Senhor, que lhes deu bons cor-pos e bons rostos, como a bons homens, se aqui nos trouxe, creio que não foi sem um motivo.”\n(CAMINHA, Pero Vaz de. Carta de Achamento do Brasil. Campinas: Editora da UNICAMP, 2001, p. 108.)\n\nTexto 2\n\"As molas do homem primitivo podem ser postas em ação pelo exemplo, educação e benefícios (...). Newton, se hou-vesse nascido entre os guaranis, seria mais um bípede, que pisara sobre a superfície da Terra; mas um guarani criado por Newton talvez ocupasse o seu lugar. Quem ler o diálogo que traz Léry na sua viagem ao Brasil entre um francês e um ve-lho carijó conhecerá que não falta aos índios bravos o lume natural da razão.\"\n(ANDRADA E SILVA, José Bonifácio de. Projetos para o Brasil. São Paulo: Companhia das Letras, 2000, p. 50.)\n\nA partir dos dois textos, escritos em momentos emblemáticos da história do Brasil (o \"achamento\" em 1500 e o debate de ideias para a criação de uma constituição em 1823), seria corre-to afirmar que os povos originários são",
+      subItens: []
+    },
+    options: [
+      "definidos como díspares entre si, pois Caminha os vê como ingênuos, crédulos, enquanto Bonifácio alerta para o perigo dos indígenas bravos.",
+      "considerados uma página em branco e maleáveis, tanto no texto do cronista quinhentista quanto naquele do publicista oitocentista.",
+      "apontados como benignos, com a intenção de preservar os indígenas distantes da degradação dos costumes europeus.",
+      "tributários de uma imutabilidade cultural, tanto na crônica de Caminha quanto no discurso de José Bonifácio."
+    ],
+    correctAnswer: 1,
+    materia: ["História", "Língua Portuguesa"],
+    conteudo: ["História do Brasil (Período Colonial)", "Literatura Brasileira (Quinhentismo, Arcadismo)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 10,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Texto 1\n\"Desde que, naufragado, se salvara, o marinheiro vivia ali... Como ele não tinha meio de voltar à pátria, e cada vez que se lembrava dela sofria, pôs-se a sonhar uma pátria que nun-ca tivesse tido: pôs-se a fazer ter sido sua uma outra pátria, uma outra espécie de país com outras espécies de paisagens, e outra gente, e outro feitio de passarem pelas ruas e de se debruçarem das janelas (...)\"\n(PESSOA, Fernando. O Marinheiro. Campinas: Editora da UNICAMP, p. 59, 2020.)\n\nTexto 2\n\"Na capacidade para amoldar-se a todos os meios, em pre-juízo, muitas vezes de suas próprias características raciais e culturais, revelou o português melhores aptidões de coloni-zador do que os demais povos (...). Os portugueses precisa-ram anular-se durante o longo tempo para afinal vencerem. Como o grão de trigo dos Evangelhos, o qual há de primei-ramente morrer para depois crescer e dar muitos frutos.\"\n(HOLANDA, Sérgio Buarque de. Raízes do Brasil. São Paulo: Companhia das Letras, p. 224, 2016.)\n\nLevando em conta os textos 1 e 2, assinale a alternativa correta.",
+      subItens: []
+    },
+    options: [
+      "O marinheiro e o colonizador português são capazes de criar valores e paisagens, reinventando-se, a ponto de forjarem outra realidade e outra memória do passado.",
+      "O marinheiro e o colonizador português constroem novos mundos e valores no além-mar, mas são incapazes de anular sua identidade original.",
+      "O marinheiro e o colonizador português, apesar do esforço de construção cultural, limitam-se a transpor integralmen-te o que aprenderam no passado para as configurações do futuro.",
+      "O marinheiro e o colonizador português acabam anulando suas identidades originais, representando, assim, figuras in-questionáveis de niilismo."
+    ],
+    correctAnswer: 0,
+    materia: ["Língua Portuguesa", "História"],
+    conteudo: ["Literatura Portuguesa (Fernando Pessoa)", "Formação do Brasil (Sérgio Buarque de Holanda)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 11,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "\"Ciclo\nManhã. Sangue em delírio, verde gomo,\nPromessa ardente, berço e liminar:\nA árvore pulsa, no primeiro assomo\nDa vida, inchando a seiva ao sol... Sonhar!\n\nDia. A flor, o noivado e o beijo, como\nEm perfumes um tálamo e um altar:\nA árvore abre-se em riso, espera o pomo,\nE canta à voz dos pássaros... Amar!\n\nTarde. Messe e esplendor, glória e tributo;\nA árvore maternal levanta o fruto,\nA hóstia da ideia em perfeição... Pensar!\n\nNoite. Oh! saudade!...A dolorosa rama\nDa árvore a aflita pelo chão derrama\nAs folhas, como lágrimas... Lembrar!\"\n(BILAC, Olavo. Tarde. 1.ed. Rio de Janeiro; São Paulo; Belo Horizonte: Libraria Francisco Alves, p. 12-13, 1919.)\n\nNo soneto \"Ciclo\",",
+      subItens: []
+    },
+    options: [
+      "a reiteração de um mesmo tipo de frase no final de cada estrofe acentua o idealismo e a rememoração.",
+      "a metáfora da árvore faz uso de um vocabulário botânico, que evoca o cientificismo da época.",
+      "as frases nominais do início das estrofes contradizem os sen-tidos de cada estrofe anterior.",
+      "o paralelismo estrutural entre as estrofes de \"Ciclo\" evoca o desgaste dos recursos do poeta."
+    ],
+    correctAnswer: 0,
+    materia: ["Língua Portuguesa"],
+    conteudo: ["Literatura Brasileira (Parnasianismo)", "Análise poética"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 12,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "\"Deus fez o mar, as árvore, as criança, o amor\nO homem me deu a favela, o crack, a trairagem, as arma, as bebida, as puta\nEu?! Eu tenho uma Bíblia velha, uma pistola automática e um sentimento de revolta\nEu tô tentando sobreviver no inferno\".\n(RACIONAIS MC'S. Gênesis. In: Sobrevivendo no inferno. São Paulo: Companhia das Letras, p. 45, 2018.)\n\nA palavra \"Gênesis” dá nome ao primeiro livro da Bíblia. Con-siderando a obra, na íntegra, dos Racionais MC's e o excerto acima dela reproduzido, pode-se dizer que, em relação a esse trecho, \"gênesis\" seria uma alusão",
+      subItens: []
+    },
+    options: [
+      "à influência do cristianismo na dinâmica das comunidades periféricas.",
+      "ao colapso planetário entrevisto já na origem do mundo na-tural.",
+      "à origem divina do mundo contraposta aos problemas cria-dos pelo homem.",
+      "à origem religiosa dos conflitos armados e da violência social no Brasil."
+    ],
+    correctAnswer: 2,
+    materia: ["Língua Portuguesa", "Sociologia", "Filosofia"],
+    conteudo: ["Literatura Brasileira (Racionais MC's)", "Desigualdade social", "Ética"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 13,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Um artigo científico relata a construção e a eficiência de um re-ator fotocatalítico de fluxo contínuo para a degradação de hor-mônios presentes em águas tratadas para consumo humano. Num trecho desse estudo, os autores afirmam: \"é interessante notar que 80% de estrogênio foram removidos numa alimen-tação a 200 ng/L, 25 mW/cm² e 300 L/(m² h), enquanto que as remoções de progesterona e testosterona ficaram em 44% e 33%, respectivamente\".\n\nDe acordo com essas informações, pode-se inferir que o reator é capaz de degradar",
+      subItens: []
+    },
+    options: [
+      "dois hormônios femininos e um masculino, sendo que de-grada melhor um feminino.",
+      "dois hormônios femininos e um masculino, sendo que de-grada melhor o masculino.",
+      "somente hormônios masculinos, sendo que degrada melhor o estrogênio.",
+      "somente hormônios femininos, sendo que degrada melhor o estrogênio."
+    ],
+    correctAnswer: 0,
+    materia: ["Química", "Biologia"],
+    conteudo: ["Química ambiental", "Fisiologia humana"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 14,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia os textos 1 e 2, a seguir, para responder às questões 14 e 15.\nTexto 1\nA Química Verde é uma área multidisciplinar que cria, desen-volve e aplica produtos e processos químicos que visam à redu-ção ou eliminação do uso e da geração de substâncias nocivas ao meio ambiente e ao homem. Em 2019, para reunir várias ações relativas à Química Verde, os pesquisadores Paul T. Anas-tas e Julie B. Zimmerman propuseram a Tabela Periódica dos Elementos Figurativos da Química Verde e Sustentável – TPQVS (figura abaixo). Assim como na Tabela Periódica dos Elementos Químicos, a TPQVS apresenta \"elementos\", os quais, porém, representam ações associadas aos preceitos da Química Verde, sendo que cada grupo (G) da TPQVS reúne ações com os mes-mos preceitos.\n(Table: Elementos humanitários, Elementos da Química Verde e da Engenharia Verde, Elementos de habilitação das condições de sistema, Elementos nobres, and groups G1-G10 with their descriptions)\n\nTexto 2\n\"A Química é pura beleza;\nOs átomos e as moléculas são a realeza,\nreagindo no compasso da natureza\npara transformar o mundo com delicadeza.\nSou um simples menestrel da ciência\nque defende suas ideias com veemência.\nComo Químico, quero atuar com sapiência,\ndesenvolvendo processos de alta eficiência.\n\nA Química não é mais poluição;\npara o fóssil ela tem a substituição;\nrenovando o verde como solução.\n\nVivemos num tempo de ambiguidade,\nonde a terra, a água e o ar estão em vulnerabilidade.\nFaçamos da Química o caminho para a sustentabilidade\"\n(MOTA, Claudio J. A. Conferência de Abertura da 45ª. Reunião Anual da Sociedade Bra-sileira de Química, 2022.)\n\nUm dos princípios da Química Verde, ilustrado por um dos gru-pos na TPQVS (texto I), é a economia atômica, dada pela razão da massa do produto de interesse pela massa total dos reagen-tes, sendo que quanto mais próximo de 1 é seu valor, maior é a economia atômica. Considerando as reações de produção dos dois principais biocombustíveis utilizados no contexto brasileiro,\nSíntese do biodiesel:\nC57H104O6 + 3 C2H5OH → 3 C20H38O2 + C3H8O3\n\nSíntese do etanol:\nC12H22O11 + H2O → 4 C2H5OH + 4 CO2\n\npode-se afirmar que há uma maior economia de átomos e\nDados de Massa Molar (g/mol): C57H104O6 = 884; C2H5OH = 46; C20H38O2 = 310; C3H8O3 = 92; C12H22O11 = 342; H2O = 18; CO2 = 44.",
+      subItens: []
+    },
+    options: [
+      "maior geração de subprodutos (mol de subprodutos/mol de substrato) na síntese do etanol.",
+      "menor geração de subprodutos (mol de subprodutos/ mol de substrato) na síntese do etanol.",
+      "maior geração de subprodutos (mol de subprodutos/mol de substrato) na síntese do biodiesel.",
+      "menor geração de subprodutos (mol de subprodutos/ mol de substrato) na síntese do biodiesel."
+    ],
+    correctAnswer: 3,
+    materia: ["Química"],
+    conteudo: ["Química ambiental (Química Verde)", "Estequiometria"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 15,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia os textos 1 e 2, a seguir, para responder às questões 14 e 15.\nTexto 1\nA Química Verde é uma área multidisciplinar que cria, desen-volve e aplica produtos e processos químicos que visam à redu-ção ou eliminação do uso e da geração de substâncias nocivas ao meio ambiente e ao homem. Em 2019, para reunir várias ações relativas à Química Verde, os pesquisadores Paul T. Anas-tas e Julie B. Zimmerman propuseram a Tabela Periódica dos Elementos Figurativos da Química Verde e Sustentável – TPQVS (figura abaixo). Assim como na Tabela Periódica dos Elementos Químicos, a TPQVS apresenta \"elements\", os quais, porém, representam ações associadas aos preceitos da Química Verde, sendo que cada grupo (G) da TPQVS reúne ações com os mes-mos preceitos.\n(Table: Elementos humanitários, Elementos da Química Verde e da Engenharia Verde, Elementos de habilitação das condições de sistema, Elementos nobres, and groups G1-G10 with their descriptions)\n\nTexto 2\n\"A Química é pura beleza;\nOs átomos e as moléculas são a realeza,\nreagindo no compasso da natureza\npara transformar o mundo com delicadeza.\nSou um simples menestrel da ciência\nque defende suas ideias com veemência.\nComo Químico, quero atuar com sapiência,\ndesenvolvendo processos de alta eficiência.\n\nA Química não é mais poluição;\npara o fóssil ela tem a substituição;\nrenovando o verde como solução.\n\nVivemos num tempo de ambiguidade,\nonde a terra, a água e o ar estão em vulnerabilidade.\nFaçamos da Química o caminho para a sustentabilidade\"\n(MOTA, Claudio J. A. Conferência de Abertura da 45ª. Reunião Anual da Sociedade Bra-sileira de Química, 2022.)\n\nConsiderando a proposta da Química Verde, as frases em negri-to do poema (texto II) podem, em interpretação livre, ser asso-ciadas, respectivamente, aos seguintes grupos da TPQVS:",
+      subItens: []
+    },
+    options: [
+      "catálise (G8), economia atômica (G2), matérias-primas reno-váveis (G7), prevenção de resíduos (G1).",
+      "matérias-primas renováveis (G7), catálise (G8), economia atômica (G2), prevenção de resíduos (G1).",
+      "catálise (G8), matérias-primas renováveis (G7), economia atômica (G2), prevenção de resíduos (G1).",
+      "matérias-primas renováveis (G7), prevenção de resíduos (G1), catálise (G8), economia atômica (G2)."
+    ],
+    correctAnswer: 0,
+    materia: ["Química", "Língua Portuguesa"],
+    conteudo: ["Química ambiental (Química Verde)", "Interpretação de texto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 16,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Com o objetivo de mitigar problemas ambientais e encontrar alternativas viáveis para a produção de combustíveis, muitas propostas têm sido sugeridas. As figuras a seguir mostram rotas de transformação que possibilitariam alcançar o objetivo citado.\nLegenda:\nH = Hidrogênio\nC = Carbono\nO = Oxigênio\n(Image A, B, C, D showing different reaction diagrams with H, C, O, Red, Ox, radicalar, Espécies ricas em O)\n\nAs figuras anteriores trazem a representação esquemática de di-ferentes sistemas catalíticos para a reação de transformação de",
+      subItens: []
+    },
+    options: [
+      "dióxido de carbono em etanol, sendo que A, B, C e D repre-sentam, respectivamente: biocatálise, catálise homogênea, catálise heterogênea e fotocatálise.",
+      "dióxido de carbono em etanol, sendo que A, B, C e D repre-sentam, respectivamente: biocatálise, catálise homogênea, fotocatálise e catálise heterogênea.",
+      "metano em metanol, sendo que A, B, C e D representam, respectivamente: biocatálise, catálise homogênea, catálise heterogênea e fotocatálise.",
+      "metano em metanol, sendo que A, B, C e D representam, respectivamente: biocatálise, catálise homogênea, fotocatá-lise e catálise heterogênea."
+    ],
+    correctAnswer: 2,
+    materia: ["Química"],
+    conteudo: ["Química orgânica (Combustíveis)", "Cinética química (Catálise)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 17,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Os cigarros eletrônicos, de modo geral, contêm uma cápsula com uma solução líquida de nicotina e aromatizantes que são vaporizados e posteriormente inalados pelo usuário. Apesar de as propagandas afirmarem que a concentração de substâncias tóxicas nos cigarros eletrônicos é menor, a principal substância causadora da dependência, a nicotina, está presente em grande parte desses produtos. A nicotina é inicialmente absorvida e, em seguida, metabolizada no organismo. Após um período, a diminuição de sua concentração no plasma sanguíneo faz com que o usuário sinta a necessidade da inalação de uma nova dose. O gráfico abaixo mostra a concentração de nicotina no plasma sanguíneo de três indivíduos, em função do tempo, após utilização de um cigarro eletrônico, aspirando a mesma dosagem da substância.\n(Graph: Nicotina no plasma (ng/mL) vs. Tempo após a inalação (min) for Indivíduo X, Y, Z.)\n\nCom base nessas informações, pode-se inferir que, para o perí-odo de estudo, a velocidade de absorção da nicotina é",
+      subItens: []
+    },
+    options: [
+      "maior para o indivíduo X e a velocidade média de metaboli-zação é menor para o indivíduo Y.",
+      "maior para o indivíduo X e a velocidade média de metaboli-zação é menor para o indivíduo Z.",
+      "menor para o indivíduo Z e a velocidade média de metabo-lização é maior para o indivíduo Y.",
+      "menor para o indivíduo Z e a velocidade média de metabo-lização é menor para o indivíduo X."
+    ],
+    correctAnswer: 1,
+    materia: ["Biologia", "Química"],
+    conteudo: ["Fisiologia humana (Sistema Nervoso, Dependência química)", "Química da saúde"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 18,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "A caiação ou pintura com cal hidratada (Ca(OH)₂) é uma das formas mais antigas para o revestimento da fachada de edifí-cios. A cal virgem (CaO) – produzida a partir do aquecimento do calcário (CaCO₃) –, ao ser colocada em água, forma a cal hidratada que, uma vez aplicada à parede e em contato com o CO₂ do ar atmosférico, vai se transformando em seu precursor, o carbonato de cálcio. Dessa forma, o carbonato de cálcio fica aderido à parede, protegendo-a, conservando-a e embelezan-do-a.\nConsidere as equações a seguir:\ni) CaCO₃ → CaO + CO₂ ; ∆H = 178 kJ/mol\nii) CaO + H₂O → Ca(OH)₂ ; ∆H = -109 kJ/mol\niii) Ca(OH)₂ + CO₂ → CaCO₃ + H₂O ; ΔΗ= ?\n\nLevando em conta apenas as equações do processo de trans-formação e produção do carbonato de cálcio (equações i a iii), pode-se afirmar que o processo",
+      subItens: []
+    },
+    options: [
+      "pode ser considerado carbono neutro e que a última equa-ção representa uma reação que levaria ao aquecimento da parede onde a cal foi aplicada.",
+      "pode ser considerado carbono neutro e que a última equa-ção representa uma reação que levaria ao resfriamento da parede onde a cal foi aplicada.",
+      "não pode ser considerado carbono neutro e que a última equação representa uma reação que levaria ao aquecimento da parede onde a cal foi aplicada.",
+      "não pode ser considerado carbono neutro e que a última equação representa uma reação que levaria ao resfriamento da parede onde a cal foi aplicada."
+    ],
+    correctAnswer: 0,
+    materia: ["Química"],
+    conteudo: ["Físico-Química (Termoquímica)", "Química ambiental (Ciclo do Carbono)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 19,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Num estudo cientifico publicado em 2022 no Chemical Science, os autores aqueceram amostras de casca seca de banana, utili-zando, num curto período de tempo, uma lâmpada de alta in-tensidade luminosa. Essa técnica de aquecimento denomina-se pirólise por luz. Essa irradiação promoveu a formação de um tipo de carvão e produtos gasosos. Em um experimento, a quantificação dos gases produzidos encontra-se na figura abai-xo.\n(Bar graph: Rendimento em L/kg de casca de banana for H2, CH4, CO, C2H4, CH3CHO, CO2)\n\nA partir dessas informações, pode-se inferir que um possível in-teresse dos autores era obter combustíveis a partir de biomassa. Sendo assim, pode-se dizer que o objetivo foi alcançado para hidrocarbonetos",
+      subItens: []
+    },
+    options: [
+      "leves, mas a maior quantidade em mol de gás foi a de hi-drogênio.",
+      "leves, mas a maior quantidade em mol de gás foi a de mo-nóxido de carbono.",
+      "pesados, mas a maior quantidade em mol de gás foi a de hidrogênio.",
+      "pesados, mas a maior quantidade em mol de gás foi a de monóxido de carbono."
+    ],
+    correctAnswer: 1,
+    materia: ["Química", "Matemática"],
+    conteudo: ["Química orgânica (Combustíveis)", "Química ambiental (Biomassa)", "Leitura e interpretação de gráficos"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 20,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "6C7N\nCARBONO\nNITROGÊNIO\n\nO provocativo artigo intitulado, em tradu-ção livre, \"O nitrogênio é o próximo car-bono?\", publicado em 2017, enfatiza, já no início, que, assim como o carbono abasteceu a revolução industrial, o nitrogênio teria abastecido a revolução na agricultura (a dita \"revolução verde\"), o que continuaria ocorrendo nos dias atuais. O gráfi-co a seguir mostra o crescimento do nitrogênio antropogênico reativo em comparação com o crescimento da emissão de CO₂, apontando para um futuro de potenciais problemas ambientais.\n(Graph: Tendência do N antropogênico reativo e emissão de CO₂ vs. Ano, with bands A, B, C for N anthropomorphic and 'Emissão de CO2' line)\n\nLevando em conta o comentário sobre o artigo e os dados do gráfico, marque a alternativa correta sobre o que representam as faixas A, B e C.",
+      subItens: []
+    },
+    options: [
+      "A: uso de fertilizantes, B: fixação do nitrogênio e C: emissão de NOₓ.",
+      "A: uso de fertilizantes, B: emissão de NOₓ e C: fixação do nitrogênio.",
+      "A: emissão de NOₓ, B: uso de fertilizantes e C: fixação do nitrogênio.",
+      "A: fixação do nitrogênio, B: emissão de NOₓ e C: uso de fertilizantes."
+    ],
+    correctAnswer: 3,
+    materia: ["Química", "Biologia", "Geografia"],
+    conteudo: ["Química ambiental (Ciclos biogeoquímicos, Poluição)", "Ecologia (Ciclo do Nitrogênio)", "Questões ambientais"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 21,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "No ano de 2020, iniciou-se um conflito interno na Etiópia, com complexas implicações humanitárias, econômicas e geopolíti-cas, adicionando novas tensões à frágil estabilidade política na região do Chifre da África.\n(Adaptado de YARED, Tegbaru. Institute for Security Studies - ISS. Acesso em 09/06/2022.)\n\nAs causas do atual conflito na Etiópia resultam",
+      subItens: []
+    },
+    options: [
+      "da instabilidade das instituições estatais gerada pelo proces-so de colonização europeia no século XVIII.",
+      "do conflito bélico com a Eritreia em razão da disputa pela saída para o Mar Mediterrâneo.",
+      "da tentativa de secessão da região do Tigré em função dos conflitos étnico-religiosos e políticos.",
+      "da participação de interesses estrangeiros na gestão dos re-cursos naturais etíopes, a exemplo do petróleo."
+    ],
+    correctAnswer: 2,
+    materia: ["Geografia", "História"],
+    conteudo: ["Geopolítica", "História contemporânea"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 22,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Tem se tornado lugar comum dizer que o gigantesco volume de dados extraídos de nossa vida cotidiana está armazenado \"na nuvem\". É quase como dizer: estão por toda a parte e em lugar nenhum. Flutuam. Se damos, contudo, um passo para além das metáforas, nos depararemos com a robusta infraestrutura do capitalismo digital, que está ancorada em territórios concretos e se inscreve numa geografia do poder. É assim que, segundo a UNCTAD (2021), de um total de 4.714 data centers existentes no mundo, quase 80% estão em países desenvolvidos, princi-palmente nos EUA e países da Europa ocidental.\n\nSobre os data centers e sua distribuição, é correto afirmar que",
+      subItens: []
+    },
+    options: [
+      "são infraestruturas concentradas no Norte Global que, por serem públicas, controladas pelo Estado, têm seu impacto minimizado em questões geopolíticas que perpassam essa parte do mundo.",
+      "o processo de desenvolvimento geograficamente desigual pouco atua na distribuição da infraestrutura digital e na co-leta, armazenagem e tratamento de dados entre as regiões do mundo.",
+      "sua rarefação no Sul-Global indica que a coleta, a armaze-nagem e o tratamento dos dados levanta grave problema relativo à soberania dos Estados nacionais dessa parte do mundo.",
+      "à medida em que se ampliam a coleta e o tratamento massi-vo de dados das sociedades, países de todos os continentes estão adotando robustas políticas de infraestrutura digital."
+    ],
+    correctAnswer: 2,
+    materia: ["Geografia", "Sociologia"],
+    conteudo: ["Geografia econômica (Globalização)", "Tecnologia e sociedade"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 23,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Subsidência é um tipo de colapso em uma superfície, caracte-rizado por deformação quase vertical do terreno ou pela rea-comodação dos materiais em subsuperfície. Os solos muito ar-gilosos estão entre os materiais mais suscetíveis à subsidência. Na cidade de Maceió (AL), esse fenômeno tem afetado diversos bairros da cidade.\n(Image: Subsidência vs. Zona Estável, showing molecular changes in argila with water and expansion/contraction)\n\nA partir do texto e da figura anterior, é correto afirmar que a",
+      subItens: []
+    },
+    options: [
+      "água se infiltra sem grandes dificuldades em solos muito argilosos, por isso o processo de expansão das argilas é per-manente, tornando a área ideal para o desenvolvimento de cultivos permanentes.",
+      "subsidência em solos muito argilosos é um processo rever-sível, pois ocorre apenas nos períodos secos quando o solo se contrai na ausência de água. A reversão acontece nos períodos úmidos.",
+      "mecanização das lavouras e a construção de edificações podem ocorrer sem restrições em áreas em que ocorrem a contração e expansão das argilas decorrentes da variação da umidade do solo.",
+      "subsidência em solos muito argilosos é um processo irrever-sível, pois uma vez que a superfície é rebaixada, o processo reverso de soerguimento não acontece por conta da força gravitacional."
+    ],
+    correctAnswer: 0,
+    materia: ["Geografia", "Física"],
+    conteudo: ["Geomorfologia", "Mecânica"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 24,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "A figura a seguir apresenta um cenário em que se distinguem dois compartimentos de relevo na paisagem.\n(Image showing Compartimento A (flat) and Compartimento B (elevated))\n\nNo que se refere aos compartimentos de relevo na paisagem, é correto afirmar que o compartimento",
+      subItens: []
+    },
+    options: [
+      "A é uma planície formada por processos exógenos que oca-sionam a acumulação de materiais de fontes diversas. As planícies podem sofrer a influência de falhamentos das ro-chas que servem de substrato ao processo deposicional.",
+      "B é um planalto formado por rochas ígneas extrusivas, e apresenta formas de relevo esculpidas pela atuação dos pro-cessos exógenos, a exemplo das chapadas, dos morros, das serras e das depressões.",
+      "A é uma planície formada por depósitos arenosos e argilo-sos de origem exclusivamente fluvial. A presença dos me-andros abandonados indica que as formas de relevo desse compartimento não evoluem.",
+      "B é um planalto formado por rochas ígneas, metamórficas ou sedimentares. Sua principal característica está na ativida-de ativa dos processos tectônicos responsáveis pelo soergui-mento das elevações e manutenção das formas."
+    ],
+    correctAnswer: 0,
+    materia: ["Geografia"],
+    conteudo: ["Geomorfologia"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 25,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Alguns municípios do Sul do Brasil receberam, nos últimos 10 anos, importantes fluxos de imigrantes e refugiados, sobretu-do de haitianos, congoleses, senegaleses e venezuelanos. A presença desses imigrantes e refugiados em regiões de eleva-da especialização produtiva tem sido motivada pela busca de trabalho; todavia, crescem registros de denúncias das precárias condições de vida e situações de xenofobia enfrentadas por es-sas populações nos municípios onde se instalam.\n\nAssinale a alternativa que indique: (1) a região de especialização produtiva que mais tem absorvido essa força de trabalho imi-grante; e (2) a atividade econômica envolvida:",
+      subItens: []
+    },
+    options: [
+      "(1) Oeste catarinense; (2) indústria frigorífica.",
+      "(1) Vale dos Sinos (RS); (2) indústria de laticínios.",
+      "(1) Oeste paranaense; (2) indústria de confecção.",
+      "(1) Vale do Itajaí (SC); (2) indústria carbonífera."
+    ],
+    correctAnswer: 0,
+    materia: ["Geografia"],
+    conteudo: ["Geografia humana (Migrações)", "Geografia econômica (Economia regional)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 26,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "A tabela a seguir destaca, para o ano de 2019, os 11 municípios brasileiros que mais emitiram gases do efeito estufa causadores do aquecimento global, conforme o total emitido de CO₂ em toneladas.\n(Table: Município, Emissão de CO2 (em toneladas), Área territorial (em km2), Densidade Demográfica (pop/área) for selected Brazilian municipalities)\n(Fonte: www. seeg.eco.br; IBGE Cidades - Acessado em: 24/06/2022.)\n\nA partir da análise dos dados anteriores e de seu conhecimento, é correto afirmar que os municípios com",
+      subItens: []
+    },
+    options: [
+      "menor extensão territorial e alta densidade demográfica fo-ram responsáveis pela maior emissão de CO₂ decorrente da decomposição dos resíduos sólidos em aterros sanitários.",
+      "grande extensão territorial e baixa densidade demográfica foram responsáveis pela maior emissão de CO₂, o que se correlaciona com o avanço da mineração e a construção de hidrelétricas.",
+      "menor extensão territorial e alta densidade demográfica fo-ram responsáveis pela maior emissão de CO₂ decorrente da instalação de novas indústrias de bens de capital.",
+      "grande extensão territorial e baixa densidade demográfica foram responsáveis pela maior emissão de CO₂, o que se correlaciona com o avanço do desmatamento e incêndio florestal."
+    ],
+    correctAnswer: 3,
+    materia: ["Geografia", "Química"],
+    conteudo: ["Geografia ambiental (Desmatamento)", "Química ambiental (Gases de efeito estufa)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 27,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "A Amazônia brasileira ganhou destaque nos últimos anos nos noticiários da mídia nacional e estrangeira, face ao avanço de graves problemas socioambientais. Nesse contexto, as unidades de conservação, como as Reservas Extrativistas (RESEX), intro-duzidas pela Lei 9.985 em 18/07/2000, cumprem um papel im-portante na preservação ambiental e na proteção social.\n\nSobre as RESEX no bioma amazônico, é correto afirmar que são áreas",
+      subItens: []
+    },
+    options: [
+      "coletivas, demarcadas para populações indígenas, podendo ser usadas economicamente por meio de pequenas ativi-dades de extrativismo vegetal, mineral e animal. Crescem dentro das RESEX a exploração turística e as atividades ga-rimpeiras.",
+      "públicas, destinadas ao usufruto das populações tradicionais ribeirinhas para moradia e atividades econômicas de baixo impacto ambiental. Aumentam no entorno das RESEX a ex-ploração de madeira e o desmatamento para a implantação de atividades pecuárias.",
+      "coletivas, concedidas para uso misto das populações indíge-nas e quilombolas, que exploram comercialmente as rique-zas existentes com atividades extrativistas e agropecuária. Aumentam no entorno das RESEX núcleos urbanos e ativi-dades de exploração madeireira.",
+      "públicas, destinadas às populações tradicionais para resi-dência e extrativismo sustentável; quando autorizado pelo Estado, grandes empresas podem explorar recursos naturais em larga escala. Crescem dentro das RESEX os impactos am-bientais e a expulsão de população."
+    ],
+    correctAnswer: 1,
+    materia: ["Geografia"],
+    conteudo: ["Geografia ambiental (Unidades de conservação)", "Amazônia"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 28,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "De que se trata essa biopolítica, esse biopoder? A nova tec-nologia do poder que se instala se dirige à multiplicidade dos homens, não na medida em que eles se resumem em corpos, mas na medida em que ela forma, ao contrário, uma massa global, afetada por processos de conjunto que são próprios da vida, que são processos como o nascimento, a morte, a produ-ção, a doença etc. É com o nascimento da biopolítica que se lança mão da medição estatística desses fenômenos para fins de regulamentação e de intervenção. Um novo tipo de poder que consiste em fazer viver e em deixar morrer.\n(Adaptado de FOUCAULT, Michel. Em defesa da sociedade. São Paulo: WMF Martins Fontes, 2010, p. 204.)\n\nComo tecnologia de poder, a biopolítica se inscreve no corpo",
+      subItens: []
+    },
+    options: [
+      "do indivíduo como problema existencial.",
+      "da família como problema reprodutivo.",
+      "da escola como problema disciplinar.",
+      "da população como problema político."
+    ],
+    correctAnswer: 3,
+    materia: ["Filosofia", "Sociologia"],
+    conteudo: ["Filosofia contemporânea (Michel Foucault)", "Estado e poder"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 29,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Use os valores aproximados: g = 10 m/s² e π = 3.\n\nA prática esportiva de \"pular corda” vem conquistando muitos adeptos e se tornando uma modalidade de competição. Numa prova de velocidade, um atleta consegue dar 105 saltos em 30 segundos. Considerando que o ponto da corda que passa sob os pés e acima da cabeça do praticante descreve uma trajetória circular de raio r = 90 cm, qual é a velocidade escalar desse ponto da corda?\n(Image: person jumping rope with trajectory indicated)",
+      subItens: []
+    },
+    options: [
+      "0,18 m/s.",
+      "3,15 m/s.",
+      "18,9 m/s.",
+      "567 m/s."
+    ],
+    correctAnswer: 2,
+    materia: ["Física"],
+    conteudo: ["Cinemática (Movimento circular)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 30,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o mundo, oferece um belo espetáculo para os observadores no solo. Um maçarico é usado para aquecer o ar no interior do balão, o que faz variar a densidade do ar, permitindo o controle do movimento de subida e descida do balão.\n\nUm balão, inicialmente em repouso no solo, decola e sobe em movimento uniformemente variado. Se o balão atinge a altura h = 80 m após um tempo t = 40 s, conclui-se que a aceleração vertical do balão nesse movimento é igual a",
+      subItens: []
+    },
+    options: [
+      "2,0 m/s².",
+      "4,0 m/s².",
+      "0,05 m/s².",
+      "0,1 m/s²."
+    ],
+    correctAnswer: 3,
+    materia: ["Física"],
+    conteudo: ["Cinemática (Movimento retilíneo uniformemente variado)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 31,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o mundo, oferece um belo espetáculo para os observadores no solo. Um maçarico é usado para aquecer o ar no interior do balão, o que faz variar a densidade do ar, permitindo o controle do movimento de subida e descida do balão.\n\nA massa total de um balão em um movimento de descida, des-de a altura inicial h = 80 m até o solo, é m = 2000 kg. Qual é o trabalho da força peso sobre o balão durante a descida?",
+      subItens: []
+    },
+    options: [
+      "2,0 x 10⁴ J.",
+      "1,6 x 10⁵ J.",
+      "2,0 x 10⁵ J.",
+      "1,6 x 10⁶ J."
+    ],
+    correctAnswer: 3,
+    materia: ["Física"],
+    conteudo: ["Dinâmica (Trabalho e energia)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 32,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia o texto a seguir para responder às questões 30, 31 e 32.\nO balonismo, um esporte aeronáutico com adeptos em todo o mundo, oferece um belo espetáculo para os observadores no solo. Um maçarico é usado para aquecer o ar no interior do balão, o que faz variar a densidade do ar, permitindo o controle do movimento de subida e descida do balão.\n\nUm balão tem um volume V = 1,6 x 10³ m³ de ar quente no seu interior na temperatura T = 400 K e na pressão atmosférica po = 1,0 atm = 1,0 × 10⁵ Pa. Sabendo-se que o ar quente se comporta como um gás ideal e que a constante universal dos gases é R = 8 J/mol.K, quantos mols de ar n há no interior do balão?",
+      subItens: []
+    },
+    options: [
+      "5,0 x 10⁻¹ mol.",
+      "4,0 x 10⁰ mol.",
+      "5,0 x 10⁴ mol.",
+      "4,0 x 10⁵ mol."
+    ],
+    correctAnswer: 2,
+    materia: ["Física"],
+    conteudo: ["Termodinâmica (Gases ideais)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 33,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "A pele humana detecta simultaneamente, com uma sensibilida-de que sistemas artificiais não conseguem reproduzir, vibrações, forças estáticas, textura e escorregamento de objetos sobre sua superfície. Sensores tácteis que apresentassem respostas análo-gas à pele humana seriam muito desejáveis. A figura a seguir ilustra um modelo simples, utilizado no estudo da resposta da pele humana. Na referida figura, estão representados o peso P do bloco, a força normal Ñ, a força de atrito, aplicada pela superfície da pele no bloco de massa m e uma força exter-na F aplicada na mola. A constante de mola é k = 10 N/m, e a massa do bloco é m = 4 g. Na iminência de movimento, a deformação da mola é Δx = 3 mm em relação ao seu comprimento de equilíbrio. Qual é o coeficiente de atrito estático entre o bloco e a pele?\n(Image: Diagram of a block on a surface labeled 'pele' with forces P, N, fat, F and spring)",
+      subItens: []
+    },
+    options: [
+      "8,8 x 10⁻⁷.",
+      "1,1 x 10⁻⁶.",
+      "7,5 x 10⁻¹.",
+      "1,3 x 10⁰."
+    ],
+    correctAnswer: 2,
+    materia: ["Física"],
+    conteudo: ["Mecânica (Leis de Newton, Forças de atrito)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 34,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "O planeta anão Ceres foi descoberto em 1801 por Giuseppe Piazzi. Resultados científicos recentes indicam que Ceres te-ria sido formado nas zonas mais afastadas do Sistema Solar e posteriormente lançado para a região onde se encontra atu-almente, entre as órbitas de Marte e Júpiter. A tabela abaixo apresenta o período de translação T, a distância média ao Sol R, bem como T², R³ e a razão (T²/R³) para alguns planetas do Sistema Solar. De acordo com a 3ª Lei de Kepler, a razão (T²/R³) é constante. A partir dos dados da tabela, pode-se concluir que o período orbital de Ceres, T_Ceres, é aproximadamente igual a\n(Table: Planeta, T (anos), R (u.a.), T², R³, (T²/R³) for Vênus, Terra, Marte, Ceres, Júpiter, Saturno, with missing values for Ceres.)",
+      subItens: []
+    },
+    options: [
+      "1,00 ano.",
+      "2,77 anos.",
+      "4,62 anos.",
+      "21,3 anos."
+    ],
+    correctAnswer: 2,
+    materia: ["Física", "Matemática"],
+    conteudo: ["Astronomia (Leis de Kepler)", "Proporcionalidade"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 35,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Sabemos que correntes elétricas acima de um décimo de Am-père podem provocar paradas cardíacas. Imediatamente após um raio atingir o solo, o potencial elétrico na superfície diminui gradativamente em função da distância ao ponto de impacto, como ilustrado pelas curvas equipotenciais da figura. Sendo a resistência do corpo humano R = 80 kΩ, a corrente elétrica que atravessa o corpo da pessoa ilustrada na figura, com os dois pés em contato com o chão, será igual a\n(Image: Equipotential lines with values 900kV, 800kV, 600kV and a person standing on two different lines)",
+      subItens: []
+    },
+    options: [
+      "0,800 A.",
+      "1,25 A.",
+      "10,0 A.",
+      "11,25 A."
+    ],
+    correctAnswer: 1,
+    materia: ["Física"],
+    conteudo: ["Eletrodinâmica (Lei de Ohm, Diferença de potencial)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 36,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "A figura A apresenta um esquema simplificado de um refratô-metro, destinado a determinar o índice de refração n₁ de um líquido. Nele, o líquido é iluminado por raios que o atravessam, atingindo, na parte superior, um vidro de índice de refração conhecido n₂ = 1,8. Quando d₁ = 90°, temos o máximo valor para o ângulo de refração 02, que, nesse caso, é chamado de ângulo crítico, θc (ver figura B).\n(Image: Diagram A showing light passing from liquid to glass, Diagram B showing critical angle from glass to liquid)\nDado: sen56° = 0,8; cos56° = 0,6; tg56° = 1,3.\n\nSe o ângulo crítico medido foi dc = 56°, pode-se dizer que o índice de refração do líquido em questão é",
+      subItens: []
+    },
+    options: [
+      "n₁ = 1,44, e se trocarmos esse líquido por um de índice de refração maior, o ângulo crítico será maior que 56°.",
+      "n₁ = 1,44, e se trocarmos esse líquido por um de índice de refração maior, o ângulo crítico será menor que 56°.",
+      "n₁ = 2,25, e se trocarmos esse líquido por um de índice de refração maior, o ângulo crítico será maior que 56°.",
+      "n₁ = 2,25, e se trocarmos esse líquido por um de índice de refração maior, o ângulo crítico será menor que 56°."
+    ],
+    correctAnswer: 0,
+    materia: ["Física"],
+    conteudo: ["Óptica (Refração, Ângulo limite)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 37,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "O papilomavírus humano (HPV) é um grupo de vírus muito co-mum no mundo. Existem muitos tipos de HPV e a maioria deles não causa problemas ao organismo humano. Porém, os tipos de HPV 16 e 18 estão associados com 70% dos casos de cânce-res de colo do útero e lesões genitais pré-cancerosas.\n(Adaptado de https://www.paho.org/pt/topicos/hpv-e-cancer-do-colo-do-utero. Acesso em 01/06/2022.)\n\nÉ correto afirmar que o HPV é transmitido",
+      subItens: []
+    },
+    options: [
+      "principalmente por contato sexual; o uso de preservativo eli-mina a possibilidade de infecção pelos HPV 16 e 18, sendo indicado quando existe exposição ao vírus.",
+      "por contato direto com a pele ou mucosa infectada, sobre-tudo durante a relação sexual; a vacinação pode tratar a infecção e as doenças associadas aos diversos tipos de HPV.",
+      "principalmente por contato sexual; o controle da infecção inclui a prevenção pela vacinação contra os HPV 16 e 18, sendo indicada antes da exposição ao vírus.",
+      "por contato direto com a pele ou mucosa infectada, sobre-tudo durante a relação sexual; o uso de preservativo impede o desenvolvimento das doenças associadas ao HPV."
+    ],
+    correctAnswer: 2,
+    materia: ["Biologia"],
+    conteudo: ["Saúde humana (Virologia, DSTs, Vacinação)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 38,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Na transformação de energia luminosa em energia química pe-las plantas, há uma série de reações de redução e oxidação. Para que a cadeia transportadora de elétrons nos cloroplastos ocorra, os elementos que a compõem estão arranjados nas membranas dos tilacóides, de acordo com o seu potencial re-dox. Na atividade fotoquímica, o oxigênio é produzido, assim como moléculas essenciais para a manutenção do metabolismo celular, como o ATP e o NADPH.\n\nO doador primário e o aceptor final de elétrons são, respecti-vamente,",
+      subItens: []
+    },
+    options: [
+      "oxigênio e NADPH.",
+      "gás carbônico e ATP.",
+      "água e NADPH.",
+      "glicose e ATP."
+    ],
+    correctAnswer: 2,
+    materia: ["Biologia"],
+    conteudo: ["Fisiologia vegetal (Fotossíntese)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 39,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia o texto a seguir para responder às questões 39 e 40.\nA proteína verde fluorescente, do inglês green fluorescence protein (GFP) – observada pela primeira vez na água-viva (Ae-quorea victoria) –, tornou-se uma das ferramentas mais impor-tantes usadas na biociência contemporânea. Evolutivamente, a distribuição filogenética dos genes homólogos de GFP foi en-contrada apenas nos filos Cnidaria, Arthropoda e Chordata.\n(Adaptado de MACEL, Marie-Lyne et al. Zoological Letters, Londres. v. 6, p.2-11, 2020.)\n\nConsiderando a distribuição filogenética do gene GFP, é correto afirmar a hipótese de origem em",
+      subItens: []
+    },
+    options: [
+      "ancestral metazoário comum e eventos independentes de perda do gene em vários clados.",
+      "ancestrais metazoários distintos e manutenção do gene em todos os metazoários marinhos.",
+      "ancestral metazoário comum e manutenção do gene em to-dos os metazoários marinhos.",
+      "ancestrais metazoários distintos e eventos independentes de perda do gene em vários clados."
+    ],
+    correctAnswer: 0,
+    materia: ["Biologia"],
+    conteudo: ["Evolução (Filogenia)", "Biologia molecular (Genética)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 40,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia o texto a seguir para responder às questões 39 e 40.\nA proteína verde fluorescente, do inglês green fluorescence protein (GFP) – observada pela primeira vez na água-viva (Ae-quorea victoria) –, tornou-se uma das ferramentas mais impor-tantes usadas na biociência contemporânea. Evolutivamente, a distribuição filogenética dos genes homólogos de GFP foi en-contrada apenas nos filos Cnidaria, Arthropoda e Chordata.\n(Adaptado de MACEL, Marie-Lyne et al. Zoological Letters, Londres. v. 6, p.2-11, 2020.)\n\nCom o uso de biotecnologia, pesquisadores podem ligar a GFP a outras proteínas de interesse, antes invisíveis. Assim, esse marcador brilhante permite a observação dos movimentos, das posições e das interações das proteínas marcadas. A figura a seguir apresenta a variação da localização celular da proteína MRTFA-GFP em função do tempo. Após um estímulo em t = 0 min, a localização da proteína MRTFA-GFP se modifica devido ao seu correto enovelamento (quando a estrutura de uma pro-teína assume a sua configuração funcional).\n(Adaptado de INFANTE, Elvira et al. Nature Physics, Londres, v. 15, p. 973-981, set. 2019.)\n(Image: Cellular localization of MRTFA-GFP at 0 min, 4 min, 7 min, 20 min, showing concentration changes)\n\nSobre a localização celular da proteína MRTFA-GFP entre o tem-po inicial (t = 0 min) e o final (t = 20 min), assinale a alternativa correta.",
+      subItens: []
+    },
+    options: [
+      "A transcrição ocorre inicialmente no citoplasma celular; posteriormente, o enovelamento da proteína MRTFA-GFP mostra-se completo no núcleo celular, exceto nas regiões dos nucléolos.",
+      "A tradução ocorre inicialmente no núcleo celular, exceto nas regiões dos nucléolos; posteriormente, o enovelamento da proteína MRTFA-GFP mostra-se completo no citoplasma ce-lular.",
+      "A transcrição ocorre inicialmente no núcleo celular; poste-riormente, após o enovelamento, a proteína MRTFA-GFP transloca-se gradualmente ao citoplasma celular pelo com-plexo de poro nuclear.",
+      "A tradução ocorre inicialmente no citoplasma celular; pos-teriormente, após o enovelamento, a proteína MRTFA-GFP transloca-se gradualmente ao núcleo celular pelo complexo de poro nuclear."
+    ],
+    correctAnswer: 3,
+    materia: ["Biologia"],
+    conteudo: ["Biologia celular (Organelas, Transporte de proteínas)", "Biologia molecular (Expressão gênica)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 41,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Cientistas desvendaram o mecanismo causador da síndrome de Pitt-Hopkins, uma disfunção neuropsiquiátrica que tem ca-racterísticas do transtorno do espectro autista. A síndrome de Pitt-Hopkins tem como origem uma mutação no gene TCF4 e causa déficit cognitivo, atraso motor profundo, ausência de fala funcional e anormalidades respiratórias. O genoma huma-no tem duas cópias de cada gene. A síndrome de Pitt-Hopkins ocorre quando uma das cópias do TCF4 não funciona. Os cien-tistas buscam alternativas para inserir uma terceira cópia ou fazer com que a única cópia funcional expresse mais proteína para compensar a cópia defeituosa.\n(Adaptado de https://agencia.fapesp.br/estudo-abre-novas-possibilidades-de-tratamen-to-para-forma-de-autismo/38524/. Acesso em 23/05/2022.)\n\nConsiderando as informações apresentadas e seus conhecimen-tos, é correto afirmar que a síndrome é causada em",
+      subItens: []
+    },
+    options: [
+      "heterozigose, quando um dos alelos do gene TCF4 não pro-duz proteína funcional devido às alterações de bases nitro-genadas que modificam a proteína traduzida.",
+      "homozigose, quando os dois alelos do gene TCF4 não pro-duzem proteína funcional devido à mutação da cromatina que modifica a proteína traduzida.",
+      "heterozigose, quando uma das cromátides do gene TCF4 não produz proteína funcional devido à mutação da croma-tina que modifica a proteína traduzida.",
+      "homozigose, quando as duas cromátides do gene TCF4 não produzem proteína funcional devido às alterações das bases nitrogenadas que modificam a proteína traduzida."
+    ],
+    correctAnswer: 0,
+    materia: ["Biologia"],
+    conteudo: ["Genética (Herança, Mutação)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 42,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "As relações ecológicas podem ser representadas por modelos de fluxo de energia, cujas principais vantagens são as repre-sentações dos decompositores, da matéria orgânica armaze-nada no sistema e da energia dispendida para a manutenção dos organismos. O modelo hipotético a seguir indica os valores (kcal/m²/ano) de produtividade primária bruta (PPB), de produ-tividade primária líquida (PPL), de produtividade secundária lí-quida (PSL) e do fluxo de energia (setas). Os valores dentro das setas indicam a energia assimilada pelo próximo nível trófico.\n(Image: Diagram showing energy flow with PPB, PPL, PSL values, decomposers and energy transfers between trophic levels)\n\nConsiderando os dados apresentados, é correto afirmar que a energia",
+      subItens: []
+    },
+    options: [
+      "utilizada para a manutenção do consumidor primário é de 40 kcal/m²/ano.",
+      "direcionada aos decompositores é de 352 kcal/m²/ano.",
+      "consumida na manutenção dos autotróficos é de 700 kcal/m²/ano.",
+      "assimilada pelos carnívoros é de 270 kcal/m²/ano."
+    ],
+    correctAnswer: 1,
+    materia: ["Biologia"],
+    conteudo: ["Ecologia (Fluxo de energia, Cadeias tróficas)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 43,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Estudos revelaram como a disbiose - desequilíbrio da micro-biota intestinal – pode influenciar no desenvolvimento de dis-túrbios neurodegenerativos como a doença de Parkinson. As pessoas acometidas por essa doença apresentam alterações significativas nos centros motores do cérebro.\n\nAssinale a alternativa que preenche corretamente as lacunas no excerto a seguir.\nA agregação da proteína α-sinucleína nos (i) ______ está re-lacionada com a doença de Parkinson. Foi demonstrado que células específicas do tecido (ii) ______ da mucosa intestinal podem expressar essa proteína. A disbiose pode levar ao au-mento de espécies de (iii) ______ que, eventualmente, contri-buem para agregação da α-sinucleína no intestino, e essa prote-ína pode migrar para o (iv) ______ configurando um possível mecanismo de surgimento da doença de Parkinson esporádica.\n(Adaptado de https://agencia.fapesp.br/estudo-revela-como-o-desequilibrio-da-micro-biota-intestinal-pode-levar-a-doenca-de-parkinson/38159/. Acesso em 07/06/2022.)",
+      subItens: []
+    },
+    options: [
+      "(i) neurônios; (ii) epitelial; (iii) bactérias; (iv) sistema nervoso central.",
+      "(i) linfonodos; (ii) conjuntivo; (iii) bactérias; (iv) sistema ner-voso autônomo.",
+      "(i) linfonodos; (ii) epitelial; (iii) vírus; (iv) sistema nervoso cen-tral.",
+      "(i) neurônios; (ii) conjuntivo; (iii) vírus; (iv) sistema nervoso autônomo."
+    ],
+    correctAnswer: 0,
+    materia: ["Biologia"],
+    conteudo: ["Saúde humana (Doenças neurodegenerativas, Microbiota)", "Biologia celular (Tecidos)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 44,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Relatório publicado pelo MapBiomas apresentou dados referen-tes à área de mineração - garimpo e mineração industrial no Brasil. Os dados indicam um crescimento de 31 mil para 206 mil hectares entre 1985 e 2020.\n\nO mapa a seguir representa os biomas brasileiros e as respecti-vas áreas de mineração em 2020.\n(Image: Map of Brazil showing biomes and their respective areas of garimpo (G) and industrial mining (MI) in hectares for 2020)\n\nConsiderando as informações apresentadas e seus conhecimen-tos, é correto afirmar que o bioma",
+      subItens: []
+    },
+    options: [
+      "Mata Atlântica tem área de mineração industrial maior do que de garimpo. Nesse bioma, ocorre exploração de minério de ferro, causando o cinturão do desmatamento e o assore-amento dos rios da maior bacia hidrográfica do país.",
+      "Amazônia tem área de garimpo maior do que a de mine-ração industrial. Nesse bioma, ocorre exploração de ouro e grande desmatamento nas unidades de conservação e terri-tórios indígenas, com contaminação do rio Tapajós.",
+      "Cerrado tem área de garimpo maior do que a de mineração industrial. Nesse bioma, ocorre exploração de minério de ferro, causando o soterramento de nascentes e comprome-tendo o potencial hidroelétrico na região.",
+      "Caatinga tem área de mineração industrial maior do que a de garimpo. Nesse bioma, ocorre exploração de níquel, cau-sando a escassez de água na região, água essa utilizada para lavar o metal, o que contamina o rio Tocantins."
+    ],
+    correctAnswer: 1,
+    materia: ["Geografia"],
+    conteudo: ["Geografia ambiental (Biomas brasileiros, Impactos da mineração)", "Geografia econômica (Mineração)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 45,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Um recipiente de 30 litros contém uma solução de 14 partes de álcool e 1 parte de água. Quantos litros de água devem ser adi-cionados para que se tenha uma solução com 70% de álcool?",
+      subItens: []
+    },
+    options: [
+      "8 litros.",
+      "10 litros.",
+      "12 litros.",
+      "14 litros."
+    ],
+    correctAnswer: 1,
+    materia: ["Matemática"],
+    conteudo: ["Razão e proporção", "Porcentagem"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 46,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "A seguir, são apresentadas quatro funções, definidas para x ∈ IR; são também apresentados quatro esboços de gráficos.\nFunções:\nf(x) = sen(x) + π / 4\ng(x)=cos(x+π/4) - sen(x+π/4)\nh(x) = sen(x – π / 4)\np(x) = cos(x) + sen(x)\nGráficos:\n(i) (Graph of a trigonometric function)\n(ii) (Graph of a trigonometric function)\n(iii) (Graph of a trigonometric function)\n(iv) (Graph of a trigonometric function)\n\nA opção que descreve corretamente a correspondência entre as funções e seus gráficos é:",
+      subItens: []
+    },
+    options: [
+      "(i) e g(x); (ii) e h(x); (iii) e p(x); (iv) e f(x).",
+      "(i) e h(x); (ii) e g(x); (iii) e f(x); (iv) e p(x).",
+      "(i) e p(x); (ii) e h(x); (iii) e g(x); (iv) e f(x).",
+      "(i) e f(x); (ii) e g(x); (iii) e p(x); (iv) e h(x)."
+    ],
+    correctAnswer: 1,
+    materia: ["Matemática"],
+    conteudo: ["Funções trigonométricas (Gráficos de funções)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 47,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Uma forma de apresentar dados é usar um gráfico de radar. Este tipo de gráfico é composto por segmentos uniformemente espaçados, dispostos em torno de um ponto. Os segmentos representam diferentes valores, valores esses que aumentam conforme a distância em relação ao centro se torna maior. Grá-ficos de radar são frequentemente usados em jogos eletrônicos para representar o desempenho, em diferentes aspectos, dos personagens.\nEnzo tem uma livraria e vende obras dos gêneros Romance, Fic-ção, Tecnologia, Biografias e Infantil. Ele representou no gráfico de radar, a seguir, quantas obras diferentes de cada um des-ses gêneros foram vendidas em 2020 e 2021. Por exemplo, em 2021, foram vendidas 20 obras do gênero Tecnologia. Note que o gráfico não indica quantos exemplares de cada obra foram efetivamente vendidos, indica apenas o número de obras que tiveram exemplares vendidos para os gêneros indicados.\n(Image: Radar chart showing \"Quantidade de obras vendidas\" for 2020 and 2021 for genres Romance, Ficção, Tecnologia, Infantil, Biografias)\n\nSobre os dados apresentados no gráfico, é correto afirmar que",
+      subItens: []
+    },
+    options: [
+      "o gênero que teve maior quantidade de obras vendidas, considerando os dois anos, foi Biografias, cuja venda foi o triplo da venda do gênero que teve menos obras vendidas.",
+      "os únicos gêneros que venderam mais obras em 2021, quando em comparação com as vendas de 2020, foram os gêneros Ficção e Infantil.",
+      "o número de obras do gênero Romance que foram vendidas em 2021 é o dobro do que foi vendido em 2020 para este mesmo gênero.",
+      "a quantidade de obras vendidas, do gênero Infantil, nos dois anos, é a mesma quantidade de obras vendidas, no mesmo período de tempo, do gênero Biografias."
+    ],
+    correctAnswer: 3,
+    materia: ["Matemática"],
+    conteudo: ["Leitura e interpretação de gráficos"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 48,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Três números reais distintos a, b, c são tais que a, b, c e ab, bc, ca formam, nessas ordens, duas progressões aritméticas de mesma razão. O valor do produto abc é",
+      subItens: []
+    },
+    options: [
+      "1.",
+      "1/8.",
+      "-1.",
+      "6."
+    ],
+    correctAnswer: 2,
+    materia: ["Matemática"],
+    conteudo: ["Progressões aritméticas"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 49,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Suponha que uma função f(x) satisfaça à propriedade f(x. y) = f(x) + f(y). Sabendo que f(7) = 2 e f(17) = 3, o valor de f(2023) é",
+      subItens: []
+    },
+    options: [
+      "7.",
+      "8.",
+      "17.",
+      "18."
+    ],
+    correctAnswer: 1,
+    materia: ["Matemática"],
+    conteudo: ["Funções (Propriedades de logaritmos)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 50,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Um recipiente cilíndrico de altura h tem água em seu interior. Ao mergulhar uma esfera de chumbo de raio R neste recipiente, a água cobre a esfera e nenhuma quantidade de água se perde, como ilustrado na figura a seguir.\n(Image: Two diagrams: cylinder with water, then cylinder with submerged sphere and raised water level)\n\nSabendo que o raio da base do cilindro é o dobro do raio da esfera, a diferença entre a altura da água antes e depois do mergulho da esfera é igual a",
+      subItens: []
+    },
+    options: [
+      "2R.",
+      "R.",
+      "R/3.",
+      "2R/3."
+    ],
+    correctAnswer: 2,
+    materia: ["Matemática"],
+    conteudo: ["Geometria espacial (Volume de sólidos)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 51,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia o texto a seguir para responder às questões 51 e 52.\nUma transformação de Möbius é um quociente de polinômios de grau 1. Essas transformações são muito importantes em computação gráfica e também na área da engenharia conheci-da como \"processamento de sinais\".\n\nConsidere a função y = f(x) = (x+1)/(x-1) definida para x ∈ R, x ≠ 1, que é uma versão simplificada de uma transformação de Möbius.\n\nSobre a função inversa de f(x), é correto afirmar que",
+      subItens: []
+    },
+    options: [
+      "f⁻¹(x) = f(x), para x≠1 .",
+      "f⁻¹(x)=1/f(x), para x ≠ ±1.",
+      "f⁻¹(x) = -f(x), para x≠1.",
+      "f⁻¹(x) = f(-x), para x≠1."
+    ],
+    correctAnswer: 0,
+    materia: ["Matemática"],
+    conteudo: ["Funções (Função inversa)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 52,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia o texto a seguir para responder às questões 51 e 52.\nUma transformação de Möbius é um quociente de polinômios de grau 1. Essas transformações são muito importantes em computação gráfica e também na área da engenharia conheci-da como \"processamento de sinais\".\n\nConsidere a função y = f(x) = (x+1)/(x-1) definida para x ∈ R, x ≠ 1, que é uma versão simplificada de uma transformação de Möbius.\n\nConsidere a sequência x₁, x₂,..., definida por x₁ = 6, e para cada n≥1, temos x_n+1 = f(x_n), ou seja,\n• x₁ = 6,\n• x₂ = f(x₁) = 7/5,\n• x₃ = f(x₂),\ne assim sucessivamente. Então, a soma dos 100 primeiros ter-mos desta sequência vale",
+      subItens: []
+    },
+    options: [
+      "140.",
+      "370.",
+      "600.",
+      "740."
+    ],
+    correctAnswer: 1,
+    materia: ["Matemática"],
+    conteudo: ["Sequências (Recorrência)", "Funções"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 53,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Para qual valor de a o sistema de equações lineares\n[ax - y = |a|;\n[(4-5a²)x+ay = 1\nadmite infinitas soluções?",
+      subItens: []
+    },
+    options: [
+      "1.",
+      "2.",
+      "-1.",
+      "-2."
+    ],
+    correctAnswer: 2,
+    materia: ["Matemática"],
+    conteudo: ["Sistemas lineares (Discussão de sistemas)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 54,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "A figura seguinte mostra um triângulo retângulo ABC. O ponto M é o ponto médio do lado AB, que é a hipotenusa.\n(Image: Right triangle ABC, M is midpoint of hypotenuse AB, side lengths 6 and 5, angle α at C)\n\nO valor de sen α é",
+      subItens: []
+    },
+    options: [
+      "24/25.",
+      "5/6.",
+      "1/2.",
+      "√3/2."
+    ],
+    correctAnswer: 0,
+    materia: ["Matemática"],
+    conteudo: ["Geometria plana (Triângulos)", "Trigonometria"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 55,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Em um sorteio com cartelas numeradas de 0001 a 2000, João decidiu comprar todas as cartelas em que a numeração exibisse os números 2 e 5, e nenhuma a mais. Por exemplo, João comprou as cartelas 1205 e 0025, mas não comprou as cartelas 0514 e 2000.\n\nConsidere as afirmações:\nI) João comprou 108 cartelas.\nII) Se ao invés das cartelas com 2 e 5, João tivesse comprado as cartelas com 1 e 5, ele teria comprado menos cartelas.\nIII) João comprou 18 cartelas que possuem o número 3.\n\nAssinale a alternativa correta:",
+      subItens: []
+    },
+    options: [
+      "Todas as afirmações são verdadeiras.",
+      "Apenas a afirmação I é verdadeira.",
+      "Apenas a afirmação II é verdadeira.",
+      "Apenas as afirmações I e III são verdadeiras."
+    ],
+    correctAnswer: 1,
+    materia: ["Matemática"],
+    conteudo: ["Combinatória (Princípio da inclusão-exclusão)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 56,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Na figura abaixo estão representados os gráficos de uma pará-bola, de uma reta, e o ponto P = (a,b), que é um dos pontos de interseção da reta com a parábola.\n(Image: Graph showing a parabola and a straight line intersecting at P=(a,b) and (2,1))\n\nO valor de a+bé",
+      subItens: []
+    },
+    options: [
+      "-7,5.",
+      "-7.",
+      "-6,5.",
+      "-6."
+    ],
+    correctAnswer: 1,
+    materia: ["Matemática"],
+    conteudo: ["Geometria analítica (Funções quadráticas e lineares)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 57,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "(Vespúcio descobre a América. Gravura de Jan van der Straet, cerca de 1540.)\n\nAs gravuras eram um importante e significativo meio de co-municação nas sociedades europeias. Os ecos do Novo Mundo chegavam à Europa rapidamente pelas mãos daqueles que nun-ca tinham pisado no continente recém-descoberto.\n(Adaptado de TATSCH, Flavia Galli. A construção visual da América em gravuras: códigos de Percepção e suas transformações. In: III Encontro Nacional de Estudos da Imagem, 03 a 06 de maio de 2011, Londrina - PR.)\n\nA partir da leitura da imagem e do texto acima – que versam, ambos, sobre a construção visual, em gravuras, da América do início da Era Moderna –, é correto afirmar que",
+      subItens: []
+    },
+    options: [
+      "a gravura traz elementos greco-romanos para representar a descoberta do Novo Mundo. Nela, o continente foi simbo-lizado pela paisagem típica da América e pela presença de Américo Vespúcio.",
+      "o código visual da gravura, produzido em um contexto me-dieval, traz o encontro de Américo Vespúcio com as terras americanas, representado pelos artefatos europeus, como, por exemplo, a rede.",
+      "a gravura alude ao encontro entre Américo Vespúcio e a América, representados, na imagem, pelo navegador e pela indígena nua. Essa representação resultava dos relatos escri-tos sobre o Novo Mundo e da tradição imagética europeia.",
+      "a gravura usa elementos visuais da cultura europeia para apresentar a Europa como detentora de civilidade e a Amé-rica indígena, grotesca, armada e opositora aos domínios europeus."
+    ],
+    correctAnswer: 2,
+    materia: ["História", "Arte"],
+    conteudo: ["História do Brasil (Descobrimento)", "Leitura de imagem (Iconografia)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 58,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "As estimativas sobre a população de Palmares no século XVII oscilam entre 5 e 20 mil pessoas. A crônica abaixo, de 1678, descreve o território palmarino:\nReconhecem-se todos obedientes a um que se chama \"o Ganga Zumba\", que quer dizer \"Senhor Grande\". A este tem por seu rei e senhor todos os mais, assim naturais dos Palmares como vindos de fora. Habita na sua cidade real que chamam o Macaco. Esta é a metrópole entre as mais cidades e povoações. Está fortificada toda em cerco de pau a pique, com torneiras abertas para ataque e defesa. E pela parte de fora toda se semeia de estrepes de ferro e buracos no chão. Ocupa esta cidade dila-tado espaço, forma-se mais de 1500 casas. A segunda cidade chama-se Sirbupira; nesta habita o irmão do rei que se chama \"o Zona\". É fortificada toda de madeira e pedras, compreende mais de oitocentas casas. Das mais cidades e povoações darei notícia quando lhe referir as ruínas.\n(Adaptado de: ANTT, Manuscrito da Livraria, cod. 1185, fls. 149-55v. In: LARA, Silvia; FACHIN, Phablo (org.). Guerra contra Palmares: o manuscrito de 1678. São Paulo: Chão Editora, 2021, p. 9 – 49.)\n\nSobre a organização do espaço palmarino, é correto afirmar que",
+      subItens: []
+    },
+    options: [
+      "os negros que fugiram para Palmares ocuparam os espaços urbanos das vilas coloniais na Serra da Barriga; essas vilas tinham sido abandonadas por Portugal durante as guerras de expulsão, de Pernambuco, dos holandeses.",
+      "o que se convencionou chamar de quilombo de Palmares era uma rede de povoações fortificadas, formadas por cen-tenas de casas e interligadas por meio de um sistema políti-co influenciado por lógicas culturais africanas.",
+      "as povoações que constituíam Palmares se originaram da estrutura urbanística construída por Nassau nas serras de Pernambuco e Alagoas, a partir da racionalidade holandesa na época da luta do domínio do açúcar.",
+      "a maioria da população negra que vivia nos mocambos de Palmares no século XVII era crioula, ou seja, nascida no Brasil, e combinava a influência da organização política de Angola e das redes urbanas litorâneas e europeias de Per-nambuco."
+    ],
+    correctAnswer: 1,
+    materia: ["História", "Sociologia"],
+    conteudo: ["História do Brasil (Período colonial, Quilombos)", "Formação social brasileira"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 59,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "No livro \"A invenção dos direitos humanos\", a historiadora Lynn Hunt nomeou dois mecanismos de transformação na França de fins do século XVIII. O primeiro seria a popularização dos cha-mados romances epistolares. As cartas enviadas pelas protago-nistas discorrem sobre as emoções humanas para os leitores. As lutas das personagens Clarissa e Pâmela, descritas por Samuel Richardson, ou as questões de Júlia, personagem de Jean-Jac-ques Rousseau, fizeram com que os leitores reconhecessem a legitimidade de seus desejos e de suas vivências. Outro meca-nismo de transformação social foi a campanha contra a tortura, marcada por uma nova visão de corpo. Para Hunt, ler relatos de tortura e romances epistolares ajudou a moldar o foro íntimo de cada um, o que teve repercussão na política.\n\nConsiderando o texto acima e o contexto histórico comentado, assinale a alternativa correta sobre os direitos humanos.",
+      subItens: []
+    },
+    options: [
+      "O nascimento dos direitos humanos ligou-se ao apareci-mento do sentimento de empatia entre diferentes sujeitos sociais, independentemente de sua condição social, como se podia ver nos romances epistolares. Isso influenciou os preceitos de liberdade individual e de igualdade social.",
+      "Conhecidas através dos romances policiais editados pela imprensa revolucionária francesa, as personagens literárias femininas subalternas ganharam importância ao se oporem à tortura, defendida pelo Terceiro Estado nos debates sobre direitos humanos.",
+      "O nascimento dos direitos humanos envolveu a contestação, pela imprensa francesa, da tortura como prática de obtenção de testemunho ou como castigo. Isso se devia ao fato de que a tortura feria a concepção cristã de corpo, defendida pela Declaração dos Direitos do Homem e do Cidadão.",
+      "Ao afirmar que todos são iguais perante a lei e que todos gozam dos mesmos direitos, independentemente de sua origem social ou nascimento, a Declaração dos Direitos do Homem e do Cidadão defendia o cidadão passivo, indife-rente à violência e à humilhação na convivência cotidiana."
+    ],
+    correctAnswer: 0,
+    materia: ["História", "Filosofia"],
+    conteudo: ["História moderna (Iluminismo, Revolução Francesa)", "Direitos humanos"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 60,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Observe abaixo duas pinturas históricas oitocentistas que se tornaram cânones visuais da História do Brasil, e que são acionadas, por exemplo, nas comemorações do Bicentenário da In-dependência.\n(Image: Primeira Missa do Brasil, Victor Meirelles, 1861.)\n(Image: Independência ou Morte, Pedro Américo, 1888.)\n\nA partir de seus conhecimentos, assinale a alternativa correta a respeito da produção do passado histórico.",
+      subItens: []
+    },
+    options: [
+      "As duas telas encenam dois fatos históricos fundamentais da memória nacional: o descobrimento do Brasil e a funda-ção da nação independente. Inseridas no panteão histórico nacional, elas valorizam a história global e a Europa.",
+      "Prática do ideário nacionalista oitocentista, a celebração, na pintura histórica, dos fatos nacionais estava associada à pro-dução - do ponto de vista dos trabalhadores retratados na tela - de uma visão de passado da nação.",
+      "Celebrar eventos do passado foi estratégico para as identidades coloniais criadas no século XIX. Assim, pertencer a uma nação significava herdar um passado de valorização da diversidade étnica e igualdade social.",
+      "Estas pinturas inseriam-se em políticas de memória que construíam e traduziam valores fundamentais das identida-des nacionais. Elas ensinavam sobre as origens da nação e estabeleciam referências identitárias para os cidadãos."
+    ],
+    correctAnswer: 3,
+    materia: ["História", "Arte"],
+    conteudo: ["História do Brasil (Império, Construção da Nação)", "Pintura histórica"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 61,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Na Greve de 1917 em São Paulo, os conflitos propagaram-se a partir do Cotonifício* Crespi, com cerca de 2 mil trabalhadores; em pouco tempo, congregaram 50 mil pessoas numa cidade de 400 mil habitantes. Entre sociedades de classes, as quais eram combativas, políticas e de identidade étnica, havia sido organi-zado em março daquele ano, pouco antes da eclosão da greve, o Comitê Popular de Agitação contra a exploração das crianças. Por meio de enquetes, reuniões e palestras, o Comitê procura-va revelar as relações de trabalho a que os menores estavam sujeitos: jornadas extenuantes e graves acidentes. Nas notícias de jornais, era comum encontrar casos como o de José, de 12 anos, que teve o braço esmagado por uma máquina amassa-deira da fábrica de biscoitos \"A Fidelidade\", e Henrique Guido, de 8 anos, que teve os dedos decepados numa oficina da Barra Funda.\n(Adaptado de FRACCARO, Glaucia. Mulheres, sindicato e organização política nas greves de 1917 em São Paulo. Revista Brasileira de História, São Paulo, v. 37, n. 76, p. 76-77, 2017.)\n*Cotonifício: algodoaria.\n\nCom base no excerto e em seus conhecimentos sobre a história do trabalho no Brasil, é correto afirmar que",
+      subItens: []
+    },
+    options: [
+      "as mobilizações da greve de 1917 tinham por objetivo im-plementar a Consolidação das Leis Trabalhistas (CLT), base legal da igualdade salarial entre homens, mulheres e crian-ças, reconhecida nos anos de 1990.",
+      "em resposta à greve de 1917, o presidente Venceslau Brás institui, no ano seguinte, para a indústria brasileira, a igual-dade de salário entre homens e mulheres e torna ilegal o trabalho infantil no setor têxtil de todo o país.",
+      "a greve de 1917 foi impulsionada, entre outros fatores, pe-los baixos salários (não obstante o cenário de alta inflação), multas contra os trabalhadores, acidentes, jornadas extenu-antes, e falta de regulamentação do trabalho de menores.",
+      "na época da greve de 1917, o trabalho das crianças nas fábricas era considerado ilegal; o trabalho infantil foi regu-lamentado posteriormente por Getúlio Vargas por meio das leis trabalhistas."
+    ],
+    correctAnswer: 2,
+    materia: ["História", "Sociologia"],
+    conteudo: ["História do Brasil (Primeira República, Movimento operário)", "Movimentos sociais"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 62,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "\"Como pode um povo vivo\nViver nesta carestia\nComo poderei viver\nComo poderei viver\nDia e noite, noite e dia\nCom a barriga vazia\nComo pode um operário\nViver com esse salário\nComo pode a criançada\nEstudar sem comer nada\"\n(\"Programa oficial do lançamento geral do abaixo-assinado\" do Movimento do Custo de Vida, 12/03/1978. Doc. 039_4. Fundo ECO_PRE, Centro Pastoral Vergueiro. Citado em: MONTEIRO, Thiago Nunes. Como pode um povo vivo viver nesta carestia: 0 Movimento do Custo de Vida em São Paulo (1973-1982). São Paulo: Humanitas, 2017.)\n\nA letra acima foi utilizada pela campanha coordenada pelo Mo-vimento Custo de Vida, iniciado por mulheres das periferias da cidade de São Paulo, em 1978. Sobre as lutas por melhores condições de vida durante a década de 1970 na ditadura militar (1964-85), é correto afirmar que",
+      subItens: []
+    },
+    options: [
+      "o Movimento do Custo de Vida foi organizado para pro-testar contra as políticas econômicas e sociais da ditadura militar que provocavam o arrocho salarial e a inflação.",
+      "diante da impossibilidade de fazer protestos de rua, o Movi-mento do Custo de Vida teve atuação por meio de letras de músicas de duplo sentido (para driblar a censura), veiculadas no rádio.",
+      "após reunir cerca de 200 mil pessoas na Praça da Sé em São Paulo em 1978, o Movimento do Custo de Vida migrou para a luta armada como resposta à repressão.",
+      "as Comunidades Eclesiais de Base, instaladas nas periferias das grandes cidades e onde começou o Movimento do Cus-to de Vida, foram desmanteladas em 1979."
+    ],
+    correctAnswer: 0,
+    materia: ["História", "Sociologia"],
+    conteudo: ["História do Brasil (Ditadura militar, Movimentos sociais)", "Movimentos sociais"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 63,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Sobre os debates entre os Governos do Mercosul, é importan-te destacar que existem instâncias de construção de memórias regionais. Estas experiências acompanham os processos de ver-dade e justiça que estão em orçamento nos países para revisar, investigar e julgar os crimes de lesa-humanidade cometidos, no passado, pelo Estado. Nesta linha, os lugares de Memória são instâncias que buscam transformar certas marcas a fim de evo-car memórias e torná-las inteligíveis ao situá-las no contexto de um relato mais amplo.\n(Adaptado de: MERCOSUL. Instituto de Políticas Públicas em Direitos Humanos do MERCOSUL (IPPDH). Princípios fundamentais para as políticas públicas sobre lugares de memória. Buenos Aires: Mercosul, p. 5, 2012.)\n\nA partir do excerto e de seus conhecimentos, assinale a alter-nativa correta.",
+      subItens: []
+    },
+    options: [
+      "Embora o Mercosul seja definido pela integração econômi-ca, seus países membros também partilham experiências de ditaduras militares no passado, experiências essas que cons-tituem uma memória regional comum.",
+      "A escolha de lugares de memória comuns ao passado dos países membros do Mercosul pauta a agenda econômica de sua integração e baliza a construção de patrimônios edifi-cados.",
+      "A reparação dos crimes cometidos pelas ditaduras militares dos estados membros do Mercosul se tornou possível com a criação de instâncias jurídicas supranacionais que julgam violações contra a humanidade.",
+      "Ainda que novas, nota-se que o objetivo das políticas pú-blicas de memória do Mercosul acerca dos traumas das ditaduras - é eleger um conjunto de patrimônios edificados para pacificar o passado."
+    ],
+    correctAnswer: 0,
+    materia: ["História", "Sociologia"],
+    conteudo: ["História contemporânea (América Latina, Ditaduras militares)", "Memória e identidade"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 64,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "A palavra Antropoceno aparece hoje no título de centenas de livros e artigos científicos, em milhares de citações, e seu uso continua a crescer nos meios de comunicação. Referindo-se à época em que as ações humanas começaram a provocar altera-ções biofísicas em escala planetária, o termo foi criado nos anos de 1980 e popularizado na década de 2000. Grupos de espe-cialistas constataram que essas alterações afetavam o Sistema Terra do relativo equilíbrio observado desde o início do Holoce-no, há 11.700 anos. Para marcar o início dessa nova era, tais grupos escolheram simbolicamente o ano de 1784, momento do aperfeiçoamento da máquina a vapor e sua popularização. O contexto também corresponde ao início da revolução indus-trial e da utilização dos combustíveis fósseis.\n(Adaptado de LÉNA, Philippe; ISSBERNER, Liz-Rejane. Antropoceno: os desafios essen-ciais de um debate científico. Correio da Unesco. Suplemento online. Unesco Courrier. 2018-2. Disponível em: https://pt.unesco.org/courier/2018-2/antropoceno-os-desafios--essenciais-um-debate-cientifico. Acesso em 03/05/2022.)\n\nCom base na leitura do texto acima e em seus conhecimentos, assinale a alternativa correta.",
+      subItens: []
+    },
+    options: [
+      "A partir do século XVIII, com o Iluminismo, a crença da supe-rioridade humana sobre a natureza foi amplamente questio-nada, o que diminuiu os impactos das ações humanas sobre o Planeta em todo o século XX e XXI.",
+      "A partir da Era Moderna, o antropocentrismo pautou a cren-ça na superioridade humana sobre a natureza; essa ideia foi consolidada em 1784, mantendo-se nas ciências até o presente com o nome de Antropoceno.",
+      "Mudança climática, alteração da cobertura vegetal e perda de biodiversidade em grande escala são marcas da huma-nidade no Planeta desde as expansões marítimas do século XVI, sendo pouco preocupantes para as ciências.",
+      "Com a popularização do estilo de vida norte-americano, houve uma aceleração das mudanças causadas pela ação humana sobre o Planeta Terra, mudanças essas que vinham ocorrendo desde 1784, com a Revolução Industrial."
+    ],
+    correctAnswer: 3,
+    materia: ["Geografia", "História"],
+    conteudo: ["Geografia ambiental (Antropoceno)", "História contemporânea (Revolução Industrial)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 65,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Os textos A e B são postagens no perfil do The New York Times na rede social Instagram.\nTexto A\n(Image: nytime post about a shooting at Texas Elementary School)\n\nTexto B\n(Image: nytime post about Canada Plans to Ban Handgun Sales and Possession of Assault Weapons)\n\nQual a relação que se estabelece entre os textos A e B?",
+      subItens: []
+    },
+    options: [
+      "A serve de exemplo e justificativa para o que B noticia.",
+      "B serve de exemplo e justificativa para o que A noticia.",
+      "A e B são, ambos, notícias sobre mudanças na política de porte de armas.",
+      "A e B são, ambos, notícias sobre a ausência de leis para porte de armas."
+    ],
+    correctAnswer: 0,
+    materia: ["Língua Portuguesa", "Sociologia"],
+    conteudo: ["Interpretação de texto", "Violência"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 66,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia um trecho de um romance publicado em 1985.\nBut if you happen to be a man sometime in the future, and you've made it this far, please remember you will never be sub-ject to the temptation or feeling you must forgive, a man, as a woman. But remember that forgiveness too is a power. To beg for it is a power, and to withhold or bestow it is a power, perhaps the greatest. Maybe none of this is about control. May-be it isn't really about who can own whom, who can do what to whom and get away with it, even as far as death. Maybe it isn't about who can sit and who has to kneel or stand or lie down (...). Maybe it's about who can do what to whom and be forgiven for it. Never tell me it amounts to the same thing.\n(Adaptado de ATWOOD, Margaret. The Handmaid's Tale. New York: HMH, p. 134, 1985.)\n\nNo depoimento, a personagem explicita a relação entre",
+      subItens: []
+    },
+    options: [
+      "poder e tentação.",
+      "feminismo e violência.",
+      "poder e perdão.",
+      "perdão e feminismo."
+    ],
+    correctAnswer: 2,
+    materia: ["Inglês", "Filosofia"],
+    conteudo: ["Interpretação de texto", "Ética"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 67,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "O texto a seguir focaliza o termo \"audism”, que pode ser traduzido para o português como “ouvintismo”.\nAudism is an attitude based on thinking that results in a negative stigma toward anyone who does not hear. Like racism or sexism, audism judges, labels, and limits individuals based on whether a person hears and speaks. Audism reflects the medical view of deafness as a disability that must be fixed. It is rooted in the historical belief that deaf people were savages without language. Because many deaf people grew up in hearing families who did not learn to sign, audism may be ingrained.\n\nAudism occurs when one:\n- Asks a deaf person to read your lips or write when s/he has indicated this isn't preferred.\n- Asks a deaf person to \"tone down\" their facial expressions because they make others uncomfortable.\n- Devotes a significant amount of instructional time for a deaf child to lipreading and speech therapy, rather than educa-tional subjects.\n(Adaptado de: https://vawnet.org/sc/audism-oppression-lives-deaf-individuals. Acesso em 21/06/2022.)\n\nÉ correto afirmar que o texto",
+      subItens: []
+    },
+    options: [
+      "argumenta que o ouvintismo é um conceito médico e lista modos de ser menos ouvintista.",
+      "apresenta o conceito de ouvintismo e traz exemplos de atitudes consideradas ouvintistas.",
+      "compara o ouvintismo a outros preconceitos e lista ações a serem tomadas ao lidar com pessoas surdas.",
+      "explica o que é ouvintismo e exalta a capacidade das crian-ças surdas de ler os lábios."
+    ],
+    correctAnswer: 1,
+    materia: ["Inglês", "Sociologia"],
+    conteudo: ["Interpretação de texto", "Inclusão social"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 68,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia os textos a seguir para responder às questões 68 e 69.\nTexto 1\nIn history, the rise of street art around the world has mirrored multiple waves of political unrest. The use of this avant-garde art style for political activism has spread to the Bay Area, California. As an influx of white upper-class residents displaced low-income households, the anger of local people fueled a movement to take back the streets via spray paint, video projections, stenciling any street art medium. Bay Area activists are weaponizing street art to unite the masses and reclaim their communities' stolen narratives, re-imagining better futures alongside comrades across the nation. Their freeing and colorful art combats the virulent systems of oppression that white supremacy has entrenched in our society, those same systems which mark their craft as illegal under the guise of vandalism. Street art democratizes public spaces and takes back the streets as effectively as physical protests. As a street artist, Nancypili Hernandez says that her art transforms \"locations that feel like a parking lot or private property, to feeling like a collective community commons.\"\n(Adaptado de: https://harvardpolitics.com/street-art-activism/. Acesso em 20/06/2022.)\n\nTexto 2\n(Image: Street sign that reads \"PARKING\" but has \"ART\" written below it, creating a new meaning.)\n\nSegundo o Texto 1, é correto afirmar que a arte de rua é",
+      subItens: []
+    },
+    options: [
+      "uma representação vanguardista de arte, originada na Cali-fórnia, que busca combater o preconceito que associa essa manifestação artística ao vandalismo.",
+      "um movimento político no qual os artistas buscam difundir a diversidade através da união entre diferentes classes da sociedade.",
+      "uma manifestação artística, com motivações políticas, que busca defender os direitos de pessoas em situação de rua.",
+      "um estilo artístico que materializa a luta de alguns grupos contra mecanismos sociais que buscam apagar suas vozes."
+    ],
+    correctAnswer: 3,
+    materia: ["Inglês", "Arte"],
+    conteudo: ["Interpretação de texto", "Arte urbana"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 69,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia os textos a seguir para responder às questões 68 e 69.\nTexto 1\nIn history, the rise of street art around the world has mirrored multiple waves of political unrest. The use of this avant-garde art style for political activism has spread to the Bay Area, California. As an influx of white upper-class residents displaced low-income households, the anger of local people fueled a movement to take back the streets via spray paint, video projections, stenciling any street art medium. Bay Area activists are weaponizing street art to unite the masses and reclaim their communities' stolen narratives, re-imagining better futures alongside comrades across the nation. Their freeing and colorful art combats the virulent systems of oppression that white supremacy has entrenched in our society, those same systems which mark their craft as illegal under the guise of vandalism. Street art democratizes public spaces and takes back the streets as effectively as physical protests. As a street artist, Nancypili Hernandez says that her art transforms \"locations that feel like a parking lot or private property, to feeling like a collective community commons.\"\n(Adaptado de: https://harvardpolitics.com/street-art-activism/. Acesso em 20/06/2022.)\n\nTexto 2\n(Image: Street sign that reads \"PARKING\" but has \"ART\" written below it, creating a new meaning.)\n\nConsiderando os Textos 1 e 2, assinale a alternativa que preen-che corretamente as lacunas do trecho a seguir. A construção de sentidos na fotografia (Texto 2) se dá, entre outras coisas, por meio da (i) _______ da palavra pintada no muro. Além disso, a fotografia retrata (ii) _______ citada no texto apresentado anteriormente (Texto 1).",
+      subItens: []
+    },
+    options: [
+      "(i) composição imagética; (ii) a desigualdade social",
+      "(i) exploração da polissemia; (ii) uma prática",
+      "(i) supressão dos afixos; (ii) a supremacia branca",
+      "(i) mudança de tempo verbal; (ii) uma localidade"
+    ],
+    correctAnswer: 1,
+    materia: ["Inglês", "Língua Portuguesa", "Arte"],
+    conteudo: ["Interpretação de texto", "Semântica (Polissemia)", "Leitura de imagem"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 70,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "COVID AND SMELL LOSS: SOME ANSWERS EMERGE. Researchers are making headway in understanding how coronavirus causes loss of smell. Several potential treatments to tackle the condition are undergoing clinical trials, including steroids and blood plasma. Recently, a study surveyed 616,318 people in the United States who have had COVID-19. It found that, compared with those who had been infected with the original virus, people who had contracted the Alpha variant were 50% as likely to have chemosensory disruption. This probability fell to 44% for the Delta variant, and to 17% for Omicron. However, a significant portion of people infected early in the pandemic still experience chemosensory effects. A 2021 study followed 100 people who had had mild cases of COVID-19 and 100 people who repeatedly tested negative. More than a year after their infections, 46% of those who had had COVID-19 still had smell problems; by contrast, just 10% of the control group had developed some smell loss, but for other reasons. Furthermore, 7% of those who had been infected still had total smell loss, or 'anosmia', at the end of the year. Given that more than 500 million cases of COVID-19 have been confirmed worldwide, tens of millions of people probably have lingering smell problems.\n(Adaptado de: https://www.nature.com/articles/d41586-022-01589-z. Acesso em 22/06/2022.)\n\nSegundo o texto,",
+      subItens: []
+    },
+    options: [
+      "o percentual de pessoas infectadas pelo coronavírus a apre-sentarem problemas de olfato vem aumentando à medida que o vírus evolui.",
+      "esteroides e plasma sanguíneo são tipos de tratamentos efi-cazes contra a perda de olfato após infecção por coronavírus.",
+      "a perda total de olfato, chamada de \"anosmia\", ainda es-tava presente, em 2021, em 7% das pessoas infectadas por coronavírus no começo da pandemia.",
+      "problemas olfativos provavelmente persistem em 500 mi-lhões de pessoas que foram infectadas pelo coronavírus."
+    ],
+    correctAnswer: 2,
+    materia: ["Biologia", "Inglês"],
+    conteudo: ["Saúde humana (COVID-19)", "Interpretação de texto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 71,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "Leia, a seguir, parte de um discurso da abolicionista estaduni-dense Sojourner Truth, feito em 1851.\n\"I think that 'twixt the negroes of the South and the women at the North, all talking about rights, the white men will be in a fix pretty soon. But what's all this here talking about? That man over there says that women need to be helped into carriages, and lifted over ditches, and to have the best place everywhere. Nobody ever helps me into carriages, or over mud-puddles, or gives me any best place! And ain't I a woman? Look at me! Look at my arm! I have ploughed and planted, and gathered into barns, and no man could head me! And ain't I a woman? I could work as much and eat as much as a man when I could get it - and bear the lash as well! And ain't I a woman? I have borne thirteen children, and seen most all sold off to slavery, and when I cried out with my mother's grief, none but Jesus heard me! And ain't I a woman? (...)\"\n(Disponível em: https://www.nps.gov/articles/sojourner-truth.htm. Acesso em 24/05/2022.)\n\nAo longo do discurso, Sojourner Truth repete a mesma pergun-ta com a finalidade de",
+      subItens: []
+    },
+    options: [
+      "ilustrar atitudes sexistas vivenciadas por mulheres negras e brancas.",
+      "problematizar a diferença de tratamento dispensado a mu-Theres negras e brancas.",
+      "advogar pela igualdade de direitos entre homens e mulhe-res.",
+      "criticar a separação entre brancos e negros de diferentes classes sociais."
+    ],
+    correctAnswer: 1,
+    materia: ["Inglês", "História", "Sociologia"],
+    conteudo: ["Interpretação de texto", "História dos EUA (Abolicionismo, Movimento sufragista)", "Desigualdade de gênero e raça"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 72,
+    university: "unicamp",
+    year: 2023,
+    text: {
+      principal: "O Coronavirus Resource Center (CRC) da Johns Hopkins University é uma importante plataforma de dados sobre a COVID-19, com atualizações frequentes sobre a evolução da pandemia. Os gráficos apresentados nas alternativas que respondem a esta questão foram retirados desta plataforma. Considere, agora, o contexto fictício de uma palestra ministrada em uma universidade estrangeira por um pesquisador brasileiro. Na ocasião, o cientista fez comentários sobre a situação da pandemia no Brasil, valendo-se de dados da pla-taforma do CRC:\n“As I speak now, in June of 2022, I can say we've had a tough time during these past two years in our country. This chart, indicating the number of daily deaths over time, shows how we've had a couple of months during the pandemic in which the number of daily deaths was over two thousand. Despite having the number of deaths spike to 3 thousand last year - our highest peak to date – levels had been steadily decreasing ever since. This year, though, there was a slight increase in the number of daily deaths, which nearly reached levels attained towards the beginning of the pandemic.\"\n(Fonte dos gráficos: https://coronavirus.jhu.edu. Acesso em 11/06/2022.)\n\nQual dos gráficos a seguir ilustraria corretamente a fala do pes-quisador?\n(Graphs A, B, C, D representing 'Daily Deaths' over time.)",
+      subItens: []
+    },
+    options: [
+      "(Graph A shows initial low deaths, a peak over 2K, then a higher peak at 3K, followed by a decrease, and a slight increase in 2022 returning to early levels.)",
+      "(Graph B shows lower peaks and different trends.)",
+      "(Graph C shows different trends and peaks compared to the description.)",
+      "(Graph D shows oscillating pattern not matching the described peak and decline.)"
+    ],
+    correctAnswer: 0,
+    materia: ["Inglês", "Matemática", "Biologia"],
+    conteudo: ["Interpretação de texto", "Leitura e interpretação de gráficos", "Saúde pública (Epidemiologia)"],
+    imageNames: []
+})

@@ -1,0 +1,1889 @@
+createQuestion({
+    id: 1,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "TEXTO PARA AS QUESTÕES 01 E 02\nTempo de nos aquilombar\nÉ tempo de caminhar em fingido silêncio,\ne buscar o momento certo no grito,\naparentar fechar um olho evitando o cisco\ne abrir escancaradamente o outro.\nÉ tempo de fazer os ouvidos moucos\npara os vazios lero-leros,\ne cuidar dos passos assuntando as vias,\nir se vigiando atento, que o buraco é fundo.\nÉ tempo de ninguém se soltar de ninguém,\nmas olhar fundo na palma aberta\na alma de quem lhe oferece o gesto.\nO laçar de mãos não pode ser algemas,\ne sim acertada tática, necessário esquema.\nÉ tempo de formar novos quilombos,\nem qualquer lugar que estejamos\ne que venham dias futuros, salve 2020\nA mística quilombola persiste afirmando:\n\"a liberdade é uma luta constante\".\nConceição Evaristo. Jornal O Globo, 31/12/2019.\n\nO verso “É tempo de formar novos quilombos” é um exemplo de",
+      subItens: []
+    },
+    options: [
+      "paradoxo, na medida em que propõe retomar o passado num contexto atual.",
+      "metonímia, já que os quilombos fazem parte de um novo contexto cultural, sem relação com o passado.",
+      "metáfora, representando uma união coletiva como forma de resistência social.",
+      "antítese, ao relacionar a noção de tempo passado a uma nova configuração de futuro.",
+      "hipérbole, apresentando o termo \"quilombos\" no plural para indicar o grau de difusão do movimento."
+    ],
+    correctAnswer: 2,
+    materia: ["Linguagens", "Literatura Brasileira"],
+    conteudo: ["Figuras de Linguagem", "Poesia Contemporânea"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 2,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "TEXTO PARA AS QUESTÕES 01 E 02\nTempo de nos aquilombar\nÉ tempo de caminhar em fingido silêncio,\ne buscar o momento certo no grito,\naparentar fechar um olho evitando o cisco\ne abrir escancaradamente o outro.\nÉ tempo de fazer os ouvidos moucos\npara os vazios lero-leros,\ne cuidar dos passos assuntando as vias,\nir se vigiando atento, que o buraco é fundo.\nÉ tempo de ninguém se soltar de ninguém,\nmas olhar fundo na palma aberta\na alma de quem lhe oferece o gesto.\nO laçar de mãos não pode ser algemas,\ne sim acertada tática, necessário esquema.\nÉ tempo de formar novos quilombos,\nem qualquer lugar que estejamos\ne que venham dias futuros, salve 2020\nA mística quilombola persiste afirmando:\n\"a liberdade é uma luta constante\".\nConceição Evaristo. Jornal O Globo, 31/12/2019.\n\nConsiderando o enfoque do texto na denúncia social, o eu lírico revela, predominantemente,",
+      subItens: []
+    },
+    options: [
+      "a crítica às reações da nossa sociedade frente aos problemas que ficaram no passado.",
+      "as justificativas para a segregação social no mundo contemporâneo.",
+      "as tensões sociais presentes há tempos, sob a luz dos embates do momento atual.",
+      "a importância de contornar os problemas sociais do passado.",
+      "as peculiaridades das diferentes classes sociais ao enfrentar os problemas sociais atuais."
+    ],
+    correctAnswer: 2,
+    materia: ["Literatura Brasileira", "Linguagens"],
+    conteudo: ["Poesia Contemporânea", "Análise de Texto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 3,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "A arte foi e ainda pode ser utilizada para criar, reforçar e disseminar ideias, valores e estereótipos, mas também pode colocá-los em discussão. A obra \"Sentem para jantar\", de Gê Viana, faz parte da série “Atualizações traumáticas de Debret\", na qual o artista propõe uma revisão iconográfica da história do Brasil tendo como referência as obras de Jean-Baptiste Debret, especificamente aquelas presentes em \"Viagem Pitoresca e Histórica ao Brasil\" (1834-1839), publicação que pautou de maneira imagética o período colonial brasileiro. Em sua revisão, Gê Viana dá continuidade ao seu projeto de análise crítica de representações históricas, produzindo releituras de algumas dessas obras, dentre as quais, a obra \"Um jantar brasileiro\", do artista francês. A seguir, são reproduzidos os quadros desses dois artistas.\n\nImagem 1: Jean-Baptiste Debret. \"Um jantar brasileiro\", 1827. Aquarela, 15,7 x 22 cm. Disponível em http://museuscastromaya.com.br/.\nImagem 2: Gê Viana. \"Sentem para jantar\", 2021. Impressão em jato de tinta com pigmento natural de colagem digital sobre papel Hahnemuhle Photo Rag 308 g/m²; 29,7 x 42 cm. Disponível em https://mam.rio/ge-viana/.\n\nCom base nas informações e imagens apresentadas, assinale a alternativa que corresponde à abordagem adotada por Gê Viana em sua obra \"Sentem para jantar\", ao utilizar como referência a obra \"Um jantar brasileiro\", de Jean-Baptiste Debret.",
+      subItens: []
+    },
+    options: [
+      "Gê Viana reproduz, em sua obra, as mesmas relações sociais representadas na obra de Debret.",
+      "Gê Viana exalta, em sua obra, especialmente as características físicas das pessoas retratadas, enquanto Debret enfatiza as relações pessoais.",
+      "Gê Viana emprega, em sua obra, as mesmas técnicas e os mesmos materiais utilizados na obra de Debret, o que lhes confere grande semelhança.",
+      "Gê Viana ignora aspectos relacionados a questões étnico-raciais em sua releitura da obra de Debret, focando apenas na estética visual da obra.",
+      "Gê Viana busca desconstruir, em sua obra, os estereótipos étnico-raciais presentes na obra original de Debret."
+    ],
+    correctAnswer: 4,
+    materia: ["Arte", "História"],
+    conteudo: ["História da Arte", "Análise de Obra de Arte", "Brasil Colonial"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 4,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "TEXTO PARA AS QUESTÕES 04 E 05\nWHEN RACISM & SEXISM ARE\nNO LONGER FASHIONABLE,\nWHAT WILL YOUR ART\nCOLLECTION BE WORTH?\nThe art market won’t bestow mega-buck prices on the work\nof a few white males forever. For the 17.7 million you just spent\non a single Jasper Johns painting, you could have bought at\nleast one work by all of these women and artists of color.\n[Lista de artistas, por exemplo: Bernice Abbott, Anni Albers, Sofonisba Anguisolla, etc.]\nGUERRILLA GIRLS CONSCIENCE OF THE ART WORLD\nDisponível em https://www.tate.org.uk/art/artworks/.\n\nNo anúncio, o segmento \"won't bestow mega-buck prices\" indica",
+      subItens: []
+    },
+    options: [
+      "a tentativa de angariar fundos para patrocinar artistas iniciantes.",
+      "a falta de incentivo dos museus a pintores vanguardistas.",
+      "a possibilidade de redução dos valores financeiros de obras de arte consagradas.",
+      "a ausência de qualidade artística de quadros tradicionais.",
+      "a crise financeira vivida por galerias de arte famosas."
+    ],
+    correctAnswer: 2,
+    materia: ["Língua Inglesa", "Arte"],
+    conteudo: ["Compreensão de Texto", "Mercado da Arte"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 5,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "TEXTO PARA AS QUESTÕES 04 E 05\nWHEN RACISM & SEXISM ARE\nNO LONGER FASHIONABLE,\nWHAT WILL YOUR ART\nCOLLECTION BE WORTH?\nThe art market won’t bestow mega-buck prices on the work\nof a few white males forever. For the 17.7 million you just spent\non a single Jasper Johns painting, you could have bought at\nleast one work by all of these women and artists of color.\n[Lista de artistas, por exemplo: Bernice Abbott, Anni Albers, Sofonisba Anguisolla, etc.]\nGUERRILLA GIRLS CONSCIENCE OF THE ART WORLD\nDisponível em https://www.tate.org.uk/art/artworks/.\n\nConsiderado o contexto, a expressão \"be worth\" tem sentido de",
+      subItens: []
+    },
+    options: [
+      "prontidão.",
+      "esperteza.",
+      "valorização.",
+      "apelo.",
+      "experimento."
+    ],
+    correctAnswer: 2,
+    materia: ["Língua Inglesa"],
+    conteudo: ["Vocabulário", "Compreensão de Texto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 6,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Na coluna do ativo como na do passivo, seria difícil exagerar o papel do açúcar na história do Brasil colonial. Se ele foi o produto que proporcionou a base inicial solidamente econômica para o esforço do colonizador, foi também o que plasmou o regime de propriedade latifundiária, instalou a escravidão africana na América portuguesa e, no seu exclusivismo, inibiu o desenvolvimento da policultura (...), embora estimulando, em áreas apartadas, a pecuária e a lavoura de subsistência. (...) Ele desenvolveu um estilo de vida que marcou a existência de todas as camadas da população que integrou, reservando, contudo, seus privilégios a uns poucos.\"\nMELLO, Evaldo Cabral de. Um imenso Portugal: História e historiografia. São Paulo: Ed. 34, 2002. p.110.\n\nO texto indica que, no Nordeste açucareiro dos séculos XVI e XVII,",
+      subItens: []
+    },
+    options: [
+      "a mão de obra de escravizados de origem africana e indígena era empregada nos canaviais, na pecuária e na lavoura de subsistência.",
+      "a distribuição de terras baseava-se na concessão, pela Coroa portuguesa, de privilégios e pequenos lotes a donatários.",
+      "os privilégios concentravam-se nas mãos dos senhores de engenho, em detrimento da população escravizada ou livre e pobre.",
+      "o desenvolvimento de relações socioeconômicas fundadas na horizontalidade recebia estímulos governamentais.",
+      "o modo de produção feudal prevaleceu na exploração agrícola pela metrópole."
+    ],
+    correctAnswer: 2,
+    materia: ["História"],
+    conteudo: ["Brasil Colônia", "Economia Colonial", "Escravidão"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 7,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "A charge de Angelo Agostini foi publicada em 1880, em meio aos debates sobre a Lei dos Sexagenários no parlamento brasileiro.\n\nImagem: Charge \"Escravidão ou morte!\" de Angelo Agostini, Revista Illustrada n.222 (RJ), 1880. A imagem mostra uma estátua equestre (aparentemente Pedro I) com uma figura escravizada acorrentada na base, abaixo da inscrição \"INDEPENDÊNCIA OU MORTE!\". A inscrição na charge é \"ESCRAVIDÃO OU MORTE!\".\n\nA charge",
+      subItens: []
+    },
+    options: [
+      "endossa a defesa, pelos setores políticos liberais, do emprego de trabalhadores brancos, representados nas laterais do monumento.",
+      "critica a concepção de independência manifesta na estátua equestre de Pedro I e a defesa da extinção do tráfico de escravizados.",
+      "expõe a contradição entre a liberdade expressa na estátua equestre de Pedro I e as mazelas enfrentadas pelos escravizados.",
+      "defende a manutenção da escravidão, em oposição à exploração do trabalho compulsório de indígenas e de imigrantes europeus.",
+      "expressa a indignação dos proprietários rurais, grupo social hegemônico, diante da redução gradual do trabalho escravo."
+    ],
+    correctAnswer: 2,
+    materia: ["História", "Sociologia"],
+    conteudo: ["Segundo Reinado", "Abolicionismo", "Análise de Imagem"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 8,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Entre os anos de 2012 e 2022, o número de pessoas autodeclaradas pretas e pardas aumentou em uma taxa superior à do crescimento do total da população do país, segundo o resultado da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua do IBGE. No caso dos negros, essa porcentagem variou de 7,4% em 2012 para 10,6% em 2022. '(...) uma das hipóteses para o crescimento da proporção é que a percepção racial tenha mudado dentro da população, nos últimos anos'.\"\nO Globo, 22/07/2022; CNN Brasil, 16/06/2023.\n\n\"Pois bem, é justamente a partir daí que aparece a necessidade de teorizar as 'raças' como o que elas são, ou seja, construtos sociais, formas de identidade baseadas numa ideia biológica errônea, mas eficaz, socialmente, para construir, manter e reproduzir diferenças e privilégios. Se as raças não existem num sentido estritamente realista de ciência, ou seja, se não são um fato do mundo físico, são, contudo, plenamente existentes no mundo social, produtos de formas de classificar e de identificar que orientam as ações dos seres humanos.\"\nGUIMARÃES, Antônio Sergio Alfredo. Raças e estudos de relações raciais no Brasil. Novos Estudos CEBRAP, n.54, 1999. p.153.\n\nRelacionando os dados trazidos pela PNAD/IBGE e o conceito de raça do sociólogo Antônio Sergio Alfredo Guimarães, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "A hipótese de que a autopercepção racial de parte dos brasileiros mudou está em conflito com a tese de que raça é um construto social. Isso porque, como os traços fenotípicos da população brasileira mantiveram-se os mesmos de 2012 a 2022, não haveria motivos para o aumento dos autodeclarados pretos e pardos.",
+      "A tese de que raças são construtos sociais ganha força diante das mudanças na autopercepção de parte dos brasileiros sobre sua condição racial. Alterações culturais e ideológicas da inserção social de negros e pardos teriam permitido o crescimento dos assim autodeclarados.",
+      "As alterações na autopercepção racial captadas pelas pesquisas do IBGE não guardam relação com a ideia de que raça é um construto social. Na verdade, reafirmam que as raças são realidades biológicas e que mais indivíduos estariam se dando conta do seu verdadeiro pertencimento racial.",
+      "Os dados colhidos pelo IBGE sobre o aumento da autodeclaração racial dos respondentes como pretos e pardos indicam que houve um aumento dessa população no Brasil, o que contraria a tese de que raça é um construto social, e não uma realidade biológica.",
+      "A existência do racismo no Brasil indica que a tese de raça como construto social está errada. Se raça fosse um construto social, e não uma realidade biológica, os indivíduos prefeririam se declarar como brancos para evitar serem vítimas de racismo."
+    ],
+    correctAnswer: 1,
+    materia: ["Sociologia", "Geografia Humana"],
+    conteudo: ["Relações Raciais", "Construção Social da Raça", "Demografia Brasileira"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 9,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"O lugar do ensino superior agora tem as portas abertas. A (...) Constituição é que impõe essa situação por decreto. Mas (...) este não pode garantir que todos tenham a tal 'capacidade' que lhes vai permitir o aproveitamento dessa educação. Há rapazes até agora são poucas as moças com a força de vontade que Jabu, ainda menina, tinha para dar e vender — que recebem bolsas ou auxílios de algum tipo (...). As 'aulas de reforço' (...): um band-aid. Steve sabe que isso não é uma solução para o abismo da educação ruim do fundo do qual os alunos tentam emergir.\nA Luta não terminou.\n- (...) Eu tenho alunos de estudos africanos que não sabem escrever (...).\nEntão o que é que nós devíamos estar fazendo? (...) O professor Nielson ainda usa terno (...), embora o padrão da indumentária tenha relaxado a partir do exemplo dado pelas túnicas de Mandela. (...) – Você não está propondo que a gente baixe ainda mais os critérios de admissão à universidade. Então a universidade é pra avançar no conhecimento ou é pra andar pra trás?\nO que Steve está perguntando é se esse ensino adicional de faz de conta na esperança de elevar os alunos a um nível universitário pode compensar dez anos de educação primária e secundária de péssimo nível.”\nGORDIMER, Nadine. O melhor tempo é o tempo presente. São Paulo: Companhia das Letras, 2014. p.82-83.\n\nNo excerto do romance da escritora sul-africana Nadine Gordimer, é possível identificar:",
+      subItens: []
+    },
+    options: [
+      "o regime de apartheid em vigor na África do Sul na época em que o romance se passa, que mantinha alunos e professores negros fora da universidade.",
+      "a segregação formal das mulheres no acesso à educação, conforme estabelecido pela Constituição promulgada no pós-apartheid.",
+      "as eficazes estratégias de apoio aos estudantes pobres para assegurar a boa qualidade da educação básica e superior na época do apartheid.",
+      "as incertezas sobre as estratégias adotadas para enfrentar desigualdades sociais e educacionais legadas pelo regime do apartheid na África do Sul.",
+      "o reconhecimento consensual do sucesso do projeto de inclusão educacional no cenário sul-africano pós-apartheid."
+    ],
+    correctAnswer: 3,
+    materia: ["História", "Geografia Humana", "Sociologia"],
+    conteudo: ["Apartheid", "Desigualdades Socioeconômicas", "Educação"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 10,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Por quê? Porque pensar em direitos humanos tem um pressuposto: reconhecer que aquilo que consideramos indispensável para nós é também indispensável para o próximo. (...).\nNesse ponto as pessoas são frequentemente vítimas de uma curiosa obnubilação. Elas afirmam que o próximo tem direito, sem dúvida, a certos bens fundamentais, como casa, comida, instrução, saúde, coisas que ninguém bem formado admite hoje em dia que sejam privilégio de minorias, como são no Brasil. Mas será que pensam que seu semelhante pobre teria direito a ler Dostoievski ou ouvir os quartetos de Beethoven? (...). Ora, o esforço para incluir o semelhante no mesmo elenco de bens que reivindicamos está na base da reflexão sobre os direitos humanos.\"\nCANDIDO, Antonio. Vários escritos. 3ª ed. revista e ampliada. São Paulo: Duas Cidades, 1995.\n\nCom base na leitura do texto, pode-se afirmar que Antonio Candido defende que o acesso a bens como a literatura e a música",
+      subItens: []
+    },
+    options: [
+      "é privilégio de minorias, pois são bens que exigem reflexão.",
+      "deve ser reivindicado como um direito, e não como um privilégio.",
+      "vitimiza as pessoas que não têm acesso a bens fundamentais para viver.",
+      "humaniza as minorias privilegiadas, incentivando-as a compartilhar seu conhecimento.",
+      "é indispensável para quem luta pelos direitos humanos."
+    ],
+    correctAnswer: 1,
+    materia: ["Sociologia", "Filosofia"],
+    conteudo: ["Direitos Humanos", "Ética e Moral"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 11,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "TEXTO PARA AS QUESTÕES 11 E 12\nVincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is \"immersive\", the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of \"immersive\" retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn't do much in the way of sensory stimulation. My favourite element of an \"immersive\" show I have been to was their faithful recreation of Van Gogh's bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don't even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation \"immersive experiences\" have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces.\nDisponível em https://www.vice.com/en/article/. Adaptado.\n\nDe acordo com o texto, muitos visitantes das exposições de arte imersivas demonstram",
+      subItens: []
+    },
+    options: [
+      "fascínio pelas novidades tecnológicas utilizadas pelos curadores.",
+      "desconforto causado pelo excesso de estímulos sensoriais.",
+      "curiosidade sobre a biografia dos pintores e os movimentos artísticos.",
+      "apreciação pelas informações oferecidas por guias e educadores.",
+      "indiferença diante das simulações das obras de arte."
+    ],
+    correctAnswer: 4,
+    materia: ["Língua Inglesa", "Arte"],
+    conteudo: ["Compreensão de Texto", "Crítica de Arte"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 12,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "TEXTO PARA AS QUESTÕES 11 E 12\nVincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is \"immersive\", the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of \"immersive\" retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn't do much in the way of sensory stimulation. My favourite element of an \"immersive\" show I have been to was their faithful recreation of Van Gogh's bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don't even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation \"immersive experiences\" have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces.\nDisponível em https://www.vice.com/en/article/. Adaptado.\n\nO texto apresenta uma crítica às exposições de arte imersivas que está relacionada com",
+      subItens: []
+    },
+    options: [
+      "a manipulação digital das imagens exibidas pelos usuários do TikTok.",
+      "o emprego das obras de arte para fins publicitários ilícitos.",
+      "a cobrança pelo uso de equipamentos para simular a experiência de imersão nas obras.",
+      "a falta de informação para o público leigo nos catálogos das exibições.",
+      "o investimento necessário para a criação da tecnologia usada nas instalações."
+    ],
+    correctAnswer: 2,
+    materia: ["Língua Inglesa", "Arte"],
+    conteudo: ["Compreensão de Texto", "Crítica de Arte"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 13,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Matrizes podem ser usadas para se obter informações sobre uma rede social. Para compreender como isso pode ser feito, consideremos como exemplo uma pequena rede social formada por 4 pessoas: P1, P2, P3, P4. A matriz associada a essa rede social é a matriz 4 x 4:\n\nImagem: Matriz M = [[0, 1, 0, 1], [0, 0, 1, 0], [1, 1, 0, 1], [1, 0, 1, 0]]\n\nO valor 1 (um) na posição a32 (linha 3, coluna 2) da matriz significa que a pessoa P3 segue a pessoa P2, ao passo que o valor 0 (zero) na posição a24 (linha 2, coluna 4) significa que a pessoa P2 não segue a pessoa P4. O valor 0 (zero) será atribuído às posições aii. O significado do valor da posição bmn da matriz produto M × M = M² é a quantidade de conexões da pessoa Pm até a pessoa Pn passando exatamente por uma pessoa, diferente delas duas, que chamaremos de conexão de grau 2.\nDessa forma, os valores das posições da matriz M² podem refletir o alcance da rede social, suas potencialidades e fraquezas, a influência de certos membros dela, dentre outros aspectos.\nCom relação à rede social apresentada, é correto afirmar que:\n\nNote e adote:\nA posição bmn da matriz produto M × M = M² é dada pela expressão bmn = am1a1n + am2a2n + am3a3n + am4a4n",
+      subItens: []
+    },
+    options: [
+      "Existem 5 pares de pessoas diferentes (Pi ≠ Pj) que não possuem conexões de grau 2.",
+      "Existem 6 pares de pessoas diferentes (Pi ≠ Pj) que possuem apenas uma conexão de grau 2.",
+      "Existem 3 pares de pessoas diferentes (Pi ≠ Pj) que possuem 2 conexões de grau 2 diferentes.",
+      "Existem 3 pessoas que possuem conexões de grau 2 com todas as outras pessoas da rede social.",
+      "Existe apenas 1 pessoa Pi (i ≠ 3) tal que Pi e P3 seguem-se mutuamente."
+    ],
+    correctAnswer: 1,
+    materia: ["Matemática"],
+    conteudo: ["Matrizes", "Álgebra Linear"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 14,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Na série ficcional Wandinha, o poder da visão é transmitido entre as bruxas, conforme o modelo genealógico hipotético a seguir:\n\nImagem: Heredograma mostrando a herança do poder da visão na família Addams. Legenda: Mulher com poder da visão (círculo preenchido), Mulher sem poder da visão (círculo vazio), Homem sem poder da visão (quadrado vazio). O heredograma mostra Goody Addams (mulher com poder da visão) como ancestral. Uma geração abaixo, Gomez (homem sem poder da visão) e Mortícia (mulher com poder da visão) têm dois filhos: Wandinha (mulher com poder da visão) e Feioso (homem sem poder da visão).\n\nConsiderando a genealogia apresentada, o poder da visão tem herança",
+      subItens: []
+    },
+    options: [
+      "autossômica dominante, porque se apresenta somente em mulheres.",
+      "autossômica recessiva, sendo todos os homens homozigóticos dominantes.",
+      "ligada ao X recessiva, e os filhos homens inativam esse cromossomo.",
+      "ligada ao X recessiva, porque aparece em todas as gerações.",
+      "ligada ao X dominante, sendo letal para fetos masculinos com o alelo dominante."
+    ],
+    correctAnswer: 4,
+    materia: ["Biologia"],
+    conteudo: ["Genética", "Heredogramas"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 15,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Em Dois irmãos, de Milton Hatoum, os gêmeos Yaqub e Omar representam duas personalidades antagônicas que se enfrentam ao longo da narrativa. A rivalidade entre eles tem como resultado:",
+      subItens: []
+    },
+    options: [
+      "A prosperidade econômica de ambos.",
+      "A reconstrução dos laços entre eles.",
+      "A ida de Nael a São Paulo para viver com Yaqub.",
+      "A morte de Rânia, a irmã dos gêmeos.",
+      "A desagregação e a ruína da família."
+    ],
+    correctAnswer: 4,
+    materia: ["Literatura Brasileira"],
+    conteudo: ["Romance Contemporâneo", "Milton Hatoum"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 16,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "A partir da leitura de Dois irmãos, com o foco na questão da paternidade de Nael, narrador do romance, pode-se afirmar:",
+      subItens: []
+    },
+    options: [
+      "Nenhum dos dois irmãos assumiu a paternidade de Nael, nem Nael os reconheceu como pais.",
+      "Nael é filho de Rochiram, de quem ganha a casa no fundo do terreno para escrever suas memórias.",
+      "Nael gostaria que Yaqub fosse seu pai, pelos projetos e visão de mundo que compartilhava com ele.",
+      "A cena final do romance, na qual Omar e Nael se encontram, confirma a paternidade de Omar.",
+      "Embora não quisesse ter tido filhos, Halim é o pai de Nael, Omar e Yaqub."
+    ],
+    correctAnswer: 0,
+    materia: ["Literatura Brasileira"],
+    conteudo: ["Romance Contemporâneo", "Milton Hatoum"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 17,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"O Quim disse-me também que as feridas do Cão Tinhoso eram por causa da guerra e da bomba atômica [...] O Quim disse-me isso de o Cão Tinhoso ser muito velho quando um dia o vimos a bocejar sem dentes na boca. Foi nesse dia que me contou a história da bomba atômica com os japoneses pequeninos a morrer todos que era uma beleza e o Cão Tinhoso a fugir depois de ela rebentar e a correr uma distância monstra para não morrer.\"\nLuís Bernardo Honwana. Nós matamos o Cão Tinhoso!.\n\nA radiação ionizante, resultante da explosão da bomba atômica, é capaz de provocar feridas na pele iguais às do Cão Tinhoso, que são consequências de",
+      subItens: []
+    },
+    options: [
+      "mutações no DNA das células epiteliais, o que pode alterar seu ciclo celular.",
+      "alterações no DNA mitocondrial que levam à redução do metabolismo celular.",
+      "ativação dos processos de reparo do DNA e bloqueio da diferenciação celular.",
+      "aumento da divisão meiótica decorrente do processo de crossing-over.",
+      "processos de evolução desencadeados por mutações aleatórias."
+    ],
+    correctAnswer: 0,
+    materia: ["Biologia", "Física"],
+    conteudo: ["Citologia", "Divisão Celular", "Radiação e seus Efeitos"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 18,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Em 2023, a imprensa mundial anunciou a criação da almôndega de carne de mamute. A ilustração a seguir resume a biotecnologia envolvida nesse processo.\n\nImagem: Fluxograma \"Como a almôndega de mamute foi criada?\".\n1. O gene que codifica a mioglobina do mamute é sequenciado. A mioglobina é uma proteína da célula muscular que confere sabor característico à carne.\n2. As partes não recuperadas do gene da mioglobina do mamute foram completadas com a sequência do gene da mioglobina do elefante.\n3. A sequência do gene da mioglobina é inserida em uma célula-tronco de ovelha.\n4. As células se multiplicam em laboratório até chegarem ao número suficiente para a produção da almôndega.\nDisponível em https://www.dailymail.co.uk/. Adaptado.\n\nA almôndega de mamute possui células",
+      subItens: []
+    },
+    options: [
+      "com mitocôndrias de elefante.",
+      "musculares recriadas de mamute.",
+      "que produzem gordura de mamute.",
+      "com mais genes de ovelha que de mamute.",
+      "de diferentes tecidos do elefante."
+    ],
+    correctAnswer: 3,
+    materia: ["Biologia"],
+    conteudo: ["Biotecnologia", "Engenharia Genética", "Genética Molecular"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 19,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Olestra é uma gordura artificial com sabor parecido ao do óleo vegetal. Essa substância não é metabolizada pelo organismo humano e, portanto, pode ser usada em dietas de emagrecimento. Seu uso, no entanto, é controverso. Por ser uma molécula semelhante à gordura, ela interage com vitaminas lipossolúveis, transportando-as para fora do organismo, o que pode levar à deficiência destas. Dentre as vitaminas apresentadas, assinale qual delas teria a sua absorção menos prejudicada com a ingestão exagerada de alimentos à base de olestra.\n\nImagens: Cinco estruturas químicas de vitaminas (A, B, C, D, E).\n(A) Estrutura do retinol (vitamina A).\n(B) Estrutura da riboflavina (vitamina B2).\n(C) Estrutura do tocoferol (vitamina E).\n(D) Estrutura do ácido ascórbico (vitamina C).\n(E) Estrutura da filoquinona (vitamina K).\n\nAssinale qual delas teria a sua absorção menos prejudicada com a ingestão exagerada de alimentos à base de olestra.",
+      subItens: []
+    },
+    options: [
+      "Estrutura do retinol (vitamina A).",
+      "Estrutura da riboflavina (vitamina B2).",
+      "Estrutura do tocoferol (vitamina E).",
+      "Estrutura do ácido ascórbico (vitamina C).",
+      "Estrutura da filoquinona (vitamina K)."
+    ],
+    correctAnswer: 1,
+    materia: ["Química", "Biologia"],
+    conteudo: ["Bioquímica", "Nutrição", "Estruturas Orgânicas"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 20,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "O gráfico a seguir ilustra o perfil de digestão de quatro substâncias no organismo humano, de acordo com a variação do pH.\n\nImagem: Gráfico de % de material não digerido vs pH. A linha I mostra digestão quase completa em pH muito baixo (1-2) e alto (9-10). A linha II mostra digestão em pH alto (8-9). A linha III mostra digestão em pH muito baixo (1-2). A linha IV mostra digestão em pH neutro (7-8).\n\nA análise dos dados permite concluir que a(s)",
+      subItens: []
+    },
+    options: [
+      "digestão da substância I é feita por amilases presentes no duodeno.",
+      "digestão da substância II é feita por lipases presentes da boca.",
+      "substância III é um amido digerido por amilases presentes boca.",
+      "substância IV é uma proteína digerida pela bile no estômago.",
+      "substâncias I, II e III são digeridas, respectivamente, na boca, no estômago e no duodeno."
+    ],
+    correctAnswer: 2,
+    materia: ["Biologia", "Química"],
+    conteudo: ["Sistema Digestório", "Enzimas", "pH"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 21,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Um estudante (FV), intrigado com a escala de pH entre 0 e 14, perguntou a um sistema de inteligência artificial (IA) sobre a possibilidade de existirem valores negativos de pH, conforme descrito na figura:\n\nImagem: Diálogo entre um estudante (FV) e uma IA. FV pergunta: \"Existe pH negativo?\". IA responde: \"Sim, é possível existir pH negativo em soluções altamente básicas, onde a concentração de íons hidrogênio é extremamente baixa e a concentração de íons hidroxila é muito alta. Nesses casos, o pH é calculado como logaritmo negativo da concentração de íons hidrogênio em relação ao ponto neutro de pH 7.\"\n\nA resposta fornecida pelo sistema de inteligência artificial está",
+      subItens: []
+    },
+    options: [
+      "errada, pois pH negativo refere-se à concentração de H+ maior que 1 mol/L, resultando em um valor de pH menor que zero.",
+      "correta, pois pH negativo refere-se à concentração de OH- maior que 1 mol/L, resultando em um valor de pH menor que zero.",
+      "correta, assim como é possível existir pH maior que 14 em soluções com concentração de H⁺ maior que 14 mol/L.",
+      "errada, pois a escala de pH é fixa entre 0 e 14, independentemente da concentração de H+.",
+      "correta, pois o pH tende a diminuir e tornar-se negativo em soluções com concentração de íons H+ extremamente baixa."
+    ],
+    correctAnswer: 0,
+    materia: ["Química"],
+    conteudo: ["Eletroquímica", "pH e pOH", "Concentração de Soluções"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 22,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"A Enciclopédia conseguiu destronar a antiga rainha das ciências e elevar a filosofia para o seu lugar. Longe de ser um compêndio neutro de informações, a obra modelava o conhecimento de tal maneira que o tirava do clero e o colocava nas mãos de intelectuais comprometidos com o Iluminismo. (...) Mas o combate mais importante ocorreu na década de 1750, quando os enciclopedistas reconheceram que conhecimento era poder e, mapeando o universo do saber, partiram para a conquista.\"\nDARNTON, Robert. O grande massacre de gatos. Rio de Janeiro: Graal, 1986. p.270. Adaptado.\n\nSegundo o excerto, a Enciclopédia preparada pelos pensadores Diderot e D'Alembert propunha um novo papel para os filósofos e uma reordenação do conhecimento científico. Tal proposta se caracterizou pela",
+      subItens: []
+    },
+    options: [
+      "conexão com um modelo de saber que justificava a hierarquia social do Antigo Regime.",
+      "revelação de que o conhecimento filosófico oferecia as bases políticas para o absolutismo.",
+      "valorização do mecenato como forma de proteção aos novos pensadores.",
+      "aclamação dos pensadores como defensores da neutralidade científica.",
+      "legitimação dos filósofos enquanto portadores de virtudes derivadas do culto do conhecimento empírico."
+    ],
+    correctAnswer: 4,
+    materia: ["História", "Filosofia"],
+    conteudo: ["Iluminismo", "Teoria do Conhecimento"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 23,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Quero dizer, numa palavra, que, levando em conta todas as coisas que nascem, devemos verificar se em cada caso é bem assim que nasce cada um dos seres, isto é, se os contrários não nascem senão dos seus próprios contrários, em toda parte onde existe tal relação: entre o belo, por exemplo, e o feio, que é, penso, o seu contrário; entre o justo e o injusto; e assim milhares de outros casos. (...)\nExemplo: quando uma coisa se torna maior, não é necessário que ela anteriormente tenha sido menor, para em seguida se tornar maior?\"\nPlatão, Fédon, p.79.\n\nNo trecho transcrito do texto Fédon, Platão propõe uma compreensão filosófica própria sobre a relação existente entre os opostos. Com base nela, dentre as inferências possíveis, aquela que descreve a articulação principal entre dois termos que se opõem é:",
+      subItens: []
+    },
+    options: [
+      "Entre os opostos, é possível inferir uma relação principal de complementariedade.",
+      "Entre os opostos, é possível inferir uma relação principal de alternância.",
+      "Entre os opostos, é possível inferir uma relação principal de exclusão.",
+      "Entre os opostos, é possível inferir uma relação principal de anulação.",
+      "Entre os opostos, é possível inferir uma relação principal de geração."
+    ],
+    correctAnswer: 4,
+    materia: ["Filosofia"],
+    conteudo: ["Platão", "Metafísica"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 24,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Os experimentos de difração e interferência da luz realizados no período de 1800 a 1803, em analogia com os processos de interferência das ondas acústicas, corroboraram a natureza ondulatória da luz. Por outro lado, Einstein introduziu, em 1905, o conceito de fóton, em que cada componente monocromática de frequência ƒ da radiação seria equivalente a um sistema de partículas idênticas sem massa, cada qual com energia hf, sendo h≈6,626×10-34 J.s a constante de Planck. A hipótese da existência de fótons só teve ampla aceitação após os experimentos de Compton, em 1922, sobre o espalhamento da radiação eletromagnética na faixa dos raios X por alvos de elementos leves, como o grafite.\"\nAdaptado de F. Caruso e V. Oguri, Sobre a necessidade do conceito de fóton, RBEF 43, e20210011 (2021).\n\nDe acordo com o texto e seus conhecimentos, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "A radiação eletromagnética apresenta somente comportamento ondulatório.",
+      "Os experimentos de Compton mostraram que feixes de raios X exibem comportamento corpuscular.",
+      "A energia de um fóton independe de seu comprimento de onda.",
+      "A hipótese da natureza corpuscular da radiação está em desacordo com os resultados experimentais.",
+      "Einstein demonstrou que os experimentos de difração e interferência da luz deveriam estar incorretos."
+    ],
+    correctAnswer: 1,
+    materia: ["Física"],
+    conteudo: ["Física Moderna", "Dualidade Onda-Partícula"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 25,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Quando uma solução de NaCl é colocada em contato com uma chama, observa-se uma luz amarela (figura I). Quando esse mesmo experimento é realizado na presença de uma lâmpada de Na, a chama aparenta estar preta (figura II).\n\nImagem I: Chama amarela na presença de solução de NaCl.\nImagem II: Chama amarela na presença de solução de NaCl, irradiada com lâmpada de Na, aparenta preta.\n\nConsiderando que um material emite e absorve radiação em um mesmo comprimento de onda, assinale a afirmação correta sobre o experimento.",
+      subItens: []
+    },
+    options: [
+      "Na figura (I), a chama é amarela devido à absorção de luz pelos átomos de Na; enquanto, em (II), a chama está preta porque o Na deixa de absorver quando a chama é irradiada pela lâmpada de sódio.",
+      "Na figura (I), a chama é amarela porque esta é a cor de qualquer chama; enquanto, em (II), a chama está preta porque o Na absorve a energia da chama.",
+      "Na figura (I), a chama é amarela porque esta é a cor de qualquer chama; enquanto, em (II), a chama está preta devido à combustão incompleta.",
+      "Na figura (I), a chama é amarela devido à emissão de luz pelos átomos de Na; enquanto, em (II), a chama está preta devido à combustão incompleta.",
+      "Na figura (I), a chama é amarela devido à emissão de luz pelos átomos de Na; enquanto, em (II), a chama está preta porque os átomos de Na da chama absorvem a luz proveniente da lâmpada de Na."
+    ],
+    correctAnswer: 4,
+    materia: ["Física", "Química"],
+    conteudo: ["Óptica", "Espectroscopia de Emissão e Absorção"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 26,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Nas embalagens de lâmpadas de LED atuais, está indicada uma \"temperatura de cor\" (expressa na escala Kelvin), que corresponde à tonalidade da luz emitida pela lâmpada. A \"temperatura de cor” não indica a temperatura de operação da lâmpada, servindo apenas como uma referência da cor predominante da radiação eletromagnética termicamente emitida por um corpo a essa dada temperatura.\nA densidade p(λ) de energia eletromagnética irradiada é função do comprimento de onda λ da luz emitida. As curvas presentes nos gráficos das alternativas mostram p(λ) dividida pelo seu valor máximo p(λ_máx). O máximo de cada curva corresponde ao comprimento de onda λ_máx predominante da luz irradiada.\nCom base nessas informações, assinale a alternativa que apresenta o gráfico que melhor corresponde à situação em que a cor predominante da luz irradiada seja amarela.\n\nNote e adote:\nVelocidade da luz no vácuo: 3 x 10^8 m/s.\nCores associadas a frequências de luz visível:\nTabela:\nCor | Frequência aproximada (Hz)\nVermelha | 4,4 x 10^14\nAmarela | 5,0 x 10^14\nVerde | 6,0 x 10^14\nAzul | 6,3 x 10^14\nVioleta | 7,5 x 10^14\n\nGráficos de p(λ)/p(λ_max) versus λ(nm) para diferentes temperaturas (T).",
+      subItens: []
+    },
+    options: [
+      "Gráfico com pico por volta de 200 nm, T = 14485 K.",
+      "Gráfico com pico por volta de 400 nm, T = 7243 K.",
+      "Gráfico com pico por volta de 600 nm, T = 4829 K.",
+      "Gráfico com pico por volta de 800 nm, T = 2897 K.",
+      "Gráfico com pico por volta de 1000 nm, T = 2414 K."
+    ],
+    correctAnswer: 2,
+    materia: ["Física"],
+    conteudo: ["Ondas", "Luz e Espectro Eletromagnético", "Temperatura de Cor"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 27,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Uma empresa júnior de alunos de engenharia projetou um termômetro mecânico para medir a temperatura do óleo utilizado em máquinas e equipamentos, com base na variação da densidade do óleo com a temperatura. Com essa finalidade, emprega-se um objeto de massa M igual a 18 g e volume de 20 cm³, que permanece imerso em um óleo e está preso, por um fio, ao fundo da superfície, conforme mostra a figura.\n\nImagem: Um objeto de massa M e volume V está submerso em um líquido, preso ao fundo por um fio.\n\nA temperatura é medida por meio da variação na tensão do fio, que muda devido à variação da densidade do óleo com a temperatura. O gráfico a seguir mostra a dependência da densidade do óleo com a temperatura.\n\nGráfico: Densidade (g/cm³) versus temperatura (°C). A densidade diminui linearmente de 1,00 g/cm³ (a 0°C) para 0,80 g/cm³ (a 300°C).\n\nNessa configuração, a temperatura na qual a tensão na corda se anula é igual a\n\nNote e adote:\nDespreze a massa do fio.",
+      subItens: []
+    },
+    options: [
+      "0°C",
+      "75°C",
+      "100°C",
+      "150°C",
+      "275°C"
+    ],
+    correctAnswer: 3,
+    materia: ["Física"],
+    conteudo: ["Hidrostática", "Empuxo", "Termometria"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 28,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "A temperatura ideal para uso de um forno a lenha para preparo de pizzas pode ser inferida pela observação da coloração das paredes internas do forno. Abaixo da temperatura ideal, um material particulado preto proveniente da queima da lenha pode ser visto recobrindo as paredes internas. Quando a temperatura ideal é atingida, esse material particulado não é mais observado e a superfície mais clara do interior do forno pode ser vista, como apresentado nas fotos.\n\nImagem 1: Forno abaixo da temperatura ideal. Interior escuro com material preto.\nImagem 2: Forno na temperatura ideal. Interior claro.\n\nA coloração da superfície interior do forno permite inferir a temperatura ideal, pois",
+      subItens: []
+    },
+    options: [
+      "a fuligem advinda do processo de combustão incompleta da lenha deposita-se nas paredes e, com o aumento da temperatura, reage com o oxigênio do ar e produz gás carbônico, permitindo ver a cor mais clara da parede interna do forno.",
+      "a coloração preta é originada pela fuligem da combustão completa da lenha, o que causa o aumento da temperatura até que a parede do forno se torne incandescente, revelando sua cor mais clara.",
+      "a coloração preta é observada por conta da baixa quantidade de luz gerada pelas chamas da lenha em combustão a baixas temperaturas e essa quantidade de luz aumenta à medida que a temperatura se torna elevada.",
+      "o material particulado se funde, escorrendo pelas paredes do forno quando a temperatura ideal é atingida, revelando a coloração mais clara do interior do forno.",
+      "a alta quantidade de gás carbônico produzida em baixas temperaturas forma uma névoa que não permite a passagem de luz, o que torna o interior escuro."
+    ],
+    correctAnswer: 0,
+    materia: ["Química", "Física"],
+    conteudo: ["Combustão", "Termoquímica", "Termodinâmica"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 29,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Fogareiros abastecidos com pequenos botijões de gás são equipamentos corriqueiros em trilhas e escaladas de duração prolongada para possibilitar o cozimento de alimentos. Em geral, esses botijões são abastecidos com propano, isobutano ou n-butano. A tabela mostra a temperatura de ebulição e o calor liberado na combustão desses três gases, à pressão atmosférica.\n\nTabela: Temperatura de ebulição (°C) e Calor liberado na combustão (kcal/m³ de substância na fase gasosa) para Propano, Isobutano e n-Butano.\nPropano: -42 °C, 5065 kcal/m³\nIsobutano: -12 °C, 8211 kcal/m³\nn-Butano: -1 °C, 8411 kcal/m³\n\nCom base nessas informações, qual seria o gás mais indicado para a utilização em um ambiente com temperatura típica de -6 °C, considerando a viabilidade e o consumo de gás necessário para o preparo de alimentos?",
+      subItens: []
+    },
+    options: [
+      "Propano, por estar líquido em -6 °C e, dentre as substâncias líquidas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+      "Isobutano, por estar gasoso em -6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+      "n-Butano, por estar gasoso em -6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer mais calor por volume de gás.",
+      "n-Butano, por estar líquido em -6°C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer menos calor por volume de gás.",
+      "Isobutano, por estar gasoso em -6 °C e, dentre as substâncias gasosas nessa temperatura, sua combustão fornecer menos calor por volume de gás."
+    ],
+    correctAnswer: 1,
+    materia: ["Química"],
+    conteudo: ["Termoquímica", "Estados Físicos da Matéria", "Hidrocarbonetos"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 30,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Para gerar hidrogênio, foi utilizado o aparato ilustrado na figura.\n\nImagem 1: Aparato de geração de H2 durante o processo. Frasco com reagentes, tubulação submersa em uma proveta com água, coletando gás.\nImagem 2: Aparato após o processo de geração de H2. A proveta está cheia de gás, com o nível da água abaixo do inicial.\n\nAo frasco à esquerda adicionou-se uma quantidade pré-determinada de raspas de zinco metálico e ácido clorídrico. Em seguida, o frasco foi fechado com uma rolha conectada a uma tubulação. À medida que o hidrogênio é produzido pela reação Zn(s) + 2H+(aq) → Zn2+(aq) + H2(g), o gás se acumula em uma proveta previamente cheia de água. Dado que a solubilidade do hidrogênio na água é desprezível, o volume ocupado pelo gás na proveta corresponde ao volume de hidrogênio produzido durante a reação.\nConsiderando que, nas condições do experimento, foram gerados 49,8 mL de hidrogênio, qual a quantidade de Zn metálico, em gramas, que de fato reagiu?\n\nNote e adote:\nVolume molar do gás ideal nas condições do experimento = 24,9 L.\nMassa molar do Zn = 65,4 g/mol.",
+      subItens: []
+    },
+    options: [
+      "0,07",
+      "0,13",
+      "0,26",
+      "0,29",
+      "0,48"
+    ],
+    correctAnswer: 1,
+    materia: ["Química"],
+    conteudo: ["Estequiometria", "Gases", "Reações Químicas"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 31,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "O reservatório de um caminhão-pipa tem a forma de um cilindro circular reto com eixo horizontal e dimensões internas de 6 metros de comprimento e 2 metros de diâmetro. Uma escola contratou o serviço do caminhão-pipa para abastecer sua caixa d'água. Após o abastecimento, o motorista percebeu que o reservatório do caminhão estava cheio até 3/4 de sua altura, conforme ilustrado na figura.\n\nImagem: Vista transversal de um cilindro horizontal, parcialmente cheio. A altura total do cilindro é 2m (diâmetro), e o nível da água está a 3/4 da altura (1,5m).\n\nQual foi o volume, em metros cúbicos, de água utilizada para abastecer a caixa d'água da escola, sabendo que o reservatório do caminhão estava cheio antes do abastecimento?",
+      subItens: []
+    },
+    options: [
+      "(2π - √3/4)",
+      "(2π - √3/2)",
+      "(2π + √3/2)",
+      "(4π + √3/4)",
+      "(4π + √3/2)"
+    ],
+    correctAnswer: 1,
+    materia: ["Matemática"],
+    conteudo: ["Geometria Espacial", "Cálculo de Áreas e Volumes"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 32,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "A tabela a seguir mostra a condição de duas variáveis sociais em quatro cidades urbanas genéricas.\n\nTabela:\nCidade | % de domicílios com coleta de esgoto e tratamento de água | % da população imunizada com cobertura vacinal completa\nCidade I | 89% | 19%\nCidade II | 12% | 13%\nCidade III | 98% | 15%\nCidade IV | 10% | 90%\n\nCom base nesses dados, é correto afirmar que a população humana dessas cidades tem risco aumentado de ter as respectivas doenças:",
+      subItens: []
+    },
+    options: [
+      "leptospirose, influenza, amebíase, cólera.",
+      "COVID, teníase, tétano, tuberculose.",
+      "hepatite B, amebíase, cólera, leptospirose.",
+      "influenza, teníase, pneumonia, COVID.",
+      "tuberculose, poliomielite, hepatite B, amebíase."
+    ],
+    correctAnswer: 4,
+    materia: ["Biologia", "Geografia Humana"],
+    conteudo: ["Saúde Pública", "Epidemiologia", "Saneamento Básico"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 33,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Uma empresa farmacêutica produz certo medicamento, o qual é formado por quatro componentes, conforme indicado na tabela I. O custo do grama de cada um dos componentes desse medicamento também é apresentado nessa tabela.\n\nTabela I:\nComposição do medicamento | Quantidade (em mg) | Custo (em R$/g)\nComponente A | 200 | 700\nComponente B | 70 | 500\nComponente C | 130 | 300\nComponente D | 100 | 120\n\nPara a produção do próximo lote do medicamento, a empresa terá um gasto diferente para fabricá-lo, pois os custos de alguns componentes sofreram alterações, conforme mostra a tabela II.\n\nTabela II:\nComposição do medicamento | Variação no custo (em %)\nComponente A | +7\nComponente B | -5\nComponente C | 0\nComponente D | +10\n\nQual é o aumento, em reais, no custo do medicamento?\n\nNote e adote:\nConsidere que os outros custos de produção permaneceram inalterados.",
+      subItens: []
+    },
+    options: [
+      "9,25",
+      "12,00",
+      "12,75",
+      "36,00",
+      "86,00"
+    ],
+    correctAnswer: 0,
+    materia: ["Matemática"],
+    conteudo: ["Porcentagem", "Aritmética", "Resolução de Problemas"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 34,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Os conceitos de moda, mediana, média e amplitude definem medidas utilizadas para estudar um conjunto de informações numéricas. Por exemplo, na lista de 5 números (2, 2, 4, 8, 14), temos que a moda é igual a 2, a mediana é igual a 4, a média é igual 6 e a amplitude é igual a 12.\nAssinale a alternativa que representa a quantidade de listas de 5 números inteiros positivos que cumprem a condição: moda = mediana = média = amplitude = 23.",
+      subItens: []
+    },
+    options: [
+      "8",
+      "9",
+      "11",
+      "22",
+      "44"
+    ],
+    correctAnswer: 0,
+    materia: ["Matemática"],
+    conteudo: ["Estatística", "Análise Combinatória"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 35,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Um relógio digital utiliza os seguintes numerais para representar um determinado horário:\n\nImagem: Numerais digitais de 0 a 9.\n\nEsse relógio está colocado sobre uma mesa de vidro, de forma que o vidro reflete o horário em sua superfície. A figura mostra um exemplo dessa situação:\n\nImagem: Relógio digital mostrando 18:02, e abaixo, sua reflexão mostrando 18:05.\n\nDe 00:00 até as 23:59, quantas vezes o vidro refletirá um horário válido?",
+      subItens: []
+    },
+    options: [
+      "96",
+      "360",
+      "540",
+      "640",
+      "960"
+    ],
+    correctAnswer: 1,
+    materia: ["Matemática"],
+    conteudo: ["Raciocínio Lógico", "Análise Combinatória"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 36,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Todos os dias que depois vieram, eram tempo de doer. Miguilim tinha sido arrancado de uma porção de coisas, e estava no mesmo lugar. Quando chegava o poder de chorar, era até bom – enquanto estava chorando, parecia que a alma toda se sacudia, misturando ao vivo todas as lembranças, as mais novas e as muito antigas. Mas, no mais das horas, ele estava cansado. Cansado e como que assustado. Sufocado. Ele não era ele mesmo. Diante dele, as pessoas, as coisas, perdiam o peso de ser. Os lugares, o Mutum – se esvaziavam, numa ligeireza, vagarosos. E Miguilim mesmo se achava diferente de todos. Ao vago, dava a mesma ideia de uma vez, em que, muito pequeno, tinha dormido de dia, fora de seu costume – quando acordou, sentiu o existir do mundo em hora estranha, e perguntou assustado: – 'Uai, Mãe, hoje já é amanhã?!'\"\nJoão Guimarães Rosa. Campo Geral.\n\nConforme sugere o trecho, o sofrimento perturba a noção que Miguilim tinha do tempo, porque",
+      subItens: []
+    },
+    options: [
+      "a falta de acuidade visual não lhe permite distinguir as épocas.",
+      "o desamor ao pai o faz romper com a infância cedo demais.",
+      "o aprendizado da morte embaralha os planos da memória.",
+      "a sensação de vazio o leva a se sentir seguro no presente.",
+      "os dias vividos no Mutum mostram-se cada vez mais curtos."
+    ],
+    correctAnswer: 2,
+    materia: ["Literatura Brasileira", "Linguagens"],
+    conteudo: ["Modernismo", "João Guimarães Rosa", "Análise de Texto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 37,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "A respeito dos contos \"Nós matamos o Cão Tinhoso!\", \"Dina\", \"Papá, cobra e eu\" e \"Nhinguitimo\", de Nós matamos o Cão Tinhoso!, é possível afirmar:",
+      subItens: []
+    },
+    options: [
+      "Os narradores e os protagonistas são crianças.",
+      "São narrados em primeira pessoa, por narradores-protagonistas.",
+      "Os protagonistas são oprimidos socialmente, e a reação deles não é endereçada aos opressores.",
+      "São fábulas, e os protagonistas são animais.",
+      "O espaço representado é o das grandes cidades moçambicanas."
+    ],
+    correctAnswer: 2,
+    materia: ["Literatura Lusófona", "Literatura"],
+    conteudo: ["Literatura Moçambicana", "Análise de Conto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 38,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Leia o texto a seguir:\n\nUma vida inteira pela frente.\nO tiro veio por trás.\nCíntia Moscovich, Os cem menores contos brasileiros do século (organização: Marcelino Freire).\n\nEmbora seja um texto composto por apenas duas linhas, é possível caracterizá-lo como uma narrativa. Nesse texto, essa caracterização deve-se ao fato de que ele apresenta",
+      subItens: []
+    },
+    options: [
+      "adjetivação de tempos.",
+      "diálogo entre narradores.",
+      "referenciação de espaços.",
+      "descrição de personagens.",
+      "sequência de ações."
+    ],
+    correctAnswer: 4,
+    materia: ["Linguagens"],
+    conteudo: ["Gêneros Textuais", "Narrativa"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 39,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Mas quantas vezes a insônia é um dom. De repente acordar no meio da noite e ter essa coisa rara: solidão. Quase nenhum ruído. Só o das ondas do mar batendo na praia. E tomo café com gosto, toda sozinha no mundo. Ninguém me interrompe o nada. É um nada a um tempo vazio e rico. E o telefone mudo, sem aquele toque súbito que sobressalta. Depois vai amanhecendo. As nuvens se clareando sob um sol às vezes pálido como uma lua, às vezes de fogo puro. Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar. O mar é meu, o sol é meu, a terra é minha. E sinto-me feliz por nada, por tudo. Até que, como o sol subindo, a casa vai acordando e há o reencontro com meus filhos sonolentos.\"\nClarice Lispector. \"Insônia infeliz e feliz\". In: A descoberta do mundo. Rio de Janeiro: Rocco, 1999.\n\nConsiderando as características do trecho apresentado, pode-se afirmar que ele pertence a uma crônica, pois",
+      subItens: []
+    },
+    options: [
+      "representa uma história paralela ligada a uma história principal.",
+      "há apenas um conflito que se resolve em pouco tempo.",
+      "possui estrutura simples e apresenta um cunho pedagógico.",
+      "é uma narrativa breve que comenta um evento do cotidiano.",
+      "compõe uma crítica indireta a alguém ou a algum fato."
+    ],
+    correctAnswer: 3,
+    materia: ["Linguagens", "Literatura Brasileira"],
+    conteudo: ["Gêneros Textuais", "Clarice Lispector"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 40,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Os jardins de chuva, como o esquematizado na figura, vêm sendo implantados em áreas urbanas como uma alternativa de baixo custo para minimizar alagamentos. São canteiros de plantas que ocupam partes rebaixadas do terreno, com a função de reter parte das águas pluviais e diminuir sua velocidade de escoamento. Para isso, o solo do jardim deve ser preparado a fim de absorver a água e facilitar sua infiltração, direcionando-a ao lençol freático. Outra vantagem desses jardins é a retenção e decomposição de poluentes carreados pelas águas pluviais. Ainda, ao mesclar diversos tipos de plantas, os jardins de chuva atraem animais e aumentam a biodiversidade local.\n\nImagem: Diagrama esquemático de um jardim de chuva mostrando plantas nativas perenes na superfície e um substrato poroso abaixo, com o fluxo de água das chuvas sendo infiltrado no solo.\n\nCom base na descrição e no esquema do jardim de chuva apresentados, é correto afirmar que",
+      subItens: []
+    },
+    options: [
+      "esse jardim de chuva pode ser considerado um ecossistema, no qual componentes bióticos e abióticos interagem numa dinâmica de autorregulação e autossustentação.",
+      "nesse jardim de chuva é possível identificar uma teia alimentar com dois níveis tróficos, no qual todos os animais ocupam o nível dos consumidores secundários.",
+      "esse jardim contém plantas dicotiledôneas e monocotiledôneas, caracterizadas por possuírem raízes pivotantes, que aumentam a eficiência na absorção de água.",
+      "o uso de plantas com grande superfície foliar pode prejudicar a eficiência de um jardim de chuva, diminuindo a evapotranspiração da água.",
+      "a decomposição que ocorre no jardim de chuva é feita por organismos parasitas, que transformam os detritos em nutrientes, resultando, na etapa final, em moléculas orgânicas complexas."
+    ],
+    correctAnswer: 0,
+    materia: ["Biologia", "Geografia"],
+    conteudo: ["Ecologia", "Meio Ambiente", "Urbanização"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 41,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "As moléculas de água podem conter o isótopo estável mais abundante de oxigênio, 16O, ou o isótopo estável menos abundante, 18O.\nEssa pequena diferença de massa entre as moléculas de água é suficiente para alterar a sua pressão de vapor. Por esse motivo, a análise de isótopos de oxigênio na água da chuva possibilita a identificação de períodos secos e de períodos chuvosos.\nA figura ilustra a mudança na constituição isotópica da água da chuva ao longo do tempo como resultado da diferença na pressão de vapor.\n\nImagem: Diagrama mostrando o ciclo da água (evaporação, precipitação) e a distribuição dos isótopos de oxigênio (16O e 18O) na água e no vapor, e como isso afeta a composição isotópica da chuva em continentes e oceanos. Indica que água com 16O tem maior pressão de vapor e água com 18O tem menor pressão de vapor.\n\nCom base nessas informações, assinale a alternativa correta.",
+      subItens: []
+    },
+    options: [
+      "Em períodos de alta pluviosidade, as primeiras precipitações da nuvem são isotopicamente mais leves e a nuvem de chuva se enriquece, relativamente, em 18O.",
+      "Em períodos de baixa pluviosidade, a constituição isotópica das nuvens pouco se altera ao longo do tempo, e a pouca chuva dessas nuvens é relativamente enriquecida em 18O.",
+      "No período atual, em função do aquecimento global, as temperaturas elevadas fazem com que o fracionamento isotópico de 16O e 18O resultante da evaporação e da precipitação da água não ocorra.",
+      "Em períodos glaciais, em função da maior temperatura do planeta, as chuvas são enriquecidas em 18O, enquanto, nos oceanos, a água é enriquecida em 16O.",
+      "Em períodos interglaciais, em função da menor temperatura do planeta, as chuvas são enriquecidas em 16O, enquanto, nos oceanos, a água é enriquecida em 18O."
+    ],
+    correctAnswer: 1,
+    materia: ["Geografia", "Química"],
+    conteudo: ["Climatologia", "Isótopos", "Propriedades da Água"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 42,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Considere os textos a seguir sobre o campo magnético terrestre, essencial para a manutenção da vida no planeta:\n\"O campo magnético é o resultado do movimento do ferro líquido que envolve o núcleo interno do planeta, formado de ferro sólido. Ao girar a uma velocidade maior que aquela da superfície, o ferro líquido produz um campo magnético com dois polos magnéticos opostos, próximos aos polos Norte e Sul geográficos.” (1)\n\"O campo magnético do planeta, porém, não é estável e vem enfraquecendo continuamente desde pelo menos 1832, quando o físico e matemático alemão Carl Friedrich Gauss aferiu pela primeira vez sua intensidade. De lá para cá, medições mais frequentes e precisas confirmam que a intensidade diminui à taxa de 17 nanoteslas (nT) por ano – o campo tem 66 mil nT nos polos e 22 mil nT sobre uma faixa do hemisfério Sul que vai da África à América do Sul.\" (2)\n\nImagem: Mapa-múndi colorido mostrando a intensidade do campo magnético da Terra em Nanoteslas, com uma escala de cores variando de 20.000 (azul escuro) a 60.000 (vermelho escuro). A região da anomalia magnética do Atlântico Sul (sobre o Brasil e adjacências) aparece em tons de azul, indicando baixa intensidade.\n\nFontes:\n(1) O norte da questão, Revista Pesquisa FAPESP, junho de 2018. Adaptado.\n(2) Uma falha no campo magnético da Terra passeia sobre o Brasil, Revista Pesquisa FAPESP, maio de 2021.\n\nCom base nos textos e na figura apresentados e nos seus conhecimentos, é correto afirmar que:",
+      subItens: []
+    },
+    options: [
+      "A variação da intensidade do campo magnético terrestre ao longo da linha do Equador é menor do que 10^-6 T.",
+      "O campo magnético terrestre é constante em módulo ao longo do meridiano de Greenwich.",
+      "O campo magnético terrestre é uniforme e esférico, tal como o campo gerado por um dipolo magnético.",
+      "Embora atualmente o campo magnético terrestre tenha intensidade maior nas regiões dos polos, esta é consideravelmente menor na região do Brasil e adjacências.",
+      "A geração do campo magnético é naturalmente explicada por uma distribuição estática de cargas no núcleo interno do planeta."
+    ],
+    correctAnswer: 3,
+    materia: ["Física", "Geografia Física"],
+    conteudo: ["Eletromagnetismo", "Estrutura da Terra", "Campo Magnético Terrestre"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 43,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "O gráfico apresentado mostra as concentrações atmosféricas dos principais gases de efeito estufa até o ano 2000, sendo eles: CO2, quantificado em partes por milhão (ppm), N2O e CH4, ambos quantificados em partes por bilhão (ppb). Em junho de 2022, a Administração Nacional Oceânica e Atmosférica (NOAA) reportou que, naquela data, os níveis de CO2 na atmosfera encontravam-se em torno de 420 ppm. Esse valor é muito superior à concentração média de aproximadamente 280 ppm, existente antes da Revolução Industrial. Com base nessas informações e em seus conhecimentos, é correto afirmar:\n\nGráfico: Concentrações de CO2 (ppm), N2O (ppb) e CH4 (ppb) ao longo dos anos, de 0 a 2000. Mostra um aumento significativo de CO2, CH4 e N2O a partir da Revolução Industrial.\n\nIPCC 4th Report Main Findings. Disponível em: https://www.inforse.org/. Adaptado.",
+      subItens: []
+    },
+    options: [
+      "Apesar do grande aumento nas quantidades dos três principais gases de efeito estufa a partir da Revolução Industrial, seus níveis passaram a estabilizar por volta do ano 2000.",
+      "A mecanização resultante da Revolução Industrial, iniciada no século XVIII, causou grandes mudanças nos meios de produção, com a utilização de energias renováveis.",
+      "O plantio de árvores em grande escala acentua o aquecimento global, devido à liberação de gases do efeito estufa na atmosfera.",
+      "O aquecimento global é um fenômeno recente, já que a Terra teve um clima com temperaturas constantes durante sua existência.",
+      "O efeito estufa é um fenômeno intensificado a partir da Revolução Industrial, devido às atividades humanas emissoras de CO2, que contribuem para o aquecimento global."
+    ],
+    correctAnswer: 4,
+    materia: ["Química", "Geografia", "História"],
+    conteudo: ["Química Ambiental", "Questões Ambientais", "Revolução Industrial"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 44,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Industrializar é uma condição de vida, é uma absoluta e imperiosa necessidade, é mesmo um dever de que já não está ao nosso alcance declinar. Nem que o quiséssemos, não poderíamos sobreviver conservando-nos nação pastoril e agrícola, no velho estilo, exportando café e umas poucas matérias-primas [...] Industrializar um país não é uma obra mágica que possa ser feita sem preparo, ao simples sopro de uma aspiração. É necessário que exista uma mentalidade industrial, um estado de espírito propício ao desenvolvimento, é necessário que existam gerações preparadas para a ação.\"\nOLIVEIRA, Juscelino Kubitschek de. Industrialização: batalha pela própria sobrevivência da nacionalidade. São Paulo: Serviço de Publicações da Federação e Centro das Indústrias do Estado de S. Paulo, 1957. p.9-10.\n\nA \"mentalidade industrial\", proposta pelo então presidente Juscelino Kubitschek, concretiza-se em seu governo (1956-1961) sob a forma",
+      subItens: []
+    },
+    options: [
+      "de grandes investimentos na educação básica e na fundação de centros de pesquisa.",
+      "de incentivos à diversificação e mecanização da produção agrícola.",
+      "da implantação de formas racionais de organização do trabalho.",
+      "da ação governamental embasada em concepção nacionalista e trabalhista.",
+      "de um projeto desenvolvimentista amparado por incentivos e captação de recursos estrangeiros."
+    ],
+    correctAnswer: 4,
+    materia: ["História", "Geografia Humana"],
+    conteudo: ["Brasil República", "Governo JK", "Industrialização Brasileira"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 45,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Em uma onda sem precedentes de medo, confusão e pânico, hoje quase 13 milhões de ações mudaram de mãos na Bolsa de Valores de Nova York. Corretores atordoados atravessaram um mar de papel segurando ordens de investidores assustados para 'vender a qualquer preço'.\"\n\"Wall Street cai\". The Guardian (Londres), 24/10/1929, p.1.\n\n\"O mercado esteve ontem numa situação de verdadeiro pânico. Em São Paulo pedem-se a moratória e a emissão de papel-moeda. O presidente da República receberá hoje uma comissão do comércio de Santos.\"\n\"A crise do café\". Correio da Manhã (Rio de Janeiro), 29/10/1929, p.1.\n\nOs excertos, extraídos de matérias jornalísticas publicadas à época, relatam reações ante a Crise de 1929. Essa crise",
+      subItens: []
+    },
+    options: [
+      "atingiu as atividades agrícolas, incentivou a mecanização do processo produtivo e a absorção dos trabalhadores pelo setor industrial.",
+      "afetou as bases do liberalismo econômico, obrigando a intervenção do Estado por meio de regulações e investimentos.",
+      "impulsionou a indústria do entretenimento, responsável por forjar comportamentos que se opunham ao pessimismo.",
+      "favoreceu a substituição do dólar pela libra esterlina enquanto moeda empregada no comércio internacional.",
+      "contribuiu para o desenvolvimento industrial com a substituição de importações e a ampliação do crédito para investimentos."
+    ],
+    correctAnswer: 1,
+    materia: ["História"],
+    conteudo: ["Crise de 1929", "Economia Mundial", "Impactos no Brasil"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 46,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Observe o mapa da expansão da cafeicultura nos estados de São Paulo e Rio de Janeiro nos séculos XIX e XX.\n\nMapa: O café no Rio de Janeiro e em São Paulo. O mapa mostra a expansão da cafeicultura por décadas (Início do século XIX, Década de 1830, Década de 1850, Década de 1880, Década de 1920, Década de 1930) e o avanço para outros estados, destacando regiões no Vale do Paraíba do Sul, oeste paulista, Minas Gerais e Espírito Santo. O avanço principal se deu para o interior e oeste de SP.\n\nAtlas Histórico Escolar. Rio de Janeiro, MEC, 1996.\n\nSobre o papel da cafeicultura na dinâmica territorial dessas áreas, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "Iniciada no Vale do Paraíba do Sul, entre São Paulo e Rio de Janeiro, na década de 1830, a cafeicultura teve pouco êxito nessa região pelas dificuldades de cultivo, em função do clima frio e da escassez de trabalho escravizado.",
+      "A expansão da produção cafeeira no estado de São Paulo se deu em direção à zona oriental do estado, na década de 1850, em decorrência da infraestrutura de transporte existente na região e da presença de trabalho assalariado.",
+      "O início da cafeicultura no estado de São Paulo se deu na região oeste, na década de 1930, em decorrência da expansão da produção no norte do Paraná, com expansão para o oeste paulista, aproveitando-se da qualidade do solo.",
+      "A produção cafeeira, nos séculos XIX e XX, concentrava-se nos estados de Minas Gerais e Espírito Santo, com a introdução de novas variedades altamente produtivas e resistentes ao clima frio dessas regiões.",
+      "Expandindo-se na direção oeste do território paulista, a produção cafeeira impulsionou, nos séculos XIX e XX, a estruturação econômica do estado de São Paulo, impactando o desenvolvimento da malha ferroviária e portuária."
+    ],
+    correctAnswer: 4,
+    materia: ["História", "Geografia"],
+    conteudo: ["Brasil Império", "Primeira República", "Economia Brasileira", "Expansão da Cafeicultura"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 47,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Modais de transporte, em porcentagem do total, em diferentes países (2021)\n\nGráfico de barras empilhadas mostrando a porcentagem de cada modal de transporte (Ferroviário, Rodoviário, Aquaviário) para Rússia, Canadá, Austrália, EUA, China e Brasil.\nRússia: Ferroviário (81%), Rodoviário (8%), Aquaviário (11%)\nCanadá: Ferroviário (34%), Rodoviário (19%), Aquaviário (47%)\nAustrália: Ferroviário (55%), Rodoviário (27%), Aquaviário (18%)\nEUA: Ferroviário (27%), Rodoviário (43%), Aquaviário (30%)\nChina: Ferroviário (14%), Rodoviário (35%), Aquaviário (51%)\nBrasil: Ferroviário (21%), Rodoviário (68%), Aquaviário (11%)\n\nAssociação Nacional dos Transportadores Ferroviários, 2021.\n\nA partir dos dados e dos seus conhecimentos, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "O modal aquaviário, com menor custo e maior capacidade de carga, predomina em mais da metade dos países representados no gráfico.",
+      "Nos EUA, em decorrência da baixa necessidade de transporte de cargas, predomina o modal rodoviário, com menor custo no transporte de pessoas.",
+      "Predominante no país, o modal aquaviário no Canadá tem alto custo, em decorrência das condições climáticas que mantêm os cursos d'águas de todo o país congelados na maior parte do ano.",
+      "Apesar de possuir maior custo, a matriz brasileira, assentada no modal rodoviário, é mais eficiente considerando a capacidade de transporte em grandes quantidades e longos percursos.",
+      "A predominância do modal aquaviário na China faz parte da estratégia do país de aliar a diminuição dos custos de transporte à busca de modais menos poluentes."
+    ],
+    correctAnswer: 4,
+    materia: ["Geografia"],
+    conteudo: ["Transportes", "Economia Global", "Meio Ambiente"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 48,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Uma empresa de alimentos utiliza embalagens, no formato de paralelepípedo reto-retângulo, de dimensões 2 cm x 3 cm x 11 cm, para armazenar biscoitos. Para o transporte desse produto, são utilizadas caixas para acondicionar essas embalagens, também no formato de paralelepípedo reto-retângulo, de dimensões 12 cm x 13 cm x 26 cm. A imagem a seguir ilustra um paralelepípedo reto-retângulo.\n\nImagem: Desenho de um paralelepípedo reto-retângulo com dimensões L, C, H.\n\nDetermine o número máximo de embalagens que podem ser acondicionadas em cada caixa fechada para transporte, sem que o produto seja danificado.",
+      subItens: []
+    },
+    options: [
+      "48",
+      "52",
+      "56",
+      "60",
+      "61"
+    ],
+    correctAnswer: 3,
+    materia: ["Matemática"],
+    conteudo: ["Geometria Espacial", "Volume"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 49,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "No Código de Obras e Edificações da Prefeitura de São Paulo, encontra-se a regulamentação para vagas de estacionamento em um edifício para diferentes tipos de veículos. De acordo com o código, as dimensões de uma vaga de estacionamento são estabelecidas de acordo com o tipo de veículo, conforme a seguinte tabela:\n\nTabela: Dimensões das vagas de estacionamento em função do tipo de veículo (medidas em metros).\nTipos de veículos | Vagas para estacionamento | Largura | Comprimento\nAutomóvel | 2,20 | 4,50\nCarro para pessoa com deficiência | 3,70 | 5,00\nMoto | 1,00 | 2,00\nUtilitário | 2,50 | 5,50\nCaminhão leve | 3,10 | 8,00\n\nCódigo de Obras e Edificações da Prefeitura de São Paulo. Adaptado.\n\nNa figura a seguir, é apresentada parte de um projeto de garagem para um edifício. Foram projetadas vagas para automóveis e uma vaga para moto, no formato de paralelogramo, com ângulo α de medida 60°.\n\nImagem: Projeto de garagem com vagas em formato de paralelogramo. Mostra duas vagas de automóvel e uma vaga de moto. Um segmento tracejado é destacado como a medida a ser encontrada.\n\nObservação: A imagem não está em escala.\n\nApós a vaga da moto, restou um espaço na garagem. Os responsáveis pela obra estão avaliando a possibilidade de colocar algum objeto que possa ser utilizado pelos condôminos do edifício. Qual a medida do segmento destacado (tracejado) nesse espaço?\n\nNote e adote:\ncos (60°) = 0,5 ; sen (60°) = √3/2",
+      subItens: []
+    },
+    options: [
+      "0,75 m",
+      "1,15 m",
+      "1,25 m",
+      "2,20 m",
+      "2,25 m"
+    ],
+    correctAnswer: 2,
+    materia: ["Matemática"],
+    conteudo: ["Geometria Plana", "Trigonometria", "Resolução de Problemas"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 50,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Um carro movimentava-se por uma rua de mão única, com sentido da esquerda para a direita, e deixou no asfalto o padrão de pingos de óleo indicado na figura I.\n\nImagem I: Sequência de pingos de óleo no asfalto, espaçados, indicando a posição do carro. A seta indica o sentido para a direita.\n\nEntre as curvas no gráfico da figura II, indique aquela que melhor corresponde à dependência da posição do carro com o tempo, segundo esses pingos. Adote como positivo o sentido para a direita, conforme a indicação da seta em I.\n\nImagem II: Gráfico de posição versus tempo com cinco curvas (a, b, c, d, e).\n\nNote e adote:\nAssuma que o intervalo de tempo entre os pingos seja o mesmo.",
+      subItens: []
+    },
+    options: [
+      "Curva a.",
+      "Curva b.",
+      "Curva c.",
+      "Curva d.",
+      "Curva e."
+    ],
+    correctAnswer: 0,
+    materia: ["Física"],
+    conteudo: ["Cinemática", "Gráficos de Movimento"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 51,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Uma das modalidades de skate é o bowl, disputado em um espaço em formato aproximado de bacia. Supondo um bowl com profundidade de 2,45 m, qual a máxima velocidade que um skatista, partindo do repouso no ponto mais alto da bacia, poderia alcançar no ponto mais baixo?\n\nImagem: Desenho esquemático de um bowl com um skatista, indicando o ponto mais alto e o ponto mais baixo.\n\nNote e adote:\nAceleração da gravidade (g) = 10m/s²",
+      subItens: []
+    },
+    options: [
+      "3 m/s",
+      "5 m/s",
+      "7 m/s",
+      "9 m/s",
+      "11 m/s"
+    ],
+    correctAnswer: 2,
+    materia: ["Física"],
+    conteudo: ["Energia", "Conservação de Energia Mecânica"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 52,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"A história do skate no Brasil passou por fases diferentes e até mesmo antagônicas. Em 1988, por exemplo, na cidade de São Paulo, sob acusação de ser prática displicente, foi promulgada a Lei nº 25.871, pelo então prefeito Jânio Quadros, que proibia a prática da modalidade nas ruas da cidade. Essa proibição foi alterada no ano seguinte, quando a nova prefeita da cidade, Luiza Erundina, em um de seus primeiros atos, revogou essa mesma lei e liberou a prática do skate nas ruas da cidade.\nAnos depois, em 2015, o Brasil somava 8,4 milhões de praticantes de skate, segundo pesquisa Datafolha.\nJá em 2021, quando o skate estreou como modalidade olímpica nos Jogos de Tóquio, o Brasil se destacou como o segundo país com mais medalhas olímpicas na modalidade. No mesmo ano, a indústria nacional ligada ao esporte foi considerada a segunda maior do mundo, atrás apenas dos Estados Unidos, cujo mercado é estimado em US$ 4,5 bilhões ao ano.\"\nThais Carrança, BBC News Brasil em São Paulo, 26 julho 2021. Adaptado.\n\nA partir da leitura do texto, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "O skate adentrou o mundo esportivo, entre outros motivos, por pressão dos praticantes da modalidade. No entanto, práticas esportivas que surgem pautadas pelo lazer ou por atividades cotidianas não deveriam ser consideradas modalidades esportivas por não terem sido institucionalizadas desde sua origem.",
+      "Eventos esportivos de grande alcance, tal qual a Olimpíada, deveriam considerar as estruturas normativas que dão origem aos esportes para inseri-los nas competições. Apenas dessa forma, seria possível garantir a autenticidade das modalidades e justificar a inserção do skate como esporte olímpico.",
+      "Os esportes são uma forma de representação das práticas sociais. Sendo assim, as transformações sociais podem resultar em alterações de regras esportivas, na esportivização de práticas de lazer e até na extinção de modalidades esportivas.",
+      "Os esportes podem sofrer alterações normativas ao longo dos tempos. Com tal efeito, torna-se equivocado datar a criação de um esporte, pois ele já pode ter sofrido alterações que descaracterizaram sua origem.",
+      "O skate, bem como outras práticas esportivas, foi criado de modo discreto, por grupos pequenos, e ganhou força e ascensão a partir do aumento de incentivo financeiro para sua realização, o que é determinante para um esporte alcançar reconhecimento mundial."
+    ],
+    correctAnswer: 2,
+    materia: ["Sociologia", "História", "Geografia Humana"],
+    conteudo: ["Esporte e Sociedade", "Brasil Contemporâneo", "Globalização"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 53,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "TEXTO PARA AS QUESTÕES 53 E 54\nOver the last two decades, technology companies and policymakers warned of a \"digital divide\" in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply.\nBut with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level.\nA combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion-dollar enterprise offering new opportunities – at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching.\n\"What's happened as sports has become privatized is that it has become the haves and have-nots,\" said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. \"Particularly for low-income kids, if they don't have access to sports within the school setting, where are they going to get their physical activity?\" Mr. Solomon said. \"The answer is nowhere.\"\nThe New York Times. 24 March 2023. Adaptado.\n\nConforme o texto, um dos motivos para a disparidade relativa à prática de atividades físicas por alunos, segundo o nível de renda, reside",
+      subItens: []
+    },
+    options: [
+      "no abismo persistente entre as notas de estudantes ricos e pobres.",
+      "no corte de gastos e mudanças de prioridades em algumas escolas públicas.",
+      "na preferência por jogadores com potencial superior para competição.",
+      "na redução de bolsas de estudos para adolescentes de famílias abaixo da linha de pobreza.",
+      "na realização de campeonatos contemplados com doações de ONGs."
+    ],
+    correctAnswer: 1,
+    materia: ["Língua Inglesa", "Sociologia", "Geografia Humana"],
+    conteudo: ["Compreensão de Texto", "Desigualdade Social", "Educação e Esporte"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 54,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "TEXTO PARA AS QUESTÕES 53 E 54\nOver the last two decades, technology companies and policymakers warned of a \"digital divide\" in which poor children could fall behind their more affluent peers without equal access to technology. Today, with widespread internet access and smartphone ownership, the gap has narrowed sharply.\nBut with less fanfare a different division has appeared: Across the country, poor children and adolescents are participating far less in sports and fitness activities than more affluent youngsters are. Call it the physical divide. Data from multiple sources reveal a significant gap in sports participation by income level.\nA combination of factors is responsible. Spending cuts and changing priorities at some public schools have curtailed physical education classes and organized sports. At the same time, privatized youth sports have become a multibillion-dollar enterprise offering new opportunities – at least for families that can afford hundreds to thousands of dollars each season for club-team fees, uniforms, equipment, travel to tournaments and private coaching.\n\"What's happened as sports has become privatized is that it has become the haves and have-nots,\" said Jon Solomon, editorial director for the Aspen Institute Sports and Society Program. \"Particularly for low-income kids, if they don't have access to sports within the school setting, where are they going to get their physical activity?\" Mr. Solomon said. \"The answer is nowhere.\"\nThe New York Times. 24 March 2023. Adaptado.\n\nConsiderado o contexto, o termo \"far\", na expressão \"far less\" (2º parágrafo), expressa",
+      subItens: []
+    },
+    options: [
+      "temporalidade.",
+      "distância.",
+      "antecipação.",
+      "intensidade.",
+      "progresso."
+    ],
+    correctAnswer: 3,
+    materia: ["Língua Inglesa"],
+    conteudo: ["Vocabulário", "Interpretação de Texto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 55,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Como ilustrado pela foto, o gerador de Van de Graaf, equipamento popular em parques de ciência, permite o acúmulo de cargas elétricas em uma cúpula metálica. A distribuição de cargas na cúpula de um desses geradores, quando ninguém a toca, pode ser considerada esférica. Dois desses geradores, A e B, estão separados por uma certa distância. O gerador A contém uma carga +Q, e o gerador B, uma carga +2Q, com Q > 0.\n\nImagem: Dois geradores de Van de Graaf, A e B, com cargas positivas (+Q e +2Q respectivamente), e um ponto P entre eles. A seta acima do gerador A indica a direção do campo elétrico resultante no ponto P.\n\nEntre as alternativas, assinale aquela que melhor corresponde ao vetor campo elétrico resultante produzido pelos geradores no ponto médio P entre eles.\n\nNote e adote:\nNúmero atômico (Z) dos elementos: H = 1, C = 6, N = 7, O = 8, F = 9, P = 15, S = 16, Cl = 17. (Nota: Essa parte do enunciado é para a questão 56, não para a 55. A questão 55 não tem essa nota.)",
+      subItens: []
+    },
+    options: [
+      "Vetor para a direita (→).",
+      "Vetor para cima (↑).",
+      "Vetor para a esquerda (←).",
+      "Vetor para baixo (↓).",
+      "nulo."
+    ],
+    correctAnswer: 2,
+    materia: ["Física"],
+    conteudo: ["Eletrostática", "Campo Elétrico"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 56,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Um tema de grande interesse na química é a ativação seletiva de ligações C-H. Essa ativação permite a substituição de H nessas ligações por outros átomos, como O ou N. A relevância desse tema pode ser verificada em um estudo recentemente publicado no prestigioso periódico Science, que conta com uma egressa da USP dentre seus autores.\nA baixa diferença de eletronegatividade entre C e H é um dos motivos que dificulta a ativação da ligação C-H, pois torna a ligação pouco polar e diminui sua reatividade.\n\nGráfico: Eletronegatividade versus N° Atômico (Z) para diversos elementos (Li, H, C, N, O, F, Cl, K).\n\nConsiderando apenas a eletronegatividade, representada no gráfico, qual das alternativas apresenta uma ligação ainda menos reativa do que a ligação C-H?\n\nNote e adote:\nNúmero atômico (Z) dos elementos: H = 1, C = 6, N = 7, O = 8, F = 9, P = 15, S = 16, Cl = 17.",
+      subItens: []
+    },
+    options: [
+      "C-N",
+      "C-F",
+      "S-O",
+      "P-H",
+      "P-Cl"
+    ],
+    correctAnswer: 3,
+    materia: ["Química"],
+    conteudo: ["Ligações Químicas", "Eletronegatividade", "Reatividade Química"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 57,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "A foto a seguir mostra um circuito com três resistores (R1, R2 e R3) conectados em uma protoboard (base de contatos). Nesse tipo de placa, os cinco furos de uma mesma linha (indicados pelos retângulos amarelos) estão em curto, formando os nós do circuito. Os cabos vermelho e preto, por sua vez, estão conectados aos terminais de uma fonte contínua de 5V.\n\nImagem: Foto de um circuito em protoboard com três resistores (R1, R2, R3) e uma fonte de 5V. Os retângulos amarelos destacam as linhas em curto na protoboard, mostrando que R2 e R3 estão em paralelo e o conjunto em série com R1.\n\nSe R1 = 150 kΩ e R2 = R3 = 100 kΩ, a corrente elétrica que passa pelo resistor R1 será de:",
+      subItens: []
+    },
+    options: [
+      "12,5 µA",
+      "14,3 µA",
+      "25,0 µA",
+      "37,5 µA",
+      "50,0 µA"
+    ],
+    correctAnswer: 2,
+    materia: ["Física"],
+    conteudo: ["Eletricidade", "Leis de Ohm", "Circuitos Elétricos"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 58,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "No processo de compra e venda de artigos de ouro, é comum testar os objetos para verificar se eles realmente são feitos de ouro ou se são alguma falsificação feita com metais menos nobres. Esse teste pode ser feito adicionando um pequeno volume de ácido forte concentrado às raspas do objeto a ser testado, conforme figura a seguir. Caso o objeto seja feito com ouro, as raspas permanecem visíveis, enquanto as raspas de falsificações são dissolvidas.\n\nImagem: Esquema do teste. Mostra um copo com raspas de \"falsificação\" (dissolvendo) e outro com raspas de \"ouro\" (visíveis), após a adição de H+ ácido. Embaixo, a ilustração \"At=5s\".\n\nConsiderando apenas o potencial de redução padrão, qual das alternativas apresenta um material que poderia gerar um falso positivo para o objeto de ouro no teste descrito?\n\nNote e adote:\nMg²⁺ + 2e⁻ ⇌ Mg° E° = -2,37 V\nAl³⁺ + 3e⁻ ⇌ Al° E° = -1,66 V\nFe²⁺ + 2e⁻ ⇌ Fe° E° = -0,44 V\n2H⁺ + 2e⁻ ⇌ H2 E° = 0,00 V\nPt²⁺ + 2e⁻ ⇌ Pt° E° = +1,20 V\nAu³⁺ + 3e⁻ ⇌ Au° E° = +1,50 V\nF2 + 2e⁻ ⇌ 2F⁻ E° = +2,87 V",
+      subItens: []
+    },
+    options: [
+      "Mg",
+      "Al",
+      "Fe",
+      "Pt",
+      "F2"
+    ],
+    correctAnswer: 3,
+    materia: ["Química"],
+    conteudo: ["Eletroquímica", "Potenciais de Redução", "Reações de Oxirredução"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 59,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Considere a função f, dada por f(x) = b^x, com b > 0, b ≠ 1 e x ∈ R, e a sua inversa f⁻¹. A figura destaca dois pontos, um pertencente ao gráfico de f e outro ao gráfico de f⁻¹.\nDetermine b + k.\n\nGráfico: Funções exponencial e logarítmica. A função f(x) = b^x passa pelo ponto (2, k) e sua inversa f⁻¹(x) passa pelo ponto (3, 27).",
+      subItens: []
+    },
+    options: [
+      "5/6",
+      "1",
+      "5/8",
+      "13/5",
+      "18/5"
+    ],
+    correctAnswer: 3,
+    materia: ["Matemática"],
+    conteudo: ["Funções Exponenciais", "Funções Inversas", "Logaritmos"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 60,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Considere o sistema linear {x + 2y = 4 e 3x - y = 5}. Assinale a alternativa que representa graficamente esse sistema.\n\nGráficos: Cinco gráficos (A, B, C, D, E) de sistemas de equações lineares, cada um mostrando duas retas no plano cartesiano.",
+      subItens: []
+    },
+    options: [
+      "Duas retas que se intersectam no ponto (2,1).",
+      "Duas retas que se intersectam no ponto (2,1).",
+      "Duas retas que se intersectam no ponto (2,1).",
+      "Duas retas que se intersectam no ponto (2,1).",
+      "Duas retas que se intersectam no ponto (2,1)."
+    ],
+    correctAnswer: 4,
+    materia: ["Matemática"],
+    conteudo: ["Sistemas de Equações Lineares", "Geometria Analítica"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 61,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "O gráfico a seguir representa a curva de biomassa e biodiversidade em diferentes partes do globo.\n\nGráfico: Balanço de Radiação (kcal/cm²) versus Índice de Aridez. A curva mostra o pico de biomassa e biodiversidade em índice de aridez próximo de 0,5 e balanço de radiação alto, caindo para ambos os lados. Legenda: 0-1: umidade alta, 1-2: umidade moderada, 2-3: umidade baixa.\n\nGRIGORIEV, A.A. The theoretical fundaments of modern physical Geography. In: The interaction of sciences in the Earth, Moscou, 1968. Adaptado.\n\nSobre os ambientes do globo terrestre que podem ser exemplificados pelos dados demonstrados no gráfico, é correto afirmar que, onde o índice de aridez é igual a",
+      subItens: []
+    },
+    options: [
+      "1 e o balanço de radiação é igual a 70 kcal/cm², a curva de biomassa e biodiversidade atinge o ápice, caracterizando, por exemplo, o ambiente de uma floresta equatorial.",
+      "2 e o balanço de radiação é igual a 40 kcal/cm², é possível inferir os ambientes compostos por savanas ou cerrados, com crescimento da curva de biomassa e biodiversidade.",
+      "0 e o balanço de radiação é igual também a 0, encontram-se os ambientes desérticos muito quentes, a exemplo do deserto do Saara.",
+      "3 e o balanço de radiação é igual a 0, a curva de biomassa e biodiversidade indica exemplo típico de ambiente tropical úmido.",
+      "1,5 e o balanço de radiação é igual a 55 kcal/cm², a curva de biomassa e biodiversidade diminui, caracterizando os ambientes com presença de neve eterna."
+    ],
+    correctAnswer: 0,
+    materia: ["Geografia", "Biologia"],
+    conteudo: ["Biogeografia", "Ecologia", "Climatologia"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 62,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Os domínios morfoclimáticos e fitogeográficos propostos pelo geógrafo Aziz Nacib Ab Sáber nos anos 1960 continuam válidos na atualidade. Representam um mapeamento do território brasileiro, na escala zonal, onde foram identificados seis grandes domínios, além de uma faixa denominada de transição, que sintetizam os elementos do clima, da vegetação, do solo, do relevo e outros atributos presentes na paisagem. Observe as imagens:\n\nImagem 1: Paisagem semiárida com vegetação arbustiva e cactáceas. (Provavelmente Caatinga)\nImagem 2: Paisagem tropical com vegetação exuberante de grande porte, densa. (Provavelmente Floresta Amazônica ou Mata Atlântica)\nImagem 3: Paisagem subtropical com araucárias. (Provavelmente Floresta Ombrófila Mista / Mata de Araucárias)\n\nAB'SÁBER, Aziz Nacib. Os domínios de natureza no Brasil. Potencialidades paisagísticas. São Paulo: Ateliê Editorial, 2003.\n\nAs imagens representam aspectos paisagísticos dos tipos climáticos semiárido (1), tropical (2) e subtropical (3), presentes, respectivamente, nos seguintes domínios morfoclimáticos:",
+      subItens: []
+    },
+    options: [
+      "Caatingas, Cerrado e Araucárias.",
+      "Pradarias, Caatingas e Amazônico.",
+      "Cerrado, Caatingas e Pradarias.",
+      "Mares de Morros, Pradarias e Amazônico.",
+      "Cerrado, Araucárias e Mares de Morros."
+    ],
+    correctAnswer: 0,
+    materia: ["Geografia"],
+    conteudo: ["Domínios Morfoclimáticos", "Biomas Brasileiros", "Clima do Brasil"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 63,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Uma Árvore Pitagórica é uma figura plana que é construída por etapas. Na Etapa 1, ela começa com um quadrado de lado 1 cm. Na Etapa 2, constroem-se dois quadrados acima do quadrado da Etapa 1, de tal forma que a medida de seus lados seja igual à medida dos catetos do triângulo retângulo isósceles que possui hipotenusa igual ao lado do quadrado da Etapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos quadrados obtidos, e assim por diante. Ou seja, em cada nova etapa, aplica-se a etapa anterior em cada um dos novos quadrados obtidos. A figura a seguir exibe as quatro primeiras etapas da construção da Árvore Pitagórica.\n\nImagens: Representação visual das etapas 1, 2, 3 e 4 da construção da Árvore Pitagórica, mostrando o crescimento fractal da estrutura.\n\nDomínio público. Disponível em https://commons.wikimedia.org/.\n\nA partir de qual etapa da construção o lado de cada um dos novos quadrados obtidos fica, pela primeira vez, menor do que 1 décimo de milésimo do lado do quadrado da Etapa 1?\n\nNote e adote:\nlog102 = 0,3",
+      subItens: []
+    },
+    options: [
+      "26",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    correctAnswer: 2,
+    materia: ["Matemática"],
+    conteudo: ["Progressão Geométrica", "Logaritmos", "Geometria"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 64,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Pesquisadores realizaram em 2022 uma expedição que promete fazer história. Destino: Serra do Imeri, um conjunto de montanhas no norte do Amazonas. O objetivo da missão foi a realização de um inventário de biodiversidade para saber que tipos de animais e plantas ocorrem na região e de que forma eles se relacionam, ou não, com as espécies que habitam as partes mais baixas do bioma. O Pico da Neblina, o mais alto do Brasil, com 2.995 m, faz parte da Serra do Imeri, mas integra maciço rochoso diferente, fisicamente separado da área da expedição. Do ponto de vista ecológico, são como dois arquipélagos distintos, separados por um grande mar de floresta verde.\"\n\nMapa: Localização da Serra do Imeri, mostrando o Pico da Neblina e a Área da Expedição, separados por \"mar de floresta verde\".\n\nDisponível em https://jornal.usp.br/ciencias/rumo-a-amazonia-desconhecida/21/10/2022. Adaptado.\n\nCom base nas informações fornecidas e em seus conhecimentos, assinale a alternativa correta.",
+      subItens: []
+    },
+    options: [
+      "As barreiras naturais da Serra do Imeri tornam possível o desenvolvimento do endemismo, pois há potencialização da formação de novas espécies em função do grande isolamento geográfico.",
+      "A área de estudo homogênea e contínua permitiu a comunicação e o desenvolvimento de riqueza ímpar quanto à biodiversidade, em especial por conter condições ambientais típicas do ecossistema amazônico.",
+      "O isolamento da Serra do Imeri provoca a menor ocorrência de espécies endêmicas na região, cujos animais e plantas não possuem relação direta com o extenso bioma Amazônico.",
+      "O conhecimento de espécies biológicas e seus ecossistemas, assim como a compreensão de seus habitats, acelera a extinção de plantas e outros seres vivos, diminuindo a biodiversidade.",
+      "A Serra do Imeri representa comunidade ecológica ameaçada de extinção em razão dos problemas comuns ao bioma Amazônico, tais como expansão da agropecuária, instalação de garimpos e extração de madeira."
+    ],
+    correctAnswer: 0,
+    materia: ["Biologia", "Geografia"],
+    conteudo: ["Ecologia", "Biodiversidade", "Biomas Brasileiros"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 65,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Em fevereiro de 2023, ocorreu uma precipitação pluviométrica extrema no litoral norte de São Paulo, com volume que excedeu os 600 mm de chuva em menos de 24 horas. Foi um dos maiores índices pluviométricos já registrados no Brasil para um dia. Essa grande quantidade de chuva provocou muitos deslizamentos de terra, como o retratado na imagem.\n\nImagem: Foto de um deslizamento de terra em uma encosta entre Camburi e Boiçucanga, SP, com vegetação removida e solo exposto.\n\nDisponível em Portal g1.globo.com 22/2/2023 - Foto: CREATIVE PRODUÇÕES/ Cristian Santos.\n\nConsiderando o contexto socioambiental em que esse episódio ocorreu, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "Apesar das altas declividades nas encostas da Serra do Mar, eventos como esse são raros, uma vez que os solos profundos e a vegetação primária dificultam os deslizamentos de terra.",
+      "No local do deslizamento de terra, ocorrerá um processo de sucessão primária e, após poucos anos, uma floresta madura estará estabelecida.",
+      "A baixa umidade da região e a indisponibilidade de nutrientes no solo retardarão a instalação de organismos pioneiros, como os líquens, que iniciarão o processo de sucessão nesse local.",
+      "Fenômenos desse tipo são causados por fatores naturais da região, relacionados ao clima, à geologia e ao relevo, mas são agravados pela ocupação desordenada das encostas.",
+      "No local do deslizamento de terra, a biomassa vegetal aumentará ao longo da sucessão ecológica graças a um equilíbrio energético no sistema, em que as taxas de fotossíntese e respiração permanecerão equivalentes."
+    ],
+    correctAnswer: 3,
+    materia: ["Geografia", "Biologia"],
+    conteudo: ["Geomorfologia", "Meio Ambiente", "Ecologia (Sucessão Ecológica)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 66,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Observe as ilustrações.\n\nImagem 1: Vista de satélite mostrando grandes ravinas ou voçorocas em uma área urbana.\nImagem 2: Foto terrestre de uma grande voçoroca, com desmatamento visível ao redor.\n\nDisponível em https://g1.globo.com/ma/maranhao/noticia/2023/03/29/.\n\nA imagem de satélite e a foto retratam fenômeno que aconteceu em Buriticupu, no oeste maranhense. Com base nas figuras e em seus conhecimentos, assinale a alternativa correta.",
+      subItens: []
+    },
+    options: [
+      "O fenômeno é caracterizado pela formação de voçorocas, feições erosivas de grandes proporções que podem ser evitadas por meio do controle do fluxo das águas superficiais e subsuperficiais, plantio de vegetação e terraceamento.",
+      "Trata-se de uma feição erosiva ocasionada pelas fortes chuvas que assolam a região, sendo um processo natural que não é afetado pela ação humana, pois é um fenômeno associado à origem de solos e às nascentes de rios.",
+      "O fenômeno caracteriza a formação de voçorocas, feições erosivas profundas que têm sua origem na ascensão do lençol freático e no acúmulo de lixo. Podem ser evitadas por meio do saneamento básico e da confecção de aterros.",
+      "Trata-se de um fenômeno associado a tremores de terra e fluxos subterrâneos de água que resultam na feição erosiva chamada de voçoroca, caracterizada por abrir grandes crateras no solo sem haver acúmulo de sedimentos.",
+      "O fenômeno mostra a formação de fluxos de lama na direção da área urbana do município. Podem ser vistos o desmatamento do seu entorno e arruamento precário em estradas de terra vicinais que causaram o processo erosivo."
+    ],
+    correctAnswer: 0,
+    materia: ["Geografia"],
+    conteudo: ["Geomorfologia", "Impactos Ambientais", "Solos"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 67,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "O SOBREVIVENTE\nImpossível compor um poema a essa altura da evolução\n[da humanidade.\nImpossível escrever um poema - uma linha que seja - de\n[verdadeira poesia.\nO último trovador morreu em 1914.\nTinha um nome de que ninguém se lembra mais.\nHá máquinas terrivelmente complicadas para as\n[necessidades mais simples.\nSe quer fumar um charuto aperte um botão.\nPaletós abotoam-se por eletricidade.\nAmor se faz pelo sem-fio.\nNão precisa estômago para digestão.\nUm sábio declarou a O Jornal que ainda\nfaltam muito para atingirmos um nível\nrazoável de cultura. Mas até lá, felizmente,\nestarei morto.\nOs homens não melhoraram\ne matam-se como percevejos.\nOs percevejos heroicos renascem.\nInabitável o mundo é cada vez mais habitado.\nE se os olhos reaprendessem a chorar seria um segundo\n[dilúvio.\n(Desconfio que escrevi um poema.)\nCarlos Drummond de Andrade. Alguma Poesia, 1930.\n\nEntre o primeiro e o último verso, há uma aparente contradição, que, todavia, não se sustenta porque",
+      subItens: []
+    },
+    options: [
+      "os entraves à plenitude lírica são removidos.",
+      "os trovadores ainda inspiram os enamorados.",
+      "a sabedoria controla o poder das máquinas.",
+      "os heróis sempre ressuscitam neste mundo.",
+      "a poesia resiste à negatividade do seu tempo."
+    ],
+    correctAnswer: 4,
+    materia: ["Literatura Brasileira", "Linguagens"],
+    conteudo: ["Modernismo", "Carlos Drummond de Andrade", "Análise Poética"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 68,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "TEXTOS PARA AS QUESTÕES 82 E 83 (Nota: Errata na numeração, este é o texto para a Q68, não 82 e 83)\n\n[...] Um sino de vidro claro,\numa ampola cristalina e contrátil,\nflutua calma no seu caminho.\n\"Peixinho, peixinho, deixe-a ir!\nPeixinho, peixinho, se apresse em fugir!\"\nAli atrás, longos fios transparentes se arrastam\ne os olhos do peixinho a um banquete convidam.\n\"Serão, por acaso, minhocas o que eu vejo de repente?\"\n\"Peixinho, peixinho, deixe-me alertar!\nPeixinho, peixinho, não se deixe enganar!\"\nPróximo demais o peixinho chegou:\n\"Ai, ai, ai, agora ela me pegou!\nFirme me amarrou e não consigo me soltar!\nFirme me envolve e arde de matar!\"\n\nTradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.\n\nO fragmento de poema apresentado foi escrito pelo naturalista Fritz Müller para suas filhas. O trecho do poema permite afirmar que a predação é realizada por um/uma",
+      subItens: []
+    },
+    options: [
+      "camarão.",
+      "água-viva.",
+      "tubarão.",
+      "lula.",
+      "plâncton."
+    ],
+    correctAnswer: 1,
+    materia: ["Biologia", "Literatura"],
+    conteudo: ["Zoologia", "Ecologia (Relações Ecológicas)", "Análise de Poema"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 69,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "A partir do cladograma apresentado, que expressa algumas relações filogenéticas entre vertebrados, é correto afirmar que\n\nCladograma: Relações filogenéticas entre lampreia, tubarão, perereca, lagarto, girafa e ser humano. Mostra a lampreia como o grupo mais basal, seguido pelo tubarão. A perereca, lagarto, girafa e ser humano formam um clado (tetrápodes). Girafa e ser humano são mais próximos, formando um clado. Lagarto é o próximo a divergir, e perereca é o mais basal dos tetrápodes.",
+      subItens: []
+    },
+    options: [
+      "a lampreia é o ancestral comum de todos os vertebrados incluídos no cladograma.",
+      "o tubarão surgiu da lampreia e deu origem aos vertebrados tetrápodes.",
+      "os peixes (lampreia e tubarão) possuem um ancestral compartilhado com os tetrápodes.",
+      "o lagarto é mais proximamente relacionado ao tubarão que ao ser humano.",
+      "o ser humano é o mais evoluído dentre todos os vertebrados incluídos no cladograma."
+    ],
+    correctAnswer: 2,
+    materia: ["Biologia"],
+    conteudo: ["Evolução", "Filogenia", "Zoologia"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 70,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Observe o mapa da distribuição da pesca no globo em toneladas por quilômetro quadrado, por ano.\n\nMapa: \"Onde se pescam mais peixes, moluscos e crustáceos\". O mapa-múndi mostra as áreas de maior produtividade pesqueira, com uma escala de cores de 0,05 a 10 toneladas/km²/ano. Áreas costeiras e de ressurgência são as mais produtivas.\n\nDisponível em https://animalbusiness.com.br/negocios-e-mercado/.\n\nBaseado em seus conhecimentos sobre correntes marítimas quentes e frias em superfície, bem como nos dados representados no mapa, assinale a alternativa correta.",
+      subItens: []
+    },
+    options: [
+      "No Hemisfério Sul, as regiões de maior potencial de pesca são aquelas que margeiam a costa leste dos continentes americano, africano e asiático, marcadas pela presença de correntes marítimas quentes.",
+      "No Hemisfério Norte, as regiões de maior potencial de pesca são registradas na costa leste e oeste do continente americano, margeadas pelas correntes marítimas frias do Labrador e do Golfo, respectivamente.",
+      "Em todo o globo, as áreas que demarcam as águas internacionais ou alto-mar são as mais piscosas independentemente da presença de correntes marítimas quentes ou frias.",
+      "No Hemisfério Sul, as regiões de maior potencial de pesca ocorrem na costa oeste do continente americano e do continente africano, com a presença, respectivamente, das correntes marítimas de Humboldt e de Benguela.",
+      "As regiões polares apresentam potencial reduzido de pesca em função das dificuldades de acesso, baixa reprodução das espécies nesses locais e presença de correntes marítimas frias."
+    ],
+    correctAnswer: 3,
+    materia: ["Geografia"],
+    conteudo: ["Oceanografia", "Correntes Marítimas", "Economia (Pesca)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 71,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Para esfriar um copo contendo 250 mL de água fervente (100°C), é comum utilizar o seguinte método:\n\nImagem: Desenho de um copo imerso em uma vasilha com água.\n\nPasso 1. Colocar esse copo dentro de uma vasilha em contato com 1 litro de água à temperatura ambiente (25°C), como mostrado na figura.\nPasso 2. Esperar que entrem em equilíbrio térmico.\nPasso 3. Tirar o copo e trocar a água da vasilha por outro litro de água à temperatura ambiente.\nPasso 4. Colocar o copo em contato com a água \"nova\" e esperar que entrem em equilíbrio térmico.\n\nApós o passo (4) desse método, a temperatura da água no copo será aproximadamente:\n\nNote e adote:\nConsidere apenas trocas de calor entre a água no copo e a água na vasilha. Despreze quaisquer trocas de calor do sistema com o ambiente.",
+      subItens: []
+    },
+    options: [
+      "14°C",
+      "28°C",
+      "40°C",
+      "60°C",
+      "84°C"
+    ],
+    correctAnswer: 1,
+    materia: ["Física"],
+    conteudo: ["Termodinâmica", "Calorimetria", "Equilíbrio Térmico"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 72,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Um protótipo de máquina térmica caseira baseia-se num motor de quatro etapas e pode ser construído com o auxílio de uma bomba de bicicleta, uma pequena câmara de pneu e um aquecedor térmico. Na primeira etapa, o gás da câmara de pneu é comprimido adiabaticamente. Na segunda etapa, o gás é aquecido isovolumetricamente. Na terceira etapa, o gás sofre uma expansão adiabática e, finalmente, na quarta etapa, um resfriamento isovolumétrico.\nAssinale a alternativa que melhor representa o diagrama correspondente a essa máquina térmica no plano pressão (p) x volume (V).\n\nNote e adote:\nDespreze efeitos de dilatação ou contração da câmara do pneu.\n\nGráficos: Cinco diagramas p x V (A, B, C, D, E) mostrando ciclos termodinâmicos com processos adiabáticos e isovolumétricos.",
+      subItens: []
+    },
+    options: [
+      "Ciclo com compressão adiabática, aquecimento isovolumétrico, expansão adiabática e resfriamento isovolumétrico.",
+      "Ciclo com compressão adiabática, aquecimento isovolumétrico, expansão adiabática e resfriamento isovolumétrico.",
+      "Ciclo com compressão adiabática, aquecimento isovolumétrico, expansão adiabática e resfriamento isovolumétrico.",
+      "Ciclo com compressão adiabática, aquecimento isovolumétrico, expansão adiabática e resfriamento isovolumétrico.",
+      "Ciclo com compressão adiabática, aquecimento isovolumétrico, expansão adiabática e resfriamento isovolumétrico."
+    ],
+    correctAnswer: 0,
+    materia: ["Física"],
+    conteudo: ["Termodinâmica", "Ciclos Termodinâmicos", "Gás Ideal"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 73,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Um experimento de demonstração sobre ondas estacionárias faz uso de uma canaleta disposta horizontalmente, contendo grãos de areia fina e seca. Abaixo da canaleta, posiciona-se um alto-falante que transmite um som, produzindo, na canaleta, uma vibração, associada a uma onda estacionária com um comprimento de onda bem definido. O diagrama representa uma imagem digitalizada dos grãos de areia depositados na base da canaleta em um certo instante. Utilize a régua da figura, graduada em centímetros, para assinalar a alternativa que apresenta a melhor aproximação para o valor do comprimento de onda da vibração em questão.\n\nImagem: Foto de grãos de areia em uma canaleta, organizados em padrões de onda estacionária, com uma régua de centímetros ao longo. Os nós da onda (onde a areia se acumula) são visíveis. A régua mostra que a distância entre dois nós consecutivos é aproximadamente 3.4 cm, e entre três nós é 6.8 cm.\n\nNote e adote:\nOs grãos de areia tendem naturalmente a se acumular em torno dos pontos nos quais o deslocamento transversal da canaleta é nulo.\n\nA melhor aproximação para o valor do comprimento de onda da vibração em questão.",
+      subItens: []
+    },
+    options: [
+      "1,2 cm",
+      "5,1 cm",
+      "6,8 cm",
+      "11,3 cm",
+      "18,1 cm"
+    ],
+    correctAnswer: 2,
+    materia: ["Física"],
+    conteudo: ["Ondas", "Ondas Estacionárias", "Acústica"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 74,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Apesar de a África ser considerada o berço das civilizações e existirem indícios de conhecimentos elementares de Química no sul do continente cerca de 100.000 anos atrás, os conhecimentos químicos ensinados são eurocentristas. Entretanto, uma das grandes contribuições para o estudo de reatividade química é atribuída ao químico egípcio Ahmed Hassan Zewail, agraciado com o prêmio Nobel em 1999 por seus estudos de reações químicas usando uma técnica conhecida como espectroscopia de femtossegundos. Essa técnica possibilita identificar espécies com tempo de vida curto utilizando pulsos de laser com duração de 10⁻¹⁵ s.\nEssa contribuição é relevante para o estudo de reações químicas, pois",
+      subItens: []
+    },
+    options: [
+      "todos os processos químicos são extremamente rápidos e não podem ser estudados por técnicas que não sejam em femtossegundos.",
+      "as reações químicas podem passar por espécies instáveis e com pouco tempo de vida.",
+      "o tempo existente para analisar os produtos de uma reação depende apenas da quantidade de produtos formada.",
+      "permite entender como reagentes específicos se comportam frente a processos reacionais que são extremamente lentos.",
+      "apenas com uma técnica tão rápida é possível analisar o grau de pureza dos reagentes isolados."
+    ],
+    correctAnswer: 1,
+    materia: ["Química"],
+    conteudo: ["Cinética Química", "Reações Químicas", "Espectroscopia"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 75,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "O mapa a seguir retrata o Nordeste da África e a Península Arábica, no século IV.\n\nMapa: Rotas comerciais no Nordeste da África e Península Arábica no século IV, mostrando rotas terrestres e marítimas conectando Egito, Cuxe, Axum, Meca, Aden e Malao, e com destinos para Europa e Índia. Destacam-se o Mar Vermelho e o Oceano Índico.\n\nCARNINE, Douglas et alii. World History: Ancient through Modern Times. Evanston, IL: McDougal Littell, 2009. Adaptado.\n\nConsiderando as rotas comerciais representadas no mapa, pelas quais se transportavam, por exemplo, cereais, marfim e escravizados, e que envolviam sociedades antigas, em especial os reinos de Axum, Cuxe e Egito, é correto afirmar que",
+      subItens: []
+    },
+    options: [
+      "o comércio praticado no nordeste da África isolava a região de outras áreas do continente.",
+      "os comerciantes do Egito participavam apenas de rotas comerciais marítimas.",
+      "as atividades mercantis do Reino de Axum conectavam o Mediterrâneo ao Oceano Índico.",
+      "as rotas terrestres e marítimas na África e na Península Arábica não se conectavam umas às outras.",
+      "a cidade de Berenice se colocava como obstáculo ao comércio do Mediterrâneo com o interior da África."
+    ],
+    correctAnswer: 2,
+    materia: ["História", "Geografia"],
+    conteudo: ["Antiguidade", "Geopolítica", "Comércio Antigo"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 76,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"O plano dos Estados Unidos de derrubarem a Revolução já estava esboçado na ocasião em que Mikoyan [vice-líder no governo soviético de Nikita Kruschev] visitou Havana, em fevereiro de 1960 (...). A CIA propunha a sabotagem das refinarias de açúcar de Cuba, a principal fonte de riqueza da ilha. (...)\nComo prometido, Fidel Castro reagiu contra os Estados Unidos (...). Ele anunciou a nacionalização de todas as propriedades norte-americanas importantes da ilha. (...) Numa frase sinistra (...), Castro salientou que a Cuba revolucionária tinha agora o apoio militar de fora do continente. Cuba 'aceitaria com gratidão', disse ele, 'a ajuda dos foguetes da União Soviética (...)'.\nNaquele mês, a lenha fora jogada na fogueira, quando Castro chegou a Nova York para falar na Assembleia Geral da ONU, instalando-se no Harlem. (...)\nCastro ficou no [hotel] Theresa, cercado por um grupo de admiradores (...) e numa tarde memorável foi visitado pelo líder soviético. (...) Kruschev escreveu nas suas memórias que 'indo a um hotel negro num bairro negro, nós estávamos fazendo uma dupla demonstração contra as políticas discriminatórias dos Estados Unidos em relação aos negros, assim como em relação a Cuba'.\"\nGOTT, Richard. Cuba: uma nova história. Rio de Janeiro: Zahar, 2006. p.210-213. Adaptado.\n\nAs tensões políticas abordadas no texto referem-se",
+      subItens: []
+    },
+    options: [
+      "à indecisão de Fidel Castro sobre o alinhamento político de Cuba na Guerra Fria e ao isolamento da ilha em relação a outros debates políticos da época.",
+      "às garantias do governo revolucionário em Cuba aos capitais norte-americanos e à salvaguarda dos direitos civis da população negra na ilha.",
+      "à aliança entre Cuba e URSS selada na origem da guerrilha em Sierra Maestra e à consequente oposição dos EUA ao movimento insurgente.",
+      "ao gradual alinhamento entre Cuba e a URSS e ao aceno dos dois governantes de apoio ao movimento negro norte-americano.",
+      "à articulação entre os governos da URSS e dos EUA para enfraquecer Fidel Castro e os movimentos sociais no Harlem."
+    ],
+    correctAnswer: 3,
+    materia: ["História", "Geografia Humana"],
+    conteudo: ["Guerra Fria", "Revolução Cubana", "Geopolítica"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 77,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Desde os anos 20 governado pela dinastia Pahlevi, o Irã vinha sendo modernizado e ocidentalizado pelas sucessivas gerações de xás, que viam na observância estrita da religião um atraso a ser superado. País de numerosa população xiita, no entanto, o regime modernizante sempre precisou contar com uma grande dose de repressão, para conter a oposição dos grupos religiosos, que se fazia cada vez mais popular. Na década de 1970, este movimento conheceu um líder, que, refugiado na França, preparava-se para voltar ao país: era o aiatolá Khomeini, que apelava aos muçulmanos para que restaurassem a autoridade do isla na sociedade.\"\nGRINBERG, Keila. O mundo árabe e as guerras árabe-israelenses. In: REIS FILHO, Daniel Aarão; FERREIRA, Jorge; ZENHA, Celeste (orgs.). O século XX: o tempo das dúvidas. Rio de Janeiro: Civilização Brasileira, 2002. p.116.\n\nO texto descreve o contexto histórico que antecedeu",
+      subItens: []
+    },
+    options: [
+      "uma intervenção norte-americana em território iraniano.",
+      "a integração do Irã aos países do bloco socialista soviético.",
+      "a laicização integral do Estado iraniano.",
+      "o estabelecimento de uma república teocrática no Irã.",
+      "uma cooperação militar entre Irã e Iraque contra o Ocidente."
+    ],
+    correctAnswer: 3,
+    materia: ["História", "Sociologia"],
+    conteudo: ["Oriente Médio", "Revolução Iraniana", "Religião e Política"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 78,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Observe o mapa a seguir:\n\nMapa: \"Autonomia Curda\". O mapa mostra as zonas de povoamento curdo majoritário e minoritário, regiões autônomas curdas, federação democrática da Síria do Norte, zona ocupada pela Turquia e região autônoma do Curdistão Iraquiano, abrangendo partes da Turquia, Síria, Iraque e Irã. Destaca-se o Lago Van e o Lago Urmia.\n\nLe Monde Diplomatique Brasil, 2022.\n\nSobre o conflito geopolítico em questão, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "O Tratado de Lausanne estabeleceu as fronteiras da Turquia moderna, incluindo a existência de um Estado curdo após o fim do Império Turco Otomano, concedendo aos curdos o domínio do território entre as atuais Turquia e Síria.",
+      "Os curdos formam uma população estimada em dezenas de milhões de pessoas e parte habita uma região montanhosa que se espalha pelos territórios fronteiriços de cinco países: Turquia, Iraque, Síria, Irã e Rússia.",
+      "Falantes de várias línguas, dentre as quais árabe, curdo, turco e persa, e compostos por diferentes grupos étnicos e religiosos, os curdos são considerados a maior população apátrida do mundo.",
+      "Entre os anos de 2013 e 2019, as forças curdas desempenharam um papel central no enfrentamento ao Estado Islâmico na região, o que levou ao reconhecimento do estado independente do Curdistão.",
+      "Em 2022, foi aprovada uma resolução no Conselho de Segurança da ONU reconhecendo a independência do Curdistão e definindo suas fronteiras em territórios que pertenciam à Síria, Turquia e Iraque."
+    ],
+    correctAnswer: 2,
+    materia: ["Geografia", "História", "Geografia Humana"],
+    conteudo: ["Geopolítica", "Conflitos Contemporâneos", "População e Território"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 79,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"A China enviou ontem navios de guerra e dezenas de caças para Taiwan, em retaliação a uma reunião entre a presidente da ilha, Tsai Ing-Wen, e o presidente da Câmara dos Deputados do EUA, Kevin McCarty, na Califórnia\".\nO Estado de São Paulo, 08/04/2023. Adaptado.\n\nA reportagem faz alusão ao aumento das tensões geopolíticas entre China e Taiwan. Sobre esse tema, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "As tensões iniciaram-se no final de década de 1970, em decorrência das mudanças políticas e econômicas perpetradas pelo então presidente chinês Deng Xiaoping, que resultaram na declaração de independência de Taiwan em relação à China.",
+      "Iniciadas ainda na primeira metade do século XX, as tensões entre China e Taiwan aumentaram desde então em decorrência da presença militar dos EUA no território taiwanês, o que contraria os interesses geopolíticos chineses na região.",
+      "As tensões decorreram do aumento da influência russa sobre o território taiwanês, com foco na exploração do potencial mercado consumidor, considerado estratégico para o aumento das exportações do gás natural russo.",
+      "Com apoio soviético, Taiwan conseguiu independência do território chinês no final da década de 1960. Após o fim da Guerra Fria, tornou-se uma potência tecnológica, o que ampliou o interesse geopolítico chinês na retomada desse território.",
+      "Taiwan é reconhecido como país independente pelos EUA e tem emergido na rota dos conflitos entre os governos estadunidense e chinês, o que pode ser interpretado como indício do deslocamento do eixo geopolítico do mundo para o sudeste asiático."
+    ],
+    correctAnswer: 1,
+    materia: ["Geografia", "História", "Geografia Humana"],
+    conteudo: ["Geopolítica", "Relações Internacionais", "Ásia"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 80,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "A figura mostra dados do Fundo Monetário Internacional (FMI) sobre a série histórica (1992 e 2010) e uma projeção (2028) dos 10 países com o maior Produto Interno Bruto (PIB).\n\nGráfico: Ranking dos 10 maiores PIBs do mundo em 1992, 2010 e 2028 (projeção). Mostra a ascensão de China e Índia e a queda de países como Japão e Alemanha, e a permanência dos EUA no topo.\n\nDisponível em https://www.statista.com/chart/22256/. Adaptado.\n\nSobre esses dados, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "Entre 2010 e 2028, a Indonésia, que não figurava entre os dez maiores PIBs, aparecerá no ranking em razão da produção agrícola e do extrativismo mineral, enquanto que a Itália sofrerá queda na economia devido à instabilidade política do país.",
+      "Entre 1992 e 2028, o Brasil apresentou elevação na sua produção e sofrerá declínio no ranking, assim como o Reino Unido, em razão desses países terem declinado de tratados econômicos globais.",
+      "Entre 1992 e 2010, China e Índia apresentaram crescimento de suas economias em razão do aumento da capacidade produtiva, do potencial de consumo interno e da infraestrutura na produção industrial.",
+      "Entre 1992 e 2010, Japão e Alemanha sofreram queda e estabilização no seu Produto Interno Bruto justificada pelo fato de ambos os países serem potências hegemônicas na produção de tecnologia.",
+      "Entre 2010 e 2028, Rússia e França terão declínio nas suas economias por se encontrarem enfraquecidas por conflitos bélicos, dependência energética e redução populacional em seus países."
+    ],
+    correctAnswer: 2,
+    materia: ["Geografia", "Geografia Humana"],
+    conteudo: ["Economia Global", "PIB", "Desenvolvimento Econômico"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 81,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"As sociólogas, filósofas e ativistas feministas destacaram, com o conceito de 'reprodução social', algo que a teoria econômica ocultava: para que haja produção de bens e de serviços é necessário que as pessoas que os produzem sejam, por sua vez, produzidas. O trabalho da reprodução social, portanto, cria e repõe a condição primordial e necessária a existência de pessoas que trabalham - para que a produção econômica possa continuar ocorrendo. Em grande medida, esse trabalho é relegado ao ambiente familiar e às mulheres: cuidado com os filhos, cuidado com doentes e idosos, preparação de alimentos, limpeza e arrumação da casa e outros. O trabalho de reprodução se opõe, socialmente, ao trabalho de produção; este está inserido numa economia organizada com base em empresas nas fábricas, na agricultura, nos escritórios -, voltado para o mercado e é percebido como merecedor de contrapartida financeira: o salário. Assim, mesmo quando um trabalho da esfera da reprodução se realiza por meio de uma relação de emprego, se for realizado por mulheres, ele costuma ser mal pago e desfrutar de menor prestígio.\"\nARRUZZA, Cinzia; BATTACHARYA, Tithi; FRASER, Nancy. Feminismo para os 99%: um manifesto. São Paulo: Boitempo, 2019.\n\n\"A chamada 'economia do cuidado' é o conjunto de atividades não remuneradas, geralmente exercidas por mulheres, como a limpeza da casa, preparação de alimentos e os cuidados com crianças, idosos e doentes da família. Um pacote que vale 11% do PIB atual (...). Em valores, foram cerca de 634,3 bilhões de reais em 2015 [por exemplo]. (...) Contabilizar o valor dos afazeres domésticos no PIB do Brasil só se tornou possível a partir de 2001, quando o IBGE introduziu na Pesquisa Nacional por Amostra de Domicílios (PNAD) a pergunta referente ao número de horas despendido pela população para executar essas atividades.\"\nDisponível em https://www.cartacapital.com.br/.\n\nNos textos apresentados, encontram-se dois conceitos, o de \"reprodução social\" e o de \"economia do cuidado\". De acordo com as definições desses conceitos e com os dados indicados, qual das afirmações a seguir está correta?",
+      subItens: []
+    },
+    options: [
+      "Os conceitos de reprodução social e de economia do cuidado são contraditórios porque o primeiro se refere a todo trabalho doméstico e o segundo apenas ao trabalho doméstico pago e que é possível contabilizar.",
+      "Ambos os conceitos se referem a um tipo de trabalho cuja importância é socialmente reconhecida, fato que pode ser comprovado pela porcentagem expressiva que ele representava do PIB brasileiro no ano de 2015.",
+      "As definições de reprodução social e de economia do cuidado excluem, necessariamente, a possibilidade de que o Estado seja responsável por parte das tarefas envolvidas na reprodução das pessoas.",
+      "A contabilização no PIB dos valores dos afazeres domésticos no contexto da economia do cuidado abarca apenas uma parte da reprodução social, pois não inclui o trabalho doméstico remunerado e os trabalhos de reprodução executados fora do ambiente doméstico.",
+      "Os dados estimados sobre a participação das atividades domésticas não remuneradas no PIB do Brasil mostram que a reprodução social acontece apenas quando não há uma relação salarial entre quem executa e quem se beneficia desse tipo de trabalho."
+    ],
+    correctAnswer: 3,
+    materia: ["Sociologia", "Geografia Humana"],
+    conteudo: ["Gênero e Trabalho", "Economia do Cuidado", "Demografia e Economia"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 82,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "TEXTOS PARA AS QUESTÕES 82 E 83\n\nTexto I\n\"Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se.\nSentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.\"\nLuis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!.\n\nTexto II\n\"- Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura.\n- Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo.\n- Casámo-nos há pouco tempo, Nguila, muito pouco tempo.\n- Não tenho lá muita paciência. Não estou para lavrar sem colher.\"\nPaulina Chiziane. Balada de amor ao vento, p. 61-62.\n\nOs trechos transcritos foram retirados dos livros dos moçambicanos Luís Bernardo Honwana e Paulina Chiziane. Em ambos, observa-se a ocorrência da palavra \"machamba”. A respeito do uso desse termo, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "No texto I, machamba refere-se a um matagal, em sentido denotativo; no texto II, ao papel de esposa de Sarnau, em sentido conotativo.",
+      "No texto I, machamba possui sentido literal, referindo-se às terras para cultivo; no texto II, o sentido é figurado, referindo-se ao útero de Sarnau.",
+      "No texto I, machamba possui sentido figurado, referindo-se à colheita; no texto II, o sentido é literal, referindo-se a um problema.",
+      "Em ambos os textos, machamba apresenta sentido literal e refere-se a um terreno agrícola de produção familiar.",
+      "Em ambos os textos, machamba possui sentido figurado e refere-se às terras férteis ocupadas pelos portugueses."
+    ],
+    correctAnswer: 1,
+    materia: ["Literatura Lusófona", "Linguagens"],
+    conteudo: ["Literatura Moçambicana", "Semântica (Denotação e Conotação)"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 83,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Nos excertos, os escritores moçambicanos descrevem, cada um em seu contexto, cenas de violência. Sobre elas, é correto afirmar:\n\nTexto I\n\"Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se.\nSentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.\"\nLuis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!.\n\nTexto II\n\"- Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração. Deixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura.\n- Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo.\n- Casámo-nos há pouco tempo, Nguila, muito pouco tempo.\n- Não tenho lá muita paciência. Não estou para lavrar sem colher.\"\nPaulina Chiziane. Balada de amor ao vento, p. 61-62.\n\n(Nota: o enunciado acima combina os textos de Honwana e Chiziane)\n\nNos excertos, os escritores moçambicanos descrevem, cada um em seu contexto, cenas de violência. Sobre elas, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "Luís Bernardo Honwana descreve uma cena de violência psicológica velada do capataz contra a mulher, sem que ela perceba a agressão sofrida.",
+      "Luís Bernardo Honwana expõe a violência social de que a mulher é vítima ao relatar uma discussão acalorada que ela trava com o capataz.",
+      "Luís Bernardo Honwana narra uma luta física entre o capataz e a mulher, a qual tenta resistir à agressão sofrida, mas acaba por consentir com a relação.",
+      "Paulina Chiziane apresenta elementos narrativos que permitem identificar a agressão psicológica e física praticada, pelo marido, contra a mulher.",
+      "Paulina Chiziane associa a violência contra a mulher a um processo educativo que visa zelar pela estabilidade da relação conjugal e pela felicidade do casal."
+    ],
+    correctAnswer: 3,
+    materia: ["Literatura Lusófona", "Sociologia", "Linguagens"],
+    conteudo: ["Literatura Moçambicana", "Violência de Gênero", "Análise de Texto"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 84,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "O Atlas da Violência, publicado em 2019 e organizado pelo Instituto de Pesquisa Econômica Aplicada e Fórum Brasileiro de Segurança Pública, apresenta um estudo para melhor compreender a violência no país. Os dados que ali constam referem-se ao período de 2007 a 2017. Um dos capítulos desse documento trata, especificamente, da violência contra a mulher. O gráfico a seguir mostra a evolução da taxa de homicídios de mulheres (equivalente ao número de homicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e nas três unidades federativas com as menores taxas em 2017.\n\nGráfico: Taxa de Homicídios de mulheres (por 100 mil) de 2007 a 2017 para Brasil, Distrito Federal, Santa Catarina e São Paulo. As três últimas têm as menores taxas em 2017.\n\nIpea/FBSP. Atlas da Violência, 2019.\n\nDe acordo com os dados apresentados, é correto afirmar:",
+      subItens: []
+    },
+    options: [
+      "Dentre as unidades federativas citadas, a que teve maior decréscimo na taxa de homicídios de mulheres no período entre 2014 e 2017 foi São Paulo.",
+      "As três unidades federativas indicadas tiveram um decréscimo na taxa de homicídios de mulheres em 2017 quando comparada com a taxa de 2007.",
+      "A taxa de homicídios de mulheres no Brasil em 2017 é maior que a soma das taxas das três unidades federativas apresentadas neste mesmo ano.",
+      "Dentre as unidades federativas apontadas, a que apresentou a maior taxa de homicídios de mulheres em 2017 é Santa Catarina, superando a taxa registrada nos demais estados da região Sul.",
+      "Dentre as unidades federativas mencionadas, a maior redução na taxa de homicídios de mulheres, entre 2016 e 2017, registrada na pesquisa ocorreu no Distrito Federal."
+    ],
+    correctAnswer: 4,
+    materia: ["Sociologia", "Geografia Humana", "Matemática"],
+    conteudo: ["Violência e Criminalidade", "Demografia", "Análise de Gráficos"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 85,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Números figurados são números que expressam o total de pontos em certas configurações geométricas. Um exemplo de números figurados são os triangulares, os quais são números naturais que podem ser representados geometricamente na forma de um triângulo. Os quatro primeiros números triangulares estão ilustrados na figura I. Apesar de o número 1 não representar um triângulo, ele é considerado um número triangular.\n\nImagem I: Representação dos quatro primeiros números triangulares (1, 3, 6, 10) usando pontos.\n\nOutro exemplo de número figurado é o número oblongo, o qual representa o total de pontos de um quadro retangular em que o número de colunas é uma unidade a mais do que o número de linhas. Os quatro primeiros números oblongos estão ilustrados na figura II. Apesar de o número 2 não representar um quadro retangular, ele é considerado um número oblongo.\n\nImagem II: Representação dos quatro primeiros números oblongos (2, 6, 12, 20) usando pontos.\n\nA respeito de números triangulares e números oblongos, assinale a alternativa correta.",
+      subItens: []
+    },
+    options: [
+      "162 é o 15º número triangular.",
+      "O 13º número triangular é primo e o 30º número oblongo é ímpar.",
+      "156 não é um número oblongo, nem triangular.",
+      "210 é um número triangular e oblongo.",
+      "A diferença entre dois números triangulares consecutivos são termos de uma progressão geométrica."
+    ],
+    correctAnswer: 3,
+    materia: ["Matemática"],
+    conteudo: ["Teoria dos Números", "Progressões", "Raciocínio Lógico"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 86,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Para praticar a agricultura, os tupis derrubavam árvores e faziam a queimada – técnica que iria ser incorporada pelos colonizadores. Plantavam feijão, milho, abóbora e principalmente mandioca, cuja farinha se tornou também um alimento básico da Colônia. A economia era basicamente de subsistência e destinada ao consumo próprio. Cada aldeia produzia para satisfazer a suas necessidades, havendo poucas trocas de gêneros alimentícios com outras aldeias.\nMas existiam contatos entre elas para a troca de mulheres e de bens de luxo, como penas de tucano e pedras para se fazer botoque. Dos contatos resultavam alianças em que grupos de aldeias se posicionavam uns contra os outros. A guerra e a captura de inimigos – mortos em meio à celebração de um ritual canibalístico – eram elementos integrantes da sociedade tupi. Dessas atividades, reservadas aos homens, dependiam a obtenção de prestígio e a renovação das mulheres.\"\nFAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2006. p.40.\n\nDe acordo com o texto, é correto afirmar que, no período colonial brasileiro, as sociedades pertencentes ao tronco linguístico Tupi",
+      subItens: []
+    },
+    options: [
+      "praticavam o canibalismo devido à escassez de alimentos nas regiões em que viviam.",
+      "desenvolviam uma cultura agrícola de subsistência que não abolia a existência de sistemas de troca.",
+      "cultivavam produtos agrícolas que deixaram de ser consumidos após a chegada dos colonizadores.",
+      "organizavam-se em unidades políticas autônomas, que evitavam contatos comerciais entre si.",
+      "realizavam rituais em que homens e mulheres desempenhavam funções idênticas."
+    ],
+    correctAnswer: 1,
+    materia: ["História", "Sociologia"],
+    conteudo: ["Brasil Colônia", "Sociedades Indígenas", "Cultura e Sociedade Indígena"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 87,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"Colombo não reconhece a diversidade das línguas e, por isso, quando se vê diante de uma língua estrangeira, só há dois comportamentos possíveis, e complementares: reconhecer que é uma língua, e recusar-se a aceitar que seja diferente, ou então reconhecer a diferença e recusar-se a admitir que seja uma língua... Os índios que encontra logo no início, a 12 de outubro de 1492, provocam uma reação do segundo tipo; ao vê-los, promete: 'Se Deus assim o quiser, no momento da partida levarei seis deles a Vossas Altezas, para que aprendam a falar' (...).\"\nTODOROV, Tzvetán. A conquista da América: a questão do outro. São Paulo: Martins Fontes, 1993. p.29-30.\n\nAo tratar das reações iniciais de Colombo ao chegar à América, o excerto indica que o navegador",
+      subItens: []
+    },
+    options: [
+      "reconheceu a necessidade de tradução mútua entre as línguas.",
+      "considerou as línguas indígenas como expressão de outras culturas.",
+      "interpretou as diferenças linguísticas como estratégia de resistência dos nativos.",
+      "mostrou-se disposto a estudar e compreender as línguas dos indígenas.",
+      "entendeu o ensino do castelhano aos indígenas como forma de civilização."
+    ],
+    correctAnswer: 4,
+    materia: ["História", "Sociologia"],
+    conteudo: ["Expansão Marítima Europeia", "América Pré-Colonial", "Colonialismo e Alteridade"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 88,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "The main players in the Spanish-Aztec War (1519-21) are well known: Hernán Cortés and Montezuma. Lesser-known, though no less important, is a multilingual exiled Aztec woman who was enslaved, then served as a guide and interpreter, then became Cortés's mistress. She was known as Doña Marina, and as La Malinche.\nScholar and researcher Cordelia Candelaria writes: her paramount value to the Spaniards was not merely linguistic. She was an interpreter/liaison who served as a guide to the region, as an advisor on native customs and beliefs, and as a strategist.\nLa Malinche was the daughter of an Aztec cacique (chief). This gave her an unusual level of education, which she would later leverage as a guide and interpreter for the Spanish. Throughout Cortés's travels, she became indispensable as a translator, not only capable of functionally translating from one language to the other, but of speaking compellingly, strategizing, and forging political connections.\nIntegral as she was to Spain's success, La Malinche is a controversial figure. Candelaria quotes T. R. Fehrenbach as saying, \"If there is one villainess in Mexican history, she is La Malinche. She was to become the ethnic traitress supreme.\" But Candelaria argues that La Malinche's act of turning her back on her own people makes more psychological sense when we consider that, at a young age, she had been sold by her own mother into slavery. Candelaria asks, \"What else could this outcast from the Aztecs, 'her own people,' have done?\"\nDisponível em https://daily.jstor.org/. Adaptado.\n\nSegundo o texto, em relação à imagem de La Malinche como traidora do povo Asteca, a pesquisadora Cordelia Candelaria argumenta que a intérprete",
+      subItens: []
+    },
+    options: [
+      "havia sido preterida no seio da própria família.",
+      "fez uso de idiomas em proveito próprio.",
+      "era invejada pelos privilégios alcançados.",
+      "ignorou as vulnerabilidades do povo mexicano.",
+      "tentou se sobrepor aos líderes da época."
+    ],
+    correctAnswer: 0,
+    materia: ["História", "Língua Inglesa", "Sociologia"],
+    conteudo: ["Conquista da América", "Compreensão de Texto", "Relações Interétnicas"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 89,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "\"O preconceito linguístico é tanto mais poderoso porque, em grande medida, ele é 'invisível', no sentido de que quase ninguém fala dele, com exceção dos raros cientistas sociais que se dedicam a estudá-lo. Pouquíssimas pessoas reconhecem a existência do preconceito linguístico, quem dirá a sua gravidade como um sério problema social.\"\nBAGNO, Marcos. Preconceito linguístico: o que é, como se faz. Edições Loyola, São Paulo, 1999.\n\nCom base na leitura do texto, é possível depreender que o preconceito linguístico, apesar de nocivo para a sociedade, muitas vezes é despercebido. Nesse sentido, assinale a alternativa que apresenta um exemplo de preconceito linguístico.",
+      subItens: []
+    },
+    options: [
+      "A língua falada é um instrumento de sobrevivência em sociedade.",
+      "A língua varia tão rapidamente quanto as mudanças que ocorrem na sociedade.",
+      "Existem muitas maneiras de se expressar a mesma ideia.",
+      "Os habitantes de uma cidade grande não possuem sotaque na língua falada.",
+      "Todo falante nativo de uma língua a conhece plenamente."
+    ],
+    correctAnswer: 3,
+    materia: ["Linguagens"],
+    conteudo: ["Sociolinguística", "Preconceito Linguístico"],
+    imageNames: []
+}),
+
+createQuestion({
+    id: 90,
+    university: "fuvest",
+    year: 2024,
+    text: {
+      principal: "Texto I\n\"W. I. Thomas, decano dos sociólogos norte-americanos, formula um teorema básico para as ciências sociais: 'Se os indivíduos definem as situações como reais, elas são reais em suas consequências'. (...) A primeira parte do teorema constitui uma incessante lembrança de que os homens reagem não somente aos traços objetivos de uma situação, como também, e às vezes principalmente, ao sentido que a situação tem para eles. E, assim que atribuíram algum sentido à situação, sua conduta consequente, e algumas das consequências dessa conduta, são determinadas pelo sentido atribuído. (...) A profecia que se cumpre por si mesma é, inicialmente, uma definição falsa da situação que provoca uma nova conduta, a qual, por sua vez, converte em verdadeiro o conceito originalmente falso.\"\nMERTON, Robert. Sociologia: Teoria e Estrutura. São Paulo: Editora Mestre Jou, 1970. p.515-517.\n\nTexto II\n\"Depois de alguns anos inseridos nesta lógica de abuso e privações de distintos tipos, o detento é novamente colocado em liberdade. (...) Conseguir um trabalho não é tão fácil como parece, já que mesmo as atividades menos qualificadas e manuais (como as relacionadas a limpeza, serviços gerais, construção civil, dentre outras) demandam 'atestado de bons antecedentes e a marca da passagem pela cadeia pode significar um indesejável pertencimento ao mundo do crime' (Ramalho, 2018, p. 91). (...) O fator [condicionante da reincidência] mais citado, presente em 44% dos textos [sobre o tema], foi a baixa qualificação e as poucas oportunidades, sendo essa a explicação padrão de boa parte da literatura para a reincidência.\"\nRIBEIRO, Ludmila; OLIVEIRA, Valéria. Reincidência e reentrada na prisão no Brasil: o que os estudos dizem sobre os fatores que contribuem para essa trajetória. Artigo Estratégico 56. São Paulo: Instituto Igarapé, 2022. p.10-14.\n\nAplicando a noção proposta por Robert Merton, no texto I, ao cenário descrito no texto II, qual definição da situação das pessoas egressas do sistema prisional pelos possíveis empregadores no mercado de trabalho tornaria a reincidência criminal uma \"profecia que se cumpre por si mesma\"?",
+      subItens: []
+    },
+    options: [
+      "Pessoas egressas do sistema prisional têm dificuldade de conseguir emprego no mercado de trabalho porque são estigmatizadas.",
+      "Pessoas egressas do sistema prisional têm a mesma chance de conseguir empregos que o restante da população, razão pela qual não devem ser privilegiadas pelos empregadores.",
+      "Pessoas egressas do sistema prisional já foram condenadas e cumpriram pena pelo crime cometido e merecem a oportunidade de trabalhar para recomeçarem a vida.",
+      "Pessoas egressas do sistema prisional voltarão a cometer crimes e, por isso, não devem ser contratadas para trabalhar.",
+      "Pessoas egressas do sistema prisional conseguem somente trabalhos informais e de baixa remuneração por terem pouca qualificação e dificuldades para conseguir seus documentos."
+    ],
+    correctAnswer: 3,
+    materia: ["Sociologia"],
+    conteudo: ["Teoria Sociológica", "Desigualdade Social", "Criminalidade"],
+    imageNames: []
+})
