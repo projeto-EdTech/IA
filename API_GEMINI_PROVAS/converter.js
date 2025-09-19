@@ -37,11 +37,16 @@ function escapeString(text) {
  * @returns {string} - Uma string contendo todas as chamadas `createQuestion` formatadas.
  */
 function convertJsonToScript(jsonData) {
-    if (!jsonData || !Array.isArray(jsonData.questoes)) {
+    // *** INÍCIO DA SOLUÇÃO ***
+    // Procura pelos dados da prova, seja no objeto principal ou dentro de "prova"
+    const provaData = jsonData.prova || jsonData;
+    // *** FIM DA SOLUÇÃO ***
+
+    if (!provaData || !Array.isArray(provaData.questoes)) {
         return '';
     }
 
-    const questoesValidas = jsonData.questoes.filter(questao => questao.opcaoCorreta !== null);
+    const questoesValidas = provaData.questoes.filter(questao => questao.opcaoCorreta !== null);
 
     const scriptBlocks = questoesValidas.map(questao => {
         const correctAnswerIndex = questao.opcaoCorreta.toString().toUpperCase().charCodeAt(0) - 'A'.charCodeAt(0);
@@ -60,29 +65,28 @@ function convertJsonToScript(jsonData) {
 
         if (Array.isArray(questao.conteudo)) {
             questao.conteudo.forEach(item => {
-                const parts = item.split(' – ').map(s => s.trim());
-                const materia = parts[0];
-                const conteudoEspecifico = parts[1];
+                if(typeof item === 'string'){
+                    const parts = item.split(' – ').map(s => s.trim());
+                    const materia = parts[0];
+                    const conteudoEspecifico = parts[1];
 
-                if (materia) {
-                    materias.add(materia);
-                }
-                if (conteudoEspecifico) {
-                    conteudos.push(conteudoEspecifico);
+                    if (materia) {
+                        materias.add(materia);
+                    }
+                    if (conteudoEspecifico) {
+                        conteudos.push(conteudoEspecifico);
+                    }
                 }
             });
         }
         
-        // *** INÍCIO DA SOLUÇÃO ***
-        // Formata tanto a matéria quanto o conteúdo como arrays de strings
         const materiaFinal = `[${Array.from(materias).map(m => `"${escapeString(m)}"`).join(', ')}]`;
         const conteudoFinal = `[${conteudos.map(c => `"${escapeString(c)}"`).join(', ')}]`;
-        // *** FIM DA SOLUÇÃO ***
-
+        
         return `createQuestion({
     id: ${questao.numeroEnunciado || 0},
-    university: "${escapeString(jsonData.siglaUniversidade).toLowerCase()}",
-    year: ${jsonData.ano},
+    university: "${escapeString(provaData.siglaUniversidade).toLowerCase()}",
+    year: ${provaData.ano},
     text: {
       principal: "${escapeString(questao.enunciado)}",
       subItens: []
@@ -131,7 +135,12 @@ function processFiles() {
             const fileContent = fs.readFileSync(inputFilePath, 'utf8');
             const jsonData = JSON.parse(fileContent);
 
-            const universityName = jsonData.siglaUniversidade ? jsonData.siglaUniversidade.toLowerCase() : 'outros';
+            // *** INÍCIO DA ALTERAÇÃO ***
+            // Procura pelos dados da prova para pegar o nome da universidade
+            const provaData = jsonData.prova || jsonData;
+            // *** FIM DA ALTERAÇÃO ***
+
+            const universityName = provaData.siglaUniversidade ? provaData.siglaUniversidade.toLowerCase() : 'outros';
             const universityOutputDir = path.join(outputDir, universityName);
 
             const outputFileName = `${path.basename(fileName, '.json')}.js`;
