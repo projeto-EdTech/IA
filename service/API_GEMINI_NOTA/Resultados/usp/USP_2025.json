@@ -1,0 +1,1178 @@
+{
+  "universidade": "Universidade de São Paulo",
+  "siglaUniversidade": "USP",
+  "vestibular": "FUVEST",
+  "ano": 2025,
+  "cursos": [
+    {
+      "nomeCurso": "Biotecnologia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Biotecnologia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Biotecnologia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Ciências dos Alimentos",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Ciências dos Alimentos",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciências dos Alimentos",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 54
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Gerontologia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Gerontologia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Gerontologia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 79
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 71
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 54
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Obstetrícia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Obstetrícia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Obstetrícia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 65
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 66
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Saúde Pública",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Saúde Pública",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Saúde Pública",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Treinamento B (Biológicas)",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Treinamento B (Biológicas)",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Treinamento B (Biológicas)",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica; Engenharia Bioquímica; Engenharia de Biossistemas",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica; Engenharia Bioquímica; Engenharia de Biossistemas",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica; Engenharia Bioquímica; Engenharia de Biossistemas",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciências da Natureza",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Ciências da Natureza",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciências da Natureza",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciências Exatas",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Ciências Exatas",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciências Exatas",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Computação",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 63
+    },
+    {
+      "nomeCurso": "Computação",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Computação",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Engenharia Aeronáutica",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 73
+    },
+    {
+      "nomeCurso": "Engenharia Aeronáutica",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Engenharia Aeronáutica",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica e de Computação",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 65
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica e de Computação",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica e de Computação",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Física; Engenharia de Produção; Engenharia Química",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 66
+    },
+    {
+      "nomeCurso": "Engenharia Física; Engenharia de Produção; Engenharia Química",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Física; Engenharia de Produção; Engenharia Química",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Mecatrônica; Engenharia Mecânica; Engenharia de Produção",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 61
+    },
+    {
+      "nomeCurso": "Engenharia Mecatrônica; Engenharia Mecânica; Engenharia de Produção",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Mecatrônica; Engenharia Mecânica; Engenharia de Produção",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Naval",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 64
+    },
+    {
+      "nomeCurso": "Engenharia Naval",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Engenharia Naval",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Física Computacional / Física Biomolecular / Meteorologia / Geofísica",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Física Computacional / Física Biomolecular / Meteorologia / Geofísica",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Física Computacional / Física Biomolecular / Meteorologia / Geofísica",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Física Médica",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Física Médica",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Física Médica",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Geociências e Educação Ambiental",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Geociências e Educação Ambiental",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Geociências e Educação Ambiental",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Geofísica",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Geofísica",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Geofísica",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Informática Biomédica",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Informática Biomédica",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Informática Biomédica",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Licenciatura em Matemática / Física",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Licenciatura em Matemática / Física",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Licenciatura em Matemática / Física",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Matemática Aplicada",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 58
+    },
+    {
+      "nomeCurso": "Matemática Aplicada",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Matemática Aplicada",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Treinamento E (Exatas)",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 61
+    },
+    {
+      "nomeCurso": "Treinamento E (Exatas)",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Treinamento E (Exatas)",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Administração, Ciências Contábeis, Economia, Finanças e Negócios",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 51
+    },
+    {
+      "nomeCurso": "Administração, Ciências Contábeis, Economia, Finanças e Negócios",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Administração, Ciências Contábeis, Economia, Finanças e Negócios",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Administração, Ciências Atuariais, Ciências Contábeis e Ciências Econômicas",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 58
+    },
+    {
+      "nomeCurso": "Administração, Ciências Atuariais, Ciências Contábeis e Ciências Econômicas",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Administração, Ciências Atuariais, Ciências Contábeis e Ciências Econômicas",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciências Econômicas e Administração",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 51
+    },
+    {
+      "nomeCurso": "Ciências Econômicas e Administração",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Ciências Econômicas e Administração",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Arquitetura",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 61
+    },
+    {
+      "nomeCurso": "Arquitetura",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Arquitetura",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Arquitetura",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Arquitetura",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Arquitetura",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 59
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Audiovisual",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 63
+    },
+    {
+      "nomeCurso": "Audiovisual",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 54
+    },
+    {
+      "nomeCurso": "Audiovisual",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Biblioteconomia e Ciência da Informação",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Biblioteconomia e Ciência da Informação",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Biblioteconomia e Ciência da Informação",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Biblioteconomia e Ciência da Informação",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Biblioteconomia e Ciência da Informação",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Biblioteconomia e Ciência da Informação",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 59
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 63
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Editoração",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 51
+    },
+    {
+      "nomeCurso": "Editoração",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Editoração",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Educomunicação",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Educomunicação",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Educomunicação",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Gestão Ambiental",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Gestão Ambiental",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Gestão Ambiental",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Gestão de Políticas Públicas",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Gestão de Políticas Públicas",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Gestão de Políticas Públicas",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "História",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "História",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "História",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Marketing",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Marketing",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Marketing",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Publicidade e Propaganda",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 59
+    },
+    {
+      "nomeCurso": "Publicidade e Propaganda",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Publicidade e Propaganda",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 66
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Têxtil e Moda",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 51
+    },
+    {
+      "nomeCurso": "Têxtil e Moda",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Têxtil e Moda",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Treinamento H (Humanas)",
+      "modalidade": "Ampla Concorrência",
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Treinamento H (Humanas)",
+      "modalidade": "Candidatos de Escola Pública",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Treinamento H (Humanas)",
+      "modalidade": "Candidatos de Escola Pública – Grupo PPI",
+      "notaCorte": 27
+    }
+  ]
+}

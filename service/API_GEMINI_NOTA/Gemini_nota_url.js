@@ -1,27 +1,42 @@
 import fs from "fs";
 import path from "path";
-import "dotenv/config";
+import dotenv from "dotenv";
 import { GoogleGenAI } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+// --- Carregamento robusto do .env ---
+// 1. Carrega o .env do diretório atual (onde o script está)
+dotenv.config();
 
-// Utilitário simples de logs com timestamp e níveis
-const ts = () => new Date().toISOString();
-const log = {
-  info: (...args) => console.log(`[${ts()}] [INFO]`, ...args),
-  warn: (...args) => console.warn(`[${ts()}] [WARN]`, ...args),
-  error: (...args) => console.error(`[${ts()}] [ERROR]`, ...args),
-  step: (label) => console.log(`\n[${ts()}] [STEP] ${label}`),
-};
+// 2. Se a chave AINDA não foi encontrada, tenta carregar da pasta pai (raiz do projeto)
+if (!process.env.GEMINI_API_KEY) {
+  const altEnvPath = path.resolve(process.cwd(), "../.env");
+  if (fs.existsSync(altEnvPath)) {
+    dotenv.config({ path: altEnvPath });
+  }
+}
+
+// --- Validação explícita da Chave API ---
+if (!process.env.GEMINI_API_KEY) {
+  console.error(
+    "\nERRO CRÍTICO: GEMINI_API_KEY não foi encontrada!\n\n" +
+    "Por favor, siga estes passos:\n" +
+    "1. Crie um arquivo chamado `.env` na mesma pasta deste script (ou na raiz do projeto 'SimulaVest-IA').\n" +
+    "2. Dentro deste arquivo .env, adicione a seguinte linha (substituindo 'SUA_CHAVE_API_AQUI'):\n" +
+    "   GEMINI_API_KEY=SUA_CHAVE_API_AQUI\n\n" +
+    "O script não pode continuar sem a chave.\n"
+  );
+  process.exit(1); // Encerra o script imediatamente
+}
+
+// Agora esta linha é segura, pois já validamos a chave
+const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 /**
  * Função de upload de PDF remoto.
  */
 async function uploadRemotePDF(url, displayName) {
-  log.step(`Baixando PDF remoto`);
-  log.info(`URL: ${url}`);
+  console.log(`Baixando PDF remoto: ${displayName}`);
   const pdfBuffer = await fetch(url).then((response) => response.arrayBuffer());
-  log.info(`PDF baixado (${Number(pdfBuffer?.byteLength || 0).toLocaleString()} bytes). Iniciando upload para Gemini Files...`);
   const fileBlob = new Blob([pdfBuffer], { type: "application/pdf" });
 
   const file = await ai.files.upload({
@@ -31,20 +46,19 @@ async function uploadRemotePDF(url, displayName) {
     },
   });
 
-  log.info(`Upload concluído. name='${file.name}', mimeType='${file.mimeType}'. Aguardando processamento...`);
+  console.log(`Upload concluído. Aguardando processamento...`);
   // Aguarda o processamento
   let attempts = 0;
   let getFile = await ai.files.get({ name: file.name });
   while (getFile.state === "PROCESSING") {
     attempts += 1;
-    log.info(`Status do arquivo: ${getFile.state} (tentativa ${attempts})`);
+    console.log(`Status do arquivo: ${getFile.state} (tentativa ${attempts})`);
     await new Promise((resolve) => setTimeout(resolve, 5000));
     getFile = await ai.files.get({ name: file.name });
   }
   if (getFile.state === "FAILED") {
     throw new Error("O processamento do arquivo PDF falhou.");
   }
-  log.info(`Arquivo '${displayName}' processado e ATIVO. state='${getFile.state}'.`);
   return file;
 }
 
@@ -110,19 +124,16 @@ Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estr
 
 /**
  * Função principal do serviço.
- * (Removido o 'export', pois agora é um script local)
  */
 async function processCutoffScores(pdfUrl) {
-  log.step(`Iniciando processamento do PDF de Notas de Corte`);
-  log.info(`Alvo: ${pdfUrl}`);
-
+  console.log(`Iniciando processamento do PDF de Notas de Corte`);
     let file;
     try {
     console.time("Processando PDF de Notas de Corte");
         file = await uploadRemotePDF(pdfUrl, "PDF_Notas_de_Corte");
         console.timeEnd("Processando PDF de Notas de Corte");
     } catch (error) {
-    log.error("Erro durante o upload/processamento do PDF:", error?.message || error);
+    console.error("Erro durante o upload/processamento do PDF:", error?.message || error);
         throw new Error("Falha no upload do arquivo para a API do Gemini.");
     }
 
@@ -133,8 +144,7 @@ async function processCutoffScores(pdfUrl) {
       ]}
     ];
 
-  log.step("Enviando requisição para o modelo Gemini");
-  log.info(`Modelo: 'gemini-2.5-flash' | temperature: 0.1 | maxTokens: 8192`);
+  console.log("Enviando requisição para o modelo Gemini");
     console.time("Processamento de Conteúdo Gemini");
     
     let response;
@@ -161,12 +171,12 @@ async function processCutoffScores(pdfUrl) {
             ],
         });
   } catch (apiError) {
-    log.error("Erro da API do Gemini:", apiError?.message || apiError);
+    console.error("Erro da API do Gemini:", apiError?.message || apiError);
         throw new Error("A API do Gemini retornou um erro durante o processamento.");
     }
     
     console.timeEnd("Processamento de Conteúdo Gemini");
-  log.info("Resposta recebida do modelo. Iniciando extração do JSON...");
+  console.log("Resposta recebida do modelo. Iniciando extração do JSON...");
 
     const responseContentParts = response.candidates[0].content.parts;
     let jsonData;
@@ -174,19 +184,19 @@ async function processCutoffScores(pdfUrl) {
     try {
      if (responseContentParts && responseContentParts[0] && responseContentParts[0].functionCall) {
             jsonData = responseContentParts[0].functionCall.args;
-      log.info("JSON extraído via functionCall.");
+      console.log("JSON extraído via functionCall.");
         } else {
             const responseTextContent = responseContentParts[0].text;
             const match = responseTextContent.match(/\{[\s\S]*\}/);
             if (match && match[0]) {
                 jsonData = JSON.parse(match[0]);
-        log.warn("functionCall ausente. JSON extraído do texto (fallback).");
+        console.log("functionCall ausente. JSON extraído do texto (fallback).");
             } else {
                 throw new Error("Nenhum objeto JSON ou functionCall encontrado na resposta.");
             }
         }
     } catch (e) {
-    log.error("Falha ao processar o JSON:", e?.message || e);
+    console.error("Falha ao processar o JSON:", e?.message || e);
 
         const logsDir = path.join(process.cwd(), "Erros");
         if (!fs.existsSync(logsDir)) {
@@ -203,36 +213,54 @@ async function processCutoffScores(pdfUrl) {
             ${JSON.stringify(response.candidates[0].content.parts, null, 2)}
             `;
   fs.writeFileSync(logFilePath, logContent, "utf-8");
-  log.error(`>>> Resposta bruta salva em: ${logFilePath}`);
+  console.error(`>>> Resposta bruta salva em: ${logFilePath}`);
         
         throw new Error("Falha ao processar a resposta JSON da IA.");
     }
 
     // Salvar o JSON em um arquivo no repositório "Resultados"
     try {
-        const resultadosDir = path.join(process.cwd(), "Resultados");
-        if (!fs.existsSync(resultadosDir)) {
-            fs.mkdirSync(resultadosDir, { recursive: true });
-        }
+      // Obter os dados para os caminhos
+      const sigla = jsonData.siglaUniversidade;
+      const ano = jsonData.ano;
+      
+      // Converter o ano para string (útil para o nome do ARQUIVO)
+      const anoStr = String(ano);
 
-        const sigla = jsonData.siglaUniversidade || 'UNIVERSIDADE';
-        const ano = jsonData.ano || 'ANO';
-        const vestibular = jsonData.nomeVestibular || 'VESTIBULAR';
-        
-        const safeSigla = sigla.replace(/[^a-z0-9]/gi, '_');
-        const safeVestibular = vestibular.replace(/[^a-z0-9]/gi, '_');
+      // --- Slug da PASTA baseado na SIGLA ---
+      // Usa a SIGLA, remove acentos, caracteres especiais e troca espaços por traços
+      const vestibularSlug = sigla.toLowerCase()
+        .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+        .replace(/[^a-z0-9\s-]/gi, '')
+        .replace(/[\s_]+/g, '-');
+      
+      // --- Caminho do diretório simplificado (usando o slug da sigla) ---
+      // O caminho agora é /Resultados/[slug_da_sigla] (ex: /Resultados/fuvest)
+      const targetDirectory = path.join(process.cwd(), "Resultados", vestibularSlug);
 
-        const fileName = `${safeSigla}_${safeVestibular}_${ano}.json`;
-        const filePath = path.join(resultadosDir, fileName);
+      // Garantir que o caminho completo exista (ex: /Resultados/fuvest)
+      if (!fs.existsSync(targetDirectory)) {
+          fs.mkdirSync(targetDirectory, { recursive: true });
+      }
 
-        fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), "utf-8");
-  const cursosCount = Array.isArray(jsonData?.cursos) ? jsonData.cursos.length : 0;
-  log.step("Resultado salvo");
-  log.info(`Arquivo: ${filePath}`);
-  log.info(`Cursos extraídos: ${cursosCount}`);
+      // --- Nome do ARQUIVO ---
+      // Limpa os nomes para usar no arquivo
+      const safeSigla = sigla.replace(/[^a-z0-9]/gi, '_');
+      const fileName = `${safeSigla}_${anoStr}.json`;
+
+      // Criar o caminho final do ARQUIVO (dentro da nova pasta)
+      const filePath = path.join(targetDirectory, fileName);
+
+      // Salvar o arquivo
+      fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), "utf-8");
+      
+      const cursosCount = Array.isArray(jsonData?.cursos) ? jsonData.cursos.length : 0;
+      console.log("Resultado salvo");
+      console.log(`Arquivo: ${filePath}`);
+      console.log(`Cursos extraídos: ${cursosCount}`);
 
     } catch (writeError) {
-  log.error(`ALERTA: Falha ao salvar o arquivo JSON em /Resultados: ${writeError?.message || writeError}`);
+      console.error(`ALERTA: Falha ao salvar o arquivo JSON em /Resultados: ${writeError?.message || writeError}`);
     }
 
     // Retorna o JSON (agora para a função 'main')
@@ -241,18 +269,15 @@ async function processCutoffScores(pdfUrl) {
 
 
 /**
- * NOVO: Função 'main' para executar o script localmente
+ * Função 'main' para executar o script localmente
  */
 async function main() {
   // URL do PDF: por argumento (1º), env PDF_URL ou fallback manual
   const pdfUrl = "https://www.fuvest.br/wp-content/uploads/fuvest_2025_notas_de_corte.pdf";
-
-  log.step(`Iniciando Processamento Local`);
-  log.info(`Arquivo para processar: ${pdfUrl}`);
-
+  console.log(`Iniciando Processamento Local`);
   if (!pdfUrl) {
-    log.error(`URL do PDF não definida. Forneça via 'node Gemini_nota_url.js <URL>' ou defina a variável de ambiente PDF_URL.`);
-    process.exitCode = 1;
+    console.error(`URL do PDF não definida. Forneça via 'node Gemini_nota_url.js <URL>' ou defina a variável de ambiente PDF_URL.`);
+    // REMOVIDO: process.exitCode = 1;
     return;
   }
 
@@ -262,24 +287,13 @@ async function main() {
     
     // Loga que o processo foi um sucesso
     // A função processCutoffScores já salva o arquivo
-    log.step(`Processamento Local Concluído`);
-    log.info("JSON extraído e salvo na pasta /Resultados.");
-    process.exitCode = 0;
+    console.log(`Processamento Local Concluído`);
+    console.log("JSON extraído e salvo na pasta /Resultados.");
 
   } catch (error) {
-    log.error(`ERRO GERAL NO PROCESSAMENTO LOCAL`);
-    log.error(error?.stack || error?.message || String(error));
-    process.exitCode = 1;
+    console.error(`ERRO GERAL NO PROCESSAMENTO LOCAL`);
+    console.error(error?.stack || error?.message || String(error));
   }
 }
-
-// Executa a função main
-// Handlers globais para melhor visibilidade de erros inesperados
-process.on('unhandledRejection', (reason) => {
-  log.error('Unhandled Rejection capturado:', reason?.stack || reason);
-});
-process.on('uncaughtException', (err) => {
-  log.error('Uncaught Exception capturada:', err?.stack || err);
-});
 
 main();
