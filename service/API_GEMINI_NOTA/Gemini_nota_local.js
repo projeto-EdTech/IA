@@ -28,11 +28,48 @@ if (!process.env.GEMINI_API_KEY) {
   process.exit(1); // Encerra o script imediatamente
 }
 
-// Inicialização da API
+// Agora esta linha é segura, pois já validamos a chave
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
 /**
+ * Função de upload de PDF LOCAL.
+ * (Modificada de 'uploadRemotePDF' para 'uploadLocalPDF')
+ */
+async function uploadLocalPDF(filePath, displayName) {
+  console.log(`Lendo PDF local: ${displayName}`);
+
+  // Ler o arquivo do disco para um Buffer
+  const pdfBuffer = fs.readFileSync(filePath);
+
+  // Criar o Blob a partir do Buffer (similar ao que o fetch fazia)
+  const fileBlob = new Blob([pdfBuffer], { type: "application/pdf" });
+
+  const file = await ai.files.upload({
+    file: fileBlob,
+    config: {
+      displayName: displayName,
+    },
+  });
+
+  console.log(`Upload concluído. Aguardando processamento...`);
+  // Aguarda o processamento
+  let attempts = 0;
+  let getFile = await ai.files.get({ name: file.name });
+  while (getFile.state === "PROCESSING") {
+    attempts += 1;
+    console.log(`Status do arquivo: ${getFile.state} (tentativa ${attempts})`);
+    await new Promise((resolve) => setTimeout(resolve, 5000));
+    getFile = await ai.files.get({ name: file.name });
+  }
+  if (getFile.state === "FAILED") {
+    throw new Error("O processamento do arquivo PDF falhou.");
+  }
+  return file;
+}
+
+/**
  * JSON Schema: Definido para extrair notas de corte.
+ * (Sem alterações)
  */
 const jsonSchema = {
   type: "object",
@@ -65,9 +102,10 @@ const jsonSchema = {
 
 /**
  * Prompt: Focado em extrair dados de notas de corte.
+ * (Sem alterações)
  */
-const promptText = `
-Você é um assistente de IA especialista em análise de documentos de vestibulares. Sua única função é processar o arquivo PDF fornecido, que contém uma lista ou tabela de notas de corte.
+const prompt = [
+  `Você é um assistente de IA especialista em análise de documentos de vestibulares. Sua única função é processar o arquivo PDF fornecido, que contém uma lista ou tabela de notas de corte.
 
 Sua tarefa é ler e interpretar o documento e extrair as seguintes informações:
 - Metadados: O nome da Universidade, a sigla (se houver), o nome do vestibular e o ano.
@@ -87,69 +125,63 @@ Sua tarefa é ler e interpretar o documento e extrair as seguintes informações
     * 'notaCorte' DEVE ser um 'number'.
 
 Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
-`;
+`,
+];
 
-async function main() {
-  // *** ATENÇÃO ***
-  // Defina o caminho para o seu PDF de NOTAS DE CORTE local aqui
-  const localPdfPath = "Notas_Corte_Local/UFPR_2024_NotasCorte.pdf"; // <--- MUDE AQUI
-
-  // Verifica se o arquivo existe antes de continuar
-  if (!fs.existsSync(localPdfPath)) {
+/**
+ * Função principal do serviço.
+ * (Modificada para aceitar um caminho de arquivo local 'pdfPath')
+ */
+async function processCutoffScores(pdfPath) {
+  const pdfFileName = path.basename(pdfPath);
+  console.log(`\n--- Iniciando processamento do PDF: ${pdfFileName} ---`);
+  let file;
+  try {
+    console.time(`Processando PDF: ${pdfFileName}`);
+    // (Modificado para usar 'uploadLocalPDF')
+    file = await uploadLocalPDF(pdfPath, pdfFileName);
+    console.timeEnd(`Processando PDF: ${pdfFileName}`);
+  } catch (error) {
     console.error(
-      `ERRO: Arquivo PDF local não encontrado no caminho: ${localPdfPath}`
+      "Erro durante o upload/processamento do PDF:",
+      error?.message || error
     );
-    console.log(
-      `Por favor, verifique o nome do arquivo e a pasta "Notas_Corte_Local".`
-    );
-    return; // Para a execução
+    throw new Error("Falha no upload do arquivo para a API do Gemini.");
   }
 
-  // Array do prompt, combinando texto e o arquivo local (inlineData)
-  const promptParts = [
-    { text: promptText },
+  const contents = [
     {
-      inlineData: {
-        mimeType: "application/pdf",
-        data: Buffer.from(fs.readFileSync(localPdfPath)).toString("base64"),
-      },
+      parts: [
+        { text: prompt[0] },
+        { fileData: { mimeType: file.mimeType, fileUri: file.uri } },
+      ],
     },
   ];
 
+  console.log("Enviando requisição para o modelo Gemini");
+  console.time("Processamento de Conteúdo Gemini");
+
+  let response;
   try {
-    console.log(`Iniciando processamento do arquivo local: ${localPdfPath}`);
-
-    const contents = [
-      {
-        role: "user",
-        parts: promptParts,
-      },
-    ];
-
-    console.log("Enviando requisição para a IA...");
-    console.time("Processamento de Conteúdo Gemini");
-
-    // Chamada da API usando `tools` (Function Calling)
-    const result = await ai.models.generateContent({
-      model: "gemini-1.5-flash", // Recomendo usar 1.5-flash ou 1.5-pro para inlineData
+    response = await ai.models.generateContent({
+      model: "gemini-2.5-flash",
       contents: contents,
       generationConfig: {
-        temperature: 0.1, // Temperatura baixa para dados
+        temperature: 0.1,
         maxOutputTokens: 8192,
       },
       tools: [
         {
           functionDeclarations: [
             {
-              name: "extrair_notas_corte", // Nome da função para notas de corte
+              name: "extrair_notas_corte",
               description: "Extrai os dados estruturados de notas de corte.",
-              parameters: jsonSchema, // Usando o schema de notas de corte
+              parameters: jsonSchema,
             },
           ],
         },
       ],
       safetySettings: [
-        // Configurações de segurança da sua referência
         { category: "HARM_CATEGORY_HARASSMENT", threshold: "BLOCK_NONE" },
         { category: "HARM_CATEGORY_HATE_SPEECH", threshold: "BLOCK_NONE" },
         { category: "HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold: "BLOCK_NONE" },
@@ -159,157 +191,180 @@ async function main() {
         },
       ],
     });
-    console.timeEnd("Processamento de Conteúdo Gemini");
-    console.log("Resposta recebida. Processando JSON...");
-
-    const response = result;
-
-    // Lógica de tratamento de erro de resposta vazia (da sua referência)
-    if (
-      !response ||
-      !response.candidates ||
-      response.candidates.length === 0
-    ) {
-      console.error(
-        "FALHA CRÍTICA: A resposta da API não contém 'candidates' ou o array está vazio."
-      );
-      const logContent = `A resposta da API foi recebida, mas estava vazia ou foi bloqueada.\n\n--- Resposta Bruta Completa (Necessária para Diagnóstico) ---\n${JSON.stringify(
-        result,
-        null,
-        2
-      )}`;
-      try {
-        const logsDir = path.join(process.cwd(), "Erros");
-        if (!fs.existsSync(logsDir)) {
-          fs.mkdirSync(logsDir, { recursive: true });
-        }
-        const timestamp = new Date().toISOString().replace(/:/g, "-");
-        const logFilePath = path.join(
-          logsDir,
-          `erro_resposta_notas_${timestamp}.txt`
-        );
-        fs.writeFileSync(logFilePath, logContent, "utf-8");
-        console.error(`>>> Detalhes da falha salvos em: ${logFilePath}`);
-      } catch (fileError) {
-        console.error(
-          "ERRO ADICIONAL: Não foi possível escrever o arquivo de log. Verifique as permissões da pasta.",
-          fileError.message
-        );
-      }
-      return;
-    }
-
-    // --- INÍCIO DA CORREÇÃO 1: Extração robusta do JSON ---
-    const responseParts = response.candidates[0].content.parts;
-    let jsonData;
-
-    try {
-      if (responseParts && responseParts[0] && responseParts[0].functionCall) {
-        const args = responseParts[0].functionCall.args;
-
-        // Verificamos se 'args' é uma string. Se for, fazemos o parse.
-        if (typeof args === "string") {
-          jsonData = JSON.parse(args);
-          console.log("JSON extraído via functionCall (string parseada).");
-        } else {
-          jsonData = args; // Já é um objeto
-          console.log("JSON extraído via functionCall (objeto direto).");
-        }
-      } else {
-        console.warn(
-          "WARN: A resposta não veio como functionCall. Tentando extrair do texto (fallback)."
-        );
-        const responseTextContent = responseParts[0]?.text || "";
-        const match = responseTextContent.match(/\{[\s\S]*\}/);
-        if (match && match[0]) {
-          jsonData = JSON.parse(match[0]);
-          console.log("JSON extraído diretamente do texto (fallback bem-sucedido).");
-        } else {
-          throw new Error(
-            "Nenhum objeto JSON ou functionCall encontrado na resposta."
-          );
-        }
-      }
-    } catch (e) {
-      // Lógica de log de erro de parse (da sua referência)
-      console.error(
-        "FALHA CRÍTICA: Não foi possível processar o JSON da resposta.",
-        e.message
-      );
-
-      const logsDir = path.join(process.cwd(), "Erros");
-      if (!fs.existsSync(logsDir)) {
-        fs.mkdirSync(logsDir, { recursive: true });
-      }
-      const timestamp = new Date().toISOString().replace(/:/g, "-");
-      const logFilePath = path.join(
-        logsDir,
-        `erro_json_notas_${timestamp}.txt`
-      );
-      const logContent = `Falha ao processar o JSON (Notas de Corte) recebido da API.\n\nMensagem de Erro: ${
-        e.message
-      }\n\n--- Resposta Bruta ---\n${JSON.stringify(response, null, 2)}`;
-      fs.writeFileSync(logFilePath, logContent, "utf-8");
-
-      console.error(
-        `>>> A resposta bruta que causou o erro foi salva em: ${logFilePath}`
-      );
-      return;
-    }
-    // --- FIM DA CORREÇÃO 1 ---
-
-
-    // --- INÍCIO DA CORREÇÃO 2: Salvamento na pasta correta ---
-    try {
-      // Obter os dados para os caminhos
-      const sigla = jsonData.siglaUniversidade || 'UNIVERSIDADE';
-      const ano = jsonData.ano || 'ANO';
-      const vestibular = jsonData.nomeVestibular || 'VESTIBULAR';
-      
-      // Converter o ano para string (útil para o nome do ARQUIVO)
-      const anoStr = String(ano);
-
-      // Slug da PASTA baseado na SIGLA
-      const vestibularSlug = sigla.toLowerCase()
-        .normalize("NFD").replace(/[\u0300-\u036f]/g, "") // Remove acentos
-        .replace(/[^a-z0-9\s-]/gi, '') // Remove caracteres não alfanuméricos
-        .replace(/[\s_]+/g, '-');      // Substitui espaços
-      
-      // Caminho do diretório (ex: /Resultados/fuvest)
-      const targetDirectory = path.join(process.cwd(), "Resultados", vestibularSlug);
-
-      // Garantir que o caminho completo exista
-      if (!fs.existsSync(targetDirectory)) {
-          fs.mkdirSync(targetDirectory, { recursive: true });
-      }
-
-      // Nome do ARQUIVO
-      const safeSigla = sigla.replace(/[^a-z0-9]/gi, '_');
-      const safeVestibular = vestibular.replace(/[^a-z0-9]/gi, '_');
-      
-      // Adiciona "_local" para diferenciar dos processados por URL
-      const fileName = `${safeSigla}_${safeVestibular}_${anoStr}_local.json`;
-
-      // Criar o caminho final do ARQUIVO (dentro da nova pasta)
-      const filePath = path.join(targetDirectory, fileName);
-
-      // Salvar o arquivo
-      fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), "utf-8");
-      
-      const cursosCount = Array.isArray(jsonData?.cursos) ? jsonData.cursos.length : 0;
-      console.log("Resultado salvo");
-      console.log(`Arquivo: ${filePath}`);
-      console.log(`Cursos extraídos: ${cursosCount}`);
-
-    } catch (writeError) {
-      console.error(`ALERTA: Falha ao salvar o arquivo JSON em /Resultados: ${writeError?.message || writeError}`);
-    }
-    // --- FIM DA CORREÇÃO 2 ---
-
-  } catch (error) {
-    console.error("Ocorreu um erro inesperado na função main:", error);
+  } catch (apiError) {
+    console.error("Erro da API do Gemini:", apiError?.message || apiError);
+    throw new Error("A API do Gemini retornou um erro durante o processamento.");
   }
+
+  console.timeEnd("Processamento de Conteúdo Gemini");
+  console.log("Resposta recebida do modelo. Iniciando extração do JSON...");
+
+  const responseContentParts = response.candidates[0].content.parts;
+  let jsonData;
+
+  try {
+    if (
+      responseContentParts &&
+      responseContentParts[0] &&
+      responseContentParts[0].functionCall
+    ) {
+      jsonData = responseContentParts[0].functionCall.args;
+      console.log("JSON extraído via functionCall.");
+    } else {
+      const responseTextContent = responseContentParts[0].text;
+      const match = responseTextContent.match(/\{[\s\S]*\}/);
+      if (match && match[0]) {
+        jsonData = JSON.parse(match[0]);
+        console.log("functionCall ausente. JSON extraído do texto (fallback).");
+      } else {
+        throw new Error(
+          "Nenhum objeto JSON ou functionCall encontrado na resposta."
+        );
+      }
+    }
+  } catch (e) {
+    console.error("Falha ao processar o JSON:", e?.message || e);
+
+    const logsDir = path.join(process.cwd(), "Erros");
+    if (!fs.existsSync(logsDir)) {
+      fs.mkdirSync(logsDir, { recursive: true });
+    }
+    const now = new Date();
+    const timestamp = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(
+      2,
+      "0"
+    )}-${String(now.getDate()).padStart(2, "0")}_${String(
+      now.getHours()
+    ).padStart(2, "0")}-${String(now.getMinutes()).padStart(2, "0")}-${String(
+      now.getSeconds()
+    ).padStart(2, "0")}`;
+    
+    // Adiciona o nome do arquivo original ao log de erro
+    const safeFileName = pdfFileName.replace(/[^a-z0-9]/gi, '_');
+    const logFileName = `erro_json_parse_${safeFileName}_${timestamp}.txt`;
+    
+    const logFilePath = path.join(logsDir, logFileName);
+    const logContent = `Ocorreu uma falha ao processar o JSON (Notas de Corte) do arquivo: ${pdfFileName}
+            Mensagem de Erro: ${e.message}
+            ---
+            Resposta Bruta Recebida:
+            ${JSON.stringify(response.candidates[0].content.parts, null, 2)}
+            `;
+    fs.writeFileSync(logFilePath, logContent, "utf-8");
+    console.error(`>>> Resposta bruta salva em: ${logFilePath}`);
+
+    throw new Error("Falha ao processar a resposta JSON da IA.");
+  }
+
+  // Salvar o JSON em um arquivo no repositório "Resultados"
+  // (Lógica de salvamento mantida, pois é baseada no conteúdo do JSON)
+  try {
+    const sigla = jsonData.siglaUniversidade;
+    const ano = jsonData.ano;
+    const anoStr = String(ano);
+
+    const vestibularSlug = sigla
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[^a-z0-9\s-]/gi, "")
+      .replace(/[\s_]+/g, "-");
+
+    const targetDirectory = path.join(
+      process.cwd(),
+      "Resultados",
+      vestibularSlug
+    );
+
+    if (!fs.existsSync(targetDirectory)) {
+      fs.mkdirSync(targetDirectory, { recursive: true });
+    }
+
+    const safeSigla = sigla.replace(/[^a-z0-9]/gi, "_");
+    const fileName = `${safeSigla}_${anoStr}.json`;
+
+    const filePath = path.join(targetDirectory, fileName);
+
+    fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), "utf-8");
+
+    const cursosCount = Array.isArray(jsonData?.cursos)
+      ? jsonData.cursos.length
+      : 0;
+    console.log("Resultado salvo");
+    console.log(`Arquivo: ${filePath}`);
+    console.log(`Cursos extraídos: ${cursosCount}`);
+    console.log(`--- Processamento de ${pdfFileName} concluído ---`);
+
+  } catch (writeError) {
+    console.error(
+      `ALERTA: Falha ao salvar o arquivo JSON em /Resultados: ${
+        writeError?.message || writeError
+      }`
+    );
+  }
+
+  // Retorna o JSON
+  return jsonData;
 }
 
-// Executa o script
+/**
+ * Função 'main' para executar o script localmente
+ * (Modificada para ler a pasta 'docs_a_processar' e processar em lote)
+ */
+async function main() {
+  console.log(`Iniciando Processamento Local em Lote`);
+
+  // Definir o caminho da pasta de entrada
+  const inputDir = path.join(process.cwd(), "docs_a_processar");
+
+  // Verificar se a pasta existe
+  if (!fs.existsSync(inputDir)) {
+    console.error(`Erro: A pasta de entrada não foi encontrada: ${inputDir}`);
+    console.error(
+      "Por favor, crie a pasta 'docs_a_processar' e coloque os PDFs nela."
+    );
+    return;
+  }
+
+  // Ler todos os arquivos da pasta
+  let filesToProcess;
+  try {
+    filesToProcess = fs
+      .readdirSync(inputDir)
+      .filter((file) => file.toLowerCase().endsWith(".pdf"));
+  } catch (readError) {
+    console.error(`Erro ao ler o diretório ${inputDir}:`, readError);
+    return;
+  }
+
+  // Verificar se há arquivos
+  if (filesToProcess.length === 0) {
+    console.log(`Nenhum arquivo .pdf encontrado em ${inputDir}. Encerrando.`);
+    return;
+  }
+
+  console.log(`Encontrados ${filesToProcess.length} PDFs para processar:`);
+  filesToProcess.forEach(file => console.log(` - ${file}`));
+
+  // Processar cada arquivo em sequência (um após o outro)
+  for (const pdfFile of filesToProcess) {
+    const pdfPath = path.join(inputDir, pdfFile);
+
+    try {
+      // Chama a função principal de processamento para CADA arquivo
+      await processCutoffScores(pdfPath);
+    } catch (error) {
+      console.error(
+        `\n!!!!!! ERRO GERAL AO PROCESSAR O ARQUIVO: ${pdfFile} !!!!!!`
+      );
+      console.error(error?.stack || error?.message || String(error));
+      console.error(`Continuando para o próximo arquivo, se houver...`);
+    }
+  }
+
+  console.log("\nProcessamento em Lote Concluído.");
+  console.log(
+    "Todos os JSONs extraídos (com sucesso) foram salvos na pasta /Resultados."
+  );
+}
 main();
