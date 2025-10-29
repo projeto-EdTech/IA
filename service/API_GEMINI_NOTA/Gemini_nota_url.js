@@ -79,9 +79,24 @@ const jsonSchema = {
         properties: {
           nomeCurso: { type: "string" },
           modalidade: { type: "string" },
+          vagas: { type: "number" },
+          inscritos: { type: "number" },
+          ausentes: { type: "number" },
+          convocadosSegundaFase: { type: "number" },
+          convocadosPorVaga: { type: "number" },
           notaCorte: { type: "number" },
         },
-        required: ["nomeCurso", "modalidade", "notaCorte"],
+        // --- CAMPOS OBRIGATÓRIOS ---
+        required: [
+          "nomeCurso",
+          "modalidade",
+          "vagas",
+          "inscritos",
+          "ausentes",
+          "convocadosSegundaFase",
+          "convocadosPorVaga",
+          "notaCorte",
+        ],
       },
     },
   },
@@ -98,24 +113,33 @@ const jsonSchema = {
  * Prompt: Focado em extrair dados de notas de corte.
  */
 const prompt = [
-`Você é um assistente de IA especialista em análise de documentos de vestibulares. Sua única função é processar o arquivo PDF fornecido, que contém uma lista ou tabela de notas de corte.
+`Você é um assistente de IA especialista em análise de documentos de vestibulares. Sua única função é processar o arquivo PDF fornecido, que contém uma lista ou tabela de notas de corte e estatísticas.
 
 Sua tarefa é ler e interpretar o documento e extrair as seguintes informações:
 - Metadados: O nome da Universidade, a sigla (se houver), o nome do vestibular e o ano.
-- Para cada curso listado:
+- Para CADA curso e modalidade listado na tabela:
   - O nome do curso.
   - A modalidade de concorrência (ex: "Ampla Concorrência", "Cota Escola Pública", "PPI", etc.).
-  - A nota de corte (apenas o número).
+  - O número de 'VAGAS'.
+  - O número de 'INSCRITOS'.
+  - O número de 'AUSENTES'.
+  - O número de 'CONVOC 2ª FASE'.
+  - O número de 'CONVOC POR VAGA'.
+  - A nota de corte (que está na coluna 'PONTOS MÍNIMO').
 
 ### **Regras Críticas de Processamento:**
 
-1.  **Extração de Tabela**: Os dados estão provavelmente em formato de tabela. Extraia CADA LINHA da tabela que contenha um curso.
+1.  **Extração de Tabela**: Os dados estão em formato de tabela. Extraia CADA LINHA da tabela que contenha um curso e uma modalidade (linhas recuadas). Linhas que são apenas o nome do curso (como "101-Biotecnologia") devem ser usadas como contexto, mas não devem gerar uma entrada de JSON sozinhas.
 2.  **Limpeza de Dados**:
     * **Cursos**: "Engenharia (Noturno)" deve ser "Engenharia". O turno não deve ser incluído no nome.
-    * **Notas**: Se a nota for "785.42", extraia o número 785.42. Se for "N/A" ou "-", ignore esta entrada. Apenas notas numéricas são válidas.
-3.  **Schema OBRIGATÓRIO**: A saída final deve ser estritamente um único objeto JSON puro. Siga o schema da função fornecida com exatidão. Não altere nenhum nome dos campos.
-    * 'nomeCurso', 'modalidade', 'notaCorte'.
-    * 'notaCorte' DEVE ser um 'number'.
+    * **Notas e Números**: Se o valor for "785.42", extraia o número 785.42. Se for "N/A" ou "-", ignore esta entrada. Apenas valores numéricos são válidos.
+3.  **Schema OBRIGATÓRIO**: A saída final deve ser estritamente um único objeto JSON puro. Siga o schema da função fornecida com exatidão.
+    **É CRUCIAL que os campos do nível raiz (nomeUniversidade, siglaUniversidade, nomeVestibular, ano) sejam preenchidos corretamente. Eles SÃO tão importantes quanto a lista de cursos.**
+    * Mapeie 'CONVOC 2ª FASE' para o campo 'convocadosSegundaFase'.
+    * Mapeie 'CONVOC POR VAGA' para o campo 'convocadosPorVaga'.
+    * Mapeie 'PONTOS MÍNIMO' para o campo 'notaCorte'.
+    * Todos os campos (vagas, inscritos, ausentes, etc.) DEVEM ser um 'number'.
+4.  **Ignorar Totais**: Ignore a(s) linha(s) "Total" no final do documento.
 
 Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
 `
@@ -219,17 +243,32 @@ async function processCutoffScores(pdfUrl) {
     }
 
     // Salvar o JSON em um arquivo no repositório "Resultados"
-    try {
-      // Obter os dados para os caminhos
+try {
+      // --- Obter e VALIDAR os dados para os caminhos ---
       const sigla = jsonData.siglaUniversidade;
       const ano = jsonData.ano;
+
+      // 1. Validação da SIGLA (Fallback: "vestibular-desconhecido")
+      if (!sigla || typeof sigla !== 'string') {
+          console.warn(`ALERTA: 'siglaUniversidade' não encontrada ou inválida no JSON. Usando fallback 'vestibular-desconhecido'.`);
+      }
+      // Se 'sigla' for undefined, null ou não-string, usa o fallback
+      const siglaValida = (sigla && typeof sigla === 'string') ? sigla : "vestibular-desconhecido";
+
+      // 2. Validação do ANO (Fallback: Ano atual)
+      const anoAtual = new Date().getFullYear();
+      if (!ano || typeof ano !== 'number') {
+          console.warn(`ALERTA: 'ano' não encontrado ou inválido no JSON. Usando fallback '${anoAtual}'.`);
+      }
+      // Se 'ano' for undefined, null ou não-número, usa o fallback
+      const anoValido = (ano && typeof ano === 'number') ? ano : anoAtual;
       
       // Converter o ano para string (útil para o nome do ARQUIVO)
-      const anoStr = String(ano);
+      const anoStr = String(anoValido); // Usa a variável validada
 
       // --- Slug da PASTA baseado na SIGLA ---
       // Usa a SIGLA, remove acentos, caracteres especiais e troca espaços por traços
-      const vestibularSlug = sigla.toLowerCase()
+      const vestibularSlug = siglaValida.toLowerCase() // Usa a variável validada
         .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
         .replace(/[^a-z0-9\s-]/gi, '')
         .replace(/[\s_]+/g, '-');
@@ -243,9 +282,8 @@ async function processCutoffScores(pdfUrl) {
           fs.mkdirSync(targetDirectory, { recursive: true });
       }
 
-      // --- Nome do ARQUIVO ---
       // Limpa os nomes para usar no arquivo
-      const safeSigla = sigla.replace(/[^a-z0-9]/gi, '_');
+      const safeSigla = siglaValida.replace(/[^a-z0-9]/gi, '_'); // Usa a variável validada
       const fileName = `${safeSigla}_${anoStr}.json`;
 
       // Criar o caminho final do ARQUIVO (dentro da nova pasta)
@@ -262,8 +300,6 @@ async function processCutoffScores(pdfUrl) {
     } catch (writeError) {
       console.error(`ALERTA: Falha ao salvar o arquivo JSON em /Resultados: ${writeError?.message || writeError}`);
     }
-
-    // Retorna o JSON (agora para a função 'main')
     return jsonData;
 }
 
